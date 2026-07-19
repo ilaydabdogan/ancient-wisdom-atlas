@@ -1,0 +1,69 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_preandprotohisto02aber
+  work_id: finnic.pre_and_proto_historic_finns.abercromby_vol2_archive
+  title: The Pre- and Proto-historic Finns, Volume 2 - The Magic Songs
+  source_url: https://archive.org/details/preandprotohisto02aber
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/internet-archive/preandprotohisto02aber-pre-and-proto-historic-finns-v2-abercromby.txt
+    checksum:
+      algorithm: sha256
+      value: aadd497380b489a1cda6ece70a7b7bd784564bcfdfb2533203009e543ee3be7c
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/internet-archive/preandprotohisto02aber-pre-and-proto-historic-finns-v2-abercromby.md
+    checksum:
+      algorithm: sha256
+      value: 7fb428f08e84aa8ccada6dd4a4f3e5ae8cc5ede4f94bad58e9d001dc5176ba71
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v2-abercromby.md
+    checksum:
+      algorithm: sha256
+      value: f41a51aeeb1ae989027bb74904eafc32c6df14901d2abbba1ee516edd5ee4fa5
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids finnic.pre_and_proto_historic_finns.abercromby_vol2_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1898 (pre-1930), US public domain. Volume 2 is a large verbatim
+      English translation of West Finnish magic songs, charms, and origin-incantations
+      (the loitsurunot). OCR of a scan; expect OCR noise.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

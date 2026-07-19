@@ -4,14 +4,12 @@ INTRODUCTORY REMARKS.
 
 The following myths were obtained in 1907 as part of the
 Ethnological and Archaeological Survey of California conducted
-by the Department of Anthropology of the University of California. Numbers i-ix were obtained in December near Red-
-ding, the county seat of Shasta county, numbers x-xxn were
+by the Department of Anthropology of the University of California. Numbers i-ix were obtained in December near Redding, the county seat of Shasta county, numbers x-xxn were
 obtained in July and August between Round Mountain and
 Montgomery creek in the same county (see notes 3a and 202 of
 text). The two sets of texts represent two not very different
 but clearly distinct dialects, the Northern Yana (gari'ei) and
-the Central Yana (gat'a'ei), of which the former may be considered more specialized phonetically. The territory formerly oc-
-cupied by these dialects may be denned as that part of Shasta
+the Central Yana (gat'a'ei), of which the former may be considered more specialized phonetically. The territory formerly occupied by these dialects may be denned as that part of Shasta
 county, California, that stretches south of Pit river from and
 including Montgomery creek, a southern affluent of that stream,
 west to a point on Pit river between Copper City and Woodman,
@@ -307,8 +305,7 @@ up. "Give me a bow," he said, being already grown up. He
 
 
 looked to the south side, looking at the bow. "Grandmother!
-I shall go outside to play, grandmother. " " No, ' ' she said, speaking to Flint Boy, "danger lies outside." "What is it, grand-
-mother ? " " All of our people were eaten up, ' ' she said, speaking
+I shall go outside to play, grandmother. " " No, ' ' she said, speaking to Flint Boy, "danger lies outside." "What is it, grandmother ? " " All of our people were eaten up, ' ' she said, speaking
 to the young man. She would not let him go outside, saying,
 "Do not go outside ! Outside lies danger. " "What is it, grandmother ? " "Do you not see that our people are not here in the
 sweat-house?" "I am not afraid, grandmother." He put out
@@ -781,8 +778,7 @@ addressing an assembled multitude.
 
 
 Q2bo'pfdiyauna: piece of bone about 1^ inches in length put under
-piece of flint and struck like lever at its other end, used to chip off fragments of flint in rough stage of preparation of arrow-head; bo'badjayau-
-k.'aina: slim flat stone used to drive bo'pcdiyauna; do' s-ite yauna: horn or
+piece of flint and struck like lever at its other end, used to chip off fragments of flint in rough stage of preparation of arrow-head; bo'badjayauk.'aina: slim flat stone used to drive bo'pcdiyauna; do' s-ite yauna: horn or
 bone implement of about 2 inches in length, used for finishing preparation
 of arrow-head by flaking off rough protuberances.
 
@@ -838,8 +834,7 @@ Brown's story of "Coyote, Heron, and Lizard" (no. xn).
 
 
 stood. Perhaps he has come to tell us something, but we do not
-understand his language. "Bu's-, bu's-, bu's-, bu's-," Humming-bird kept saying, talking at the smoke-hole of the sweat-
-house. "What he says is unintelligible," said the Geese and
+understand his language. "Bu's-, bu's-, bu's-, bu's-," Humming-bird kept saying, talking at the smoke-hole of the sweathouse. "What he says is unintelligible," said the Geese and
 White Geese, said the Herons, said the Whistling Swans.
 
 Coyote was living with them. "Hehe'c! This language is
@@ -1669,8 +1664,7 @@ upon him. He curled around young Coyote's legs. He shouted
 while the rattlesnake pulled him about and bit him. The rattlesnake killed young Coyote, so that he died. "Your child is dead,"
 Coyote was told by the people. "Where?" "He lies dead to
 the east, he has been bitten by a rattlesnake." Coyote said,
-"Indeed!" as he wept. Coyote was now dancing around, putting dirt on his face. He acted like crazy, while the people car-
-ried young Coyote home to his house. Coyote said, "Well, my
+"Indeed!" as he wept. Coyote was now dancing around, putting dirt on his face. He acted like crazy, while the people carried young Coyote home to his house. Coyote said, "Well, my
 friend!" thus he said, speaking to Lizard, dancing around with
 grief. ' ' Wai ! Wai ! Wai ! My friend, you said that you would
 let people come back to life again after they die. Let my son
@@ -1895,8 +1889,7 @@ breast and leg feathers of the eagle loosely filled, like down, into a net
 worn on the head ( tc la'iwdnu, larger than the ordinary k!a'*di, "netcap"). The net itself was not visible, as it was entirely covered by the
 white feathers.
 
-i«i The present Basin Hollow in Clover Creek Valley. It was a waha'irifmauna, "resting place," at which it was considered good luck for travel-
-ing parties to stop.
+i«i The present Basin Hollow in Clover Creek Valley. It was a waha'irifmauna, "resting place," at which it was considered good luck for traveling parties to stop.
 
 
 sat down. "Whither are you going?" asked Coyote. "I am
@@ -2254,8 +2247,7 @@ up into a top-knot. "There's no such a thing as my being
 beaten!" Coyote now went to the south. He went up hill to
 the south, came to the top of the hill, and proceeded south, went
 until he came to Djit'p'ama'uwitc'u. He kept going south until
-he arrived at Wama'rawi. Many were the people in the sweathouse. ' ' Come out of the house, all of you, ' ' said Coyote, shout-
-ing inside to them. "I have killed the human skull. I killed
+he arrived at Wama'rawi. Many were the people in the sweathouse. ' ' Come out of the house, all of you, ' ' said Coyote, shouting inside to them. "I have killed the human skull. I killed
 him over there at Djewint'a'urikhi. " The people did so, all
 came out of the house. They all now went off home, going back
 to the east, going back to the south, going back to the west, going
@@ -2430,8 +2422,7 @@ that had been burnt to death. He gave the necklace to Bo" mi-
 came back home to her house. She struck the hearts, and the
 people came back to life. They all came back to life. "You
 thought concerning me, did you not, 'She has no sense.' You
-would have treated me in that way ! But my friends are dwelling yonder, far away in the north. I suppose you said to your-
-self, 'I have killed them all,' did you not? But you did not
+would have treated me in that way ! But my friends are dwelling yonder, far away in the north. I suppose you said to yourself, 'I have killed them all,' did you not? But you did not
 kill them. You thought you were sensible. It was you who
 thought of killing me. ' '213 Now it is ended.
 
@@ -2665,8 +2656,7 @@ salmon. ' '
 She held her salmon spear and looked into the river, waiting
 
 
-240 The lizard (k.'uwi'lla) of this myth is not the small species (k.'a'lts- Sauna) of Nos. v and vi. He was described as a big, brown, long-
-tailed animal, whose bite is not poisonous. The name is given by Curtin
+240 The lizard (k.'uwi'lla) of this myth is not the small species (k.'a'lts- Sauna) of Nos. v and vi. He was described as a big, brown, longtailed animal, whose bite is not poisonous. The name is given by Curtin
 (op. cit., p. 313) as Gowila.
 
 
@@ -3144,10 +3134,8 @@ of these, when he sees them." "I do not like these trinkets
 
 
 273 in this and the following texts an attempt was made to secure from
-Betty Brown an account in her own language of some phases of Yana religious and social life. Owing to her tendency to use conversational narra-
-tive instead of general description, these texts are rather illustrative by
-means of real or imaginary incidents of the life of the Yana than ethnologically satisfying statements. No. xiv gives an idea of the touchy medi-
-cine-man, insulted because few are found willing to assist him in his doctoring.
+Betty Brown an account in her own language of some phases of Yana religious and social life. Owing to her tendency to use conversational narrative instead of general description, these texts are rather illustrative by
+means of real or imaginary incidents of the life of the Yana than ethnologically satisfying statements. No. xiv gives an idea of the touchy medicine-man, insulted because few are found willing to assist him in his doctoring.
 
 27* For the medicine-man. Cf . p. 193, 1. 2.
 
@@ -3567,8 +3555,7 @@ XXI. CURSE ON PEOPLE THAT WISH ONE ILL.
 311 The implication is not clear. Perhaps it means, "May you love me
 as I love you ! ' '
 
-sis It has not been found possible to get at the significance of this apparently formulaic word. It would seem to be a term of address to the super-
-natural powers concerned in man's happiness or woe. For s-uwa' see note
+sis It has not been found possible to get at the significance of this apparently formulaic word. It would seem to be a term of address to the supernatural powers concerned in man's happiness or woe. For s-uwa' see note
 
 sis Either to be interpreted as s-l'e dji watdu*vt "drink (imper.) my
 blood ! " or contracted from s-l'dj dji watdu'w ' ' drink-me my blood ! " As
@@ -3794,8 +3781,7 @@ sticks like gambling sticks. The others wanted to know how he
 was going to make people out of these. Lizard said, "I'll show
 you." One stick he took for the Hat Creeks (Tc'uno'yana).
 one for the Wintun (Ya/cwi), and one for the Pit Rivers (Wa'-
-dja'mi).332 When he looked at them he said, "There is something lacking. ' ' Coyote asked, ' ' Who has been left out ? ' ' Liz-
-ard said, "The Yana." So he took any kind of a stick, broke
+dja'mi).332 When he looked at them he said, "There is something lacking. ' ' Coyote asked, ' ' Who has been left out ? ' ' Lizard said, "The Yana." So he took any kind of a stick, broke
 it up into little pieces, and put them in a pile for the Yana. The
 
 
@@ -4426,8 +4412,7 @@ They lived at We'yuldiyauk laimadu. The people were nearly
 starving for lack of food. Only Woodpecker had any; he got
 his acorns at a great distance. He had ten sacks, and some
 acorns he had in the holes of the trees. Woodpecker came home
-every night, and Rat Woman had lots of soup and bread. Woodpecker and Woodrat Woman would give none to any one. Wood-
-pecker had a brother-in-law, Woodrat. He was sick, his foot was
+every night, and Rat Woman had lots of soup and bread. Woodpecker and Woodrat Woman would give none to any one. Woodpecker had a brother-in-law, Woodrat. He was sick, his foot was
 sore, he could not walk. Formerly he had been a fisherman.
 Woodpecker told his wife, "Give my brother-in-law plenty to
 eat, he is sick. ' ' She did so.
@@ -4834,8 +4819,7 @@ wood. He told his father-in-law to go and look at the wood.
 He saw the hide and was frightened, did not know what to do.
 
 "Son-in-law, go and hunt up on this mountain, kill deer,"
-so he went to the north. Big Rain (tc'ilwa'riklu), Hail (sabilkle'yu), and Buzzard (ma'tslk'ili'lla) were jealous of Pine Mar-
-ten. Moon told Pine Marten to sit down, while the people circled
+so he went to the north. Big Rain (tc'ilwa'riklu), Hail (sabilkle'yu), and Buzzard (ma'tslk'ili'lla) were jealous of Pine Marten. Moon told Pine Marten to sit down, while the people circled
 about and drove in the animals. Pine Marten thought they
 were deer, but they were really grizzly bears. Pine Marten ran,
 and the grizzly bears ran after him and tore off his buckskin

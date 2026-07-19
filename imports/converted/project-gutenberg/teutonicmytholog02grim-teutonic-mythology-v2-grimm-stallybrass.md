@@ -1,68 +1,17 @@
-# Teutonic Mythology, Volume 2
-
-TEUTONIC    MYTHOLOGY.
-
-
-JACOB     GRUni
-
-
-TEUTONIC  MYTHOLOGY
-
-
-BY
-
-
-JACOB    GRIMM.
-
-
-TRANSLATED    FKOM    THE    FOUETH    EDITION.
-
-WITH
-
-NOTES    AND    APPENDIX
-
-
-BT
-
-
-JAMES     STEVEN     STALLYBRASS.
-
-
-7S9f
-VOL.    II.
-
-
-LONDON:  GEORGE  BELL  &  SONS,  YORK  STREET,
-
-COVENT  GAEDEN.
-
-1883.
-
-6£K    1908
-
-
-Butter  A  Taiiver.
-The  Selwood  Printimj   Works,
-frotne,  and  Loudon.
-
-
 CHAPTER  XVII.
 
 7  ■^^9  S'
-WIGHTS   AND   ELVES.
 
 Apart  from  deified  and  semi-divine  natures  there  stands  a
 whole  order  of  other  beings  distinguished  mainly  by  the  fact
 thatj  while  those  have  issued  from  men  or  seek  human  fellowship,
 these  form  a  separate  community,  one  might  say  a  kingdom  of
-their  own,  and  are  only  induced  by  accident  or  stress  of  circum-
-stances to  have  dealings  with  men.  They  have  in  them  some
+their  own,  and  are  only  induced  by  accident  or  stress  of  circumstances to  have  dealings  with  men.  They  have  in  them  some
 admixture  of  the  superhuman,  which  approximates  them  to  gods ;
 they  have  power  to  hurt  man  and  to  help  him,  at  the  same  time
 they  stand  in  awe  of  him,  being  no  match  for  him  in  bodil}''
 strength.  Their  figure  is  much  below  the  stature  of  man,  or  else
-mis-shapen.  They  almost  all  have  the  faculty  of  making  them-
-selves invisible.^  And  here  again  the  females  are  of  a  broader
+mis-shapen.  They  almost  all  have  the  faculty  of  making  themselves invisible.^  And  here  again  the  females  are  of  a  broader
 and  nobler  cast,  with  attributes  resembling  those  of  goddesses
 and  wise-women  ;  the  male  spirits  are  more  distinctly  marked  off,
 both  from  gods  and  from  heroes.^
@@ -70,8 +19,7 @@ both  from  gods  and  from  heroes.^
 The  two  most  general  designations  for  them  form  the  title  of
 this  chapter;  they  are  what  we  should  call  spirits  nowadays.
 But  the  word  spirit  (geist,  ghost),^  like  the  Greek  Saificov,  is
-too  comprehensive ;  it  would  include,  for  instance,  the  half-
-goddesses  discussed  in  the  preceding  chapter.  The  Lat.  genius
+too  comprehensive ;  it  would  include,  for  instance,  the  halfgoddesses  discussed  in  the  preceding  chapter.  The  Lat.  genius
 would  more  nearly  hit  the  mark  (see  Suppl.).
 
 The  term  ivlJit  seems  remarkable  in  more  than  one  respect,  for
@@ -82,8 +30,7 @@ its  variable  gender  and  for  the  abstract  meanings  developed  from
 -  Celtic  tradition,  which  ruus  partieuhirly  rich  on  this  subject,  I  draw  from
 the  foUowiup;  works  :  Fairy  Legends  and  Traditions  of  the  South  of  Ireland,
 by  Croftou  Croker,  Lond.  1825;  2nd  ed.,  parts  1,  2,  3,  Lond.  1828.  The  Fairy
-Mythology,  by  Th.  Kcightley,  vols.  1,  2,  Lond.  1828.  Barzas-Breiz,  chants  popu-
-laires  dc  la  Bretagne,  par  Th.  de  la  Villemarque,  2e  ed.,  2  vol.,  Paris  18-10.
+Mythology,  by  Th.  Kcightley,  vols.  1,  2,  Lond.  1828.  Barzas-Breiz,  chants  populaires  dc  la  Bretagne,  par  Th.  de  la  Villemarque,  2e  ed.,  2  vol.,  Paris  18-10.
 
 =♦  OHG.  kcifit,  AS.  ijdst,  OS.  gest  (see  root  in  Gramm.  2,  4()) ;  Goth,  ahma,
 OHG.  atu7H  for  ahadum,  conn,  with  Goth,  aha  (mens),  ahjan  (luemiuisse,  cogitare),
@@ -92,8 +39,6 @@ Ui.  433).
 
 VOL.  II.  ^9  B
 
-
-440  WIGHTS  AND   ELVES.
 
 it.  The  Gothic  vaihts,  gen.  vaihfdis,  is  feminine,  and  Ulphilas
 hardly  ever  uses  it  in  a  concrete  sense  ;  in  Luke  1,  1  he  translates
@@ -118,11 +63,9 @@ seems  altogether  synonymous  with  being,  creature,  person,  and
 can  be  used  of  men  or  spirits  :  '  in  demo  mere  sint  wunderlichiu
 vjihtir,  diu  heizent  sirenae,^  Hofifm.  Fundgr.  19,  17.  In  MHG.
 sometimes  neut.:  unreinez  wiJit,  Diut.  1,  13;  Athis  H.  28;
-trligehaftez  iviht,  Barl.  367,  11;  vil  tumbez  wiht,  11,  21;  some-
-times masc:  bceser  wiht,  Barl.  220,  15;  unrehter  hoesewiht,  MS.
+trligehaftez  iviht,  Barl.  367,  11;  vil  tumbez  wiht,  11,  21;  sometimes masc:  bceser  wiht,  Barl.  220,  15;  unrehter  hoesewiht,  MS.
 2,  147%  Geo.  3508;  kleiner  wiht,  Altd.  bl.  1,  254;  der  wiht,
-Geo.  3513-36;  der  tumbe  ^viht,  Fragm.  42"";  and  often  of  in-
-determinable gender:  boese  wiht,  Trist.  8417;  helle  wiht,  Geo.
+Geo.  3513-36;  der  tumbe  ^viht,  Fragm.  42"";  and  often  of  indeterminable gender:  boese  wiht,  Trist.  8417;  helle  wiht,  Geo.
 3531  ;  but  either  way  as  much  applicable  to  men  as  to  spirits.
 Ghostly  wights  are  the  '  minuti  dii '  of  the  Romans  (Plaut.
 Casina,  ii.  5,  24).  In  Mod.  Germ,  we  make  wicht  masc,
@@ -185,8 +128,7 @@ der  ir  da  waltet.  Who  governs  them.
 
 The  passage  shows  that  in  the  13th  cent,  there  was  a  kind  of  i^uppet-show  in  which
 ghostly  beings  were  set  before  the  eyes  of  spectators.  'Der  ir  waltet,'  he  that
-wields  them,  means  the  showman  who  puts  the  figures  in  motion,  A  full  confir-
-mation in  the  Wachtelmiire,  line  40  :  '  rihtet  zu  mit  den  snileren  (strings)  die
+wields  them,  means  the  showman  who  puts  the  figures  in  motion,  A  full  confirmation in  the  Wachtelmiire,  line  40  :  '  rihtet  zu  mit  den  snileren  (strings)  die
 tatermanne !  '  Another  passage  on  the  xcihtel-npil  in  Haupt's  Zeitschr.  2,  60  :
 'spilt  mit  dem  wihteUn  uf  dem  tisch  umb  guoteu  win.'
 
@@ -194,8 +136,6 @@ tatermanne !  '  Another  passage  on  the  xcihtel-npil  in  Haupt's  Zeitschr.
 viein  is  noxa,  malum  ;  nevertheless  I  call  attention  to  the  Zendic  iiMinyus,  da>mou,
 and  agramainyus,  dicmon  malus.
 
-
-442  WIGHTS   AND   ELVES.
 
 Thiele  3,  98.  The  Swedish  tongue,  in  addition  to  vdtt  (genius)
 and  a  synonymous  neut.  vattr,  has  a  wikt  formed  after  the  German,
@@ -219,8 +159,7 @@ had  a  pi.  elher ;  and  from  the  MHG.  dat.  fem.  elhe  (MS.  1,  50'')
 we  must  certainly  infer  a  nom.  diu  elhe,  OHG.  alpia,  elpia,  Goth.
 alhi,  gen.  albjos,  for  otherwise  such  a  derivative  could  not  occur.
 Formed  by  a  still  commoner  suffix,  there  was  no  doubt  an  OHG.
-elplnna,  MHG.  elhlnne,  the  form  selected  by  Albrecht  of  Halber-
-stadt,  and  still  appearing  in  his  poem  as  remodelled  by  Wikram;^
+elplnna,  MHG.  elhlnne,  the  form  selected  by  Albrecht  of  Halberstadt,  and  still  appearing  in  his  poem  as  remodelled  by  Wikram;^
 AS.  el  fen,  gen.  elfenne.     Of  the  nom.  pi.  masc.  I  can  only  feel
 
 i     sure  in  the   ON.,   where  it  is  dlfar,   and  would  imply  a  Goth.
@@ -252,8 +191,7 @@ Swedish  folk-song  (Arwidsson  2,  278)  has  Ulfver  where  another  (2,  276)
 ELVES.  443
 
 elf,  elves,  the  Swed.  elf,  pi.  masc.  elfvar  (fem.  elfvor),  tlie  Dan.
-elv,  pi.  elve,  are  quite  in  rule ;  the  Dan.  compounds  ellefulk,  elle-
-honer,  ellesluuU,  ellevikl  have  undergone  assimilation.  With  us
+elv,  pi.  elve,  are  quite  in  rule ;  the  Dan.  compounds  ellefulk,  ellehoner,  ellesluuU,  ellevikl  have  undergone  assimilation.  With  us
 the  word  alp  still  survives  in  the  sense  of  night- hag^  night-mare^
 in  addition  to  which  our  writers  of  the  last  century  introduced
 the  Engl,  elf,  a  form  untrue  to  our  dialect ;  before  that,  we  find
@@ -266,16 +204,14 @@ pilly  fellow,  one  whom  the  elves  have  been  at,  and  the  same  thing
 is  expressed  by  the  simple  elbisch,  Fundgr.  365.  In  Gloss.  Jun.
 340  we  read  elvesce  tveJde,  elvish  wights.
 
-On  the  nature  of  Elves  I  resort  for  advice  to  the  ON.  authori-
-ties,  before  all  others.  It  has  been  remarked  already  (p.  25),
+On  the  nature  of  Elves  I  resort  for  advice  to  the  ON.  authorities,  before  all  others.  It  has  been  remarked  already  (p.  25),
 that  the  Elder  Edda  several  times  couples  cesir  and  dlfar  together,
 as  though  they  were  a  compendium  of  all  higher  beings,  and
 that  the  AS.  es  and  ylfe  stand  together  in  exactly  the  same  way.
 This  apparently  concedes  more  of  divinity  to  elves  than  to  men.
 Sometimes  there  come  in,  "as^^r  third  member,  the  vanir  (Seem.
 83"^),  a  race  distinct  from  the  gesir,  but  admitted  to  certain
-relations  with  them  by  marriage  and  by  covenants.  The  Hrafua-
-galdr  opens  with  the  words  :  AlfoSr  orkar  (works),  alfar  skilja,
+relations  with  them  by  marriage  and  by  covenants.  The  Hrafuagaldr  opens  with  the  words  :  AlfoSr  orkar  (works),  alfar  skilja,
 vanir  vita,^^  Seem.  SS''' ;  Allfather,  i.e.  the  as,  has  power,  alfar
 have  skill  (understanding),  and  vanir  knowledge.  The  Alvismal
 enumerates  the  dissimilar  names  given  to  heavenly  bodies,
@@ -293,13 +229,10 @@ as  we  see  by  Wikram's  Albrecht,  6,  0,  continued  to  separate  clbc
 1  Cesold.  sub  v.  ilbe ;  Ettncr's  Hebamnie,  p.  010,  aljH'it  or  dben.
 
 
-444  "WIGHTS   AND   ELVES.
-
 from  cjetwcrc}  Some  kinship  however  seems  to  exist  between
 them,  if  only  because  among  proper  names  of  dwarfs  we  find  an
 Alfr  and  a  Vinddlfr,  Ssem.  2.  3.  Loki,  elsewhere  called  an  as,
-and  reckoned  among  ases,  but  really  of  iotun  origin,  is  neverthe-
-less addressed  as  dlfr,  Saem.  110'' ;  nay,  Volundr,  a  godlike  hero,
+and  reckoned  among  ases,  but  really  of  iotun  origin,  is  nevertheless addressed  as  dlfr,  Saem.  110'' ;  nay,  Volundr,  a  godlike  hero,
 is  called  '  difa  lio^i,'  alforum  socius,  and  '  visi  dlfa,'  alforum
 princeps,  Ssem.  135*' ''■  T  explain  this  not  historically  (by  a
 Finnish  descent),  but  mythically  :  German  legend  likewise  makes
@@ -319,8 +252,7 @@ of  creatures  getting,  as  we  shall  see,  a  good  deal  mixed  up
 and  confounded,  recourse  was  had  to  composition,  and  the  elves
 proper  were  named  liosdlfar.^
 
-The  above-named  ddckdtjar  (genii  obscuri)  require  a  counter-
-part, which  is  not  found  in  the  Eddie  songs,  but  it  is  in  Snorri^s
+The  above-named  ddckdtjar  (genii  obscuri)  require  a  counterpart, which  is  not  found  in  the  Eddie  songs,  but  it  is  in  Snorri^s
 prose.  He  says,  p.  21  :  'In  Alfheim  dwells  the  nation  of  the
 liosdJfar  (light  elves),  down  in  the  earth  dwell  the  dockdlfar
 (dark  elves),  the  two  unlike  one  another  in  their  look  and  their
@@ -351,10 +283,8 @@ dvergar,  for  his  dvergar  dwell  in  Svartalfaheim,  (Sn.  34.  130.
 136).  This  is^  for  one  thing,  at  variance  with  the  separation
 of  dlfar  and  dvergar  in  the  lays,  and  more  particularly  with
 the  difference  implied  between  doclcdlfar  and  dvergar  in  Sasm.
-92^  188"'.  That  language  of  poetry,  which  everywhere  else  im-
-parts such  precise  information  about  the  old  faith,  I  am  not
-inclined  to  set  aside  here  as  vague  and  general.  Nor,  in  con-
-nexion with  this,  ought  we  to  overlook  the  ndir,  the  deadly  pale
+92^  188"'.  That  language  of  poetry,  which  everywhere  else  imparts such  precise  information  about  the  old  faith,  I  am  not
+inclined  to  set  aside  here  as  vague  and  general.  Nor,  in  connexion with  this,  ought  we  to  overlook  the  ndir,  the  deadly  pale
 or  dead  ghosts  named  by  the  side  of  the  dvergar,  Sa3m.  92'',
 though  again  among  the  dvergar  tliemsMves-eccur  the  proper
 names  Nar  and  Nainn.
@@ -392,8 +322,6 @@ elves) ;  I  have  not  found  the  vrord  in  the  old  writings.
 von  Steinau's  Volkssagen,  Zeitz  1838,  pp.  291-3,  the  same  traditions  are  given,
 but  only  white  and  black  (not  brown)  dwarfs  are  distinguished.
 
-
-446  WIGHTS   AND   ELVES.
 
 of  the  Vogtland  and  a  part  of  East  Thuringia.     There  the  small
 elvish  beings  that  travel  especially  in  the  train  of  Berchta,  are
@@ -462,14 +390,12 @@ the  Id^ean  Dactyls  of  the  ancients,  the  Cabeiri  and  Trarat/cot  .•  a
 or  most  of  the  dvergar  in  the  Edda  are  cunning  smiths  (Sn,  34.
 48.  130.  354).  This  seems  the  simplest  explanation  of  their
 hlach  sooty  appearance,  like  that  of  the  cyclopes.  Their  forges
-are  placed  in  caves  and  mountains  :  Svartdlfaheimr  must  there-
-fore lie  in  a  mountainous  region,  not  in  the  abyss  of  hell.  And
+are  placed  in  caves  and  mountains  :  Svartdlfaheimr  must  therefore lie  in  a  mountainous  region,  not  in  the  abyss  of  hell.  And
 our  German  folk-tales  everywhere  speak  of  the  djyjirfs-Jis_-/br^LUi(/
 in  the  mountains:  'von  golde  wirkent  si  diu  spcehen  iverc'  says
 the  Wartburg  War  of  the  getwerc  Sinnels  in  Palakers,  whereas
 elves  and  elfins  have  rather  the  business  of  iveaving  atti-ibuted  to
-them.  Thus,  while  dwarfs  border  on  the  smith-heroes  and  smith-
-gods  (Wielant,  Vulcan),  the  functions  of  elves  approach  those  of
+them.  Thus,  while  dwarfs  border  on  the  smith-heroes  and  smithgods  (Wielant,  Vulcan),  the  functions  of  elves  approach  those  of
 fays  and  good-wives  (see  Suppl.).-
 
 If  there  be  any  truth  in  this  view  of  the  matter,  one  can  easily
@@ -483,19 +409,15 @@ Kduigsbofeu,  p.  89,  has  querclt.     lu  Lower  Saxony  sometimes  twdnii,  
 
 -  In  Bretagne  the  korr,  pL  korrcd  answers  to  our  elf,  the  korrigan  to  our  elfin  ;
 and  she  too  is  described  like  a  fay  :  she  sits  by  the  fountain,  combing  her  hair,  _and
-whoever  catches  her  doing  so,  must  marry  her  at  once,  or  die  in  three  days  (Ville-
-marquc  1,  17).     The  Welsh  caicr  means  a  giant.
+whoever  catches  her  doing  so,  must  marry  her  at  once,  or  die  in  three  days  (Villemarquc  1,  17).     The  Welsh  caicr  means  a  giant.
 
-
-448  WIGHTS   AND   ELVES.
 
 teaze  meu ;  but  they  are  not  therefore  devils^  not  even  the  black
 ones,  but  often  good-natured  beings.  It  appears  even  that  to  these
 black  elves  in  particular,  i.e.  mountain  spirits,  who  in  various
 wa3's  came  into  contact  with  man,  a  distinct  reverence  was  paid,
 a  species  of  ivorship,  traces  of  which  lasted  down  to  recent
-times.  The  clearest  evidence  of  this  is  found  in  the  Kormaks-
-saga  pp.  216-8.  The  hill  of  the  elves,  like  the  altar  of  a  god,
+times.  The  clearest  evidence  of  this  is  found  in  the  Kormakssaga  pp.  216-8.  The  hill  of  the  elves,  like  the  altar  of  a  god,
 is  to  be  reddened  with  the  blood  of  a  slaughtered  bull,  and  of
 the  animal's  flesh  a  feast  prepared  for  the  elves  :  '  Hull  einn  er
 he^an  skamt  i  brott,  er  dlfar  bita  %  (cave  that  elves  dwell  in) ;
@@ -509,8 +431,7 @@ jfC^  and  kobolds  (Deut.  sagen,  no.  37.  38.  71)  j  meat  and  drink  for
 domina  Abundia  (supra,  p.  286) ;  money  or  bread  deposited  in
 the  caves  of  subterraneans,  in  going  past  (Neocorus  1,  262.  560).'
 There  are  plants  named  after  elves  as  well  as  after  gods  :  alpranlte,
-alpfranke,  alfsranke,  alpkraut  (lonicera  periclymen.,  solanum  dul-
-cam.),  otherwise  called  geissblatt,  in  Denmark  troldbar,  in  Sweden
+alpfranke,  alfsranke,  alpkraut  (lonicera  periclymen.,  solanum  dulcam.),  otherwise  called  geissblatt,  in  Denmark  troldbar,  in  Sweden
 trullbar;  dweorges  dwosle,  pulegium  (Lye),  Moneys  authorities
 spell  dwostle,  322^^ ;  dvergeriis,  ace.  to  Molbech's  Dial.  Lex.  p.  86,
 the  spartium  scoparium.  A  latrina  was  called  dlfrek,  lit.  genios
@@ -527,14 +448,11 @@ couf.  Lasicz  54.     The  Lett,  hehrstuhki  is  said  to  mean  a  child's  d
 
 "  Emp.  Ludwig  the  Bavarian  (1347)  writes  contemptuously  to  Markgraf  Carl  of
 Moravia  :  '  Eecollige,  quia  nondum  venit  hora,  ut  pigmei  de  Judea  (1.  India)  statura
-cubiea  evolantes  fortitudine  guauica  (1.  gnanica,  i.e.  nanica)  terras  gygantivrm  de-
-trahere  debeant  in  ruinas,  et  ut  pigmei,  id  est  homines  bicubitales,  qui  in  anno
-tercio  crescunt  ad  perfectam  quantitatem  et  in  septimo  anno  senescunt  et  moriun-
-tur,  imperent  gygantibus.'  Pelzel's  Carl  IV.  1  urk.  p.  40.  Conf.  Bohmer's  Font.
+cubiea  evolantes  fortitudine  guauica  (1.  gnanica,  i.e.  nanica)  terras  gygantivrm  detrahere  debeant  in  ruinas,  et  ut  pigmei,  id  est  homines  bicubitales,  qui  in  anno
+tercio  crescunt  ad  perfectam  quantitatem  et  in  septimo  anno  senescunt  et  moriuntur,  imperent  gygantibus.'  Pelzel's  Carl  IV.  1  urk.  p.  40.  Conf.  Bohmer's  Font.
 1,  227.  2,  570.  Yet  this  description  does  not  look  to  me  quite  German  ;  the  more
 the  dwarfs  are  regarded  as  elves,  there  is  accorded  to  them,  and  especially  to  elfins
-(as  to  the  Greek  oreads),  a  hiriher  and  semi-divine  age  ;  conf.  the  stories  of  change-
-lings quoted  further  on.    Laurin,  ace.  to  the  poems,  was  more  than  400  years  old.
+(as  to  the  Greek  oreads),  a  hiriher  and  semi-divine  age  ;  conf.  the  stories  of  changelings quoted  further  on.    Laurin,  ace.  to  the  poems,  was  more  than  400  years  old.
 
 
 ELVES,   DWARFS.  .  449
@@ -543,8 +461,7 @@ Accounts  of  the  creation  of  dwarfs  will  be  presented  in  chap.
 XIX. ;  but  they  only  seem  to  refer  to  the  earthly  form  of  the
 black  elves,  not  of  the  light.
 
-The  leading  features  of  elvish  nature  seem  to  be  the  follow-
-ing :—
+The  leading  features  of  elvish  nature  seem  to  be  the  following :—
 
 Man's  body  holds  a  medium  between  those  of  the  giant  and
 the  elf ;  an  elf  comes  as  much  short  of  human  size  as  a  giant
@@ -590,8 +507,6 @@ Ettm.  24)  and  Autilois  (Ulr.  Alex.)  are  compared  to  a'child  of  fom-.
 V
 
 
-450  WIGHTS   AND   ELVES.
-
 dumeln  lane/  Ls.  1^  378.  In  one  Danish  lay,  the  smallest  trold
 is  no  bigger  than  an  ant,  D.V.  1,  176.  Hence  in  fairy  tales
 ddumling  (thumbling,  petit  poucet)  indicates  a  dwarfish  figure ;
@@ -624,16 +539,14 @@ coat,  Hoff.  Gl.  36,  13.     Koth.  4576.     Conf.  urkinde  (nanus),  Gramm
 
 indebted  to  Hr.  Hieron.  Hagebuch  of  Aarau. Vo  de  lidrdmandlena  uf  der  Eams-
 
-flue.  Hinder  der  Arlisbacher  egg,  zwiischenem  doriie  Hard  und  dem  alte  Lorenze-
-kapallele,  stoht  im  ene  thjile  so  gauz  eleigge  e  griisle  vertraite  flue,  se  sagere
+flue.  Hinder  der  Arlisbacher  egg,  zwiischenem  doriie  Hard  und  dem  alte  Lorenzekapallele,  stoht  im  ene  thjile  so  gauz  eleigge  e  griisle  vertraite  flue,  se  sagere
 dRamsflue.  uf  der  hiudere  site  isch  se  hohl,  und  dliole  het  numme  e  chline  igang.
 Do  sind  denn  emol,  me  weiss  nid  axact  i  wele  johrgange,  so  rarige  ladndle  gsi,  die
 sind  i  die  hohle  us  und  i  gauge,  hand  ganz  e  so  es  eiges  labe  gefiiehrt,  und  en
 apartige  hushaltig,  und  sind  ganz  bsunderig  derhar  cho,  so  warklich  gestaltet,  und
 mit  elm  wort,  es  isch  halt  kei  monsch  usene  ch*,  wer  se  denn  au  seige,  wohar  se
 cho  seige,  und  was  se  tribe,  jimel  gekochet  hand  se  niit,  und  wiirzle  und  beeri
-ggjisse.  unde  a  der  flue  lauft  es  bachle,  und  i  dem  bachle  hand  die  mandle  im  sum-
-mer badet,  xv'ie  tiihJe,  aber  eis  vonene  het  immer  wacht  gha,  und  het  pfiffe,  wenn
+ggjisse.  unde  a  der  flue  lauft  es  bachle,  und  i  dem  bachle  hand  die  mandle  im  summer badet,  xv'ie  tiihJe,  aber  eis  vonene  het  immer  wacht  gha,  und  het  pfiffe,  wenn
 opper  derhar  cho  isch,  \\l  dem  fuesswag :  denn  sind  se  ame  gsprunge,  was  gisch
 was  hesch,  der  biirg  uf,  dass  ene  kei  haas  noh  cho  wer,  und  wie  der  sehwick  in
 ehre  h'dhle gschloffe.  dernabe  hand  se  kem  monsch  niit  zleid  tho,  im  gagetheil,
@@ -643,8 +556,7 @@ der  flue  obenabe,  und  chuut  der  durab  zhopperle  iiber  driese,  und  hil
 was  es  het  mcige.  wo  se  do  der  bindbaum  wiind  ufe  thue,  so  isch  das  mandle  ufem
 wage  gsi,  und  het  grichtet,  und  der  pur  het  viberunde  azoge  a  de  bindchneble.  do
 het  das  mandle  sseil  nid  racht  ume  gliret,und  wo  der  pur  azieht,  schnellt  der  baum
-los  und  trift  smandle  ane  finger  iind  hets  wiirst  blessiert ;  do  foht  der  pur  a  jom-
-mere  und  seit  '  o  heie,  o  heie,  wenns  numenau  mer  begegnet  wer  ! '  do  seit  das
+los  und  trift  smandle  ane  finger  iind  hets  wiirst  blessiert ;  do  foht  der  pur  a  jommere  und  seit  '  o  heie,  o  heie,  wenns  numenau  mer  begegnet  wer  ! '  do  seit  das
 mandle  '  abba,  das  macht  niit,  salben  tho,  siilben  gha.'*  mit  dene  worte  springts
 vom  wage  nabe,  het  es  chriitle  abbroche,  hets  verschaflet  und  uf  das  bluetig  fin-
 
@@ -698,8 +610,7 @@ faster  than  hares,  tind'sTipt  into  their  cave.     Never  hurt  men,  ofte
 farmer  at  Hard  was  alone  loading,  a  dwarf  came  down,  helped  to  finish,  got  on  the
 waggon,  did  not  properly  run  the  rope  over  the  bind-pole,  it  slipped  oft,  the  pole    1
 flew  up  and  hurt  him  badly.     Farmer  :  '  I  wish  it  had  happened  to  mo. '     Dwarf :
-'  Not  so  ;  self  do,  self  have.'     Got  down,  picked  a  herb,  and  cyreiibe  wound  in-
-stantly.    OTtenrwTienTiohest  folk  cut  bay  or  tied  corn,  dwarfs  helpedthem   to
+'  Not  so  ;  self  do,  self  have.'     Got  down,  picked  a  herb,  and  cyreiibe  wound  instantly.    OTtenrwTienTiohest  folk  cut  bay  or  tied  corn,  dwarfs  helpedthem   to
 finish  and  get  it  under  shelter ;  or  in  the  night,  if  rain  came  on,  they  brought  in
 what  was  lying  cut,  and  didn't  the  people  stare  in  the  morning  !     One  severe  winter     I
 they  came  every  night  to  a  bouse  at  Arlisbacb,  slept  on  the  oven,  departed  before     t
@@ -716,8 +627,6 @@ of  a  tiny  infant  on  a  leaf  of  the  pipala  (fig-tree),  and  floats  on 
 sucking  the  toe  of  his  right  foot.     (Asiat.  Ees.  1,  345.)
 
 
-452  WIGHTS  AND   ELVES.
-
 as  the  Alvismal  implies  by  putting  alfar,  dyergar,  and  helbuar  (if
 I  may  use  the  word),  by  the  side  of  men,  giants,  gods,  ases  and
 vanir,  each  as  a  separate  class  of  beings,  with  a  language  of  its
@@ -726,8 +635,7 @@ people  (p.  456) ;  huldu-/o//i;  ; '  in  Lausitz  ludki,  little  folk  (Wend
 voTksl.  2,  268),  from  lud,  liud  (nation),  OHG.  liut.  Boh.  lid;  and
 in  Welsh  y  teulu  (the  family),  y  tylwyth  teg  (the  fair  fam-ily,  the
 pretty  little  folk,  conf.  Owen  sub  v.  tylwyth,  and  DiefenbacVs
-Celtica  ii.  102.  Whether  we  are  to  understand  by  this  a  histo-
-rical realm  situate  in  a  particular  region,  I  leave  undecided  here.
+Celtica  ii.  102.  Whether  we  are  to  understand  by  this  a  historical realm  situate  in  a  particular  region,  I  leave  undecided  here.
 Dvergmdl  (sermo  nanorum)  is  the  ON.  term  for  the  echo :  a  very
 expressive  one,  as  their  calls  and  cries  resound  in  the  hills,  and
 when  man  speaks  loud,  the  dwarf  replies,  as  it  were,  from  the
@@ -778,8 +686,7 @@ Allan  by  name.  In  Otnit  a  leading  part  is  played  by  hunec
 Alherich,  ETBrich,  to  whom  are  subject  ''manec  berg  und  tal;^'
 the  Nib.  liedlnakes  him  not  a  king,  but  a  vassal  of  the  kiugs
 Schilbiuig  and  Nibelung  ;  a  nameless  Jmig  of_dwaifs  appears  in
-the  poem  of  Ecke  80  ;  and  elsewhere  Unq  Goldemar  (Dent,  held-
-ensage  p.  174.  Haupt's  Zeitschr.  6,  522-3),  king  Sinnels  and
+the  poem  of  Ecke  80  ;  and  elsewhere  Unq  Goldemar  (Dent,  heldensage  p.  174.  Haupt's  Zeitschr.  6,  522-3),  king  Sinnels  and
 Laurin  (MS.  2,  lb"") ;  '  der  getwerge  kium.  Bilet/  Ev.  2086.
 The~TTerman  folk-tales  also  give  the  dwarf  nation  a  king  (no.
 152);  king  of  erdmannchen  (Kinderm.  3,  167).  Giihich  (Gibika,
@@ -788,8 +695,7 @@ the  dwarfs  (no.  151).^  These  are  all  kings  of  black  elves,  except
 Oberon,  whom  I  take  to  be  a  light  alb.  It  appears  that  human
 heroes,  by  subduing  the  sovereign  of  the  elves,  at  once  obtain
 dominion  over  the  spirits  ;  it  may  be  in  this  sense  that  Volundr
-is  called  visi  difa  (p.  444),  and  Siegfried  after  conquering  Elbe-
-rich  would  have  the  like  pretensions  (see  Suppl.) .
+is  called  visi  difa  (p.  444),  and  Siegfried  after  conquering  Elberich  would  have  the  like  pretensions  (see  Suppl.) .
 
 The  ON.  writings  have  preserved  plenty  of  dwarfs'  names
 which  are  of  importance  to  the  study  of  mythology  (loc.  princ.
@@ -807,15 +713,11 @@ dead  I  Urban  is  dead !  old  motlwr  Pmiipe  is  dead  ! '  (Biisching's  Wi
 36'=;  conf.  Bange's  TLiir.  cliron.  -ly",  where  again  they  say  '  kiiig  Knoblauch
 (garlic)  is  dead  !  '  Taking  into  account  the  saying  in  Saxony,  '  de  paitc  fni  ist  uu
 al  dot!  '  with  evident  allusion  to  the  motherly  goddess  (p.  253),  and  the  similar
-phrase  in  Scandinavia,  '  nu  eru  dauSar  allar  disir!'  (p.  402);  all  these  exclama-
-tions seem  to  give  vent  to  a  grief,  dating  from  the  oldest  times,  for  the  death  of
+phrase  in  Scandinavia,  '  nu  eru  dauSar  allar  disir!'  (p.  402);  all  these  exclamations seem  to  give  vent  to  a  grief,  dating  from  the  oldest  times,  for  the  death  of
 some  superior  being  (see  Suppl.) .
 
 
-454  WIGHTS   AND   ELVES.
-
-participial  ending.  Alfr,  Gandalfr,  and  Vinddlfr  place  the  con-
-nexion of  elves  and  dwarfs  Beyoifd'aoubt.  Ai  occurs  twice,
+participial  ending.  Alfr,  Gandalfr,  and  Vinddlfr  place  the  connexion of  elves  and  dwarfs  Beyoifd'aoubt.  Ai  occurs  twice,
 and  seems  to  mean  avus,  as  in  Saem.  100* ;  Finn]'  and  Billhig^r
 are  like  the  heroes'  names  discussed  on  pp.  373,  380.  -ZV^-,  and
 NiiSi,  Nyr  and  NyrdcFr  have  reference  to  phases  of  the  moon's
@@ -823,8 +725,7 @@ light;  a  few  other  names  will  be  touched  upon  later.  In  Saem.
 45''  and  Sn.  48.  130  all  dwarfs  are  said  to  be  '  Ivalda  synir,'
 sons  of  Ivaldi,  and  he  seems  identical  with  the  elvish  Ivaldr,
 father  of  I^uiTn,  Seem.  89%  just  as  Folkvaldr  and  Folkvaldi  (AS.
-Folcwealda),  Domvaldr  and  Domvaldi  =  Domaldi,  are  used  in-
-differently. Ivaldr  answers  to  the  Dan.  Evald  and  our  Ewald,
+Folcwealda),  Domvaldr  and  Domvaldi  =  Domaldi,  are  used  indifferently. Ivaldr  answers  to  the  Dan.  Evald  and  our  Ewald,
 a  rai'e  name  in  the  older  documents  :  we  know  the  two  St.
 Ewalds  (niger  et  albus)  who  were  martyred  in  the  elder  Pipin's
 time  (695)  and  buried  at  Cologne,  but  were  of  English  origin.
@@ -832,8 +733,7 @@ Beda  5,  10  spells  it  Hewald,  and  the  AS.  transl.  Hedwold  (see
 SuppL).
 
 Of  the  dwellings  of  light  elves  in  heaven  the  folk-tales  have
-no  longer  anything  to  tell ;  the  more  frequently  do  they  de-
-scribe those  of  dwarfs  in  the  rifts  and  caves  of  the  mountains.
+no  longer  anything  to  tell ;  the  more  frequently  do  they  describe those  of  dwarfs  in  the  rifts  and  caves  of  the  mountains.
 Hence  the  AS.  names  bergcelfen,  duncelfen,  muntcelfen.  ON.  '  by
 ec  for  iorff  neSan,  a  ec  7mdr  steini  sta'S/  I  dwell  underneath
 the  earth,  I  have  under  stone  ray  stead,  Seem.  48*.  'dvergr  sat
@@ -844,27 +744,23 @@ the  hills  containing  sepulchral  urns  are  vulgarly  denominated
 \alfenhercjen  (Belg.  mus.  5,  64).  Treasures  lie  hidden  in  graves
 as  they  do  in  the  abodes  of  elves,  and  the  dead  are  subterraneans
 as  these  are.  And  that  is  why  dwarfs  are  called  erdmdnnlein,
-erdmanneken,  in  Switzerland  lidrdmdndle,  sometimes  even  unter-
-irdische,  Dan.  under jordishe}  They  scamper  over  moss  and  fell,
+erdmanneken,  in  Switzerland  lidrdmdndle,  sometimes  even  unterirdische,  Dan.  under jordishe}  They  scamper  over  moss  and  fell,
 and  are  not  exhausted  by  climbing  steep  precipices  :  Men  wilden
 
 ^  I  cannot  yet  make  out  the  name  ancefigers,  by  wliich  the  earth-men  are  called
 up  in  Kindorm.  2, 163-4.  [erd-wihte?  v.  ar-  for  erd-,  p.  467,  1.  3  ;  and  we^lin,  p.  449] .
-The  ON.  drvakr  is  hardly  the  same  (see  SuppL).  In  Pruss.  Samogitia  '  de  under-
-hordschkes ' ;  the  tales  about  them  carefully  collected  by  Eeusch,  no.  48-59.  The
+The  ON.  drvakr  is  hardly  the  same  (see  SuppL).  In  Pruss.  Samogitia  '  de  underhordschkes ' ;  the  tales  about  them  carefully  collected  by  Eeusch,  no.  48-59.  The
 Wends  of  Liineburf;  called  subterranean  spirits  gorzoni  (hill-manuikins,  fr.  gora,
 hill),  and  the  hills  they  haunted  are  still  shown.  When  they  wished  to  borrow
 baking  utensils  of  men,  they  gave  a  sign  without  being  seen,  and  people  placed
 them  outside  the  door  for  them.  In  the  evening  they  brought  them  back,  knocking
-at  the  window  and  adding  a  loaf  by  way  of  thanks  (Jugler's  Worterb.).  The  Es-
-thonian  mythology  also  has  its  subterraneans  {ma  allused,  under  ground).
+at  the  window  and  adding  a  loaf  by  way  of  thanks  (Jugler's  Worterb.).  The  Esthonian  mythology  also  has  its  subterraneans  {ma  allused,  under  ground).
 
 
 ELVES,   DWAEFS.  455
 
 getwergen  waere  ze  stigen  da  genuoc/  enough  climbing  for  wild
-dwarfs,  says  Wli.  57,  25,  speaking  of  a  rocky  region.^  The  popu-
-lar beliefs  in  Denmark  about  the  hiergmand,  hiergfolli,  hiergtroJd,
+dwarfs,  says  Wli.  57,  25,  speaking  of  a  rocky  region.^  The  popular beliefs  in  Denmark  about  the  hiergmand,  hiergfolli,  hiergtroJd,
 are  collected  in  Molbech's  Dial.  lex.  p.  35-6.  The  biergmand's
 wife  is  a  hiergekone.  These  traditions  about  earth-men  and
 mountain-sprites  all  agree  together.  Slipping "  into  cracks  and
@@ -881,10 +777,8 @@ Laurin  dwell  in  these  wonderful  mountains,  men  and  heroes  at
 times  are  tempted  down,  loaded  with  gifts,  and  let  go,  or  held
 fast  (see  Suppl.).  Dietrich  von  Bern  at  the  close  of  his  life  is
 fetched  away  by  a  dwarf,  Deut.  heldens.  p.  300 ;  of  Etzel,  says
-the  Nibelungs'  Lament  2167,  one  knows  not  '  ob  er  sich  ver-
-slilffe  in  locher  der  steinwende/  whether  he  have  slipped  away
-into  holes  of  the  rocks  ^ :  meaning  probably,  that,  like  Taun-
-hiiuser  and  faithful  Eckart,  he  has  got  into  the  mount  wherein
+the  Nibelungs'  Lament  2167,  one  knows  not  '  ob  er  sich  verslilffe  in  locher  der  steinwende/  whether  he  have  slipped  away
+into  holes  of  the  rocks  ^ :  meaning  probably,  that,  like  Taunhiiuser  and  faithful  Eckart,  he  has  got  into  the  mount  wherein
 Dame  Venus  dwells.  Of  this  Dame  Venus's  mount  we  have  no
 accounts  before  the  15-16th  centuries;  one  would  like  to  know
 Avhat  earlier  notions  lie  at  the  bottom  of  it :  has  Dame  Venus
@@ -915,26 +809,19 @@ Vulcan's  abyss.
 VOL.  ir.  c
 
 
-456  WIGHTS   AND   ELVES.
-
 (Methinks  slie  comes  to  me  through  solid  walls,  Her  help,  her
 comfort  lets  me  nothing  fear ;  And  when  she  will  she  wafteth  me
 from  here  With  her  white  hand  high  o'er  the  pinnacles.  I  ween
 she  is  a  Venus  high.)  He  compares  her  then  to  a  Venus  or
 Holda,  with  the  elvish  power  to  penetrate  through  walls  and
-carry  you  away  over  roof  and  tower  (see  chap.  XXXI.,  Tann-
-hiiuser;  and  Suppl.).  Accordingly,  when  a  Hessian  nursery-
-tale  (no.  13)  makes  three  haule-mannerclien  appear,  these  are
-henchmen  of  Holle,  elves  in  her  retinue,  and  what  seems  espe-
-cially worthy  of  notice  is  their  being  three,  and  endowing  with
+carry  you  away  over  roof  and  tower  (see  chap.  XXXI.,  Tannhiiuser;  and  Suppl.).  Accordingly,  when  a  Hessian  nurserytale  (no.  13)  makes  three  haule-mannerclien  appear,  these  are
+henchmen  of  Holle,  elves  in  her  retinue,  and  what  seems  especially worthy  of  notice  is  their  being  three,  and  endowing  with
 gifts  :  it  is  a  rare  thing  to  see  male  beings  occupy  the  place  of
-the  fortune-telling  wives.  Elsewhere  it  is  rather  the  little  earth-
-wives  that  appear;  in  Hebel  (ed.  5,  p.  268)  Eveli  says  to  the
+the  fortune-telling  wives.  Elsewhere  it  is  rather  the  little  earthwives  that  appear;  in  Hebel  (ed.  5,  p.  268)  Eveli  says  to  the
 wood-wife  :  '  God  bless  you,  and  if  you're  the  earih-mannildn' s
 wife,  I  won't  be  afraid  of  you.'  ^
 
-There  is  another  point  of  connexion  with  Holda :  the  ex-
-pressions 'die  gotten  JioJden'  (p.  266),  ' giiedeholden'  penates
+There  is  another  point  of  connexion  with  Holda :  the  expressions 'die  gotten  JioJden'  (p.  266),  ' giiedeholden'  penates
 (Teutonista),  or  Jwldichen,  holdehen,  holderchen  seem  perfectly
 synonymous  with  Hhe  good  elves ; '  holdo  is  literally  a  kind,
 favourably  disposed  being,  and  in  Iceland  linfitngar  (darlings)
@@ -1036,8 +923,6 @@ p.  133  ;  Leipzig  1820,  p.  450-1).     Biisching's  ^Yocbentl.  nacbr.  1. 
 Odmau's  Bahusliin  pp.  191,  224: Bioru  Marteusson,  accompanied  by  an  archer,
 
 
-458  WIGHTS   AND   ELVES.
-
 Absit  ut  inter  nos  unquam  regnaverit  haec  fraus  !
 non  tarn  longaevi  tunc  essemus  neque  sani.
 Inter  vos  nemo  loquitur  nisi  corde  doloso,
@@ -1052,8 +937,7 @@ j  Thus  already  in  the  10th  century  the  dwarf  complains  of  the
 shortness  of  human  life,  while  dwarfs,  because  they  are  honest
 and  feed  on  simple  viands,  have  long  and  healthy  lives.  More
 intimately  acquainted  with  the  secret  powers  of  natui-e,  they  can
-with  greater  certainty  avoid  unwholesome  food.  This  remark-
-able passage  justifies  the  opinion  of  the  longevity  of  dwarfs  ;  and
+with  greater  certainty  avoid  unwholesome  food.  This  remarkable passage  justifies  the  opinion  of  the  longevity  of  dwarfs  ;  and
 their  avoidance  of  human  food,  which  "hastens  death,  agrees
 with  the  distinction  drawn  out  on  p.  318  between  men  and  gods
 (see  SuppL).  "^      """^       ~^
@@ -1094,8 +978,7 @@ immediately  ■ ,  washed  himself  in  haste,  and  shot  the  ring-buck.     
 
 arose  a  great  screaming  and  noise  iu  the  hill,  and  one  said :  '  See,  the  man  has
 taken  his  belt-flask  and  washed  himself,  but  I  will  pay  him  out.'  Another
-answered :  '  You  had  better  let  it  be,  the  icJtite  buck  will  stand  by  him.'  A  tre-
-mendous upioar  followed,  and  a  host  of  trolls  filled  the  wood  all  round.  Swen
+answered :  '  You  had  better  let  it  be,  the  icJtite  buck  will  stand  by  him.'  A  tremendous upioar  followed,  and  a  host  of  trolls  filled  the  wood  all  round.  Swen
 threw  himself  on  the  ground,  and  crept  under  a  mass  of  roots  ;  then  came  into  his
 mind  what  the  troll  had  said,  that  the  white  buck,  as  he  contemptuously  called  the
 church,  would  stand  by  him.  So  he  made  a  vow,  that  if  God  would  help  him  out
@@ -1168,8 +1051,6 @@ nimt  de  eine  von  don  liltjen  lilen  sinen  haut  af,  un  settet  den  dem
 '  Du  herrst  dik  doch  beter  estan,  wenn  du  na  koptal  efodert  herrst '  segt  de  twarni ;
 
 
-460  WIGHTS  AND   ELVES.
-
 Breton  legend  informs  us  :  A  man  liad  dug  a  treasure  out  of  a
 dwarf's  hole,  and  then  cautiously  covered  his  floor  with  ashes  and
 glowing  embers ;  so  when  the  dwarfs  came  at  midnight  to  get
@@ -1188,19 +1069,15 @@ ylf ages  cot,'  these  elves  being  apparently  armed  with  weapons
 like  those  of  the  gods  themselves ;  ^  the  divine  thunderbot  is  even
 called  an  albscJioss  (pp.  179,  187),  and  in  Scotland  the  elf-arroiv,
 eJf-jiint,  elf-holt  is  a  hard  pointed  wedge  believed  to  have  been
-discharged  by  spirits ;  the  turf  cut  out  of  the  ground  by  light-
-ning is  supposed  to  be  thrown  up  by  them.^  Oa  p.  187  I  have
-already  inferred,  that  there  must  have  been  some  closer  con-
-nexion, now  lost  to  us,  between  elves  and  the  Thundergod  :  if  it
+discharged  by  spirits ;  the  turf  cut  out  of  the  ground  by  lightning is  supposed  to  be  thrown  up  by  them.^  Oa  p.  187  I  have
+already  inferred,  that  there  must  have  been  some  closer  connexion, now  lost  to  us,  between  elves  and  the  Thundergod  :  if  it
 be  that  his  bolts  vf  ere  forged  for  him  by  elves,  that  points  rather
 to  the  black  elves.
 
 Their  touch,  their  breath  may  bring  sickness  or  death  on  man
-and  beast ;  ^  one  whom  their  stroke  has  fallen  on,  is  lost  or  in-
-capable (Danske  viser  1,  328)  :  lamed  cattle,  bewitched  by  them,
+and  beast ;  ^  one  whom  their  stroke  has  fallen  on,  is  lost  or  incapable (Danske  viser  1,  328)  :  lamed  cattle,  bewitched  by  them,
 
-un  de  buer,  de  vorher  niclits  nich  seien  harre,  un  den  et  so  lichte  in  schii^p  vorko-
-men  was,  ans  of  he  nichts  inne  herre,  slit  de  ganze  Allero  von  luter  liitjen  minschen
+un  de  buer,  de  vorher  niclits  nich  seien  harre,  un  den  et  so  lichte  in  schii^p  vorkomen  was,  ans  of  he  nichts  inne  herre,  slit  de  ganze  Allero  von  luter  liitjen  minschen
 krimmeln  un  whnmeln.  Dat  sind  de  twarrne  west,  dei  wier  trokken  sind.  Von  der
 tit  heft  Hovermanus  noch  immer  vull  geld  ehat,  dat  se  nich  kennen  deen,  averst  nu
 sind  se  sau  ein  nan  annern  ut  estorven,  un  de  hof  is  verkoft.  '  Wann  ist  deun  das
@@ -1253,8 +1130,7 @@ house  through  a  knot-hole  in  the  wall  loith  the  sunbeams  ;  she  was
 married  to  the  son,  bore  him  four  children,  then  vanished  the
 same  way  as  she  had  come.  Afzelius  2,  145.  Thiele  2,  18.
 And  not  only  is  it  believed  that  they  themselves  can  creep
-through,  but  that  whoever  looks  through  can  see  things  other-
-wise hidden  from  him  ;  the  same  thing  happens  if  you  look
+through,  but  that  whoever  looks  through  can  see  things  otherwise hidden  from  him  ;  the  same  thing  happens  if  you  look
 through  the  hole  made  in  the  skin  of  a  beast  by  an  elf's  arrow.
 In  Scotland  a  knot-hole  is  called  elf  bore,  says  Jamieson  :  '  a  hole
 in  a  piece  of  wood,  out  of  which  a  knot  has  dropped  or  been
@@ -1277,8 +1153,7 @@ Blaserle,  Moue's  Anzeiger  1834,  p.  260.
 
 ^02  WIGHTS   AND   ELVES.
 
-oak  knot-holes,  egepind),  the  elfin  is  bound  to  make  her  appear-
-anee_,  Molb.  Dial.  99  (see  Suppl.).
+oak  knot-holes,  egepind),  the  elfin  is  bound  to  make  her  appearanee_,  Molb.  Dial.  99  (see  Suppl.).
 
 In  name,  and  still  more  in  idea,  the  elf  is  connected  with  the
 ghostlike  butterfly,  the  product  of  repeated  changes  of  form.
@@ -1303,23 +1178,19 @@ become  visible.  The  dwarf-tales  tell  of  nebelkappen  (Deut.  sag.
 nos.  152-3-5),  of  gra.y  coats  and  red  caps  (Thiele  1,  122.  135),
 of  scarlet  cloals  (supra,  p.  451n.).-  Earlier  centuries  used  the
 words  lielhappe,  helheplein,  helhleit  (Altd.  bl.  1,  256),  nehelTcappe
-(MS.  2, 156\  258'^;  Morolt  2922.  3932)  and  tarnhappe.  By  Albe-
-rich^s  and  afterwards  Sigfrit's  tarnlxappe  (Nib.  98,  3.  336,  1.
+(MS.  2, 156\  258'^;  Morolt  2922.  3932)  and  tarnhappe.  By  Alberich^s  and  afterwards  Sigfrit's  tarnlxappe  (Nib.  98,  3.  336,  1.
 442,  2.  1060,  2)  or  simply  Imppe  (335,  1)  we  must  understand
 not  a  mere  covering  for  the  head,  but  an  entire  cloak  ;  for
 in  337,  1  we  have  also  tarnlmt,  the  protecting  skin,   and   the
 
 1  '  Hujus  tempore  principis  (Heinrici  ducis  Karinthiae)  in  montanis  suae
 ditionis  gens  gnaua  in  eavernis  montium  habitavit,  cum  liominibus  vescebantur,
-ludebant,  bibebant,  choreas  ducebant,  sed  invisihiUter.  Literas  scribebant,  rem-
-publicam  inter  se  gerebant,  legem  habentes  et  principem,  iidem  catholicam  pro-
+ludebant,  bibebant,  choreas  ducebant,  sed  invisihiUter.  Literas  scribebant,  rempublicam  inter  se  gerebant,  legem  habentes  et  principem,  iidem  catholicam  pro-
 Uteutes,  domicilia  hominum  laUnter  iutrantes,  bominibus  consedentes  et  arridentes.
 .  .  .  Principe  subducto,  nihil  de  eis  amplius  est  auditum.  Dicitur  quod
-[lemmas  gestant,  quae  eos  reddunt  invisibiles,  quia  deformitatem  et  parvitatevi  cor-
-porum  erubescuut.'     Anon.  Leobiens.  ad  ann.  1335  (Pez  1,  940'').
+[lemmas  gestant,  quae  eos  reddunt  invisibiles,  quia  deformitatem  et  parvitatevi  corporum  erubescuut.'     Anon.  Leobiens.  ad  ann.  1335  (Pez  1,  940'').
 
-^  Oh  Wormius's  pref.  to  Clausson's  Dan.  transl.  of  Suorre,  Copenh.  1633  :  '  der-
-for  sigis  de  (dverger)  at  hafve  hcitte  paa,  huormid  kunde  giore  sig  usynlig.'  Other
+^  Oh  Wormius's  pref.  to  Clausson's  Dan.  transl.  of  Suorre,  Copenh.  1633  :  '  derfor  sigis  de  (dverger)  at  hafve  hcitte  paa,  huormid  kunde  giore  sig  usynlig.'  Other
 proofs  are  collected  in  Ir.  Elfenm.  Isxiv.  Ixxv.  A  schretel  wears  a  rotez  keppel  on
 him  (not  on  his  head),  ibid.  cxvi.  KoUenhagen's  '  bergmiinnlein  '  wear  little  white
 shirts  and  pointed  caps,  Froschmeuseler  xx.  v'\  Maugis,  the  Carolingian  sorcerer,
@@ -1334,8 +1205,7 @@ imparts  superior  strength,  and  likewise  control  over  the  dwarf
 nation  and  their  hoard.  In  other  instances  the  cap  alone  is
 meant:  a  Norwegian  folk-tale  in  Faye  p.  30  calls  it  luldehat
 (pointed  hat  ?),  and  a  home-sprite  at  Hildesheim  bears  the  name
-of  Hodelten  from  the  felt  hat  he  wore.  Probably  the  OHG.  helot-
-helm  (latibulum),  Gl.  Hrab.  969%  the  OS.  helith-helm,  Hel.  164,
+of  Hodelten  from  the  felt  hat  he  wore.  Probably  the  OHG.  helothelm  (latibulum),  Gl.  Hrab.  969%  the  OS.  helith-helm,  Hel.  164,
 29,  AS.  heoWhelm,  Cod.  Exon.  362,  31,  hmWielm,  Caedm.  29,  2,
 ON.  hialmr  huliz  (an  Eddie  word  for  cloud),  Ssem.  50%^  and  the
 AS.  grimhelm,  Ceedm.  188,  27.  198,  20.  Beow.  66Q,  all  have  a
@@ -1373,8 +1243,6 @@ made  for  them  a  mist,  darkness,  luilinhidhnr,  Foruald.  sog.  3,  21'j  ;
 conf.  p.  -iiy  on  the  wishing-rod.
 
 
-464  WIGHTS  AND  ELVES.
-
 elder  speech  gitroc,  getroc,  dgetroc,  ahegetroc,  denotes  trickery
 especially  diabolic,  proceeding  from  evil  spirits  (Grainm.  2,  709.
 740-1). 1  To  the  same  effect  are  some  other  disparaging  epithets
@@ -1388,16 +1256,13 @@ der  mar,'  ^ein  alp  zoumet  dich  (bridles  thee).'  And  as  Dame
 Holle  entangles  one's  spinning  or  hair  (p.  269),  as  she  herself  has
 tangled  hair,-'^  and  as  stubbly  hair  is  called  Ho^Zeuzop/;*  so  the
 nightelf,  the  nightmare,  rolls  up  the  hair  of  men  or  the  manes  and
-tails  of  horses,  in  knots,  or  chews  them  through:  alpzopf,  driden-
-zQipf,  wich.telzopf,  weichsehopf  (of  wbich  more  hereafter),  in  Lower
-Saxony  mahrenlocke,  elfhlatte  (Brem.  worth.  1,  302),  Dan.  mare-
-lok,  Engl,  eljiochs  (Nares  sub  v.),  elvish  knots,  and  in  Shakspeare
+tails  of  horses,  in  knots,  or  chews  them  through:  alpzopf,  dridenzQipf,  wich.telzopf,  weichsehopf  (of  wbich  more  hereafter),  in  Lower
+Saxony  mahrenlocke,  elfhlatte  (Brem.  worth.  1,  302),  Dan.  marelok,  Engl,  eljiochs  (Nares  sub  v.),  elvish  knots,  and  in  Shakspeare
 to  elf  means  to  mat:  'elf  all  my  hair  in  knots,'  K.  Lear  ii.  3.
 Here  will  come  in  those  '  comae  equorum  diligenter  tricatae,'
 when  the  white  women  make  their  midnight  rounds  (supra,  p.
 287).  The  Lithuanian  elf  named  aitwaras  likewise  mats  the
-hair :  aitwars  yo  plaukus  suzindo,  suwele  (has  drawn  his  hair  to-
-gether). Lasicz  51  has  :  aitivaros,  incubus  qui  post  sepes  habitat
+hair :  aitwars  yo  plaukus  suzindo,  suwele  (has  drawn  his  hair  together). Lasicz  51  has  :  aitivaros,  incubus  qui  post  sepes  habitat
 (from  twora  sepes,  and  ais  pone).  Some  parts  of  Lower  Saxony
 give  to  the  wichtelzopf  (plica  polouica)  the  name  of  selkensteert,
 selkin's  tail  (Brem.  worth.  4,  749),  sellentost  (Hufeland's  Journal
@@ -1406,8 +1271,7 @@ selkin's  tail  (Brem.  worth.  4,  749),  sellentost  (Hufeland's  Journal
 
 1  Daz  analutte  des  sih  pergenten  trugetievcles,  N.  Bth.  44;  (/(rfrogr  pbantasma,
 0.  iii.  8,  24;  gedrog,  Bel.  89,  22  ;  tievels  qctroc,  Kail  62";  '  ne  clragu  ic  enic  drugi
-thing,'  Hel.  8,  10.  The  dwarf  Elberich  (Ortn.  3,  27.  5,  105)  is  called  '  eiu  trilge-
-w'lz  '  ;  conf.  infra,  bilwiz.
+thing,'  Hel.  8,  10.  The  dwarf  Elberich  (Ortn.  3,  27.  5,  105)  is  called  '  eiu  trilgew'lz  '  ;  conf.  infra,  bilwiz.
 
 '  Our  nachtmar  I  cannot  produce  either  in  OHG.  or  MHG.  Lye  gives  AS.
 '  vi(e7-e  ffficce '  incubus,  ephialtes,  but  I  do  not  understand  isecce.  Nearly  akin  is
@@ -1437,8 +1301,7 @@ come  riding.  Heinrich  von  Ofterdingen  bestows  on  them  a  steed
 king  Antilois  a  pony  the  size  of  a  roe,^  while  Altd.  bl.  2,  151
 without  more  ado  mounts  the  wihtel  on  a  ifjhite  roe.  Antilois  is
 richly  dressed,  bells  tinkle  on  his  bridle-reins ;  he  is  angry  with
-Alexander  for  spoiling  his  flower-garden,  as  Laurin  is  with  Diet-
-rich and  Wittich.  The  Welsh  stories  also  in  Crofton  Croker  3,
+Alexander  for  spoiling  his  flower-garden,  as  Laurin  is  with  Dietrich and  Wittich.  The  Welsh  stories  also  in  Crofton  Croker  3,
 306  say  :  '  they  were  very  diminutive  persons  riding  four  abreast,
 and  mounted  on  small  white  horses  no  bigger  than  dogs  '  (see
 SuppL).
@@ -1479,15 +1342,12 @@ de  twarge  unner  den  sel  dorkrupen  wollen,  felleu  iinen  de  kapj)cn  af,
 alle  in  blaten  ktippen,  un  woren  sichtbar.  De  twarge,  dei  sau  efongen  woren,
 geiwen  one  vele  gaue  wore,  dat  he  dat  sel  wegniimen  mogde,  un  versjirokcn  ene
 mette  (niicthe)  geld  davor  to  gewen,  hei  solle  mant  vor  suiiniuupiiaiiucvieev  (wicder)
-an  diise  stee  komen.  En  ander  man  segde  one  awer,  hei  mogde  nich  gcgcn  sun-
-uenupganp,  sundern  schon  iim  twolwe  hengan,  denu  da  wore  de  dag  ok  schon
+an  diise  stee  komen.  En  ander  man  segde  one  awer,  hei  mogde  nich  gcgcn  sunuenupganp,  sundern  schon  iim  twolwe  hengan,  denu  da  wore  de  dag  ok  schon
 anegan.  Diit  de  he,  und  richtig  woren  de  twarge  da  met  ener  mette  geld.  Davon
 heiten  de  liie,  dei  dei  mette  geld  ekregen  harren,  Mettens.  [Epitome  : — Dwarfs  at
 Jiihnde  preyed  on  the  pea-fields  ;  wore  caps  which  made  them  invisible.  One  man
 at  high  noon  stretched  a  cord  round  his  field.     Dwaifs,  creeping  under  it,  brushed
 
-
-466  WIGHTS   AND   ELVES.
 
 are  collected  in  Elfenm.  xcii.  xciii.,  and  their  longing  for  children
 and  blooming  maids  is  treated  of,  p.  civ.  cv.  Dwarf-kings  run
@@ -1531,14 +1391,12 @@ a  skinned  horse,  he  may  take  that !  Gets  angry,  yet  cuts  a  great  pi
 dogs.  When  he  got  home,  it  was  all  sheer  gold.  Went  for  the  rest ;  cave  and
 horse  were  gone.]
 
-The  remarkable  trysting-time  before  sunrise  seems  to  be  explained  by  the  dwarf-
-kind's  shyness  of  daylight,  which  appears  even  in  the  Edda,  Ssem.  51b  ;  they  avoid
+The  remarkable  trysting-time  before  sunrise  seems  to  be  explained  by  the  dwarfkind's  shyness  of  daylight,  which  appears  even  in  the  Edda,  Ssem.  51b  ;  they  avoid
 the  sun,  they  have  in  their  caves  a  different  light  and  different  time  from  those  of
 men.  In  Norse  legends  re-appears  the  trick  of  engaging  a  trold  in  conversation  till
 the  sun  is  risen  :  when  he  looks  round  and  sees  the  sun,  he  splits  in  two  ;  Asbiornsen
 and  Moe,  p.  186.  [The  marchen  of  Rumpelstilzchen  includes  the  dwarfs'  song,
-'  'Tis  well,'  etc.,  the  splitting  in  two,  and  the  kidnapping  presently  to  be  men-
-tioned.]
+'  'Tis  well,'  etc.,  the  splitting  in  two,  and  the  kidnapping  presently  to  be  mentioned.]
 
 1  But  she-dwarfs  also  marry  men  ;  Odman  (Bahuslan,  p.  78-9,  conf.  Afzelius  2,
 157)  relates  quite  seriously,  and  siDecifying  the  people's  names : — ■ — Eeors  fciraldrar  i
@@ -1598,19 +1456,14 @@ the  hill,  asked  him  if  he  wanted  his  daughter.  He  answered  yes,  and 
 naked,  threw  some  of  his  clothes  over  her  ;  had  her  christened.  Father :  '  At  thy
 wedding  bring  ale,  bread  and  horseflesh  to  my  /(///,  and  I  will  give  thee  a  wedding
 gift.'  This  being  done,  he  lifted  their  roof  and  threw  in  a  great  sum  of  money.
-'  Now  for  house-furniture,  come  here  with  four  horses.'  The  man  did  so,  and  re-
-ceived copper  kettles  of  all  sizes,  one  inside  the  other,  etc.,  etc.  By  this  wife,  thus
+'  Now  for  house-furniture,  come  here  with  four  horses.'  The  man  did  so,  and  received copper  kettles  of  all  sizes,  one  inside  the  other,  etc.,  etc.  By  this  wife,  thus
 fetched  from  the  hill,  he  had  many  children;  one  was  Eeor,  whose  nephew  0.  S.
 died  only  last  year.]
 
 '  Translation  : — Once  a  girl  had  gone  into  the  wood  after  strawberries,  when  the
 
 
-468  WIGHTS   AND   ELVES.
-
-They  abstract  well-shaped  children  from  the  cradle,  and  sub-
-stitute their  own  ugly  ones,  or  even  themselves.  These  sup-
-posititious creatures  are  called  changelings,  camhiones  (App.,
+They  abstract  well-shaped  children  from  the  cradle,  and  substitute their  own  ugly  ones,  or  even  themselves.  These  supposititious creatures  are  called  changelings,  camhiones  (App.,
 Superst.  E.) ;  OHG.  wlhselinga  (N,  Ps.  17,  46.  Cant.  Deuteron.
 5),  our  wechselhdlge ;  Swed.  bijfingar,  Dan.  bittinger ;  also  our
 hielh'opfe,  dicl:hdpfe  from  their  thick  necks  and  heads.  (Stories
@@ -1647,8 +1500,7 @@ boxed  her  ears,  and  down  she  fell.
 Assuredly  the  dwarfs  in  this  story  are  genuine  and  of  old  date.  Besides,  it  can
 be  supplemented  from  Kinderm.  3,  75,  where  the  returning  dwarfs  are  preceded  by
 foxes  and  bears,  who  also  go  past  and  question  the  'Pitcher's  fowl.'  There  the
-tub  of  honey  in  the  dwarf's  house  is  a  cask  of  Mood,  but  both  together  agree  wonder-
-fully with  the  vessels  which  the  dwarfs  Fialar  and  Galar  keep  filled  with  Kvasi's
+tub  of  honey  in  the  dwarf's  house  is  a  cask  of  Mood,  but  both  together  agree  wonderfully with  the  vessels  which  the  dwarfs  Fialar  and  Galar  keep  filled  with  Kvasi's
 precious  blood  and  with  honey.     Sn.  8.3.  84.
 
 '  Dresd.  saml.  no.  15,  of  the  '  miillers  sun.'  A  foolish  miller  begs  a  girl  to  teach
@@ -1664,8 +1516,7 @@ pringeut  ez  mir  herab  ! '     They  bring  him  a  swallow  in  a  covered  
 
 Hessian  folk-tale  :  A  woman  was  cutting  corn  on  the  Dosenberg,  and  her  infant  lay
 beside  her.  A  u-ichtel-wife  crept  up,  took  the  human  child,  and  put  her  own  in  its
-place.  When  the  woman  looked  for  her  darling  babe,  there  was  a  frightful  thick-
-head staring  in  her  face.  She  screamed,  and  raised  such  a  hue  and  cry,  that  at  last
+place.  When  the  woman  looked  for  her  darling  babe,  there  was  a  frightful  thickhead staring  in  her  face.  She  screamed,  and  raised  such  a  hue  and  cry,  that  at  last
 the  thief  came  back  with  the  child  ;  but  she  would  not  give  it  uji  till  the  woman
 had  put  the  u-iclitelhahj  to  her  breast,  and  nourished  it  for  once  with  the  generous
 milk  of  human  kind.
@@ -1681,8 +1532,7 @@ of  anywhere  occurs  in  connection  with  prescriptions  for  gefthiff
 rid  of  your  changeling.
 
 In  Hesse,  when  the  wichtelmann  sees  water  boiled  over  the
-fire  in  eggshells,  he  cries  out :  '  Well,  I  am  as  old  as  the  Wester-
-ivald,  but  I  never  saw  anything  boiled  in  eggshells ; '  Km.  no.
+fire  in  eggshells,  he  cries  out :  '  Well,  I  am  as  old  as  the  Westerivald,  but  I  never  saw  anything  boiled  in  eggshells ; '  Km.  no.
 39.  In  Denmark  a  pig  stuffed  with  skin  and  hair  is  set  before
 the  changeling  :  *  Now,  I  have  seen  the  wood  in  Tiso  young  three
 times  over,  but  never  the  like  of  this  ' :  Thiele  1,  48.  Before
@@ -1702,8 +1552,7 @@ chap.  XXXI.  Villemarque  1,  32,  quotes  in  addition  a  Welsh
 legend  and  a  passage  from  Geoffrey  of  Monmouth,  in  which  the
 Breton  and  Welsh  formula  for  great  age  is  already  put  into
 the  mouth  of  Merlin  the  wild ;  in  each  case  an  ancient  forest  is
-named.  In  all  these  stories  the  point  was,  by  some  out-of-the-
-way  proceeding,  to  get  the  changeling  himself  to  confess  his  age,
+named.  In  all  these  stories  the  point  was,  by  some  out-of-theway  proceeding,  to  get  the  changeling  himself  to  confess  his  age,
 and  consequently  the  exchange.  Such  traditions  must  have
 been  widely  spread  in  Europe  from  the  earliest  times;  and  it  was
 evidently  assumed,  that  elves  and  korred  had  a  very  diffei'ent
@@ -1783,15 +1632,12 @@ When,  in  legends  and  fairy  tales,  dwarfs  appear  singly  among
 men,  they  are  sage  coimsellors  and  helpful,  but  also  apt  to  fire  up
 and  take  offence.     Such  is  the  character  of  Elberich  and  Oberon ;
 in  a  Swiss  nursery- tale  (no.  165),  '  e  chlis  isigs  mandle'   (a  little
-ice-grey  mannikin),  'e  chlis  mutzigs  mandle'   (stumpy  m.),  ap-
-pears in  an  'isige  chliiidle'   (grey  coat),  and  guides  the  course
+ice-grey  mannikin),  'e  chlis  mutzigs  mandle'   (stumpy  m.),  appears in  an  'isige  chliiidle'   (grey  coat),  and  guides  the  course
 of  events ;  elves  forewarn  men  of  impending  calamity'  or  death
 (Ir.  Elfenm.  Ixxxvi.).     And  in  this  point  of  view  it  is  not  without
 significance,  that  elves  and  dwarfs  ply  the  spinning  and  weaving
-so  much  patronized  by  Dame  Holda  and  Frikka.     The  flying  gos-
-samer in  autumn  is  in  vulgar  opinion  the  thread  spun  by  elves  and
-dwarfs;  the  Christians  named  it  Marienfaden  (-thread),  Marien-
-sommer,  because  Mary  too  was  imagined  spinning  and  weaving.
+so  much  patronized  by  Dame  Holda  and  Frikka.     The  flying  gossamer in  autumn  is  in  vulgar  opinion  the  thread  spun  by  elves  and
+dwarfs;  the  Christians  named  it  Marienfaden  (-thread),  Mariensommer,  because  Mary  too  was  imagined  spinning  and  weaving.
 The  Swed.  dverg  signifies  araneus  as  well  as  nanus,  and  dvergs-nat
 a  cobweb.^     The  ON.  saga  of  Samson  hinn  fagri  mentions  in  cap.
 17a  marvellous  '  skickja,  sem  alfhonurnar  hofSu  ofit,'  mantle  that
@@ -1814,14 +1660,11 @@ aftoneu  efter  solciics  vederijung,  ok  eljest  mitt  pfi  hoga  middagen.  F
 gik  Olas  fadar  i  Surtung,  bcuiimd  Ola  Simnnssou,  hiir  i  fOrsamlingen  friin  Slaugcvald
 hafvandes  nied  sig  en  hund,  hvilkeu  i-X  han  blef  varse  mitt  pd  dagen  biirg^mannen,
 som  ta  smidde  pa  en  stor  sten,  skiiilde  han  pa  honom,  hvar  pa  biirdsmcdcn,  som  hade
-en  liusgrd  rdk  ok  hldvulen  halt,  begynte  at  snarka  at  hunden,  soin  tillika  med  hus-
-bonden  funno  radeligast,  at  lemna  honom  i  fred.  Thet  gifvas  ok  iinnu  ibland
+en  liusgrd  rdk  ok  hldvulen  halt,  begynte  at  snarka  at  hunden,  soin  tillika  med  husbonden  funno  radeligast,  at  lemna  honom  i  fred.  Thet  gifvas  ok  iinnu  ibland
 gemene  man  smS  crucilixcr  af  metall,  som  gemenligen  halles  fiire  vara  i  fordua
 
 VOL.  II.  n
 
-
-472  WIGHTS  AND  ELVES.
 
 To  bring  pig-iron  to  dwarfs,  and  find  it  the  next  morning  outside
 the  cave,  ready  worked  for  a  slight  remuneration,  is  a  feature  of
@@ -1960,8 +1803,6 @@ really  aequalitas,  similitudo,  the  ON.  likneski  (imago).  The  Celtic  hil
 good,  mild  ;  and  Leo  (Malb.  Gl.  38)  tries  to  explain  bilwiz  from  bilbheith,  bilbhith.
 
 
-474  WIGHTS   AND   ELVES.
-
 an  adj.  '  vit,  wiz '  occurs  nowhere  else  that  I  know  of^  the  ON.
 vitr  (gen.  vitrs)  being  provided  with  a  suffix  -r.  If  this  etymology
 is  tenable,  bilwiz  is  a  good  genius,  but  of  elvish  nature ;  he  haunts
@@ -1973,14 +1814,11 @@ sacrifice  a  child  or  garment  to  a  pilbis-tree,  i.e.  a  tree  supposed
 to  be  inhabited  by  the  pilwiz,  as  trees  do  contain  wood-sprites
 and  elves.  Borner's  Legends  of  the  Orlagau,  p.  59.  62,  name  a
 witch  Bilhze.  The  change  of  bilwiz,  hilwis  into  hilwiht  was  a  step
-easily  taken,  as  in  other  words  also  s  and  li,  or  6*  and  ht  inter-
-change (lies,  lioht,  Gramm.  1,  138),  also  st  and  lit  (forest,  foreht,
+easily  taken,  as  in  other  words  also  s  and  li,  or  6*  and  ht  interchange (lies,  lioht,  Gramm.  1,  138),  also  st  and  lit  (forest,  foreht,
 Gramm.  4,  416)  ;  and  the  more,  as  the  compound  hilwiht  gave
 a  not  unsuitable  meaning,  'good  wight.'  The  Gl.  bias.  87*  offer
 a  wihsil stein  (penas),  nay,  the  varying  form  of  our  present  names
-for  the  plica  (p.  464),  weichselzopf,  wichselzopf,  wichtelzopf  [hicli-
-telzopf)  makes  the  similar  shading  off  of  bilweichs,  hilwechs,  hil-
-wicht  probable :  I  have  no  doubt  there  is  even  a  hilweichszopf,
+for  the  plica  (p.  464),  weichselzopf,  wichselzopf,  wichtelzopf  [hiclitelzopf)  makes  the  similar  shading  off  of  bilweichs,  hilwechs,  hilwicht  probable :  I  have  no  doubt  there  is  even  a  hilweichszopf,
 hilwizzopf  to  be  found.^
 
 Popular  belief  in  the  last  few  centuries,  having  lost  the  old  and
@@ -2029,8 +1867,7 @@ her  child,  '  i  den  hilmezschedl  get  nix  nei,'  get  your  b.  clots
 combed  out,  you  don't  come  in  in  that  shaggy  scalp,  Schm.  1,
 168.  pilineskmcl,  a  curse  like  devil's  child,  Delling's  Bair.  idiot.
 1,  78.  On,  the  Saale  in  Thuringia,  bulmuz  is  said  of  unwashed
-or  uncombed  children ;  while  bilbezschnitt,  bilwezschnitt,  bilfez-
-schnitt,  pilmasschnid  (Jos.  Rank.  Bohmerwald,  p.  274)  denotes  a
+or  uncombed  children ;  while  bilbezschnitt,  bilwezschnitt,  bilfezschnitt,  pilmasschnid  (Jos.  Rank.  Bohmerwald,  p.  274)  denotes  a
 cutting  through  a  field  of  corn,  which  is  regarded  as  the  work
 of  a  spirit,  a  witch,  or  the  devil.
 
@@ -2041,8 +1878,7 @@ solidis  componat,  quod  aranscarti^  dicunt.'  I  dare  say  such  a
 delinquent  was  then  called  a  piliwiz,  pilawiz  ?  On  this  passage
 Mederer  remarks,  p.  202-3  :  An  honest  countryman  told  me
 about  the  so-called  bilmerschnitt,  bUberschnitt,  as  follows  :  '  The
-spiteful  creature,  that  wants  to  do  his  neighbour  a  rascally  mis-
-chief, goes  at  midnight,  stark  naked,  with  a  sickle  tied  to  his  foot,
+spiteful  creature,  that  wants  to  do  his  neighbour  a  rascally  mischief, goes  at  midnight,  stark  naked,  with  a  sickle  tied  to  his  foot,
 and  repeating  magic  spells,  through  the  middle  of  a  field  of  corn
 just  ripe.  From  that  part  of  the  field  that  he  has  passed  his
 sickle  through,  all  the  grains  fly  into  his  barn,  into  his  bin.'
@@ -2073,27 +1909,19 @@ it,  his  sickle  soon  cut  more  than  any  other  four  ;  if  he  will  driv
 opens  before  him.)
 
 
-476  WIGHTS  AND  ELVES.
-
-Julius  Schmidt  too  (Reichenfels,  p.  119)  reports  from  tlae  Vogt-
-land  :  The  belief  in  hilsen-  or  hilver-schnitter  (-reapers)  ^  is  toler-
-ably extensive,  nay,  there  seem  to  be  certain  persons  who  believe
+Julius  Schmidt  too  (Reichenfels,  p.  119)  reports  from  tlae  Vogtland  :  The  belief  in  hilsen-  or  hilver-schnitter  (-reapers)  ^  is  tolerably extensive,  nay,  there  seem  to  be  certain  persons  who  believe
 themselves  to  he  such  :  in  that  case  they  go  into  the  field  before
 sunrise  on  St.  John's  day,  sometimes  on  Walpurgis-day  (May  1),
-and  cut  the  stalks  with  small  sickles  tied  to  their  great  toes,  step-
-ping slantwise  across  the  field.  Such  persons  must  have  small
+and  cut  the  stalks  with  small  sickles  tied  to  their  great  toes,  stepping slantwise  across  the  field.  Such  persons  must  have  small
 three-cornered  hats  on  (bilsenschnitter-hutchen) ;  if  during  their
 walk  they  are  saluted  by  any  one,  they  must  die  that  year.
 These  hilsenschnitter  believe  they  get  half  the  produce  of  the
-field  where  they  have  reaped,  and  small  sickle-shaped  instru-
-ments have  been  found  in  some  people's  houses,  after  their  death.
+field  where  they  have  reaped,  and  small  sickle-shaped  instruments have  been  found  in  some  people's  houses,  after  their  death.
 If  the  owner  of  the  field  can  pick  up  any  stubble  of  the  stalks
-so  cut,  and  hangs  it  in  the  smoke,  the  hilsenschnitter  will  gra-
-dually waste  away  (see  Suppl.).
+so  cut,  and  hangs  it  in  the  smoke,  the  hilsenschnitter  will  gradually waste  away  (see  Suppl.).
 
 According  to  a  communication  from  Thuringia,  there  are  two
-■ways  of  bafiling  the  hilms-  or  hinsen-schneider  (-cutter)/  which-
-ever he  is  called.  One  is,  on  Trinity  Sunday  or  St.  John's  day,
+■ways  of  bafiling  the  hilms-  or  hinsen-schneider  (-cutter)/  whichever he  is  called.  One  is,  on  Trinity  Sunday  or  St.  John's  day,
 when  the  sun  is  highest  in  the  sky,  to  go  and  sit  on  an  elderbush
 with  a  looking-glass  on  your  breast,  and  look  round  in  every
 quarter,  then  no  doubt  you  can  detect  the  hinsenschneider,  but
@@ -2153,8 +1981,7 @@ bugbear.  Originally  '  gute  holden,'  sociable  and  kindly  beings,
 they  have  twisted  round  by  degrees  into  uncanny  fiendish  goblins,
 wizards  and  witches.  And  more,  at  the  back  of  these  elvish
 beings  there  may  lurk  still  higher  divine  beings.  The  Romans
-worshipped  a  Rohigo,  who  could  hinder  blight  in  corn,  and  per-
-haps, if  displeased,  bring  it  on.  The  walking  of  the  hilwiss,  of
+worshipped  a  Rohigo,  who  could  hinder  blight  in  corn,  and  perhaps, if  displeased,  bring  it  on.  The  walking  of  the  hilwiss,  of
 the  Roggenrnulnne  in  the  grain  had  at  first  a  benevolent  motive  :
 as   the  names  mutter,  nmlime,  mdr  teach  us,  she  is  a  motherly
 
@@ -2164,8 +1991,6 @@ Altmark.  The  Batleu  legend  makes  of  it  a  rockerl-treilh'le  aud  au  enc
 countess  of  Ebersteiu,  who  walks  about  in  a  wood  named  llockert  (Moue's  Anzeiger,
 3,  145).
 
-
-478  WIGHTS   AND   ELVES.
 
 guardian  goddess  of  spindle  and  seedfield.  Fro  upon  his  hoar
 must  have  ridden  thi-ough  the  plains,  and  made  them  productive,
@@ -2206,9 +2031,7 @@ cortice  vulneri  superimposito,  iUum  nou  tantum  sanant,  sed  et  dolorem  
 eximunt."  Among  the  Wends  tbis  corn-wife  is  named  pshipolnitza  [prop,  prepoln.,
 from  polno,  full,  i.e.  full  noon] ,  at  the  hour  of  noon  she  creeps  about  as  a  veiled
 tcovian.  If  a  Wend,  conversing  with  her  by  the  hour  on  flax  and  ilax-dressing,  can
-manage  to  contradict  everything  she  says,  or  keep  saying  the  Lord's  prayer  back-
-wards without  stumbling,  he  is  safe  (Lausitz.  monatsschr.  1797,  p.  744).  The  Bohe-
-mians call  her  haha  (old  woman),  or  polednice,  poludnice  (meridiana),  the  Poles
+manage  to  contradict  everything  she  says,  or  keep  saying  the  Lord's  prayer  backwards without  stumbling,  he  is  safe  (Lausitz.  monatsschr.  1797,  p.  744).  The  Bohemians call  her  haha  (old  woman),  or  polednice,  poludnice  (meridiana),  the  Poles
 dzieicanna,  dzieicice  (maiden),  of  whom  we  shall  have  to  speak  more  than  once,  conf.
 chap.  XXXVI.  Here  also  there  are  plainly  gods  mixed  up  with  the  spirits  and
 goblins.
@@ -2220,8 +2043,7 @@ of  tlie  tough  persistence  of  such  materials  in  popular  tradition)  ;
 both  the  schretel  and  the  word  wazzerbern  answer  perfectly  to
 the  trolcl  and  the  hvidbiorn.  Vintler  thinks  of  the  sclvrattlln  as  a
 spirit  light  as  wind,  and  of  the  size  of  a  child.  The  Vocab.  of
-1482  has  schretUn  (penates)  ;  Dasypodius  nacldscltrettele  (ephi-
-altes)  ;  later  ones  spell  it  schrilttele,  schrdttel,  sclirettele,  scltrdtle,
+1482  has  schretUn  (penates)  ;  Dasypodius  nacldscltrettele  (ephialtes)  ;  later  ones  spell  it  schrilttele,  schrdttel,  sclirettele,  scltrdtle,
 conf.  Staid.  2,  350.  Schmidts  Schwab,  worth.  478,  In  the  Sette
 comm.  schrata  or  schretele  is  a  butterfly,  Schm.  3,  519.  A
 Thidericus  Scratman  is  named  in  a  voucher  of  1244  ;  Spilcker  2,
@@ -2229,8 +2051,7 @@ Thidericus  Scratman  is  named  in  a  voucher  of  1244  ;  Spilcker  2,
 1833,  952.  984.  1023.  And  other  Teutonic  dialects  seem  to
 know  the  word  :  AS.  scritta,  Eng.  scrat  (hermaphroditus)/  ON.
 shratti  (mains  genius,  gigas)  ;  a  rock  on  the  sea  is  called
-shrattaskev  (geniorum  scopulus),  Fornm.  sog.  2,  142.  Compar-
-ing these  forms  with  the  OHG.  ones  above,  we  miss  the  usual
+shrattaskev  (geniorum  scopulus),  Fornm.  sog.  2,  142.  Comparing these  forms  with  the  OHG.  ones  above,  we  miss  the  usual
 consonant-change :  the  truth  is,  other  OHG.  forms  do  shew  a
 z  in  place  of  the  t :  scraz,  Gl.  fuld.  14 ;  screza  (larvae,  lares  mali),
 Gl.  lindenbr.  996*^;  '  srezze  vel  strate  ^  (not:  screzzol  scraito),
@@ -2238,8 +2059,7 @@ Sumerlat.  10,  6G ;  'unreiner  schrdz,'  Altd.  w.  3,  170  (rhymes
 vraz).^  And  Upper  Germ,  dictionaries  of  the  16th  cent,  couple
 schretzel  with  alp;  Hofer  3,  114,  has  '  der  schretz/  and  Schm.
 3,  552,  '  der  schretzel,  das  schrefzlein.'  According  to  Mich.
-Beham  8.  9  (Moneys  Anz.  4,  450-1),  every  house  has  its  schrez-
-leiii ;  if  fostered,  he  brings  you  goods  and  honour,  he  rides  or
+Beham  8.  9  (Moneys  Anz.  4,  450-1),  every  house  has  its  schrezleiii ;  if  fostered,  he  brings  you  goods  and  honour,  he  rides  or
 drives  the  cattle,  prepares  his  table  on  Brecht-night,  etc.^
 
 The  agreement  of  Slavic  words  is  of  weight.  0.  Boh.  scret
@@ -2266,8 +2086,6 @@ a  hopping,  leaping  gobhn  or  satyr  (from  ffKiprdu,  1  bound)  ?  Lobcck's
 1311.
 
 
-480  .WIGHTS   AND   ELVES.
-
 skryti  (celare,  occulere)  is  wortli  considering.  [A  compound  of
 krj'ti,  to  cover,  root  kry,  krov^  KpinrTO).  If  Slav,  skr^,  why  not
 AS.  scrud,  shroud  ?].
@@ -2289,8 +2107,7 @@ to  Aphrodite  257-272  ;  and  see  Suppl.).
 Another  thing  in  which  the  schrats  differ  from  elves  is,  that
 they  appear  one  at  a  time,  and  do  not  form  a  people.
 
-The  Fichtelberg  is  haunted  by  a  wood-sprite  named  the  Katzen-
-veit,  with  whom  they  frighten  children  :  '  Hush,  the  Katzenveit
+The  Fichtelberg  is  haunted  by  a  wood-sprite  named  the  Katzenveit,  with  whom  they  frighten  children  :  '  Hush,  the  Katzenveit
 will  come  ! '  Similar  beings,  full  of  dwarf  and  goblin-like
 humours,  we  may  recognise  in  the  Gilhich  of  the  Harz,  in  the
 Hiibezal  of  Riesengebirge.  This  last,  however,  seems  to  be  of
@@ -2314,8 +2131,7 @@ seen  no  decent  etymology? — Trans.
 
 2  Sagen  aus  der  vorzeit  Mahrens  (Briinn,  1817),  pp.  136-171.
 
-^  The  plica  is  also  called  koltun,  and  again  koltki  are  Polish  and  Eussian  home-
-sprites.
+^  The  plica  is  also  called  koltun,  and  again  koltki  are  Polish  and  Eussian  homesprites.
 
 
 SCRAT   (PILOSUS).  481
@@ -2351,14 +2167,12 @@ proof  have  already  been  given,  pp.  58.  68:  'arbores  daemoni
 dedicatae,^  and  among  the  Warasken,  a  race  akin  to  the  Bavarian,
 '  agrefitiu7n  fana.,  quos  vulgus  faimos  vocat.^
 
-Some  remarkable  statements  are  found  in  Eckehart's  Walt-
-harius.  Eckevrid  of  Saxony  accosts  him  with  the  bitter  taunt
+Some  remarkable  statements  are  found  in  Eckehart's  Waltharius.  Eckevrid  of  Saxony  accosts  him  with  the  bitter  taunt
 (701):
 
 1  Luther  translates  feldtetifel ;  the  Heb.  sagnir  denotes  a  shar^gy,  goat-like
 being.  Kadcvicus  frising.  2,  13,  imitates  the  whole  passage  in  the  proi)het :  '  ululae,
-upupae,  bubones  toto  anno  in  ectis  fuuebria  porsouantes  lugubri  voce  aures  om-
-nium repleverunt.  Pilosi  quos  satyros  vocant  in  doinibus  pleruuquo  auditi.'  Again
+upupae,  bubones  toto  anno  in  ectis  fuuebria  porsouantes  lugubri  voce  aures  omnium repleverunt.  Pilosi  quos  satyros  vocant  in  doinibus  pleruuquo  auditi.'  Again
 2,  24:  'in  a  ililiuF     lis  lugubri  voce  respondeant  ululae,  salti'iit  piln^i.'
 
 2  '  Daemones  quos  duscios  Galli  nuncupant.'  Augustine,  Civ.  Dei,  c.  23.  The
@@ -2367,8 +2181,6 @@ name  duz  still  lives  in  Bretagne,  dimiu.  diizik  (Villemarque  1,  42).
 3  In  the  same  way  the  jiidel  (I  suppose  [liietfl,  the  same  as  guote  holde)  has
 toys  placed  for  him,  Superst.  I,  no.  02  ;  conf.  infra,  the  homesprites.
 
-
-482  WIGHTS   AND   ELVES.
 
 Die,  ait,  an  corpus  vegetet  tractabile  temet,
 sive  per  aerias  fallas,  maledlde,  figuras  ?
@@ -2393,8 +2205,7 @@ Herewith  the  '  wood-schrat '  returns  you  the  favour.^
 
 Here  the  faun  is  called  faiitasma,  phantom  ;  OHG.  gisctn,  T.
 81  (Matt.  xiv.  26),  otherwise  scinleih  (monstrum),  Gl.  hrab.  969^.
-Jun.  214;  AS.  scinldc  (portentum)  ;  or  gitroc,  p.  464.  Phan-
-tasma  vagabundiim  (Vita  Lebuini,  Pertz  2,  361) ;  'fantasma  vult
+Jun.  214;  AS.  scinldc  (portentum)  ;  or  gitroc,  p.  464.  Phantasma  vagabundiim  (Vita  Lebuini,  Pertz  2,  361) ;  'fantasma  vult
 nos  pessundare '  (Hroswitha  in  Dulcicius)  ;  'fantasia  quod  in
 libris  gentiiinm  fa^onus  solet  appellari,'  Mabillon,  Analect.  3,  352.
 A  '  municipium,^  or  '  oppidum  7)ions  fauni,'  in  Ivonis  Carnot.
@@ -2402,8 +2213,7 @@ epist.  172,  and  conf.  the  doc.  quoted  in  the  note  thereon,  in
 which  it  is  monsfaunum.  Similarly  in  OFr.  poems  :  'fantosme
 nous  va  faunoiant'  Meon  4,  138;  fantosme  qui  me  desvoie,
 demaine,'  ibid.  4,  140.  4.  402.  A  passage  from  Girart  de
-Rossillon  given  in  Mone's  Archiv  1835.  210  says  of  a  moun-
-tain :  '  en  ce  mont  ha  moult  de  grans  secrez,  trop  y  a  de  fantomes.'
+Rossillon  given  in  Mone's  Archiv  1835.  210  says  of  a  mountain :  '  en  ce  mont  ha  moult  de  grans  secrez,  trop  y  a  de  fantomes.'
 Such  are  the  fauni  ficarii  and  silvestres  homines,  with  whom
 Jornandes  makes  his  Gothic  aliorunes  keep  company  (p.  404).
 Yet  they  also  dip  into  the  province  of  demigod  heroes.  Miming
@@ -2437,8 +2247,7 @@ deste  sterker  muoser  sin.  the  stronger  must  he  be.
 
 In  the  Wolfdietrich  a  wild  man  like  this  is  called  lualtlunder,  and
 in  Laurin  173.  183  ivaltmann.  The  ON.  mythology  knows  of
-wild  wood- wives  by  the  names  ivi&jur,  Sgem.  88^.  119^  o^ndiiarri-
-vi&jur,  Sn.  13.  About  the  ivicfja  we  find  at  the  beginning  of  the
+wild  wood- wives  by  the  names  ivi&jur,  Sgem.  88^.  119^  o^ndiiarrivi&jur,  Sn.  13.  About  the  ivicfja  we  find  at  the  beginning  of  the
 Hrafnagaldr  the  obscure  statement  '  elr  iviSja,'  alit,  auget,  pai-it,
 gignit  dryas ;  iviSja  is  derived  from  a  wood  or  grove  iviSr,  of
 which  the  Voluspa  1*  makes  mention :  '  nio  man  ek  heima,  nio
@@ -2453,22 +2262,17 @@ that  case  the  females  especially  approximate  those  higher  beings
 spoken  of  on  p.  432.  They  are  small  of  stature,  but  somewhat
 larger  than  elves,  grey  and  oldish-looking,  hairy  and  clothed  in
 moss :  '  ouch  waren  ime  diu  oren  als  eime  walttoren  vermieset,'
-his  ears  like  a  forest-fool's  bemossed  (?),  Iw.  440.  Often  hoh-
-weibel  alone  are  mentioned,  seldomer  the  males,  who  are  supposed
-to  be  not  so  good-natured  and  to  live  deeper  in  the  woods,  wear-
-ing green  garments  faced  with  red,  and  black  three-cornered  hats.
+his  ears  like  a  forest-fool's  bemossed  (?),  Iw.  440.  Often  hohweibel  alone  are  mentioned,  seldomer  the  males,  who  are  supposed
+to  be  not  so  good-natured  and  to  live  deeper  in  the  woods,  wearing green  garments  faced  with  red,  and  black  three-cornered  hats.
 H.  Sachs  1,  407'*  brings  up  hohmdnner  and  hohfrauen,  and  gives
 1,  348*=  the  lament  of  the  wild  woodfolk  over  the  faithless  world.
 Schmidt's  Reichenfels,  pp.  140-8  tells  us  the  Voigtland  tradition,
 and  Burner,  pp.  188-242  that  of  the  Orlagau ;  from  them  I  borrow
-what  is  characteristic.  The  little  wood-wives  come  up  to  wood-
-cutters, and  beg  for  something  to  eat,  or  take  it  themselves  out
+what  is  characteristic.  The  little  wood-wives  come  up  to  woodcutters, and  beg  for  something  to  eat,  or  take  it  themselves  out
 
 1  Afzelius  2,   145-7,  mentions  Swed.  lofjerskor,  leaf-maids,  forest-maids,  and
 compares  them  with  Laufey  (p.  2i<j),  but  the  people  have  Utile  to  say  about  them.
 
-
-484  WIGHTS   AND   ELVES.
 
 of  their  pots  ;  but  whatever  they  have  taken  or  borrowed  they
 make  good  in  some  other  way,  not  seldom  by  good  advice.  At
@@ -2486,11 +2290,9 @@ mightily  offended  if  you  refuse  it.  At  other  times  the  wood-wife
 makes  her  appearance  with  a  broken  little  wheelbarrow,  and  begs
 you  to  mend  the  wheel ;  then,  like  Berhta  she  pays  you  with  the
 fallen  chips,  which  turn  into  gold ;  or  if  you  are  knitting,  she
-gives  you  a  ball  of  thi'oad  which  you  will  never  have  done  un-
-winding. Every  time  a  man  twists  (driebt,  throws)  the  stem  of
+gives  you  a  ball  of  thi'oad  which  you  will  never  have  done  unwinding. Every  time  a  man  twists  (driebt,  throws)  the  stem  of
 a  young  tree  till  the  bark  flies  off,  a  wood- wife  has  to  die.  When
-a  peasant  woman,  out  of  pity,  gave  the  breast  to  a  crying  wood-
-child,  the  mother  came  up  and  made  her  a  present  of  the  bark  in
+a  peasant  woman,  out  of  pity,  gave  the  breast  to  a  crying  woodchild,  the  mother  came  up  and  made  her  a  present  of  the  bark  in
 which  the  child  was  cradled ;  the  woman  broke  a  splinter  oS"  and
 threw  it  in  to  her  load  of  wood,  but  when  she  got  home  she  found
 it  was  of  gold  (see  Suppl.).
@@ -2530,8 +2332,7 @@ utterly  impoverished.  To  '  pip  '  a' loaf  is  to  push  the  tip  of  your
 finger  into  it,  a  common  practice  in  most  places.  Probably  the
 wood-wives  could  not  carry  off  a  pricked  loaf,  and  therefore
 disliked  the  mark  ;  for  a  like  reason  they  objected  to  counting.
-Whether  the  seasoning  with  cummin  disgusted  them  as  an  inno-
-vation merely,  or  in  some  other  connection,  I  do  not  know.  The
+Whether  the  seasoning  with  cummin  disgusted  them  as  an  innovation merely,  or  in  some  other  connection,  I  do  not  know.  The
 rhyme  runs  thus  :  '  kiimmelbrot,  unser  tod  ! '   the  death  of  us ;
 
 or — 'kiimmelbrot  macht  angst  und  noth.' Some  wood-mauni-
@@ -2580,8 +2381,6 @@ of  work.  Similar  tales  are  told  of  the  brownie,  R.  Chambers,  p.  33. 
 idea  lies  at  the  bottom  of  the  first  story  about  \Yichtelmannercheu  in  Kiuderm.  39.
 
 
-486  WIGHTS  AND   ELVES.
-
 clothes_,  the  spirits  were  afraid  of  suddenly  breaking  oflF  tlie
 relation  that  subsisted  between  themselves  and  mankind.  We
 shall  see  presently  that  the  home-sprites  proper  acted  on  different
@@ -2603,21 +2402,17 @@ altogether  the  nature  of  a  wood-sprite ;  out  of  Orcus  ^  has  been
 made  an  Ital,  orco,  Neapol.  huorco,  Fr.  ogre  (supra,  p.  314)  :  he
 is  pictured  black,  hairy,  hristly,  but  of  great  stature  rather  than
 small,  almost  gigantic ;  children  losing  their  way  in  the  wood
-come  upon  his  dwelling,  and  he  sometimes  shews  himself  good-
-natured  and  bestows  gifts,  oftener  his  wife  (orca,  ogresse)  pro-
-tects and  saves.-  German  fairy-tales  hand  over  his  part  to  the
+come  upon  his  dwelling,  and  he  sometimes  shews  himself  goodnatured  and  bestows  gifts,  oftener  his  wife  (orca,  ogresse)  protects and  saves.-  German  fairy-tales  hand  over  his  part  to  the
 devil,  who  springs  even  more  directly  from  the  ancient  god  of
 the  lower  world.  Of  the  invisible-making  helmet  the  orco  has
 nothing  left  him,  on  the  other  hand  a  deemonic  acuteness  of
-scent  is  made  a  characteristic  feature,  he  can  tell  like  a  sea-
-monster  the  approach  of  human  flesh  :  '  je  sens  la  chair  fraiche/
+scent  is  made  a  characteristic  feature,  he  can  tell  like  a  seamonster  the  approach  of  human  flesh  :  '  je  sens  la  chair  fraiche/
 *ich  rieche,  rieche  menschenfleisch,*  Mch  wittere,  wittere
 menschenfleisch,'  '  i  schmoke  ne  Crist,^  '  I  smell  the  blood,^
 'jeg  lugter  det  paa  min  hoire  haand  (right  hand),'  ^her  lugter
 saa  kristen  mands  been,'  ^  exactly  as  the  meerminne  already  in
 
-It  is  a  common  characteristic,  that  holds  good  of  wichtels,  of  subterraneans,  of  lake-
-sprites  and  of  wood-folk,  but  chiefly  of  male  ones  who  do  service  to  mankind.
+It  is  a  common  characteristic,  that  holds  good  of  wichtels,  of  subterraneans,  of  lakesprites  and  of  wood-folk,  but  chiefly  of  male  ones  who  do  service  to  mankind.
 [Might  the  objection  to  shewing  their  feet  arise  from  their  being  web-footed,  like
 the  Swiss  hardmiindle,  especially  in  the  case  of  water-sprites  ?]
 
@@ -2674,8 +2469,7 @@ called  Landskroua.  An  old  folk-tale  says,  there  was  heard  in  the  fore
 river  a  continual  knocking,  as  of  a  stone-cutter.  At  last  a  peasant  took  courage  and
 penetrated  into  the  forest ;  there  he  found  a  wood-sprite  hewing  at  a  stone,  who,  on
 being  asked  what  that  should  mean,  answered  :  '  this  stone  shall  be  the  boundary
-between  the  lands  of  the  Swedes  and  Moskovites.'  Forsell's  Statistik  von  Schwc-
-den,  p.  1.
+between  the  lands  of  the  Swedes  and  Moskovites.'  Forsell's  Statistik  von  Schwcden,  p.  1.
 
 3  To  make  up  an  OHG.  skuoh  and  skuohisal  is  doubtless  yet  more  of  a  venture.
 Our  srlunisdl  (nionstrum),  if  it  comes  from  schcuen  (sciuhanf,  to  shy  at,  has  quite
@@ -2686,24 +2480,18 @@ has  scheuhe  (larva).
 VOL.  II.  E
 
 
-488  WIGHTS   AND   ELVES.
-
 merkint,  wildiu  merwunder,  Gudrua  109,  4.  112,  3.  wildez  merwip,
 Ossv.  .-653^  673;  Mod.  HG.  meerwunder,  wassermann  (Slav.
-vodnik),  seejungfer,  meerweib  ;  ON.  haf-fru,  ces-kona,  hafgygr,  mar-
-gygr.;Dazi..havviand,  brondmand  (man  of  the  burn  or  spring),
+vodnik),  seejungfer,  meerweib  ;  ON.  haf-fru,  ces-kona,  hafgygr,  margygr.;Dazi..havviand,  brondmand  (man  of  the  burn  or  spring),
 Molb.  DiaL  p.  58;  Swed.  hafsman,  hafsfru,  and  more  particularly
 stromkarl  (river  sprite  or  man).  Wendish  vodny  muz,  water  man.
 The  notion  of  a  water-king  shews  itself  in  waterconink,  Melis
-Stoke  2,  96.  Certain  elves  or  dwarfs  are  represented  as  water-
-sprites  :  Andvari,  son  of  Oln,  in  the  shape  of  a  pike  inhabited
+Stoke  2,  96.  Certain  elves  or  dwarfs  are  represented  as  watersprites  :  Andvari,  son  of  Oln,  in  the  shape  of  a  pike  inhabited
 a  fors.  Seem.  180-1  ;  and  Alfrikr,  ace.  to  Vilk.  saga,  cap.  34,
 haunted  a  river  (see  Suppl.).
 
 The  peculiar  name  of  such  a  watersprite  in  OHG.  was  nihhus,
-nichus,  gen.  nichuses,  and  by  this  term  the  glossists  render  croco-
-dilus,  Gl.  mens.  332,  412.  Jun.  270.  Wirceb.  978^;  the  Physio-
-logus  makes  it  neuter  :  daz  nikhus,  Diut.  3,  25.  Hoffm.  Fundgr.
+nichus,  gen.  nichuses,  and  by  this  term  the  glossists  render  crocodilus,  Gl.  mens.  332,  412.  Jun.  270.  Wirceb.  978^;  the  Physiologus  makes  it  neuter  :  daz  nikhus,  Diut.  3,  25.  Hoffm.  Fundgr.
 23.  Later  it  becomes  niches,  Gl.  Jun.  270.  In  AS.  I  find,  with
 change  of  s  into  r,  a  masc.  nicor,  pi.  niceras,  Beow.  838.  1144.
 2854,  by  which  are  meant  monstrous  spirits  living  in  the  sea,
@@ -2720,8 +2508,7 @@ In  MHG.  Conrad  uses  wassernixe  in  the  sense  of  siren  :  '  heiz  uns
 leiten  uz  dem  bade  der  vertanen  (accursed)  wassernixen,  daz  uns
 ir  gedoene  (din)  iht  schade  '  (MS.  2,  200'').^
 
-The  ON.  nikr  (gen.  niks  ?)  is  now  thought  to  mean  hippo-
-potamus only  ;  the  Swed.  ndk,  nek,  and  the  Dan.  nok,  nok,  nocke,
+The  ON.  nikr  (gen.  niks  ?)  is  now  thought  to  mean  hippopotamus only  ;  the  Swed.  ndk,  nek,  and  the  Dan.  nok,  nok,  nocke,
 aanycke  (Molb.  Dial.  p.  4)  express  exactly  our  watersprite,  but
 always  a  male  one.  The  Danish  form  comes  nearest  to  a  Mid.
 Lat.  nocca,  spectrum  marinum  in  stagnis  et  fluviis  ;  the  Finn.
@@ -2743,8 +2530,7 @@ business  to  suppose  a  tenuis  j  besides,  the  images  of  Nehalennia
 hardly  indicate  a  river-goddess.
 
 I  think  we  have  better  reason  for  recognising  the  water-sprite
-in  a  name  of  OSinn,  who  was  occasionally  conceived  of  as  Ne-p-
-tune  (p.  148),  and  often  appears  as  a  sailor  and  ferryman  in  his
+in  a  name  of  OSinn,  who  was  occasionally  conceived  of  as  Ne-ptune  (p.  148),  and  often  appears  as  a  sailor  and  ferryman  in  his
 bark.  The  AS.  Andreas  describes  in  detail,  how  God  Himself,  in
 the  shape  of  a  divine  shipman  escorts  one  over  the  sea ;  in  the
 Legenda  Aurea  it  is  only  an  angel.  O^inn,  occording  to  Sn.  3,  is
@@ -2766,18 +2552,14 @@ gods.  The  nymphgea  [vv^^aia  from  vviJb<^rf)  we  still  call  niV-
 llume  as  well  as  seeblume,  seelilie,  Swed.  nackhlad,  Dan.  nuk-
 Icehlomster,  nokkerose ;  the  conferva  rupestris,  Dan.  nokkeskdg
 (nix-beard) ;  the  haliotis,  a  shellfish,  Swed.  ndckora  (nix-ear)  ;
-the  crumby  tufa-stone,  tophus,  Swed.  ndckehrod,  the  water-
-sprite's  bread.  Finn,  ndkinkenka  (mya  margaritifera)  ndkin
-waltikka  (typha  angustifolia)  ;  the  Lausitz  Wends  call  the  blos-
-soms or  seedpods  of  certain  reeds  '  vodneho  vivzha  porsty,
+the  crumby  tufa-stone,  tophus,  Swed.  ndckehrod,  the  watersprite's  bread.  Finn,  ndkinkenka  (mya  margaritifera)  ndkin
+waltikka  (typha  angustifolia)  ;  the  Lausitz  Wends  call  the  blossoms or  seedpods  of  certain  reeds  '  vodneho  vivzha  porsty,
 potaczky  [piorsty,  perczatky  ?] ,  lohszy,'  watex'-man's  fingers  or
 gloves.  We  ourselves  call  the  water-lily  xvassermdnnlein,  but
 also  viuTiimel,  mmumelckeii  =  miiemel,  aunty,  water-aunt,  as  the
 merminne  in  the  old  lay  is  expressly  addressed  as  Morolt's
 Miebo    muome,'  and  in  Westphalia  to  this  day  luatermome  is  a
 
-
-490  WIGHTS  AND  ELVES.
 
 ghostly  being;  in  Nib.  1479,  3   Siglint  the  one  merwoman  says
 of  Hadburc  the  other  :
@@ -2790,8 +2572,7 @@ kindred  (p.  428),  and  in  Oswald  673-9  ^ein  ander  merwip '  is
 coupled  with  the  first.  Several  lakes  inhabited  by  nixes  are
 called  mumynelsee  (Deut.  sag.  nos.  59.  331.  Mone's  Anz.  3,  92),
 otherwise  meumke-loch,  e.g.,  in  the  Paschenburg  of  Schaumburg.
-This  explains  the  name  of  a  little  river  Mmnling  in  the  Oden-
-wald,  though  old  docs,  spell  it  Mimling.  Mersprites  are  made  to
+This  explains  the  name  of  a  little  river  Mmnling  in  the  Odenwald,  though  old  docs,  spell  it  Mimling.  Mersprites  are  made  to
 favour  particular  pools  and  streams,  e.g.,  the  Saale,  the  Danube,
 the  Elbe,^  as  the  Romans  believed  in  the  bearded  river-gods
 of  individual  rivers;  it  may  be  that  the  name  of  the  Neckar
@@ -2800,8 +2581,7 @@ Suppl.).
 
 Biorn  gives  nennir  as  another  ON.  name  for  hippopotamus,
 it  seems  related  to  the  name  of  the  goddess  Nanna  (p.  310).^
-This  nennir  or  nikur  presents  himself  on  the  sea-shore  as  a  hand-
-some dajp]3le-grey  horse,  and  is  to  be  recognised  by  his  hoofs
+This  nennir  or  nikur  presents  himself  on  the  sea-shore  as  a  handsome dajp]3le-grey  horse,  and  is  to  be  recognised  by  his  hoofs
 looking  the  wrong  way ;  if  any  one  mounts  him,  he  plunges  with
 his  prey  into  the  deep.  There  is  a  way  however  to  catch  and
 bridle  him,  and  break  him  in  for  a  time  to  work.^  A  clever  man
@@ -2811,8 +2591,7 @@ him ;  but  the  bridle  somehow  coming  loose,  the  '  neck '  darted
 like  fire  into  the  lake,  and  drew  the  harrow  in  after  him.*  In
 the  same  way  German  legends  tell  of  a  great  hulking  black  Jiorse,
 that  had  risen  out  of  the  sea,  being  put  to  the  plough,  and  going
-ahead  at  a  mighty  pace,  till  he  dragged  both  plough  and  plough-
-man over  the  cliff.^     Out  of  a  marsh   called  the   '  taufe,'   near
+ahead  at  a  mighty  pace,  till  he  dragged  both  plough  and  ploughman over  the  cliff.^     Out  of  a  marsh   called  the   '  taufe,'   near
 
 ^  The  Elbjungfer  and  Saalweiblein,  Deut.  sag.  no.  60 ;  the  river-sprite  in  the
 Oder,  ibid.  no.  62.
@@ -2841,8 +2620,7 @@ old  man  (Sommerfelt,  Saltdalens  priistegjeld,  Trondhjem  1827,  p.
 119).  In  the  Highlands  of  Scotland  a  water-sprite  in  the  shape
 of  a  horse  is  known  by  the  name  of  water-kelpie  (see  Suppl.).
 
-Water-sprites  have  many  things  in  common  with  mountain-
-sprites,  but  also  some  peculiar  to  themselves.  The  males,  like
+Water-sprites  have  many  things  in  common  with  mountainsprites,  but  also  some  peculiar  to  themselves.  The  males,  like
 those  of  the  schrat  kind,  come  up  singly  rather  than  in  companies.
 The  water  man  is  commonly  represented  as  oldish  and  with  a
 long  beard,  like  the  Roman  demigod  out  of  whose  urn  the  river
@@ -2876,11 +2654,8 @@ pretty  wide  apart ;  then  the  woman,  coming  up  closer,  cried  out :  '  
 neck,  look  at  his  fish's  teeth  ! '  In  a  moment  the  neck  was  gone  (Etwas  iiber  die
 Ehsten,  p.  51).
 
-^  But  we  do  of  nixes  shaped  like  men  above  and  like  horses  belo  .v  ;  one  water-
-sprite  takes  his  name  from  his  >lit  ears,  Deut.  sag.  no.  63.
+^  But  we  do  of  nixes  shaped  like  men  above  and  like  horses  belo  .v  ;  one  watersprite  takes  his  name  from  his  >lit  ears,  Deut.  sag.  no.  63.
 
-
-402  WIGHTS   AND   ELVES.
 
 her  dress,  the  ivet  tips  of  her  apron.^  Here  is  another  point  of
 contact  with  swan-maidens,  whose  swan-foot  betrays  them  :  and
@@ -2891,10 +2666,8 @@ water-man  appears  in  a  linen  smockfrock  with  the  bottom  of  its
 shirt  wet ;  if  in  buying  up  grain  he  pays  more  than  the  market
 price,  a  dearth  follows,  and  if  he  buys  cheaper  than  others,  prices
 fall  (Lausitz.  monatschr.  1797,  p.  750).  The  Russians  name
-their  water-nymphs  rusdiki :  fair  maidens  with  green  or  gar-
-landed hair,  combing  themselves  on  the  meadow  by  the  waterside,
-and  bathing  in  lake  or  river.  They  are  seen  chiefly  on  Whit-
-sunday and  in  Whitsun-week,  when  the  people  with  dance  and
+their  water-nymphs  rusdiki :  fair  maidens  with  green  or  garlanded hair,  combing  themselves  on  the  meadow  by  the  waterside,
+and  bathing  in  lake  or  river.  They  are  seen  chiefly  on  Whitsunday and  in  Whitsun-week,  when  the  people  with  dance  and
 song  plait  garlands  in  their  honour  and  throw  them  into  the
 water.  The  custom  is  connected  with  the  German  river-worship
 on  St.  John^s  day.  Whitsun-week  itself  was  called  by  the
@@ -2905,8 +2678,7 @@ Dancing,  song  and  music  are  the  delight  of  all  water-sprites,  as
 they  are  of  elves  (p.  470).  Like  the  sirens,  the  nixe  by  her
 song  draws  listening  youth  to  herself,  and  then  into  the  deep.
 So  Hylas  was  drawn  into  the  water  by  the  nymphs  (Apollod.
-i.  9,  19.  Apollon.  rhod.  1,  131).  At  evening  up  come  the  da^n-
-sels  from  the  lake,  to  take  part  in  the  human  dance,  and  to  visit
+i.  9,  19.  Apollon.  rhod.  1,  131).  At  evening  up  come  the  da^nsels  from  the  lake,  to  take  part  in  the  human  dance,  and  to  visit
 their  lovers.^  In  Sweden  they  tell  of  the  stromharV s  alluring
 enchanting  strain  :  the  stromkarls-lag  (-lay)  is  said  to  have
 eleven  variations,  but  to  only  ten  of  them  may  you  dance,
@@ -2927,8 +2699,7 @@ all,  but  in  the  hole  she  sat  as  in  a  fair  chamber.'     Table-talk  1
 the  rusalky  [from  rasy,  blond  ;  but  there  is  also  ruslo,  river's  bed,  deepest  part] .
 
 3  Hebel  doubtless  founds  on  popular  tradition  when  (p.  281)  he  makes  the
-'  jungfere  usem  see  '  roam  throxigh  the  fields  at  midnight,  probably  like  the  roggen-
-muhme  to  make  them  fruitful.  Other  stories  of  the  meerweiblein  in  Mone's  Anz.  8,
+'  jungfere  usem  see  '  roam  throxigh  the  fields  at  midnight,  probably  like  the  roggenmuhme  to  make  them  fruitful.  Other  stories  of  the  meerweiblein  in  Mone's  Anz.  8,
 178,  and  Bechstein's  Thiir.  sagen  3,  236.
 
 
@@ -2979,8 +2750,7 @@ The  neck  began  to  weep  bitterly,  threw  his  harp  away,  and  sank
 
 to  the  bottom.     When  the  boys  got  home,  they  told  their  father
 
-1  Arndt's  Reise  nach  Schweden  4,  241 ;  similar  dances  spoken  of  in  Herrauds-
-saga,  cap.  11.  pp.  49—52.
+1  Arndt's  Reise  nach  Schweden  4,  241 ;  similar  dances  spoken  of  in  Herraudssaga,  cap.  11.  pp.  49—52.
 
 2  Faye  p.  57.     Conf.  Thiele  1,  135  on  the  Hrkegrim.
 
@@ -2993,8 +2763,6 @@ a  fiddle  and  will  learn  to  play,  becomes  in  a  moment  learned,  only  
 resurrection  ;  one  who  promised  not  that,  did  bear  how  they  in  the  bill  beat
 asunder  their  fiddles  and  wept  bitterly.)
 
-
-494  WIGHTS   AND   ELVES.
 
 what  had  happened.  The  father,  who  was  a  priest,  said  'you
 have  sinned  against  the  neck,  go  back,  comfort  him  and  tell  him
@@ -3030,8 +2798,7 @@ his  beloved  sister  safely  back  to  the  upper  world.  The  hafsfru
 waited  her  return  seven  years,  then  seized  her  staff,  and  lashing
 the  water  till  it  splashed  up  high,  she  cried  :
 
-1  Sv,  visor  3, 128.  Ir.  Elfenm.  p.  24 ;  similar  Ii-ish,  Scotch,  and  Danish  tra-
-ditions, pp.  200-2.  Conf.  Thiele  4,  14.  Holberg's  Julestue  so.  12 :  '  Nisser  og
+1  Sv,  visor  3, 128.  Ir.  Elfenm.  p.  24 ;  similar  Ii-ish,  Scotch,  and  Danish  traditions, pp.  200-2.  Conf.  Thiele  4,  14.  Holberg's  Julestue  so.  12 :  '  Nisser  og
 .  unJerjorske  folk,  di'ive  store  fester  bort  med  klagen  og  hylen,  eftersom  de  ingen  del
 *  har  derudi'  (because  they  have  no  part  therein).
 
@@ -3105,14 +2872,11 @@ bought  one,  but  cheapened.  They  go  to  the  Darmssen  ;  says  Shag,  '  W
 I  strike  the  water ;  //'  blood  comes,  I  must  go,  if  milk,  I  may  stay.'  But  neither  came :
 '  You've  cheajiened  !  go  buy  another  sword.'  K.  cheapened  again,  but  the  tliird  time
 he  did  not.  Shag  struck  the  water,  it  was  red  as  blood,  and  he  plunged  iuto  the
-Darmssen.] The  same  sign,  of  vdlk  or  blood  coming  up,  occurs  in  another  folk-
-tale, which  makes  the  water-nymphs  into  white-veiled  nuns,  Blone's  Auz.  3,  93.
+Darmssen.] The  same  sign,  of  vdlk  or  blood  coming  up,  occurs  in  another  folktale, which  makes  the  water-nymphs  into  white-veiled  nuns,  Blone's  Auz.  3,  93.
 
 *  So  in  Casp.  von  der  Ron,  pp.  224-5  the  meerwuuder  is  called  '  der  rauhe,  der
 rauchc.'     Couf.  supra,  pp.  481.  491.
 
-
-496  WIGHTS   AND   ELVES.
 
 agreed  upon  (a  jet  of  milk,  a  plate  with  an  apple) ,  but  withlield
 in  such  a  case  as  this.
@@ -3167,8 +2931,7 @@ them/  because  bodies  found  in  the  water  have  the  nose  red.^
 submersus  est.  quod  videns  quidam  juvenis  vestibus  abjectis  aquae
 insilivit,  et  iuventum  extrahere  volens,  maligno  spiritii  retrahente,
 quem  Neptumim  vocant,  semel  et  secundo  perdidit;  tertio  cum
-nomen  apostoli  invocasset,  raortuum  recepit.'  Miracula  S.  Mat-
-thiae,  cap.  43.  Fez,  Thes.  anecd.  2,  3,  pag.  26.  Eollenhagen  in
+nomen  apostoli  invocasset,  raortuum  recepit.'  Miracula  S.  Matthiae,  cap.  43.  Fez,  Thes.  anecd.  2,  3,  pag.  26.  Eollenhagen  in
 the  Froschmeuseler  (Nn  11^)  :
 
 '  das  er
@@ -3177,10 +2940,8 @@ da  die  seel  mit  dem  leib  verdorben,
 oder  beim  geist  bheb,  der  immer  frech
 den  ersofnen  die  hels  abbrech.'
 
-(that  he  had  died  miserably  in  the  water,  and  his  soul  had  per-
-ished with  the  body,  or  abode  with  the  spirit  that  ever  without
-ado  breaketh  the  necks  of  the  drowned).  The  Swedish  supersti-
-tion supposes  that  droiuned  men  whose  bodies  are  not  found  have
+(that  he  had  died  miserably  in  the  water,  and  his  soul  had  perished with  the  body,  or  abode  with  the  spirit  that  ever  without
+ado  breaketh  the  necks  of  the  drowned).  The  Swedish  superstition supposes  that  droiuned  men  whose  bodies  are  not  found  have
 been  drawn  into  the  dwelling  of  the  Jiafsfru  (Sv.  vis.  3,  148).
 In  some  German  fairy-tales  (no.  79)  children  who  fall  into  the
 well  come  under  the  power  of  the  waier-nixe  ;  like  dame  Holla,
@@ -3212,16 +2973,12 @@ portend  drowning  (Faye,  p.  51).     Some  very  old  writings  ascribe
 So  Brynhildr  calls  out  at  last  to  the  giantess  :  'scykstu,  gygjar  kyn  ! '     Sffim.
 
 
-498  WIGHTS   AND   ELVES.
-
 to  watersprites  in  general  wailing  voices  and  doleful  speeches,  that
 resound  from  lakes  and  pools  :  they  tell  each  other  of  their
 baffled  schemes,  or  how  they  have  to  vacate  the  land  before  the
-christians.  Gregory  of  Tours,  in  De  glor.  confess,  cap.  31,  re-
-members an  incident  of  his  young  days  ^apud  Arvernos  gestum.'
+christians.  Gregory  of  Tours,  in  De  glor.  confess,  cap.  31,  remembers an  incident  of  his  young  days  ^apud  Arvernos  gestum.'
 A  man  setting  out  early  to  the  forest  has  his  morning  meal
-blessed  before  he  takes  it :  Cumque  ad  amnera  adhuc  ante-
-lucanum  venisset,  imposito  plaustro  cum  bobus  in  ponte  qui
+blessed  before  he  takes  it :  Cumque  ad  amnera  adhuc  antelucanum  venisset,  imposito  plaustro  cum  bobus  in  ponte  qui
 super  navem  locatus  erat,  alterum  transmeare  coepit  in  littus.
 Verum  ubi  in  viedium  amnis  devenit,  audivit  vocem  dicentis
 '  merge,  merge,  ne  moreris  !'  Cui  respondens  vox  alia  ait :  '  sine
@@ -3232,16 +2989,13 @@ Vita  Godehardi  Hildesiensis  (first  quarter  of  11th  cent.),  cap.  4
 (Leibn.  1,  492),  we  read  :  Erat  etiam  in  oriental!  parte  civitatis
 nostrae  (Hildenes-hem)  palus  horrifica  et  circummanentibus
 omnino  plurali  formidine  invisa,  eo  quod  ibi,  ut  opinabantur,  tarn
-meridiano  quam  et  nocturno  tempore  illusiones  quasdam  horri-
-hiles  vel  audirent  vel  viderent,  quae  (sc.  palus)  a  fonte  salsuginis
-quae  ibidem  in  medio  bulliebat  Suiza  dicitur.  Qua  ille  (Gode-
-hardus)  spectata,  et  illusione  etiam  phantastica,  qua  bruta  plebs
+meridiano  quam  et  nocturno  tempore  illusiones  quasdam  horrihiles  vel  audirent  vel  viderent,  quae  (sc.  palus)  a  fonte  salsuginis
+quae  ibidem  in  medio  bulliebat  Suiza  dicitur.  Qua  ille  (Godehardus)  spectata,  et  illusione  etiam  phantastica,  qua  bruta  plebs
 terrebatur,  audita,  eandem  paludem  secundo  sui  adventus  anno
 cum  cruce  et  reliquiis  sanctorum  invasit,  et  habitationem  suam
 ibidem  aptavit,  et  in  medio  periculo  oratorium  in  honoi'em  S.
 Bartholomaei  apostoli  fundavit,  quo  sequenti  anno  consummato  et
-dedicato,  omne  daemonnm  pliantasma  (conf.  p.  482)  exinde  fundi-
-tus  extirpavit,  et  eundem  locum  omnibus  commorantibus  vel
+dedicato,  omne  daemonnm  pliantasma  (conf.  p.  482)  exinde  funditus  extirpavit,  et  eundem  locum  omnibus  commorantibus  vel
 advenientibus  gratum  et  sine  qualibet  tentatione  habitabilem
 reddidit. — My  third  quotation  is  a  continuation  of  that  given
 on  p.  108  from  the  Vita  S.  Galli  (Pertz  2,  7)  :  Volvente  deinceps
@@ -3249,9 +3003,7 @@ cursu  temporis  electus  Dei  Gallus  retia  lymphae  laxabat  in  silentio
 noctis,  sed  inter  ea  audivit  demonem  de  cuhnine  moniis  pari  sue
 clamantem,  qui  erat  in  abditis  maris.  Quo  respondente  '  adsum,'
 monta7ius  econtra  :  '  Surge  '  inquit  '  in  adjutorium  mihi.  Ecce
-peregrini  venerunt,  qui  me  de  templo  ejecerunt  (nam  deos  con-
-terebant  quos  incolae  isti  colebant,  insuper  et  eos  ad  se  conver-
-tebant)  ;  veni,  veni,  adjuva  nos  expellere  eos  de  terris.''  Marinus
+peregrini  venerunt,  qui  me  de  templo  ejecerunt  (nam  deos  conterebant  quos  incolae  isti  colebant,  insuper  et  eos  ad  se  convertebant)  ;  veni,  veni,  adjuva  nos  expellere  eos  de  terris.''  Marinus
 demon  respondit :
 
 
@@ -3277,15 +3029,13 @@ in  ecclesiam,  soUtum  signum  tangens.  O  mira  dementia  diaboli !
 voces  servorum  Dei  praeripuit  vox  fantasmatica,  cum  hejulatns
 atque  ululatus  dirce  vocis  audiebatur  pe?'  culmina. — Read  further
 on  (2,  9)  the  story  of  two  lake-women  who  stand  naked  on  the
-shore  and  throw  stones.  Everywhere  we  see  the  preachers  con-
-front the  pagan  daemons  with  cross  and  holy  spell,  as  something
+shore  and  throw  stones.  Everywhere  we  see  the  preachers  confront the  pagan  daemons  with  cross  and  holy  spell,  as  something
 real;  the  mournful  howl  of  the  spirits  yields  to  the  ringing  of
 bells.  Gods  and  spirits  are  not  distinguished :  the  god  cast  out
 of  the  temple,  whose  image  has  been  broken,  is  the  elf  or  nix
 meditating  revenge.  It  is  remarkable,  too,  that  monntaln  and
 water  sprites  are  set  before  us  as  fellows  (pares) ;  in  folk-tales  of
-a  later  time  their  affinity  to  each  other  seems  abundantly  estab-
-lished.
+a  later  time  their  affinity  to  each  other  seems  abundantly  established.
 
 We  have  now  considered  genii  of  mountains,  of  woods  and  of
 rivers;  it  remains  to  review  the  large  and  variously  named  group
@@ -3303,30 +3053,24 @@ of  sex  in  their  very  idea,  and  if  any  female  beings  approach  this
 sog.  1,  185-188.
 
 
-500  WIGHTS   AND   ELVES.
-
 goblin  kind,  it  is  former  goddesses  who  have  come  down  in  the
 world. ^
 
 What  the  Eomans  called  lar,^  lar  familiaris  (see  the  prologue
 to  Plautus's  Aulularia)  and  jptnas,  is  named  in  our  older  speech
-Jiusing  or  stetigot  (genius  loci)  ;  conf. '  husinga  (penates)  '  in  Not-
-ker^s   Capella  51.      In   Cap.  142  JST.  renders  lares  by   '  ingoumeu
+Jiusing  or  stetigot  (genius  loci)  ;  conf. '  husinga  (penates)  '  in  Notker^s   Capella  51.      In   Cap.  142  JST.  renders  lares  by   '  ingoumeu
 (hiusero  aide  burgo)';  the  literal  meaning  of  ingoumo  would  be
 guard  of  the  interior.     In  Cap.  50  he  uses  ingeside  for  penates,  i.e.
 our  ingesinde,  inmates,  domestics;  the  form  continued  to  be  used
-in  MHG.  :  daz  liebeheilige  ingeside,  Rol.  115,  1.    226,  18.     Simi-
-larly the  Span,  duende,  duendecillo  (goblin)  seems  derivable  from
+in  MHG.  :  daz  liebeheilige  ingeside,  Rol.  115,  1.    226,  18.     Similarly the  Span,  duende,  duendecillo  (goblin)  seems  derivable  from
 domus,  dueno  is  house-owner  (dominus,  distinct  from  don,  p.  299
 note),  and  duendo  domestic,  retired.     The  ON.  toft,  Swed.  tomt,
 means  area,  domus  vacua,  and  the  home-sprite^s  name  is  in  Swed.
-tomtekarl,  tomteguhhe  (old  fellow  on  the  premises),  tomtrd,  tomte-
-hiss,  som  styr  i  kiillrars  rike   (Hallman,  p.  73)  :  Norw.  tomtevdtte,
+tomtekarl,  tomteguhhe  (old  fellow  on  the  premises),  tomtrd,  tomtehiss,  som  styr  i  kiillrars  rike   (Hallman,  p.  73)  :  Norw.  tomtevdtte,
 toftvdtte.     Another  ON.  name  is  skurgod',  p.  112.     We  can  trace
 in  them  a  peculiar  connexion  with  the  hearth  of  the  house ;  they
 often  come  out  from  under  it  (p.  456  n.),  it  seems  to  be  the  door,  as
-it  were,  to  their  subterranean  dwelling :  they  are  strictly  hearth-
-gods.     Here  and  there  in  Germany  we  also  meet  with  the  name
+it  were,  to  their  subterranean  dwelling :  they  are  strictly  hearthgods.     Here  and  there  in  Germany  we  also  meet  with  the  name
 gesell,  fellow  (supra,  p.  464,  selle,  selke),  gutgesell,  nachhar,  lieher
 jiacJihar,  in   the  Netherlands  goede   hind    (Horae   Belg.   119),  in
 England    goodfellow,    in    Denmark    god    dreng,   good    boy,   Mare
@@ -3335,8 +3079,7 @@ holde,  p.  266).     The  Eng.  'puck  we  may  indeed  connect  with  the
 Ir.  pJiuka,  Wei.  pwcca,'^  but  with  more  justice  perhaps  with  the
 Dan.  peg  (lad),  which  is  simply  the  Swed.  pojke,  ON.  puki  (puer),
 and  comes  from  Finn,  poica  (filius)  ;  in  Lower  Germany  too  they
-say  p)ook  for  a  puny  stunted  man  (Brem.  wb.  3,  349).      Heim-
-reich's  Nordfries.  chron.  2,  348  has  h.\xs,puke  (see  Suppl.).
+say  p)ook  for  a  puny  stunted  man  (Brem.  wb.  3,  349).      Heimreich's  Nordfries.  chron.  2,  348  has  h.\xs,puke  (see  Suppl.).
 
 From  the  13th  century   (and  possibly  earlier,  if  only  we  had
 authorities)  ^  down  to  the  present  time  the  name  kohold  has  been
@@ -3364,16 +3107,14 @@ MS.  2,  206%   has:  *  mir  ist  ein  loser  hoveschalk   als   ein  kobolt
 von  buhse/   no  better  than  a  k.  of  boxwood ;  and   the  Misnaere
 (Amgb.  48'"')  :  '  we   den  hoholden,    die  alsus    erstummen    (are   so
 struck    dumb) !  mir   ist   ein    holzin   (wooden)   bischof   vil  lieber
-dan  ein  stummer  herre.^     The  notions  of  hohold^  dwarf,  thumb-
-hin,  -puppet,  idol  largely  run  into  one  another  (conf.  supra,  malik,
+dan  ein  stummer  herre.^     The  notions  of  hohold^  dwarf,  thumbhin,  -puppet,  idol  largely  run  into  one  another  (conf.  supra,  malik,
 p.  104  note).     It  seems,  they  used  to  carve  little  home-sprites
 of  boxwood  and  set  them  up  in  the  room  for  fun,  as  even  now
 wooden  nutcrackers  and  other  mere  playthings  are   cut  in  the
 shape  of  a  dwarf  or  idol ;  yet  the  practice  may  have  had  to  do
 with  an  old  heathen  worship  of  small  lares,  to  whom  a  place  was
 assigned  in  the  innermost   part   of  the  dwelling ;    in   time   the
-earnest  would  turn  into  sport,  and  even  christian  sentiment  tole-
-rate the  retention  of  an  old  custom.^     They  must  also  have  tied
+earnest  would  turn  into  sport,  and  even  christian  sentiment  tolerate the  retention  of  an  old  custom.^     They  must  also  have  tied
 rags  and  shreds  into  dolls,  and  set  them  up.     The  dumb  wooden
 kobold  is  kept  in  countenance  by  the  'wooden  bishop^  mentioned
 immediately  after  by  the  Misnaere.^     In  the  oft-quoted  poem  of
@@ -3385,8 +3126,7 @@ kopold.     Hugo  von  Trimberg  has  several  allusions  to  kobolds  :
 line  5064,  '  und  lern  einander  goukelspil,   unter  des  mantel  er
 kobolte  mache,  der  (whereat)  manic  man  tougen  (secretly)  mit  im
 lache ' ;  5576,  '  der  male  ein  andern  kobolt  dar,  der  ungessen  bi
-im  sitze  ' ;  10277,  '  einer  siht  den  andern  an,  als  kobolt  hern  tater-
-man' ;  10843,  '  ir  abgot    (the  heathens'   gods),  als  ich   gelesen
+im  sitze  ' ;  10277,  '  einer  siht  den  andern  an,  als  kobolt  hern  taterman' ;  10843,  '  ir  abgot    (the  heathens'   gods),  als  ich   gelesen
 han,  daz  waren   kobolt  und  tatervian' ;   11527,  'Got  mohte  wol
 lachen,  solte    ez    sin,  wan    sine    tatennennelin   (same   in    Roth's
 Fragment,  p.   65)    so  wunderlich  uf  erden    leben,'   God  might
@@ -3400,8 +3140,6 @@ heathen  custom  of  carving  or  '  doughiiig  '  idols  (conf.  p}).  15.  1U5
 
 '^  On  '  papa  salignus  '  conf.  lleiuh.  p.  xciv.
 
-
-502  WIGHTS   AND   ELVES.
 
 bring  kobolds  out  from  under  their  cloak,  kobolds  are  painted
 on  the   wall,  the  heathen  gods  were  nothing  but  kobolds  and
@@ -3463,26 +3201,21 @@ meant  by  gaetulius  an  African  savage,  by  alpinus  a  Tartar  (MHG.
 tater,  tateler),  or  still  better,  a  fool;^  the  word  taterman  occurs
 in  other  0.  Boh.  documents  besides,  and  signifies  doll  and  idol
 (Jungmann  3,  554'') ;  foreign  to  all  other  Slavic  dialects,  it  seems
-borrowed  from  German.-  Its  proper  meaning  can  only  be  re-
-vealed by  a  fuller  insight  into  the  history  of  puppet-shows.  Per-
-haps the  Hung,  tatos  (juggler)  has  a  claim  to  consideration.'^
+borrowed  from  German.-  Its  proper  meaning  can  only  be  revealed by  a  fuller  insight  into  the  history  of  puppet-shows.  Perhaps the  Hung,  tatos  (juggler)  has  a  claim  to  consideration.'^
 
 Several  MSS.  however  and  the  first  printed  edition  of  the
 Renner  have  not  taterman  at  all,  but  katerman  (Cod.  francof.
 164'^  reads  verse  10843  kobiilde  unde  katirrnan),  which  is  not
 altogether  to  be  rejected,  and  at  lowest  offers  a  correct  secondary
-sense.  Katerman,  derived  from  kater  (tom-cat),  may  be  com-
-pared with  heinzelman,  hinzelman,  hinzemdnnchen,  the  name  of
-a  home-sprite,*  with  Hinze  the  cat  in  Reineke,  and  the  wood-
-sprite  Katzenveit  (p.  480) .  The  puss-in-hoots  of  the  fairy-tale  plays
+sense.  Katerman,  derived  from  kater  (tom-cat),  may  be  compared with  heinzelman,  hinzelman,  hinzemdnnchen,  the  name  of
+a  home-sprite,*  with  Hinze  the  cat  in  Reineke,  and  the  woodsprite  Katzenveit  (p.  480) .  The  puss-in-hoots  of  the  fairy-tale  plays
 exactly  the  part  of  a  good-natured  helpful  kobold ;  another  one
 is  called  stiefel  (boot,  Deut.  sag.  no.  77),  because  he  wears  a
 large  boot :  by  the  boot,  I  suppose,  are  indicated  the  gefeite
 scliulie  (fairy  shoes)  of  older  legend,  with  which  one  could  travel
 faster  on  the  ground,  and  perhaps  through  the  air ;  such  are  the
 league-hoots  of  fairy-tales  and  the  luinged  shoes  of  Hermes.  The
-name  of  Heinze  is  borne  by  a  mountain-sprite  in  the  Frosch-
-meuseler.  Heinze  is  a  dimin.  of  Heinrich,  just  as  in  Lower
+name  of  Heinze  is  borne  by  a  mountain-sprite  in  the  Froschmeuseler.  Heinze  is  a  dimin.  of  Heinrich,  just  as  in  Lower
 Germany  another  noisy  ghost  is  called  Chimke,  dimin.  of  Joachim
 (conf.  'dat  gimken/  Brem.  wb.  5,  379)  :  the  story  of  Chimmeken
 
@@ -3507,16 +3240,13 @@ Ueinzlin,
 VOL.    II.  P
 
 
-504  WIGHTS  AND   ELVES.
-
 (of  about  1327)  is  to  be  found  in  Kantzow's  Pomerania  1,  333.
 The  similar  and  equally  Low-German  name  WoUerhen  seems
 to  have  a  wider  circulation.  Samuel  Meiger  in  his  Panurgia
 lamiarum  (Hamb.  1587.  4),  bok  3  cap.  2,  treats  'van  den  laribus
 domesticis  edder  husknechtkens,  de  men  ok  WoUerhen  unde
 CJiimken  an  etliken  orden  nomet.'  These  Wolterkens  are  also
-mentioned  by  Arnkiel  (Cimbr.  heidenth.  1,  49)  ;  in  the  Nether-
-lands they  are  called  Wonders,  Wouterhen,  and  Tuinman  2,  201
+mentioned  by  Arnkiel  (Cimbr.  heidenth.  1,  49)  ;  in  the  Netherlands they  are  called  Wonders,  Wouterhen,  and  Tuinman  2,  201
 has  a  proverb  '  't  is  een  wilde  Woufer,'  though  incorrectly  he
 refers  it  to  wout  (silva).  Wouter^  Wolter  is  nothing  but  the
 human  proper  name  Walter  bestowed  on  a  home-sprite.  It  is
@@ -3572,23 +3302,18 @@ must  shear  your  hair  like  that  of  fools.  A  home-sprite  Riidy  (for
 Rudolf)  in  Mone's  Anz.  3,  365.
 
 Another  set  of  names  is  taken  from  the  noises  which  these
-spirits  keep  up  in  houses  :  you  hear  them  jumping  softly,  knock-
-ing at  walls,  racketing  and  tumbling  on  stairs  and  in  lofts.
+spirits  keep  up  in  houses  :  you  hear  them  jumping  softly,  knocking at  walls,  racketing  and  tumbling  on  stairs  and  in  lofts.
 Span,  trasgo  (goblin),  and  trasguear  (to  racket)  ;  Fr.  soterai,
-sotret  (jumper),  Mem.  de  I'acad.  celt.  4,  91;  ekerhen  (eichhorn-
-chen,  squirrel),  Deut.  sag.  no.  78 ;  poltergeist,  rumpelgeist,  riim-
-pelstih  in  the  Kindermiirchen  no.  55,  rumpelstilt  in  Fischart ;  -
+sotret  (jumper),  Mem.  de  I'acad.  celt.  4,  91;  ekerhen  (eichhornchen,  squirrel),  Deut.  sag.  no.  78 ;  poltergeist,  rumpelgeist,  riimpelstih  in  the  Kindermiirchen  no.  55,  rumpelstilt  in  Fischart ;  -
 one  particular  goblin  is  called  klopfer,  knocker  (Deut.  sag.  no.
 76),  and  it  may  be  in  this  connexion  that  hammerlein,  hemerlehi
 (supra,  p.  182)  has  come  to  be  applied  to  home-sprites  of  diabolic
 nature.  Nethl.  hullman,  hullerman,  hullerkater,  from  bullen,
 bullern,  to  be  boisterous.  Flem.  holdergeest,  and  hence  'bi
-holder  te  bolder,^  our  '  holter  die  polter,'  helter-skelter.  A  pop-
-hart,  identical  with  rumpelstilt  in  Fischart,  is  to  be  derived
+holder  te  bolder,^  our  '  holter  die  polter,'  helter-skelter.  A  pophart,  identical  with  rumpelstilt  in  Fischart,  is  to  be  derived
 from  popeln,  popern,  to  keep  bobbing  or  thumping  softly  and
 rapidly ;  ^  a  house-goblin  in  Swabia  was  called  the  poppele ;  in
-other  Y>Sivts  popel,  popel,  popelmann,  popanz,  usually  with  the  side-
-meaning  of  a  muffled  ghost  that  frightens  children,  and  seldom
+other  Y>Sivts  popel,  popel,  popelmann,  popanz,  usually  with  the  sidemeaning  of  a  muffled  ghost  that  frightens  children,  and  seldom
 used  of  playful  good-humoured  goblins.  At  the  same  time  popel
 is  that  which  muffles  (puppt)  itself:  about  Henneberg,  says
 Reinwald  2,  78,  a  dark  cloud  is  so  called ;  it  contains  the  notion
@@ -3598,8 +3323,7 @@ mean  the  same,  by  no  means  nix  or  goblin.  [I  suppose  Niels  is  ratli
 Nigel,  which  breaks  down  the  connexion  with  Nicolas  or  Claus  ;  still  the  two  can
 stand  independently. — Trans.]
 
--  Is  stilt,  stilz  the  old  .stalt  in  compounds?  Gramm.  2,  527.  What  the  fairy-
-tale says  of  Rumpeiitilt,  and  how  his  name  has  to  be  guessed,  other  stories  tell  of
+-  Is  stilt,  stilz  the  old  .stalt  in  compounds?  Gramm.  2,  527.  What  the  fairytale says  of  Rumpeiitilt,  and  how  his  name  has  to  be  guessed,  other  stories  tell  of
 Eisenhiitel  or  IlopfcnldUel  (who  wear  an  iron  hat  or  one  wreathed  with  hop-leaves),
 Kletke's  Alman.  v.  volksm.  67  ;  or  of  the  dwarf  Holzriihrlehi,  lionnefiUuiein,  Harrys
 1,  18  [of  Knirfiker,  Gehhart,  Tepcntircn,  Miillenh.  30(j-8,  of  Titteli  Ture,  Sv.  folkv.
@@ -3624,8 +3348,7 @@ actiug  like  the  spectre,  instead  of  the  spectre  having  taken  his
 name  from  mumming  (see  Suppl.).
 
 The  word  hiitze  as  far  back  as  the  12th-13th  century  had  the
-same  meaning  as  mum  mart  and  poppart :  a  place  called  Piizi-
-prunmin,  Pucijintnnen,  MB.  6,  60.  62.  9,  420  (12th  century),
+same  meaning  as  mum  mart  and  poppart :  a  place  called  Piiziprunmin,  Pucijintnnen,  MB.  6,  60.  62.  9,  420  (12th  century),
 unless  puzi  =  puteus  be  meant,  might  take  its  name  from  a  well,
 haunted  by  such  a  home-sprite.  '  Ein  ungehiarer  (uncanny)
 hutze,'  Martina  116'^  224^*;  '  si  sehent  mich  nicht  mer  an  in  hutzen
@@ -3646,8 +3369,7 @@ Germany  almost,  we  hear  to  this  day  :  'der  hutz  kommt,'  ^  or  'der
 hutzemann,  hutzelmann,'  and  in  Elsass  hutzmummel,  the  same  as
 butz  or  mummel  alone,  huz,  Jager's  Ulm,  p.  522.  hutzenmann,
 Fischart's  Bieukorb  194^.  hutz,  Garg.  231*.  hutzemann,  Simpl.
-2,  248.  In  Bavaria,  fasnachthutz,  Shrovetide  b.,  huzmann,  huzi-
-hercht,  b.  coupled  with  the  Bercht  or  Berchta  of  our  pp.  272-9  ;
+2,  248.  In  Bavaria,  fasnachthutz,  Shrovetide  b.,  huzmann,  huzihercht,  b.  coupled  with  the  Bercht  or  Berchta  of  our  pp.  272-9  ;
 
 1  For  mum  bans  (muffle-jack),  as  popanz  is  for  pop-hans  (bob-jack),  and  as
 tbere  were  likewise  blindbans,  grobhans,  karstbans,  scharrbans,  etc.
@@ -3656,14 +3378,12 @@ tbere  were  likewise  blindbans,  grobhans,  karstbans,  scharrbans,  etc.
 
 HOME-SPEITE.  507
 
-'hutzwinkel,  lurking-place,  hutzJjiiister,  pitch-dark,  v^^ien  the  ap-
-parition is  most  to  be  dreaded ;  '  the  ^Hi^2  would  take  us  over
+'hutzwinkel,  lurking-place,  hutzJjiiister,  pitch-dark,  v^^ien  the  apparition is  most  to  be  dreaded ;  '  the  ^Hi^2  would  take  us  over
 hill  and  dale/  Schm.  1,  229.  230;  the  biitz  who  leads  travellers
 astray  (Muchar's  Gastein,  p.  14.5).  In  Swabia  hutzemnaiikler
 (from  maucheln,  to  be  sly),  hutzenhrecJit ,  hiitzenraule,  hutzenrolle,
 rollpidz,  butzenhell  (because  his  rattle  rolls  and  his  bell  tinkles),
-Schmid  111.  About  Hanau  I  have  heard  the  interjection,  katza-
-butza-rola  !  the  '  katze-butze '  bringing  up  the  connexion  between
+Schmid  111.  About  Hanau  I  have  heard  the  interjection,  katzabutza-rola  !  the  '  katze-butze '  bringing  up  the  connexion  between
 cat  and  goblin  (p.  503)  in  a  new  form.  In  Switzerland  bootzi,  bozl,
 St.  1,  204.  Here  several  meanings  branch  out  of  one  another :
 first  we  have  a  monstrous  butz  that  drags  children  away,  then  a
@@ -3676,8 +3396,7 @@ bogie  bite  not !)  is  said  satirically  to  children  who  are  afraid  of
 the  dark,  Brem.  wb.  1,  173-5;  and  here  certainly  is  the  place
 for  the  watersprite  butt  or  butfje  in  the  Kindermtirchen  no.  19,
 the  name  having  merely  been  transferred  to  a  blunt-headed  fish,
-the  rhombus  or  passer  marinus.^  There  is  also  probably  a  bntte-
-mann,  buttmann,  but  more  commonly  in  the  contracted  form
+the  rhombus  or  passer  marinus.^  There  is  also  probably  a  bnttemann,  buttmann,  but  more  commonly  in  the  contracted  form
 bu-man  (Br.  wb.  1,  153).  Nethl.  bijtebauw,  for  buttebauw,  which
 I  identify  with  Low  Germ,  bu-ba  (Br.  wb.  1,  152).  The  Dan.
 bussemand,  biissegroll,  bussetrold  (Molbech,  p.  60)  seems  to  be
@@ -3691,8 +3410,7 @@ rapping  sprite,  perfectly  agreeing  with  mumhart  and  pophart,^
 and    we    may    yet    hear    of   a    bozhart    or   buzhart.       ]3ut,    like
 
 1  Homeaprite  and  water-siirite  meet  iu  this  soothsaying  wish-granting  fish.
-The  story  of  the  butt  has  a  parallel  in  the  OFr.  tale  of  an  elvish  spirit  and  en-
-chanter Merlin,  who  keeps  fultilling  the  growing  desires  of  the  charcoal  burner,  till
+The  story  of  the  butt  has  a  parallel  in  the  OFr.  tale  of  an  elvish  spirit  and  enchanter Merlin,  who  keeps  fultilling  the  growing  desires  of  the  charcoal  burner,  till
 they  pass  all  bounds,  then  plunges  him  back  into  his  original  poverty  (Muou,  nouv.
 reo.  2,  242-252.     Jubiual  1,  128-135.
 
@@ -3700,8 +3418,6 @@ reo.  2,  242-252.     Jubiual  1,  128-135.
 both  butze  and  popel  signify  mucus,  filth  (Oberlin  210.  Schm.  1,  291).  The  same
 with  Swiss  boo(j,  St.  1,  203.
 
-
-508  WIGHTS   AND   ELVES.
 
 butzenhanse],  there  is  also  a  hanselmann  used  for  spiritus
 familiaris  (Phil.  v.  Sittew.  5,  328,  ed.  Lugd.),  and  the  similar
@@ -3754,8 +3470,7 @@ HOME-SPRITE.  509
 same.-^  With  this  walking  apparatus  and  this  swiftness  there  is
 associated  now  and  then  some  animal's  form  and  name  :  Heinze,
 Heinzelmann,  polterkater,  katermann,  boot-cat,  squirrel;  their
-shuffling  and  bustling  about  the  house  is  paralleled  by  the  nightly-
-turbulence  of  obstreperous  cats.^  They  like  to  live  in  the  stable,
+shuffling  and  bustling  about  the  house  is  paralleled  by  the  nightlyturbulence  of  obstreperous  cats.^  They  like  to  live  in  the  stable,
 barn  or  cellar  of  the  person  whose  society  they  have  chosen,
 sometimes  even  in  a  tree  that  stands  near  the  house  (Swed.  bo-trd,
 dwelling- tree).  You  must  not  break  a  bough  off  such  a  tree,  or
@@ -3764,11 +3479,9 @@ house  go  with  him ;  moreover,  he  cannot  abide  any  chopping  in
 the  yard  or  spinning  on  a  Thursday  evening  (Superst.  Swed.  no.
 110).^  In  household  occupations  they  shew  themselves  friendly
 and  furthersome,  particularly  in  the  kitchen  and  stable.  The
-dwarf-king  Goldeynar  (pp.  453.  466)  is  said  to  have  lived  on  in-
-timate terms  with  Neveling  of  Hardenberg  at  the  Hardenstein,
+dwarf-king  Goldeynar  (pp.  453.  466)  is  said  to  have  lived  on  intimate terms  with  Neveling  of  Hardenberg  at  the  Hardenstein,
 and  often  shared  his  bed.  He  played  charmingly  on  the  harp,
-and  got  rid  of  much  money  at  dice  ;  he  called  Neveling  brother-
-in-law,  and  often  admonished  him,  he  spoke  to  everybody,  and
+and  got  rid  of  much  money  at  dice  ;  he  called  Neveling  brotherin-law,  and  often  admonished  him,  he  spoke  to  everybody,  and
 made  the  clergy  blush  by  discovering  their  secret  sins.  His
 hands  were  lean  like  those  of  a  frog,  cold  and  soft  to  the  grasp ;
 he  would  allow  himself  to  be  felt,  but  7iever  to  be  seen.  After  a
@@ -3792,12 +3505,9 @@ being  consumed  with  cries  of  joy.     After  this,  no  more  was  heard
 peculiarly  open  to  suspicions  of  witchcraft.
 
 ^  Wilse,  ubi  supra,  entirely  agrees  :  '  tomtogubbcu  skal  have  sin  til  hold  unde
-gnmle  triier  ved  stuehuset  (boetriier),  og  derfor  bar  man  ej  tordet  fiilde  disse  gand-
-ske.'  To  this  connexion  of  home-sprites  with  tree-worship  we  shall  have  to  return
+gnmle  triier  ved  stuehuset  (boetriier),  og  derfor  bar  man  ej  tordet  fiilde  disse  gandske.'  To  this  connexion  of  home-sprites  with  tree-worship  we  shall  have  to  return
 further  on.
 
-
-510  WIGHTS   AND   ELVES.
 
 of  king  Yollmar  ;  but  over  liis  chamber-door  it  was  found  written,
 that  from  that  time  the  house  would  be  as  unlucky  as  it  had  been
@@ -3807,10 +3517,8 @@ living  at  once.  Both  spit  and  gridiron  were  long  preserved,  till
 in  1651  they  disappeared  during  the  Lorrain  war,  but  the  pot  is
 still  there,  let  into  the  kitchen  wall.^  The  home-sprite's  parting
 prophecy  sounds  particularly  ancient,  and  the  grim  savagery  of
-his  wrath  is  heathen  all  over.  Sam.  Meiger  says  of  the  wolter-
-hens :  '  Se  vinden  sik  gemeinichlich  in  den  hiiseren,  dar  ein  god
-vorrad  (store)  van  alien  dingen  is.  Dar  scholen  se  sik  bedenst-
-haftigen  (obsequious)  anstellen,  waschen  in  der  koken  up,  boten
+his  wrath  is  heathen  all  over.  Sam.  Meiger  says  of  the  wolterhens :  '  Se  vinden  sik  gemeinichlich  in  den  hiiseren,  dar  ein  god
+vorrad  (store)  van  alien  dingen  is.  Dar  scholen  se  sik  bedensthaftigen  (obsequious)  anstellen,  waschen  in  der  koken  up,  boten
 viir  (beet  the  fire),  schiiren  de  vate,  schrapen  de  perde  im  stalle,
 voderen  dat  quik,  dat  it  vet  und  glat  herin  geit,  theen  (draw)
 water  und  dragent  dem  vehe  (cattle)  vor.  Men  kan  se  des
@@ -3852,8 +3560,7 @@ the  beds  of  sluggards,  blows  their  light  out,  turns  the  best  cow's
 neck  awry,  kicks  the  dawdling  milkmaid's  pail  over,  and  mocks
 her  with  insulting  laughter ;  his  good-nature  turns  into  worrying
 and  love  of  mischief,  he  becomes  a  *  tormenting  spirit.'  Agemund
-in  the  Eeinardus  4,  859-920  seems  to  me  no  other  than  a  house-
-daemon,  distorted  and  exaggerated  by  the  poet,  disturbing  the
+in  the  Eeinardus  4,  859-920  seems  to  me  no  other  than  a  housedaemon,  distorted  and  exaggerated  by  the  poet,  disturbing  the
 maid  in  her  sleep,  her  milking  and  churning  (see  Suppl.).^
 
 Servants,  to  keep  on  good  terms  with  him,  save  a  little  potful
@@ -3867,8 +3574,7 @@ accordingly ;  on  those  evenings  he  does  not  like  any  noisy  work
 to  be  going  on,  either  in  or  out  of  doors.  This  they  call  in
 Norway 'at  holde  qvelvart  (qvellsvart),'  to  hold  evening  rest.
 Those  who  desire  his  goodwill,  give  him  good  words  :  '  hidre
-granne,  gior  det ! '  dear  neighbour,  do  this ;  and  he  replies  con-
-formably. He  is  said  at  times  to  carry  his  preference  for  the
+granne,  gior  det ! '  dear  neighbour,  do  this ;  and  he  replies  conformably. He  is  said  at  times  to  carry  his  preference  for  the
 goodman  so  far  as  to  pilfer  hay  and  straw  from  other  farmers'
 barns  or  stables,  and  bring  it  to  him  (see  Suppl.).
 
@@ -3882,9 +3588,7 @@ The  home-sprite  is  contented  with  a  trifling  wage  :  a  new  hat,  a
 red  cap,  a  parti-coloured  coat  with  tinkling  bells  he  will  make
 shift  with.  The  hat  and  cap  he  has  in  common  with  dwarfs
 (p.  463),  and  therefore  also  the  power  to  make  himself  invisible.
-Petronius  (Satir.  cap.  38)  shows  it  was  already  a  Roman  super-
-stition :  'sed  quomodo  dicunt,  ego  nihil  scivi,  sed  audivi,  quo-
-modo  incuhoni  pileam  rapuisset,  ot  thesaurum  invenit.'     Home-
+Petronius  (Satir.  cap.  38)  shows  it  was  already  a  Roman  superstition :  'sed  quomodo  dicunt,  ego  nihil  scivi,  sed  audivi,  quomodo  incuhoni  pileam  rapuisset,  ot  thesaurum  invenit.'     Home-
 
 '  The  description  of  his  figure  (a  horse's  mane,  hawk's  hill,  cat's  tail,  goat's
 beard,  ox's  horns  and  cock's  feet)  can  hardly  have  been  all  invented  there  and  then.
@@ -3894,8 +3598,6 @@ yet  the  German  goblin  Goldemar  was  likewise  musical  (Ir.  Elfenm.  Ixxxi
 and  Faye,  pp.  43-45,  give  the  best  account  of  the  Norwegian  Nissen,  and  Thiele  1.
 134-5  of  the  Danish.
 
-
-512  WIGHTS   AND   ELVES.
 
 sprites    guard    treasures,  and  in    Nib.   399    Siegfried   becomes
 master  of  the  hoard  as  soon  as  he  has  taken  Alberich's  tarnkappe
@@ -3907,8 +3609,7 @@ midday  (see  chap,  XXXVI.,  daemon  meridianus)  in  summer  and
 autumn,    slow  and  panting  he  drags  a  single  straw  or  an    ear
 (p.  451>)  ;    when    the   farmer  laughed  and  asked,    '  What's    the
 odds  whether  you  bring  me  that  or  nothing  ?  ■*  he   quitted  the
-farm  in  dudgeon,  and  went  to  the  next.     From  that  time  pros-
-perity forsook  the  man  who  had  despised  him,  and  went  over  to
+farm  in  dudgeon,  and  went  to  the  next.     From  that  time  prosperity forsook  the  man  who  had  despised  him,  and  went  over  to
 his  neighbour.     The  farmer  who  respected  the  busy  tomte  and
 cared  for  the  tiniest  straw,  became  rich,  and    cleanliness   and
 order  reigned  in  his  household.     Many  Christians  still  believe  in
@@ -3935,8 +3636,7 @@ As  henchman  true,  he  abides  by  the  master  he  once  takes  up
 with,  come  weal  come  woe.  But  his  attachment  is  often  found
 irksome,  and  one  cannot  be  rid  of  him  again.     A  farmer  set  fire
 
-1  The  story  (as  written  down  in  1559)  is  given  in  Ern.  Joach.  Westplial's  Speci-
-men documentorum  ineditorum,  Kostock  1726,  pp.  156-166.
+1  The  story  (as  written  down  in  1559)  is  given  in  Ern.  Joach.  Westplial's  Specimen documentorum  ineditorum,  Kostock  1726,  pp.  156-166.
 
 2  Scott's  Minstrelsy  I.  civ.  mentions  a  Nortli  English  Brag  or  Barguest :  '  he
 usually  ended  his  mischievous  frohcs  with  a  horselaugh.'  Conf .  Hone's  Tablebook
@@ -3951,11 +3651,8 @@ were  removing  the  contents  (Deut.  sag.  no.  72).^  In  Moneys
 Anzeiger  1835,  312  we  read  of  a  little  black  man  that  was
 bought  with  a  chest,  and  when  this  was  opened,  he  hopped  out
 and  slipped  behind  the  oven,  whence  all  efforts  to  rout  hitn  out
-were  fruitless ;  but  he  lived  on  excellent  terms  with  the  house-
-hold, and  occasionally  shewed  himself  to  them,  though  never  to
-strangers.  This  black  figure  reminds  one  both  of  the  Scandi-
-navian dwarfs,  and  of  the  devil.  Some  thoroughly  good  goblin-
-stories  are  in  Adalb.  Kuhn's  collection,  pp.  42.  55.  84.  107.  159.
+were  fruitless ;  but  he  lived  on  excellent  terms  with  the  household, and  occasionally  shewed  himself  to  them,  though  never  to
+strangers.  This  black  figure  reminds  one  both  of  the  Scandinavian dwarfs,  and  of  the  devil.  Some  thoroughly  good  goblinstories  are  in  Adalb.  Kuhn's  collection,  pp.  42.  55.  84.  107.  159.
 191-3.  372.2
 
 There  are  also  goblins  who,  like  nix  and  watersprite,  are
@@ -3969,8 +3666,7 @@ cluricaun  (pp.  92.  213  of  the  trausl.).  Also  a  capital  Polish  story  
 in  Woycicki's  Klechdy  1,  198 :  An  unknown  person,  who  called  liimself  Iskrzycki
 [flinty,  from  iskra  =  spark,  says  Grimm  ;  there  is  also  a  Slav.  iskri  =  near,  iskreuny
 =  neighbour,  friendly]  came  and  offered  his  services  to  a  man  of  noble  family.
-The  agreement  was  drawn  u]),  and  even  signed,  when  the  master  observed  that  Isk-
-rzycki had  horse's  feet,  and  gave  him  notice  of  withdrawal.  But  the  servant  stood
+The  agreement  was  drawn  u]),  and  even  signed,  when  the  master  observed  that  Iskrzycki had  horse's  feet,  and  gave  him  notice  of  withdrawal.  But  the  servant  stood
 on  his  rights,  and  declared  his  intention  of  serving  his  master  whether  he  would
 or  no.  He  lived  invisible  by  the  fireplace,  did  all  the  tasks  assigned  him,  and  by
 degrees  they  got  used  to  him ;  but  at  last  the  lady  i^ressed  her  husband  to  move,
@@ -4007,15 +3703,12 @@ Miillenh.  209) ;  so  in  the  case  of  the  devil,  ch.  XXXIII. — Extr.  f
 r
 
 
-514  WIGHTS  AND   ELVES.
-
 (p.  507),  likewise  the  folet  in  Marie  de  Fr.  2,  140,  who  grants
 ■three  wishes  (oremens).  And  the  captive  marmennill  (p.  434),
 or  the  sea-wife,  does  the  same.
 
 The  unfriendly,  racketimj  and  tormenting  spirits  who  take  pos-
-. session  of  a  house,  are  distinguished  from  the  friendly  and  good-
-natured  by  their  commonly  forming  a  whole  gang,  who  disturb
+. session  of  a  house,  are  distinguished  from  the  friendly  and  goodnatured  by  their  commonly  forming  a  whole  gang,  who  disturb
 the  householder's  rest  with  their  riot  and  clatter,  and  throw  stones
 from  the  roof  at  passers  by.  A  French  comedy  of  the  16th
 century,  '  Les  Esprits,'  ^  represents  goblins  racketing  in  a  house,
@@ -4023,20 +3716,17 @@ singing  and  playing  at  night,  and  aiming  tiles  at  passers  by  in
 the  daytime ;  they  are  fond  of  fire,  but  make  a  violent  uproar
 every  time  the  master  spits. ^  In  Gervase  of  Tilbury,  cap.  18,
 the  folleti  also  i:>elt  with  stones,  and  this  of  stone-throwing  is
-what  we  shall  meet  with  in  qaite  early  stories  of  devils ;  al-
-together the  racketing  sprites  have  in  this  respect  more  of  the
+what  we  shall  meet  with  in  qaite  early  stories  of  devils ;  altogether the  racketing  sprites  have  in  this  respect  more  of  the
 devil  or  spectre  in  them  than  of  the  elf  :  it  is  a  darkening  and
 distortion  of  their  original  nature  in  accordance  with  Christian
 sentiment.
 
-So  it  becomes  clear,  at  last,  how  the  once  familiar  and  faith-
-ful friend  of  the  family  under  heathenism  has  gradually  sunk
+So  it  becomes  clear,  at  last,  how  the  once  familiar  and  faithful friend  of  the  family  under  heathenism  has  gradually  sunk
 into  a  bugbear  or  a  taunt  to  children  :  a  lot  which  he  shares  with
 pddesses  and  gods  of  old.  As  with  Holle  and  Berhte,  so  people
 are  threatened  with  the  Lamia,  the  Omacmica,  the  manducus  and
 goblin  (pp.  500.  507)  :  '  le  gobelin  vous  mangei'a,  le  gobelin
-vous  attrapera !  '  Little  biitzel  no  more,  but  a  frightful  butze-
-mann  or  katzenveit,  in  mask  (strawbeard)  or  with  sooty  visage
+vous  attrapera !  '  Little  biitzel  no  more,  but  a  frightful  butzemann  or  katzenveit,  in  mask  (strawbeard)  or  with  sooty  visage
 he  scares  (like  the  roggenmuhme,  p.  477).  And  it  is  worth
 remarking  how,  in  some  districts  at  least,  hnecld  Buprecht,  knecht
 Nicolas,  appear  at  Christmas-time    not  by    themselves,    but    in
@@ -4046,15 +3736,11 @@ Nicolas,  appear  at  Christmas-time    not  by    themselves,    but    in
 1611,  p.  242  seq.
 
 2  Legenda  aurea,  cap.  177  :  Hujus  Ludovici  tempore,  anno  Domini  856,  ut  in
-quadam  chronica  habetur,  in  parochia  Maguntina  malignus  spiritus  parietes  domo-
-rum  quasi  malleis  pulsa/ido  et  manifeste  loquendo  et  discordias  seminando  adeo  hom-
-inis  infestabat,  ut  quocumque  intrasset,  statim  ilia  domus  exurereter.  Presbyteris
-autem  letanias  agentibus  et  aquam  benedictam  spargentibus  inimicus  lapides  jact-
-abat  et  multos  cruentabat.  Taudem  aliquando  conquiescens  confessus  est  se,  quando
+quadam  chronica  habetur,  in  parochia  Maguntina  malignus  spiritus  parietes  domorum  quasi  malleis  pulsa/ido  et  manifeste  loquendo  et  discordias  seminando  adeo  hominis  infestabat,  ut  quocumque  intrasset,  statim  ilia  domus  exurereter.  Presbyteris
+autem  letanias  agentibus  et  aquam  benedictam  spargentibus  inimicus  lapides  jactabat  et  multos  cruentabat.  Taudem  aliquando  conquiescens  confessus  est  se,  quando
 aqua  spargebatur,  sub  capa  talis  sacerdotis  quasi  familiaris  sui  latuisse,  accusans
 evun  quod  cum  filia  i^rocuratoris  in  peccatum  lapsus  fuerit.  [This  incident,  said  to
-have  occurred  at  Capmunti  (Kembden)  near  Bingen,  is  derived  from  Kudolfi  Ful-
-densis  Annal.  ann.  858,  in  Pertz  1,  372,  where  further  details  are  given. — Estr.
+have  occurred  at  Capmunti  (Kembden)  near  Bingen,  is  derived  from  Kudolfi  Fuldensis  Annal.  ann.  858,  in  Pertz  1,  372,  where  further  details  are  given. — Estr.
 from  SuppL.
 
 
@@ -4069,16 +3755,14 @@ higher  being  from  whom  the  gifts  proceed ;  they  are  almost  as
 essential  to  the  festival  as  Jackpudding  to  our  old  comedy.  I
 can  well  imagine  that  even  in  heathen  times  the  divinity,  whose
 appearing  heralded  a  happy  time,  had  at  his  side  some  merry  elf
-or  dwarf  as  his  attendant  embodying  to  the  vulgar  eye  the  bless-
-ings that  he  brought.^  Strongly  in  favour  of  this  view  are  the
+or  dwarf  as  his  attendant  embodying  to  the  vulgar  eye  the  blessings that  he  brought.^  Strongly  in  favour  of  this  view  are  the
 North  Franconian  names  Hullepupel  (Popowitsch  522),  HoUepeter
 (Schm.  2,  174),  the  Bavarian  Seinper,  of  whom  they  say  he  cuts
 naughty  children's  bodies  open  and  stuffs  them  with  pebbles
 (Schm.  3,  12.  250),  exactly  after  the  manner  of  Holla  and  Berhta
 (p.  273)";  and  consider  faithful  Eckart,  who  escorts  Holla.
 In  Christian  times  they  would  at  first  choose  some  saint  to
-accompany  the  infant  Christ  or  the  mother  of  God  in  their  dis-
-tribution of  boons,  but  the  saint  would  imperceptibly  degenerate
+accompany  the  infant  Christ  or  the  mother  of  God  in  their  distribution of  boons,  but  the  saint  would  imperceptibly  degenerate
 into  the  old  goblin  again,  but  now  a  coarser  one.  The  Christmas
 plays  sometimes  present  the  Saviour  with  His  usual  attendant
 Peter,  or  else  with  Niclas,  at  other  times  however  Mary  with
@@ -4089,11 +3773,9 @@ there  is  still  a  Nidas,  a  saintly  bishop  and  benevolent  being,
 distinct  from  the  '  man '  who  scares  children  ;  but  the  characters
 get  mixed,  and  Globes  by  himself  acts  the  'man'  (Tobler  105'',
 106*);  the  Austrian  Grampus  (Hofer  1,  313.  Schm.  2,  110),
-Krdmpus,  Kramhas,  is  possibly  for  Hieronymus,  but  how  to  ex-
-plain the  Swiss  Schmutzli  (Staid.  2,  337)  I  do  not  riglitly  know,
+Krdmpus,  Kramhas,  is  possibly  for  Hieronymus,  but  how  to  explain the  Swiss  Schmutzli  (Staid.  2,  337)  I  do  not  riglitly  know,
 perhaps  simply  from  his  smutty  sooty  aspect  ?  Instead  of  Grampus
-there  is  also  in  Styria  a  Bdrthel  (pointing  to  Berhta,  or  Bartho-
-lomew ?)    Schmutzbartel  ^  and  Klaubauf,  who  rattles,  rackets,  and
+there  is  also  in  Styria  a  Bdrthel  (pointing  to  Berhta,  or  Bartholomew ?)    Schmutzbartel  ^  and  Klaubauf,  who  rattles,  rackets,  and
 
 *  Heinrich  and  Ruprecht  were  once  common  names  for  serving-men,  as  Hans
 and  Claus  are  now.
@@ -4105,18 +3787,14 @@ the  Lausitz  idol  Sompar  (supra,  p.  71  note)  is  wortla  considering.
 explanations,  may  refer  to  a  home-sprite  well-known  in  the  cellar.
 
 
-516  WIGHTS   AND   ELVES.
-
 throws  nuts  (Denis,  Lesefr.  1,  131  ;  see  Suppl.).  Further,  on  this
 point  I  attach  weight  to  the  Swedish  jullekar,  Dan.  juleleger,
-yule-lays,  undoubtedly  of  heathen  origin,  which  at  Christmas-
-time present  Christ  and  certain  saints,  but  replace  our  man
+yule-lays,  undoubtedly  of  heathen  origin,  which  at  Christmastime present  Christ  and  certain  saints,  but  replace  our  man
 Euprecht  by  a  julhock,  julehuk,  i.e.  a  manservant  disguised  as
 a  goat.i  This  interweaving  of  jackpudding,  fool,  Klobes  and
 Riipel,  of  the  yule-buck  and  at  last  of  the  devil  himself,  into  the
 rude  popular  drama  of  our  Mid.  Ages,  shows  what  an  essential
-part  of  it  the  wihtels  and  tatermans  formerly  were,  how  ineradi-
-cable the  elvish  figures  and  characters  of  heathenism.  The
+part  of  it  the  wihtels  and  tatermans  formerly  were,  how  ineradicable the  elvish  figures  and  characters  of  heathenism.  The
 Greeks  enlivened  the  seriousness  of  their  tragedy  by  satyric
 plays,  in  which  e.g.  Proteus,  similar  to  our  sea-sprite  (p.  434),
 played  a  leading  part.^
@@ -4126,18 +3804,13 @@ gods,  wise-women  and  these  genii  now  and  then  comes  to  light.
 The  elf  who  showers  his  darts  is  servant  or  assistant  to  the  high
 god  of  thunder,  the  cunning  dwarf  has  forged  his  thunderbolts
 for  him  ;  like  gods,  they  wear  divine  helmets  of  invisibility,  and
-the  home-sprite  has  his  feet  miraculously  shod  as  well;  water-
-sprites  can  assume  the  shape  of  fishes  and  sea-horses,  and  home-
-sprites  those  of  cats.  The  weeping  nix,  the  laughing  goblin  are
-alike  initiated  in  the  mystery  of  magic  tones,  and  will  even  un-
-veil it  to  men  that  sacrifice.  An  ancient  worship  of  genii  and
+the  home-sprite  has  his  feet  miraculously  shod  as  well;  watersprites  can  assume  the  shape  of  fishes  and  sea-horses,  and  homesprites  those  of  cats.  The  weeping  nix,  the  laughing  goblin  are
+alike  initiated  in  the  mystery  of  magic  tones,  and  will  even  unveil it  to  men  that  sacrifice.  An  ancient  worship  of  genii  and
 daemons  is  proved  by  sacrifices  offered  to  spirits  of  the  mountain,
-the  wood,  the  lake,  the  house.  Goblins,  we  may  presume,  ac-
-companied the  manifestation  of  certain  deities  among  men,  as
+the  wood,  the  lake,  the  house.  Goblins,  we  may  presume,  accompanied the  manifestation  of  certain  deities  among  men,  as
 Wuotan  and  Holda,  and  both  of  these  deities  are  also  connected
 with  watersprites  and  swan-maids.  Foreknowledge  of  the  future,
-the  gift  of  prophecy,  was  proper  to  most  genii ;  their  inexhaust-
-ible cheerfulness  stands  between  the  sublime  serenity  of  gods
+the  gift  of  prophecy,  was  proper  to  most  genii ;  their  inexhaustible cheerfulness  stands  between  the  sublime  serenity  of  gods
 
 
 '  Eead  Holberg's  Julestue,  and  look  up  julvdtten  in  Finn  Magn.  lexicon,  p.  326
@@ -4194,15 +3867,13 @@ rus8  =  fuligo  (as  kohkausch  was  formerly  spelt  kolruss).
 
 
 CHAPTER    XVIII.
-GIANTS.
 
 The  relation  in  wliich  giants  stand  to  dwarfs  and  men  has
 been  touched  upon  in  p.  449.  By  so  much  of  bodily  size  and
 strength  as  man  surpasses  the  elf  or  dwarf,  he  falls  short  of  the
 giant ;  on  the  other  hand,  the  race  of  elves  and  dwarfs  has  a
 livelier  intellect  and  subtler  sense  than  that  of  men,  and  in  these
-points  again  the  giants  fall  far  below  mankind.  The  rude  coarse-
-grained giant  nature  is  defiant  in  its  sense  of  material  power  and
+points  again  the  giants  fall  far  below  mankind.  The  rude  coarsegrained giant  nature  is  defiant  in  its  sense  of  material  power  and
 might,  the  sly  shy  dwarf  is  conscious  of  his  mental  superiority.
 To  man  has  been  allotted  a  happy  mean,  which  raises  him  above
 the  giant's  intractableness  and  the  dwarf's  cunning,  and  betwixt
@@ -4212,8 +3883,7 @@ even  falls  foul  of  the  gods  ;  ^  the  outcast  dwarf,  who  does  discern
 good  and  evil,  lacks  the  right  courage  for  free  and  independent
 action.  In  order  of  creation,  the  giant  as  the  sensuous  element
 came  first,  next  followed  the  spiritual  element  of  elvish  nature,
-and  lastly  the  human  race  restored  the  equilibrium.  The  abrupt-
-ness of  these  gradations  is  a  good  deal  softened  down  by  the
+and  lastly  the  human  race  restored  the  equilibrium.  The  abruptness of  these  gradations  is  a  good  deal  softened  down  by  the
 giants  or  dwarfs  forming  frequent  alliances  with  men,  affording
 clear  evidence  that  ancient  fiction  does  not  favour  steep  contrasts  :
 the  very  earliest  giants  have  sense  and  judgment  ascribed  to
@@ -4231,8 +3901,6 @@ Proleg.  373.
 
 2  Some  are  mere  circumlocutions  (a  counterpart  to  those  quoted  on  p.  450) :  der
 groze  man,  Er.  5380.     der  michel  man,  Er.  5475.     der  viichel  knahe,  Iw.  5056.
-
-518
 
 
 EZAN,    EOTEN.  519
@@ -4286,8 +3954,6 @@ the  Sax.  Chron.  (Ingr.  p.  14)  hais  lotum  for  lutis,  lutnacynn  for  lu
 
 VOL.    11.  O
 
-
-520  GIANTS.
 
 meaning  of  giant. ^  Possibly  there  was  beside  iotunn,  also  an
 ON.  iotull,  OHG.  ezal  (edax)  ;  -  that  would  explain  the  present
@@ -4370,24 +4036,19 @@ Thyrsis  erat  dictus,  Seveldia  rura  colebat.^
 
 The  name  of  a  place  Tarsinriut,  Tursenriut  (Doc.  of  1218-9  in
 Lang's  Reg.  2,  88.  94)  ^  contains  our  word  unmistakably,  and  so
-to  my  thinking  does  the  earlier  Tuzzinwanc  near  Neugart,  stand-
-ing for  Tussinwanc,  Tursinwanc  (campus  gigantis),  the  present
+to  my  thinking  does  the  earlier  Tuzzinwanc  near  Neugart,  standing for  Tussinwanc,  Tursinwanc  (campus  gigantis),  the  present
 Dussnang.  Nor  does  it  seem  much  more  hazardous  to  explain
-Strabo's  QovaveXOa  (7,  1.  Tzsch.  2,  328)  by  Thurshilda,  Thuss-
-hilda,  Thursinhilda,^  though  I  cannot  produce  an  ON.  Thurshildr.
+Strabo's  QovaveXOa  (7,  1.  Tzsch.  2,  328)  by  Thurshilda,  Thusshilda,  Thursinhilda,^  though  I  cannot  produce  an  ON.  Thurshildr.
 In  Switzerland  to  this  day  dilrst  is  the  Wild  Hunter  (St.  1,  329),
 on  the  Salzburg  Alp  dasel  is  a  night-spirit  (Mtichar's  Gastein,
 p.  145),  and  in  Lower  Germany  drus  or  drost  is  devil,  dolt,  giant.'^
 
 '  Mone's  UntersuchunR,  pp.  288-9.
 
--  Now  Tirschenreit,   Tirschent^ereith.   Sclmieller's  birthpLace  in  the  Up.  Pala-
-tinate, Schm.  1,  4r)8.     So  Tiirscheuwuld,  Thyrseutritt,  Tiiratwhikel,  et. .— Suppl.
+-  Now  Tirschenreit,   Tirschent^ereith.   Sclmieller's  birthpLace  in  the  Up.  Palatinate, Schm.  1,  4r)8.     So  Tiirscheuwuld,  Thyrseutritt,  Tiiratwhikel,  et. .— Suppl.
 "*  Conf.  rharailchs,  Verelde,  p.  '28-1-5  ;  Griniilil  for  Grinihiltl.
 *  Breiu.  wb.  1,  2J7.    lUchty  sub  v.  th-uus,  Suhiitze  sub  v.  drost,  Strodtmann  sub
 
-
-522  GIANTS,
 
 "VVhefher  TItorsholt,  ThosJioU,  the  name  of  a  place  in  Oldenburg-,
 is  connected  with  ]7urs,  I  cannot  tell. — In  Gothic  the  word
@@ -4448,16 +4109,13 @@ goes  back  to  MHG.  too;  Herbert  1381  :  'groz  alsam  ein  Mine,'
 rhym.  '  mit  starkem  geliine ; '  Trist.  4034  :  '  an  geliden  und  an
 geliune  gewahsen  als  ein  hiune.'^  In  OHG.  writings  I  do  not  find
 the  word  in  this  sense  at  all.  But  MHG.  has  also  a  Einne  (gen.
-Hiunen)  signifying,  without  any  reference  to  bodily  size,  a  Hun-
-garian, in  the  Nibelunge  a  subject  of  Etzel  or  Attila  (1110,  4.
+Hiunen)  signifying,  without  any  reference  to  bodily  size,  a  Hungarian, in  the  Nibelunge  a  subject  of  Etzel  or  Attila  (1110,  4.
 1123,4.  1271,3.  1824,3.  1829,1.  1831,1.  1832,  1),  which
 in  Lat.  writings  of  the  Mid.  Ages  is  called  Himmis,  more  exactly
 Hanus,  Ckmiiis.  To  this  Hiune  would  correspond  an  OHG.
 Hunio;  I  have  only  met  with  the  strong  form  Hun,  pi.  HCmi,
-gen.  Hunio,  Huneo,^  with  which  many  names  of  places  are  com-
-pounded, e.g.  Himiofeld,  a  little  town  in  Fulda  bishopric,  now
-Hiinfeldj  also  names  of  men,  Himolt,  Himperht  (Humprecht),  Hiin-
-rat,  Althun,  Folchun,  etc.  The  AS.  Uuna  cyning  (Beda  1,  13)
+gen.  Hunio,  Huneo,^  with  which  many  names  of  places  are  compounded, e.g.  Himiofeld,  a  little  town  in  Fulda  bishopric,  now
+Hiinfeldj  also  names  of  men,  Himolt,  Himperht  (Humprecht),  Hiinrat,  Althun,  Folchun,  etc.  The  AS.  Uuna  cyning  (Beda  1,  13)
 requires  a  sing,  Hun;  but  to  the  ON,  nom.  pi.  Hunar  there  is  said
 to  belong  a  weak  sing.  Hiini  (Gl.  Edd.  havn.  2,  881).  It  is  plain
 those  Huni  have  a  sense  that  shifts  about  pretty  much  with  time
@@ -4481,8 +4139,6 @@ ancient  coisura,  so  that  the  older  reading  was  most  likely  hiune.
 Huni  (Pauuonii)  ;  2,  353''  Huni  for  Huu  (Hunus) ;  2,  370  Huni  (Vandali).
 
 
-524  GIANTS,
-
 therefore  to  guess,  that  the  sense  of '  giant/  which  we  cannot
 detect  in  Hun  till  the  13th  century,  must  nevertheless  have  lain
 in  it  long  before  :  it  is  by  such  double  meaning  that  Hadubrant's
@@ -4503,11 +4159,9 @@ of:  '  enfa  geweorc,  enta  sergeweorc  (early  work  of  giants),  eald
 enta  geweorc,'  Beow.  3356.  5431.  5554.  Cod.  exon.  291,  24.
 476,  2.  So  the  adj.  :  'e??h',sc helm,' Beow.  5955;  Lipsius's  glosses
 also  give  eintisc  avitus,  what  dates  from  the  giants'  days  of  yore.
-Our  OHG.  eniisc  antiquus  does  not  agree  with  this  in  consonant-
-gradation  \t  should  be  z]  ;  it  may  have  been  suggested  by  the
+Our  OHG.  eniisc  antiquus  does  not  agree  with  this  in  consonantgradation  \t  should  be  z]  ;  it  may  have  been  suggested  by  the
 Latin  word,  perhaps  also  by  the  notion  of  enti  (end)  ;  another
-form  is  antrisc  antiquus  (Graff  1,  387),  and  I  would  rather  asso-
-ciate it  with  the  Eddie  '  inn  aldni  iotunn'  (grandgevus  gigas),  Sgem,
+form  is  antrisc  antiquus  (Graff  1,  387),  and  I  would  rather  associate it  with  the  Eddie  '  inn  aldni  iotunn'  (grandgevus  gigas),  Sgem,
 23=^  46^  84''  1 89''.  The  Bavarian  patois  has  an  intensive  prefix
 enz,  enzio  (Schmeller  ,  188),  but  this  may  have  grown  out  of  the
 gen.  of  end,  ent  (Schm.  1,  77)  j  or  may  we  take  this  ent-  itself  in
@@ -4520,20 +4174,16 @@ Enzaicip  (Meichelb.  1233.  1305),  Evzeman  (Ben.  325)?  If
 Huni  alluded  to  Wends  and  Slavs,  we  may  be  allowed  to  identify
 entas  with  the   ancient  Antes ;  as  for  the  Indians,  whom   Mone
 
-1  The  present  Imelherg  near  Schmalkaklen  ;  old  docs.,  however,  spell  it  Emise-
-here,  named  apparently  from  the  brook  Emise,  Emse,  which  rises  on  it.  Later
+1  The  present  Imelherg  near  Schmalkaklen  ;  old  docs.,  however,  spell  it  Emisehere,  named  apparently  from  the  brook  Emise,  Emse,  which  rises  on  it.  Later
 forms  are  Enzelberg,  Einzelberg,  Einselberg.
 
 
 ENT.      GIGANT.      RISO.  525
 
 (Ai3z.  1836,  1.  2)  would  bring  in,  they  may  stay  outside,  for  in
-OHG.  itself  antisc,  entisc  (antiquus)  is  distinct  from  indisc  (In-
-dicus),  Graff  1,  385-6  ;  and  see  Suppl.
+OHG.  itself  antisc,  entisc  (antiquus)  is  distinct  from  indisc  (Indicus),  Graff  1,  385-6  ;  and  see  Suppl.
 
-The  AS.  poets  use  also  the  Greek,  Latin,^  and  Romance  appel-
-lative gigant,  pi.  gigantas,  Beow.  225.  glganta  cyn  3379.  glgant-
-msecg,  Cfedm.  76,  36 ;  conf.  Ital.  Span,  gigante,  Prov.  jayan
+The  AS.  poets  use  also  the  Greek,  Latin,^  and  Romance  appellative gigant,  pi.  gigantas,  Beow.  225.  glganta  cyn  3379.  glgantmsecg,  Cfedm.  76,  36 ;  conf.  Ital.  Span,  gigante,  Prov.  jayan
 (Ferab.  4232),  O.Fr.  gaiant  (Ogier  8092.  8101),  Fr.  geant,  Eng.
 giant;  also  OHG.  gigant  (0.  iv.  12,  61),  MHG.  gigante  die
 mdren  (Diut.  3,  60),^  M.  Nethl.  gigant.  The  ON.  word  which  is
@@ -4559,8 +4209,7 @@ the  OHG.  riso  does  not  mean  elatus,  superbus,  excelsus.^
 Again,  luhhe,  h'ihle  seems  in  parts  of  Lower   Saxony  to  mean
 
 1  Strange  that  the  Latin  language  has  no  word  of  its  own  for  giant,  but  must
-horrow  the  Greek  gigas,  titan,  cyclops  ;  yet  Italy  has  indigenous  folk-tales  of  Gam-
-panian  giants.
+horrow  the  Greek  gigas,  titan,  cyclops  ;  yet  Italy  has  indigenous  folk-tales  of  Gampanian  giants.
 
 -  The  Biblical  view  adopted  in  the  Mid.  Ages  traced  the  giants  to  Cain,  or  at  least
 to  mixture  with  his  family  :  '  gigantes,  quales  propter  iracundiam  Dei  per  tilios  Scth
@@ -4579,24 +4228,18 @@ Slav,  vred-iti,  to  hurt,  AS.  wrc'Se  ?  A  Euss.  word  for  giant  is  ver
 be  from  verg-ati,  to  throw.]
 
 
-526  GIANTS.
-
 unwieldy  giant,  liihhen-stones  are  shown  on  the  Corneliusberg
 near  Helmstadt,  and  luhbe  ace.  to  the  Brem.  wb.  3,  92  means  a
 slow  clumsy  fellow;  it  is  the  Engl,  lubber,  lobber,  and  Michel
-Beham's  /m^^Z  (Mone's  Anz.  1835,  450"),  conf.  ON.  lubhi  (hir-
-sutus).  To  this  add  a  remarkable  document  by  Bp.  Gebhard  of
+Beham's  /m^^Z  (Mone's  Anz.  1835,  450"),  conf.  ON.  lubhi  (hirsutus).  To  this  add  a  remarkable  document  by  Bp.  Gebhard  of
 Halberstadt,  bewailing  as  late  as  1462  the  heathenish  worship  of
 a  being  whom  men  named  den  guden  lubben,  to  whom  they  offered
-bones  of  animals  on  a  hill  by  Schochwitz  in  the  county  of  Mans-
-feld.  Not  only  have  such  ancient  bone-heaps  been  discovered  on
+bones  of  animals  on  a  hill  by  Schochwitz  in  the  county  of  Mansfeld.  Not  only  have  such  ancient  bone-heaps  been  discovered  on
 the  Lvpberg  there  (conf.  the  Augsburg  perleich,  p.  294),  but  in
 the  church  of  the  neighbouring  JMiillersdorf  an  idol  image  let  into
-the  wall,  which  tradition  says  was  brought  there  from  the  Lup-
-berg  (see  Suppl.).^
+the  wall,  which  tradition  says  was  brought  there  from  the  Lupberg  (see  Suppl.).^
 
-The  ON.  has  several  words  for  giantess,  beside  the  gygt'  men-
-tioned above:  shass,  neut.,  Ssem.  144'^  154'^,  and  skessa,  fern. ;
+The  ON.  has  several  words  for  giantess,  beside  the  gygt'  mentioned above:  shass,  neut.,  Ssem.  144'^  154'^,  and  skessa,  fern. ;
 gricfi'  f.,  7nella  f . ;  gift  f.,  Saem.  143",  Norweg.  jyvri  (Hallag.  53)
 or  gijvrl,  gurri,  djarre  (Faye  7.  9.  10.  12).  This  gifr  seems  to
 mean  saucy,  defiant,  greedy.
@@ -4621,16 +4264,13 @@ Avar  '  again  in  the  legend  of  Zisa   (p.  292-5)   is  a  giant.     Now,
 1  Neue  mitth.  des  thiir.  sacks,  vereins  3,  130-6.  5,  2.  110-132.  6,  37-8,  The
 picture,  however,  contains  nothing  giant-like,  but  rather  a  goddess  standing  on  a
 v\oh.  Yet  I  remark,  that  a  giant's  tomb  on  Mt.  Blanc  is  called  '  la  tombe  du  bon
-homme,  de  la  bonne  femme,'  an  exi^iession  associated  with  the  idea  of  a  sacred  vene-
-rated man  (supra,  p.  8'J).  Conf.  also  ijocUjuhbe  used  of  Thorr,  p.  167,  and  (judmur,
+homme,  de  la  bonne  femme,'  an  exi^iession  associated  with  the  idea  of  a  sacred  venerated man  (supra,  p.  8'J).  Conf.  also  ijocUjuhbe  used  of  Thorr,  p.  167,  and  (judmur,
 p.  430.
 
 2  Psalter  of  queen  Margareta,  Vienna  1834,  p. 17^  :  ohrzim,  the  -im  as  in  oyczim,
 
 pie'grzym.
 
-
-GIANTS.  527
 
 as  the  Avari  in  the  Mid.  Asres  are  =  Chuni,  the  words  huii  and
 obor  alike  spring  out  of  the  national  names  Hun  and  Avar.^  To
@@ -4661,8 +4301,7 @@ imputed  to  our  giants;  but  like  them ^  and  the  ancient  gods,  Ji^^-^
 When  this  attribute  is  given  to  heroes,  gigantic  ones  are  meant,
 as  Heimo,  Starka'Sr,  Asperiau  (p.  387).  But  Seem.  85'^  expressly
 calls  a  l^urs  jji'ihijj'&u&r,  exactly  as  the  MHG.  Wahtelmasre  names
-a  driJiowptigen  turseu  (Massm.  denkm.  109)  :  a  remarkable  in-
-stance of  agreement.  In  Seem.  35^  appears  a  giant's  sou  with
+a  driJiowptigen  turseu  (Massm.  denkm.  109)  :  a  remarkable  instance of  agreement.  In  Seem.  35^  appears  a  giant's  sou  with
 six  heads,  in  56^  the  many -headed  band  of  giants  is  spoken  of,
 and  in  53  a  giantess  with  900  heads.  Braua's  father  has  three
 (invisible)  heads,  Fornald.  sog.  3,  574,  where  also  it  is  said:   '  ]'a
@@ -4678,8 +4317,6 @@ excelsus,  qui  senos  in  manibus  pedibusque  habebat  digitos,  i.e.  vigiuti
 (instead  of  the  human  twenty),  2  Bam.  21,  20.  Btrtheau's  Israel,  p.  Ii3.  0.  i'r.
 poems  give  the  Saracen  giaut>«;-  arms,  tico  noses,  two  chins,  Ogier  1)817.
 
-
-528  GIANTS.
 
 fell  margr  (many  a)  tvihof^ad'r  iotunn.'  Trolds  witli  12  heads,
 then  with  5,  10,  15  occur  in  Norske  event,  nos.  3  and  24.  In
@@ -4699,8 +4336,7 @@ gleaming  arms,  as  she  shuts  the  house-door,  make  air  and  water
 shine  again,  S^m.  82%  Sn.  39  (see  Suppl.).
 
 In  the  giants  as  a  whole,  an  untamed  natural  force  has  full
-swing,  entailing  their  excessive  bodily  size,  their  overbearing  in-
-solence, that  is  to  say,  abuse  of  corporal  and  mental  power,  and
+swing,  entailing  their  excessive  bodily  size,  their  overbearing  insolence, that  is  to  say,  abuse  of  corporal  and  mental  power,  and
 finally  sinking  under  its  own  weight.  Hence  the  iotunn  in  the
 Edda  is  called  skrautgiarn  (fastosus),  Seem.  117^';  sa  inn  amdtthi
 (preepotens)  4P  82*^;  storuffgi  (magnanimus)  76^;  Jyrungmo&gi
@@ -4733,8 +4369,6 @@ wunda  !  '   i.e.    dummy   sat   on  hill   with  d.  child  in  arm,  d.  wa
 
 1  Popular  rhymes,  fireside  stories,  and  amusements  of  Scotland,  Edinb.  1842.
 
-
-GIANTS.  529
 
 called  the  hill  and  d.  the  child,  the  holy  d.  bless  this  wound  away
 [the  posture  is  that  of  Humpty  Durapty] .  This  seems  pointed
@@ -4790,11 +4424,8 @@ name  Hun.
 and  in  that  of  Carolingian  legend,  Ferabras,
 
 
-530  GIANTS.
-
 iotunn/  Sa6m.  35"''''';  Fenja  and  Menja  are  framvisar  (Grottas.  1,
-13).  When  the  verb  Jn-eya,  usually  meaning  exspectare^  desi-
-derare,  is  employed  as  characteristic  of  giants  (Saem.  SS'*),  it
+13).  When  the  verb  Jn-eya,  usually  meaning  exspectare^  desiderare,  is  employed  as  characteristic  of  giants  (Saem.  SS'*),  it
 seems  to  imply  a  dreamy  brooding,  a  half-drunken  complacency
 and  immobility  (see  Suppl.).
 
@@ -4820,14 +4451,12 @@ lotunlieimr  lies  far  from  Asaheimr,  yet  visits  are  paid  on  both
 sides.  It  is  in  this  connexion  that  they  sometimes  leave  on  us
 the  impression  of  older  nature-gods,  who  had  to  give  way  to  a
 younger  and  superior  race ;  it  is  only  natural  therefore,  that  in
-certain  giants,  like  Ecke  and  Fasolt,  we  should  recognise  a  pre-
-cipitate of  deity.  At  other  times  a  rebellious  spirit  breaks  forth,
+certain  giants,  like  Ecke  and  Fasolt,  we  should  recognise  a  precipitate of  deity.  At  other  times  a  rebellious  spirit  breaks  forth,
 they  make  war  upon  the  gods,  like  the  heaven-scaling  Titans,
 and  the  gods  hurl  them  down  like  devils  into  hell.  Yet  there
 are  some  gods  married  to  giantesses  :  NiorSr  to  SkaSi  the
 daughter  of  Thiassi,  Thorr  to  larnsaxa,  Freyr  to  the  beautiful
-GerSr,  daughter  of  Gymir.  Gunnlo-S  a  giantess  is  OSin's  be-
-loved. The  asin  Gefiun  bears  sons  to  a  giant;  Borr  weds  the
+GerSr,  daughter  of  Gymir.  Gunnlo-S  a  giantess  is  OSin's  beloved. The  asin  Gefiun  bears  sons  to  a  giant;  Borr  weds  the
 giant  BolJ^orn's  daughter  Bestla.  Loki,  who  lives  among  the
 ases,  is  son  to  a  giant  Farbauti,  and  a  giantess  Angrbo^a  is  his
 
@@ -4835,8 +4464,6 @@ ases,  is  son  to  a  giant  Farbauti,  and  a  giantess  Angrbo^a  is  his
 Iw.  441.  £051.  6717.  der  ungevliege  knabe,  Er.  5552  ;  '  kuabe,'  as  in  '  der  michei
 knabe,'  p.  518n.
 
-
-GIANTS.  531
 
 ■wife.  The  gods  associate  with  Oegir  the  iotunn^  and  by  hira
 are  bidden  to  a  banquet.  Giants  again  sue  for  asins,  as  Thrymr
@@ -4867,16 +4494,14 @@ King  FroSi  had  two  captive  giant-maidens  Fenja  and  Meiija,  as
 mill-maids ;  the  grist  they  had  to  grind  him  out  of  the  quern
 Grotti  was  gold  and  peace,  and  he  allowed  them  no  longer  time
 for  sleep  or  rest  than  while  the  gowk  (cuckoo)  held  his  peace  or
-they  sang  a  song.  We  have  a  startling  proof  of  the  former  pre-
-valence of  this  myth  in  Germany  also,  and  I  find  it  in  the  bare
+they  sang  a  song.  We  have  a  startling  proof  of  the  former  prevalence of  this  myth  in  Germany  also,  and  I  find  it  in  the  bare
 proper  names.  Managold,  Manigold  frequently  occurs  as  a  man's
 name,  and  is  to  be  explained  from  mani,  ON.  men  =  monile ;
 more  rarely  we  find  Fanigold,  Fenegold,  from  fani,  ON.  fen  =
 palus,  meaning  the  gold  that  lies  hidden  in  the  fen.  One  Trad,
 patav.  of  the  first  half  of  the  twelfth  cent.  (MB.  28'',  pp.  90-1)
 
-1  The  skeleton  of  a  giantess  struck  by  lightning,  hung  up  in  a  sacristy,  see  WiJe-
-gren's  Ostergotland  4,  527.
+1  The  skeleton  of  a  giantess  struck  by  lightning,  hung  up  in  a  sacristy,  see  WiJegren's  Ostergotland  4,  527.
 
 2  Swed.  'vore  ej  thordon  (Thor-din,  thunder)  till,  lade  troll  verldcn  ode.'
 
@@ -4887,8 +4512,6 @@ a  cap  of  darkness,  shoes  of  swiftness,  and  a  sword  that  cuts  through
 the  god  is  with  the  resistless  hammer.
 
 
-532  GIANTS.
-
 furnislies  both  names  Manegolt  and  Fenegolt  ouc  of  the  same
 iieighbourhood.  We  may  conclude  that  once  the  Bavarians  well
 knew  how  it  stood  with  the  fanigold  and  manig-old  ground  out  by
@@ -4898,8 +4521,7 @@ Ymir,.  or  in  gianf^s  language  Oi'gelmir^  was  the  first-created,
 and  out  of  his  body's  enormous  bulk  were  afterwards  engendered
 earth,  water,  mountain  and  wood.  Ymir  himself  originated  in
 melted  hoarfrost  or  rime  (hrim),  hence  all  the  giants  are  called
-hnmjfmsar,  rime-giants,  Su.  6.  Stem.  85^'^;  hriinhxldr,  rime-
-cold,  is  an  epithet  of  ]>urs  and  iotunn.  Seem.  33''  90'*,  they  still
+hnmjfmsar,  rime-giants,  Su.  6.  Stem.  85^'^;  hriinhxldr,  rimecold,  is  an  epithet  of  ]>urs  and  iotunn.  Seem.  33''  90'*,  they  still
 drip  with  thawing  rime,  their  beards  (kinnskogr,  chin-forest)  are
 frozen,  Seem.  53*^;  Hrininir,  Hmngrimr,  Hrimger&r  are  proper
 names  of  giants,  Seem.  SS^'SG^'IM.  145,  As  hrim  also  means
@@ -4927,15 +4549,12 @@ Jjursa  drottinn,  Seem.  70-74,  a,  pursa  Jyiod' [wdiiiovi)  is  spoken  of,
 107*,  but  iotunJieimr  is  described  as  their  usual  residence.  Even
 our  poem  of  Bother  767  speaks  of  a  riesenlant.  Ou  the  borders
 of  the  giant  province  were  situate  the  grluttuna  gard'ar,  Sn.  108-9.
-We  have  already  noticed  how  most  of  the  words  for  giaut  coin-
-cide with  the  names  of  ancient  nations.
+We  have  already  noticed  how  most  of  the  words  for  giaut  coincide with  the  names  of  ancient  nations.
 
 Giants  were  imagined  dwelling  on  rocks  and  mountains,  and
 their  nature  is  all  of  a  piece  with  the  mineral  kingdom  :  they  are
 either  animated  masses  of  stone,  or  creatures  once  alive  petrified.
 
-
-GIANTS.  533
 
 Hi'ilngnir  had  a  three-cornered  stone  heart,  his  head  and  shield
 were  of  stone,  Su.  109.  Another  giant  was  named  Vagnlwfd'l
@@ -4948,9 +4567,7 @@ Egilss.  22 ;  1  berr/hui,  Fornald.  sog.  1,  412';  hraamhui  (saxicola),
 S^em.  57^  145''' ;  hraunhvalr  (-whale)  57'^;  piissin  af  biargi,  Fornald.
 sog.  2,  29  ;  bergdanir  (gigantes),  Sasm.  54*^;  bergrisa  bru&r  (bride),
 moey  bergrisa,  Grottas.  10.  24,  conf.  the  Gr.  6pecd<; :  on  this  side
-the  notion  of  giantess  can  easily  pass  into  that  of  elfin.  Thrym-
-heimr  lies  up  in  the  mountains,  Su.  27.  It  is  not  to  be  over-
-looked, that  in  our  own  Heldenbuch  Dietrich  reviles  the  giants
+the  notion  of  giantess  can  easily  pass  into  that  of  elfin.  Thrymheimr  lies  up  in  the  mountains,  Su.  27.  It  is  not  to  be  overlooked, that  in  our  own  Heldenbuch  Dietrich  reviles  the  giants
 as  mountain-cattle  and  forest-boors,  conf.  bercrinder,  Laurin  2625,
 and  VKiHgeburen  534.  2624.  Sigenot  97.  walthunde,  Sigenot  13.
 114.  waldes  diebe  (thieves),  120.  waldes  tore  (fool),  waldes
@@ -4958,8 +4575,7 @@ affe  (ape),  Wolfd.  467.  991  (see  p.  481-2  and  Suppl.).
 
 Proper  names  of  giants  point  to  stones  and  metals,  as  larnsaxa
 (ironstony),  larnhaus  (ironskull)  ;  possibly  our  still  surviving
-compound  steinalt,  old  as  stoue  (Gramm.  2,  555),  is  to  be  ex-
-plained by  the  great  age  of  giants,  approaching  that  of  rocks  and
+compound  steinalt,  old  as  stoue  (Gramm.  2,  555),  is  to  be  explained by  the  great  age  of  giants,  approaching  that  of  rocks  and
 hills  ;  gifur  rata  (gigantes  pedes  illidunt  saxis)  is  what  they  say
 in  the  North.
 
@@ -4985,8 +4601,7 @@ Nialss.  p.  IGi  ;  see  Gramm.  2,  C33.
 534  GIANT?.
 
 si  bloz/  i.e.  bare  of  knisrlitly  weapon,  for  they  carried  '  holhen
-swaere,  groze  unde  lange.^  ^  Yet  tlie  '  eald  siveord  eotonisc '  pro-
-bably meant  one  of  stone,  tbougli  the  same  expression  is  used
+swaere,  groze  unde  lange.^  ^  Yet  tlie  '  eald  siveord  eotonisc '  probably meant  one  of  stone,  tbougli  the  same  expression  is  used
 in  Beow.  5953  of  a  metal  sword  mounted  with  gold ;  even  the
 '  entisc  helm/  Beow.  5955  may  well  be  a  stone  helmet.  It  may
 be  a  part  of  the  same  thing,  that  no  iron  sword  will  cut  into
@@ -5002,8 +4617,7 @@ N.  Bth.  173) ;  a  Wrisherg,  from  which  a  Low  Saxon  family  takes
 its  name,  stood  near  the  village  of  Petze.  These  are  the  euta
 geweorc  of  AS.  poetry  (p.  524):  'efne  sw^  wide  swa  wegas  to
 lagon  enta  cergeweorc  innan  burgum,  strcete  stdnfdge,'  Andr.  2466.
-'  stapidas  storme  bedrifene,  eald  enta  geweorc,'  2986.  Our  Anno-
-lied  151  of  Semiramis  :  'die  alten  Babilonie  stiphti  si  van  cigelin
+'  stapidas  storme  bedrifene,  eald  enta  geweorc,'  2986.  Our  Annolied  151  of  Semiramis  :  'die  alten  Babilonie  stiphti  si  van  cigelin
 den  alten,  die  die  gigandi  branten/  of  bricks  that  giants  burnt.
 And  Karlmeinet  35  :  'we  dise  hurg  stichte?  ein  rise  in  den  alten
 ziden'  In  0.  French  poems  it  is  either  gaiant  or  paian  (pagans)
@@ -5023,14 +4637,11 @@ laid  to  the  account  of  giants  :  idt?ia  vegar  (viae  gigantum).  Stem.
 1130).  The  common  people  in  Bavaria  and  Salzburg  call  such
 a  road,  which  to  them  is  world-old  and  uncanny,  enterisch  (Schm.
 
-1  Goliath  too,  1  Sam.  17,  7,  and  2  Sam.  21,  19  is  credited  with  a  hastile  (spear-
-staff)  quasi  liciatorium  texentium  (like  a  weaver's  beam).
+1  Goliath  too,  1  Sam.  17,  7,  and  2  Sam.  21,  19  is  credited  with  a  hastile  (spearstaff)  quasi  liciatorium  texentium  (like  a  weaver's  beam).
 
 '  Conf.  Niebulir's  Kom.  Hist.  i.   192-3.      An  ancient  wall  is  in  Mod.  Greek  to
 fWrjuiKo,  Ulrich's  Eeise  1,  182.
 
-
-GIANTS.  535
 
 4,  44)  ;  the  trdllasTieid  was  mentioned  p.  508-9,  and  trollahlad^  is
 septum  gigantum.  Some  passages  in  Fergiit  are  worthy  of
@@ -5073,8 +4684,7 @@ too  large  a  piece,  her  apron-string  breaks  in  the  middle  of  the
 sea,  she  drops  the  whole  of  her  load,. and  that  is  how  the  Isle  of
 Hven  came  to  be  (Sjoborg's  Nomenkl.  p.  84).  Almost  the  same
 story  is  told  in  Jutland  of  the  origin  of  the  little  isle  of
-Worsoekalv  (Thiele  3,  06).  Pomeranian  traditions  present  dif-
-ferences in  detail :  a  giant  in  the  Isle  of  Riigen  grudges  having
+Worsoekalv  (Thiele  3,  06).  Pomeranian  traditions  present  differences in  detail :  a  giant  in  the  Isle  of  Riigen  grudges  having
 to  wade  through  the  sea  every  time  to  Pomerania;  he  will  build
 a  causeway  across  to  the  mainland,  so,  tying  an  apron  round  him,
 he  fills  it  with  earth.     When  he  has  got  past  Rodenkirchen  with
@@ -5084,8 +4694,6 @@ says  :  '  hi  hilt  van  stale  (of  steel)  enen  hamer  in  sine  hant.'
 
 VOL.    II.  H
 
-
-536  GIANTS.
 
 his  load,  his  apron  springs  a  leak,  and  the  earth  that  drops  out
 becomes  the  nine  hills  near  Rambin.  He  darns  the  hole,  and
@@ -5100,8 +4708,7 @@ a  giant  girl  of  Pomerania  wants  to  make  a  bridge  to  Riigen,  '  so
 that  I  can  step  across  the  bit  of  water  without  wetting  my  bits
 of  slippers/  She  hurries  down  to  the  shore  with  an  apronful  of
 sand ;  but  the  apron  had  a  hole  in  it,  a  part  of  her  freight  ran
-)ut  'tother  side  of  Sagard,  forming  a  little  hill  named  Dubber-
-worth.  '  Dear  me  !  mother  will  scold,^  said  the  hiine  maiden,  but
+)ut  'tother  side  of  Sagard,  forming  a  little  hill  named  Dubberworth.  '  Dear  me  !  mother  will  scold,^  said  the  hiine  maiden,  but
 kept  her  hand  under,  and  ran  all  she  could.  Her  mother  looked
 over  the  wood  :  '  Naughty  child,  what  are  you  after  ?  come,  and
 you  shall  have  the  stick.''  The  daughter  was  so  frightened  she  let
@@ -5129,10 +4736,7 @@ see  Barthold's  Pommern  1,  580,  who  spells  Dobberwort,  aud  explams  it  
 wor  (sack).
 
 
-GIANTS.  637
-
-whom  a  peasant,  to  keep  him  friendly,  had  invited  to  a  christen-
-ing, refused,  much  as  he  would  have  liked  to  share  in  the  feast,
+whom  a  peasant,  to  keep  him  friendly,  had  invited  to  a  christening, refused,  much  as  he  would  have  liked  to  share  in  the  feast,
 because  he  learnt  from  the  messenger  that  not  only  Christ,  Peter
 and  Mary,  but  Thor  also  would  be  there ;  he  would  not  face  him
 (Nyerup's  Morskabslasning,  p.  243).     A  giant  in  Fladsoe  was  on
@@ -5142,8 +4746,7 @@ On  the  way  the  sand  ran  out  through  a  hole  in  the  sack,  giving
 rise  to  the  string  of  sandbanks  between  Fladsoe  and  Nestved.
 Not  till  he  came  to  the  spot  where  Husvald  then  stood,  did  the
 giant  notice  that  the  greater  part  was  spilt ;  in  a  rage  he  flung
-the  remainder  toward  Nestved,  where  you  may  still  see  one  sand-
-bank by  itself  (Thiele  1,  79).     At  Sonnerup  lived  another  giant,
+the  remainder  toward  Nestved,  where  you  may  still  see  one  sandbank by  itself  (Thiele  1,  79).     At  Sonnerup  lived  another  giant,
 Lars  Krands  by  name,  whom  a  farmer  o£  that  place  had  offended.
 He  went  to  the  shore,  filled  his  glove  with  sand,  took  it  to  the
 farmer's  and  emptied  it,  so  that  the  fai^mhouse  and  yard  were
@@ -5158,8 +4761,7 @@ which  are  said  to  have  been  carried  by  giant's  daughters  in  their
 aprons  and  then  tossed  up  (Ganander's  Finn.  myth.  pp.  29.  30).
 French  traditions  put  the  holy  Virgin  or  fays  (p.  413)  in  the  place
 of  giantesses.     Notre  dame  de  Clery,   being  ill  at  ease  in  the
-church  of  Mezieres,  determined  to  change  the  seat  of  her  adora-
-tion, took  eartli  in  her  apron  and  carried  it  to   a  neighbouring
+church  of  Mezieres,  determined  to  change  the  seat  of  her  adoration, took  eartli  in  her  apron  and  carried  it  to   a  neighbouring
 height,  pursued  by  Judas  :  then,  to  elude  the  enemy,  she  took
 a  part  of  the  eartli  up  again,  which  she  deposited  at  another  place
 not  far  off:  oratoines  were  reared  on  both  sites  (Mem.  de  I'acad.
@@ -5171,8 +4773,6 @@ pjillar  fall  into   Saintfront  marsh  (Mem.  des  antiquaires  7,  31).
 According  to   a  Greek  legend,  Atheua  was  fetching  a  mountain
 from  Pallene  to  fortify  the  Acropolis,  but,  startled  at  the  ill  news
 
-
-538  GIANTS.
 
 brouglit  bj  a  crow,  slie  clro'pt  it  on  the  way,  and  there  it  remains
 as  Mount  Lykabettos.^  As  the  Lord  God  passed  over  the
@@ -5198,8 +4798,7 @@ devil  flew  through  the  air,  carrying  houses  in  an  apron,  but  a
 hole  in  it  let  the  houses  drop  out  one  by  one.  On  looking  back,
 he  noticed  it  and  cried  '  there's  a  pity  (schade)  ! '   (see  Suppl.) .
 
-The  pretty  fable  of  the  giant's  daughter  picking  up  the  plough-
-ing husbandman  and  taking  him  home  to  her  father  in  her  apron
+The  pretty  fable  of  the  giant's  daughter  picking  up  the  ploughing husbandman  and  taking  him  home  to  her  father  in  her  apron
 is  widely  known,  but  is  best  told  in  the  Alsace  legend  of  Nideck
 castle  :
 
@@ -5233,12 +4832,6 @@ derzu  »
 T)  6/DOS,  6  vvv  KoKeiTai.  AvKajSrjTTbs,  KOpiivyji'  ipTjcrlv  dTravrfjaaL  Kal  elwe'tv,  otl  'EpLxdifios
 ev  (pavepu)  '  Trjv  5^  aKoiJcraaav  pi\paL  to  opos,  ottov  vvf  eari,'  t^  5^  KopuvQ  Std  ttiv  KUKay-
 7eXfa;'  elire'iv,  ws  els  aKpoiroKiv  ov  6^/j.ts  avry  earai  dcpiKiadai.
-
-
-GIANTS.
-
-
-539
 
 
 unn  denkt  '  die  nimm  i  rnit.'
@@ -5393,8 +4986,7 @@ in  our  nest  on  the  rock.'
 
 Similar  anecdotes  from  the  Harz  and  the  Odenwald  are  given
 in  Deut.  sag.  nos.  319.  324.  In  Hesse  the  giant's  daughter
-is  placed  on  the  Hippersberg  (betw.  Kolbe,  Wehrda  and  Goss-
-felden)  :  her  father  rates  her  soundly,  and  sets  the  ploughman
+is  placed  on  the  Hippersberg  (betw.  Kolbe,  Wehrda  and  Gossfelden)  :  her  father  rates  her  soundly,  and  sets  the  ploughman
 at  liberty  again  with  commendations.  The  same  story  is  told  at
 Dittersdorf  near  Blankeuburg  (betw.  Rudolstadt  and  Saalfeld).
 Again,  a  hiinin  with  her  daughter  dwelt  on  Hiinenkoppe  at  the
@@ -5402,8 +4994,6 @@ entrance  of  the  Black  Forest.  The  daughter  found  a  ijeasant
 ploughing  on  the  common,  and  put  him  in  her  apron,  oxen,  'plough
 and  all,    then    went   and  showed   her   mother    'the  little  fellow
 
-
-540  GIANTS.
 
 and  his  pussy-cats.*  The  mother  angrily  bade  lier  carry  luan,
 beast  and  plough  directly  back  to  where  she  found  them  :  '  they
@@ -5423,8 +5013,7 @@ ja  auran)  on  her  lap,  carried  them  to  her  mother  and  asked,
 '  what  kind  of  beetle  (sontiainen)  can  this  be,  mother,  that  I  found
 rooting  up  the  ground  there  ? '  The  mother  said,  '  put  them
 away,  child ;  we  have  to  leave  this  country,  and  they  are  to  live
-here  instead.-*  The  old  giant  race  have  to  give  way  to  agri-
-cultural man,  agriculture  is  an  eye- sore  to  them,  as  it  is  to  dwarfs
+here  instead.-*  The  old  giant  race  have  to  give  way  to  agricultural man,  agriculture  is  an  eye- sore  to  them,  as  it  is  to  dwarfs
 (p.  459).  The  honest  coarse  grain  of  gianthood,  which  looks
 upon  man  as  a  tiny  little  beast,  a  beetle  burrowing  in  the  mud,
 but  yet  is  secretly  afraid  of  him,  could  not  be  hit  off  more
@@ -5448,8 +5037,6 @@ Goslar,  how  the  great  Christopher  carried  it  in  his  shoe,  till  he
 2  In  Ganander's  time  (Finn.  myth.  p.  30).
 
 
-GIANTS.  541
-
 felt  something  gall  his  foot ;  he  'pulled  off  the  shoe  and  turned  it
 down,  when  the  stone  fell  where  it  now  lies.  Such  stones  are
 also  called  crumh-stones.  On  the  Soiling  near  Uslar  lie  some
@@ -5470,8 +5057,7 @@ to  the  inn.''  The  Sauerlander  said  very  well,  and  they  trudged
 up  and  down  the  long  streets.  But  at  the  market-place  he  could
 stand  it  no  longer,  he  took  the  shoe  off  and  threw  out  a  great  lump
 of  stone,  and  there  it  has  lain  this  long  while  to  prove  my  words.*
-A  Norwegian  folk-tale  is  given  by  Hammerich  (om  Ragnaroks-
-mythen,  p.  93)  :  a  jutel  had  got  something  into  his  eye,  that
+A  Norwegian  folk-tale  is  given  by  Hammerich  (om  Ragnaroksmythen,  p.  93)  :  a  jutel  had  got  something  into  his  eye,  that
 pricked  him  ;  he  tried  to  ferret  it  out  with  his  finger,  but  that
 was  too  bulky,  so  he  took  a  sheaf  of  corn,  and  with  that  he
 managed  the  business.  It  was  a  fir-cone,  which  the  giant  felt
@@ -5492,8 +5078,6 @@ his  cheek,  and  remarks,  '  there  must  be  birds  roosting  in  those
 ^  In  the  Faroe  dialect    Sknijmsli  (Lyngbye,  p.  480).     ON.  skraumr  blatero,
 babbler.
 
-
-542  GIANTS.
 
 boughs;  I  fancied,  when  I  woke,  they  droj^t  something  on  my
 head/  Sn.  51-53.  These  are  touches  of  genuine  gianthood,
@@ -5518,8 +5102,7 @@ with  a  snake  for  bridle  and  rein ;  she  no  sooner  stept  up  to  the
 vessel  and  touched  it  with  her  foot,  than  fire  darted  out  of  the
 beams,  and  the  firm  land  quaked.  I  also  find  in  a  Norwegian
 folk-tale  (Faye,  p.  14),  that  a  giantess  (djurre)  by  merely  kicking
-the  shore  with  her  foot  threw  a  ship  into  the  most  violent  agita-
-tion.
+the  shore  with  her  foot  threw  a  ship  into  the  most  violent  agitation.
 
 Eabelais  ~  and  Fischart  have  glorified  the  fable  of  Gargantua.
 It  was,  to  begin  with,  an  old,  perhaps  even  a  Celtic,  giant-story,
@@ -5540,11 +5123,8 @@ Conf.  Notice  sur  les  chroniques  de  Garg.,  par  I'auteur  des  nouv.  rech
 1834.
 
 ^  A  beginning  has  been  made  in  Traditions  de  I'ancien  duchS  de  Betz,  sur  Garg.
-(Mem.  de  I'acad.  celt.  5,  892-5),  and  in  Volkssagen  aus  dem  Greyersland  (Alpen-
-rosen  1824,  pp.  57-8).    From  the  latter  I  borrow  what  stands  in  the  text.
+(Mem.  de  I'acad.  celt.  5,  892-5),  and  in  Volkssagen  aus  dem  Greyersland  (Alpenrosen  1824,  pp.  57-8).    From  the  latter  I  borrow  what  stands  in  the  text.
 
-
-GIANTS.  543
 
 (see  SuppL).  A  Westplialian  legend  of  the  Weser  has  much  the
 same  tale  to  tell :  On  the  B.  Soilings  near  Mt.  Eberstein,  stands
@@ -5558,8 +5138,7 @@ over  the  Burgberg  and  laid  hold  of  Lobach,  Negenborn  and
 Holenberg  to  support  himself.
 
 We  are  often  told  of  two  giant  comrades  or  neighbours,  living
-on  adjacent  heights,  or  on  two  sides  of  a  river,  and  holding  con-
-verse. In  Ostergotland,  near  Tumbo  in  Ydre-hiirad,  there  was  a
+on  adjacent  heights,  or  on  two  sides  of  a  river,  and  holding  converse. In  Ostergotland,  near  Tumbo  in  Ydre-hiirad,  there  was  a
 jiitte  named  Tumme ;  when  he  wished  to  speak  to  his  chum  Oden
 at  Hersmala  two  or  three  miles  off,  he  went  up  a  neighbouring
 hill  Hogatoft,  from  which  you  can  see  all  over  Ydre  (Widegren's
@@ -5574,8 +5153,7 @@ had  but  one  axe  between  them  to  split  their  wood  with.  When
 the  Eberstein  hijne  was  going  to  work,  he  shouted  across  to
 Homburg  four  miles  off,  and  his  friend  immediately  threw  the  axe
 over ;  and  the  contrary,  when  the  axe  happened  to  be  on  the
-Eberstein.  The  same  thing  is  told  in  a  tradition,  likewise  West-
-phalian,  of  the  hiines  on  the  Hnnenkeller  and  the  Porta  throwing
+Eberstein.  The  same  thing  is  told  in  a  tradition,  likewise  Westphalian,  of  the  hiines  on  the  Hnnenkeller  and  the  Porta  throwing
 their  one  hatchet.^  The  hiines  of  the  Brunsberg  and  Wiltberg,
 between  Godelheim  and  Amelunxen,  played  at  howls  together
 across  the  Weser  (Deut.  sag.  no.  16).  Good  neighbours  too  were
@@ -5587,8 +5165,6 @@ heat  the  oven.     Once  they  both  happened  to  be  throwing  at  the
 
 ^  Eedeker's  Westfalische  sagen,  no.  36.
 
-
-544  GIANTS.
 
 same  time,  tlie  stones  met  in  the  air^  and  fell  where  they  now
 lie  in  the  middle  of  the  field  above  Michelbach,  each  with  the
@@ -5622,16 +5198,13 @@ tree  that  stood  in  the  middle  of  the  village,  and  whoever  wanted
 it  fetched  it  thence,  and  then  put  it  back  in  its  place.  The  spot
 is  still  shown  where  the  tree  stood.  These  hiines,  who  were  also
 called  duties,  were  a  people  exceedingly  scant  of  wit,  and  to  them
-is  due  the  proverb  '  Altehlifi'en  dumme  dutten.'  As  the  surround-
-ing country  came  more  and  more  under  cultivation,  the  hiinen
+is  due  the  proverb  '  Altehlifi'en  dumme  dutten.'  As  the  surrounding country  came  more  and  more  under  cultivation,  the  hiinen
 felt  no  longer  at  ease  among  the  new  settlers,  and  they  retired.
 It  was  then  that  the  duties  of  Altehiifi'en  also  made  up  their  minds
 to  emigrate;  but  what  they  wanted   was    to   go   and   find    the
 
 ^  Like  Hriingni's  heiu  and  Thur's  hammer,  p.  533.
 
-
-GIANTS.  545
 
 entrance  into  heaven.  How  they  fared  on  the  way  was  never
 known,  but  the  joke  is  made  upon  them,  that  after  a  long  march
@@ -5675,16 +5248,12 @@ further  iiiteusified  by  the  adj.  In  the  Teutonist  dod  =  gav^k,  conf. 
 V.  dud,  and  supra,  p.  528  on  tumbo.  Similar  tales  on  the  Bhon  mts.,  only  with
 everything  giant-like  eiJaced,  about  the  tollen  dittisser  (Bechsteiu  pp.  81-91).
 
-2  I  do  not  know  that  any  tract  in  Germany  is  richer  in  giant-stories  than  West-
-phalia and  Hesse.  Conf.  also  Kuhn's  Markische  sagen,  nos.  22.  -17.  107.  132.  1-41.
+2  I  do  not  know  that  any  tract  in  Germany  is  richer  in  giant-stories  than  Westphalia and  Hesse.  Conf.  also  Kuhn's  Markische  sagen,  nos.  22.  -17.  107.  132.  1-41.
 149.  158.  202.     Temme's  Pommersche  sagen,  nos.  175-184.  187.
 
 
-546  GIANTS.
-
 on  hard  rock_,  that  I  can  only  select  one  here  and  there  as  samples
-of  the  style  and  spirit  of  the  rest.  Ruins  of  a  castle  near  Hom-
-berg  in  Lower  Hesse  mark  the  abode  of  a  giantess ;  five  miles
+of  the  style  and  spirit  of  the  rest.  Ruins  of  a  castle  near  Homberg  in  Lower  Hesse  mark  the  abode  of  a  giantess ;  five  miles
 to  one  side  of  it;  by  the  village  of  Gombet,  lies  a  stone  which
 she  hurled  all  the  way  from  Homberg  at  one  throw,  and  you  see
 the  fingers  of  her  hand  imprinted  on  it.  The  Scharfenstein  by
@@ -5716,15 +5285,12 @@ that  a  jette  maiden  slung  it  over  from  Fiinen  with  her  garter
 When  giants  fight,  and  one  pursues  another,  they  will  in  their
 haste  leap  over  a  village,  and  slit  their  great  toe  against  the
 church-spire,  so  that  the  blood  spirts  out  in  jets  and  forms  a
-pool  (Deut.  sag.  no.  325) ;  which  strikingly  resembles  Waina-
-moinen,  rune  3.  In  leaping  off  a  steep  cliff,  their  foot  or  their
+pool  (Deut.  sag.  no.  325) ;  which  strikingly  resembles  Wainamoinen,  rune  3.  In  leaping  off  a  steep  cliff,  their  foot  or  their
 horse's  hoof  leaves  tracks  in  the  stone  (ibid.  nos.  3]  8-9).  Also,
 ■when  a  giant  sits  down  to  rest  on  a  stone,  or  leans  against  a  rock,
 
 ^  Preusker  in  Kruse's  Deutsch.  alterth.  iii.  3,  37..
 
-
-GIANTS.  547
 
 his  figure  prints  itself  on  the  hard  surface,^  e.g.  Starcather's  in
 Saxo  Gram.  111.
@@ -5732,14 +5298,11 @@ Saxo  Gram.  111.
 It  is  not  as  smiths,  like  the  cyclops,  that  giants  are  described
 in  German  legend,  and  the  forging  of  arms  is  reserved  for  dwarfs.
 Once  in  our  hero-legend  the  giant  Asprian  forges  shoes  (Roth.
-2029)  ;  also  the  giant  Vade  makes  his  son  Velint  learn  smith-
-worh,  first  with  Mimir,  then  with  dwarfs.
+2029)  ;  also  the  giant  Vade  makes  his  son  Velint  learn  smithworh,  first  with  Mimir,  then  with  dwarfs.
 
 As  for  smicfr  in  the  ON.  language,  it  does  not  mean  faber,  but
-artificer  in  general,  and  particularly  huilder ;  and  to  be  accom-
-plished builders  is  a  main  characteristic  of  giants,  the  authors  of
-those  colossal  structures  of  antiquity  (p.  534).  On  the  nine  giant-
-pillars  near  Miltenberg  the  common  folk  still  see  the  handmarks
+artificer  in  general,  and  particularly  huilder ;  and  to  be  accomplished builders  is  a  main  characteristic  of  giants,  the  authors  of
+those  colossal  structures  of  antiquity  (p.  534).  On  the  nine  giantpillars  near  Miltenberg  the  common  folk  still  see  the  handmarks
 of  the  giants  who  intended  therewith  to  huild  a  bridge  over  the
 Main  (Deut.  sag.  no.  19).
 
@@ -5771,10 +5334,7 @@ i<rTi  5^  rb^  /xiyaOos  Siirijxv,  Trapa  rhv  Tvptiv  Trora/xi^,  in  Scytbia
 Herakles  in  stone,  like  a  man's,  but  two  cubits  long.)
 
 
-548  GIANTS.
-
-crowing  of  a  cock^  and  immediately  all  tlie  cocks  in  the  neigh-
-bourhood begin  to  crow,  and  the  enemy  of  man  loses  his  wager.
+crowing  of  a  cock^  and  immediately  all  tlie  cocks  in  the  neighbourhood begin  to  crow,  and  the  enemy  of  man  loses  his  wager.
 There  is  more  of  the  antique  in  a  Norrland  saga  :  ^  King  Olaf  of
 Norway  walked  'twixt  hill  and  dale,  buried  in  thought  j  he  had
 it  in  his  heart  to  build  a  church,  the  like  of  which  was  nowhere
@@ -5809,16 +5369,13 @@ he  reared  the  magnificent  church  at  Nidaros.  In  Schonen  the
 giant  is  Finn,  who  built  the  church  at  Lund,  and  was  turned  into
 
 ^  Extracted,  from  Zetterstrom's  collection,  in  the  third  no.  of  the  Iduna,  2  ed.
-Stockh.  1816,  pp.  60-1.  Now  included,  with  others  like  it,  in  Afzehus's  Sago-
-hafder  3,  83-86.
+Stockh.  1816,  pp.  60-1.  Now  included,  with  others  like  it,  in  Afzehus's  Sagohafder  3,  83-86.
 
 ^  Couf.  the  interj.  '  ziss,  ziss ! '  in  H.  Sachs  iv.  3,  3''.
 
 3  Almost  in  the  same  way,  and  with  similar  result,  the  name  of  Kumi^elstilz  is
 discovered  in  Kiuderm.  55;  conf.  3,  98,  and  supra  p.  505  n.
 
-
-GIANTS.  549
 
 stone  by  St.  Lawrence  (Finn  Magnusen^s  Lex.  myth.  351-2;  and
 see  Suppl.).
@@ -5865,12 +5422,9 @@ become  a  stone).  He  had  scarce  finished  speaking,  when  the  hill
 split  open,  the  giantess  was  changed  into  a  stone,  and  you  still
 see;  her  sitting  with  sjnndle  and  distaff  on  the  eastern  cliff ;  a
 
-1
 
 »  Commumc.  by  Watson  iu  Jahresverliandl.  der  karl.  gesellsch.  2,  311-2.
 
-
-550  GIANTS.
 
 sacred  spring  issued  from  the  opposite  clifF.^  According  to  a
 Swedish  account^  Olaf  wished  to  sail  through  Varmeland  and  by
@@ -5931,8 +5485,6 @@ Otto  and  Friedrich)  reminds  us  of  Thorr  the  foe  of  giants  (p.  177) ;
 3  Nyerup's  Karakteristik  af  Christian  4,  p.  17.
 
 
-GIANTS.  551
-
 like  or  peaked  beard,  quoted  by  Ihre ;  but  tlie  Norwegian  rhyme
 has  ivldte  heard  (the  barbe  fieurie  of  Charlemagne).  Such
 divergences,  and  the  changes  rung  on  '  cellar  wall,  bathroom
@@ -5952,8 +5504,7 @@ dialogue,  which  is  closed  by  Brynhildr  with  the  exclamation :
 '  seykstu  gy gjarkyn  ! '  (conf.  p.  497u.).  The  giantess's  house  is
 of  stones  skilfully  put  together,  and  the  later  rhymes  speak  of
 cellar  and  bathroom  :  she  herself  is  quite  the  housewife  with
-distaff  and  spindle.  The  sacred  rights  of  domesticity  are  in-
-fringed, when  strangers  burst  their  way  through.  There  are
+distaff  and  spindle.  The  sacred  rights  of  domesticity  are  infringed, when  strangers  burst  their  way  through.  There  are
 other  instances  in  which  the  giantess,  like  the  elfin,  is  described
 with  spindle  and  distaff :  '  tolv  troldqvinder  (12  trold- women)  de
 stode  for  hannem  med  roTi  og  ten'  (Danske  viser  1,  94).^
@@ -5986,8 +5537,6 @@ work  of  giants.  They  call  them  jcittegryter,  troldgryter,  yet  also  S. 
 VOL.    II.  I
 
 
-552  GIANTS.
-
 petrified  giants.  Then  the  myth  about  stone-circles  accounts  for
 their  form  by  dances  of  giants  ;  ^  many  rocks  have  stories  attached
 to  them  of  wedding-folk  and  dancing  guests  being  turned  into
@@ -5996,8 +5545,7 @@ mountains  everywhere  uses  the  names  of  different  parts  of  the
 body  ;  to  mountains  are  given  a  head^  brow,  neck,  back,  shoulder,
 knee,  foot,  etc.  (RA.  541).
 
-And  here  we  come  across  numerous  approximations  and  over-
-lappings  between  the  giant-legend  and  those  of  dwarfs,  schrats
+And  here  we  come  across  numerous  approximations  and  overlappings  between  the  giant-legend  and  those  of  dwarfs,  schrats
 and  watersprites,  as  the  comprehensive  name  troll  in  Scandinavian
 tradition  would  of  itself  indicate.  Dwarfs  o£  the  mountains  are,
 like  giants,  liable  to  transformation  into  stone,  as  indeed  they
@@ -6010,8 +5558,7 @@ Jack  in  our  nursery-tales  assumes  quite  the  character  of  a  giant ;
 and  even  Siegfried,  pure  hero  as  he  is  in  the  Mid.  Age  poems,
 yet  partakes  of  giant  nature  when  acting  as  a  smith,  like  Wielant,
 who  is  of  giant  extraction.  Moreover,  both  Siegfi'ied  slightly,
-and  Strong  Jack  more  distinctly,  acquire  a  tinge  of  that  Eulen-
-spiegel  or  Riibezahl  humour  (p.  486)  which  is  so  amusing  in  the
+and  Strong  Jack  more  distinctly,  acquire  a  tinge  of  that  Eulenspiegel  or  Riibezahl  humour  (p.  486)  which  is  so  amusing  in  the
 Finnish  stories  of  Kalewa,  Hisi,  and  especially  Soini  (conf.
 Kalewala,  rune  19).  This  Soini  or  Kullervo  bears  the  nickname
 of  Kalki  (schalk,  rogue) ;  when  an  infant  three  days  old,  he  tore
@@ -6036,12 +5583,6 @@ it  into  cold  stone.  Conf.  Chap.  XXXII.  on  the  heroes  entrapped  in  mo
 Suppl.
 
 
-GIANTS.
-
-
-553
-
-
 had  to  pasture  the  flock,  but  the  goodwife  haviug  baked  a  stone
 in  his  bread,  Soini  was  in  such  a  rage  that  he  called  bears  and
 wolves  to  aid  hiin,  who  tore  the  woman's  legs  and  worried  the
@@ -6058,8 +5599,7 @@ wild  folk  (conf.  p.  432)  who  once  lived  there,  and  the  print  of
 their  hands  on  the  stones  (Deut.  sag.  no.  166).  In  the  vale  of
 Gastein,  says  Muchar,  p.  137,  wild  men  have  lived  within  the
 memory  of  man,  but  the  breed  has  died  out  since ;  one  of  them
-declared  he  had  seen  the  forest  of  Sallesen  near  Mt.  Stubner-
-kogel  get  '  mair '  (die  out  and  revive  again)  nine  times  :  he  could
+declared  he  had  seen  the  forest  of  Sallesen  near  Mt.  Stubnerkogel  get  '  mair '  (die  out  and  revive  again)  nine  times  :  he  could
 mind  when  the  Bocksteinkogl  was  no  bigger  than  a  kranawetvogl
 (crossbill  ?),  or  the  mighty  Schareck  than  a  twopenny  roll.  Their
 strength  was  gigantic :  to  hurl  a  ploughshare  the  ivhole  hreadth
@@ -6074,8 +5614,7 @@ rather  friendly  than  otherwise,  and  often  put  a  quantity  of  butter
 and  milk  before  their  house-doors.  This  last  feature  is  more  of  a
 piece  with  the  habits  of  dwarfs  and  elves  than  of  giants.
 
-Just  as  the  elves  found  the  spread  of  agriculture  and  the  clear-
-ing of  their  forests  an  abomination,  which  compelled  them  to
+Just  as  the  elves  found  the  spread  of  agriculture  and  the  clearing of  their  forests  an  abomination,  which  compelled  them  to
 move  out ;  so  the  giants  regard  the  woods  as  their  own  property,
 in  which  they  are  by  no  means  disposed  to  let  men  do  as  they
 please.  A  peasant's  son  had  no  sooner  begun  to  cut  down  a
@@ -6084,8 +5623,6 @@ with  the  threat :  '  dare  to  cut  in  my  wood,  and  I'll  strike  thee
 dead '  (Asbiornsen's  Moe,  no.  6)  ;  the  Danish  folk-song  of  Eline
 af  Villenskov  is  founded  on  this,  D.V.  1,  175.     And  no  less  do
 
-
-554  GIANTS.
 
 giants  (like  dwarfs^  p.  459)  hate  the  ringing  of  bells,  as  in  the
 Swedish  tale  of  the  old  giant  in  the  mountain  (Afzelius  3,  88) ;
@@ -6105,16 +5642,14 @@ heathens  and  devils  in  general  (p.  34),  is  supposed  to  be  m  the
 north  :  when  Freyr  looks  from  heaven  toward  lotunheim  (Sasm.
 81)  and  spies  the  fair  giantess,  this  is  expressed  in  Snorri  39  by
 'Freyr  leit  t  nor&rcett.'  In  the  Danish  folk-song  of  the  stolen
-hammer,  Thorr  appears  as  Tovd  (thunder)  af  Hafsgaard  (sea-
-burgh),  while  the  giant  from  whom  Loke  is  to  get  the  hammer
+hammer,  Thorr  appears  as  Tovd  (thunder)  af  Hafsgaard  (seaburgh),  while  the  giant  from  whom  Loke  is  to  get  the  hammer
 back  dwells  in  Nordenfjeld ;  the  Swedish  folk-song  says  more
 vaguely  '  trolltrams  gard.^  ^
 
 But  what  runs  into  gianthood  altogether  is  the  nature  of  the
 man-eating  huorco  or  ogre  (p.  486).  Like  him  the  stone-hurling
 Cyclops  in  the  Odyssey  hanker  after  human  flesh ;  and  again  a
-Tartar  giant  Depeghoz  (eye  on  top  of  head)  ^  stands  midway  be-
-tween Folyi^henms,  who  combs  with  a  harrow  and  shaves  with  a
+Tartar  giant  Depeghoz  (eye  on  top  of  head)  ^  stands  midway  between Folyi^henms,  who  combs  with  a  harrow  and  shaves  with  a
 scythe  (Ov.  Metam.  13,  764),  and  Gargantua.  As  an  infant  he
 sucks  all  the  nurses  dry,  that  offer  him  the  breast ;  when  grown
 up,  the  Oghuzes  have  to  supply  him  daily  with  2  men  and  500
@@ -6133,8 +5668,6 @@ disagreeable  quarter  (Germ.  '  in  pepperland,'  at  Jericho).
 Halle  &  Berlin  1815.
 
 
-GIANTS,  655
-
 received  the  by-name  of  yityatya  (Nilsson  4,  32).  The  Indian
 Mahabharata  also  represents  HicUmhas  the  rakshasa  (giant)  ^  as
 a  man-eater,  misshapen  and  red-bearded  :  man^s  flesh  he  smells
@@ -6152,18 +5685,15 @@ colossal  buildings.
 
 Saxo  Gram.  pp.  10.  11  invests  the  giantess  Harthgrepa  with
 the  power  to  mahe  herself  small  or  large  at  pleasure.  This  is  a
-gift  which  fairy-tales  bestow  on  the  ogre  or  the  devil,  and  folk-
-tales on  the  haulemutter  (Harrys  2,  10  ;  and  Suppl.).
+gift  which  fairy-tales  bestow  on  the  ogre  or  the  devil,  and  folktales on  the  haulemutter  (Harrys  2,  10  ;  and  Suppl.).
 
 It  is  in  living  legend  (folktale)  that  the  peculiar  properties  of
 our  native  giants  have  been  most  faithfully  preserved ;  the  poets
-make  their  giants  far  less  interesting,  they  paint  them,  espe-
-cially in  subjects  borrowed  from  Romance  poetry,  with  only
+make  their  giants  far  less  interesting,  they  paint  them,  especially in  subjects  borrowed  from  Romance  poetry,  with  only
 the  features  common  to  all  giants.  Harpin,  a  giant  in  the
 Iwein,  demands  a  knight's  daughter,  hangs  his  sons,  and  lays
 waste  the  land  (4464.  4500)  :^  when  slain,  he  falls  to  the  ground
-like  a  tree  (5074).*  Still  more  vapid  are  the  two  giants  intro-
-duced at  6588  seq.  Even  in  the  Tristan,  the  description  of  giant
+like  a  tree  (5074).*  Still  more  vapid  are  the  two  giants  introduced at  6588  seq.  Even  in  the  Tristan,  the  description  of  giant
 Urgan  (15923)  is  not  much  more  vivid:  he  levies  blackmail  on
 oxen  and  sheep,  and  when  his  hand  is  hewn  off,  he  wants  to  heal
 
@@ -6188,8 +5718,6 @@ in  Ad.  Kuhn,  no.  56.  The  horns  of  a  giant  ox  nailed  up  in  the  por
 (l^iebuhr's  Eom.  Hist.  1,  407).
 
 
-556  GIANTS.
-
 it  on  again  (16114).^  The  giants  shew  more  colour  as  we  come
 to  poems  in  the  cycle  of  our  hero-legend.  Kuperan  in  the  Hilrn.
 Sifrit  (Ciiprian  of  the  Heldens.  171)  rules  over  1000  giants,  and
@@ -6202,8 +5730,7 @@ and  he  smites  with  it  like  a  thunderbolt  (2734)  ;  the  noise  of  his
 moving  makes  the  earth  to  quake  (5051),  his  hauberk  rings
 when  he  leaps  over  bushes  (4201)  ;  he  pitches  one  man  over  the
 heads  of  four,  so  that  his  feet  do  not  touch  the  ground  (1718),
-smashes  a  lion  against  the  wall  (1144-53),  rubs  fire  out  of  mill-
-stones (1040),  wades  in  mould  (646.  678)  up  to  the  knee  (935),
+smashes  a  lion  against  the  wall  (1144-53),  rubs  fire  out  of  millstones (1040),  wades  in  mould  (646.  678)  up  to  the  knee  (935),
 a  feature  preserved  in  Vilk.  saga,  cap.  60,  and  also  Oriental
 (Hammer's  Rosenol  1,  36).  Asprian  sets  his  foot  on  the  mouth
 of  the  wounded  (4275).  And  some  good  giant  traits  come  out  in
@@ -6234,8 +5761,6 @@ Pergvit  (supra,  p.  535) ;  yet  also  in  Nib.  457,  4.     458,  1  :  '  r
 2  The  same  token  of  gianthood  is  in  Vilk.  saga,  cap.  176,  and  in  a  Servian  lay.
 
 
-GIANTS.  557
-
 must  still  be  living  in  the  popular  traditions  of  Norway  and
 Sweden/  and  even  we  in  Germany  may  gather  something  from
 oral  narration^  though  not  much  from  books.  The  monk  of  St.
@@ -6255,8 +5780,7 @@ regard  him  as  a  demigod,  like  Thorger^r  and  Irpa,  who  were
 adored  in  Scandinavia  (see  Suppl.).
 
 The  connexion  pointed  out  between  several  of  the  words  for
-giant  and  the  names  of  ancient  nations  is  similar  to  the  agree-
-ment of  certain  heroic  names  with  historic  characters.  Mythic
+giant  and  the  names  of  ancient  nations  is  similar  to  the  agreement of  certain  heroic  names  with  historic  characters.  Mythic
 traits  get  mysteriously  intergrown  with  historic,  and  as  Dietrich
 and  Charles  do  duty  for  a  former  god  or  hero,  Hungarians  and
 Avars  are  made  to  stand  for  the  old  notion  of  giants.  Only  we
@@ -6288,8 +5812,7 @@ their  having  equally  prevailed  among  the  other  Teutonic  races.
 Before  the  creation  of  heaven  and  earth,  there  was  an  immense
 chasm  called  gap  (hiatus,  gaping),  or  by  way  of  emphasis  gap
 ginnunga  (chasm  of  chasms),  corresponding  in  sense  to  the  Greek
-;!^ao9.i  For,  as  %ao9  means  both  abyss  and  darkness,  so  gin-
-nunga-gap  seems  also  to  denote  the  world  of  mist,  out  of  whose
+;!^ao9.i  For,  as  %ao9  means  both  abyss  and  darkness,  so  ginnunga-gap  seems  also  to  denote  the  world  of  mist,  out  of  whose
 bosom  all  things  rose.  How  the  coveinng  and  concealing  '  hel '
 was  likewise  conceived  of  as  'nifl-her  with  yawning  gaping  jaws,
 has  been  shewn  above,  pp.  312-314.
@@ -6297,8 +5820,7 @@ has  been  shewn  above,  pp.  312-314.
 Yet  this  void  of  space  had  two  extremities  opposed  to  one
 another,  miispell  (fire)  the  southern,  and  niji  (fog)  the  northern ;
 from  Muspellsheim  proceed  light  and  warmth,  from  Niflheim
-dai-kness  and  deadly  cold.  In  the  middle  was  a  fountain  Hvergel-
-mir,  out  of  which  flowed  twelve  rivers  named  elivagar.  When
+dai-kness  and  deadly  cold.  In  the  middle  was  a  fountain  Hvergelmir,  out  of  which  flowed  twelve  rivers  named  elivagar.  When
 they  got  so  far  from  their  source,  that  the  drop  of  fire  contained
 
 ^  Xdos,  from  xaiVw  =  OHG.  ginan,  ON.  gIna=Lat.  hiare;  conf.  OHG.  ginunga,
@@ -6341,8 +5863,7 @@ But  the  ice  dripped  on,  and  a  cow  arose,  Au&iimhla,  from
 whose  udder  flowed  four  streams  of  milk,  conveying  nourishment
 to  Ymir.  Then  the  cow  licked  the  salty  ice-rocks,  and  on  the
 evening  of  the  first  day  a  man's  hand  came  forth,  the  second
-day  the  man's  head,  the  third  day  the  whole  man ;  he  was  beau-
-tiful, large,  strong,  his  name  was  Buri,  and  his  son's  name  Borr
+day  the  man's  head,  the  third  day  the  whole  man ;  he  was  beautiful, large,  strong,  his  name  was  Buri,  and  his  son's  name  Borr
 (p.  349)  .1  Borr  took  to  him  Bestla,  i\xQ  giant  Bolporn's  daughter,
 and  begat  three  sons,  O&inn,  Vili,  Ve  (p.  162),  and  by  them  was
 the  giant  Ymir  slain.  As  he  sank  to  the  ground,  such  a  quantity
@@ -6351,8 +5872,7 @@ in  it,  save,  one,  Bergelmir,"  who  with  his  wife  escaped  in  a  lu"Sr
 (Stem.  35'',  Sn.  8),  and  from  them  is  descended  the  (younger)
 race  of  giants  (see  Suppl.).-^
 
-The  sons  of  Borr  dragged  the  dead  Ymir's  body  into  the  mid-
-dle of  ginnimga-gap,  and  created  out  of  his  hlood  the  sea  and
+The  sons  of  Borr  dragged  the  dead  Ymir's  body  into  the  middle of  ginnimga-gap,  and  created  out  of  his  hlood  the  sea  and
 water,  of  his  Jiesli  the  earth,  of  his  hones  the  mountains,  of  his
 teeth  and  broken  bones  the  rocks  and  crags.  Then  they  took  his
 skull  and  made  of  it  the  sky,  and  the  sparks  from  Muspellsheim
@@ -6451,8 +5971,7 @@ altogether  agree.  Sn.  15  tells  us,  when  the  gods  sat  in  their
 chairs  judging,  they  remembered  that  in  the  dust  and  the  earth
 dwarfs  had  come  alive,  as  maggots  do  in  meat  (see  Suppl.).
 Thev  were  created  and  received  life  first  of  all  in  Ymir's  flesh.
-By  the  decree  of  the  gods  these  maggots  now  obtained  under-
-standing and  human  shape,  but  continued  to  live  in  the  earth
+By  the  decree  of  the  gods  these  maggots  now  obtained  understanding and  human  shape,  but  continued  to  live  in  the  earth
 and  in  stones.  Stem.  2  says  on  the  contrary,  that  the  holy  gods
 in  their  chairs  consulted,  who  should  make  the  nation  of  dwarfs
 out  of  Brtmir's  flesh  and  his  black  ho7ies ;  then  sprang  up
@@ -6510,8 +6029,7 @@ and  so  on  a  par  with  the  formulas  quoted  in  pp.  22-3-4.^  Buri,
 who  is  thawed  into  existence  out  of  ice,  to  set  limits  to  the  rude
 evil  nature  of  the  giant  that  was  there  before  him,  shews  himself
 altogether  an  ancestor  and  prototype  of  the  heroes,  whose  mission
-it  was  to  exterminate  the  brood  of  giants.  From  him  are  de-
-scended all  the  ases,  O^inn  himself  being  only  a  grandson.
+it  was  to  exterminate  the  brood  of  giants.  From  him  are  descended all  the  ases,  O^inn  himself  being  only  a  grandson.
 
 Again,  there  is  no  mistaking  the  distinct  methods  by  which
 giants,  gods  and  men  propagate  their  kind.  Only  one  giant  had
@@ -6521,8 +6039,7 @@ the  hand  and  foot  are  regarded  as  akin  and  allied  to  one  another.-
 Ymir's  being  asleep  during  the  time  is  like  Adam^s  sleep  while
 Eve  was  fashioned  out  of  his  rib  ;  Eve  therefore  takes  her  rise
 in  Adam  himself,  after  which  they  continue  their  race  jointly.
-How  Buri  begat  Borr  we  are  not  informed,  but  Borr  united  him-
-self to  a  giant's  daughter,  who  bore  him  three  sons,  and  from
+How  Buri  begat  Borr  we  are  not  informed,  but  Borr  united  himself to  a  giant's  daughter,  who  bore  him  three  sons,  and  from
 them  sprang  the  rest  of  the  ases.     It  was  otherwise  with  men.
 
 
@@ -6573,8 +6090,7 @@ Thus  far  the  Scandinavian  theory  :  now  to  prove  its  general
 difi"asion.
 
 Though  the  word  ginnungagap  has  no  exact  parallel  in  OHG.
-or  AS.,  it  may  for  all  that  be  the  thing  described  in  the  follow-
-ing verses  of  the  Wessobrunn  Prayer  :
+or  AS.,  it  may  for  all  that  be  the  thing  described  in  the  following verses  of  the  Wessobrunn  Prayer  :
 
 Dat  gafregin  ill  mit  firahim  firiwizzo  meista  (wisest  men),
 dat  ero  ni  was  noh  lifhimil  (earth  was  not,  nor  sky),
@@ -6635,9 +6151,6 @@ Aves  693-i.
 CEEATION.
 
 
-565
-
-
 The  oldest  version  is  to  be  found  in  the  Rituale  ecclesiae
 Dunelmensis  (Lond.  1839),  in  which  a  scribe  of  the  10th  century
 has  interpolated  the  following  passage,  an  AS.  translation  being
@@ -6653,9 +6166,7 @@ sunt  salsae  lacriniae;  pondus
 roris,  unde  factus  est  sudor;
 pondus  floris,  inde  est  varietas
 ocidorum ;  pondus  nubis,  inde
-est  instabilitas  mentium ;  pon-
-dus venti,  inde  est  anJiela  fri-
-gida ;  pondus  ^  gratiae,  inde  est
+est  instabilitas  mentium ;  pondus venti,  inde  est  anJiela  frigida ;  pondus  ^  gratiae,  inde  est
 sensus  hominis.
 
 
@@ -6665,16 +6176,13 @@ aworden  is  flcesc,  pund  fires,
 of  ]^on  read  is  hlod  and  hat ;
 pund  saltes,  of  ]?on  sindon  salto
 teliero ;  pund  ]?eawes,  of  J^on
-aworden  is  swat;  pund  blost-
-mes,  of  j7on  is  fagung  egena;
-pund  wolcnes,  of  ]>on  is  onstyd-
-fullnisse  J^oltta ;  pund  windes,
+aworden  is  swat;  pund  blostmes,  of  j7on  is  fagung  egena;
+pund  wolcnes,  of  ]>on  is  onstydfullnisse  J^oltta ;  pund  windes,
 of  ]?onis  orod'cidd;  pund^  gefe,
 of  ]>on  is  J?oht  monnes.
 
 
-A  similar  addition  is  made  to  a  MS.  of  the  Code  of  Emsig  (Richt-
-hofen,  p.  211): — 'God  scop  thene  eresta  meneska,  thet  was  Adam,
+A  similar  addition  is  made  to  a  MS.  of  the  Code  of  Emsig  (Richthofen,  p.  211): — 'God  scop  thene  eresta  meneska,  thet  was  Adam,
 fon  achta  wendem.  thet  beiiete  fon  tha  stene,  thet  flash  fon  there
 erthe,  thet  hlod  fon  tha  wetere,  tha  herta  fon  tha  winde,  thene
 thochta  fon  tha  wolken,  thene  suet  fon  tha  dawe,  tha  lokkar  fon
@@ -6691,8 +6199,7 @@ accounts  that  follow  next,  after  naming  eight  material  ingredients,  bri
 breath  or  spirit  as  something  additional,  to  which  this  gift  of  '  grace  '  would  fairly
 correspond.  Another  AS.  version,  given  in  Suppl.  ,  from  the  Saturn  and  Solomon
 (Thorpe's  Anal.  p.  95,  ed.  Kemble  p.  180),  is  worth  comparing:  here  '  foklan
-pund '  becomes  ^flcesc,  fyres  pund  hlod,  windes  p.  cecfung,  wolcnes  p.  vwcfex  nn-
-sta'Selfffistnes,  gyfe  p.  fat  and  ge.pang,  blostmena  p.  edgena  missenllcnist,  dcawes
+pund '  becomes  ^flcesc,  fyres  pund  hlod,  windes  p.  cecfung,  wolcnes  p.  vwcfex  nnsta'Selfffistnes,  gyfe  p.  fat  and  ge.pang,  blostmena  p.  edgena  missenllcnist,  dcawes
 p.  swat,  sealtes  p.  tearas.' — Here  '  gyfe'  is  right  in  the  middle  of  the  sentence:  can
 it  be,  tliat  both  '  gefe  '  and  '  gyfe '  are  a  corruption  of  Geofon  the  sea  god,  gifeu  the
 sea  (supra,  p.  239),  wliich  in  christian  times  had  become  inadmissible,  perhaps
@@ -6750,8 +6257,7 @@ quatuor  elementis.  mundus  enim  iste  major  ex  quatuor  dementis
 constat,  igne,aei'e,  aqua  et  terra,  humanum  quoque  corpus  dicitur
 microcosmus,  id  est  minor  mundus.  habet  namque  ex  terra
 carnem,  ex  aqua  humores,  ex  aere  flatum,  ex  igne  calorem.  caput
-autem  ejus  est  rotundum  sicut  coelum,  in  quo  duo  sunt  oculi,  tan-
-quam  duo  luniinaria  in  coelo  micant.  venter  ejus  tanquam  mare
+autem  ejus  est  rotundum  sicut  coelum,  in  quo  duo  sunt  oculi,  tanquam  duo  luniinaria  in  coelo  micant.  venter  ejus  tanquam  mare
 continet  omnes  liquores.  pectus  et  pulmo  emittit  voces,  et
 quasi  coeiestes  resonat  harmonias.  pedes  tanquam  terra  sustinent
 corpus  universum.  ex  igni  coelesti  habet  visum,  e  superiore  aere
@@ -6774,8 +6280,7 @@ that  those  were  created  out  of  these.
 Not  one  of  the  four  compositions  has  any  direct  connexion
 with  another,  as  their  peculiarities  prove ;  but  that  they  all  rest
 on  a  common  foundation  follows  at  once  from  the  '  octo  poudera,
-achta  wendem,  alit  teilen/  among  which  the  alleged  correspond-
-ences are  distributed.  They  shew  important  discrepancies  in
+achta  wendem,  alit  teilen/  among  which  the  alleged  correspondences are  distributed.  They  shew  important  discrepancies  in
 the  details,  and  a  different  order  is  followed  in  each.  Only  three
 items  go  right  through  the  first  three  accounts,  namely,  that  lime
 (loam,  earth)  was  taken  for  the  flesh,  dew  for  the  sweat,  clouds
@@ -6787,8 +6292,7 @@ poem  is  the  derivation  of  the  veins  from  herbs  (wiirzen),  and  to
 the  AS.  writer  that  of  the  blood  from  fire,  of  tears  from  salt,  of
 the  various  colours  in  the  eye  from  flowers,^  of  cold  breath  from
 wind,  and  of  sense  from  grace;  which  last,  though  placed
-beyond  doubt  by  the  annexed  translation,  seems  an  error  not-
-withstanding, for  it  was  purely  out  of  material  objects  that
+beyond  doubt  by  the  annexed  translation,  seems  an  error  notwithstanding, for  it  was  purely  out  of  material  objects  that
 creation  took  place ;  or  can  the  meaning  be,  that  man's  will  is
 first  conditioned  by  the  grace  of  God  ?  Fitly  enough,  tears  are
 likened  to  salt  (salsae  lacrimae)  ;  somewhat  oddly  the  colours  of
@@ -6831,8 +6335,7 @@ striking  correspondence  of  the  sun  to  the  eye  should  be  wanting
 in  the  Edda,  is  the  more  surprising,  as  the  sun,  moon  and  stars
 are  so  commonly  spoken  of  as  eyes  (Superst.  614),  and  antiquity
 appears  even  to  have  seen  tongues  in  them,  both  of  which  points
-fall  to  be  discussed  in  Chap.  XXII. ;  meanwhile,  if  these  enu-
-merations are  found  incomplete,  it  may  be  that  there  were  plenty
+fall  to  be  discussed  in  Chap.  XXII. ;  meanwhile,  if  these  enumerations are  found  incomplete,  it  may  be  that  there  were  plenty
 more  of  such  correspondences  passing  current.  If  Thorr  flung
 a  toe  into  the  sky  as  a  constellation,  there  may  also  have  been
 tongues  that  represented  stars.
@@ -6842,13 +6345,11 @@ the  others  is,  as  I  said  before,  that  the  one  uses  the  microcosm  as
 material  for  the  macrocosm,  and  the  other  inversely  makes  the
 universe  contribute  to  the  formation  of  man.  There  the  whole
 of  nature  is  but  the  first  man  gone  to  pieces,  here  man  is  put
-together  out  of  the  elements  of  nature.  The  first  way  of  think-
-ing seems  more  congenial  to  the  childhood  of  the  world,  it  is  all
+together  out  of  the  elements  of  nature.  The  first  way  of  thinking seems  more  congenial  to  the  childhood  of  the  world,  it  is  all
 
 yeulx,  des  nues  furent  les  pensees,  du  vent  furent  les  allaines,  des  pierres  furent  les
 oz,  du  saint  esprit  fu  la  vie,  la  clarte  du  monde  signifie  Crist  et  sa  creauce.  Saichez
-que  se  il  y  a  eu  Tomme  plus  de  limon  de  la  terre,  il  sera  paresceux  en  toutes  man-
-ieres ;  et  se  il  y  a  plus  de  la  mer,  il  sera  sage  ;  et  se  il  y  a  plus  de  soleil,  il  sera
+que  se  il  y  a  eu  Tomme  plus  de  limon  de  la  terre,  il  sera  paresceux  en  toutes  manieres ;  et  se  il  y  a  plus  de  la  mer,  il  sera  sage  ;  et  se  il  y  a  plus  de  soleil,  il  sera
 beau  ;  et  se  il  y  a  plus  de  nues,  il  sera  pensis ;  et  se  il  y  a  plus  du  vent,  il  sera
 ireux  ;  et  se  il  y  a  plus  de  pierre,  il  sera  dur,  avar  et  larron  ;  et  se  il  y  a  plus  de
 saint  esprit,  il  sera  gracieux  ;  et  se  il  y  a  plus  de  la  clarte  du  monde,  il  sera  beaux
@@ -6874,8 +6375,7 @@ likened  to  the  hair  of  Sif  or  Ceres.  It  is  at  once  felt  to  be  mor
 artificial  for  sun  and  mountain  and  tree  to  be  put  into  requisition
 to  produce  the  human  eye  and  bones  and  hair.  Yet  we  do  speak
 of  eyes  being  sunny,  and  of  our  flesh  as  akin  to  dust,  and  why
-may  not  even  the  heathens  have  felt  prompted  to  turn  that  cos-
-mogonic  view  upside  down  ?  Still  more  would  this  commend
+may  not  even  the  heathens  have  felt  prompted  to  turn  that  cosmogonic  view  upside  down  ?  Still  more  would  this  commend
 itself  to  Christians,  as  the  Bible  expressly  states  that  man  was
 made  of  earth  or  loam,^  without  enlarging  on  the  formation  of
 the  several  constituent  parts  of  the  body.  None  of  the  Fathers
@@ -6961,8 +6461,7 @@ Lobeck,  De  microc.  et  macroc.  p.  4.
 
 CREATION.  571
 
-whole  world  is  mirrored  back.  According  to  a  Chaldean  cos-
-mogony, when  Belus  had  cut  the  darkness  in  twain,  and  divided
+whole  world  is  mirrored  back.  According  to  a  Chaldean  cosmogony, when  Belus  had  cut  the  darkness  in  twain,  and  divided
 heaven  from  earth,  he  commanded  his  own  head  to  be  struck  off,
 and  the  blood  to  be  let  run  into  the  ground;  out  of  this  arose
 man  gifted  with  reason.  Hesiod's  representation  is,  that  Pandora
@@ -6992,9 +6491,7 @@ nine  mothers  of  Heimdyir  (p.  234)  seems  to  rest  on  some
 similar  ground  (see  Suppl.).
 
 From  these  earlier  creations  of  gods  and  giants  the  Edda  and,
-as  the  sequel  will  shew,  the  Indian  religion  distinguish  the  crea-
-tion of  thej^rs^  human  pair.  As  with  Adam  and  Eve  in  Scrip-
-ture, so  in  the  Edda  there  is  presupposed  some  material  to  be
+as  the  sequel  will  shew,  the  Indian  religion  distinguish  the  creation of  thej^rs^  human  pair.  As  with  Adam  and  Eve  in  Scripture, so  in  the  Edda  there  is  presupposed  some  material  to  be
 quickened  by  God,  but  a  simple,  not  a  composite  one.  Tre
 means  both  tree  and  wood,  askr  the  ash-tree  (fraxinus) ;  the
 relation  of  Ashr  to  the  Isco  of  heroic  legend  has  already  been
@@ -7017,8 +6514,7 @@ busy  woman,  OHG.  emila,  as  in  fiur-emila  (focaina),  a  Cinderella
 whence  also  the  heroes  name  Amala  (p.  370).  As  regards  Ashr
 however,  it  seems  worthy  of  notice,  that  legend  makes  the  first
 king  of  the  Saxons,  Aschanes  (Askanius),  grow  up  out  of  the
-Harz  rocks,  by  a  fountain-head  in  the  midst  of  the  forest.  See-
-ing that  the  Saxons  themselves  take  their  name  from  sahs  (saxum,
+Harz  rocks,  by  a  fountain-head  in  the  midst  of  the  forest.  Seeing that  the  Saxons  themselves  take  their  name  from  sahs  (saxum,
 stone),  that  a  divine  hero  bears  the  name  of  Sahsnot  (p.  203),
 that  other  traditions  derive  the  word  Germani  from  germinare,
 because  the  Germans  are  said  to  have  grown  on  trees ;  ^  we  have
@@ -7034,8 +6530,7 @@ grow  out  of  trees  and  rocks,  that  is  to  say,  which  endeavoured
 to  trace  the  lineage  of  living  beings  to  the  half-alive  kingdom  of
 plants  and  stones.  Even  our  lent  (populus),  OHG.  liut,  has  for
 its  root  liotan  (crescere,  pullulare),  OS.  liud,  liodan ;  ^  and  the
-sacredness  of  woods  and  mountains  in  our  olden  time  is  height-
-ened by  this  connexion.  And  similar  liotions  of  the  Greeks  fit
+sacredness  of  woods  and  mountains  in  our  olden  time  is  heightened by  this  connexion.  And  similar  liotions  of  the  Greeks  fit
 in  with  this.  One  who  can  reckon  up  his  ancestors  is  appealed
 to  with  the  argument  (Od.  19,  163)  :
 
@@ -7046,9 +6541,7 @@ for  not  of  fabled  oa/i;  art  thou,  nor  rock;^  and  there  must  have
 ^  D.  S.  no.  408.  ATentin  IS** ;  conf.  the  popular  joke,  prob.  ancient,  on  the
 origin  of  Swabians,  Franks  and  Bavarians,  Schm.  3,  524.
 
-2  In  the  Jewish  language,  both  learned  and  vulgar,  Ashkenaz  denotes  Ger-
-many or  a  German.  The  name  occurs  in  Gen.  10,  8  and  Jer.  51,  27  ;  how  early-
-its  mistaken  use  began,  is  unknown  even  to  J.  D.  Michaelis  (Spicil.  geogr.  Hebr.
+2  In  the  Jewish  language,  both  learned  and  vulgar,  Ashkenaz  denotes  Germany or  a  German.  The  name  occurs  in  Gen.  10,  8  and  Jer.  51,  27  ;  how  earlyits  mistaken  use  began,  is  unknown  even  to  J.  D.  Michaelis  (Spicil.  geogr.  Hebr.
 1,  59) ;  it  must  have  been  by  the  15th  century,  if  not  sooner,  and  the  rabbis  may
 very  likely  have  been  led  to  it  by  hearing  talk  of  a  derivation  of  the  Germans  from
 an  ancestor  Askanius,  or  else  the  Trojan  one.
@@ -7060,14 +6553,11 @@ an  ancestor  Askanius,  or  else  the  Trojan  one.
 
 CEEATION.  573
 
-been  fairy  tales  about  it,  which  children  told  each  other  in  con-
-fidential chat  {oapi^efJLevai  airb  Spvo^  ^S'  airo  Trerpr]^,  II.  22,  126.^
+been  fairy  tales  about  it,  which  children  told  each  other  in  confidential chat  {oapi^efJLevai  airb  Spvo^  ^S'  airo  Trerpr]^,  II.  22,  126.^
 aXka  TIT}  /uLOC  ravra  irepl  hpvv  rj  irepl  ireTprjv  •  Hes.  Theog.  35).
 In  marked  unison  with  the  myth  of  Askr  is  the  statement  of
-Hesiod,  that  Zeus  formed  the  third  or  brazen  race  out  of  ash-
-trees  (e'/c  fieXiav,  Op.  147)  ;  and  if  the  allusion  be  to  the  stout
-ashen  shafts  of  the  heroes,  why,  Isco  or  Askr  may  have  bran-
-dished them  too.  One  remembers  too  those  wood-wives  and  fays,
+Hesiod,  that  Zeus  formed  the  third  or  brazen  race  out  of  ashtrees  (e'/c  fieXiav,  Op.  147)  ;  and  if  the  allusion  be  to  the  stout
+ashen  shafts  of  the  heroes,  why,  Isco  or  Askr  may  have  brandished them  too.  One  remembers  too  those  wood-wives  and  fays,
 who,  like  the  Greek  meliads  and  dryads,  had  their  sole  power  of
 living  bound  up  with  some  particular  oak  or  ash,  and,  unlike  the
 tree-born  man,  had  never  got  wholly  detached  from  the  material
@@ -7090,8 +6580,7 @@ to  do  with  the  black  elves  alone,  and  must  not  be  extended  to
 the  light  ones,  about  whose  origin  we  are  left  in  the  dark.  And
 other  mythologies  are  equally  silent.
 
-It  is  important  and  interesting  to  get  a  clear  view  of  the  grada-
-tion and  sequence  of  the  several  creations.  That  in  the  Edda
+It  is  important  and  interesting  to  get  a  clear  view  of  the  gradation and  sequence  of  the  several  creations.  That  in  the  Edda
 giants  come  first,  gods  next,  and  then,  after  an  intervening  deluge.
 
 
@@ -7116,15 +6605,11 @@ a  theological  opinion  largely  adopted  throughout  the  Mid.  Ages,
 according  to  which,  though  the  O,  T.  begins  with  the  work  of
 the  six  days,  yet  the  existence  and  consequently  the  creation  of
 angels  and  the  apostasy  of  devils  had  gone  before,  and  then  were
-produced  heaven  and  earth,  man  and  all  other  creatures.^     After-
-wards, it  is  true,  there  comes  also  a  destructive  flood,  but  does
+produced  heaven  and  earth,  man  and  all  other  creatures.^     Afterwards, it  is  true,  there  comes  also  a  destructive  flood,  but  does
 not  need  to  be  followed  by  a  new   creation,  for  a  pious  remnant
-of  mankind  is  saved,  which  peoples  the  earth  anew.    The  Muham-
-medan  eblis  (by  aphgeresis  from  dieblis,  diabolus)  is  an  apostate
-spirit  indeed,  but  created  after  Adam,  and  expelled  from   Para-
-dise.     Our  Teutonic  giants  resemble  at  once  the  rebel  angels
-(devils)  and  the  sinful  men  swept  away  by  the  flood ;  here  deli-
-verance was  in  store  for  a  patriarch,  there  for  a  g-iant,  who  after
+of  mankind  is  saved,  which  peoples  the  earth  anew.    The  Muhammedan  eblis  (by  aphgeresis  from  dieblis,  diabolus)  is  an  apostate
+spirit  indeed,  but  created  after  Adam,  and  expelled  from   Paradise.     Our  Teutonic  giants  resemble  at  once  the  rebel  angels
+(devils)  and  the  sinful  men  swept  away  by  the  flood ;  here  deliverance was  in  store  for  a  patriarch,  there  for  a  g-iant,  who  after
 it  continues  his  race  by  the  side  of  men.     A  narrative  preserved
 in  the  appendix  to   our  Heldenbuch  offers  some  fragments  of
 cosmogony  :  three  creations  follow  one  another,  that  of  dwarfs
@@ -7166,8 +6651,7 @@ CEEATION.  675
 Bible  makes  two  separate  actions,  Adam^s  creation  coming  first,
 and  Eve's  being  performed  afterwards  and  in  a  different  manner.^
 So,  by  Hesiod's  account,  there  already  existed  men  descended
-from  the  gods  themselves,  when  the  first  woman  Pandora,  the  all-
-gifted,  fair  and  false,  was  formed  out  of  earth  and  flood  (p.  571).
+from  the  gods  themselves,  when  the  first  woman  Pandora,  the  allgifted,  fair  and  false,  was  formed  out  of  earth  and  flood  (p.  571).
 It  is  difficult  to  arrive  at  the  exact  point  of  view  in  the  Hesiodic
 poems.  In  the  Theogouy,  there  ascend  out  of  chaos  first  Gaia
 (earth)  the  giantess,  then  Erebus  (corresp.  to  Niflheim)  and
@@ -7176,8 +6660,7 @@ and  mountains,  then  other  children  by  Uranus,  the  last  of  them
 Kronus  the  father  of  Zeus  and  ancestor  of  all  the  gods.  As
 the  Edda  has  a  Buri  and  Borr  before  OSinn,  so  do  Uranus  and
 Kronus  here  come  before  Zeus  ;  with  Zeus  and  OSinn  begins  the
-race  of  gods  proper,  and  Poseidon  and  Hades  complete  the  fra-
-ternal trio,  like  Vili  and  Ve.  The  enmity  of  gods  and  titans  is
+race  of  gods  proper,  and  Poseidon  and  Hades  complete  the  fraternal trio,  like  Vili  and  Ve.  The  enmity  of  gods  and  titans  is
 therefore  that  of  ases  and  giants ;  at  the  same  time,  there  is  just
 as  much  resemblance  in  the  expulsion  of  the  titans  from  heaven
 (Theog.  813)  to  the  fall  of  the  rebel  angels  into  the  bottomless
@@ -7407,8 +6890,7 @@ things  waste  for  twenty  nights  and  days.     Looking  down  once
 580  CREATION.
 
 more,  when  he  happened  to  be  eating  celestial  nuts,  Pramzimas
-dropt  a  nutshell,  and  it  lighted  on  the  top  of  the  highest  movn-
-tain,  to  which  beasts  and  several  human  pairs  had  fled  for  refuge.
+dropt  a  nutshell,  and  it  lighted  on  the  top  of  the  highest  movntain,  to  which  beasts  and  several  human  pairs  had  fled  for  refuge.
 They  all  climbed  into  the  shell,  and  it  drifted  on  the  flood  which
 now  covered  all  things.  But  God  bent  his  countenance  yet  a
 third  tim^  upon  the  earth,  and  he  laid  the  storm,  and  made  the
@@ -7420,8 +6902,7 @@ the  rainbow,  who  counselled  them  to  leap  over  the  earth's  bones  :
 nine  times  they  leapt,  and  nine  couples  sprang  up,  founders  of
 the  nine  tribes  of  Lithuania.  This  incident  reminds  us  of  the
 origin  of  men  from  the  stones  cast  by  Deucalion  and  Pyrrha ;  and
-the  rainbow,  of  the  Bible  account,  except  that  here  it  is  intro-
-duced as  a  person,  instructing  the  couple  what  to  do,  as  Hermes
+the  rainbow,  of  the  Bible  account,  except  that  here  it  is  introduced as  a  person,  instructing  the  couple  what  to  do,  as  Hermes
 (the  divine  messenger)  did  Deucalion.  It  were  overbold  perhaps
 to  connect  the  nutshell  with  that  nut-tree  (p.  572-3),  by  which
 one  vaguely  expresses  an  unknown  extraction.
@@ -7478,13 +6959,11 @@ from  Ymir's  blood.
 
 It  appears  to  me  impossible  to  refer  the  whole  mass  of  these
 tales  about  the  great  Flood  and  the  Creation  of  the  human  species
-to  the  Mosaic  record,  as  if  they  were  mere  perversions  and  dis-
-tortions of  it ;  the  additions,  omissions  and  discrepancies  peculiar
+to  the  Mosaic  record,  as  if  they  were  mere  perversions  and  distortions of  it ;  the  additions,  omissions  and  discrepancies  peculiar
 to  almost  every  one  of  them  are  sufficient  to  forbid  that.  And
 I  have  not  by  a  long  way  exhausted  this  cycle  of  legends  (see
 Suppl.)  :  in  islands  of  the  Eastern  Archipelago,  in  Tonga  and
-New  Zealand,  among  Mexicans  and  Caribs  there  start  up  ac-
-counts, astonishingly  similar  and  yet  different,  of  creation  and
+New  Zealand,  among  Mexicans  and  Caribs  there  start  up  accounts, astonishingly  similar  and  yet  different,  of  creation  and
 the  first  human  pair,  of  a  flood  and  deliverance,  and  the  murder
 of  a  brother.^
 
@@ -7500,7 +6979,6 @@ general  seem  not  to  have  been  handed  down  at  all.
 
 
 CHAPTER  XX.
-ELEMENTS.
 
 From  gods,  half-gods  and  heroes,  from  the  whole  array  of
 friendly  or  hostile  beings  that,  superior  to  man  in  mind  or
@@ -7522,16 +7000,14 @@ ideas,  that  has  nothing  in  common  with  those  substances,  but
 subjugates  them  to  itself.  Yet  faith  will  tolerate  in  its  train
 a  veneration  of  elements,  and  mix  it  up  with  itself;  and  it  may
 even  chance,  that  when  faith  has  perished  or  is  corrupted,  this
-veneration  shall  keep  its  hold  of  the  people  longer.  The  multi-
-tude will  give  up  its  great  divinities,  yet  persist  for  a  time  in  the
+veneration  shall  keep  its  hold  of  the  people  longer.  The  multitude will  give  up  its  great  divinities,  yet  persist  for  a  time  in  the
 more  private  worship  of  household  gods;  even  these  it  will
 renounce,  and  retain  its  reverence  for  elements.  The  history  of
 the  heathen  and  christian  religions  shews,  that  long  after  the  one
 was  fallen  and  the  other  established,  there  lived  on,  nay  there
 live  still,  a  number  of  superstitious  customs  connected  with  the
 worship  of  elements.  It  is  the  last,  the  all  but  indestructible
-remnant  of  heathenism  ;  when  gods  collapse,  these  naked  sub-
-stances come  to  the  front  again,  with  which  the  being  of  those
+remnant  of  heathenism  ;  when  gods  collapse,  these  naked  substances come  to  the  front  again,  with  which  the  being  of  those
 had  mysteriously  linked  itself  (see  Suppl,).
 
 To  this  effect  I  have  already  expressed  myself  (pp.  82-84)  in
@@ -7547,8 +7023,7 @@ The  gods  stood  and  fell  from  other  causes.
 Water  the  limpid,  flowing,  welling  up  or  running  dry;  Fire
 the  illuminating,  kindled  or  quenched ;  Air  unseen  by  the  eye,
 but  sensible  to  ear  and  touch  ;  Earth  the  nourishing,  out  of
-which  everything  grows,  and  into  which  all  that  has  grown  dis-
-solves;— these,  to  mankind  from  the  earliest  time,  have  appeared
+which  everything  grows,  and  into  which  all  that  has  grown  dissolves;— these,  to  mankind  from  the  earliest  time,  have  appeared
 sacred  and  venerable  ;  ceremonies,  transactions  and  events  in
 life  first  receive  their  solemn  consecration  from  them.  Working
 as  they  do  with  never-resting  activity  and  force  on  the  whole  of
@@ -7557,8 +7032,7 @@ any  particular  god  necessarily  intervening,  though  he  too  will
 commonly  appear  in  combination  with  it.  Even  to-day  the
 majesty  and  might  of  these  eldest  born  of  things  awakes  our
 admiration ;  how  could  antiquity  have  forborne  its  astonishment
-and  adoration  ?  Such  a  worship  is  simpler,  freer  and  more  dig-
-nified than  a  senseless  crouching  before  pictures  and  idols.
+and  adoration  ?  Such  a  worship  is  simpler,  freer  and  more  dignified than  a  senseless  crouching  before  pictures  and  idols.
 
 All  the  elements  are  cleansing,  healing,  atoning,  and  the  proof
 by  ordeal  rests  mainly  upon  them  ;  but  man  had  to  secure  them
@@ -7578,13 +7052,11 @@ wdc  wages  =  fluctus,  flow.
 
 2  When  here  and  elsewhere  I  use  Bp.  Burchard's  Coll.  of  Decrees  as  authority
 for  German  superstitions,  I  do  not  forget  that  in  most  cases  (not  all)  it  is  drawn
-from  councils  not  held  in  Germany,  but  in  Gaul,  Italy  or  Spain.  Yet,  if  we  con-
-sider that  German  nations  had  been  spreading  themselves  all  over  those  countries
+from  councils  not  held  in  Germany,  but  in  Gaul,  Italy  or  Spain.  Yet,  if  we  consider that  German  nations  had  been  spreading  themselves  all  over  those  countries
 down  to  the  8-9th  cent.,  that  the  AS.  and  Lombard  Laws,  to  say  nothing  of
 Capitularies,  declaim  equally  with  those  Decrees  of  Council  against  water,  tree  and
 stone  worship,  that  Agathias  and  Gregory  of  Tours  expressly  charge  the  Alamanns
-and  Franks  with  such  worship  ;  these  superstitions  are  seen  to  be  something  com-
-mon to  the  Italian,  Gallic  and  German  nationalities,  of  which  none  of  them  can  be
+and  Franks  with  such  worship  ;  these  superstitions  are  seen  to  be  something  common to  the  Italian,  Gallic  and  German  nationalities,  of  which  none  of  them  can  be
 acquitted.  Some  have  tried  to  make  out  from  Agathias,  that  our  forefathers  had
 a  mere  nature-worship,  and  no  gods.  It  would  be  about  as  uncritical  to  do  what
 is  to  some  extent  the  reverse,  and  suspect  Agathias  and  Gregory  of  having  adopted
@@ -7592,8 +7064,6 @@ their  assertions  out  of  church-prohibitions  that  were  never  meant  for  
 
 VOL.    II.  i
 
-
-584  ELEMENTS.
 
 The  people  prayed  on  the  river's  bank ;  at  the  fountain's  brink
 they  lighted  candles  and  laid  down  sacrificial  gifts.  It  is  called
@@ -7603,8 +7073,7 @@ ad  fontes,  offerre  ad  fontes,  munus  deferre,  ad  fontes  Inminaria
 facere,  candelam  deferred  This  last  no  doubt  was  done  only  or
 chiefly  at  night,  when  the  flame  reflected  from  the  wave  would
 excite  a  religious  awe.^  The  Saxons  also  were  fonticolae  :  wyllas
-and  flutwoeter  are  named  in  the  AS.  laws  as  objects  of  rever-
-ence. Beside  the  passage  from  Cnut  (p.  102),  the  Poenitentiale
+and  flutwoeter  are  named  in  the  AS.  laws  as  objects  of  reverence. Beside  the  passage  from  Cnut  (p.  102),  the  Poenitentiale
 Ecgberti  says  2,  22  :  '  gif  hwilc  man  his  aelmessan  gehate  o'S'Se
 bringe  to  hwilcon  ivylle';  4,  19  :  'gif  hwa  his  wseccan  set  senigum
 ivylle  haebbe  (vigilias  suas  ad  aliquem  fontem  habeat) ' ;  the
@@ -7663,8 +7132,7 @@ wundes  an  dem  man  verseret  ist/  how  good  for  healing  wounds,
 etc.      Martina  116:   'Got,  du  froude  fliizzic  heilaivdc,'  and  in  a
 like  sense  248.  283.      Applied  to  Christ  and  his  cross.  Mar.  224  :
 'der  bourn  ist  gemeizzen,  da  daz  heilwcege  von  bechumet,  daz  aller
-werlte  gefrumet,^  the  tree  whence  cometh  h.     And  more  gener-
-ally,  '  ein  heilwdge,'    Diut.    1,    352 ;    much   later,  in    Anshelm's
+werlte  gefrumet,^  the  tree  whence  cometh  h.     And  more  generally,  '  ein  heilwdge,'    Diut.    1,    352 ;    much   later,  in    Anshelm's
 Chron.  of  Bern  1,  308,  '  heilwag '  among  other  charms  and  magic
 appliances.       Lastly,    in  Phil,   von    Sittewald    (Strasb.    1677)    1,
 483 :  '  running  spriug-water,  gathered  on  holy  Christmas  night,
@@ -7694,10 +7162,7 @@ TrXrj^ev  6pos  aK-qirTpi^'     t6  di  oi  olxo.  ttovXv  ZUarri,
 1  Zehn  ehen  eines  weibes  (lier  ten  marriages),  Leipz.  1735,  p.  235.
 
 
-586  ELEMENTS.
-
-given  a  special  narae^  betliptania.^  As  far  back  as  387,  Cbrv-
-sostom  preaching  an  Epiphany  sermon  at  Antioch  says  that
+given  a  special  narae^  betliptania.^  As  far  back  as  387,  Cbrvsostom  preaching  an  Epiphany  sermon  at  Antioch  says  that
 people  at  that  festival  drew  running  water  at  rtiithiight,  and  Tcept
 it  a  loliole  yea.r,  and  often  two  or  three  (no  doubt  for  thaumaturgic
 uses),  and  it  remained  fresh  and  uncorrupted.^  Superstitious
@@ -7708,12 +7173,9 @@ heilawac,^  and  ascribed  to  it  a  wonderful  power  of  healing  diseases
 and  wounds,  and  of  never  spoiling  (see  Suppl.).
 
 Possibly  even  in  Syria  an  old  pagan  drawing  of  water  became
-veiled  under  new  christian  meanings.  In  Germany  other  cir-
-cumstances point  undisguisedly  to  a  heathen  consecration  of
-water:  it  was  not  to  be  drawn  at  midnight,  but  in  the  morn-
-ing hefore  sunrise,  down  stream  and  silently  (Superst.  89.  775),
-usually  on  Easter  Sunday  (775-6)  to  which  the  above  explana-
-tions do  not  so  well  apply  ;  this  water  does  not  spoil,  it  restores
+veiled  under  new  christian  meanings.  In  Germany  other  circumstances point  undisguisedly  to  a  heathen  consecration  of
+water:  it  was  not  to  be  drawn  at  midnight,  but  in  the  morning hefore  sunrise,  down  stream  and  silently  (Superst.  89.  775),
+usually  on  Easter  Sunday  (775-6)  to  which  the  above  explanations do  not  so  well  apply  ;  this  water  does  not  spoil,  it  restores
 youth,  heals  eruptions,  and  makes  the  young  cattle  strong.*
 Magic  water,  serving  for  unchristian  divination,  is  to  be  collected
 hefore  sunrise  on  a  Sunday  in  one  glass  from  three  flowing  springs  ;
@@ -7756,8 +7218,7 @@ WATER.      HEILAWAC.  587
 custom  mentioned  at  p.  58  :  on  Easter  Monday  youths  and
 maidens  walk  to  the  Hollow  Rock  in  the  mountains,  draw  water
 from  the  cool  spring  in  jugs  to  carry  home,  and  throw  flowers  in
-as  an  offering.  Apparently  this  water- worship  was  Celtic  like-
-wise; the  water  of  the  rock-spring  Karnant  makes  a  broken
+as  an  offering.  Apparently  this  water- worship  was  Celtic  likewise; the  water  of  the  rock-spring  Karnant  makes  a  broken
 sword  whole  agaiyi,  but
 
 du  muost  des  urspringes  han
@@ -7778,8 +7239,7 @@ Heilacprunno  in  the  oldest  documents.^  But  certain  springs  and
 wells  may  have  stood  in  especial  repute.  Of  high  renown  are
 the  ON.  Mimishrunnr  and  TJrd'arhrunnr  (p.  407),  which  Sn.  17
 calls  '  brunnr  mioc  heilagr'  A  Danish  folksong  (1,  318)  tells  of  a
-Maribohilde,  by  whose  clear  waters  a  body  hewn  in  pieces  is  put  to-
-gether again.  Swedish  lays  celebrate  Ingemos  halla  (Vis.  1,  244-5).
+Maribohilde,  by  whose  clear  waters  a  body  hewn  in  pieces  is  put  together again.  Swedish  lays  celebrate  Ingemos  halla  (Vis.  1,  244-5).
 We  remember  that  old  Frisian  fount  of  Forseti,  'whence  none
 drew  water  save  in  silence,'  pp.  229,  230  (see  Suppl.).  Sacrifices
 were  oflfered  at  such  springs.  Of  the  salutary  effect  of  hot  and
@@ -7805,16 +7265,13 @@ before  the  adder  does  so.     Lenz's  Schlangenkunde,  p.  208.
 Necker  vUuzet  fiir  HeiUcbrunuen  (flows  past  Holy-well),'  MS.  2,  68''.
 
 
-588  ELEMENTS.
-
 'aquae  calidae'  near  Luxeuil  (p.  83).  When  the  Wetterau
 people  begin  a  new  jug  of  chalybeate,  they  always  spill  the  first
 drop  or  two  on  the  ground,  they  say  '  to  clear  the  dust  away/
 for  the  jugs  stand  open,  but  it  may  have  been  once  a  libation  to
 the  fountain-sprite.^  Not  only  medicinal,  but  salt  springs  were
 esteemed  holy :  ancient  accounts  of  these  will  be  presented  in  a
-later  chapter.  The  Mid.  Ages  cherished  the  notion  of  a  jung-
-brunnen :  ^  whoever  bathes  in  it  is  both  cured  of  diseases  and
+later  chapter.  The  Mid.  Ages  cherished  the  notion  of  a  jungbrunnen :  ^  whoever  bathes  in  it  is  both  cured  of  diseases  and
 guarded  from  them  ;  in  it  Rauchels  shed  her  shaggy  skin,  and
 became  the  beauteous  Sigeminne  (p.  433-4) ;  such  a  spring  has
 sometimes  the  power  even  to  change  the  bather^s  sex  (see
@@ -7833,8 +7290,7 @@ bergekiilla  near  Skeninge,  and  drank  of  the  well  (Broocman  1,
 1  Where  the  Heathens  ascribed  the  miraculous  power  of  a  spring  to  their  wood
 or  water  sprites,  the  Christians  afterwards  transferred  it  to  their  saints.  I  take  au
 instance  from  the  Miracula  S.  Agih,  written  in  the  12th  century:  Marvellous  cures
-were  wrought  at  the  hrooh  of  St.  Agilus.  Sed  interim  quorundam  vesaniae  occur-
-rere  hbet,  qui  in  digito  Dei  nequaquam  haec  fieri  aestimantes,  daemoniacae,  pro
+were  wrought  at  the  hrooh  of  St.  Agilus.  Sed  interim  quorundam  vesaniae  occurrere  hbet,  qui  in  digito  Dei  nequaquam  haec  fieri  aestimantes,  daemoniacae,  pro
 nefas,  attribuunt  potestati.  Cumque  miracula  diffiteri  nequeunt,  id  solum  iu
 causam  calumniae  adsumunt,  quod  in  agresti  hunt  loco,  ubi  nullus  Dei  cultus,  ubi
 nullae  sanctorum  memoriae.  0  prudentiam !  verentur  homines  sublimi  ingeuio,
@@ -7843,17 +7299,14 @@ res  geratur  ejusmodi.  Nam  ut  de  fabulis  taceam,  apud  quos  historiograp
 veterum  seu  modernorum  legitur  daemones  visum  coecis,  mentem  amentibus,
 manus  debilibus,  gressum  claudicantibus  restaurasse?  (Acta  Bened.  sec.  2,  p.  333.)
 The  Swedish  people  ascribe  the  healing  power  of  some  s^Drings  to  white  snakes.  Iu
-1809  there  flocked  thousands  from  Halland  and  Vestergotland  to  the  wonder-work-
-ing Helsjo,  a  small  lake  near  Eampegarde ;  they  said,  some  children  tending  cattle
+1809  there  flocked  thousands  from  Halland  and  Vestergotland  to  the  wonder-working Helsjo,  a  small  lake  near  Eampegarde ;  they  said,  some  children  tending  cattle
 on  the  shore  had  often  during  the  year  seen  a  beautiful  maiden  sit  on  the  bank,
 holding  a  snake  in  her  hand  and  shewing  it  to  them.  It  is  only  every  hundredth
 year  that  this  water-7iiaide?i  vfith  the  snake  appears  (Bexell's  Halland  2,  320 ;  3,
 303).  Multitudes  from  Norway  and  HaUaud  visited  a  spring  named  S.  Olaftikialla,
 dropt  money-offerings  in,  and  carried  on  other  superstition  (Odman's  Bahusliin  p.
 169).  In  christian  times  healing  fountains  are  believed  to  spring  up  near  the
-tombs  of  holy  men,  Bex.  Hall.  3,  09  ;  or  from  under  a  saint's  body,  Flodoard.  re-
-mens.  2,  3.  I  think  it  is  with  the  hot  baths  at  Aix  that  we  must  connect  the  water-
-vxaiden  with  whose  myth  Charles  the  Great  is  mixed  up,-  p.  435.
+tombs  of  holy  men,  Bex.  Hall.  3,  09  ;  or  from  under  a  saint's  body,  Flodoard.  remens.  2,  3.  I  think  it  is  with  the  hot  baths  at  Aix  that  we  must  connect  the  watervxaiden  with  whose  myth  Charles  the  Great  is  mixed  up,-  p.  435.
 
 2  Synonymously  the  OHG.  quecprunno,  MHG.  quecprunne,  Parz.  613,  9.
 Fragm.  18,  267.
@@ -7866,8 +7319,7 @@ WATEE.      HEILAWAC.  589
 
 visited  at  Whitsuntide,  and  the  water  drunk  in  jugs  of  a  peculiar
 shape.  Still  more  important  is  Petrarch's  description  of  the
-annual  bathing  of  the  women  of  Cologne  in  the  Rhine :  it  de-
-serves to  be  quoted  in  full/  because  it  plainly  proves  that  the
+annual  bathing  of  the  women  of  Cologne  in  the  Rhine :  it  deserves to  be  quoted  in  full/  because  it  plainly  proves  that  the
 cult  prevailed  not  merely  at  here  and  there  a  spring,  but  in
 Germany's  greatest  river.  From  the  Italian's  unacquaintance
 with  the  rite,  one  might  infer  that.it  was  foreign  to  the  country
@@ -7881,8 +7333,7 @@ has  the  statement:  'in  una  parte  populosa  della  citta  giace  la
 chiesa  consegrata  a  S.  Giovan  battista,  chiamata  S.  Giovan  a
 mare.  Era  una  antica  usanza,  hoggi  non  al  tutto  lasciata,  che
 la  vigilia  di  8.  Giovane,  verso  la  sera  e  '1  secux'o  del  di,  tutti
-huomini  e  donne  andare  al  mare,  e  nudi  lavarsi ;  persuasi  pur-
-garsi  de  loro  peccati,  alia  focchia  degli  antichi,  che  peccando
+huomini  e  donne  andare  al  mare,  e  nudi  lavarsi ;  persuasi  purgarsi  de  loro  peccati,  alia  focchia  degli  antichi,  che  peccando
 andavano  al  Tevere  lavarsi.'  And  long  before  Petrarch,  in
 Augustine's   time,  the  rite  was  practised  in   Libya,  and  is  de~
 
@@ -7891,20 +7342,16 @@ sed  prius,  iinde  ortum  oppicli  nomen  jiutaut,  aquis  bajauo  more  tepent
 excei^it  Agrippina  Colonia,  quae  ad  sinistrum  Rheni  latus  sita  est,  locus  et  situ  et
 flumine  clarus  et  populo.  Mirum  in  terra  barbarica  quanta  civilitas,  quae  urbis
 species,  quae  virorum  gravitas,  quae  munditiae  matronarum.  Forte  Johannis
-haptistae  vigilia  erat  dum  illuc  applicui,  et  jam  ad  occideutem  sol  vergebat:  con-
-festim  amicorum  monitu  (nam  et  ibi  amicos  prius  mihi  fama  pepererat  quam
+haptistae  vigilia  erat  dum  illuc  applicui,  et  jam  ad  occideutem  sol  vergebat:  confestim  amicorum  monitu  (nam  et  ibi  amicos  prius  mihi  fama  pepererat  quam
 meritum)  ab  hospitio  traducor  ad  fiuvium  insigne  spectaculum  visurus.  Nee
-fallebar;  omnis  enim  ripa  praeclaro  et  ingenti  mulierum  agmine  tegebatur.  Ob-
-stupui,  dii  boni,  quae  forma,  quae  facies,  quis  habitus !  amare  potuisset  quisquis
+fallebar;  omnis  enim  ripa  praeclaro  et  ingenti  mulierum  agmine  tegebatur.  Obstupui,  dii  boni,  quae  forma,  quae  facies,  quis  habitus !  amare  potuisset  quisquis
 eo  uon  praeoccupatum  auimum  attulisset.  In  loco  paullum  altiore  constiteram,
 unde  in  ea  quae  gerebantur  inteuderem.  Incredibilis  sine  oiJeusione  concursus
 erat,  vicissimque  alacres,  pars  h/^rbis  odoriferis  incinctae,  reductisque  post  cubitum
-vianicis,  Candidas  in  giirgite  mauvs  ac  brachia  lavahant,  nescio  quid  blandum  pcre-
-grino  murmure  coUoquentes.  [A  few  lines  omitted.]  Unum  igitur  ex  eo  [amicorum]
+vianicis,  Candidas  in  giirgite  mauvs  ac  brachia  lavahant,  nescio  quid  blandum  pcregrino  murmure  coUoquentes.  [A  few  lines  omitted.]  Unum  igitur  ex  eo  [amicorum]
 numero  admiraus  et  ignarus  rerum  percunctatus  vergiliano  illo  versiculo  :  '  Quid
 vult  concursus  ad  amnem,  quidve  petunt  auimae?'  responsura  accejji :  pcrci'tustinn
-gentis  ritum  esse,  vulgo  persuasum,  praesertim  femineo,  omnem  totius  aiuii  calamita-
-tem  imminentem  fluviali  illius  did  ablutione  purgari,  et  deincei^s  laetiora  succedere;
+gentis  ritum  esse,  vulgo  persuasum,  praesertim  femineo,  omnem  totius  aiuii  calamitatem  imminentem  fluviali  illius  did  ablutione  purgari,  et  deincei^s  laetiora  succedere;
 itaque  lustratumem  esse  a?un/am,inexhau3toque  semper  studio  cultam  colendamque.
 Ad  haec  ego  subridens  :  '  0  nimium  felices '  inquam  'Rheni  accolae,  quouiam  ille
 miserias  jrargat,  nostras  quidem  nee  Fadus  unquam  jjurgare  valuit  nee  Tiberis.  Vos
@@ -7914,8 +7361,6 @@ risu,  sero  tandem  inde  discessimus.  [A  few  lines  omitted.]  The  letter 
 and  addressed  to  Card.  Colonna.  We  find  it  quoted  so  early  as  by  Kaisersberg
 (Omeiss  35*=).
 
-
-690  ELEMENTS.
 
 nounced  by  tliat  Father  as  a  relic  of  paganism :  '  natali  Joliannis,
 de  solemnitate  superstitiosa  pagana,  Cliristiani  ad  mare  veniebant,
@@ -7944,18 +7389,15 @@ die,  the  river  is  supposed  to  stop  in  its  course,  as  if  to  indicate
 grief  (Deut.  sag.  no.  110) ;  if  the  well  runs  dry,  the  head  of  the
 family  will  die  sooii  after  (no.  103).  A  spring  that  either  runs
 over  or  dries  up,  foreboding  dearth,  is  called  liiiwjer quelle,  hungei'-
-hrunnen  (Staid.  2,  63).  Wossingen  near  Durlach  has  a  hunger-
-hrunnen,  which  is  said  to  flow  abundantly  when  the  year  is  going
+hrunnen  (Staid.  2,  63).  Wossingen  near  Durlach  has  a  hungerhrunnen,  which  is  said  to  flow  abundantly  when  the  year  is  going
 to  be  unfruitful,  and  then  also  the  fish  it  produces  ai'e  small.^
 
-'  In  Poland  and  Silesia,  and  perhaps  in  a  i^art  of  Eussia,  girls  who  have  over-
-slept matiu-time  on  Easter  Monday  are  soused  with  ivater  by  the  lads,  and  flogged
+'  In  Poland  and  Silesia,  and  perhaps  in  a  i^art  of  Eussia,  girls  who  have  overslept matiu-time  on  Easter  Monday  are  soused  with  ivater  by  the  lads,  and  flogged
 with  birch  twigs  ;  they  are  often  i^ulled  out  of  bed  at  night,  and  di-agged  to  a  river
 or  cistern,  or  a  trough  filled  with  water,  and  are  ducked.  The  Silesians  call  this
 scUmagostern  (even  Ester's  Oberhess.  idiot,  has  sciimakustcrn  —  ^smg  the  rod  at
 Easter) ;  perh.  from  Pol.  smie,  Boh.  smyti,  so  that  smigust  would  be  rinsing
-[Sdppl.  says,  '  better  from  smagac  to  flog'] .  The  Poles  say  both  smic  and  dyngo-
-wac,  dyngus,  of  the  splashing  each  other  with  water  (conf.  Hanusch,  p.  197),  and
+[Sdppl.  says,  '  better  from  smagac  to  flog'] .  The  Poles  say  both  smic  and  dyngowac,  dyngus,  of  the  splashing  each  other  with  water  (conf.  Hanusch,  p.  197),  and
 the  time  of  year  seems  to  be  St.  John's  day  as  well  as  Easter.  In  the  Eussian  gov.
 of  Archangel,  the  people  hathe  in  the  riuer  on  June  23,  and  sprinkle  kupahiitsa
 (ranunculus  aeris),  Kai'amzin  1,  73-4  [the  same  is  also  a  surname  of  St.  Agrippina,
@@ -7979,10 +7421,8 @@ non  plus  ab  Albi  quam  duo  milliaria  positus,  qui  unam,  de  se
 paludem  generans,  mira,  ut  incolae  pro  vero  asserunt  oculisque
 approbatum  est  a  multis,  saepe  operatur.  '  Cum  bona  pax  indigenis
 profutura  suumque  haec  terra  non  mentitur  fructum,  tritico  et
-avena  ac  glandine  refertus,  laetos  vicinorum  ad  se  crebro  con-
-fluentiuTYi  efficit  animos.  Quando  autem  saeva  belli  tempestas
-ingruerit,  sanguine  et  cinere  certum  futuri  exitus  indicium  prae-
-monstrat.  Hunc  omnis  incola  plus  quam  ecclesias,  spe  quamvis
+avena  ac  glandine  refertus,  laetos  vicinorum  ad  se  crebro  confluentiuTYi  efficit  animos.  Quando  autem  saeva  belli  tempestas
+ingruerit,  sanguine  et  cinere  certum  futuri  exitus  indicium  praemonstrat.  Hunc  omnis  incola  plus  quam  ecclesias,  spe  quamvis
 dubia,  veneratiir  et  timet.' "  But  apart  from  particular  fountains,
 by  a  mere  gauging  of  water  a  season  of  dearth  or  plenty,  an
 increase  or  decrease  of  wealth  may  be  divined,  according  as  the
@@ -7990,8 +7430,7 @@ water  poured  into  a  vessel  rises  or  falls  (Superst.  F,  43 ;  and  no.
 953  in  Praetor's  Saturnalien  p.  407).  This  looks  to  me  like  a
 custom  of  high  antiquity.  Saxo  Gram.  p.  320  says,  the  image  of
 the  god  Svantovit  in  Riigen  held  in  its  right  hand  a  horn  :  '  quod
-sacerdos  sacrorum  ejus  peritus  annuatim  mero  perfundere  con-
-sueverat,  e^ijjso  liqnoris  hahitu  seqiientis  anni  copias  jprospecturus.
+sacerdos  sacrorum  ejus  peritus  annuatim  mero  perfundere  consueverat,  e^ijjso  liqnoris  hahitu  seqiientis  anni  copias  jprospecturus.
 Postero  die,  populo  prae  foribus  excubante,  detractum
 simulacro  poculum  cui'iosius  speculatus,  si  quid  ex  inditi  liqnoris
 mensnra  suhstractum  fuisset,  ad  sequentis  anni  inopiam  pertinere
@@ -8014,10 +7453,7 @@ mill,  and  the  swallow  in  the  millwheel,  the  times  are  good.
 valida  famis  irrepsit,  ebulUrc  vacuas  annouas  (empty  ears),  a  daemouibus  devoratas.'
 
 
-592-  ELEMENTS.
-
-Whirlpools  and  waterfalls  were  doubtless  lield  in  special  vene-
-ration; they  were  thought  to  be  put  in  motion  by  a  superior
+Whirlpools  and  waterfalls  were  doubtless  lield  in  special  veneration; they  were  thought  to  be  put  in  motion  by  a  superior
 being,  a  river-sprite.  The  Danube  whirlpool  and  others  still
 have  separate  legends  of  their  own.  Plutarch  (in  his  Ceesar,
 cap.  19)  and  Clement  of  Alex.  (Stromat.  1,  305)  assure  us  that
@@ -8054,8 +7490,7 @@ the  Esthonians  will  bribe  the  clerk  to  let  them  have  the  water,
 and  then  splash  it  up  against  the  walls,  to  secure  honours  and
 dignities  for  the  child  (Superst.  M,  47).
 
-It  was  a  practice  widely  prevalent  to  turn  to  strange  supersti-
-tious uses  the  water  of  the  millwheel  caught  as  it  glanced  off  the
+It  was  a  practice  widely  prevalent  to  turn  to  strange  superstitious uses  the  water  of  the  millwheel  caught  as  it  glanced  off  the
 paddles.  Old  Hartlieb  mentions  it  (Superst.  H,  c.  60),  and  vulgar
 opinion  approves  it  still   (Sap.  I,  471.  766).     The  Servians  call
 
@@ -8064,8 +7499,7 @@ MILL-WHEEL   WATER.      RAIN-MAKING.  593
 
 such  water  omaya,  rebound,  from  omanutij  omakhnuti,  to  rebound.
 Vuk,  under  tlie  word^  observes  that  women  go  early  on  St.
-George's  day  (Apr.  23),  to  catch  it,  especially  off  a  small  brook-
-mill  (kashitchara),  and  bathe  in  it.  Some  carry  it  home  the
+George's  day  (Apr.  23),  to  catch  it,  especially  off  a  small  brookmill  (kashitchara),  and  bathe  in  it.  Some  carry  it  home  the
 evening  before,  and  sprinkle  it  with  all  manner  of  broken  greens  :
 they  think  all  evil  and  harm  will  then  glance  off  their  bodies  like
 the  ivater  off  the  millwheel  (Vuk  sub  v.  Jurjev  dan).  Similar,
@@ -8081,12 +7515,10 @@ instead  of  the  rain  or  dew  that  trickled  down  before.  ^
 
 When  the  heavens  were  shut,  and  the  fields  languished  in
 drought,  the  granting  of  rain  depended  in  the  first  instance  on  a
-deity,  on  Donar,  or  Mary  and  Elias,  who  were  supplicated  accord-
-ingly (pp.  173-6).  ^  But  in  addition  to  that,  a  special  charm
+deity,  on  Donar,  or  Mary  and  Elias,  who  were  supplicated  accordingly (pp.  173-6).  ^  But  in  addition  to  that,  a  special  charm
 was  resorted  to,  which  infallibly  procured  '  rainwater,'  and  in  a
 measure  compelled  the  gods  to  grant  it.  A.  little  girl,  completely
-undressed  and  led  outside  the  town,  had  to  dig  up  henbane  (bilsen-
-kraut,  OHG.  pilisa,  hyoscyamus)  with  the  little  finger  of  her
+undressed  and  led  outside  the  town,  had  to  dig  up  henbane  (bilsenkraut,  OHG.  pilisa,  hyoscyamus)  with  the  little  finger  of  her
 right  hand,  and  tie  it  to  the  little  toe  of  her  right  foot;  she  was
 then  solemnly  conducted  by  the  other  maidens  to  the  nearest
 river,  and  splashed  v:ith  water.  This  ceremony,  reported  by
@@ -8103,20 +7535,16 @@ of  water,  ready  to  pour  it  out  at  the  right  time  ;  if  she  delays, 
 thunder  and  lightning  smites  the  pitcher  in  pieces.  Garcilaso  de  la  Vega's  Histt.
 Incarum  perx;auorum  11,  27  ;  couf.  Talvj's  Characteristik  der  volkslieder,  p.  12G.
 
-*  I  will  here  add,  from  Anton's  Coll.  on  the  Slavs,  the  substance  of  a  Walla-
-chian  song,  which  the  children  sing  when  the  corn  is  endangered  by  drought :
+*  I  will  here  add,  from  Anton's  Coll.  on  the  Slavs,  the  substance  of  a  Wallachian  song,  which  the  children  sing  when  the  corn  is  endangered  by  drought :
 '  Papaluga  (father  Luga),  climb  into  heaven,  open  its  doors,  and  send  down  rain
 from  above,  that  well  the  rye  may  grow  ! '
 
-
-594  ELEMENTS.
 
 her  person  is  to  be  seen,  not  even  the  face.^  Escorted  by  other
 maidens,  dodola  passes  from  house  to  house,  before  each  house
 they  form  a  ring,  she  standing  in  the  middle  and  dancing  alone.
 The  goodwife  comes  out  and  empties  a  hucJcet  of  water  over  the
-girl,  who  keeps  dancing  and  whirling  all  the  while ;  her  com-
-panions sing  songs,  repeating  after  every  line  the  burden  *  oy
+girl,  who  keeps  dancing  and  whirling  all  the  while ;  her  companions sing  songs,  repeating  after  every  line  the  burden  *  oy
 dodo,  oy  dodo  le  !'  The  second  of  these  rain-hymns  (piesme
 dodolske)  in  Vuk's  Coll.  nos.  86-88  (184-8  of  ed.  2)  runs
 thus  :
@@ -8172,8 +7600,7 @@ and  refresh  the  land.  ^     The  custom,  with  an  addition  of  church
 ceremonial,  is   kept  up   to  this   day.     Led  by  the   clergy,  amid
 chanting  and  pealing  of  bells,  with  five  great  banners  borne  in
 front,  the  parish  walks  in  procession  to  the  spring,  and  the  head
-of  the  commune  dips  Ins  foot  crosswise  in  the  fountain  of  Bar-
-enton ;    they  are  then   sure   of   its  raining  before  the  procession
+of  the  commune  dips  Ins  foot  crosswise  in  the  fountain  of  Barenton ;    they  are  then   sure   of   its  raining  before  the  procession
 arrives  home  again.^     The  mayor's  foot  alone  is  wetted  instead  of
 the  child,  or  a  little  water  only  is  poured  out  as  a  beginning  of
 that  which  is  to  fall  in  masses  from  the  sky.     The  scanty  offering
@@ -8210,8 +7637,6 @@ time  of  drought,  to  carry  the  bodies  of  saints  about,  Flodoard.  rem. 
 *  As  the  girl  who  oversleeps  herself  on  Easter  morning  is  ducked  (p.  590).
 
 
-596  ELEMENTS,
-
 imbrera'  has  dropt  out  altogether,  and  been  replaced  by  a  mere
 Whitsun  drollery  at  the  cost  of  the  laziest  man ;  ^  but  I  have
 little  doubt  that  the  same  purpose  lies  at  the  bottom  of  the
@@ -8220,8 +7645,7 @@ custom  (see  Suppl.).
 Of  goddesses^  no  doubt  the  bath-loving  Nerthus  and  Holda
 are  the  most  nearly  connected  with  water- worship  (Holda  lives  in
 wells^  pp.  268,  487)  ;  and  to  them  must  be  added  swan-maidens,
-merminnes  (p.  433),  water-holdes,  spring-holdes  (p.  268),  water-
-muhmes  and  nixies.  To  all  of  them  particular  rivers,  brooks,
+merminnes  (p.  433),  water-holdes,  spring-holdes  (p.  268),  watermuhmes  and  nixies.  To  all  of  them  particular  rivers,  brooks,
 pools  and  springs  can  be  consecrated  and  assigned  as  their
 abode;  Oegir  (p.  237)  and  Ban  (pp.  311,  497)  ruled  in  the  sea,
 and  the  waves  are  called  their  daughters  :  all  this  gives  a  new
@@ -8245,9 +7669,7 @@ aliquis  causa  qualibet  ingrederetur  eundem,  repente  funihus
 daemoniacis  circumplexus  amittebat  crudeliter  vitam.^  A  more
 decisive  testimony  to  the  worship  of  water  itself  is  what  Gregory
 of  Tours  tells  of  a  lake  on  Mt.  Helanus  (De  gloria  confess.,
-cap.  2)  :  '  Mons  ei'at  in  Gabalitano  territorio  (Gevaudan)  cogno-
-mento  Helanus,  lacum  habens  magnum.  Ad  quem  certo  tem-
-pore multitude  rusticorum,   quasi    libamina   lacui  illi   exhibens,
+cap.  2)  :  '  Mons  ei'at  in  Gabalitano  territorio  (Gevaudan)  cognomento  Helanus,  lacum  habens  magnum.  Ad  quem  certo  tempore multitude  rusticorum,   quasi    libamina   lacui  illi   exhibens,
 
 '  Sup.  I,  342  :  the  lazy  maid,  on  carrying  home  her  first  grass,  is  ducked  or
 splashed,  to  prevent  her  going  to  sleep  over  grass-cutting.
@@ -8277,8 +7699,7 @@ Gervase  of  Tilbury  (in  Leibuitz  1,  982)  tells  of  a  lake  on  Mt.
 Cavagum  in  Catalonia :  '  in  cujus  summitate  lacus  est  aquam
 continens  subnigram  et  in  fundo  imperscrutabilem,  Illic  mans'io
 fertur  esse  daemonum  ad  modum  palatii  dilatata  et  janua  clausa  ;
-facies  tamen  ipsius  mansionis  sicut  ipsorum  daemonum  vul-
-garibus  est  incognita  ac  invisibilis.  In  lacum  si  quis  aliquam
+facies  tamen  ipsius  mansionis  sicut  ipsorum  daemonum  vulgaribus  est  incognita  ac  invisibilis.  In  lacum  si  quis  aliquam
 lapideam  aut  aliam  solidam  projecerit  materiam,  statim  tanquavi
 offe.nsis  daemonibus  tempestas  erumpitJ^  Then  comes  the  story
 of  a  girl  who  is  carried  off  by  the  watersprites,  and  kept  in  the
@@ -8296,19 +7717,15 @@ desisted  from  his  enterprise,  and  since  then  no  one  has  dared
 
 '  Formages,  whence  fromages.
 
-2  This  raisiug  of  a  storm  by  throioing  stones  into  a  lake  or  wellhead  is  a  Teu-
-tonic, a  Celtic  and  a  Finnish  superstition,  as  the  examples  quoted  shew.  The
+2  This  raisiug  of  a  storm  by  throioing  stones  into  a  lake  or  wellhead  is  a  Teutonic, a  Celtic  and  a  Finnish  superstition,  as  the  examples  quoted  shew.  The
 watersprite  avenges  the  desecration  of  his  holy  stream.  Under  this  head  come  the
 stories  of  the  Mummelsee  (Djeut.  sag.  no.  59.  Simplic.  5,  9),  of  the  Pilatussee
 (Lothar's  Volkssag.  232.  Dobenek  2,  118.  Gutslaff  p.  288.  Mone's  Anz.  4,  423),
 of  L.  Camarina  in  Sicily  (Camarinam  movere),  and  above  all,  of  Berenton  well  in
 Breziliande  forest,  Iwein  553-072,  where  however  it  is  the  well-water  poured  on  the
-well-rock  that  stirs  up  the  storm :  conf.  supra,  p.  594,  and  the  place  in  Pontus  men-
-tioned by  Beneke,  p.  269.  The  lapis  manalis  also  conjured  up  rain,  0.  Miiller's  Etr.
+well-rock  that  stirs  up  the  storm :  conf.  supra,  p.  594,  and  the  place  in  Pontus  mentioned by  Beneke,  p.  269.  The  lapis  manalis  also  conjured  up  rain,  0.  Miiller's  Etr.
 2,97.
 
-
-598  ELEMENTS.
 
 to  sound  the  deptli  of  the  lake  (Moneys  Anz.  8,  536).  There  is
 a  similar  story  iu  Thiele  3,  73,  about  Huntsoe,  that  some  people
@@ -8339,8 +7756,7 @@ who  allowed  no  obstructions  in  his  path ;  they  fell  upon  the  mill,
 burnt  it  down,  and  destroyed  the  piles  in  the  water.  Ohm  went
 to  law,  and  obtained  a  verdict  against  the  peasants ;  but  to
 rid  himself  of  new  and  grievous  persecutions,  he  induced  pastor
-Gutslaff,  another  German,  to  write  a  treatise  ^  specially  com-
-bating this  superstition.  Doubtless  we  learn  from  it  only  the
+Gutslaff,  another  German,  to  write  a  treatise  ^  specially  combating this  superstition.  Doubtless  we  learn  from  it  only  the
 odious  features  of  the  heathenish  cult.  To  the  question,  how
 good  or  bad  weather  could  depend  on  springs,  brooks  and  lakes,
 the  Ehsts  replied :  '  it  is  our  ancient  faith,  the  men  of  old  have
@@ -8392,8 +7808,7 @@ their  meadows  green ;  and  they  danced  around  him,  so  that  old
 men  grew  young  for  joy.^
 
 '  Fr.  Thiersch  in  Taschenbuch  fiir  Hebe  uud  freunclschaft  1809,  p.  179.  Must
-not  Eim  be  the  same  as  Emhach  (mother-beck,  fr.  emma  mother,  conf.  (iim  mother-
-in-law)  near  Dorpat,  whose  origin  is  reported  as  follows  ?  When  God  had  created
+not  Eim  be  the  same  as  Emhach  (mother-beck,  fr.  emma  mother,  conf.  (iim  motherin-law)  near  Dorpat,  whose  origin  is  reported  as  follows  ?  When  God  had  created
 heaven  and  earth,  he  wislied  to  bestow  on  the  beasts  a  king,  to  keep  them  in
 order,  and  commanded  tliem  to  dig  for  his  reception  a  deep  broad  beck,  ou
 whose  banks  he  might  walk ;  the  earth  dug  ont  of  it  was  to  make  a  hill  for  the
@@ -8405,8 +7820,6 @@ manner  of  in'eparing  the  new  bed.
 
 VOL.   II.  jr
 
-
-600  ELEMENTS.
 
 The  Greeks  and  Romans  personified  their  rivers  into  male
 beings;  a  bearded  old  man  pours  the  flowing  spring  out  of  his
@@ -8449,8 +7862,7 @@ brooks,  as  may  be  seen  by  the  great  number  of  monuments  erected  to  
 will  here  add  the  testimony  of  Tacitus,  Ann.  1,  79  :  '  sacra  et  lucos  at  a,va.s  patr Us
 amiiibus  dicnre.'
 
-"  Gallus  Ohem's  Chronik  von  Reichenau  (end  of  15th  cent.)  quoted  in  Schon-
-huth's  Eeichenau,  Freib.  1836,  p.  v.  :  'the  isle  is  to  this  day  esteemed  honourable
+"  Gallus  Ohem's  Chronik  von  Reichenau  (end  of  15th  cent.)  quoted  in  Schonhuth's  Eeichenau,  Freib.  1836,  p.  v.  :  'the  isle  is  to  this  day  esteemed  honourable
 and  hohj ;  unchristened  babes  are  not  buried  iu  it,  but  carried  out  and  laid  beside  a
 small  house  with  a  saint's  image  in  it,  called  the  chindli-bild.
 
@@ -8459,8 +7871,7 @@ EA,   ISLAND.      SEA.      FIRE.  601
 
 according  to  tlie  .Edda,  there  lies  in  the  deep  [sea  an  enormous
 'worm/  mi%ar^s-ormr,  biting  his  own  tail  and  begirding  the
-whole  earth.  The  immensity  of  ocean  (Goth,  marisdivs)  is  ex-
-pressed in  the  OHG.  names  endilmerl  and  weiidihneri  (Graff  2,
+whole  earth.  The  immensity  of  ocean  (Goth,  marisdivs)  is  expressed in  the  OHG.  names  endilmerl  and  weiidihneri  (Graff  2,
 829)  ;  conf.  enteo  and  wenteo  (p.  5G4),  entil  and  wentil  (p.  375).
 An  AS.  term  gdrsecg  I  have  tried  to  explain  in  Zeitschr.  fiir  d.  a.
 1,  578.  As  the  running  stream  will  suffer  no  evil-doer  in  it,  so
@@ -8487,8 +7898,7 @@ The  ancient  Persians  made  a  god  of  it,  and  the  Indian  Agni
 (ignis)  is  looked  upon  as  a  god.  The  Edda  makes  fire  a  brotlier
 of  the  wind  and  sea,  therefore  himself  alive  and  a  god,  Sn.  126.
 Our  people  compare  the  element  to  a  cock  flying  from  house  to
-house  :  '  I'll  set  the  red  cock  on  your  roof  is  a  threat  of  the  incen-
-diary ;  '  ein  roten  han  aufs  stadel  setzen,'  H.  Sachs  iv.  3,  Q'o'-^ ;
+house  :  '  I'll  set  the  red  cock  on  your  roof  is  a  threat  of  the  incendiary ;  '  ein  roten  han  aufs  stadel  setzen,'  H.  Sachs  iv.  3,  Q'o'-^ ;
 voter  schin,  Gudr.  786,  2.
 
 An  antique  heathen  designation  of  the  great  World-fire,  ON.
@@ -8499,8 +7909,6 @@ to  be  ligni  perditor,  as  fire  in  general  is  also  called  haul  vidar,
 
 1  Names  for  it,  Gramm.  3,  352  ;  Eddie  names,  Sffim.  50'',  Su.  187-8.
 
-
-602  ELEMENTS.
 
 grand  vicfar  (bane,  crusher,  of  wood),  Sn.  126,  her  alls  vi&ar,
 Ssem.  228*^.  Another  difficult  expression  is  eikin  fur,  Sasm.  83''.
@@ -8516,8 +7924,7 @@ doubt  included  in  that  of  the  light-giving  and  warming  sun,  as
 Julius  Caesar  (p.  103  above)  names  Sol  and  Vidcanus  together,
 and  the  Edda  Jire  and  sun,  praising  them  both  as  supreme  :
 '  eldr  er  beztr  med  yta  sonum,  ok  solar  syn/  fire  is  best  for  men,
-Saem.  18^^  (as  Pindar  says  water  is).  In  Superst.  B,  17,  I  under-
-stand '  observatio  pagana  in  foco'  of  the  flame  on  the  hearth  or  in
+Saem.  18^^  (as  Pindar  says  water  is).  In  Superst.  B,  17,  I  understand '  observatio  pagana  in  foco'  of  the  flame  on  the  hearth  or  in
 the  oven:  where  a  liearth-fire  burns,  no  lightning  strikes  (Sup.  I,
 126)  ;  when  it  crackles,  there  will  be  strife  (322.  534).  Compare
 with  this  the  Norwegian  exposition  (p.  242)  ;  so  long  as  a  child
@@ -8557,8 +7964,7 @@ into  the  middle  of  the  fire,  to  stifle  it,  but  the  flame  hurled  hac
 the  cloth.  The  cloth  remained  uninjured,  but  had  a  red  streak
 running  through  it.  Similar  to  this  was  the  casting  of  clothes
 into  the  lake  (p.  596-7).  Fire  breaking  out  of  the  earth  (iarS-
-eldr)  is  mentioned  several  times  in  Icelandic  sagas  :  in  the  even-
-ing you  see  a  great  horrible  man  rowing  to  land  in  an  iron  boat,
+eldr)  is  mentioned  several  times  in  Icelandic  sagas  :  in  the  evening you  see  a  great  horrible  man  rowing  to  land  in  an  iron  boat,
 and  digging  under  the  stable  door;  in  the  night  earth-fire  breaks
 out  there,  and  consumes  every  dwelling,  Landn.  2,  5;  'iar^eldr
 rann  ofan,'  4,  12  (see  Suppl.).
@@ -8568,19 +7974,16 @@ men  and  been  propagated  from  one  fire  to  another,  was  thought
 unserviceable  for  sacred  uses  ;  as  holy  water  had  to  be  drawn
 fresh  from  the  spring,  so  it  made  all  the  difference,  if  instead  of
 the  profaned  and  as  it  were  worn  out  flame,  a  new  one  were  used.
-This  was  called  wild  fire,  as  opposed  to  the  tame  and  domesti-
-cated. So  heroes  when  they  fought,  '  des  fiurs  uz  den  ringen
+This  was  called  wild  fire,  as  opposed  to  the  tame  and  domesticated. So  heroes  when  they  fought,  '  des  fiurs  uz  den  ringen
 (harness)  hiuwen  si  genuoc,*  Nib.  2215,  1  ;  uz  ir  helmen  daz
 wilde  fiwer  von  den  slegen  vuor  entwer,'  Alt.  bl.  1,  339  ;  '  daz
-fiur  loilde  loadlende  druze  vluoc,'  Lanz.  5306  ;  '  si  sluogen  uf  ein-
-ander,  daz  wilde  fiur  erschien,^  Etzels  hofh.  168  (see  Suppl.).
+fiur  loilde  loadlende  druze  vluoc,'  Lanz.  5306  ;  '  si  sluogen  uf  einander,  daz  wilde  fiur  erschien,^  Etzels  hofh.  168  (see  Suppl.).
 Fire  struck  or  scraped  out  of  stone  might  indeed  have  every
 claim  to  be  called  a  fresh  one,  but  either  that  method  seemed
 too  common  (flainmam  concussis  ex  more  lapidibus  elicere.  Vita
 Severini  cap.  14),  or  its  generation  out  of  wood  was  regarded  as
 more  primitive  and  hallowed.  If  by  accident  such  wild  fire  have
-arisen  under  the  carpenter's  hand  in  driving  a  nail  into  the  mor-
-tised timbers  of  a  new  house,  it  is  ominous  of  danger  (Superst.  I,
+arisen  under  the  carpenter's  hand  in  driving  a  nail  into  the  mortised timbers  of  a  new  house,  it  is  ominous  of  danger  (Superst.  I,
 411.  500.  707).  But  for  the  most  part  there  was  a  formal  kindling
 of  flame  by  the  rubbing  of  wood,  for  which  the  name  known  from
 the  oldest  times  was  notfeuer  (need  fire),  and  its  ritual  can  with
@@ -8590,10 +7993,7 @@ So  far  back  as  in  the  Indiculus  superstit.  15,  we  have  mention
 'de  i(jne fiicato  de  ligno,  id  e^i  nodfijr' ;  the  Capitulare  Carlomani
 
 
-604  ELEMENTS.
-
-of  742  §  5  (Pertz  3,  17)  forbids  Mllos  sacrilegos  ignes  quos  nied-
-fijr  vocant.^
+of  742  §  5  (Pertz  3,  17)  forbids  Mllos  sacrilegos  ignes  quos  niedfijr  vocant.^
 
 The  preparation  of  needfire  is  variously  described  :  I  think
 it  worth  the  while  to  bring  all  such  accounts  together  in  this
@@ -8604,8 +8004,7 @@ circumligant,  illiimque  hue  illuc  ducunt,  donee  ignem  eoneipiat  :
 quern  stipula  lignisque  aridioribus  aggestis  curate  fovent,  ac
 cineres  collectos  supra  olera  spargunt,  hoc  medio  erucas  abigi
 posse  inani  superstitione  credentes.  Eum  ergo  ignem  nodfeur  et
-nodfyr,  quasi  necessarium  ignem,  vocant.^ — Joh.  Reiskius/  in  Uu-
-tersuchung  des  notfeuers,  Frankf.  and  Leipz.  1696,  8.  p.  51  :
+nodfyr,  quasi  necessarium  ignem,  vocant.^ — Joh.  Reiskius/  in  Uutersuchung  des  notfeuers,  Frankf.  and  Leipz.  1696,  8.  p.  51  :
 'If  at  any  time  a  grievous  murrain  have  broke  out  among
 cattle  great  or  small,  and  they  have  suffered  much  harm
 thereby ;  the  husbandmen  with  one  consent  make  a  nothfiir
@@ -8653,8 +8052,7 @@ lighted  between  the  gates,  and  all  the  oxen  driven  through  it ;  but
 before  the  fire  bo  kindled,  every  citizen  shall  put  his  own  fire  clean
 out,  and  afterward  fetch  him  fire  again  from  the  other/     Kuhn's
 Miirkische  sagen  p.   369   informs  us,  that  in  many  parts  of  the
-Mark  the  custom  prevails  of  making  a  nothfeuer  on  certain  occa-
-sions, and  particulai'ly  when  there  is  disease  among  swine.    Before
+Mark  the  custom  prevails  of  making  a  nothfeuer  on  certain  occasions, and  particulai'ly  when  there  is  disease  among  swine.    Before
 sunrise  two  stakes  of  dry  wood  are  dug  into  the  ground  amid  solemn
 silence,  and  hempen  ropes  that  go  round  them   are  pulled  back
 and  forwards  till  the  wood  catches  fire  ;  the  fire  is  fed  with  leaves
@@ -8669,8 +8067,7 @@ driven.2     The  established  procedure  in  the   matter  is  this.     The
 farmers   and   all   the   parish  assemble,   each  inhabitant  receives
 notice  to  extinguvih  every  hit  of  fire  in  his  house,  so  that  not  a
 spark  is  left  alight  in  the  whole  village.     Then  old  and  young
-walk  to  a  hollow  way,  usually  towards  evening,  the  women  carry-
-ing linen,  the  rjen  wood  and  tow.     Two  oaken  stakes  are  driven
+walk  to  a  hollow  way,  usually  towards  evening,  the  women  carrying linen,  the  rjen  wood  and  tow.     Two  oaken  stakes  are  driven
 into  the  ground  a  foot  and  a  half  apart,  each  having  a  hole  on  the
 inner  side,  into  which  fits  a  cross-bar  as  thick  as  an  arm.     The
 holes  are  stuffed  with  linen,  then  the  cross-bar  is  forced  in  as
@@ -8681,8 +8078,6 @@ tight  as  possible,  the  heads  of  the  stakes  being  held  together  with
 ^  Ny*  a  word  about  sheep  :  supposing  cocks  and  hens  wore  likewise  hunted  over
 the  cosi'is,  it  would  explain  a  hitherto  unexplained  proverb  (Keiuhart  xciv.).
 
-
-606  ELEMENTS.
 
 cords.  About  tlie  smooth  round  cross-bar  is  coiled  a  rope,  whose
 long  ends,  left  hanging  on  both  sides,  are  seized  by  a  number  of
@@ -8714,8 +8109,7 @@ least.  Thus,  in  the  Halberstadt  country  tho  ropes  of  the  wooden
 roller  are  pulled  hy  two  chaste  hoys.^  Need  fires  have  remained  in
 use  longer  and  more  commonly  in  North  Germany,^  yet  are  not
 quite  unknown  in  the  South,  Schmeller  and  Stalder  are  silent,
-but  in  Appenzell  the  country  children  still  havt^  a  game  of  o-uh-
-bing  a  rope  against  a  stick  till  it  catches  fire :  tiiis  they  call  '  de
+but  in  Appenzell  the  country  children  still  havt^  a  game  of  o-uhbing  a  rope  against  a  stick  till  it  catches  fire :  tiiis  they  call  '  de
 tilfel  hale/  unmanning  the  devil,  despoiling  him  of  his  strength.^
 
 '  Is  there  not  also  a  brand  or  some  light  carried  home  for  a  redistribution  of
@@ -8736,8 +8130,7 @@ NEED-FIRE.  607
 
 Bat  Tobler  252^  says,  what  boys  call  de  tilfel  Jidla  is  spinning  a
 pointed  stick,  with  a  string  coiled  round  it,  rapidly  in  a  wooden
-socket,  till  it  takes  fire.  The  name  may  be  one  of  those  innu-
-merable allusions  to  Loki,  the  devil  and  fire-god  (p.  242).  Nic.
+socket,  till  it  takes  fire.  The  name  may  be  one  of  those  innumerable allusions  to  Loki,  the  devil  and  fire-god  (p.  242).  Nic.
 Gryse,  in  a  passage  to  be  quoted  later,  speaks  of  sawing  fire  out
 of  wood,  as  we  read  elsewhere  of  symbolically  sawing  the  old
 woman  in  two.  The  Practica  of  Berthol.  Carrichter,  phys.  in
@@ -8783,8 +8176,6 @@ contained  from  the  first  the  notion  of  stress  and  pressure  (conf.  Gra
 "  Ihre's  De  superstit.  p.  98,  and  Glossary  sub.  v.  wredeld.     Finn.  Magn.,
 
 
-608  ELEMENTS.
-
 fruit-trees  or  nets  fumigated  with  it  became  tlie  more  productive
 of  fruit  or  fish.  On  this  fumigation  with  widen  eld,  and  on
 driving  the  cattle  out  over  such  smoke,  conf.  Superst.  Swed.  89.
@@ -8800,27 +8191,22 @@ tree,  and  then  needfire  can  be  got  from  it ;  did  they  rub  it  only
 out  of  windfall  wood  ?  or  does  striking  here  not  mean  felling  ?
 
 Of  more  significance  are  the  Scotch  and  Irish  procedures,
-which  I  am  glad  to  give  in  the  words  of  the  original  communica-
-tions. The  following  I  owe  to  the  kindness  of  Miss  Austin ;  it
+which  I  am  glad  to  give  in  the  words  of  the  original  communications. The  following  I  owe  to  the  kindness  of  Miss  Austin ;  it
 refers  to  the  I.  of  Mull  (off  the  W.  coast  of  Scotland),  and  to
 the  year  1767.  'In  consequence  of  a  disease  among  the  black
 cattle  the  people  agreed  to  perform  an  incantation,  though  they
-esteemed  it  a  wicked  thing.  They  carried  to  the  top  of  Carn-
-moor  a  ivheel  and  nine  spindles  of  oak  wood.  They  extinguished
+esteemed  it  a  wicked  thing.  They  carried  to  the  top  of  Carnmoor  a  ivheel  and  nine  spindles  of  oak  wood.  They  extinguished
 every  fire  in  every  house  within  sight  of  the  hill ;  the  wheel  was
 then  turned  from  east  to  west  over  the  nine  spindles  long  enough
 to  produce  fire  by  friction.  If  the  fire  were  not  produced  before
 noon,  the  incantation  lost  its  effect.  They  failed  for  several  days
 running.  They  attributed  this  failure  to  the  obstinacy  of  one
 householder,  who  would  not  let  his  fires  be  put  out  for  what  he
-considered  so  wrong  a  purpose.  However  by  bribing  his  ser-
-vants they  contrived  to  have  them  extinguished,  and  on  that
+considered  so  wrong  a  purpose.  However  by  bribing  his  servants they  contrived  to  have  them  extinguished,  and  on  that
 morning  raised  their  fire.  They  then  sacrificed  a  heifer,  cutting
 in  pieces  and  burning,  while  yet  alive,  the  diseased  part.  Then
-they  lighted  their  own  hearths  from  the  pile,  and  ended  by  feast-
-ing on  the  remains.  Words  of  incantation  were  repeated  by  an
-old  man  from  Morven,  who  came  over  as  master  of  the  cere-
-monies, and  who  continued  speaking  all  the  time  the  fire  was
+they  lighted  their  own  hearths  from  the  pile,  and  ended  by  feasting on  the  remains.  Words  of  incantation  were  repeated  by  an
+old  man  from  Morven,  who  came  over  as  master  of  the  ceremonies, and  who  continued  speaking  all  the  time  the  fire  was
 being  raised.  This  man  was  living  a  beggar  at  Bellochroy.
 Asked  to  repeat  the  spell,  he  said  the  sin  of  repeating  it  once  had
 
@@ -8839,14 +8225,12 @@ needfire  chiefly  as  a  remedy  for  preternatural  diseases  of  cattle
 brought  on  by  witchcraft.^  '  To  defeat  the  sorceries,  certain
 persons  who  have  the  power  to  do  so  are  sent  for  to  raise  the
 needfire.  Upon  any  small  river,  lake,  or  island,  a  circular  booth
-of  stone  or  turf  is  erected,  on  which  a  couple  or  rafter  of  a  hirch-
-tree  is  placed,  and  the  roof  covered  over.  In  the  centre  is  set  a
+of  stone  or  turf  is  erected,  on  which  a  couple  or  rafter  of  a  hirchtree  is  placed,  and  the  roof  covered  over.  In  the  centre  is  set  a
 perpendicular  post,  fixed  by  a  wooden  pin  to  the  couple,  the  lower
 end  being  placed  in  an  oblong  groove  on  the  floor ;  and  another
 pole  is  placed  liorizontally  between  the  upright  post  and  the  legs
 of  the  couple,  into  both  of  which  the  ends,  being  tapered,  are
-inserted.  This  horizontal  timber  is  called  the  auger,  being  pro-
-vided with  four  short  arms  or  spokes  by  which  it  can  be  turned
+inserted.  This  horizontal  timber  is  called  the  auger,  being  provided with  four  short  arms  or  spokes  by  which  it  can  be  turned
 round.  As  many  men  as  can  be  collected  are  then  set  to  work,
 having  first  divested  themselves  of  all  kinds  of  metal,  and  two  at
 a  time  continue  to  turn  the  pole  by  means  of  the  levers,  while
@@ -8878,14 +8262,11 @@ seems  to  favour  the  old  etymology  of  nothfeuer,  unless  it  be  simply  
 the  Engl,  nccdiiio  [which  itself  may  stand  for  i/icutMreJ .
 
 
-610  ELEMENTS
-
 thereof  produced  fire ;  and  from  this  forced  fire  each  famiJij  is
 su-pplied  with  new  fire,  which  is  no  sooner  kindled  than  a  -pot  full
 of  water  is  quickly  set  on  it,  and  afterwards  sprinkled  upon  the
 people  infected  with  the  plague,  or  upon  the  cattle  that  have  the
-murrain.  And  this  they  all  say  they  find  successful  by  ex-
-perience :  it  was  practised  on  the  mainland  opposite  to  the  south
+murrain.  And  this  they  all  say  they  find  successful  by  experience :  it  was  practised  on  the  mainland  opposite  to  the  south
 of  Skye,  within  these  thirty  years/  As  in  this  case  there  is  water
 boiled  on  the  frictile  fire,  and  sprinkled  with  the  same  effect,  so
 Eccard  (Fr.  or.  \,  425)  tells  us,  that  one  Whitsun  morning  he  saw
@@ -8914,8 +8295,7 @@ three  days,  during  which  the^res  are  put  out  in  all  houses.  On
 the  fourth  morning  the  chief  priest  by  rubbing  two  dry  sticks
 together  lights  a  new  clean  fire,  which  is  distributed  among  all
 the  dwellings ;  not  till  then  do  the  women  carry  home  the  new
-corn  and  fruits  from  the  harvest  field.^  The  Arabs  have  for  fire-
-friction  two  pieces  of  wood  called  March  and  Aphar,  the  one
+corn  and  fruits  from  the  harvest  field.^  The  Arabs  have  for  firefriction  two  pieces  of  wood  called  March  and  Aphar,  the  one
 male,  the  other  female.  The  Chinese  say  the  emperor  Sui  was
 the  first  who  rubbed  wood  against  wood ;  the  inconvenient
 method  is  retained  as  a  holy  one.  Indians  and  Persians  turn
@@ -8940,9 +8320,7 @@ till  it  gave  out  sparks.  The  act  of  catching  the  fire  in  a
 sieve,  and  so  conveying  it  into  the  temple,  is  suggestive  of  a
 similar  carrvinar  of  water  in  a  sieve,  of  which  there  is  some
 account  to  be  given  further  on.  Plutarch  (in  Numa  9)  makes
-out  that  new  fire  was  obtained  not  by  friction,  but  by  in-
-tercepting the  sun's  rays  in  clay  vessels  destined  for  the  pur-
-pose. The  Greeks  worshipped  Hestia  as  the  pure  hearth-flame
+out  that  new  fire  was  obtained  not  by  friction,  but  by  intercepting the  sun's  rays  in  clay  vessels  destined  for  the  purpose. The  Greeks  worshipped  Hestia  as  the  pure  hearth-flame
 itself.^  But  Lemnos,  the  island  on  which  Zeus  had  flung  down
 the  celestial  fire-god  Hephsestus,^  harboured  a  fire-worship  of
 its  own.  Once  a  year  every  fire  was  extinguished  for  nine  days,
@@ -8954,8 +8332,7 @@ longer  holy  enough ;  by  doing  without  it  altogether  for  a  time,
 men  would  learn  to  set  the  true  value  on  the  element  (see
 Suppl.).3  Like  Vesta,  St.  Bridget  of  Ireland  (d.  518  or  521)
 had  a  perpetual  fire  maintained  in  honour  of  her  near  Kildare  ;  a
-wattled  fence  went  round  it,  which  none  but  women  durst  ap-
-proach ;  it  was  only  permissible  to  blow  it  with  bellows,  not  with
+wattled  fence  went  round  it,  which  none  but  women  durst  approach ;  it  was  only  permissible  to  blow  it  with  bellows,  not  with
 the  mouth.*     The  mode  of  generating  it  is  not  recorded.
 
 The  wonderful  amount  of  harmony  in  these  accounts,  and  the
@@ -8974,8 +8351,6 @@ caught.     Kimcs  pp.  6-22.
 *  Acta  sanctor.,  calend.  Febr.  p.  112".
 
 
-612  ELEMENTS.
-
 spokes:  Hliet  niugenspetze  fial'  survives  in  the  Fi-isian  laws,  those
 nine  oaken  spindles  whose  friction  against  the  nave  produced  fire
 signify  the  nine  spokes  standing  out  of  the  nave,  and  the  same
@@ -8993,8 +8368,7 @@ wheel  to  have  been  the  means  of  generating  the  fire,  of  which  it
 is  true  there  is  nothing  said.  In  any  case  we  have  here  the  use
 of  a  cartwheel  to  feed  a  festal  flame.
 
-If  the  majority  of  the  accounts  quoted  limit  the  use  of  need-
-fire  to  an  outbreak  of  murrain,  yet  some  of  them  expressly  inform
+If  the  majority  of  the  accounts  quoted  limit  the  use  of  needfire  to  an  outbreak  of  murrain,  yet  some  of  them  expressly  inform
 us  that  it  was  resorted  to  at  stated  times  of  the  year,  especially
 Midsummer,  and  that  the  cattle  were  driven  through  the  flames  to
 guard  them  bei^rehand  against  future  sicknesses.  Nicolaus  Gryse
@@ -9029,8 +8403,7 @@ numerous  inscriptions  (Forcellini  sub  v.) .  The  present  custom
 is  thus  described  by  Armstrong  sub  v.  bealtainn :  '  In  some  parts
 of  the  Highlands  the  young  folks  of  a  hamlet  meet  in  the  moors
 on  the  first  of  May.  They  cut  a  table  in  the  green  sod,  of  a
-round  figure,  by  cutting  a  trench  in  the  ground  of  such  circum-
-ference as  to  hold  the  whole  company.  They  then  kindle  a  fire,
+round  figure,  by  cutting  a  trench  in  the  ground  of  such  circumference as  to  hold  the  whole  company.  They  then  kindle  a  fire,
 and  dress  a  repast  of  eggs  and  milk  in  the  consistence  of  a
 custard.  They  knead  a  cake  of  oatmeal,  which  is  toasted  at  the
 embers  against  a  stone.  After  the  custard  is  eaten  up,  they
@@ -9045,16 +8418,14 @@ mean  to  implore  in  rendering  the  year  'productive.  The  devoted
 person  is  compelled  to  leap  three  times  over  the  flames.'  Here  the
 reference  to  the  worship  of  a  deity  is  too  plain  to  be  mistaken  :
 we  see  by  the  leaping  over  the  flame,  that  the  main  point  was,  to
-select  a  human  being  to  propitiate  the  god  and  make  him  merci-
-ful, that  afterwards  an  animal  sacrifice  was  substituted  for  him,
+select  a  human  being  to  propitiate  the  god  and  make  him  merciful, that  afterwards  an  animal  sacrifice  was  substituted  for  him,
 and  finally,  nothiug  remained  of  the  bodily  immolation  but  a  leap
 through  the  fire  for  man  and  beast.  The  holy  rite  of  friction  is
 not  mentioned  here,  but  as  it  was  necessary  for  the  needfire  that
 purged  pestilence,  it  must  originally  have  been  much  more  in
 requisition  at  the  great  yearly  festival.
 
-The  earliest  mention  of  the  beiltine  is  found  in  Cormac,  arch-
-bishop of  Cashel  (d.  908) .  Two  fires  were  lighted  side  by  side,
+The  earliest  mention  of  the  beiltine  is  found  in  Cormac,  archbishop of  Cashel  (d.  908) .  Two  fires  were  lighted  side  by  side,
 and  to  pass  unhurt  between  them  was  wholesome  for  men  and
 cattle.  Hence  the  phrase,  to  express  a  great  danger  :  'itir  dha
 iheiune  boil,'    i.e.    between   two    fires. ^     That   the  sacrifice  was
@@ -9064,21 +8435,16 @@ iheiune  boil,'    i.e.    between   two    fires. ^     That   the  sacrifice  
 -  O'l'lahcrty  iu  Transact,  of  Irish  Acad.,  vol.  II,  pp.  100.  122-3.
 
 
-614  ELEMENTS.
-
 strictly  superintended  by  priests,  we  are  expressely  assured  by
 Usher  (Trias  thaumat.  p.  125),  who  founds  on  Evinus :  Lege
-etiam  severissima  cavebatur,  ut  omnes  ignes  per  universas  re-
-giones  ista  nocte  exstinguerentur,  et  nuUi  liceat  ignem  reaccen-
-dere  nisi  prius  Temoriae  (Tighmora,  whom  we  know  from  Ossian)
+etiam  severissima  cavebatur,  ut  omnes  ignes  per  universas  regiones  ista  nocte  exstinguerentur,  et  nuUi  liceat  ignem  reaccendere  nisi  prius  Temoriae  (Tighmora,  whom  we  know  from  Ossian)
 a  magis  rogus  sacrificiorum  exstrueretur ,  et  quicunque  hanc  legem
 in  aliquo  transgrederetur  non  alia  mulcta  quam  capitis  supplicio
 commissi  delicti  poenam  luebat.^
 
 Leo  (Malb.  gl.  i,  35)  has  ingeniously  put  forward  an  antithesis
 between  a  god  of  war  Beat  or  Bael,  and  a  god  of  peace  Siglie  or
-Sithich ;  nay,  by  this  distinction  he  explains  the  brothers  Bel-
-lovesus  and  Sigovesus  in  Livy  5,  34-  as  servants  (vesus  =  Gaelic
+Sithich ;  nay,  by  this  distinction  he  explains  the  brothers  Bellovesus  and  Sigovesus  in  Livy  5,  34-  as  servants  (vesus  =  Gaelic
 uis,  uais,  minister)  of  Beal  and  Sighe,  connecting  Sighe  with
 that  silent  peaceful  folk  the  elves,  who  are  called  sighe  (supra,
 p.  444 n.)  :  to  Beal  were  offered  the  May  fires,  healtine,  to  Sighe
@@ -9094,8 +8460,7 @@ our  research,  that  in  the  Rhine  districts  we  come  upon  a  Pfultag,
 Pulletag  (P.^s  day),  which  fell  precisely  on  the  2nd  of  May
 (Weisth.  2,  8.  3,  748).  We  know  that  our  forefathers  very
 generally  kept  the  beginning  of  May  as  a  great  festival,  and  it  is
-still  regarded  as  the  trysting-time  of  witches,  i.e.  once  of  wise-
-women  and  fays ;  who  can  doubt  that  heathen  sacrifices  blazed
+still  regarded  as  the  trysting-time  of  witches,  i.e.  once  of  wisewomen  and  fays ;  who  can  doubt  that  heathen  sacrifices  blazed
 that  day  ?  Pholtag  then  answers  to  Bealteine,^  and  moreover
 Baldag  is  the  Saxon  form  for  Paltar  (p.  229).
 
@@ -9134,26 +8499,21 @@ and   wood,  amidst  a   concourse   and  jubilation,  not  only  of  the
 young,  but  of  many  grown-up  people.     On  the  Weser,  especially
 in  Schaumburg,  they  tie  up  a  tar-barrel  on  a  fir-tree  wrapt  round
 with  straw,  and  set  it  on  fire  at  night.     Men  and  maids,  and  all
-who  come,  dance  exulting  and  singing,  hats  are  waved,  handker-
-chiefs thrown  into  the  fire.     The  'm,nuntains  all  round  are  lighted
-up,  and  it  is  an  elevating  spectacle,  scarcely  paralleled  by  any-
-thing else,  to  survey  the  country  for  many  miles  round  from  one
+who  come,  dance  exulting  and  singing,  hats  are  waved,  handkerchiefs thrown  into  the  fire.     The  'm,nuntains  all  round  are  lighted
+up,  and  it  is  an  elevating  spectacle,  scarcely  paralleled  by  anything else,  to  survey  the  country  for  many  miles  round  from  one
 of  the  higher  points,  and  in  every  direction  at  once  to  see  a  vast
 number  of  these  bonfires,  brighter  or  fainter,  blazing  up  to  heaven.
 In  some  places  they  marched  up   the  hill  in  stately  procession,
 carrying  white  rods ;  by  turns  they  sang  Easter  hymns,  grasping
-each  other's  hands,  and  at  the  Hallelujah  clashed  their  rods  to-
-gether.    They  liked  to  carry  some  of  the  fire  home  with  them.^
+each  other's  hands,  and  at  the  Hallelujah  clashed  their  rods  together.    They  liked  to  carry  some  of  the  fire  home  with  them.^
 
-No  doubt  we  still  lack  many  details  as  to  the  manner  of  keep-
-ing Easter  fires  in  various  localities.  It  is  worth  noting,  that  at
+No  doubt  we  still  lack  many  details  as  to  the  manner  of  keeping Easter  fires  in  various  localities.  It  is  worth  noting,  that  at
 Briiunrode  in  the  Harz  the  fires  are  lighted  at  evening  twilight
 
 ^  Job.  Timeus  On  the  Easter  fire,  Hamb.  1590 ;  a  reprint  of  it  follows  Reiske's
 Notfeuer.  Letzner's  Historia  S.  Bonif.,  Hildesb.  1602.  4,  cap.  12.  Leiikf<ld's
 Autiq.  gandersb.  pp.  4-5.  Eberb.  Baring's  Bescbr.  der  (Lauensteincr)  Saala,
-1744.  2,  96.  Hamb.  mag.  26,  302  (1762).  Hannov.  mag.  1766,  p.  216.  Batb-
-lef's  Diepbolz,  Brem.  1767.  3,  36-42.  (Pratje's)  Bremen  und  Verdon  1,  165.
+1744.  2,  96.  Hamb.  mag.  26,  302  (1762).  Hannov.  mag.  1766,  p.  216.  Batblef's  Diepbolz,  Brem.  1767.  3,  36-42.  (Pratje's)  Bremen  und  Verdon  1,  165.
 Bragur  vi.  1,  35.  Geldersche  volksalmauak  voor  1835,  p.  19.  Easter  tire  is  in
 Danish  prj^-sA-e-^Zi/s  or  -bhtat ;  whether  Sweden  has  the  custom  I  do  not  know,  but
 Olaus  Magnus  15,  5  affirms  that  Scandinavia  has  Midsummer  tires.  Still  more
@@ -9162,8 +8522,6 @@ from  Carinthia  in  Sartori'a  Keise  2,  350.
 
 VOL.    ir,  N
 
-
-616  ELEMENTS.
 
 of  the  first  Easter  day,  but  before  that,  old  and  young  sally  out
 of  that  village  and  Griefenhagen  into  the  nearest  woodlands  to
@@ -9189,10 +8547,8 @@ is  true  that  Boniface,  ep.  87  (Wiirdtw.),  calls  it  ignis  paschalis,^
 and  such  Easter  lights  are  still  mentioned  in  the  16th  century.'*
 Even  now  in  the  Hildesheim  country  they  light  the  lamp  on
 Maundy  Thursday,  and  that  on  Easterday,  at  an  Easter  fire  which
-has  been  struck  ivith  a  steel.  The  people  flock  to  this  fire,  carry-
-ing oaken  crosses  or  simply  crossed  sticks,  which  they  set  on  fire
-and  then  preserve  for  a  whole  year.  But  the  common  folk  dis-
-tinguish between  this  fire  and  the  wild  fire  elicited  by  rubbing
+has  been  struck  ivith  a  steel.  The  people  flock  to  this  fire,  carrying oaken  crosses  or  simply  crossed  sticks,  which  they  set  on  fire
+and  then  preserve  for  a  whole  year.  But  the  common  folk  distinguish between  this  fire  and  the  wild  fire  elicited  by  rubbing
 wood.  Jiiger  (Ulm,  p.  521}  speaks  of  a  consecration  of  fire  and
 of  logs.
 
@@ -9204,8 +8560,7 @@ Rheda),  on  the  same  Eetberg  the  people  '  did  after  sunset  on  Easter 
 within  the  memory  of  man,  hold  the  Easter  fire,  which  the  men  of  old  named
 bocks-thorn.'  On  the  margin  stands  his  old  authority  again,  the  lost  Conradus
 Fontanus  (supra  p.  190).  How  the  fire  itself  should  come  by  the  name  of  buck's  or
-goat's  thorn,  is  hard  to  see  ;  it  is  the  name  of  a  shrub,  the  tragacanth.  Was  bocks-
-thorn  thrown  into  the  Easter  flames,  as  certain  herbs  were  into  the  Midsummer
+goat's  thorn,  is  hard  to  see  ;  it  is  the  name  of  a  shrub,  the  tragacanth.  Was  bocksthorn  thrown  into  the  Easter  flames,  as  certain  herbs  were  into  the  Midsummer
 fire?
 
 3  N.B.,  some  maintain  that  the  Easter  candle  was  ignited  by  burning-glasses
@@ -9217,8 +8572,7 @@ Zober,  1837,  p.  10.
 
 EASTER'  FIRES.  617
 
-Almost  everyvvliere  during  the  last  liuudred  yeare  tlie  feeble-
-ness of  governments  has  deprived  the  people  of  their  Easter  fires
+Almost  everyvvliere  during  the  last  liuudred  yeare  tlie  feebleness of  governments  has  deprived  the  people  of  their  Easter  fires
 (see  Suppl.).!
 
 Midsummer  Fires. ^ — In  our  older  speech^  the  most  festive
@@ -9235,8 +8589,7 @@ sunewenden  tac,'  Ls.  2,  708,  coincides  with  this,  the  fires  in
 question  are  called  in  Up.  German  documents  of  the  14- 15th
 century  sunwentfeuer,  sunbentfewry  and  even  now  among  the
 Austrian  and  Bavarian  peasantry  sunciwetsfoir,  sunwentsfeuer .
-H.  Sachs  1,423*^:  'auch  schiirn  die  bubn  (lads  poke)  sunwent-
-feuer.' At  this  season  were  held  great  gatherings  of  the  people  :
+H.  Sachs  1,423*^:  'auch  schiirn  die  bubn  (lads  poke)  sunwentfeuer.' At  this  season  were  held  great  gatherings  of  the  people  :
 'die  nativitatis  S.  Johannis  baptistae  in  conventu  populi  maximo'
 (Pertz  2,  386) ;  this  was  in  860.  In  801  Charles  the  Great  kept
 this  festival  at  Eporedia,  now  Ivrea  (Pertz  1,  190.  223)  ;  and
@@ -9249,8 +8602,7 @@ when  the  flame  goes  out,  the  children  jiwip  over  the  glimmering
 coals;  formerly  grown-up  people  did  the  same.     In  Superst.  I,
 
 
-^  '  Judic.  inquiiy  resp.  the  Easter  fire  burned,  contr.  to  prohib.,  on  the  Kogeln-
-berg  near  Volkmarsen,  Apr.  9,  18.33,'  see  Niederhess.  wochenbl.  1834,  p.  2229''.
+^  '  Judic.  inquiiy  resp.  the  Easter  fire  burned,  contr.  to  prohib.,  on  the  Kogelnberg  near  Volkmarsen,  Apr.  9,  18.33,'  see  Niederhess.  wochenbl.  1834,  p.  2229''.
 The  older  proliibitions  allege  the  unchristian  character,  later  ones  the  waste  of
 timber.     Even  bonfires  for  a  victory  were  very  near  being  sujipressed.
 
@@ -9266,8 +8618,6 @@ guess  an  OHG.  sunnagaht.
 1401).
 
 
-'618  ELEMENTS.
-
 848  we  are  told  how  a  garland  is  plaited  of  nine  sorts  of  flowers.
 Reiske  (ut  supra,  p.  77)  says :  '  the  fire  is  made  under  the  open
 ■sky,  the  youth  and  the  meaner  folk  leap  over  it,  and  all  manner
@@ -9282,8 +8632,7 @@ They  invite  passers  by  to  have  a  leap,  who  pay  a  few  kreuzers
 for  the  privilege.  In  the  Fulda  country  also  the  boys  beg  for
 wood  to  burn  at  night,  and  other  presents,  while  they  sing  a
 rhyme  :  '  Da  kommen  wir  her  gegangen  Mit  spiessen  und  mit
-stangen,  Und  wollen  die  eier  (eggs)  langen.  Feuerrothe  bliime-
-lein.  An  der  erde  springt  der  wein,  Gebt  ihr  uns  der  eier  ein
+stangen,  Und  wollen  die  eier  (eggs)  langen.  Feuerrothe  bliimelein.  An  der  erde  springt  der  wein,  Gebt  ihr  uns  der  eier  ein
 Zum  Johaiinisfeiier,  Der  haber  is  gar  theuer  (oats  are  so  dear).
 Haberje,  haberju!  fri  fre  frid  !  Gebt  uns  doch  ein  schiet  (scheit,
 billet)!'  (J.  V.  u.  f.  Deutschl.  1790.  1,  313.)  Similar  rhymes
@@ -9295,15 +8644,13 @@ there  was  merry  leaping  over  the  sonnenwendefeuer,  and  mead  was
 drunk  over  it,'  is  Denis's  recollection  of  his  youthful  days  (Lesefr.
 1,  130).  At  Ebingen  in  Swabia  they  boiled  pease  over  the  fire,
 which  were  laid  by  and  esteemed  wholesome  for  bruises  and
-wounds  (Schmid's  Schwab,  id.  167);  conf.  the  boiling  over  ueed-
-fires  (p.  610).  Greg.  Strigenitius  (b.  1548,  d.  1603),  in  a  sermon
+wounds  (Schmid's  Schwab,  id.  167);  conf.  the  boiling  over  ueedfires  (p.  610).  Greg.  Strigenitius  (b.  1548,  d.  1603),  in  a  sermon
 preached  on  St.  John's  day  and  quoted  in  Ecc.  Fr.  or.  i.  425,
 observes,  that  the  people  (in  Meissen  or  Thuringia)  dance  and
 sing  round  the  Midsummer  fires ;  that  one  man  threw  a  horse's
 head  into  the  flame,  meaning  thereby  to  force  the  witches  to  fetch
 some  of  the  fire  for  themselves.  Seb.  Frank  in  his  Weltbuch
-5P :  '  On  St.  John's  day  they  make  a  simet  flre  [corrupt,  of  sun-
-went],  and  moreover  wear  upon  them,  I  know  not  from  what
+5P :  '  On  St.  John's  day  they  make  a  simet  flre  [corrupt,  of  sunwent],  and  moreover  wear  upon  them,  I  know  not  from  what
 superstition,  quaint  ivreaths  of  mug  wort  and  monlis-liood ;  nigh
 every  one  hath  a  blue  plant  named  larkspur  in  hand,  and  whosu
 loohetli  into  the  fire  thro'  the  same,  hath  never  a  sore  eye  all  that
@@ -9318,8 +8665,7 @@ of  water  to  wash  away  with  them  all  misfortune  (p.  589).  But
 in  earlier  times  the  polite  world,  even  princes  and  kings,  took
 pai't  in  these  bonfires.  Peter  Herp's  Ann.  francof.  tell  us,  ad  an.
 1489  (Senkenb.  Sel.  2,  22) :  'In  vigilia  S.  Joh.  bapt.  rogus  ingens
-fuit  f actus  ante  domum  consuliim  inforo  (francofurtensi),  fuerunt-
-que  multa  vexilla  depicta  posita  in  struem  lignorum,  et  vexillum
+fuit  f actus  ante  domum  consuliim  inforo  (francofurtensi),  fueruntque  multa  vexilla  depicta  posita  in  struem  lignorum,  et  vexillum
 regis  in  supremo  positum,  et  circa  ligna  rami  virentes  positi.
 fuitque  magna  chorea  dominoriim,  rege  inspiciente/  At  Augsburg
 in  1497,  in  the  Emp.  Maximilian's  presence,  the  fair  Susanna
@@ -9329,8 +8675,7 @@ A  Munich  voucher  of  1401  renders  account :  '  umb  gi'as  und
 knechten,  die  dy  piink  ab  dem  haws  auf  den  margt  trugen
 (carried  benches  to  the  market-place)  an  der  sunbentnacht,  da
 herzog  Stephan  und  sein  gemachel  (consort)  und  das  frawel  auf
-dem  margt  tanzten  mit  deu  purgerinen  hei  dem  sunhentfwr,'  (Sut-
-ner's  Berichtig.  p.  107|.  On  St.  John's  eve  1578,  the  Duke  of
+dem  margt  tanzten  mit  deu  purgerinen  hei  dem  sunhentfwr,'  (Sutner's  Berichtig.  p.  107|.  On  St.  John's  eve  1578,  the  Duke  of
 Liegnitz  had  a  bonfire  made  on  the  Gredisherg,  as  herr  Gotsch
 did  on  the  Kynast,  at  which  the  Duke  himself  was  present  with
 his  court  (Schweinichen  2,  347).
@@ -9359,8 +8704,6 @@ Why  should  gladness  perish  ?  ' — Suppl.]
 German,  volk.  1,  102.
 
 
-620  ELEMENTS.
-
 SO  that  none  of  the  wood  is  left  in  sights  a  strong  pole  is  passed
 through  the  middle^  which  sticks  out  a  yard  on  each  side,  and  is
 grasped  by  the  guiders  of  the  wheel ;  the  remainder  of  the  straw
@@ -9385,8 +8728,7 @@ Paulsberg  (see  Suppl.).^
 The  custom  of  Midsummer  fires  and  wheels  in  France  is
 attested  even  by  writers  of  the  12th  and  13th  centuries,  John
 Beleth,  a  Parisian  divine,  who  wrote  about  1162  a  Summa  de
-divinis  officiis,  and  William  Durantis,  b.  near  Beziers  in  Langue-
-doc,  about  1237,  d.  1296,  the  well-known  author  of  the  Rationale
+divinis  officiis,  and  William  Durantis,  b.  near  Beziers  in  Languedoc,  about  1237,  d.  1296,  the  well-known  author  of  the  Rationale
 divinor.  offic.  (written  1286;  conf,  viii.  2,  3  de  epacta).  In  the
 Summa  (printed  at  Dillingen,  1572)  cap.  137,  fol.  256,  and  thence
 extracted  in  the  Rationale  vii.  14,  we  find:  'Feruntur  quoque
@@ -9413,8 +8755,7 @@ MIDSUMMER   FIRES.  621
 secundum  quod  ipse  testimonium  perhibet,  dicens  :  me  oportet
 minui,  ilium  autem  crescere/  Much  older,  but  somewhat  vague,
 is  the  testimony  of  Eligius  :  '  Nullus  in  festivitate  S.  Johannis
-vel  quibuslibet  sanctorum  solemnitatibus  solstitia  (?)  aut  valla-
-tiones  vel  saltationes  aut  casaulas  aut  cantica  diabolica  exerceat/^
+vel  quibuslibet  sanctorum  solemnitatibus  solstitia  (?)  aut  vallationes  vel  saltationes  aut  casaulas  aut  cantica  diabolica  exerceat/^
 
 In  great  cities,  Paris,  Metz,  and  many  more,  as  late  as  the
 15-16-1 7th  centuries,  the  pile  of  wood  was  reared  in  the  public
@@ -9469,8 +8810,6 @@ viit  hrinnenden  liehien  (with  burning  lights)  ;
 3  Millin's  Voyage  dans  le  midi  3,  28.     341-5.
 
 
-622  ELEMENTS.
-
 every  commune  looks  out  the  tallest  and  slenderest  tree,  a  pine  or
 fir  on  the  bills^  a  poplar  in  the  plains  ;  when  they  have  lopped
 all  the  boughs  off,  they  drive  into  it  a  number  of  wedges  a  foot
@@ -9484,14 +8823,12 @@ Strutt  ^  speaks  of  Midsummer  fires  in  England :  they  were
 lighted  on  Midsummer  Eve,  and  kept  up  till  midnight,  often  till
 cock-crow ;  the  youth  danced  round  the  flame,  in  garlands  of
 motherwort  and  vervain,  with  violets  in  their  hands.  In  Denmark
-they  are  called  Sanct  Hans  afteiis  hlits,  but  also  gadeild  (street-
-fire),  because  they  are  lighted  in  public  streets  or  squares,  and  on
+they  are  called  Sanct  Hans  afteiis  hlits,  but  also  gadeild  (streetfire),  because  they  are  lighted  in  public  streets  or  squares,  and  on
 hills.  [Is  not  gade  conn,  with  sunna-gaht,  p.  617  ?]  Imagining
 that  all  poisonous  plants  came  up  out  of  the  ground  that  night,
 people  avoided  lingering  on  the  grass ;  but  wholesome  plants
 (chamaemelum  and  bardanum)  they  hung  up  in  their  houses.
-Some  however  shift  these  street-fires  to  May-day  eve."  Nor-
-way also  knows  the  custom:  'S.  Hans  aften  brandes  der  baal
+Some  however  shift  these  street-fires  to  May-day  eve."  Norway also  knows  the  custom:  'S.  Hans  aften  brandes  der  baal
 ved  alle  griner  (hedged  country-lane's),  hvilket  skal  fordrive  ondt
 (harm)  fra  creaturerne,^  Sommerfeldt's  Saltdalen,  p.  121.  But
 some  words  quoted  by  Hallager  p.  13  are  worth  noting,  viz.
@@ -9527,8 +8864,7 @@ los  Christianos  echan  juncia,  j  los  Moros  arraijhan,
 los  Judios  echan  eneas,  per  la  fiesta  mas  honrar.
 
 Here  nothing  is  said  of  fire/  but  we  are  told  that  the  Christians
-strew  rushes,  the  Moors  myrtle,  the  Jews  reeds  ;  and  the  throw-
-ing of  flowers  and  herbs  into  the  flame  seems  an  essential  pai-t
+strew  rushes,  the  Moors  myrtle,  the  Jews  reeds  ;  and  the  throwing of  flowers  and  herbs  into  the  flame  seems  an  essential  pai-t
 of  the  celebration,  e.g.  mugwort,  monks-hood,  larkspur  (p.  618),
 mullein  and  walnut  leaves  (p.  621).  Hence  the  collecting  of
 all  such  John' s-herhs  in  Germany  (Superst.  I,  157.  189.  190),  and
@@ -9545,8 +8881,7 @@ and  having  lighted  them,  they  first  march  round  the  sheepfolds
 and  cattle-pens,  then  go  up  the  hills  and  let  them  hum  out  (Vuk
 sub  V.Ivan  dan).  Other  Slav  countries  have  similar  observances.
 In  Sartori's  Journey  through  Carinthia  3,  349-50,  we  find  the
-rolling  of  St.  John^s  fiery  wheel  fully  described.  Midsummer-
-day  or  the  solstice  itself  is  called  by  the  Slovens  kres,  by  the
+rolling  of  St.  John^s  fiery  wheel  fully  described.  Midsummerday  or  the  solstice  itself  is  called  by  the  Slovens  kres,  by  the
 Ci'oats  hresz,  i.e.  striking  of  light,  from  kresati  (ignem  elicere),
 Pol.  krzesac  j  and  as  May  is  in  Irish  mi-na-bealtine  (fire-month),
 so  June  in  Slovenic  is  kresnik.  At  the  kres  there  were  leafs  of
@@ -9567,8 +8902,6 @@ tempestates.
 
 '  As  he  is  supposed  to  leap  three  times  at  Easter  (p.  291).
 
-
-624  ELEMENTS.
 
 Bohemians  used  to  lead  their  cows  over  it  to  protect  them  from
 witchcraft.  The  Russian  name  was  kupdlo,  which  some  explain
@@ -9596,13 +8929,10 @@ which  the  cattle  always  pass.
 
 Now  at  a  bird's-eye  view  we  perceive  that  these  fires  cover
 nearly  all  Europe,  and  have  done  from  time  immemorial.  About
-them  it  might  seem  a  great  deal  more  doubtful  than  about  water-
-lustration  (pp.  585.  590),  whether  they  are  of  heathen  or  of  Chris-
-tian origin.  The  church  had  appropriated  them  so  very  early  to
+them  it  might  seem  a  great  deal  more  doubtful  than  about  waterlustration  (pp.  585.  590),  whether  they  are  of  heathen  or  of  Christian origin.  The  church  had  appropriated  them  so  very  early  to
 herself,  and  as  Beleth  and  Durantis  shew,  had  made  them  point
 to  John  ;  the  clergy  took  some  part  in  their  celebration,  though
-it  never  passed  entirely  into  their  hands,  but  was  mainly  con-
-ducted by  the  secular  authorities  and  the  people  itself  (see  SuppL).
+it  never  passed  entirely  into  their  hands,  but  was  mainly  conducted by  the  secular  authorities  and  the  people  itself  (see  SuppL).
 
 Paciaudi"  labours  to  prove  that  the  fires  of  St.  John  have
 nothing  to  do  with  the  far  older  heathenish  fires,  but  have  sprung
@@ -9666,8 +8996,6 @@ the   infant  Demophoon   or  Triptolemus    was  put  in   the  fire  by
 shepherds,  Euss.  I'olos,  Boh.  U'eles,
 
 
-626  ELEMENTS.
-
 Ceres,  as  Achilles  was  by  Thetis,  to  insure  his  immortality.^  This
 fire-worship  seems  equally  at  home  in  Canaan,  Syria,  Greece  and
 Rome,  so  that  we  are  not  justified  in  pronouncing  it  a  borrowed
@@ -9694,8 +9022,7 @@ those  at  Midsummer.  We  are  at  liberty  to  derive  them  straight
 from  fires  of  our  native  heathenism  :  in  favour  of  this  view  is  the
 difference  of  day,  perhaps  also  their  ruder  form ;  to  the  last  there
 was  more  earnestness  about  them,  and  more  general  participation ;
-Midsummer  fires  were  more  elegant  and  tasteful,  but  latterly  con-
-fined to  children  and  common  people  alone,  though  princes  and
+Midsummer  fires  were  more  elegant  and  tasteful,  but  latterly  confined to  children  and  common  people  alone,  though  princes  and
 nobles  had  attended  them  before.  Mountain  and  hill  are  essential
 to  Easter  fires,  the  Solstitial  fire  was  frequently  made  in  streets
 and  marketplaces.  Of  jumping  through  the  fire,  of  flowers  and
@@ -9729,8 +9056,7 @@ large  oaken  log,  sprinkling  it  with  wine  and  oil ;  it  devolved  on
 the  master  of  the  house  to  set  light  to  it  (Millin  3,  336).  In
 Dauphine  they  called  it  chalendal,  it  was  lighted  on  Christmas
 eve  and  sprinkled  with  wine,  they  considered  it  holy,  and  had
-to  let  it  burn  out  in  peace  (Champol.-Figeac,  p.  124).  Christmas-
-tide  was  called  chalendes,  Prov.  calendas  ( Raynouard  1,  292),
+to  let  it  burn  out  in  peace  (Champol.-Figeac,  p.  124).  Christmastide  was  called  chalendes,  Prov.  calendas  ( Raynouard  1,  292),
 because  New-year  commenced  on  Dec.  25.  In  Germany  I  find
 the  same  custom  as  far  back  as  the  12th  cent.  A  document  of
 1184  (Kindl.'s  Miinst.  beitr.  ii.  urk.  34)  says  of  the  parish  priest
@@ -9740,8 +9066,7 @@ the  Christmas  block  is  mentioned  in  the  Weisthiimer  2,  264.  302.
 On  the  Engl,  yule-clog  see  Sup.  I,  1109,  and  the  Scandinav.
 julblok  is  well  known ;  the  Lettons  call  Christmas  eve  hlukhii
 wahkars,  block  evening,  from  the  carrying  about  and  burning  of
-the  log  (blukkis).i  Seb.  Frank  (Weltbuch  5P)  reports  the  fol-
-lowing Shrovetide  customs  from  Franconia:  'In  other  places  they
+the  log  (blukkis).i  Seb.  Frank  (Weltbuch  5P)  reports  the  following Shrovetide  customs  from  Franconia:  'In  other  places  they
 draw  a  fierij  i^lough  kindled  by  a  fire  cunningly  made  thereon,  till
 it  fall  in  pieces  (supra,  p.  264).  Item,  they  wrap  a  waggon-wheel
 all  round  in  straw,  drag  it  up  an  high  steep  mountain,  and  hold
@@ -9754,11 +9079,8 @@ upon  is  like  as  the  sun  were  running  from  the  sky.'     Such  a
 1  '  So  the  Lith.  A:a//tYZos  =  Chiistmas,  from  kalada,  a  log.' — Sltpl.
 
 
-628  ELEMENTS.
-
 '  hoop-triindUng  '  on  Shrove  Tuesday  is  mentioned  by  Schm.  1^
-544;  the  day  is  called  funlcentag  (spunk.),  in  the  Rheingau  hall-
-feuer,  in  France  '  la  fete  des  hrandoiis.'  ^  It  is  likely  that  similar
+544;  the  day  is  called  funlcentag  (spunk.),  in  the  Rheingau  hallfeuer,  in  France  '  la  fete  des  hrandoiis.'  ^  It  is  likely  that  similar
 fires  take  place  here  and  there  in  connexion  with  the  vintage.
 In  the  Voigtland  on  Mayday  eve,  which  would  exactly  agree  with
 the  bealteine,  you  may  see  fires  on  most  of  the  hills,  and  children
@@ -9770,8 +9092,7 @@ hand  round  (Vuk's  Montenegro,  105)  recalls  the  Gaelic  practice
 koleda,  Russ.  koliada,  answering  to  the  Lat.  calendae  and  the
 chalendes  above  ;  ^  they  had  games  and  dances,  but  the  burning
 of  fires  is  not  mentioned.  In  Lower  Germany  too  haland  had
-become  an  expression  for  feast  and  revelry  (we  hear  of  kaland-
-gilden,  kalandbriider),  without  limitation  to  Christmas  time,  or
+become  an  expression  for  feast  and  revelry  (we  hear  of  kalandgilden,  kalandbriider),  without  limitation  to  Christmas  time,  or
 any  question  of  fires  accompanying  it  (see  Suppl.).
 
 If  in  the  Mid.  Ages  a  confusion  was  made  of  the  two  Johns,
@@ -9806,8 +9127,7 @@ OVEN.      BONFIRE.  629
 
 door,  they  all  hend  the  knee,  take  one  bite  of  cake,  and  drinJc
 eldhorgssMl  (the  fire^s  health) ;  what  is  left  of  cake  or  drink  is
-cast  into  the  jiame.  An  unmistakeable  vestige  of  heathen  fire-
-worship,  shifted  to  the  christian  feast  of  candle-consecration  as
+cast  into  the  jiame.  An  unmistakeable  vestige  of  heathen  fireworship,  shifted  to  the  christian  feast  of  candle-consecration  as
 the  one  that  furnished  the  nearest  parallel  to  it.
 
 Our  ofen,  MHG.  oven,  OHG.  ovan,  ON.  ow.  represents  the  Goth.
@@ -9841,8 +9161,7 @@ set  on  fire,  like  the  plough  and  wheels  at  the  feast  of  St.  John
 
 '  Haus  und  kindenn.  2,  20.  3,  221.  Deutsche  sagen  no.  513.  A  children's
 game  has  the  rhyme  :  '  Dear  good  oven,  I  pray  to  thee,  As  thou  hast  a  wife,  send  a
-husband  to  me  ! '  In  the  comedy  '  Life  and  death  of  honest  Madam  Shit  (Schlam-
-pampe),'  Leipz.  1696  and  1750,  act  3,  sc.  8:  '  Come,  let  us  go  and  kneel  to  the  oven,
+husband  to  me  ! '  In  the  comedy  '  Life  and  death  of  honest  Madam  Shit  (Schlampampe),'  Leipz.  1696  and  1750,  act  3,  sc.  8:  '  Come,  let  us  go  and  kneel  to  the  oven,
 maybe  the  gods  will  hear  our  prayer.'  In  1558  one  who  had  been  robbed,  but  had
 sworn  secrecy,  told  his  story  to  the  Dutch-tile  oven  at  the  inn.  Rommeirs  Hess,
 gesch.  4,  note  p.  420.  Joh.  Miiller's  Hist.  Switz.  2,  92  (a.d.  1333).  '  Nota  est  in
@@ -9850,8 +9169,6 @@ eligiis  TibuUi  Januae  porsonificatio,  cui  amantes  dolores  suos  uarrant, 
 quam  increpant ;  erat  enim  daemoniaca  quaedam  vis  januarum  ex  opiuioue  veterum,'
 Disseu's  Tib.  1,  clxxix.     Conf.  Hartuug's  Eel.  der  Rom.  2,  218  seq.
 
-
-630  ELEMENTS.
 
 (RA.  265).  '  Faculis  et  faustis  acclamationibus,  ut  priorlbus
 regibus  assueverant,  obviam  ei  (non)  procedebant/  Lamb,  scbafn.
@@ -9862,8 +9179,7 @@ geleit  uf  olboume  loup/  of  little  tapers  many  a  cluster  ranged  in
 olive  bower,  Parz.  82,  25.  Detmar  (ed.  Grautoff  1,  301)  on  the
 Emp.  Charles  IV.'s  entry  into  Lubeck  :  '  des  nachtes  weren  die
 luchten  bernde  ut  alien  husen,  unde  was  so  licht  in  der  nacht  als
-in  dem  dage.''  The  church  also  escorted  with  torchlight  pro-
-cessions :  '  cui  (abbati)  intranti  per  noctis  tenebras  adhibent  faces
+in  dem  dage.''  The  church  also  escorted  with  torchlight  processions :  '  cui  (abbati)  intranti  per  noctis  tenebras  adhibent  faces
 et  lampadas,'  Chapeaville  2,  532  (12th  cent.).  '  Hirimannus  dux
 susceptus  est  ab  archiepiscopo  manuque  deducitur  ad  ecclesiam
 accensis  luminaribus,  cunctisque  souantibus  campanis/  Dietm.
@@ -9903,8 +9219,7 @@ various  ways.
 
 Woodcuts  and  plates  (in  the  Sachsenspiegel)  usually  represent
 the  winds,  half  symbolically,  as  Mowing  faces,  or  heads,  probably
-a  fancy  of  very  early  date,  and  reminding  us  of  the  blowing  John's-
-head  that  whirls  Herodias  about  in  the  void  expanse  of  heaven
+a  fancy  of  very  early  date,  and  reminding  us  of  the  blowing  John'shead  that  whirls  Herodias  about  in  the  void  expanse  of  heaven
 (p.  285).  The  winds  of  the  four  cardinal  points  are  imagined  as
 four  dwarfs  :  '  undir  hvert  horn  (each  corner)  settu  ]?eir  dverg%
 Sn.  9  (p.  461)  ^ ;  but  by  the  Greeks  as  giants  and  brethren  :
@@ -9947,8 +9262,6 @@ Gothij  forms  would  be  duatroncis,  etc.
 VOL.    II.  O
 
 
-632  ELEMENTS.
-
 water,  wind  and  fire  (p.  217)  ;  and  Lop f?*  (aereus)  is  anotlier  name
 for  Loki  (p.  246).  A  plirase  in  Csedm.  181,  13  seems  worthy  of
 notice  :  '  lyft-Jielms  hepeaht,'  galea  aerea  tectus  (see  Suppl.).
@@ -9966,8 +9279,7 @@ forms  wintsprout,  -praut  (Suchenw.  41,  804),  windbrauss  (in  later
 writers,  as  Matthesius),  windsprauch  (Schm.  4,  110),  have  arisen
 out  of  the  endeavour  to  substitute  some  new  meanino-  for  the
 no  longer  intelligible  mythic  notion.  They  say  it  is  a  woman
-snatching  up  a  napkin  from  the  bleaching  ground  and  falling-
-down  with  it,  Mone's  Anz.  8,  278.  So  in  the  Netherlands  the
+snatching  up  a  napkin  from  the  bleaching  ground  and  fallingdown  with  it,  Mone's  Anz.  8,  278.  So  in  the  Netherlands  the
 whirlwind  is  called  barende  frauw,  Wolf  nos.  518-520  (see  Suppl,).
 
 This  wind^s-bride  is  a  whirlwind,  at  which  our  mythology
@@ -9976,8 +9288,7 @@ what  is  it  but  an  explanation  of  the  stormwind  howling  through
 the  air  ?  The  OHG.  ziii,  turbines,  we  have  traced  to  Zio,  pp.  203.
 285;  and  the  stoi-m-cloud  was  called  maganwetar  (p.  332  last  1.).
 But  the  whirlwind  appears  to  be  associated  with  Phol  also  (pp.
-229.  285),  and  with  an  opprobrious  name  for  the  devU  (schweine-
-zagel,  siiuzagel,  sustert,  sow^s  tail),  to  whom  the  raising  of  the
+229.  285),  and  with  an  opprobrious  name  for  the  devU  (schweinezagel,  siiuzagel,  sustert,  sow^s  tail),  to  whom  the  raising  of  the
 whirl  was  ascribed  (Superst.  I,  522)  ^  as  well  as  to  witches  (ibid.
 554).  It  was  quite  natural  therefore  to  look  upon  some  female
 personages  also  as  prime  movers  of  the  whirlwind,  the  gyrating
@@ -9992,8 +9303,7 @@ up  the  loose  sand,  it  is  the  evil  spirit  dancing  ;  throw  a  sharp  n
 middle  of  it,  and  you  wound  him.  A  magician  plunged  such  a  knife  into  his
 threshold,  and  condemned  his  man,  with  whom  he  was  angry,  for  seven  years  to  ride
 round  the  world  on  the  swift  stormwind.  Then  the  whirlwind  lifted  the  man,  who
-was  making  haycocks  in  a  meadow,  and  bore  him  away  into  the  air.  This  knije-
-thruwing  is  also  known  to  Germ,  superstition  evei-y where  (I,  554).
+was  making  haycocks  in  a  meadow,  and  bore  him  away  into  the  air.  This  knijethruwing  is  also  known  to  Germ,  superstition  evei-y where  (I,  554).
 
 
 wind's  beide.  633
@@ -10006,8 +9316,7 @@ which  shakes  the  trees  even  to  breaking.  The  Slav,  i^olednice
 (supra,  p.  478u.)  is  a  female  daemon,  who  flies  up  in  the  dust  of
 the  whirlwind  (Jungmann  sub  v.) .  According  to  a  legend  of  the
 Mark  (Kuhn  no.  167)  the  whirlwind  was  a  noble  damsel  who
-loved  the  chase  above  everything,  and  made  havock  of  the  hus-
-bandman^'s  crops,  for  which  she  is  doomed  to  ride  along  with
+loved  the  chase  above  everything,  and  made  havock  of  the  husbandman^'s  crops,  for  which  she  is  doomed  to  ride  along  with
 the  storm  to  all  eternity ;  this  again  reminds  us  of  Diana  and
 the  huntress  Holda  (see  Suppl.).
 
@@ -10022,8 +9331,7 @@ and  lulien  he  flaps  his  wings,  the  winds  rise  from  under  them  (Sn.
 is  said  :  '  sva  vi'Sa  sem  valr  flygi"  varlangan  dag,  oc  standi  hyrr
 undir  bdda  vcengi,'  far  as  falcon  flies  a  summerlong  day,  when
 stands  fair  wind  under  both  his  wings.  Light  clouds  threatening
-storm  are  called  in  Iceland  hlo-sigi  (Biorn  spells  klosegi),  claw-
-sinking  ;  ace.  to  Gunnar  Pauli,  because  the  eagle  causes  storm  by
+storm  are  called  in  Iceland  hlo-sigi  (Biorn  spells  klosegi),  clawsinking  ;  ace.  to  Gunnar  Pauli,  because  the  eagle  causes  storm  by
 letting  down  one  of  his  claws  (Finn  Magn.  p.  452). ^  It  is  also
 an  Indian  belief  that  tempest  comes  from  Garnda's  loings,
 Somadeva  2,    102  :   the  motion  of  his  flight  stirs  up  the  wind.
@@ -10046,8 +9354,6 @@ Suttixngr  in  Sn.  86.
 ••  It  ought  not  to  be  overlooked  here,  that  at  the  west  door  of  OSin's  hall  there
 
 
-634  ELEMENTS.
-
 tiirnum  converterunt.  Nam  Germaui  earn  in  favonium  (Up.
 Germ,  folin)  converterant^  subtiliter  significantes  Gallos  suo
 equitatu  quandoque  posse  devinci.''  The  meaning  seems  to  be,
@@ -10058,13 +9364,10 @@ country  toward  which  the  bird's  head  was  directed.  Dietmar  of
 Merseburg's  account  3,  6  (Pertz  5,  761)  is  as  follows  :  '  Post  haec
 autem  imperator  ordinavit  expeditionem  suam  adversus  Lotharium
 regem  Karelingorum,  qui  in  Aquisgrani  palatium  et  sedem  regiam
-nostrum  semper  respicientem  dominium  valido  exercitu  praesump-
-sit  invadere,  sibique  versa  aquila  designare.  Haec  stat  in
-orientali  parte  domus,  morisque  f  uit  omnium  hunc  locum  possi-
-dentium  ad  sua  earn  vertere  regna.'  This  statement  appears  less
+nostrum  semper  respicientem  dominium  valido  exercitu  praesumpsit  invadere,  sibique  versa  aquila  designare.  Haec  stat  in
+orientali  parte  domus,  morisque  f  uit  omnium  hunc  locum  possidentium  ad  sua  earn  vertere  regna.'  This  statement  appears  less
 accurate  than  that  of  Richerus,  for  each  would  turn  the  eagle's
-head  not  toward  his  own  kingdom,  but  the  foreign  or  depen-
-dent one  ;  conf.  Jahrb.  d.  Rheinlande  v.  vi.  73.  But  even  in
+head  not  toward  his  own  kingdom,  but  the  foreign  or  dependent one  ;  conf.  Jahrb.  d.  Rheinlande  v.  vi.  73.  But  even  in
 the  12th  cent,  the  wind's  connexion  with  the  eagle  was  still
 known  in  Germany,  for  Veldek  sings,  MS.  1,  2P:  'jarlanc  ist
 reht  daz  der  ar  winke  dem  vil  siiezen  winde,'  all  this  year  the
@@ -10086,8 +9389,7 @@ Ps.    18,  11.      104,3:     Wolavit   super  pennas   ventorum/    which
 also  hung  a  wolf,  and  over  it  an  eagle  (drujjir  orn  yfir,  Saem.  41''),  and  that  the
 victorious  Saxons  fixed  an  eagle  over  the  city's  gate,  sujjra,  p.  111.
 
-1  Festus :  '  aquilo  ventus  a  vehementissimo  volatu  ad  iustar  aquilae  appel-
-latur ' ;  conf.  Hesychius,  d/ctp6s  6  poppas.
+1  Festus :  '  aquilo  ventus  a  vehementissimo  volatu  ad  iustar  aquilae  appellatur ' ;  conf.  Hesychius,  d/ctp6s  6  poppas.
 
 2  Wackernagel  on  Ablaut  (vowel-change)  p.  30.     Eustathius  on  the  II.  87.  15
 Eom.
@@ -10123,10 +9425,8 @@ which  purify  the  air  :  they  destroy  the  eflluvia  from  bodies  that
 lie  unburied.
 
 Is  that  the  foundation  of  the  fancy,  that  when  a  man  hangs
-himself,  a  tempest  springs  up,  and  the  roar  of  the  wind  pro-
-claims the  suicide  ?  ^  Is  it  the  greedy  carrion-fowl  that  comes
-on  in  haste  to  seize  the  dead,  his  lawful  prey,  who  swings  un-
-buried on  the  tree  ?  Or  does  the  air  resent  the  self-murderer's
+himself,  a  tempest  springs  up,  and  the  roar  of  the  wind  proclaims the  suicide  ?  ^  Is  it  the  greedy  carrion-fowl  that  comes
+on  in  haste  to  seize  the  dead,  his  lawful  prey,  who  swings  unburied on  the  tree  ?  Or  does  the  air  resent  the  self-murderer's
 polluting  presence  in  it  ?  A  New-year's  storm  is  thought  to
 announce  pestilence  (Sup.  I,  330.  910),  spreading  an  odour  of
 death  in  anticipation.
@@ -10142,8 +9442,6 @@ a  voracious  hungry  being  (of  course  a  giant,  according  to  the  root
 *  Sup.  I,  343.  1013.     Kircbhofer's  Schwei?:.  spr.  327.     CI.  Brentano's  Libussa
 p.  432.     Sartori's  Eeise  in  Karnten  2,  164.    Leoprecbting  102.
 
-
-636  ELEMENTS.
 
 idea  of  iotunn,  p.  519),  aud  they  try  to  pacify  him  by  pouring  out
 flour  in  the  air.^  I  take  this  to  be  an  ancient  superstition,  and
@@ -10164,8 +9462,7 @@ FasoU  is  the  well-known  giant  of  our  hero-legend,  brother  of
 Ecke,  who  was  himself  god  of  tides  and  waves  (p.  239).  The
 two  brothers  have  kindred  occupations,  being  rulers  of  the  dread
 sea  and  of  the  weather.  What  we  gather  from  the  second  spell
-about  Fasolt  seems  to  me  of  importance,  and  another  conclu-
-sive proof  of  the  identity  of  Ecke  with  Oegir :  as  Hler  and
+about  Fasolt  seems  to  me  of  importance,  and  another  conclusive proof  of  the  identity  of  Ecke  with  Oegir :  as  Hler  and
 Kai'i  are  brothers  and  giants,  so  are  also  Ecke  and  Fasolt ;  as
 Hler  commands  the  sea  and  Kari  the  winds,  so  does  Ecke  rule
 the  waters  and  Fasolt  the  storm.  To  the  Norse  poets  the  luiiid
@@ -10197,8 +9494,7 @@ WIND.       STOEM.  637
 p.  630)  makes  the  wish-wind,  oska-byrr^  p.  144.  What  notion
 lies  at  the  bottom  of  Wolfram's  making  Juno  give  the  '  segels
 luft/  sail- wind  (Parz.  753,  7)  ?  Again  in  Parz.  750,  7  and  766,
-4  :  ''  Juno  fuocte  (fitted)  daz  iveter,'  and  '  segelweter'  The  fruit-
-ful breeze  that  whispers  in  the  corn  was  due  to  Fro  and  his  boar,
+4  :  ''  Juno  fuocte  (fitted)  daz  iveter,'  and  '  segelweter'  The  fruitful breeze  that  whispers  in  the  corn  was  due  to  Fro  and  his  boar,
 pp.  213-4.  An  ON.  name  of  O^inn  was  Vi&rir,  the  weatherer:
 '  at  ]?eir  sogSu  han  ve'Srum  nrSa,^  he  governs  weathers  (Fornm.
 sog.  10,  171).  Such  a  god  was  Pogodato  the  Slavs,  and  the  Pol.
@@ -10216,8 +9512,7 @@ whose  father  and  brother  are  named  Grimolfr  and  Gi'imarr,  a  sort
 of  Polyphemus,  who  can  excite  storm  or  good  wind  :  here  again
 it  is  OSinn  we  must  think  of  (p.  144).  Two  semi-divine  beings,
 honoured  with  temples  of  their  own  and  bloody  sacrifices,  were
-the  giant's  daughters  Tliorgercfr  and  Irpa  (p.  98).  In  the  Skald-
-skaparrafd  154  ThorgerSr  is  called  Hijlgahru&r  or  king  Holgi's
+the  giant's  daughters  Tliorgercfr  and  Irpa  (p.  98).  In  the  Skaldskaparrafd  154  ThorgerSr  is  called  Hijlgahru&r  or  king  Holgi's
 daughter,  elsewhere  Jiorgahrud'r  and  Jidrgatrdll  (Fornald.  sog.  2,
 131),  sponsa  divum,  immanissima  gigas,  which  reminds  us  of  our
 ■imnd's-hride.  Both  the  sisters  sent  foul  tveather,  storm  and  hail,
@@ -10227,23 +9522,18 @@ fog,  as  Hei-Si  and  Hamglom,  Fornald.  sog.  2,  72,  Ingibiorg,  ibid.
 3,' 442  (see  Suppl.).^
 
 What  was  at  first  imputed  to  gods,  demigods  and  giants,  the
-sending  of  wind,  storm  and  hail  (vis  daemonum  concitans  pro-
-cellas,  Beda's  Hist.  eccl.  1,  17),  was  in  later  times  attributed  to
+sending  of  wind,  storm  and  hail  (vis  daemonum  concitans  procellas,  Beda's  Hist.  eccl.  1,  17),  was  in  later  times  attributed  to
 human  sorcerers.
 
 First  we  find  the  Lex  Visigoth,  vi.  2,  3  provides  against  the
-'  malefici  et  immlssores  tempestatum,  qui  quibusdam  incanta-
-tiouibus  grandinem  in  vineas  messesque  mittere  perhibentur.'
+'  malefici  et  immlssores  tempestatum,  qui  quibusdam  incantatiouibus  grandinem  in  vineas  messesque  mittere  perhibentur.'
 Then  Charles  the  Great  in  his  Capit.  of  789  cap.  64  (Pertz  3,  6i) :
 
 '  Okka,  or  auka,  storm  ;  peore  forehead.     Stender's  Gramm.  2G6.
 2  Conf.  p.  '6'6'5,  -163  liuli/Jiiulmr.
 
 
-638  ELEMENTS.
-
-'  ut  nec  cauculatores  et  incantatores^  nee  tempestarii  vel  oblio^a-
-tores  non  fiant,  et  ubicunque  sunt^  emendentur  vel  damnentur.'
+'  ut  nec  cauculatores  et  incantatores^  nee  tempestarii  vel  oblio^atores  non  fiant,  et  ubicunque  sunt^  emendentur  vel  damnentur.'
 Soon  after  that  king's  death,  about  the  beginning  of  Lewis  the
 Pious's  reign,  bp.  Agobard  (d.  840)  wrote  '  Contra  insulsam  vulgi
 opinionem  de  grandine  et  tonitruis/  From  this  treatise,  following
@@ -10251,25 +9541,18 @@ Baluz's  edit,  of  the  works  of  Agobard,  I  take  a  few  passages.
 
 1,  145 :  In  his  regionibus  pene  omnes  homines,  nobiles  et
 ignobiles,  urbani  et  rustici,  senes  et  juvenes,  putant  grandines  et
-tonitrna  hominum  libitu  posse  fieri.  Dicunt  enim,  mox  ut  audie-
-rint  tonitrua  et  videriut  fulgura :  '  aura  levatitia  est.-'  Inter-
-rogati  vero,  quid  sit  aura  levatitia  ?  alii  cum  verecundia,  parum
+tonitrna  hominum  libitu  posse  fieri.  Dicunt  enim,  mox  ut  audierint  tonitrua  et  videriut  fulgura :  '  aura  levatitia  est.-'  Interrogati  vero,  quid  sit  aura  levatitia  ?  alii  cum  verecundia,  parum
 remordente  conscientia,  alii  autem  confidenter,  ut  imperitorum
-moris  esse  solet,  confirmant  incantationibus  hominum  qui  dicun-
-tur  tempestarii,  esse  levatam,  et  ideo  dici  levatitiam  aitram.
+moris  esse  solet,  confirmant  incantationibus  hominum  qui  dicuntur  tempestarii,  esse  levatam,  et  ideo  dici  levatitiam  aitram.
 
 1,  146  :  Plerosque  autem  vidimus  et  audivimus  tanta  dementia
 obrutos,  tanta  stultitia  alienates,  ut  credant  et  dicaut,  quandam
 esse  regionem  quae  dicatur  Magonia,  ex  qua  naves  veniant  in
-nuhibiis,  in  quibus  fniges  quae  grandinibus  decidunt  et  tempesta-
-tibus  pereunt,  vehantur  in  eandem  regionem,  ipsis  videlicet  nautis
+nuhibiis,  in  quibus  fniges  quae  grandinibus  decidunt  et  tempestatibus  pereunt,  vehantur  in  eandem  regionem,  ipsis  videlicet  nautis
 aereis  dantibus  pretia  tempestarUs,  et  accipientibus  frumenta  vel
 ceteras  fruges.  Ex  his  item  tam  profunda  stultitia  excoecatis,  ut
-hoc  posse  fieri  credant,  vidimus  plures  in  quodam  conventu  homi-
-num exhibere  vinctos  quatuor  homines,  tres  viros  et  unam  femi-
-nam,  quasi  qui  de  ipsis  navibus  ceciderint :  quos  scilicet,  per
-aliquot  dies  in  vinculis  detentos,  tandem  collecto  conventu  homi-
-num exhibuerunt,ut  dixi,  in  nostra  praesentia,  tanquam  lapidandos.
+hoc  posse  fieri  credant,  vidimus  plures  in  quodam  conventu  hominum exhibere  vinctos  quatuor  homines,  tres  viros  et  unam  feminam,  quasi  qui  de  ipsis  navibus  ceciderint :  quos  scilicet,  per
+aliquot  dies  in  vinculis  detentos,  tandem  collecto  conventu  hominum exhibuerunt,ut  dixi,  in  nostra  praesentia,  tanquam  lapidandos.
 Sed  tamen  vincente  veritate  post  multam  ratiocinationem,  ipsi  qui
 eos  exhibuerant  secundum  propheticum  illud  confusi  sunt,  sicut
 confunditur  fur  quando  deprehenditur.
@@ -10298,8 +9581,7 @@ auras  levatitias,  quibus  terra  inrigetur,  et  postea  seminare  possitis?
 
 ],  161  :  Isti  autem,  contra  quos  sermo  est,  ostendunt  nobis
 homunculos,  a  sanctitate,  justitia  et  sapientia  alienos,  a  fide  et
-veritate  nudos,  odibiles  etiam  proximis,  a  quibus  dicunt  vehemen-
-tissimos  imhres,  sonantia  aquae  tonitrua  et  levatitias  auras  posse
+veritate  nudos,  odibiles  etiam  proximis,  a  quibus  dicunt  vehementissimos  imhres,  sonantia  aquae  tonitrua  et  levatitias  auras  posse
 fieri.
 
 1,  162  :  In  tantum  malum  istud  jam  adolevit,  ut  in  plerisque
@@ -10332,12 +9614,9 @@ seems  to  take  us  to  some  region  where  Latin  was  spoken,  if  we
 may  rely  on  its  referring  to  magus  and  a  magic  land.
 
 In  later  times  I  find  no  mention  of  this  cloud-ship,  except  in
-H.  Sachs,  who  in  his  schwank  of  the  Lappenhiluscr  ii.  4,  89*^  re-
-lates how  they  made  a  ship  of  feathers  and  straw,  and  carried  it
+H.  Sachs,  who  in  his  schwank  of  the  Lappenhiluscr  ii.  4,  89*^  relates how  they  made  a  ship  of  feathers  and  straw,  and  carried  it
 up  the  hill,  with  the  view  of  launching  out  in  it  when  the  mist
 
-
-640  ELEMENTS.
 
 should  fall.  Fischer  in  Garg.  96'''  introduces  quite  unconnectedlj
 the  nehelscliiffs  segel  of  Philoxenus  (the  guestfriend  or  Zeus  ?)  in
@@ -10347,17 +9626,14 @@ In  the  latter  part  of  the  Mid.  Ages  there  went  a  story  of  the
 wind-selling  inhabitants  of  Vinland,  which  I  give  from  a  work
 composed  towards  1360  by  Glanvil  or  Bartholomaeus  Anglicus,
 ' De  proprietatibus  rei^uni'  lb,  172  :  'Gens  (Vinlandiae)  estbarbara,
-agrestis  et  saeva,  magicis  artibus  occupata.  Unde  et  naviganti-
-bus  per  eorum  litora^  vel  apud  eos  propter  venti  defectum  moram
+agrestis  et  saeva,  magicis  artibus  occupata.  Unde  et  navigantibus  per  eorum  litora^  vel  apud  eos  propter  venti  defectum  moram
 contrahentibus,  ventum  venalem  oflferunt  atque  vendunt.  Globum
 enim  de  filo  faciunt,  et  diversos  nodus  in  so  connecteiites ,  usque  ad
 ires  nodos  vel  plures  de  globo  extraJd  praecipiunt,  secundum  quod
-voluerint  ventum  habere  fortiorem.^  Quibus  propter  eorum  in-
-credulitatem  illudentes,  daemones  a'erem  concitant  et  ventum
+voluerint  ventum  habere  fortiorem.^  Quibus  propter  eorum  incredulitatem  illudentes,  daemones  a'erem  concitant  et  ventum
 majorem  vel  minorem  excitant,  secundum  quod  plures  nodos  de
 filo  extrahunt  vel  pauciores^  et  quandoque  in  tantum  commovent
-ventum,  quod  miseri  talibus  fidem  adhibentes  justo  judicio  sub-
-merguntur.' — This  selling  of  wind  in  Wilandia  (as  he  calls  it)  is
+ventum,  quod  miseri  talibus  fidem  adhibentes  justo  judicio  submerguntur.' — This  selling  of  wind  in  Wilandia  (as  he  calls  it)  is
 likewise  mentioned  in  Seb.  Frank's  Weltbuch  GO'',  without  any
 description  of  the  method.  By  Vinland  is  to  be  understood  a
 part  of  the  Greenland  coast  which  had  been  early  visited  by
@@ -10403,16 +9679,14 @@ That  is  a  beautiful  fancy  in  the  Edda,  of  seven-and-twenty
 valkyrs  riding  through  the  air,  and  when  their  horses  shake
 themselves,  the  dew  dropping  out  of  their  manes  on  the  deep
 valleys,  and  hail  on  the  lofty  trees  :  a  sign  of  a  fruitful  year,  Saem.
-145.  So  morning-deiv  falls  on  the  earth  each  day  from  the  foam-
-ing bit  of  the  steed  Hrimfaxi  (dew-mane),  Sn.  11.  The  ON.
+145.  So  morning-deiv  falls  on  the  earth  each  day  from  the  foaming bit  of  the  steed  Hrimfaxi  (dew-mane),  Sn.  11.  The  ON.
 meldropi,  AS.  meledeaw,  OHG.  militou  (Gl.  Jun.  224),  MHG.
 miltou  (Ms.  2,  124"),  all  take  us  back  to  mel  (lupatum  equi)  ;
 conf.  note  on  Elene  p.  164,  where  mel  is  dex'ived  from  midl,
 mittul,  and  supra  p.  421.  Antiquity  referred  all  the  phenomena
 of  nature  to  higher  powers.  The  people  in  Bavaria  call  a  dark
 rain-cloud  '  anel  mit  der  laugen,^  granny  with  her  ley  (Schm.  1,
-63)  ;  in  Bohemia  light  clouds  are  hahhy,  grannies.  When  moun-
-tain mist  is  rising,  the  Esthonians  say  '  the  Old  one  is  putting  his
+63)  ;  in  Bohemia  light  clouds  are  hahhy,  grannies.  When  mountain mist  is  rising,  the  Esthonians  say  '  the  Old  one  is  putting  his
 fire  out ' ;  our  people  ascribe  it  to  animals  at  least :  '  the  hare  is
 boiling  [his  supper],  the  fox  is  bathing,  brewing,^  Reinh.  ccxcvi.
 When  shapes  keep  rising  in  the  mists  on  the  seashore,  the
@@ -10423,8 +9697,7 @@ The  Scythians  explained  drifting  snowsiS  flying  feathers  (Herod.
 goddess's  bed,  or  goose  (p.  268).  Those  snow-women  Fonn,
 Drifa,  Mioll  (p.  631)  appear  also  to  touch  one  side  of  Holda.  The
 Lettish  riddles,  '  putns  skreen,  spahrni  pill,'  and  '  putns  skreen,
-spalwas  putt'^  mean  a  rain-cloud  and  a  snotv-cloud.  In  Switzer-
-land vulgar  opinion  looks  upon  avalanches  as  ravening  beasts,  on
+spalwas  putt'^  mean  a  rain-cloud  and  a  snotv-cloud.  In  Switzerland vulgar  opinion  looks  upon  avalanches  as  ravening  beasts,  on
 whom  (as  on  fire)  you  can  put  a  check  (see  Suppl.).
 
 4.     Earth.
@@ -10435,13 +9708,10 @@ Nerthus  p.  251,  Erda  p.  250,  Fairguni  p.  172.  256,  Erce  p.  253,
 '  Bird  flies,  wings  drip.     Bird  flies,  feathers  drop.     Stender's  Gramm.  2G0.
 
 
-642  ELEMENTS.
-
 Hludana  p.  256,  and  others ;  in  wliich  the  ideas  of  the  ancients
 about  Terra,  Gaia,  Ops,  Ehea,  Oybele,  Ceres  repeat  themselves.
 On  p.  303  the  Indian  Prithivi  was  compared  with  Freyja,  and  the
-closest  kinship  exists  between  Freyr  and  NiorSr  (the  male  Ner-
-thus) .  But  also  the  bare  element  itself,  the  molte  (mould,  pulvis)
+closest  kinship  exists  between  Freyr  and  NiorSr  (the  male  Nerthus) .  But  also  the  bare  element  itself,  the  molte  (mould,  pulvis)
 p.  251,  was  accounted  holy  :  it  is  the  ')(^6ot)v  7ro\vl36retpa,  out  of
 its  teeming  lap  rise  fruits  and  trees,  into  it  the  dead  are  laid,  and
 decay  or  fire  restores  them  to  dust  and  ashes. ^  To  die  was  *  to
@@ -10460,11 +9730,9 @@ endure  him:  "^uns  solt  diu  erde  nicht  tragen,'  Troj.  491  [conf.  "^art
 cursed  from  the  earth,'  Gen.  4.  10-12].  Secrets  were  entrusted
 to  the  earth,  as  well  as  to  tire  and  oven,  p.  629  (see  Suppl.).
 
-It  is  more  especially  earth  grown  over  with  grass,  the  green-
-sward, that  has  a  sacred  power ;  such  grass  the  Sanskrit  calls
+It  is  more  especially  earth  grown  over  with  grass,  the  greensward, that  has  a  sacred  power ;  such  grass  the  Sanskrit  calls
 hhusa,  and  in  particular  durva,  to  which  correspond  the  AS.  turf,
-ON.  torf,  OHG.  zurha  :  '  holy  earth  and  haulms  of  durva,'  Sak-
-untala  (Hirzelpp.  51.  127).  I  have  also  accounted  for  the  famous
+ON.  torf,  OHG.  zurha  :  '  holy  earth  and  haulms  of  durva,'  Sakuntala  (Hirzelpp.  51.  127).  I  have  also  accounted  for  the  famous
 chrene  crud  of  the  Salic  law  by  our  '  reines  kraut,'  clean  herb  ;
 and   explained    '  chreneschruda    (dat.)    jactare '    by   the    Roman
 
@@ -10472,10 +9740,7 @@ and   explained    '  chreneschruda    (dat.)    jactare '    by   the    Roman
 i^iex-a  falaunsgu,  fon  themo  irdisgen  herde,  0.  v.  20,  25-8.
 
 ^  Ancient  tombs  have  been  discovered,  in  which  the  bodies  neither  he  nor  sit,
-but  crouch  with  the  head,  arms  and  legs  pressed  together,  in  receptacles  nearly-
-square.  M.  Fred.  Troyon  of  French  Switz.,  who  has  carefully  explored  and  ob-
-served many  old  graves,  expressed  to  me  his  opinion,  that  by  this  singular  treat-
-ment of  dead  bodies  it  was  prob.  intended  to  replace  man  in  the  same  jjosture  that
+but  crouch  with  the  head,  arms  and  legs  pressed  together,  in  receptacles  nearlysquare.  M.  Fred.  Troyon  of  French  Switz.,  who  has  carefully  explored  and  observed many  old  graves,  expressed  to  me  his  opinion,  that  by  this  singular  treatment of  dead  bodies  it  was  prob.  intended  to  replace  man  in  the  same  jjosture  that
 he  maintained  in  the  womb  before  birth.  Thus  the  return  into  mother  earth  would
 be  at  the  same  time  an  intimation  of  the  coming  new  birth  and  resurrection  of  the
 embryo.
@@ -10496,8 +9761,7 @@ The  purport  of  the  law  is,  that  earth  or  dust  must  be  taken  up
 from  the  four  corners  of  the  field,  and  thrown  with  the  hand  over
 the  nearest  hinsman.  It  was  a  solem.n  legal  ceremony  of  heathen
 times,  which  the  christian  Capitulars  abolished.  Against  my
-interpretation,  however,  Leo  has  now  set  up  a  Celtic  one  (cruin-
-neach  coUectus,  criadh  terra)  ,^  and  I  cannot  deny  the  weight
+interpretation,  however,  Leo  has  now  set  up  a  Celtic  one  (cruinneach  coUectus,  criadh  terra)  ,^  and  I  cannot  deny  the  weight
 of  his  arguments,  though  the  German  etymology  evidently
 has  a  stronger  claim  to  a  term  incorporated  in  the  text  itself
 than  in  the  case  of  glosses  [because  the  Latin  text  must  be
@@ -10507,14 +9771,12 @@ earth  remains  the  same,  whichever  way  we  take  the  words.
 The  ON.  language  of  law  ofifers  another  and  no  less  significant
 name ;  the  piece  of  turf  [under  which  an  oath  was  taken]  is
 called  iar&men,  iar&ar  men  ;  now  '  men  '  is  literally  monile,  OHG.
-mani,  meni,  AS.  mene,  as  we  saw  in  the  case  of  Freyja^s  neck-
-lace ^Brisinga  men.''  But  ^  iarSar  men'  must  once  have  been
+mani,  meni,  AS.  mene,  as  we  saw  in  the  case  of  Freyja^s  necklace ^Brisinga  men.''  But  ^  iarSar  men'  must  once  have  been
 lar&ar  men,  Erda's  necklace,  the  greensward  being  very  poetically
 taken  for  the  goddess's  jewelry.  The  solemn  '  ganga  undir
 lar&ar  men'  (RA.  118-9)  acquires  its  true  meaning  by  this.  In
 other  nations  too,  as  Hungarians  (RA.  120),  and  Slavs  (Bohme's
-Beitr.  5,  141),  the  administration  of  oaths  took  place  by  the  per-
-son who  swore  placing  earth  or  turf  on  his  head  (see  Suppl.).
+Beitr.  5,  141),  the  administration  of  oaths  took  place  by  the  person who  swore  placing  earth  or  turf  on  his  head  (see  Suppl.).
 
 The  custom  of  conquered  nations  presenting  earth  and  water
 in  token  of  submission  reaches  back  to  remote  antiquity  :  when
@@ -10522,8 +9784,7 @@ the  Persians  declared  war,  they  sent  heralds  to  demand  the  two
 elements  of  those  whose  country  they  meant  to  invade,^  which
 again  reminds  us  of  the  Roman  'pura.'  Our  landsknechts  as
 late  as  the  16th  century,  on  going  into  battle,  threw  a  clod  of
-earth  (like  him  that  threw  chrenechruda)  in  token  of  utter  re-
-nunciation  of  life.^     Among  the    Greeks  too,   grasping  the  sod
+earth  (like  him  that  threw  chrenechruda)  in  token  of  utter  renunciation  of  life.^     Among  the    Greeks  too,   grasping  the  sod
 
 1  Zeitschr.  f.  d.  alterth.  2,  163  seq.     Malb.  gl.  2,  119.  150.
 
@@ -10531,13 +9792,10 @@ nunciation  of  life.^     Among  the    Greeks  too,   grasping  the  sod
 108.  Aristotle  llhet.  ii.  22,  37.  Also  Judith  2,7:  hoiijA^ei.v  -yrju  kuI  voup  (Cod.
 alex.  ed.  August!) .
 
-^  Barthold's  Frundsberg  p.  58-9.     In  the  Mid.  Ages,  when  a  nun  was  conse-
-crated, her  kinsmen,  as  a  sign  that  she  renounced  all  earthly  possessions,  threw
+^  Barthold's  Frundsberg  p.  58-9.     In  the  Mid.  Ages,  when  a  nun  was  consecrated, her  kinsmen,  as  a  sign  that  she  renounced  all  earthly  possessions,  threw
 eartli  over  the  maiden's  arm;  conf.  Svenska  visor  1,  176  :
 det  voro  sS  manga  grefvar  bald,
 
-
-644  ELEMENTS.
 
 signified  taking  possession  of  land,  especially  in  tlie  case  of
 emigrants.  As  Eapliamos  sits  on  the  prow  of  the  Argo,  Triton
@@ -10567,8 +9825,7 @@ connexion,  speaks  of  X6(f)ot  and  (f3dpayye<i  (hills  and  gullies)  as
 objects  of  worship  (p.  100) ;  possibly  his  knowledge  of  the  facts
 was  imperfect,  and  there  was  a  fire  or  water  worship  connected
 with  the  hill.  It  is  among  the  Goths,  to  whova.  fairguni  meant
-mountain  (p.  172),  that  one  would  first  look  for  a  pure  mountain-
-worship,  if  the  kinship  I  have  supposed  between  that  word  and
+mountain  (p.  172),  that  one  would  first  look  for  a  pure  mountainworship,  if  the  kinship  I  have  supposed  between  that  word  and
 the  god's  name  be  a  matter  of  fact.  Dietmar  of  Merseburg
 (Pertz  5,  855)  gives  an  instance  of  mountain-worship  among  the
 Slavs:  'Posita  autem  est  haec  (civitas,  viz.  Nemtsi,  Nimptch)
@@ -10597,12 +9854,9 @@ Here  and  there  single  stones  and  rocJis,  or  several  in  a  group,
 sometimes  arranged  in  circles,  were  held  in  veneration  (Append.
 '  vota  ad  lapides,'  especially  '  lapides  in  ruinosis  et  silvestribus
 locis  venerari;'  AS.  stanweor&ang ,  '  bringan  to  s^awe/  Thorpe  pp.
-380.  396) .  This  worship  of  stones  is  a  distinguishing  character-
-istic of  Celtic  religion/  less  of  Teutonic,  though  amongst  our-
-selves also  we  meet  with  the  superstition  of  slipping  through
+380.  396) .  This  worship  of  stones  is  a  distinguishing  characteristic of  Celtic  religion/  less  of  Teutonic,  though  amongst  ourselves also  we  meet  with  the  superstition  of  slipping  through
 hollow  stones  as  well  as  hollow  trees.  Chap.  XXXVI.  Cavities
-not  made  artificially  by  human  hand  were  held  sacred.  In  Eng-
-land they  hang  such  holy-stones  or  holed-stones  at  the  horses'
+not  made  artificially  by  human  hand  were  held  sacred.  In  England they  hang  such  holy-stones  or  holed-stones  at  the  horses'
 heads  in  a  stable,  or  on  the  bed-tester  and  the  house-door  against
 witchcraft.  Some  are  believed  to  have  been  hollowed  by  the
 sting  of  an  adder  (adderstones) .  In  Glermany,  holy  stones  were
@@ -10658,7 +9912,6 @@ stones  shall  cry  out  of  the  wall] .
 
 
 CHAPTER  XXI.
-TREES   AND   ANIMALS.
 
 As  all  nature  was  thought  of  by  the  heathen  mind  as  living ;  ^
 as  language  and  the  understanding  of  human  speech  was  allowed
@@ -10687,8 +9940,7 @@ Frigg  exacted  oaths  from  water,  fire,  earth,  stones,  plants,  beasts,  b
 nay  from  plagues  personified,  that  they  would  not  harm  him  ;  one  single  shrub  she
 let  off  from  the  oath,  because  he  was  too  young,  Sn.  64.  Afterwards  all  creatures
 weep  the  dead  Baldr,  men,  animals,  plants  and  stones,  Sn.  68.  The  OS.  poet  of  the
-Heliand  calls  dumb  nature  the  unquethandi,  and  says  168,  32  :  '  that  thar  Wal-
-dandes  dod  (the  Lord's  death)  uiiqucthandes  so  filo  antkeunian  scolda,  that  is
+Heliand  calls  dumb  nature  the  unquethandi,  and  says  168,  32  :  '  that  thar  Waldandes  dod  (the  Lord's  death)  uiiqucthandes  so  filo  antkeunian  scolda,  that  is
 endagon  ertha  bivoda,  hrisidun  thia  hohuu  hcrgos,  harda  sienos  clubuu,  feliso^  after
 them  felde.'  It  is  true  these  phenomena  are  from  the  Bible  (Matth.  27,  51-2),  yet
 possibly  a  heathen  picture  hovered  in  the  author's  mind  (as  we  saw  on  pp.  148.
@@ -10701,8 +9953,6 @@ there  appealed  to,  offer  their  help.
 
 VOL.    II.  ^■^^  P
 
-
-648  TREES   AND   ANIMALS.
 
 higher  beings  dwells  animals  that  wait  upon  them.  The  two
 classes  can  hardly  be  separated,  for  incori-ect  or  incomplete
@@ -10720,11 +9970,9 @@ down.i  Trees  are  also  consecrated  to  individual  dsemons,  elves,
 wood  and  home  sprites,  p.  509.
 
 Minute  descriptions,  had  any  such  come  down  to  us,  would  tell
-us  many  things  worth  knowing  about  the  enclosure  and  main-
-tenance of  holy  woods,  about  the  feasts  and  sacrifices  held  in
+us  many  things  worth  knowing  about  the  enclosure  and  maintenance of  holy  woods,  about  the  feasts  and  sacrifices  held  in
 them.  In  the  Indiculus  paganiarum  we  read  '  de  sacris  sil varum,
-quae  nimidas  vocant.'  This  German  word  seems  to  me  uncor-
-rupted,  but  none  the  easier  to  understand :  it  is  a  plur.  masc.
+quae  nimidas  vocant.'  This  German  word  seems  to  me  uncorrupted,  but  none  the  easier  to  understand :  it  is  a  plur.  masc.
 from  the  sing,  nimid,"  but  to  hit  the  exact  sense  of  the  word,  we
 should  have  to  know  all  the  meanings  that  the  simple  verb
 neman  was  once  susceptible  of.  If  the  German  nimu  be,  as  it
@@ -10741,8 +9989,7 @@ fons  sacer  in  medio,  speluncaque  pumice  pendens,
 
 et  latere  ex  omni  dulce  queruntur  aves.
 
-Lucan,  Phars.  3,  399  :  Lucus  trat  longo  nunquam  violatus  ab  aevo.  So  the  Sem-
-nouian  wood,  the  nemus  of  Neithus,  the  Slav  lucus  Zutibure,  the  Prussian  grove
+Lucan,  Phars.  3,  399  :  Lucus  trat  longo  nunquam  violatus  ab  aevo.  So  the  Semnouian  wood,  the  nemus  of  Neithus,  the  Slav  lucus  Zutibure,  the  Prussian  grove
 Eomowe.  Among  the  Esthonians  it  is  held  infamous  to  pluck  even  a  single  leaf
 m  the  sacred  grove :  far  as  its  shade  extends  (ut  umbra  pertingit,  RA.  57.  105),  they
 will  not  take  so  much  as  a  strawberry ;  some  people  secretly  bury  their  dead  there
@@ -10800,8 +10047,7 @@ niman,  neman  would  therefore  be  to  cut,  kill,  divide,  and  nimidas  the
 iu  the  holy  grove,  uuder  trees  ?  Couf.  wliat  is  said  in  the  text  of  the  Langobardic
 tree  of  sacrifice.  Celtic  etymologies  seem  rather  out  of  place  for  this  plainly  Saxou
 Indiculus.  Adelung  already  in  Mithrid.  2,  65.  77  had  brought  into  the  field  Nemetes
-and  nemet  (temjilum)  ;  Ir.  naomh  is  sanctus,  neamh  (gen.  nimhe)  coelum,  niem-
-headh  land  consecrated,  belonging  to  the  church.
+and  nemet  (temjilum)  ;  Ir.  naomh  is  sanctus,  neamh  (gen.  nimhe)  coelum,  niemheadh  land  consecrated,  belonging  to  the  church.
 
 '  The  superstition  of  the  Lausitz  Wends  holds  that  there  are  woods  which
 yearly  dcinaiul  a  human  victim  (like  the  rivers,  p.  491);  some  person  must  lose  his
@@ -10809,15 +10055,11 @@ life  in  them  :  'hohla  dyrbi  kojzde  Ijeto  jeaeho  czloweka  mjecz,'  Laus
 1797,  p.  748.
 
 
-650  TREES  AND  ANIMALS.
-
 the  Lombard  nation  was  baptized,  but  still  clung  to  superstitious
-practices  :  '  Quin  etiam  non  longe  a  Beneventi  moenibus  devotis-
-sime  sacrilegam  colebant  arhorem,  in  qua  suspense  corio  cuncti  qui
+practices  :  '  Quin  etiam  non  longe  a  Beneventi  moenibus  devotissime  sacrilegam  colebant  arhorem,  in  qua  suspense  corio  cuncti  qui
 aderant  terga    vertentes    arbori    celerius   equitabant,    calcaribus
 cruentantes  equos,  ut  unus  alterum  posset  praeire,  atque  in  eodem
-cursu  retroversis  manihus  in  corium  jaculabantur.     Sicque  parti-
-culam  modicam  ex  eo  comedendam  superstitiose  accipiebant.     Et
+cursu  retroversis  manihus  in  corium  jaculabantur.     Sicque  particulam  modicam  ex  eo  comedendam  superstitiose  accipiebant.     Et
 quia  stulta  illic  persolvehant  vota,  ab  actione  ilia  nomen  loco  illi,
 sicut  hactenus  dicitur,  votum  imposuerunt.'     In  vain  Barbatus
 preaches  against  it :  '  illi  ferina  coecati   dementia  nil  aliud  nisi
@@ -10825,12 +10067,10 @@ sessorum  meditantes  usus,  optimum  esse  fatebantur  cultiim  legis
 majorum   suorum,    quos   nominatim    bellicosissimos    asserebaut.'
 When  Eomuald  was  gone  to  Naples,  'repente  beatissimus  Barbatus
 securim  accipiens   et  ad  votum  pergens,  suis  manibus  iiefandam
-arborem,  in  qua  per  tot  teniporis  spatia  Langobardi  exitiale  sacri-
-legium  perficiebant,  defossa  hamo  a  radicibus  incidit,  ac  desuper
+arborem,  in  qua  per  tot  teniporis  spatia  Langobardi  exitiale  sacrilegium  perficiebant,  defossa  hamo  a  radicibus  incidit,  ac  desuper
 terrae  congeriem  fecit,  ut  nee  indicium  ex  ea  quis  postea  valuerit
 reperire.''  ^    This  part  about  felling  the  tree  has  an  air  of  swagger
-and  improbability  ;  but  the  description  of  the  heathen  ceremony-
-may  be  true  to  the  life.     I  have  pointed  out,  p.  174,  that  the
+and  improbability  ;  but  the  description  of  the  heathen  ceremonymay  be  true  to  the  life.     I  have  pointed  out,  p.  174,  that  the
 Ossetes  and  Circassians  hung  up  the  hides  of  animals  on  pioles
 in  honour  of  divine  beings,  that  the  Goths  of  Jornandes  truncis
 suspendehant  exuvias  to  Mars  (p.  77  note),  that  as  a  general  thing
@@ -10843,8 +10083,7 @@ custom  to  shoot  through  a  hanging  raio  oxhide  (Fornm.  sog.  3,  18,
 4,  61),  as   a  proof  of  strength  and  skill.     Doing  it  backwards
 
 
-^  Another  Vita  Barbati  (ibid.  p.  112)  relates  as  follows  :  '  Nam  quid  despica-
-bilius  credendum  est,  quam  ex  mortuis  auimalibus  non  carnem  sed  corium  accipere
+^  Another  Vita  Barbati  (ibid.  p.  112)  relates  as  follows  :  '  Nam  quid  despicabilius  credendum  est,  quam  ex  mortuis  auimalibus  non  carnem  sed  corium  accipere
 ad  usum  comestionis,  ut  i^ravo  errori  subjecti  Langobardi  fecerunt  ?  qui  suarum
 festa  solennitatum  equis  praecurrentibus  unus  altero  praecedente,  sicut  mos  erat
 geiitilium,  arhori  ludificae  procul  uon  satis  Benevento  vota  sua  solvehant.  Suspensa
@@ -10867,8 +10106,7 @@ in  the  sacrifice?   (p.  4G  ;  see  Suppl.).
 
 And  not  only  were  those  trees  held  sacred,  under  which  men
 sacrificed,  and  on  which  they  hung  the  head  or  hide  of  the
-slaughtered  beast,  but  saplings  that  greiv  up  on  the  top  of  sacri-
-ficed animals.  A  willow  slip  set  over  a  dead  foal  or  calf  is  not
+slaughtered  beast,  but  saplings  that  greiv  up  on  the  top  of  sacrificed animals.  A  willow  slip  set  over  a  dead  foal  or  calf  is  not
 to  be  damaged  (Sup.  I,  838)  ;  are  not  these  exactly  Adam  of
 Bremen's  '  arbor es  ex  morte  vel  tabo  immolatorum  divinae' ?  (p.
 76).2
@@ -10901,14 +10139,11 @@ with  the  liead  turned  away  (p.  493),  and  threw  backwards  over  their  
 -  A  scholium  on  Ad.  of  Bremen's  Hist.  eccl.  (Pertz,  scr.  7,  379)  is  worth
 quoting:  '  Propo  ilhid  templum  (upsaheuse)  est  arbor  maxima,  late  ramos  extendeus,
 aestate  et  hiemc  semper  vircns  :  cujus  ilia  generis  sit,  nemo  scit.  Ibi  etiam  est  fons,
-ubi  sacriticia  Paganorum  solent  exerceri,  et  homo  vivus  immergi,  qui  dum  im-
-mergitur  (al.  inveuitur),  ratnm  erit  votum  populi.'  To  sink  in  water  was  a  good
+ubi  sacriticia  Paganorum  solent  exerceri,  et  homo  vivus  immergi,  qui  dum  immergitur  (al.  inveuitur),  ratnm  erit  votum  populi.'  To  sink  in  water  was  a  good
 sign,  as  in  the  ordeal  (KA.  924;  conf.  Chap.  XXXIV.,  Witch's  bath).
 
 ^  Esculus  Jovi  sacra,  Pliny  Ki,  i  (5).
 
-
-652  TREES   AND   ANIMALS.
 
 called  ellorn,  ell-horn.'^  Arnkiel's  testimony  1,  179  is  beyond
 suspicion  : '  Thus  did  our  forefathers  also  hold  the  ellhorn  holy,  and
@@ -10920,8 +10155,7 @@ folded  hands,  as  I  have  ofttimes  in  my  young  days  both  heard
 and  seen/  Compare  with  this  the  very  similar  accounts  of  elder
 rods  (Sup.  I,  866),  of  planting  the  elder  before  stables  (169),  of
 pouring  water  under  the  elder  (864),  and  of  the  elder's  mother
-(Sup.  K,  Dan.  162).-  The  juniper,  wacholder,  plays  an  impor-
-tant part  in  the  marchen  of  machcmdelhoom  ;  in  the  poem  of  the
+(Sup.  K,  Dan.  162).-  The  juniper,  wacholder,  plays  an  important part  in  the  marchen  of  machcmdelhoom  ;  in  the  poem  of  the
 Mirror's  adventure,  fol.  38,  occurs  the  mysterious  statement :
 
 Fraw  Wecholfer,  ich  sich  Dame  Juniper,  I  see
@@ -10943,8 +10177,7 @@ voice  out  of  the  tree  cries  to  the  hewer,  'he  that  hews  haspelholz
 (deal-tree,  pine)  in  Westmanland,  dwelt  a  hafs-fru,  in  fact  the
 pine  tree's  ra  (p.  496)  ;  to  this  tree  you  might  see  snow-white
 cattle  driven  up  from  the  lake  across  the  meadows,  and  no  one
-dared  to  touch  its  boughs.  Trees  of  this  kind  are  sacred  to  indi-
-vidual elves,  woodsprites,  liomesprites  ;  they  are  called  in  Swed.
+dared  to  touch  its  boughs.  Trees  of  this  kind  are  sacred  to  individual elves,  woodsprites,  liomesprites  ;  they  are  called  in  Swed.
 
 '  AS.  elle7i.  The  Cauones  editi  sub  Eadgaro  rege,  cap.  16  (Thorpe,  p.  396),
 speak  of  the  sorcery  practised  '  on  ellenum  and  eac  on  o'Srum  mislicum  treowum  '
@@ -10999,8 +10232,7 @@ ague  into  f ran  Fichte  (see  Suppl.).
 
 This  belief  in  spirit-haunted  trees  was  no  less  indigenous  among
 Celts.  Sulpicius  Severus  (beg.  of  5th  cent.)  reports  in  his  life  of
-St.  Mai'tin,  ed.  Amst.  1G65,  p.  457  :  '  Dum  in  vico  quodam  tem-
-plum  antiquissimura  diruisset,  et  arhorem  pinum,  quae  fano  crat
+St.  Mai'tin,  ed.  Amst.  1G65,  p.  457  :  '  Dum  in  vico  quodam  templum  antiquissimura  diruisset,  et  arhorem  pinum,  quae  fano  crat
 proxima,  esset  aggressus  excidere,  tum  vero  antistes  illius  luci
 ceteraque  gentilium  turba  coepit  obsistere  ;  et  cum  iidem  illi,  dum
 templum  evertitur,  imperaute  domino  quievissent,  succidi  arhorem
@@ -11025,13 +10257,11 @@ to  heal  or  hurt,  it  is  true  they  have  to  be  plucked  and  gathered
 first :  the  Chap,  on  magic  will  furnish  examples.  Like  sacred
 tutelary  beasts,  they  are  blazoned  on  the  coats-of-arms  of
 countries,  towns,  and  hei'oes.  Thus  to  the  Northwest  Germans,
-especially  Frisians  and  Zeelanders,  the  seeblatt  (nymphaea,  nenu-
-phar) was  from  the  earliest  times  an  object  of  veneration.  The
+especially  Frisians  and  Zeelanders,  the  seeblatt  (nymphaea,  nenuphar) was  from  the  earliest  times  an  object  of  veneration.  The
 Hollanders  call  it  plo7npe,  the  Frisians  pompe  :  strictly  speaking,
 the  broad  leaves  floating  on  the  sea  are  poinpebledden,  and  the
 fragrant  white  flowers,  golden  yellow  inside,  swannehlommen
-(flores  cygnei)  ;  which  recals  the  names  given  at  p.  489,  nix-
-blume,  ndckhlad,  muhme  and  mummel  [i.e.  swan-maiden).  The
+(flores  cygnei)  ;  which  recals  the  names  given  at  p.  489,  nixblume,  ndckhlad,  muhme  and  mummel  [i.e.  swan-maiden).  The
 Frisians  put  seven  '  sea-blades '  (zeven  plompenbladen)  in  their
 escutcheon,  and  under  that  emblem  looked  for  victory;^  our
 Gudrunlied  (1373)  knows  all  about  it,  and  furnishes  Herwic  of
@@ -11048,11 +10278,9 @@ and  he  adds,  that  the  people  are  to  this  day  very  careful  in  pickin
 plomisen:  if  you  fall  with  the  flower  in  your  hand,  you  get  the  falling  sickness.
 Plomben,  our  plumpfen,  ON.  pompa,  means  plumping  or  plunging  down.  Ace.  to
 W.  Barnes,  '  butterpumps  =  ovary  of  the  yellow  waterlily  ;'  conf.  Lith.  pumpa,  Slav,
-pupa,  wen,  pimple?  Mart.  Hamconii  Frisia,  Franekarae  1620,  p.  7,  says  Friso  intro-
-duced the  cognisance  of  the  seven  sea-blades  :  '  insigne  Frisonis,  ut  Cappidus  refert,
+pupa,  wen,  pimple?  Mart.  Hamconii  Frisia,  Franekarae  1620,  p.  7,  says  Friso  introduced the  cognisance  of  the  seven  sea-blades  :  '  insigne  Frisonis,  ut  Cappidus  refert,
 septem  fuerunt  rubra  nympheae  herbae  folia,  in  tribus  argenteis  constitutae  trabibus
-■per  scutum  caeruleum  oblique  ductis.'  Cappidus  is  said  to  have  been  a  priest  at  Sta-
-vorn  at  the  beg.  of  the  10th  century,  but  nothing  more  is  known  of  him.  Conf.  Van
+■per  scutum  caeruleum  oblique  ductis.'  Cappidus  is  said  to  have  been  a  priest  at  Stavorn  at  the  beg.  of  the  10th  century,  but  nothing  more  is  known  of  him.  Conf.  Van
 d.  Bergh's  Volksoverlev.  p.  33.  41.  110.  Others  connect  the  division  of  Friesland
 into  7  sea-lands  with  the  7  leaves  of  the  scutcheon  ;  it  is  not  known  for  certain  when
 that  division  first  began  ;  see  De  vrije  Yries  4,  137.
@@ -11071,8 +10299,7 @@ to  Fro,  the  wolf  and  raven  to  Wuotan;  or  there  lies  at  the  basis
 the  metarnorjoJiosis  of  a  higher  being  into  some  animal  shape,
 on  the  strength  of  which  the  whole  species  comes  to  be  invested
 with  a  halo  of  honour.  That  is  how  we  may  in  some  instances
-have  to  take  a  bear,  bull,  cow  or  snake,  presupposing  an  in-
-carnation, though  our  mythology  may  have  long  ceased  to  reach
+have  to  take  a  bear,  bull,  cow  or  snake,  presupposing  an  incarnation, though  our  mythology  may  have  long  ceased  to  reach
 so  far  back  as  to  give  a  full  account  of  it.  Then,  bordering
 close  upon  such  a  lowering  of  the  god  into  the  animal,  comes
 the  penal  degradation  of  man  into  a  beast,  the  old  doctrine
@@ -11118,8 +10345,7 @@ helped  the  giant  in  building,  Sn.  46.  And  our  hero-legend  has
 handed  down  the  names  of  many  famous  horses  (p.  392).  Bajart
 is  described  as  intelligent,  like  AlsviSr;  he  is  said  to  be  still  alive
 in  Ardennes  forest,  where  you  may  hear  him  neigh  every  year  on
-Midsummer  day  (Quatre  fils  Aimon  ISC'").  The  track  of  Schim-
-ming's  shoe  stands  printed  on  the  rock,  Vilk.  saga  cap.  37  (see
+Midsummer  day  (Quatre  fils  Aimon  ISC'").  The  track  of  Schimming's  shoe  stands  printed  on  the  rock,  Vilk.  saga  cap.  37  (see
 Suppl.).
 
 The  Freyfaxi  in  Vatnsdselasaga  was  owned  by  a  man  named
@@ -11141,8 +10367,7 @@ being  hallowed  and  devoted  to  the  god.  A  striking  testimony
 to  this  is  found  in  Olafs  Tryggvasonar  saga  :  ^  Tidings  came  to
 the  king,  that  the  TrjBudir  (men  of  Drontheim)  had  turned  back
 to  the  worship  of  Freyr,  whose  statue  still  stood  among  them.
-When  the  king  commanded  them  to  break  the  image,  they  I'e-
-plied:  'ei  munum  ver  briota  likuesTci  Freys,  jmat  ver  hofum  leingi
+When  the  king  commanded  them  to  break  the  image,  they  I'eplied:  'ei  munum  ver  briota  likuesTci  Freys,  jmat  ver  hofum  leingi
 
 1  S\'i5r,  gen.  svinns,  like  ma'Sr,  manns.
 
@@ -11179,11 +10404,9 @@ of  Norse  tradition,  and  assures  us  that  horsQs  were  consecrated  to
 Freyr,  and  maintained  in  the  hallowed  precincts  of  Ids  temples.
 Had  not  the  temples  of  other  gods  such  horses  too  ?  The  animals
 that  Wilibrord  found  grazing  in  Fosete's  sanctuary  (p.  230)  can
-hardly  have  been  horses,  or  he  would  not  have  had  them  slaugh-
-tered for  food ;  but  the  practice  of  rearing  cattle  consecrated  to
+hardly  have  been  horses,  or  he  would  not  have  had  them  slaughtered for  food ;  but  the  practice  of  rearing  cattle  consecrated  to
 the  gods  is  established  by  it  none  the  less.  And  apart  from  this,
-it  seems  that  single  beasts  were  maintained  by  private  worship-
-pers of  the  god.
+it  seems  that  single  beasts  were  maintained  by  private  worshippers of  the  god.
 
 Such  breed  of  pure  and  dedicated  horses  was  destined  for  holy
 uses,  especially  sacrifice,  divination,  and  the  periodical  tours  of
@@ -11212,8 +10435,7 @@ and  taking  one  man  before  him  and  the  other  behind,  to  set  one
 of  them  down  on  the  property  (8,  831;  conf.  2,  541).  A  foal
 was  esteemed  even  purer  and  nobler  than  a  horse  (see  Snppl.).^
 
-Tacitus  (Germ.  9,  10),  after  saying  '  lucos  ac  nemora  conse-
-crant,^  adds  :  '  Proprium  gentis,  eqiiorum  quoque  praesagia  ac
+Tacitus  (Germ.  9,  10),  after  saying  '  lucos  ac  nemora  consecrant,^  adds  :  '  Proprium  gentis,  eqiiorum  quoque  praesagia  ac
 monitus  experiri.  Puhlice  aluntur,  iisdem  nemo7'ibus  ac  lucis,
 candidi  et  nullo  tnortali  opere  contadi,  quos  presses  sacro  curru
 sacerdos  ac  rex  vel  princeps  civitatis  comitantur,  himiitusque  ac
@@ -11223,11 +10445,9 @@ ministros  deorum,  illos  conscios  putant ; '  these  sacred  beasts  are
 in  the  secrets  of  the  gods,  and  can  reveal  their  counsels.  And  in
 christian  times  the  Indiculus  pagan,  cap.  xiii.  speaks  '  de  auguriis
 equorum,'  without  describing  them  further.  A  horse's  neigh  is
-an  omen  of  good  (Sup.  I,  239).'^  To  warriors  victory  was  fore-
-tokened by  their  chargers'  neighing  (OHG.  hueion,  MHG.  weien,
+an  omen  of  good  (Sup.  I,  239).'^  To  warriors  victory  was  foretokened by  their  chargers'  neighing  (OHG.  hueion,  MHG.  weien,
 M.  Neth.  neien,  ON.  hneggja,  Swed.  gnagga),  and  defeat  by
-their  withholding  the  cheerful  spirit-stirring  strain  :  see  an  in-
-stance in  the  Flem.  rhyming  chron.,   ed.   Kausler    7152.       We
+their  withholding  the  cheerful  spirit-stirring  strain  :  see  an  instance in  the  Flem.  rhyming  chron.,   ed.   Kausler    7152.       We
 
 
 1  Single  hairs  oi;t  of  the  mane  or  tail  of  a  saereJ  horse  were  treasured  up.
@@ -11238,8 +10458,7 @@ thought  himself  lucky,  and  sewed  it  into  the  middle  of  his  milk-strai
 milk  was  proof  against  witchcraft.
 
 -  A  foal's  tooth,  it  seems,  was  hung  about  the  person,  and  worn  as  a  safeguard.
-A  MHGr.  poet  says:  '  gevater  unde  fuU-zant  an  gruzen  uceten  sint  ze  swach,'  god-
-fathers and  foal's  teeth  are  too  weak  in  great  emergencies,  MS.  2,  160^.  To  let
+A  MHGr.  poet  says:  '  gevater  unde  fuU-zant  an  gruzen  uceten  sint  ze  swach,'  godfathers and  foal's  teeth  are  too  weak  in  great  emergencies,  MS.  2,  160^.  To  let
 children  ride  on  a  black  foal  makes  them  cut  their  teeth  easily,  Superst.  I,  428.
 From  Eracl.  1320.  1485  fill-zene  appear  to  be  the  milk-teeth  shed  by  a  foal  (see
 Suppl.).
@@ -11270,11 +10489,9 @@ the  direction  whence  the  man  they  had  a  spite  against,  and
 wished  to  harm,  was  sure  to  come.^  This  was  called  a  neidstange
 (spite-stake).  Saxo  Gram.  p.  75  :  Immolati  diis  equi  ahscissum
 caput  conto  excipieyis,  subjectis  stipitihus  distentos  faucium  rictus
-aperuit,  sperans  se  primes  Erici  conatus  atrocis  spectaculi  for-
-midine  frustraturum.  Arbitrabatur  enim  ineptas  barbarorum
+aperuit,  sperans  se  primes  Erici  conatus  atrocis  spectaculi  formidine  frustraturum.  Arbitrabatur  enim  ineptas  barbarorum
 mentes  oblatae  cervicis  terriculamento  cessuras;  et  jam  Ericus
-obvium  illis  iter  agebat.  Qui  prospecto  eminus  capite,  obscoeuita-
-tis  apparatum  intelligens,  silere  socios  cautiusque  se  gerere  jubet,
+obvium  illis  iter  agebat.  Qui  prospecto  eminus  capite,  obscoeuitatis  apparatum  intelligens,  silere  socios  cautiusque  se  gerere  jubet,
 nee  quemquam  temere  prsecipitare  sermonem,  ne  incauto  effamine
 ullum  maleficiis  instruerent  locum,  adjiciens,  si  sermone  opus
 incideret,  verba  se  pro  omnibus  habiturum.  Jamque  medius  illos
@@ -11294,8 +10511,6 @@ inn.    yX  tokhann  liross-lii'ifad'  ok  seiti  up  d  staungina.    silSan  v
 Isengr.  6i5-7-8.     Eeiuardus  3,  2'j3.  312.     Heiuhart,  introd.  p.  Ixix.
 
 
-660  TREES   AND   ANIMALS.
-
 hann  formala  ok  maelti  sva :  '  hei-  set  ek  upp  ni&staung,  ok  snj^
 ek  bessu  ni'Si  a  liond  Eiriki  koniiagi  ok  Guunhilda  drottningu.'
 liann  sneri  hross-lwf&inu  inn  d  land. — At  otlier  times  they  carved
@@ -11307,13 +10522,10 @@ eina  (killed  a  mare),  ok  opnu^u  hana  hia  briostinu,  foirffu  a
 suluna,  ok  letu  horfa  ];eim  a  Borg  (see  Suppl.).  It  is  well  worth
 noticing,  that  to  this  very  day  the  peasants'  houses  in  a  part
 of  Lower  Saxony  (Liineburg,  Holstein,  Mecklenburg)  have  horses'
-heads  carved  on  the  gables  :  they  look  upon  it  merely  as  an  orna-
-ment to  the  woodwork  of  the  roof,  but  the  custom  may  reach
-far  back,  and  have  to  do  with  the  heathen  belief  in  outward-
-pointing  heads  keeping  mischief  away  from  houses.^  The  Jahrb.
+heads  carved  on  the  gables  :  they  look  upon  it  merely  as  an  ornament to  the  woodwork  of  the  roof,  but  the  custom  may  reach
+far  back,  and  have  to  do  with  the  heathen  belief  in  outwardpointing  heads  keeping  mischief  away  from  houses.^  The  Jahrb.
 of  the  Meckl.  verein  2,  118  says,  these  horses'  heads  are  nailed
-transversely  on  each  gable-end  (kiihlende)  of  the  roof,  a  remin-
-iscence of  the  sacred  horses  of  the  ancients.  Heinr.  Schreiber
+transversely  on  each  gable-end  (kiihlende)  of  the  roof,  a  reminiscence of  the  sacred  horses  of  the  ancients.  Heinr.  Schreiber
 (Taschenb.  f.  1840,  p.  240  seq.)  has  likewise  noticed  these  horses
 rushing  at  each  other  on  gables  of  the  older  houses  in  Romanic
 Rheetia  (not  Germ.  Switz.,  but  Tyrol ;  see  Zingerle's  Sitten
@@ -11333,8 +10545,7 @@ fixing  round  their  stables  the  heads  of  mad  horses  and  cows  on
 2  Pretty  much  as  they  turned  the  eagle's  head  on  the  house,  and  thought
 thereby  to  shift  the  wind  (p.  C33-4:).  The  heathen  practice  of  fastening  up  animals'
 heads  explains  many  very  old  names  of  places  in  Germ,  and  France,  as  Berhaupten,
-Tlerhaupten,  Roshaupten,  Schm.  2,  223.  Ad  locum  qui  nuncupatur  caput  caballi-
-num,  Pertz  2,  278.  Ad  locum  qui  vocatur  caput  equi  (Vita  S.  Magni,  in  Canisius's
+Tlerhaupten,  Roshaupten,  Schm.  2,  223.  Ad  locum  qui  nuncupatur  caput  caballinum,  Pertz  2,  278.  Ad  locum  qui  vocatur  caput  equi  (Vita  S.  Magni,  in  Canisius's
 Lect.  ant.  1,  6G7),  with  the  addition  in  Goldast  (Scr.  rer.  Alem.  i.  2, 198j  :  '  et  idcurco
 Tocatus  est  ille  locus  caput  equi,  quia  omnes  venatores  reliquerant  ibi  sues  caballos,
 et  pedestres  ibaut  ad  venaudum.'  Obviously  a  false  later  interpretation  ;  in  fact
@@ -11359,10 +10570,8 @@ Preetorius's   account  is  enough  to  shew  that  Slavs  agreed  with
 Germans  in  the  matter  of  horse- worship.    But  older  and  weightier
 witnesses  are  not  wanting.     Dietmar  of  Merseburg  (6,  17.  p.  812)
 reports    of    the    Luitizers,    i.e.    Wilzes :     '  Terram    cum    tremore
-infodiunt,  quo  sortibus  eraissis  [imm.  ?]  rerum  certitudinem  du-
-biarum   perquirant.     Quibus  finitis,  cespite  viridi  eas  operientes,
-eqiium,  qui  maximus  inter  alios  habetur  et  ut  sacer  ah  his  vener-
-atur,  super  Jixas  in  terram   duorum  cuspides  hastiliwm  inter  se
+infodiunt,  quo  sortibus  eraissis  [imm.  ?]  rerum  certitudinem  dubiarum   perquirant.     Quibus  finitis,  cespite  viridi  eas  operientes,
+eqiium,  qui  maximus  inter  alios  habetur  et  ut  sacer  ah  his  veneratur,  super  Jixas  in  terram   duorum  cuspides  hastiliwm  inter  se
 transmissorum  supplici  obsequio  diicunt,   et    praemissis    sortibus
 quibus    id    explicavere    prius,    per    hunc    quasi    divinuTn    denuo
 aurjurantur ;  et  si  in   duabus  his  rebus  par  omen  apparet,  factis
@@ -11375,8 +10584,7 @@ valde.     Iste  toto  anni  tempore  vacabat,  tantaeque  fuit  sanctitatis
 ut    nullum   dignaretur   sessorem ;    habuitque    unum    de   quatuor
 sacerdotibus  templorum  custodem  diligentissimum.     Quando  ergo
 itinera    terrestri    contra   hostes    aut   praedatum    ire    cogitabant,
-eventum  rei  hoc  modo  solebaut  praediscere.     Hastae  novem  dis-
-ponebantur   humo,    spatio    unius    cubiti    ab    invicem    separatae.
+eventum  rei  hoc  modo  solebaut  praediscere.     Hastae  novem  disponebantur   humo,    spatio    unius    cubiti    ab    invicem    separatae.
 Strato  ergo  caballo  atque  frenato,  sacerdos,  ad  quem  pertinebat
 custodia   illius,    tentum    freno  jjer  jacentes     hastas    transversum
 dueehat  tor,  atque  roducehat.     Quod  si  pedibus  inoffensis  hastisque
@@ -11388,8 +10596,6 @@ dueehat  tor,  atque  roducehat.     Quod  si  pedibus  inoffensis  hastisque
 3,  2032.  2153.  Does  the  expression  spun  out  of  a  dead  horse's  head '  in  Burc.ad,
 WalJis  i,  2,  mean  euchautud  ?
 
-
-662  TREES   AND  ANIMALS.
 
 indisturbatis  equus  transibat,  signum  habuere  prosperitatis,  et
 securi  pergebant;  sin  autem^  quiescebant/ — Here  tbe  lioly  steed
@@ -11408,8 +10614,7 @@ quod  is  nocturno  tempore  stabulo  insistens  adeo  plerumque  mane
 sudore  ac  luto  respersus  videbatur,^  tanquam  ab  exercitatione
 veniendo  magnorum  itinerum  spacia  percurrisset.  Auspicia
 quoque  per  eundem  equum  hujusmodi  sumebantur.  Cum  bellum
-adversum  aliquam  provinciam  suscipi  placuisset,  ante  fanum  tri-
-plex hastarum  ordo  miuistrorum  opera  disponi  solebat,  in  quorum
+adversum  aliquam  provinciam  suscipi  placuisset,  ante  fanum  triplex hastarum  ordo  miuistrorum  opera  disponi  solebat,  in  quorum
 quolibet  hinae  e  traverso  jundae  conversis  in  terram  cuspidibus
 figebantur,  aequali  spaciorum  magnitudine  ordines  disparante.
 Ad  quos  equus  ductandae  expeditionis  tempore,  solenni  jorecatione
@@ -11417,8 +10622,7 @@ praemissa,  a  sacerdote  e  vestibulo  cum  loramentis  productus,  si
 propositos  ordines  ante  dextro  quam  laevo  pede  transcenderet,
 faustum  gerendi  belli  omen  accipiebatur.  Sin  laevum  vel  semel
 dextro  praetulisset,  petendae  provinciae  propositum  mutabatnr.' —
-This  description  is  still  more  exact :  the  sacred  horse,  here  attri-
-buted to  the  deity  himself  who  bestrides  him  by  night,  is  led
+This  description  is  still  more  exact :  the  sacred  horse,  here  attributed to  the  deity  himself  who  bestrides  him  by  night,  is  led
 three  times  over  two  spears  planted  crosswise,  that  is,  over  six
 spears,  and  must,  for  the  omen  to  be  favourable,  pass  each  row
 with  his  right  foot  foremost ;  if  at  even  one  row  he  has  lifted
@@ -11438,8 +10642,7 @@ HOESES.  663'
 
 our  children's  game)  took  away  their  sacred  horse  from  the
 Lutizers,  and  rode  home  to  Saxony  on  it  himself:  'Barcardus
-Halberstatensis  episcopus  Luiticiorum  provinciam  ingressus  in-
-cendit,  vastavit^  avectoque  equo  quern  pro  deo  in  Rheda^  colebant,
+Halberstatensis  episcopus  Luiticiorum  provinciam  ingressus  incendit,  vastavit^  avectoque  equo  quern  pro  deo  in  Rheda^  colebant,
 super  eum  sedens  in  Saxoniam  rediit/
 
 May  we  then  adopt  the  hypothesis,  that  Dietmar  and  the
@@ -11451,14 +10654,11 @@ too,  horses  may  have  been  dedicated  to  several  deities,  and
 divination  performed  with  them  under  similar  forms ;  especially
 to  the  gods  Frouwo  (p.  656)  and  Wuotan  (p.  154-5-6).
 
-Some  accounts  of  the  reverence  paid  to  sacred  horses  in  Dit-
-marsen  have  a  doubtful  look.  The  Rieswold  or  E-iesumwold  on
+Some  accounts  of  the  reverence  paid  to  sacred  horses  in  Ditmarsen  have  a  doubtful  look.  The  Rieswold  or  E-iesumwold  on
 the  confines  of  N.  and  S.  Ditmarsen  is  said  to  have  been  a  holy
 wood,  in  which  human  sacrifices  were  offered,  and  ivhite  horses
-consecrated  to  gods  were  maintained.^  This  is  simply  an  unauthor-
-ized appropriation  of  the  statement  in  Tacitus  to  a  particular
-locality.  There  is  more  of  local  colour  in  what  Bolten  1,  262  re-
-peats after  the  suspicious  Carsten,  that  at  Windbergen  there
+consecrated  to  gods  were  maintained.^  This  is  simply  an  unauthorized appropriation  of  the  statement  in  Tacitus  to  a  particular
+locality.  There  is  more  of  local  colour  in  what  Bolten  1,  262  repeats after  the  suspicious  Carsten,  that  at  Windbergen  there
 stood  a  grove  set  apart  to  Hesus  (!),  which  is  still  called  Hese
 or  Heseholt.^  In  the  grove  tiuo  ivhite  horses,  a  young  and  an
 old,  were  fed  for  the  god,  no  one  was  allowed  to  mount  them,  and
@@ -11488,8 +10688,6 @@ Ruhr  in  Westph.  (Lacombl.  no.  6.  17.  G4.  2G0)  and  the  '  silva  caesi
 VOL.   II.  Q
 
 
-(664  TREES   AND   ANIMALS.
-
 But  in  the  case  of  the  heathen  Livonians  the  Slav  custom
 admits  of  proof.  The  Chronicon  livonicum  vetus  relates  ad
 an.  1192  (in  Gruber  p.  7):  '  Colligitur  populus,  voluntas  deorum
@@ -11497,21 +10695,17 @@ Ae  immolatione  (fratris  Theoderici  cisterciensis)  sorte  inquiritur.
 Ponihir  lancea,  calcat  equus ;  pedevi  vitae  deputatum  (the  right
 foot)  nutu  dei  praeponit.  Orat  frater  ore^  manu  benedicit.
 Ariolus  deum  Christianorum  equi  dorso  insidere  et  pedem  equi
-ad  praeponendum  movere  asserit,  et  ob  hoc  equi  dorsum  tergen-
-dum,  quo  deus  elabatur.  Quo  facto,  dum  equus  vitae  pedem
+ad  praeponendum  movere  asserit,  et  ob  hoc  equi  dorsum  tergendum,  quo  deus  elabatur.  Quo  facto,  dum  equus  vitae  pedem
 praeponit  ut  prius,  frater  Theodoricus  vitae  reservatur.^  Here  a
 heathen  and  a  christian  miracle  met.
 
 This  worship  was  also  an  Old  Prussian  one  :  '  Prussorum  aliqui
-'equos  nigros,  quidam  albi  coloris,  propter  deos  sues  non  aude-
-bant  aliqualiter  equitare.'     Dusburg  3,  5  (see  Suppl.).^
+'equos  nigros,  quidam  albi  coloris,  propter  deos  sues  non  audebant  aliqualiter  equitare.'     Dusburg  3,  5  (see  Suppl.).^
 
 The  sacrificing  of  horses,  and  the  eating  of  liorseflesh  inseparable
 from  it,  have  been  noticed  (pp.  47-49).  Strabo  reports,  that  the
 Veneti  offered  a  ■white  horse  to  Diomed  (v.  1,  9.  Siebenk.  2,  111.
-Casaub.  215.  Kramer  1,  339).  The  Indians  get  up  grand  horse-
-sacrifices  with  imposing  ceremonies.  What  is  told  of  the  Kal-
-muks  appears  worthy  of  notice.  Among  them  you  see  numbers
+Casaub.  215.  Kramer  1,  339).  The  Indians  get  up  grand  horsesacrifices  with  imposing  ceremonies.  What  is  told  of  the  Kalmuks  appears  worthy  of  notice.  Among  them  you  see  numbers
 of  scaffolds  erected,  bearing  horses^  hides  and  heads,  the  remains
 of  former  sacrifices.  By  the  direction  of  the  horse's  head  to  east
 or  west,  you  can  tell  if  the  sacrifice  was  offered  to  a  good  or
@@ -11543,8 +10737,7 @@ opere  plumario  a  regina  Angliae  ei  misso,  quod  fastu  superbiae
 quadriga  bourn  ferebat/  Chapeaville  2,  69  (an.  1129).  A  chariot
 drawn  hj  four  white  oxen  in  Lorraine  occurs  in  ScbefFer's  Haltaus,
 p.  251.  In  Plutai'ch^s  Marius  cap.  23  is  the  well-known  story  of
-the  Cimbrians  swearing  over  a  brazen  bull,  by  which  the  Mecklen-
-burgers  account  for  the  bulFs  head  in  their  arms  (Mascov  1,  lo).
+the  Cimbrians  swearing  over  a  brazen  bull,  by  which  the  Mecklenburgers  account  for  the  bulFs  head  in  their  arms  (Mascov  1,  lo).
 At  Hvitabaer  the  people  worshipped  an  ox  (Fornald.  sog.  1,  253),
 at  Upsal  a  coiu  {I,  254.  260-6.  270-2  ;  see  Suppl.).
 
@@ -11585,16 +10778,13 @@ the  black  cow,  Sup.  I,  887.  A  Slovc'nic  name  for  the  rainbow  is  w«
 [Eug.  '  the  b.  c.  has  trodden  ou  his  foot,'  of  sorrow,  esp.  bereavement.]
 
 
-666  TREES   AND   ANIMALS.
-
 AS.  hrj'Serj  hro'Ser,  but  Avho  can  tell  whether  '  rinde '  cortex  was
 not  once  aspirated  too  ?  EvpcairT],  the  name  of  one  quarter  of
 the  earthj  must  surely  also  mean  earth  {evpeia  the  broad),  and  on
 p.  338  I  made  a  guess  that  Europa,  whom  Zeus  courted  in  the
 shape  of  a  bull,  must  herself  have  been  thought  of  as  a  cow,  like
 lo ;  it  was  not  the  earth  took  name  from  her,  but  she  from  the
-earth.  On  the  worship  of  cows  and  oxen  by  the  Indians,  Egypt-
-ians and  Romans,  I  refer  to  A.  W.  SchlegeFs  learned  treatise.^
+earth.  On  the  worship  of  cows  and  oxen  by  the  Indians,  Egyptians and  Romans,  I  refer  to  A.  W.  SchlegeFs  learned  treatise.^
 The  Israelites  also  made  a  burnt- offering  of  'a  red  heifer  (Goth,
 kalbo)  upon  which  never  came  yoke,^  Numb.  19,  2  (see  Suppl.).
 
@@ -11616,14 +10806,12 @@ in  the  fact  that  he  roots  up  the  ground,  and  men  learnt  from  him
 to  plough.  The  Slavs  also  seem  to  have  worshipped  boars :
 'Testatur  idem  antiquitas,  errore  delusa  vario,  si  quando  his
 saeva  longae  rebellionis  asperitas  immineat,  ut  e  mari  praedicto
-(near  Riedergost)  aper  magnus  et  candido  dente  e  spumis  liices-
-cente  exeat,  seque  in  volutabro  delectatum  terribili  quassatione
+(near  Riedergost)  aper  magnus  et  candido  dente  e  spumis  liicescente  exeat,  seque  in  volutabro  delectatum  terribili  quassatione
 multis  ostendat,'  Ditm.  merseb.  p.  812  (see  Suppl.).
 
 None  but  domestic  animals  were  fit  for  sacrifice,  and  not  all  of
 them,  in  particular  not  the  dog,  though  he  stands  on  much  the
-same  footing  with  his  master  as  the  horse ;  he  is  faithful  and  in-
-telligent, yet  there  is  something  mean  and  unclean  about  him,
+same  footing  with  his  master  as  the  horse ;  he  is  faithful  and  intelligent, yet  there  is  something  mean  and  unclean  about  him,
 
 1  Ind.  bibl.  2,  288—295.
 
@@ -11642,8 +10830,7 @@ and  recognise  an  approaching  god  while  he  is  yet  hidden  from
 the  human  eye.  When  Grimnir  entered  the  house  of  GeirroSr,
 there  was  ^eingi  hundr  sva  olmr,  at  a  hann  mundi  hlaupa/  the
 king  bade  seize  the  dark-cloaked  giant,  '  er  eigi  vildo  hundar
-ara^a,^  Ssem.  39.  40.  So  when  Hel  prowls  about,  the  dogs  per-
-ceive her.  The  Greeks  had  exactly  the  same  notion  :  at  Athena's
+ara^a,^  Ssem.  39.  40.  So  when  Hel  prowls  about,  the  dogs  perceive her.  The  Greeks  had  exactly  the  same  notion  :  at  Athena's
 approach,  no  one  espies  her,  not  even  Telemachos,  only  Odysseus
 and  the  dogs,  Od.  16,  160  :
 
@@ -11674,19 +10861,15 @@ Reg.  4,  467)  presents  the  surname  'Chuonrat  der  lieiligbdr' ;  with
 this  connect  the  name  Halecbern  (Trad,  corb.  Wig.  §  268),  the
 ON.  Ilallblorn,  and  the  still   older  names,  male  and  female,  ON.
 
-1  In  a  Dan.  folksong  1,  207-9  they  bark  at  a  spectre.  Barking  and  not  bark-
-ing are  the  same  thing  here.
+1  In  a  Dan.  folksong  1,  207-9  they  bark  at  a  spectre.  Barking  and  not  barking are  the  same  thing  here.
 
 2  A  striking  confirmation  appears  in  V,  Hugo's  Notre  Dame  cle  Paris  2,  272 :  he
 states,  from  a  book  or  from  oral  tradition,  that  tlie  Gipsies  call  the  fox  picdbleu,
 coureur  des  bois,  the  violi  piedyriti,  picddure,  and  the  bear  vieux  or  grandplre.
 
 
-668  TREES  AND   ANIMALS.
-
 Asbiorn,  AS.  Osheorn,  OHG.  Anspero,  and  ON.  Ashirna,  OHG.
-Anspirin  (in  Walth.  Ospirn),  Ospirinberg,  MB.  28.  2,  123;  ap-
-parently the  legend  of  the  animal's  sacredness  was  still  in  full
+Anspirin  (in  Walth.  Ospirn),  Ospirinberg,  MB.  28.  2,  123;  apparently the  legend  of  the  animal's  sacredness  was  still  in  full
 swing  among  the  people.  Biorn  was  a  side-name  of  Thorr,  and
 Welsh  legend  presents  king  Arthur  as  a  bear  and  a  god^  which  is
 not  to  be  accounted  for  by  the  mere  resemblance  of  his  name  to
@@ -11725,8 +10908,7 @@ ihm  fill-  jagdhund.'
 2  Klaproth  finds  in  Japanese  books,  that  the  people  in  Japan  worship  the  inari
 (fox)  as  a  tutelar  god  :  httle  temples  are  dedicated  to  him  in  many  houses,  espec.
 of  the  commoner  folk.  They  ask  his  advice  in  difficulties,  and  set  rice  or  beans  for
-him  at  night.  If  any  of  it  is  gone  in  the  morniug,  they  believe  the  fox  has  con-
-sumed it,  and  draw  good  omens  from  it;  the  contrary  is  an  unlucky  sign  (Nouv.
+him  at  night.  If  any  of  it  is  gone  in  the  morniug,  they  believe  the  fox  has  consumed it,  and  draw  good  omens  from  it;  the  contrary  is  an  unlucky  sign  (Nouv.
 anuales  des  voyages,  Dec.  1833,  p.  298).  They  take  him  to  be  a  kami  i.e.  the  soul
 of  a  good  man  deceased  (ibid.)
 
@@ -11755,8 +10937,7 @@ relates  of  Mahtildis,  Otto  I.'s  mother  (Pertz  5,  740) :  '  non  solum
 pauperibus,  verum  etiam  avibus  victum  subministrabat ; '  and  we
 find  the  same  in  the  Vita  Mahtild.  (Pertz.  6,  294)  :  '  nee  etiam
 oblita  est  volucrum  aestivo  tempore  in  arboribus  resonantium,
-praecipiens  ministris  sub  arbores  proicere  micas  panis.''  In  Nor-
-way they  used  to  put  out  bunches  of  corn  for  the  sparrows  on
+praecipiens  ministris  sub  arbores  proicere  micas  panis.''  In  Norway they  used  to  put  out  bunches  of  corn  for  the  sparrows  on
 Yule-eve :  '  Jule-aften  at  sette  trende  kornbaand  paa  stoer  under
 aaben  himmel  ved  laden  og  foe-huset  till  spurrens  fode,  at  de
 naste  aar  ikke  skul  giore  skade  (do  no  harm  next  year)  paa
@@ -11776,8 +10957,6 @@ vals-ham,  p.  ;^02.  Wind  is  described  as  a  giant  and  eagle,  p.
 633,  and  sacrod  eagles  scream  on  the  mountains :  '  orn  gol  aria,
 
 
-'670  TREES  AND   ANIMALS.
-
 arar  gullo/'  Seem.  142^  149^.     Wolfram  thinks  of  the  earth  as  a
 bird,  when  he  says,  Wh.  308,  27  :
 
@@ -11788,8 +10967,7 @@ unde  si  der  meie  lert
 ir  muze  alsus  volrecken  (see  SuppL).
 
 Domestic  fowl  available  for  sacrifice,  notably  the  cock  and  the
-goose,  have  but  few  mythic  aspects  that  I  know  of.  Fire  is  de-
-cribed  as  a  red  cock  (p.  601) :  H.  Sachs  has  the  phrase  *to  make
+goose,  have  but  few  mythic  aspects  that  I  know  of.  Fire  is  decribed  as  a  red  cock  (p.  601) :  H.  Sachs  has  the  phrase  *to  make
 the  red  cock  ride  on  one's  rooftree,'  'and  the  Danes  '  den  rode
 hane  galer  over  taget,'  the  red  cock  crows  on  the  thack  (the
 fire  crackles).  Red  cocks  in  preference  had  to  be  brought  in
@@ -11798,8 +10976,7 @@ The  Voluspa  54  sets  before  us  ^Fialarr,  fagur-rauffr  hani '  singing
 in  the  forest ;  a  golden-crested  cock  awakes  the  heroes,  a  dark
 one  crows  in  the  nether  world.  In  the  Danish  song  1,  212  there
 is  meaning  in  the  crowing  of  a  red  and  a  black  cock  one  after  the
-other;  and  another  song  1,  208  adds  a  white  cock  as  well.  An-
-other cock  in  the  Edda,  ViSofnir,  perches  on  Mimamei^Sr,  Ssem.
+other;  and  another  song  1,  208  adds  a  white  cock  as  well.  Another cock  in  the  Edda,  ViSofnir,  perches  on  Mimamei^Sr,  Ssem.
 109^;  with  him  Finn  Magnusen  (Lex.  myth.  824.  1090)  would
 connect  the  cock  they  stick  on  the  Maijpoi^.  The  Wends  erected
 cross-trees,  but,  secretly  still  heathen  at  hoart,  they  contrived  to
@@ -11848,8 +11025,7 @@ sparrow  (sporr)  of  the  Norse  king  Dag  (Yngl.  saga  21),  who
 gathers  news  for  him  out  of  all  countries,  and  whose  death  he
 avenges  by  an  invasion.  Those  scouts  of  OSinn  seem  to  be
 alluded  to  in  several  stories,  e.g.,  Olaf  Tryggv.  cap.  28,  where
-screaming  ravens  testify  that  OSinn  accepts  the  offering  pre-
-sented ;  and  in  Nialss.  119  two  ravens  attend  a  traveller  all  day.
+screaming  ravens  testify  that  OSinn  accepts  the  offering  presented ;  and  in  Nialss.  119  two  ravens  attend  a  traveller  all  day.
 In  like  manner  St.  Gregory  is  escorted  by  three  flying  ravens,
 Paul.  Diac.  1,  26.  In  the  beautiful  myth  of  king  Oswald,  the
 raven  who  gets  his  plumage  bound  with  gold  (conf.  the  falcon,
@@ -11926,8 +11102,7 @@ SWALLOW.      STOEK.      WOODPECKER.  673
 babies.  If^  beside  the  OS.  partic.  odan,  AS.  eaden,  ON.  au^inn
 (genitus),  we  could  produce  a  subst.  ud^  ead  (proles),  all  would  be
 straight.  The  prose  word,  OHG.  storah,  AS.  sto7'c,  ON.  storkr,
-may  be  just  as  old.  In  Frisian  superstition  there  occur  meta-
-morphoses of  storks  into  men,  and  of  men  into  storks.  A  lay
+may  be  just  as  old.  In  Frisian  superstition  there  occur  metamorphoses of  storks  into  men,  and  of  men  into  storks.  A  lay
 of  Wolfram  5^  21  declares  that  storks  never  hurt  the  crops  (see
 Suppl.).
 
@@ -11966,8 +11141,6 @@ Tobler  310'-),  the  simplest  explan.  is  from  picus  martins  ;  yet  fiiil
 and  so  March-fowl  or  Martin's  fowl ;  see  more  in  Chap.  XXXV.,  Path-crossing.
 
 
-674  TREES   AND   ANIMALS.
-
 chimney.  And  to  tliis  day  we  see  her  in  her  red  cap,  and  the
 rest  of  her  body  black,  for  the  soot  of  the  chimney  blackened
 her ;  continually  she  hacks  into  the  bark  of  trees  for  food,  and
@@ -11986,14 +11159,12 @@ sip  laboriously  out  of  hollow  stones  or  cart-ruts  where  rainwater
 has  collected.  But  when  no  rain  has  fallen  and  there  is  drought,
 he  is  sore  athirst,  and  we  hear  unceasingly  his  pain-stricken
 *"  giet ! '  And  the  good  Lord  takes  pity,  and  pours  down  rain
-(Reusch  in  Preuss.  provinz.  bl.  26,  536;  from  Samland).  Fahl-
-mann  in  the  Dorpater  verhandl.  1,  42  gives  an  Esthonian  myth  :
+(Reusch  in  Preuss.  provinz.  bl.  26,  536;  from  Samland).  Fahlmann  in  the  Dorpater  verhandl.  1,  42  gives  an  Esthonian  myth  :
 God  was  having  the  Em-bach  (-beck,  -brook,  p.  599n.)  dug,  and
 set  all  the  beasts  to  work  ;  but  the  Whitsun-fowl  idly  flew  from
 bough  to  bough,  piping  his  song.  Then  the  Lord  asked  him :
 ^  hast  thou  nought  to  do  but  to  spruce  thyself?^  The  bird
-replied,  '  the  work  is  dirty,  I  can^t  afford  to  spoil  my  golden-
-yellow  coat  and  silvery  hose.'  '  Thou  foolish  fop,^  the  Lord
+replied,  '  the  work  is  dirty,  I  can^t  afford  to  spoil  my  goldenyellow  coat  and  silvery  hose.'  '  Thou  foolish  fop,^  the  Lord
 exclaimed,  '  from  henceforth  thou  shalt  wear  black  hose,  and
 never  slake  thy  thirst  at  the  brook,  but  pick  the  raindrops  ofi"  the
 leaves,  and  only  then  strike  up  thy   song  when  other  creatures
@@ -12003,8 +11174,7 @@ creep  away   from   the  coming  storm.' Now   that  Norwegian
 Gertrude's  fowl,  whose  thirsty  piping  brings  on  rain,  is  evidently
 identical,  and  very  likely  another  story  explains  the  rainbird  as
 the  metamorphosis  of  a  vain  idle  person.  Sometimes  it  is  not
-the  woodpecker  at  all  that  is  meant  by  giessvogel,  giesser,  wasser-
-vogel,  'pjingstvogel,  regenpfeifer,  but  a  snipe  (Hofer  1,  306.  341),
+the  woodpecker  at  all  that  is  meant  by  giessvogel,  giesser,  wasservogel,  'pjingstvogel,  regenpfeifer,  but  a  snipe  (Hofer  1,  306.  341),
 whose  cry  likewise  forebodes  a  storm  (p.  184),  or  the  curlew
 (numenius  arquata),    Fr.  jpluvier   (pluviarius).  Boh.  Jcoliha,  Pol.
 
@@ -12020,8 +11190,7 @@ conversing  with  the  wolf  (Reinh.  419).  The  Votiaks  pay  divine
 honours  to  the  tree-tapping  woodpecker,  to  induce  him  to  spare
 their  woods. ^  The  cry  of  this  woodpecker  (zhunia)  the  Servians
 call  klikchi,  kliknuti,  kliktati,  as  they  do  that  of  the  vila  [p.  436,
-but  there  wrongly  ascribed  to  the  tapping  noise].  Wood-
-peckers by  their  tapping  shew  the  way  to  the  river  (Lay  of  Igor
+but  there  wrongly  ascribed  to  the  tapping  noise].  Woodpeckers by  their  tapping  shew  the  way  to  the  river  (Lay  of  Igor
 79) ;  the  old  legend  of  the  woodpecker  and  springwurzel  will  be
 
 examined  in  Chap.  XXXII  (see  Suppl.) . A  near  neighbour  of
@@ -12044,8 +11213,7 @@ MS.  72.  80.  160).  On  the  boughs  of  an  oak  that  springs  out  of
 a  murdered  man's  grave,  holy  sparrowhawks  perch,  and  publish
 the  foul  deed  (see  Suppl.).
 
-There  is  no  bird  to  which  the  gift  of  prophecy  is  more  univer-
-sally conceded  than  the  cuckoo,"  whose  clear  and  measured  voice
+There  is  no  bird  to  which  the  gift  of  prophecy  is  more  universally conceded  than  the  cuckoo,"  whose  clear  and  measured  voice
 rings  in  the  young  foliage  of  the  grove.  The  Old  German  law
 designates  spring  by  the  set  phrase  '  wann  der  gauch  guket '  (RA.
 36),  as  in  Hesiod's  rules  of  husbandry  the  cuckoo's  song  marks
@@ -12059,8 +11227,6 @@ lamentation  for  him :    Spring  praises  the    bird,   '  tarda  hiems '
 MS.  2,  i;-52i>,  also  reduplicated  (like  cuculus)  gucgouch,  MS.  1,  132*,  guggouch,  MS.
 1,  1GG-'  ;  our  gukuk,  kukuk,  Up.G.  guggauch,  gutzgouch.
 
-
-676  TREES   AND   ANIMALS.
 
 chides  him,  shepherds  declare  that  he  is  drowned  or  kidnapped.
 There  is  a  remarkable  line  :
@@ -12095,8 +11261,7 @@ The  story  is,  that  the  bird  was  a  baker's  (or  miller^ s)  man,  and
 that  is  why  he  wears  a  dingy  meal-sprinkled  coat.  In  a  dear
 season  he  robbed  the  poor  of  their  flour,  and  when  God  was
 blessing  the  dough  in  the  oven,  he  would  take  it  out,  and  pull
-lumps  out  of  it,  crying  every  time  '  guk-guk,^  look-look ;  there-
-fore the  Lord  punished  him  by  changing  him  into  a  bird  of  prey.
+lumps  out  of  it,  crying  every  time  '  guk-guk,^  look-look ;  therefore the  Lord  punished  him  by  changing  him  into  a  bird  of  prey.
 
 
 1  Both  eclogues  in  Domavii  Ampbith.  456-7,  where  they  are  attrib.  to  Beda  ;
@@ -12142,8 +11307,7 @@ jag  o-gifc  gar  (I  shall  un-given  go)  ?
 If  he  calls  more  than  ten  times,  they  declare  he  has  got  '  pa  galen
 quist '  (on  the  silly  bough,  i.e.  bewitched) ,  and  give  no  heed  to
 his  prophecies.  And  then  a  good  deal  depends  on  the  quarter
-whence  you  hear  your  cuckoo  first.  You  must  pay  strict  atten-
-tion in  spring;  if  you  hear  him  from  the  north  (the  unlucky
+whence  you  hear  your  cuckoo  first.  You  must  pay  strict  attention in  spring;  if  you  hear  him  from  the  north  (the  unlucky
 quarter),  you  will  see  sorrow  that  year,  from  east  or  west  his
 call  betokens  luck,  and  from  the  south  he  is  the  proclaimer  of
 butter  :  *  ostergok  ar  trostegok,  vestergok  ar  bastagok,  norrgok  or
@@ -12153,8 +11317,7 @@ In  Goethe's  Oracle  of  Spring  the  prophetic  bird  informs  a
 loving  pair  of  their  approaching  marriage  and  the  number  of
 their  children.
 
-It  is  rather  surprising  that  our  song-writers  of  the  13th  cen-
-tury never  bring  in  the  cuckoo  as  a  soothsayer;  no  doubt  the
+It  is  rather  surprising  that  our  song-writers  of  the  13th  century never  bring  in  the  cuckoo  as  a  soothsayer;  no  doubt  the
 fact  or  fancy  was  familiar  to  all,  for  even  in  the  Renner  11340  we
 
 read :
@@ -12178,8 +11341,7 @@ hrossayaukr  (horse- iuckoo),  and  she  too  has  the  gift  of  divination,  p
 accipiens,  -pro  annis  totidem  vices  easdem.  sihi  coniputavit  :  '  eia '
 inquitj  '  certe  viginti  duobus  annis  adhuc  vivam,  ut  quid  tanto
 tempore  mortificem  me  in  ordine  ?  redibo  ad  seculum,  et  seculo
-deditus  viginti  annis  f ruar  deliciis  ejus ;  duobus  annis  qui  super-
-sunt  poenitebo/ — In  the  Couronnemens  Renart,  the  fox  hears  the
+deditus  viginti  annis  f ruar  deliciis  ejus ;  duobus  annis  qui  supersunt  poenitebo/ — In  the  Couronnemens  Renart,  the  fox  hears  the
 bird's  voice^  and  propounds  to  him  the  query :
 
 A  cest  mot  Renart  le  cucu
@@ -12253,15 +11415,12 @@ fern.).  The  0.  Pol.  chronicle  of  Prokosz,^  p.  113  of  the  Lat.  ed.,
 has  a  remarkable  account  of  the  worship  of  a  Slavic  god  Zyvie :
 '  divinitati  Zywie  fanum  exstructum  erat  in  monte  ab  ejusdem
 nomine  Zywiec  dicto,  ubi  primis  diebus  mensis  Maji  innumerus
-populus  pie  conveniens  precabatur  ab  ea,  quae  vitae "  auctor  habe-
-batur,  longam  et  prosperam  valetudinem.  Praecipue  tamen  ei
+populus  pie  conveniens  precabatur  ab  ea,  quae  vitae "  auctor  habebatur,  longam  et  prosperam  valetudinem.  Praecipue  tamen  ei
 litabatur  ab  iis  qui  primnm  cantum  cuculi  audivissent,  ominantes
-superstitiose  tot  annas  se  victiiros  quoties  vocem  repetiisset.  Opin-
-abantur  enim  supremum  hunc  universi  moderatorem  transfigurari
+superstitiose  tot  annas  se  victiiros  quoties  vocem  repetiisset.  Opinabantur  enim  supremum  hunc  universi  moderatorem  transfigurari
 in  ciiculum  ut  ipsis  annuntiaret  vitae  tempora :  unde  crimini
 ducebatur,  capitalique  poena  a  magistratibus  afficiebatur,  qui
-cuculum  occidisset.'  Here  the  oracular  bird  is  a  god  in  meta-
-morpliosis,  just  as  that  Saxon  rhyme  called  him  'kukuk  vani
+cuculum  occidisset.'  Here  the  oracular  bird  is  a  god  in  metamorpliosis,  just  as  that  Saxon  rhyme  called  him  'kukuk  vani
 haven.'
 
 To  the  Servian  haiduks  it  betokens  evil  when  the  kuJcavitsa
@@ -12286,14 +11445,12 @@ II.  K
 
 680  TEEES   AND   ANIMALS.
 
-have  to  weigh  your  words  and  questionSj  so  as  not  to  get  en-
-snared (Arndt's  Sweden  3,  18).  To  kill  him  without  cause  is
+have  to  weigh  your  words  and  questionSj  so  as  not  to  get  ensnared (Arndt's  Sweden  3,  18).  To  kill  him  without  cause  is
 dangerous,  his  followers  might  avenge  it.  He  has  power  to  teaze
 men,  to  delude  them,  what  Swedish  superstition  calls  dara,  and
 Danish  (/awfe.  A  MHGr.  poem  (Fragm.  38^)  has:  ^peterlin  und
 louch  hat  hegucket  mit  der  gouch.'  Often  his  appearing  is  of  evil
-omen.  Paulus  Diac.  6,  55  says  of  Hildeprand  king  of  the  Lom-
-bards :  '  cui  dum  contum,  sicut  moris  est,  traderent,  in  ejus  conti
+omen.  Paulus  Diac.  6,  55  says  of  Hildeprand  king  of  the  Lombards :  '  cui  dum  contum,  sicut  moris  est,  traderent,  in  ejus  conti
 summitate  cuculus  avis  volitando  veniens  insedit.  Tunc  aliquibus
 prudentibus  hoc  portento  visum  est  significari,  ejus  principatum
 inutilem  fore'  (see  Suppl.).
@@ -12332,17 +11489,14 @@ by  way  of  jest  call  the  Prussian  eagle  '  gukezer,'  Schm.  2,  27.
 
 CUCKOO.  681
 
-mount). ^  As  far  back  as  the  10th  cent,  gouh  has  the  side-mean-
-ing of  fool  (N.  ps.  48,  11.  93,  8.  urheizkouh,  war-fool,  N.  Bth.
+mount). ^  As  far  back  as  the  10th  cent,  gouh  has  the  side-meaning of  fool  (N.  ps.  48,  11.  93,  8.  urheizkouh,  war-fool,  N.  Bth.
 175);  the  same  everywhere  in  the  ]3th  (Walth.  22,31.  Trist.
 8631.  18215),  though  commonly  with  a  qualifying  adj.  or  gen.
 pi.  :  ich  tumber  gouch,  MS.  1,  65^.  tumber  denn  ein  gouch,  Troj.
-8126.  tumber  gouch,  Barl.  319,  25.  gouch  unwise  228,  32.  sin-
-neloser  gouch,  319,  38.  der  treit  gouches  houbet  (wears  a  gowk^s
+8126.  tumber  gouch,  Barl.  319,  25.  gouch  unwise  228,  32.  sinneloser  gouch,  319,  38.  der  treit  gouches  houbet  (wears  a  gowk^s
 head),  MsH.  3,  468».  rehter  witze  ein  gouch,  MS.  2,  124^  der
 niffire  ein  goichelin  (dim.),  and  gouchgouolt  (augm.),  Ben.  209.
-The  ON.  gaukr  is  likewise  arrogans  morio.  Hans  Sachs  occa-
-sionally uses  GcmcJiherg^  in  the  same  sense,  ii.  4,  llO'^  (Kempten
+The  ON.  gaukr  is  likewise  arrogans  morio.  Hans  Sachs  occasionally uses  GcmcJiherg^  in  the  same  sense,  ii.  4,  llO'^  (Kempten
 ii.  4,  220^),  extr.  from  Goz  1,  52.  Yet  originally  in  Gauchsberg
 the  bird  himself  may  very  well  have  been  meant  in  a  mystic  sense
 which  has  fallen  dark  to  us  now  (see  Suppl.).^
@@ -12355,8 +11509,7 @@ bastard  (Nib.  810,  1.  Aw.  1,  46),  as  the  Swiss  giigsch  still
 means  an  unbidden  rival  suitor.  He  even  comes  out  as  a  fiendish
 being,  or  the  fiend  himself,  in  phrases  everywhere  known  from  of
 old  :  '  cuckoo  knows,  cuckoo  take  him,  cuckoo  sent  him  here '
-and  the  like,  in  all  of  which  the  deviPs  name  might  be  substi-
-tuted without  change  of  meaning.  This  seems  to  me  to  point
+and  the  like,  in  all  of  which  the  deviPs  name  might  be  substituted without  change  of  meaning.  This  seems  to  me  to  point
 to  old  heathen  traditions,  to  which  the  diabolic  tinge  was  added
 only  by  degrees  ;  and  among  these  I  reckon  the  Low  Saxon
 formula  '  the  cuckoo  and  his  clerh  (or  sexton) ' !  by  which  clerk  is
@@ -12364,8 +11517,7 @@ meant  the  Jioopoo  (Brem.  wtb.  2,  858),  a  bird  that  is  likewise
 thought  to  have  received  his  form  by  metamorphosis.  I  cannot
 trace  the  story  of  the  cuckoo  and  Iwoiooo  any  further ;  does  the
 
-'  Hence  we  find,  as  substitutes  for  it,  Affenherc  (Docen's  Misc.  2,  187)  ;  Affen-
-berc  and  NancnUil,  MsH.  3,  200^';  AJ'enta'l,  ibid.  213;^.  Winsbeke  45,7.  Eeuner
+'  Hence  we  find,  as  substitutes  for  it,  Affenherc  (Docen's  Misc.  2,  187)  ;  Affenberc  and  NancnUil,  MsH.  3,  200^';  AJ'enta'l,  ibid.  213;^.  Winsbeke  45,7.  Eeuner
 16469  ;  Apenbery  and  Narrenberg  in  the  Plattd.  '  Narragonia  '  77'^  137'' ;  Esclsberc,
 Diut.  2,  77.  Animals  whose  stupidity  was  proverbial  of  old,  are  the  ox,  ass,  ape,
 goat,  goose,  gowk  and  jay  :  vi'5  osvinna  wpa,  Sicm.  25'^.  atrunur  apa  55-'.  Notk.  ps.
@@ -12373,8 +11525,7 @@ goat,  goose,  gowk  and  jay  :  vi'5  osvinna  wpa,  Sicm.  25'^.  atrunur  ap
 
 2  Much  oftener  Scluilksbern  (rogxie's  hill)  in  the  phrase  '  in  dtu  schalksperg
 hawen  (hew) '  i.  5,  o24''.  iii.  3,  28''.  54^.  iv.  3,  20^.  Sl^.  40* ;  the  reason  of  which  I
-do  not  know.  '  Sc]i(ilkxber(/  wine  grows  in  Frauconia.'  '  Heuricus  dictus  de  Scalkes-
-bergh,'  Spilker  2,  148  (an.  1268).
+do  not  know.  '  Sc]i(ilkxber(/  wine  grows  in  Frauconia.'  '  Heuricus  dictus  de  Scalkesbergh,'  Spilker  2,  148  (an.  1268).
 
 ^  Those  who  crave  other  explanations,  will  find  plenty  in  Mone's  Anz.  6,  350
 seq.  '  Gouchsberg  is  Caucasus,  as  Elberich  is  the  sjjirit  of  Elburj,  diabulus  the
@@ -12391,21 +11542,15 @@ him.
 
 The  froth  on  willows,  caused  by  the  cicada  spumaria,  we  call
 JcuJcuJcs-speichel,  Swiss  guggersjjeu,  Engl.  cucTcoo-spit,  -spittle,  Dan.
-giogespyt,  but  in  some  places  witch's  spittle,  Norweg.  trold-
-kiaringspye  :^  another  proof  of  the  bird's  connexion  with  preter-
-natural things,  and  reminding  us  of  the  bird-spittle  (fugls  hraki)
+giogespyt,  but  in  some  places  witch's  spittle,  Norweg.  troldkiaringspye  :^  another  proof  of  the  bird's  connexion  with  preternatural things,  and  reminding  us  of  the  bird-spittle  (fugls  hraki)
 which  in  Sn.  34  goes  to  make  up  the  band  Gleipnir.  Several
 names  of  plants  assure  us  of  his  mythic  nature.  Sorrel  :  OHG.
-gouchesampfera,  Swiss  gxiggersauer,  AS.  gedcessure,  Dan.  gioge-
-mad,  giogesyre,  it  being  supposed  that  he  loved  to  eat  it ;  our
-hukulisbrot,  gauclilauch,  Fr.  pain  de  coucou,  panis  cuculi.  Cuckoo-
-flower :  kuhukshlume,  gauchhlume,  flos  cuculi.  Pimpernel :  gaucli-
-heil,  etc.,  guckganchdorn,  Fischart's  Geschichtskl.  269^.
+gouchesampfera,  Swiss  gxiggersauer,  AS.  gedcessure,  Dan.  giogemad,  giogesyre,  it  being  supposed  that  he  loved  to  eat  it ;  our
+hukulisbrot,  gauclilauch,  Fr.  pain  de  coucou,  panis  cuculi.  Cuckooflower :  kuhukshlume,  gauchhlume,  flos  cuculi.  Pimpernel :  gaucliheil,  etc.,  guckganchdorn,  Fischart's  Geschichtskl.  269^.
 
 The  Slavs  all  make  this  bird  feminine,  and  see  nothing  bad,
 nothing  fiendish  iii  it  :  zezhulice  sits  on  the  oak,  and  bewails  the
-passing  away  of  spring,  Koniginh.  MS.  174.  The  Servian  kiiJca-
-vitsa  was  once  a  maiden,  who  wept  her  brother's  death  till  she
+passing  away  of  spring,  Koniginh.  MS.  174.  The  Servian  kiiJcavitsa  was  once  a  maiden,  who  wept  her  brother's  death  till  she
 was  changed  into  the  bird  ;  '  sinia  (gray)  kukavitsa,'  Vuk  3,  66 ;
 three  women  turned  into  kukavitsas,  Vuk  1,  no.  321.  In  songs
 of  Lit.  Russia  still  a  moping  melancholy  bird  ;  and  in  Russian
@@ -12441,10 +11586,7 @@ finds  in  the  wood;  did  he  do  this  in  the  service  of  a  god^  who
 therefore  would  not  suS'er  him  to  be  molested  ?
 
 The  tiny  titmouse^  whom  he  called  gossip,  was  able  to  outwit
-even  Reynard  himself.  The  weisthiimer  tell  us  in  what  estima-
-tion this  little  forest  bird  was  held,  by  setting  the  severest  penal-
-ties on  his  capture  :  '  item,  si  quis  sibilando  vel  alio  modo  volu-
-crem  ilium  ceperit,  qui  vulgo  meise  nuncupatur,  banni  reus  erit,^
+even  Reynard  himself.  The  weisthiimer  tell  us  in  what  estimation this  little  forest  bird  was  held,  by  setting  the  severest  penalties on  his  capture  :  '  item,  si  quis  sibilando  vel  alio  modo  volucrem  ilium  ceperit,  qui  vulgo  meise  nuncupatur,  banni  reus  erit,^
 Jura  archiep.  trever.,  in  Lacombl.  arch.  326.  '  si  quis  auceps
 hanc  silvam  intraverit,  pro  nullo  genere  volucrum  componet,  nisi
 capiat  meisam  que  dicitur  banmeisa,  et  pro  ilia  componat  60  sol.
@@ -12452,12 +11594,9 @@ tanquam  pro  cervo,^  ibid.  367.  '  wer  da  fehet  ein  hermeisen,  der
 sal  geben  ein  koppechte  hennen  und  zwelf  hunkeln,  und  sechzig
 schilling  pfenning  und  einen  helbeling,'  Dreieicher  wildbann
 (Weisth.  1,  499).  'wer  eine  kolmeise  fienge  mit  limen  ader  mit
-slagegarn,  der  sal  unserme  herrn  geben  eine  falbe  henne  mit  sie-
-ben  hiinkeln,^  Rheingauer  w.  1,  535.  '  wer  ein  sterzmeise  fahet,
-der  ist  umb  leib  u.  guet,  und  in  unsers  herrn  ungnad,^  Creuz-
-nacher  w.  2,  153. — The  reason  of  these  laws  is  hidden  from  us ;
-plainly  the  bird  was  held  sacred  and  inviolable.  And  it  is  per-
-fectly in  tune  with  this,  that  at  the  present  moment  the  Lettons,
+slagegarn,  der  sal  unserme  herrn  geben  eine  falbe  henne  mit  sieben  hiinkeln,^  Rheingauer  w.  1,  535.  '  wer  ein  sterzmeise  fahet,
+der  ist  umb  leib  u.  guet,  und  in  unsers  herrn  ungnad,^  Creuznacher  w.  2,  153. — The  reason  of  these  laws  is  hidden  from  us ;
+plainly  the  bird  was  held  sacred  and  inviolable.  And  it  is  perfectly in  tune  with  this,  that  at  the  present  moment  the  Lettons,
 who  call  the  bird  sihle,^  regard  it  as  prophetic  and  auspicious,
 and  even  call  a  soothsayer  sihlneeks.^  Also  the  Spanish  name  for
 the  titmouse,  cid  (lord),  or  cid  paxaro  (lord  sparrow),  is  worth
@@ -12482,8 +11621,7 @@ whence  also  spehOn  (explorare),  and  spdhi  (sapiens,  prudens).
 684  TEEES   AND   ANIMALS.
 
 Eeptiles. — Snahes,  by  the  beauty  of  their  shape  and  the  terror
-of  their  bite,  seem  above  all  animals  to  command  awe  and  rever-
-ence. A  great  many  stories  tell  of  an  exchange  of  form  between
+of  their  bite,  seem  above  all  animals  to  command  awe  and  reverence. A  great  many  stories  tell  of  an  exchange  of  form  between
 men  and  snakes  :  an  almost  infallible  sign  of  their  having  been
 worshipped.  Beings  that  had  passed  out  of  human  into  animal
 shapeSj  and  were  able  to  return  into  the  former  at  need,  these
@@ -12493,29 +11631,24 @@ being  malignant  and  diabolic  predominates.
 
 The  same  Vita  Barbati,  which  we  had  to  thank  for  information
 on  the  tree-cultus  of  the  Lombards  (p.  649),  tells  us  likewise  of
-a  worship  of  snakes  :  '  His  vero  diebus,  quamvis  sacra  baptis-
-matis  unda  Langobardi  abluerentur,  tamen  priscum  gentilitatis
+a  worship  of  snakes  :  '  His  vero  diebus,  quamvis  sacra  baptismatis  unda  Langobardi  abluerentur,  tamen  priscum  gentilitatis
 ritum  tenentes,  sive  bestiali  mente  degebant,  hestiae  siinulacliro ,
-quae  vulgo  vipera  novamdituv ,  jiectehant  colla,  quae  debite  suo  de-
-bebant  flectere  Creatori.  .  .  .  Praeterea  Romuald  ej usque
-sodales,  prisco  coecati  errore,  palam  se  solum  Deum  colore  fate-
-bantur,  et  in  abditis  viperae  shnulachi'um,  ad  suam  perniciem
+quae  vulgo  vipera  novamdituv ,  jiectehant  colla,  quae  debite  suo  debebant  flectere  Creatori.  .  .  .  Praeterea  Romuald  ej usque
+sodales,  prisco  coecati  errore,  palam  se  solum  Deum  colore  fatebantur,  et  in  abditis  viperae  shnulachi'um,  ad  suam  perniciem
 adorabant.'  During  the  king's  absence,  Barbatus  beseeches  his
 consort  Theodorada  to  procure  for  him  that  image  of  the  snake.
 '  Illaque  respondit :  Si  hoc  perpetravero,  pater,  veraciter  scio  me
 morituram.'  He  perseveres  and  at  last  persuades  her ;  as  soon
 as  the  image  is  in  his  hands,  he  melts  it  down,  and  delivers  the
 metal  to  goldsmiths  to  make  out  of  it  a  plate  and  a  chalice.^
-Out  of  these  golden  vessels  the  christian  sacrament  is  adminis-
-tered to  the  king  on  his  return,  and  then  Barbatus  confesses  that
+Out  of  these  golden  vessels  the  christian  sacrament  is  administered to  the  king  on  his  return,  and  then  Barbatus  confesses  that
 the  holy  utensils  were  made  by  melting  down  the  idol.  '  Repente
 unus  ex  circumstantibus  ait :  Si  mea  uxor  talia  perpetrasset,  nullo
 interposito  memento  abscinderem  caput  ejus.'  A  passage  in  the
 other  Yita  also  is  pertinent  here :  '  Quinetiam  viperam  auri
 vietallo  forinatam  summi  pro  magnitudine  dei  supplici  devotione
 venerari  videbantur.  Unde  usque  hodie,  sicut  pro  voto  arboris
-Votum,  ita  et  locus  ille  Census,  devotiones  -  ubi  viperae  redde-
-bantur  dignoscitur  appellari.'  About  '  votum  '  I  expressed  my
+Votum,  ita  et  locus  ille  Census,  devotiones  -  ubi  viperae  reddebantur  dignoscitur  appellari.'  About  '  votum  '  I  expressed  my
 mind,  p.  650n. ;  '  census '  signifies  the  Goth,  gild,  gilstr,  OHG.
 helt,  h'elstar  (p.   38-9  and  E.A.  358).     The  two  words  votum  and
 
@@ -12531,17 +11664,14 @@ census  are  no  slight  testimony  to  the  genuineness  and  oldness  of
 
 the  biography. Here  then  we  have  a  striking  instance  of  an
 
-idol  made  of  gold,  and  moreover  of  the  christian  teacher^s  en-
-deavour to  preserve  the  sacred  material,  only  converting  it  into  a
+idol  made  of  gold,  and  moreover  of  the  christian  teacher^s  endeavour to  preserve  the  sacred  material,  only  converting  it  into  a
 christian  form.  What  higher  being  the  snake  represented  to  the
 Lombards,  we  can  scarcely  say  for  certain  ;  not  the  all- encircling
-world-snake,  the  mi'Sgar"Ss-ormr,  iormungandr  of  Norse  myth-
-ology, for  there  is  not  a  hint  that  even  in  the  North,  let  alone
+world-snake,  the  mi'Sgar"Ss-ormr,  iormungandr  of  Norse  mythology, for  there  is  not  a  hint  that  even  in  the  North,  let  alone
 elsewhere,  he  was  visibly  represented  and  worshipped.  Ofnir
 and  Svdfnir  are  ON.  names  of  snakes,  and  side-names  of  OSinn
 (conf.  p.  144)  ;  is  it  Wuotan  that  we  are  to  understand  by  the
-'  summus  deus '  of  the  Lombards  ?  ^  But  the  special  character-
-istics of  their  snake-worship  are  entirely  lost  to  us.  If  the  term
+'  summus  deus '  of  the  Lombards  ?  ^  But  the  special  characteristics of  their  snake-worship  are  entirely  lost  to  us.  If  the  term
 vipera  was  deliberately  chosen,  as  I  have  no  doubt  it  was,  it  can
 only  mean  one  of  the  smaller  kinds  of  snake  (coluber  berus),
 OHG.  natara,  AS.  ncedre,  ON.  na&ra  (also  masc.  na"Sr,  like  Groth.
@@ -12561,8 +11691,7 @@ and  it  is  added,  that  there  are  but  two  such  vipers  alive  at  once,
 for  the  young  ones  soon  after  birth  eat  up  their  parents.  This
 agi'ees  closely  with  the  statements  in  the  Physiologus  (Diut.  3,
 29,  30.  Hoffm.  fundgr.  28).  I  cannot  explain  zunder  from  any
-Italian  dialect ;  saribant  is  the  MHG,  servant,  Trist.  8994.  Sit-
-tenland I  take  to  be  the  canton  Valais,  from  its  capital  Sitten
+Italian  dialect ;  saribant  is  the  MHG,  servant,  Trist.  8994.  Sittenland I  take  to  be  the  canton  Valais,  from  its  capital  Sitten
 (Sion)  ;  there  the  Romance  vipera  might  easily  remain  in  use
 (Grisons  vipra,  vivra).  In  the  Jura  a  never-dying  winged  snake
 with  a  diamond  eye  is  called  vouivre,  Mem.  des  antiq.  G,  217.  In
@@ -12573,8 +11702,6 @@ Berner  Oberland,  p.  422),  and  in  Salzburg  hirgstutze,  Schm.  1,
 ^  '  Summi  pro  magn.  Dei '  may  possibly  mean  '  instead  of  (worshipping)  the
 majesty  of  the  Most  High.' — Tkans.
 
-
-686  TREES   AND   ANIMALS.
 
 Plenty  of  old  tales  are  still  told  of  home-snakes  and  unkes}
 On  meadows  and  pastures,  and  even  in  houses,  snakes  come  to
@@ -12591,8 +11718,7 @@ surprise  the  snake  with  the  child,  and  kill  it,  the  child  begins  to
 fall  away,  and  dies  before  long  (Temme^s  Pomm.  sagen  no.  257).
 Once,  when  a  woman  lay  asleep,  a  snake  crept  into  her  open
 mouth,  and  when  she  gave  birth  to  a  child,  the  snake  lay  tightly
-coiled  round  its  neck,  and  could  only  be  got  away  by  a  milk-
-bath  ;  but  it  never  left  the  baby's  side,  it  lay  in  bed  with  it,  and
+coiled  round  its  neck,  and  could  only  be  got  away  by  a  milkbath  ;  but  it  never  left  the  baby's  side,  it  lay  in  bed  with  it,  and
 ate  out  of  its  bowl,  without  doing  it  any  harm  (Mone's  Anz.  8,
 530).  Then  other  accounts  speak  of  a  multitude  of  snakes  filling
 house  and  yard,  whose  king  was  distinguished  by  a  glittering
@@ -12603,8 +11729,7 @@ out  of  the  crib  by  armfuls.  They  were  friendly  to  the  cattle
 and  the  people ;  but  a  new  farmer  shot  their  king,  and  they  all
 departed,  and  with  them  vanished  wealth  and  prosperity  from
 the  estate  (ibid.  6,  174).^  Here  also  comes  in  the  queen  of  snakes
-(Deut.  sagen  no.  220),  and  a  remarkable  story  in  the  Gesta  Eo-
-manorum  (Keller  p.  152).  To  a  dairymaid  at  Immeneich  there
+(Deut.  sagen  no.  220),  and  a  remarkable  story  in  the  Gesta  Eomanorum  (Keller  p.  152).  To  a  dairymaid  at  Immeneich  there
 came  a  great  snake  into  the  cowshed  every  morning  and  evening
 at  milking-time,  and  wore  a  great  crown  on  its  head.     The  girl
 
@@ -12676,14 +11801,10 @@ etiam  vivos  litaut  liomiues,  quos  a  mercatoribus  emunt,  diligenter  omui
 ne  maciilam  in  corpore  liabeant.'
 
 
-688  TREES   AND   ANIMALS.
-
 (lielz^  hialt)  to  the  point  and  back  again  (Kormakss.  p.  82-4.
-Vilk.  s.  p.  101).  Vitege  liad  the  epithet  '  mit  dem  slangen'  be-
-cause of  his  helmet's  crest  (Heldensage  p.  148).  They  imparted
+Vilk.  s.  p.  101).  Vitege  liad  the  epithet  '  mit  dem  slangen'  because of  his  helmet's  crest  (Heldensage  p.  148).  They  imparted
 strength  to  a  helmet,  and  force  to  the  blade  of  a  sword.  It
-seems  much  the  same  thing,  when  waggoners  plait  adder's-
-tongues  into  their  whips,  Sup.  I,  174  (see  Suppl.).
+seems  much  the  same  thing,  when  waggoners  plait  adder'stongues  into  their  whips,  Sup.  I,  174  (see  Suppl.).
 
 The  snake  crawls  or  wriggles  along  the  ground;  when
 provided  with  wings,  it  is  called  dracfie,  a  non-German  word
@@ -12703,14 +11824,11 @@ previously  killed,  when  sent  out  by  the  smith,  lay  beside  a  linde
 who  had  assumed  the  form  of  a  snake;  of  him  the  Edda  uses
 skrrSa  (repere,  to  stride),  Saem.  186.  Sn.  138;  and  he  is  the
 wyrm  or  di-aca  slain  by  Sigemund  and  Fitela  in  Beow.  1765.
-1779.  In  the  Nib.  101,  2  and  842,  2  he  is  called  lintrache,  lint-
-drache,  in  the  Siegfriedslied  8,  2  Untwurm  :  an  expression  found
-also  in  Mar.  148,  28.  En.  2947.  Troj.  25199,  and  to  be  ex-
-plained, not  from  linde  (tilia)  as  misunderstood  by  later  legend,
+1779.  In  the  Nib.  101,  2  and  842,  2  he  is  called  lintrache,  lintdrache,  in  the  Siegfriedslied  8,  2  Untwurm  :  an  expression  found
+also  in  Mar.  148,  28.  En.  2947.  Troj.  25199,  and  to  be  explained, not  from  linde  (tilia)  as  misunderstood  by  later  legend,
 but  from  the  OHG.  lint.  With  this  lint  (Goth,  linj^s,  AS.  liiS,
 ON.  linn?)  many  women's  names  are  formed  (Gramm.  2,  505),
-e.g.,  Sigilint,  ON.  Sigrlinn  (supra  p.  428),  and  it  may  have  con-
-tained the  notion  of  brightness  or  beauty,^  suitable  alike  to  snake
+e.g.,  Sigilint,  ON.  Sigrlinn  (supra  p.  428),  and  it  may  have  contained the  notion  of  brightness  or  beauty,^  suitable  alike  to  snake
 and  woman ;  the  derivative  weak  form  linni  (masc.)  in  ON.
 signifies  again  coluber,  serpens.  And  Jj{m.hnrg= Lintbiirg,  the
 name  of  several  towns,  is  more  correctly  derived  from  snake  than
@@ -12729,8 +11847,7 @@ named  worm-hed,  ON,  ormbe'Sr  or  ormbe'Ss-eldr  (wormbed's  fire).
 And  with  this  was  linked  a  further  notion,  that  they  guard
 treasures,  and  carry  them  through  the  air  by  night.  That  wyrm
 slain  by  Sigemund  is  called  '  hordes  hyrde/  Beow.  1767  ;  the  one
-that  Beowulf  fought  with  receives  the  epithet  '  se  hord  beweo-
-tode  '  4420.  Fafnir,  formerly  a  giant,  lay  '  in  (the  shape  of)  a
+that  Beowulf  fought  with  receives  the  epithet  '  se  hord  beweotode  '  4420.  Fafnir,  formerly  a  giant,  lay  '  in  (the  shape  of)  a
 worm,^  wearing  the  Oegis-hialm,  over  inherited  gold  (Ssem.
 188^  189'^)  ;  the  expression  is  'i  lyngvi '  (from  lyng,  heath),  and
 the  spot  is  named  Guita-heiSi ;  hence  in  other  cases  also  the  word
@@ -12740,8 +11857,7 @@ one;  so  that  our  OHG.  heimo,  OS.  heina,  AS.  hdma,  spoken  of
 on  p.  387,  may  be  identical  with  lyngvi ;  Vilk.  saga  c.  17,  p,  31
 expressly  calls  heima  '  allra  orma  skcmatr '  (omnium  vermium
 minimus),  but  as  he  is  venomous,  he  cannot  be  the  harmless
-cicada  (OHG-.  muhheimo).  Popular  belief  still  dreams  of  glitter-
-ing treasures  lying  on  lonesome  heaths  and  guarded  by  dragons  ;
+cicada  (OHG-.  muhheimo).  Popular  belief  still  dreams  of  glittering treasures  lying  on  lonesome  heaths  and  guarded  by  dragons  ;
 and  hced'en  gold'  in  Beow.  may  mean  either  aurum  tesquorum  or
 ethnicorum,  for  dragons,  like  giants,  were  thought  of  as  old  and
 full  of  years,  e.g.,  eald  uhtsceaSa,  Beow.  4536  ;  wintrum  froS  (wise
@@ -12767,18 +11883,13 @@ Sigemund,    Siegfried,    Beowulf    stand    forth  as    the   bravest    of
 giant's  skeleton  p.  555n.)  being  fastened  over  the  town-gate,  e.g.  Pulci  4,  76.
 
 
-690  TREES  AND   ANIMALS.
-
 dragon-quellers^  backed  by  a  crowd  of  others,  who  spring  out  of
 the  exhaustless  fount  of  living  legend,  wherever  time  and  place
-requires  them.  Frotho,  a  second  Siegfried,  overpowers  a  veno-
-mous dragon  that  lay  reposing  on  his  treasure,  Saxo  Gram.  p.
+requires  them.  Frotho,  a  second  Siegfried,  overpowers  a  venomous dragon  that  lay  reposing  on  his  treasure,  Saxo  Gram.  p.
 20.  The  beautiful  Thora  Borgarhiortr  had  a  small  l^ngorm  given
-her,  whom  she  placed  in  a  casket,  with  gold  under  him  :  as  he-
-grew,  the  gold  grew  also,  till  the  box  became  too  narrow,  and  the
+her,  whom  she  placed  in  a  casket,  with  gold  under  him  :  as  hegrew,  the  gold  grew  also,  till  the  box  became  too  narrow,  and  the
 worm  laid  himself  in  a  ring  all  round  it ;  soon  the  chamber  was
-too  small,  and  he  lay  round  that,  with  his  tail  in  his  mouth,  admit-
-ting none  into  the  room  unless  they  brought  him  food,  and  he
+too  small,  and  he  lay  round  that,  with  his  tail  in  his  mouth,  admitting none  into  the  room  unless  they  brought  him  food,  and  he
 required  an  ox  at  every  meal.  Then  it  was  proclaimed,  that
 whoever  slew  him  should  get  the  maiden  for  his  bride,  and  as
 much  gold  as  lay  under  the  dragon,  for  her  dowry.  It  was
@@ -12821,11 +11932,9 @@ Jungmann  says,  zmek  is  not  only  a  dragon,  but  a  spirit  who
 appears  in  the  shape  of  a  wet  bird/  usually  a  chicken,  and  brings
 people  money;  Sup.  I,  143  says  you  must  not  hurt  earth-chicks
 or  house-adders ;  Schm.  1,  104  explains  erdhiinlein  (earth -chicken)
-as  a  bright  round  lustre,  in  the  middle  of  which  lies  some-
-thing  dark;  conf.  geuhuon,  Helbl.  8,  858.
+as  a  bright  round  lustre,  in  the  middle  of  which  lies  something  dark;  conf.  geuhuon,  Helbl.  8,  858.
 
-Renvall  thus  describes  the  Finn,  mammelainen :  *  femina  ma-
-ligna, matrix  serpentis,  divitiarum  subterranearum  custos.^  Here
+Renvall  thus  describes  the  Finn,  mammelainen :  *  femina  maligna, matrix  serpentis,  divitiarum  subterranearum  custos.^  Here
 at  last  the  hoard  is  assigned  to  a  female  snake ;  in  Teutonic  and
 also  Slavic  tales  on  the  contrary  it  is  characteristic  of  the  fierce
 fiendish  dragon  (m.)  to  guard  treasure,  and  the  adder  or  unke  (f.)
@@ -12850,8 +11959,7 @@ ceafor,  Engl,  chafer.  We  have  no  business  to  bring  in  the  Lat.
 caper  (which  is  AS.  heefer,  ON.  hafr)  ;  the  root  seems  to  be  the
 AS.  ceaf,  caf=alacer,  for  the  chafer  is  a  brisk  lively  creature,
 and  in  Swabia  they  still  say  kiifermassig  for  agilis,  vivax  (Gramm.
-2,  571. 1013).  The  AS.  has  oeafortun,  cafertun,  for  atrium,  vesti-
-bulum ;  '  scarabaeorum  oppidum '  as  it  were,  because  chafers
+2,  571. 1013).  The  AS.  has  oeafortun,  cafertun,  for  atrium,  vestibulum ;  '  scarabaeorum  oppidum '  as  it  were,  because  chafers
 chirp  in  it  ?  ^     The  second  term,  OHG.  wibil,  wehil,  MHG.  wihel,
 
 
@@ -12872,14 +11980,12 @@ moveri ;  we  say^  '  kriebeln  und  wiebeln '  of  the  swarming  of
 beetles.-^
 
 To  the  Egyptians  the  beetle  (scarabaeus,  Ko.vdapo';,  Kdpa(3o<;)
-was  a  sacred  beings  an  emblem  of  inmost  life  and  mysterious  self-
-generation.  They  believed  that  he  proceeded  out  of  matter
+was  a  sacred  beings  an  emblem  of  inmost  life  and  mysterious  selfgeneration.  They  believed  that  he  proceeded  out  of  matter
 which  he  rolled  into  globules  and  buried  in  manure  (see  Suppl.).
 
 ON.  literature  deals  in  no  prose  terms,  but  at  once  comes  out
 with  the  poetic  name  iotunox,  iotunoxi  (giant-ox)  ;  as  that  giant
-maiden  took  the  ploughman  with  his  oxen  and  plough  for  crawl-
-ing beetles  (p.  540,  Finn,  sontiainen,  sondiainen,  dung-beetle
+maiden  took  the  ploughman  with  his  oxen  and  plough  for  crawling beetles  (p.  540,  Finn,  sontiainen,  sondiainen,  dung-beetle
 from  sonda,  fimus),  so  conversely  the  real  beetle  might  awaken
 the  notion  of  a  iotunox.  To  liken  the  small  animal  to  the  large
 was  natural.
@@ -12897,8 +12003,7 @@ Again,  a  Lat.  name  for  scarabaeus  terrester  was  taurus,  Plin.  30,
 To  the  female  the  Bohemians  give  the  further  name  of  babka
 (granny).
 
-On  p.  183  we  came 'across  a  more  significant  name,  donner-
-guegi,  don7ierpuppe,  in  obvious  allusion  to  Donar,  whose  holy  tree
+On  p.  183  we  came 'across  a  more  significant  name,  donnerguegi,  don7ierpuppe,  in  obvious  allusion  to  Donar,  whose  holy  tree
 the  beetle  loves  to  dwell  in ;  and  with  this,  apparently,  agrees  a
 general  term  for  beetles  which  extends  through  Scandinavia,
 viz.  Westergotl.  torhagge,  Swed.  tortyfvel,  Norweg.  tordivcl,  Jutl.
@@ -12919,11 +12024,9 @@ force  it  has  in  torsdag  (p.  126)  and  tordon  (p.  166);  '  bagge/
 says  Ihre  p.  122,  denotes  juvenis,  puer,  hence  servant  of  the  god,
 which  was  afterwards  exchanged  for  dyfvel=diefvul,  devil.
 Afzehns  (Sagohafder  1,  12.  13)  assures  us,  that  the  torbagge  was
-sacred  to  Thor,  that  in  Norrlandhis  larva  is  called  mulloxe  (earth-
-ox,  our  Swiss  donnerpuppe  ?  conf.  iotunoxi),  and  that  he  who
+sacred  to  Thor,  that  in  Norrlandhis  larva  is  called  mulloxe  (earthox,  our  Swiss  donnerpuppe  ?  conf.  iotunoxi),  and  that  he  who
 finds  a  dung-beetle  lying  on  Jtis  hack  (ofvaltes)  unable  to  help
-himself,  and  sets  him  on  his  legs  again,  is  believed  by  the  Norr-
-landers  to  have  atoned  for  seven  sins  thereby.
+himself,  and  sets  him  on  his  legs  again,  is  believed  by  the  Norrlanders  to  have  atoned  for  seven  sins  thereby.
 
 This  sounds  antique  enough,  and  I  do  not  hastily  reject  the
 proposed  interpretation  of  tordyfvel,  false  as  it  looks.  For  the
@@ -12934,8 +12037,7 @@ the  same  solution,  even  though  a  simple  '  tord  '  and  '  vivel  ^  be
 now  wanting  in  all  the  Scandinavian  dialects.  The  Icelandic
 has  turned  tordivel  about  into  torfdijill,  as  if  turf- devil,  from
 torf,  gleba.  There  is  also  the  N.  Neth.  tor,  torre  beetle,  and
-drehtorre  dungbeetle  [or  devil's  coach-horse ;  also  Engl,  dumhle-
-dorr  cockchafer],  to  be  taken  into  account  (see  Suppl.).
+drehtorre  dungbeetle  [or  devil's  coach-horse ;  also  Engl,  dumhledorr  cockchafer],  to  be  taken  into  account  (see  Suppl.).
 
 But  who  ever  saw  even  a  beetle  lie  struggling  on  his  back,
 without  compassionately  turning  him  over  ?  The  German  people,
@@ -12949,8 +12051,7 @@ first  cockchafer  (Maikafer)  ^  used  to  be  escorted  in  from  the  woods
 with  much  ceremony;  we  have  it  on  good  authority,  that  this
 
 *  Maiknfer  (like  maiblume)  sounds  too  general,  and  not  a  people's  word.  And
-there  is  no  Lat.  name  preserved  either.  The  Greek  fi-qXoXovOrj  designates  our  mai-
-kafer or  our  goldkiifer ;  boys  tied  a  string  to  it  and  phiyed  with  it  (Aristoph.  Nub.
+there  is  no  Lat.  name  preserved  either.  The  Greek  fi-qXoXovOrj  designates  our  maikafer or  our  goldkiifer ;  boys  tied  a  string  to  it  and  phiyed  with  it  (Aristoph.  Nub.
 763),  as  our  boys  do.  The  It.  scarafagfjio  is  formed  from  scarafone  (scarabaeus) ;
 the  Fr.  hanueton  a  dim.  of  the  obsolete  hanne  horse,  which  may  have  been  the  term
 for  the  stagbeetle  (still  potzf/a?*?,  Bruin's  horse,  in  the  Wetterau),  Fr.  cerf  volant,
@@ -12976,9 +12077,7 @@ Folk- tales  of  Up.  Germany  inform  us  :  Some  girls,  not  grown
 up,  went  one  Sunday  to  a  deserted  tower  on  a  hill,  found  the
 stairs  strewn  with  sand,  and  came  to  a  beautiful  room  they  had
 never  seen  before,  in  which  there  stood  a  bed  with  curtains.
-When  they  drew  these  aside,  the  bed  was  swarming  with  gold-
-heetles,  and  jumping  up  and  down  of  itself.  Filled  with  amaze-
-ment, the  girls  looked  on  for  a  while,  till  suddenly  a  terror  seized
+When  they  drew  these  aside,  the  bed  was  swarming  with  goldheetles,  and  jumping  up  and  down  of  itself.  Filled  with  amazement, the  girls  looked  on  for  a  while,  till  suddenly  a  terror  seized
 them,  and  they  fled  out  of  the  room  and  down  the  stairs,  with  an
 unearthly  howl  and  racket  at  their  heels  (Moneys  Anz.  7,  477).
 On  the  castle-hill  by  Wolfartsweiler  a  little  girl  saw  a  copper  pot
@@ -12991,8 +12090,7 @@ appear  as  holy  animals  guarding  gold,  and  themselves  golden.
 In  Sweden  they  call  the  small  goldbeetle  (skalkrak)  Virgin
 Mary's  key-maid  (jungfru  Marie  nyckelpiga),  Dybeck's  Runa
 1844/  p.  10;  in  spring  the  girls  let  her  creep  about  on  their
-hands,  and  say,  '  hon  marker  mig  brudhandskar,'  she  marks  (fore-
-shews)  me  bride's  gloves ;  if  she  flies  away,  they  notice  in  which
+hands,  and  say,  '  hon  marker  mig  brudhandskar,'  she  marks  (foreshews)  me  bride's  gloves ;  if  she  flies  away,  they  notice  in  which
 direction,  for  thence  will  come  the  bridegroom.  Thus  the  beetle
 seems  a  messenger  of  the  goddess  of  love ;  but  the  number  of
 the  black  spots  on  his  wings  has  to  be  considered  too  :  if  more
@@ -13001,8 +12099,7 @@ for  an  abundant  harvest,  Afzel.  3,  112-3.
 
 The  little  coccinella  septempunctata  has  mythical  names  in
 nearly  all  our  dialects :  NHG.  gotteskUhlein  (God's  little  cow),^
-gotteskalb,  herrgotteskalb,  herrgotts-thierchen  (-beastie),  Jierr-
-gots-voglein  (-birdie),  Marienvoglein,  ilfarie?iA;a/er,  Marienkalblein ;
+gotteskalb,  herrgotteskalb,  herrgotts-thierchen  (-beastie),  Jierrgots-voglein  (-birdie),  Marienvoglein,  ilfarie?iA;a/er,  Marienkalblein ;
 Engl,  ladijcoiv,  ladybird,  ladyfly;  Dan.  Marihone  (-hen);  Boh.
 hrawha,  hrawicka  (little  cow).  In  Up.  Germany  they  call  the
 small  goldbeetle  (chrysomela  vulg.)  fraua-chiieli,  ladycow  (Tobler
@@ -13020,12 +12117,10 @@ CHAFEE.      BEE.  695
 
 204'')  and  '  der  Hebe  froue  henje/  our  lady's  hen  (Alb.  Scliott's
 Deutsche  in  Piemonfc  297),  in  contrast  to  herra-chiiell  the
-coccinella  (Tobler  265^),  though  the  name  probably  wavers  be-
-tween the  two.  By  the  same  process  which  we  observed  in  the
+coccinella  (Tobler  265^),  though  the  name  probably  wavers  between the  two.  By  the  same  process  which  we  observed  in  the
 names  of  plants  and  stars,  Mary  seems  to  have  stept  into  the
 place  of  Freyja,  and  Marihone  was  formerly  Freijjuhoena,  which
-we  still  have  word  for  word  in  Froue  henje,  and  the  like  in  Fraua-
-chiieli.  And  of  Romance  tongues,  it  is  only  that  of  France  (where
+we  still  have  word  for  word  in  Froue  henje,  and  the  like  in  Frauachiieli.  And  of  Romance  tongues,  it  is  only  that  of  France  (where
 the  community  of  views  with  Grermany  was  strongest)  that  has  a
 bete  a  dieu,  vacJie  a  dieu ;  Span,  and  Ital.  have  nothing  like  it.
 At  all  events  our  children's  song  :
@@ -13042,8 +12137,7 @@ flieg  in  'n  Jdmmel  aus  der  holle  !    (into  heaven  out  of  hell)
 
 must  be  old,  for  in  England  also  they  sing :  'Ladybird,  ladybird,
 fly  away  home,  your  house  is  on  fire,  and  your  children  will  burn
-[all  but  little  Bessie  that  sits  in  the  sim].'  With  us  too  the  chil-
-dren put  the  Marienkafer  or  sonnenkafer  on  their  finger,  and  ask
+[all  but  little  Bessie  that  sits  in  the  sim].'  With  us  too  the  children put  the  Marienkafer  or  sonnenkafer  on  their  finger,  and  ask
 it,  like  the  cuckoo:  '  sunnenkielien  (sun's  chicken),  ik  frage  di,
 wo  lange  schal  ik  leven  ?  '  '  Een  jaar,  twee  jaar,'  etc.,  till  the
 chafer  flies  away,  its  home  being  in  the  sun  or  in  heaven.  In
@@ -13067,8 +12161,6 @@ pchela  po  tsvetu  (Vuk  I,  128  ed.  2).     The  clear  sweet  honey,
 VOL.  II.  s
 
 
-696  TREES   AND  ANIMALS.
-
 which  bees  suck  out  of  every  blossom,  is  a  chief  ingredient  of  the
 ■    drink  divine  (p.  319),  it  is  the  r/Sela  iBcoSy]  of  the  gods,  Hymn,  in
 '  Merc.  660  ;  and  holy  honey  the  first  food  that  touches  the  lips
@@ -13076,8 +12168,7 @@ of  a  new-born  child,  RA.  457.     Then,  as  the  gift  of  poesy  is
 closely  connected  with  O^hroeris  dreckr,  it  is  bees  that  bring  it
 to  sleeping  Pindar  :  fMeX-icrcrai  avru>  KadevSovri  irpocreTrkrovro   re
 Kol  eirXacraov  irpo^    ra    ^eiA.?;    tov    Krjpov'   a/3%^    /i€V    Tlivhdpw
-TTOtetv  acr/jLara  iyevero  roLavrrj,   Pausan.  ix.  23,  2.     And  there-
-fore they  are  called  Musarum  volucres  (Varro  de  re  rust.  3,  16).
+TTOtetv  acr/jLara  iyevero  roLavrrj,   Pausan.  ix.  23,  2.     And  therefore they  are  called  Musarum  volucres  (Varro  de  re  rust.  3,  16).
 A  kindermarchen   (no.  62)  speaks  of  the  queen-bee  settling  on
 her  favourite's  mouth ;  ^  if  she  flies  to  any  one  in  his  sleep,  he
 is  accounted  a  child  of  fortune.
@@ -13208,16 +12299,14 @@ in  Westphalia  hebenscheer  means  a  sky  overcast  without  rain,  and
 even  heben  alone  can  sig^nify  cloud. ^  In  hdvenhune  (p.  156),  in
 kukuk  vam  haven  (p.  676),  the  physical  sense  preponderates,
 whereas  one  would  hardly  speak  otherwise  than  o£  '  going  to
-himel/  or  himelrik.  Yet  this  distinction  seems  to  be  compara-
-tively recent :  as  the  AS.  heofon  can  be  used  in  a  purely  spiritual
+himel/  or  himelrik.  Yet  this  distinction  seems  to  be  comparatively recent :  as  the  AS.  heofon  can  be  used  in  a  purely  spiritual
 sense,  so  the  poet  of  our  Heliand  alternates  between  himilriki
 149,  8  and  hebannki  143,  24,  himiJfader  145,  12  and  hebancuning
 143,  20.  And  of  course  himil  had  originally,  and  has  everywhere
 in  HG.,  the  physical  meaning  too ;  hence  uplilmil  in  Hel.  88,  15,
 just  like  upheofon  in  Csedm.  270,  24.  The  root  of  hebhan,  hevan,
 heofon,  is  probably  a  lost  Gothic,  '  hiba,  haf,^  cognate  with  Lat.
-capio,  so  that  it  is  the  all-capacious,  ON.  vifffeffinir,  wide-fathom-
-ing or  encompassing  sky.^
+capio,  so  that  it  is  the  all-capacious,  ON.  vifffeffinir,  wide-fathoming or  encompassing  sky.^
 
 The  other  Saxon  term  may  be  placed  on  a  level  with  the  Gr.
 aW/jp  (thin  upper  air),  whilst  himil  and  hevan  answer  to  oupav6<; ;
@@ -13241,8 +12330,7 @@ dangus  above  [and  sky,  welkin,  witb  ON.  scv,  Germ,  wolke,  cloud] .
 -  '  Hills  of  heaven'  ai-e  high  ones,  reaching  into  the  clouds,  often  used  as  proper
 names  :  himinfioll,  Svcra.  148".  Yngl.  saga  cap.  39 ;  Himinhiorp,  Swm.  il,  92''  is
 an  abode  of  gods;  spirits  haunt  the  IlimiUnhero  (mons  coelius,  Pertz  2,  10);
-Himilesherri  in  Hesse  (Kuchenbecker's  Anal.  11,  l.'i?.  Arnsb.  urk.  118);  a  Ilim-
-melisberp  in  Vestgiitland,  and  one  in  Halland  (said  to  be  HeimSall's) ;  Himelierc,
+Himilesherri  in  Hesse  (Kuchenbecker's  Anal.  11,  l.'i?.  Arnsb.  urk.  118);  a  Ilimmelisberp  in  Vestgiitland,  and  one  in  Halland  (said  to  be  HeimSall's) ;  Himelierc,
 Fraueudienst  199,  10.
 
 
@@ -13317,12 +12405,10 @@ poet  calls  the  sun  '  daz  merere  lieht,'  the  greater  light,  Fundgr.
 2,  12.  It  is  worth  mentioning  that  some  of  the  Eddie  names
 for  the  moon  are  still  preserved  in  patois  dialects  of  Up.  Germany.
 As  the  dwarfs  named  the  moon  sMn  (jubar),  the  East  Franks
-call  her  schein  (Reinwald's  Henneb.  id.  2,  159).^  In  the  under-
-world the  moon  bore  the  name  of  hverfandi  Jivel,  whirling  wheel,
+call  her  schein  (Reinwald's  Henneb.  id.  2,  159).^  In  the  underworld the  moon  bore  the  name  of  hverfandi  Jivel,  whirling  wheel,
 and  in  Styria  (esp.  the  Brack  distr.)  she  is  gmoa-rat  (Sartori's
 Styria,  p.  82),  if  I  may  translate  that  by  rota  communis,  though
-it  may  perhaps  mean  gemeiner  rath  (vorrath),  a  common  pro-
-vision at  the  service  of  all  men.  That  the  sun  was  likened  to  a
+it  may  perhaps  mean  gemeiner  rath  (vorrath),  a  common  provision at  the  service  of  all  men.  That  the  sun  was  likened  to  a
 ivheel  of  fire,  and  the  element  blazing  out  of  him  was  represented
 ill  the  shape  of  a  wheel,  has  been  fully  shewn,  p.  620.  Tit.  2983
 speaks  of  the  sun's  wheel.  The  Edda  expressly  calls  the  sun
@@ -13380,8 +12466,7 @@ To  Persians  the  sun  was  the  eye  of  Ahuromazdao  (Ormuzd),  to
 Egyptians  the  right  eye  of  the  Demiurge,  to  the  Greeks  the
 eye  of  Zeus,  to  our  forefathers  that  of  Wuotan ;  and  a  fable  in
 the  Edda  says  O^inn  had  to  leave  one  of  his  eyes  in  pledge
-with  Mimir,  or  hide  it  in  his  fountain,  and  therefore  he  is  pic-
-tured as  one-eyed.  In  the  one-eyed  Cyclop's  mouth  Ovid  puts
+with  Mimir,  or  hide  it  in  his  fountain,  and  therefore  he  is  pictured as  one-eyed.  In  the  one-eyed  Cyclop's  mouth  Ovid  puts
 the  words  (Met.  13,  851)  :
 
 Unum  est  in  media  lumen  mihi  fronte,  sed  instar
@@ -13425,8 +12510,7 @@ ni  liaz  in  scinan  thuruh  thaz  ira  gisiuni  blidaz.
 
 The  Edda  speaks  of  the  sun  and  moon  as  brother  and  sister,
 children  of  a  mythic  Mundilfdri.  Several  nations  beside  the
-Lithuanians  and  Arabs  (Gramm.  3,  351)  agree  with  us  in  ima-
-gining the  moon  masculine  and  the  sun  feminine.  The  Mexican
+Lithuanians  and  Arabs  (Gramm.  3,  351)  agree  with  us  in  imagining the  moon  masculine  and  the  sun  feminine.  The  Mexican
 Meztli  (luna)  is  a  man ;  the  Greenlanders  think  of  Anningat,  the
 moon,  as  pursuing  his  sister  Mallina,  the  sun.  An  Ital.  story
 (Pentam.  5,  5)  makes  Sole  and  Luna  children  of  Talia  (in
@@ -13460,8 +12544,7 @@ Inn  and  Salzach  thej  say  *  der  her  Man'  meaning  no  more  than
 simply  moon,  Schm.  2,  230.  582.  Gesner  in  Mithrid.,  Tur.  1555,
 p.  28  :  'audio  veteres  Germanos  Lunum  quoque  deum  coluisse  et
 appellasse  hermon,  id  est  dominum  Lunum,  quod  forte  parum
-animadvertentes  aliqui  ad  Hermann,  i.e.  Mercurium  trans-
-tulerunt; ''  this  last  guess  has  missed  the  mark.  Hulderic.  Eyben
+animadvertentes  aliqui  ad  Hermann,  i.e.  Mercurium  transtulerunt; ''  this  last  guess  has  missed  the  mark.  Hulderic.  Eyben
 de  titulo  nobilis,  Helmst.  1677.  4,  p.  13.6:  'qua  etiam  ratione
 in  veteri  idololatrico  luna  non  domina,  dominus  appellator  :
 
@@ -13469,8 +12552,7 @@ bis  gottwillkommen,  neuer  mon,  holder  herr,
 mach  mir  meines  geldes  mehr  !. "
 
 Also  in  Nicolaus  Magni  de  Gawe  (Superst.  E,  10):  '  vetulam
-novi,  quae  credidit  solem  esse  deam,  vocans  eam  sanctatn  domi-
-nam ; '  and  earlier  still  in  Eligius  (Sup.  A)  :  '  nullus  dominos
+novi,  quae  credidit  solem  esse  deam,  vocans  eam  sanctatn  dominam ; '  and  earlier  still  in  Eligius  (Sup.  A)  :  '  nullus  dominos
 solem  aut  lunam  vocet.'  ^'
 
 In  these  invocations  lingers  the  last  vestige  of  a  heathen
@@ -13578,8 +12660,7 @@ Turin,  in  a  Homilia  de  defectu  lunae,  preaches  thus  :  '  Cum  ante
 dies  plerosque  de  vestrae  avaritiae  cupiditate  pulsaverim,  ipsa  die
 circa  vesperam  tanta  vociferatio  populi  exstitit,  ut  irreligiositas
 ejus  penetraret  ad  coelum.  Quod  quum  requirerem,  quid  sibi
-clamor  hie  velit,  dixerunt  mihi,  quod  lahoranti  lunae  vestra  vocife-
-ratio suhveniret,  et  defectum  ejus  suis  clamoribus  adjuvaret.'  ^  The
+clamor  hie  velit,  dixerunt  mihi,  quod  lahoranti  lunae  vestra  vociferatio suhveniret,  et  defectum  ejus  suis  clamoribus  adjuvaret.'  ^  The
 same  '  laborans '  (in  distress)  is  used  by  Juvenal  6,  442  :
 
 Jam  nemo  tubas,  nemo  aera  fatiget ;
@@ -13650,8 +12731,7 @@ instruments,   till   Arakho   is   scared   away.^     Here  a   noticeable
 
 '  Morgenblatt  1817  p.  159";  conf.  Niebnhr's  Beschr.  Arab.  119.  120.
 
-2  Be'nj.  BerHinann's  Nomad,  streifereien  3,  41.  Ace.  to  Georgii  Alphab.  tibe-
-tan.  p.  189,  it  is  monsters  called  Tracehn,  with  their  upper  parts  shaped  like  men,
+2  Be'nj.  BerHinann's  Nomad,  streifereien  3,  41.  Ace.  to  Georgii  Alphab.  tibetan.  p.  189,  it  is  monsters  called  Tracehn,  with  their  upper  parts  shaped  like  men,
 and  the  lower  like  snakes,  that  lie  in  wait  for  the  sim  and  moon.  [South  of  L.
 Baikal  it  is  the  king  of  hell  that  tries  to  swallow  the  moon. — Trans.]
 
@@ -13662,8 +12742,7 @@ feature  is  the  inquiry  made  of  the  sun  and  moon,  wlio  overlook
 the  world  and  know  all  secrets  (Castren^s  Myth.  62).  So  in  our
 fairytales  the  seeker  asks  of  the  s\m,  moon  and  stars  (Kinderm.
 no.  25.  88 ;  conf.  3,  218-9)^  some  of  whom  are  found  helpful  and
-sympathizing^  others  cruel  and  cannibal  (Vuk  no.  10).  In  Ser-
-vian songs  the  moon  and  the  momingstar  (danitsa)  hold  a  colloquy
+sympathizing^  others  cruel  and  cannibal  (Vuk  no.  10).  In  Servian songs  the  moon  and  the  momingstar  (danitsa)  hold  a  colloquy
 on  the  affairs  of  men  (Vuk  3,  3).  During  an  eclipse  of  the  sun
 (I  don^t  know  whether  of  the  moon  also)  our  people  cover  the
 wells  upj  else  their  water  would  turn  impure^  Superst.  I^  589.
@@ -13672,8 +12751,7 @@ Is  there  a  trace  of  moon- worship  to  be  found  in  the  fact  that
 people  had  an  image  of  the  moon  carved  on  rocks  and  stones  that
 marked  a  boundary?  In  RA.  542  an  Alamannic  doc.  of  1155  is
 given,  which  traces  the  custom  all  the  way  up  to  king  Dagobert.
-In  Westphalian  docs,  as  late  as  the  17th  cent.  I  find  halfmonds-
-schnad-stones/  unless  the  word  halfmoon  here  means  something
+In  Westphalian  docs,  as  late  as  the  17th  cent.  I  find  halfmondsschnad-stones/  unless  the  word  halfmoon  here  means  something
 else.
 
 In  Bavaria  there  is  a  Mondsee,  OHG.  Mdninseo  (lunae  lacus),
@@ -13701,8 +12779,7 @@ It  is  true,  the  performance  of  any  kind  of  work  was  governed  by
 
 1  Defence  of  Wulften  castle,  Vienna  176G.  suppl.  p.  71-2.  162.
 
-2  Can  Manliart  liave  come  from  Maginhart  ?     Helbl.  13,  190  has  Meinharts-
-here.
+2  Can  Manliart  liave  come  from  Maginhart  ?     Helbl.  13,  190  has  Meinhartshere.
 
 
 PHASES   OF   THE   MOON.  709
@@ -13725,9 +12802,7 @@ light.  From  the  one  point  she  steadily  increases,  from  the  other
 she  declines.  The  shapes  she  assumes  between  are  not  so  sharply
 defined  to  the  sense.
 
-Her  invisibility  lasts  only  the  one  night  between  the  disappear-
-ance of  her  last  quarter  and  the  appearance  of  her  first,  at  new-
-moon  (conjunction  of  sun  and  moon)  ;  in  like  manner,  full-moon
+Her  invisibility  lasts  only  the  one  night  between  the  disappearance of  her  last  quarter  and  the  appearance  of  her  first,  at  newmoon  (conjunction  of  sun  and  moon)  ;  in  like  manner,  full-moon
 lasts  from  the  moment  she  attains  perfect  sphericity  till  she  loses
 it  ao"ain.  But  in  common  parlance  that  '  nox  illunis  '  is  included
 in  the  new-moon,  and  similarly  the  decline  is  made  to  begin
@@ -13736,8 +12811,7 @@ simultaneously  with  the  full.
 The  Grothic  for  TravaeXTjvov  vrsisfuUiJjs  m.,  or  fidlip  n.  (gen.  pi.
 fulli]7e),  from  which  we  may  also  infer  a  niujij)s  for  vov/xrjvla.
 Curiously,  this  last  is  rendered  fulli]?  in  Col.  2,  16,  which  to  my
-mind  is  a  mere  oversight,  and  not  to  be  explained  by  the  supposi-
-tion that  the  Goths  looked  upon  full-moon  as  the  grander  festival.
+mind  is  a  mere  oversight,  and  not  to  be  explained  by  the  supposition that  the  Goths  looked  upon  full-moon  as  the  grander  festival.
 The  AS.  too  must  have  called  full-moon  fijUed',  to  judge  by  the
 name  of  the  month  '  winterfyllrS,'  which,  says  Beda  (de  temp,
 rat.  13),  was  so  named  'ab  hieme  et  plenilunio';  but  the  later
@@ -13758,8 +12832,7 @@ In  ON.  the  two  periods  are  named  by  the  neuters  '  ny  ok  nicf/
 habitually  alliterating ;  ny  answers  to  novilunium,  it  signifies  the
 new  light,  and  ■aid'  the  declining,  dwindling,  from  the  lost  root
 ni'Sa  naS,  from  which  also  come  the  adv.  niSr  (deorsum)  and  the
-noun  naS  (quies,  OHG.  ginada) .  So  that  n^  lasts  from  the  begin-
-ning of  the  first  quarter  to  the  full,  and  ni'S  from  the  decrease  of
+noun  naS  (quies,  OHG.  ginada) .  So  that  n^  lasts  from  the  beginning of  the  first  quarter  to  the  full,  and  ni'S  from  the  decrease  of
 the  full  to  the  extinction  of  light  in  the  last  quarter.  The  two
 touch  one  another  at  the  border-line  between  the  faintest  streaks
 of  waxing  and  of  waning  brightness.  But  nrS  meant  especially
@@ -13784,8 +12857,7 @@ this  nfe  was  in  0.  Dan.  ned,  need.  To  the  ni'Samyrkr  above
 answers  a  Swed.  nedmork,  pitchdark.  The  Norse  terminology
 differs  in  so  far  from  the  H.  Germ.,  that  it  expresses  the  total
 obscuration  by  ni'S,  while  we  designate  it  by  neumond  {i.e.  ny)  ;
-with  us  new-moon  is  opposed  to  full-moon,  with  the  Scandina-
-vians nv5  to  ny-,  each  of  them  standing  for  one  half  of  the  moon's
+with  us  new-moon  is  opposed  to  full-moon,  with  the  Scandinavians nv5  to  ny-,  each  of  them  standing  for  one  half  of  the  moon's
 course.  Since  a  mention  of  the  first  and  last  quarters  has  come
 into  use,  full-moon  and  new-moon  signify  simply  the  points  of
 fullness  and  vacancy  that  lie  between ;  and  now  the  Swedes  and
@@ -13816,18 +12888,15 @@ mauin,'  N.  ps.  88,  38,  its  opposite  being  '  diu  folia '  (see  SuppL).
 
 I  have  yet  to  bring  forward  another  expression  of  wide  range
 and  presumably  old,  which  is  used  by  turns  for  one  and  another
-phase  of  the  moon's  light,  oftenest  for  plenilunium,  but  some-
-times also  for  interlunium  :  MHG.  ivedel :  '  im  was  unkunt  des
+phase  of  the  moon's  light,  oftenest  for  plenilunium,  but  sometimes also  for  interlunium  :  MHG.  ivedel :  '  im  was  unkunt  des
 manen  wedel,'  Martina  18P;  NHG.  ivadel,  ivddel,h\it  more  among
-the  common  folk  and  in  the  chase  than  in  written  speech.  Pic-
-torius  480,  Staid.  2,  456,  Tobler  441^^  have  wedel,  ivddel  full-moon,
+the  common  folk  and  in  the  chase  than  in  written  speech.  Pictorius  480,  Staid.  2,  456,  Tobler  441^^  have  wedel,  ivddel  full-moon,
 wddeln  to  become  full-moon,  when  her  horns  meet,  i.e.,  when  she
 completes  her  circle.  Keisersperg's  Postille  138** :  '  ietz  so  ist  er
 niiw,  ietz  fol,  ietz  alt,  ietz  die  erst  qvart,  ietz  die  auder  qvart,
 ietz  ist  es  ivedel ' ;  here  full-moon  and  wedel  are  not  so  clearly
 defined  as  in  another  passage  of  Keisersperg  (Oberliu  1957)
-on  March :  '  wan  es  ist  sein  loedel,  sein  volmon.'  In  Dasy-
-podius :  *  plenilunium,  der  volmon,  loddel.'  ""^  The  Germans  in
+on  March :  '  wan  es  ist  sein  loedel,  sein  volmon.'  In  Dasypodius :  *  plenilunium,  der  volmon,  loddel.'  ""^  The  Germans  in
 Bohemia  commonly  use  ivddel  for  full-moon,  and  Schm.  4,  22
 produces  other  notable  authorities.  But  the  word  is  known  in
 Lower  Germany  too ;  Bohmer's  Kantzow  p.  266  spells  it  ivadel,^
@@ -13855,16 +12924,13 @@ VOL.    II.  T
 712  SKY   AND    STAES.
 
 the  Brem.  wtb.  5,  166  '  ivaal,  vollmond '  (like  aal  for  adel,  a
-swamp),  and  Kilian  '  ivaedel,  senium  lunae/  From  the  phrase-
-ology of  Superst.  I,  973  one  would  take  wddel  to  be  a  general
+swamp),  and  Kilian  '  ivaedel,  senium  lunae/  From  the  phraseology of  Superst.  I,  973  one  would  take  wddel  to  be  a  general
 name  for  the  moon,  whether  waxing  or  waning,  for  '  the  bad  wadel '
-[new-moon]  surely  implies  a  good  wadel  favourable  to  the  oper-
-ation. Now  luadel,  luedel  means  that  which  wags  to  and  fro,  and
+[new-moon]  surely  implies  a  good  wadel  favourable  to  the  operation. Now  luadel,  luedel  means  that  which  wags  to  and  fro,  and
 is  used  of  an  animal's  tail,  flabrum,  flabellatn,  cauda;  it  must
 either,  like  zunga  and  tiingl,  refer  to  the  tip  or  streak  of  light  in  the
 crescent  moon,  or  imply  that  the  moon  cruises  about  in  the  sky.^
-The  latter  explanation  fits  a  passage  in  the  AS.  poem  on  Finnes-
-burg  fight,  line  14  :  '  nu  seine's  ]>es  mona  iva&ol  under  wolcnum/
+The  latter  explanation  fits  a  passage  in  the  AS.  poem  on  Finnesburg  fight,  line  14  :  '  nu  seine's  ]>es  mona  iva&ol  under  wolcnum/
 i.e.,  the  moon  walking  [wading]  among  the  clouds,  wa'Sol  being
 taken  for  the  adj.  vagus,  vagabundus.  Probably  even  the  OHG.
 ivadal  was  applied  to  the  moon,  as  an  adj.  vagus  (Graff  1,  776),
@@ -13906,8 +12972,7 @@ pp.  167-8.
 PHASES    OF   THE    MOON.  713
 
 auplneh  plenil.  Here  we  see  another  instance  of  the  ruder  races
-having  more  various  and  picturesque  names  for  natural  pheno-
-mena, which  among  the  more  cultivated  are  replaced  by  abstract
+having  more  various  and  picturesque  names  for  natural  phenomena, which  among  the  more  cultivated  are  replaced  by  abstract
 and  uniform  ones.  No  doubt  Teutonic  speech  in  its  various
 branches  once  possessed  other  names  beside  nid'  and  ivadel.
 
@@ -13927,8 +12992,7 @@ were  fought  at  new  moon.
 As  far  as  I  can  make  out  from  later  remnants  of  German
 superstition,  with  which  that  of  Scotland  should  be  compared
 (Chambers  35''.  S6^),  neiv-moon,  addressed  by  way  of  distinction
-as  '  gracious  lord '  p.  704,  is  an  auspicious  time  for  commence-
-ments properly  speaking.  Marriages  are  to  be  concluded  in  it,
+as  '  gracious  lord '  p.  704,  is  an  auspicious  time  for  commencements properly  speaking.  Marriages  are  to  be  concluded  in  it,
 houses  to  be  built :  '  novam  lunam  observasti  pro  domo  facienda
 aut  conjugiis  sociandis  '  (Sup.  C,  193''),  the  latter  just  the  same
 in  Esth.  Sup.  no.  1.  Into  a  new  house  you  must  move  at  new
@@ -13958,8 +13022,7 @@ boys  at  the  full^  probably  to  give  tbe  one  a  slim  elegant  figure,
 and  the  other  a  stout  and  strong.  Healing  herbs  and  pure  dew
 are  to  be  gathered  at  new- moon  (tou  an  cles  mdnen  niwi  gelesen,
 N.  Cap.  100,  conf.  25),  for  then  they  are  fresh  and  unalloyed.
-When  it  says  in  I,  764  that  weddings  should  take  place  at  full-
-moon,  and  in  238  that  a  new  dwelling  should  be  entered  with  the
+When  it  says  in  I,  764  that  weddings  should  take  place  at  fullmoon,  and  in  238  that  a  new  dwelling  should  be  entered  with  the
 waxing  or  full  moon,  this  full-moon  seems  to '  denote  simply  tho
 utmost  of  the  growing  light,  without  the  accessory  notion  oi
 incipient  decline.  If  our  ancestors  as  a  rule  fought  their  battles
@@ -13982,8 +13045,7 @@ timber,'  Sup.  I,  973.  In  Keisersperg's  Menschl.  baum,  Strasb.
 1521,  19  :  '  Alway  in  wedel  are  trees  to  be  hewn,  and  game  to  be
 shot.'  ^  Grass  is  not  to  be  mown  at  new,  but  at  full  moon  (Lith.
 Sup.  7);  that  the  hay  may  dry  quickly?  and  treasures  must  be
-lifted  at  full-moon.  If  a  bed  be  stuffed  when  the  moon  is  gi^ow-
-ing,  the  feathers  will  not  lie  (I,  372.  914)  ;  this  operation  too
+lifted  at  full-moon.  If  a  bed  be  stuffed  when  the  moon  is  gi^owing,  the  feathers  will  not  lie  (I,  372.  914)  ;  this  operation  too
 requires  a  waning  light,  as  if  to  kill  the  new-plucked  feathers
 completely,  and  bring  them  to  rest.  If  you  open  trenches  by
 a  waxing  moon,  they  will  soon  grow  together  again;  if  by  a
@@ -14001,8 +13063,7 @@ the  year.
 
 PHASES   OF   THE   MOON.  715
 
-load  the  legs  (Tobler  404^') ;  set  about  it  therefore  by  the  mount-
-ing moonlight.  Vuk  sub  v.  miyena  says,  the  Servian  women  will
+load  the  legs  (Tobler  404^') ;  set  about  it  therefore  by  the  mounting moonlight.  Vuk  sub  v.  miyena  says,  the  Servian  women  will
 wash  never  a  shirt  at  new-moon,  they  declare  all  the  linen  would
 get  mooned  (omiyeniti)  in  the  water,  i.e.  bulge  and  pucker,  and
 soon  tear;  one  might  find  another  reason  too  for  washing  by
@@ -14010,8 +13071,7 @@ the  waning  moon,  that  stains  and  dirt  should  disappear  with  the
 dwindling  light  (see  Suppl.).
 
 Behind  superstitious  practices  I  have  tried  to  discover  a
-meaning,  which  may  possibly  come  near  their  original  signifi-
-cation. Such  symbolical  coupling  of  means  and  end  was  at  all
+meaning,  which  may  possibly  come  near  their  original  signification. Such  symbolical  coupling  of  means  and  end  was  at  all
 events  not  foreign  to  antiquity  anywhere :  the  holy  water  floats
 all  misfortune  away  with  it  (p.  589),  the  spray  from  the  mill  wheel
 scatters  all  sickness  (p.  593).  So  the  sufferer  stands  with  his
@@ -14027,8 +13087,7 @@ arrive  at  a  clearer  knowledge  of  them,  had  their  bearing  on
 public  life  been  described  for  us  in  early  times.  Observation  of
 the  lunar  changes  must  in  many  ways  have  influenced  sacrifices,
 the  casting  of  lots  and  the  conduct  of  war.  Some  things  now
-appear  bewildering,  because  we  cannot  review  all  the  circum-
-stances, and  some  no  doubt  were  different  in  different  nations.
+appear  bewildering,  because  we  cannot  review  all  the  circumstances, and  some  no  doubt  were  different  in  different  nations.
 German  superstition  (I,  856)  thinks  it  a  calamity  for  the  master
 of  the  house  to  die  during  the  moon's  decline,  for  then  the  whole
 family  will  fall  away ;  the  Esthonian  view  (41)  is,  that  a  death  at
@@ -14060,16 +13119,14 @@ called  sasin  or  sasanka,  hare  mark  or  spot.^  The  Mongolian
 doctrine  also  sees  in  these  shadows  the  fig-ure  of  a  hare."  Bocrdo
 Jagjamuni  or  Shigemuni  [the  Buddha  Sakya-rauni],  supreme
 ruler  of  the  sky,  once  changed  himself  into  a  hare,  simply  to
-serve  as  food  to  a  starving  traveller ;  in  honour  of  which  meri-
-torious deed  Khormusta,  whom  the  Mongols  revere  as  chief  of
+serve  as  food  to  a  starving  traveller ;  in  honour  of  which  meritorious deed  Khormusta,  whom  the  Mongols  revere  as  chief  of
 the  tenggri  [genii],  placed  the  figure  of  a  hare  in  the  moon.
 The  people  of  Ceylon  relate  as  follows  :  While  Buddha  the  great
 god  sojourned  upon  earth  as  a  hermit,  he  one  day  lost  his  way
 in  a  wood.  He  had  wandered  long,  when  a  hare  accosted  him :
 '  Cannot  I  help  thee  ?  strike  into  the  path  on  thy  right,  I  will
 guide  thee  out  of  the  wilderness.''  Buddha  replied  :  '  Thank
-thee,  but  I  am  poor  and  hungry,  and  unable  to  repay  thy  kind-
-ness.^ '  If  thou  art  hungry,^  said  the  hare,  '  light  a  fire,  and  kill,
+thee,  but  I  am  poor  and  hungry,  and  unable  to  repay  thy  kindness.^ '  If  thou  art  hungry,^  said  the  hare,  '  light  a  fire,  and  kill,
 roast  and  eat  me.^  Buddha  made  a  fire,  and  the  hare  immediately
 jumped  in.  Then  did  Buddha  manifest  his  divine  power,  he
 snatched  the  beast  out  of  the  flames,  and  set  him  in  the  moon,
@@ -14122,8 +13179,7 @@ special  sti*ess  laid  on  the  keeping  of  the  christian  holiday ;  the
 man  suJBfers  punishment  not  so  much  for  cutting  firewood,  as
 because  he  did  it  on  a  Sunday.^  The  interpolation  is  founded  on
 Numb.  15,  32-G,  where  we  are  told  of  a  man  that  gathered
-sticks  on  tho  sabbath,  and  was  stoned  to  death  by  the  congrega-
-tion of  Israel,  but  no  mention  is  made  of  the  moon  and  her  spots.
+sticks  on  tho  sabbath,  and  was  stoned  to  death  by  the  congregation of  Israel,  but  no  mention  is  made  of  the  moon  and  her  spots.
 As  to  when  this  story  first  appeared  in  Germany  I  have  no  means
 of  telling,  it  is  almost  universally  prevalent  now ;  ^  in  case  the
 full-moon's  name  of  wadel.  wedel  in  the  sense  of  a  bunch  of  twigs  ^
@@ -14163,14 +13219,12 @@ has  stolen  cabbage-stumps  ;  and  the  figure  with  the  bunch  of
 twigs  (or  the  spindle),  with  the  dungfork,  with  the  cabbage-stalk,
 is  supposed  to  form  the  spots  in  the  moon.  The  earliest  authority
 I  know  of  is  Fischart's  Garg.  ]  SO'' :  '  sah  im  mon  ein  mdnnlin,
-das  holz  cjestolden  hett;'  Praetorius  says  more  definitely,  Welt-
-beschr.  1,  447  :  the  superstitious  folk  declared  the  dark  spots  on
+das  holz  cjestolden  hett;'  Praetorius  says  more  definitely,  Weltbeschr.  1,  447  :  the  superstitious  folk  declared  the  dark  spots  on
 the  moon  to  be  the  man  that  gathered  sticks  on  the  sabbath  and
 was  stoned  therefor.  The  Dutch  account  makes  the  man  steal
 vegetables,  so  he  appears  in  the  moon  with  the  '  bundel  moes '  on
 his  shoulders  (Westendorp  p.  129).  The  English  tradition  seems
-pretty  old.  Chaucer  in  his  Testament  of  Creseide  260-4  de-
-scribes the  moon  as  lady  Cynthia  :
+pretty  old.  Chaucer  in  his  Testament  of  Creseide  260-4  describes the  moon  as  lady  Cynthia  :
 
 Her  gite  (gown)  was  gray  and  ful  of  spottis  blake,
 
@@ -14214,8 +13268,7 @@ the  player  who  acts  the  moon  ties  a  bush  round  his  body  (conf.
 Ir.  elfenm.  no.  20).
 
 Two  more,  and  those  conflicting,  interpretations  of  the  moon's
-spots  are  likewise  drawn  from  the  Bible.  Either  it  is  Isaac  hear-
-ing a  hurthen  of  wood  for  the  sacrifice  of  himself  on  Mount  Moriah
+spots  are  likewise  drawn  from  the  Bible.  Either  it  is  Isaac  hearing a  hurthen  of  wood  for  the  sacrifice  of  himself  on  Mount  Moriah
 (Praetor.  Weltbeschr.  1,  447)  ;  or  it  is  Cain  carrying  a  bundle  of
 thorns  on  his  shoulders,  and  offering  to  the  Lord  the  cheapest  gift
 from  his  field. ^     This  we   find  as  far  back  as  Dante,  Parad.  2,  50.
@@ -14241,8 +13294,7 @@ in  the  milky  way.
 There  must  have  been  yet  more  traditions.  A  Netherl.  poet
 of  the  14th  century  speaks  of  the  dark  stripes  that  stand
 
-^  The  story  of  the  first  fratricide  seems  to  have  made  a  peculiarly  deep  im-
-pression on  the  new  converts  from  heathenism  ;  they  fancy  hiin  a  wicked  giant,
+^  The  story  of  the  first  fratricide  seems  to  have  made  a  peculiarly  deep  impression on  the  new  converts  from  heathenism  ;  they  fancy  hiin  a  wicked  giant,
 conf.  Beow.  213  scq.,  and  supra  p.  525.
 
 2  "Water,  an  essential  part  of  the  Norse  myth,  is  wanting  in  the  story  of  the
@@ -14258,16 +13310,14 @@ dat  men  in  duitsche  heet  ludergheer ;
 
 in  another  passage  it  is  lendegher^  (for  leudeglier?);  and  Willems
 in  Messager  de  Gand,  1, 195,  following  a  MS.  of  1351,  reads,  '  dat
-men  in  dietsch  lieet  loclegeer  ;  '  but  none  of  these  forms  is  intel-
-ligible to  me.  Perhaps  the  proper  name  Ludger,  Leodegarius,
+men  in  dietsch  lieet  loclegeer  ;  '  but  none  of  these  forms  is  intelligible to  me.  Perhaps  the  proper  name  Ludger,  Leodegarius,
 OHGr.  Liutker,  has  to  do  with  it,  and  some  forgotten  legend  of
 the  Mid.  Ages.  A  touching  religious  interpretation  is  handed
 down  by  Berthold  145,  surely  not  invented  by  himself,  that  the
 moon  is  Mary  Magdalene,  and  the  spots  her  tears  of  repentance
 (see  Suppl.).
 
-The  Sun  has  had  a  slighter  influence  than  the  moon  on  super-
-stitious notions  and  observances.  Magical  herbs  must  be
+The  Sun  has  had  a  slighter  influence  than  the  moon  on  superstitious notions  and  observances.  Magical  herbs  must  be
 gathered,  if  not  by  moonlight,  at  least  before  sunrise  (p.  621),
 and  healing  waters  be  drawn  before  sunrise  (p.  586).  The
 mounting  sun  dispels  all  magic,  and  bids  the  spirits  back  to  their
@@ -14277,9 +13327,7 @@ Twice  in  the  year  the  sun  changes  his  course,  in  summer  to
 sink,  in  winter  to  rise.  These  turning-points  of  the  sun  were
 celebrated  with  great  pomp  in  ancient  times,  and  our  St.  John^s
 or  Midsummer  fires  are  a  relic  of  the  summer  festival  (p.  617
-seq.).  The  higher  North,  the  stronger  must  have  been  the  im-
-pression produced  by  either  solstice,  for  at  the  time  of  the  sum-
-mer one  there  reigns  almost  perpetual  day,  and  at  the  winter  one
+seq.).  The  higher  North,  the  stronger  must  have  been  the  impression produced  by  either  solstice,  for  at  the  time  of  the  summer one  there  reigns  almost  perpetual  day,  and  at  the  winter  one
 perpetual  night.  Even  Procopius  (ed.  Bonn.  2,  206)  describes
 how  the  men  of  Thule,  after  their  35  days'  night,  climb  the
 mountain-tops  to  catch  sight  of  the  nearing  sun.  Then  they
@@ -14306,12 +13354,10 @@ reached  the  Romans  from  Germany  itself,  but  been  spread  among
 them  by  miscellaneous  travellers'  tales.  Strabo  3,  1  (Tsch.  1,
 368)  quotes  from  Posidonius  a  very  similar  story  of  the  noise
 made  by  the  setting  sun  in  the  sea  between  Spain  and  Africa :
-fM€L^ai  Svvecv  rov  7]\iov  iv  rfj  TTapcoKeavLTiSt  jxera  ■\lr6(f)ov  irapairXri-
-o't(ii<i,  toaavel  ai^ovTO^  rod  TreXdyov'i  Kara  cr^ecrcv  avrov  hua  rb
+fM€L^ai  Svvecv  rov  7]\iov  iv  rfj  TTapcoKeavLTiSt  jxera  ■\lr6(f)ov  irapairXrio't(ii<i,  toaavel  ai^ovTO^  rod  TreXdyov'i  Kara  cr^ecrcv  avrov  hua  rb
 ifMiriirreiv  et?  rov  /3v66v.  But  the  belief  may  even  then  have
 prevailed  among  Germans  too  ;  the  radiant  heads,  like  a  saint's
-glory,  were  discussed  at  p.  323,  and  I  will  speak  of  this  mar-
-vellous music  of  the  rising  and  setting  sun  in  the  next  chapter.
+glory,  were  discussed  at  p.  323,  and  I  will  speak  of  this  marvellous music  of  the  rising  and  setting  sun  in  the  next  chapter.
 Meanwhile  the  explanation  given  of  the  red  of  morning  and
 evening,  in  the  old  AS.  dialogue  between  Saturn  and  Solomon
 (Thorpe's  Anal.  p.  100),  is  curious  :  '  Saga  me,  forhwan  byS  seo
@@ -14372,15 +13418,13 @@ and  whoever  sees  them  should  say  a  prayer  (Sup.  I,  595)  :  to  the
 generous  girl  who  has  given  away  her  all,  they  bring  down  with
 them  [or  turn  into]  gold-pieces  (Kinderm.  153)  ;  nay,  whatever
 wish  you  form  while  the  snuff  is  falling,  is  fulfilled  (Tobler  408^) .
-The  Lithuanians  beautifully  weave  shooting  stars  into  the  fate-
-mythus :  the  verpeya  (spinneress)  begins  to  spin  the  thread  of  the
+The  Lithuanians  beautifully  weave  shooting  stars  into  the  fatemythus :  the  verpeya  (spinneress)  begins  to  spin  the  thread  of  the
 new-born  on  the  sky,  and  each  thread  ends  in  a  star ;  when  a  man
 is  dying,  his  thread  snaps,  and  the  star  turns  pale  and  drops
 (Narbutt,  1,  71).
 
 A  comet  is  called  tail-star,  hair-star  in  Aventin  74^.  119^,
-peacock-tail  (Sclim.  1,  327)  ;  and  its  tail  in  Detmar  1,  242  schin-
-schove,  from  schof  a  bundle  of  straw.  Its  appearing  betokens
+peacock-tail  (Sclim.  1,  327)  ;  and  its  tail  in  Detmar  1,  242  schinschove,  from  schof  a  bundle  of  straw.  Its  appearing  betokens
 events  fraught  with  peril,  especially  the  death  of  a  king  (Greg.
 tur.  4,  9)  :  '  man  siht  an  der  zit  einen  sterren,  sam  einen  pfawen
 zagel  wit  (wide  as  a  peacock's  tail),  so  miiezen  siben  sachen  in
@@ -14407,16 +13451,12 @@ apart,  it  is  hardly  conceivable  that  the  heathen,  who  honoured
 certain  fixed  stars    with  names  of  their  own,  should  not   have
 distinguished  and  named  the  travelling  stars,  whose  appearances
 and   changes    are   so    much   more   striking.       The    evening  and
-morning  Venus  is  called  evening  star,  mornhigstar,   OHG.  cipant-
-sterno,  tagasterno,  like  the  Lat.  vesper  and  lucifer.^     The  tunkel-
-sterne  in  Ms.  1,  38^  seems  to  be  vesperugo,  the  eveningstar  be-
-ginning to  blaze  in  the  twilight,  conf.  Gramm.  2,  526.     An  OHG.
+morning  Venus  is  called  evening  star,  mornhigstar,   OHG.  cipantsterno,  tagasterno,  like  the  Lat.  vesper  and  lucifer.^     The  tunkelsterne  in  Ms.  1,  38^  seems  to  be  vesperugo,  the  eveningstar  beginning to  blaze  in  the  twilight,  conf.  Gramm.  2,  526.     An  OHG.
 uhtosterno  morningstar,  N.  Bth.  223,  is  from  uhta,   Goth,  uhtvo
 crepusculum.     Gl.  Trev.  22^  have  stelbom  hesperus;  can  this  be
 stellbaum,   the  bird-catcher's  pole?     But  in  Eol.  240,27  'die
 urmaren  stalhoume '  stands  for  stars  in  general,  and  as  every  star
-was  provided  with  stool  or  stand  (p.  700-1),  we  may  connect  stel-
-boum,  stalboum  with  this  general  meaning.     There  is  perhaps
+was  provided  with  stool  or  stand  (p.  700-1),  we  may  connect  stelboum,  stalboum  with  this  general  meaning.     There  is  perhaps
 more  of  a  mythic  meaning  in  the  name  nahffare  for  eveningstar
 (Heumauni  opusc.  453.  460),  as  the  same  word  is  used  of  the  witch
 or  wise-woman  out  on  her  midnight  jaunt.     The  Anglo-Saxons
@@ -14451,15 +13491,13 @@ body  to  the  macrocosm,  p,  568  (see  SuppL).
 The  milky-way  and  its  relation  to  Irmin  I  have  dealt  with,
 pp.  356-8.
 
-Amongst  all  the  constellations  in  our  sky,  three  stand  pro-
-minent to  the  popular  eye  :  Ursa  major,  Orion  and  the  Pleiades.
+Amongst  all  the  constellations  in  our  sky,  three  stand  prominent to  the  popular  eye  :  Ursa  major,  Orion  and  the  Pleiades.
 And  all  of  them  are  still  known  by  native  names  ;  to  which  I
 shall  add  those  in  use  among  the  Slavs,  Lithuanians  and  Finns,
 who  give  them  the  same  place  of  honour  as  we  do.
 
 The  Great  Bear  was  doubtless  known  to  our  ancestors,  even
-before  their  conversion,  as  ivaggon,  wain ;  which  name,  un-
-borrowed, they  had  in  common  with  kindred  [Aryan]  nations,
+before  their  conversion,  as  ivaggon,  wain ;  which  name,  unborrowed, they  had  in  common  with  kindred  [Aryan]  nations,
 and  therefore  it  is  the  common  people^s  name  for  it  to  this
 day :  they  say,  at  dead  of  night  the  heavenly  wain  turns  round
 with  a  great  noise,  conf.  p.  745.  So  the  Swiss  (Tobler  264^) :
@@ -14468,8 +13506,7 @@ dear.  0.  v.  17,  29  uses  the  pi.  '  wag  and  gistelli,'  meaning  at
 once  the  greater  waggon  and  the  less  ;  which  last  (Ursa  minor)
 Berthold  calls  the  wegeUn}  So  '  des  wagenes  gerihte,''  Wackern.
 lb.  772,  26.  It  comes  of  a  lively  way  of  looking  at  the  group,
-which  circling  round  the  polar  star  always  presents  the  appear-
-ance of  four  wheels  and  a  long  slanting  pole,  deichsel  (temo),  on
+which  circling  round  the  polar  star  always  presents  the  appearance of  four  wheels  and  a  long  slanting  pole,  deichsel  (temo),  on
 the  strength  of  which  the  AS.  sometimes  has  Jyid  alone :  wcenes
 pisla  (thill),  Boeth.  Rawlins.  192'\  References  are  given  at
 p.  151,  also  the  reasons  for  my  conjecture  that  the  waggon  meant
@@ -14501,8 +13538,7 @@ waggon,  the  Romans  both  itrsa  and  ijlaustrum,  as  well  as  a
 septentrio  or  septentriones  from  trio,  plough-ox.  Fr.  char,  cliarriot,
 Ital.  Span,  carro.  Pol.  woz  (plaustrum),  woz  niebieski  (heavenly
 wain).  Boh.  wos,  and  at  the  same  time  ogha  (thill,  sometimes  og,
-wog)  for  Bootes  ;  the  Blyrian  Slavs  hola,  pi.  of  kolo  wheel,  there-
-fore wheels,  i.e.  wain,  but  in  their  hola  rodina  and  rodoJcola  ^  I
+wog)  for  Bootes  ;  the  Blyrian  Slavs  hola,  pi.  of  kolo  wheel,  therefore wheels,  i.e.  wain,  but  in  their  hola  rodina  and  rodoJcola  ^  I
 cannot  explain  the  adjuncts  rodo,  rodina.  Lith.  gryhdio  rats,
 gryzdo  rats,  from  ratas  (rota),  while  the  first  woi'd,  unexplained
 by  Mielcke,  must  contain  the  notion  of  waggon  or  heaven  ;  ^  Lett.
@@ -14514,8 +13550,7 @@ epos  are  pdiwd  the  sun,  'kuu  the  moon,  and  otawa,  which  Castren
 translates  karla-vagnen,  they  are  imagined  as  persons  and  divine,
 and  often  named  together ;  the  Pleiades  are  named  seidainen.
 
-Never,  either  in  our  OHG.  remains,  or  among  Slavs,  Lithu-
-anians and  Finns,*  do  we  find  the  name  borrowed  from  the
+Never,  either  in  our  OHG.  remains,  or  among  Slavs,  Lithuanians and  Finns,*  do  we  find  the  name  borrowed  from  the
 animal  (ursa),  though  these  nations  make  so  much  of  the  bear
 both  in  legend  and  perhaps  in  worship  (p.  668).
 
@@ -14556,10 +13591,8 @@ hunt) .  His  desire  was  granted,  there  stands  his  waggon  in  the
 sky,  and  the  highest  of  the  three  thill-stars,  the  '  rider '  so-called,
 is  that  waggoner.  Another  version  in  Miillenhoff's  Schles.  Hoist,
 sagen  no.  484.  I  daresay  the  heathen  had  a  similar  fiction  about
-Wodan's  charioteer.  Joh.  Praetorius  De  suspecta  poli  declina-
-tione,  Lips.  1675,  p.  35:  'qui  hanc  stellam  noa  praeteriissent,
-etiamsi  minor  quam  Alcor,  das  JcnecJitgen,  der  dilmeJie,  das  reuter-
-lein,  hneclitfinh  fuisset;  '  and  again  on  the  thief's  thumb,  p.  140  :
+Wodan's  charioteer.  Joh.  Praetorius  De  suspecta  poli  declinatione,  Lips.  1675,  p.  35:  'qui  hanc  stellam  noa  praeteriissent,
+etiamsi  minor  quam  Alcor,  das  JcnecJitgen,  der  dilmeJie,  das  reuterlein,  hneclitfinh  fuisset;  '  and  again  on  the  thief's  thumb,  p.  140  :
 '  fabula  de  polUcari  auriga,  dilmeke,  fuhrman.'  That  the  same
 fancy  of  the  waggoner  to  this  constellation  prevails  in  the  East,
 appears  from  Niebuhr's  Arabia,  and  the  Hungarian  Gontzol  seems
@@ -14575,8 +13608,7 @@ waggon.  But  in  Slovenic,  it  seems,  hervor  (Murko  85.  Jarnik
 The  cluster  of  brilliant  stars  in  which  the  Greeks  recognised
 the  figure  of  Orion  ^  had  various  Teutonic  names,  the  reasons  of
 which  are  not  always  clear  to  us  now.  First,  the  three  stars  in
-a  line  that  form  Orion's  belt  are  called  in  Scandinavia  Friggjar-
-rockr,  Friggerok  (pp.  270.  302-3),  and  also  by  transfer  to  Mary
+a  line  that  form  Orion's  belt  are  called  in  Scandinavia  Friggjarrockr,  Friggerok  (pp.  270.  302-3),  and  also  by  transfer  to  Mary
 Mariarok,  Marirok  (Peter  Syv  in  the  Danske  digtek.  middelald.
 1,  102),  Mariteen ;  here  is  plain  connecting  of  a  star-group  with
 the  system  of  heathen  gods.  The  same  three  stars  are  to  this
@@ -14638,8 +13670,7 @@ VOL.  II.  U
 728  SKY   AND   STARS.
 
 Between  the  shoulders  of  the  Bull  is  a  space  thickly  sown  with
-stars,  but  in  which  seven  (really  six)  larger  ones  are  recognis-
-able ;  hence  it  is  called  siehen-gestirn,  OHG.  thaz  sihimstirri,
+stars,  but  in  which  seven  (really  six)  larger  ones  are  recognisable ;  hence  it  is  called  siehen-gestirn,  OHG.  thaz  sihimstirri,
 0.  V.  17,  29.  Diut.  i.  520\  Gl.  Jun.  188  (where  it  is  confounded
 with  the  Hyades  not  far  off,  in  the  Ball's  head).  Beside  this
 purely  arithmetical  denomination,  there  are  others  more  living  :
@@ -14654,16 +13685,13 @@ The  picture  of  the  Pleiades  that  finds  most  favour  among  the
 people  in  Germany  and  almost  all  over  Europe  is  that  of  a  hen
 and  seven  chickens,  which  at  once  reminds  us  of  the  Greek  seven
 doves?     Mod.  Gr.  irovXia  (Fauriel  2,  277).     Our  klucJce,  klucherin,
-kluckhenne,  hrut-henne  mit  den  hunlein ;  Dan.  aften-hone,  even-
-ing-hen (-/iou?ie,  Dansk.  digtek.  middelald.  1, 102);  Engl,  hen  with
+kluckhenne,  hrut-henne  mit  den  hunlein ;  Dan.  aften-hone,  evening-hen (-/iou?ie,  Dansk.  digtek.  middelald.  1, 102);  Engl,  hen  with
 her  chickens  ;  Fr.  la  poussiniere,  in  Lorraine  poucherosse,  covrosse
 (couveuse,  brood-hen,  qui  conduit  des  poussins)^ ;  Gris.  cluotschas
 or  cluschas  the  cluck-hens ;  Ital.  gaUineUe ;  Boh.  slepice  s  kurdtky
 hen  with  chickens;  Hung.  Jiastih,  Jiastyuk  from  tik,  tyuk  gallina,
-and  fiazom  pario.     The  sign  of  the  cluck-hen  seems  to  me  inter-
-grown  with   our  antiquity.      Nursery  tales   bring  in  a  peculiar
-feature,  viz.  that  three  nuts  or  eggs  having  been  given  as   a  pre-
-sent, out  of  them  come  a  golden  dress,  a  silver  dress,  and  a  cluckie
+and  fiazom  pario.     The  sign  of  the  cluck-hen  seems  to  me  intergrown  with   our  antiquity.      Nursery  tales   bring  in  a  peculiar
+feature,  viz.  that  three  nuts  or  eggs  having  been  given  as   a  present, out  of  them  come  a  golden  dress,  a  silver  dress,  and  a  cluckie
 with  seven  (or  twelve)  chickies,  the  thi'ee  gifts  representing  siin,
 moon   and  seven-stars.      Kinderm.   no.   88   (2,   13).      So  in  the
 Introd.  to  the  Pentamerone,  out  of  the  miraculous  nut   comes  a
@@ -14671,8 +13699,7 @@ voccola  CO  dudece  jpolecine.    Now  the  Hungarian  tale  in  Gaal  p.  381
 has  '  golden  hen  and  six  chickens  '  meaning  the  Pleiades  ;  and  the
 maiden,  seeking  her  lost  lover,  has  to  obtain  access  to  him  by  the
 valuables  contained  in  three  nuts ;  these  were  three  dresses,  on
-which  severally  were  worked  the  sun,  the  moon,  and  the  seven-
-stars  (conf.   Wigal.  812),  being  gifts   of  Sun,  Moon,  and  Seven-
+which  severally  were  worked  the  sun,  the  moon,  and  the  sevenstars  (conf.   Wigal.  812),  being  gifts   of  Sun,  Moon,  and  Seven-
 
 ^  The  Suppl.  adds  :  '  the  Pleiades,  Uke  doves,  carry  ambrosia  to  Zeus,  but  otic
 ohvays  gets  lost  in  passing  the  Planctae  rocks,  and  Zeus  fills  up  their  number  again,
@@ -14686,8 +13713,7 @@ Atheri.  4,  325-6.' — Homer  tells  the  story  simply  of  doves,  TreXatat,
 PLEIADES.  729
 
 stars,  bestowed  upon  her  in  her  wanderings.  The  third  dress
-tradition  at  last  converted  into  the  cluckie  herself.  Treasare-
-hunters  dig  for  the  costly  cluckie  with  her  chicks ;  conf.  the
+tradition  at  last  converted  into  the  cluckie  herself.  Treasarehunters  dig  for  the  costly  cluckie  with  her  chicks ;  conf.  the
 sunken  hoard,  Chap.  XXXII.  A  Mien  and  twelve  hiinkeln^  was
 also  an  earthly  fine,  Weisth.  1,  465.  499.  I  am  not  sare  that  we
 are  entitled  to  connect  the  nut  with  '  Iduns  huot ' ;  but  what  is
@@ -14697,25 +13723,21 @@ is  Mas  siete  cahrillas'  seven  kids.^  Pol.  bahy  old  wives,  Russ.
 haha  old  wife  [and  nasedka  sitting  hen],  Linde  1,  38*;  Serv.
 vlasJdtsi  (Vuk  78),  vlashnitsi,  (Bosn.  Bible  3,  154,  223),  Sloven.
 vlastovtse  swallows?  but  Jarnik  229*'  explains  it '  rarastiibe,^  which
-I  do  not  understand.  The  O.  Boh.  name  too  is  obscure,  sczyet-
-nycze  pleiades  (Hanka's  Glossen  58"^)=  stetnice,  bristly  ones,  from
+I  do  not  understand.  The  O.  Boh.  name  too  is  obscure,  sczyetnycze  pleiades  (Hanka's  Glossen  58"^)=  stetnice,  bristly  ones,  from
 stetina  seta?  Sloven,  gostoseotsi,  gostozhirtsi  the  thick-sown?
-The  last  name  agrees  with  the  Lith.  and  Finn,  view,  viz.  the  con-
-stellation is  a  sieve  having  a  great  many  holes,  or  sifting  out  a
+The  last  name  agrees  with  the  Lith.  and  Finn,  view,  viz.  the  constellation is  a  sieve  having  a  great  many  holes,  or  sifting  out  a
 heap  of  flour  :  Lith.  setas  Lett.  setinsU,  Esth.  sool  or  soggel,  Finn.
 seula,  seulainen.  Why  does  Suchenwirt  4,  326  say,  '  daz  her  daz
 tailt  sich  in  daz  lant  gleich  recht  als  ain  sihenstlm '  ?  because  the
 army  is  so  thickly  spread  over  the  land  ?   (see  Suppl.).
 
 The  origin  of  the  Pleiades  is  thus  related  :  Christ  was  passing
-a  baker's  shop,  when  He  smelt  the  new  bread,  and  sent  his  dis-
-ciples to  ask  for  a  loaf.  The  baker  refused,  but  the  baker's  wife
+a  baker's  shop,  when  He  smelt  the  new  bread,  and  sent  his  disciples to  ask  for  a  loaf.  The  baker  refused,  but  the  baker's  wife
 and  her  six  daughters  were  standing  apart,  and  secretly  gave  it.
 For  this  they  were  set  in  the  sky  as  the  Seven-stars,  while  the
 baker  became  the  cuckoo  (p.  676  baker's  man),  and  so  long  as
 he  sings  in  spring,  from  St.  Tiburtius's  day  to  St.  John's,  the
-Seven-stars  are  visible  in  heaven.  Compare  with  this  the  Nor-
-wegian tale  of  Gertrude's  bird  (p.  673).
+Seven-stars  are  visible  in  heaven.  Compare  with  this  the  Norwegian tale  of  Gertrude's  bird  (p.  673).
 
 There  may  be  a  few  more  stars  for  which  popular  names  still
 exist. ^  In  Lith.  the  Kids  are  artojis  su  jdaczeis  plougher  with
@@ -14727,8 +13749,7 @@ We  might  also  expect  to  find  names  for  the   Hyades  and  Cas-
 
 2  Cymric  and  Gaelic  Bibles  (.Job  9,  0),  retain  the  Latin  names  from  the  Vulgate;
 from  which  it  does  not  follow  that  these  languages  lack  native  names  for  st  irs.
-Armstrong  cites  Gael,  crannarain,  baker's  peel,  for  the  Pleiades,  and  draghlod,  lire-
-tail,  for  the  Lesser  Bear.
+Armstrong  cites  Gael,  crannarain,  baker's  peel,  for  the  Pleiades,  and  draghlod,  liretail,  for  the  Lesser  Bear.
 
 
 730  SKY  AIJD    STARS.
@@ -14764,18 +13785,15 @@ Arab,   she'd   (sihhel) ;    the   three  corresponding   to    Ursa   majoi'.
 
 '  Eeisersperg's  Postil  206  :  '  the  sea-star  or  the  Wain,  or  die  henn  mit  den  hiinlin
 as  ye  call  it.'  Grobianus  1572  fol.  93'' :  '  wo  der  wageii  steht,  und  wo  die  gluck  mit
-kiinkeln  geht.'  Several  writers  incorrectly  describe  the  '  diimke,  diiming  '  as  '  sie-
-bengestirn '  ;  even  Tobler,  when  he  says  370''  '  three  stars  of  the  siebeng.  are  called
+kiinkeln  geht.'  Several  writers  incorrectly  describe  the  '  diimke,  diiming  '  as  '  siebengestirn '  ;  even  Tobler,  when  he  says  370''  '  three  stars  of  the  siebeng.  are  called
 the  hoises,  near  which  stands  a  tiny  star,  the  waggoner,'  is  evidently  thinking  of  the
 Wain's  thill  [Germans  often  take  the  '  seven-stars'  for  Ursa  instead  of  Pleiades] .
 
-^  It  has  long  been  thought  a  settled  point,  that  Suculae  (little  sows)  was  a  blun-
-dering imitation  of  'TaSes,  as  if  that  came  from  6s  a  sow,  whereas  it  means  '  the
+^  It  has  long  been  thought  a  settled  point,  that  Suculae  (little  sows)  was  a  blundering imitation  of  'TaSes,  as  if  that  came  from  6s  a  sow,  whereas  it  means  '  the
 rainers '  from  iJeLv  to  rain  (' ab  iinbribus,'  Cicero;  'phivio  nomine,'  Pliny).  Does
 the  author  mean  to  reopen  the  question  ?  Did  the  later  Greeks  and  Eomans,
 ashamed  of  having  these  '  little  sows  '  in  the  sky,  invent  the  '  rainers '  theory  ?
-May  not  Suculae  at  all  events  be  a  genuine  old  Pioman  name,  taken  from  some  meri-
-torious mythical  pigs? — Trans.
+May  not  Suculae  at  all  events  be  a  genuine  old  Pioman  name,  taken  from  some  meritorious mythical  pigs? — Trans.
 
 *  In  Hebr.  the  three  words  stand  in  the  order  '  ash,  k'sil,  kimah ;  and  their
 transposition  here  does  some  injustice  to  the  Vulg.  and  Luther.  As  a  fact,  two  out
@@ -14818,8 +13836,7 @@ according  to  fancy.  On  this  plan  perhaps  the  Bear  was  first
 found  in  the  three  stars  of  the  tail,  and  then  the  other  four
 supplied  the  body.  Our  "Wain  shews  a  combination  of  both
 methods  :  the  thill  arose,  like  the  Bear's  tail,  by  outline,  but  the
-four  wheels  consist  each  of  a  single  star.  One  point  of  agi-ee-
-ment  is  important,  that  the  Greek  gods  put  men  among  the
+four  wheels  consist  each  of  a  single  star.  One  point  of  agi-eement  is  important,  that  the  Greek  gods  put  men  among  the
 stars,  the  same  as  Thorr  and  OSinn  do  (pp.  375.  723  ;  see  Suppl.).
 
 The  appearance  of  the  rahihow  in  the  sky  has  given  rise  to  a
@@ -14833,8 +13850,7 @@ a  heavenly  hriclge  over  which  the  deities  walk ;  hence  it  is  called
 
 732  SKT  AND    STAES.
 
-Ashril  (Saem.  44*),  more  commonly  Bif-rost  (OHG.  would  be  pipa-
-rasta)  the  quivering  tract,  for  rost,  Goth,  and  OHG.  rasta,  means
+Ashril  (Saem.  44*),  more  commonly  Bif-rost  (OHG.  would  be  piparasta)  the  quivering  tract,  for  rost,  Goth,  and  OHG.  rasta,  means
 a  definite  distance,  like  mile  or  league.  It  is  the  best  of  all
 bridges  (Ssem.  46'-),  strongly  built  out  of  three  colours;  yet  the
 day  cometh  when  it  shall  break  down,  at  the  end  of  the  world,
@@ -14855,8 +13871,7 @@ there  is  a  golden  dish,  or  a  treasure  lies  buried ;  that  gold  coins
 or  pennies  drop  ovd,  of  the  rainbow.  When  gold-pieces  are  picked
 up,  they  are  called  regenbogen-schusselein  (-dishes),  patellae  Iridis,
 which  the  sun  squanders  in  the  rainbow.  In  Bavaria  they  call
-the  rainbow  hvmmelring,  sonnenring,  and  those  coins  hiniTnelring-
-schiissehi  (Schm.  2,  196.  3,  109  :  conf.  supra  p.  359  note).  The
+the  rainbow  hvmmelring,  sonnenring,  and  those  coins  hiniTnelringschiissehi  (Schm.  2,  196.  3,  109  :  conf.  supra  p.  359  note).  The
 Romans  thought  the  bow  in  rising  drank  water  out  of  the  ground  :
 ^bibit  arcus,  pluet  hodie,'  Plant.  Curcul.  1,  2  ;  'purpureus  pluvias
 cur  bibit  arcus  aquas  ? '  Propert.  iii.  5,  32.  TibuU.  i.  4,  41.  Virg.
@@ -14908,15 +13923,13 @@ is  the  legend  from  Polish  Lithuania,  noticed  p.  580,  which
 introduces  the  rainbow  as  messenger  after  the  flood,  and  as
 counsellor.  Finn,  taiwancaari,  arcus  coelestis.  In  some  parts
 of  Lorraine  courroie  de  S.  Lienard,  couronne  de  S.  Bernard.  In
-Superst.  Esth.  no.  65  it  is  the  thunder-god's  sickle,  an  uncom-
-monly striking  conception.
+Superst.  Esth.  no.  65  it  is  the  thunder-god's  sickle,  an  uncommonly striking  conception.
 
 To  the  Greeks  the  lpi<;  was,  as  in  the  O.  Test.,  a  token  of  the
 gods,  II.  11,  27;  but  at  the  same  time  a  half-goddess 'I/^t?,  who
 is  sent  out  as  a  messenger  from  heaven.  The  Indians  assigned
 the  painted  bow  of  heaven  to  their  god  Indras.  In  our  own
-popular  belief  the  souls  of  the  just  are  led  by  their  guardian-
-angels  into  heaven  over  the  rainbow,  Ziska's  Oestr.  volksm.
+popular  belief  the  souls  of  the  just  are  led  by  their  guardianangels  into  heaven  over  the  rainbow,  Ziska's  Oestr.  volksm.
 49.  110.
 
 As  for  that  doctrine  of  the  Edda,  that  before  the  end  of  the
@@ -14933,8 +13946,7 @@ world  Bifrost  will  break,  I  find  it  again  in  the  German  belief
 during  the  Mid.  Ages  that  for  a  number  of  years  before  the
 Judgment-day  the  rainbow  will  no  longer  be  seen :  '  ouch  hort
 ich  sagen,  daz  man  sin  (the  regenpogen)  nieht  ensehe  drizich  jar
-(30  years)  vor  deme  suontage/  Diut.  3,  61.  Hugo  von  Trim-
-berg  makes  it  40  years  (Renner  19837)  :
+(30  years)  vor  deme  suontage/  Diut.  3,  61.  Hugo  von  Trimberg  makes  it  40  years  (Renner  19837)  :
 
 So  man  den  regenbogen  siht,
 so  enzaget  diu  werlt  niht
@@ -14989,8 +14001,6 @@ giant  and  dwarf  genealogies  have  evidently  overlapped.
 and  Goth,  dags,  which  has  exceptionally  kejDt  prim,  d  unchanged.  MHG.  tac  still
 retained  the  sense  of  heat :  '  fiir  der  heizcn  suuuen  tac,'  MB.  2,  8i\ — Suppl.]
 
-735
-
 
 736  DAY   AND   NIGHT.
 
@@ -14999,8 +14009,7 @@ and  Donar  are  both  descended  from  Night,  so  Dies  and  Deus
 (Zeus)  fall  under  one  root ;  one  is  even  tempted  to  identify  Donar,
 Thunor  with  the  Etruscan  Tina  (dies),  for  the  notion  day,  as  we
 shall  see,  carries  along  with  it  that  of  din  :  in  that  case  Tina
-need  not  stand  for  Dina,  but  would  go  with  Lat.  tonus  and  toni-
-trus.  Deus  is  our  Tiw,  Ziu,  for  the  same  name  sometimes  gets
+need  not  stand  for  Dina,  but  would  go  with  Lat.  tonus  and  tonitrus.  Deus  is  our  Tiw,  Ziu,  for  the  same  name  sometimes  gets
 attached  to  different  gods ;  and  it  is  an  additional  proof  how
 little  ''  dies '  has  to  do  with  our  '  dgeg,  tag ' ;  likewise  for
 coelum  itself  we  have  none  but  unrelated  words,  p.  698-9.  From
@@ -15069,8 +14078,7 @@ heilic  naht  hint !  '  so  (help)  me  Holy  Night  to-night,  Helbl.  2,
 Norse  poetry,  as  we  saw,  provided  both  Night  and  Day  with
 cars,  like  other  gods ;  but  then  the  sun  also  has  his  chariot,  while
 the  moon,  as  far  as  I  know,  has  none  ascribed  to  her.  Night
-and  Day  are  di^awu  by  one  horse  each,  the  Sun  has  two ;  con-
-sequently day  was  thought  of  as  a  thing  independent  of  the  sun,
+and  Day  are  di^awu  by  one  horse  each,  the  Sun  has  two ;  consequently day  was  thought  of  as  a  thing  independent  of  the  sun,
 as  the  moon  also  has  to  light  up  the  dark  night.  Probably  the
 car  of  Day  was  supposed  to  run  before  that  of  the  Sun,^  and
 the  Moon  to  follow  Night.  The  alternation  of  sexes  seems  not
@@ -15145,12 +14153,10 @@ sunne  te  sedle  137,  20.  so  tliuo  gisegid  wartli  sedle  ualior  hedra
 sunna  mid  hebantunglon  170,  1.  Dan.  for  vesten  gaaer  solen  til
 sclde,  DV.  1,  90,  in  contrast  to  '  sol  er  i  ausfri  (east),'  Vilk.
 saga  p.  58-9.  The  West  (occasus)  stands  opposed  to  the  East
-(oriens),  and  as  OHG.  kibil  means  pole,  and  Nordkibel,  Sunt-
-kibel  the  north  and  south  poles  (N.  Bth.  208),  a  set  phrase  in
+(oriens),  and  as  OHG.  kibil  means  pole,  and  Nordkibel,  Suntkibel  the  north  and  south  poles  (N.  Bth.  208),  a  set  phrase  in
 our  Weisthiimer  may  claim  a  high  antiquity :  *■  bis  (until)  die
 Sonne  nnter  den  Westergihel  geht '  (1,  836)  ;  'bis  die  sonue  an
-den  Wg.  schint'  (2,  195);  'so  lange  dat  die  sonne  in  den  Wes-
-tergevel  schint  '  (2,  159).  The  first  of  these  three  passages
+den  Wg.  schint'  (2,  195);  'so  lange  dat  die  sonne  in  den  Westergevel  schint  '  (2,  159).  The  first  of  these  three  passages
 has  the  curious  explanation  added:  'till  12  o'clock.'  ^  Ovid's
 '  axe  sub  Jiesperio  '  Met.  4,  214  is  thus  given  by  Albrecht  :
 in  den  liehten  ivesternangen.  The  similar  expression  in  ON",
@@ -15203,8 +14209,7 @@ a  worship  of  the  sun  as  queen  of  heaven :  '  never  might  ye  say
 she  set,  but  alway  that  she  went  to  rost  and  gnaden,  as  the  silly
 simple  folk  doth  even  yet  believe.^  The  last  words  alone  are
 worth  noticing;  the  superstition  may  be  of  very  old  standing,
-that  it  is  more  pious,  in  this  as  in  other  cases,  to  avoid  straight-
-forward speech,  and  use  an  old  half-intelligible  euphemism.  On
+that  it  is  more  pious,  in  this  as  in  other  cases,  to  avoid  straightforward speech,  and  use  an  old  half-intelligible  euphemism.  On
 this  point  Vuk  775  has  something  worthy  of  note  :  you  must  say
 '  smirilo  se  suntse  ^  (the  sun  is  gone  to  rest,  conquievit),  and  not
 zadije  {is  gone)  nor  sijede  (sits)  ;  if  you  say  zadye,  he  answers
@@ -15220,8 +14225,7 @@ Lye  quotes  an  AS.  phrase  '  ?Qr  sun  go  to  glade,'  which  he
 translates  '  priusquam  sol  vergat  ad  occasum,  lapsum.''  The
 noun  formed  from  glidan    (labi)    would  be  glad,  and  glidan  is
 
-^  Kopitar  tells  me, '  zashao  etc'  is  rather  an  imprecation  :  mayst  thou  go  in  (per-
-haps, lose  tliy  way)  and  never  get  out !  So  '  syeo  etc.',  mayst  thou  sit  down  and
+^  Kopitar  tells  me, '  zashao  etc'  is  rather  an  imprecation  :  mayst  thou  go  in  (perhaps, lose  tliy  way)  and  never  get  out !  So  '  syeo  etc.',  mayst  thou  sit  down  and
 never  get  up  !
 
 2  Mod.  Greek  songs  say,  6  ^Xtos  e^acriXeve,  i^acxiXe^e  (Fauriel  1,  56.  2,  300.  432),
@@ -15256,8 +14260,7 @@ splendour,  he  is  entering  into  his  bliss  :  this  is  what  'gongan  to
 glsede '  may  have  meant.     In  ON.  I  have  only  once  fallen  in  with
 solargla&an   (occasus),   Fornald.   sog.    1,    518.      We    learn  from
 Hire's  Dialectlex.  p.  57^"  165%  that  in  Vestgotland  'gladas'  is  said
-of  the  sun  when  setting  :     solen  gladas  or  glaas  (occidit),  sole-
-glanding,  solglddjen  (occasus),  which  may  mean  that  the  setting
+of  the  sun  when  setting  :     solen  gladas  or  glaas  (occidit),  soleglanding,  solglddjen  (occasus),  which  may  mean  that  the  setting
 sun  is  glad  or  glitters.     That  is  how  I  explain  the  idiom  quoted
 by  Staid.  1,  463.    2,  520:  the  sun  goes  gilded  =  sets,  i.e.  glitters
 for  joy.     So  in  Kinderm.  no.  165  :   sunne  z'gold  gauge;  in  a  song
@@ -15387,8 +14390,7 @@ similar,  suggests  rather  the  king  of  beasts,  who  to  us  is  thebear.^
 AH  Jelebi  in  his  Humayun-nameh  (Diez  p.  153)  describes  the
 beginning  of  day  in  language  bombastic  it  may  be,  yet  doubtless
 a  faithful  reflex  of  ancient  imagery:  *^When  the  falcon  of  the
-nest  of  the  firmament  had  scattered  the  nightbirds  of  the  flicker-
-ing stars  from  the  meadow  of  heaven,  and  at  sight  of  the  claws
+nest  of  the  firmament  had  scattered  the  nightbirds  of  the  flickering stars  from  the  meadow  of  heaven,  and  at  sight  of  the  claws
 of  the  lion  of  day  the  roe  of  musk- scented  night  had  fled  from
 the  field  of  being  into  the  desert  of  non-existence/  The  night,
 a  timid  roe,  retires  before  the  mighty  beast  of  day  :  a  beautiful
@@ -15490,8 +14492,7 @@ alba  stood  over  the  mountain  top.'
 The  English  use  the  expression  'peep  of  day' :  ^the  sun  began
 to  peep '  says  a  Scotch  song,  Minstr.  2,  430 ;  so  the  Danes  have
 j)ipefrem  :  '  hist  piper  solen /rem,  g'lv  Grud  en  lyksom  dag ! '  says
-Thom.  Kingo,  a  17th  cent,  poet  (Nyerup's  Danske  digtek.  mid-
-delalder  1,  235).  Both  languages  now  make  it  a  separate  word
+Thom.  Kingo,  a  17th  cent,  poet  (Nyerup's  Danske  digtek.  middelalder  1,  235).  Both  languages  now  make  it  a  separate  word
 from  'to  pipe,'  Dan.  'pibe.'  Bat,  just  as  in  the  Fr.  'par  son'
 the  sound  became  a  coming  in  sight,  so  the  old  meaning  of
 '  piping '  seems  to  have  got  obliterated,  and  a  new  distinction  to
@@ -15526,8 +14527,7 @@ albores/  Cid  235.  '  ya  (juiebt-an  los  albores,  e  vinie  la  manana'
 460.  '  trocida  es  la  noche,  ya  quiebran  los  albores  '  3558.  0.  Fr.
 Taube  cneve/  Ren.  1186.  'ja  estoit  Va,uhe  crevee'  1175.  Hantost
 con  I'aube  se  creva'  16057.  Prov.  ^can  lalba  fo  crevada,'  Ferabr.
-3977.  This  romper,  quebrar,  crevar  (Lat.  crepare)  is  the  quiver-
-ing and  quaking  of  the  air  that  precedes  sunrise,  accompanied
+3977.  This  romper,  quebrar,  crevar  (Lat.  crepare)  is  the  quivering and  quaking  of  the  air  that  precedes  sunrise,  accompanied
 by  a  perceptible  chill ;  and  crepiisculurti  contains  the  same  idea.
 The  Spaniard  says  also  '  el  alva  se  He,'  laughs ;  and  the  Ai'ab
 Hhe  morning  sneezes'  (see  Suppl.).^
@@ -15571,8 +14571,7 @@ morgenrCt  (is  it  niorgeu  rot?),  Walth.  4,  G  ;  but  daz  morgenrot,  Tri
 tagerod  sina  facchelun  inzundet  habe/  liave  kindled  his  torches.
 And  in  urkunden  we  meet  with  a  man's  name  DagJiarot  (Falke's
 Trad.  corb.  p.  5),  also  a  place  named  Wivin-tagaroth  (Hofer's
-Zeitschr.  2,  170).  When  OHG.  glosses  put  tagarod  for  crepus-
-culum^  it  comes  of  unacquaintance  with  the  Latin  idiom ;  it  can
+Zeitschr.  2,  170).  When  OHG.  glosses  put  tagarod  for  crepusculum^  it  comes  of  unacquaintance  with  the  Latin  idiom ;  it  can
 be  nothing  but  diluculum,  aurora.  In  O.Fr.  there  is  a  woman's
 name  Brunmatin  =  da,wn,  Ren.  15666.  15712.  16441  [conn,  with
 dagsbrim,  Suppl.].  The  ON.  has  no  dagsrod^  but  it  has  sSlarrod
@@ -15590,8 +14589,7 @@ has  a  sense  allied  to  the  day's  *  breaking  or  bursting/  for  the
 Goth,  gamaiirgjan  means  to  cut  and  shorten,  like  ginnen,  secai-e
 (see  Suppl.).
 
-To  names  for  the  rising  day  stand  opposed  those  for  the  sink-
-ing. For  Qy^e,  o-^la  Ulphilas  puts  andanahti,  the  times  towards
+To  names  for  the  rising  day  stand  opposed  those  for  the  sinking. For  Qy^e,  o-^la  Ulphilas  puts  andanahti,  the  times  towards
 night,  but  also  seijyii  (serum),  as  the  Mod.  Greeks  call  evening
 the  slow,  late,  to  l3pdSv,  and  morning  the  swift,  early,  to  Ta^v,
 therefore  also  the  short  (conf.  gamaiirgjan).  The  OHG.  dpant,
@@ -15617,17 +14615,14 @@ DATBEEAK.      TWILIGHT.  749
 To  the  Greeks  and  Romans  'Hcaq,  Aurora,  was  a  goddess,  and
 slie  is  painted  in  the  liveHest  colours.  She  rises  from  the  couch
 {e/c  \e^i(ov,  as  our  sun  goes  to  bed,  p.  740)  of  her  husband
-Tithonos^  Od.  5,  1 ;  she  is  the  earlj-born  {TjpL<yeveLa),  the  rosy-
-fingered  (poSoSaKTvXo';,  II.  1,  477) ;  she  digs  her  ruddy  fingers
+Tithonos^  Od.  5,  1 ;  she  is  the  earlj-born  {TjpL<yeveLa),  the  rosyfingered  (poSoSaKTvXo';,  II.  1,  477) ;  she  digs  her  ruddy  fingers
 into  the  clouds  as  day  does  his  claws,  p.  743 ;  she  is  also  called
 Xpv(r66povo'i  golden-throned,  like  Hera  and  Artemis.  The  Slavs,
-instead  of  a  goddess  of  dawn,  appear  to  have  had  a  god,  Yutri-
-hogli  (see  Suppl,).
+instead  of  a  goddess  of  dawn,  appear  to  have  had  a  god,  Yutrihogli  (see  Suppl,).
 
 There  is  another  belief  of  the  Slavs  and  Hungarians,  which,
 having  strayed  over  to  us,  must  not  be  passed  over  in  silence.
-In  Hungary  dawn  is  called  hajnal  (Esth.  haggo),  and  the  watch-
-men there  cry  to  one  another  :  '  hajnal  vagyon  szep  piros,  hajnal,
+In  Hungary  dawn  is  called  hajnal  (Esth.  haggo),  and  the  watchmen there  cry  to  one  another  :  '  hajnal  vagyon  szep  piros,  hajnal,
 hajnal  vagyon  ! '  aurora  est  (erumpit)  pulcra  purpurea,  aurora,
 aurora  est.  The  same  word  heynal,  eijnal  is  in  use  among  the
 Poles,  who  cry:  'heynal  swita !  '  aurora  lucet  (Linde  1,  623).
@@ -15673,8 +14668,7 @@ We  saw  that  the  rising  snn  uttered  a  joyful  sound,  p.  741-2
 that  the  rustling  dawn  laughed,  p.  747 ;  this  agrees  with  the
 oft-repeated  sentiment,  that  the  day  brings  bliss,  the  night  sorrow.
 We  say,  '  happy  as  the  day,'  and  Shaksp.  'jocund  day  '' ;  Reinolt
-von  der  Lippe  'er  verhltde  als  der  dag';  MS.  2,  192  of  depart-
-ing day,  '  der  tac  sin  wunne  verlat/  Especially  do  birds  express
+von  der  Lippe  'er  verhltde  als  der  dag';  MS.  2,  192  of  departing day,  '  der  tac  sin  wunne  verlat/  Especially  do  birds  express
 their  joy  at  the  approach  of  day  :  '  gsest  inne  swsef  o]?]?set  hraefn
 blaca  heofenes  wynne  hUd'-heort  bodode,'  Beow.  3598 ;  the  heaven's
 bliss  that  the  raven  blithe-hearted  announces  is  the  breaking  day.
@@ -15686,8 +14680,7 @@ Rimen.  64,  p.  307  ;  'ich  warte  der  frouwen  min,  reht  als  des  tages
 diu  kleinen  vogellin/  MS.  1,  bl^ ;  '  froit  sich  min  gemiiete,  sam
 diu  kleinen  vogelliu,  su  si  selient  den  morgenschin,'  MS.  2,  102^.
 Hence  the  multitude  of  poetic  set-phrases  that  typify  the  break
-of  day  by  the  song  of  cocks  (han-krat)  or  nightingales.  Biarka-
-mal  near  the  beginning  :  '  dagr  er  upp  kominn,  dynja  hana
+of  day  by  the  song  of  cocks  (han-krat)  or  nightingales.  Biarkamal  near  the  beginning  :  '  dagr  er  upp  kominn,  dynja  hana
 fiaSrar,'  cocks'  feathers  make  a  din.  '  a  la  maiiana,  quando  los
 gallos  cantaran/  Cid  317.  ^i  coc  cantoient,  pres  fu  del  esclairier.'
 '  I'aube  est  percie,  sesclere  la  jornee,  cil  oisellon  chantent  en  la
@@ -15728,12 +14721,10 @@ Ssp.  pref.   193.       in  der  sinkenden  naht.   Cornel,  releg.,  Magd.
 1605,  F.  5"'.     in  sinMichter  nacht,  Schoch  stud.  D.  4*.     And   we
 still    say   '  till    sinking  night. ^ "      Much  the    same    are  :  nu  der
 abent,  diu  naht  zuo  gefloz  (came  flowing  up),  Troj.  13676.  10499.
-AS.  '£efen  com  sigeltorht  swungen,'  Andr.   1246. — But  this  set-
-ting in,   gathering,  falling   can  also   come   softly,   secretly,  like
+AS.  '£efen  com  sigeltorht  swungen,'  Andr.   1246. — But  this  setting in,   gathering,  falling   can  also   come   softly,   secretly,  like
 a  thief:  diu  naht  begunde  sUchen  an  (creep  on),  Dietr.  68^.     nu
 was  diu  naht  geslichen  gar  iiber  daz  gevilde  (fields),  Christoph.
-413.     do  nu  diu  naht  her  sleich,  und  diu  vinster  in   hegreif  (dark-
-ness caught  him)  376:  so  thiu  naht  hijmg,  Heh    129,    16.      do
+413.     do  nu  diu  naht  her  sleich,  und  diu  vinster  in   hegreif  (darkness caught  him)  376:  so  thiu  naht  hijmg,  Heh    129,    16.      do
 hegreif  in  die  nacht,  Florsheim  chron.   in  Miiuch  3,    188.     wie
 mich  die  nacht  hegrif,  Simplic.  1,  18.     hett  mich  die  nacht  schon
 hegriffen,  Gotz  v.  Berl.  p.  m.  164.     In  MHG.  we  find  predicated
@@ -15742,8 +14733,7 @@ unz  iuz  diu  naht  henam,  Gudr.  879,  1.     ne  hete  iz  in  diu  naht
 henomen,  Diut.  3,  81  (conf.  Gramm.  4,  334).     Ilroswitha  says,  in
 Fides  et  spes  :  '  dies  abiit,  nox  incumhit.'
 
-^  Both  times  '  segen'  in  text ;  if  sigen  an  (vincere)  were  meaut,  we  should  ex-
-pect the  word  day  in  the  dative.
+^  Both  times  '  segen'  in  text ;  if  sigen  an  (vincere)  were  meaut,  we  should  expect the  word  day  in  the  dative.
 
 2  Goethe  says  sweetly :  For  Evening  now  the  earth  was  rocking,  And  on  the
 mountains  hung  the  Night.
@@ -15772,8 +14762,7 @@ the  stars  of  evening  precede  the  Night  herself,  as  pioneers  and
 standard-bearing  heralds,  just  as  the  morning  star  was  messenger
 of  Day  .2
 
-On  p.  742  we  had  a  sunrise  taken  from  the  Titurel ;  a  de-
-scription of  failing  day,  which  immediately  precedes,  deserves  to
+On  p.  742  we  had  a  sunrise  taken  from  the  Titurel ;  a  description of  failing  day,  which  immediately  precedes,  deserves  to
 stand  here  too  :
 
 Do  diu  naht  zuo  sUchen
@@ -15812,8 +14801,7 @@ see'st,  until  that  he  might  from  her  flee,  then  could  he  hoist  him  
 NIGHTFALL.      NIGHT.  753
 
 vv^  6pj>vaLri  the  dusky,  in  Homer.  '  tlio  warth  aband  cuman,  naht
-mid  neflu,'  Hel.  170,  25.  'diiQJindere  ragende  nacht/  gloomy  low-
-ring  (jutting),  Sclireckensgast,  Ingolst.  1590,  p.  114.  'die  eitele
+mid  neflu,'  Hel.  170,  25.  'diiQJindere  ragende  nacht/  gloomy  lowring  (jutting),  Sclireckensgast,  Ingolst.  1590,  p.  114.  'die  eitele
 nndfinstere  nacht,'  Kornmann's  Mons  Ven.  329.  'oiipende  niht,^
 Beow.  1088.  1291,  conf.  genip  (caligo).  ' scaduhelm/  Beow.  1293.
 '  nilithelm  geswearc  deorc  ofer  dryhtguman  '  3576.  'nihthehn  to
@@ -15821,8 +14809,7 @@ glad,^  Andr.  123.  El.  78  :  to  her,  as  a  goddess,  is  ascribed,  quite
 in  the  spirit  of  our  olden  time,  a  terrible  and  fearful  helmet,  like  a
 cloak-of-darkness,  '  niht  helmade '  (put  on  her  helmet)  we  are  told
 in  Andr.  1306.  Still  finer  perhaps  is  that  '  eye  of  hlach  night/
-Ke\at,vri<i  vuacto?  o/xfia  in  Aeschylus  (Pars.  428)  for  thick  dark-
-ness as  opposed  to  the  bright  eye  of  night,  the  moon,  p.  702
+Ke\at,vri<i  vuacto?  o/xfia  in  Aeschylus  (Pars.  428)  for  thick  darkness as  opposed  to  the  bright  eye  of  night,  the  moon,  p.  702
 (see  Suppl.).^
 
 The  poetic  images  I  have  here  collected  remove  all  doubt  as  to
@@ -15833,19 +14820,15 @@ name  for  day,  which  of  itself  bespoke  his  kinship  with  the  gods.
 
 Eeckoning  by  nights  instead  of  days  does  indeed  rest  on  the
 observance  of  lunar  time  (p.  708),  but  may  have  another  reason
-too,  the  same  that  prompted  men  to  count  winters  and  not  sum-
-mers. The  heathens  used  to  fix  their  holy  festivals  for,  or  prolong
+too,  the  same  that  prompted  men  to  count  winters  and  not  summers. The  heathens  used  to  fix  their  holy  festivals  for,  or  prolong
 them  into,  the  night,  especially  those  of  the  summer  and  winter
 solstices,  as  we  see  by  the  Midsummer  and  Christmas  fires ;  the
 fires  of  Easter  and  May  also  bear  witness  to  festal  nights.  The
 Anglo-Saxons  kept  a  hcerfestniht  (ON.  haustnott,  haustgrima),
 the  Scandinavians  a  hokunott  (F.  Magn.  Lex.  1021).  Beda  in  his
-De  temp.  rat.  cap.  13  has  preserved  a  notable  piece  of  informa-
-tion, though  its  full  meaning  is  beyond  our  ken  :  '  Incipiebant
+De  temp.  rat.  cap.  13  has  preserved  a  notable  piece  of  information, though  its  full  meaning  is  beyond  our  ken  :  '  Incipiebant
 annum  (antiqui  Anglorum  populi)  ab  octavo  cal.  Jan.  die,  ubi  nunc
-natale  Domini  celebramus ;  et  ipsam  noctem,  nunc  nobis  sacro-
-sanctam,  tunc  gentili  vocabulo  rnodranecht  (modra  niht),"  i.e.  ma-
-trum  noctem  appellabant  ob  causam,  ut  suspicamur,  ceremoniarum
+natale  Domini  celebramus ;  et  ipsam  noctem,  nunc  nobis  sacrosanctam,  tunc  gentili  vocabulo  rnodranecht  (modra  niht),"  i.e.  matrum  noctem  appellabant  ob  causam,  ut  suspicamur,  ceremoniarum
 quas  in  ea  pervigiles  agebant.^     Who  were  these  mothers  ?
 
 '  Images  now  familiar  to  us,  about  quenching  the  lamps  of  daj',  I  have  not  met
@@ -15860,8 +14843,7 @@ on  Norse  docs.,  but  simply  borrowed  from  Beda.  [Can  'modre  niht '  hav
 CHAPTER  XXIV.
 SUMMER  AND  WINTER.
 
-The  Seasons^  which,  like  day  and  night,  depended  on  the  near-
-ness or  distance  of  the  sun,  have  maintained  their  personahty  a
+The  Seasons^  which,  like  day  and  night,  depended  on  the  nearness or  distance  of  the  sun,  have  maintained  their  personahty  a
 great  deal  more  vigorously  and  distinctly.  Their  slow  revolution
 goes  on  with  a  measured  stateliness,  while  the  frequent  change  of
 day  and  night  soon  eflfaced  the  recollection  of  their  having  once
@@ -15880,8 +14862,7 @@ seasons  in  the  year,  afterwards  three,  and  lastly  four.  To  this
 the  very  names  bear  witness.  Our  jahr,  Goth,  jer,  OHG.  jar,  M.
 Nethl.  jaer,  OS.  ger,  AS.  gear,  Engl,  year,  ON.  dr,  is  plainly  the
 Pol.  iar,  iaro,  Boh.  gar,  garo,  which  signify  spring.^  In  the
-same  way  the  Slavic  Veto,  lieto,  liato,  strictly  summer,  and  seem-
-ingly akin  to  our  lenz,  OHG.  lenzo,  lengiz,  MHG.  lenze,  lengez,
+same  way  the  Slavic  Veto,  lieto,  liato,  strictly  summer,  and  seemingly akin  to  our  lenz,  OHG.  lenzo,  lengiz,  MHG.  lenze,  lengez,
 AS.  lenden,  lengten  (lent,  spring)  has  come  by  degrees  to  cover
 the  whole  year.  Thus  both  jar  and  leto  mean  the  warmer  season
 (spring  or  summer)  ;  and  southern  nations  reckoned  by  them,  as
@@ -15896,8 +14877,6 @@ Athanagildus,    Athanaricus    (A]?nagilds,    A];nareiks)  ;    it    seems
 ver  for  verer,  veser,  closely  coun.  with  Lith.  wasara  (aestas)  and  Sanskr.  vasanta,
 Benfey  1,  309.  Of  the  same  root  seems  the  Slav,  vesua,  wiosna  (spring),  but  hardly
 the  ON.  vasa^r,  which  means  sharp  winter.
-
-751
 
 
 SEASONS.  755
@@ -15923,8 +14902,7 @@ exerceat.'  This  was  apparently  a  Celtic  and  Roman  custom,
 57),  and  the  holy  mistletoe  was  plucked  amid  joyful  cries  of
 ^  a-gui-lan-neuf  !  ^  [Michelet  2,  17:  guy-na-ne,  maguillanneu,
 gui-gne-leu.  Suppl.].  Nothing  of  the  kind  seems  to  have  been
-known  in  Germany ;  but  it  is  worth  while  to  notice  the  New-
-year's  hymns  and  wishes  in  Clara  Hatzlerln's  book  as  late  as  the
+known  in  Germany ;  but  it  is  worth  while  to  notice  the  Newyear's  hymns  and  wishes  in  Clara  Hatzlerln's  book  as  late  as  the
 14th  cent.  (57'^.  77%  espec.  196—201  in  Haltaus's  ed.)  where  the
 year  is  pictured  as  a  newhorn  habe,  a  neiuhorn  god,  who  will  grant
 the  wishes  of  mortals.  Immediately,  no  doubt,  this  referred  to
@@ -15975,15 +14953,11 @@ why  should  the  d  of  the  AS.  midde  (Goth,  midja,  OHG.  mitti)
 have   passed  into  ss  ?     It  must   be  admitted   however,  that  in
 the  relation  of  Lat.  medius  to  Goth,  midja  we  already  observe  a
 disturbance  in  the  law  of  change ;  misseri  may  have  come  down
-and  continued  from  so  remote  an  antiquity  that,  while  in  appear-
-ance denying  its  kindred,  it  will  have  to  own  them  after  all,  and
+and  continued  from  so  remote  an  antiquity  that,  while  in  appearance denying  its  kindred,  it  will  have  to  own  them  after  all,  and
 the  '  miss '  is  in  the  same  predicament  as  the  Gr.  /J>eao<i,  /j,eaao<;
-compared  with  Sanskr.  madhyas,  or  ^vaaoq  =^/3v66<;.     No  ^mis-
-seri, missiri '  meets  us  in  the  OEG.  remains,  but  the  lost  hero-
-lays  may  have  known  it,  as  even  later  usages  retain  the  reckoning
+compared  with  Sanskr.  madhyas,  or  ^vaaoq  =^/3v66<;.     No  ^misseri, missiri '  meets  us  in  the  OEG.  remains,  but  the  lost  herolays  may  have  known  it,  as  even  later  usages  retain  the  reckoning
 by  half-years  ;  when  the  Hildebr.-lied  says  '  ih  wallota  suma.ro
-enti  ivintro  sehstic  ur  lante,'  it  means  only  60  misseri  (30  sum-
-mers and  30  winters),  which  agrees  with  the  *  30  years'  of  the
+enti  ivintro  sehstic  ur  lante,'  it  means  only  60  misseri  (30  summers and  30  winters),  which  agrees  with  the  *  30  years'  of  the
 more  modern  folk-song;    and  we   might    even   guess   that  the
 'thirteen  years'  and  'seven  years'  in  Nib.  1082  and  1327,  2,
 which  make  Chriemhild  somewhat  old  for  a  beauteous  bride,  were
@@ -16008,8 +14982,7 @@ suflBcient  proof  of  a  third  or  fourth.  The  twofold  division  is
 further  supported  by  the  AS.  terms  midsumor  and  midwinter,
 ON.  mi&sumar,  mi&vetr,  which  marked  the  same  crises  of  solstice,
 and  had  no  midhearfest  to  compete  with  them  ;  an  AS.  midlenden
-(Engl,  midlent)  does  occur,  and  is  about  equivalent  to  our  mif-
-fasten.  Now  in  what  relation  did  the  missere  stand  to  midsumor
+(Engl,  midlent)  does  occur,  and  is  about  equivalent  to  our  miffasten.  Now  in  what  relation  did  the  missere  stand  to  midsumor
 and  midwinter  ?  The  day  (of  24  hours)  likewise  fell  into  two
 halves  of  12  hours  each,  the  AS.  dogor,  ON.  dcegr  ;  and  dogor
 bears  the  same  relation  to  daeg  as  missere  to  gear.  Our  ancient
@@ -16042,8 +15015,7 @@ all  younger  than  other  very  old  words.  More  correct  surely  is
 the  statement  we  made  before^  that  as  we  go  further  north  in
 Europe,  there  appear  but  two  seasons  in  all,  summer  and  winter  ;
 and  as  we  go  south,  we  can  distinguish  three,  four,  or  even  five.^
-Then  also  for  mythical  purposes  the  two  seasons  are  alone  avail-
-able, though  sometimes  they  are  called  spring  and  winter,  or
+Then  also  for  mythical  purposes  the  two  seasons  are  alone  available, though  sometimes  they  are  called  spring  and  winter,  or
 spring  and  autumn  ^  (see  Suppl.) .
 
 With  the  Goth,  vintrus  (hiems)  we  have  a  right  to  assume  a
@@ -16147,8 +15119,7 @@ hat  in  sinem  hrdme  der  Meige/  MS.  1,  59^^.  *der  Meie  hat
 brieve  fiir  gesant,  daz  sie  kiinden  in  diu  lant  sine  kunft  den
 vruoten/  Ben.  433 ;  like  a  king  who  after  a  long  absence
 returns  victorious,  he  sends  letters  on  before,  to  announce  his
-coming.  '  da  ist  der  Meie  und  al  sin  kraft,  er  und  sin  geselle-
-schaft  diu  (sic  1.)  ringent  manige  swaei-e  (lighten  many  a
+coming.  '  da  ist  der  Meie  und  al  sin  kraft,  er  und  sin  geselleschaft  diu  (sic  1.)  ringent  manige  swaei-e  (lighten  many  a
 burden) ;  Meie  hat  im  angesiget '  overcome  him  (winter),  Ben.
 449.  *  ich  lobe  dich,  Meie,  diner  kraft,  du  tuost  Sumer  sigehaft,'
 thou  makest  S.  victorious  (both  prop,  n.),  MS.  2,  57^.  '  ob  der
@@ -16210,9 +15181,7 @@ he  fills  his  sack  with  booty  (saccage).  'bluomen  unde  loup  was
 des  Rifen  erster  roup  (first  plunder),  den  er  in  die  secJce  schoiip
 (shoved  into  his  sacks),  er  enspielt  in  noch  enkloup,'  Ben.  304.
 Yet,  '  sunder  Rtf  en  danc,  allez  griienez  in  froiden  lit,'  no  thanks
-to  Jack  Frost,  all  green  things  are  in  glee,  MS.  1,  34''.  '  unbe-
-sungen  ist  der  wait,  daz  ist  allez  von  des  Rifen  ungenaden  (ill-
-will)  komen,'  Ben.  275.  Wizlau  in  one  song  exclaims  :  '  Winder,
+to  Jack  Frost,  all  green  things  are  in  glee,  MS.  1,  34''.  '  unbesungen  ist  der  wait,  daz  ist  allez  von  des  Rifen  ungenaden  (illwill)  komen,'  Ben.  275.  Wizlau  in  one  song  exclaims  :  '  Winder,
 dich  vorhote  (take  heed)  !  der  Sumer  komt  zo  mote,'  to  meet
 thee,  Amgb.  29=^;  and  Walther  39,  9  :  '  weizgot,  er  lat  ouch  dem
 Meien  den  strit,'  Winter  gives  up  the  battle ;  conversely,  '  der
@@ -16258,8 +15227,7 @@ Eschenburg's  Denkm.  458  has  the  burden  '  willkommen  Male  !  '
 (see  Suppl.).
 
 But  the  coming  in  of  Summer  did  not  happen  on  any  fixed
-day  of  the  year,  it  was  determined  by  accidental  signs,  the  open-
-ing of  flowers,  the  arrival  of  birds.  This  was  called  finding
+day  of  the  year,  it  was  determined  by  accidental  signs,  the  opening of  flowers,  the  arrival  of  birds.  This  was  called  finding
 Summer  :  '  ich  han  de7i  Sumer  viinden/  MsH.  3,  202''.
 
 Whoever  had  spied  '  den  ersten  viol '  *  made  it  known ;  the
@@ -16304,8 +15272,7 @@ traverse  all  the  streets,  singing  a  sweet  spring-song;  the  singers
 carry  a  sivallow  carved  out  of  wood,  which  stands  on  a  cylinder,
 and  keeps  turning  round. ^  *  Hirundine  prima,'  says  Horace
 Epist.  i.  7,  13.  That  in  Germany  also  the  first  swallow  was  taken
-notice  of  in  the  Mid.  Ages,  is  shewn  by  the  superstitious  obser-
-vance (Sup.  G,  and  I,  217)  of  digging  a  coal  out  of  the  ground
+notice  of  in  the  Mid.  Ages,  is  shewn  by  the  superstitious  observance (Sup.  G,  and  I,  217)  of  digging  a  coal  out  of  the  ground
 on  her  appearance.  In  Sweden  the  country  folk  welcome  her
 with  a  thrice  repeated  shout  of  joy  (Westerdahl  p.  55).  Both
 swallow  and  stork  are  accounted  sacred  inviolable  creatures.  He
@@ -16342,14 +15309,12 @@ prevails,  or  did  prevail  in  recent  centuries,  almost  everywhere  in
 German  and  Slav  countries,  and  bespeaks  a  very  ancient  origin.
 What  the  minnesingers,  with  their  elegant  phrases  about  the  old
 'chair,  entry,  highway,  grace  and  glory  of  Summer^  as  a  king
-or  god,  may  have  led  us  to  guess,  is  supplemented  and  illus-
-trated by  abiding  customs  of  the  people,  which  in  rude  artless
+or  god,  may  have  led  us  to  guess,  is  supplemented  and  illustrated by  abiding  customs  of  the  people,  which  in  rude  artless
 fashion  drive  at  the  main  point.  The  modes  of  celebration  and
 the  songs  vaiy  greatly.^  Often  there  is  only  a  wreath,  a  doll,  an
 animal  carried  about  in  a  basket,  and  gifts  demanded  from  house
 to  house.^  Here  it  is  a  coch,  there  a  crow  or  a  fox,^  that  the
-children  take  round,  as  in  Poland  at  the  time  of  coleda  (new-
-year)  they  go  about  with  a  stuffed  wolf,  collecting  gifts  (Linde
+children  take  round,  as  in  Poland  at  the  time  of  coleda  (newyear)  they  go  about  with  a  stuffed  wolf,  collecting  gifts  (Linde
 sub  V.  koleda).  These  animals  do  not  migrate,  and  I  leave  it
 undetermined,  what  right  they  can  have  to  represent  the  stork
 or  swallow,  or  whether  they  mean  something  altogether  different.
@@ -16444,8 +15409,7 @@ aus.'  Stabaus  may  be  for  staubaus  =  up  aud  away,  Schm.  3,  002  ;  co
 
 supposes  their  existence,  or  that  of  songs  substantially  the  same.
 The  conception  and  setting  of  the  whole  are  quite  heathenish :
-valiant  Summer  found,  fetched,  wakened  from  his  sleep ;  van-
-quished Winter  rolled  in  the  dust,  thrown  into  chains,  beaten
+valiant  Summer  found,  fetched,  wakened  from  his  sleep ;  vanquished Winter  rolled  in  the  dust,  thrown  into  chains,  beaten
 with  staves,  blinded,  banished ;  these  are  demigods  or  giants  of
 antiquity.  Violets  are  mentioned  with  evident  reference  to  the
 welcoming  of  Summer.  In  some  parts  the  children  march  out
@@ -16478,8 +15442,7 @@ durch  unsre  stadt  zum  thor  hinaus  (out  at  the  gate) ;
 here  and  there  the  whole  action  is  compressed  into  the  shout :
 '  Sommer  'rein  (come  in),  Winter  'naus  (go  out)  !  '
 
-As  we  come  back  through  the  Odenwald  toward  inner  Fran-
-conia,  the  Spessart  and  the  Rhon  Mts,  the  words  begin  to  change,
+As  we  come  back  through  the  Odenwald  toward  inner  Franconia,  the  Spessart  and  the  Rhon  Mts,  the  words  begin  to  change,
 and  run  as  follows  :
 
 Stab  aus,  stab  aus,
@@ -16487,8 +15450,7 @@ Stab  aus,  stab  aus,
 stecht  dem  Tod  (death)  die  augen  aus  !
 
 
-1  The  MHG.  songs  keep  pace  :  '  der  Meie  hat  sinen  schaft  uf  den  "Winter  ver-
-stochen,'  dug  his  shaft  into,  MsH.  3,  195''.  'Mai  hat  den  W.  erslagen',  slain,
+1  The  MHG.  songs  keep  pace  :  '  der  Meie  hat  sinen  schaft  uf  den  "Winter  verstochen,'  dug  his  shaft  into,  MsH.  3,  195''.  'Mai  hat  den  W.  erslagen',  slain,
 Hiitzl.  131,  58.     '  vehten  wil  der  W.  kalt  gegen  dem  lieben  Sumer,'  MsH.  3,  423".
 
 
@@ -16505,8 +15467,7 @@ that  at  an  early  time  some  heathenish  name  for  Winter  had  to
 give  place  to  the  christian  conception  of  Death.
 
 When  we  get  to  the  heart  of  Franconia,  e.g.  Niirnberg,  the
-songs  drop  ail  mention  of  Summer,  and  dwell  the  more  em-
-phatically on  the  expulsion  of  Death}  There  country  lasses  of
+songs  drop  ail  mention  of  Summer,  and  dwell  the  more  emphatically on  the  expulsion  of  Death}  There  country  lasses  of
 seventeen  or  eighteen,  arrayed  in  all  their  finery,  parade  the
 streets  of  the  whole  town  and  suburbs;  on  or  under  their  left
 arm  they  carry  a  little  open  coffin,  with  a  shroud  hanging  over
@@ -16559,8 +15520,7 @@ lassen  wir  euch  den  Tod  nicht  sehen  (won't  let  you  see  D.).
 
 Der  Tod  der  hat  e in  panzer  an  (wears  a  coat  of  mail).
 Similar  customs  and  songs  prevailed  all  over  Franconia,  and  in
-Thuringia,  Meissen,  Vogtland,  Lausitz  and  Silesia.     The  begin-
-ning of  the  song  varies  :
+Thuringia,  Meissen,  Vogtland,  Lausitz  and  Silesia.     The  beginning of  the  song  varies  :
 
 Nun  treiben  wir  den  Tod  aus^  (drive  D.  out),
 
@@ -16576,8 +15536,7 @@ year).
 Usually  a  puippet,  a  figure  of  straw  or  wood,  was  carried  about,
 and  thrown  into  water,  into  a  hog,  or  else  burnt ;  if  the  figure
 was  female,  it  was  carried  by  a  boy,  if  male,  by  a  girl.  They
-disputed  as  to  where  it  should  be  made  and  tied  together ;  what-
-ever house  it  was  brought  out  of,  there  nobody  died  that  year.
+disputed  as  to  where  it  should  be  made  and  tied  together ;  whatever house  it  was  brought  out  of,  there  nobody  died  that  year.
 Those  who  had  thrown  Death  away,  fled  in  haste,  lest  he  should
 start  up  and  give  them  chase;  if  they  met  cattle  on  their  way
 home,  they  beat  them  with  staves,  believing  that  that  would
@@ -16609,11 +15568,9 @@ SUMMER  FESTIVAL.  7G9
 
 ^ole}  In  the  Alfcmark,  the  Wendisli  villages  about  Salzwedel,
 especially  Seeben  (where  we  saw  Hennil  still  in  use,  p.  749),
-have  preserved  the  following  custom :  at  Whitsuntide  uaeu-
-servants  and  maids  tie  fir-hrancJies,  straiv  and  hay  into  a  large
+have  preserved  the  following  custom :  at  Whitsuntide  uaeuservants  and  maids  tie  fir-hrancJies,  straiv  and  hay  into  a  large
 figure,  giving  it  as  much  as  possible  a  human  shape.  Profusely
-garlanded  with  field-flowers,  the  image  is  fastened,  sitting  up-
-right, on  the  brindled  cow  (of  which  more  hereafter),  and  lastly
+garlanded  with  field-flowers,  the  image  is  fastened,  sitting  upright, on  the  brindled  cow  (of  which  more  hereafter),  and  lastly
 a  pipe  cut  out  of  alder  wood  stuck  in  its  mouth.  So  they  conduct
 it  into  the  village,  where  all  the  houses  are  barred  and  bolted,
 and  every  one  chases  the  cow  out  of  his  yard,  till  the  figure  falls
@@ -16625,8 +15582,7 @@ battle  between  Summer  and  Winter.  Summer  is  acted  by  a  man
 in  his  bare  shirt,  holding  in  one  hand  a  tree  decorated  with
 ribbons  and  fruit,  in  the  other  a  cudgel  with  the  end  much  split.
 Winter-  is  warmly  clad,  but  has  a  similar  cudgel ;  they  lay  on  to
-one  another's  shoulders  with  loud  thwacks,  each  renowning  him-
-self and  running  down  his  neighbour.  At  length  Winter  falls
+one  another's  shoulders  with  loud  thwacks,  each  renowning  himself and  running  down  his  neighbour.  At  length  Winter  falls
 back,  and  owns  himself  beaten.  Schm.  3,  248  tells  of  the  like
 combat  in  Bavaria  :  Winter  is  wrapt  in  fur.  Summer  carries  a
 green  bough  in  his  hand,  and  the  strife  ends  with  Summer
@@ -16648,8 +15604,7 @@ not  left  even  a  historical  trace ;    there  may  however  be   some
 ^  At  Leipzig  in  the  17th  cent,  the  festival  had  become  so  discredited,  that  they
 had  the  straw  jnippet  carried  about  and  immersed  by  women  of  ill  fame.
 
--  Sartori's  Neueste  Eeise  d.  Oestr.,  Vienna  IKII.  2,  a-18.  The  Styrian  battle-
-song  is  printed  in  Biisching's  Wcich.  nachr.  1,  22G-8.
+-  Sartori's  Neueste  Eeise  d.  Oestr.,  Vienna  IKII.  2,  a-18.  The  Styrian  battlesong  is  printed  in  Biisching's  Wcich.  nachr.  1,  22G-8.
 
 
 770  SUMMER   AND   WINTER.
@@ -16664,8 +15619,7 @@ in  lieu  of  it  we  shall  find  in  N.  Germany  a  far  more  imposing
 development  of  May-riding  and  the  Maigraf  feast.  Whether  the
 announcing  of  Summer  extended  beyond  the  Palatinate  into
 Treves,  Lorraine,  and  so  into  France,  I  cannot  say  for  certain.^
-Clearly  it  was  not  Protestant  or  Catholic  religion  that  deter-
-mined the  longer  duration  or  speedier  extinction  of  the  custom.
+Clearly  it  was  not  Protestant  or  Catholic  religion  that  determined the  longer  duration  or  speedier  extinction  of  the  custom.
 It  is  rather  striking  that  it  should  be  rifest  just  in  Middle
 Germany,  and  lean  on  Slav  countries  behind,  which  likewise  do  it
 homage ;  but  that  is  no  reason  for  concluding  that  it  is  of  Slav
@@ -16691,8 +15645,7 @@ are  mixed  up  with  it.  Aug.  Pfeiffer  (b.  Laueustein  1640,  d.  Liiheck  
 Erquickungstunden,  Leipz.  1698  mentions  a  '  battle  of  Sum.  and  Win.',  but  names
 no  places,  and  he  had  lived  long  in  Silesia  and  Leipzig.  H.  Lubbert  (preacher  at
 Bohlendorf  by  Liibeck,  b.  16-40,  d.  1703)  in  his  Fastnachtsteufel  p.  6  describes  a
-March  (not  May)  procession,  but  does  not  sufficiently  bring  out  the  essential  fea-
-tures. I  extract  the  passage  (from  J.  P.  Schmidt's  Fastelab.  p.  1B2),  because  it
+March  (not  May)  procession,  but  does  not  sufficiently  bring  out  the  essential  features. I  extract  the  passage  (from  J.  P.  Schmidt's  Fastelab.  p.  1B2),  because  it
 illustrates  the  far  from  ineffectual  zeal  of  the  clergy  against  popular  amusements,
 almost  as  strikingly  as  the  diatribe,  560  years  older,  quoted  on  i^p.  259  seq.  :  '  The
 last  year,  on  Dominica  Quinquag.  (4  weeks  bef.  Laetare),  I  again  pubhcly  prayed
@@ -16750,8 +15703,7 @@ szukaiac  klopotu.  seeking  the  whirlpool.
 They  run  home  as  fast  as  they  can  :  if  any  one  falls  down,  he  dies
 within  the  year.^  The  Sorbs  in  Upper  Lausitz  make  the  figure
 of  straw  and  rags ;  she  who  had  the  last  corpse  must  supply  the
-shirt,  and  the  latest  bride  the  veil  and  all  the  rags  ;  ^  the  scare-
-crow is  stuck  on  a  long  pole,  and  carried  away  by  the  biggest
+shirt,  and  the  latest  bride  the  veil  and  all  the  rags  ;  ^  the  scarecrow is  stuck  on  a  long  pole,  and  carried  away  by  the  biggest
 strongest  lass  at  the  top  of  her  speed,  while  the  rest  sing  :
 
 Lec7  hore,  lecz  hore !  Fly  high,  fly  high,
@@ -16770,8 +15722,7 @@ rhymes  as  well.
 rhyme  into  Bohem.  thus :  Smrt  wege  po  plotu,  sukagjc  klopotu.  Couf.  a  Morav.
 song  (Kukla  in  d'Elv  107-8-9).
 
-*  ludicul.  superst.  27-8  :  '  de  simulacris  de  iianniA  factis,  qtiae  per  campos  pnr-
-tant.'  The  Esthonians  ou  New  year's  day  make  an  idol  of  straw  in  the  shape  of  a
+*  ludicul.  superst.  27-8  :  '  de  simulacris  de  iianniA  factis,  qtiae  per  campos  pnrtant.'  The  Esthonians  ou  New  year's  day  make  an  idol  of  straw  in  the  shape  of  a
 man,  to  which  they  concede  the  name  of  metzikn  and  the  power  of  protecting  their
 cattle  from  wild  beasts  and  defending  their  frontier.  All  the  people  of  the  village
 accompany,  and  set  him  ou  the  nearest  tree,  Thorn.  Hiiiru,  p.  40.
@@ -16784,8 +15735,7 @@ not  die  that  year.  So  the  figure  is  borne  out  of  the  village  to  a
 piece  of  water,  and  drowned  in  it.  But  they  often  carry  Death
 to  the  boundary  of  the  next  village,  and  pitch  him  over  it ;  each
 picks  for  himself  a  green  twig,  and  carries  it  homeward  in  high
-glee,  but  on  arriving  at  his  village  throws  it  away  again.  Some-
-times the  youth  of  the  village  within  whose  bounds  they  have
+glee,  but  on  arriving  at  his  village  throws  it  away  again.  Sometimes the  youth  of  the  village  within  whose  bounds  they  have
 brought  Death  will  run  after  them,  and  throw  him  hack,  for  no
 one  likes  to  keep  him;  and  they  easily  come  to  words  and
 blows  about  it.^  At  other  places  in  Lausitz  women  alone  take
@@ -16799,8 +15749,7 @@ the  wood,  hang  the  shirt  upon  it,  and  carry  it  home  with  songs. ^
 This  tree  is  undoubtedly  a  symbol  of  Summer  introduced  in  the
 place  of  Death  driven  out.  Such  decorated  trees  are  also  carried
 about  the  village  by  boys  collecting  gifts,  after  they  have  rid
-themselves  of  Death.  In  other  cases  they  demand  the  contribu-
-tions while  taking  the  puppet  round.  Here  and  there  they  make
+themselves  of  Death.  In  other  cases  they  demand  the  contributions while  taking  the  puppet  round.  Here  and  there  they  make
 the  straw  man  p)6^p  'into  people's  ivindoivs  (as  Berhta  looks  in  at
 the  window,  p.  274)  :  in  that  case  Death  will  carry  off  some  one
 in  the  house  that  year,  but  by  paying  a  money  ransom  in  time,  you
@@ -16836,8 +15785,7 @@ them  so  to  speak,  their  last  homage.  Dlugosz's  explanation  of
 Marzana  as  'harvest-goddess^  seems  erroneous;  FrenceFs  and
 Schaffarik^s  '  death-goddess  '  is  more  acceptable  :  I  derive  the
 name  from  the  Pol.  marznac.  Boh.  mrznauti,  Russ.  merznut',  to
-freeze,  and  in  opposition  to  her  as  winter-goddess  I  set  the  sum-
-mer-goddess Wiosna,  Boh.  Wesna.  The  Konigenhof  MS.  p.  72
+freeze,  and  in  opposition  to  her  as  winter-goddess  I  set  the  summer-goddess Wiosna,  Boh.  Wesna.  The  Konigenhof  MS.  p.  72
 has  a  remarkable  declaration  :  'i  iedinu  druzu  nam  imiet'  po  puti
 z  Wesnij  po  Moranu'  one  wife  (only)  may  we  have  on  our  way
 from  Wesna  to  Morana,  from  spring  to  winter,  i.e.  ever.  Yet
@@ -16847,8 +15795,7 @@ formed  a  part  of  the  pagan  rite  itself ;  for  an  antithesis  between
 summer  and  winter,  and  an  exalting  of  the  former,  necessarily
 implied  a  lowering  of  the  latter.^
 
-The  day  for  carrying  Death  out  was  the  quarta  dominica  quad-
-ragesimae,  i.e.  Laetare  Sunday  or  Midlent,  on  which  very  day
+The  day  for  carrying  Death  out  was  the  quarta  dominica  quadragesimae,  i.e.  Laetare  Sunday  or  Midlent,  on  which  very  day
 it  also  falls  in  Poland  (w  nieziele  srodopostna),  Bohemia,  Silesia
 and  Lausitz.  The  Bohemians  call  it  smrtedhia,  samrtna  nedele,
 the  Sorbs  smerdnitsa,  death  Sunday ;  coming  three  weeks  before
@@ -16887,8 +15834,7 @@ summer  half-yeai',  i.e.  of  their  leto;  to  Germans  the  ari'ival  of
 summer  or  spring,  for  in  Mai'ch  their  stork  and  swallow  come
 home,  and  the  first  violet  blows.  But  then  the  impersonal  '  leto  '
 of  the  Slavs  fights  no  battle  with  their  Srnrt  :  this  departing
-driven-out  god  has  the  play  nearly  all  to  himself.  To  our  an-
-cestors the  contest  between  the  two  giants  was  the  essential
+driven-out  god  has  the  play  nearly  all  to  himself.  To  our  ancestors the  contest  between  the  two  giants  was  the  essential
 thing  in  the  festival ;  vanquished  Winter  has  indeed  his  parallel
 in  8mrt,  but  with  victorious  Summer  there  is  no  living  personality
 to  compare.  And,  beside  this  considerable  difference  between
@@ -16923,11 +15869,9 @@ they  sing  have  no  explicit  reference  to  summer  and  winter.
 
 MAY-ELDING.  775
 
-city  make  two  troops  of  horse,  of  tall  youths  and  men,  to  as-
-semble, as  tho'  they  would  go  forth  to  a  mighty  battle.  One
+city  make  two  troops  of  horse,  of  tall  youths  and  men,  to  assemble, as  tho'  they  would  go  forth  to  a  mighty  battle.  One
 troop  hath  a  captain,  that  under  the  name  of  Winter  is  arrayed
-in  much  fur  and  wadded  garments,  and  is  armed  with  a  winter-
-spear  :  he  rideth  arrogantly  to  and  fro,  showering  snowballs  and
+in  much  fur  and  wadded  garments,  and  is  armed  with  a  winterspear  :  he  rideth  arrogantly  to  and  fro,  showering  snowballs  and
 iceflakes,  as  he  would  fain  prolong  the  cold,  and  much  he  vaunteth
 him  in  speech.  The  other  troop  hath  contrariwise  a  captain,  that
 is  named  the  Blumengrave,  he  is  clad  in  green  houghs,  leaves  and
@@ -16956,8 +15900,7 @@ and  kings  not  seldom  took  a  part  in  them,  they  were  a  great
 and  general  national  entertainment.  Crowned  with  flowers,  the
 majgrefve  fared  with  a  powerful  escort  over  highway  and  thorp  ;
 banquet  and  round-dance  followed.  In  Denmark  the  jaunting
-began  on  Walburgis  day  (May  1),  and  was  called  'at  ride  Som-
-mer i  hye'  riding  S.  into  the  land  :  the  young  men  ride  in  front,
+began  on  Walburgis  day  (May  1),  and  was  called  'at  ride  Sommer i  hye'  riding  S.  into  the  land  :  the  young  men  ride  in  front,
 then  the  May-grave  (floriger)  with  two  garlands,  one  on  each
 shoulder,  the  rest  with  only  one;  songs  are  sung  in  the  town,
 all  the  maidens  make  a  ring  round  the  may -grave,  who  picks  out
@@ -16973,19 +15916,15 @@ in  the  Sclionisli  and  .Danish  festival.     Many  towns  had  regularly
 organized  majgreve  gilde}       But  as  the    May-fire   in    Denmark
 was  called  '  gadeild/  gate   (street)   fire^  so  was  the  leader  of  the
 May-feast   a   gadebasse    (gate   bear),    and    his    maiden    partner
-gadelam   (gate  lamb)    or  gadinde;  gadebasse  and  gadinde  there-
-fore mean  the  same  as  maigreve  and  maigrevinde."     There  is  a
-remarkable  description  in  Mundelstrup's  Spec,  gentilismi  etiam-
-num  superstitis,  Hafn.  1684  :  'Qui  ex  junioribus  rusticis  contum
+gadelam   (gate  lamb)    or  gadinde;  gadebasse  and  gadinde  therefore mean  the  same  as  maigreve  and  maigrevinde."     There  is  a
+remarkable  description  in  Mundelstrup's  Spec,  gentilismi  etiamnum  superstitis,  Hafn.  1684  :  'Qui  ex  junioribus  rusticis  contum
 stipulis    accensis    flammatum     efScacius    versus    sidera    tollere
-potuerit,    praeses    (gadebasse)     incondito    omnium    clamore    de-
-claratur,  nee  non  eodem  tempore  sua  cuiqiie  ex  rusticis  puellis,
+potuerit,    praeses    (gadebasse)     incondito    omnium    clamore    declaratur,  nee  non  eodem  tempore  sua  cuiqiie  ex  rusticis  puellis,
 quae  tunc  temporis  vernacula  appellantur  gadelam,  distribuitur,
 et    quae    praesidi    adjicitur    titulum   hunc    gadinde   merebitur.^
 Hinc  excipiunt  convivia  per  universum  illud  temporis,  quod  inter
 arationem  et  foenisecium  intercedit,  quavis  die  dominica  celebrari
-sueta,  gadelams-gilder  dicta,   in   quibus  proceriorem  circum  ar-
-borem  in  antecessum  humo  immissam  variisque  corollis  ac  signis
+sueta,  gadelams-gilder  dicta,   in   quibus  proceriorem  circum  arborem  in  antecessum  humo  immissam  variisque  corollis  ac  signis
 ornatam,  corybantum   more   ad  tympanorum    stridentes    sonitus
 bene  poti  saliunt/
 
@@ -17034,27 +15973,22 @@ MAY-EIEING.  777
 jaunt,  in  a  Churcli- visitation  ordinauce  of  1563  (Baltisclie  studieu
 6,  137)  ;  and  more  precise  information  lias  lately  been  collected
 on  the  survival  of  May-riding  at  Hildesheim,  where  the  beautiful
-custom  only  died  out  in  the  18th  century. ^  Towards  Whitsun-
-tide the  maigreve  was  elected,  and  the  forest  commoners  in  the
-Use  had  to  hew  timber  from  seven  villages  to  build  the  May-
-waggon ;  all  loppings  must  be  loaded  thereon,  and  only  four
+custom  only  died  out  in  the  18th  century. ^  Towards  Whitsuntide the  maigreve  was  elected,  and  the  forest  commoners  in  the
+Use  had  to  hew  timber  from  seven  villages  to  build  the  Maywaggon ;  all  loppings  must  be  loaded  thereon,  and  only  four
 horses  allowed  to  draw  it  in  the  forest.  A  grand  expedition  from
 the  town  fetches  away  the  waggon,  the  burgomaster  and  council
 receive  a  May-wreath  from  the  commoners,  and  hand  it  over
 to  the  maigreve.  The  waggon  holds  60  or  70  bundles  of  may
-(birch),  which  are  delivered  to  the  maigreve  to  be  further  dis-
-tributed. Monasteries  and  churches  get  large  bundles,  every
+(birch),  which  are  delivered  to  the  maigreve  to  be  further  distributed. Monasteries  and  churches  get  large  bundles,  every
 steeple  is  adorned  with  it,  and  the  floor  of  the  church  strown
 with  clippings  of  boxwood  and  field-flowers.  The  maigreve
 entertains  the  commoners,  and  is  strictly  bound  to  serve  up  a
 dish  of  crabs.  But  in  all  this  we  have  only  a  fetching-in  of
-the  May-waggon  from  the  wood  under  formal  escort  of  the  May-
-grave  ;  not  a  word  now  about  the  battle  he  had  to  fight  with
+the  May-waggon  from  the  wood  under  formal  escort  of  the  Maygrave  ;  not  a  word  now  about  the  battle  he  had  to  fight  with
 winter.  Is  it  conceivable  that  earlier  ages  should  have  done
 without  this  battle  ?  Assuredly  they  had  it,  and  it  was  only  by
 degrees  that  custom  left  it  out.  By  and  by  it  became  content  with
-even  less.  In  some  parishes  of  Holstein  they  keep  the  commence-
-ment of  May  by  crowning  a  young  fellow  and  a  girl  with  leaves
+even  less.  In  some  parishes  of  Holstein  they  keep  the  commencement of  May  by  crowning  a  young  fellow  and  a  girl  with  leaves
 and  flowers,  conducting  them  with  music  to  a  tavern,  and  there
 drinking  and  dancing  ;  the  pair  are  called  niaigrev  and  maigron,  i.e.
 maigriifin  (Schiitze  3,  72).  The  Schleswig  maygrave-feast  (festum
@@ -17069,8 +16003,7 @@ came  a  song  and  ring-dance.'^     All  over  German}'-,  to  this  day,
 1  Koken  and  Liintzel's  Mittlieilmigen  2,  45-61.
 
 2  He  says  :  '  the  memory  of  this  ancient  but  useless  May-feast  finally  passed
-hy  inheritance  to  the  town-cattle,  which,  even  since  1G70,  had  every  Mayday  a  gar-
-land of  beech-leaves  thrown  about  the  neck,  and  so  bedizened  were  di-ivun  home  ;
+hy  inheritance  to  the  town-cattle,  which,  even  since  1G70,  had  every  Mayday  a  garland of  beech-leaves  thrown  about  the  neck,  and  so  bedizened  were  di-ivun  home  ;
 for  which  service  the  cowherd  could  count  upon  his  fee. '
 
 3  Geldersche  Volksalmanak  voor  18:35,  pp.  lU-28.     The  song  is  given  in  Hoffm.
@@ -17113,8 +16046,7 @@ name,'  MS.  2,  128^
 On  the  whole  then,  there  are  four  different  ways  of  welcoming
 
 
-Horae  belg.  2,  178-180.     Couf.  '  ic  wil  den  mei  gaen  houwen  voor  mijus  liefs  vein-
-sterkyn,'  go  hew  before  my  love's  window,  Uhland's  Volksl.  178.
+Horae  belg.  2,  178-180.     Couf.  '  ic  wil  den  mei  gaen  houwen  voor  mijus  liefs  veinsterkyn,'  go  hew  before  my  love's  window,  Uhland's  Volksl.  178.
 
 1  Has  the  May-drink  still  made  in  the  Lower  Rhine  and  Westphalia,  of  wine
 and  certain  (sacred?)  herbs,  any  connexion  with  an  old  sacriiicial  rite?  On  no
@@ -17132,8 +16064,7 @@ RECEPTION    OF    SUMMER.  779
 
 Summer^  that  we  have  learnt  to  know.  In  Sweden  and  Gothland
 a  battle  of  Winter  and  Summer,  a  triumphal  entry  of  the  latter.
-In  Schonen,  Denmark,  L.  Saxony  and  England  simply  May-
-riding,  or  fetching  of  the  May-waggon.  On  the  Rhine  merely  a
+In  Schonen,  Denmark,  L.  Saxony  and  England  simply  Mayriding,  or  fetching  of  the  May-waggon.  On  the  Rhine  merely  a
 battle  of  Winter  and  Summer,  without  immersion,^  without  the
 pomp  of  an  entry.  In  Franconia,  Thuringia,  Meissen,  Silesia  and
 Bohemia  only  the  carrying-out  of  wintxy  Death  ;  no  battle,  no
@@ -17144,10 +16075,8 @@ in  the  last  two,  only  the  lower  poorer  class.  It  is  however
 the  first  and  third  modes  that  have  retained  the  full  idea  of  the
 performance,  the  struggle  between  the  two  powers  of  the  year,
 whilst  in  the  second  and  fourth  the  antithesis  is  wanting.  The
-May- riding  has  no  Winter  in  it,  the  farewell  to  Death  no  Sum-
-mer ;  one  is  all  joy,  the  other  all  sadness.  But  in  all  the  first
-three  modes,  the  higher  being  to  whom  honour  is  done  is  repre-
-sented by  living  persons,  in  the  fourth  by  a  puppet,  yet  both  the
+May- riding  has  no  Winter  in  it,  the  farewell  to  Death  no  Summer ;  one  is  all  joy,  the  other  all  sadness.  But  in  all  the  first
+three  modes,  the  higher  being  to  whom  honour  is  done  is  represented by  living  persons,  in  the  fourth  by  a  puppet,  yet  both  the
 one  and  the  other  are  fantastically  dressed  up.
 
 Now  we  can  take  a  look  in  one  or  two  other  directions.
@@ -17193,15 +16122,13 @@ several  boons  ;  deified  Summer  or  May  can  fairly  claim  identity
 with  one  of  the  highest  divinities  to  whom  the  gift  of  fertility
 belonged,  withi^ro,  Wuotan,  Nerthus.  But  if  we  admit  goddesses,
 then,  in  addition  to  Nerthus,  Ostara  has  the  strongest  claim  to
-consideration.  To  what  was  said  on  p.  290  I  can  add  some  signi-
-ficant facts.  The  heathen  Easter  had  much  in  common  with  the
+consideration.  To  what  was  said  on  p.  290  I  can  add  some  significant facts.  The  heathen  Easter  had  much  in  common  with  the
 May-feast  and  the  reception  of  spring,  particularly  in  the  matter
 of  bonfires.  Then,  through  long  ages  there  seem  to  have  lingered
 among  the  people  Easter-games  so-called,  which  the  church  itself
 had  to  tolerate  :  I  allude  especially  to  the  custom  of  Easter  eggs,
 and  to  the  Easter  tale  which  preachers  told  from  the  pulpit  for
-the  people's  amusement,  connecting  it  with  Christian  reminis-
-cences. In  the  MHG.  poets,  '  mines  herzen  osterspil,  ostertac,'
+the  people's  amusement,  connecting  it  with  Christian  reminiscences. In  the  MHG.  poets,  '  mines  herzen  osterspil,  ostertac,'
 my  heart's  Easter  play  or  day,  is  a  complimentary  phrase  for  lady
 love,  expressing  the  height  of  bliss  (MS.  2,  52^  37^  Iw.  8120.
 Frib.  Trist.  804) ;  Conr.  Troj.  19802  makes  the  '  osterlichen  tac
@@ -17233,8 +16160,7 @@ This  binding  on  of  the  '  Easter  seax,'  or  sword-hnife,  leads  us  to
 SAWING   THE    OLD   WIFE.  781
 
 infer  that  a  sword  of  peculiar  antique  shape  was  retained;  as
-the  Easter  scones,  osterstuopha  (RA.  298)  and  moonshaped  oster-
-mdne  (Brem.  wtb.)  indicate  pastry  of  heathenish  form.  The
+the  Easter  scones,  osterstuopha  (RA.  298)  and  moonshaped  ostermdne  (Brem.  wtb.)  indicate  pastry  of  heathenish  form.  The
 sword  may  have  been  brandished  in  honour  of  Ostara,  as  it  was
 for  Fricka  (p.  304).  Or  is  Ostersahs  to  be  understood  like
 Beiersahs  (Haupt's  Neidh.  xxv.  17,  note)  ?
@@ -17251,14 +16177,12 @@ The  subject  was  no  stranger  to  the  Greeks  and  Romans  :  in
 one  of  Aesop's  fables  (Cor.  422.  Fur.  380)  %et/Aa)v  and  eap  have
 a  quarrel.-^  The  Roman  ver  began  on  Feb.  7,  the  first  swallow
 came  in  about  Feb.  26,  though  she  does  not  reach  us  till  near
-the  end  of  March,  nor  Sweden  till  the  beginning  of  May  (Tiede-
-mann's  Zool.  3,  624).  The  Florealia  were  kept  from  Apr.  28  till
+the  end  of  March,  nor  Sweden  till  the  beginning  of  May  (Tiedemann's  Zool.  3,  624).  The  Florealia  were  kept  from  Apr.  28  till
 May  1  :  there  were  songs,  dances  and  games,  they  wore  flowers
 and  garlands  on  their  heads,  but  the  contrast.  Winter,  seems  not
 to  have  been  represented.  I  am  not  informed  what  spring
 customs  have  lasted  to  this  day  in  Italy.  Polydore  Vergil,  of
-Urbino  in  Umbria,  tells  us  (de  invent,  rer.  5,  2)  :  '  Est  consuetu-
-dinis,  ut  juventus  promiscui  sexus  laetabunda  Cal.  Maji  exeat  in
+Urbino  in  Umbria,  tells  us  (de  invent,  rer.  5,  2)  :  '  Est  consuetudinis,  ut  juventus  promiscui  sexus  laetabunda  Cal.  Maji  exeat  in
 agros,  et  cantitans  inde  virides  reportet  arhorum  ramos,  eosque
 ante  domorum  fores  ponat,  et  denique  unusquisque  eo  die  aliquid
 viridis  ramuscuU  vel  herbae  ferat;  quod  non  fecisse  poena  est,
@@ -17323,8 +16247,7 @@ Hone's  Dayb.  1,  369.
 
 »  In  Swabia  and  Switz.,  fronfasten  (Lord's  fast  =  Ember  days,  Scheffer's
 Haltaus  p.  53)  has  been  corrupted  into  a  frau  Paste,  as  if  it  were  the  fast-time
-personified  (Staid.  1,  394.  Hebel  sub  v.).  Can  cutting  Mid  Lent  in  two  have  sig-
-nified a  break  in  the  fast  ?  I  think  not.  What  means  the  phrase  and  the  act  of
+personified  (Staid.  1,  394.  Hebel  sub  v.).  Can  cutting  Mid  Lent  in  two  have  signified a  break  in  the  fast  ?  I  think  not.  What  means  the  phrase  and  the  act  of
 '  breaking  the  neck  of  the  fast,''  in  an  essay  on  Cath.  superst.  in  the  16th  cent.  ?  see
 Forstemann's  Records  of  Augsburg  Diet,  Halle  1838,  d.  101  (see  Suppl.).
 
@@ -17335,8 +16258,7 @@ of  Winter  at  all.  In  Geo.  Torquatus's  (unpublished)  Annal.
 Magdeb.  et  Halberst.  part  3  lib.  1  cap.  9  we  are  told  that  at
 Halberstadt  (as  at  Hildesheim  above)  tliey  used  once  a  year  to
 set  up  a  log  in  the  marketplace^  and  throiv  at  it  till  its  Jiead  came
-off.  The  log  has  not  a  name  of  its  own,  like  Jupiter  at  Hildes-
-heim ;  it  is  not  unlikely  that  the  same  practice  prevailed  at  other
+off.  The  log  has  not  a  name  of  its  own,  like  Jupiter  at  Hildesheim ;  it  is  not  unlikely  that  the  same  practice  prevailed  at  other
 places  in  the  direction  of  these  two  cities.  At  Halberstadt  it
 lasted  till  markgraf  Johan  Albrecht's  time ;  the  oldest  account
 of  it  is  by  the  so-called  '  monk  of  Pirna/  Joh.  Lindner  (Tilianus,
@@ -17354,8 +16276,7 @@ prevalent  in  the  Mid.  Ages,  e.g.  at  Mainz  (Weisth.  1,  533)  and
 Strassburg  (Schilter's  Gloss.  102).
 
 This  Low  Saxon  rejection,  and  that  Polish  dismissal,  of  the
-ancient  gods  has  therefore  no  necessary  connexion  with  a  bring-
-ing in  of  summer,  however  apt  the  comparison  of  the  new  religion
+ancient  gods  has  therefore  no  necessary  connexion  with  a  bringing in  of  summer,  however  apt  the  comparison  of  the  new  religion
 to  summer's  genial  warmth.  In  the  Polish  custom  at  all  events
 I  find  no  such  connexion  hinted  at.  At  the  same  time,  the
 notion  of  bringing  summer  in  was  not  unknown  to  the  Poles.
@@ -17365,8 +16286,7 @@ bringing  Summer-,  they  are  the  cause  of  'flying  summer,'  i.e.
 gossamer.  ^  Until  we  know  the  whole  tradition  more  exactly,
 we  cannot  assign  it  its  right  place.  Lei  and  Polel  ax'e  usually
 likened  to  Castor  and  Pollux  (Linde  i.  2,  1250''),  to  whom  they
-bear  at  least  this  resemblance,  that  their  names,  even  in  old  folk-
-songs, make  a  simple  interjection,  ^  as  the  Romans  used  the  twin
+bear  at  least  this  resemblance,  that  their  names,  even  in  old  folksongs, make  a  simple  interjection,  ^  as  the  Romans  used  the  twin
 
 »  Hall.  allg.  Iz.  1807.  no.  256,  p.  807.
 
@@ -17381,8 +16301,7 @@ demigods  to  swear  by.  Fliegender  sovimer,  Jlugsommer,  sommcr^
 fliig,  graswehe,  are  our  names  for  the  white  threads  that  cover  the
 fields  at  the  beginning  of  springs  and  still  more  of  autumn ;  the
 Spring  tissue  is  also  called  maidensummer,  Mary's  yarn,  Mary's
-thread  (p.  471),  that  of  autumn  aftersuramer,  autumn  yarn,  old-
-rvives'  summer  ;  but  generally  both  kinds  are  covered  by  the  one
+thread  (p.  471),  that  of  autumn  aftersuramer,  autumn  yarn,  oldrvives'  summer  ;  but  generally  both  kinds  are  covered  by  the  one
 name  or  the  other.  Nethl.  slammefje  (draggletail  ?  Brem.  wtb.  4,
 799)  ;  Engl,  gossamer  (God's  train,  trailing  garment),  also  samar,
 simar  (train) ;  Swed.  dvdrgsndt  (dwarf's  net),  p.  471.  Boh.  ivlacka
@@ -17394,8 +16313,7 @@ to  have  been  spread  over  the  earth  by  one  of  their  gods.  But
 the  autumn  gossamer  has  another  Slavic  name  :  Pol.  bahie  lato,
 old  wives'  summer.  Boh.  bahslce  Veto,  or  simply  habj,  which  puts
 us  in  mind  once  more  of  that  antithesis  between  summer  and
-the  old  wife  (p.  782).  She  rules  in  winter,  and  the  god  in  sum-
-mer (see  Suppl.).  Can  the  words  of  the  Wendish  ditty,  quoted
+the  old  wife  (p.  782).  She  rules  in  winter,  and  the  god  in  summer (see  Suppl.).  Can  the  words  of  the  Wendish  ditty,  quoted
 p.  771,  be  possibly  interpreted  of  the  film  as  it  floats  in  the  air  ?
 
 I  hope  I  have  proved  the  antiquity  and  significance  of  the
@@ -17409,8 +16327,7 @@ performances.  The  lorappage  of  leaves  represents  the  stage-dress
 and  masks  of  a  later  time.  Once  before  (p.  594),  in  the  solemn
 procession  for  rain,  we  saw  such  leafy  garb.  Popular  custom
 exhibits  a  number  of  variations,  having  preserved  one  fragment
-here,  and  another  there,  of  the  original  whole.  Near  Willings-
-hausen,  county  Ziegenhain,  Lower  Hesse,  a  boy  is  covered  over
+here,  and  another  there,  of  the  original  whole.  Near  Willingshausen,  county  Ziegenhain,  Lower  Hesse,  a  boy  is  covered  over
 and  over  with  leaves,  green  branches  are  fastened  to  his  body :
 other  boys  lead  him  by  a  rope,  and  make  him  dance  as  a  bear,
 for  doing  which  a  present  is  bestowed ;  the  girls  carry  a  hoop
@@ -17420,8 +16337,7 @@ knocking  down  of  logs  at   Halberstadt  (p.  783),  there  was  also
 
 DRESSING   UP   IN   GREEN.  785
 
-a  hear  and  a  boy  with  a  sword  (conf.  supra  p.  304  n.)  in  the  pro-
-cession ;  that  Vildifer,  a  hero  disguised  in  a  hearsldn,  is  led  about
+a  hear  and  a  boy  with  a  sword  (conf.  supra  p.  304  n.)  in  the  procession ;  that  Vildifer,  a  hero  disguised  in  a  hearsldn,  is  led  about
 by  a  musician,  and  dances  to  the  harp.  ^  Doubtless  a  dramatic
 performance  of  ancient  date,  which  we  could  have  judged  better,
 had  the  M.  Nethl.  poem  of  here  Wislau^  been  preserved;  but
@@ -17448,8 +16364,7 @@ to  find  who  is  hidden  in  the  green  disguise ;  if  he  fails,  he  must
 pay  ransom  in  beer.  ^  In  other  places  it  is  on  Whit-Sunday
 itself  that  the  man  who  was  the  last  to  drive  his  cattle  to  pasture,
 is  ivr-apt  in  fir  and  hirch  houghs,  and  whipt  through  the  village
-amidst  loud  cries  of  '  Whitsun-sleeper  ! '  At  night  comes  beer-
-drinking  and  dancing.  In  the  Erzgebirge  the  shepherd  who
+amidst  loud  cries  of  '  Whitsun-sleeper  ! '  At  night  comes  beerdrinking  and  dancing.  In  the  Erzgebirge  the  shepherd  who
 drives  out  earliest  on  Whit-Sunday  may  crack  his  whip,  the  last
 comer  is  laughed  at  and  saluted  Whitsun-loohy  :  so  with  the
 latest  riser  in  every  house.     The  sleeping  away  of  sacred  festive
@@ -17473,13 +16388,10 @@ the  butze  and  being  ducked,  I  look  upon  as  mere  accessories,
 kept  alive  long  after  the  substance  of  the  festival  had  perished
 (see  Suppl.).
 
-Kuhn  (pp.  314-29)  has  lately  furnished  us  with  accurate  ac-
-counts of  Whitsun  customs  in  the  Marks.  In  the  Mittelmark
-the  houses  are  decorated  with  '  mai/  in  the  Altmark  the  farm-
-servants,  horse-keepers  and  ox-boys  go  round  the  farms,  and
+Kuhn  (pp.  314-29)  has  lately  furnished  us  with  accurate  accounts of  Whitsun  customs  in  the  Marks.  In  the  Mittelmark
+the  houses  are  decorated  with  '  mai/  in  the  Altmark  the  farmservants,  horse-keepers  and  ox-boys  go  round  the  farms,  and
 carry  May-crowns  made  of  flowers  and  birch  twigs  to  the  farmers,
-who  used  to  hang  them  up  on  their  houses,  and  leave  them  hang-
-ing till  the  next  year.  On  Whitsun  morning  the  cows  and  horses
+who  used  to  hang  them  up  on  their  houses,  and  leave  them  hanging till  the  next  year.  On  Whitsun  morning  the  cows  and  horses
 are  driven  for  the  first  time  to  the  fallow  pasture,  and  it  is  a  great
 thing  to  be  the  first  there.  The  animal  that  arrives  first  has  a
 bunch  of  '  mai '  tied  to  its  tail,  which  bunch  is  called  dau-sleipe
@@ -17497,8 +16409,7 @@ the  deiv-sweeper  pronouncing  the  rhymes.  In  other  places  a  pole
 decked  with  flowers  and  ribbons  is  carried  round,  and  called  the
 bammel  (dangle)  or  ping s-kddm,  though,  as  a  rule,  this  last  name
 is  reserved  for  the  boy  shrouded  in  leaves  and  flowers,  who
-accompanies.  He  is  sometimes  led  by  two  others  called  hunde-
-hrosel.  In  some  parts  of  the  Mittelmark  the  muffled  boy  is  called
+accompanies.  He  is  sometimes  led  by  two  others  called  hundehrosel.  In  some  parts  of  the  Mittelmark  the  muffled  boy  is  called
 the  kaudernest.  On  the  Droraling  the  boys  go  round  with  the
 pnngst-kddm,  and  the  girls  with  the  may-hride,  collecting  gifts.
 Some   villages   south    of  the    Dromling    have  a  more  elaborate
@@ -17539,8 +16450,7 @@ crowned,  and  led  in  triumph  to  the  village  as  May-hing.
 
 A  work  composed  in  the  loth  cent,  by  Aegidius  aureae  vallis
 religiosus  reports  the  Netherland  custom  of  electing  a  Whitsun
-queen  in  the  time  of  bp.  Albero  of  Liittich  (d.  1155):  ^  Sacer-
-dotes  ceteraeque  ecclesiasticae  personae  cum  universo  populo,  in
+queen  in  the  time  of  bp.  Albero  of  Liittich  (d.  1155):  ^  Sacerdotes  ceteraeque  ecclesiasticae  personae  cum  universo  populo,  in
 solemnitatibus  paschae  et  pentecostes,  aliquam  ex  sacerdotum
 concubinis,  purpuratam  ac  diademate  renitentem  in  eminentiori
 solio  constitutam  et  cortinis  velatam,  reginam  creabant,  et  coram
@@ -17550,8 +16460,7 @@ idolum  colebant,'  Chapeaville  2,  98.  To  this  day  poor  women
 in  Holland  at  Whitsuntide  carry  about  a  girl  sitting  in  a  little
 
 
-1  While  this  fallow  parjture  is  beinj;  railed  off,  the  new  lads  (those  who  are  tend-
-ing for  the  first  time)  have  to  procure  bones  to  covei-  the  branches  of  a  fir-tree  which
+1  While  this  fallow  parjture  is  beinj;  railed  off,  the  new  lads  (those  who  are  tending for  the  first  time)  have  to  procure  bones  to  covei-  the  branches  of  a  fir-tree  which
 is  erected.  The  tree  is  called  the  r/ibbet  of  bones,  and  its  top  adorned  with  a  horse's
 shtll  (Kuhn  323-4) :  plainly  a  relic  of  some  heathen  sacrificial  rite,  conf.  the
 elevation  of  animals  on  trees,  pp.  53,  75,  esp.  of  horses'  heads,  p.  -17;  the  good
@@ -17568,8 +16477,7 @@ Svavo.'
 78S  SUMMER   AND   WINTER.
 
 carriage,  and  beg  for  money.  This  girl^  decked  with  flowers  and
-ribbons,  and  named  pinxterbloem,  reminds  us  of  the  ancient  god-
-dess on  her  travels.  The  same  pinxterbloein  is  a  name  for  the
+ribbons,  and  named  pinxterbloem,  reminds  us  of  the  ancient  goddess on  her  travels.  The  same  pinxterbloein  is  a  name  for  the
 iris  pseudacorus,  which  blossoms  at  that  very  season ;  and  the
 sword-lily  is  named  after  other  deities  beside  Iris  (perunika,  p.
 183-4).  On  the  Zaterdag  before  Pentecost,  the  boys  go  out  early
@@ -17593,8 +16501,7 @@ the  year.  An  examination  of  the  twelve  solar  and  thirteen  lunar
 months  ^  is  more  than  I  can  undertake  here,  for  want  of  space ;
 I  promise  to  make  good  the  deficiency  elsewhere.  This  much
 I  will  say,  that  a  fair  proportion  of  our  names  of  months  also
-is  referable  to  heathen  gods,  as  we  now  see  by  the  identifi-
-cation of  May  with  summer,  and  have  already  seen  in  the  case
+is  referable  to  heathen  gods,  as  we  now  see  by  the  identification of  May  with  summer,  and  have  already  seen  in  the  case
 of  Ilrede  (March)  and  Eastre  (April),  p.  289.  Phol,  who  had
 his  Phol-day  (p.  614),  seems  also  to  have  ruled  over  a  Phol-mdnot
 (May  and  Sept.),  conf.  Diut.  i.  409,  432,  and  Schefi'er's  Haltaus
@@ -17648,11 +16555,9 @@ etSore?  rov  Kaipov,  on  wpa,  and  1  Thess.  5,  1  :  '  bi  }>6  j^eihsa  
 mela,'  irepX  royv  ')(^p6vQ)v  koI  tcov  KUipcov.  Each  passage  contains
 both  ]7eihs  and  mel,  but  the  choice  of  the  former  for  'x^povo^  and
 the  latter  for  Katp6<i  shews  that  jjeihs  is  even  better  adapted  than
-mel  for  the  larger  fuller  notion,  and  the  most  complete  arrange-
-ment would  be  :  ]?eihs  ')(^p6vo'i,  mel  Kaipo'i,  hveila  twpa.  I  derive
+mel  for  the  larger  fuller  notion,  and  the  most  complete  arrangement would  be  :  ]?eihs  ')(^p6vo'i,  mel  Kaipo'i,  hveila  twpa.  I  derive
 Jjeihs  from  ]?eihan  (crescere,  proficere,  succedere),  as  veihs  gen.
-veihsis  (propugnaculum)  from  veihan  (pugnare)  ;  so  that  it  ex-
-presses profectus,  successus,  the  forward  movement  of  time,  and
+veihsis  (propugnaculum)  from  veihan  (pugnare)  ;  so  that  it  expresses profectus,  successus,  the  forward  movement  of  time,  and
 is  near  of  kin  to  OHG.  dihsmo,  dehsmo  (profectus),  probably  also
 to  dihsila  (temo),  our  deichsel,  AS.  jnsl,  thill,  for  which  we  may
 assume  a  Goth.  ]?eihslo,  ]'eihsla,  the  apparatus  by  which  the
@@ -17662,8 +16567,6 @@ movement  of  nocturnal  time  (Varro  7,  72-5),  and  j^eihsla  becomes
 a  measure  like  the  more  general  ]:»eihs.  Even  if  the  connexion  of
 the  two  Latin  words  be  as  yet  doubtful,  that  of  the  two  Gothic
 
-790
-
 
 TIME.  791
 
@@ -17671,8 +16574,7 @@ ones  can  hardly  be  so.  But  now,  as  the  Goth.  }?eihs  has  no
 representative  in  the  other  Teutonic  tongues,  and  in  return  the
 OHG.  zit,  AS.  tid,  ON.  ^id'' seems  foreign  to  Gothic,  it  is  natural,
 considering  the  identity  of  meaning,  to  suppose  that  the  latter
-form  arose  from  mixing  up  j^eihan  (crescere)  with  teihan  (nun-
-tiare),  and  therefore  that  the  AS.  tid  stands  for  |;id,  and  OHG.
+form  arose  from  mixing  up  j^eihan  (crescere)  with  teihan  (nuntiare),  and  therefore  that  the  AS.  tid  stands  for  |;id,  and  OHG.
 zit  for  dit;  besides,  the  OHG.  zit  is  mostly  neut.,  like  ]?eihs,
 whereas  the  fem.  zit,  tid  would  have  demanded  a  Goth.  ]7eiha]7s.
 Of  course  a  Goth.  )?eihs  ought  to  have  produced  an  OHG.  dihs  or
@@ -17684,8 +16586,7 @@ perfectly  agree  (see  Suppl.).
 
 Like  hveila,  the  OHG.  stidla,  and  stunt,  stunta,  AS.  ON.  stund
 (moment,  hour),  contain  the  notion  of  rest,  and  are  conn,  with
-stilli  (quietus),  standan  (stare),  while  conversely  the  Lat.  mo-
-mentum (movi-mentum)  is  borrowed  from  motion.^  We  express
+stilli  (quietus),  standan  (stare),  while  conversely  the  Lat.  momentum (movi-mentum)  is  borrowed  from  motion.^  We  express
 the  briefest  interval  of  time  by  augenhlick,  eye-glance;  Ulph.
 renders  Luke  4,  5  iv  arLyfif)  ')^p6vov  '  in  stiJca  melis,^  in  a  prick
 of  time,  in  ictu  temporis ;  1  Cor.  15,  52  iv  ptirf}  6(j)0a\fxou,  '  in
@@ -17698,8 +16599,7 @@ of  the  eyelid   (conf.   slegiprdwa  palpebra,   Graff  8,  316);  'ante-
 
 ^  In  dihan,  dihsmo  the  d  remained,  in  zit  it  degenerated.  Just  so  the  Goth.
 Jjvahan  first  became  regularly  OHG.  duahan,  then  irregularly  tuahan,  now  zwagen  ;
-the  OS.  thuingan  first  OHG.  duingan,  then  tuingan,  now  zwingen.  Less  anomal-
-ous by  one  degree  are  OHG.  zi  for  Goth,  du  (to),  and  our  zwerg  for  ON.  dvergr
+the  OS.  thuingan  first  OHG.  duingan,  then  tuingan,  now  zwingen.  Less  anomalous by  one  degree  are  OHG.  zi  for  Goth,  du  (to),  and  our  zwerg  for  ON.  dvergr
 (dwarf),  MHG.  t were.
 
 2  Numeral  adverbs  of  repetition  our  language  forms  with  atunt  as  well  as  vial,
@@ -17722,8 +16622,7 @@ VOL.  II.  A   A
 792  TIME   AND  "WORLD.
 
 quatn  supercilium  superius  inferiori  jungi  possit/  Caesar,  heisterb.
-12,  5.  '  minre  wilen  (in  less  time)  dan  ein  oucbra  zuo  der  an-
-dern  rauge  geslaben/  Griesbaber  p.  274.  '  als  ein  oucbra  mac
+12,  5.  '  minre  wilen  (in  less  time)  dan  ein  oucbra  zuo  der  andern  rauge  geslaben/  Griesbaber  p.  274.  '  als  ein  oucbra  mac
 M  und  zuo  gegen/  can  open  and  shut,  Berth .  239.  '  e  ick  die
 bant  umbkerte,  oder  zuo  gesliiege  die  (or  better,  diu)  bra/  Er.
 5172.  ^also  schier  so  (as  fast  as)  ein  brawe  den  andern  slahen
@@ -17743,8 +16642,7 @@ accounts  for  the  numerous  distortions  of  the  word.^  Its  Gothic
 form,  wanting  in  Ulph.,  would  have  been  vair-alj?s  or  '  vaire
 al|>s,^  virorum  (hominum)  aetas,  aetas  (Ufetime)  passing  into  the
 local  sense  of  mundus  (world),  just  as  seculum,  siecle,  has  come
-to  mean  mundus,  monde.  We  saw  on  p.  575  that  Greek  myth-
-ology supposes  four  ages  of  the  world,  golden,  silver,  brazen
+to  mean  mundus,  monde.  We  saw  on  p.  575  that  Greek  mythology supposes  four  ages  of  the  world,  golden,  silver,  brazen
 and  iron  :  a  fancy  that  has  travelled  far,^  and  was  apparently
 no  stranger  in  Scandinavia  itself.     Snorri  15  gives  the  name  of
 
@@ -17757,8 +16655,7 @@ be  for  praba,  and  we  might  expect  a  Goth,  brehva  ?  Then  the  Sanskr.
 Maerlant  at  the  beginn.  of  his  Sp.  Hist. :  '  die  de  werelt  erst  iverrelt  hiet,  bine  was
 al  in  dole  niet.  Adam  die  icerelt  al  verwerrede.''  This  deriv.  from  werren  (impedire,
 intricare)  was,  if  I  mistake  not,  also  hit  ujjon  by  MHG.  poets,  e.g.  Eenner  2293.
-Equally  wrong  are  those  from  wern  to  last,  and  werlen  to  whirl.  It  is  quite  possi-
-ble, that  wero  alt  (virorum  aetas)  was  intended  as  an  antithesis  to  a  risono  alt
+Equally  wrong  are  those  from  wern  to  last,  and  werlen  to  whirl.  It  is  quite  possible, that  wero  alt  (virorum  aetas)  was  intended  as  an  antithesis  to  a  risono  alt
 (gigantum  aetas)  which  preceded  it.
 
 3  In  our  Mid.  Ages  the  World  was  personified,  like  Death,  and  the  various  ages
@@ -17784,10 +16681,8 @@ the  other  metals  too  in  Norse  legend. ^  But  in  the  Voluspa
 421),  skdlm-dld,  vind-old  and  varg-old,  which  are  to  precede  the
 destruction  of  the  world.
 
-To  translate  K6a/xo<;,  Ulph.  takes  by  turns,  and  often  one  im-
-mediately after  the  other,  the  two  words  fairhvus  and  manasefis;
-both  must  have  been  in  common  use  among  the  Goths.  Mana-
-seps  2  means  virorum  satus  (seed  of  men),  and  is  used  at  once  for
+To  translate  K6a/xo<;,  Ulph.  takes  by  turns,  and  often  one  immediately after  the  other,  the  two  words  fairhvus  and  manasefis;
+both  must  have  been  in  common  use  among  the  Goths.  Manaseps  2  means  virorum  satus  (seed  of  men),  and  is  used  at  once  for
 Xao'i  and  for  Koa/xo^,  thus  fully  conciding  with  the  above  developed
 sense  of  weralt.  Fairhvm  I  take  to  be  near  of  kin  to  OHG.
 ferah,  AS.  feorh,  MHG.  verch,  so  that  it  expressed  lifetime  again,,
@@ -17816,8 +16711,7 @@ peace.  The  Finns  say,  in  Ukko's  time  gold  was  ground  in  the  mills,  
 from^the  oaks,  and  milk  flowed  in  the  rivers  (conf.  p.  G97),  Ganander  98.
 
 -  Always  with  single  n,  as  in  mana-ma(ir)5rja,  mana-riggvs,  manags  (many),
-manauli,  and  as  in  OHG.  mana-houpit,  mana-luomi,  manac,  conf.  MHG.  sune-
-wende,  p.  617  n.     The  reason  of  this  peculiarity  grammar  must  determine.
+manauli,  and  as  in  OHG.  mana-houpit,  mana-luomi,  manac,  conf.  MHG.  sunewende,  p.  617  n.     The  reason  of  this  peculiarity  grammar  must  determine.
 
 "  To  bring  to  light,  impart  to  the  world,  is  in  Serv.  '  na  sviet  izdAti.'
 
@@ -17917,8 +16811,7 @@ wart,'  Eol.  187,  7.  '  sit  diu  erde  akerst  begunde  bern  (to  bear),'  
 2  In  Matthesius's  Sermons  S-l":  'Now  this  Cyrus  hath  a  silver  kingdom,
 wherein  the  word  of  God,  as  silver  refined  in  the  lire,  is  i^reached  zu  hreitem
 plick.'  91'' :  '  He  hath  sent  his  apostles  into  all  the  world,  that  they  may  preach  the
-gospel  zu  hreitem  plick,  as  ye  mining  folk  say.'  101''  :  '  Elsewhere  lead  ap-
-l^eareth  in  blocks,  as  at  Goslar,  where  the  Eamelsberg  is  zu  hreitem  plick  almost  all
+gospel  zu  hreitem  plick,  as  ye  mining  folk  say.'  101''  :  '  Elsewhere  lead  apl^eareth  in  blocks,  as  at  Goslar,  where  the  Eamelsberg  is  zu  hreitem  plick  almost  all
 lead.'
 
 3  Nine  choirs  of  angels,  Fundgr.  1,  101.  Pass.  339.  341.  '  niu  fylkingar  engla,'
@@ -17938,13 +16831,11 @@ all  the  world,  and  reach  beyond  heaven.  Three  roots  spread  out
 in  three  directions,  one  striking  toward  the  ases  into  heaven,
 another  to  the  hrim]?urses,  the  third  to  the  under  world.  From
 under  each  root  gushes  a  miraculous  spring,  namely,  by  the
-heaven  root  TJrd'arhrunnr  (p.  407),  by  the  giants^  root  Mimis-
-hrunnr,  by  the  hell  root  Hvergelmir,  i.e.  the  roaring  (or  the  old)
+heaven  root  TJrd'arhrunnr  (p.  407),  by  the  giants^  root  Mimishrunnr,  by  the  hell  root  Hvergelmir,  i.e.  the  roaring  (or  the  old)
 cauldron,  olla  stridens  (p.  563).  All  these  wellsprings  are  holy  :
 at  the  UrSar-well  the  ases  and  norns  hold  their  council,  the
 giants'  well  is  watched  by  a  wise  man  Mimir  (p.  379),  I  know
-not  whether  a  sage  old  giant  himself  or  a  hero,  anyhow  a  semi-
-divine  being,  or  nearly  so.  Every  day  the  norns  draw  water
+not  whether  a  sage  old  giant  himself  or  a  hero,  anyhow  a  semidivine  being,  or  nearly  so.  Every  day  the  norns  draw  water
 from  their  well,  to  water  the  boughs  of  the  ash :  so  holy  is  this
 water,  that  it  imparts  to  anything  that  gets  into  the  well  the
 colour  of  the  white  of  an  egg;  from  the  tree  there  trickles  a
@@ -17952,8 +16843,7 @@ bee-nourishing  dew,  named  hundngsfall  (fall  of  honey).  On
 its  boughs,  at  its  roots,  animals  sit  or  dart  about :  an  eagle,
 a  squirrel,  four  stags,  and  some  snakes;  and  all  have  proper
 names.  Those  of  the  stags  are  elsewhere  names  of  dwarfs,
-notably  Ddinn  and  Dvalinn.  The  snake  Ni&hoggr  (male  pun-
-gens,  caedens)  lies  below,  by  Hvergelmir,  gnawing  at  the  root.
+notably  Ddinn  and  Dvalinn.  The  snake  Ni&hoggr  (male  pungens,  caedens)  lies  below,  by  Hvergelmir,  gnawing  at  the  root.
 The  squirrel  Ratatoskr  ^  runs  up  and  down,  trying  to  sow  discord
 between  the  snake  and  the  eagle  who  is  perched  aloft.  The
 eagle's  name  is  not  given,  he  is  a  bird  of  great  knowledge  and
@@ -18053,8 +16943,7 @@ exposition  of  the  several  pieces  of  the  cross  could  be  found  in
 any  eai'ly  Father,  African  or  Oriental;  but  this  I  doubt.  As  for
 the  birds  with  which  the  13th  cent,  poem  provides  the  tree,  and
 which  correspond  to  the  Norse  eagle  and  squirrel,  I  will  lay  no
-stress  on  them.  But  one  thing  is  rather  surprising  :  it  is  pre-
-cisely to  the  ash  that  Virgil  ascribes  as  high  an  elevation  in  the
+stress  on  them.  But  one  thing  is  rather  surprising  :  it  is  precisely to  the  ash  that  Virgil  ascribes  as  high  an  elevation  in  the
 air  as  its  depth  of  root  in  the  ground,  Georg.  2,  291  :
 
 Aesculus  in  primis,  quae  quantum  vortice  ad  auras
@@ -18088,14 +16977,12 @@ i).m.  22.
 
 WOELD-TREE.  799
 
-Hereupon  is  founded  a  rebuke  of  man's  levity^  wlio  in  the  ut-
-most stress  of  danger  cannot  withstand  the  temptation  of  a  small
+Hereupon  is  founded  a  rebuke  of  man's  levity^  wlio  in  the  utmost stress  of  danger  cannot  withstand  the  temptation  of  a  small
 enjoyment.  Well^  this  fable  not  only  was  early  and  extensively
 circulated  by  Hebrew,  Latin  and  Greek  translations  of  the  entire
 book/  but  also  found  its  way  into  other  channels.  John
 Damascenus  (cii'C.  740)  inserted  it  in  his  BapXaa/M  kul  ^Icodcracf),^
-which  soon  became  universally  known  through  a  Latin  repro-
-duction.^ On  the  model  of  it  our  Rudolf  composed  his  Barlaam
+which  soon  became  universally  known  through  a  Latin  reproduction.^ On  the  model  of  it  our  Rudolf  composed  his  Barlaam
 and  Josaphat,  where  the  illustration  is  to  be  found,  p.  116-7;
 in  a  detached  form,  Strieker  (Ls.  1,  253).  No  doubt  a  parable
 so  popular  might  also  reach  Scandinavia  very  early  in  the  Mid.
@@ -18150,8 +17037,7 @@ Halja  {' ov  heljo/  Saem.  94%  'i  heljo'  49.  50.  51,  is  clearly
 spoken  of  a  place,  not  a  person),  it  is  gloomy  and  black,  like  herj
 hence  a  NehelJieim,  cold  land  of  shadows,  abode  of  the  departed,^
 but  not  a  place  of  torment  or  punishment  as  in  the  christian  view,
-and  even  that  was  only  developed  gradually  (p.  313).  When  Ul-
-philas  uses  halja,  it  is  always  for  aS?;?  (Matt.  11,  23.  Luke  10, 15.
+and  even  that  was  only  developed  gradually  (p.  313).  When  Ulphilas  uses  halja,  it  is  always  for  aS?;?  (Matt.  11,  23.  Luke  10, 15.
 16,  23.  1  Cor.  15,  55),  the  infernus  of  the  Vulg. ;  whenever  the
 text  has  yeevva,  Vulg.  gehenna,  it  remains  gaiainna  in  Gothic
 (Matt.  5,  29.  30.  10,  28),it  was  an  idea  for  which  the  Gothic  had
@@ -18166,10 +17052,8 @@ said  to  be  'fiisid  an  helsid',  near  dying,  equipped  for  his  journey
 to  Hades,  without  any  by-thought  of  pain  or  punishment.  That
 AS.  poetry  still  remembered  the  original  (personal)  conception  of
 Hel,  was  proved  on  p.  314,  but  I  will  add  one  more  passage  from
-Beow.  357:  '  Helle  gemundon,  Meto^  ne  cu^on,^  Helam  venera-
-bantur,  Deum  verum  ignorabant  (pagani).  So  then,  from  the
-4th  cent,  to  the  10th,  halja,  hella  was  simply  Hades  or  the  death-
-kingdom,  the  notion  of  torment  being  expressed  by  another  word
+Beow.  357:  '  Helle  gemundon,  Meto^  ne  cu^on,^  Helam  venerabantur,  Deum  verum  ignorabant  (pagani).  So  then,  from  the
+4th  cent,  to  the  10th,  halja,  hella  was  simply  Hades  or  the  deathkingdom,  the  notion  of  torment  being  expressed  by  another  word
 or  at  any  rate  a  compound ;  and  with  this  agrees  the  probability
 
 
@@ -18241,8 +17125,7 @@ Nothfelden  (923).
 
 802  TIME   AND   WORLD.
 
-In  the  plains  of  Up.  Germany  we  sometimes  iind  it  called  todten-
-weg  (Mone's  Anz.  1838.  pp.  225.  316).  The  ON.  poetry  makes
+In  the  plains  of  Up.  Germany  we  sometimes  iind  it  called  todtenweg  (Mone's  Anz.  1838.  pp.  225.  316).  The  ON.  poetry  makes
 the  dead  ride  or  drive  to  the  underworld,  *fara  til  heljar '  or  '  til
 Heljar/  to  the  death-goddess  :  Brynhildr,  after  she  is  burnt,
 travels  to  Hel  in  an  ornamental  car,  '  ok  me'S  reiSinni  a  helveg,'
@@ -18251,8 +17134,7 @@ and  the  poem  bears  the  title  Eeheid',  Saem.  227.  In  our  Freidank
 '  zer  helle  varn '  and  '  dri  straze  zer  helle  gant.''  For  the  rest,  a
 hellweg  would  necessarily  bring  with  it  a  hellwagen  (p.  314),  just
 as  we  meet  with  a  Wodan's  way  and  waggon  both  (p.  151).
-Nay,  the  Great  Bear  is  not  only  called  himelwagen  and  herren-
-wagen,  but  in  the  Netherlands  hellewagen  (WolPs  Wodana  i.  iii.
+Nay,  the  Great  Bear  is  not  only  called  himelwagen  and  herrenwagen,  but  in  the  Netherlands  hellewagen  (WolPs  Wodana  i.  iii.
 iv.) ;  see  a  '  Wolframus  dictus  hellewagen,'  MB.  25,  123  a.d.  1314
 (see  SuppL).
 
@@ -18292,8 +17174,7 @@ NIFL-HEL.  803
 gates)  that  is  meant  in  Seem,  226^  and  Fornald.  sog.  1,  204,
 where  Brynhildr  wishes  to  follow  SigurS  in  death,  lest  the  door
 fall  upon  his  heel :  a  formula  often  used  on  entering  a  closed
-cavern.^  But  HeFs  kingdom  bears  the  name  of  Nifiheimr  or  Nijl-
-liel,  mist- world,  mist-hell,^  it  is  the  ninth  ivorld  (as  to  position),
+cavern.^  But  HeFs  kingdom  bears  the  name  of  Nifiheimr  or  Nijlliel,  mist- world,  mist-hell,^  it  is  the  ninth  ivorld  (as  to  position),
 and  was  created  many  ages  before  the  earth  (p.  558)  ;  in  the
 middle  of  it  is  that  fountain  Rvergelmir,  out  of  which  twelve
 rivers  flow,  GioU  being  the  one  that  comes  nearest  the  dwelling
@@ -18308,8 +17189,7 @@ an  intermediate  tract,  which  one  must  cross  to  reach  the  abode
 of  Aides,  of  Halja.  Out  of  our  Halja  the  goddess,  as  out  of  the
 personal  Hades,  the  Roman  Orcus  (orig.  uragus,  urgus,  and  in
 the  Mid.  Ages  still  regarded  as  a  monster  and  alive,  pp.  314,
-486)  there  was  gradually  evolved  the  local  notion  of  a  dwelling-
-place  of  the  dead.  The  departed  wei*e  first  imagined  living  with
+486)  there  was  gradually  evolved  the  local  notion  of  a  dwellingplace  of  the  dead.  The  departed  wei*e  first  imagined  living  with
 her,  and  afterwards  in  her  (it).  In  the  approaches  dwelt  or
 hovered  the  dark  elves  (see  Sup  pi.).
 
@@ -18342,8 +17222,7 @@ under ferndalu  33,  16  ;  dia})  dodes  dalu  157,  22.
 804  TIME   AND   WORLD.
 
 connect  Helleborne  in  Brabant^  the  source  of  Ilellehelce ;  several
-places  are  named  Helleput  (Wolf's  Wodana  1^  v.  and  35).  Hel-
-voetsluis  was  cited,  p.  315  note;  the  name  Helle-voet  (-foot)  is,
+places  are  named  Helleput  (Wolf's  Wodana  1^  v.  and  35).  Helvoetsluis  was  cited,  p.  315  note;  the  name  Helle-voet  (-foot)  is,
 we  are  told,  still  to  be  seen  on  signboards  (uithangborden)  in  the
 Netherlands  (see  Suppl.).
 
@@ -18363,8 +17242,7 @@ him  in  Gimill  or  Vingolf,  all  the  wicked  (vaudir)  to  Niflheimr  or
 hell  (conf.  Sn.  21  and  75,  of  which  more  hereafter).  This  is
 already  the  christian  idea,  or  one  extremely  like  it.
 
-For  the  old  heathen  hell,  pale  and  dim,  the  Christian  substi-
-tuted a  pool  filled  with  flames  and  pitch,  in  which  the  souls  of
+For  the  old  heathen  hell,  pale  and  dim,  the  Christian  substituted a  pool  filled  with  flames  and  pitch,  in  which  the  souls  of
 the  damned  burn  for  ever,  at  once  pitch-black  and  illumined
 with  a  glow.  Gehenna  is  interpreted  hellafiuri,  MHG.  hellefiwer
 Parz.  116.  18;  the  poet  of  the  Holland,  when  he  wants  to  picture
@@ -18415,8 +17293,7 @@ of  boiling  pitch  was  also  combined  an  intolerable  stench ;  Reineke
 
 Since  the  conversion  to  Christianity  therefore,  there  has  clung
 to  the  notion  of  hell  the  additional  one  of  punishment  and  pain  :
-kvoUheimr,  mundus  supplicii,  in  Solarl.  53  (Ssem.  127^^)  is  unmis-
-takably the  christian  idea.  The  OHG.  hellawizi,  OS.  helliwiti,
+kvoUheimr,  mundus  supplicii,  in  Solarl.  53  (Ssem.  127^^)  is  unmistakably the  christian  idea.  The  OHG.  hellawizi,  OS.  helliwiti,
 Hel.  44,  17,  AS.  hellewite,  expresses  supplicium  iuferui,  conf.
 Graff  1,  1117  on  wizi,  MHG.  ivize,  MsH.  2,  105'^;  upon  it  are
 modelled  the  Icel.  helviti,  Swed.  helvete,  Dan.  helvede,  which
@@ -18435,14 +17312,12 @@ From  abyssus,  Span,  abismo,  Fr.  abime,  is  to  be  explained  the
 MHG.  dbis  (Altd.  bl.  1,  295;  in  abisses  grunde,  MsH.  3,  167),
 later  obis,  nobis  (en  abis,  en  obis,  in  abyssum).     OS.  helligrund,
 
-1  Of  one  ill  piu-gatory  the  Esthonians  say:   ta  ou  kakha  ilma  waliliel,  he  is  he-
-tueen  two  woiidt:.
+1  Of  one  ill  piu-gatory  the  Esthonians  say:   ta  ou  kakha  ilma  waliliel,  he  is  hetueen  two  woiidt:.
 
 
 806  TIME   AND   WOELD.
 
-Hel.  44,  22;  in  afgrunde  ghn,  Eoth.  2334;  ir  verdienet  daz  af-
-grunde,  1970  ;  '  varen  ter  Belle  in  den  donhren  helre,'  dark  cellar^
+Hel.  44,  22;  in  afgrunde  ghn,  Eoth.  2334;  ir  verdienet  daz  afgrunde,  1970  ;  '  varen  ter  Belle  in  den  donhren  helre,'  dark  cellar^
 Floris  1257.^  AS.  se  neowla  grund  (imus  abyssus),  Csedm.  267^  ] .
 270,  16;  ])set  neowle  genial  (profunda  caligo)  271,  7.  275,  31.
 This  neowel,  niwel  (profundus)  may  explain  an  expression  in  tlio
@@ -18520,8 +17395,7 @@ and  classical  literature.  Read  also  the  conclusion  of  Cgedmon
 poetic  picture  of  hell  ^  (see  Suppl.).
 
 That  the  heathen  Mist-world  lying  far  to  the  north  was  not
-filled  with  fire,  comes  out  most  clearly  from  its  opposite,  a  Flame-
-world  in  the  south  (p.  558),  which  the  Edda  calls  Maspell  or
+filled  with  fire,  comes  out  most  clearly  from  its  opposite,  a  Flameworld  in  the  south  (p.  558),  which  the  Edda  calls  Maspell  or
 Muspells-heimr.     This  is  bright  and  hot,  glowing  and  burning,*
 
 1  Wallach.  iad  (hiatus),  iadul  hell.
@@ -18529,8 +17403,7 @@ Muspells-heimr.     This  is  bright  and  hot,  glowing  and  burning,*
 -  As  evening  is  the  '  mouth  of  night.'
 
 •*  Here  we  may'feum  up  what  living  men  have  reached  Hades  and  come  back:  of
-the  Greeks,  Orpheus  in  search  of  Eurydice;  Odysseus;  Aeneas.  Of  Norsemen,  Her-
-moSr  when  dispatched  after  Baldr,  and  Hadding  (Saxo  Gram.  p.  16).  Medieval
+the  Greeks,  Orpheus  in  search  of  Eurydice;  Odysseus;  Aeneas.  Of  Norsemen,  HermoSr  when  dispatched  after  Baldr,  and  Hadding  (Saxo  Gram.  p.  16).  Medieval
 legends  of  Brandanas  and  Tuudalus ;  that  of  Tanhiiuser  and  others  like  it  shall
 come  in  the  next  cha,p.  Monkish  dreams,  visions  of  princes  who  see  their  ancestors
 in  hell,  are  coll.  in  D.S.  nos.  4(51.  527.  530.  554  ;  of  the  same  kind  is  the  vision  of
@@ -18553,8 +17426,7 @@ has  the  Saxon  Heliand  a  omidspelU  79,  24,  inutspelli  133,  4,  but
 a  High  German  poem,  probably  composed  in  Bavaria,  has  at  line
 62  muspilli  (dat.  muspille).  Besides,  what  a  welcome  support
 to  the  age  and  real  basis  of  the  Edda,  coming  from  Saxon  and
-Bavarian  manuscripts  of  the  9th  cent,  and  the  8th  !  Every-
-where else  the  term  is  extinct :  neither  Icelanders  nor  other
+Bavarian  manuscripts  of  the  9th  cent,  and  the  8th  !  Everywhere else  the  term  is  extinct :  neither  Icelanders  nor  other
 Scandinavians  understand  it,  in  Anglo-Saxon  writings  it  has
 never  shewn  itself  yet,  and  later  specimens  of  German,  High
 and  Low,  have  lost  all  knowledge  of  it.  Assuredly  a  primitive,
@@ -18566,16 +17438,14 @@ tell  us  :  '  mudspelles  megin  obar  man  ferid/  the  force  of  fire
 fareth  over  men ;  '  inutspelli  cutnit  an  thiustrea  naht,  al  so  thiof
 ferid  darno  mid  is  dadiun,'  fire  cometh  in  dark  night,  as  thief
 fareth  secret  and  sudden  with  his  deeds  (Matth.  24,  43.  2  Pet.
-3,  10)  ;  and  the  OHG.  poet  says:  '  dar  ni  mac  denne  mak  an-
-dremo  helfau  vora  demo  muspille,  denna  daz  preita  wasal  (Grafi"
+3,  10)  ;  and  the  OHG.  poet  says:  '  dar  ni  mac  denne  mak  andremo  helfau  vora  demo  muspille,  denna  daz  preita  wasal  (Grafi"
 1,  1063)  allaz  varprennit,^  enti  viur  enti  luft  allaz  arfurpit,'  then
 no  friend  can  help  another  for  the  fire,  when  the  broad  shower
 of  glowing  embers  (?)  burns  up  all,  and  fire  and  air  purge
 (furbish)  everything.
 
 It  must  be  a  compound,  whose  latter  half  spilli,  spelli,  spell
-we  might  connect  with  the  ON.  spioU  (corruptio),  spilla  (corrum-
-pere),  AS.  spillan  (perdere),  Engl,  spill,  OHG.  spildan,  OS.
+we  might  connect  with  the  ON.  spioU  (corruptio),  spilla  (corrumpere),  AS.  spillan  (perdere),  Engl,  spill,  OHG.  spildan,  OS.
 spildian  (perdere) ;  ^  ON.  mannspioll  is  clades  hominum,  Itespioll
 (Nialss.  c.  158)  perhaps  bellum.     But  we  are  left  to  guess  what
 
@@ -18594,9 +17464,6 @@ not  mus]3ildi  in  the  OHG.  and  OS.  poems  ?
 
 
 MUSPILLI.
-
-
-809
 
 
 mud,  mu  (mu  ?)  can  be,  whetlier  earth,  land,  or  else  wood,  tree.
@@ -18622,8 +17489,7 @@ liviti,'  ibid.  1,  212.  But  there  must  have  been  another  form
 Surti,  gen.  Surta,  for  in  both  Eddas  we  meet  with  the  compound
 Surtalogi,  Seem.  37*^.  Sn.  22.  76.  90.  A  certain  resinous
 charred  earth  is  in  the  North  still  called  Surtarhrandr  (Surti
-titio,  Biorn  sub  v.,  F.  Magn.  lex.  730),  a  mode  of  naming  indica-
-tive of  a  superior  being,  as  when  plants  are  named  after  gods.
+titio,  Biorn  sub  v.,  F.  Magn.  lex.  730),  a  mode  of  naming  indicative of  a  superior  being,  as  when  plants  are  named  after  gods.
 Volcanic  rock-caves  in  Iceland  are  called  StirtarheUir  (F.  Magn.
 lex.  729);  the  Landnamabok  3,  10  (Isl.  sog.  1,  151)  tells  how
 one  Thorvaldr  brouorht  to  the  cave  of  the  iotunn  Surtr  a  songr
@@ -18669,8 +17535,7 @@ eam  tuendam,  ensemque  gestat  ardentem  (see  Suppl.).
 
 The  authors  of  the  Holland  and  the  OHG.  poem,  both  christian,
 but  still  somewhat  versed  in  heathen  poetry,  alike  introduce
-miispilli  at  the  end  of  the  world,  at  the  approach  of  the  Judgment-
-day,  when  the  earth  and  all  it  contains  will  be  consumed  by  fire.
+miispilli  at  the  end  of  the  world,  at  the  approach  of  the  Judgmentday,  when  the  earth  and  all  it  contains  will  be  consumed  by  fire.
 And  that  is  exactly  how  the  Edda  describes  the  same  event :
 Surtr  arises  with  the  sons  of  muspell,  makes  war  upon  all  the
 gods  and  overcomes  them,  the  whole  world  perishes  by  his  fire,
@@ -18695,9 +17560,6 @@ sent  from  heaven  to  earth,  but  to  be  conquered  and  slain  by  him.
 MUSPILLI.
 
 
-811
-
-
 Their  names  are  not  given  either ;  that  they  are  Etioch  and  Elias
 follows  from  the  power  given  them  to  shut  heaven  that  it  rain
 not,  and  is  expressly  acknowledged  by  the  Fathers.^  Their
@@ -18714,8 +17576,7 @@ the  mountains  set  o)i  fire  by  the  blood  of  the  mortally  wounded
 Elias  dropping  on  the  earth ;  no  such  circumstance  is  found  in
 any  christian  tradition.  The  shij  swelters  in  a  blaze  (suilizot
 lougiu),  the  earth  hums  (prinnit  mittilagart),  and  his  already
-quoted  '  dar  ni  mac  denne  mak  andremo  helfan  vora  demo  mus-
-pille',  supported  as  it  may  be  by  Mark  13,  12.  Luke  21,  16,
+quoted  '  dar  ni  mac  denne  mak  andremo  helfan  vora  demo  muspille',  supported  as  it  may  be  by  Mark  13,  12.  Luke  21,  16,
 sounds  very  like  the  Eddie
 
 broeSr  muno  berjaz  ok  at  bonom  verSa,
@@ -18741,8 +17602,7 @@ quoted  in  Hoffm.  Fundgr.  2,  102  seq.  and  Kausler's  Aul.  denkiu.  1,  4
 times,  conf.  N.  ps.  58,  7.  73,  10  ;  Burcard.  Wormat.  20,  93-7 ;  Otto  Frising.  8,  1-8;
 Discip.  de  tempore,  serm.  10.
 
-2  12-13th  cent,  accounts  of  Antichrist  in  the  Hortus  delici.  of  Herrat  of  Lands-
-berg  (Engelhard  p.  48) ;  in  Cod.  viud.  653,  121-2  ;  Fundgr.  1,  195-0.  2,  100—134  ;
+2  12-13th  cent,  accounts  of  Antichrist  in  the  Hortus  delici.  of  Herrat  of  Landsberg  (Engelhard  p.  48) ;  in  Cod.  viud.  653,  121-2  ;  Fundgr.  1,  195-0.  2,  100—134  ;
 Martina  191  seq.  ;  Wackernag.  Basle  M!SS.  22-' ;  and  conf.  Introd.  to  Freidank
 Ixxi.  Ixxii.
 
@@ -18818,8 +17678,7 @@ perversion.  The  Norse  narrative  is  simple,  and  of  one  piece  with
 all  the  rest  of  the  Edda  ;  the  myth  of  Antichrist  is  a  jumble,  nay
 artificially  pieced  together.  The  two  leading  personages,  Surtr
 and  Antichrist,  have  totally  different  characters.  How  should
-the  Scandinavians  have  foisted-in  a  number  of  significant  acces-
-sories, notably  this  of  muspell,  and  again  a  H.  German  poet
+the  Scandinavians  have  foisted-in  a  number  of  significant  accessories, notably  this  of  muspell,  and  again  a  H.  German  poet
 unconnected  in  time  and  place  have  tacked  on  the  very  same  ?
 
 What  the  Edda  tells  of  Surtr  and  his  combat  with  the  Ases  is
@@ -18828,9 +17687,7 @@ whose  advent  is  named  aldar  roh  (S^m.  36"*),  aldar  lag,  aldar  rof
 (37^  167'''),2  but  more  commonly  ragna  roh  (7^  38^  96\  166")  or
 ragna  rokr  (65^  Sn.  30.  36.  70.  88.  165),  i.e.  twilight,  darkening,
 of  time  and  the  sovran  gods  (supra  p.  26).  Rok  and  rokr  both
-mean  darkness,  rok  rokra  in  Seem.  113''  is  an  intensified  expres-
-sion for  utter  darkness  ;  Biorn  renders  rockur  (neut.)  crepus-
-culum,  rockva  vesperascere.  It  is  akin  to  the  Goth,  riqis  cr/coro?,
+mean  darkness,  rok  rokra  in  Seem.  113''  is  an  intensified  expression for  utter  darkness  ;  Biorn  renders  rockur  (neut.)  crepusculum,  rockva  vesperascere.  It  is  akin  to  the  Goth,  riqis  cr/coro?,
 riqizeins  (rK0Teiv6<i,  riqizjan  (TKorl^eaOat,  only  that  is  increased
 by  a  suffix  -is,  and  has  its  radical  vowel  alien  from  the  Norse  '6,
 which  must  be  a  modified  a,  so  that  rok  stands  for  rahu.  This
@@ -18850,8 +17707,7 @@ to  iiieces.
 
 814  TIME    AND   WOELD.
 
-on  p.  753,  '  die  finstre  ragende  naclit/  whicTi  can  hardly  be  ex-
-plained from  our  ragen  (rigere)  stick  out.i  Ragnarok  then  is
+on  p.  753,  '  die  finstre  ragende  naclit/  whicTi  can  hardly  be  explained from  our  ragen  (rigere)  stick  out.i  Ragnarok  then  is
 the  night  of  the  gods,  which  comes  over  all  beings,  even  the
 highest,  p.  316  (see  Suppl,).
 
@@ -18860,15 +17716,11 @@ loose  and  war  against  the  gods :  a  wolf  swallows  the  sun,  a,nother
 the  moon  (p.  705-6),  the  stars  fall  from  heaven,  the  earth  quakes,
 the  monstrous  world-snake  lormungandr,  seized  with  giant  fury
 (iotunmoSr,  p.  530),  rises  out  of  the  waters  on  to  the  land,
-Fenrisulfr  is  set  free  (p.  244),  and  Naglfar  afloat,  a  ship  con-
-structed out  of  dead  men^s  nails."  Loki  brings  up  the  hrimthurses
-and  the  retinue  of  Hel  (Heljar  sinnar),  all  the  hellish,  wolfish  kin-
-dred have  mustered  together.  But  it  is  from  the  flame-world
-that  the  gods  have  most  danger  to  dread :  Surtr  and  his  glitter-
-ing host  come  riding  over  Bifrost  the  rainbow  (p.  732)  in  such
+Fenrisulfr  is  set  free  (p.  244),  and  Naglfar  afloat,  a  ship  constructed out  of  dead  men^s  nails."  Loki  brings  up  the  hrimthurses
+and  the  retinue  of  Hel  (Heljar  sinnar),  all  the  hellish,  wolfish  kindred have  mustered  together.  But  it  is  from  the  flame-world
+that  the  gods  have  most  danger  to  dread :  Surtr  and  his  glittering host  come  riding  over  Bifrost  the  rainbow  (p.  732)  in  such
 strength  that  they  break  it  down.  The  single  combatants  are
-disposed  thus  :  OSinn  fights  with  Fenrisulfr,  Thorr  with  lormun-
-gandr, Freyr  with  Surti*,  Tyr  with  Garmi',^  Heimdall  with  Loki;
+disposed  thus  :  OSinn  fights  with  Fenrisulfr,  Thorr  with  lormungandr, Freyr  with  Surti*,  Tyr  with  Garmi',^  Heimdall  with  Loki;
 in  every  case  the  old  gods  go  down,  though  Garmr  and  Loki  fall
 too,  and  Fenrisulfr  is  slain  by  ViSar.^  That  Loki  and  all  his  kin
 should  come  out  as  allies  to  the  sons  of  flame,  follows  from  his
@@ -18879,17 +17731,14 @@ brought  in?  The  Slav,  rok  tempus,  annus,  terminus,  fatum,  Lith.  rakus,
 considering  ;  its  abstract  meaning  may  have  sprung  out  of  a  material  one,  and  fits
 in  perfectly  with  the  notions  of  time  and  world  developed  on  p.  790  [rok,  fate,  is
 from  reku,  I  speak] .  Neither  rok,  rokr,  nor  riqis  has  anything  to  do  with  our
-ranch,  reek,  ON.  reykr.  It  is  not  correct  for  Danish  writers  to  use  the  form  ragna-
-rok; ON.  rok  must  in  their  dialect  be  rag  (as  sok  is  sag) ;  the  OHG.  form  of  ragna-
-rok would  be  regiuo-rahha,  or  -rah,  -rahhu,  according  as  it  were  fem.  or  neuter.
+ranch,  reek,  ON.  reykr.  It  is  not  correct  for  Danish  writers  to  use  the  form  ragnarok; ON.  rok  must  in  their  dialect  be  rag  (as  sok  is  sag) ;  the  OHG.  form  of  ragnarok would  be  regiuo-rahha,  or  -rah,  -rahhu,  according  as  it  were  fem.  or  neuter.
 In  Swed.  and  Dan.  the  term  is  extinct,  but  they  both  have  a  word  for  crepusculum,
 Swed.  thysmnrker,  Dan.  tusmorke,  which  may  be  from  >uss,  J^urs,  implying  an  ON.
 pursmyrkr,  giant's  murk,  and  that  would  tally  witli  the  giant  nature  of  Surtr.
 
 ^  This  is  intended  to  express  the  enormous  thstance  and  tardy  arrival  of  the
 world's  end:  before  such  a  vessel  can  be  built  of  the  tiny  nail-parings  of  dead  bodies
-a  longish  time  must  elapse,  which  is  still  further  i^rotracted  by  the  wholesome  pre-
-cept, always  to  pare  the  nails  of  the  dead  before  burying  or  burning  them ;  conf.  F.
+a  longish  time  must  elapse,  which  is  still  further  i^rotracted  by  the  wholesome  precept, always  to  pare  the  nails  of  the  dead  before  burying  or  burning  them ;  conf.  F.
 Magnuseu's  Lex.  520. 820.  Not  unlike  is  the  image  of  the  mountain  of  eternity,  to
 which  a  bird  adds  one  grain  of  sand  every  hundred  years.
 
@@ -18907,8 +17756,7 @@ assaUed  ;  conf.  Fundgr.  1,  178-9.
 
 END    OF   THE    WORLD.  815
 
-very  nature,  lie  being  a  god  of  fire  (p.  241).  After  tie  tuorld-
-conflagration  or  Surtalogi,  a  new  and  happier  earth,  rises  out
+very  nature,  lie  being  a  god  of  fire  (p.  241).  After  tie  tuorldconflagration  or  Surtalogi,  a  new  and  happier  earth,  rises  out
 of  the  sea,  with  gods  made  young  again,  but  still  called  Aesir,
 Seem.  10  :  a  finale  bearing  an  indisputable  likeness  to  the  Last
 Judgment  ^  and  New  Jerusalem  of  the  christians.  Strophe  65  of
@@ -18919,14 +17767,12 @@ alone,  it  must  be  incontrovertibly  established  by  explicit  proofs.
 Even  if  it  did  take  place,  neither  the  heathen  character  of  the
 myth  nor  the  age  of  the  poem  as  a  whole  is  thereby  brought
 under  suspicion.  For,  as  the  heathen  faith  among  early  converted
-races  was  not  demolished  at  a  blow,^  so  here  and  there  a  chris-
-tian dogma  may  also  have  penetrated  even  to  nations  that  were
+races  was  not  demolished  at  a  blow,^  so  here  and  there  a  christian dogma  may  also  have  penetrated  even  to  nations  that  were
 still  heathen;  conversely  some  heathea  ways  of  thinking  lingered
 on  among  christians.  Consider  how  the  author  of  the  Holland
 (131-2-3),  while  following  the  Gospels  in  describing  the  approach
 of  the  Last  Day,  yet  admits  such  rank  heathenisms  as  '  Gebanes
-Strom '  and  '  Mudspelli.^  In  the  very  personifying  of  the  Judg-
-ment day  {'  verit  stuatago  in  lant,'  like  'muspelli  humit ')  there  is
+Strom '  and  '  Mudspelli.^  In  the  very  personifying  of  the  Judgment day  {'  verit  stuatago  in  lant,'  like  'muspelli  humit ')  there  is
 a  flavour  of  heathenism.
 
 There  seem  to  have  existed  some  other  traditions  about  the
@@ -18938,14 +17784,12 @@ world-ring,  p.  794.
 
 To  the  destruction  of  the  world  hy  fire,  which  heathens  and
 christians^  look  forward  to  as  future,  stands  opposed  that  hy
-water,  which  the  histories  of  both  represent  as  past.  The  Burn-
-ing, like  the  Deluge  (pp.  576 — 81),  is  not  to  destroy  for  ever,  but
+water,  which  the  histories  of  both  represent  as  past.  The  Burning, like  the  Deluge  (pp.  576 — 81),  is  not  to  destroy  for  ever,  but
 to  purify,  and  bring  in  its  wake  a  new  and  better  order  of  things
 (see  Suppl.).
 
 '  OHG.  uiititago,  suotiotac,  suoiiotago,  tuomistac,  tuomtac,  stuatago  (Goth,
-stauadags?) ;  MHG.  endetac,  siienetac,  tuomtac;  OS.  'the  lazto  dag,''  domdag,  domes-
-dag,  AS.  domdceg,  Engl,  ditomx-day ,  ON.  di'unsdagr.
+stauadags?) ;  MHG.  endetac,  siienetac,  tuomtac;  OS.  'the  lazto  dag,''  domdag,  domesdag,  AS.  domdceg,  Engl,  ditomx-day ,  ON.  di'unsdagr.
 
 -  In  Leyden's  Coinplaynt  p.  98  is  actually  mentioned  a  story,  'the  tayl  of  the
 wolfe  and  the  warldis  end,'  which  was  ciu-rent  in  Scotland  and  elsewhere  (supra
@@ -18960,10 +17804,8 @@ a  2  Pet.  3,  12  ;  couf.  Freidank  179,  4.
 
 The  churcli  tradition  of  the  Mid.  Ages  (based  on  Matth.  24,
 Mark  18,  Luke  21)  accepts  fifteen  signs  as   premonitions   of  the
-Judgment-day  ;  ^  these  do  not  include  the  unearthly  winter,  jim-
-bulvetr,  that   wind-age    (vindold,  p.    793,    Haupt's    Zeitschr.    7,
-309),  which  according  to  both  Eddas  (Seem.  36'',     Sn.  71)  pre-
-cedes the  ragnarokr,  and  is  doubtless  a  truly  Teutonic  fancy ;  '^
+Judgment-day  ;  ^  these  do  not  include  the  unearthly  winter,  jimbulvetr,  that   wind-age    (vindold,  p.    793,    Haupt's    Zeitschr.    7,
+309),  which  according  to  both  Eddas  (Seem.  36'',     Sn.  71)  precedes the  ragnarokr,  and  is  doubtless  a  truly  Teutonic  fancy ;  '^
 but  we  have  a  darheiiing  of  the  sun  and  moon  described  (p.  244),
 and   an  earthquake,  which   equally  precedes  the  twilight   of  the
 gods  :  '  griotbiorg  gnata,  himinn  klofnar,  gt^yr  allr  lotunheimr,'
@@ -18971,8 +17813,7 @@ Saem.   8'';  the  ordinary  term  in   ON.  is   land-skidlfti,  Sn.  50,  or
 'iord  shUf ;  '   '  landit   skalf,  sem  a  J^ree^i  leki,' Fornald.  sog.  1,
 424.  503.^     For  o-et,(T/j,6<i  Ulphilas  gives  the  fem.  reirS,  he  says
 '  aiv]>a,  reirdida ; '  OS.  '  ertha  hicoda/  Hel.  168,  23;  OHG.  '  erda
-hibinota,'  0.  iv.  34,  1,  and  the   subst.  erdpipa,  erdbibunga,  erd-
-giruornessi.     Reinardus  1,  780  puts  in  juxtaposition:  'nee  tremor
+hibinota,'  0.  iv.  34,  1,  and  the   subst.  erdpipa,  erdbibunga,  erdgiruornessi.     Reinardus  1,  780  puts  in  juxtaposition:  'nee  tremor
 est  terrae,  judiciive  dies ;'  and   Servian  songs  :  '  ili  gr7ni,   il   se
 zemlia  trese  ? '  does  it  thunder,  or  does  the  earth  shake  ?  (Vuk  2,
 1.    105).      But  the  earth's  quaking,  like  the  Deluge,  is  oftener
@@ -18981,8 +17822,7 @@ The  Greek  fable  accounts  for  it  by  imprisoned  cyclops  or  titans
 (Ov.  Met.  12,  521)  ;  the  Norse  by  the  struggles  of  chained  Loki
 when  drops  of  poison  fall  upon  his  face  (Seem.  69.    Sn.  70),  or  by
 Fafnir's  journey  to  the  water  (Foruald.  sog.   1,  159.  160).     The
-earth  also  quakes  at  the  death  of  certain  heroes,  as  Heimir  (For-
-nald.  sog.  1,  232),  and  of  the   giant   (Yilk.   saga  cap.  176).     At
+earth  also  quakes  at  the  death  of  certain  heroes,  as  Heimir  (Fornald.  sog.  1,  232),  and  of  the   giant   (Yilk.   saga  cap.  176).     At
 Roland's  death  there  is  lightning,  thunder  and  earthquake,  Rol.
 240,  22.     To  the  Indians  the  earth  quakes  every  time  one  of  the
 eight  elephants  supporting  the  globe  is  tired  of  his  burden,  and
@@ -18998,8 +17838,7 @@ del  Juicio,  in  Sanchez  coleccion  2,  273.  Thomas,  Asegabok  and  Berceo  
 Jerome,  bi;t  no  such  enumeration  of  the  15  signs  is  to  be  found  in  his  works.  Eol.
 289-90  and  Karl  89*  have  similar  signs  at  Roland's  death  (see  Suppl.).
 
--  Notice  Sffim.  119*:  '  J'a'San  koma  siiiofar  ok  snarir  vindnr,^  and  the  poetic  de-
-scriptions of  ivintcr  in  AS.  writers:  Andr.  1256-63.     Beow.  2258.
+-  Notice  Sffim.  119*:  '  J'a'San  koma  siiiofar  ok  snarir  vindnr,^  and  the  poetic  descriptions of  ivintcr  in  AS.  writers:  Andr.  1256-63.     Beow.  2258.
 
 ;»  '  Lond  611  skitlfu;  Sn.  66  ;  '  fold  for  skUVfandi,'  148.
 
@@ -19023,8 +17862,7 @@ told  in  chap.  XIX  about  the  creation  of  the  world  according  to
 ON.  views.  After  the  gods  had  set  in  order  heaven  and  earth,
 created  Ask  and  Embla,  and  appointed  Mi'Sgar^  to  be  the
 habitation  of  man,  they  fitted  up  for  themselves  in  the  centre
-of  the  world  a  dwelling-place  named  Asgard'r,  in  whose  vast  ex-
-tent however  a  number  of  particular  spots  are  specified.
+of  the  world  a  dwelling-place  named  Asgard'r,  in  whose  vast  extent however  a  number  of  particular  spots  are  specified.
 
 None  of  these  separate  mansions  is  more  celebrated  than  the
 Odinic  Valholl  (OHG.  Walahalla?),  whose  name  has  an  obvious
@@ -19035,8 +17873,7 @@ the  heroes  that  from  the  beginning  of  the  world  have  fallen  in
 valr,  on  the  battle-field  (the  vapn-bitnir,  weapon-bitten,  Yngl.
 saga  c.  10)  ;  these  he  adopts  as  children,  they  are  oshasynir,  sons
 by  wishing,  ad-option,^  and  likewise  sons  of  the  god  Wish  (p.
-143).  Their  usual  name  is  einherjar,  egregii,  divi,  as  OSinn  him-
-self is  called  Rerjan  and  HerjafocPr,  and  Jieri  means  the  fighting
+143).  Their  usual  name  is  einherjar,  egregii,  divi,  as  OSinn  himself is  called  Rerjan  and  HerjafocPr,  and  Jieri  means  the  fighting
 hero  (p.  342-3).  It  must  not  be  overlooked,  that  Thorr  himself
 is  called  an  einheri,  S^m.  68%  as  if  a  partaker  of  Valholl,  From
 the  existence  of  a  proper  name  Einheri  in  OHG.  (e.g.  Meichelbeck
@@ -19080,8 +17917,7 @@ of  rank  were  supposed  to  be  perpetuated  in  the  future  life.  On
 the  approach  of  Eyrikr,  OSinn  has  the  benches  arranged,  the
 goblets  prepared,  and  wine  brought  up  (Fragm.  of  song,  Sn.  97) ;
 Sigmund  and  Sinfiotli  are  sent  to  meet  him  (Miiller's  Sagabibl.
-2,  375).  The  Hakonarmal  is  a  celebrated  poem  on  Hakon's  wel-
-come in  ValhoU.  But  even  the  hall  of  a  king  on  earth,  where
+2,  375).  The  Hakonarmal  is  a  celebrated  poem  on  Hakon's  welcome in  ValhoU.  But  even  the  hall  of  a  king  on  earth,  where
 heroes  carouse  as  in  the  heavenly  one,  bears  the  same  name
 Vallwll  (Seem.  244''.  246'''  anent  Atli).  The  abodes  and  pleasures
 of  the  gods  and  those  of  men  are  necessarily  mirrored  in  each
@@ -19091,13 +17927,11 @@ Indian  mythology  has  a  heaven  for  heroes,  and  that  of  Greece
 assigns  them  an  elysium  in  the  far  West,  on  the  happy  isles  of
 Okeanos ;  we  may  with  perfect  confidence  assert,  that  a  belief  in
 Walhalla  was  not  confined  to  our  North,  but  was  common  to  all
-Teutonic  nations.  A  '  vita  Idae '  in  Pertz  2,  571  uses  the  ex-
-pression 'coelorum  ijalatinae  secies,'  implying  that  a  court  is
+Teutonic  nations.  A  '  vita  Idae '  in  Pertz  2,  571  uses  the  expression 'coelorum  ijalatinae  secies,'  implying  that  a  court  is
 maintained  like  the  king's  palatium,  where  the  departed  dwell.
 Still  more  to  the  point  is  the  AS.  poet's  calling  heaven  a  shield-
 
-1  A  13th  cent,  poem,  to  be  presently  quoted,  has  already  an  unmistakable  refer-
-ence to  our  tale  of  the  ifpielmann  or  spielhansel  (Jack  player),  who  is  turned  out  of
+1  A  13th  cent,  poem,  to  be  presently  quoted,  has  already  an  unmistakable  reference to  our  tale  of  the  ifpielmann  or  spielhansel  (Jack  player),  who  is  turned  out  of
 heaven,  because  he  has  led  a  bad  life,  and  performed  no  deeds.
 
 
@@ -19121,8 +17955,7 @@ mit  edelem  gesteine.
 
 A  poem  of  the  13th  cent.  (Warnuug  2706 — 98)  declares  that
 the  kingdom  of  heaven  is  to  be  won  by  heroes  only,  who  have
-fought  and  bear  upon  chem  scars  fi'om  stress  of  war  (nach  ur-
-liuges  not),  not  by  a  useless  fiddler  :
+fought  and  bear  upon  chem  scars  fi'om  stress  of  war  (nach  urliuges  not),  not  by  a  useless  fiddler  :
 
 Die  herren  vermezzen
 
@@ -19148,8 +17981,7 @@ welt  ir  mit  guoten  knehten
 
 den  selben  gmach  niezen  (see  Suppl.).
 
-(There  men  high-mettled  to  repose  are  settled,  they  rest  ever-
-more from  ended  sore.  Barred  is  their  borough-gate ;  and  they
+(There  men  high-mettled  to  repose  are  settled,  they  rest  evermore from  ended  sore.  Barred  is  their  borough-gate ;  and  they
 without  must  wait  who  the  fight  ne'er  fought,  but  of  flight  took
 thought,  etc.)
 
@@ -19176,8 +18008,7 @@ the  high  seat  of  Allfather,  Su.  14.  A  house  by  the  side  of  it,
 built  for  goddesses,  bears  the  name  of  Vin-golf,  but  it  seems  also
 to  be  used  synonymously  with  Valholl,  as  one  poet  sings  :  '  vildac
 gla^r  i  Vingolf  fylgja  ok  me'S  einherjum  ol  drecka.'  Vingolf  is
-literally  amica  aula,  and  it  is  by  the  almost  identical  words  win-
-hurg,  winsele,  as  well  as  goldburg,  goldsele,  that  AS.  poets  name
+literally  amica  aula,  and  it  is  by  the  almost  identical  words  winhurg,  winsele,  as  well  as  goldburg,  goldsele,  that  AS.  poets  name
 the  place  where  a  king  and  his  heroes  drink  (Pref.  to  Andr.  and
 El.  xxxvii.-viii.).  Gla'Ssheimr  or  glaSheimr  may  mean  either
 glad,  or  bright,  home;  even  now  it  is  common  to  call  heaven  a
@@ -19231,8 +18062,7 @@ are  translated  irapdheiao';  in  the  LXX,  whence  'paradisus  in  the
 Vulg. ;  this  is  said  to  be  a  Persian  word,  originally  denoting
 garden  or  park,  which  is  confirmed  by  the  Armenian  bardez
 (hortus).  The  only  passage  we  have  the  advantage  of  consulting
-in  Ulph.,  2  Cor.  12,  4,  has  vaggs,  the  OHG.  tvanc  (campus  amoe-
-nus,  hortus).  Oar  OHG.  translators  either  retsbin paradisi,  Fragm.
+in  Ulph.,  2  Cor.  12,  4,  has  vaggs,  the  OHG.  tvanc  (campus  amoenus,  hortus).  Oar  OHG.  translators  either  retsbin paradisi,  Fragm.
 theot.  41,  21,  or  use  wunnigarto,  Gl.  Jun.  189.  217.  Hymn  21,
 6.  wunnogarto,  N.  ps.  37,  5;  conf.  *  thaz  wimnisama  fold,'  0.  ii.
 6,  n.  'after  pai'adises  ivunnen./  Diut.  3,  51.  MHG.  'der  wunne
@@ -19249,8 +18079,7 @@ may  be  compared  to  Goth,  vaggs,  OS.  Jieben-wang,  Hel.  28,  21.
 is  never  called  norna-vangr  in  ON.  poems.  Beside  hebenwang,
 the  OS.  poet  uses  odas-hem  96,  20  and  tlp-odas-hem  28,  20.
 85,  21,  domus  beatitudinis,  the  'hem'  reminding  us  of  heimr  in
-gla^sheimr,  as  the  '  garto '  in  wunnigarto  does  of  asgarSr.  Up-
-odashem  is  formed  like  uphimil,  and  equally  heathen.  All  the
+gla^sheimr,  as  the  '  garto '  in  wunnigarto  does  of  asgarSr.  Upodashem  is  formed  like  uphimil,  and  equally  heathen.  All  the
 Slavs  call  paradise  rai,  Serv.  raj,  Pol.  ray.  Boh.  rag,  to  which
 add  Lith.  rojiis,  sometimes  called  rojaus  sodas  (garden  of  par.),
 or  simply  darzas  (garden).  Rai  as  a  contraction  of  paradise
@@ -19291,16 +18120,12 @@ will  rue  such  journey,  to  him  is  eke  denied  that  mead,  etc.  Floris
 '  io  sal  varen  int  ghehloide  velt,  daer  Blancefloeren  siele  jeghen  die
 mine  gadert,  ende  leset  bloemekine.'  The  French  Flores  in  the
 corresponding  passages  has  camjo  flori  (Altd.  bl.  1,  373),^  iu
-Bekker's  ed.  of  Flore  786.  931.  1026.  But  our  older  poets,  pro-
-bably  even  those  of  heathen  times,  imagined  heaven,  like  the
+Bekker's  ed.  of  Flore  786.  931.  1026.  But  our  older  poets,  probably  even  those  of  heathen  times,  imagined  heaven,  like  the
 earth,  as  a  green  j)lain  :  '  teglidid  groni  wang  '  (the  earth),  Hel.
-131,  1 ;  'himilriki,  groni  Godes  wang  '  94,  24.  'groni  wang  para-
-dise gelic '  96,  15.  '  the  groneo  wang '  23,  4  is  said  of  Egypt,
-Ceedm,  32,  29  :  *  brade  sind  on  worulde  grene  geardas.'  Hako-
-narmal  13  :  '  ri'Sa  ver  nu  sculom  groena  heinia  gcSa,'  i.e.  to  heaven.
+131,  1 ;  'himilriki,  groni  Godes  wang  '  94,  24.  'groni  wang  paradise gelic '  96,  15.  '  the  groneo  wang '  23,  4  is  said  of  Egypt,
+Ceedm,  32,  29  :  *  brade  sind  on  worulde  grene  geardas.'  Hakonarmal  13  :  '  ri'Sa  ver  nu  sculom  groena  heinia  gcSa,'  i.e.  to  heaven.
 In  many  parts  of  Germany  jparadis  and  goldne  aue  are  names  of
-places  to  this  day.  So  viretum  in  Virgil  has  the  sense  of  para-
-dise, Aen.  6,  638 :
+places  to  this  day.  So  viretum  in  Virgil  has  the  sense  of  paradise, Aen.  6,  638 :
 
 Devenere  locos  laetos  et  amoena  vireta
 fortunatorum  nemorum  sedesque  beatas.
@@ -19319,13 +18144,10 @@ ELYSIUM.  823
 garS,  to  the  renovated  realm  of  the  future  a  vanished  golden  age
 that  flowed  with  milk  and  honey  (see  Suppl.).^
 
-The  younger  heaven  has  in  the  Edda  another  name,  one  pecu-
-liar to  itself,  and  occurring  only  in  the  dative  '  a  giniU,'  S^m.
+The  younger  heaven  has  in  the  Edda  another  name,  one  peculiar to  itself,  and  occurring  only  in  the  dative  '  a  giniU,'  S^m.
 10.''  Sn.  4,  75  [but  21  gimli  as  nom.?],  for  which  I  propose  a
 nom.  gimill  (not  gimlir)  standing  for  himill,  a  form  otherwise
-wanting  in  ON.,  and  =  OHG.  OS.  himil  by  the  same  consonant-
-change  as  Gymir  for  Hymir ;  and  this  is  confirmed  by  the  juxta-
-position '  a  gimli,  a  himni,'  Su.  75.  Now  this  Gimill  is  clearly
+wanting  in  ON.,  and  =  OHG.  OS.  himil  by  the  same  consonantchange  as  Gymir  for  Hymir ;  and  this  is  confirmed  by  the  juxtaposition '  a  gimli,  a  himni,'  Su.  75.  Now  this  Gimill  is  clearly
 distinct  from  the  Odinic  Yalholl :  it  does  not  make  its  appearance
 till  ragnarokr  has  set  in  and  the  ases  have  fallen  in  fight  with  the
 sons  of  muspell.  Then  it  is  that  a  portion  of  the  ases  appear  to
@@ -19367,12 +18189,10 @@ VOL.    II.  C    C
 824  TIME   AND  WOELD.
 
 Again,  as  Valholl  had  only  received  men  wlio  died  by  weapons
-(vapn-dau'Sa  vera),  whilst  other  dead  men  were  gathered  in  Folk-
-vangr  with  Freyja  (p.  304),  and  virgins  with  Gefjon  (Sn.  36) ;
+(vapn-dau'Sa  vera),  whilst  other  dead  men  were  gathered  in  Folkvangr  with  Freyja  (p.  304),  and  virgins  with  Gefjon  (Sn.  36) ;
 from  this  time  forward  Gimill  takes  in  without  distinction  all  the
 just,  the  good,  and  Hel  all  the  bad,  the  criminal ;  whereas  the
-former  Hel,  as  a  contrast  to  Valholl,  used  to  harbour  all  the  resi-
-due of  men  who  had  not  fallen  in  fight,  without  its  being  implied
+former  Hel,  as  a  contrast  to  Valholl,  used  to  harbour  all  the  residue of  men  who  had  not  fallen  in  fight,  without  its  being  implied
 that  they  were  sinners  deserving  punishment.
 
 The  most  difficult  point  to  determine  is,  how  matters  exactly
@@ -19387,8 +18207,7 @@ of  light,  under  whose  rule,  as  opposed  to  that  of  O'Sinn,  the  new
 and  universal  empire  stands.     He  takes  him  to  be  that  migldier
 one   from  whose  power  in  the   first   creation  days   the  warmth
 proceeded  (p.  562),  the  strong  (oflugr)  or  rich  one  revealed  by  the
-vala,  who  shall  direct  all  things  (sa  er  ollu  rae'Sr,  Ssem.  10^),  like-
-wise the  mighty  one  foreseen  by  Hyndla,  whose  name  she  dare
+vala,  who  shall  direct  all  things  (sa  er  ollu  rae'Sr,  Ssem.  10^),  likewise the  mighty  one  foreseen  by  Hyndla,  whose  name  she  dare
 not  pronounce  (|?a  kemr  annar  enn  mattkari,  ]'6  |?ori  ec  eigi  J>ann
 at  nefna.  Seem.  119*)  ;  conf.  the  strengra  of  the  AS.  homily   (p.
 812).     But  why  should  she  have  shrunk  from  naming  Surtr,  of
@@ -19452,8 +18271,7 @@ two  names  are  next  door  to  each  other,  as  Lat.  animus  and
 anima,  Slav,  dulih  and  dusha}
 
 And  this  intimate  connexion  may  be  recognised  in  the  myths
-too.  The  soul  freed  from  the  fetters  of  the  body  is  made  to  re-
-semble those  airy  spirit  forms  of  chap.  XVII  (conf.  pp.  439.
+too.  The  soul  freed  from  the  fetters  of  the  body  is  made  to  resemble those  airy  spirit  forms  of  chap.  XVII  (conf.  pp.  439.
 630).  It  hovers  with  the  same  buoyancy,  appears  and  vanishes,
 often  it  assumes  some  definite  shape  in  which  it  is  condemned
 to  linger  for  a  time  (see  SuppL).
@@ -19476,8 +18294,6 @@ heathens,  a  white  flower  by  the  heads  of  fallen  christians,  Karl
 1  Where  soul  stands  for  life,  vitality,  a  neuter  -word  is  used,  OHG.  ferah,  MHG.
 verch,  AS.  feorli,  ON.  fior  ;  but  we  saw  (p.  793),  bow  from  vita  and  /3ios  there  arose
 the  sum  total  of  all  that  lives,  the  world,  Goth,  falrhvus.
-
-826
 
 
 THE    SOUL   A  FLOWEE.  827
@@ -19514,11 +18330,9 @@ immediate  instantaneous  passage  of  the  soul  into  the  shape  of  a
 flower,  for  out  of  mere  drops  of  blood,  containing  but  a  small
 part  of  the  life,  a  flower  is  made  to  spring  :  the  soul  has  her  seat
 in  the  blood,  and  as  that  ebbs  away,  she  escapes  with  it.  Greek
-fables  tell  us  how  the  bodies  of  the  persecuted  and  slain,  espe-
-cially women,  assumed  forthwith  the  figure  of  a  flower,  a  bush,  a
+fables  tell  us  how  the  bodies  of  the  persecuted  and  slain,  especially women,  assumed  forthwith  the  figure  of  a  flower,  a  bush,  a
 tree  (p.  653),  without  leaving  any  matter  behind  to  decay  or  be
-burnt ;  nay,  life  and  even  speech  may  last  while  the  transforma-
-tion is  taking  place.  Thus  Daphne  and  Syrin:t,  when  they
+burnt ;  nay,  life  and  even  speech  may  last  while  the  transformation is  taking  place.  Thus  Daphne  and  Syrin:t,  when  they
 cannot  elude  the  pursuit  of  Apollo  or  Pan,  change  themselves
 into  a  laurel  and  a  reed;  the  nymph  undergoing  transformation
 speaks  on  so  long  as  the  encrusting  bark  has  not  crept  up  to
@@ -19539,10 +18353,8 @@ transformation,  conf.  Kinderm.  no.  160  (see  Suppl.).
 In  the  same  way  popular  imagination,  childlike,  pictures  the
 soul  as  a  bird,  which  comes  flying  out  of  the  dying  person's
 mouth.  That  is  why  old  tombstones  often  have  doves  carved  on
-them,  and  these  the  christian  faith  brings  into  still  closer  prox-
-imity to  spirit.^  A  ship  founders :  the  people  on  shore  observe
-the  souls  of  those  who  have  sunk  ascending  from  the  wave  to-
-ward heaven  in  the  shape  of  white  doves."  The  Romance  legend
+them,  and  these  the  christian  faith  brings  into  still  closer  proximity to  spirit.^  A  ship  founders :  the  people  on  shore  observe
+the  souls  of  those  who  have  sunk  ascending  from  the  wave  toward heaven  in  the  shape  of  white  doves."  The  Romance  legend
 of  the  tortured  Eulalia  says:  'in  figure  de  colomh  volat  a  ciel.''  As
 a  hinl  the  little  brother,  Avhen  killed,  flies  out  of  the  juniper-tree
 (machandelbom,  Kinderm.  47).  To  the  enigma  of  the  green  tree
@@ -19553,8 +18365,7 @@ there  fly  scorched  birds  who  were  souls  (svrSnir  fuglar  er  salir
 voro),  like  swarms  of  flies,  Sgem.  127*.  The  heathen  Bohemians
 thought  the  soul  came  out  of  the  dying  lips  as  a  bird,  and  hovered
 among  the  trees,  not  knowing  where  to  go  till  the  body  was
-buried ;  then  it  found  rest.  Finns  and  Lithuanians  call  the  Milky-
-way  the  j9tt^/t  of  birds  (p.  357n.),  i.e.  of  souls.
+buried ;  then  it  found  rest.  Finns  and  Lithuanians  call  the  Milkyway  the  j9tt^/t  of  birds  (p.  357n.),  i.e.  of  souls.
 
 The  Arabs  till  the  time  of  Mahomet  believed  that  the  blood  of
 a  murdered  man  turns  into  an  accusing  bird,  that  flits  about  the
@@ -19564,15 +18375,13 @@ According  to  a  Polish  folk-tale  every  member  of  the  Herburt
 family  turns  into  an  eagle  as  soon  as  he  dies.  The  first-boru
 daughters  of  the  house  of  Pileck  were  changed  into  doves  if  they
 died  unmarried,  but  the  married  ones  into  owls,  and  to  each
-member  of  the  family  they  foretold  his  death  by  their  bite  (Woy-
-cicki^s  Klechdy  1,  16).  When  the  robber  Madej  was  confessing
+member  of  the  family  they  foretold  his  death  by  their  bite  (Woycicki^s  Klechdy  1,  16).  When  the  robber  Madej  was  confessing
 under  an  appletree,  and  getting  quit  of  his  sins,  apple  after  apple
 flew  up  into  the  air,  converted  into  a  white  dove  :  they  were  the
 souls  of  those  he  had  murdered.     One  apple  still   remained,  the
 
 '  Servati  Lupi  vita  S.  Wigberhti,  cap.  11 :  Verum  hora  exitus  ejus  .  .  .
-circumstantibus  fratribus,  visa  est  avis  quaedam  specie  pulcherrima  supra  ejus  cor-
-pusculum  ter  ailvolasse,  nusquamque  jiostea  comparuisse.  Not  so  much  the  soul
+circumstantibus  fratribus,  visa  est  avis  quaedam  specie  pulcherrima  supra  ejus  corpusculum  ter  ailvolasse,  nusquamque  jiostea  comparuisse.  Not  so  much  the  soul
 itself,  as  a  sj^irit  who  escorts  it.
 
 "  Maerlant  2,  217,  from  a  Latin  source.
@@ -19583,8 +18392,7 @@ THE    SOUL   A  BIRD.      MEADOW.  829~
 soul  of  his  father,  whose  murder  he  had  suppressed ;  when  at
 length  he  owned  that  heinous  crime,  the  last  apple  changed  into
 a  gray  dove,  and  flew  after  the  rest  (ibid.  1,  180).  This  agrees
-with  the  unresting  birds  of  the  Boh.  legend.  In  a  Podolian  folk-
-song, on  the  grave-mound  there  shoots  up  a  little  oak,  and  on  it
+with  the  unresting  birds  of  the  Boh.  legend.  In  a  Podolian  folksong, on  the  grave-mound  there  shoots  up  a  little  oak,  and  on  it
 sits  a  snow-white  dove  (ibid.  1,  209). ^
 
 Instances  of  transformation  inDO  hirds  were  given  above,
@@ -19592,8 +18400,7 @@ Instances  of  transformation  inDO  hirds  were  given  above,
 has  plenty  of  others  (see  Suppl.).
 
 The  popular  opinion  of  Greece  also  regarded  the  soul  as  a
-winged  being  ("v/^f^^  irvevijua  ical  ^Q}U(f)iov  ttttjvov  "  says  Hesy-
-chius),  not  bird,  but  butterfiy,  which  is  even  more  apt,  for  the
+winged  being  ("v/^f^^  irvevijua  ical  ^Q}U(f)iov  ttttjvov  "  says  Hesychius),  not  bird,  but  butterfiy,  which  is  even  more  apt,  for  the
 insect  is  developed  out  of  the  chrysalis,  as  the  soul  is  out  of  the
 body;  hence  "^vxij  is  also  the  word  for  butterfly.  A  Roman
 epitaph  found  in  Spain  has  the  words  :  M.  Porcius  M.  haeredibus
@@ -19606,10 +18413,7 @@ Witches  as  elvish  beings  (see  Suppl.).
 When  men  are  in  a  trance,  or  asleep,  the  soul  runs  out  of  them
 in  the  shape  of  a  snake,weasel  or  mouse  (chap.  XXXIV  and  Suppl.) ,
 
-Of  will  o'  the  luisps  a  subsequent  chapter  will  treat ;  synony-
-mous with  them  I  find  wiesenhilpfer ,  iciesenhupferin,  meadow-
-hopper,  e.g.  in  the  Magdelob  (printed  1683)  p.  46;  its  explana-
-tion, from  their  dancing  on  marshy  meadows,  is  right  enough,
+Of  will  o'  the  luisps  a  subsequent  chapter  will  treat ;  synonymous with  them  I  find  wiesenhilpfer ,  iciesenhupferin,  meadowhopper,  e.g.  in  the  Magdelob  (printed  1683)  p.  46;  its  explanation, from  their  dancing  on  marshy  meadows,  is  right  enough,
 but  perhaps  too  limited.  Hans  Sachs  is  not  thinkiug  of  igues
 fatui,  when  he  more  than  once  employs  the  set  phrase  :  '  mit  im
 schirmen,  dass  die  seel  in  dein  gras  umhlmpfen,'  fence  with  him
@@ -19793,15 +18597,13 @@ iiirvov  p.€iJ,7ixav7]<xdai,  ttoXXous  de  Trepl  avTov  elvai  dalpiovas  or
 CEOSSING   THE   WATEE.  833
 
 whom  it  falls  on  any  night,  go  to  bed  at  dusk ;  at  midnight  they
-hear  a  knocking  at  their  door,  and  muffled  voices  calling.  Im-
-mediately they  rise,  go  to  the  shore,  and  there  see  empty  boats,
+hear  a  knocking  at  their  door,  and  muffled  voices  calling.  Immediately they  rise,  go  to  the  shore,  and  there  see  empty  boats,
 not  their  own  but  strange  ones,  they  go  on  board  and  seize  the
 oars.  When  the  boat  is  under  way,  they  perceive  that  she  is  laden
 choke-full,  with  her  gunwales  hardly  a  finger's  breadth  above
 water.  Yet  they  see  no  one,  and  in  an  hour's  time  they  touch
 land,  which  one  of  their  own  craft  would  take  a  day  and  a  night
-to  do.  Arrived  at  Brittia,  the  boat  speedily  unloads,  and  be-
-comes so  light  that  she  only  dips  her  keel  in  the  wave.  Neither
+to  do.  Arrived  at  Brittia,  the  boat  speedily  unloads,  and  becomes so  light  that  she  only  dips  her  keel  in  the  wave.  Neither
 on  the  voyage  nor  at  landing  do  they  see  any  one,  but  they  hear
 a  voice  loudly  asking  each  one  his  name  and  country.  Women
 that  have  crossed  give  their  husbands'  names.
@@ -19820,8 +18622,7 @@ of  the  Gallic  coast,  I  leave  undetermined.  Villemarque  (Barzas
 breiz  1,  136)  places  it  near  Raz,  at  the  farthest  point  of  Armorica,
 where  we  find  a  bay  of  souls  (bale  des  ames,  boe  ann  anavo).
 On  the  R.  Treguier  in  Bretagne,  commune  Plouguel,  it  is  said
-to  be  the  custom  to  this  day,  to  convey  the  dead  to  the  church-
-yard in  a  boat,  over  a  small  arm  of  the  sea  called  passage  tie
+to  be  the  custom  to  this  day,  to  convey  the  dead  to  the  churchyard in  a  boat,  over  a  small  arm  of  the  sea  called  passage  tie
 Z'e;i/«?r,  instead  of  taking  the  shorter  way  by  land;  besides,  the
 people  all  over  Armorica  believe  that  souls  at  the  moment  of
 parting  repair  to  the  parson  of  Braspar,  whose  dog  escorts  them
@@ -19847,8 +18648,7 @@ Flanders  and  Friesland.  Here  I  am  reminded  once  more  of  old
 Helium  and  Hel-voet,  pp.  315  n.  804.
 
 Procopius's  account  is  re-affirmed  by  Tzetzes  (to  Lycoph.  1204)
-in  the  12th  century;  but  long  before  that,  Claudian  at  the  be-
-ginning of  the  5th  (in  Eufinum  1,  123 — 133)  had  heard  of  those
+in  the  12th  century;  but  long  before  that,  Claudian  at  the  beginning of  the  5th  (in  Eufinum  1,  123 — 133)  had  heard  of  those
 Gallic  shores  as  a  trysting-place  of  flitting  ghosts  :
 
 Est  locus,  extremum  qua  pandit  Gallia  littus,
@@ -19866,8 +18666,7 @@ sail  over  the  pool  of  dread  and  of  dead  hones,  across  the  vale  of
 death,  into  the  sea  on  whose  shore  stands  open  the  mouth  of
 hell's  abyss^  (see  SuppL).  A  North  English  song,  that  used  to
 be  sung  at  lyke wakes,  names  '  the  bridge  of  dread,  no  brader
-than  a  thread,'  over  which  the  soul  has  to  pass  in  the  under-
-world (J.  Thoms^  Anecd.  and  trad.  pp.  89.  90).  The  same
+than  a  thread,'  over  which  the  soul  has  to  pass  in  the  underworld (J.  Thoms^  Anecd.  and  trad.  pp.  89.  90).  The  same
 bridge  is  mentioned  in  the  legend  of  Tundalus  (Hahn's  ed.  pp.
 49.  50)  :  the  soul  must  drive  a  stolen  cow  over  it.^
 
@@ -19898,14 +18697,12 @@ the  soft  patter  of  the  dwarfs'  feet  on  the  bridge  when  quitting  the
 country,  as  also  their  ferrying  over  by  night  (pp.  275.  459)  ;  and
 the  affinity  of  souls  with  elvish  beings  comes  out  very  plainly.
 When  the  dwarfs  moved  out  of  Voigtland,  they  were  a  ivhole
-night  crossing  the  Elster  (Jul.  Schmidt  p.  143-8).  At  their  de-
-parture from  the  Harz,  it  was  agreed  that  they  should  pass  over
+night  crossing  the  Elster  (Jul.  Schmidt  p.  143-8).  At  their  departure from  the  Harz,  it  was  agreed  that  they  should  pass  over
 a  narrow  bridge  at  Neuhof,  each  dropping  his  toll-money  in  a
 vessel  fixed  upon  it,  but  none  of  the  country  folk  were  to  be
 present.  Prying  people  hid  under  the  bridge,  and  heard  for
 hours  their  pit-a-pat,  as  though  a  flock  of  sheep  were  going  over
-(Dent,  sagen  no.  152-3).  The  bridge-toll  brings  to  mind  Vae  ferry-
-money  of  souls.  With  all  this  compare  the  story  of  the  elf  making
+(Dent,  sagen  no.  152-3).  The  bridge-toll  brings  to  mind  Vae  ferrymoney  of  souls.  With  all  this  compare  the  story  of  the  elf  making
 his  passage  in  a  boat  by  night  (D.S.  no.  80).  Then  again  ^the
 bridge  of  dread  no  brader  than  a  thread'  is  a  kindred  notion,
 which  moreover  connects  itself  with  the  iron  sword- bridsre
@@ -19923,8 +18720,7 @@ journey,  and  tied  on  their  feet.  The  Gisla  Surssonarsaga  says :
 til  Valhallar,  ok  mun  ek  Vesteini  ]'at  giora'  (conf.  Miiller's
 Sagabibl.  1,  171).  Sir  W.  Scott  in  Minstr.  2,  357  quotes  a
 Yorkshire  superstition  :  '  They  are  of  beliefe,  that  once  in  their
-lives  it  is  good  to  give  a  pair  of  new  shoes  to  a  poor  man,  foras-
-much as  after  this  life  they  are  to  pass  barefoote  through  a  great
+lives  it  is  good  to  give  a  pair  of  new  shoes  to  a  poor  man,  forasmuch as  after  this  life  they  are  to  pass  barefoote  through  a  great
 launde  fall  of  thornes  and  furzen,  except  by  the  mei'yte  of  the
 almes  aforesaid  they  have  redeemed  the  forfeyte ;  for  at  the  edge
 of  the  launde  an  oulde  man  shall  meet  them  with  the  same  shoes
@@ -19935,8 +18731,7 @@ that  were  given  by  the  partie  when  he  was  lyving,  and  after  he
 
 liatli  slioclde  them,  dismissetli  them  to  go  through  thick  and  thin,
 without  scratch  or  scalle.'  The  land  to  be  traversed  by  the  soul
-is  also  called  ivJiinny  moor,  i.e.  furzy  bog  (Thorns  89).  In  Henne-
-berg,  and  perhaps  other  places,  the  last  honours  paid  to  the  dead
+is  also  called  ivJiinny  moor,  i.e.  furzy  bog  (Thorns  89).  In  Henneberg,  and  perhaps  other  places,  the  last  honours  paid  to  the  dead
 are  still  named  todtenschuh  (Reinwald  1,  165),  though  the  practice
 itself  is  discontinued;  even  the  funeral  feast  is  so  denominated.
 Utterly  pagan  in  character,  and  suited  to  the  warlike  temper  of
@@ -20028,8 +18823,7 @@ hiute  gecondwieret  si.  Gute  frau  2674  ;
 
 Michael  having  taken  upon  him  the  office  of  Mercury  or  the
 Walchure.  A  record  of  the  13th  cent.  (MB.  7,  371)  calls  him
-'  praepositus  paradisi  et  princeps  animarum.'  A  still  more  im-
-portant passage,  already  noticed  at  p.  446,  occurs  in  Morolt  28*-^,
+'  praepositus  paradisi  et  princeps  animarum.'  A  still  more  important passage,  already  noticed  at  p.  446,  occurs  in  Morolt  28*-^,
 where  three  troops  are  introduced,  the  black,  ivliite  and  pale  :
 '  den  strit  mahtu  gerne  schouwen,  dens  ttmb  die  sele  suln  han.''
 For  similar  descriptions  in  the  elder  French  poets,  conf.  Meon  1,
@@ -20053,8 +18847,7 @@ of  archangel  Michael  and  the  devils  striving  for  the  body  of
 Moses/  and  the  champion  Michael  at  all  events  seems  borrowed
 thence.  But  jealousy  and  strife  over  the  partition  of  souls  may
 be  supposed  an  idea  already  present  to  the  heathen  mind,  as  the
-Norse  OSinn,  Thorr  and  Freyja  appropriated  their  several  por-
-tions of  the  slain.  At  pp.  60  and  305  we  identified  Freyja  with
+Norse  OSinn,  Thorr  and  Freyja  appropriated  their  several  portions of  the  slain.  At  pp.  60  and  305  we  identified  Freyja  with
 Gertrude  :  '  some  say  the  soul,  on  quitting  the  body,  is  the  first
 night  with  St.  Gerdraut,  the  next  with  St.  Michael,  the  third  in
 such  place  as  it  has  earned/  Superst.  F,  24.  Now  as  Antichrist
@@ -20103,8 +18896,7 @@ bote  (messenger)  unsers  herren  Gotis  zu  ture  clopfe  (may  knock
 at  the  door).  Welich  ist  der  bote  ?  daz  ist  der  Tot  (death)' ;  and
 161:  'nu  quam  ouch  der  gemeine  bote  (general  messenger),  der
 nieman  ledic  lat  (lets  alone),  wie  lange  im  maniger  vorgat,  daz  ist
-der  gewisse  tot.'  'Do  der  Tot  im  sin  zuokunft  enbot  (an-
-nounced), so  daz  er  in  geleite,'  he  might  escort  him,  Greg.  20.
+der  gewisse  tot.'  'Do  der  Tot  im  sin  zuokunft  enbot  (announced), so  daz  er  in  geleite,'  he  might  escort  him,  Greg.  20.
 
 There  is  no  substantial  difference  between  this  and  the  older
 heathen  view.  Haija,  Hel,  the  death-goddess,  does  not  destroy,
@@ -20113,8 +18905,7 @@ give  him  up.     To  kill  a  man  is  called  sending  him  to  her.     Hel
 
 1  It  is  a  beautiful  image,  that  the  dying  return  to  God's  howm,  children  to  that
 of  their  father,  whence  they  had  issued  at  birth.  But  the  same  thing  was  known  to
-our  heathenism,  which  called  newborn  and  adopted  children  '  bosom-children,  wish-
-children,'  RA.  455.  464,  and  interpreted  di/ing  as  departing  to  Wuotan.  to  Wish  (p.
+our  heathenism,  which  called  newborn  and  adopted  children  '  bosom-children,  wishchildren,'  RA.  455.  464,  and  interpreted  di/ing  as  departing  to  Wuotan.  to  Wish  (p.
 145).  To  heathens  then,  as  well  as  christians,  to  die  was  to  fare  to  God,  to  enter
 into  God's  rest  and  peace,  '  Metod  seon,'  Beow.  2360,  '  feran  on  Frean  wrere,'  the
 Lord's  peace  52.  So,  to  bo  buried  is  to  fall  into  the  mother's  bosom  (p.  642) ;  mother
@@ -20127,8 +18918,7 @@ TOL.    II.  «39  jj    jj
 
 neither  comes  to  fetch  the  souls  fallen  due  to  her/  nor  sends
 messengers  after  them.  The  dead  are  left  alone  to  commence
-the  long  and  gloomy  journey ;  shoes,  ship  and  ferry-money,  ser-
-vants, horses,  clothes,  they  take  with  them  from  home  for  the
+the  long  and  gloomy  journey ;  shoes,  ship  and  ferry-money,  servants, horses,  clothes,  they  take  with  them  from  home  for  the
 hell-way.  Some  ride,  others  sail,  whole  companies  of  souls  troop
 together :  no  conductor  comes  to  meet  them.
 
@@ -20145,8 +18935,7 @@ fight,  and  conduct  them  to  his  heaven  (p.  418)  :  wish-maidens
 fetch  his  wish-sons,  '  j^aar  hlosa  feig^  a  menn,'  Sn.  39.  Their
 attendance  and  the  heroes^  reception  are  splendidly  set  forth  in
 the  Hakonarmal.  But  these  messengers  also  take  charge  of  heroes
-while  alive,  and  protect  them  until  death :  they  are  guardian-
-angels  and  death-angels.  How  beautiful,  that  the  gracious  god,
+while  alive,  and  protect  them  until  death :  they  are  guardianangels  and  death-angels.  How  beautiful,  that  the  gracious  god,
 before  he  summons  them,  has  provided  his  elect  with  an  attendant
 spirit  to  glorify  their  earthly  path  !
 
@@ -20155,8 +18944,7 @@ wielder  of  the  wishing-rod  (p.  419)  and  conductor  of  souls  to
 the  underworld,  •\|ri;^a7&>709,  -v^u^^oTro/iTro?,  ve/cpoTro/^TTo?.  These
 maids  are  Odin's  messengers,  as  Hermes  is  herald  of  the  gods,
 nay  Hermes  is  O&inn  himself,  to  whom  the  souls  belong.  Thus
-^the  god's  relation  to  the  dead  is  an  additional  proof  of  the  iden-
-tity between  Wuotan  and  Mercury.  A  distinction  appears  in  the
+^the  god's  relation  to  the  dead  is  an  additional  proof  of  the  identity between  Wuotan  and  Mercury.  A  distinction  appears  in  the
 fact  that  Hermes,  like  the  Etruscan  Charun  (0.  Miiller  2,  100),
 conducts  to  Hades,  but  not,  as  far  as  I  know,  to  Elysium  ;  valkyrs,
 on  the  contrary,  to  Valholl,  and  not  to  Hel.  Further,  the  function
@@ -20166,8 +18954,7 @@ This  idea  of  a  protecting  spirit  finds  expression  more  in  the
 personified  Thanatos  (death)  of  the  Greek  people's  faith.  He  is
 pictured  as  a  genius,  with  hand  on  cheek  in  deep  thought,  or
 
-1  It  is  only  in  a  dream-vision  that  she  appears  :  '  postera  nocte  eidem  Proser-
-pina per  quietem  adstare  aspecta  postridie  ejus  complexu  u^uram  denuuciat.  nee
+1  It  is  only  in  a  dream-vision  that  she  appears  :  '  postera  nocte  eidem  Proserpina per  quietem  adstare  aspecta  postridie  ejus  complexu  u^uram  denuuciat.  nee
 inane  somnii  praesagium  fuit.'     Saxo  Gram.  p.  43.
 
 
@@ -20183,8 +18970,7 @@ which  a  genius  leads :  an  open  door  betokens  the  departure,  as  we
 still  throw  open  a  door  or  window  when  any  one  dies  (Superst.  I,
 664).  As  a  symbol,  the  door  alone,  the  horse's  head  alone,  may
 express  the  removal  of  the  soul.^  The  Eoman  genius  of  death
-seems  to  announce  his  approach  or  the  hour  of  parting  by  hnock-
-ing  at  the  door ;  ^  a  knocking  and  poking  at  night  is  ghostly  and
+seems  to  announce  his  approach  or  the  hour  of  parting  by  hnocking  at  the  door ;  ^  a  knocking  and  poking  at  night  is  ghostly  and
 ominous  of  death  (see  Suppl.).
 
 Roman  works  of  art  never  give  Death  the  shape  of  a  female
@@ -20192,8 +18978,7 @@ like  Halja,  though  we  should  have  expected  it  fi-om  the  gender
 of  mors,  and  originally  the  people  can  scarcely  have  conceived  it
 otherwise ;  the  Slavic  snirt,  smert  (the  same  word)  is  invariably
 fem.,  the  Lith.  smertis  is  of  either  gender,  the  Lett,  nahive  fem.
-alone.  And  the  Slav.  Morena,  Marana  (Morena,  Marzana),  de-
-scribed p.  771,  seems  to  border  closely  on  smrt  and  mors.
+alone.  And  the  Slav.  Morena,  Marana  (Morena,  Marzana),  described p.  771,  seems  to  border  closely  on  smrt  and  mors.
 
 These  words  find  an  echo  in  Teutonic  ones.  Schmerz,  smart,  we
 now  have  only  in  the  sense  of  pain,  originally  it  must  have  been
@@ -20213,8 +18998,7 @@ fallen  to  himself,  that  the  soul  flew  away  to  Hades,  for  it  is  said
 Boeckh's  Corp.  inscr.  no.  800.  Marm.  Oxon.  p.  2,  no.  63-7.  R.  Rochette's
 Monum.  incd.  1,  126.     Pausan.  vii.  25,  7.     Gerhard's  Antike  bildw.  p.  407.
 
-•^  Hor.  Od.  i.  4,  13  :  pallida  iiwrs  aequo  pulsat  pede  pauperum  tabernas  regum-
-que  turres.
+•^  Hor.  Od.  i.  4,  13  :  pallida  iiwrs  aequo  pulsat  pede  pauperum  tabernas  regumque  turres.
 
 ■•  Constant  use  will  soften  down  the  meaning  of  the  harshest  terms  ;  we  had
 an  instance  in  the  Fr.  gene,  p.  800n.
@@ -20235,8 +19019,7 @@ The  ON.  dau'Si  I  find  used  only  of  the  condition,  not  of  the
 person,  while  the  Goth,  ddupus  does  express  the  latter  in  1  Cor.
 15,  55  (see  Suppl.).
 
-To  this  affinity  of  words  corresponds  a  similarity  of  senti-
-ments. The  most  prominent  of  these  in  our  old  poets  seem  to
+To  this  affinity  of  words  corresponds  a  similarity  of  sentiments. The  most  prominent  of  these  in  our  old  poets  seem  to
 be  the  following.
 
 As  all  spirits  appear  suddenly}  so  does  Death;  no  sooner
@@ -20264,8 +19047,7 @@ and  Thanatos.  To  wish  for  death  is  also  called  seehing  Death,^
 sending  for  Death,  having  him  fetched  :  '  ja  weenet  des  der  degen,
 
 
-^  Supra  p.  325.  Eeinhart  p.  liii.  cxxx. ;  like  Night,  Winter,  and  the  Judgment-
-day,  Death  '  breaks  in.'
+^  Supra  p.  325.  Eeinhart  p.  liii.  cxxx. ;  like  Night,  Winter,  and  the  Judgmentday,  Death  '  breaks  in.'
 
 ^  So  beasts  of  prey  are  invited,  Er.  5832  :  '  loa  ml  hungerigiu  tier,  bede  wolf
 und  ber,  iwer  einez  (one  of  you)  knme  her  und  ezze  uns  beide  !'
@@ -20303,11 +19085,9 @@ er  wil  dem  menschen  schaden  und  in  lieim  ze  kits  laden  (entice),'
 Tiirh.  Wh.  2281.  'do  in  der  Tot  heun  nam  in  sin  gezimmer
 (building),'  '  braht  lieim  in  sin  gemiiire  (walls),'  Lohengr.  143.
 150.  These  are  deviations  from  the  original  idea,  which  did  not
-provide  him  with  a  dwelling  of  his  own  ;  or  is  he  here  an  equiva-
-lent for  Hel  ?
+provide  him  with  a  dwelling  of  his  own  ;  or  is  he  here  an  equivalent for  Hel  ?
 
-Probably,  like  all  messengers  (RA..  135),  like  Hermes  the  con-
-ductor of  souls,  he  carries  a  staff,  the  symbol  of  a  journey,  or
+Probably,  like  all  messengers  (RA..  135),  like  Hermes  the  conductor of  souls,  he  carries  a  staff,  the  symbol  of  a  journey,  or
 of  delegated  authority.  With  this  wand,  this  rod  (of  wish),  he
 touches  whatever  has  fallen  due  to  him  :  '  la  Mort  de  sa  verge  le
 toucha,'  Meon  4,  107.^
@@ -20331,8 +19111,7 @@ Siippl.).
 
 A  thoroughly  heathen  feature  it  is,  to  my  thinking,  that  he
 appears  mounted,  like  the  valkyrs  ;  on  horseback  he  fetches  away,
-he  sets  the  dead  on  his  own  horse.  In  a  folksong  of  wide  cir-
-culation the  lover,  dead  and  buried  far  away,  comes  at  midnight
+he  sets  the  dead  on  his  own  horse.  In  a  folksong  of  wide  circulation the  lover,  dead  and  buried  far  away,  comes  at  midnight
 and  rides  off  with  his  bride. ^  Possibly  that  horse's  head  at  p.
 841  stands  more  for  Death's  horse  than  for  the  dead  man's.  Both
 Hel  and  her  messenger,  like  other  gods,  had  doubtless  a  horse
@@ -20345,12 +19124,10 @@ Wuotan  (p.  154),  of  dame  Gaue  (p.  252) ;  the  Slavs  did  the  same
 for  their  Svantevit  and  Kadegast  (p.  661).  Of  one  who  blunders
 in  noisily  they  say,  in  Denmark  as  above  :  '  han  gaaer  som  en
 helhest/  he  goes  like  a  hel-horse,  Dansk  ordb.  2,  545^.  There
-are  more  things  told  of  this  hel-hest :  he  goes  round  the  church-
-yard on  his  three  legs,  he  fetches  Death.  One  folktale  has  it,
+are  more  things  told  of  this  hel-hest :  he  goes  round  the  churchyard on  his  three  legs,  he  fetches  Death.  One  folktale  has  it,
 that  in  every  churchyard,  before  it  receives  human  bodies,  a  live
 horse  is  buried,  and  this  is  what  becomes  the  walking  dead-horse
-(Thiele  1,  137);  originally  it  was  no  other  than  the  Death-
-goddess  riding  round.  Arnkiel  quotes  1,  55  the  Schleswig
+(Thiele  1,  137);  originally  it  was  no  other  than  the  Deathgoddess  riding  round.  Arnkiel  quotes  1,  55  the  Schleswig
 superstition,  that  in  time  of  plague  'die  Hell^  rides  about  on  a
 three-legged  horse,  destroying  men';  if  at  such  a  time  the  dogs
 bark  and  howl  in  the  night  (for  dogs  are  spirit- seers),  they  say
@@ -20442,8 +19219,7 @@ death  agony,  though  without  any  thought  of  a  personality.  In
 a  Mod.  Grk  song  a  daring  youth  tvrestles  with  Charos  on  smooth
 marble  from  morn  till  midday ;  at  the  hour  of  eve  Death  flings
 him  down.  In  another  case  Charos  takes  the  shape  of  a  black
-swalloiv,  and  shoots  his  arrow  into  a  maiden's  heart.^  A  doubt-
-ful passage  in  Beow.  3484  we  ought  perhaps  to  refer  to  Death,
+swalloiv,  and  shoots  his  arrow  into  a  maiden's  heart.^  A  doubtful passage  in  Beow.  3484  we  ought  perhaps  to  refer  to  Death,
 who  is  there  called  a  destroyer  that  shoots  with  arrow-bow  of
 fire:  'bona,  se  ]>e  o?  jidnboganfyremim  sceoteS;'  conf.  the  Serv.
 Icrvnik,  bloodshedder  p.  21.  Brun  von  Schonebeke  makes  Death
@@ -20499,10 +19275,8 @@ the  count  is  called  '  der  verlorne,  wand'  er  muose  im  ze  suone  (sat
 beide  sin  gesunt  und  sin  lebeu.'  So  Iw.  7161  speaks  of  having  to  '  f/elten  (pay)  vur
 des  Todes  schelten  '  ;  and  the  same  perhaps  is  meant  by  '  der  Tot  hat  uf  si  pesworn,'
 Nib.  2017,  5.  In  the  '  Ackermann  aus  Bohmen  '  on  the  contrary,  Death  is  the
-defendant,  and  a  man  whose  wife  he  has  carried  off  is  prosecutor.  Similar  law-
-suits are  brought  by  the  Devil.  '  Nu  kume  vil  grimmeclicher  Tot,  und  rihte
-Gote  von  uns  beidon  !  '  MS.  1,  17.  Observe  too  '  mit  des  Todes  haiitve>:h-  iiher-
-sigelet;  sealed  witJi  D.'s  sign  manual,  Wh.  391,  27.  The  Indian  god  of  death,
+defendant,  and  a  man  whose  wife  he  has  carried  off  is  prosecutor.  Similar  lawsuits are  brought  by  the  Devil.  '  Nu  kume  vil  grimmeclicher  Tot,  und  rihte
+Gote  von  uns  beidon  !  '  MS.  1,  17.  Observe  too  '  mit  des  Todes  haiitve>:h-  iihersigelet;  sealed  witJi  D.'s  sign  manual,  Wh.  391,  27.  The  Indian  god  of  death,
 Yama,  is  a  lord  of  law.
 
 •  Conf.  '  eiuem  des  Todes  muoder  (mieder)  sniden,'  Titur.  ;  to  cut  D's.  coat  on
@@ -20553,8 +19327,7 @@ among  men ;  '  do  der  Tot  sinen  samen  under  si  geseete,'  Wh.
 D.'s  furrow,  Ulr.  Trist.  3270,  simply  means:  he  planted  in  him
 a  mortal  wound  (see  Suppl.).
 
-Before  explaining  certain  other  conceptions,  I  have  to  enumer-
-ate the  names  and  epithets  of  Death  in  our  old  poetry.
+Before  explaining  certain  other  conceptions,  I  have  to  enumerate the  names  and  epithets  of  Death  in  our  old  poetry.
 
 >  Virg.  Aen.  6,  C44  :  pars  pedibus  plaudunt  choreas  et  carmina  dicunt.    TibuU.
 .  3,  59 :  hie  choreae  cantusque  vigeut.
@@ -20564,8 +19337,7 @@ HIS   DANCE.      A    SKELETON.  849
 
 Very  commonly  be  is  called  '  der  grimme,'  furious,  Roth.  2750.
 Nib.  1360,  4.  1553,  3.  Mar.  218.  Flore  1931.  Troj.  2317-25.
-10885.  Ls.  3,  124 ;  i— '  der  ferchgrimme,'  Morolt  4059,  a  febcit-
-ous  compound,  as  Death  has  designs  upon  the  life  or  soul  (ferch)  ;
+10885.  Ls.  3,  124 ;  i— '  der  ferchgrimme,'  Morolt  4059,  a  febcitous  compound,  as  Death  has  designs  upon  the  life  or  soul  (ferch)  ;
 —der  ^nmm>,' Eoth.  517.  Reinh.  3G0.  1248.  Berthold  303  ;
 — ^der  hittere'  {irLKpo^  6dvaro<i)  and  '  amara  Mors,"*  ^  Rudl.  1,
 110.  Unibos  117,  4.  Diut.  3,  89.  Mar.  206.  Alex.  (Lampr.)
@@ -20575,8 +19347,7 @@ Parz.  643,  24; — der  scharfe' :  ein  scharpher  bote,  Freid.  21,  6; —
 '  der  irre,'  Amgb.  29*  in  Wizlau  neighbhd.  therefore  prob.  for
 erre,  ireful; — 'der  gemeine'  common  (qui  omnes  manet),  En.
 2081.  All,  so  far,  epithets  taken  from  his  unavoidableness,
-cruelty,  bitterness ;  not  a  hint  about  his  personal  presence.  No-
-where is  he  the  black,  the  pale,  after  the  Latin  '  mors  a,tra,
+cruelty,  bitterness ;  not  a  hint  about  his  personal  presence.  Nowhere is  he  the  black,  the  pale,  after  the  Latin  '  mors  a,tra,
 pallida.'  Otto  II  was  called  '  iMllida  mors  Saracenorum,^  Cod.
 lauresh.  1,  132 ;  and  in  Renner  23978.  80  I  find  '  der  gelwe
 tot,'  yellow  d. ;  in  both  cases  the  aspect  of  the  dead,  not  of
@@ -20593,8 +19364,7 @@ It  is  more  important  to  our  inquiry,  that  in  the  Reinardus  3,
 2162  a  bone  fiddle  is  said  to  be  '  o^se^  nt  dominiis  Blicero,'  by
 which  nothing  but  Death  can  have  been  meant,  whether  the  word
 signify  the  pale  (bleich),  or  the  grinning  (bleckend),  or  be,  as  I
-rather  think,  the  proper  name  Blidger,  Blicker  with  a  mere  sug-
-gestion of  those  meanings.  A  homj  horse's  head  is  here  handed
+rather  think,  the  proper  name  Blidger,  Blicker  with  a  mere  suggestion of  those  meanings.  A  homj  horse's  head  is  here  handed
 in  mockery  to  the  Avolf  as  a  skilful  player  (joculandi  guarus)  by
 way  of  fiddle,  '  bony  as  a  skeleton.'  And  now  that  unexplained
 caput  cahallinnm  at  p.  661n.  may  be  interpreted  as  in  fact  a  sym-
@@ -20661,8 +19431,7 @@ of  MSS.  in  Brit.  Mus.  (1834)  1,  22  (Cod.  Arund.  no.  83  sec.  xiv),  
 SIR  BLICERO.      FRIEND   HEIN.  851
 
 aping  the  garb  and  gestures  of  the  living/  and  his  startling
-incongruity  with  the  warm  life  around,  all  the  charm  and  quaint-
-ness  of  those  compositions  would  be  gone.  Less  enjoyable  must
+incongruity  with  the  warm  life  around,  all  the  charm  and  quaintness  of  those  compositions  would  be  gone.  Less  enjoyable  must
 have  been  the  processions  and  plays  in  which  these  spectacles
 were  exhibited  in  France  during  the  15th  cent,  and  perhaps
 earlier;  there  and  then  originated  that  peculiar  name  for  the
@@ -20683,8 +19452,7 @@ winding-sheet,  heinenkleed  (p.  446).     But  it  is  also  spelt  hiinen-
 Jcleed,  which  brings  us    to    '  heun,  hilne,'   giant   (p.  523) ;    and
 Hein  itself  might  be  explained  as  Heimo    (p.  387),  or  Hagano
 (p.  371).     A  Voigtland  story   of   the  god  Hai7i    (Jul.  Schmidt,
-p.  150),  or  the  Thuringian  one  about  an  ancient  haingott,  grove-
-god  (Rosencranz's  Neue  zeitschr.  i.  3,  27),  being  themselves  very
+p.  150),  or  the  Thuringian  one  about  an  ancient  haingott,  grovegod  (Rosencranz's  Neue  zeitschr.  i.  3,  27),  being  themselves  very
 doubtful,  I  am  not  inclined  to  fasten  on  our  still  doubtful  Friend
 Hein.      Still  less  attention  is   due  to  a  name  for  mortuarium,
 '  hainrecht,'  *  coming  as  it  probably  does  from  heimrecht,  i.e.
@@ -20703,8 +19471,7 @@ to  explain  '  macabre '  from  the  Arabic  magabir,  magabaragh  (dead-yard, 
 On  the  French  performances  conf.  Michelet's  Hist,  de  France  4,  409 — 412  (Paris
 1840).
 
-'  It  is  used  by  Musaus  (Volksm.  1, 16),  Claudius  and  Gotten  J.  R.  Schellen-
-berg  in  Pref.  to  Freund  Heins  erscheinungcn  (Wintortlnir  1785)  thinks  Claudius  in
+'  It  is  used  by  Musaus  (Volksm.  1, 16),  Claudius  and  Gotten  J.  R.  Schellenberg  in  Pref.  to  Freund  Heins  erscheinungcn  (Wintortlnir  1785)  thinks  Claudius  in
 his  Asmus  (after  1775)  invented  the  name,  which  I  very  much  doubt ;  he  has  given
 it  currency.
 
@@ -20719,8 +19486,7 @@ to  the  glory  of  God  ye  may  learn  to  await  blithely  the  woodcutter
 Death.'  Then,  p.  US'*:  'So  is  death  called  a  village-mower  ov
 ivood-mower,  and  justly  hath  he  the  name,  for  he  hath  in  him  the
 properties  of  a  wood-cutter,  as,  please  God,  ye  shall  hear.  The
-first  property  of  the  village-mower  is  communitas,  he  being  pos-
-sessed in  common  by  all  such  as  be  in  the  village,  and  being  to
+first  property  of  the  village-mower  is  communitas,  he  being  possessed in  common  by  all  such  as  be  in  the  village,  and  being  to
 serve  them  all  alike.  So  is  the  wood-cutter  likewise  common  to
 all  the  trees,  he  overlooketh  no  tree,  but  heweth  them  down  all.'^
 Here  Death  is  regarded  as  a  forester,  a  ranger,  who  has  a  right
@@ -20734,8 +19500,7 @@ he  stretches  out  the  limbs  of  the  dying,  loosens  them  {\v(TLixekr]<i) 
 and  before  that,  the  twice  quoted  Meister-song  of  the  14th
 cent,  has :  '  er  hat  kein  ru,  er  hab  gestrecket  mir  das  fell  (my
 skin),'  Hag.  mus.  2,  188.  In  Chr.  Weise's  Drei  erzn.  314  I  find
-Strechehein  and  Bleckezahn,  bleak  {i.e.  bared)  teeth ;  and  else-
-where JDiirrhein,  Klapperbein,  names  for  a  skeleton.  The  allusion
+Strechehein  and  Bleckezahn,  bleak  {i.e.  bared)  teeth ;  and  elsewhere JDiirrhein,  Klapperbein,  names  for  a  skeleton.  The  allusion
 in  hupferhichel  (Ackerm.  aus  B.  p.  34)  remains  obscure  (see
 Suppl.).
 
@@ -20752,8 +19517,7 @@ Mown  the  man's  candle  out '  (as  Berhta  blew  out  the  lights  of  the
 eyes,  p.  277),  for  the  notions  of  light,  life  and  sojourn  among  the
 living,  run  into  one  another.^     The  living  principle  was  linked
 
-1  The  earlier  editions  in  Latin  (151-1,  115*<=,  and  1519,  105'^'=)  have  in  paren-
-theses '  der  dorfmeyger '  and  '  der  holzmeyger.'
+1  The  earlier  editions  in  Latin  (151-1,  115*<=,  and  1519,  105'^'=)  have  in  parentheses '  der  dorfmeyger '  and  '  der  holzmeyger.'
 
 2  Wh.  416,  14  :  '  bi  liehter  sunnen  da  verlasch  (went  out)  manegem  Sarrazin
 sin  lieht.'     Lohengr.  133  :  '  er  sluoc  in,  daz  im  muose  daz  lieht  erlischen.'
@@ -20762,12 +19526,9 @@ sin  lieht.'     Lohengr.  133  :  '  er  sluoc  in,  daz  im  muose  daz  lieht
 QUENCHES   LIGHT.      A    GODFATHER.  853
 
 to  a  light,  a  taper,   a   brand  :  when  these   were  wasted,  death
-ensued  (pp.  409.  415).     Here  then  the  idea  of  Death  is  intimately-
-connected  with  that   of  fate.     The   genius   loivers  his  torch,  re-
-verses it,  and  the  light  of  life   is   quenched.     For  the  child  as
+ensued  (pp.  409.  415).     Here  then  the  idea  of  Death  is  intimatelyconnected  with  that   of  fate.     The   genius   loivers  his  torch,  reverses it,  and  the  light  of  life   is   quenched.     For  the  child  as
 soon  as  born,  the  norn  has  kindled  a  light,  to  which  his  thread  of
-life   is    fastened;    possibly  even  our  lighting  of  tapers  in  con-
-nexion with  birthday  gifts  has  reference  to  this.^     We  have  a
+life   is    fastened;    possibly  even  our  lighting  of  tapers  in  connexion with  birthday  gifts  has  reference  to  this.^     We  have  a
 capitally  contrived  story  of  Gossip  Death  (gevatter  Tod,  Kinderm.
 no.   44),  the    conclusion    of    which    represents    a    subterranean
 cavern,  with  thousands  of  lights  burning  in  endless  rows.    These
@@ -20784,13 +19545,11 @@ doctor  turns  the  patient  round,  and  circumvents  Death  ;  but  in
 the  end  Death  has  his  revenge,  he  catches  his  godson  napping,
 and  knocks  his  candle  over.*     Throughout  this  fable  Death  shews
 himself  friendly,  good-natured  and  indulgent,  only  in   case   of
-absolute  need  does  he  fulfil  his  function  ;  hence  too  his  gossip-
-hood  ^  with  man,  which  evidently  corresponds    to  that  ancient
+absolute  need  does  he  fulfil  his  function  ;  hence  too  his  gossiphood  ^  with  man,  which  evidently  corresponds    to  that  ancient
 visit  of  the  norns   to   the  newborn  child,   and  their  bestowing
 gifts  on  him  (pp.  408 — 12),  as  in  some  nursery-tales  the  fays  are
 invited  to  stand  godmothers.^     The  extinguished  light  resembles
-the  taper  and  the  brand,  to  which  are  linked  the  lives  of  Norna-
-gestr  and  Meleager  (pp.  409.  415).     It  is  then  a  primitive  myth
+the  taper  and  the  brand,  to  which  are  linked  the  lives  of  Nornagestr  and  Meleager  (pp.  409.  415).     It  is  then  a  primitive  myth
 
 '  In  the  child's  game  '  If  the  fox  dies  I  get  the  skin  '  (Kinderm.  2,  xviii.),  a
 piece  of  burning  wood  is  passed  round,  and  its  extinction  decides.
@@ -20799,8 +19558,7 @@ piece  of  burning  wood  is  passed  round,  and  its  extinction  decides.
 — Trans.
 
 •*  So  the  bird  charadrius,  by  looking  at  or  away  from  you,  decides  your  life  or
-death,  Freid.  introd.  Ixxxvi.,  where  a  couplet  in  Titurel  515i-5  and  the  O.Fr.  Bes-
-tiaire  (Koquef.  sub  v.  caladrio)  are  left  unnoticed.
+death,  Freid.  introd.  Ixxxvi.,  where  a  couplet  in  Titurel  515i-5  and  the  O.Fr.  Bestiaire  (Koquef.  sub  v.  caladrio)  are  left  unnoticed.
 
 ■•  May  not  that  '  stool '  also,  when  upset,  have  knocked  the  candle  over  ?
 
@@ -20816,8 +19574,7 @@ sponsors.
 of  heathen  Germany;  in  telling  which^  Death  was  pictured,  even
 till  recent  times,  not  as  a  skeleton,  but  in  the  shape  of  a  living
 man  or  god.  We  cannot  wonder  that  the  story  is  found  with  a
-great  many  variations,  which  are  collected,  though  still  incom-
-pletely, in  Kinderm.  3,  72  :  in  some  of  them  Death  presents  his
+great  many  variations,  which  are  collected,  though  still  incompletely, in  Kinderm.  3,  72  :  in  some  of  them  Death  presents  his
 godson  with  a  ring,  by  which  he  can  judge  of  diseases.-^  Old
 Hugo  von  Trimberg  at  the  close  of  his  work  had  told  a  tale
 '  von  dem  Tode,  wie  er  ein  hint  huop  (took  up),'  but  there  is  not
@@ -20842,13 +19599,11 @@ for  seven  years.  Welcker  (Append,  to  Schwenk  p.  323-4)  has
 pointed  out  a  parallel  story  in  Pherekydes,  how  Death  is  set  on
 by  Zeus  to  attack  Sisyphos,  who  binds  him  in  strong  chains,  and
 then  no  one  can  die;  Hades  himself  comes  and  sets  Death  free,
-and  delivers  Sisyphos  into  his  hands.  Our  German  fable  inter-
-weaves the  Devil  into  the  plot.  Ouce  the  Devil  was  put  in
+and  delivers  Sisyphos  into  his  hands.  Our  German  fable  interweaves the  Devil  into  the  plot.  Ouce  the  Devil  was  put  in
 possession  of  hell,  he  had  to  take  his  place  beside  Death,  as
 the  alliteration  '  death  and  devil ! '  couples  them  together.  So
 Welnas,  Wels,  originally  the  death-god  of  the  Lithuanians  and
-Lettons,  got  converted  into  the  Devil.  According  to  the  chris-
-tian view,  angels  received  the  souls  of  the  just,  devils  those  of
+Lettons,  got  converted  into  the  Devil.  According  to  the  christian view,  angels  received  the  souls  of  the  just,  devils  those  of
 the  wicked  (p.  836)  ;  therefore  Death  in  coming  for  souls  was
 divided  into  a  double  power,  according  as  he  resembled  the
 angel  or  the  devil.  As  angelic  messenger,  he  comes  nearest  the
@@ -20864,8 +19619,7 @@ A  GOD.  855
 2660.  2715),  canf.  p.  836.  Of  very  aged  people,  who  still  live
 on,  we  say  '  Death  has  forgotten  to  fetch  them.'  The  Nib.
 Lament  122  has:  '  der  Tot  het  ir  minne,  die  da  sterben  solden,'
-D.  bore  those  in  mind  that  there  should  die,  or,  as  Lachmann  in-
-terprets it,  desired  them  for  his  band  (conf.  p.  84-8).
+D.  bore  those  in  mind  that  there  should  die,  or,  as  Lachmann  interprets it,  desired  them  for  his  band  (conf.  p.  84-8).
 
 These  investigations  will  hardly  have  left  it  doubtful,  that  the
 heathen  '  Death '  is  one  of  a  secondary  order  of  gods  ;  hence  too
@@ -20886,8 +19640,7 @@ account  for  this :  it  must  be  a  diabolic  being  that  is  meant.
 
 In  the  Finnish  lays,  Manala  and  Tuonela  are  often  named
 together,  but  as  separate  beings.  One  is  the  underworld,  from
-'  maa,'  earth  ;  the  other  the  kingdom  of  the  dead,,  as  Tiion  [ddv-
-aTo<;)  is  Death,  Halja.  In  Kalewala,  runes  6 — 9,  Tuonela  seems
+'  maa,'  earth  ;  the  other  the  kingdom  of  the  dead,,  as  Tiion  [ddvaTo<;)  is  Death,  Halja.  In  Kalewala,  runes  6 — 9,  Tuonela  seems
 to  be  a  river  of  the  underworld,  with  sacred  swans  swimming  on
 it  (see  Suppl.) .
 
@@ -20928,8 +19681,7 @@ felgr.  Tlie  old  meaniug  of  the  word  has  been  preserved  longest  in  Lo
 [and  Scotland]  :  '  dar  is  en  veege  in'u  Luse ' ;  'en  rtfe(7minsclie,  dat  balde  sterveu
 werd  (will  die  soon) '  ;  per  contra,  '  be  is  nau  nig  veegc  (not  fey  yet)  '  of  a  man
 who  comes  in  when  you  are  talking  of  him.  Also  Nethl.  '  een  vceg  man  (with  one
-foot  in  the  grave),  een  veege  teken  (sign  of  death)',  hence  also  veeg  =  debilis,  peri-
-culis  expositus.  Our  own  feig  has  acquired  the  sense  of  fainthearted,  cowardly,
+foot  in  the  grave),  een  veege  teken  (sign  of  death)',  hence  also  veeg  =  debilis,  periculis  expositus.  Our  own  feig  has  acquired  the  sense  of  fainthearted,  cowardly,
 pitiable,  as  the  Lat.  fatalis  has,  in  the  Fr.  fatal,  that  of  unlucky,  disagreeable.  So
 the  Lith.  paikas,  bad  (see  SuppL).
 
@@ -20945,9 +19697,7 @@ decided  by  the  balance.
 DESTINY.  857
 
 noun,  ON.  scop,  OS.  giscapu,  AS.  gesceapu ;  I  have  uofc  fouud
-an  OHG.  scaf,  kiscaf  in  the  same  sense^  though  the  sing,  is  forth-
-coming, and,  like  the  sing,  skap  in  ON.,  signifies  indoles,  con-
-silium, Graff  6,  450.  The  later  Icelandic  uses  a  masc.  skajmad'r,
+an  OHG.  scaf,  kiscaf  in  the  same  sense^  though  the  sing,  is  forthcoming, and,  like  the  sing,  skap  in  ON.,  signifies  indoles,  consilium, Graff  6,  450.  The  later  Icelandic  uses  a  masc.  skajmad'r,
 and  the  Dan.  sJciehne  (ON.  skepna  =  forma,  indoles).  The  OS.
 intensifies  its  giscapu  by  prefixes :  ivurdigiscapu,  Hel.  103,  7.
 reganogiscapu  (supra  p.  2C),  decreta  fati,  superorum,  where  the
@@ -20991,8 +19741,7 @@ be  coaimitted  to  God,  Bit.  '6^,
 
 Destiny  has  principally  to  do  with  the  beginning  and  the  end
 of  human  life.  The  Wurd  visits  the  newborn  and  the  dying,
-and  it  is  for  one  or  the  other  of  these  events  that  the  above-
-mentioned  names  of  destiny  are  mostly  used  by  the  poets ;  thus
+and  it  is  for  one  or  the  other  of  these  events  that  the  abovementioned  names  of  destiny  are  mostly  used  by  the  poets ;  thus
 Beow.  51  speaks  of  dying  '  to  gesceaphwile/  at  the  appointed
 time:  Hel.  103,  7:  '  tho  quamun  wurdegiscapu  themu  odagan
 man,  orlaghuile,  that  he  thit  licht  farlet.'  The  hour  of  birth  too
@@ -21006,8 +19755,7 @@ shaped.  ^
 It  is  a  deviation  from  this  oldest  way  of  thinking,  to  put  the
 settlement  of  destiny  into  the  hands  of  the  gods ;  yet  it  is  a
 very  old  one.  Undoubtedly  the  faith  of  many  men  began  early
-to  place  the  Highest  God  at  the  very  head  of  the  world's  manage-
-ment, leaving  those  weird-women  mei'ely  to  make  known  his
+to  place  the  Highest  God  at  the  very  head  of  the  world's  management, leaving  those  weird-women  mei'ely  to  make  known  his
 mandates.  The  future  lies  on  the  lap  of  the  gods,  6ewv  iv  ^ovvaai
 Kelrat,  and  with  this  agrees  that  '  laying  on  the  lap,'  that  '  taking
 to  the  bosom,'  which  is  performed  by  the  paternal  or  maternal
@@ -21017,8 +19765,7 @@ things,  yet  their  authority  and  influence  was  regarded  by  men  as
 boundless  and  immeasurable,  all  human  concerns  were  undoubtedly
 under  their  control  (see  Suppl.).
 
-The  Grautrekssaga  tells  us  (Fornald.  sog.  3,  32),  that  at  mid-
-night Hrosshdysgraid"  awoke  his  foster-son  Starka'Sr,  and  carried
+The  Grautrekssaga  tells  us  (Fornald.  sog.  3,  32),  that  at  midnight Hrosshdysgraid"  awoke  his  foster-son  Starka'Sr,  and  carried
 him  in  his  boat  to  an  island.  There,  in  a  wood,  eleven  men  sat
 in  council ;  the  twelfth  chair  stood  vacant,  but  Hrossharsgrani
 took  it,  and  all  saluted  hitn  as  OSinn.  And  OSinu  said,  the
@@ -21057,8 +19804,7 @@ And  it  is  not  for  an  infant,  but  a  well-grown  boy,  and  in  his
 presence,  that  the  destiny  is  shaped.
 
 According    to    Grreek    legend,    Zeus    did   not    always    decide,
-directly,   but   made   use   of  two   scales,  in  which  he  weighed  the-
-fates  of  men,  e.g.  of  the  Trojans  and  AchaBans,  of  Achilles  and
+directly,   but   made   use   of  two   scales,  in  which  he  weighed  thefates  of  men,  e.g.  of  the  Trojans  and  AchaBans,  of  Achilles  and
 Hector :
 
 Kal  Tore  8r]  ')(^pv(Teia  7raT7]p  ciriTaLve  rdXavra'
@@ -21092,9 +19838,7 @@ actions,  to  sins,  is  very  natural;  the  (apocryphal)  2   Esdras  3,  31-
 860  DESTINY   AND   WELL-BEING.
 
 has:  'nunc  ergo  pondera  in  statera  nostras  iniquitates/  and  4,
-86  :  '  qnoniam  in  statera  ponderavit  seculum/^  The  Jomsvikinga-
-saga  cap.  42  (Fornm.  sog.  11,  128-9)  describes  the  magical  luck-
-scales  or  wishing-scales  of  Hakon  iarl :  '  SiSan  tekr  iarl  skdlir
+86  :  '  qnoniam  in  statera  ponderavit  seculum/^  The  Jomsvikingasaga  cap.  42  (Fornm.  sog.  11,  128-9)  describes  the  magical  luckscales  or  wishing-scales  of  Hakon  iarl :  '  SiSan  tekr  iarl  skdlir
 go&ar  ]7ser  er  hann  atti,  ]>ddv  voro  gervar  af  brendu  silfri  ok  gylldar
 allar,  en  J7ar  fylg^o  2  ^Jie^,  annat  af  gulli  en  annab  af  silfri;  a
 hvarotveggja  metino  var  gert  sem  vaeri  iikneskja,  ok  heto  ];at
@@ -21112,9 +19856,7 @@ soothsaying  (p.  721)  seems  not  to  have  become  known  till  the
 latter  part  of  the  Mid.  Ages.  Radulphus  Ardens  (an  Aquitanian
 priest  of  the  11th  cent.)  says  in  his  Homilies  (Antverp.  1576,
 p.  4P)  :  Cavete,  fratres,  ab  eis  qui  mentiuntur,  quod  quando
-quisque  nascitur,  stella  sua  secimi  nascitvr,  qua  fatum  ejus  con-
-sfituitur,  sumentes  in  erroris  sui  argumentum,  quod  hie  in  scrip-
-tura  sacra  (on  the  star  of  the  Magi)  dicitur  '  stella  ejus.^  One
+quisque  nascitur,  stella  sua  secimi  nascitvr,  qua  fatum  ejus  consfituitur,  sumentes  in  erroris  sui  argumentum,  quod  hie  in  scriptura  sacra  (on  the  star  of  the  Magi)  dicitur  '  stella  ejus.^  One
 instance  we  find  in  Klinsor^s  star-gazing  on  the  Wartburg;
 another  in  the  wishing-wife  who  looks  into  the  stars,  Altd.  bl.
 1,  129  (see  SuppL).
@@ -21161,19 +19903,16 @@ mac  daz  understen  (what  is  to  happen,  who  can  hinder)  ?'  Nib.
 will  be,  Frauend.  '  da  sterbent  wan  die  veigen'  there  die  (none)
 but  the  fey,  Nib.  149,  2.  '  ez  sterbent  niuwan  die  veigen,  die
 IfBgen  doch  da  heime  tot,'  would  lie  dead  though  at  home,
-VVigal.  10201.  'di  veigen  fielen  dar  nider/  Lampr.  2031.  'hin-
-nerstirbet  niman  wan  di  veigen'  Pf.  Chuonr.  8403.  'then  veigen
+VVigal.  10201.  'di  veigen  fielen  dar  nider/  Lampr.  2031.  'hinnerstirbet  niman  wan  di  veigen'  Pf.  Chuonr.  8403.  'then  veigen
 mac  nieman  behuoteu,  thiu  erthe  ne  mag  in  niht  uf  gehaven
 (hold  up),  scol  er  tha  wei'then  gestagen,  er  sturve  (would  die)
 thoh  thaheime,'  Fr.  belli  42''.  '  swie  ringe  er  ist,  der  veige  man,
-in  mac  ros  noch  enkan  niht  viirbaz  getragen/  the  fey  man,  how-
-ever light,  no  horse  can  carry  farther,  Karl  72''.  Rol.  207,  24.
+in  mac  ros  noch  enkan  niht  viirbaz  getragen/  the  fey  man,  however light,  no  horse  can  carry  farther,  Karl  72''.  Rol.  207,  24.
 '  die  veigen  muosen  ligen  tot,'  Livl.  chron.  59''.  *  der  veigen  mac
 keiner  genesen,'  none  recover,  ib.  78".  'ich  ensterbe  niht  yor
 minem  tac  (day),'  Herb.  53'^  'nieman  sterben  sol  wan  zu  sinem
 gesatten  zil  (goal),'  Ulr.  Trist.  2308.  'daz  aver  (whatever)  scol
-werden,  daz  nemac  nieman  erwenden  (avert),'  Diut.  3,  71.  'ge-
-mach  erwenden  niht  enkan  swaz  dem  man  gescliehen  sol,'  Troj.
+werden,  daz  nemac  nieman  erwenden  (avert),'  Diut.  3,  71.  'gemach  erwenden  niht  enkan  swaz  dem  man  gescliehen  sol,'  Troj.
 58''.  '  daz  muose  wesen  (what  had  to  be),  daz  geschach,'  Orl.
 11167.  'swaz  gescliehen  sol,  daz  geschiht.'  Freid.  132''.  MS.  1,
 (W.  71".  'daz  salt  eht  sin,  nu  ist  ez  geschehen,'  MS.  74*.  80*.
@@ -21188,22 +19927,18 @@ divination.
 
 862  DESTINY   AND   WELL-BEING.
 
-ergat  doch  nilit,  wan  ah  ez  sol/  Trist.  6776.  '  tot  aveura  qan-
-que  doit  avenir/  Ogier  7805.  '  bin  ich  genislich,  so  genise  ich/
+ergat  doch  nilit,  wan  ah  ez  sol/  Trist.  6776.  '  tot  aveura  qanque  doit  avenir/  Ogier  7805.  '  bin  ich  genislich,  so  genise  ich/
 if  I  was  made  to  live  thro^  it,  I  shall,  A.  Heinr.  190.  'swaz  ich
 getuon  (do),  bin  ich  genislich,  ich  genise  wol ;  bin  ich  dem  valle
 ergeben  (doomed  to  fall),  so  n^  hilfet  mich  min  woltuon  nicht  eiu
 har,^  MS.  2,  129''.  '  ez  muose  sin,  und  ez  was  mir  heschaffen,'  it
-was  to  be,  was  shaped  for  me  (13J^'').  '  diu  maget  was  iu  heschaf-
-fen,' that  girl  was  cut  out  for  you,  Wigal.  1002.  '  ez  was  im
+was  to  be,  was  shaped  for  me  (13J^'').  '  diu  maget  was  iu  heschaffen,' that  girl  was  cut  out  for  you,  Wigal.  1002.  '  ez  was  im
 beslaht  (destined),'  Eracl.  2394.  'swaz  ist  geschaffen  [shapen),
 daz  muoz  geschehen,'  MsH.  3,  434*^.  'nu  mir  daz  was  in  teile,'
 well,  that  was  in  my  lot  (portion),  En.  11231.  '  ez  was  enteile  uns
 getdv,'  Herb.  18418.  'ez  ist  mich  OAigehorn,'  I  was  born  to  it.
-Herb.  6*^. — The  words  geschaffen,  heschaffen  and  heslaht  are  identi-
-cal with  the  ON.  skapat  and  cetlat,  and  this  sameness  of  the
-words  testifies  to  their  original  connexion  with  the  heathen  doc-
-trine. Even  at  the  present  day  the  fatalist  view  prevails  largely
+Herb.  6*^. — The  words  geschaffen,  heschaffen  and  heslaht  are  identical with  the  ON.  skapat  and  cetlat,  and  this  sameness  of  the
+words  testifies  to  their  original  connexion  with  the  heathen  doctrine. Even  at  the  present  day  the  fatalist  view  prevails  largely
 among  the  common  people  (Jul.  Schmidt  pp.  91.  163).  'ez  miiste
 mir  sein  gemacht  gewesen,'  must  have  been  made  for  me,  Sieben
 ehen  eines  weibes,  p.  211.  'fatum  in  vulgari  dicitur  "'tis  allotted
@@ -21228,8 +19963,7 @@ his  interpretation  Welauaha,  I  should  prefer  Welan-owa,  which
 is  supported  by  the  more  modern  Welnau,  a  place  that  stood  on
 
 '  The  same  belief  is  held  by  the  Lithuanians  and  Lettons,  fate  they  ca.lllikkimas
-liJiteni,  from  lik-t  to  lay  down,  arrange  :  '  tai  buwo  jo  likkims,'  '  tas  jau  bija  wiu-
-nam  liktz ,'  that  was  destined  for  him.
+liJiteni,  from  lik-t  to  lay  down,  arrange  :  '  tai  buwo  jo  likkims,'  '  tas  jau  bija  wiunam  liktz ,'  that  was  destined  for  him.
 
 
 WEAL.      S^LDE.  863
@@ -21257,8 +19991,7 @@ The  ON.  distinguishes  its  fem.  heill  (felicitas)  from  a  neut.  heil
 and  the  OHG.  its  heili  f.  (salus)  from  heil  n.  (omen).  Both
 meanings  are  combined  in  MHG.  heil  n.  Personifications  of
 this  I  scarcely  know,  unless  such  be  intended  by  a  passage
-obscure  to  me,  Ottoc.  683^  which  gives  out  as  a  common  pro-
-verb :  '  chum  hail  hauenstain  !  '  In  MS.  2,  130'* :  '  waz  ob  iuwer
+obscure  to  me,  Ottoc.  683^  which  gives  out  as  a  common  proverb :  '  chum  hail  hauenstain  !  '  In  MS.  2,  130'* :  '  waz  ob  iuwer
 lieil  eime  andern  kumet  an  sin  seil,'  what  if  your  hap  prove
 another's  hanging?  And  so  early  as  0.  ii.  18,  7  :  'thaz  heil  ni
 gifahit  iuwih,'  luck  comes  not  your  way  (see  Suppl.).
@@ -21284,8 +20017,7 @@ Ernst.  5114.  'ir  S.  wacliet,'  Amgb.  35*.  'daz  mir  8.  ivache,'
 ib.  43*.  '  ich  waen  sin  8.  sldfe/  ib.  44*'.  '  so  ist  im  al  diu  8.
 ertaget  (dawned)/  Trist.  9792.  '  diu  S.  ist  dir  betaget,'  Wartb.
 kr.  jen.  21.  'diu  S.  was  mit  im  betaget/  Dietr.  5*.  27*.  'iuwer
-8.  wirt  erwecket,'  Lohengr,  19.  Observe  in  these  MHG.  quota-
-tions the  frequent  poss.  pron.^  or  gen.  case  :  the  Saslde  dedicates
+8.  wirt  erwecket,'  Lohengr,  19.  Observe  in  these  MHG.  quotations the  frequent  poss.  pron.^  or  gen.  case  :  the  Saslde  dedicates
 herself  to  certain  men,  protects  and  prospers  them,  ivahes  for
 them  while  they  sleep,  as  we  say  •'  luck  came  to  me  in  my  sleep.^
 A  mode  of  speech  so  common  need  not  always  be  felt  to  personify  :
@@ -21404,8 +20136,7 @@ heathen  valkyr  ?
 
 The  now  universally  familiar  image  of  Fortune  riding  on  a
 rolling  lulieel  (/cuXtz^Spo?),^  which  was  attributed  to  Fors,  Tyche
-and  Nemesis  (0.  Miiller's  Archiiol.  607),  is,  I  consider,  an  im-
-portation. '  Versatur  celeri  Fors  levis  orbe  rotae/  Tibull.  i.  5,  70.
+and  Nemesis  (0.  Miiller's  Archiiol.  607),  is,  I  consider,  an  importation. '  Versatur  celeri  Fors  levis  orbe  rotae/  Tibull.  i.  5,  70.
 '  stems  in  orbe  dea,'  Ov.  ep.  ex  Ponto  ii.  3,  56.  '  Fortunae  rotam
 pertimescebat,'  Cic.  in  Pison,  10.     'rota  Fortunae,'  Tac.  de  orat.
 
@@ -21487,8 +20218,7 @@ uu  ride  in  lif  die  hoehe/  turn  (writhe)  him  up  aloft,  Tit.  5218;
 schibe  lazet  si  umbe  gau,  umbe  loufet  ir  rat,  dicke  vellet  der  da
 vaste  saz/  oft  falleth  he  that  sat  there  fast,  Lampr.  Alex.  3066.^
 This  notion  candied  into  detail  shews  us  four  (or  twelve)  men  at
-once  standing  on  fortune's  wheel  in  ceaseless  revolution  :  '  ge-
-liickes rat  treit  vier  man,  der  eine  stiget  uf,  der  ander  stiget  abe,
+once  standing  on  fortune's  wheel  in  ceaseless  revolution  :  '  geliickes rat  treit  vier  man,  der  eine  stiget  uf,  der  ander  stiget  abe,
 der  dritte  ist  obe,  der  vierde  der  ist  under,'  MS.  2,  22 P;  and
 "Wigal.  p.  41  tells  us  of  one  who  had  in  his  house  such  a  lolteel
 cast  of  gold,  and  who  was  always  happy  (like  Frode  with  his  mill
@@ -21540,8 +20270,7 @@ emanation  of  Wuotan  (see  Suppl.).
 
 Such  a  child  of  luck  was  Fortunatus,  to  whom  Fortuna  (conf.
 Felicia,  MsH.  2,  10''  and  infra  ch.  XXXII.)  appears  in  a  forest  of
-Bretagne,  and  gives  a  fairy  purse  :  and  who  also  wins  iheivishing-
-cap  (souhaitant  chapeau),  the  tarn-cap,  which  one  has  only  to
+Bretagne,  and  gives  a  fairy  purse  :  and  who  also  wins  iheivishingcap  (souhaitant  chapeau),  the  tarn-cap,  which  one  has  only  to
 put  on,  to  be  in  a  twinkling  at  some  distant  place.  Evidently
 a  hat  of  Wish  or  Wuotan  (p.  463),  a  ireTaaa  or  winged  cap  of
 Hermes  the  giver  of  all  good,  of  all  sselde.  And  '  Sa3lde's  hat'
@@ -21563,8 +20292,7 @@ crock  are  easy  broke.'
 Marc.  22,  9.  'formatum  Fortunae  habitum  cum  divite  cornu,'
 Prudent,  lib.  1  contra  Symm. ;  also  with  Amaltliea's  horn  or
 Svantovit^s  (p.  591),  nay  with  the  /cepa?  crcoT7]pLa<;,  Luke  1,  69.
-Of  the  wishing-rod  we  are  reminded  by  the  synonymous  expres-
-sions :  '  alles  heiles  ein  wilnschel-ris ,'  -twig,  -wand^  Troj.  2216,
+Of  the  wishing-rod  we  are  reminded  by  the  synonymous  expressions :  '  alles  heiles  ein  wilnschel-ris ,'  -twig,  -wand^  Troj.  2216,
 and  'des  Wunsches  bluome,'  Barl.  274,  25.
 
 The  belief  in  fairi/  things  [wiinscheldinge,  lit.  wishing-gear]  is
@@ -21584,8 +20312,7 @@ nature,  that  swung  itself  {er  sialft  vegiz),  Saem.  82*.     Sn.  40;  it
 name  is  unrecorded.     The  '  cudgel  jump  out  o'  your  sack  !  '  in
 our  fairy-tale  is  the  same  story  vulgarized;  in  CEgi's  hall  the
 pitchers  or  beakers  of  ale  hronght  themselves  (sialft  barsc  ]?ar  ol),
-Saem.  48  ;  Wolfdieterich  (Cod.   dresd.  296-7)  fell  in  with  god-
-desses,  to  whose  table  the   wheaten  loaf  came  loalking,  and  the
+Saem.  48  ;  Wolfdieterich  (Cod.   dresd.  296-7)  fell  in  with  goddesses,  to  whose  table  the   wheaten  loaf  came  loalking,  and  the
 wine  poured  itself  out :  such  gear  the  Greeks  called  auro/xarov
 (self-taught),   II.   18,  376.       CEgis-hialinr    must   originally  have
 been  (Eo-i's   own    (and  QEs^ir  is  at  times  undistino^uishable  from
@@ -21605,10 +20332,8 @@ earth  :  its   proper  name  is  not  given.     Shi&hla&nir  is  described,
 WISHING-GEAR.  871
 
 now  as  a  ship,  now  as  a  hat,  both  of  which  coukl  either  be  folded
-up  or  expanded,  for  sailing  in  or  for  raising  a  storm ;  wishing-
-ships  occur  in  Norske  eventyr  1,  18.  142  and  Sv.  folk  v.  1,  142-3.
-Not  unlike  this  are  our  ivinged  sandals  and  league  hoots.  Gullin-
-bursti,  too,  Frey^s  boar,  carries  him  through  air  and  water.
+up  or  expanded,  for  sailing  in  or  for  raising  a  storm ;  wishingships  occur  in  Norske  eventyr  1,  18.  142  and  Sv.  folk  v.  1,  142-3.
+Not  unlike  this  are  our  ivinged  sandals  and  league  hoots.  Gullinbursti,  too,  Frey^s  boar,  carries  him  through  air  and  water.
 From  OSin's  ring  Draupnir  dropped  other  rings  as  heavy ;  the
 miraculous  power  of  Fulla's  ring  (Fullo  fingrgull,  Sn.  68)  is  not
 specified,  perhaps  it  made  one  invisible,  like  that  of  Aventiure
@@ -21630,14 +20355,12 @@ a  wheel  ought  above  all  to  grind  food  for  gods.  The  gods
 possess  the  drink  of  immortality,  which  inspires  man  with  song,
 and  keeps  a  god  young.  Kun's  apples  restore  youth,  as  apples
 in  Volsiingasaga  make  pregnant,  in  Sneewitchen  send  sleep,  and
-in  Fortunatus  give  horns  and  take  them  away.  But  the  wishing-
-cloak  becomes  a  wishing -cloth,  which  when  spread  brings  up  any
+in  Fortunatus  give  horns  and  take  them  away.  But  the  wishingcloak  becomes  a  wishing -cloth,  which  when  spread  brings  up  any
 dish  one  may  desire  :  in  Danish  and  Swedish  songs  such  a  cloth
 is  woven  of  field  wool  [ageridd,  D.  vis.  1,  265.  300.  dkerull,  Sv.
 vis.  2,  199),  a  sort  of  grass  with  a  woolly  flower  (eriophorum
 polystachium) ;  the  same  wishing-cloth  occurs  in  Norske  ev.  1,
-44.  274,  it  is  pulled  out  of  a  mare's  ear,  p.  112.  Other  wishing-
-cloths  have  to  be  spun  in  silence,  or  the  hemp  for  them  must  be
+44.  274,  it  is  pulled  out  of  a  mare's  ear,  p.  112.  Other  wishingcloths  have  to  be  spun  in  silence,  or  the  hemp  for  them  must  be
 picked,  baked,  braked,  hatchelled,  spun  and  woven  all  in  one
 day.  The  Servians  tell  of  a  miraculous  coiu,  out  of  whose  ear
 yarn  is  spun,  she  is  then  killed  and  buried,  and  miracles  are
@@ -21673,8 +20396,7 @@ horn  and  Jingerling  (ring,  Parz.  826.  19).  Oberon^s  horn,  and
 he  is  of  elf  kind,  was  a  wishing-liorn,  and  excited  magic  dancing.
 Other  wonders  are  wrought  by  the  harps  of  gods  and  heroes
 (p.  907).  The  elves,  beside  the  horn,  have  in  their  gift  a  hread
-of  grace  that  blesses.  By  the  side  of  this  may  stand  the  beau-
-tiful myths  of  the  cruse  of  oil  that  never  runs  dry,  the  savoury
+of  grace  that  blesses.  By  the  side  of  this  may  stand  the  beautiful myths  of  the  cruse  of  oil  that  never  runs  dry,  the  savoury
 pottage  that  brims  over,  the  yarn  that  has  never  done  winding.
 Jemshid's  goblet  too  was  a  miraculous  one,  so  was  the  far-famed
 Grail  (greal,  Ducange  sub  v.  gradalus,  graletus,  grasala,  grassale,
@@ -21703,8 +20425,7 @@ Suttung  did  O^inn),  and  overtook  the  fugitives  on  the  open  sea.
 While  Louhi  makes  a  clutch  at  Sampo,  and  Wainamoinen  strikes
 at  her  fingers  with  the  rudder,  Sampo  falls  into  the  sea  and
 breaks  ;  the  lid  alone  (Kirjokannen  23,  393,  conf.  11,  3G1)  is  left
-in  Louhi's  hand,  and  with  it  she  flies  back  to  Pohjola  :  wretched-
-ness and  famine  have  reigned  there  ever  since,  Wainamoinen
+in  Louhi's  hand,  and  with  it  she  flies  back  to  Pohjola  :  wretchedness and  famine  have  reigned  there  ever  since,  Wainamoinen
 finds  pieces  of  Sampo  on  the  shore,  and  has  them  sown,  out  of
 which  grow  up  trees,  one  of  them  a  lofty  oak  that  darkens  the
 sun.  The  points  of  likeness  between  this  Sampo  and  the  Norse
@@ -21736,23 +20457,19 @@ by  the  verb  fostra.     Fi-igg  had  even,  according  to  Sn.  38,  a
 874  DESTINY  AND  WELL-BEING.
 
 special  handmaid^  herself  a  divine  being,  whom  she  appointed
-for  the  defence  (til  gaetslu)  of  such  foster-sons  against  all  dan-
-gers ;  this  personified  Tutela  was  named  HUn  (p.  884) ,  as  if  the
+for  the  defence  (til  gaetslu)  of  such  foster-sons  against  all  dangers ;  this  personified  Tutela  was  named  HUn  (p.  884) ,  as  if  the
 couch,  k\lvi],  OHG.  hlina  (recubitus,  Gl.  Ker.  273)  on  which  one
 leans  (root  hleina  hlain,  Gr.  kXIvoo,  Lat.  clino) .  We  find  '  harmr
-Hlinar,'  Sasm.  9^,  and  there  went  a  proverb  '  sa  er  for'Saz  hlei-
-nir/  he  that  is  struggling  leans  for  help.  Hlin  (Goth.  Hleins?)
+Hlinar,'  Sasm.  9^,  and  there  went  a  proverb  '  sa  er  for'Saz  hleinir/  he  that  is  struggling  leans  for  help.  Hlin  (Goth.  Hleins?)
 shelters  and  shields,  the  Goth,  hlains  is  a  hill  [Germ,  berg,  a  hill,
 is  from  bergen,  to  hide],  the  OHG.  hlinaperga,  linaperga  =
 fulcrum,  reciinatorium.
 
 Those  who  are  born  with  a  caul  about  their  head  are  popularly
-believed  to  be  luchj  children.  Such  a  membrane  is  called  gliicks-
-loauhe,  iveJinrntter-hduhlein,  and  is  carefully  treasured  up,  or  sewed
+believed  to  be  luchj  children.  Such  a  membrane  is  called  gliicksloauhe,  iveJinrntter-hduhlein,  and  is  carefully  treasured  up,  or  sewed
 into  a  band  and  put  round  the  babe.^  Fischart  in  Garg.  229"^  calls
 it  Jcinderpelglin  (balg,  bag),  while  the  Icelanders  give  it  the  name
-of  fylgj a  L,  and  imagine  that  m  ii  resides  the  child's  guardian-
-spirit  or  a  part  of  its  soul :  midwives  are  careful  not  to  injure  it,
+of  fylgj a  L,  and  imagine  that  m  ii  resides  the  child's  guardianspirit  or  a  part  of  its  soul :  midwives  are  careful  not  to  injure  it,
 but  bury  it  under  the  threshold  over  which  the  mother  has  to
 pass.  Whoever  carelessly  throws  it  away  or  burns  it,  deprives
 the  child  of  its  guardian,  Edd.  Ssem.  Hafniens.  2,  653.  This
@@ -21772,9 +20489,7 @@ we  are  told :  '  ab  eo  tegmine  obstetrices  et  delirae  aniculae  infanti
 rubicundo,  vel  mala  ex  nigricante  praesagire  solent.  maguo  vendunt  hujusmodi
 pileos  infantiles  credulis  advocatis,  qui  se  hinc  adjuvari  putant. '  This  in  Anton.
 Diadum.  cap.  4  is  borrowed  from  an  older  passage  in  Aelius  Lampridius:  'solent
-pueri  ptZeo  insignari  natnrali,  quod  obstetrices  rapiunt  et  advocatis  credulis  ven-
-dunt, siquideni  cairsidici  hoc  juvari  dicuntur.'  [AS.  heafela,  hafela.  MHG.  hilete-
-lin,  batwdt,  kindbalgel,  westerliufe,  iv eater liuot ;  conf.  the  ivesienvdt  preserved  in
+pueri  ptZeo  insignari  natnrali,  quod  obstetrices  rapiunt  et  advocatis  credulis  vendunt, siquideni  cairsidici  hoc  juvari  dicuntur.'  [AS.  heafela,  hafela.  MHG.  hiletelin,  batwdt,  kindbalgel,  westerliufe,  iv eater liuot ;  conf.  the  ivesienvdt  preserved  in
 churches,  and  the  names  Gliickshelm,  Barnhelm.  '  Membranulae  ad  modum  retis
 dispositae,  in  quibus  quandoque  nascuntur  pueri  et  vocantur  in  vulgari  (Bohemico)
 wodiejiic.  de  his  membranis  famant  vetulae:  si  recipiantur  IX  vel  ad  minus  V  et
@@ -21796,14 +20511,12 @@ What  is  essential  to  the  notion  of  a  guardian-angel  is  his  being
 native  to  us  :  this  distinguishes  him  from  the  home-sprite  (genius
 familiaris),  who  devotes  himself  to  an  individual  man,  but  not
 from  birth.  Regula  Benedicti  cap.  7  :  'ab  angelis  nobis  depntatis
-cotidie  die  noctuque  Domino  Factori  nostro  opera  nostra  nun-
-tiantur/  Berthold  preaches  (p.  209)  :  '  als  daz  kint  lebende
+cotidie  die  noctuque  Domino  Factori  nostro  opera  nostra  nuntiantur/  Berthold  preaches  (p.  209)  :  '  als  daz  kint  lebende
 wirt  an  siner  muoter  Itbe,  so  giuzet  im  der  engel  die  sele  in,  der
 almehtige  Got  giuzet  dem  kinde  die  sele  mit  dem  engel  in ; '  and
 St.  Bernard  (sermo  12  in  ps.  Qui  habitat)  :  '  quoties  gravissima
 cernitur  urgere  tentatio  et  tribulatio  vehemens  imminere,  invoca
-custodeni  tiium,  doctorem  tuum,  adjutorera  tuum.  in  opportuni-
-tatibus,  in  tribulatione,  in  quovis  diversorio,  in  quovis  angulo,
+custodeni  tiium,  doctorem  tuum,  adjutorera  tuum.  in  opportunitatibus,  in  tribulatione,  in  quovis  diversorio,  in  quovis  angulo,
 angelo  tuo  reverentiam  habe.  tu  ne  audeas  illo  jpraesente,  quod
 vidente  me  non  auderes/  One  more  passage  I  will  transcribe,
 from  Notker's  Capella  137  :  '  alien  menniskon  wirdet  sunderig
@@ -21829,8 +20542,7 @@ mortalibus  genius  admovetur,  quem  etiam  2'raestitem,  quod  prao.sit  geruu
 omnibus,  vocaverunt.  nam  et  populi  genio,  quum  generalis  poscitur,  supplicant,  et
 unusquisque  gubernatori  proprio  dependit  obsequium.  idooque  genius  dicitur,
 (juouiam  quum  quis  liomiiium  neiiitus  fucrit,  vinx  cidcm  copulatur.  hie  tutelator
-tidissimusque  germauus  animos  omnium  mentesque  custodit.  et  quoniam  cogi-
-tationum  arcana  Superae  anuuntiat  Potestati,  etiain  augelus  poterit  nuucupari.'
+tidissimusque  germauus  animos  omnium  mentesque  custodit.  et  quoniam  cogitationum  arcana  Superae  anuuntiat  Potestati,  etiain  augelus  poterit  nuucupari.'
 Conf.  Porphyry's  Vita  Plotini  p.  14.     Plutarch's  Vita  Antouini  p.  430.
 
 
@@ -21866,8 +20578,7 @@ attendance,  '  bauS  fylgS  sina;  fylgjo  beiddi,'  Saem.  14*.  147*.
 When  a  man  sees  his  fylgja,  she  is  giving  him  up,  quitting  him.
 In  Norway  the  vulgar  opinion  is,  that  the  folgie  likes  to  shew
 herself  in  the  shape  of  some  aiiimal  that  typifies  the  character
-of  the  man  she  belongs  to  (Faye  p.  77).  Can  this  have  indi-
-cated a  future  transmigration  ?  conf.  p.  823.  There  were  fylgjor
+of  the  man  she  belongs  to  (Faye  p.  77).  Can  this  have  indicated a  future  transmigration  ?  conf.  p.  823.  There  were  fylgjor
 that,  like  the  dwarfs,  stuck  to  certain  families  :  Tnjnfijlgjor,
 mttarfylgjor ;  and  this  is  important,  as  teaching  the  affinity  of
 
@@ -21893,8 +20604,7 @@ our  personified  scelde  :  hamingja  too  at  first  denoted  fortuna,
 felicitas,  and  afterwards  a  being  that  bestowed  these  blessings,
 holding  a  middle  place  between  a  fate,  a  guardian-spirit  and  a
 goodnatured  homesprite  j  conf.  Laxd.  saga  p.  441.  'Hamingjor
-horfnar,  heillir  horfnar '  in  Ssem.  93  are  those  that  have  aban-
-doned their  man.
+horfnar,  heillir  horfnar '  in  Ssem.  93  are  those  that  have  abandoned their  man.
 
 The  ON.  landvcett  (p.  441)  is,  like  the  fylgja  and  hamingja,  a
 female  being,  not  however  the  guardian-spirit  of  an  individual
@@ -22029,8 +20739,7 @@ in  Goth,  sums,  ON,  syii,  OHG.  gisiuni,  which  come  from
 sailiva  (I  see),  as  species  from  specio,  visus  from  video,  etSo?
 from  the  lost  etSto,  and  signify  the  seen,  the  present ;  ^  while
 vaihts,  which  Ulphilas  uses  also  for  etSo9  (p.  440),  is  derived
-from  veiha  (facio,  p.  68).  More  commonly  still  we  find  combina-
-tions :  Goth,  anddugi,  anduairpi,  OHG.  antwerti,  Goth,  andavleizn,
+from  veiha  (facio,  p.  68).  More  commonly  still  we  find  combinations :  Goth,  anddugi,  anduairpi,  OHG.  antwerti,  Goth,  andavleizn,
 AS.  andwlite,  OHG.  anasiuni,  anasiht,  gislht ;  all  of  which,
 formed  like  the  Gr.  irpocroiirov,  have  alike  the  sense  of  aspectus,
 obtutus,  and  the  narrower  one  of  facies,  vultus,  frons  (Goth,  vlits
@@ -22055,26 +20764,20 @@ sound  is  exactly  the  other  way.  What  if  the  old  etymology  from  perso
 should  prove  defensible,  and  sonus  be  conn,  with  siuns  ?  There  are  plenty  of
 analogies  between  sound  and  sight  (e.g.  that  Romance  '  par  son',  p.  745),  and  also
 changes  of  short  vowels  into  long  (persona) ;  Trpotrwrrov  itself  happens  to  be  an
-example  of  both  (6t^  voice  and  eye,  6-^ls  visio,  dji//  eye,  face,  liirri  look)  ;  the  forma-
-tion of  persona  would  be  as  in  Perenna,  Pertunda,  Pervinca.
+example  of  both  (6t^  voice  and  eye,  6-^ls  visio,  dji//  eye,  face,  liirri  look)  ;  the  formation of  persona  would  be  as  in  Perenna,  Pertunda,  Pervinca.
 
 8bO
 
 
 PERSONIFICATION.  881
 
-come  and  gOj  and  in  his  body  he  must  bide,  unless  magic  inter-
-vene ;  hence  he  is  [not]  in  the  strictest  sense  a  person,  his  veriest
+come  and  gOj  and  in  his  body  he  must  bide,  unless  magic  intervene ;  hence  he  is  [not]  in  the  strictest  sense  a  person,  his  veriest
 self  being  emphasized  in  our  older  speech  by  the  term  lip  (life),
-body  (Gramm.  4,  296).  But  language  and  an  open  brow  distin-
-guish him  from  beasts,  who  have  only  voice  and  irpoToixrj,  not  a
+body  (Gramm.  4,  296).  But  language  and  an  open  brow  distinguish him  from  beasts,  who  have  only  voice  and  irpoToixrj,  not  a
 real  irpoawirov  or  countenance.  Still  less  of  personality  have
-plants,  silent  as  they  are,  and  rooted  to  the  soil.  Never-
-theless both  animals  and  plants  have  in  common  with  man  a
+plants,  silent  as  they  are,  and  rooted  to  the  soil.  Nevertheless both  animals  and  plants  have  in  common  with  man  a
 difference  of  sex  and  the  power  of  propagation  ;  to  both  of  them
-language  assigns  natural  gender  and,  only  where  that  is  non-
-apparent,  a  purely  grammatical.  It  goes  yet  further,  and  con-
-cedes it  to  lifeless  tools  and  to  things  beyond  the  reach  of  sight
+language  assigns  natural  gender  and,  only  where  that  is  nonapparent,  a  purely  grammatical.  It  goes  yet  further,  and  concedes it  to  lifeless  tools  and  to  things  beyond  the  reach  of  sight
 or  sense.
 
 Then  poetry  and  fables  set  themselves  to  'personify ,  i.e.  to  extend
@@ -22086,11 +20789,9 @@ trees  and  shrubs  (like  the  bean  or  corn  stalk  in  the  fairy-tale),
 but  of  utensils  like  pot  and  file  {^vrprj,  plvrj),  of  days  and  seasons
 [kopTrj,  vcnepr],  '^(^eifjicop,  eap),  even  of  mere  emotions,  as  love,
 shame  (epo)?,  ala')(yvri).  Our  own  simple-hearted  eld  loves  to
-emphasize  this  livingness  by  the  formalities  of  address  and  rela-
-tionship :  horse,  ship  and  sword  are  gravely  apostrophized  by  the
+emphasize  this  livingness  by  the  formalities  of  address  and  relationship :  horse,  ship  and  sword  are  gravely  apostrophized  by  the
 hero  (Gramm.  3,  331.  434.  441) ;  such  entities  receive  the  title  of
-'  herr '  or  '  frau '  (3,  346)  ;  as  animals  are  invested  with  gossip-
-hood  and  brotherhood  (Reiuh.  p.  xxvii),  the  Edda  makes  air  (the
+'  herr '  or  '  frau '  (3,  346)  ;  as  animals  are  invested  with  gossiphood  and  brotherhood  (Reiuh.  p.  xxvii),  the  Edda  makes  air  (the
 awl)  brother  to  knifr,  Su.  133.  Under  this  head  too  I  bring
 the  pi-actice  of  coupling  'father*  and  'mother'  with  lifeless
 things  (Gramm.  4,  723).
@@ -22109,9 +20810,7 @@ worship ;  so  do  notions   related  to  these,   though  in  themselves
 882  PERSONIFICATIONS.
 
 impersonal  and  abstract,  acquire  a  claim  to  deification.  A  distinct
-personality  will  attach  to  animals,  plants,  stars,  wliich  stand  con-
-nected with  particular  gods,  or  have  sprung  out  of  metamor-
-phosis. One  might  say,  the  heathen  gods  as  a  whole  have  arisen
+personality  will  attach  to  animals,  plants,  stars,  wliich  stand  connected with  particular  gods,  or  have  sprung  out  of  metamorphosis. One  might  say,  the  heathen  gods  as  a  whole  have  arisen
 out  of  the  various  personifications  that  were  most  natural  to  each
 nation's  way  of  thinking  and  state  of  culture ;  but  that  individual
 figures  among  them,  by  combining  several  attributes  and  by
@@ -22120,8 +20819,7 @@ reputation.
 
 In  this  process  however  we  notice  an  important  distinction
 with  regard  to  sex  :  strong,  vehement  forces  and  operations  are
-by  preference  made  into  gods,  mild  and  gracious  ones  into  god-
-desses, which  of  itself  determines  the  superior  power,  as  a  rule,  of
+by  preference  made  into  gods,  mild  and  gracious  ones  into  goddesses, which  of  itself  determines  the  superior  power,  as  a  rule,  of
 the  male  divinities.  Yet  this  inferiority  of  the  goddesses,  added
 to  their  grace,  tended,  as  I  have  more  than  once  remarked,  to
 secure  their  status  longer,  while  the  stern  sway  of  the  gods  was
@@ -22130,8 +20828,7 @@ being  rooted  out.
 Everywhere  the  two  sexes  appear  hand  in  hand,  so  that  out  of
 their  union,  according  to  human  notions,  may  issue  new  births
 and  new  relationships.  Wherever  personification  is  not  directly
-intended,  it  is  the  habit  of  our  language  to  use  the  crude  unde-
-veloped neuter.
+intended,  it  is  the  habit  of  our  language  to  use  the  crude  undeveloped neuter.
 
 Amongst  elements,  we  find  air  and  fire  handed  over  more  to
 gods,  earth  and  water  more  to  goddesses.  Wuotan  appears  as
@@ -22140,8 +20837,7 @@ heaven  and  earth  ;  this  we  made  out  under  the  words  ivuot  (p.
 131)  and  ivoma  (p.  144;  conf.  p.  745),  and  perhaps  we  have  a
 right  to  connect  even  wehen  (to  blow)  with  waten  (to  wade),
 beben  (to  quake)  with  Biflindi  (p.  149).  The  hm^ricane  of  the
-'furious  host'  will  then  have  real  point  and  significance.  Favour-
-able wind  (p.  636-7)  was  in  the  hands  of  Wuotan  and  Zeus,  O^inn
+'furious  host'  will  then  have  real  point  and  significance.  Favourable wind  (p.  636-7)  was  in  the  hands  of  Wuotan  and  Zeus,  O^inn
 'weathered,'  stormed  or  thundered,  and  was  called  Vicfrir  (ibid.).
 The  shaking  of  the  air  by  thunder  is  everywhere  traced  to  the
 highest  god,  whom  our  antiquity  represents  separately  as  Donar,
@@ -22155,8 +20851,7 @@ AIR.      FIRE.      WATER.      EARTB:.  883
 
 light  (p.  632). Of  goddesses,  we  have  to  reckon  whoever  may
 
-staud  for  the  '  wind's  bride '  and  whirlwind,  Holda  who  accom-
-panies the  ^furious  host/  and  Herodias  (p.  632);  and  bear  in
+staud  for  the  '  wind's  bride '  and  whirlwind,  Holda  who  accompanies the  ^furious  host/  and  Herodias  (p.  632);  and  bear  in
 mind  that  to  the  same  Holda  and  to  Mary  is  given  power  over
 snow  and  rain  (pp.  267.  641.  174-5).  It  is  in  Wikram  25 P  that
 a  '  frau  luft '  first  occurs,  as  H.  Sachs  makes  aer,  ignis,  aqua  all
@@ -22170,16 +20865,14 @@ aiihns,  ovan,  which  to  us  denotes  the  mere  element  itself  (p.
 Donar,  like  the  Slavic  Perun,  hurls  the  lightning  flash,  yet  the
 Slavs  make  Grom,  thunder,  a  youth,  and  Munija,  lightning,  a
 maiden  (p.  178  n.).  Fire,  the  godlike,  is  spoken  to,  and  called
-'  bani  viSar,'  wood-killer.  Balder,  Phol,  is  perhaps  to  be  under-
-stood as  a  divinity  of  light  (pp.  227.  612-4),  and  from  another
+'  bani  viSar,'  wood-killer.  Balder,  Phol,  is  perhaps  to  be  understood as  a  divinity  of  light  (pp.  227.  612-4),  and  from  another
 point  of  view  0  star  a  (p.  291).  Mist  was  taken  for  a  valkyr  (p.
 421).
 
 EUr  (p.  240)  and  Oegir  (pp.  137.  311)  are  gods  of  the  wave,
 and  Ban  a  goddess  (p.  311);  Qehan,  Gefjon  (pp.  239.  311)  is
 divided  between  both  sexes.  The  fern,  ahva  (p.  583  n.)  and  the
-female  names  of  our  rivers  (p.  600)  lead  us  to  expect  water-
-goddesses,  with  which  agrees  the  preponderance  of  nixies  and
+female  names  of  our  rivers  (p.  600)  lead  us  to  expect  watergoddesses,  with  which  agrees  the  preponderance  of  nixies  and
 mermaids  (p.  487),  also  the  softness  of  the  element,  though
 OSinn  too  is  found  under  the  name  of  Hnikar  (ibid.)  Snow  and
 Hoarfrost  are  thought  of  as  male  (p.  761),  but  the  Norse  Drifa
@@ -22200,8 +20893,7 @@ to  introduce  directly  a  deification  of  sacred  trees,  and  most  trees
 
 884  PERSONIFICATIONS.
 
-are  regarded  as  female;  we  saw  (pp.  651-2-3)  how  tlie  popu-
-lar mind  even  in  recent  times  treated  '  frau  Hasel,  frau  ElJiorn,
+are  regarded  as  female;  we  saw  (pp.  651-2-3)  how  tlie  popular mind  even  in  recent  times  treated  '  frau  Hasel,  frau  ElJiorn,
 f  ran  Wacholder,  frau  Fichte  '  as  living  creatures.  Hlin  and  Gnci,
 handmaids  of  Frigg,  are  named  in  Sn.  38  among  asynjor,  and
 Hloch  in  Sn.  39  among  valkyrjor :  all  three,  according  to  Biorn,
@@ -22224,8 +20916,7 @@ the  identity  of  the  Goth,  sduil,  AS.  segil,  with  sol  and  7]\to<;,
 makes  it  appear  likely  that  with  us  too  the  relation  between  sun
 and  moon  was  once  the  same  as  in  the  classical  languages  (p.  701),
 and  was  only  departed  from  by  slow  degrees.  Even  in  MHG.
-the  gender  of  '  sunne  '  continued  to  vacillate,  as  the  Latin  con-
-versely shews  a  Lumis  by  the  side  of  Luna.  In  the  same  way
+the  gender  of  '  sunne  '  continued  to  vacillate,  as  the  Latin  conversely shews  a  Lumis  by  the  side  of  Luna.  In  the  same  way
 the  Goth,  stairno,  ON.  stiarna,  is  fem.  like  stella,  but  the  OHG.
 sterno,  OS.  sterro,  AS.  steorra,  masc.  like  aarrip ;  and  each  has
 its  justification  in  the  particular  stars  personified.
@@ -22264,12 +20955,10 @@ from  which  our  language  drew  similar  designations ;  and  it  is  a
 significant  thing  that,  as  one  of  the  highest  gods  borrowed  lustre
 from  the  sword,  so  did  the  fairest  of  goddesses  from  her  necklace,
 she  after  whom  all  ladies  are  called  freyja  (pp.  299.  306).  In
-our  oldest  laws  the  sword  ^  was  an  essential  part  of  the  'her-
-gewate,'  war-equipment,  and  the  necklace  of  the  'frauen-gerade,'
+our  oldest  laws  the  sword  ^  was  an  essential  part  of  the  'hergewate,'  war-equipment,  and  the  necklace  of  the  'frauen-gerade,'
 woman's  outfit  (RA.  567  seq.)  ;  now,  as  we  find  in  the  Lex  Angl.
 et  Werin.  7,  3  the  expression  '  ornamenta  muliebria  quod  rliedo
-dicunt,'  it  becomes  a  question,  whether  a  totally  difi'erent  ex-
-planation of  the  AS.  goddess  Rheda  from  that  attempted  on
+dicunt,'  it  becomes  a  question,  whether  a  totally  difi'erent  explanation of  the  AS.  goddess  Rheda  from  that  attempted  on
 p.  289  be  not  the  right  one.  Ostara,  Eastre,  was  goddess  of  the
 growing  light  of  spring,  and  Hrede  might  be  goddess  of  female
 beauty,  another  name  for  Frouwa,  Freyja,  or  a  personification  of
@@ -22292,8 +20981,7 @@ closely  on  the  notion  of  demonic  sea-horses  (p.  490).
 -  The  personifications  Hamur  and  Ileru  as  weapons  of  the  highest  gods,  and
 their  counterpart  the  feminine  spindle  and  necklace,  support  each  other  (couf.
 p.  204).  The  hammer  was  left  to  grow  diabolic  (ch.  XXXUI)  and  superstitious
-(XXX VII),  but  the  men  would  not  allow  their  sword  to  be  dishonoured.  The  In-
-dians personified  and  apostrophized  the  sacrificial  knife  (Giittiug.  anz.  1831,  p.
+(XXX VII),  but  the  men  would  not  allow  their  sword  to  be  dishonoured.  The  Indians personified  and  apostrophized  the  sacrificial  knife  (Giittiug.  anz.  1831,  p.
 1762).
 
 
@@ -22302,14 +20990,12 @@ dians personified  and  apostrophized  the  sacrificial  knife  (Giittiug.  anz.
 leiba  (Graff  3,  855) ,  more  exactly  hrataleipa,  on  comparing  which
 with  the  AS.  sweorda  lafe,  homera  lafe   (Beow.  5868.  5654),  i.e.
 lafe  preceded  by  a  genitive,  we  see  that  Hredan  or  Hredean   lafe
-would  originally  mean  jewellery  the  legacy  (leavings)  of  the  god-
-dess, which  afterwards  all  women  divided  among  them.    And  this
+would  originally  mean  jewellery  the  legacy  (leavings)  of  the  goddess, which  afterwards  all  women  divided  among  them.    And  this
 explanation  is  supported  by  several  other  things.     Not  only  do
 the  Norse  skalds  designate  woman  in  general  by  the  name  of  any
 ornament  that  she  wears ;  but  Freyja  herself,   whose  bosom  is
 adorned  with  that  costly  Brisinga  men    (Goth.  Breisigge  mani  ?
-p.  306),  as  mother  earth  too  wears  her  *  iarSar  men'  the  green-
-sward (p.  643),  gave  birth  to  a  divine  daughter  identical  with
+p.  306),  as  mother  earth  too  wears  her  *  iarSar  men'  the  greensward (p.  643),  gave  birth  to  a  divine  daughter  identical  with
 herself,  whose  name   also  gets  to  mean  ornament  and  jewelry.
 Sn.  37  says,   she  was  called   Hnoss,  and   was   so  beautiful  that
 everything    elegant  and  precious  was  named  hnossir ;  '  hnossir
@@ -22320,8 +21006,7 @@ nust,  nusc  (Graff  2,  1006-7)  ;  either  way  it   so  obviously  agrees
 withbris  (compages,  nodus),  or  with  nusta  (ansula),  nuskil  (fibula),
 that  it  is  wonderfully  like  the  Brisinga  (or  Brisinga)   men  of  the
 mother.     But  elsewhere  we  find   Freyja  provided  with  another
-daughter  Gersimi  (Sn.  212.    Yngl.  saga  c.   13),  whose  name  ex-
-hibits the  same  notion  over  again,  nay  it  has  found  its  way,  like
+daughter  Gersimi  (Sn.  212.    Yngl.  saga  c.   13),  whose  name  exhibits the  same  notion  over  again,  nay  it  has  found  its  way,  like
 rhedo,  into  ancient  legal  phraseology.    Gersemi  (fern.)  means  costly
 ornament,  cimelium  (Gloss,  to  Gragas  p.  26),  also  arrha,  and  mulcta
 pactitia;  the  Ostgota-lag  giptab.  18  has  garsimi,  the  Vestgota-lag
@@ -22329,9 +21014,7 @@ p.  140  gorsimar,   the    Dan.   laws   giorsum,   giorsum  ;    even  A.S.
 records  repeatedly  use  the  phrase  '  gaersuman,  gersuman  niman,'
 gersumam  capere  in  the  sense  of  thesaurum,  cimelium  (Spelm.  p.
 263^*.    Ducange  3, 513),  bat  I  have  not  come  across  it  in  the  poets.
-As  the  AS.  -sum  answers  to  OHG.  -sam  (Gramm.  2,  574),  I  con-
-jecture an  OHG.  karosemi  (from   karo,  gar,  yare,  paratus)   mean-
-ing the   same  as  wip-garawi,  mundus  muliebris    (Graff  4,  241) ;
+As  the  AS.  -sum  answers  to  OHG.  -sam  (Gramm.  2,  574),  I  conjecture an  OHG.  karosemi  (from   karo,  gar,  yare,  paratus)   meaning the   same  as  wip-garawi,  mundus  muliebris    (Graff  4,  241) ;
 we  should  then  have  learnt  three  new  equivalents  for  the  gerade
 of  our  German  law  :  rhedo,  hnoss,  gersemi,  all  of  them  personified
 and  deified  as  Hreda,  Hnoss,  Gersemi.     Again,  it   occurs   to  me
@@ -22392,8 +21075,7 @@ VOL.   II.  «  a
 
 888  PERSONIFICATIONS.
 
-Abstract  immaterial  objects  open  a  far  wider  field  for  personifi-
-cations ;  and  here  we  see  female  ones  decidedly  predominate  over
+Abstract  immaterial  objects  open  a  far  wider  field  for  personifications ;  and  here  we  see  female  ones  decidedly  predominate  over
 male.
 
 Of  the  latter  the  most  striking  instances  are,  I  think,  the
@@ -22407,15 +21089,13 @@ If  I  am  right  in  my  interpretations  of  Gibika  (p.  137),  Gduts  (pp.
 to  match  them  also.  All  these  names  belonged  to  the  highest
 god,  whose  creative  bounty  blesses  ;  others  to  his  near  kinsman
 the  majestic  god  of  war  :  Wig  (pugna,  p.  203,  conf.  Graff  1,  740)
-and  Hadu  (pp.  207.  223),  to  which  many  female  names  corre-
-spond, Hilta,  etc.^  With  Yggr  (p.  208)  I  have  identified  the
+and  Hadu  (pp.  207.  223),  to  which  many  female  names  correspond, Hilta,  etc.^  With  Yggr  (p.  208)  I  have  identified  the
 Pallor  and  Pavor  of  the  Eomans ;  Omi,  Woma  is  better  explained
 as  elemental.  What  comes  nearer  to  Wig  and  Hadu  is  Death,
 DaiiJ^us  (p.  842),  which  likewise  from  a  male  becomes  a  female
 person ;  that  death  is  immediately  related  to  hunger  is  shewn
 in  our  language,  Goth,  svults  being  mors,  and  ON.  sultr  fames
-[Germ,  sterben,  Eng.  starve],  like  Xt/io?  hunger,  \oL^6<i  pesti-
-lence ;  and  personifications  start  up  on  every  side  :  hungr  is
+[Germ,  sterben,  Eng.  starve],  like  Xt/io?  hunger,  \oL^6<i  pestilence ;  and  personifications  start  up  on  every  side  :  hungr  is
 HeFs  dish,  sultr  her  knife  (Sn.  33),  Herbout  (Renart  23362.
 Roman  de  la  rose  18097)  is  a  visitation  of  famine,  a  name  I  derive
 from  the  OHG.  Heribalt,  for  Hunger  stalks  like  a  mighty  warrior
@@ -22459,8 +21139,7 @@ suujons  defensio  (sunjo  p.  310  was  an  error),  and  the  suunis
 excusatio  found  in  our  oldest  laws,  so  that  the  meaning  seems  to
 be  defence ;  Hltn,  whom  Frigg  has  set  for  the  protection  of  all
 men  that  are  in  peril,  from  hlina  tueri,  f overe.^  Even  Hali,  Halja
-is  a  sheltering  goddess,  who  hides  us  in  the  bosom  of  the  under-
-world, and  originally  a  kind  one.
+is  a  sheltering  goddess,  who  hides  us  in  the  bosom  of  the  underworld, and  originally  a  kind  one.
 
 From  the  oft-recurring  phrases :  '  was  im  thiu  fruma  gibidig,*
 Hel.  110,  2.  130,  13  ;  '  thiu  fruma  ist  hiar  irougit,'  0.  i.  15,  32  ;
@@ -22484,8 +21163,7 @@ attributed  to  hlin  of  a  (sheltering?)  tree  (p.  884).
 
 890  PEESONIFICATIONS.
 
-gife^e  (opes  concessae)  .^  Like  the  above  '  ttiu  fruma  uns  ir-
-reimta  ^  we  have  'then  thiu  sahda  gireim/  0.  i.  3,  17;  giriman
+gife^e  (opes  concessae)  .^  Like  the  above  '  ttiu  fruma  uns  irreimta  ^  we  have  'then  thiu  sahda  gireim/  0.  i.  3,  17;  giriman
 again  is  a  higher  '  falling  to  one^s  lot/  and  in  0.  iii.  9,  11.  12  is
 the  combination  :  '  fruma  thana  fuarta,  salida  inti  heili/  And
 salida,  like  fruma,  comes  '  in  henti/  to  hand.  The  unquestionable
@@ -22557,14 +21235,12 @@ Nithart  135  speaks  of  a  female  being  Vromuot  (merry-mind)  in
 a  way  that  excludes  a  human  person ;  something  mythical  must
 lie  at  the  back  of  it.  Hiltrat  and  some  other  maidens  are  to
 meet  for  dancing,  and  with  them  shall  fare  Fromuot,  'diu  ist  ir
-aller  wisel,'  queen-bee  of  them  all.  They  brought  their  atten-
-dants, she  at  springtime  had  entered  the  land,  but  afterwards  she
+aller  wisel,'  queen-bee  of  them  all.  They  brought  their  attendants, she  at  springtime  had  entered  the  land,  but  afterwards  she
 is  missing,  she  has  jied  out  of  Austria,  probably  because  she  was
 not  held  in  honour  there.  The  poet  closes  this  (first)  song  with
 the  exclamation  :  'could  we  but  win  her  back,  we  should  bear
 her  on  our  hands,'  as  the  hero  of  the  hour  (a  king,  a  bride)  is
-raised  on  high  and  carried  about ;  the  passage  on  Eiidiger  sug-
-gests the  same  kind  of  '  chairing.'  In  the  second  song  we  are
+raised  on  high  and  carried  about ;  the  passage  on  Eiidiger  suggests the  same  kind  of  '  chairing.'  In  the  second  song  we  are
 told  that  Fromuot  fareth  sorrowful  from  land  to  land  in  seai^ch  of
 cheerful  men ;  now  who  so  certain  of  his  happiness  and  luck,
 that  he  dare  send  an  embassy  to  her  ?  Why,  none  but  prince
@@ -22574,8 +21250,7 @@ OS.  fromod  (Hel.  35,  1)  means  jovial,  but  Fromuot  likewise
 occurs  as  a  woman's  name  (Graff  2,  699),  it  is  that  of  Sigeminne's
 handmaid  in  Wolfd.  673-5-6-7.  719,  and  the  pei'souification
 may  have  its  reason  in  ancient  ways  of  thinking.^  In  a  poem  of
-the  early  part  of  the  15th  cent.  (Z.  f.  d.  a.  1,  421), /raw  Gerechtig-
-keit  (righteousness)   and  her  companions  say  :  '  now  am  I  clean
+the  early  part  of  the  15th  cent.  (Z.  f.  d.  a.  1,  421), /raw  Gerechtigkeit  (righteousness)   and  her  companions  say  :  '  now  am  I  clean
 
 1  The  emendation  proposed  in  Altd.  bl.  1,  371,  '  vrou  Muot,'  is  actually  found
 in  MsH.  3,  218",  in  case  the  var.  loctt.  TOS**  have  had  full  justice  done  them.  But
@@ -22634,8 +21309,7 @@ to  give  her  for  sisters  two  unfeminine  ideas,  '  fridu  '  and  '  reht 
 (v.  23,  125);  the  Latin  Garitas,  Pax,  Justitia  would  more  fitly
 have  discharged  the  office  of  fates,  and  a  German  Sippa  and  Rehti
 would  have  answered  to  them:  Notker  in  Cap.  133  manages
-better,  when  he  translates  Concordia,  Fides,  Pudicitia  by  Gemein-
-muoti,  Triwa,  Chiuski.  I  bring  these  examples  to  shew  how
+better,  when  he  translates  Concordia,  Fides,  Pudicitia  by  Gemeinmuoti,  Triwa,  Chiuski.  I  bring  these  examples  to  shew  how
 familiar  such  personifications  were  even  in  the  9- 10th  cent. ;  they
 need  not  have  been  invented  or  introduced  first  by  the  MHG.
 poets.
@@ -22653,8 +21327,7 @@ of /row  i/re  were  given  a  page  or  two  back,  and  o^  fron  Scelde
 p.  865-6.  These  personifications  are  brought  in  more  sparingly
 by  Gotfried  and  Conrad,  yet  in  the  Trist.  10929  diu  Maze  cuts
 out  a  garment,  and  just  before  that  comes  the  fine  passage  (10900)
-on  Isot^s  figure  :  '  als  si  diu  Minne  drj^te  ir  selber  z'eime  veder-
-spil,  dera  Wunsche  z'einem  endezil,  da  fiir  er  niemer  komen  kan,^
+on  Isot^s  figure  :  '  als  si  diu  Minne  drj^te  ir  selber  z'eime  vederspil,  dera  Wunsche  z'einem  endezil,  da  fiir  er  niemer  komen  kan,^
 as  if  Venus  had  made  her  for  a  toy  to  herself,  and  for  utmost
 bound  to  Wish,  that  he  can  never  get  beyond,  Tristan  4807  has
 '  diu  gotinne  Minne,'  and  Parz.  291,  17  once/ro?t  Liebe  as  well  as
@@ -22678,14 +21351,12 @@ John  19,  23.]
 
 nearly  all  of  one  traditional  pattern,  whicli  even  Hans  Sachs  is
 excessively  fond  of,  there  occur  now  and  then  shrewd  and  happy
-thoughts,  which  must  be  allowed  to  possess  a  mythical  signifi-
-cance. By  degrees  all  the  devices  of  poetry  were  so  used  up,
+thoughts,  which  must  be  allowed  to  possess  a  mythical  significance. By  degrees  all  the  devices  of  poetry  were  so  used  up,
 the  art  was  so  denuded  of  her  native  resources,  that  no  other
 expedient  was  left  her;  our  Mythology  will  have  to  remember
 this,  and  in  stray  features  here  and  there  recognise  [mangled  but]
 still  palpitating  figures  even  of  the  heathen  time.  When  the
-poet  has  missed  his  way  in  a  wooded  wild,  and  beside  the  mur-
-muring spring  comes  upon  a  wailing  wife,  who  imparts  advice
+poet  has  missed  his  way  in  a  wooded  wild,  and  beside  the  murmuring spring  comes  upon  a  wailing  wife,  who  imparts  advice
 and  information,  what  is  this  but  the  apparition  of  a  wish-wife
 or  valkyr,  who  meets  the  hero  at  the  forest  fount,  and  makes
 a  covenant  with  him  ?  And  that  dwarfs  or  giants  often  come
@@ -22700,15 +21371,13 @@ hende,  si  hot  ir  leit,  si  schre  vil  lute../  miu  schar  ist  worden  al
 kleine  (my  followers  are  grown  far  too  few).'  Cod.  Berol.  284
 fol.  57-8  :  By  a  steep  cliff  in  the  greenwood  lives  Virtue,  and  on
 a  high  rock  beside  it  her  sister  dame  Honour,  with  whom  are
-Loyalty,  Bounty,  Meekness,  Manhood,  Truth  and  Gonstavcy,  be-
-wailing the  death  of  a  count  of  Holland.  Ls.  1,  375  (a  charming
+Loyalty,  Bounty,  Meekness,  Manhood,  Truth  and  Gonstavcy,  bewailing the  death  of  a  count  of  Holland.  Ls.  1,  375  (a  charming
 tale)  :  On  a  May  morning  the  poet  is  roused  from  sleep  by  a
 passionate  cry,  he  starts  up,  goes  into  the  forest,  and  climbs  over
 steep  rocks,  till  high  up  he  reaches  a  delectable  flowery  vale,  and
 in  the  dense  thicket  spies  a  little  wight,  who  rates  him  soundly
 and  wishes  (like  Laurin)  to  impound  him  for  trampling  his  lady's
-roses.  When  pacified  at  last,  he  tells  him  that  here  in  a  strong-
-hold not  to  be  scaled  lives  dame  Honour  with  five  maidens  of
+roses.  When  pacified  at  last,  he  tells  him  that  here  in  a  stronghold not  to  be  scaled  lives  dame  Honour  with  five  maidens  of
 her  household,  named  Adeltrid,  Schamigunt,  Zuhtliehe,  Tugenthilt
 and  Mazeburc  (the  ancient  Hiltia,  Gandia,  Drut,  p.  422).  Ls.  3
 83  ;  A  woman  on  a  pilgrimage,  having  lost  her  way  in  the  wooded
@@ -22723,17 +21392,13 @@ PEESONIFICATION,  895
 journeys  on  to  the  tent  of  Yovng  Minne,  "who  like  lier  playmate
 Wanhelmut  (fickle-mind,  a  fem.  formed  like  Frumuot)  wears
 checkered  garments,  and  is  busy  entering  men  and  women's
-names  in  a  book  (like  the  parca  and  wurd,  p.  406  n.),  and  pro-
-claims the  new  ways  of  the  world.  In  the  end  Old  Minne  de-
-clares that  she  hopes  some  day  to  appear  again  among  men,  and
+names  in  a  book  (like  the  parca  and  wurd,  p.  406  n.),  and  proclaims the  new  ways  of  the  world.  In  the  end  Old  Minne  declares that  she  hopes  some  day  to  appear  again  among  men,  and
 drag  the  false  Minne  openly  to  justice.  A  song  in  MsH.  3,  437*
 describes  how  dame  Honour  sits  in  judgment,  with  Loyalty^
-Charity  and  Manhood  on  her  right.  Shame,  Chastity  and  Modera-
-tion on  her  left.  P.  Suchenwirt  xxiv. :  The  poet  follows  a  narrow
+Charity  and  Manhood  on  her  right.  Shame,  Chastity  and  Moderation on  her  left.  P.  Suchenwirt  xxiv. :  The  poet  follows  a  narrow
 path  into  a  great  forest,  where  a  high  mountain  rises  to  the
 clouds  :  a  dwarf  meets  him  at  the  mouth  of  a  cave,  and  informs
-him  of  a  court  to  be  held  in  that  neighbourhood  by  dame  Con-
-stancy and  Justice.  He  goes  on  his  way,  till  he  comes  to  the
+him  of  a  court  to  be  held  in  that  neighbourhood  by  dame  Constancy and  Justice.  He  goes  on  his  way,  till  he  comes  to  the
 judgment-seat,  before  which  he  sees  Minne  appear  as  plaintiff,
 followed  by  Moderation,  Chastity,  Shame,  and  Modesty,  he  hears
 her  cause  pleaded  and  decided,  but  frau  Minne  spies  him  in  his
@@ -22756,8 +21421,7 @@ notable  precept  '  ere  all  frouwen  fin ! '  honour  all  gentle  dames
 
 As  a  counterpart,  there  are  personifications  of  Vices  too,  but
 far  fewer  and  feebler,  as  our  antiquity  in  general  does  not  go
-upon  dualism,  and  in  higher  beings  the  idea  of  the  good  prepon-
-derates. Besides,  when  malignant  daemons  do  appear,  they  are
+upon  dualism,  and  in  higher  beings  the  idea  of  the  good  preponderates. Besides,  when  malignant  daemons  do  appear,  they  are
 by  preference  made  masculine:  zoi'n  (anger),  hass  (hate),  neid
 (envy)  ;  though   the    Lat.   ira  and  iuvidia  are   fem.,  and   odium
 
@@ -22774,8 +21438,7 @@ the  notion  of '  crying  sins,  deadly  sins  '  is  Biblical.  Neither  does
 the  part  she  played  of  old  (p.  407)  seems  totally  forgotten  ;  what
 lends  itself  more  readily  to  personification  is  Scliande  f.  (dedecus) .
 It  would  be  hard  to  find  the  negatives  '  unere,  unmilde,  unsteete '
-treated  as  persons,  and  we  only  meet  with  JJntriuwe  in  Frauen-
-lob  253,  5.  14; /row  Unfuoge  (unfitness)  was  quoted  p.  311  n.,  but
+treated  as  persons,  and  we  only  meet  with  JJntriuwe  in  Frauenlob  253,  5.  14; /row  Unfuoge  (unfitness)  was  quoted  p.  311  n.,  but
 if,  as  is  likely,  the  positive  Gefuoge  contains  fundamentally  a
 physical  sense,  it  hardly  falls  under  the  category  of  vices,  but  like
 Unseelde  (p.  878)  marks  the  negation  of  a  state.  In  the  Bible
@@ -22823,8 +21486,7 @@ for  his  chosen  messengers,  but  their  office  could  also  be  handed
 over  to  divine  beings  of  secondary  rank,  as  Zeus  employs  Iris  and
 Ossa,  and  the  notion  of  angel  has  arisen  directly  out  of  that  of
 messenger.  Virgil's  famous  description  of  Fama,  small  at  first,
-but  quickly  growing  to  enormous  size  (Aen,  4,  173)  with  innu-
-merable feathers,  eyes,  ears,  and  mouths,  seems  almost  borrowed
+but  quickly  growing  to  enormous  size  (Aen,  4,  173)  with  innumerable feathers,  eyes,  ears,  and  mouths,  seems  almost  borrowed
 from  the  image  of  a  bird  getting  fledged;  at  all  events  the
 St.  Gall  monk  (Pertz  2,  742)  delivers  himself  thus :  '  cum  fama
 de  'minima  meisa  (sup.  p.  683)  super  aquilarum  maguitudinem
@@ -22885,1341 +21547,3 @@ or  the  ON.  qvittr  :  '  sa  kvittr  flo  i  byg^um,'  Fornm.  sog.  9,  237
 (see  Suppl.).
 
 1  '  Die  aechtesal  vlouc  uber  al ; '  '  ir  echte  vlouc  in  die  lant,'  Kaiserchr.  6406-79.
-
-
-Butler  &  Tanner,  Frome,  and  London.
-
-
-April,  1882.
-
-A  CLASSIFIED  LIST
-
-OP
-
-EDUCATIONAL    WORKS
-
-PUBLISHED    BY
-
-GEORGE  BELL  &  SONS.
-
-
-Full  Catalogues  will  he  sent  post  free  on  application.
-
-
-BIBLIOTHECA    CLASSICA.
-
-A  Series  of  Greek  and  Latin  Auth&rs,  with  English  Notes,  edited  by
-eminent  Scholars.     8vo.
-
-^schylus.    By  F.  A.  Paley,  M.A.     IBs.
-
-Cicero's  Orations.    By  G.  Long,  M.A.  4  vols.    16s.,  14s.,  16»,,  18s.
-
-Demosthenes.     By  E.  Wliiston,  M.A.     2  vols.    16s.  each.
-
-Euripides.    By  F.  A.  Paley,  M.A.     3  vols.     16s.  each.
-
-Homer.     By  F.  A.  Paley,  M.A.    Vol.  I.  12s. ;  Vol.  II.  14s.
-
-Herodotus.    By  Kev.  J.  W.  Blakesley,  B.D.     2  vols.     32s.
-
-Hesiod.    By  F.  A.  Paley,  M.A.     10s.  6rf.
-
-Horace.    By  Eev.  A.  J.  Macleane,  M.A.     18s.
-
-Juvenal  and  Persius.     By  Kev.  A.  J.  Macleane,  M.A.     12s.
-
-Plato.     By  W.  H.  Thompson,  D.D.     2  vols.     7s.  &d.  each.
-
-Sophocles.    Vol.  I.     By  Eev.  F.  H.  Blaydes,  M.A.     IBs.
-
-Vol.  II.     Philoctetes.     Electra.     Ajax  and  Trachinice.     By
-
-F.  A.  Paley,  M.A.     12s.
-Tacitus :  The  Annals.     By  the  Eev.  P.  Frost.     15s.
-Terence.    By  E.  St.  J.  Parry,  M.A.    IBs.
-VirgU.    By  J.  Conington,  M.A.     3  vols.    14s.  each.
-
-An  Atlas  of  Classical  Geography;  Twenty-four  Maps.  By
-W.  Hughes  and  George  Long,  M.A.  New  edition,  with  coloured  outlines.
-Imperial  8vo.    12s.  6d.
-
-Uniform  with  above.
-A  Complete  Latin  Grammar.    By  J.  W.  Donaldson,  D.D.    3rd
-
-Edition.     14s.
-
-GRAMMAR-SCHOOL  CLASSICS.
-
-A  Scries  of  Greek  and  Latin  Atithors,  with  English  Notes.  Fcap.  8vo.
-
-Csesar  :  De  Bello  Gallico.     By  George  Long,  M.A.     5s.  &d.
-
-Books  I.-III.  For  Junior  Classes.   By  G.Long,  M.A.  2s.  6d.
-
-Catullus,  Tibullus,  and  Propertius.  Selected  Poems.  With  Life.
-By  Rev.  A.  H.  Wratislaw.    Ss.  6d.
-
-
-George  Bell  and  Sons'
-
-
-Cicero :  De  Senectute,  De  Amicitia,  and  Select  Epistles.  By
-Georg-e  Long,  M.A.    -is.  6d.
-
-Cornelius  Nepos.    By  Rev.  J.  F.  Macmichael.     2s.  &d.
-
-Homer:  Iliad.    Books  I.-XII.     By F.  A. Paley,  M.A.     6s.  6d.
-
-Horace.     With   Life.     By  A.   J.   Macleane,   M.A.      6s.  6d.     [In
-
-2  parts.     3s.  6d.  each.]
-Juvenal :  Sixteen  Satires.    By  H.  Prior,  M.A.     4s.  &d.
-Martial:  Select  Epigrams.  With  Life.  By  F.  A.  Paley,  M.A.  6s.  6i.
-Ovid :  the  Fasti.     By  F.  A.  Paley,  M.A.     5s,
-
-Sallust :  CatUina  and  Jugurtha.  With  Life.  By  G.  Long,  M.A.  5s.
-Tacitus :  Germania  and  Agricola.    By  Eev.  P.  Frost.     3s.  Qd.
-
-Virgil:  Bucolics,  Georgics,  and  ^neid.  Books  I.-IV.  Abridged
-from  Professor  Conington's  Edition.  -5.^.  6d. — ^neid,  Books  V.-XII.  5s.  6d.
-Also  in  9  separate  Volnmes,  Is.  6(1.  each.
-
-Xenophon:  The  Anabasis.  With  Life.  ByPiev.  J.  F.  Macmichael.  5s.
-Also  in  4  separate  volumes,  Is.  Gd.  each.
-
-The  Cyi-opffidia.     By  G.  M.  Gorham,  M.A.     6s.
-
-Memorabilia,    By  Percival  Frost,  M.A.     4s.  6d.
-
-A  Grammar- School  Atlas  of  Classical  Geography,  containing
-Ten  selected  Maps.     Imperial  8vo.    5s.
-
-Uniform  loith  the  Series.
-The  New  Testament,  in  Greek.     With  English  Notes,  &c.     By
-
-
-Rev.  J.  F.  Macmichael.     7*.  Cd.
-
-
-CAMBRIDGE    GREEK   AND    LATIN    TEXTS.
-
-.SIschylus.     By  F.  A.  Paley,  M.A.     3s.
-
-Caesar :  De  BeUo  Galileo.     By  G.  Long,  M.A.     2s.
-
-Cicero  :  De  Senectute  et  de  Amicitia,  et  Epistolae  Selectse.  By
-
-G.  Long,  M.A.     Is.  6d.
-Ciceronis  Orationes.  Vol.  I.  (in  Verrem.)   ByG.  Long,  M.A.  3s.6(i.
-Eiiripides.     By  F.  A.  Paley,  M.A.     3  vols.     3s.  6d.  each.
-Herodotus.     By  J.  G.  Blake.sley,  B.D.     2  vols.     7s.
-Homeri  Ilias.     I.-XII.     By  F.  A.  Paley,  M.A.     2s.  6i.
-Horatius.    By  A.  J.  Macleane,  M.A.     2s.  M.
-Juvenal  et  Persius.    By  A.  J.  Macleane,  M.A.     Is.  6i.
-Lucretius.     By  H.  A.  J.  Munro,  M.A.     2s.  6i.
-SaUusti  Crispi  Catilina  et  Jugurtha.    By  G.  Long,  M.A.   Is.  6i.
-Sophocles.     By  F.  A.  Paley,  M.A.  [In  the  pi-ess.
-
-Terenti  Comcediae.    By  W.  Wagner,  Ph.D.     3s,
-Thucydides.    By  J.  G.  Donaldson,  D.D.     2  vols.     7s.
-Virgilius.     By  J.  Conington,  M.A.     3s.  M.
-Xenophontis  Expeditio  Cyri.   By  J.  F,  Macmichael,  B,A.  2s.  &d.
-
-Novum   Testamentum   Graeciun.      By  F.   H.   Scrivener,   M.A.
-4s.  6d.     An  edition  with  wide  margin  for  notes,  half  bound,  12s.
-
-
-Educational,  Works.
-
-
-CAMBRIDGE    TEXTS   WITH    NOTES.
-
-A  Selection  oj  the  most  usually  read  of  the  Greek  and  Latin  Authors,
-Annotated  for  Schools.     Fcap.  8vo.  Is.  6d.  each.,  loith  exceptions.
-
-Euripides.  Alcestis. — Medea. — Hippolytus. —  Hecuba. — Baccha.
-Ion.  2s. — Orestes. — Phoenissffi. — Troades.  By  F.A.  Paley,  M.A.
-
-.ffischylus.  Prometheus  Vinctus.  —  Septem  contra  Tliebas. — Aga-
-memnon.— Persas. — Eumenides.     By  F.  A.  Paley,  M.A.
-
-Sophocles.     (Edipus  Tyrannus.  —  ffidipus  Coloneus.  —  Antigone.
-
-By  F.  A.  Paley,  M.A.
-Homer.     Iliad.    Book  I.     By  F.  A.  Paley,  M.A.     Is.
-
-Terence.  Andria. — Hauton  Timorumenos. — Phormio. — Adeljilioe.
-By  Professor  Wagner,  Ph.D.
-
-Cicero's  De  Senectute — De  Amicitia  and  Epistolse  Selectaa.      By
-
-Gt.  Long,  M.A.
-Ovid.    Selections.    By  A.  J.  Macleane,  M.A.
-
-OOicrs  in  •preparation.
-
-PUBLIC    SCHOOL  SERIES.
-
-A  Series  of  Classical  Texts,  annotated  hy  vjell-kiiown  Scholars.   C'r.  8vo.
-Aristophanes.     The  Peace.    By  F.  A.  Paley,  M.A.     4s.  6d.
-
-The  Acharnians.    By  F.  A.  Paley,  M.A,     4s.  6d.
-
-The  Frogs.     By  F.  A.  Paley,  M.A.     4s.  6d.
-
-Cicero.     The  Letters  to  Atticus.   Bk.  I.   By  A.  Pretor,  M.A.  4s.  Od.
-Demosthenes  de  Falsa  Legatione.     By  E.  Shilleto,  M.A.     6s.
-
-The  Law  of  Leptines.     By  B.  W.  Beatson,  M.A.     3s.  6d.
-
-Plato.     The  Apology  of  Socrates  and  Crito.    By  W.  Wagner,  Ph.D.
-
-6th  Edition.     4s.  6d.
-
-The  Phajdo.     6th  Edition.    By  W.  Wagner,  Ph.D.     5s.  6.?.
-
-The  Protagoras.   3rd  Edition.    By  W.  Wayte,  M.A.    4s.  Gd.
-
-The  Euthyphro.     2nd  edition.     By  G.  H.  Wells,  M.A.    3s.
-
-The  Euthydemus.     By  G.  H.  WclLs,  M.A.     4s.
-
-The  Republic.    Books  I.  &  II.    By  G.  H.  Wells,  M.A.    os.  Cni.
-
-Plautus.  The  Aulularia.   By  W.  Wagner,  Ph.D.   2nd  edition.  4s.  Cd.
-
-Trinmnmus.     By  W.  Wagner,  Ph.D.    2nd  edition.     4s.  6a.
-
-The  Menaechmei.     By  W.  Wagner,  Ph.D.     4s.  &d.
-
-Sophoclis  Trachinise.     By  A.  Pretor,  M.A.     4s.  6d.
-Terence.    By  W.  Wagner,  Ph.D.     10s.  &d.
-Theocritus.     By  F.  A.  Paley,  M.A.     4s.  6d.
-
-Others  in  preparation.
-
-CRITICAL  AND  ANNOTATED   EDITIONS.
-
-Mtna.    By  H.  A.  J.  Munro,  M.A.     3s.  &d.
-
-Aristophanis  Comcediae.  By  H.  A.  Holden,  LL.D.  8vo.  2  vols,
-23s.  6d.     Plays  sold  separately.
-
-Pax.    "By  F.  A.  Paley,  M.A,    Fcap.  8yo.     4s.  6cf.
-
-CatiiUus.     By  H.  A.  J.  Munro,  M.A.     7s.  6d.
-
-Corpus  Poetarum  Latinorum.   Edited  by  Walker.   Ivol.Svo.  18?.
-
-Horace.     Quinti  Horatii  Flacci  Opera.     By  H.  A.  J.  Munro,  M.A.
-
-Large  8vo.     11.  Is.
-Livy.     The  first  five  Books.    By  J.  PrendevUle.     12mo.  roan,  5s.
-
-Or  Books  I.-III.  3s.  6d.    IV.  and  V.  3s.  6d.
-
-
-George  Bell  and  Sons'
-
-
-Lucretius.  Titi  Lucretii  Cari  de  Eerum  Natnra  Libri  Sex,  With
-a  Translation  and  Notes.  By  H.  A.  J.  Munro,  M.A.  2  vols.  8ye.  Vol.  I.
-Text.  (New  Edition,  Preparing.)    Vol.  II.  Translation.   (Sold  separately.)
-
-Ovid.   P.  Oviclii  Nasonis  Heroidea  XIV.    By  A.  Palmer,  M.A.  8vo.  6«.
-
-Propertius.  Sex  Aurelii  Propertii  Caxmina.  By  F.  A.  Paley,  M.A.
-8vo.     Cloth,  9s.
-
-Sex.  Propertii  Elegiarum.  Lib.PV.    By  A.  Palmer.  Fcap.8vo.5s.
-
-Sophocles.     The  Ajax.    By  C.  E.  Palmer,  M.A.    4s.  6d
-
-Thucydid.es.  The  History  of  the  Peloponnesian  War.  By  Eichard
-SliiUeto,  M.A.     Book  I.     870.    6s.  6(J.     Book  II.     8vo.     5s.  6d.
-
-LATIN  AND  GREEK  CLASS-BOOKS.
-
-AuxHia  Latina.  A  Series  of  Progi'essive  Latin  Exercises.  By
-M.  J.  B.  Baddeley,  M.A.  Fcap.  8vo.  Part  I.  Accidence.  Is.  Gd.  Part  II.
-3rd  Edition,  2s.     Key,  2s.  6cl.
-
-Latin  Prose  Lessons.  By  Prof.  Church,  M.A.  6th  Edit.  Fcap.  8vo,
-2s.  6d.
-
-Latin  Exercises  and  Grammar  Papers.  By  T.  Collins,  M.A.  3rd
-Edition.     Fcap.  8vo.     2s.  6(J.
-
-Unseen  Papers  in  Prose  and  Terse.   With  Examination  Questions.
-
-By  T.  Collins,  M.A.     2nd  edition.     Fcap.  Svo.    2s.  6d.
-Analytical  Latin  Exercises.   By  C.  P.  Mason,  B.A.  3rd  Edit.  3s.  &d.
-
-ScalaGraeca:  aSeriesof  Elementary  Greek  Exercises.  ByEev.  J.W.
-
-Davis,  M.A.,  and  R.  W.  Baddeley,  M.A.    3rd  Edition.     Fcap.  Svo.    2s.  6d.
-
-Greek  Verse  Composition.    By  G.  Preston,  M.A.   Crown  Svo.  4s.  6d.
-
-By  the  Eev.  p.  Frost,  M.A.,  St.  John's  College,  Cambridge.
-Eclogse  Latinse ;  or,  First  Latin  Eeading-Book,  with  English  Notes
-
-and  a  Dictionary.     New  Edition.     Fcap.  Svo.     2s.  6d.
-Materials  for  Latin  Prose  Composition.   New  Edition.  Fcap.  Svo.
-
-2s.  6d.     Key,  4s.
-A  Latin  Verse-Book.    An  Introductory  Work  on  Hexameters  and
-
-Pentameters.     New  Edition.     Fcap.  Svo.    3s.     Key,  5s.
-Analecta  Grseca  Irlinora,  with  Introductory  Sentences,  EngUsh
-
-Notes,  and  a  Dictionary.     New  Edition.     Fcap.  Svo.    3s.  6d.
-Materials  for  Greek  Prose  Composition.    New  Edit.    Fcap.  Bvo.
-
-3s.  6d.     Key,  5s.
-Florilegium  Poeticujn.    Elegiac  Extracts  from  Ovid  and  Tibullus.
-
-New  Edition.    With  Notes.     Fcap.  Svo.  3s.
-
-By  the  Eev.  F.  E.  Gretton.
-A  First  Cheque-book  for  Latin  Verse-makers.    Is.  &d.
-A  Latin  Version  for  Masters.     2s.  6rf.
-R^ddenda ;  or  Passages  with  Parallel  Hints  for  Translation  into
-
-Latin  Prose  and  Verse.    Cro-RTi  Svo.    4s.  6d.
-Reddenda  Eeddita  [see  next  page).
-
-By  H.  a.  Holden,  LL.D.
-Poliorum  Silvula.     Part  I.     Passages  for  Translation  into  Latin
-
-Elegiac  and  Heroic  Verse.    9th  Edition.     Post  Svo.    7s.  6d.
-. Part  II.     Select  Passages  for  Translation  into  Latin  Lyric
-
-and  Comic  Iambic  Verso.    3rd  Edition.     Post  Svo.    5s.
-Part  III.    Select  Passaces  for  Translation  into  Greek  Verse.
-
-
-3rd  Edition.     Post  Svo.    8s.
-
-
-Educational  Works.
-
-
-Folia  Silvulae,  sive  Eclogse  Poetarum  Angliconim  in  Latinum  et
-Grtecum  conversaj.    8to.    Vol.  I.  10s.  6d.    Vol.  II.  12s.
-
-Foliorum  Centuriae.     Select  Passages  for  Translation  into  Latin
-and  Greek  Prose.    7th  Edition.    Post  8vo.    8s.
-
-
-TRANSLATIONS,  SELECTIONS,  &c.
-
-*»*  Many  of  the  following  books  are  well  adapted  for  School  Prizes.
-
-.SJschylus.     Translated  into  English  Prose  by  F.  A.  Paley,  M.A.
-2nd  Edition.     8vo.     7s.  6d.
-
-Translated  into  English  Verse  by  Anna  Swanwick.     Post
-
-8vo.    5s.
-
-Anthologia  Grasca.  A  Selection  of  Choice  Greek  Poetry,  with  Notes.
-
-By  F.  St.  Jolin  Thackeray.    Uh  and  Cheaper  Edition.    16mo.    4s.  6d.
-Anthologia  Latina.     A  Selection  of  Choice  Latin  Poetry,  from
-
-Nserius  to  Boethius,  with  Notes.   By  Rov.  P.  St.  John  Thackeray.   Revised
-
-and  Cheaper  Edition.     16mo.     4s.  6d.
-
-Horace.     The  Odes  and  Carmen  Saecularo.     In  English  Verse  by
-J.  Conington,  M.A.    8th  edition.     Fcap.  8vo.    5s.  6d.
-
-The  Satires  and  Epistles.    In  English  Verse  by  J.  Couing-
-
-ton,  M.A.    5th  edition.    6s.  6d.
-
-Illustrated  from  Antique  Gems  by  C.  "W.  King,  M.A.     The
-
-
-text  revised  with  Introduction  by  H.  A.  J.  Monro,  M.A.  Large  8vo.    11.  Is.
-
-Horace's  Odes.  Englished  and  Imitated  by  various  hands.  Edited
-by  C.  W.  F.  Cooper.     Cro-svn  8vo.     6s.  6d.
-
-Mvsee  Etonenses,  sive  Carminvm  Etonte  Conditorvm  Delectvs.
-By  Richard  Okes.     2  vols.  8vo.     15s.
-
-Propertius.  Verse  translations  from  Book  V.,  with  revised  Latin
-Text.     By  F.  A.  Paley,  M.A.     Fcap.  8vo.     3s.
-
-Plato.     Gorgias.     Translated  by  E.  M.  Cope,  M.A.     8vo.     7s.
-
-Philebus.    Translated  by  F.  A.  Paley,  M.A.    Small  8vo.    4s.
-
-Theaetetus.  Translatedby  F.  A.Paley.M.A.   Small  8vo,    4s.
-
-— Analysis  and  Index  of  the  Dialogues.     By  Dr.  Day.    Post
-
-8vo.    5s.
-
-Reddenda  Reddita  :  Passages  from  English  Poetry,  with  a  Latin
-Verso  Translation.     By  F.  E.  Gretton.     Crown  8vo.    6s.
-
-SabrinsB  Corolla  in  hortulis  Eegiro  Scholae  Salopiensis  contexuerunt
-tres  viri  floribus  legendis.     Editio  tertia.    8vo.     8s.  6d.
-
-Sertum  Carthusianum  Floribus  triiim  Seculorum  Contextum.  By
-W.  H.  Brown.    8vo.     14s.
-
-Theocritus.  In  EngUsh  Verse,  by  C.  S.  Calverley,  M.A.  Crown
-8vo.  [^New  Edition  prepanng.
-
-Translations  into  English  and  Latin.  By  C.  S.  Calverley,  M.A.
-Post  8vo.    7s.  6d.
-
-By  E.  C.  Jebb,  M.A. ;  H.  Jackson,  M.A.,  and  W.  E.  Currey,
-
-M.A.    Cro^vn  8vo.  8s.
-
-into  Greek  and  Latin  Verse.    By  B.  C.  Jebb.     4to.  cloth
-
-gilt.    10s.  6d.
-
-Betvfeen  Whiles.    Translations  by  B,  H.  Kennedy.    2nd  Edition
-revised.    Cro^-n  8vo.    6s.
-
-
-6  George  Bell  and  Sons'
-
-REFERENCE    VOLUMES.
-
-A  Iiatin  Grammar.    By  Albert  Harkness.     Post  8vo.     6s.
-■ By  T.  H.  Key,  M.A.    6th  Thousand.   Post  8vo.     8.s\
-
-A  Short  Latin  Grammar  for  Schools.      By  T.  H.  Key,  M.A.,
-
-F.E.S.     14th  Edition.     Post  8vo.    3s.  6d.
-A  Gviide  to  the  Choice  of  Classical  Books.   By  J.  B.  Mayor,  M.A.
-
-Revised  Edition.    Crown  8vo.    3s.
-The  Theatre  of  the  Greeks.    By  J.  W.  Donaldson,  D.D.     8th
-
-Edition.     Post  8vo.    6s.
-Keightley's  Mythology  of  Greece  and  Italy.     4th  Edition,     os.
-
-A  Dictionary  of  Latin  and  Greek  Quotations.    By  H.  T.  Kiley.
-
-Post  Svo.    5s.    With  Index  Verbonim,  6s.
-A  History  of  Roman  Literature.    By  W.  S.  Teuffel,  Professor  at
-
-the  University  of  Tubingen.   By  W.  Wagiier,  Ph.D.   2  vols.  Demy  Svo.  21s.
-
-Student's  Guide  to  the  University  of  Cambridge.    4th  Edition
-revised.     Fcap.  Svo.     Part  1,  2s.  6ci. ;  Parts  2  to  6,  Is.  each.
-
-
-CLASSICAL   TABLES.
-
-Latin  Accidence.    By  the  Eev.  P.  Frost,  M.A.     Is.
-
-Latin  Versification.     Is.
-
-Notabiha  Qusedam ;  or  the  Principal  Tenses  of  most  of  the
-Irregular  Greek  Verbs  and  Elementary  Greek,  Latin,  and  French  Con-
-stniction.     New  Edition.     Is.
-
-Richmond  Rules   for  the   Ovidian  Distich,  &c.     By  J,  Tate,
-
-M.A.     Is.
-
-The  Principles  of  Latin  Syntax.     Is.
-
-Greek  Verbs.  A  Catalogue  of  "Verbs,  Irregular  and  Defective ;  their
-leading  formations,  tenses,  and  inflexions,  with  Paradigms  for  conjugation,
-Riilesfor  formation  of  tenses,  &c.  &c.     By  J.  S.  Baird,  T.C.D.    2s.  6ci.
-
-Greek  Accents  (Notes  on).    By  A.  Barry,  D.D.    New  Edition.   Is.
-
-Homeric  Dialect.    Its  Leading  Forms  and  Peculiarities.    By  J.  S.
-
-Baird,  T.C.D.     New  Edition,  by  W.  G.  Rutherford.     Is.
-Greek  Accidence.    By  the  Eev.  P.  Frost,  M.A.    New  Edition.    Is.
-
-
-CAMBRIDGE    MATHEMATICAL    SERIES.
-
-Whitworth's  Choice  and  Chance.   3rd  Edition.  Crown  Svo.  6s.
-
-McDowell's  Exercises  on  Euclid  and  in  Modern   Geometry.
-
-3rd  Edition.     6s.
-Vyvyan's  Trigonometry.     3.s.  6d.  [Just  published.
-
-Taylor's  Geometry  of  Conies.  Elementary.   3rd  Edition.  4s.  Qd.
-Aldis's  Sohd  Geometry.     3rd  Edition.     6s.
-Garnett's  Elementary  Dynamics.     2nd  Edition.     6s.
-
-Heat,  an  Elementary  Treatise.     2nd  Edition.     3s.  6d.
-
-Walton's  Elementary  Mechanics  (Problems  in).  2nd  Edition.  6s.
-
-
-Educational  Works.
-
-
-CAMBRIDGE    SCHOOL    AND    COLLEGE
-TEXT-BOOKS.
-
-A  Series  of  Elementary  Treatises  for  the  use  of  Students  in  the
-
-Universities,  Schools,  and  Candidates  for  the  Public
-
-Examinations.     Fcap.  Qvo.
-
-Arithmetic.     By  Kev.  C.  Elsee,  M.A.   Fcap.  8vo.    10th  Edit.   3s.  6rf,
-Algebra.     By  the  Eev.  C.  Elsee,  M.A.     Cth  Edit.     4s.
-Arithmetic.     By  A.  Wrigley,  M.A,     3s.  6d.
-
-A  Progressive  Course  of  Examples.     With  Ans'wcrs.     By
-
-J.  Watson,  M.A.     5th  Edition.    2s.  Gd.
-Algebra.     Progressive    Course    of    Examples.       By  Eev.  W.  F.
-
-M'Michaol,M.A.,and  R.  Prowde  Smith,  M.A.    2nd  Edition.     3s.6(J.   With
-
-Answers.  4s.  6d.
-
-Plane   Astronomy,   An   Introduction  to.    By  P.  T.  Main,  M.A.
-
-■4th  Edition,    is.
-Conic  Sections  treated  Geometrically.     By  W.  H.  Besant,  M.A.
-
-4th  Edition.     4s.  6J.     Solution  to  the  Examples.    4s.
-
-Elementary  Conic   Sections  treated  Geometrically.     By  "W.  H.
-
-Besant,  M.A.  [7/i  the  Press.
-
-Statics,  Elementary.     By  Eev.  H.  Goedwin,  D.D.     2nd  Edit.     3s.
-Hydrostatics,  Elementary.   By  "W.  H,  Besant,  M.A.  10th  Edit.    4s.
-Mensuration,  An  Elementai-y  Treatise  on.  By  B.  T.  Moore,  M.A.  6s.
-
-Newton's  Principia,  The  First  Three  Sections  of,  with  an  Appen-
-dix ;  and  the  Ninth  and  Eleventh  Sections.  By  J.  H.  Evans,  M.A.  5th
-Edition,  by  P.  T.  Main,  M.A.     4s.
-
-Trigonometry,  Elementary.     By  T.  P.  Hudson,  M.A.     3s.  6d,
-
-Optics,  Geometrical.   With  Answers.   By  W.  S.  Aldis,  M.A.   3s.  6d.
-
-Analytical  Geometry  for  Schools.  By  T.  G. Vyvyan.  3rd  Edit,  is.&d.
-
-Greek  Testament,  Companion  to  the.     By  A.  C.  Barrett,  A.M.
-
-4th  Edition,  revised.     Fcap.  8vo.    5s.
-Book  of  Common  Prayer,  An  Historical  and  Explanatory  Treatise
-
-on  the.     By  W.  G.  Humphiy,  B.D.     6th  Edition.     Fcap.  8vo.    4s.  Gd.
-
-Music,  Text-book  of.     By  H.  C.  Banister.     9th  Edit,  revised.     5s.
-
-Concise  History  of.     By  Eev.  H.  G.  Bonavia  Hunt,  B.  Mus,
-
-Oxon.     5th  Edition  revised.     3s.  6d.
-
-
-ARITHMETIC    AND    ALGEBRA.
-
-See  foregoing  Series.
-
-
-GEOMETRY   AND    EUCLID.
-
-Text-Book  of  Geometry.     By   T.    S.   Aldis,   M.A.      Small  8vo.
-
-4s.  Gil.     Part  I.  2s.  Gd.     Part  II.  2s.
-
-The  Elements  of  Euchd.     By  H.  J.  Hose.     Fcap.  8vo.     4s.  &d.
-Exercises  separately,  Is.
-
-The  First  Six  Books,  with  Commentary  by  Dr.  Lai'dner.
-
-lOth  Edition.    8vo.     Gs.
-
-The  First  Two  Books  explained  to  Beginners.    By  C.  P.
-
-
-Mason,  B.A.     2nd  Edition.     Fcap  Svo.    2s.  Gel.
-
-
-8  George  Bell  and  Sons'
-
-The  Enunciations  and  Figures  to  Euclid's  Elements.    By  Eev.
-
-J.  Brasse,  D.D.     New  Edition.     Fcap.Svo.     Is.     On  Cards,  in  case,  5s.  6d.
-Without  the  Figures,  6d.
-
-Exercises  on  Euclid  and  in  Modern  Geometry.  By  J.  McDowell,
-
-B.A.     Crown  8vo.     3rd  Edition  revised.     6s.
-
-Geometrical  Conic  Sections.    By  W.  H.  Besant,  M.A.   4th  Edit.
-■is.  6(J.     Solution  to  the  Examples.     'Is.
-
-Elementary  Geometrical  Conic  Sections.     By  W.  H.  Besant,
-
-M.A.  [In  the  press.
-
-Elementary  Geometry  of  Conies.    By  C.  Taylor,  D.D,    3rd  Edit.
-
-8vo.     'is.  6d.
-
-An  Introduction  to  Ancient  and  Modern  Geometry  of  Conies.
-
-By  C.  Taylor,  M.A.     8vo.     15s.
-Solutions    of    Geometrical    Problems,  proposed  at  St.   John's
-College  from  1830  to  1846.     By  T.  Gaskin,  M.A.     8vo.     12s.
-
-TRIGONOMETRY.
-
-Trigonometry,     Introduction   to  Plane.     By  Eev.  T.  G.  Vyvyan,
-
-Charterhouse.     Cr.  8vo.    3s.  6d.
-Elementary  Trigonometry.    By  T.  P.  Hudson,  M.A.     3s.  6d.
-An  Elementary  Treatise   on   Mensuration.    By  B.  T.  Moore,
-
-M.A.    5s.
-
-
-ANALYTICAL    GEOMETRY
-AND    DIFFERENTIAL    CALCULUS.
-
-An  Introduction  to  Analytical  Plane   Geometry.    By  W.  P.
-
-Turubull,  M.A.    8vo.    12s.
-
-Problems  on  the  Principles  of  Plane  Co-ordinate  Geometry.
-
-By  W.  Walton,  M.A.    8vo.    16s.
-Trilinear   Co-ordinates,  and  Modern  Analytical  Geometry  of
-
-Two  Dimensions.     By  W.  A.  Whitworth,  M.A.    8vo.    16s.
-An  Elementary  Treatise  on  Solid  Geometry.    By  W.  S.  Aldia,
-
-M.A.    2nd  Edition  revised.    8vo.    8s.
-
-Elementairy  Treatise  on  the    Differential    Calculus.     By  M.
-
-O'Brien,  M.A.    8vo.     10s.  6d.
-
-Elliptic  Functions,  Elementary  Treatise  on.  By  A.  Cayley,  M.A.
-
-Demy  8vo.    15s.
-
-
-MECHANICS    8i    NATURAL    PHILOSOPHY.
-
-Statics,   Elementary.    By  H.   Good\vin,  D.D.     Fcap.  8vo.     2nd
-
-Edition.    3s.
-Dynamics,   A  Treatise  on   Elementary.    By    W.  Garnett,  M.A.
-
-2nd  Edition.     Crown  8vo.     Gs.
-Elementary  Mechanics,  Problems  in.    By  \V.  Walton,  M.A.   New
-
-Edition.     Crown  8vo.     Gs.
-Theoretical  Mechanics,  Problems  in.     By  W.  Walton.    2nd  Edit.
-
-revised  and  enlarged.    Demy  8vo.    16s.
-
-
-Educational  Works.  9
-
-
-Kydi'ostatics.  ByW.H.Besant,  M.A.   Fcap.  8vo.  lOthEdition.  4s.
-
-Hydromechanics,  A  Treatise  on.    By  W.  H.  Besant,  M.A.     8vo.
-
-New  Edition  revised.     10s.  6cZ.
-
-Dynamics  of  a  Particle,  A  Treatise  on  the.   By  W.  H.  Besant,  M.A.
-
-[Praxiarlng.
-Optics,  Geometrical.    By  "W.  S.  Aldie,  M.A.     Fcap.  8vo.     3s.  6d.
-
-Double  Refraction,  A  Chapter  on  Fresnel's  Theory  of.  By  W.  S.
-Aldis,  M.A.     8vo.     2s.
-
-Heat,  An  Elementary  Treatise  on.  By  W.  Garnett,  M.A.  Crown
-8vo.    2nd  Edition  revised.     3s.  6d.
-
-Newton's  Principia,  The  First  Tliree  Sections  of,  with  an  Appen-
-dix ;  and  the  Ninth  .ind  Eleventh  Sections.  By  J.  H.  Evans,  M.A.  5tli
-Edition.     Edited  by  P.  T.  M.-iin,  M.A.    4s.
-
-Astronomy,  An  Introduction  to  Plane.  By  P.  T.  Main,  M.A.
-Fcap.  8vo.  cloth.    4s,
-
-Astronomy,  Practical  and  Spherical.    By  E.  Main,  M.A.     Bvo.    14s.
-
-Astronomy,  Elementary  Chapters  on,  from  the  '  Astronomic
-Physique'  of  Biot.     By  H.  Goodwin,  D.D.    Bvo.     3s.  6d.
-
-Pure  Mathematics  and  Natiiral  Philosophy,  A  Compendium  of
-Facts  and  Formula  in.  By  G.  B.  Smalley.  2ud  Edition,  revised  by
-J.  McDowell,  M.A.     Fcap.  8vo.     3s.  6d.
-
-Elementary  Course   of  Mathematics.     By  H.  Goodwin,  D.D.
-
-6th  Edition.    8vo.     16s.
-
-Problems  and  Examples,  adapted  to  the  '  Elementary  Course  of
-
-Mathematics.'    3rd  Edition.     8vo.    5s.
-
-Solutions  of  Goodwin's  Collection  of  Problems  and  Examples.
-
-By  W.  W.  Hutt,  M.A.    3rd  Edition,  revised  and  enlarged.     8vo.    9s.
-
-Pure  Mathematics,  Elementary  Examples  in.  By  J,  Taylor.  Bvo.
-7s.  6(i.
-
-Mechanics  of  Construction.  "With  numerous  Examples.  By
-S.  Fenwick,  F.R.A.S.     8vo.     12s.
-
-Pure  and  Applied  Calculation,  Notes  on  the  Principles  of.  By
-Rev.  J.  Challis,  M.A.     Demy  8vo.     15s.
-
-Physics,  The  Mathematical  Principle  of.  By  Kev.  J.  Challis,  M.A.
-Demy  8vo.     5s.
-
-
-TECHNOLOGICAL    HANDBOOKS.
-
-Edited  by  H.  Teueman  Wood,  Secretary  of  the
-Society  of  Arts.
-
-1.  Dyeing  and  Tissue   Printing.      By  W.  Crookes,  F.E.S.
-
-[In  the  -press.
-
-2.  Iron  and  Steel.     By  Prof.  A.  K.  Huntington,  of  Kmg's  CoUege.
-
-[Prejian'ng.
-
-3.  Cotton  Manufacture.     By  Eichard  Marsden,   Esq.,  of  Man-
-
-chester. [Pi-cpariii;;.
-
-4.  Telegraphs  and  Telephones.    By  W.  H.  Preecc,  F.E.S.
-
-[Prcparuig.
-
-5.  Glass  Manufacture.   By  Henry  Chance,  M.A. ;  H.  Powell,  B.A. ;
-
-and  John  Hopkinson,  M.A.,  LL.D.,  F.R.S.  hi  the  press.
-
-
-10  George  Bell  and  Sons'
-
-HISTORY,  TOPOGRAPHY,  &c.
-
-Rome  and  the  Campagna.  By  E.  Burn,  M.A.  With  85  En-
-gravings and  26  Maps  and  Plans.     With  Appendix.    4to.     3i.  3s.
-
-Old  Rome.  A  Handbook  for  Travellei-s.  By  E.  Burn,  M.A.
-With  Mp.ps  and  Plans.     Demy  8vo.  10s.  6d.
-
-Modem  Europe.  By  Dr.  T.  H.  Dyer.  2ncl  Edition,  revised  and
-continued.    5  vols.     Demy  8vo.     21.  12s.  6d.
-
-The  History  of  the  Kings  of  Rome.    By  Dr.  T.  H.  Dyer.    8vo.  16s,
-
-The  History  of  Pompeii :  its  Buildings  and  Antiquities.  By
-T.  H.  Dyer.    3rd  Edition,  brought  down  to  1874.     Post  8vo.     7s.  6d.
-
-Ancient  Athens :  its  History,  Topograpliy,  and  Eemains.  By
-T.  H.  Dyer.     Super-royal  8vo.     Cloth.     11.  6s.
-
-The  Decline  of  the  Roman  Republic.     By  G.  Long.     5  vols.
-
-8vo.     lis.  each.
-
-A  History  of  England  dui'ing  the  Early  and  Middle  Ages.    By
-
-C.  H.  Pearson,  M.A.     2nd  Edition  revised  and  enlarged.     8vo.     Vol.  I.
-16s.     Vol.  II.  Its.
-
-Historical  Maps  of  England.     By  C.  H.  Pearson.    Folio.     2nd
-
-Edition  revised.    31s.  6cl.
-
-History  of  England,  1800-15.  By  Harriet  Martineau,  with  new
-and  copious  Index.     1  vol.    3s.  6d.
-
-History  of  the  Thirty  Years'  Peace,  1815-46.  By  Harriet  Mar-
-tineau.   4  vols.    3s.  6(J.  each.
-
-A  Practical  Synopsis  of  Enghsh  History.  By  A.  Bowes.  4th
-Edition.     8vo.     2s.
-
-Student's    Text-Book   of  English   and    General  History.    By
-
-D.  Beale.     Crown  8vo.    2s.  6cl.
-
-Lives  of  the  Queens  of  England.  By  A.  Strickland.  Library
-Edition,  8  vols.  7s.  6cJ.  each^  Cheaper  Edition,  6  vols.  5s.  each.  Abridged
-Edition,  1  vol.  6s.  6d.
-
-Eginhard's  Life  of  Karl  the  Great  (Charlemagne).  Translated
-with  Notes,  by  W.  Glaister,  M.A.,  B.C.L.     Crown  8vo.    4s.  6d.
-
-Outlines  of  Indian  History.  By  A.  W.  Hughes.  Small  post
-8vo.     3s.  6d.
-
-The  Elements  of  General  History.  By  Prof.  Tytler.  New
-Edition,  brought  down  to  1874.     Small  post  8vo.    3s.  6d.
-
-ATLASES.
-
-An  Atlas  of  Classical  Geography.  24  Maps.  By  W.  Huglies
-and  G.  Long,  M.A.     New  Edition.     Imperial  8vo.    12s.  6d.
-
-A  Grammar- School  Atlas  of  Classical  Geography.  Ten  Maps
-selected  from  the  above.     New  Edition.     Imperial  8v'o.     5s.
-
-First  Classical  Maps.    By  the  Eev.  J.  Tate,  M.A.     3rd  Edition,
-
-Imperial  8vo.     7s.  6d.
-
-Standard  Library  Atlas  of  Classical  Geography.  Imp.  8vo.  7s.  Qd.
-
-
-Educational  Works.  11
-
-
-PHILOLOGY.
-
-WEBSTER'S    DICTIONARY    OP    THE    ENGLISH  LAN-
-GUAGE.   With  Dr.  Mahn's  Etymology.      1  vol.,  1528  Pages,  .3000  lIUis-
-trations.     21s.     With  ApiJendices    and  70  additional  pages  of    Illustra-
-tions, 1919  Pages,  31s.  6d.
-'  The  best  practical  English  Dictionary  extant.' — Q,xMrterly  Review,  1873.
-Prospectuses,  with  specimen  pages,  post  free  on  application.
-New  Dictionary  of  the  English  Language.    Combining  Explan-
-ation with  Etymology,  and  copiously  illustrated  by  Quotations  from  tho
-best  Authorities.     By  Dr.  Richardson.     New  Edition,  with  a  Supplement.
-2  vols.  4to.  41.  14s.  6(J.;  half  russia,  51.  15s.  6d.;  russia,  61.  12s.     Supplement
-separately.    4to.     12s.
-
-AnSvo.  Edit,  without  the  Quotations,  15s.;  half  russia,  20s.;  nissia,  24s.
-
-Supplementary  English  Glossary.  Containing  12,000  Words  and
-Meanings  oc'.;urring  in  English  Literature,  not  found  in  any  other
-Dictionai-y.     By  T.  L.  0.  Davies.     Demy  8vo.     16s.
-
-Dictionary  of  Corrupted  Words.  By  Rev.  A.  S.  Palmer,   [jn  tjieprcss.
-
-Brief  History  of  the  English  Language.  By  Prof.  James  Hadley,
-LL.D.,  Yale  College.     Fcap.  8vo.     Is.
-
-The  Elements  of  the  English  Language.    By  E.  Adams,  Ph.D.
-
-15th  Edition.     Post  8vo.    4s.  6d.
-
-PhUological  Essays.     By  T.  H.  Key,  M.A.,  F.E.S.     8vo.    10s.  6d.
-
-Language,  its  Origin  and  Development.  By  T.  H.  Key,  M.A.,
-F.R.S.     Svo.     14s.
-
-Synonyms  and  Antonyms  of  the  English  Language.  By  Arch-
-deacon Smith.    2nd  Edition.    Post  Svo.    5s.
-
-Synonyms  Discriminated.   By  Aichdcacon  Smith.  Demy  Svo.  16s.
-
-Bible  EngUsh.     By  T.  L.  O.  Davies.     os.
-
-The  Queen's  EngUsh.  A  Manual  of  Idiom  and  Usage.  By  the
-late  Dean  Alford.     5th  Edition.     Fcap.  Svo.     5s.
-
-Etymological  Glossary  of  nearly  2500  English  Words  de-
-rived from  the  Greek.    By  the  Rev.  E.  J.  Boyce.     Fcap.  Svo.  3s.  6d.
-
-A  Syriac  Grammar.  By  G.  Phillips,  D.D.  3rd  Edition,  enlarged.
-Svo.    7s.  6d.
-
-a.  Grammar  of  the  Arabic  Language.  By  Eev.  W.  J.  Beau-
-mont, M.A.    12mo.    7s.
-
-
-DIVINITY,   MORAL   PHILOSOPHY,  &g.
-
-Novum  Testamentum  Graecum,  Textus  Steplianici,  1550.  By
-F.  H.  Scrivener,  A.M.,  LL.D.  New  Edition.  16mo.  4s.  6d.  Also  on
-Writing  Paper,  with  Wide  Margin.     Half-bound.     12s.
-
-By  the  same  Author.
-
-Codex  BezaB  Cantabrigiensis.    4to.     26s.
-
-A  FuU  CoUation  of  the  Codex  Sinaiticus  with  the  Received  Text
-of  the  New  Testament,  with  Critical  Introduction.  2nd  Edition,  revised.
-Fc.ajj.  Svo.    5s.
-
-A  Plain  Introduction  to  the  Criticism  of  the  New  Testament.
-
-With  Forty  FacsimUos  from  Ancient  Manuscripts.     2nd  Edition.    Svo.  16s.
-
-Six  Lectures  on  the  Test  of  the  New  Testament.    For  English
-
-Readers.     Cro^Ti  Svo.     6s.
-
-
-12  George  Bell  and  Sons'
-
-The  New  Testament  for  English  Readers.  By  the  late  H.  Alford,
-D.D.  Vol.  I.  Part  I.  3rd  Edit.  12s.  Vol.  I.  Part  II.  2nd  Edit.  10s.  6d.
-Vol.  II.  Part  I.  2iid  Edit.  16s.     Vol.  II.  Part  II.  2nd  Edit.  16s.
-
-The  Greek  Testament.    By  the  late  H.  Alford,  D.D.     Vol.  I.  6th
-
-Edit.  IL  8s.     Vol.  II.  6th  Edit.  11.  4s.     Vol.  III.  5tli  Edit.  18s.     Vol.  IV.
-Part  I.  4th  Edit.  18s.    Vol.  IV.  Part  II.  4th  Edit.  14s.    Vol.  IV.  11.  12s,
-
-Companion  to  the  Greek  Testament.  By  A.  C.  Barrett,  M.A.
-4th  Edition,  revised.    Fcap.  8vo.    5s.
-
-The  Book  of  Psalms.  A  New  Translation,  with  Introductions,  &c.
-By  the  Very  Rev.  J.  J.  Stewart  Perowne,  D.D.  Svo.  Vol.  I.  4th  Edition,
-18s.     Vol.  II.  4th  Edit.  16s.
-
-■—  Abridged  for  Schools.     3rd  Edition.     Crown  Svo.     10s.  M.
-
-History  of  the  Articles  of  Religion.    By  C.  H.  Hardwick.    3rd
-
-Edition.     Post  Svo.    5s.
-
-History  of  the  Creeds.  By  J.  E.  Lumby,  D.D,  2nd  Edition.
-Crown  Svo.     7s.  6(J.
-
-Pearson  on  the  Creed.  Cai-efully  printed  from  an  eaily  edition.
-With  Analysis  and  Index  by  E.  Walford,  M.A.     Post  Svo.    5s.
-
-An   Historical   and  Explanatory   Treatise   on  the   Book  of
-
-Common  Prayer.     By  Rev.  W.  G.  Humphry,  B.D.     6th  Edition,  enlarged.
-Small  post  Svo.    4s.  6d.
-
-The  New  Table  of  Lessons  Explained.  By  Kev.  W.  G.  Humphry,
-
-B.D.     Fcap.     Is.  6d.
-
-A  Commentary  on  the  Gospels  for  the  Sundays  and  other  Holy
-Days  of  the  Christian  Year.  By  Ptev.  W.  Denton,  A.M.  New  Edition.
-3  vols.  Svo.    51s.    Sold  separately.
-
-Commentary  on  the  Epistles  for  the  Sundays  and  other  Holy
-
-Days  of  the  Christian  Year.    By  Rev.  W.  Denton,  A.M.   2  v»l3.    36s.  Sold
-
-sejiaratoly.
-
-Commentary  on  the  Acts.  By  Kev.  W.  Denton,  A.M.  Vol.  I.
-Svo.    ISs.    Vol.  II.    14s.
-
-Notes  on  the  Catechism.    By  Kev.  Canon  Barry,  D.D.     6th  Edit.
-
-Fcap.     2s.
-
-Catechetical  Hints  and  Helps.    By  Rev,  E.  J,  Boyce,  M.A.    4th
-
-Edition,  revised.     Fcap.    2s.  6d.
-
-Examination  Papers  on  ReUgious  Instruction.    By  Kev.  E.  J.
-
-Boyce.     Sewed.     Is.  6d.
-
-Church  Teaching  for  the  Church's  Children.     An  Exposition
-
-of  the  Catechism.     By  the  Rev.  F.  W.  Harper.     Sq.  fcap.  2s.
-
-The  Winton  Church  Catechist.  Questions  and  Answers  on  the
-Teaching  of  the  Church  Catechism.  By  the  late  Rev.  J.  S.  B.  Monsell,
-LL.D.     3rd  Edition.     Cloth,  3s.;  or  in  Four  Parts,  sewed.
-
-The  Church  Teacher's  Manual  of  Christian  Instruction.    By
-
-Rev.  M.  F.  Sadler.    21st  Thousand.     2s.  6d.
-
-Short  Explanation  of  the  Epistles  and  Gospels  of  the  Chris-
-tian Year,  with  Questions.    Royal  32mo.    2s.  6i.;  calf,  4s.  6d.
-
-Butler's  Analogy  of  ReUgion ;  with  Introduction  and  Index  by
-Rev.  Dr.  Steere.    New  Edition.    Fcap.    3s.  6d.
-
-Three   Sermons  on  Human  Natm'e,  and  Dissertation  on
-
-Virtue.    By  W.  Whewell,  D.D.    4th  Edition.    Fcap.  Svo.    2s.  6d.
-
-
-Educational  Works.  13
-
-
-Lecttires  on  the  History  of  Moral  Philosophy  in  England.    By
-"W.  Whe-well,  D.D.     Cro'mi  8vo.     8s.
-
-Kent's  Commentary  on  International  Law.    By  J.   T.  Abdy,
-
-LL.D.     New  and  Cheap  Edition.     Crown  8vo.     10s.  6d.
-
-A  Manual  of  the  Roman  Civil  Law.    By  G.  Leapingwell,  LL.D.
-8vo.    12s.
-
-
-FOREIGN    CLASSICS.
-
-A  series  for  use  in  Schools,  tvith  Fynglish  Notes,  grammatical  and
-explanatory,  and  renderings  of  difficult  idiomatic  expressions.
-
-Fcap.  8vo.
-
-Schiller's  Wallenstein.    By  Dr.  A.  Buchheim.   3rd  Edit.     6s.  6d.
-Or  the  Lager  and  Piccolomini,  3s.  6d.     Wallenstein' s  Tod,  3s.  6d.
-
-Maid  of  Orleans.    By  Dr.  W.  "Wagner.    3s.  6d.
-
-Maria  Stuart.     By  V.  Kastner.     3s.
-
-Goethe's    Hermann  and    Dorothea.      By  E.  Bell,  M.A.,   and
-
-E.  Wolf  el.     2s.  6d.
-German  Ballads,  from  Uhland,  Goethe,  and  Schiller.     By  G.  L.
-
-Bielefeld.     3rd  Edition.     3s.  6d.
-Charles  XII.,  par  Voltaire.     By  L.  Direy.     4th  Edition.     3s.  6d.
-Aventures  de  Telemaque,  par  F6n61on.     By  0.  J.  Delille.    2nd
-
-Edition.     4s.  6d.
-Select  Fables  of  La  Fontaine.  By  F.  E.  A.  Gasc.  14th  Edition.  3s.
-Picciola,  by  X.B.  Saintine.  By  Dr.  Dubuc.  11th  Thousand.  3s.  6d.
-
-
-FRENCH    CLASS-BOOKS.
-
-Twenty  Lessons  in  French.  With  Vocabulary,  giving  the  Pro-
-nunciation.   By  W.  Brebner.    Post  8vo.    4s.
-
-French  Grammar  for  Public  Schools.  By  Eev.  A.  C.  Clapin,  M.A.
-Fcap.  8vo.     9th  Edition,  revised.    2s.  6d.
-
-French  Primer.  By  Eev.  A.  C.  Clapin,  M.A.  Fcap.  8vo.  4th  Edit.
-Is.
-
-Primer  of  French  Philology.  By  Eev.  A.  C.  Clapin.  Fcap.  8vo.  Is.
-
-Le  Nouveau  Tresor;  or,  French  Student's  Companion.  By
-M.  E.  S.     16th  Edition.     Fcap.  Svo.    3s.  6d.
-
-F.  E.  A.  GASC'S  FEENCH  COUESE.
-First  French  Book.     Fcap  Svo.     76th  Thousand.     Is.  6d.
-Second  French  Book.     37th  Thousand.     Fcap.  Svo.     2s.  6d.
-Key  to  First  and  Second  French  Books.     Fcap.  Svo.     3s.  6d.
-
-French  Fables  for  Beginners,  in  Prose,  with  Index.  14th  Tliousand.
-
-12mo.     2s.
-Select  Fables  of  La  Fontaine.    New  Edition.     Fcap.  Svo.     3s.
-
-Hiatoires  Amusantes  et  Instructives.  With  Notes.  14th  Thou-
-sand.    Fcap.  Svo.    2s.  6d.
-
-
-14  George  Bell  and  Sons'
-
-Practical  Giiide  to  Modern  French  Conversation.    12th  Thou-
-sand.   Fcap.  8vo.    2s.  6(J.
-
-French  Poetry  for  the  Young.    With  Notes.    4th  Edition.    Fcap.
-
-8to.     2s.
-Materials  for  French  Prose  Composition ;  or,  Selections  from
-
-the  best  Bns'lish  Prose   Writers.      15th  Tliousand.     Fcap.  8vo.    4s.  6d.
-
-Key,  6s.
-
-Prosateurs  Contemporains.     "With  Notes.     8vo.      6th  Edition,
-
-revised.     5s.
-
-Le  Petit  Compagnon ;   a  French  Talk-Book  for  Little  Children.
-
-10th  Thousand.     16mo.    2s.  %d.
-An  Improved  Modern  Pocket  Dictionary  of  the  French  and
-English  Languages.     30th  Thousand,  with  Additions.     16mo.   Cloth.    4s.
-Also  in  2  vols.,  in  neat  leatherette,  5s.
-
-Modem  French-English  and  English-French  Dictionary.    2nd
-
-Edition,  revised.     In  1  vol.  12s.  6d.  (formerly  2  vols.  25s.)
-
-GOMBEET'S  FEENCH  DEAMA.
-
-Being  a  Selection  of  the  hest  Tragedies  and  Comedies  of  Molidre,
-
-Racine,    Corneille,    and    Voltaire.     With  Arguments  and  Notes  by  A.
-
-Gombert.     New  Edition,  revised  by  F.  B.  A.  Gasc.     Fcap.  8vo.    Is.  each ;
-
-sewed,  6d.  Contents.
-
-MoLiERB  : — Le  Misanthrope.    L'Avare.    Le  Bourgeois  Gentilhomme.    Le
-
-Tartuffe.     Le  Malade  Imaginaire.     Les  Femmes  Savantes.     Les  Fourberies
-
-de   Scapin.     Les  Pr^cieiises   Ridicules.     L'Ecole  des  Femmes.     L'Ecole  des
-
-Maris.     Le  M^decin  malgre  Lui.
-
-Racine  : — Ph^dre.      Esther.     Athalie.      Iphig^nie.      Les  Plaideurs.     La
-Thdbaide ;  or,  Les  Freres  Ennemis.    Audromaque.     Britannicus.
-P.  COENEILLE : — Le  Cid.     Horace.     Cinna.     Polyeucte.
-VOLTAiEE : — Zaire.
-
-
-GERMAN    CLASS-BOOKS.
-
-Materials  for  German  Prose  Composition.    By  Dr  Buchheim.
-
-7th  Edition     Fcap.     4s.  6ci.     Key,  3.s.
-A  German  Grammar  for  Public  Schools.     By  the  Eev.  A.  C.
-
-Clapinand  P.  nollMuller.     2nd  Edition.     Fcap.     2s.  6d.
-
-Kotzebue's  Der  Gefangene.  WithNotesby  Dr.  W.  Stromherg.  Is.
-
-
-ENGLISH    CLASS-BOOKS.
-
-A  Brief  History  of  the  English  Language.   By  Prof.  Jas.  Hadley,
-
-LL.D.,  of  Yale  College.     Fcap.  8vo.     Is.
-The  Elements  of  the  Enghsh  Language.    By  E.  Adams,  Ph.D.
-
-18th  Edition.     Post  8vo.    4s.  6cl.
-The    Rudiments    of   English  Grammar    and    Analysis.     By
-
-B.  Adams,  Ph.  D.     8th  Edition.     Fcap.  8vo.     2s.
-
-By  C.  P.  Mason,  Fellow  of  Univ.  Coll.  London.
-First  Notions   of  Grammar  for  Yoimg  Learners.     Fcap.  8vo.
-
-lOth  Thousand.     Cloth.     Stl.
-
-First  Steps  in  English  Grammar  for  Junior   Classes.     Demy
-18mo.     New  Edition.     Is.
-
-
-Educational  Works.  15
-
-Outlines   of  English  Grammar  for  the  use  of  Junior   Classes.
-26th  Thousand.     Crown  8vo.     2s.
-
-EngUsh    Grammar,   including    tlie    Principles   of    Grammatical
-Analysis.     2-ith  Edition.     77th  Thousand.     Crown  8vo.    3s.  6d.
-
-A  Shorter  English  Grammar,  with  copious  Exercises.     8tli  Thou-
-sand.   CroN\ii  8vo.    3s.  6d.
-
-English  Grammar  Practice,  being  the  Exercises  separately.     Is.
-
-Edited  for  Middle-Class  Examinations.
-
-With  Notes  on  the  Analysis  and  Parsing,  and  Explanatory  Remarks.
-
-MUton's  Paradise  Lost,  Book  I.    With  Life.    3rd  Edit.    Post  8vo.
-
-2s.
-Book   n.     With  Life.     2nd  Edit.    Post  8vo.     2s.
-
-Book  III.    With  Life.    Post  8vo.     2s,
-
-Goldsmith's  Deserted  Village.    With  Life.    Post  Bvo.     Is.  M.
-
-Gowper's  Task,  Book  II.     With  Life.     Post  8vo.     2s.
-
-Thomson's  Spring.     With  Life.    Post  8vo.     2s.
-
-Winter.     With  Life.     Post  8vo.    2s.
-
-
-Practical  Hints  on  Teaching.   By  Bev.  J.  Meuet,  M.A.   5th  Edit.
-Crown  Svo.  cloth,  2s.  6ii.  ;  paijor,  2s.
-
-Test  Lessons  in  Dictation.     2nd  Edition.     Paper  cover,  Is.  6J.
-
-Questions  for  Examinations  in  English  Literatiire.    By  Bev.
-W.  W.  Skeat,  Prof,  of  Anglo-Saxon  at  Cambridge  University.     2s.  6d.
-
-Drawing  Copies.    By  P.  H.  Delamotte.     Oblong  Svo.  12s.     Sold
-
-also  in  parts  at  Is.  each.
-
-Poetry  for  the  School-room.     New  Edition.    Fcap.  Svo.     Is.  dd.
-
-Geographical  Text-Book ;  a  Practical  Geography.    By  M.  E.  S.
-12mo.     2s.
-
-The  Blank  Maps  done  up  separately,  4to.    2s.  coloured.
-
-Loudon's  (Mrs.)  Entertaimng  Naturalist.  New  Edition.  Eeviscd
-by  W.  S.  Dallas,  F.L.S.     5s.
-
-• Handbook  of  Botany.     New  Edition,  gi-eatly  enlarged  by
-
-D.  Wooster.     Fcap.     2s.  6a.
-
-The  Botanist's  Pocket-Book.    With  a  copious  Index.    By  W.  K.
-Hayward.     ;'>rd  Edit,  revised.     Crown  Svo.    Cloth  limp.    4s.  6d.
-
-Experimental  Chemistry,  founded  on  the  Work  of  Dr.  Stockhardt.
-By  C.  W.  Hoaton.     Post  Svo.     5s.
-
-Double  Entry  Elucidated.     By  B,  W.  Foster.    12th  Edit.    4to.
-
-3s.  6d.
-
-A  New  Manual  of  Book-keeping.    By  P.  Crellin,  Accountant.
-
-Crown  Svo.     3s.  6d.
-
-
-16       George  Bell  and  Sons'  Educational  Works.
-Picture  School-Books.     In  Simple  Language,  with  numerous
-
-Illustrations.     Royal  16mo.
-
-School  Primer.  M. — School  Reader.  By  J.  Tilleard.  Is. — Poetry  Book
-for  Schools.  Is. — The  Life  of  Joseph.  Is. — The  Scripture  Parables.  By  the
-Rev.  J.  E.  Clarke.  Is. — The  Scripture  Miracles.  By  the  Rev.  J.  E.  Clarke.
-Is.— The  New  Testament  History.  By  the  Rev.  J.  G.  Wood,  M.A.  Is.— The
-Old  Testament  History.  By  the  Rev.  J.  G.  Wood,  M.A.  Is.— The  Story  of
-Bunyan's  Pilgrim's  Progress.  Is. — The  Life  of  Christopher  Columbus.  By
-Sarah  Crompton.    Is. — The  Life  of  Martin  Luther.    By  Sarah  Crompton.    Is.
-
-
-BOOKS   FOR  YOUNG    READERS.
-
-In  8  vols.    Limp  cloth,  6d.  each.
-
-The  Cat  and  the  Hen ;  Sam  and  his  Dog  Red-leg ;  Bob  and  Tom  Lee ;  A
-
-Wreck The  New-bom  Lamb ;  Rosewood  Box  ;  Poor  Fan ;  Wise  Dog The
-
-Three  Monkevs Story  of  a  Cat,  told  by  Herself The  Blind  Boy ;  The  Mute
-
-Girl ;   A  New  Tale  of  Babes  in  a  Wood The  Dey  and  the  Knight ;  The  New
-
-Bank-note  ;  The  Royal  Visit ;  A  King^s  Walk  on  a  Winter's  Day Queen  Bee
-
-and  Busy  Bee Gull's  Crag,  a  Story  of  the  Sea.
-
-First  Book  of  Geography.    By  C.  A.  Johns.     Is.
-
-
-BELL'S    READING-BOOKS.
-
-FOR   SCHOOLS  AND   PAROCHIAL   LIBRARIES.
-
-The  popularity  which  the  '  Books  for  Young  Readers '  have  fittained  is
-a  sufficient  proof  that  teachers  and  pupils  alike  approve  of  the  use  of  inter.
-csting  stories,  with  a  simple  plot  in  place  of  the  dry  combination  of  letters  and
-syllables,  making  no  impression  on  the  mind,  of  which  elementary  reading-
-books  generally  consist.
-
-The  Publishers  have  therefore  thought  it  advisable  to  extend  the  application
-of  this  principle  to  books  adapted  for  more  advanced  readers.
-
-Now  Ready.     Post  8vo.     Strongly  bound.
-Masterman  Ready.    By  Captain  Marryat,  E.N.     Is.  Gd.
-The  Settlers  in  Canada.    By  Captain  Marryat,  E.N.     Is.  6d.
-Parables  from  Nature.     (Selected.)     By  Mrs.  Gatty.     Is.
-Friends  in  Fur  and  Feathers.    By  G-w^Tifryn.     Is.
-Robinson  Crusoe.     Is.  6d.
-
-Andersen's  Danish  Tales.     (Selected.)    By  E.  Bell,  M.A.     Is.
-Southey's  Life  of  Nelson.     (Abridged.)     Is.
-Grimm's  German  Tales.     (Selected.)    By  E.  Bell,  M.A.     Is.
-Life  of  the  Duke  of  Wellington,  with  Maps  and  Plans.     Is.
-Marie ;  or,  Glimpses  of  Life  in  France.    By  A.  E.  Ellis.     Is.
-Poetry  for  Boys.     By  D.  Munro.     Is.
-Edgeworth's  Tales  ;  a  Selection.     Is.
-Great  Englishmen ;  Short  Lives  for  Young  Children.     Is,
-OtJiers  in  Preparation.
-
-
-LONDON:
-
-Printed  by  Steangewats  &  Sons,  Tower  Street,  Upper  St.  Martin's  Lane.
-
-
-A
-
-
-L.
-
-
-^  i  Y  x:..^K'j
-
-
-Los  Angeles
-This  book  is  DUE  on  the  last  date  stamped  below.
-
-
-URL
-
-
-.oL
-
-
-21  im
-
-
->D
-
-
-BL    86C,       G88DE
-
-
-^i
-
-
-1158  00195  9930
-
-
-University  of  California
-
-SOUTHERN  REGIONAL  LIBRARY  FACILITY
-
-305  De  Neve  Drive  -  Parking  Lot  17  •  Box  951388
-
-LOS  ANGELES,  CALIFORNIA  90095-1388
-
-Return  this  material  to  the  library  from  which  it  was  borrowed.
-
-
-3RARY  FACILITY
-
-
-16     5
-
-
-Ur
-
-
-rOF^TH
-
-
-btf»tiiiCM>c«>«ij.TvafWiTAHfkiiw«t?^rHe»t.Ti*&rtw«>»x:v<>i>r»t»faMt«»CTif«tna^

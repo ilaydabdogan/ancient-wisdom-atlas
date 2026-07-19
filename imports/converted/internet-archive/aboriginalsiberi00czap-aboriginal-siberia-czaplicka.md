@@ -1,556 +1,3 @@
-# Aboriginal Siberia - A Study in Social Anthropology
-
-From  the  Library  of
-
-H.e?iry    Tresaw?ia    (jerra?2S
-Fellow  of  IVorcesler  College ^  Oxford
-
-
-iSS2-ig2i
-
-
-Given  /y\Jn\<ei5>t\i  oI'TDfonto   Lv  bra  r  \j  ^
-
-
-'By  his  IVife  M"
-
-
-Digitized  by  the  Internet  Archive
-
-in  2009  with  funding  from
-
-University  of  Toronto
-
-
-http://www.archive.org/details/aboriginalsiberiOOczap
-
-
-ABORIGIXAL    SIBERIA
-
-A  STUDY  IN  SOCIAL  ANTHROPOLOGY
-
-
-OXFORD  UNIVERSITY  PRESS
-
-LONDON         EDINBURGH         GLASGOW         NEW  YOBK
-TORONTO  MELBOURNE  BOMBAY
-
-HUMPHREY  MILFORD  M.A.
-
-PUBLISHER  TO  THE  UKIVERSm'
-
-
-AIJOHKJINAL    SIBERIA
-
-A  STUDY  IN
-
-SOCIAL  ANTHROPOLOGY
-
-BY
-
-M.   A.    CZAPLICKA
-
-SOMERVILLE  COLLEGE,  OXFORD
-WITH  A  PREFACE  BY
-
-R.  R.  MARETT
-
-READER    IX    SOCIAL    ANTHROPOLOGY    IN    THE    UNIVERSITY    OF    OXFORD
-PRESIDENT    OF   THE    FOLK-LORE    SOCIETY
-
-
-OXFORD
-
-AT  THE  CLARENDON  PRESS
-
-1914
-
-
-PREFACE
-
-BY  K.  R.  MARETT
-
-When,  somewhat  light-heartedly,  I  suggested  to  Miss  CV.ap-
-licka,  after  she  had  taken  the  Oxford  Diploma  in  Anthropology,
-that  she  might  most  fruitfully  undertake  a  monograph  on  the
-aboriginal  tribes  of  Siberia,  I  confess  that  I  had  no  clear  idea  of
-the  magnitude  of  the  task  proposed.  The  number  of  Russian
-authorities  concerned — not  to  speak  of  the  students  of  other
-nationahties — is  simply  immense,  as  Miss  Czaplicka's  biblio-
-graphy clearly  shows.  Moreover,  as  must  necessarily  happen
-in  such  a  case,  the  scientific  value  of  their  work  differs  con-
-siderably in  degree ;  so  that  a  great  deal  of  patient  criti-
-cism and  selection  is  required  on  the  part  of  one  who  is
-trying  to  reduce  the  evidence  to  order.  Now  I  am  sure  that
-Miss  Czaplicka  has  proved  herself  competent  to  do  this  sifting
-properly.  As  a  result,  those  students  belonging  to  western
-Europe  who  could  make  nothing  of  the  Russian  originals — and
-alas,  they  compose  tlie  vast  majority — will  henceforth  be  in
-a  position  to  fi-ame  a  just  notion  of  the  social  anthropology  of
-these  interesting  peoples  of  the  Far  North.  Hitherto,  they
-have  had  to  depend  largely  on  the  recent  discoveries  made  by
-the  Jesup  North  Pacific  Expedition,  or  else  to  go  back  as  far  as
-the  classical  researches  of  such  writers  as  Castren  or  Pallas.
-Of  course  there  remains  much  to  be  accomphshed  still.  In
-particular,  so  far  as  I  can  judge,  the  data  in  regard  to  social
-organization  are  altogether  incomplete,   and    should    be    made
-
-
-vi  PREFACE
-
-:v  first  consideration  \>y  those  trained  anthropologists  who  in
-the  future  may  be  concerned  with  this  region.  Needless  to  say,
-antin-upc)k>gical  science  is  quite  insatiate ;  wherefore,  despite  the
-excellence  of  most  of  the  material  already  collected,  it  is
-necessary  to  insist  that  a  far  more  intensive  study  of  these
-tribes  is  needed,  and  that  tlie  time  fur  making  acquaintance
-with  their  culture  in  its  aboriginal  state  is  fast  slipping  away.
-Indeed,  apart  from  its  intrinsic  interest,  the  present  survey  is  of
-the  utmost  value  simply  as  a  guide  to  the  future  explorer.
-
-Miss  Czaplicka's  work  may  be  said,  I  think,  to  cover  the
-social  anthropology  of  the  aboriginal  tribes  of  Siberia.  The
-pliysical  anthropology,  archaeolog}',  and  technology  she  does  not
-profess  to  touch  in  the  present  work.  On  the  other  hand,  the
-main  aspects  of  the  social  life  are  dealt  with  adequately ;  and
-she  has  had  the  happy  thought  to  prefix,  in  accordance  with
-modern  metiiod,  an  account  of  the  geographical  conditions
-to  which  the  native  institutions  so  closely  and  characteristically
-respond.
-
-Now  it  might  seem  at  first  sight  that  such  a  work  as  this,
-consisting  as  it  primarily  does  in  the  systematic  presentation  of
-tlie  results  of  a  large  number  of  first-hand  authorities,  can  leave
-little  scope  for  originality,  except  in  so  far  as  a  critical  handling
-of  sources  must  always  depend  in  the  last  resort  on  the  personal
-judgement.  It  seems  to  me,  however,  that  Miss  Czaplicka  has
-in  several  inq)ortant  respects  contributed  new  ideas  of  great
-interest  and  importance.  In  the  first  place,  her  classification  of
-ethnic  groups  is,  so  far  as  I  know,  her  own  ;  and  the  fimda-
-mental  contrast  upon  which  it  is  based  between  Palaeo-Siberians,
-namely,  the  ancient  inhabitants  of  the  country',  and  Neo-Siberiaus,
-namely,  all  those  peoples  who  have  come  northwards  at  any
-time  during,  let  us  say,  the  last  milieu ium,  but  liave  already
-been  resident  there  long  enough  to  have  become  differentiated
-
-
-PREFACE  vii
-
-from  ilulr  kinsmen  in  the  south,  offers  a  working  distinction
-of  first-rate  value.  There  may  he,  nay,  there  undoubtedly  is,
-a  plurality  of  racial  types  within  each  of  the  groups  so  dis-
-tinguished ;  but,  from  the  standpoint  of  social  anthropology,  it
-seems  of  primaiy  importance  to  lay  stress  on  the  affinities
-produced  by  culture-contact.
-
-In  the  next  place,  Miss  Czaplicka  has  dealt  with  the  problem
-of  the  nature  of  Shamanism  in  a  very  novel  and,  I  think,
-satisfactory  way.  Tlie  difficulty  is  that,  on  the  one  hand,  some
-anthropologists  have  been  wont  to  use  the  term  Shamanism  as
-a  general  expression  applicable  to  the  magico-religious  life  of
-all  primitive  peoples,  at  any  rate  in  so  far  as  the  notion  of
-'  possession '  constitutes  a  dominant  note ;  while,  on  the  other
-hand.  Shamanism  is  sometimes  treated  as  if  it  stood  for  a  specific
-type  of  religious  experience  confined  to  Northern  Asia,  and  ^\^th-
-out  analogy  in  any  other  part  of  the  world.  Miss  Czaplicka,  how-
-ever, deftly  steers  a  middle  course,  doing  justice  to  the  peculiarities
-of  the  local  type,  or  (shall  we  say  ?)  types,  and  yet  indicating
-clearly  that  a  number  of  elements  common  to  the  life  and  mind
-of  primitive  mankind  in  general  have  there  met  together  and
-taken  on  a  specific  shape.  Moreover,  Miss  Czaplicka  has  ven-
-tured to  place  her  own  interpretation  on  the  very  curious
-phenomena  relating  to  what  might  be  termed  the  sexual  am-
-biguity of  the  Shaman.  I  am  inclined  to  believe  that  her  theory
-of  the  Shaman's  relegation  to  a  third  or  neutral  sex  will  be
-found  to  throw  much  light  on  this  veiy  curious  chapter  of
-social  anthropology.  Lastly,  Miss  Czaplicka,  with  the  help  of
-what  would  seem  to  be  somewhat  scattered  indications  derived
-from  the  first-hand  authorities,  has  put  together  what  I  take  to
-be  the  first  systematic  account  of  those  remarkable  facts  of
-mental  pathology  summed  up  in  the  convenient  term  'Arctic
-Hysteria '.     This  side  of  her  work  is  all  the  more  important
-
-
-viii  PREFACE
-
-because,  apai-t  from  tlicse  facts,  it  is  difficult  or  impossible  to
-api)reciate  justly  the  religious  life  of  these  Siberian  tribes  ;  and
-to  say  the  religious  life  of  a  primitive  i)eople  is  almost  to  say
-their  social  life  as  a  "svhole.
-
-It  remauis  only  to  add  that  British  anthropologists  will  be
-sincerely  grateful  to  Miss  Czaplicka  for  having  introduced  them
-to  the  splendid  work  of  their  colleagues  of  eastern  Europe.
-What  a  love  of  science  must  have  burned  in  their  hearts  to
-enable  them  to  prosecute  these  untiring  researches  in  the  teeth
-of  tlie  icy  blasts  that  sweep  across  tundra  and  steppe!  The
-more,  too,  ishall  we  have  reason  to  congratulate  them,  if,  as
-a  result  of  the  scientific  study  of  the  aborigines  of  Siberia,
-practical  measures  are  taken  to  shield  them  from  the  demora-
-lization which  in  their  case  can  be  but  a  prelude  to  extinction.
-Unlovely  in  their  ways  of  life  as  to  us  they  may  appear  to  be,
-these  modern  representatives  of  the  Age  of  the  Eeindeer  typify
-mankind's  secular  struggle  to  overcome  the  physical  environ-
-ment, be  it  ever  so  inhospitable  and  pregnant  with  death.  We
-owe  it  not  only  to  the  memory  of  our  remote  forefathers,  but  to
-ourselves  as  moral  beings,  to  do  our  best  to  preserve  these
-toilers  of  the  outer  marge  whose  humble  life-history  is  an
-epitome  of  hmnauity's  ceaseless  effort  to  live,  and,  by  making
-that  effort  socially  and  in  common,  hkewise  to  live  Avell.
-
-
-AUTHOR'S   NOTE
-
-Are  there  any  true  aborigines  in  Siberia,  as  there  are  in
-Australia  anil  Africa?  This  is  a  question  not  infrequently
-asked  in  England,  and  Siberia  is  sometimes  regarded  as  a
-country  originally  peopled  by  political  exiles  and  criminals.
-Only  lately  has  it  been  realized  that,  apart  from  the  interest
-and  sympathy  aroused  by  the  former  and  the  curiosity  felt
-concerning  the  latter,  Siberia  and  its  people  present  an  in-
-teresting variety  of  subjects  for  study,  and  especially  for  anthro-
-pological and  archaeological  research.  In  the  vast  mass  of
-literature  written  on  the  people  of  this  country,  there  is  nothing
-which  can  serve  as  a  comprehensive  and  concise  handbook  for
-the  study  of  anthropology.  The  works  of  early  travellers
-which  deal  with  the  area  as  a  whole  give  us  nothing  beyond
-general  impressions  and  items  of  curious  information ;  while
-the  profound  and  systematic  study  made  lately  by  the  Jesup
-Expedition  is  too  extensive  and  detailed  for  the  ordinary  student,
-and  further  it  deals  only  with  the  north-eastern  district.  The
-Memoir  of  the  Jesup  Expedition  is  practically  the  first  work
-of  the  kind  published  in  English — that  is  if  we  except  transla-
-tions of  the  writings  of  some  of  the  earlier  travellers  mentioned
-above,  such  as  Ki-asheninnikoff  and  Pallas.
-
-Many  Russian  men  of  science,  who  have  recently  published
-special  works  on  different  districts,  take  occasion  to  deplore,
-in  their  prefaces,  the  lack  of  such  a  handbook.  It  is  the  object
-of  the  author,  before  personally  investigating  conditions  in  the
-country  itself,  to  make  an  attempt  to  supply  this  need ;  for
-comparative  work  of  this  kind  is  a  task  for  the  study  rather  than
-the  field.
-
-In  the  compilation  of  a  work  of  this  kind  one  realizes  only
-too  well  the  lack  of  arrangement  and  the  unequal  value  of  the
-available  materials.  On  the  one  hand,  one  finds  numerous
-detailed  descriptions  of  one  single  characteristic  of  a  people
-or  of  a  ceremony ;  on  the  other,  a  bare  allusion  to  some  custom
-or  a  mere  cursory  account  of  a  whole  tribe.     Thus  the  Buryat
-
-
-X  AUTHORS   NOTE
-
-scholar,  Dordji  lianzaroft'/  complains:  'The  Orientalists  have
-long  occii[»iecl  tiiemselvcs  with  the  inhahitants  of  the  interior
-of  Asia,  hut  their  attention  was  primarily  directed  to  the  w^ars
-of  the  Mongols,  wliile  the  customs,  habits,  and  beliefs  of  this
-j)eople  were  neglected  as  unimportant  in  historical  research.
-The  faith  of  the  Mongols  ])revious  to  their  acceptance  of
-Buddhism  lias  received  no  study  at  all,  the  reason  being  a
-serious  one,  the  inadecpiacy  of  the  materials  for  such  research.'
-
-Banzarotf,  who  has  described  the  Black  Faith  of  the  Mongols,
-was  himself  seriously  hampered  by  the  vagueness  of  the  Russian
-as  Avell  as  the  Mongol  literature  on  the  subject  ^  ;  and  this  in
-spite  of  the  fact  that  the  religious  side  of  native  life  has  always
-received  more  attention  from  writers  on  Siberia  than  the  social
-side.
-
-One  of  the  most  earnest  pleas  for  the  immediate  and  syste-
-matic study  of  the  Sil)erian  aborigines  comes  from  Yadrintzeff,^
-who  was  iunong  their  ti-uest  friends.  Lastly,  Patkanoff',"*  to
-whom  we  owe  many  statistical  and  geographical  works  on
-Siberia,  and  who  is  the  editor  of  the  Central  Statistical  Com-
-mittee, refers  to  the  immense  amount  of  material  collected,
-varying  in  period,  quality,  place  and  aspect  to  an  extent  which
-greatly  impairs  its  usefulness ;  and  he  considers  this  to  be  the
-reason  why  the  ethnological  literature  of  Europe  is  either  silent
-on  the  subject  of  Siberia,  or  merely  touches  on  it  lightly.  The
-same  writer  enumerates  three  errors  frecpiently  met  with  in
-descriptions  of  the  country  :  (1)  Confusion  of  the  tribes.  Thus
-explorers  have  failed  to  distinguish  until  lately  the  Gilyak  from
-the  Tungusic  tribes  ;  the  Ostyak-Samoyed  have  been  confounded
-with  the  Ugrian  Ostyak :  the  Turkic  tribe  of  Altaians  proper,
-because  they  were  ruled  for  some  time  by  the  Kalmuk,  are  often
-called  'the  Mountain  (or  White)  Kalmuk',  and  are  by  some
-writers  actually  confused  wath  the  Kahnuk,  who  ai-e  Mongols ;
-and  so  on.  (2)  Incorrectness  in  delimiting  frontiers.  (3)  In-
-accuracy in  reckoning  the  numbers  of  natives.
-
-'   The  Black  Faith,  or  SJiamanishi  among  the  Moiujoh,  1891,  p.  1.
-
--  Op.  cit.,  p.  3.
-
-'  The  Sibcriati  Aboricfinea,  thiir  Moile  of  Life  and  Present  Condition,
-Petersburg,  1891,  Treface.
-
-*  Statistical  Data  for  the  Racial  Composition  of  the  Population  of  Siberia,
-its  Language  and  Tribes,  Petersburg,  1912,  p.  1.
-
-
-AUTHOR'S   NOTE  xi
-
-The  second  i>t  these  errors  is  due  to  the  fact  that  many  tribes
-are  either  nomads  or  mere  wanderers.  As  to  the  numerical
-reckoning  of  the  peoples,  the  payment  of  i/asi/k  (taxes)  being
-made  proportionate  to  the  numbers  of  the  tribe,  the  natives  are
-not  anxious  to  assist  in  revealing  the  true  state  of  affaii-s.
-
-Of  the  numerous  important  problems  which  confront  us  in
-the  study  of  Siberia,  one  of  the  most  interesting  is  that  attacked
-by  the  Jesup  Expedition,  namely,  the  connexion  between  the
-Asiatic  aborigines  of  the  North-East  and  the  North-Western
-Amerinds.  Also  there  is  the  question  of  the  relation  between
-the  Neo-Siberians  and  the  Palaeo-Siberians,  and  the  question  of
-the  relation  of  the  different  tribes  within  these  groups  to  each
-other.  The  question  of  the  migrations  of  the  last  ten  centuries
-is  closely  connected  with  the  foregoing  subjects  of  research,  and
-no  less  imi>ortant  is  the  study  of  whatever  information  can  be
-gathered  concerning  tribes  Avhich  have  become  extinct  almost
-within  the  present  generation,  such  as  the  Arine,  Kotte,  Assan,
-and  Tuba,^  of  which  the  last  named  were  related  to  the  Ostyak
-of  the  Yenisei.-  Some  Turkic  tribes  of  the  Altai  still  call
-themselves  Tuba,  a  fact  which  suggests  the  possibility  of  an
-admixture  with  the  old  Tuba  of  Yenisei.^  The  Ostyak  of
-Yenisei  are  themselves  dying  out ;  so  also  are  the  Yukaghir
-of  the  north-east.     The  latter  are  the  last  survivors  of  a  large
-
-'  All  these  tribes  are  referred  to  in  Chinese  chronicles  of  the  seventh
-century  as  the  nation  of  Tupo,  inhabiting  the  region  of  the  Upper  Yenisei
-and  the  northern  Altai.
-
--  Yadrintzeff,  op.  cit.,  preface,  p.  8.
-
-^  No  longer  ago  tluin  the  year  1753  Gmelin  saw  some  of  the  Arine
-(Deniker,  Races  of  Man,  1900,  p.  366),  but  already  in  1765-6  Fischer
-states  that  the  Arine  no  longer  exist  [Sihirische  Geschtchte,  1768,  pp.  138-
-387).  Castren  (1854-7)  came  across  some  five  Kotte  who  made  it  possible
-for  him  to  learn  their  language  (EfJinol.  Varies,  uher  die  alfaisch.  Volk.,
-1855,  p.  87).  The  Omok,  living  in  large  numbers  between  the  rivers
-Yana  and  Kolyma,  are  mentioned  in  Wx-angefs  work,  Jounuii  to  the  North
-Coast  of  Siberia  and  the  Polar  Sea,  1841,  p.  81.  Argentotf  speaks  of  the
-Chellag  in  his  The  Northern  Land,  I.  R.  G.  S.,  1861,  vol.  ii,  p.  18.  Mention
-is  made  of  the  Anaul  in  Muller's  Sammlung  ion  linssische  Geschichte,  1758,
-vol.  iii,  p.  11.  From  these  sources  we  learn  of  great  tribal  meetings
-between  the  Chellag  and  the  Omok,  and  of  wars  between  the  Cossacks
-under  Dejnefl'  and  the  Anaul  in  1649.  Deniker  supposes  (Tfie  Races  of
-Man,  1908,  p.  370j  that  the  disappearance  of  the  tribes  is  more  apparent
-than  real,  that  the  Anaul  and  the  Omok  (whose  name  is  a  general  term,
-signifying  •  tribe  'j  were  in  fact  branches  of  the  Yukaghir,  and  that  the
-Chellag  were  a  Chukchee  tribe.  But  this  is  mere  conjecture  (see  Schrenck,
-TJie  Natives  of  the  Amur  Coiintri/,  1883,  p.  2).
-
-
-xii  AUTHOR'S   NOTE
-
-family  of  tribes  which  included  the  now  extinct  Omok,  Chellag,
-and  Annul.  Indeed,  until  Jochelson  liad  investigated  the  Yuka-
-ghir,  it  Avas  generally  tliought  that  they,  too,  were  extinct,  or
-had  become  absorbed  by  the  Lanuit-Tungus.
-
-If  the  Kanichadal  had  not  been  described  by  Steller  and
-Krasheuinnikoff,  we  sliould  now  have  as  little  knowledge  of
-them  as  we  have  of  the  extinct  tribes,  since  the  Kamchadal
-are  now  quite  intermixed  with  Eussians.
-
-Perhaps  the  most  neglected  of  the  surviving  peoples  are  the
-Tungus  and  the  Ostyak  of  the  Yenisei ;  for  the  north-east  is
-'  under  the  microscope '  of  American  workers  (including  some
-Russian  scientists),  and  the  Samoyedic  and  Fimiic  tribes  are
-being  investigated  l»y  the  scientists  of  Finland.  As  to  the  Mon-
-gols and  Turks,  they  have  always  been  to  some  extent  under
-the  eye  of  the  Orientalists  both  of  Russia  and  of  western
-Europe,  though  the  anthropology  of  the  Orient  has  been  over
-much  neglected  in  i'a\our  of  its  linguistics  and  literature.
-
-
-The  author  has  found  it  impossible  to  include  in  the  present
-work  an  account  of  the  physical  anthropology  and  technology
-of  the  aborigines  of  Siberia.  Xor  has  it  been  possible  to
-describe  here  the  prehistoric  life  of  this  region,  of  which  the
-Yenisei  valley  alone  can  supply  so  wide  a  field  for  research.
-These  will  form  the  subject  of  a  future  work.
-
-Before  closing  these  observations  the  author  would  like  to  say
-a  few  words  with  regard  to  the  orthography  of  the  non-English
-words  which  occur  in  the  text  and  notes.
-
-All  native  as  well  as  Russian  terms  have  l^een  spelt  as  simply
-as  possible,  allowance  being  made  for  the  fact  that  all  foreign
-vowel  sounds  are  pronounced  by  English  people  in  very  nmch
-the  same  way  as  those  of  modern  Italian.  The  names  of  Polish
-authors,  as  they  are  written  in  Latin  letters,  have  been  left  un-
-changed. The  Russian  names  ending  similarly  to  the  Polish
-{sJci  or  cJii)  are  variously  spelt  elsewhere  in  Latin  characters.
-
-In  regard  to  this  point,  the  author  has  borrowed  a  hint  from
-the  only  modern  original  article  on  this  region  written  in
-English  by  a  Russian,  namely  The  Bunjats,  by  D.  Klementz,
-in  Hastings's  Encyclopaedia  of  Religion  and  Ethics.     Klementz
-
-
-AUTHORS   NOTE  xiii
-
-has  adopted  the  same  spelling  for  the  ending  of  Russian  names
-when  written  in  Latin  characters  as  for  similar  Polish  names
-(i.e.  not  ski/  or  sJcii  but  sJci).
-
-The  native  words  taken  from  the  publications  of  the  Jesiip  N.  P.
-Expedition  are  written  minus  the  numerous  phonetic  signs.
-Any  one  desiring  more  intimate  linguistic  acquaintance  with
-them  can  always  refer  to  the  original.
-
-There  is  one  sound,  veiy  often  met  with  in  the  native  words
-used  in  this  work,  which  it  is  impossible  to  transliter.ato  into
-western  European  tongues,  namely  a  hard  /.  written  f  in  Polish,
-and  in  Russian  ordinary  I  witli  a  hard  vowel  following.  Thus
-the  words  Allakh,  Boldokhoy  ought  to  be  pronounced  some-
-thing like  Aouakh,  Booudokhoy.
-
-The  following  abbreviations  have  been  used  :
-
-I.  R.  A.  S. — Bulletin  of  the  Imperial  Russian  Academy  of  Science.
-
-I.  R.  G.  S. — Bulletin  of  the  Imperial  Russian  Geographical  Society.
-
-E.  S.S.  I.  R.G.S.— Bulletin  of  the  East  Siberian  Section  of  the  Im-
-perial Russian  Geographical  Society  (the  Ethnographical  Section).
-
-W.  S.S.  I.  R.G.S. -Bulletin  of  the  West  Siberian  Section  of  the  Im-
-perial Russian  Geographical  Society  (the  Ethnographical  Section).
-
-A.S.I.  R.  G.  S. — Bulletin  of  the  Amur  Section  of  the  Imperial  Russian
-Geographical  Society.
-
-S.  S.  A.  C— Bulletin  of  the  Society  for  the  Study  of  the  Amur  Country.
-
-I.  S.  F.  S.  A.  E.— Bulletin  of  the  Imperial  Society  of  Friends  of  Natural
-Science,  Anthropology  and  Ethnography.
-
-J.  N.  P.  E. — Memoir  of  the  Jesup  North  Pacific  Expedition.
-
-R.A.J. — Russian  Anthropological  Journal.
-
-E.  R. — EtJinological  Review.
-
-L.  A.  T. — Living  Ancient  Times.
-
-E.R.  E. — Hastings's  Encyclopaedia  of  Religion  and  Ethics.
-
-I  am  indebted  to  so  many  persons  for  help  in  connexion  with
-this  book,  that  it  is  impossible  for  me  to  mention  all  their  names
-in  this  necessarily  brief  acknowledgement.  In  particular  I  wish
-to  record  my  warm  gratitude  to  my  tutor,  Dr.  Marett,  who  first
-suggested  to  me  the  idea  of  writing  the  book,  and  who,  during
-its  preparation,  has  helped  me  with  many  invaluable  hints  and
-suggestions.  A  grateful  acknowledgement  of  much  valuable  aid
-is  also  due  to  Mr.  Henrj-  Balfour  of  the  Pitt-Rivers  Museum,
-and  to  many  other  members  both  of  English  and  Continental
-Universities.
-
-
-xiv  AUTHOR'S   NOTE
-
-For  ;t  rich  supply  of  materials  ami  l)ibliographical  suggestions
-I  owe  thanks  to  various  Russian  scholars,  especially  to  Dr.
-Sternberg,  Mr.  Maksimoff,  Mr.  Jochelson,  and  Mme.  Kliaruyina.
-Mr.  Jochelson  has  shown  endless  patience  in  aiding  me  in  my
-search  for  data,  and  in  resolving  my  doubts  on  various  points.
-
-To  two  of  my  own  countrymen,  Mr.  Pitsudski  and  Mr.
-Sieroszewski,  Poles  who  have  spent  many  years  in  close  personal
-contact  with  Siberian  natives,  I  gladly  take  this  opportunity  of
-offering  my  cordial  thanks  for  their  help.
-
-A  grant  from  Somerville  College  enabled  me  to  start  the
-work  in  the  autumn  of  1912.  Grants  for  its  continuation  have
-also  been  twice  made  to  me  by  the  Keid  Trust  of  Bedford
-College,  London  (in  1912  and  1913).  The  ti-ustees  of  this  re-
-search fund  have  thus  shown  a  very  active  and  generous  interest
-in  the  work  of  one  who  is  twice  a  stranger,  being  both  of  another
-college  and  of  foreign  nationality.  I  wish  to  express  my  special
-thanks  to  them.
-
-The  task  of  improving  my  imperfect  English  was  very  kindly
-undertaken  by  my  friends  Miss  Hilda  Walton  and  Miss  Katherine
-Menke  of  Somerville  College,  and  Miss  Agnes  Dawson  and
-Mr.  H.  U.  Hall,  of  the  London  School  of  Economics  and
-Political  Science.  Mr.  F.  H.  Nixon  kindly  attended  to  the
-final  stage  of  proof-correcting  after  my  departure  from  England.
-I  am  indebted  for  the  photographs  to  Mr.  Pilsudski,Mr.  Stroyecki,
-Dr.  Sternberg  of  the  Imperial  Russian  Academy  of  Science,
-and  Prof.  Franz  Boas  of  Columbia  University.
-
-
-CONTENTS
-
-PART  I.     ETHNO-GEOGEAPHY.
-
-CHAPTER  PAGE
-
-I.    Geography      ........  1
-
-II.    Ethnology       .         .         .         .         .         .         .         .13
-
-PART  II.     SOCIOLOGY.
-
-III.  Social  Organization       ......  23
-
-IV.  Marriage 70
-
-V.    Customs  and  Beliefs  connected  with  Birth         .  129
-
-VI.    Death,    Burial,    Future    Life,    and    Ancestor
-
-Worship  ........  145
-
-PART  III.     RELIGION.
-
-VIL    Shamanism 166
-
-VIII.    The  Shaman,  his  Vocation  and  his  Preparation  .  169
-
-IX.    Types  of  Shamans  .......  191
-
-X.    The  Accessories  of  the  Shaman  ....  203
-
-XL    The  Shaman  in  Action  ......  228
-
-XII.    Shamanism  and  Sex         ......  243
-
-XIII.  Gods,  Spirits,  Soul         ......  256
-
-XIV.  Some  Ceremonies     .......  291
-
-PART  IV.     PATHOLOGY
-XV.     '  Arctic  Hysteria  '  .         .         .
-
-
-Biographical  Sketches
-Bibliography
-Glossary     .
-Index
-
-Plates
-
-
-307
-
-326
-331
-352
-366
-
-at  end.
-
-
-MAPS.
-
-Ethnological  Map  of  Siberia  .
-Physical  Map  of  Siberia  .
-
-
 PART   I.     ETHNO-GEOGRAPHY
 
 CHAPTER   I
@@ -612,8 +59,7 @@ Siberian  rivers,  warmed  by  the  continental  heat  of  southern
 Siberia,  on  reaching  the  Arctic  coast  form  a  current  of  relatively
 warm  icefree  fresh  water,  setting  eastward  along  the  Siberian
 shores.  This  memorable  voyage  of  the  Vega,  however,  did  not
-establish  the  possibility  of  making  the  route  a  permanent  trade-
-route  to  Siberia,  for  the  amount  of  ice  in  the  Kara  Sea  in  different
+establish  the  possibility  of  making  the  route  a  permanent  traderoute  to  Siberia,  for  the  amount  of  ice  in  the  Kara  Sea  in  different
 years  is  very  variable.  Hence  the  proposal  to  construct  a  railway
 between  the  Petchora  and  the  Ob.  Also,  the  necessity  for  a  long
 and  difficult  coasting  voyage  round  the  Samoyedic  peninsula  gave
@@ -639,13 +85,11 @@ Trans-Amur  Country.
 A.   Western  Siberia  is  composed  of:
 
 I.  The  Tobolsk  Government,  which  is  divided  into  the  following
-districts:  1.  Tobolsk;  2.  Berezovsk  ;  3.  Surgutsk  ;  4.  Ishimsk;  5.  Kur-
-gansk;  6.  Tinkalinsk  ;  7.  Tarsk ;  8.  Turinsk ;  9.  Tiumensk  ;  10.  Yalu-
+districts:  1.  Tobolsk;  2.  Berezovsk  ;  3.  Surgutsk  ;  4.  Ishimsk;  5.  Kurgansk;  6.  Tinkalinsk  ;  7.  Tarsk ;  8.  Turinsk ;  9.  Tiumensk  ;  10.  Yalu-
 iorovsk.
 
 II.  The  Tomsk  Government,  divided  into  the  following  districts:
-1.  Tomsk;  2.  Barnaulsk ;  3.  Biisk ;  4.  Kainsk ;  5.  Kuznieck ;  6.  Mari-
-insk ;  7.  Zmeinogorsk.
+1.  Tomsk;  2.  Barnaulsk ;  3.  Biisk ;  4.  Kainsk ;  5.  Kuznieck ;  6.  Mariinsk ;  7.  Zmeinogorsk.
 
 III.  Akmolinsk  Territory.
 
@@ -695,14 +139,12 @@ I.  The  Yeniseisk  Government,  divided  into  the  following  districts:
 II.  The  Irkutsk  Government,  divided  into  the  following  districts :
 1.  Irkutsk;  2.  Balagansk  ;  3.  Niznieudinsk ;  4.  Verkholensk ;  5.  Kirensk.
 
-III.  Yakutsk  Territory,  divided  into  the  following  districts  ;  1.  Ya-
-kutsk; 2.  Olekminsk  ;  8.  Viluysk;  4.  Verkhoyansk;  5.  Kolymsk.
+III.  Yakutsk  Territory,  divided  into  the  following  districts  ;  1.  Yakutsk; 2.  Olekminsk  ;  8.  Viluysk;  4.  Verkhoyansk;  5.  Kolymsk.
 
 C.  TJie  Trans-Amur  Country.
 
 I.  Trans-Baikal  Territoiy,  divided  into  the  following  districts :
-1.  Chitinsk ;  2.  Nerchinsk ;  3.  Verkhneudinsk ;  4.  Selenginsk ;  5.  Bar-
-guzinsk.
+1.  Chitinsk ;  2.  Nerchinsk ;  3.  Verkhneudinsk ;  4.  Selenginsk ;  5.  Barguzinsk.
 
 II.  The  Amur  Territory.
 
@@ -710,8 +152,6 @@ III.  The  Sea-Coast  Territory.
 
 IV.  The  island  of  Sakhalin.     (Northern  part  of  Sakhalin.)
 '  Nalkowski,  ibid.
-
-""  Op.  cit.,  p.  383.
 
 
 4  ETIINO-GEOGRAPHY
@@ -735,8 +175,7 @@ types.     These  are —
 («)  The  south  of  the  Tobolsk  and  Yeniseisk  Governments,  and
 nearly  all  the  Government  of  Tomsk.
 
-{b)  Kirgiz  Steppe  region,  including  the  Akmolinsk  and  Semi-
-polatinsk  territories.
+{b)  Kirgiz  Steppe  region,  including  the  Akmolinsk  and  Semipolatinsk  territories.
 
 (e)  South-eastern  Siberia,  including  the  Irkutsk  and  Trans-
 Baikalian  Governments.
@@ -834,8 +273,7 @@ of  the  Arctic  Circle  the  days  are  very  dark ;  they  are  marked
 only  by  a  dull  light  on  the  horizon.^
 
 Tretyakoff^  says  that  in  Turukhansk,  on  the  River  Yenisei,
-just  without  the  Arctic  Circle,  the  temperature  in  winter  some-
-times falls  to  —  40°  C.  He  says  that  at  such  times  the  atmosphere
+just  without  the  Arctic  Circle,  the  temperature  in  winter  sometimes falls  to  —  40°  C.  He  says  that  at  such  times  the  atmosphere
 is  so  dense  that  it  is  difficult  to  breathe.  The  earth,  the  ice,  the
 branches  of  the  trees,  crack  with  a  dull  noise.  One  can  hear  the
 ringing  stroke  of  the  axe  on  the  trees  at  a  great  distance.  Iron
@@ -854,8 +292,7 @@ sun  rises  almost  due  south,  and  remains  above  the  horizon  only
 two  liours.     At  the  end  of  January  the  climate  becomes  milder,
 and  the  prevailing  winds  are  north,  veering  to  south. ^
 
-Schimper-  characterizes  the  Arctic  climate  as  follows:  'Tem-
-perature and  illumination  constitute  the  chief  characteristics
+Schimper-  characterizes  the  Arctic  climate  as  follows:  'Temperature and  illumination  constitute  the  chief  characteristics
 of  the  polar  climate,  the  former  in  the  long,  cold  winter,  and  the
 short,  cool  summer,  the  latter  in  the  long  winter  night  and
 the  long  summer  day.  During  the  greatest  part  of  the  three
@@ -890,8 +327,7 @@ ground  in  a  similar  posture.  Sometimes  they  lie  like  this  for
 three,  or  even  four  days,  the  man  without  food,  and  never  moving
 save  to  give  some  fodder  to  his  animals.  In  the  northern  region,
 pnrgas  are  most  frequent  between  December  15  and  January  15.
-A  purga  never  lasts  for  less  than  twenty-four  hours,  and  some-
-times continues,  with  short  intervals,  for  twelve  days.''  When,
+A  purga  never  lasts  for  less  than  twenty-four  hours,  and  sometimes continues,  with  short  intervals,  for  twelve  days.''  When,
 however,  the  snowstorm  i)asses,  there  often  follows  a  spectacle
 which  richly  rewards  the  eyes  of  the  traveller.
 
@@ -927,11 +363,9 @@ to  appear  in  the  sky  in  November,  and  ceases  in  Mai'ch.^
 
 B.  Southern  and  south-western  Siberia  is  much  milder,  although
 the  characteristics  of  a  continental  climate  are  there  also  quite
-marked.  We  shall  consider  the  climate  of  southern  Siberia  accord-
-ing to  our  division  of  it  into  four  climatic  types.^
+marked.  We  shall  consider  the  climate  of  southern  Siberia  according to  our  division  of  it  into  four  climatic  types.^
 
-(a)  The  southern  part  of  the  Tobolsk  and  Yeniseisk  Govern-
-ments, and  nearly  all  the  Government  of  Tomsk,  have  generally
+(a)  The  southern  part  of  the  Tobolsk  and  Yeniseisk  Governments, and  nearly  all  the  Government  of  Tomsk,  have  generally
 a  very  severe  climate,  liable  to  great  and  sudden  changes :
 
 Average  Aiimial  Temj^erature.        June.  Januan/.
@@ -1003,8 +437,7 @@ annual  temperature  in  Chita  is  —  2-7°.
 
 The  enormous  Lake  of  Baikal  has  a  considerable  influence  upon
 the  climat,©  of  its  coasts :  it  moderates  the  summer  heat  and  the
-winter  cold,  except,  of  course,  when  it  is  frozen.  Like  north-
-eastern Siberia,  the  climate  of  the  Trans-Baikalian  valleys  is  very
+winter  cold,  except,  of  course,  when  it  is  frozen.  Like  northeastern Siberia,  the  climate  of  the  Trans-Baikalian  valleys  is  very
 rigorous,  through  the  cold  and  the  descent  of  the  heavy  air  from
 the  mountains  :  40°  of  frost  is  not  uncommon  there.  The  summer
 is  abundant  in  rainfalls  and  in  storms,^
@@ -1107,8 +540,7 @@ western  foot  of  the  eastern  Siberian  plateau.  Here  it  has  been
 deprived  of  western  tributaries  by  the  Ob  system,  the  only
 important  left  tributary  being  the  Abakan ;  but  it  has  very
 important  right  tributaries,  of  which  the  Upper  Tunguska
-(Angara)  flows  out  of  Lake  Baikal,  forming,  as  it  were,  a  con-
-tinuation of  the  Selenga,  which  flows  into  that  lake.  Other
+(Angara)  flows  out  of  Lake  Baikal,  forming,  as  it  were,  a  continuation of  the  Selenga,  which  flows  into  that  lake.  Other
 tributaries  are  the  ^liddle  and  Lower  Tunguska.
 
 ^  Golovacheff,  op.  cit.,  p.  34.
@@ -1143,8 +575,7 @@ The  mountains  of  Siberia  do  not  form  a  continuous  chain,  but
 rather  a  series  of  detached  ranges,  in  the  following  order  from
 west  to  east :  the  Altai  Mountains  proper,  or  Gold  Mountains,
 between  the  Irtysh  and  Yenisei  rivers  ;  the  Sayan  Mountains,
-between  the  Yenisei  and  the  Selenga ;  and  the  Yablonoi  Moun-
-tains, between  the  Selenga  and  the  Shilka — the  latter  being  a
+between  the  Yenisei  and  the  Selenga ;  and  the  Yablonoi  Mountains, between  the  Selenga  and  the  Shilka — the  latter  being  a
 tributary  of  the  Amur  system.  The  Yablonoi  mountain-chain
 is  called  in  the  extreme  north-east  the  Stanovoi  Mountains,  and
 these  in  turn  throw  off"  several  spurs,  including  the  Verkhoyansk
@@ -1176,16 +607,13 @@ of  salt  for  Siberia.^
 
 We  may  distinguish  two  physical  divisions  corresponding  very
 roughly  to  the  two  climatic  zones  of  northern  Asia,  viz.,  a
-northern  division,  with  a  typically  Arctic  climate,  which  com-
-prises the  tundra  and  the  tayga  ;  and  a  southern  division,  with
+northern  division,  with  a  typically  Arctic  climate,  which  comprises the  tundra  and  the  tayga  ;  and  a  southern  division,  with
 a  sub-Arctic  climate,  which  includes  the  steppe  country,  as  well  as
 mountains  and  fertile  valleys.
 
-A.  In  the  north  the  predominant  feature  is  the  frozen  swamp-
-desert,  known  as  the  tundra.  '  Only  in  the  less  cold  and  therefore
+A.  In  the  north  the  predominant  feature  is  the  frozen  swampdesert,  known  as  the  tundra.  '  Only  in  the  less  cold  and  therefore
 chiefly  southern  tracts  of  the  Arctic  zone,  in  the  more  favourable
-localities '  are  found  *  willow-bushes  and  small  meadows  on  river-
-banks  and  in  fjords,"  or  even  clumps  of  dwarf  shrubs,  which
+localities '  are  found  *  willow-bushes  and  small  meadows  on  riverbanks  and  in  fjords,"  or  even  clumps  of  dwarf  shrubs,  which
 consist  of  a  denser  growth  of  the  same  ever-green,  small-leaved,
 shrubby  species  as  appear  singly  in  the  tundra  among  mosses  and
 lichens  ....  Where  the  climate  is  most  rigorous  the  vegetation
@@ -1236,8 +664,7 @@ of  oak,  elm,  ash,  maple,  and  apple  trees,  which  flourish  in  eastern
 Russia.  On  the  other  hand,  the  Siberian  fir-tree  will  very  seldom
 grow  in  eastern  Russia.  Towards  the  south,  where  firs  become
 gradually  more  scarce,  bkch  and  aspen  trees  take  their  place.
-The  northern  slopes  of  the  Altai  Mountains  are  covered  with  sub-
-polar vegetation,  while  the  verdure  of  the  southern  slopes  is  more
+The  northern  slopes  of  the  Altai  Mountains  are  covered  with  subpolar vegetation,  while  the  verdure  of  the  southern  slopes  is  more
 of  the  Steppe  order,  very  rich,  and  plentifully  besprinkled  with
 wild  flowers.  In  the  forests  are  to  be  found  brown  and  black
 bears,  sables,  squirrels,  and,  nearer  to  the  Steppes,  wolves,  which
@@ -1277,10 +704,8 @@ differences  of  physical  types,  on  linguistic  coincidences,  or  on
 common  features  of  material  and  social  culture,  would  be  premature.
 We  shall,  therefore,  mention  the  most  important  attempts  at
 classification  that  have  hitherto  appeared  in  the  scientific  literature
-dealing  with  this  subject,  and  shall  propose,  so  to  speak,  a  tempo-
-raiy  classification,  based  on  geographical  and  historical  data.  This
-will  afi'ord  a  convenient  basis  for  the  systematic  treatment  accord-
-ing to  their  geograj^hical  grouping  of  the  tribes  dealt  with  in  this
+dealing  with  this  subject,  and  shall  propose,  so  to  speak,  a  temporaiy  classification,  based  on  geographical  and  historical  data.  This
+will  afi'ord  a  convenient  basis  for  the  systematic  treatment  according to  their  geograj^hical  grouping  of  the  tribes  dealt  with  in  this
 work,  and  will  serve  as  a  clue  to  their  chief  migrations.  It  will
 also  permit  us  to  keep  within  the  limits  of  the  Siberian  region,
 a  procedure  which,  while  it  may  be  undesirable  from  a  wide  racial
@@ -1311,8 +736,7 @@ investigator,  M.  A.  Castren/  and  was  based  on  similarities  in  the
 phonetics  and  morphology  of  the  languages  of  the  Finns,  Lapps,
 Turks,  Tungus,  Mongols,  and  Samoyed.  Max  Miiller  accepts  this
 name,  calling  the  Ural- Altaian  group  the  northern  division  of  the
-Turanian  family,  and  basing  his  reasons  for  doing  so  on  the  lin-
-guistic researches  of  Castren  and  Schott.-  These  two  investigators
+Turanian  family,  and  basing  his  reasons  for  doing  so  on  the  linguistic researches  of  Castren  and  Schott.-  These  two  investigators
 succeeded  in  discovering  similarities  among  the  agglutinative
 languages  of  the  tribes  mentioned,  just  as  Hodgson,  Caldwell,
 Logan,  and  M.  Miiller  pointed  out  resemblances  in  the  Tamulic,
@@ -1329,15 +753,13 @@ and  places  them  in  the  north  Turkic  division  of  the  Turkic-Altaic
 class.
 
 Midler's  '  People  of  Siberia '  comprise  the  Kamchadal,  Yukaghir,
-Chukchee,  Koryak,  and  all  others  who  do  not  belong  to  the  lin-
-guistic group  which  Castren  called  Ural-Altaian.  These  tribes,
+Chukchee,  Koryak,  and  all  others  who  do  not  belong  to  the  linguistic group  which  Castren  called  Ural-Altaian.  These  tribes,
 together  with  the  Aleuts  and  Eskimo,  were  called  by  F.  R,  Miiller
 (1873)  the  '  Arctic  or  Hyperborean  races  '.^  Li  Peschel's  book  of
 about  the  same  date  these  people  form  two  Mongoloid  groups,
 which  he  considers  as  extending  through  Asia,  Polynesia,  and
 America.  One  of  these  groups,  composed  of  the  Ostyak  of  Yenisei,
-Yukaghir,  Ainu,  and  Gilyak,  he  names  '  Nordasiaten  von  unbe-
-stimmter  systematischer  Stellung'.  The  other  group,  consisting
+Yukaghir,  Ainu,  and  Gilyak,  he  names  '  Nordasiaten  von  unbestimmter  systematischer  Stellung'.  The  other  group,  consisting
 of  all  other  natives  of  the  north-east,  of  Amerinds  such  as  the
 Tlingit,  and  of  the  tribes  of  Vancouver,  he  calls  'the  Bering  Tribes'.
 Now,  as  Schrenck  points  out,  we  can  hardly  call  peoj^le  like  the
@@ -1413,23 +835,19 @@ remains  of  a  formerly  much  larger  stock,  who  are  as  isolated  as
 eacli  tribe  among  tlie  other  Palaeo-Siberians,  and  are  not  connected
 with  the  North-Western  Amerinds.
 
-Some  of  the  recent  linguistic  researches  carried  out  by  a  dis-
-tinguished member  of  the  Jesup  Expedition,  Mr.  Jochelson  of
+Some  of  the  recent  linguistic  researches  carried  out  by  a  distinguished member  of  the  Jesup  Expedition,  Mr.  Jochelson  of
 Petersburg,  throw  most  important  light  on  the  Bering  Sea
-ethnological  problem  ;  especially  when  compared  with  the  lin-
-guistic work  done  by  the  members  of  the  Jesup  Expedition  on  the
+ethnological  problem  ;  especially  when  compared  with  the  linguistic work  done  by  the  members  of  the  Jesup  Expedition  on  the
 American  shores.  Thus  Mr.  Jochelson  has  found  that  the  Aleut
 and  the  Eskimo  languages  are  closely  connected  ;  they  have  many
-roots  in  common,  and  the  similarity  extends  both  to  the  morpho-
-logy and  physiology  of  their  plionetics  and  to  many  grammatical
+roots  in  common,  and  the  similarity  extends  both  to  the  morphology and  physiology  of  their  plionetics  and  to  many  grammatical
 forms.  He  thinks  the  Aleut  language  is  one  of  the  oldest  Eskimo
 dialects.^  About  the  Yukaghir  language  he  says  that  it  differs
 morphologically  in  many  respects  from  the  languages  of  the  Neo-
 Siberians,  but  has  much  in  common  with  the  Palaeo- Siberian
 languages  of  the  neighbourhood.  He  has  made  acquaintance  with
 two  independent  Yukaghir  dialects,  while  the  travellers  before
-him  thought  the  Yukaghir  languages  quite  extinct.^  The  Chuk-
-chee  and  Koryak  languages  are  very  similar,  although  the  Koryak
+him  thought  the  Yukaghir  languages  quite  extinct.^  The  Chukchee  and  Koryak  languages  are  very  similar,  although  the  Koryak
 is  more  vital  and  has  many  dialects,  and  the  Chukchee  has
 practically  none.
 
@@ -1475,8 +893,7 @@ themselves  number  about  five  millions,  the  number  of  aborigines
 is  less  than  one  million.'^     The  most  complete  work  on  the  census
 
 ^  See  the  work  of  Prof.  H.  Paasonen  of  Helsingfors,  '  Beitriige  zur
-finnisch-ugrisch-samojedischen  Lautgescbichte '  {Becue  Onentale,  Buda-
-pesth,  1912-13).
+finnisch-ugrisch-samojedischen  Lautgescbichte '  {Becue  Onentale,  Budapesth,  1912-13).
 
 ^  Prof.  Paasonen,  op.  cit.  For  the  opposite  opinion  see  the  work  of
 Prof.  H.  Winkler,  Der  uralaltaische  Spyaclistumm,  das  Finnische  und  das
@@ -1554,8 +971,7 @@ The  Palaeo-Siberians.
 
 1.  Tlie  ChidccJiee.  In  north-eastern  Siberia,  between  the  Anadyr
 River  and  the  Arctic  Ocean  (except  in  the  extreme  north-east).
-Many  of  the  Chukchee,  according  to  Patkanoff,  are  still  inde-
-pendent of  Russian  control,  hence  the  total  number  of  the  tribe  is
+Many  of  the  Chukchee,  according  to  Patkanoff,  are  still  independent of  Russian  control,  hence  the  total  number  of  the  tribe  is
 
 of  the  educated  class,  either  confined  in  prisons  or  kept  at  hard  labour,
 or  banished  to  live  in  Siberia  under  certain  restrictions  which  do  not
@@ -1579,8 +995,7 @@ started  their  work  as  political  exiles.
 The  majority  of  European  Siberians  are  Russians  (Great  Russians  and
 Little  Russians)  of  the  professional  class,  including  a  large  number  of
 exiles.  The  Polish  element  is  second  in  point  of  numbers.  Members  of
-other  nations,  Germans,  Greeks,  French,  and  English,  formed  an  insig-
-nificant minority  at  the  time  of  the  last  census.
+other  nations,  Germans,  Greeks,  French,  and  English,  formed  an  insignificant minority  at  the  time  of  the  last  census.
 
 
 ETHNOLOGY  19
@@ -1659,8 +1074,7 @@ call  themselves  Eleut.  Only  a  very  small  number  (in  1897,  only
 15)  of  these  are  found  in  Siljeria ;  the  majority  are  in  Central
 Asia,  {h)  Eastern  Mongols  or  Mongols  j^roper.  Of  these  only
 a  small  number  (in  1897,  402)  of  the  Kalkha,  the  northern  branch,
-are  in  Siberia ;  the  rest  are  in  Mongolia,  (c)  The  Buryat,  in-
-habiting the  districts  round  Lake  Baikal.  Their  number  is
+are  in  Siberia ;  the  rest  are  in  Mongolia,  (c)  The  Buryat,  inhabiting the  districts  round  Lake  Baikal.  Their  number  is
 288,599  (175,717  M.).
 
 5.  Tlie  Tungusic  Tribes,  [a]  Tungus  proper  62,068  (31,375  M.),
@@ -1679,11 +1093,9 @@ people ',  by  the  Chinese)  between  the  lower  Amur  and  the  Pacific
 
 ^  That  is,  if  wo  follow  Deniker's  division  of  these  people  into  Eastern,
 Central,  and  Western  groups.  (See  his  liaces  of  Man,  1900,  pp.  375-8).
-Katlloff  divides  the  Turks  into  four  linguistic  groups  :  (i)  Eastern,  com-
-posed of  Altaian  tribes  comprising  eight  linguistic  sub-groups  :  (a)  South
+Katlloff  divides  the  Turks  into  four  linguistic  groups  :  (i)  Eastern,  composed of  Altaian  tribes  comprising  eight  linguistic  sub-groups  :  (a)  South
 Altaic  (i.e.  Altaic  proper  and  Teleut)  ;  (b)  Barabinsk  ;  (r)  North  Altaic
-(Kumanila,  Tartar  of  Chern,  or  Tuba)  ;  (r/)  Abakansk-Tartar ;  (e)  Chu-
-limsk-Tartar  ;  (/)  Sayan  and  Uriankhai  language  ;  (g)  Karagas  ;  [h)
+(Kumanila,  Tartar  of  Chern,  or  Tuba)  ;  (r/)  Abakansk-Tartar ;  (e)  Chulimsk-Tartar  ;  (/)  Sayan  and  Uriankhai  language  ;  (g)  Karagas  ;  [h)
 Ouigur  (now  extinct),  (ii)  AVestcrn  (Kirgis,  Kara-Kirgis,  Irtysh  Tartar,
 Bashkir,  Tartar  of  Volga),  (iii)  The  Mid-Asiatic  (eastern  and  western
 Turkestan).  (iv)  Southern  (Turkoman,  Turks  of  the  Caucasus,  the
@@ -1722,8 +1134,7 @@ Isker,  was  occupied  by  the  Cossack  Yermak.  In  1684  another  ^
 chief  of  the  Cossacks,  Dejneff,  reached  the  mouth  of  the  Anadyr.
 At  the  end  of  the  eighteenth  century  Atlasoff  occupied  Kamchatka.
 
-It  is  only  since  the  Mongolic  war  that  we  hear  of  the  migra-
-tions of  the  different  triJjes  of  Siberia,  though  in  reality  they
+It  is  only  since  the  Mongolic  war  that  we  hear  of  the  migrations of  the  different  triJjes  of  Siberia,  though  in  reality  they
 must  have  begun  much  earlier :  the  first  Manchu  invasion  of
 China  dates  back  to  the  tenth  century,  and  is  known  by  the  name
 of  Kidaney  or  Lao.  The  second  historical  invasion  was  in  the
@@ -1749,8 +1160,7 @@ of  the  Giney  dynasty  in  China,  subjected  to  their  rule  the  whole
 of  western  Siberia  and  eastern  Europe,^  Since  then  the  name
 'Tartars'  was  gradually  transferred  to  the  western  people  now
 called  'Turks'.  The  pure  Tartars  no  longer  exist,  and  the  name  is
-now  used  collectively  for  the  Turkish  tribes  intermixed  with  Mon-
-golian, who  possess  perhaps  a  strain  of  old  Tartar  blood  in  them.^
+now  used  collectively  for  the  Turkish  tribes  intermixed  with  Mongolian, who  possess  perhaps  a  strain  of  old  Tartar  blood  in  them.^
 In  the  beginning  of  the  thirteenth  century  the  Mongol-Buryat
 began  to  arrive  in  the  country  of  the  upper  Amur,  and  from  there
 they  moved  to  the  west,  to  Lake  Baikal.  They  met  here  the
@@ -1785,7 +1195,6 @@ PART   II.    SOCIOLOGY
 
 CHAPTER    III
 
-SOCIAL   ORGANIZATION
 
 PALAEO-SIBERIANS
 
@@ -1818,14 +1227,11 @@ tundra,  sometimes  owning  a  few  reindeer,  and  sometimes  none
 at  all.
 
 The  Maritime  Clmlxliee. — The  Maritime  Chukchee  live  in
-villages,  the  organization  of  which  is  founded  on  territorial  con-
-tiguity, not  on  family  relationship.  Here  the  family  which  has
+villages,  the  organization  of  which  is  founded  on  territorial  contiguity, not  on  family  relationship.  Here  the  family  which  has
 inhabited  the  village  for  the  longest  time  uninterruptedly  occupies
 
 1  Bogoras,  The  Chukchee,  pp.  612-28.
 
-
-24  SOCIOLOGY
 
 the  attooran,  'front  house',  or  armacl-ran,  'the  house  of  the
 strongest'.  The  master  of  this  house  is  called  aftooralln,  '  the  one
@@ -1860,8 +1266,7 @@ distribution  may  be  continued  in  order  the  next  year.'^
 
 Cases  of  murder  are  differently  regarded  by  the  Chukchee,
 according  to  whether  they  are  committed  within  or  without  the
-family  group.  In  the  latter  case  murder  is  subject  to  blood-
-revenge  on  the  part  of  the  family  group  of  the  victim.  Murder
+family  group.  In  the  latter  case  murder  is  subject  to  bloodrevenge  on  the  part  of  the  family  group  of  the  victim.  Murder
 within  the  family  group  is  usually  considered  a  matter  to  be  dealt
 with  by  that  group  alone. ^  Bogoras  quotes  several  incidents  in
 support  of  the  Chukchee  statement  that  it  is  usually  a  'bad  man'
@@ -1877,8 +1282,6 @@ Barroic  Eskimo,  and  Rink.  77/f  Eskimo  Tribes.
 ^  Bogoras,  Hie  Gntkchee,  p.  631.  ^  Bogoras,  op.  cit.,  p.  663.
 
 
-SOCIAL  ORGANIZATION  25
-
 such  a  person  to  be  killed  by  a  member  of  iiuotiier  family.  An
 incident  cited  by  Bogoras  to  illustrate  this  point  of  view  concerns
 the  killing  of  a  certain  Leivitihin,  who  was  accustomed  to  ill-use
@@ -1893,8 +1296,7 @@ with  a  knife.  This  act  was  approved  by  the  common  consent  of
 all  the  neighbours,  because  he  was  *  a  bad  one,  a  source  of
 torment  to  the  others'.'
 
-Other  examples  cited,  however,  show  that  the  victims  were  some-
-times not  ■  bad  men ',  but  that  the  murderers  were  simply  acting
+Other  examples  cited,  however,  show  that  the  victims  were  sometimes not  ■  bad  men ',  but  that  the  murderers  were  simply  acting
 for  their  own  material  interests,  or  in  anger.  In  one  such  case
 a  rich  reindeer-breeder,  having  killed  his  wife,  had  to  pay  a  heavy
 fine  to  the  brother  of  his  victim.  But,  on  the  whole,  it  appears
@@ -1917,8 +1319,7 @@ This  is  shown  in  the  following  incident  related  by  Bogoras :
 In  the  Chukchee  village  Valkalen,  where  Bogoras  stopped  for  two
 days  to  rest  his  teams,  an  cnnecin,  named  Canla,  offered  to  sell  him
 a  large  bag  of  seal  blubber  as  seasoning  for  the  food  of  the  dogs.
-Such  food  was  usually  paid  for  with  compressed  tea  and  leaf-
-tobacco  ;  but  Canla  did  not  want  these.  He  wished  to  buy  a  fine
+Such  food  was  usually  paid  for  with  compressed  tea  and  leaftobacco  ;  but  Canla  did  not  want  these.  He  wished  to  buy  a  fine
 white  Russian  bitch,  leader  of  one  of  Bogoras's  teams,  and  offered,
 
 *  The  common  consent  of  the  neighbours  to  the  killing  of  a  '  bad  man '
@@ -1927,8 +1328,6 @@ p.  582,  quoted  by  Bogoras) ;  Bogoras,  The  Chukchee,  p.  6G3.
 
 *  Bogoras,  op.  cit.,  pp.  641-2.
 
-
-26  SOCIOLOGY
 
 besides  the  lilubber,  a  Ijeavcr-skin  aiul  two  fox-skins  as  payment.
 The  owner  of  the  clog,  a  Cossack  in  Bogoras's  party,  would  not
@@ -1979,8 +1378,6 @@ man  must  wholly  replace  the  [victim].     He  must  perform   his
 ^  Ibid.
 
 
-SOCIAL   ORGANIZATION  27
-
 work  and  all  his  duties.  Thus  iii  the  case  of  the  Chukchee  killed
 at  the  Anui  fair  in  the  year  1895,  of  whom  I  have  spoken  before,
 the  kinsmen  of  the  one  killed  came  to  the  fixir  the  next  year,  and
@@ -1989,8 +1386,7 @@ They  took  all  this,  but  then  asked  for  the  Cossack  who  killed  the
 man,  or  at  least  any  other  of  the  Cossacks.  He  was  to  be  taken  to
 the  tundra,  and  to  live  there  in  the  family  of  the  killed  man,  to  be
 a  husband  to  his  widow,  a  father  to  his  small  children.  Then
-only  might  the  feud  be  considered  as  wholly  settled.  They  re-
-peated the  request  the  following  year,  and  were  again  paid  in  tea
+only  might  the  feud  be  considered  as  wholly  settled.  They  repeated the  request  the  following  year,  and  were  again  paid  in  tea
 and  other  valuables."
 
 A  case  is  also  cited  by  Bogoras  in  which  a  boy  was  actually
@@ -2004,16 +1400,14 @@ being  themselves  put  to  death. -
 In  the  tales  there  is  mention  of  the  capture  of  numbers  of
 herdsmen  along  with  the  herds  taken  in  war.  These  herdsmen
 were  enslaved,  being  particularly  valuable  in  that  they  '  knew  their
-own  herds  better  than  the  victors  '.  '  Captive  women  were  hard-
-worked,  and  were  made  the  wives  of  their  masters.  Sometimes
+own  herds  better  than  the  victors  '.  '  Captive  women  were  hardworked,  and  were  made  the  wives  of  their  masters.  Sometimes
 they  were  sold  from  one  camp  to  another  ;  but,  on  the  whole,  their
 position  was  little  different  from  that  of  the  Chukchee  women.'*
 
 A  group  of  kindred  families  is  called  varat,  i.  e.  '  collection  of
 those  who  are  together'.  A  member  of  such  a  group  is  called
 enan-varatJcen,  '  one  of  the  same  varat '.  Another  name  for  the
-group  is  cin-yirhi,  '  collection  of  those  who  take  part  in  blood-
-revenge  '.  Since  the  custom  of  blood-revenge  still  exists  in  full
+group  is  cin-yirhi,  '  collection  of  those  who  take  part  in  bloodrevenge  '.  Since  the  custom  of  blood-revenge  still  exists  in  full
 vigour,  the  last  name  is  of  great  importance.  'The  Chukchee
 varat  may  perhaps  be  called  the  embryo  of  a  clan  ;  it  is  unstable,
 however,  and  the  number  of  families  "  that  are  together"  changes
@@ -2029,8 +1423,6 @@ organization  more  strict  than  the  present-day  varat.     It  consisted
 
 *  Op.  cit.,  p.  541.  "•  Op.  cit.,  p.  543.
 
-
-28  SOCIOLOGY
 
 of  from  ten  to  fifteen  related  families,  living  always  together,
 dividing  among  themselves  various  occupations,  such  as  hunting,
@@ -2052,8 +1444,7 @@ are  still  practically  outside  the  sphere  of  Russian  control.'
 The  individual  Chukchee  family  is  composed  of  a  husband  with
 his  one,  or  several,  wives,  and  his  children.  His  parents,  with
 their  unmarried  children,  usually  live  near  by.  Old  people  enjoy
-considerable  respect ;  this  is  especially  the  case  among  the  Rein-
-deer Chukchee,  and  Bogoras^  assigns  as  the  reason  for  this  the
+considerable  respect ;  this  is  especially  the  case  among  the  Reindeer Chukchee,  and  Bogoras^  assigns  as  the  reason  for  this  the
 fact  that  the  father  retains  the  herd  as  long  as  he  lives.  But  he
 states  that  even  among  the  Maritime  Chukchee  '  those  that  cannot
 walk  are  carried  on  the  shoulders  of  their  young  relatives  \^
@@ -2065,8 +1456,7 @@ of  the  family  will  depart  in  order  to  seek  a  new  home  for  himself
 or  herself,  individual  migrations  of  this  sort  being  frequent  from
 Maritime  to  Reindeer  Chukchee  ai;d  vice  versa.^
 
-System  of  Relationship.  '  In  the  Chukchee  system  of  relation-
-ship ',  says  Bogoras,  '  the  paternal  line  preponderates  to  a  marked
+System  of  Relationship.  '  In  the  Chukchee  system  of  relationship ',  says  Bogoras,  '  the  paternal  line  preponderates  to  a  marked
 degree  over  the  maternal.  The  first  is  designated  as  "  that  coming
 from  the  old  male  (buck) "  {kirnaipu-ival'm\  also  Jiirne-tomgin,  ''old  male
 (buck)  mate",  or  as  ''that  coming  from  the  i^enis"  {i/aelJiepti-ivalin).
@@ -2083,12 +1473,6 @@ family  ;  but  he  .also  is  little  obeyed  and  has  no  right  to  punish  
 •=  Op.  cit.,  p.  537.
 
 
-SOCIAL   ORGANIZATION
-
-
-29
-
-
 [Kirne-tomgin  or  hrna-iakalhin  means  also  generally  '"older
 relative";  lirnei/iccmit-tom<ji)i,  "older  brother".  For  takaJhin
 see  p.  540.]  The  second  is  designated  as  "that  coming  from  the
@@ -2097,8 +1481,7 @@ matrix  "  {kujolhcpu-n-alin).  The  paternal  relatives  are  also  called
 with  which  the  usual  sacrificial  anointment  is  administered.'^  At
 the  'ceremonials  the  people  paint  their  faces  with  blood,  and
 pei-sons  of  the  same  paternal  line  of  descent  use  the  same  marks,
-which  descend  from  generation  to  generation  '.^  '  Patei'nal  rela-
-tionship is  considered  to  be  much  stronger  than  maternal  relation-
+which  descend  from  generation  to  generation  '.^  '  Patei'nal  relationship is  considered  to  be  much  stronger  than  maternal  relation-
 ship. There  is  a  Chukchee  saying  that  has  it  that  even  a  distant
 relative  on  the  father's  side  is  much  nearer  to  the  heart  than  a
 maternal  cousin,'  ^
@@ -2108,8 +1491,7 @@ There  is  no  word  for  '  family '  in  Chukchee :  rayirin  means
 '  house-mates '.  A  member  of  the  family  who  leaves  the  house
 ceases  to  have  these  names  used  in  reference  to  him.
 
-The  following  tables^  show  the  recognized  degrees  of  blood-
-relationship  and  the  terminology  used  for  them.
+The  following  tables^  show  the  recognized  degrees  of  bloodrelationship  and  the  terminology  used  for  them.
 
 System  of  Consanguinity.
 Ancestors
@@ -2166,21 +1548,12 @@ Linked-Grandchildren
 
 
 ^  Op.  cit,,  p,  537.
-'  Op.  cit.,  p.  538.
 
 
 Descendants,
 
 
 *  Op.  cit.,  pp.  537-
-
-*  Op.  cit,,   p,  540.
-
-
-30
-
-
-SOCIOLOGY
 
 
 Terms  op  Consanguinity.
@@ -2192,8 +1565,7 @@ Great-grandfather.^
 
 Grandfather  and  great-uncle.
 
-Grandfather  (children's  term  — aug-
-mentative form  from  epi,  'father'.
+Grandfather  (children's  term  — augmentative form  from  epi,  'father'.
 
 Grandmother  and  great-aunt.
 
@@ -2211,8 +1583,7 @@ Parents.
 
 Brother.
 
-A  brother  or  sister  older  than  my-
-self.
+A  brother  or  sister  older  than  myself.
 
 A  brother  younger  than  myself.
 
@@ -2238,11 +1609,9 @@ Younger  sister  (female  language).
 
 Male  cousin,  paternal  and  maternal.
 
-Female  cousin,  paternal  and  ma-
-ternal (male  language).
+Female  cousin,  paternal  and  maternal (male  language).
 
-Female  cousin,  paternal  and  ma-
-ternal (female  language).
+Female  cousin,  paternal  and  maternal (female  language).
 
 *  The  fourth  degree  of  relationship  is  expressed  by  means  of  the  prefix
 i/ilhi,  'link',  'junction',  e.g.  yilh-eUie,  '  great-gi-andsou ',  y'dhUoo-tomg'ni,
@@ -2266,8 +1635,6 @@ sometimes  only  between  males,  sometimes  only  between  females  (ibid.).
 '  Lie-clin  and  eleni  are  used  by  both  males  and  females.  The  former
 term  is  pronounced  by  women  iitineJiii,  according  to  the  rules  for  female
 pronunciation,  in  which  all  contractions  are  avoided  (ibid.).
-
-**  Op.  cit.,  p.  539.
 
 
 Att uuloii  {' forc-goci-')
@@ -2311,8 +1678,7 @@ Caket-tomgin  ('  sister-mate ')     .
 Inpici-cal-et-tomgin  ('  elder  sister
 mate ')
 
-Wuthitca-calcet-tomgin  ('middle  sis-
-ter mate '  ^)
+Wuthitca-calcet-tomgin  ('middle  sister mate '  ^)
 
 Nenca-caket-tomgin  ('younger  sister
 mate')
@@ -2326,16 +1692,13 @@ cousins)         .....
 Nawgel
 
 
-SOCIAL   ORGANIZATION  31
-
 FAik Son.
 
 yeekih Daughter.
 
 EJue  (T^\\i.,  clutcgot).        .         .         .     (Tiandson  and  nephew.
 
-Eloo-tomgin Parents'  cousin's  son  (male  lan-
-guage).
+Eloo-tomgin Parents'  cousin's  son  (male  language).
 
 Eluwgo-iowfjitt  ....     Parents'  cousin  s  son  (female   lan-
 
@@ -2402,8 +1765,6 @@ Inte Daughter-in-law.
 '  From  verb  maiarkin,  '  thou  takest ',  '  thou  takest  to  wife  '  (ibid.).
 
 
-32  SOCIOLOGY
-
 Aacew-matalin^   .         .         .  Brother-in-law.
 
 Nanchnn-waiaUn         .         .  Sister-in-law.
@@ -2421,8 +1782,7 @@ each  other  takalhin,  which  means  literally,  '  brace-companion '.
 The  closeness  of  the  bond  is  expressed  in  the  following  proverbs  :
 '  Man  of  the  wife's  sister  (is)  of  the  old  male-brother  beyond '
 {TaJcalhin  Idrna-yecamet-tomgcpu  2>((>'oc);  'Man  of  the  wife's  sister
-is  on  the  same  lake-shore  a  fall-companion'  {TaJcalhin  ennan-
-hifhilinli  rilid-tomr/in) — that  is  to  say,  that  they  must  fight  and
+is  on  the  same  lake-shore  a  fall-companion'  {TaJcalhin  ennanhifhilinli  rilid-tomr/in) — that  is  to  say,  that  they  must  fight  and
 fall  together.''
 
 Step-relationship  in  all  its  degrees  is  denoted  by  the  suffix  -Iqdl,
@@ -2459,24 +1819,18 @@ but  for  the  destructive  influence  of  the  Russians.*
 are  used  by  both  wedded  parties.  Sometimes  they  say  also  Eiuhic-matalin
 ('wife's  uncle')  and  eccainaw-maialin  ("wife's  aunt')  (ibid.).
 
-2  Op.  cit..  p.  540.
 
-'  Bogoras  says  that  'jjerhaps  this  relation  may  be  considered  as  a  sur-
-vival of  group-marriage,  although  at  present  grouj)-marriage  between
+'  Bogoras  says  that  'jjerhaps  this  relation  may  be  considered  as  a  survival of  group-marriage,  although  at  present  grouj)-marriage  between
 takalhit  exists  but  rarely  '  (ibid.).
 
-*  Op.  cit.,  p.  539.
 
 ^  Jochelson,  The  Konjak,  p.  761.
 
 
-SOCIAL  ORGANIZATION  33
-
 The  tendency  to\Yaril.s  a  wider  social  grouping  is  seen  also  in
 the  custom  of  fraterniziuj^  with  members  of  unrelated  families.
 Jothelson  says  that  tlioro  is  no  formal  rite  accompanying  the
-establishment  of  these  friendships,  that  there  is  merely  an  ex-
-change of  gifts  between  the  friends.  In  former  times  members
+establishment  of  these  friendships,  that  there  is  merely  an  exchange of  gifts  between  the  friends.  In  former  times  members
 of  such  alliances  were  bound  to  help  each  other  in  war  ;  nowadays,
 as  wars  are  no  longer  waged,  there  are  only  certain  obligations  of
 mutual  material  assistance.     Women  also  form  such  friendships.^
@@ -2484,8 +1838,7 @@ mutual  material  assistance.     Women  also  form  such  friendships.^
 In  the  old  warlike  days  there  was  a  class  of  slaves,  about  whom
 Jochelson  speaks  as  follows :
 
-'The  Koryak  say  that  in  ancient  times  the  rich  and  the  strong-
-men held  slaves.  These  remained  at  home  and  were  employed
+'The  Koryak  say  that  in  ancient  times  the  rich  and  the  strongmen held  slaves.  These  remained  at  home  and  were  employed
 for  different  kinds  of  housework,  and  under  the  supervision  of  the
 women.  It  is  difficult  to  ascertain  how  far  they  Avere  the  property
 of  the  conquerors,  and  whether  they  could  be  bought  and  sold.'  ^
@@ -2505,14 +1858,12 @@ natural  heads  of  the  community.^
 
 Jochelson  gives  the  following  account  of  the  Koryak  custom  of
 blood-revenge  :  '  The  duty  of  avenging  the  murder  of  a  relative
-fell  upon  the  male  members  of  a  consanguineous  group.  Ac-
-cording to  the  account  of  the  Koryak,  the  immediate  avengers
+fell  upon  the  male  members  of  a  consanguineous  group.  According to  the  account  of  the  Koryak,  the  immediate  avengers
 were  the  brothers  ;  then  followed  cousins,  nephews,  and  the  more
 remote  relatives  on  the  father's  or  mother's  side.  In  case  there
 were  no  brothers,  the  father  or  uncle,  unless  impeded  by  age,
 would  take  their  place.  On  the  whole,  however,  vengeance  by
-blood  was  considered  by  the  Koryak  to  be  the  duty  of  all  blood-
-relatives,  and  not  of  single  individuals.  A  consanguineous  group
+blood  was  considered  by  the  Koryak  to  be  the  duty  of  all  bloodrelatives,  and  not  of  single  individuals.  A  consanguineous  group
 consisting  of  one  or  several  families  was  also  jointly  responsible
 for  a  murder  committed  by  one  of  its  members,  and  in  so  far
 
@@ -2520,8 +1871,6 @@ for  a  murder  committed  by  one  of  its  members,  and  in  so  far
 
 1679  J)
 
-
-34  SOCIOLOGY
 
 must  be  regarded  as  one  juridical  personality.*  We  know  thut
 the  old  men  often  attempted  to  check  the  spread  of  blood-revenge.
@@ -2540,8 +1889,7 @@ age  but  also  in  physical  strength.  The  elder's  dwelling  was
 distinguished  by  having  erected  near  it  a  post,  known  as  the
 guardian  of  the  settlement.  The  elder  usually  had  many  wives
 and  children,  and  the  respect  in  which  he  was  held  was  extended
-to  his  fjimily  even  after  his  death.  He  often  possessed  shaman-
-istic  powers,  or  else  kept  a  shaman  helper.  Shamans  were  also
+to  his  fjimily  even  after  his  death.  He  often  possessed  shamanistic  powers,  or  else  kept  a  shaman  helper.  Shamans  were  also
 held  in  great  esteem  in  social  life.'^
 
 The  Korj'ak  family  is  organized  vn  the  i>rinciple  of  seniority,
@@ -2549,8 +1897,7 @@ the  father  being  the  head  of  the  family.  After  his  death,  his
 brother  or  eldest  son,  or,  failing  these,  his  adopted  son-in-law,
 married  to  the  eldest  daughter,  takes  his  place  as  family  head.'*
 This  principle  of  the  authority  of  the  senior  obtains  also  among
-women.  The  mother  is  the  head  of  the  family,  so  far  as  house-
-hold affairs  are  concerned  ;  or,  failing  her,  the  wife  of  an  adopted
+women.  The  mother  is  the  head  of  the  family,  so  far  as  household affairs  are  concerned  ;  or,  failing  her,  the  wife  of  an  adopted
 son-in-law,  or  the  wife  of  the  eldest  son.^
 
 With  regard  to  the  position  of  women,  the  following  data  are
@@ -2571,15 +1918,9 @@ law:  peaceful  settlement  of  blood-feuds  by  compensation.  (Op.  cit.,  p. 
 *  The  bridegroom,  however,  very  seldom  goes  to  live  in  his  father-in  law's
 bouse.  Of  181  marriages  registered  by  Jochelson,  only  11  (6%)  were  cases
 in  which  the  son-in-law  was  adopted  into  his  father-in-law's  family.
-(Op.  cit.,  p.  744.)
-
-*  Op.  cit.,  p.  744.
 
 
 SOCIAL   OKGANIZATION
-
-
-35
 
 
 inner  tent ;  and,  besides  the  children,  only  the  mother  or  the
@@ -2599,8 +1940,7 @@ were  for  the  most  part  united  and  happy.-
 Terms  of  Consanguinity.^
 
 
-Yihiy-acice.  ijilmj-apa  ('  linked  grand-
-father')*
+Yihiy-acice.  ijilmj-apa  ('  linked  grandfather')*
 
 Acice  (Paren),  apa  fKanienskoye),
 apapel  (Reindeer  Koryak)
@@ -2616,8 +1956,7 @@ Itcei
 Apa  (Paren),  tata  (Kanienskoye)
 enpic  (Reindeer  Koryak)
 
-Ella  {vava,  ainma,  terms  of  endear-
-ment used  by  Reindeer  Koryak)  ^
+Ella  {vava,  ainma,  terms  of  endearment used  by  Reindeer  Koryak)  ^
 
 Enpiciket  (dual  of  eiqji'c,  '  the
 fathers')
@@ -2634,8 +1973,7 @@ Enpici-cakit      .....
 
 Nenca-cakif       .....
 
-Yilalni-tHmrjiH  (female  cousin,  nau-
-yilalni-tuntgin)
+Yilalni-tHmrjiH  (female  cousin,  nauyilalni-tuntgin)
 
 Kminin,  oxakik  (Qaikminin,  'boy')
 
@@ -2650,13 +1988,11 @@ Illaica  (niece,  nau-illawa)
 
 Great-grandfather,
 
-Grandfather  and  great-uncle  (pater-
-nal and  maternal).
+Grandfather  and  great-uncle  (paternal and  maternal).
 
 Great-grandmother.
 
-Gi-andmother  and  great-aunt  (pater-
-nal and  maternal).
+Gi-andmother  and  great-aunt  (paternal and  maternal).
 
 Uncle  (paternal  and  maternal).
 
@@ -2700,15 +2036,12 @@ grandson,  granddaughter,  great-grandfather,  great-grandmother,  are
 formed  by  a  combination  of  the  word  "  linked  "  with  primary  terms  for
 son,  daughter,  &c.'     (Op.  cit.,  p.  760.)
 
-5  Op.  cit.,  p.  760.
 
 *  That  the  eldest  brother  and  sister  are  named  by  distinct  terms  shows
 the  importance  of  their  position  in  the  family  (ibid.).
 
 li  2
 
-
-36  SOCIOLOGY
 
 Terms  of  Affinity.'
 
@@ -2747,8 +2080,7 @@ elected  under  Russian  sui^ervision.'*
 
 From  an  analysis  of  the  clan-names  of  the  Yukaghir,  Jochelson
 comes  to  the  conclusion  that  their  original  clans  '  comprised  not
-merely  groups  of  consanguineous  families,  but  also  families  con-
-nected only  by  the  fact  that  they  inhabited  common  territoiy '.^
+merely  groups  of  consanguineous  families,  but  also  families  connected only  by  the  fact  that  they  inhabited  common  territoiy '.^
 The  testimony  of  the  Yukaghir  confirms  the  conclusion."
 
 Thus  he  says  that  the  central  consanguineous  group  in  a  clan
@@ -2757,7 +2089,6 @@ to  the  sixth  or  seventh  generation,  while  outsiders  constitute  the
 territorial  element  in  the  clan.  It  is  interesting  to  note  in  this
 connexion  that  the  Yukaghir  say  that  for  purposes  of  marriage  the
 
-1  Op.  cit.,  p.  760.
 
 ^  "Whatever  feeling  of  tribal  unity  m;iy  exist  is  shown  only  in  the  fact
 that  the  clans  never  fight  among  themselves,  except  as  a  result  of
@@ -2774,8 +2105,6 @@ are  also  called  '  the  people  from  the  Yassachna  River'  (ibid.).
 
 «  Op.  cit.,  p.  116.
 
-
-SOCIAL   ORGANIZATION  37
 
 fourth  generation  are  no  longer  relatives,  and  yet  the  clansmen  can
 trace  their  genealogies  often  for  many  generations.'
@@ -2796,8 +2125,7 @@ Thus  these  names  do  not  seem  to  contain  any  indication  of
 a  former  existence  of  totems  among  the  Yukaghir.' -
 
 Clansmen  still  preserve  the  memory  of  the  common  clan  ancestor,
-although  his  cult  is  at  the  present  day  in  decadence.  The  terri-
-torial element,  which  may  even  not  be  Yukaghir  at  all,  but
+although  his  cult  is  at  the  present  day  in  decadence.  The  territorial element,  which  may  even  not  be  Yukaghir  at  all,  but
 Tungus,  Koryak,  or  Chuvantzy,  has  been  assimilated  and  allowed
 to  join  in  the  cult  of  the  ancestor  of  the  consanguineous  group.
 The  process  of  assimilation  has  to  some  extent  been  assisted  by
@@ -2805,12 +2133,10 @@ intermarriage,  though  this  has  not  affected  the  matter  so  much  as
 it  might  have  done  if  marriage  among  the  Yukaghir  were  not
 endogamic  (i.e.  within  the  clan,  not  within  the  village).^
 
-There  were,  however,  other  factors  which  advanced  the  assimi-
-lation of  the  inner  and  outer  groups  in  the  clan.  These  were  the
+There  were,  however,  other  factors  which  advanced  the  assimilation of  the  inner  and  outer  groups  in  the  clan.  These  were  the
 '  old  man ',  the  shaman,  the  '  strong  man '  with  his  warriors,  and
 the  first  hunter  with  his  group  of  inferior  hunters.  Of  these,  the
-'  old  man '  and  the  shaman  belonged  of  necessity  to  the  consan-
-guineous group  in  the  clan.  The  '  old  man  '  regulated  war,  fishing
+'  old  man '  and  the  shaman  belonged  of  necessity  to  the  consanguineous group  in  the  clan.  The  '  old  man  '  regulated  war,  fishing
 and  hunting  expeditions,  selecting  the  resting-places  during  the
 wanderings  of  the  clan,  and  assigning  the  district  for  hunting,  &c.,
 to  each  group,  if  the  clan  separated  for  the  purposes  mentioned.
@@ -2825,11 +2151,8 @@ the  "  old  man"  of  the  clan  consulted  the  oldest  representatives  of  t
 ^  Op.  cit.,  pp.  117-18.  "  Op.  cit.,  p.  119.
 
 
-38  SOCIOLOGY
-
 separate  families,  the  pohdpe  (i.e.  "the  old  men  "),  who  constituted
-a  council,  and  by  whose  advice  the  "  old  man  "  was  not  infrequently-
-guided.''  His  wife  held  a  similar  position  among  the  women,
+a  council,  and  by  whose  advice  the  "  old  man  "  was  not  infrequentlyguided.''  His  wife  held  a  similar  position  among  the  women,
 although  the  powers  of  government  were  in  the  hands  of  the  'old
 man ',  whom  both  men  and  women  must  obey.  She  superintended
 the  division  of  the  spoils  of  the  chase.
@@ -2839,8 +2162,7 @@ that  of  the  '  old  man'.  Before  any  undertaking  he  had  to  perform
 various  ceremonies,  and  he  was  the  intermediary  between  the
 living  and  the  dead.  After  his  death  he  did  not  cease  to  be  the
 protector  of  his  clan.  His  corpse  'was  dissected,  the  flesh  being
-separated  from  the  bones,  which  were  divided  among  his  blood-
-relatives.  The  "old  man"  received  the  skull,  which  was  then
+separated  from  the  bones,  which  were  divided  among  his  bloodrelatives.  The  "old  man"  received  the  skull,  which  was  then
 attached  to  a  wooden  trunk.  Tlie  idol,  clad  in  precious  garments,
 received  the  name  "  Xoil "  and  was  worshipped  as  the  guardian
 deity  of  the  clan.'-
@@ -2855,8 +2177,7 @@ at  the  px'esent  day  the  offices  of  '  old  man ',  shaman,  and  '  stron
 man  '  are  becoming  little  more  than  a  tradition,  that  of  the  hunter,
 especially  in  the  clans  on  the  Korkodon  and  Yassachna  Eivers,  is
 still  very  important.  The  hunters  have  no  special  share,  or  larger
-share  than  anyone  else,  in  the  game  they  procure  ;  their  sole  in-
-centive to  energetic  pursuit  of  their  calling  is  their  communal
+share  than  anyone  else,  in  the  game  they  procure  ;  their  sole  incentive to  energetic  pursuit  of  their  calling  is  their  communal
 instinct,  which  Jochelson  found  so  strong  in  them  that  a  sleepless
 night  after  the  fatigues  and  anxieties  of  the  day's  hunting  did  not
 ]n'event  them  from  being  eager  with  the  first  light  to  set  about
@@ -2869,17 +2190,10 @@ and  not  for  that  of  the  clan.''
 There  was  formerly  among  the  Yukaghir  a  class  of  slaves  called
 2^0  (lit.  '  worker').''     For  a  hired  labourer  they  have  another  word,
 
-1  Op.  cit.,  p.  119.  -  Op.  cit.,  p.  120.
 
 s  Op.  cit.,  pp.  121-5.  *  Ibid.
 
 *  The  position  of  slaves  among  the  Yukaghir  is  ver}-  simihiv  to  that  of
-
-
-SOCIAL  ORGANIZATION
-
-
-39
 
 
 uicil.  Tlie  slaves  were  captives  of  war.  and  the  position  of  women
@@ -2982,8 +2296,6 @@ will  be  developed  in  a  later  woi-k,
 =»  Op.  cit.,  p.  68.  ■*  Ibid.
 
 
-40  SOCIOLOGY
-
 sisters,  and  cousins,  male  and  female,  of  the  father  and  mother.
 These  are  further  distinguished  according  to  age.*
 
@@ -3006,8 +2318,7 @@ G.  Como-cie  :  father's  elder  brother,  elder  first  or  second  cousin,
 &c. — a  contraction  for  comojed-ecic,  'big-father'.  'Big',  here  =
 '  provider ',  with  reference  to  this  person's  position  in  the  family.
 
-7.  Idiefel;  or  edietek:  father's  younger  brother,  younger  first-
-cousin,  &c.     Lit.  'a  little  father'  (diminutive).^
+7.  Idiefel;  or  edietek:  father's  younger  brother,  younger  firstcousin,  &c.     Lit.  'a  little  father'  (diminutive).^
 
 8.  Cemmei  (contracted  from  cotnoje-d-cmei, '  big  mother ') :  mother's
 elder  sister,  elder  female  cousins,  first,  second,  &c.  The  elder  sister
@@ -3028,12 +2339,10 @@ female  first-cousin,  «S:c.     Emjnodie=^\\.ii\e  dear  one'."
 the  term  unkenme,  '  birth-fellow ',  for  the  former,  or  by  speaking  of  an
 *clder-brother-by-birth',  &c.    (Op.  cit.,  p.  69.j
 
-2  Op.  cit.,  p.  69.  3  Op.  cit.,  p.  70.
 
 *  Uncles  and  aunts  included  under  the  general  term  enijepul  in
 reference  to  the  older  generation  of  grandfather.';  and  grandmothers,
 are  not  addressed  by  their  nephews  and  nieces  by  any  general  name.
-(Op.  cit.,  p.  70.)
 
 ^  Op.  cit.,  p.  71.
 
@@ -3047,16 +2356,13 @@ one  class  of  aunts,  who  do  not  form,  b}-  their  names,  a  .'ei^arate  
 in  their   own   generation  :   these  belong,  by   their  terms,  to  the  group
 
 
-SOCIAL  ORGANIZATION  41
-
 12.  Xa.ra  (Kolyma),  xaicie  (tundra) :  mother's  elder  brothers
 and  elder  male  cousins  of  various  degrees,  as  well  as  grandfathers
 (paternal  and  maternal)  and  all  brothers  and  male  cousins  of
 different  degrees  of  the  latter.
 
 13.  Epie  (Kolyma),  ubucic  (tundra) :  father's  elder  sister  and
-elder  female  cousins  of  different  degrees,  as  well  as  the  grand-
-mothei"s  (paternal  and  maternal),  and  the  latter's  sisters  and  female
+elder  female  cousins  of  different  degrees,  as  well  as  the  grandmothei"s  (paternal  and  maternal),  and  the  latter's  sisters  and  female
 cousins  of  different  degrees.^
 
 'Among  the  female  members  of  a  family  the  father's  elder
@@ -3082,21 +2388,17 @@ elder  male  cousin) ' ;  (ii)  metpabad-aduo,  '  son  of  my  elder  sister
 brother  or  younger  male  cousin,  or  of  my  younger  sister  or
 younger  female  cousin '.
 
-17.  Nieces:  (i)  mettata-marxil ;  {ii)  metpaba-marxd ;  {Hi)  metemje-
-marxd.
+17.  Nieces:  (i)  mettata-marxil ;  {ii)  metpaba-marxd ;  {Hi)  metemjemarxd.
 
-Similar  descriptive  terms  are  applied  to  grandsons,  and  grand-
-daughters :
+Similar  descriptive  terms  are  applied  to  grandsons,  and  granddaughters :
 
-18.  Grandsons  :  mdaduod-adiio,  '  son  of  my  son  ' ;  metmarxluod-
-aduo,  '  son  of  my  daughter '.
+18.  Grandsons  :  mdaduod-adiio,  '  son  of  my  son  ' ;  metmarxluodaduo,  '  son  of  my  daughter '.
 
 19.  Granddaughters  :  mctuduod-niarxd,  '  daughter  of  my  son  ' ;
 
 metmarxliwd-marxd,  '  daughter  of  my  daughter '.
 
-ot  the  elder  generation,  to  the  group  of  the  grandfathers  and  grand-
-mothers. Thus  we  have  the  following  terms  :'  (12  and  18j.  (Op.  cit,  p.  71.)
+ot  the  elder  generation,  to  the  group  of  the  grandfathers  and  grandmothers. Thus  we  have  the  following  terms  :'  (12  and  18j.  (Op.  cit,  p.  71.)
 
 '  The  terms  xfixa  and  epie  are  also  used  to  denote  old  men  and  old
 women  in  general  (op.  cit.,  p.  73 '.
@@ -3109,8 +2411,6 @@ p.  72.J
 
 ^  Op.  cit.,  p.  <3.
 
-
-42  SOCIOLOGY
 
 20.  Grand-nephews  and  grand-nieces  are  similarly  designated  ;
 e.  g.  mettatad-aduod-aduo,  *  son  of  the  son  of  my  elder  brother,
@@ -3155,11 +2455,9 @@ pogil  and  nial),  have  become  merged  into  one  class,  nialpe.'
 I.  Fogil :  ^  (a)  wife's  father  (father-in-law) ;  (&)  wife's  mother
 (mother-in-law);  (c)  husband's  father  (father-in  law) ;  ((?)  husband's
 
-'  Op.  cit.,  p.  73.
 
 ^  'According  to  the  above  table  it  might  seem  that  the  coufusion  of
-nial  and  2^01/il,  which  is  complete  among  the  Tiuidia  Yukaghir,  has  coui-
-menced  among  the  othor  branch  also.  A  few  terms,  like  that  for  uncle's
+nial  and  2^01/il,  which  is  complete  among  the  Tiuidia  Yukaghir,  has  couimenced  among  the  othor  branch  also.  A  few  terms,  like  that  for  uncle's
 wife,  have  not  been  ascertained.'     (Op.  cit.,  p.  75.)
 
 ^  Including  the  parental  generation  and  elder  brothers  and  sisters,
@@ -3172,8 +2470,6 @@ brothers  and  sisters.
 
 •^  Op.  cit.,  p.  73.  '  Ibid.  **  Op.  cit..  p.  74.
 
-
-SOCIAL   ORGANIZATION  43
 
 mother  (mother-in-law)  ;  (c)  daughter's  husband  (son-in-h\\v) ;
 (/)  younger  sister's  husband  (brotlior-in-hiw) ;  {fj)  wife's  elder
@@ -3222,14 +2518,11 @@ labourers';  ;  (ji,  a  possessive  suffix,  and  /,  a  suffix  used  to  form
 verbs.  The  tei-m  would  thus  mean  '  his  labourer '.  The  verb  lyngilonii,  he
 says,  means  '  to  serve  for  a  girl  at  her  parents'  house  '.  Thus  the  term
 pogil  comes  to  denote  persons  who  serve,  or  are  served,  for  a  bride.
-(Op.  cit.,  p.  74.)
 
 ^  Brother,  sister,  cousin,  being  all  eiujepiil.
 
 -  L.  Sternberg,  The  Gihjcih,  1905,  pp.  78-9.
 
-
-44  SOCIOLOGY
 
 their  fathers,  taking  their  wives  from  another  similar  group,  and
 giving  their  women  in  marriage  to  a  third  clan,  all  clans  being
@@ -3261,8 +2554,7 @@ and  often  their  children  were  considered  as  brothers  and  sisters."*
 II.  Common  fire.  The  common  fire  is  also  a  symbol  of  the
 unity  of  the  clan.  'The  chief  owner  of  the  fire,'  whom  they
 imagine  as  an  old  woman,  is  thus  not  only  a  good  spirit  who
-bestows  the  use  of  fire  on  living  clansmen,  but  also  an  interme-
-diary between  the  living  and  the  dej^arted  ancestors  who  are  the
+bestows  the  use  of  fire  on  living  clansmen,  but  also  an  intermediary between  the  living  and  the  dej^arted  ancestors  who  are  the
 heroes  of  the  clan.  By  being  burned  the  dead  are  given  to  the
 '  owner  of  the  fire  ',  who  has  the  power  of  choosing  some  of  them
 to  become  also  '  owners '  of  the  clan-fire.  "^
@@ -3280,8 +2572,6 @@ I  Op.  cit.,  p.  81.  ■•  Op.  cit.,  pp.  82-3.
 burning,  are  reckoned  as  worthy  to  be  received  into  the  society  oi'  the
 '  owners  of  the  fire  '.     (Op.  cit.,  pp.  84,  85.)
 
-
-SOCIAL   ORGANIZATION  45
 
 will  hring  niisfurtimo  on  the  clun,  juul  the  :ilien  clansiuaii  who
 has  brought  it  about  may  have  to  pay  a  fine  in  consequence.
@@ -3310,8 +2600,7 @@ they  are  more  than  other  things  regarded  as  individual  property,
 yet  if  a  clansman  needs  them  for  Mh/m,  for  burial,  &c.,  they  give
 them  freely.  In  the  case  of  inherited  property,  the  maxim  si  suos
 haeredes  non  Jiabef,  gentiles  familiam  hahento  is  strictly  observed.
-If  there  is  no  family  (including  labourers  attached  to  the  house-
-hold) an  inheritance  passes  to  the  next  of  kin  on  the  father's  side,
+If  there  is  no  family  (including  labourers  attached  to  the  household) an  inheritance  passes  to  the  next  of  kin  on  the  father's  side,
 even  if  there  are  much  nearer  relatives  on  the  side  of  the  mother.
 The  latter  can  receive,  but  only  by  special  bequest,  certain  ol)jects
 known  as  shagtoid,  which  are  private  property.  Iron  sliagund  may
@@ -3330,14 +2619,10 @@ Op.  cit.,  pp.  85-6.  2  Op.  cit.,  p.  86.  ^  Qj,.  cit.,  pp.  87-8.
 Op.  cit.,  p.  89.  =>  Op.  cit.,  p.  90.  «  Ibid.
 
 
-46  SOCIOLOGY
-
 and  a  sucial  sigiiificauce.  In  the  former  case,  it  is  a  religious
-duty  to  venerate  the  slain  bear,  for  he  may  belong  to  the  fra-
-ternity of  the  '  owners  of  the  mountain ',  or  be  the  incarnation  of
+duty  to  venerate  the  slain  bear,  for  he  may  belong  to  the  fraternity of  the  '  owners  of  the  mountain ',  or  be  the  incarnation  of
 some  remote  fellow  clansman's  spirit,  which  has  been  received
-into  that  fraternity.  Again,  the  bear  is  regarded  as  the  inter-
-mediary between  mortals  and  the  '  owner  of  the  mountain ',  so
+into  that  fraternity.  Again,  the  bear  is  regarded  as  the  intermediary between  mortals  and  the  '  owner  of  the  mountain ',  so
 that  sacrifices  may  be  sent  by  the  bear  to  that  spirit ;  an  important
 matter,  for  this  'owner'  has  power  over  all  animals.  This  is  the
 reason  why  the  bear-festival  plays  such  an  important  part  in  the
@@ -3370,8 +2655,7 @@ rests  with  the  clan  as  a  whole,  as  does  also  the  duty  of  exacting
 thusind  from  the  offender  on  behalf  of  an  injured  clansman.^
 Compensation  in  money,  however,  is  only  a  secondary,  and
 a  modern,  consideration,  and  cannot  always,  even  nowadays,
-replace  the  ancient  duty  of  exacting  blood-revenge  for  man-
-slaughter. This  latter  offence  often  goes  formally  unpunished
+replace  the  ancient  duty  of  exacting  blood-revenge  for  manslaughter. This  latter  offence  often  goes  formally  unpunished
 within  the  clan.  The  killing  by  way  of  blood-revenge  of  a  fellow
 clansman  would  involve  another  act  of  vengeance  on  the  part  of
 
@@ -3419,23 +2703,18 @@ upwards,  whereas  the  stump  placed  on  an  ordinary  grave  usually
 has  the  roots  turned  down.  The  roots  they  fashion  into  the  form
 of  a  bird,  or  else  place  upon  them  the  image  of  one.  As  the  soul
 of  a  murdered  man,  like  that  of  any  other  Gilyak,  continues  to
-exist  only  for  three  generations,  so  the  obligation  to  take  ven-
-geance for  his  blood  binds  his  fellow  clansmen  only  till  the  third
+exist  only  for  three  generations,  so  the  obligation  to  take  vengeance for  his  blood  binds  his  fellow  clansmen  only  till  the  third
 
 1  Op.  cit.,  p.  03.  -  Ibid.  3  Op.  cit.,  pp.  04  5.
 
 
-48  SOCIOLOGY
-
-generation  it"  the  act  of  vengeance  is  not  performed  by  a  contem-
-porary. Vengeance  is  never  executed  upon  a  woman,  or  upon  the
+generation  it"  the  act  of  vengeance  is  not  performed  by  a  contemporary. Vengeance  is  never  executed  upon  a  woman,  or  upon  the
 private  property  of  the  guilty  person.^
 
 Both  clans  are  under  a  kind  of  martial  law,  between  the  time
 of  the  murder  and  that  of  the  carrying  out  of  the  blood-vengeance.
 If  the  clans  live  near  each  other  the  matter  is  settled  quickly,  but
-if  they  ai*e  separated  by  a  considerable  distance  a  military  expedi-
-tion on  a  small  scale  is  arranged.'^
+if  they  ai*e  separated  by  a  considerable  distance  a  military  expedition on  a  small  scale  is  arranged.'^
 
 Thusind  originated  as  an  alternative  to  blood-vengeance,  and
 has  finally  replaced  it.  Sternberg  says^  that  as  every  clan  was
@@ -3447,8 +2726,7 @@ reluctant  to  involve  women  with  whom  they  were  so  closely
 related  in  the  horrors  of  war.  Although  a  woman  could  neither
 take  active  part  in  inflicting  vengeance  for  blood,  nor  herself  suffer
 this  punishment,  she  could  play  a  role  in  the  affair  which,  though
-passive,  was  still  important.  She  might  hide  the  object  of  the  clans-
-men's vengeance ;  or,  by  abstaining  from  assisting  them  with  sup-
+passive,  was  still  important.  She  might  hide  the  object  of  the  clansmen's vengeance ;  or,  by  abstaining  from  assisting  them  with  sup-
 plies of  food  and  water,  or  with  fire  for  cooking,  hinder  them  from
 carrying  out  their  aim  ;  for  the  law  was  strictly  against  the  members
 of  one  clan  making  use  of  the  food,  water,  or  fire  of  another  clan.
@@ -3459,13 +2737,11 @@ in  this  ceremonial  is  the  ]clila)j-nkulcli  ('speaking-man',  'orator'),
 a  personage  somewhat  resembling  a  barrister  in  his  functions.
 He  must  be  a  rich  and  important  member  of  a  neutral  clan.
 When  the  offended  clan  ajiproaches  the  habitat  of  the  murderer's
-fellow  clansmen  to  demand  thusind,  a  halt  is  made,  and  the  IMaij-
-nivukh  goes  forward  alone  to  name  the  sum  demanded.  The
+fellow  clansmen  to  demand  thusind,  a  halt  is  made,  and  the  IMaijnivukh  goes  forward  alone  to  name  the  sum  demanded.  The
 clansmen  of  whom  the  demand  is  made  do  not  at  first  agree,  and
 the  proceeding  has  to  be  repeated  two  or  three  times.  This  is
 followed  by  an  imitation  of  the  taking  of  blood-revenge.  Two
-champions,  one  from  each  clan,  accompanied  each  by  his  khlaji-
-nivKJih,  advance  between  the  two  parties  to  the  dispute,  bearing
+champions,  one  from  each  clan,  accompanied  each  by  his  khlajinivKJih,  advance  between  the  two  parties  to  the  dispute,  bearing
 shields.  They  engage  in  a  combat,  which  is  usually  merely
 a  feigned  one,  though  it  sometimes  develops  into  a  real  fight,
 during  which  the  two  JMajj-niinilxhs  do  their  utmost  to  calm  the
@@ -3475,8 +2751,6 @@ anger  of  the  combatants.  This  over,  two  dogs,  provided  by  the
 
 ^
 
-
-SOCIAL   ORGANIZATION  49
 
 two  clans,  are  killed,  and  offered  as  a  sacrifice  to  the  l)ird-avenger.
 Then  a  feast  is  held,  at  which  the  thusind  is  paid  and  friendship
@@ -3489,8 +2763,7 @@ a  given  clan.  The  breach  of  these  latter  rules  constitutes  a  *  sin '
 for  that  clan  only.  Some  of  these  prohibitions,  or  taboos,  are
 sexual,  for  besides  marriage  relations  with  an  alimalk  or  ipncfi,
 sexual  relations  are  permitted  with  certain  persons  and  prohibited
-with  others.  This  will  be  dealt  with  in  the  chapter  on  'Mar-
-riage'. There  are  also  speech  taboos  with  the  whole  class  of  (nvii
+with  others.  This  will  be  dealt  with  in  the  chapter  on  'Marriage'. There  are  also  speech  taboos  with  the  whole  class  of  (nvii
 (ruvn),  acJiJc  (mother  and  aunts  of  the  wife).  Other  taboos  are
 connected  with  the  clan  cult,  and  the  breaking  of  them  involves
 payment  of  thuslnd  to  the  god.  The  breaking  of  such  taboos  by
@@ -3510,8 +2783,7 @@ animals  as  the  origin  of  clan-names,  but  this  occurs  chiefly  where
 there  is  a  Tungus  admixture."*
 
 Both  Chinese  and  Russians  tried  to  impose  upon  the  Gilyak
-clan  rulers,  and  the  ruler  chosen  was  a  sort  of  elder — not,  how-
-ever, a  clan  elder,  but  a  village  elder ;  an  arrangement  quite
+clan  rulers,  and  the  ruler  chosen  was  a  sort  of  elder — not,  however, a  clan  elder,  but  a  village  elder ;  an  arrangement  quite
 opposed  to  Gilyak  ideas  of  government.
 
 In  the  natural  Gilyak  social  organization  there  is  no  trace  of
@@ -3523,15 +2795,9 @@ influence  or  real  authority  or  importance.
 
 '  Op.  cit.,  pp.  102  6.  ^  Op.  cit ,  pp.  106  8.
 
-3  Op.  cit.,  p.  110.  *  Op.  cit.,  p.  111.
 
-
-50  SOCIOLOGY
-
-All  the  clans  have  some  men  known  as  yz  ('host'),  or  nrdla-
-nmikhi  (lit.  '  good  and  rich '),  who  either  through  wealth,  physical
-prowess,  or  some  accomplishment  such  as  oratory,  have  an  im-
-portant though  unofficial  standing  in  the  clan.  In  time  of  need
+All  the  clans  have  some  men  known  as  yz  ('host'),  or  nrdlanmikhi  (lit.  '  good  and  rich '),  who  either  through  wealth,  physical
+prowess,  or  some  accomplishment  such  as  oratory,  have  an  important though  unofficial  standing  in  the  clan.  In  time  of  need
 such  men  may  be  called  upon  to  assume  the  responsibility  of
 upholding  the  customary  law  ;  but  the  Ixhal  (clan)  as  a  whole  has
 supreme  authority  over  theni.^
@@ -3549,8 +2815,7 @@ that  of  hospitality  or  '  feeding '.  An  inter-clan  maxim  says :  '  One
 must  feed  jinuji^  ('sons-in-law').  This  implies  actual  support  of
 a  son-in-law  only  in  a  few  cases,  but  there  remain  even  at  the
 present  day,  says  Sternberg,  traces  of  a  time  when  it  was  the
-custom  for  sons-in-law  to  go  to  live  in  the  houses  of  their  fathers-
-in-law.'-  A  custom  connected  with  the  making  of  friendship  with
+custom  for  sons-in-law  to  go  to  live  in  the  houses  of  their  fathersin-law.'-  A  custom  connected  with  the  making  of  friendship  with
 an  )img\  is  that  of  '  treading  upon  the  threshold  '  with  an  exchange
 of  gifts.''
 
@@ -3575,8 +2840,6 @@ clan-gods  with  it  as  compensation  for  the  breach  of  socio-religious
 
 3  Op.  cit.,  p.  124.  ■■  Op.  cit.,  pp.  125-6.
 
-
-SOCIAL   ORGANIZATION  51
 
 law.  In  moilern  times  the  custom  of  giving  ladiim  has  been
 extended  to  all  marriages,  and  the  origin  of  the  custom  forgotten.'
@@ -3603,12 +2866,10 @@ and,  as  Middendorff  *  observes,  if  there  is  a  group  consisting  of  le
 than  a  hundred  souls,  they  call  themselves  a  clan  ;  if  above  this
 number,  they  call  themselves  an  orda.
 
-The  clan  is  called  (according  to  Georgi)  tagaiin  ;  and,  being  origin-
-ally based  on  a  system  of  blood-relationships,  the  members  of  a
+The  clan  is  called  (according  to  Georgi)  tagaiin  ;  and,  being  originally based  on  a  system  of  blood-relationships,  the  members  of  a
 clan  may  not  mari-y  each  other.  A  clan  was  governed  by  an  elder,
 called  daruga,  whose  office  was  hereditary.  But  in  the  middle  of
-the  eighteenth  century  the  Russians  introduced  native  adminis-
-trators, elected  for  terms  of  three  years,  who  were,  in  fact,
+the  eighteenth  century  the  Russians  introduced  native  administrators, elected  for  terms  of  three  years,  who  were,  in  fact,
 Russian  governmental  agents  for  the  collection  of  taxes.'  The
 popular  tradition  is  that  the  clan-names  originated  from  the
 founders  of  the  clan,  or  heroes,  and  such  is  certainly  the  case
@@ -3629,8 +2890,6 @@ since  in  Tungus  otrykan  (atrikan)  means  *  old ',  and  atyrkon  is  '  ma
 E  2
 
 
-52  SOCIOLOGY
-
 witli  clans  like  the  Kurkugiisk,  Chemdalsk,  Chapogirsk,  all  in
 the  Yenisei  district.  A  few  clans  derive  their  names  from  some
 river  or  hill  of  the  district  where  they  were  formerly  settled  ;
@@ -3644,8 +2903,7 @@ formed  by  them  from  fragments  of  disintegrated  clans.^
 The  Tungus  clan  is  not  an  indivisible  whole,  but  is  composed
 of  several  sub-clans,  and  thus  resembles  a  Yakut  naslcg,  for
 instance.  Thus,  e.  g.,  the  Lamunkhinsk  clan  of  Tungus  living  in
-the  Yakut  district  is  made  up  of  four  sub-clans,  Khorinsk.  Donda-
-konsk,  Lamunkhinsk,  and  Tugiasirsk.  The  first  two  sub-clans
+the  Yakut  district  is  made  up  of  four  sub-clans,  Khorinsk.  Dondakonsk,  Lamunkhinsk,  and  Tugiasirsk.  The  first  two  sub-clans
 originally  consisted  of  Mongol-Buryat,  who  since  the  seventeenth
 century  have  been  living  among  Tungus,  and  thus  have  become
 tungusized.  This  shows,  says  Patkanoff,  that  even  under  a
@@ -3654,8 +2912,7 @@ hidden."
 
 The  clan  organization  has  been  preserved  most  pure  among
 those  Tungus  who  have  remained  in  isolated  districts,  mixing
-with  alien  elements  only  on  their  borders  ;  that  is,  it  has  re-
-mained in  its  purest  state  among  the  '  nomadic  '  and  '  wandering  '
+with  alien  elements  only  on  their  borders  ;  that  is,  it  has  remained in  its  purest  state  among  the  '  nomadic  '  and  '  wandering  '
 tribes,  especially  the  latter.  Christianity  and  a  sedentaiy  mode
 of  life  have  been  unfavourable  to  the  preservation  of  their  social
 structure  no  less  than  to  that  of  their  religious  cults.^
@@ -3680,8 +2937,6 @@ The    Nomadic    Tungus   are   cattle-breeders,  and    change   their
 *  Op.  cit.,  p.  233.  =*  Op.  cit.,  p.  198.  «  Op.  cit.,  pp.  200,  216.
 
 
-SOCIAL   ORGANIZATION  53
-
 habitat  according  to  the  season  of  the  year.  Each  clan  has  its
 own  region  assigned  to  it,  land  over  which  they  can  wander  at
 will,  and  where  no  strangers  are  allowed  to  settle.  They  form
@@ -3705,8 +2960,7 @@ formed  themselves  into  territorial  groups,  from  which  no  such
 duties  are  required.^
 
 A  small  number,  about  4  per  cent,  of  the  Tungus,  like  some  of
-the  Buryat,  have  joined  the  regiment  of  Cossacks,  and  in  conse-
-quence are  exempt  from  the  payment  of  taxes. ^
+the  Buryat,  have  joined  the  regiment  of  Cossacks,  and  in  consequence are  exempt  from  the  payment  of  taxes. ^
 
 VI.  The  Turkic  Tribes.
 
@@ -3728,12 +2982,9 @@ from  one  another  in  language,  and  form  one  nation.     Their  clans
 
 '  Op.  cit.,  pp.  198,  215.  2  Op.  cit.,  pp.  197,  215.
 
-3  Op.  cit.,  p.  96.  *  Op.  cit.,  p.  202.
 
 *  N.  Kharuzin,  Ethno(/iaj)hi/,  1901,  vol.  i,  part  ii,  p.  231.
 
-
-54  SOCIOLOGY
 
 are  known  as  seolcs  (in  Eussian,  Jcocniu,  '  bones  ')  or  '  generations '.
 The  Altaians  themselves  reckon  as  many  as  twenty-four  of  these,
@@ -3745,8 +2996,7 @@ do  not  form  separate  encampments,  as  the  Kirgis  do,  of  each  clan
 by  itself.  1
 
 The  people  of  a  seoJc  consider  themselves  related  to  each  other.
-When  a  member  of  the  scoJc  Totosh  meets  another  Totosh  clans-
-man older  even  by  one  day  than  himself,  he  addresses  him  as '  uncle  '
+When  a  member  of  the  scoJc  Totosh  meets  another  Totosh  clansman older  even  by  one  day  than  himself,  he  addresses  him  as '  uncle  '
 — ahagay,  if  on  the  father's,  tatj,  if  on  the  mother's  side.  A  fellow
 clansman  younger  than  himself  he  will  call  'nephew'- — uchim,
 for  a  paternal,  dcgnym  for  a  maternal  '  nephew '.  A  woman  older
@@ -3779,11 +3029,8 @@ remote  clan  ancestors,  its  special  insignia,  and  its  own  genealogy/
 '  Potanin,  Sketches  of  Norlh-Wesfeni  Afonr/oJia,  1883,  vol.  iv,  pp.  1-2.
 -  Unfoitunately  Mr.  Potanin  does  not  give  a  full  list  of  relationship
 terms,  -whieh  are  so  imjiortant  for  a  full  understanding  of  social  structure.
-3  Op.  cit.,  p.  9.
 ■*  Potanin,  op.  cit.,  p.  38.  ^  Kharuzin,  op.  cit.,  p.  232.
 
-
-SOCIAL   ORGANIZATION  55
 
 Potanin  speaks  of  Kotan  as  the  t'oiimler  of  the  Kirgis  nation,
 and  of  his  three  sons  as  the  originators  of  the  three  ordas.^
@@ -3792,8 +3039,7 @@ In  cases  of  blood-vengeance  (khuna),  the  clan  as  a  whole  has  the
 responsibility  for  exacting  the  penalty  from  the  aggressor,  while
 the  latter's  clan  in  similar  manner  assumes  his  guilt.
 
-The  authority  of  seniors  and  of  their  council  is  strictly  pre-
-served in  their  clans  and  onlas.-
+The  authority  of  seniors  and  of  their  council  is  strictly  preserved in  their  clans  and  onlas.-
 
 'Hic  Vrianlihai.  The  tribes  of  the  Uriankhai  inhabit  chiefly  the
 valley  between  the  Sayan  Mountains  and  the  Tangnu-Oloy,  from
@@ -3825,8 +3071,7 @@ subdivided.*
 The  Yakut.  The  Yakut  of  to-day  are  grouped  in  clans  [aga-usa),
 naslegs,  and  ulascs.
 
-A  clan  is  composed  sometimes  of  only  a  few  individuals,  some-
-times of  several  hundreds.  A  nasleg  comprises  from  one  to  more
+A  clan  is  composed  sometimes  of  only  a  few  individuals,  sometimes of  several  hundreds.  A  nasleg  comprises  from  one  to  more
 than  thirty  clans.  The  idus  often  includes  several  naslegs.  In
 former  times  the  social  group  corresponding  to  the  nasleg  was
 called  aimak,  while  an  idns  corresponds  to  an  older  group  known
@@ -3836,8 +3081,6 @@ called  aimak,  while  an  idns  corresponds  to  an  older  group  known
 ^  Potanin,  op.  cit.,  1881,  vol.  ii,  pp.  7,  8.
 *  Potanin,  op.  cit.,  vol.  iv,  pp.  lU-12.
 
-
-56  SOCIOLOGY
 
 as  djon.  At  present  the  largest  ulus  {djo>i)  is  the  Djon  Djakar  of
 Ului,  which  comprises  11,000  souls.^
@@ -3851,16 +3094,14 @@ Elgetsk,  Jigansk,  and  Kolymsk  have  only  two  strata  in  their
 social  structure  ;  with  them  nasleg  and  clan  are  one ;  and  this  is
 subordinate  to  the  djon  (uIhs)."-  ^
 
-The  Clan.  Sieroszewski  thinks  that  the  clan  composed  of  blood-
-relatives  is  the  basis  of  Yakut  social  structure.  The  word  aga-usa,
+The  Clan.  Sieroszewski  thinks  that  the  clan  composed  of  bloodrelatives  is  the  basis  of  Yakut  social  structure.  The  word  aga-usa,
 he  says,  means  literally  '  father-clan ' ;  but  he  could  not  obtain
 a  completely  satisfactory  explanation  of  the  term  usa  from  the
 Yakut.  One  of  the  most  satisfactory  was  that  given  him  in  the  idus
 of  Namsk,  in  1^91 :  '  Take  all  the  branches,  knots,  leaves,  and  buds
 which  spring  from  one  root,  and  you  have  an  usa.'*  Instead  of
 iisa,  the  Yakut  often  use  the  word  idrdii,  i.e.  'origin',  'root'.
-They  use  the  expression  Jcun-cit  nruta  ('blood  and  flesh  relation-
-ship ')  to  refer  to  members  of  the  same  clan.  That  this  was
+They  use  the  expression  Jcun-cit  nruta  ('blood  and  flesh  relationship ')  to  refer  to  members  of  the  same  clan.  That  this  was
 not  an  empty  phrase  Sieroszewski  had  ample  opportunity  of
 convincing  himself.  Especially  in  the  north,  from  a  mixed  throng
 of  people  he  was  often  able  to  pick  out  members  of  one  clan  by
@@ -3884,8 +3125,7 @@ the  Tartars,  '  society ' ;  the  Buryat  and  Tartars  use  it  to  denote  a
 territorial  group,  a  subdivision  of  the  clan  ;  only  the  Afghans  use  it  in
 the  same  sense  as  the  modern  Yakut,  to  signify  a  large  confederation
 of  clans.  From  a  certain  dislike  to  the  term  which  Sieroszewski
-observed  among  the  Yakut,  and  from  the  fact  that  it  has  only  com-
-paratively recently  appeared  in  official  documents,  he  thinks  that  the
+observed  among  the  Yakut,  and  from  the  fact  that  it  has  only  comparatively recently  appeared  in  official  documents,  he  thinks  that  the
 word  was  imported  by  the  Cossacks  from  some  other  nation.  (Op.  cit.,
 pp.  472,  473.)
 
@@ -3894,16 +3134,13 @@ pp.  472,  473.)
 ^  Recorded  by  Sieroszewski  in  the  idus  of  Namsk,  1892.
 
 
-SOCIAL  ORGANIZATION  57
-
 clan  is  hardly  more  tluvn  a  tradition.'  When  the  Russians  first
 came  into  contact  with  the  Yakut,  their  clan  system  was  quite
 highly  developed,  and  the  head  of  the  clan  (bis-iisu-foi/onoy  had  his
 power  limited  to  that  of  judge  and  leader  in  war.
 
 All  economic  and  legal  questions  were  decided  by  a  council  of
-elders  {ogonyor) — fathers,  uncles,  elder  brothers.  Even  now,  ac-
-cording to  Sieroszewski,  a  Yakut  will  not  buy  or  sell  without
+elders  {ogonyor) — fathers,  uncles,  elder  brothers.  Even  now,  according to  Sieroszewski,  a  Yakut  will  not  buy  or  sell  without
 consulting  his  father,  uncle,  or  elder  brother.'
 
 This  form  of  social  organization  was  intimately  connected  with
@@ -3920,8 +3157,7 @@ questions  of  inheritance. °  Failing  a  male  heir,  claim  to  property
 lapses  to  the  clan,  and  even  a  married  sister  of  the  deceased
 receives  nothing."
 
-The  whole  clan  to  which  a  murderer  belonged  was  held  respon-
-sible for  the  crime,  and  must  make  compensation  either  in  blood
+The  whole  clan  to  which  a  murderer  belonged  was  held  responsible for  the  crime,  and  must  make  compensation  either  in  blood
 or  by  payment  of  damages.  Sometimes  a  blood-feud  between
 clans  became  hereditary.  An  injury  done  by  one  member  of
 a  clan  to  another  of  the  same  clan,  if  such  cases  ever  arose,  was
@@ -3934,7 +3170,6 @@ perish.^
 Clans  sometimes  made  alliances  called  iiyeUaJch  ('  reconciled  ',
 'peaceful').     Sieroszewski  thinks  that  these  alliances  were  made
 
-'  Op.  cit.,  p.  248.
 
 ^  The  meaning  of  his  is  not  quite  clear.  Some  of  the  Yakut  said  that
 it  is  identical  in  meaning  with  ulus.  The  spirits  invoked  by  a  shaman
@@ -3949,8 +3184,6 @@ woman  (op.  cit.,  p.  335j.
 «  Op.  cit.,  p.  304.  "  Op.  cit.,  p.  252.
 
 
-58  SOCIOLOGY
-
 between  clans  more  or  less  remotely  related  by  bluod,  that  they
 were  compelled  to  enter  into  such  pacts  by  their  common  need  of
 defence  against  outsiders  or  by  some  economic  cause,  and  that  they
@@ -3958,17 +3191,14 @@ cemented  the  alliance  by  common  sacrifices  and  festivals.  These
 latter  were  called  //si/alhs  ;  the  most  important  Ijeing  the  lesser
 i/s>j(tJch  in  spring,  and  the  great  i/si/alc/i  at  midsummer.  Ysi/cdhs
 were  also  celebrated  at  weddings,  peace-conferences,  or  simply  as
-an  expression  of  joyousness.  They  were  sham  fights  or  tourna-
-ments, trials  of  military  skill,  and  ]>y  the  results  were  decided  the
+an  expression  of  joyousness.  They  were  sham  fights  or  tournaments, trials  of  military  skill,  and  ]>y  the  results  were  decided  the
 position  that  a  particular  clan  should  occupy  in  a  confederation  or
 alliance.     Very  often  these  tourneys  ended  in  real  fights.
 
-Although  nowadays  ihaysyalih  is  in  a  state  of  decadence,^  never-
-theless, so  lately  as  1880-81,  Sieroszewski  witnessed  some  of  these
+Although  nowadays  ihaysyalih  is  in  a  state  of  decadence,^  nevertheless, so  lately  as  1880-81,  Sieroszewski  witnessed  some  of  these
 festivals  in  Verkhoyansk,  which  were  quite  crowded  and  very  lively.
 Formerly  no  ijsi/alJi  could  be  held  without  the  presence  of  a  shaman,
-and  the  di'inking  of  htmiys  from  a  common  cup  was  a  ver}'  impor-
-tant feature  of  the  festivities.'^
+and  the  di'inking  of  htmiys  from  a  common  cup  was  a  ver}'  important feature  of  the  festivities.'^
 
 All  the  traditions  point  to  the  great  solidarity  of  alliances
 between  the  chiefs  of  clans ;  also  to  their  independent  attitude
@@ -3992,8 +3222,7 @@ his  milk-white  throne.  Here  toyon-kyl,  tlie  eagle,  symbol  of  the
 confederation,  looked  down  upon  them  from  his  perch.^
 
 ^  The  ifxijalch  was  similar  to  the  tsatjan-tsara  (white  month)  or  New
-Year  festival  of  the  Mongols,  to  the  taihjans  of  the  Buryat,  to  the  bear-
-festival  of  the  Gilyak,  &c.
+Year  festival  of  the  Mongols,  to  the  taihjans  of  the  Buryat,  to  the  bearfestival  of  the  Gilyak,  &c.
 
 2  Op.  cit.,  pp.  2G0-2.
 
@@ -4003,16 +3232,13 @@ always  inspired).     (Op.  cit.,  257.)
 ^  Op.  cit.,  p.  260.
 
 
-SOCIAL  ORGANIZATION  59
-
 Each  clan  and  each  confoileration  of  chins  within  the  tribe  liad
 its  own  shout,  or  watchword,  and  badge  and  songs,  but  these  are
 now  almost  forgotten  by  the  Yakut.
 
 Thr  Funiih/.  The  general  term  signifying  relationship  is  itru.
 But  iini  means  also  'wedding',  'relationship  by  marriage'.  To
-denote  blood-relationship  the  Yakut  say  kan-dt  uruta  ('blood-and-
-flesh  relationship  ').  There  is  no  other  word  corresponding  to  the
+denote  blood-relationship  the  Yakut  say  kan-dt  uruta  ('blood-andflesh  relationship  ').  There  is  no  other  word  corresponding  to  the
 concept  of  relationship,  unless  it  be  tonh'j,  '  root ',  '  Ijeginning ',
 *  origin  *,  or  Mnjihi,  '  household '.  This  latter  term,  however,
 embraces  even  serving-men  ;  while  a  son  who  leaves  the  house  is
@@ -4020,12 +3246,10 @@ no  longer  considered  one  of  the  largan.
 
 There  are  two  names  for  a  clan :  Yc-iisa,  '  mother-clan ',  and
 aga-Ksa,  '  father-clan '.  Nowadays  yc-usa,  whatever  its  original
-signification,  is  a  '  mother-clan  '  only  in  name,  being  really  suIj-
-ordinate  to  the  aga-iisa.  In  the  ye-usa  relationship  is  reckoned  in
+signification,  is  a  '  mother-clan  '  only  in  name,  being  really  suIjordinate  to  the  aga-iisa.  In  the  ye-usa  relationship  is  reckoned  in
 the  male  line  only  to  the  ninth  generation,  as  far,  that  is,  as  the
 traditional  sygan,  '  whom  it  is  no  sin  to  allow  to  drown  '.  Since  in
-the  aga-usa  also,  only  nine  generations  are  reckoned  for  con-
-sanguinit}^,  the  sygan  again  marking  the  limit,  since,  in  both
+the  aga-usa  also,  only  nine  generations  are  reckoned  for  consanguinit}^,  the  sygan  again  marking  the  limit,  since,  in  both
 ye-usa  and  aga-usa,  married  females  are  not  reckoned,  and  since,  in
 both,  descent  is  reckoned  in  the  male  line,  it  follows,  at  least  in
 theory,  that  the  two  groups  are  identical.  In  practice  they  are
@@ -4053,10 +3277,7 @@ grandfather '.
 '  Op.  cit.,  Appendixes  i.  and  ii.     Also  pp.  337-9.
 
 
-60  SOCIOLOGY
-
-Aba,  father's  mother  and  her  sisters.  Khos-iiM, '  paternal  grand-
-mother '.
+Aba,  father's  mother  and  her  sisters.  Khos-iiM, '  paternal  grandmother '.
 
 Abaga  [obaf/a],  father's  elder  brother  and  father's  elder  lirst
 cousin  on  the  father's  side  ;  also  mother's  father.
@@ -4112,8 +3333,6 @@ nowadays  reach  to  the  fourth  generation  at  least.
 '  The  interrogation  points  are  Sieroszewski's.
 
 
-SOCIAL   ORGANIZATION  61
-
 Ychchaf,  '  descendant ',
 
 Ar,  '  man  ';  (irim,  '  my  man  ' — the  colloquial  name  for  a  husband.
@@ -4128,12 +3347,10 @@ Yci, '  mother  '  (literally '  womb ',  '  embryo  '),  used  also  in  refere
 to  mothers  of  animals.
 
 Tai/,  mother's  brother.  Ultilhan-Uui,  mother's  elder  brother
-(uhilchan,  '  big ').  Achchigaii-tay,  mother's  younger  brother  [achchi-
-gat/,  'small').
+(uhilchan,  '  big ').  Achchigaii-tay,  mother's  younger  brother  [achchigat/,  'small').
 
 Tai/sangcis,  wife  of  a  maternal  uncle.  AcJichir/a)j-ta/f  is  the
-term  for  sons  of  a  mother's  brother  older  than  the  speaker  ;  chos-
-tag,  those  younger  than  the  speaker.  The  wife  of  an  acJichigag-
+term  for  sons  of  a  mother's  brother  older  than  the  speaker  ;  chostag,  those  younger  than  the  speaker.  The  wife  of  an  acJichigag-
 tag  is  called  achcJiigag-tag-sangas.  The  wife  of  a  chostag  is  spoken
 of  as  chos-Tiinit.  The  daughter  of  a  maternal  uncle  older  than  the
 speaker  is  called  tag  agas ;  younger  than  the  speaker,  tag  halgs.
@@ -4172,8 +3389,6 @@ side,  younger  daughter  of  wife's  brother.
 
 \
 
-
-62  SOCIOLOGY
 
 Kidiii)  {?),  luisband  of  an  elder  sister.
 
@@ -4227,10 +3442,6 @@ groups,  [a)  men  and  women  of  the  paternal  line  l)orn  earlier
 [uhay,  agas),  and  (b)  men  and  women  of  the  paternal  line  born
 later  {ini,  haJgs).
 
-'  Op.  cit.,  p.  338.
-
-
-SOCIAL  ORGANIZATION  63
 
 VII.  Tiii;  MoNnuLic   Tribivs.
 
@@ -4252,8 +3463,7 @@ of  Selenginsk.
 Historically,  the  Mongols  are  divided  into  two  groups.  East  and
 West  Mongols.  The  latter  were  made  up  of  four  tribes,  named
 after  four  brothers,  Djungar,  Turgut  (Turgout),  Khoshot,  and
-Durbot  (Diirbiit).  They  called  themselves  the  Fourfold  Con-
-federacy, or  the  Four-Coloured  Confederacj',  from  the  four  colours
+Durbot  (Diirbiit).  They  called  themselves  the  Fourfold  Confederacy, or  the  Four-Coloured  Confederacj',  from  the  four  colours
 of  their  insignia,  as  distinguished  from  the  East  Mongols,  who
 formed  a  Fivefold  Confederacy  of  five  groups  corresponding  to  the
 five  colours  of  their  insignia.
@@ -4283,8 +3493,6 @@ the  poorest  and  most  disorganized  of  the  Mongolic  tribes.
 ®  Sketches  of  North-Weatern  Mongolia,  1881,  vol.  ii,  i)p.  34-8.
 
 
-64  SOCIOLOGY
-
 The  Kalniul:  Eucli  Kalniuk  family  occupies  a  tenl  Ly  itself;
 and  several  such  tents  occupied  by  related  families  form  a  Ichoton
 having  a  common  household  administration  with  an  elder  at  the
@@ -4292,8 +3500,7 @@ head.  Several  hhoions,  related  to  each  other,  and  having  a  common
 wandering-ground,  compose  an  aijmali.  A  group  of  related  aijmaJis
 form  an  ofol;  which  was  formerly  mainly  an  administrative  or
 strategic  group.  These  old  ofoJcs  are  now  represented  by  clans
-{(ingi),  and  the  word  ofoJc  is  reserved  for  the  common  wandering-
-ground  of  the  clan.  An  ulus  is  made  up  of  related  clans  forming
+{(ingi),  and  the  word  ofoJc  is  reserved  for  the  common  wanderingground  of  the  clan.  An  ulus  is  made  up  of  related  clans  forming
 a  'confederation',  sometimes  called  orda,  and  governed  by  an
 elder,  known  as  noi;on.  The  tiibe  {tangatchi)  comprises  several
 uIhscs,  and  is  governed  by  an  elder,  called  tayslia}
@@ -4304,8 +3511,7 @@ by  placing  the  chosen  man  upon  a  sheet  of  felt,  called  Icoshma.
 Candidates  must  be  in  the  line  of  direct  descent  from  the  clan  of
 Dj'nniis-Khan  ;  so  that  in  the  Mongolian  state,  based  on  the  clan
 system,  one  clan  has  precedence  over  all  others.  The  descendants
-of  this  privileged  clan  call  themselves  '  white-bones '  in  contra-
-distinction to  all  the  other  clans  who  are  known  as  '  black-bones  '.
+of  this  privileged  clan  call  themselves  '  white-bones '  in  contradistinction to  all  the  other  clans  who  are  known  as  '  black-bones  '.
 Noble  ladies  are  known  as  *  white -flesh  '  and  common  women  as
 'black-flesh'.^  At  the  present  day  the  office  of  tribal  elder  is  no
 longer  elective,  but  hereditary,  passing  from  father  to  son  or  to
@@ -4320,8 +3526,7 @@ over  people  who  are  of  the  same  tribe  or  clan  as  himself;
 he  may,  however,  be  as  despotic  as  he  will  towards  the  class  of
 slaves.'*
 
-21ic  Buryat.  The  Buryat  form  a  branch  of  the  Eastern  Mon-
-gols. They  speak  a  dialect  of  the  Mongolian  language,  differing
+21ic  Buryat.  The  Buryat  form  a  branch  of  the  Eastern  Mongols. They  speak  a  dialect  of  the  Mongolian  language,  differing
 both  from  the  spoken  tongue  of  the  true  Mongols  of  Khalkas  and
 from  the  language  of  Mongolic  literature.  It  is  also  distinct  from
 Kalmuk.     According  to   some   traditions,  they  are   descendants
@@ -4331,8 +3536,6 @@ Kalmuk.     According  to   some   traditions,  they  are   descendants
 ^  8.  Pallas.  Travels  through  Siberia  and  Tartary,  part  iii,  p.  204.
 ^  Kharuzin,  ibid.
 
-
-SOCIAL   ORGANIZATION  65
 
 of  the  ancient  Oyrat.^  The  north-western  Buryat  trace  their
 descent  from  Bukha-Noyna,  a  mythical  hero,  while  those  of  the
@@ -4360,8 +3563,7 @@ whose  duty  it  is  to  look  after  the  fire  and  food  ;  and  two  guides,
 gazarisli.  There  are  also  other  assistants  of  lesser  importance
 called  ya'klnihj  and  malgoP-
 
-Another  social  event  of  great  importance  as  a  means  for  pre-
-serving the  unity  of  the  clan  is  the  tailgan.  In  the  description
+Another  social  event  of  great  importance  as  a  means  for  preserving the  unity  of  the  clan  is  the  tailgan.  In  the  description
 of  this  socio-religious  festival  we  shall  follow  Klementz,''
 
 The  tailgan  is  a  public  sacrifice  (as  distinguished  from  a  private
@@ -4384,13 +3586,10 @@ are  commonly  called  Kalmuk '.     (Pallas,  op.  cit.,  p.  203.)
 ^  Klementz,  Article  '  Buriat ',  E.  R.  E.
 
 
-66  SOCIOLOGY
-
 tailgan  to  the  western  Tengrris  in  spring  corresponds  to  the  Yakut
 spring  festival,  >/s_)/rtJch  ;  that  to  the  Waicr-Klmns  is  in  summer,
 and  the  one  to  the  mothor-earth,  at  the  end  of  the  latter  season.
-The  general  character  of  all  these  festivals  is  the  same,  the  only-
-special  features  being  connected  with  the  character  of  the  deities
+The  general  character  of  all  these  festivals  is  the  same,  the  onlyspecial  features  being  connected  with  the  character  of  the  deities
 invoked.  The  commonest  and  widest-spread  form  of  the  ritual
 is  that  used  at  the  sacrifices  in  honour  of  the  western  Khans}
 
@@ -4435,8 +3634,6 @@ festival  are  all  men  and  girls.
 3  Ibid.
 
 
-SOCIAL   ORGANIZATION  67
-
 straw.  Birch-twigs  are  stuck  in  the  nostrils,  and  to  the  foreheads
 are  fastened  pieces  of  the  bark  of  the  Jido.  Each  of  the  stuffed
 skins  is  hung  on  one  of  the  birches  prepared  before,  Avith  the
@@ -4454,10 +3651,8 @@ their  own  stories.  When  Bukha-Noin-Baobai  '■'  arrives,  the  shaman
 goes  down  on  all  fours,  bellows  like  a  bull,  butts  those  present  as
 if  with  horns,  and  tries  to  overturn  the  birch-trees  tied  with  the
 white  ropes,  while  several  men  hold  up  the  trees  against  his
-attack.  Unsuccessful  in  this,  the  Khan  dei>arts  with  fresh  bellow-
-ings.  The  shaman  next  invokes  another  ::ai/au,  Nagad-Zarin  ;
-and  then  this  rite,  together  with  the  whole  ceremony,  is  con-
-cluded by  petitions  and  entreaties  to  the  western  gods  for  various
+attack.  Unsuccessful  in  this,  the  Khan  dei>arts  with  fresh  bellowings.  The  shaman  next  invokes  another  ::ai/au,  Nagad-Zarin  ;
+and  then  this  rite,  together  with  the  whole  ceremony,  is  concluded by  petitions  and  entreaties  to  the  western  gods  for  various
 benefits.'*
 
 VIII.  The  Finnic  Tribes.
@@ -4491,8 +3686,6 @@ art.  quotedj.
 F    2
 
 
-68  SOCIOLOGY
-
 *  male '  antl  '  female '.  The  terms  nun'ia  and  agaii  mean  generally
 'a  man  older  than  myself,  whether  father,  elder  bi-other,  uncle,  or
 nephew.  The  word  r//«,  meaning  a  'man  younger  than  myself,
@@ -4511,16 +3704,14 @@ The  OsfifctJi.  Castren  says  that  the  Ostyak,  like  the  Samoyed,
 are  divided  into  clans,  of  which  each  is  in  fact  a  large  family  and
 an  independent  state .■^'  *  The  elder  of  the  clan  was  called  urt.  They
 are  sometimes  mentioned  in  literature  as  kniaz  ('  prince '),  a  Russian
-word  imported  by  the  Cossacks,  and  by  them  aj^plied  indiscrimi-
-nately to  all  sorts  of  native  authorities.  In  ancient  times  the  tcrt
+word  imported  by  the  Cossacks,  and  by  them  aj^plied  indiscriminately to  all  sorts  of  native  authorities.  In  ancient  times  the  tcrt
 was  very  powerful,  but  in  some  matters  he  gave  place  to  the  oldest
 man  of  the  clan  in  deference  to  the  latter's  greater  age  and
 experience,^
 
 At  the  time  of  the  Tartar  dominance  the  Ostyak  clans  were
 called  vdlosti.  Since  the  Russian  conquest  the  office  of  urt  has
-been  abolished,  and  it  has  become  difficult  to  trace  the  clan  geneal-
-ogies. The  northern  Ostyak  are  still  nomadic  and  pagan,  and  are
+been  abolished,  and  it  has  become  difficult  to  trace  the  clan  genealogies. The  northern  Ostyak  are  still  nomadic  and  pagan,  and  are
 occupied  Avith  reindeer-breeding.  The  southern  division,  living
 along  the  Irtysh,  are  more  or  less  sedentary  fishermen  and  tillers
 of  the  soil.^
@@ -4539,15 +3730,12 @@ Russia,  1896.
 
 ^  Castren,  Reiseerinnerungen  aiis  den  Jahren  1838-1844,  1853,  p.  286.
 
-*  Only  the  Obdorsk  Ostyak  have  preserved  their  patriarchal  insti-
-tutions intact.     (Castien,  op.  cit.,  p.  286.)
+*  Only  the  Obdorsk  Ostyak  have  preserved  their  patriarchal  institutions intact.     (Castien,  op.  cit.,  p.  286.)
 
 «  N.  ratkanoff,  The  Ancient  Life  of  the  Ostijal;  1891,  vol.  iv,  p.  75.
 
 ''  Op.  cit.,  vol.  iii,  p.  87.
 
-
-SOCIAL  ORGANIZATION  69
 
 like  an  alliance  of  clans.  The  chief  (prince)  was  the  real  rulei',
 but  on  certain  important  occasions  there  was  an  assembly,  in  which
@@ -4570,8 +3758,7 @@ owners  could  do  with  tliem  what  they  Avould.  They  were  often
 given  as  part  of  the  kalt/m  for  a  bride.  On  the  whole,  the
 treatment  accorded  them  was  kind.^
 
-When  the  Ostyak  were  at  war  with  the  Saraoyed,  and  after-
-wards with  the  Tartars  and  Russians,  they  formed  alliances  among
+When  the  Ostyak  were  at  war  with  the  Saraoyed,  and  afterwards with  the  Tartars  and  Russians,  they  formed  alliances  among
 their  clans.'*  During  these  wars  they  had,  like  the  Vogul  and
 Samoyed,  the  custom  of  scalping  a  slain  enemy.  Some  of  the
 songs  tell  also  of  the  heroes  eating  the  hearts  of  the  foes  they  had
@@ -4583,7 +3770,6 @@ killed.^
 
 
 CHAPTER  IV
-MARRIAGE
 
 PALAEO-SIBERIANS
 I.     The  Chukchee.
@@ -4604,8 +3790,7 @@ which  shows  itself  in  private  life  and  in  their  mythology,  Bogoras^
 observes:  'Still,  many  of  the  Chukchee  girls  are  chaste  until
 their  marriage ;  and  in  comparison  with  the  other  tribes  of  this
 country,  the  Chukchee  are  considerably  more  decent.  Among  the
-Russians  and  Russianized  natives  throughout  the  whole  north-
-east from  the  Lena  River  to  Kamchatka  hardly  any  girl  remains
+Russians  and  Russianized  natives  throughout  the  whole  northeast from  the  Lena  River  to  Kamchatka  hardly  any  girl  remains
 a  virgin  until  marriage.  Most  of  them  begin  sexual  life  with  the
 first  traces  of  maturity,  being  but  fifteen  or  sixteen,  and  sometimes
 only  twelve  or  thirteen  years  old,  and  c^uite  immature.  All  kinds
@@ -4626,8 +3811,7 @@ MAEKIAGE  71
 
 Chukcliee  have  an  idea  that  early  marriages  are  bad  for  the  health
 of  the  woman,  and  intercourse  with  one  'not  having  lull  breasts
-and  the  menses'  is  considered  shameful.^  According  to  Dr.  Meli-
-koff,  the  violation  of  a  girl  not  perfectly  mature  is  a  serious  crime,
+and  the  menses'  is  considered  shameful.^  According  to  Dr.  Melikoff,  the  violation  of  a  girl  not  perfectly  mature  is  a  serious  crime,
 and  therefore  is  Severely  punished  by  the  Council  of  the  Elders.^
 
 Marriage  between  relatives,  especially  between  cousins,  is  the
@@ -4645,10 +3829,8 @@ Luren  lies  on  the  Pacific  shore,  north  from  Indian  Point)  says  :
 *  The  Maritime  people  living  in  that  country  were  exterminated
 by  famine.  Only  two  were  left :  a  full-grown  girl  and  her  infant
 brother.  She  fed  him  with  pounded  meat.  When  he  grew  up
-she  asked  him  to  marry  her.  "Otherwise  we  shall  remain  child-
-less," said  the  sister.  '*"VVe  shall  have  no  descendants,  and  the
-earth  will  remain  without  people.  It  cannot  be  peopled  other-
-wise. And  who  sees  us?  Who  will  say  'shame'?  Who  wdll
+she  asked  him  to  marry  her.  "Otherwise  we  shall  remain  childless," said  the  sister.  '*"VVe  shall  have  no  descendants,  and  the
+earth  will  remain  without  people.  It  cannot  be  peopled  otherwise. And  who  sees  us?  Who  will  say  'shame'?  Who  wdll
 know  about  it  in  the  world  ?  We  are  all  alone  in  the  world."
 The  brother  said,  "  I  do  not  know,  I  feel  bad  ;  it  is  forbidden."
 Then  the  sister  began  to  think.  ''  How  can  I  do  it  ?  Our  line  of
@@ -4663,7 +3845,6 @@ voice,  and  he  takes  her  for  another  woman.  After  some  hesitation
 he  takes  her  for  his  wife.  Then  begins  a  life  in  two  houses  :  the
 sister  is  here  and  there  and  plays  with  success  her  double  role.
 
-'  Op.  cit.,  p.  573.
 
 "^  Dr.  Melikotf's  report  is  in  manuscript.  Bogoras,  however,  expresses
 some  doubt  with  regard  to  the  trustworthiness  of  Melikoff's  interpreter,
@@ -4672,8 +3853,6 @@ punishment  as  a  public  institution,  says  Bogoras  (p.  574).
 
 *  Bogoras,  op.  cit.,  p.  576.
 
-
-72  SOCIOLOGY
 
 Finally,  when  she  is  pregnant,  the  brother  ceases  to  think  of  his
 sister,  and  they  live  at  the  new  place.  One  child  is  born,  then
@@ -4701,8 +3880,7 @@ a  man,  Qimaqiii,  gave  his  five-year-old  son  to  be  married  to  a  girl
 of  twenty,  and  in  exchange  for  her  he  gave  his  niece  of  twelve
 years  old  to  be  married  to  a  man  who  was  over  twenty  years  of
 age.  The  wife  nursed  the  boy,  waiting  until  he  should  grow  up.
-In  some  cases  of  this  kind  the  wife  may  have  a  male  *  marriage-
-companion',  and,  having  a  child  of  her  own,  nurse  it  and  her
+In  some  cases  of  this  kind  the  wife  may  have  a  male  *  marriagecompanion',  and,  having  a  child  of  her  own,  nurse  it  and  her
 contracted  husband  together.^  This  is  done,  as  the  Chukchee  say,
 *to  ensure  the  love  of  the  young  husband  in  the  future.''*
 
@@ -4749,8 +3927,7 @@ several  days  or  even  weeks,  during  which  the  representative  must
 not  only  work,  but  try  to  please  the  family.  When  the  father
 gives  his  consent,  this  is  sometimes  reckoned  as  the  end  of  the
 courtship,  and  the  suitor  may  take  the  girl ;  but  in  most  cases,
-even  nowadays,  this  only  gives  him  the  right  to  court  her  person-
-ally. Frequently  he  acts  himself  from  the  beginning  without  the
+even  nowadays,  this  only  gives  him  the  right  to  court  her  personally. Frequently  he  acts  himself  from  the  beginning  without  the
 help  of  an  intermediary  ;  the  gathering  of  fuel  is,  however,  an
 essential  part  of  the  procedure.  Only  then  does  the  period  of
 trial  begin,  and  lasts  from  one  to  three  years.  Some  of  the  old
@@ -4771,8 +3948,6 @@ catch  as  many  reindeer  as  he  can  for  himself  on  that  day.     As
 
 '  Op.  cit,  pp.  580-3.
 
-
-74  SOCIOLOGY
 
 a  rule  it  is  considered  improper  to  pay  for  a  bride  'as  if  she  were
 a  reindeer',  and  the  Cliukchee  always  criticize  the  Tungiis  and
@@ -4796,8 +3971,7 @@ he  receives  a  voice  in  the  family  affairs.'  ^
 Some  tales  describe  the  ravishing  of  Chukchee  girls  performed
 by  men  of  other  tribes,  by  spirits,  by  an  eagle,  a  whale,  a  raven,
 &c.  Sometimes  the  ravishing  was  practised  within  the  tribe,  but
-this  seldom  occurs  in  modern  times.  '  In  olden  times  ...  a  com-
-pany of  5'oung  men  would  seize  a  young  girl  in  the  open,  bind  her
+this  seldom  occurs  in  modern  times.  '  In  olden  times  ...  a  company of  5'oung  men  would  seize  a  young  girl  in  the  open,  bind  her
 hands  and  feet,  and  carry  her  to  the  house  of  one  who  wanted  to
 have  her  for  a  wife.  Not  only  the  men  of  alien  families,  but  even
 the  relatives  and  the  cousins,  acted  so  after  being  refused  by  the
@@ -4823,14 +3997,11 @@ and  Chukchee,  and  supposes  that  here  economic  reasons  play  a
 ^  Op.  cit.,  p.  590.  '  Op.  cit.,  p.  592.
 
 
-MARRIAGE  75
-
 certain  part.^  The  Russian  women  adapt  themselves  very  easily
 to  the  new  hlb  and  like  it,  tliough  it  is  dillicult  for  them  in  the
 beginning.  '  One  knows  neither  the  language  nor  the  way  of  life  '
 — said  one  of  them  to  Bogoras.  '  One  feels  a  yearning  to  go  back
-to  the  river,  and  weeps  all  the  time.  Then  comes  an  old  "  knowing-
-woman  "  and  performs  an  incantation,  which  takes  away  the  sorrow
+to  the  river,  and  weeps  all  the  time.  Then  comes  an  old  "  knowingwoman  "  and  performs  an  incantation,  which  takes  away  the  sorrow
 and  makes  one  more  adapted  to  the  new  life.'^  Keferring  to  this,
 the  Russian  women  on  the  liver  said  that  the  Chukchee  women,
 with  their  incantations,  take  out  of  the  woman  her  Russian  soul
@@ -4839,15 +4010,13 @@ ever  afterwards  love  life  in  the  open.^
 
 Generally,  mixed  Russo-Chukchee  marriages  are  without
 children.  'I  should  also  mention',  says  Bogoras,  'that  many
-Russianized  families  of  the  Lower  Kolyma  form  actual  combina-
-tions of  group-marriages  with  Chukchee  families ;  or,  properly
+Russianized  families  of  the  Lower  Kolyma  form  actual  combinations of  group-marriages  with  Chukchee  families ;  or,  properly
 speaking,  the  Chukchee  consider  it  as  a  group-marriage,  and  the
 Russians  rather  as  a  kind  of  prostitution.  The  Chukchee  set
 great  value  on  these  relations,  because  they  consider  the  Russians,
 notwithstanding  all  their  hunger  and  need,  as  belonging  to  a
 higher  civilization  ;  and  the  Russians  strive  to  get  out  of  these
-relatives  some  reindeer-meat  free  of  cost,  also  some  cheap  reindeer-
-skins  and  costly  peltries  of  the  tundra.  So  in  several  Eussian
+relatives  some  reindeer-meat  free  of  cost,  also  some  cheap  reindeerskins  and  costly  peltries  of  the  tundra.  So  in  several  Eussian
 families,  even  of  clerks,  merchants,  and  clergymen,  there  are
 children  reputed  to  be  of  Chukchee  blood.  Thus  the  two  eldest
 children  of  the  church-beadle  of  Nishne-Kolymsk,  a  son  and  a
@@ -4873,14 +4042,11 @@ their  relatives,  and  so  they  become  poor.     (Bogoras,  p.  594.)
 '  Op.  cit.,  p.  593.  3  iijid^  4  Op.  cit.,  p.  594.
 
 
-76  SOCIOLOGY
-
 takes  the  wife  to  himself,  or  in  the  house  of  the  bride,  if  the
 liridegroom  becomes  an  adopted  son-in-law.  The  groom  goes  to
 the  house  of  her  father  to  fetch  the  bride  ;  she  drives  her  own
 reindeer,  and  is  sometimes  surrounded  by  her  relatives.  Then
-behind  the  tent,  at  a  spot  set  apart  for  sacrifices,  is  jjlaced  a  family-
-sledge  on  which  the  tent-poles  are  usually  carried,  and  on  both
+behind  the  tent,  at  a  spot  set  apart  for  sacrifices,  is  jjlaced  a  familysledge  on  which  the  tent-poles  are  usually  carried,  and  on  both
 sides  of  it  at  some  distance  stand  the  travelling-sledges  of  the
 bride  and  groom,  on  which  fire-drills  and  charm-strings  are  placed.
 A  sacrificial  reindeer  is  killed,  and  other  '  sacrifices,  bloody  and
@@ -4888,8 +4054,7 @@ bloodless,  are  made  to  the  dawn  and  the  zenith.  Then  the  couple
 is  anointed  with  the  blood  of  the  reindeer,  one  or  two  members
 of  the  groom's  family  generally  also  undergoing  the  ceremony  in
 order  that  the  bride  may  not  feel  lonely ;  then  the  groom  and  the
-bride  paint  on  their  faces  the  family  mark  of  the  groom '.'  After-
-wards the  woman  anoints  the  sledges  with  blood,  feeds  the  holy
+bride  paint  on  their  faces  the  family  mark  of  the  groom '.'  Afterwards the  woman  anoints  the  sledges  with  blood,  feeds  the  holy
 objects  of  the  household  with  reindeer-marrow,  and  sprinkles
 some  sacrificial  blood  on  the  hearth,  addressing  it  thus :  '  Be  well !
 [Mimeleu  gatvarlcni !).'  -
@@ -4919,10 +4084,6 @@ marriage  ceremony,  and  in  most  cases  the  marriage  is  broken  by
 
 1  Op.  cit.,  p.  595.  2  ibiti
 
-"  Op.  cit.,  p.  596.  *  Op.  cit.,  p.  599.
-
-
-MARRIAGE  77
 
 the  bride  s  famil)-,  which  rechiims  lier.  Th^  children  who  still
 require  nursing  go  with  the  mother,  the  others  go  with  the  father.
@@ -4975,8 +4136,6 @@ cannot  replace  a  boy.     (Op.  cit.,  p.  601.)
 *  Ibid.
 
 
-78  SOCIOLOGY
-
 the  Ijeavs  let  her  go,  with  presents  and  incantations.  She  returns
 home,  and  by  means  of  their  incantations  succeeds  in  regaining
 the  favour  of  her  husband,  and  persuades  him  to  drive  her  rival
@@ -5023,15 +4182,12 @@ entered  upon  without  any  rite.     It  is  possible  to  break  the  tie
 1  Op.  cit.,  p.  601.  2  Op.  cit.,  p.  602.  ^  YqI  i,  p.  164.
 
 
-MARRIAGE  79
-
 which  binds  the  union,  but  in  practice  this  is  not  done,  unless
 there  is  a  case  of  syphilis  in  the  grouji.  People  of  other  tribes,
 e.  g.  the  Tungus,  are  also  received  into  such  unions,  and  also
 Russians  ;  of  course,  in  this  case  the  Russians  see  in  the  custom
 only  an  opportunity  to  profit  by  the  loose  conduct  of  women  who
-desire  payment  in  the  form  of  slaughtered  reindeer.  Such  rela-
-tions with  the  Eskimo  have  existed  for  a  very  long  time,  and
+desire  payment  in  the  form  of  slaughtered  reindeer.  Such  relations with  the  Eskimo  have  existed  for  a  very  long  time,  and
 are  undoubtedly  due  to  trade  intercourse  ;  and  so  the  American
 Eskimo  has  a  temporary  wife  when  visiting  the  Asiatic  coast,
 and  the  Chukchee  when  visiting  the  American  shores.^
@@ -5073,16 +4229,13 @@ woman  for  woman,  and  finally  marriage  with  a  strange  family
 Aleuts  (Veniaminoff;  Dall).
 
 
-80  SOCIOLOGY
-
 after  a  term  of  service.     'Group-marriage'^  and  the  levirate  are
 fully  developed. -
 
 The  only  difference  between  the  marriage  customs  of  the  Maritime
 and  Keindeer  Chukchee  is  that  the  former  are  seldom  polygynous,
 as  they  cannot  support  more  than  one  family  ;  in  their  tales,
-however,  wo  frequently  find  examples  of  polygyny.^'  Tlie  marriage-
-rite  among  the  Maritime  tribe  consists  of  sacrificing  to  the  hearth
+however,  wo  frequently  find  examples  of  polygyny.^'  Tlie  marriagerite  among  the  Maritime  tribe  consists  of  sacrificing  to  the  hearth
 and,  generally,  anointing  with  red  ochre  instead  of  blood.  When
 Bogoras  asked  what  marks  the  married  couple  painted  on  their
 faces,  he  received  the  invariable  reply,  '  It  makes  no  difference.'  *
@@ -5130,8 +4283,6 @@ among  the  Aborigines  of  Russia,  1902.  p.  45.
 «  Jochelson,  the  Koryak,  J.  N.  P.  E.,  vol.  vi,  1908,  pp.  134-5.
 
 
-MARRIAGE  81
-
 hIso  bphave  distantly  to  the  man  who  is  serving  for  her,  and
 frequently  she  is  sent  away  from  home  for  that  period.^  Dittmar -
 says  that  a  Koryak  girl  who  has  sexual  intercourse  before
@@ -5148,15 +4299,13 @@ assertions  of  the  Koryak  themselves  and  from  my  impressions
 obtained  in  Koryak  homes,  but  also  by  the  testimony  of  such
 experts  in  love  afl:airs  as  the  Gishiga  Cossacks.'^
 
-Jochelson  gives  the  following  table  of  Marriage  ProJiibitions  (rela-
-tives between  whom  marriage  is  forbidden  are  quite  numerous  and
+Jochelson  gives  the  following  table  of  Marriage  ProJiibitions  (relatives between  whom  marriage  is  forbidden  are  quite  numerous  and
 may  be  divided  into  relatives  by  blood  and  relatives  by  affinity):
 
 Blood-relatives.  A  man  is  forbidden  to  marry  (1)  his  mother,
 (2)  daughter,  (3)  own  sister,  (4)  cousin,  (5)  fathers  sister,  (6)
 mother's  sister,  (7)  brother's  daughter,  and  (8)  own  sister's
-daughter.  Between  all  other  blood-relations  marriages  are  per-
-mitted. In  answer  to  Jochelson's  questions  concerning  second-
+daughter.  Between  all  other  blood-relations  marriages  are  permitted. In  answer  to  Jochelson's  questions  concerning  second-
 cousins,  some  Koryak  replied  that  they  did  not  consider  them
 relatives.  'From  this  the  conclusion  may  be  drawn  that  beyond
 that  degree  no  blood-relationship  is  recognized,  but,  on  the  other
@@ -5164,8 +4313,7 @@ hand,  in  direct  ascending  and  descending  lines,  even  very  distant
 degrees,  such  as  great-grandfathers,  great-grandmothers,  and
 great-grandchildren,  are  recognized  as  relatives.'
 
-Iielafives  bij  Affinity.  A  man  may  not  marry  the  following  rela-
-tives by  affinity  :  (1)  stepmother ;  (2)  sister  of  living  wife
+Iielafives  bij  Affinity.  A  man  may  not  marry  the  following  relatives by  affinity  :  (1)  stepmother ;  (2)  sister  of  living  wife
 (i.  e.  simultaneously  two  sisters) ;  (3)  cousin  of  living  wife  (i.  e.
 simultaneously  two  cousins ;  (4)  younger  brother's  widow  ;  (5)
 deceased  wife's  elder  sister  ;  (6)  nephew's  widow  ;  (7)  sister  of
@@ -5175,8 +4323,7 @@ brother's  wife  (i.  e.  two  brothers  cannot  marry  two  sisters) ;
 1  Ibid.  2  2)/e  Kon'iken,  p.  32.
 
 '  Krasheninnikoff  (Description  of  the  Country  of  Kamchatka,  ed.  1786,
-vol.  ii,  p.  163)  mentions  that  among  the  Reindeer  Koryak,  the  bride-
-groom sleeps  with  his  bride  during  the  period  of  service,  but  as  this  is
+vol.  ii,  p.  163)  mentions  that  among  the  Reindeer  Koryak,  the  bridegroom sleeps  with  his  bride  during  the  period  of  service,  but  as  this  is
 not  confirmed  by  any  other  authority  it  is  probable  that  he  has  confused
 them  with  the  Chukchee.  Even  Krasheninnikoff  states  that  at  the
 ceremony  of  seizure  the  bride's  body  is  well  wrapped  up,     (Ibid.)
@@ -5185,8 +4332,6 @@ ceremony  of  seizure  the  bride's  body  is  well  wrapped  up,     (Ibid.)
 
 1679  Q
 
-
-82  SOCIOLOGY
 
 cousins) ;  (9)  simultaneously  an  aunt  and  Lev  niece  ;  (10)  two
 brothers  cannot  marry,  one  an  aunt  and  the  other  her  niece  ;
@@ -5207,15 +4352,13 @@ ord,  and  do  not  give  their  daughters  for  wives  out  of  this  ord,  but
 marry  among  themselves.'''  Though  the  term  ord  is  not  defined,
 one  may  suppose  that  it  corresponds  to  a  clan  or  local  group.
 The  statement  of  Krasheninnikoff  is  similar :  '  They  take  their
-wives  mostly  from  their  own  stock,  first  cousins,  aunts,  step-
-mothers ;  the  only  people  whom  they  do  not  marry  are  sisters,
+wives  mostly  from  their  own  stock,  first  cousins,  aunts,  stepmothers ;  the  only  people  whom  they  do  not  marry  are  sisters,
 mothers,  step-daughters.'  "*
 
 Jochelson ''  himself  asserts  that  in  Koryak  mythology  only
 marriage  with  a  sister  or  a  mother  is  held  to  be  a  crime,  but  there
 are  many  instances  of  marriages  between  cousins.  Thus  we  may
-suppose  that  most  of  the  marriage  prohibitions  are  of  later  intro-
-duction.
+suppose  that  most  of  the  marriage  prohibitions  are  of  later  introduction.
 
 All '''  the  authorities  agree  on  this  fact,  that  the  bridegroom  has
 to  serve  his  future  father-in-law  for  a  certain  period  and  must
@@ -5240,15 +4383,12 @@ p.  104.
 ^  Bogorodski,  1853,  p.  109.  '^  Dittmar,  1856,  p.  25.
 
 
-MARRIAGE  83
-
 service.  Maksimoff  ^  thinks  tli.at  the  custom  of  serving  for  the
 bridle  is  the  relic  of  a  former  custom  by  which  a  man  went  to  live
 2>ermanently  in  his  father-in-law's  house.  As  proof  of  his  theory
 he  quotes  the  formula  used  in  arranging  a  marriage,  as  given  by
 Yelistratoff.-  The  father  of  the  suitor  addresses  the  father  of  the
-bride  :  '  I  come  to  you,  my  friend,  to  assist  my  son  in  his  court-
-ship. Here  you  have  my  son  I  I  give  him  to  you — if  you  wish,
+bride  :  '  I  come  to  you,  my  friend,  to  assist  my  son  in  his  courtship. Here  you  have  my  son  I  I  give  him  to  you — if  you  wish,
 keep  him  as  your  son  or  as  your  workman.'  Jochelson''  considers
 that  this  custom  of  service  provides  a  period  of  probation  and  test,
 especially  as  the  son-in-law  is  not  treated  so  well  as  an  ordinary
@@ -5256,8 +4396,7 @@ servant  would  be.  '  The  principal  thought  is  not  his  usefulness,
 but  the  hard  and  humiliating  trials  to  which  he  is  subjected.'
 This  opinion  is  confirmed  by  Koiyak  tales.
 
-In  former  times,  not  only  the  bridegroom  but  also  his  '  match-
-maker '  was  obliged  to  serve  in  the  house  of  the  bride.
+In  former  times,  not  only  the  bridegroom  but  also  his  '  matchmaker '  was  obliged  to  serve  in  the  house  of  the  bride.
 
 Before  the  man  enters  the  service  of  the  father-in-law  he  has
 chosen,  the  matchmaker,  called  by  the  Koryak  "  the  asking  one ',
@@ -5277,8 +4416,7 @@ take  the  girl  to  wife.'*
 The  marriage  ceremony  itself,  which  gives  the  husband  full
 right  to  his  wife,  is  the  act  of  'seizing'  his  w'ife,  described  by  all
 our  authorities  with  only  slight  variations.  Most  of  them  agree
-with  Jochelson  that  the  bride  must  not  surrender  to  the  bride-
-gi'oom  without  a  struggle,  nor  will  the  bridegroom  take  her  with-
+with  Jochelson  that  the  bride  must  not  surrender  to  the  bridegi'oom  without  a  struggle,  nor  will  the  bridegroom  take  her  with-
 out encountering  the  usual  difficulties."'     The  bride  is  wrapped  up
 
 ^  Maksimoff,  op.  cit.,  p.  47.
@@ -5295,8 +4433,6 @@ Lande  Kamtschatka,  p.  347).
 G  2
 
 
-84  SOCIOLOGY
-
 ill  various  garments  which  cannot  be  removod  without  cutting.
 The  bridegroom  must  attack  lier,  cut  and  tear  off  her  clothes,  and
 touch  her  sexual  organs  with  his  hand.  The  girl  herself  resists,
@@ -5305,8 +4441,7 @@ try  to  beat  the  bridegroom  back  ;  and  if  tlie  girl  does  not  care  f
 the  man  she  tries  to  hide  among  the  neighbours,  while  her  parents
 endeavour  to  keep  her  at  home.'
 
-Kennan  relates  that  on  the  marriage  day  the  friends  and  rela-
-tives are  invited  ;  and,  to  tlie  accompaniment  of  the  drum  and
+Kennan  relates  that  on  the  marriage  day  the  friends  and  relatives are  invited  ;  and,  to  tlie  accompaniment  of  the  drum  and
 songs,  the  bride  runs  round  the  yurta.  The  groom  pursues  her,
 and  at  each  corner  is  attacked  by  the  women,  who  try  to  stop  him
 with  their  feet,  and  beat  him  unmercifully  with  branches  of  the
@@ -5314,8 +4449,7 @@ alder-tree.  Finally  the  bride  slackens  her  speed,  or  she  would
 not  be  caught  at  all.  and  then  the  man  tears  off  her  clothes  and
 touches  her  bod}'.^  Jochelson,  on  the  other  hand,  says  that
 marriage  is  accompanied  neither  by  feasts  nor  by  shamanistic
-ceremonies.  Sometimes  the  couple  leave  at  once  for  the  bride-
-groom's house,  or  they  remain  for  some  time  still  with  her  father.
+ceremonies.  Sometimes  the  couple  leave  at  once  for  the  bridegroom's house,  or  they  remain  for  some  time  still  with  her  father.
 In  certain  places  the  bridegroom,  after  successful  '  bride-seizing ',
 leaves  at  once  for  his  home,  and  sends  his  parents  or  relatives  to
 fetch  the  bride.  'When  the  bride  approaches  the  house  of  her
@@ -5345,8 +4479,6 @@ p.  743).
 ^  Kennan,  op.  cit.,  pp.  152-5.  ^  Jochelson,  'Hie  Koryak,  p.  743.
 
 
-MARRIAGE  85
-
 him  in  the  cult  of  his  ancestors.  Nevertheless,  to  a  certain  extent,
 she  is  always  under  the  protection  of  lier  blood-relatives.'
 
@@ -5372,8 +4504,7 @@ wife.
 According  to  Jochelson,  the  Koryak  levirate  has  for  its  object
 the  maintenance  of  the  union  between  two  families.  Thus,  the
 brother  of  a  married  woman  will  very  often  court  her  husband's
-sister,  and  such  marriages  are  preferred.  Most  frequently  mar-
-riages are  contracted  between  the  inhabitants  of  neighbouring
+sister,  and  such  marriages  are  preferred.  Most  frequently  marriages are  contracted  between  the  inhabitants  of  neighbouring
 villages.
 
 If  the  Koryak  levirate  aims  at  strengthening  family  alliances,
@@ -5384,8 +4515,7 @@ reply  :  That  the  elder  brother  and  elder  sister  occupy  the  places
 of  the  mother  or  father  in  the  family  should  either  of  the  parents
 die,  and  so  marriage  of  the  widower  with  the  elder  sister  of  his
 former  wife,  and  of  the  wudow  with  the  elder  brother  of  her
-former  husband,  are  held  to  be  as  incestuous  as  if  these  relations-
-in-law  were  actually  the  parents.
+former  husband,  are  held  to  be  as  incestuous  as  if  these  relationsin-law  were  actually  the  parents.
 
 In  Kamenskoye  a  younger  brother  mat)  marry  the  widow  of  his
 eldest  brother,  and  a  younger  sister  may  marry  the  widower  of  her
@@ -5412,8 +4542,7 @@ exchanging  wives  ever  existed  among  them.-  The  statements  of
 Krasheninnikoff  and  Steller  bearing  on  this  point  are  slightly
 different.  Steller  says  that  among  the  inhabitants  of  Kamchatka
 men  sometimes  decided  to  exchange  wives,  but  he  does  not  say
-what  people  he  refers  to.-'  Krasheninnikoff  relates  that  the  Rein-
-deer Koryak  are  very  jealous,  so  that  a  man  will  kill  his  wife  merely
+what  people  he  refers  to.-'  Krasheninnikoff  relates  that  the  Reindeer Koryak  are  very  jealous,  so  that  a  man  will  kill  his  wife  merely
 through  suspicion,  and  if  he  find  her  with  a  lover,  will  rip  open  with
 a  knife  the  abdomens  of  both  offenders.  Owing  to  this,  married
 M'omen  make  themselves  as  repulsive-looking  as  possible,  having
@@ -5450,12 +4579,9 @@ chapter  on  '  Shaman  and  Sex  '.
 ''  Op.  cit.,  p.  222.  ^  Jochelson,  op.  cit.,  p.  755.
 
 
-MARRIAGE  87
-
 shiuiians ',  Bogoras  fouml  among  3,000  Kolyma  Chukchee  only  five
 cases  of  men  changing  into  women,  and  only  two  of  them  were
-'married'.  Krasheninuikoff  mentions  another  'marriage  rela-
-tion '  which  can  be  called  abnormal  or  mystical.  The  Maritime
+'married'.  Krasheninuikoff  mentions  another  'marriage  relation '  which  can  be  called  abnormal  or  mystical.  The  Maritime
 Koryak  have  at  times  ordinary  stones  instead  of  wives.  A  man
 will  put  clothes  on  such  a  stone,  put  it  in  his  bed,  and  sometimes
 caress  it  as  if  it  were  living.  Two  such  stones  were  given  to
@@ -5501,11 +4627,8 @@ action  constitutes  the  essential  element  of  the  marriage  ceremony;  but
 a  similar  rite  is  found  amonor  certain  tribes  of  the  north-western  Amerinds.
 
 
-88  SOCIOLOGY
-
 ten  years  had  been  trying  to  obtain  his  wife,  and  his  head  and
-body  were  much  disfigured  by  his  struggles,  which  were  neverthe-
-less quite  in  vain.  Sometimes,  however,  the  bridegroom  obtains
+body  were  much  disfigured  by  his  struggles,  which  were  nevertheless quite  in  vain.  Sometimes,  however,  the  bridegroom  obtains
 an  immediate  victory,  and  then  he  must  leave  the  woman  as  soon
 as  possible  and  she  must  call  after  him  in  a  caressing  voice,  *Mi,
 Mi,  Mi,  Mi,  Mi ! '  The  same  night  he  comes  to  sleep  with  her,
@@ -5520,8 +4643,7 @@ rude  boats.  The  women,  including  the  bride,  sat  in  the  canoes,
 which  were  guided  by  the  men,  all  quite  naked.  The  women
 carried  with  them  a  quantity  of  prepared  food.  About  100  metres
 from  the  house,  they  landed  and  began  to  sing,  and  a  shamanistic
-ceremony  was  performed  over  the  head  of  a  fish,  which  was  after-
-wards given  to  the  eldest  woman  of  the  company.^
+ceremony  was  performed  over  the  head  of  a  fish,  which  was  afterwards given  to  the  eldest  woman  of  the  company.^
 
 '  Then  over  the  bride's  dress  they  placed  more  garments,  so  that
 she  looked  like  a  stuffed  figure,  and  the  bridal  pair  with  their
@@ -5556,12 +4678,9 @@ affected  by  Russian  influence.
 2  Op.  cit.,  pp.  167-9.  *  Op.  cit.,  p.  168.
 
 
-MARRIAGE  89
-
 \Yhich  were  divided  among  the  relatives  ;  the  latter  also  presented
 gifts.  The  next  day  the  father-in-law  entertained  his  guests,  and
-on  the  third  day  all  the  company  dispersed  except  the  newly-
-married  pair,  who  had  still  to  work  for  some  time  for  the  father-
+on  the  third  day  all  the  company  dispersed  except  the  newlymarried  pair,  who  had  still  to  work  for  some  time  for  the  father-
 in-law.'  ^
 
 All  these  ceremonies  are  held  only  in  the  case  of  a  first
@@ -5574,11 +4693,9 @@ a  second  time,  but  since  the  Cossacks  were  established  there,  they
 perform  the  office  of  a  stranger.-
 
 Marriage  was  forbidden  only  between  a  father  and  his  daughter
-and  a  mother  and  her  son.  A  son-in-law  could  marry  his  mother-
-in-law,  and  a  father-in-law  could  marry  his  daughter-in-law.
+and  a  mother  and  her  son.  A  son-in-law  could  marry  his  motherin-law,  and  a  father-in-law  could  marry  his  daughter-in-law.
 Marriage  was  also  allowed  between  first  cousins.  Divorce  was
-easily  obtained,  and  it  consisted  in  a  simple  separation.  Re-
-marriage is  allowed,  in  the  case  of  the  woman,  without  the
+easily  obtained,  and  it  consisted  in  a  simple  separation.  Remarriage is  allowed,  in  the  case  of  the  woman,  without  the
 ceremony  of  capture  and  without  the  intercourse  above  mentioned
 (termed  by  Krasheninnikoff  a  purification  ceremony).  A  man
 could  have  two,  three,  or  more  wives  according  to  his  wealth.
@@ -5590,8 +4707,7 @@ some  of  them  told  me  that  the  son-in-law  may  even  reproach  his
 parents-in-law  if  his  wife  is  a  maid.  This,  however,  I  was  unable
 to  confirm.  The  women  also  are  not  jealous,  as  is  seen  not  only
 from  the  fact  that  several  wives  of  one  husband  live  together  quite
-peaceably,  but  that  they  acquiesce  in  the  presence  of  the  koek-
-chiicli  whom  some  Kamchadal  keep  instead  of  concubines.'"^
+peaceably,  but  that  they  acquiesce  in  the  presence  of  the  koekchiicli  whom  some  Kamchadal  keep  instead  of  concubines.'"^
 Steller^  confirms  Krasheninnikoff  in  his  statement  about  virginity
 not  being  regarded  as  essential  in  a  bride.
 
@@ -5639,8 +4755,7 @@ food.^
 A  boy  becomes  a  man  when  he  takes  part  for  the  first  time  in  a
 hunting  expedition  for  big  game,  such  as  the  bear  or  reindeer.
 Then  he  is  called  '  four-legged-animal-killer-man'  (jjclolcun-no
-ineyebon  Icudec'uje  coromox).  The  girl  becomes  a  woman  at  men-
-struation, which  is  called  by  the  Yukaghir  'red  paint'  {Jceileni).
+ineyebon  Icudec'uje  coromox).  The  girl  becomes  a  woman  at  menstruation, which  is  called  by  the  Yukaghir  'red  paint'  {Jceileni).
 After  this  she  has  a  separate  sleeping-tent,  and  is  free  to  receive
 visitors  from  the  same  local  group  at  night.  The  visitor  is,
 however,  usually  the  same  man,  and  if  he  finds  a  rival  in  the  tent
@@ -5662,21 +4777,17 @@ pp.  63  5.
 *  Op.  cit.,  pp.  77-8.  "  Op.  cit.,  p.  78.            ^  Op.  cit.,  p.  66.
 
 
-MARRIAGE  91
-
 is  offered  to  a  traveller.  An  old  Yukaghir  woman  explained  to
 Jochelson  that  this  Wi\s  due  to  the  poor  conditions  of  life  among
 the  i>eopIe,  and  to  the  fact  that  the  bed  of  a  married  couple  was
 taboo,  and  hospitality  demanded  that  a  good  bed  be  offered  to  the
 visitor.  It  did  not  follow  tluit  the  girl  yielded  herself  to  him,  for
 often  she  did  not  remove  her  apron  if  she  disliked  the  man.
-Jochelson  thinks  that  this  custom  cannot  be  reckoned  as  hospi-
-tality prostitution  in  origin,  but  has  acquired  this  character  under
+Jochelson  thinks  that  this  custom  cannot  be  reckoned  as  hospitality prostitution  in  origin,  but  has  acquired  this  character  under
 Russian  influence.
 
 *  Men  of  authority  or  of  wealth  can  choose  any  woman,  married
-or  unmarried.  Officials,  Cossacks,  merchants,  and  even  mission-
-aries introduce  these  habits  into  the  villages  and  camps  of  non-
+or  unmarried.  Officials,  Cossacks,  merchants,  and  even  missionaries introduce  these  habits  into  the  villages  and  camps  of  non-
 Russian  tribes  ;  and  thus  the  custom  may  have  sprung  up  among
 the  Yukaghir  of  offering  girls  to  travelling  officials,  merchants,
 and  other  Russian  guests.  .  .  .  One  must  conclude,  then,  that
@@ -5688,8 +4799,7 @@ remembered  that  a  Yukaghir  does  not  look  for  virginity  in  his
 bride,  and  so  long  as  a  girl  does  not  become  pregnant  the  older
 people  close  their  eyes  to  her  lover's  visits. -
 
-The  Custom  of  Avoidance.'^  This  custom  is  very  strictly  main-
-tained among  the  Yukaghir,  and  is  called  nexiijini,  which  means
+The  Custom  of  Avoidance.'^  This  custom  is  very  strictly  maintained among  the  Yukaghir,  and  is  called  nexiijini,  which  means
 *  they  are  bashful  (in  the  presence)  of  each  other '.  It  holds  good
 between  blood-relatives  of  the  class  cmjepul,  that  is,  brothers,
 sisters,  male  and  female  cousins.
@@ -5717,8 +4827,6 @@ Besides  this,  the  father  does  not  speak  to  his  daughter's  husband
 
 1  Op.  cit.,  p.  67.  2  Op.  cit.,  p.  68.  ^  Op.  cit.,  p.  75.
 
-
-92  SOCIOLOGY
 
 nor  the  elder  brother  to  his  younger  sisters  husband.  Persons
 wlio  are  ncxh/ini  should  not  address  eacli  other  directly,  should
@@ -5771,8 +4879,6 @@ their  sexual  desires  within  the  group  or  even  within  the  family."*
 '  Op.  cit.,  p.  84.  «  Op.  cit.,  p.  86.
 
 
-MARRIAGE  93
-
 This  could  not  be  prevented  even  by  the  extreme  sh3'ness  which,
 according  to  Jochelson,  characterizes  the  social  relations  of  the
 Yukaghir.  Jochelson  says  that  the  exogamic  Tungus  and  Yakuts
@@ -5791,10 +4897,8 @@ attached  to  his  house.  ^
 
 In  former  days  the  groom  had  to  chop  wood  before  the  house  of
 his  future  father-in-law.  After  three  da5'S  of  this  work,  if  the  fuel
-was  accepted,  it  meant  that  he  was  accepted  also.  Then  the  father-
-in-law  went  with  him  to  the  wood  and  chose  the  thickest  tree  he
-could.  The  gi'oom  had  to  cut  this  down  and  drag  it  to  his  father-
-in-law's  house,  and  then  only  was  he  accepted.  Nowadays,  says
+was  accepted,  it  meant  that  he  was  accepted  also.  Then  the  fatherin-law  went  with  him  to  the  wood  and  chose  the  thickest  tree  he
+could.  The  gi'oom  had  to  cut  this  down  and  drag  it  to  his  fatherin-law's  house,  and  then  only  was  he  accepted.  Nowadays,  says
 Jochelson,  an  intermediary  is  sent,  and,  in  a  standing  posture,  he
 says  to  the  girl's  parents  :
 
@@ -5829,8 +4933,6 @@ side,  saying :
 »  Op.  cit.,  p.  88.
 
 
-94  SOCIOLOGY
-
 *  I  will  say,  tho  bridogroom  shall  be  admitted  to  my  house  if  he
 is  willing  to  stay  witli  me  till  the  end  of  my  life,  till  my  death.'  ^
 
@@ -5851,8 +4953,7 @@ The  son-in-law  occupies  a  very  subordinate  position.  Only
 when  he  has  his  own  children  does  he  acquire  the  right  to  use
 some  of  the  furs  and  other  objects  without  permission.  Only
 after  the  death  of  his  fathei--in-law  and  other  old  men  of  the
-family,  and  when  his  wife's  brothers  go  away  to  their  fathers-in-
-law,  does  he  become  the  head  of  the  family."'
+family,  and  when  his  wife's  brothers  go  away  to  their  fathers-inlaw,  does  he  become  the  head  of  the  family."'
 
 If  the  young  man  wants  to  leave  his  father-in-law,  he  can  be
 prevented  from  taking  his  wife  with  him,  unless  he  has  his  own
@@ -5863,13 +4964,11 @@ youngest  son  to  go  aAvay.*
 The  Yukaghir  of  the  tundra,  who  have  been  in  contact  with
 the  Tungus,  combine  their  own  custom  of  'serving 'for  the  bride
 with  the  Tungus'  custom  of  purchasing  her  {marxin-woJcn,  i.  e.
-'  the  price  of  a  girl ')  and  taking  her  to  the  house  of  the  bride-
-gi'oom's  parents.
+'  the  price  of  a  girl ')  and  taking  her  to  the  house  of  the  bridegi'oom's  parents.
 
 The  service  for  a  wife  lasts  from  one  to  three  years  ;  and  if  the
 parents  reject  the  man,  he  leaves  the  house  without  receiving  any
-compensation.  The  marriage  ceremonies  are  here  more  compli-
-cated and  better  preserved.  When  the  matchmaker  comes  to  the
+compensation.  The  marriage  ceremonies  are  here  more  complicated and  better  preserved.  When  the  matchmaker  comes  to  the
 house,  he  brings  some  presents  of  skins  called  '  the  mouth-opener '
 {anan  loholcrctc).  After  the  parents  have  given  their  consent,  he
 settles  with  them  the  price  of  the  bride  and  the  time  when  she
@@ -5882,8 +4981,6 @@ wife,  but  he  is  not  bound  by  this  custom  in  relation  to  the  younger
 generation.  ■•  Op.  cit,,  pp.  90-2.
 
 
-MARRIAGE  95
-
 time  conios,  the  bridegroom  leaves  the  parents  of  the  bride,  a,nd
 his  parents  frequently  move  their  camp  near  to  her  home.  The
 matchmaker  and  his  wife  come  to  fetch  the  bride  ;  he  states  the
@@ -5891,8 +4988,7 @@ price  paid  for  her  and  inquires  what  her  dowry  is  to  be.  On  one  of
 the  sledges  accompanying  the  bride  are  placed  the  wedding  clothes
 for  the  bridegroom,  which  she  has  made  with  her  own  hands.
 But  before  the  bride's  train  sets  out  on  its  journej',  her  father
-kills  a  reindeer,  and  with  its  blood  the  mother  and  the  match-
-maker's wife  smear  the  girl.  This  is  termed  *  a  washing '  (meciecum).
+kills  a  reindeer,  and  with  its  blood  the  mother  and  the  matchmaker's wife  smear  the  girl.  This  is  termed  *  a  washing '  (meciecum).
 Concerning  this  custom,  the  Yukaghir  say  they  wash  the  child
 '  before  it  is  sent  away  to  live  with  strangers '.  After  this,  the
 bride  is  dressed  in  her  best  garments,  her  face  being  covered  with
@@ -5929,8 +5025,6 @@ short  one.     The  bride's  father  comes  out  of  the  tent  to  accept  the
 ^  Op.  cit.,  p.  94.  2  j]ji^|_
 
 
-96  SOCIOLOGY
-
 reindeer,  and  the  matchmaker  gives  him  the  long  haltor  to
 symholize  that  the  reindeer  nowhelong  to  him.  The  bridegroom,
 however,  retains  his  short  halter.'  '  They  then  return  home,
@@ -5938,8 +5032,7 @@ announcing  the  success  of  their  mission,  and  the  bridegroom's
 father  sends  the  matchmaker  to  invite  the  parents  and  relatives
 of  the  bride  to  the  wedding  feast.  A  separate  place  is  prepared
 for  the  couple  on  the  skins  which  form  their  bedding.  After  the
-feast,  the  father  of  the  bridegroom,  with  the  help  of  the  match-
-maker, distributes  presents  to  the  bride's  father  and  other
+feast,  the  father  of  the  bridegroom,  with  the  help  of  the  matchmaker, distributes  presents  to  the  bride's  father  and  other
 relatives.  These  presents  usually  consist  of  spoons,  plates,
 arrows,  and  axes.  Then  the  guests  disperse,  and  tlie  married
 couple  are  left  in  the  tent,  which  they  do  not  leave  for  three  days.
@@ -5956,8 +5049,7 @@ native  wedding.*
 
 We  do  not  find  open  polygyny  in  the  present  marriage  customs
 of  the  Yukaghir,  but  it  existed  previously,  though  only  to  a
-limited  extent.  Of  course,  as  a  man  went  to  live  in  his  father-in-
-law's  house,  he  could  not  very  well  bring  another  woman  there ;
+limited  extent.  Of  course,  as  a  man  went  to  live  in  his  father-inlaw's  house,  he  could  not  very  well  bring  another  woman  there ;
 unless,  as  some  facts  indicate,  the  wives  were  sisters,  and  in  this
 case  the  custom  of  ncxiyini  was  violated.^  Good  hunters,  strong
 warriors,  and  shamans,  who  did  not  as  a  rule  live  in  the  houses
@@ -5978,8 +5070,6 @@ with  certain  restrictions."
 
 «  Op.  cit.,  p.  111.  ■'  Op.  cit.,  p.  112.
 
-
-MARRIAGE  97
 
 Although  Me  see  in  the  Yukaghir  marriage  some  matrilocal
 arrangements,  it  docs  not  follow  that  we  have  here  an  instance  of
@@ -6017,19 +5107,15 @@ a  man  of  a  forbidden  matrimonial  class,  i.  e.  with  a  man  who  is
 not  of  the  class  of  jpu  (husband)  to  her,  and  Sternberg  says  that
 they  condemn  Russian  women  who  sell  themselves  for  money.*
 
-The  marital  classes  of  the  Gilyak  are  based  strictly  on  relation-
-ship, and  are  interwoven  with  the  regulation  of  sexual  relations.
+The  marital  classes  of  the  Gilyak  are  based  strictly  on  relationship, and  are  interwoven  with  the  regulation  of  sexual  relations.
 Age  pla5-s  here  no  part,  for  we  sometimes  find  old  men  and  young
 lads  in  the  same  class.
 
 »  Op.  cit.,  pp.  112-13.  2  Sternberg,  The  Gilijak,  1905,  p.  25.
 
-'  Op.  cit.,  p.  82.  "  Op.  cit.,  p.  26.
 
 167S  Q
 
-
-98  SOCIOLOGY
 
 There  aie  four  main  social  classes  :
 I.  Ite,  father's  fathers.
@@ -6038,11 +5124,9 @@ III.  Angcy  (wife)  and^  or  ivn  (husband).
 IV.  Tuvn,  brothers  and  sisters,  real  and  classificatory.^
 
 The  Gilyak  calls  not  only  his  own  mother  ynik,  but  also  all  her
-sisters  and  all  the  wives  of  his  father's  brothers,  real  and  classifi-
-catory,  as  well  as  the  sisters  of  these  women.  He  calls  not  only
+sisters  and  all  the  wives  of  his  father's  brothers,  real  and  classificatory,  as  well  as  the  sisters  of  these  women.  He  calls  not  only
 liis  own  father  iitk,  but  also  the  husbands  of  his  mother's  sisters,
-and  his  father's  brothers ;  though  in  certain  tribes,  e.g.  in  Sak-
-halien,  the  term  is  applied  only  to  the  younger  brothers  of  his
+and  his  father's  brothers ;  though  in  certain  tribes,  e.g.  in  Sakhalien,  the  term  is  applied  only  to  the  younger  brothers  of  his
 father.  A  Gilyak  woman  names  by  the  term  j)u  not  only  her
 husband,  but  his  brothers  and  the  husbands  of  her  sisters.  The
 Gilyak  calls  not  only  his  wife  angei),  but  also  the  wives  of  his
@@ -6054,8 +5138,7 @@ of  the  women  whom  he  calls  ymlcr
 These  classes  could  only  originate  under  a  rule  by  which  all
 men  in  one  class,  A,  had  to  take  wives  from  another  class,  B,  so
 that  the  men  of  class  A  are  destined  from  birth  to  marry  the
-daughters  of  their  mother's  brothers.  This  most  important  regu-
-lation of  Gilyak  marriage  is  implied  in  their  saying :  '  Thence,
+daughters  of  their  mother's  brothers.  This  most  important  regulation of  Gilyak  marriage  is  implied  in  their  saying :  '  Thence,
 whence  you  came  forth — from  the  clan  of  your  mother— you
 must  take  your  wife.'  Although  this  regulation  is  not  strictly
 kejjt  at  present,  it  still  exists  in  their  terminology,  the  woman
@@ -6080,12 +5163,9 @@ brother  are  addressed  as  angey,  the  wives  of  the  younger  ones  being
 called  yokh  (forbidden  class).    See  op.  cit.,  pp.  22-3.
 
 
-MARRIAGE  99
-
 while  even  to-day  the  correct  marriage  is  one  with  the  daughter
 of  tlie  mother's  brother  (real  or  classificatory).  On  the  other  hand,
-marriage  with  the  daughter  of  the  father's  sister,  or  the  inter-
-change of  daughters,  is  forbidden.^  When  Sternberg  made  his
+marriage  with  the  daughter  of  the  father's  sister,  or  the  interchange of  daughters,  is  forbidden.^  When  Sternberg  made  his
 registration  of  families  he  discovered  how  greatly  this  custom
 preponderates  even  now.
 
@@ -6101,8 +5181,7 @@ The  following  schematic  table  showing  the  original  marriage
 regulations  of  three  family-gentes,  forming  one  clan,  is  given  :
 
 Gens  A.  Gens  B.  Gens  C.
-Male  A  marries  fe-  Male  B  marries  fe-  Male  C  marries  fe-
-male B  (sister  of  male  male  C  (sister  of  male  male  A  (sister  of  male
+Male  A  marries  fe-  Male  B  marries  fe-  Male  C  marries  female B  (sister  of  male  male  C  (sister  of  male  male  A  (sister  of  male
 B).  Their  sons  marry  C).  Their  sons  marry  A).  Their  sons  marry
 daughters  B  ;  and  their  daughters  C;  and  their  daughters  A;  and  their
 daughters  marry  sons  daughters  marry  sons  daughters  marry  sons
@@ -6135,8 +5214,6 @@ or  look  at  one  another.
 H  2
 
 
-100  SOCIOLOGY
-
 his  is  living  in  a  certain  village,  will  come  to  claim  his  right.
 A  Gilyak  accompanying  Sternberg  came  with  him  from  the  west
 to  the  east  coast  and  found  there  an  angcif  in  one  of  the  yurta.^
@@ -6166,13 +5243,11 @@ Ostyak,  Samoyed,  Tartar,  Votyak)  marriage  customs.  In  this  case
 the  marriage  is  concluded,    and  the  groom  can  take  his  bride
 
 ^  This  type  of  supplementary  union  is  in  most  cases  equivalent  to
-polyandric  marriage,  and  may  be  accounted  for  by  the  unequal  propor-
-tion of  the  sexes  in  the  population.  According  to  the  last  (1912)
+polyandric  marriage,  and  may  be  accounted  for  by  the  unequal  proportion of  the  sexes  in  the  population.  According  to  the  last  (1912)
 statistics  of  Piitkanoff,  for  2,556  Gilyak  men  there  were  only  2,093
 women.
 
--'  A.  N.  MaksimofF,  in  his  work  Group-Marriage,  1908,  pp.  41-2,  ques-
-tions whether  the  Gilyak  have  any  regular  custom  of  supplementary
+-'  A.  N.  MaksimofF,  in  his  work  Group-Marriage,  1908,  pp.  41-2,  questions whether  the  Gilyak  have  any  regular  custom  of  supplementary
 unions,  called  by  Sternberg  '  group-marriage '.  He  quotes  statements
 like  the  above,  which  show  that  the  collateral  j;»  enjoys  a  husband's
 rights  only  when  the  individual  husband  is  away.  Or,  that  when  the
@@ -6187,12 +5262,9 @@ question  ;  it  is  merely  that  if  a  woman  betrays  her  husband  with  hi
 this  is  considered  less  blameworthy  than  if  she  had  done  so  with
 a  stranger  (op.  cit.,  p.  41).     See  Sternberg,  'Hie  Gilyak,  p.  24.
 
-*  Op.  cit.,  p.  29.  *  Op.  cit.,  p.  81.
 
 ^  The  Natives  of  the  Amur  Country,  vol.  iii,  pp.  2-7.
 
-
-MARRIAGE  101
 
 homo  as  soon  as  tlio  7.(?7//»»  is  paid.  Sometimes  the  high  price  of
 a  wife  compels  a  man  to  abduct  her  from  some  remote  viHage  ;  but
@@ -6203,8 +5275,7 @@ her  in  her  husband's  famil3\-
 
 A  Gilyak  will  usually  have  two  or  three  individual  wives;  rich
 people  have  more.^  After  the  death  of  a  husband,  his  wife
-passes,  without  any  Icahjm,  to  one  of  his  younger  lirothers,  ac-
-cording to  the  decision  of  the  clan.  Of  course,  nominally  and
+passes,  without  any  Icahjm,  to  one  of  his  younger  lirothers,  according to  the  decision  of  the  clan.  Of  course,  nominally  and
 even  actually,  she  was  already  her  husband's  younger  brother's
 wife,  and  her  children  his  children"^;  but  after  the  husband's
 death  another  husband  is  chosen  for  social  and  economic  reasons.
@@ -6218,8 +5289,7 @@ his  own  name,  and  is  known  as  '  the  father  of  So-and-so '.
 
 VII.     The  Ainu.
 
-Marriage  among  the  Ainu  is  generally  considered  to  be  exo-
-gamic,  and  indeed  in  one  of  the  tales  recorded  by  Pilsudski,"
+Marriage  among  the  Ainu  is  generally  considered  to  be  exogamic,  and  indeed  in  one  of  the  tales  recorded  by  Pilsudski,"
 a  young  man  goes  outside  his  own  village  to  visit  a  young  woman
 he  desires  to  marry,  and  who.  he  says,  has  been  '  reared  for  him '.
 Another  suitor  (who  in  the  sequel  turns  out  to  be  a  sea-god)  he
@@ -6246,8 +5316,6 @@ for  the  younger  brother  was  rich  and  could  bu}'  a  wife  for  himself
 Lore,  1912    Tale  No.  20,  pp.  172-6.
 
 
-102  SOCIOLOGY
-
 Batclielor'  also  states  that  the  Ainu  marry  cousins,  and  in  some
 cases,  nieces,  as  well  as  a  deceased  brother's  wife,  but  they  cannot
 form  unions  with  a  sister-in-law's  sister  or  brother's  wife's  sister.
@@ -6261,24 +5329,21 @@ within  the  village.
 '  If  the  j^oung  woman  herself  or  her  parents  have  V)een  tlie  main
 movers  in  the  business' — pi'oposals  of  marriage— 'the  bridegroom
 is  removed  from  his  own  family  to  take  up  his  a])ode  close  to  the
-hut  of  his  father-in-law  ;  he  is,  in  fact,  adopted.  But  if  the  bride-
-groom did  the  wooing,  or  his  parents  were  the  jirime  movers,  the
+hut  of  his  father-in-law  ;  he  is,  in  fact,  adopted.  But  if  the  bridegroom did  the  wooing,  or  his  parents  were  the  jirime  movers,  the
 bride  is  adopted  into  his  family.  Or  if  a  woman  of  one  village
 chooses  a  man  of  another,  he,  if  agreeable,  goes  to  live  with  her  ;
 or  if  a  man  chooses  a  woman  who  resides  at  a  distance,  she,  if
 agreeable,  goes  to  live  with  him.^  Persons  who  marry  in  their
 own  villages  are  all  called  uinival;  "blood-relatives",  "brethren",
 but  those  who  remove  from  their  homes  to  be  married  into  some
-distant  family  are  called  niritak,  "relations  taken  away",  or  "dis-
-tant relations",  "brethren  brought  in".'
+distant  family  are  called  niritak,  "relations  taken  away",  or  "distant relations",  "brethren  brought  in".'
 
 Betrothal  of  children  exists,  but  it  does  not  compel  these
 children  to  marry,  if  they  are  unwilling  to  do  so  on  reacliing
 maturity.  '  The  boy  and  girl  exchanged  clothes,  and,  I  believe,
 homes,'  says  Batchelor,^  '  until  the  season  for  their  union  came
 round.  Then,  if  the  parents  of  the  lad  were  the  prime  movers  in
-the  proposal,  the  young  lady  remained  at  his  home,  but  if  other-
-wise, the  bridegroom  went  to  live  with  the  bride's  parents,  or  at
+the  proposal,  the  young  lady  remained  at  his  home,  but  if  otherwise, the  bridegroom  went  to  live  with  the  bride's  parents,  or  at
 least,  in  her  village.'
 
 The  general  method  among  the  Ainu  of  obtaining  a  wife  is  by
@@ -6289,7 +5354,6 @@ influenced  by  them.^'  ^
 
 '  Batchelor,  TJie  Ainu  and  their  Folk-Lore,  1901,  p.  229.
 
-2  Op.  cit.,  p.  225.
 
 ^  According  to  a  personal  communication  from  Mr.  Pilsudski,  the  Ainu
 do  not  like  to  give  their  daughters  into  another  family,  but  prefer  to
@@ -6300,8 +5364,6 @@ a  case  than  among  the  Gilyak.
 
 ®  In  a  personal  communication  from  Mr.  Pilsudski,  he  says  that  the  follow-
 
-
-MARRIAGE  103
 
 B.itchelor^  says  that  if  a  girl  courts  a  young  man.  she  'may
 enslave  herself  to  his  jtarents  as  a  price  for  their  son  '.  Pilsudski,^
@@ -6314,8 +5376,7 @@ called  among  the  Ainu  l-qjnjjoslirc,  '  to  make  the  first  advances'.
 A  girl,  until  she  marries,  is  quite  free  in  her  intercourse  with
 men.  Some  of  the  myths  ■'  mention  that  some  time  after  a  girl
 was  married  to  a  man,  she  married  him  again  '  for  good '.  In  this
-case  we  must  understand  the  first  'marriage'  as  in  fact  a  be-
-trothal, accompanied  by  sexual  intercourse ;  while  the  second
+case  we  must  understand  the  first  'marriage'  as  in  fact  a  betrothal, accompanied  by  sexual  intercourse ;  while  the  second
 marriage  referred  to  was  the  real  marriage,  after  which  the
 woman  was  called  macipi,  'the  wife'.  While  she  is  betrothed,
 and  if  she  is  younger  than  her  fimice,  she  is  called  ' circsJiX  maci,'
@@ -6345,17 +5406,13 @@ bride.  This  ...  is  called  mat-eilara,  i.e.,  "making  my  wife".
 The  bride  then  makes  a  girdle,  a  pair  of  leggings,  a  necklace,  and
 
 ing  fact  will  show  how  foreign  the  idea  of  wife-purchase  is  to  the  Ainu
-mind  :  If  an  Ainu  wishes  to  purchase  a  wife,  the  only  way  he  can  accom-
-plish his  end  is  to  form  illicit  relations  with  another  man's  wife.  If  the
+mind  :  If  an  Ainu  wishes  to  purchase  a  wife,  the  only  way  he  can  accomplish his  end  is  to  form  illicit  relations  with  another  man's  wife.  If  the
 fact  becomes  known,  a  divorce  follows,  and  the  Ainu  is  compelled  to  pay
 damages  to  the  aggrieved  husband.
 
-1  Op.  cit.,  p.  230.  2  Op.  cit.,  p.  142.
 
 3  Pilsudski,  op.  cit.,  p.  236 ;  also  p.  59.  *  Op.  cit.,  p.  63.
 
-
-104  SOCIOLOGY
 
 a  headdress,  which  she  j^resents  to  her  husband  ;  this  is  called
 IwTiu  ciJiara,  "making  my  husband",  '  ^
@@ -6369,8 +5426,7 @@ occur  in  districts  bordering  on  Gilyak  territory.
 
 Divorces  are  of  frequent  occurrence.  The  matter  is  settled  by
 the  eldest  of  the  clan  ;  the  children  being  either  divided  between
-the  two  parties,  or  all  given  to  the  one  who  is  considered  in-
-nocent."* Among  the  grounds  for  divorce,  according  to  Batchelor,
+the  two  parties,  or  all  given  to  the  one  who  is  considered  innocent."* Among  the  grounds  for  divorce,  according  to  Batchelor,
 are,  on  the  part  of  the  man,  '  want  of  love  towards  her,  or  of  her
 towards  him  ;  incompatibilit}'  of  temper  ;  general  disrespect  on
 the  wife's  part ;  idleness,  and  failure  to  keep  the  hut  supplied
@@ -6380,8 +5436,7 @@ reason  of  adultery,  dislike  to  him,  idleness,  inability  to  keep  the
 larder  supplied  with  fish  and  animal  food.  .  .  .  When  a  man
 divorced  his  wife,  he  merely  made  her  a  present  and  sent  lier
 back  to  her  parents,  and  when  a  woman  wished  to  be  free  from
-her  husband,  she  simply  walked  off  and  left  him  to  shift  for  him-
-self. In  cases  which  have  occurred  under  my  own  eye,  the
+her  husband,  she  simply  walked  off  and  left  him  to  shift  for  himself. In  cases  which  have  occurred  under  my  own  eye,  the
 subject  was  made  more  of  a  familj^  aifair.  and  the  presents  were
 sent  to  the  parents  of  the  women  who  were  divorced,  and  were
 not  given  to  the  women  themselves.'  '  Unfaithfulness  is  usually
@@ -6410,8 +5465,6 @@ is  especially  evident  during  pregnancy,  when  she  is  surrounded
 Bewohnern  der  Insel  Sachalin  (Giljaken  und  Ainu) ',  in  Anthropos,  1910,
 pp.  762-4.
 
-
-MARRIAGE  105
 
 with  every  care,  and  even  regarded  with  veneration.  Marriage  is
 never  by  purcliase.  If  the  husband  does  not  go  to  live  in  the
@@ -6442,8 +5495,7 @@ The  Tungus  of  the  Yeniseisk  Government  practise  polygamy.
 According  to  PatkanofF,*  a  girl  is  free  to  choose  her  husband  ;  and
 if  her  father  does  not  approve  of  her  choice,  she  elopes  with  the
 man  she  has  chosen.  Samokvasoff ""  says  that  among  the  Tungus
-of  Nerchinsk  and  Verkhneudinsk,  there  exists  a  custom  of  inter-
-change of  children,  one  family  giving  a  son  in  exchange  for
+of  Nerchinsk  and  Verkhneudinsk,  there  exists  a  custom  of  interchange of  children,  one  family  giving  a  son  in  exchange  for
 a  daughter  from  another  family.  In  this  exchange,  however,  the
 father  of  the  bride  still  receives  a  small  Icahpn  from  the  groom.''
 The  Tungus  give  as  a  daughter's  dowiy  a  new  suit  for  the  husband,
@@ -6465,8 +5517,6 @@ Siberia,  1876,  p.  65.
 
 «  Ibid.
 
-
-106  SOCIOLOGY
 
 utensils.  The  Trans-Baikal  Tungus  give  a  complete  house.^
 The  hilf/m  usuall}^  consists  of  reindeer.  If,  after  paying  the
@@ -6497,18 +5547,15 @@ their  wives  from  another  gens  (clan).  The  Tungus  who  have
 migrated  to  the  Arctic  region  very  often  marry  within  the  clan.
 
 The  Tungusic  tribe  of  Goldi  has  a  custom  under  which  the
-bride  must  avoid  the  bridegroom  from  the  time  of  the  match-
-making until  the  l.ast  moment  of  one  of  the  marriage  ceremonies,
+bride  must  avoid  the  bridegroom  from  the  time  of  the  matchmaking until  the  l.ast  moment  of  one  of  the  marriage  ceremonies,
 called  dansari.  At  the  dansari  there  is  a  certain  ceremony  called
 '  first  meeting  of  the  two '  {di/relacJio-iiri).  After  this  a  feast  is
 held  for  the  guests,  and  afterwards,  when  every  one  is  going  to
 bed,  the  bride  is  led  to  the  bridegroom,  and  they  are  placed
-beneath  the  same  blanket,  even  though  she  may  be  quite  imma-
-ture. No  sexual  act  takes  place  at  this  time,  however.  After
+beneath  the  same  blanket,  even  though  she  may  be  quite  immature. No  sexual  act  takes  place  at  this  time,  however.  After
 this  the  bride  remains  some  time  longer  in  her  parents'  house,
 and  is  not  taken  to  the  house  of  the  bridegroom  until  the  time  for
-the  performance  of  the  next  ceremony,  hhosodabgalilni.''  She  re-
-ceives as  her  dowry  various  garments,  carpets,  household  utensils.''
+the  performance  of  the  next  ceremony,  hhosodabgalilni.''  She  receives as  her  dowry  various  garments,  carpets,  household  utensils.''
 Only  rich  people  can  afford  to  have  more  than  one  wife.
 
 *  P.  Tretyakoff,  The  Country  of  Turnldiaml;  p.  380.
@@ -6522,8 +5569,6 @@ Only  rich  people  can  afford  to  have  more  than  one  wife.
 
 I
 
-
-MARRIAGE  107
 
 Another  Tungusic  tiil>p— tlio  Orochi — have  collective  marriage
 existing  alongside  of  individual  marriage  similar  to  that  of  the
@@ -6542,8 +5587,7 @@ this  is  usually  followed  by  bloodshed.  Patkanoff  says  that  a  custom
 exists  among  them  of  giving  their  wives  and  daughters  to  honoured
 guests  for  the  night. -
 
-The  custom  of  avoidance  binding  the  wife,  sometimes  the  bride-
-groom, with  regard  to  the  relatives  on  the  side  of  each  respectively,
+The  custom  of  avoidance  binding  the  wife,  sometimes  the  bridegroom, with  regard  to  the  relatives  on  the  side  of  each  respectively,
 which  prevails  among  the  Finnic,  Mongolic,  and  Turkic  tribes  of
 Siberia,  does  not  seem  to  have  been  observed  among  the  Tungus.
 
@@ -6576,8 +5620,6 @@ p.  54.
 *  Salamata,  i.  e.  meal  fried  in  melted  butter.
 
 
-108  SOCIOLOGY
-
 and  it  is  considered  most  disgraceful  for  the  girl  if  her  fiance  has
 not  eaten  the  contents.  Tliis  would  seem  to  show  that  the  Yakut
 attach  some  importance  to  the  conduct  of  a  girl  before  marriage.^
@@ -6586,8 +5628,7 @@ Sieroszewski  describes  what  he  calls  the  barbaric  means  which
 the  Yakut  employ  to  keep  girls  chaste.  This  consists  of  a  chastity
 girdle,  a  kind  of  leather  trousers,  differing  from  a  man's  in  that
 they  open  only  at  one  side,  and  secured  by  many  leather  straps
-about  the  loins.  This  garment  is  worn  constantly,  not  being  re-
-moved even  at  night. -
+about  the  loins.  This  garment  is  worn  constantly,  not  being  removed even  at  night. -
 
 It  cannot  be  said,  then,  that  the  Yakut  take  no  care  to  preserve
 the  chastity  of  their  young  women  ;  though  it  would  seem  that
@@ -6628,8 +5669,6 @@ and  N.  S.  Shchukin,  Tlie  Yakut,  1854,  p.  27.
 *  Sieroszewski,  op.  cit.,  p.  325.  ^  Maak  writes  hoinosor.
 
 
-MARRIAGE  109
-
 brings  to  his  house  her  dowry,  ainiii.  The  matchmaker,  in  the
 person  of  the  bridegroom's  father  or  some  other  respected  person,
 goes  to  the  house  of  the  bride.  This  is  called  t'ningnur  tiuscr,
@@ -6642,8 +5681,7 @@ to  her  train.'  These,  howevei-,  are  usually  returned  when  tlie
 bride  goes  to  her  new  home.
 
 Maak  says  that  after  this  follows  the  bringing  home  of  the  bride ;
-J>ut  Sieroszewski  describes  another  ceremony  which  probably  pre-
-cedes the  visits  of  the  prospective  father-in-law  and  mother-in-law.
+J>ut  Sieroszewski  describes  another  ceremony  which  probably  precedes the  visits  of  the  prospective  father-in-law  and  mother-in-law.
 This  is  the  betrothal,  called  Mtegan.  Two  or  three  of  the  most
 honoured  male  relatives  of  the  suitor  accompany  him  to  the  house
 of  the  girl's  father,  where  they  sit  for  two  days  on  the  billiri/Jc.'^
@@ -6682,8 +5720,6 @@ the  bench  on  which  the  Avomen  and  girls  sit  and  sleep.
 
 °  Priklonski,  op.  cit.,  p.  54.
 
-
-110  SOCIOLOGY
 
 tangaha,  and  the  cattle  she  brings  as  iinnd  sieJcJii.  The  meat  and
 other  food  that  come  "with  her  are  called  l\ijs  lesif,  '  gifts  of  the
@@ -6732,10 +5768,6 @@ of  the  father-in-law  and  other  older  male  relatives,  but  must  pass
 
 *  Maak,  op.  eit..  pp.  94-5.  *  Op.  cit.,  p.  56.
 
-3  Op.  cit.,  p.  219.
-
-
-MARRIAGE  111
 
 l)eliincl  it  from  the  north-west ;  (ii)  must  not  talk  in  a  loud  voice,
 nor  ut;e  words  with  a  douldo  meaning;  (iii)  must  not  call  her
@@ -6771,8 +5803,7 @@ keep  a  guard  upon  their  language,  so  as  not  to  say  anything
 unseemly  in  her  presence,  for  the  Yakut  customarily  use  great
 freedom  in  conversation.  They  must  not  show  in  her  presence
 any  part  of  their  bodies  bare — the  arm  above  the  elbow,  or
-the  leg  above  the  ankle.  The  bride  enjoys  the  care  and  pro-
-tection of  everybody,  and  it  is  said  that  sometimes  she  does  no
+the  leg  above  the  ankle.  The  bride  enjoys  the  care  and  protection of  everybody,  and  it  is  said  that  sometimes  she  does  no
 work  for  a  whole  year  after  marriage,  but  only  eats  and  sleeps.
 Her  dowry  is  her  personal  property  and  inalienable.^
 
@@ -6786,8 +5817,6 @@ A  Yakut  usually  takes  his  wife  from  another  clan  {aya-usa).
 
 ^  Priklonski,  op.  cit.,  p.  GO.
 
-
-112  SOCIOLOGY
 
 Sieroszewski  knew  of  only  one  case  of  a  man  taking  a  wife  from
 his  own  gens,  and  when  the  woman  shortly  after  marriage  grew
@@ -6816,8 +5845,7 @@ On  the  other  hand,  the  custom  of  exogamy  among  the  Yakut
 is  not  of  an  indefinitely  ancient  date.  The  following  facts  may  be
 adduced  in  support  of  this  assertion  :  (i)  In  their  legends  and
 traditions  there  are  frequent  references  to  unions  between  people
-of  the  same  clans,  even  between  brother  and  sister  ;  (ii)  the  exis-
-tence of  regulations  enforcing  avoidance  of  each  other  among
+of  the  same  clans,  even  between  brother  and  sister  ;  (ii)  the  existence of  regulations  enforcing  avoidance  of  each  other  among
 members  of  the  same  family  ;  (iii)  the  terminology  of  relationships.
 
 Some  of  the  allusions  in  the  traditions  mentioned  above  are  as
@@ -6843,24 +5871,20 @@ p.  335.
 '  Recorded  iu  the  iilus  of  Namsk,  1891.   Sieroszewski,  op.  cit.,  p.  335.
 
 
-MARRIAGE  113
-
 given  in  nianiage  into  anotlier  clnn,  tlie  brothers  tlid  not  let  her
 
 go  before  they  had  lain  with  her  (custom  of  t7/o/M«««r) When
 
 strangers  take  to  wife  from  her  l)rothers  a  woman  wlio  is  still
 a  virgin,  the  brothers  account  it  a  shame  for  themselves.'^  The
-expression  chohmnur  is  still  used  to  denote  having  sexual  inter-
-course with  a  woman,  and  also  making  a  hostess  of  her.  In  the
+expression  chohmnur  is  still  used  to  denote  having  sexual  intercourse with  a  woman,  and  also  making  a  hostess  of  her.  In  the
 old  folk-ballads,  olongho,  we  have  allusions  to  a  hero  being  in
 danger,  and  his  sister-lover  going  to  his  rescue. -
 
 If  3'oung  women  have  sexual  relations  with  men  before  marriage,
 it  is  always  within  their  own  clan,  and  there  is  a  decided  tendency
 towards  such  relations.  In  the  idus  of  Kolymsk,  in  a  village
-called  Andalykh,  in  the  autumn  the  older  girls,  with  the  know-
-ledge of  their  parents,  go  at  night  to  small  houses  on  the  lake,
+called  Andalykh,  in  the  autumn  the  older  girls,  with  the  knowledge of  their  parents,  go  at  night  to  small  houses  on  the  lake,
 where  they  receive  boys  from  the  neighbourhood.  One  night  in
 1883,  Sieroszewski  lost  his  way,  and  found  himself  in  one  of  these
 houses.  He  heard  also  of  other  places  in  this  neighbourhood
@@ -6870,16 +5894,14 @@ receiving  boj's  of  their  clan  by  day  and  by  night.^
 This  tendency  is  restricted  by  different  prohibitions,  such  as
 that  boys  between  the  ages  of  ten  and  twelve  must  sleep  apart
 from  their  sisters,  in  spite  of  the  fact  that  this  entails  additional
-expense  for  beds.  This  is  not  to  be  accounted  for  by  any  con-
-siderations of  mere  modesty,  for  it  is  not  unusual  for  the  girls
+expense  for  beds.  This  is  not  to  be  accounted  for  by  any  considerations of  mere  modesty,  for  it  is  not  unusual  for  the  girls
 to  appear  quite  naked  in  the  presence  of  their  brothers.^
 
 The  terms  of  relationship,  which  will  be  more  fully  treated
 later,  are  characterized  by  an  absence  of  any  words  for  '  husband  '
 and  'father'.  The  term  aga,  corresponding  to  our  'father',
 literally  means  only  '  older ' :  in  inquiring  some  one's  age  people
-say,  '  Is  he  aga  (older)  or  haJijs  (younger)  ? '  The  term  erim,  corre-
-sponding to  our  '  husband  ',  means  in  fact  '  my  man  '.  While  the
+say,  '  Is  he  aga  (older)  or  haJijs  (younger)  ? '  The  term  erim,  corresponding to  our  '  husband  ',  means  in  fact  '  my  man  '.  While  the
 ordinary  word  for  wife  is  oijoJch,  there  is  a  special  term  for  '  my
 woman' — djaTihatcr-cm:'  The  term  for  'mother'  is  ?/c,  literally,
 '  womb  ',  '  embryo  '.  In  the  olongho  the  heroes  often  go  on  journeys
@@ -6895,19 +5917,14 @@ Ibid.  2  Op.  cit.,  pp.  336-7.  =»  Op.  cit.,  p.  342.
 '  Op.  cit.,  p.  337.  "^  Op.  cit.,  p.  338.
 
 
-114  SOCIOLOGY
-
-others  also.  Tlius  i/e-usa  has  retained  only  a  part  of  its  old  signifi-
-cance.^ The  al)0ve  considerations  seem  to  point  to  a  transition
-from  a  matrilineal,  matrilocal,  and  perliaps  matripotestal  endo-
-gamic  organization  to  one  which  is  patrilineal,  patrilucal,  patri-
+others  also.  Tlius  i/e-usa  has  retained  only  a  part  of  its  old  significance.^ The  al)0ve  considerations  seem  to  point  to  a  transition
+from  a  matrilineal,  matrilocal,  and  perliaps  matripotestal  endogamic  organization  to  one  which  is  patrilineal,  patrilucal,  patri-
 potestal,  exogamic.
 
 B.    The   Altaians.
 
 Wierbicki,-  the  Kussian  missionary,  describes  the  marriage
-ceremony  among  the  Altaians  as  it  was  at  the  end  of  the  nine-
-teenth century.  He  distinguishes  two  types  of  the  ceremony,
+ceremony  among  the  Altaians  as  it  was  at  the  end  of  the  nineteenth century.  He  distinguishes  two  types  of  the  ceremony,
 as  it  obtains  among  (a)  the  southei*n,  and  (b)  the  northern  Altaians.^
 
 He  says  that  among  the  northern  Altaians  the  wife  is  still
@@ -6919,8 +5936,7 @@ nothing  more  than  symbolic  traces  of  original  marriage  by  capture.
 
 According  to  the  southern  form  of  marriage  custom,  a  young
 man  sends  to  his  jjrospective  father-in-law  matchmakers,  one  of
-whom,  kneeling  before  the  father-in-law,  delivers  the  following-
-eloquent  speecli :  *  I  come,  bending  my  knee  upon  your  thres-
+whom,  kneeling  before  the  father-in-law,  delivers  the  followingeloquent  speecli :  *  I  come,  bending  my  knee  upon  your  thres-
 liold.  I  come,  bowing  to  your  beliefs.  I  come,  in  admiration  of
 your  way  of  life.  I  come  to  ask  you  for  a  head  !  May  the  union
 that  I  come  to  make  be  as  inseparable  as  two  cheeks  ;  may  it  be
@@ -6929,7 +5945,6 @@ be  as  close  as  the  rings  in  a  birch-trunk,  or  as  stitches  of  silk  
 a  garment !  I  come  to  ask  of  you  a  haft  for  a  haftless  knife.
 Nine  generations  ago  there  \vas  war  :    I  come  to  make  peace."*
 
-'  Op.  cit.,  p.  293.
 
 2  Wierbicki,  The  Xathr.'^  oftho  Altai,  1893,  pp.  81-5.
 
@@ -6950,8 +5965,6 @@ and  traditions.     (Wierbicki,  op.  cit.,  pp.  5-7.)
 a  family  with  whom  his  principal  was  formerly  at  feud,  he  must  bring
 
 
-MARRIAGE  115
-
 I  come  ill  admiration  of  your  way  of  life.  I  come  to  make  a  union
 between  us.     What  answer  will  you  give  me  ?  '
 
@@ -6965,8 +5978,7 @@ The  taking  of  the  pipe  is  a  sign  of  acceptance  of  the  offer ;  but
 the  compact  is  not  immediately  concluded,  for  the  father  may  sny
 that  he  must  consult  with  his  family  upon  the  matter,  or  the
 question  of  kaJi/m  hivs  still  to  be  settled.  After  this  only  is  the
-pipe  of  peace  and  acceptance  smoked.  Then  the  other  match-
-makei-s.  preserving  always  a  solemn  mien,  bring  Jcumi/s  and  wine,
+pipe  of  peace  and  acceptance  smoked.  Then  the  other  matchmakei-s.  preserving  always  a  solemn  mien,  bring  Jcumi/s  and  wine,
 which  they  drink  together.  After  this  the  matchmakers  return
 to  the  suitor,  and  inform  him  of  their  success,  and  of  the  amount
 of  the  kali/m  ;  whereupon  a  second  feast  is  held.  When  everything
@@ -7007,8 +6019,6 @@ capture.
 I  2
 
 
-116  SOCIOLOGY
-
 niiirriage  festiv.-il  there  is  a  custom  called  ail-huzar  ('  destroying  the
 liouse').  First  they  remove  the  door  of  tlie  i/xrta,  and  through  the
 doorway  a  relative  of  the  bride,  richly  dressed  and  mounted  on
@@ -7020,11 +6030,9 @@ to  his  stirrup,  to  his  dress,  and  to  the  trappings  of  his  horse.
 Whatever  is  torn  away  from  him  in  the  struggle  is  presented  to
 the  bride,  and  is  called  '  the  bride's  luck '.
 
-According  to  the  custom  of  the  northern  Altaians,^  the  bride-
-groom is  supposed  to  capture  the  bride.  As  a  matter  of  fact,  the
+According  to  the  custom  of  the  northern  Altaians,^  the  bridegroom is  supposed  to  capture  the  bride.  As  a  matter  of  fact,  the
 girl  has  been  apprised  beforehand  of  his  intention,  the  matter  is
-settled  with  her,  and  she  gives  to  the  young  man's  envoy  a  ker-
-chief from  her  head  as  an  earnest  of  the  fulfilment  of  her  part
+settled  with  her,  and  she  gives  to  the  young  man's  envoy  a  kerchief from  her  head  as  an  earnest  of  the  fulfilment  of  her  part
 of  the  compact.  Then  the  bridegroom  comes  with  one  or  two
 friends  on  good  horses,  and  carries  her  off  at  night.  They  take
 her  to  the  ulus  of  the  groom,-  and  in  the  morning  the  young  men
@@ -7056,8 +6064,6 @@ hai/ga.     The  first  is  given  by  the  bridegroom,  and  is  held  around
 
 -  This  is  an  imlication  that  marriage  among  these  people  is  exogamic.
 
-
-MARRIAGE  117
 
 the  odaJili,  but  the  four  following  ones  are  given  ;it  the  home  of
 the  bride.
@@ -7094,8 +6100,7 @@ harvest  ;  among  those  not  so  wealthy,  it  is  not  held  until  from
 one  to  two  years  after  the  wedding.  The  poorest  class  celebrate
 this  feast  whenever  they  can  ajfford  it.
 
-At  the  last  ha//f/a  a  horse  is  killed  and  eaten.  Each  hayga  is  accom-
-panied by  dances,  games,  &c.^
+At  the  last  ha//f/a  a  horse  is  killed  and  eaten.  Each  hayga  is  accompanied by  dances,  games,  &c.^
 
 Marriage  is  exogamic  among  all  the  Altaians  ;  and  a  wife  has
 to  observe  various  prohi])itions  with  regard  to  her  father-in-law.
@@ -7110,8 +6115,6 @@ the  relatives  of  the  bridegroom.
 "^  Radloff,  Aus  Sibirien,  p.  314.  See  also  T.  Shvetzoff,  Ideas  of  the
 Altaiaus  and  Kirgis  on  Custom  and  Law,  W.  S.  S.  I.  R.  G.  S.,  \y.  9.
 
-
-118  SOCIOLOGY
 
 X.     Thk  Mongolic  Tribes.
 A.    The  Buryat.
@@ -7146,8 +6149,7 @@ form  around  her,  holding  hands,  and  strengthening  the  chain  with
 their  kerchiefs.  When  men  try  to  break  through  the  ring,  the
 girls  do  their  best  to  prevent  them,  weeping  and  shouting  aloud.
 
-During  this  time  preparations  are  being  made  in  the  bride-
-groom's house  for  the  arrival  of  the  bridal  party.  First  a  birch  is
+During  this  time  preparations  are  being  made  in  the  bridegroom's house  for  the  arrival  of  the  bridal  party.  First  a  birch  is
 planted  in  front  of  the  ijiirta  as  a  symbol  of  the  hoped-for  growth
 and  development  of  the  new  family,  and  on  this  tree  are  hung  fur
 coats  and  ongons.  As  the  party  conducting  the  bride  approach  her
@@ -7164,8 +6166,6 @@ p.  138.
 ^  Potanin,  Sketches  of  Xorth-Western  Mongolia,  1883,  vol.  iv,  p.  36.
 
 
-MARRIAGE  119
-
 on  comina:  near,  dismounts,  leaving  his  horse  to  be  lieUl  by  some
 of  his  companions,  runs  into  the  jiurta  without  greeting  any  one,
 and  sticks  the  arrow  in  the  west  tcnge,  or  partition  which  shuts
@@ -7173,8 +6173,7 @@ oK   the  fomily  sleeping-place   from    the  fire,   so  that  the  arrow
 points  westward.     Then  he  occupies  the  place  usually  given  to  the
 most  honoured  guest,  roughly  turning  out  the  occupant,  if  tliere
 happens  to  be  one,  even  if  he  should  be  a  person  held  in  the
-greatest  honour  ;  and  then  only  does  the  turuslii  greet  the  match-
-maker.    The  bridegroom's  friends  and  relatives  now  go  to  meet
+greatest  honour  ;  and  then  only  does  the  turuslii  greet  the  matchmaker.    The  bridegroom's  friends  and  relatives  now  go  to  meet
 the  approaching  bridal  train,  and  the  feast  is  begun  there  in  the
 road  ;  then  a  feast  is  held  in  the  house  of  the  bridegroom's  parents,
 and  another  in  that  of   the  matchmaker.     The  bride,  with   her
@@ -7192,8 +6191,7 @@ bridegroom  and  his  friends,  while  the  matchmaker  cries  aloud,
 *  Give  us  the  man  who  is  under  sentence ! '     The  bridegroom  is
 thus  summoned  thrice,  but  only  appears  at  the  third  call,  this
 being  hLs  first  appearance  during  the  whole  of  the  proceedings.
-The  matchmaker  puts  into  his  right  hand  one  end  of  the  handker-
-chief, giving  the  other  end  to  the  bride.     Thus  the  marriage  is
+The  matchmaker  puts  into  his  right  hand  one  end  of  the  handkerchief, giving  the  other  end  to  the  bride.     Thus  the  marriage  is
 concluded.     Now  an  old  mail,  not  a  shaman,  makes  a  speech  for
 their  benefit,  and  gives  them  a  blessing.     The  bridegroom  enters
 the  yurta  to  put  some  grease  in  the  fire  ;  and  when  the  bride  and
@@ -7212,11 +6210,8 @@ Langans  ^  says  that  after  the  wedding  a  wife  remains  with  her
 '  Tlie  Buryat,  1824,  vol.  i,  p.  59.
 
 
-120  SOCIOLOGY
-
 liusl)and  for  a  month  ;  then  he  lets  lier  go  for  six  months  to  her
-parents,  and  (hiring-  this  time  is  not  allowed  to  visit  her.  Khan-
-galoff,^  a  recent  investigator,  says  that  nowadays  the  wife  does
+parents,  and  (hiring-  this  time  is  not  allowed  to  visit  her.  Khangaloff,^  a  recent  investigator,  says  that  nowadays  the  wife  does
 not  come  to  live  with  her  husband  until  several  months  have
 passed  after  the  wedding,  which  is  held  in  his  house.  Potanin
 states  similarly  that  after  the  wedding-feast  the  wife  leaves  her
@@ -7233,8 +6228,7 @@ wife's  parents.
 
 The  bride  has  to  observe  the  following  restrictions :  (i)  she
 must  never  address  her  father-in-law  or  mother-in-law  by  name  ;
-(ii)  all  relatives  of  her  husband  older  than  he,  and  her  father-in-
-law  as  well,  she  must  call  Jchadam ;  (iii)  in  the  presence  of  a
+(ii)  all  relatives  of  her  husband  older  than  he,  and  her  father-inlaw  as  well,  she  must  call  Jchadam ;  (iii)  in  the  presence  of  a
 Jchadam  she  must  never  be  without  her  cap  and  face-covering ;
 (iv)  she  must  not  remove  or  change  her  dress  in  his  presence  ;
 (v)  her  sleeping-place  should  be  in  a  separate  ywr^a  ;  (vi)  if  she  meets
@@ -7265,8 +6259,6 @@ Biissia,  1902,  p.  65.
 
 *  Khangaloff",  'Customaiy  Law  among  the  Buryat,'  E.  R.,  1894,  p.  140.
 
-
-MARRIAGE  121
 
 marries  the  woman    to  some  one  else,  and   turns  over  tlie  new
 kalifm  to  her  tii'st  husbamls  family.
@@ -7311,18 +6303,14 @@ and  he  searches,  by  astronomical  calculations,  for  a  propitious  one.
 '  Samokvasoft",  op.  cit.,  p.  75.
 
 ^  Pallas  calls  Kalmuk,  the  Torgout,  Syungorian,  and  Durbat  tribes.
-(Op.  cit,  p.  204.)
 
 ^  Pallas,  Travels  through  Siheria  and  Tarlary,  part  i  (vol.  iii.  of  Trusler's
 Habitable  World  Described),  London,  1788,  p.  277.
 
-*  Op.  cit.,  p.  278.
 
 '  Jytecki,  Sketch  of  the  Mode  of  Life  of  tlie  Kalniuh  of  Astrakhan,
 pp.  21-2.     See  also  Tereshchenko,  The  Ultis  of  Khoshotsk,  1854,  p.  49.
 
-
-122  SOCIOLOGY
 
 The  new  tent  is  then  erected  ;  the  hridc,  with  her  parents  and
 rehitions,  goes  to  the  bridegroom,  who,  with  the  gcUunfj,  or  priest,
@@ -7343,8 +6331,7 @@ large  banquet  is  prepared,  and  those  who  carry  the  eatables  to
 table,^  served  up  in  large  wooden  vessels,  are  preceded  by  a  herald
 or  carver  riding  on  a  fox-coloured  horse,  splendidly  dressed,
 having  over  his  shoulders  a  long  tippet  of  fine  white  linen,  and
-his  hat  trimmed  with  black  fox  or  other  fur.  On  the  wedding-
-day  all  the  priests  of  the  iilus  read  prayers,  and  the  day  is  con-
+his  hat  trimmed  with  black  fox  or  other  fur.  On  the  weddingday  all  the  priests  of  the  iilus  read  prayers,  and  the  day  is  con-
 cluded with  a  variety  of  amusements,  as  horse-racing,  wrestling,
 shooting  with  the  bow,  &c.'
 
@@ -7368,9 +6355,6 @@ the  bride  is  not  allowed  to  see  these  people.
 1  Pallas,  op.  cit.,  p.  279.  =  Op.  cit.,  p.  34.  ^  Ibid.
 
 <  Op.  cit.,  p.  50.  °  Dianj  of  a  Jounieij,  vol.  ii,  p.  371.
-
-
-MARRIAGE  123
 
 
 XI.     Tin:  Samuyep.
@@ -7400,8 +6384,7 @@ that  he  may  get  as  much  for  his  daughter  as  he  can.'
 
 F.  G.  Jackson,  a  recent  traveller  among  these  people,  says  that
 the  matchmaker  takes  a  gift  (e.g.  a  good  fox-skin)  from  the  suitor
-to  the  chum  of  the  girl's  father.  On  his  second  visit  the  nego-
-tiator brings  with  him  a  stick  marked  with  as  many  notches  as  the
+to  the  chum  of  the  girl's  father.  On  his  second  visit  the  negotiator brings  with  him  a  stick  marked  with  as  many  notches  as  the
 suitor  proposes  to  give  deer.  If  the  price  is  accepted,  the  stick  is
 broken  in  two.  each  party  retaining  one  half.  '  After  this  there  is
 nothing  left  but  the  round  of  gluttonous  enjoyment  of  raw  flesh
@@ -7410,8 +6393,7 @@ marriage  festivities.'-  Jackson  adds  that  among  the  Yurak
 Samoyed  the  suitor  accompanies  the  matchmaker,  and  during  the
 negotiations  cooked  meat  and  vodka  are  consumed.  Waiting  for
 the  final  settlement,  the  suitor  sits  outside  in  his  sledge,  while  the
-deer  he  has  perhaps  i)resented  is  being  consumed.  The  match-
-maker, however,  mindful  of  his  client,  brings  him  out  some  of  the
+deer  he  has  perhaps  i)resented  is  being  consumed.  The  matchmaker, however,  mindful  of  his  client,  brings  him  out  some  of  the
 meat.
 
 ^  S.  Pallas,  Travels  through  Siberia  and  Taiiary,  part  iii.  (vol.  iv  of
@@ -7421,8 +6403,6 @@ Trusler's  The  Ifabltahle  World  Described,  London,  1788),  p.  12.
 journals  of  F.  G.  Jackson  by  A.  Montefiore,  Journal  of  the  Anthroj).
 Institute,  vol.  xxiv,  Aug.  1894-May  1895.
 
-
-124  SOCIOLOGY
 
 Tlie  Jiuli/m  generally  consists  of  a  variety  of  clothes,  household
 necessaries,  reindeer,  and  small  articles  purchased  from  the
@@ -7473,8 +6453,6 @@ of  divorce  the  Jcalt/m  is  returned.     Should  the  woman  die  soon  afte
 p.  476.
 
 
-MARRIAGE  125
-
 Iier  marriage,  the  wi^lower  claims  a  return  uf  the  htlf/itt,  if  respect
 to  tlie  deceased  does  not  prevent  it.'^
 
@@ -7493,8 +6471,7 @@ The  bride  does  not  go  to  her  husband's  home  until  some  time  has
 elapsed.  When  she  arrives  certain  ceremonies  are  held  whicli
 symbolize  the  capture  of  the  bride. -
 
-None  of  these  authors  makes  any  mention  of  a  custom  of  avoid-
-ance among  the  Samoyed.
+None  of  these  authors  makes  any  mention  of  a  custom  of  avoidance among  the  Samoyed.
 
 F.  G.  Jackson,^  from  whose  '  Notes '  quotation  was  made  above,
 found  that  polygamy  was  'not  in  disfavour'  among  the  Samoyed,
@@ -7503,8 +6480,7 @@ The  kali/m,  he  says,  with  which  a  wife  is  purchased  amounts
 sometimes  to  one  hundred  reindeer.  This  Jcali/m  is  recoverable,
 and  the  wife  is  returned  to  her  parents,  if  the  husband  finds  her
 unfaithful,  or  has  other  good  grounds  for  dissatisfaction  during  the
-first  year  of  marriage.  He  also  states  that  a  Samoyed  will  some-
-times sell  his  wife  for  a  few  teams  of  reindeer,  or  barter  her  for
+first  year  of  marriage.  He  also  states  that  a  Samoyed  will  sometimes sell  his  wife  for  a  few  teams  of  reindeer,  or  barter  her  for
 another  man's  wife.
 
 XII.     The  Finnic  Tribes.
@@ -7525,8 +6501,6 @@ adhere  to  Paganism,  take  as  many  wives  as  they  can  afford.    They
 *  S.  Pallas,  Travels  through  Siberia  and  Taiianj,  part  i  (vol.  iii  of
 Trusler's  HahltahJe  World  Described,  Lonaon,  1788),  p.  302.
 
-
-126  SOCIOLOGY
 
 are  fond  of  marrying  sisters  of  other  families;  and  believe^  that
 a  man's  marrying  with  a  wife's  sister  brings  good  hick,  and  by
@@ -7552,27 +6526,19 @@ inquires  the  Icalijm,  or  price  to  be  paid.  The  negotiation  being
 entered  into,  the  poor  suitor  runs  to  and  fro,  from  one  tent  to  the
 other,  to  settle  matters  between  the  two,  till  the  agreement  is
 concluded.  Then  the  bridegroom  goes  himself  and  pays  part  of
-the  Jcali/m,  the  whole  being  seldom  paid  at  once,  it  being  pro-
-portioned to  the  fortune  the  father  gives  with  his  daughter.^
+the  Jcali/m,  the  whole  being  seldom  paid  at  once,  it  being  proportioned to  the  fortune  the  father  gives  with  his  daughter.^
 A  rich  Ostyak  girl  is  not  married  without  a  gift  of  one  hundred
-reindeer  and  an  assortment  of  all  kinds  of  furs.  The  first  instal-
-ment being  paid,  the  bridegroom  directs  the  father  to  have  a  bed
+reindeer  and  an  assortment  of  all  kinds  of  furs.  The  first  instalment being  paid,  the  bridegroom  directs  the  father  to  have  a  bed
 prepared  for  him  in  his  hut,  and  to  have  his  daughter  ready.  If
 the  father-in-law  agrees  to  this  and  accepts  the  first  payment,  the
-bridegroom  comes  that  night,  and  lies  on  the  bed,  or  spot,  ap-
-pointed for  him.  Some  time  after,  the  bride  lies  down  near  him,
+bridegroom  comes  that  night,  and  lies  on  the  bed,  or  spot,  appointed for  him.  Some  time  after,  the  bride  lies  down  near  him,
 on  a  separate  bench,  and  covered  with  a  i:)articular  fur,  till  the
 fires  are  put  out,  Next  morning  the  girl's  mother  inquires  of  the
 bridegroom  whether  he  is  satisfied  with  her  daughter.  If  he
 replies  in  the  affirmative,  he  must  present  the  mother  with
-a  garment  and  a  reindeer  ;  and  the  mother  then  cuts  the  reindeer-
-skin  on  which  tlie  young  couple  lay  into  pieces,  and  spreads  it
+a  garment  and  a  reindeer  ;  and  the  mother  then  cuts  the  reindeerskin  on  which  tlie  young  couple  lay  into  pieces,  and  spreads  it
 around  in  triumph  ;    but  should  the  bridegroom  be  dissatisfied,
 
-1  Op.  cit.,  p.  303.  -  Op.  cit..  p.  304.
-
-
-MARRIAGE  127
 
 the  mother  gives  him  a  iviiuleor.  The  bridegroom,  utter  this,
 sleeps  with  his  bride,  but  cannot  take  her  home  till  the  whole  of
@@ -7609,8 +6575,7 @@ wife  but  as  a  necessary  domestic  animal,  and  scarcely  favours  her
 with  a  good  word  for  all  her  hard  labour,  yet  he  dares  not  strike
 her,  even  for  the  greatest  crime,  unless  he  has  consent  of  her
 father ;  for,  in  such  a  case,  the  provoked  wife  would  run  to  her
-parents  and  persuade  her  father  to  return  the  hdijin  to  his  son-in-
-law,  and  she  would  marry  some  other  man.
+parents  and  persuade  her  father  to  return  the  hdijin  to  his  son-inlaw,  and  she  would  marry  some  other  man.
 
 '  A  Sho)-t  DescriptKDi  of  the  Oafi/al-  y  at  ion,  pp.  42-3.
 
@@ -7620,15 +6585,12 @@ law,  and  she  would  marry  some  other  man.
 
 °  More  recent  accounts  than  that  of  Pallas  state  that  for  several  days
 following  the  wedding  the  young  couple  must  not  so  much  avoid  as
-take  care  to  cover  their  faces  if  they  should  meet  their  respective  parents-
-in-law.  The  woman,  however,  has  to  cover  her  face  before  her  father-in-
+take  care  to  cover  their  faces  if  they  should  meet  their  respective  parentsin-law.  The  woman,  however,  has  to  cover  her  face  before  her  father-in-
 law,  or  other  male  connexions  on  that  side,  during  the  whole  of  her
 married  life.  (S.  Patkanoff,  Die  Iiiysch-Ostjaken,  vol.  i,  p.  139.  See  also
 A.  T.  Dmitrieff-Mamonoffand  K.  M.  Golodnikoff,  Note-hook  of  the  Tobolsk
 Goi-eniment,  1S84,  pp.  19-20. _)
 
-
-128  SOCIOLOGY
 
 '  These  people  kno^v  little  about  jealousy.'
 
@@ -7663,14 +6625,12 @@ difficult  labour  to  the  father,  who  must  have  built  sledges  or  bent
 wood  while  the  child  was  being  born.'^
 
 A  woman  gave  birth  to  her  child  kneeling  and  in  the  presence
-of  all  the  villagers  without  regard  either  to  sex  or  age.  The  new-
-born child  was  wiped  with,  and  wrapped  in,  a  grass  called  touchitch  ;
+of  all  the  villagers  without  regard  either  to  sex  or  age.  The  newborn child  was  wiped  with,  and  wrapped  in,  a  grass  called  touchitch  ;
 a  stone  knife  was  used  to  cut  the  umbilical  cord,  and  the  placenta
 was  thrown  to  the  dogs.  Then  all  the  inhabitants  of  the  camp
 rejoiced  in  the  infant,  nursing  and  fondling  it,  but  no  further
 ceremonies  were  remarked  by  Krasheninnikoff.^  An  old  woman
-assisted  at  the  accouchement,  but  she  was  not  a  professional  mid-
-wife ;  any  one,  often  the  mother  of  the  woman  concerned,  per-
+assisted  at  the  accouchement,  but  she  was  not  a  professional  midwife ;  any  one,  often  the  mother  of  the  woman  concerned,  per-
 formed this  office.  A  woman  who  wished  to  become  pregnant
 had  to  eat  spiders  ;  some  of  them  also  for  this  purpose  would  eat
 the  umbilical  cord  together  with  a  grass  called  kiprei.  On  the
@@ -7689,8 +6649,6 @@ in  accordance  with  his  general  theory.
 2  Op.  cit.,  p.  172.  '   3  Op.  cit.,  pp.  172-3.
 
 
-130  SOCIOLOGY
-
 The  practice  of  infanticide  was  also  sometimes  clue  to  certain
 beliefs — for  instance,  that  one  of  a  pair  of  twins  must  be  killed,
 and  that  a  child  born  during  a  storm  must  be  killed,  though  in
@@ -7701,16 +6659,14 @@ again.
 
 The  father  gave  to  the  child  the  name  of  one  of  his  ancestors,
 but,  according  to  Krasheninnikoff,  without  ceremonies.  Among
-the  men's  names  mentioned  by  this  author  are  Kemleia — *  never-
-die';  Chihouika—* spider ' ;  Biroutch — 'he  who  was  burned
+the  men's  names  mentioned  by  this  author  are  Kemleia — *  neverdie';  Chihouika—* spider ' ;  Biroutch — 'he  who  was  burned
 alive ' ;  Kene — '  mischievous  spirit  '.^
 
 II.     The  Yukaghie.
 
 All  the  cases  of  child-birth  which  Jochelson'^  observed  among
 the  Yukaghir  and  Yakut  were  very  difficult,  and  the  barbarous
-practices  attendant  upon  them  produce  nervous  diseases  and  pre-
-mature age  in  the  mothers.
+practices  attendant  upon  them  produce  nervous  diseases  and  premature age  in  the  mothers.
 
 The  foundation  of  these  practices  is  the  belief  that  difficult
 labour  and  unfortunate  birth  are  caused  by  the  entrance  of  an
@@ -7779,8 +6735,7 @@ to  walk  about  the  room  in  order  to  facilitate  the  delivery — then
 she  is  placed  on  the  knees  of  her  husband  or  her  father,  who
 squeezes  and  presses  her  abdomen  on  all  sides  with  his  arm,
 sometimes  assisted  by  the  women ;  sometimes  another  man
-assists  the  first,  to  add  more  pressure  upon  her  abdomen.'^  Fre-
-quently the  woman  dies  under  this  treatment,  a  result  which  was
+assists  the  first,  to  add  more  pressure  upon  her  abdomen.'^  Frequently the  woman  dies  under  this  treatment,  a  result  which  was
 witnessed  by  Jochelson  himself  on  one  occasion.     After  the  child
 
 '  Ibid.
@@ -7793,8 +6748,6 @@ been  borrowed  from  the  latter  people.
 
 K  2
 
-
-132  SOCIOLOGY
 
 is  born,  the  micl^Yife  massages  the  abdomen  of  the  mother  or
 forces  her  to  walk  about.  Then  she  is  dressed  and  lies  down  '  to
@@ -7819,8 +6772,7 @@ called  pacil,  the  whole  village  is  invited,  whereas  a  marriage  has
 no  special  ceremonies  connected  "s^dth  it.^  A  name  was  formerly
 not  given  to  the  child  until  it  could  speak,  but  now  it  is  given
 soon  after  birth  ;  the  former  arrangement  allowed  the  child  to
-give  the  name  of  the  ancestor  aihi  of  whom  he  is  the  reincarna-
-tion and  whose  name  he  ought  to  bear.  It  is  still  customary  for
+give  the  name  of  the  ancestor  aihi  of  whom  he  is  the  reincarnation and  whose  name  he  ought  to  bear.  It  is  still  customary  for
 the  parents,  after  the  Ijirth  of  the  first  child,  to  be  known  by  its
 name — thus,  '  the  Father  and  Mother  of  So-and-So.'  Jochelson
 knew  a  blacksmith  on  the  River  Nelemna,  whose  Christian  name
@@ -7886,14 +6838,11 @@ During  the  time  of  labour  no  stranger,  especially  of  the  male
 sex,  may  enter  the  inner  room.  '  It  is  feared  that  some  evil  but
 invisible  influence  will  cling  to  them  and  try  to  approach  the
 
-'  Op.  cit.,  p.  106.
 
 •^  Bogoras,  The  Chukchee,  .J.  N.P.E.,  vol.  vii,  1909,  p.  36.  ^  Ibid.
 
 *  Bogoras,  The  Chukchee,  1907,  p.  509.
 
-
-134  SOCIOLOGY
 
 lying-in  woman.'  ^  During  the  actual  birth  everybody  must  go
 away,  even  the  female  members  of  the  family,  except  one  old
@@ -7922,8 +6871,7 @@ The  woman  also  may  not  leave  the  tent  before  the  performance
 of  this  blood-painting  ceremony,  as  she  may  thus  bring  on  a  violent
 snowstorm.  '  The  after-birth  is  placed  on  the  ground  in  the  corner
 of  the  tent,  three  small  sticks  are  tied  together  in  imitation  of  the
-three  principal  poles  of  the  tent-frame,  and  are  set  over  the  after-
-birth ;  when  the  camp  is  left,  a  piece  of  leather  is  Avrapped  around
+three  principal  poles  of  the  tent-frame,  and  are  set  over  the  afterbirth ;  when  the  camp  is  left,  a  piece  of  leather  is  Avrapped  around
 them  to  represent  the  tent-cover.  The  Maritime  Chukchee  and
 the  Koryak  place  the  after-birth  and  its  small  tent  outside  the
 house  in  the  open  country.'*
@@ -7955,8 +6903,7 @@ more  times  if  the  child  does  not  thrive,  but  it  is  only  a  shaman  o
 '  knowing  person '  who  can  perform  the  necessary  ceremony.'^
 
 Many  protective  incantations  are  pronounced  during  the  child's
-early  years,  and  are  generally  accompanied  by  the  tying  of  neck-
-laces or  pictures  of  '  guardians '  to  the  child's  garments.  This  is
+early  years,  and  are  generally  accompanied  by  the  tying  of  necklaces or  pictures  of  '  guardians '  to  the  child's  garments.  This  is
 especially  advisable  when  the  first  child  has  not  survived,  and  in
 case  he  has  left  traces  for  the  second  one  to  follow.  The  period
 chosen  is  that  of  the  new  moon,  but  in  the  daytime,  and  Bogoras
@@ -7983,7 +6930,6 @@ the  child.^
 ^  Similar  methods  of  naming  children  are  in  use  among  the  Asiatic
 Eskimo.     (Bogoras,  ibid.)
 
-2  Op.  cit.,  p.  512.  3  Op.  cit,  p.  513.
 
 ■•  Among  the  Asiatic  Eskimo  'a  child  born  prematurely  is  put  into
 the  soft  skin  of  a  big  sea-bird.  This  skin,  taken  off  whole  and  turned,
@@ -7993,9 +6939,6 @@ position  the  babe  is  kept  from  a  week  to  four  weeks,  during  which  t
 it  is  fed  with  small  quantities  of  oil  as  well  as  with  mother's  milk  drawn
 from  her  breasts.  Little  by  little  the  portion  of  milk  is  increased,  and  at
 last  the  babe  is  allowed  to  suckle.'     (Bogoras,  op.  cit.,  p.  514.)
-
-
-136  SOCIOLOGY
 
 
 IV.     The  Kokyak.
@@ -8017,8 +6960,7 @@ of  the  life  of  the  person  who  will  reincarnate  the  soul  is  indicated
 by  the  length  of  the  strap  which  is  attached  to  the  soul's  neck  or
 to  its  thumb.  When  the  child  is  born  the  father  gives  him  the
 name  of  the  ancestor  whose  soul  has  entered  him.  This  is  done  in
-the  following  way :  *  The  father  of  the  new-born  uses  a  divining-
-stone  called  "Little-Grandmother"  {An-apel)  to  discover  whose  soul
+the  following  way :  *  The  father  of  the  new-born  uses  a  diviningstone  called  "Little-Grandmother"  {An-apel)  to  discover  whose  soul
 has  entered  the  child.  The  divining-stone  is  hung  by  a  string  to
 a  stick,  the  latter  is  lifted  and  the  stone  begins  to  swing ;  or  it  is
 hung  from  a  tripod  made  of  small  sticks.  The  father  of  the  child
@@ -8027,8 +6969,7 @@ wife's  side.  When  the  name  of  the  relative  whose  soul  has
 entered  the  child  is  mentioned,  the  divining-stone  begins  to  swing
 more  quickly.  Another  way  of  determining  the  identity  of  the  soul
 is  by  observation  of  the  behaviour  of  the  child  itself.  A  number
-of  names  are  mentioned.  If  the  child  cries  when  a  name  is  pro-
-nounced it  shows  that  it  is  not  the  name  of  the  soul  reborn  in  the
+of  names  are  mentioned.  If  the  child  cries  when  a  name  is  pronounced it  shows  that  it  is  not  the  name  of  the  soul  reborn  in  the
 child.  When  the  proper  name  is  pronounced  the  child  stops
 crying,  or  begins  to  smile.  After  the  name  has  been  given,
 the  father  takes  the  child  in  his  arms,  carries  it  out  from  the
@@ -8094,8 +7035,6 @@ Schrenck,  'is  not  followed  by  any  ceremonies,  the  father  or  any
 
 =>  Op.  cit.,  p.  12.
 
-
-138  SOCIOLOGY
 
 other  Gilyak  announces  the  name.'^  No  .shaman  is  present  either  at
 the  birth  or  at  the  giving  of  the  name.  Only  wealthy  people  have
@@ -8194,10 +7133,7 @@ he  will  spend  three  whole  days  carrying  the  child  in  his  bosom.
 '  Ibid.  2  Op.  cit.,  p.  28.  ^  Op.  cit.,  p.  29.
 
 
-140  SOCIOLOGY
-
-At  the  end  of  the  year  this  saliiJch  (probably  the  amulet)  is  re-
-turned to  the  shaman.  Then  the  parents  prepare  fine  new
+At  the  end  of  the  year  this  saliiJch  (probably  the  amulet)  is  returned to  the  shaman.  Then  the  parents  prepare  fine  new
 garments  and  other  presents,  sometimes  even  a  horse,  and  take
 them  to  the  shaman's  house,  where  they  are  hospitably  received.
 One  shaman  can  have  at  the  same  time  as  many  as  twenty  nai/dji,
@@ -8265,8 +7201,7 @@ VIII.    The  Yakut.
 
 According  to  Sieroszewski,  ^  Yakut  marriages  are  generally
 fruitful,  averaging  ten  children  to  a  woman,  but  becoming  less  so
-towards  the  northern  districts,  although  the  Yakut  are  every-
-wliere  more  prolific  than  the  Tungus.  The  lack  of  children  they
+towards  the  northern  districts,  although  the  Yakut  are  everywliere  more  prolific  than  the  Tungus.  The  lack  of  children  they
 ascribe  entirely  to  the  woman — as  their  proverb  says,  *If  there
 are  no  children,  the  woman  is  to  blame.'"
 
@@ -8289,16 +7224,13 @@ the  pains  of  labour.'  ^
 2  Potanin,  op.  cit.,  p.  627.  ^  Ibid.  ^  Ibid.
 ^  12  Lat  w  Kraju  Yakutow,  1900,  p.  413.
 
-^  Out  of  140  Yakut  coui'jlesF.  Kohn  (Fiziologiczne  i  hiologiczne  spostrze-
-zenia  nad  Yakutami,  p.  64)  found  one  woman  who  had  had  thirty,
+^  Out  of  140  Yakut  coui'jlesF.  Kohn  (Fiziologiczne  i  hiologiczne  spostrzezenia  nad  Yakutami,  p.  64)  found  one  woman  who  had  had  thirty,
 another  twenty-one,  and  a  third  Beventeen  children.
 
 ■^  The  Yukaghir  and  Yukaghirized  Tungus,  J.  N.  P.  E.,  vol.  ix,  1910,  p.  101.
 
 »  Op.  cit.,  p.  102.
 
-
-142  SOCIOLOGY
 
 In  1895  Jochelson  himself  witnessed  such  cruel  treatment  in
 the  district  of  the  Kolyma  Eiver,  as  a  result  of  which  the  woman
@@ -8341,7 +7273,6 @@ of  fat,  which  they  eat  and  melt  and  drink,  sacrificing  a  portion  to
 the  fire.  On  the  third  day  the  friends  and  relations  visit  the
 mother  and  child,  and  it  is  customary  for  the  former  to  serve  the
 
-1  Op.  cit.,  p.  102.
 
 2  TJie  Vihnjsl:  District  of  the  Yakutsk  Territory,  1887,  vol.  iii,  p.  90.
 
@@ -8390,14 +7321,12 @@ among  the  Lapps.
 After  Christian  baptism  °^  the  child  received  another — Lapp —
 name  in  the  ceremony  called  '  same  nahma '.  This  name  was
 usually  that  of  an  ancestor,  and  had  been  revealed  to  the  mother
-in  a  dream  or  during  shamanistic  performances.  The  name-
-giving  ceremony  was  usually  performed  by  a  woman — often  by
+in  a  dream  or  during  shamanistic  performances.  The  namegiving  ceremony  was  usually  performed  by  a  woman — often  by
 the  mother  herself.  During  child-birth  the  woman  was  under
 the  protection  of  a  goddess  called  Saralla  (Creator-woman).
 
 '  Maak,  op.  cit.,  p.  91.  ^  Sieroszewski.  op.  cit.,  pp.  413-14.
 
-'  Op.  cit.,  p.  103.  *  Op.  cit.,  p.  104.
 
 »  Kaarle  Krohn,  E.  R.  E.,  '  Birth ',  vol.  ii,  1909,  p.  647.
 
@@ -8414,8 +7343,7 @@ thrive,  this  ceremony  could  be  repeated  and  the  name  changed.
 The  name-giving  ceremony  is  similar  to  that  found  all  over
 Siberia,  but  wherever  water  is  used  we  may,  with  Krohn,  assume
 that  this  is  due  to  Christian  influence.  'As  late  as  1534  the
-Finns  under  the  dominion  of  Novgorod  (the  Chudes)  had  oracle-
-men  whom  they  summoned  to  give  a  new-born  child  its  name
+Finns  under  the  dominion  of  Novgorod  (the  Chudes)  had  oraclemen  whom  they  summoned  to  give  a  new-born  child  its  name
 — a  ceremony  which  they  performed  "'  in  their  own  peculiar
 way  ".'2
 
@@ -8464,8 +7392,7 @@ were  buried  in  hollow  tree-trunks.
 
 II.  The  Yukaghir,
 
-Among  the  Yukaghir  the  dead  were  formerly  placed  on  plat-
-forms raised  on  poles.  Those  of  the  Kolyma  district  used  to
+Among  the  Yukaghir  the  dead  were  formerly  placed  on  platforms raised  on  poles.  Those  of  the  Kolyma  district  used  to
 distribute  the  flesh  and  bones  among  the  relatives,  who  would
 dry  the  portions  they  received  and  place  them  in  leather  bags.^
 These  were  used  as  amulets,  called  '  Grandfathers ',  and  were
@@ -8480,8 +7407,6 @@ Barykoff,  and  who  have  no  timber  or  driftwood  for  building  pyres,
 '  Description  of  the  Country  of  Kamchatka,  1755,  vol.  ii,  pp.  135-6.
 ^  Bogoras,  The  Chukchee,  1907,  p.  517.
 
-
-146  SOCIOLOGY
 
 tlie  corpses,  dressed  in  funeral  attire,  are  let  down  into  the  ocean ;
 they  tie  them  to  long  poles,  tow  them  out  to  sea,  and  then  push
@@ -8534,8 +7459,7 @@ place,  the  sacrificial  reindeer  is  killed  and  the  sledge,  which  is
 usually  specially  made  for  the  occasion,  is  broken  up,  and,  with
 all  other  objects  used  in  the  ceremony,  is  formed  into  a  pile  on
 which  the  broken  bones  of  the  reindeer  are  placed.  The  followers
-next  transform  themselves  into  ravens  or  foxes,  making  appro-
-priate noises,  the  straps  which  held  the  body  to  the  sledge  are
+next  transform  themselves  into  ravens  or  foxes,  making  appropriate noises,  the  straps  which  held  the  body  to  the  sledge  are
 torn  in  pieces,  and  the  clothes  torn  off  and  placed  beside  the  body,
 which  is  then  covered  with  pieces  of  reindeer  flesh.  'Then  "the
 fortifier",  or  nearest  relative  of  the  deceased,  proceeds  to  rip  up
@@ -8571,15 +7495,12 @@ dead '  or  *  fetching  of  iron ',  the  latter  title  being  due  to  the  f
 
 *  It  is  curious  to  note  that,  on  p.  518,  Bogoras  states  that  the  dead
 body  or  any  portion  of  it  is  especially  harmful  and  is  used  in  preparing
-dreaded  spells.  It  appears  that  according  to  the  quality  of  the  incanta-
-tion the  dead  body  or  its  clothes  may  be  either  harmful  or  protective.
+dreaded  spells.  It  appears  that  according  to  the  quality  of  the  incantation the  dead  body  or  its  clothes  may  be  either  harmful  or  protective.
 
 »  Op.  cit.,  p.  532.  «  Op.  cit.,  p.  528.
 
 L  2
 
-
-148  SOCIOLOGY
 
 that  the  iron  implements  are  brought  away  from  the  pyre  and
 wooden  ones  left  in  their  stead.  If  they  find  that  the  body  has
@@ -8591,11 +7512,9 @@ The  funeral  rites,  like  the  Inrth  rites,  terminate  on  the  fifth
 day  :  the  corpse  is  again  visited  '  to  see  if  wild  beasts  have  at  last
 mutilated  the  body  ',^  and,  on  returning  from  this  visit,  the
 antlers  ceremony  is  performed  (even  if  it  is  out  of  season),  and
-then  the  whole  family  remove  their  tent  to  another  spot.  '  Es-
-pecially is  this  the  case  if  the  corpse  was  carried  out,  as  sometimes
+then  the  whole  family  remove  their  tent  to  another  spot.  '  Especially is  this  the  case  if  the  corpse  was  carried  out,  as  sometimes
 happens,  through  the  usual  entrance.'"^  The  following  year  the
-family  leaves  some  more  antlers  on  the  pyre,  or  a  communal  sacri-
-fice of  antlers  for  the  dead  in  general  is  performed,  and  in  this
+family  leaves  some  more  antlers  on  the  pyre,  or  a  communal  sacrifice of  antlers  for  the  dead  in  general  is  performed,  and  in  this
 way  arise  high  mounds  which  are  termed  '  Antler  Stores  ',  and  are
 associated  with  the  family  rather  than  the  individual.'*  Of  course,
 in  the  case  of  the  Maritime  Chukchee,  we  do  not  find  so  many
@@ -8609,8 +7528,7 @@ purifying  ceremony.' ''
 
 There  are  several  places  of  abode  for  the  dead,  where  life
 similar  to  the  earthly  is  led  by  the  inhabitants,  who  are  often
-called  either  '  Upper  People '  or  '  Lower  People ',  that  is,  inhabi-
-tants of  several  worlds  situated  either  above  the  earth  or  under-
+called  either  '  Upper  People '  or  '  Lower  People ',  that  is,  inhabitants of  several  worlds  situated  either  above  the  earth  or  under-
 ground.'^ '  Children  that  die  here  are  born  there  and  vice
 versa.'  While  some  of  the  dead  are  in  the  upper  worlds,  their
 usual  abode  is  under  the  ground."  A  dead  person  has  to  traverse
@@ -8683,8 +7601,6 @@ evidence,  while  all  funeral  rites  take  into  account  death  by  the  kala
 '  Op.  cit.,  pp.  1-2.
 
 
-150  SOCIOLOGY
-
 The  peninelau  live  in  the  underground  world  in  similar  villages
 and  in  a  similar  way  to  their  manner  of  life  on  earth,  and  the
 new-comer  at  once  finds  his  place  among  his  relatives.  At  the
@@ -8697,8 +7613,7 @@ earth  was  formerly  much  easier,  and  on  the  occasion  of  the
 burning  of  a  corjjse  advantage  is  taken  of  the  opportunity  by
 many  people  to  place  presents  for  their  relatives  on  the  same
 pyre.  '  In  olden  times,  children  killed  their  aged  parents.  This
-custom,  which  still  prevails  among  the  Chukchee,  is  now  com-
-pletely abandoned.'-  On  the  contrary,  if  the  dying  man  is  able
+custom,  which  still  prevails  among  the  Chukchee,  is  now  completely abandoned.'-  On  the  contrary,  if  the  dying  man  is  able
 to  eat  he  is  given  the  choicest  morsels  ;  if  the  agony  lasts  long  he
 is  turned  on  to  his  left  side,  because  they  think  that  thus  he  will  die
 sooner.  Immediately  on  the  death  of  a  person  the  news  is  spread
@@ -8709,8 +7624,7 @@ head  of  the  dead  on  his  knees  until  all  the  inhabitants  of  the
 village  have  been  informed '  ^  ;  and  only  then  is  the  deceased
 placed  on  his  bed  and  his  face  carefully  covered.  In  former
 times,  the  whole  settlement  ceased  work  on  the  occasion  of
-a  death,  but  this  is  now  done  only  by  the  members  of  the  house-
-hold who  are  entirely  occupied  in  their  preparations  for  the
+a  death,  but  this  is  now  done  only  by  the  members  of  the  household who  are  entirely  occupied  in  their  preparations  for  the
 funeral.  Tlie  men  prepare  the  pyre,  the  women  the  clothes.
 The  funeral  garment  is  elaborately  embroidered.  This  has  been
 secretly  made  during  the  man's  lifetime  by  a  woman,  and  it  must
@@ -8762,8 +7676,7 @@ immediately  after  the  burning  of  the  body,  and  among  the
 Maritime  Koryak  at  the  end  of  ten  days.^  Annual  sacrifices  for
 the  dead  are  still  performed  among  the  Koryak,  and  consist
 either  in  slaughtering  reindeer  or  in  placing  antlers  on  the  spot
-where  the  body  was  burned,  though  some  Koryak  content  them-
-selves with  sending  presents  to  their  dead  relatives  on  the  occasion
+where  the  body  was  burned,  though  some  Koryak  content  themselves with  sending  presents  to  their  dead  relatives  on  the  occasion
 of  another  funeral.  Jochelson  thinks  that  some  traditions  point
 to  another  form  of  funeral  rites  according  to  which  the  body  was
 left  in  the  desei-ted  house.'''
@@ -8781,8 +7694,6 @@ bad  spirits,  who  usually  do  not  continue  to  persecute  the  deceased  ;
 *  Op.  cit.,  p.  130.  5  Op.  cit..  130.  «  Op.  cit.,  p.  114.
 
 
-152  SOCIOLOGY
-
 but  before  the  soul  can  find  its  resting-place  {Mhj-vo,  the  habitation
 of  the  dead)  it  requires  much  care  and  attention  from  its  relatives
 on  earth.  The  body  is  clothed  in  fine  new  garments,  beautifully
@@ -8797,8 +7708,7 @@ should  reign  where  the  dead  lie.
 When  everything  is  ready,  the  corpse  is  tied  to  the  sledge  with
 leather  straps.  The  dead  man's  favourite  dog  is  placed  next  him
 for  a  time,  and  will  receive  and  keep  for  a  few  months  a  portion  of
-his  master's  soul.  During  this  time  the  dog  lies  in  the  sleeping-
-place  and  receives  the  best  food  ;  this  ceases  when  the  portion  of
+his  master's  soul.  During  this  time  the  dog  lies  in  the  sleepingplace  and  receives  the  best  food  ;  this  ceases  when  the  portion  of
 the  soul  returns  with  all  the  other  souls  to  its  master  in  Mly-vo.^
 When  the  corpse  is  brought  to  the  spot  chosen  for  the  funeral  it  is
 put  on  the  top  of  a  symmetrical  pyre,  with  its  face  towards  the  west ;
@@ -8837,8 +7747,7 @@ CUSTOMS   CONNECTED   WITH   DEATH  153
 buried  at  once,  as  its  soul  does  not  wander  after  death  ;  again,  that
 of  a  person  killed  by  a  bear  is  placed  in  a  shed  called  chijr-nijykh,
 near  the  plac^  of  the  accident,  and  food  is  brought  thither  several
-times.^  His  soul,  however,  goes  to  the  forest,  and  becomes  trans-
-formed into  a  bear.-
+times.^  His  soul,  however,  goes  to  the  forest,  and  becomes  transformed into  a  bear.-
 
 According  to  Sternberg,  for  a  few  months,  and  according  to
 Schrenck,  for  a  year,  the  relatives  visit  the  raff  with  presents
@@ -8867,8 +7776,7 @@ or  Kanun-moshiri  ('the  land'  or  'country  of  gods'),  and  the
 'wicked'  to  Tei-nei-pdkna-moshiri  ('the  wet  underground  place ').^
 But  as  the  common  word  for  dying  is  ra-i-oman,  i.  e.  '  going  to  the
 lower  place ',^  and  as,  during  the  ceremonies  of  sacrificing  to
-ancestors,  they  pray  :  '  0  ye  ancestors  now  dwelling  in  the  under-
-world ','  it  seems  that  the  former  ideas  of  a  future  life  were
+ancestors,  they  pray  :  '  0  ye  ancestors  now  dwelling  in  the  underworld ','  it  seems  that  the  former  ideas  of  a  future  life  were
 associated  rather  with  the  underworld.'*
 
 On  the  other  hand,  there  exists  among  them  at  present  the  notion
@@ -8887,8 +7795,6 @@ pierce  the  skies ',  '  to  sleep  the  other  sleep ',  but  they  are  not  
 common  use.
 
 
-154  SOCIOLOGY
-
 six  below  the  earth.  Batchelor  calls  these  six  heavens  and  six
 hells.i
 
@@ -8900,12 +7806,10 @@ women,  who  do  not  join  in  religious  ceremonies  as  a  rule,  take  part
 in  the  sacrifices  for  dead  husbands  and  ancestors.
 
 '  The  ceremony  of  ancestor- worship  is  called  shinnurappa,  i.  e.
-•'libation-dropping",  and  takes  place  outside  the  huts,  by  the  east-
-end  window  and  a  little  towards  the  west.'  Meals  and  fetishes  are
+•'libation-dropping",  and  takes  place  outside  the  huts,  by  the  eastend  window  and  a  little  towards  the  west.'  Meals  and  fetishes  are
 offered  and  prayers  are  said.  Batchelor  quotes  the  following
 prayer:  '0  ye  ancestors,  now  dwelling  in  the  underworld,  we
-offer  you  beer  and  lees,  receive  them  and  rejoice.  Your  grand-
-children have  met  together  specially  to  offer  these  things.  Rejoice  !
+offer  you  beer  and  lees,  receive  them  and  rejoice.  Your  grandchildren have  met  together  specially  to  offer  these  things.  Rejoice  !
 Watch  over  us  and  keep  us  from  sickness.  Give  us  a  long  life  so
 that  we  may  continue  to  offer  such  gifts.'
 
@@ -8947,8 +7851,7 @@ and  often  covered  with  blood,  and  in  the  winter  the  way  is  especiall
 trying  owing  to  violent  storms.  In  some  cases  the  soul  here  dies
 the  'second  death  '.^  In  connexion  with  the  future  life,  Kink  says
 that  the  Greenland  Eskimo  believe  in  two  abodes  of  the  dead,  one
-in  the  sky  and  one  below  the  earth  ;  of  the  two,  the  latter  is  pre-
-ferred, because  the  former  is  cold  and  deficient  in  food.  Here  the
+in  the  sky  and  one  below  the  earth  ;  of  the  two,  the  latter  is  preferred, because  the  former  is  cold  and  deficient  in  food.  Here  the
 inhabitants  occupy  themselves  by  playing  ball  with  the  head  of
 a  walrus,  and  this  game  causes  the  Aurora  Borealis,^  The
 American  Central  Eskimo,  on  the  other  hand,  imagine  that
@@ -8988,8 +7891,6 @@ in  Siberia,  1906,  vol.  i,  part  ii,  p.  282.
 *  Ibid.
 
 
-156  SOCIOLOGY
-
 try  to  obliterate  the  tracks  they  have  made  in  the  snow,  or  else
 cut  down  trees  so  that  .they  fall  across  the  way,  in  order  to  prevent
 the  return  of  the  dead.^  Maak  gives  the  following  description  of
@@ -9000,11 +7901,9 @@ eight  feet  high  ;  on  the  right  side  of  the  corpse  lay  the  palma
 (a  long  knife  with  a  wooden  handle),  and  a  very  elaborate  sheath
 containing  six  arrows,  on  the  left-hand  side,  a  bow ;  beside  the
 knees  was  a  small  wooden  box  containing  some  arrows  of  copper
-or  of  mammoth-bone,  beside  the  feet  there  lay  a  copper  cooking-
-pan  with  a  pierced  bottom  in  which  had  been  placed  the  stomach
+or  of  mammoth-bone,  beside  the  feet  there  lay  a  copper  cookingpan  with  a  pierced  bottom  in  which  had  been  placed  the  stomach
 of  a  reindeer  filled  with  the  flesh  of  that  animal — the  bottom  must
-be  accurately  pierced,  though  Maak  could  not  discover  the  signifi-
-cance of  this.  A  few  paces  from  this  grave,  stumps  were  fixed  in
+be  accurately  pierced,  though  Maak  could  not  discover  the  significance of  this.  A  few  paces  from  this  grave,  stumps  were  fixed  in
 the  ground,  and  on  them  the  skin  of  the  sacrificed  reindeer  was
 exposed.^
 
@@ -9054,8 +7953,7 @@ the  dead  man,  making  libations,  and  at  a  place  half-way  to  the
 cemetery  they  set  a  table  with  eatables.  On  arrival  at  the  cemetery
 the  dead  body  is  placed  upon  a  felt  mat,  and  the  ninth  arrow  is
 discharged  in  the  direction  of  the  house,  the  remaining  eight,  with
-quiver  and  bow,  having  been  placed  with  the  body  to  enable  the  de-
-ceased to  defend  good  people  from  evil  spirits.  All  the  other  marks
+quiver  and  bow,  having  been  placed  with  the  body  to  enable  the  deceased to  defend  good  people  from  evil  spirits.  All  the  other  marks
 of  the  shaman's  calling  are  either  broken  or  burnt.  A  pyre  is  then
 erected,  they  set  the  body  on  fire,  kill  the  horse,  and  return  home.
 
@@ -9089,8 +7987,6 @@ other  people  of  higher  culture  who  inhabited  the  district  before  them,
 and  were  acquainted  with  the  art  of  making  pottery,  which  is  not  known
 to  the  modern  Buryat.     (Op.  cit.,  p.  158.)
 
-
-158  SOCIOLOGY
 
 coffin,  but  often  it  is  laid  in  the  grave  with  only  a  saddle-cloth
 under  the  head  ;  sometimes  the  cloth,  saddle,  and  a  slaughtered
@@ -9173,8 +8069,7 @@ the  old  people  were  depi'ived  of  life — 'aged  men  and  women  were
 dressed  in  their  very  best  clothes,  were  seated  in  the  place  of
 honour,  in  the  circle  of  their  relatives  and  friends,  and  after
 conversation  and  libations  of  wine,  were  made  to  swallow  a  long
-strip  of  fat,  which  naturally  resulted  in  their  death  from  suffo-
-cation." ^  This  custom  was  established  by  Esseghe  Malan  Tengeri,
+strip  of  fat,  which  naturally  resulted  in  their  death  from  suffocation." ^  This  custom  was  established  by  Esseghe  Malan  Tengeri,
 who  was  one  of  the  most  popular  of  the  Western  (good)  Tengeris,
 and  quite  recently  Klementz  heard  of  a  Buryat  who  drove  his
 aged  grandfather  into  a  wood  and  left  him  to  die.  This  explains
@@ -9190,9 +8085,6 @@ Bhuddism.     (Op.  cit.,  p.  165.)
 ^  Klementz,  op.  cit.,  p.  9.
 
 
-160  SOCIOLOGY
-
-
 XI.    The  Yakut.
 
 
@@ -9200,21 +8092,17 @@ XI.    The  Yakut.
 you  have  it,  for  I  am  dying,  and  would  once  more  enjoy  the  good
 things  of  the  earth ' ;  such  was  the  message  sent  to  Sieroszewski  ^
 by  a  poor  Yakut,  Tarsatyng,  who  lived  near  him.  The  behaviour
-of  several  people  at  whose  death  this  writer  was  present  corre-
-sponded to  that  implied  in  the  above  message.  The  only  thing
+of  several  people  at  whose  death  this  writer  was  present  corresponded to  that  implied  in  the  above  message.  The  only  thing
 which  a  Yakut  really  cares  for  before  death  is  to  be  certain  that  an
-animal  will  be  slain  directly  after  he  dies,  in  order  that,  accom-
-panied by  this  animal,  his  soul  may  make  the  journey  to  the
+animal  will  be  slain  directly  after  he  dies,  in  order  that,  accompanied by  this  animal,  his  soul  may  make  the  journey  to  the
 abode  of  the  departed.  On  the  death  of  a  man  a  bullock  or  a
 horse  is  killed  on  the  death  of  a  woman,  a  cow  or  a  calf ;  if  the
-deceased  was  rich  the  animal  is  fat  and  able  to  be  ridden,  other-
-wise the  soul  must  either  drive  it  in  front  of  him  or  drag  it  by  the
+deceased  was  rich  the  animal  is  fat  and  able  to  be  ridden,  otherwise the  soul  must  either  drive  it  in  front  of  him  or  drag  it  by  the
 horns.  The  flesh  of  the  dead  animal  is  eaten  by  the  gravediggers
 and  all  the  funeral  company.  The  custom  is  called  Ichailijga  or
 kJiailige.  In  the  north,  where  these  customs  are  more  strictly
 practised,  even  the  poorest  man  will  kill  his  last  cow  to  fulfil  the
-conditions.  When  a  Cossack  asked  some  Yakut  to  place  a  monu-
-ment on  the  grave  of  his  brother  who  had  died  at  Kenurakh  Station
+conditions.  When  a  Cossack  asked  some  Yakut  to  place  a  monument on  the  grave  of  his  brother  who  had  died  at  Kenurakh  Station
 while  on  a  journey,  they  said,  '  If  you  wish  to  hire  us  you  must
 first  slay  an  animal,  for  there  was  no  blood  shed  on  the  grave  of
 your  brother  and  we  fear  to  work  there.'  ^
@@ -9222,8 +8110,7 @@ your  brother  and  we  fear  to  work  there.'  ^
 When  a  man  dies,  the  body  is  clothed  in  a  rich  garment  and
 placed  in  a  corner  of  the  dwelling,  where  it  lies  for  three  days  ;  on
 the  third  day  it  is  placed  in  a  wooden  coffin,  which  is  drawn  to  the
-grave  by  a  horse  or  bullock.  No  one  but  the  gravediggers  accom-
-pany it,  and  even  they  hasten  to  complete  their  work  and  return
+grave  by  a  horse  or  bullock.  No  one  but  the  gravediggers  accompany it,  and  even  they  hasten  to  complete  their  work  and  return
 home ;  on  their  way  back  they  do  not  stop  or  look  behind,  and
 when  they  enter  the  gate  of  the  village  they  and  the  animal  must
 pass  through  a  fire  made  from  the  straw  on  Avhich  the  dead  man
@@ -9261,8 +8148,7 @@ There  existed  formerly  the  custom  that  an  old  or  very  weak
 person  requested  his  relatives  to  bury  him.  All  the  villagers  were
 invited  to  a  three  days'  feast,  during  which  the  old  man,  attired  in
 his  finest  garments,  occupied  the  chief  position.  On  the  third  day
-his  relatives  took  him  to  the  forest,  where  a  grave  had  been  pre-
-pared, and  one  of  them  would  suddenly  strike  him  down.  With
+his  relatives  took  him  to  the  forest,  where  a  grave  had  been  prepared, and  one  of  them  would  suddenly  strike  him  down.  With
 him  in  the  grave  were  placed  food  and  his  weapons.  Sometimes
 husband  and  wife  were  buried  together,  or  a  living  animal  was
 buried  with  the  person  or  was  tied  to  the  nearest  tree  (surge).
@@ -9293,8 +8179,6 @@ p.  6.T.
 )«79  M
 
 
-162  SOCIOLOGY
-
 was  laid  on  the  gvound  and  covered  with  boughs  of  trees.^  The
 corpse  is  elnhoraf  ely  dressed,  a  cap  placed  on  the  head,  and  in  a
 liouch  different  kinds  of  foud.^  It  receives  a  cup  and  a  spoon,
@@ -9314,8 +8198,7 @@ must  not  carry  anything  out  of  the  i/urta  either  to  sell  or  to  give
 away,  but  they  may  dispense  hospitality  within  ;  this  custom  is
 called  shirWxJi,  and  we  find  the  same  restriction  as  to  carrying
 things  out  of  the  house  during  a  certain  period  among  the  Mongols,
-who  term  the  custom  Iccrcldey  udur  sertcy,  but  it  is  not  asso-
-ciated with  burial.'''*'
+who  term  the  custom  Iccrcldey  udur  sertcy,  but  it  is  not  associated with  burial.'''*'
 
 If  the  death  occurred  l)y  lightning,  then  the  Uriankhai  prepare
 a  scr,  i.  e.,  a  raised  platform,  for  the  corpse.  The  flesh  of  an
@@ -9345,8 +8228,7 @@ e.g.,  if  the  death  occurs  on  the  3rd,  the  prohibition  holds  on  the  
 23rd,  &c.
 
 Similar  numerical  arrangements  in  connexion  with  the  custom  of  not
-carrying  things  out  of  the  house  are  found  to  hold  good  on  other  occa-
-sions, such  as  sacrificing  a  horse  to  a  god.   (Potanin,  vol.  iv.  ed.  1883,  p.  37.)
+carrying  things  out  of  the  house  are  found  to  hold  good  on  other  occasions, such  as  sacrificing  a  horse  to  a  god.   (Potanin,  vol.  iv.  ed.  1883,  p.  37.)
 
 
 I
@@ -9359,8 +8241,7 @@ body  has  once  turned  to  dust  there  is  nothing  beyond.  Only  the
 tadibeif  (shaman)  attains  to  the  privilege  of  a  future  life.^
 
 Death  is  usually  ascribed  to  the  power  of  a  bad  female  spirit,
-Kmnsi/a  Buni&si,  who  steals  the  soul,  but  a  good  shaman  can  some-
-times recover  the  soul  and  return  it  to  its  owner.^  In  former
+Kmnsi/a  Buni&si,  who  steals  the  soul,  but  a  good  shaman  can  sometimes recover  the  soul  and  return  it  to  its  owner.^  In  former
 times  the  Samoj-ed  used  a  special  incantation  to  prevent  the  return
 of  the  dead,  and  when  the  body  was  taken  away  from  the  chum
 (dwelling-house)  the  women  of  the  clium  jumped  over  the  body.^
@@ -9403,8 +8284,6 @@ Siberia,  1888,  p.  44.
 
 M  2
 
-
-164  SOCIOLOGY
 
 the  Vogul  and  their  nearest  neighbours,  the  Ostyak,  is  usually  in
 a  forest;  the  body  is  either  carried  or  drawn  by  reindeer,  Avhich
@@ -9469,8 +8348,7 @@ soon.  The  land  of  future  life  is  situated  under  the  ground  in  the
 Arctic  Ocean  beyond  the  mouth  of  the  Obi,  where  it  is  ruled  by
 the  underground  god  Kul-Odyr.  Here  the  shadow  lives  as  long
 as  the  man  lived  on  the  earth,  and  follows  similar  occupations  :  if
-the  man  were  a  fisherman,  hisxshadow  is  the  same  in  the  shadow-
-land.  Towards  the  close  of  its  life  the  shadow  Ijegins  to  diminish
+the  man  were  a  fisherman,  hisxshadow  is  the  same  in  the  shadowland.  Towards  the  close  of  its  life  the  shadow  Ijegins  to  diminish
 in  size  and  becomes  as  small  as  a  black-beetle  {Jcer-khomlaJch).
 According  to  some  natives,  it  does  become  a  black-beetle,  and
 finally  disappears.  People  who  have  lived  evil  lives  have  to  work
@@ -9534,8 +8412,7 @@ I
 SHAMANISM  167
 
 These  names,  however,  do  not  give  any  idea  of  the  true  character
-of  Shamanism.  Some  are  of  opinion  tliat  it  originated  along-
-side with  Biahminism  and  Buddhism,  while  others  find  in  it
+of  Shamanism.  Some  are  of  opinion  tliat  it  originated  alongside with  Biahminism  and  Buddhism,  while  others  find  in  it
 some  elements  in  common  with  the  teachings  of  the  Chinese
 philosopher  Lao-Tze.  .  .  .  Finally  some  hold  that  Shamanism  is
 nothing  but  Nature-worship,  likening  it  to  the  faith  of  the  followers
@@ -9555,8 +8432,7 @@ As  we  see  them  now  the  Palaeo-Siberians  may  be  considered
 as  possessing  the  simplest,  and  the  Neo-Siberians  the  most  complex,
 form  of  Shamanism.  Thus  among  the  former  we  see  more
 '  Family'  than  'Professional'  Shamanism  ;  that  is,  the  ceremonials,
-beliefs,  and  shamans  are  practically  limited  to  the  family.  Pro-
-fessional Shamanism,  that  is,  ceremonies  of  a  communal  kind
+beliefs,  and  shamans  are  practically  limited  to  the  family.  Professional Shamanism,  that  is,  ceremonies  of  a  communal  kind
 performed  by  a  specialized  or  professional  shaman,  is  here  only
 in  its  infancy,  and,  being  weaker,  has  been  more  affected  by
 Christianity.
@@ -9569,8 +8445,7 @@ more  primitive.  Professional  Shamanism  may  be  a  development
 of  family  Shamanism,  or  it  may  be  a  degenerate  form,  w^here
 environment  is  such  that  communal  life  is  no  longer  possible.
 
-That  the  dissimilarity  between  the  Shamanism  of  the  Palaeo-
-and  Neo-Siberians  is  no  doubt  due  to  the  differences  in  the
+That  the  dissimilarity  between  the  Shamanism  of  the  Palaeoand  Neo-Siberians  is  no  doubt  due  to  the  differences  in  the
 geographical  conditions  of  northern  and  southern  Siberia  seems
 to  be  proved  by  the  result  of  a  careful  study  of  certain  Neo-
 Siberian  tribes  (Yakut)  who  migrated  to  the  north,  and  of  certain
@@ -9579,8 +8454,6 @@ with  which  they  absorbed  the  customs  and  beliefs  appertaining  to
 
 ^  Banzaroff,  Tlie  Black  Faith,  pp.  4-5.
 
-
-168  RELIGION
 
 their  new  surrountlings  shows  that  there  was  no  fundamental
 diffei'ence  between  their  shamanistic  practices.  The  differences,
@@ -9595,8 +8468,7 @@ have  sometimes  fallen  under  the  influence  of  certain  shamanistic
 superstitions.  Such  is  the  case  with  the  Russian  peasants  and
 officials  who  settle  in  Siberia,  and  with  the  Russian  Creoles. -
 
-According  to  the  official  census,  only  a  small  part  of  the  abori-
-gines are  '  true  Shanianists',  but,  as  a  matter  of  fact,  we  see  that
+According  to  the  official  census,  only  a  small  part  of  the  aborigines are  '  true  Shanianists',  but,  as  a  matter  of  fact,  we  see  that
 though  they  are  registered  as  Orthodox  Catholics  and  Buddhists,
 they  are  in  reality  nearly  all  faithful  to  the  practice  of  their  old
 religion.
@@ -9634,8 +8506,7 @@ tribes.  In  some  cases  this  office  is  hereditary,  but  everywhere
 the  supernatural  gift  is  a  necessary  qualification  for  becoming
 a  shaman.  As  we  should  expect  from  the  generally  higher  culture
 of  the  Neo-Siberians,  their  shamanhood  is  more  highly  organized
-than  that  of  the  Palaeo-Siberians.  The  family  shamans  pre-
-dominate among  the  Palaeo-Siberians,  and  the  professional  shamans
+than  that  of  the  Palaeo-Siberians.  The  family  shamans  predominate among  the  Palaeo-Siberians,  and  the  professional  shamans
 among  the  Neo-Siberians,  though  Bogoras  says :  '  In  modern
 times  the  importance  of  family  shamanism  is  losing  ground  among
 all  the  tribes  named,  with  the  exception  of  the  Chukchee,  and
@@ -9663,8 +8534,6 @@ inspired  old  woman-shaman,  who  could  not  perform  all  these  tricks,  was
 held  in  great  esteem  and  fame.    (Op.  cit.,  p.  631.)
 
 
-170  RELIGION
-
 ledge,  to  influence  the  people  round  him.'  ^  His  reserved  attitude
 has  undoubtedly  a  great  influence  on  the  people  among  whom  he
 lives.  He  must  know  how  and  when  to  have  his  fit  of  inspiration,
@@ -9679,8 +8548,7 @@ one  or  more  drums  of  its  own,  on  which  its  members  are  bound
 to  perform  at  specific  periods  :  that  is,  to  accompany  the  beating
 of  the  drum  with  the  singing  of  various  melodies.  Almost  always
 on  these  occasions  one  member  at  least  of  the  family  tries  to
-communicate  with  "  spirits  "'  after  the  manner  of  shamans.'^  Some-
-times he  even  tries  to  foretell  the  future,  but  he  receives  no
+communicate  with  "  spirits  "'  after  the  manner  of  shamans.'^  Sometimes he  even  tries  to  foretell  the  future,  but  he  receives  no
 attention  from  his  audience.  This  is  done  in  the  outer  room  and
 in  daylight,  whereas  the  'shaman's',  or  professional  shaman's,
 actions  are  performed  in  the  inner  room  and  at  night.
@@ -9699,8 +8567,7 @@ of  the  ceremonies,  &c.,  who  imitates  the  shaman  ;  we  can  call
 shamans  only  those  individuals  having  special  skill  and  vocation,
 whether  or  not  they  are  shamans  by  heredity.
 
-However,  the  same  Koryak,  Asiatic  Eskimo,  Chukchee,  Yuka-
-ghir, &c. — practically  all  the  Palaeo- Siberians — possess  the  pro-
+However,  the  same  Koryak,  Asiatic  Eskimo,  Chukchee,  Yukaghir, &c. — practically  all  the  Palaeo- Siberians — possess  the  pro-
 fessional shaman,  sometimes  in  decadence,^  but  still  there  is  no
 
 ^  Sieroszewski,  12  Laf  w  Krajii  Yakiitoio,  1902,  p.  630.
@@ -9735,8 +8602,7 @@ explains  dreams.'  -
 From  this  meagre  information  we  can  scarcely  decide  whether
 among  the  Kamchadal  of  the  time  of  Krasheninnikoff  there  was
 or  not  a  family  shaman,  because  as  the  old  men  played  the  role
-not  at  ceremonials  in  separate  families,  but  at  communal  cere-
-monies, we  must  rather  call  them  communal  shamans.  But  there
+not  at  ceremonials  in  separate  families,  but  at  communal  ceremonies, we  must  rather  call  them  communal  shamans.  But  there
 was  some  form  of  professional  shamanism,  though  not  specialized,
 since  every  old  woman  could  shamauize.  On  the  other  hand,  the
 following  quotation  shows  that  there  were  certain  qualifications
@@ -9758,14 +8624,12 @@ exception  among  the  rest  of  the  Asiatic  and  American  tribes  in
 having  had  no  professional  shamans.'
 
 In  support  of  Jochelson's  opinion  just  quoted,  it  may  be  said
-that,  in  spite  of  Krasheninnikoff's  statement  to  the  contrary,  pro-
-fessional shamanism  does  seem  to  have  existed,  at  least  in  germ,
+that,  in  spite  of  Krasheninnikoff's  statement  to  the  contrary,  professional shamanism  does  seem  to  have  existed,  at  least  in  germ,
 among  the  Kamchadal,  alongside  of  the  communal  shamanism
 
 '  Krasheninnikoft',  Description  of  the  Coxintnj  of  Kamchatka,  ed.  1775,
 1).  85.
 
-*  Op.  cit.,  p.  81.
 
 ^  This  epithet  is  somewhat  vague,  but  for  this  I  am  not  responsible,  as
 the  original  has  a  similar  vague  expression.
@@ -9797,8 +8661,7 @@ during  which  time  her  household  had  taken  precautions  that  she
 should  do  no  harm  to  the  peojile  or  to  herself.  ^
 
 'I  was  told  that  people  about  to  become  shamans  have  fits  of
-wild  paroxysms  alternating  with  a  condition  of  complete  ex-
-haustion. They  will  lie  motionless  for  two  or  three  days  without
+wild  paroxysms  alternating  with  a  condition  of  complete  exhaustion. They  will  lie  motionless  for  two  or  three  days  without
 partaking  of  food  or  drink.  Finally  they  retire  to  the  wilderness,
 where  they  spend  their  time  enduring  hunger  and  cold  in  order
 to  prepare  themselves  for  their  calling.'-^
@@ -9878,8 +8741,6 @@ Bogoras  :  '  The  eyes  of  a  shaman  have  a  look  different  from  that
 '^  Sieroszewski,  12  Lat  w  Kraju  Yakutow,  p.  396.  ^  Ibid.
 
 
-174  RELIGION
-
 of  other  people,  and  they  explain  it  by  the  assertion  that  the  eyes
 of  the  sliaman  are  very  bright  {niJceraqen),  which,  by  the  way,
 gives  them  the  ability  to  see  "spirits"  even  in  the  dark.  It  is
@@ -9902,19 +8763,16 @@ practise  at  my  house  his  "spirits"  (of  a  ventriloquistic  kind)  for
 a  long  time  refused  to  come.  When  at  last  they  did  come,  they
 were  heard  walking  round  the  house  outside  and  knocking  on  its
 walls,  as  if  still  undecided  whether  to  enter.  When  they  entered,
-they  kept  near  to  the  corners,  carefully  avoiding  too  close  prox-
-imity to  those  present.'
+they  kept  near  to  the  corners,  carefully  avoiding  too  close  proximity to  those  present.'
 
 The  shamanistic  call  comes  sometimes  to  people  more  advanced
 in  years :
 
 '  To  people  of  more  mature  age  the  shamanistic  call  may  come
 during  some  great  misfortune,  dangerous  and  protracted  illness,
-sudden  loss  of  family  or  property,'  &c.  'It  is  generally  con-
-sidered that  in  such  cases  a  favourable  issue  is  possible  only  with
+sudden  loss  of  family  or  property,'  &c.  'It  is  generally  considered that  in  such  cases  a  favourable  issue  is  possible  only  with
 the  aid  of  the  "'  spirits  ",  therefore  a  man  who  has  undergone  some
-extraordinary  trial  in  his  life  is  considered  as  having  within  him-
-self the  possibilities  of  a  shaman,  and  he  often  feels  bound  to
+extraordinary  trial  in  his  life  is  considered  as  having  within  himself the  possibilities  of  a  shaman,  and  he  often  feels  bound  to
 enter  into  closer  relations  with  the  "spirits",  lest  he  incur  their
 displeasure  at  his  negligence  and  lack  of  gratitude.' "'
 
@@ -9939,11 +8797,9 @@ son.'  When  Katek  came  back  home  he  made  a  sacrifice  to  the
 walrus-head,  and  from  that  time  on  he  was  a  shaman,  much
 respected  and  very  famous  among  his  neighbours.^
 
-However,  very  old  people  are  not  supposed  to  hear  the  shaman-
-istic  call.  In  a  Koryak  tale,-  when  Quikinnaqu  (who  had  already
+However,  very  old  people  are  not  supposed  to  hear  the  shamanistic  call.  In  a  Koryak  tale,-  when  Quikinnaqu  (who  had  already
 a  grown-up  daughter)  unexpectedly  makes  for  himself  a  drum  out
-of  a  small  louse,  and  becomes  a  shaman,  his  neighbours  say  scepti-
-cally :  •  Has  the  old  Quikinnaqu  really  become  a  shaman  ?  From
+of  a  small  louse,  and  becomes  a  shaman,  his  neighbours  say  sceptically :  •  Has  the  old  Quikinnaqu  really  become  a  shaman  ?  From
 his  youth  up  he  had  no  spirits  within  his  call.'
 
 But  young  people  when  they  get  into  trouble  also  call  for  the
@@ -10001,8 +8857,7 @@ supposed  to  be  safer  from  human  anger  than  any  other  person.
 
 One  Chukchee  tale  says :  '  She  [the  murderer]  came  to  her
 neighbour,  a  woman  who  was  busy  with  her  fireVtoard,  trying  to
-make  a  fire.  She  stab1)ed  her  from  behind.  But  the  girl  con-
-tinued to  work  on  the  fire,  because  she  was  a  shaman-girl,
+make  a  fire.  She  stab1)ed  her  from  behind.  But  the  girl  continued to  work  on  the  fire,  because  she  was  a  shaman-girl,
 a  woman  able  to  stal)  herself  [  in  a  shamanistic  performance].
 Therefore  she  could  not  kill  her,  but  only  severed  the  tendons  of
 her  arms  and  legs.'  ^
@@ -10044,8 +8899,7 @@ In  the  village  Baigantai  Sieroszewski  met  with  another  instance
 of  a  shaman  who,  however  many  times  he  vowed  to  abstain  from
 shamanism,  still  returned  to  it  when  the  occasion  arose.  He  was
 a  rich  man,  who  did  not  care  for  gain,  and  he  was  so  wonderful
-that  'his  eyes  used  to  jump  out  on  his  forehead  '  during  shaman-
-istic  performances.
+that  'his  eyes  used  to  jump  out  on  his  forehead  '  during  shamanistic  performances.
 
 Tiuspiut  was  poor  and  cared  for  monej'^,  1)ut  he  was  proudly
 regardful  of  his  reputation,  and  when  some  of  his  neighbours
@@ -10180,8 +9034,7 @@ But  Bogoras  describes  the  mental  training  of  a  new  shaman
 differently.  '  The  process  of  gathering  inspiration  is  so  painful  to
 young  shamans,  because  of  their  mental  struggle  against  the  call,
 that  they  are  sometimes  said  to  sweat  blood  on  the  forehead  and
-the  temples.  Afterwards  every  preparation  of  a  shaman  for  a  per-
-formance is  considered  a  sort  of  repetition  of  the  initiative  process  :
+the  temples.  Afterwards  every  preparation  of  a  shaman  for  a  performance is  considered  a  sort  of  repetition  of  the  initiative  process  :
 hence  it  is  said  that  the  Chukchee  shamans  during  that  time  are
 easily  susceptible  to  haemorrhage,  and  even  to  bloody  sweat.  "^
 
@@ -10191,8 +9044,6 @@ easily  susceptible  to  haemorrhage,  and  even  to  bloody  sweat.  "^
 
 N   2
 
-
-180  RELIGION
 
 Bogoras  himself  saw  two  cases  of  nose-l)leeding  and  one  of
 l)loody  sweat  among  the  shamans;  but  in  the  last  instance  he
@@ -10207,16 +9058,13 @@ the  drum.
 requires  some  skill,  and  the  novice  must  sjiend  considerable  time
 before  he  can  acquire  the  desired  degree  of  perfection.  This
 has  I'eference  especially  to  the  performer's  power  of  endurance.
-The  same  may  be  said  of  the  singing.  The  manifestations  con-
-tinue for  several  weeks,  during  which  time  the  shaman  exercises
-the  most  violent  activity  with  scarcely  a  pause.  After  the  per-
-formance he  must  not  show  any  signs  of  fatigue,  because  he  is
+The  same  may  be  said  of  the  singing.  The  manifestations  continue for  several  weeks,  during  which  time  the  shaman  exercises
+the  most  violent  activity  with  scarcely  a  pause.  After  the  performance he  must  not  show  any  signs  of  fatigue,  because  he  is
 supposed  to  be  sustained  by  the  '"spirits",  and,  moreover,  the
 greater  j^art  of  the  exercise  is  asserted  to  be  the  work  of  the
 spirits  themselves,  either  after  entering  the  shaman's  body  or
 while  outside  his  body.  The  amount  of  endurance  required  for
-all  this,  and  the  ability  to  pass  quickly  from  the  highest  excite-
-ment to  a  state  of  normal  quietude,  can,  of  course,  be  acquired  only
+all  this,  and  the  ability  to  pass  quickly  from  the  highest  excitement to  a  state  of  normal  quietude,  can,  of  course,  be  acquired  only
 by  long  practice.  Indeed,  all  the  shamans  I  conversed  with  said
 that  they  had  to  spend  a  year,  or  even  two  years,  before  sufficient
 strength  of  hand  and  freedom  of  voice  were  given  to  them  by  the
@@ -10256,8 +9104,7 @@ immediately  pierce  the  body  of  the  recipient.'
 Bogoras  did  not  hear  of  any  transferring  of  shamanistic  power
 while  he  was  among  the  Chukchee.  He  found  it,  however,  among
 Eskimo  women,  who  were  taught  by  their  husbands,  and  whose
-children  were  taught  by  their  parents.  In  one  family  on  St.  Law-
-i"ence  Island  the  shamanistic  power  has  been  retained  tlirough
+children  were  taught  by  their  parents.  In  one  family  on  St.  Lawi"ence  Island  the  shamanistic  power  has  been  retained  tlirough
 a  succession  of  generations,  evidently  having  been  transferred
 from  father  to  son.^
 
@@ -10276,8 +9123,7 @@ a  bird-spirit,  and,  standing  at  some  distance  from  it,  a  man,  who
 spoke  to  him  in  these  words  :  *  Make  yourself  a  drum  and  all  that
 pertains  to  a  shaman.  Beat  the  drum  and  sing  songs.  If  you
 are  an  ordinary  man,  nothing  will  come  of  it ;  but  if  you  are  to  be
-a  shaman,  you  will  be  no  ordinary  one.'  When  he  came  to  him-
-self he  found  that  he  was  being  held  by  head  and  feet  close  to  the
+a  shaman,  you  will  be  no  ordinary  one.'  When  he  came  to  himself he  found  that  he  was  being  held  by  head  and  feet  close  to  the
 fire  by  his  friends,  who  told  him  that  they  had  thought  him
 already  dead,  carried  off  by  the  evil  spirits  {kcJcJin).  Forthwith
 he  demanded  a  drum,  and  began  to  beat  it  and  sing.  He  felt
@@ -10323,8 +9169,7 @@ of  the  shaman's  dignity.
 
 Even  the  weakest  shamans  possess  amiigyat  -  and  yckyua — the
 latter  is  'sent  from  above,  animal  picture,  bewitching  spirit,
-devilish  devourer  '  [YcJcyita  ohm  ahassyuaJi,  sinuih  ahassyuah,  iissiif-
-tan  ongorudh).
+devilish  devourer  '  [YcJcyita  ohm  ahassyuaJi,  sinuih  ahassyuah,  iissiiftan  ongorudh).
 
 The  yehjiia  is  carefully  bidden  from  the  people.  *My  yckyua
 will  not  be  found  by  any  one  ;  it  lies  hidden  far  away,  there,  in
@@ -10350,8 +9195,7 @@ THE   SHAMAN  183
 
 The  weakest  and  most  cowardly  are  tlie  nelcijua  of  dogs  ;  the
 most  powerful  are  those  of  enormous  bulls,  stallions,  elks,  and
-black  bears.  '  Those  shamans  who  have  as  their  animal  incarna-
-tion a  wolf,  bear,  or  dog,  are  the  most  unfortunate ;  these  animals
+black  bears.  '  Those  shamans  who  have  as  their  animal  incarnation a  wolf,  bear,  or  dog,  are  the  most  unfortunate ;  these  animals
 are  insatiable  ;  they  are  never  satisfied,  however  much  the  shaman
 may  provide  for  them."  The  dog  especially  gives  no  peace  to  his
 two-footed  ft  How  ;  he  '  gnaws  with  his  teeth  the  shaman's  heart,
@@ -10365,8 +9209,7 @@ Only  wizards  can  see  i/cki/ua  ;  to  ordinary  people  they  are  invisible
 
 Troshchanski  '  says  of  the  //eki/ua  :  *  Among  the  protectors  of
 the  shaman,  the  most  important  role  is  played  by  the  yekymi
-(literally,  "  mother-animal  ").  It  is  said  that  the  shamans  incar-
-nate their  kut  ^  in  certain  animals,  e.  g.  in  stallions,  wolves,  dogs,
+(literally,  "  mother-animal  ").  It  is  said  that  the  shamans  incarnate their  kut  ^  in  certain  animals,  e.  g.  in  stallions,  wolves,  dogs,
 and  that  these  animals  are  thus  the  yekijiia  of  shamans.
 
 '  If  one  of  these  animals  kills  another  of  its  species,  then  the
@@ -10405,8 +9248,7 @@ animals  and  men.
 heavenly  destiny.  'When  I  was  travelling  in  the  north,'  says
 Tius2)iut,  '  I  came  upon  a  heap  of  wood  {m'iba)  in  the  mountains,
 and  as  I  just  wanted  to  cook  some  dinner,  I  set  this  on  fire.  Now
-under  this  heap  was  buried  a  well-known  Tungus  shaman  (Tius-
-piut  was  a  Yakut),  and  so  his  iimagijat  leapt  into  me.'^  If  the
+under  this  heap  was  buried  a  well-known  Tungus  shaman  (Tiuspiut  was  a  Yakut),  and  so  his  iimagijat  leapt  into  me.'^  If  the
 great  shamans  at  death  take  their  umCujiiat  to  heaven,  they  are
 transformed  into  heavenly  beings ;  but  if  the  amugijat  is  not
 removed  to  heaven,  then  it  will  appear  on  the  earth  sooner  or
@@ -10416,8 +9258,7 @@ Besides  the  two  so-called  spirits  mentioned  above,  there  comes
 to  the  Yakut  shaman,  during  shamanistic  performances,  still
 another  kind  of  spirit,  a  rather  mischievous  one,  which  forces
 the  shaman  to  talk  and  to  imitate  various,  often  indecent,
-gestures.  These  spirits  are  called  Jialkiny,  and  their  representa-
-tives may  be  a  Kussian  devil,  a  devil's  daughter  with  a  devilish
+gestures.  These  spirits  are  called  Jialkiny,  and  their  representatives may  be  a  Kussian  devil,  a  devil's  daughter  with  a  devilish
 groom,  who,  being  blind,  is  in  the  habit  of  groping  about  in  the
 dark,  &c.
 
@@ -10486,8 +9327,7 @@ means  by  which  they  may  be  propitiated,  and  the  names  of  the
 spirits  which  are  subordinate  to  the  high  gods.  After  a  period  of
 trial  the  soul  of  the  child  returns  to  the  body,  which  for  a  time
 resumes  its  normal  life.  But  on  his  reaching  adolescence,
-peculiar  symptoms  show  themselves  in  the  person  who  has  under-
-gone these  experiences.  He  becomes  moody,  is  easily  excited  into
+peculiar  symptoms  show  themselves  in  the  person  who  has  undergone these  experiences.  He  becomes  moody,  is  easily  excited  into
 a  state  of  ecstasy,  leads  an  irregular  life,  wandering  from  ulus  to
 nlos  to  watch  the  shamanistic  ceremonies.  He  gives  himself  up
 with  great  earnestness  to  exercises  in  the  shamanistic  arts,  for
@@ -10519,15 +9359,13 @@ depending  largely  on  the  capacity  of  the  young  man.  He  cannot,
 however,  become  a  shaman  until  he  reaches  the  age  of  twenty.
 Finally  he  undergoes  a  purification  ceremony.  One  such  ceremony
 does  not  confer  all  the  rights  and  powers  of  a  shaman  ;  there  are,
-in  fact,  nine.  But  very  few  shamans  go  through  all  these  purifi-
-cations ;  most  only  undergo  two  or  three  ;  some,  none  at  all.  for
+in  fact,  nine.  But  very  few  shamans  go  through  all  these  purifications ;  most  only  undergo  two  or  three  ;  some,  none  at  all.  for
 they  dread  the  responsibilities  which  devolve  upon  consecrated
 shamans.  To  a  fully  consecrated  shaman  the  gods  are  very
 severe,  and  punish  his  faults  or  mistakes  with  death.
 
 The  first  consecration  ceremony  is  preceded  by  a  purification  of
-water.  For  this  an  experienced  old  shaman,  called  the  •  father-
-shaman  ',  is  chosen,  together  with  nine  young  men  to  be  his
+water.  For  this  an  experienced  old  shaman,  called  the  •  fathershaman  ',  is  chosen,  together  with  nine  young  men  to  be  his
 assistants.  These  are  spoken  of  as  his  '  sons  '.  The  water  for  the
 ablution  must  be  drawn  from  a  spring — sometimes  from  three
 springs.  They  go  in  the  morning  of  the  day  of  consecration  to
@@ -10536,8 +9374,7 @@ make  a  libation  to  the  master-  and  mistress-spirits  of  the  spring.
 As  tliey  return,  they  pluck  up  from  the  earth  birch-seedlings,  of
 which  they  make  a  broom,  and  take  it  to  the  house  of  the  novice.
 Next  the  water  is  heated  over  a  fire,  and  into  it  are  thrown  certain
-herbs  and  pieces  of  bark.  Then  from  the  ears  of  a  he-goat  pre-
-pared beforehand  they  cut  pieces  of  hair,  and  some  shavings  from
+herbs  and  pieces  of  bark.  Then  from  the  ears  of  a  he-goat  prepared beforehand  they  cut  pieces  of  hair,  and  some  shavings  from
 its  horns  and  hoofs,  and  throw  these  also  into  the  pot.  The  he-goat
 is  then  killed  in  such  a  manner  that  its  blood  drips  into  the  pot.
 Then  only  is  the  water  ready  for  the  consecration  ceremony.
@@ -10576,8 +9413,7 @@ defiled,  e.  g.  by  touching  some  unclean  object.  If  the  defilement
 is  especially  gross,  then  purification  is  performed  with  blood.
 The  shaman  also  purifies  himself  after  a  death  has  occurred  in  the
 
-This  ceremony  is  followed  after  some  time  by  the  first  consecra-
-tion, called  Jcherege-kkulkhe,  the  expenses  of  which  are  shared  by
+This  ceremony  is  followed  after  some  time  by  the  first  consecration, called  Jcherege-kkulkhe,  the  expenses  of  which  are  shared  by
 the  community.  Again  a  '  father-shaman  '  and  nine  '  sons  '  are
 chosen,  and  they,  accompanied  by  the  novice,  ride  on  horseback
 from  yurta  to  yurta,  collecting  offerings.  Before  each  yarta  they
@@ -10692,8 +9528,7 @@ Of  the  moment  of  his  elevation  on  the  carpet,  they  say  ho  heyde,  ' 
 shaman  ascends'.  On  reaching  the  birches,  the  shaman  must  leap  from
 the  carpet  on  to  one  of  them,  which  he  climbs.  From  the  top  of  this
 birch  he  must  jump  to  that  of  the  one  next  to  it,  and  so  on  to  the  end  of
-the  row,  whence  he  must  return  in  the  same  manner  to  his  starting-
-point,  and  is  then  again  placed  on  the  carpet.  After  this  ceremony  the
+the  row,  whence  he  must  return  in  the  same  manner  to  his  startingpoint,  and  is  then  again  placed  on  the  carpet.  After  this  ceremony  the
 new  shaman  begins  to  shamanize,  to  foretell  the  future,  and  to  heal  the
 sick — but  all  this  without  the  use  of  the  drum.  This  accessory  he  is  not
 permitted  to  acquire  until  after  the  third  year  from  his  consecration.
@@ -10716,8 +9551,7 @@ old  shamanist  family.  The  means  of  education  was  as  follows  :
 Two  fadibei/  (shamans)  blindfolded  him  with  a  handkerchief,  and
 then  beat  him,  one  on  the  back  of  the  head  and  the  other  on  the
 shoulders,  till  his  eyes  were  dazzled  as  with  too  much  light,  and
-he  saw  demons  dancing  on  his  arms  and  feet.  It  must  bo  remem-
-bered, of  course,  that  he  had  been  taught  beforehand  about  the
+he  saw  demons  dancing  on  his  arms  and  feet.  It  must  bo  remembered, of  course,  that  he  had  been  taught  beforehand  about  the
 Samoyed  world  of  spirits.^  In  former  times  Lapland  was  a  school
 of  shamanism,  and  all  neighbouring  tribes  sent  youths  thither  to
 be  trained  as  shamans.^  At  present  only  among  Kussian  Lapps
@@ -10736,8 +9570,7 @@ TYPES   OF   SHAMANS
 Palaeo-Siberians
 
 In*  this  chapter,  which  deals  ^Yith  the  different  tj-pes  of
-shamans,  the  duties  of  a  shaman  will  be  enumerated.  In  nearly-
-all  the  more  advanced  tril)es  we  shall  see  that  certain  shamans
+shamans,  the  duties  of  a  shaman  will  be  enumerated.  In  nearlyall  the  more  advanced  tril)es  we  shall  see  that  certain  shamans
 specialize  in  one  sort  of  duty  or  another,  while  among  the  more
 primitive  peoples  each  performs  many  different  kinds  of  duties —
 a  state  of  things  made  possible  by  the  less  complex  nature  of  those
@@ -10747,8 +9580,7 @@ shaman.     He  is  (a)  priest,  {h)  medicine-man,  and  (c)  prophet.
 
 (a)  '  As  a  priest,  he  knows  the  will  of  the  gods,  and  so  declares
 to  man  what  sacrifices  and  ceremonies  shall  be  held  ;  he  is  an
-expert  in  ceremonials  and  prayers.  Besides  the  communal  cere-
-monies at  which  he  officiates,  he  conducts  also  various  private
+expert  in  ceremonials  and  prayers.  Besides  the  communal  ceremonies at  which  he  officiates,  he  conducts  also  various  private
 ceremonials."^
 
 [h]  As  medicine-man,  the  shaman  jierforms  certain  ceremonies
@@ -10796,8 +9628,7 @@ shamans,  and  (2)  professional  shamans.
 
 Family  shamanism  is  connected  with  the  domestic  hearth,
 Avhose  w^elfare  is  under  its  care.  The  family  shaman  has  charge
-of  the  celebration  of  family  festivals,  rites,  and  sacrificial  cere-
-monies, and  also  of  the  use  of  the  family  charms  and  amulets,  and
+of  the  celebration  of  family  festivals,  rites,  and  sacrificial  ceremonies, and  also  of  the  use  of  the  family  charms  and  amulets,  and
 of  their  incantations.
 
 Professional  shamans  are  those  who  are  not  definitely  attached
@@ -10806,15 +9637,13 @@ wider  is  the  circle  in  which  they  can  practise  their  art.
 
 '  There  is  no  doubt  that  professional  shamanism  has  developed
 from  the  ceremonials  of  family  shamanism',  says  Jochelson.'*  It
-seems,  however,  necessary  to  add  another  category  of  (3)  com-
-munal shamans,  forming  a  transitional  class  between  family  and
+seems,  however,  necessary  to  add  another  category  of  (3)  communal shamans,  forming  a  transitional  class  between  family  and
 professional  shamans.  These  shamans  have  to  deal  with  a  group
 of  families  taking  part  in  important  ceremonials.  The  admission
 of  this  third  category  must  not  be  taken  to  mean  that  we  agree
 unconditionally  with  the  idea  that  the  professional  shaman  is
 a  development  from  the  family,  or  the  communal,  shaman,
-though  many  practices,  and  the  opinions  of  such  serious  investi-
-gators as  Jochelson  and  Bogoras,  lend  some  weight  to  this  notion.
+though  many  practices,  and  the  opinions  of  such  serious  investigators as  Jochelson  and  Bogoras,  lend  some  weight  to  this  notion.
 
 It  was  among  the  Koryak  that  professional  shamans  were  first
 affected  by  Christianity.
@@ -10845,17 +9674,14 @@ called  Jcalatkourgin.
 
 'This  includes  all  kinds  of  intercourse  with  "spirits"  which
 become  apparent  to  the  listeners  ;  that  is,  the  voices  of  "spirits"
-talking  through  the  medium  of  the  shaman,  ventriloquistic  per-
-formances, and  other  tricks — generally  speaking,  the  whole  spec-
+talking  through  the  medium  of  the  shaman,  ventriloquistic  performances, and  other  tricks — generally  speaking,  the  whole  spec-
 tacular part  of  shamanism,  which  forms  the  main  content  of  the
-shamanistic  seances.*  As  observed  aliove,  'all  this  is  often  con-
-sidered merely  as  a  kind  of  jugglery.  For  performances  of  this
+shamanistic  seances.*  As  observed  aliove,  'all  this  is  often  considered merely  as  a  kind  of  jugglery.  For  performances  of  this
 sort,  young  people  are  said  to  be  better  adapted  than  older  ones.
 With  increasing  years  some  of  the  shamans  discontinue  most  of
 these  tricks.'^
 
-B.  The  shaman-prophet,  i.e.  one  who  is  'looking  into',  hefola-
-tirr/in.
+B.  The  shaman-prophet,  i.e.  one  who  is  'looking  into',  hefolatirr/in.
 
 'This  branch  of  Chukchee  shamanism  is  held  in  the  highest
 veneration,  l)ecause  the  shaman  possessing  it  has  the  faculty  of
@@ -10870,8 +9696,7 @@ There  are  shamans  who,  though  they  have  Idef  at  their  disposal,
 cannot  give  any  advice  ;  while  others,  on  the  other  hand,  cannot
 communicate  with  '  spirits ',  but  '  give  magical  advice  as  a  kind  of
 internal  subjective  inspiration,  after  self-communion  for  a  few
-moments.  These,  notwithstanding  the  simplicity  of  their  pro-
-ceedings, usually  enjoy  the  highest  consideration  of  their  neigh-
+moments.  These,  notwithstanding  the  simplicity  of  their  proceedings, usually  enjoy  the  highest  consideration  of  their  neigh-
 bours.'^
 
 For  instance,  the  shaman  Galmuurgin  was  said  by  the  Chukchee
@@ -10888,14 +9713,12 @@ singing,  but  in  a  few  minutes  he  would  leave  off  the  exercise,
 
 104  KELIGION
 
-and  drawing  a  few  long,  almost  hysterical  breaths,  would  imme-
-diately proceed  to  foretell  the  future.  He  talked  to  many  people
+and  drawing  a  few  long,  almost  hysterical  breaths,  would  immediately proceed  to  foretell  the  future.  He  talked  to  many  people
 present,  one  by  one.  When  he  was  through  with  one  case,  he
 would  stop  for  a  while,  as  if  recollecting  himself,  and  then,  after
 several  deep-drawn  sighs,  would  pass  on  to  the  next  applicant.'  ^
 
-C.  Incantation  shamans  [ewganva-t'irgin,  '  producing  of  incan-
-tations '),  who  carry  on  the  more  complicated  practices  of  sha-
+C.  Incantation  shamans  [ewganva-t'irgin,  '  producing  of  incantations '),  who  carry  on  the  more  complicated  practices  of  sha-
 manism.
 
 Incantations,  together  with  spells,  form  the  greater  part  of
@@ -10906,8 +9729,7 @@ this  class :
 1.  'Well-minded'  {ten-cimnulln),  who  \Ay  tlieir  art  in  order  to
 help  sufferers.
 
-2.  'Mischievous'  {l;urg-cncnUit,  or  Icunich-enenilit,  literally  'mock-
-ing shamans '),  who  are  bent  on  doing  harm  to  people.
+2.  'Mischievous'  {l;urg-cncnUit,  or  Icunich-enenilit,  literally  'mocking shamans '),  who  are  bent  on  doing  harm  to  people.
 
 Good  shamans  have  a  red  shamanistic  coat  and  bad  shamans
 a  black  one.    The  same  colours  are  used  by  the  Yukaghir  shamans.
@@ -10924,8 +9746,7 @@ among  all  Sil)erian  tribes,  though  many  travellers  speak  of
 shamans  in  a  general  way  as  if  there  were  only  one  kind.  It
 would  seem,  however,  that  Troshchanski  overlooks  the  distinction
 between  the  religious  conceptions  of  the  Palaeo-Siberians  and
-those  of  the  Neo-Siberians.  They  live  under  different  environ-
-mental conditions ;  and,  besides,  the  Neo-Siberians  have  un-
+those  of  the  Neo-Siberians.  They  live  under  different  environmental conditions ;  and,  besides,  the  Neo-Siberians  have  un-
 doubtedly been  to  i-ome  extent  influenced  by  contact  with  the
 higher  Asiatic  religions.
 
@@ -10934,7 +9755,6 @@ appears  more  distinctl)'.  Again,  within  the  class  of  Neo  Siberians
 themselves  differences  are  found.  Among  the  Yakut "'  the  black
 shamans  predominate,  the  Avliite  hardly  existing ;   while  among
 
-'  Op.  cit.,  p.  431.
 
 -  Troshchanski,  The  Evolution  of  the  Black  Faith,  1902,  p.  iii.
 
@@ -10963,8 +9783,7 @@ ichchi  (spirit-owner)  of  the  lake  for  a  benefit.  This,  he  considers,
 was  certainly  done  by  white  shamans,  if  only  for  the  reason  that
 the  ceremony  was  held  in  the  daytime.^  But,  on  page  105  of  the
 same  work,  Troshchanski  writes  :  '  Only  the  spring  festivals  were
-called  liiii-iisiialh ;  the  autumn  festivals  were  known  as  ahassij-
-i/si/alh.'  Hence  the  ceremony  of  fertilization  of  the  lake  must  have
+called  liiii-iisiialh ;  the  autumn  festivals  were  known  as  ahassiji/si/alh.'  Hence  the  ceremony  of  fertilization  of  the  lake  must  have
 l>een  performed  l)y  black  shamans,  ahas>:i/-oiuna,  in  spite  of  the
 fact  that  this  ceremony  was  held  in  the  daytime.
 
@@ -10984,8 +9803,7 @@ maintain  their  prestige.  They  foretell  the  future,  call  up  spirits,
 wander  into  spirit-land,  and  give  accounts  of  their  journeys
 thither. '5
 
-At  the  present  day  there  are  among  the  Yakut  special  story-
-tellers and  also  special  sorcerers  {apfah-kisi).
+At  the  present  day  there  are  among  the  Yakut  special  storytellers and  also  special  sorcerers  {apfah-kisi).
 
 >  Op.  cit.,  p.  149.
 
@@ -11052,8 +9870,6 @@ If  we  follow  Troshchanski,  we  must  draw  the  conclusion  that
 
 '  Sieroszewski,  op.  cit.,  p.  628.  -  Troshchanski,  op.  cit.,  p.  120.
 
-3  Op.  cit.,  p.  124.  "  Op.  cit.,  p.  113.
-
 
 TYPES   OF   SHAMANS  197
 
@@ -11110,8 +9926,6 @@ one  aga-usa  (imtriarchal  family) '  (p.  116).
 Lecturer  in  Tamil  and  Telugu  in  the  University  of  Oxford.
 
 
-198  RELIGION
-
 same  ineaiiing.     Sdnidamhi  is  Manchu  :   'I  shamanize ',  i.e.  *I  call
 the  spirits  tlaiK-iny  before  the  charm.' ^
 
@@ -11128,8 +9942,7 @@ her  the  original  llacJc  shaman  ?  Only  one  piece  of  evidence  is
 adduced  to  connect  women  with  '  black '  shamanizing,  and  that  is
 taken  from  Kamchadal  life,  not  from  that  of  the  Yakut,  upon
 which  chiefly  he  grounds  his  hypothesis.  Among  the  most
-primitive  Kamchadal,  Avhere  there  were  only  women  (or  loel-
-clmeh)  shamans,  these  practised  only  black  shamanism,  sum-
+primitive  Kamchadal,  Avhere  there  were  only  women  (or  loelclmeh)  shamans,  these  practised  only  black  shamanism,  sum-
 moning evil  spirits.^
 
 As  to  the  linguistic  evidence :
@@ -11144,18 +9957,15 @@ In  Yakut  he  is  called  ohm  ;  in  Mongol,  huge  ;  Buryat,  huge  and
 ho  ;  Tungus,  samman  and  hamman  ;  Tartar,  Jcam ;  Altaian,  Imn  and
 gam  ;  Kirgis,  halsa  {hasl'g) ;  Samoyed,  tadihcij.
 
-From  the  above  Troshchanski  concludes  that  during  the  migra-
-tion of  the  Neo-Siberians  they  had  only  women-shamans,  called
+From  the  above  Troshchanski  concludes  that  during  the  migration of  the  Neo-Siberians  they  had  only  women-shamans,  called
 by  a  similar  general  name  ;  and  that  the  men-shamans  appeared
 later,  when  these  people  scattered,  settling  in  lands  distant  from
-one  another,  so  that  the  term  for  man-shaman  originated  in-
-dependently in  each  tribe."^
+one  another,  so  that  the  term  for  man-shaman  originated  independently in  each  tribe."^
 
 Of  course  this  linguistic  evidence  concerns  only  the  Xeo-  and
 not  the  Palaeo-Siberians.
 
-Troshchanski  gives  us  further  the  following  religio-social  evi-
-dence,  drawn   exclusively   from   the   Yakut,    in    support    of  his
+Troshchanski  gives  us  further  the  following  religio-social  evidence,  drawn   exclusively   from   the   Yakut,    in    support    of  his
 
 ^  Zakliaroff,  CoDrplctc  Mcnichii-Iiui^siaii  Didioiuoy,  1875,  p.  568.
 ^  Troshchanski,  op.  cit.,  p.  119.
@@ -11205,8 +10015,7 @@ generations  in  the  same  family.  Smiths  come  to  be  considered  as
 the  elder  brothers  of  shamans,  and  then  the  differences  between
 them  finally  disappear,  the  smith  becoming  a  shaman.
 
-The  v.'oman,  then,  since  she  could  not  be  a  smith,  had  even-
-tually to  give  up  her  place  to  the  man.
+The  v.'oman,  then,  since  she  could  not  be  a  smith,  had  eventually to  give  up  her  place  to  the  man.
 
 In  modern  times,  as  there  are  no  longer  any  '  magical  smiths ',
 new  shamanistic  garments  cannot  be  made.''
@@ -11223,8 +10032,6 @@ nest",  says  a  proverb  of  the  Kolyma  district.  The  smiths  also  can  cu
 advise,  and  foretell  the  future,  but  their  knowledge  does  not  possess
 
 
-200  RELIGION
-
 This  hypothesis  of  women  being  the  first  Ijlack  shamans  is,
 however,  not  borne  out  by  the  evidence.  Even  if  we  allow  that
 the  above  quotations,  especially  that  containing  the  linguistic
@@ -11236,8 +10043,7 @@ and  white  shamans.
 
 On  the  other  hand,  the  evolution  which  Troshchanski  ascribes
 to  black  shamans  might  be  ascriljed  to  professional  shamanism,  if
-we  reject  Jochelson's  and  Bogoras's  view  that  professional  de-
-veloped out  of  family  shamanism.
+we  reject  Jochelson's  and  Bogoras's  view  that  professional  developed out  of  family  shamanism.
 
 The  Altaians.  Wierbicki  ^  says  that  among  the  Altaians,  besides
 the  shaman,  called  lam,  there  are  also  (i)  rijnchi,  '  who,  during
@@ -11255,20 +10061,16 @@ shamans  are  divided  into  {«)  hereditary  shamans  and  {b)  shamans
 of  the  first  generation.     Another  division  is  into  («)  real,  (fc)  false
 
 a  magical  character ;  they  arc  simply  clever  people,  who  know  much,
-and  who  i^ossess  "  peculiar  fingers  ".  The  profession  of  smith  is  gene-
-rally hei-editary,  •especially  in  the  north.  It  is  in  the  ninth  generation
+and  who  i^ossess  "  peculiar  fingers  ".  The  profession  of  smith  is  generally hei-editary,  •especially  in  the  north.  It  is  in  the  ninth  generation
 that  a  [hereditary]  smith  first  acquires  certain  supernatural  qualities,
 and  the  more  ancient  his  ancestry,  the  more  marked  are  these  qualities.
 The  spirits  are  generally  afraid  of  iron  hoops  and  of  the  noise  made  by
 the  blowing  of  the  smith's  bellows.  In  the  Kolyma  district  the  shaman
-would  not  shamanize  until  I  [Sieroszewski]  removed  my  case  of  instru-
-ments ;  and  even  then  his  bad  luck  in  shamanizing  was  explained  by
+would  not  shamanize  until  I  [Sieroszewski]  removed  my  case  of  instruments ;  and  even  then  his  bad  luck  in  shamanizing  was  explained  by
 him  as  due  to  the  fact  that,  as  he  said,  "  the  spirits  are  afraid  of  smiths
 [in  this  case  Sieroszewski],  and  that  is  why  they  do  not  appear  at  my
-call."  Only  a  smith  of  the  ninth  generation  can,  without  harm  to  him-
-self, hammer  out  the  iron  embellishments  of  the  shamanistic  dress,  the
-iron  for  the  drum,  or  make  ihndgyat.  If  the  smith  who  makes  a  shaman-
-istic ornament  has  not  a  sufficient  number  of  ancestors,  if  the  noise  of
+call."  Only  a  smith  of  the  ninth  generation  can,  without  harm  to  himself, hammer  out  the  iron  embellishments  of  the  shamanistic  dress,  the
+iron  for  the  drum,  or  make  ihndgyat.  If  the  smith  who  makes  a  shamanistic ornament  has  not  a  sufficient  number  of  ancestors,  if  the  noise  of
 hammering  and  the  glare  of  the  fire  does  not  surround  him  on  all  sides,
 then  birds  with  crooked  claws  and  beaks  will  tear  his  heart  in  pieces.
 Respectable  hereditary  smiths  have  tools  possessed  of"  spirits  "  [ichchilah)
@@ -11332,8 +10134,6 @@ perform    some    particular    sacrifice.       Besides    these    there    a
 ^  Bogayewski,  A  Sketch  of  (he  Mode  of  Life  of  the  Volijuh  of  Sniapul,
 p.  123.
 
-*  Op.  cit.,  p.  126.
-
 
 202  EELIGION
 
@@ -11374,8 +10174,7 @@ there  is  also  a  drum.  The  drum  has  the  jjower  of  transporting
 the  shaman  to  the  superworld  and  of  evoking  spirits  by  its
 sounds.
 
-Authors  of  the  eighteenth  century,  like  Pallas  and  Krasheninni-
-koff,  pay  great  attention  to  the  shaman's  accessories.  Though
+Authors  of  the  eighteenth  century,  like  Pallas  and  Krasheninnikoff,  pay  great  attention  to  the  shaman's  accessories.  Though
 the}-  have  probably  only  been  atti'acted  by  their  picturesque  side,
 yet  their  descriptions  are  very  valuable  in  view  of  the  modern
 attempt  to  reach  the  primitive  mind  through  its  symbolical  forms
@@ -11387,8 +10186,7 @@ and  the  copper  or  iron  plate  on  the  breast.  The  Samoyed  tad'ihey
 substitute  for  the  mask  a  handkerchief  tied  over  the  eyes,  so  that
 they  can  penetrate  into  the  spirit-world  by  their  inner  sight.
 This  use  of  a  handkerchief  is  also  mentioned  by  Wierbicki,  who
-says  that  the  shamans  of  northern  Altai  wear  one  round  the  fore-
-head to  keep  the  hair  out  of  the  eyes.
+says  that  the  shamans  of  northern  Altai  wear  one  round  the  forehead to  keep  the  hair  out  of  the  eyes.
 
 These  four  accessories — the  coat,  the  mask,  the  cap,  and  the
 iron  plate— are  used  by  the  Neo-Si])erians  only,  since  among
@@ -11404,15 +10202,12 @@ is  also  worn  ;  his  stockings,  likewise  remarkable,  are  made  of  skin
 *   Shamanism  in  Siberia,  p.  8(5.  ^  Reise  diirch  Sibinen,  ii,  193.
 
 
-204  RELIGION
-
 ornamented  with  iron.  Among  the  Gilyak  and  the  Olchi  it  is  the
 shaman's  girdle  which  is  of  the  greatest  significance  ;  ^  among  the
 Buryat,-  the  horse-staves,  &c.  Iron  and  copper  objects  seem
 also  to  be  especially  associated  with  the  Neo-Si)jerians.
 
-The  whole  costume  with  its  appurtenances  used  during  sha-
-manistic  performances  throughout  Siberia  has,  according  to
+The  whole  costume  with  its  appurtenances  used  during  shamanistic  performances  throughout  Siberia  has,  according  to
 Mikhailowski,"'  a  threefold  significance :
 
 1.  The  shaman  wishes  to  make  a  profound  impression  on  the
@@ -11429,8 +10224,7 @@ of  shaman sim.
 Thus  Mikliailowski.  But  this  interpretation  does  not  bring  out
 the  whole  imi)ortance  of  the  relation  of  these  objects  to  the
 spiritual  world.  They  are  of  great  importance,  for  the  spirits  will
-not  hear  the  voice  of  the  shaman  unless  the  right  dress  and  im-
-plements are  used,  and  the  drum  beaten  ;  they  are  sacred  because
+not  hear  the  voice  of  the  shaman  unless  the  right  dress  and  implements are  used,  and  the  drum  beaten  ;  they  are  sacred  because
 of  their  contact  with  a  supernatural  and  often  dangerous  power.
 
 Being  sacred,  these  accessories  must  not  be  used  by  any  one  but
@@ -11441,8 +10235,7 @@ shaman's  dress.
 Among  the  Palaeo-Siberians  it  is  usually  the  shaman  himself
 who  makes  all  accessories,  and  that  only  when  the  spirits  give
 their  permission.  Among  the  natives  of  Altai  it  is  not  all
-shamans  wdio  have  the  right  to  wear  manyah  (the  coat)  and  the  owl-
-skin  cap.*
+shamans  wdio  have  the  right  to  wear  manyah  (the  coat)  and  the  owlskin  cap.*
 
 Among  the  Yakut  even  the  blacksmith,  who  undertakes  the
 oi-namentation  of  the  costume,  must  have  inherited  the  right.
@@ -11471,8 +10264,7 @@ class  of  hereditary  blacksmiths.  In  his  description  of  the  Tungus
 shaman's  garment.  Gmelin  relates  how  the  shaman  whom  he  saw
 had  no  cap  because  the  old  one  was  burnt  and  the  spirits  would
 not  grant  him  a  new  one.^  Of  the  Buryat  shamans  he  observes
-that  many  of  them  do  not  possess  drums,  since  the  spirits  with-
-hold permission  to  make  them,  and  two  long  sticks  which  are
+that  many  of  them  do  not  possess  drums,  since  the  spirits  withhold permission  to  make  them,  and  two  long  sticks  which  are
 stiaick  crosswise  against  each  other  are  therefore  substituted  at
 the  performance.'-  Mikhailowski  quotes  the  above  statement  in
 explanation  of  the  fact  that  Khangaloff  had  seen  only  one  drum
@@ -11486,15 +10278,13 @@ the  Buryat,  for  the  importance  of  the  other  chief  Buryat  accessory,
 the  horse-staves,  which  demand  equal  cai-e  in  the  making,  must
 also  be  taken  into  account.  Without  them  the  shaman  cannot
 perform  any  of  the  principal  rites.  They  are  usually  made  of
-birch-wood,  no  one  but  a  shaman  who  has  passed  his  fifth  con-
-secration being  allowed  to  use  iron  horse-staves.'*  The  Lapps  take
+birch-wood,  no  one  but  a  shaman  who  has  passed  his  fifth  consecration being  allowed  to  use  iron  horse-staves.'*  The  Lapps  take
 great  care  of  their  drum  and  keep  it  covered  up  with  furs.  No
 woman  may  touch  it.
 
 A.     Palaeo-Siberians.
 
-The  ChuTccJice.  Among  Palaeo-Siberians  there  are  no  strict  regu-
-lations as  to  the  shape  and  quality  of  the  shaman's  dress.  Origi-
+The  ChuTccJice.  Among  Palaeo-Siberians  there  are  no  strict  regulations as  to  the  shape  and  quality  of  the  shaman's  dress.  Origi-
 nality of  costume  is  what  is  most  sought  after,  and  Bogoras  tells  us
 that  the  Chukchee  shamans  sometimes  adopt  some  old  coat  brought
 from  the  American  shore.  *  The  Chukchee  have  nothing  similar
@@ -11505,15 +10295,12 @@ perhaps  also  by  the  Kamchadal.'"'
 
 The  absence  of  a  peculiar  shaman's  dress  among  the  Chukchee  V
 
-'  Op.  cit.,  p.  193.
 
 *  These  are  probably  what  are  called  by  later  writers  '  horse-staves '.
 ■■  Op.  cit.,  p.  68.  "  Klementz,  E.  It.  E.,  p.  16.
 
 ''  The  Chukchee,  pp.  457-8.
 
-
-206  RELIGION
 
 may  ))e  accounted  for  by  tlie  fact  that  the  shamans  pertorm  their
 ceremonies  in  the  darkness  of  the  inner  room  of  the  house,  in  an
@@ -11523,8 +10310,7 @@ naked.
 
 The  only  shamanistic  garments  that  Bogoras  speaks  of  are  a  coat
 and  a  cap.  "As  far  as  I  know,'  he  says,  'among  the  other
-neighbouring  tribes  also  female  shamans  have  no  outward  dis-
-tinguishing mark,  nor  do  they  use  the  special  shamanistic  garb
+neighbouring  tribes  also  female  shamans  have  no  outward  distinguishing mark,  nor  do  they  use  the  special  shamanistic  garb
 which  is  assigned  only  to  the  male  shamans.'^
 
 After  this  statement  the  custom  among  certain  tribes  of  the
@@ -11570,8 +10356,7 @@ from  the  "direction"  of  the  darkness,  with  the  arms  longer  than  the
 legs.  The  middle  image  with  only  one  arm  and  one  leg,  and  with
 the  two  eyes  one  above  the  other,  represented  the  kele  lunietun.
 The  third  image  represented  a  crawling  "  spell ''  sent  by  an  enemy
-of  the  shaman,  who  intercepted  it  on  the  way  and  thoroughly  sub-
-dued it  so  that  it  began  to  do  his  bidding.' '  These  different  amulets,
+of  the  shaman,  who  intercepted  it  on  the  way  and  thoroughly  subdued it  so  that  it  began  to  do  his  bidding.' '  These  different  amulets,
 in  the  form  of  pendants  and  tassels,  are  made  of  skin  and  beads  by
 the  shaman  himself,  and  are  fastened  to  various  parts  of  the  body
 or  dress.  Such  are  also  the  "round  patches  of  skin,  often  with
@@ -11609,16 +10394,12 @@ is  made  of  very  thin  skin,  usually  the  dried  skin  of  a  walrus's
 stomach.  In  order  to  stretch  the  skin  it  is  moistened  with  water
 or  wine,  and  the  edge  is  then  tied  with  sinew  cord.     The  ends  of
 
-'  Op.  cit.,  p.  466.  2  Op.  cit.,  p.  468.
 
 '  According  to  Mr.  Henry  Balfour  this  shows  Eskimo  influence.
 
 
-208  RELIGION
-
 this  cord  are  fastened  to  the  handle.  The  drum  is  very  h'ght,
-weighing  from  half  a  pound  to  a  pound  and  a  half.  The  drum-
-stick varies  according  to  its  purpose.  It  is  either  a  narrow,  light
+weighing  from  half  a  pound  to  a  pound  and  a  half.  The  drumstick varies  according  to  its  purpose.  It  is  either  a  narrow,  light
 strip  of  whalebone  from  30  to  40  centimetres  long,  or  a  piece  of  wood
 from  60  to  70  centimetres  long,  which  is  sometimes  adorned  with
 fur  tassels.  The  former  is  used  during  the  magical  performances
@@ -11634,15 +10415,13 @@ fire-board.
 Tlic  Koriialc.  The  shaman  accessories  of  the  Koryak,  another
 Palaeo-Siberian  tribe,  are  described  by  Jochelson  as  follows :  '  The
 Koryak  shamans  have  no  drums  of  their  own  ;  they  use  the  drums
-belonging  to  the  family  in  whose  house  the  shamanistic  per-
-formance takes  place.  It  seems  that  they  wear  no  special  dress  ;  at
+belonging  to  the  family  in  whose  house  the  shamanistic  performance takes  place.  It  seems  that  they  wear  no  special  dress  ;  at
 least  the  shamans  whom  I  had  occasion  to  observe  wore  ordinary
 clothing.'  -
 
 One  embroidered  jacket,  which  was  sold  to  Jochelson  as  an
 Alutor  shaman's  dress,  is  very  much  like  the  ordinary  man's
-dancing-jacket  used  during  the  whale  ceremony,  but  more  elabo-
-rate. The  Koryak  drum  belongs  not  to  the  shaman  but  to  the
+dancing-jacket  used  during  the  whale  ceremony,  but  more  elaborate. The  Koryak  drum  belongs  not  to  the  shaman  but  to  the
 family.  It  is  used  both  as  a  musical  instrument  and  as  a  sacred
 object  in  the  household.  Everybody  who  pleases  can  beat  the
 drum,  but  there  is  usually  one  competent  i^erson  who  knows
@@ -11669,8 +10448,7 @@ not  all  Koryak  drums  possess  it.^
 THE   ACCESSORIES   OF   THE   SHAMAN  209
 
 Tlic  KamcJiadal  {Ifelmen).  Among-  the  Kamchadal  there  is
-apparently  no  shamanistic  garment  or  drum.  Two  early  travel-
-lers to  their  country.  Steller  and  Krasheninnikoflf.  say  that
+apparently  no  shamanistic  garment  or  drum.  Two  early  travellers to  their  country.  Steller  and  Krasheninnikoflf.  say  that
 everybody,  especiallj'  women,  could  shamanize.  and  hence  this
 occupation  was  not  professional  enough  to  demand  a  special  dress.
 
@@ -11719,8 +10497,6 @@ in  two  shamans'  drums  and  other  accessories,  and  at  my  request
 1679  p
 
 
-210  RELIGION
-
 they  allowed  me  to  be  present  at  the  pro]iara,tioii  for  the  ceremony.
 First  of  all  the  drum  was  heated  l)y  the  fire,  to  make  the  hide  taut,
 so  that  the  sound  might  be  more  sonorous.'  The  drum  was  made
@@ -11733,8 +10509,7 @@ plates,-  copper  hoops,  and  other  metal  pendants,  which  produce
 a  loud  clanking  noise  during  the  shamanistic  dances.'  This  girdle
 is  called  in  Olcha  dialect  //anr/pa.  Its  chief  pendant  is  a  large
 copper  disk  with  a  small  handle  ornamented  in  relief,  showing
-Manclui  influence  ;  this  circle,  called  tolr,  makes  the  most  im-
-portant sound.  There  are  also  many  iron  links  called  tasso,  and
+Manclui  influence  ;  this  circle,  called  tolr,  makes  the  most  important sound.  There  are  also  many  iron  links  called  tasso,  and
 many  irregular  pieces  of  iron  called  kijire,  which  make  a  very  loud
 noise  ;  a  few  rolled  iron  plates  called  l-onf/oro,  and,  finally,  some
 small  copper  Ijells  M'ithout  tongues,  called  IvnqoJdo.  When  the
@@ -11751,12 +10526,10 @@ or  vice  versa.
 
 B.     The  Neo-Siberians.
 
-Among  the  Neo-Siberians  all  their  philosophy  of  life  is  repre-
-sented symbolically  in  the  drum,  and  great  significance  is  also
+Among  the  Neo-Siberians  all  their  philosophy  of  life  is  represented symbolically  in  the  drum,  and  great  significance  is  also
 attached  to  various  parts  of  their  dress.
 
-The  Yalnit.  Among  the  Yakut  even  those  who,  like  the  black-
-smith, help  in  the  adornment  of  the  shaman's  garment,  occupy
+The  Yalnit.  Among  the  Yakut  even  those  who,  like  the  blacksmith, help  in  the  adornment  of  the  shaman's  garment,  occupy
 a  half-magical  position,  being  credited  with  'peculiar  fingers'.'
 The  hereditary  l)lacksmiths  have  tools  with  '  souls ',  khcJii/laJxh,
 Avhich   can    give  out   sounds   of  their  own   accord.     The  black-
@@ -11775,8 +10548,7 @@ Manchu  shamans.     [Suggestion  of  Mr.  Henry  Balfour.]
 THE   ACCESSORIES   OF  THE   SHAMAN  211
 
 smiths  are  tliose  who  approach  most  nearly  to  the  shauiau  in
-their  oftice,  ami  are.  in  a  way,  related  to  them.  'The  black-
-smith and  the  shaman  are  of  one  nest ',  says  a  proverb  of  the
+their  oftice,  ami  are.  in  a  way,  related  to  them.  'The  blacksmith and  the  shaman  are  of  one  nest ',  says  a  proverb  of  the
 Kolyma  district,  cited  by  Sieroszewski.  *  The  smith  is  tho  elder
 brother  of  the  shaman'  is  another  saying  quoted  by  Troshchanski.
 Blacksmiths  can  sometimes  cure,  give  advice,  and  foretell  the  future,
@@ -11826,8 +10598,6 @@ disk.'
 p  2
 
 
-212  RELIGION
-
 2.  Oibon-Kiinga  (hole-in-the-ice  sun),  a  disk  of  the  same  shape
 and  size  as  the  first,  hut  with  a  larger  hole  in  the  middle.  It
 hangs  above  or  below  the  first  plate  on  a  long  leather  strap.^
@@ -11864,13 +10634,11 @@ figure  in  the  middle.
 
 sucli  word  as  kungeta;  it  is,  he  says,  hnmisd,  or  l-iisihul,  but  the  meaning
 of  l-i'oias/'i  is  uncertain.  However,  Troshchanski  thinks  that  the  Yakut
-word  kun — '  sun ' — is  not  etjnnologically  connected  with  kundsd.  Khud-
-yakot!"  translates  the  Yakut  word  kusiinn  as  'bell'.  According  to  Katanoft',
+word  kun — '  sun ' — is  not  etjnnologically  connected  with  kundsd.  Khudyakot!"  translates  the  Yakut  word  kusiinn  as  'bell'.  According  to  Katanoft',
 krmina  means  (1)  'oracular  time'  (?).  or  (2)  'iron  circle'  fastened  to  the
 shaman's  coat  and  representing  the  sun.
 
-^  Troshchanski  (p.  144)  converts  this  term  into  oihon-kilndsdtd  (hole-
-in-the-ice  circle).  Kundsafd  is  the  genitive  of  kilndsd ;  the  genitive
+^  Troshchanski  (p.  144)  converts  this  term  into  oihon-kilndsdtd  (holein-the-ice  circle).  Kundsafd  is  the  genitive  of  kilndsd ;  the  genitive
 form  is  used  to  show  that  these  objects  belong  to  the  shaman's  coat.
 Priklonski  {Tliree  Years  in  the  Yakutsk  Territory,  1891,  p.  54)  calls  it
 kuJar-kusanat  (happy,  joyous  sun),  which,  according  to  Troshchanski
@@ -11880,8 +10648,7 @@ north-western  Asia  there  are  sewn  on  the  back  of  tlie  shaman's  coat  
 round  copper  disks,  called  by  the  Altaians  kusunfiy,  or  kuler-kusuugii,
 and  sometimes  two  others  on  the  breasts.  Tretyakoff  (op.  cit.,  p.  214)
 informs  us  that  the  shamans  of  Dolgan  have  a  disk  hanging  on  the
-breast,  which  represents  the  chief  evil  spirit  called  kiiganna.  Trosh-
-chanski (op.  cit.,  p.  145),  however,  suggests  that  kuganna  is  simply  the
+breast,  which  represents  the  chief  evil  spirit  called  kiiganna.  Troshchanski (op.  cit.,  p.  145),  however,  suggests  that  kuganna  is  simply  the
 Yakut  kuf!diid,  and  is  not  a  term  for  an  evil  spirit,  but  for  the  disk.
 
 -  Sieroszewski  quotes  a  native  description  of  it,  op.  cit.,  p.  634.
@@ -11944,7 +10711,6 @@ thus  change  into  heavenly  beings,  most  of  whom  are  ex-shamans ;
 
 
 Ibid.
-'  Op.  cit.,  p.  626.
 
 
 214  EELIGION
@@ -12033,8 +10799,7 @@ The  drum  is  always  egg-shaped,  and  is  covered  with  the  hide  of
 a  young  bull.  Its  longest  diameter  is  53  cm.,  the  width  of  the  rim
 11  cm.,  and  the  length  of  the  stick  32  cm.  The  wider  part  of
 the  stick  is  covered  with  cowhide.  According  to  Jochelson,  there
-are  twelve  raised  representations  of  horns  on  the  drum."*  Sieros-
-zewski'"  says  that  they  are  always  found  in  odd  numbers,  7,  9,  or
+are  twelve  raised  representations  of  horns  on  the  drum."*  Sieroszewski'"  says  that  they  are  always  found  in  odd  numbers,  7,  9,  or
 11.  The  cross  inside  is  attached  to  the  rim  by  means  of  straps.
 Little  bells,  jingling  trinkets,  and  other  rattles  of  iron  and  bone
 are  attached  inside  round  tiie  rim,  especially  in  the  places  where
@@ -12105,7 +10870,6 @@ an  even  number.  The  fire  is  not  put  out  for  these  performances,
 and  some  of  the  horsehair  is  thrown  on  to  it.  The  shaman  does
 not  dance,  but  sings  and  whirls  about.''
 
-1  Op.  cit.,  p.  129.
 
 -  Katanotf,  A  Journey  to  Karar/ass  in  1S90,  I.  R.  G.  S.,  1891,  p.  201.
 
@@ -12143,8 +10907,7 @@ of  the  writers  on  the  Neo-Siberians.
 Potanin  ^  describes  how,  on  a  shaman's  coat  of  the  Uriankhai
 tribe,  among  other  properties,  there  was  a  small  doll  with  a
 minute  drum  in  its  left  hand.  On  the  same  string  to  which  the
-doll  was  tied  there  was  another  small  figure  of  an  animal  re-
-sembling the  sacrificial  animal  of  the  real  shaman.  The  signifi-
+doll  was  tied  there  was  another  small  figure  of  an  animal  resembling the  sacrificial  animal  of  the  real  shaman.  The  signifi-
 cance of  this  is,  of  course,  obvious.  The  shaman's  ancestor  resides
 in  a  symbolic  form  in  the  shaman's  coat.  Thus  the  small  doll  of
 the  Uriankhai  shaman's  coat  takes  the  place  of  the  Umagi)at  among
@@ -12171,8 +10934,7 @@ is  possible  that  iimugijat  is  not  a  symbol  of  the  ancestor  spirit,  b
 has  a  meaning  of  its  own.  On  the  Yakut  coat  the  skeleton  exists
 independent  of  iimCujijat.  On  the  Altaian  coats  described  by
 Potanin,  the  doll  is  found  side  by  side  with  the  iimugyat.  Both
-Troshchanski  and  Sieroszewski  descril>e  iimagijat  as  an  indis-
-pensable ornament  of  every  shaman's  coat.
+Troshchanski  and  Sieroszewski  descril>e  iimagijat  as  an  indispensable ornament  of  every  shaman's  coat.
 
 The  coat  possesses  an  impersonal  power  of  itself.  It  is  said  to
 bear  the  names  of  ongor  (Mongol)  and  tanara  (Yakut)  in  addition
@@ -12249,8 +11011,7 @@ Among  some  shamans  of  the  Teleut,  the  cap  is  made  of  brown
 owl  skin ;  the  feathers  remain  as  ornaments,  and  sometimes  also
 the  bird's  head.
 
-It  is  not  all  shamans  who  can  wear  the  manijaJc  and  the  owl-
-skin  cap.  The  spirits  generally  announce  to  the  chosen  man
+It  is  not  all  shamans  who  can  wear  the  manijaJc  and  the  owlskin  cap.  The  spirits  generally  announce  to  the  chosen  man
 when  he  may  wear  them.
 
 Among  the  Tartars  of  Chern  the  shaman  wears  a  mask  {locho),
@@ -12270,8 +11031,6 @@ a  vertical  wooden  stick  and  a  horizontal  iron  chord  with  rattles
 
 '  Op.  cit.,  p.  52.  ^  Op.  cit.,  iv.  44,  679.
 
-
-220  RELIGION
 
 attached.  The  drum  is  held  by  the  wooden  stick,  and  not  at  the
 intersection  of  the  stick  and  the  iron  crossbar.
@@ -12347,8 +11106,7 @@ A.  The  lower  part  of  the  drum  :
 1.  Bal-Kazfiu  (painted  in  white),  'a  rich  birch' — alluding  to
 the  birches  round  which  annual  sacrificial  ceremonies  are  held.
 
-2.  Ulug-hai-Jcazyn  (in  white) — two  trees  growing  in  Ulu-
-khan's  country.
+2.  Ulug-hai-Jcazyn  (in  white) — two  trees  growing  in  Ulukhan's  country.
 
 3  and  4.  Ak-haga  ("white  frog')  and  Kara-haga  ('black  frog'),
 the  servants  of  Ulu-khan.
@@ -12410,13 +11168,11 @@ division  of  the  drum  into  lower  and  upper  parts  representing
 lower  and  up)ier  worlds,  as  among  the  Tartars  of  Chern.
 
 The  Jlurijal.  The  Buryat  shaman's  costume  was  first  described
-by  Pallas."^  It  belonged  to  a  female  shaman,  who  was  accom-
-panied by  her  husband  and  two  other  Buryat,  each  of  them
+by  Pallas."^  It  belonged  to  a  female  shaman,  who  was  accompanied by  her  husband  and  two  other  Buryat,  each  of  them
 holding  a  magical  drum.''  She  herself  held  in  her  hand  two
 sticks,  ornamented  at  the  top  end  with  a  carving  of  a  horse's  head
 suri-ounded  by  small  bells.  [This  implement  is  called  by  recent
-travellers  'horse-staves'.]  From  the  back  of  the  shoulders  reach-
-ing to  the  ground  hung  about  thirty  snakes,  made  of  white  and
+travellers  'horse-staves'.]  From  the  back  of  the  shoulders  reaching to  the  ground  hung  about  thirty  snakes,  made  of  white  and
 black  skin,  in  such  a  way  that  the  snakes  seem  to  be  composed  of
 white  and  black  rings.  One  of  the  snakes  was  divided  into  three
 at  the  end,  and  was  accounted  indispensable  to  each  Buryat
@@ -12473,10 +11229,8 @@ Klementz-^  says  that  the  old-fashioned  orgo//  was  shorter  than
 that  of  the  present  day.
 
 The  front  of  the  coat  is  covered  with  metal  figures  of  horses,
-fishes,  birds,  &c.  The  back  is  covered  with  twisted  iron  repre-
-senting snakes,  with  rattles  hanging  from  them  {slmmshorgo),^
-together  with  a  whole  row  of  little  bells  and  tambourine-
-bells.
+fishes,  birds,  &c.  The  back  is  covered  with  twisted  iron  representing snakes,  with  rattles  hanging  from  them  {slmmshorgo),^
+together  with  a  whole  row  of  little  bells  and  tambourinebells.
 
 On  the  chest  above  the  thin  plates  used  to  hang  little  shining
 copper  disks,  and  on  the  sleeves  were  also  hung  thin  iron  plates,
@@ -12510,8 +11264,7 @@ after  death,  for  burial,
 
 224  EELIGION
 
-chain  composed  of  four  links  and  ending  in  small  objects  resem-
-bling a  spoon  and  an  awl.^
+chain  composed  of  four  links  and  ending  in  small  objects  resembling a  spoon  and  an  awl.^
 
 Klementz^  calls  this  cap  the  metal  diadem,  'consisting  of  an
 iron  ring  with  two  convex  arches,  also  of  iron,  crossing  one
@@ -12617,8 +11370,6 @@ of  skin,  wood,  and  metal,  painted,  and  ornamented  with  a  great
 1679  Q
 
 
-226  RELIGION
-
 beard ;  and  foli,  a  inetul  looking-glass  with  representations  of
 twelve  animals  on  it ;  this  is  hung  round  the  neck  and  worn  on
 the  breast ;  sometimes  it  is  sewed  on  the  shaman's  coat.
@@ -12643,8 +11394,7 @@ and  covered  with  transparent  reindeer  hide,  are  round  in  shape
 and  of  various  sizes.  The  largest  drum  seen  by  Castren  was
 nearly  two  feet  in  diameter  and  two  and  a  half  inches  in  height. -
 According  to  Dr.  Finsch's  description,  the  drums  of  the  Samoyed
-and  of  the  Ob-Ostyak  are  like  the  Altai  drums,  round,  broad-
-rimmed,  covered  on  one  side  only,  and  with  a  diameter  of  from
+and  of  the  Ob-Ostyak  are  like  the  Altai  drums,  round,  broadrimmed,  covered  on  one  side  only,  and  with  a  diameter  of  from
 30  cm.  to  50  cm.
 
 The  shaman's  costume  consists  of  a  chamois-leather  coat  called
@@ -12742,8 +11492,7 @@ imitating  the  howling  of  tlie  wolf,  the  groaning  of  the  cargoose,
 and  the  voices  of  other  animals,  his  guardian  spirits — appeared  to
 come,  sometimes  from  the  corner  nearest  to  my  seat,  then  from
 the  opposite  end,  then  again  from  the  middle  of  the  house,  and
-then  it  seemed  to  proceed  from  the  ceiling.  He  was  a  ventrilo-
-quist. Shamans  versed  in  this  art  are  believed  to  possess
+then  it  seemed  to  proceed  from  the  ceiling.  He  was  a  ventriloquist. Shamans  versed  in  this  art  are  believed  to  possess
 particular  power.  His  drum  also  seemed  to  sound,  now  over  my
 head,  now  at  my  feet,  now  behind,  now  in  front  of  me.  I  could
 see  nothing ;  but  it  seemed  to  me  that  the  shaman  was  moving
@@ -12781,8 +11530,6 @@ noticed,  however,  that  after  having  cut  his  jacket,  he  turned  the
 
 '  Op.  cit.,  p.  51.  2  iijij^
 
-
-230  RELIGION
 
 knife  downwards.     He  drew  out  the  knife  with  the  same  rattling
 in  his  throat,  and  resumed  beating  the  drum.''
@@ -12833,8 +11580,6 @@ Yukaghir  of  the  lower  Kolyma,  the  wife  is  also  the  assistant  of
 
 1  Op.  cit.,  p.  52.  "  Ibid.  '  The  Chukchee,  p.  433.
 
-*  Op.  cit.,  p.  434.
-
 
 I
 
@@ -12883,15 +11628,12 @@ spirits  were  saying,  and  he  would  invaribly  reply  that  he  did  not
 remember,  that  he  forgot  everything  after  the  seance  was  over,  and
 that,  besides,  he  did  not  understand  the  language  of  his  spirits.
 At  first  I  thought  that  he  was  deceiving  me ;  but  I  had  several
-opportunities  of  convincing  myself  that  he  really  did  not  under-
-stand any  Koryak.  Evidently  he  had  learned  by  heart  Koryak
+opportunities  of  convincing  myself  that  he  really  did  not  understand any  Koryak.  Evidently  he  had  learned  by  heart  Koryak
 incantations  which  he  could  pronounce  only  in  a  state  of
 excitement.'^
 
 '  Op.  cit.,  p.  435.  *  Jochelson,  The  Koryak,  p.  52.
 
-
-232  RELIGION
 
 There  is  no  regular  shanianist  language  among  the  Cliukchee,
 merely  a  few  special  expressions.
@@ -12920,8 +11662,7 @@ warnings  of  this  kind  at  almost  every  shamanistic  performance.'
 
 After  the  preliminary  intercourse  with  the  '  spirits ',  the  shaman,
 still  in  the  dark,  gives  advice  and  utters  prophecies.  For  example,
-at  one  ceremony,  where  Bogoras  was  present,  the  shaman  Galmu-
-urgin  prophesied  to  his  host  that  many  wild  reindeer  would  be  at
+at  one  ceremony,  where  Bogoras  was  present,  the  shaman  Galmuurgin  prophesied  to  his  host  that  many  wild  reindeer  would  be  at
 his  gate  the  following  autumn.  '  One  buck  ',  he  said,  '  will  stop  on
 the  right  side  of  the  entrance,  and  pluck  at  the  grass,  attracted
 by  a  certain  doe  of  dark-grey  hair.  This  attraction  must  be
@@ -12951,8 +11692,7 @@ among  other  thinj^s,  seeks  to  destroy  the  life  which  is  under
 his  temporary  pcsver.'^  Many  tricks  are  performed  by  shamans
 even  in  daylight.
 
-Upune.  the  wife  of  a  dead  Chukchee  shaman,  possessed  won-
-derful shamanistic  power ;  she  herself  declared  that  she  had
+Upune.  the  wife  of  a  dead  Chukchee  shaman,  possessed  wonderful shamanistic  power ;  she  herself  declared  that  she  had
 only  a  small  part  of  her  husband's  ability.  In  a  shamanistic
 performance  "  she  took  a  largo  round  pebble  of  the  size  of  a  man's
 fist,  set  it  upon  the  drum,  and,  blowing  upon  it  from  all  sides,
@@ -12982,22 +11722,18 @@ Neo-Siberians.
 The  Yakut.  For  comparison  with  the  Palaeo-Siberian  methods
 of  shamanizing,  we  shall  take  a  Yakut  shaman  in  action,  as
 described  by  Sieroszewski.*  *  Outwardly,  shamanistic  ceremonies
-are  very  uniform,'  says  Sieroszewski.  The  ceremony  now  de-
-scribed '  is  the  part  of  the  shamanistic  ceremony  which  remains
+are  very  uniform,'  says  Sieroszewski.  The  ceremony  now  described '  is  the  part  of  the  shamanistic  ceremony  which  remains
 always  and  everywhere  unchanged,  and,  sanctioned  by  custom,
 forms,  so  to  speak,  the  basis  of  the  rite.'
 
 When  the  shaman  who  has  been  called  to  a  sick  person  enters
 the  yurla,  he   at    once  takes  the  place  destined  for  him  on  the
 
-'  Op.  cit.,  p.  442.  2  Op.  cit.,  p.  444.
 
 ^  Sarytchetf,  lite  Voyage  of  Capt.  Sarytcheff's  Fleet  along  the  N.E.  Coast
 of  SOm-ia,  through  the  Polar  Sea  and  the  Pacific,  p.  30.
 *  Sieroszewski,  12  Lat  w  Kraju  YakiUow,  1902,  p.  639.
 
-
-234  RELIGION
 
 billiri/J;  agon.  He  lies  on  his  white  mare's  skin  and  waits  for  the
 night,  the  time  when  it  is  possible  to  shamanize.  Meanwhile  he
@@ -13064,8 +11800,7 @@ profound  silence.  Eventually  a  single  great  yawn  like  the  clang
 of  iron  breaks  the  stillness,  followed  by  the  loud  piercing  cry  of  a
 falcon,  or  the  plaintive  weeping  of  a  seamew — then  silence  again.
 
-'  Only  the  gentle  sound  of  the  voice  of  the  drum,  like  the  hum-
-ming of  a  gnat,  announces  that  the  shaman  has  begun  to  play.
+'  Only  the  gentle  sound  of  the  voice  of  the  drum,  like  the  humming of  a  gnat,  announces  that  the  shaman  has  begun  to  play.
 
 'This  music  is  at  first  soft,  delicate,  tender,  then  rough  and
 irrepressible  like  the  roar  of  an  oncoming  storm.  It  grows  louder
@@ -13103,8 +11838,6 @@ shaman  chants  the  following  obscure  fragments  :
 
 *  Sieroszewski,  oi^.  cit.,  p.  641.
 
-
-286  RELIGION
 
 7.  *  Horse  of  the  steppes,  appear  !  teach  me  ! '
 
@@ -13144,8 +11877,7 @@ more  wild  shouts  and  meaningless  words — then  all  is  silent.
 
 Adjurations  similar  to  the  above  are  used  in  all  the  Yakut
 districts  and  all  ceremonies  begin  with  them.  There  is,  however,
-another  formula  still  longer  and  more  complicated,  which  Sieros-
-zewski  sa5's  he  could  not  procure.  The  ritual  which  follows
+another  formula  still  longer  and  more  complicated,  which  Sieroszewski  sa5's  he  could  not  procure.  The  ritual  which  follows
 this  formula  consists  of  an  improvisation  appropriate  to  each
 person  and  occasion.
 
@@ -13165,15 +11897,13 @@ back.
 
 THE   SHAMAN   IN   ACTION  237
 
-begins  to  leap  and  dance,  at  first  on  the  skin,  and  then,  liis  move-
-ments becoming  more  rapid,  he  glides  into  the  middle  of  the
+begins  to  leap  and  dance,  at  first  on  the  skin,  and  then,  liis  movements becoming  more  rapid,  he  glides  into  the  middle  of  the
 room.  Wood  is  (quickly  piled  on  the  fire,  and  the  light  spreads
 through  the  ijurta.  which  is  now  full  of  noise  and  movement.
 The  shaman  dances,  sings,  and  beats  the  drum  uninterruptedly,
 jumps  about  furiously,  turning  his  face  to  the  south,  then  to  the
 west,  then  to  the  east.  Those  who  hold  him  by  the  leather
-thongs  sometimes  have  great  difficulty  in  controlling  his  move-
-ments. In  the  south  Yakut  district,  however,  the  shaman  dances
+thongs  sometimes  have  great  difficulty  in  controlling  his  movements. In  the  south  Yakut  district,  however,  the  shaman  dances
 unfettered.  Indeed,  he  often  gives  up  his  drum  so  as  to  be  able  to
 dance  more  unrestrainedly.
 
@@ -13185,8 +11915,7 @@ often  he  foams  at  the  mouth.
 '  He  moves  round  the  room,  advancing  and  retreating,  beating
 the  drum,  which  resounds  no  less  wildlj'  than  the  roaring  of  the
 shaman  himself ;  he  shakes  his  jingling  coat,  and  seems  to  become
-more  and  more  maniacal,  intoxicated  with  the  noise  and  move-
-ment.
+more  and  more  maniacal,  intoxicated  with  the  noise  and  movement.
 
 *  His  fury  ebbs  and  rises  like  a  wave  ;  sometimes  it  leaves  him
 for  a  while,  and  then,  holding  his  drum  high  above  his  head,
@@ -13214,8 +11943,6 @@ makes  terrifying  gestures,  and  entreats  the  "spirits".
 '  At  length  all  is  made  clean,  the  suspicious  "  cloud  ''  is  no
 more  to  be  seen,  which  signifies  that  the  cause  of  the  trouble  has
 
-
-238  RELIGION
 
 been  di'iven  out ;  the  sacrifice  is  accepted,  the  prayers  have  been
 heard — the  ceremony  is  over.
@@ -13300,8 +12027,7 @@ and  commences  to  dance.  The  dance  is  followed  by  a  series  of
 complicated  and  difficult  body-movements.  While  all  this  is
 going  on  the  rhythmical  chiming  of  the  bells  never  ceases.  His
 song  consists  of  a  sort  of  dialogue  with  the  spirits,  and  is  sung
-with  changes  of  intonation  denoting  different  degrees  of  excite-
-ment or  enthusiasm.  When  his  enthusiasm  rises  to  a  high  pitch,
+with  changes  of  intonation  denoting  different  degrees  of  excitement or  enthusiasm.  When  his  enthusiasm  rises  to  a  high  pitch,
 those  present  join  in  the  singing.  After  the  shaman  has  learnt  all
 he  wishes  from  the  spirits,  the  latter  communicate  the  will  of  the
 god  to  the  people.  If  he  is  to  foretell  the  future,  he  employs
@@ -13321,15 +12047,12 @@ mysterious  scratchings  on  the  reindeer-skin  Avhere  he  sits.     Then
 '  Castren,  Reiseben'chte  unci  Briefe,  1845-9,  pp.  172  4.
 
 
-240  RELIGION
-
 the  shaman's  bonds  are  untied,  he  is  set  free,  and  every  one  is
 convinced  that  what  they  heard  was  the  work  of  the  spirits.
 
 The  Altaians.  The  Mms  (shamans)  of  the  Turkic  tribes  of  the
 Altai  have  preserved  with  great  strictness  the  ancient  shamanistic
-ceremonial  forms.  Potanin  '  gives  a  curious  description  of  the  per-
-formance of  a  young  shaman,  Enchu,  who  lived  by  the  River  Talda,
+ceremonial  forms.  Potanin  '  gives  a  curious  description  of  the  performance of  a  young  shaman,  Enchu,  who  lived  by  the  River  Talda,
 about  six  versts  from  Anguday.  Four  stages,  each  marked  by
 a  different  posture  of  the  shaman,  characterized  his  performance  :
 in  the  first,  he  was  sitting  and  facing  the  fire ;  second,  standing,
@@ -13343,8 +12066,7 @@ had  no  recollection  of  what  happened  while  he  was  shamanizing
 with  his  back  turned  to  the  fire.  While  he  was  in  that  position  he
 had  been  whirling  about  madly  in  circles  on  one  spot,  and  without
 any  considerable  movement  of  his  feet ;  crouching  down  on  his
-haunches,  and  rising  again  to  a  standing  posture,  without  inter-
-rupting the  rotating  movement.  As  he  alternately  bent  and
+haunches,  and  rising  again  to  a  standing  posture,  without  interrupting the  rotating  movement.  As  he  alternately  bent  and
 straightened  his  body  from  the  hips,  Ijackwards  and  forwards
 and  from  side  to  side,  with  lively  movements  or  jerks,  the
 manyalc  (metal  pendants)  fastened  to  his  coat  danced  and  dangled
@@ -13355,8 +12077,7 @@ time  to  time  Enchu  held  the  drum  high  above  his  head  in
 a  horizontal  position  and  beat  upon  it  from  below.  The  natives
 of  Anguday  explained  to  Potanin  that  when  the  shaman  held  the
 drum  in  that  way,  he  was  collecting  spirits  in  it.  At  times  he
-would  talk  and  laugh  with  some  one  apparently  near  by,  but  in-
-visible to  others,  showing  in  this  manner  that  he  was  in  the
+would  talk  and  laugh  with  some  one  apparently  near  by,  but  invisible to  others,  showing  in  this  manner  that  he  was  in  the
 company  of  spirits.  At  one  time  Enchu  fell  to  singing  more
 quietly  and  evenly,  simultaneously  imitating  on  his  drum  the
 hoof-beats  of  a  horse.  This  was  to  indicate  that  the  shaman,
@@ -13385,8 +12106,7 @@ surmounting  the  passes  and,  in  doing  so,  breathes  heavily.  On  the
 top  he  finds  the  Ijones  of  many  lams  who  have  fallen  here  and  died
 through  failure  of  power.  Again  he  sings  songs  of  hope,  declares
 he  will  leap  over  the  mountain,  and  suits  the  action  to  the  word.
-At  last  he  comes  towards  the  opening  which  leads  to  the  under-
-world. Here  he  finds  a  sea,  bridged  only  by  a  hair.  To  show  the
+At  last  he  comes  towards  the  opening  which  leads  to  the  underworld. Here  he  finds  a  sea,  bridged  only  by  a  hair.  To  show  the
 difficult)'  of  crossing  this  bridge,  the  lam  tottei-s,  almost  falls,  and
 with  difficulty  recovers  himself.  In  the  depths  of  the  sea  he
 beholds  the  bodies  of  many  sinful  kams  who  have  perished  there,
@@ -13417,8 +12137,6 @@ to  indicate  that  Erlik  has  drunk.     When  he  perceives  that  Erlik's
 1679  R
 
 
-242  RELIGION
-
 humour  is  somewhat  milder  under  the  influence  of  his  draught  he
 makes  him  off'erings  of  gifts.  The  great  spirit  (Erlik)  is  moved  by
 the  offerings  of  the  Icam,  and  promises  increase  of  cattle,  declares
@@ -13442,12 +12160,10 @@ Nearly  all  writers  on  Siberia  agree  that  the  position  of  the
 female  shaman  in  modern  days  is  sometimes  even  more  important
 than  that  occupied  by  the  male.
 
-Krasheninnikoff  ascribes  the  shamanistic  gift  among  the  Kam-
-chadal  almost  exclusively  to  women ;  Steller,  who  travelled
+Krasheninnikoff  ascribes  the  shamanistic  gift  among  the  Kamchadal  almost  exclusively  to  women ;  Steller,  who  travelled
 through  Kamchatka  after  him,  states,  however,  that  there  were
 also  men-shamans  among  the  Yukaghir,  Koryak,  and  Chukchee.
-Bogoras,  Jochelson,  and  others  saw  as  many  notable  women-
-shamans  as  men.  Tretyakoff  (op.  eit.,  p.  213)  affirms  the
+Bogoras,  Jochelson,  and  others  saw  as  many  notable  womenshamans  as  men.  Tretyakoff  (op.  eit.,  p.  213)  affirms  the
 existence  of  women-shamans  side  by  side  with  men-shamans
 among  the  Samoyed  of  Turukhan,  and  the  same,  according  to
 Bielayewski,^  is  true  of  the  Ostyak.  Among  the  Tungus  of
@@ -13455,8 +12171,7 @@ Baikal  -  the  woman  can  be  a  shaman  as  well  as  the  man  ;  and
 Gmelin"  met  among  them  a  woman  eighteen  years  of  age  who
 was  held  superior  to  any  man-shaman.  Among  the  Yakut  and
 Buryat  there  are  shamans  of  both  sexes.'*  Solovieif '  thinks  that
-among  the  Yakut  the  female  shamans  are  considered  less  impor-
-tant than  the  male,  and  the  people  ask  their  help  only  when  there
+among  the  Yakut  the  female  shamans  are  considered  less  important than  the  male,  and  the  people  ask  their  help  only  when  there
 is  no  man-shaman  in  the  neighbourhood.  The  shamanesses,
 according  to  him,  are  especially  good  in  foretelling  the  future,
 looking  for  things  that  are  lost,  and  curing  mental  diseases.
@@ -13477,16 +12192,13 @@ mains  of  Paganism  among  the  Yahiit,  'Siberia'  (Annual),  i.  414.
 R  2
 
 
-244  RELIGION
-
 'declared  u  Cliukchee  shaman  to  Bogoras.  She  does  not  need  to
 be  specially  prepared  for  the  calling,  and  so  her  novitiate  is  much
 shorter  and  less  trying.  Ventriloquism,  however,  is  not  practised
 among  female  shamans.
 
 Taking  into  account  the  present  prominent  position  of  female
-shamans  among  many  Siberian  tribes  and  their  place  in  tra-
-ditions,^ together  with  certain  feminine  attributes  of  the  male
+shamans  among  many  Siberian  tribes  and  their  place  in  traditions,^ together  with  certain  feminine  attributes  of  the  male
 shaman  (such  as  dress,  habits,  privileges)  and  certain  linguistic
 similarities  between  the  names  for  male  and  female  shamans,^
 many  scientists  (Troshchanski,  Bogoras,  Stadling)  have  been  led
@@ -13515,8 +12227,7 @@ give  him  a  special  appellation.  This,  according  to  Troshchanski  (p.  11
 may  be  explained  by  the  fact  that  when  the  Yakut  appeared  in  the
 present  Yakut  district  they  did  not  possess  a  man-shaman,  but  they  had
 already  a  woman-shaman,  for  whom  all  these  tribes  have  a  name  in
-common.  Among  Mongols,  Buryat,  Yakut,  Altaians,  Turgout,  and  Kir-
-gis, the  following  names  for  the  woman-shanian  occur,  tdagan,  udctycni,
+common.  Among  Mongols,  Buryat,  Yakut,  Altaians,  Turgout,  and  Kirgis, the  following  names  for  the  woman-shanian  occur,  tdagan,  udctycni,
 ithakhan,  iitygan,  utiUjini,  i<hiaii,  cluana.  All  these  words  come  from
 a  root  the  meaning  of  which  has  not  been  certainly  determined.  In
 some  Tartaric  dialects  ildecfe,  'female  shaman',  means  also  'housewife'
@@ -13525,8 +12236,7 @@ ittctfjaii  seems  to  be  a  Mongol  word  in  origin.  According  to  Potanin
 and  Banzaroff,  the  term  in  question  is  otymologically  connected  with
 the  Mongol  word  Eiiigen,  'earth-goddess'  (Etiigen-eke,  'mother-earth').
 Potanin  further  connects  the  word  for  p]arth-Goddess  among  different
-Altaic  and  Finno-Ugric  tribes  with  the  names  of  constellations,  espe-
-ciall}-  with  the  two  bear  constellations.  In  one  Tartaric  dialect  utygan
+Altaic  and  Finno-Ugric  tribes  with  the  names  of  constellations,  especiall}-  with  the  two  bear  constellations.  In  one  Tartaric  dialect  utygan
 means  'bear'.  According  to  ancient  Mongol  and  Chinese  myths,  the  gods
 of  certain  constellations  are  connected  with  the  protective  spirits  of  the
 family  hearth,  just  as  they  are  connected  with  the  goddess  of  the  earth.
@@ -13566,8 +12276,7 @@ latter  seems  to  have  grown  out  of  the  former.  The  mother  shares
 with  the  father  the  role  of  shaman  in  the  family  ceremonials  ;  she
 has  charge  of  the  drum  and  amulets,  and  in  exceptional  cases  it  is
 she,  and  not  the  father,  who  performs  the  family  sacrifice.  Thus
-shamanism  is  not  restricted  to  either  sex,  l>ut  '  the  gift  of  inspi-
-ration is  thought  to  be  bestowed  more  frequently  upon  women,
+shamanism  is  not  restricted  to  either  sex,  l>ut  '  the  gift  of  inspiration is  thought  to  be  bestowed  more  frequently  upon  women,
 though  it  is  reputed  to  be  of  a  rather  inferior  kind,  the  higher
 grades  Ijelonging  rather  to  men.  The  reason  given  for  this  is
 that  the  Ijearing  of  children  is  generally  adverse  to  shamanistic
@@ -13584,8 +12293,6 @@ are  visible  traces  that  family  shamanism  preceded  the  individual,
 *  Bogorud,  The  Chukchee,  ii.  41o.  '"  Op.  cit.,  p.  415.
 
 
-246  RELIGION
-
 or  professional,  kind  ;  and  although  woman  plays  an  important
 role  in  both,  there  is  no  sufficient  reason  to  suppose  that  in
 former  times  she  alone  could  shamanize.  Of  course,  the  adherents
@@ -13597,8 +12304,7 @@ of  the  moral  supremacy  of  women  in  these  societies,  but  only  of
 the  superiority  of  individuals  of  either  sex.
 
 A  similar  state  of  things  may  be  observed  among  other  Palaeo-
-Siberians  and  Neo-Siberians,  although  among  the  latter  a  woman-
-shaman  is  not  very  often  met  with.
+Siberians  and  Neo-Siberians,  although  among  the  latter  a  womanshaman  is  not  very  often  met  with.
 
 In  spite  of  the  low  social  position  of  women  among  these
 natives,  it  is  personal  ability,  irrespective  of  sex,  which  is  the
@@ -13606,15 +12312,13 @@ decisive  factor  in  the  case  of  the  shamanistic  vocation.
 
 As  proof  that  women  were  the  original  shamans,  certain
 authors  adduce  the  fact  that  the  professional  shaman  does  not
-possess  his  own  drum.  But  neither  is  this  the  case  with  women-
-or  men-shamans  among  those  peoples  where  professional  shaman-
+possess  his  own  drum.  But  neither  is  this  the  case  with  womenor  men-shamans  among  those  peoples  where  professional  shaman-
 ism is  not  yet  clearly  differentiated  from  family  shamanism.  As
 regards  the  female  dress  and  habits  of  the  shaman,  I  shall  have
 opportunity  to  discuss  this  point  when  dealing  with  tribes  whose
 shaman's  garment  is  more  elaborate,  i.  e.  the  Neo-Siberians.
 
-Troshchanski  ^  and,  following  him,  Stadling-  believe  profes-
-sional shamanism  to  be  a  special  institution  which  has  no  direct
+Troshchanski  ^  and,  following  him,  Stadling-  believe  professional shamanism  to  be  a  special  institution  which  has  no  direct
 connexion  with  the  communal  cult,  though  in  the  latter  there  are
 also  shamanistic  elements.  In  the  later  stages  of  its  development
 the  office  of  shaman  is  connected  in  certain  cases  with  the
@@ -13625,10 +12329,8 @@ confine  ourselves  to  what  he  says  about  the  Yakut. '^
 
 Among  them,  where  there  are  two  categories  of  shamans,  the
 *  white  ',  representing  creative,  and  the  *  black  ',  destructive  forces,
-the  latter  tend  to  behave  like  women,  since  it  is  from  women-
-shamans  that  they  derive  their  origin.  In  support  of  this  theory
-of  theii'  origin  Troshchanski  puts  forward  the  following  argu-
-ments :
+the  latter  tend  to  behave  like  women,  since  it  is  from  womenshamans  that  they  derive  their  origin.  In  support  of  this  theory
+of  theii'  origin  Troshchanski  puts  forward  the  following  arguments :
 
 1  Tfie  Evolution  of  the  Black  Faith,  1902,  pp.  123-7.
 ^  Sliamanismen  i  Norm  Asien,  1912,  pp.  82-92.
@@ -13657,8 +12359,7 @@ room  where  the  mother  is  lying,  but  only  women  and  shamans.
 
 Finally,  according  to  Troshchanski,  the  female  '  black '  shaman
 was  replaced  by  the  male  *  black '  shaman.  This  transition  was
-effected  by  means  of  the  smith,  who,  as  the  maker  of  the  woman-
-shaman's  garment,  held  an  influential  position,  and  whose  power
+effected  by  means  of  the  smith,  who,  as  the  maker  of  the  womanshaman's  garment,  held  an  influential  position,  and  whose  power
 increased  in  proportion  to  the  length  of  his  ancestry.^  Through
 their  contact  with  shamanistic  implements  they  acquired  mana
 and  themselves  became  sorcerers  and  shamans.
@@ -13669,15 +12370,13 @@ family  or  member  of  a  community  was  chosen ;  he  was  elected
 anew  for  each  ceremony  until  eventually  his  tenure  of  the  office
 became  permanent.^
 
-This  theory  of  a  dual  evolution  of  shamans  is  not  easy  to  sub-
-stantiate. In  the  first  place,  we  find  that  the  '  white '  shaman's
+This  theory  of  a  dual  evolution  of  shamans  is  not  easy  to  substantiate. In  the  first  place,  we  find  that  the  '  white '  shaman's
 garment  is  made  by  a  'white'  smith ;  which  fact,  by  Troshchanski's
 mode  of  argument,  would  seem  to  imply  a  line  of  development
 for  'white'  shamanism  parallel  to,  and  not  divergent  from,  that
 of  '  black  '  shamanism.
 
-Again,  all  the  supposed  feminine  habits  of  the  shaman  of  to-
-day would  not  go  to  prove  that  the  earlier  female-shaman  was  the
+Again,  all  the  supposed  feminine  habits  of  the  shaman  of  today would  not  go  to  prove  that  the  earlier  female-shaman  was  the
 servant  of  ahassi/  alone.  We  find  in  the  past  as  well  as  in  the
 present  that  the  woman  can  be  the  priestess  of  the  family  cult
 and  a  professional  shamaness,  the  servant  of  either  a'ii/  or  ahass/j.
@@ -13689,8 +12388,6 @@ developed  than  that  of  ai[i,  the  '  black '  shamans,  both  men  and
 Kolyma  district  where  the  shaman  wore  such  a  costume.
 '^  Troshchanski,  op.  cit.,  p.  125.  '  Op.  cit.,  p.  124.
 
-
-248  RELIGION
 
 women,  ])i-e{loniinnte.  On  the  otlior  hand,  among  the  Votyaks,
 where  the  cult  of  a'i/i  is  more  developed  than  that  of  ahassij,  the
@@ -13716,17 +12413,13 @@ women  is  an  obscure  and  complex  problem,  and  thinks  it  unlikely
 that  any  single  solution  would  be  applicable  to  all  cases.  In
 enumerating  instances  of  such  cases  among  the  priests  of  Khasis  ^
 and  the  Pelew  Islanders'"' — instances,  that  is,  of  men  dressing
-and  acting  like  women  throughout  life — he  ascribes  these  pheno-
-mena to  the  inspiration  of  a  female  spirit,  which  often  chooses
-a  man  rather  than  a  woman  for  her  minister  and  inspired  mouth-
-piece."
+and  acting  like  women  throughout  life — he  ascribes  these  phenomena to  the  inspiration  of  a  female  spirit,  which  often  chooses
+a  man  rather  than  a  woman  for  her  minister  and  inspired  mouthpiece."
 
 As  to  the  people  of  Siberia,  the  '  change  of  sex '  is  found  chiefly
-among  Palaeo-Siberians,  namely  the  Chukchee,  Koryak,  Kam-
-chadal,  and  Asiatic  Eskimo.^
+among  Palaeo-Siberians,  namely  the  Chukchee,  Koryak,  Kamchadal,  and  Asiatic  Eskimo.^
 
-Even  the  earliest  travellers  record  instances  of  this  pheno-
-menon.   Thus  Krasheninnikoff  in  1755,'^  Steller  in  1774,^"  Wrangel
+Even  the  earliest  travellers  record  instances  of  this  phenomenon.   Thus  Krasheninnikoff  in  1755,'^  Steller  in  1774,^"  Wrangel
 
 
 ^  Bogayewski,  p.  123.  -  Jochelson,  op.  cit.,  i.  53.
@@ -13762,12 +12455,10 @@ modern  works  of  Bogoras  and  Jochelson.  Bogoras  describes  the
 facts  relating  to  the  Chukchee  in  a  chapter  on  'Sexual  Perversion
 and  Transformed  Shamans '.
 
-'The  sexual  organs  play  a  part  in  certain  shamanistic  cere-
-nionies.'  says  Bogoras.''  Tlie  shaman  is  said  to  be  veiy  often
+'The  sexual  organs  play  a  part  in  certain  shamanistic  cerenionies.'  says  Bogoras.''  Tlie  shaman  is  said  to  be  veiy  often
 naked  during  his  incantations,  e.g.  that  used  to  invoke  the  moon,
 and  to  mention  his  genital  parts. ^  The  change  of  sex  is  called
-in  Chukchee  ^ sofi-nmn-heing'.  i/irla-Jaid-rairgin,  'soft man'  {i/irka-
-laul)  meaning  a  man  transformed  into  a  being  of  the  weaker  sex.
+in  Chukchee  ^ sofi-nmn-heing'.  i/irla-Jaid-rairgin,  'soft man'  {i/irkalaul)  meaning  a  man  transformed  into  a  being  of  the  weaker  sex.
 A  man  who  has  '  changed  his  sex '  is  also  called  '  similar  to
 a  woman'  [neuchka).  and  a  woman  in  like  condition  'similar  to
 a  man '  {qa  cilicJieca).  These  latter  transformations  are  much
@@ -13789,8 +12480,7 @@ with  a  beard,  and  had  a  wife  and  four  children."'
 'throws  away  the  rifle  and  the  lance,  the  lasso  of  the  reindeer
 herdman,  and  the  harpoon  of  the  seal-hunter,  and  takes  to  the
 needle  and  the  skin-scraper  ".''  He  learns  the  use  of  these  quickly,
-because  the  'spirits'  help  him  all  the  time.  Even  his  pronun-
-ciation changes  from  masculine  to  feminine.  His  body  loses  its
+because  the  'spirits'  help  him  all  the  time.  Even  his  pronunciation changes  from  masculine  to  feminine.  His  body  loses  its
 masculine  appearance,  and  he  becomes  shy.
 
 4.  In  rare  eases  the  'soft  man'  begins  to  feel  himself  a  woman  ;
@@ -13806,8 +12496,6 @@ p.  227.
 '  Op.  cit.,  p.  450.  «  Op.  cit.,  p.  451.
 
 
-250  RELIGION
-
 The  marriage  is  performed  with  the  usual  rites,  and  tlie  union
 is  as  dural)le  as  any  other.  The  '  man  '  goes  hunting  and  fishing,
 the  '  woman '  does  domestic  work.  Bogoras  thinks  they  cohabit
@@ -13817,8 +12505,7 @@ however,  change  her  name,  though  the  husband  sometimes  adds
 the  name  of  his  wife  to  his  own.
 
 Ihihlic  opinion  is  ahcays  against  them,'-  but  as  the  transformed
-shamans  are  very  dangerous,  they  are  not  opposed  and  no  out-
-ward objections  are  raised.  Each  '  soft  man  '  is  supposed  to  have
+shamans  are  very  dangerous,  they  are  not  opposed  and  no  outward objections  are  raised.  Each  '  soft  man  '  is  supposed  to  have
 a  special  protector  among  the  'spirits',  who  is  usually  said  to
 play  the  part  of  a  supernatural  husl)and,  the  '  Z:e?e-husband  '  of  the
 '  transformed '  one.  This  husband  is  supposed  to  be  the  real  head
@@ -13902,7 +12589,6 @@ koekcJmcJi ,  is  a  sorcerer  and  interpreter  of  dreams '  (p.  81,  ed.  17
 
 From  the  alcove  quotations  the  Jcockchuch  seem  rather  to  be  of
 
-'  Op.  cit.,  p.  53.
 
 -  Krasheninnikoff,  ii.  114  ;  see  Troshchanski,  op.  cit.,  p.  120.
 
@@ -13911,14 +12597,10 @@ From  the  alcove  quotations  the  Jcockchuch  seem  rather  to  be  of
 *  'The  female  sex  being  more  attractive  and  perhaps  also  cleverer,
 more  shamans  are  chosen  from  among  women  and  koekchiich  than  from
 among  men,'  p.  15.  '  The  natives  of  the  Kuril  Islands  have  two  or  three
-wives  each  ;  .  .  .  they  have  also  koekchuchs,  like  the  Koryak  and  Kam-
-chadal'(p.  183,  ed.  1755).
+wives  each  ;  .  .  .  they  have  also  koekchuchs,  like  the  Koryak  and  Kamchadal'(p.  183,  ed.  1755).
 
 
-252  RELIGION
-
-the  eunuch  typo,  though  sometimes  they  play  the  role  of  con-
-cubines.
+the  eunuch  typo,  though  sometimes  they  play  the  role  of  concubines.
 
 The  hoekcliuch  who  was  regarded  by  the  community  as  being  of
 an  unusual  type  probably  enjoyed  special  privileges  higher  than
@@ -13926,21 +12608,18 @@ those  of  a  sorcerer  or  a  shaman.  The  worship  of  the  pathological
 may  have  verged  here  into  the  worship  of  the  supernatural.
 
 The  '  change  of  sex '  is  met  with  only  among  the  Palaeo-
-Siberians,^  whilst  among  the  Neo-Siberians  only  does  the  shaman-
-istic  dress  more  often  resemble  female  garments.  It  is  true  that
+Siberians,^  whilst  among  the  Neo-Siberians  only  does  the  shamanistic  dress  more  often  resemble  female  garments.  It  is  true  that
 among  Yakut  men-shamans  traditions  exist  of  their  bearing
 children,^  but  this  is  connected  rather  with  the  idea  of  the  power
 of  shamanistic  spirits  which  makes  such  miracles  possible.  As
 a  rule,  child-birth  among  the  Palaeo-Siberian  shamanesses  results
 in  either  a  complete  or  at  least  a  temporary  loss  of  the  shamanistic
 gift.  In  a  Koryak  tale  ^  the  shamanistic  power  of  Ememqut,  son
-of  Big-Raven,  'disappeared  after  the  mythical  Triton  had  be-
-witched him  and  caused  him  to  give  birth  to  a  boy.  His  power
+of  Big-Raven,  'disappeared  after  the  mythical  Triton  had  bewitched him  and  caused  him  to  give  birth  to  a  boy.  His  power
 was  restored  to  him  after  his  sister  had  killed  the  Triton's  sister,
 by  which  deed  the  act  of  giving  birth  was  completely  eliminated.'
 
-We  observe  also  that  in  many  Siberian  communities  a  woman-
-shaman  is  not  permitted  to  touch  the  drum.
+We  observe  also  that  in  many  Siberian  communities  a  womanshaman  is  not  permitted  to  touch  the  drum.
 
 The  question  of  the  change  of  sex,  especially  as  it  concerns  the
 most  powerful  shamans,  cannot  l)e  explained  on  a  purely  physical
@@ -13993,8 +12672,7 @@ They  may.  during  shaman istic  performances,  'ascend  to  the  sky
 together  with  the  shaman's  drum  and  sacrificial  animal.'^
 
 They  may  give  birth  to  a  child,  a  bird,  a  frog,  &c.,"^  and  they
-may  change  their  sex  if  they  are  '  real  shamans ',  with  super-
-natural powers,  with  a  true  vocation.  —
+may  change  their  sex  if  they  are  '  real  shamans ',  with  supernatural powers,  with  a  true  vocation.  —
 
 Socially,  the  shaman  does  not  belong  either  to  the  class  of
 males  or  to  that  of  females,  but  to  a  third  class,  that  of  shamans.
@@ -14022,8 +12700,6 @@ imply  an  earlior  general  female  shamanism,
 
 '  Sieroszewski,  12  Lat  w  Krajn  Y(il-ii(6ir,  p.  403.  ■*  Op.  cit.,  p.  399.
 
-
-254  RELIGION
 
 Shamanhood  is  separated  from  society  by  a  boundary-line  of
 many  taboos.  When  the  shaman  cannot  keep  those  taboos  he  or
@@ -14063,13 +12739,11 @@ feminine  qualities,  especially  weakness,  by  contagion.     He  cites
 ^  Since  this  chapter  was  written  I  have  been  able  to  familiarize  m3'self
 with  a  very  interesting  pamphlet  by  the  prominent  Russian  sociologist,
 A.  Maksimoff,  dealing  with  the  same  subject  under  the  title  'The  Change
-of  Sex',  Russian  Anthrop.  Journ.,  xxix.  I  was  glad  to  see  that  Mak-
-simoif  also  is  not  satisfied  with  the  physiological  explanation  of  this
+of  Sex',  Russian  Anthrop.  Journ.,  xxix.  I  was  glad  to  see  that  Maksimoif  also  is  not  satisfied  with  the  physiological  explanation  of  this
 phenomenon.  He  gives  two  reasons  for  his  doubts :  (1)  The  phenomenon,
 in  common  with  the  shamanistic  practices,  is  in  decadence  everywhere
 in  Siberia ;  and  if  it  were  only  due  to  sexual  perversions  it  would
-probably  be  rather  on  the  increase  during  the  present  period  of  coloniza-
-tion, when  we  know  that  all  sorts  of  diseases  and  every  kind  of  sexual
+probably  be  rather  on  the  increase  during  the  present  period  of  colonization, when  we  know  that  all  sorts  of  diseases  and  every  kind  of  sexual
 licence  have  increased  among  the  Siberian  natives.  (2)  In  many  similar
 cases  among  other  peoples  we  can  see  that  this  phenomenon  is  purely
 ritualistic,  e.g.  in  the  case  of  the  Mujerados  of  New  Mexico  (pp.  17-18).
@@ -14083,8 +12757,7 @@ SHAMANISM   AND   SEX  255
 many  instances  of  'the  custom  uf  degrading-  the  cowardly,  infirm,
 and  conquered  to  the  position  of  females"  by  putting  women's
 clothes  on  them.  Quoting  from  L.  Morgan  {The  League  of  the
-Iroquois,  p.  10)  he  says:  'When  the  Delawares  were  denationa-
-lized by  the  Iroquois  and  prohibited  from  going  out  to  war,  they
+Iroquois,  p.  10)  he  says:  'When  the  Delawares  were  denationalized by  the  Iroquois  and  prohibited  from  going  out  to  war,  they
 were,  according  to  the  Indian  notion,  "made  women",  and  were
 henceforth  to  confine  themselves  to  the  pursuits  appropriate  to
 women.'  Is  it  not  reasonable  to  suppose  that  we  have  in  the
@@ -14098,16 +12771,14 @@ in  subjection,  so  as  to  reduce  their  capacity  for  working  mischief
 to  the  conquerors  to  a  minimum.  Jochelson,  speaking  of  slavery
 as  it  formerly  existed  among  the  Yukaghir,  says:  'The  slave
 (captive)  stayed  in  the  house  with  the  women  .  .  .  and  did  the
-housework  on  equal  terms  with  the  women.' ^  He  makes  a  simi-
-lar statement  about  the  status  of  the  captive  slaves  formerly  held
+housework  on  equal  terms  with  the  women.' ^  He  makes  a  similar statement  about  the  status  of  the  captive  slaves  formerly  held
 by  the  Koryak.-  Close  association  with  women,  the  primitive
 argues,  produces  effeminacy  in  a  man,  by  contagion.  Keep  him
 with  the  women,  put  their  clothes  on  him,  and  he  is  no  longer
 dangerous,  if  hostile,  and  may  be  made  useful  in  occupations
 suited  to  females.  In  the  absence  of  satisfactory  evidence  for  the
 other  hypothesis  put  forward,  and  taking  into  consideration  the
-attitude  towards  captive  slaves  of  other  Palaeo-Siberians  as  ex-
-hibited above,  it  would  seem  at  least  probable  that  the  JcoeJcchuch
+attitude  towards  captive  slaves  of  other  Palaeo-Siberians  as  exhibited above,  it  would  seem  at  least  probable  that  the  JcoeJcchuch
 of  the  Kamchadal  were,  or  had  developed  from,  a  class  of  captive
 slaves.
 
@@ -14116,8 +12787,7 @@ until  comparatively  recent  times  among  the  Chukchee,  does  not
 refer  to  any  definite  attempt  made  by  these  people  to  feminize
 their  captives,  his  statement  that  the  word  amulin  applied  to  such
 slaves  means  primarily  'weakling',  and  that  all  the  other  terms
-applied  to  captive  slaves  have  an  implication  of  contempt,  sup-
-ports the  assumption  that  the  Chukchee  held  the  same  view  as
+applied  to  captive  slaves  have  an  implication  of  contempt,  supports the  assumption  that  the  Chukchee  held  the  same  view  as
 other  Palaeo-Siberians,  including  the  Kamchadal,  of  what  was  the
 ideal  condition  of  a  slave-class.
 
@@ -14126,7 +12796,6 @@ ideal  condition  of  a  slave-class.
 
 CHAPTER   XIII
 
-GODS,  SPIRITS,  SOUL.
 
 I.     The  Chukchee.
 
@@ -14170,8 +12839,6 @@ or  Great  Manitou  of  the  Indians,'  he  says.^     Their  names  are
 =*  Op.  cit ,  pp.'305-7.  '  Op.  cit.,  p.  314.
 
 
-GODS,    SPIRITS,   SOUL  257
-
 Tenan-tomgiu  ('Creator',  lit.  'One  who  induces  things  to  be
 created');  Girgol-Yairii:in  ('Upper-Being');  Marginen  ('World',
 literally  '  The  Outer-One  ') :  Yaivac-vairgin  ('  Merciful-Being ') ;
@@ -14186,8 +12853,7 @@ have  many  tales  about  Big-Eaven,  whom  they  call  Tenan-tomgin.
 
 Besides  these  'Beings',  the  Reindeer  Chukchee  have  also
 a  'Reindeer-Being'  {(^orcn-vairgin),  who  watches  over  the  herds;
-and  the  Maritime  people  have  their  '  Beings  of  the  Sea '  [Anqa-
-vairgit),  of  whom  the  most  important  are  Keretkun  and  his  wife,
+and  the  Maritime  people  have  their  '  Beings  of  the  Sea '  [Anqavairgit),  of  whom  the  most  important  are  Keretkun  and  his  wife,
 sometimes  called  Cinei-new.  '  They  live  on  the  sea-bottom  or  in
 the  open  sea,  where  they  have  a  large  floating  house.  They  are
 larger  than  men,  have  black  faces,  and  head-bands  of  peculiar
@@ -14196,8 +12862,7 @@ adorned  with  many  small  tassels.^  Another  sea-spirit  is  the
 '  Mother  of  the  Walrus ',  living  at  the  bottom  of  the  sea,  and
 armed  with  two  tusks  like  a  walrus.  Besides  her,  there  is  still
 another  sea-spirit  like  a  walrus,  which  is  believed  to  work  harm
-to  people,  crawling  into  their  houses  at  night.  These  walrus-
-beings  do  not  receive  regular  sacrifices,  and  sometimes  assist  the
+to  people,  crawling  into  their  houses  at  night.  These  walrusbeings  do  not  receive  regular  sacrifices,  and  sometimes  assist  the
 shaman  in  the  capacity  of  Iclet.  Keretkun,  however,  is  the
 recipient  of  sacrifices  at  the  autumn  ceremonials.  The  Asiatic
 Eskimo  have  sea-deities  similar  to  those  of  the  Maritime  Chukchee.'-
@@ -14206,22 +12871,16 @@ The  Chukchee  classify  the  winds  also  as  '  Beings  ',  whose  names
 are  mentioned  in  incantationsptEe  local  prevailing  wind  being
 always  regarded  in  a  given  locality  as  the  chief  of  these  '  Beings  '.•'
 
-Spirits  of  tents  and  houses  are  called  'House-Beings'  [Yara-
-vairgit).  They  are  attached  to  houses,  not  to  people,  and  if  a  house
+Spirits  of  tents  and  houses  are  called  'House-Beings'  [Yaravairgit).  They  are  attached  to  houses,  not  to  people,  and  if  a  house
 is  destroyed  they  cease  to  exist  with  it.  If  the  inhabitants  of
 a  house  abandon  it,  the  house-spirits  turn  into  very  dangerous
 earth-sinrits.^  A  small  share  of  eveiy  important  sacrifice  is
-placed  for  them  on  the  ground  in  the  corners  of  the  sleeping-
-room.
+placed  for  them  on  the  ground  in  the  corners  of  the  sleepingroom.
 
 Other  spirits,  which  are  neither  hclet  nor  vairgit,  also  exist ;
 
 '  Op.  cit.,  p.  316.  2  Op.  cit.,  pp.  316-18.
 
-'  Op.  cit.,  p.  320.  *  Op.  cit.,  p.  318.
-
-
-258  RELIGION
 
 e.  g.  the  spirits  of  intoxicating  mushrooms,  which  form  a  '  Separate
 Tribe'  (j/anra-varat).'^
@@ -14231,8 +12890,7 @@ a  share  of  the  sacrifices.  The  '  assistant '  is  very  often  represente
 as  a  raven  or  as  half  a  raven.     Even  the  Jielet  have  '  assistants  '.-
 
 All  the  forests,  rivers,  lakes,  and  the  classes  of  aninials  are
-animated  by  'masters'  [awiralit)  or  'owners'  {etinvif).  Some-
-times the  Chukchee  call  these  Met— a,  word  which,  though  it
+animated  by  'masters'  [awiralit)  or  'owners'  {etinvif).  Sometimes the  Chukchee  call  these  Met— a,  word  which,  though  it
 usually  means  '  evil  spirits ',  sometimes  is  used  in  the  simple
 sense  of  '  spirits  \^  Wild  animals  are  said  to  have  the  same  sort
 of  households  as  the  Chukchee  themselves  and  to  imitate  men
@@ -14241,8 +12899,7 @@ Eirultet,  whom  they  stole  from  the  earth  a  long  time  ago.  He
 prepares  food  for  all  of  them,  and  his  face  has  become  blackened
 with  soot.'^  Animals,  like  spirits,  can  take  the  form  of  men.
 The  ermine  and  the  owl  become  warriors  on  certain  occasions ;
-the  mice  become  hunters.  '  In  most  cases,  animals,  while  im-
-personating human  beings,  retain  some  of  their  former  qualities,
+the  mice  become  hunters.  '  In  most  cases,  animals,  while  impersonating human  beings,  retain  some  of  their  former  qualities,
 which  identify  them  as  beings  of  a  special  class,  acting  in  a  human
 way,  but  different  from  mankind.'  So  the  fox-woman  retains  her
 strong  smell,  and  the  goose-woman  does  not  take  animal  food.^
@@ -14258,8 +12915,7 @@ sacrifices  to  evil  spu'its,  except  under  extraordinary  circumstances."
 Bogoras  divides  the  ]:elef  of  the  Chukchee  into  three  classes :
 (a)  invisible  spirits,  bringing  disease  and  death ;  (b)  bloodthirsty
 cannibal  spirits,  the  enemies  of  Chukchee  warriors  especially ;
-(c)  spirits  which  assist  the  shaman  during  shamanistic  per-
-foimances.
+(c)  spirits  which  assist  the  shaman  during  shamanistic  perfoimances.
 
 Kelet  of  the  class  (a)  are  said  to  live  undergi'ound,  and  to  have
 also  an  abode  above  the  earth  ;  but  they  never  come  from  the  sea,
@@ -14268,16 +12924,12 @@ the  sea'.^
 
 '  Op.  cit.,  p.  333.  2  Op.  oit.,  p.  319.  ^  Op.  cit.,  p.  286.
 
-'  Op.  cit.,  p.  283.  5  Op.  cit.,  p.  284.
 
 «  Op.  cit.,  p.  281.  '  Op.  cit.,  p.  2'JO.
 
 ^  Op.  cit,  p.  292.  In  apparent  contracliction  to  the  belief  expressed
-in  this  proverb  is  the  existence  of  the  kele  in  the  form  of  a  walrus,  men-
-tioned by  Mr.  Bogoras  on  p.  316,  which  is  harmful  to  men.
+in  this  proverb  is  the  existence  of  the  kele  in  the  form  of  a  walrus,  mentioned by  Mr.  Bogoras  on  p.  316,  which  is  harmful  to  men.
 
-
-GODS.    SPIRITS,   SOUL  259
 
 The  kekt  do  not  remain  in  their  homes,  but  ^Yander  abroad  and
 seek  for  victims.  They  are  too  numerous  to  be  distinguished  by
@@ -14286,8 +12938,7 @@ strange  faces  and  forms,  most  of  them  being  very  small.  They  are
 organized  in  communities  resembling  those  of  men.  On  the  Pacific
 shores  they  are  often  known  as  rchieiiit  (sing,  rckken).  These  have
 various  monstrous  forms,  and  animals  which  are  born  Avith  any
-deformity  are  sacrificed  to  them.  The  kekt  have  an  especial  fond-
-ness for  the  human  liver.  This  belief  is  the  origin  of  the  Cluikchee
+deformity  are  sacrificed  to  them.  The  kekt  have  an  especial  fondness for  the  human  liver.  This  belief  is  the  origin  of  the  Cluikchee
 custom  of  opening  a  corpse  to  discover  from  the  liver  which  spirit
 has  killed  the  deceased.'  The  class  {h),  which  is  especially  inimical
 to  warriors,  is  spoken  of  chiefly  in  the  tales.  While  incantations
@@ -14313,14 +12964,12 @@ is  surrounded  by  a  taboo  among  all  Arctic  peoples:  any  one  who
 kills  a  killer-whale  is  sure  to  die  very  soon.  These  monsters  in
 winter  are  transformed  into  wolves  and  prey  upon  the  reindeer  of
 the  Chukchee.  An  exaggerated  rejjresentation  of  a  polar  bear  also
-appears  as  one  of  the  '  monsters '.  The  mammoth  plays  an  impor-
-tant part  in  Chukchee  beliefs.  It  is  said  to  be  the  reindeer  of
+appears  as  one  of  the  '  monsters '.  The  mammoth  plays  an  important part  in  Chukchee  beliefs.  It  is  said  to  be  the  reindeer  of
 the  keUt.  If  the  tusks  are  seen  above  ground,  this  is  a  bad  omen,
 and  unless  an  incantation  is  uttered  something  untoward  will
 happen.
 
-'According  to  one  story,  some  Chukchee  men  found  two  mam-
-moth-tusks protruding  from  the  earth.     They  began  to  beat  the
+'According  to  one  story,  some  Chukchee  men  found  two  mammoth-tusks protruding  from  the  earth.     They  began  to  beat  the
 
 '  Op.  cit.,  pp.  292-8.  2  Op.  cit.,  pp.  298-300.
 
@@ -14328,8 +12977,6 @@ moth-tusks protruding  from  the  earth.     They  began  to  beat  the
 
 s  2
 
-
-260  RELIGION
 
 drum  and  performed  several  incantations.  Then  the  whole  carcass
 of  the  mammoth  came  to  sight.  The  people  ate  the  meat.  It  was
@@ -14341,8 +12988,7 @@ for  eating,  as  happened  on  the  Obi  in  the  eighteenth  century,  and
 also  more  recently  in  the  Kolyma  country.
 
 '  Because  of  these  beliefs,  the  search  for  ivory  of  the  mammoth
-was  tabooed  in  former  times.  Even  now,  a  man  who  finds  a  mam-
-moth-tusk has  to  pay  for  it  to  the  ''spirit"  of  the  place  by  various
+was  tabooed  in  former  times.  Even  now,  a  man  who  finds  a  mammoth-tusk has  to  pay  for  it  to  the  ''spirit"  of  the  place  by  various
 sacrifices.  The  search  for  such  tusks  is  considered  a  poor  pursuit
 for  a  man,  notwithstanding  the  high  price  which  the  ivory  brings.'  ^
 In  the  pictorial  representations  of  these  '  monstars ',  oi*,  rather,
@@ -14377,15 +13023,12 @@ had  injured  her  soul.
 1  Op.  cit.,  p.  326.  2  Op.  cit.,  pp.  323-30.
 
 
-GODS.   SPIRITS,   SOUL  261
-
 ^  Kdd  also  have  souls  of  their  own,  which  may  be  lost  or
 spirited  away  by  shamans.'  ^
 
 C/iidiChec  View  of  the  Universe.  According  to  the  Chukchee
 belief  there  are  several  worlds,  one  above  another.  Some  reckon
-five  such  worlds,  others  seven  or  nine.  A  hole,  under  the  pole-
-star,  forms  a  passage  from  one  world  to  the  other,  and  through
+five  such  worlds,  others  seven  or  nine.  A  hole,  under  the  polestar,  forms  a  passage  from  one  world  to  the  other,  and  through
 this  hole  shamans  and  spirits  pass  from  one  to  another  of  the
 worlds.  Another  way  to  reach  the  otlier  world  is  to  take  a  step
 downwards  in  the  direction  of  the  dawn.  There  are  also  other
@@ -14474,8 +13117,6 @@ Raven  and  his  son  are  obliged  to  change  themselves  into  ravens,
 1  Op.  r.it.,  p.  24.
 
 
-GODS,   SPIRITS,    SOUL  263
-
 fly  up  to  heaven,  aiul  put  a  stop  to  the  incessant  rain  by  a  trick.
 This  tale  must  not  be  tokl  in  line  weather,  but  only  to  put  an  end
 to  rain  or  a  snow-storm.
@@ -14520,15 +13161,12 @@ Most  of  the  Koryak  tales  deal  with  the  life,  travels,  and
 adventures  of  Big-Raven,  his  wife  Miti,  and  their  children,  of
 whom  the  eldest,  their  son  Ememqut,  is  the  best  known.      In
 
-'  Op.  cit,  p.  18.
-
 
 264  KELIGION
 
 these  tales,  Big-Raven  sometimes  appears  as  a  being  of  very  low
 intelligence,  who  is  often  outmatched  in  cunning,  not  only  by  his
-wife,  but  even  by  mice,  foxes,  and  other  animals.  Transforma-
-tions, especially  of  the  sexual  organs  of  Big-Raven  and  his  wife
+wife,  but  even  by  mice,  foxes,  and  other  animals.  Transformations, especially  of  the  sexual  organs  of  Big-Raven  and  his  wife
 (allusions  to  whicli  figure  very  largely  throughout),  supernatural
 deeds,  and  indecent  adventures,  form  the  subject  of  the  gi'eater
 part  of  the  tales.  '  The  coarseness  of  the  incidents  does  not
@@ -14571,8 +13209,6 @@ summer  fishing,  and  had  offered  a  reindeer  as  a  sacrifice  to  the  sea
 ^  Op.  cit.,  p.  20.  -  Op  cit.,  pp.  20-3.
 
 
-GODS.    SPIRITS,   SOUL  265
-
 on  being  asked  by  Jochelson  whether  his  offering  was  made  to
 the  sea  or  to  the  master  of  the  sea,  replied,  'I  don't  know.  We
 say  "sea  "  and  ''owner  of  the  sea  "  ;  it 's  just  the  same,'  Similarly
@@ -14612,8 +13248,7 @@ the  office  of  jirotector  of  the  hearth  and  herd  is  accompanied  with
 the  sacrificing  of  a  reindeer  to  The-Master-on-High,  the  anointing
 of  the  fire-board  with  the  sacrificial  blood  and  fat,  and  the
 pronouncing  of  an  incantation  over  it.  It  would  thus  appear,
-Jochelson  thinks,  that  the  power  to  direct  some  vaguely  con-
-ceived vital  principle  residing  in  a  crude  inanimate  object  to  an
+Jochelson  thinks,  that  the  power  to  direct  some  vaguely  conceived vital  principle  residing  in  a  crude  inanimate  object  to  an
 activity  beneficiol  to  man  lies  in  the  incantation  pronounced  overit.'*
 
 The  headpiece  has  a  hollow  socket,  which  is  placed  upon  the
@@ -14623,8 +13258,6 @@ The  headpiece  has  a  hollow  socket,  which  is  placed  upon  the
 Op.  cit.,  p.  31.  "  Op.  cit.,  p.  33.  ^  Ibid.
 
 
-266  RELIGION
-
 thin  upper  end  of  the  drill.  '  The  headpiece  is  held  by  one
 person,  the  l)oard  by  another,  while  the  bow  is  turned  by  a  third
 person,'  the  drill  rotating  on  its  thick  lower  end  in  one  of  the
@@ -14632,8 +13265,7 @@ holes  of  the  fire-board.  The  charcoal  dust  produced  by  drilling  is
 collected  in  a  small  leathern  bag,  for  'it  is  considered  a  sin  to
 scatter'  this  dust.^
 
-Evil  Spirifs.^  Evil  spirits  are  called  lakm  (sing.  JcaJa),  corre-
-sponding to  the  Chukchee  Icdct.''  In  the  time  of  Big-Raven  they
+Evil  Spirifs.^  Evil  spirits  are  called  lakm  (sing.  JcaJa),  corresponding to  the  Chukchee  Icdct.''  In  the  time  of  Big-Raven  they
 were  visible  to  men,  but  now  they  are  usually  invisible.  In  most
 of  the  myths  which  refer  to  them  they  are  represented  as  living  in
 communities  like  human  beings.  They  are  very  numerous,  and
@@ -14669,17 +13301,13 @@ Mlmt,  or,  again,  the  l-alau  are  destroyed  or  made  harmless  by  Big-
 Reindeer  Koryak  tliey  are  frequently  called  neuveticnin  or  niuvit.'  (Op.  cit.,
 p.  27.)
 
-*  Jochelson  thinks  that  in  this  respect  they  resemble  certain  male-
-volent beings  of  the  Yukaghir,  called  Mythical-Old-Men  and  Mythical-
+*  Jochelson  thinks  that  in  this  respect  they  resemble  certain  malevolent beings  of  the  Yukaghir,  called  Mythical-Old-Men  and  Mythical-
 Old-Women.    (Op.  cit.,  p.  28.)
 
 ^  Jochelson,  op.  cit.,  p.  28.  "  Ibid.
 
 
-GODS,   SPIRITS,    SOUL  267
-
-Raven  :  'lie  oausos  them  to  fall  asleep  ;  he  takes  out  their  canni-
-bal stomachs  during  their  sleep,  and  puts  other  ones  in  their
+Raven  :  'lie  oausos  them  to  fall  asleep  ;  he  takes  out  their  cannibal stomachs  during  their  sleep,  and  puts  other  ones  in  their
 places,  usually  those  of  some  rodents.  At  still  other  times  he
 devises  some  other  means  of  protecting  himself  and  his  children
 against  the  invasion  of  tlie  cannibals.  In  one  story  it  is  told  that
@@ -14691,22 +13319,19 @@ of  rescue.  In  another  story  Big-Raven  appealed  to  the  Master-on-
 High  for  help  against  the  mouthed  arrows  of  the  Mlau  with
 whom  he  had  been  at  war ;  and  the  deity  gave  him  an  iron
 mouth,  which  caught  all  the  arrows  sent  by  the  lalau.' ^  It  will
-be  seen,  however,  from  the  above  that  Big-Raven  defends  him-
-self and  his  family  rather  than  men  from  the  attacks  of  Icalau  ;
+be  seen,  however,  from  the  above  that  Big-Raven  defends  himself and  his  family  rather  than  men  from  the  attacks  of  Icalau  ;
 and,  as  Jochelson  says  in  one  place,  *  Men  seem  to  be  left  to  their
 own  resources  in  their  struggle  with  evil  spirits,  diseases,  and
 death.'-  For,  as  we  have  seen,  even  the  Supreme  Being  plays  no
 active  part  in  the  protection  of  men. '  On  the  contrary,  he  sends
 kalau  to  men  '  that  they  may  die,  and  that  he  may  create  other
-people'.^  An  old  man  called  Yulta,  from  the  village  of  Kamen-
-skoye,  told  Jochelson  that  the  lalau  formerly  lived  with  The-
+people'.^  An  old  man  called  Yulta,  from  the  village  of  Kamenskoye,  told  Jochelson  that  the  lalau  formerly  lived  with  The-
 Master-on-IIigh,  but  he  quarrelled  with  them  and  sent  them
 down  to  our  world.'  Another  version  has  it  that  Big-Raven
 sent  the  lalau  down  to  the  people  to  give  the  latter  a  chance  to
 test  the  power  of  the  incantations  he  had  taught  them  against  the
 lalau.  One  of  the  tales  relates  that  '  the  dead  ancestors  send  the
-lalau  from  the  underground  world  into  the  village  of  their  descen-
-dants to  punish  the  young  people  for  playing  games  at  night  and
+lalau  from  the  underground  world  into  the  village  of  their  descendants to  punish  the  young  people  for  playing  games  at  night  and
 thus  disturbing  the  rest  of  the  old  people '.'"'
 
 Kalati  are,  however,  not  always  only  harmful  to  men.
@@ -14715,8 +13340,7 @@ all  powers  harmful  to  man.  and  all  that  is  evil  in  nature,  there
 are  numbers  of  objects  and  beings  known  under  the  name  of
 lalak  or  lamal  that  do  not  belong  to  the  class  of  evil  spirits.
 Thus,  the  guardian  spirits  of  the  Koryak  shamans,  and  some
-varieties  of  guardians  of  the  village,  of  the  family,  or  of  indi-
-viduals, are  called  by  this  name.'"
+varieties  of  guardians  of  the  village,  of  the  family,  or  of  individuals, are  called  by  this  name.'"
 
 In  the   Koi^ak  cosmogony  there  are  five  worlds—tsvo  above
 
@@ -14724,8 +13348,6 @@ In  the   Koi^ak  cosmogony  there  are  five  worlds—tsvo  above
 
 *  Op.  cit.,  p.  27.  5  ii,ij_  c  ]ijij_  7  Op.  cit.,  p.  30.
 
-
-268  RELIGION
 
 and  two  below  the  earth.  Tlie  uppermost  is  the  seat  of  the
 Supreme  Being,  the  next  is  inhabited  l)y  Cloud-People  (Yahalanu) ;
@@ -14777,14 +13399,10 @@ group  of  ideas.    (Op.  cit.,  p.  116.)
 *  Jochelson,  op.  cit.,  p.  117.
 
 
-GODS.    SPIRITS,    SOUL  269
-
 Tlie  Korynk  word  for  the  soul  is  iii/icit.  They  appear  to  have  a
 conception  also  of  *  some  other  vital  principle  or  a  secondary  soul  V
-whose  name  Jochelson  was  not  able  to  learn,  nor  could  he  ascer-
-tain anything  definite  relating  to  it,  'Some  vital  principle',  he
-thinks,  *  is  implied  in  the  words  iviii/ivi  {''  breathing "')  and  ivuy'il-
-tcuyil  C'  shadow  ").'  -  They  draw  no  very  sharp  line  of  demarcation
+whose  name  Jochelson  was  not  able  to  learn,  nor  could  he  ascertain anything  definite  relating  to  it,  'Some  vital  principle',  he
+thinks,  *  is  implied  in  the  words  iviii/ivi  {''  breathing "')  and  ivuy'iltcuyil  C'  shadow  ").'  -  They  draw  no  very  sharp  line  of  demarcation
 between  life  and  death.  A  corpse  is  not  '  deprived  of  the  ability
 to  move.  The  deceased  may  arise,  if  he  is  not  watched  \"'  How
 death  occurs,  according  to  their  belief,  is  explained  by  Jochelson
@@ -14812,23 +13430,19 @@ several  names  for  the  Supreme  Being,  but  these  writers  do  not
 give  any  detailed  descriptions  of  the  Kamchadal's  relations  to
 their  deities.  On  the  contrar}',  Krasheninnikoff  thought  that
 they  paid  no  religious  worship  to  their  god  Kutchu  or  Kutkhu  ;
-and  Steller,  taking  into  account  their  rude  and  indecent  mytho-
-logy, calls  the  Kamchadal  gchorcne  Gottesliistercr.'     The  following
+and  Steller,  taking  into  account  their  rude  and  indecent  mythology, calls  the  Kamchadal  gchorcne  Gottesliistercr.'     The  following
 
 »  Op.  cit.,  p.  101.  2  Op.  cit.,  p.  102.  »  Ibid.
 
 *  Bogoras  {Chukchee  Materials,  p.  17)  says  that  the  Chukchee  attribute
 to  a  man  the  possession  of  five  or  six  souls  (uiririt).  Many  North-
 American  Indians  have  a  similar  belief.  The  Yukaghir  belief  that  a  man
-has  three  souls  is  said  to  be  borrowed  from  the  Yakut,  who  give  a  sepa-
-rate name  to  each  of  the  three  (ibid.,  footnote).
+has  three  souls  is  said  to  be  borrowed  from  the  Yakut,  who  give  a  separate name  to  each  of  the  three  (ibid.,  footnote).
 
 •>  Op.  cit.,  p.  101.  «  Op.  cit.,  pp.  102-3.
 
 ^  Steller,  lieiie  von  Kamtschatka  iiach  Amerika,  p.  253.
 
-
-270  RELIGION
 
 names  of  deities  are  recorded  by  Krasheninnikoff :  ^  Kutklui
 (Kutclui),  liis  wife  Ilkxuni,  his  sister  Xutlizic,  his  sons  Simskalin
@@ -14847,8 +13461,7 @@ God  by  a  similar  name."'
 According  to  other  Kamchadal  tradition?,  the  earth  was
 created  by  Kutq  (Raven).  In  one  such  legend  he  makes  it  out
 of  his  son  Simskalin  :  another  has  it  that  he  brought  the  earth
-down  from  the  sky  with  the  lielp  of  his  sister  and  fixed  it  immov-
-ably in  the  sea."*
+down  from  the  sky  with  the  lielp  of  his  sister  and  fixed  it  immovably in  the  sea."*
 
 The  Koryak  say  that  Big-Raven  went  away  from  them.  The
 Kamchadal  have  a  similar  tradition  ;  but  according  to  them,
@@ -14872,7 +13485,6 @@ another  world.'
 
 '  Krasheninnikoff,   The  Deso-'qition  of  the  Coitnfii/  of  Kamchatka,  ed.
 1755,  p.  100.
-2  Op.  cit.,  p.  253.
 ^  Jochelson,  Ttte  Kori/ak,  p.  18.
 
 *  Op.  cit.,  p.  121.  "  Op.  cit.,  pp.  23-4.
@@ -14880,8 +13492,6 @@ another  world.'
 *  Krasheninnikotf.  op.  cit.,  pp.  73-5.  '  Op.  cit.,  p.  80.
 "  Ibid.                                    '•'  Ibid.
 
-
-GODS,   SPIRITS,    SOUL  271
 
 IV.     The  Gilyak.
 
@@ -14931,11 +13541,8 @@ the  taijga,  mountains,  sea,  and  fire.**
 "  Op.  cit.,  p.  44.  «  Op.  cit.,  pp.  45-9.
 
 
-272  RELIGION
-
 Sacrifices,  says  Sternberg,  are  not  usually  accompanied  by  any
-elaborate  ceremonials.  They  are  based  on  the  principle  of  ex-
-change, i.  e.  one  does  not  offer  fish  to  the  god  of  the  sea,  or  game
+elaborate  ceremonials.  They  are  based  on  the  principle  of  exchange, i.  e.  one  does  not  offer  fish  to  the  god  of  the  sea,  or  game
 animals  to  tlie  god  of  the  taijga.  When  a  Gilyak  at  sea  fears  the
 oncoming  of  a  storm,  he  throws  some  tea-leaves  into  the  water,
 and  says  :  '  I  pray  thee  see  to  it  that  the  sea  be  not  angry  and  that
@@ -14943,8 +13550,7 @@ I  return  home  safe  and  sound.' ^  Wherever  a  Gilyak  goes  he
 carries  with  him  certain  objects  intended  for  sacrifices,  such,  for
 example,  as  roots  and  leaves  of  certain  plants,  especially  of  the
 martagan.  They  also  make  bloody  sacrifices.  In  this  case  the
-victim  is  a  dog.  Offerings  of  dogs  are  made  chiefly  at  the  begin-
-ning of  the  season  for  the  trapping  of  sables  and  at  the  bear-
+victim  is  a  dog.  Offerings  of  dogs  are  made  chiefly  at  the  beginning of  the  season  for  the  trapping  of  sables  and  at  the  bear-
 festival.  On  these  occasions  the  victims  are  killed  by  strangling,
 and  as  the  dogs  are  dispatched  they  ask  them  to  make  intercession
 to  the  gods  for  them.'''
@@ -14958,8 +13564,7 @@ Besides  all  these  benevolent  deities  there  are  classes  of  less
 important  good  spirits — hoi,  lot,  and  urif.  The  malevolent  beings
 are  called  mill:  or  linr  {knin).  They  are  very  numerous,  have
 various  forms,  and  cause  all  sorts  of  misfortune,  illness,  and
-death.  Many  incantations  and  shamanistic  ceremonies  are  prac-
-tised to  ward  off  their  attacks ;  but  even  a  shaman  cannot  deal
+death.  Many  incantations  and  shamanistic  ceremonies  are  practised to  ward  off  their  attacks ;  but  even  a  shaman  cannot  deal
 with  them  by  his  own  unaided  power.  He  has  to  call  to  his
 assistance  two  spirit-helpers,  TieJchn  and  Ja'ncJilh.  These  assistants
 of  the  shaman  are  exceedingly  clever  and  sometimes  very  wicked.  •'
@@ -14978,8 +13583,6 @@ of  this  lesser  soul.     After  a  man's  death,  which  they  believe  to  b
 
 >  Op.  cit.,  p.  50.  ""  Op.  cit.,  pp.  50-2.  '  Op.  cit.,  p.  70.
 
-
-GODS,    SPIRITS.    SOUL  273
 
 caused  by  his  body  being  devoured  by  evil  spirits,  the  soul,  also
 attacked  by  the  same  spirits,  may  escape  from  them,  and  goes
@@ -15028,8 +13631,6 @@ of  the  sea  called  Hep  un  kamui.     They  are  brothers.     The  younger,
 "^  Batchelor,  The  Ainu  ofJayan,  pp.  248  51,  258.  ^  Op.  cit.,  p.  261.
 
 
-274  RELIGION
-
 3Io  uclta,  'uncle  of  peace',  is  beneficent  to  man,  bringing  fivir
 weather  for  fishing:  while  his  elder  brother,  Slii  acha.  is  an  evil
 deity  who  chases  3Io  acha  from  the  seaside,  and  brings  bad
@@ -15067,8 +13668,7 @@ Next  in  importance  to  the  deity  of  the  sun  is  the  goddess  of
 fire.  She  warms  the  body,  heals  sickness,  enables  man  to  cook
 his  food.  Slie  is  especially  to  be  feared  because  she  is  a  witness
 to  note  the  acts  and  words  of  men.  Hereafter  they  are  punished
-or  rewarded,  says  Batchelor,  according  to  her  testimony  con-
-cerning their  actions  in  life.  It  appears  that  it  is  not  the  fire
+or  rewarded,  says  Batchelor,  according  to  her  testimony  concerning their  actions  in  life.  It  appears  that  it  is  not  the  fire
 which  is  worshipped,  but  the  goddess  residing  in  the  fire.*^
 
 '  Every  Ainu  hut  is  supposed  to  have  its  special  guardian  god
@@ -15078,8 +13678,6 @@ who  is  thought  to  rest  upon  the  roof  when  the  master  is  at  home,
 
 *  Op.  cit.,  pp.  273-4.        '  Op.  cit.,  \\  276.  «  Op.  cit.,  p.  277.
 
-
-GODS,   SPIRITS,    SOUL  275
 
 :ind  give  warning  of  approaching  dangoi-.  and  who  accompanies
 the  head  of  a  family  when  he  goes  forth  to  his  wars  and  on  liis
@@ -15151,8 +13749,7 @@ reaching  Pokna-Moshiri,  the  soul  is  sent,  on  the  testimony  of  the
 goddess  of  fire,  either  to  Kamui-Kotan  or  to  Teinei-Pokna-Shiri,
 to  be  rewarded  for  a  good  life,  or  punished  for  an  evil  one.  If
 the  spirit  denies  having  done  evil,  he  is  confronted  by  a  picture
-representing  his  whole  life  which  is  in  the  possession  of  the  fire-
-goddess.  '  Thus  the  spirit  stands  self-condemned  '  to  punishment
+representing  his  whole  life  which  is  in  the  possession  of  the  firegoddess.  '  Thus  the  spirit  stands  self-condemned  '  to  punishment
 in  Teinei-Pokna-Shiri. -
 
 Some  of  the  Ainu  hold  that  women,  who  are  considered
@@ -15163,12 +13760,10 @@ for  this  prohibition  is  that  the  Ainu  are  afraid  that  the  women
 will  appeal  to  the  gods  against  their  ill-treatment  by  the  men.''
 
 Such  are  the  views  attributed  by  Batchelor  to  the  Ainu  about
-a  future  judgement,  heaven,  and  hell.  According  to  Chamber-
-lain,"* these  conceptions  are  not  original  with  the  Ainu.  He  says  :
+a  future  judgement,  heaven,  and  hell.  According  to  Chamberlain,"* these  conceptions  are  not  original  with  the  Ainu.  He  says  :
 '  Some  of  the  Ainos  say  that  Paradise  is  below  the  earth,  and
 Hell  Ijelow  that  again.  But  as  they  use  the  modern  Japanese
-Buddhist  names  for  those  places,  they  would  appear  to  be,  con-
-sciously or  unconsciouslj'',  giving  a  foreign  tinge  to  their  old
+Buddhist  names  for  those  places,  they  would  appear  to  be,  consciously or  unconsciouslj'',  giving  a  foreign  tinge  to  their  old
 traditions.  The  fact  that  many  Aino  fairy-tales  mention  Hades
 under  the  name  of  Pokna  Moshiri,  while  none  seemingly  mention
 Heaven  or  Hell,  favours  the  view  that  no  moral  thread  was
@@ -15188,8 +13783,6 @@ recent  times.
 *  The  Languoge,  Mythology,  and  Gcogvaphudl  yoiiiencJafure  of  Japan
 viewed  in  the  Light  of  Aino  Studies,  p.  19.
 
-
-GODS,   SPIRITS,   SOUL  277
 
 VI.     The  Turkic  Tribes.
 (1)  The  Yakut.
@@ -15230,18 +13823,14 @@ blood  that  may  be  shed.
 
 (iii)  Nalban-Aiy,  Kiibay-Khotun-Lii,  '  Kind-Mother-Creatress '.
 
-(iv)  Nalj'gyr-Aissyt-Khotun,  the  benevolent  goddess  who  pre-
-sides over  child-birth.
+(iv)  Nalj'gyr-Aissyt-Khotun,  the  benevolent  goddess  who  presides over  child-birth.
 
 '  The  Evolution  of  the  Black  Faith  {Shamanism)  among  the  Yakut,
 pp.  33-7.
 
-*  Op.  cit.,  p.  37.
 
 ^  Sieroszewski,  12  Lut  w  Krajit  Yukutow,  pp.  388-9,
 
-
-278  RELIGION
 
 (v)  An-Alay-Khotun,  the  tutelary  goddess  of  the  earth,  fields,
 and  valleys,  with  her  children,  the  spirits  of  iiraha-djuruM.
@@ -15286,16 +13875,13 @@ example,  Kurar-Ichchi,  the  '  owner '  of  the  wind,  is  by  many
 writers  considered  as  a  '  black '  spirit,  since  the  wind  is  very  often
 dangerous  and  harmful.^  In  the  wanderings  of  the  tribe  through
 difficult  country,  by  dangerous  roads,  or  through  trackless  regions,
-accidents  may  often  happen  to  a  cart  or  some  part  of  its  equip-
-ment. Such  misfortunes  are  attributed  to  the  local  ichchi,  who
+accidents  may  often  happen  to  a  cart  or  some  part  of  its  equipment. Such  misfortunes  are  attributed  to  the  local  ichchi,  who
 must   therefore   be   placated    bj'^  sacrifices.     The  Yakut   have   a
 
 1  Op.  cit.,  p.  390.  ^  Op.  cit.,  p.  391.
 
 ^  Jochelson,  The  Koryak,  p.  190.         *  Troshchauski,  op.  cit.,  pp.  26-80.
 
-
-GODS,    SPIRITS,   SOUL  279
 
 special  languago  for  use  during  those  journeyings.  In  this
 language,  implements  oi-  i)tiier  valuable  objects  are  given  certain
@@ -15319,8 +13905,7 @@ The  Yakut  believe  that  man  is  composed  of  (i)  fijn,  'life',
 'breath';  (ii)  Icut,  the  physical  soul ;  and  (iii)  si\r,  the  j^sychic  soul.^
 Tijn  is  common  to  men,  animals,  and  plants,  as  among  the
 Altaians.  Kut  is  common  to  men  and  animals,  and  is  composed
-of  three  parts:  {a)  huor-lait,  literally  'earth-soul',  i.e.  soul  com-
-posed of  earthly  elements;  [h)  salgi/n-lut,  literally  'air-soul',
+of  three  parts:  {a)  huor-lait,  literally  'earth-soul',  i.e.  soul  composed of  earthly  elements;  [h)  salgi/n-lut,  literally  'air-soul',
 i.  e.  composed  of  air ;  (c)  uja-lcut,  '  mother-soul ',  the  maternal
 element.  It  might  seem,  says  Troshchanski,  that  there  are  here
 three  souls,  but  in  fact  lad  is  one  soul  composed  of  these  three
@@ -15344,8 +13929,6 @@ some    degree    a   material   conception,    has   more   of  a   psychical
 
 =>  Op.  cit ,  p.  74.
 
-
-280  RELIGION
 
 character  than  lut.  Tlie  sitr  enters  the  mother  by  way  of  her
 temples  at  the  moment  of  conception.  The  Icut  is  sent  by  Art-
@@ -15401,8 +13984,6 @@ chapter  on  '  The  Shaman — his  Vocation '.
 f
 
 
-GODS,    SPIRITS,   SOUL  281
-
 Sacrifice  is  made  to  Eriik — usually  of  some  animal — when  an
 evil  spirit  attacks  some  one.  The  ceremony  is  performed  either
 in  the  yurdt.  in  the  courtyard,  or  wherever  the  attack  was  made.
@@ -15410,8 +13991,7 @@ Propitiatory  sacrifices  are  otTered,  not  only  to  Yulgen  and  Erlik,
 but  also  to  secondary  good  sjjirits,  such  as  aru  none  and  ah  nemc,
 and  to  secondary  evil  spirits  {kara  ncme),  which  are  known  to  the
 Tartars  of  Chern  as  sJiaitan,  ahn//s,  IJiawa,  Jciircmcs.  The  sun,  the
-moon,  as  well  as  the  mountains,  rivers,  and  forest,  are  also  pro-
-pitiated, or  rather  the  propitiation  is  offered  to  their  'owner'
+moon,  as  well  as  the  mountains,  rivers,  and  forest,  are  also  propitiated, or  rather  the  propitiation  is  offered  to  their  'owner'
 {eezi).  Besides  these  superior  beings,  every  clan  (seoh)  has  its
 own  deity,  and  every  family  its  own  family  god  of  the  ijurta,
 called  hashtut-lhan  (or  among  the  Tartars  of  Chern,  crhe).
@@ -15433,8 +14013,7 @@ made  to  him  at  all  festivals.
 The  intermediary  between  gods  and  men  at  all  sacrifices,  and
 the  priest  at  these  ceremonies,  as  well  as  the  prophet,  is  the  Team
 or  shaman.  His  power  is  greater  or  less  according  to  the  degree
-oitcs  hazi/n-yat-  (probably  'ancestor-spirit'  or  'power  of  ancestor-
-spirit')  possessed  bj'^  him.^
+oitcs  hazi/n-yat-  (probably  'ancestor-spirit'  or  'power  of  ancestorspirit')  possessed  bj'^  him.^
 
 The  local  division  of  the  universe  is  partly  horizontal,  partly
 vertical ;  and  the  good  spirits  live  in  seventeen  floors  above  the
@@ -15482,8 +14061,7 @@ expression  cr  Iciidup  panly  means  'the  earth  has  lost  its  vitality '
 or  '  has  become  barren  '.
 
 {(T)  Tula  is  probably  derived  from  tulup,  '  I  tear '.  Animals
-have  no  ttda,  it  belongs  only  to  men.  During  a  .shaman's  per-
-formance he  represents  this  soul  as  a  small  white  bullet  con-
+have  no  ttda,  it  belongs  only  to  men.  During  a  .shaman's  performance he  represents  this  soul  as  a  small  white  bullet  con-
 tinually in  motion  like  quicksilver.
 
 (e)  Si'ir,  from  sump,  '  I  pursue ',  '  I  drive  away '.  This  soul
@@ -15499,14 +14077,11 @@ intellectual  powers  of  man.  It  is  this  soul  which  assumes  after
 death  the  living  likeness  of  its  possessor,  and  wanders  in  the
 dwelling  of  the  dead  man,  sometimes  calling  out  to  his  relatives.^
 
-1  Op.  cit.,  p.  77.
 
 "^  Tyndu-agash,  fi*esb,  growing  tree  ;  iyndu-eleu,  fresh  grass  (ibid.).
 
 ^  Op.  cit.,  p.  78.
 
-
-GODS,    SPIRITS.    SOUL  283
 
 VII.     The  MoxtiOLic  Tribes.
 The  Bukyat.
@@ -15522,15 +14097,12 @@ fifty-five,  and  are  called  sagani  tengcri — "White  Tengeri.  The
 eastern  (forty-four  in  number)  are  mischievous,  and  are  known  as
 kharan  tcngcri,  or  Black  Tengeri.-
 
-Banzai'off'  speaks  of  the  old  Mongols  as  being  heaven-wor-
-shippers, and  this  may  be  true  of  former  times  ;  now,  however,
+Banzai'off'  speaks  of  the  old  Mongols  as  being  heaven-worshippers, and  this  may  be  true  of  former  times  ;  now,  however,
 we  find  among  them  a  curious  conception  of  heaven  not  as  an
 indivisible  whole,  but  as  a  collection  of  distinct  bodies.
 
-Following  what  Mr.  Klementz*  calls  the  theory  of  the  atmo-
-spheric explanation  of  myths,  Agapitoff  and  Khangaloff,  in  their
-Materials  for  the  Stuclij  of  Shamanism  in  Siberia,  explain  the  ninety-
-nine  tengeri  as  being  each  a  personification  of  some  atmospheric
+Following  what  Mr.  Klementz*  calls  the  theory  of  the  atmospheric explanation  of  myths,  Agapitoff  and  Khangaloff,  in  their
+Materials  for  the  Stuclij  of  Shamanism  in  Siberia,  explain  the  ninetynine  tengeri  as  being  each  a  personification  of  some  atmospheric
 state,  dull,  bright,  cold,  stormy,  &c.
 
 The  chief  of  the  west  tengeri  is  Khan-Tiurmas  Tengeri  among
@@ -15558,8 +14130,6 @@ some  of  the  Buryat,  e.  g.  those  of  the  Kuda  Eiver,  that  the  white
 "  Khangaloff,  op.  cit.,  p.  10.
 
 
-284  RELIGION
-
 tengcri  are  older  than  the  bhick—  a  tradition  which  may  not  be
 unconnected  with  the  other  just  mentioned.  The  chief  of  the
 east  tengeri  is  Ata-Ulan-Tengeri  among  the  Balagansk  Buryat,
@@ -15571,19 +14141,16 @@ The  Buryat  believe  that  the  visible  sky  has  a  door  through
 which  the  western  tengcri  look  from  time  to  time,  to  see  how
 human  affairs  are  going.  If  they  behold  some  misfortune  they
 send  to  the  aid  of  men  certain  of  their  children,  called  Ihats.  If
-a  man  should  happen  to  look  up  at  the  sky  when  this  i\oov  [tengc-
-r'm-uden)  open.s,  he  will  be  very  lucky,  and  all  that  he  may  then
+a  man  should  happen  to  look  up  at  the  sky  when  this  i\oov  [tengcr'm-uden)  open.s,  he  will  be  very  lucky,  and  all  that  he  may  then
 ask  from  heaven  will  be  granted  him.  During  the  brief  moment
-when  this  door  is  open,  a  glory  falls  upon  the  earth  and  trans-
-figures it  to  unwonted  beauty.^
+when  this  door  is  open,  a  glory  falls  upon  the  earth  and  transfigures it  to  unwonted  beauty.^
 
 The  most  important  of  the  western  llials  arc  Khan-Shargan-
 Noyon  and  Bukha-No)^on-Babai.
 
 The  other  benevolent  spirits  are  known  among  the  Kudinsk
 Buryat  as  satim-burlJiaf.  They  are  held  in  great  reverence,  because,
-as  their  name  shows  {sa,  '  tea '),  they  are  tutelary  spirits  of  tea-
-planting,  and  the  offering  made  to  them  consists  always  of  tea,
+as  their  name  shows  {sa,  '  tea '),  they  are  tutelary  spirits  of  teaplanting,  and  the  offering  made  to  them  consists  always  of  tea,
 never  of  tarasim.'^
 
 The  Balagansk  Bur3'at  include  among  their  benevolent  spirits
@@ -15613,8 +14180,6 @@ of  the  echo  in  the  high  mountains,  ye  keepers  of  the  winds  of  the
 ^  Op.  cit.,  p.  44.  *  Shashkoff,  1864,  p.  49.
 
 
-GODS.    SPIRITS,   SOUL  285
-
 wide  sea  ;  my  lords  who  lodge  in  the  high  mountains,  my  gods
 who  live  in  the  wilderness !  Be  our  support  in  our  need  !  In
 tlie  evil  years  be  generous,  grant  us  fertility  in  the  lean  months!
@@ -15639,8 +14204,7 @@ had  one  daughter  and  nine  sons,  all  of  whom  were  smiths. -
 
 The  eastern  Mats  are  of  the  same  number  as  the  western.
 Their  head  is  Erlen-Khan  and  his  family.  Although  they  do
-nothing  but  mischief  to  men,  they  have  communication  some-
-times with  the  western  Ihats,  the  intermediaries,  who  have  no
+nothing  but  mischief  to  men,  they  have  communication  sometimes with  the  western  Ihats,  the  intermediaries,  who  have  no
 other  function  to  perform,  being  called  Ushi  or  hydel:  There  are
 also  nine  'cow'  JJiats,  who  also  belong  to  the  eastern  zai/ans  but
 are  not  sul^ject  to  their  power.-'
@@ -15683,8 +14247,7 @@ to  arranL;e  human  business  with  the  l>lack  zayans.  Every  ulus
 and  clan  has  its  own  zai/uns — the  souls  of  deceased  shamans  and
 shamanesses.  Their  bodies  are  burned  or  placed  in  coffins,  which
 are  put  on  trees  in  a  neighbouring  forest  or  on  a  mountain,
-whence  they  are  called  '  the  old  people  of  the  mountain ',  khada-
-ulan-obokhocl.  In  every  district  there  are  such  '  old  people  of  the
+whence  they  are  called  '  the  old  people  of  the  mountain ',  khadaulan-obokhocl.  In  every  district  there  are  such  '  old  people  of  the
 mountain ',  for  M'hom  are  made  tailgans  and  kiriks,  with  other
 lesser  propitiatory  offerings.  These  '  old  people  '  are  purely  local
 divinities,  and  are  not  worshipped  outside  of  the  particular
@@ -15717,8 +14280,6 @@ an    important    part    in    the    beliefs    and    ceremonies    of    ot
 =>  Op.  cit.,  pp.  82-4.  *  Op.  cit.,  p.  76.
 
 
-GODS,   SPIRITS,   SOUL  287
-
 shamanists,  does  not  enter  into  the  myths  and  litunl  of  the
 Buryat.
 
@@ -15734,8 +14295,7 @@ The  Buryat  believe  that  man  is  composed  of  three  parts  :  oifeye,
 material  body;  amin,  lower  soul,  breath;  and  sunycsun,  soul
 belonging  to  man  only.  Amin  is  connected  with  death  ;  when  it
 leaves  the  body,  death  occurs.  Sunyestm  has  a  similar  connexion
-with  sleep,  leaving  the  body  when  one  is  sleeping.  Batoroff-
-relates  the  history  of  the  soul  after  death  as  follows :  When  the
+with  sleep,  leaving  the  body  when  one  is  sleeping.  Batoroffrelates  the  history  of  the  soul  after  death  as  follows :  When  the
 time  comes  for  a  man  to  die.  erlils  capture  one  of  his  souls,  and
 bring  it  before  Erlik-Nomon-Khan  for  judgement.  After  this
 soul  has  been  captured,  it  sometimes  happens  that  a  man  may
@@ -15749,8 +14309,7 @@ that  which  the  man  formerly'  followed.  There  are  different
 classes  of  bolJioldoys.
 
 The  third  part  of  the  soul  is  born  again  in  the  form  of  a  human
-being,  but  Batoroff  ^  does  not  tell  us  when  and  how  this  reincar-
-nation takes  place/*
+being,  but  Batoroff  ^  does  not  tell  us  when  and  how  this  reincarnation takes  place/*
 
 Bolhohloi/s  are  sometimes  the  souls  of  deceased  shamans,  to
 whom  the  Buryat  bring  sacrifices,  says  Batoroff;  "'  these  holholdai/s,
@@ -15765,15 +14324,12 @@ or  genealogy  ;  but  from  other  references  to  a  shaman's  uWia  it
 -  '  Buryat  beliefs  on  the  hokholdoys  and  anukhoija,'  E.  S.  S.  I.  R.  G.  S.,
 vol.  ii,  part  ii,  p.  13.
 
-'  Op.  cit.,  p.  14.
 
 *  For  further  information  as  to  peculiar  Buryat  beliefs  about  the  soul,
 see  the  chapter  on  '  Death  '.
 
 ^  Op.  cit,  p.  10.  «  Ibid.
 
-
-288  RELIGION
 
 seems  clear  that  the  word  denotes  supernatural,  shamanistic
 power,  like  the  Yakut  amiigyat^  The  less  important  hoMoIdoi/s
@@ -15782,8 +14338,7 @@ libation,  which  may  be  performed  by  any  one,  not  necessarily  by
 a  shaman.
 
 Ada  or  anahhai/  are,  according  to  some  traditions,  souls  of
-wicked  persons  or  of  women  who  have  died  childlpss.  No  sacri-
-fices are  made  to  them  and  they  are  represented  as  one-eyed,  evil,
+wicked  persons  or  of  women  who  have  died  childlpss.  No  sacrifices are  made  to  them  and  they  are  represented  as  one-eyed,  evil,
 malicious  spirits,  who  always  remain  in  the  same  ulus  or  house.
 They  sometimes  take  the  form  of  a  dog  or  cat,  always  one-eyed ;
 they  wander  at  night,  but  not  every  one  can  see  them,  though
@@ -15824,14 +14379,11 @@ Yanykh-Torum    (called    also    Numi-Torum    or    Voykan-Torum).
 Siberia,  1888,  pp.  6-7.
 
 
-GODS,    SPIRITS,   SOUL  289
-
 The  principal  evil  deit}'  is  Khul.  Yunykh-Toium  is,  however,
 not  the  highest  of  the  gods ;  there  is  another,  higher  than  he,
 Kors-Toruni  (The  Creator),  the  progenitor  of  all  the  gods.  Kors-
 Torum  has  never  revealed  himself  to  man,  and  the  Vogul  say
-that  they  cannot  picture  to  themselves  what  he  is  like,  that  what-
-ever they  know  of  him  is  only  known  through  the  lesser  gods.^
+that  they  cannot  picture  to  themselves  what  he  is  like,  that  whatever they  know  of  him  is  only  known  through  the  lesser  gods.^
 He  never  descends  to  earth,  but  sometimes  sends  thither  his
 eldest  son,  Yanykh-Torum.  Yanykh-Torum  has  the  form  of
 a  man.  but  from  the  splendour  of  his  raiment  he  shines  like  gold.
@@ -15863,19 +14415,15 @@ unclean  earth  lest  he  might  soil  himself  upon  it,  but  communicates  wi
 man  only  through  the  tadehtsy  (spirits),  who  for  this  jjurpose  choose
 tadibeij  (shamans)  from  among  men.  (Islavin,  The  Samoyed,  p.  109.)
 Lepekhin  says  that  the  tadehtsy  of  the  Samoyed  are  not  divided  into  bad
-and  good  spirits,  but  that  they  can  harm  or  help  men  according  to  circum-
-stances. These  tadehtsy  are  so  numerous  that  there  is  no  place  on  earth
+and  good  spirits,  but  that  they  can  harm  or  help  men  according  to  circumstances. These  tadehtsy  are  so  numerous  that  there  is  no  place  on  earth
 where  they  are  not  found.  (Lepekhin,  Full  Collection  of  Scientific  Travels  in
 Russia,  I.  R.  A.  S.,  1818,  pp.  260-2.)  Jackson  says  that  the  Samoyed
-regard  atmospheric  phenomena — storms,  rain,  snow — as  the  '  direct  ex-
-pressions '  of  the  •  great  god  Num ',  and  that  his  attitude  towards  men  is
+regard  atmospheric  phenomena — storms,  rain,  snow — as  the  '  direct  expressions '  of  the  •  great  god  Num ',  and  that  his  attitude  towards  men  is
 one  of  complete  indifference.  (Notes  on  the  Samoyeds  of  the  Great  Tundra,
 Journal  of  the  Anfhropoloyical  Institute,  vol.  xxiv,  p.  398.)
 
 ^  Op.  cit.,  pp.  17-18
 
-
-290  RELIGION
 
 Yanykh-Torum  has  seven  sons,  but  neither  he  nor  Kors-Torum
 has  any  daughters.  Besides  Yanykh  and  Kors-Torum  and  their
@@ -15933,8 +14481,7 @@ CHAPTER  XIV
 SOME   CEREMONIES
 I.     The  Chukchee.
 
-Chukchee  ceremonials  have  a.s  the  only  object  of  their  per-
-formance the  material  welfare  of  the  community,  and  incantations
+Chukchee  ceremonials  have  a.s  the  only  object  of  their  performance the  material  welfare  of  the  community,  and  incantations
 are  the  main  substance  of  their  rites.
 
 The  Reindeer  Chukchee's  only  regular  ceremonials  are  those
@@ -15985,8 +14532,7 @@ the  chief  ceremonial  of  the  year  is  performed.  It  is  consecrated
 to  Keretkun,  or  is  made  a  thanksgiving  ceremonial  to  the  spirits
 of  sea-mammals  killed  since  the  fall.  Early  in  spring  there  follows
 the  ceremonial  of  boats,  which  are  made  ready  for  the  approaching
-season.  In  the  middle  of  s'lmmer  the  ceremonial  of  heads  is  per-
-formed. This  is  for  thanksgiving  to  the  spirits  of  sea-animals  killed
+season.  In  the  middle  of  s'lmmer  the  ceremonial  of  heads  is  performed. This  is  for  thanksgiving  to  the  spirits  of  sea-animals  killed
 since  early  in  the  spring.
 
 'These  four  ceremonials  are  performed  with  varying  similarity
@@ -15994,15 +14540,12 @@ by  both  the  Maritime  Chukchee  and  the  Asiatic  Eskimo.  To
 these  must  be  added  some  slight  ceremonials  effected  while
 moving  from  the  winter  lodging  to  the  summer  tent.
 
-'Most  of  the  Maritime  Chukchee  offer  sacrifice  also  in  mid-
-winter to  the  star  Pehittin,  and  perform  in  the  middle  of  spring
-a  ceremonial  analogous  to  the  ceremonial  of  antlers  of  the  reindeer-
-breeders,  which  is  called  by  the  same  name,  Kilvei.  The  sacrifice
+'Most  of  the  Maritime  Chukchee  offer  sacrifice  also  in  midwinter to  the  star  Pehittin,  and  perform  in  the  middle  of  spring
+a  ceremonial  analogous  to  the  ceremonial  of  antlers  of  the  reindeerbreeders,  which  is  called  by  the  same  name,  Kilvei.  The  sacrifice
 to  the  whale  is  performed,  in  addition,  each  time  after  a  whale  has
 been  killed  or  has  drifted  ashore,
 
-'Bloody  and  bloodless  sacrifices  are  offered  during  these  cere-
-monials. The  Maritime  Chukchee,  of  course,  can  slaughter  only
+'Bloody  and  bloodless  sacrifices  are  offered  during  these  ceremonials. The  Maritime  Chukchee,  of  course,  can  slaughter  only
 dogs  for  their  bloody  sacrifices.  In  comparison  with  the  Koryak,
 however,  they  are  merciful  to  their  dogs  and  kill  them  in  no  very
 great  numbers.  In  this,  as  in  other  respects,  they  occupy  a  middle
@@ -16014,8 +14557,7 @@ The  ceremonial  dedicated  to  Keretkun,'-  the  sea-god,  is  especially
 important  among  the  Maritime  Chukchee.  When  the  seal-gut
 overcoats  for  the  family  (which  are  said  to  be  similar  to  those
 worn  by  Keretkun  and  his  family),  the  ceremonial  head-dresses,
-and  the  incantation-paddle,  on  which  there  are  pictorial  repre-
-sentations of  prayers,  are  ready,  a  net  is  suspended  overhead,  and
+and  the  incantation-paddle,  on  which  there  are  pictorial  representations of  prayers,  are  ready,  a  net  is  suspended  overhead,  and
 various  images  of  birds  and  small  paddles  are  hung  from  it.  On
 each  side  of  the  hearth  is  placed  a  reindeer-skin,  the  two  skins
 representing  the  inner  rooms  of  the  house.  Keretkun,  who  is
@@ -16028,8 +14570,7 @@ placed  on  a  lamp,  which  is  put  either  on  one  of  the  skins  or
 SOME   CEREMONIES  293
 
 in  a  sleeping-room.  Here  he  remains  until  the  end  of  the
-ceremony.  A  fire  is  made  before  him  and  kept  burning  through-
-out the  three  days  of  the  ceremonial.  Among  those  people,  like
+ceremony.  A  fire  is  made  before  him  and  kept  burning  throughout the  three  days  of  the  ceremonial.  Among  those  people,  like
 the  Asiatic  Eskimo,  who  have  no  wood,  a  second  lamp  is  kept
 l)urning  before  that  on  which  Keretkun  is  placed.  Puddings
 made  of  various  roots  mixed  with  oil  and  liver  are  sacrificed
@@ -16049,13 +14590,11 @@ demanded.
 In  some  cases  the  exchange  is  made  between  relatives  only,
 and  especially  between  those  who  are  partners  in  the  marriages
 called  by  Bogoras  '  group-marriage  '.  A  man  will  send  his  wife  to
-one  of  his  marriage-partners  to  ask  for  certain  articles,  and  after-
-wards the  donor  sends  his  wife  to  ask  for  an  equivalent.
+one  of  his  marriage-partners  to  ask  for  certain  articles,  and  afterwards the  donor  sends  his  wife  to  ask  for  an  equivalent.
 
 Another  variety  of  ceremonial  exchange,  which  also  forms  a  part
 of  the  second  day's  ceremonies,  is  what  is  called  by  Bogoras  the
-'  trading-dance  '.^  It  takes  place  between  the  members  of  a  *  com-
-pound marriage  ',  beginning  with  a  dance  in  which  a  male  member
+'  trading-dance  '.^  It  takes  place  between  the  members  of  a  *  compound marriage  ',  beginning  with  a  dance  in  which  a  male  member
 of  the  group  has  one  of  the  women  for  his  partner.  '  Frequently
 the  man  looks  on  only,  while  the  woman  dances  before  him.  He
 must  provide  a  reindeer-skin,  howevei',  to  spread  on  the  ground
@@ -16071,11 +14610,8 @@ mated  couple  sleeps  together  for  another  night.     Such  dances  are
 
 '  Ibid.
 
-^  A  special  meaning  of  'trade'  in  the  U.S.A.  is  the  exchange  of  com-
-uiodities  in  business;  trading  =  bartenng,  'swapping'.
+^  A  special  meaning  of  'trade'  in  the  U.S.A.  is  the  exchange  of  comuiodities  in  business;  trading  =  bartenng,  'swapping'.
 
-
-294  RELIGION
 
 arranged  chiefly  among  cousins  or  other  relatives,  who,  among  the
 Chukchee,  frequently  assume  the  bond  of  compound  marriage.
@@ -16099,8 +14635,7 @@ with  them  on  departing.
 Finally,  the  image  of  Keretkun  is  burned  over  his  lamp.  Then
 all  the  refuse  of  the  sacrificed  reindeer  is  gathered  up  and  cast
 into  the  sea,  to  symbolize  the  returning  to  the  sea  of  all  game
-killed  since  the  last  ceremonial.  This  same  S5'mbolic  act  is  per-
-formed at  almost  all  of  the  Maritime  ceremonials.
+killed  since  the  last  ceremonial.  This  same  S5'mbolic  act  is  performed at  almost  all  of  the  Maritime  ceremonials.
 
 
 II.    The  Koryak.
@@ -16189,8 +14724,6 @@ will  return  to  the  sea  to  repeat  its  visit  the  following  year' ;  and
 hospitably  received,  it  will  bring  its  relatives  with  it  when  it  comes
 
 
-296  RELIGION
-
 the  bear  is  sent  liome  with  much  ceremony,  to  secure  successful
 bear-hunting  in  the  future,  bear's  meat  being  considered  a  delicacy,
 while  the  festival  seizes  at  the  same  time  to  protect  the  people
@@ -16207,8 +14740,7 @@ regard  this  animal  as  a  powerful  shaman  and  an  evil  spirit.
 
 'After  having  killed  a  wolf,  the  Reindeer  Koryak  slaughter
 a  reindeer,  cut  off  its  head,  and  put  its  body,  together  with  that
-of  the  killed  wolf,  on  a  platform  raised  on  jjosts.  The  reindeer-
-head  is  placed  so  as  to  face  eastward.  It  is  a  sacrifice  to  The-One-
+of  the  killed  wolf,  on  a  platform  raised  on  jjosts.  The  reindeerhead  is  placed  so  as  to  face  eastward.  It  is  a  sacrifice  to  The-One-
 on-High,  who  is  thus  asked  not  to  permit  the  wolf  to  attack  the
 herd.  Special  food  is  prepared  in  the  evening,  and  the  wolf  is  fed.
 The  night  is  spent  without  sleep,  in  beating  the  drum,  and
@@ -16237,8 +14769,7 @@ A  similar  procedure  is  followed  at  the  bear  festival.     (Op.  cit.,  p
 
 1^  Op.  cit.,  p.  89.
 
--  N.  Kharuzin,  EOuiogmphy,  1905,  vol.  iv,  pp.  371-2.  For  a  more  de-
-tailed description  see  B.  Pilsudski's  Xiedziciedzie  Swieto  u  A'uiou-  (in
+-  N.  Kharuzin,  EOuiogmphy,  1905,  vol.  iv,  pp.  371-2.  For  a  more  detailed description  see  B.  Pilsudski's  Xiedziciedzie  Swieto  u  A'uiou-  (in
 Sphinx,  Warsaw,  1905).
 
 
@@ -16270,8 +14801,7 @@ to  death.  With  much  solemnity  the  body  is  laid  out,
 and  surrounded  with  various  embellishments,  which  are  more
 numerous  and  elaborate  if  the  animal  is  a  female.  Food  and
 drink  are  offered  to  the  spirit  of  the  victim,  and  then  follow  much
-feasting  and  merriment,  which  is  intended  to  render  the  bear-
-spirit  joyous  and  gay.  The  body  is  flayed  and  disembowelled,
+feasting  and  merriment,  which  is  intended  to  render  the  bearspirit  joyous  and  gay.  The  body  is  flayed  and  disembowelled,
 and  the  head  cut  off,  the  blood  being  collected  in  a  pot  and  drunk
 by  the  men  only  among  the  guests.  The  liver  is  also  consumed,
 and  of  this  each  woman  and  girl  present  receives  a  small  portion.
@@ -16317,8 +14847,7 @@ for  Urun-Aiy-Toyon  in  particular.  ^  After  the  sacrifice,  which  is
 followed  by  certain  sports  or  games,  a  dramatic  representation  of
 the  struggle  between  spring  and  winter  is  given.  One  man,
 called  the  aly-uola,  is  dressed  in  white  and  mounted  on  a  white
-horse  to  represent  the  spring,  while  another,  ahassy-iiola,  repre-
-sents winter  by  being  dressed  in  black  or  reddish  garments  and
+horse  to  represent  the  spring,  while  another,  ahassy-iiola,  represents winter  by  being  dressed  in  black  or  reddish  garments  and
 mounted  on  a  horse  of  corresponding  colour.
 
 The  ahassi/-i/s>/al-h  is  held  in  autumn,  and  in  the  open  air  like
@@ -16358,14 +14887,11 @@ branches  lopped  off,  and  nine  notches  cut  in  its  trunk  to  represent
 steps  [fapti/].  The  >/^(>•(a  is  surrounded  by  a  penfold,  and  by  the
 entrance  to  this  is  set  a  birch-stick  with  a  noose  of  horsehair.
 A  holder  of  the  head  {Bash-ti<il(ui-lisJii)  of  the  sacrificial  horse  is
-chosen  from  among  those  present.  The  lam  flourishes  a  birch-
-twig  over  the  horse  to  indicate  that  its  soul  is  being  driven  to
-Bai-Yulgen's  al)ode,  whither  the  soul  of  the  Bash-tutJian  accom-
-panies it.  He  then  collects  spirits  in  his  tambourine,  calling  each
+chosen  from  among  those  present.  The  lam  flourishes  a  birchtwig  over  the  horse  to  indicate  that  its  soul  is  being  driven  to
+Bai-Yulgen's  al)ode,  whither  the  soul  of  the  Bash-tutJian  accompanies it.  He  then  collects  spirits  in  his  tambourine,  calling  each
 one  by  name,  and  answering  for  each  as  it  arrives :  *  I  also  am
 here,  Kam  ! '  As  he  speaks  he  makes  motions  with  his  tambourine
-as  if  taking  the  spirits  into  it.  When  he  has  secured  his  assist-
-ants, the  kam  goes  out  of  the  yurta,  mounts  upon  a  scarecrow
+as  if  taking  the  spirits  into  it.  When  he  has  secured  his  assistants, the  kam  goes  out  of  the  yurta,  mounts  upon  a  scarecrow
 made  to  resemble  a  goose,  and  flapping  his  arms  as  if  they  were
 wings,  chants  loudly  and  slowly:  ^
 
@@ -16381,11 +14907,9 @@ Skyward  ascend,  0  bird !
 The  goose  replies  (through  the  shaman  himself,  of  course)  in
 a  series  of  quacks — 'Ungaigak,  ungaigak,  kaigaigak  gak,  kaigai
 gak.'  The  lam,  still  on  his  feathered  steed,  pursues  the  pura
-(soul)  of  the  sacrificial  horse,  neighing  in  imitation  of  the  un-
-willing victim,  until,  with  the  help  of  the  spectators,  he  drives  it
+(soul)  of  the  sacrificial  horse,  neighing  in  imitation  of  the  unwilling victim,  until,  with  the  help  of  the  spectators,  he  drives  it
 into  the  penfold  to  the  stick  with  the  horsehair  noose,  the
-guardian  of  the  pura.  After  violent  efforts,  to  the  accompani-
-ment of  neighings  and  other  noises  produced  by  the  shaman  to
+guardian  of  the  pura.  After  violent  efforts,  to  the  accompaniment of  neighings  and  other  noises  produced  by  the  shaman  to
 imitate  the  struggles  of  the  jj^io-rt,  the  latter  frees  itself  and  runs
 away.  It  is  at  last  recaptured,  and  fumigated  with  juniper  by
 the  shaman,  who  has  now  dismounted  from  his  goose.  Then  the
@@ -16394,10 +14918,6 @@ thereafter  kills  it  by  opening  the  aorta.  The  bones  and  skin
 form  the  actual  sacrifice.  The  flesh  is  consumed  by  those  present
 at  the  ceremony,  the  choicest  portion  falling  to  the  lam.
 
-'  Op.  cit.,  p.  63.
-
-
-300  RELIGION
 
 'The  most  important  part  of  the  performance  takes  place  on
 the  second  day  after  sunset ;  it  is  then  that  the  Icam  must  display
@@ -16414,8 +14934,7 @@ When  I  cry  '  Chokk  ' !   make  obeisance  !
 When  I  cry  '  Me  ' !   accept  this  !
 
 The  *  owner '  of  the  fire,  representing  the  power  of  the  family  of
-the  master  of  the  yurta,  who  has  organized  the  festival,  is  ad-
-dressed in  a  similar  invocation.  Then  the  l;am  takes  a  cujd  and
+the  master  of  the  yurta,  who  has  organized  the  festival,  is  addressed in  a  similar  invocation.  Then  the  l;am  takes  a  cujd  and
 makes  noises  with  his  lips  to  imitate  the  sounds  of  drinking  made
 by  an  assemblage  of  invisible  guests.  He  distributes  morsels  of
 meat  to  the  company,  who  devour  them  as  representatives  of  the
@@ -16448,8 +14967,6 @@ Birds  of  Heaven,  the  five  Merkyuts !
 Ye  with  mighty  talons  of  brass.
 Of  copper  is  the  moon's  claw,
 And  of  ice  its  beak  ;
-
-'  Op.  cit.,  p.  64.
 
 
 SOME   CEREMONIES  301
@@ -16523,8 +15040,7 @@ Hurrying  on  the  Bash-tutlcan,  the  Icam  passes  from  one  zone  of
 heaven  to  another.  The  goose  once  more  takes  the  place  of  the
 wearied  intra,  affording  temporary  relief  to  the  Basli-tuthan,  who
 relates  his  woes  vicariously  by  means  of  the  shaman.  In  the  third
-zone  a  halt  is  made,  the  shaman  prophesies  impending  mis-
-fortunes, and  declares  what  sacrifices  are  to  be  offered  by  the
+zone  a  halt  is  made,  the  shaman  prophesies  impending  misfortunes, and  declares  what  sacrifices  are  to  be  offered  by  the
 district.     If  he  foretells  rainy  weather  he  sings  :
 
 Kara  Shurlu  of  the  six  rods
@@ -16539,8 +15055,7 @@ Similar  prophecies  may  be  made  in  other  regions  of  the  sky.
 
 When  the  Bash-tutlcan  is  rested  the  journey  is  continued,
 progress  being  indicated  by  mounting  one  step  higher  on  the
-birch  for  every  new  zone  attained.  Variety  is  given  to  the  per-
-formance by  the  introduction  of  various  episodes.  'In  the  sixth
+birch  for  every  new  zone  attained.  Variety  is  given  to  the  performance by  the  introduction  of  various  episodes.  'In  the  sixth
 sphere  of  heaven  takes  place  the  last  episodical  scene,  and  this  has
 a  comic  tinge.  The  shaman  sends  his  servant  Kuruldak  to  track
 and  catch  a  hare  that  has  hidden  itself.  For  a  time  the  chase  is
@@ -16562,8 +15077,6 @@ Lord,  to  whom  three  stairways  lead,
 Bai- Yulgen,  possessor  of  three  flocks,
 The  blue  vault  which  has  appeared.
 The  blue  sky  that  shows  itself,
-
-1  Op.  cit.,  p.  65.  "  Op.  cit.,  p.  66.
 
 
 SOME   CEREMONIES  303
@@ -16615,8 +15128,7 @@ shaman  seems  to  awake,  rubs  his  eyes,  stretches  himself,  wrings
 out  the  perspiration  from  his  shirt,  and  salutes  all  those  present
 as  if  after  a  long  absence.'  ^
 
-This  sometimes  concludes  the  festival,  but  more  often,  especi-
-ally among  the  wealth}'-,  a  third  day  is  spent  in  feasting  and
+This  sometimes  concludes  the  festival,  but  more  often,  especially among  the  wealth}'-,  a  third  day  is  spent  in  feasting  and
 libations  to  the  gods.^
 
 V.     The  Mongolic  Tribes.
@@ -16653,8 +15165,7 @@ known  as  sagan-sara  ('white  month'),  and  the  Mongols  used  to
 date  their  New  Year  from  the  time  of  its  celebration.  The
 majority  of  these  people  nowadays  celebrate  the  beginning  of  the
 year  in  winter,  but  they,  like  the  few  who  adhere  to  the  old  date,
-still  call  the  New  Year  and  the  festival  wliich  is  held  then  sagan-
-sara.'-
+still  call  the  New  Year  and  the  festival  wliich  is  held  then  sagansara.'-
 
 An  English  traveller  of  the  middle  of  the  nineteenth  century,
 who  witnessed  the  celebration  of  the  spring  festival  in  the  valley
@@ -16704,8 +15215,7 @@ Khaugaloff's  description  of  the  ceremony  uhlian-hudla  :
 
 'Some  time  after  having  a  child  born  to  him,  a  Buryat,  either
 at  the  instance  of  a  shaman  or  on  his  own  initiative,  wall  make
-preparation  for  the  performance  of  the  ceremony  called  iilJian-
-hudla.  A  shaman  is  invited  to  perform  the  ceremony.  When
+preparation  for  the  performance  of  the  ceremony  called  iilJianhudla.  A  shaman  is  invited  to  perform  the  ceremony.  When
 the  shaman  appears,  water  is  brought  from  a  spring,  or  sometimes
 from  a  lake  or  river.  Before  drawing  the  water,  some  copper
 coins  are  dropped  into  the  place  from  which  it  is  taken.  A
@@ -16748,8 +15258,7 @@ for  life.  Such  an  animal  must  not  be  used  for  any  heavy  work,
 and  no  married  woman  must  touch  it.  The  Mongols  call  this
 custom  sctertcg,  which  denotes  both  the  dedication  and  the  taboo.  ^
 
-Another  case  of  the  dedication  of  animals  is  that  which  is  some-
-times practised  with  regard  to  a  horse  whose  master  has  died.  The
+Another  case  of  the  dedication  of  animals  is  that  which  is  sometimes practised  with  regard  to  a  horse  whose  master  has  died.  The
 animal  is  taboo,  and  must  not  be  used  for  heavy  work.  Under
 ordinary  circumstances,  when  a  Buryat  dies,  his  horse  is  either
 killed  or  set  loose  to  wander  at  large  upon  the  steppes.^
@@ -16821,8 +15330,7 @@ horse-stinger's  activity.  ^
 
 Leprosy  is  especially  prevalent  in  the  Amur  countiy  and  in
 Sakhalin.  Sieroszewski  •'  has  observed  it  also  among  the  Yakut ;
-and  Pilsudski  saw  many  cases  among  the  Gilyak  and  some  neigh-
-bouring Tungusic  tribes.  The  writer  last  mentioned  says  that
+and  Pilsudski  saw  many  cases  among  the  Gilyak  and  some  neighbouring Tungusic  tribes.  The  writer  last  mentioned  says  that
 the  Gilyak  think  that  leprosy  is  due  to  the  eating  of  one  species
 of  salmon  afflicted  with  a  certain  disease  which  is  not  easily
 detected  by  the  fishermen.  Many  hygienic  precautions  are  taken
@@ -16832,8 +15340,7 @@ name.  The  shamans,  even,  are  unwilling  to  undertake  to  treat
 the  sufferers  ;  but  Pilsudski  nevertheless  rej^orts  two  cases  of
 lepers  being  cured  by  shamans."^  With  regard  to  this  malady
 being  caused  by  the  eating  of  diseased  fish,  it  is  noted  by
-Professor  Talko-Hryncewicz,  who  spent  sixteen  years  in  Troicko-
-sawsk,  that  the  Mongols  who  live  on  fish  are  more  liable  to  leprosy
+Professor  Talko-Hryncewicz,  who  spent  sixteen  years  in  Troickosawsk,  that  the  Mongols  who  live  on  fish  are  more  liable  to  leprosy
 than  those  who  live  on  meat.^
 
 Many  writers  have  noticed  the  extreme  liability  of  primitive
@@ -16873,8 +15380,7 @@ especially  Jochelson.
 
 Cases  of  hysteria  which  are  connected  with  the  religious  life  of
 the  natives  and  are  considered  by  them  as  forms  of  '  inspiration '
-are  dealt  with  in  the  chapters  of  this  book  which  treat  of  sha-
-manism. Here  we  shall  only  take  account  of  those  forms  which
+are  dealt  with  in  the  chapters  of  this  book  which  treat  of  shamanism. Here  we  shall  only  take  account  of  those  forms  which
 the  natives  themselves  recognize  as  symptomatic  of  disease.
 From  the  accounts  of  such  cases  given  by  various  travellers  we
 shall  quote  here  some  of  the  most  characteristic.
@@ -16887,8 +15393,7 @@ half  an  hour,  I  rose  and  w^ent  to  see  what  was  the  matter.  On
 entering  the  yurta  from  w^hich  the  cries  proceeded,  I  found
 a  Tungus  man  sitting  beside  the  sleejjing-place  of  his  wife  and
 holding  her  wrist.  Her  hair  was  all  dishevelled  so  as  to  cover  her
-face  completely,  she  was  nodding  her  head  violently  in  all  direc-
-tions, and  crying  and  howling  like  a  dog.  I  could  not  see  her  face,
+face  completely,  she  was  nodding  her  head  violently  in  all  directions, and  crying  and  howling  like  a  dog.  I  could  not  see  her  face,
 but  her  husband's  expression  showed  that  he  was  quite  accustomed
 to  this  sort  of  thing.  He  told  me  that  these  attacks  were  of
 frequent  occurrence,  and  came  on  by  day  or  by  night.  I  remained
@@ -16916,8 +15421,7 @@ quiet,  and  begins  to  speak  quite  normally.'
 
 In  a  Middle  Yiluy  village  Maak  knew  many  Yakut  women
 I  i  suffering  from  a  very  common  disease  which  shows  itself  in  the
-patient's  imitating  all  the  gestures  and  words  of  bystanders,  what-
-ever their  meaning,  which  was  sometimes  quite  obscene.^
+patient's  imitating  all  the  gestures  and  words  of  bystanders,  whatever their  meaning,  which  was  sometimes  quite  obscene.^
 
 During  the  early  days  of  his  travels  in  the  Yakut  province,
 Jochelson-  was  disagreeably  struck  by  the  fact  that,  when  he  was
@@ -16963,8 +15467,7 @@ of  a  Yakut  with  a  young  man — a  Eussian — who  had  been  sent  to
 
 'ARCTIC   HYSTERIA'  311
 
-the  Kolyma  district  as  a  criminal.  The  hostess,  -who  in  aj^pear-
-ance  was  a  strong,  red-choeketl  woman,  took  a  fancy  to  the  young
+the  Kolyma  district  as  a  criminal.  The  hostess,  -who  in  aj^pearance  was  a  strong,  red-choeketl  woman,  took  a  fancy  to  the  young
 man  ;  and  when  he  left  for  the  place  of  residence  which  the
 authorities  had  assigned  to  him,  the  young  woman  had  a
 hysterical  fit,  during  which  she  sang  an  improvisation  tliat
@@ -17044,16 +15547,14 @@ While  running  after  the  Cossack,  the  old  woman  kept  repeating
 weakly,  '  Enough,  enough  ! '  but  was  unable  to  stop  of  her  own
 will.2
 
-Cases  occur  in  which  the  patient,  after  having  followed  a  com-
-mand, realizes  that  she  is  being  made  fun  of,  and  attacks  her
+Cases  occur  in  which  the  patient,  after  having  followed  a  command, realizes  that  she  is  being  made  fun  of,  and  attacks  her
 tormentor.
 
 In  the  Yakut  village  Eodshevo  (about  forty-five  miles  to  the
 north  of  Verkhne — Kolymsk)  near  Jochelson 's  yurta  some  men
 and  the  hostess,  a  woman  of  forty-five,  were  standing.  She
 suffered  much  from  hysteria.  Suddenly  a  young  Yakut  ran
-towards  the  open  field  and  pretended  to  be  putting  snow  under-
-neath his  dress.  The  Yakut  woman  did  the  same,  but  when  she
+towards  the  open  field  and  pretended  to  be  putting  snow  underneath his  dress.  The  Yakut  woman  did  the  same,  but  when  she
 felt  the  cold  of  the  melting  snow  she  ran  to  the  house,  took
 a  knife,  and  went  in  search  of  the  young  man,  who  had  hidden
 himself.''
@@ -17064,8 +15565,7 @@ himself.''
 'ARCTIC   HYSTERIA'  313
 
 Piiklonski  desciihes  some  instances  of  this  mimicry  mania  in
-the  Yakutsk  tenilory.  One  was  the  case  of  a  barber  in  Ver-
-khoyansk, and  another  occurred  on  an  Amur  steamer,  where  all
+the  Yakutsk  tenilory.  One  was  the  case  of  a  barber  in  Verkhoyansk, and  another  occurred  on  an  Amur  steamer,  where  all
 the  people  on  board  were  amusing  themselves  at  the  expense  of
 a  vicraJc  (a  mau  suftering  from  amitrakJi).  They  pretended  to  be
 throwing  things  overboard  into  the  water,  and  the  mcrak  divested
@@ -17094,14 +15594,12 @@ way,  and  would  wound  or  kill  the  object  of  their  terror  if  not
 prevented  by  force  and  the  weapon  taken  from  them  ;  and  if
 interrupted  will  beat  themselves  about  the  hands  and  feet,  scream
 out,  roll  upon  the  ground  and  rave.  The  Samoyed  and  the
-Ostyak  have  an  infallible  remedy  to  bring  such  persons  to  them-
-selves ;  which  is,  to  set  fire  to  a  reindeer-skin,  or  a  sack  of
+Ostyak  have  an  infallible  remedy  to  bring  such  persons  to  themselves ;  which  is,  to  set  fire  to  a  reindeer-skin,  or  a  sack  of
 reindeer  hair,  and  let  it  smoke  under  the  patient's  nose  ;  this
 occasions  a  faintness  and  a  quiet  slumber,  often  for  the  space  of
 twenty-four  hours.'  ^
 
-Pallas  mentions  several  other  cases  of  Samoyed  thus  'panic-
-struck  ',  which  lie  heard  of  in  Siberia  from  a  certain  Mr.  Suryeff.
+Pallas  mentions  several  other  cases  of  Samoyed  thus  'panicstruck  ',  which  lie  heard  of  in  Siberia  from  a  certain  Mr.  Suryeff.
 In  1722  this  traveller  met  a  young  Samoyed  shaman,  who  when
 he  saw  the  stranger  ajiproaching,  imagined  that  he  was  going  to  be
 
@@ -17167,8 +15665,7 @@ Ibid.  "  Op.  cit."  p.  82.
 and  raving.  The  boatswain  and  Billy  joined  me,  and  as  fast  as  we
 could  struggle  through  three  feet  of  snow,  with  drifts  often  to  the
 waist,  we  gave  pursuit.  At  length  I  reached  her,  and  to  my
-astonishment  discovered  it  was  Tungwe.^  She  struggled  desper-
-ately, and  it  required  the  combined  strength  of  the  three  of  us
+astonishment  discovered  it  was  Tungwe.^  She  struggled  desperately, and  it  required  the  combined  strength  of  the  three  of  us
 to  get  her  back  to  the  shack,  where  she  was  found  to  be  in  bad
 shape— one  hand  was  frozen  slightly,  and  part  of  one  breast.
 After  half  an  hour  of  quiet  she  became  rational  again,  but  the
@@ -17190,8 +15687,7 @@ getting  her  into  the  igloo,  she  grew  as  weak  as  a  kitten,  and  it
 was  several  hours  before  she  became  quite  herself.'"^  Tungwe  had
 never  suffered  from  prohlolio  before  the  two  attacks  just  described.
 
-From  these  and  other  less  detailed  accounts  it  seems  very  pro-
-bable that  under  the  name  of  'arctic  hysteria'  various  nervous
+From  these  and  other  less  detailed  accounts  it  seems  very  probable that  under  the  name  of  'arctic  hysteria'  various  nervous
 diseases  are  understood.  Thus  Priklonski,  Sieroszewski,  and
 Jochelson  try  to  classify  them,  and  first  of  all  distinguish
 two  chief  types  of  nervous  diseases,  namely  meneriJc  (miiniirik)
@@ -17218,8 +15714,7 @@ means  '  complaint ' ;   and  Jochelson  says  that  the  Yukaghir  word
 316  PATHOLOGY
 
 irlcnnii  derives  from  irlcei,  '  to  shudder  '.  As  the  linguistic  evidence
-shows,  the  first  symi)tom  of  tliis  disease  is  the  great  impression-
-ableness  of  the  patient,  his  feeling  of  fright  and  timidity.  Besides
+shows,  the  first  symi)tom  of  tliis  disease  is  the  great  impressionableness  of  the  patient,  his  feeling  of  fright  and  timidity.  Besides
 this  susceptibility  to  fright,  in  which  the  patient  shouts  the  most
 obscene  words  ^  or  rushes  at  the  cause  of  his  terror,'-  there  is  another
 symptom  of  this  disease,  viz.  an  inclination  to  repeat  all  visual  and
@@ -17364,8 +15859,7 @@ distribution  of  nervous  diseases  in  Siberia.
 recently  among  the  Koiyak  (p.  760).  Boas  says  that  among  the  Central
 Eskimo  it  is  considered  lawful  for  a  man  to  kill  his  aged  parents  [The
 Central  Eskimo,  p.  61-">).  Bogoras  says  that  'voluntary  death'  occurs
-also  among  the  Maritime  Chukchee  and  the  Eskimo,  but  not  so  fre-
-quently (op.  cit.,  p.  367).
+also  among  the  Maritime  Chukchee  and  the  Eskimo,  but  not  so  frequently (op.  cit.,  p.  367).
 
 2  Op.  cit.,  p.  564.  ^  Ibid.  "  Ibid.  =  Op.  cit.,  p.  563.
 
@@ -17415,8 +15909,7 @@ We  come,  then,  to  the  conclusion  that  the  whole  of  Northern
 and  part  of  Southern  Siberia  is  a  region  where  the  people  suffer
 from  nervous  diseases  more  than  in  any  other  of  the  known
 regions  of  the  world.  Thus  only  in  this  region  is  such  an
-institution  as  that  of  '  voluntary  death '  looked  upon  as  praise-
-worthy and  there  only  do  such  hereditarily  hysterical  individuals^
+institution  as  that  of  '  voluntary  death '  looked  upon  as  praiseworthy and  there  only  do  such  hereditarily  hysterical  individuals^
 as  the  best  shamans  certainly  are  enjoy  the  highest  consideration.
 But  neither  to  the  institution  of  '  voluntary  death '  nor  to  the
 hysterical  fits  of  the  shamans  are  we  justified  in  applying  the
@@ -17471,8 +15964,7 @@ and  sounds.  This  is  always  considered  by  the  natives  as
 a  disease,  and  a  shaman  who  should  be  attacked  by  it  would  have
 to  give  up  his  profession  just  as  he  has  to  do  if  he  contracts
 syphilis  or  leprosy.  This  peculiar  form  of  the  malady  probably
-suggested  to  travellers  the  name  of  'arctic  hysteria',  and  con-
-vinced them  that  all  hysteria  in  the  Arctic  regions  differs  from
+suggested  to  travellers  the  name  of  'arctic  hysteria',  and  convinced them  that  all  hysteria  in  the  Arctic  regions  differs  from
 that  prevalent  in  Europe  and  is,  in  fact,  peculiarly  '  arctic '.
 
 The  use  of  the  term  *  arctic '  seems  appropriate  enough  at  first
@@ -17511,8 +16003,7 @@ woman,  can  induce  the  condition  of  which  I  speak  accidentally  and
 without  exercising  any  effort  of  will.  This  should  be  borne  in
 mind,  for  though  Udali  resembles  hypnotic  suggestion  in  many
 respects,  it  differs  from  it  in  the  important  respect  that  it  in  no
-way  depends  upon  an  original  voluntary  surrender  of  the  will-
-power.'-
+way  depends  upon  an  original  voluntary  surrender  of  the  willpower.'-
 
 Clifford  had  himself  in  1887-8  a  cook  who  suffered  from  this
 affection.  He  —  as  were  some  of  the  Siberian  patients  —  was
@@ -17544,13 +16035,10 @@ exercise  over  themselves.'''^
 
 One  old  man  begged  Clifford  to  forbid  people  to  take  advantage
 of  his  illness.  All  cases  of  Idtah  that  Clifford  observed  were  one
-like  another,  differing  only  in  degree.  Startling  a  person  sus-
-pected of  being  affected  with  the  malady  was  always  the  test.
-Some  of  the  cases  cited  are  :  Once  the  same  boy  who  first  dis-
-covered Sat's  weakness  took  advantage  of  the  fact  that  there  was
+like  another,  differing  only  in  degree.  Startling  a  person  suspected of  being  affected  with  the  malady  was  always  the  test.
+Some  of  the  cases  cited  are  :  Once  the  same  boy  who  first  discovered Sat's  weakness  took  advantage  of  the  fact  that  there  was
 nobody  whom  he  feared  in  the  house,  and  finding  the  cook  quietly
-chewing  betel  with  a  friend,  who  was  also  hVaJi,  the  boy  un-
-expectedly made  a  noise  with  a  rattan.  Each  of  the  Idtah  gave
+chewing  betel  with  a  friend,  who  was  also  hVaJi,  the  boy  unexpectedly made  a  noise  with  a  rattan.  Each  of  the  Idtah  gave
 a  sharp  cry  and  a  jump,  'and  since  there  was  nothing  to  distract
 their  attention  from  one  another,  they  fell  to  imitating  each  the
 other's  gestures.  For  nearly  half  an  hour,  so  far  as  I  could  judge
@@ -17571,23 +16059,19 @@ and  traditions  are  concerned  with  it.  The  following  account  of
 Clifford's  recalls  very  vividly  the  pictures  of  iimuralxh  as  described
 
 
-Op.  cit.,  p.  191.  2  Op.  cit.,p.  192.
-
 Op.  cit.,  pp.  103-4.  ■•  Op.  cit.,  p.  194.
 
 
 'ARCTIC   HVSTERIA'  823
 
 by  Joclielson.  'I  have  myself  seen',  says  Clifford,  'a  woman,
-stiff-jointod,  and  well  stricken  in  years,  make  violent  and  un-
-gainly efforts  to  imitate  the  motion  of  a  bicycle,  just  as  I  once
+stiff-jointod,  and  well  stricken  in  years,  make  violent  and  ungainly efforts  to  imitate  the  motion  of  a  bicycle,  just  as  I  once
 saw  an  old  hag  strip  off  her  last  scanty  garment  because  a  chance
 passer-by,  who  knew  her  infirmity,  made  a  gesture  as  though  he
 was  about  to  undress  himself.'  ^
 
 Clifford  saw  so  many  latah  people  that  he  was  able  to  observe
-certain  conditions  in  which  this  ailment  shows  itself  most  vio-
-lently. Thus,  as  is  the  case  among  the  Yakut,  lafah  is  found
+certain  conditions  in  which  this  ailment  shows  itself  most  violently. Thus,  as  is  the  case  among  the  Yakut,  lafah  is  found
 among  the  well-fed  and  gently  nurtured,  as  well  as  among  the
 poor  and  indigent.  It  is  seen  more  often  among  women  than
 among  men,  and  is  invariably  confined  to  adults.  Clifford  even
@@ -17600,8 +16084,7 @@ a  'h'lfah  person  will  mimic  the  swaying  motion  of  wind-shaken
 boughs  just  as  readily  as  the  actions  of  a  human  being — will  follow
 their  movements  in  preference  to  those  of  a  man,  indeed,  if  the
 former  chance  to  attract  his  attention  before  the  latter '?  There
-is  also  no  question  but  that  the  repeating  of  mechanical  sug-
-gestions are  not  voluntary  on  the  part  of  the  VdaJi.  Clifford  says
+is  also  no  question  but  that  the  repeating  of  mechanical  suggestions are  not  voluntary  on  the  part  of  the  VdaJi.  Clifford  says
 that  Sat  certainly  did  not  voluntarily  put  his  hand  into  the  flame,
 and  that  the  old  woman,  in  a  country  where  women  are  as  a  rule
 very  modest  and  shy,  would  certainly  not  of  her  own  volition
@@ -17643,8 +16126,7 @@ of  the  same  Mongoloid  stock  from  the  other  side  of  the  Ural.  It
 would  be  necessary  to  have  more  definite  information  as  to
 whether  the  people  referred  to  as  Russians  are  European  Russians
 of  Aryan  stock,  or  Asiatic  Russians  of  Mongolic  stock,  to  decide
-this  point.  The  thing  which  it  is  interesting  to  note  in  this  con-
-nexion is  that  (imiiral'h  was  not  observed  among  people  whose
+this  point.  The  thing  which  it  is  interesting  to  note  in  this  connexion is  that  (imiiral'h  was  not  observed  among  people  whose
 conditions  of  life  Avould  naturally  lead  to  the  development  of
 nervous  diseases,  i.  e.  political  exiles  in  Siberia,  who  are  decidedly
 of  Aryan  stock  ;  and  if  further  researches  show  that  anviralli-ldtah
@@ -17654,8 +16136,7 @@ disease  will  form  a  curious  index  of  the  psycho-physiological
 nature  of  Mongols. -
 
 Before  closing  this  chapter,  and  while  disclaiming  any  intention
-of  providing  a  medical  definition  of  (imioxil'li-lOtah,  we  must,  how-
-ever, express  our  doubts  as  to  whether  this  disease  can  rightly  be
+of  providing  a  medical  definition  of  (imioxil'li-lOtah,  we  must,  however, express  our  doubts  as  to  whether  this  disease  can  rightly  be
 termed  a  type  of  hysteria.^  The  psychological  condition  of  a
 patient  suffering  from  (imftralJt-JdfaJt  stands  in  a  relation  to  that  of
 a  hysterical  patient  similar  to  that  in  which  the  psychological
@@ -17678,26 +16159,22 @@ amnral-h,  the  latter  of  which  he  calls  'Russian  myriachit',  among
 choreiform  affections.  He  considers  them  not  to  be  hysteria  as,  for
 instance,  chorea  major  is.  He  says,  however,  that  in  choreiform  affections
 '  the  action  may  be  controlled  or  at  least  modified  to  some  extent  by  an
-effort  of  the  will'— a  conclusion  which  can  hardly  be  drawn  from  con-
-sideration of  the  cases  described  above.
+effort  of  the  will'— a  conclusion  which  can  hardly  be  drawn  from  consideration of  the  cases  described  above.
 
 
 'ARCTIC   HYSTERIA'  825
 
 towards  the  cause  of  the  attack),  he  is  unable  at  the  time  to  prevent
 a  suggestion  from  acting  upon  his  mind  as  a  command.  In  this
-respect  he  resembles  a  subject  of  hypnotic  suggestion,  the  dif-
-ference being  that  the  amiiraJch-hitah  acts  while  awake  and  that  he
+respect  he  resembles  a  subject  of  hypnotic  suggestion,  the  difference being  that  the  amiiraJch-hitah  acts  while  awake  and  that  he
 passes  from  a  normal  to  an  abnormal  state  quite  rapidly,  while  in
 hypnotic  suggestion  a  more  or  less  lengthy  period  of  time  is
 necessary  to  subordinate  the  medium  to  the  will  of  the  person
 suggesting.
 
-Like  a  choreatic  and  unlike  a  hysterical  patient,  an  iimiirakh-
-iCitah  may  injure  himself  seriously  during  an  attack.  Although
+Like  a  choreatic  and  unlike  a  hysterical  patient,  an  iimiirakhiCitah  may  injure  himself  seriously  during  an  attack.  Although
 we  find  that  an  iiiniiraJch  in  Siberia  is  often  a  hysterical  person  at
-the  same  time,  and  that  an  iimUraJch  attack  is  accompanied,  pre-
-ceded, or  followed  by  a  hysterical  one.  yet  we  can  no  more  call
+the  same  time,  and  that  an  iimUraJch  attack  is  accompanied,  preceded, or  followed  by  a  hysterical  one.  yet  we  can  no  more  call
 iimilralch  hysteria  than  we  can  call  St.  Vitus's  dance  by  that  name.
 
 The  small  regard  in  which  people  suffering  from  umiiraJih  are  held
@@ -17721,8 +16198,7 @@ restrictions  and  disabilities.
 BIOGRAPHICAL  SKETCHES
 
 It  seems  to  me  that,  especially  in  the  matter  of  anthropological
-investigation,  where  so  much  depends  on  the  education,  impar-
-tiality, and  good  faith  of  the  observer,  it  is  important  to  take
+investigation,  where  so  much  depends  on  the  education,  impartiality, and  good  faith  of  the  observer,  it  is  important  to  take
 account  of  the  observer's  personality  when  dealing  with  his  work.
 This  is  eminently  the  case  in  the  present  work,  whei*e  the  names
 of  most  of  the  authorities  quoted  are  quite  unknown  to  British
@@ -17751,8 +16227,7 @@ of  the  Imperial  Russian  Geographical  Society,  the  Petersburg
 Academy  of  Science,  and  the  American  Museum  of  Natural
 History  of  New  York.
 
-DoRDJi  Banzaroff  (1822-55),  a  Buryat  of  the  Selenginsk  dis-
-trict, was  educated  in  a  Mongol-Russian  school  and  a  Russian
+DoRDJi  Banzaroff  (1822-55),  a  Buryat  of  the  Selenginsk  district, was  educated  in  a  Mongol-Russian  school  and  a  Russian
 university.  He  started  life  with  high  hopes  and  ambitions,  and
 a  determination  to  investigate  fully  and  scientifically  the  history
 of   the    Mongols.      His   important    book.    The    Blade    Faith,     or
@@ -17767,13 +16242,11 @@ not  suit  well  with  his  inclinations,  he  soon  begun  to  lose  his
 interest  in  such  matters,  fell  into  dissolute  habits,  and  died
 a  drunkard.
 
-Other  educated  Buryat  who  have  made  contributions  to  ethno-
-logical literature  are  M.  N.  Khangaloff  and  S.  A.  Pirojkoff.
+Other  educated  Buryat  who  have  made  contributions  to  ethnological literature  are  M.  N.  Khangaloff  and  S.  A.  Pirojkoff.
 
 Waldemar  I.  JocHELSON  began  his  work  as  investigator  in
 1886,  when  he  was  a  political  exile  in  the  Yakutsk  territory.
-From  1894-7  he  took  part  in  the  Yakutsk  expedition  orga-
-nized by  the  East  Siberian  Section  of  the  Imperial  Eussian  Geo-
+From  1894-7  he  took  part  in  the  Yakutsk  expedition  organized by  the  East  Siberian  Section  of  the  Imperial  Eussian  Geo-
 graphical Society.  From  1900-2  he  took  part  in  the  Jesup
 North  Pacific  Expedition,  the  results  of  which  embody  such
 a  splendid  contribution  to  science.  In  the  years  1908-12  he  was
@@ -17782,8 +16255,7 @@ by  the  Imperial  Russian  Geographical  Society)  to  Kamchatka
 and  the  Aleutian  Islands.  In  the  last  two  expeditions,  his  wife,
 Dr.  Dina  Jochelson  Brodsky,  collaborated  with  him  in  his  work.
 The  languages  of  the  Koryak,  Yukaghir,  Aleut,  and  Yakut  are  all
-familiar  to  Mr.  Jochelson  ;  so  that  besides  his  more  purely  anthro-
-pological work  he  carries  on  important  linguistic  researches.
+familiar  to  Mr.  Jochelson  ;  so  that  besides  his  more  purely  anthropological work  he  carries  on  important  linguistic  researches.
 
 Dmitri  Klementz,  who  spent  half  his  life  in  Siberia  as
 a  political  exile,  and  has  done  important  work  in  geography,
@@ -17791,8 +16263,7 @@ geology,  and  anthropology  there,  towards  the  end  of  his  life  returned
 to  Russia  and  was  made  director  of  the  Ethnographical  Department
 of  the  Alexander  III  Museum  in  Petersburg.  The  wonderfully
 rich  Minusinsk  Museum  is  greatly  indebted  to  him,  as  well
-as  the  Museum  of  Yeniseisk.  In  1891-1905  he  made  an  expedi-
-tion, principally  occupied  with  archaeology,  into  the  heart  of
+as  the  Museum  of  Yeniseisk.  In  1891-1905  he  made  an  expedition, principally  occupied  with  archaeology,  into  the  heart  of
 Mongoha.  His  death  was  announced  in  February  of  the  present
 year,  to  the  great  sorrow  of  all  students  of  those  branches  of
 knowledge  with  which  he  occupied  himself.  English  readers
@@ -17835,14 +16306,12 @@ Bronislaw  Pilsudski,  a  Pole,  spent  nineteen  years  as  a  political
 exile  in  Siberia.  He  is  familiar  with  the  Ainu,  Gilyak,  Orok,  and
 Orochi ;  and  his  observations  on  the  folk-lore  of  these  peoples
 have  been  published  in  French.  German,  and  English,  as  well  as
-in  Polish  and  Russian.  He  is  now  the  secretary  of  the  Ethno-
-graphical Department  of  the  Cracow  Academy  of  Science.
+in  Polish  and  Russian.  He  is  now  the  secretary  of  the  Ethnographical Department  of  the  Cracow  Academy  of  Science.
 
 Waclaw  Sieroszew^ski.  also  a  Pole,  spent  fifteen  years  (1879-94)
 as  a  political  exile  in  Siberia.  For  twelve  years  he  lived  among
 the  Yakut  and  acquired  a  great  familiarity  with  their  language
-and  customs.  He  studied  also  to  some  extent  the  Tungus,  Yuka-
-ghir.  and  Chukchee.  In  1903  he  undertook  a  journey  to  Sak-
+and  customs.  He  studied  also  to  some  extent  the  Tungus,  Yukaghir.  and  Chukchee.  In  1903  he  undertook  a  journey  to  Sak-
 halin.
 
 Dr.  Leo  Sternberg,  director  of  the  Anthropological  Department
@@ -17864,8 +16333,7 @@ of  the  Jesup  North  Pacilic  Expedition.
 
 Basil  Wierbicki,  arch-priest  of  the  Russian  Orthodox  Church,
 during  his  thirty-seven  years  of  missionary  work  rode  36.000  versts
-on  horseback.  He  died  in  1890,  leaving  several  important  ethno-
-graphical and  linguistic  works  on  the  Altaians.  He  knew  several
+on  horseback.  He  died  in  1890,  leaving  several  important  ethnographical and  linguistic  works  on  the  Altaians.  He  knew  several
 languages  of  the  Turkic  family.
 
 NiKHOLAi  M.  Yadkintzeff  (1842-94),  a  Russian  born  in  Siberia,
@@ -17883,4534 +16351,3 @@ some  of  our  chief  authorities.  The  bibliography  will  give  some
 idea  of  the  vast  amount  of  work  expended  on  inquiries  into  the
 native  life  of  Siberia — and  Siberia  is  still  comparatively  unknown
 from  that  point  of  view.
-
-
-BIBLIOGRAPHY
-
-
-T.    WORKS    IX   RUSSIAN
-
-Adelung,  F.     Review  of  travel  through  Russia.     Petersburg,  1810.  —
-
-Aik.voHio,  Ouoapt.iiio  iiyTeiuecTHeHiniKoin.  no  Pocciu.
-Adrianofif,  A.  V.     Travels  to  the  Altai  and  beyond  the  Sayan  Moun-
-tains in  1881.      Petersburg,  1888.  —  AopidHOTo,  A.  B.     IlyxoiuecTiiio
-
-Ha  A.iiait  ii  3a  Caiiiii.i.  e<iHepiiieHHoe  vh  1881  rojy.
-Agapitoff,  N.    Contribution  to  the  study  of  the  beliefs  of  the  aborigines
-
-of  Siberia.      E.  S.  S.  I.  R.  G.  S.,  1884.  —  AiHimmoa-o,  H.     Onbin.  up.
-
-XiH  nayioHia  BtpoBaHiii  imopo.T.ueB'b  Cnonpn.
-Agapitoff  and  Khangaloff.     Materials  for  the  study  of  Shamanism  in
-
-Siberia.    E.  S.  S.  I.  R.  G.  S.    Irkutsk,  1883.  —  Akoiidiiooo  u  Xo.Hia.iwn,.
-
-MaTopia.TLi  no  nsy'ieiiiio  uiajiaHCTBa  Bt  Ciiujipii.
-Album  of  a  traveller  through  Siberia  and  Asiatic  Russia.     Tomsk,  1911.
-
-—  A.tejGo.m'l  .lopovKimKa  no  Ciiunpu  ji  AaiflTCKon  Poccin.
-Anuchin,  D.  N".     Contributions  to  the  history  of  relations  with  Siberia
-
-until  Yermak.     Moscow,  1890. —  AnyHum,  ^.  H.    Kt  HcropiH  03Ha-
-
-KOM.ieniH  CTL  Cuoiipbio  ;io  EpiiaKa.
-
-Among  the  ice  and  in  the  darkness  of  the  polar  night.     1897.  —
-
-Cpe,in  .ihj.oBT.  u  BO  Mpant  uciapHott  noin.
-
-Anuchin,  D.     Sledges  and  boats  as  accessories  at  the  burial  ceremony.
-
-Moscow,  1890.  —  Aii;jHiiH-o.  ,J.    Canii,  .ia,ir.ji  n  Konn  (?)  Kaici.  npiina;;-
-
-.ie-/KH0CTii  uoxopoHHaro  o6pn,ia.
-ArgentoflF,  A.      Notes  of  a  travelling  missionary  in  the  Polar  region.
-
-E.  S.  S.  I.  R.  G.  S.     Irkutsk,  1857.  —  Apieumoe-o.  A.     ITyTeBbiH  SaMtricii
-
-cBiimcHHUKa  MnccioHcpa  bTj  npuno.inpHoii  MicTHOcTii.
-
-The  Northern  Land.     I.  R.  G.  S.     1861.  —  CiBepnaH  SesuH.
-
-A  descriijtion  of  the  St.  Nicholas    Chaun  Parish.      S.  S.  I.  R.  G.  S.
-
-1857.  —  Onucauic  HiiKciat-BCKaro  ^aYrR•I;aru  IIpuxo;i,a.
-
-Aristoff,  N.  A.  Notes  on  the  Ethnic  Composition  of  the  Turkic  Tribes.
-L.  A.  T.  Moscow,  1897.  —  AiiwmoHo,  H.  A.  SairliTKU  oot,  aiini'iec-
-K<j>rL  cocraBi  TiopKCKHX-L  luejieHt.
-
-BanzarofiF,  D.  The  Black  Faith,  or  Shamanism  among  the  Mongols.
-Petersburg,  1891.  —  JJ'iHjaj/oGo,  ,J.  Hepiiaji  BLpa  ii.iii  IlIaMaHCTBO  y
-!MuHro.iOB'i>.
-
-BartenefF.  Burial  customs  of  the  Ostyak  of  Obdorsk.  L.  A.  T.  Peters-
-burg, 1905.  —  T,i  1 1 1)11  ('Heal..     Ildiiieua-iuiMO  06BiHaii  Ou,T,opcKiiX7.  Octi.-
-
-51K0BT..
-
-Bartenyeff,  V.     In  Far  North-West  Siberia.  —  Rqi/m-nca-,.  B.     Ha  \i\m\-
-
-ii'Mi,  (•tuf'posaiia.ii.  Cii'iapii.
-Bielankin  and  Zograff.     The  nations  of  Russia.     1892.  —  Eii,.t/iiikiihi.
-
-u  SoipiK/ro.     Ilnpipji,!  Poociir.
-
-
-332  BIBLIOGRAPHY
-
-Bielayevp'ski.  A  jouihey  to  the  Glacial  Sea.  Moscow,  1883. —  Bui.inea-
-ciciri.     ]Ii»t.3;iiui  111.  .ltM,omnuMy  Mupio.
-
-Bielilow^ski,  K.  A.  Women  among  the  aborigines  of  Siberia.  Peters-
-burg, 1894.        JJih.rii.KMCK/'li,  K.  A.     /Kfiiiiuina  uii(ii)o;i,u,oh'i>  Ciiuiipii.
-
-Bogayewski,  P.  M.  A  sketch  of  the  mode  of  life  of  the  Votyak  of
-Sarapul.     Moscow,  1888.  —  Lot/icdiiriti,  II.  M.    O'lcpK'i,  Gura  Cai»aiiy.ii.-
-
-CKII.VIj  l]t  lTilIC0l3  I..
-
-Bogdanowich,  S.  I.     Sketches  of  the  Chukchee  Peninsula.    Petersburg,
-
-1901.  —  LoKkiHoawro,  C.  II.     O'lepKu  MyKOxcKaro  Ilo.iyocTpoBa.
-Bogdanowski,  A.  I.     The  Siberian  community  and  its  role  from  the
-
-politico-economical    aspect.     Tobolsk,    1898.  —  l!o/(ktno(in:iti,   A.   II.
-
-Ciiuiiix-icaii  o6imnia  n  esi  po.ii.  ul  iiu.iirriiKo-DicoiioMii'iocK'OM'ij  oTiiouieniii.
-Bogoras,  W.     Brief  report  on  the  investigation  of  the  Chukchee  of  the
-
-Kolyma  district.     E.  S.  S.  I.  R.  G.  S.      Irkutsk,  1899.  —  Low^mjo,  B.
-
-KpaTKift  oT'ioTL  no  n3c.i'Iv;oBaiiiio  Mykotl  Ko.iuiicKaro  OKi)yra.
-Materials  for  the  study  of  the  Chukchee  Language  and  Folk-Lore,
-
-collected  in  the  Kolyma  district.     I.  R.  A.  S.      Petersburg,  1900.  —
-
-MaTopia.iiJ  no  nayieuiiu  4yKoTCKaro  iini.uca  n  iIin.ii.hVKipa,  cuupiiHiiLie  m,
-
-Ko.iUiMCKOM'L  OKpyrt.
-Sketch  of  the  material  life  of  the  Reindeer  Chukchee  based  on  the
-
-Gondatti  Collection  deposited  in  the  Ethnogr.  Museum  of  the  Im.
-
-Russ.  Ac.  of  Sc.     Petersburg,  1901.  —    O'lepKL.  jiaTepia.ii.naro  uura
-
-o.icHHLixi.  MyK-iei"!,  cocTaB.iennbiit  iia  ocHOBaniii  Ko.i.ieKU,in  H.  Jl.  You-
-
-Bogorodski.  A  medico-topographical  description  of  the  Gijiginsk  dis-
-trict. Petersburg,  1853.  —  Lu/opo'hhiii.  Mo,';iii;n-T(iii(iri);i(|in'joi-I»uo
-(uuu-aine  rniKuriiuoKaro  Onpyra.
-
-Buryat  traditions  recorded  by  various  collectors.  E.S.S.  l.R.G.S.  Irkutsk,
-1890.  —  CKaaaiuH  Bypuri),  aaiiiieaimi.iH  paaiiiiuni  cooiipaTciiiMii.
-
-Czekanowski,  A.  L.  Diary  of  the  expedition  along  the  rivers  Lower
-Tunguska,  Olenek,  and  Lena  in  1873-5.  I.  R.  G.  S.  Petersburg,
-1869.  —  VcKUHoccidti,  A.  .1.  ^noBiniKt  3Kcne;;ni;in  no  pbKa.Mi.  HiiiKiirfi
-Tyurycixt,  O-ioiieicy  u  JleuL  \ih  1873-5.
-
-Dmitrieff-Mamonoff  and  Golodnikoflf.  Note-book  of  the  Tobolsk
-Government.  Tobolsk,  1884.  —  ,I.Miui/i//>'(jo-jI(i.v<)iiiMro  a  IVioiiinuiiMSo.
-ITaMiiTiiaii  Kinr.KKa  Toufai.eKofi  Fyoepnin.
-
-Dobrotvorski.  Ainu  Russian  Dictionary.  Kazan,  1875.  —  Joripo/i/doi)-
-iiciil .     Aiino-PyccKiil  Cionaph.
-
-Dyachkoff,  G.  T.  The  Country  of  the  Anadyr.  S.  S.  A,  C.  Vladi-
-vostok, 1893.  —  Ah//'t/.o(i-u,  J'.  T.     AHa;ibipcKiii  Ixpaii.
-
-Dyedloff,  V.  L.  Through  Siberia,  1900.  —  Jior).n„i7..  B.  .1.  4ep03i>
-Ciu'iipb.
-
-Falk.  Full  collection  of  scientific  travels  in  Russia.  6  vols.  Petersburg,
-1824.     'Pdjiiu.    Ho.moc  coGpaHie  yieHBix'i.  nvTcuiooTBiii  no  Pocciu.
-
-Gamoff,  I.      Sketches   of  Far   Siberia.      Khomel,  1894.  —  ra.voao,  II.
-
-C>']<iiiai  ^'I,a-iL'i'"i"i  CnGiiim.
-Gedenstrom.     Sketches  of  Siberia.     Petersburg.  ISoO.  —  YcdcHmiHim.Mo.
-
-OipBiBKH  0  CnGnpii.
-
-
-BIBLIOGRAPHY  333
-
-Getchinson.     Kxtinct    monsters.     1901.  —  Frin'oti/roin..    EhiMoi^iiiiii  -ly.io-
-
-lllllllM.
-
-Golovacheff,  r.  M.  Siberia:  its  nature,  people,  and  life.  IMoscow,
-19u2.  --  r<i.i<fui'tr,r„.  II.  M.     Cnoiipi. :  iipiipo;i,a,  .iio,-;u,  iKii:!iir>.
-
-Far-Eastern    Russia.      Tetersburg,    lOO-i.  —  Poccin    iia    ,T,a.ii.HOM-i.
-
-ISiicToich.
-
-Gondatti,  N.  Traces  of  Paganism  among  the  aborigines  of  North-
-western Siberia.  Moscow,  1888.  —  roiKkimniiu  H.  Ciiau  ii;jLi"iecTiia
-y  iniopcinoin.  Cr.Mppo-3aiia;i,iiort  Ciioiipii.
-
-Trip  from   Markova  Village  on   the  Anadyr  River  to  Providence
-
-Bay  on  Bering  Strait.  A.  S.  I.  R.  G.  S.  Khabarovsk,  1898  ~
-Ikili3;iKa  iis-b  CV'.ia  MapK-ona  ua  p.  Ana;i,upl'.  ui,  uyxry  lli)omi;itiiin,
-BepiinroBa  IIpo.iiiBa.
-
-The    bear-cult  among  the   aborigines  of  North-Western   Siberia.
-
-I.  S.  F.  S.  A.  E.  —  C.Tiai'i  ii^Li'tecKiixt  BtpoBaniil  y  MaHijaoRi..
-
-GorokhoflF.  W.  Yurung-Uolan.  A  Yakut  story.  E.  S.  S.  1.  R.  G.  S.
-Irkutsk,  1884-.5.  —  ro^joxoa;,.  II.     K )pioHt-yo.iain..     HKyiCKaa  CKa3Ka.
-
-'  Kinitti.'    E.  S.  S.  I.  R.  G.  S.     1887.  —  '  Kiiiiirrrii.-
-
-The  Pagan  Ideas  of  the  Ostyak.     Tomsk,  1890.  —  Pc.inrio3iii.i5i  ji3i.i-
-
-Mi'll.i'J  ]i033p1lllifl  OcTilKuH'I..
-
-Gruzdneflf,  F.  The  Amur:  nature  and  people  of  the  Amur  country.  —
-rii//3i)Hrir,..  <P.    (Bo.iamn.)  AMypi>:  npnpo;i,a  ii  JIio;i,u  AMypcicaro  Kpaji.
-
-Hagemeister,  I.  A.  A  statistical  survey  of  Siberia.  Petersbui-g,  1854.
-—  r<u<'.Meiic/ii('po,  II.  A.     CTaTiicTinecKoe  06o3p'feHie  Ciiuiipii.
-
-Hekker,  N.  A.  Materials  for  a  description  of  the  physical  character-
-istics of  the  Yakut.  E.  S.  S.  I.  R.  G.  S.  Irkutsk,  1896.  —  Fe/ch-qro.
-H.  A.     K'tj  xapaKTepncTin.ii  i|iii3ii>iecKaro  inria  hkvtobi..
-
-Islavin,  V.  The  Samoyed,  their  home  and  social  life.  Petersburg,
-1847.  —  Ilcianuho,  B.  CaMotabi,  bt>  ,T;oMamHC>ii>  n  o6l^ecTB•M^^ll.^rI.
-I'l.iTy.
-
-Ivanowski,  A.  A.  A  Directory  of  Ethnographical  Essays  and  Notes
-published  in  the  Siberian  newspapers  from  the  beginning.  Moscow,
-1890.  —  IIodiiowKiH,  A.  A.  yKa3aT0.ib  OTHorpa(l)ii'ieciaixi,  craTcil  ii
-3aMtT0K-i>,  noMtmeHHbixi.  mi,  CiiCiipcKiixi.  raseiaxi.  on.  na'ia.ia  iixt.
-HS^ianiii.
-
-The  Mongol-Torgout.     I.  S.  F.  S.  A.  E.      Moscow.  189.3.  —  Monr.MM-
-
-To]irfiyTbi.
-
-Anthropological  constituents  of  the  population  of  Russia.      Moscow,
-
-1904.  —  Oo'b  aiiTpono.ioni'iet'K-o.Mb  cocTaBt  naccieiiiu  Pocciii.
-
-Ivanoveski,  I.  I.  Bibliographical  index  to  books  and  articles  concern-
-ing the  Chukchee,  E.  R.  Moscow,  1891. — IleaHoacni'd.II.II.  Biujiio-
-rpailtn'iecKiil  vKasaTCib  khhit.  n  cxaTcfi  o  Hyi{HaxT>.
-
-Jochelson,  W.  I.  On  the  livers  Yassachna  and  Korkodon.  I.  R.  G.  S.
-Petersburg,  1898.  —  Ioj-ciuhko,  B.  II.  IIo  ptKay-b  JIca'iHort  n  Kop-
-Kiaoiiy.
-
-Sketch  of  hunting  pursuits  and  the  peltry  trade  in  the  Kolyma
-
-country.  Petersburg,  1898.  —  O'lepKT.  3B'bpoirpojibini.TienHOCTn  ii  xop-
-roB.Tii  Mt.xa>m  bi,  Ko.iujK-KOM'b  Onpyrl-..
-
-Materials  for  the  study  of  the  Yukaghir  Language  and  Folk-Lore,
-
-
-334  BIBLIOGRAPHY
-
-collecteil  in    thn    Kolyma  district.      I.  R.  A.S.      Petersburg,  1900.
-
-—  MaTO])iii.ibi  iio  ji:iy'H'iiiio  ]<  )KanipfK;iro  5i;iui;a  ii  <l>o.ii.K."iu}ia,  cnupaii-
-
-iiLic  in.  Jxo.^I.I.Mf•K•o^^>  OKpyri;.
-Wandering  Tribes   of  the   Tundra  between   the    Indighirka    and
-
-Kolyma  Rivers.    L.  AT.    Petersburg,  1900.  —  Bpo^nHie  po,ibi  TyH,";pu
-
-.Mcway  pt.KaMii  IIii;i,iiriipK(ii1  ii  luauMoit.
-Past  and   present  subterranean  dwellings  of  the  tribes  of  North-
-
-Eastcrn  Asia  and  North-Western   America.    Congr.  Amer.    Quebec,
-
-1906  — ^IpeBniii  ii  coiqiCMCHHWJi  iio;i30MHhiii  Hcn.iiima  ii.ie.Mom>  Cbnepo-
-
-EocTO'inoii  Aaiii  n  C'r>B('po-3ana;i,iioil  A.MopiiKii.
-Ethnological  jiroblems  along  the  North  Pacific  coasts.    Petersburg,
-
-19(:8.  —  DTHO.iorii'iocicin   npoCi.ioMLi   na   Ct.ncpiiux'L   Boporaxi>   Tiixaro
-
-OKoana.
-Notes  on  the  phonetic  and  structural  basis  of  the  Aleut  language.
-
-I.  R.  A.  S.  1912.  —  3aMl;TKiT  o  (|ioneTirio(Kiixi.  ii  CTpyKTypHbixt  ocHOBaxt
-
-A,ioyTf'i>arn  n.u.raa.
-
-Jochelscn-Brodskfl,  D.  L.  Contribution  to  the  anthropology  of  the
-women  of  the  North-Eastern  Siberian  tribes.  R.  A.  I.  1907.
-Moscow,  1908.  —  Iu.irjhroHo-]jjiodi/,-(iJi,  /J.  .1.  Kr.  AiiTpono.ioriii  iKen-
-mniri.  ii,ieMein>  Kpaitniirn  cIiRepo-ROCToica  Ciifinpn.
-
-Jytecki.  Sketch  of  the  mode  of  life  of  the  Kalmnk  of  Astrakhan.  —
-JKaniciwin.     O'lepiiii  GbTia  AcTpaxaiicKiixT.  Ka.i.Mbiii'oin..
-
-Katanoff,  N.  F.  A  journey  to  Karagas  in  1890.  I.R.  G.  S.  1891.  —
-KumtiHom.  II.  '!>.     noi.3,T,Ka  icb  Kaparaccajii)  \n,  1890.
-
-Ethnographical  survey  of  the  Turco-Tartar  tribes.     Kasan,  1894.  —
-
-BTHiirpaiJiu'iocKiu  Oo^opi,  TypenKo-TarapcKUXT.  n.ioMem..
-
-Report  on  an  Expedition  from  May  15th  to  Sept.  1st,  1896,  in  the
-
-Minusinsk  district  of  the  Yeniseisk  Government.  Kasan,  1897.  —
-OiMen.  0  not3;tKi')  cocei'tiir.  ci,  15  Masi  no  1  (Vht.  1896  r.  m.  ^Iiiiiycnii-
-cii-ii"!  Oicpyn.,  EHiicortcKofi  ryij.
-
-Kaufman,  A.  A.  Sketches  of  the  peasant  household  in  Siberia.  Tomsk,
-1894.  —  K(i>i(J).Miino.  A.  A.  0'iopia>  K-p<^cTbant'Karo  xc^aiicTBa  bb
-Cin'iiipii.
-
-Peasant  communities  in  Siberia  according  to  local  investigations  in
-
-1886-92.  Petei-sburg,  1897.  —  KpocTBnucKan  ooiuiiiia  bi>  Cnonpii  no
-ArlicTHhiJit  nscitAOBaninMi.  in,  1886-92.
-
-Siberian  migrations  at  the  end  of  the  nineteenth  century.  Peters-
-burg, 1901.  —  CuuiipcKoe  ne})C('C.ionie  iia  iicxn;;b  XIX  Bt.Ka.
-
-Khangaloff,  M.  N".  New  materials  respecting  Shamanism  among  the
-Buryat.  E.  S.  S.  I.  R.  G.  S.  Irkutsk,  1890.  —  XnHM.irvr...  M.  H.  HoBBTe
-]\IaTei)ia.ii.i  o  Ula.MancTBl'.  y  ByjJirn..
-
-Customary  law  among  the  Buryat.    E.  R.    Moscow,  1894.  —  lOpn.iii-
-
-MCfKie  oi'i.i'ian  y  Bypnn..
-
-Cannibal-spirits  among  the  Buryat.     E.  R.    Moscow,  1896.  —  Jyxii-
-
-.^Io;^ntaM  y  BypHn>.
-
-The   marriage  ceremonj'  among  the   Buryat  of  Unginsk.     E.  R.
-
-^loscow,  1898.  —  CBa,^e6Hi.ie  oupJtTw  yurnHCKnx'i.  Bypan..
-Some  data  concerning  the  mode  of  life  of  the  northern  Buryat.
-
-E.  R.      Moscow.  —  HtoKo.iBKo    ^laHnBDCb  ,i.ifr   xapaKTopiioinKn   Ciuia
-
-rt.Bopni.iX'L  BypsiTb.
-Khangaloff   and    Satoplaeff.       Tales    and    beliefs    ot    the   Buryats.
-
-
-BIBLIOGRAPHY  335
-
-E.  S.S.I.  R.G.  S.      Irkutsk,  1889.  —  XnNi't.toei.  ii  CntUDii.r/iein,  Uvjuit-
-
-CKiH   CKa3Ix"lI  11  noBtiphH.
-
-Kharuzin,  A.  N.     The  Kirgis  of  the  Bukcyeff  Orda.    Moscow,  1889.  —
-
-X((/i,i/3UHv.  A.  H.     Kiipriiau  ByKeeBCKoii  up,iu.
-Kharuzin,  N".    The  Noyda  among  the  ancient  and  the  modem  Lapps.
-
-E.  R.      Moscow,   1889.  —  Xtiiiysum,  U.     0   HoilAaxt  y  ;ipeBuiLX'i.  u
-
-coBpeMCHUuxi.  .lonapeii.
-
-Russian  Lapps.     Moscow,  1890.  —  Pyccide  Jlonapn.
-
-A  sketch  of  the  history  of  the  development  of  Finnic  dwellings.
-
-Moscow,  1895.  —  Oneph-fc  iicTopin  pasBiixiH  nai.imna  y  <I>iihhobt..
-History  of  the  development  of  the  dwellings  of  the  Turkic  and
-
-Mongolic  nomads  of  Russia.      Moscow,  1896.  —  IIcTopifl    paaBiitiH
-
-Hcn-nnua  y  Koiesbixt  TiopKCKHXT.  n  Munro.Ti.cKiix'L  eapojxHocreii  Poccin.
-
-Ethnography.     Petersburg,  1901-1905.  —  DTHori)a(lpiH.
-
-Khudyakofif,  I.  A.     Verkhovansk  anthology.     Yakut  tales,  songs,  and
-
-proverbs.    E.  S.  S.  I.  R.  G.'S.    Irkutsk.  Ib91.  —  A>>,7/.vy'ro,  //.  A.     Bep-
-
-XOHHClcirt  COiipHUKT..      JlKyTChiH  CKaSKn.  IltCHU  u  noc.ir»B»u,bi .
-
-Klementz,  D,    The  Ai-chives  of  the  Yeniseisk  Museum.     Tomsk,  1886.
-
-—  Kie.vcHHo,  J.     ApxiiBi.  Einicoeiif'Karo  Mysen.
-
-Types  of  drums  of  the  Minussinsk  natives.    E.  S.  S.  I.  R.  G.  S.    1890.
-
-—  HtcK>:i.Ti,];o  Mopa.suoei.  oyuHOBi.  iliinyonHCKnxTj  UHopo;;neB-i..
-
-Archaeological  diary  of  a  journey  to   Middle  Mongolia  in  1891-
-
-1895.  —  Apxeo.iormecKiit  TlHeBHiiKT.  n(''fe;ijKn  m,  CpejHKpw  MoHro.iiRi
-1891  ro.ia.
-
-Ai-chaeological  collections  of  the  Minusinsk  Museum.  — ^eBHoeni
-
-^luHyciiHCKaro  Myaea.
-Kolin,  A.  Y.    Physiological  and  biological  data  concerning  the  Yakut.
-
-Minusinsk,   1899.  —  Koho.  A.   H.      'Pnaio-ioriiiecKifl  n  6io.ionriecKia
-
-:xaHHUH  0  HKyiaxi..
-Kosharoff,   P.      Artistic-ethnographic    sketches  of    Siberia.      Tomsk,
-
-ISyQ.  —  Kovi'iiKiHo,    II.      XyaoHx'ecTBeHHo  -  aiHorpaiJimecKie     piicymni
-
-Ciiuiipir.
-Kostroff,  N.  A.     Customary  law  of  the  Yakut.     I.  R.  G.S.     Petersburg,
-
-1878.  —  KocMpodo,  II.  A.     ir>pn,inHecKie  ouuMau  Hh-yTOBTj.
-A  survey  of  ethnographic  information  concerning  the  Samoyed  of
-
-Siberia.     Petersburg,  1879.  —  kh.  063opT> 3THorpa(|)inecKiixTi CB-fe^itHiii
-
-0  CaMotjcKTixi.  n-ieiienas-B  b-l  Cn6irpn.
-Kostroff,  N.  K.     Conceraing  some  remains  of  torture  and  the  Ordeal  in
-
-Sibena.    Kieff,  1880.  —  Kocmijoeo.  II.  K.    kh.  0  HtKOTupuxi)  ocraTKaxi.
-
-Bi,  Ciioiipii  iicribiTaHiit  iiui  cyjoBt  BoH.inxTj.
-Krasheninnikoff,  S.  P.      Description  of  the  country  of  Kamchatka.
-
-Petersburg,  1st  ed.  1755,  2nJ  ed.  1786,  3rd  ed.  1818.  —  KimmeHUHHu-
-
-KWo.  C.  n.     <  >niicaHie  3eM.iii  KajpiaiKU.
-Kroll,  M.  A.     Preliminary  report  on  investigations  among  the  Trans-
-Baikal  Buryat.     E.  S.  S.  I.  R.  G.  S.    1896.  —  Ki^uh,  M.  A.   IIpejBapn-
-
-Te.ihHuft     onen.     o     paooiaxi.     rir»     nacitjOBaHiio     BaOaftKa.TLCKnxT.
-
-ByparL.
-KulakofF.     The  Buryat  of  the  Irkutsk  Government.    E.  S.  S.  I.  R.G.  S.
-
-1896.  —  K'j.iiiKo^ru.     Bypaibi  IIpKyiCKiul  FyuepHiii.
-
-KuznietzofF,  W.  The  Aurora  Borealis  observed  at  Pavlo\sk  in  1897.  —
-Ki/3Heuoa-o,  B.  CtBepHoe  Cinme  Ha6.iio,"iaBmeeofl  bt,  TlaRif'Bchi.  bt>
-1897  ro^Tv.
-
-
-336  BIBLIOGRAPHY
-
-Kyber,  Dr.  Extract  from  a  letter  of  October  1,  1822,  from  Nishne-
-Kolymsk  to  the  '  Siberian  Mossenper'.  1823,  —  Kiuii'pz.  ,7/*.  RuniicKa
-1131.  niichMa  on.  1  oKTiiopa  1822  uu  ( 'iiuiipc-KOMT,  Bi.oTiiiiid;  n:!i,  Hiivkhc-
-Ko.ibiMCKa.
-
-Extract  from  the  diary.     '  Siberian  Messenger,'  1824.  —  Ila&ieueHie
-
-ii3'J>  ,T,iioiiHi.ix'i,  saniicoiaj.     CiiuiipcKiii  BlifTiiiiK-L.
-
-Langans.     The  Buryat  .  .  .    1824.  —  .IdHinun.     BypiiTi,!  ii.iii  BpaicKie.
-
-The  Yakut.     1824.  —  JIkvti.i.
-
-Lepekhin,  I.  I.  Diary  of  a  journey  in  1768-72  ;  vols.  1-3.  Petersburg,
-1771-1805.  —  .loii'xnHa,  11.  11.  J^ncnuijm  3anncKii  nyTeiiiecTniji  .  .  .  Bt
-1768-72.    T. 1-3.
-
-Full  collection  of  scientific  travels  in  Russia  ;  vols.  3-5.     I.  R.  A.  S.
-
-Petersburg,  1818.  —  TTo.uioe  coopaiiio  viohi.ix'l  nyTeinecTBifi  no  Poccin.
-
-T.  3-5.
-Liidtke,  T.     Journey  round  the  world.     Petersburg,  1834-36.  —  .Inmve,
-
-T.    IlyTemocTBio  rokjutl  CB'tia.
-
-Maak,  R.  A  journey  to  the  Amur  in  1855.  Petersburg,  1859.  —  Miuun,,
-P.     IlyTiMuecTBie  iia  Ajiypi.  Ht  1 855.
-
-A  journej'  in  the  valley  of  the  Ussuri  River.     Petersburg,  1861.  —
-
-nyxeuiecTBie  no  ^icinni  pf.Kn  ycypii.
-
-The  Viluysk  district  of  the  Yakutsk  territory.     Petersburg,  1883-
-
-87.  —  Bn.iioiicKift  oKpyt  HKyTCKoii  o6.iacTn.
-
-Magnieki.  Ancient  ceremonies  of  the  Yakut.  —  MmHUnh-iii.  CTa2)Lie
-ui'ipn.-iLi  y  siKyroB'L.
-
-Mainoff,  I.  I.  Some  data  concerning  the  Tungus  of  the  Yakut  country.
-Irkutsk,  1898,  MtiitHOdo.  11.  11.  Ht.KiiTopbin  ^lairai.iii  o  ryiirycaxi.
-siK-yxcKaro  Kpan.
-
-Mainoff,  V.  N.  Sketch  of  the  customary  law  of  the  Mordva.  I.  R.  G.  S.
-Petersburg,  1885.  —  Maiinoero,  B.  H.  O'lepia.  iopii;;inccKaro  Chira
-I^Iop^iBBi.
-
-Maksimoff.  In  the  East:  A  journey  to  the  Amur  in  1860-1.  Peters-
-burg, 1864.  —  Jl'thniMoo^.      Ha   BocroKt, :    nofejKa   iia    A>n-p-L   bt.
-
-isfib-i.
-
-Maksimoff,  A.  Contribution  to  the  history  of  the  family  among  the
-aborigines  of  Russia.  E.  R.  Moscow,  1902.  —  MiUx-rn.Mna-u,  A.  ILn>
-ncTopiii  cGMBii  y  pyccKiixi.  iiiiopo,-i;ii,oB'L.
-
-Group-Marriage.     Moscow.     E.  R.     1908.  —  rpynnoBofi  BpaKi,.
-
-Limitation  of  relations  between  husband  or  wife  and  the  relatives
-
-of  wife  or  husband  respectively.     E.  R.     Moscow,  1908.  —  Orpann-
-
-^eHie    oTHoraenift    .MovK.iy   o,T;HnM'L   nst  oynpyroBi.    n    ])o,-ifTBeHHiTi<aifn
-
-opyroro.
-A  marriage  ceremony.     Moscow.     E.R.     vol.  1909.  —  06t  o;nio)n>
-
-CBa;;euHOjn>  oupaxfe-
-The  change  of  sex.     R.  A.  J.      Petersburg,  1912.  —  ITpeBpauieiiie
-
-Ilo.ia.
-MaliefF,  N.     Report  of  the  expedition  to  the  Yogul.     Kasan,  1873.  —
-
-3Luiee-u,  H.     Otictu  o  Bory.ThCKofi  3Kcne,"im;in.
-
-MamieyefF,  S.  N".  Materials  for  a  Siberian  Bibliography.  Tobolsk,
-1892.  —  Ma.MJheoo,  C.  H.     Maiepia.-iii  iin  6n6.iioriia(fiiii  CnCnpii.
-
-
-BIBLIOGRAPHY  337
-
-MargaritofF,  V.  Kamchatka  ami  its  inhabitants.  A.  S.  1.  R.  G.  S.  Kha-
-barovsk. 1S99.  —  Miijiiiqiii/iioHi..  />.     KaM'iaiKa  ii  on  oriiiTaTO.Tii.
-
-Martos,  A.  Letters  concerning  Western  Siberia.  Krasno3^arsk,  1891.
-—  Miip>no<-o,  A.     IIiiei.Ma  o  BocTonnurt  Cin'iipii.
-
-Maydell,  G.  v.  The  answers  of  the  Chukchee  Expedition  to  the  ques-
-tions of  Mr.  Baer  of  the  Russian  Academy  of  Science.  E.S.S.  I.R.G.  S.
-1871.  --  Miiiii)':ro.  F.  i/i.  OTBiTLi  nvKOTOicou  3Kfii<>,-;iiuiit  iia  nonpocbi
-AKaaeMiiK'a  Bopa.
-
-Ti-avels  in  the  North-Eastern  part  of  the  Yakutsk  territory  in  1868-
-
-70.  Petersburg,  1893-96.  —  llyTOiiiecTRie  n>>  ctBepo-RocTO'iiioil  'lacTU
-ilicvTcwiMl  oraaoTii  in.  1868-70.
-
-Within  the  Arctic  Pohir  Circle.     Sketches  of  the  Kolyma  country.
-
-'Orthodox  Messenger,'  1894-95.  --  TIo,xi'  ciBopuMM-b  iKUiipnuMij  iqiy-
-ro.\ri..     0'iopi;n  Ko.ii.nicKaro  Kpasi.
-
-Mejoff,  W.  I.  A  Siberian  Bibliography.  Petersburg,  1891.  —  Mcmooo,
-It.  II.     CnuiipiMcaii  Fuiu.iidqtailiiii.
-
-Melikoff,  D.  I.  Report  of  the  Senior  Counsellor  of  the  Yakutsk  Terri-
-tory Regency,  D.  I.  MelikoflF,  on  his  inspection  of  the  Kolyma
-District  in  1893.  —  Mc.inicoiro.  J.  II.  Oiien.  ciapmaro  CoKt.TunKa
-HKVTcKaro  ou.iaeTuaro  JTpaB.ieniji  JX-  H-  Mo.inKOBa  no  r^OManjnpoBidi  oro
-btj  Kii.iBiMcicifi  OiqiyiT,  bt.  1893.
-
-Mikhailowski,  W.  M.  Shamanism.  S.F.  S.  A.  E.  Moscow,  1892.  —
-Mi.ioiu.wacKi'it,  B.  M.     IIIa.MancTBo.
-
-Miller,  F.  A.  A  description  of  Siberia  with  a  complete  history  of  events
-there,  especially  since  the  Russian  occupation.  Petersburg,  1750.  —
-Mn.t.v'iio,  'P.  (Jnucanie  CiiuiipcKaro  uapexBa  ii  Bcixt  nponcnio,T,nnixT>
-BT>  iioiT)  ^.^.tij  on.  ua'ia.ia  u  ocoaTnBO  orr.  noKopemji  ero  Pocciricicoit
-,1epH<aBt  no  ciii  BpeMcna.
-
-MirolyuboflF,  I.  P.  8  years  in  Sakhalin.  Petersburg,  1901.  —Mupo-
-.voGon-u.  II.  II.     8  .xtn.  iia  Caxa.innl'..
-
-MordvinofT,  A.  The  natives  of  the  Turukhansk  country.  I.  R.  G.  S.
-1860.  —  MoiJiktiiHoiio,  A.  nnopo,T,nw,  oonTaion;ie  bx  TypyxaiicKOMi.
-Kpat.
-
-Miiller.     Sammlung  Russischer  Geschichte.     Petersburg,  1732-64.
-
-Neimann,  K.  K.     An  historical  review  of  the  work  of  the  Chukchee
-
-Expedition.      E.  S.  S.  I.  R.  G.  S.     1871.  —  HcuMum.   K.  K      IIcxopii-
-
-nocKift  o6:!Op7.  ;vl.i1c-TBii1  MyicoTCKon  .9Kcne,T,nu,iii.
-A  few  words  on  ti'ade  and  industries  in  the  northern  districts  of  the
-
-Yakutsk  territory.      E.  S.  S.  I.  R.  G.  S.       1872.      Hf.CK0.ii.K0  ctobt,  o
-
-Toi>r<.iB.Tl-,  n  npiiMi.Tni.ieniMfTii  (•f.Bepni.ixr.  oKpyrnBT.  JlKyTCKoit  ou.iacTii.
-Nil.     Buddhism  regarded  in  relation  to  the  Buddhists  living  in  Siberia.
-
-Petei"sburg,  1858.  —  Ha.n..     By,xin3Mi.,  paacMaTpnBaeMtiit  bt.  OTHonioniii
-
-la,  nof.it,,ioBaT«M}iM'L  oro  oOiiTaiomiisn.  Bt  Cnuiipn.
-Nordquist,  O.     Numbers  and  present  condition  of  the  Chukchee  living
-
-on   the   Arctic   shore,      E.  S.  S.  I.  R.  G.  S.      1880.      U»i,<)haurm-<.,    0.
-
-0  incionHOCTii  n  iiUHtinnoMi.  no.ion;eniu  4jx;'iofi,  w.nByui.iix'B  no  Gopery
-
-.io,"toBnTaro  Mopn.
-Novicki,  G.     A  short  description  of  the  Ostyak  nation.  —  Hoewdh-ill,  F.
-
-KpaxKoo  oniicai[ie  o  napo,Tl',  OcTiiUKOjrr,.
-
-Olsuyefif,  A.  V.  A  general  sketch  of  the  Airndyr  district.  A.  S.  I.  R.  G.  S.
-Petersburg,     1896.  —  O.icf/mz,  A.   Ii.      Ooiniit    O'leinaj    Ana;;hipcKaro
-
-OKpjTa.
-1C79  Z
-
-
-38  BIBLIOGRAPHY
-
-OrloflF.     The    wandering    Tungus   of    Bauntovsk    and    East    Angarsk.
-
-I.R.  G.S.      1857.      Op.iom.      BayuToucKic   ii   B.   AnrapcKie  6po;i,5i'iie
-
-Tyiirycu.
-Osipoff,  N.   Ritual  of  marriage  in  Siberia.  Petersburg,  1893.  —  Ocimoa^,
-
-II.     riirya.Ti>  CiiuiipcKoil  ciia,T.i.uLi.
-Ostroumoff,  N.    A  Tartar-Russian  Dictionary.    Kazan,  1892.  —  Ocmpoi/-
-
-Mom,,  11.     TaTapcKO-pyccKiii  ciouapi,.
-OvchininnikoiF,  M.     Selection  from  the  materials  for  the  ethnography
-
-of  the   Yakut.      Moscow.    E.  R.   1897.  -  OmauaKHnnono,   M.      Mat
-
-]\IaTepiajiOB'b  no  3THorpa(l)iii  IIin'TOB'i).
-
-Pallas.     Travels  through   various    provinces  of    the    Russian   empire.
-
-Petersburg,  1773-88.  —  IIiijjuci,.       IlyTomecTLiie    no   pa3iiLiMt    npo-
-
-linnuiinrr.  PocciitcKaro  rocyj;apcTBa.
-Patkanoff,  S.     Traces  of  paganism  among  the   aborigines  of  North-
-western Siberia.    Moscow,  1888.  — ■  JLununHoai.,  C.     CiiiAi'i  aaR'iecTiia
-
-y  HHupo^iueinj  CI")Hepo-3ana,T,iioft  Cnonpii.
-Materials   for  the    study   of    the   economic    position   of    Russian
-
-peasants  and  the  aborigines  of  Western  Siberia.     Petersburg,  1888-
-
-93.  —  MaxopiajiM  :i,.ia  nsyioiiiii  r>Koiiojiii'iccKaro  Gwia  rocy;;apcTi5CHHUX'r,
-
-K'pecTLnH't  II  niiopo;i,u,ci5'L  3ana,i,nori  Ciioiipii.
-■ The  ancient  life  of  the  Ostyak  and   their  heroes,  gathered  from
-
-their  poems  and  tales.     L.  A.  T.     Petersburg,  1891.  —  CTapoAaBiiaH
-
-;iai3iiB  OcTHKOHL  n  iix'i,  OoraTLipii  no  Giii.iiinajrb  ii  cKa:3aninMT>.
-Important  data  for  the  statistics  of  the  population  of  Far-Eastern
-
-Siberia.      Petersburg,   1903.  —  PiaBiihilmin    ;;aniiLiH    no   CTaTiiCTiiidi
-
-iiace.iciiiji  icpaiiHiiro  BoctoKa  Cnoiipii.
-Essay  on  the  geography  and  statistics  of  the  Tungusic  tribes  of
-
-Siberia.     I.R.  G.  S.     Petersburg,  1906.  —  Oiibiri.  re()rpa(|)iii  ii  CTaTiic-
-
-TUKii  TyirryccKiiX't  n.ioMem,  Ciioiipii.
-Short  sketch  of  the  colonisation  of  Siberia.     Russian  Annual,  1907.
-
-—  KpaxKiil  o'lepivTi  Ko.ionnaanin  Cnonpii.
-
-Concerning  the  increase  of  the  aboriginal   population  of  Siberia.
-
-I.  R.  A.  S.     Petersburg,  1911.  —  0  IIpiipocTt.  iiHopo,T,'iecKaro  HacciemH
-
-CiiCiipii.
-Statistical  data  for  the  racial  composition  of  the   population  of
-
-Siberia,  its  language  and  tribes.    Petersburg,  1912.  —  CxaTiicTHMOCKin
-
-aaHHWsi,  iioKasMBaiomiH  n.ieMCHHOil  cociaBB  naccieHia  Cuuiipii,  a3biK7>  ii
-
-po;;u  iinopo;in,eB'i..
-Pavlinofif,  D.     Marriage  law  of  the  Yakut.     Note-book  on  the  Yakutsk
-
-territory.      Yakutsk,    1871.  —  Ilaa.iUhom,    M-      BpaiHoe    IIpaBO    y
-
-illCyTOBT..
-
-Materials  for  a  Siberian  bibliography  from  1750  to  1864.  —  Maiepia^Tbi
-
-;;aa  CnuiipcKori  GiiCpiorpacliiii  ori>  1750  ao  1864.
-Pavlinofif,  N.  M.     Note-book  of  the  Irkutsk  Government.    Irkutsk,  1895.
-
-—  IIiKuiiHOdo,  II.  ii/.     llaMHTHaH  KniivKKa  IIpKyTCKOil  PyCepiiin.
-Pavlowski,  B.    The  Vogul.     Kasan,  1906.  —  IlasjoacKiu,  B.    Bory.iu.
-Pervukhin.    Materials  for  the  archaeology  of  the  eastern  provinces  of
-
-Russia.      Moscow,  1896.  —  Jlaxepia-iti    no     apxoo.xoriii    Bocxohhux'B
-ryuepniit  Poecin.
-Picturesque  Russia.    Vol.  XT,  Western  Siberia;  Vol.  XII,  Eastern  Siberia.
-
-—  iKuBonnciiaa  Pocciii.     T.  XI,  3aiia,'iiiaji  Ciioiipb ;  T.  XU,  Bocxo'inaa
-CnCiipt.
-
-
-BTBLTOOKAPTTY  339
-
-Piekaraki,  E.  K.  Yakut  Dietionaiy.  E.  «.  ^<.  I.  H.  Pt.  S.  Yakutsk,
-isyO.     IlnciiHhiii,  E.  K.    C.ionapr.  iru-yTCicaro  n:5i,ii»a.
-
-Filsudski,  B.  Results  of  a  journey  to  the  Ainu  and  Oroko  of  Sakhalin
-in  1903  5.  I.  R.  A.  S.  Peteishm-^r,  1906.  Iln.!,yf.)r>,iu,  H.  Oi'ieTL
-iiu  KOMaii.uii'onKh  in.  AiiiiaMi.  ii  Opuua.Mi,  0.  Caxa.iuiia  ul  1903  5.
-
-The  Ainu.     Brockhaus  Encyclopaedia.     Aiiny.
-
-Pipin,  A.  N.  History  of  Russian  ethnography  to  1888.  Petersburg,
-1890.  —  ILdiiih-o,  a.  II.     IIcTopiH  pyer-Koft  .iTHorpailiin  ,-;o  1888.
-
-Podgorbunski.  I.  A.  Ideas  of  the  Buryat  Shamanists  about  the  Soul  . . .
-E.  S.  S.  I.  R.  G.  S.  1892.  —  IIodiopiM/Hndit  II.  A.  nonirrie  BypiiTi,
-iiiaMaHiiCTOBi.  o  ;iyint. .  .  ,
-
-A    Russo-Mongolo-Buryat    Dictionary.      Irkutsk,    1909.  —  Pyccko-
-
-Mouro.io-BypnTc-id  rt  C.ioBapt.
-
-Polonski,  A.     The  Kuril.     I.  R.  G.  S.  —  IIu.ioHa.iil,  A.     Kypiuu.
-
-Polyakoff,  I.  Letters  and  report  on  a  journey  to  the  Ob  Valley.  Peters-
-burg, 1877.  —  II».i/ir,-oo-o,  JI.  lIiichMa  ii  fiTMcTU  o  iiyTcini'CTHiii  hi.
-,-lo.iiiny  p.  0<5n.
-
-The  bstyak  and    the  Ob  Valley   fisheries.      Petersburg,  1878.  —
-
-OcTilKIl  II   pI.IUi'IipOMUIII.U'IIIIOCTr.  HI.  .I.O.'IIIH'fe  p.  Ooil.
-
-Popoff,  V.     A  Mongol  anthology  for  beginners  in  the  Mongol  language.
-
-Kazan,  1836.  —  IIoiuks-,,,   Ii.      ^loiiivai.cKaii   xpncroMaTiu   a-ih   na'iiiiia-
-
-loiiuixT.  ouynaTi.cH  MoHro.ihCKOMy  subiKV.
-Potanin,  G.  N.      Sketches    of    North-Western    Mongolia.      I  R.  G.  S.
-
-Petersburg,  1881-85.  —  IIoiixihuh-,..  T.  II.     O-iepKii  CtBepo-3aiia;uiofi
-
-Mdnro.iiii.
-Queries  concerning  the  study  of  the  beliefs,  proverbs,  superstitions,
-
-customs,  and  ceremonies  of  the  Siberian  aborigines.     Petersburg,
-
-1888.  —  H-fccKo.iWvO  Bonpoooin.  iiu  ii3y'ieiiiio  iioB'tpii'i,  cKaijanirr,  cyoBtj)-
-
-111.1X7.  oubnacBt  u  o6pHj;om.  y  CiioiipcKiixr.  iiHopo,i,ii;eB7,.
-The  Tangut-Tibet  frontier  of  China  and  Central  Mongolia.     Travels
-
-in  1884-86.       I.  R.  G.  S.       Petersburg,  1893.  —  TanryxcKo-TiiueTcKaii
-
-nicpaiiiia  Kiixaa  ii  HcHTpa.Ti.iiuit  Monro.iiii.
-A  sketch  of  a  journey  to  Sy-chuan  and  the  Eastern  Tibetan  fron-
-tier in  1892-93.     I.  R.  G.  S.     Petersburg. —  O'icpirr,  iiyToiiiocTBisi  bi.
-
-Cbi-'iyaui>  n  iia  nocTO'iiiyio  oKpaiiiiy  Tiifji^Ta  bi,  1892-93.
-Greek  Epos  and  the  folk-lore  of  Ordynsk.     S.  F.  S.  A.  E.     Moscow,
-
-1894.  —  TpeiecKift  -.mwn,  n  op.u.iiiciciu  (|io.ir,K.i(ipf>.
-Eastern  motives  in  the   ^lediaeval    European   Epos.     S.  F.  S.  A.E.
-
-Moscow,  1899.  —  BocTii'iiii.ii'  mhtiibu  in.  cpcAiieBiiKOBOMij  Eiipoiiei1civ-0M'f.
-
-:iiioc'fe.
-Potanina,  A.  V.     Notes  on  journeys  through  Eastern  Siberia,  Mongolia,
-
-Tibet,  and  China.     Moscow,   1895.  —  IIomnunHn,  A.   Ii.    W.vh  iiyre-
-
-iiiecTBiii  110  BucTO'iHori  (.'iioiipii.  Mniuuiiir,  TiiufTV  it  Kiiiaio.     MocKua,
-
-1895.
-Priklonski,  V.   Ii.     Three   years  in    the   Yakutsk   territory.      L.  A.  T.
-
-Petersburg,   1890-91.^ —  IIiiai;.vjHn;ii1,  Ii.  .1.     Tpii  ru,-;a  in.  ni.yreKoft
-
-Oi'MafTlI.
-
-A  bibliography  of  the  Yakut  country.  —  Bii6jiiorpa(l)iH  JlKyxcKaro
-
-KpaH,
-Pripuzofif,  N.    Materials  for  the  study  of  Shamanism  among  the  Yakut.
-
-E.  S.  S.  I.  R.  G.  S.      1884.  —  IIiMni/jom.,  H.      CBt.^t.Hia  ;\^n   n.-jyieiiin
-
-lUaMaucTBa  y  HjcyTOKL.
-
-z2
-
-
-340  BIBLIOGRAPHY
-
-Fvipuzoff,  N.  P.  Notes  on  the  folk-inedicine  of  the  Yakut.  E.  R.
-Moscow,  l.'^Qi^.  —  irpHiifpoai,.  II.  II.     3a.Ml'.TK-ii  no  iiapo,-i,nof[  Me.innnnt,
-
-/IiCVTOHTj.
-
-Przervalski,  W.  M.  The  native  poiMilation  of  the  southern  district  of
-tlic  Amur  country,  rctersburi,',  18G9.  —  IIp.}ic('Hii.ii,n;iu.  H.  M.  061.
-uinijio;i,'iocicoM'i.  nacc.icniii  in>  loHciioit  Macxn  JIpiiaMypcKoil  oS-iacTii.
-
-Mongolia  and  the  Tangut  country.     Petersburg,  1875.  —  MoHrcTifi
-
-n  CTi)aiia  TaiiryToui,.
-
-Kesin,  A.  A.     Sketch    of    Lhe   natives   of    the   Russian   Pacific   coast.
-
-I.  R.  G.  S.      Petersburg,  1888.  —  Pccuho,  A.  A.     O'lcpia.  iiiuipo.inem.
-
-liyccKaro  no6opevKi.ii  Tiixaro  Oicoana.
-Rojdestvenski,  A.  G.     Materials  collected  by  Olsufyeff  concerning  the
-
-physical  type  of  the  Chukchee  and   Ihe  Tungus.     A.S.  I.R. G.S.
-
-1896.  —  Poo/rdccmccHChiii,  A.  F.     ]\IaTopia.ii>i  coopannuo   0.7py(|pi,cnbiM7.
-
-Kacaioniiecsi  (IiuairiccKaro  iiina  ^lyK'ioil  ii  TynryaoKi..
-
-Samokvasoff,  D.  Y.     A  code  of  customary  law  among  the  aborigines  of
-
-Siberia.     Warsaw,  1876.  —  ( iLMiiiciturnn-o.  /I.  fl.      Cunpnnia.  (n'l.i'UFaro
-
-iipana  Cii6ni)CTaix7.  nnop(>;i,ueB7..
-SarytehefF,  G.     The  voyage  of  Sarytcheff's  fleet  along  the  NovtliEast
-
-coast  of  Siberia,  through  the  Polar  Sea  and  the  Pacific  in  1785-93.
-
-Petersl)urg,   1802.  —  CiiiihJHcui..  T.      ITyTeuKM-THin  ilaoia   Capwiena  no
-
-CI;b.-B(ict.  HacTU  Ciiunpii.  .■u\"ioHnTo.My  Mojuo  ii  Bdci.  OKeany.
-Capt.  Billings' journey  through  the  Chukchee  countiy,  from  Bering
-
-Strait  to  Middle  Kolymsk.     Petersburg,  1811.  —  IlyTeniPCTBie  Kan.
-
-])n.7.innra  'ipeai.  '^lyKoTci.-yio  ;?eMaio  n-ri.  BepiiiiroBa  npo.inBa  ,ii)  Hnvi;no-
-
-Kd.ii.iMCKaro  ocTpora .
-Schrenck,  L.     The  natives  of  the  A^mur  country.     I.  A.  S.     Petersburg,
-
-1883-1903.  —  IlIfOHK-t,,  .1.     Oui.  nniipo.-xnax'F.  A.MypcKaro  Kpan.
-Seeland,  Dr.     The  Gilyak.     I.  S.  F.  S.  A.  E.     Moscow,  1887.  —  ;>.w^')o.
-
-0  rn.ijn;axT>.
-Sgibnieff,  A.    The  Tungus  of  the  seacoast  territory,  1859.  —  CinCiucni,,  A.
-
-0  Tyiirycaxi.  IIpiiMopcKoil  u.iacTii.
-Shashkoflf.     Shamanism  in  Siberia.     W.  S.  S.  I.  R.  G.  S.     1864.  —  m„iu-
-
-hoiio.     niaMaiicTBO  Bt  Ciu'npn.
-Folk-tales  of  the  Buryat.      E.  S.  S.  I.  R.  G.  S.      Irkutsk.      1889.  —
-
-ITpcianiii  Bypnir,.
-Shavroff,  V.    Concerning  the  Ostyak  Shamans.    '  Moscvitanin,'    Moscow,
-
-1844.  —  IIIiii'.p()Hi,.  B.     0  IIIaMaHaxr.  OcTiui,KnxTj.
-Shclmkin,  N.  S.     The  Yakut.     1854.  —  mninnn..  II.  C.     JlKyibi.
-Shimkevicli,  P.  P.     Materials  for  the  study  of  Shamanism  among  the
-
-Goldi.      A.S.  I.R.  G.S.      Khabarovsk,  1896.  —  IIlH.vf.raii'n.,  II.  II.
-
-MaTcpia.iM  ,";.i5i  nayienin  IJIajiancTBa  y  FiaiafiBi".
-Moments  of  Goldi  life.     K.  R.     Moscow.  —  Ht.KoTopi,ie  MOMeirri.i  n^i.
-
-iimnnu  FiuiaoBT..
-Shklowski,  I.     Sketches  of  the  extreme  North-East.    E.  S.  S.  I.  R.  G.  S.
-
-Irkutsk,  1S92.  —  IIIu.KKUKiH.  II.     O'lppKu  IViitniiiirn  Ct.ni^poBocTOKa.
-ShvetzofF,  T.    The  Kalmuks  of  the  Altai.    W.  S.  S.  I.  R.  G.  S.    XXIII.  —
-
-IIInminDir,.,  T.     A.iTaricKie  Ka.iMi.iini.
-Ideas  of  the  Altaians  and  Kirgis  on  custom  and  law.  W.  S.S.I.  R.  G.S.
-
-XXV.  —  OubiHuo-npaBOBLia  B033i)tnin  A-iiaiii^eBi.  ii  Knpniaij.
-
-
-BIBLIOGRAPHY  341
-
-Sieroszewski,  W.     The  Yakut.     I.  K.  G.  S.     Petersburg,  1896.  —  Cih^w-
-
-Slovtzofif,  p.     Historical  survey  of  Siberia.     Petersburg,  1886.  —  C.ion-
-
-no'ii..  II.     IIcTupu'iochuo  Ouoaptnie  Ciiuiipu.
-Slvinin,  N".  V.     The  country  of  Okhotsk  and  Kamchatka.     Petersburg,
-
-1900.  —  Cjiohuho,  II.  B.     OxuTcKo-KaM'uuudii  K|jari.
-Smirnoff,  I.  N.      The  Chereniis;?.      Kazan.      1889.  —  C.MajiHOHo,  II.   II.
-
-Mcpl'MlUbl.
-
-The  Votyak.     Kazan,  1890.  —  Bothku.
-
-Solovieff.    Remains  of  Paganism  among  the  Yakut.    '  Siberia '  (Annual).
-
-—  Co.tooiji'ijo.     OcTaiKu  Hau'iecTua  y  jiivyiou'L,     CoopmiK-b  '  Cnoiipii '.
-Sternberg,  L.     The  Gilyak,     E.  R.      Moscow,  1893.  —  IRmciiHiH'pa,  .1.
-
-TlMilKU.
-
-Specimens  of  the  material  for  the  study  of  the  language  and  folk-
-lore of  the  Gilyak.  1.  R.  A.  S.  Petersburg,  1900.  —  Oupaaubi  Jiaxepia-
-.luBt  uu  uayieuiio  ru.i}ii;Karo  a3bu<a  u  ({"^-^i^i'^P'i-
-
-Unterberger,  P.  T.     The  Amur  country.     I.  R.G.  S.     Petersburg,  1912.
-
-—  yH/nej/OeiHeijo,  II.  T.     IIpuaMypcidil  Kpaii.
-
-TJsoltseff.  Report  of  the  work  of  the  Siberian  section  of  the  Imperial
-Russian  Geographical  Society  for  the  year  1869.     Petersburg,  1870.
-
-—  J't'y.?w4t'oz..      Oi'icrt  0  AMcTBiiixi.  CiiOupcicaro  OuLia  Ibmepaiup-
-CKiiro  PyccKaro  reorpa(|)U"iecKaro  oomecTBa  3a  1869.
-
-Talko-Hryncewicz,  I.  D.  Contributions  to  the  Anthropology  of  the
-Trans-Baikal  country  and  Mongolia.  Russ.  Anthr.  Journ.,  1902.  —
-T'(.!ij>,'j-Xi)(tHin'ijUTu,  I.  J,.   \\h  Ampuuo.iuriu  oa6aiiKa.ibsi  u  MoHro.iin.
-
-Tereschenko,  A.  The  Ulus  of  Khoshotsk  .  .  .  1854.  —  T('i)eu(,<;Hicij,  A.
-y.iycT,  XijmuTCKiii  u.iu  XomoyioBCKiii.
-
-Tiernovski,  A.  A.  Materials  for  a  bibliography  of  Siberia.  Tobolsk,
-1893.  —  Ti-pHoisacid,  A.  A.     Marepia.iLi  ,i.tvi  GuG.iiorpailiiji  Cuuiipii.
-
-Tretyakofif,  P.  I.  The  country  of  Turukhansk,  its  nature  and  inhabi-
-tants. Petersburg,  1871.  —  Tpembjinoau,  II.  II.  TypyxancKiit  Kpaii,
-ciu  npupo;;a  u  iicuie.m.
-
-Troshchanski,  V.  F.  The  evolution  of  the  '  Black  Faith  '  (Shamanism)
-of  the  Yakut.  Kazan,  1902.  —  TiJuimHcKia,  B.  'I.  3Bo.iiui;iii "  4opHuii
-Btpu '  (JJJaMaHCTBa)  y  JLvyioBL.
-
-Uvaroflf,  A.,  Count.  Archaeology  of  Russia.  Moscow,  1881.  —  Ymixjiio,
-A.,  \\).     Apxeciuria  Pucciii.
-
-Venyamin.    The  Samoyed  of  Mesen.     I.  R.  G,  S.     Petersburg,  1855. —
-
-Bl-hIumuho.     CajiotAti  iieaeHCKie.
-VoyeikoflF.      Climates  of   the   earth ;    especially  of  Russia.     1884.  —
-
-Bu'.-iiicijBL  KViiiMaiLi  aeiiHaro  mapa :  npeujiymecxBeuuu  Puceiu.
-Vrutzevich,  M.  S.      Culture   and   life  of  the  people  of  the  Y'akutsk
-
-territory.     1.  R.  G.  S.     Petersburg,  1891.  —  Bpiju^cauTo,  M.  C.    Oouia-
-
-To.m  Kyabiypa  u  >KU3Hb  Bb  /iKyxcKOii  Ou.iaciu.
-
-V.  S.  E.  The  clan  among  the  Yakut.  E.  S.  S.  I.  R.G.  S.  1898.  —  i;.  6.  is.
-/iiiyicKiii  Piu'b.
-
-Wereshchagin,  G.  The  Votyak  of  the  Sarapul  district  of  the  Viatka
-Government.  Petersburg,  1889.  —  BeijeinaiUHo,  I.  Boiium  Capauy.iL-
-cKaro  yt34a  BaicKoii  ryC.
-
-
-342  BIBLIOGRAPHY
-
-WierbickJ.     The   Natives  of  the  Altai,  1S93.  —  BqiOawiii.     A.TraiicKie
-
-]lll(i]io.uU>l-
-"Wierb'cki,  V.  L.     A  dictionaij  of  the  Altaian  and  Aladansk  dialects  of
-
-the   Turkic   language.  —  Jh-jii'ini/j.iii,   />.  .7.      CViomipi.   a.iTancKar<;i   u
-
-a.ia,i,aiici>aio  iiajvIiMiil  Tio])Kcicaru  n3i.!i;a.
-A  grammar  of  the   Altaian  language.  —  riiaM.Mariii.a  A:nailci.-aru
-
-H3UKH.
-
-Wrangell,  F.  P.  Journey  to  the  north  coast  of  Siberia  and  to  the
-Polar  Sea.  Petersburg,  1841.  —  Jijimt/i-.n..  <!>.  llyreiiiecTHie  no  CliBoj)-
-]ihiMi.  r)e]iara.ML  CiiOii])!!  n  im  JIivinmrru.Mv  Mnjuo.  cuiiriiiiieuiioc  ku
-182U-24r.
-
-Yadrintzeff,  N.  M.  The  Tartars  and  Altaians  of  Chern.  I.  R.  G.  S.
-Petersburg,  1881.  -  -  II'yji}iiin,i-n-„.  II.  M.     Ooi,  A.Traiina.VL  ii  Tarapa.M.
-
-The    cult  of  the    bear   among    the    northern    aborigines.     E.  R.
-
-Moscow,  189G.  —  0  Ky.ihxL  5io,t,b'L;;}i  iipeiiJiymecTBeHno  y  CtBcpHbixb
-
-iiiiopo;i,H('Hi,.
-
-The  Siberian  aborigines  ;  their  mode  of  life  and  present  condition.
-
-Petersburg,  1891.  —  Cnuiiin-Kie    iiiinpn.uu.i.  iixl  umti,  n  coBpejiouuoe
-iio.ioiKeiiie.
-
-Yakobii,  A.  I.  Extinction  of  the  native  tribes  of  the  East.  Peters-
-burg, 1898.  —  j'lhwiii.  A.  II.  yraeanie  iiHopo^'iecKUX'L  H-icmchTj
-(_'ttie]ia.
-
-Yakushkin,  E.  I.  Custoiuaiy  law  among  the  aborigines  of  Russia.
-Moscow,   1899.    —   fli:fi>i(i;inn,.      OOiJ'Jiioe    lI]iaBu    PyecKiixi,    niiojua-
-
-UCBl..
-
-Yakutsk.      Note-book    on    the  Yakutsk   territory.      Yakutsk,  189C.  —
-
-IlaMirrnaii  i;iin-,i;Ka  flKyic.     Oo.iacxii  3a  1896  r.
-Yelistratofif  and  UshakofF.     West  coast  of  Kamchatka,  1742-87.  —
-
-l'.iKriiq„i)H'i(,i,  II  }'iiiin,<>'ii,.     oaiuvuiui"!  oepen.  Ka.M'iaTKii.
-
-ZakharcfF,  I.  I.  Complete  Manchu-Russian  Dictionary.  Petersburg,
-1875.  —  3aj:iii)()u-u,  II.  II.     IIo.iHLiil  Maiib'iiKypcico-PyccKiu  ciuBapi..
-
-
-11.    ^V(JKKS   IN    OTHEK    LANGUAGES
-
-Adler,  Bruno.     Die  Bogeii   Nord-Asiens.      Int.   Arcliiv  fiir  Ethuogr.,
-
-Band  XV.,  H.  2,  1902.
-Der  nordasiatische  Pfeil.       Int.  Archiv  fiir   Ethnogr.,  Band    XV,
-
-H.  1,  1901.
-Ahlqvist,  A.     Unter  Wogulen  uud  Ostjaken.     Acta  Societatis  Scien-
-
-tiarum  Fennicae,  XIV.     Helsingfors.
-Allen,  J.  A.      Report   on    the    Mammals    collected   in  north-eastern
-
-Siberia  by  the  Y'esup  N.  P.  Ex.     Bull,  of  Amer.  Mus.  Nat.  Hist.,
-
-Vol.  XIX.     New  York,  1903.
-Almquist,  E.     Studier  ofver  Tschuktchernas  filrgsiune,  Vol.  I.
-
-
-BIBLIOGRAPHY  343
-
-de  Armand,  C.  A.     The  New  Era  in  Russia.     Loncljn,  1890.
-Atkinson,  T.  W.     Oriental  anil  Western  Siberia,     l.oiidon,  185)^.
-
-Baelz,  E.    Ziir  Vor- unci  Urgeschichte  Japans.     Zeitschr.  liir  Ethnologic,
-
-S.  281  310.     Berlin,  1907.
-Bancroft,  H.  H.     Native  races  of  the  Pacifie  States  of  North  America.
-
-New  York,  1883.
-Barnum,  F.      Grammatical  Fuiulamentals  of  the  Innuit  language  as
-
-sjioken  by  the  Eskimo  of  the  western  coast  of  Alaska.     Washington,
-
-rxio.
-
-\Batchelor,  J.     The  Ainu  ot'Japan.     London,  1892.  -^
-
-Ainu-Eng -Jap.  Dietionary.     Tokio,  1905.
-
-Ainus.     Enc.  of  Rel.  and  Eth.,  J.  Hastings,  Vol.  1.    London,  1908.
-
-Berg.     Ueber  den  Jas^ak,  oder  den  Fell-Tribut  der  nomadisirendeii  Volks-
-
-stiimme  Sibiriens.     Lodz,  1868.
-Bird,  Isabella.      1.  Unbeaten   Tracks   in   Japan.       2.  Korea  and  her
-Neighbours.     London  and  Edinburgh,  1885.
-
-Boas,  F.     The  Central  Eskimo.     6th  Annual  Repoit  of  the  Bureau  of
-
-Ethnology  (1884-5).     Washington,  1888.
-Zur  Anthropologic   der   nordamerikanischen  Indianer.      Verhand-
-
-lungen  der  Berliner  anthrop.  Gesellschai't,  1895.
-
-Physical  Types  of  the  Indians  of  Canada.     Toronto,  1905.
-
-Report  on  tho  Nurtli-western  Tribes  of  Canada.    British  Association
-
-for  the  Advancement  of  Science.     London,  1891.
-■ The  Eskimo  of  Baffin  Land  and  Hudson  Bay.     Bulletin  Amer.  Mus.
-
-Nat.  History,  Vol.  V,  p.  369.     Washington,  1901.
-
-A.  J.  Stone's  measurements  of  Natives  of  the  North-west  Territories,
-
-1901.    Bulletin  of  the  Amer.  Mus  of  Nat.  Hist.,  Vol.  XXI.    New  York.
-
-Tribes  of  N.  Pacific  Coast.   Am.  Arch.  Rep.     Toronto,  1905.
-
-Facial   Paintings  of  the   Indians  of   Northern   British  Columbia.
-
-J.N.P.  E.
-
-■ The  ]\Iythology  of  the  Bella  Coola  Indians.    J.  N.  P.  E.,  Vol.  II.
-
-Kwakiutl  Texts.     J.  N.  P.  E.,  Vol.  III.
-
-The  Kwakiutl  of  Vancouver  Island.     J.N.  P.  E.,  Vol.  V.
-
-Ueber  die  ehemalige  Verbreitung  der  Eskimos  im  Arktisch-Ameri-
-
-kanischen  Archipel.     Berlin,  1883.
-
-The   Decorative  Art  of  the   Indians  of  the   North   Pacific  Coast.
-
-Washington,  1897.
-
-Bogoras,  W.  The  Folk-lore  of  north-eastern  Asia  as  compared  with
-that  of  north-western  America.  Amer.  Anthrop.,  Vol.  IV^  New
-York,  October-December,  1902.
-
-V The   Chukchee.      Publications   of  J.  N.  P.  E.,  Vol.   VII    (Memoirs
-
-of    the    American     Museum    of    Natural     History).       New    York,
-1904-10.
-
-The  Eskimo  of  Siberia.     Ycsup  North  Pac.  Exp.,  Vol.  VIII.     New
-
-York,  1910.
-Boulangier,  E.     Notes  d'un  Voyage  en  Siberie.     Paris,  1891.
-Brown,  R.     Countries  of  the  World.     London,  1875.
-Buck,  Max.     Die   Wotjaken.     Acta   Societatis   Scientiarum   Fonnicae.
-
-H.-lsingfors,  1883.
-
-
-344  BIBLIOGRAPHY
-
-Buckle,  H.  T.     History  of  Civilization.     London,  1857-6L
-
-liuiyat.  traditions  of  the,  recorded  by  difterent  collectors.     East.  Sib.
-
-Sec.  of  the  L  Russian  Geogr.  Soc.     Irkutsk,  1890.
-Biischau,  G.    Studien  und  Forschungen  zur  Menschen-  und  Volkerkunde
-
-unter  G.  Buschau.     Stuttgart,  1907,  &c.
-von  Buschen,  M.     Bevolkerung  des  Russisclicn  Kaiserreichs.     Gotlui,
-
-1862.
-Byhan,  A.     Die   Polarvolker.     Wissenschaft    und   Bildung,  Bd.  LXIII.
-
-Leipzig,  1909.
-Nord-Asien.
-
-Castren,  M.    Alexander.      Reiseerinnerungen  aus  den  Jahren  1838-
-
-44.     Vol.    I  of  Nordiscbe    Reisen   und   Forschungen.      Petersburg,
-
-1853.
-Vorsucli    einer   burjiltischen    Spracblebre.     Nordische   Reisen    und
-
-Forschungen,  Vol.  X.     Petersburg,  1857.
-Chamberlain,  Alex.  F.     Aleuts.    Enc.  of  Rel.   and  Eth.,  J.  Hastings.
-
-Vol.  L     London,  1908.
-Chamberlain,  B.  H.     The   Language,   Mythology,  and   Geographical
-
-NomenL'lature  of  Japan  viewed  in  the  light  of  Aino  studies  .  .  ,
-
-London,  1895.
-Chappe  d'Auteroche,  J.     Voyage  en  Siberie  fait  en  1761,   contenant
-
-les  mceurs,  usages,  etc.     Paris,  1768.
-Chylieskowski.       Syberja    pod    wzglgzdem    ctnograficznyui,    adiuinis-
-
-tracyjnym  roluiczyni  i  pnemystowo-handlowym.     Wloclawek,  1898.
-Collins,  P.  McD.     A  Land  Journey  through  Siberia.     London,  1860.
-Cook,  James.     Voyage  to  the  Pacific  0.  undertaken  .  .  .  for  making
-
-discoveries  in  the  N.  hemisphere.     London,  1784.
-Cotteau,  E.    A  travers  la  Siberie.     Paris,  1888.
-N/Cottrell,  C.  H.     Recollections  of  Siberia  in  1840-41.     London,  1852.
-
-Dall,  W.  H.     Alaska  and  its  Resources.     Boston,  1870.
-
-■  Tribes  of  the  extreme  North-west.  Contributions  to  N.  Amer.  Eth-
-nology, Vol.  I.  Geographical  and  Geological  Survey  of  the  Rocky
-Mountain  Region.     Washington,  1877.
-
-Remains   of  later   prehistoric   man  ...  of   the   Aleutian   Islands.
-
-Smithsonian  Contributions  to  Knowledge,  Vol.  XXII.  Washington,
-1878.
-
-On  masks,  tabrets,  &c.     Third  Annual  Report  B.  E.    1881-2.
-
-Deniker.     Les  Ghiliaks  (extr.  from  Rev.  d'Ethnogr.).    Paris,  1884.
-
-*  Turks '  and  '  Tatars '  (Diet.  Univ.  de  Geogr.  of  Vivien  de  St.  Martin
-
-and  Rousselet.     Paris,  1894.
-
-Ditmar,  C.  von.  Ueber  die  Koriiken  und  die  ihnen  sehr  nahe  verwandten
-Ischuktschen.  Acad.  Scieut.  Imp.  Saint-Petersbourg,  Beitriige  zur
-Kenntniss  des  Russischeu  Reiches  (1839-1900)  1856.
-
-Dvmdas,  L.  J.  L.  (Earl  of  Ronaldshay).  On  the  outskirts  of  Empire
-in  Asia.     Edinburgh  and  London,  1904.
-
-Ehrenberg,  C.  G.  Reise  nach  dem  Ural  .  .  .  ausgefiihrt  von  A.  von
-Humboldt,  G.  Ehrenberg  und  G.  Rose.    Berlin,  1837-42.
-
-
-BIBLIOGRAPHY  345
-
-Elliott,  H.  W.     An  Arctic  Province.     London,  1886.
-^•Erman.  Adolph.     Travels  in  Siberia.     London,  1848.
-
-Erman,  G.  A.     Positions  geograpbiques  de  I'Oby  depuis  Tobolsk  jusqu'ii
-
-la  nier  glaciale.     Berlin,  1831.
-Reise  um  die   Erde  durch  Nord-Asien  und  die  beiden  Oceane  in
-
-den  Jiihren  1828-30.     Berlin,  1838.
-
-Fairand,  L.  Basketry  designs  of  the  Salish  Indians.  J.  N.  P.  E.,
-Vol.  Y.
-
-Traditions  of  the  Chilcotin  Indians.     J.  N.  P.  E.,  Vol.  II.
-
-Traditions  of  the  Quinault  Indians.     J.  N.  P.  E.,  Vol.  II.
-
-Finsch,  O.     Reise  nach  West-Sibirien  ini  Jahre  1876.    Berlin,  1879.
-
-Fischer,  J.  E.     Sibirische   Gesekichte   von  der  Entdeckung  Sibiriens
-bis  auf  die  Eroberung  dieses  Landes  durch  die  russischen  Wati'en.
-Petersburg,  1768.
-rti»-Fraser,  J.  F.     The  Real  Siberia.     London,  1902.
-
-Gatschet.      Klamath  Indians  of  South-western  Oregon.     Washington,
-
-1890.
-Gennep,  A.  v.     De  I'emploi  du  mot  '  chamanisme.'     Rev.  de  FHistoire
-
-des  Rel.,  1903.
-Georgi,  J.  G.     Bemerkungen  eiuer  Reise  im  Russischen  Reich  in  den
-
-Jahren  1773  und  1774.     Petersburg,  1775.
-
-^— Gex'rare,  W.     Greater  Russia.     London,  1903.
-
-Gilder,  W.  H.     Ice-Pack  and  Tundra.     New  York,  1883.
-
-Gmelin,  J.  G.     Reise   durch    Sibirieu,    von    deni   Jahr    1733  bis    1743.
-
-Gottingen,  17.51-2.
-Golder,  F.  A.     Aleutian  Tales.    J.A.F.  L.     190-5.
-Gowing,  L.  F.     Five  thousand  miles  in  a  Sledge.     London,  1889.
-de  Guignes.       Recherches  sur  la   navigation  des  Chinois  du  cote  de
-
-I'Amerique  et  sur  quelques  peuples  situes  a  I'extremite  orientale  de
-
-I'Asie.     Paris,  1761.
-
-Harlez,  Ch.  de.  La  religion  nationale  des  Tartares  orientaux  :  mand-
-chous  et  mongols,  comparee  a  la  religion  des  anciens  Chinois.
-Bruxelles,  1887.
-
-Henry,  V.     Esquisse  d'une  grammaire  raisonnee  de  la  langue  Aleoute
-
-(translated  from  Veniaminoff's  work).     Paris,  1879.
-Hiekisch,  C.     Die  Tungusen,     Petersburg,  1879.
-——Hill,  S.  S.     Travels  in  Siberia.     London,  1854,
-
-Hitchcock,  Romsm.     The  Ainos  of  Yezo.     Report  of  the  U.  S.  National
-
-Museum  for  1890.     Washington,  1892.
-The  ancient  pit-dwellers  of  Yezo.    Report  of  the  U.  S.  National
-
-Museum  for  1^90.     Washington,  1892.
-— rHoflfman,  W.     Shamanistic  Practices.     Univers.  Med.  Mag.     1890.
-Hoffman,  W.  J.     The  Graphic  Art  of  the  Eskimo.     Report  of  the  U.  S.
-
-National  Museum,  p.  764.     Washington,  1897.
-
-■—Howard,  B.  Douglas.      Life  with  Trans-Siberian  Savages.     London,
-1893.
-
-
-346  BIBLIOGRAPHY
-
-Humboldt,  A.  Im  Ural  und  Altai.  Briefweclisel  zwischen  A.  von
-Iliinilioklt  unci  Gnif  S.  von  Cancrin  aus  den  Jahron  1827-32.
-Leipzig,  1869.     (Kng.  trans,  by  Macgillivray.)
-
-Fragniente  einer  Geologie  und  Klimatologie  Asiens.     IJerlin,  1882.
-
-Reise  nacli  dem  Ural,  dem  Altai,  und  dem  Kaspischen  Meere  .  .     ini
-
-Jalire    1829   ausgefiihrt  von  A.  von  Humboldt.  (J.  Khrenberg  und
-
-li.  Kose.     Berlin,  1S37  92.
-Jackson,  F.  G.     Notes  on  the  Sauioyailt^  of  the  Great  Tundra,  collected
-
-from  the  journals  of  F.  G.  Jackson,  F.R.G.S.  .  .  .  by  A.  Montefiore.
-
-Journal  of  the  Anthrop.  lust.  Vol.  XXIV,  Aug.  1894-May,  1895.
-
-Jochelson,  W.     The  Mythology  of  the  Koryak.     American  Anthroi)olo-
-
-gist,  July-September,  1904.
-. Kssay  on  the  Grammar  of  the  Yukaghir  Language.     Annals  N.  Y.
-
-Ac.  Sc.     New  York,  1905.
-
-The  Koryak.     J.  N.  P.  E.,  Vol.  VI.     New  York,  1905-8.
-
-■ Kumiss  Festi\als  of  the  Yakut.     Boas  Anniversary  Volume.     New
-
-York,  1906.
-Past  and  present  Subterranean  Dwellings  of  the  tribes  of  North-
-
-Eastern    Asia    and    North-western    America.      Int.    Congr.   Amer.
-
-guebec,  1906.
-The  Yukaghir  and  the  Vnkaghirizcd  Tungus.     J.  N.  P.  E.,  Vol.  IX.
-
-New  York,  1910.
-Johnson,  R.     '  Certaine  Notes  unperfectly  written  l>y  Richard  Johnson  '
-
-in  1556.     Hakluyt's  Collection  (a  new  ed.J.     London,  1809.
-
-
-Xaarle,  Krohn.     Birth  :  Finns  and  Lapps.     Enc.  Rel.  and  Eth,  Vol.  II.
-
-London,  1910.
-Karjdlainen,  K.  F.     Zur  ostjakischen  Lautgeschichte.     Memoires  de  la
-
-Societe  Finno-O.igrienne,  XXII I.     Helsingfors,  1905.
-
-Kennan,  G.     Tent-life  in  Siberia  and  adventures  among  the  Koriak  and
-
-other  tribes  in  Kamtchatka  and  Northern  Asia.     London,  1870.
-^ Siberia.     London  and  New  York,  1891.
-
-Kjellman,  F.  R,     Om  Tschuktschernas  hushallviixter.     Vega-expcditio-
-nens  vete.iskapliga  iakttagelser,  &c.     Vol.  I.     1882,  &c.
-
-Bidrag  till  kilnnedonien  om  Tschuktscherna.    Vega-expeditionens
-
-vetenskapliga  iakttagelser,  &c.     Vol.11.     1882,  &c.
-
-Klapi^oth.     Recherches   sur   le   pays  de  Fousang,  mentionne  dans  les
-
-livres  chiuois  et  pris  mal-a-propos  pour  une  partie  de  TAmerique.
-
-1831.
-Kleinschniidt,  S.     Grammatik  der  gronlandischcn  Sprache  mit  theil-
-
-weisem  Einschluss  der  Labradorsprache.     Berlin,  1851.
-Klementz,  D.      Buriats.     Enc.   Rel.   and  Eth.,    Vol.  III.,  J.  Hastings.
-
-London,  1910.
-Koganei.   Die  Urbewohner  Japans.    Mitteilungen  der  deutschen  Ge&ell-
-
-schaft  fiir  Natur-  und  Volkerkunde  Ostasiens  in  Tokio.     Band  IX,
-
-Teil  3.     1903.
-Kohn,  A.,  und  Andree,  R.     Sibirien  und  das  Amurgebiet,  Bd.  I  u.  H.
-
-Leipzig,  ls76.
-Kotzebue,    Otto.      Entdeckungsreise    in    die    vSiidsee    und    nach    der
-
-Beringstrasse.     Weimar,  1821.
-
-
-BIBLIOGRAPHY  347
-
-Krause,  A.  Die  BevulkciuiigsverlulUnisse  der  Tschuklsohcn  Hiilbinsol.
-Dout.  geo-ji.  Blatter,  Vol.  VI.     Bremen,  1883.
-
-und  Aurel.     Die  wissenselniftliche  Kxjiedition  der  Bremer  geogra-
-
-phisehen  Gesellschatt  nacli  den  Kiistengebieten  an  der  Bering-
-strasse.    Deutsche  geographische  Blatter,  Vol.  I\,  V.    Bremen,  1881.
-
-Die  Expedition  der  Bremer  geographiselien  Gesellschaft  nach
-
-derTsehuktschen  Halbinsel.  Deutsche geogr.  Blatter, Vol. V.  Bremen,
-188"J.
-
-Kuznetrof.  Age  de  la  pierre  au  Japon.  Plater,  hist,  homme,  p.  31.
-Toulouse-Paris,  1879,
-
-Landor,  A.  H.  Savage.     Alone  witli  the  Hairy  Ainu.     London,  1S'.j3.
-
-Langsdorff.  Bemerkungen  auf  einer  Reise  um  die  AVult  in  uen  Jalir.ii
-1803-7.     Frankfurt.
-
-Lansiell,  Dr.  H.     Through  Central  Asia.     London,  1887.
-
-' Through  Siberia.     London,  1882.
-
--Latham,  R.  G.     Native  Races  of  the  Russian  Empire.     1853,  1854.
-
-Laufer,  Berthold.  The  Decorative  Art  of  the  Amur  Tribes.  Yesup  U.
-r.  Ex.,  Vol.  IV,  part  1.     New  York,  1902.
-
-Legras,  Jules.     En  Siberie.     Paris,  1889.
-
-Leroy-Beaiilieu.     LEmpire  des  Tsars.     1898.
-
-Lesseps.     Reise  durch  Kamtschatka  und  Sibirien.     Berlin,  ITUl.
-
-Mainofif,  V.  N.  Les  Restes  dc  la  mythologie  mordviuc,  lb>;9.  Academy,
-Helsingfors.
-
-Marfin,  F.  R.     Sibiriea.     Stockholm  (Gustav  Ehelius),  1897.
-
-Markham,  R.  On  the  Origin  and  Migrations  of  the  Greenland  Esqui-
-maux. Journ.  of  the  Royal  Geograidiical  Society,  Vol.  XXXV,  p.  87.
-London,  186.3.
-
-Matthevsrs,  W.  Navaho  Myths.  Prayers,  and  Songs.  Univ.  of  Califor-
-nia, 1907.
-
-Maydell,  G.  v.  Reisen  und  Forschungen  im  jakutsklschen  Gebiete
-Ostsibiriens  in  den  Jahren  1861-71.     Petersburg,  1893,  1896.
-
-Michie,  H.     The  Siberian  Overland  Route.     London,  1864.
-
-Middendorfif,  A.  Th.     Sibirische  Reise.     Petersburg,  1848-75.
-
-Mueller,  Friedrich.     Allgemeine  Ethnographie.    Menna,  1873.
-
-Grundriss  der  Spiachwissenschaft.     Vienna,  1876-88.
-
-Miiller,  Rt.  Hon.  Fried "ieh  Max.  The  Science  of  Language.
-London,  1891.
-
-Miiller,  J.  B.     Leben  und  Gewohnheiten  der  Ostjacken.     Berlin,  1720.
-
-Miiller,  T.      Unter  Tungusen    und    Jakuten.      Leipzig,    1882    (F.    A.
-
-Brockhaus).
-Munkacsi,  B.     Altere  Berichte  iiber  das  Heidenthum  der  Woguleu  und
-
-Ostjaken.     Kel._ti  Szemle,  IH.     Budapest,  1902.
-Die  Weltgottheittn  dct   wogulischen  Mythologie.     Keleti  Szemle,
-
-Vll-X.     Budapest,  1906  9.
-Gotzenbilder  und  Gotzengeister  im  Volksgiauben   der   Wogulen.
-
-Ibid.  VI.     Bu  lapest,  1006.
-■ Seelenglaube  und  Totenkult  der  Wogulen.     Ibid.  VI.     Budapest,
-
-19J5
-
-
-348  BIBLIOGEAPHY
-
-Murdoch,  John.  On  the  Siberian  Oiigin  of  some  customs  of  the
-Western  Eskimo.     Anier.  Anthropologist.     Washington,  188S.
-
-Ethnological  Results  of  the  Point   Barrow    Expedition.    General
-
-Report  of  the  Bureau  of  Ethnology.     Washington,  lt>92.
-
-Nelson,  E.  W.  The  Eskimo  about  Bering  Strait.  Eighteenth  Annual
-Report  of  the  Bureau  of  Ethnology.     Washington,  1881).
-
-Nordenskiold,  Freiherr  A.  E.  von.  Die  Uuisegelung  Asieus  und
-E uropas  auf  der  Fc'f/a.     Leipzig,  1882.
-
-The  Voyage  of  the  Veya  round  Asia  and  Europe  (trans.  A.  Leslie).
-
-London,  1886.
-
-Nordquist,  O.  Tscbuktschisk  ordiista.  Vegaexpeditionens  veteuskap-
-liga  iakttagelser,  &c..  Vol.  L     Stockholm,  18S'2,  &c.
-
-Anteckningar  och  studier   till  Sibiriska  Tshafskustens  diiggdjurs-
-
-fauna.  Vega-expeditionens  vetenskapliga  iakttagelser,  &c.  Vol.  II.
-Stockholm,  1882,  &c.
-
-Paasonen,  H.    Uber  die  tiukischen  Lehnwcirter  ini  Ostjakischen.     Fin-
-
-nisch-ugrische  Forschungen,  II.     Helsingfors,  1902.
-Uber  die   urspriinglichen    Seelenvorstellungen    bei    den   finnisch-
-
-ugrischen  Volkern  ....      Journal  de  la  Societe  Finno-Ougrienne,
-
-XXVI.     Helsingfors,  1909.
-Pallas,    P.   S.      Reise    durch    verschiedene    I'rovinzen  des    Russischen
-
-Reichs,  l-lll.     Petersburg,  1771-6.
-Sammlungen  der  histoiischen  Naehrichten  iiber  die  mongoliscben
-
-Vcilkerschaften.     1787.
-
-Travels  through  Siberia  and  Tartary.     London,  1788.
-
-Patkanoff,  S.      Die  Irtysch-Ostjaken  und  ihre  Volkspoesie.     I.  R.  A.  S.
-
-Petersburg,  1897,  1900.
-Depouillement  des  donnees  sur  la  nationalite  et  classification  des
-
-peuples  de  I'Empire  russe  d'apres  leur  langue.     Petersburg  (Cent.
-
-Stat.  Com.),  1899.
-Aper^u   statistique  et  ethnogiaphique  de  la  province  de  lAmour.
-
-Petersburg,  1901.
-Essai  d'une  statistique  et  d'une  geographie  des  peuples  paleo-asia-
-
-tiques  de  la  Siberie.     Petersburg  (Gen.  Stat.  Com.),  1903.
-Pauly,  Th.  de.      Description  ethnographique  des  peuples  de  la  Russie.
-
-Petersburg,  1862.
-Perouse,  J.  F.,  Galaup  de  la  (Count).     A  Voyage  round  the  World  in
-
-1785-8,  edited    by   M.  C.  A.  Milet-Mureau.     Translated  from  the
-
-French.     London,  1798.
-Peti'oflf,  J.     Report  on  the   Population,  Industries,  and    Resources  of
-
-Alaska.     Report  U.  S.  Census,  1880.
-Pfizmaier,  A.     Die  Sprache  der  Aleuten  und  Fuchsinseln  (translated
-
-from  Veniaujinolf's  work).      Reprinted  from  the  '  Sitzungsberichte
-
-der   phil.-hist.     Klasse   der   kais.    Akademie  der    Wissenschaften.'
-
-Vienna,  188-1.
-»  Pietrowski,  K.     My  Escape  from  Siberia.     London,  1863.
-Pilling,  J.  C.     Bibliography  of  the  Eskimo  Language.     Bureau  of  Eth-
-nology.    Washington,  1887.
-Pilsudzki,  B.     L'accuuchement,  la  grossesse  et  Tavortement  chez  les
-
-indigenes  de  Tile  Sakhaline.     Bull,  et  Mem.  de  la  Soc.  dAnthr.  de
-
-Paris,  1909.
-
-
-BTBLrOORAPIIY  849
-
-Pilsudzki,  B.    Schwanfroischaft,  Entbindutifif  unci  Feliloreburt  boi  den
-
-Bowohnorn  dor  In?ol   Sachalin  —  Giljaken  und   Ainu.    Anthropos,
-
-Bd.  V,  Heft  4.     Vienna.  1910.
-
-Trad  wsrod  Gilakow  i  Ainow.    Liid.     Lemberg,  1913.
-
-Nii'dzwiedzic  swi^to  u  Ainow.     Sphinx.     Warsaw.
-
-Pinart,  A.  L.     Les  Aleoutis,  leurs  origines  et  leurs  legendes.     Actes  de
-
-la  Soc.  d'Ethnog.     Paris,  1872-3.
-
-La  Caverne  d'Aknaut,  tie  d'Ounga.     Paris,  1875.
-
-Preuss.  T.     Die  Begriibnisarten  der  Amerikaner  iind   Nordostasiaten.
-
-Kiinigsberg.  1S04  (Hartungsche  Buchdiuekerei).
-.Price,  M.  P.     Siberia.     London,  1912.
-
-RadlofF,  Vasily  Vasil'evich.     Das  Schamanenthnm    and  sein   Kultus.
-
-Leipzig,  18S.J.
-RadlofF,  W.    Aus  Sibirien  (Leipzig,  1884;  l.Ausg.).    Bd.  lu.  IF.    2.  Ausg.
-
-Leipzig.  1884  (T.  D.  Weigel).
-Eeclus,  E.     Primitive  Folk ;  on  '  The  Western  Innoits,  especially   the
-
-Aleutians.'     London,  1890.
-Rink,  H.  The  Eskimo  Tribes,  their  distribution  and  character,  especially
-
-in  regard  to  language.     London,  18^7.
-The   Eskimo  Tribes.      Meddelelser  om   Gronland,  Vol.  XT,   1887,
-
-pp.  4ff.     Supplement  Medd.  om  Groiil.,  pp.  19  ff.
-Rose,  G.     Reise  nach  dem  Ural  .  .  .  (ausgefiihrt  von  A.  von  Huml)oldt,
-
-G.  Ehrcnberg  und  G.  Rose).     Berlin,  1837-42.
-Rose,  Hermann.     Meine  Erlebnisse  auf  der  preussischen   Expedition
-
-nach  Ostasien  in  1860-2.     Kiel,  1895.
-
-Sauer,  Martin.     An  Account  of  a  Geogr.  P]xpedit:on  to  the  Northern
-
-part  of  Russia  in  1785-94.     London,  1802.
-Scheube,  B.     Die  Ainos.     Yokohama,  1882.
-Sehiefner,  A.     Das  dreizehnmonatliche  Jahr  und  dio  Monatsnamen  der
-
-sibirischen  Volker.     Petersburg,  1857.
-Schott,  W.     Wohin  gehort  das  Wort  Schamane  ?  2nd  book   of   Altai-
-
-jische  Studien,  p.  138.     Berlin,  1831.
-
-Altajische  Studien.     Berlin,  1860.
-
-Schrenck,  A.  Q.     Reise  nach  dem  Nordosten  des  europjiischen  Russ-
-
-lands,  durch  die  Tundren  dtn-Samojedenzum  arktischen  Uralgebirge,
-
-etc.     Dorpat,  1848-54.
-Schrenck.  Leopold  von.     Reisen  und  Forschuncren  im  Amur-Lande  in
-
-den  Jahren  1851  6.     4  Bdc.     Petersburg,  18.58-1900.
-
-Die  Volker  des  Amurlandes.     Petersburg,  1891.
-
-Schwarz,  Bernhard.     Quer  durch  Sibirien.     Bamberg,  1898.
-
-Seebohm,  H.    The  Birds  of  Siberia.     London,  1901.
-
-Shimkevich,  N.  M.     Zur  Pantopoden-Fauna  des  sibirischen  Eismeeres.
-
-Mem.  Imp.  Acad.  Sci.  Saint  Petersburg,  8th  series,  1895, &c.    Peters-
-
-1  urg.  1907.
-
-Siebold,  H.  von.     Ueber  die  Aino.
-
-Sieroszewski.  W.  L.    12  hit  vv  kraju  Jakutow  (12  years  in  the  land  of
-
-the  Yakut).     Warsaw,  1900.
-Du  chamanisme.     Rev.  de  I'Hist.  des  Rel.     Paris,  1902.
-
-
-050  BIBLIOGRAPHY
-
-Smith,  H.  I.     The  Archaeology  of  Lytton,  B.C.     J.  N.  P.  E.     Vol.  III.
-
-Archaeology  of  the  Thompson  River  Region.     J.  N.  P.  E.    Vol.  VI.
-
-Cairns  of  British  Columbia  and  Washington.     J.  N.  P.  E.     Vol.  II.
-
-Shell-heaps  of  the  Lower  Frazer  River.     J.  N.  P.  E.     Vol.  IV.
-
-Archaeology  of  the  Gulf  of  Georgia  and  Puget  Sound.    J.  N.  P.  E.
-
-Vol.  VI.
-
-Sommier,  St.     An  Estate  in  Siberia.     Florence,  1885.
-
-Staat.     Das  Allerneuste  von  Sibirien.     Niirnberg,  1720.
-
-Stadling,  J.     Shamanismen  i  Norra  Asien.     Stockholm,  1912.
-
-Shamanism.     Contemp.  Rev.,  1901.
-
-Stein,  V.  J.  Die  Tschuktschen  am  Ufer  des  Eismeeres.  St.  Petersb.
-geogr.  Mitt,  pp.  41-5,  18S1.
-
-Steller,  G.  W.  Beschreibung  von  dem  Lande  Kamtschatka.  Peters-
-burg, 1774.
-
-Reise   von   Kamtschatka   nach    Amerika   mit  dem    Kom.  Bering.
-
-Petersburg,  1703.
-
-Sternberg,  L.     The  Orochi.     Vladivostok,  1896.
-
-The  Tribes  of  the  Amur  River.     Yesup  North  Pacific  Expedition,
-
-1900,  &c.     Vol.  IV.     New  York.
-
-The  Cult  of  Inau.    Boas  anniversarj^  volume.
-
-The  Turano-Ganowanian  System  and   the   Nations   of  N.E.  Asia.
-
-Memoirs  of  the  Congress  of  Americanists,  1912.
-
-Stoddard,  C,  A.     Across  Russia.     London,  1891.
-
-Stoll,  Otto.  Suggestion  und  Hypnotismus  in  der  Volkerpsychologic.
-Leipzig,  1906,
-
-Strahlenberg.  Der  nordostliche  Theil  von  Europa  und  Asien.  Stock-
-holm, 1730.
-
-Swanton,  J.  K.     Haida  Texts.     J.  N.P.  E.    Vol.  X.
-
-The  Haida  of  Q.  Charlotte  Is.    J.  N.  P.  E.    Vol.  V.
-
-Szinnyei,  J.     Finnisch-ugrische  Spracliwissenschaft,  1910.
-
-Talko-Hryncewicz.  Memoirs  of  the  Congress  of  Scientists  and  Physi-
-cians.    Cracow,  1911.
-
-Teit,  J.  The  Thompson  Indians  of  British  Columbia.  J.  N.  P.  E.
-Vol.  IV.
-
-The  Lillooet  Indians.     J.  N.  P.  E.     Vol.  V.
-
-The  Shuswap.     J.  N.  P.  E.     Vol.  VII.
-
-Teumin,  S.  Topographisch-anthropometrische  Untersuchungen  iiber
-die  Proportionsverhiiltnisse  des  weiblichen  Korpers.     Zurich,  1901.
-
-Thalbitzer,  W.  A  Phonetical  Study  of  the  Eskimo  Language  based
-on  Observations  made  on  a  Journey  in  North  Greenland,  1900-1.
-Copenhagen, 1904.
-
-Trevor-Battye,  A.     Icebound  on  Kolguev.
-A  Northern  Highway  of  the  Czar.
-
--Wallace,  Sir  D.  Mackenzie.     Russia.     London,  1905.
-
-Wasiljev,  J.  Ubersicbt  iiber  die  heidnischen  Gebrtiuche,  Aberglaubcn,
-und  Religion  der  Wotjaken.  Memoiresde  la  Societe  Finno-Ougrienne,
-XVIII.     Helsingfors,  1902.
-
-
-BIBLIOGRAPHY  351
-
-Whitney,  W.  D.  -Max  Miiller  and  the  Science  of  Langua<,'0.  New-
-York,  1S92.
-
-Wichmann,  Yrjo.  Die  tschuwassischen  Lehnwcirter  in  den  peimischen
-Spiachen.  Memoires  de  la  Societe  Finno-Ougrienne,  XXI.  Helsing-
-fois,  19u3.
-
-Tietoja  votjaakien  mytologiiasta,  Suomi,  III.     Helsinki,  1893.
-
-Wotjakische  Sprachproben,  I-II.  Journal  de  la  Societe  Finno-
-Ougrienne.  XI,  XIX.     Helsingfors,  1901.
-
-Wiedemann,  F.  Ciassifik.  der  Bevolkerung  des  Russ.  Reiches  nach  den
-Sprachen.  St.  I'etersburger  Kalender  fiir  das  Jahr  1860  (pp.  62-336).
-
-Windt,  H.  de.     Siberia  as  it  is.    London,  1892.
-
-Wrangell,  F.  v.  Von  dem  Verkebr  der  Volker  der  Nord-West-Kiiste
-von  Amerika  untereinander  und  niit  Tschuktschen.  Beitriige  zur
-Kenntniss  des  Rus.siscben  Reicbes  und  der  angrilnzenden  Lander
-Asiens,  Vols.  LVII  LXV.     Petersburg,  1839.
-
-
-GLOSSAEY
-
-A.
-
-abagaldey  (Bur.),  the  shamt^n's  mask  of  wood,  skin,  and  metal,
-abagay  (Alt.),  uncle  (paternal),  said  of  clansmen  older  than  the  speaker,
-
-and  related  to  him  throii<^h  his  father,
-abassy   pi.    abassylar  (Yak.),  a  'dark'  or  evil  spirit;   abassy-oiuna,
-
-shamans   with    malevolent   familiar   spirits;    abassy-ysyakh,   the
-
-autumn  festival  dedicted  to  the  black-spirits,  held   at   night,  and
-
-conducted  by  nine  shamans,  and  nine  shamanesses.
-aba-tyus  (Alt.),  'wear's  tooth';    part  of  the  ornamentation  on  the  sha-
-man's drum,  above  the  circumferential  dividing  liriC.
-abionesh(Alt.),  '  old  woman  ',  grandmother,  applied  to  clanswomen  much
-
-older  than  the  speaker.
-achim  (Alt.*,  nephew  (paternal);  applied  to  clansmen  younger  than  the
-
-speaker  related  to  him  through  his  father.
-acicenaqu  (Kor.),  '  big  grandfather ',  a  name  for  Big  Raven,  the  organizer
-
-of  the  universe.
-ada  or  anakbay  (Bur.),  one-eyed  evil  spirits,  especially  harmful  to  young
-
-children.
-adilparmint  (Esk.),  the  cold,  dark,  underground  abode  of  the  dead,
-aga  (Yak.),  'older',  the  term  applied  to  one's  father,
-aga-usa  (Yak.),  'father-clan',  clan.
-ag-prenya  (Bur.),  an  ongon  of  horse-skin  made  for  the  protection  of
-
-young  children.
-ahmalk  (Gil.),  'father-in-law  clan',  giving  wives   to   a  corresponding
-
-son  in-law  clan.
-aibi  (Kor.),  an  ancestor  reincarnated  in  one  of  his  descendants.
-ail-buzar  (Alt.),  '  destroying  the  house  ',  part  of  the  marriage  cei'emony
-
-among  the  Teleut,  in  which  one  of  the  bride's  male  relatives  tears
-
-away   a    portion   of  the   wall   of    the   bridegroom's   yurta,   being
-
-mounted  and  simulating  an  attempt  to  escape  from  the  occupants,
-aimak  (Y^ak.*,  older  name  for  a  nasleg.
-aiy  (Y^ak.),  'white  '  or  good  spirits  ;  aiy-oiuna,  shamans  who  serve  these  ;
-
-aiy-udagana,  '  white  '  shamanesses  ;  aiy-ysyakb,  the  spring  festival
-
-dedicated  to  the  'white  '  spirits.
-ak-baga  and  kara-baga  (Alt.),  'white'  and  'black  frog',  servants  of  the
-
-high  god   Ulu-khan  — part  of  the  ornamentation   on  the   shaman's
-
-drum  below  the  circumferential  dividing  line.
-akha  (Bur.),  'taboo',  said  of  a  grove  of  birches  containing  the  ashes  of
-
-deceased  shamans.
-alaranto  virgin  (Chuk.).  'a  journey  out  of  loneliness',  ceremonial  visit
-
-paid  by  a  bride  to  her  parents  a  short  time  after  her  marriage.
-Alash  (Kirg.),   watchword  of  the   Kirgis  of  the  Great,  Middling,  and
-
-Little  Oi'das,  from  the  name  of  the  mythical  tribal  ancestor.
-Alcheringa  (Aruuta),  the  age  of  myth,
-algysh-sez  (Alt.),  'blessing  the  bride'  before  she  leaves  her  parents'
-
-house.
-alkha  (Bur.),  a  monster  without  trunk  or  limbs.
-
-
-GLOSSARY  353
-
-amagyat  (Yak.\  ancestral  spirit  associated  with  shamanistic  power;
-invisible,  impersonal  power  communicated  by  old  shamans  to  young ;
-figure  on  a  shaman's  coat  symbolic  of  these.
-
-amban  (Uriank.),  chief  ogiirta.
-
-amin  (Bur.),  lower  soul,  breath  — one  of  the  three  parts  of  man.
-
-amulin  (Chuk.),  '  weakling',  a  slave  ;  ciq-amulin,  '  very  weak  one  '.
-
-amiirakh  (omurax,  meriak)  (Yak.),  a  nervous  affection  characterized
-by  the  patient's  imitating  involuntarily  movements  and  sounds
-Avithin  his  sight  or  heai-ing  (amirak,  'sensitive';  amyrakh,
-'compliant ' ).
-
-anan-loho-lercte  (Yak.),  'mouth-opener',  gifts  brought  by  the  match-
-maker to  a  prospective  father-in-law.
-
-anapel  (Kor.l,  '  little  grandmother  ',  a  divining  stone  used  to  determine
-what  ancestor's  name  is  to  be  given  to  a  child.
-
-angey  (Gil.),  '  wife '— classificatory  term.
-
-anna  ( Yak. ),  a  bride's  dowry  ;  anna  tangaha,  her  clothes ;  anna  siekhi,
-the  cattle  she  takes  to  her  husband.
-
-anqaken-etinvilan  (Kor.),  'Master  of  the  Sea',  a  supernatural  being
-vaguely  associated  with  the  sea.     anqa,  sea.
-
-anqa-vairgit  (Chuk.),  supernatural  'beings  of  the  sea',     anqa,  sea.
-
-apapel  (Ivor.  I,  spirit-protectors  of  hunters  and  travellers,  apa, '  father',
-'  grandfather '.
-
-aptah-kisi  (Yak.),  '  sorcerers.'
-
-aranga  (Bur.),  a  platform  on  which  the  corpse  of  a  shaman  is  exposed.
-
-arangka  ( Yak.  i,  a  platform  on  whicli  a  corpse,  especially  that  of  a  sha-
-man, was  formerly  exposed.
-
-arbu  (Bur.  I,  a  cart.
-
-armaci-ralin  (Maritime  Chuk.),  'the  one  of  the  house  of  the  strongest',
-the  most  influential  man  in  a  village.
-
-armaci-ran  (Mar.  Chuk.),  '  house  of  the  strongest '  in  a  village.
-
-aru-neme  lak-neme)  (Alt.),  good  spirits;  kara-neme,  evil  spirits.
-
-attooralin  or  aunralin  (Chuk.),  'the  one  in  the  chief  or  '  front  house',
-the  master  of  a  reindeer  Chukchee  camp.
-
-attooran  (Chuk.),  'front  house  ',  chief  house.
-
-attwat-yirin  (Chuk.),  'boatful',  boat's  crew,
-
-attw-ermecin  (Chuk.),  'boat  master',  helmsman  and  owner  of  a  boat.
-
-aunralit  (Chuk.),  'masters'  or  spirits  animating  forests,  rivers,  lakes,
-animals.
-
-ayabol  (Yuk.),  name  for  an  unmarried  woman  with  several  lovers.
-
-ayellakh  (Yak,),  '  reconciled  ',  'peaceful ' — an  alliance  of  clans.
-
-B,
-
-bai-kazyn  (Alt.),  'rich  birch',  part  of  the  ornamentation  on  the  sha-
-man's drum  below  the  circumferential  dividing  line.
-
-baksa,  basky  ( Kirg.),  shaman.
-
-balyk-timir  (Yak.),  'fish ',  a  symbolic  figure  on  the  shaman's  coat  in  the
-shape  of  a  fish.  It  trails  behind  on  the  ground  as  a  bait  for  spirits,
-being  fastened  to  the  coat  by  a  long  leather  strap,
-
-balys  (Yak.),  younger,
-
-bar  I  Alt.),  the  handle  of  the  shaman's  drum.  It  has  the  form  of  a  human
-figure.
-
-barky  (Alt.),  a  gift  which  a  boy  receives  at  the  age  of  seven  from  his
-maternal  uncle.
-
-bash-tutkan-kiski  (Alt  •,  'holder  of  the  head'  of  the  sacrificial  horse  at
-the  sacrifice  to  Bai-Yulgen.
-
-bashtut-khan  (Alt.),  family  deity  of  the  yurta.
-
-
-354  GLOSSARY
-
-batyr  (Yak.),  a  warrior.
-
-bayga  (Alt.),  five  feasts  held  in  connexion  with  a  marriage.
-
-billiryk  (Yak.),  a  seat  for  honoured  guests  at  the  right  side  of  the  yurta  ;
-
-'left'  billiryk,  seat  and  sleeping  place  for  women,
-bis-usa-toyou  (Yak.),  chief  of  a  clan.
-bo  (Bur.),  a  shaman.     Bogi-narhan,  'the  birch  of  a  shaman',  in  the
-
-trunk  of  which  the  ashes  of  a  dead  shaman  are  deposited.
-bokholdoy  (Bur.),  the  form  in  which  amin,  the  lower  soul,  continues  to
-
-live  on  earth.
-bol  (Gil.),  a  class  of  good  spirits.
-bomo  (Bur.),  the  spirit-'  owner  '  of  sibirskaya  yazva.
-buge  (Mong.),  a  shaman,
-bun  (Tung.),  the  place  of  the  dead.
-
-biirgiine  (Yak.),  two  disks  on  the  shoulders  of  a  shaman's  coat,
-bytyrys  (Yak.),  a  long  fringe  of  hollow  copper  balls  (ehoran)  attached
-
-by  leather  straps  to  the  lower  edge  of  a  shaman's  coat.
-
-
-carmoriel  (Yuk.),  a  nervous  affection  like  menerik.
-
-ceneyine  (Kor.),  head-piece  for  the  fire-drill.
-
-charamni  (Yak.),  horses  with  richly  decorated  saddles.  They  bear
-a  bride's  anna.
-
-chayu  (Alt.),  spirits  or  spiritual  power  possessed  by  a  shaman.
-
-chekhn-kun-inau  (Gil.),  an  inau  or  fetish  placed  upon  a  tree  while  it  is
-being  cut  down  to  receive  the  spirit-'  owner '  of  the  tree.
-
-chilliryt  kyhan  (Yak.),  flat  metal  plates  fastened  to  the  back  of  a  sha-
-man's coat.
-
-chitkur  (Diurbiut),  an  evil  spii-it  harmful  to  young  children.
-
-chotunniU'  (Yak.),  having  sexual  intercourse  with  a  woman,  or  making
-her  your  hostess;  formerly  said  of  the  custom  of  brothers  having
-such  intercourse  with  their  sister  before  she  was  given  to  a  husband.
-
-chshity-kyz  (Alt.),  '  seve-n  maidens '  who  bring  seven  diseases  on  men  ;
-part  of  the  ornamentations  on  the  shaman's  drum  below  the  circum-
-ferential dividing  line.
-
-chshity-us  (Alt.),  spirits  associated  with  seven  nests  and  seven  feathers  ;
-part  of  the  ornamentation  on  the  shaman's  drum  below  the  circum-
-ferential dividing  line.
-
-chum,  the  tent-like  dwelling  in  use  among  the  Finnic  and  Samoyedic
-tribes.
-
-chyx'-ngykh  (Gil.),  a  shed  built  near  the  place  where  a  person  has  been
-killed  by  a  bear.
-
-cln-yirin  (Chuk.),  'collection  of  those  who  take  part  in  blood-revenge',
-a  varat.
-
-cireske  maci  (Ain.),  'the  brought-up  wife',  a  girl  betrothed  to  a  man
-older  than  herself.
-
-coro-mimebonpe  (Yuk.),  '  men  of  the  clan  ',  the  term  for  the  system  of
-relationship;  also  coro-monulpe ,  'relatives'.
-
-cuboje-yono  (Yuk.),  'heart-anger',  blood-ievenge.
-
-D.
-
-dakhul  (Bur.i,  a  malicious  spirit  — the  soul  of  a  deceased  poor  person,
-dansari  (Tung.  I,  a  marriage  ceremony,
-darkhan,  pi.  darkhat  (Bur.),  a  smith.
-
-degnym  (Alt. I,  nephew  (maternal),  applied  to  clansmen  younger  than
-the  speaker  related  to  him  through  his  mother.
-
-
-GLOSSARY  355
-
-djakhter-em  (Yak.).  '  my  woman',  toim  used  in  addressing  one's  wife.
-djon  (Yak.),  old  niinie  for  a  larger  social  group,
-donkiir  (Uri.),  the  shaman's  drum,
-diigiir  (Yak.),  a  stringed  instrument  used  by  shamans.
-diingiir  iMong. ),  the  shaman's  drum.
-
-dyrelacho  xiri  (Tung.),  '  first  meeting  of  the  two ',  i.  e.  of  the  bride  and
-bridegroom  at  the  dansari.
-
-E.
-
-edem  (Alt.),  an  elder  sister.
-
-eezi  (Alt.  I,  'owner'  spirits  of  the  sun,  moon,  mountains,  rivers,  forests.
-
-elhogicnin  (Kor.),  'wolf-stick-festival',  the  wolf-festival  of  the  Maritime
-Koryak.
-
-elomen  (Yuk.),  madness.
-
-emjepul  (Yuk.),  classificatory  term  including  brothers,  sisters,  cousins
-(male  iind  female)  of  the  father  and  mother.
-
-enen  (Cbuk.),  shamanistic  spirit;  enenilit,  'those  with  spirit' — pro-
-fessional shamans.
-
-Ennanenak  or  Nenenqal  (Kor.),  'on  the  opposite  side',  the  abode  of
-the  dead.
-
-ennen-mulilit  (Chuk.),  'those  of  the  same  blood',  i.e.  of  the  blood  used
-for  sacrificial  anointment-paternal  relatives.
-
-erim  (Yak.),  '  my  man  ',  referring  to  a  husband,
-
-erke  (Chern  Tart.),  family  deity  of  the  yurta.
-
-Erlen-Tama  iBur. ).  the  smaller  of  two  dungeons  to  which  souls  are
-consigned  after  death.
-
-ermecin  (Chuk.),  'strong  man'— a  hero  in  the  old  Chukchee  legends;
-nowadays  (especially  among  Maritime  Chukchee),  the  most  influen-
-tial man  in  the  community  on  account  of  his  physical  prowess.
-
-Etin  (Kor.),  '  master',  a  name  for  the  Supreme  Being.
-
-etinvit  (Chuk.),  'owners',  or  spirits  animating  forests,  rivers,  lakes,
-animals.
-
-Etugen  (Mong,),  the  earth-goddess.
-
-ewganva-tirgin  (Chuk.),  'producing  of  incantations',  an  incantation-
-shaman.
-
-eyet  (Kor.),  '  bow  ',  the  bow  for  turning  the  fire-drill.
-
-G.
-
-gam  (Alt.),  shaman.
-
-gellung  (Kal.),  priest.
-
-gicgic  or  gecgei  (Kor.),  the  fire-board.
-
-Gieholan  iKor. ),  'The-One-on-High' ;  Gicholetinvilan, 'The- Master  on-
-High  '.     Names  for  the  Koryak  Supreme  Being.
-
-ginon-kanon  Chuk.),  'middle  crown',  a  benevolent  being  residing  in
-the  zenith.
-
-Girgol-vairgin  (Chuk.),  '  Upper  Being  '.
-
-gupilin  (Chuk.),  '  working-man  ',  slave  ;  any  worker.
-
-II.
-
-haraman  or  samman  ('Tung.),  shaman.
-
-harain-bo  (Bur.),  'black'  shamans.
-
-hetolatirgin  (Chuk.),  'one-looking-into',  a  prophet-shaman.
-
-hobo  (Yak),  tongueless  copper  bells  suspended  from  below  the  collar  of
-
-a  shaman's  coat,
-hodohoi  tiuser  (Yak.),  'the  arrival  of  the  match-makeress '  or  wife  of
-
-the  match-maker  at  the  house  of  the  bride's  parents.
-
-A  a  2
-
-
-356  GLOSSAEY
-
-hoinohor  kasi  (Yak.),  'the  gift  for  the  night',  part  of  the  kalym.
-hoku-eikara  (Ain.),  '  making  my  husband  ',  a  ceremony  performed  by
-
-a  bride  of  presenting  certain  gifts  to  her  husband.
-homuB  (Yak.),  the  '  jew's-harp '.
-
-
-iasso  (Gil.),  iron  links  on  the  shaman's  girdle.
-
-ichchi  (Yak.),  a  spirit-' owner '.
-
-ichchylakh  C^'ak.),  a  hereditary  blacksmith's  tools  which  have  the  power
-
-of  emitting  sounds  of  themselves.
-iik  (Alt.),  a  light-coloured  horse  sacrificed  to  the  good  god  Yulgen  by
-
-a  bridegroom.
-ijin  (Bur.),  an  'owner'  or  spirit  residing  in  some  object,
-ike-karagus  (Alt.),  two  black  birds,  messengers  of  the  shaman  to  the
-shaitans  ;  part  of  the  ornamentation  on  the  shaman's  drum  above
-the  circumferential  dividing  line,
-ilshi  or  bydek  (Bur.),  intermediaries  between  the  'eastern'  and  the
-
-'  western '  khats.
-ilhun  or  elgoi  (Kor.),  an  arrow  placed  near  the  hearth  at  the  (Maritime)
-
-wolf- festival.
-imu  (Ain.),  mimicry  mania  (amurakh).
-Inahitelan  or  Ginagitelan  (Kor.),  '  Supervisor',  a  name  for  the  Supreme
-
-Being,
-inao  (Ain.),  fetishes  made  of  wood-shavings.
-
-inenjulan  (Kor.),  a  relative  who  impersonates  the  deceased  to  deceive
-the  kala  into  believing  that  it  has  not  obtained  the  dead  man's
-soul.
-irbit  (Yak.),  spoilt,  mad.
-
-irkunii  (Yuk.),  mimicry  mania  (amurakh).    irkei,  to  shudder,
-is  (Ost.),  shadow.
-
-isi  (Vog.),  shadow,  one  of  the  three  parts  of  a  man.
-ivn  (Gil.),  husband  (classificatory).
-
-
-jemi  (Ost.),  wife.
-
-jido  (Bur.),  the  Phea  sibirica.
-
-
-K.
-
-
-kabys    or   komus    (Alt.),   a   two-stringed   musical   instrument  used  to
-
-accompany  the  recital  of  heroic  tales.
-kacho  (Chern  Tart.),  a  shaman's  mask.
-kadyk  (Bur.),  a  white  cloth  attached  to  an  arrow  which  one  of  the
-
-turushi  sticks  in  the  tenge  of  the  bridegroom's  yurta  when  the
-
-bride  is  being  brought  thither.
-kala,  pi.  kalau  (Kor.),  an  evil  spirit.
-
-kalan,  kamak  (Paren  Kor.),  evil  spirits;  also  guardian  spirits.
-kalatko  urgin  (Chuk.),  ecstatic  shaman,
-kaliany  (Yak.),  mischievous  familiar  spirit  of  a  shaman,
-kalym,  cattle,  goods,  &c.,  given  in  payment  for  a  wife,
-kam  (Tart.,  Alt.),  shaman.
-kamui  (Ain.),  'he  who'  or  'that  which  is  of  the  highest  degree  of  evil
-
-or    good',  'he    who'    or    'that   which    covers'    or    'overshadows'
-
-—a  deity.
-kamuli  (Kam.),  evil  spirits  dwelling  in  volcanoes  and  hot  springs.
-
-
-GLOSSARY  357
-
-kan-at-uruta  (Yak.), '  blood-and-flesh  relationship',  refeningto  members
-
-of  the  same  clan,
-kannus  or  kvobdas  (Lapp),  the  shaman's  drum,
-kanoirgin  (Chuk.>,  'being  a  crown',  a  benevolent  being  residing  in  the
-
-zenith,
-kanun-kotan,  kanun-moshiri  (Ain.),  the  land  of  the  gods,
-kara-darkhat  (Bur. i,  'eastern'  or  'black  '  smiths,
-kargan    Yak.),  '  household.'
-kasi  (Gil.),  the  drum,
-keileni  (Yuk. ),  '  icd-paint',  the  menses,
-kekhn  and  kenchkh  (Gil.),  a  shaman's  familiar  spirits.
-kele,  pi.  kelet  (Chuk.),  evil  spirit,  also  a  shaman's  spirit-assistant.
-ken  kersier  (Yak.),  '  the  race  of  the  youths  ',  a  race  on  horseback  between
-a  member  of  the  bridal  jiarty  and  one  of  the  bridegroom's  friends,
-which  takes  place  when  the  bride  is  being  brought  to  the  bride-
-groom's yurta,
-kenniki-oyun  (Yak.),  a  '  little  shaman  '.
-ker-khomlakh  (Ost.),  a  black-beetle,
-khada-ulan-obbkhod    (Bur.),    'old    people    of    the    mountain',   local
-
-divinities,  the  souls  of  deceased  shamans  and  shamanesses.
-khadam  (Bur.),  the  name  by  which  a  wife  addresses  her  father-in-law
-
-and  all  the  older  male  relatives  of  her  husband,
-khailyga  or  khailige  (Yak.),  the  custom    of  sacrificing  at  a  funeral
-
-a  horse  or  cow,  the  flesh  of  which  is  eaten  by  those  present,
-khal  (Bur.),  the  final  marriage  compact,
-khal  (Gil.),  the  clan,
-
-khat  (Bur.),  a  benevolent  spirit,  child  of  a  western  tengeri.
-khaura-boro  (Bur.),  three  days  of  mourning  for  the  dead,
-kherege-khulke  (Bur.),  the  first  consecration  ceremony  of  a  shaman.
-khese  (Bur.),  the  shaman's  drum  or  his  bell,
-kheyinar  (Gil,j,  an  elder,
-khlay-nivukh  (Gil.),  an  orator  or  intermediary  in  the  settlement  of
-
-blood-feuds  by  means  of  thusind  (compensation),
-kholbokho,  khoubokho,  or  shamshorgo  (Bur,),  conical  iron  pendants
-
-attached  to  a  shaman's  cap  or  to  the  '  horse-staves ',
-kholgo  (Bur.),  a  horse  consecrated  for  sacrifice  at  funerals,
-khorbo  (Bur.),  a  shaman's  staff,
-khoahun  (Uriank.),  one  of  the  five  largest  social  divisions  among  the
-
-Tangnu  Uriankhai,
-khosodabgaliku  (Tung.),  a  marriage  ceremony.
-khuna  (Kirg.j,  blood- revenge.
-khur  (Irkutsk  Bur.),  the  shaman's  'Jew's  harp',
-
-khurir  (Bur.),  prohibition  against  removing  anything  from  the   yurta
-for  a  certain   period  after  the   sacrifice   to   the   fire ;    called   also
-serotey,
-Kihigilan  (Kor.),  'Thunder-Man',  a  name  for  the  Supreme  Being,
-kilvei  (Chuk.),  the  antlers  ceremony,
-kinitti  (Yak.j,  the  custom  of  avoidance  observed  by  married  women  with
-
-regard  to  the  older  male  relatives  of  their  husbands,
-kinr  or  knin  (Gil.),  a  class  of  evil  spirits,
-Kinta-vairgin  (Chuk,),  'The  Luck-Giving  Being',
-kirik  (Bur.;,  an  occasional  private  sacrifice,
-kimaipu-walin  (Chuk.),  'that  coming  from  the  old  buck  (male)',  the
-
-paternal  line  of  descent,
-kirna-takhalin  (Chuk.),  an  older  relative.
-
-kime-tomgin  (Chuk.),  '  old  buck  (male)  mate ',  the  paternal  line ;   an
-older  relative.
-
-
-358  GLOSSARY
-
-kirneyicemit-tomgin  (Cluik. ),  an  elder  brother-
-
-kittegan  (Yak.),  the  betrothal  ceremony.
-
-kiyolhepu-waliri  (Chuk.),  'that  coming  from  the  uterus  ',  the  maternal
-
-line  of  descent.
-koekchuoh  (Kiim.),  probably  a  eunuch  possessing  shamanistic  power,
-kojajjoskire  (Ain.),  'to  make  the  first  advances',  said  of  a  woman  who
-
-courts  a  man  for  husband.
-kondei-kyhan  (Yak.),  rolls  of  tin  fastened  to  the  back  of  a  shaman's
-
-coat.
-kongokto  (Gil.),  small  tongueless  copper  bells  on  a  shaman's  girdle,
-kongoro  (Gil.),  rolled  iron  plates  on  a  shaman's  girdle,
-konlakhion  (Kam.),  a  kind  of  grass.
-koshogo  (Alt.),  a  screen  borne  before  the  bride  when  she  is  being  taken
-
-to  the  bridegroom's  house.
-koska  (Gil.),  a  shaman's  apron,
-krish  (Alt.),  a  horizontal  iron  st;iy  inside  the  drum,
-kudlivum  or  adlivum  (Esk.),  a  warm  land  of  plenty  in  the  sky- an
-
-abode  of  the  ^lead.
-kulun  tyl  kurduk  (Yak.),  a  tongue-shaped   buckle  which  fastens  the
-
-shaman's  coat  at  the  neck,
-kun  (Yak.),  light,  day.
-kiingeta,  kiinasa,  kiisana  (Yak.),  'sun'  (?),  'bell'  (?),  a  disk-shaped
-
-ornament  of  the  shaman's  coat.
-kungru  (Alt.),  iron  rattles  attached  to  the  krish.
-kurg-enenilit,  kunieh-enenilit  (Chuk.), '  mocking '  shamans,—  deceitful,
-
-maleficent  shamans.
-kurraes  (Alt.),  an  image  of  a  god  ;  called  tyn  by  the  Chern  Tartars,
-kut  (Yak.),  a  soul  common  to  men  and  animals,  and  composed  of  three
-
-parts  :  buor-kut, '  earth-soul  ' ;  salgyn-kut,  '  air-soul ' ;  and  iya-kut,
-
-'  mother-soul.'     Among  the  Altaians  it  is  a  stage  or  phase  of  the  life
-
-of  the  soul.
-kutiirar  (Yak.),  a  nervous  affection  characterized  by  the  patient's  singing
-
-in  his  sleep,
-kuturuksuta  (Yak.),  a  shaman's  assistant.
-
-kyira  (Gil.),  irregularly  shaped  pieces  of  iron  on  the  shaman's  girdle,
-kys  kesit  (Yak.),  '  gifts  of  the  bride ',  food  which  she  takes  to  the  bride-
-groom,
-kysmrk  or  kyssk  djakko  (Gil.),  a  special  knife  used  for  cutting  the
-
-umbilical  cord.
-kyun  (Alt.),  '  sun  ',  part  of  the  ornamentations  on  the  shaman's  drum
-
-above  the  circumfex-ential  dividing  line.
-Kyzyl-kikh-khan  (Alt.),  a  deity  to  wliom  one  prays  when  beginning  an
-
-undertaking ;    represented  in  symbol   on  the  shaman's  drum  above
-
-the  circumferential  dividing  line.
-
-
-latah  (Malay),  a  nervous  affection  similar  to  amiirakh.
-
-lepud-oicil  (Yuk.),  'blood-anger',  blood-revenge.
-
-lepul  (Yuk.),  '  blood',  kinsfolk,  including  also  relatives  by  affinity.
-
-lili  khel  mkholas  (Ost.),  soul.
-
-lot  (Gil.),  a  class  of  good  spirits.
-
-M.
-
-ruacihi   (Ain.),   'the  wife',   said  of  a  bride  after  the  second,  or  real,
-
-marriage.
-malykh  (Bur.;,  calves  as  yet  unborn.
-
-
-GLOSSARY  359
-
-nianyak  (Alt.),  sbanian's  coat  or  the  metal  pemlaiits  on  it.
-
-marxin-wolen  (Yuk.).  'the  price  of  a  girl",  said  of  the  custom  of
-purchasing  a  bride.
-
-mataliramkin  (Chuk.).  'athnity  people',  relatives  by  affinity.
-
-mat-eikara  (Ain.),  '  making  my  wife  ',  the  presenting  by  the  bridegroom
-of  certain  gifts  to  his  newly-made  bride.
-
-niaxeni  (Ivor.  >,  '  arrow  ',  the  fire-drill.
-
-meciecum  (Yuk.^  'a  washing',  ceremonial  smearing  with  reindeer's
-blood  of  a  bride  before  she  is  taken  to  her  husband's  house.
-
-raenerik  (Yak.),  a  nervous  affection  in  which  the  patient  is  affiicted  with
-spasms,  falls  into  a  trance,  howls,  sings  or  dances— this  being  some-
-times followed  by  an  epileptoid  seizure.
-
-menkeiti  (Kor.),  mimicr}-  mania  (amiirakh).
-
-menkva  (Vog.).  secondary  '  dark  '  spirits.
-
-mif  (Gil.),  the  earth  :  the  island  of  Sakhalin.
-
-milk  (Gil.),  a  class  of  evil  spirits.
-
-mlyro  (Gil. ),  the  habitation  of  the  dead.
-
-morini-Ilhorbo  (Bur.),  'horse-staves.'
-
-mu-shu-bu  (Bur.  I,  'malicious  bird',  the  evil-working  transformed  soul
-of  a  girl  or  young  woman.
-
-mygdat-yako  (Ost.),  commoners.
-
-N.
-
-Naininen  (Kor.),  '  Universe  ',  '  World  ',  '  Outer  One  ',  a   name  for   the
-
-Supreme  Being.
-Narginen  (Chuk.),  'The  Outer  One',  the  world,  vaguely  conceived  as
-
-a  beneficent  being,
-nasleg  (Yak.),  a  social  group  comprising  from    one   to  thirty  or  more
-
-clans,
-nauchin  (Chuk.),  a  female  captive-slave.
-
-naundoiirgin  (Chuk.),  '  for  wife  herdsman  being',  serving  for  a  wife.
-naunyan  (Tung.),  'possessed  by  evil  spirits',  said  of  a  nervous  affection
-
-similar  to  raenerik.
-nayani  (Tung.),  a  nervous  affection  similar  to  kutiirar.
-naydji  (Bur.),  'friend',  said  of  the  relationship  between  a  shaman  and
-
-the  parents  whose  child  he  undertakes  to  protect  from  evil  spirits,
-nenveticnin  or  ninvit  (Kor.),  evil  spirits.
-
-ne  uehica  (Chuk.),  'similar  to  a  woman',  said  of  a  '  transformed'  man-
-shaman,
-neusqat  (Chuk.),  woman,
-newew  girkin  (Chuk.j,  'thou  askest  for  a  wife',  said  of  the  preliminary
-
-negotiations  for  a  bride  made  by  the  matchmaker,
-new-tumgit  (Chuk.),  'companions  in  wives',  members  of  a  group  having
-
-common  rights  in  each  other's  wives.
-nexiyini  (Yuk.j,  'they  are  bashful  (in  the  presence)  of  each  other',  said
-
-of  the  custom  of  avoidance.
-nimeleu  qatvanvota  (Kor.),  '  hail ! '  '  be  well ! '
-nimeleu    qatvarkin   (Chuk.),    '  be  well ! '   a    bride's   salutation   to  her
-
-husband's  hearth.
-nim-tungit  (Chuk.),  'camp-companions '  —  inhabitants   of  the   tents   in
-
-a  Reindeer  Chukchee  encampment  other  than  those  living  in  the
-
-'front  tent',
-ninirkilqin  (Chuk.),  'he  is  bashful',  said  of  shamans  to  express  their
-
-extreme  nervous  sensibility,
-noyda  (Lapp),  shaman,
-nusa  (Ain.),  a  cluster  of  kema-ush-inao  (legged  inao),  set  up  by  the
-
-water  as  a  sacrifice  to  the  water-gods.
-
-
-860  GLOSSARY
-
-0.
-
-odakh  (Alt.),  a  temporary  yurta  built  for  a  newly-married  couple.
-
-odyr  (Vog.),  a  hero.
-
-ocitkolin  (Clink.),  '  giving  answering  calls ',  the  assistant  of  a  shaman.
-
-ogonyor  (Yak.),  elders.
-
-ogurda,  ogurta,  gurta  (Uriank.).  the  head  of  a  khoshun.
-
-oibon-kiinga  or  oibon-kiinasata  (Yak.),  ' hole-in-the-ice  sun',  a  disk-
-shaped  ornament  on  the  shaman's  coat.
-
-oiogos  timiria  (Yak.),  metal  plates  fastened  to  the  right  and  left  sides  of
-a  shaman's  coat.
-
-oktorgo  (Bur.),  the  night-sky.
-
-olan  (Tung.),  mimiciy  mania  (amiirakh).
-
-olongho  (Yak.),  ancient  poems  or  folk-ballads.
-
-ongon  (Mong.),  a  fetish  in  which  the  soul  of  an  ancestor  is  worshipped.
-
-ongon  (Bur.),  a  fetish  representing  either  'black  '  or  'white'  spirits.
-
-opana  (Kam.),  soup  made  from  fish  and  a  plant  called  hale.
-
-orda,  old  name  for  the  larger  social  groups  among  the  Turkic  tribes.
-
-orgoy  (Bur.),  the  shaman's  coat— white  for  a  'white'  shaman,  blue  for
-a  '  black.'
-
-ort  (Ost.),  a  male  slave  ;  ort-nen,  a  female  slave.
-
-orto-oyun  (Yak.),  a  'middling  shaman'.
-
-ot-imeze  (Alt.),  '  mother  of  the  fire ',  represented  in  symbol  on  the
-shaman's  drum  below  the  circumferential  dividing  line.
-
-ouokh.  (Yak.),  a  resting-place  for  a  shaman  in  his  journey  through  the
-sky.
-
-oyeye  (Bur.),  one  of  the  three  parts  of  a  man— the  body.
-
-oyokh  (Yak.),  a  wife.
-
-
-pacil  (Kor.),  ceremonies  held  in  celebration  of  a  birth.
-
-pal  (Gil.),  mountain  ;  spirit-'  owner  '  of  the  mountain.
-
-palma  (Tung.),  a  long  knife  with  a  wooden  handle.
-
-pandf  (Gil.),  name  used  Uy  a  clan  for  another  with  which  it  has  marital
-
-ties.
-parchis  (Vot.),  secondaiy  priest  appointed  by  the  tuno.
-pellaskis  (Vot.),  sorcerer,
-peninelau  (Kor.),  'ancient  people',  the  dead.
-penzer  (Sam.),  the  shaman's  drum,
-pet-ru-ush  mat  (Ain.),  '  females  of  the  water-ways  ',  female  deities  who
-
-have  oversight  of  all  streams.
-po  (Yuk.),  '  worker ',  slave.
-pogil  (Yuk.),  persons  who  serve  or  are  served  for  a  bride,  a  relationship
-
-term,
-pogilonu  (Yuk.),  to  serve  for  a  bride.
-polutpe  (Yuk.),  'old  men',  oldest  repi'esentatives  of  different  families
-
-constituting  a  sort  of  council.
-problokto  (Esk.),  a  nervous  afl^ection  somewhat  resembling  menerik.
-pu  (Gil.),  husband  (classificatory).
-
-pura  (Alt.),  the  soul  of  a  horse  sacrificed  to  Bai  Yulgen.
-purel  (Chuk.),  a  male  captive  slave.
-
-
-qacikicheca  (Chuk.), '  similar  to  a  man ',  said  of  a  '  transformed  '  woman-
-shaman,
-
-qaitumntn  yeti  (Kor.),  'a  relative  has  come' — the  formula  used  by
-a  father  in  announcing  the  birth  of  his  child.
-
-
-GLOSSARY  361
-
-qavau  (Kor.),  '  transfoniied  '  men.
-
-Qoren-vairgin  (Chulc),  'Reindeer  Being',  the   tutelary  spirit   of  the
-
-reindeer  herds.
-Qiiikinnaqu  or  Kutkinnaku  (Kor.),  '  Big  Raven',  the  organizer  of  the
-
-universe.
-
-R.
-
-raff  (Gil.),  a  shed  built  to  receive  the  ashes  of  the  dead.
-
-ra-i-oman  (Ain.),  '  to  go  to  the  lower  place',  to  die.
-
-rayirin  (Chuk.),  '  houseful ',  '  those  in  the  house  ',  household.
-
-rekken,  pi.  rekkenit  (Chuk.),  a  spirit  '  assistant'  of  the  shaman  ;  part  ot
-
-the  ornamentation   of  the   shaman's  coat  representing  this  spirit ;
-
-the  Maritime  name  for  a  kele,
-ruf  (Gil.),  brother  (classificatory).
-rynchi  (Alt.),  persons  able  to  foretell  events.
-
-S.
-
-sagan-bo  (Bur.),  '  white'  shamans.
-
-sagani-khordut  (Bur.),  lesser  deities.
-
-sagan-sara  (Mong. ),  'white-month',  the  autumn  festival.
-
-saiba  (Yak.),  a  platform  on  two  posts  on  which  dead  bodies,  especially
-those  of  shamans,  were  exposed.
-
-sakiikh  bayuga  (Bur.),  a  shaman's  first  visit  to  the  dwelling  of  the
-people  with  whom  he  is  to  be  naydji.
-
-salamata  (Yak.),  meal  cooked  with  butter.
-
-saman  (Manchui,  'one  who  is  moved ',' exalted ',' excited' — a  shaman
-(so  pi'onounced  by  some  Tungusic  tribes).
-
-samana  (Pali),  to  become  weary.
-
-samburzia  (Sam.),  the  tadibey's  (shaman's)  coat.
-
-samdambi  (Manchu),  '  1  shamanize.'
-
-same-nabma  (Lapp),  the  ceremony  of  naming  a  child.
-
-sangyiah  (Yak.),  the  woman's  coat.
-
-satini-burkhat  (Bur.),  tutelary  spirits  of  tea- planting.
-
-seok  (Alt.),  'bones',  'generation',  clan.
-
-ser  (Uriank.),  a  raised  platform  on  which  the  corpse  of  one  struck  by
-lightning  is  exposed.
-
-serge  (Bur.),  'posts',  birch-trees  planted  at  a  shaman's  consecration.
-
-sesen  or  sekhen  (Yak.),  an  adviser,  a  sage.
-
-setertey  (Mong.),  the  custom  of  dedicating  an  animal  to  an  ongon,  and
-the  taboo  which  forbids  the  use  of  such  an  animal  for  heavy  work.
-
-shagund  (Gil.),  certain  articles  reckoned  as  private  property.
-
-shaitan,  almys,  khawa,  kuremes  (Chern  Tart.),  names  for  evil  spirits.
-
-shaku  (Jap.),  vaginismus.
-
-shaytan  (Mong.j,  'black'  spirit.
-
-shelenga  (Bur.),  the  head  of  a  clan  as  organized  by  the  Russian  adminis-
-tration.
-
-shinnurappa   (Ain.),    'libation-dropping',   part    of   the   ceremonial   of
-ancestor-worship.
-
-shire  (Bur.),  shaman's  chest  containing  certain  ceremonial  accessories.
-
-shirlikb  (Alt.),  prohibition  against  removing  anything  from  the  yurta
-in  which  a  dead  body  is  lying.
-
-shram  (Sanskr.),  to  become  weary.
-
-shramana  (Sanskr.),  a  hermit,  ascetic,  religious  mendicant.
-
-sinnakh  khongoruta  (Yak.),  'they  have  given  their  word  '—the  conclu-
-sion of  the  marriage  compact.
-
-sijrnyin  (Alt.),  '  girl ',  a  younger  sistei-.
-
-
-362  GLOSSARY
-
-sorkhoho  (Bur.),  'to  commit  sin',  applied  to  the  custom  of  avoidance,
-souban-ir  (Alt.),  'aurora'- the  dawn  (or  the  aurora  horealis);   part  of
-
-the  ornamentation  of  the  shaman's  drum  above  the  circumferential
-
-dividing  line,
-sugyznym-karagat  (Alt.),  the  horses  of  the  high  god  Ulu-khan  ;  part  of
-
-the  ornamentation  on  the  shaman's  drum  above  the  circumferential
-
-dividing  line,
-sumyn  (Uiiank.),  subdivision  of  a  khoshun.     Probabl}-  a  clan,
-siine  (Alt.),  a  soul  peculiar  to  man,  his  intellect,
-sunyesun  (Bur.),  one  of  the  two  souls  of  a  man  ;  it  is  peculiar  to  man,
-
-and  is  reincarnated  in  human  form.
-siir  (Yak.),  one  of  the  three  souls  of  man.
-siir  (Alt.),  the  soul  which  separates  from  a  man  at  his  death,
-surge  (Yak.),  the  tree  to  which  the  animal  dedicated  at  a  funeral  is
-
-tied,
-suwu  (sulu)  (Yak.),  the  part  of  the  kalym  paid  to  the  parents  of  the
-
-bride,
-suzy  (Alt.),  the  strcagth  or  vitality  of  a  man  or  animal,  one  of  his  souls,
-sygan  (Yak.),  a  relative  nine  times  removed.
-
-
-tabytaua  (Yak.),  plates  fastened  to  the  sleeves  of  a  shaman's  coat.
-
-tadebtzy  (Sam.  and  Vog.),  spirits.
-
-tadibey  (Sam.),  shaman.
-
-tagaun  (Tung.),  clan.
-
-tahe  (Ost.),  '  man',  husband.
-
-tailgan    (Bui-.),   'the     asking     ceremony',    a     periodical     communal
-
-sacri6ce.
-takalhin  (Chuk.),  '  brace-comijanion  ',  wife's  sister's  husband,
-tanara  (Yak.),  '  protector  ',  said  of  the  shaman's  coat  and  the  symbolic
-
-ornamentation  on  it ;' household  'guardians';  charms;  its  modern
-
-significance  includes  heaven,  the  Christian  God,  and  ikons.
-tano-mnalin  (Chuk.),  '  fortifier ',  one  who  performs  certain  ceremonies  to
-
-countei-act  the  evil  influence  of  the  spirit  of  a  deceased  person,
-tapty  (Alt.),  '  steps '  or  notches,  nine  in  number,  cut  in  a  birch  trunk  to
-
-symbolize  the  stages  of  the  shaman's  ascent  to  the  ninth  heaven  at
-
-the  sacrifice  to  Bai-Yulgen.
-tarasvm  (Bur.  i,  wine  or  milk.
-tay  (Alt.),  uncle  (maternal),  said  of  clansmen  older  than  the  speaker  and
-
-related  to  him  through  his  mother,
-taysha  (Bur.),  the  head  of  a  (Russian)  a-dministrative  group  comprising
-
-several  clans.
-tei-nei-pokna-moshiri  (Ain.),  '  the  wet  underground  place  '  of  departed
-
-spirits,
-tenci-ronulin  (Chuk.),  'well-minded'  shamans,
-tenge  (Bur.  i,  a  jiartition  which  shuts  off  the  sleeping-place  from  the
-
-hearth,
-tenge  (Alt.),  aunt,  applied  to  clanswomen  older  than  the  speaker,
-tengeri  or  tengeriny  (Bur.),  highest  supernatural  beings,
-tea  bazin-yat  (Alt.),  'the  ancestor  (spirit),  leaps  upon,  strangles  him',
-
-said  of  the  shamanistic  call  coming  to  the  descendant  of  a  sharaanist
-
-family,
-tetkeyun  (Chuk.),  'source   of  life',  blood,  vital  force;   represented  in
-
-symbol  on  the  shaman's  coat,
-tey  (Ost.).  a  male  slave.
-tey-nen  (Ost),  a  female  slave.
-
-
-GLOSSARY  363
-
-thusind  (Oil.),  mnsom  or  compensation  jiaitl  in  lieu  of  Mood-revenge,
-tiungnur  tiuser  (Yak.),  'the  arrival  of  the  niateh-niaker '  at  the  house  of
-
-the  briile's  parents  ;  tiungnur  hodohoi  tiuser,  '  the  arrival  of  the
-
-uiatehuiaker  and  uiateh-uiakeress ',  i.  e.,  the  bringing  of  the  bride  by
-
-her  parents  to  the  bridegroom's  house.
-tlo  (Gil.),  the  habitation  in  the  sky  of  those  who  have  died  a  violent
-
-death,
-tly-nivukh  (Gil.),  gods  of  the  sky.
-tol  (Gil.),  the  sea;  spirit-" owner '  of  the  sea.
-tole  (Bur.),  a  mirror  of  metal  on  the  breast  of  the  shaman's  coat.
-tole  (Gil.),  a  copper  disk  hanging  from  the  shaman's  girdle.
-tomgin  (Chuk.),  'companion',  'mate',  'kinsman'.
-tonto  (Lapp),  spirit,
-tordo  (Yak.),  '  origin  ',  '  root '.
-
-tore  (Vot.),  a  secondary  priest  appointed  by  the  tuno.
-totaino  rkinc  (Chuk.),  said  of  a  certain  peculiar  deformity  of  the  penis,
-toyon  (Y'ak.  I,  lord.
-tula  (Alt.),  a  soul  peculiar  to  man.
-tiingur  (Alt.,  Soiot,  Karagas),  the  shaman's  drum,
-tuno  (Vot.),  the  chief  shaman,
-tiiniir,  tungiir,  diiniir  (Yak.),  the  shaman's  drum.     Tiiniir  also  means
-
-kinship  by  marriage.
-tiiniirattar  (Yak.),  match-making.
-turene  nitvillin  (Chuk.),  'the  newly-inspired  one',  a  shaman  in  his
-
-novitiate.
-turushi  (Bur.),  a  group  of  horsemen  accompanying  a  bride,
-tusakta  (Yak.),  a  woman's  cap.
-tuvn  (Gil.),  sister  (classificatory).
-tyn  (Yak.),  'life  ',  '  breath  ' ;  a  soul  common  to  men,  animals,  and  plants.
-
-U.
-
-uchchi  (Vog.),  malicious  spirits  dwelling  in  the  forest.
-
-udege  (Tart.),  '  housewife  ',  '  wife  ' ;  also  female  shaman.
-
-uicil  (Yuk.),  a  hired  labourer.
-
-uiritak  (Ain.), 'distant  relatives',  '  brethren  brought  in ' — men  married
-
-into  families  not  of  their  own  village.
-uiriwak  (Ain.),  'blood-relatives',  '  brethren '- men  who  take  wives  from
-
-their  own  village.
-\ikhan-budla  (Bur. i,  a  ceremony  performed  by  a  shaman  to  celebrate
-
-the  birth  of  a  child,
-ukher-ezy  (Bur.),  souls  of  evildoers  who  have  died  by  violence.
-ukoreske  maci  (Ain.),  a  girl  betrothed  to  a  man  of  about  her  own  age.
-ulahan-oyun  (Yak.),  a  '  great  shaman  '.
-Ulgere    (Alt.),  a  deity  to  whom  prayers  are  offered  for  the  curing  of
-
-earache   and    toothache ;    represented  in   symbol  on  the  shaman's
-
-drum  below  the  circumferential  dividing  line.
-ulug-bai-kazyn  (Alt.),  two  trees  growing  in  the  high  god  Ulu-khan'.s
-
-country  ;  part  of  the  ornamentation  on  the  shaman's  drum  below  the
-
-circumferential  dividing  line.
-ulus  (Y'ak.),  a  group  comprising  several  naslegs.
-umgu  genycli  (Gil.),  '  buying  a  wife'.
-unpener  (Chuk.),  'the  pole-stuck  star',  the  pole  star,  which  is  considered
-
-to  be  a  benevolent  being,
-uos  assar  (Yak.), '  the  opening  of  the  mouth  ',  the  part  of  the  kalym
-
-paid  at  the  beginning  of  negotiations  for  a  wife,
-urdla  nivukh  (Gil.),  '  good  and  rich  one  ',  unofficial  leader  of  a  clan.
-
-
-364  GLOSSARY
-
-urif  (Gil.),  a  class  of  good  spirits.
-
-uru  (Yak.),  '  wedding  ',  '  relationship  by  marriage  ',  relationship.
-
-urui  (Yak.),  'hurrah.'
-
-urus-sara  (Mong.),  '  the  month  of  sara',  the  spring  festival.
-
-useten  (Bur.),  an  ongon  prepared  for  a  woman  who  desires  a  ehild.
-
-Usui  (Yak.),  to  train  a  shaman,  to  consecrate  a  shaman.
-
-utakan  (Tung.),  sorcerer,  cannibal.
-
-utka   (Bur.j,    'descent',  'genealogy';    a  term    connoting  shamanistic
-
-power,
-utygan  (Tart.),  bear.
-
-uvirit  or  uvekkirgin  (Chuk.),  '  belonging  to  the  body ',  the  soul,
-uyicit  or  uyirit  (Kor.),  the  chief  soul  of  man.
-
-
-Vahiynin   (Kor.),    '  existence  ',   '  strength ',  a   name   for    the    Supreme
-
-Being,
-vairgin,  pi.  vairgit  (Chuk.),  'beings',  benevolent  supernatuml  beings;
-
-taaronyo  vairgit,  benevolent  '  beings  sacrificed  to  '.
-varat  (Chuk.),   'collection  of  those  who  are  together'— a  social  body
-
-resembling  a  clan,     enan-varatken,  '  one  of  the  same  varat.'
-vata  itilin  (Chuk.),  'continuous  dweller',  a  son-in-law  adopted  into  his
-
-■wife's  family.
-vedin  (Vot.j,  a  sorcerer.
-viyolin,  pi.  viyolet  (Chuk.),  'assistants';    sometimes  applied  to  spirits
-
-supposed  to  be  assistants  of  certain  supernatural  beings  ;  slaves.
-
-W.
-
-wuyil-wuyil  (Kor.),  'shadow',  one  of  the  minor  souls  of  man.
-wuyivi  (Kor.),  '  breathing !,  one  of  the  minor  souls  of  man.
-
-X.
-
-xoil  (Yuk.),  an  '  idol '  formed  of  the  skull  of  a  shaman  placed  on  top  of
-a  stick.
-
-
-yada-tash  (Alt.),  a  stone  by  means  of  which  the  weather  can  be  con-
-trolled.
-
-yaelhepu-walin  (Chuk.),  that  coming  from  the  penis  — the  paternal  line
-of  descent.
-
-yagan  (Bur.),  ancient  name  for  the  clan.
-
-yahalanu  (Kor.),  '  cloud  people.'
-
-yalgil  (Y'uk. ),  'lake',  the  drum.
-
-yangpa  (Gil.),  the  shaman's  girdle.
-
-yanra-naw  (Chuk.),  'separate  woman',  an  unmarried  woman.
-
-yanra  varat  (Chuk.),  'separate  tribe' — the  spirits  of  intoxicating  mush-
-rooms.
-
-Yaqhicnin  (Caqhicnin,  Vahicnin,  Vahitnin)  (Chuk.),  'something
-existing',  a  name  for  the  Supreme  Being.
-
-yara-tomgit  (Chuk.),  'housemates.'
-
-yara-vairgit  (Chuk.),  'house-beings',  the  tutelary  spirits  of  the  house.
-
-yauasua  (yalama)  (Alt.),  strips  of  bright-coloured  material  fastened
-inside  the  drum.
-
-yayai  (Kor.),  the  drum.
-
-
-GLOSSARY  365
-
-ye  (Yak.X  'womb',  'embryo',  mother.
-
-yekyna  (Yak.),  '  mother-animar,  a  shaman's  familiar  spirit.
-
-yendo  iennt  ya  etei  (Yuk. ),  singing  in  one's  sleep,  a  nervous  affection
-
-similar  to  kutiirar.
-yep  ayaakeleu  (Chuk.),  'not  j'et  put  in  use',  an  expression  probably
-
-equivalent  to  '  girl '.
-ye-usa  (Yak.),  'mother-clan.'
-yirka-laul-vairgin    (Chuk.),    'soft-man-being',    said    of    the    so-called
-
-'  change  of  sex  '  among  shamans,
-ymgi  (Gil.),  clan  of  a  son-in-law.
-ymk  (Gil.),  mother  (classificatory).
-yokh  (Gil.),  said  of  a  woman  with  whom,  as  not  being  of  the  speaker's
-
-mother's  clan,  sexual  intercourse  is  forbidden.
-yor  (Yak.),  the  soul  of  a  deceased  person  which  is  unable  to  leave  the
-
-earth,
-ys  I  Gil.),  the  spiritr' owner'  of  an  animal,
-ysyakh  (Yak.),  a  sacrificial  festival,
-ytk  (Gil.),  father  (classificatory).
-ytk-khavrnd  (Gil.),  'without  father',  said  of  one  whose  father  is  not
-
-known,  or  whose  mother  has  married   a   man  not   of  the  correct
-
-marital  class.
-3rurta,  the  tent-like  dwelling  in  use  among  the  Turkic  tribes.
-yz  (Gil.),  '  host ',  the  unofficial  leader  of  a  clan.
-
-Z.
-
-zayan  (Bur.),  the  spirit  of  an  ancestor  whose  memory  is  honoured  by
-sacrifices ;  a  god.
-
-
-INDEX
-
-
-Abortion,  Kamchadal  practiio,  129.
-Adultery,  Tungu  punishment  of,  lOG.
-Affinity,  System  and  terms  of,  31-2.
-
-36,  42-3,  81-2,  91-3.
-Aga-usa,  term  explained,  59.
-Ahnialk,  in  Gilyak  customs,  43.
-Ainu  tribe  :
-
-Ceremonies,  296-7.
-
-Compensation  for  crime,  47.
-
-Death  and  burial  ;;lcs  and  beliefs,
-153  4.
-
-Gods  and  spirits  of,  273  5.
-
-Marriage  customs,  101-5.
-
-Number  and  distribution  of,  18, 19.
-Akniolinsk  territory,  climate,  8.
-Alash-Khan,    tribal  ancestor  of  the
-
-Kirgis,  54.
-Aleut  tribe  :
-
-Language,  connexion  with  Eskimo,
-16.
-
-Number  and  distribution  of,  18, 19.
-Alliances  formed  by  tribes,  57-8,  09.
-Altaians  :
-
-Application  of  term,  17.
-
-Birth  customs  and  beliefs,  140-1.
-
-Ceremonies,  298-303.
-
-Death  and  burial  customs  and
-beliefs,  161-2.
-
-Gods  and  spirits  of,  280-1.
-
-Marriage  customs,  114-17.
-
-Shaman  :  accessories  218-19  :  per-
-formances of,  240-2 ;  type  and
-duties,  200  ;  vocation,  178.
-
-Social  organization,  53-4.
-
-Soul,  beliefs  respecting,  281-2.
-Altai  mountains,  7,  10,
-Amagj'at  of  shamans,  183-4,  212-14,
-
-217-18.
-Amulets,  .shamanistic,  207.
-Amur,  river,  10.
-Amur,  territorj',  climate,  8-9.
-Amiirakh,  nervous  disease  :
-
-Compared  with  latah  of  the  Malays,
-321-5.
-
-Described,  315-16,  319,  320.
-Ancestors  and  ancestor- worshij)  :
-
-Ainu  rites,  154.
-
-Buryat  customs  and  beliefs,  159.
-
-Finnic  tribes,  163.
-
-Gilyak  customs,  45.
-
-Souls  believed  to  enter  children
-before  birth,  130,  136.
-
-Yukaghir  cult,  37.
-
-
-Animals  :
-
-Dedication  by  Buryats,  306.
-
-See  also  Bear,  Dogs,  Horse,  &c.
-Animism  :
-
-Koryak  beliefs,  264.
-
-Relation  of  shamanism  to,  168.
-Anointing,  in  marriage  rites,  76.
-Anthrax  (Sibirskaya  yazva)  :
-
-Buryat  belief  respecting,  286.
-
-Prevalence  in  Siberia,  307-8.
-Antler  stores  of  the  Chukchee,  148.
-Aictic  Hysteria  :  see  Hysteria.
-Arctic  or  hyperborean  races,  use  of
-
-term,  14.
-Aurora  borealis :
-
-Description,  0-7.
-
-Place  of  abode  of  the  dead,  149,155.
-Avoidance,  Custom  of,  91  3  120,122,
-
-127,  128.
-Ayisit,  goddess  of  fertility,  141,  143.
-
-Baikal,  Lake  of:
-Description,  10.
-Influence  on  climate,  8.
-Bai-Yulgon,  god  :  see  Yulgen.
-Banzaroflf,Dordji,biographicalskctch,
-
-326-7.
-Barky,  term  explained,  54.
-Barlak,  famous  white  shaman,  201.
-Barnaul,  climate,  7.
-Bajga,  term  explained,  116.
-Bear :
-
-Ainu  festival,  296-7.
-
-Funeral  rites  of  persons  killed  by,
-
-153.
-Gilyak  festival,  45-6,  51,  197.
-Koryak  festival,  295-6.
-Berezov,  climate,  5.
-Bering  tribes,  use  of  term,  14.
-Betrothal  customs,  100,   102-3,  109,
-
-118,  121.
-Big   Raven,    of  Korvak   mythology,
-
-263-4,  266-7.
-Biographies   of   authorities    quoted,
-
-326-9.
-Birth,  customs  and  beliefs  connected
-
-with,  129-44.
-Bis,  meaning  of  term,  57.
-Blacksmiths:  see  Smiths.
-Blagoveshchensk,  climate,  8.
-Blood-jiainting  ceremonies,  84, 134-5.
-Blood     relationship :     see     Consan-
-guinity.
-
-
-INDEX
-
-
-367
-
-
-Blood-revenge,  customs,  25,  26-7,  33,
-
-39.  46-9,  55,  57.
-'  Boatful  •  of  the  Chukchee,  24.
-Bosioras,  Waldeniar  G.,  biographical
-
-^sketch,  32ll.
-Brodiagi,  class  of  European  Siberians,
-
-17.
-Brodsky,  Dr.  Dina  Jochelson,  antlu  o-
-
-pological  work,  327.
-Bmldhisni,  Mongol  name  for,  166.
-Burany,  term  explained,  8.
-Burial,  customs  and  beliefs  connected
-
-with,  145-165.
-Buryat  tribe:
-
-Birth  customs  and  beliefs,  138-40.
-Death    and    burial    customs    and
-
-beliefs,  156-9.
-Gods  and  spirits  of,  283-6.
-Marriage  customs,  118-21.
-Migrations,  22.
-
-Number  and  geographical  position.
-20.
-Sacrificial  ceremonies,  304-6.
-Shamans:    accessories,    205,    216,
-222-6  ;    male    and    female,   243  ;
-oflSce  generally  hereditary,    178;
-preparatory  period,    185-6  ;  type
-and  duties,  191-2,  197,  200-1.
-Social  organization,  64-67.
-Soul,  beliefs  respecting,  286-8.
-
-Camp,  as  an  economic  unit,  23.
-
-Carbuncle,  disease,  307-8.
-
-Cattle,  Yakut  ceremonies  at  birth  of.
-
-143.
-Ceremonies  and  rites  :
-
-Ancestor-worship  of  the  Ainu,  154.
-
-Bear- festival,  45-6,  51,  296-7.
-
-Birth  ceremonies,  129-44.
-
-Blood  painting,  84,  134-5.
-
-Burial  rites,  146-65.
-
-Chukchee,  in  connexion  with  the
-herd  and  the  sea,  291-4.
-
-Consecration  of  fire-board,  265.
-
-Consecration   of    a    shaman,   185,
-186-9.
-
-Gilyak,  272.
-
-Koryak  sacrifices,  294-6.
-
-Marriage,  72-8,  83  5,  87-96,  103-4
-108-11,  114-17,  119,121-2,280-1.
-
-Mongolic  tribes'  sacrifices,  303-6.
-
-Name  giving,  134-5,  140-1,  143-4.
-
-Protection  of  children,  135,  140.
-
-Purificatory,143-4,145, 148,186,187.
-
-Shamanistic,    185,    186-9.    191-2,
-195-7,  233-42.
-
-Tailgan,  of  the  Buryat,  65-7.
-
-Turkic  tribes'  sacrifices,  297-303.
-
-Ysyakbs,  of  the  Yakut,  58.
-Chapogir  tribe,  20.
-Chastity  girdle,  worn  by  Yakut  girls,
-108.
-
-
-Children  :
-
-Birth  customs  :  see  Birth.
-
-Burial  rites,  152,  160.
-
-Exchange  of,  105,  118.
-
-Protective  rites,  135,  140.
-
-Sacrifices  ofi"ered  by  Buryat,  305.
-China,  Manchu  invasion,  21.
-Chukchee  tribe:
-
-Birth  customs  and  beliefs,  133-5.
-
-Ceremonies  described,  291  4.
-
-Death  and  burial  customs  and  be-
-liefs, 146-9.
-
-Gods  and  spirits  of,  256-61.
-
-Language,  similarity  with  the
-Koryak,  16.
-
-Marriage  customs,  70-80.
-
-Num'oer  and  distribution  of,  18,
-19.
-
-Shamans :  accessories,  205-8 ;
-family  shaman,  170 ;  male  and
-female  and  change  of  sex,  243,
-245,  248,  249-50,  255  ;  perform-
-ances of,  230-3;  preparatory
-period,  178-81  ;  type  and  duties,
-169,  173  5,  192-4.
-
-Social  organization,  23-32.
-
-Soul,  beliefs  resjiecting,  260-1.
-
-Universe,  beliefs  respecting,  261.
-
-'  Voluntary  death  '  custom,  317-18.
-Chuvanzy  tribe,  18,  19.
-Clan  organization  :
-
-Chukchee,  27-8.
-
-Finnic  tribes,  67-9.
-
-Gilyak,  43-51.
-
-Kalmuk,  64.
-
-Mongolic  tribes,  63-7.
-
-Russian  modern  method  of  group-
-ing tribes,  misleading,  28,  33,  36.
-
-Tungusic  tribes,  51-3.
-
-Turkic  tribes,  53-9.
-
-Yukaghir,  36-43.
-Consanguinity,  system  and  terms  of,
-
-29-31,  35,  39-42.
-Cosmogony :     see    Universe,     beliefs
-
-respecting.
-Cossacks,  Tungus,  53.
-Councils  of  the  Yakut  tribes,  58-9.
-
-Dancing  :
-
-Chukchee  ceremonial  exchanges  of
-
-marriage  partners,  293-4.
-Shamanistic,  237,  239,  240.
-Dead,  the  :
-
-Commemorative  sacrifice  of  Chuk-
-chee, 291.
-See  also  under  Soul  and  Spirits.
-Death  :
-
-Customsand  beliefsconnectedwith,
-145-65.
-'Voluntary  death' custom,  317-18,
-319.
-Deities  :  see  Gods.
-
-
-368
-
-
-INDEX
-
-
-Dejneff,  Cossack,  invasion  of  Siberia,
-
-21.
-Deluge,  in  Finnic  mythology,  290.
-Devil :
-
-Gilyak,  46.
-See  also  Spirits.
-Diseases  prevalent  in  Siberia,  307-25.
-Dissection  of  dead  bodies,  147,  151.
-Diurbiut,     protection     of     children
-
-ceremonies,  140.
-Divorce  customs,  85,  104.
-Djingis  Khan,  Mongol  conqueror  :
-Conquests,  21-2.
-
-Mongolic  tribes'  claim  to  descent
-from,  *)3.
-Djungar,  Mongolic  tribe,  63.
-Dogs,  ill-treatment  punished  in  the
-
-future  life,  148,  150.
-Doll,    symbol    on     sl^aman's    dress,
-
-217-18.
-Dondakonsk,  Tungu  sub-clan,  52.
-Drum,  of  shaman,  203,  205,  207-11,
-
-215-16,  220-5.
-Durbot  (Diirbiit^  Mongolic  tribe,  63.
-Dyeing  red,  Koryrle  rite,  84.
-
-Eleut  tribe  :  see  Kalmuk.
-Endogamy  :
-Chukchee,  17.
-Gilyak,  98-100.
-Koryak  custom,  82.
-Yakut      traditions     show      early
-traces  of,  112-14.
-Epilepsy,  316.
-Erlik,   the   god   of  darkness,  240-2,
-
-280-1.
-Eskimo  :
-
-Birth  customs,  134,  135.
-Death    and    burial    customs    and
-beliefs,  154-5.
-Language,     connexion     with     the
-Aleut  languages,  16.
-Nervous  disease  among,  314-15.
-Number  and  distribution  of,  18,  19.
-Shamans :     drums     209 ;     family
-shaman,   170 ;    male   and  female
-and  change  of  sex,  248  ;  perform-
-ances, 230,  232;    transmission  of
-power,  181.
-Supplementary     marriages     with
-Chukchee,  79.
-Ethno-geography  of  Siberia,  1-22.
-Etlinology :
-
-Classification  adopted   bv  author.
-
-13-17.
-Migration  of  tribes,  21-2.
-See  also   under   names  of  various
-tribes.
-Evil  spiriis  :  see  Spirits.
-Ex  ogam  J- :
-Ainu,  101   2.
-Altaians,  117.
-
-
-Exogamy  (continued).
-Buryat,  118.
-Chukchee,  74.
-Gilyak,  99,  100.
-Samoyed,  123.
-Tungus,  106.
-
-Yakut,  decline  of,  111-12.
-Yukaghir,  attempts  at,  92-3.
-
-Fainting  fit,  native  explanation  of,
-
-165.
-Family :
-
-Chukchee,  28-82.
-Koryak,  32-3,  34.
-TuMgusic  tribes,  51.
-Yakut,  57,  59.
-Famine,  cause  of  insanity,  319.
-Festivals  :  see  Ceremonies  and  rites.
-Fetishes,  139,  286,  290,  306.
-Finnic  tribes :
-
-Death    and    burial    customs    and
-
-beliefs,  162-5.
-Gods,  spirits  and  the  soul,  beliefs
-
-respecting,  288-90.
-Marriage  customs,  125-8.
-Name-giving  ceremony,  144.
-Number  and  geographical  position,
-
-18,  19.
-Social  organization,  67-9.
-Fire  :
-
-Ainu  goddess  of,  274.
-Gilyak  clan  customs,  44-5.
-Koryak  sacred  implements  for  fire-
-making,  265-6.
-Yakut  sacrifice  to,  110.
-Fish,    leprosy   attributed    to    eating
-
-diseased,  308.
-Fortifier,  term  explained,  146.
-Funeral   rites  :    see   Ceremonies  and
-
-rites,  and  Death.
-Future  life,  customs  and  beliefs  con-
-nected with,  145-65,  275-6.
-
-Gellung,  term  explained,  122.
-Gilyak'tril  e  :
-
-Bear-festival,  45-6,  51,  197.
-
-Birth  customs  and  lieliefs,  137-8.
-
-Death  and  burial  customs  and  be-
-liefs, 151-3.
-
-Gods  and  spirits  of,  271-2.
-
-Leprosy  among  and  beliefs  respect-
-ing, 308.
-
-Marriage  customs,  97-101.
-
-Nervous  diseases,  317.
-
-Number  and  distribution  of,  18,  19.
-
-Shamans  :  accessories,  204,  209-10;
-preparatory  period,  181-2.
-
-Social  organization,  43-51.
-
-Soul,  beliefs  respecting,  272-3.
-Gods:
-
-Chukchee,  256-7.
-
-Finnic  tribes,  288-90.
-
-
-INDEX
-
-
-360
-
-
-("rods  (coiitituted) :
-
-rtilyak.  271.
-
-Kamchadal  beliefs,  269-70.
-
-Koryak,  L'61-3.
-
-Mongolic  tribes,  283-8.
-
-Turkic  tribes,  277-81.
-Goldi,  tribe,  20,
-'Group  m.nrri.aiie  ',  78-9,  9r..
-
-Horse  :
-Dedication  by  Buryat.  306.
-Sacrifice  of,  298-303.  304.
-Horse   staves,    of    Buryat    sliamans,
-
-224.
-Hunt,  co-operative   of  Bnrvat   clan,
-
-»>.5.
-Hunter,  of  Yukliaghir  customs,  38.
-Hurrah,  origin  of  word,  58.
-Hyperborean  races,  use  of  term,  14.
-Hypnotic  suegestion,  and   hysterical
-
-patients,  311-1.3,  321,  325.
-Ih-steria,  prevalence  aniongprimitive
-
-peoples,  308.
-Hysteria,  Arctic  :
-Cases  described,  309-25.
-Classes  of,  distinguished,  315-25.
-Shaman's  vocation  dependent  on.
-169-70,  172.
-Ichchi,  spirit  of  the  Yakut,  278-9.
-Imitation  :  see  Mimicry.
-Incantations :
-At  funeral  rites,  147,  163.
-Koryak,   at    consecration  of  fire-
-board,  265,
-Protection  of  children,  135.
-Shamanistic,  194.
-
-Infanticide,  practice  of,  97,    129-30,
-
-135.
-Inheritance,  Gilyak  customs,  45,
-Initiation  customs,  90.
-Insanity,  caused  by  famine,  319.
-Inspiration  :
-
-Connexion  with    nervous   disease,
-320.
-
-Shamanistic,  193-4,  232.
-Irkutsk,  town,  climate,  8.
-Ishim,  climate,  7.
-
-.Tenghiz  Khan  :  see  Djingis  Khan.
-
-Jesup  Expedition,  linguistic  re-
-searches, IG.
-
-Jew's  harp,  used  by  Neo-Siberian
-tribes,  216.
-
-Jochelson,  Waldemar  I,  biographical
-sketch,  327.
-
-Kalau,  evil  spirits,  266-8.
-Kaliany,  spirits,  184.
-Kalmuk  tribe  (Eleut)  :
-Marriage  customs,  121-2.
-
-
-Kalmuk  tribe  (Eleut)  (continued) :
-Ninnber  and  distribution,  20.
-Sacrificial  ceremonies,  304.
-Social  organization,  64.
-Kalym  customs  :
-Altaian,  117.
-Buryat,  118,  121.
-Gilyak,  50  1,  100-1.
-Ostyak,  120-7.
-Samoyed,  123,  124,  125.
-Tungusic  tribes,  105-6.
-Yakut,  107-8.
-Kamchadal  tribe  :
-
-Birtli  customs  and  beliefs,  129-30.
-Death  and  burial  customs  .and  be-
-liefs, 145.
-Gods  and  spirits  of,  269-70,
-Marriage  customs,  87-9,
-Number  and   distribution   of,    18,
-
-19.
-Shamans  :    male  and  female,  and
-change    of  sex,   243,    248,   251-2,
-254,  255  ;  type  of,  171-2,  209.
-Kamchatka,  9,  10.
-Kelet,  evil  spirits,  258-9.
-Kerek  tribe,  death  and   burial  eus-
-
-toms,  145-6.
-Keretkun,  sea-god,  292-4.
-Khabarovsk,  climate,  8.
-Khlay-nivukh,   in    Gilyak    customs,
-
-48.
-Khorinsk,  Tungu  sub-clan,  52.
-Khoshot,  tribe,  63.
-Kindred  :  see  Relationship,  Consan-
-guinity, Affinitv,  &c.
-Kinitti,  of  the  Yakut,  110-11.
-Kirgis,    tribe,    social     organization,
-
-54-5.
-Kittegan,  term  explained,  109.
-Klementz,       Dmitri,      biographical
-
-sketch,  327.
-Koekchuch,     of     the      Kamchadal,
-
-251-2,  254-6.
-Kon,  Felix,  biographical  sketch,  327,
-Koiyak  :
-
-Birth  customs  and  beliefs,  136-7.
-Ceremonies  described,  294-6.
-Death  and  burial  customs  and  be-
-liefs, 149-51,
-God  and  spirits  of,  261-8.
-Language,   similarity  with  Chuk-
-
-chee,  16.
-Marriage  customs,  80-7.
-Number  and  distribution,  18,  19,
-Shamans  :  accessories  208  ;  family
-shaman,  170 ;   male  and   female
-and    change     of    sex,    243,    245,
-248,  250-1  ;  performances  of  228-
-30,  232;   type    and   duties,    192;
-vocation    and    preparation,    175,
-179.
-Social  organization,  82-6.
-
-
-B   b
-
-
-370
-
-
-INDEX
-
-
-Kul-Odyr.    inulersiviund     god,    165,
-
-Kurgan,  elimato,  7.
-
-Kuril  tiibc,  marriage  customs,  89-90.
-
-Kut,  term  ixplained,  279.
-
-Lamunkhinsk,  Tungu  sub-clan,  52.
-Lamut  trilio  :
-
-Clan  system,  51.
-
-Geographical  position,  20.
-Lapps :
-
-I>rum  of  shaman,  205,  22()  7.
-
-I'urificat  ion  ceremony  inconnexion
-with  birth,  143-4.
-
-Type  of  sliaman,  190,  201.
-Latah,  disease   <>i  Malays,  comi)ared
-witli  iimurakh  of  Siberian  tribes.
-321-5.
-Lena,  river,  10.
-Leprosy  in  Siberia,  308.
-Levirate  custom,  79,  85.
-
-Magic  :
-
-Amulets  of  dried  flesh  and  bones,
-
-145.
-Fur  taken  from  clothes  of  the  dead,
-
-147.
-Protective  ceremonies  against   in-
-fluences of  the  dead,  146,  147.
-See  also  Shamanism  and  Shamans.
-Malays,  nervous  disease  called  latah.
-
-321-5.
-Mammoth,  Chukchee  beliefs  respect-
-ing, 259-60.
-Manchu  people  :
-
-Invasion  of  China,  21.
-Tungusic  origin,  20.
-Manyarg  tribe,  20.
-Marriage  :
-
-Capture,  114,  118.
-Customs  described,  70-128.
-Kalym  custom,  origin,  50-1.
-Levirate  custom,  79,  85.
-Purchase    of   the   bride,    customs.
-94-6,  100  1.
-Serving    for    the    bride,    customs,
-72-4,  82-8,  93-4.
-Matchmakers,  customs  respecting,  83,
-
-93-4,  95-6,  108-9,  114,  119,  123.
-Matriarchy,   Ainu  customs  showing
-
-traces  of,  104-5.
-MeLancliolia,  in  Siberia,  317.
-Menerik,    class   of  nervous  disease,
-
-316,  319.
-Men  of  the  Mountain,  Sea,  Sky,  and
-
-Earth,  in  Gilyak  mytbs,  45.
-Menstruation,  taboos,  132.
-Merkyut,  bird  of  heaven,  invocation
-
-to,  800-1.
-Mimicry,   in   hysteria,  310-13,   316,
-
-320,  321-5.
-Minusinsk,  climate,  7.
-
-
-Mly-vo,  term  explained,  153.
-Mongolic  tribes:
-
-Amiirakh  disease  among,  324.
-Ceremonies,  303-6.
-Concjucsts  in  13th  century,  21-2.
-Gods,     spirits    and    soul,    lieliefs,
-
-283-8.
-Marriage  customs,  118-22.
-Number  and  geographical  position,
-
-18,  20.
-Social  organization,  63  7.
-Monotheism,    Koryak    tendency    to,
-
-261-2.
-Monsters,  of  Chukchee,  259-60.
-Mourning,  external  signs,  164-5.
-Murder :
-
-Blood-revenge  for:   s6e   Blood- re-
-venge.
-Chukchee  customs  respecting,  24-5.
-
-Name-giving      ceremonies,      134-5,
-
-140-1,  143-4.
-Nasleg,  use  of  term  explained,  56.
-Nations  of  Turkic  tribes,  53.
-Neo-Siborians  :
-
-Adoption  of  term,  16.
-Birth  customs  and  beliefs,  138-44.
-Death  and  burial  customs  and  be-
-liefs, 155-65.
-
-Marj'iage  customs,  105-128.
-Number  and  geographical  distribu-
-tion, 19-21.
-Shamanism,  form  of,  167,  169.
-Shamans ;      accessoiies,     203-27  ;
-performances,    238-42 ;    prepara-
-tory   period,    182-90 ;    and   sex,
-246  ;  types  and  duties,  194-202.
-Social  organization,  51-69.
-Nerchinsk,  climate,  8,
-Nexiyini,  custom  :  see  Avoidance.
-Nikohievsk,  climate,  8.
-Nordenskiold,  Arctic  navigator,  2.
-North  east  Passage,  search  for,  2.
-Nowosioly,  class  of  European  Siber-
-ians, 17.
-Nunii-Toruni,  heavenly  god,  165.
-
-Ob,  river,  9.
-
-Odakh,  term  explained,  116.
-Okhotsk,  climate,  9.
-Olchi  tribe  :
-
-Accessories  of  shamans,  204.
-
-Death  and  burial  customs  and  be-
-liefs, 156.
-'Old  men',  trilial  customs,  37-8,  49.
-Old    people,    custom    of    killing    in
-
-former  times,  169,  318.
-Olongho,  ancient  poems,  57,  62.
-Orochi  tribe  :
-
-Burial  customs,  156.
-
-Distribution  and  numbers,  20.
-
-Marriage  customs,  107.
-
-
-INDEX
-
-
-371
-
-
-Orochon  tribe,  21 ;  sfealso  under  Tun -
-
-gus,
-Oroke  tribe,  21.
-Ostyak  tribe  :
-
-Classification  as   Palaeo- Siberians,
-
-16.
-Death  and  burial  customs  and  be-
-liefs, lGi-5.
-Marriage  customs,  125-8.
-Muuiber  and  distribution,  18,  19.
-Shaman  :    druiu,   222,   220  ;    male
-and     female,     243 ;     preparatory
-period,  189  ;  vocation,  177.
-Social  organization,  08.
-Oyrat,    traditional    descent    of    tlie
-Buryat  from,  05.
-
-
-Palae-asiats,  use  of  tuimand  reasons
-
-for  rejecting,  15.
-Palaeo-Siberians  :
-Adoption  and  application  of  term,
-
-15.
-Birth  customs  and  beliefs,  129  38.
-Death  and  burial  customs,  1-15-55.
-Marriage  customs,  70-105.
-Numbers  and  geographical  distri-
-bution, 18-19.
-Shamanism,  form  of,  107,  109.
-Shamans  :      accessories,      205-10  ;
-male  and   female  and  change  of
-sex,  243-55;  performances  228-33;
-preparatory  period,  178-82;  type
-and  duties  of,  191-4.
-Social  organization,  23-51.
-Pathology,      prevalent     diseases     in
-
-Siberia,  307-25.
-Peninelau.   in    Kuryak    beliefs,   149,
-
-269.
-Petropavlovsk,  climate,  9.
-Pilsudski,    Bionislaw,     biographical
-
-sketrli,  328.
-Pipe,  offer  of,  in  Altaian  ceremonies,
-
-115.
-Poles,  in  Siberia,  17,  18.
-Polyandry,  Gilyak  custom,  99-100.
-Polygyny,   practice    of:    Ainu,    104:
-Gliya'k,     101  ;     Kamchadal,    89 ;
-Korvak,  80  ;  Kuril,  89-90  ;  Sam-
-oyed",  125  ;  Tungus,  100-7;  Yakut,
-59,  112  ;   Yukaghir,  90.
-Potanin,    Gregory,    X.,    biograpliiial
-
-sketch,  327-8.
-Potanina,  Mrs.   A.  V.,  collaboration
-
-with  her  husband,  328.
-Presents,    ceremonial    exchange    of,
-
-293-4.
-Property  :
-Gilyak  customs,  45.
-Yakut  customs,  57.
-Prophet,  the  shaman  as,  193-4,  232,
-302-3.
-
-
-Prostitution:
-
-Chukchee  customs,  78-80.
-Development  on  coast  of  Behring
-
-Sea,  80.
-Hospitality    prostitution    custom,
-79,  86,  90-1,  107.
-Przewalski,     N.      M.,     biographical
-
-sketch,  328.
-Punishment  :
-
-Adultery,  by  Tungus,  100.
-Ill-tnatnient  of  degs  jjunished  in
-
-future  life,  148,  150.
-Murder  :  s(c  Blood-revenge.
-Purga,  Arctic  snowstorm,  0.
-
-
-Rati",  term  explained,  152.
-
-Ransom,    substituted    for    llood-ro-
-
-vengo,  25,  26-7,  40.
-Raven  myths,  257,  258,  203.
-Reindeer,       sacrificial       ceremonies,
-
-291-4,  295,  290.
-Reindeer  beiug,  Chukchee,  257.
-Relationship,  system  of:
-
-Chukchee,  28-32.
-
-Koryak      marriage     prohibitions,
-81-2.
-
-Tungusic  tribes,  51.
-
-Yakut,  59-62.
-
-Yukaghir,  39-43.
-
-See  also  Affinity,  Consanguinity.
-Religion  :
-
-Ceremonies  :  sie  Ceremonies.
-
-Gods,  spirits  and  the  soul,  25C-90.
-
-Shamanism  and  the  shaman,  166-
-255.
-Rites  :  see  Ceremonies.
-Rozsypi,  term  explained,  12.
-Russians  :
-
-Annexation  of  Siberia,  21.
-
-Chukchee  marriagts  of,  74-5,  79.
-
-Clans   formed   under    administi-a-
-tion,  misleading,  28,  33.  30.  51-2.
-
-Early  sexual  life  of  girls  in  Sil  eria.
-70.
-
-Number  in  Sibeiia,  17-18.
-
-
-Sacrifices,  ceremonial  :
-Altaian,  280-1,  298-303.
-Chukchee,  70,  256-7,  291-4.
-Consecration   of   a    shaman,    18.5,
-
-180,  188^9.
-Funeral  rites,   147,   148,  151,   152,
-
-151,  155,  160,  164.
-Gilyak,  45,  40.  272.
-Koryak,  265,  294-6.
-Mongolic  tribes,  303-6.
-Presence  of  shaman  at,  197.
-Shamanistic,  238-9.
-Tailgan  of  the  Buryat,  05-7.
-Yakut,  110,  297-8.
-
-
-372
-
-
-INDEX
-
-
-Samoyedic  tribes  :
-
-Death  and  burial  customs  and  Ik-
-liefs,  162-5.
-(rods  and  spirits  of,  28'J.
-Hysteria  among,  313-14.
-Marriages  customs,  122-.5.
-Number  and  geographical  distrilni-
-
-tion,  18,  19.
-Shaman  :     accessories,    203,    222,
-226  ;  male  and  female,  243  ;  per-
-formances of,  239-40  ;  preparatory
-period,  189-90  ;  type  and  duties,
-201.
-Sarakka,  Lapp  goddess,  143,  144.
-Sayan  Mountains.  10.
-Scalping  liy  Siberian  tribes,  69.
-Sea-coast  territory,  climate,  8.
-Sea   deities   of    the    Chukchee,    257,
-
-292-4.
-Semi-Polatinsk  territory,  climate,  8.
-Seoks,  term  explained,  54.
-Sex,   shamans'  so-called   change   of,
-
-243-55.
-Sexual  jealousy,  Koryak,  86.
-Sexual  life  :
-
-Koryak  abnormal  relations,  86-7.
-Man-ia2;e  :  see  Marriage.
-Prostitution,  78-80,  86,  90-1,  107.
-Russian  girls  in  Siberia,  70.
-Shadows  of  the  dead,  beliefs  respect-
-ing, 165,  290.
-Shagund,  in  Gilj'ak  customs,  45.
-Shamanism  and  shamans  :
-
-Accessories  of  shaman,  203-27.
-Altaian    sacrifice   to    Bai   Yulgen.
-
-298-303.
-Burial  rites,  156-8,  162.
-Character  of,  discussed,  166-8.
-Leprosy  cured  by,  308.
-Male    and    female    shamans    and
-change  of  sex.  243-55.
-Nature  of  office,  169-72.
-Origin     and     meaning     of     word
-shaman,  197-8.
-Performances,  228-42.
-Power  of  Altaian  shaman,  281.
-Preparatory  period  of  the  shaman,
-178-90.
-Protection  and  rearing  of  children,
-ceremonies  and  customs,  139-40,
-305-6.
-Purifications  by  water,  187.
-Souls  of  shamans,  Buryat  belief,
-286,  287.
-
-Souls  recovered  by  shaman,  260.
-Spirits  which   assist  the  shaman,
-
-258,  259.
-Susceptibilitj'  of  shaman  to  nervous
-
-diseases,  319,  320.
-Types  and  duties  of  shaman,  191-
-
-202.
-Vocation  or  call  of  shaman,  172-8.
-
-
-Shamanism  and  shamans  (continued)  :
-
-Yukaghir  customs,  37,  38.
-Siberia  :
-
-Annexation  by  Russia,  21.
-
-Climate,  3-9.
-
-Diseases  prevalent  in,  307-25.
-
-Ethnology  :  see  Ethnology.
-
-Flora  and  fauna,  12.
-
-Geography,  1-12.
-
-Mountains,  10.
-
-Origin  of  name,  1.
-
-Population  statistics,  17-18.
-
-Rivers,  9-10.
-Sibirskaya  yazva  :  see  Anthrax.
-Sieroszewski,  Waclaw,    biographical
-
-sketch,  328.
-Sin,  Gilyak  'common  sin',  49.
-Singing   while   asleep,    in    hysteria,
-
-316-17.
-Skeleton,  svmbol  on  dress  of  shaman,
-
-217-18."'
-Slaves :
-
-Chukchee  use  of,  26-7.
-
-Emasculation   of  character  aimed
-at,  255.
-
-Korjak  customs,  33.
-
-Ostyak  customs,  69.
-
-Yukaghir  customs,  38-9.
-Sleep,  protracted  periods  of,  by  sha-
-mans, 179.
-Smiths  :
-
-In  Buryat  myths,  285.
-
-Paticipation  in  power  of  the  sha-
-man,   199-200,    210-11,    212-13,
-247.
-Snowstorms,  Arctic,  described,  6.
-Social  organization  of  tribes,  23-69.
-
-Sev  also  Marriage.
-Solon  tribe,  21,
-
-Sorcerer,  Votyak  black  shaman  con-
-verted into,  202.
-Soul,  beliefs  respecting  :
-
-Ainu,  275-6.
-
-Altaian,  281-2.
-
-Ancestors,  reborn  in  cliildren,  130,
-136.
-
-Buryat,  158-9,  286-8.
-
-Chukchee.  260-1.
-
-Gilyak,  272-3.
-
-Koryak,  149,  269.
-
-Mongolic  tribes,  286-8.
-
-Samoved  and   Finnic  tribes,  165,
-290."
-
-Turkic  tribes,  279-82.
-
-Yakut,  161.
-Spiders,  eaten  to  induce  pregnancy,
-
-129.
-Spirits  or  beings  :
-
-Ainu,  275.
-
-Chukchee,  256-61,
-
-Finnic  tribes.  288-90.
-
-Gilvak,  271-2.
-
-
-INDEX
-
-
-37a
-
-
-Spirits  or  boings  (^continued)  :
-Korv;ik,  "JtU  S.
-Monsolio  tril.es,  2S3-S.
-Turkic  tribes.  277  81.
-Starozylv,  class  of  European  Siberians,
-
-17.
-Sterility  :
-
-Kamcliaibil  drink  to  induce,  129.
-
-Yukaghir  beliefs  respecting,  132.
-
-Sternberg,     Dr.     Leo,    biographical
-
-sketch,' 328-9.
-'Strong   man',    customs   respecting,
-
-25-6,  37,  38.
-Suicide,   'voluntary   death'  custom,
-
-317-18.  319.
-Supremo  beings  :  see  Gods.
-Sur,  term  explained,  279-80.
-
-
-Taboo  :
-
-Chukchee  customs  and  beliefs,
-133-5.
-
-Gilyak  customs,  49.
-
-Koryak  customs,  34,  137.
-
-Siiaman'.-  privileges,  253.
-
-Yakut,  142.
-
-Yukaghir  customs.  90,  131-  2.
-i'ailgan  festival,  H5-7.
-Tarasun,  Buryat  drink,  18C>.
-Tartars  :
-
-Accessories  of  shaman,  219,  220.
-
-Use  of  name,  22.
-Tayga,  primeval  forest,  9,  12.
-Telengit   tribe,    social    organization,
-
-53.
-Teleut  tribe :
-
-Accessories  of  shaman,  219.
-
-Birth  customs  and  beliefs,  141.
-
-Marriage  customs,  115-16.
-Tengeri,  "of  the  Buryat,  283-4.
-Thusind,  Gilyak  clan  customs,  40-9.
-Tobolsk,  climate,  7,
-Tolgan  tribe,  20.
-Tomsk,  ilimate,  7.
-Totemism,     Koryak     wolf  -  festival
-
-compared  with,  295.
-Totosh,  seok,  social  customs,  54.
-Toyoles,  tribe, social  oruanization,  53.
-Tugiasirsk,  Tungu  sub-clan,  52,
-Tundra,  swamp  desert,  11.
-Tungus :
-
-Death  and  burial  customs  and  be-
-liefs, 155-6.
-
-Hysteria  among,  309-10,  319,  324.
-
-Marriage  customs,  105-7.
-
-Number  and  geographical  distribu-
-tion, 18,  20-1.
-
-Shamans,  accessories,  203-4,  205,
-206,  210  ;  male  and  female,  243  ;
-performances.  231  ;  vocation,  177.
-
-Social  organization,  51-3.
-Turgut  tribes,  63.
-
-
-Turkic  tribes  :
-
-Ceremonies,  297-303.
-
-Gods  and  spirits  of,  277  81.
-
-Marriage  customs,  107-17.
-
-Numberand  distribution,  18,l9-2<i.
-
-Social  organization,  53-62.
-
-Soul    and    the    universe,     beliefs.
-279-82.
-Turukhansk,  climate,  5.
-Twanmoa-tze,  term  explained,  20.
-
-Udinsk,  climate,  9.
-Ulus,  term  explained,  56.
-Underworid  :  beliefs  in,  148,  149-50,
-153,  155,  165,  276  ;  visits  of  sha-
-mans to,  240-2.
-Universe,    beliefs     respecting,     261 ,
-
-267-8,  270,  279,  281.
-Ural  Altaians,  former  clas-sificatiun
-and  reasons  for  rejecting,  14,   16
-17.
-Uriankhai  tribe  :
-
-Accessories  of  shaman,  217.
-
-Burial  customs,  162.
-
-Protection  of  children  ceremonies,
-
-140.
-Social  organization,  55,  63.
-
-Vairgit,  term  explained,  256.
-
-Vega,  Arctic  voyages  of,  2.
-
-Ventriloquism,    practised     by     sha-
-mans, 229,  231.
-
-Verkhoyansk,  climate,  5.
-
-Vogul  tribe  :
-
-Death  and  burial  customs  and  be-
-liefs, 163-4.
-Gods  and  spirits  of,  288-90.
-
-Voluntary    death,    custom,    317-18,
-319.
-
-Votyak  tribe :
-
-Social  organization,  67.
-Type  of  shaman  and  his    duties.
-195,  201-2,  248.
-
-Walrus  beings,  Chukchee,  257.
-Walrus  head,  game  of  playing  ball
-
-with,  149,  155.
-WJialc,    sacriBcial    ceremonies,   292,
-
-295.
-Wierbicki,  Basil,  biographical  sketch,
-
-329.
-Wolf.festival,  295-0.
-Women  :
-
-Birth  customs,  129-44,
-
-Ghosts  of  deceased  women  feared
-
-by  Ainu,  275.
-Gilyak  customs,  44,  48.
-Marriage  customs  :  see  Marriage.
-Matriarchy,  Ainu  customs  showinj:
-
-traces  of,  104-5.
-Shamans    and    relation    to    male
-.shamans,  197-200,  243-55.
-
-
-374
-
-
-INDEX
-
-
-Womcu  {co)Uiiiuc(i)  :
-
-Social  position,  34-5,  38,  104,  276.
-Susceptibility  to  nervous  diseases,
-310.
-
-Yablonoi  Mountains,  10.
-Yadrintzefi',    Nikholii   M.,   Inoyrajjh-
-
-k-al  sketch,  32!t.
-Yagan,  of  Buryat  clan,  65.
-Yakut  tiil)C  :
-
-Birth  cu.stoins  and  beliefs,  141-3.
-Birth  of  cattle  corenionios,  143.
-Ceremonies,  L'97-8.
-Death  and  burial  customs  and  be-
-liefs. 100-1.
-(iods  and  spirits  of,  277-!>.
-Hysteria   anion-     309-1 1,  312-13,
-31it,  324.
-Marriage  customs,  107-14.
-Migrations,  22.
-
-Number  and  geographical  distribu-
-tion, 20.
-Siiamans  :  aceessorits,  204-5,  210-
-18;  male  and  female,  and  cliange
-of  sex,  243,  246  8,  252;  perform-
-ances, 233-9  ;  prepai-atory  period,
-173,  177,  178,  182-y;  type  and
-duties,  194-200.
-
-
-Yakut  tribe  {coniinued) :
-
-Social  organization,  55-62.
-
-Soul,  beliefs  respecting,  279-80.
-Yakutsk,  climate,  5.
-Yekyua,  of  shamans,  182-3,
-Yenisei,  river,  9.
-Yeniseisk,  climate,  7,
-Yermak,      Cossack,      conquests      in
-
-Siberia,  21.
-Ye-usa,  term  explained,  59.
-Ysyakhs,  Yakut  festivals,  58.
-Yukaghir  tril)e  :
-
-Birth  customs  and  beliefs,  130-3.
-
-Death  and  burial  customs  and
-beliefs,  145.
-
-Hysteiia  among,  311.
-
-Language  of,  16.
-
-Marriage  customs,  90-7.
-
-Number  and  distribution,  18,  19.
-
-Shamans:  accessories,  209  ;  family
-shaman,  170;  male  and  female,
-243;  performances,  230-1.
-
-Social  organization,  36-43.
-
-Yulgen,  god  of  the  Altaians,  280-1,
-298-303.
-
-Zayan,  term  explained,  286.
-
-
-PLATES
-
-
-LIST   OF    PLATES
-
-1.  Ainu  of  Sakhalin  {PilsiidsJci's  collection).
-
-2.  Twenty-seven  year  old  Ainu  woman  (Sakhalin)  and  her
-young  niece.  The  woman's  upper  lip  is  tattooed  {Pilsudski's
-collection).
-
-3.  Ainu  Bear-festival.  The  matting  wall  is  hung  with
-various  implements  and  fetishes  used  at  the  festival.  The  men
-are  eating  the  flesh  of  the  slain  bear.  They  are  supposed
-to  be  the  guests  of  the  bear  [Pilsudslci's  collection).
-
-4.  A  Vogul  of  the  northern  Ural.  {Collection  of  the  Peter  the
-Great  Museum  of  Anthropology  and  FAhnography).
-
-5.  Vogul  woman  (ibid.).
-
-6.  An  Obdorsk  Samoyed  family  [ibid.].
-
-7.  Transbaikal  Buryat  (ibid.).
-
-8.  Married  woman  of  the  Transbaikal  Buryat  ifbid.).
-
-9.  Group  of  Buryat  women  of  the  Selenginsk  district  [ibid.).
-
-10.  Sedentary  Transbaikal  Tungus  {ibid.).
-
-11.  Man  of  the  Transbaikal  Oroehon  {ibid.).
-
-12.  Hunting  costume  of  the  Transbaikal  Oroehon  {ibid.).
-
-13.  Transbaikal  Oroehon  woman  {ibid.).
-
-1-i.  Disposal  of  the  corpse  of  a  child  among  the  Transbaikal
-Oroehon  {ibid.).
-
-15.  Disposal  of  the  corpse  of  an  adult  man  among  the  Trans-
-baikal Oroehon  {ibid.).
-
-16.  Chariot  of  the  god  Maydar  of  the  Transbaikal  Buryat  {ibid.).
-
-
-Plate  1
-
-
-or-
-
-
-Plate  2
-
-
-Plate  4
-
-
-Plate  5
-
-
-Plate  6
-
-
-fi
-
-
-^-
-
-
-cl)
-
-
-Ph
-
-
-#
-
-
-Plate  10
-
-
-Plate  11
-
-
-Plate  12
-
-
-L
-
-
-i'l.All-     13
-
-
-Or-0
-
-
-f\  r.t^r-
-
-
-ETHNOLOGICAL    MAP
-
-OF
-
-SIBERIA
-
-Scale  I 1 1 I I I       I       I  Eng  Miles
-
-100      0  200  400  600
-
-
-=A=R-
-
-
-H.S.Hattm
-
-
-Oxford
-
-
-60
-
-
-SIBERIA
-
-
-Scale  I I      I      I      I       r  Eng  Miles
-
-100     0  ?oo  *oo
-
-
-S
-
-
-:2
-
-
-2:
-
-
-31
-
-
-^
-
-
-40
-
-
-H  S  Haiti n.
-
-
-Oxford
-
-
-'/
-
-
-^
-
-
-0)
-
-4J
-
-0)
-C      •
-
-•H  (C
-O   -H
-
-•♦»  ^
-C!    (U
-
-"^   ,0
-
-•H
-0)  CO
-
-S    PI
-
-•H
-
-•  «>D
-
-(C    •H
-
-o  o
-
-•H    ,9
-
-&
-
-CD
-N
-
-o
-
-
-rt  o
-
-
-University  of  Toronto
-Library
-
-
-DO  NOT
-
-REMOVE
-
-THE
-
-CARD
-
-FROM
-
-THIS
-
-POCKET
-
-
-Acme  Library  Card  Pocket
-LOWE.MARTIN  CO.  UMITed

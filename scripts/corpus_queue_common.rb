@@ -134,6 +134,27 @@ module CorpusQueue
     raw.dup.force_encoding("Windows-1252").encode("UTF-8", invalid: :replace, undef: :replace, replace: "")
   end
 
+  # Canonical body derived from the CLEANED converted file (imports/converted/*),
+  # so OCR-cleanup passes (scripts/clean_ocr_conversion.rb) are preserved and the
+  # canonical text mirrors converted (the canonical==converted parity invariant).
+  # Drops the single H1 title line the convert step prepends (canonical_markdown
+  # re-adds the title), normalizes line endings, trims edge blanks, collapses blank
+  # runs, and strips trailing whitespace so the result passes check_clean_markdown.
+  def canonical_body_from_converted(converted)
+    text = decode_text(converted).delete_prefix("﻿").gsub("\r\n", "\n").gsub("\r", "\n")
+    lines = text.lines(chomp: true)
+    lines.shift if lines.first.to_s.match?(/\A#\s+\S/)
+    lines.shift while lines.first && lines.first.strip.empty?
+    lines.pop while lines.last && lines.last.strip.empty?
+    lines = collapse_blank_lines(lines.map(&:rstrip))
+    body = lines.join("\n") + "\n"
+    # Neutralize angle-bracket tokens that read as raw HTML tags to the markdown
+    # gate. These are OCR glyph garbage ("<L>", "<u a>") or editorial-reconstruction
+    # brackets (Budge/Assyriology restore lost text in <...>). Guillemets preserve
+    # the visual meaning while passing check_clean_markdown. Deterministic.
+    body.gsub(/<([A-Za-z\/][^>\n]{0,40})>/) { "‹#{Regexp.last_match(1)}›" }
+  end
+
   def clean_raw_text(raw)
     text = decode_text(raw)
     text = text.delete_prefix("\uFEFF").gsub("\r\n", "\n").gsub("\r", "\n")

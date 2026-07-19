@@ -1921,7 +1921,7 @@ e        as  e  in  then.
 
 f        as /in  fife.
 
-g        as   j  in  get.
+g        as  <j  in  get.
 
 g'       an  aspirated  g.
 
@@ -1965,7 +1965,7 @@ m  as  m  in  mum.
 
 n  as  n  in  nun.
 
-n  as  n j  in  sing.
+n  as  n<j  in  sing.
 
 o  as  o  in  note.
 
@@ -5892,7 +5892,7 @@ BUREAU   OF  AMERICAN    ETHNOLOGY
 EIGHTEENTH   ANNUAL   REPORT      PL.      XXXIV
 
 
-FIRE-MAKING    IMPLEMENTS     ONE-FIFTHI
+FIRE-MAKING    IMPLEMENTS    <ONE-FIFTHI
 
 
 CHISELS FINISHING    TOOLS
@@ -6400,7 +6400,7 @@ BUREAU   OF   AMERICAN    ETHNOLOGY
 EIGHTEENTH   ANNUAL  REPORT      PL.    XXXVII!
 
 
-WOOD-WORKING    TOOLS     ONE-FOURTH
+WOOD-WORKING    TOOLS    <ONE-FOURTH
 
 
 NELSON j  TOOL    BOXES  95
@@ -8548,7 +8548,7 @@ carved  to  represent  the  head  of  a  seal.
 Figure  9,  plate  LII,  from  St  Michael,  is  a  very  ancient  scratcher
 obtained  in  the  ruins  of  an  old  village.  It  is  made  of  reindeer  horn
 and  has  tv.-o  points  forming  a  Y-shape  end,  on  which  the  seal  claws
-18  ETII  J
+18  ETII <J
 
 
 130  THE    ESKIMO    ABOUT    BERING    STRAIT  [ETH.ANN.  18
@@ -9941,7 +9941,7 @@ racy  is  remarkable.  The  birds  sometimes  would  see  the  spear  com
 ing  and  dive  just  before  it  reached  them,  but  almost  invariably  the
 
 
- M
+<M
 
 
 «O
@@ -10428,7 +10428,7 @@ butt  of  the  shaft  are  three  feath
 ers,  the  ends  of  which  are  inserted
 and  fastened  by  sinew  lashings.
 
-Fio.44-Fish  arrows   Tv).  Figure  44  (7)  shows  a  fish  arrow,
+Fio.44-Fish  arrows  <Tv).  Figure  44  (7)  shows  a  fish  arrow,
 
 from   Xunivak   island,  somewhat
 
@@ -12693,7 +12693,7 @@ have  names  for  most  of  the  primary  colors.
 Black  is  called  ti\n-u' -1i ;  white,  M-tugh-u-li;  red,  kau-fy'-d-U;  brown
 or  russet,  kau-fg'-u-Ulch-lu'-g'uk;  green,  chun-nkh'-luk  or  chun-ug'-u-li.
 Various  other  shades  are  distinguished  as  being  colored  like  natural
-objects;  gray  or  clay  color  is  called  ki-gu'-yii-gn il'-ifi-ulc(frow  kt-gv'-yulc,
+objects;  gray  or  clay  color  is  called  ki-gu'-yii-gn<il'-ifi-ulc(frow  kt-gv'-yulc,
 clay,  and  a'-lhin-Ak,  color);  purple  is  ki-un'  ii'-lMn-ult;  blue  is  ku-logh'-'&n
 (i'-lhtn-iik.
 
@@ -15270,7 +15270,7 @@ One-half  (in  quantity) au-ilh'-ha,  or  ait-ilh'-ii-huk.
 
 A  part  or  portion,  in  length  or  quantity au-tikh'-uk.
 
-All Ui  m   in'.
+All Ui  m  <in'.
 
 None pi'-tnk.
 
@@ -31183,3 +31183,36 @@ Richmond,  CA  94804-4698
 ALL  BOOKS  MAY  BE  RECALLED  AFTER  7  DAYS
 
 •  2-month  loans  may  be  renewed  by  calling
+(510)642-6753
+
+•  1-year  loans  may  be  recharged  by  bringing
+books  to  NRLF
+
+•  Renewals  and  recharges  may  be  mad<~
+days  prior  to  due  date.
+
+
+DUE  AS  STAMPED
+
+
+JUN  0 1  2003
+
+
+FORM  NO.  DD6
+
+
+UNIVERSITY
+P
+
+
+I
+
+
+"'•
+
+
+GENERAL  LIBRARY -U.C.  BERKELEY
+
+
+6000137058
+

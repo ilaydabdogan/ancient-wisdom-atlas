@@ -66,249 +66,6 @@ figures:
 
 # The Yi King (I Ching) (Sacred Books of the East, Vol. 16)
 
-SACRED BOOKS OF CHINA
-THE TEXTS OF CONFUCIANISM
-
-
-eae Sh one , —
-* - —— : . d .
-
-ry : posta . oe .
-- Pal 4 a3
-
-oe . : . ; ‘% ’ aa
-
-
-THE
-SACRED BOOKS OF THE EAST
-
-
-Translated by
-VARIOUS ORIENTAL SCHOLARS
-
-
-Edited by
-F. MAX MULLER
-
-
-Vol. 16
-
-
-SACRED BOOKS OF THE EAST
-
-
-(50 VOLUMES)
-Series Editor : F. Max-Miiller
-
-
-ISBN: 978-81-208-0101-1 (Set) Rs. 15000 (Each Vol. Rs. 350)
-
-
-These volumes of the Sacred Books of the East series include translations of
-all the most important works of the seven non-Christian religions that have
-exercised a profound influence on the civilisations of the continent of Asia.
-The Vedic Brahmanic system claims 21 volumes, Buddhism 10, and Jainism
-2;8 volumes comprise Sacred Books of the Parsis;2 volumes represent Islam;
-and 6 the two main indigenous systems of China. Translated by twenty
-leading authorities in their respective fields, the volumes have been edited
-by the late F. Max Miller. The inception, publication and the compilation of
-these books cover almost 34 years.
-I. BUDDHISM
-Vol. 49: Buddhist Mahayana Texts (2 Parts)
-Vol. 11: Buddhist Suttas
-Vol. 10: The Dhammapada and Sutta Nipata
-Vols. 35 & 36: The Questions of King Milinda (2 Parts)
-Vol. 21: The Saddharma Pundarika or the Lotus of the True Law
-Vols. 13,17 & 20: Vinaya Texts (3 Parts)
-II. CHINESE
-Vol. 19: The Fo-Sho-Hing-Tsan-King
-Vols. 3, 16, 27, 28, 39 & 40: The Sacred Books of China (6 Parts)
-III. A GENERAL INDEX
-. Vol. 50: A General Index to the Names and Subject-matter of the Sacred Books
-of the East
-IV. ISLAM
-Vols. 6 & 9: The Qur'an (2 Parts)
-V. JAINISM
-Vols. 22 & 45: The Jaina Sutras (2 Parts)
-VI. PARSIS
-Vols. 5, 18, 24, 37 & 47: Pahlavi Texts (5 Parts)
-Vols. 4, 23 & 31: The Zend-Avesta (3 Parts)
-VII. VEDIC-BRAHMANIC SYSTEM
-Vol. 8: The Bhagavadgita with the Sanatsujatiya and the Anugita
-Vols. 29 & 30: The Grihya-Sutras: Rules of Vedic Domestic Ceremonies (2 Parts)
-Vol. 42: Hymns of the Atharva Veda together with Extracts from the Ritual
-Books and the Commentaries
-Vol. 7: The Institutes of Vishnu
-Vol. 25: The Laws of Manu
-Vol. 33: The Minor Law Books
-Vols. 2 & 14: The Sacred Laws of the Aryas as Taught in the Schools of
-Apastamba, Gautama, Vasishtha and Baudhayana (2 Parts)
-Vols. 12, 26, 41, 43 & 44: The Satapatha Brahmana According to the Text of
-the Madhyandina School (5 Parts)
-Vols. 1 & 15: The Upanishads (2 Parts)
-Vols. 34 & 38: The Vedanta Sutras (2 Parts)
-Vol. 48: The Vedanta-Sutras (with the commentary by Ramanuja)
-Vols. 32 & 46: Vedic Hymns (2 Parts)
-
-
-THE
-SACRED BOOKS OF CHINA
-
-
-The Texts of Confucianism
-
-
-Translated by
-JAMES LEGGE
-
-
-PART II
-The Yiking
-
-
-aA
-MOTILAL BANARSIDASS
-Delhi * Patna Varanasi
-
-
-® www.motilalbanarsidass.com & info@mlbd.co.in
-© @ motilalbanarsidass y @mlbdpublishers
-
-
-Ah Reprint : Delhi, 2023
-First Published by the Oxford University Press, 1882
-
-
-© MOTILAL BANARSIDASS
-All Rights Reserved
-
-
-No part of this book may be reproduced in any form
-or by any electronic or mechanical means including information
-storage and retrieval systems without prior permission in writing
-from the author or the publisher, except by a reviewer
-who may quote brief passages in a review.
-
-
-ISBN: 978-81-208-0117-2
-
-
-MOTILAL BANARSIDASS
-41 U.A., Bungalow Road, Jawahar Nagar, Delhi-110 007, @ 01143382798
-Ashok Rajpath, Patna 800 004, @ 0612-2671442
-Chowk, Varanasi 221001, @ 0542-2412331
-
-
-UNESCO COLLECTION OF REPRESENTATIVE WORKS—Indian Series
-This book has been accepted in the Indian Translation Series of the
-UNESCO Collection of Representative Works, jointly sponsored
-by the United Nations Educational, Scientific and Cullural
-Organization (UNESCO) and the Government of India
-
-
-Published by Ravindra Jain
-MOTILAL BANARSIDASS
-41 U.A. Bungalow Road, Jawahar Nagar, Delhi-110007
-www.motilalbanarsidass.com e in ifo@mlbd.co.in
-
-
-RASHTRAPATI BHAVAN,
-New De ui-4
-June 10, 1962
-
-
-I am very glad to know that the Sacred
-Books of the East, published years ago by
-the Clarendon Press, Oxford, which have
-been out-of-print for a number of years,
-will now’ be available to all students of
-religion and philosophy. The _ enterprise
-of the publishers is commendable and I
-hope the books will be widely read.
-
-
-S. RADHAKRISHNAN
-
-
-PUBLISHERS’ NOTE
-
-
-First, the man distinguished between eternal and perish-
-able. Later he discovered within himself the germ of the
-Eternal. This discovery was an epoch in the history of the
-human mind and the East was the first to discover tt.
-
-
-To watch in the Sacred Books of the East the dawn of
-this religious consciousness of man, must always remain one
-of the most inspiring and hallowing sights in the whole history
-of the world. In order to have a solid foundation for a
-comparative study of the Religions of the East, we must have
-before all things, complete and thoroughly faithful translation of
-their Sacred Books in which some of the ancient sayings were
-preserved because they were so true and so striking that they
-could not be forgotten. They contained eternal truths,
-expressed for the first time in human language.
-
-
-With profoundest reverence for Dr. S. Radhakrishnan,
-President of India, who inspired us for the task; our deep
-sense of gratitude for Dr. C. D. Deshmukh & Dr. D. S.
-Kothari, for encouraging assistance; esteemed appreciation of
-UNESCO for the warm endorsement of the cause ; and finally
-with indebtedness to Dr. H. Rau, Director, Max Miller
-Bhawan, New Delhi, in procuring us the texts of the Series
-for reprint, we humbly conclude.
-
-
-PREFATORY NOTE TO THE NEW EDITION
-
-
-Since 1948 the United Nations Educational, Scientific
-and Cultural Organisation (UNESCO), upon the recom-
-mendation of the General Assembly of the United Nations,
-has been concerned with facilitating the translation of the
-works most representative of the culture of certain of its
-Member States, and, in particular, those of Asia.
-
-
-One of the major difficulties confronting this programme
-is the lack of translators having both the qualifications and
-the time to undertake translations of the many outstanding
-books meriting publication. To help overcome this difficulty
-in part, UNESCO’s advisers in this field (a panel of experts
-convened every other year by the International Council for
-Philosophy and Humanistic Studies), have recommended that
-many worthwhile translations published during the 19th century,
-and now impossible to find except ina limited number of
-libraries, should be brought back into print in low-priced
-editions, for the use of students and of the general public. The
-experts also pointed out that incertain cases, even though
-there might be in existence more recent and more accurate
-translations endowed with a more modern apparatus of scholar-
-ship, a number of pioneer works of the greatest value and
-interest to students of Eastern religions also merited republi-
-cation.
-
-
-This point of view was warmly endorsed by the Indian
-National Academy of Letters (Sahitya Akademi), and the
-Indian National Commission for UNESCO.
-
-
-It isin the spirit of these recommendations that this
-work from the famous series ‘Sacred Books of the East’’ is
-now once again being made available to the general public
-as part of the UNESCO Collection of Representative Works.
-
-
-CONBEN TS
-
-
-FAGE
-
-
-PREFACE . : 2 : : : : : : : . xi
 INTRODUCTION.
 CHAP,
 I. THE Yt KING FROM THE TWELFTH CENTURY B.C. TO
@@ -316,8 +73,7 @@ THE COMMENCEMENT OF THE CHRISTIAN ERA . : j
 
 
 There was a Yi in the time of Confucius. The Yi is now
-made up of the Text which Confucius saw, and the Appen-
-dixes ascribed to him. The Yi escaped the fires of 83hin. The
+made up of the Text which Confucius saw, and the Appendixes ascribed to him. The Yi escaped the fires of 83hin. The
 Yi before Confucius, and when it was made :—mentioned in
 the Official Book of Kau; in the 30 KAwan; testimony of
 the Appendixes. Not the most ancient of the Chinese books.
@@ -342,15 +98,13 @@ with the lineal figures. The seventh hexagram.
 III. THE APPENDIXES j P ‘ . ‘ ‘ : P 26
 
 
-Subjects of the chapter. Number and nature of the Appen-
-dixes. Their authorship. No superscription of Confucius
+Subjects of the chapter. Number and nature of the Appendixes. Their authorship. No superscription of Confucius
 on any of them. The third and fourth evidently not from
 him. Bearing of this conclusion on the others. The first
 Appendix. Fi-hsi’s trigrams. King Wa4n’s. The name
 K wei-shan. The second Appendix. The Great Symbolism.
 The third Appendix. Harmony between the lines of the
-figures ever changing, and the changes in external pheno-
-mena. Divination; ancient, and its object. Formation of
+figures ever changing, and the changes in external phenomena. Divination; ancient, and its object. Formation of
 
 
 Vill
@@ -372,7 +126,6 @@ cluding paragraphs.
 HEXAGRAM
 
 
-9
 HII.
 
 
@@ -521,13 +274,7 @@ CONTENTS.
 SECTION II.
 
 
-192
-194
-197
-199
 20!
-204
-207
 
 
 Xx CONTENTS.
@@ -610,11 +357,7 @@ CUOUSLY, ACCORDING TO THE OPPOSITION OR
 DIVERSITY OF THEIR MEANING 441
 
 
-Transliteration of Oriental Alphabets adopted for the Trans-
-lations of the-Sacred Books of the East
-
-
-445
+Transliteration of Oriental Alphabets adopted for the Translations of the-Sacred Books of the East
 
 
 PREFACE:
@@ -641,11 +384,8 @@ years before was of no service at all.
 What had tended more than anything else to hide the
 nature of the book from my earlier studies was the way in
 which, with the Text, ordinarily and, as I think, correctly
-ascribed to king Wan and his son Tan, there are inter-
-spersed, under each hexagram, the portions of the Appen-
-dixes I, 11, and IV relating to it. The student at first
-thinks this an advantage. He believes that all the Appen-
-dixes were written by Confucius, and combine with the
+ascribed to king Wan and his son Tan, there are interspersed, under each hexagram, the portions of the Appendixes I, 11, and IV relating to it. The student at first
+thinks this an advantage. He believes that all the Appendixes were written by Confucius, and combine with the
 text to form one harmonious work; and he is glad to have
 the sentiments of ‘the three sages’ brought together. But
 I now perceived that the composition of the Text and of
@@ -666,25 +406,21 @@ The wisdom of the course thus adopted became morc
 apparent by the formation of eight different concordances,
 one for the Text, and one for each of the Appendixes.
 They showed that many characters in the Appendixcs,
-and those especially which most readily occur to sino-
-logists as characteristic of the Yi, are hot to be found
+and those especially which most readily occur to sinologists as characteristic of the Yi, are hot to be found
 in the Text at all. A fuller acquaintance, moreover, with
 the tone and style of the Appendixes satisfied me that
 while we had sufficient evidence that the greater part of
 them was not from Confucius, we had no evidence that
-any part was his, unless it might be the paragraphs intro-
-duced by the compiler or compilers as sayings of ‘the
+any part was his, unless it might be the paragraphs introduced by the compiler or compilers as sayings of ‘the
 Master.’
 
 Studying the Text in the manner thus described, I soon
 arrived at the view of the meaning and object of the Yi,
-which I have described in the second chapter of the Intro-
-duction; and I was delighted to find that there was a
+which I have described in the second chapter of the Introduction; and I was delighted to find that there was a
 substantial agreement between my interpretations of the
 hexagrams and their several lines and those given by the
 most noted commentators from the Han dynasty down to
-the present. They have not formulated the scheme so con-
-cisely as I have done, and they were fettered by thcir belief
+the present. They have not formulated the scheme so concisely as I have done, and they were fettered by thcir belief
 in the Confucian authorship of the Appendixes; but they
 held the same general opinion, and were similarly controlled
 by it in construing the Text. Any sinologist wio will
@@ -695,8 +431,7 @@ Lessons,’ or ‘ Lectures,’ will see the agreement between my
 views and those underlying its paraphrase.
 
 After the clue to the meaning of the Yi was discovered,
-there remained the difficulty of translating. The pecu-
-liarity of its style makes it the most difficult of all the
+there remained the difficulty of translating. The peculiarity of its style makes it the most difficult of all the
 Confucian classics to present in an intelligible version.
 I suppose that there are sinologists who will continue, for
 a time at least, to maintain that it was intended by its
@@ -715,8 +450,7 @@ the manner of diviners. There is hardly another work in
 the ancient literature of China that presents the same
 difficulties to the translator.
 
-When I made my first translation of it in 1854, I endea-
-voured to be as concise in my English as the original
+When I made my first translation of it in 1854, I endeavoured to be as concise in my English as the original
 Chinese was. Much of what I wrote was made up, in
 consequence, of so many English words, with little or no
 mark of syntactical connexion. I followed in this the
@@ -726,8 +460,7 @@ unintelligible, and mine was not less so. How to surmount
 this difficulty occurred to me after I had found the clue
 to the interpretation ;—in a fact which I had unconsciously
 acted on in all my translations of other classics, namely,
-that the written characters of the Chinese are not repre-
-sentations of words, but symbols of ideas, and that the
+that the written characters of the Chinese are not representations of words, but symbols of ideas, and that the
 combination of them in composition is not a representation
 of what the writer would say, but of what he thinks. It is
 vain therefore for a translator to attempt a literal version.
@@ -738,8 +471,7 @@ that he can attain to. This is the rule which Mencius
 followed in interpreting the old poems of his country :—
 ‘We must try with our thoughts to meet the scope of
 a sentence, and then we shall apprehend it.’ In the study
-of a Chinese classical book there is not so much an inter-
-pretation of the characters employed by the writer as a
+of a Chinese classical book there is not so much an interpretation of the characters employed by the writer as a
 participation of his thoughts ;—there is the seeing of mind
 to mind. The canon hence derived for a translator is not
 one of license. It will be his object to express the meaning
@@ -756,8 +488,7 @@ generally be seen enclosed in parentheses, though I
 queried whether I might not dispense with them, as there
 is nothing in the English version which was not, I believe,
 present in the writer’s thought. I hope, however, that I
-have been able in this way to make the translation intel-
-ligible to readers. If, after all, they shall conclude that
+have been able in this way to make the translation intelligible to readers. If, after all, they shall conclude that
 in what is said on the hexagrams there is often ‘much
 ado about nothing,’ it is not the translator who should be
 deemed accountable for that, but his original.
@@ -777,8 +508,7 @@ but from the Appendixes to it, and especially from the third
 ofthem. It is more T4aoistic than Confucian.
 
 
-When I first took the Yi in hand, there existed no trans-
-lation of it in any western language but that of P. Regis
+When I first took the Yi in hand, there existed no translation of it in any western language but that of P. Regis
 and his coadjutors, which I have mentioned above and in
 various places of the Introduction. The authors were all
 sinologists of great attainments; and their view of the Text
@@ -789,8 +519,7 @@ narrow, waS an approximation to the truth. The late
 M. Mohl, who had edited the work in 1834, said to me
 once, ‘I like it; for I come to it out of a sea of mist, and
 find solid ground.’ No sufficient distinction was made in it,
-however, between the Text and the Appendixes ; and in dis-
-cussing the third and following Appendixes the translators
+however, between the Text and the Appendixes ; and in discussing the third and following Appendixes the translators
 
 
 PREFACE. XVii
@@ -813,8 +542,7 @@ ordinary school editions of the classic. So far as I can
 judge from his language, he does not appear to be aware
 that the first and second Appendixes were not the work
 of king Wan and the duke of Kau, but of a subsequent
-writer—he would say of Confucius—explaining their expla-
-nations of the entire hexagrams and their several lines.
+writer—he would say of Confucius—explaining their explanations of the entire hexagrams and their several lines.
 His own special object was ‘to open the mysteries of the
 Yi by applying to it the key of Comparative Mythology.’
 Such a key was not necessary; and the author, by the
@@ -822,21 +550,18 @@ application of it, has found sundry things to which I have
 occasionally referred in my notes. They are not pleasant
 to look at or dwell upon; and happily it has never entered
 into the minds of Chinese scholars to conceive of them. I
-have followed Canon McClatchie’s translation from para-
-graph to paragraph and from sentence to sentence, but
+have followed Canon McClatchie’s translation from paragraph to paragraph and from sentence to sentence, but
 found nothing which I could employ with advantage in
 my own.
 
 Long after my translation had been completed, and that
 of the Text indeed was printed, I received from Shanghai
-the third volume of P. Angelo Zottoli’s ‘Cursus Littera-
-turae Sinicae,’ which had appeared in 1880, About 100
+the third volume of P. Angelo Zottoli’s ‘Cursus Litteraturae Sinicae,’ which had appeared in 1880, About 100
 pages of it are occupied with the Yi. The Latin version is
 a great improvement on that in the work of Regis; but
 P. Zottoli translates only the Text of the first two hexagrams,
 with the portions of the first, second, and fourth Appendixes
-relating to them; and other six hexagrams with the expla-
-nations of king Wan’s Thwan and of the Great Symbolism.
+relating to them; and other six hexagrams with the explanations of king Wan’s Thwan and of the Great Symbolism.
 Of the remaining fifty-six hexagrams only the briefest
 summary is given; and then follow the Appendixes III, V,
 VI, and VII at length. The author has done his work well.
@@ -846,12 +571,10 @@ VI, and VII at length. The author has done his work well.
 
 XVill PREFACE.
 
-His general view of the Yi is stated in the following sen-
-tences :—‘ Ex Fa-hsi figuris, Wan regis definitionibus, Kau
+His general view of the Yi is stated in the following sentences :—‘ Ex Fa-hsi figuris, Wan regis definitionibus, Kau
 ducis symbolis, et Confucii commentariis, Liber conficitur,
 qui a mutationibus, quas duo elementa in hexagrammatum
-compositione inducunt, Yi (Mutator) vel Yi King (Muta-
-tionum Liber) appellatur. Quid igitur tandem famosus
+compositione inducunt, Yi (Mutator) vel Yi King (Mutationum Liber) appellatur. Quid igitur tandem famosus
 iste Yi King? fPaucis accipe: ex linearum qualitate
 continua vel intercisa; earumque situ, imo, medio, vel
 supremo; mutuaque ipsarum relatione, occursu, dissidio,
@@ -859,21 +582,17 @@ convenientia; ex ipso scilicet trigrammatum corpore seu
 forma, tum ex trigrammatum symbolo seu imagine, tum ex
 trigrammatum proprietate seu virtute, tum etiam aliquando
 ex unius ad alterum hexagramma varietate, eruitur aliqua
-imago, deducitur aliqua sententia, quoddam veluti ora-
-culum continens, quod sorte etiam consulere possis ad
+imago, deducitur aliqua sententia, quoddam veluti oraculum continens, quod sorte etiam consulere possis ad
 documentum obtinendum, moderandae vitae solvendove
-dubio consentaneum. Ita liber juxta Confucii explica-
-tionem in scholis tradi solitam. Nil igitur sublime aut
+dubio consentaneum. Ita liber juxta Confucii explicationem in scholis tradi solitam. Nil igitur sublime aut
 mysteriosum, nil foedum aut vile hic quaeras; argutulum
-potius lusum ibi video ad instructiones morales politicas-
-que eliciendas, ut ad satietatem usque in Sinicis passim
+potius lusum ibi video ad instructiones morales politicasque eliciendas, ut ad satietatem usque in Sinicis passim
 classicis, obvias, planas, naturales; tantum, cum liber iste,
 ut integrum legenti textum facile patebit, ad sortilegii usum
 deductus fuerit, per ipsum jam summum homo obtinebit
 vitae beneficium, arcanam cum spiritibus communicationem
 secretamque futurorum eventuum cognitionem; theurgus
-igitur visus est iste liber, totus lux, totus spiritus, hominis-
-que vitae accommodatissimus ; indeque laudes a Confucio
+igitur visus est iste liber, totus lux, totus spiritus, hominisque vitae accommodatissimus ; indeque laudes a Confucio
 ei tributas, prorsus exaggeratas, in hujus libri praesertim
 appendice videre erit, si vere tamen, ut communis fert
 Opinio, ipse sit hujus appendicis auctor.’
@@ -884,8 +603,7 @@ preparation by M. Terrien de Lacouperie, and Professor R.
 K. Douglas of the British Museum and King’s College,
 London. I have alluded on pages 8, g of the Introduction
 to some inaccurate statements about native commentaries
-on the Yi and translations of it by foreigners, made in con-
-nexion with this contemplated version. But I did not know
+on the Yi and translations of it by foreigners, made in connexion with this contemplated version. But I did not know
 
 
 PREFACE. X1X
@@ -894,13 +612,11 @@ from M. Terrien in the ‘Athenzum’ of the 21st January
 of this year. He there says that the joint translation ‘deals
 only with the oldest part of the book, the short lists of
 characters which follow each of the sixty-four headings,
-and leaves entirely aside the explanations and commen-
-taries attributed to Wen Wang, Kdu Kung, Confucius, and
+and leaves entirely aside the explanations and commentaries attributed to Wen Wang, Kdu Kung, Confucius, and
 others, from 1200 B. C. downwards, which are commonly
 embodied as an integral part of the classic ;’ adding, ‘ The
 proportion of the primitive text to these additions is about
-one-sixth of the whole.’ But if we take away these expla-
-nations and commentaries attributed to king Wan, the duke
+one-sixth of the whole.’ But if we take away these explanations and commentaries attributed to king Wan, the duke
 of Kau, and Confucius, we take away the whole Yi. Thcre
 remain only the linear figures attributed to Fi-hsi, without
 any lists of characters, long or short, without a single
@@ -924,8 +640,7 @@ much prospect of success in his promised translation.
 In the preface to the third volume of these ‘Sacred
 Books of the East,’ containing the Sho King, Shih King,
 and Hsiao King, I have spoken of the Chinese terms Ti
-and Shang Ti, and shown how I felt it necessary to con-
-tinue to render them by our word God, as I had done in
+and Shang Ti, and shown how I felt it necessary to continue to render them by our word God, as I had done in
 all my translations of the Chinese classics since 1861. My
 doing so gave offence to some of the missionaries in China
 and others; and in June, 1880, twenty-three gentlemen
@@ -953,24 +668,20 @@ Shang Ti might be rendered by ‘Supreme Ruler’ or
 but when I examined the question, more than thirty years
 ago, with all possible interest and all the resources at my
 command, I came to the conclusions that Ti, on its first
-employment by the Chinese fathers, was intended to ex-
-press the same concept which our fathers expressed by God,
+employment by the Chinese fathers, was intended to express the same concept which our fathers expressed by God,
 and that such has been its highest and proper application
 ever since. There would be little if any difference in the
 meaning conveyed to readers by ‘Supreme Ruler’ and
 ‘God ;’ but when I render Ti by God and Shang Ti by
 the Supreme God, or, for the sake of brevity, simply by
-God, I am translating, and not giving a private inter-
-pretation of my own. I do it not in the interests of con-
-troversy, but as the simple expression of what to me is
+God, I am translating, and not giving a private interpretation of my own. I do it not in the interests of controversy, but as the simple expression of what to me is
 truth; and I am glad to know that a great majority of
 the Protestant missionaries in China use Ti and Shang
 Ti as the nearest analogue for God.
 
 
 It would be tedious to mention the many critical editions
-and commentaries that I have used in preparing the trans-
-lation. I have not had the help of able native scholars,
+and commentaries that I have used in preparing the translation. I have not had the help of able native scholars,
 which saved time and was otherwise valuable when I was
 working in the East on other classics. The want of this,
 however, has been more than compensated in some respects
@@ -1012,7 +723,7 @@ OR
 BOOK OF CHANCES.
 
 
-T HE Vtd NG
+T HE(Vtd NG
 
 
 OR
@@ -1036,9 +747,7 @@ some years were added to my life, I would give fifty to the
 
 ve study of the Yi,and might then escape falling
 
-Yiinthetime into great errors.’ The utterance is re-
-
-of Confucius. ferred by the best critics to the closing period
+Yiinthetime into great errors.’ The utterance is reof Confucius. ferred by the best critics to the closing period
 of Confucius’ life, when he had returned from his long and
 painful wanderings among the States, and was settled
 again in his native Li. By this time he was nearly seventy,
@@ -1062,9 +771,6 @@ Yi?’ The ancient books on which Confucius had delighted
 
 
 [16] B
-
-
-2 THE Yi KING. CH. I.
 
 
 to discourse with his disciples were those of History,
@@ -1104,11 +810,9 @@ the flames, an exception was made of those-which treated
 of ‘medicine, divination, and husbandry*.’ The Yi was
 held to be a book of divination, and so was preserved.
 
-In the catalogue of works in the imperial library, pre-
-pared by Lid Hin about the beginning of our era, there
+In the catalogue of works in the imperial library, prepared by Lid Hin about the beginning of our era, there
 is an enumeration of those on the Yi and its Appendixes,—
-the books of thirteen different authors or schools, com-
-prehended in 294 portions of larger or smaller dimensions *.
+the books of thirteen different authors or schools, comprehended in 294 portions of larger or smaller dimensions *.
 I need not follow the history and study of the Yi into the
 line of the centuries since the time of Lid Hin. The imperial
 Khang-hsi edition of it, which appeared in 1715, contains
@@ -1144,9 +848,7 @@ by, when I shall consider how far we are entitled, or whether
 we are at all entitled, to ascribe them to him. I do not
 doubt, however, that they belong to what may be called
 the Confucian period, and were produced some time after
-his death, probably between B.C. 450 and 350. By whom-
-soever they were written, they may be legitimately em-
-ployed in illustration of what were the prevailing views in
+his death, probably between B.C. 450 and 350. By whomsoever they were written, they may be legitimately employed in illustration of what were the prevailing views in
 that age on various points connected with the Yi. Indeed,
 but for the guidance and hints derived from them as to the
 meaning of the text, and the relation between its statements
@@ -1158,8 +860,7 @@ Gare hak is said that, among the duties of ‘the Grand
 of Kau. Diviner, ‘he had charge of the rules for the
 three Yi (systems of Changes), called the Lien-shan, the
 Kwei-jhang,and the Yi of Kau; that in each of them the
-regular (or primary) lineal figures were 8, which were mul-
-tiplied, in each, till they amounted to 64.’ The date of the
+regular (or primary) lineal figures were 8, which were multiplied, in each, till they amounted to 64.’ The date of the
 Official Book has not been exactly ascertained. The above
 passage can hardly be reconciled with the opinion of the
 majority of Chinese critics that it was the work of the duke of
@@ -1167,9 +868,6 @@ K Au, the consolidator and legislator of the dynasty so callcd ;
 but I think there must have been the groundwork of it at a
 very early date. When that was composed or compiled, there
 B 2
-
-
-4 THE YI KING. CH. I.
 
 
 was existing, among the archives of the kingdom, under the
@@ -1185,8 +883,7 @@ of Kau’ complete!.
 (ii) In the Supplement of 30 K/idi-ming to ‘the Spring
 The Vj men. 2d Autumn,’ there is abundant evidence that
 eo. ane divination by the Yi was frequent, throughout
-’ the states of China, before the time of Con-
-fucius. There are at least eight narratives of such a
+’ the states of China, before the time of Confucius. There are at least eight narratives of such a
 practice, between the years B.C. 672 and 564, before he
 was born; and five times during his life-time the divining
 stalks and the book were had recourse to on occasions with
@@ -1217,8 +914,7 @@ symbols in which the first figure was the present 52nd hexagram, Kan —=_——
 — oe?
 
 
-consisting of the trigram representing mountains doubled; and that Kwei-
-shang was an arrangement where the first figure was the present 2nd hexagram,
+consisting of the trigram representing mountains doubled; and that Kweishang was an arrangement where the first figure was the present 2nd hexagram,
 
 
 Khwan ‘= consisting of the trigram representing the earth doubled,—
@@ -1250,19 +946,15 @@ it) familiar with anxiety and calamity ?’
 
 
 The highest antiquity commences, according to Chinese
-writers, with Fia-hsi, B.C. 3322; and the lowest with Con-
-fucius in the middle of the sixth century B.c. Between
-these is the period of middle antiquity, extending a com-
-paratively short time, from the rise of the Kau dynasty,
-towards the close of the twelfth century B.C., to the Con-
-fucian era. According to this paragraph it was in this
+writers, with Fia-hsi, B.C. 3322; and the lowest with Confucius in the middle of the sixth century B.c. Between
+these is the period of middle antiquity, extending a comparatively short time, from the rise of the Kau dynasty,
+towards the close of the twelfth century B.C., to the Confucian era. According to this paragraph it was in this
 period that our Yi was made.
 
 The 69th paragraph is still moredefinitein its testimony :—
 
 ‘Was it not in the last age of the Yin (dynasty), when the virtue
-of Kau had reached its highest point, and during the troubles be-
-tween king Wa4n and (the tyrant) Kau, that (the study of) the Yi
+of Kau had reached its highest point, and during the troubles between king Wa4n and (the tyrant) Kau, that (the study of) the Yi
 began to flourish? On this account the explanations (in the book)
 express (a feeling of) anxious apprehension, (and teach) how peril
 
@@ -1288,9 +980,6 @@ With the Chinese critics it forms the fifth and sixth Appendixes, or ‘ Wings,�
 as they are termed.
 
 
-6 THE ¥! KING. CH, I.
-
-
 troubles between him and the last sovereign of Yin reached
 their height in B.C. 1143, when the tyrant threw him
 into prison in a place called Yd-li, identified as having
@@ -1304,7 +993,7 @@ or perhaps that it was begun in the former year and finished
 in the latter’.
 
 But the part which is thus ascribed to king W4n is only
-a small portion of the Yi.  A larger share is attributed to
+a small portion of the Yi. (A larger share is attributed to
 his son Tan, known as the duke of K4u, and in it we have
 allusions to king Wi, who succeeded his father Wan, and
 was really the first sovereign of the dynasty of Kau’.
@@ -1325,8 +1014,7 @@ oe oa great antiquity; but a general opinion has
 the Chinese prevailed that it belonged to a period still
 Boors. more distant. Only two translations of it have
 been made by European scholars, The first was executed by
-Regis and other Roman Catholic missionaries in the begin-
-ning of last century, though it was given to the public only
+Regis and other Roman Catholic missionaries in the beginning of last century, though it was given to the public only
 
 
 confined in Yu-li, Wan increased the 8 trigrams to 64 hexagrams.’
@@ -1393,13 +1081,9 @@ du sphinx.’
 
 P. Couplet expresses himself much to the same effect in the prolegomena
 (p. xviii) to the work called ‘Confucius Sinarum Philosophus,’ published at
-Paris in 1687 by himself and three other fathers of the Society of Jesus (Intor-
-cetta, Herdritch, and Rougemont). Both they and P. Visdelou give an example
+Paris in 1687 by himself and three other fathers of the Society of Jesus (Intorcetta, Herdritch, and Rougemont). Both they and P. Visdelou give an example
 of a portion of the text and its interpretation, having singularly selected the
 same hexagram,—the 15th, on Humility.
-
-
-8 THE Yf KING. CH. L.
 
 
 can be received as only partially correct, if indeed it be
@@ -1426,21 +1110,17 @@ difference in time between the appearance of the Text and
 Labours of the Appendixes; and in the Khang-hsi edition
 chu on Of them the two are printed separately.
 the Yi. Only now and then, however, has any critic
-ventured to doubt that the two parts formed one homo-
-geneous whole, or that all the appendixes were from the
+ventured to doubt that the two parts formed one homogeneous whole, or that all the appendixes were from the
 style or pencil of Confucius. Hundreds of them have
 brought a wonderful and consistent meaning out of the
-Text; but to find in it or in the Appendixes what is un-
-reasonable, or any inconsistency between them, would be
+Text; but to find in it or in the Appendixes what is unreasonable, or any inconsistency between them, would be
 to impeach the infallibility of Confucius, and stamp on
 themselves the brand of heterodoxy.
 At the same time it is an unfair description of what
 As tinpetect they have accomplished to say, as has
 descriptionof been done lately, that since the fires of
-their labours. Shin, ‘the foremost scholars of each gene-
-ration have edited the Text (meaning both the Text and
-the Appendixes), and heaped commentary after commen-
-tary upon it ; and ome and all have arrived at the somewhat
+their labours. Shin, ‘the foremost scholars of each generation have edited the Text (meaning both the Text and
+the Appendixes), and heaped commentary after commentary upon it ; and ome and all have arrived at the somewhat
 
 
 CH. 11, INTRODUCTION. 9
@@ -1496,15 +1176,11 @@ enlarged it, adding his own dissertations and notes. See Prospectus Operis,
 immediately after M. Mohl’s Preface.
 
 
-10 _ THE Yf KING. CH. Il.
-
-
 its authors in the twelfth century B.C., and that of the latter
 to between six and seven centuries later at least, I proceed
 to give an account of what we find in the Text, and how it
 is deduced from the figures.
-The subject-matter of the Text may be briefly repre-
-sented as consisting of sixty-four short essays,
+The subject-matter of the Text may be briefly represented as consisting of sixty-four short essays,
 The Yi con- - , .
 sists of essays enigmatically and symbolically expressed, on
 ee important themes, mostly of a moral, social,
@@ -1524,8 +1200,7 @@ as a specimen of those figures:
 
 
 formation. There they are. King Wan takes them up,
-one after another, in the order that suits himself, deter-
-mined, evidently, by the contrast in the lines of each
+one after another, in the order that suits himself, determined, evidently, by the contrast in the lines of each
 successive pair of hexagrams, and gives their significance,
 as a whole, with some indication, perhaps, of the action
 to be taken in the circumstances which he supposes
@@ -1556,8 +1231,7 @@ i
 
 CH, Il. INTRODUCTION. II
 ascent
-future, and learn whether they should persevere in or with-
-draw from the courses they were intending to pursue.
+future, and learn whether they should persevere in or withdraw from the courses they were intending to pursue.
 
 2. I will give an instance of the lessons which the lineal
 figures are made to teach, but before I do so, it will be.
@@ -1612,9 +1286,6 @@ attribute or quality which should be suggested by the
 ’
 
 
-12 TIIE Yi KING. CH, Il.
-
-
 natural object it symbolises; but on those attributes we
 need not enter at present.
 
@@ -1623,8 +1294,7 @@ account of the origin of the trigrams :—
 
 
 ‘In (the system of) the Yi there is the Great Extreme, which
-produced the two f (Elementary Forms). These two Forms pro-
-duced the four Hsiang (Emblematic Symbols); which again
+produced the two f (Elementary Forms). These two Forms produced the four Hsiang (Emblematic Symbols); which again
 produced the eight Kwa (or Trigrams). The eight Kwa served
 to determine the good and evil (issues of events), and from this
 determination there ensued the (prosecution of the) great business
@@ -1649,9 +1319,7 @@ a Taoist source. 0 Hsi, in his ‘Lessons on the Yi for the
 Young,’ gives for it the figure of a circle,—thus, (); observing
 that he does so from the philosopher X au (A.D. 1017-1073),
 and cautioning his readers against thinking that such a
-representation camc from Fid-hsi himself. To me the cir-
-cular symbol appears very unsuccessful. ‘The Great Ex-
-treme, it is said, ‘divided and produced two lines,—a whole
+representation camc from Fid-hsi himself. To me the circular symbol appears very unsuccessful. ‘The Great Extreme, it is said, ‘divided and produced two lines,—a whole
 line and a divided line.’ But I do not understand how this
 could be. Suppose it possible for the circle to unroll itself ;
 
@@ -1659,8 +1327,7 @@ could be. Suppose it possible for the circle to unroll itself ;
 * Kau-3ze, called Kau Tun-i and Kau MAu-shuh, and, still more commonly,
 from the rivulet near which was his favourite residence, Kau Lien-khi. Mayers
 (Chinese Reader's Manual, p. 23) says :—‘ He held various offices of state, and
-was for many years at the head of a galaxy of scholars who sought for instruc-
-tion in matters of philosophy and research :—second only to Kd Hsi in literary
+was for many years at the head of a galaxy of scholars who sought for instruction in matters of philosophy and research :—second only to Kd Hsi in literary
 repute.’
 
 
@@ -1719,9 +1386,6 @@ Kii-,ze KAwan shi, or Digest of Works of Ki-jze, chap. 26 (the first chapter
 on the Yi), art, 16.
 
 
-14 THE Yi KING. CH, Il.
-
-
 his opinion about the multiplication of the figures, but I
 must think that the names, as we have them now, were
 from king Wan.
@@ -1738,8 +1402,7 @@ after 64. for it, but the cumbrousness of the result, and
 the impossibility of dealing, after the manner of king W4n,
 with such a mass of figures.
 
-(iii) The 73rd paragraph of Section i, with but one para-
-graph between it and the two others which we have been
+(iii) The 73rd paragraph of Section i, with but one paragraph between it and the two others which we have been
 considering, gives what may be considered a third account
 of the origin of the lineal figures :—
 
@@ -1749,24 +1412,21 @@ divining plant), and the sages took advantage of them. (The
 operations of) heaven and earth are marked by so many changes
 and transformations, and the sages imitated them (by means of the
 Yi). Heaven hangs out its (brilliant) figures, from which are seen
-good fortune and bad, and the sages made their emblematic inter-
-pretations accordingly. ‘The Ho gave forth the scheme or map,
+good fortune and bad, and the sages made their emblematic interpretations accordingly. ‘The Ho gave forth the scheme or map,
 and the Lo gave forth the writing, of (both of) which the sages
 took advantage.’
 
 
 The words with which we have at present to do are—
 ‘The Ho (that is, the Yellow River) gave forth the Map.’
-This map, according to tradition and popular belief, con-
-tained a scheme which served as a model to Fa-hsi in
+This map, according to tradition and popular belief, contained a scheme which served as a model to Fa-hsi in
 making his 8 trigrams. Apart from this passage in the
 Yi King, we know that Confucius believed in such
 a map, or spoke at least as if he did’. In the ‘Record of
 Rites’ it is said that ‘the map was borne by a horse*;’ and
 the thing, whatever it was, is mentioned in the Shad as still
 preserved at court, among other curiosities, in B.C. 1079 *.
-The story of it, as now current, is this, that ‘a dragon-
-horse’ issued from the Yellow River, bearing on its back
+The story of it, as now current, is this, that ‘a dragonhorse’ issued from the Yellow River, bearing on its back
 an arrangement of marks, from which Fd-hsi got the idea
 of the trigrams.
 
@@ -1799,7 +1459,6 @@ scheme of it is the following :—
 e eee0e 08 O
 ° O
 ae ae ee
-3 OO: RAOQue~ O
 -) O e) @ O
 e O
 P @ee8e60@ O
@@ -1823,16 +1482,11 @@ circles occasioned the distinction of them and of what they
 ! See Mayers’ Chinese Reader’s Manual, pp. 56. §7.
 
 
-16 THE YI KING. CH. I.
-
-
 signify into Yin and Yang, the dark and the bright, the
 moon-like and the sun-like; for the sun is called the Great
-Brightness (Th4i Yang), and the moon the Great Ob-
-scurity (Thai Yin). I shall have more to say in the next
+Brightness (Th4i Yang), and the moon the Great Obscurity (Thai Yin). I shall have more to say in the next
 chapter on the application of these names. Fd-hsi in making
-the trigrams, and king Wa4n, if it was he who first mul-
-tiplied them to the 64 hexagrams, found it convenient to
+the trigrams, and king Wa4n, if it was he who first multiplied them to the 64 hexagrams, found it convenient to
 use lines instead of the circles:—the whole line ( )
 for the bright circle (QO), and the divided line (— —) for
 the dark (@). The first, the third, and the fifth lines
@@ -1840,8 +1494,7 @@ in a hexagram, if they are ‘correct’ as it is called,
 should all be whole, and the second, fourth, and sixth lines
 should all be divided. Yang lines are strong (or hard),
 and Yin lines are weak (or soft). The former indicate
-vigour and authority; the latter, feebleness and submis-
-sion. It is the part of the former to command; of the
+vigour and authority; the latter, feebleness and submission. It is the part of the former to command; of the
 latter to obey.
 
 The lines, moreover, in the two trigrams that make up
@@ -1855,14 +1508,12 @@ one whole and the other divided. And, finally, the middle
 lines of the trigrams, the second and fifth, that is, of the
 hexagrams, have a peculiar value and force. If we have
 a whole line ( ) in the fifth place, and a divided line
-(— —) in the second, or vice versa, the correlation is com-
-plete. Let the subject of the fifth be the sovereign ora
+(— —) in the second, or vice versa, the correlation is complete. Let the subject of the fifth be the sovereign ora
 commander-in-chief, according to the name and meaning of
 the hexagram, then the subject of the second will be an able
 minister or a skilful officer, and the result of their mutual
 action will be most beneficial and successful. It is specially
-important to have a clear idea of the name of the hexa-
-gram, and of the subject or state which it is intended
+important to have a clear idea of the name of the hexagram, and of the subject or state which it is intended
 to denote. The significance of all the lines comes thus
 to be of various application, and will differ in different
 hexagrams,
@@ -1872,8 +1523,7 @@ CH. Il. INTRODUCTION. 7
 
 
 I have thus endeavoured to indicate how the lineal figures
-were formed, and the principal rules laid down for the in-
-terpretation of them. The details are wearying, but my
+were formed, and the principal rules laid down for the interpretation of them. The details are wearying, but my
 position is like that of one who is called on to explain an
 important monument of architecture, very bizarre in its
 conception and execution. A plainer, simpler structure
@@ -1888,8 +1538,7 @@ My own opinion, as I have intimated, is, that the second
 account of the origin of the trigrams and hexagrams is the
 true one. However the idea of the whole and divided lines
 arose in the mind of the first framer, we must start from
-them; and then, manipulating them in the manner de-
-scribed, we arrive, very easily, at all the lineal figures, and
+them; and then, manipulating them in the manner described, we arrive, very easily, at all the lineal figures, and
 might proceed to multiply them to billions. We cannot
 tell who devised the third account of their formation from
 the map or scheme on the dragon-horse of the Yellow
@@ -1903,28 +1552,22 @@ was a scheme of the same character as the Ho map, but
 on the back of a tortoise, which emerged from the river
 Lo, and showed it to the Great Yii, when he was engaged
 in his celebrated work of draining off the waters of the
-flood, as related in the Shi. To the hero sage it sug-
-gested ‘the’ Great Plan,’ an interesting but mystical
+flood, as related in the Shi. To the hero sage it suggested ‘the’ Great Plan,’ an interesting but mystical
 document of the same classic, ‘a Treatise, according to
 Gaubil, ‘of Physics, Astrology, Divination, Morals, Politics,
 and Religion,’ the great model for the government of the
 
 
-1 Certainly it was not Confucius. See on the authorship of the Appen-
-dixes, and especially of Appendix III, in the next chapter.
+1 Certainly it was not Confucius. See on the authorship of the Appendixes, and especially of Appendix III, in the next chapter.
 
 
 [16] C
-
-
-18 THE Yi KING. CH. II.
 
 
 kingdom. The accepted representation of this writing is
 the following :—
 
 
-2
 @e e OO0O000000
 €
 
@@ -1961,8 +1604,7 @@ than this magic square.
 
 3. Let us return to the Yi of X4u, which, as I have said
 above on p. 10, contains, under each of the 64 hexagrams,
-a brief essay of a moral, social, or political character, sym-
-bolically expressed.
+a brief essay of a moral, social, or political character, symbolically expressed.
 
 
 ’ For this dissection, which may also be called reductio ad absurdum, of
@@ -2008,8 +1650,7 @@ Declaration’ addressed to all the states :—
 
 ‘Shau, the king of Shang, treats all virtue with contemptuous
 slight, and abandons himself to wild idleness and irreverence. He
-has cut himself off from Heaven, and brought enmity between him-
-self and the people. He cut through the leg-bones of those who
+has cut himself off from Heaven, and brought enmity between himself and the people. He cut through the leg-bones of those who
 were wading in a (winter-)morning; he cut out the heart of the
 good man”. His power has been shown in killing and murdering.
 His honours and confidence are given to the villainous and bad.
@@ -2032,11 +1673,7 @@ heart.
 C 2
 
 
-20 THE Yi KING. CH. Il.
-
-
-in the ancestral temple. He makes (cruel) contrivances of won-
-derful device and extraordinary ingenuity to please his wife '.—
+in the ancestral temple. He makes (cruel) contrivances of wonderful device and extraordinary ingenuity to please his wife '.—
 God will no longer bear with him, but with a curse is sending down
 his ruin?,’
 
@@ -2044,9 +1681,7 @@ his ruin?,’
 Such was the condition of the nation, such the character
 of the sovereign. Meanwhile in the west of the kingdom,
 
-The lords of in a part of what is now the province of Shen-
-
-pager: hsi, lay the principality of Kau, the lords of
+The lords of in a part of what is now the province of Shenpager: hsi, lay the principality of Kau, the lords of
 
 king Wan. which had long been distinguished for their
 ability and virtue. Its present chief, now known to us as
@@ -2054,8 +1689,7 @@ king Wan, was AK/ang, who had succeeded to his father
 in B.c.1185. He was not only lord of Kau, but had come
 to be a sort of viceroy over a great part of the kingdom.
 Equally distinguished in peace and war, a model of all that
-was good and attractive, he conducted himself with re-
-markable wisdom and self-restraint. Princes and people
+was good and attractive, he conducted himself with remarkable wisdom and self-restraint. Princes and people
 would have rejoiced to follow him to attack the tyrant, but
 he shrank from exposing himself to the charge of being
 disloyal. At last the jealous suspicion of Shau was aroused.
@@ -2099,14 +1733,12 @@ figures. —_he was doing, they would smile at his lines,
 and the sentences which he appended to them.
 
 I like to think of the lord of XAu, when incarcerated in
-Ya-li, with the 64 figures arranged before him. Each hexa-
-gram assumed a mystic meaning, and glowed with a deep
+Ya-li, with the 64 figures arranged before him. Each hexagram assumed a mystic meaning, and glowed with a deep
 significance. He made it tell him of the qualities of various
 objects of nature, or of the principles of human society,
 or of the condition, actual and possible, of the kingdom. He
 named the figures, each by a term descriptive of the idea
-with which he had connected it in his mind, and then he pro-
-ceeded to set that idea forth, now with a note of exhortation,
+with which he had connected it in his mind, and then he proceeded to set that idea forth, now with a note of exhortation,
 now with a note of warning. It was an attempt to restrict
 the follies of divination within the bounds of reason. The
 last but one of the Appendixes bears the name of ‘ Sequence
@@ -2139,7 +1771,6 @@ of light which his father had made each figure give forth.
 divining, and his son (king W4, III, i, ode 10, 7) doing the same.
 
 
-22 THE Yi KING. cH. II.
 But his method strikes us as singular. Each line seemed
 to become living, and suggested some phenomenon in nature
 or some case of human experience, from which the wisdom
@@ -2176,7 +1807,7 @@ introductory chapter to his History of England, ‘ Every man
 was regimented somewhere.’
 
 The hexagram Sze is composed of the two trigrams
-Khan (=>) and Khwan (= =), exhibiting waters
+Khan (=)) and Khwan (= =), exhibiting waters
 collected on the earth; and in other symbolisms besides
 that of the Yi, waters indicate assembled multitudes of
 men. The waters on which the mystical Babylon sits in
@@ -2202,8 +1833,7 @@ Looking again at the figure, we see that it is made up of
 five divided lines, and of one undivided. The undivided
 line occupies the central place in the lower trigram,—the
 most important place, next to the fifth, in the whole
-hexagram. It will represent, in the language of the com-
-mentators, ‘the lord of the whole figure;’ and the parties
+hexagram. It will represent, in the language of the commentators, ‘the lord of the whole figure;’ and the parties
 represented by the other lines may be expected to be of
 one mind with him or obedient to him. He must be the
 leader of the hosts. If he were on high, in the fifth place,
@@ -2250,9 +1880,6 @@ This does not need any amplification. The duke saw
 in the strong line the symbol of the leader, who cnjoycd
 
 
-24 THE Yi KING. CH. II.
-
-
 the full confidence of his sovereign, and whose authority
 admitted of no opposition.
 On the third line it is said :—
@@ -2290,8 +1917,7 @@ Under the fifth line we read :—
 
 ‘The fifth line, divided, shows birds in the fields which it is
 advantageous to seize (and destroy). There will be no error. If
-the oldest son lead the host, and younger men be (also) in com-
-mand, however firm and correct he may be, there will be evil.’
+the oldest son lead the host, and younger men be (also) in command, however firm and correct he may be, there will be evil.’
 
 
 We have an intimation in this passage that only defensive
@@ -2337,8 +1963,7 @@ the responsibility of such a trust.
 The above is a specimen of what I have called the essays
 that make up the Yi of Kau. So would king Wan and
 his son have had all military expeditions conducted in their
-country 3000 years ago. It seems to me that the princi-
-ples which they lay down might find a suitable application
+country 3000 years ago. It seems to me that the principles which they lay down might find a suitable application
 in the modern warfare of our civilised and Christian
 Europe. The inculcation of such lessons cannot have been
 without good effect in China during the long course of its
@@ -2351,14 +1976,10 @@ they be conveyed to us by such an artay of lineal figures,
 and in such a farrago of emblematic representations? It
 is not for the foreigner to insist on such a question. The
 Chinese have not valued them the less because of the
-antiquated dress in which their lessons are arraycd. Hun-
-dreds of their commentators have evolved and developed
+antiquated dress in which their lessons are arraycd. Hundreds of their commentators have evolved and developed
 their meaning with a minuteness of detail and felicity of
 illustration that leave nothing to be desired. It is for
 foreign students of Chinese to gird up their loins for the
-
-
-26 THE Yi KING. CH. MI.
 
 
 mastery of the book instead of talking about it as mysterious
@@ -2371,8 +1992,7 @@ philosophical speculation, it may still be urged, ‘ But in all
 this we find nothing to justify the name of the book as Yi
 King, the “Classic of Changes.” Is there not something
 more, higher or deeper, in the Appendixes that have been
-ascribed to Confucius, whose authority is certainly not in-
-ferior to that of king W4n, or the duke of Kau?’ To reply
+ascribed to Confucius, whose authority is certainly not inferior to that of king W4n, or the duke of Kau?’ To reply
 fully to this question will require another chapter.
 
 
@@ -2387,8 +2007,7 @@ Subjectsof | Text is ascribed, without dissentient voice, to
 
 the chapter. king Wan, the founder of the Kau dynasty,
 and his son Tan, better known as the duke of Kau; and
-I have, in the preceding chapters, given reasons for accept-
-ing that view. As regards the portion ascribed to king
+I have, in the preceding chapters, given reasons for accepting that view. As regards the portion ascribed to king
 Wan, the evidence of the third of the Appendixes and the
 statement of Sze-ma X“ien are as positive as could be
 desired; and as regards that ascribed to his son, there is no
@@ -2399,8 +2018,7 @@ intimated my own opinion that this view cannot be sustained.
 I have pointed out that, even if it be true, between six and
 seven centuries elapsed after the Text of the classic appeared
 before the Appendixcs were written; and I have said that,
-considering this fact, I cannot regard its two parts as a homo-
-geneous whole, or as constituting one book in the ordinary
+considering this fact, I cannot regard its two parts as a homogeneous whole, or as constituting one book in the ordinary
 acceptation of that name. Before entering on the question
 of the authorship, a very brief statement of the nature and
 number of the Appendixes will be advantageous.
@@ -2449,17 +2067,12 @@ expositions of the first and second hexagrams by king
 Wan and his son, purporting to show how they may be
 interpreted of man’s nature and doings.
 
-My fifth Appendix is the eighth ‘wing, called ‘ Dis-
-courses on the Trigrams.’ It treats of the different arrange-
-ment of these in respect of the seasons of the year and
+My fifth Appendix is the eighth ‘wing, called ‘ Discourses on the Trigrams.’ It treats of the different arrangement of these in respect of the seasons of the year and
 the cardinal points by Fa-hsi and king Wan. It contains
 also one paragraph, which might scem to justify the vicw
 that there is a mythology in the Yi.
 
 My sixth Appendix, in two sections, is the ninth ‘wing, —-—
-
-
-28 THE Yi KING. CH. III.
 
 
 ‘a Treatise on the Sequence of the Hexagrams,’ intended
@@ -2474,15 +2087,11 @@ or are opposed to one another in meaning.
 
 3. Such are the Appendixes of the Yi King. We have
 
-The author. tO enquire next who wrote them, and espe-
-
-ship of the cially whether it be possible to accept the
+The author. tO enquire next who wrote them, and espeship of the cially whether it be possible to accept the
 
 Appendixes. : :
 
-dictum that they were all written by Con-
-fucius. If they have come down to us, bearing unmistake-
-ably the stamp of the mind and pencil of the great sage, we
+dictum that they were all written by Confucius. If they have come down to us, bearing unmistakeably the stamp of the mind and pencil of the great sage, we
 cannot but receive them with deference, not to say with
 reverence. If, on the contrary, it shall appear that with
 great part of them he had nothing to do, and that it is
@@ -2535,13 +2144,11 @@ he ought not to be himself introducing the formula, “The
 Master said;” and that it may be presumed, wherever it
 occurs, that it is a subsequent addition to the Master’s
 text.’ One instance will show the futility of this attempt
-to solve the difficulty. The tenth chapter of Section i com-
-mences with the 59th paragraph :—
+to solve the difficulty. The tenth chapter of Section i commences with the 59th paragraph :—
 
 ‘In the Yi there are four things characteristic of the way of the
 sages. We should set the highest value on its explanations, to
-guide us in speaking ; on its changes, for the initiation of our move-
-ments; on its emblematic figures, for definite action, as in the
+guide us in speaking ; on its changes, for the initiation of our movements; on its emblematic figures, for definite action, as in the
 construction of implements; and on its prognostications, for our
 practice of divination.’
 
@@ -2549,8 +2156,7 @@ practice of divination.’
 This is followed by seven paragraphs expanding its
 statements, and we come to the last one of the chapter
 which says,—‘ The Master said, “Such is the import of
-the statement that there are four things in the Yi, character-
-istic of the way of the sages.”’ I cannot understand how
+the statement that there are four things in the Yi, characteristic of the way of the sages.”’ I cannot understand how
 it could be more fully conveyed to us that the compiler
 or compilers of this Appendix were distinct from the Master
 whose words they quoted, as it suited them, to confirm or
@@ -2569,16 +2175,12 @@ to quote his words. They are taken in fact from a narrative
 of the 30 Kwan, as having been spoken by a marchioness-
 
 
-30 THE Yi KING. CH, III.
-
-
 dowager of Lf fourteen years before Confucius was born. To
 account for this is a difficult task for the orthodox critics
 among the Chinese literati. AQ Hsi attempts to perform
 it in this way :—that anciently there was the explanation
 given in these paragraphs of the four adjectives employed
-by king Wan to give the significance of the first hexa-
-gram ; that it was employed by MQ Xiang of LQ; and that
+by king Wan to give the significance of the first hexagram ; that it was employed by MQ Xiang of LQ; and that
 Confucius also availed himself of it, while the chronicler
 used, as he does below, the phraseology of ‘The Master
 said,’ to distinguish the real words of the sage from such
@@ -2587,8 +2189,7 @@ can tell. The legitimate conclusion from £(’s criticism is,
 that so much of the Appendix as is preceded by ‘The
 Master said’ is from Confucius,—so much and no more.
 I am thus obliged to come to the conclusion that Confucius
-had nothing to do with the composition of these two Ap-
-pendixes, and that they were not put together till after
+had nothing to do with the composition of these two Appendixes, and that they were not put together till after
 his death. I have no pleasure in differing from the all
 but unanimous opinion of Chinese critics and commentators.
 What is called ‘the destructive criticism’ has no attractions
@@ -2597,8 +2198,7 @@ adduced to support it, and that argument turns out to be
 of no weight, you can no longer set your seal to this, that
 the opinion is true. This is the position in which an
 examination of the internal evidence as to the authorship
-of the third and fourth Appendixes has placed me. Confu-
-cius could not be their author. This conclusion weakens the
+of the third and fourth Appendixes has placed me. Confucius could not be their author. This conclusion weakens the
 
 Siplieg of confidence which we have been accustomed
 
@@ -2636,8 +2236,7 @@ thinking being given. Such a method of procedure would
 be unbecoming any philosopher, and it cannot be denied to
 be unworthy of Confucius, the chief of philosophers !.’
 
-I could not characterise Confucius as ‘the chief of phi-
-losophers,’ though he was a great moral philosopher, and
+I could not characterise Confucius as ‘the chief of philosophers,’ though he was a great moral philosopher, and
 has been since he went out and in among his disciples,
 the best teacher of the Chinese nation. But from the
 first time my attention was directed to the Yi, I regretted
@@ -2669,9 +2268,6 @@ All these considerations are sometimes taken into account,
 
 
 1 Regis’ Y-King, vol. ii, p. 576.
-
-
-32 THE Yi KING. CH, III.
 
 
 and sometimes even one of them is deemed sufficient. In
@@ -2721,7 +2317,7 @@ zs é é so3 =
 4 in che -
 Oa
 S S.E. E N.E S.W. WwW N.W. N,
-a0 -e & o és > & = tb nw
+a0 -e & o és ) & = tb nw
 2a pos 4% wa 8 £9 5 a 25
 ‘& .. 5 a0 §4 £ a, i e =F as
 ~ J YA— a o 5 to Pom» — ~@ = 4
@@ -2741,18 +2337,15 @@ several figures on any principles of science, for there is
 no indication of science in the matter: it is difficult even
 to suppose that they were assigned on any comprehensive
 scheme of thought. Why are tui and kh4n used to
-represent water in different conditions, while kh4n, more-
-over, represents the moon? How is sun set apart to
+represent water in different conditions, while kh4n, moreover, represents the moon? How is sun set apart to
 represent things so different as wind and wood? Ata
 very early time the Chinese spoke of ‘the five elements,
-meaning water, fire, wood, metal, and earth; but the tri-
-grams were not made to indicate them,and it is the general
+meaning water, fire, wood, metal, and earth; but the trigrams were not made to indicate them,and it is the general
 opinion that there is no reference to them in the Yi!.
 
 Again, the attributes assigned to the trigrams are learned
 mainly from this Appendix and the fifth. We do not readily
-get familiar with them, nor easily accept them all. It is im-
-possible for us to tell whether they were a part of the jargon
+get familiar with them, nor easily accept them all. It is impossible for us to tell whether they were a part of the jargon
 of divination before king Wan, or had grown up between
 his time and that of the author of the Appendixes.
 
@@ -2781,9 +2374,6 @@ S S.E E N.E N. N.W WwW S.W
 [16] D
 
 
-34 THE Yi KING. CH, III.
-
-
 There is thus before us the apparatus with which the
 writer of the Appendix accomplishes his task. Let me
 select one of the shortest instances of his work. The
@@ -2803,8 +2393,7 @@ view of its significance, the Appendix says :—
 central, and (the strong lines) above and below respond to it.
 Hence comes its name of “ Possession of what is great.” The
 attributes (of its constituent trigrams, &Aien and li) are strength
-and vigour, elegance and brightness. (The ruling line in it) re-
-sponds to (the ruling line in the symbol of) heaven, and its actings
+and vigour, elegance and brightness. (The ruling line in it) responds to (the ruling line in the symbol of) heaven, and its actings
 are (consequently all) at the proper times. Thus it is that it is said
 to indicate great progress and success.’
 
@@ -2885,17 +2474,12 @@ on the Symbols’ or ‘ Treatise on the Symbolism (of the Y?).’
 
 
 1 See the ‘ Collected Comments’ on hexagram §5 in the Khang-hsf edition of
-the Yi (App. I). ‘The traces of making and transformation’ mean the ever-
-changing phenomena of growth and decay. Our phrase ‘Vestiges of Creation’
+the Yi (App. I). ‘The traces of making and transformation’ mean the everchanging phenomena of growth and decay. Our phrase ‘Vestiges of Creation’
 might be used to translate the Chinese characters. See the remarks of the late
 Dr. Medhurst on the hexagrams 15 and §5 in his ‘ Dissertation on the Theology
-of the Chinese,’ pp. 107-112. In hexagram 15, Canon McClatchie for k wei-
-shin gives * gods and demons ;’ in hexagram §5, ‘the Demon-gous,’
+of the Chinese,’ pp. 107-112. In hexagram 15, Canon McClatchie for k weishin gives * gods and demons ;’ in hexagram §5, ‘the Demon-gous,’
 
 WD 2
-
-
-36 THE Yi KING. CH. II.
 
 
 If there were reason to think that it came in any way from
@@ -2959,18 +2543,16 @@ by the trigrams Sun ===, representing wind, and
 Khien ===, representing heaven or the sky, and it is
 said on it:—‘(The symbol of) wind, beneath that of the
 sky, forms Kau. In accordance with this, the sovereign
-distributes his charges, and promulgates his announce-
-ments throughout the four quarters (of the kingdom),’
+distributes his charges, and promulgates his announcements throughout the four quarters (of the kingdom),’
 
 
 The fifty-ninth hexagram, called Hwan ===, is formed
 
 
 by the trigrams Khan ===, representing water, and
-Sun =>}, representing wind, and it is said on it:—
+Sun =)}, representing wind, and it is said on it:—
 ‘(The symbol of) water and (that of wind) above it form
-Hwan. The ancient kings, in accordance with this, pre-
-sented offerings to God, and established the ancestral
+Hwan. The ancient kings, in accordance with this, presented offerings to God, and established the ancestral
 temple. The union of the two trigrams suggested to
 king W4n the idea of dissipation in the alienation of men
 from the Supreme Power, and of the minds of parents
@@ -2982,10 +2564,7 @@ religion.
 One more example. The twenty-sixth hexagram, called
 
 
-Ta KA =, is formed of the trigrams Khien, repre-
-
-
-senting heaven or the sky, and Kan == =>, representing a
+Ta KA =, is formed of the trigrams Khien, representing heaven or the sky, and Kan == =), representing a
 mountain, and it is said on it :—‘(The symbol of) heaven in
 the midst of a mountain forms T4 A #0. The superior man,
 in accordance with this, stores largely in his memory the
@@ -3000,11 +2579,7 @@ From this and the other examples adduced from the
 Great Symbolism, it is clear that, so far as its testimony
 bears on the subject, the trigrams of F(-hsi did not receive
 their form and meaning with a deep intention that they
-shoi ld serve as the basis of a philosophical scheme con-
-cerning the constitution of heaven and earth and all that
-
-
-38 THE Yi KING. CH. IIL.
+shoi ld serve as the basis of a philosophical scheme concerning the constitution of heaven and earth and all that
 
 
 isinthem. In this Appendix they are used popularly, just
@@ -3057,7 +2632,6 @@ moon.
 CH. IIT, INTRODUCTION.
 
 
-3
 Neo]
 
 
@@ -3096,14 +2670,12 @@ and hence there is no contrariety in him to them. His knowledge
 embraces all things, and his course is intended to be helpful to
 all under the sky; and therefore he falls into no error. He acts
 according to the exigency of circumstances, without being carried
-away by their current; he rejoices in Heaven, and knows its ordi-
-nations; and hence he has no anxieties. He rests in his own
+away by their current; he rejoices in Heaven, and knows its ordinations; and hence he has no anxieties. He rests in his own
 (present) position, and cherishes the spirit of generous benevolence ;
 and hence he can love (without reserve)*.’
 
 ‘(Through the Yi) he embraces, as in a mould or enclosure, the
-transformations of heaven and earth without any error; by an ever-
-varying adaptation he completes (the nature of) all things without
+transformations of heaven and earth without any error; by an evervarying adaptation he completes (the nature of) all things without
 exception; he penetrates to a knowledge of the course of day and
 night (and all other correlated phenomena). It is thus that his
 operation is spirit-like, unconditioned by place, while the changes
@@ -3121,9 +2693,6 @@ the sky. He then considered in his mind how they could be
 —
 
 
-40 THE Yf KING. CH. III.
-
-
 figured, and (by means of the diagrams) represented their material
 forms and their character.’
 
@@ -3135,8 +2704,7 @@ in ‘the Doctrine of the Mean,’ that ‘the sage, able to assist
 the transforming and nourishing powers of heaven and
 earth, may with heaven and earth form a ternion~,’
 
-I quoted largely, in the second chapter, from this Ap-
-pendix the accounts which it gives of the formation of the
+I quoted largely, in the second chapter, from this Appendix the accounts which it gives of the formation of the
 lineal figures. There is no occasion to return to that subject.
 Let us suppose the figures formed. They seem to have
 the significance, when looked at from certain
@@ -3199,8 +2767,7 @@ on p. 14, ‘Heaven produced the spirit-like things.’ The
 things were the tortoise and the plant, and in paragraph
 68, the same quality of being shan, or ‘spirit-like,’ is
 ascribed to them. Occasionally, in the field of Chinese
-literature, we meet with doubts as to the efficacy of divina-
-tion, and the folly of expecting any revelation of the
+literature, we meet with doubts as to the efficacy of divination, and the folly of expecting any revelation of the
 character of the future from an old tortoise-shell and a
 handful of withered twigs!; but when this Appendix was
 made, the writer had not attained to so much common
@@ -3228,8 +2795,7 @@ tortoise-shell and the stalks are both opposed to the views of men, there will
 be good fortune in stillness, and active operations will be unlucky.’
 
 1 A remarkable instance is given by Lif Ki (of the Ming dynasty, in the
-fifteenth century) in a story about Shao Phing, who had been marquis of Tung-
-ling in the time of 3hin, but was degraded under Han. Having gone once
+fifteenth century) in a story about Shao Phing, who had been marquis of Tungling in the time of 3hin, but was degraded under Han. Having gone once
 to Sze-ma Ki-kfi, one of the most skilful diviners of the country, and wishing
 to know whether there would be a brighter future for him, Sze-m4 said, ‘Ah!
 is it the way of Heaven to love any (partially)? Heaven loves only the
@@ -3241,9 +2807,6 @@ learn) from things?’ The whole piece is in many of the collections of Ka
 Wan, or Elegant Writing.
 
 
-42 THE yf KING. CH. UL.
-
-
 a subtle and invisible virtue that fitted them for use in
 divining.
 Given the stalks with such virtue, the process of mani-
@@ -3252,9 +2815,7 @@ ofthe lineal js described (Section i, chap. 9, parr. 49-58),
 figures by the . , .
 divining | but it will take the student much time and
 stalks. thought to master the various operations.
-Forty-nine stalks were employed, which were thrice ma-
-nipulated for each line, so that it took eighteen manipu-
-lations to form a hexagram. The lines were determined
+Forty-nine stalks were employed, which were thrice manipulated for each line, so that it took eighteen manipulations to form a hexagram. The lines were determined
 by means of the numbers derived from the River Map
 or scheme. Odd numbers gave strong or undivided
 lines, and even numbers gave the weak or divided.
@@ -3262,8 +2823,7 @@ An important part was played in combining the lines, and
 forming the hexagrams by the four emblematic symbols,
 to which the numbers 9, 8, 7, 6 were appropriated’. The
 figures having been formed, recourse was had for their
-interpretation to the thwan of king Wan, and the em-
-blematic sentences of the duke of Kau. This was all the
+interpretation to the thwan of king Wan, and the emblematic sentences of the duke of Kau. This was all the
 part which numbers played in the divination by the Yi,
 helping the operator to make up his lineal figure. An
 analogy has often been asserted between the numbers of
@@ -3271,8 +2831,7 @@ the Yi and the numbers of Pythagoras; and certainly we
 ‘might make ten, and more than ten, antinomies from these
 Appendixes in startling agreement with the ten principia
 of the Pythagoreans. But if Aristotle was correct in holding
-that Pythagoras regarded numbers as entities, and main-
-tained that Number was the Beginning (Principle, apxn) of
+that Pythagoras regarded numbers as entities, and maintained that Number was the Beginning (Principle, apxn) of
 things, the cause of their material existence, and of their
 
 
@@ -3312,22 +2871,18 @@ instead of them, the names for the two
 elementary forms of the lines have been kang and z4u,
 which I have translated by ‘strong and weak,’ and which
 also occur here ten times. The following attempt to
-explain these different names appears in the fifth Appen-
-dix, paragraph 4 :—
+explain these different names appears in the fifth Appendix, paragraph 4 :—
 
 ‘Anciently when the sages made the Yi, it was with the design
-that its figures should be in conformity with the principles under-
-lying the natures (of men and things), and the ordinances appointed
+that its figures should be in conformity with the principles underlying the natures (of men and things), and the ordinances appointed
 (for them by Heaven). With this view they exhibited in them the
 way of heaven, calling (the lines) yin and yang; the way of
 earth, calling them the strong (or hard) and the weak (or soft) ;
-and the way of man, under the names of benevolence and righteous-
-ness. Each (trigram) embraced those three Powers, and being
+and the way of man, under the names of benevolence and righteousness. Each (trigram) embraced those three Powers, and being
 repeated, its full form consisted of six lines.’
 
 However difficult it may be to make what is said here
-intelligible, it confirms what I have affirmed of the signi-
-ficance of the names yin and yang, as meaning bright
+intelligible, it confirms what I have affirmed of the significance of the names yin and yang, as meaning bright
 and dark, derived from the properties of the sun and
 moon. We may use for these adjectives a variety of others,
 such as active and inactive, masculine and feminine, hot
@@ -3339,9 +2894,6 @@ merely used to indicate the quality of what they are applied
 ' See the account of Pythagoras and his philosophy in Lewes’ History of
 Philosophy, pp. 18-38 (1871).
 ? See Section i, 24, 32, 35; Section ii, 28, 29, 30, 35.
-
-
-44 THE Yf KING. CH. III.
 
 
 to, but at the same time with substantival force, denoting
@@ -3362,8 +2914,7 @@ dynasty, and in our eleventh and twelfth centuries’. To
 find it in the Yi is the logical, or rather illogical, error of
 putting ‘the last first.’ Neither creation nor cosmogony
 was before the mind of the author whose work I am
-analysing. His theme is the Yi,—the ever-changing phe-
-nomena of nature and experience. There is nothing but
+analysing. His theme is the Yi,—the ever-changing phenomena of nature and experience. There is nothing but
 this in the ‘Great Treatise’ to task our powers ;— nothing
 deeper or more abstruse.
 
@@ -3374,8 +2925,7 @@ K( Hsi, rather earlier) on the 4th paragraph of Appendix V :—*‘ In the Yi th
 is the Great Extreme. When we speak of the yin and yang, we mean the air
 (or ether) collected in the Great Void. When we speak of the Hard and Soft,
 we mean that ether collected, and formed into substance. Benevolence and
-righteousness have their origin in the great void, are seer in the ether sub-
-stantiated, and move under the influence of conscious intelligence. Looking at
+righteousness have their origin in the great void, are seer in the ether substantiated, and move under the influence of conscious intelligence. Looking at
 the one origin of all things we speak of their nature ; looking at the endowments
 given to them, we speak of the ordinations appointed (for them). Looking at
 them as (divided into) heaven, earth, and men, we speak of their principle.
@@ -3399,13 +2949,11 @@ occurs twice; in paragraghs 21 and 50 0f Sectioni. In the
 Thename former instance, each part of the name has
 Kwei-shin. its significance. Kwei denotes the animal
 soul or nature, and Shan, the intellectual soul, the union
-of which constitutes the living rational man. I have trans-
-lated them, it will be seen, by ‘the anima andthe animus.’
+of which constitutes the living rational man. I have translated them, it will be seen, by ‘the anima andthe animus.’
 Canon McClatchie gives for them ‘demons and gods;’ and
 Dr. Medhurst said on the passage, ‘The kwei-sh4ans are
 evidently the expanding and contracting principles of human
-oer The kwei-shans are brought about by the dis-
-solution of the human frame, and consist of the expanding
+oer The kwei-shans are brought about by the dissolution of the human frame, and consist of the expanding
 and ascending shan, which rambles about in space, and
 of the contracted and shrivelled kwei, which reverts to
 earth and nonentity’?.’
@@ -3439,9 +2987,6 @@ the fifth Appendix.
 * Translation of the Yi King, p. 312.
 
 
-46 THE Yi KING. CH. UI.
-
-
 The single character shdn occurs more than twenty
 times;—used now as a substantive, now as an adjective,
 and again asa verb. I must refer the reader
@@ -3457,8 +3002,7 @@ to the next treatise, I would only further say that the
 style of this and the author's manner of presenting his
 thoughts often remind the reader of ‘the Doctrine of the
 Mean.’ -I am surprised that ‘the Great Treatise’ has
-never been ascribed to the author of that Doctrine, 3ze-
-sze, the grandson of Confucius, whose death must have
+never been ascribed to the author of that Doctrine, 3zesze, the grandson of Confucius, whose death must have
 taken place between B.C. 400 and 450.
 
 7. The fourth Appendix, the seventh ‘wing’ of the Yi,
@@ -3482,8 +3026,7 @@ think of any other figure that would have afforded to the
 author the same opportunity of discoursing about man.
 The style and method are after the manner of ‘the Doctrine
 of the Mean’ quite as much as those of ‘the Great Treatise.’
-Several paragraphs, moreover, suggest to us the magnilo-
-quence of Mencius. It is said, for instance, by 3ze-sze, of
+Several paragraphs, moreover, suggest to us the magniloquence of Mencius. It is said, for instance, by 3ze-sze, of
 
 
 Shan alone.
@@ -3515,17 +3058,14 @@ agents?!’
 One other passage may receive our consideration :—
 
 
-‘The family that accumulates goodness is sure to have super-
-abundant happiness, and the family that accumulates evil is sure
+‘The family that accumulates goodness is sure to have superabundant happiness, and the family that accumulates evil is sure
 to have superabundant misery *,’
 
 
 The language makes us think of the retribution of good
-and evil as taking place in the family, and not in the in-
-dividual ; the judgment is long deferred, but it is inflicted
+and evil as taking place in the family, and not in the individual ; the judgment is long deferred, but it is inflicted
 at last, lighting, however, not on the head or heads that
-most deserved it. Confucianism never falters in its affirma-
-tion of the difference between good and evil, and that each
+most deserved it. Confucianism never falters in its affirmation of the difference between good and evil, and that each
 shall have its appropriate recompense; but it has little
 to say of the where and when and how that recompense
 will be given. The old classics are silent on the subject
@@ -3547,19 +3087,14 @@ important truth it is, that ‘the sins of parents are visited
 4 Section ii, 5.
 
 
-48 THE Yi KING. CH. If.
-
-
 on their children;’ but do the parents themselves escape
 the curse? It is to be regretted that this short treatise,
-the only ‘wing’ of the Yi professing to set forth its teach-
-ings concerning man as man, does not attempt any definite
+the only ‘wing’ of the Yi professing to set forth its teachings concerning man as man, does not attempt any definite
 reply to this question. I leave it, merely observing that
 it has always struck me as the result of an after-thought,
 and a wish to give to man, as the last of ‘the Three Powers,’
 a suitable place in connexion with the Yi. The doctrine
-of ‘the Three Powers’ is as much out of place in Con-
-fucianism as that of ‘the Great Extreme. The treatise
+of ‘the Three Powers’ is as much out of place in Confucianism as that of ‘the Great Extreme. The treatise
 contains several paragraphs interesting in themselves, but
 it adds nothing to our understanding of the Text, or even
 of the object of the appended treatises, when we try to
@@ -3590,8 +3125,7 @@ to the spiritual Intelligences, they produced (the rules for
 the use of) the divining plant.’ Perhaps this means no
 more than that the lineal figures were made to ‘hold the
 mirror up to nature, so that men by the study of them
-would understand more of the unseen and spiritual opera-
-tions, to which the phenomena around them were owing,
+would understand more of the unseen and spiritual operations, to which the phenomena around them were owing,
 than they could otherwise do.
 
 
@@ -3638,8 +3172,7 @@ between heaven and earth.
 It does not treat of the genesis of the other six trigrams by
 the union of the two, but is a rude attempt to explain their
 forms when they were once existing’, According to the
-idea of changes, KAien and KhwaAn are continually vary-
-ing their forms by their interaction. As here represented, the
+idea of changes, KAien and KhwaAn are continually varying their forms by their interaction. As here represented, the
 
 
 1 This view seems to be in accordance with that of W0 KAang (of the Yiian
@@ -3650,9 +3183,6 @@ the ‘ application’ being ‘the manipulation of the stalks to find the prope
 
 
 [16] E
-
-
-50 THE Yi KING. CH. III.
 
 
 other trigrams are not ‘ produced’ by a marriage-union, but
@@ -3730,8 +3260,7 @@ The 8th paragraph says :—
 
 
 ‘God comes forth in Xn (to his producing work); He brings
-(His processes) into full and equal action in Sun; they are mani-
-fested to one another in Lf; the greatest service is done for Him in
+(His processes) into full and equal action in Sun; they are manifested to one another in Lf; the greatest service is done for Him in
 Khwin; He rejoices in Tui; He struggles in Ahien; He is
 comforted and enters into rest in Kh&n; and he completes (the
 work of) the year in Kan.’
@@ -3751,19 +3280,14 @@ centuries earlier than AQ, quotes Wang Pi, who died A.D.
 Sing-lf) principem W4An-wang antiquum octo symbolorum, unde aliae figurae
 omnes pendent, ordinem invertisse ; quo ipsa imperii suis temporibus subversio
 graphice exprimi poterat, mutatis e naturali loco, quem genesis dederat, iis
-quatuor figuris, quae rerum naturalium pugnis ac dissociationibus, quas pos-
-terior Iabentis anni pars afferre solet, velut in antecessum, repraesentandis
+quatuor figuris, quae rerum naturalium pugnis ac dissociationibus, quas posterior Iabentis anni pars afferre solet, velut in antecessum, repraesentandis
 idoneae videbantur; v.g. si symbolum =="~== L}, ignis, supponatur loco
 symboli ==—== Khan, aquae, utriusque elementi inordinatio principi visa
 est non minus apta ad significandas ruinas et clades reipublicae male ordinatae,
-quam naturales ab hieme aut imminente aut saeviente rerum generatarum cor-
-ruptiones.’ See also pp. 67, 68,
+quam naturales ab hieme aut imminente aut saeviente rerum generatarum corruptiones.’ See also pp. 67, 68,
 
 
 E 2
-
-
-52 THE Yi KING. CH. 111.
 
 
 249, to the effect that ‘Ti is the lord who produces (all)
@@ -3777,8 +3301,7 @@ spring to winter, from the east to the north, in His progress
 throughout the year.’ In words strikingly like those of the
 apostle Paul, when writing his Epistle to the Romans, Wan
 Khung-jung (of the Khang-hsi period) and his son, in their
-admirable work called, ‘A New Digest of Collected Expla-
-nations of the Yi King,’ say :—‘God (Himself) cannot be
+admirable work called, ‘A New Digest of Collected Explanations of the Yi King,’ say :—‘God (Himself) cannot be
 seen ; we see Him in the things (which He produces).’ The
 first time I read these paragraphs with some understanding,
 I thought of Thomson’s Hymn on the Seasons, and I have
@@ -3804,8 +3327,7 @@ Prudish readers have found fault with some of Thomson’s
 expressions, as if they savoured of pantheism. The language
 of the Chinese writer is not open to the same captious
 objection. Without poetic ornament, or swelling phrase
-of any kind, he gives emphatic testimony to God as re-
-newing the face of the earth in spring, and not resting till
+of any kind, he gives emphatic testimony to God as renewing the face of the earth in spring, and not resting till
 He has crowned the year with His goodness.
 
 And there is in the passage another thing equally
@@ -3825,8 +3347,7 @@ not been far from descrying the light that is in it. Let
 Liang Yin, of our fourteenth century, be adduced as an
 example of them. He says:—‘The spirit here simply
 means God. God is the personality (literally, the body
-or substantiality) of the Spirit; the Spirit is God in opera-
-tion. He who is lord over and rules all things is God;
+or substantiality) of the Spirit; the Spirit is God in operation. He who is lord over and rules all things is God;
 the subtle presence and operation of God with all things
 is by His Spirit.’ The language is in fine accord with the
 definition of shan or spirit, given in the 3rd Appendix,
@@ -3843,8 +3364,7 @@ on p. 31 to the judgment of P. Regis about them. He could
 not receive them as from Confucius, and did not take the
 trouble to translate them, and transfer them to his own pages.
 My plan required me to translate everything published in
-China as a part of the Yi King; but I have given my rea-
-sons for doubting whether any portion of these Appendixes
+China as a part of the Yi King; but I have given my reasons for doubting whether any portion of these Appendixes
 be really from Confucius. There is nothing that could
 better justify the supercilious disregard with which the
 classical literature of China is frequently treated than to
@@ -3853,15 +3373,11 @@ from the pencil of its greatest sage. I have dwelt at some
 length on the 14th paragraph, because of its mythological
 semblance; but among the eight paragraphs that follow it,
 it would be difficult to award the palm for silliness. They
-are descriptive of the eight trigrams, and each one enu-
-merates a dozen or more objects of which its subject is
+are descriptive of the eight trigrams, and each one enumerates a dozen or more objects of which its subject is
 symbolical. The writer must have been fond of and familiar
 with horses. Khien, the symbol properly of heaven, suggests
 to him the idea of a good horse; an old horse; a lean horse;
 and a piebald. dan, the symbol of thunder, suggests the
-
-
-54 THE Yi KING. CH. IIL.
 
 
 idea of a good neigher; of the horse’ with white hind-legs ;
@@ -3927,10 +3443,8 @@ to the names that differ from the meanings in the Text.
 
 The seventh 3&2 Kwa Awan, or ‘Treatise on the Lineal
 
-Appendix. Figures taken promiscuously,’—not with re-
-gard to any sequence, but as they approximate, or are
-opposed, to one another in meaning. It is in rhyme, more-
-over, and this, as much as the meaning, determined, no
+Appendix. Figures taken promiscuously,’—not with regard to any sequence, but as they approximate, or are
+opposed, to one another in meaning. It is in rhyme, moreover, and this, as much as the meaning, determined, no
 doubt, the grouping of the hexagrams. The student will
 learn nothing of vaiue from it; it is more a ‘jeu d’esprit’
 than anything else.
@@ -3996,12 +3510,6 @@ If
 thai
 
 
-12
-
-
-13
-
-
 TULLE
 ” 2
 anal] iI*
@@ -4012,7 +3520,6 @@ Oe
 thung zan
 
 
-14
 ta
 
 
@@ -4030,18 +3537,6 @@ co
 its
 
 
-20
-
-
-21
-
-
-22
-
-
-33
-
-
 a
 
 
@@ -4056,15 +3551,6 @@ pi
 
 WULF
 Hie
-
-
-35
-
-
-26
-
-
-37
 
 
 ta kha
@@ -4087,12 +3573,6 @@ HTT
 
 Lae)
 bar)
-
-
-37
-
-
-38
 
 
 Mn
@@ -4151,7 +3631,7 @@ alll lhl
 
 Wh th
 
-> ill lll:
+) ill lll:
 |
 
 Ms =f
@@ -4235,8 +3715,7 @@ Explanation of the separate lines by the duke of Kau.
 its subject as) the dragon lying hid (in the deep).
 It is not the time for active doing.
 
-2. In the second line, undivided, (we see its sub-
-ject as) the dragon appearing in the field. It will
+2. In the second line, undivided, (we see its subject as) the dragon appearing in the field. It will
 be advantageous to meet with the great man.
 
 
@@ -4247,16 +3726,12 @@ and in the evening still careful and apprchensive.
 mistake.
 
 
-4. In the fourth line, undivided, (we see its sub-
-ject as the dragon looking) as if he were leaping up,
+4. In the fourth line, undivided, (we see its subject as the dragon looking) as if he were leaping up,
 but still in the deep. There will be no mistake.
 
 5. In the fifth line, undivided, (we see its subject
 as) the dragon on the wing in the sky. It will be
 advantageous to meet with the great man.
-
-
-58 THE Yf KING. TEXT,
 
 
 6. In the sixth (or topmost) line, undivided, (we
@@ -4283,8 +3758,7 @@ Each hexagram consists of two of the trigrams of Ff-hsi, the
 lower being called ‘the inner,’ and the one above ‘the outer.’ The
 lines, however, are numbered from one to six, commencing with
 the lowest. To denote the number of it and of the sixth line, the
-terms for ‘commencing’ and ‘topmost’ are used. The inter-
-mediate lines are simply ‘second,’ ‘third,’ &c. As the lines must
+terms for ‘commencing’ and ‘topmost’ are used. The intermediate lines are simply ‘second,’ ‘third,’ &c. As the lines must
 be either whole or divided, technically called strong and weak,
 yang and yin, this distinction is indicated by the application to
 them of the numbers nine and six. All whole lines are nine, all
@@ -4292,7 +3766,7 @@ divided lines, sjx.
 
 Two explanations have been proposed of this application of
 these numbers. The X4ien trigram, it is said, contains 3 strokes
-(==>), and the Khwan 6 (== =). But the yang contains
+(==)), and the Khwan 6 (== =). But the yang contains
 the yin in itself, and its representative number will be 3+6=9,
 while the yin, not containing the yang, will only have its own
 number or 6. This explanation, entirely arbitrary, is now deservedly
@@ -4320,8 +3794,7 @@ penetrating, advantageous, correct and having the
 firmness of a mare. When the superior man (here
 
 
-names of a yang line and a yin line respectively. This explana-
-tion is now universally acquiesced in. The nomenclature of first
+names of a yang line and a yin line respectively. This explanation is now universally acquiesced in. The nomenclature of first
 nine, nine two, &c., or first six, six two, &c., however, is merely a
 jargon; and I have preferred to use, instead of it, in the translation,
 in order to describe the lines, the names ‘undivided’ and ‘divided.’
@@ -4329,8 +3802,7 @@ in order to describe the lines, the names ‘undivided’ and ‘divided.’
 
 I. Does king Wan ascribe four attributes here to K/ien, or
 only two? According to Appendix IV, always by Chinese writers
-assigned to Confucius, he assigns four, corresponding to the princi-
-ples of benevolence, righteousness, propriety, and knowledge in
+assigned to Confucius, he assigns four, corresponding to the principles of benevolence, righteousness, propriety, and knowledge in
 man’s nature. AQ Hsi held that he assigned only two, and that
 we should translate, ‘ greatly penetrating,’ and ‘requires to be correct
 and firm,’ two responses in divination. Up and down throughout
@@ -4345,9 +3817,7 @@ to represent ‘the superior man’ and especially ‘the great man,’
 exhibiting the virtues or attributes characteristic of heaven. The
 creature’s proper home is in the water, but it can disport itself on
 the land, and also fly and soar aloft. It has been from the earliest
-time the emblem with the Chinese of the highest dignity and wis-
-dom, of sovereignty and sagehood, the combination of which con-
-stitutes ‘the great man,’ One emblem runs through the lines of
+time the emblem with the Chinese of the highest dignity and wisdom, of sovereignty and sagehood, the combination of which constitutes ‘the great man,’ One emblem runs through the lines of
 many of the hexagrams as here.
 
 But the dragon appears in the sixth line as going beyond the
@@ -4357,15 +3827,11 @@ him to relax. The line should not be always pulled tight; the
 bow should not be always kept drawn. The unchanging use
 
 
-60 THE Yi KING. TEXT.
-
-
 intended) has to make any movement, if he take the
 initiative, he will go astray; if he follow, he will find
 his (proper) lord. The advantageousness will be
 seen in his getting friends in the south-west, and
-losing friends in the north-east. If he rest in cor-
-rectness and firmness, there will be good fortune.
+losing friends in the north-east. If he rest in correctness and firmness, there will be good fortune.
 
 
 1. In the first line, divided, (we see its subject)
@@ -4373,15 +3839,13 @@ treading on hoarfrost. The strong ice will come
 (by and by).
 
 2. The second line, divided, (shows the attribute
-of) being straight, square, and great. (Its opera-
-tion), without repeated efforts, will be in every
+of) being straight, square, and great. (Its operation), without repeated efforts, will be in every
 respect advantageous.
 
 
 3. The third line, divided, (shows its subject)
 keeping his excellence under restraint, but firmly
-maintaining it. If he should have occasion to en-
-gage in the king’s service, though he will not claim
+maintaining it. If he should have occasion to engage in the king’s service, though he will not claim
 the success (for himself), he will bring affairs to a
 good issue.
 
@@ -4410,15 +3874,12 @@ Kau’s meaning, see Appendixes II and IV.
 SECT. I. THE KHWAN HEXAGRAM. 61
 
 IES Se ARRIOLA at Ol
-6. The sixth line, divided, (shows) dragons fight-
-
-ing in the wild. Their blood is purple and yellow.
+6. The sixth line, divided, (shows) dragons fighting in the wild. Their blood is purple and yellow.
 
 
 7. (The lines of this hexagram are all weak and
 divided as appears from) the use of the number
-six. If those (who are thus represented) be per-
-petually correct and firm, advantage will arise.
+six. If those (who are thus represented) be perpetually correct and firm, advantage will arise.
 
 
 II. The same attributes are here ascribed to Khw&n, as in the
@@ -4432,8 +3893,7 @@ service of man. That it is not the sex of the animal which the
 writer has chiefly in mind is plain from the immediate mention
 of the superior man, and his lord.
 
-That superior man will seek to bring his friends along with him-
-self to serve his ruler. But according to the arrangement of the
+That superior man will seek to bring his friends along with himself to serve his ruler. But according to the arrangement of the
 trigrams by king W4n, the place of Khw4n is in the south-west,
 while the opposite quarter is occupied by the yang trigram K4n,
 as in Figure 2, Plate III. All that this portion of the Thwan says
@@ -4444,10 +3904,8 @@ common lord. But in quietness and firmness will be his strength.
 
 The symbolism of the lines is various. Paragraph 2 presents to
 us the earth itself, according to the Chinese conception of it, as a
-great cube. To keep his excellence under restraint, as in para-
-graph 3, is the part of a minister or officer, seeking not his own
-glory, but that of his ruler, Paragraph 4 shows its subject exer-
-cising a still greater restraint on himself than in paragraph 3.
+great cube. To keep his excellence under restraint, as in paragraph 3, is the part of a minister or officer, seeking not his own
+glory, but that of his ruler, Paragraph 4 shows its subject exercising a still greater restraint on himself than in paragraph 3.
 There is an interpretation of the symbolism of paragraph 5 in
 a narrative of the 30 Awan, under the 12th year of duke KAio,
 B.c. 530. ‘Yellow’ is one of the five ‘correct’ colours, and the
@@ -4460,14 +3918,10 @@ said to be ‘beyond the proper limits’ takes place here ‘in the wild.’
 The humble subject of the divided line is transformed into a
 
 
-62 THE Yi KING. TEXT.
-
-
 III. THe Aun HExaAGRam.
 
 
-Kun (indicates that in the case which it pre-
-supposes) there will be great progress and success,
+Kun (indicates that in the case which it presupposes) there will be great progress and success,
 and the advantage will come from being correct and
 firm. (But) any movement in advance should not
 be (lightly) undertaken. There will be advantage
@@ -4475,9 +3929,7 @@ in appointing feudal princes.
 
 
 1. The first line, undivided, shows the difficulty
-(its subject has) in advancing. It will be advanta-
-geous for him to abide correct and firm; advan-
-tageous (also) to be made a feudal ruler.
+(its subject has) in advancing. It will be advantageous for him to abide correct and firm; advantageous (also) to be made a feudal ruler.
 
 
 2. The second line, divided, shows (its subject)
@@ -4507,17 +3959,14 @@ Khien ;—the result of which would be good.
 SECT. 1. THE KUN HEXAGRAM. 63
 
 
-4. The fourth line, divided, shows (its subject
 as a lady), the horses of whose chariot appear in
 retreat. She seeks, however, (the help of) him who
-seeks her to be his wife. Advance will be fortu-
-nate ; all will turn out advantageously.
+seeks her to be his wife. Advance will be fortunate ; all will turn out advantageously.
 
 
 5. The fifth line, undivided, shows the difficulties
 in the way of (its subject's) dispensing the rich
-favours that might be expected from him. With firm-
-ness and correctness there will be good fortune in
+favours that might be expected from him. With firmness and correctness there will be good fortune in
 
 
 small things ; (even) with them in great things there
@@ -4557,14 +4006,10 @@ He will be capable of action, and his place in the trigram of
 mobility will the more dispose him to it. But above him is the
 
 
-64 THE Yi KING. Text:
-
-
 IV. Tue MAnc HEXAGRAM.
 
 
-Mang (indicates that in the case which it pre-
-supposes) there will be progress and success. I do
+Mang (indicates that in the case which it presupposes) there will be progress and success. I do
 not (go and) seek the youthful and inexperienced,
 
 
@@ -4587,8 +4032,7 @@ match for her.
 The third line is divided, not central, and the number of its
 place is appropriate to the occupancy ofa strong line. All these
 things should affect the symbolism of the line. But the outcome
-of the whole hexagram being good, the superior man sees the imme-
-diate danger and avoids it.
+of the whole hexagram being good, the superior man sees the immediate danger and avoids it.
 
 The subject of the fourth line, the first of the upper trigram, has
 recourse to the strong suitor of line 1, the first of the lower trigram ;
@@ -4598,8 +4042,7 @@ and go forward.
 The subject of the fifth line is in the place of authority, and
 should show himself a ruler, dispensing benefits on a great scale.
 But he is in the very centre of the trigram denoting perilousness,
-and line 2, which responds to 5, is weak. Hence arises the sym-
-bolism, and great things should not be attempted.
+and line 2, which responds to 5, is weak. Hence arises the symbolism, and great things should not be attempted.
 
 The sixth line is weak ; the third responding to it is also weak ;
 it is at the extremity of peril; the game is up. What can remain
@@ -4621,15 +4064,13 @@ and correct.
 
 1. The first line, divided, (has respect to) the
 dispelling of ignorance. It will be advantageous
-to use punishment (for that purpose), and to re-
-move the shackles (from the mind). But going
+to use punishment (for that purpose), and to remove the shackles (from the mind). But going
 
 
 on in that way (of punishment) will give occasion
 for regret.
 
 
-2. The second line, undivided, (shows its subject)
 exercising forbearance with the ignorant, in which
 there will be good fortune; and admitting (even
 the goodness of women, which will also be fortunate.
@@ -4659,15 +4100,11 @@ smiting the ignorant (youth). But no advantage
 [16] F
 
 
-66 THE Yi KING. TEXT.
-
-
 will come from doing him an injury. Advantage
 would come from warding off injury from him.
 
 
-IV. As Xun shows us plants struggling from beneath the sur-
-face, Mang suggests to us the small and undeveloped appearance
+IV. As Xun shows us plants struggling from beneath the surface, Mang suggests to us the small and undeveloped appearance
 which they then present; and hence it came to be the symbol of
 youthful inexperience and ignorance. The object of the hexagram
 is to show how such a condition should be dealt with by the parent
@@ -4728,7 +4165,6 @@ him constantly to maintain (the purpose thus shown),
 in which case there will be no error.
 
 
-2. The second line, undivided, shows its subject
 waiting on the sand (of the mountain stream). He
 will (suffer) the small (injury of) being spoken
 (against), but in the end there will be good fortune.
@@ -4738,7 +4174,6 @@ the mud (close by the stream), He thereby invites
 the approach of injury.
 
 
-4. The fourth line, divided, shows its subject
 waiting in (the place of) blood. But he will get
 out of the cavern.
 
@@ -4754,9 +4189,6 @@ entered into the cavern. (But) there are three
 guests coming, without being urged, (to his help).
 
 F 2
-
-
-68 THE Yi KING. TEXT.
 
 
 If he receive them respectfully, there will be good
@@ -4835,7 +4267,6 @@ is). He will suffer the small (injury) of being spoken
 against, but the end will be fortunate.
 
 
-2. The second line, undivided, shows its subject
 unequal to the contention. If he retire and keep
 concealed (where) the inhabitants of his city are
 (only) three hundred families, he will fall into no
@@ -4845,10 +4276,7 @@ mistake.
 3. The third line, divided, shows its subject
 keeping in the old place assigned for his support,
 and firmly correct. Perilous as the position is, there
-will be good fortune in the end. Should he per-
-
-
-strong line 3 below, which comes with its two companions to his
+will be good fortune in the end. Should he perstrong line 3 below, which comes with its two companions to his
 help. If they are respectfully received, that help will prove effectual.
 P. Regis tries to find out a reference in these ‘three guests’ to
 three princes who distinguished themselves by taking part with Xau
@@ -4856,14 +4284,10 @@ in its struggle with Yin or Shang; see vol. i, pp. 279-282. I dare
 not be so confident of any historical reference.
 
 
-70 THE yf KING. TEXT.
-
-
 chance engage in the king’s business, he will not
 (claim the merit of) achievement.
 
 
-4. The fourth line, undivided, shows its subject
 unequal to the contention. He returns to (the
 study of Heaven’s) ordinances, changes (his wish to
 contend), and rests in being firm and correct. There
@@ -4928,10 +4352,8 @@ keeps in the old place assigned for his support’ is, literally,
 ‘He eats his old virtue;’ meaning that he lives in and on the
 appanage assigned to him for his services.
 
-Line 4 is strong, and not in the centre; so that we are to con-
-ceive of its subject as having a mind to strive. But immediately
-above it is line 5, the symbol of the ruler, and with him it is hope-
-less to strive; immediately below is 3, weak, and out of its proper
+Line 4 is strong, and not in the centre; so that we are to conceive of its subject as having a mind to strive. But immediately
+above it is line 5, the symbol of the ruler, and with him it is hopeless to strive; immediately below is 3, weak, and out of its proper
 place, incapable of maintaining a contention. Its proper correlate
 is the lowest line, weak, and out of its proper place, from whom
 little help can come. Hence its subject takes the course indicated,
@@ -4950,14 +4372,9 @@ reward here given, see on the Li Ai, X, ii, 32.
 P. Regis explains several of the expressions in the Text, both in
 the Thwan and the Hsiang, from the history of king Wan and his
 son king Wi. Possibly his own circumstances may have suggested to
-Wa4n some of the Thwan; and his course in avoiding a direct colli-
-sion with the tyrant Shau, and W{’s subsequent exploits may have
+Wa4n some of the Thwan; and his course in avoiding a direct collision with the tyrant Shau, and W{’s subsequent exploits may have
 been in the mind of the duke of Xau. Some of the sentiments,
-however, cannot be historically explained. They are general pro-
-tests against all contention and strife.
-
-
-72 THE Yi KING. TEXT.
+however, cannot be historically explained. They are general protests against all contention and strife.
 
 
 and experience, there will be good fortune and no
@@ -4970,8 +4387,7 @@ If these be not good, there will be evil.
 
 
 2. The second line, undivided, shows (the leader)
-in the midst of the host. There will be good for-
-tune and no error. The king has thrice conveyed
+in the midst of the host. There will be good fortune and no error. The king has thrice conveyed
 to him the orders (of his fayour).
 
 
@@ -4994,8 +4410,7 @@ he may be, there will be evil.
 
 6. The topmost line, divided, shows-the great
 ruler delivering his charges, (appointing some) to be
-rulers of states, and others to undertake the head-
-ship of clans; but small men should not be employed
+rulers of states, and others to undertake the headship of clans; but small men should not be employed
 (in such positions).
 
 
@@ -5016,8 +4431,7 @@ VIII. Tue Pt Hexacram.
 
 
 Pi indicates that (under the conditions which it
-supposes) there is good fortune. But let (the prin-
-cipal party intended in it) re-examine himself, (as if)
+supposes) there is good fortune. But let (the principal party intended in it) re-examine himself, (as if)
 
 
 and correct, and his enterprises will be successful. He is denomi«
@@ -5032,12 +4446,10 @@ in the first place, has not been sufficiently explained.
 
 How line 2 comes to be the symbol of the general in command
 of the army has been shown above on the Thwan. The orders of
-the king thrice conveyed to him are to be understood of his appoint-
-ment to the command, and not of any rewards conferred on him
+the king thrice conveyed to him are to be understood of his appointment to the command, and not of any rewards conferred on him
 as a tribute to his merit. Nor is stress to be laid on the ‘ thrice.’
 ‘It does not mean that the appointment came to him three
-times ; but that it was to him exclusively, and with the entire con-
-fidence of the king.’
+times ; but that it was to him exclusively, and with the entire confidence of the king.’
 
 The symbolism of line 3 is very perplexing. P. Regis translates
 it:—‘Milites videntur deponere sarcinas in curribus.
@@ -5056,26 +4468,20 @@ also suits better in the 5th paragraph.
 Line 4 is weak and not central; and therefore ‘to retreat’ is
 
 
-74 THE Yf KING. TEXT.
-
-
-by divination, whether his virtue be great, uninter-
-mitting, and firm. If it be so, there will be no
+by divination, whether his virtue be great, unintermitting, and firm. If it be so, there will be no
 error. Those who have not rest will then come to
 him; and with those who are (too) late in coming it
 will be ill.
 
 
-1. The first line, divided, shows its subject seek-
-ing by his sincerity to win the attachment of his
+1. The first line, divided, shows its subject seeking by his sincerity to win the attachment of his
 object. There will be no error. Let (the breast)
 ‘be full of sincerity as an earthenware vessel is of
 its contents, and it will in the end bring other
 advantages.
 
 
-2. In the second line, divided, we see the move-
-ment towards union and attachment proceeding
+2. In the second line, divided, we see the movement towards union and attachment proceeding
 from the inward (mind). With firm correctness
 there will be good fortune.
 
@@ -5114,8 +4520,7 @@ seeking for union with the one beyond himself. With
 firm correctness there will be good fortune.
 
 
-5. The fifth line, undivided, affords the most illus-
-trious instance of seeking union and attachment.
+5. The fifth line, undivided, affords the most illustrious instance of seeking union and attachment.
 (We seem to see in it) the king urging his pursuit
 of the game (only) in three directions, and allowing
 the escape of all the animals before him, while the
@@ -5123,8 +4528,7 @@ people of his towns do not warn one another (to
 prevent it). There will be good fortune.
 
 
-6. In the topmost line, divided, we see one seek-
-ing union and attachment without having taken the
+6. In the topmost line, divided, we see one seeking union and attachment without having taken the
 first step (to such an end). There will be evil.
 
 
@@ -5154,13 +4558,9 @@ of the inner or lower trigram agrees with the movement of its
 subject as proceeding from the inward mind.
 
 Line 3 is weak, not in the centre, nor in its correct place. The
-lines above and below it are both weak. All these things are sup-
-posed to account for what is said on it.
+lines above and below it are both weak. All these things are supposed to account for what is said on it.
 
 ‘The one beyond himself’ in line 4 is the ruler or king, who is
-
-
-76 THE YI KING. TEXT.
 
 
 IX. Tue HstAo Ant HEXAGRAM.
@@ -5172,12 +4572,10 @@ clouds, but no rain coming from our borders in the
 west.
 
 
-1. The first line, undivided, shows its subject re-
-turning and pursuing his own course. What mistake
+1. The first line, undivided, shows its subject returning and pursuing his own course. What mistake
 should he fall into? There will be good fortune.
 
 
-2. The second line, undivided, shows its subject,
 by the attraction (of the former line), returning (to
 the proper course). There will be good fortune.
 
@@ -5216,7 +4614,6 @@ removed, or of a husband and wife looking on each
 other with averted eyes.
 
 
-4. The fourth line, divided, shows its subject
 possessed of sincerity. The danger of bloodshed is
 thereby averted, and his (ground for) apprehension
 dismissed. There will be no mistake.
@@ -5224,8 +4621,7 @@ dismissed. There will be no mistake.
 
 5. The fifth line, undivided, shows its subject
 possessed of sincerity, and drawing others to unite
-with him. Rich in resources, he employs his neigh-
-bours (in the same cause with himself).
+with him. Rich in resources, he employs his neighbours (in the same cause with himself).
 
 
 6. The topmost line, undivided, shows how the
@@ -5256,9 +4652,6 @@ place, time, and personality of the writer which it seems possible
 to ascertain. The fief of Adu was the western portion of the
 
 
-78 THE Yf KING. TEXT.
-
-
 X. Tue Lt Hexacram.
 
 
@@ -5279,8 +4672,7 @@ not empty their stores.
 P, Regis says:—‘ To declare openly that no rain fell from the
 heavens long covered with dense clouds over the great tract of
 country, which stretched from the western border to the court and
-on to the eastern sea, was nothing else but leaving it to all thought-
-ful minds to draw the conclusion that the family of Wan was
+on to the eastern sea, was nothing else but leaving it to all thoughtful minds to draw the conclusion that the family of Wan was
 as worthy of the supreme seat as that of Shau, the tyrant, however
 ancient, was unworthy of it (vol. i, p. 356).’ The intimation is not
 put in the Text, however, so clearly as by P. Regis.
@@ -5313,7 +4705,6 @@ treading his accustomed path. If he go forward,
 there will be no error.
 
 
-2. The second line, undivided, shows its subject
 treading the path that is level and easy ;—a quiet
 and solitary man, to whom, if he be firm and correct,
 there will be good fortune.
@@ -5327,7 +4718,6 @@ We have a (mere) bravo acting the part of a great
 ruler.
 
 
-4. The fourth line, undivided, shows its subject
 treading on the tail of a tiger. He becomes full of
 apprehensive caution, and in the end there will be
 good fortune.
@@ -5358,15 +4748,11 @@ wane. Let the superior man, when he has attained his end, remain
 in quiet.
 
 
-80 THE Yt KING. TEXT.
-
-
 presage which that gives. If it be complete and
 without failure, there will be great good fortune.
 
 
-X. The character giving its name to the hexagram plays an im-
-portant part also in the symbolism; and this may be the reason
+X. The character giving its name to the hexagram plays an important part also in the symbolism; and this may be the reason
 why it does not, as the name, occupy the first place in the Thwan.
 Looking at the figure, we see it is made up of the trigrams Tui,
 representing a marsh, and AXhien, representing the sky. Tui is
@@ -5389,8 +4775,7 @@ Line 1 is an undivided line in an odd place; giving us the ideas
 of activity, firmness, and correctness. One so characterised will
 act rightly.
 
-Line 2 occupies the middle place of the trigram, which is sup-
-posed to symbolise a path cut straight and level along the hill-side,
+Line 2 occupies the middle place of the trigram, which is supposed to symbolise a path cut straight and level along the hill-side,
 or over difficult ground. Line 5 is not a proper correlate, and hence
 the idea of the subject of 2 being ‘a quiet and solitary man.’
 
@@ -5445,7 +4830,6 @@ sadness at the certainty (of such recurring changes);
 and in this mood the happiness (of the present) may
 be (long) enjoyed.
 
-4. The fourth line, divided, shows its subject
 fluttering (down);—not relying on his own rich
 
 
@@ -5455,9 +4839,6 @@ appropriate, the issue will be very good.
 
 
 [16] G
-
-
-82 THE Y1 KING. TEXT.
 
 
 resources, but calling in his neighbours. (They all
@@ -5491,23 +4872,19 @@ here, there appears that of Kwei Mei, the 54th in order (==),
 
 
 which becomes ThAi, if the third and fourth lines exchange places.
-‘But in the notes on the Thwan, in the first Appendix, on hexa-
-gram 6, I have spoken of the doctrine of ‘changing figures,’ and
+‘But in the notes on the Thwan, in the first Appendix, on hexagram 6, I have spoken of the doctrine of ‘changing figures,’ and
 intimated my disbelief of it. The different hexagrams arose
 necessarily by the continued manipulation of the undivided and
 divided lines, and placing them each over itself and over the other.
-When king WAn wrote these Thwan, he was taking the 64 hexa-
-grams, as they were ready to his hand, and not forming one from
+When king WAn wrote these Thwan, he was taking the 64 hexagrams, as they were ready to his hand, and not forming one from
 another by any process of divination. The ‘gone’ and ‘come’
 are merely equivalent to ‘below’ and ‘above,’ in the lower trigram
 or in the upper.
 
 A course in which the motive forces are represented by the three
-strong, and the opposing by the three weak lines, must be pro-
-gressive and successful. Thai is called the hexagram of the
+strong, and the opposing by the three weak lines, must be progressive and successful. Thai is called the hexagram of the
 first month of the year, the first month of the natural spring, when
-for six months, through the fostering sun and genial skies, the pro-
-cesses of growth will be going on.
+for six months, through the fostering sun and genial skies, the processes of growth will be going on.
 
 
 SECT. I. THE PHI HEXAGRAM. 8 2
@@ -5517,8 +4894,7 @@ XII. Tue Put Hexacram.
 
 
 In Phi there is the want of good understanding
-between the (different classes of) men, and its in-
-dication is unfavourable to the firm and correct
+between the (different classes of) men, and its indication is unfavourable to the firm and correct
 
 
 The symbolism of paragraph 1 is suggested by the three strong
@@ -5526,8 +4902,7 @@ lines of A Aien all together, and all possessed by the same instinct
 to advance. The movement of the first will be supported by that
 of the others, and be fortunate.
 
-The second line is strong, but in an even place. This is sup-
-posed to temper the strength of its subject ; which is expressed by the
+The second line is strong, but in an even place. This is supposed to temper the strength of its subject ; which is expressed by the
 first of his characteristics. But the even place is the central; and
 it is responded to by a proper correlate in the fifth line above.
 Hence come all the symbolism of the paragraph and the auspice
@@ -5558,32 +4933,25 @@ he gave his sister in marriage to the lord of Aau, known in subse-
 G 2
 
 
-84 THE Y{ KING. TEXT.
-
-
 course of the superior man. We see in it the great
 gone and the little come.
 
 
 1. The first line, divided, suggests the idea of
 grass pulled up, and bringing with it other stalks
-with whose roots it is connected. With firm cor-
-rectness (on the part of its subject), there will be
+with whose roots it is connected. With firm correctness (on the part of its subject), there will be
 good fortune and progress.
 
 
 2. The second line, divided, shows its subject
-patient and obedient. To the small man (comport-
-ing himself so) there will be good fortune. If the
-great man (comport himself) as the distress and ob-
-struction require, he will have success.
+patient and obedient. To the small man (comporting himself so) there will be good fortune. If the
+great man (comport himself) as the distress and obstruction require, he will have success.
 
 
 3. The third line, divided, shows its subject
 ashamed of the purpose folded (in his breast).
 
 
-4. The fourth line, undivided, shows its subject
 acting in accordance with the ordination (of Heaven),
 and committing no error. His companions will come
 and share in his happiness.
@@ -5597,13 +4965,11 @@ contrary to all the evidence I have been able to find on the subject.
 According to Ahang-3ze, Ti-yi was the first to enact a law that
 daughters of the royal house, in marrying princes of the states, should
 be in subjection to them, as if they were not superior to them in
-rank. Here line 5, while occupying the place of dignity and au-
-thority in the hexagram, is yet a weak line in the place of a strong
+rank. Here line 5, while occupying the place of dignity and authority in the hexagram, is yet a weak line in the place of a strong
 one; and its subject, accordingly, humbly condescends to his
 strong and proper correlate in line 2.
 
-The course denoted by Thai has been run; and will be fol-
-lowed by one of a different and unhappy character. The earth dug
+The course denoted by Thai has been run; and will be followed by one of a different and unhappy character. The earth dug
 from the moat had been built up to form a protecting wall; but it
 is now-again fallen into the ditch. War will only aggravate the
 evil; and however the ruler may address good proclamations to
@@ -5621,8 +4987,7 @@ mulberry trees.
 
 
 6. The sixth line, undivided, shows the overthrow
-(and removal of) the condition of distress and ob-
-struction. Before this there was ‘that condition.
+(and removal of) the condition of distress and obstruction. Before this there was ‘that condition.
 Hereafter there will be joy.
 
 
@@ -5630,8 +4995,7 @@ XII. The form of Phi, it will be seen, is exactly the opposite of
 that of Thai. Much of what has been said on the interpretation
 of that will apply to this, or at least assist the student in making
 out the meaning of its symbolism. Phi is the hexagram of the
-seventh month. Genial influences have done their work, the pro-
-cesses of growth are at an end. Henceforth increasing decay must
+seventh month. Genial influences have done their work, the processes of growth are at an end. Henceforth increasing decay must
 be looked for.
 
 
@@ -5648,14 +5012,11 @@ incorrect. Its subject would vent his evil purpose, but has not
 strength to do so. He is left therefore to the shame which he
 ought to feel without a word of warning. Does the ming of the
 fourth line mean ‘the ordination of Heaven,’ as AX( Hsi thinks; or
-the orders of the ruler, as KAang-3ze says? Whichever interpre-
-tation be taken (and some critics unite the two), the action of the
-subject of the line, whose strength is tempered by the even posi-
-tion, will be good and correct, and issue in success and happiness.
+the orders of the ruler, as KAang-3ze says? Whichever interpretation be taken (and some critics unite the two), the action of the
+subject of the line, whose strength is tempered by the even position, will be good and correct, and issue in success and happiness.
 
 The strong line in the fifth, (its correct), place, brings the distress
-and obstruction to a close. Yet its subject—the ruler in the hexa-
-gram—is warned to continue to be cautious in two lines of rhyme :—
+and obstruction to a close. Yet its subject—the ruler in the hexagram—is warned to continue to be cautious in two lines of rhyme :—
 
 ‘And let him say, “I die! I die!”
 So to a bushy clump his fortune he shall tie.’
@@ -5665,27 +5026,20 @@ condition should give place to its opposite; and the strong line
 in the topmost place fitly represents the consequent joy.
 
 
-86 THE Yi KING. TEXT.
-
-
 XIII. Tue Tuunc ZAN HExaGRaM.
 
 
 Thung Z4n (or ‘Union of men’) appears here (as
 we find it) in the (remote districts of the) country,
-indicating progress and success. It will be advan-
-tageous to cross the great stream. It will be ad-
-vantageous to maintain the firm correctness of the
+indicating progress and success. It will be advantageous to cross the great stream. It will be advantageous to maintain the firm correctness of the
 superior man.
 
 
-1. The first line, undivided, (shows the repre-
-sentative of) the union of men just issuing from his
+1. The first line, undivided, (shows the representative of) the union of men just issuing from his
 gate. There will be no error.
 
 
-2. The second line, divided, (shows the repre-
-sentative of) the union of men in relation with his
+2. The second line, divided, (shows the representative of) the union of men in relation with his
 kindred. There will be occasion for regret.
 
 
@@ -5695,7 +5049,6 @@ top of a high mound. (But) for three years he
 makes no demonstration.
 
 
-4. The fourth line, undivided, (shows its subject)
 mounted on the city wall; but he does not proceed
 to make the attack (he contemplates). There will
 be good fortune.
@@ -5744,8 +5097,7 @@ Lines 2 and 5 are proper correlates, which fact suggests in this
 hexagram the idea of their union being limited and partial, and
 such as may afford ground for blame.
 
-Line 3 is strong, and in an odd place; but it has nota proper cor-
-relate in 6. This makes its subject more anxious to unite with 2;
+Line 3 is strong, and in an odd place; but it has nota proper correlate in 6. This makes its subject more anxious to unite with 2;
 but 2 is devoted to its proper correlate in 5, of whose strength 3 is
 afraid, and takes the measures described. His abstaining so long,
 however, from any active attempt, will save him from misfortune.
@@ -5760,11 +5112,7 @@ But 3 and 4 are powerful foes that oppose the union, Their
 opposition makes him weep; but he collects his forces, defeats
 them, and effects his purpose.
 
-The union reaches to all within the suburbs, and is not yet uni-
-versal ; but still there is no cause for repentance.
-
-
-88 THE YI KING. TEXT.
+The union reaches to all within the suburbs, and is not yet universal ; but still there is no cause for repentance.
 
 
 XIV. Tue TA YO HeExacram.
@@ -5775,8 +5123,7 @@ which it implies), there will be great progress and
 success.
 
 
-1. In the first line, undivided, there is no ap-
-proach to what is injurious, and there is no error.
+1. In the first line, undivided, there is no approach to what is injurious, and there is no error.
 Let there be a realisation of the difficulty (and
 danger of the position), and there will be no error
 (to the end).
@@ -5792,7 +5139,6 @@ prince presenting his offerings to the Son of Heaven.
 A small man would be unequal (to such a duty).
 
 
-4. The fourth line, undivided, shows its subject
 keeping his great resources under restraint. There
 will be no error.
 
@@ -5818,8 +5164,7 @@ SECT. I. TIE KHIEN HEXAGRAM. 89
 XV. Tue AXw1eEN HEXAGRAM.
 
 
-‘Chien indicates progress and success. The su-
-perior man, (being humble as it implies), will have
+‘Chien indicates progress and success. The superior man, (being humble as it implies), will have
 a (good) issue (to his undertakings).
 
 
@@ -5845,8 +5190,7 @@ The strong line 2 has its proper correlate in line 5, the ruler of
 the figure, and will use its strength in subordination to his humility.
 Hence the symbolism.
 
-Line 3 is strong, and in the right (an odd) place. The top-
-most line of the lower trigram is the proper place for a feudal lord.
+Line 3 is strong, and in the right (an odd) place. The topmost line of the lower trigram is the proper place for a feudal lord.
 The subject of this will humbly serve the condescending ruler in
 line 5. A small man, having the place without the virtue, would
 give himself airs.
@@ -5863,16 +5207,12 @@ Even the topmost line takes its character from 5. The strength
 of its subject is still tempered, and Heaven gives its approval.
 
 
-90 THE Yf KING. TEXT.
-
-
 stream may be crossed with this, and there will be
 good fortune.
 
 
 2. The second line, divided, shows us humility
-that has made itself recognised. With firm correct-
-ness there will be good fortune.
+that has made itself recognised. With firm correctness there will be good fortune.
 
 
 3. The third line, undivided, shows the superior
@@ -5931,10 +5271,7 @@ feudal princes may be set up, and the hosts put in
 motion, with advantage.
 
 
-1. The first line, divided, shows its subject pro-
-
-
-claiming his pleasure and satisfaction. There will
+1. The first line, divided, shows its subject proclaiming his pleasure and satisfaction. There will
 be evil.
 
 
@@ -5945,10 +5282,8 @@ there will be good fortune.
 
 
 3. The third line, divided, shows one looking up
-(for favours), while he indulges the feeling of plea-
-sure and satisfaction. If he would understand !—-
-If he be late in doing so, there will indeed be occa-
-sion for repentance.
+(for favours), while he indulges the feeling of pleasure and satisfaction. If he would understand !—-
+If he be late in doing so, there will indeed be occasion for repentance.
 
 
 4. The fourth line, undivided, shows him from
@@ -5958,11 +5293,9 @@ whom the harmony and satisfaction come. Great
 be successful and prosperous, but being so near the fifth line, he
 should still use the greatest precaution.
 
-All men love and honour humility, in itself and without the ad-
-juncts which usually command obedience and respect. Hence his
+All men love and honour humility, in itself and without the adjuncts which usually command obedience and respect. Hence his
 neighbours follow the ruler in the fifth line, though he may not be
-very rich or powerful. His humility need not keep him from assert-
-ing the right, even by force of arms.
+very rich or powerful. His humility need not keep him from asserting the right, even by force of arms.
 
 The subject of the sixth line, which is weak, is outside the game,
 so to speak, that has been played out. He will use force, but only
@@ -5970,9 +5303,6 @@ so to speak, that has been played out. He will use force, but only
 
 within his own sphere and to assert what is right. He will not be
 aggressive,
-
-
-92 THE Y{ KING. TEXT.
 
 
 is the success which he obtains. Let him not allow
@@ -6006,8 +5336,7 @@ Line 1 is weak, and has for its correlate the strong 4. Its subject
 may well enjoy the happiness of the time. But he cannot contain
 himself, and proclaims, or boasts of, his satisfaction ;— which is evil.
 
-Line 2, though weak, is in its correct position, the centre, more-
-over, of the lower trigram. Quietly and firmly its subject is able to
+Line 2, though weak, is in its correct position, the centre, moreover, of the lower trigram. Quietly and firmly its subject is able to
 abide in his place, and exercise a far-seeing discrimination. All is
 indicative of good fortune. |
 
@@ -6017,8 +5346,7 @@ on him, thinking of doing nothing, but how to enjoy himself. The
 consequence will be as described, unless he speedily change.
 
 The strong subject of line 4 is the agent to whom the happy
-condition is owing ; and it is only necessary to caution him to main-
-tain his confidence in himself and his purpose, and his adherents
+condition is owing ; and it is only necessary to caution him to maintain his confidence in himself and his purpose, and his adherents
 and success will continue.
 
 Line 5 is in the ruler’s place; but it is weak, and he is in danger
@@ -6034,13 +5362,11 @@ XVII. Tue Sur Hexacram.
 
 
 Sui indicates that (under its conditions) there will
-be great progress and success. But it will be advan-
-tageous to be firm and correct. There will (then)
+be great progress and success. But it will be advantageous to be firm and correct. There will (then)
 be no error.
 
 
-1. The first line, undivided, shows us one chang-
-ing the object of his pursuit; but if he be firm and
+1. The first line, undivided, shows us one changing the object of his pursuit; but if he be firm and
 correct, there will be good fortune. Going beyond
 (his own) gate to find associates, he will achieve
 merit.
@@ -6073,15 +5399,11 @@ subject is all but lost. Still even for him there is a chance of safety,
 if he will but change.
 
 
-94 THE Yi KING. TEXT.
-
-
 5. The fifth line, undivided, shows us (the ruler)
 sincere in (fostering all) that is excellent. There
 will be good fortune.
 
-6. The topmost line, divided, shows us (that sin-
-cerity) firmly held and clung to, yea, and bound fast.
+6. The topmost line, divided, shows us (that sincerity) firmly held and clung to, yea, and bound fast.
 (We see) the king with it presenting his offerings
 on the western mountain.
 
@@ -6091,8 +5413,7 @@ follow Yii, the symbol of harmony and satisfaction. Where there
 are these conditions men are sure to follow; nor will they follow
 those in whom they have no complacency. The hexagram includes
 the cases where one follows others, and where others follow him;
-and the auspice of great progress and success is due to this flexi-
-bility and applicability of it. But in both cases the following must
+and the auspice of great progress and success is due to this flexibility and applicability of it. But in both cases the following must
 be guided by a reference to what is proper and correct. See the
 notes.on the Thwan and the Great Symbolism.
 
@@ -6112,8 +5433,7 @@ to be mentioned.
 
 Line 3 is also weak, but it follows the strong line above it and
 leaves line 1, reversing the course of 2 ;—with a different issue. It
-is weak, however, and 4 is not its proper correlate ; hence the con-
-clusion of the paragraph is equivalent to a caution.
+is weak, however, and 4 is not its proper correlate ; hence the conclusion of the paragraph is equivalent to a caution.
 
 Line 4 is strong, and in the place of a great minister next the
 ruler in 5. But his having adherents may be injurious to the supreme
@@ -6173,9 +5493,6 @@ B.c. 1325. The use of the name ‘king’ here brings us down
 from WaAn into the time of king WQ at least.
 
 
-96 THE Yi KING. TEXT.
-
-
 indulgently the troubles caused by his father. If he
 go forward, he will find cause to regret it.
 
@@ -6194,32 +5511,25 @@ XVIII. In the 6th Appendix it is said, ‘They who follow another
 are sure to have services (to perform), and hence Sui is followed
 by Kf.’ But Kf means the having painful or troublesome services
 to do. It denotes here a state in which things are going to ruin,
-as if through poison or venomous worms; and the figure is sup-
-posed to describe the arrest of the decay and the restoration to
+as if through poison or venomous worms; and the figure is supposed to describe the arrest of the decay and the restoration to
 soundness and vigour, so as to justify its auspice of great progress
 and success. To realise such a result, however, great efforts will
-be required, as in crossing the great stream; and a careful con-
-sideration of the events that have brought on the state of decay,
+be required, as in crossing the great stream; and a careful consideration of the events that have brought on the state of decay,
 and the measures to be taken to remedy it is also necessary. See
 Appendix I on the ‘three days.’
 
 
-The subject of line 1, and of all the other lines, excepting per-
-haps 6, appears asason. Yet the line itself is of the yin nature,
+The subject of line 1, and of all the other lines, excepting perhaps 6, appears asason. Yet the line itself is of the yin nature,
 and the trigram in which it plays the principal part is also yin.
 Line 2 is strong, and of the yang nature, with the yin line 5 as
-its proper correlate. In line 2, 5 appears as the mother; but its sub-
-ject there is again a son, and the upper trigram altogether is yang.
+its proper correlate. In line 2, 5 appears as the mother; but its subject there is again a son, and the upper trigram altogether is yang.
 I am unable to account for these things. As is said in the note of
 Regis on line 2:—‘ Haec matris filiique denominatio ad has lineas
-mere translatitia est, et, ut ait commentarius vulgaris, ad explicatio-
-nem sententiarum eas pro matre et filio supponere dicendum
+mere translatitia est, et, ut ait commentarius vulgaris, ad explicationem sententiarum eas pro matre et filio supponere dicendum
 est. Nec ratio reddetur si quis in utroque hoc nomine mysterium
-quaerat. Cur enim aliis in figuris lineae nunc regem, nunc vasal-
-lum, jam imperii administrum, mox summum armorum
+quaerat. Cur enim aliis in figuris lineae nunc regem, nunc vasallum, jam imperii administrum, mox summum armorum
 praefectum referre dicantur? Accommodantur scilicet lineae ad
-verba sententiae et verba sententiae ad sensum, quemadmodum faci-
-endurtt de methodis libri Shih King docet Mencius, V, i, ode 4. 2.’
+verba sententiae et verba sententiae ad sensum, quemadmodum faciendurtt de methodis libri Shih King docet Mencius, V, i, ode 4. 2.’
 
 We must leave this difficulty. Line 1 is weak, and its correlate
 4 is also weak. What can its subject do to remedy the state of
@@ -6248,14 +5558,12 @@ accomplish what is promised.
 The ruler in line 5 is represented by a weak line, while 2 is
 strong. Thus the symbolism takes the form of a son dealing with
 the prevailing decay induced somehow by his mother. But a son
-must be very gentle in all his intercourse with his mother, and espe-
-cially so, when constrained by a sense of duty to oppose her course.
+must be very gentle in all his intercourse with his mother, and especially so, when constrained by a sense of duty to oppose her course.
 I do not think there is anything more or better to be said here.
 The historical interpretation adopted by Regis and his friends, that
 the father here is king W4n, the mother T:hai-sze, and the son king
 WA, cannot be maintained. I have searched, but in vain, for the
-slightest Chinese sanction of it, and it would give to KQ the mean-
-ing of misfortunes endured, instead of troubles caused.
+slightest Chinese sanction of it, and it would give to KQ the meaning of misfortunes endured, instead of troubles caused.
 
 Line 3 is strong, and not central, so that its subject might well
 go to excess in his efforts. But this tendency is counteracted by the
@@ -6276,14 +5584,10 @@ part in public affairs, but occupied with the culture of himself.
 (16] i
 
 
-98 THE Yi KING. TEXT.
-
-
 second line). Through his firm correctness there
 will be good fortune.
 
 
-2. The second line, undivided, shows its subject
 advancing in company (with the subject of the first
 line). There will be good fortune; (advancing) will
 be in every way advantageous.
@@ -6310,21 +5614,18 @@ and no error.
 
 
 XIX. In Appendix VI Lin is explained as meaning ‘ great.’ The
-writer, having misunderstood the meaning of the previous K (i, sub-
-joins—‘ He who performs such services may become “ great.” ’ But
+writer, having misunderstood the meaning of the previous K (i, subjoins—‘ He who performs such services may become “ great.” ’ But
 Lin denotes the approach of authority,—to inspect, to comfort, or
 to rule. When we look at the figure, we see two strong undivided
 lines advancing on the four weak lines above them, and thence
-follows the assurance that their action will be powerful and suc-
-cessful. That action must be governed by rectitude, however, and
+follows the assurance that their action will be powerful and successful. That action must be governed by rectitude, however, and
 by caution grounded on the changing character of all conditions
 and events. The meaning of the concluding sentence is given in
 Appendix I as simply being—that, ‘ the advancing power will decay
 in no long time.’ Li A%n-2Ai (Ming dynasty) says:—‘ The sun
 (or the day) is the symbol of what is Yang; and the moon is the
 symbol of what is Yin. Eight is the number of the second of the
-four emblematic figures (the smaller Yin), and seven is the num-
-ber of the third of them (the smaller Yang). Hence to indicate
+four emblematic figures (the smaller Yin), and seven is the number of the third of them (the smaller Yang). Hence to indicate
 the period of the coming of what is Yin, we use the phrase, “the
 eighth month ;” and to indicate the period of the coming of what is
 
@@ -6361,12 +5662,10 @@ counterbalanced Ly the central position, and its correlate in line 5.
 
 Line 3 is weak, and neither central, nor in its correct position.
 Hence its action will not be advantageous; but being at the top
-of the trigram T ui, which means being pleased, its subject is repre-
-sented as ‘well pleased to advance.’ Anxious reflection will save
+of the trigram T ui, which means being pleased, its subject is represented as ‘well pleased to advance.’ Anxious reflection will save
 him from error.
 
-Line 4, though weak, is in its proper place, and has for its cor-
-relate the strong 1. Hence its advance is ‘in the highest style.’
+Line 4, though weak, is in its proper place, and has for its correlate the strong 1. Hence its advance is ‘in the highest style.’
 
 Line 5 is the position of the ruler. It is weak, but being central,
 and having for its correlate the strong and central 2, we have in it
@@ -6380,9 +5679,6 @@ the characteristic and issue as assigned.
 
 
 H2
-
-
-100 THE Yi KING. TEXT.
 
 
 and an appearance of dignity (commanding reverent
@@ -6403,9 +5699,7 @@ were (merely) the firm correctness of a female.
 (the course. of) his own life, to advance or recede
 (accordingly).
 
-4. The fourth line, divided, shows one contem-
-plating the glory of the kingdom. It will be ad-
-vantageous for him, being such as he is, (to seek)
+4. The fourth line, divided, shows one contemplating the glory of the kingdom. It will be advantageous for him, being such as he is, (to seek)
 to be a guest of the king.
 
 
@@ -6423,15 +5717,13 @@ XX. The Chinese character Kwan, from which this hexagram
 is named, is used in it in two senses. In the Thwan, the first
 paragraph of the treatise on the Thwan, and the paragraph on
 the Great Symbolism, it denotes showing, manifesting; in all
-other places it denotes contemplating, looking at. The sub-
-ject of the hexagram is the sovereign and his subjects, how he
+other places it denotes contemplating, looking at. The subject of the hexagram is the sovereign and his subjects, how he
 manifests himself to them, and how they contemplate him. The
 two upper, undivided, lines belong to the sovereign; the four weak
 lines below them are his subjects,—ministers and others who look
 up athim. Kwan is the hexagram of the eighth month.
 
-In the Thwan king Wan symbolises the sovereign by a wor-
-shipper when he is most solemn in his religious service, at the
+In the Thwan king Wan symbolises the sovereign by a worshipper when he is most solemn in his religious service, at the
 commencement of it, full of sincerity and with a dignified carriage.
 
 
@@ -6444,8 +5736,7 @@ SECT. I. THE SHIH HO HEXAGRAM. IOI
 XXI. THe Sun Ho Hexacram.
 
 
-Shih Ho indicates successful progress (in the con-
-dition of things which it supposes). It will be
+Shih Ho indicates successful progress (in the condition of things which it supposes). It will be
 advantageous to use legal constraints.
 
 
@@ -6476,8 +5767,7 @@ proximity to 5, representing the sovereign. Its subject is moved
 accordingly, and stirred to ambition.
 
 Line 5 is strong, and in the place of the ruler. He is a superior
-man, but this does not relieve him from the duty of self-contempla-
-tion or examination.
+man, but this does not relieve him from the duty of self-contemplation or examination.
 
 There is a slight difference in the 6th paragraph from the 5th,
 which can hardly be expressed in a translation. By making a
@@ -6485,9 +5775,6 @@ change in the punctuation, however, the different significance may
 be brought out. Line 6 is strong, and should be considered out
 of the work of the hexagram, but its subject is still possessed by the
 spirit of its idea, and is led to self-examination.
-
-
-102 THE Yi KING. TEXT.
 
 
 3. The third line, divided, shows one gnawing
@@ -6504,8 +5791,7 @@ in which case there will be good fortune.
 
 5. The fifth line, divided, shows one gnawing at
 dried flesh, and finding the yellow gold. Let him
-be firm and correct, realising the peril (of his posi-
-tion). There will be no error.
+be firm and correct, realising the peril (of his position). There will be no error.
 
 
 6. The sixth line, undivided, shows one wearing
@@ -6516,8 +5802,7 @@ be evil.
 XXI. Shih Ho means literally ‘Union by gnawing.’ We see in
 the figure two strong lines in the first and last places, while all the
 others, with the exception of the fourth, are divided. This suggests
-the idea of the jaws and the mouth between them kept open by some-
-thing in it. Let that be gnawed through and the mouth will close
+the idea of the jaws and the mouth between them kept open by something in it. Let that be gnawed through and the mouth will close
 and the jaws come together. So in the body politic. Remove the
 obstacles to union, and high and low will come together with a
 good understanding. And how are those obstacles to be removed?
@@ -6532,8 +5817,7 @@ punishment, while the other lines represent parties inflicting it.
 The punishment in line 1 is that of the stocks, administered for
 a small offence, and before crime has made much way. But if
 the ‘depriving’ of the toes is not merely keeping them in restraint,
-but cutting them off, as the Chinese character suggests, the punish-
-ment appears to a western reader too severe.
+but cutting them off, as the Chinese character suggests, the punishment appears to a western reader too severe.
 
 Line 2 is weak, appropriately therefore in an even place, and
 it is central besides. The action therefore of its subject should
@@ -6569,8 +5853,7 @@ of their rectitude, after which they were heard ; in a criminal case,
 they in the same way deposited each thirty pounds of gold, or
 some other metal. See the Official Book of Kau, 27. 14, 15. The
 subject of the fourth line’s getting those pledges indicates his
-exercising his judicial functions; and what he gnaws through indi-
-cates their difficulty. Moreover, though the line is strong, it is in
+exercising his judicial functions; and what he gnaws through indicates their difficulty. Moreover, though the line is strong, it is in
 an even place; and hence comes the lesson of caution.
 
 The fifth line represents ‘the lord of judgment.’ As it is a weak’
@@ -6580,12 +5863,8 @@ yellow is one of the five ‘correct’ colours. The position is in the
 centre and that of rule; but the line being weak, a caution is given,
 as under the previous line.
 
-The action of the figure has passed, and still we have, in the sub-
-ject of line 6, one persisting in wrong, a strong criminal, wearing
+The action of the figure has passed, and still we have, in the subject of line 6, one persisting in wrong, a strong criminal, wearing
 the cangue, and deaf to counsel. Of course the ausp‘ce is evil.
-
-
-104 THE YI KING. TEXT.
 
 
 1. The first line, undivided, shows one adorning
@@ -6607,13 +5886,11 @@ firm correctness, and there will be good fortune.
 if adorned, but only in white. As if (mounted on)
 a white horse, and furnished with wings, (he seeks
 union with the subject of the first line), while (the
-intervening third pursues), not as a robber, but in-
-tent on a matrimonial alliance.
+intervening third pursues), not as a robber, but intent on a matrimonial alliance.
 
 
 5. The fifth line, divided, shows its subject
-adorned by (the occupants of) the heights and gar-
-dens. He bears his roll of silk, small and slight.
+adorned by (the occupants of) the heights and gardens. He bears his roll of silk, small and slight.
 He may appear stingy; but there will be good
 fortune in the end.
 
@@ -6634,8 +5911,7 @@ Line 1 is strong, and in an odd place. It is at the very bottom
 of the hexagram, and is the first line of Li, the trigram for fire or
 light, and suggesting what is elegant and bright. Its subject has
 nothing to do but to attend to himself. Thus he cultivates—
-adorns—himselfin his humble position; but if need be, righteous-
-ness requiring it, he can give up every luxury and indulgence.
+adorns—himselfin his humble position; but if need be, righteousness requiring it, he can give up every luxury and indulgence.
 
 
 SECT? THE PO HEXAGRAM, 105
@@ -6649,8 +5925,7 @@ it will not be advantageous to make a movement in
 any direction whatever.
 
 
-Line 2 is weak and in its proper place, but with no proper cor-
-relate above. The strong line 3 is similarly situated. These two
+Line 2 is weak and in its proper place, but with no proper correlate above. The strong line 3 is similarly situated. These two
 lines therefore keep together, and are as the beard and the chin.
 Line 1 follows 2. What is substantial commands and rules what
 is merely ornamental.
@@ -6685,17 +5960,13 @@ course, and here there is a return to pure, ‘white,’ simplicity.
 Substantiality is better than ornament.
 
 
-106 TUE Yi KING. TEXT.
-
-
 1. The first line, divided, shows one overturning
 the couch by injuring its legs. (The injury will go
 on to) the destruction of (all) firm correctness, and
 there will be evil.
 
 
-2. The second line, divided, shows one over-
-throwing the couch by injuring its frame. (The
+2. The second line, divided, shows one overthrowing the couch by injuring its frame. (The
 injury will go on to) the destruction of (all) firm
 correctness, and there will be evil.
 
@@ -6704,14 +5975,11 @@ correctness, and there will be evil.
 the overthrowers; but there will be no error.
 
 
-4. The fourth line, divided, shows its subject
 having overthrown the couch, and (going to injure)
 the skin (of him who lies on it). There will be evil.
 
 
-5. The fifth line, divided, shows (its subject lead-
-ing on the others like) a string of fishes, and (ob-
-taining for them) the favour that lights on the
+5. The fifth line, divided, shows (its subject leading on the others like) a string of fishes, and (obtaining for them) the favour that lights on the
 inmates of the palace. There will be advantage in
 every way.
 
@@ -6785,9 +6053,6 @@ acquires fresh vigour. The people again cherish their sovereign,
 and the plotters have wrought to their own overthrow.
 
 
-108 THE YI KING. TEXT.
-
-
 entrances; friends come to him, and no error is
 committed. He will return and repeat his (proper)
 course. In seven days comes his return. There will
@@ -6795,8 +6060,7 @@ be advantage in whatever direction movement is
 made.
 
 
-1. The first line, undivided, shows its subject re-
-turning (from an error) of no great extent, which
+1. The first line, undivided, shows its subject returning (from an error) of no great extent, which
 would not proceed to anything requiring repentance.
 There will be great good fortune.
 
@@ -6810,7 +6074,6 @@ made repeated returns. The position is perilous,
 but there will be no error.
 
 
-4. The fourth line, divided, shows its subject
 moving right in the centre (among those represented
 by the other divided lines), and yet returning alone
 (to his proper path).
@@ -6847,15 +6110,11 @@ while there will be advantage in being firm and
 
 
 it; here we have one strong line, and five weak lines above it. To
-illustrate the subject from what we see in nature,—Po is the hexa-
-gram of the ninth month, in which the triumph of cold and
+illustrate the subject from what we see in nature,—Po is the hexagram of the ninth month, in which the triumph of cold and
 decay in the year is nearly complete. It is is phage «8 in the tenth
 
 
-month, whose hexagram is Kiwar= =; then foliows our hex-
-
-
-agram Fd, belonging to the dicretith month, in which was the
+month, whose hexagram is Kiwar= =; then foliows our hexagram Fd, belonging to the dicretith month, in which was the
 winter solstice when the sun turned back in his course, and moved
 with a constant regular progress towards the summer solstice.
 In harmony with these changes of nature are the changes in the
@@ -6863,9 +6122,7 @@ political and social state of a nation. There is nothing in the Yi
 to suggest the hope of a perfect society or kingdom that cannot
 be moved.
 
-The strong bottom line is the first of Aan, the trigram of move-
-ment, and the upper trigram is KhwA4n, denoting docility and capa-
-city. The strong returning line will meet with no distressing
+The strong bottom line is the first of Aan, the trigram of movement, and the upper trigram is KhwA4n, denoting docility and capacity. The strong returning line will meet with no distressing
 obstacle, and the weak lines will change before it into strong, and
 be.as friends. The bright quality will be developed brighter and
 brighter from day to day, and month to month.
@@ -6884,17 +6141,13 @@ cannot say exactly what—must have place in society and the
 state.
 
 
-110 THE Yi KING. TEXT.
-
-
 correct. If (its subject and his action) be not
 correct, he will fall into errors, and it will not be
 advantageous for him to move in any direction.
 
 
 1. The first line, undivided, shows its subject free
-from all insincerity. His advance will be accom-
-panied with good fortune.
+from all insincerity. His advance will be accompanied with good fortune.
 
 
 2. The second line, divided, shows one who reaps
@@ -6905,8 +6158,7 @@ To such a one there will be advantage in whatever
 direction he may move.
 
 
-3. The third line, divided, shows calamity hap-
-pening to one who is free from insincerity ;—as in
+3. The third line, divided, shows calamity happening to one who is free from insincerity ;—as in
 
 
 The concluding auspice or oracle to him who find: this Fd
@@ -6924,8 +6176,7 @@ the fifth line not being a proper correlate. Hence the return of
 its subject is called excellent or admirable.
 
 Line 3 is weak, and in the uneven place of a strong line. It is
-the top line, moreover, of the trigram whose attribute is move-
-ment. Hence the symbolism ; but any evil issue may be prevented
+the top line, moreover, of the trigram whose attribute is movement. Hence the symbolism ; but any evil issue may be prevented
 by a realisation of danger and by caution.
 
 Line 4 has its proper correlate in 1; different from all the other
@@ -6962,14 +6213,12 @@ joy (in his recovery).
 
 6. The topmost line, undivided, shows its subject
 free from insincerity, yet sure to fall into error, if
-he take action. (His action) will not be advan-
-tageous in any way.
+he take action. (His action) will not be advantageous in any way.
 
 
 XXV. Wang isthe symbol of being reckless, and often of being
 insincere; WQ Wang is descriptive of a state of entire freedom from
-such a condition ; its subject is one who is entirely simple and sin-
-cere. The quality is characteristic of the action of Heaven, and of
+such a condition ; its subject is one who is entirely simple and sincere. The quality is characteristic of the action of Heaven, and of
 the highest style of humanity. In this hexagram we have an essay
 on this noble attribute. An absolute rectitude is essential to it. The
 nearer one comes to the ideal of the quality, the more powerful
@@ -6995,14 +6244,10 @@ people of the neighbourhood’ are of course entirely innocent.
 Line 4 is the lowest in the trigram of strength, and 1 is not a
 
 
-112 THE Yi KING. TEXT.
-
-
 XXVI. Tue TA Kxu0 HExaAcRamM.
 
 
-Under the conditions of Ta 444 it will be advan-
-tageous to be firm and correct. (If its subject do
+Under the conditions of Ta 444 it will be advantageous to be firm and correct. (If its subject do
 not seek to) enjoy his revenues in his own family
 (without taking service at court), there will be good
 fortune. It will be advantageous for him to cross
@@ -7019,10 +6264,8 @@ with the strap under it removed.
 
 
 3. The third line, undivided, shows its subject
-urging his way with good horses. It will be ad-
-vantageous for him to realise the difficulty (of his
-course), and to be firm and correct, exercising him-
-self daily in his charioteering and methods of defence;
+urging his way with good horses. It will be advantageous for him to realise the difficulty (of his
+course), and to be firm and correct, exercising himself daily in his charioteering and methods of defence;
 
 
 proper correlate, nor is the fourth the place for a strong line.
@@ -7063,19 +6306,16 @@ will be progress.
 
 
 XXVI. AAt has two meanings. It is the symbol of restraint,
-and of accumulation. What is repressed and restrained accumu-
-lates its strength and increases its volume. Both these meanings
+and of accumulation. What is repressed and restrained accumulates its strength and increases its volume. Both these meanings
 are found in the treatise on the Thwan; the exposition of the
 Great Symbolism has for its subject the accumulation of virtue. The
-different lines are occupied with the repression or restraint of move-
-ment. The first three-lines receive that repression, the upper three
+different lines are occupied with the repression or restraint of movement. The first three-lines receive that repression, the upper three
 exercise it. The accumulation to which all tends is that of virtue ;
 and hence the name of Ta AX Afi, ‘the Great Accumulation.’
 
 What the Thwan teaches, is that he who goes about to
 accumulate his virtue must be firm and correct, and may then,
-engaging in the public service, enjoy the king’s grace, and under-
-take the most difficult enterprises.
+engaging in the public service, enjoy the king’s grace, and undertake the most difficult enterprises.
 
 Line 1 is subject to the repression of 4, which will be increased
 if he try to advance. It is better for him to halt.
@@ -7088,8 +6328,7 @@ made the carriage stop; he himself acts that part.
 Line 3 is the last of AAien, and responds to the sixth line, the
 last of Kan, above. But as they are both strong, the latter does
 not exert its repressive force. They advance rapidly together ;
-but the position is perilous for 3. Bv *..0ness and caution, how-
-ever, its subject will escape the peril, and the issue will be good.
+but the position is perilous for 3. Bv *..0ness and caution, however, its subject will escape the peril, and the issue will be good.
 
 The young bull in line 4 has not yet got horns, The attaching
 to their rudiments the piece of wood to prevent him from goring is
@@ -7098,9 +6337,6 @@ good.
 
 
 [16] :
-
-
-114 THE Yi KING. TEXT.
 
 
 rr
@@ -7127,15 +6363,13 @@ what is proper; or seeking it from the height (above),
 advance towards which will lead to evil.
 
 
-3. The third line, divided, shows one acting con-
-trary to the method of nourishing. However firm
+3. The third line, divided, shows one acting contrary to the method of nourishing. However firm
 he may be, there will be evil. For ten years let him
 not take any action, (for) it will not be in any way
 advantageous.
 
 
-A boar is a powerful and dangerous animal. Let him be cas-
-trated, and though his tusks remain, he cares little to use them.
+A boar is a powerful and dangerous animal. Let him be castrated, and though his tusks remain, he cares little to use them.
 Here line 5 represents the ruler in the hexagram, whose work is
 to repress the advance of evil. A conflict with the subject of the
 strong second line in its advance would be perilous ; but 5, taking
@@ -7159,8 +6393,7 @@ unwavering glare, and with his desire that impels
 him to spring after spring, he will fall into no error.
 
 
-5. The fifth line, divided, shows one acting con-
-trary to what is regular and proper; but if he abide
+5. The fifth line, divided, shows one acting contrary to what is regular and proper; but if he abide
 in firmness, there will be good fortune. He should
 not, (however, try to) cross the great stream.
 
@@ -7181,16 +6414,14 @@ jaw, part of the mobile chin; and the other the more fixed upper
 jaw. The open lines are the cavity of the mouth. As the name
 of the hexagram, { denotes nourishing,—one’s body or mind, one’s
 self or others. The nourishment in both the matter and method
-will differ according to the object of it; and every one must deter-
-mine what to employ and do in every case by exercising his own
+will differ according to the object of it; and every one must determine what to employ and do in every case by exercising his own
 thoughts, only one thing being premised,—that in both respects the
 nourishing must be correct, and in harmony with what is right. The
 auspice of the whole hexagram is good.
 
 
 The first line is strong, and in its proper place; its subject might
-suffice for the nourishing of himself, like a tortoise, which is sup-
-posed to live on air, without more solid nourishment. But he is
+suffice for the nourishing of himself, like a tortoise, which is supposed to live on air, without more solid nourishment. But he is
 drawn out of himself by desire for the weak 4, his proper correlate,
 at whom he looks till his jaw hangs down, or, as we say, his mouth
 waters. Hence the auspice is bad. The symbolism takes the
@@ -7200,12 +6431,6 @@ fourth line to the first.
 The weak 2, insuficient for itself, seeks nourishment first from
 
 
-12
-
-
-116 TIE Yi KING. TEXT.
-
-
 oo
 
 
@@ -7213,8 +6438,7 @@ XXVIII. Tue TA Kwo HeExacran.
 
 
 Ta Kwo suggests to us a beam that is weak.
-There will be advantage in moving (under its con-
-ditions) in any direction whatever; there will be
+There will be advantage in moving (under its conditions) in any direction whatever; there will be
 success,
 
 
@@ -7256,8 +6480,7 @@ will prove himself equal to them.
 SkeT. 1, THE TA KWO HEXAGRAM. ry
 
 
-willow producing shoots, or an old husband in pos-
-session of his young wife. There will be advantage
+willow producing shoots, or an old husband in possession of his young wife. There will be advantage
 in every way.
 
 
@@ -7272,8 +6495,7 @@ line one), there will be cause for regret.
 
 
 5. The fifth line, undivided, shows a decayed
-willow producing flowers, or an old wife in posses-
-sion of her young husband. There will be occasion
+willow producing flowers, or an old wife in possession of her young husband. There will be occasion
 neither for blame nor for praise.
 
 
@@ -7285,8 +6507,7 @@ There will be evil, but no ground for blame.
 
 NXVIILI. Very extraordinary times require very extraordinary
 wifts in the conduct of affairs in them. ‘This is the text on which
-king W4n and his son discourse after their fashion in this hexa-
-gram. What goes, in their view, to constitute anything extraor-
+king W4n and his son discourse after their fashion in this hexagram. What goes, in their view, to constitute anything extraor-
 (linary is its greatness and difficulty. There need not be about it
 what is not right.
 
@@ -7307,9 +6528,6 @@ Line 2 has no proper correlate above. Hence he inclines to the
 weak 1 below him; and we have the symbolism of the line. .\n
 
 
-118 THE Yi KING. TEXT.
-
-
 XXIX. THe Kuan HeExacram.
 
 
@@ -7324,9 +6542,6 @@ double defile, and (yet) entering a cavern within it.
 There will be evil.
 
 
-2. The second line, undivided, shows its subject
-
-
 old husband with a young wife will yet have children; the action
 of the subject of 2 will be successful.
 
@@ -7337,8 +6552,7 @@ the weak beam.
 
 Line 4 is near 5, the ruler’s place. On its subject devolves the
 duty of meeting the extraordinary exigency of the time; but he is
-strong; and, the line being in an even place, his strength is tem-
-pered. He will be equal to his task. Should he look out for the
+strong; and, the line being in an even place, his strength is tempered. He will be equal to his task. Should he look out for the
 help of the subject of 1, that would affect him with another element
 of weakness ; and his action would give cause for regret.
 
@@ -7370,10 +6584,8 @@ such a case).
 
 
 4. The fourth line, divided, shows its subject (at
-a feast), with (simply) a bottle of spirits, and a sub-
-sidiary basket of rice, while (the cups and bowls)
-are (only) of earthenware. He introduces his im-
-portant lessons (as his ruler’s) intelligence admits.
+a feast), with (simply) a bottle of spirits, and a subsidiary basket of rice, while (the cups and bowls)
+are (only) of earthenware. He introduces his important lessons (as his ruler’s) intelligence admits.
 There will in the end be no error.
 
 
@@ -7392,8 +6604,7 @@ years he does not learn the course for him to pursue.
 ‘There will be evil.
 
 
-XXIX. The trigram Khan, which is doubled to form this hexa-
-gram, is the lineal symbol of water. Its meaning, as a character,
+XXIX. The trigram Khan, which is doubled to form this hexagram, is the lineal symbol of water. Its meaning, as a character,
 is ‘a pit,’ ‘a perilous cavity, or defile ;’ and here and elsewhere in
 the Yi it leads the reader to think of a dangerous defile, with water
 flowing through it. It becomes symbolic of danger, and what the
@@ -7404,9 +6615,6 @@ The trigram exhibits a strong central line, between two divided
 lines. The central represented to king W4n the sincere honesty
 and goodness of the subject of the hexagram, whose mind was
 sharpened and made penetrating by contact with danger, and who
-
-
-120 THE Y{ KING. TEXT.
 
 
 XXX. Tue Lit Aexacnam.
@@ -7437,9 +6645,7 @@ subject is in an evil case.
 Line 4 is weak, and will get no help from its correlate in 1. Its
 subject is not one who can avert the danger threatening himself
 and others. But his position is close to that of the ruler in 5,
-whose intimacy he cultivates with an unostentatious sincerity, sym-
-bolled by the appointments of the simple feast, and whose intelli-
-gence he cautiously enlightens. In consequence, there will be no
+whose intimacy he cultivates with an unostentatious sincerity, symbolled by the appointments of the simple feast, and whose intelligence he cautiously enlightens. In consequence, there will be no
 error.
 
 The subject of line 5 is on the eve of extrication and deliverance.
@@ -7495,17 +6701,13 @@ also the meaning of inhering in, or adhering to, being attached to.
 Both these significations occur in connexion with the hexagram,
 and make it difficult to determine what was the subject of it in the
 minds of the authors. If we take the whole figure as expressing the
-subject, we have, as in the treatise on the Thwan, ‘a double bright-
-ness,’ a phrase which is understood to denominate the ruler. If we
+subject, we have, as in the treatise on the Thwan, ‘a double brightness,’ a phrase which is understood to denominate the ruler. If we
 take the two central lines as indicating the subject, we have weakness,
 dwelling with strength above and below. In either case there are
 required from the subject a strict adherence to what is correct, and
 a docile humility. On the second member of the Thwan A*/ing-
 3ze says:—‘ The nature of the ox is docile, and that of the cow is
 much more so. The subject of the hexagram adhering closely to
-
-
-122 THE Yi KING. TEXT.
 
 
 6. The topmost line, undivided, shows the king
@@ -7595,39 +6797,31 @@ the flesh along the spine above the heart. There
 will be no occasion for repentance.
 
 
-124 THE Yi KING. TEXT.
-
-
 6. The sixth line, divided, shows one moving his
 jaws and tongue.
 
 
 XXXI. With the 31st hexagram commences the Second Section
 of the Text. It is difficult to say why any division of the hexagrams
-should be made here, for the student tries in vain to discover any con-
-tinuity in the thoughts of the author that is now broken. The First
+should be made here, for the student tries in vain to discover any continuity in the thoughts of the author that is now broken. The First
 Section does not contain a class of subjects different from those
-which we find in the Second. That the division was made, how-
-ever, at a very early time, appears from the sixth Appendix on the
+which we find in the Second. That the division was made, however, at a very early time, appears from the sixth Appendix on the
 Sequence of the Hexagrams, where the writer sets forth an analogy
 between the first and second figures, representing heaven and earth,
-as the originators of all things, and this figure and the next, repre-
-senting (each of them) husband and wife, as the originators of all
+as the originators of all things, and this figure and the next, representing (each of them) husband and wife, as the originators of all
 the social relations. This, however, is far from carrying conviction
 to my mind. The division of the Text of the Yi into two sections
 is a fact of which 1 am unable to give a satisfactory account.
 
 Hsien, as explained in the treatise on the Thwan, has here the
 meaning of mutual influence, and the duke of Au, on the various
-lines, always uses Kan for it in the sense of ‘moving’ or ‘influenc-
-ing to movement or action.’ This is to my mind the subject of
+lines, always uses Kan for it in the sense of ‘moving’ or ‘influencing to movement or action.’ This is to my mind the subject of
 the hexagram considered as an essay,—‘ Influence; the different
 ways of bringing it to bear, and their issues.’
 
 The Chinese character called hsien is ne the graphic symbol
 for ‘all, together, jointly.” Kan, the symbol for ‘influencing,’ has
-hsien in it as its phonetic constituent (though the changes in pro-
-nunciation make it hard for an English reader to appreciate this),
+hsien in it as its phonetic constituent (though the changes in pronunciation make it hard for an English reader to appreciate this),
 with the addition of hsin, the symbol for ‘the heart.’ Thus le&
 
 
@@ -7638,13 +6832,12 @@ most important element in the thing,—the absence of all purpose
 or motive. I venture to think that this would have been a device
 worthy of a diviner.
 
-With regard to the idea of husband and wife being in the teach-
-ing of the hexagram, it is derived from the more recent symbolism
+With regard to the idea of husband and wife being in the teaching of the hexagram, it is derived from the more recent symbolism
 of the eight trigrams ascribed to king Wan, and exhibited on p. 33
 and plate IIJ. The more ancient usage of them is given in the
 paragraph on the Great Symbolism of Appendix II. The figure
-consists of Kan (===>), ‘the youngest son,’ and over it Tui
-(===>), ‘the youngest daughter.’ These are in ‘happy union.’
+consists of Kan (===)), ‘the youngest son,’ and over it Tui
+(===)), ‘the youngest daughter.’ These are in ‘happy union.’
 
 
 SECT. II, THE HANG HEXAGRAM. 125
@@ -7696,9 +6889,6 @@ be good fortune.
 Neither can the thighs move of themselves. The altempt to
 
 
-126 TILE YI KING. TEXT:
-
-
 correctness there will be evil; there will be no
 advantage in any way.
 
@@ -7717,8 +6907,7 @@ regret.
 there is no game.
 
 
-5. The fifth line, divided, shows its subject con-
-tinuously maintaining the virtue indicated by it. In
+5. The fifth line, divided, shows its subject continuously maintaining the virtue indicated by it. In
 a wife this will be fortunate; in a husband, evil.
 
 
@@ -7728,8 +6917,7 @@ be evil.
 
 
 move them is inauspicious. Its subject, however, the line being
-strong, and in an odd place, will wish to move, and follows the sub-
-ject of 4, which is understood to be the seat of the mind. He
+strong, and in an odd place, will wish to move, and follows the subject of 4, which is understood to be the seat of the mind. He
 exercises his influence therefore with a mind and purpose, which is
 not good.
 
@@ -7739,8 +6927,7 @@ good issue. If he be wavering and uncertain, his influence will
 not extend beyond the circle of his friends.
 
 The symbolism of line 5 refers to a part of the body behind the
-heart, and is supposed therefore to indicate an influence, ineffec-
-tive indeed, but free from selfish motive, and not needing to be
+heart, and is supposed therefore to indicate an influence, ineffective indeed, but free from selfish motive, and not needing to be
 repented of.
 
 Line 6 is weak, and in an even place. It is the topmost line also
@@ -7749,8 +6936,7 @@ will only be that of loquacity and flattery, the evil of which needs
 not to be pointed out.
 
 
-AXXII. The subject of this hexagram may be given as persever-
-ance in well doing, or in continuously acting out the law of one’s
+AXXII. The subject of this hexagram may be given as perseverance in well doing, or in continuously acting out the law of one’s
 
 
 SECT. IJ. THE THUN HEXAGRAM. 127
@@ -7759,9 +6945,7 @@ SECT. IJ. THE THUN HEXAGRAM. 127
 XXXIII. Tue Toun Hexacram.
 
 
-Thun indicates successful progress (in its circum-
-stances). To a small extent it will (still) be advan-
-tageous to be firm and correct.
+Thun indicates successful progress (in its circumstances). To a small extent it will (still) be advantageous to be firm and correct.
 
 
 1. The first line, divided, shows a retiring tail.
@@ -7800,9 +6984,6 @@ Line 3 is strong, and in its proper place; but being beyond the
 centre of the trigram, its subject is too strong, and coming under
 
 
-128 TUE Yi KING. TEXT.
-
-
 2. The second line, divided, shows its subject
 holding (his purpose) fast as if by a (thong made
 from the) hide of a yellow ox, which cannot be
@@ -7813,7 +6994,6 @@ but bound,—to his distress and peril. (If he were
 to deal with his binders as in) nourishing a servant
 or concubine, it would be fortunate for him.
 
-4. The fourth line, undivided, shows its subject
 retiring notwithstanding his likings. In a superior
 man this will lead to good fortune; a small man
 cannot attain to this.
@@ -7828,16 +7008,13 @@ in every respect.
 
 
 the attraction of his correlate in 6, he is supposed to be ready
-to abandon his place and virtue. He may try to be firm and cor-
-rect, but circumstances are adverse to him.
+to abandon his place and virtue. He may try to be firm and correct, but circumstances are adverse to him.
 
 Line 4 is strong in the place of a weak line, and suggests the
 symbolism of the duke of au.
 
-The weak 5th line responds to the strong 2nd, and may be sup-
-nosed to represent a wife conscious of her weakness, and docilely
-submissive ; which is good. A husband, however, and a man gene-
-rally, has to assert himself, and lay down the rule of what is right.
+The weak 5th line responds to the strong 2nd, and may be supnosed to represent a wife conscious of her weakness, and docilely
+submissive ; which is good. A husband, however, and a man generally, has to assert himself, and lay down the rule of what is right.
 
 In line 6 the principle of perseverance has run its course; the
 motive power of Aan is exhausted. The line itself is weak. The
@@ -7864,8 +7041,7 @@ firm and correct.
 
 
 the necessity of the time requires superior men to withdraw before
-them.’ Yet the auspice of Thun is not all bad. By firm correct-
-ness the threatened evil may be arrested to a small extent.
+them.’ Yet the auspice of Thun is not all bad. By firm correctness the threatened evil may be arrested to a small extent.
 
 
 ‘A retiring tail’ seems to suggest the idea of the subject of the
@@ -7903,7 +7079,6 @@ hexagram.
 [16] K
 
 
-130 TUE YI KING. TEXT.
 i ee
 
 1. The first line, undivided, shows its subject
@@ -7951,15 +7126,13 @@ XXXIV. The strong lines predominate in T& Awang. It
 suggested to king W&n a state or condition of things in which
 there was abundance of strength and vigour. Was strength alone
 enough for the conduct of affairs? No. He saw also in the figure
-that which suggested to him that strength should be held in subor-
-dination to the idea of right, and exerted only in harmony with it,
+that which suggested to him that strength should be held in subordination to the idea of right, and exerted only in harmony with it,
 
 
 SECT. II. THE 3IN HEXAGRAM. I31
 
 
-In 3in we see a prince who secures the tranquil-
-lity (of the people) presented on that account with
+In 3in we see a prince who secures the tranquillity (of the people) presented on that account with
 numerous horses (by the king), and three times in
 a day received at interviews.
 
@@ -7981,15 +7154,13 @@ even place, instead of being excited by it, as might be feared. Then
 the place is that in the centre. With firm correctness there will be
 good fortune.
 
-Line 3 is strong, and in its proper place. It is at the top more-
-over of Xhien. A small man so symbolled will use his strength to
+Line 3 is strong, and in its proper place. It is at the top moreover of Xhien. A small man so symbolled will use his strength to
 the utmost; but not so the superior man. For him the position
 is beyond the safe middle, and he will be cautious ; and not injure
 himself, like the ram, by exerting his strength.
 
 Line 4 is still strong, but in the place of a weak line ; and this
-gives occasion to the cautions with which the symbolism com-
-mences. The subject of the line going forward thus cautiously,
+gives occasion to the cautions with which the symbolism commences. The subject of the line going forward thus cautiously,
 his strength will produce good effects, such as are described.
 
 Line 5 is weak, and occupies a central place. Its subject will
@@ -7998,9 +7169,6 @@ forbid the employment of strength, but would only control and
 
 
 K 2
-
-
-132 THE YI KING. TEXT.
 
 
 1. The first line, divided, shows one wishing to
@@ -8019,11 +7187,9 @@ from his grandmother.
 
 
 3. The third line, divided, shows its subject
-trusted by all (around him). All occasion for re-
-pentance will disappear.
+trusted by all (around him). All occasion for repentance will disappear.
 
 
-4. The fourth line, undivided, shows its subject
 with the appearance of advancing, but like a marmot.
 However firm and correct he may be, the position is
 one of peril.
@@ -8036,8 +7202,7 @@ fail or succeed. To advance will be fortunate, and
 in every way advantageous.
 
 
-6. The topmost line, undivided, shows one ad-
-vancing his horns. But he only uses them to punish
+6. The topmost line, undivided, shows one advancing his horns. But he only uses them to punish
 the (rebellious people of his own) city. The position
 
 
@@ -8047,8 +7212,7 @@ for repentance.
 Line 6 being at the top of Xn, the symbol of movement, and at
 the top of Ta Awang, its subject may be expected to be active in
 exerting his strength; and through his weakness, the result would
-be as described. But he becomes conscious of his weakness, re-
-flects and rests, and good fortune results, as he desists from the
+be as described. But he becomes conscious of his weakness, reflects and rests, and good fortune results, as he desists from the
 prosecution of his unwise efforts,
 
 
@@ -8067,31 +7231,25 @@ shown to him by gifts and personal attentions such as form the
 theme of more than one ode in the Shih; see especially III, iii, 7.
 The symbolism of the lines dimly indicates the qualities of such
 a prince. Sin means ‘to advance.’ Hexagrams 46 and 53 agree
-with this in being called by names that indicate progress and ad-
-vance. The advance in Zin is like that of the sun, ‘the shining
+with this in being called by names that indicate progress and advance. The advance in Zin is like that of the sun, ‘the shining
 light, shining more and more to the perfect day.’
 
 
 Line 1 is weak, and in the lowest place, and its correlate in 4 is
 neither central nor in its correct position. This indicates the small
-and obstructed beginnings of his subject. But by his firm correct-
-ness he pursues the way to good fortune; and though the king
+and obstructed beginnings of his subject. But by his firm correctness he pursues the way to good fortune; and though the king
 does not yet believe in him, he the more pursues his noble course.
 
 Line 2 is weak, and its correlate in 5 is also weak. Its subject
 therefore has still to mourn in obscurity. But his position is
 central and correct, and he holds on his way, till success comes
-ere long. The symbolism says he receives it ‘from his grand-
-mother ;’ and readers will be startled by the extraordinary state-
-ment, as I was when I first read it. Literally the Text says ‘ the
+ere long. The symbolism says he receives it ‘from his grandmother ;’ and readers will be startled by the extraordinary statement, as I was when I first read it. Literally the Text says ‘ the
 king’s mother,’ as P. Regis rendered it, —‘ Istam magnam felicitatem
 a matre regis recipit.’ He also tries to give the name a historical
 reference ;—to Thai-Xiang, the grandmother of king Wan; Thiai-
 Zan, his mother; or to Thii-sze, his wife, and the mother of king
-WA and the duke of X4u, all famous in Chinese history, and cele-
-brated in the Shih. But ‘king’s father’ and ‘king’s mother’ are
-well-known Chinese appellations for ‘ grandfather’ and ‘ grand-
-mother.’ This is the view given on the passage, by AAang-3ze,
+WA and the duke of X4u, all famous in Chinese history, and celebrated in the Shih. But ‘king’s father’ and ‘king’s mother’ are
+well-known Chinese appellations for ‘ grandfather’ and ‘ grandmother.’ This is the view given on the passage, by AAang-3ze,
 K0 Hsi, and the Khang-hsi editors, the latter of whom, indeed,
 account for the use of the name, instead of ‘ deceased mother,’
 which we find in hexagram 62, by the regulations observed in the
@@ -8099,9 +7257,6 @@ ancestral temple. These authorities, moreover, all agree in saying
 that the name points us to line 5, the correlate of 2, and ‘the lord
 of the hexagram.’ Now the subject of line 5 is the sovereign, who
 at length acknowledges the worth of the feudal lord, and gives him
-
-
-134 TUE Yf KING. TEXT.
 
 
 XXXVI. Tue Mineo [ Hexacram.
@@ -8119,8 +7274,7 @@ of the phrase.
 
 Canon McClatchie has a very astonishing note on the name,
 which he renders ‘Imperial Mother’ (p. 164) :—‘ That is, the wife
-of Imperial Heaven (Juno), who occupies the “ throne of the dia-
-gram,” viz. the fifth stroke, which is soft and therefore feminine.
+of Imperial Heaven (Juno), who occupies the “ throne of the diagram,” viz. the fifth stroke, which is soft and therefore feminine.
 She is the Great Ancestress of the human race. See Imp. Ed.
 vol. iv, Sect. v, p. 25, Com.’ Why such additions to the written
 word?
@@ -8154,14 +7308,12 @@ A
 SECT. 11. TUE MING I HEXAGRAM. 135
 
 
-clitficulty (of the position), and maintain firm cor-
-rectness.
+clitficulty (of the position), and maintain firm correctness.
 
 
 1. The first line, undivided, shows its subject, (in
 the condition indicated by) Ming {, flying, but with
-drooping wings. When the superior man (is re-
-volving) his going away, he may be for three days
+drooping wings. When the superior man (is revolving) his going away, he may be for three days
 without eating. Wherever he goes, the people
 there may speak (derisively of him).
 
@@ -8174,15 +7326,13 @@ a (swift) horse; and is fortunate.
 
 3. The third line, undivided, shows its subject,
 (in the condition indicated by) Ming I, hunting in
-the south, and taking the great chief (of the dark-
-ness). He should not be eager to make (all) correct
+the south, and taking the great chief (of the darkness). He should not be eager to make (all) correct
 (at once).
 
 
 4. The fourth line, divided, shows its subject (just)
 entered into the left side of the belly (of the dark
-land). (But) he is able to carry out the mind appro-
-priate (in the condition indicated by) Ming ], quitting
+land). (But) he is able to carry out the mind appropriate (in the condition indicated by) Ming ], quitting
 the gate and courtyard (of the lord of darkness).
 
 5. The fifth line, divided, shows how the count of
@@ -8199,9 +7349,6 @@ future shall be to go into the earth.
 XXXVI, In this hexagram we have the representation of a good
 and intelligent minister or officer going forward in the service of
 his country, notwithstanding the occupancy of the throne by a weak
-
-
-136 THE Yi KING. TEXT.
 
 
 XXXVII. Tue ArA ZAn HExacram.
@@ -8222,11 +7369,9 @@ to meet with wounding, and hence Sin is followed by Ming L.
 
 Line 1 is strong, and in its right place ;—its subject should be
 going forward. But the general signification of the hexagram
-supposes him to be wounded. The wound, however, being re-
-ceived at the very commencement of its action, is but slight. And
+supposes him to be wounded. The wound, however, being received at the very commencement of its action, is but slight. And
 hence comes the emblem of a bird hurt so as to be obliged to
-droop its wings. The subject then appears directly as ‘ the supc-
-rior man.’ He sees it to be his course to desist from the struggle
+droop its wings. The subject then appears directly as ‘ the supcrior man.’ He sees it to be his course to desist from the struggle
 for a time, and is so rapt in the thought that he can fast for three
 days and not think of it. When he does withdraw, opposition
 follows him ; but it is implied that he holds on to his own good
@@ -8268,12 +7413,7 @@ her firm correctness there will be good fortune.
 (treating) the members of the household with stern
 severity. There will be occasion for repentance,
 there will be peril, (but) there will (also) be good
-fortune. If the wife and children were to be smirk-
-ing and chattering, in the end there would be occa-
-sion for regret.
-
-
-4. The fourth line, divided, shows its subject
+fortune. If the wife and children were to be smirking and chattering, in the end there would be occasion for regret.
 
 
 line becomes a hunter pursuing his game, and successfully. The
@@ -8286,8 +7426,7 @@ indicates the view of it commonly accepted. The subject of the
 line evidently escapes from his position of danger with little
 damage.
 
-Line 5 should be the place of the ruler or sovereign in the hex-
-agram; but 6 is assigned as that place in Ming I. The officer
+Line 5 should be the place of the ruler or sovereign in the hexagram; but 6 is assigned as that place in Ming I. The officer
 occupying 5, the centre of the upper trigram, and near to the
 sovereign, has his ideal in the count of Ai, whose action appears
 in the Shf, III, pp. 123,127,128. He is a historical personage.
@@ -8297,9 +7436,6 @@ the officer who would do him good and intelligent service. Instead
 of becoming as the sun, enlightening all from the height of the
 sky, he is as the sun hidden below the earth. I can well believe
 that the writer had the last king of Shang in his mind.
-
-
-138 THE YI KING. TEXT.
 
 
 enriching the family. There will be great good
@@ -8328,11 +7464,9 @@ necessary to its regulation.
 
 
 Line 1 is strong, and in a strong place. It suggests the necessity
-of strict rule in governing the family. Regulations must be estab-
-lished, and their observance strictly insisted on.
+of strict rule in governing the family. Regulations must be established, and their observance strictly insisted on.
 
-Line 2 is weak, and in the proper place for it,—the centre, more-
-over, of the lower trigram. It fitly represents the wife, and what is
+Line 2 is weak, and in the proper place for it,—the centre, moreover, of the lower trigram. It fitly represents the wife, and what is
 said on it tells us of her special sphere and duty; and that she
 should be unassuming in regard to all beyond her sphere; always
 being firm and correct. See the Shih, III, 350.
@@ -8361,8 +7495,7 @@ SECT. II. THE KHWEI HEXAGRAM. [39
 XXXVIII. Tue Axwer HexacrRam.
 
 
-Khwei indicates that, (notwithstanding the con-
-dition of things which it denotes), in small matters
+Khwei indicates that, (notwithstanding the condition of things which it denotes), in small matters
 there will (still) be good success.
 
 
@@ -8374,7 +7507,6 @@ with bad men, he will not err (in communicating
 with them).
 
 
-2. The second line, undivided, shows its subject
 happening to meet with his lord in a bye-passage.
 There will be no error.
 
@@ -8387,7 +7519,6 @@ There is no good beginning, but there will be a
 good end.
 
 
-4. The fourth line, undivided, shows its subject
 solitary amidst the (prevailing) disunion. (But) he
 meets with the good man (represented by the first
 
@@ -8398,16 +7529,12 @@ sincere, complete in his personal character and self-culture, and
 hence his action will only lead to good fortune.
 
 
-140 THE YI KING. TEXT.
-
-
 line), and they blend their sincere desires together.
 The position is one of peril, but there will be no
 mistake.
 
 
-5. The fifth line, divided, shows that (to its sub-
-ject) occasion for repentance will disappear. With
+5. The fifth line, divided, shows that (to its subject) occasion for repentance will disappear. With
 his relative (and minister he unites closely and
 readily) as if he were biting through a piece of skin.
 When he goes forward (with this help), what error
@@ -8431,8 +7558,7 @@ XXXVIII. Khwei denotes a social state in which division and
 mutual alienation prevail, and the hexagram teaches how in small
 matters this condition may be healed, and the way prepared for the
 cure of the whole system. The writer or writers of Appendixes
-I and II point out the indication in the figure of division and dis-
-union according to their views. In Appendix VI those things appear
+I and II point out the indication in the figure of division and disunion according to their views. In Appendix VI those things appear
 as a necessary sequel to the regulation of the family ; while it is
 impossible to discover any allusion to the family in the Text.
 
@@ -8467,12 +7593,10 @@ slanderous tongues.
 
 Line 5 is weak, and its subject is the proper correlate of the
 strong 2. They might meet openly; but for the separation and
-disunion that mark the time. A casual, as it were a stolen, inter-
-view, as in a bye-lane or passage, however will be useful, and may
+disunion that mark the time. A casual, as it were a stolen, interview, as in a bye-lane or passage, however will be useful, and may
 lead on to a better understanding.
 
-Line 3 is weak, where it ought to be strong. Its correlate, how-
-ever, in 6 is strong, and the relation between them might seem
+Line 3 is weak, where it ought to be strong. Its correlate, however, in 6 is strong, and the relation between them might seem
 what it ought to be. But the weak 3 is between the strong lines in
 2 and 4; and in a time of disunion there ensue the checking and
 repulsion emblemed in the Text. At the same time the subject of
@@ -8491,8 +7615,7 @@ together, work with good will and success.
 
 The place of 5 is odd, but the line itsclf is weak, so that there
 might arise occasion for repentance. But the strong 2 is a proper
-correlate to the weak 5. Five being the sovereign’s place, the sub-
-ject of 2 is styled the sovereign’s relative, of the same surname
+correlate to the weak 5. Five being the sovereign’s place, the subject of 2 is styled the sovereign’s relative, of the same surname
 
 
 [42 TIE YI KING. TEXT.
@@ -8517,7 +7640,6 @@ advancing, (but only) to (greater) difficulties. He
 remains stationary, and returns (to his former
 associates),
 
-4. The fourth line, divided, shows its subject
 advancing, (but only) to (greater) difficulties. He
 remains stationary, and unites (with the subject of
 the line above).
@@ -8555,8 +7677,7 @@ will be advantageous to meet with the great man.
 
 
 XXXIX. Kien is the symbol for incompetency in the feet and
-legs, involving difficulty in walking; hence it is used in this hexa-
-gram to indicate a state of the kingdom which makes the government
+legs, involving difficulty in walking; hence it is used in this hexagram to indicate a state of the kingdom which makes the government
 of it an arduous task. How this task may be successfully performed,
 now by activity on the part of the ruler, and now by a discreet
 inactivity :—this is what the figure teaches, or at least gives hints
@@ -8565,48 +7686,37 @@ character from the structure of the lineal figure, see Appendixes
 I and II.
 
 The Thwan seems to require three things—attention to place,
-the presence of the great man, and the firm observance of cor-
-rectness—in order to cope successfully with the difficulties of the
-situation. The first thing is enigmatically expressed, and the lan-
-guage should be compared with what we find in the Thwan of
+the presence of the great man, and the firm observance of correctness—in order to cope successfully with the difficulties of the
+situation. The first thing is enigmatically expressed, and the language should be compared with what we find in the Thwan of
 hexagrams 2and yo. Referring to Figure 2, in Plate III, we find
-that, according to Wan’s arrangement of the trigrams, the south-
-west is occupied by Khwan ( ), and the north-east by Xan
+that, according to Wan’s arrangement of the trigrams, the southwest is occupied by Khwan ( ), and the north-east by Xan
 (===). The former represents the champaign country; the
 latter, the mountainous region. The former is easily traversed and
 held; the latter, with difficulty. The attention to place thus
 becomes transformed into a calculation of circumstances; those
-that promise success in an enterprise, which should be taken advan-
-tage of, and those that threaten difficulty and failure, which should
+that promise success in an enterprise, which should be taken advantage of, and those that threaten difficulty and failure, which should
 be shunned.
 
 This is the generally accepted view of this difficult passage.
 The Khang-hsi editors have a view of their own. I have been
-myself inclined to find less symbolism in it, and to take the south-
-west as the regions in the south and west of the kingdom, which we
+myself inclined to find less symbolism in it, and to take the southwest as the regions in the south and west of the kingdom, which we
 know from the Shih were more especially devoted to Wan and his
 house, while the strength of the kings of Shang lay in the north
 and east.
 
 ‘ The idea of “ the great man,” Mencius’s “ minister of Heaven,” ’
-is illustrated by the strong line in the fifth place, having for its cor-
-relate the weak line in2. But favourableness of circumstances and
+is illustrated by the strong line in the fifth place, having for its correlate the weak line in2. But favourableness of circumstances and
 place, and the presence of the great man do not dispense from
 the observance of firm correctness. Throughout these essays of
 the Yi this is always insisted on.
-
-
-144 THE YI KING. TEXT.
 
 
 XL. Tue ArEH HEXAGRAM.
 
 
 In (the state indicated by) Kieh advantage will
-be found in the south-west. If no (further) opera-
-tions be called for, there will be good fortune in
-coming back (to the old conditions). If some opera-
-tions be called for, there will be good fortune in the
+be found in the south-west. If no (further) operations be called for, there will be good fortune in
+coming back (to the old conditions). If some operations be called for, there will be good fortune in the
 early conducting of them.
 
 
@@ -8645,7 +7755,6 @@ action at least.
 SECT. II, THE KIEH HEXAGRAM. 145
 ice cs ADRs 2
 
-2. The second line, undivided, shows its subject
 catch, in hunting, three foxes, and obtain the yellow
 
 
@@ -8682,15 +7791,13 @@ of a high wall, and hitting it. (The effect of his
 action) will be in every way advantageous.
 
 
-XL. Xiehis the symbol of loosing,—untying a knot or unravel-
-ling a complication; and as the name of this hexagram, it denotes
+XL. Xiehis the symbol of loosing,—untying a knot or unravelling a complication; and as the name of this hexagram, it denotes
 a condition in which the obstruction and difficulty indicated by the
 preceding Kien have been removed. The object of the author is
 to show, as if from the lines of the figure, how this new and better
 state of the kingdom is to be dealt with. See what is said on the
 Thwan of Xien for ‘ the advantage to be found in the south-west.’
-If further active operations be not necessary to complete the subju-
-gation of the country, the sooner things fall into their old channels
+If further active operations be not necessary to complete the subjugation of the country, the sooner things fall into their old channels
 the better. The new masters of the kingdom should not be anxious
 to change all the old manners and ways. Let them do, as the duke
 of Kau actually did do with the subjugated people of Shang. If
@@ -8699,20 +7806,15 @@ of Kau actually did do with the subjugated people of Shang. If
 [16] L
 
 
-146 THE Y1 KING. TEXT.
-
-
 XLI. Tue Sun HEXAGRAM.
 
 
 In (what is denoted by) Sun, if there be sincerity
 (in him who employs it), there will be great good
-fortune :—freedom from error; firmness and correct-
-ness that can be maintained ; and advantage in every
+fortune :—freedom from error; firmness and correctness that can be maintained ; and advantage in every
 
 
-further operations be necessary, let them be carried through with-
-out delay. Nothing is said in the Thwan about the discountenancing
+further operations be necessary, let them be carried through without delay. Nothing is said in the Thwan about the discountenancing
 and removal of small men,—unworthy ministers or officers; but
 that subject appears in more than one of the lines.
 
@@ -8721,11 +7823,9 @@ There is a weak line, instead of a strong, in the first place; but
 this is compensated for by its strong correlate in 4.
 
 KG Hsi says he does not understand the symbolism under line 2.
-The place is even, but the line itself is strong; the strength there-
-fore is modified or tempered. And 2 is the correlate of the ruler
+The place is even, but the line itself is strong; the strength therefore is modified or tempered. And 2 is the correlate of the ruler
 in 5. We are to look to its subject therefore for a minister striving
-to realise the idea of the hexagram, and pacify the subdued king-
-dom. He becomes a hunter, and disposes of unworthy men,
+to realise the idea of the hexagram, and pacify the subdued kingdom. He becomes a hunter, and disposes of unworthy men,
 represented by ‘the three foxes.’ He also gets the yellow arrows,—
 the instruments used in war or in hunting, whose colour is ‘ correct,’
 and whose form is ‘straight.’ His firm correctness will be good.
@@ -8738,8 +7838,7 @@ attack and plunder him. The subject of the line cannot protect
 himself, nor accomplish anything good.
 
 What is said on the fourth line appears in the form of an address
-to its subject. The line is strong in an even place, and 1, its corre-
-late, is weak in an odd place. Such a union will not be productive
+to its subject. The line is strong in an even place, and 1, its correlate, is weak in an odd place. Such a union will not be productive
 of good. In the symbolism 1 becomes the toe of the subject of 4.
 How the friend or friends, who are to come to him on the removal
 of this toe, are represented, I do not perceive.
@@ -8778,7 +7877,6 @@ men walking together, the number is diminished by
 one; and how one, walking, finds his friend.
 
 
-4. The fourth line, divided, shows its subject
 diminishing the ailment under which he labours by
 making (the subject of the first line) hasten (to his
 help), and make him glad. There will be no error.
@@ -8805,13 +7903,8 @@ symbolism employed.
 L 2
 
 
-148 THE YI KING. TEXT.
-
-
 6. The topmost line, undivided, shows its subject
-giving increase to others without taking from him-
-self. There will be no error. With firm correct-
-ness there will be good fortune. There will be
+giving increase to others without taking from himself. There will be no error. With firm correctness there will be good fortune. There will be
 advantage in every movement that shall be made.
 He will find ministers more than can be counted by
 their clans.
@@ -8821,8 +7914,7 @@ XLI. The interpretation of this hexagram is encompassed with
 great difficulties. Sun is the symbol for the idea of diminishing
 or diminution; and what is said in Appendix I has made it to
 be accepted as teaching the duty of the subject to take of what
-is his and contribute to his ruler, or the expenses of the govern-
-ment under which he lives; in other words, readily and cheerfully
+is his and contribute to his ruler, or the expenses of the government under which he lives; in other words, readily and cheerfully
 to pay his taxes. P. Regis says, ‘Sun seu (vectigalis causa)
 minuere.... est valde utile ;’ and Canon McClatchie in translating
 Appendix I has :—‘ Diminishing (by taxation for instance) .... is
@@ -8848,8 +7940,7 @@ other without due deliberation.
 
 Line 2 is strong, and in the central place. But it is in the place
 of a weak line, and its subject should maintain his position without
-moving to help his correlate in 5. Maintaining his own firm cor-
-rectness is the best way to help him.
+moving to help his correlate in 5. Maintaining his own firm correctness is the best way to help him.
 
 Paragraph 3 is to my mind full of obscurity. A Hs?, adopting
 the view in Appendix I, says that the lower trigram was originally
@@ -8887,20 +7978,15 @@ hexagram.
 
 Line 5 is the seat of the ruler, who is here humble, and welcomes
 the assistance of his correlate, the subject of 2. He is a ruler
-whom all his subjects of ability will rejoice to serve in every pos-
-sible way; and the result will be great good fortune.
+whom all his subjects of ability will rejoice to serve in every possible way; and the result will be great good fortune.
 
 Line 6 has been changed from a weak into a strong line from
 line 3; has received therefore the greatest increase, and will carry
 out the idea of the hexagram in the highest degree and style.
 But he can give increase to others without diminishing his own
-resources, and of course the benefit he will confer will be incalcula-
-ble. Ministers will come to serve him; and not one from each clan
+resources, and of course the benefit he will confer will be incalculable. Ministers will come to serve him; and not one from each clan
 merely, but many. Such is the substance of what is said on this
 last paragraph. I confess that I only discern the meaning darkly.
-
-
-150 THE Yi KING. TEXT.
 
 
 a great movement. If it be greatly fortunate, no
@@ -8909,11 +7995,9 @@ blame will be imputed to him.
 
 2. The second line, divided, shows parties adding
 to the stores of its subject ten pairs of tortoise shells
-whose oracles cannot be opposed. Let him per-
-severe in being firm and correct, and there will be
+whose oracles cannot be opposed. Let him persevere in being firm and correct, and there will be
 good fortune. Let the king, (having the virtues thus
-distinguished), employ them in presenting his offer-
-ings to God, and there will be good fortune.
+distinguished), employ them in presenting his offerings to God, and there will be good fortune.
 
 3. The third line, divided, shows increase given
 to its subject by means of what is evil, so that he
@@ -8924,7 +8008,6 @@ an officer who announces himself to his prince by
 the symbol of his rank.
 
 
-4. The fourth line, divided, shows its subject
 pursuing the due course. His advice to his prince
 is followed. He can with advantage be relied on in
 such a movement as that of removing the capital.
@@ -8945,8 +8028,7 @@ evil.
 
 
 XLII. Yi has the opposite meaning to Sun, and is the symbol
-of addition or increasing. What king W4n had in his mind, in con-
-nexion with the hexagram, was a ruler or a government operating
+of addition or increasing. What king W4n had in his mind, in connexion with the hexagram, was a ruler or a government operating
 
 
 SECT. Il. THE KWAI HEXAGRAM. 151
@@ -8955,29 +8037,22 @@ SECT. Il. THE KWAI HEXAGRAM. 151
 XLIII. Tue Kwa Hexacram.
 
 
-Kwai requires (in him who would fulfil its mean-
-ing) the exhibition (of the culprit’s guilt) in the royal
-court, and a sincere and earnest appeal (for sym-
-
-
-so as to dispense benefits to, and increase the resources of all
+Kwai requires (in him who would fulfil its meaning) the exhibition (of the culprit’s guilt) in the royal
+court, and a sincere and earnest appeal (for symso as to dispense benefits to, and increase the resources of all
 the people. Two indications are evident in the lines ;—the strong
 line in the ruler’s seat, or the fifth line, and the weak line in the
 correlative place of 2. Whether there be other indications in
 the figure or its component trigrams will be considered in dealing
 with the Appendixes. The writer might well say, on general
-grounds, of the ruler whom he had in mind, that he would be suc-
-cessful in his enterprises and overcome the ‘greatest difficulties.
+grounds, of the ruler whom he had in mind, that he would be successful in his enterprises and overcome the ‘greatest difficulties.
 
 
-Line 1 is strong, but its low position might seem to debar its sub-
-ject from any great enterprise. Favoured as he is, however, according
+Line 1 is strong, but its low position might seem to debar its subject from any great enterprise. Favoured as he is, however, according
 to the general idea of the hexagram, and specially responding to the
 proper correlate in 4, it is natural that he should make a movement ;
 and great success will make his rashness be forgotten.
 
-With paragraph 2 compare paragraph 5 of the preceding hexa-
-gram. Line 2 is weak, but in the centre, and is the correlate of 5.
+With paragraph 2 compare paragraph 5 of the preceding hexagram. Line 2 is weak, but in the centre, and is the correlate of 5.
 Friends give its subject the valuable gifts mentioned; ‘that is,’ says
 Kwo Yung (Sung dynasty), ‘men benefit him; the oracles of
 the divination are in his favour,—spirits, that is, benefit him; and
@@ -8993,9 +8068,6 @@ moralists. But the paragraph goes on also to caution and admonish.
 
 Line 4 is the place for a minister, near to that of the ruler. Its
 subject is weak, but his place is appropriate, and as he follows the
-
-
-152 THE Yi KING. TEXT.
 
 
 pathy and support), with a consciousness of the peril
@@ -9062,8 +8134,7 @@ action, in harmony with his central position, will lead
 to no error or blame.
 
 
-6. The sixth line, divided, shows its subject with-
-out any (helpers) on whom to call. His end will
+6. The sixth line, divided, shows its subject without any (helpers) on whom to call. His end will
 be evil.
 
 
@@ -9076,8 +8147,7 @@ prince or high minister, lending his power to maintain a corrupt
 government, or, it might be, a dynasty that was waxen old and
 ready to vanish away; and in the five undivided lines he saw the
 representatives of good order, or, it might be, the dynasty which
-was to supersede the other. This then is the subject of the hexa-
-grami.—how bad men, statesmen corrupt and yet powerful, are to
+was to supersede the other. This then is the subject of the hexagrami.—how bad men, statesmen corrupt and yet powerful, are to
 be put out of the way. And he who would accomplish the task
 must do so by the force of his character more than by force of
 arms, and by producing a general sympathy on his side.
@@ -9092,9 +8162,6 @@ Then let him go forward, and success will attend him.
 
 Line 1 is strong, the first line of that trigram, which expresses
 the idea of strength. But it is in the lowest place. The stage of
-
-
-154 THE Y{ KING. TEXT.
 
 
 XLIV. Tue KAvu Hexacram.
@@ -9123,12 +8190,10 @@ and, in the end, incurs no blame.
 
 Line 4 is not in the centre, nor in an odd place, appropriate to it
 as undivided. Its subject therefore will not be at rest, nor able to
-do anything to accomplish the idea of the hexagram. He is sym-
-bolised by a culprit, who, according to the ancient and modern
+do anything to accomplish the idea of the hexagram. He is symbolised by a culprit, who, according to the ancient and modern
 custom of Chinese courts, has been bastinadoed till he presents the
 appearance in the Text. Alone he can do nothing; if he could
-follow others, like a sheep led along, he might accomplish some-
-thing, but he will not listen to advice.
+follow others, like a sheep led along, he might accomplish something, but he will not listen to advice.
 
 Purslain grows in shady places, and hence we find it here in
 close contiguity to the topmost line, which is yin. As 5 is the
@@ -9138,8 +8203,7 @@ subject of the line, the ruler in the central place, will commit no
 error. It must be allowed that the symbolism in this line is
 not easily managed.
 
-The subject of the 6th line, standing alone, may be easily dis-
-posed of.
+The subject of the 6th line, standing alone, may be easily disposed of.
 
 
 SECT. II, THE KAU HEXAGRAM. 155
@@ -9153,7 +8217,6 @@ any direction, evil will appear. He will be (like)
 a lean pig, which is sure to keep jumping about.
 
 
-2. The second line, undivided, shows its subject
 with a wallet of fish. There will be no error. But
 it will not be well to let (the subject of the first line)
 go forward to the guests.
@@ -9165,7 +8228,6 @@ he walks with difficulty. The position is perilous,
 but there will be no great error.
 
 
-4. The fourth line, undivided, shows its subject
 with his wallet, but no fish in it. This will give rise
 to evil.
 
@@ -9177,32 +8239,23 @@ issue) will descend (as) from Heaven.
 
 
 6. The sixth line, undivided, shows its subject
-receiving others on his horns. There will be occa-
-sion for regret, but there will be no error.
+receiving others on his horns. There will be occasion for regret, but there will be no error.
 
 
-XLIV. The single, divided, line at the top of Kwai, the hexa-
-gram of the third month, has been displaced, and Kien has ruled
+XLIV. The single, divided, line at the top of Kwai, the hexagram of the third month, has been displaced, and Kien has ruled
 over the fourth month of the year. But the innings of the divided
 line commence again; and here we have in K4u the hexagram of
 the fifih month, when light and heat are supposed both to begin
 to be less.
 
-In that divided line Win saw the symbol of the small or un-
-worthy man, beginning to insinuate himself into the government
-
-
-156 THE Yi KING. TEXT.
+In that divided line Win saw the symbol of the small or unworthy man, beginning to insinuate himself into the government
 
 
 XLV. Tue 3H8u1 HEXAGRAM.
 
 
 In (the state denoted by) 3hui, the king will
-repair to his ancestral temple. It will be advan-
-
-
-of the country. His influence, if unchecked, would go on to grow,
+repair to his ancestral temple. It will be advanof the country. His influence, if unchecked, would go on to grow,
 and he would displace one good man after another, and fill the
 vacant seats with others like-minded with himself. The object of
 Wan in his Thwan, therefore, was to enjoin resistance to the
@@ -9220,8 +8273,7 @@ often fantastically, and made to appear to give those sentiments
 forth of themselves.
 
 Here the first line, divided, where it ought to be the contrary,
-becomes the symbol of a bold, bad woman, who appears unex-
-pectedly on the scene, and wishes to subdue or win all the five
+becomes the symbol of a bold, bad woman, who appears unexpectedly on the scene, and wishes to subdue or win all the five
 strong lines to herself. No one would contract a marriage with such
 a female ; and every good servant of his country will try to repel
 the entrance into the government of every officer who can be so
@@ -9244,8 +8296,7 @@ iarernelesiieiiraneinirwrrinmreiiegit aa
 
 
 tageous (also) to meet with the great man; and then
-there will be progress and success, though the advan-
-tage must come through firm correctness. The
+there will be progress and success, though the advantage must come through firm correctness. The
 use of great victims will conduce to good fortune;
 and in whatever direction movement is made, it will
 be advantageous.
@@ -9264,8 +8315,7 @@ out. With his strength therefore he can repress the advance of 1.
 He becomes in fact ‘the lord of the hexagram,’ and all the other
 strong lines are merely guests; and especially is it important that
 he should prevent 1 from approaching them. This is a common
-explanation of what is said under this second line. It seems far-
-fetched ; but I can neither find nor devise anything better.
+explanation of what is said under this second line. It seems farfetched ; but I can neither find nor devise anything better.
 
 With what is said on line 3, compare the fourth paragraph of
 the duke’s Text on the preceding hexagram. Line 3 is strong,
@@ -9286,19 +8336,14 @@ will set its seal to his virtue.
 
 The symbolism of line 6 is difficult to understand, though the
 meaning of what is said is pretty clear. The Khang-hsi cditors
-observe :—‘ The subject of this line is like an officer who has with-
-drawn from the world. He can accomplish no service for the
+observe :—‘ The subject of this line is like an officer who has withdrawn from the world. He can accomplish no service for the
 time ; but his person is removed from the workers of disorder.’
-
-
-158 THE YI KING. TEXT.
 
 
 ee ee ee ee ee
 
 
-to smiles. He need not mind (the temporary diffi-
-culty); as he goes forward, there will be no error.
+to smiles. He need not mind (the temporary difficulty); as he goes forward, there will be no error.
 
 
 2. The second line, divided, shows its subject led
@@ -9309,13 +8354,11 @@ of) the vernal sacrifice are acceptable.
 
 
 3. The third line, divided, shows its subject
-striving after union and seeming to sigh, yet no-
-where finding any advantage. If he go forward, he
+striving after union and seeming to sigh, yet nowhere finding any advantage. If he go forward, he
 will not err, though there may be some small cause
 for regret.
 
 
-4. The fourth line, undivided, shows its subject
 in such a state that, if he be greatly fortunate, he
 will receive no blame.
 
@@ -9323,8 +8366,7 @@ will receive no blame.
 5. The fifth line, undivided, shows the union (of
 all) under its subject in the place of dignity. There
 will be no error. If any do not have confidence in
-him, let him see to it that (his virtue) be great, long-
-continued, and firmly correct, and all occasion for
+him, let him see to it that (his virtue) be great, longcontinued, and firmly correct, and all occasion for
 repentance will disappear.
 
 
@@ -9358,8 +8400,7 @@ Shang indicates that (under its conditions) there
 will be great progress and success. Seeking by
 
 
-be the best that can be obtained, and other things will be in har-
-mony with them.
+be the best that can be obtained, and other things will be in harmony with them.
 
 
 Line 1 is weak, and in the place of a strong line. It has a
@@ -9397,19 +8438,14 @@ odd place, calls for the caution which is insinuated.
 Line g is strong, central, and in its correct position. Through
 
 
-160 THE Y{ KING. TEXT.
-
-
 (the qualities implied in it) to meet with the great
 man, its subject need have no anxiety. Advance to
 the south will be fortunate.
 
 
-1. The first line, divided, shows its subject ad-
-vancing upwards with the welcome (of those above
+1. The first line, divided, shows its subject advancing upwards with the welcome (of those above
 him). There will be great good fortune.
 
-2. The second line, undivided, shows its subject
 with that sincerity which will make even the (small)
 offerings of the vernal sacrifice acceptable. There
 will be no error.
@@ -9417,7 +8453,6 @@ will be no error.
 3. The third line, undivided, shows its subject
 ascending upwards (as into) an empty city.
 
-4. The fourth line, divided, shows its subject
 employed by the king to present his offerings on
 mount Ai. There will be good fortune; there will
 be no mistake.
@@ -9426,8 +8461,7 @@ be no mistake.
 correct, and therefore enjoying good fortune. He
 ascends the stairs (with all due ceremony).
 
-6. The sixth line, divided, shows its subject ad-
-vancing upwards blindly. Advantage will be found
+6. The sixth line, divided, shows its subject advancing upwards blindly. Advantage will be found
 in a ceaseless maintenance of firm correctness.
 
 
@@ -9460,8 +8494,7 @@ In (the condition denoted by) Khw&n there may
 
 
 hexagram, it shows him to be possessed of modesty and force. Then
-the ruler’s seat, the fifth place, is occupied by a divided line, indi-
-cating that he will welcome the advance of 2. The officer therefore
+the ruler’s seat, the fifth place, is occupied by a divided line, indicating that he will welcome the advance of 2. The officer therefore
 both has the qualities that fit him to advance, and a favourable
 opportunity to do so. The result of his advance will be fortunate.
 
@@ -9476,8 +8509,7 @@ illi qua itur ad austrates felicesque plagas.’
 
 Line 1 is weak, where it should be strong; its subject, that is, is
 humble and docile. Those above him, therefore, welcome his
-advance. Another interpretation of the line is suggested by Appen-
-dix I; which deserves consideration. As the first line of Sun,
+advance. Another interpretation of the line is suggested by Appendix I; which deserves consideration. As the first line of Sun,
 moreover, it may be supposed to concentrate in itself its attribute
 of docility, and be the lord of the trigram.
 
@@ -9491,15 +8523,11 @@ advance of the third line. According to the Khang-hsi editors,
 who, I think, are right, there is a shade of condemnation in the
 line. Its subject is too bold.
 
-Line 4 occupies the place of a great minister, in immediate con-
-tiguity to his ruler, who confides in him, and raises him to the
+Line 4 occupies the place of a great minister, in immediate contiguity to his ruler, who confides in him, and raises him to the
 highest distinction as a feudal prince. The mention of mount
 
 
 (16] -
-
-
-162 THE Yi KING. TEXT.
 
 
 correct, the (really) great man, there will be good
@@ -9512,7 +8540,6 @@ bare buttocks straitened under the stump of a tree.
 He enters a dark valley, and for three years has
 no prospect (of deliverance).
 
-2. The second line, undivided, shows its subject
 straitened amidst his wine and viands. There come
 to him anon the red knee-covers (of ‘the ruler).
 It will be well for him (to maintain his sincerity as)
@@ -9525,7 +8552,6 @@ straitened before a (frowning) rock. He lays hold of
 thorns. He enters his palace, and does not see his
 wife. There will be evil.
 
-4. The fourth line, undivided, shows its subject
 proceeding very slowly (to help the subject of the
 first line), who is straitened by the carriage adorned
 with metal in front of him. There will be occasion
@@ -9562,8 +8588,7 @@ be well for him to be (as sincere) as in sacrificing (to
 spiritual beings).
 
 
-6. The sixth line, divided, shows its subject strait-
-ened, as if bound with creepers; or in a high and
+6. The sixth line, divided, shows its subject straitened, as if bound with creepers; or in a high and
 dangerous position, and saying (to himself), ‘If |
 move, I shall repent it.’ If he do repent of former
 
@@ -9581,8 +8606,7 @@ for want of room;’ ‘a tree,’ according to Tai Tung, ‘not allowed
 to spread its branches.’ However this be, the term conveys the
 idea of being straitened and distressed ; and this hexagram indicates
 a state of things in which the order and government that would
-conduce to the well-being of the country can hardly get the develop-
-ment, which, oy skilful management on the part of ‘the great man’
+conduce to the well-being of the country can hardly get the development, which, oy skilful management on the part of ‘the great man’
 and others, is finally secured for them.
 
 Looking at the figure we see that the two central places are
@@ -9612,9 +8636,6 @@ which is its proper correlate, is so circumstanced as not to be able
 M 2
 
 
-164 THE Yf KING. TEXT.
-
-
 XLVIII. Tue 31nc HEXAGRAM.
 
 
@@ -9627,9 +8648,7 @@ years’ is used, as often, for a long time.
 
 The three strong lines in the figure (2, 4, and §) are all held to
 represent ‘superior men ;’ and their being straitened is not in their
-persons or estates, but in their principles which are denied develop-
-ment. Hence the subject of 2 is straitened while he fares sumptu-
-ously. His correlate in 5, though not quite proper, occupies the
+persons or estates, but in their principles which are denied development. Hence the subject of 2 is straitened while he fares sumptuously. His correlate in 5, though not quite proper, occupies the
 ruler’s place, and comes to his help. That it is the ruler who
 comes appears from his red or vermillion knee-covers, different
 from the scarlet knee-covers worn by nobles, as in paragraph 5.
@@ -9650,8 +8669,7 @@ finds none to receive him; so graphically is there set forth the
 distress which reckless action brings.’
 
 "ane 4 is the proper correlate of 1, but it is a strong line in an
-even place, and its assistance is given dilatorily. Then 1 is over-
-ridden by 2, which is represented by ‘a chariot of metal.’ It is
+even place, and its assistance is given dilatorily. Then 1 is overridden by 2, which is represented by ‘a chariot of metal.’ It is
 difficult for the subjects of 1 and 4 to come together, and effect
 much; but 4 is near 5, which is also a strong line. Through a
 
@@ -9660,8 +8678,7 @@ SECT. Il. THE 8ING HEXAGRAM. 165
 
 
 wells undergoes no change. (The water of a well)
-never disappears and never receives (any great) in-
-crease, and those who come and those who go can
+never disappears and never receives (any great) increase, and those who come and those who go can
 draw and enjoy the benefit. If (the drawing) have
 nearly been accomplished, but, before the rope has
 
@@ -9689,15 +8706,13 @@ out and used. If the king were (only) intelligent,
 both he and we might receive the benefit of it.
 
 
-common sympathy, the subject of 5 will have a measure of suc-
-cess. So the symbolism of this line has been explained,—not
+common sympathy, the subject of 5 will have a measure of success. So the symbolism of this line has been explained,—not
 very satisfactorily.
 
 Line 5 is repressed by 6, and pressed on by 4. Above and
 below its subject is wounded. Especially is he straitened by the
 minister in 4, with his scarlet knee-covers. But the upper trigram
-is Tui, with the quality of complacent satisfaction. And this indi-
-cates, it is said, that the subject of 5 gets on notwithstanding his
+is Tui, with the quality of complacent satisfaction. And this indicates, it is said, that the subject of 5 gets on notwithstanding his
 straits, especially by his sincerity. This explanation is not more
 satisfactory than the last.
 
@@ -9706,9 +8721,6 @@ supposed to reach its height. Its subject appears bound and on a
 perilous summit. But his extremity is also his opportunity. He is
 moved to think of repenting; and if he do repent, and go forward,
 his doing so will be fortunate.
-
-
-166 THE Yi KING. TEXT.
 
 
 4. The fourth line, divided, shows a well, the lining
@@ -9729,19 +8741,16 @@ sincerity. There will be great good fortune.
 XLVIII. 3ing, which gives its name to this hexagram, is the
 symbol of a well. The character originally was pictorial (FF),
 intended to represent a portion of land, divided into nine parts,
-the central portion belonging to the government, and being culti-
-vated by the joint labour of the eight families settled on the other
+the central portion belonging to the government, and being cultivated by the joint labour of the eight families settled on the other
 divisions. In the centre of it, moreover, was a well, which was the
 joint property of all the occupants,
 
 What is said on 3ing might be styled ‘ Moralisings on a well,’
 or ‘Lessons to be learned from a well for the good order and
-government of a country.’ What a well is to those in its neighbour-
-hood, and indeed to men in general, that is government to a people.
+government of a country.’ What a well is to those in its neighbourhood, and indeed to men in general, that is government to a people.
 If rulers would only rightly appreciate the principles of government
 handed down from the good ages of the past, and faithfully apply
-them to the regulation of the present, they would be blessed them-
-selves and their people with them.
+them to the regulation of the present, they would be blessed themselves and their people with them.
 
 In the Thwan we have the well, substantially the same through
 many changes of society; a sure source of dependance to men, for
@@ -9766,7 +8775,7 @@ SECT, II. THE KO HEXAGRAM. 167
 
 
 _--_
-_--_——————— >.
+_--_——————— ).
 
 
 XLIX. Tue Ko Hexacram.
@@ -9791,8 +8800,7 @@ a well.
 
 Line 3 is a strong line, in its proper place; and must represent
 an able minister or officer. But though the well is clear, no use is
-made of it. I do not find anything in the figure that can be con-
-nected with this fact. The author was wise beyond his lines. After
+made of it. I do not find anything in the figure that can be connected with this fact. The author was wise beyond his lines. After
 the first sentence of the paragraph, the duke of Kau ceases from
 his function of making emblems ; reflects and moralises.
 
@@ -9813,9 +8821,6 @@ the mention of ‘sincerity’ suggests the inexhaustibleness of the
 
 
 elemental supply.
-
-
-168 THE Yi KING. TEXT.
 
 
 2. The second line, divided, shows its subject
@@ -9877,8 +8882,7 @@ Ting gives the intimation of great progress and
 success.
 
 
-1. The first line, divided, shows the caldron over-
-thrown and its feet turned up. (But) there will be
+1. The first line, divided, shows the caldron overthrown and its feet turned up. (But) there will be
 
 
 given as to the spirit and manner in which they should be brought
@@ -9914,9 +8918,6 @@ and he will be believed in.
 Line 4 is strong, but in the place of a weak line. This might
 vitiate any action of its subject in the way of change, and give
 occasion for repentance. But other conditions are intimated that
-
-
-170 THE YI KING. TEXT.
 
 
 advantage in its getting rid of what was bad in it.
@@ -9976,18 +8977,14 @@ be advantage through being firm and correct.
 
 
 6. The sixth line, undivided, shows the caldron
-with rings of jade. There will be great good for-
-
-
-tune, and all action taken will be in every way
+with rings of jade. There will be great good fortune, and all action taken will be in every way
 advantageous.
 
 
 L. Ting was originally a pictorial character, representing a caldron
 with three feet and two ears, used for cooking and preparing food
 for the table (the mat in old times) and the altar. The picture
-has disappeared from the character, but it is said that in the hexa-
-gram we have an outline from which fancy may construct the
+has disappeared from the character, but it is said that in the hexagram we have an outline from which fancy may construct the
 vessel. The lower line, divided, represents its feet; lines 2, 3, 4,
 all undivided, represent the body of it; line 5, divided, represents
 its two ears; and line 6, undivided, the handle by which it was
@@ -9999,11 +8996,8 @@ furnace and caldron!
 Ting and Zing (48) are the only two hexagrams named from
 things in ordinary use with men; and they are both descriptive of
 the government’s work of nourishing. There are three hexagrams
-of which that is the theme, I (27), under which we are told in Ap-
-pendix I that ‘the sages nourished men of worth, by means of them
-to reach to the myriads of the people.’ 3ing treats of the nourish-
-ment of the people generally by the government through its agri-
-cultural and other methods; Ting treats of the nourishment of
+of which that is the theme, I (27), under which we are told in Appendix I that ‘the sages nourished men of worth, by means of them
+to reach to the myriads of the people.’ 3ing treats of the nourishment of the people generally by the government through its agricultural and other methods; Ting treats of the nourishment of
 men of talents and virtue; and that being understood, it is said,
 without more ado, that it ‘intimates great progress and success.’
 The Text that follows, however, is more difficult to interpret than
@@ -10020,14 +9014,10 @@ which comes to the same thing. A concubine is less honourable
 than a wife,—like the overthrown caldron. But if she have a son,
 
 
-172 THE YI KING. TEXT.
-
-
 LI. Tue XAN HExacram.
 
 
-Kan gives the intimation of ease and develop-
-ment. When (the time of) movement (which it
+Kan gives the intimation of ease and development. When (the time of) movement (which it
 indicates) comes, (the subject of the hexagram) will
 be found looking out with apprehension, and yet
 
@@ -10036,15 +9026,13 @@ while the proper wife has none, he will be his father’s heir, and the
 mother, the concubine, will share in the honour of his position.
 Thus the issue of what was so unpromising is good. At least
 ‘there is no mistake.” The above is what is found in the best
-commentaries on the paragraph. I give it, but am myself dissa-
-tisfied with it.
+commentaries on the paragraph. I give it, but am myself dissatisfied with it.
 
 Line 2 is strong. ‘The enemy’ is the first line, which solicits 1.
 One, however, is able to resist the solicitation; and the whole
 paragraph gives a good auspice. The personal pronoun seems to
 show that the whole was, or was intended to be, understood as an
-oracular response in divination. This paragraph is rhymed, more-
-over, aS are also 1, 3, and 4 :—
+oracular response in divination. This paragraph is rhymed, moreover, aS are also 1, 3, and 4 :—
 
 
 ‘In the caldron is good fare,
@@ -10052,8 +9040,7 @@ See my foe with angry glare;
 But touch me he does not dare.’
 
 
-Line 3 is also strong, and in the proper place ; and if its corre-
-late were the divided 5, its auspice would be entirely good. But
+Line 3 is also strong, and in the proper place ; and if its correlate were the divided 5, its auspice would be entirely good. But
 instead of 5, its correlate is the strong 6. The place of the ears at
 5 has been changed. ‘Things promise badly. The advance of 3 is
 stopped. The good meat in the caldron which it symbolises will
@@ -10063,14 +9050,12 @@ be followed by genial rain. The issue will be good.
 
 Line 4 is in the place of a great minister, who is charged with
 the most difficult duties, which no single man can sustain. Then the
-strength of 4 is weakened by being in an even place, and its corre-
-late is the weak 1 in the lowest place. Its subject is insufficient of
+strength of 4 is weakened by being in an even place, and its correlate is the weak 1 in the lowest place. Its subject is insufficient of
 
 
 SECT. Il. THE KAN HEXAGRAM. 173
 RC SS MRS ls» RR I aan
-smiling and talking cheerfully. When the move-
-ment (like a crash of thunder) terrifies all within
+smiling and talking cheerfully. When the movement (like a crash of thunder) terrifies all within
 a hundred li, he will be (like the sincere worshipper)
 who is not (startled into) letting go his ladle and
 (cup of) sacrificial spirits.
@@ -10091,8 +9076,7 @@ after (the things he has let go); in seven days he
 will find them.
 
 
-3. The third line, divided, shows its subject dis-
-traught amid the startling movements going on. If
+3. The third line, divided, shows its subject distraught amid the startling movements going on. If
 those movements excite him to (right) action, there
 will be no mistake.
 
@@ -10100,11 +9084,9 @@ will be no mistake.
 himself for his work, and he has no sufficient help; and the result
 will be evil.
 
-‘Paragraph 5,’ says the Daily Lecture, ‘ praises the ruler as con-
-descending to the worthy with his humble virtue.’ ‘ Yellow’ has
+‘Paragraph 5,’ says the Daily Lecture, ‘ praises the ruler as condescending to the worthy with his humble virtue.’ ‘ Yellow’ has
 occurred repeatedly as ‘a correct colour;’ ard here ‘the yellow
-ears and strong rings of metal’ are intended to intensify our appre-
-ciation of the occupant of 5. As the line is divided, a caution is
+ears and strong rings of metal’ are intended to intensify our appreciation of the occupant of 5. As the line is divided, a caution is
 added about being firm and correct.
 
 Line 6 is strong, but the strength is tempered by its being in an
@@ -10116,13 +9098,9 @@ subject of 5, in helping his government and nourishing the worthy,
 the part which the handle does for the caldron.
 
 
-174 THE Yi KING. TEXT.
-
-
 ——————— TEE —
 
 
-4. The fourth line, undivided, shows its subject,
 amid the startling movements, supinely sinking
 (deeper) in the mud.
 
@@ -10157,11 +9135,9 @@ in the kingdom. This is the meaning of the hexagram; and the
 subject is the conduct to be pursued in a time of movement—such
 as insurrection or revolution—by the party promoting, and most
 interested in, the situation. It is shown how he ought to be aware
-of the dangers of the time, and how by precaution and the regula-
-tion of himself he may overcome them.
+of the dangers of the time, and how by precaution and the regulation of himself he may overcome them.
 
-The indication of a successful issue given by the figure is sup-
-posed to be given by the undivided line at the bottom of the
+The indication of a successful issue given by the figure is supposed to be given by the undivided line at the bottom of the
 trigram. The subject of it must be superior to the subjects of the
 two divided lines above. It is in the idea of the hexagram that
 he should be moving and advancing ;—and what can his movement
@@ -10179,8 +9155,7 @@ he loses all consciousness of self; when he walks
 
 
 The next sentence shows him sensible of the danger of the
-occasion, but confident and self-possessed. The concluding sen-
-tence shows him rapt in his own important affairs, like a sincere
+occasion, but confident and self-possessed. The concluding sentence shows him rapt in his own important affairs, like a sincere
 worshipper, thinking only of the service in which he is engaged.
 Such a symbol is said to be suggested by WaAn’s significance of
 Kan as ‘the oldest son (page 33).’ It is his to succeed to his
@@ -10210,27 +9185,20 @@ Line 3 is divided, and where an undivided line should be ; but if
 its subject move on to the fourth place, which would be right for
 him, the issue will not be bad.
 
-The 4th line, however, has a bad auspice of its own. It is undi-
-vided in an even place, and it is pressed by the divided line on
+The 4th line, however, has a bad auspice of its own. It is undivided in an even place, and it is pressed by the divided line on
 
 
-176 THE Yi KING, TEXT.
+in his courtyard, and does not see any (of the persons) in it,—there will be no error.
 
 
-in his courtyard, and does not see any (of the per-
-sons) in it,—there will be no error.
-
-
-1. The first line, divided, shows its subject keep-
-ing his toes at rest. There will be no error; but
+1. The first line, divided, shows its subject keeping his toes at rest. There will be no error; but
 it will be advantageous for him to be persistently
 firm and correct.
 
 
 2. The second line, divided, shows its subject
 keeping the calves of his legs at rest. He cannot
-help (the subject of the line above) whom he fol-
-lows, and is dissatished in his mind.
+help (the subject of the line above) whom he follows, and is dissatished in his mind.
 
 
 3. The third line, undivided, shows its subject
@@ -10239,12 +9207,10 @@ keeping his loins at rest, and separating the ribs
 and the heart glows with suppressed excitement.
 
 
-4. The fourth line, divided, shows its subject
 keeping his trunk at rest. There will be no error.
 
 
-caeeune fifth line: divided, shows its subject keep-
-ing his jawbones at rest, so that his words are (all)
+caeeune fifth line: divided, shows its subject keeping his jawbones at rest, so that his words are (all)
 orderly. Occasion for repentance will disappear.
 
 
@@ -10277,33 +9243,26 @@ eee Le ae. ee RL re ae Te a
 
 LII. The trigram Kan represents a mountain. Mountains rise
 up grandly from the surface of the earth, and their masses rest on it
-in quiet and solemn majesty ; and they serve also to arrest the on-
-ward progress of the traveller. Hence the attribute ascribed to Kan
+in quiet and solemn majesty ; and they serve also to arrest the onward progress of the traveller. Hence the attribute ascribed to Kan
 is twofold; it is both active and passive—resting and arresting.
-The character is used in this hexagram with both of those signifi-
-cations. As the name of the figure, it denotes the mental charac-
-teristic of resting in what is right; especially resting, as it is
+The character is used in this hexagram with both of those significations. As the name of the figure, it denotes the mental characteristic of resting in what is right; especially resting, as it is
 expressed by Chinese critics, ‘in principle,’—that which is right,
 on the widest scale, and in the absolute conception of the mind;
 and that which is right in every different position in which a man
 can be placed.. We find this treated of in the Great Learning
 (Commentary, chapter 3), and in the Doctrine of the Mean,
-chapter 14, and other places. This is the theme of the hexa-
-gram; and the symbolism of it is all taken from different parts
+chapter 14, and other places. This is the theme of the hexagram; and the symbolism of it is all taken from different parts
 of the human body, as in hexagram 31, and the way in which
 they are dealt with. Several of the paragraphs are certainly not
 easy to translate and interpret.
 
 The other parts of the body, such as the mouth, eyes, and ears,
-have their appetencies, which lead them to what is without them-
-selves. The back alone has nothing to do with anything beyond
+have their appetencies, which lead them to what is without themselves. The back alone has nothing to do with anything beyond
 itself—hardly with itself even; all that it has to do is to stand
 straight and strong. So should it be with us, resting in principle,
 free from the intrusion of selfish thoughts and external objects.
 Amidst society, he who realises the idea of the hexagram is still
-alone, and does not allow himself to be distracted from the con-
-templation and following of principle. He is not a recluse, how-
-ever, who keeps aloof from social life; but his distinction is that
+alone, and does not allow himself to be distracted from the contemplation and following of principle. He is not a recluse, however, who keeps aloof from social life; but his distinction is that
 he maintains a supreme regard to principle, when alone, and when
 mingling with others.
 
@@ -10319,9 +9278,6 @@ weak, but in its proper place. Above this, again, are the loins,
 represented by 3, strong, and in danger of being violent. Line 2
 
 [16] N
-
-
-178 THE Yf KING. TEXT.
 
 
 LIII. Tue AtEN HEXAGRAM.
@@ -10377,13 +9333,11 @@ eat and drink joyfully and at ease. There will be
 good fortune.
 
 
-3. The third line, undivided,.shows them gradu-
-ally advanced to the dry plains. (It suggests also
+3. The third line, undivided,.shows them gradually advanced to the dry plains. (It suggests also
 the idea of) a husband who goes on an expedition
 from which he does not return, and of a wife who
 is pregnant, but will not nourish her child. There
-will be evil. (The case symbolised) might be advan-
-tageous in resisting plunderers.
+will be evil. (The case symbolised) might be advantageous in resisting plunderers.
 
 
 4. The fourth line, divided, shows the geese
@@ -10392,8 +9346,7 @@ on the flat branches. There will be no error.
 
 
 5. The fifth line, undivided, shows the geese
-gradually advanced to the high mound. (It sug-
-gests the idea of) a wife who for three years does
+gradually advanced to the high mound. (It suggests the idea of) a wife who for three years does
 not become pregnant; but in the end the natural
 issue cannot be prevented. There will be good
 fortune.
@@ -10420,9 +9373,6 @@ gradually and by successive steps, as well as on certain other
 N 2
 
 
-180 THE Yi KING. TEXT.
-
-
 LIV. Tue Kwer Mer HeExacram.
 
 
@@ -10443,8 +9393,7 @@ multis experimentis eruditus, et qui futura possit ex praeteritis
 praevidere.’
 
 But how does the lineal figure give the idea of a gradual
-advance? We shall see how it is attempted in the Great Sym-
-bolism to get this from the component trigrams. The account
+advance? We shall see how it is attempted in the Great Symbolism to get this from the component trigrams. The account
 there is not satisfactory ; and still less so is what else I have been
 able to find on the subject. E.g., the trigrams were originally
 Khwian and Xh4ien; but the third line of Khw4n and the first of
@@ -10456,8 +9405,7 @@ an advance.
 Again, the lines 2, 3, 4, 5 are all in the places proper to them
 as strong or weak ; we ascend by them as: by regular steps to the
 top of the hexagram ; and this, it is said, gives the notion of the
-gradual steps of the advance. But neither does this carry con-
-viction with it to the mind. We must leave the question. King
+gradual steps of the advance. But neither does this carry conviction with it to the mind. We must leave the question. King
 Wan, for reasons which we cannot discover, or without such
 reasons, determined that the hexagram Xien should denote the
 gradual advance of men to positions of influence and office.
@@ -10467,7 +9415,7 @@ an illustration of an important event taking place with various
 
 
 SECT, II, THE KWEI MEI HEXAGRAM. 181
-<~isteapibanieaesesnineniasen ui RS ne
+(~isteapibanieaesesnineniasen ui RS ne
 
 
 1. The first line, undivided, shows the younger
@@ -10522,9 +9470,6 @@ The subject of line 6 has reached the top of the hexagram.
 There is no more advance for him; and he has no correlate. But
 he may still do some good work for the state, and verify the auspice
 derived from the ornamental plumes of the geese.
-
-
-182 THE Yf KING. TEXT.
 
 
 one leg who yet manages to tramp along. Going
@@ -10596,14 +9541,12 @@ friends. She goes to her future home instead of the bridegroom
 coming to fetch her. Second, the parties are unequally matched.
 There ought not to be such disparity of age between them. Another
 reason assigned for the bad auspice is that lines 2, 3, 4, and 5 are
-all in places not suited to them, quite different from the corres-
-ponding lines in the preceding hexagram.
+all in places not suited to them, quite different from the corresponding lines in the preceding hexagram.
 
 Is then such a marriage as the above, or marriage in general,
 the theme of the hexagram? I think not. The marriage comes in,
 as in the preceding essay, by way of illustration. With all the
-abuses belonging to it as an institution of his country, as will imme-
-diately appear, the writer acknowledged it without saying a word
+abuses belonging to it as an institution of his country, as will immediately appear, the writer acknowledged it without saying a word
 in deprecation or correction of those abuses; but from the case
 he selected he wanted to set forth some principles which should
 obtain in the relation between a ruler and his ministers. This
@@ -10617,9 +9560,6 @@ principal of them was.the bride who was to be the proper wife,
 and she was attended by two others, virgins from her father’s
 harem; a cousin, and a half-sister, a daughter of her father by
 another mother of inferior rank. Under line 1 the younger sister
-
-
-184 THE YI KING. TEXT.
 
 
 there is no occasion to be anxious (through fear of
@@ -10636,10 +9576,8 @@ his ruler good service.
 
 Line 2 is strong, and in the centre. The proper correlate is 5,
 which, however, is weak, and in the place of a strong line. With
-such a correlate, the able lady in 2 cannot do much in the dis-
-charge of her proper work. Butif she think only of her husband,
-like the widow who will die rather than marry again, such devo-
-tion will have its effect and its reward. Though blind of one eye,
+such a correlate, the able lady in 2 cannot do much in the discharge of her proper work. Butif she think only of her husband,
+like the widow who will die rather than marry again, such devotion will have its effect and its reward. Though blind of one eye,
 she yet manages to see. And so devoted loyalty in an officer will
 compensate for many disadvantages.
 
@@ -10650,8 +9588,7 @@ passion that no one will marry her. She returns and accepts the
 position of a concubine.
 
 Line 4 is strong, where it should be weak; but in the case of
-a female the indication is not bad. The subject of the line, how-
-ever, is in no haste. She waits, and the good time will come.
+a female the indication is not bad. The subject of the line, however, is in no haste. She waits, and the good time will come.
 
 King Ti-yi has been already mentioned under the fifth line of
 hexagram 11, and in connexion with some regulation which he
@@ -10699,15 +9636,13 @@ small) Mei star. (In the darkness) he breaks his
 right arm; but there will be no error.
 
 
-4- The fourth line, undivided, shows its subject
 in a tent so large and thick that at midday he can
 see from it the constellation of the Bushel. But he
 meets with the subject of the (first) line, undivided
 like himself. There will be good fortune.
 
 
-5. The fifth line, divided, shows its subject bring-
-ing around him the men of brilliant ability. There
+5. The fifth line, divided, shows its subject bringing around him the men of brilliant ability. There
 will be occasion for congratulation and praise. There
 will be good fortune.
 
@@ -10720,9 +9655,6 @@ offering or sacrificing to the spirits of their ancestors. But the
 woman’s basket which should contain her offerings (The Shih, I,
 ii, ode 4) is empty, and the man attempts to perform his part in
 slaying the victim (The Shih, II, vi, ode 6. 5) without effect.
-
-
-186 THE Yi KING. TEXT.
 
 
 with his house made large, but only serving as a
@@ -10739,8 +9671,7 @@ The lesson of the hexagram is to show to rulers how they may
 preserve the prosperity of their state and people. The component
 trigrams have the attributes of intelligence and of motive force, and
 the second is under the direction of the first. A ruler with these
-attributes is not likely to fail in maintaining his crown and pros-
-perity, and it may well be said that the figure intimates progress
+attributes is not likely to fail in maintaining his crown and prosperity, and it may well be said that the figure intimates progress
 and development. The king is told not to be anxious, but to study
 how he may always be like the sun in his meridian height, cheering
 and enlightening all.
@@ -10767,8 +9698,7 @@ the maintenance of prosperity. The subject of line 1 is encouraged
 to go forward.
 
 Line 2 is divided, and in its proper place. Occupying the centre,
-of the trigram of brightness, the intelligence of it should be con-
-centrated in its subject; but his correlate is the weak 5, weak and
+of the trigram of brightness, the intelligence of it should be concentrated in its subject; but his correlate is the weak 5, weak and
 in an improper place, so that he becomes the benighted ruler, and
 darkness is shed from him down on 2, which is strangely symbolised,
 
@@ -10796,8 +9726,7 @@ be useful by developing the light that is in him is pointed out in the
 conclusion. The constellation of the Bushel corresponds to our
 Ursa Major, or perhaps part of Sagittarius.
 
-Line 3 is strong, in its proper place. It is the last line more-
-over of the trigram of Brightness. All these conditions are
+Line 3 is strong, in its proper place. It is the last line moreover of the trigram of Brightness. All these conditions are
 favourable to the employment of its subject; but its correlate. is
 the weak 6, which is at the extremity of the trigram of movement.
 There is no more power therefore in 6, and the subject of 3 has no
@@ -10821,27 +9750,21 @@ left to himself without any helpers. He is isolated for long, and
 undone. The issue is only evil.
 
 
-188 THE Yi KING. TEXT.
-
-
 2. The second line, divided, shows the stranger,
 occupying his lodging-house, carrying with him his
 means of livelihood, and provided with good and
 trusty servants.
 
 3. The third line, undivided, shows the stranger,
-burning his lodging-house, and having lost his ser-
-vants. However firm and correct he (try to) be,
+burning his lodging-house, and having lost his servants. However firm and correct he (try to) be,
 he will be in peril.
 
 
 4. The fourth line, undivided, shows the traveller
-in a resting-place, having (also) the means of liveli-
-hood and the axe, (but still saying),‘I am not at ease
+in a resting-place, having (also) the means of livelihood and the axe, (but still saying),‘I am not at ease
 in my mind,’
 
-5. The fifth line, divided, shows its subject shoot-
-ing a pheasant. He will lose his arrow, but in the
+5. The fifth line, divided, shows its subject shooting a pheasant. He will lose his arrow, but in the
 end he will obtain praise and a (high) charge.
 
 
@@ -10854,8 +9777,7 @@ There will be evil.
 
 LVI. The name Lii denotes people travelling abroad, and is often
 translated by ‘strangers.’ As early as the time of king W4n, there
-was a class of men who went about from one state to another, pur-
-suing their business as pedlars or travelling merchants; but in
+was a class of men who went about from one state to another, pursuing their business as pedlars or travelling merchants; but in
 Mencius II, i, chap. 5. 3, it is used for travellers generally, whatever
 it was that took them out of their own states. Confucius himself
 is adduced as a travelling stranger; and in this hexagram king Wan
@@ -10918,22 +9840,15 @@ in a traveller.
 Line 5, though weak, is in the centre of the upper trigram, which
 
 
-190 THE Yi KING. TEXT.
-
-
-onward in whatever direction. It will be advanta-
-geous (also) to see the great man.
+onward in whatever direction. It will be advantageous (also) to see the great man.
 
 
 1. The first line, divided, shows its subject (now)
-advancing, (now) receding. It would be advanta-
-geous for him to have the firm correctness of a
+advancing, (now) receding. It would be advantageous for him to have the firm correctness of a
 brave soldier.
 
-2. The second line, undivided, shows the repre-
-sentative of Sun beneath a couch, and employing
-diviners and exorcists in a way bordering on confu-
-sion. There will be good fortune and no error.
+2. The second line, undivided, shows the representative of Sun beneath a couch, and employing
+diviners and exorcists in a way bordering on confusion. There will be good fortune and no error.
 
 3. The third line, undivided, shows its subject
 penetrating (only) by violent and repeated efforts.
@@ -10952,8 +9867,7 @@ has the quality of brightness and elegance. It is held to be the lord
 of the trigram Li; and lines 4 and 6 are on either side in loyal duty
 to defend and help. Then the shooting a pheasant is supposed to
 be suggested ; an elegant bird,—by the trigram of elegance. When
-an officer was travelling abroad in ancient times, his gift of intro-
-duction at any feudal court was a pheasant. The traveller here
+an officer was travelling abroad in ancient times, his gift of introduction at any feudal court was a pheasant. The traveller here
 emblemed is praised by his attached friends, and exalted to a place
 of dignity by the ruler to whom he is acceptable. It will be seen
 how the idea of the fifth line being the ruler’s seat is dropt here as
@@ -10971,8 +9885,7 @@ burned its nest? And the character for ‘ox’ is strangely used for
 SECT. II. THE SUN HEXAGRAM. IgOI
 
 
-subject). All occasion for repentance will disap-
-pear, and all his movements will be advantageous.
+subject). All occasion for repentance will disappear, and all his movements will be advantageous.
 There may have been no (good) beginning, but
 there will be a (good) end. Three days before
 making any changes, (let him give notice of them);
@@ -10980,8 +9893,7 @@ and three days after, (let him reconsider them).
 There will (thus) be good fortune.
 
 
-6. The sixth line, undivided, shows the repre-
-sentative of penetration beneath a couch, and having
+6. The sixth line, undivided, shows the representative of penetration beneath a couch, and having
 lost the axe with which he executed his decisions.
 However firm and correct he may (try to) be, there
 will be evil.
@@ -10989,8 +9901,7 @@ will be evil.
 
 LVII. With Sun as the fifth of the Fd-hsi trigrams we have
 become familiar. It symbolises both wind and wood; and has
-the attributes of flexibility (nearly allied to docility) and pene-
-tration. In this hexagram we are to think of it as representing
+the attributes of flexibility (nearly allied to docility) and penetration. In this hexagram we are to think of it as representing
 wind with its penetrating power, finding its way into every corner
 and cranny.
 
@@ -11004,20 +9915,15 @@ trigram denotes the orders issuing from the ruler, and the lower
 the obedience rendered to them by the people; but this view is
 hardly borne out by the Text.
 
-But how is it that the figure represents merely ‘some little attain-
-ment?’ This is generally explained by taking the first line of the
+But how is it that the figure represents merely ‘some little attainment?’ This is generally explained by taking the first line of the
 trigram as indicating what the subject of it can do. But over the
-weak first line are two strong lines, so that its subject can accom-
-plish but little. The Khang-hs? editors, rejecting this view, contend
+weak first line are two strong lines, so that its subject can accomplish but little. The Khang-hs? editors, rejecting this view, contend
 that, the idea of the whole figure being penetration, line 1, the
 symbol of weakness and what is bad, will not be able to offer much
 resistance to the subjects of the other lines, which will enter and
 dispel its influence. They illustrate this from processes of nature,
 education, and politics ; the effect they say is described as small,
 because the process is not to revolutionise or renew, but only to
-
-
-192 THE Yi KING. TEXT.
 
 
 LVIII. Tue Tur Hexacram.
@@ -11039,11 +9945,9 @@ decision.
 
 Line 2 is strong, and in the right place, and has a good auspice.
 Things are placed or hidden beneath a couch or bed; and the
-subject of the line appears as searching for them. He calls in divi-
-nation to assist his judgment, and exorcists to expel for him what is
+subject of the line appears as searching for them. He calls in divination to assist his judgment, and exorcists to expel for him what is
 bad. The work is great and difficult, so that he appears almost
-distracted by it; but the issue is good. For this successful expla-
-nation of the line, I am indebted to the Khang-hsi? editors. The
+distracted by it; but the issue is good. For this successful explanation of the line, I am indebted to the Khang-hsi? editors. The
 writer of the Text believed of course in divination and exorcism ;
 which was his misfortune rather than his fault or folly.
 
@@ -11087,15 +9991,13 @@ bringing round himself whatever can give pleasure.
 There will be evil.
 
 
-4. The fourth line, undivided, shows its subject
 deliberating about what to seek his pleasure in, and
 not at rest. He borders on what would be injurious,
 but there will be cause for joy.
 
 
 5. The fifth line, undivided, shows its subject
-trusting in one who would injure him. The situa-
-tion is perilous.
+trusting in one who would injure him. The situation is perilous.
 
 
 6. The topmost line, divided, shows the pleasure
@@ -11117,8 +10019,7 @@ received Text.
 
 
 LVIII. The trigram Tui symbolises water as collected in a
-marsh or lake; and its attribute or virtus is pleasure or com-
-placent satisfaction. It is a matter of some difficulty to determine
+marsh or lake; and its attribute or virtus is pleasure or complacent satisfaction. It is a matter of some difficulty to determine
 in one’s mind how this attribute came to be connected with the
 trigram. The Khang-hsi editors say :—‘ When the airs of spring
 begin to blow, from the collections of water on the earth the
@@ -11127,9 +10028,6 @@ breath of health is vigorous in a man’s person, the hue of it is
 
 
 [16] O
-
-
-194 THE YI KING. TEXT.
 
 
 LIX. THe Hwdn HExaGram.
@@ -11144,16 +10042,14 @@ displayed in his complexion. Akin to this is the significance of
 the hexagram Tui representing a marsh, as denoting pleasure.
 Although the yin lines give it its special character they owe their
 power and effect to the yang; so when the qualities of mildness
-and harmony prevail in a man, without true-heartedness and in-
-tegrity to control and direct them, they will fail to be correct, and
+and harmony prevail in a man, without true-heartedness and integrity to control and direct them, they will fail to be correct, and
 may degenerate into what is evil. Hence it is said that it will be
 advantageous to be firm and correct!’
 
 The feeling then of pleasure is the subject of this hexagram.
 The above quotation sufficiently explains the concluding characters
 of the Thwan; but where is the intimation in T ui of progress and
-attainments? It is supposed to be in the one weak line surmount-
-ing each trigram and supported by the two strong lines. Fancy
+attainments? It is supposed to be in the one weak line surmounting each trigram and supported by the two strong lines. Fancy
 sees in that mildness and benignity energised by a double portion
 of strength.
 
@@ -11173,8 +10069,7 @@ is derived from the Khang-hsi editors. The evil threatened in it
 would be a consequence of the excessive devotion of its subject to
 pleasure.
 
-‘The bordering on what is injurious’ in paragraph 4 has refer-
-ence to the contiguity of line 4 to the weak 3. That might have
+‘The bordering on what is injurious’ in paragraph 4 has reference to the contiguity of line 4 to the weak 3. That might have
 
 
 SECT. II. THE HWAN HEXAGRAM, 195
@@ -11184,13 +10079,11 @@ cross the great stream. It will be advantageous to
 be firm and correct.
 
 
-1. The first line, divided, shows its subject en-
-gaged in rescuing (from the impending evil) and
+1. The first line, divided, shows its subject engaged in rescuing (from the impending evil) and
 having (the assistance of) a strong horse. There
 will be good fortune.
 
 
-2. The second line, undivided, shows its subject,
 amid the dispersion, hurrying to his contrivance
 (for security). All occasion for repentance will
 disappear.
@@ -11201,7 +10094,6 @@ discarding any regard to his own person. There
 will be no occasion for repentance.
 
 
-4. The fourth line, divided, shows its subject
 scattering the (different) parties (in the state); which
 leads to great good fortune. From the dispersion
 (he collects again good men standing out, a crowd)
@@ -11210,8 +10102,7 @@ not have thought of.
 
 
 5. The fifth line, undivided, shows its subject
-amidst the dispersion issuing his great announce-
-ments as the perspiration (flows from his body).
+amidst the dispersion issuing his great announcements as the perspiration (flows from his body).
 
 
 an injurious effect; but the subject of 4 reflects and deliberates
@@ -11230,9 +10121,6 @@ round itself for the sake of pleasure; the subject of this leads them
 
 
 O 2
-
-
-196 THE Yi KING. TEXT.
 
 
 He scatters abroad (also) the accumulations in the
@@ -11293,8 +10181,7 @@ LX. Tne AXren HEXAGRAM.
 
 
 ieh intimates that (under its conditions) there
-will be progress and attainment. (But) if the regu-
-lations (which it prescribes) be severe and difficult,
+will be progress and attainment. (But) if the regulations (which it prescribes) be severe and difficult,
 they cannot be permanent.
 
 
@@ -11315,14 +10202,12 @@ brings dissentient partizanship to an end; and not satisfied with
 that, he collects multitudes of those who had been divided into
 a great body so that they stand out conspicuous like a hill.
 
-Line 5 gives us the action of the ruler himself ;—by his proclama-
-tions, and by his benevolence. AQ Hs? and other critics enlarge
+Line 5 gives us the action of the ruler himself ;—by his proclamations, and by his benevolence. AQ Hs? and other critics enlarge
 on the symbolism of the perspiration, which they think much to
 the point. P. Regis avoids it, translating—‘Ille, magnas leges
 dissipans, facit ut penetrent(ur?).’ Canon McClatchie has an
 ingenious and original, so far as my Chinese reading goes, note
-upon it :—‘ As sweat cures fevers, so do proclamations cure rebel-
-lions. Both of these translators miss the meaning of the other
+upon it :—‘ As sweat cures fevers, so do proclamations cure rebellions. Both of these translators miss the meaning of the other
 instance of the king’s work.
 
 Line 6 is occupied by a strong line, which has a proper correlate
@@ -11332,13 +10217,11 @@ so in the spirit of the hexagram, so that there is no error or blame
 attaching to him.
 
 
-198 THE Yi KING. TEXT.
 Bi lm”) ES ae
 quitting the courtyard outside his door. There will
 be no error.
 
 
-2. The second line, undivided, shows its subject
 not quitting the courtyard inside his gate. There
 will be evil.
 
@@ -11349,7 +10232,6 @@ in which case we shall see him lamenting. But
 there will be no one to blame (but himself).
 
 
-4. The fourth line, divided, shows its subject
 quietly and naturally (attentive to all) regulations.
 There will be progress and success.
 
@@ -11378,8 +10260,7 @@ trigrams are supposed to suggest or indicate this meaning will be
 seen in Appendix II.
 
 A‘ Hsi anticipates that symbolism in trying to account for the
-statement that the figure gives the promise of success and attain-
-ment; but the ground of this is generally made out by referring
+statement that the figure gives the promise of success and attainment; but the ground of this is generally made out by referring
 to the equal division of the undivided and divided lines and our
 having in 2 and 5, the central places, two undivided lines. An
 
@@ -11391,19 +10272,13 @@ LXI. Tue KXunc Ft Hexacram.
 
 
 Kung Fd (moves even) pigs and fish, and leads
-to good fortune. There will be advantage in cross-
-
-
-important point concerning ‘ regulations’ is brought out in the con-
-clusion of the Thwan,—that they must be adapted to circumstances,
+to good fortune. There will be advantage in crossimportant point concerning ‘ regulations’ is brought out in the conclusion of the Thwan,—that they must be adapted to circumstances,
 and not made too strict and severe.
 
 
 Line 1 is strong, and in its correct place. Its subject therefore
-would not be wanting in power to make his way. But he is sup-
-posed to be kept in check by the strong 2, and the correlate 4 is
-the first line in the trigram of peril. The course of wisdom there-
-fore is to keep still. The character here rendered door is that
+would not be wanting in power to make his way. But he is supposed to be kept in check by the strong 2, and the correlate 4 is
+the first line in the trigram of peril. The course of wisdom therefore is to keep still. The character here rendered door is that
 belonging to the inner apartments, leading from the hall into which
 entrance is found by the outer gate, mentioned under line 2.
 The courtyard outside the door and that inside the gate is one and
@@ -11430,9 +10305,6 @@ himself, having no correlate; but he is lord of the hexagram, and
 his influence is everywhere beneficially felt.
 
 
-200 THE Yi KING. TEXT.
-
-
 ing the great stream. There will be advantage in
 being firm and correct.
 
@@ -11442,7 +10314,6 @@ resting (in himself). There will be good fortune.
 If he sought to any other, he would not find rest.
 
 
-2. The second line, undivided, shows its subject
 (like) the crane crying out in her hidden retirement,
 and her young ones responding to her. (It is as if
 it were said), ‘I have a cup of good spirits,’ (and
@@ -11453,7 +10324,6 @@ having met with his mate. Now he beats his drum,
 and now he leaves off. Now he weeps, and now
 he sings.
 
-4. The fourth line, divided, shows its subject
 (like) the moon nearly full, and (like) a horse (in a
 chariot) whose fellow disappears. There will be
 no error.
@@ -11469,8 +10339,7 @@ in chanticleer (trying to) mount to heaven. Even
 with firm correctness there will be evil.
 
 
-Line 6 is weak, in its proper place. The subject of the top-
-most line must be supposed to possess an exaggerated desire for
+Line 6 is weak, in its proper place. The subject of the topmost line must be supposed to possess an exaggerated desire for
 enacting regulations. They will be too severe, and the effect will
 be evil. But as Confucius (Analects 3. 3) says, that is not so great
 a fault as to be easy and remiss. It may be remedied, and cause
@@ -11490,33 +10359,26 @@ LXII. Tue Hst&éo Kwo Hexacram.
 
 
 Hsiao Kwo indicates that (in the circumstances
-which it implies) there will be progress and attain-
-
-
-ee,
+which it implies) there will be progress and attainee,
 
 
 subject of the ‘Doctrine of the Mean’ from the 21st chapter onwards,
 where Remusat rendered it by ‘la perfection,’ ‘la perfection
 morale,’ and Intorcetta and his coadjutors by ‘vera solidaque
-perfectio.’ The lineal figure has suggested to the Chinese com-
-mentators, from the author of the first Appendix, two ideas in it
+perfectio.’ The lineal figure has suggested to the Chinese commentators, from the author of the first Appendix, two ideas in it
 which deserve to be pointed out. There are two divided lines in
 the centre and two undivided below them and above them. The
 divided lines in the centre are held to represent the heart or mind
 free from all pre-occupation, without any consciousness of self; and
-the undivided lines, on each side of it, in the centre. of the con-
-stituent trigrams are held to denote the solidity of the virtue of one
+the undivided lines, on each side of it, in the centre. of the constituent trigrams are held to denote the solidity of the virtue of one
 so free from selfishness. There is no unreality in it, not a single
 flaw.
 
 The ‘ Daily Lecture’ at the conclusion of its paraphrase of the
-Thwan refers to the history of the ancient Shun, and the wonder-
-ful achievements of his virtue. The authors give no instance of
+Thwan refers to the history of the ancient Shun, and the wonderful achievements of his virtue. The authors give no instance of
 the affecting of ‘pigs and fishes’ by sincerity, and say that these
 names are symbolical of men, the rudest and most unsusceptible of
-being acted on. The Text says that the man thus gifted with sin-
-cerity will succeed in the most difficult enterprises. Remarkable is
+being acted on. The Text says that the man thus gifted with sincerity will succeed in the most difficult enterprises. Remarkable is
 the concluding sentence that he must be firm and correct. Here, as
 elsewhere throughout the Yi, there comes out the practical character
 which has distinguished the Chinese people and their best teaching
@@ -11528,9 +10390,6 @@ by the Khang-hsi editors. The ordinary view makes the other to
 whom the subject of line 1 looks or might look to be the subject
 of 4; but they contend that, excepting in the case of 3 and 6, the
 force of correiation should be discarded from the study of this
-
-
-202 THE Yi KING. TEXT.
 
 
 ment. But it will be advantageous to be firm and
@@ -11566,8 +10425,7 @@ subject of the line.
 Line 4 is weak, and in its correct place. The subject of it has
 discarded the correlate in 1, and hastens on to the confidence of
 the ruler in 5, being symbolised as the moon nearly full. The
-other symbol of the horse whose fellow has disappeared has refer-
-ence to the discarding of the subject of 1. Anciently chariots and
+other symbol of the horse whose fellow has disappeared has reference to the discarding of the subject of 1. Anciently chariots and
 carriages were drawn by four horses, two outsides and two insides.
 Lines 1 and 4 were a pair of these; but 1 disappears here from the
 team, and 4 goes on and joins 5.
@@ -11597,7 +10455,6 @@ and some in consequence finding opportunity to
 assail and injure him. There will be evil.
 
 
-4. The fourth line, undivided, shows its subject
 falling into no error, but meeting (the exigency of
 his situation), without exceeding (in his natural
 course). If he go forward, there will be peril, and
@@ -11612,11 +10469,9 @@ arrow, and taking the bird in a cave.
 
 
 6. The sixth line, divided, shows its subject not
-meeting the exigency of his situation), and ex-
-ceeding (his proper course). (It suggests the idea
+meeting the exigency of his situation), and exceeding (his proper course). (It suggests the idea
 of) a bird flying far aloft. There will be evil. The
-case is what is called one of calamity and self-
-produced injury.
+case is what is called one of calamity and selfproduced injury.
 
 
 LXII. The name Hsido Kwo is explained both by reference
@@ -11629,11 +10484,7 @@ them are two divided lines. The undivided or yang lines are
 great, the divided or yin lines are called small. In Hsiao Kwo
 the divided or small lines predominate. But this peculiar structure
 of the figure could be of no interest to the student, if it were not
-for the meaning of the name, which is ‘small excesses’ or ‘exceed-
-ing in what is small.’ The author, accepted by us as king Wan,
-
-
-204 THE Yi KING. TEXT.
+for the meaning of the name, which is ‘small excesses’ or ‘exceeding in what is small.’ The author, accepted by us as king Wan,
 
 
 LXIII. Tue At 3t Hexacram.
@@ -11646,8 +10497,7 @@ matters. There will be advantage in being firm
 had in his mind our distinction of essentials and non-essentials.
 Is it ever good to deviate from what is recognised as the established
 course of procedure? The reply is—never in the matter of right ;
-but in what is conventional and ceremonial—in what is non-
-essential—the deviation may be made, and will be productive of
+but in what is conventional and ceremonial—in what is nonessential—the deviation may be made, and will be productive of
 good. The form may be given up, but not the substance. But
 the thing must be done very carefully—humbly and reverently,
 and in small matters.
@@ -11735,9 +10585,6 @@ He is possessed by the idea of the hexagram in an extreme degree,
 and is incapable of keeping himself under restraint.
 
 
-206 THE Yi KING. TEXT.
-
-
 ec a ee = ee ee
 —-
 
@@ -11760,8 +10607,7 @@ perilous.
 LXIII. The character called A? is used as a symbol of being
 pastorcompleted. 37 denotes primarily crossing a stream,
 and has the secondary meaning of helping and completing.
-The two characters, combined, will express the successful accom-
-plishment of whatever the writer has in his mind. In dealing with
+The two characters, combined, will express the successful accomplishment of whatever the writer has in his mind. In dealing with
 this lineal figure, king Wan was thinking of the condition of the
 kingdom, at length at rest and quiet. The vessel of the state has
 been brought safely across the great and dangerous stream. The
@@ -11776,11 +10622,9 @@ also supposed to harmonize with the intimation of progress and
 success.
 
 
-Line 1, the first of the hexagram, represents the time im-
-mediately after the successful achievement of the enterprise it
+Line 1, the first of the hexagram, represents the time immediately after the successful achievement of the enterprise it
 denotes ;—the time for resting and being quiet. For a season, at
-least, all movement should be hushed. Hence we have the sym-
-bolism of a driver trying to stop his carriage, and a fox who has
+least, all movement should be hushed. Hence we have the symbolism of a driver trying to stop his carriage, and a fox who has
 wet his tail, and will not tempt the stream again.
 
 Line 2 is weak, and in its proper place. It also has the strong
@@ -11795,8 +10639,7 @@ SECT. II. THE WEI 8f HEXAGRAM. 207
 LXIV. Tue Wer 3t HeExacram.
 
 
-Wei 31 intimates progress and success (in the cir-
-cumstances which it implies). (We see) a young
+Wei 31 intimates progress and success (in the circumstances which it implies). (We see) a young
 fox that has nearly crossed (the stream), when its
 tail gets immersed. There will be no advantage in
 any way.
@@ -11817,12 +10660,10 @@ undertook an expedition against the barbarous hordes of the cold
 and bleak regions north of the Middle States. He is mentioned
 again under the next hexagram. He appears also in the Sh(, IV, ix,
 and in the Shih, IV, iii, ode 5. His enterprise may have been
-good, and successful, but it was tedious, and the paragraph con-
-cludes with a caution.
+good, and successful, but it was tedious, and the paragraph concludes with a caution.
 
 Line 4 is weak, and has advanced into the trigram for water.
-Its subject will be cautious, and prepare for evil, as in the sym-
-bolism, suggested probably by the nature of the trigram.
+Its subject will be cautious, and prepare for evil, as in the symbolism, suggested probably by the nature of the trigram.
 
 ‘The neighbour in the East’ is the subject of line 5, and ‘the
 neighbour in the West’ is the subject of the correlate 2, the former
@@ -11832,7 +10673,6 @@ strength. They are compared to two men sacrificing. The one
 presents valuable offerings; the other very poor ones. But the
 
 
-208 THE Yi KING. TEXT.
 ee SEE —e——e————E———ee
 
 1. The first line, divided, shows its subject (like
@@ -11840,7 +10680,6 @@ a fox) whose tail gets immersed. There will be
 occasion for regret.
 
 
-2. The second line, undivided, shows its subject
 dragging back his (carriage-)wheel. With firmness
 and correctness there will be good fortune.
 
@@ -11851,7 +10690,6 @@ which will lead to evil. But there will be advantage
 in (trying to) cross the great stream.
 
 
-4. The fourth line, undivided, shows its subject
 by firm correctness obtaining good fortune, so that
 all occasion for repentance disappears. Let him
 stir himself up, as if he were invading the Demon
@@ -11891,13 +10729,9 @@ SECT. Il. THE WEI 3f HEXAGRAM. 209
 
 
 full of confidence and therefore feasting (quietly).
-There will be no error. (If he) cherish this con-
-
-
-idea of the Yi, as the book of change. Again and again it has
+There will be no error. (If he) cherish this conidea of the Yi, as the book of change. Again and again it has
 been pointed out that we find in it no idea of a perfect and abiding
-state. Just as the seasons of the year change and pursue an ever-
-recurring round, so is it with the phases of society. The reign of
+state. Just as the seasons of the year change and pursue an everrecurring round, so is it with the phases of society. The reign of
 order has been, and has terminated ; and this hexagram calls us to
 see the struggle for its realisation recommenced. It treats of how
 those engaged in that struggle should conduct themselves with a
@@ -11905,22 +10739,18 @@ view to secure the happy consummation.
 
 How the figure sets forth the state of things by its constituent
 trigrams will appear in Appendix II. A similar indication is
-supposed to be given by the lines, not one of which is in the cor-
-rect place; the strong lines being all in even places, and the weak
-lines in odd. At the same time each of them has a proper corre-
-late ; and so the figure gives an intimation of some successful
+supposed to be given by the lines, not one of which is in the correct place; the strong lines being all in even places, and the weak
+lines in odd. At the same time each of them has a proper correlate ; and so the figure gives an intimation of some successful
 progress. See also Appendix I.
 
 The symbolism of the young fox suggests a want of caution on
-the part of those, in the time and condition denoted by the hexa-
-gram, who try to remedy prevailing disorders. Their attempt is
+the part of those, in the time and condition denoted by the hexagram, who try to remedy prevailing disorders. Their attempt is
 not successful, and they get themselves into trouble and danger.
 Whatever can be done must be undertaken in another way.
 
 
 I suppose a fox to be intended by the symbolism of line 1,
-bringing that animal on from the Thwan. Some of the com-
-mentators understand it of any animal. The line is weak, at the
+bringing that animal on from the Thwan. Some of the commentators understand it of any animal. The line is weak, at the
 bottom of the trigram of peril, and responds to the strong 4, which
 is not in its correct place. Its subject attempts to be doing, but
 finds cause to regret his course.
@@ -11936,16 +10766,12 @@ advantageous to try and cross the great stream.’
 
 Line 4, though strong, is in an even place; and this might
 vitiate the endeavours of its subject to bring about a better state of
-things. But he is firm and correct. He is in the fourth place more-
-over, and immediately above there is his ruler, represented by a weak
+things. But he is firm and correct. He is in the fourth place moreover, and immediately above there is his ruler, represented by a weak
 line, humble therefore, and prepared to welcome his endeavours.
 Let him exert himself vigorously and long, as Kao 3ung did in his
 
 
 [16] F
-
-
-210 THE Yi KING. TEXT.
 
 
 fidence, till he (is like the fox who) gets his head
@@ -11996,18 +10822,14 @@ to (the name) heaven.
 the various things appear in their developed forms.
 
 
-3. (The sages) grandly understand (the con-
-nexion between) the end and the beginning, and how
+3. (The sages) grandly understand (the connexion between) the end and the beginning, and how
 (the indications of) the six lines (in the hexagram)
-are accomplished, (each) in its season. (Accord-
-ingly) they mount (the carriage) drawn by those six
+are accomplished, (each) in its season. (Accordingly) they mount (the carriage) drawn by those six
 dragons at the proper times, and drive through
 the sky.
 
-4. The method of Aien is to change and trans-
-form, so that everything obtains its correct nature
-as appointed (by the mind of Heaven); and (there-
-after the conditions of) great harmony are preserved
+4. The method of Aien is to change and transform, so that everything obtains its correct nature
+as appointed (by the mind of Heaven); and (thereafter the conditions of) great harmony are preserved
 in union. The result is ‘what is advantageous, and
 correct and firm.’
 
@@ -12017,11 +10839,7 @@ correct and firm.’
 and the myriad states all enjoy repose.
 
 The name Thwan, and the meaning of the character so-called,
-are sufficiently established. The Thwan are king W4n’s expla-
-nations of the entire hexagrams. It seems impossible now to
-
-
-214 THE APPENDIXES. SECT. I.
+are sufficiently established. The Thwan are king W4n’s explanations of the entire hexagrams. It seems impossible now to
 
 
 II. 1. Complete is the ‘great and originating
@@ -12030,8 +10848,7 @@ it their birth ;—it receives obediently the influences
 of Heaven.
 
 2. KhwéAn, in its largeness, supports and contains
-all things. Its excellent capacity matches the un-
-limited power (of Kien). Its comprehension is
+all things. Its excellent capacity matches the unlimited power (of Kien). Its comprehension is
 wide, and its brightness great. The various things
 obtain (by it) their full development.
 
@@ -12051,8 +10868,7 @@ I. The hexagram Xhien is made up of six undivided lines, or
 of the trigram Ahien, F-hsi’s symbol for heaven, repeated. The
 Thwan does not dwell upon this, but starts, in its exposition, from
 the word ‘heaven,’ supposing that the hexagram represented all
-the meaning which had ever been intended by that term. In para-
-graphs 1, 2, 4 the four attributes in Wan’s Text (2 being occupied
+the meaning which had ever been intended by that term. In paragraphs 1, 2, 4 the four attributes in Wan’s Text (2 being occupied
 with the second, though it is not expressly named) are illustrated
 by the phenomena taking place in the physical world.
 
@@ -12071,7 +10887,6 @@ a carriage drawn by six dragons. ( Hsf extravagantly says that
 like this in the text.
 
 
-HEX. 3. APPENDIX I. 215
 EA NO Tis 8 IEE OS SE Saale
 
 4. ‘If he take the initiative, he goes astray :’—he
@@ -12083,8 +10898,7 @@ will lose friends :’'—but in the end there will be
 ground for congratulation.
 
 
-5. ‘ The good fortune arising from resting in firm-
-ness’ corresponds to the unlimited capacity of the
+5. ‘ The good fortune arising from resting in firmness’ corresponds to the unlimited capacity of the
 earth.
 
 
@@ -12094,19 +10908,16 @@ and difficulties arising.
 
 
 2. Movement in the midst of peril gives rise to
-‘great progress and success, (through) firm cor-
-rectness.
+‘great progress and success, (through) firm correctness.
 
 
 3. By the action of the thunder and rain, (which
 
 
 II. As the writer in expounding the Thwan of hexagram 1 starts
-from the word ‘ heaven,’ so here he does so from the symbolic mean-
-ing attached to ‘earth.’ What I have said on the Text about the
+from the word ‘ heaven,’ so here he does so from the symbolic meaning attached to ‘earth.’ What I have said on the Text about the
 difference with which the same attributes are ascribed to Khien
-and Khw4n, appears clearly in paragraph 1. Itis the difference ex-
-pressed by the words that I have supplied,—‘ power ’ and ‘capacity.’
+and Khw4n, appears clearly in paragraph 1. Itis the difference expressed by the words that I have supplied,—‘ power ’ and ‘capacity.’
 Khien originates; Khw4n produces, or gives birth to what has
 been originated.
 
@@ -12119,13 +10930,9 @@ Paragraph 3 treats of the symbol of the ‘mare,’ to lead the mind
 to the course of ‘the superior man,’ the good and faithful minister
 and servant.
 
-See the note, corresponding to paragraph 4, onthe Text. ‘ Rest-
-ing in firmness’ is the normal course of Khwan. Where it is
+See the note, corresponding to paragraph 4, onthe Text. ‘ Resting in firmness’ is the normal course of Khwan. Where it is
 pursued, the good effect will be great, great as the unlimited
 capacity of the earth.
-
-
-216 THE APPENDIXES. SECT. I.
 
 
 are symbols of Xan and Khan), all (between heaven
@@ -12159,10 +10966,8 @@ be readily made out.
 
 In paragraph 2 there is an attempt from the virtues or attributes
 assigned to the trigrams to make out the result indicated in the
-Thwan. To move and excite is the quality of Kin; perilous-
-ness is the quality of Khan. The power to move is likely to
-produce great effects; to do this in perilous and difficult circum-
-stances requires firmness and correctness. But neither is this
+Thwan. To move and excite is the quality of Kin; perilousness is the quality of Khan. The power to move is likely to
+produce great effects; to do this in perilous and difficult circumstances requires firmness and correctness. But neither is this
 explanation very satisfactory.
 
 The first part of paragraph 3 depicts a condition of trouble and
@@ -12172,9 +10977,6 @@ symbolical again of the disorder and distress, political and social,
 characteristic of the time. Good princes throughout the nation
 would help to remedy that; but the supreme authority should noi
 resign itself to indifference, trusting to them,
-
-
-HEX, 4. APPENDIX I. 217
 
 
 of progress (suggested by these) give (the idea in)
@@ -12194,8 +10996,7 @@ speaks). ‘A second and third application create
 annoyance, and I do not instruct so as to create
 annoyance :'—annoyance (he means) to the ignorant.
 
-(The method of dealing with) the young and igno-
-rant is to nourish the correct (nature belonging to
+(The method of dealing with) the young and ignorant is to nourish the correct (nature belonging to
 them);—this accomplishes the service of the sage.
 
 
@@ -12206,11 +11007,9 @@ and sometimes passively, is called the virtue or attribute indicated
 by it. Khan, as I said on p. 32, has water for its symbol, and
 especially in the form of rain. Here, however, the water appears
 as a stream in a difficult defile, such as ordinarily appears on an
-approach to a mountain, and suggesting perilousness as the attri-
-bute of such a position. From the combination of these symbols
+approach to a mountain, and suggesting perilousness as the attribute of such a position. From the combination of these symbols
 and their attributes the writer thinks that he gets the idea of the
-character (not the entire hexagram) Mang, as symbolical of igno-
-rance and inexperience. See on ‘the Great Symbolism’ below.
+character (not the entire hexagram) Mang, as symbolical of ignorance and inexperience. See on ‘the Great Symbolism’ below.
 
 Down to the last sentence of paragraph 2, all that is said is
 intended to show how it is that the figure indicates progress and
@@ -12221,24 +11020,17 @@ this being responded to by the divided fifth line, representing the
 ignorance to be taught as docile, ‘will responds to will.” But the
 
 
-218 THE APPENDIXES. SECT. I.
-
-
 V. 1. Hsii denotes waiting. (The figure) shows
 peril in front ; but notwithstanding the firmness and
 strength (indicated by the inner trigram), its subject
-does not allow himself to be involved (in the danger-
-ous defile);—it is right he should not be straitened
+does not allow himself to be involved (in the dangerous defile);—it is right he should not be straitened
 or reduced to extremity.
 
 
-2. When it is said that, ‘with the sincerity de-
-clared in Hsii, there will be brilliant success, and
+2. When it is said that, ‘with the sincerity declared in Hsii, there will be brilliant success, and
 with firmness there will be good fortune,’ this is
 shown by the position (of the fifth line) in the place
-assigned by Heaven, and its being the correct posi-
-tion for it, and in the centre. ‘It will be advan-
-tageous to go through the great stream ;'—that is,
+assigned by Heaven, and its being the correct position for it, and in the centre. ‘It will be advantageous to go through the great stream ;'—that is,
 going forward will be followed by meritorious
 achievement.
 
@@ -12262,24 +11054,17 @@ considered, of plans well matured.
 
 The fifth line, as we have observed more than once already, is
 the place of honour, that due to the ruler or king. It is here called
-‘the Heavenly or Heaven-given seat,’ the meaning of which expres-
-sion is clear from its occurrence in the Shih, III, i, ode 2.1. Five
+‘the Heavenly or Heaven-given seat,’ the meaning of which expression is clear from its occurrence in the Shih, III, i, ode 2.1. Five
 is an odd number, and the fifth is therefore the ‘correct’ place for
-an undivided line; it is also the central place of the trigram,sindi-
-cating how its occupant is sure to walk in the due mean. See
+an undivided line; it is also the central place of the trigram,sindicating how its occupant is sure to walk in the due mean. See
 further the notes on the Text, p. 68.
 
 
-HEX. 6. APPENDIX I. 219
-
-
-VI. 1. The upper portion of Sung is (the tri-
-gram representing) strength, and the lower (that
+VI. 1. The upper portion of Sung is (the trigram representing) strength, and the lower (that
 representing) peril. (The coming together of)
 Strength and peril gives (the idea in) Sung.
 
-2. ‘Sung intimates how, though there is sin-
-cerity in one’s contention, he will yet meet with
+2. ‘Sung intimates how, though there is sincerity in one’s contention, he will yet meet with
 Opposition and obstruction; but if he cherish an
 apprehensive caution, there will be good fortune :'—
 a strong (line) has come and got the central place
@@ -12302,8 +11087,7 @@ himself in an abyss,
 
 VI. Paragraph 1 here is much to the same effect as the first
 sentence in the notes on the Thwan of the Text. It is said,
-‘Strength without peril would not produce contention; peril with-
-out strength would not be able to contend.’
+‘Strength without peril would not produce contention; peril without strength would not be able to contend.’
 
 2. ‘A strong line has come and got the central place :’—this
 sentence has given rise to a doctrine about the changes of trigrams
@@ -12321,7 +11105,7 @@ lines of the lower trigram there be made to change places, there
 ” The reader will see that if the second and third
 
 
-results ===>, or Sung. The doctrine of changing the figures by
+results ===), or Sung. The doctrine of changing the figures by
 
 
 the manipulation of the stalks did spring up between the time of
@@ -12330,13 +11114,9 @@ but there is no trace of it in the real Text of the Yi; and it renders
 any scheme for the interpretation of the figures impossible. The
 
 
-220 THE APPENDIXES. SECT. I.
-
-
 VII. 1. (The name) Sze describes the multitude
 (of the host). The ‘firmness and correctness’ (which
-the hexagram indicates) refer to (moral) correct-
-ness (of aim). When (the mover) is able to use the
+the hexagram indicates) refer to (moral) correctness (of aim). When (the mover) is able to use the
 multitude with such correctness, he may attain to the
 royal sway. -
 
@@ -12350,14 +11130,12 @@ there will be good fortune, and what error should
 there be?
 
 
-VIII. 1. ‘Pi indicates that there is good for-
-tune :'—(the name) Pi denotes help; (and we see
+VIII. 1. ‘Pi indicates that there is good fortune :'—(the name) Pi denotes help; (and we see
 in the figure) inferiors docilely following (their
 superior).
 
 
-editors of the imperial Y7 allow this, and on the present passage dis-
-card the doctrine entirely, referring to the language of the Thwan on
+editors of the imperial Y7 allow this, and on the present passage discard the doctrine entirely, referring to the language of the Thwan on
 hexagrams 11 and 12 as fatal to it. See the notes there, and the
 Introduction, pp. 11-16. ‘A strong line has come’ is to be taken as
 equivalent simply to ‘a strong line is there.’
@@ -12372,26 +11150,22 @@ the name Sze arose, probably, from there being but one undivided
 line in the figure. That is the symbol of the general, all the other
 lines, divided, suggest the idea of a multitude obedient to his orders.
 The general’s place in the centre of the lower trigram, with the
-proper correlate in line 5, suggests the idea of firmness and cor-
-rectness that dominates in the hexagram. But in the last sentence
+proper correlate in line 5, suggests the idea of firmness and correctness that dominates in the hexagram. But in the last sentence
 it is the ruler, and not the general of the host, who is the subject.
 Compare what is said of him with Mencius, I, i, chap. 3; ii, chap.
 5, &c.
 
 
-HEX, 9. APPENDIX I, 221
 baa: Sa ssh hase ce
 
-2. ‘Let (the principal party intended in it) re-
-examine himself, (as if) by divination, whether his
+2. ‘Let (the principal party intended in it) reexamine himself, (as if) by divination, whether his
 virtue be great, unintermitting, and firm ;—if it be
 so, there will be no error:—all this follows from
 the position of the strong line in the centre (of the
 upper trigram). ‘Those who have not rest will come
 to him :’—high and low will respond to its subject.
 ‘With those who are (too) late in coming it will be
-ill ::—(for them) the way (of good fortune here indi-
-cated) has been exhausted.
+ill ::—(for them) the way (of good fortune here indicated) has been exhausted.
 
 
 IX. 1. In Hsiao AA the weak line occupies
@@ -12409,8 +11183,7 @@ Thus it indicates that there will be progress and
 success.
 
 
-3. ‘Dense clouds but no rain’ indicate the move-
-ment (of the strong lines) still going forward. The
+3. ‘Dense clouds but no rain’ indicate the movement (of the strong lines) still going forward. The
 
 
 ‘Perilousness’ is the attribute of Khan, the lower trigram, and
@@ -12424,15 +11197,11 @@ VIII. There is some error in the text here,—as all the critics
 acknowledge. I have adopted the decision of Xt Hsi, which by
 a very small change makes the whole read consistently, and in
 harmony with other explanations of the Thwan. ‘The inferiors’
-are the subjects of all the other lines gathering round their supe-
-rior, represented in the fifth line.
+are the subjects of all the other lines gathering round their superior, represented in the fifth line.
 
 ‘The way has been exhausted :’—they do not seek to promote
 and enjoy union till it is too late. The sentiment is the same as that
 in the lines of Shakespeare about the tide in the affairs of men.
-
-
-222 THE APPENDIJXES. SECT. I.
 
 
 ee
@@ -12501,8 +11270,7 @@ heaven and earth in communication with each
 other, and all things in consequence having free
 course, and (also) the high and the low, (superiors
 and inferiors), in communication with one another,
-and possessed by the same aim. The inner (tri-
-gram) is made up of the strong and undivided
+and possessed by the same aim. The inner (trigram) is made up of the strong and undivided
 lines, and the outer of the weak and divided; the
 inner is (the symbol of) strength, and the outer
 of docility; the inner (represents) the superior man,
@@ -12520,19 +11288,15 @@ views.
 
 Paragraph 2 has been sufficiently explained on the T hwan itself.
 
-Paragraph 3 has also been explained; but there remains some-
-thing to be said on the Chinese text for ‘occupies the God-
-given position,’ or, literally, ‘treads on the seat of Tf.’ Canon
+Paragraph 3 has also been explained; but there remains something to be said on the Chinese text for ‘occupies the Godgiven position,’ or, literally, ‘treads on the seat of Tf.’ Canon
 McClatchie has—‘ The imperial throne is now occupied.’ I think
 that ‘the seat of Ti’ is synonymous with ‘the seat of Heaven,’ in
-paragraph 2 of this treatise on hexagram 5. If Confucius, or who-
-ever was the writer, had before him the phrase as it occurs in the
+paragraph 2 of this treatise on hexagram 5. If Confucius, or whoever was the writer, had before him the phrase as it occurs in the
 Shad, I, 12, the force of Ti will depend on the meaning assigned to
 it in that part of the Sha. That the fifth line occupies the place of
 authority is here the only important point.
 
 
-224 THE APPENDIXES. SECT. I.
 iT
 
 
@@ -12541,8 +11305,7 @@ small man decreasing.
 
 
 XII. ‘The want of good understanding between
-the (different classes of) men in Phi, and its indica-
-tion as unfavourable to the firm and correct course
+the (different classes of) men in Phi, and its indication as unfavourable to the firm and correct course
 of the superior man; with the intimation that the
 great are gone and the little come:’—all this
 springs from the fact that in it heaven and earth
@@ -12561,8 +11324,7 @@ and that of the superior man decreasing.
 
 
 XI. There is nothing to be said on the explanation of the
-Thwan here beyond what has been noticed on the different para-
-graphs of the Text. Canon McClatchie translates :—‘ The Thwan
+Thwan here beyond what has been noticed on the different paragraphs of the Text. Canon McClatchie translates :—‘ The Thwan
 means that Heaven and Earth have now conjugal intercourse with
 each other... . and the upper and lower (classes) unite together.’
 But in both clauses the Chinese characters are the same. Why did
@@ -12599,8 +11361,7 @@ by its containing the strength (symbolled) in X4Zien.
 (Then) we have (the trigram indicating) elegance
 and intelligence, supported by (that indicating)
 strength; with the line in the central, and its
-correct, position, and responding (to the corres-
-ponding line above) :—(all representing) the correct
+correct, position, and responding (to the corresponding line above) :—(all representing) the correct
 course of the superior man. It is only the superior
 
 
@@ -12624,8 +11385,7 @@ and not the lower.
 
 XIII. To understand the various points in this commentary, it
 is only necessary to refer to the Text of the hexagram. The proper
-correlate of line 2 is line 5, and I have said therefore that it ‘re-
-sponds to (the corresponding line in) KAien.’ The editors of the
+correlate of line 2 is line 5, and I have said therefore that it ‘responds to (the corresponding line in) KAien.’ The editors of the
 Khang-hsi edition, however, would make the correlate to it all the
 lines of Khien, as being more agreeable to the idea of union.
 
@@ -12633,9 +11393,6 @@ I do not think that a second paragraph has been lost. The
 
 
 [16] Q
-
-
-226 THE APPENDIXES. SECT. I.
 
 
 2. The attributes (of its component trigrams) are
@@ -12647,8 +11404,7 @@ said to) indicate great progress and success.
 
 
 XV. 1. Ahien indicates progress and success.
-It is the way of heaven to send down its bene-
-ficial influences below, where they are _ brilliantly
+It is the way of heaven to send down its beneficial influences below, where they are _ brilliantly
 displayed. It is the way of earth, lying low, to
 send its influences upwards and (there) to act.
 
@@ -12657,8 +11413,7 @@ and augment the humble. It is the way of earth
 to overthrow the full and replenish the humble.
 Spiritual Beings inflict calamity on the full and
 bless the humble. It is the way of men to hate
-the full and love the humble. Humility in a posi-
-tion of honour makes that still more brilliant; and
+the full and love the humble. Humility in a position of honour makes that still more brilliant; and
 in a low position men will not (seek to) pass beyond
 it. Thus it is that ‘the superior man will have a
 good) issue (to his undertakings).’
@@ -12681,24 +11436,16 @@ XV. The Thwan on this hexagram was so brief, that the writer
 here deals generally with the subject of humility, showing how it is
 valued by heaven and earth, by spirits and bymen. The descent
 of the heavenly influences, and the low position of the earth in
-paragraph 1, are both emblematic of humility. The heavenly influ-
-ences have their ‘display’ in the beauty and fertility of the earth.
+paragraph 1, are both emblematic of humility. The heavenly influences have their ‘display’ in the beauty and fertility of the earth.
 
 
-HEX. 16. APPENDIX I. 227
-
-
-XVI. 31. In Yii we see the strong (line) re-
-sponded to by all the others, and the will (of him
+XVI. 31. In Yii we see the strong (line) responded to by all the others, and the will (of him
 whom it represents) being carried out; and (also)
-docile obedience employing movement (for its pur-
-poses). (From these things comes) Yii (the Condi-
-tion of harmony and satisfaction).
+docile obedience employing movement (for its purposes). (From these things comes) Yii (the Condition of harmony and satisfaction).
 
 
 2. In this condition we have decile obedience
-employing movement (for its purposes), and there-
-fore it is so as between heaven and earth;—how
+employing movement (for its purposes), and therefore it is so as between heaven and earth;—how
 much more will it be so (among men) in ‘the
 setting up of feudal princes and putting the hosts
 in motion!’
@@ -12707,8 +11454,7 @@ in motion!’
 in connexion with movement, and hence the sun and
 moon make no error (in time), and the four seasons
 do not deviate (from their order). The sages show
-such docile obedience in connexion with their move-
-ments, and hence their punishments and penalties
+such docile obedience in connexion with their movements, and hence their punishments and penalties
 are entirely just, and the people acknowledge it by
 their submission. Great indeed are the time and
 significance indicated in Yii!
@@ -12736,9 +11482,6 @@ the thunderous explosion between heaven and earth, as declared
 Q 2
 
 
-228 TILE APPENDIXES. SECT. I.
-
-
 ee
 
 
@@ -12759,8 +11502,7 @@ indicated in Sui.
 XVIII. 1. In Kd we have the strong (trigram)
 above, and the weak one below; we have (below)
 pliancy, and (above) stopping:—these give the
-idea of Kf (a Troublous Condition of affairs verg-
-ing to ruin),
+idea of Kf (a Troublous Condition of affairs verging to ruin),
 
 2. ‘Kd indicates great progress and success :'—
 (through the course shown in it), all under heaven,
@@ -12790,13 +11532,8 @@ or excitement of motion, and Tui denotes pleasure ; and the union
 of these things suggests the same idea.
 
 
-HEX. 20. APPENDIX I. 229
-
-
-weigh well, however, the events of) three days be-
-fore (the turning-point), and those (to be done) three
-days after it:’—the end (of confusion) is the begin-
-ning (of order); such is the procedure of Heaven.
+weigh well, however, the events of) three days before (the turning-point), and those (to be done) three
+days after it:’—the end (of confusion) is the beginning (of order); such is the procedure of Heaven.
 
 
 XIX. 1. In Lin (we see) the strong (lines)
@@ -12807,8 +11544,7 @@ gradually increasing and advancing.
 
 2. (The lower trigram is the symbol of) being
 pleased, and (the upper of) being compliant. The
-strong (line) is in the central position, and is pro-
-perly responded to.
+strong (line) is in the central position, and is properly responded to.
 
 
 3. ‘There is great progress and success, along with
@@ -12829,8 +11565,7 @@ upper trigram X4n is strong, denoting, according to king W4n,
 daughter.’ For the eldest daughter to be below the youngest son
 is eminently correct, and helps to indicate the auspice of great
 success. The attribute of Sun is pliancy, and that of Xan stoppage
-or arrest. The feeble pliancy confronted by the arresting moun-
-tain gives an idea of the evil state implied in K4.
+or arrest. The feeble pliancy confronted by the arresting mountain gives an idea of the evil state implied in K4.
 
 ‘Three days before and after the turning-point’ is, literally,
 ‘three days before and after 4i4,’ 4ia being the name of the first of
@@ -12847,9 +11582,6 @@ on the Text. The other paragraphs need no expianation beyond
 what appears in the supplemented translation.
 
 
-230 THE APPENDIXES. SECT. I.
-
-
 whose attributes are) docility and flexibility. He is
 in the central position and his correct place, and thus
 exhibits (his lessons) to all under heaven.
@@ -12862,8 +11594,7 @@ lcok to him and are transformed.
 
 
 3. When we contemplate the spirit-like way of
-Heaven, we see how the four seasons proceed with-
-out error. The sages, in accordance with (this)
+Heaven, we see how the four seasons proceed without error. The sages, in accordance with (this)
 spirit-like way, laid down their instructions, and all
 under heaven yield submission to them.
 
@@ -12892,13 +11623,11 @@ wind, with the attributes of flexibility and penetration. As is the
 place of line 5, so are the virtues of the ruler.
 
 ‘ The spirit-like way of Heaven’ is the invisible and unfathomable
-agency ever operating by general laws, and with invariable regu-
-larity, in what we call nature. Compare with this paragraph, the
+agency ever operating by general laws, and with invariable regularity, in what we call nature. Compare with this paragraph, the
 definition of Shan or Spirit in Appendix III, i, 32; and the doctrine
 of the agency of God, taught in Appendix VI, 8, 9.
 
 
-HEX, 22, APPENDIX I. 231
 BE cS a SS GREE a eel
 the centre, and acts in its high position. Although
 it Is not in its proper position, this is advantageous
@@ -12911,13 +11640,11 @@ XXII. 1. (When it is said that) Pt indicates that
 there should be free course (in what it denotes) : —
 
 
-2. (We see) the weak line coming and ornament-
-ing the strong lines (of the lower trigram), and
+2. (We see) the weak line coming and ornamenting the strong lines (of the lower trigram), and
 hence (it is said that ornament) ‘should have free
 course. On the other hand, the strong line above
 ornaments ‘the weak ones (of the upper trigram),
-and hence (it is said) that ‘there will be little advan-
-tage, if (ornament) be allowed to advance (and take
+and hence (it is said) that ‘there will be little advantage, if (ornament) be allowed to advance (and take
 the lead).’ (This is illustrated in the) appearances
 that ornament the sky.
 
@@ -12936,10 +11663,8 @@ are accomplished all under heaven.
 
 XXI. The ‘equal division of the strong and weak lines’ is seen
 by taking them in pairs, though the order in the first pair is different
-from that in ye two others. This is supposed to indicate the in-
-telligence of the judgments in the action of the hexagram. 4n,
-the lower trigram, symbolises movement; Li, the upper, intelli-
-gence. The fifth line’s acting in its high position does not intimate
+from that in ye two others. This is supposed to indicate the intelligence of the judgments in the action of the hexagram. 4n,
+the lower trigram, symbolises movement; Li, the upper, intelligence. The fifth line’s acting in its high position does not intimate
 the formation of the figure from Yi, the 42nd hexagram, but calls
 attention to the fact that a weak line is here ‘lord of judgment.’
 This does not seem natural, but the effect is good ;—judgment is
@@ -12948,9 +11673,6 @@ tempered by leniency.
 
 XXII. The first paragraph is either superfluous or incomplete.
 The language of paragraph 2 has naturally been pressed into the
-
-
-232 THE APPENDIXES. SECT. I.
 
 
 XXIII. 1. Po denotes overthrowing or being
@@ -12971,17 +11693,14 @@ decadence, (as seen) in the movements of the
 heavenly bodies.
 
 
-service of the doctrine of changing the figures by divining manipu-
-lation; see p. 219, On paragraph 2 of the Thwan of hexagram 6.
+service of the doctrine of changing the figures by divining manipulation; see p. 219, On paragraph 2 of the Thwan of hexagram 6.
 But as the Khang-hsi editors point out, ‘the weak line coming and
-ornamenting the two strong lines’ simply indicates how substan-
-tiality should have the help of ornament, and ‘the strong line
+ornamenting the two strong lines’ simply indicates how substantiality should have the help of ornament, and ‘the strong line
 above (or ascending) and ornamenting the two weak lines’ indicates
 that ornament should be restrained by substantiality. Ornament
 has its use, but it must be kept in check.—The closing sentence
 has no connexion with what precedes. Some characters are
-wanting, to show how the writer passes on to speak of ‘the orna-
-mental figures of the sky.’ The whole should then be joined on
+wanting, to show how the writer passes on to speak of ‘the ornamental figures of the sky.’ The whole should then be joined on
 to paragraph 3. The ‘figures of the sky’ are all the heavenly
 bodies in their relative positions and various movements, producing
 day and night, heat and cold, &c. The observances of society are
@@ -12997,11 +11716,7 @@ topmost line thus interprets them, and acts accordingly. Yet he
 is not left without hope. Winter is followed by spring ; night is
 
 
-HEX, 25. APPENDIX I. 233
-
-
-XXIV. 1. ‘FQ indicates the free course and pro-
-gress (of what it denotes):’—it is the coming back
+XXIV. 1. ‘FQ indicates the free course and progress (of what it denotes):’—it is the coming back
 of what is intended by the undivided line.
 
 
@@ -13012,8 +11727,7 @@ one to distress him in his exits and entrances, and
 
 
 3. ‘He will return and repeat his proper course ;
-in seven days comes his return :’—such is the move-
-ment of the heavenly (revolution).
+in seven days comes his return :’—such is the movement of the heavenly (revolution).
 
 
 4. ‘ There will be advantage in whatever direction
@@ -13050,9 +11764,6 @@ to ‘seven months.’
 
 ‘The mind of heaven and earth’ is the love of life and of all
 goodness that rules in the course of nature and providence.
-
-
-234 THE APPENDIXES. SECT. I.
 
 
 central position, and responded to (by the weak
@@ -13101,9 +11812,6 @@ success; and very striking is the brief and emphatic declaration,
 that such progress is ‘the appointment of Heaven.’
 
 
-HEX, 27. APPENDIX I. 235
-
-
 4. ‘It will be advantageous to cross the great
 stream :’—(the fifth line, representing the ruler,) is
 responded to by (the second, the central line of
@@ -13129,18 +11837,15 @@ to reach to the myriads of the people. Great is
 
 
 XXVI. In paragraph 1, Ta KAA evidently means the ‘ grand
-accumulation’ of virtue, indicated by the attributes of its compo-
-nent trigrams. ‘Substantial solidity’ may very well be given as
+accumulation’ of virtue, indicated by the attributes of its component trigrams. ‘Substantial solidity’ may very well be given as
 the attribute of mountains.
 
 ‘The strong line in the highest place’ of paragraph 2 is line 6,
 whose subject is thus above the ruler represented by 5, and has the
 open firmament for his range in doing his work. This, and his
-ability to repress the strongest opposition, show how he is sup-
-ported by all that is correct and right.
+ability to repress the strongest opposition, show how he is supported by all that is correct and right.
 
-In a kingdom where the object of the government is the accumu-
-lation of virtue, good and able men will not be left in obscurity.
+In a kingdom where the object of the government is the accumulation of virtue, good and able men will not be left in obscurity.
 
 What will not a high and good purpose, supported by the
 greatest strength, be able to do?
@@ -13154,9 +11859,6 @@ Yao and Shun, sage rulers, from whose cherishing and nourishing
 came Yii to assuage the waters of the deluge, 37 to teach the people
 agriculture, Hsieh as minister of instruction, Kio Yao as minister of
 crime, and others ;—all to do the work of nourishing the people.
-
-
-236 THE APPENDIXES. SECT. I.
 
 
 XXVIII. 1. T& Kwo shows the great ones
@@ -13187,8 +11889,7 @@ succeeding another.
 
 2. This is the nature of water;—it flows on,
 without accumulating its volume (so as to overflow);
-it pursues its way through a dangerous defile, with-
-out losing its true (nature).
+it pursues its way through a dangerous defile, without losing its true (nature).
 
 
 3. That ‘the mind is penetrating’ is indicated by
@@ -13213,9 +11914,6 @@ by whim or principle of their own, which they wished to make
 prominent.
 
 
-HEX, 30. APPENDIX I. 237
-
-
 tains, rivers, hills, and mounds. Kings and princes
 arrange, by means of such strengths, to maintain
 their territories. Great indeed is the use of (what
@@ -13225,15 +11923,13 @@ is here) taught about seasons of peril.
 XXX. 1. Li means being attached to. The sun
 and moon have their place in the sky. All the
 grains, grass, and trees have their place on the
-earth. The double brightness (of the two tri-
-grams) adheres to what is correct, and the result is
+earth. The double brightness (of the two trigrams) adheres to what is correct, and the result is
 the transforming and perfecting all under the sky.
 
 
 2. The weak (second line) occupies the middle
 and correct position, and gives the indication of ‘a
-free and successful course ;’ and, moreover, ‘ nourish-
-ing (docility like that of) the cow’ will lead to good
+free and successful course ;’ and, moreover, ‘ nourishing (docility like that of) the cow’ will lead to good
 
 
 fortune.
@@ -13265,9 +11961,6 @@ is ‘therefore’ in the original; but I cannot make out the force and
 suitability of that conjunction.
 
 
-238 THE APPENDIXES. SECT. II.
-
-
 Section II.
 
 
@@ -13276,8 +11969,7 @@ Kan, meaning (mutually) influencing.
 
 
 2. The weak (trigram) above, and the strong
-one below ; their two influences moving and respond-
-ing to each other, and thereby forming a union; the
+one below ; their two influences moving and responding to each other, and thereby forming a union; the
 repression (of the one) and the satisfaction (of the
 other); (with their relative position), where the
 male is placed below the female:— al] these
@@ -13308,33 +12000,26 @@ ii, 4,andV,10. Kan is below Tui; whereas the subject of the
 lower trigram should always take the initiative in these figures.
 
 
-HEX. 32, APPENDIX I. 239
-
-
 which are in mutual communication; (they have the
 qualities of) docility and motive force; their strong
 and weak (lines) all respond, each to the other :—
 these things are all found in Hang.
 
 
-2. (When it is said that) ‘Hang indicates success-
-ful progress and no error (in what it denotes); but
+2. (When it is said that) ‘Hang indicates successful progress and no error (in what it denotes); but
 the advantage will come from being firm and correct,’
 this indicates that there must be long continuance
 in its way of operation. The way of heaven and
-earth is to be long continued in their operation with-
-out stopping.
+earth is to be long continued in their operation without stopping.
 
 
 3. (When it is said that) ‘Movement in any
-direction whatever will be advantageous,’ this im-
-plies that when (the moving power) is spent, it will
+direction whatever will be advantageous,’ this implies that when (the moving power) is spent, it will
 begin again.
 
 4. The sun and moon, realising in themselves
 (the course of Heaven), can perpetuate their shining.
-The four seasons, by their changing and trans-
-forming, can perpetuate their production (of things).
+The four seasons, by their changing and transforming, can perpetuate their production (of things).
 The sages persevere long in their course, and all
 under the sky are transformed and perfect. When
 we look at what they continue doing long, the
@@ -13347,8 +12032,7 @@ as leading to the indication of progress and success, which is
 explained in paragraph 2, and illustrated by the analogy of the
 course of heaven and earth.
 
-‘Movement in any direction,’ as explained in paragraph 3, indi-
-cates the ever-occurring new modes and spheres of activity, to
+‘Movement in any direction,’ as explained in paragraph 3, indicates the ever-occurring new modes and spheres of activity, to
 which he who is firm and correct is called.
 
 Paragraph 4, and especially its concluding sentence, are of a
@@ -13356,19 +12040,16 @@ meditative and reflective character not uncommon in the treatise
 on the Thwan.
 
 
-240 THE APPENDIXES. SECT. II.
 erent ECT
 
 
-XXXIII. 1. ‘Thun indicates successful pro-
-gress :'—that is, in the very retiring which Thun
+XXXIII. 1. ‘Thun indicates successful progress :'—that is, in the very retiring which Thun
 denotes there is such progress. The strong (line)
 is in the ruling place, (the fifth), and is’ properly
 responded to (by the second line). The action takes
 place according to (the requirement of) the time.
 
-2. ‘To a small extent it will (still) be advan-
-tageous to be firm and correct :’'—(the small men)
+2. ‘To a small extent it will (still) be advantageous to be firm and correct :’'—(the small men)
 are gradually encroaching and advancing.
 
 
@@ -13384,10 +12065,8 @@ movement, and hence (the whole) is expressive of
 vigour.
 
 
-2. ‘T& Kwang indicates that it will be advan-
-tageous to be firm and correct :'—that which is great
-(should be) correct. Given correctness and great-
-ness (in their highest degree), and the character and
+2. ‘T& Kwang indicates that it will be advantageous to be firm and correct :'—that which is great
+(should be) correct. Given correctness and greatness (in their highest degree), and the character and
 tendencies of heaven and earth can be seen.
 
 
@@ -13406,9 +12085,6 @@ XXXIV. Paragraph1. ‘That which is great’ denotes, in the
 first place, the group of four strong lines which strikes us on
 
 
-HEX. 36. APPENDIX I. 241
-
-
 XXXV. 1. 3in denotes advancing.
 
 
@@ -13417,8 +12093,7 @@ above the earth; (the symbol of) docile submission
 cleaving to that of the Great brightness; and the
 weak line advanced and moving above :—all these
 things give us the idea of ‘a prince who secures the
-tranquillity (of the people), presented on that ac-
-count with numerous horses (by the king), and three
+tranquillity (of the people), presented on that account with numerous horses (by the king), and three
 times in a day received at interviews.’
 
 
@@ -13427,9 +12102,7 @@ of Brightness entering into the midst of it give the
 idea of Ming I (Brightness wounded or obscured).
 
 
-2. The inner (trigram) denotes being accom-
-plished and bright; the outer, being pliant and sub-
-missive. The case of king Wan was that of one
+2. The inner (trigram) denotes being accomplished and bright; the outer, being pliant and submissive. The case of king Wan was that of one
 
 
 looking at the figure, and then the superior man, or the strong
@@ -13454,17 +12127,12 @@ derivation of 3in from Kwan, whose 4th and 5th lines are made
 to change places ( = =). But we have seen that that view is
 
 
-inadmissible in the interpretation of the Yi. And a simple explana-
-tion of the language at once presents itself. As Hsiang An-shih
+inadmissible in the interpretation of the Yi. And a simple explanation of the language at once presents itself. As Hsiang An-shih
 (Sung dynasty) says, ‘Of the three “daughter” trigrams it is only
 Li which has its divided line occupying the central place of honour,
 when it is the upper trigram in a hexagram.’
 
 
-[16]
-
-
-242 THE APPENDIXES. SECT. II.
 who with these qualities was yet involved in great
 difficulties.
 
@@ -13485,8 +12153,7 @@ righteousness shown (in the relation and positions
 of) heaven and earth.
 
 
-2. In Kia Zan we have the idea of an authori-
-tative ruler;—that, namely, represented by the
+2. In Kia Zan we have the idea of an authoritative ruler;—that, namely, represented by the
 parental authority.
 
 
@@ -13503,8 +12170,7 @@ be established.
 
 XXXVI. The sun disappearing, as we say, ‘ below the earth,’ or,
 as the Chinese writer conceives it, ‘into the midst of, or within the
-earth, sufficiently indicates the obscuration or wounding of bright-
-ness,—the repression and resistance of the good and bright.
+earth, sufficiently indicates the obscuration or wounding of brightness,—the repression and resistance of the good and bright.
 
 King W4n was not of the line of Shang. Though opposed and
 persecuted by its sovereign, he could pursue his own course, till
@@ -13516,13 +12182,9 @@ He could do nothing that would help on its downfall.
 XXXVII. Paragraph 1 first explains the statement of the
 
 
-HEX. 38. APPENDIX I. 243
-
-
 XXXVIII. 1. In Khwei we have (the symbol of)
 Fire, which, when moved, tends upwards, and that
-of a Marsh, whose waters, when moved, tend down-
-wards. We have (also the symbols of) two sisters
+of a Marsh, whose waters, when moved, tend downwards. We have (also the symbols of) two sisters
 
 
 living together, but whose wills do not move in the
@@ -13570,14 +12232,10 @@ meaning of Khwei from the symbolism of FQ-hsi. Then follows
 R 2
 
 
-244 THE APPENDIXES. SECT. ll.
-
-
 XX XIX. 1. Kien denotes difficulty. There is
 (the trigram expressive of) perilousness in front.
 When one, seeing the peril, can arrest his steps (in
-accordance with the significance of the lower tri-
-gram), is he not wise ?
+accordance with the significance of the lower trigram), is he not wise ?
 
 2. (The language of) Kien, that ‘advantage will
 be found in the south-west,’ refers to the (strong
@@ -13594,8 +12252,7 @@ to their normal state. Great indeed is the work to
 be done in the time of Kien!
 
 
-an explanation from that ascribed to king Wan, where Tui repre-
-sents the youngest daughter and Li the second. The Khang-hsi
+an explanation from that ascribed to king Wan, where Tui represents the youngest daughter and Li the second. The Khang-hsi
 editors observe that in many hexagrams we have two daughters
 dwelling together, but that only in this and 49 is attention called to
 it. The reason, they say, is that in those two diagrams the sisters
@@ -13603,8 +12260,7 @@ are the second and third daughters, while in the others one of them
 is the eldest, whose place and superiority are fixed, so that between
 her and either of the others there can be no division or collision.
 
-About what is said, in paragraph 2, on the weak line, as ad-
-vanced and acting above, see the note on hexagram 35.
+About what is said, in paragraph 2, on the weak line, as advanced and acting above, see the note on hexagram 35.
 
 The lesson of paragraph 3 is not unity in diversity, but union
 with diversity.
@@ -13619,7 +12275,6 @@ difficulty and prudent caution.
 The explanations in paragraph 2 of the phraseology of the Thwan
 
 
-HEX, 40. APPENDIX I. 245
 ee ten SRN LIE VCR Le Oe ere
 
 XL. 1. In Xieh we have (the trigram expressive
@@ -13633,8 +12288,7 @@ By movement there is an escape from the peril :—
 2. ‘In (the state indicated by) Kieh, advantage
 will be found in the south-west :'—the movement
 (thus) intimated will win all. That ‘there will be
-good fortune in coming back (to the old condi-
-tions)’ shows that such action is that of the due
+good fortune in coming back (to the old conditions)’ shows that such action is that of the due
 medium. That ‘if some operations be necessary,
 there will be good fortune in the early conducting of
 them’ shows that such operations will be successful.
@@ -13664,8 +12318,7 @@ trigrams.
 2. How it is that the movement indicated in the first condition
 will ‘ win’ all does not immediately appear. The Khang-hsi editors
 say that ‘moving to the south and west’ is the same as ‘returning
-back to the old conditions,’ and that ‘winning all’ and acting ‘accord-
-ing to the due medium’ are descriptive of the effect and method
+back to the old conditions,’ and that ‘winning all’ and acting ‘according to the due medium’ are descriptive of the effect and method
 without reference to the symbolism. Another explanation might
 be devised ; but I prefer to leave the matter in doubt.
 
@@ -13674,17 +12327,13 @@ to the beneficent social and political changes described in the text,
 as is done very frequently in this Appendix.
 
 
-246 THE APPENDIXES. SECT, Il.
-
-
 XLI. 1. In Sun (we see) the lower (trigram)
 diminished, and the upper added to. (But) the
 method (of action) implied in this operates also
 above (or, mounts upwards (also) and operates).
 
 
-2. ‘If there be sincerity in this method of dimi-
-nution, there will be great good fortune; freedom
+2. ‘If there be sincerity in this method of diminution, there will be great good fortune; freedom
 from error; firmness and correctness that can be
 maintained; and advantage in every movement
 that shall be made. In what shall this (sincerity
@@ -13704,8 +12353,7 @@ the whole figure could not but have this form from the process of
 its formation, whether by the gradual addition of the two primitive
 lines, or by the imposition of the whole trigrams on one another.
 To say that the upper lines of KAien and Khw4n changed places
-to express the idea of subjects contributing in taxes to the main-
-tenance of their ruler is absurd; and if that thought were in the
+to express the idea of subjects contributing in taxes to the maintenance of their ruler is absurd; and if that thought were in the
 mind of king Wan (which I very much doubt), it would only show
 how he projected his own idea, formed independently of the figure,
 into its lines,
@@ -13721,18 +12369,15 @@ of those below communicate itself to those above?’
 In paragraph 2 the subject of contribution, such as the payment of
 
 
-HEX, 42. APPENDIX I. 247
 ia ee. Sa
 
 XLII. 1. In Yt we see the upper (trigram)
-diminished, and the lower added to. The satis-
-faction of the people (in consequence of this) is
+diminished, and the lower added to. The satisfaction of the people (in consequence of this) is
 without limit. What descends from above reaches
 to all below, so great and brilliant is the course (of
 its operation).
 
-2. That ‘there will be advantage in every move-
-ment which shall be undertaken’ appears from the
+2. That ‘there will be advantage in every movement which shall be undertaken’ appears from the
 central and correct (positions of the second and fifth
 lines), and the (general) blessing (the dispensing of
 which they imply).
@@ -13745,29 +12390,22 @@ the great stream’ appears from the action of wood
 3. Yi is made up of (the trigrams expressive
 of) movement and docility, (through which) there
 is daily advancement to an unlimited extent. We
-have (also) in it heaven dispensing and earth pro-
-ducing, leading to an increase without restriction
+have (also) in it heaven dispensing and earth producing, leading to an increase without restriction
 
 
 taxes, passes into the background. The Khang-hsi editors say :—
-‘What is meant by diminishing in this hexagram is the regu-
-lation of expenditure or contribution according to the time. This
+‘What is meant by diminishing in this hexagram is the regulation of expenditure or contribution according to the time. This
 would vary in a family according to its poverty or wealth; and in a
 state according to the abundance or scantiness of its resources.
-When it is said that there must be sincerity along with a diminu-
-tion, it means that though such a diminution cannot be helped, yet
+When it is said that there must be sincerity along with a diminution, it means that though such a diminution cannot be helped, yet
 what is given should be given sincerely. A small sacrifice sincerely
 offered is accepted. In the language, “ There is a time when the
 strong should be diminished and the weak be strengthened,” we are
 not to find the two baskets in the diminution of the strong. “ The
 strong” is what is essential,—in this case sincerity; “The weak”
 is what is unimportant,—the amount and manner of the offering.
-If one supplement the insufficiency of his offering with the abun-
-dance of his sincerity, the insignificance of his two baskets will not
+If one supplement the insufficiency of his offering with the abundance of his sincerity, the insignificance of his two baskets will not
 be despised.’
-
-
-248 THE APPENDIXES. SECT. I.
 
 
 of place. Everything in the method of this increase
@@ -13786,8 +12424,7 @@ From wood boats and ships are made, on which the great stream
 may be crossed. In three hexagrams, this, 59, and 61, of which
 Sun is a part, we find mention made of crossing the great stream.
 It is generally said that the lower trigram An also symbolises
-wood; but that is obtained by a roundabout process. Kan occu-
-pies the place of the east in Wan’s arrangement of the trigrams;
+wood; but that is obtained by a roundabout process. Kan occupies the place of the east in Wan’s arrangement of the trigrams;
 but the east symbolises spring, when the growth of vegetation
 begins ; and therefore Kin may symbolise wood! It was stated
 on p. 33, that the doctrine of ‘the five elements’ does not appear
@@ -13830,9 +12467,6 @@ Heaven gives; productive earth responds ;
 Increase crowns every vale and height;
 
 
-HEX. 43. APPENDIX I. 249
-
-
 XLII. 1. Kwai is the symbol of displacing or
 removing. We see (in the figure) the strong
 (lines) displacing the weak. (We have in it the
@@ -13844,11 +12478,9 @@ displacement, but harmony (continues).
 royal courtyard’ is suggested by the (one) weak
 (line) mounted on the five strong lines.
 
-There ‘is an earnest and sincere appeal (for sym-
-pathy and support), and a consciousness of the peril
+There ‘is an earnest and sincere appeal (for sympathy and support), and a consciousness of the peril
 (involved in the undertaking) :’—it is the realisation
-of this danger, which makes the method (of compass-
-ing the object) brilliant.
+of this danger, which makes the method (of compassing the object) brilliant.
 
 ‘He should make an announcement in his own
 city, and show that it will not be well to have
@@ -13865,26 +12497,19 @@ And ceaselessly it hastens on,
 Each season’s gifts quick to requite.’
 
 
-XLII. 1. The last clause of paragraph 1 is good in itself, show-
-ing that the strong and worthy statesman in removing a bad man
-from the state is not actuated by any private feelings. The senti-
-ment, however, as it is expressed, can hardly be said to follow from
+XLII. 1. The last clause of paragraph 1 is good in itself, showing that the strong and worthy statesman in removing a bad man
+from the state is not actuated by any private feelings. The sentiment, however, as it is expressed, can hardly be said to follow from
 the symbolism.
 
 Paragraph 2. The same may be said of all the notes appended
 to the different clauses of this second paragraph. Ht Ping-wan
 (Yiian dynasty) says:—‘If but a single small man be left, he is
-sufficient to make the superior man anxious; if but a single inordi-
-nate desire be left in the mind, that is sufficient to disturb the
+sufficient to make the superior man anxious; if but a single inordinate desire be left in the mind, that is sufficient to disturb the
 harmony of heavenly principles. The eradication in both cases
 must be complete, before the labour is ended.’
 
 
-250 THE APPENDIXES. SECT. Il.
-
-
-XLIV. 1. Kau has the significance of unex-
-pectedly coming on. (We see in it) the weak
+XLIV. 1. Kau has the significance of unexpectedly coming on. (We see in it) the weak
 (line) coming unexpectedly on the strong ones.
 
 
@@ -13934,7 +12559,6 @@ that it has any connexion with the teaching of the Thwan and
 Symbolism.
 
 
-HEX. 46. APPENDIX I. 251
 Sn
 with the utmost filial piety he presents his offerings
 (to the spirits of his ancestors).
@@ -13950,8 +12574,7 @@ made, it will be advantageous:’—all is done in
 accordance with the ordinances of Heaven.
 
 
-3. When we look at the way in which the gather-
-ings (here shown) take place, the natural tendencies
+3. When we look at the way in which the gatherings (here shown) take place, the natural tendencies
 (in the outward action) of heaven and earth and of
 all things can be seen.
 
@@ -13972,8 +12595,7 @@ pleased satisfaction. Then we have the strong line in 5, and
 its proper correlate in 2. These things may give the idea of union.
 They might also give the idea of ather good things.
 
-The Khang-hsi editors say that though ‘all is done in accord-
-ance with the ordinances of Heaven’ follows the concluding clauses
+The Khang-hsi editors say that though ‘all is done in accordance with the ordinances of Heaven’ follows the concluding clauses
 of the Thwan, yet the sentiment of the words must be extended
 to the other clauses as well. A‘/Ang-3ze says that ‘ the ordinances of
 Heaven’ are simply the natural and practical outcome of ‘heavenly
@@ -13983,9 +12605,6 @@ of China try to shirk the idea of personality in ‘Heaven.’
 
 With paragraph 3, compare the concluding paragraphs of the
 Thwan Awan on hexagrams 31, 32.
-
-
-252 THE APPENDIXES. SECT, Il.
 
 
 3. ‘Seeking (by the qualities implied in Shang)
@@ -14033,11 +12652,7 @@ lines in the figure; but to deduce from that the idea expressed by
 KhwaAn requires a painful straining of the imagination. That idea
 was in the mind, and then the lines were interpreted accordingly.
 
-2. ‘ Perilousness’ is the attribute of the lower trigram, and ‘ satis-
-faction’ that of the upper. The superior man, however straitened,
-
-
-HEX. 49. APPENDIX I. 253
+2. ‘ Perilousness’ is the attribute of the lower trigram, and ‘ satisfaction’ that of the upper. The superior man, however straitened,
 
 
 XLVIII. 1. (We have the symbol of) wood in
@@ -14056,12 +12671,10 @@ lines (in the second and fifth places).
 rope has not yet reached the water of the well :’—
 its service has not yet been accomplished.
 
-‘The bucket is broken:’—it is this that occa-
-sions evil.
+‘The bucket is broken:’—it is this that occasions evil.
 
 
-XLIX. 1. In Ko (we see) water and fire extin-
-guishing each other; (we see also) two daughters
+XLIX. 1. In Ko (we see) water and fire extinguishing each other; (we see also) two daughters
 dwelling together, but with their minds directed to
 
 
@@ -14084,14 +12697,12 @@ may be a correct explanation of the figure, though the reading of
 it from bottom to top seems at first to be strange.
 
 Paragraph 2. That the fashion of the well does not undergo
-any (great) change is dwelt upon as illustrating the unchangeable-
-ness of the great principles of human nature and of government.
+any (great) change is dwelt upon as illustrating the unchangeableness of the great principles of human nature and of government.
 But that this truth may be learned from the strong and central
 lines only produces a smile. So do the remarks on the other two
 sentences of the Thwan.
 
 
-254 THE APPENDIXES. SECT. II.
 ic: SS
 different objects:—(on account of these things) it
 is called (the hexagram of) Change.
@@ -14118,8 +12729,7 @@ place in a time of change.
 
 
 L. 1. In Ting we have (symbolically) the figure
-of a caldron. (We see) the (symbol of) wood enter-
-ing into that of fire, which suggests the idea of cook-
+of a caldron. (We see) the (symbol of) wood entering into that of fire, which suggests the idea of cook-
 
 
 XLIX. Paragraph 1. Li, the lower trigram, represents fire, and
@@ -14138,11 +12748,7 @@ The second suggests how change proceeding from intelligence
 and giving general satisfaction will be successful.
 
 Paragraph 3 tells us how the greatest natural and the greatest
-political changes are equally successful and admirable when con-
-ducted aright.
-
-
-HEX, 51. APPENDIX I. 255
+political changes are equally successful and admirable when conducted aright.
 
 
 ing. The sages cooked their offerings in order to
@@ -14165,8 +12771,7 @@ development.
 2. ‘When the (time of) movement (which it
 indicates) comes, (its subject) will be found looking
 out with apprehension :’—that.feeling of dread leads
-to happiness. ‘And yet smiling and talking cheer-
-fully :'—the issue (of his dread) is that he adopts
+to happiness. ‘And yet smiling and talking cheerfully :'—the issue (of his dread) is that he adopts
 (proper) laws (for his course).
 
 ‘The movement (like a crash of thunder) terrifies
@@ -14176,8 +12781,7 @@ L. 1. See the notes on the Text of the Thwan about the
 figure of a caldron in Ting. Its component trigrams are Sun
 representing wood, and Li representing fire; which may very well
 suggest the idea of cooking. The last sentence of the paragraph
-is entirely after the style of ‘the Great Symbolism.’ The Khang-
-hsi editors say that the distinction between 3ing and Ting appears
+is entirely after the style of ‘the Great Symbolism.’ The Khanghsi editors say that the distinction between 3ing and Ting appears
 here very clearly, the former relating to the nourishment of the
 people, and the latter to the nourishing men of worth. They add
 that the reality of the offerings to God is such nourishing. ‘God’
@@ -14186,14 +12790,10 @@ Emperor,’ adding in a note,‘ The Chinese Jupiter, the Emperor of
 gods and men!’
 
 z. The first sentence deduces the sentiment of the Thwan from
-the attributes or virtues of the trigrams with considerable amplifica-
-tion of the virtue of Li. The second line of Li, as being divided,
+the attributes or virtues of the trigrams with considerable amplification of the virtue of Li. The second line of Li, as being divided,
 calls forth in other hexagrams the same notice as here. It is the
 most important line in the figure, and being responded to by the
 strong 2, gives an indication of the ‘great progress and success.’
-
-
-256 THE APPENDIXES. SECT. II.
 
 
 all within a hundred li :’—it startles the distant and
@@ -14246,7 +12846,6 @@ are of course the same as 4, 5, and 6. But it will be seen that
 there is not a proper correlation among them all. I do not see,
 
 
-HEX. 54. APPENDIX I. 257
 en a i
 LIII. 1. The advance indicated by Xien is (like)
 
@@ -14276,11 +12875,9 @@ movement that is inexhaustible.
 LIV. 1. By Kwei Mei (the marrying away of
 a younger sister) the great and righteous relation
 between heaven and earth (is suggested to us). If
-heaven and earth were to have no intercommunica-
-tion, things would not grow and flourish as they do.
+heaven and earth were to have no intercommunication, things would not grow and flourish as they do.
 The marriage of a younger sister is the end (of
-her maidenhood) and the beginning (of her mother-
-hood).
+her maidenhood) and the beginning (of her motherhood).
 
 
 2. We have (in the hexagram the desire of)
@@ -14303,9 +12900,6 @@ Out of rest comes movement to go on for an indefinite time, and
 be sycceeded by rest again ;—as says paragraph 4.
 
 [16] S
-
-
-258 THE APPENDIXES. SECT. Il.
 
 
 pleasure and, on the ground of that, movement
@@ -14357,11 +12951,7 @@ other things which are said about the lines. The lines are where
 they cannot but be from the way in which the figures were formed.
 
 
-HEX, 56. APPENDIX I. 259
-
-
-intelligence and movement directed by that intel-
-ligence. It is thus that it has that signification.
+intelligence and movement directed by that intelligence. It is thus that it has that signification.
 
 
 2. ‘The king has reached the condition (denoted
@@ -14394,8 +12984,7 @@ LV. The Khaiy-hsi editors remark that paragraph 1 is not so
 much explaining the meaning of the name Fang, as accounting for
 the hexagram, composed of Lf and Xin, having such a meaning.
 
-Paragraph 3 seems rather contrary to the lesson of the hexa-
-gram. According to it, prosperity cannot be maintained, any more
+Paragraph 3 seems rather contrary to the lesson of the hexagram. According to it, prosperity cannot be maintained, any more
 than we can have the other seasons without winter or perpetual
 day without night; but the object of the essay is to exhort to the
 maintenance of prosperity. Is it the case that the rise of every
@@ -14408,9 +12997,6 @@ PP- 34) 35:
 S 2
 
 
-260 THE APPENDIXES. SECT. Il.
-
-
 ponent trigrams). Hence it is said, ‘There may
 be some small attainment and progress. If the
 stranger or traveller be firm and correct as he ought
@@ -14421,18 +13007,15 @@ to be, there will be good fortune.’
 to be taken as intimated in Li!
 
 
-LVII. 1. The double Sun shows how, in accord-
-ance with it, (governmental) orders are reiterated.
+LVII. 1. The double Sun shows how, in accordance with it, (governmental) orders are reiterated.
 
 
-2. (We see that) the strong (fifth line) has pene-
-trated into the central and correct place, and the
+2. (We see that) the strong (fifth line) has penetrated into the central and correct place, and the
 will (of its subject) is being carried into effect; (we
 see also) the weak (first and fourth lines) both
 obedient to the strong lines (above them). It is
 hence said, ‘There will be some little attainment
-and progress. There will be advantage in move-
-ment onward in whatever direction. It will be
+and progress. There will be advantage in movement onward in whatever direction. It will be
 advantageous also to see the great man.’
 
 
@@ -14449,8 +13032,7 @@ then advancing.
 LVII. 1. The language of this paragraph has often occurred to
 me in reading commands and addresses issued by the emperors of
 China, such as the essays on the precepts in what is called the
-Sacred Edict, the reiteration employed in many of which is re-
-markable.
+Sacred Edict, the reiteration employed in many of which is remarkable.
 
 Paragraph 2. The ‘ obedience of the weak lines to the strong
 ones ’ grows, in a way not very perceptible, from the idea of the
@@ -14458,25 +13040,17 @@ hexagram, and the quality of the trigram as denoting penetration
 and flexibility.
 
 
-HEX. 59. APPENDIX I. 261
-
-
-LVIII. 1. Tui has the meaning of pleased satis-
-
-
-faction.
+LVIII. 1. Tui has the meaning of pleased satisfaction.
 
 
 2. (We have) the strong (lines) in the centre, and
-the weak (lines) on the outer edge (of the two tri-
-grams), (indicating that) in pleasure what is most
+the weak (lines) on the outer edge (of the two trigrams), (indicating that) in pleasure what is most
 advantageous is the maintenance of firm correctness.
 Through this there will be found an accordance with
 (the will of) heaven, and a correspondence with (the
 feelings of) men. When (such) pleasure goes before
 the people, (and leads them on), they forget their
-toils; when it animates them in encountering diffi-
-culties, they forget (the risk of) death. How great
+toils; when it animates them in encountering difficulties, they forget (the risk of) death. How great
 is (the power of) this pleased satisfaction, stimulating
 in such a way the people!
 
@@ -14497,8 +13071,7 @@ stream :’—(the subject of the hexagram) rides in
 
 
 LVIII. The feeling of pleasure going before the people and
-leading them on to endure toil and encounter death must be sup-
-posed to be produced in them by the example and lessons of their
+leading them on to endure toil and encounter death must be supposed to be produced in them by the example and lessons of their
 ruler. Lii Fafi-hsien paraphrases this portion of the text thus :—
 ‘When the sage with this precedes them, he can make them
 endure toil without any wish to decline it, and go with him into
@@ -14507,25 +13080,19 @@ was intended to be the teaching of the hexagram, but the positive
 expression of it is hardly discernible.
 
 
-262 THE APPENDIXES. SECT. II.
-
-
 (a vessel of) wood (over water), and will do so with
 success.
 
 
-LX. 1. ‘Xieh intimates progress and attain-
-ment:’—the strong and weak (lines) are equally
+LX. 1. ‘Xieh intimates progress and attainment:’—the strong and weak (lines) are equally
 divided, and the strong lines occupy the central
 places.
 
 2. ‘If the regulations (which Aieh prescribes)
-be severe and difficult, they cannot be perma-
-nent :’—its course (of action) will in that case come
+be severe and difficult, they cannot be permanent :’—its course (of action) will in that case come
 to an end.
 
-3. (We have the feeling of) pleasure and satis-
-faction directing the course amidst peril. (We have)
+3. (We have the feeling of) pleasure and satisfaction directing the course amidst peril. (We have)
 all regulations controlled (by authority) in its proper
 place. (We have) free action proceeding from the
 central and correct position.
@@ -14533,15 +13100,13 @@ central and correct position.
 
 4. Heaven and earth observe their regular terms,
 and we have the four seasons complete. (If rulers)
-frame their measures according to (the due) regula-
-tions, the resources (of the state) suffer no injury,
+frame their measures according to (the due) regulations, the resources (of the state) suffer no injury,
 and the people receive no hurt.
 
 
 LIX. 1. This paragraph has been partially anticipated in the
 notes on the Thwan. The second line is said to suffer ‘no
-extinction,’ because the lower trigram is that of peril. The Khang-
-hsi editors say that the former part of this paragraph shows how
+extinction,’ because the lower trigram is that of peril. The Khanghsi editors say that the former part of this paragraph shows how
 the root of the work of the hexagram is strengthened, and the
 latter part how the execution of that work is secured.
 
@@ -14557,9 +13122,6 @@ a boat in which the great stream can be crossed.
 
 
 LX. Paragraph 1. See what is said on the Text of the Thwan.
-
-
-HEX. 61, APPENDIX I. 263
 
 
 : LXI. 1. In Kung Fd we have the (two) weak
@@ -14585,8 +13147,7 @@ in being firm and correct :’—in that virtue indeed
 we have the response (of man) to Heaven.
 
 
-‘Its course will come to an end’ is the opposite of the intima-
-tion in Xieh of progress and attainment.
+‘Its course will come to an end’ is the opposite of the intimation in Xieh of progress and attainment.
 
 In paragraph 3 the writer returns to this intimation of the
 figure :—by the attributes of the trigrams; by the appropriate
@@ -14604,25 +13165,20 @@ further said as to the attributes of the trigrams and their effect,
 Khang-3ze observes:—‘ We have in the sincerity shown in the
 upper trigram superiors condescending to those below them in
 accordance with their peculiarities, and we have in that of the
-lower those below delighted to follow their superiors. The com-
-bination of these two things leads to the transformation of the
+lower those below delighted to follow their superiors. The combination of these two things leads to the transformation of the
 country and state.’
 
 Paragraph 2. The two divided lines in the middle of the figure
 are supposed to give the semblance of an empty boat, and an
 
 
-264 THE APPENDIXES. SECT. Il.
 2 a eee
 
 LXII. 1. In Hsido Kwo (we see) the small
-(lines) exceeding the others, and (giving the intima-
-tion of) progress and attainment.
+(lines) exceeding the others, and (giving the intimation of) progress and attainment.
 
 
-2. Such ‘exceeding, in order to its being advanta-
-geous, must be associated with firmness and correct-
-ness :'—that is, it must take place (only) according
+2. Such ‘exceeding, in order to its being advantageous, must be associated with firmness and correctness :'—that is, it must take place (only) according
 to (the requirements of) the time.
 
 
@@ -14642,34 +13198,27 @@ in great affairs.’
 a bird on the wing, and of the notes that come down
 from such a bird, for which it is better to descend
 than to ascend, thereby leading to great good
-fortune :'-—to ascend is contrary to what is reason-
-able in the case, while to descend is natural and
+fortune :'-—to ascend is contrary to what is reasonable in the case, while to descend is natural and
 right.
 
 
 empty boat, it is said (with doubtful truth), is not liable to be upset.
 The trigram Sun symbolises both wind and wood.
 
-A good commentary on paragraph 3 is supplied in many pas-
-sages of ‘the Doctrine of the Mean,’ e. g. chap. 20. 18 :—‘ Sincerity
+A good commentary on paragraph 3 is supplied in many passages of ‘the Doctrine of the Mean,’ e. g. chap. 20. 18 :—‘ Sincerity
 is the way of Heaven. The attainment of sincerity is the way
 of men.’
 
 
 LXII. Paragraph 1. That the small lines exceed the others
-appears at a glance. The intimation of progress and attain-
-ment is less clear. Compare the first paragraph of Appendix I to
+appears at a glance. The intimation of progress and attainment is less clear. Compare the first paragraph of Appendix I to
 hexagram 33.
 
 
 ‘The requirements of the time’ in paragraph 2 cannot make
 
 
-HEX, 64. APPENDIX I. 265
-
-
-LXIII. 1. ‘Ai 3% intimates progress and suc-
-cess :'—in small matters, that is, there will be that
+LXIII. 1. ‘Ai 3% intimates progress and success :'—in small matters, that is, there will be that
 progress and success.
 
 
@@ -14678,8 +13227,7 @@ correct :—the strong and weak (lines) are correctly
 arranged, each in its appropriate place.
 
 
-3. ‘There has been good fortune in the begin-
-ning :'—the weak (second line) is in the centre.
+3. ‘There has been good fortune in the beginning :'—the weak (second line) is in the centre.
 
 
 4. ‘In the end’ there is a cessation (of effort),
@@ -14687,8 +13235,7 @@ and ‘disorder arises :'\—the course (that led to rule
 and order) is (now) exhausted.
 
 
-LXIV.1. ‘Wei 3i intimates progress and suc-
-cess (in the circumstances which it implies):’—the
+LXIV.1. ‘Wei 3i intimates progress and success (in the circumstances which it implies):’—the
 weak (fifth) line is in the centre.
 
 
@@ -14713,15 +13260,11 @@ Thwan.
 It is difficult to see the concatenation in paragraph 3 between
 the sentiment of the Thwan and the nature of the second line.
 The Khang-hs? editors compare this hexagram and the next with
-11 and 12, observing that the goodness of Thai (11) is concen-
-trated, as here, in the second line.
+11 and 12, observing that the goodness of Thai (11) is concentrated, as here, in the second line.
 
 The sentiment of paragraph 4 is that which we have often met
 with,—that things move on with a constant process of change.
 Disorder succeeds to order, and again order to disorder.
-
-
-266 THE APPENDIXES. SECT. I.
 
 
 ‘Its tail gets immersed. There will be no
@@ -14764,8 +13307,7 @@ this, nerves himself to ceaseless activity.
 the time for active doing :'—(this appears from) the
 strong-and undivided line’s being in the lowest place.
 
-2. ‘The dragon appears in the field :'—the diffu-
-sion of virtuous influence has been wide.
+2. ‘The dragon appears in the field :'—the diffusion of virtuous influence has been wide.
 
 3. ‘Active and vigilant all the day :’'—(this refers
 to) the treading of the (proper) path over and over
@@ -14792,9 +13334,6 @@ Like the Text under each hexagram, what is said under each in
 this treatise on its symbolism is divided into two portions. The
 
 
-268 THE APPENDIXES. SECT. I.
-
-
 II. The (capacity and sustaining) power of the
 earth is what is denoted by Khwan. The superior
 man, in accordance with this, with his large virtue
@@ -14819,13 +13358,11 @@ the king’s service:—great is the glory of his
 wisdom.
 
 
-first is called ‘the Great Symbolism,’ and is occupied with the tri-
-grammatic composition of the hexagram, to the statement of which
+first is called ‘the Great Symbolism,’ and is occupied with the trigrammatic composition of the hexagram, to the statement of which
 is always subjoined an exhibition of the use which should be, or has
 been, made of the lesson suggested by the meaning of the whole
 figure in the administration of affairs, or in self-government. If
-the treatise be rightly ascribed to Confucius, this practical applica-
-tion of the teaching of the symbols is eminently characteristic of
+the treatise be rightly ascribed to Confucius, this practical application of the teaching of the symbols is eminently characteristic of
 his method in inculcating truth and duty; though we often find it
 difficult to trace the connexion between his premiss and conclusion.
 This portion of the treatise will be separated by a double space
@@ -14842,7 +13379,6 @@ again the next ; so moves ‘the unwearied sun from day to day,’
 making it a good symbol of renewed, untiring effort.
 
 
-HEX, 2. APPENDIX II. 269
 NRE ERS 2 2d a Re cS
 
 
@@ -14854,17 +13390,14 @@ be received.
 
 
 5. ‘The yellow lower-garment ;—there will be
-great good fortune :’—this follows from that orna-
-mental (colour’s) being in the right and central place.
+great good fortune :’—this follows from that ornamental (colour’s) being in the right and central place.
 
-6. ‘The dragons fight in the wild :’—the (on-
-ward) course (indicated by Khw&n) is pursued to
+6. ‘The dragons fight in the wild :’—the (onward) course (indicated by Khw&n) is pursued to
 extremity.
 
 7. ‘(The lines are all weak and divided, as
 appears from) the use of the number six:’—but
-(those who are thus represented) becoming per-
-petually correct and firm, there will thereby be a
+(those who are thus represented) becoming perpetually correct and firm, there will thereby be a
 great consummation.
 
 
@@ -14877,8 +13410,7 @@ Symbolism’ appears in Canon McClatchie’s version as—‘ Khwan
 is the generative part of earth.’ By ‘ generative part’ he probably
 means ‘the productive or prolific faculty.’ If he mean anything
 else, there comes out a conclusion antagonistic to his own view of
-the ‘mythology’ of the Yf. The character Shi, which he trans-
-lates by ‘ generative part,’ is defined in Dr. Williams’ dictionary as
+the ‘mythology’ of the Yf. The character Shi, which he translates by ‘ generative part,’ is defined in Dr. Williams’ dictionary as
 ‘ the virility of males.’ Such is the special significance of it. If it
 were so used here, the earth would be masculine.
 
@@ -14894,9 +13426,6 @@ how can he help them? Their hope in him would be in vain.’
 
 ‘The Smaller Symbolism’ is sufficiently dealt with in the notes
 on the Text.
-
-
-270 THE APPENDIXES. SECT. I.
 
 
 i
@@ -14916,8 +13445,7 @@ the mean, and grandly gains the people.
 
 
 2. The difficulty (to the subject of) the second
-line, divided, arises from its place over the un-
-divided line below it. ‘The union and children
+line, divided, arises from its place over the undivided line below it. ‘The union and children
 after ten years’ shows things resuming their regular
 course.
 
@@ -14935,8 +13463,7 @@ helper)’ shows intelligence.
 
 5. ‘Difficulty is experienced (by the subject of
 the fifth line) in bestowing his rich favours :’—the
-extent to which they reach will not yet be con-
-spicuous.
+extent to which they reach will not yet be conspicuous.
 
 
 6. ‘He weeps tears of blood in streams :—how
@@ -14951,7 +13478,6 @@ not a bad emblem of the political state in the mind of the writer.
 When the thunder has pealed, and the clouds have discharged their
 
 
-HEX. 4. APPENDIX II. 271
 Ss EES. ute So RE 2
 
 IV. (The trigram representing) a mountain, and
@@ -14992,12 +13518,10 @@ on to humility.
 
 burden of rain, the atmosphere is cleared, and there is a feeling of
 relief. But I fail again to discern clearly the connexion between
-the symbolism and the lesson about the superior man’s admini-
-stration of affairs.
+the symbolism and the lesson about the superior man’s administration of affairs.
 
 
-The subject of the first line of the Smaller Symbolism is repre-
-sented by the undivided line, and therefore is firm and correct.
+The subject of the first line of the Smaller Symbolism is represented by the undivided line, and therefore is firm and correct.
 He is noble, but his place is below the divided lines, symbols of
 the weak and mean (see Appendix IV, i, 1).
 
@@ -15010,13 +13534,8 @@ The subject of line 4 naturally recurs to the correlate in line 1.
 He is the natural helper in the case, and he has the ability.
 
 
-272 THE APPENDIXES. SECT. I.
-
-
-6. ‘Advantage will come from warding off in-
-jury:’'—(the subject of this line) above and (the
-ignorant) below, all do and are done to in accord-
-ance with their nature.
+6. ‘Advantage will come from warding off injury:’'—(the subject of this line) above and (the
+ignorant) below, all do and are done to in accordance with their nature.
 
 
 V. (The trigram for) clouds ascending over that
@@ -15053,8 +13572,7 @@ in the hexagram, and is represented as ‘ cribbed’ in its ignorance.
 
 The fifth is the most honourable place in the figure, and here is
 occupied by a weak line. This looks, however, to the occupant of
-line 2, less honourable than itself, and is marked by the two attri-
-butes that are namned. Compare what is said on line 2.
+line 2, less honourable than itself, and is marked by the two attributes that are namned. Compare what is said on line 2.
 
 A strong line in the topmost place must represent, according to
 the scheme of the hexagram, one who uses force in the cause of
@@ -15065,7 +13583,6 @@ and the subjects of all the weak lines below are cared for as is best
 for them.
 
 
-HEX. 5, APPENDIX II. 273
 cies sean gare cele ee
 for the sky forms Hsii. The superior man, in
 accordance with this, eats and drinks, feasts and
@@ -15074,8 +13591,7 @@ employ him).
 
 
 1. ‘He is waiting in the (distant) border :’—he
-makes no movement to encounter rashly the diffi-
-culties (of the situation). ‘It will be advantageous
+makes no movement to encounter rashly the difficulties (of the situation). ‘It will be advantageous
 for him constantly to maintain (the purpose thus
 shown), in which case there will be no error :’—he
 will not fail to pursue that regular course.
@@ -15096,8 +13612,7 @@ accommodates himself (to the circumstances of the
 time), and hearkens to (its requirements).
 
 
-5. ‘The appliances of a feast, and the good for-
-tune through being firm and correct, are indicated
+5. ‘The appliances of a feast, and the good fortune through being firm and correct, are indicated
 by (the position in) the central and correct place.
 
 
@@ -15116,7 +13631,6 @@ has nothing more to do till it is called on, in the harmony of heaven
 [16] T
 
 
-274 THE APPENDIXES. SECT. I.
 ia Tee: ee EEE
 
 VI. (The trigram representing) heaven and (that
@@ -15136,8 +13650,7 @@ clear.
 2. ‘He is unequal to the contention; he retires
 and keeps concealed, stealthily withdrawing from
 it: —for him from his lower place to contend with
-(the stronger one) above, would be to (invite) cala-
-mity, as if he brought it with his hand to himself.
+(the stronger one) above, would be to (invite) calamity, as if he brought it with his hand to himself.
 
 
 3. ‘He confines himself to the support assigned
@@ -15154,11 +13667,9 @@ determination to wait, at a distance from danger, the proper time
 to act.
 
 The subject of line 2, which is undivided and in the centre,
-is thereby shown to be possessed of a large and generous for-
-bearance.
+is thereby shown to be possessed of a large and generous forbearance.
 
-The recognition of the circumstances of the time, and hearken-
-ing to its requirements, explain, in paragraph 4, ‘the retreat from
+The recognition of the circumstances of the time, and hearkening to its requirements, explain, in paragraph 4, ‘the retreat from
 the cavern,’ which is not here repeated from the Text. The line
 being weak and divided, its subject knows his own incompetency,
 and takes this prudent step.
@@ -15170,14 +13681,12 @@ ought to be. We are only surprised that cases of inconsistency in
 these explanations are not more numerous.
 
 
-HEX. 7. APPENDIX II. 275
 ne ee
 to him of old:’—(thus) following those above him,
 he will have good fortune.
 
 
-4. ‘He returns to (the study of Heaven’s) ordi-
-nances, changes (his wish to contend), and rests in
+4. ‘He returns to (the study of Heaven’s) ordinances, changes (his wish to contend), and rests in
 being firm and correct:’—he does not fail (in doing
 what is right).
 
@@ -15185,8 +13694,7 @@ what is right).
 this is shown by his holding the due mean and
 being in the correct place.
 
-6. ‘He receives the robe through his conten-
-tion: —but still he is not deserving of respect.
+6. ‘He receives the robe through his contention: —but still he is not deserving of respect.
 
 
 VII. (The trigram representing) the earth and in
@@ -15197,8 +13705,7 @@ them) the multitudes (of the hosts).
 
 
 1. ‘The host goes forth according to the rules
-(for) such a movement :’—if those rules be not ob-
-served, there will be evil.
+(for) such a movement :’—if those rules be not observed, there will be evil.
 
 
 VI. The symbolism here is different from that in the Text of
@@ -15208,13 +13715,11 @@ contention. The lesson as to the course of the superior man is a
 good one, but might with equal propriety be deduced from many
 other hexagrams.
 
-Hsiang An-shih (Sung dynasty) says that the first part of para-
-graph 2 is all to be taken as the language of the duke of Kau, the
+Hsiang An-shih (Sung dynasty) says that the first part of paragraph 2 is all to be taken as the language of the duke of Kau, the
 characters being varied; the rest is the remark of the writer of this
 treatise.
 
-It is observed that the returning to (the study of Heaven's) ordi-
-nances, and changing the wish to contend, in paragraph 4, are
+It is observed that the returning to (the study of Heaven's) ordinances, and changing the wish to contend, in paragraph 4, are
 not two things, but only one; ‘the ordinances (ming) meaning
 what is right in principle.’ The wish to contend was wrong in
 principle, and is now abandoned.
@@ -15226,10 +13731,7 @@ but the sash was merely an appendage of the robe.
 T 2
 
 
-276 THE APPENDIXES. SECT. I.
-
-
->. ‘He is in the midst of the host, and there will
+). ‘He is in the midst of the host, and there will
 be good fortune:’—he has received the favour of
 Heaven. ‘Theking has thrice conveyed to him the
 orders (of) his favour:’—(the king) cherishes the
@@ -15245,8 +13747,7 @@ SUCCESS.
 —there has been no failure in the regular course.
 
 
-5. ‘The oldest son leads the host :’—its move-
-ments are directed by him in accordance with his
+5. ‘The oldest son leads the host :’—its movements are directed by him in accordance with his
 position in the centre. ‘Younger men idly occupy
 their positions:’—the employment of such men is
 improper.
@@ -15265,8 +13766,7 @@ outside the people. Therefore if (a ruler) be able to nourish the
 people, he can get the multitudes (of his hosts).’ Is the meaning
 this,—that originally the people and soldiers are one body; that
 a portion of the people are taken out from among the mass, as
-occasion requires, to do the duty of soldiers; and that the nourish-
-ment and education of the people is the best way to have good
+occasion requires, to do the duty of soldiers; and that the nourishment and education of the people is the best way to have good
 soldiers ready for use on any emergency? Compare the saying
 of Confucius in Analects XIII, xxx.
 
@@ -15277,8 +13777,7 @@ way Thien here is equal to Thien wang, so frequent in the
 ‘Spring and Autumn,’ and meaning —‘King by the grace of
 
 
-HEX. 8 APPENDIX II. 277
- r—rctieiateliliaeiainnieseeanie ia
+(r—rctieiateliliaeiainnieseeanie ia
 
 VIII. (The trigram representing) the earth, and
 over it (that representing) water, form Pi. The
@@ -15293,8 +13792,7 @@ advantages.
 
 
 2. ‘The movement towards union and attachment
-proceeds from the inward (mind) :’—(the party con-
-cerned) does not fail in what is proper to himself.
+proceeds from the inward (mind) :’—(the party concerned) does not fail in what is proper to himself.
 
 
 3. ‘Union is sought with such as ought not to be
@@ -15307,8 +13805,7 @@ worthy object:’—he is following (the ruler) above
 him.
 
 
-5. ‘The good fortune belonging to the most illus-
-trious instance of seeking union and attachment’
+5. ‘The good fortune belonging to the most illustrious instance of seeking union and attachment’
 appears in the correct and central position (of the
 fifth line, undivided).
 
@@ -15330,9 +13827,6 @@ not to be placed in situations where the condition of others will
 depend on them.
 
 
-278 THE APPENDIXES. SECT. I.
-
-
 ‘his allowing the escape of those in front of him.’
 ‘That the people of his towns do not warn one
 another (to prevent such escape), shows how he, in
@@ -15340,8 +13834,7 @@ his high eminence, has made them pursue the due
 course.
 
 6. ‘Heseeks union and attachment without taking
-the first (step to such an end) :’—there is no possi-
-bility of a (good) issue.
+the first (step to such an end) :’—there is no possibility of a (good) issue.
 
 
 IX. (The trigram representing) the sky, and that
@@ -15383,7 +13876,6 @@ seem to be used, the one for the other.
 
 
 HEX. .
-9 APPENDIX II. 279
 
 
 a
@@ -15405,14 +13897,12 @@ rich resources.
 
 6. ‘ The rain has fallen and (the onward progress)
 is stayed:’—the power (denoted in the figure) has
-accumulated to the full. ‘If the superior man prose-
-cute his measures, there will be evil :’—he will find
+accumulated to the full. ‘If the superior man prosecute his measures, there will be evil :’—he will find
 himself obstructed.
 
 
 IX. The suitability of the symbolism here is made all to turn on
-the wind. ‘ Wind,’ says X@, ‘is simply the air, without solid sub-
-stance; it can restrain, but not for long.’ The wind moves in the
+the wind. ‘ Wind,’ says X@, ‘is simply the air, without solid substance; it can restrain, but not for long.’ The wind moves in the
 sky for a time, and then ceases. The process of thought from the
 symbol to the lesson is not easily traced. Is it meant to say that
 virtue manifesting itself outwardly—in the carriage and speech—is,
@@ -15423,8 +13913,7 @@ nation?
 
 Khang-3ze calls attention to the addition to the duke of Kau's
 explanation in the notice on line 2, that ‘it is in the central place,’
-adding that this explains how the subject of the line restrains him-
-self, and does not go beyond what is due from him.
+adding that this explains how the subject of the line restrains himself, and does not go beyond what is due from him.
 
 Only half of the symbolism in the Text of line 3 is taken up
 here. Line t, it is said, is far from line 4, the mauvais sujet of
@@ -15440,9 +13929,6 @@ Line g, being undivided, and occupying the most important place
 in the figure, according to the value usually attached to the lines, is
 
 
-280 THE APPENDIXES. SECT. I.
-
-
 X. (The trigram representing) the sky above, and
 below it (that representing the waters of) a marsh,
 form Li. The superior man, in accordance with
@@ -15450,8 +13936,7 @@ this, discriminates between high and low, and gives
 settlement to the aims of the people.
 
 
-1. ‘He treads his accustomed path and goes for-
-ward :’—singly and exclusively he carries out his
+1. ‘He treads his accustomed path and goes forward :’—singly and exclusively he carries out his
 (long-cherished) wishes.
 
 2. ‘A quiet and solitary man, to whom, being firm
@@ -15497,9 +13982,7 @@ in the occupancy of the topmost line :—this is great
 matter for congratulation.
 
 
-XI. (The trigrams for) heaven and earth in com-
-munication together form Thai. The (sage) sove-
-reign, in harmony with this, fashions and completes
+XI. (The trigrams for) heaven and earth in communication together form Thai. The (sage) sovereign, in harmony with this, fashions and completes
 (his regulations) after the courses of heaven and
 earth, and assists the application of the adaptations
 furnished by them,—in order to benefit the people.
@@ -15540,11 +14023,7 @@ I have pointed out on the Text would underlie the statement; and
 as evidently as there, what is said under line 6 is but a truism.
 
 
-282 THE APPENDIXES. SECT. I.
-
-
-his own rich resources :’—both he and his neigh-
-bours are out of their real (place where they are).
+his own rich resources :’—both he and his neighbours are out of their real (place where they are).
 ‘They have not received warning, but (come) in the
 sincerity (of their hearts) :'—this is what they have
 desired in the core of their hearts.
@@ -15552,8 +14031,7 @@ desired in the core of their hearts.
 
 5. ‘ By such a course there is happiness, and there
 will be great good fortune :'—(the subject of the
-line) employs the virtue proper to his central posi-
-tion to carry his wishes into effect.
+line) employs the virtue proper to his central position to carry his wishes into effect.
 
 
 6. ‘The city wall returned back into the moat’
@@ -15569,8 +14047,7 @@ him). There is no opportunity of conferring on him
 the glory of emolument.
 
 
-XI. It is difficult to translate the application of ‘the Great Sym-
-bolism’ here, so that it shall be intelligible to a reader. AAAang-3ze
+XI. It is difficult to translate the application of ‘the Great Symbolism’ here, so that it shall be intelligible to a reader. AAAang-3ze
 says:—‘A ruler should frame his laws and regulations so that the
 people may avail themselves of the seasons of heaven, and of the
 advantages afforded by the earth, assisting their transforming and
@@ -15580,8 +14057,7 @@ gives the law for sowing and planting; the breath of autumn,
 completing and solidifying all things, gives the law for ingathering
 and storing,’ &c.
 
-The subject of line 1 has ‘his will on what is external to him-
-self :’—he is bent on going forward.
+The subject of line 1 has ‘his will on what is external to himself :’—he is bent on going forward.
 
 0 Hsi explains what is said on paragraph 4, that the upper
 lines ‘are out of their real place where they are,’ or, literally, ‘ have
@@ -15590,7 +14066,6 @@ being weak lines, is below.’ The editors of the imperial edition
 prefer another explanation, on which I need not enter.
 
 
-HEX. 12, APPENDIX II. 283
 ae pm cote none
 
 1. ‘The good fortune through firm goodness,
@@ -15625,8 +14100,7 @@ it be prolonged ?
 
 XII. ‘The Great Symbolism’ here is sufficiently explained in the
 first Appendix. The application, however, is here again difficult,
-though we may try to find in it a particular instance of the inter-
-ruption of communication,—in great merit not meeting with its
+though we may try to find in it a particular instance of the interruption of communication,—in great merit not meeting with its
 reward,
 
 
@@ -15646,9 +14120,6 @@ or of the ruler, its subject gets his purpose carried out.
 
 The subject of the fifth line is the great man, the ruler in his
 right place. Hence he is successful, and in the last line, we see
-
-
-284 THE APPENDIXES. SECT. I.
 
 
 XIII. (The trigrams for) heaven and fire form
@@ -15679,8 +14150,7 @@ strait he is in, and returns to the rule of law.
 
 5. The first action of (the representative of) the
 union of men (here described) arises from his central
-position and straightforward character. ‘ The meet-
-ing secured by his great host’ intimates that the
+position and straightforward character. ‘ The meeting secured by his great host’ intimates that the
 opponents of it have been overcome.
 
 
@@ -15700,7 +14170,6 @@ perplexing.
 In line 1, the party just issuing from his gate has all the world
 
 
-HEX. 14. APPENDIX II. 285
 ek Ee =P NAMM 2) r= ai
 
 XIV. (The trigram for) heaven and (that of)
@@ -15731,8 +14200,7 @@ his wisdom discriminates clearly (what he ought to do).
 5. ‘ His sincerity is reciprocated byall the others :’—
 his sincerity serves to stir and call out what is in their
 minds. ‘The good fortune springing from a display
-of proper majesty’ shows how they might (other-
-wise) feel too easy, and make no preparation (to
+of proper majesty’ shows how they might (otherwise) feel too easy, and make no preparation (to
 serve him).
 
 
@@ -15758,7 +14226,6 @@ K4u.’ Of course the editors did not doubt Confucius’ authorship
 of all the Appendixes.
 
 
-286 THE APPENDIXES. SECT. I.
 A Sn eee ee
 
 6. ‘The good fortune attached to the topmost
@@ -15769,15 +14236,11 @@ XV. (The trigram for) the earth and (that of)
 a mountain in the midst of it form Khien. The
 superior man, in accordance with this, diminishes
 what is excessive (in himself), and increases where
-there is any defect, bringing about an equality, ac-
-
-
-cording to the nature of the case, in his treatment
+there is any defect, bringing about an equality, according to the nature of the case, in his treatment
 (of himself and others).
 
 
-1. ‘The superior man who adds humility to humi-
-lity’ is one who nourishes his (virtue) in lowliness.
+1. ‘The superior man who adds humility to humility’ is one who nourishes his (virtue) in lowliness.
 
 
 2. ‘The good fortune consequent on being firm
@@ -15813,29 +14276,21 @@ All the comment that is necessary on the symbolism of the
 several lines may be gathered from the comments on the Text.
 
 
-HEX. 16. APPENDIX II. 287
-
-
 6. ‘His humility has made itself recognised :’—
 (but) all his aims have not yet been attained. ‘He
-may employ the force of arms, (but only) in correct-
-ing (his own) towns and state.’
+may employ the force of arms, (but only) in correcting (his own) towns and state.’
 
 
 XVI. (The trigrams for) the earth and thunder
 issuing from it with its crashing noise form Yi.
-The ancient kings, in accordance with this, com-
-posed their music and did honour to virtue, pre-
-senting it especially and most grandly to God,
+The ancient kings, in accordance with this, composed their music and did honour to virtue, presenting it especially and most grandly to God,
 
 
 XV. The earth is low, and in the midst of it is a high mountain;
 but I fail to see how this can symbolise humility. Nor does Regis’
 representation of it much improve the case:—‘Monte’ (ait glossa)
-‘nihil est altius in terra, quae est summe abjecta. At cum is de-
-clivis sit, imago esse potest humilis modestiae.’ I find the following
-note on the paragraph in my copy of the ‘Daily Lessons’ (see Pre-
-face) :—‘ The five yin lines above and below symbolise the earth;
+‘nihil est altius in terra, quae est summe abjecta. At cum is declivis sit, imago esse potest humilis modestiae.’ I find the following
+note on the paragraph in my copy of the ‘Daily Lessons’ (see Preface) :—‘ The five yin lines above and below symbolise the earth;
 the one yang line in the centre is “the mountain in the midst of
 the earth.” The many yin lines represent men’s desires; the
 one yang line, heavenly principle. The superior man, looking at
@@ -15847,8 +14302,7 @@ will do what is right.’ This is certainly very ingenious, but one
 shrinks from accepting a view that is not based on the component
 trigrams.
 
-Under line 1, ‘nourishes his (virtue)’ is, literally, ‘ pastures him-
-self.’ He is all humility. That makes him what he is.
+Under line 1, ‘nourishes his (virtue)’ is, literally, ‘ pastures himself.’ He is all humility. That makes him what he is.
 
 ‘Under line 4, ‘the (proper) rule’ is the rule proper for the subject
 of the line in his circumstances so near the place of the ruler.
@@ -15861,9 +14315,6 @@ Kt Hst bases all that is said under line 6 on its being a weak
 line; so that the humble ruler is unable even at the close of the
 action described in the figure to accomplish all his objects, and
 must limit his field even in appealing to arms.
-
-
-288 THE APPENDIXES. SECT. 1.
 
 
 when they associated with Him (at the service)
@@ -15895,9 +14346,7 @@ he is in the central position, (and its memories of the
 past) have not yet perished.
 
 6. ‘With darkened mind devoted to the harmony
-and satisfaction (of the time), as shown in the top-
-most (line) :—how can one in such a condition con-
-tinue long ?
+and satisfaction (of the time), as shown in the topmost (line) :—how can one in such a condition continue long ?
 
 
 XVI. ‘The Great Symbolism’ here is more obscure than usual. A
@@ -15911,9 +14360,6 @@ can trace the author’s idea but imperfectly. To say that the
 thunder crash suggested the use of music, as some critics do, is
 
 
-HEX. 17. APPENDIX II. 289
-
-
 XVII. (The trigram for the waters of) a marsh
 and (that for) thunder (hidden) in the midst of it
 form Sui. The superior man in accordance with
@@ -15925,23 +14371,20 @@ house) and rests.
 
 1. ‘He is changing the object of his pursuit :’—
 but if he follow what is correct, there will be good
-fortune. ‘He goes beyond (his own) gate to find asso-
-ciates :’—he will not fail (in the method he pursues).
+fortune. ‘He goes beyond (his own) gate to find associates :’—he will not fail (in the method he pursues).
 
 
 2. ‘He cleaves to the little boy :'-—he cannot be
 with the two at the same time.
 
 
-3. ‘He cleaves to the man of age and experi-
-ence: —by the decision of his will, he abandons
+3. ‘He cleaves to the man of age and experience: —by the decision of his will, he abandons
 (the youth) below.
 
 
 4. ‘He is followed and obtains adherents :’—
 according to the idea (of the hexagram), this is evil.
-‘He is sincere in his course :'—showing his intelli-
-gence, and leading to achievement.
+‘He is sincere in his course :'—showing his intelligence, and leading to achievement.
 
 
 5. ‘ He is sincere in fostering what is excellent :’'—
@@ -15949,8 +14392,7 @@ his position is correct and in the centre.
 
 
 absurd. The use of music at sacrifices, however, as assisting the
-union produced by those services between God and his wor-
-shippers, and the present and past generations, agrees with the
+union produced by those services between God and his worshippers, and the present and past generations, agrees with the
 general idea of the figure. I must suppose that the writer had in
 mind the sacrifices instituted by the duke of A4u, as related in the
 Hsiao King, chap. ix.
@@ -15971,14 +14413,10 @@ him.
 [16] U
 
 
-290 THE APPENDIXES. SECT. I.
-
-
 —_— le Ee eee
 
 6. ‘The sincerity is firmly held and clung to, as
-shown in the topmost line :'—(the idea of the hexa-
-gram) has reached its extreme development.
+shown in the topmost line :'—(the idea of the hexagram) has reached its extreme development.
 
 
 XVIII. (The trigram for) a mountain, and below
@@ -16011,8 +14449,7 @@ the subject of line two) with all his virtue.
 
 XVII. An explosion of thunder amidst the waters of a marsh
 would be succeeded by a tremulous agitation of those waters; so
-far there would be a following of the movement of the lower tri-
-gram by the upper. Then in the application of the symbolism we
+far there would be a following of the movement of the lower trigram by the upper. Then in the application of the symbolism we
 have an illustration of action following the time, that is, according
 to the time ; which is a common use of the Chinese character Sui.
 Neither the symbolism, however, nor its application adds much to
@@ -16027,7 +14464,6 @@ notes on the Text. Some peculiarities in their style (in Chinese)
 are owing to the bonds of the rhyme.
 
 
-HEX. 19. APPENDIX II. 291
 ri aoa Ri rere
 
 6. ‘ He does not serve either king or feudal lord :'—
@@ -16036,23 +14472,19 @@ but his aim may be a model (to others).
 
 XIX. (The trigram for) the waters of a marsh
 and that for the earth above it form Lin. The
-superior man, in accordance with this, has his pur-
-poses of instruction that are inexhaustible, and
+superior man, in accordance with this, has his purposes of instruction that are inexhaustible, and
 nourishes and supports the people without limit.
 
 
-1. ‘The good fortune through the firm correct-
-ness of (the subject of the first line) advancing in
+1. ‘The good fortune through the firm correctness of (the subject of the first line) advancing in
 company (with the subject of the second)’ is due to
 his will being set on doing what is right.
 
 
-2. ‘The good fortune and every possible advan-
-tage attending the advance (of the subject of the
+2. ‘The good fortune and every possible advantage attending the advance (of the subject of the
 second line), in company (with the subject of the
 first),’ arises from the fact that those (to whom the
-advance is made) are not yet obedient to the ordi-
-nances (of Heaven).
+advance is made) are not yet obedient to the ordinances (of Heaven).
 
 
 3. ‘ He (shows himself) well pleased to advance :’—
@@ -16082,14 +14514,10 @@ are wrong.
 U2
 
 
-292 THE APPENDIXES. SECT. I.
-
-
 advance in the highest mode’ is due to the (various)
 appropriateness of the position.
 
-5. ‘What befits the great ruler’ means the pur-
-suing the course of the due mean.
+5. ‘What befits the great ruler’ means the pursuing the course of the due mean.
 
 
 6. ‘ The good fortune consequent on the advance
@@ -16113,8 +14541,7 @@ XIX. ‘The earth descending or approaching the marsh’ is,
 according to Af Hsi, symbolical of the approach of superiors to
 the inferior people, and then the two predicates about the superior
 man are descriptive of him in that approach, the instruction being
-symbolised by Tui, and the supporting by Khwan. The Khang-
-hsi editors, wishing to defend the explanation of lin by ‘ great,’ in
+symbolised by Tui, and the supporting by Khwan. The Khanghsi editors, wishing to defend the explanation of lin by ‘ great,’ in
 Appendix VI, which they ascribe to Confucius, say :—‘ Lin means
 “great.” The earth above the waters of the marsh shows how full
 those waters are, rising to the level of the earth, and thus expressing
@@ -16135,9 +14562,6 @@ in the translation is that of AG Hsi. It is difficult to hold the
 balance between them. The newer vicw, perhaps, is the preferable.
 
 
-HEX, 21, APPENDIX II. 293
-
-
 2. ‘The firm correctness of a woman, in peeping
 
 
@@ -16155,8 +14579,7 @@ in the path (to be pursued).
 
 
 5. ‘He contemplates his own life(-course) :’—he
-should (for this purpose) contemplate (the condi-
-tion of) the people.
+should (for this purpose) contemplate (the condition of) the people.
 
 
 6. ‘He contemplates his own character :’—he
@@ -16192,18 +14615,15 @@ Line 3. ‘He will not err in the path to be pursued ;’—advancing
 or receding as is best.
 
 Line 4. ‘ The glory of the kingdom’ is the virtue of the sovereign
-and the character of his administration. With the sentiment com-
-pare Mencius, VII, i, chap. 21. 2.
+and the character of his administration. With the sentiment compare Mencius, VII, i, chap. 21. 2.
 
 
-294 THE APPENDIXES. SECT. I.
 DS See EE
 to bite off the nose:’—(the subject of the line) is
 mounted on the strong (first line).
 
 
-3. ‘He meets with what is disagreeable and hurt-
-ful :\—his position is not the proper one for him.
+3. ‘He meets with what is disagreeable and hurtful :\—his position is not the proper one for him.
 
 
 4. ‘It will be advantageous to him to realise the
@@ -16214,8 +14634,7 @@ sufficiently displayed.
 
 5. ‘Let him be firm and correct, realising the peril
 (of his position), and there will be no error :’—he
-will possess every quality appropriate (to his posi-
-tion and task).
+will possess every quality appropriate (to his position and task).
 
 
 6. ‘He wears the cangue and is deprived of his
@@ -16232,9 +14651,7 @@ criminal litigation.
 
 XXI. Khang-jze says that thunder and lightning are always
 found together, and hence their trigrams go together to give the
-idea of union intended in Shih Ho. The one trigram symbol-
-ising majesty and the other brightness or intelligence, the applica-
-tion of the hexagram here is easier and more natural than in many
+idea of union intended in Shih Ho. The one trigram symbolising majesty and the other brightness or intelligence, the application of the hexagram here is easier and more natural than in many
 other cases.
 
 
@@ -16249,8 +14666,6 @@ is required, as is denoted by the central position of the line.’
 is still something for him to do :—he has to realise the difficulty
 of his position and be firm.
 
-
-HEX. 22. APPENDIX II. 295
 
 a Re es SOE SS SRR: 0S I
 1. ‘He can discard a carriage and walk on foot :’—-
@@ -16281,8 +14696,7 @@ the end have no grudge against him.
 divided,’ affords occasion for joy.
 
 
-6. ‘ The freedom from error attached to (the sub-
-ject of) the topmost line, with no ornament but the
+6. ‘ The freedom from error attached to (the subject of) the topmost line, with no ornament but the
 (simple white),’ shows how he has attained his aim.
 
 
@@ -16290,12 +14704,10 @@ XXII. ‘A mountain,’ says Khang-jze, ‘is a place where we find
 grass, trees, and a hundred other things. A fire burning below it
 throws up its light, and brings them all out in beauty; and this
 gives the idea of ornament, or being ornamented. The various
-processes of government are small matters, and elegance and orna-
-ment help their course ; but great matters of judgment demand
+processes of government are small matters, and elegance and ornament help their course ; but great matters of judgment demand
 the simple, unornamented truth.’
 
-The subject of line 1 does not care for and does not need orna-
-ment. He will walk in the way of righteousness without it.
+The subject of line 1 does not care for and does not need ornament. He will walk in the way of righteousness without it.
 
 Paragraph 3 tells us that it is not ornament, but correct firmness,
 which secures the respect of others.
@@ -16307,9 +14719,6 @@ and object of the subject of 3.
 
 The Khang-hsi editors say :—‘ Line 5 occupies the place of
 honour, and yet prefers simplicity and exalts economy ; its subject
-
-
-296 THE APPENDIXES. SECT. I.
 
 
 XXIII. (The trigrams representing) the earth,
@@ -16343,8 +14752,7 @@ is very near at hand.
 the inmates of the palace :’—in the end there will
 be no grudge against him.
 
-6. ‘The superior man finds himself in a car-
-riage ;'—he is carried along by the people. ‘The
+6. ‘The superior man finds himself in a carriage ;'—he is carried along by the people. ‘The
 small men (by their course) overthrow their own
 dwellings :’—they can never again be of use to
 them.
@@ -16364,9 +14772,6 @@ XXIII. ‘A mountain,’ says Yi Fan (towards the end of the
 
 Han dynasty), ‘stands out high above the earth; here it appears
 as lying on the earth :—plainly it has been overturned.’ On the
-
-
-HEX. 24. APPENDIX II. 297
 
 
 XXIV. (The trigram representing) the earth
@@ -16394,8 +14799,7 @@ line) below.
 3. Notwithstanding ‘the perilous position of him
 
 
-other hand, Lift MQ (early in the Sung dynasty) says :—‘ A moun-
-tain has the earth for its foundation. If the earth be thick, the
+other hand, Lift MQ (early in the Sung dynasty) says :—‘ A mountain has the earth for its foundation. If the earth be thick, the
 mountain preserves its height. So it is with the sovereign and
 people.’ The application might be deduced from either view.
 
@@ -16403,8 +14807,7 @@ It is hard to tell whether ‘the lowest’ in paragraph 1 should be
 supplemented as I have done. If not, then the explanation is a
 mere truism.
 
-Khang-3ze is precise and decisive in supplementing the explana-
-tion of paragraph 2 as in the translation.
+Khang-3ze is precise and decisive in supplementing the explanation of paragraph 2 as in the translation.
 
 See on the Text of lines 3 and 4.
 
@@ -16422,15 +14825,11 @@ men have done their worst, and there is an end of their atlempts—
 for a time.
 
 
-298 THE APPENDIXES. SECT. I.
-
-
 who has made many returns,’ there will be no error
 through (his aiming after righteousness).
 
 
-4. ‘He moves right in the centre (among those re-
-presented by the other divided lines), and yet returns
+4. ‘He moves right in the centre (among those represented by the other divided lines), and yet returns
 alone :’'—his object is to pursue the (proper) path.
 
 
@@ -16456,8 +14855,7 @@ of the new year, when all the Chinese people are for a time
 dissolved in festivity and joy.
 
 Canon McClatchie translates here :—‘ The ancient kings on this
-culminating day (i.e. the seventh) closed their gates,’ &c. ‘Cul-
-minating day’ does not give us the meaning so well as ‘ the day of
+culminating day (i.e. the seventh) closed their gates,’ &c. ‘Culminating day’ does not give us the meaning so well as ‘ the day of
 the solstice ;’ but where does the translator find the explanatory
 ‘the seventh,’ which he puts in parentheses? In my own ‘salad’
 days of Chinese knowledge I fancied there might be in paragraph 1
@@ -16475,7 +14873,6 @@ The other paragraphs present nothing for remark beyond what
 has been said on the Text of the duke of Kau.
 
 
-HEX, 25. APPENDIX II. 299
 Sarre evasion — a
 
 XXV. The thunder rolls all under the sky, and
@@ -16513,8 +14910,7 @@ from action (when the time for it is) exhausted.
 
 XXV. The composition of the hexagram is given here in a
 manner different from what we have met with in the account of
-any of the preceding figures; and as the text is not called in ques-
-tion, I have made the best I could in the translation of the two
+any of the preceding figures; and as the text is not called in question, I have made the best I could in the translation of the two
 commencing clauses. The application of the symbolism to what
 the ancient kings did is also hard to comprehend.
 
@@ -16534,9 +14930,6 @@ calamity to Heaven.’
 Paragraph 5. ‘Sickness ought not to happen to one who
 
 
-300 THE APPENDIXES. SECT. I.
-
-
 XXVI. (The trigram representing) a mountain,
 and in the midst of it that (representing) heaven,
 form TA KA. The superior man, in accordance
@@ -16545,8 +14938,7 @@ deeds of former men, to subserve the accumulation
 of his virtue.
 
 
-1. ‘He is in a position of peril; it will be advan-
-tageous for him to stop his advance :’—he should not
+1. ‘He is in a position of peril; it will be advantageous for him to stop his advance :’—he should not
 rashly expose himself to calamity.
 
 
@@ -16566,16 +14958,14 @@ for joy.
 
 
 5. ‘The good fortune indicated by the fifth line,
-divided,’ shows that there is occasion for congratu-
-lation.
+divided,’ shows that there is occasion for congratulation.
 
 
 6. ‘In command of the firmament of heaven :’—the
 way is grandly open for movement.
 
 
-is perfectly sincere. If it do happen, he must refer it to some inex-
-plicable will of Heaven. As that has afflicted, so it will cure.’
+is perfectly sincere. If it do happen, he must refer it to some inexplicable will of Heaven. As that has afflicted, so it will cure.’
 Paragraph 6. ‘ When a thing is over and done, submission and
 
 
@@ -16585,11 +14975,7 @@ action.’
 
 XXVI. I have quoted, in the Introduction, p. 37, XQ Hsi’s
 remark on the Great Symbolism here. AA&ng-3ze says :—‘ Heaven
-is the greatest of all things, and its being in the midst of a moun-
-tain gives us the idea of a very large accumulation. And so great
-
-
-HEX, 24. APPENDIX II. 301
+is the greatest of all things, and its being in the midst of a mountain gives us the idea of a very large accumulation. And so great
 
 
 XXVII. (The trigram representing) a mountain
@@ -16613,8 +14999,7 @@ movements his proper associates.
 his course is greatly opposed (to what is right).
 
 
-4. ‘The good fortune attached to looking down-
-wards for (the power to) nourish,’ shows how brilliant
+4. ‘The good fortune attached to looking downwards for (the power to) nourish,’ shows how brilliant
 will be the diffusion (of that power) from (the subject
 of the line’s) superior position.
 
@@ -16626,25 +15011,19 @@ following (the subject of the line) above.
 6. ‘The good fortune, notwithstanding the peril
 
 
-is the labour of the superior man in learning, acquiring, and remem-
-bering, to accumulate his virtue.’
+is the labour of the superior man in learning, acquiring, and remembering, to accumulate his virtue.’
 
 
-Paragraph 1. The ‘calamity’ is that of opposition from, or re-
-pression by, the subject of line 4.
+Paragraph 1. The ‘calamity’ is that of opposition from, or repression by, the subject of line 4.
 
 Paragraph 3. When the action of the hexagram has reached
 line 6, its work is done. The subject of 6 will no longer exercise
 repression, but join with that of 3, assisting him to advance.
 
 Paragraph 4. The subject of line 4 has indeed occasion for joy.
-Without the use of punishment for crimes committed, by precau-
-tion anticipating them, without any trouble he has repressed evil.
+Without the use of punishment for crimes committed, by precaution anticipating them, without any trouble he has repressed evil.
 The ‘joy’ gives place in paragraph § to ‘ congratulation,’ the people
 being all interested in the action of the ruler.
-
-
-302 THE APPENDIXES. SECT. I.
 
 
 —_———
@@ -16654,8 +15033,7 @@ of his position, of him from whom comes the
 nourishing, affords great cause for congratulation.
 
 
-XXVIII. (The trigram representing) trees hid-
-den beneath that for the waters of a marsh forms Ta
+XXVIII. (The trigram representing) trees hidden beneath that for the waters of a marsh forms Ta
 Kwo. The superior man, in accordance with this,
 stands up alone and has no fear, and keeps retired
 from the world without regret.
@@ -16663,8 +15041,7 @@ from the world without regret.
 
 ‘He places mats of the white m4) grass under
 Binks set on the ground :’—he feels his weakness
-and his being in the lowest place, (and uses extraor-
-dinary care).
+and his being in the lowest place, (and uses extraordinary care).
 
 
 2. ‘An old husband and a young wife :’—such
@@ -16685,8 +15062,7 @@ bend towards what is below.
 how can this secure its long continuance? ‘An old
 
 
-XXVII. I do not think that the Great Symbolism here is any-
-thing but that of a thunderstorm, dispersing the oppression that
+XXVII. I do not think that the Great Symbolism here is anything but that of a thunderstorm, dispersing the oppression that
 hangs over nature, and followed by genial airs, and the reviving of
 all vegetation. But there is nothing analogous to the thunder in
 the application. ‘Words,’ it is said, ‘nourish virtue; food and
@@ -16703,21 +15079,17 @@ The other paragraphs are sufficiently illustrated in the notes on
 the Text,
 
 
-HEX, 29. APPENDIX II, 303
 RS neal 3S I
 wife and a young husband :’—this also is a thing to
 be ashamed of.
 
 
-6. ‘Evil follows wading with (extraordinary) bold-
-ness (through the stream) :’—but (the act) affords no
+6. ‘Evil follows wading with (extraordinary) boldness (through the stream) :’—but (the act) affords no
 ground for blame.
 
 
 XXIX. (The representation of) water flowing on
-continuously forms the repeated Khan. The supe-
-rior man, in accordance with this, maintains con-
-stantly the virtue (of his heart) and (the integrity of)
+continuously forms the repeated Khan. The superior man, in accordance with this, maintains constantly the virtue (of his heart) and (the integrity of)
 his conduct, and practises the business of instruction.
 
 
@@ -16758,11 +15130,9 @@ marry an old woman? There will be no children ;—it can only be
 from some mercenary object.
 
 
-304 THE APPENDIXES. SECT. I.
 i i
 
-4. ‘(Nothing but) a bottle of spirits and a sub-
-sidiary basket of rice:’ (these describe) the meeting
+4. ‘(Nothing but) a bottle of spirits and a subsidiary basket of rice:’ (these describe) the meeting
 at this point of (those who are represented by) the
 strong and weak lines.
 
@@ -16786,8 +15156,7 @@ diffuses its brightness over the four quarters (of the
 land).
 
 
-1. ‘The reverent attention directed to his con-
-fused steps’ is the way by which error is avoided.
+1. ‘The reverent attention directed to his confused steps’ is the way by which error is avoided.
 
 
 2. ‘The great good fortune (from the subject of
@@ -16819,7 +15188,6 @@ Those represented in line 4 by the strong and weak lines are
 the ruler and his minister.
 
 
-HEX. 31, APPENDIX II. 305
 aa eer ie ee
 
 
@@ -16827,8 +15195,7 @@ divided,’ is due to its occupying the place of a king
 Or a prince.
 
 
-6. “The king employs him in his punitive expedi-
-tions :'—the object is to bring the regions to a
+6. “The king employs him in his punitive expeditions :'—the object is to bring the regions to a
 correct state.
 
 
@@ -16860,10 +15227,8 @@ low.
 4. ‘Firm correctness will lead to good fortune,
 
 
-XXX. In the Great Symbolism Li is used in the sense of bright-
-ness. There was no occasion to refer to its other meaning. ‘The
-great man’ rather confirms the interpretation of the ‘double bright-
-ness’ in the treatise on the Thwan as indicating the ruler.
+XXX. In the Great Symbolism Li is used in the sense of brightness. There was no occasion to refer to its other meaning. ‘The
+great man’ rather confirms the interpretation of the ‘double brightness’ in the treatise on the Thwan as indicating the ruler.
 
 
 Paragraph 2. As yellow is a ‘correct’ colour, so is the due
@@ -16878,9 +15243,6 @@ part of the symbolism of the line, which is not given here.
 
 
 [16] Xx
-
-
-306 THE APPENDIXES. SECT. Il.
 
 
 and prevent all occasion for repentance :’—there has
@@ -16915,8 +15277,7 @@ Paragraph 1. What is beyond one’s self is represented by line 4,
 a proper correlate of 1. There is the desire to influence; but it is
 ineffectively exhibited.
 
-Paragraph 2. ‘Compliance (with the circumstances of his con-
-dition and place)’ is merely another way of ‘being firm and
+Paragraph 2. ‘Compliance (with the circumstances of his condition and place)’ is merely another way of ‘being firm and
 correct.’
 
 Paragraph 3. The language, ‘ What he holds in his grasp is low,’
@@ -16928,14 +15289,9 @@ out. ‘Low’ is to be understood in the sense of ‘ mean.’
 Paragraph 4. The ‘being firm and correct’ appears here as
 equivalent to the want of ‘a selfish wish to influence.’
 
-Paragraph 5. The triviality of the aim explains the ineffective-
-ness of the movement, but not its giving no occasion for repent-
-ance. That the mei which are moved are behind and above
+Paragraph 5. The triviality of the aim explains the ineffectiveness of the movement, but not its giving no occasion for repentance. That the mei which are moved are behind and above
 the region of the heart seems too mechanical and trivial an
 explanation.
-
-
-HEX. 32. APPENDIX II. 307
 
 
 a rn aR = me renter
@@ -16957,16 +15313,14 @@ subject of the second line, undivided, disappears :’—
 he can abide long in the due mean.
 
 
-3. ‘He does not continuously maintain his vir-
-tue :—nowhere will he be borne with.
+3. ‘He does not continuously maintain his virtue :—nowhere will he be borne with.
 
 
 4. (Going) for long to what is not his proper
 place, how can he get game?
 
 
-5. ‘Such firm correctness in a wife will be fortu-
-nate :'—it is hers to the end of life to follow with
+5. ‘Such firm correctness in a wife will be fortunate :'—it is hers to the end of life to follow with
 an unchanged mind. The husband must decide
 what is right, and lay down the rule accordingly :—
 for him to follow (like) a wife is evil.
@@ -16993,9 +15347,6 @@ Paragraph 3. The Khang-hst editors make the application here=
 ‘nowhere can he bear (to remain).’
 
 X 2
-
-
-308 THE APPENDIXES. SECT. II.
 
 
 XXXIII. (The trigram representing) the sky
@@ -17040,15 +15391,13 @@ what is right in each particular case.
 
 
 XXXIII. AQ Hsi says :—‘ The sky is illimitable ; a mountain is
-high, but has its limits; the union of these is an emblem of re-
-tiring.’ I do not understand such embleming. AAang-3ze says :—
+high, but has its limits; the union of these is an emblem of retiring.’ I do not understand such embleming. AAang-3ze says :—
 ‘ Below the sky is a mountain. The mountain rises up below the
 sky, and its height is arrested, while the sky goes up higher and
 higher, till they come to be apart from each other. In this we
 have an emblem of retiring and avoiding.’ We feel somewhat as
 
 
-HEX. 34. APPENDIX II. 509
 SN SS
 
 XXXIV. (The trigram representing) heaven
@@ -17081,8 +15430,7 @@ he is not in his appropriate place.
 
 6. ‘He is unable either to retreat or to advance :'—
 this is owing to his want of care: ‘If he realise the
-difficulty (of his position), there will be good for-
-tune :'—his error will not be prolonged.
+difficulty (of his position), there will be good fortune :'—his error will not be prolonged.
 
 
 if there were a meaning in this; but, as in many other cases, both
@@ -17103,9 +15451,6 @@ Great Symbolism I can well believe; but the analogy between
 the natural and the moral and spiritual worlds in passing from the
 phenomenon of thunder to this truth is a thing to be felt, and that
 can hardly be described.
-
-
-310 THE APPENDIXES. SECT. II.
 
 
 XXXV. (The trigram representing) the earth
@@ -17137,10 +15482,7 @@ peril :'—his place is not that appropriate for him.
 or succeeds :’'—his movement in advance will afford
 ground for congratulation.
 
-6. ‘He uses his horns only to punish (the rebel-
-
-
-lious people of) his city :'—his course of procedure
+6. ‘He uses his horns only to punish (the rebellious people of) his city :'—his course of procedure
 is not yet brilliant.
 
 
@@ -17159,9 +15501,6 @@ simply~because an odd place ought to be filled by a strong line.
 
 XXXV. The sun rising above the earth, and then travelling up
 to his meridian height, readily suggests the idea of advancing. On
-
-
-HEX, 36. APPENDIX II. 311
 
 
 XXXVI. (The trigram representing) the earth
@@ -17209,16 +15548,12 @@ his correct course would have been to cease to advance, and retire
 from the office in which he was not allowed to carry out his
 principles.
 
-There is nothing said on line 2 to explain particularly the sym-
-bolism of ‘the grandmother’ in the Text.
+There is nothing said on line 2 to explain particularly the symbolism of ‘the grandmother’ in the Text.
 
 ‘The course of procedure’ in paragraph 6 has still an element
 of force in it, which is more than ‘the firm correctness’ that was
 to king W4n the ideal character of a feudal lord, and therefore his
 light is not yet that of the full-orbed sun.
-
-
-312 THE APPENDIXES. SECT. II.
 
 
 of the kingdom. ‘His future shall be to go into
@@ -17245,10 +15580,7 @@ operating with humility.
 3. When ‘the members of the household are
 treated with stern severity, there has been no
 (great) failure (in the regulation of the family).
-When ‘wife and children are smirking and chat-
-
-
-tering,’ the (proper) economy of the family has been
+When ‘wife and children are smirking and chattering,’ the (proper) economy of the family has been
 lost.
 
 
@@ -17259,9 +15591,7 @@ XXXVI. The application of the Great Symbolism here is in
 itself sufficiently natural ; but this meaning of the hexagram hardly
 appears in the text, till we come to the sixth line.
 
-Paragraph 1. ‘He thinks it right not to eat ;’—he does not pur-
-posely fast; but when he has nothing to eat, he does not com-
-plain. He thinks it right that it should be so in the case.
+Paragraph 1. ‘He thinks it right not to eat ;’—he does not purposely fast; but when he has nothing to eat, he does not complain. He thinks it right that it should be so in the case.
 
 Paragraph 2. ‘The proper fashion of acting’ is suggested by
 the weak line’s being in the central place.
@@ -17269,12 +15599,8 @@ the weak line’s being in the central place.
 Paragraph 3. ‘The great achievement is accomplished ;’ but
 such achievement was not what prompted to action.
 
-Paragraph 4. ‘The idea in his inner mind’ is the idea of with-
-drawing from the position and escaping; but the meaning is
+Paragraph 4. ‘The idea in his inner mind’ is the idea of withdrawing from the position and escaping; but the meaning is
 obscure. See on the Text.
-
-
-HEX. 37, APPENDIX. II. 313
 
 
 good fortune :’—this is due to the docility (belonging
@@ -17297,8 +15623,7 @@ the true character.
 
 
 XXXVII. The Symbolism here is certainly far-fetched. ‘As
-wind,’ it is said, ‘comes first from fire, so does transforming influ-
-ence emanate from the family.’ But the subject of the hexagram
+wind,’ it is said, ‘comes first from fire, so does transforming influence emanate from the family.’ But the subject of the hexagram
 is the regulation and not the influence of the family. Then the
 application is good for the superior man’s cultivation of himself;
 
@@ -17317,8 +15642,7 @@ pliant flexibility.
 
 Yii Yen (Yiian dynasty) ingeniously cbserves on paragraph 4
 that the riches of a family are not to be sought in its wealth, but
-in the affection and harmony of its members. Where these pre-
-vail, the family is not likely to be poor, and whatever it has will be
+in the affection and harmony of its members. Where these prevail, the family is not likely to be poor, and whatever it has will be
 well preserved.
 
 The mention ‘ of mutual love’ is unusual in Chinese writings,
@@ -17328,14 +15652,9 @@ who is the pattern for the family.’ But however admirable the
 sentiment is, it comes from the mind of the writer, and is not
 drawn from the Text.
 
-Paragraph 6. It is said on this, that the majesty is not design-
-edly assuined or put on; but the effect of the character remoulded
-and perfected. The words of Mencius are aptly quoted in illus-
-tration of the lesson :—‘ Ifa man himself do not walk in the (right)
+Paragraph 6. It is said on this, that the majesty is not designedly assuined or put on; but the effect of the character remoulded
+and perfected. The words of Mencius are aptly quoted in illustration of the lesson :—‘ Ifa man himself do not walk in the (right)
 path, it will not be walked in (even) by his wife and children.’
-
-
-314 THE APPENDIXES. SECT. II.
 
 
 X XXVIII. (The trigram representing) fire above,
@@ -17350,9 +15669,7 @@ with them) :’—(he does so), to avoid the evil of their
 condemnation.
 
 
-2. ‘He happens to meet with his lord in a bye-
-passage:’'—but he has not deviated (for this meet-
-ing) from the (proper) course.
+2. ‘He happens to meet with his lord in a byepassage:’'—but he has not deviated (for this meeting) from the (proper) course.
 
 
 3. ‘We see his carriage dragged back:’—this is
@@ -17389,12 +15706,8 @@ The various paragraphs seem to need no illustration beyond
 what may be found in the notes on the Text.
 
 
-HEX. 39. APPENDIX II. 315
-
-
 XXXIX. (The trigram representing) a mountain,
-and above it that for water, form Kien. The supe-
-rior man, in accordance with this, turns round (and
+and above it that for water, form Kien. The superior man, in accordance with this, turns round (and
 examines) himself, and cultivates his virtue.
 
 
@@ -17403,17 +15716,13 @@ while remaining stationary will afford ground for
 praise :'—the proper course is to wait.
 
 
-2. ‘The minister of the king struggles with diff-
-
-
-culty on difficulty :"—in the end no blame will be
+2. ‘The minister of the king struggles with diffculty on difficulty :"—in the end no blame will be
 attached to him.
 
 
 3. ‘He advances, (but only) to (greater) difficulty;
 he remains stationary, and returns to his former
-associates :’—they, (represented in) the inner (tri-
-gram), rejoice in him.
+associates :’—they, (represented in) the inner (trigram), rejoice in him.
 
 4. ‘To advance will (only be to) encounter
 (greater) difficulties; he remains stationary, and
@@ -17442,13 +15751,8 @@ meaning out of it, however, in the following way :—‘We have here
 a steep and difficult mountain, and again on the top of that there
 
 
-316 THE APPENDIXES. SECT, II.
-
-
 XL. (The trigram representing) thunder and that
-for rain, with these phenomena in a state of mani-
-festation, form Kieh. The superior man, in accord-
-ance with this, forgives errors, and deals gently with
+for rain, with these phenomena in a state of manifestation, form Kieh. The superior man, in accordance with this, forgives errors, and deals gently with
 crimes.
 
 
@@ -17485,8 +15789,7 @@ his desire, in order to stimulate others to loyal devotedness.’
 
 On paragraph 3, Khung Ying-ta says :—‘ Of the three lines of
 the lower trigram only the third is yang, above the two others
-which are of the yin nature. They cling to it, and are repre-
-sented as if rejoicing in it.
+which are of the yin nature. They cling to it, and are represented as if rejoicing in it.
 
 The view given of paragraph 4 is that of the Khang-hsi editors.
 
@@ -17498,7 +15801,6 @@ SQ Shih (a. p. 1036-1101) remarks on paragraph 6 that by ‘the
 inside,’ and ‘ the noble,’ we are to understand the subject of line 5.
 
 
-HEX, 41. APPENDIX II. 317
 eee ee
 and of the third and first) are all inappropriate to
 them.
@@ -17520,8 +15822,7 @@ his wrath and represses his desires.
 1. ‘He suspends his own affairs and hurries away
 
 
-(to help the subject of the fourth line) :'-—the (sub-
-ject of that) upper (line) mingles his wishes with his.
+(to help the subject of the fourth line) :'-—the (subject of that) upper (line) mingles his wishes with his.
 
 
 XL. It is a common saying that thunder and rain clear the
@@ -17552,9 +15853,6 @@ evil men, they retire of themselves, or strive to conform to his
 wishes.
 
 
-318 TIE APPENDIXES. SECT. IJ.
-
-
 2. ‘It will be advantageous for (the subject of)
 the second line, undivided, to maintain his firm
 correctness :'-—his central position gives its character
@@ -17580,8 +15878,7 @@ to bedew the hill above it, and thus increase its verdure; what is
 taken from the marsh gives increase to the hill.’ This is very
 far-fetched. In the application again the superior man acts only
 on himself, and for himself ;—which has nothing to do with those
-of low degree giving to those above them. This application, how-
-ever, agrees with what, as we have seen on the Text, was AAang-
+of low degree giving to those above them. This application, however, agrees with what, as we have seen on the Text, was AAang-
 4ze’s view of the meaning of the hexagram.
 
 
@@ -17607,12 +15904,8 @@ spirits.’
 Khang-3ze says on paragraph 6, though I do not see the rele-
 
 
-HEX, 42. APPENDIX II. 319
-
-
 XLII. (The trigram representing) wind and that
-for thunder form Yt. The superior man, in accord-
-ance with this, when he sees what is good, moves
+for thunder form Yt. The superior man, in accordance with this, when he sees what is good, moves
 
 
 towards it; and when he sees his errors, he turns
@@ -17663,15 +15956,11 @@ XLII. The Symbolism here is different from what we gather from
 the former Appendix. Sun no longer symbolises wood, but, as
 
 
-320 THE APPENDIXES. SECT. Il.
-
-
 XLIII. (The trigram representing) heaven and
 that for the waters of a marsh mounting above it
 form KwAi. The superior man, in accordance with
 this, bestows emolument on those below him, and
-dislikes allowing his gifts to accumulate (undis-
-pensed).
+dislikes allowing his gifts to accumulate (undispensed).
 
 
 1. ‘Without (being able to) succeed, he goes
@@ -17697,17 +15986,14 @@ them :'—he hears, but does not understand.
 5. ‘If his action be in harmony with his central
 
 
-it more commonly does, wind. Thunder and wind, it is sup-
-posed, increase each the other; and their combination gives the
+it more commonly does, wind. Thunder and wind, it is supposed, increase each the other; and their combination gives the
 idea of increase. Then the application, good in itself, must be
 treated very nicely, as it is by the Khang-hsi editors, in order to
 make out any connexion between it and the Symbolism.
 
 
 Paragraph 1. ‘ One in a low position should not move in great
-affairs ;’—not a son, it is said, while his father is alive; nora min-
-ister, while his ruler governs ; nor a member of an official depart-
-ment, while its head directs its affairs. If such a one do initiate
+affairs ;’—not a son, it is said, while his father is alive; nora minister, while his ruler governs ; nor a member of an official department, while its head directs its affairs. If such a one do initiate
 such an affair, only great success will excuse his rashness.
 
 Paragraph 2. Line 5 isthe proper correlate of 2; and its subject
@@ -17720,9 +16006,6 @@ only evil; and adversity may quicken it.
 Paragraph 6. As in line 2 the attractive power of benevolence
 is shown, so in line 6 we have the repulsive power of selfishness
 exhibited. Mark the ‘from beyond’ in both paragraphs.
-
-
-HEX. 44. APPENDIX II. 321
 
 
 position, there will be no error :’—but his standing
@@ -17777,11 +16060,7 @@ the right way. The admonition here conveyed is deep.’
 [16] ¥
 
 
-322 THE APPENDIXES. SECT, Il.
-
-
-describes the arrest of) the weak (line) in its ad-
-vancing course.
+describes the arrest of) the weak (line) in its advancing course.
 
 2. ‘He has a wallet of fish :'—it is right for him
 not to allow (the subject of the first line) to get to
@@ -17814,13 +16093,11 @@ and produces its natural effect; and it is a good application of
 this phenomenon that follows; but it has nothing to do with the
 meaning of K4u and the interpretation of the hexagram, as taught
 in the Text. The Khang-hsi editors perceive this, and deal with
-the Symbolism after a method of their own, on which it is unne-
-cessary to enter.
+the Symbolism after a method of their own, on which it is unnecessary to enter.
 
 
 Paragraph 1. My supplement, ‘ This describes the arrest of,’ is
-a conclusion from the whole of the Text on the line. All the com-
-mentaries have it.
+a conclusion from the whole of the Text on the line. All the commentaries have it.
 
 In the ‘ Daily Lecture’ it is said that the lesson of paragraph 2
 is that ‘the subject of the line should make the repression of 1 his
@@ -17829,9 +16106,6 @@ any of the other lines.’ That view is rather different from the one
 indicated in my supplement.
 
 ‘His steps have not been drawn into the course of the first
-
-
-HEX. 45. APPENDIX II. 323
 
 
 XLV. (The trigram representing the) earth and
@@ -17876,20 +16150,15 @@ proper opportunity to check the advance of the subject of line 1.
 
 The subject of line 5, while mindful of his task in the hexagram,—
 to repress the advance symbolised by 1,—yet keeps his wise plans
-concealed till the period of carrying them into execution, deter-
-mined by the ordinances of Heaven, has arrived. Then comes
+concealed till the period of carrying them into execution, determined by the ordinances of Heaven, has arrived. Then comes
 the successful stroke of his policy as ifit were directly from Heaven.
 
 The subject of line 6 really accomplishes nothing to repress the
-advance of the unworthy; but he keeps himself from evil commu-
-nication with them. He is not to be charged with blameable error,
+advance of the unworthy; but he keeps himself from evil communication with them. He is not to be charged with blameable error,
 though more and better might have been expected of him.
 
 
 Y 2
-
-
-324 THE APPENDIXES. SECT. I.
 
 
 6. ‘He sighs and weeps:’—he does not yet rest
@@ -17898,8 +16167,7 @@ in his topmost position.
 
 XLVI. (The trigram representing) wood and that
 for the earth with the wood growing in the midst
-of it form Shang. The superior man, in accord-
-ance with this, pays careful attention to his virtue,
+of it form Shang. The superior man, in accordance with this, pays careful attention to his virtue,
 and accumulates the small developments of it till it
 is high and great.
 
@@ -17926,24 +16194,18 @@ preservation of union? The question is answered in this way :—
 A marsh whose waters are high up above the earth must be kept
 in by banks and dykes, to keep them together, to preserve them from
 being dispersed. So the union of a people must be preserved by
-precautions against what would disturb and destroy it. Of such pre-
-cautions the chief is to be prepared to resist attack from without,
+precautions against what would disturb and destroy it. Of such precautions the chief is to be prepared to resist attack from without,
 and to put down internal sedition.
 
 
-Paragraph 3. The topmost line is the last in Tui, whose attri-
-bute is complacent satisfaction, appearing in flexibility or docility.
+Paragraph 3. The topmost line is the last in Tui, whose attribute is complacent satisfaction, appearing in flexibility or docility.
 
 Paragraph 5. ‘ His mind and aim have not yet been brilliantly
 displayed :’—this is in explanation of the case that some may
 even still not have confidence in him.
 
 Paragraph 6, The topmost position is that of the trigram; the
-subject of the line might bid farewell to all the work of the hexa-
-gram; but he cannot bear to do so.
-
-
-HEX. 477. APPENDIX II. 325
+subject of the line might bid farewell to all the work of the hexagram; but he cannot bear to do so.
 
 
 5. ‘He is firmly correct, and will therefore enjoy
@@ -17976,8 +16238,7 @@ will be ground for congratulation.
 XLVI. See what has been said on the Great Symbolism in
 Appendix I. The application which is made of it here may be
 accepted, though it has nothing to do with the teaching of the
-‘Text about the gradual rise of a good officer to high social distinc-
-tion and influence.
+‘Text about the gradual rise of a good officer to high social distinction and influence.
 
 Paragraph 1. Instead of finding in this the three lines of Khwan
 and their subjects, AAang-3ze makes ‘the upper’ denote only
@@ -17987,18 +16248,13 @@ Paragraph 2. The subject of line 2 in his loyal devotion to 5
 will do much good and benefit many; hence we have the words,
 ‘affords occasion for joy.’ .
 
-Paragraph 3. ‘He has no doubt or hesitation :’—but this is pre-
-suming rather on his strength.
+Paragraph 3. ‘He has no doubt or hesitation :’—but this is presuming rather on his strength.
 
-Paragraph 4. The Khang-hsi editors say :—‘ Such an employ-
-ment of men of worth to do service to spiritual Beings is serving
+Paragraph 4. The Khang-hsi editors say :—‘ Such an employment of men of worth to do service to spiritual Beings is serving
 them according to their mind.’
 
 Paragraph 6. When one has reached the greatest height, he
 should think of retiring. Ambition otherwise may overleap itself.
-
-
-326 THE APPENDIXES. SECT. 11.
 
 
 3. ‘He lays hold of thorns :’—(this is suggeste
@@ -18034,19 +16290,16 @@ to good fortune :’—so he (now) goes on.
 XLVII. The first sentence of the Great Symbolism is constructed
 differently from any which has presented itself in the previous 46
 hexagrams. Literally translated, it would be ‘a marsh with no
-water is Khwan;’ and this might certainly suggest to us a con-
-dition of distress. But how does this come out of the trigrams?
+water is Khwan;’ and this might certainly suggest to us a condition of distress. But how does this come out of the trigrams?
 The upper one is Tui, representing a marsh; and the lower is
 Khan, representing water in a defile. The collocation of the two
 suggests the running of the water from the marsh or lake into the
 stream, which will soon empty the other. Such is the view which
 occurred to myself; and it is the same as that given by AQ
 Hsi :—‘ The water descending and leaking away, the marsh above
-will become dry.’ The application is good in itself, but the con-
-catenation between it and the Symbolism is hardly discernible.
+will become dry.’ The application is good in itself, but the concatenation between it and the Symbolism is hardly discernible.
 
 
-HEX, 48. APPENDIX II. 327
 Rn eon et Uae ERE
 
 XLVIII. (The trigram representing) wood and
@@ -18070,8 +16323,7 @@ with him (above).
 3. ‘The well has been cleared out, but is not
 used :'— (even) passers-by would be sorry for this.
 
-A prayer is made ‘that the king were intelli-
-gent :'—for then blessing would be received.
+A prayer is made ‘that the king were intelligent :'—for then blessing would be received.
 
 4. ‘A well the lining of which is well laid. There
 will be no error:’—the well has been put in good
@@ -18099,9 +16351,6 @@ The difficulties attending the symbolism of the Text of lines 4,
 5, and 6 are not lightened by what we find in this Appendix.
 
 
-228 THE APPENDIXES. SECT. Il.
-
-
 indicates the grand accomplishment (of the idea
 in the hexagram).
 
@@ -18118,12 +16367,10 @@ ox:'—he should in his circumstances be taking
 action.
 
 2. ‘He makes his changes when some time has
-passed :'—what he does will be matter of admira-
-tion.
+passed :'—what he does will be matter of admiration.
 
 3. ‘The change (contemplated) has been three
-times fully discussed :’—to what else should atten-
-tion (now) be directed ?
+times fully discussed :’—to what else should attention (now) be directed ?
 
 4. ‘The good fortune consequent on changing
 (existing) ordinances’ is due to the faith reposed in
@@ -18137,21 +16384,16 @@ beauty becomes more brilliant.
 XLVIII. The Great Symbolism here may well enough represent
 a well, it being understood that the water which is above the wood
 is that raised by it for irrigation and other uses. What is said,
-moreover, in the application is more akin to the idea of the hexa-
-gram than in most of the other cases. It is certainly one way in
+moreover, in the application is more akin to the idea of the hexagram than in most of the other cases. It is certainly one way in
 which the ruler should nourish the people.
 
 It is said on paragraph 1 :—‘ Those who have a mind to do
-something in the world, when they look at this line, and its sym-
-bolism, will learn how they ought to exert themselves.’
+something in the world, when they look at this line, and its symbolism, will learn how they ought to exert themselves.’
 
 Rather in opposition to what I have said on the Text of line 4,
 the ‘ Daily Lecture’ observes here :—‘ The cultivation of one’s self,
 which is represented here, is fundamental to the government of
 others.’
-
-
-HEX. 50. APPENDIX II. 329
 
 
 ——
@@ -18198,15 +16440,11 @@ insisted on in the first book of the Sh@, by the ancient Yao. But
 how this application of the Great Symbolism really flows from it,
 I must confess myself unable to discover. Once, however, when
 I was conversing about the Yi with a high Chinese dignitary, who
-was a well-read scholar also so far as his own literature was con-
-cerned, he referred to this paragraph as proving that all our western
+was a well-read scholar also so far as his own literature was concerned, he referred to this paragraph as proving that all our western
 science had been known to Ff-hst and Confucius !
 
 What is said on the several lines is sufficiently illustrated in the
 notes on the Text.
-
-
-330 THE APPENDIXES. SECT. II.
 
 
 ears changed :’—(its subject) has failed in what was
@@ -18226,8 +16464,7 @@ position (of the line) is taken as (a proof of) the solid
 strong and the weak meet in their due proportions.
 
 
-LI. (The trigram representing) thunder, being re-
-peated, forms Aan. The superior man, in accordance
+LI. (The trigram representing) thunder, being repeated, forms Aan. The superior man, in accordance
 with this, is fearful and apprehensive, cultivates (his
 virtue), and examines (his faults).
 
@@ -18261,9 +16498,6 @@ The subject of line 4 cannot be trusted again. He has failed in
 doing what was his proper work.
 
 
-HEX, 52, APPENDIX II. 332
-
-
 ‘He yet smiles and talks cheerfully :’—the issue
 
 
@@ -18276,30 +16510,25 @@ position of peril:’—(a weak line) is mounted on
 a strong (one).
 
 
-3. ‘He is distraught amid the startling move-
-ments going on:’—(the third line) is in a position
+3. ‘He is distraught amid the startling movements going on:’—(the third line) is in a position
 unsuitable to it.
 
-4. ‘Amid the startling movements, he sinks su-
-pinely in the mud :’—the light in him has not yet
+4. ‘Amid the startling movements, he sinks supinely in the mud :’—the light in him has not yet
 been brilliantly developed.
 
 
-5. ‘He goes and comes amid the startling move-
-ments, and (always) in peril :’—full of risk are his
+5. ‘He goes and comes amid the startling movements, and (always) in peril :’—full of risk are his
 doings.
 
 ‘What he has to do has to be done in his central
 position :’—far will he be from incurring any loss.
 
 
-6. ‘Amid the startling movements he is in breath-
-less dismay :’'—he has not found out (the course of)
+6. ‘Amid the startling movements he is in breathless dismay :’'—he has not found out (the course of)
 the due mean.
 
 ‘Though evil (threatens), he will not fall into
-error :—he is afraid of being warned by his neigh-
-bours.
+error :—he is afraid of being warned by his neighbours.
 
 
 LII. (Two trigrams representing) a mountain, one
@@ -18316,9 +16545,6 @@ to meet it.
 Paragraph 1 is the same as 2 in Appendix I.
 
 Paragraph 4. Compare paragraph 4 of hexagram 21, Appendix II.
-
-
-332 THE APPENDIXES. SECT. II.
 
 
 accordance with this, does not go in his thoughts
@@ -18342,8 +16568,7 @@ heart.
 keeps himself free (from agitation).
 
 
-5. ‘He keeps his cheek bones at rest :'-—in har-
-mony with his central position he acts correctly.
+5. ‘He keeps his cheek bones at rest :'-—in harmony with his central position he acts correctly.
 
 
 6. ‘There is good fortune through his devotedly
@@ -18352,8 +16577,7 @@ himself generous and good.
 
 
 LII. According to the view of the Khang-hsi editors, the
-application should be translated :—‘ The superior man, in accord-
-ance with this, thinks anxiously how he shall not go beyond the
+application should be translated :—‘ The superior man, in accordance with this, thinks anxiously how he shall not go beyond the
 duties of his position. It is difficult to decide between this
 shade of the meaning, and the more common one which I have
 followed.
@@ -18362,8 +16586,7 @@ followed.
 The toes play a great part in walking; but they are here kept
 at rest, and so do not lose the correct idea of Kan.
 
-There is no correlation between lines 2 and 3, and thence the sub-
-ject of 3 will hold on its upward way without condescending to 2.
+There is no correlation between lines 2 and 3, and thence the subject of 3 will hold on its upward way without condescending to 2.
 
 Khang-3ze finds an unsatisfactory auspice in paragraph 4. Line
 4 represents a great minister who should be able to guide all to
@@ -18374,13 +16597,9 @@ Yii Pan (Ming dynasty) says on paragraph 5 :—‘ Words should
 not be uttered rashly. Then, when uttered, they will be found
 
 
-HEX. 53. APPENDIX II. 333
-
 LIII. (The trigram representing) a mountain and
 above it that for a tree form Kien. The superior
-man, in accordance with this, attains to and main-
-tains his extraordinary virtue, and makes the man-
-ners of the people good.
+man, in accordance with this, attains to and maintains his extraordinary virtue, and makes the manners of the people good.
 
 
 1. ‘The danger of a small officer (as represented
@@ -18398,17 +16617,14 @@ separates himself from his comrades.
 ‘A wife is pregnant, but will not nourish her
 child :’—she has failed in her (proper) course.
 
-‘It might be advantageous in resisting plun-
-derers :'—by acting as here indicated men would
+‘It might be advantageous in resisting plunderers :'—by acting as here indicated men would
 preserve one another.
 
 
 4. ‘They may light on the flat branches : —there
-is docility (in the line) going on to flexible pene-
-tration.
+is docility (in the line) going on to flexible penetration.
 
-5. ‘In the end the natural issue cannot be pre-
-vented. There will be good fortune :’—(the subject
+5. ‘In the end the natural issue cannot be prevented. There will be good fortune :’—(the subject
 of the line) will get what he desires.
 
 
@@ -18429,9 +16645,6 @@ LIII. The Khang-hsi editors, to bring out the suitability of
 the Great Symbolism and its application, say :—'A tree springing
 up on the ground is a tree as it begins to grow. A tree on a hill
 is high and large. Every tree when it begins to grow, shows its
-
-
-334 THE APPENDIXES. SECT. IL.
 
 
  - Cee: ae
@@ -18461,8 +16674,7 @@ great, whether it be of an ordinary or extraordinary size, it has
 taken years to reach its dimensions. This illustrates the difference
 between the advance in Shang (46) and that in Xien. Then the
 maintenance of extraordinary virtue in the application and the
-improvement of manners is a gradual process. The improve-
-ment of the manners, moreover, flows from the maintenance of
+improvement of manners is a gradual process. The improvement of the manners, moreover, flows from the maintenance of
 the extraordinary virtue; which implies also a gradual operation
 and progress.’
 
@@ -18488,9 +16700,6 @@ Paragraph 6. See on the Text. But it is difficult to see the
 aptness of the symbolism.
 
 
-HEX, 55, APPENDIX II. 335
-
-
 EI meee
 
 
@@ -18499,8 +16708,7 @@ to a wife).
 
 
 3. ‘ The younger sister who was to be married off
-is in a mean position :—this is shown by the impro-
-prieties (indicated in the line).
+is in a mean position :—this is shown by the improprieties (indicated in the line).
 
 4. (The purpose in) ‘ protracting the time’ is that,
 after waiting, the thing may be done (all the better).
@@ -18508,8 +16716,7 @@ after waiting, the thing may be done (all the better).
 5. ‘The sleeves of the younger sister of (king)
 Ti-yi, when she was married away, were not equal
 to those of her (half-) sister, who accompanied her ;—
-such was her noble character, indicated by the cen-
-tral position of the line.
+such was her noble character, indicated by the central position of the line.
 
 
 6. ‘(What is said in) the sixth line, divided, about
@@ -18519,8 +16726,7 @@ subject of it is carrying an empty basket.
 
 LV. (The trigrams representing) thunder and
 lightning combine to form Fang. The superior
-man, in accordance with this, decides cases of liti-
-gation, and apportions punishments with exactness.
+man, in accordance with this, decides cases of litigation, and apportions punishments with exactness.
 
 
 1. ‘Though they are both of the same character,
@@ -18530,8 +16736,7 @@ there will be no error:’—if the subject of this
 LIV. Thunder rolling above is supposed to produce movement
 in the waters of the marsh below. The combination of this
 symbolism in Kwei Mei is recognised as an evil omen in the
-case which the name denotes. The application of it is not in-
-appropriate.
+case which the name denotes. The application of it is not inappropriate.
 
 Paragraph 1. ‘It is the constant practice (for such a case)’
 seems to mean that an ancillary wife has no right to the disposition
@@ -18544,14 +16749,10 @@ show that the putting marriage off is on the part of the lady and
 not on the other side.
 
 
-336 TIE APPENDIXES. SECT. Il.
-
-
 line seek to overpass that similarity, there will be
 calamity.
 
-2. ‘Let him cherish his feeling of sincere devo-
-tion, that it shall appear being put forth:’—it is by
+2. ‘Let him cherish his feeling of sincere devotion, that it shall appear being put forth:’—it is by
 sincerity that the mind is affected.
 
 
@@ -18591,16 +16792,13 @@ are certainly required in the application of them which is subjoined;
 but that application has little or nothing to do with the explanation
 of the hexagram supplied by the Text.
 
-I hardly understand the conclusion of paragraph 1. My trans-
-lation of it is according to the view of XQ Hsi, if I rightly under-
-stand that.
+I hardly understand the conclusion of paragraph 1. My translation of it is according to the view of XQ Hsi, if I rightly understand that.
 
 Paragraph 2. Itis by such sincerity that the mind is affected,—
 that is, the mind of the ruler occupying line 5.
 
 
 HEX, «6. a
-5 APPENDIX II. 337
 
 
 eae nein sis ickeeecneeniteeeeeeesnaisaeasiasicsasbi
@@ -18615,15 +16813,11 @@ caution in the use of punishments and not allowing
 litigations to continue.
 
 
-1. ‘The stranger is mean and meanly occu-
-
-
-pied :'—his aim is become of the lowest character,
+1. ‘The stranger is mean and meanly occupied :'—his aim is become of the lowest character,
 and calamity will ensue.
 
 
-2. ‘He is provided with good and trusty ser-
-vants :'—he will in the end have nothing of which
+2. ‘He is provided with good and trusty servants :'—he will in the end have nothing of which
 to complain.
 
 
@@ -18668,16 +16862,12 @@ holds himself aloof from others, and they leave him to himself.
 [16] z
 
 
-338 THE APPENDIXES. SECT, Il.
-
-
 ‘He loses his ox(-like docility) too readily and
 easily :—to the end he would not listen to (the
 truth about the course to be pursued).
 
 
-LVII. (Two trigrams representing) wind, follow-
-ing each other, form Sun. The superior man, in
+LVII. (Two trigrams representing) wind, following each other, form Sun. The superior man, in
 accordance with this, reiterates his orders, and secures
 the practice of his affairs.
 
@@ -18726,15 +16916,11 @@ cannot co-exist. His careless self-sufficiency has shut his mind
 against all lessons of wisdom.
 
 
-HEX. 57. APPENDIX II. 339
-
-
 firmness of a brave soldier:’—his mind would in
 that case be well governed.
 
 
-2. ‘The good fortune springing from what bor-
-ders on confusion’ is due to the position (of the
+2. ‘The good fortune springing from what borders on confusion’ is due to the position (of the
 line) in the centre.
 
 
@@ -18765,8 +16951,7 @@ LVII. I have said on the Thwan that some commentators make
 the upper trigram symbolical of the ordinances of the ruler and the
 lower symbolical of the obedience of the people. E. g., KAang-jze
 says :—‘ Superiors, in harmony with the duty of inferiors, issue their
-commands; inferiors, in harmony with the wishes of their supe-
-riors, follow them. Above’ and below there are that harmony and
+commands; inferiors, in harmony with the wishes of their superiors, follow them. Above’ and below there are that harmony and
 deference; and this is the significance of the redoubled Sun. When
 governmental commands and business are in accordance with what
 is right, they agree with the tendencies of the minds of the people
@@ -18774,17 +16959,13 @@ who follow them.’
 
 Paragraph 2 seems to say that the sincerity of purpose indicated
 by the central position of the second line conducts its subject to
-the right course, despite the many considerations that might dis-
-tract him.
+the right course, despite the many considerations that might distract him.
 
 ‘ The willis exhausted’ in paragraph 3 intimates that ‘the repeated
 efforts’ made by its subject have exhausted him. He can now only
 regret his failures.
 
 Z2
-
-
-340 THE APPENDIXES. SECT. II.
 
 
 LVIII. (Two symbols representing) the waters
@@ -18800,8 +16981,7 @@ in the conduct (of the subject of the line) to awaken
 doubt.
 
 2. ‘The good fortune attached to the pleasure
-arising from (inward sincerity)’ is due to the confi-
-dence felt in the object (of the subject of the line).
+arising from (inward sincerity)’ is due to the confidence felt in the object (of the subject of the line).
 
 
 3. ‘The evil predicated of one’s bringing around
@@ -18833,14 +17013,12 @@ sentiment of it, however, does not readily fit in to the teaching of
 the hexagram as set forth in the Text.
 
 There is nothing in the conduct of the subject of line 1 to awaken
-suspicion. He has as yet taken no action; but it was not neces-
-sary to say anything like this about the subject of line 2, his central
+suspicion. He has as yet taken no action; but it was not necessary to say anything like this about the subject of line 2, his central
 position being an assurance that he would never do anything of a
 dloubtful character.
 
 
 HEX, .
-59 APPENDIX II. 341
 
 
 LIX. (The trigram representing) water and that
@@ -18882,9 +17060,7 @@ Line 3 should be strong, and the desire of pleasure which is the
 idea of the hexagram leads its weak subject to the course which is
 so emphatically condemned.
 
-Paragraph 5 is incomplete. Does the correctness and appropri-
-ateness of the position of the subject of the line afford any expla-
-nation of his trusting the subject of the weak line above, who would
+Paragraph 5 is incomplete. Does the correctness and appropriateness of the position of the subject of the line afford any explanation of his trusting the subject of the weak line above, who would
 only injure him? It ought to keep him on the contrary from doing
 so. The commentators have seen this, and say that the paragraph
 is intended by way of caution.
@@ -18899,7 +17075,6 @@ LIX. The ‘in accordance with this’ must be equivalent to—‘ to
 remedy the state of things thus symbolised,’ What follows certainly
 
 
-342 THE APPENDIXES. SECT. II.
 7” EEE OE
 
 LX. (The trigram representing) a lake, and above
@@ -18934,8 +17109,7 @@ enacted sweetly and acceptably’ is due to (the line)
 
 
 amounts to this, that the ancient kings considered the services of
-religion, sincerely and earnestly attended to, as calculated to counter-
-act the tendency to mutual alienation and selfishness in the minds
+religion, sincerely and earnestly attended to, as calculated to counteract the tendency to mutual alienation and selfishness in the minds
 of men. How they operated to have this beneficial effect we are
 not told. Nor is it easy to account for the extension of what is said
 in the Text about the establishment of the ancestral temple to the
@@ -18943,8 +17117,7 @@ presentation also of offerings to God. Probably the writer had the
 same idea in his mind as in the Great Symbolism of hexagram
 16, q. Vv.
 
-‘The natural course’ pursued by the subject of line 1 is, pro-
-bably, that required by the time.
+‘The natural course’ pursued by the subject of line 1 is, probably, that required by the time.
 
 ‘What the subject of line 2 desired’ would be his success in
 counteracting the prevailing tendency to disunion.
@@ -18954,7 +17127,6 @@ The view given of paragraph 5 is that propounded by A0 Hsi.
 For paragraph 6 see the note on line 6 under the Text.
 
 
-HEX. 61. APPENDIX II. 343
 ee ES Se MR
 occupying the place (of authority) and being in the
 centre.
@@ -18970,8 +17142,7 @@ end.
 
 LXI. (The trigram representing the waters of)
 a marsh and that for wind above it form Kung F 0.
-The superior man, in accordance with this, deli-
-berates about cases of litigation and delays (the
+The superior man, in accordance with this, deliberates about cases of litigation and delays (the
 infliction of) death.
 
 
@@ -19000,8 +17171,7 @@ The subject of line 1 knows when he might have free course and
 when he is obstructed, and acts.accordingly. He is regulated by a
 consideration of the time.
 
-The subject of line 1 ought not to act, and he is still. The sub-
-ject of line 2 ought to act, and he also is still. The error and the
+The subject of line 1 ought not to act, and he is still. The subject of line 2 ought to act, and he also is still. The error and the
 effect of it are great.
 
 The subject of line 3 shows by his lamentation how he blames
@@ -19009,9 +17179,6 @@ himself.
 
 The other three paragraphs are sufficiently explained in what is
 said on the Text.
-
-
-344 THE APPENDIXES. SECT, ll.
 
 
 4. ‘A horse the fellow of which disappears :—
@@ -19064,11 +17231,7 @@ is, perfect in itself and of itself, continues.
 young ; so answers the heart of man to man.
 
 
-HEX. 63. APPENDIX II. 345
-
-
-a minister should not overpass the distance (be-
-tween his ruler and himself).
+a minister should not overpass the distance (between his ruler and himself).
 
 
 3. ‘Some in consequence find opportunity to
@@ -19076,8 +17239,7 @@ assail and injure him. There will be evil :’-—how
 great will it be!
 
 
-4. ‘He meets the exigency (of his situation), with-
-out exceeding (the proper course) :'—(he does so), the
+4. ‘He meets the exigency (of his situation), without exceeding (the proper course) :'—(he does so), the
 position being inappropriate (for a strong line).
 
 ‘If he go forward, there will be peril, and he must
@@ -19098,8 +17260,7 @@ LXIII. (The trigram representing) fire and that
 for water above it form At 3i. The superior
 
 
-LXII. The Khang-hsi editors endeavour to show the appro-
-priateness of the Great Symbolism in this way:—‘ When thunder
+LXII. The Khang-hsi editors endeavour to show the appropriateness of the Great Symbolism in this way:—‘ When thunder
 issues from the earth, the sound of it comes with a rush and is loud;
 but when it reaches the top of a hill it has begun to die away and
 is small... There is nothing in the Chinese about the hills being
@@ -19120,9 +17281,6 @@ For paragraphs 3 and 4 see the notes on the Text.
 
 In line 5 the yin line is too high. If the line were yang, the
 auspice would be different.
-
-
-346 THE APPENDIXES. SECT. Il.
 
 
 man, in accordance with this, thinks of evil (that
@@ -19148,11 +17306,9 @@ in the east is not equal to (the small sacrifice of) the
 neighbour in the west:’—because the time (in the
 latter case is more important and fit).
 
-‘His sincerity receives the blessing :-—good for-
-tune comes on a great scale.
+‘His sincerity receives the blessing :-—good fortune comes on a great scale.
 
-6. ‘His head is immersed; the position is peril-
-ous: —how could such a state continue long?
+6. ‘His head is immersed; the position is perilous: —how could such a state continue long?
 
 
 LXIV. (The trigram representing) water and
@@ -19176,11 +17332,7 @@ The notes on the different lines present nothing that has not been
 dealt with in the notes on the Text.
 
 
-HEX. 64. APPENDIX II. 347
-
-
-2. ‘The second line, undivided, shows good for-
-tune arising from being firm and correct :’—it is
+2. ‘The second line, undivided, shows good fortune arising from being firm and correct :’—it is
 in the central place, and the action of its subject
 thereby becomes correct.
 
@@ -19208,18 +17360,15 @@ regulations.
 LXIV. In this last hexagram we have water below and fire above,
 so that the two cannot act on each other, and the Symbolism may
 represent the unregulated condition of general affairs, the different
-classes of society not harmonising nor acting together. The appli-
-cation follows naturally.
+classes of society not harmonising nor acting together. The application follows naturally.
 
 X( Hsi and others suspect an error in the text of paragraph 1;
 yet a tolerable meaning comes from it as it stands.
 
 The Khang-hsi editors observe on paragraph 2 that an undivided
 line in the second place, and a divided line in the fifth place, are
-both incorrect, and yet it is often said of them that with firm cor-
-rectness in their subjects there will be good fortune ;—such is the
-virtue of the central position. This principle is at last clearly enun-
-ciated in this paragraph.
+both incorrect, and yet it is often said of them that with firm correctness in their subjects there will be good fortune ;—such is the
+virtue of the central position. This principle is at last clearly enunciated in this paragraph.
 
 Khang-jze says :—‘' The subject of line 4 has the ability which the
 time requires, and possesses also a firm solidity. He can carry out
@@ -19262,8 +17411,7 @@ evil [or unlucky].
 In the heavens there are the (different) figures
 there completed, and on the earth there are the
 (different) bodies there formed. (Corresponding to
-them) were the changes and transformations exhi-
-bited (in the Yi).
+them) were the changes and transformations exhibited (in the Yi).
 
 2. After this fashion a strong and a weak line
 were manipulated together (till there were the eight
@@ -19298,8 +17446,7 @@ be easily understood, and (he who attains to this)
 freedom from laborious effort (of the Earth) will be
 easily followed. He who is easily understood will
 have adherents, and he who is easily followed will
-achieve sticcess. He who has adherents can con-
-tinue long, and he who achieves success can become
+achieve sticcess. He who has adherents can continue long, and he who achieves success can become
 great. To be able to continue long shows the
 virtue of the wise and able man; to be able to
 become great is the heritage he will acquire.
@@ -19317,9 +17464,6 @@ Yi King ever varying. The first four paragraphs, it is said, show,
 from the phenomena of production and transformation in external
 
 
-350 THE APPENDIXES. SECT. I.
-
-
 Chapter II. 9. The sages set forth the diagrams,
 inspected the emblems contained in them, and
 appended their explanations ;—in this way the good
@@ -19330,29 +17474,24 @@ clear.
 other, and produce the changes and transformations
 (in the figures).
 
-11. Therefore the good fortune and evil (men-
-tioned in the explanations) are the indications of the
+11. Therefore the good fortune and evil (mentioned in the explanations) are the indications of the
 right and wrong (in men’s conduct of affairs), and
 the repentance and regret (similarly mentioned) are
 the indications of their sorrow and anxiety.
 
 
 nature, the principles on which the figures of the Yi were made.
-The fifth and sixth paragraphs show, particularly, how the attri-
-butes represented by the figures Ahien and Khwin are to be
-found in (the operations of) heaven and earth. The last two para-
-graphs show both those attributes embodied or realised in man.
+The fifth and sixth paragraphs show, particularly, how the attributes represented by the figures Ahien and Khwin are to be
+found in (the operations of) heaven and earth. The last two paragraphs show both those attributes embodied or realised in man.
 The realisation takes place, indeed, fully only in the sage or the
 ideal man, who thus becomes the pattern for all men.
 
-In paragraph 3 we have five of the six derivative tri-
-grams ;—the six ‘children,’ according to the nomenclature of the
-Wan arrangement. ‘Thunder’ stands for kin (S=_==), ‘light-
-ning’ for li (===), ‘wind’ for sun (===), and ‘rajn’ for
+In paragraph 3 we have five of the six derivative trigrams ;—the six ‘children,’ according to the nomenclature of the
+Wan arrangement. ‘Thunder’ stands for kin (S=_==), ‘lightning’ for li (===), ‘wind’ for sun (===), and ‘rajn’ for
 
 
 khan (===). ‘The sun,’ however, is also an emblem of Ii,
-and ‘the moon’ one of kan (=="=>), generally said to represent
+and ‘the moon’ one of kan (=="=)), generally said to represent
 ‘mountains,’ while tui (== ==), representing ‘collections of
 water, has no place in the enumeration. AQ Hs? says that in
 paragraph 3 we have the natural changes seen in the phenomena
@@ -19365,8 +17504,7 @@ Paragraphs 5 and 6 have both been misunderstood from neglect
 of the peculiar meaning of the character 4ih (aN ), and from
 
 
-taking it in its common acceptation of ‘knowing.’ Both com-
-mentaries and dictionaries point out that it is here used in the
+taking it in its common acceptation of ‘knowing.’ Both commentaries and dictionaries point out that it is here used in the
 sense of ‘directing,’ ‘presiding over.’ In paragraph 7, however, it
 resumes its ordinary significancy.
 
@@ -19394,8 +17532,7 @@ several lines.
 
 14. Therefore the superior man, when living
 quietly, contemplates the emblems and studies the
-explanations of them; -when initiating any move-
-ment, he contemplates the changes (that are made
+explanations of them; -when initiating any movement, he contemplates the changes (that are made
 in divining), and studies the prognostications from
 them. Thus ‘is help extended to him from Heaven;
 there will be good fortune, and advantage in every
@@ -19411,20 +17548,14 @@ Paragraphs 13, 14 form the second part, and speak of the study of
 the Yi by the superior man, desirous of doing what is right and
 increasing his knowledge, and the advantages flowing from it.
 
-I can follow to some extent the first two statements of para-
-graph 12, so far as the ideas of the writer are concerned, though
+I can follow to some extent the first two statements of paragraph 12, so far as the ideas of the writer are concerned, though
 asserting any correspondence between the changes of the lines of
-the diagrams, and the operations of external nature, as in the suc-
-cession of day and night, is merely an amusement of the fancy. I
+the diagrams, and the operations of external nature, as in the succession of day and night, is merely an amusement of the fancy. I
 all but fail, however, to grasp the idea in the last statement. In the
 trigram, the first line represents earth; the second, man; and the
 
 
-352 THE APPENDIXES. SECT. I.
-
-
-Chapter III. 15. The Thwan speak of the em-
-blematic figures (of the complete diagrams). The
+Chapter III. 15. The Thwan speak of the emblematic figures (of the complete diagrams). The
 Y4o speak of the changes (taking place in the
 several lines).
 
@@ -19432,8 +17563,7 @@ several lines).
 are used with reference to (the figures and lines, as)
 being right or wrong (according to the conditions of
 time and place); those about repentance or regret
-refer to small faults (in the satisfying those con-
-ditions) ; when it is said ‘there will be no error,’ or
+refer to small faults (in the satisfying those conditions) ; when it is said ‘there will be no error,’ or
 ‘no blame, there is reference to (the subject)
 repairing an error by what is good.
 
@@ -19442,11 +17572,9 @@ lower trigrams and of the individual lines) as noble
 or mean is decided by the (relative) position (of the
 lines); the regulations of small and great are found
 in the diagrams, and the discriminations of good
-and bad fortune appear in the (subjoined) ex-
-planations.
+and bad fortune appear in the (subjoined) explanations.
 
-18. Anxiety against (having occasion for) re-
-pentance or regret should be felt at the boundary
+18. Anxiety against (having occasion for) repentance or regret should be felt at the boundary
 line (between good and evil). The stirring up the
 thought of (securing that there shall be) no blame
 arises from (the feeling of) repentance.
@@ -19459,12 +17587,10 @@ has ‘a Grand Extreme,’ where its nature and operation are seen
 in their highest ideal. This is to some extent conceivable ; but
 when I try to follow our author, and find an analogy between the
 course of these extremes and the movements in the places of the
-diagrams, I have no clue by which to trace my way. For the con-
-cluding sentence of paragraph 14 see the duke of X4u on the last
+diagrams, I have no clue by which to trace my way. For the concluding sentence of paragraph 14 see the duke of X4u on the last
 line of hexagram 14.
 
 
-CHAP, 4. APPENDIX III. 353
 — SS Se esha
 
 19. Thus of the diagrams some are small, and
@@ -19482,11 +17608,9 @@ things) in heaven and earth.
 
 (The sage), in accordance with (the Yi),
 looking up, contemplates the brilliant phenomena of
-the heavens, and, looking down, examines the defi-
-nite arrangements of the earth ;—thus he knows the
+the heavens, and, looking down, examines the definite arrangements of the earth ;—thus he knows the
 causes of darkness (or, what is obscure) and light
-(or, what is bright). He traces things to their be-
-ginning, and follows them to their end:—thus he
+(or, what is bright). He traces things to their beginning, and follows them to their end:—thus he
 knows what can be said about death and life. (He
 
 
@@ -19497,8 +17621,7 @@ say that it expands the meaning of the fourth paragraph, the third
 of chapter 2. It does do so, but this account hardly covers all
 its contents.
 
-To understand the names ‘small and great,’ as used of the dia-
-grams in paragraphs 17 and 1g, it should be noted that hexagrams
+To understand the names ‘small and great,’ as used of the diagrams in paragraphs 17 and 1g, it should be noted that hexagrams
 to which the divided or yin line gives their character are termed
 ‘small,’ and those where the undivided or yang line rules are
 
@@ -19517,13 +17640,9 @@ of the whole figures but also as embracing the several lines.
 [16] Aa
 
 
-354 THE APPENDIXES. SECT. I.
-
-
 perceives how the union of) essence and breath form
 things, and the (disappearance or) wandering away
-of the soul produces the change (of their constitu-
-tion);—thus he knows the characteristics of the
+of the soul produces the change (of their constitution);—thus he knows the characteristics of the
 anima and animus.
 
 22. There is a similarity between him and heaven
@@ -19545,22 +17664,17 @@ and earth without any error; by an ever-varying
 adaptation he completes (the nature of) all things
 without exception ; he penetrates to a knowledge of
 the course of day and night (and all other connected
-phenomena) ;—it is thus that his operation is spirit-
-like, unconditioned by place, while the changes
+phenomena) ;—it is thus that his operation is spiritlike, unconditioned by place, while the changes
 which he produces are not restricted to any form.
 
 
 Chapter IV, paragraphs 20-23, is intended still more to exalt the
-Yi, and seems to say that the sage by means of it can make an exhaus-
-tive study of all principles and of human nature, till he attains to the
+Yi, and seems to say that the sage by means of it can make an exhaustive study of all principles and of human nature, till he attains to the
 knowledge of the ordinances of Heaven. Such is the account of the
 chapter given by Af Hsi; but the second character in paragraph
 21 must be understood in the signification which it has in all the
 sixty-four sentences which explain the emblematic structure of the
 hexagrams, as=‘in accordance with’ and not ‘by means of.’ The
-
-
-CHAP. 5. APPENDIX III. 355
 
 
 Chapter V. 24. The successive movement of the
@@ -19595,8 +17709,7 @@ and the pho descends and is changed into a ghostly shade. So did
 the ancient Chinese grope their way from material things to the
 concept and representation of what was immaterial.
 
-For my ‘characteristics of the anima and animus,’ Dr. Med-
-hurst rendered ‘the circumstances and conditions of the Kweli
+For my ‘characteristics of the anima and animus,’ Dr. Medhurst rendered ‘the circumstances and conditions of the Kweli
 Shans’ (Theology of the Chinese, pp. ro-12); but he observes that
 ‘the Kwei Shins in the passage are evidently the expanding and
 contracting principles of human life.’ The kwei shans are brought
@@ -19614,9 +17727,6 @@ give a transcript of his views and doings in the Yi. The character,
 Aa 2
 
 
-356 THE APPENDIXES. SECT. I.
-
-
 25. That which ensues as the result (of their
 movement) is goodness; that which shows it in its
 completeness is the natures (of men and things).
@@ -19631,39 +17741,31 @@ few.
 27. It is manifested in the benevolence (of its
 operations), and (then again) it conceals and stores
 up its resources. It gives their stimulus to all
-things, without having the same anxieties that pos-
-sess the sage. Complete is its abundant virtue and
+things, without having the same anxieties that possess the sage. Complete is its abundant virtue and
 the greatness of its stores!
 
 28. Its rich possessions is what is intended by
 ‘the greatness of its stores;’ the daily renovation
-which it produces is what is meant by ‘the abun-
-dance of its’ virtue.’
+which it produces is what is meant by ‘the abundance of its’ virtue.’
 
 29. Production and reproduction is what is called
 (the process of) change.
 
 30. The formation of the semblances (shadowy
 forms of things) is what we attribute to X/ien; the
-giving to them their specific forms is what we attri-
-bute to Khwan. .
+giving to them their specific forms is what we attribute to Khwan. .
 
 31. The exhaustive use of the numbers (that turn
 
 
 which I have translated by ‘spirit-like’ in paragraph 23, is different
 from £Ai in paragraph 21. It is shan, a character of the phonetic
-class, while its primary material signification has not been satis-
-factorily ascertained. ‘The Chinese,’ says P. Regis (vol. ii. p. 445),
-‘use it in naming the soul, true angels, and the genii of idola-
-ters; and the Christian Chinese use it when they speak of God, of
+class, while its primary material signification has not been satisfactorily ascertained. ‘The Chinese,’ says P. Regis (vol. ii. p. 445),
+‘use it in naming the soul, true angels, and the genii of idolaters; and the Christian Chinese use it when they speak of God, of
 
 
 the Holy Spirit, of angels, and of the soul of man. For what else
 could they do?’
-
-
-CHAP. 5. APPENDIX III. 357
 
 
 up in manipulating the stalks), and (thereby) knowing
@@ -19672,15 +17774,13 @@ prognosticating ; the comprehension of the changes
 (indicated leads us to) what we call the business (to
 be done).
 
-32. That which is unfathomable in (the move-
-ment of) the inactive and active operations is (the
+32. That which is unfathomable in (the movement of) the inactive and active operations is (the
 presence of a) spiritual (power).
 
 
 Chapter V, paragraphs 24-32, still shows us the Yf fashioned
 sO as to give a picture of the phenomena of the external universe ;
-but the writer dwells more on the latter, and the different para-
-graphs give an interesting view of his ideas on the subject. He
+but the writer dwells more on the latter, and the different paragraphs give an interesting view of his ideas on the subject. He
 supposes a constant change from rest to movement and from
 movement to rest, through which all things are formed, now still,
 now in motion, now expanding, now contracting. It is customary
@@ -19699,11 +17799,9 @@ such an interpretation.
 The imperial editors say that the germ of the Mencian doctrine
 about the goodness of human nature is in paragraph 25; but it
 says more widely, that ‘every creature is good,’ according to its
-ideal as from the plastic yin and yang. But few, the next para-
-graph tells us, can understand the measure of this goodness.
+ideal as from the plastic yin and yang. But few, the next paragraph tells us, can understand the measure of this goodness.
 
-‘The benevolent operations’ in the course of things in para-
-graph 27 are illustrated from the phenomena of growth and beauty
+‘The benevolent operations’ in the course of things in paragraph 27 are illustrated from the phenomena of growth and beauty
 in spring and summer; and the cessation of these in autumn and
 winter may be called ‘a concealing and storing them up.’
 
@@ -19712,9 +17810,6 @@ applied to the book, the Yi King.
 
 In paragraph 30 the names Khien and Khwan take the place
 of yin and yang, as used in paragraphs 24 and 32. In X/ien,
-
-
-358 THE APPENDIXES. SECT, 1.
 
 
 Chapter VI. 33. Yes, wide is the Yf and great!
@@ -19726,30 +17821,21 @@ between heaven and earth, it embraces all.
 
 34. There is Khien. In its (individual) stillness
 it is self-absorbed; when exerting its motive power
-it goes straight forward ; and thus it is that its pro-
-ductive action is ona grand scale. There is Khwan.
+it goes straight forward ; and thus it is that its productive action is ona grand scale. There is Khwan.
 In its (individual) stillness, it is self-collected and
-capacious ; when exerting its motive power, it de-
-velopes its resources, and thus its productive action
+capacious ; when exerting its motive power, it developes its resources, and thus its productive action
 is on a wide scale.
 
-35. In its breadth and greatness, (the Y1) corre-
-
-
-the symbol of heaven, every one of its three lines is undivided ; it
+35. In its breadth and greatness, (the Y1) correthe symbol of heaven, every one of its three lines is undivided ; it
 is the concentration of the yang faculty; so KhwAn, the symbol
-of the earth, is the concentration of the yin. The critics them-
-selves call attention to the equivalence of the symbolic names here
+of the earth, is the concentration of the yin. The critics themselves call attention to the equivalence of the symbolic names here
 given to yin and yang. The connexion of the two is necessary
-to the production of any one substantial thing. The yang origin-
-ates a shadowy outline which the yin fills up with a definite sub-
-stance. So actually in nature Heaven (X/ien) and Earth (Khwan)
+to the production of any one substantial thing. The yang originates a shadowy outline which the yin fills up with a definite substance. So actually in nature Heaven (X/ien) and Earth (Khwan)
 operate together in the production of all material things and
 beings.
 
 The ‘numbers,’ mentioned in paragraph 31, are not all or any
-numbers generally, but 7, 8, 9, 6, those assigned to the four ‘em-
-blematic figures,’ that grow out of the undivided and divided lines,
+numbers generally, but 7, 8, 9, 6, those assigned to the four ‘emblematic figures,’ that grow out of the undivided and divided lines,
 and by means of which the hexagrams are made up in divination.
 The ‘future or coming events’ which are prognosticated are not
 particular events, which the diviner has not already forecast, but the
@@ -19762,7 +17848,6 @@ settles the meaning of tao in paragraph 24, as being the course of
 nature, in which, according to the author, ‘God worketh all in all.’
 
 
-CHAP. 7. APPENDIX III. 359
 RAE LS: Ao RMR otk 2
 sponds to heaven and earth; in its ever-recurring
 changes, it corresponds to the four seasons; in its
@@ -19770,8 +17855,7 @@ mention of the bright or active, and the dark or
 inactive operation, it corresponds to the sun and
 moon ; and the excellence seen in the ease and ready
 response (of its various operations) corresponds to
-the perfect operations (presented to us in the pheno-
-mena of nature).
+the perfect operations (presented to us in the phenomena of nature).
 
 
 Chapter VII. 36. The Master said :—‘Is not the
@@ -19808,9 +17892,6 @@ the original concept of them to call them ‘the male and female
 principles :’—with the last clause compare paragraphs 6-8.
 
 
-360 THE APPENDIXES. SECT. I.
-
-
 37. Heaven and earth having their positions as
 assigned to them, the changes (of nature) take place
 between them. The nature (of man) having been
@@ -19827,8 +17908,7 @@ these (diagrams) are denominated Semblances (or
 emblematic figures, the Hsiang).
 
 39. A (later) sage was able to survey the motive
-influences working all under the sky. He contem-
-plated them in their common action and special
+influences working all under the sky. He contemplated them in their common action and special
 nature, in order to bring out the standard and
 proper tendency of each. He then appended his
 
@@ -19844,27 +17924,20 @@ in the symbols of the Y?.
 ‘ Their rules of conduct were solid,’ in paragraph 36, is, literally,
 their rules were low.’ ‘l’o the height of heaven reached by the
 wisdom of the sages, the author opposes the low-lying earth,
-between which and their substantial practices and virtues he dis-
-covered some analogy.
+between which and their substantial practices and virtues he discovered some analogy.
 
 It will be seen that the chapter commences with ‘ The Master
 said.’ Ad Hsi observes that ‘as the Ten Appendixes were all
 made by the Master, these words are out of place, and that he
 conjectures that wherever they occur here and elsewhere, they
-were added after the sage’s time.’ Their occurrence very seri-
-ously affects the question of the authorship of the Appendixes,
+were added after the sage’s time.’ Their occurrence very seriously affects the question of the authorship of the Appendixes,
 which I have discussed in the Introduction, pages 28-31.
 
 
-CHAP, 8. APPENDIX III. 361
+explanation (to each line of the diagrams), to determine the good or evil indicated by it. Hence those
 
 
-explanation (to each line of the diagrams), to deter-
-mine the good or evil indicated by it. Hence those
-
-
-(lines with their explanations) are denominated I mi-
-tations (the Y4o).
+(lines with their explanations) are denominated I mitations (the Y4o).
 
 
 40. (The diagrams) speak of the most complex
@@ -19892,8 +17965,7 @@ The Master said :—‘ The superior man occupies
 his apartment and sends forth his words. If they
 be good, they will be responded to at a distance of
 more than a thousand li ;—how much more will they
-be so in the nearer circle! He occupies his apart-
-ment and sends forth his words. If they be evil,
+be so in the nearer circle! He occupies his apartment and sends forth his words. If they be evil,
 they will awaken opposition at a distance of more
 than a thousand li;—how much more will they do
 so in the nearer circle! Words issue from one's
@@ -19901,9 +17973,6 @@ person, and proceed to affect the people. Actions
 proceed from what is near, and their effects are seen
 at a distance. Words and actions are the hinge and
 spring of the superior man. The movement of that
-
-
-262 THE APPENDIXES. SECT. I.
 
 
 hinge and spring determines glory or disgrace. His
@@ -19931,13 +18000,10 @@ Fragrance like orchid plants diffuse.’
 44. ‘The first line, undivided, shows its subject
 placing mats of the white grass beneath what he
 sets on the ground.’ The Master said :—‘ To place
-the things on the ground might be considered suf-
-ficient; but when he places beneath them mats
+the things on the ground might be considered sufficient; but when he places beneath them mats
 of the white grass, what occasion for blame can
-there be? Such a course shows the height of care-
-fulness. The white grass is a trivial thing, but,
-through the use made of it, it may become impor-
-tant. He who goes forward using such careful art
+there be? Such a course shows the height of carefulness. The white grass is a trivial thing, but,
+through the use made of it, it may become important. He who goes forward using such careful art
 will not fall into any error.’
 
 45. ‘A superior man toiling laboriously and yet
@@ -19947,9 +18013,6 @@ toils with success, but does not boast of it; he
 achieves merit, but takes no virtue to himself from
 it;—this is the height of generous goodness, and
 speaks of the man who with (great) merit yet places
-
-
-CHAP. 8, APPENDIX III. 363
 
 
 himself below others. He wishes his virtue to be
@@ -19971,8 +18034,7 @@ for repentance.’
 47. ‘He does not quit the courtyard before his
 door ;—there will be no occasion for blame.’ The
 Master said on this :—‘ When disorder arises, it will
-be found that (ill-advised) speech was the stepping-
-stone to it. If a ruler do not keep secret (his
+be found that (ill-advised) speech was the steppingstone to it. If a ruler do not keep secret (his
 deliberations with his minister), he will lose that
 minister. If a minister do not keep secret (his
 deliberations with his ruler), he will lose his life.
@@ -19987,19 +18049,12 @@ The Yi says, “ He is a burden-bearer, and yet ricies
 in a carriage, thereby exciting robbers to attack
 him.” Burden-bearing is the business of a small
 man. A carriage is the vehicle of a gentleman.
-When a small man rides in the vehicle of a gentle-
-
-
-364 THE APPENDIXES. SECT. I.
-
-
-man, robbers will think of taking it from him.
+When a small man rides in the vehicle of a gentleman, robbers will think of taking it from him.
 (When one is) insolent to those above him, and
 oppressive to those below, robbers will wish to
 attack him. Careless laying up of things excites
 to robbery, (as a woman’s) adorning of herself
-excites to lust. What the Yi says about the burden-
-bearer’s riding in a carriage, and exciting robbers
+excites to lust. What the Yi says about the burdenbearer’s riding in a carriage, and exciting robbers
 to attack him, (shows how) robbery is called out.’
 
 
@@ -20010,40 +18065,34 @@ lines. ‘The sage’ in paragraph 38 is intended presumably of
 Fa-hsi; but we cannot say, from it, whether the writer thought of
 him as having formed only the eight trigrams, or all the sixty-four
 hexagrams. In the diagrams, however, we have semblances, or
-representations, of the phenomena of nature, even the most com-
-plex, and hard to be disentangled. Paragraph 39 goes on to
+representations, of the phenomena of nature, even the most complex, and hard to be disentangled. Paragraph 39 goes on to
 speak of the explanation more especially of the individual lines, by
 the duke of Aau, as symbolical of good luck or evil, as they turned
 up in the processes of divination.
 
-Paragraph 4o declares the usableness (so to speak) of the dia-
-grams and the explanations of them; and 41 shows us how a
+Paragraph 4o declares the usableness (so to speak) of the diagrams and the explanations of them; and 41 shows us how a
 learner or consulter of the Yi would actually proceed in using it.
 
 In paragraphs 42-48 we have the words of Confucius on seven
 lines in so many hexagrams, or rather his amplification of the
 words of the duke of Xau's explanations of their symbolism. The
 lines are 2 of hexagram 61; 5 of 13; 1 of 28; 3 of 15; 6 of 1;
-1 of 60; and 3 of 40. What Confucius says is not without in-
-terest, but does not make the principles on which the Yi was
+1 of 60; and 3 of 40. What Confucius says is not without interest, but does not make the principles on which the Yi was
 made any clearer to us. It shows how his object was to turn the
 symbolism that he found to a moral or ethical account; and no
 doubt he could have varied the symbolism, if he had been inclined
 to do so.
 
 I have spoken in the preceding chapter of the difficulty which
-the phrase ‘The Master said’ presents to our accepting the Ap-
-pendix as from the hand of Confucius himself. But his words in
+the phrase ‘The Master said’ presents to our accepting the Appendix as from the hand of Confucius himself. But his words in
 paragraph 43 are inrhyme. He did not speak so. If he rhymed
-his explanation of the symbolism of the line that is the ground-
-work of that paragraph, why did he not rhyme his explanations of
+his explanation of the symbolism of the line that is the groundwork of that paragraph, why did he not rhyme his explanations of
 
 
 CHAP, y. APPENDIX III. 365
 
 
-Chapter IX. 49. To heaven belongs (the num-
-ber) 1; to earth, 2; to heaven, 3; to earth, 4: to
+Chapter IX. 49. To heaven belongs (the number) 1; to earth, 2; to heaven, 3; to earth, 4: to
 heaven, 5; to earth, 6; to heaven, 7; to earth, 8;
 to heaven, 9;.to earth, ro.
 
@@ -20058,8 +18107,7 @@ amount to 55. It is by these that the changes and
 transformations are effected, and the spirit-like
 agencies kept in movement.
 
-51. The numbers of the Great Expansion, (multi-
-plied together), make 50, of which (only) 49 ‘are
+51. The numbers of the Great Expansion, (multiplied together), make 50, of which (only) 49 ‘are
 used (in divination). (The stalks representing these)
 are divided into two heaps to represent the two
 (emblematic lines, or heaven and earth). One is
@@ -20067,12 +18115,10 @@ then taken (from the heap on the right), and placed
 (between the little finger of the left hand and the
 next), that there may thus be symbolised the three
 (powers of heaven, earth, and man). (The heaps
-on both sides) are manipulated by fours to repre-
-sent the four seasons; and then the remainders are
+on both sides) are manipulated by fours to represent the four seasons; and then the remainders are
 returned, and placed (between) the two middle fingers
 of the left hand, to represent the intercalary month.
-In five years there are two intercalations, and there-
-fore there are two operations; and afterwards the
+In five years there are two intercalations, and therefore there are two operations; and afterwards the
 whole process is repeated.
 
 52. The numbers (required) for AZien (or the
@@ -20083,31 +18129,25 @@ our power. The facts that suggest them increase the difficulty in
 ascribing this and the other additions to the Yi to the later sage.
 
 
-366 TIE APPENDIXES. SECT. I.
-
-
 undivided line) amount to 216; those for Khwan
 (or the divided line), to 144. Together they are
 360, corresponding to the days of the year.
 
 53. The number produced by the lines in the
-two parts (of the Yi) amount to 11,520, correspond-
-ing to the number of all things.
+two parts (of the Yi) amount to 11,520, corresponding to the number of all things.
 
 54. Therefore by means of the four operations
 is the Yicompleted. It takes 18 changes to form
 a hexagram.
 
-55. (The formation of) the eight trigrams consti-
-tutes the small completion (of the Yi).
+55. (The formation of) the eight trigrams constitutes the small completion (of the Yi).
 
 56. If we led on the diagrams and expanded
 them, if we prolonged each by the addition of the
 proper lines, then all events possible under the sky
 might have their representation.
 
-57. (The diagrams) make manifest (by their ap-
-pended explanations), the ways (of good and ill
+57. (The diagrams) make manifest (by their appended explanations), the ways (of good and ill
 fortune), and show virtuous actions in their spiritual
 relations. In this way, by consulting them, we may
 receive an answer (to our doubts), and we may also
@@ -20130,44 +18170,35 @@ arrangement now followed. Ahang-3ze restored it to its present
 place, which it occupied, as has been proved, during the Han
 
 
-CHAP. 10. APPENDIX III. 367
-
-
 Chapter X. 59. In the Yi there are four things
 characteristic of the way of the sages. We should
 set the highest value on its explanations to guide
 
 
-dynasty, and to which it properly belongs. It and the next para-
-graph should be taken together, and are distinct from what fol-
-lows, though the Thang edition is further confused in placing 51
+dynasty, and to which it properly belongs. It and the next paragraph should be taken together, and are distinct from what follows, though the Thang edition is further confused in placing 51
 before 50.
 
 In 49 and 50 ‘heaven’ and ‘earth’ are used as we have seen
-KXhien and Khwain are in paragraphs 30 and 34. Odd num-
-bers belong to the strong or undivided line, which is symbolical of
+KXhien and Khwain are in paragraphs 30 and 34. Odd numbers belong to the strong or undivided line, which is symbolical of
 the active operation in nature, and the even numbers to the weak
 or divided line, symbolical of its inaction. The phraseology of
 the paragraphs, however, can only be understood by a reference to
 ‘the river map,’ which has been given in the Introduction, pages
 15, 16.
 
-The map, as it appeared on the back of ‘ the dragon-horse,’ con-
-sisted of so many circles, and so many dark circular markings, the
+The map, as it appeared on the back of ‘ the dragon-horse,’ consisted of so many circles, and so many dark circular markings, the
 former, it was assumed, being of the yang character, and the
 latter of the yin. Ff-hsi for the circle substituted the strong or
 undivided line ( ), and for the dark markings the weak or
 divided (— ——). It will be seen that the yang symbols are the
-1, 3,5, 7 and g circles, and the yin are the 2, 4, 6, 8 and ro cir-
-cular markings, which is the pictorial delineation of paragraph 49.
+1, 3,5, 7 and g circles, and the yin are the 2, 4, 6, 8 and ro circular markings, which is the pictorial delineation of paragraph 49.
 The only thing to be said upon it is that the arrangement of the
 five circles and ten circular markings is peculiar, and evidently
 devised ‘for a purpose.’ So far, however, as we know, no figure
 of the map was attempted till after the beginning of our twelfth
 century.
 
-The same figure is supposed to illustrate what is said in para-
-graph 50: ‘The numbers of the two series correspond to each
+The same figure is supposed to illustrate what is said in paragraph 50: ‘The numbers of the two series correspond to each
 other in their fixed positions.’ 1 and 2, and 3 and 4 certainly front
 each other, and perhaps 5 and 6; but 7 and 8, and g and 10 do
 not do so in the same way. It is said also that ‘ each has another
@@ -20176,18 +18207,14 @@ that may be considered its mate.’ So it is with 1 and 6, 2 and 7,
 +7+9=25; 2+4+6+8+4+10=30; and 25+30=55; all of
 which points are stated.
 
-The last statement in the paragraph, however, derives no illus-
-tration, so far as I can see, from the figure. How can the num-
-bers effect the things that are predicated of them? There is a
+The last statement in the paragraph, however, derives no illustration, so far as I can see, from the figure. How can the numbers effect the things that are predicated of them? There is a
 
 
-268 THE APPENDIXES. SECT. I.
 i SS  —_ =
 
 
 us in speaking; on its changes for (the initiation of)
-our movements; on its emblematic figures for (defi-
-nite action as in) the construction of implements;
+our movements; on its emblematic figures for (definite action as in) the construction of implements;
 
 
 aan i iitermmnmmemteteetandedn thi tite tintin
@@ -20200,8 +18227,7 @@ and ‘the five elements’ is a division of the constituents of material
 things, which is foreign to the Yi.
 
 Paragraph 51 is intended to describe the process of divination
-in manipulating the stalks, but the description is confused by intro-
-ducing into it the four seasons and the subject of intercalation, so
+in manipulating the stalks, but the description is confused by introducing into it the four seasons and the subject of intercalation, so
 as to be very difficult to understand.
 
 In the middle of the Ho map are the five circles symbolical of
@@ -20211,8 +18237,7 @@ below the others). These multiplied together give fifty, which form
 divided, give either two odd numbers or two even; and therefore
 one was put on one side. The remaining 49, however divided,
 were sure to give two parcels of stalks, one containing an even
-number of stalks, and the other an odd, and so might be said fan-
-cifully to represent the undivided or strong, and the divided or
+number of stalks, and the other an odd, and so might be said fancifully to represent the undivided or strong, and the divided or
 weak line. It is needless to go minutely into the other steps of
 the process. Then comes in the counting the stalks by four,
 because there are four seasons in the year, and those that remain
@@ -20224,8 +18249,7 @@ years. But it does not say how many days would remain to be
 carried on to the sixth year after the second intercalation.
 
 Paragraph 52. The actual number of the undivided and divided
-lines in the hexagrams is the same, 192 of each. But the repre-
-sentative number of an undivided line is 9, and of a divided line 6.
+lines in the hexagrams is the same, 192 of each. But the representative number of an undivided line is 9, and of a divided line 6.
 Now g x4 (the number of the emblematic figures) x 6 (the lines of
 each hexagram)= 216; and 6x4x6=144. The sum of these
 products is 360, which was assumed, for the purpose of working
@@ -20287,9 +18311,6 @@ finish given by earth to the changing caused by Heaven.
 [16] Bb
 
 
-370 THE APPENDIXES. SECT. I.
-
-
 changes are gone through with in this way, till they
 form the figures pertaining to heaven or to earth.
 Their numbers are exactly determined, and the
@@ -20300,14 +18321,12 @@ a result as this?
 
 62. In (all these operations forming) the Yi, there
 is no thought and no action. It is still and without
-movement; but, when acted on, it penetrates forth-
-with to all phenomena and events under the sky.
+movement; but, when acted on, it penetrates forthwith to all phenomena and events under the sky.
 If it were not the most spirit-like thing under the
 sky, how could it be found doing this ?
 
 63. The (operations forming the) Yi are the
-method by which the sages searched out exhaus-
-tively what was deep, and investigated the minutest
+method by which the sages searched out exhaustively what was deep, and investigated the minutest
 springs (of things).
 
 64. ‘Those operations searched out what was
@@ -20336,14 +18355,12 @@ are produced by the manipulation of the undivided and divided
 CHAP. II. APPENDIX III. 371
 
 
-4
 ww
 
 
 Chapter XI. 66. The Master said :—‘ What is it
 that the Yt does? The Yt opens up (the knowledge
-of the issues of) things, accomplishes the undertak-
-ings (of men), and embraces under it (the way of)
+of the issues of) things, accomplishes the undertakings (of men), and embraces under it (the way of)
 all things under the sky. This and nothing more
 is what the Yt does. Thereby the sages, through
 (divination by) it, would give their proper course to
@@ -20382,15 +18399,11 @@ Paragraphs 63 and 64 ought not to be taken as saying that the
 sages did the things described for themselves by the Yi. They
 knew them of themselves, and made the Yi that others might come
 by it to do the same. So the-writer imagined. No words could
-indicate more clearly than those of paragraph 65 that the para-
-graphs between it and 59 did not come from Confucius, but from the
+indicate more clearly than those of paragraph 65 that the paragraphs between it and 59 did not come from Confucius, but from the
 compiler of the Great Appendix, whoever he was.
 
 
 Bb2
-
-
-372 THE APPENDIXES. SECT. I.
 
 
 and spirit-like; that of the diagrams is exact and
@@ -20398,30 +18411,26 @@ wise; and the meaning given by the six lines is
 changeful to give (the proper information to men).
 The sages having, by their possession of these
 (three virtues), cleansed their minds, retired and
-laid them up in the secrecy (of their own conscious-
-ness). But their sympathies were with the people
+laid them up in the secrecy (of their own consciousness). But their sympathies were with the people
 in regard both to their good fortune and evil. By
 their spirit-like ability they knew (the character of)
 coming events, and their wisdom had stored up (all
 experiences of) the past. Who could be able to
 accomplish all this? (Only our) ancient sages,
 quick in apprehension and clear in discernment, of
-far-reaching intelligence, and all-embracing know-
-ledge, and with a majesty, going spirit-like to its
+far-reaching intelligence, and all-embracing knowledge, and with a majesty, going spirit-like to its
 objects ;—it was only they who could do so.
 
 68. Therefore (those sages), fully understanding
 the way of Heaven, and having clearly ascertained
-the experience of the people, instituted (the employ-
-ment of) these spirit-like things, as a provision for
+the experience of the people, instituted (the employment of) these spirit-like things, as a provision for
 the use of the people. The sages went about
 the employment of them (moreover) by purifying
 their hearts and with reverent caution, thereby
 giving (more) spirituality and intelligence to their
 virtue.
 
-69. Thus, a door shut may be pronounced (analo-
-gous to) Khwa4n (or the inactive condition), and the
+69. Thus, a door shut may be pronounced (analogous to) Khwa4n (or the inactive condition), and the
 opening of the door (analogous to) Aien (or the
 active condition). The opening succeeding the being
 shut may be pronounced (analogous to what we
@@ -20432,50 +18441,37 @@ states to the other may be called the constant course
 The (first) appearance of anything (as a bud) is
 
 
-CHAP. 11. APPENDIX III. 375
-
-
 what we call a semblance; when it has received its
 complete form, we call it a definite thing.
 
 (The divining-plant having been produced, the
 sages) set it apart and laid down the method of its
 employment,—what we call the laws (of divination).
-The advantage arising from it in external and in-
-ternal matters, so that the people all use it, stamps
+The advantage arising from it in external and internal matters, so that the people all use it, stamps
 it with a character which we call spirit-like.
 
 70. Therefore in (the system of) the Yt there is
-the Grand Terminus, which produced the two ele-
-mentary Forms. Those two Forms produced the
+the Grand Terminus, which produced the two elementary Forms. Those two Forms produced the
 Four emblematic Symbols, which again produced
 the eight Trigrams.
 
 71. The eight trigrams served to determine the
-good and evil (issues of events), and from this deter-
-mination was produced the (successful prosecution
+good and evil (issues of events), and from this determination was produced the (successful prosecution
 of the) great business (of life).
 
 72. Therefore of all things that furnish models
 and visible figures there are none greater than
-heaven and earth; of things that change and ex-
-tend an influence (on others) there are none greater
+heaven and earth; of things that change and extend an influence (on others) there are none greater
 than the four seasons; of things suspended (in the
 sky) with their figures displayed clear and bright,
 there are none greater than the sun and moon; of
 the honoured and exalted there are none greater
-than he who is the rich and noble (one); in pre-
-paring things for practical use, and inventing and
+than he who is the rich and noble (one); in preparing things for practical use, and inventing and
 making instruments for the benefit of all under the
-sky, there are none greater than the sages; to ex-
-plore what is complex, search out what is hidden,
-to hook up what lies deep, and reach to what is dis-
-tant, thereby determining (the issues) for good or ill
+sky, there are none greater than the sages; to explore what is complex, search out what is hidden,
+to hook up what lies deep, and reach to what is distant, thereby determining (the issues) for good or ill
 of all events under the sky, and making all men
 under heaven full of strenuous endeavours, there
-
-
-374 THE APPENDIXES. SECT. I.
 
 
 are no (agencies) greater than those of the stalks and
@@ -20487,15 +18483,12 @@ operations of) heaven and earth are marked by (so
 many) changes and transformations; and the sages
 imitated them (by means of the Yi). Heaven hangs
 out its (brilliant) figures from which are seen good
-fortune and bad, and the sages made their emblema-
-tic interpretations accordingly. The Ho gave forth
+fortune and bad, and the sages made their emblematic interpretations accordingly. The Ho gave forth
 the map, and the Lo the writing, of (both of) which
 the sages took advantage.
 
 74. In the (scheme of the) Yi there are the four
-symbolic figures by which they inform men (in divin-
-ing of the lines making up the diagrams) ; the expla-
-nations appended to them convey the significance (of
+symbolic figures by which they inform men (in divining of the lines making up the diagrams) ; the explanations appended to them convey the significance (of
 the diagrams and lines) ; and the determination (of the
 divination) as fortunate or the reverse, to settle the
 doubts (of men).
@@ -20503,10 +18496,8 @@ doubts (of men).
 
 Chapter XI, paragraphs 66-74, treats of divination, and the
 scheme of it supplied in the Yi. That scheme must be referred
-first to Heaven, which produced the spirit-like things,—the divining-
-plant and the tortoise; and next to the sages, who knew the mind
-of Heaven, and made the plant and shell subservient to the pur-
-pose for which they were intended.
+first to Heaven, which produced the spirit-like things,—the diviningplant and the tortoise; and next to the sages, who knew the mind
+of Heaven, and made the plant and shell subservient to the purpose for which they were intended.
 
 Paragraph 66 answers the question of what the Yf does; and if
 there were truth or reason in it, the book and its use would be
@@ -20522,9 +18513,6 @@ to ‘Heaven ;’ the characters about them in these paragraphs mean
 no more than is expressed in the translation.
 
 
-CHAP. 12. APPENDIX III. 375
-
-
 —
 
 
@@ -20534,24 +18522,21 @@ fortune ; advantage in every respect.’ The Master
 
 
 Paragraph 69 shows how the antinomy of the yin and yang
-pervades all nature, and how the sages turned it, as existing pre-
-eminently in the divining-plant, to account.
+pervades all nature, and how the sages turned it, as existing preeminently in the divining-plant, to account.
 
 Paragraph 70. Evidently the author had in view here the genesis
 of the diagrams of the Yi, the number of figures increasing in a
 geometrical progression with the ratio of 2, while the lines of the
-figures form an arithmetical progression with the common differ-
-ence of 1. This is quite plain after ‘the two elementary forms
+figures form an arithmetical progression with the common difference of 1. This is quite plain after ‘the two elementary forms
 ( and —— — )’ have been made. They give birth to ‘the
 four emblematic symbols,’ each of two lines ( : :
-==>, = = known, in this order, as the Grand or old Yang,
+==), = = known, in this order, as the Grand or old Yang,
 the young Yin, the young Yang, and the Grand or old Yin). By
 the addition to each of these symbols first of the yang line, and
 then of the yin, there arise the eight trigrams, each of three lines ;
 and the process of formation might be continued indefinitely.
 
-But how was the first step taken in the formation of the two ele-
-mentary lines? Here, it is said, they were produced by the Thai
+But how was the first step taken in the formation of the two elementary lines? Here, it is said, they were produced by the Thai
 Ki, or the Grand Terminus. This is represented in AQ Hst’s
 ‘ Youth’s Introduction to the Study of the Yi,’ by a circle; but he
 tells us that that representation of it was first made by Kau-jze
@@ -20569,13 +18554,9 @@ Leaving the subject of the figure of the Thai 71, the name gives
 us hardly any clue to its meaning. 7? is used for the extreme
 term of anything, as the ridge-pole of a house, or the pinnacle of
 a pagoda. The comment on the first sentence in the paragraph
-by Wang Pi (a.p. 226-249) is:—‘ Existence must begin in non-
-existence, and therefore the Grand Terminus produced the two
+by Wang Pi (a.p. 226-249) is:—‘ Existence must begin in nonexistence, and therefore the Grand Terminus produced the two
 elementary Forms, Th4i Xi is the denomination of what has no
 denomination. As it cannot be named, the text takes the extreme
-
-
-376 THE APPENDIXES. SECT. |.
 
 
 a
@@ -20612,8 +18593,7 @@ concepts.
 
 Paragraph 71 speaks of divination in practice, and paragraph 72
 celebrates the service done by that through the plant and shell, as
-equal to, and indeed the complement of, all the other services ren-
-dered by heaven and earth, the seasons, the sun and moon, the sages,
+equal to, and indeed the complement of, all the other services rendered by heaven and earth, the seasons, the sun and moon, the sages,
 and the greatest potentates. Surely, it is all very extravagant.
 
 The last two paragraphs resume the theme of the making of the
@@ -20629,9 +18609,6 @@ to do with the Yi. Nor is either of these things mentioned in
 
 Section ii, paragraph 11, where the work of Fa-hst is described
 more in detail.
-
-
-CHAP, 12, APPENDIX III. 377
 
 
 not the full exponent of speech, and speech is not
@@ -20660,8 +18637,7 @@ taken away, there would be no means of seeing that
 system; and if that system were not seen, A/ien
 and Khw4n would almost cease to act.
 
-78. Hence that which is antecedent to the ma-
-terial form exists, we say, as an ideal method, and
+78. Hence that which is antecedent to the material form exists, we say, as an ideal method, and
 that which is subsequent to the material form exists,
 we say, as a definite thing.
 
@@ -20674,9 +18650,6 @@ business of life.
 
 79. Hence, to speak of the emblematic figures :—
 (The sage) was able to survey all the complex phe-
-
-
-378 THE APPENDIXES. SECT. 1.
 
 
 nomena under the sky. He then considered in his
@@ -20693,22 +18666,18 @@ good or evil indicated by it. Hence those (lines
 with their explanations) are denominated Imitations
 (the Y4o).
 
-80. The most thorough mastery of all the com-
-plex phenomena under the sky is obtained from the
+80. The most thorough mastery of all the complex phenomena under the sky is obtained from the
 diagrams. The greatest stimulus to movement in
 adaptation to all affairs under the sky is obtained
 from the explanations.
 
 81. The transformations and shaping that take
 place are obtained from the changes (of the lines) ;
-the carrying this out and operating with it is ob-
-tained from the general method (that has been
-established). The seeing their spirit-like intima-
-tions and understanding them depended on their
+the carrying this out and operating with it is obtained from the general method (that has been
+established). The seeing their spirit-like intimations and understanding them depended on their
 being the proper men; and the completing (the
 study of) them by silent meditation, and securing
-the faith of others without the use of words, de-
-pended on their virtuous conduct.
+the faith of others without the use of words, depended on their virtuous conduct.
 
 
 Chapter XII, paragraphs 75-81, endeavours to show how we
@@ -20718,9 +18687,6 @@ convey.
 
 Paragraph 75 has a good meaning, taken by itself; but it has no
 apparent connexion with the rest of the chapter. AG Hsi thought
-
-
-CHAP, 1. APPENDIX III. 379
 
 
 a
@@ -20747,17 +18713,14 @@ words, ‘The Master said,’ is probably the error of an early
 transcriber.
 
 Paragraphs 77 and 78 refer to the phenomena of nature and the
-course of human .affairs, as suggesting and controlling the forma-
-tion of the system of the Yi. The formation of that becomes the
+course of human .affairs, as suggesting and controlling the formation of the system of the Yi. The formation of that becomes the
 subject in paragraph 79. Ahien and KhwaAn are used, as we have
-already seen them more than once, for the active and inactive con-
-ditions in nature, indicated by the divided and undivided lines. It
+already seen them more than once, for the active and inactive conditions in nature, indicated by the divided and undivided lines. It
 is difficult to translate what is said in paragraph 78, about Tao and
 Khi;—what I have called, ‘an ideal method’ and ‘a definite’ thing.
 P. Regis translates the text by—‘ Quod non est inter figurata aut
 corporea sed supereminet est rationale, est ratio, Tao; quod (est)
-inter figurata subjacetque certae figurae est sensibile, est instru-
-mentum.’ But t4o cannot here signify ratio or reason; for tao
+inter figurata subjacetque certae figurae est sensibile, est instrumentum.’ But t4o cannot here signify ratio or reason; for tao
 and £Ai are names for the same thing under different conditions ;
 first as a possibility, and next as an actuality. Such is the natural
 interpretation of the text, and so all the great scholars of the Sung
@@ -20771,26 +18734,22 @@ statements. P. Regis, who divides his translation into two paragraphs,
 says:—‘ Satis patet utramque textus hujus partem non cohaerere.
 
 
-380 THE APPENDIXES. SECT. I.
 i dl C—O eee
 multiplied by a process of addition till the (six)
 component lines appeared.
 
-2. The strong line and the weak push them-
-selves each into the place of the other, and hence
+2. The strong line and the weak push themselves each into the place of the other, and hence
 the changes (of the diagrams) take place. The
 appended explanations attach to every form of
 them its character (of good or ill), and hence the
-movements (suggested by divination) are deter-
-mined accordingly.
+movements (suggested by divination) are determined accordingly.
 
 3. Good fortune and ill, occasion for repentance
 or regret, all arise from these movements.
 
 4. The strong and the weak (lines) have their
 fixed and proper places (in the diagrams); their
-changes, however varied, are according to the re-
-quirements of the time (when they take place).
+changes, however varied, are according to the requirements of the time (when they take place).
 
 5. Good fortune and ill are continually prevailing
 each against the other by an exact rule.
@@ -20809,8 +18768,7 @@ connexa.’ ;
 Paragraph 79 is a repetition of paragraphs 38, 39, ‘to introduce,’
 says K( Hsi, ‘the two paragraphs’ that follow.
 
-The editors of the imperial edition find in 80, 81, an amplifica-
-tion mainly of 76, showing how what is said there of the natural
+The editors of the imperial edition find in 80, 81, an amplification mainly of 76, showing how what is said there of the natural
 phenomena is exhibited in the Yf. The concluding sentence is
 a declaration (hardly necessary) about the sage makers, to the
 effect that they were as distinguished for virtuous conduct as for
@@ -20827,13 +18785,11 @@ natural) action. A win, (the symbol of earth, and)
 conveying the idea of docility, shows to men its
 compendious (receptivity and operation).
 
-8. The Yao (or lines) are imitative representa-
-tions of this. The Hsiang, or emblematic figures,
+8. The Yao (or lines) are imitative representations of this. The Hsiang, or emblematic figures,
 are pictorial representations of the same.
 
 9. The movements of the lines and figures take
-place (at the hand of the operator), and are un-
-seen; the good fortune or ill is seen openly and
+place (at the hand of the operator), and are unseen; the good fortune or ill is seen openly and
 is beyond. The work to be done appears by the
 changes; the sympathies of the sages are seen in
 their explanations.
@@ -20863,9 +18819,6 @@ divination, and other kindred subjects, are all touched on.
 The order of the eight trigrams in paragraph 1, is &/ien, tui,
 
 
-382 THE APPENDIXES. SECT. Il.
-
-
 nn LENE
 
 
@@ -20873,8 +18826,7 @@ Chapter II. 11. Anciently, when P4o-hsi had
 come to the rule of all under heaven, looking up,
 he contemplated the brilliant forms exhibited in the
 sky, and looking down he surveyed the patterns
-shown on the earth. He contemplated the orna-
-mental appearances of birds and beasts and the
+shown on the earth. He contemplated the ornamental appearances of birds and beasts and the
 (different) suitabilities of the soil. Near at hand, in
 his own person, he found things for consideration,
 and the same at a distance, in things in general. On
@@ -20883,14 +18835,12 @@ this he devised the eight trigrams, to show fully the
 
 li, Aan, sun, khan, kan, khwan. The three lines of each are
 emblematic,—the first of heaven, the second of man, the third of
-earth. This is the most likely explanation of hsiang, ‘the em-
-blems’ or ‘similitudes’ here. Why the maker—‘sages’—stopt at
+earth. This is the most likely explanation of hsiang, ‘the emblems’ or ‘similitudes’ here. Why the maker—‘sages’—stopt at
 sixty-four figures, of six lines each, is a question that cannot be
 answered.
 
 Paragraph 2. Of course it was a great delusion to suppose that
-the changes of lines consequent on divination could be so con-
-nected with the movements of life as to justify the characterising
+the changes of lines consequent on divination could be so connected with the movements of life as to justify the characterising
 them as good or evil, or afford any guidance in the ordering of
 conduct.
 
@@ -20915,7 +18865,6 @@ the Great Learning, chapter ro, and many other places; but I fail
 to see its appropriateness in its present place in the Yi.
 
 
-CHAP. 2. APPENDIX III. 383
 i505 Sept SS ES eatidielbat ss ic: -. RR OR SR aig
 attributes of the spirit-like and intelligent (operations
 working secretly), and to classify the qualities of the
@@ -20924,30 +18873,23 @@ myriads of things.
 12. He invented the making of nets of various
 kinds by knitting strings, both for hunting and
 fishing. The idea of this was taken, probably,
-from Li (the third trigram, and thirtieth hexa-
-gram).
+from Li (the third trigram, and thirtieth hexagram).
 
-13. On the death of P&o-hsi, there arose Shin-
-nang (in his place). He fashioned wood to form
-the share, and bent wood to make the plough-
-handle. The advantages of ploughing and weeding
+13. On the death of P&o-hsi, there arose Shinnang (in his place). He fashioned wood to form
+the share, and bent wood to make the ploughhandle. The advantages of ploughing and weeding
 were then taught to all under heaven. The idea
-of this was taken, probably, from Yi (the forty-
-second hexagram).
+of this was taken, probably, from Yi (the fortysecond hexagram).
 
 14. He caused markets to be held at midday,
-thus bringing together all the people, and assem-
-bling in one place all their wares. They made their
+thus bringing together all the people, and assembling in one place all their wares. They made their
 exchanges and retired, every one having got what he
 wanted. The idea of this was taken, probably, from
 Shih Ho (the twenty-first hexagram).
 
 15. After the death of Shan-nang, there arose
 Hwang Ti, Yao, and Shun. They carried through
-the (necessarily occurring) changes, so that the peo-
-ple did (what was required of them) without being
-wearied; yea, they exerted such a spirit-like trans-
-formation, that the people felt constrained to approve
+the (necessarily occurring) changes, so that the people did (what was required of them) without being
+wearied; yea, they exerted such a spirit-like transformation, that the people felt constrained to approve
 their (ordinances) as right. When a series of
 changes has run all its course, another change
 ensues. When it obtains free course, it will continue
@@ -20955,9 +18897,6 @@ long. Hence it was that ‘these (sovereigns) were
 helped by Heaven; they had good fortune, and
 their every movement was advantageous. Hwang
 Tt, Y4o, and Shun (simply) wore their upper and
-
-
-284 THE APPENDIXES. SECT. IL.
 
 
 lower garments (as patterns to the people), and good
@@ -21001,35 +18940,28 @@ arrows. This gave the benefit of bows and arrows,
 and served to produce everywhere a feeling of awe.
 
 
-CHAP. 2. APPENDIX III. 385
-
-
 The idea of this was taken, probably, from Khwei
 (the thirty-eighth hexagram).
 
 21. In the highest antiquity they made their
 homes (in winter) in caves, and (in summer) dwelt
 in the open country. In subsequent ages, for
-these the sages substituted houses, with the ridge-
-beam above and the projecting roof below, as a
+these the sages substituted houses, with the ridgebeam above and the projecting roof below, as a
 provision against wind and rain. The idea of this
-was taken, probably, from T4 A wang (the thirty-
-fourth hexagram).
+was taken, probably, from T4 A wang (the thirtyfourth hexagram).
 
 22. When the ancients buried their dead, they
 covered the body thickly with pieces of wood,
 having laid it in the open country. They raised
 no mound over it, nor planted trees around; nor
-had they any fixed period for mourning. In subse-
-quent ages the sages substituted for these practices
+had they any fixed period for mourning. In subsequent ages the sages substituted for these practices
 the inner and outer coffins. The idea of this was
 taken, probably, from Ta Kwo (the twenty-eighth
 hexagram).
 
 23. In the highest antiquity, government was
 carried on successfully by the use of knotted cords
-(to preserve the memory of things). In_ subse-
-quent ages the sages substituted for these written
+(to preserve the memory of things). In_ subsequent ages the sages substituted for these written
 characters and bonds. By means of these (the
 doings of) all the officers could be regulated, and
 (the affairs of) all the people accurately examined.
@@ -21037,17 +18969,13 @@ The idea of this was taken, probably, from Kwai
 (the forty-third hexagram).
 
 
-Chapter II, paragraphs 11-23, treats of the progress of civi-
-lisation in China, and how the great men of antiquity who led the
+Chapter II, paragraphs 11-23, treats of the progress of civilisation in China, and how the great men of antiquity who led the
 way in the various steps of that progress were guided by the Yi.
 Only five of these are mentioned ;—the first, Ff-hsi, the beginning
 of whose reign, according to the least unlikely of the chronological
 accounts, must be placed in the 34th century B.c., while Shun’s
 
 [16] cc
-
-
-386 THE APPENDIXES. SECT. Il.
 
 
 Chapter III. 24. Therefore what we call the Yt
@@ -21060,8 +18988,7 @@ therefore is about twelve centuries and a half. But the writer
 gives his own opinion that the various discoveries and inventions
 mentioned were suggested to their authors by certain hexagrams
 of the Yi. The most commonly received view, however, is
-that Fa-hsit had only the eight trigrams, and that the multipli-
-cation of them to the 64 hexagrams was the work of king Wa4n,
+that Fa-hsit had only the eight trigrams, and that the multiplication of them to the 64 hexagrams was the work of king Wa4n,
 fully a thousand years later than Shun. This is the view of
 the editors of the imperial Yi. If it be contended that Ff-hsi
 himself multiplied his trigrams, and gave their names to the
@@ -21082,8 +19009,7 @@ the inventor of the kitchen and cookery. This was the first step
 towards civilisation, and was appropriately followed by the hunting
 and fishing—both by means of nets—in paragraph 12.
 
-Paragraphs 13, 14 celebrate the work of Shan-n&ng, ‘the mar-
-vellous or spirit-like husbandman.’ There was no metal about the
+Paragraphs 13, 14 celebrate the work of Shan-n&ng, ‘the marvellous or spirit-like husbandman.’ There was no metal about the
 primitive plough. The market for the exchange of commodities,
 without the use of coin, was an important advance. ~
 
@@ -21097,9 +19023,6 @@ The infant navigation in paragraph 16 was as little indebted to
 the use of metal as the agriculture of 13.
 
 Paragraphs 17 and 18 show that in those primitive times there
-
-
-CHAP. 3. APPENDIX III. 387
 
 
 25. What we call the Thwan (or king Wan’s
@@ -21155,7 +19078,6 @@ used in these Appendixes.—The lines, as they were intended by
 CCa@
 
 
-388 THE APPENDIXES. SECT. II.
 A —l ll —7—77—ee ll ere
 
 
@@ -21185,8 +19107,7 @@ applied.
 Paragraph 25. The character rendered ‘the significance’ means
 materials, and is illustrated by reference to all the different materials
 out of which a house is composed. So there are half-a-dozen
-things about the diagrams, their lineal structure, emblematic in-
-tention, their attributes, &c., out of which their interpretation is
+things about the diagrams, their lineal structure, emblematic intention, their attributes, &c., out of which their interpretation is
 fashioned.
 
 Paragraph 26. E.g. an undivided line may appear in an odd
@@ -21199,14 +19120,11 @@ Chapter IV, paragraphs 28-30. Of the distinction of the trigrams
 into Yang and Yin.
 
 The trigrams that contain only one undivided line —4an
-—=_=>), khan (==), and kan (=="==) — are called Yang.
+—=_=)), khan (==), and kan (=="==) — are called Yang.
 The undivided line is called ‘the lord’ in them. It is just the
 opposite with the Yin trigrams, in which “a are two undivided
-lines, and one divided,—sun (SS), li (=>), and tui
+lines, and one divided,—sun (SS), li (=)), and tui
 =). These together constitute the ‘six children,’ or ‘ three
-
-
-CHAP. 5, APPENDIX III. 389
 
 
 Chapter V. 31. It is said in the Yt, ‘Full of
@@ -21214,8 +19132,7 @@ anxious thoughts you go and come; (only) friends
 will follow you and think with you.’ The Master
 said:—‘In all (the processes taking place) under
 heaven, what is there of thinking ? what is there of
-anxious scheming? They all come to the same (suc-
-cessful) issue, though by different paths; there is one
+anxious scheming? They all come to the same (successful) issue, though by different paths; there is one
 result, though there might be a hundred anxious
 schemes. What is there of thinking ? what is there
 of anxious scheming ?’
@@ -21239,8 +19156,7 @@ straightens itself again; when worms and snakes
 i
 
 
-sons’ and ‘three daughters’ in the later arrangement of the tri-
-grams, ascribed to king W4n.
+sons’ and ‘three daughters’ in the later arrangement of the trigrams, ascribed to king W4n.
 
 Paragraph 29. Each part of the divided line counts as one;
 hence a yang trigram counts as I + 2 + 2 = 5 strokes, four of
@@ -21255,12 +19171,8 @@ as indeed this distinction of the trigrams into a yang class anda
 yin is a mere play of fancy.
 
 
-390 THE APPENDIXES. SECT. II.
-
-
 go into the state of hybernation, they thereby keep
-themselves alive. (So), when we minutely inves-
-tigate the nature and reasons (of things), till we
+themselves alive. (So), when we minutely investigate the nature and reasons (of things), till we
 have entered into the inscrutable and spirit-like in
 them, we attain to the largest practical application
 of them; when that application becomes the quickest
@@ -21281,18 +19193,15 @@ said :—‘If one be distressed by what need not distress
 him, his name is sure to be disgraced; if he lay hold
 on what he should not touch, his life is sure to be
 imperilled. In disgrace and danger, his death will
-(soon) come ;—is it possible for him in such circum-
-stances to see his wife ?’
+(soon) come ;—is it possible for him in such circumstances to see his wife ?’
 
 36. It is said in the Yi, ‘ The duke with (his bow)
 shoots at the falcon on the top of the high wall; he
 hits it:—his every movement will be advantageous.’
 The Master said:—‘ The falcon is a bird (of prey);
 the bow and arrow is a weapon (of war); the shooter
-isa man. The superior man keeps his weapon con-
-cealed about his person, and waits for the proper
-time to move ;— doing this, how should his move-
-ment be other than successful? There is nothing
+isa man. The superior man keeps his weapon concealed about his person, and waits for the proper
+time to move ;— doing this, how should his movement be other than successful? There is nothing
 to fetter or embarrass his movement; and hence,
 when he comes forth, he succeeds in his object.
 
@@ -21300,8 +19209,7 @@ when he comes forth, he succeeds in his object.
 CHAP, 5. APPENDIX III. 39!
 
 
-The language speaks of movement when the instru-
-ment necessary to it is ready and perfect.’
+The language speaks of movement when the instrument necessary to it is ready and perfect.’
 
 37. The Master said:—‘The small man is not
 ashamed of what is not benevolent, nor does he fear
@@ -21323,8 +19231,7 @@ small acts of goodness are of no benefit, and does
 not do them; and that small deeds of evil do no
 harm, and does not abstain from them. Hence his
 wickedness becomes great till it cannot be covered,
-and his guilt becomes great till it cannot be par-
-doned. This is what the Yi says, ‘He wears the
+and his guilt becomes great till it cannot be pardoned. This is what the Yi says, ‘He wears the
 cangue and his ears are destroyed :—there will be
 evil.’
 
@@ -21332,14 +19239,10 @@ evil.’
 mind is he who will rest safe in his seat; he who keeps
 ruin in mind is he who will preserve his interests
 secure ; he who sets the danger of disorder before him
-is he who will maintain the state of order. There-
-fore the superior man, when resting in safety, does
+is he who will maintain the state of order. Therefore the superior man, when resting in safety, does
 not forget that danger may come; when in a state
 of security, he does not forget the possibility of ruin;
 and when all is in a state of order, he does not
-
-
-392 TIIE APPENDIXES. SECT. If.
 
 
 forget that disorder may come. Thus his person is
@@ -21381,23 +19284,17 @@ to ten thousand.’
 the son of the Yen family had nearly attained (the
 
 
-CHAP. 5. APPENDIX III. 393
-
-
 standard of perfection). If anything that he did was
 not good, he was sure to become conscious of that ;
 and when he knew it, he did not do the thing again.
-As‘is said in the Yi, “(The first line shows its sub-
-ject) returning from an error that has not led him
+As‘is said in the Yi, “(The first line shows its subject) returning from an error that has not led him
 faraway. There is no occasion for repentance.
 There will be great good.”’
 
-43. There is an intermingling of the genial in-
-fluences of heaven and earth, and transformation in
+43. There is an intermingling of the genial influences of heaven and earth, and transformation in
 its various forms abundantly proceeds. There is
 an intercommunication of seed between male and
-female, and transformation in its living types pro-
-ceeds. What is said in the Yi, ‘ Three individuals
+female, and transformation in its living types proceeds. What is said in the Yi, ‘ Three individuals
 are walking together and one is made to disappear ;
 there is (but) one man walking, and he gets his
 mate,’ tells us of the effort (in nature) at oneness (of
@@ -21413,16 +19310,12 @@ so is complete. If he try to move others while he
 is himself in unrest, the people will not (act) with
 him; if he speak while he is himself in a state of
 apprehension, the people will not respond to him;
-if without (certain principles of) intercommunica-
-tion, he issue his requests, the people will not
+if without (certain principles of) intercommunication, he issue his requests, the people will not
 grant them. When there are none to accord with
 him, those who (work to) injure him will make
 their appearance. As is said in the Yi, “(We see
 one) to whose advantage none will contribute, while
 some will seek to assail him. He observes no
-
-
-394 THE APPENDIXES. SECT, Il.
 
 
 regular rule in the ordering of his heart :—there
@@ -21436,14 +19329,11 @@ seem also to be intended to bring forth more fully the meaning
 of certain previous utterances about the structure and scope of
 the Yf.
 
-Paragraphs 31-34 start from the fourth line of the 31st hexa-
-gram, which would seem merely to require a steady and unvarying
-purpose in any one, in order to the full development of his influ-
-ence. The editors of the imperial edition, however, make the
+Paragraphs 31-34 start from the fourth line of the 31st hexagram, which would seem merely to require a steady and unvarying
+purpose in any one, in order to the full development of his influence. The editors of the imperial edition, however, make the
 whole a sequel of paragraph 5. But granted that there is no
 ‘anxious scheming’ in the processes of the natural world or in the
-phenomena of insect life, there is really no analogy to their pro-
-ceedings in the course of the man who makes himself master of
+phenomena of insect life, there is really no analogy to their proceedings in the course of the man who makes himself master of
 ‘the nature and reasons of things,’ as described in 33 and 34.
 Nor are ‘the nature and reasons of things’ to be found in the Yi,
 as the writer believed they were. Such as it is, it requires immense
@@ -21454,15 +19344,12 @@ the power and ability to invent, and to affect others.
 
 Paragraph 35. See on the third line of Khwa&n, the 47th
 hexagram. If we were to translate the explanations of the line
-after Confucius, we should put the first two statements hypotheti-
-cally ; but the four that compose it seem to run on in the same
+after Confucius, we should put the first two statements hypothetically ; but the four that compose it seem to run on in the same
 way. They are all, 1 apprehend, hypothetical.
 
-Paragraph 36. See on the last line of Kieh, the goth hexa-
-gram. |
+Paragraph 36. See on the last line of Kieh, the goth hexagram. |
 
-Paragraph 37. See on the first line of Shih Ho, the 21st hexa-
-gram. The ‘self-correction in what is small’ implies of course
+Paragraph 37. See on the first line of Shih Ho, the 21st hexagram. The ‘self-correction in what is small’ implies of course
 that the small man has been ‘awed.’ What is said about him here
 is true; but we hardly expect it in this place.
 
@@ -21478,24 +19365,18 @@ the 50th hexagram.
 In paragraph 41 we are conducted to the 16th hexagram, — the
 
 
-CHAP. 6. APPENDIX III. 395
-
-
-Chapter VI. 45. The Master said:—‘(The tri-
-grams) A ien and KhwAn may be regarded as the
+Chapter VI. 45. The Master said:—‘(The trigrams) A ien and KhwAn may be regarded as the
 gate of the Yi.’ AZien represents what is of the yang
 nature (bright and active); Khwan what is of the
 yin nature (shaded and inactive). These two unite
 according to their qualities, and there comes the
 embodiment of the result by the strong and weak
 (lines). In this way we have the phenomena of
-heaven and earth visibly exhibited, and can com-
-prehend the operation of the spiritual intelligence.
+heaven and earth visibly exhibited, and can comprehend the operation of the spiritual intelligence.
 
 46. The appellations and names (of the diagrams
 and lines) are various, but do not go beyond (what
-is to be ascribed to the operation of these two con-
-ditions). When we examine the nature and style
+is to be ascribed to the operation of these two conditions). When we examine the nature and style
 
 
 second line of it. The being ‘firm as a rock’ is understood to
@@ -21506,14 +19387,12 @@ In paragraph 42, ‘the son of the Yen family’ is Yen Hui, the
 favourite disciple of Confucius. The passage quoted from the Yi
 is that on the first line of F€, the 24th hexagram.
 
-To paragraph 43, as to paragraph 38, I would prefix the cha-
-racters for‘ The Master said.” ‘Male and female’ is to be taken
+To paragraph 43, as to paragraph 38, I would prefix the characters for‘ The Master said.” ‘Male and female’ is to be taken
 generally, and not confined to the individuals of the human pair.
 One Chinese writer says that in the transformations ascribed to
 heaven and earth, birds, fishes, animals, and plants are included,
 but from the ‘ transformation in its living types’ plants are excluded,
-because in their generation there is nothing analogous to the emis-
-sion and reception of seed. Other Chinese writers, however, are
+because in their generation there is nothing analogous to the emission and reception of seed. Other Chinese writers, however, are
 well enough acquainted with the sexual system of plants. It would
 seem to me that Confucius, if the paragraph were really his, intended
 only plants or the vegetable world in his reference to the operation
@@ -21522,11 +19401,7 @@ of male and female. The passage of the Yi referred to is on the
 third line of Sun, the 41st hexagram. The application of it is
 far-fetched.
 
-Paragraph 44. See on the fifth line of Yi, the 42nd _hexa-
-gram.
-
-
-396 THE APPENDIXES. SECT. Il.
+Paragraph 44. See on the fifth line of Yi, the 42nd _hexagram.
 
 
 (of the appended explanations), they seem to express
@@ -21537,8 +19412,7 @@ discriminate (the issues of) the future; it makes
 manifest what is minute, and brings to light what
 is obscure. (Then king W4n) opened (its symbols),
 and distinguished things in accordance with its names,
-so that all his words were correct and his explana-
-tions decisive ;—-(the book) was now complete.
+so that all his words were correct and his explanations decisive ;—-(the book) was now complete.
 
 48. The appellations and names (of the diagrams
 and lines) are but small matters, but the classes of
@@ -21553,8 +19427,7 @@ and evil.
 
 
 The principal object, it is said, of chapter VI, paragraphs 45-48,
-is to set forth the views of king Wan and his son in the explana-
-tions which they appended to the diagrams and lines; and in
+is to set forth the views of king Wan and his son in the explanations which they appended to the diagrams and lines; and in
 doing this the writer begins in 45, with Ff-hsi’s starting, in the
 formation of his eight trigrams, from the devising of the whole and
 divided lines, to represent the two primitive forms in nature. The
@@ -21566,8 +19439,7 @@ phenomena of nature and experience. The next sentence in the
 above version of paragraph 45 appears in Canon McClatchie’s
 translation of the Yi, as follows:—‘Xhien is the membrum
 virile, and Khw4n is the pudendum muliebre (the sakti of
-Khien).’ It is hardly possible, on reading such a version, to sup-
-press the exclamation proh pudor! Can a single passage be
+Khien).’ It is hardly possible, on reading such a version, to suppress the exclamation proh pudor! Can a single passage be
 adduced in support of it from among all the Chinese critics in the
 
 
@@ -21576,8 +19448,7 @@ CHAP. ¥. APPENDIX III. 397
 
 Chapter VII. 49. Was it not in the middle period
 of antiquity that the Yi began to flourish? Was
-not he who made it familiar with anxiety and cala-
-mity ?
+not he who made it familiar with anxiety and calamity ?
 
 50. Therefore (the roth diagram), Li, shows us
 the foundation of virtue; (the 15th), Hsien, its
@@ -21609,8 +19480,7 @@ might be rectified.
 Paragraphs 47 and 48 follow and expand the meaning of 45.
 The editors of the imperial edition say that the former sentence of
 47 is the sequel of 45, and the latter of 46, bringing us finally to
-the explanations and decisions of king Wan, as the most im-
-portant portion of the Yi. At Hsi, moreover, observes that
+the explanations and decisions of king Wan, as the most important portion of the Yi. At Hsi, moreover, observes that
 throughout the chapter, as well as in the chapters that follow, there
 must be many characters wanting in the text, while there are many
 also that are doubtful. This is specially the case with 48. Where
@@ -21619,35 +19489,28 @@ is easy; but where characters are evidently missing, attempls to fill
 the lacunae are merely guess-work.
 
 
-398 TIIE APPENDIXES. SECT. I.
 Me Jee.  .  e
 and the distinction thence arising; in FQ we have
 what is small (at first), but there is in it a (nice)
 discrimination of (the qualities of) things; in Hang
-we have a mixed experience, but without any weari-
-ness; in Sun we have difficulty in the beginning
+we have a mixed experience, but without any weariness; in Sun we have difficulty in the beginning
 and ease in the end; in Yi we have abundance of
 growth without any contrivance; in Khwan we
 have the pressure of extreme difficulty, ending in a
 free course; in 3ing we have abiding in one’s place
-and at the same time removal (to meet the move-
-ment of others); and in Sun we have the weighing
+and at the same time removal (to meet the movement of others); and in Sun we have the weighing
 ‘of things (and action accordingly), but secretly and
 unobserved.
 
 52. (The use of) Lit appears in the harmony of
-the conduct; of Hsien, in the regulation of cere-
-monies; of F4, in self-knowledge; of Hang, in uni-
-formity of virtue ; of Sun, in keeping what is harmful
+the conduct; of Hsien, in the regulation of ceremonies; of F4, in self-knowledge; of Hang, in uniformity of virtue ; of Sun, in keeping what is harmful
 at a distance; of Yi, in the promotion of what is
-advantageous; of Khwéan, in the diminution of re-
-sentments; of 3ing, in the discrimination of what
+advantageous; of Khwéan, in the diminution of resentments; of 3ing, in the discrimination of what
 is righteous; and of Sun, in the doing of what is
 appropriate to time and to circumstances.
 
 
-Chapter VII, paragraphs 49-52, is occupied with nine hexa-
-grams, as specially indicating how the superior man, or the ruler,
+Chapter VII, paragraphs 49-52, is occupied with nine hexagrams, as specially indicating how the superior man, or the ruler,
 should deal with a time of trouble and solicitude, specially by the
 cultivation of his own virtue. Not, we are told, that the same
 thing might not be learned from other diagrams, but these nine
@@ -21663,12 +19526,8 @@ Paragraph 50 shows the particular phase of virtue in each of the
 nine hexagrams that are mentioned; 51, the marvellous character-
 
 
-CHAP, 8. APPENDIX III. 399
-
-
 Chapter VIII. 53. The Ytis a book which should
-not be let slip from the mind. Its method (of teach-
-ing) is marked by the frequent changing (of its lines).
+not be let slip from the mind. Its method (of teaching) is marked by the frequent changing (of its lines).
 They change and move without staying (in one
 place), flowing about into any one of the six places
 of the hexagram. They ascend and descend, ever
@@ -21703,21 +19562,16 @@ author of the Yi to the use to be derived, in such circumstances,
 from the study of Li and the other hexagrams.
 
 
-Chapter VIII, paragraphs 53-56, describes the method of study-
-ing the Yi as consisting very much in watching the changes that
+Chapter VIII, paragraphs 53-56, describes the method of studying the Yi as consisting very much in watching the changes that
 take place in the lines, and reflecting on the appended explanations ;
 while, after all, much must depend on there being ‘ the proper men,’
 to carry its lessons into practice.
 
 
-400 THE APPENDIXES. SECT. I.
-
-
 Chapter IX. 57. The Yi is a book in which the
 form (of each diagram) is determined by the lines
 from the first to the last, which must be carefully
-observed. The six lines are mixed together, accord-
-ing to the time (when they enter the figure) and
+observed. The six lines are mixed together, according to the time (when they enter the figure) and
 their substance (as whole and divided).
 
 58. There is difficulty in knowing (the significance
@@ -21745,19 +19599,12 @@ than half of this knowledge.
 
 
 There seems to be a contradiction between the statements in
-paragraphs 53 and 56 about the book supplying, and not sup-
-plying, a standard rule; but the meaning, probably, is that while it
-does not give a rule generally applicable, it gives rules for par-
-ticular cases.
+paragraphs 53 and 56 about the book supplying, and not supplying, a standard rule; but the meaning, probably, is that while it
+does not give a rule generally applicable, it gives rules for particular cases.
 
-KG Hsi says he does not understand 54, and thinks some cha-
-racters.must have been lost. ‘The six places of the hexagram’ in
-53 are, literally, ‘the six empties.’ The places are so called, be-
-cause it is only a temporary possession of them, which is held by
+KG Hsi says he does not understand 54, and thinks some characters.must have been lost. ‘The six places of the hexagram’ in
+53 are, literally, ‘the six empties.’ The places are so called, because it is only a temporary possession of them, which is held by
 the fugitive lines, whether whole or divided.
-
-
-CHAP. 9. APPENDIX III. 401
 
 
 quality (as being in even places), but their positions
@@ -21778,8 +19625,7 @@ are different; and the (occupant of) the third meets
 with many misfortunes, while the occupant of the
 fifth achieves much merit:—this arises from one
 being in the noble position and the other in the
-mean. Are they occupied by the symbol of weak-
-ness? There will be peril. By that of strength ?
+mean. Are they occupied by the symbol of weakness? There will be peril. By that of strength ?
 There will be victory.
 
 
@@ -21787,16 +19633,14 @@ Chapter IX, paragraphs 56-62, speaks of the hexagrams as
 made up of the different lines, and various things to be attended to
 in those lines to determine their meaning.
 
-Paragraph 57. The time or order in which the lines enter de-
-termines of course the place and number of each in the figure.
+Paragraph 57. The time or order in which the lines enter determines of course the place and number of each in the figure.
 Their ‘substance’ is their form, as whole or divided, being yang
 or yin.
 
 Paragraph 58 belongs to the first and sixth lines. We are hardly
 prepared for the statement that ‘the maker or makers’ had so
 much difficulty in determining the meaning of the first line. Of
-course when they had fixed that and completed the figure, ex-
-plaining all the lines, it was easy for the student to follow their
+course when they had fixed that and completed the figure, explaining all the lines, it was easy for the student to follow their
 exposition, as paragraph 59 says.
 
 Paragraph 60 seems to say that the work of the duke of au on
@@ -21807,40 +19651,32 @@ father’s mind in explaining the whole figure.
 [16] pd
 
 
-402 THE APPENDIXES. SECT. II.
-
-
-Chapter X. 63. The Yi is a book of wide com-
-prehension and great scope, embracing everything.
+Chapter X. 63. The Yi is a book of wide comprehension and great scope, embracing everything.
 There are in it the way of heaven, the way of man,
 and the way of earth. It then takes (the lines
 representing) those three Powers, and doubles them
 till they amount to six. What these six lines show
 is simply this,—the way of the three Powers.
 
-64. This way is marked by changes and move-
-ments, and hence we have the imitative lines. Those
+64. This way is marked by changes and movements, and hence we have the imitative lines. Those
 lines are of different grades (in the trigrams), and
 hence we designate them from their component
 elements. These are mixed together, and elegant
-forms arise. When such forms are not in their appro-
-priate places, the ideas of good fortune and bad are
+forms arise. When such forms are not in their appropriate places, the ideas of good fortune and bad are
 thus produced.
 
 
 The last two paragraphs mention several points important to be
 attended to in studying, more especially, the duke of Xau on the
 several lines. Three different views of the concluding statement,—
-‘are they occupied,’ &c.,—are given in the imperial edition. ‘It be-
-longs, says WG Kang, ‘to the fifth line ;’ ‘to the third line,’ says Hf
+‘are they occupied,’ &c.,—are given in the imperial edition. ‘It belongs, says WG Kang, ‘to the fifth line ;’ ‘to the third line,’ says Hf
 Ping-wan (also of the Yiian dynasty); while Han Hsing-kwo (of
 the Thang dynasty) held that it belonged to both. The Khang-hsi
 editors say that ‘by discriminating and combining these views, we
 get to the meaning of the text.’ I am unable to do so.
 
 
-Chapter X, paragraphs 63, 64, speaks of the great comprehen-
-siveness of the Yi, its figures and explanations being applicable to
+Chapter X, paragraphs 63, 64, speaks of the great comprehensiveness of the Yi, its figures and explanations being applicable to
 the three Powers—heaven, earth, and man.
 
 With paragraph 63, compare paragraph 4, Appendix VI. In the
@@ -21851,8 +19687,7 @@ number of lines, and stopping with the hexagram ; but the doing so
 was entirely arbitrary. A( Hsi says :—‘ The upper two characters
 belong to heaven, the middle two to man, and the lower two to earth.’
 No words could be more express; and yet Canon McClatchie says
-(p. 354):—‘ The two upper strokes represent Heaven, or Thai-
-yi, the husband; the two middle strokes, Earth, his wife; and the
+(p. 354):—‘ The two upper strokes represent Heaven, or Thaiyi, the husband; the two middle strokes, Earth, his wife; and the
 
 
 CHAP. Ir, APPENDIX III. 403
@@ -21862,8 +19697,7 @@ Chapter XI. 65. Was it not in the last age of
 Yin, when the virtue of Au had reached its highest
 point, and during the troubles between king WaAn
 and (the tyrant) Au, that the (study of the Y1)
-began to flourish? On this account the explana-
-tions (in the book) express (a feeling of) anxious
+began to flourish? On this account the explanations (in the book) express (a feeling of) anxious
 apprehension, (and teach) how peril may be turned
 into security, and easy carelessness is sure to meet
 with overthrow. The method in which these things
@@ -21890,8 +19724,7 @@ good and evil.’
 in the Chinese text, which I have rendered according to the account
 of them in paragraph 8, et al. Their different grades are their
 position as high or low in the figures (paragraph 1, Section i), and
-their ‘component elements,’ literally ‘their substance, or thing-
-nature,’ is their structure as being yang or yin, according to the
+their ‘component elements,’ literally ‘their substance, or thingnature,’ is their structure as being yang or yin, according to the
 use of wuh in paragraphs 57, 59, et al. A yang line in an even
 place, or a yin line in an odd, is not in its appropriate place, and
 gives an indication of what is bad.
@@ -21904,17 +19737,12 @@ Chapter XI, paragraph 65. P. Regis observes on this chapter :—
 pd2
 
 
-404 THE APPENDIXES. SECT. II.
-
-
-Chapter XII. 66. (The hexagram) AZien repre-
-sents the strongest of all under the sky. Through
+Chapter XII. 66. (The hexagram) AZien represents the strongest of all under the sky. Through
 this quality its operations are always manifested
 with ease, for it knows where there would be peril
 and embarrassment. (The hexagram) Khwan
 represents the most docile of all under the sky.
-Through this quality its operations are always mani-
-fested with the promptest decision, for it knows
+Through this quality its operations are always manifested with the promptest decision, for it knows
 where there would be obstruction.
 
 67. (The sages, who are thus represented, and
@@ -21925,12 +19753,10 @@ anxiety; (thus) they fixed the good and bad fortune
 (of all things) under the sky, and could accomplish
 the things requiring strenuous efforts.
 
-68. Therefore amid the changes and transforma-
-tions (taking place in heaven and earth), and the
+68. Therefore amid the changes and transformations (taking place in heaven and earth), and the
 words and deeds of men, events that are to be
 fortunate have their happy omens. (The sages)
-knew the definite principles underlying the prog-
-nostications of the former class, and the future of
+knew the definite principles underlying the prognostications of the former class, and the future of
 
 
 Yi a passage which affords more light for the explanation of the
@@ -21948,26 +19774,20 @@ to inculcate a cautious and reverent administration of affairs, never
 forgetful of the uncertainties of life and fortune.
 
 
-CHAP, 12. APPENDIX III. 405
-
-
 —
 
 
 those of the latter, (now to be) ascertained by
 divination.
 
-69. The places of heaven and earth (in the dia-
-grams) having been determined, the sages were
+69. The places of heaven and earth (in the diagrams) having been determined, the sages were
 able (by means of the Yi) to carry out and complete
 their ability. (In this way even) the common
 people were able to share with them in (deciding
 about) the counsels of men and the counsels of
 spiritual beings.
 
-70. The eight trigrams communicate their infor-
-mation by their emblematic figures. The explana-
-tions appended to the lines and the completed
+70. The eight trigrams communicate their information by their emblematic figures. The explanations appended to the lines and the completed
 figures tell how the contemplation of them affected
 (the makers). The strong and the weak lines
 appear mixed in them, and (thus) the good and the
@@ -21975,8 +19795,7 @@ evil (which they indicate) can be seen.
 
 71. The changes and movements (which take
 place in the manipulation of the stalks and the
-formation of the diagrams) speak as from the stand-
-point of what is advantageous. The (intimations of)
+formation of the diagrams) speak as from the standpoint of what is advantageous. The (intimations of)
 good and evil vary according to the place and nature
 (of the lines). Thus they may indicate a mutual
 influence (in any two of them) of love or hatred,
@@ -21994,9 +19813,6 @@ occasion for repentance and regret.
 72. The language of him who is meditating a
 
 
-406 THE APPENDIXES. SECT. II.
-
-
 revolt (from the right) betrays his inward shame;
 that of him whose inward heart doubts about it
 diverges to other topics. The words of a good man
@@ -22007,8 +19823,7 @@ words of one who slanders what is good are un-
 Chapter XII, paragraphs 66-72, is generally divided into three
 sections ;—the first, embracing 66-68, and treating of the sages,
 the makers of the Yi, as themselves independent of it, knowing all
-that it enables us to know, and able to accomplish all that it en-
-ables us to accomplish; the second, embracing 69-71, and telling
+that it enables us to know, and able to accomplish all that it enables us to accomplish; the second, embracing 69-71, and telling
 how the sages formed the Yi, and made all men, by means of it,
 partakers of their now unlimited knowledge and power; the third,
 comprised in paragraph 72, and saying, if it be genuine and in its
@@ -22017,10 +19832,8 @@ indicative of what is in them, as the explanations of the Yf? are,
 when we consider who were its authors.
 
 ‘The sages,’ who are the subject of 65-68, are not mentioned in
-the text; but 67 makes it plain that the subject must be some per-
-sonal being or beings. Neither X/ien nor Khwan can ‘rejoice in
-heart, and weigh carefully matters occasioning anxiety.’ The com-
-mentators generally interpolate ‘the sages;’ even Ying-ta of the
+the text; but 67 makes it plain that the subject must be some personal being or beings. Neither X/ien nor Khwan can ‘rejoice in
+heart, and weigh carefully matters occasioning anxiety.’ The commentators generally interpolate ‘the sages;’ even Ying-ta of the
 Thang dynasty, who does not introduce the sages in his exposition,
 yet makes the subject to be ‘the disposer and nourisher of all
 things.’ He gets to his view by an unnatural interpretation of two
@@ -22031,19 +19844,14 @@ when also ‘heaven and earth’ take the place of Xhien and
 Khw4n. It is absurd, not to say blasphemous, to assume that
 the sages who made the Yi had the knowledge and ability here
 ascribed to them ; but the theory of the Yi as containing a scheme
-for the discovery of the future necessitated the ascribing such attri-
-butes to them. Compare with the whole Section, and especially
+for the discovery of the future necessitated the ascribing such attributes to them. Compare with the whole Section, and especially
 with paragraph 68, what is said in ‘the Doctrine of the Mean,’
 chapter 24.
 
-The first Section shows how the sages were themselves indepen-
-dent_of the Y?, and had no need of it; the second goes on to tell
+The first Section shows how the sages were themselves independent_of the Y?, and had no need of it; the second goes on to tell
 how they devised and constructed it, to make all men equal to
 themselves in a knowledge of phenomena and human events, and
 of their indications of, and issues in, the future. Summing up its
-
-
-CHAP, 12. APPENDIX III. 407
 
 
 substantial; those of him who is losing what he
@@ -22055,14 +19863,12 @@ in the Appendix more full and clear than this on the five points in
 regard to the lines which the student of the Yi has to attend to.
 Those points are:—their time, position, quality, mutual nearness,
 and responsive relation. It is by a consideration of the two latter
-points, moreover, that he must form his judgment on their appro-
-priateness or inappropriateness in the three others.’
+points, moreover, that he must form his judgment on their appropriateness or inappropriateness in the three others.’
 
 Paragraph 72 has really no connexion with the rest of the
 chapter. I have stated above how the critics attempt to make out
 such a connexion; but I agree myself with P. Regis, who appends
-to his version of the paragraph this note :—‘ Quae sententiae qui-
-dem sapiunt doctrinam Confucianam, at non ordinem, utpote cum
+to his version of the paragraph this note :—‘ Quae sententiae quidem sapiunt doctrinam Confucianam, at non ordinem, utpote cum
 praecedentibus minime cohaerentes, sed omnino ab iis abscissac
 avulsaeque.’
 
@@ -22095,14 +19901,12 @@ firm, he is fit to manage (all) affairs.
 
 3. The fact that the superior man practises these
 four virtues justifies the application to him of the
-words—‘ Ahien represents what is great and origin-
-ating, penetrating, advantageous, correct and firm.’
+words—‘ Ahien represents what is great and originating, penetrating, advantageous, correct and firm.’
 
 
 The title of this Appendix is in Chinese the Wan Yen Awan,
 ‘The Record of Wan Yen;’ and according to the analogy of
-the titles of the three Appendixes that follow, Wan should per-
-form the part of a verb and Yen that of a substantive. So the
+the titles of the three Appendixes that follow, Wan should perform the part of a verb and Yen that of a substantive. So the
 characters are usually taken, and to W4n is given the meaning of
 ‘Explaining (Shih);’ and to Yen that of ‘Words or Sentences,’
 meaning the Thwan of king WAn, and the Y4o of the duke of
@@ -22136,13 +19940,10 @@ from the sage.
 Chapter I, paragraphs 1-3, shows how the attributes of Ahien,
 as explained by king Wan, are to be understood of the constituent
 principles of human nature. What is remarkable is, that we find
-paragraphs 1, 2, with very little variation, in one of the narra-
-tives of the 30 Awan, as having been spoken by a marchioness-
-dowager of LQ in B.c. 564, several years before Confucius was born.
+paragraphs 1, 2, with very little variation, in one of the narratives of the 30 Awan, as having been spoken by a marchionessdowager of LQ in B.c. 564, several years before Confucius was born.
 One so familiar as AQ Hsi was with all the classical literature of
 his country could not be ignorant of this. His solution of the
-questions arising from it is, that anciently there was this explana-
-tion of the characters of king Wan; that it was employed by Shi
+questions arising from it is, that anciently there was this explanation of the characters of king Wan; that it was employed by Shi
 Kiang (of Lf), and that Confucius also availed himself of it; while
 the chronicler used, as he does below, the phraseology of ‘The
 Master said,’ to distinguish the real words of Confucius from such
@@ -22151,13 +19952,9 @@ The legitimate conclusion from ‘0's criticism is this, that so much
 of this Appendix as is preceded by ‘The Master said’ is from
 Confucius ;—so much and no more.
 
-The ascription in paragraph 3 of ‘the four virtues’ to the supe-
-rior or normal man, man in his best estate, and yet inferior to ‘the
+The ascription in paragraph 3 of ‘the four virtues’ to the superior or normal man, man in his best estate, and yet inferior to ‘the
 sagely man,’ is Confucian,—after the style of the teaching of the
 Master in the Analects.
-
-
-410 THE APPENDIXES. SECT. I.
 
 
 into action ; sorrowing (for want of opportunity), he
@@ -22184,17 +19981,14 @@ to a ruler’s virtue.’
 third line, ‘The superior man is active and vigilant
 all the day, and in the evening (still) careful and
 apprehensive ;—the position is dangerous, but there
-will be no mistake ?’? The Master said :—‘ The supe-
-rior man advances in virtue, and cultivates all the
+will be no mistake ?’? The Master said :—‘ The superior man advances in virtue, and cultivates all the
 sphere of his duty. His leal-heartedness and good
 faith are the way by which he advances in virtue.
-His attention to his words and establishing his sin-
-cerity are the way by which he occupies in his
+His attention to his words and establishing his sincerity are the way by which he occupies in his
 sphere. He knows the utmost point to be reached,
 and reaches it, thus showing himself in accord with
 the first springs (of things); he knows the end to be
-rested in, and rests in it, thus preserving his righte-
-ousness in accordance with that end. Therefore he
+rested in, and rests in it, thus preserving his righteousness in accordance with that end. Therefore he
 occupies a high position without pride, and a low
 
 
@@ -22202,8 +19996,7 @@ CHAP. 2. APPENDIX IV. 4II
 
 
 position without anxiety. Thus it is that, being
-active and vigilant, and careful (also) and apprehen-
-sive as the time requires, though his position be
+active and vigilant, and careful (also) and apprehensive as the time requires, though his position be
 perilous, he will make no mistake.’
 
 7. What is the meaning of the words under the
@@ -22240,24 +20033,19 @@ not that of office; (its occupant) dwells on high, but
 he has no people (to rule); and the men of talent
 
 
-412 THE APPENDIXES. SECT. I.
-
-
 and virtue in the positions below will give him no
 aid ;—should he move in such a case, there will be
 occasion for repentance.’
 
 
-In chapter II, paragraphs 4-9, Confucius is introduced, ex-
-plaining, with considerable amplification, what is said by the duke
+In chapter II, paragraphs 4-9, Confucius is introduced, explaining, with considerable amplification, what is said by the duke
 of Kau under the several lines of the hexagram. ‘The dragon’
 becomes the symbol of ‘the superior man;’ and of ‘the great man,’
 or the sage upon the throne. The language approaches at times to
 the magniloquence of Mencius, while in sete 8 the voice hardly
 seems to be that of the sage at all.
 
-With paragraph 5, compare chapters 8 and 14 of ‘the Doc-
-trine of the Mean,’ agreeing much in language and sentiment
+With paragraph 5, compare chapters 8 and 14 of ‘the Doctrine of the Mean,’ agreeing much in language and sentiment
 with what we have here. The line, a strong or undivided line, and
 therefore yang, is said to be ‘exactly in the central place;’ but
 the line is in the second, an even place, that proper to a yin line ;
@@ -22267,8 +20055,7 @@ now of ‘exact,’ and now of ‘correct,’ the latter being always
 favourably interpreted.
 
 Paragraph 8. The fifth is almost always the place of honour and
-authority in the hexagram, and therefore ‘the great man’ here con-
-tinues to be the great man, ‘the sage.’ The argument is that as
+authority in the hexagram, and therefore ‘the great man’ here continues to be the great man, ‘the sage.’ The argument is that as
 things of the same kind respond to and seek one another, so is it
 with the sage and ordinary man. They are of the same kind,
 though far apart; and when a sage appears, all other men look to
@@ -22296,8 +20083,7 @@ Chapter III. ro. ‘ The dragon lies hid ;—it is not
 the time for active doing :’—the position is (too) low.
 
 11. ‘The dragon shows himself and is in the
-field :’—the time (requires him still) to be unem-
-ployed.
+field :’—the time (requires him still) to be unemployed.
 
 12. ‘All the day active and vigilant :—(he now)
 does his (proper) business.
@@ -22312,22 +20098,18 @@ in the deep :—he is making trial of himself.
 there will be occasion for repentance :'—when things
 have been carried to extremity, calamity ensues.
 
-16. Undivided lines appear in all these representa-
-tions of the great and originating power denoted by
+16. Undivided lines appear in all these representations of the great and originating power denoted by
 Khien :—(what follows in the Y4o tells us how) all
 under the sky there will be good order.
 
 
 do not move. The former turn their heads to the sky, and the
-latter their roots to the earth. So we read in Xt Hst; but I con-
-tinue to wonder that Confucius selected such illustrations and spoke
+latter their roots to the earth. So we read in Xt Hst; but I continue to wonder that Confucius selected such illustrations and spoke
 in such a style.
 
 Paragraph 9. AsI have said above, the place of honour and
 authority in the hexagram belongs to the fifth line, and no other
-plays so unimportant a part as the sixth; and hence it is repre-
-sented here as having ‘no place’ at all. Before he whom it re-
-presents is called to act, the battle has been won or lost. Movement
+plays so unimportant a part as the sixth; and hence it is represented here as having ‘no place’ at all. Before he whom it represents is called to act, the battle has been won or lost. Movement
 from him will only accelerate and intensify the result.
 
 
@@ -22342,7 +20124,6 @@ to this line, page 58, and also that on paragraph 7 of the symbolism
 of the figures and lines, Section i, page 165. There is the same
 
 
-414 THE APPENDIXES. SECT. I.
 me ”0lU CC —Erne lc kl EE
 
 Chapter 1V. 17. ‘The dragon lies hid in the
@@ -22353,8 +20134,7 @@ hid away as in the deep.
 18. ‘The dragon appears in the field :’—all under
 heaven (begins to be) adorned and brightened.
 
-19. ‘All the day active and vigilant :’—continu-
-ally, as the time passes and requires, does he act.
+19. ‘All the day active and vigilant :’—continually, as the time passes and requires, does he act.
 
 20. ‘He is as if he were leaping up, (but still) is
 in the deep :'—a change is taking place in the method
@@ -22368,8 +20148,7 @@ virtue.
 there will be occasion for repentance :'—the time is
 come to an end, and so also is his opportunity.
 
-23. Undivided lines appear in all these repre-
-sentations of the great and originating power denoted
+23. Undivided lines appear in all these representations of the great and originating power denoted
 by Aien:—and (from what follows in the Y4o)
 we see the model (of action) afforded by heaven.
 
@@ -22380,8 +20159,7 @@ Y4o, though it is not repeated here.
 
 
 Chapter IV, paragraphs 17—23, goes over the same ground for a
-third time, treating the various paragraphs chiefly from the stand-
-point of time.
+third time, treating the various paragraphs chiefly from the standpoint of time.
 
 Paragraph 17 tells us that time and circumstances are essential, as
 well as inward power, to successful development and demonstration.
@@ -22439,29 +20217,23 @@ or expositions of king W4n, and amplifies it, not quoting from it,
 however, so fully and exactly, as he has done in the previous
 chapters from the Y4o.
 
-Paragraphs 24 and 25 are based on the statement of the signi-
-ficance of the Thwan under X4ien, and not on the treatise on the
+Paragraphs 24 and 25 are based on the statement of the significance of the Thwan under X4ien, and not on the treatise on the
 
 
 symbolism. The originating power cannot be separated from that
 of penetration and development. The latter issues from the former
 
 
-416 THE APPENDIXES. SECT. I.
-
-
 Chapter VI. 30. In the superior man his conduct
 is (the fruit of) his perfected virtue, which might be
 seen therefore in his daily course; but the force of
-that phrase, ‘lying hid,’ requires him to keep re-
-tired, and not yet show himself, nor proceed to the
+that phrase, ‘lying hid,’ requires him to keep retired, and not yet show himself, nor proceed to the
 full development of his course. While this is the
 case, the superior man (knows that) it is not the
 time for active doing.
 
 31. The superior man learns and accumulates the
-results of his learning; puts questions, and discrimi-
-nates among those results; dwells magnanimously
+results of his learning; puts questions, and discriminates among those results; dwells magnanimously
 and unambitiously in what he has attained to; and
 Carries it into practice with benevolence. What the
 Yi says,‘The dragon appears in the field :—it will
@@ -22477,12 +20249,10 @@ as the summer follows on the spring, according to an illustration
 of AQ Hst. ‘The advantageousness’ and ‘firm correctness,’ he
 compares also to the autumn and winter, saying that the K/ien
 power in its essence, as it is in itself, is best described by these two
-latter characteristics, while the two former describe it in its opera-
-tion. It is thus that he tries to give his readers an idea of. what he
+latter characteristics, while the two former describe it in its operation. It is thus that he tries to give his readers an idea of. what he
 understood by ‘nature and feelings’ in 25. But this chapter treats
 of the Ahien power in nature rather than in humanity. Confining
-our view to the power so operating, we cannot say that the descrip-
-tion of it in 26 and 27 is magniloquent or hyperbolical.
+our view to the power so operating, we cannot say that the description of it in 26 and 27 is magniloquent or hyperbolical.
 
 Paragraph 28 returns to the explanations of the lines of the
 hexagram by the duke of Kau, which exhibit the power in different
@@ -22498,25 +20268,20 @@ CHAP. 6. APPENDIX IV. 417
 
 
 occupant) is not in heaven above, nor is he in the
-field beneath. Therefore there must be active vigi-
-lance and cautious apprehension as the time requires ;
+field beneath. Therefore there must be active vigilance and cautious apprehension as the time requires ;
 and though (the position be) perilous, there will be
 no mistake.
 
 33. In the fourth line there is (the symbol of)
 strength, but (the position) is not central. (Its
 Occupant) is not in heaven above, nor is he in the
-field beneath, nor is he in the place of man inter-
-mediate. Hence he is in perplexity; and being so,
+field beneath, nor is he in the place of man intermediate. Hence he is in perplexity; and being so,
 he has doubts about what should be his movements,
 and so will give no occasion for blame.
 
 34. The great man is he who is in harmony, in
-his attributes, with heaven and earth; in his bright-
-ness, with the sun and moon; in his orderly pro-
-cedure, with the four seasons; and in his relation
-to what is fortunate and what is calamitous, in har-
-mony with the spirit-like operations (of Providence).
+his attributes, with heaven and earth; in his brightness, with the sun and moon; in his orderly procedure, with the four seasons; and in his relation
+to what is fortunate and what is calamitous, in harmony with the spirit-like operations (of Providence).
 He may precede Heaven, and Heaven will not act
 in opposition to him; he may follow Heaven, but
 will act (only) as Heaven at the time would do. If
@@ -22530,8 +20295,7 @@ but not to retire; to maintain but not to let perish ;
 to get but not to lose.
 
 36. He only is the sage who knows to advance and
-to retire, to maintain and to let perish ; and that with-
-out ever acting incorrectly. Yes, he only is the sage!
+to retire, to maintain and to let perish ; and that without ever acting incorrectly. Yes, he only is the sage!
 
 
 Chapter VI, paragraphs 30-36. The author leaving the Thwan,
@@ -22539,9 +20303,6 @@ turns again to the treatise on the symbolism of the Y4o, his main
 
 
 [16] E¢
-
-
-418 THE APPENDIXES. SECT. II.
 
 
 Section II], KuwAN.
@@ -22580,8 +20341,7 @@ The eulogium of ‘the great man’ in paragraph 34 cannot fail to
 recall to the classical scholar the thirty-first and other chapters of ‘the
 Doctrine of the Mean,’ where the sage is described as ‘The Equal
 of Heaven.’ In one sentence here he is spoken of as sometimes
-taking precedence of Heaven, which then does not act in opposi-
-tion to him! I do not know of any statement about the sage,
+taking precedence of Heaven, which then does not act in opposition to him! I do not know of any statement about the sage,
 coming without doubt from Confucius, that is so extravagant as
 this. Itis difficult—in fact impossible—to say from the Yi itself, what
 we are to understand by the kwei shan, which I have translated
@@ -22602,16 +20362,14 @@ every definite form.
 2. ‘ By following, it obtains its (proper) lord,’ and
 pursues its regular (course).
 
-3. It contains all things in itself, and its trans-
-forming (power) is glorious.
+3. It contains all things in itself, and its transforming (power) is glorious.
 
 4. Yes, what docility marks the way of Khwan!
 It receives the influences of heaven, and acts at
 the proper time.
 
 
-Chapter II. 5. The family that accumulates good-
-ness is sure to have superabundant happiness, and
+Chapter II. 5. The family that accumulates goodness is sure to have superabundant happiness, and
 the family that accumulates evil is sure to have
 superabundant misery. The murder of a ruler by
 
@@ -22621,8 +20379,7 @@ other. I think it likely that the breath or air, £47, became the name
 with the earliest Chinese for their first concept of spirit; then the
 breath inspired or inhaled was called kwei, and became the name
 for the grosser part of the spirit, returning to the earth; and shan,
-the breath exhaled or expired, the name for the subtler and intellec-
-tual spirit, ascending to a state of activity and enjoyment. The
+the breath exhaled or expired, the name for the subtler and intellectual spirit, ascending to a state of activity and enjoyment. The
 explanations of the terms in the & Y4 and other dictionaries seem
 to justify this view. The combination kwei shan is sometimes
 best translated by ‘spiritual beings.’ The school of the Sung
@@ -22633,8 +20390,7 @@ earth are another name for tao, and kwei shan another name for
 “the vestiges of making and transformation;” and that the sage being
 in harmony with the tao or practical reason of the universe, how
 can men or the kwei shan be contrary to him?’ Whatever be
-thought of the Sung speculations and theories, I think that a trans-
-lator ought to give an indication of the primary meaning of the
+thought of the Sung speculations and theories, I think that a translator ought to give an indication of the primary meaning of the
 name kwei shan.
 
 Paragraphs 35 and 36 suggest the description of Confucius by
@@ -22644,9 +20400,6 @@ circumstances of the time required.
 
 
 E¢2
-
-
-420 THE APPENDIXES. SECT. Il.
 
 
 his minister, or of his father by a son, is not the
@@ -22679,8 +20432,7 @@ The way of the earth is—‘not to claim the merit
 of achievement, but on behalf (of heaven) to bring
 things to their proper issue.
 
-8. Through the changes and transformations pro-
-duced by heaven and earth, plants and trees grow
+8. Through the changes and transformations produced by heaven and earth, plants and trees grow
 luxuriantly. If (the reciprocal influence of) heaven
 and earth were shut up and restrained, we should
 have (a state that might suggest to us) the case
@@ -22695,8 +20447,7 @@ no ground for blame or for praise,’ are in reality
 a lesson of caution.
 
 9. The superior man (emblemed here) by the
-‘yellow’ and correct (colour), is possessed of com-
-prehension and discrimination. He occupies the
+‘yellow’ and correct (colour), is possessed of comprehension and discrimination. He occupies the
 correct position (of supremacy), but (that emblem)
 is on (the lower part of) his person. His excellence
 is in the centre (of his being), but it diffuses a
@@ -22711,15 +20462,12 @@ As if indignant at there being no acknowledgment
 of the (superiority of the subject of the) yang line,
 (the text) uses the term ‘dragons,’ But still the
 (subject of neither line) can leave his class, and
-hence we have ‘the blood’ mentioned. The men-
-tion of that as being (both) ‘azure and yellow’
-indicates the mixture of heaven and earth. Hea-
-ven's (colour) is azure and earth’s is yellow.
+hence we have ‘the blood’ mentioned. The mention of that as being (both) ‘azure and yellow’
+indicates the mixture of heaven and earth. Heaven's (colour) is azure and earth’s is yellow.
 
 
 The hexagram Khwin is dealt with in Section ii, and much
-more briefly than Kien in Section i. Much less distinct, more-
-over, is the attempt in it to show how the attributes of the hexagram
+more briefly than Kien in Section i. Much less distinct, moreover, is the attempt in it to show how the attributes of the hexagram
 are to be understood of the principles of human nature. The most
 important portion of the Section, perhaps, is paragraph 5, the first
 of chapter II, and I have spoken of it in the Introduction, pages
@@ -22742,12 +20490,9 @@ earth, and from these came the (other) numbers.
 and undivided lines (by the process of manipulating
 the stalks), and formed the trigrams; from the
 movements that took place in the strong and weak
-lines, they produced (their teaching about) the sepa-
-rate lines. There ensued a harmonious conformity
-to the course (of duty) and to virtue, with a dis-
-crimination of what was right (in each particular
-case). They (thus) made an exhaustive discrimina-
-tion of what was right, and effected the complete
+lines, they produced (their teaching about) the separate lines. There ensued a harmonious conformity
+to the course (of duty) and to virtue, with a discrimination of what was right (in each particular
+case). They (thus) made an exhaustive discrimination of what was right, and effected the complete
 development of (every) nature, till they arrived (in
 the Yi) at what was appointed for it (by Heaven).
 
@@ -22781,10 +20526,8 @@ the weak (or soft) and the strong (or hard); and
 the way of men, under the names of benevolence
 
 
-mind. To me it seems otherwise. Ffi-hsi, if we accept the testi-
-mony of universal Chinese consent, made the eight trigrams; but
-he did not make the Yi, which, by the same consent, was the pro-
-duction of king W4n and his son.
+mind. To me it seems otherwise. Ffi-hsi, if we accept the testimony of universal Chinese consent, made the eight trigrams; but
+he did not make the Yi, which, by the same consent, was the production of king W4n and his son.
 
 The text would seem to say that the sages ‘produced’ the
 plant, but this is so extravagant that the view indicated in my
@@ -22794,36 +20537,30 @@ the spiritual Intelligences,’ or, if we take that name as singular
 (according to the analogy of chapter 6), to the Divine Being in
 affording a revelation of His will, as in paragraph 3. We may well
 say that it is a pity the revelation should be so enigmatical ; but
-the author, it must be remembered, is writing from his own stand-
-point. Wan and his son, as I have endeavoured to show in the
+the author, it must be remembered, is writing from his own standpoint. Wan and his son, as I have endeavoured to show in the
 Introduction, merely wished to convey, under the style and veil of
 divination, their moral and political lessons.
 
-On paragraph 2 it is said that heaven is round; and as the cir-
-cumference of a circle is three times its diameter, hence 3 is the
+On paragraph 2 it is said that heaven is round; and as the circumference of a circle is three times its diameter, hence 3 is the
 number of heaven. Again, earth is square, and as the circumference
 of a square is four times its length or breadth, or it consists of two
 pairs of equal sides, hence 2 is the number of earth.
 
-The concluding statement about ‘the other numbers’ is under-
-stood of the manipulation of the divining stalks, as in Appendix III,
+The concluding statement about ‘the other numbers’ is understood of the manipulation of the divining stalks, as in Appendix III,
 i, 51. That manipulation, thrice repeated, might leave three stalks
 each time, and 3 x 3=9; or 2, being in the same way in all=6; or
 twice 3 and once 2=8; or twice 2 and once 3=7. These are
 the numbers of the 4 binary symbols, employed in forming the new
-figures ; , the old yang,=9; ===>, the young yin,=8;
+figures ; , the old yang,=9; ===), the young yin,=8;
 ———, the young yang,=7; and == =, the old yin,=6.
 
 
-424 THE APPENDIXES. CHAP. 3.
 oo lO Ee ee
 and righteousness. Each (trigram) embraced (those)
-three Powers; and, being repeated, its full form con-
-sisted of six lines. A distinction was made of (the
+three Powers; and, being repeated, its full form consisted of six lines. A distinction was made of (the
 places assigned) to the yin and yang lines, which
 were variously occupied, now by the strong and now
-by the weak forms, and thus the figure (of each hexa-
-gram) was completed.
+by the weak forms, and thus the figure (of each hexagram) was completed.
 
 
 Chapter III. 5. (The symbols of) heaven and
@@ -22834,8 +20571,7 @@ each other the more; and (those for) water and fire
 did each other no harm. (Then) among these eight
 symbols there was a mutual communication.
 
-6. The numbering of the past is a natural pro-
-cess; the knowledge of the coming is anticipation.
+6. The numbering of the past is a natural process; the knowledge of the coming is anticipation.
 Therefore in the Yi we have (both) anticipation (and
 the natural process).
 
@@ -22854,11 +20590,9 @@ confuses the mind of the student.
 
 Chapter III, paragraphs 5 and 6, is understood, though not
 very clearly, by referring to the circular arrangement of the trigrams
-according to Ffi-hsi, as shown in Figure 2, of Plate III. Para-
-graph 5 refers to the correlation of XAien and KhwA&n, Kan and
+according to Ffi-hsi, as shown in Figure 2, of Plate III. Paragraph 5 refers to the correlation of XAien and KhwA&n, Kan and
 Tui, Xan and Sun, Khan and Li. Paragraph 6 is less easy of
-apprehension. Starting in the same figure from XAien and num-
-bering on the left we come to Xn by a natural process. Then
+apprehension. Starting in the same figure from XAien and numbering on the left we come to Xn by a natural process. Then
 
 
 CHAP. 5. APPENDIX V. 425
@@ -22883,15 +20617,11 @@ into rest in Khan; and He completes (the work of
 the year) in Kan.
 
 9. All things are made to issue forth in K4n,
-which is placed at the east. (The processes of pro-
-duction) are brought into full and equal action in
+which is placed at the east. (The processes of production) are brought into full and equal action in
 Sun, which is placed at the south-east. The being
 brought into full and equal action refers to the purity
 and equal arrangement of all things. Li gives the
-idea of brightness. All things are now made mani-
-
-
-we turn back, and numbering on the right, from Sun, we come by
+idea of brightness. All things are now made maniwe turn back, and numbering on the right, from Sun, we come by
 a backward process to Khwan. The same process is illustrated
 on a large scale by the circular arrangement of the 64 hexagrams
 in Plate I. But what the scope of the paragraph is I cannot tell,
@@ -22905,9 +20635,6 @@ and the first last. The first four are mentioned by their elemental
 names; the last four by the names of their lineal figures. No
 special significance is attached to this. If it ever had any, it has
 been lost.
-
-
-426 THE APPENDIXES. CHAP. re
 
 
 fest to one another. It is the trigram of the south.
@@ -22926,8 +20653,7 @@ north-west. The idea is that there the inactive
 and active conditions beat against each other.
 Khan denotes water. It is the trigram of the exact
 north,—the trigram of comfort and rest, what all
-things are tending to. Hence it is said, ‘ He is com-
-forted and enters into rest in Khan. K4A4n is the
+things are tending to. Hence it is said, ‘ He is comforted and enters into rest in Khan. K4A4n is the
 trigram of the north-east. In it all things bring to
 a full end the issues of the past (year), and prepare
 the commencement of the next. Hence it is said,
@@ -22936,8 +20662,7 @@ the commencement of the next. Hence it is said,
 
 Chapter V, paragraphs 8 and 9g, sets forth the operations of
 nature in the various seasons, as being really the operations of God,
-who is named Ti, ‘the Lord and Ruler of Heaven.’ Those opera-
-tions are represented in the progress by the seasons of the year, as
+who is named Ti, ‘the Lord and Ruler of Heaven.’ Those operations are represented in the progress by the seasons of the year, as
 denoted by the trigrams, according to the arrangement of them by
 king W4n, as shown also in Plate III, Figure 2.
 
@@ -22966,15 +20691,13 @@ moistening them there is nothing more enriching
 than water; for bringing them to an end and making
 them begin again there is nothing more fully adapted
 than Kan. Thus water and fire contribute together
-to the one object; thunder and wind do not act con-
-trary to each other; mountains and collections of
+to the one object; thunder and wind do not act contrary to each other; mountains and collections of
 water interchange their influences. It is in this way,
 that they are able to change and transform, and to
 give completion to all things.
 
 
-explained by Kang Khang-Ahang (our second century) as equiva-
-lent to ‘newness,’ referring to the brightness of all things in the
+explained by Kang Khang-Ahang (our second century) as equivalent to ‘newness,’ referring to the brightness of all things in the
 light of spring and summer. Opn ‘all things receive from the earth
 their fullest nourishment’ the same Yang, quoted above, says :—
 ‘The earth performs the part of a mother. All things are its
@@ -22997,9 +20720,6 @@ than the Sung dynasty):—‘ The action of six of the trigrams is
 described, but no mention is made of Ahvien or Khwin. But
 
 
-428 THE APPENDIXES. CHAP. 7.
-
-
 Chapter VII. 11. Ahien is (the symbol of)
 strength; Khwan, of docility; Aan, of stimulus to
 movement; Sun, of penetration; Khan, of what is
@@ -23013,8 +20733,7 @@ are able to perfect the spirit-like subtilty of the action of thunder,
 wind, and the other things. (Moreover), we have the trigram Kan
 mentioned, the only one mentioned by its name, instead of our
 reading “mountains.” The reason is, that the putting in motion,
-the scattering, the parching, and the moistening, are all the pal-
-pable effects of thunder, wind, fire, and water. But what is ascribed
+the scattering, the parching, and the moistening, are all the palpable effects of thunder, wind, fire, and water. But what is ascribed
 to Kan, the ending and the recommencing all things, is not so
 evident of mountains. On this account the name of the trigram is
 given, while the things in nature represented by the trigrams are given
@@ -23029,8 +20748,7 @@ ceasing, and so it is the symbol of strength; Khwan by the earth,
 which receives docilely the action of heaven, and so it is the
 symbol of docility; K4n by thunder, which excites and moves all
 things, and so it is the symbol of what produces movement; Sun
-by wind, which enters everywhere, and so it is the symbol of pene-
-tration; Khan by water, found in a place perilous and precipitous,
+by wind, which enters everywhere, and so it is the symbol of penetration; Khan by water, found in a place perilous and precipitous,
 and the name is explained accordingly ; Lf by fire, and fire is sure
 to lay hold of things, and so it is the symbol of being attached to;
 Kan by a mountain, the mass of which is still and arrests progress,
@@ -23065,8 +20783,7 @@ and Tui, that of the mouth.
 
 Chapter X. 14. Ahien is (the symbol of) heaven,
 and hence has the appellation of father. Khwan
-is (the symbol of) earth, and hence has the appella-
-tion of mother. Aan shows a first application (of
+is (the symbol of) earth, and hence has the appellation of mother. Aan shows a first application (of
 Khwan to A4ien), resulting in getting (the first of)
 its male (or undivided lines), and hence is called ‘ the
 oldest son.’ Sun shows a first application (of Kien
@@ -23095,16 +20812,13 @@ person,’ while making the trigrams. We have here a specimen of
 such things.
 
 
-430 THE APPENDIXES. CHAP. 11.
 a a a:
 (of Khwan to Khien), resulting in getting (the
 second of) its male (or undivided lines), and hence
-is called ‘the second son.’ Lt shows a second appli-
-cation (of Khien to Khw4n), resulting in getting
+is called ‘the second son.’ Lt shows a second application (of Khien to Khw4n), resulting in getting
 the second of its female (or divided lines), and hence
 is called ‘the second daughter. Kan shows a third
-application (of Khw4n to Kien), resulting in get-
-ting (the third of) its male (or undivided lines), and
+application (of Khw4n to Kien), resulting in getting (the third of) its male (or undivided lines), and
 lence is called ‘the youngest son.’ Tui shows a
 third application (of Aien to Khw4n), resulting
 in getting (the third of) its female (or divided lines),
@@ -23114,13 +20828,11 @@ and hence is called ‘the youngest daughter.
 Chapter XI. 15. Ahien suggests the idea of
 heaven; of acircle; of a ruler; of a father; of jade;
 of metal; of cold; of ice; of deep red; of a good
-horse; of an old horse; of a thin horse; of a pie-
-bald horse; and of the fruit of trees.
+horse; of an old horse; of a thin horse; of a piebald horse; and of the fruit of trees.
 
 16. Khwd4n suggests the idea of the earth; of a
 mother; of cloth; of a caldron; of parsimony; of
-a turning lathe; of a young heifer; of a large wag-
-gon; of what is variegated; of a multitude; and of
+a turning lathe; of a young heifer; of a large waggon; of what is variegated; of a multitude; and of
 a handle and support. Among soils it denotes what
 is black.
 
@@ -23152,8 +20864,7 @@ is the most luxuriant.
 18. Sun suggests the idea of wood; of wind; of
 the oldest daughter ; of a plumb-line; of a carpenter's
 square ; of being white; of being long; of being
-lofty; of advancing and receding; of want of deci-
-sion; and of strong scents. It suggests in the
+lofty; of advancing and receding; of want of decision; and of strong scents. It suggests in the
 human body, the idea of deficiency of hair; of a
 wide forehead; of a large development of the white
 of the eye. (Among tendencies), it suggests the
@@ -23168,27 +20879,20 @@ and now crooked; of a bow, and of a wheel. As
 referred to man, it suggests the idea of an increase
 of anxiety; of distress of mind; of pain in the
 ears ;—it is the trigram of the blood; it suggests the
-idea of what is red. As referred to horses, it sug-
-gests the idea of the horse with an elegant spine ;
+idea of what is red. As referred to horses, it suggests the idea of the horse with an elegant spine ;
 of one with a high spirit; of one with a drooping
 head; of one with a thin hoof; and of one with a
 shambling step. As referred to carriages, it suggests
 one that encounters many risks. It suggests what
 goes right through; the moon; a thief. Referred
-to trees, it suggests that which is strong, and firm-
-hearted.
-
-
-432 THE APPENDIXES. CHAP. IT.
+to trees, it suggests that which is strong, and firmhearted.
 
 
 20. Li suggests the emblem of fire; of the sun;
 of lightning; of the second daughter ; of buff-coat
 and helmet; of spear and sword. Referred to men,
-it suggests the large belly. It is the trigram of dry-
-ness. It suggests the emblem of a turtle ; of a crab ;
-of a spiral univalve; of the mussel; and of the tor-
-toise. Referred to trees, it suggests one which is
+it suggests the large belly. It is the trigram of dryness. It suggests the emblem of a turtle ; of a crab ;
+of a spiral univalve; of the mussel; and of the tortoise. Referred to trees, it suggests one which is
 hollow and rotten above.
 
 21. Kan suggests the emblem of a mountain; of
@@ -23198,8 +20902,7 @@ eunuch ; of the (ring) finger; of the dog; of the rat ;
 of birds with powerful bills; among trees, of those
 which are strong, with many joints.
 
-22. Tui suggests the emblem of a low-lying col-
-lection of water; of the youngest daughter; of a
+22. Tui suggests the emblem of a low-lying collection of water; of the youngest daughter; of a
 sorceress; of the mouth and tongue; of the decay
 and putting down (of things in harvest); of the
 removal (of fruits) hanging (from the stems or
@@ -23226,8 +20929,7 @@ Section I.
 1-3. When there were heaven and earth, then
 afterwards all things were produced. What fills up
 (the space) between heaven and earth are (those)
-all things. Hence (Kien and Khwan) are fol-
-lowed by Kun?. Xun denotes filling up.
+all things. Hence (Kien and Khwan) are followed by Kun?. Xun denotes filling up.
 
 3-6. Kun is descriptive of things on their first
 production. When so produced, they are sure
@@ -23235,8 +20937,7 @@ to be in an undeveloped condition. Hence Aun
 is followed by Mang. Mang is descriptive of
 what is undeveloped,—the young of creatures and
 things. These in that state require to be nourished.
-Hence Mang is followed by Hsii. Hsii is de-
-scriptive of the way in which meat and drink
+Hence Mang is followed by Hsii. Hsii is descriptive of the way in which meat and drink
 (come to be supplied)*. Over meat and drink
 there are sure to be contentions”. Hence Hsii
 is followed by Sung.
@@ -23255,9 +20956,6 @@ some restraint. Hence Pi is followed by Hsido
 [16] F f
 
 
-434 THE APPENDIXES. SECT. I.
-
-
 Kht. When things are subjected to restraint, there
 come to be rites of ceremony, and hence Hsiao
 Kh is followed by Lit. The treading (on what
@@ -23267,8 +20965,7 @@ Thai.
 
 11-16. Thai denotes things having free course.
 They cannot have that for ever, and hence it is
-followed by Phi (denoting being shut up and re-
-stricted). Things cannot for ever be shut up, and
+followed by Phi (denoting being shut up and restricted). Things cannot for ever be shut up, and
 hence Phi is followed by Thung 34n. To him
 who cultivates union with men, things must come
 to belong, and hence Thung 34n is followed by
@@ -23283,8 +20980,7 @@ Khien is followed by Yi.
 who causes it) is sure to have followers®. They
 who follow another are sure to have services (to
 perform), and hence Sui is followed by KOi*®% Ka
-means (the performance of) services. He who per-
-forms such services may afterwards become great,
+means (the performance of) services. He who performs such services may afterwards become great,
 and hence K4 is followed by Lin. Lin means
 great °.
 
@@ -23311,8 +21007,7 @@ their work at one end, redintegration commences at
 the other; and hence Po is followed by FQ. When
 the return (thus indicated) has taken place, we have
 not any rash disorder, and FQ is followed by Wi
-Wang. Given the freedom from disorder and insin-
-cerity (which this name denotes), there may be the
+Wang. Given the freedom from disorder and insincerity (which this name denotes), there may be the
 accumulation (of virtue), and Wd Wang is followed
 by Ta KA.
 
@@ -23320,8 +21015,7 @@ by Ta KA.
 there will follow the nourishment of it; and hence
 TA Khdt is followed by ]. { denotes nourishing.
 Without nourishment there could be no movement,
-and hence I is followed by TA Kwo. Things can-
-not for ever be in a state of extraordinary (progress) ;
+and hence I is followed by TA Kwo. Things cannot for ever be in a state of extraordinary (progress) ;
 and hence T4 Kwo is followed by Khan. Khan
 denotes falling into peril. When one falls into peril,
 he is sure to attach himself to some person or thing ;
@@ -23341,20 +21035,14 @@ there came afterwards husband and wife. From:
 F f 2
 
 
-436 THE APPENDIXES. SECT. Il.
-
-
 husband and wife there came father and son. From
 father and son there came ruler and minister. From
 ruler and minister there came high and low. When
-(the distinction of) high and low had existence, after-
-wards came the arrangements of propriety and right-
-eousness.
+(the distinction of) high and low had existence, afterwards came the arrangements of propriety and righteousness.
 
 The rule for the relation of husband and wife
 is that it should be long-enduring. Hence Hsien
-is followed by Hang. Hang denotes long en-
-during’. |
+is followed by Hang. Hang denotes long enduring’. |
 
 32-37. Things cannot long abide in the same
 place; and hence Hang is followed by Thun.
@@ -23377,8 +21065,7 @@ division ; and such a state is sure to give rise to
 difficulties and complications. Khwei therefore is
 followed by Kien. ien denotes difficulties; but
 things cannot remain for ever in such a state. Kien
-therefore is followed by Xieh, which denotes re-
-laxation and ease.
+therefore is followed by Xieh, which denotes relaxation and ease.
 
 40-44. In a state of relaxation and ease there
 are sure to be losses; and hence Xieh is followed
@@ -23426,9 +21113,6 @@ kept for ever in a state of repression, and hence
 K4n is followed by Kien, which gives the idea of
 
 
-438 THE APPENDIXES. SECT. Il.
-
-
 (gradually) advancing. With advance there must
 be a certain point that is arrived at, and hence
 Kien is succeeded by Kwei Mei. When things
@@ -23446,18 +21130,14 @@ followed by Sin, which gives the idea of (penetrating
 and) entering.
 
 57-59. One enters (on the pursuit of his object),
-and afterwards has pleasure in it; hence Siin is fol-
-lowed by Tui. Tui denotes pleasure and satis-
-faction. This pleasure and satisfaction (begins)
-afterwards to be dissipated, and hence Tui is fol-
-lowed by Hwan, which denotes separation and
+and afterwards has pleasure in it; hence Siin is followed by Tui. Tui denotes pleasure and satisfaction. This pleasure and satisfaction (begins)
+afterwards to be dissipated, and hence Tui is followed by Hwan, which denotes separation and
 division.
 
 59-62. A state of division cannot continue for
 ever, and therefore Hwan is followed by 3ieh.
 3ieh (or the system of regulations) having been
-established, men believe in it, and hence it is fol-
-lowed by Aung Ft. When men have the belief
+established, men believe in it, and hence it is followed by Aung Ft. When men have the belief
 which Aung Fd implies, they are sure to carry
 it into practice; and hence it is succeeded by
 Hsiao Kwo.
@@ -23502,8 +21182,7 @@ first production.
 ? It is difficult to follow the writer here. Hsti in the Text is
 the symbol of the idea of waiting. Does he mean that a provision
 of food and drink can only be made gradually? There is nothing
-in the character Hsii to awaken in the mind the idea of nourish-
-ment. Then the genesis of contention which is given is strange.
+in the character Hsii to awaken in the mind the idea of nourishment. Then the genesis of contention which is given is strange.
 The writer probably had in his mind the lines of the Shih, II, i,
 ode 5. 3:—
 
@@ -23525,8 +21204,6 @@ host. In a feudal kingdom, however, all the able-bodied people
 might be required to join the army.
 
 
-440 TIE APPENDIXES. SECT, 11.
-
 * Li, the name of the roth hexagram, is the symbol for a shoe,
 and the act of treading or walking. It seems here to be derived
 from the homophonous 1i, the symbol of acts of ceremony. The
@@ -23538,8 +21215,7 @@ sense of propriety would manifest itself.
 possessor of the kingdom,—the great man who in his greatness is
 yet distinguished by humility. He attracts followers.
 
-° For the true meaning of X( and Lin, the names of hexa-
-grams 18, 19, see what is said in the notes on the Text of them.
+° For the true meaning of X( and Lin, the names of hexagrams 18, 19, see what is said in the notes on the Text of them.
 
 7 The same reference should be made to the notes on the Text
 of Hsien and many of the other hexagrams that follow.
@@ -23578,8 +21254,7 @@ mind,
 Lin gives, Kw4n seeks;—such are the
 several themes
 
-Their different figures were to teach de-
-signed.
+Their different figures were to teach designed.
 
 
 Kun manifests itself, yet keeps its place ;
@@ -23599,9 +21274,6 @@ time.
 
 Wt Wang sets forth how evil springs
 from crime,
-
-
-442
 
 
 45, 46.
@@ -23757,10 +21429,7 @@ H sii shows its subject making no advance :
 
 
 . In Sung we seek in vain a friendly glance ;
-. And Ta Kwo’s overthrown with sad mis-
-
-
-chance.
+. And Ta Kwo’s overthrown with sad mischance.
 
 
 . Kau shows a meeting, where the many
@@ -23782,9 +21451,6 @@ Body and mind are nourished right in 1;
 . All things are well established in Ai 33.
 
 
-444 THE APPENDIXES.
-
-
 54. Kwei Mei reveals how ends the virgin life ;
 64. Wei 3i how fails the youth (to get a wife).
 
@@ -23794,373 +21460,4 @@ Body and mind are nourished right in 1;
 
 Prospers the good man’s way ; to grief all small
 men go.
-
-
-445
-
-
-TRANSLITERATION OF ORIENTAL ALPHABETS,
-
-
-oe  ea td aa aveks Kw lee eel 4 se ele ee eee ee sree 6 y7
-oe 3 3 weep eee en | yw fee ee] yo [ee ele eee ++ + + emyedse “ gf
-66 6 ° >) D) ar) R ik ee ee 6 eM ot likeciee Mees. ie! lone iio * * gIpaW Cl
-yy ° ° ° ° or Bir~ ete oe 8 @ ES cere” re yy ebwetere’ | ule.16- 0° >@. 0) = te vyeiidss “ce +1
-Py cee ° 2 <>) a ee x ow Ain Ce me mee aes ey * smuey, I
-(‘o27 ‘so,s}BTed)
-SByBOGIpou soe[Bvinjjn+s
-faire Mend toate Peo te Pee kote +s eda gt 6.2 eq «+ eRe eraay
-< uu = er ©. # 9: Rusl.e| je 6 Y, 0.76 7 +9 + engeouy sedev “ /
-eae i's ee a wht s's > eee” © Bt
-ee u = -. Fas «Pie Sms. 6 hes terec|is <6 Nie ss ce q, * * * + greoney sodse se 6
-oee N | \ eee ore ¢ a ere nee. OS doe ee ’ Se 66 r
-map ts bef, we Cron em Pees ogy ++ + gadew snyinds 2
-N
-ceefenefecsfeeefe OOM a fone fee lame] eos sees essere 9
-eee d! 2 OQ fecefocee foeetecee]ee el b sss es © SITBIQEI-OINyINH) ¢
-oe c ° . 3 2 hb + See tiene Ge agate? .*:* 2 *seqendse “ fF
-dae C a Sf c 2 le TRS eS | ae ee ee ee - se * BIpaW ¢
-1 Cc ih -| 39) Ee ne ae ade * ends  “ . g
-4 c @ @ 6 ¢ » “eye vit A dita s+ © + sinuay, T
-
-
-SseID IIT | “SSeID IT | PSPID I
-sseurqs | ““21q9H | PIGQRIV | “URISIDg | W214 “puez  wysaeg | SLNVNOSNOD
-“LAAVHAIV AUVNOISSIA
-
-
-‘LSVq] ANL AO SMOOG daAYDVSG AHL AO
-SNOILVISNVY J AUL UOA GILIOAV SLAGVHATY IWLNIIAO dO NOMVUILITSNVY L
-
-
-TRANSLITERATION OF ORIENTAL ALPHABETS
-
-
-446
-
-
-&
-
-
-ide nd Oe
-4 c c rea:
-C a a ( /
-reel ¢ Pe ce ec
-L oe ell ove Si 3 es >
-& ¢ ¢ ¢ o
-
-
-RU
-
-
-6 >) >) Cc ee
-
-
- ssouryD | ‘moiqay | “DIQesy | “UeIsieg | “1429149d “pusz
-
-
-_
-
-
-——
-
-
-wysues
-
-
-(f)s|--
-ee 2) 16 . s
-“wh bee
-aut
-» 2.8 ~s ee I
-Be ote Be
-Cre aes
-
-
-HL ae &
-ee Ss. ¢. 2 a3
-eee e e 4
-
-oe 4 e
-
-eee Ss oe
-
-
-e e ee e e e Lk
-
-
-‘SSID TIT | SSID IL | SSVIDT
-
-
-— ae
-“LHUAVHdTV AUVNOISSIA
-
-
-**** @ snonmedss
-
-
-** _ snuwiedss
-
-
-see2eew«wea sual] ee
-
-
-ie sé
-
-
-ee, ae -* | aadeu snyiuidg
-
-
-seewve Z sljjour «
-
-
-9 2 2-8 @ I si[[our «e
-
-
-“a oe ao ee ee SI[BOOAIMIIG
-
-
-Ss: 20 2 «2 @ eevee BSI[BSt Ay
-ee © « £. 2.% BzBlIQisse éé
-
-
- e-6- 6.2 er * eyesidse ee
-
-
-$ne8c en 6 82 2 2 @ & SIpIWw
-“re © © © @ G}B[IQISSE ee
-
-
-2 @2 2 2 2 © 2 . eqesidss é
-
-
-Cee Re eae Fe ee eee,
-
-
-“se [BJ UeCd
-
-
-SNAV[IGISSe SUIT “
-
-
-snye[iqisse rodsu “s
-
-
-¢ 2. 00 2)? Cn e
-
-
-* + + * gadse engiaidg
-
-
-€%
-
-
-0%
-61
-
-
-one sp 2 2 > 2 © © SI[BOOAITISG ST
-
-
-(pantsrzpuor
-SLNVNOSNOD
-
-
-447
-
-
-FOR’ THE SACRED BOOKS OF THE EAST.
-
-
-eee
-A
-uw
-e-
-°.
-eee
-
-
-A
-eo
-.
-Cd
-~ «
-eee
-
-
-OoOanrn
-
-
-j o
-i ae
-
-
-y Sxtue |p 82 0 2 6.6 6 © » eee, ep
-w eee puegn age <5 a > a aoe
-
-
-ates A pp gs ieee | 6 Ls
-
-
-Pde | era zodse enyinds 9¢
-
-ay joss: eyriides née cs
-
-BD | thet eh oh ov erer elle SITBOOAIMIAG FS
-
-ae. 4 w cs ee eee eee 6 © gieeeA go
-
-d eS oils +> 2 +. > -. -ns oP
-
-| Prag Raa eendses “| IC
-
-te RE os + + 3 2. Spe OF
-
-eee qd eee er eee eyenidss "’ 6h
-
-ete a d ds ns, @ > ©, 0, & SEwEeES smuel, ge
-“SeTVIqeT
-
-
-q2 6 © & Bh Orees 8% s1U2] ee Lt
-oe] qe [ers sees sadewenginds oF
-eee eee eevee SONIOVIp a Cr
-
-
-4 ee OR we ees * eywoLy “ tr
-eee a Ese r% * * gTwOOATMES EF
-u 6.6.0, 1 66 6 4 6S 6S **e °° SITRSUN Zh
-Pe ee wendse “If
-p oe C4 ¢ © Oe 6 6 ee ee? BIPpW OF
-y? ce we te 6 6 6 CLS 6 niendee ee 6£
-3 SCC L £6666 6 6 OMe es sinuay, gf
-(‘oz ‘setensuty)
-EBBOYTIpom seTHiuEd
-
-
-TRANSLITERATION OF ORIENTAL ALPHABETS.
-
-
-448
-
-
-n a © are ¢
-ng > > "® oi
-
-
-Oo of S26 ©
-19 ‘12 a a zs ee
-La: xe @ ty |
-? een eee
-2 mi oS. 2 ‘s
-0 a ot
-6
-n a —
-6
-Fa | Fara | Sah
-l | es
-¥ —_ =)
-B — =
-B si ee «
-
-
-“ueIsazg
-
-
-W914
-
-
-| ‘asauryD | “mauqaH | DIqery
-
-
-“pusZz
-
-
-- + BR woe er Rh bee .
-
-
-“waysues
-
-
-ee a ere ° "+ * * Bq0BIy BI[BIQEl-OANngynsy
-
-
-oe) ee n yer see ss e_owsy SITBIQuT
-ineecelvewe ue t ys oes 8 © Bows sITeIELET
-
-
-dai to ties Bon e ce ss es + glow sITBINGND
-. &.% Sa oe (ng) no «4 ss
-ee «“e
-
-
-oe w athletes (ng) no
-sess) (nv) | OR | SITBIqQel-orn94yn3 snZuocyiydig
-- see! (0) {(me)g] * + + + Buoy as
-
-oven was o * © * * sIAaIq SI[BIQE[-o1n44yNH
-+ ee] + + © |(ng)t0 at sa
-
-se ee] ee © | (tg)te as saad
-++] (w) ty | sipezerped-omn94n3 snZuouyqdig
-ss ee] (a) [Cele] °° * s8u0T “
-
-dhdins wall vd 40%%a ry ‘© staosq siTezeped-oin3ynsy
-
-
-see] (n) v r-omeneoe gigas
-re): eee n ss se 6 6 © © SIAdIq SITBIQeT]
-otote "ella". ten Be coe oe eiunr od
-Me Bn Wal liee Weta ts ‘ee se + © sragaqg sipensury
-ae egal ae eet 7) I a
-PARE | Beg e YW cs ee 2 + © © gtagaqg sITezuEg
-eles.) (3) 5 cree ee © BBuoT “
-
-
-1 co 8 es 6 © © BIADIG SITEZB[SG
-; te ee e+ eBu0T  a
-a ss ee 5 + © stagsq sIpeIngyns
-
-ene ae We
-
-(0)
-
-
-coee#ee#ee si[ejyeped-oZusiey]
-
-
-© 2 * ee 9 0) © She) GRCZINO AT
-
-
-“SSID IIT | SSID IT! SSEIDI
-
-
-————E—eEeEeEe———E—————EEEe STIAMOA
-“LAGVHdA1V AUWVNOISSIN
-
-
-Lz
-
-
-OT
-
-
-aN OHH OR ©
-
-
-| os 14
-or i>)
-
-
-= a oe
-ae 2 ee De
-
-
-Se
-
-
-MOTILAL BANARSIDASS
-® www.motilalbanarsidass.com © info@milbd.co.in
-©@@ motilalbanarsidass ee
-Reference Work
 

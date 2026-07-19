@@ -3381,7 +3381,7 @@ this  they  became  very  much  frightened.  So  Rabbit  went  to  a
 beaver  place,  and  putting  a  stick  in  the  hole,  she  felt  a  beaver  in
 it.  Then  Rabbit  went  home  and  told  Marten,  and  they  both
 were  glad  to  get  a  beaver  and  save  their  lives.  Then  they  both
-went  ba fk  to  the  hole.  While  Rabbit  was  pulling  the  beaver
+went  ba<fk  to  the  hole.  While  Rabbit  was  pulling  the  beaver
 out  of  the  hole  and  had  hold  of  his  hind  quarters,  Lynx  came
 along  and  tickled  Rabbit,  so  that  she  let  go  and  the  beaver
 escaped.  Lynx  was  bent  on  mischief.  He  said,  "If  you  don't
@@ -4541,3 +4541,125 @@ poligical  Series,  and  article  No.  4  of  the  Biological  Series  of  Museu
 
 Prospector's  Handbook  No.  1:  Notes  on  radium-bearing  minerals — by
 Wyatt  Malcolm.
+
+MUSEUM  GUIDE  BOOKS.
+
+The  archaeological  collection  from  the  southern  interior  of  British  Colum-
+bia—by Harlan  I.  Smith.  No.  1290.
+
+MEMOIRS— GEOLOGICAL  SERIES.
+
+MEMOIR  23.  No.  23,  Geological  Series.  Geology  of  the  Coast  and  islands
+between  the  Strait  of  Georgia  and  Queen  Charlotte  sound
+B.C. — by  J.  Austen  Bancroft.
+
+
+MEMOIR  25.     No.  21,  Geological  Series.     Report  on  the  clay  and  shale  de-
+posits of  the  western  provinces  (Part  II) — by  Heinrich
+
+Ries  and  Joseph  Keele.
+MEMOIR  30.    No.  40,  Geological  Series.    The  basins  of  Nelson  and  Churchill
+
+rivers — by  William  Mclnnes.
+MEMOIR  20.     No.  41,  Geological  Series.    Gold  fields  of  Nova  Scotia — by  W.
+
+Malcolm.
+MEMOIR  36.     No.  S3,  Geological  Series.     Geology  of  the  Victoria  and  Saanich
+
+map-areas,  Vancouver  island,  B.C. — by  C.  H.  Clapp.
+MEMOIR  52.     No.  J$,  Geological  Series.    Geological  notes  to  accompany  map
+
+of  Sheep  River  gas  and  oil  field,  Alberta — by  D.  B.  Dowling .
+MEMOIR  43.     No.  36,  Geological  Series.    St.  Hilaire  (Beloeil)  and  Rougemont
+
+mountains,  Quebec — by  J.  J.  O'Neill.
+MEMOIR  44.     No.  37,  Geological  Series.    Clay  and  shale  deposits  of  New
+
+Brunswick — by  J.  Keele.
+MEMOIR  22.     No.  27,  Geological  Series.    Preliminary  report  on  the  serpentines
+
+and  associated  rocks,  in  southern  Quebec — by  J.  A.  Dresser.
+MEMOIR  32.     Wo.  25,  Geological  Series.     Portions  of  Portland  Canal  and
+
+Skeena  Mining  divisions,  Skeena  district,  B.C. — by  R.  G.
+
+McConnell.
+MEMOIR  47.    No.  39,  Geological  Series.    Clay  and  shale  deposits  of  the
+
+western  provinces,  Part  III — by  Heinrich  Ries.
+MEMOIR  40.     No.  24,  Geological  Series.    The  Archaean  geology  of  Rainy  lake
+
+— by  Andrew  C.  Lawson.
+MEMOIR  19.     No.  26,  Geological  Series.    Geology  of  Mother  Lode  and  Sunset
+
+mines,  Boundary  district,  B.C. — by  O.  E.  LeRoy.
+MEMOIR  39.     No.  85,  Geological  Series.    Kewagama  Lake  map-area,  Quebec
+
+—by  M.  E.  Wilson.
+MEMOIR  51.     No.  43,  Geological  Series.   Geology  of  the  Nanaimo  map-area —
+
+by  C.  H.  Clapp.
+MEMOIR  61.     No.  45,  Geological  Series.     Moose  Mountain  district,  southern
+
+Alberta  (second  edition) — by  D.  D.  Cairnes.
+MEMOIR  41.     No.  38,  Geological  Series.    The  "Fern  Ledges"  Carboniferous
+
+flora  of  St.  John,  New  Brunswick — by  Marie  C.  Stopes.
+MEMOIR  53.     No.  44,  Geological  Series.    Coal  fields  of  Manitoba,  Saskatche-
+wan, Alberta,  and  eastern  British  Columbia  (revised  edition)
+
+— by  D.  B.  Dowling.
+MEMOIR  55.     No.  46,  Geological  Series.    Geology  of  Field  map-area,  Alberta
+
+and  British  Columbia — by  John  A.  Allan.
+
+
+MEMOIRS— ANTHROPOLOGICAL  SERIES.
+
+MEMOIR  48.     No.  2,  Anthropological  Series.    Some  myths  and  tales  of  the
+
+Ojibwa  of  southeastern  Ontario — collected  by  Paul  Radin.
+MEMOIR  45.    No.  3,  Anthropological  Series.    The  inviting-in  feast  of  the
+
+Alaska  Eskimo — by  E.  W.  Hawkes.
+MEMOIR  49.     No.   4,   Anthropological  Series.     Malecite   tales — by   W.   H.
+
+Mechling.
+MEMOIR  42.     No.  1,  Anthropological  Series.    The  double  curve  motive  in
+
+northeastern  Algonkian  art — by  Frank  G.  Speck.
+
+
+MEMOIRS— BIOLOGICAL  SERIES.
+
+MEMOIR  54.  No.  2,  Biological  Series.  Annotated  list  of  flowering  plants
+and  ferns  of  Point  Pelee,  Ont.,  and  neighbouring  districts —
+by  C.  K.  Dodge.
+
+
+65977-10
+
+
+UNIVERSITY  OF  CALIFORNIA  LIBRARY
+
+Los  Angeles
+This  book  is  DUE  on  the  last  date  stamped  below.
+
+
+.IHIRL
+
+
+SEP  3  0
+
+*EC'D  LD-URl
+
+iKSEP.27
+
+SEP  7  0  *»  '
+
+
+I II  Illlll  111!  1111 II  Illil!  Illl  II
+
+
+3  1158  00105  6422
+

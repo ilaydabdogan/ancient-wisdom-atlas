@@ -67,6 +67,74 @@ figures:
 
 # Jaina Sutras, Part II: The Uttaradhyayana Sutra and the Sutrakritanga (Sacred Books of the East, Vol. 45)
 
+> THE SACRED BOOKS ee :
+---» OF THEEASE
+
+| : Volume 45 gh is ce
+- GAINASUTRAS
+
+2 Oe | JAINA SUTRAS |
+a aes . Part Il -
+ae? ae “The Uttaradhyayana Siitra_ ue : =
+ye Z Z _ The Stitrakaritanga Sutra . 2 ae
+
+
+os AY ‘ ¢ ay > *
+
+
+ee oh "Translated from Prakrit by i
+
+
+3 _ HERMANN JACOBI
+
+
+THE
+SACRED BOOKS OF THE EAST
+
+
+Translated by
+VARIOUS ORIENTAL SCHOLARS
+
+
+Edited by
+F. MAX MULLER
+
+
+Vol. 45
+
+
+SACRED BOOKS OF THE EAST
+
+
+(50 VOLUMES)
+Series Editor : F. Max-Miiller
+
+
+ISBN: 978-81-208-0101-1 (Set) Rs. 15000 (Each Vol. Rs. 350)
+These volumes of the Sacred Books of the East series include translations of
+all the most important works of the seven non-Christian religions that have
+exercised a profound influence on the civilisations of the continent of Asia.
+The Vedic Brahmanic system claims 21 volumes, Buddhism 10, and Jainism
+2;8 volumes comprise Sacred Books of the Parsis; 2 volumes represent Islam;
+and 6 the two main indigenous systems of China. Translated by twenty
+leading authorities in their respective fields, the volumes have been edited
+by the late F. Max Miiller. The inception, publication and the compilation of
+these books cover almost 34 years.
+I. BUDDHISM
+Vol. 49: Buddhist Mahayana Texts (2 Parts) -
+Vol. 11: Buddhist Suttas
+Vol. 10: The Dhammapada and Sutta Nipata
+Vols. 35 & 36: The Questions of King Milinda (2 Parts)
+Vol. 21: The Saddharma Pundarika or the Lotus of the True Law
+Vols. 13, 17 & 20: Vinaya Texts (3 Parts)
+Il. CHINESE
+Vol. 19: The Fo-Sho-Hing-Tsan-King
+Vols. 3, 16, 27, 28, 39 & 40: The Sacred Books of China (6 Parts)
+Ill. A GENERAL INDEX
+Vol. 50: A General Index to the Names and Subject-matter of the Sacred Books
+of the East
+IV. ISLAM
+Vols. 6 & 9: The Qur'an (2 Parts)
 V. JAINISM
 Vols. 22 & 45: The Jaina Sutras (2 Parts)
 VI. PARSIS
@@ -4652,7 +4720,7 @@ has been got ready especially for ourselves and for
 ee
 
 
-1 Piséka.  A full description of a Pisdka is given in the
+1 Piséka. <A full description of a Pisdka is given in the
 Uvdsaga Dasdo, § 94 of Hoernle’s edition.
 E 2
 
@@ -16888,7 +16956,7 @@ u 2
 
 
 292 SOTRAKRITANGA.
-TREK fy  n SO Or ec ee
+TREK fy <n SO Or ec ee
 
 
 has been proclaimed and taught by the Arhat,
@@ -26221,7 +26289,7 @@ b
 *soTBinjjn4y
 
 
-ee | ee | ee | es | occ | - eemmeneemssinems | sews fn
+ee | ee | ee | es | occ | -<eemmeneemssinems | sews fn
 
 
 ‘SSEID III | “SSVID IL} SSID T
@@ -26286,7 +26354,7 @@ ere ee ew @& ee 6 ie ee ee “se ce
 «oe (/)s ¢ «4 eo ee re ee 8 ee Saws he rE
 
 
-ee a @, 6 a (4) Bis) 3 bee ro 928 os  n toden Ente Gi]
+ee a @, 6 a (4) Bis) 3 bee ro 928 os <n toden Ente Gi]
 
 
 TRANSLITERATION OF ORIENTAL ALPHALETS
@@ -26446,3 +26514,82 @@ eee ° ee I
 
 
 eo * +) (np) ng
+* #4 9h (6) (ne) Q
+whe tees ba cele fe)
+
+
+eee ar cece. (nQ) to
+(12) 19
+eee! Cp 1@
+
+AS Sie (a) (te) 9
+
+
+a er eee 2)
+oe e @ (2) Q
+ok ane! keel ves ee th
+
+
+PE soar | WO Se ane a
+ted ons a
++ oe © = ee Y
+a»! 3 ( $) J
+ee # & eee I
+
+
+al 7s 3 3 ® eA ae ~~ soe... » * |
+
+
+cose eee + Brow SITBIQeT 92
+weer eS eee angay si[ezeeqd SZ
+cre rs ss Bqoely siTRInying HZ
+“ is 6%
+66 ss (ere
+sI[Biqv[-o1nyjnd snduoyyydiq [Z
+acer eSUu0| a 4
+eeee SIAOIG SI[BIqB[-o1n}4N4) 6L
+6 s§ SI
+
+
+sé 66 LI
+siyezejed-oinyjnd snZuoyyydiq 9]
+
+
+°° ° e8u0] re ST
+* © * stacuq siyeqered-oinyyny) FI
+oes ee BOT s¢ €I
+sets se © STAaIq SIBIqey ST
+chee BBu0T “6 II
+vss © gragaq spenSury OT
+thse eee eBuoq, 6
+‘cs ce se 9 * staadqg sifejuaqg g
+Sais i ee 66 fia
+sees es +e giagsq sITeee 9
+epee 3 a SiC “« 6
+sss ss 9 © SrA SITeInyNy F
+vee ee © grrerqey “ ¢
+sess sueyered-ofukieT Z
+rose se oe ee grumnaNn |
+
+
+‘yaysurs
+
+
+"ssUID TIT | ‘SseID IT | ‘sstIoT
+[ee eS Ae See
+“LAGVHd‘IV ANVNOISSIN
+
+
+“STHMOA
+
+
+- | mn 978-$1-208-0146-2
+
+
+Coen mn
+
+* MOTILAL BANARSIDASS | \|
+A & www.motilalbanarsidass.com © info@mlbd.co:in HII
+fou ~ ©@motilalbanarsidass w @mlbdpublishers iI
+2 __ Reference Work 77508 20 1 1 I |
+

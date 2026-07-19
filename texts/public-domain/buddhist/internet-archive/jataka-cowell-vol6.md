@@ -67,6 +67,64 @@ figures:
 
 # The Jataka; or, Stories of the Buddha's Former Births, Vol. VI
 
+I
+
+
+THE  LIBRARY
+
+OF
+
+THE  UNIVERSITY
+
+OF  CALIFORNIA
+
+LOS  ANGELES
+
+
+"  3  ^-S2  '•  VW^  '^^^
+
+
+THE    JATAKA
+
+
+OR
+
+
+STORIES  OF  THE  BUDDHA'S  FORMER  BIRTHS
+
+
+CAMBRIDUE   UNIVERSITY   PRESS   WAREHOUSE,
+C.  F.  CLAY,  Manager.
+
+Jioutioii:    FETTER   LANE,   E.G.
+
+iSlasDotij:    5(1,   \VELLl>'GTOX  STREET.
+
+
+ILnp>tg:    V.  A.   BROCKHAUS.
+
+i^cto   Jiork:    G.  P.   PUTNAM'S  SONS.
+
+«5ombau  auO  (fakultn:    MACMILLAN  AND  Co.,  Ltd.
+
+
+[All  Rights  reserved.]
+
+
+THE    JATAKA
+
+OR
+
+STORIES    OP    THE    BUDDHA'S
+FORMER    BIRTHS.
+
+TRANSLATED   FROM   THE   PALI   BY  VARIOUS   HANDS
+
+UNDER   THE   EDITORSHIP   OF
+
+PROFESSOH    E.    B.    COWELL.
+
+
 VOL.    VI.
 
 
@@ -1052,7 +1110,7 @@ Surrounded  by  attendant  bauds  of  warriors,  thus  he  says  :
 
 1  [This  passage,  down  to  the  end  of  p.  23,  was  omitted  by  Prof.  Cowell.]
 -  upndliiratham:  Schol.  suvannapuduMratham  dniyhantu,  ime  tayo  pilde  imttaam
-tatth'  era  ahhhekaharanatthuya  pauca  r lja};al;iulhahlian<]uni  gdnhathd  ti.
+tatth'  era  ahhhekaharanatthuya  pauca  r<lja};al;iulhahlian<]uni  gdnhathd  ti.
 
 
 No.   538.  15
@@ -6296,7 +6354,7 @@ thereby]"       "Yes,    he   gained    a    hundred   thousand   pieces  in  th
 
 1  See  supra,  p.  85.  ^  See  p.  87.
 
-^  I  read  osapissanti  (sjava jap).
+^  I  read  osapissanti  (sjava<jap).
 
 
 102  Tlie  Jataka.     Booh  XXII.
@@ -12345,7 +12403,7 @@ Thus  we  shall  conquer  Vedeha,  and  this  done  we  will  return  home.  So
 we  shall  not  be  disgraced.  That  is  what  is  meant  by  a  Battle  of  the
 Law."  But  the  Bodhisat  learnt  this  secret  as  before.  "  If  I  let  Kevatta
 conquer  me  thus,"  he  thought,  "  1  am  no  sage."  Brahmadatta  said,
-"A  capital  jilan":  and  he  wrote  a  letter  an l  sent  it  to  Vedeha  by  the
+"A  capital  jilan":  and  he  wrote  a  letter  an<l  sent  it  to  Vedeha  by  the
 postern,  to  this  effect:  "To-morrow  there  shall  be  a  Battle  of  the  Law
 between  the  two  sages;  and  he  who  shall  refuse  to  fight  shall  be  accounted
 vanquished."  On  receipt  of  this  Vedeha  sent  for  the  sage  and  told  him.
@@ -14237,7 +14295,7 @@ there  are  many  that  I  have  to  sui)port,  and  that  is  Avhy  I  do  not 
 an  ascetic."  After  this  dumb  questioning  she  returned  to  her  dwelling,
 and  the  Great  Being  saluted  her  and  went  in  to  the  king.  Now  the
 queen's  confidantes  saw  all  this  from  a  window ;  and  coming  before
-the  kin y,  they  said,  "My  lord,  Mahosadha  has  made  a  plot  with  Biieri
+the  kin<y,  they  said,  "My  lord,  Mahosadha  has  made  a  plot  with  Biieri
 
 1  aijijo  in  both  cases;  the  n.  s.  niasc.  has  apparently  become  stereotyped.      The
 Burmese  version  has  a  male  ascetic  in  this  story.
@@ -15612,7 +15670,7 @@ In  reply,  PhusatT  said  :
 Leave  Maddi  and  the  boys  behind,  for  she  will  never  do  ;
 •Fair  rounded  limbs  and  .slender  waist,  why  need  she  go  with  you?"
 
-Vessantara  s;ii l  :
+Vessantara  s;ii<l  :
 
 "  Even  a  slave  against  her  will  I  would  not  take  away  :
 But  if  .she  wishes,  let  her  come  ;    if  not,  then  let  her  stay."
@@ -18542,7 +18600,7 @@ Abhassara  deity  32
 
 althijjhitd  230
 
-fihhisa. tlm  2G9
+fihhisa.<tlm  2G9
 
 Accata  276
 
@@ -19432,7 +19490,7 @@ Mahasiva,  Elder  18
 
 Mahatissa,  Elder  18
 
-Malta uiHina(j ia-khandam  239
+Malta uiHina(j<ia-khandam  239
 
 Mahfivagga  referred  to  29,  52
 
@@ -20096,3 +20154,77 @@ Yasassika  246
 yiivamajjlialu   157
 
 Yellow  dress  a  dishonour  79
+
+YuRaudhara  ocean  28,  66
+
+
+CAilBRlDGE  :    PBINTED    BY    JOHN   CLAT,    SI.A.    AT    THE    DNIVEBSITY    PBESS,
+
+
+«
+
+
+fiECD  LD-URD
+
+
+i1^
+
+
+JUNMJ
+
+
+APR
+
+
+1
+
+
+^    *
+
+
+T^EN£WAl    JUL
+LO  URU
+
+
+EWAr
+
+
+OBI
+
+
+Hicr
+
+
+U  Lu-
+
+
+P6
+
+
+SEP  2  5  2000
+JUL161985
+
+.««™"'-"lt'Cli2003
+
+
+J^'^AUG  1  9  1987
+
+MCD  UJ-U
+
+REC'O  LiM'     APR  13
+-       }%^    JUNSO"
+
+
+OCT  X
+
+
+Form  L9-20m-7,'61  (C1437s4)444:
+
+
+O       I    IvJO    \J  WJ^yJ     ^/T>
+
+
+xq.xx
+
+V.6
+

@@ -68,6 +68,95 @@ figures:
 
 # Oceanic Mythology
 
+Il)
+
+
+ll
+
+
+i
+
+
+School of Theology at Claremont
+
+
+Tce eae bi ANN FIG Sls OI re LADY 2
+
+
+1001 1316575
+
+
+bel te Tig Sa
+
+
+eh Be pe MAT haha ecg ots 80d aa om, dpm le ARs a
+
+
+Theology Library
+
+
+SCHOOL OF THEOLOGY
+AT CLAREMONT
+California
+
+
+LIBRARY
+SOUTHERN CALIFORNIA SCHOOL
+
+
+OF THEOLOGY
+CLAREMONT, CALIF.
+
+
+THE MYTHOLOGY OF ALL RACES
+
+
+Votume IX
+OCEANIC
+
+
+VoLuME I. Greek and Roman
+Wruu1am SHERWOOD Fox, Ph.D., Princeton University.
+
+
+Votume II. Teutonic
+AxeEL Otrik, Ph.D., University of Copenhagen.
+
+
+VotumeE III. Celtic, Slavic
+
+
+Canon Joun A. MacCuttocg, D.D., Bridge of Allan, Scotland.
+Jan MAcuat, Ph.D., Bohemian University, Prague.
+
+
+VotumME IV. Finno-Ugric, Siberian
+Uno Hotmsere, Ph.D., University of Finland, Helsingfors.
+
+
+VotumME V. Semitic
+R, CAMPBELL THompson, M.A., F.S.A., F.R.G.S., Oxford.
+
+
+VotumE VI. Indian, Iranian
+
+
+A. BerRIEDALE Kerra, D.C.L., Edinburgh University.
+ALBERT J. CaRnoy, Ph.D., University of Louvain.
+
+
+VoLtumE VII. Armenian, African
+
+
+Marprros ANANIKIAN, B.D., Kennedy School of Missions, Hart-
+ford, Connecticut.
+
+GrorGe Foucart, Docteur és Lettres, French Institute of Oriental
+Archeology, Cairo.
+
+
+Votume VIII. Chinese, Japanese
+
 
 U. Harrort, Litt.D., University of Tokyo.
 (Japanese Exchange Professor at Harvard University, 1915-1916)
@@ -119,7 +208,7 @@ ngheld Aed PR POM eg? ce Te :
 ; by f ais cane dnd : ,
 
 a wale ood ed el , vig: Sy
- n, rer etn A AY. LP ;
+<n, rer etn A AY. LP ;
 pie edie ae
 
 
@@ -153,7 +242,7 @@ ae
 vy ae
 
 
-PrATeE  I
+PrATeE <I
 
 
 Image of Kuila-moku, one of the Hawaiian patron
@@ -1301,7 +1390,7 @@ fe nat , %S neta | ogy ears’ = cp way, 2) *
 ales a z oe yi aebee oko) 7 . aor
 
 
-“- el 4 ae $e dng Beet tz’ cee we we <  a cas
+“- el 4 ae $e dng Beet tz’ cee we we < <a cas
 — 5 if ‘ by e
 ae —- . ip ease ect = © t 5
 a ae eaven oy tego > Pee ee ES
@@ -4081,7 +4170,7 @@ Sai |
 Tene ere aye
 
 
-‘ech sie a4 >  i
+‘ech sie a4 > <i
 
 
 et her? * 5 Pee
@@ -8389,7 +8478,7 @@ veh eee ee a Asse. |
 ee ied 7 ee 7 dS
 ee ee eee
 : oo hers, oth Rok oa 8 ry ‘
-canaeinse ies ~~ wn  a oes pert ee ‘
+canaeinse ies ~~ wn <a oes pert ee ‘
 
 
 ate he SeRst Adin ae week «
@@ -13480,7 +13569,7 @@ oa ha @¢ | "26 - a?
 
 
 ae eo ey - Hing oi - prod i
-be heii pte lie Niet tm! + Pe teh  b) : t
+be heii pte lie Niet tm! + Pe teh <b) : t
 
 
 wed 1
@@ -17824,7 +17913,7 @@ Sey HAWAIIAN
 UNITED
 
 
-ISLANDS  j
+ISLANDS <j
 
 
 N
@@ -17836,3 +17925,82 @@ cenit ese = ISLANDS
 GROUP oe S - *:
 — a 7.
 =, -- ISLANDS oe ae
+= os Peete li
+. “Se AS
+- 4 SOCIETY “ok Se wie ARCH INES
+. ~ ‘Nieue Is, - ISLANDS See
+00 q 207
+TONGAIS. ark == =
+Y a = =e
+
+
+% Ausial Is.
+
+
+> * = GAMBIER ISLANDS
+
+
+oe *°
+°
+
+
+rs
+
+
+Easter | J
+
+
+Hi
+
+
+AP Chatham Is.,
+
+
+ve
+
+
+Longitude
+
+
+160° West trom
+
+
+140°
+
+
+Greenwich 120°
+
+
+Fi oN ene
+an eS ‘
+
+
+BL25 .M8/ vol 9
+
+
+The Mythology of all races 2
+
+
+Dixon, Roland Burrage, 1875-1934.
+... Oceanic ,mythology, by Roland B. Dixon ... Boston,
+Marshall Jones company, 1916.
+
+
+xv, 364 p. illus., xxiv (7. e. 25) pl. (incl. front.; part col.) fold.
+map. 25cm. (The mythology of all races, v9)
+
+
+Each plate accompanied by guard sheet with descriptive letterpress.
+Bibliography : p. ,845)-364.
+
+
+233502
+1. Mythology, Oceanic. 1.Titlee T1.Series.
+
+
+“BL25.M8 vol. 9 CCSC/dd 4g 99069
+
+
+ee Copy 2. © BL2600.D5
+Library of Congress jo8m3,
+

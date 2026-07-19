@@ -81,6 +81,9 @@ in  2019  with  funding  from
 Kahle/Austin  Foundation
 
 
+https://archive.org/details/sociallifeceremo0013skin
+
+
 ANTHROPOLOGICAL  PAPERS
 
 
@@ -9239,3 +9242,78 @@ nni  w :
 uas
 
 m
+
+mn«
+
+£
+
+190-
+
+J,
+
+.  1
+
+*i<v  ,;u  !
+
+m.
+
+OEiUl
+
+IwwD  ^  •
+
+APR  2  7
+
+1988
+
+.  ,  ,
+
+1GT  Q  3 1
+
+394
+
+CAT.  NO.  23  233  PRINTED  IN  U.S.A.
+
+
+GN  2  .A27  v.  13  pt.  1  010101  ooo
+
+Skinner.  Alenson  Buck,  ip
+Social  life  and  ce.rf1rT10n!f|i  fjiif1 1
+
+
+0
+
+
+63
+
+
+0225351
+
+
+TRENT  UNIVERSITY
+
+
+GN2  .A27  v.  13  pt.  1
+Skinner,  Alanson  Buck
+
+...Social  life  and  ceremonial
+bundles  of  the  Menomini  Indians
+
+
+- —
+
+date
+
+^ — - - - -
+
+AU6  5
+
+1S7t
+
+I
+
+/
+
+XI  '
+
+?m  7
+

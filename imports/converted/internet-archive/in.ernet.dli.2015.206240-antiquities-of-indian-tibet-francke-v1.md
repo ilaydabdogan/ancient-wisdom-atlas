@@ -1,1211 +1,3 @@
-# Antiquities of Indian Tibet, Part 1
-
-PRJESIOENX'S SECFUETARI^VX
-(LIBRARY)
-
-A.ccn. No ... Class
-
-Xlie book should be returned on or before the date
-last stamped below.
-
-
-Archaeological Survey of India, New Imperial Series, Vol. XXXVIII.
-
-
-Antiquities of Indian Tibet
-
-
-BY
-
-A. H. FRANCKE, Ph.D..
-
-OF THE MORAVIAN MISSION
-
-
-Part I
-
-PERSONAL NARRATIVE
-
-MTH MAP, 45 PLATES AND 4 TEXT-ILLUSTRATIONS
-
-
-Edited under the authority of the Government of India
-
-
-CALCUTTA
-
-SUPJERINTEK'DENT GOVERNMENT PRINTING, INDIA
-
-1914
-
-
-Price Rs. la or i8s.
-
-
-AGENTS FOR THE SALE OF BOOKS
-
-
-PUBLISHED BY THE
-
-
-Superintendent Government Printing, India, Calcutta.
-
-
-IN THE UNITED KINGDOM.
-
-
-Constable & Co., 10, Orange Street, Leicester Square,
-London, W.C.
-
-P. S. ICing & Son, 2 & 4, Great Smith Street, Westminster,
-London, S.W.
-
-H. S. King & Co„ 65, Cornhill, and 9, Pall Mali,
-London, W.
-
-Kegan Paul, Trench, Trubner & Co., 68 — 74, Carter Lane,
-London, E.C.
-
-Grindlay & Co., 54, Parliament Street, London, S.W.
-
-E. Ponsonby, Ld., 116.
-
-
-Bernard Quaritch, 11, Grafton Street, New Bond Street,
-London, W.
-
-T. Fisher Unwin, 1, Adelplu Terrace, London, W.C.
-
-W. Thacker & Co , 2, Creed Lane, London, E.C.
-
-Luzac & Co., 46, Gx*eat Russell Street, London, W.C.
-Beigbton, Bell & Co , Cambridge.
-
-B. H. Blackwell, 50 A 51, Broad Street, O-vford.
-
-Oliver & Boyd, Tw’eetldale Court, Edinburgli.
-
-Grafton Street, Dublin.
-
-
-ON THE CONTINENT.
-
-
-Martinus Nijhoff, The Hague, Holland,
-
-
-Ernest Lcronx. 28, Rui‘ Bonaparte, Paris, Fi’niioe,
-
-
-IN INDIA AND CEYLON.
-
-
-Thacker, Spink & Co., Calcutta and Simla.
-
-Newman & Co., Cideutta.
-
-S. K. Lahiri & Co., Calcntta.
-
-E. Cambray & Co., Calcutta.
-
-B. Banerjee & Co., Calcutta.
-
-The Calcutta School Book and Useful Literature Society,
-309, Bow Bazar Street, Calcutta.
-
-Butterworfch &. Co. (India), Ld., Calcutta,
-
-The Weldon Library, 18-5, Chowringhee, Calcutta.
-
-Rai M. C. Sircar Bahadur & Sous, 76-1-1, Harmon Road,
-Calcutta.
-
-Higginbotham & Co., Madras.
-
-V. Kalyanarama Iyer & Co„ Madras.
-
-G. A. Natesan & Co,, Madras.
-
-S, Murthy & Co., Madras.
-
-Thompson & Co,, Madras.
-
-Temple & Co., Madras.
-
-
-Combridge & Co,, Madras.
-
-P. R. Rama Iyer & Co., MadiMs.
-
-Thacker & Co., Ld.. Bombay.
-
-A. J. Combridge Sc Co , Bombay.
-
-D. B. Taraporevala, Sons & Co., Bombay.
-
-Radhabai Atniaram Sagoon, Bombay.
-
-Sunder t aiidurang, Bombay.
-
-Gopal Nara^^au & Co , Bombay,
-
-Ram Chandra Govind & Son, Kalbadevi, Bombay.
-
-N. B. Matliur, Superintendent, Nazir Kanun Hand Prcis,
-Allahabad.
-
-A. Chand & Co,, Lahore, Punjab.
-
-Rai Sahib M. Gulab Singh and Sotm, MuHd-i-Ain ,
-Lahore and Calcutta.
-
-Superintendent, American Baptist Missjion Press, Haagoon.
-
-Babu S. C. Talukdar, Proprietor, Students and CJo., Cooch
-Bebar.
-
-A. M. & J. Ferguson, Colombo, Ceylon
-
-
-EDITOR^S PREFACE.
-
-
-It was ou the strong recommendation of Dr. J. H. Marshall, O.LE., Director-
-General of Archaeology in India, that the Government of India applied to the
-Moravian Mission Board for the loan of the services of Dr. A. H. Erancke with
-a view to his carrying out an archaeological survey of the districts which once formed
-the kingdom of W estern Tibet. These mountainous regions, now belonging to the Indian
-Empire and therefore here indicated as “ Indian Tibet, ” had never been explored by any
-scholar combining a knowledge of local history and antiquities with a thorough acquaint-
-ance of Tibetan. These rare accomplishments Dr. Francke bad acquired in the course
-of his many years’ sojourn in Ladakh and Lahul, the fruits whereof had been made
-known to the learned world through a series of valuable publications, among which was
-his “ History of Western Tibet. ” Dr. Erancke was, therefore, singularly fitted for the
-proposed task, whilst his previous wanderings in the mountains of “ Indian Tibet ” had
-trained him to endure the severe privations and hardships which must always attend a
-journey through so inhospitable a country. We, therefore, owe a great debt of gratitude
-to Bishop B. La Trobe and the Moravian Mission Board for placing the services of so
-excellent an explorer at the disposal of the Government of India.
-
-Starting from Simla' on the 14th of June, 1909, he travelled up to Satluj Valley
-through the hiU-state of Bampur-Bashahr, and by the Hang Pass (16,000 feet) reached
-Spiti. He then crossed the Pharang Pass (18,800 feet) and continued his journey through
-Eubshu along the wild shores of Lake Thsomo Eiri. Two more mountain passes, the
-Phologongkha Pass (16,500 feet) and the Thaglang Pass (17,600 feet), had to be sur-
-mounted to enable the explorer to reach Ladakh, the real centre of the ancient realm of
-Western Tibet. After a brief stay at Leh, the ancient seat of the rOyal-po rulers of that
-country. Dr. Erancke travelled westwards, and, after crossing the Photho La (14,000
-feet), the Namika Pass (13,400 feet) and the Zoji La (11,300 feet), reached Srinagar on
-the 16th of October.
-
-In the course of his four months’ travel — it will be seen — Dr. Erancke had to cross
-seven mountain passes of an average height equal to that of Mont-Blanc. In the valleys,
-also, the roads in these hill tracts are often of the most primitive description, while the
-crossing of rivers by rope bridges adds to the perils of the journey. Owing to the nature
-of the country to be traversed, the explorer had to march on foot most of the way from
-Simla to Srinagar, except where the rarified air compelled him to mount the yak
-— certainly not the most comfortable means of locomotion.
-
-The journal, however, here published, bears ample evidence that the exceptional
-difficulties of the road had little effect on the spirits of the explorer, who was animated
-by the true enthusiasm of the scholar and who, moreover, was compensated in no small
-measure by the solemn grandeur of that mountain scenery so seldom seen by cultured
-eyes. The very important additions to our knowledge of the archseology and history of
-Indian Tibet are the best reward for labours so strenuous and so cheerfully borne.
-
-
-u
-
-
-As Dr. Marshall proceeded to England on leave in April 1910, and I was appointed
-to officiate during his absence, it fell to me to arrange for the publication of Dr. Erancke’s
-materials. No task could have been more welcome to me, since for several years I had
-found in Dr. Erancke a fellow-scholar who had chosen a field of research bordering on
-that which it had been my good fortune to explore. Personal experience thus enabled
-me to appreciate the value of Dr, Erancke’s results as well as the exertions by which they
-had been attained,
-
-The Government of India readily sanctioned our proposals which provided for the
-publication of Dr . Erancke’s results in two parts, one giving the personal narrative of his
-adventures and researches and the other containing all inscriptions and chronicles col-
-lected by him in the course of his tour. It has been our object in the present volume to
-illustrate Dr. Erancke’s account as fully as possible by means of the excellent photographs
-taken by Babu Pindi Lai of the Arohseological Survey. The forty -five plates, each con-
-taining two photographic views, testify to the excellence of Pindi Lai’s work, while Dr.
-Erancke s narrative bears ample evidence that the explorer found in his photographer not
-only a useful assistant but also a cheerful companion who did his work successfully under
-very trying conditions. The reproduction of the plates was entrusted to the well-known
-lithographers, Messrs. W. Griggs & Sons, of Peckham, London.
-
-The map showing Dr. Erancke’s route, which has been added to the present volume
-IS an extract from Survey sheet No. 836-S. 1905. It has been especially prepared by Mr.
-H. Hargreaves, Superintendent, Archeological Survey pro tempore, who has marked on
-It sever^ places not found on the original. Dr. Erancke’s route, as well as the places
-visited by him in the course of his tour, has been marked in red. The map has Ijeen
-reproduced at the Office of the Survey of India.
-
-J. Ph. Vogel.
-
-
-#
-
-
-CONTENTS
-
-
-Introduction .......
-
-Chapter I. — The Satluj Valley .....
-
-„ II. — From the Satluj to the Indus
-
-„ III. — The Indus Valley —
-
-a. LadakhL .....
-
-h. Xieh . s . . . .
-
-„ IV. — From the Indus to the Jehlam .
-
-Appendix A. — List of antiquities acquired . . .
-
-,, B. — ^List of manuscripts and wood prints acquired
-
-„ C. — Note on Rawalsar, Mandi State
-
-„ D. — Genealogy of the Eajas of Bashahr .
-
-
-Index
-
-
-Page
-
-1
-
-%
-
-so
-
-
-6-2
-
-68
-
-84
-
-111
-
-118
-
-132
-
-124
-
-125
-
-
-AUTHOR’S PREFACE.
-
-
-In publishing my journal of an archjeological tour in Indian Tibet, undertaken on
-behalf of the Indian Government, I wish in the first place to express my sincere tbanlfs
-to Dr. J, H. Marshall, G.I.E., Director-General of Archaeology, who made all necessary
-arrangements in connection with my deputation — no slight addition to the already heavy
-burden of his oflS.ce — and who has followed my journey with the keenest interest. As in
-the spring of 1910 he went home on long leave. Dr. J. Ph. Vogel, while officia ting for
-him, undertook to arrange for the publication of my materials. His proposals met with
-the approval of the Government of India in the Education Department, and it was decided
-that my report should consist of two volumes both fully illustrated : the first containing
-a personal narrative of my journey and the second dealing with the historical chronicles
-and inscriptions collected in the course of my tour. It is a matter of no small satis-
-faction that, thanks to the liberality of the Indian Government, my results will be made
-available in so excellent a form. Dr. Vogel’s thorough revision of the whole text has in
-many ways greatly added to the value of the publication. To Mr. H. Hargreaves, Acting
-Superintendent in the Archseological Department, I am indebted for assistance in
-verifying references and preparing a map to illustrate my itinerary. Here I wish also to
-record my sincerest thanks to the following ladies and gentlemen who have been good
-enough to read through my first rough manuscript of the journal -to Dr. John Hutchi-
-son of the Church of Scotland Mission in Chamba ; to Mrs. S. A. Beeker-Chapman of
-Herrnhut ; and to Messrs. J. E. Wilkinson and J. Thom of Simla.
-
-I owe my gratitude also to the Public Works Department for plaeiag their resthouses
-in the Satluj Valley at my disposal. At Poo and Leh I was the guest of the Moravian
-Missionaries who did their utmost to assist me in my work. Of the greatest importance
-was my meeting Mr. G. 0. L. Howell of the Indian Civil Service in Spiti, at a time when
-I\was suffering from illness. His hospitality, knowledge of local conditions and ready
-help were of the greatest possible assistance in furthering my undertaking.
-
-
-A. H. Ekancke.
-
-
-ITINERARY
-
-
-I.— The Satluj Valley.
-
-
-June
-
-14. Simla — Kotgur (map Kotgarh).
-
-
-15 —
-
-16. Halt El5tgar. Doum festival.
-
-93
-
-17.
-
-Kofcg*ur — IN irth.
-
-33
-
-18.
-
-Nirtli — Nirmand.
-
-33
-
-19(?)
-
-Nirmaud — Rampur (Bashahr State)
-
-93
-
-22.
-
-Rampur — Ganra.
-
-33
-
-23.
-
-Gaura — Sarahan.
-
-S3
-
-24.
-
-S ar ahan — Taran da .
-
-33
-
-25.
-
-Taranda — ^Paunda.
-
-33
-
-26.
-
-Paunda — Urni^ by Wang-tu bridge
-
-33
-
-27.
-
-Halt Urni.
-
-93
-
-28.
-
-XJrni — Chilli.
-
-99
-
-29.
-
-Chini — Rarangj by Pangi.
-
-33
-
-30.
-
-Rarang — Kanam^ by Jangi.
-
-July
-
-1.
-
-Hanam — Shasu (rope bridge).
-
-33
-
-2.
-
-Shasu — Poo.
-
-33 3
-
-—5.
-
-Halt Poo.
-
-39
-
-6.
-
-Poo — N amgy a .
-
-93
-
-7.
-
-Namgya — Shipke.
-
-33
-
-8.
-
-Halt Shipke.
-
-93
-
-9.
-
-Shipke — N amgy a.
-
-33
-
-10.
-
-IN amgy a — Poo.
-
-„ 11 — 20. Halt Poo.
-
-
-II. — From the Satluj to the Indus.
-
-July 21. Poo — Tsuling, by Hang Pass; 16,000 feet.
-
-,, 22. Tsuling — ^lai.
-
-,, 23. Xii — Nako.
-
-,, 24 . Nako — Chang (Bashahr State) .
-
-„ 25. Halt Chang.
-
-j, 26 — 29. Chang- — ^Tabo (Spiti).
-
-„ SO. Tabo — Phog.
-
-„ 31. Pbog — Hrangkhar (map Dankar) .
-
-
-August
-
-1.
-
-Halt Drangkhar.
-
-39
-
-2.
-
-Hrangkhar — Kaze (map Kaja).
-
-33
-
-3.
-
-Kaze — Kyibar (by way of Ki.)
-
-39
-
-4.
-
-Halt Kyibar.
-
-J3
-
-5.
-
-Kyi bar — ^Lhanartsa
-
-33
-
-6.
-
-Xjhanartsa — J ugda.
-
-39
-
-7.
-
-Jugda — Drathang, by Pharang Pass ; 18,300 feet.
-
-
-YlU
-
-
-August
-
-S.
-
-Drathang — Umna.
-
-
-9.
-
-TJ mna — N emo-riu gmo .
-
-}}
-
-10.
-
-Nemo-ringmo — dKor-rdzod (map Karzok), along Lake Thsoino Riri
-
-yj
-
-11.
-
-Halt dKor-rdzod.
-
-yy
-
-12.
-
-^dKor-rdzod — Lake mThso-kyag.
-
-
-13.
-
-dTbso-kyag— Baldrong.
-
-yy
-
-14.
-
-Raldrong — Nyoma (map Nima).
-
-y}
-
-]5.
-
-Halt Nyoma.
-
-„ 16-
-
-—18.
-
-Nyoma — Lake mThso-dkar^ by Phologongkha Pass; 16,500 feet.
-
-
-IIL—The Indus Valley.
-
-yj
-
-19.
-
-Lake mThso-dkar — ^rGya (Ladakh)^ by Thaglang Pass ; 17,500 feet
-
-}y
-
-20.
-
-rGya — Martselang, by Meru.
-
-yy
-
-21.
-
-Halt Martselang.
-
-yy
-
-22.
-
-Martselang — Leb.
-
-yy
-
-22—
-
-September 20. Halt Leh.
-
-
-IV. — From the Indus to the Jehlam.
-
-September 21.
-
-Leb. — sNyemo (map Snemo).
-
-yy
-
-22.
-
-sNyemo — Saspola, by Basgo and Likir.
-
-yy
-
-23.
-
-Visit Alcbi.
-
-y>
-
-24.
-
-Saspola — s Gyera.
-
-yy
-
-25.
-
-sGyera — Kbalatse.
-
-„ 26-
-
-—29.
-
-Halt Kbalatse.
-
-yy
-
-30.
-
-Kbalatse — Lamay uru .
-
-October
-
-1.
-
-Lamayuru — Kbarbu, by Pbotbola Pass; 14,000 feet.
-
-yy
-
-2.
-
-Visit Cbigtan.
-
-yy
-
-4,
-
-Kbarbu — Mulbe, by Nanuika Pass; 13,^00 feet.
-
-yy
-
-5.
-
-Mulbe — -Kargil, by Sbargola.
-
-yy
-
-6.
-
-Kargil — Sbimsba-Kbarbu, by Dongga.
-
-V)
-
-7.
-
-Sbimsba- Kbarbu — Hras (or Hembabs).
-
-Dras — Sonamarg (Kasbrmir), by Zoji La ; 11,300 feet.
-
-f9
-
-16.
-
-Arrival Srinagar.
-
-
-LIST OF PLATES.
-
-
-Plate
-
-L— a.
-
-Gold and silver masks. Donm festival at Kotgur.
-
-
-b.
-
-Sculpture near the Kothi^ Nirmand.
-
-3)
-
-II.— a.
-
-Temple of the goddess Ambika, Nirmaud.
-
-
-b.
-
-Sculpture at the watertank, Nirmand.
-
-33
-
-III.— a.
-
-Sikkara shrine near the temple of Chandi Devi, NirmancJ.
-
-
-b.
-
-Sihhara shrine near watertank, Nirmand,
-
-
-IV.— a.
-
-Fresco in the palace, Rampur.
-
-
-b.
-
-Raja Shamsher Singh of Bashahr.
-
-33
-
-V.— a.
-
-Rajahs palace, Sarahan.
-
-
-b.
-
-Lamaist gateway, Rarang.
-
-33
-
-VI.— a,
-
-Temple of Mahesvara, Sungra.
-
-
-b.
-
-Roof -beams with lion figures, Sungra.
-
-33
-
-VII.— a.
-
-Site of Thakur^s castle, Chini.
-
-
-b.
-
-Shrine of Devi, Rarang.
-
-33
-
-VIII.— a.
-
-Kangyur Monastery, Kanam.
-
-
-b.
-
-Lotsabai Monastery, Kanam.
-
-33
-
-IX.— a.
-
-Interior of Lotsabai Lha-kang, Poo.
-
-
-b.
-
-Dralang, dancing place, Poo.
-
-33
-
-X.— a.
-
-Mount Purgyul from rKamgya.
-
-
-b.
-
-Lamaist gateway near rNamgya.
-
-33
-
-XI.— a.
-
-Ruined castle, mKhar-gog, Shipke.
-
-
-b.
-
-Ruined castle, Seng-ge-mKhar, Shipke.
-
-33
-
-XII.— a.
-
-Crossing the Spiti river by a rope bridge.
-
-
-b.
-
-Lotsabai Lha-khang Monastery, Nako.
-
-33
-
-Xlll.-a.
-
-Figure of rNam-par-snang-mdzad or Vairochana in the Lotsabai Lha-khang
-Monastery, Nako.
-
-
-b.
-
-Figure of sGrol-gser or the yellow Tara in the Lotsabai Lha-khang Monastery,
-Nako-
-
-33
-
-XlV.-a.
-
-Monastery of Tabo.
-
-
-b.
-
-Row of one hundred and eight stupas, Tabo.
-
-33
-
-XV.— a.
-
-Image of rNam-par-snang-mdzad or Vairochana in central hall of Monastery,
-Tabo.
-
-
-b.
-
-Female figure on wall of central hall of Monastery, Tabo.
-
-33
-
-XVI.— a.
-
-Two female figures on wall of central hall of Monastery, Tabo,
-
-
-b.
-
-Two male figures on wall of central hall of Monastery, Tabo.
-
-J3
-
-XVII.— a.
-
-Ganesa and other images in front of main image in Monastery, Tabo,
-
-
-b.
-
-Three figures on wall of central hall of Monastery, Tabo.
-
-33
-
-XVIII.—
-
-Ancient wood carvings in central hall of Monastery, Tabo.
-
-33
-
-XIX.— a.
-
-Drangkhar, the capital of Spiti,
-
-
-b.
-
-Ro]'e bridge near Lithang.
-
-33
-
-XX.— a.
-
-Fording the Brom-ston-chu.
-
-
-b.
-
-View of the Brom-ston-gyi-sna.
-
-
-X
-
-
-Plate XXI. — a View of Ki Monastery.
-
-b. Congregation of Ki Monastery.
-
-,, XXII. — a. Lake Thsomo Riri from the north,
-
-b. Barley fields on Lake Thsomo Riri at an altitude of 15,000 feel.
-
-,, XXIII. — a. dKor-dzod Monastery, Rubshu.
-
-b. Residence of Nomad Chieftain, Rubshu,
-
-XXIV. — a. Mani walls and mchoi-rten at dKor-dzod.
-b. Milking goats at dKor-dzod.
-
-,, XXV. — a. Nomads^ camp on Lake Thsomo Riri.
-
-b. Yaks on the shores of Lake Thsomo Riri.
-
-XXVI. — a. Ruins of Nyoma.
-
-b. Mon mcliO(hrten at Rum-rtse.
-
-„ XXVII. — a. Site of Mon castle at Rum-rtse,
-
-b. Ruined monastery at Miru.
-
-„ XXVIII. — a. Clay pots from Dard graves, Leh.
-
-b. Skulls from Dard graves, Leh,
-
-„ XXIX. — a. Bronze objects from Dard graves, Leh.
-
-b. Implements used in devil dances, Leh.
-
-„ XXX. — a. View of Leh.
-
-b. Lion Gate of King^s Palace, Leh.
-
-3 , XXXI. — a. Mon mchod-rten at rGya,
-
-b. bKra-shis-sgo-mang, ancient mchochrten ai Changspa, Leh.
-
-„ XXXII— a. Rock-cut sculpture of Buddha with attendants, Changspa, Leh.
-b. Rock-cut sculpture of Maitreya(?), Changspa, Leh.
-
-„ XXXIII. a. MaskofAgu dGra-lha of the Kesar Saga, in possession of Munsh? dPal-rgyas,
-
-Leh.
-
-b. Head of antelope, believed to be that of Buddha in his antelope incarnation,
-in possession of Munshi dPal-rgyas, Leh.
-
-„ XXXIV.— a. Sculpture in ruined town at dGon-pa near Leh.
-
-b. Rock-cut image of Maitreya on the Yarkandi Road, Leh.
-
-53 XXXV. a. Ruined castle Chung-mkhar at sNyemo.
-
-b. Ruined temple near Basgo.
-
-3 , XXXVI. a. Mohod“Tt&iv of Rin-chen-bzang-po at Basgo.
-
-b. w.ctiod'-Ttcui of Rin-chen-bzang-po at Saspola*
-
-33 XXXVII.— a. Wood carving in gSum-thsag Temple, Alchi.
-
-b. Ancient book cover from Lhasa,
-
-„ XXXVIII.— a. Stucco figure in gSum-thsag Temple of monastery, Alchi.
-
-b. Fresco in gSum-thsag Temple of monastery, Alchi.
-
-„ XXXIX. a. Carved door in rNam-par-snang-mdzad Temple, Alchi.
-
-b. Fresco in gSam-thsag Temple, Alchi.
-
-it XL. — a. View of Lamayuru.
-
-b. V lew of ruined to wu, Bod-Kharbu ,
-
-„ XLI. ^a. Fresco in Bon-po Temple, Lamayuru.
-
-b. Ancient wood-carving of Garuija, Chigtan.
-
-„ XLII. — a. View of castle, Chigtan.
-
-b. View of monastery, Chigtan.
-
-
-Plate XLIII. — a. Wood-carving in the castle, Chigtan.
-
-b. Door of monastery, Chigtan,
-
-„ XLIV. — a. & b. Rock carvings at Dongga.
-
-XLV. — a. Awwal Masjid, Srinagar.
-
-b. Rihchan Shah’s grave, Srinagar.
-
-
-TEXT ILLUSTRATIONS.
-
-
-Pig. 1. Ancient wood-carving iu bKra-shis-lliua-grab Monaster/, Li
-
-„ 2. Ground plan of Tabo Monastery ....
-
-„ 3. Stone image of Manin-ghosha in Monastery, Tabo
-
-,, 4. Ground plan of Dard Castle, Khalatse . • «
-
-
-BIBLIOGRAPHY.
-
-
-BAILEY, T. G., A brief grammar of the Kanauri language. Z, B.M, (r., vol. LXIII, p. 661.
-CONWAY, W. M., Climbing and exploration in the Karakorum.
-
-CUNNINGHAM, A., Ladak physical, statistical, and historical. London, 1851.
-
-DAS, SARAT CHANDRA, Indian Pandits in the Land of Snow. Calcutta, 1893.
-
-„ , dPag-bsam-ljon-bzang, Tibetan Text and Glossary. Calcutta, 1908.
-
-5 , , ‘'aDzam-gling-ye-shes, English translation. J, A, S, B., 1887,
-
-„ , Journey to Lhasa.
-
-„ , Various historical articles, in J, A. S, B , 1882-1910.
-
-DIACK, A. H., Gazetteer of the Kangra District, Parts II to lY, Kulu, Lahoul and Spiti. Lahore,
-
-1889-1897.
-
-„ , The Kulu dialect of Hindi. Some notes on its grammatical structure, etc. Lahore,
-
-1896.
-
-DUKA, Life o£ Csoma de Koros.
-
-DUNCAN, JANE E., A summer ride through Western Tibet. London, 1906,
-
-DREW, E., The Jnmmoo and Kashmir territories, A geographical account. London, 1875.
-
-ELIAS, N, and ROSS, E. DENISON, The Taiikh-i-Rashidi of Mirza Muhammad Haidar Dugh-
-
-lat. A history of the Moghuls of Central Asia. London,
-1895.
-
-ELEET, J. E., Corpus Inscriptionum Indicamm, vol. Ill, Inscriptions of the early Gupta kings
-and their successors. Calcutta, 1888.
-
-EERGUSSON, JAMES, History of Indian and Eastern Architecture.
-
-EORBES, G., Simla to Shipke in Tibet. Simla.
-
-ERANCKE, A. H., A history of Western Tibet. London, 1907.
-
-„ , Historische und mythologische Erinnerungen der Lahoul er. Kyelang 1907.
-
-, Musikalische Studien in West Tibet. Z. T). 31, (r., vol. LIX.
-
-„ , Historische Dokumente von Khalatse. Z. JD. M, G^., vol. LXI, pp. 583 ff.
-
-, The kingdom of gNya-khri-btsan-po, J'. A. 8, R., vol. VI, pp. 93 fE.
-
-, The eighteen songs of the Bonona festival. Dard text, translation, vocabulary.
-Bid. An^,j vol. XXXIV, pp 93 ff.
-
-,, , Archseological notes on sBa-lu-mkhar. lud. A?it., vol, XXXIV, pp. 203 fE.
-
-, Arcbseology in West Tibet. Bid. Ant.^ vol. XXXV, pp. 237 £E, vol. XXXVI, pp.
-85, 148 ff.
-
-^ First and second collection of Tibetan historical inscriptions. Leh, 1906 and
-1907.
-
-, Tibetan inscription in front of the Ta-chao-ssu Temple at Lhasa. B'p. Ind.^
-vol. X, pp. 89 ff.
-
-A Lower Ladakhi version of the Kesar Saga, Bibliotheca hidica^ N. S., Nos.
-1134, 1150, 1164, 1218.
-
-^ The rock-inscriptions at Mulbe. Ind. Ant., vol. XXXV, pp. 72 fE.
-
-^ and PANDIT DATA RAM SAHNI, References to the Bhotas in the
-Rajatarahgini of Kashmir, Ind. Aut.^ vol. XXXVII, p. 181.
-
-GERARD, A., A vocabulary of the Kunawar language. J. A. S. B., vol, XI, part II, pp, 479 ff.
-j, , Account of Koonawar. Ed. by G. Lloyd, London, 184L
-
-
-XIT
-
-
-GRIERSON, G. A., Linguistic Survey of India, vol. Ill, part I. Calcutta. 1909.
-
-GRtJNWEDEL, A , Mythologie des Buddhismus in Tibet und der Mongolei. Leipzig, 1900.
-HARCOURT, A T. P., Himalayan districts of Kooloo, Laboul, and Spiti. London, 1871.
-
-HEDIN, SVEN, Transhimalaya. Leipzig, 1909.
-
-HIUEN-TSIANG., Si-yu-ki. Buddhist Records of the Western World, translated by S. Beal.
-London, 1884.
-
-HOFFMEISTER, W., Briefe aus Indien. Braunschweig, 1847.
-
-HUTCHISON, J., Chamba State Gazetteer. Lahore, 1910.
-
-IBBETSON, D. C. I., Gazetteer of the Kangra District, vol. II, Kulu, Lahul, and Spiti. Lahore,
-.1897, 1899.
-
-JASCHKE, H. A., Tibetan-English dictionary. London. 1881.
-
-KONOW, STEN, On some facts connected with the Tibeto-Burman dialect, spoken in Kauawar,
-f". D. M. 6., vol. LIX, pp. 117 ff.
-
-LAWRENCE, W. R., The Valley of Kashmir, London, 1895,
-
-MARX, K., Three documents relating to the history of Ladakh. /. A. S. B., part I., vo). LX,
-pp. 97 fE; vol. LXIII, pp. 94 ffj vol. LXIX, pp. 21 ff.
-
-MEEBOLD, A., Indien. Miinchen, 1908.
-
-MOORCROFT, W., and TREBECK G. Travels in the Himalayan Provinces of Hindustan and
-the Punjab, etc.. Edited by H. H. Wilson. London, 1841,
-
-PUINI, C, II Tibet, secondo la relazione del viaggio del P, I. Desideri, Soeieta Geografiea Italiam,
-vol. X. Roma. 1904.
-
-SCHLAGINTWEIT. E. von., Konige v. Tibet, AbJiandhmgen der K. layer. Ahademie ile?
-
-Wmeneehaften, vol. X.
-
->1 , Tibetan Buddhism.
-
-VIGNE, G. T., Travels in Kashmir, Ladak, Iskardo, etc., Second edition. London, 1842.
-
-VOGEL, J. Ph., Triloknath. J. A. 8. B., vol. LXX, pp. 35 ff.
-
-„ , The Ranas of the Panjab Hills. /, M. A. S,, 1908.
-
-„ , Antiquities of Chamba State. Calcutta, 1911.
-
-WADDELL, L. A., Ancient historical edicts at Lhasa. J. B. A. S., 1909, 1910.
-
-WALDEMAR, PRINZ., Reise des Prinzen Waldemar von Preussen. Berlin, 185.3
-
-
-abbreviations.
-
-
-A. S. B.. Arohseological Survey Report.
-
-Ep. Ind. Epigraphia Indica.
-
-Ind. Ant. Indian Antiquary,
-
-J. A. S. B. Journal Asiatic Society of Bengal.
-
-J. R. A. S. Journal Royal Asiatic Society.
-
-Z. D. M. G. Zeitschrift der Deutschen Morgenlandischen Gesellscliaft.
-
-
 INTRODUCTION.
 
 
@@ -1221,31 +13,24 @@ frontier districts.
 As regards our plans, it was determined to cover as much ground as possible and to
 spend a considerable portion of the summer months within the limits of the Jammu and
 Kashmir State. Por within its territory are known to exist several interesting relics of
-Tibetan antiquity which have not yet been properly examined. Putting aside the ordi-
-nary routes,the Kashmir State can be entered from two parts of Indian Tibet, from
+Tibetan antiquity which have not yet been properly examined. Putting aside the ordinary routes,the Kashmir State can be entered from two parts of Indian Tibet, from
 Lahul and from Spiti. As Lahul had already been investigated by Dr. Vogel,^ the course
 to be taken by me was to enter the Kashmir State from the Spiti side. Spiti was one of
 the countries of Indian Tibet which I had not yet seen. As the road to Spiti took me
 high up in the Satluj valley, I proposed to pay a short visit to Tholing and Tsaparang
-beyond the frontier. These places interested me particularly on account of their connec-
-tion with Ati^a and d’Andrada. This proposal was, however, not sanctioned by the
+beyond the frontier. These places interested me particularly on account of their connection with Ati^a and d’Andrada. This proposal was, however, not sanctioned by the
 Supreme Government, and I was advised to remain within the Indian Prontier.
 
-Our party was to consist of a Government Photographer, Babn Pindi Lai of the Ar-
-chseological Survey, who also knew how to take impressions of inscriptions, and a Khalasi
+Our party was to consist of a Government Photographer, Babn Pindi Lai of the Archseological Survey, who also knew how to take impressions of inscriptions, and a Khalasi
 who had to be engaged in the interior. In addition to these there were two men whom
 I engaged privately, a bearer and cook in one person, and a Tibetan who assisted me in
-the reading and copying of inscriptions and documents. Dr. Marshall was very fortu-
-nate in his choice of the photographer ; for in the case of an expedition like ours, an
+the reading and copying of inscriptions and documents. Dr. Marshall was very fortunate in his choice of the photographer ; for in the case of an expedition like ours, an
 ordinary proficiency in photography would not have sufficed ; what was wanted was a
 man ready to endure hardship, and one who was prepared to carry on his work under
 adverse circumstances. Pindi Lai has amply justified Dr. Marshall in his choice.
 
 
 ^ Of. his Trilohnathj J, A. 8* 3,^ Toh LXX (1902), Part I, pp. 35 fp.
-
-
-2
 
 
 CHAPTER 1.
@@ -1275,30 +60,23 @@ these masks are supposed to be portraits of the deceased persons or not, I have 
 able to ascertain. We find the same custom all over Kulu,’ and also at Trilukiuitli in
 Chamba-Lahul. The spirit (of the deceased?) is supposed to enter a man set apart for
 this cult, who performs a sword-dance and thrusts needles through his checks. When
-he is in a trance, he is asked questions and acts as an oracle. Pindi Lai placed hi.s ap-
-paratus carefully in front of the mask board and was on the point of snapping, when
-he was suddenly assailed by the priests, who said that they could not allow liini to photo-
-graph these objects of sanctity. Pindi Lai, snapping otf his apparatus, calmly .said ;
+he is in a trance, he is asked questions and acts as an oracle. Pindi Lai placed hi.s apparatus carefully in front of the mask board and was on the point of snapping, when
+he was suddenly assailed by the priests, who said that they could not allow liini to photograph these objects of sanctity. Pindi Lai, snapping otf his apparatus, calmly .said ;
 " Well, if you will not allow me to take a photo, I can do without it,” and carried hi.s
 treasure home (Plate I, a).
 
-That there is a possible connection between these masks and those used for the <l{,’vil-
-dances of Ladakh and Tibet, is made apparent by the follownng passiigc by Dr. \'og<jl,*
+That there is a possible connection between these masks and those used for the <l{,’vildances of Ladakh and Tibet, is made apparent by the follownng passiigc by Dr. \'og<jl,*
 .who speaks of two miniature Sikhara temples at Triloknath in which a uuniber of
 wooden masks are preserved. “ At the death of a momher of the Eana’s family, such
 a mask is prepared and placed in the temple, whence it is on no account to be rc;-
 moved. An exception is made for three masks which are used at the Char or fc>j)riiig
 festival, and are said to represent a man, a woman and a demon, called in the
-dialect garni, mezmi and kuUnza. The main substance of the Char festival is a per-
-formance symbolizing the advent of Spring and the defeat of Winter. The latter,
+dialect garni, mezmi and kuUnza. The main substance of the Char festival is a performance symbolizing the advent of Spring and the defeat of Winter. The latter,
 personified as an evil demon, is represented by the hearer of the kulinza mask, who Is
 
 
 ' A. S. B. for 1807-8, pp. 270 ff., plates LXXIV and f.XXV.
 ^ Chmnha Gazetteer^ p. 41.
-
-
-3
 
 
 chased by the joint villagers and pelted with snow-halls till he retires from the village and
@@ -1311,8 +89,7 @@ these performances into a struggle between the elevating elements of Buddhism an
 fierce enemies representative of the pre- Buddhist religion.^
 
 The greatest enemy of Lamaism, Langdarma, had to take the part originally
-played by the winter, and it is his tragic end and his torments in hell which are now-a-
-days celebrated in the mask dances. Side by side with the Lamaist mask dances the
+played by the winter, and it is his tragic end and his torments in hell which are now-adays celebrated in the mask dances. Side by side with the Lamaist mask dances the
 ancient ceremonies of chasing out the evil spirits of the winter were continued, and a
 manuscript describing the festival of the winter solstice at Khalatse and a photo of the
 interesting Bosmoche performance, at Leh, is among our collections. At the monastery
@@ -1346,9 +123,6 @@ appearance with the latter’s sola topi and a letter urging me to try again. I 
 
 > Luther, in a similar manner, changed the song : BTun treiben wir den Winter ans ! into a song celebrating the tu rning
 out of the Pope ; Kun treiben wir den Pabst Mnaus
-
-
-4
 
 
 confess that I felt ashanaed that I a yoxing man, should not venture to do what old
@@ -1399,16 +173,12 @@ only two other castes represented, the Sonars or goldsmiths, and the Kolis or pe
 ’ J- S. JB, Vol. LXX, Part 1, No. 1, 1903, p. 36.
 
 
-6
-
-
 •suddenly stop one and demand a t\irn to the right or left, or even prohibit one’s
 further advance. In spite of all its sanctity, Nirmand is poor in inscriptions and other
 written records. People showed me the copper plate grant of the 7th century by king
 Samudra-sena which has been published by Dr. Pleet,^ and a very obliterated inscription
 on a rook in front of the Dharma^ala. We took an impression, but were not quite
-successful. The script seems to be a late type of ^arada. As the names of Samudra-
-sena’s father, grandfather and great-grandfather, which occur on the copper plate, have not
+successful. The script seems to be a late type of ^arada. As the names of Samudrasena’s father, grandfather and great-grandfather, which occur on the copper plate, have not
 yet been discovered in the Bansaulis of Kulu or Bashahr, I hoped to find them among
 the ancestors of the present piakur of Mrmand. This man, however, did not possess
 a family record of any kind.
@@ -1424,10 +194,8 @@ these extant.
 This refers only to the chief temples. By the side of most of them, we find numerous
 stone temples of the HhJiara type. (Plate III). They are, however, never in prominent
 positions. This style of architecture has been fully described by Pergusson.® It was
-introduced into Nirmand probably between the 7th and 11th century and many speci-
-mens may go back to those times, although there are no written records. The many
-tablets with religious sculptures which are scattered all over the place in great num-
-bers, may also date from those times. It appears that the original cult of Nirmand was
+introduced into Nirmand probably between the 7th and 11th century and many specimens may go back to those times, although there are no written records. The many
+tablets with religious sculptures which are scattered all over the place in great numbers, may also date from those times. It appears that the original cult of Nirmand was
 ■entirely Sivaist. Most of the temples are dedicated to Siva or Kali, or to deities of
 a similar type. Perhaps about the same time when Vishnuism became powerful in
 Ohamba (tenth or eleventh century), this form of worship was also introduced in
@@ -1452,16 +220,12 @@ kept the copper-plate grant of King Samudra-sena of the 7th century mentioned ab
 ^ Kisior^ of Indian and Eastern ArcMtectnre^ Vol. I, p. 322.
 
 
-6
-
-
 In front of Ambika’s temple there is an ancient stone figure buried in the ground up
 to the shoulders.
 
 The Eothi is a large building of the hiU type, with stags’ and antelopes’ horns fixed
 orer the door. Old sculptures are inserted in the walls, for instance, a head on a stand
-adored by two kneeling figures (Plate I, b). This may hare been suggested by the well-
-known Buddhist sculptures of relics with two worshippers. The head is probably that
+adored by two kneeling figures (Plate I, b). This may hare been suggested by the wellknown Buddhist sculptures of relics with two worshippers. The head is probably that
 of ^ira, as we find it on so many temples at Nirmand, carved above the entrance. On
 the right corner of the house, there is a very rude figure of Hanuman riding on a rather
 diminutive horse. Inside, there are stone figures of Kali, and a bronze figure of
@@ -1501,8 +265,7 @@ door-posts of stone with the figure of Gane^a in the centre.
 
 In conclusion I may say that we did not find any traces of Buddhism at Nirmand.
 
-Prom Nirmand we marched to Bampur, the capital of the Bashahr State, beauti-
-fully situated on the left bank of the Satluj. The descent was steep, but the road
+Prom Nirmand we marched to Bampur, the capital of the Bashahr State, beautifully situated on the left bank of the Satluj. The descent was steep, but the road
 well shaded by luxuriant vegetation. The Hindu temples of the city with their very
 primitive, though not ancient, sculptures did not appear of any interest. B,ampur is the
 first place on the road up the SatluJ valley where Lamaist buildings may be seen. The ■
@@ -1512,9 +275,6 @@ Plate III.
 
 
 Sikhara shrine near the temple of Chandi Devi, Nirmand. b. Sikhara shrine near watertank, Nirmand.
-
-
-7
 
 
 lamaist temple is a receat structure and is said to be only tu'elye or thirteen years old.
@@ -1565,9 +325,6 @@ based on the Chinese scale. Others of their tunes were based on different scales
 ^ For genealogical list of Bashabr Rsjas see beneath Appendix D.
 
 
-8
-
-
 party held out the last note of their melody for a time, whilst the other party started
 
 theirs.^ ^
@@ -1601,15 +358,13 @@ before it. The Raja asked us first to take a photo of himself, and then to go to
 other side of his palace and take a general view of it from there. (Plates IV, b and
 V, a). The palace presented itself at its best from the mountain side, where it showed
 aU its symmetrical beauty. It is one of the finest specimens of hill architecture I
-have ever seen. Although there are no written records about it, it is evidently of consi-
-derable age. The Rajas ought to be urged to keep it in good repair, but not to make any
+have ever seen. Although there are no written records about it, it is evidently of considerable age. The Rajas ought to be urged to keep it in good repair, but not to make any
 structural alterations. Like all buildings of the hill-type it is built of layers of rubble
 masonry and beams of cedar wood. The roofs are slanting and slightly concave like
 those of the Chinese. In the walls of the court, several carved stone images of very
 rude execution have been inserted. I was told that they represent Kali and Bhairava.
 
-There is also an ancient Kali temple connected with the palace which is not acces-
-sible to Europeans. It is said to contain a deep pit. There are rumours that human
+There is also an ancient Kali temple connected with the palace which is not accessible to Europeans. It is said to contain a deep pit. There are rumours that human
 sacrifices were offered here every tenth year, and that they are still continued secretly.®
 The victim is thrown into the pit. If a human sacrifice be not forthcoming at the
 
@@ -1625,9 +380,6 @@ Platk I
 b. Raja Shamsher Singh of Bashahr.
 
 
-9
-
-
 appointed time, a terrible voice is heard calling from the depth of the j)it. We received
 a full written statement about these practices from a native of the place.
 
@@ -1635,8 +387,7 @@ We travelled from Sarahan to Taranda on the 24th June. In the pass above the
 village and bungalow, there is an ancient deserted Devata temple of the ordinary hill
 type with slanting but straight roof, in ruins It contained two beautifully carved
 columns and other wood sculptures. In front of it, there are several stone slabs with
-rude carvings of human figures. They look exactly like the slabs put up in commemora-
-tion of the dead in Manchad (Lahul) or like very ancient 5'/?ie-stoues in JSulu. I was
+rude carvings of human figures. They look exactly like the slabs put up in commemoration of the dead in Manchad (Lahul) or like very ancient 5'/?ie-stoues in JSulu. I was
 informed that here also, they were erected in commemoration of the dead.
 
 We proceeded to Paunda on the 2oth June. Below the village, on the road to
@@ -1684,9 +435,6 @@ Bajaura.
 c
 
 
-10
-
-
 feature in the Bashahr State ; for it marks the ancient boundary between Bashalir and
 
 Tibet. In fact, the West Tibetan Empire reached as far as Wangtu up to 1650 A. D.,
@@ -1707,8 +455,7 @@ Mundari (spoken in Ohota Nagpur), and that in very early times in these mountain
 valleys an amalgamation must have taken place between Munda aboriginal tribes and
 Tibetans. Within the fifty miles of road between Cliini and Poo, one meets with several
 more languages of probably a similar type which have not yet been properly studied,
-although notes on them can be found in various books of travel. The study of the folk-
-lore literature of the Kanawari language has been taken up by Mr. H, A. Eose, who is
+although notes on them can be found in various books of travel. The study of the folklore literature of the Kanawari language has been taken up by Mr. H, A. Eose, who is
 also compiling a dictionary of this language. Mr. Eose’s collection contains historical
 as well as lyrical pieces. With regard to the former it is strange to note that they all
 refer to very modern times only. In the course of our journey we heard a song about
@@ -1719,8 +466,7 @@ officer is praised in this song as the ideal master of the woods who gives the p
 much wood as he wants to get. As regards metre and parallelism, these songs are of the
 same character as the Tibetan songs.
 
-The result of the blending of the Munda and Tibetan population wdth a super-
-ficial sprinkling of Indian Aryans is not at aU bad, and many of our coolie women were
+The result of the blending of the Munda and Tibetan population wdth a superficial sprinkling of Indian Aryans is not at aU bad, and many of our coolie women were
 of very attractive appearance. I must add a few words wdth regard to the latter. Among
 the population of these mountain vaEeys the cooly caste is not very numerous, and for
 this reason the villagers, also those of good caste, have to take up cooly wmrk. This kind
@@ -1740,9 +486,6 @@ b. Lamaist gateway, Rarang.
 
 
 mm
-
-
-11
 
 
 sahib. It is also true that many among them ai’e quite athletic and carry heavy loads
@@ -1785,13 +528,9 @@ mandw's or temples. The ‘ old temple ’ is of the square tower type, like so 
 and has a wooden verandah running round below the slanting gable roof. It was almost
 without any carvings, and people said that the devata had left the place. The ‘ new
 temple,’ not far from the old one, was thoroughly renovated, as people say, about twenty
-years ago. There are many wood-carvings dating from that time, for instance hunting-
-scenes : a man shooting a leopard ynth a rifle. They were all very primitive. There
+years ago. There are many wood-carvings dating from that time, for instance huntingscenes : a man shooting a leopard ynth a rifle. They were all very primitive. There
 was also a carving of a cock, and what I took for a hen with chickens, eating a snake.
 But people said it was a peacock. (Garuda devouring Nagas ?). The villagers showed
-
-
-12
 
 
 ■us also sovoral obscono roprosontations of a man and a woman, and said that it was
@@ -1806,8 +545,7 @@ Urni village most of the roofs exhibit the Tibetan style. But the mandirs stiU s
 the old slanting roof of the Indian hill tribes. The first temple with a flat roof I saw at
 Eogi on the 28 th. It is of the square tower type and has wood carvings on the beams.
 
-We spent the night of the 28 th and the 29 th June at Chini, in the Moravian Mis-
-sion house. The view from Chini towards the snow mountains on the other side of the
+We spent the night of the 28 th and the 29 th June at Chini, in the Moravian Mission house. The view from Chini towards the snow mountains on the other side of the
 river is one of the grandest imaginable. The local name of these glaciers is Eailasa
 and a certain iDinnacle is called §iva by the people.^
 
@@ -1817,14 +555,12 @@ who came here from the ‘ Upper Country ’ (apparently Tibet) . Mr. Bruske, wh
 reside here as a Moravian missionary, was told that there exists a song which treats of
 the exploits of this Thakur. But it has not yet been reduced to writing. On the site,
 many fragments of hand-made pottery can be found, but, people assured me, never any
-coins. The site is now occupied by small Lamaist buildings, a square tower and an en-
-shrined mchod-rten. The fact that Lamaism has taken possession of the site, speaks in
+coins. The site is now occupied by small Lamaist buildings, a square tower and an enshrined mchod-rten. The fact that Lamaism has taken possession of the site, speaks in
 favour of the alleged Tibetan origin of the Thakur.
 
 Mr. Bruske informs me that there is another mound below the village where many red
 bricks can be found. This is held to have been the principal (perhaps winter) residence of
-the same Thakur. At both sites excavations might prove successful. The most interest-
-ing feature in connection with this ancient chief is, as Mr. Bruske tells me, that traces
+the same Thakur. At both sites excavations might prove successful. The most interesting feature in connection with this ancient chief is, as Mr. Bruske tells me, that traces
 of his aqueducts are met with from time to time by people when digging. They consist
 of earthenware pipes, and the water was conducted in them for miles.
 
@@ -1845,13 +581,9 @@ enter it. It has been the scene of human sacr ifices, and there is a rumour that
 * The earliest picture of Chini and the Kadasa is found in ' JBetse ies Primien Waldemar von Preussen,’ 1845, Plate XVI.
 
 
-13
-
-
 sacrifices are still carried on secretly. The following has been observed by a European,
 whose name I am not allowed to mention. At the Mela at this KaH temple, the object
-of the sacrifice is carried down to the temple by a person who must not be met by any-
-body. In fact, the rumour is spread that every person who meets that man will die
+of the sacrifice is carried down to the temple by a person who must not be met by anybody. In fact, the rumour is spread that every person who meets that man will die
 before a year is passed. The Em’opean quite unexpectedly made his aj)pearanee before
 the priest who cursed him. However, he is of opinion that what the priest carried
 wrapped up in his bundle looked very much like human limbs. The prohibition of the
@@ -1863,12 +595,10 @@ ruined house which is known as the house of the first European who settled in th
 country. He was married to a Kanawari woman by jungle rites. He has become the
 hero of a song in Kanawari, discovered by Mr- Braske at Ohini, in which the complexion
 of the European is praised as having been like butter. Like most of the Kanawari songs,
-this one has also a personal touch. These songs treat of prominent people who have be-
-come known to xhe Kanawaris. The fact that all the heroes of their songs are modern
+this one has also a personal touch. These songs treat of prominent people who have become known to xhe Kanawaris. The fact that all the heroes of their songs are modern
 men, could be explained in this way. The songs were composed in early times in
 honour of kings or heroes whose names have been entirely forgotten. When a new king,
-or a new hero arises, the words of the old songs are left unchanged, whilst the personal-
-ities are exchanged for new ones. We have very similar cases in Tibetan folklore.^
+or a new hero arises, the words of the old songs are left unchanged, whilst the personalities are exchanged for new ones. We have very similar cases in Tibetan folklore.^
 
 On the 29th June, we passed thi’ough Pangi. In the vicinity of the village, there
 is one of those Lamaist gates built across the road, such as are frequently met with in
@@ -1883,13 +613,11 @@ we should meet with the first representatives of Chinese architecture. These doo
 here known by tbe name of kang-ga-ni, a name which is given in Ladakh only to the
 most ancient specimens.
 
-Close to the door, there are two large erect stones, perhaps rude specimens of ling-
-mis. They have carvings on them, which I copied. One of the carvings I take for a kind
+Close to the door, there are two large erect stones, perhaps rude specimens of lingmis. They have carvings on them, which I copied. One of the carvings I take for a kind
 of sun-symbol. It was very distinct on one of tbe stones. On the other stone was carved
 a stupa and what appears to be a repetition of the sun-symbol.
 
-At Pangi, I met Mr. Bruske and his wife, who were encamped there. I spent a few-
-pleasant hours with them, and received much valuable information from them.
+At Pangi, I met Mr. Bruske and his wife, who were encamped there. I spent a fewpleasant hours with them, and received much valuable information from them.
 
 We spent the night of tbe 29th and the 30th June at Barang. In the evening, w'e
 visited the Lamaist temple, which is built somewhat in the style of the wooden hill
@@ -1898,11 +626,7 @@ visited the Lamaist temple, which is built somewhat in the style of the wooden h
 1 See my Iiitroduction to Ladakhi Songs, In^. Ant, Yol. XXXI. 1902. pp. 87
 
 
-14
-
-
-architecturej at least in regard to its roof. It is said to be only about twenty-five years-
-old. In the courtyard, we found cremation tablets with figures of AvaloMte^vara
+architecturej at least in regard to its roof. It is said to be only about twenty-five yearsold. In the courtyard, we found cremation tablets with figures of AvaloMte^vara
 re|)resented with four arms and a lotus, and Hi-uhJiTugs-pti’ (Akshobya). Although they
 were also said to be of recent date, the mould from which they were cast must be
 decidedly old. It was possibly brought here from Kanam monastery, which claims to be
@@ -1913,18 +637,15 @@ were Tibetan.
 Above the village of Rarang, on the road, there is an old hut which is known as the
 most ancient mandir of Rarang. (Plate VII, b.) It is rectangular, and has a slanting
 roof. The door beams are furnished with wood carvings. On the lintel, the figure of
-an elephant carrying a human being can be distinguished. This is possibly a representa-
-tion of Indra. Of particular interest is the gable-roof which ends in the carving of a
+an elephant carrying a human being can be distinguished. This is possibly a representation of Indra. Of particular interest is the gable-roof which ends in the carving of a
 ram’s head, and thus reminds us strongly of the devatd-hvits in the Manchad valley
 (Lahul). In its general appearance also, this mandir resembles the devatd-hxits of the
 Manchad valley and goes to prove that the religion of the Kanawaris was similar to that of
 the Manchad people, who are closely related to them by lingual and ethnic characteristics.
 As this hut is practically the last specimen of Indian hill architecture on the road (not
-taking into account a ‘ gate of blessing ’ at Poo, which is furnished wnth a roof in Kana-
-wari style), it will be well to review all the observations w^'e have made with regard to
+taking into account a ‘ gate of blessing ’ at Poo, which is furnished wnth a roof in Kanawari style), it will be well to review all the observations w^'e have made with regard to
 this arohiteotm’e. Under hill architecture are comprised all the structures which arc
-composed of rubble masonry and beams of cedar wood. Of an entirely different charac-
-ter are the structures of the Tibetans, which consist of sun-dried bricks. The former have
+composed of rubble masonry and beams of cedar wood. Of an entirely different character are the structures of the Tibetans, which consist of sun-dried bricks. The former have
 slanting, and the latter flat roofs. On the frontier between the Tibetan and Xanawari
 peoples there are also some intermediate forms. There are houses built of rubble masonry
 with flat roofs, for instance the temple at Rogi, and houses built of sun-burnt bricks with
@@ -1939,8 +660,7 @@ of this type. It was then modified in the following way. The ground plan was mad
 square and the walls were raised. This is the type of the Kulu castle towers which were
 introduced even into Lahul, and of the shrine of the old mandir at Urni, A beautiful
 combination of this rectangular house and square tower is found in the ancient palace of
-Sarahan. The Kanawari gates of blessing have another extraordinary feature in addi-
-tion to the concave roof, in that they have also the front and back waUs widening oxrt
+Sarahan. The Kanawari gates of blessing have another extraordinary feature in addition to the concave roof, in that they have also the front and back waUs widening oxrt
 towards the gable beam. Thus the walls are further apart at the top than they are at
 ground level.
 
@@ -1949,9 +669,6 @@ slanting sides. This we find in its simplest form in the modem temple of Urni, a
 
 
 . Site of Thakur’s castle, Chini. b' Shrine of Devi, Rarang.
-
-
-15
 
 
 one of tlie old temples of Sungra. Then there arose the custom of building with
@@ -1983,16 +700,14 @@ is more general here than in the previous villages. The tablet was, however, so 
 worn that I could not read much beyond the wmrds Khungs-Usim-ga-ga-che, “ the great
 nobleman of excellent origin.” Neither this nor any of the preceding mani walls look
 as if they were of great antiquity. In the district between Ohini and Poo Lamaism has
-made progress in outward show during the last thirty years or so without, however, oust-
-ing Hinduism.
+made progress in outward show during the last thirty years or so without, however, ousting Hinduism.
 
 Opposite Jangi lies the village of Kinam with a fine castle on a rock above the river.
 It was built, it is said, by the Raja of Bashahr.
 
 After Jangi, the country begins to show a Tibetan character. Vegetation becomes very
 scarce, and only a kind of Juniper, generally known by the name of Pencil Cedar (the
-holy tree of the pre-Buddhist religion of Tibet) makes us realize that we are not travel-
-ling on the moon. The pencil cedar never forms forests, but at best dots a hillside with
+holy tree of the pre-Buddhist religion of Tibet) makes us realize that we are not travelling on the moon. The pencil cedar never forms forests, but at best dots a hillside with
 a tree to every 500 square yards or so. Also the road, which up to this had done great
 ■credit to the Public Works Department (to which I am indebted in particular for the
 hospitality of their bungalows), becomes more and more uncivilised, and reminds one of
@@ -2001,9 +716,6 @@ the days of hardships when Gerard travelled here almost a century ago. After thi
 ^ As I said before^ I did not get to see the N’achar temple, bnt in Gordon Forbes* book Simla to Shiphi in Tihct^ the
 IJ^achar temple is compared to Burmese temples. Similar temples in the vicinity of Simla and Kotgur were not examined
 on our tour.
-
-
-16
 
 
 experience of desert travelling it is very pleasant in tJbie evening to branch off from the
@@ -2034,19 +746,16 @@ at Kanam (spelt Kanum in his report) by Dr. Gerard, who gives a very interesting
 account of the Hungarian’s life and work in this out of the way place. Let me quote a
 few passages from his account —
 
-“ I found him at the village of Kanum, in his small but romantic hamlet, surround-
-ed by books, and in the best health The cold is very intense, and all last winter he sat
+“ I found him at the village of Kanum, in his small but romantic hamlet, surrounded by books, and in the best health The cold is very intense, and all last winter he sat
 
 at his desk wrapped up in wooUens from head to foot, and from morning to night, without
-an interval of recreation or warmth, except that of his frugal meals which are one uni-
-versal routine of greasy tea ; but the winters at Kanum dwindle to insignificance com-
+an interval of recreation or warmth, except that of his frugal meals which are one universal routine of greasy tea ; but the winters at Kanum dwindle to insignificance com-
 pared with the severity of those at the monastery of Tangla (in Zangskar) where Mr.
 
 Osoma passed a whole year There he sat (at Yangla) enveloped in a sheep-skin cloak,
 
 with his arms folded, and in this situation he read from morning till evening without fire,
-or light after dusk, the ground to sleep on, and the bare walls of the building for protec-
-tion against the rigours of the climate.
+or light after dusk, the ground to sleep on, and the bare walls of the building for protection against the rigours of the climate.
 
 
 “ The cold was so intense as to make it a task of severity to extricate the hands from
@@ -2068,9 +777,6 @@ Plate VIII.
 b. Lotsabai Monastery, Kanam.
 
 
-17
-
-
 encyclopsedias of Lamaism. It ■was here that he was enabled to study these gigantic
 collections of Tibetan literature, and to write his still inyaluable ‘ Analysis of the Eanjur
 and Stanjur.’ The library is kept in a separate building called bM-tigyiir some distance
@@ -2083,8 +789,7 @@ perfect and fresh as ever. No insects attack them, though the climate here is va
 
 in summer. The book cases being made of cedar are indestructible The works, being
 
-distinct, are arranged in separate places. These resemble large chests or cisterns, stand-
-ing on end, and partitioned into cells, each containing a volume, which is carefully
+distinct, are arranged in separate places. These resemble large chests or cisterns, standing on end, and partitioned into cells, each containing a volume, which is carefully
 wrapped within many folds, laced with cord, and bound tightly between boards of cypress
 
 or cedar Some of the volumes were opened before me, and I gazed with a sort of
@@ -2102,15 +807,13 @@ shows expressive features, more spiritual than usual.
 
 Above the d Qon-pa, there is a long row of white quadrangular bmldings which are
 said to be crematories. In most villages, a single such incinerator has to suffice for many
-people. Here one once used for a high lama, is apparently not used again. It is con-
-verted into a kind of quadrangular mchod-rten.
+people. Here one once used for a high lama, is apparently not used again. It is converted into a kind of quadrangular mchod-rten.
 
 Although no ancient remains can be found at Kanam, it is quite possible that, as
 asserted, a Lamaist monastery was built here in the 11th century. The present buildings
 were probably erected on the sites of still more ancient ones. The monastery may have
 -been ransacked several times ; for the last time by the Gurkhas. When Gerard was on
-his expedition in the Satluj valley, he met with continual reports of the devasta-
-tions by the Gurkhas from Kotgur to the Tibetan frontier.
+his expedition in the Satluj valley, he met with continual reports of the devastations by the Gurkhas from Kotgur to the Tibetan frontier.
 
 On the 1st of July we marched from Kanam to the Shasu rope bridge. I arrived
 at the bridge at 11 a.m., but did not reach the opposite bank of the river, a tributary to
@@ -2125,13 +828,9 @@ it was found possible to work it, and our boxes one after another were slowly pu
 D
 
 
-18
-
-
 Ttea one of the ropes broke, just as one of the bags was right in the middle of the steel
 rope, and we spent a very exciting time in watching two daring youths who waded through
-the strong current, up to their chins, until they found the broken end of the rope. Hav-
-ing finally reached the other bank, it was night, and there being no time nor room to
+the strong current, up to their chins, until they found the broken end of the rope. Having finally reached the other bank, it was night, and there being no time nor room to
 -pitch tents, we had our beds in the open air and slept very comfortably.
 
 W e arrived at Poo on the 2nd of July, after a tiring march over a hoirible road of very
@@ -2144,8 +843,7 @@ ladies who have travelled on it in its old state ! 1 he rocks are dangerous, eve
 About an hour before reaching Poo, the valley widens a little, and it is a relief to
 be able to walk here without continuahy looking out for a safe foothold. Poo is situated
 on a plain on the right bank of the Satluj and looks very pretty with its green fields,
-apricot and apple tree gardens. Its elevation is about 9,500 feat, and it is the first vil-
-lage on our road, the language of which is entirely Tibetan. It looks as if it was entirely
+apricot and apple tree gardens. Its elevation is about 9,500 feat, and it is the first village on our road, the language of which is entirely Tibetan. It looks as if it was entirely
 closed in by steep bare mountains.
 
 
@@ -2162,8 +860,7 @@ Lurdur) Singh ; Ugar (in Tibetan TJrhu) Singh ; Mahindar (in Tibetan Metar) Siii
 Shamsher (in Tibetan ‘ golden thought ’) Siiigh. These names cover about
 
 tue last century. But there are some more mayii waUs with votive tablets which instead
-0 giving the proper name of a chief simply speak of ‘ the great king ’ at Sarahan (S'o-ra-
-rmff in Tibetan). This shows that the personal names of the rulers of Bashahr previous
+0 giving the proper name of a chief simply speak of ‘ the great king ’ at Sarahan (S'o-rarmff in Tibetan). This shows that the personal names of the rulers of Bashahr previous
 
 geographical part (the
 
@@ -2175,17 +872,12 @@ of part of tko Poo ^pvoatio” ^
 ~ “
 
 
-19
-
-
 I Tras told that there rras an inscribed stone in the village of dKor, below Poo, and
 went to examine it. Although the stone was generally known, nobody, not even the
 lamas, had tried to read it. The village of dKor is situated on the right bank of the
 little brook of Poo. The stone was found in a field belonging to a lama called hKa-rgyud
-It is about six feet high. The upper half of the sculpture shows a well executed repre-
-sentation of a stupa, the lower half that of a human being. This part of the stone is
-in very bad preservation and most of it underground. The human figure wears a three-
-pointed hat. On the reverse of the stone is a Tibetan inscription of eleven lines. Only
+It is about six feet high. The upper half of the sculpture shows a well executed representation of a stupa, the lower half that of a human being. This part of the stone is
+in very bad preservation and most of it underground. The human figure wears a threepointed hat. On the reverse of the stone is a Tibetan inscription of eleven lines. Only
 the first two lines are in fair preservation ; of all the other lines only the beginning and
 end have been preserved, whilst the middle part of those lines has been obliterated.
 While we were examining the stone, a Christian Tibetan who was with us, began to read
@@ -2207,15 +899,12 @@ lama, who was just ou the point of becoming displeased with my treatment of his 
 The story of King Te-shes-’od is found in the second part of the Tibetan historical
 work dTag-hsam-ljon-bzang, and a translation has been published by Sarat Chandra Das.^
 Up to the present, nobody had known whether the story contained in those works was
-really true and whether the persons mentioned in it had actually lived or not. This in-
-scription of King Te-shes-’od is the first record which can be brought forward to confirm
+really true and whether the persons mentioned in it had actually lived or not. This inscription of King Te-shes-’od is the first record which can be brought forward to confirm
 the statements of the Tibetan historians. Fragmentary though it is, it contains some
 interesting information. We learn from it that in the days of the priest-king Te-shes-’od
-the villages of sYu (Poo) and dKor both existed, that Poo even possessed a palace {pho-
-brang). dKor is called dKor-khang, house of dKor. There were ten princes according
+the villages of sYu (Poo) and dKor both existed, that Poo even possessed a palace {phobrang). dKor is called dKor-khang, house of dKor. There were ten princes according
 to the inscription, and all of them were sent to Poo. What was their object in this place,
-cannot be said with perfect certainty, but from the frequent occurrence of the words lha-
-chos (religion of the lha), and sugar -chos (former religion) it appears that they were sent
+cannot be said with perfect certainty, but from the frequent occurrence of the words lhachos (religion of the lha), and sugar -chos (former religion) it appears that they were sent
 here for the propagation of Buddhism. In the end we read that they erected something.
 This was probably the first Buddhist temple at Poo of which local tradition asserts that it
 was erected in the place where now-a.-days the inscribed stone is found. This site is lower
@@ -2226,9 +915,6 @@ centre of Poo, and embell ished with the furnishings of the old one.
 ^ Indian Tandits in the Land of ^now^ pp. 61 .
 
 D %
-
-
-20
 
 
 This temple, the oldest of the existing temples of Poo, is called Lo-tsa-hd-Lha-hhang
@@ -2244,10 +930,8 @@ dKor, all the traditions connected with the latter were probably transferred to 
 
 About a mile below the village of dKor, on a hill above the river, there exist the
 extensive ruins of an ancient fort called Kalagtrung or Kalag Kot. It is supposed, once
-to have been the seat of a Thakur. The Lambardar of Poo tells me that iron arrow-
-heads have often been found in the vicinity. Such articles are ultimately converted into
-nails or knives by the people, and therefore I could not obtain any of them. It is inter-
-esting that the site of the present summer house of the mission, high above the castle
+to have been the seat of a Thakur. The Lambardar of Poo tells me that iron arrowheads have often been found in the vicinity. Such articles are ultimately converted into
+nails or knives by the people, and therefore I could not obtain any of them. It is interesting that the site of the present summer house of the mission, high above the castle
 on the hillside, is also called Kalagtrung. It seems to have been part of the same
 settlement as the castle, in earlier days. We visited the site of the castle on the 14th
 -July. Of ancient remains we found only sherds of hand-shaped pottery, sometimes
@@ -2273,13 +957,9 @@ High up on the hill-side, above Kalagtrung, there is a locality called “ the o
 ancient times, as it was used for dancing. At present there have been built on it sev-
 -eral enclosures for sheep and cattle, two marii walls, and some small stone huts. One of
 the mam vails contained an inscribed slab in Sanskrit and llibetan, instead of the ordin-
-■ary votive tablet. I made an eye copy of it. The inscription contains a passage appa-
-rently taken from the Prajiiaparamitd, addressed to the Tum-chen-po, the ‘ great mother ’
+■ary votive tablet. I made an eye copy of it. The inscription contains a passage apparently taken from the Prajiiaparamitd, addressed to the Tum-chen-po, the ‘ great mother ’
 This great mother is Tara, the wife of ^iva, and at the same time the godded of learnin^^.
 It is not remarkable that we should find here a prayer addressed to the wife of ^iva, for
-
-
-21
 
 
 the festiral of Shar-rgan which was distinguished bv a human sacrifice, was apparently
@@ -2287,8 +967,7 @@ celebrated in her honour.^ A little above the old dancing place, the remains of 
 which the victims were thrown, are shown to the traveller. The pit is said to have been
 ■of considerable depth, but now-a-days it is only a yard or so deej). Every year a child of
 eight years of age was thus sacrificed. Xow-a-days a goat is offered instead. This hapj^eiis
-at the new Shar-rgan place. Old peojfie in the village say that their own grand-
-mothers were witnesses of human sacrifices in their young days. Behind the pit, there
+at the new Shar-rgan place. Old peojfie in the village say that their own grandmothers were witnesses of human sacrifices in their young days. Behind the pit, there
 are several terraces, on which peojDle used to sit on the occasion of such sacrifices. The
 Shar-rgan festival, Mr. Schnabel tells me, as celebrated now-a-days, is a kind of
 thank-offering by those j)arents who have been blessed with a son during the past
@@ -2297,26 +976,20 @@ year.
 
 1/
 
-On the occasion of the festival, ‘ songs of the Shar-rgan festival,’ are sung. I discov-
-ered a manuscrijDt containing these songs in the village, and had it cojpied. Although their
-meaning is not yet intelligible to me in every part, I can see that they are of great import-
-ance, with regard to the study of the pre-Buddhist religion of Kanawar as well as of
+On the occasion of the festival, ‘ songs of the Shar-rgan festival,’ are sung. I discovered a manuscrijDt containing these songs in the village, and had it cojpied. Although their
+meaning is not yet intelligible to me in every part, I can see that they are of great importance, with regard to the study of the pre-Buddhist religion of Kanawar as well as of
 Tibet in general. The first songs of the collection remind me strongly of songs of the
-pre-Buddhist religion, as we find them in Ladakh, the Lmg-glu and the ‘ Marriage rit-
-ual,’ some of which have been published by me. It is of great importance that the relig-
+pre-Buddhist religion, as we find them in Ladakh, the Lmg-glu and the ‘ Marriage ritual,’ some of which have been published by me. It is of great importance that the relig-
 ion they represent is spoken of as Lha-ohos and Bon-clios in the Poo songs. ^ I have all
 along been of opinion that in the gLing-chos we have remnants of the earhest type of the
 Bon-chos, called Jo-la-Bon in the Oruh-mtha-shehgyi-me-long. This has been ridiculed by
 men like Dr. B. Laufer who know the Bon religion only from its latest productions, when
-it took sides with various forms of Hinduism, in antagonism to Buddhism. Literary pro-
-ductions like the “ Songs of the Shar-rgan festival ” go far to prove that the gLing-chos as
+it took sides with various forms of Hinduism, in antagonism to Buddhism. Literary productions like the “ Songs of the Shar-rgan festival ” go far to prove that the gLing-chos as
 brought to light by my efforts, is precisely the Jo-la-Bon religion of Tibet. But the songs
 of the Shar-rgan festival do not only speak of deities of the Bon religion, Gung-sngon-
-■snyan-lha, the god of heaven, sPang-dmar-lha, the god of the red meadow, tho earth, Bya-
-rgod, the sun. King Ke-sar, etc., but make also mention of new deities, pho-lha and the
+■snyan-lha, the god of heaven, sPang-dmar-lha, the god of the red meadow, tho earth, Byargod, the sun. King Ke-sar, etc., but make also mention of new deities, pho-lha and the
 mo-lha, the deities of the ‘ male and female creative principle.’® These are unmistakably
-the Tibetan names of ^iva and Kali, the gods of the pre-Tibetan population of the Sat-
-luj valley. And it is very probable that the human sacrifices which used to form part of
+the Tibetan names of ^iva and Kali, the gods of the pre-Tibetan population of the Satluj valley. And it is very probable that the human sacrifices which used to form part of
 the Shar-rgan festival, belong to the rehgion of this aboriginal population, and not to the
 
 
@@ -2339,9 +1012,6 @@ atKhab; gSergen-chen-po, atNamgja; dMag-gi-dpon-^po^ Six of them are of the male
 -those at Poo, Dabling, and Khab, are of the female sex.
 
 
-23
-
-
 Tibetans. The Tibetans practised human sacrifices, but for different motives from what
 we have obseryed in the Satluj valley. Oaths at important treaties were emphasised by
 human as well as animal sacrifices. New houses were inaugurated by immuring human
@@ -2350,8 +1020,7 @@ Poo, a lama had only recently beheaded his own father while asleep, to make the 
 house he had built, properly habitable.
 
 The Shar-rgan sacrifices as well as the human sacrifices in the Satluj valley and in
-Lahul are of a very different character. To understand them, it is necessary to investi-
-gate the character of the deities in whose honour they are celebrated. Siva and Kali, as
+Lahul are of a very different character. To understand them, it is necessary to investigate the character of the deities in whose honour they are celebrated. Siva and Kali, as
 we find them in the Himalayas, are personifications of the creative powers ; they do not
 only j)roduce the harvest of the fields, but also bless the women with children, especially
 sons. In this respect, the principal deities of the pre- Buddhist religion of the Tibetans,
@@ -2375,10 +1044,8 @@ and probably belonged to it. The new Shar-rgan place is situated a little above 
 from Poo to Eizhing. At the latter place, there are a few old pencil-cedars, and a number
 of rough altars, furnished with horns of goats and wild antelopes, and pencil-cedar twigs.
 They look exactly like the lha-tho of Ladakh. A third place which is connected with the
-same festival is found in the middle of the village of Poo, and is called Dralang {sGra-
-lang (?) ‘ raising the voice ’) . It is used for dancin g and has a pole in the middle. On two
-sides of the place, there are lha-tho like those on the new Shar-rgan place, and two per-
-pendicular stones, one showing traces of an inscription seemingly Om-a-hwk. The
+same festival is found in the middle of the village of Poo, and is called Dralang {sGralang (?) ‘ raising the voice ’) . It is used for dancin g and has a pole in the middle. On two
+sides of the place, there are lha-tho like those on the new Shar-rgan place, and two perpendicular stones, one showing traces of an inscription seemingly Om-a-hwk. The
 other plain one is probably a rude kind of lihgam, like those in Manchad. Not far
 from it, there are holes or pits where again children used to be sacrificed. (Plate
 IX. b).
@@ -2387,9 +1054,6 @@ The people of Poo although they are Buddhists, do not always cremate their dead,
 but bury them in certai n cases. There are two burial places outside the village, one for
 
 * The Dard Bridge, see my Eistory of Western Tibet. = Z. B, M, G., Vol. LXI, pp. 683 ff.
-
-
-23
 
 
 more respectable peoj)le, as Mr. Scliiiabel informed me, the other one for poor peo 2 >lo
@@ -2405,8 +1069,7 @@ days of the great teacher Atl^a. Now a king of the same name is mentioned among 
 descendants of the first king of Zangskar, and closer research reveals the fact that the
 Zangskar kings actually reigned at mTho-lding in G-uge. How is this to be accounted
 for ? My explanation is this : King Nyi-ma-mgon of Western Tibet divided his empire
-among his three sons. The eldest received Ladakh, the second received Guge and Pu-
-rang with mTho-lding as his caj)ital, the third one’s portion was Zangskar. The histori-
+among his three sons. The eldest received Ladakh, the second received Guge and Purang with mTho-lding as his caj)ital, the third one’s portion was Zangskar. The histori-
 •cal accounts of the Tibetans relate of descendants of the first and third sons, but they do
 not give any names of descendants of the second son. There were apparently none.
 The king of Guge and Puraug died ■without issue. Then his country was seized by the
@@ -2437,16 +1100,12 @@ ten months before us, clothed his feelings in the words : “ This bridge is a p
 for people desirous of committing suicide ! ”
 
 
-24
-
-
 We arrived at the village of Namgya (spelt sNam-rgya in an historical document) on
 the 6th July, after a hot march over very uneven groundJ Soon after our arrival, the
 village chief, called Hira, made his appearance and entered into conversation with me.
 He said, he was a descendant of a Tibetan family of hlon-po, ministers, who had formerly
 been in charge of this district, and indeed, he had quite the bearing of a gentleman. In
-the course of our conversation he exhibited an extraordinary knowledge of things his-
-torical, in particular with regard to the battle of Basgo in 1646-47 A.D When I ex-
+the course of our conversation he exhibited an extraordinary knowledge of things historical, in particular with regard to the battle of Basgo in 1646-47 A.D When I ex-
 pressed my astonishment at such wisdom, he said that he was in possession of a document
 of ancient times. After much persuasion he produced it, and it turned out to be a copy
 of the treaty between Raja Kehari Singh {Kyeris Sing in Tibetan) of Bashahr and the
@@ -2463,8 +1122,7 @@ Bashahr. If the latter be true, this would be the first copper-plate inscription
 and the Raja of Bashahr ought to be urged to open his archives to students of history.
 The manuscript gives a short account of the war between Ladakh and Lhasa in 1646-47
 and contains a few, but important local names. The difficulty is to assign them their’
-proper places on a map. That the document is not forged, is quite plain from its inter-
-nal evidence.
+proper places on a map. That the document is not forged, is quite plain from its internal evidence.
 
 The road between Namgya and Shipke is bad beyond description. I have had some
 experience of awkward roads during my thirteen years’ residence in Indian Tibet, but
@@ -2497,9 +1155,6 @@ Plate X.
 b. Lamaist gateway near rNamgya.
 
 
-25
-
-
 *
 
 
@@ -2510,8 +1165,7 @@ state this stone could be used internally and externally, and would cure all dis
 real and imaginary.
 
 Pindi Lai’s treasure stood us in good stead in the course of our tour, for people
-continually approached us with the desire to be cured of all kinds of diseases. Govern-
-ment had granted us five rupees worth of Quinine and Castor Oil which had to serve as
+continually approached us with the desire to be cured of all kinds of diseases. Government had granted us five rupees worth of Quinine and Castor Oil which had to serve as
 a cure for everything. The fame of my medical skill which was, however, without any
 foundation, spread far and wide. Once when travelling through the desert between
 Bashahr and Spiti, and far away from any human habitation, I met with a youth and
@@ -2553,9 +1207,6 @@ kind of stone implement was in use here also.
 E
 
 
-26
-
-
 Tlie second of the ruined castles is called Scng-gB-mKhaT (Plate XI, b). Its ruins
 are found below the mKhar-gog castle, on the left bank of the Satluj. Its lower part is
 built of large well fitted stones, and higher up the waUs are of clay or sun-dried bricks, as
@@ -2585,8 +1236,7 @@ of the seventeenth century. If earlier, they would have contained names of the
 kings of Ladakh, or of Guge. The tablets, however, generally contain versions of the
 eulogy of the country of Guge, a kind of national anthem, and for this reason I copied
 one of them, which I found in the village of Shipke. I am rather of opinion that after
-1650 A.D., when Guge was made over to Lhasa, all those ancient tablets which con-
-tained the names of Ladakhi or Guge kings, were destroyed. It was in the interest of
+1650 A.D., when Guge was made over to Lhasa, all those ancient tablets which contained the names of Ladakhi or Guge kings, were destroyed. It was in the interest of
 the Lhasa Government to make people forget their former masters.
 
 This is one of their national anthems, as we find them in these inscriptions. It is
@@ -2646,15 +1296,12 @@ for services rendered to them. The Tibetans were more than ready to serve me in 
 same way under similar conditions.
 
 Opposite Shipke may be seen the Puri monastery. This, as well as the Ba-nyid
-monastery, a little north-east of Shipke, is asserted to have been founded by Batna-
-bhadra in the 11th century.
+monastery, a little north-east of Shipke, is asserted to have been founded by Batnabhadra in the 11th century.
 
-As I was not allowed to proceed to mTholding and Tsaparang myself, I asked Loh-
-zang, a former pupil of the Poo mission school, to go there and copy any inscriptions he
+As I was not allowed to proceed to mTholding and Tsaparang myself, I asked Lohzang, a former pupil of the Poo mission school, to go there and copy any inscriptions he
 could find. Accordingly he went on alone from Shipke, and after twelve days he returned
 safely to Poo. He had, however, found no inscriptions of any antiquity at either of
-the two places. It is quite possible that none remain. Just as there are many inscrip-
-tions of the Dalai Lama’s time at Shipke, but only one previous to 1650, the old inscrip-
+the two places. It is quite possible that none remain. Just as there are many inscriptions of the Dalai Lama’s time at Shipke, but only one previous to 1650, the old inscrip-
 tions of mTholding and surroundings may have disappeared as well. Lobzang, however,
 did not return quite empty-handed. He brought me short descriptions in Tibetan of
 both places he had visited, and a copy of a written document which he had found in the
@@ -2666,14 +1313,10 @@ Tibetans,
 E 2
 
 
-28
-
-
 hands of the rdzong-dpon (castleward) of Tsaparang. This document turned out to be
 another version of the treaty between Bashahr and Tibet in 1650, and is of the greatest
 value for the study of this important treaty. By a comparison of the two documents
-(Namgya and Tsaparang), we may obtain a fairly reliable text of the treaty. His des-
-cription of m'l'holding is a valuable supplement to Captain Bawling’s description of the
+(Namgya and Tsaparang), we may obtain a fairly reliable text of the treaty. His description of m'l'holding is a valuable supplement to Captain Bawling’s description of the
 same place which, up to the present, is still the best account of it we have. According to
 Captain Rawling, mTholding consists of two settlements, one of which is situated
 on a practically inaccessible rock, and the other in the plain below. The town
@@ -2683,8 +1326,7 @@ build their houses below or around the castle on the same rock. One of Cajjtain
 Eawling’s sepoys climbed up to the old town with the assistance of some Tibetans
 and saw several of the gigantic old images in the midst of extensive ruins. Captain
 Bawling himself went to the famous temple of mTholding on the plain below and
-examined its contents. He is of opinion that it was built when the old town was desert-
-ed and that several of the valuable articles of furniture of the castle or temples w’ere
+examined its contents. He is of opinion that it was built when the old town was deserted and that several of the valuable articles of furniture of the castle or temples w’ere
 removed to this new sanctuary, for instance the wood-carved throne of the ancient kings
 of Guge. I am, however, of opinion that it is very likely that the famous temple of
 mTholding was built on the plain by Batna-bhadra, and not on the rock. My reason is
@@ -2704,8 +1346,7 @@ svasHkas) for Christian symbols, or whether there were actually crosses of a Chr
 type among the rock carvings of this place, like the Maltese crosses of Lrangtse at the
 Pangkong lake. I had hoped that Lobzang would find it possible to clear up tliis ques
 tion, but I was disappointed. Lobzang said that he had seen many rock sculptures
-(without inscriptions) at Tsaparang, but nothing to suggest the former presence of Chris-
-tians in this place.
+(without inscriptions) at Tsaparang, but nothing to suggest the former presence of Christians in this place.
 
 After we had almost completed our two days’ march from Shipke back to Poo, we
 had once more to cross the rope bridge mTho-rang, ‘ Height itself. ’ To avoid unneeeskry
@@ -2714,15 +1355,11 @@ Saturday, for on that day I intended to reach Poo again. In spite of this precau
 however, nothing was in readiness when we arrived at the bridge on Saturday at noon. The
 
 
-29
-
-
 people of Poo seem to be fond of practical joking and try to get as much fun out of tbeir
 bridge as possible. They cannot think of anything more exhilarating than a person 'u^ho
 n-ants to cross and cannot. I -was told that they have kept old Tvomen Avaiting on the
 other bank for three days. TThat a grand idea to keep a EurojDeaii Sahib Avaiting and not
-move a finger to aid him ! The banks of the Satluj are a trying place indeed for S 2 Dend-
-ing a long afternoon in midsummer. Por miles around the bridge neither tree nor shrub
+move a finger to aid him ! The banks of the Satluj are a trying place indeed for S 2 Dending a long afternoon in midsummer. Por miles around the bridge neither tree nor shrub
 is to be seen and noAvhei*e is there a holloAv in the rock to afford shelter from the merciless
 rays of the sun. Hoav glad I Avas Avhen I found a corner in the rocks to shade my face
 doAvn to the nose as I lay stretched out on the ground. W e did not at once understand
@@ -2734,8 +1371,7 @@ continue the process. Whilst this man Avas thus engaged for the general benefit,
 saAv a man of Poo climbing about on the rocks of the Poo bank of the river. We asked
 him to go up to Poo for bakhshish and fetch the Avooden saddle. “That is the last thing
 I Avould think of doing,” Avas all he said, and AA'ithhim our last ray of hope disaj) 2 )eared.
-Perhaps Ave should still be sitting on the other side of ‘ Height itself, ’ if Pindi Lai’s crav-
-ing for food had not been so impemtive. He had had no food since a A'ery early and hurri-
+Perhaps Ave should still be sitting on the other side of ‘ Height itself, ’ if Pindi Lai’s craving for food had not been so impemtive. He had had no food since a A'ery early and hurri-
 ed morning meal, and realized that he could not survive many more days in that barren
 spjot. He therefore persuaded an athletic youth among our coolies to use one of his leather
 chaplis (sandals) in jAlace of the AVOoden saddle, and ride across, making ouAvard progress
@@ -2760,9 +1396,6 @@ my instructions in posting a man on the bridge to report our arrival. It was thi
 man’s sense of humour Avhich had kept him away. We punished him by making
 
 
-30
-
-
 hinci pay the two annas bakhshish which, had. been more than earned by the brave chapli
 rider.^
 
@@ -2781,8 +1414,7 @@ joiu’ney of about four weeks through the most uninhabitable country. Our outfi
 regards provisions and warm clothing, might certainly have been better. But the
 summers being short in these regions, we could not put in three more weeks of waiting
 at Poo, to let the required goods and means come up. The missionary at Poo kindly
-advanced me some money as well as tinned provisions, and we left with the determin-
-ation to move on and be satisfied with the simplest fare.
+advanced me some money as well as tinned provisions, and we left with the determination to move on and be satisfied with the simplest fare.
 
 On the first day we had to cross the steep Hang Pass, 16,000 feet high. It is a place
 which arouses painful memories in the minds of Mr. and Mrs. Schnabel ; for when they
@@ -2804,8 +1436,7 @@ pencil -cedar.
 
 On the 22nd July we arrived at the village of Li which looks very beautiful with its
 many green fields and apricot trees in the midst of a chaos of bare rocky mountains. Li is
-very probably a place with a grander past than present. The Tibetan dictionaries and chro-
-nicles speak of two ancient places called Li, one in the north, the other in the south.
+very probably a place with a grander past than present. The Tibetan dictionaries and chronicles speak of two ancient places called Li, one in the north, the other in the south.
 The northern one has been correctly identified with Turkestan or a part of Turkestan.
 Of the Li of the South it is said that it is situated “ near Nepal.” I beheve that the " Li of
 the South is the Tibetan part of the present Bashahr State, the principal town of which
@@ -2840,41 +1471,31 @@ Here the rNying-ma-pa monks grow long
 hair which is never combed, and gives them a
 savage appearance. The best specimens of this
 uncivilized order of saints can, however, be
-seen at Pyin in Spiti. Although I am con-
-vinced of the correctness of the assertion that
-the monastery is of remote origin, this state-
-ment cannot be confirmed by documentary
+seen at Pyin in Spiti. Although I am convinced of the correctness of the assertion that
+the monastery is of remote origin, this statement cannot be confirmed by documentary
 evidence. The present building does not
 appear to be of many yeans’ standing, nor the
 few idols contained in it. At the monastery,
 however, they have an ancient and beautiful
 wood carving of teak wood, representing Buddha
-surrounded by Bodhisattvas. All the Bodhi-
-sattvas are of the primitive and simple type.
+surrounded by Bodhisattvas. All the Bodhisattvas are of the primitive and simple type.
 
 (Kg. 1).
 
-Not far from the bKra-shis-lhun-grub mon-
-astery, a little above the line of cultivation, are
+Not far from the bKra-shis-lhun-grub monastery, a little above the line of cultivation, are
 the ruins of an old nunnery, called Jo-moi
 dgon-pa. It consists of three separate ruined
 houses, a mani wall covered with white pebbles
-and two mchod-rten. The nunnery was abandon-
-ed only a hundred years ago, so people told me,
+and two mchod-rten. The nunnery was abandoned only a hundred years ago, so people told me,
 
 » See J. A. S.JB.,Yol. L,p 202.
 
 
-32
-
-
-The irrigation canals of Li are of some interest. In one case the water is con-
-ducted through a rock or mountain by a tunnel of considerable length. People here'
+The irrigation canals of Li are of some interest. In one case the water is conducted through a rock or mountain by a tunnel of considerable length. People here'
 firmly believe that this tunnel was made by fairies {mkha-’agro) or gods (lha). In the-
 West people would be proud of their clever ancestors.
 
-In one of the mcTiod-rten at Li, on the road to Nako, I found a clay tablet represent-
-ing Avalokite^vara with eleven heads and eight arms, an interesting stage in this
+In one of the mcTiod-rten at Li, on the road to Nako, I found a clay tablet representing Avalokite^vara with eleven heads and eight arms, an interesting stage in this
 divinity’s development into a figure with a thousand arms.
 
 On Friday the 23rd July, we marched to Nako. We had hardly left the village of
@@ -2884,8 +1505,7 @@ bridges.” But we had a right to be tired of them, for it was, after all, the l
 had to cross in the course of our journey. Aiter we had spent about three hours in
 transporting our luggage and ourselves across the foaming waves, we had to climb up a
 very steep and high mountain side with no shade and a scorching sun above us. When
-it seemed as if I had reached the ends of the earth with nothing beyond, the large-
-emerald plateau of the village of Nako suddenly appeared before me. There were
+it seemed as if I had reached the ends of the earth with nothing beyond, the largeemerald plateau of the village of Nako suddenly appeared before me. There were
 waving fields in which girls were working and singing merrily, and a picturesque town
 reflected in the mirror of a clear little lake.
 
@@ -2907,11 +1527,9 @@ same wall with a dragon frame, similar to that of the principal figure.^ As rega
 frescoes on the walls, they were arranged in circles, just as we find them at the Alohi
 monastery. However, their quantity beiug enormous and their state of preservation
 poor, I gave up the attempt either to copy or describe any of them. I must leave
-that to future students who can afford to spend at least a month in that interest-
-ing place. Elsewhere * I have given expression to my opinion that stucco images are
+that to future students who can afford to spend at least a month in that interesting place. Elsewhere * I have given expression to my opinion that stucco images are
 
-' la this dtagoii frame as well as ia that of the stucco sGrol-gser ia the noithevn temple -we noth e a carious develop-
-ment of a well-known decomtive motive of Indian art. It is very common in the architecture of Java, where archseologists
+' la this dtagoii frame as well as ia that of the stucco sGrol-gser ia the noithevn temple -we noth e a carious development of a well-known decomtive motive of Indian art. It is very common in the architecture of Java, where archseologists
 are in the habit of describing it as the ornament. Some, however, prefer the designation
 
 ornatnent. In the present instances the central figure at the top is undoubtedly a Garuda, but the two diwons at the sides
@@ -2937,13 +1555,9 @@ Figure of rNam-par-snang-mdzad or Vairochana in the Lotsabai b. Figure of sGrol-
 Lha-khang Monastery, Nako. Lha-khang Monastery, Nako.
 
 
-33
-
-
 of later date than the times of B.in-chen-bzang-i)o. Since 1 wrote this statement,
 I hare had to change my opinion. Stucco images of vei’y artistic design were fashioned
-in the eleventh century. And as regards Xako, all the monks were unanimous in assert-
-ing that the images of this monastery were of the great Lotsaba’s time. In a godowm
+in the eleventh century. And as regards Xako, all the monks were unanimous in asserting that the images of this monastery were of the great Lotsaba’s time. In a godowm
 here we found an ancient wooden mask sach as are used by the lamas in their devil
 dances. I\’e bought it for one rupee. The present day masks are made of stucco, and
 differ widely from this ancient specimen. I found only a single inscription in this
@@ -2970,15 +1584,13 @@ were still legible : Sha-kya-tlmb-pa ; Myang-ngm-nied-mokog-dpal ; Rin-oken-zla-
 Above the door, among other tutelary deities, there is a large fresco of King Kesar riding
 on a white r Kyang (tvild ass) . At Xako he is called gLing-sing-chen-rgyal-po, ‘ Great Lion
 King of gLing/ This may point to a connection between the j)re‘Buddhist religion of
-the Tibetans and the Buddhism of the eleventh century. I copied six Tibetan inscrip-
-tions in this hall, which are merely of iconographical interest. Most of the others were
+the Tibetans and the Buddhism of the eleventh century. I copied six Tibetan inscriptions in this hall, which are merely of iconographical interest. Most of the others were
 illegible. Besides the Tibetan inscriptions we found here a short inscription in ^arada
 •characters which we tried to photograph, but did not succeed, as it was written with
 brown ink on an orange ground. Much was not lost, however, as it is probably not of
 wery ancient date.
 
-Another little temple to the south of the village of Nako is called sl/ob-dpon-zhabs-
-rjes, ‘ Pootprint of the Teacher.’ It is built over a natural rock showing a footprint of
+Another little temple to the south of the village of Nako is called sl/ob-dpon-zhabsrjes, ‘ Pootprint of the Teacher.’ It is built over a natural rock showing a footprint of
 more than human size. Above the rock is placed a stucco figure of Padma-sambhava.
 The temple is furnished with frescoes of as ancient a type as those in the Lha-khang
 •ched-po {cTied-po is the same as Tibetan cTien-mo, ' great ’). They also have the same glassy
@@ -2989,11 +1601,7 @@ to surmise that already in the days of Ein-chen-bzang-po, this footprint on the 
 p
 
 
-34
-
-
-Tvas belieyed to be tliat of Padma-sambbava who lived t-wo and a half centuries-
-earlier.^
+Tvas belieyed to be tliat of Padma-sambbava who lived t-wo and a half centuriesearlier.^
 
 QppQgj ’(;0 the present townj on the other shore of the little lake of NakOj theie aie
 the extensive ruins of the ancient town, with the Jo’s (chief’s) fort above it. This
@@ -3001,8 +1609,7 @@ ancient town is said to have been destroyed by the Ladakhis, probably on one of 
 punitive expeditions against their vassal kings of Guge. Where the present village
 stands, there used to be only stables in earlier days, as was also the case in Li. The
 chiefs of Nako are still in existence, and a votive tablet by one of their ladies was found
-and copied in the ten) pie of Lo-tsa"bai-lha*khang. All the muni walls round about Nako-
-are of recent date, like those of Li, the most ancient name mentioned on them being
+and copied in the ten) pie of Lo-tsa"bai-lha*khang. All the muni walls round about Nakoare of recent date, like those of Li, the most ancient name mentioned on them being
 that of Metar (Mahindar) Singh of Bashahr.
 
 North-west of Nako, there are a number of deserted villages which show that
@@ -3014,8 +1621,7 @@ when the water course was mended, which was considered a sufficient reason for
 giving up the settlement altogether. Let me add that Nako was one of the places
 visited by Osoma de Koros.
 
-We reached the village of Chang on the 24th July, after a march through a moun-
-tain desert without any special interest. The locally famous monastery of Tra-shi-tong-
+We reached the village of Chang on the 24th July, after a march through a mountain desert without any special interest. The locally famous monastery of Tra-shi-tong-
 yang (bEra-shis-mthong-dbyangs) is situated on the opposite bank of the brook of Chang,
 on a rock, in the middle of a deserted village. We were not in a position to visit the
 temple, as its key had been taken to Tibet by the lama in charge. The monastery is
@@ -3036,8 +1642,7 @@ flood. The Chang people found it, and tried to carry it up to the Tra-shi-tong-y
 * The ew^istlpicture of Naho Tillage and monastery is found on Plate XXJI of Seise des Prinzen TVctldemay von
 Preussen, 3845. _ Of paiUculai interest are the slanting roofs of several houses shown in that picture. Dr. Hoffimeister,
 pho was of the Pnnce s party, gives the following items with regard to the ancient images of the Nako temples. In one of
-the halls, t^_ travellp were shown the following images : Dordschi Simba (rDo-jy'e-sewii-eiiJS) ; Nanatheia {sNann-lu-
-rntn^ya^ ; Vinsem-junMe [Stn-cJien-hyun^ldan) ; Thevadna (P; ; Nabaniangge {rZfam-par-snang-mdzad), and a frame-
+the halls, t^_ travellp were shown the following images : Dordschi Simba (rDo-jy'e-sewii-eiiJS) ; Nanatheia {sNann-lurntn^ya^ ; Vinsem-junMe [Stn-cJien-hyun^ldan) ; Thevadna (P; ; Nabaniangge {rZfam-par-snang-mdzad), and a frame-
 woik mth a Ts^akium (Khynng, 6»ruda). l^is was e^dently the LJia-hiang-ched-po temple. In another temple, they
 aawaDulma{a(?j-oZ-«!a)withalschakium {Klymg, Garoda) above her. This was evidently the Lha-Maw aong-ma
 
@@ -3067,8 +1672,7 @@ On the way to Kyahar, I noticed a short inscription in Takari on one of the boul
 on the roadside. It is unintelligible, but interesting, as testifying to the use of that
 script in these parts.
 
-I was told that there is a small, but ancient monastery at Kyahar, which local tra-
-dition also connects with the famous Ein-chen-bzang-po. It is called Lha-brang and
+I was told that there is a small, but ancient monastery at Kyahar, which local tradition also connects with the famous Ein-chen-bzang-po. It is called Lha-brang and
 belongs to the Gelugpa order. Although I was assiued that it contained ancient pictures,
 I could not manage to visit it. iN'or did I see the ancient stone sculpture at Kyahar
 which is said to be similar to the Avalokite4vara of Chang, mentioned above.
@@ -3088,18 +1692,13 @@ out little basins in which they bathe. Crystallized sulphur and some white salt 
 borax) are found near the wells. I collected some water plants which I found growing
 in the hot sulphurous water.
 
-The 26th July was spent in the same desert on our march to Horling, a desert camp-
-ing-place on the Spiti river. I had expected to have an archaeological holiday in this
+The 26th July was spent in the same desert on our march to Horling, a desert camping-place on the Spiti river. I had expected to have an archaeological holiday in this
 uninhabitable region. But that was not so. Strange to say, we passed by mmi walls, from
-time to time, and several of the stones placed on, or by the side of, the walls, were of un-
-usual interest. I found here four or five stones which must have been carved in the 15th
+time to time, and several of the stones placed on, or by the side of, the walls, were of unusual interest. I found here four or five stones which must have been carved in the 15th
 century. . They contained the names. of the great reformer Tsong-kha-pa and three of his
 contemporaries, _ mKhas-grub-pa (1384-1437), Lha-dbang-blo-gros (1388-1462), and
 
 p 2
-
-
-36
 
 
 dGe’adun-grab (1389’1473). What points in particular to their ancient origin
@@ -3110,26 +1709,21 @@ to the enthusiasm with which Tsongkhapa’s reformation was welcomed in these
 tracts.
 
 A still more interesting inscription I found on a mani wall at the desert camping
-place of Horling. This map, wall was erected by a man of the Tibetan village of rGyu-
-mkhar, the SlmgaT of the map, during the reign of a king who resided at Tsaparang (spelt
+place of Horling. This map, wall was erected by a man of the Tibetan village of rGyumkhar, the SlmgaT of the map, during the reign of a king who resided at Tsaparang (spelt
 rTsabarang, on the stones). When I read this, I could not help thinking at once of the
 Jesuit priest, d’Andrada, who states that he had found a Tibetan king at Tsaparang
-favourably inclined towards Christianity. This statement of the Jesuit has been sub-
-jected to serious doubts by modern writers on Tibet. They could not believe that a ‘ king ’
+favourably inclined towards Christianity. This statement of the Jesuit has been subjected to serious doubts by modern writers on Tibet. They could not believe that a ‘ king ’
 should ever have resided at the now unimportant village of Tsaparang. But d’Andrada
 is vindicated as we know now that Tsaparang was the capital of a sovereign whose power
-was acknowledged even as far as Spiti. At the same time when the tablet was carved, Tsa-
-parang was the capital of the kingdom of Guge, the largest vassal state of the W estern
+was acknowledged even as far as Spiti. At the same time when the tablet was carved, Tsaparang was the capital of the kingdom of Guge, the largest vassal state of the W estern
 Tibetan empire. As far as my knowledge goes, the kingdom of Guge has had three
 capitals : the first was mTho-lding (Tholing), the second, Tsaparang, the third Garthog.
 The genealogical tree of the kings of Guge has been preserved in Tibetan historical works.
 The original line of these kings came from Zangskar, as stated above. Their dynastical
-name was Lde. The Lde dynasty came to an end in the principal line, and was superse-
-ded by a rMal dynasty. When the rMal dynasty became extinct, a member of a side
+name was Lde. The Lde dynasty came to an end in the principal line, and was superseded by a rMal dynasty. When the rMal dynasty became extinct, a member of a side
 branch of the original Lde dynasty was invited from Purang and became king of Guge.
 Then the historical information ceases. The name of the king who is mentioned on
-the votive tablet, is Khri-bkra-shis-grags-pa-lde. This name is not found in the genealo-
-gical tree, and therefore he must be one of the later members of the second Lde dynasty
+the votive tablet, is Khri-bkra-shis-grags-pa-lde. This name is not found in the genealogical tree, and therefore he must be one of the later members of the second Lde dynasty
 from Purang. He cannot well have reigned before 1600 A.D., for mani waEs were hardly
 ever constructed before that time ; nor can he have reigned much later than 1630 A.D.,
 for about that time Indra Bodhirnam-rgyal, a younger brother of the king of Leh, was
@@ -3157,9 +1751,6 @@ a Monastery of Tabo.
 b. Row of one hundred and eight stupas^ Tabo.
 
 
-37
-
-
 Not far from our camp at Hoiiing, on tlie plain torrarcls Lliari, I found a large stone
 containing an inscription of Tsongkhapa’s time. It mentions, besides the names of the
 reformer and one or txvo of his contemporaries, those of an ancient lama-ldng of Guge,
@@ -3183,16 +1774,13 @@ Purgyul is the king of mountains,
 
 Manasarowar is the king of lakes.”
 
-At Hoiiing the coolies from Chang, pointing towards the Purgyul group of moun-
-tains which is here called Gung-ri (perhaps the Ktingrang of the maps), said that on those
+At Hoiiing the coolies from Chang, pointing towards the Purgyul group of mountains which is here called Gung-ri (perhaps the Ktingrang of the maps), said that on those
 mountains was the fabulous ’aBa-yul, the abode of spirits. Its inhabitants are believed to
 be numerous, but ordinary people can neither see nor hear them. It is only very good
-men or lamas who are capable of perceiving anything. When such a pious man ap-
-proaches that region of eternal snow, he hears the voices of its invisible denizens or the
+men or lamas who are capable of perceiving anything. When such a pious man approaches that region of eternal snow, he hears the voices of its invisible denizens or the
 barking of their ghostly dogs, but sees nothing. This tale reminds me strongly of a
 passage which I had repeatedly found in inscriptions with reference to the Kailasa
-mountains : — dgra hcom bzJiugs gnas Tise, ‘ Kailasa, the abode of those who have con-
-quered all enemies’ {arhats). The ice mountains evidently are not only the abode of the
+mountains : — dgra hcom bzJiugs gnas Tise, ‘ Kailasa, the abode of those who have conquered all enemies’ {arhats). The ice mountains evidently are not only the abode of the
 gods, but also that of the dead who, according to the belief of the Tibetans, have
 acquired paradise.
 
@@ -3211,13 +1799,8 @@ On the 29th July, we marched to the famous Gelugpa monastery of Tabo which is
 only three miles distant from Lhari (Plate XIV, a). When we were approaching it, I
 
 
-38
-
-
-said to Pindi Lai : “ You see, popular tradition connects this monastery witli Ein-clien-
-bzang-po who lived 900 years ago, and an inscription at Holding showed us that such
-traditions were also current in the 16th century. But what is the use of all these tradi-
-tions ? We must have literary proof that a monastery actually goes hack to those early
+said to Pindi Lai : “ You see, popular tradition connects this monastery witli Ein-clienbzang-po who lived 900 years ago, and an inscription at Holding showed us that such
+traditions were also current in the 16th century. But what is the use of all these traditions ? We must have literary proof that a monastery actually goes hack to those early
 days; if possible, we must have a document of those very times, on which it is plainly
 stated that the erection of the monastery actually took place at that time. I wonder if
 ever we shall be able to prove any such assumption!” As I said this, I little thought
@@ -3243,10 +1826,8 @@ interest was purposely concealed from us.
 
 The principal hall is called rNam-par-snang-mdzad. The length of this hall with
 additional apse is 63 feet, 14 inches and its breadth 34 feet, 10 inches. The principal
-image is a white stucco statuette of rNam-par-snang-mdzad (Vairochana) consist-
-ing of four complete figures seated back to back (Plate XV, a). Along the walls, 6 or 7
-feet above the ground, there are thirty-two raised medallions with exceedingly well execut-
-ed stucco figures of life size (Plates XV, b ; XVI and XVII, b). Nobody in the monastery
+image is a white stucco statuette of rNam-par-snang-mdzad (Vairochana) consisting of four complete figures seated back to back (Plate XV, a). Along the walls, 6 or 7
+feet above the ground, there are thirty-two raised medallions with exceedingly well executed stucco figures of life size (Plates XV, b ; XVI and XVII, b). Nobody in the monastery
 at present knows whom they represent. But I am inclined to believe that they represent
 the thirty-three Hindu gods.^ The figure of Ganela, which would make up the full
 number, seems to have lost its original position above the door. It is now found on the
@@ -3317,11 +1898,7 @@ a. Ganesa and other images in front of main image in Monastery, Tabo
 b Three figures on wall of central hall of Monastery, Tabo.
 
 
-40
-
-
-The walls are completely covered with paintings. Some of the pictures are distinct-
-ly Indian. They show ancient Indian costumes well : an Indian king with a three-
+The walls are completely covered with paintings. Some of the pictures are distinctly Indian. They show ancient Indian costumes well : an Indian king with a three-
 pointed crown like that worn by Bodhisattvas, and Indian men with turbans or felt
 hats with brims. The hats as well as the turbans have ribbons tied below the chin.
 There are also pictures of Indian ladies and elephant processions. These frescoes are
@@ -3349,12 +1926,10 @@ of loose and disarranged leaves covered with
 beautiful writing. The leaves seem to belong
 to the twelve books of the JPrajM-pdf'amitd
 in Tibetan translation. This work by Nagar-
-• juna was translated by the famous lama, Ein-
-ohen-bzang-po, who has been mentioned several
+• juna was translated by the famous lama, Einohen-bzang-po, who has been mentioned several
 times in the course of my account. It seems
 to have been copied many times in the days of
-Ein-chen-bzang-po, and copies wmre distri-
-buted among ah the monasteries founded by
+Ein-chen-bzang-po, and copies wmre distributed among ah the monasteries founded by
 him. So far I have found copies of this work
 in the orthography of his own times in three
 different places, but nowhere have I seen so
@@ -3373,29 +1948,22 @@ Plate XVIII
 Ancient wood
 
 
-41
-
-
 of rXam-par-snang-mdzad, immediately abore the ground. Their low position indicates
 that they were meant for people accustomed to sit on the floor cross-legged. The
-inscrijitions are of varied character. One of them is historical ; it speaks of the found-
-ation of the Tabo monastery about nine hundred years ago, and of people who were con-
+inscrijitions are of varied character. One of them is historical ; it speaks of the foundation of the Tabo monastery about nine hundred years ago, and of people who were con-
 nected with that event. The other inscription is admonitory ; I feel inclined to call it
 “ blessing and cursing,” but there is more of cui-sing in it than of blessing. It speaks of
 the many punishments to be inflicted on such lamas as do not live up to the standard of
-the law. There is no end of chopping off members of their bodies. I wonder if these re-
-gulations were ever carried out. To return to the historical inscription : It tells of a
+the law. There is no end of chopping off members of their bodies. I wonder if these regulations were ever carried out. To return to the historical inscription : It tells of a
 renovation of the Tabo monastery by Byang-chub-’od, priest-king of Guge, forty-sis
-years after the monastery had been founded by Lhayi-hu JByang-chub-sems-dpa {‘Byang-
-cJiub-sems-dpa, the son of the gods’). The latter name is evidently that of the king of
+years after the monastery had been founded by Lhayi-hu JByang-chub-sems-dpa {‘ByangcJiub-sems-dpa, the son of the gods’). The latter name is evidently that of the king of
 Ladakh, who is mentioned in the Ladakhi chronicles as one of the early rulers of that
 country. He is spoken of with much respect in this inscription. His advice was repeatedly
 asked by the king of Guge, and thus the inscription confirms the statement of history,
 that the kings of Ladakh were the recognised suzerains of the Guge princes. Besides
 these two royal names, the inscription contains also those of the two most important lamas
 of the j)eriod, viz., Bin-ohen-bzang-po, and Atisa, the latter being called Phul-byung, which
-is his Tibetan name, as aheady stated by Jaschke. The inscription says that Rin-chen-
-bzang-po was made a ‘ light of wisdom ’ by the agency of Ati4a. This is apparently a re-
+is his Tibetan name, as aheady stated by Jaschke. The inscription says that Rin-chenbzang-po was made a ‘ light of wisdom ’ by the agency of Ati4a. This is apparently a re-
 ference to the controversy between the two lamas, which ended with Rin-chen-bzang-po’s
 acknowledgment of Ati^a’s superiority. Of this event we read in the historical book
 dPag-bsam-ljon-bzang. As this inscription was evidently written in the times of king
@@ -3413,8 +1981,7 @@ The gTsug-lag-khang is a smaller hall with frescoes, to the left of the principa
 Most of the pictures refer to the story of Buddha’s life, beginning with the descent of the
 white elephant from heaven. On both sides of the door were painted the four Lokapalas,
 as we find them so often. On the right and left wall there was the medicine Buddha
-with his followers, Sakya thub-pa, B.in-ehen-zla-ba ; Myang-ngan-med-mchog-dpal ; Ohos-
-grags-rgya-mthsoi-dpal ; gSer-bzang-dri-med ; mNgon-mkhyen-rgyal-po and mThsan-legs.
+with his followers, Sakya thub-pa, B.in-ehen-zla-ba ; Myang-ngan-med-mchog-dpal ; Ohosgrags-rgya-mthsoi-dpal ; gSer-bzang-dri-med ; mNgon-mkhyen-rgyal-po and mThsan-legs.
 Most of the pictures in this hall were furnished with explanatory inscriptions in modern
 Tibetan. Like all the remaining halls, it had apparently been renovated in a sweeping
 way. All the ancient frescoes and inscriptions had been scratched off, and new pictures
@@ -3423,12 +1990,8 @@ painted on the old walls.
 G
 
 
-42
-
-
 When we were at- Tabo, we met a native painter, who was prepared to renovate
-everything. The monks of the monastery had been told that Government would under-
-take to pay for necessary repairs in their temples and had asked the Assistant Commis-
+everything. The monks of the monastery had been told that Government would undertake to pay for necessary repairs in their temples and had asked the Assistant Commis-
 sioner to let them have the services of an artist. Accordingly, Mr. Howell, I.C.S., had
 ordered a painter to go to Tabo and apply his art to its ancient walls, fortunately, he
 had not yet started work in the principal hall, but in all the other halls, there remained
@@ -3441,8 +2004,7 @@ The gSer-gyi-lha-khang is another picture hall to the left of the preceding one
 AH the pictures in it are modern, and it has an inscription Oni mani padme hum in
 .LaMhsa characters running round the four walls,
 
-The dKyii-khang is a picture hall behind the preceding. As the roof is not ■water-
-tight, the pictures have suffered much through leakage. The principal picture shows
+The dKyii-khang is a picture hall behind the preceding. As the roof is not ■watertight, the pictures have suffered much through leakage. The principal picture shows
 rNam-par-snang-mdzad, but I could discover no inscriptions in it.
 
 In Lha-khang-dkar-byung, a pictme hall behind the preceding, the central picture
@@ -3467,12 +2029,10 @@ Here I noticed a Wartu inscription, probably an Ommani padme hum formula. This
 haU has also a door carved with Buddhist figures in Indian, not Tibetan style. The
 central figure on the lintel, however, is Gane^a.
 
-Besides these seven principal halls, I must also mention the entrance haU to the prin-
-cipal temple, Lha-khang-chen-moi-sgo-khang. It is furnished with paintings, for
+Besides these seven principal halls, I must also mention the entrance haU to the principal temple, Lha-khang-chen-moi-sgo-khang. It is furnished with paintings, for
 instance Tsong-kha-pa with two disciples, one of whom was called mKhas-grub.
 
-The thick darkness of most of the Tibetan temples is a great hindrance to archaeolo-
-gical research. My work had to be done in a different way from that done at Pompei or
+The thick darkness of most of the Tibetan temples is a great hindrance to archaeological research. My work had to be done in a different way from that done at Pompei or
 in the^ Turkestan deserts. At Pompei and in Turkestan every article which comes to
 light, is valuable and has to be taken up, labelled, and put aside. In an inhabited place
 
@@ -3483,17 +2043,13 @@ Plate XIX.
 b. Rope bridge near Lithang.
 
 
-43
-
-
 like Tabo, I bad, bowerer, to select among bundreds of inscrijjtions and objects of art,
 tliose wbicb were of real value for tbe study of Tibetan bistory and art, tvbicb meant a
 close examination of many objects and records in a badly lighted 25 lace. When, finally,
 tbe most interesting bad been decided upon, tbe second part of our work, pbotograjjhy, and
 copying in writing as well as in colours, began. Considering tbe very great difficulties
 be bad to encounter, I must say that Piudi Lai achieved wonders with Ms camera. But
-tbe bttle light that entered this ball through a minute bole in tbe ceiling was not suffi-
-cient for tbe lamas, whom I set to work on tbe j)aintings and wall inscriptions. Then
+tbe bttle light that entered this ball through a minute bole in tbe ceiling was not sufficient for tbe lamas, whom I set to work on tbe j)aintings and wall inscriptions. Then
 we thought of our small supjfiy of candles and by giving three of them to our helpmates,
 we made three Tibetan hearts happier than they bad ever been. I^one of them bad
 apparently ever possessed a candle, and now think of the grand sport they bad,
@@ -3536,9 +2092,6 @@ of the ravages of that war may be plainly seen in aU the monasteries of Spiti wM
 e 2
 
 
-44
-
-
 Tisited on our journey, with the exception of Tabo. Why did Tabo alone escape
 destruction ? I am inclined to believe that Tabo was under Bashahr in those times,
 and that the Dogras did not wish to interfere with the government of that state.
@@ -3563,8 +2116,7 @@ memorial of herself.
 
 Drangkhar is one of the few towns of Western Tibet which still stand on their
 original site, i.e. on the top of a rocky spur, and thus it is in its entirety an interesting
-relic of the past. The most ancient picture of this fortress is a lithograph after a draw-
-ing by Trebeck who was here in 1820. From this we learn that since then the town
+relic of the past. The most ancient picture of this fortress is a lithograph after a drawing by Trebeck who was here in 1820. From this we learn that since then the town
 has not altered much in general aspect. The uppermost place on the rock is occupied
 by the castle which is now in possession of the Nono (chief) of Spiti. It was built
 by the Ladakhis who used to have a garrison here. There are tales current about the
@@ -3579,18 +2131,13 @@ bridge of the old style, plaited of willow branches, as they still are in Lahul 
 Zangskar. (Plate XIX, b). When we were approaching Kaze, we saw the stately palace
 of Kyu-hng {Skyid-gling), the Non o’ s residence, on the opposite bank of the stream.
 
-In a side valley of Kaze, high up on the rocks, there is the bTang-rgyud or Sa-skya-
-gong-mig monastery which belongs to the Sa-skya-pa order of lamas. Although it has a
+In a side valley of Kaze, high up on the rocks, there is the bTang-rgyud or Sa-skyagong-mig monastery which belongs to the Sa-skya-pa order of lamas. Although it has a
 certain fame on account of its antiquity, it is believed to be inferior to the Ki monastery.
-The Kaze monastery has always been favoured by the Nonos of Spiti, one of whose mem-
-ber takes orders as a Sa-skya-pa lama, just as the kings of Ladakh have bestowed special
+The Kaze monastery has always been favoured by the Nonos of Spiti, one of whose member takes orders as a Sa-skya-pa lama, just as the kings of Ladakh have bestowed special
 favour on the ’aBrug-pa order of Lamas. Gong-mig means ' the upper eye,’ and at the
 place, where this monastery can be seen peeping out of a world of rocks, a mehod-rten
 
 ^ See my publication Bie Mstorischen und mythologi$ehen Erinnerxmgen der Lahouley. Tale No. 17.
-
-
-45
 
 
 •was built. I should bare visited it, bad we uot been far too tired for sucb a climb in
@@ -3601,15 +2148,13 @@ time of tbe Ladatbi regime in Spiti. It was written in bad orthography and was i
 poor state of preservation. Tbe “ national anthem ” was similar to that of tbe Guge
 stones, but in tbe place where tbe Guge version has the Satluj {gLang'dien-Ttha-hah'), here
 we find tbe Indus {Seng-gd •Ma-bah). ITbat interested me particularly, was tbe spelling
-of tbe name Leb, tbe Ladakhi capital. TTe find it often spelled sLel in native docu-
-ments, but the spelling sLe is aLo not infrequent. A.ccording to tbe ideas of the natives
+of tbe name Leb, tbe Ladakhi capital. TTe find it often spelled sLel in native documents, but the spelling sLe is aLo not infrequent. A.ccording to tbe ideas of the natives
 of Ladakh, tbe correct spelling of the name is sLes. Tbe word sLes (or sLas in Lower
 Ladakhi signifies a walled enclosure, sucb as is set up by nomads. Leb is supposed to
 have developed out of a Tibetan nomads’ camp. Tbe Kaze inscrij)tion confirms this
 derivation, for here we find the name of tbe capital spelt sLes. I may add, that this
 spelling is corroborated by tbe Tibetan geographical work ’aLzam-gling-ye-sbes where
-tbe same spelbng is found.^ Tbe name of tbe capital of Spiti is spelt here Lrag-mlihar-
-rtse (against Brang-mkhar on otbftr stones). A nobleman, Ga*ga Sod-nams, is mentioned
+tbe same spelbng is found.^ Tbe name of tbe capital of Spiti is spelt here Lrag-mliharrtse (against Brang-mkhar on otbftr stones). A nobleman, Ga*ga Sod-nams, is mentioned
 as having held the office of Eesident at tbe castle, but tbe name of tbe king of Leb is
 missing.
 
@@ -3623,8 +2168,7 @@ them tbe difference between Buddha and Christ, of whom no bones have ever been f
 But also for another- reason I was anxious to visit tbe Ki monastery. In 1863 Mr. P.
 Egerton, of tbe Civil Service, made a tour tbror^h Spiti, together with our missionary, Mr.
 A. W. Heyde. A beautiful book illustrated with capital photographs, was the outcome of
-this journey. In this book we find tbe statement that tbe Ki monastery of Spiti was pro-
-bablv founded by Brom-ston, tbe pupil of tbe famous teacher Atisa, in tbe lltb century. .
+this journey. In this book we find tbe statement that tbe Ki monastery of Spiti was probablv founded by Brom-ston, tbe pupil of tbe famous teacher Atisa, in tbe lltb century. .
 Tbe travellers apparently beard a rumour of a connection between this monastery and
 Brom-ston, and if they bad simply stated this, they would not have been wrong.
 But they went further. They found a note in Koros’ Tibetan Grammar, to tbe effect
@@ -3632,16 +2176,12 @@ that Brom-ston bad founded a monastery called Eareng {Bva-sgrengs) ; and as a vi
 in tbe vicinity of Ki is called Eangrig, Mr, Egerton jumped to the conclusion that the Ki
 monastery of Spiti was identical -with the famous Eareng monastery of tbe lltb century.
 But we know from tbe geographical work ’aDzam-gbng-ye-sbes, that tbe Eareng
-monastery is situated in tbe Eong district near Lhasa. It is not to be wondered at, bo"u-
-ever, that no clear traditions about tbe origin of tbe Spiti monastery exist. We read in
+monastery is situated in tbe Eong district near Lhasa. It is not to be wondered at, bo"uever, that no clear traditions about tbe origin of tbe Spiti monastery exist. We read in
 Moorcroft and Trebeck’s travels, 1820, that the Ki monastery was thoroughly ransacked
 
 ^ Sena-ae from Sanskrit “alien. ” , i , • i ,77-
 
 See S. Ch. Das’ translation in J. A.-S. B., 1887. sLes would correspond to olassjoal IMas.
-
-
-46
 
 
 in the petty Trars between Kulu and ladakh which preceded the Dogra war. And
@@ -3661,8 +2201,7 @@ But the Ki monastery has been restored since the turbulent times of the Dogrn
 war, (Plate XXI). It is a typical example of ancient monasteries of a certain period.
 In this type we find the principal temple on the top of a little conical hill, and the cells (jf
 the monks round about and below it. The aspect of the whole establishment is unusually
-pleasing, especially as it is situated in a wilderness of bare and barren ro(;ks. liEona.s-
-teries of the same type are found in Khrig-rtse, Me-ru, Chem-re, Ling-shed, dKar-rgya
+pleasing, especially as it is situated in a wilderness of bare and barren ro(;ks. liEona.steries of the same type are found in Khrig-rtse, Me-ru, Chem-re, Ling-shed, dKar-rgya
 of Zangs-dkar, and probably in several other places.
 
 As all the old books and idols had been destroyed by ^ulam Khfin,* the outfit
@@ -3672,8 +2211,7 @@ idols; one was called Tum-chen-mo, “great mother,” probably a form of Tfira,
 other sPyan-ras-gzigs (Avalokitelvara). There are several more stucco statues in the
 library opposite the temple, the most remarkable being Thse-dpag-med (Amitayua),
 Shakya thub-pa, bLo-bzang ye-shes, the Pan-chen, who resided at Traslulhumpo from
-1663 to 1737 ; Padma-sambhava with two of his fairies, one being called Llia-sha-
-man-da-re-ba (Mandarava) the other mKha-’agro-ye-shes-gtso-rgyal.
+1663 to 1737 ; Padma-sambhava with two of his fairies, one being called Llia-shaman-da-re-ba (Mandarava) the other mKha-’agro-ye-shes-gtso-rgyal.
 
 On the 4th August, we made preparations for our journey through the desert acro.ss
 the Pharang Pass, and on the 6th, we moved our camp four miles in the direction of the
@@ -3687,8 +2225,7 @@ directly -points to tbe great priest- king of Guge, Lba-bla-ma-ye-shes-’od, wh
 we had found in an inscription at Poo. Local tradition says that King Lha-bla-ma or, as.
 another man understood it, the gods {Iha) and the lamas {blama) built it in one night.
 
-At Lhanartsa I spent two enjoyable and instructive days with the A^istant Com-
-missioner. Here I had an attack of malarial fever, and Mr" Howell did everything in
+At Lhanartsa I spent two enjoyable and instructive days with the A^istant Commissioner. Here I had an attack of malarial fever, and Mr" Howell did everything in
 
 
 * Mistory of Western Tibet, p, 163 .
@@ -3697,19 +2234,14 @@ missioner. Here I had an attack of malarial fever, and Mr" Howell did everything
 iPSi:
 
 
-47
-
-
-Ms ] 30 wer to cure me and make me fit for the road. Mr. Howell Avas just engaged in revis-
-ing the Spiti portion of the Kangra Gazetteer, and as he had the Nono of Spiti as well
+Ms ] 30 wer to cure me and make me fit for the road. Mr. Howell Avas just engaged in revising the Spiti portion of the Kangra Gazetteer, and as he had the Nono of Spiti as well
 as lamas of various denominations encamped in the vicinity, our time was sjAentin a very
 profitable way. Let me briefly review the principal points of our enquiries about Spiti.
 
 There are now-a-days five principal monasteries in Spiti, which represent three sects of
 Lamaism. The Tabo, Drangkhar, and Ki monasteries belong now to the Ge-lug-pa sect.
 The Kaze monastery belongs to the Sa-skya-pa sect, and the Pyin monastery belongs to
-the rNying-ma-pa. Whilst the four first mentioned monasteries do not differ essen-
-tially from Central Tibetan establishments, Avith Avhich they keep up intercourse, the
+the rNying-ma-pa. Whilst the four first mentioned monasteries do not differ essentially from Central Tibetan establishments, Avith Avhich they keep up intercourse, the
 Pyin monastery has no connection Arith Lhasa, and maintains those traditions which
 have been handed down from the times of the most primitive Lamaism. I have already
 mentioned the wild appearance of its monks, and as Mr. Lyall tells us in the Gazetteer
@@ -3719,8 +2251,7 @@ was similar to that represented in the tale of Eka-^rina, describes also the hea
 the Bu-rzhan, when performing. He says that they then appear with a head-dress
 formed of a mass of streamers of bright coloured silk. This observation is of great interest
 for this kind of head-dress seems to have been handed down in Spiti from the earliest time
-of Tibetan Buddhism. We read in the Tarlung part of the rGyal-rabs that king Eal-
-pacan had silken streamers tied to his looks, and that he was connected by such streamers
+of Tibetan Buddhism. We read in the Tarlung part of the rGyal-rabs that king Ealpacan had silken streamers tied to his looks, and that he was connected by such streamers
 with the lamas who surrounded him The close connection of the rNying-ma<pa form
 of Lamaism AAith the pre-Buddhist Bon religion has already been noticed, and the Pyin
 monastery of Spiti seems to be a particularly favourable place to study it. I still regret
@@ -3741,21 +2272,16 @@ fix the individuality of a certain Tibetan, they generally ask him to state his 
 and that of his father. The first question is answered readily, but the second question
 puzzles a libetan to such an extent, that it takes him sometimes several days to clear up
 the mystery as to who is Ms sire. How could he tell at once, as he has at least two, and
-often three fathers, whilst many others are ignorant of their own parentage. The indivi-
-duality of a Tibetan is fixed by three names : (1) by his personal name, (2) by his house
+often three fathers, whilst many others are ignorant of their own parentage. The individuality of a Tibetan is fixed by three names : (1) by his personal name, (2) by his house
 
 1 J. A. S. B., Vol, LXXIII, pp. 362. fE.
-
-
-48
 
 
 name, (3) by bis clan name. The latter name is the name of the pha~8pm-%\ii-^ (“ father
 hrothership ”) to which he belongs. As stated by Lyall in the Gazetteer, and as was
 also asserted in our presence, the pla-spun-s^iip is an exogamic institution, i.e. a boy of
 a certain pha- spun-ship is not allowed to marry a girl of the same plia-spun-ship. This
-interesting custom was already noticed by the most ancient Chinese authors who de-
-scribe the Tibetans. Every pha-spun-ship has to look after the cremation of their dead,
+interesting custom was already noticed by the most ancient Chinese authors who describe the Tibetans. Every pha-spun-ship has to look after the cremation of their dead,
 and monuments in commemoration of the dead, mcliod-rten or mani walls, are generally
 erected by the whole plia-sptin-ship of a certain village, and the name of the particular
 j 3 ^a-«j>?(M-ship is found on the votive tablets of such monuments. The historical interest
@@ -3765,8 +2291,7 @@ names of the -ships of Khalatse it can be proved that the greater part of the
 
 population of this village emigrated from Gilgit, a fact which is supported also by other
 evidence, in particular by the preservation of a prayer in Eardi to certain house deities.
-As our inquiries in Spiti showed us, Mr. Lyall had almost discovered the whole in-
-stitution. He uses the word clan for them and calls them ruspa or bones, a name which
+As our inquiries in Spiti showed us, Mr. Lyall had almost discovered the whole institution. He uses the word clan for them and calls them ruspa or bones, a name which
 is actually used for plia- spun-ship in Spiti. He had collected the names of six mspa
 from Erangkhar, but he is wrong when he believes that the same ruspa are to be found
 in all the villages of Spiti. Some of the names may be found also in the other villages
@@ -3783,8 +2308,7 @@ I cannot explain. I hope that on the occasion of the next census, every Buddhist
 will be asked to give his three names, his personal name, his house name, and his clan
 name.
 
-On the 6th August I had sufficiently recovered to be able to start on our journey to-
-the Lake Thsomo Biri of Eubshu. As we were very badly equipped for so trying a
+On the 6th August I had sufficiently recovered to be able to start on our journey tothe Lake Thsomo Biri of Eubshu. As we were very badly equipped for so trying a
 journey, Mr. Howell kindly helped us with as many of his provisions as he could spare.
 On the same day we travelled to Jugda, a small level spot on a brook in the midst of a
 horribly uneven country. On the 7th,. we crossed the Pharang Pass, 18,300 feet high.
@@ -3796,13 +2320,9 @@ too much for them, and the Khalasi was unwell for a number of days after it. The
 simple folks who had never seen anything but the Satluj valley and surroundings, had.
 
 
-49
-
-
 ■become more and more alarmed at the increasing bareness and cold of the country we
 were travelling throughj and were now on the point of giving np all hope of ever seeing
-human habitations again. Pindi Lai had from time to time raised their spirits by pro-
-phesying that, in about ten days, we should reach a great town, Leh, where there would
+human habitations again. Pindi Lai had from time to time raised their spirits by prophesying that, in about ten days, we should reach a great town, Leh, where there would
 be abundance of delicacies, such as sugar, dal^ rice, and butter, the existence of which
 we had almost forgotten. In one of the last villages of Spiti, we unfortunately met
 a traveller from Ladakh who knew Urdu. They asked him how many days it would,
@@ -3832,21 +2352,16 @@ again. I am convinced that the expectation of one time or other showing this tre
 to his relations, was one of the most powerful factors in raising his spirits, and ultimately
 restoring him to health.
 
-On the next morning, he was mounted on a yak and expected to ride the-
-whole way. That was, however, easier said than done. For the most part, no road
+On the next morning, he was mounted on a yak and expected to ride thewhole way. That was, however, easier said than done. For the most part, no road
 of any kind could be distinguished, and we had to make our passage along the
 steep bank of a deep and broad river. Whenever the progress on dry ground was
 absolutely impossible, the yaks jumped into the water to wade or swim in it, which
 latter performance made me feel rather uneasy with regard to the photographic plates
 in the boxes on their backs, Pindi Lai, who was riding on one of the two horses of
-our caravan, had a narrow escape, when the ground under his horse suddenly gave-
-way, and the horse, performing a somersault, fell into the river, the rider holding on to
+our caravan, had a narrow escape, when the ground under his horse suddenly gaveway, and the horse, performing a somersault, fell into the river, the rider holding on to
 the bank. Whilst we were thus ploughing on slowly, I noticed that the Khansaman
 
 H
-
-
-50
 
 
 was staying behindj and. when I found him, I saw that his face had become black. He
@@ -3881,8 +2396,7 @@ contact with Indian Buddhism. He gave a careful education to twenty-one Tibetan
 boys, the name of one of whom was Ein-chen-bzang-po, and sent them to Kashmir and
 other parts of India to receive instruction in Sanskrit and philosophy. Although
 through their agency the king secured the services of thirteen Indian pandits, most of
-the boys died from the unhealthy climate, and only two, one of whom was Ein-chen-
-bzang-po (Eatna-bhadra), returned to Guge.
+the boys died from the unhealthy climate, and only two, one of whom was Ein-chenbzang-po (Eatna-bhadra), returned to Guge.
 
 Then the king heard of the famous teacher Ati4a at the monastery of Vikrama^ila
 in Magadha and sent an embassy to him with a large q^uantity of gold to invite him to
@@ -3891,8 +2405,7 @@ would appear that my going to Tibet were due to two causes : first, the desire
 of amassing gold, and second, the wish of attaining sainthood I ” and so he remained in
 Vikramalila.
 
-King Te-dies-’od interpreted Ati4a’s words in a different way from what a Euro-
-pean would have done. He understood that the great teacher had not yet been offered-
+King Te-dies-’od interpreted Ati4a’s words in a different way from what a European would have done. He understood that the great teacher had not yet been offered-
 
 > A detail«a acooant of tkis period is found in Sarat Chandra Das’ ‘ Indian Pandits in the land of snow,’ and the
 Tibetan text underlying this tale rras published by the same author in the dPag-hsam-ljoTtfhtan^.
@@ -3905,9 +2418,6 @@ Plate XXIII
 
 
 a. dKor-dzod Monastery, Rubshu.
-
-
-51
 
 
 gold enough, and began to work a gold mine which had just then been discovered
@@ -3926,8 +2436,7 @@ Tabo inscription) who had continued collecting gold for his uncle’s release. Y
 advised his nephew not to use the gold for his own release, but for bringing an Indian
 pandit to Tibet. He said : “ I am now grown old, and am on the verge of the grave. In
 none of my former births, I believe, did I die for the sake of Buddhism. This time let
-me, therefore, be a martyr in the cause of my religion.” Thus they parted, and Lha-
-bla-ma- Ye-shes-’od died in prison.
+me, therefore, be a martyr in the cause of my religion.” Thus they parted, and Lhabla-ma- Ye-shes-’od died in prison.
 
 Then we hear of another embassy of Tibetans to Vikrama^ila, who were almost
 robbed of their gold on the journey, and a religious assembly at this Indian monastery
@@ -3946,8 +2455,7 @@ The breed of these puppies, says the historian, is still to be seen at Eva-sgren
 
 When the party entered Guge, they found one hundred horsemen all decoi-ated
 with white ornamental equipments, sent by King Byang-chub-’od. The escort carried
-small flags and twenty white satin umbrellas. The band consisted of musical reeds, bag-
-pipes, guitars, and other instruments. With sonorous and grave music, and uttering the
+small flags and twenty white satin umbrellas. The band consisted of musical reeds, bagpipes, guitars, and other instruments. With sonorous and grave music, and uttering the
 sacred mantra, Om matii padme hum, they approached the holy sage to offer him a
 respectful welcome in the name of the king of Guge. *
 
@@ -3963,17 +2471,13 @@ subdued the wild elephant. [ Ed. ]
 H 2
 
 
-62
-
-
 Ati^a had never yet tasted tea, and the first cup on Tibetan soil was offered him
 with the following solemn words ; “ Venerable sage, permit me to make an offering of
 this celestial drink which contains the essence of the wishing tree I” Ati^a said :
 “ This curious cup of precious material contains an elixir of the wishing tree.
 What is the name of this drink which you prize so much ? ” The Tibetans answered :
 “ Venerable sir, it is called tea. We do not know that the tea plant is eaten, but
-the leaves are churned in warm water, and the soup is drunk. It has many proper-
-ties ! ” Thereupon Ati^a, who could pay compliments like any French abb6, remarked :
+the leaves are churned in warm water, and the soup is drunk. It has many properties ! ” Thereupon Ati^a, who could pay compliments like any French abb6, remarked :
 “ So excellent a beverage as tea must have originated from the moral merits of the monks
 uf Tibet!”
 
@@ -3991,8 +2495,7 @@ in monasteries of this sect that Tsong-kha-pa studied, before he started the gre
 movement which ended in the creation of the Ge-lug-pa sect. The object of all these
 reformations was not, as is often supposed, to go back to the early Buddhism as it was
 preached by Gautama, but to build up a church which represented the doctrines of the
-Mahayana school of Buddhism in a pure form. The doctrines of N agarjuna were pro-
-pounded by all the great teachers of Tibet. But the Kala-chakra philosophy with its
+Mahayana school of Buddhism in a pure form. The doctrines of N agarjuna were propounded by all the great teachers of Tibet. But the Kala-chakra philosophy with its
 monotheistic tendencies was also favoured by them.
 
 On the 10th August, we travelled to the southern end of the lake, and then along
@@ -4016,9 +2519,6 @@ Plate XXIV,
 
 
 b. Milking goats at dKor-dzod.
-
-
-53
 
 
 blue-green water, and dunes of yellow sand combine to make a picture like those sublime
@@ -4051,8 +2551,7 @@ the antiquities pointed out to us, were several miniature mchod-rien of the usua
 • Of all the stucco figures, and of a fine wood-carving in sandal wood, which represented
 Padma-sambhava with two of his fairy friends, it was asserted that fifty or sixty years ago
 they had been brought up here from gSham, Lower Ladakh. I suspect that these Eubshu
-people bought up the entire contents of a ruined monastery in Lower Ladakh. The prin-
-cipal stucco figure represents Buddha with two disciples, and another Padma-sambhava.
+people bought up the entire contents of a ruined monastery in Lower Ladakh. The principal stucco figure represents Buddha with two disciples, and another Padma-sambhava.
 The names of the other images, I did not try to ascertain, because the history of their
 date and origin will always remain obscure. I may mention here, that outside, near the
 site of the ancient monastery, I found a relievo representing Padma-sambhava, carved
@@ -4067,9 +2566,6 @@ A attention, because it was of cruciform shape, and could at first sight be take
 Christian ornament. He said, he had excavated it from a high hiU in the neighbourhood.
 
 ^ A picture of the old monastery is found in Schlagintweits* B&isen in Indien und Soohasien Jena 1872-18.
-
-
-54
 
 
 I bought it from him for two rupees. It was made of a mixture of metals, similar tO'
@@ -4096,8 +2592,7 @@ of the ex-king of Ladakh with his son and retinue. As tho cx-king was married to
 own sister, this picture represented some of his nearest relation, and he implored mo
 not to go away without making him a present of it. There remained no alternative
 for me but to tear the picture out of the book, and hand it over to him. It was
-however, fortunate for us, to have placed under obligation sucli an important person-
-age through this little present. Por, if we had not been in his favour, it would
+however, fortunate for us, to have placed under obligation sucli an important personage through this little present. Por, if we had not been in his favour, it would
 probably have taken a long time before the nomads found yaks for us. As matters
 stood, the yaks turned up in good condition next morning. In the same way, it was
 also our good fortune to have met with the Assistant Commissioner in Spiti. Otherwise
@@ -4109,12 +2604,10 @@ was absolutely refused to a traveller in Spiti, who obtained it only by using de
 means.
 
 As we have been travelling on yaks for some time, and as we have before us many
-more miles of yak riding, it seems the proper place to say a few words about these in-
-teresting Tibetan animals. The first yak ride we had on our way hack from Shipke,
+more miles of yak riding, it seems the proper place to say a few words about these interesting Tibetan animals. The first yak ride we had on our way hack from Shipke,
 and the second on the journey from Spiti to the lake. All those yaks had rings through
 their noses, and could in a way be controlled by them, for it requires great anger on tho
-part of the yak to make him indifferent to the pain which would be caused by his tear-
-ing himself free and running away. But the yaks which we received for our journey
+part of the yak to make him indifferent to the pain which would be caused by his tearing himself free and running away. But the yaks which we received for our journey
 
 ^ Surrey Map of 1874. Sheet 46 gives Karzofc as 14,960 ft. [Ed.]
 
@@ -4128,16 +2621,12 @@ a. Nomads’ camp on Lake Thsomo Riri.
 b. Yaks on the shore of Lake Thsomo Riri.
 
 
-55
-
-
 from bKor-rclzod to Nyoma on the Indus, and from Nyoma to rGya in Ladakh, 'vrere
 without this last touch of culture, a nose-ring. They had neither saddles, nor bridles,
 nor even nose-rings, they were absolutely undefiled products of nature. When I asked the
 nomads why even this last remnant of civilisation was not found on them, they said that
 this particular breed of yaks did not possess any noses. I was pitying the poor creatures
-for whom the roses had no scent, when I noticed that two little holes could he distin-
-guished above the mouth. That in these circumstances it was no easy matter to use the
+for whom the roses had no scent, when I noticed that two little holes could he distinguished above the mouth. That in these circumstances it was no easy matter to use the
 yaks for riding, can well he imagined. In fact, their management was so difficult, that
 I would have gladly renounced this doubtful pleasure altogether, if the ratified air of
 those altitudes had not compelled me to use these uninviting beasts. When I was tired, I
@@ -4156,16 +2645,14 @@ Khansaman had to take what remained, and that led often to exciting performances
 I still see the Khalasi seated on the tail and hindquarters (for he had failed to drop
 down in the middle part of the animal) of a furious yak, which charged up and down
 with him on very uneven ground on the Thaglang Pass. Then, when the yak had found
-his place in the caravan of snorting beasts, he would look out for another yak, his adver-
-sary, and poke him with his horns. The opponent, naturally offended by this act of
+his place in the caravan of snorting beasts, he would look out for another yak, his adversary, and poke him with his horns. The opponent, naturally offended by this act of
 special attention, would pay it back in the same coin. In these continual fights, the
 yaks knocked a lock off one of our boxes, made holes in several others, and smashed the
 tripod of our camera. That they did not smash our own legs, was due to the continual
 care with which we watched these fights. Whenever one’s own yak was charged by his
 adversary, one had to lift high the threatened leg, and join in the struggle by using one’s
 stick and umbrella. There was, however, one weapon which was respected by all the
-yaks. That wns the stone whip of Eubshu. We were now in the centre of a large tree-
-less country, and thus it is not to be wondered at, that even the whip should be a stone
+yaks. That wns the stone whip of Eubshu. We were now in the centre of a large treeless country, and thus it is not to be wondered at, that even the whip should be a stone
 implement. It was an oblong stone, three to four pounds in weight, with which the
 yaks were hammered on their hind quarters, whenever they showed signs of laziness.
 Curiously, the a.TiiTna.1s seemed to fear the sight of this stone implement more than its
@@ -4173,9 +2660,6 @@ weight. The one I was riding on was often energetically hammered by a nomad behi
 me, a treatment which he endured with the utmost indifference. But the moment he saw
 another nomad using his stone against a yak in front of him, he shuddered with terror.
 When the hammering failed to make an impression, the stones were thrown at the yaks.
-
-
-66
 
 
 Once, tlie Khalasi had such a stone flung at his leg, which caused him to complain
@@ -4194,8 +2678,7 @@ the Indus. Opposite the confluence are the ruins of a Mon village. This is proba
 the deserted village mentioned by the late Dr. Shawe in his letter of the 19th J uly 1900,
 in which he advised me to visit Nyoma and surroundings. Dr. Shawe wrote as follows:
 “ Some miles west of Nyoma are said to be the remains of an old Mon village, where I was
-told boxes, household utensils, and coins have been found (apparently in graves). Un-
-fortunately I did not hear of this till I had left and was across the Indus, or I would
+told boxes, household utensils, and coins have been found (apparently in graves). Unfortunately I did not hear of this till I had left and was across the Indus, or I would
 have made enquiries. Coins should prove interesting and instructive,” From the left
 bank of the Indus we could see deserted fields in terraces, a group of houses, and walls.
 As, however, the distance from Nyoma was fully ten miles, and we were perfectly ex--
@@ -4226,9 +2709,6 @@ rnam-rgyal (1790 1841), but there are many old maijA walls, both of the ordinary
 the shelf type. On the plain behind the rock are extensive remains of a village whiclt
 
 
-57
-
-
 tlie. jjeople said, was of the same date as the castle, but which appeared to me much older
 from the style of building, also two or three " step mchod-rten'" but no ladder in the
 middle of sides (like those of. the AlcM-mhhar-gog carvings). One old mchod-rten of the
@@ -4255,8 +2735,7 @@ could be distinctly read. Of course, a document like that goes to prove only tha
 ge-rnam-rgyal took a certain interest in the settlement, and possibly renovated the
 temple. It is difficult to believe that there was nothing before Seng-ge-rnam-rgyaTs
 days in a pleasant vaUey like Nyoma, and ancient mchod-rten distinctly point to a time,
-earlier than this king. One of the many painted flags {thang-ka) in this temple, parti-
-cularly interested me, for it not only contained an idealised portrait of Seng-ge-rnam-
+earlier than this king. One of the many painted flags {thang-ka) in this temple, particularly interested me, for it not only contained an idealised portrait of Seng-ge-rnam-
 rgyal’s friend, the great lama sTag-thsang-ras-pa, but also scenes of the royal household
 300 years ago. I wanted by all means to have it photographed, and as Pindi Lai was
 not well enough to climb up to this temple above the present town, I asked permission
@@ -4277,16 +2756,12 @@ introduction of the Ladakhi type, of dress, as it remained unchanged down to the
 I
 
 
-58
-
-
 of the Pogra war. In a collection of Tibetan proverbs which I acquired from a man from
 rGya some years ago, and which is among the manuscripts brought to Simla, there is
 a proverb which refers to the change of dress under this king. There it is stated that
 the king, whose name S6nQ~y€ means “ lion,** said that he was willing to honoui his
 subjects by giving them one of his ears ; thus the men received the high black cap,
-called s6ng-g6 Ttioi-wbchog, “ lion’s ear ” which I finci pictured by Drew. The same pro-
-verb informs us that the great tiger lama {sTag means a tiger) favoured the women by
+called s6ng-g6 Ttioi-wbchog, “ lion’s ear ” which I finci pictured by Drew. The same proverb informs us that the great tiger lama {sTag means a tiger) favoured the women by
 giving them his spotted skin. Thus the dark blue dress of the Ladakhi women with its
 red and yellow spots was introduced. The picture in the Nyoma monastery does not,
 however, show the new fashion, having possibly been painted before its introduction.
@@ -4305,8 +2780,7 @@ We spent Sunday, the 15th August, on the left bank of the Indus river, opposite
 Nyoma, and resumed our journey on Monday the 16th. Our next aim was Leh, and as
 the road along the Indus river was impracticable at that time of the year, I had to decide
 which of the two other roads we were to take, the road by Drangtse (map Tankse), or
-that by Phuga. As regards the Drangtse road, it attracted me much on account of a des-
-cription Dr. Shawe had given me of it. The Phuga road, on the other hand, would take
+that by Phuga. As regards the Drangtse road, it attracted me much on account of a description Dr. Shawe had given me of it. The Phuga road, on the other hand, would take
 us to rGya, the antiquities of which I had previously examined. I decided for the latter
 route, but I will quote Dr. Shawe’s letter on the Drangtse road to show the reader what
 we missed. He says in his letter of the 19th July 1906 ; —
@@ -4327,9 +2801,6 @@ and on another boulder a line in Persian characters. Two or three carvings of cr
 ^ J UtMuhco and p. 240 .
 
 
-59
-
-
 were rather interesting ; I give copies. Another carving about a mile out, on the road to
 Pangkong (lake) of a stag hunt, thus [drawing]. A large and rough outline of
 Buddha on a rock seems to be fairly new— newer than some chortens on the same rock.
@@ -4340,8 +2811,7 @@ of antiquarian interest, and I found nothing more till I got to Nyoma on the Ind
 Let me now add a few notes on Dr. Shawe’s most valuable observations. I may
 remark that he was the first traveller w^ho ever passed through this district with
 his eyes open to objects of archaeological value. In 1906, 1 had travelled with Dr. Shawe
-as far as Chemre {IGe-hde) where we had investigated the monastery built by Seng-ge-
-rnam-rgyal. We became thoroughly convinced that there had existed a monastery
+as far as Chemre {IGe-hde) where we had investigated the monastery built by Seng-gernam-rgyal. We became thoroughly convinced that there had existed a monastery
 previously on the same site. I went up the valley from Chemre to Sakti on a hurried visit,
 and as Dr. Shawe points out, in his letter, visited only the latest of three ancient castles.
 The first European traveller who visited the Chemre-Sakti valley, was Moororoft in 1820.
@@ -4358,8 +2828,7 @@ The Kalmaks who dismantled this fortress, were evidently the Mongols and Lhasa
 Tibetans under Thse-dbang of Galdan, who after having beaten the Ladakhis in the
 battle of Zhamarting, besieged them in the fortress of Basgo. On their way to Basgo,
 1646, they probably destroyed all the fortresses of eastern Ladakh, As we learn from
-Moorcroft, the Chemre-Sakti valley was under the command of the famous Ladakhi minis-
-ter Bang-kha who ruled over seventy villages. The family of these Bang-khas evidently
+Moorcroft, the Chemre-Sakti valley was under the command of the famous Ladakhi minister Bang-kha who ruled over seventy villages. The family of these Bang-khas evidently
 had the hereditary office of ‘defender of the eastern gates of Ladakh. Their principal
 castle was the gSer-khri-mkhar of Igu, in the neighbouring valley, where there are many
 ancient ruins, among them walls with frescoes in front of huge carvings of Bodhisattvas.
@@ -4381,9 +2850,6 @@ i2
 1 Travels, Yol* 1, p 426.
 
 
-60
-
-
 according to my obseiTations, played the part of the Oni mdtii pctchne fiiuh among the
 Ladakhi Buddhists of those times. The Indian, characters, used by them, bear a
 remarkable resemblance to the Tibetan characters, for "v^'kich reason 1 ha^ e come to the
@@ -4391,8 +2857,7 @@ conclusion that the Tibetan script was developed in the western parts of Tibet, 
 under the influence of Kashmir and Turkestan Buddhism.^ This inscription may
 possibly give a clue to the date of the Maltese crosses found by Dr. Shawc in the
 vicinity.^ Christianity in its Nestorian form was somewhat powerful in Turkestan
-about 900 A.D. and, although I do not venture to assert that there -aas a Chris-
-tian community at Drangtse in those days, I think it not imj)robable that tlie ancient
+about 900 A.D. and, although I do not venture to assert that there -aas a Christian community at Drangtse in those days, I think it not imj)robable that tlie ancient
 inhabitants of Drangtse had become acquainted with Christian lorms ol crosses.
 It is very probable that trade connections between Ladakh and Tui-kestan (.‘xistod
 as early as 700-900 A.D. The Ladakhis were jn-obably ready to try the ojficacy
@@ -4405,13 +2870,11 @@ bank of the Indus. When our caravan started for Phuga on Monday the 16th August,
 I made a special trip to this old site which is called Staglung. On my way thither I
 passed by the village of Ngod (JfwcZ, or Mad of the maps) on the right hank of the
 Indus, which is known for its monastery. I was told that the Ngod nionast(‘ry was of
-more recent date than the Nyoma one, and that it was erected by Xgag-dliung-rnum-
-rgyal, the step-brother of Seng-ge-rnam-rgyal who had been ol)liged to tak(^ n.digious
+more recent date than the Nyoma one, and that it was erected by Xgag-dliung-rnumrgyal, the step-brother of Seng-ge-rnam-rgyal who had been ol)liged to tak(^ n.digious
 orders. Staglung is about seven miles distant from Nyoma (or better Xidar) and is
 situated in a very dry side valley near the Indus. There I found a rocky hill covtu-ed
 with ruins of houses, the single rooms of which were very small. As there arc* no traces
-of ancient flelds round about, it is probable that Staglung was not a village, but a monas-
-tery. Below the rock is a number of ancient mchod'Hen (about 15 to 20) and several
+of ancient flelds round about, it is probable that Staglung was not a village, but a monastery. Below the rock is a number of ancient mchod'Hen (about 15 to 20) and several
 rows of 108 small mchod-rten, all of which are built of sun-dried bricks. In two of
 the larger mchod-rten we found cremation tablets of clay, painted red. Two of them
 contained an inscription of the Ye dharmd formula in an ancient type of Tibetan
@@ -4431,8 +2894,7 @@ senpt, top to bottom, m the vicinity of the crosses. Professor A. Grunvedel of B
 
 between the Drangtse inscriptions and the Nestoiian tomh-inscriptions treated by Chvolson of St. Peterabui^. Dr. A. von,
 
-to be Soghdian. The woi-d Sld\mafkla\nia may be read without diff-
-oulty. According to Professor P. W. K. Mtller. the Drangtse inscriptions were can-ed by pilgrims and dated.
+to be Soghdian. The woi-d Sld\mafkla\nia may be read without diffoulty. According to Professor P. W. K. Mtller. the Drangtse inscriptions were can-ed by pilgrims and dated.
 
 
 iiii
@@ -4441,9 +2903,6 @@ iiii
 WKSrnm
 
 ftmass
-
-
-61
 
 
 •surroundings^. But the Bard civilisation apparently went beyond the present Tibetan
@@ -4468,16 +2927,14 @@ Tibetans, and “ Salt Lake ” by the cartographers. The elevation of this lake
 in 1820, on his journey to Spiti. He calls it Thog ji chenmo, Avhich is evidently the
 name of the monastery Thugs-rje-chen-j)o on the shore of the lake. This justifies our
 conclusion that this little monastery was already in existence in 1820. I was told that
-the present buildings were erected only a few years ago, instead of an older establish-
-ment which consisted mainly of cave dwelhngs. The present monastery contains only a
+the present buildings were erected only a few years ago, instead of an older establishment which consisted mainly of cave dwelhngs. The present monastery contains only a
 few modern Tibetan books and a stucco statue of Avalokite^vara, after whom it is called,
 Thugs-rj e-chen-po.
 
 In the vicinity I noticed a cave, the entrance to which was closed by a stone wall,
 n^nd this stone wall again had several clay seals impressed on it. Both kinds of seals
 showed complicated designs of the svastika. It is probable that some evil spirit was
-believed thus to be shut up in the cave. Erom one of the little houses near the monas-
-tery was suspended a piece of wood shaped like the male organ, painted red. As we read
+believed thus to be shut up in the cave. Erom one of the little houses near the monastery was suspended a piece of wood shaped like the male organ, painted red. As we read
 in the chronicles of Ladakh, “ King Lha-chen-rgyal-po (c. 1050 — 1080 A.B,), provided
 with untiring zeal the recluses that lived in the neighbourhood of the Kailua and the
 three lakes with the necessaries of life.” This passage undoubtedly refers to the
@@ -4494,9 +2951,6 @@ very interesting geological account of this lake. The former level of the lake, 
 ^ my translation of the eighteen songs of the Bonona festival, Ind* Y oh XXXI Y, p. 93.
 
 ^ See the account of the trade in my pamphlet ‘ Di^ reli^ioseTi und historisQ^en ISrinnerungen der JjoihovZ^ ^
-
-
-62
 
 
 by distinct marks on the hillside, was 320 feet above the present level, and at that time
@@ -4526,8 +2980,7 @@ a, LADAKH.
 We crossed the Thag-lang Pass (17,500 feet high) on the 19th August, and marched
 to the village of rGya (13,500 feet high), the first village of Ladakh, on the road from
 Rubshu, Before entering rGya, we passed by the ancient remains of the village of
-Rum-rtse (map Ramcha) which is asserted to have been a Mon settlement. When Moor-
-croft halted here in 1820, the whole population of this little village, who had never
+Rum-rtse (map Ramcha) which is asserted to have been a Mon settlement. When Moorcroft halted here in 1820, the whole population of this little village, who had never
 seen a European before, fled in terror, leaving their houses empty.
 
 What may be called the necropolis of the ancient Mons of Rum-rtse, is situated on a
@@ -4545,9 +2998,6 @@ Tibetan rrtehod-rten has stucco relievos, they represent lions, Garudas and othe
 These are not found round the base, but round the middle portion of the mehod-rien.
 Another of our photos shows some of the well-preserved rows of little slvpae (Plate
 XXVT, b).
-
-
-63
 
 
 Opposite, and a little below tlie necropolis, on the other bank of the rGya brook
@@ -4582,22 +3032,17 @@ Panohik. It is even difidcult to make out what Tibetan name may underlie Moorcro
 sp ellin g of it. I suppose that the man was called Thse-dbang Phun-thsogs, pronounced
 Tsewang Puntsog. I asked several people at rGya if they could remember the names of
 the last members of their line of diiefs, and they gave me the following three names ; (1)
-bKa-blon-Thse-bstan ; (2) None bSod-nams jo-rgyas ; (3) bKra-shis (or Thse-ring) bZang-
-grub. More they could not remember. It is, however', possible that on a votive tablet
+bKa-blon-Thse-bstan ; (2) None bSod-nams jo-rgyas ; (3) bKra-shis (or Thse-ring) bZanggrub. More they could not remember. It is, however', possible that on a votive tablet
 on one of the mani walls at rGya the name of Moorcroft’s friend may yet be discovered.
 Thus an inscription on a may.i wall below rGya, of the time of bLe-ldan main-rgyal
 (c. 1630 A.D.) contains the name of one (or two ?) probable ancestors of Moorcroft’s
-Tsimma Panohik, via., Nono bSod-nams-ihun-grub, ‘ father and son.’ In this inscrip-
-tion the castle of rGya is called rGya-mkhar-rmug-po, ‘ the dark red castle of rGya.’
+Tsimma Panohik, via., Nono bSod-nams-ihun-grub, ‘ father and son.’ In this inscription the castle of rGya is called rGya-mkhar-rmug-po, ‘ the dark red castle of rGya.’
 On another mani wall in the vicinity of the preceding I found a tablet which is of
 interest on swjcount of its reference to the state of Ladakh during .the times following the
 battle of Basgo, 1647 A.I>,
 
 
 1 Travels^ VoL t, p. 234.
-
-
-64
 
 
 It gives the name of the Lhasa commissioner -who for a time was regent of Ladakh
@@ -4610,12 +3055,10 @@ Behind the present village of rGya, on the left bank of the brook, there is a
 plateau studded with a number of ancient, mostly ruined mehod-rten. They are still
 held in veneration by the present inhabitants of rGya (Plate XXXI, a). This is
 remarkable, because many of these mchod-rt6n which are called Jjha-haib-nichod-
-Hen, undoubtedly go back to Mon times. And had not the people of the neigh-
-bouring village told us plainly that they were indifferent to everything connected
+Hen, undoubtedly go back to Mon times. And had not the people of the neighbouring village told us plainly that they were indifferent to everything connected
 with the Mons? The difference may be this, that whilst the Mons of Eum-rtse
 did not succumb to Tibetan influences, the Mons of rGya did. We found several
-types of cremation tablets with Indian inscriptions, containing the Te dharma for-
-mula. The characters employed are of c. 700 — 900 A.H. according to Hr. Yogel’s
+types of cremation tablets with Indian inscriptions, containing the Te dharma formula. The characters employed are of c. 700 — 900 A.H. according to Hr. Yogel’s
 estimate. But there were also several tablets which showed the same formula in
 Tibetan characters. The difference between the Tibetan and Indian characters
 rests mainly in this, that in the Tibetan version the aspirated mediae are indicated
@@ -4625,8 +3068,7 @@ tripartite y, whilst the Indian version has a later form of the y. In two cases,
 were two tablets showing almost exactly the same design, but the characters used for
 the inscription were Tibetan on one of them, and Indian on the other. Among the
 Zhd-bah-mchod-Hen, there were also the ruins of an ancient monastery of unknown
-origin, built of sun-dried bricks. I am almost convinced that the town of rGya is men-
-tioned in the time of King Sadna legs, c. 850, in the chronicles of Ladakh. There it is
+origin, built of sun-dried bricks. I am almost convinced that the town of rGya is mentioned in the time of King Sadna legs, c. 850, in the chronicles of Ladakh. There it is
 stated that King Sadna legs built the temple of sKar-chung-rdo-dbyings in the province
 of rGya {rGya-sde). This could, of course, also be translated by “ Indian Province ” or
 "Chinese Province.” But it is very unlikely that a Tibetan king should have built
@@ -4651,40 +3093,28 @@ who k a native of rGya. He had told me that he had been inside them when a sheph
 b. Ruined monastery at Miru,
 
 
-65
-
-
-l3oy. He said that then the graves were quite accessible ; that he went down a stair-
-case and came to rooms furnished with boards of pinewood, on which were placed
-numbers of skulls. A native of Hong whom we met, also asserted that the graves-
-were very deep and furnished with masonry walls. As regards pinewood, I must say
+l3oy. He said that then the graves were quite accessible ; that he went down a staircase and came to rooms furnished with boards of pinewood, on which were placed
+numbers of skulls. A native of Hong whom we met, also asserted that the graveswere very deep and furnished with masonry walls. As regards pinewood, I must say
 that it is a very rare article at rGya, which place is nowadays 150 miles away from’
 the nearest pine tree. When we looked at the graves, we saw only pits in the ground
-for the superstitious people of Hong had closed them up with earth. As my observa-
-tions later on in Leh showed me, it is very probable that these ancient graves of
-Hong belong to the same period as those of Leh, which I have much reason to attribate-
-to the period of the “ Empire of the Eastern Women.” This State bordered on Ladakh,
+for the superstitious people of Hong had closed them up with earth. As my observations later on in Leh showed me, it is very probable that these ancient graves of
+Hong belong to the same period as those of Leh, which I have much reason to attribateto the period of the “ Empire of the Eastern Women.” This State bordered on Ladakh,
 if it did not include parts of Eastern Ladakh. The Leh graves as well as those of Hong
-are furnished with masonry walls. Both contained numbers of skulls, a circumstance-
-which points to the custom prevalent in that empire of burying all the higher oflBciala
+are furnished with masonry walls. Both contained numbers of skulls, a circumstancewhich points to the custom prevalent in that empire of burying all the higher oflBciala
 along with the chief. The fact that the skulls were placed on boards in Hong, seems
 to show that the corpses were cut to pieces. Also at Leh the skulls as well as the
 vases containing the bones were originally placed on boards which became rotten
-when irrigation water entered the graves. Most of the larger pots at Leh had holes in-
-the bottom, which shows that they probably had fallen down from a higher position. As
-excavations in Hong would have been possible only at a considerable sacrifice of time-
-and money, I abandoned the idea for the present.
+when irrigation water entered the graves. Most of the larger pots at Leh had holes inthe bottom, which shows that they probably had fallen down from a higher position. As
+excavations in Hong would have been possible only at a considerable sacrifice of timeand money, I abandoned the idea for the present.
 
-The next village on the road along the narrow valley from rGya to the Indus-
-is Meru, pronounced Miru. It has a monastery in ruins which was famous in oldem
+The next village on the road along the narrow valley from rGya to the Indusis Meru, pronounced Miru. It has a monastery in ruins which was famous in oldem
 days (Plate XXVn, b). It is situated on a hill above the trade road. Its temple occupies
 the uppermost position on the top of a little conical hill, and the now mined cells
 
 of the monks surround it below. It used to be one of the important monasteries-
 
 of Ladakh, but its founder is not known. It lost much of its glory, when Eing
-Seng-ge-rnam-rgyal made it the “ mother ” of the Herais monastery which he built-
-in the Shang valley. On that occasion, not ordy the “ spirit ” of the Meru mona-
+Seng-ge-rnam-rgyal made it the “ mother ” of the Herais monastery which he builtin the Shang valley. On that occasion, not ordy the “ spirit ” of the Meru mona-
 stery was carried off in a bundle of twigs, but also most of the images were-
 
 transferred to Hemis. But Meru had to suffer a still greater injury during the Hogra
@@ -4699,13 +3129,9 @@ furnished with a ribbon and a diadem of pearls. Her ear ornaments (probably shel
 are white and spiral-shaped, and her dress is white with blue and red seams. In her
 hand she carries a white cup.
 
-Opposite the monastery, there is a hill with cave dwellings, probably the most-
-ancient inhabited locality at Meru. It is called ^aho (‘ Oaves ).
+Opposite the monastery, there is a hill with cave dwellings, probably the mostancient inhabited locality at Meru. It is called ^aho (‘ Oaves ).
 
 K
-
-
-66
 
 
 The place where the ixihabitaats of Mem had to liye before they built their present
@@ -4714,8 +3140,7 @@ where there are extensire ruins of houses. As has been stated aboye, during the
 ascendency of the Ladakhi kings people were not allowed to liye among the fields,
 probably to prevent their trespassing too much on yaluable ground. But, as we learnt
 from Moorcroft’s account of rGya, the lofty sites on the top of rocks were already
-partly abandoned daring the times of the last king, Thse-dpal -don-grub -rdo-rje-rnam-
-rgyal (1820 A..])). Prom his account it appears that at Meru also people hyed in their
+partly abandoned daring the times of the last king, Thse-dpal -don-grub -rdo-rje-rnamrgyal (1820 A..])). Prom his account it appears that at Meru also people hyed in their
 present houses in 1820.
 
 Several miles below Mlera, the xGrya brook discharges into the Indus, and at this
@@ -4725,8 +3150,7 @@ of the Mons. We examiued the interior of one of them and found the walls inside
 covered with ancient frescoes which were apparently painted with two colours only,
 indigo blue and brownish red. There were any number of rows of figures of blue
 complexion seated cross-legged, Their garments were white with red scams. The
-larger pictures in the centre of the four walla were too far gone to allow of any identifi-
-cation. The headdress of these blue figures was somewhat unusual ; it looked as if
+larger pictures in the centre of the four walla were too far gone to allow of any identification. The headdress of these blue figures was somewhat unusual ; it looked as if
 the ends of a long hair-pin projected on each side. Later on, when I had examined
 several more similar frescoes at other ancient sites, I came to the conclusion that
 the TJhshi pictures represent Hagas {Klu), and that these ancient mchod-rten may
@@ -4755,9 +3179,6 @@ foundation of this monastery was brought to Europe by the Schlagintweits, and th
 GCibetan text with an attempt at a partial translation was published by Bmil von
 
 
-67
-
-
 Sclilagintweit.^ I lioj)© to find time to prepare a reliable yersion of this interesting
 document. Although the Hemis monastery is not very ancient, yet it contains images
 of a type which is found only in monasteries of the 10th or 11th century. When the
@@ -4770,10 +3191,8 @@ At Martselang we saw again many ancient mohod-rten of the Mon type, and all
 along the road, from this place to Ohushod, these mchod-rten were much in evidence.
 I may add that it is very much the same on the other bank of the Indus, e.g., at
 Khrigtse, E/anbirpur, and Sheb, where they are numerous. At Eanbirpm’, I remember
-having seen even several specimens of the ladder type in fair preservation. The con-
-viction that we are travelling here on ancient Buddhist ground, grew very strong on
-me. It is not impossible that the present village and monastery of Khrigtse are identi-
-cal with the castle of Khri-btsegs-’abum-gdugs mentioned before Srong-btsan-sgam-po,
+having seen even several specimens of the ladder type in fair preservation. The conviction that we are travelling here on ancient Buddhist ground, grew very strong on
+me. It is not impossible that the present village and monastery of Khrigtse are identical with the castle of Khri-btsegs-’abum-gdugs mentioned before Srong-btsan-sgam-po,
 who was the first Buddliist king of Tibet, and with the monastery of Khri-rtse
 mentioned under King Mes-ag thsoms (706 — 755 A.D). Local names in Sanskrit which
 are found here and there in Ladakh, date from the times of this more Indian than
@@ -4810,9 +3229,6 @@ of this monastery in its present shape is attributed to Kgag-dbang-rnam-rgyal, t
 and successor of Gulab Singh and tha second Dogra ruler of Kasmir.
 
 K 2
-
-
-68
 
 
 l)rotlier of Seng-ge-rnana-rgyal. The village of Sheh {Shel) oa the right baak has also
@@ -4865,9 +3281,6 @@ Pushkyum Pi.aja i.e. vassal chief's] ghostly adviser, produced a book which had 
 ^ Traoels, Yol. II, ppt 22 ff.
 
 
-69
-
-
 :from his grandfather to the Ilaja, and which prored to be an edition of the Old and New
 Testament from the Papal press, dated in the year 1598. It was bound in Morocco, with
 the initials I. H. S. surmounted by a cross, stamped on each side of the cover. How it
@@ -4879,13 +3292,10 @@ tradition of such an occurrence could be traced.” I feel confident that a crit
 of Hesideri’s diary will establish beyond doubt the fact that Desideri actually visited
 Leh.
 
-But although Moorcroft was the second instead of the first visitor to Leh, his de-
-scription of his visit is of the greatest importance in historical as well as geographical
-■respects. Moorcroft visited Ladakh fourteen years before the kingdom lost its indepen-
-dence. He spent two years at Leh, and as he was a very keen and intelligent observer,
+But although Moorcroft was the second instead of the first visitor to Leh, his description of his visit is of the greatest importance in historical as well as geographical
+■respects. Moorcroft visited Ladakh fourteen years before the kingdom lost its independence. He spent two years at Leh, and as he was a very keen and intelligent observer,
 his description of the kingdom is of unique interest. Trebeck, Moorcroft’ s travelling
-■companion, who was a clever draftsman, made a pencil sketch of Leh, which was repro-
-duced in the account of their travels, and this picture of Leh, the oldest known to exist,
+■companion, who was a clever draftsman, made a pencil sketch of Leh, which was reproduced in the account of their travels, and this picture of Leh, the oldest known to exist,
 no archaeologist would willingly lose. The reason why Moorcroft spent such a long time
 :at Leh was his attempt to arrange for the king of Ladakh’s tendering his allegiance
 to the East India Company. It took him a long time to win the confidence of the
@@ -4915,9 +3325,6 @@ the plain. It is built at the foot and on the slope of some low hills, forming t
 1 Trcuoels^ Yol. I, pp. 315 fE.
 
 
-70
-
-
 It is enclosBd by a 'wall, furnisbed at intervals with conical and square towers, and extending
 on either side to the summit of the hills. It is , approached by a double line of the
 sacred structures or manis, frequently noticed in the journal, and houses are scattered over
@@ -4940,8 +3347,7 @@ houses existed outside the walls, but the town proper was enclosed by a fortifie
 The two large bazaars which form such a conspicuous feature of the present to’W'n of
 Leh were not yet in existence. As popular tradition asserts, the large bazaar of Leh
 was laid out by the Dogras after the war of 1834-18-12, and the new bazaar was made in
-1897 by Captain Trench, British Joint Commissioner. I have been told, the Schlagint-
-weits give a very minute descrijotion of Leh as it was in 1856, when the large bazaar
+1897 by Captain Trench, British Joint Commissioner. I have been told, the Schlagintweits give a very minute descrijotion of Leh as it was in 1856, when the large bazaar
 was aheady in existence. Where this description is to be found, I have not been able
 to trace. A few remains of the walls of Leh are found right in the middle of the present
 town, where there is also one of the ancient crooked gates. This gate, which is a little
@@ -4973,9 +3379,6 @@ a. Clay pots from Dard graves, Leh.
 b. Skulls from Dard graves, Leh.
 
 
-71
-
-
 To-go-ohe used to be au official who ranked between a minister and a Orong-dpon, or
 mayor. The present representative of the To-go-che is Munshi dPal-rgyas, the chronicler
 of Ladakh. To the west of his house we find the house Orong-dpon or “ Mayor,” and
@@ -4994,8 +3397,7 @@ We could not possibly examine all the antiquities of Leh within four weeks, but
 we did some work, and I now wish to describe what we found.
 
 We were just entering Leh, when I heard that somebody had again opened the
-ancient Dard graves near the Teu-gser-po, about two miles above the Commissioner’s com-
-pound in the Leh valley. This is the same site on which Dr. Shawe and myself had done
+ancient Dard graves near the Teu-gser-po, about two miles above the Commissioner’s compound in the Leh valley. This is the same site on which Dr. Shawe and myself had done
 some excavation work in 1903. As I did not wish anybody else to take away the more
 important objects of interest, I asked Mr. Schmitt of the Moravian Mission to go with
 me to the graves on the 23rd August. This we did, and the two Christian boys who
@@ -5008,8 +3410,7 @@ reached the bottom, when we stopped our excavations. Originally the roof of the
 grave was probably above the ground. Later on, the deposits accumulated and buried
 it. But destruction did not set in, as I believe, until a field was made above it. Then,
 the continual flood of the irrigation water destroyed all the woodwork and many of the
-bronze implements began to oxydize. I suppose that the Leh graves originally con-
-tained wooden boards just like those at rG-ya.
+bronze implements began to oxydize. I suppose that the Leh graves originally contained wooden boards just like those at rG-ya.
 
 The grave contained clay pots of various sizes, a few entire, but most of them in
 fragments (Plate XXVIII, a). The largest pot, of which only fragments came to light,
@@ -5023,9 +3424,6 @@ characterised by vei'y small handles. When Dr. Shawe and myself visited this gra
 size which were ornamented with designs in dark red colour. These pots were kept by
 
 
-72
-
-
 Dr. Sliawe in his house, and photographed by Miss Duncan.^ This time we coiilcl not
 find a single pot with painted designs in the grave. But there were linear ornaments
 impressed on several of them. The only places in Ladakh, besides the graves, where
@@ -5033,8 +3431,7 @@ sim i lar hand-made pottery with dark red ornaments has been found, are the anci
 ruined castles of sBalu mkhar and Alchi mkhar gog. A plate showing such pottery
 is reproduced in my article “ Arohseological Notes on sBalu mJchcir” * Another
 collection of such ornamental sherds was made at Alchi mkhar gog on our expedition
-and brought to Simla. These ornaments are all of a very primitive type. They con-
-sist of spirals, ladders, and a zigzag band ; and occasionally there arc bunches of lines
+and brought to Simla. These ornaments are all of a very primitive type. They consist of spirals, ladders, and a zigzag band ; and occasionally there arc bunches of lines
 which may represent grass or reeds.
 
 As most of the pots had holes in their bottoms, I was led to believe tnat they had
@@ -5045,8 +3442,7 @@ most of the pots were filled with human bones. This circumstance seems to indica
 the ancient inhabitants of the Leh valley indulged in the gruesome j)ractico of cutting
 the corpses to pieces and filling clay pots with the fragments. This custom, which is
 also found in other parts of the globe, is asserted by the Chinese to have been in vogue
-in the “Empire of the Eastern Women.” Some of the pots had old cracks aird care-
-fully bored holes on both sides of them. Thus the art of mending broken pottery with
+in the “Empire of the Eastern Women.” Some of the pots had old cracks aird carefully bored holes on both sides of them. Thus the art of mending broken pottery with
 strings must have been known to the race which built these graves.
 
 There were, it appears, between fifteen and twenty skulls in one single grave (Plate
@@ -5056,20 +3452,16 @@ of the skulls. He took measurements of them and writes with regard to them in hi
 letter of the 14tb November 1905, as follows : “ All the skulls I got are very decidedly
 egg-shaped. The measurements taken with an ordinary pair of compasses (we have no
 proper ' callipers ’ here) along the antero-posterior and longest transverse diameter of
-the roof of the skull are (approximately) 6fx5 inches, 6fx5|- inches, and 6fx Sc-
-inches, Against these, the similar measmrements of a skull which I got in Baltistan
+the roof of the skull are (approximately) 6fx5 inches, 6fx5|- inches, and 6fx Scinches, Against these, the similar measmrements of a skull which I got in Baltistan
 from a Musulman grave, presumably that of a Balti, are 6|x 6g inches.” If wo convert
 these measurements into the ordinary centigrade formulas of cephalic indexes, w^e obtain
 the following numbers ; three skulls from the Leh grave : 74,70 ; 77,77 ; and 77,77.
-Balti skull 82,82. Unfortunately, on our visit to Leh last year, even a pair of com-
-passes could not be obtained, and I therefore cannot give any numbers. But as I
+Balti skull 82,82. Unfortunately, on our visit to Leh last year, even a pair of compasses could not be obtained, and I therefore cannot give any numbers. But as I
 have acquired an experienced eye for forms of skulls, I venture to state that all the
 skulls we found in the grave last year, were most distinctly dolichocephalic, and the
-formulas 74 to 77 would probably suit them all. We had also an opportunity to com-
-pare them with two skulls taken by Mr. Schmitt from the graves below Leh which date
+formulas 74 to 77 would probably suit them all. We had also an opportunity to compare them with two skulls taken by Mr. Schmitt from the graves below Leh which date
 
-* This photograph was reproduced in Miss Duncan’s "A Shimmer Side throv-gTi Western TihetP p, 148, where the painW orna-
-ment appears quite distinctly.
+* This photograph was reproduced in Miss Duncan’s "A Shimmer Side throv-gTi Western TihetP p, 148, where the painW ornament appears quite distinctly.
 
 » Ind. Ant, Vol. XXXIV, pp. 208 ff.
 
@@ -5078,9 +3470,6 @@ Plate XXIX.
 
 
 b. Implements used in devil dances, Leh,
-
-
-73
 
 
 from tlie last epidemic of small-pox in Leh, about a hundred years ago. These skulls
@@ -5093,16 +3482,14 @@ not of Tibetan, but of North Indian origin.
 Besides human skulls, a head of a sheep, and a horn of an ox were also found in the
 grave. These are apparently remains of a sacrifice, or gifts to the dead.
 
-The grave contained also a number of bronze implements, some in fairly good pre-
-servation (Plate XXIX, a). Most of them were, however, much corroded, and covered
+The grave contained also a number of bronze implements, some in fairly good preservation (Plate XXIX, a). Most of them were, however, much corroded, and covered
 with a thick layer of verdigris. Phst of aU, I may mention small square leaflets of
 thin bronze furnished with an embossed ring, of which we found hundreds. Whether
 they were used for ornamental purposes, or as coins, I find it impossible to decide. Then
 there were numerous bronze beads, of round as well as of oblong shape, small and large,
 the largest thicker than a finger. Later on we discovered little pendants of bronze, of
 bell-like form, with triangular holes and a ring at the top. They were probably inserted
-between the bronze beads of the necklace. When we took photos of the bronze imple-
-ments and other articles, we found a glass bead among the bronze beads. It was of
+between the bronze beads of the necklace. When we took photos of the bronze implements and other articles, we found a glass bead among the bronze beads. It was of
 mother- o-pearl colour, and looked like Roman or Greek glass. Dr. Marshall informs me,
 however, that this kind of glass is found all over Asia.
 
@@ -5112,8 +3499,7 @@ of the Moravian Mission .offered to go in my place, and they brought home severa
 very interesting finds. In particular, there were a number of bronze buttons of various
 sizes with a loop on the reverse. Some of them were of ordinary size, about half an
 inch in diameter, but others were much larger, nearlytwo inches in diameter. The largest
-had a scalloped edge, like an Indian one-anna piece. None of them contained an inscrip-
-tion. The smallest were quite plain, the largest had an elaborate spiral ornament, and
+had a scalloped edge, like an Indian one-anna piece. None of them contained an inscription. The smallest were quite plain, the largest had an elaborate spiral ornament, and
 those of medium size, a star ornament. I suppose that these buttons were worn by
 ancient officials as a distinguishing mark of rank, just as is the case in China nowadays.
 
@@ -5163,8 +3549,7 @@ Ladakh. The empire was a Tibetan one, according to our Chinese authorities, and 
 therefore appears strange that the skulls of the Leh grave are not those of Tibetans, but of
 Aryans. My explanation would be that it is very probable that portions of Ladakh were
 for a time at least included in this empire. The value of our grave finds lies in this that
-they afford us a glimpse of the general state of civilisation which prevailed in this em-
-pire. As regards its date, the presence of iron besides bronze precludes the fixing of any
+they afford us a glimpse of the general state of civilisation which prevailed in this empire. As regards its date, the presence of iron besides bronze precludes the fixing of any
 very early date, say before the Christian era. The absence of any form of writing in the
 grave would perhaps point to a time earlier than 586 A.D., at which time, according
 to the Chinese, the Indian characters were used in the empire. In my opinion the grave
@@ -5188,9 +3573,6 @@ The village of Skara was formerly situated on a rocky spur to the right of the
 Leh valley, where there are still many ruined houses. The chief reason for evacuating
 
 
-76
-
-
 the former site was said to be an epidemic. There are still many grayes in a side-valley
 near it.
 
@@ -5205,8 +3587,7 @@ Locally this mchod-rten is known as the grave of a king. It actually contained h
 bones, notably fragments of a skull.
 
 Not far from it, on the plain, there is a group of three ancient-looking mchod-rten
-of the usual shape. A man from Skara had extracted from them several ancient house-
-hold utensils filled with grain. Out of these, he sold me a sieve cup made of very thin
+of the usual shape. A man from Skara had extracted from them several ancient household utensils filled with grain. Out of these, he sold me a sieve cup made of very thin
 copper leaf.
 
 At Skara my attention was drawn to a rather modern-looking round mchod-rten
@@ -5246,9 +3627,6 @@ used by the Dogras after the wars, 1834i— 1842 A.D., when they established a
 was
 
 
-76
-
-
 Sanskrit school at Leli ; but the school soon came to an end, and the book was then
 placed in this mchod-rten. mQhod-rtens of this kind, which serve chiefly as receptacles
 for old and useless manuscripts, remind me strongly of the Jewish Genizas.
@@ -5268,8 +3646,7 @@ all probability identical with the “ Red College ” built by King ’aBunr-ld
 ago. It contains an inscription in praise of the reformer bTsong-kha-pa ; and, among
 many other frescoes, a picture of the bKra-shis-lhun-po Monastery in Tibet. Tliis picture
 shows the group of buildings which make up the large moirastery, and there is a long
-inscription attached to it which is distributed all over the picture. Although this in-
-scription, as well as the other one, is in very bad preservation, several sentences can be
+inscription attached to it which is distributed all over the picture. Although this inscription, as well as the other one, is in very bad preservation, several sentences can be
 made out. As masons or architects are therein mentioned, it proba])ly refers to a
 restoration of the temple. The name of a great minister, Phyag-rdor, is given in one of
 the inscriptions. He is possibly the same minister Phyag-rdor who is mentioned in
@@ -5296,9 +3673,6 @@ walls, I found one on the right hand side of the door which represented gorgeous
 dressed men with Tarkandi turbans on their heads. I could not understand the presence
 
 
-77
-
-
 of these Muhammadan portraits in a Buddhist temple, until the lama in charge
 explained that they were Ladakhi kings. By the side of the picture, there is a long
 inscription in gold on indigo tinted paper, which mentions King hKra-shis-rnam-rgyal,
@@ -5308,11 +3682,9 @@ like them. As regards the Turkoman invasion under Sultan Haidar during his time,
 it is very difficult to reconcile the Tibetan with the Tui’kish account. The latter is
 found in the Tarikh-i-Bashidi. Not only according to the Tibetan chronicles, but also
 .according to inscriptions from Ladakh, he gained a signal victory over the Turkomans.
-According to the Tarikh-i-Bashidi, on the other hand, he was a servant of the Turko-
-mans who held him in little honour.^ I have come to the conviction that he was a
+According to the Tarikh-i-Bashidi, on the other hand, he was a servant of the Turkomans who held him in little honour.^ I have come to the conviction that he was a
 very clever politician. hKra-shis-rnam-rgyal knew very well that he could not resist
-the first violent attack of the Turkomans with an armed force. He, therefore, con-
-cluded a treaty with them, and apparently took their side. He then very cleverly enlisted
+the first violent attack of the Turkomans with an armed force. He, therefore, concluded a treaty with them, and apparently took their side. He then very cleverly enlisted
 the energy of the Turkomans on his side, for co-ercing his disobedient vassal
 princes and unpleasant neighbours. Some of them were Muhammadans ; for instance,
 the chiefs of Sum, Sod, Baltistan, and one in Nubra, It is rather remarkable, therefore,
@@ -5328,8 +3700,7 @@ members of the royal family of Ladakh are shown wearing the Turkestan dress in t
 frescoes, whilst the female members are dressed in trae Ladakhi fashion, wearing on
 their heads the herag, a leather strap covered with turquoises.
 
-Above the temple of the four Lords {mGon-hhang) are the ruins of bKra-shis-rnam-
-rgyaTs palace. They include a little Lamaist monastery which is of no particular
+Above the temple of the four Lords {mGon-hhang) are the ruins of bKra-shis-rnamrgyaTs palace. They include a little Lamaist monastery which is of no particular
 interest. Buins of other parts of the ancient palace, for instance watch-towers, are
 found all along the ridge of the rNam-rgyal-rtse-mo hill. Some of the rains are of a
 ■decidedly earlier date than the reign of hKra-shis-rnam-rgyal. Por instance, I am told
@@ -5345,14 +3716,10 @@ name of a younger son of a king of the first dynasty of Ladakhi kings. In the
 ^ Tart kh’i’BasJMu pp. 418 423 and 460.
 
 
-78
-
-
 Ladakh chronicles we read that one of their early kings had placed the bones of Buddha
 in his elephant incarnation on the top of the same hill. I made inquiries as to
 their whereabouts and was told that they had been deposited in a mahod-rten which
-was utterly destroyed by the Baltis about 1680 A.D. ho trace of the relics-
-remains.
+was utterly destroyed by the Baltis about 1680 A.D. ho trace of the relicsremains.
 
 On our way down from the top of the hill, we passed by the Great Palace of Leh
 which was erected by king Seng-ge-rnam-rgyal in c. 1620 A.D. As I knew from
@@ -5365,16 +3732,14 @@ to put the manuscripts into order again.
 
 I heard rumours of the existence of ancient Indian Buddhist manuscripts at Leh
 and in other parts of Ladakh, Munshi dPal-rgyas, the representative of the To-go-che
-family being reported to be in possession of one. Fortunately for me, Munshi dPal-
-rgyas himself arrived in Leh soon after I had heard this, and readily showed me his old
+family being reported to be in possession of one. Fortunately for me, Munshi dPalrgyas himself arrived in Leh soon after I had heard this, and readily showed me his old
 book. It was, however, not of Indian, but of Tibetan origin, being the eighth volume
 of the Tibetan translation of the Prajfia-paramita, and wu'itton throughout in 11th
 century orthography, gold on indigo-tinted paper. The wooden cover (Plate XXXVII, b)
 was ornamented with very beautiful ancient carvings, for which reason a photo was taken
 of the same. Munshi dPal-rgyas emphatically denied the existence of Indian manuscripts
 at the Hemis monastery, in spite of a rumour to that effect which had been brought to
-us. But he said that he had heard of the existence of a book, written in Lailthsa cha-
-racters at the Sanid (or Muni) monastery in Zahgskar. This book may be identical with
+us. But he said that he had heard of the existence of a book, written in Lailthsa characters at the Sanid (or Muni) monastery in Zahgskar. This book may be identical with
 the old ‘ palm leaf ’ shown to the Bev. Mr. Bateson on the occasion of his iourney
 through Zahgskar in 1908.
 
@@ -5400,9 +3765,6 @@ for a high price.
 'jsinii*.
 
 
-79
-
-
 Here I may add that I made another find of mannscrijjts of a yery different
 •character at Leh. In the Mission library at Leh, I found a good number of my old
 liand-written hooks which I had collected in former years and quite forgotten. As they
@@ -5420,8 +3782,7 @@ At Ohangspa, a village half a mile from Leh, there is the large residence of a f
 of ministers {hha-llon) of the former Ladakhi kingdom. In a garden-house {rah-gsal)
 belonging to the minister’s estate are the remains of frescoes illustrating the Kesar-Saga.
 Several years ago, I ordered one of them to be copied by a local painter. This time,
-I had photos taken of three of them, in addition to a copy in colours executed by a local-
-artist. The frescoes in the garden house iviU soon be gone altogether, and as pictures
+I had photos taken of three of them, in addition to a copy in colours executed by a localartist. The frescoes in the garden house iviU soon be gone altogether, and as pictures
 relating to the Kesar-Saga are very rare, I was resolved to save for science what could
 be saved. All the frescoes in this hall refer to a chapter of the Kesar-Saga, entitled
 Ljcmg-dmag, “the war against the country of Ljang,” as we find it in the literary
@@ -5448,9 +3809,6 @@ sons (Don-yod ? ) has a red jacket with green seams ; another of her sons (Don-l
 
 ^ Publications of the Imperial Academy of Science at St. Petersburg, entitled “ De^ Missiona'r JasMe's Bemii*
 huncjsn um eine SandschTift des Gesctr. **
-
-
-80
 
 
 lias a wliits and green jacket and red trousers ; Kesar lias a red coat, and a white
@@ -5488,11 +3846,9 @@ ancient mchod-rten. Higher up, on the same hill, are the ruins of the Eibug (Ri-
 monastery. As the monastery was reported to be of ancient date, I visited it but could
 not, however, discover any inscriptions or documents referring to it. One of the
 mchod-rten close by is of an ancient type, but the cremation tablets contained in it
-are unfortunately without inscriptions. The temple hall being roofless, nothing remains-
-of former frescoes except a few traces of colour on the plaster-
+are unfortunately without inscriptions. The temple hall being roofless, nothing remainsof former frescoes except a few traces of colour on the plaster-
 
-The ruined mchod-rten called Teu-bkra-shis-’od-mtho is the laigest in Ladakh. It is-
-situated about 1^- mile from the Commissioner’s compound, a little higher up in the Leh
+The ruined mchod-rten called Teu-bkra-shis-’od-mtho is the laigest in Ladakh. It issituated about 1^- mile from the Commissioner’s compound, a little higher up in the Leh
 valley. We measured the circumference of its base at about 10 feet above the ground,
 a height at which the masonry rose clear above the surrounding rubbish, and found it to
 be 550 feet. It was erected by king ’aBum-lde, in order to cover up a crag which was
@@ -5510,12 +3866,6 @@ Plate XXXI
 
 
 Plate XXXII
-
-
-03
-
-
-81
 
 
 On the 9tli September, I went to the Teu-gser-po or Tiserru (as ordinary people call
@@ -5555,8 +3905,7 @@ possibly below the mohod-rten.
 On the same day, I went higher up the Leh valley, following the desert road
 to the w'^est of the cultivated area, accompanied by Pindi Lai and the Khalasi. Close to
 the village of dG-onpa, we passed by the ruined site of an old town with mchod-rten of
-ancient type near it. There we found also a stone sculpture of some Bodhisattva, en-
-in a masonry wall, with a IhatJio (altar of the pre-Buddhist religion), in front of
+ancient type near it. There we found also a stone sculpture of some Bodhisattva, enin a masonry wall, with a IhatJio (altar of the pre-Buddhist religion), in front of
 it (Plate XXXIV, a). As usual, the altar was furnished with many ibex horns. This
 ruined town may be the original site of the present village of dGonpa.
 
@@ -5565,11 +3914,7 @@ came to the ruins of an ancient temple, which is generally known by the name of
 Gya-mthsa. I had visited it occasionally, ten or twelve years ago, when I was stationed
 
 
-82
-
-
-at Leh as a missionary. But the late Dr. Shawe of Leb was the first to draw atten-
-tion tc the fact that there are traces of circular medallions on two of its walls. In that
+at Leh as a missionary. But the late Dr. Shawe of Leb was the first to draw attention tc the fact that there are traces of circular medallions on two of its walls. In that
 respect rGya-mthsa reminds us of the ruined monasteries of Basgo and Ohigtan.
 Inside and below the medallions. Dr. Shawe noticed holes in the wall, as ii sticks had
 once been stuck into it. He even found fragments of wood in two of the holes (according
@@ -5578,16 +3923,14 @@ to support images. Our observations at the Tabo monastery of Spiti fully confirm
 Dr. Shawe’s supposition. As will he remembered, in the Tabo monastery wc found
 thirty-two raised medallions on the walls of the temple hall, and an imago placed in
 front of each of them. After digging only a little way into the mass of debris
-below one of the medallions atrGyamthsa, we came across several pieces of plaster com-
-posed of clay, straw, and linen. This is exactly the material these images are made
+below one of the medallions atrGyamthsa, we came across several pieces of plaster composed of clay, straw, and linen. This is exactly the material these images are made
 of. Drom our observations it follows that rGya-mthsa is probably of the same time as the
 Chigtan, Basgo and Tabo monasteries, %.e., of the times of ILin-chcn-l)zang-po (c. 1000
 A.D.). But let me add that my assumption is not supported by popular tradition. The
 present inhabitants of the valley do not even believe that the ruin is that of a temple,
 but assert that it once served as a summer house for a minister {hJcd-hlon-gyi-clhyar-sa).
 
-On the other side of some adjoining fields, there are several ancient ruined mcUod-
-rten. In one of them I found cremation tablets of the “ miniature stiipa ” type.
+On the other side of some adjoining fields, there are several ancient ruined mcUodrten. In one of them I found cremation tablets of the “ miniature stiipa ” type.
 When I threw one of them to the ground, it broke to pieces, and out of it came a very
 neat little tablet with an inscription in an ancient form of Sarada. The inscription
 again contains the Ye dliarmd formula, and its characters belong to the 11th century.
@@ -5630,14 +3973,10 @@ Plate XXXIV,
 Sculpture in ruined town at dGon-pa near Leh. b. Rock-cut image of Maitreya on the Yarkandi road, Leh.
 
 
-83
-
-
 ibex in bis possession, mtb the rigbc bom crooked like an ammonite (Plate XSXIII, b).
 Tbis bead was found in Ladakb, and tbe famous lama bKra-sbis-bstan-’aj)bel, wbo died
 in 1890, pronounced it to be tbe head of Buddba in his antelope incarnation. It is,
-of course, treated with proper respect by its owner, wbo will not part with it for any-
-thing. Tbis is tbe second “bone of Buddba,” wbicb we bave come across in Leb. Tbe
+of course, treated with proper respect by its owner, wbo will not part with it for anything. Tbis is tbe second “bone of Buddba,” wbicb we bave come across in Leb. Tbe
 first is contained in a gaily coloured clay tablet wbicb was brought to us for sale.
 It was said to bave come from Lhasa, and the ofidcial seal stamped on its reverse
 indicates that a bomoeopatbic measure of a Buddba relic was mixed up with tbe clay
@@ -5653,15 +3992,13 @@ that Munshi dPal-rgyas’ te.Kt coincides with such passages of tbis version as 
 C-MS. As regards the “ History of tbe Dogra war,” Munshi dPal-rgyas has written
 no less than three different versions of it. He would perhaps never bave thought of
 writing one, if Dr. Marx bad not asked him to do so, Tbe first account be wrote
-probably soon after tbe latter’s arrival at Leb in 1886. Tbis account was litho-
-graphed at Leb, and used as a school book. Tbe Munshi seems to bave soon found out
+probably soon after tbe latter’s arrival at Leb in 1886. Tbis account was lithographed at Leb, and used as a school book. Tbe Munshi seems to bave soon found out
 that tbis account contained several mistakes, and therefore he wrote another version
 wbicb he presented to Dr. Marx apparently in 1890 ; but tbe latter did not live to translate
 and publish tbe whole of tbis.^ As Dr. Karl Marx’s text was believed to be entirely
 lost, the text and a translation of Munshi dPal-rgyas’ first version of bis account of tbe
 Dogra war was published.^ Mr. Beicbel’s manuscript contains tbe third version of
-Munshi dPal-rgyas’ account. It is by far tbe best, and much fuller than bis two pre-
-ceding versions. I hope soon to be able to publish a translation of it. Prom what has
+Munshi dPal-rgyas’ account. It is by far tbe best, and much fuller than bis two preceding versions. I hope soon to be able to publish a translation of it. Prom what has
 been said, it follows that Munshi dPal-rgyas is quite an unusual man. Who else among
 tbe natives would have kept a certain subject of scientific interest in bis mind for about
 twenty-five years, without being paid for it ? Who would bave continued bis inquiries
@@ -5671,8 +4008,7 @@ would be to science if all historians were so conscientious !
 
 Besides those already mentioaed, it is necessary to refer to a few more buildings
 of importance at Leb. Tbe mosque at tbe upper end of tbe Bazar is not tbe first
-of its kind at Leb.® Tbe first mosque is a veiy small building; but tbe time of its erec-
-tion has not yet been fixed. Tbe Christian church is situated to tbe west of tbe Great
+of its kind at Leb.® Tbe first mosque is a veiy small building; but tbe time of its erection has not yet been fixed. Tbe Christian church is situated to tbe west of tbe Great
 Palace ” of Leb, behind tbe Bazar. North-west of tbe New Bazar is a small temple.
 
 
@@ -5684,10 +4020,6 @@ sj: Vol.LXXI,pp.21fE. „ . . , ,, 4 .- 0 ,,-,,
 
 Muhi-ud-Din in 1077 A. E., i.e., apparently after the battle of Basgo.
 
-2
-
-
-84
 
 belonging to the Hemis monastery. It is said to have been erected at the same time as
 this conrent.
@@ -5706,8 +4038,7 @@ feet 8 inches. Height : varying between 6 feet, 7 feet, 7‘4 feet, 7’8 feet. 
 square being 49 feet long.
 
 In conclusion, let me say that the Wazir of Leh, Chaudhari Khushi Muhammad,
-a very well educated gentleman, and the Tahsildar, did their utmost to make me comfort-
-able during my stay.
+a very well educated gentleman, and the Tahsildar, did their utmost to make me comfortable during my stay.
 
 
 CHAPTER IV.
@@ -5734,13 +4065,9 @@ Changspa. The new type reminds us of the flat, carved figures often found on sla
 placed on walls.
 
 The trade road passes through the lowest extremity of the village of Phyang. This
-is a pity, for the village is well worth a visit. I should have visited it, in spite of every-
-thing, if at the time of our expedition, the thought had dawned upon me, that Phyang
+is a pity, for the village is well worth a visit. I should have visited it, in spite of everything, if at the time of our expedition, the thought had dawned upon me, that Phyang
 
 ^ sKu-shog, tlie incarnation of its first abbot.
-
-
-85
 
 
 (spelt Phyi-dhang ; map Pliayang) is probably tbe most ancient town of Western
@@ -5751,8 +4078,7 @@ gNya-khribtsan-po’s kingdom exist in Ladakh, and that the village of Phyi-dban
 is in all probability identical with Phyi-dbang-stag-rtse, the earliest capital of Tibet.’-
 
 The Phyang (Phyi-dbang) monastery is a stately building of much later date. It was
-erected by King bKra.shis-rnam-rgyal (c. 1500—1532 A.D.) and belongs to the ’aBri-
-khung-pa sect of lamas. This monastery comes into view when the plain on the right
+erected by King bKra.shis-rnam-rgyal (c. 1500—1532 A.D.) and belongs to the ’aBrikhung-pa sect of lamas. This monastery comes into view when the plain on the right
 bank of the Phyang brook is reached. At this place King bKra-shis-rnam-rgyal raised
 a long flagstaff on an elaborate pedestal. As we know from the chronicles, this flagstaff
 was intended to serve as a place of refuge for aU those who were guilty of a orimen Icbscb
@@ -5782,8 +4108,7 @@ Lha-chen-kun-dga-rnam-rgyal, whose name appears on the Daru rock, with Lha-rgyal
 (c. 1250 A.D.) of the chronicles. But even then I had to assume that part of the
 inscription was probably of later date. Judging by the name of a lama wMch occurred
 in it. Now, the rNam-rgyal-rtse-mo inscriptions give the name of a great minister,
-Phyag-rdor-jo, who is also mentioned on the Daru rock. Phyag-rdor-jo of the rNam-
-rgyal-rtse-mo inscriptions is plainly stated to have been a contemporary of King
+Phyag-rdor-jo, who is also mentioned on the Daru rock. Phyag-rdor-jo of the rNamrgyal-rtse-mo inscriptions is plainly stated to have been a contemporary of King
 
 ’ TtisquestioTi has been fully treated in my article, “The Kingdom ol gNya-lchri-Usa.n-po‘' J. A. S. B. 1910, p. 98.
 Here we mast distingnisli between the chronicles of Ladakh and the chronicles of Central Tibet. Whilst the places mentioned
@@ -5793,20 +4118,14 @@ Yarlung ’* in the geographical work ’ aBzciM'gling-ye-shes translated by S. 
 Cf. Ind. Ant., Vol. XXXVI, pp. 89 ff.
 
 
-86
-
-
-bKra-sMs-rnam-rgyal. Here at Daru his name is found connected with a king Kun-dga-
-rnam«rgyal. The question, therefore, naturally arises: Are bKra-shis-rnam-rgyal and
+bKra-sMs-rnam-rgyal. Here at Daru his name is found connected with a king Kun-dgarnam«rgyal. The question, therefore, naturally arises: Are bKra-shis-rnam-rgyal and
 Kun-dga-rnam-rgyal the names of one and the same Idng or not ? Was bKra-sMs
-hun-dgd-rnam-T'gyal the full name of this king ? Up to the present, only two in-
-scriptions of bKra-shis-rnam-rgyal haye been found, one on the rNam-rgyal-rtse-mo, the
+hun-dgd-rnam-T'gyal the full name of this king ? Up to the present, only two inscriptions of bKra-shis-rnam-rgyal haye been found, one on the rNam-rgyal-rtse-mo, the
 other one at Alchi. Neither of them contains the name hKra-sliis-hun-dgd-Tnam-rgynl
 as the name of a king ; both give bKra-sMs-rnam-rgtjal. It is, therefore, possible that
 king Lha-chen-Bha-gan, the founder of the rJSam-rgyal dynasty of Western Tibet, did
 not only give names ending in rNam-rgyal to his sons, but took a new Jiame ending in
-rnam-rgyal for himself, that name being Kun-dga-rnam-rgyal. The minister Phyag-
-rdor-jo would then appear to have served two kings, father and son, which is not at
+rnam-rgyal for himself, that name being Kun-dga-rnam-rgyal. The minister Phyagrdor-jo would then appear to have served two kings, father and son, which is not at
 all uncommon. Similar cases are found in the history of the Tibetans as well as in
 that of other nations. If we say, therefore, that the Darn sculptures and inscriptions
 date roughly from the year 1600 A.D., we shall not be far Avrong.
@@ -5826,8 +4145,7 @@ On the 22nd September, we marched to Saspola, by way of Basgo and Likir. Before
 reaching Basgo, a little north of the road from sNyemo, the ruins of an ancient temple
 can be seen (Plate XXXV, b). It is built of sun-dried bricks and is of the typo of
 Ein-chen-bzang-po’s temples. It particularly reminded me of the Tabo temjrlc. The
-number of raised medallions on its walls is thirty-two as in Tabo ; and there was p)ro-
-bably another medallion above the door.® I made a plan of this temple which, according
+number of raised medallions on its walls is thirty-two as in Tabo ; and there was p)robably another medallion above the door.® I made a plan of this temple which, according
 to the best traditions, dates from the days of the great lama Ein-chen-bzang-po. Popiular
 tradition connects it, without any reason, with an invasion by Turks or Mongols.
 
@@ -5839,8 +4157,7 @@ rGyamthsa monasteries are evidently of the same period.
 
 The temple of Byams-pa (Maitreya) at Basgo is appai-ently the only well preserved
 building in the place. In my article, ‘'Archaeology in Western Tibet,” I wrongly
-attributed it to King Seng-ge-rnam-rgyal. As it contains the inscribed portrait of Thse-
-dbang-rnam-rgyal I and those of his two brothers, it was evidently erected by him,
+attributed it to King Seng-ge-rnam-rgyal. As it contains the inscribed portrait of Thsedbang-rnam-rgyal I and those of his two brothers, it was evidently erected by him,
 
 • Western Tibet, " Ind. Ant., Vol. XXXVI. pp. 88 fi
 
@@ -5848,9 +4165,6 @@ dbang-rnam-rgyal I and those of his two brothers, it was evidently erected by hi
 
 
 b. Ruined temple near Basgo.
-
-
-87
 
 
 althotigli the chronicles do not contain any statement to that effect. On the Trails of this
@@ -5873,8 +4187,7 @@ remain on it. We saw only the upj)er part of the image, as, the key not being
 procurable, we could not enter the hall of the temple. This building contains a very large
 library, consisting mostly of loose sheets, which is the ancient library of the kings of
 Ladakh. Dr. K. Marx, who was the first European to draw attention to it, proposed to
-convey it to the Leh palace, arrange it projperly, and appoint one of the Moravian Mis-
-sionaries as chief librarian. The gallery above the Seljang monastery contains a number
+convey it to the Leh palace, arrange it projperly, and appoint one of the Moravian Missionaries as chief librarian. The gallery above the Seljang monastery contains a number
 of very rude frescoes which are furnished with explanatory inscriptions ; and also the
 remains of a very long historical inscription of King Seng-ge-rnam-rgyal’s time. We
 took a photo of what remains of the latter.
@@ -5902,9 +4215,6 @@ by King Lha-chen-rgyal-po (c. 1060—1080 A. D.). I had visited it before, but c
 no record confirming the statement of the chronicles. The object of my present visit
 
 
-88
-
-
 was to makb anotlier search. The monastery is very picturesquely situated on a little hill
 inside the valley. This time the lamas showed me a long inscription written with black
 ink on one of the walls, which contained the history of the monastery, as they
@@ -5912,8 +4222,7 @@ asserted. Although it dates only to the times of Thse-dbang-rnam-rgyal II, who
 repaired the building after a conflagration, I ordered it to be copied. After a long
 introductory hymn the inscription gives the names of several ancient kings of Tibet,
 gXya-khr:-btsan-po, Tho-tho-ri-snyan, Srong-btsan-sgam-po, Khri-srong-lde-btsan,
-sEyid-lde-nyi-ma-mgon, and of some famous Buddhist teachers. Then follows a Bud-
-dhist account of cosmology which concludes with a list of the most famous palaces
+sEyid-lde-nyi-ma-mgon, and of some famous Buddhist teachers. Then follows a Buddhist account of cosmology which concludes with a list of the most famous palaces
 of the Ladakhi kings, the seats of king Thse-dbang-rnam-rgyal. Finally, a few dates
 are given, connected with the history of the monastery. It is stated to have been
 founded by Lama Lha-dbang-chos-rje and Eing Lha-chen-rgyal-po. We must not,
@@ -5921,16 +4230,14 @@ however, believe that these two persons were contemporaries. King Lha-chen-rgyal
 lived in the eleventh century, and the lama is most j)robably identical with the famous
 pupil of bTsong-kha-pa, Lha-dbang-blo-gros-chos-rje, w'^ho lived in the 15th century. The
 passage should be understood in this sense : — King Lha-chen-rgyal-po founded the
-monastery in the 11th century. In the i5th century. Lama Lha-dbang-chos-rje con-
-verted the lamas to the reformed doctrines of the Ge-lug-pa order, and thus founded the
+monastery in the 11th century. In the i5th century. Lama Lha-dbang-chos-rje converted the lamas to the reformed doctrines of the Ge-lug-pa order, and thus founded the
 monastery afresh as a Ge-lug-pa establishment. Then it is stated that seven generations
 after Lha-chen-rgyal-po, King Lha-chen-dngos-grub arose, and that he introduced the
 custom of sending all the novices to Lhasa. This statement is given in exactly the same
 words as we find it in the rGyal-rabs, Then we read : “ Eighteen generations after him,”
 but the name of the king who reigned tlien has been scratched out, as well as any notes
 referring to him. Now, if we search in the chronicles for the name of the king who
-reigned eighteen generations after Lha-chen-dngos-grub, we find the name of bDe-legs-
-rnam-rgyal, the unhappy ijrince who after the battle of Basgo was compelled to embrace
+reigned eighteen generations after Lha-chen-dngos-grub, we find the name of bDe-legsrnam-rgyal, the unhappy ijrince who after the battle of Basgo was compelled to embrace
 Islam. I have abeady drawn attention to the fact that votive tablets with the name of
 this king have not yet been found in Ladakh. They were apparently all destroyed.
 The Likir inscription is an instance of a similar kind. The lamas could not suffer the
@@ -5998,12 +4305,10 @@ the green Tara (sGrol-ma), and the one to the left, Vajra-sattva (rBo-rje-sems-d
 am of opinion that these two statues were inserted later on in place of two more ancient
 ones. An the woodwork is painted red, except the arch of the green Tara, which is
 blue. Inside the temple are three stucco images, larger than life size, of the following
-Bodhisattvas : Vajra-pani (Phyag-rdor) which is painted yellow ; Mafiju^ri {’aJam-
-dbyangs), the tallest, which is painted red ; and Avalokite^vara {sTyan-ras-gzigs) painted
+Bodhisattvas : Vajra-pani (Phyag-rdor) which is painted yellow ; Mafiju^ri {’aJamdbyangs), the tallest, which is painted red ; and Avalokite^vara {sTyan-ras-gzigs) painted
 white. At the feet of Avalokite^vara we found an inscription recording the restoration
 of this temple under King bKra-shis-rnam-rgyal in the 16th century. It is interesting
-that in this inscription, the amount of red, blue, and gold colour which was contri-
-buted by various peasants of the neighbourhood, is mentioned. King bKra-shis-rnam-
+that in this inscription, the amount of red, blue, and gold colour which was contributed by various peasants of the neighbourhood, is mentioned. King bKra-shis-rnam-
 rgyal’s court painter was apparently an Indian who knew the Mu^al art of painting.
 When he restored the temple, this artist preserved the old outlines of the 11th century
 as far as possible ; but in the choice of colours, he was more original than the old
@@ -6012,23 +4317,17 @@ of the Buddha figure in the same oolom’s. He brought variety into their dress,
 and backgrounds. Whenever a picture had disappeared altogether, he invented new
 
 
-90
-
-
 scenes in perfect Mughal style, viz., Indian musicians with, harps, flutes, clarionets and
 violins ; Indian acrobats, scenes of animal life, etc. Everything is of the most pleasing
 design and execution, and of the most brilliant colours. Ample use was made of
 silver and gold. When the artist painted the dress of AvalokiteSvara, he seems to
 have forgottL Buddhism altogether. Among the pictures we find Indian garden-houses
-in full jVIu gh al style, and Indian nobles (perhaps meant to be portraits of bKra-shis-
-rnam-rgyal and his court) who look exactly like the Mughals themselves.^ This adapta-
+in full jVIu gh al style, and Indian nobles (perhaps meant to be portraits of bKra-shisrnam-rgyal and his court) who look exactly like the Mughals themselves.^ This adapta-
 tion of 3Iu gh al art to a Buddhist subject is probably unique. Interesting also is the
 representation of lamas with dresses of various fragments patched together. Such
-representations are found at Alchi among the old originals as well as among bEra-shis-
-xnam-rgyal’s renovated pictures, Among the frescoes of this hall we find also a row of
+representations are found at Alchi among the old originals as well as among bEra-shisxnam-rgyal’s renovated pictures, Among the frescoes of this hall we find also a row of
 monks in yellow dress whose hats are of the shape of European soft hats with broad
-brims. On the walls, there are many little stucco figures of the type of the thirty-
-two figures at Tabo ; but it was impossible to count them.
+brims. On the walls, there are many little stucco figures of the type of the thirtytwo figures at Tabo ; but it was impossible to count them.
 
 (3) xEam-par-snang-mdzad. — This temple is a little to the north of the other
 temples and quite hidden by other buildings. It is not shown to foreigners, and for
@@ -6044,13 +4343,10 @@ the temple Avith painted galleries. These frescoes are very rudely executed, and
 do credit to King bBe-skyong-mam-rgyal who renovated this courtyard, according to
 an inscription written on one of the walls in black ink. Fortunately for archseology,
 the king did not attempt to renew the principal temple which seems to have remained
-untouched since the days of its foundation in the 11th century. The temple hall con-
-tains a great number of ink inscriptions in an ancient form of dbu-med characters. The
+untouched since the days of its foundation in the 11th century. The temple hall contains a great number of ink inscriptions in an ancient form of dbu-med characters. The
 orthography employed shows that they must be contemporaneous with the Tabo
-monastery inscriptions. One of them, near the door, seems to mention King Byang-
-chub-sems-dpa who reigned in the first half of the 11th century. He calls himself
-Nyag-ra, i.e. “ warden,” of the monastery, and in the inscription he gives admon-
-itions to the monks. Besides the king’s name, the epigraph contains also the names
+monastery inscriptions. One of them, near the door, seems to mention King Byangchub-sems-dpa who reigned in the first half of the 11th century. He calls himself
+Nyag-ra, i.e. “ warden,” of the monastery, and in the inscription he gives admonitions to the monks. Besides the king’s name, the epigraph contains also the names
 of thre,e famous lamas, his contemporaries, viz., Mar-pa, Al-lci-pa and ’aBrom-ston.
 Whilst Mar-pa and ’aBrom-ston are widely known, Al-lci-pa was probably only a local
 celebrity On the wall on the other side of the door, we find a well executed
@@ -6068,9 +4364,6 @@ Plate XXXVIII.
 Stucco figure in gSum-thsag Temple of monastery, Alchi. b. Fresco in gSum-thsag Temple of monastery, Alchi.
 
 
-91
-
-
 aud in the Byams-pa temple of Basgo, we find the portraits of the royal founders ty the
 side of the door. Whilst at Basgo the name of the king is found Avritten below the picture,
 at Leh the inscription containing the name of the king is found on the other side of the
@@ -6086,12 +4379,10 @@ on both sides there are two narrow chapels which contain huge stucco figures,
 (4) Lo-tsa-bai-lha-khang. — This temple is in a line with the first and second temples
 described above, but farther north. It contains a statue of a seated Buddha and a
 portrait painting of Ein-ehen-bzang-po, the founder of the monastery. There is also
-an image of this lama in the same haU, but the monks say that it was modelled aftei-
-the fresco. The hall is also furnished with an ancient, well carved door, and there are a
+an image of this lama in the same haU, but the monks say that it was modelled afteithe fresco. The hall is also furnished with an ancient, well carved door, and there are a
 few fragments of carved wooden pillars.
 
-(6) 'aJam-dbyangs-khang. — This temple contains a large stucco image of the Dhyani-
-buddhas of the four regions, the one towards the east being painted yellow, that to-
+(6) 'aJam-dbyangs-khang. — This temple contains a large stucco image of the Dhyanibuddhas of the four regions, the one towards the east being painted yellow, that to-
 wards the south white, that towards the north red, and that towards the west blue. Below
 them, there are more images and the sixteen emblems of happiness, %.e., the eight ordinary
 emblems of happiness with additions. Among them we could distinguish the pair of fishes,
@@ -6103,8 +4394,7 @@ the door outside. It is afieady very brittle and will probably not last much lon
 (6) Lha-khang. — This temple is situated a little way to the south of the preceding
 ones. It contains only pictures and has suffered much by the rough treatment of the
 children of the village. A figure of Gane^a is painted above the door. On one side of it
-are painted historical scenes ; for instance a group of West Tibetan noblemen on horse-
-back, hawking. On the other side are pictures of Buddhist saints and lamas, aU fur-
+are painted historical scenes ; for instance a group of West Tibetan noblemen on horseback, hawking. On the other side are pictures of Buddhist saints and lamas, aU fur-
 nished with inscriptions. I ordered Puntsog to copy aU the decipherable inscriptions ; but
 the copying of the many interesting frescoes I had to leave to some future explorer.
 The inscriptions contain mostly names, belonging to well known lamas. The foUowing
@@ -6118,17 +4408,12 @@ temple to the 11th or I2lh century, is that the orthography employed in the insc
 shows signs of considerable age {ynyi and my 6 instead of wiand
 
 
-92
-
-
 Besides the temples mentioned above, there is at Alchi a great number of ancient
-mohocl-rten and mcliod-rten gates with four doors. Several of them contain pictures simi-
-lar to those noticed at Basgo and Ubshi, i.e., Buddha-like figures of blue complexion.
+mohocl-rten and mcliod-rten gates with four doors. Several of them contain pictures similar to those noticed at Basgo and Ubshi, i.e., Buddha-like figures of blue complexion.
 They probably represent Nagas, and these gates and mchod-rten may be of Bonpo
 origin. But there were so many that it was found impossible to register them all.
 
-Let me add a few words with regard to Tibetan palaeography, based on a compari-
-son of the Alchi and Tabo inscriptions of the 11th century. Besides the Alchi and Tabo
+Let me add a few words with regard to Tibetan palaeography, based on a comparison of the Alchi and Tabo inscriptions of the 11th century. Besides the Alchi and Tabo
 mscriptions of the 11th century, the following datable inscriptions of ancient Tibet are
 known : (1) The Endere manuscripts, excavated by Sir M. A. Stein in Turkestan.
 
@@ -6153,8 +4438,7 @@ both have y, 6, and d prefixes attached to them.
 
 (6) Words ending in r, I, or n, are furnished with a d suf&x, called drag.
 
-If we examine the Tabo, Poo and Alchi inscriptions of the 11th century, with re-
-gard to the peculiarities of the Endere manuscripts enumerated above, we find that they
+If we examine the Tabo, Poo and Alchi inscriptions of the 11th century, with regard to the peculiarities of the Endere manuscripts enumerated above, we find that they
 exhibit only the two last mentioned peculiarities, viz., y intervenes between m and ior m
 and e ; and r, I, and n are often furnished with a d suffix. Thus we see that during the
 period from the 8th to the llth century, the Tibetan orthography has come much nearer
@@ -6166,17 +4450,13 @@ century. As regards the position of the[e and o vowel signs on the right or left
 end, or above the consonant base, it varies with the age of inscriptions. I am of opinion
 that the compilation of the hKa-’agywr and hStan- agyw)', in c. 1300 A.D., marks an
 epoch in Tibetan palaeography. It probably put an end to the intervening y between
-m and i or e, and to the suffixed d. From the year 1300 A.D. onwards Tibetan ortho-
-graphy presumably remained stationary, and the age of an inscription after 1300 A.D.
+m and i or e, and to the suffixed d. From the year 1300 A.D. onwards Tibetan orthography presumably remained stationary, and the age of an inscription after 1300 A.D.
 <®n be estimated only by the form of its compound letters, and the position of vowel
 signs on or above their consonant bases.
 
 
 * Ancient historical edicts at Lhasa in J. JS. A. S. 1909, pp. 923 fE.
 ‘See my reading and tian^tion JSp. Ind., Tol. X, pp. 89 ff.
-
-
-93
 
 
 On our way back, from Alcbi to Saspola, I visiteci tlie site of a ruined castle called
@@ -6190,8 +4470,7 @@ the times of King Nyi-ma-mgon, in the 10th century, and his immediate successors
 took a photo of one of them.
 
 On the 24th September, the principal caravan under Pincli Lai, marched to sNyurla,
-by the ordinary road. I myself went to sGyera on the left bank of the Indus, accompan-
-ied by Puntsog, my assistant, and Labpa, the Khansaman. Prom s Gy era, I went up
+by the ordinary road. I myself went to sGyera on the left bank of the Indus, accompanied by Puntsog, my assistant, and Labpa, the Khansaman. Prom s Gy era, I went up
 ■the valley, to visit the famous monastery of Mang-rgyu. Just below it, we passed a very
 rudely-executed rock sculpture which represents Mahju^ri. The inscription below it
 mentions King Phun-thsogs-rnam-rgyal of the 18th century. It is the latest rock
@@ -6215,21 +4494,16 @@ intervening y between m and i, and for this reason I feel inclined to attribute 
 11th or 12th century. Local tradition connects the Mang-rgyu monastery with Lama
 Ein-chen-bzang-po. In another part of the same hall, we found a short fragmentary
 inscription giving the name of a forgotten prince, possibly a younger son of one of the
-kings of the first dynasty of Ladakh. It reads Jo-no-ohmg-Khri-stod-’adi, the youn-
-ger prince Khri-stod.”
+kings of the first dynasty of Ladakh. It reads Jo-no-ohmg-Khri-stod-’adi, the younger prince Khri-stod.”
 
 (3) rNam-par-snang-mdzad. — ^This temple contains a number of stucco images, some
-■ of which reminded me of the thirty-two at Tabo. On the wall outside, there is a long in-
-scription recording the renovation of the monastery under King Thse-dbang-rnam-rgyal
+■ of which reminded me of the thirty-two at Tabo. On the wall outside, there is a long inscription recording the renovation of the monastery under King Thse-dbang-rnam-rgyal
 n (?) If the present ugly pictures in this and most of the other temples are the result
 of that renewal, it was absolute barbarism. The principal hall has lost its ancient door.
 
 (4) ’aJams-chung (or Mafiju4ri). — This temple also contains a huge stucco statue,
 concerning the identity of which the present lamas do not seem to be agreed. They do
 not know whether it represents Manju^ri or Maitreya. The frescoes of the hall have
-
-
-94
 
 
 6&CRp6d r6iLOV&tioji stud. rBniiiidcd. ni 0 of similsir pioturos I li&d soon st Hioro slso
@@ -6254,20 +4528,17 @@ On the 25th September, we marched to Khalatse, on the right bank of the Indus.
 Half way we passed by a gorge which forms the entrance to the valley of the village of
 Tar. I should not have visited the latter, if rumours had not been current that a very
 ancient rock inscription had been discovered there by Mr. Chatterji and others. Just
-below the village of Tar, there is a rock, on which people believe they can see twenty-
-one figures of the goddess Tara (sGrol-ma) which have come into existence of themselves.
+below the village of Tar, there is a rock, on which people believe they can see twentyone figures of the goddess Tara (sGrol-ma) which have come into existence of themselves.
 There used to be a high flagstaff in front of this rock. These svayambhu figures of
 Tara may account for the name of the village. It was probably called Tara original*
 ly, the name having become abridged to Tar. Lower down the vaUey, we found very
-well moulded clay representations of Tara in a mchod-rten. In the village we exam-
-ined the “ famous ” inscription mentioned above. It contains only the name of King
+well moulded clay representations of Tara in a mchod-rten. In the village we examined the “ famous ” inscription mentioned above. It contains only the name of King
 Thse-dpal-rnam-rgyal, the last independent ruler of Ladakh, and is very fragmentary.
 
 We arrived at Khalatse just in time to prevent the boulders containing the oldest
 inscriptions of Ladakh from being broken. There are several rocks near Khalatse
 bridge, bearing ancient Kharoshthi inscriptions, and one with an ancient Brahmi
-inscription. As a new bridge was under construction, many boulders, some with inter-
-esting rock carvings and inscriptions had been blasted; and the boulder with the
+inscription. As a new bridge was under construction, many boulders, some with interesting rock carvings and inscriptions had been blasted; and the boulder with the
 Brahmi inscription had already been marked for blasting. I spoke to the Public Works
 overseer in charge, as well as to the authorities at Khalatse, and entreated them to
 preserve these invaluable stones. I hope that this may not have been in vain. We
@@ -6279,11 +4550,7 @@ Tibetan and the Kharoshthi inscriptions. The mGo-chen mchod-rten belong to the
 ’ Onr photogiapli of the longer Eliar6sh,tlu inscription was sent to Professor Eapson of Cambridge. He writes in his
 letter of the 2drd September 1910, as follows : ** The title ’^oihoiTOijdsoi, is (^uite clear. After this comes the name beginning with
 A and ending with the genitire termination m. Pour or five syllables intervene, but I am not (^uite certain about any of.
-them. Above the king’s name is a date which I read— with some doubt as to whether three strokes at the end are part of the-
-date or not — as 100+20+20-1-20-^20+4 f +8 ] ; that is to say 184 or 187.”
-
-
-95
+them. Above the king’s name is a date which I read— with some doubt as to whether three strokes at the end are part of thedate or not — as 100+20+20-1-20-^20+4 f +8 ] ; that is to say 184 or 187.”
 
 
 site of a ruined Dard castle at Ehalatse. They ■were photographed and a plan ■was made
@@ -6301,8 +4568,7 @@ others of Dard origin.
 
 
 Whilst we were at Khalatse, the people of the village sold me a good many anti-
-■quities which they had found either in their houses or at ancient sites in the neighbour-
-hood, viz., sBa-lu-mkhar, Brag-nag-mkhar, or Brog-pai-mkhar. Among them was a stone
+■quities which they had found either in their houses or at ancient sites in the neighbourhood, viz., sBa-lu-mkhar, Brag-nag-mkhar, or Brog-pai-mkhar. Among them was a stone
 knife, a stone axe, to be used without a handle, several stone lamps, beads of bone,
 stone charms, ancient female head-dresses, a bone knife, a stone inkpot, a pair of goggles
 made of turnips, etc.
@@ -6314,9 +4580,6 @@ the people of the village had made presents of “ flour-ibex ” to him and Ms 
 Jf. A. S. B., Yol r, No. 19.
 
 
-96
-
-
 me one of those figures, which are made of flour and butter, and told me that it was
 a custom in Tibet and Ladakh, to make presents of “ flour-ibex ” on the occasion of the
 birth of a child. This is quite interesting information. I had often wondered why there
@@ -6326,8 +4589,7 @@ children. As I hare tried to show in my prerious article,^ people used to go to 
 pre-Buddhist places of worship, in particular, to pray to be blessed with children.
 
 On the 30th September, we left Khalatse and travelled to Lamayuru. When we
-arrived on the left bank of the Indus, after crossing the Khalatse bridge, I examin-
-ed again the three stones with iascriptions, which I had discovered there several years ago,
+arrived on the left bank of the Indus, after crossing the Khalatse bridge, I examined again the three stones with iascriptions, which I had discovered there several years ago,
 and again made careful copies of the inscriptions, which later on I sent to Dr. Vogel.-
 Although it is not yet possible to read them with certainty. Dr. Vogel believes the kind
 of character employed to be later Gupta, almost ^arada, of c. 600 — 800 A.D.
@@ -6342,8 +4604,7 @@ the smstika {gYung-dmng) , It is interesting that there are traces of deposits o
 former lake aU around the mountains of Lamayuru, and it is strange that Drew in
 Ms book does not make any mention of them. But the Ladakhis must really have a
 geological instinct, to be able to invent stories of this kind. They have also tales of
-the former existence of lakes at Leh and at Triloknath in Lahul. The name g Yung-
-drmg was of course not given by Naropa, but must date back to a time long before he
+the former existence of lakes at Leh and at Triloknath in Lahul. The name g Yungdrmg was of course not given by Naropa, but must date back to a time long before he
 arrived in the country, as it was then the foremost place of the Bon religion which
 is called g Ymg-drung-hon. The Mahatmya concludes with a tale of an image wMch
 cannot be moved out of its original position. The ‘ barbarian ’ who spends Ms energy on
@@ -6355,11 +4616,9 @@ connected with Mm, for instance, Tilopa, Marpa, Milaraspa. They seem to belong t
 a complete set of figures of the bKa-brgyud lamas. These bKa-brgyud lamas who are
 something like chm’ch-fathers of the ’aBrug-pa order of lamas, are enumerated in
 inscription No. 128 from Kolong in Lahul, as follows ; (1) rDo-rje-’achang, (2) Ti-lo-pa
-(3) Na-ro-pa, (4) Mar-pa, (5) Mi-la-ras-pa, (6) rGam-po, (7) Thar-sab-pa, (8) gNas-
-phug-pa, (9) dPal-ldan-’abrug-pa.
+(3) Na-ro-pa, (4) Mar-pa, (5) Mi-la-ras-pa, (6) rGam-po, (7) Thar-sab-pa, (8) gNasphug-pa, (9) dPal-ldan-’abrug-pa.
 
-I asked the lamas to show me the most ancient part of the monastery, and we were-
-taken to a temple called Seng-ge-sgang, which is situated at the southern end of the
+I asked the lamas to show me the most ancient part of the monastery, and we weretaken to a temple called Seng-ge-sgang, which is situated at the southern end of the
 
 ’ Sistorische Dolumente von Khalatse in West Tibet {Ladakh) in Z.l). M. Vol. LXI, pp. 683 ff.
 
@@ -6375,17 +4634,14 @@ a. View of Lamayuru.
 b. View of ruined town, Bod-Kharbu.
 
 
-Lamajruru rock. There we were shown a hall which reminded me strongly of Eiin-chen-
-bzang-po’s temples, especially the stucco images on the walls, which were of a style similar
-to those at Tabo. The entrance is towards the east. The principal image is that of ’aJam-
-dbyangs (MaSju-ghosha). On his right we find the blue Tara, and on his left, the yellow
+Lamajruru rock. There we were shown a hall which reminded me strongly of Eiin-chenbzang-po’s temples, especially the stucco images on the walls, which were of a style similar
+to those at Tabo. The entrance is towards the east. The principal image is that of ’aJamdbyangs (MaSju-ghosha). On his right we find the blue Tara, and on his left, the yellow
 Tara. The figure aboye the blue Tara is said to represent Thse-dpag-med (Amitayus), but
 the identity of the figure above the yeUow Tara cannot now be established. Gamda is
 placed above the whole group of images. Below it is a stone pedestal showing well
 carved relievos of elephants and lions. The frescoes in this haU are far gone and most of
 them can no longer be identified. I noticed a picture of a divinity with very many arms,
-and another fresco apparently representing the ‘ Wheel of Life’ {Srid-pai-’akhor-lo) show-
-ing in its better preserved parts the torments of hell, and the gods fighting the Asuras.
+and another fresco apparently representing the ‘ Wheel of Life’ {Srid-pai-’akhor-lo) showing in its better preserved parts the torments of hell, and the gods fighting the Asuras.
 The lama who had taken us to this temple, said that, according to an inscription in the
 bCu-gcig-zhal temple at Wanla, the following four temples date from one and the same
 time, called the bKd-gdams-^a time : (1) the Seng-ge-sgang temple of Lamayuru, (2) the
@@ -6397,11 +4653,9 @@ general appearance of the Seng-ge-sgang temple. I had sent a man to the famous
 bOu-gcig-zhal temple of Wanla to copy any ancient inscriptions, he could discover
 in it. He evidently did not find that of the bKa-gdams-pa times mentioned by
 the lama, for what he brought me, was one of the Muhammadan period, as is
-evident from the occurrence of Moslem names in it. In a side chapel of the Seng-ge-
-sgang temple, there are three large images of terrible appearance, similar to those which
+evident from the occurrence of Moslem names in it. In a side chapel of the Seng-gesgang temple, there are three large images of terrible appearance, similar to those which
 we found in the mGon-khang at Leh. A female figure riding on a mule, is called
-dPal-ldan-lha-mo (^ri Devi) ; and a male figure seated on a man, mGon-po (Mahg-
-kala). The two remaining %ures I cannot define, although the name of one of them
+dPal-ldan-lha-mo (^ri Devi) ; and a male figure seated on a man, mGon-po (Mahgkala). The two remaining %ures I cannot define, although the name of one of them
 was said to be Abchi.
 
 Below the monastery of Lamayuru there is an ancient shrine which appears to be
@@ -6420,9 +4674,6 @@ women, and were depicted on the walls as well as on the ceiling. On the latter w
 ^presented well designed rows of female musicians, alternately white and grey.
 
 
-98
-
-
 Tlie most interesting group of frescoes is that which represents what I believe to
 be priests of the Bon-po religion (Plate XLI, a). One of them is represented in almost
 life size, whilst the others are smaller. They are all clothed in white undergarments
@@ -6436,13 +4687,11 @@ of their dress.^ These relics of the Bon religion at Lamayuru are of some import
 for, as we know from Sarat Chandra Das,^ the present day Bon-po priests of Central
 Tibet cannot be distinguished from Buddhist priests, their dress being exactly alike.
 
-Above the Lamaym’u Bungalow, there are several modern and two ancient gate-
-ways. They are called Khagani (Khanggani). As the ceilings of the old ones are
+Above the Lamaym’u Bungalow, there are several modern and two ancient gateways. They are called Khagani (Khanggani). As the ceilings of the old ones are
 painted all over with blue Buddha-like figures, we may ascribe their origin also to Bon-po
 times.
 
-Moorcroft® in 1820 discovered in the Lamayuru monastery several letters of pro-
-tection issued by Aurangzeb, Mu gh al ofldcers, and even by one of the Balti kings.
+Moorcroft® in 1820 discovered in the Lamayuru monastery several letters of protection issued by Aurangzeb, Mu gh al ofldcers, and even by one of the Balti kings.
 
 On the 30th September we marched from Lamayuru to Kharbu by the ordinary
 trade road across the Phothola Pass, 14,000 feet high. The castle of Kharbu is situated
@@ -6456,14 +4705,11 @@ The old town of Kharbu lies on the rocky plateau above the present village, but
 below the castle (Plate XL, b). It is easier of access than the latter, and was probably
 deserted, between circa 1620 and 1630 A.D., when King bDe-ldan-rnam-rgyal wrested it
 from the Khri Sultan of dKar-rtse. According to the chronicles, the conqueror carried
-all women and children away into captivity, so after this war it was probably never re-
-occupied. Captain Oliver, the present Joint Commissioner of Ladakh, informed me
+all women and children away into captivity, so after this war it was probably never reoccupied. Captain Oliver, the present Joint Commissioner of Ladakh, informed me
 that a man at Dras who is now one hundred and eight years old, told hiiri that the fort or
-ancient town of Kharbu was taken by storm in the Ldgra war. But I feel very doubt-
-ful with regard to this statement which is not confirmed by the Ladakhi chronicles, nor
+ancient town of Kharbu was taken by storm in the Ldgra war. But I feel very doubtful with regard to this statement which is not confirmed by the Ladakhi chronicles, nor
 by Basti Barn’s account. Moreover, Moorcroft in 1820 A.D. found the old town in
-ruins. At the eastern end of the old town, not far from two small whitewashed mchod-
-rten, there is an inscription of the times of King Seng-ge-rnam-rgyal carved on the
+ruins. At the eastern end of the old town, not far from two small whitewashed mchodrten, there is an inscription of the times of King Seng-ge-rnam-rgyal carved on the
 rock.* It is very indistinct, and extremely difficult to decipher. The rough surface of
 
 ^ Cf. J". A, S, B., YoL L, pp, 198 and 211.
@@ -6479,16 +4725,12 @@ scfi^tions. It seems to contain a reference to ^ah JabSn’s attempt to conquer 
 Fresco in Bon-po Temple, Lamayuru. b. Ancient wood-carving" of Garuda, Chigtai
 
 
-99
-
-
 the rock also makes it impossible to take impressions of it. I beliere, howerer, that I
 haye succeeded this time in getting a more correct reading of a certain passage. What
 had been read Shu-med 'aJam-yang> seems to be in reality Sku-nikhar mkhar-^hu, and thus
 the name of King ’aJam-dbyang-rnam-rgyal does not occur in it after all. But there are
 several more passages, the reading of which is still very doubtful. This much we may,
-however, safely infer from the inscription, viz., that the old town of Kharbu was still in-
-habited in King Seng-ge-rnam-rgyal’s days. On the western end of the old town, there
+however, safely infer from the inscription, viz., that the old town of Kharbu was still inhabited in King Seng-ge-rnam-rgyal’s days. On the western end of the old town, there
 is a solid round tower with a staircase inside. These stairs lead down to a spring which
 used to provide the town with fresh water, even when it was besieged.
 
@@ -6501,8 +4743,7 @@ with the other subjects of the Sultans in the Suru valley. Possibly they date fr
 Mu^al war.
 
 A very remarkable ruin in the Kharbu vaUey is the castle of Stag-rtse (map
-Takhcha), on the opposite bank of the brook. It was built on a very steep rock, appa-
-rently also very difficult of access, and once formed part of the possessions of the chiefs
+Takhcha), on the opposite bank of the brook. It was built on a very steep rock, apparently also very difficult of access, and once formed part of the possessions of the chiefs
 of Chigtan. It was probably destroyed by bDe-ldan-rnam-rgyal of Ladakh at the same
 time as Kharbu.
 
@@ -6525,13 +4766,9 @@ picturesquely situated on a steep cliff (Plate XLII, a). Below the castle are th
 the old town. The greater part of the rooms of the former are no longer accessible,
 owing to the dilapidated state of the whole building. A great number of the doors, and
 also several windows, were adorned with very artistic wood carvings in Tibetan style
-(Plate XLIIE, a) . Two of those in the inner court of the castle were said to be the por-
-traits of the two architects, father and son. In one of the rooms we found a large wooden
+(Plate XLIIE, a) . Two of those in the inner court of the castle were said to be the portraits of the two architects, father and son. In one of the rooms we found a large wooden
 board on which is carved the figure of a Naga-devouring Garuda. (Plate XLI, b) -
 Although no document recording the erection of this castle has yet been found, the
-
-
-100
 
 
 Tibetan style of the carvings suggests that its construction took place before 1550 A.D.,
@@ -6583,25 +4820,19 @@ dOon-pa-pa. These people still light the butter-filled lamps in the temple, and 
 ^ It is desmbed iii my First Calhction of Inscription^ under No. 43.
 
 
-101
-
-
 ihe altar. They told us that the temple was stiU visited by their Buddhist neighbours
 from Da and Hanu who pay adoration to its old deities.
 
 On the 4th October, we marched to Mulbe, crossing tlie Namika Pass (13,400 feet
 high). On the way, Puntsog and myself visited the ruined castle of Waka which
 is situated at the east end of the Mulbe valley. On a steep spur, to the north of the
-•present village of W aka, lie the ruins of the old castle and town. They are of consider-
-able extent. Some parts of the well-built castle are now inaccessible. This fortress was
+•present village of W aka, lie the ruins of the old castle and town. They are of considerable extent. Some parts of the well-built castle are now inaccessible. This fortress was
 probably once a stronghold of great importance, as would appear from Jonaraja’s Second
-Bajatarahgini,^ where a war between two Tibetan tribes, the Vakatanyas and Kalaman-
-yas, is described. The former name probably stands for the garrison of Waka, and the
+Bajatarahgini,^ where a war between two Tibetan tribes, the Vakatanyas and Kalamanyas, is described. The former name probably stands for the garrison of Waka, and the
 second for the Baltis of Khar-mang. Of ancient remains we found only a stone mortar,
 a bone tube, and several sherds of thick, hand-made pottery, but no inscriptions.
 
-A little below the fortress, towards the east, there were traces of an ancient hermit-
-age (mthsams-khang), a kind of cave dwelling. Above the caves, we noticed a smooth
+A little below the fortress, towards the east, there were traces of an ancient hermitage (mthsams-khang), a kind of cave dwelling. Above the caves, we noticed a smooth
 place on the rock surface with indistinct traces of ancient frescoes. We could only make
 out the outlines of the picture of a mohod-rten, and a few letters of an ancient inscription.
 On the plain beneath, a little to the west of the ruined castle, are the remains of an
@@ -6616,8 +4847,7 @@ the Mulbe “ Ohamba ” (Byams-pa). It was noticed by Moorcroft^ in 1820, who h
 following note on it : “Near the end of this day’s journey, the road passed between the
 foot of the mountains on the right of the valley and an insulated pillar of rock, about fifty
 feet high. On the face of this was sculptured the figure of one of the Tibetan divinities
-named Ohamba. It differed from the same representation in the temples in being decorat-
-ed with the Brahminical cord, hanging from the left shoulder and over the right hip.
+named Ohamba. It differed from the same representation in the temples in being decorated with the Brahminical cord, hanging from the left shoulder and over the right hip.
 The figure was naked, except round the waist, and was about twenty-four feet high, but
 the lower part was concealed by a low wall in front ; the upper had been protected by
 a screen projecting over it from the rock, but this was gone, leaving only the holes in
@@ -6634,9 +4864,6 @@ Vol. Ill, pp 16 fP. Ike passage is not quite clear, but it seems to convey that 
 :pp. 107 ff) who had escaped the massacre. [Ed.]
 
 * Trmels, Vol. II, p. 17.
-
-
-102
 
 
 Avelokite^vara lias been compared with, ^iva, andMaitreya with Brahma. And in fact
@@ -6672,8 +4899,7 @@ and to refer to the morning star. This amounts almost to a certainty when we exa
 the “Song of iloB gDung-rten ok Shargola.” A. gDmg-rfen is a kind oi stupa. The
 song begins with the eulogy of an ancient hero, called Agu Drumba, who is the supposed
 builder of the monastery as weU as of the stupa, and ends with a direct praise of the
-morning star. The morning star is called here nam-langs-kyi-skar-chen-po, “the-
-great star of the rising heaven.” Agu Drumba is probably a personification of the
+morning star. The morning star is called here nam-langs-kyi-skar-chen-po, “thegreat star of the rising heaven.” Agu Drumba is probably a personification of the
 morning star, as is the case with Agu ’aBu-dmar-lam-bstan of the Kesar Saga.®
 The morning star is the herald of the sun, and therefore its personification would
 
@@ -6690,9 +4916,6 @@ See ITote sur um siattie du Q-andhSra. B. B. F. E. 0 . TTn.r.m^ Vo], m, 1903, p.
 
 ^ A loKer Jjadahhi version of the Zeswr (Saya, Bibliotheca Indica. [Can Drumba be connected with Dhruva as the-
 Polar Star is called in Sanskrit ? ] [Ed.]
-
-
-103
 
 
 be the messenger of tbe king in the Saga. And indeed, Shargola is believed to be
@@ -6725,8 +4948,7 @@ sort of connection between these figures and Agu Drumba, mentioned above.
 The idea that the messenger par excellence has his home at Shargola, seems to have
 been accepted also by Buddhism, when it entered the vpage. I found here a stone with
 a rock carving representing Vajra-pani (Phyag-rdor), the constant companmn of Buddha
-on Gandhara sculptures. This carving is well drenched in oi or ghee, and includes an in-
-scrintion running from top to bottom which gives the name of the donor, She-rab-zang-po.
+on Gandhara sculptures. This carving is well drenched in oi or ghee, and includes an inscrintion running from top to bottom which gives the name of the donor, She-rab-zang-po.
 H looks as if it Ls from about the 15th century, to judge by the form of ifa characters.
 Vaira-pani is easily confused with Yajra-sattva ; in fact, Jaschkee asserts that both are
 JeraBy’taken for the same divinity, and thus we find an inscription Om Badzrastca
@@ -6748,14 +4970,10 @@ SZpa r Satrapa, the protector of rd ^on”). Can this be a reminiscence of the
 ” " j j. A. 8. B., Vol. L (1881), Part I. p. 220.
 
 
-104
-
-
 famous Satraps of Buddhist India ? He is shown in the dress of an ancient Tibetan knight,,
 mounted on a horse or rhyang, with fire arrows in his quiver. The lama said that Satrapa
 was the brother of Agu Drumba who himself is represented by a stucco image.
-The latter is depicted in the dress of a Ge-lug-pa lama the order to which the monastery-
-now belongs. On one of the walls I noticed also a modern inscription which contained
+The latter is depicted in the dress of a Ge-lug-pa lama the order to which the monasterynow belongs. On one of the walls I noticed also a modern inscription which contained
 a Tibetan calendar. The people of Mulbe assert that the Shargola monastery was built
 by two of their ancient chiefs, Thog-lde“Jo (Tog-lde-jo ?) and Tang-lde-Jo, father and son,
 
@@ -6783,15 +5001,13 @@ to a country in which the mosque type is different from that north of Skardo. Th
 Got mosque may be taken as an example of the change. It is relatively lower and flatter
 than the Shigar Nagyr mosque. Its walls are built of mud. Its roof is carried on long
 beams transverse to the axis of the building, and each beam is supported on a row of
-columns. There is no emphasized central square with foTir columns round it, and a lan-
-tern above, as in the other type. Here the centre is occupied by a column more orna-
+columns. There is no emphasized central square with foTir columns round it, and a lantern above, as in the other type. Here the centre is occupied by a column more orna-
 mental than the rest, and standing right between the door and the mihrdh. The other
 columns are of all sorts, oblong and polygonal in section. Capital, column, and base
 are carved from one log. There is a portico along the east wall. Por external finish
 there is a kind of double corbelled arrangement of beam ends and beams, where roof and
 walls join. The carving about doors, capitals, and the like, is of a style that was new to
-me. It affects foliation and flowers rather than geometrical designs. Outside the-
-mosque, on the east, is meydah, a collection of round walled latrines — numerous,,
+me. It affects foliation and flowers rather than geometrical designs. Outside themosque, on the east, is meydah, a collection of round walled latrines — numerous,,
 obvious and large.”
 
 On the 6th October, we marched from Kargil to Shimsha Kbarbu. On a rock
@@ -6810,17 +5026,13 @@ a Rock carvings at Dongga.
 b. Rock carvings at Dongga.
 
 
-105
-
-
 reminded me of the pre- Buddhist religion of Western Tibet, mz:, a svastika and a
 yoni, and several ibex ; a little later on, we also found a sun symbol among the
 carvings at Chanigund.^ • ^
 
 On the road from Ohanigund to Shimsha Kharbu, at a place called Dongga, there is
 ■a boulder which is covered with many carvings. (Plate XLIV.) The older ones are of a
-yellowish colour, the modern ones are white. Here we actually found’ carved representa-
-tions of stupas, one of the cross type. Most of the more recent carvings repi'esent
+yellowish colour, the modern ones are white. Here we actually found’ carved representations of stupas, one of the cross type. Most of the more recent carvings repi'esent
 ibex, but not scenes of ibex hunting. As I have already pointed out in other articles,
 "the ibex is a symbol of fertility according to the pre-Buddhist religion, similar to the
 ram of Bahul. The pre-Buddhist divinities, Kesar, ’aBruguma, etc., are invoked to
@@ -6849,8 +5061,7 @@ every household in the Dras vaUey.* He does not mention the ancient Buddhist sto
 sculptures of Dras at all. They were, however, discovered by Vigne, twenty years later.
 Cunningham says that the images represent females, and that they are called Jomo,
 “ nuns.” Both statements are wrong. The sculptures represent Bodhisattvas and are
-called Qhamba {Byams-pa, i.e,, Maitreya). Cunningham made a copy of one of the in-
-scriptions and gives his reading of it. We managed to take Kasik paper impressions
+called Qhamba {Byams-pa, i.e,, Maitreya). Cunningham made a copy of one of the inscriptions and gives his reading of it. We managed to take Kasik paper impressions
 -of all three inscriptions found on the sculptures, and also photos of the stones.
 The sculptures may be described as follows : —
 
@@ -6867,9 +5078,6 @@ C'tinningham.® This stone has a very clear Sarada- inscription on the reverse. 
 
 
 P
-
-
-106
 
 
 one wMcli was copied by Cunningliam, who was unable to translate it. Pandit Mukund
@@ -6890,8 +5098,7 @@ head is carved another very small human figure. To the right of his head is carv
 right hand is raised, and the left band is probably carrying some object. The head-dress
 has been destroyed. This figure apparently represents Avalokite^vara. On his right
 and left we see two female figure which are almost of the same siz« as the main image.
-They are represented in the “ Indian attitude,” resting on one foot, and holding one-
-hand above their heads. They may be taken as representations of the two Taras.
+They are represented in the “ Indian attitude,” resting on one foot, and holding onehand above their heads. They may be taken as representations of the two Taras.
 Below the female on Maitreya’s right, we see three small kneeling figures, with their
 hands raised in supplication (Skr. mijali). Below Avalokiteivara, there is lotus
 throne, with two miniature figures emerging from it. ^ There were probably also
@@ -6922,20 +5129,15 @@ iog in his right hand. They bear a remarkable resemblance to the two Indo-Scythi
 the Lahore Museum. [Ed,]
 
 
-107
-
-
 -as the wind tore off the moistened paper, as soon as it was laid on the rock. He and
 his companions caught us up at Baltal on the other side of the pass, and the Nasik
 paper impressions which he brought along with him, were excellent.
 
 On the road between Dras and Pandras, on the Tibetan side of the pass, there is a
 boulder, on which a much worn inscription Ork niani yadme hum can be distinguished.
-This is the only inscription of that kind which I have been able to trace in the now Mu-
-hammadan territory between Shargola and Kashmir. As is the case with all ancient
+This is the only inscription of that kind which I have been able to trace in the now Muhammadan territory between Shargola and Kashmir. As is the case with all ancient
 examples of the Om mam padme hum formula, the Pandras inscription also has the d
-and m written sej)arately, while all the more modern inscriptions show d and ni com-
-bined into one compound character.
+and m written sej)arately, while all the more modern inscriptions show d and ni combined into one compound character.
 
 The Zo-ji Pass is called Du-zhi-la by the Tibetans after a goddess l)u-zhi-lha-mo
 (probably Dus-bzhi-lha-mo, “ goddess of the four seasons ”). The following tale is told
@@ -6944,22 +5146,18 @@ he wished to leave her behind, on account of her Kashmiri smell {Ghe-H, in full 
 
 ■ che-dri). She w^as displeased at that, and turned her back towards Ladakh, and her face
 towards Kashmir. This caused Ladakh to dry up, and Kashmir to become fertile.
-People say ; “I wish he had taken her to Ladakh, then it would be as green as Kash-
-mir.” And the sudden appearance of the luxuriant vegetation on the Kashmir side
+People say ; “I wish he had taken her to Ladakh, then it would be as green as Kashmir.” And the sudden appearance of the luxuriant vegetation on the Kashmir side
 of the Zo-ji Pass is really an ever fresh and pleasant surprise to the traveller from Ladakh.
-Although during the last two or three days a few scattered trees have made their ap-
-pearance on the roadside, a beautifully wooded mountain slope is more than he would ex-
+Although during the last two or three days a few scattered trees have made their appearance on the roadside, a beautifully wooded mountain slope is more than he would ex-
 pect to rise before his vision, and yet it is so ; for on turning a corner of the excellent
 new road across the pass, green wooded Kashmir suddenly makes its appearance, and
 desert Ladakh remains behind.
 
 The first typical Kashmiri village on the south side of the Zo-ji Pass, is Sonamarg
-(Golden Meadow). A short distance above the village, there are remains of ancient ram-
-parts which were built across the valley. The Tibetans call them Jja-dvags-rgyal-poi-
+(Golden Meadow). A short distance above the village, there are remains of ancient ramparts which were built across the valley. The Tibetans call them Jja-dvags-rgyal-poi-
 mchibs-ra, “the king of Ladakh’s horse-enclosure.” They believe that their ancient
 kings had their horses on this side of the pass. The Kashmiri inhabitants of Sonamarg,
-however, believe that these ramparts are the remains of a QUa’ (fort) of a certain Ibra-
-him Kban of Kabul. I may add that the Tibetans call the resthouse of Baltal Shing-
+however, believe that these ramparts are the remains of a QUa’ (fort) of a certain Ibrahim Kban of Kabul. I may add that the Tibetans call the resthouse of Baltal Shing-
 Mang, and the village of Sonamarg, bSod-mms-ma-Ug.
 
 About a mile above the village of Gund, on the old road, is a rock covered with
@@ -6983,9 +5181,6 @@ which are connected with Binchan Bhoti, the Tibetan (Ladakhi) king of Kashmir (c
 P 2
 
 
-108
-
-
 Eaindian Shall (Rinchan Bhoti) built the Jami‘ mosque of ^riuagar. I went there on
 the 18th October, two days after our arrival. I'he priests said, they knew for certain
 that the mosque was built by Sikandar But-shikan, a statement which agrees with Mr.
@@ -6994,8 +5189,7 @@ iuterested in Rainchan Shah, th(iy told me that he was the founder of the Awwal 
 “ The first Mosque ” in Maharaj-Ganj. We therefore visited the latter which is also
 geiieraUy known as Bindan Shah Masjid. (Plate XLV, a). It is a smalh insignificant
 builclingj and cannot be compared with the beautifub later mosques of Srinagar. It
-is empty, has not even a minaret on its roof, and the walls have lost their coating of white-
-wash. i could not discover in it any kind of works of art. Formerly there had been
+is empty, has not even a minaret on its roof, and the walls have lost their coating of whitewash. i could not discover in it any kind of works of art. Formerly there had been
 a stone slab which was inscribed with non- Arabic characters, said to have been a kind
 of §astri, which designation may stand for ^arada or Tibetan.^ About twenty years
 ago, so I was told, a European carried off the inscribed slab and took it to England. As
@@ -7041,9 +5235,6 @@ Plate XLV.
 a. Awwal Masjid, Srinagar, Rinchan Shah's grave, Srinagar.
 
 
-109
-
-
 means “Tibetan” and the Lada^khis, therefore, called Rinchan’s mosqne “TheTil)etan
 Mosque.”
 
@@ -7053,8 +5244,7 @@ tombstones of ordinary people. It is surrounded by a low stone wall on all four 
 and rose bushes have been planted inside the enclosure (Plate XLV, b).
 
 There are many rumours among the Ladakhis about another Bodro Masjid (Tibetan
-Mosque) at Srinagar. They say that it was an old Buddhist temple which was convert-
-ed into a mosque several centuries ago, and that pictures of Buddhist saints are traceable
+Mosque) at Srinagar. They say that it was an old Buddhist temple which was converted into a mosque several centuries ago, and that pictures of Buddhist saints are traceable
 under its whitewash. Popular tradition has connected this mosque with Xarojia and
 calls it Na-ro-pai-thsogs-khang, “Naropa’s Assembly Hall.” Of this Bodro Masjid, it is
 asserted that it is situated below the Hari Parbat or castle hill of Srinagar ; but although
@@ -7066,8 +5256,7 @@ more worthy of the name ; but the real Bodro Masjid with the Buddhist pictures b
 its whitewash stiU remains to be discovered.
 
 The Ladakhis regard the Takht-i-Sulaiman, the hill overlooking Srinagar, as the
-former abode of Padma-sambhava, and have legends connected with him. Padma-sam-
-bhava is supposed to have lived in the present stone temple on the top of the hill, which
+former abode of Padma-sambhava, and have legends connected with him. Padma-sambhava is supposed to have lived in the present stone temple on the top of the hill, which
 is believed to have been his hermitage. They called the hill Fmpa ari,^ and say
 that the hermit once saw seven magicians perform miracles on the surface of the lake
 which then covered the Kashmir valley. He threw a handful of barley over them
@@ -7080,8 +5269,7 @@ At Srinagar I enjoyed the hospitality of the two doctors Neve, well known as
 medical missionaries and explorers. In their house, I also made the acquaintance of
 Dr. Longstafi who had just returned from a most successful expedition along the frontier
 of Ladakh and Turkestan. The results of this expedition, viz., the discovery of the
-largest glacier, and of one of the highest mountain peaks in the Himalayas, are now being-
-published in various geographical journals. It was a great treat for me to be able to
+largest glacier, and of one of the highest mountain peaks in the Himalayas, are now beingpublished in various geographical journals. It was a great treat for me to be able to
 discuss a number of geographical questions, regarding Tibet, with this experienced
 geographer. It was also encouraging to meet here with Sir Francis Younghusband’s
 intei'est in our work and achievements.
@@ -7097,4350 +5285,3 @@ reached Simla safely on the 11th of November.
 Ill
 
 
-APPENDIX A.
-
-LIST OP ANTIQUITIES ACQUIEED BY DE. FRANCKE IN INDIAN TIBET.
-
-I. — Bkitish Government Collection.
-
-{Preserved in Indian Museum^ Calcutta)
-
-
-1. Tablet of unburnt clay showing a seated Buddha with two standing Bodhisattvasj surrounded hy'
-many small stHpas (29). Inscription in late Gupta: Te dharma^ From Khalatse, Ladakh. (6 by
-4^ inches.)
-
-3. Ditto.
-
-8, Tablet of unburnt clay showing a Buddha in Vajra«ana^ seated in an ornamental arch decorated
-with animals. Below him a carpet with the wheel. From Nubra^ Ladakh. (2| by 2|- inches.)
-
-4. Tablet of unburnt grey clay, showing Samvara (bDe-mchog) standing (three or four faces,
-twelve arms, with .his Sakti) lower portion broken. From Chang, Bashahr, (2| by 2 inches.)
-
-5. Tablet of unburnt grey clay, showing Samvara (bDe-mchog) seated. (Three faces, ten arms)
-with his Sakti. From Chang, Bashahr. (2i hy 2| inches.)
-
-6. Tablet of unburnt clay, showing six Buddhist deities, lower row probably Avalokitesvara with
-two Taras, upper row Maitreya (?) in the middle, on his right Vajrapani, on his left Mahju$rL
-From Nako, Bashahr. (2| by 2|- inches.)
-
-7. Ditto.
-
-8. Ditto.
-
-9. Tablet of unburnt clay, showing Vajrapaai in bis wratbM form. From Nako, Bashahr. (If
-
-
-by 1| inches.)
-
-10. Tablet of nnburnt red clay, showing a Bodhisattva seated on lotus, perhaps Padmap&ni,,
-four arms, one with lotus. Excellent finish. From Nuhra, l^adakb. (2|- by 2 inches.)
-
-11. Tablet of unburnt clay, gaily coloured, showing TarS. From Leh. (1 by f inch.)
-
-12. Tablet of nnbnrnt clay, showing seated Manjusri. Inscription t Te dhartm, in Indian characters
-
-of the 9th century. From Skara, near Leh. (2^ by 2 inches.)
-
-18 Tablet of burnt clay, showing bTsongkhapa with book seated with three disciples, two, with
-books sitting to his right, and one standing to his left. Two piles of books in background Colomrf'
-red and gold; lower part broken off. On border Tibetan inscription: Age "virtue. From Leh.
-
-
-^ ^14* Tablet^ of nnburnt clay, showing a lama seated in European fashion, believed to be lama
-
-Pha-dam-pa sangs-rgyas. Possibly it is Maitreya. From Leh. (8 by 2f inches.)
-
-- 15. tablet of burnt clay, showing Pehar, standing on a corpse. Gaily coloured, round shape Said
-
-to- contain a reUc of Buddha. Seal on reverse. Bought in Leh, came from Lhasa. (U by U inches.)
-
-16. Tablet of unbnmt grey clay, showing Avalokitesvara with eight arms aad eleven heads,
-
-standing. From Li, Bashahr. (6^ by ^es.) ^ ^e AkarmS in Indian characters of
-
-17. Tablet of unburnt clay, showing effigy o± mpa. insenpuou
-
-9th century. From Skara, near Leh. (2 by If inches.)
-
-
-lb. Tablet of unbnrnt clay^ painted white, showing stupa in the centre^ and an inscription in
-twent\ -seven lines, apparently in ancient Nagari characters, but no longer legible. From Sabu, Ladakh.
-{8i by 8i inches.)
-
-19, Same as No. 17.
-
-‘20. Tablet of unburnt clay, painted w^hite, showing Padmaj)ani. From Nako (?), Bashahr. (If by
-1| inches.)
-
-21. Tablet of unburnt clay, painted white, showing Padmapani. Traces of Tibetan inscription. From
-Earang, Bashahr. (If by If inches.)
-
-£2. Ditto.
-
-23. Tablet of unburnt clay, showing Buddha seated in the earth-touching attitude [Bhumisparia-
-midm). From Nako, Bashahr. (If by If inches.)
-
-24. Tablet of un burnt clay, showing Vajradhara (rDo-rje-^achhang) seated on a lotus. From
-Earang, Bashahr. (2 by If inches.)
-
-25. Miniature stupa of unburnt clay. From Earang, Bashahr. (If by If inches.)
-
-26. Ditto.
-
-27. Miniature stupa of unburnt clay, painted white. From Nubra, Ladakh. (If by f inch.)
-
-28. Fragment of stucco, showing central figure of Buddha (?) seated on lotus, and three smaller
-figures of Bodhisattvas (?) each seated on a lotus. Coloured, badly damaged. From Nyoma, Ladakh,
-Dr. Shawe^s collection. (5f by 4< inches.)
-
-29. Wooden figure of a standing Bodhisattva. Black wood, traces of gold bronze, five-pointed
-crowm, lotus thi-one, right hand pointing to the ground, left arm bent and hand pointing upwards.
-Bought at Leh. (3| by 1 inch.)
-
-30. Carved piece of black wood pierced at one end. Carvings on one side. One representing a
-pyramidal stupa^ the other a seated Buddha in Bhumispariamudra, Found at the ruined site of the
-hKa-blon^s house at Leh. (2f by 1 inch.)
-
-31. Bronze statuette of a standing lama (?). His hands folded. The object which he held in his
-bands is broken off, as is his head. Purchased at Leh, and asserted to come from Khotan. (3| by
-If inches.)
-
-32. Fragment of a copper pot, ornament of double vajra. Inscription rgyaUsras-dbang’-gsing
-dbang~po. Found on top of rNamrgyal rtsemo hill, Leh. (4 by If inches.)
-
-33. Hammer, used at the lama dances. Tibetan name : rDorje ihobay on account of the rBorje
-[vajra) ornaments. Bought at Leh. (24f by 7f inches.)
-
-34. Hatchet, used at the lama dances, Tibetan name Chu-srin^poi-lce^ The blade proceeding from
-a makara^s mouth. Purchased at Leh. (27 by 9f inches.)
-
-35. Iron houk, used at the lama dances. Tibetan name Zorba, Purchased at Leh. (21 1 by 5f
-inches.)
-
-36. Trumpet made of a human thigh bone, used at the lama dances, Tibetan name rKang dung.
-Purchased at Leh. (I2f by 2| inches.)
-
-37. Wooden mask, ancient type, used at the lama dances. Tibetan name Bag» Found in the
-godown at Nako, Bashahr, and purchased. (7f by 7| inches.)
-
-38. Iron head ornament of women, ornamented with eight lotus-petals, brass-plated and set with
-turquoises. Tibetan name Kyir^Ryir. Found near ancient graves at Skara, near Leh. (3| by 8| inches.)
-
-39. iVncient wooden head-ornament of females, worn on the crown of the head, as in Lahul, set
-with. Indian seeds and turquoises, four incisions. Found at sBalu-mkhar, near Khalatse. (If by If
-inches.)
-
-40. Silvei' head-ornament of females, women the crown of the head called mchod hjiung. Found
-in Byangthang, (If by If inches.)
-
-
-113
-
-
-41. Shell button with black incised ornament of eight forked spikes, pierced in the middle. Tibetan
-name Dung char. Said to have been worn by ancient Dards. Found at Khalatse. (1 by 1| inches.)
-
-42. Ancient cross of iron and bronze, hollow inside. Ornaments of double spirals at the ends of
-its beams. Said to have been excavated near mThsomo Eiri. (2 by IJ inches.)
-
-43. String of sixteen beads, fourteen of shell, one of yellow material, and one coral, the latter broken.
-The shell beads cir. \ inch in diameter. Said to have been found in a ruined mclioiUrten near Leh.
-
-44. String of five beads, three of bone, excavated at Khalatse, one of mother-of-pearl coloured glass
-from ancient grave at Leh ; one of crystal found at Skinding near Khalatse (diameter | to inch.)
-
-45. Old stone lamp, ]plain, without handle. Tibetan name rKgongtse. From Khalatse. (5 by 3^
-inches.)
-
-46. Stone lamp, plain, with handle. Tibetan name rKyoiigUe. From Khalatse. (7 by inches.)
-
-47. Stone lamp, with ornaments and handle* Tibetan name rKyongtse, From Khalatse. by
-2 1 inches.)
-
-48. Old stone axe, blunt, used for breaking wood. Tibetan name Kcdam. From Spiti. (7 by 6^
-inches.)
-
-49. Old stone axe, blunt, used for breaking wood. Tibetan name Kala.m, From Shibke, Tibet. (4
-by 4| inches.)
-
-50. Stone tobacco bowl, of a Imhha, Tibetan name Tfol, From Khalatse. {2| by If inches )
-
-51. Stone charm. The charm to be written on it with chalk. Hole for string. From Dard Castle,
-Khalatse. (2| by 2J inches.)
-
-52. Stone charm. The charm to be written on iv with chalk. Hole for string. From sBalu-mkhar
-near Khalatse. (2^ by 2^ inches.)
-
-53. Stone of cylindrical shape, perhaps used as a hammer, or a handle* From Khalatse. (2| by If
-inches.)
-
-54. Fragment of a stone lamp {rKyongtse) ornamented with band of foliage. Found in a Dard
-grave, at Khalatse. (5f by If inches.)
-
-55. Stone axe, to be used without a handle, with a hollow for the thumb. Had a sharp edge.
-Found at sBalu-mkhar, near Khalatse. (5 by 4 inches.)
-
-56. Stone knife, handle missing. Tibetan name rDo-gri. From Skinding, near Khalatse. (13|
-by If inches.)
-
-57. Ancient bone knife, without handle. Found at sBalu-mkhar, near Khalatse, (4| by If
-inches.)
-
-58. Two stone needles (genuineness doubtful) 4f and 3| inches long. Both broken. From Khalatse.
-
-59. Stone inkpot, pierced in the bottom. From Khalatse. (2f by 2 inches.)
-
-60. Ammonite which was worshipped in the house of lama Ngorub Tungtog of sNam-rgya and was
-bathed in butter. Tibetan name Norhw yang Jchyil {dhyang (?) d,hyil\ From sNamrgya, Bashahr,
-(3 by 2f inches.)
-
-61. Spindle whorl, made of burnt clay, ornamented with impressed lines, broken. Tibetan name
-Phanglo. From Khalatse. Found at sBalu-mkhar. (3J by Sf inches.)
-
-62. Spindle whorl, made of stone. Tibetan name Dhanglo. From Khalatse. Found at ^aBrogpai-
-mkhar. (1| by If inches.)
-
-63. Tibetan silver coin, called Nag-tang, coined in 1722 A.D. by Eanjit Malla Deva, of Bhatgaon,
-for Tibet. Purchased at Leh.
-
-64 Three early Muhammadan coins from Turkestan. Compare Dr. Stein, Ancient Khotan, Plate
-XC, No. 45. Purchased at Leh, came from Khotan.
-
-65. Fruit of Trapa natans, by the Tibetans in Lake Kawalsa, Mandi. They call the
-
-fruit mThso paduacangyi shyin rlahs* From Bawalsar.
-
-
-Q
-
-
-114
-
-
-60. Sherd of ancient pottery with linear impressed ornaments. Found at Kalagtrung castle, Poo^
-Bashahr. (2^ by inches).
-
-67. Sherd of ancient hand-made pottery with linear impressed ornament. Found at Kalagtrung
-castle, Poo, Bashahr. (3J by inches.)
-
-6S. Sherd of ancient hand-made pottery, handle, with ornament of impressed lines. From Bragnag
-mkhar, Khalatse. (4 by 3 inches.)
-
-69. Sherd of ancient pottery, handle, plain. From Khalatse. (5 by 3 inches.)
-
-70. Tibetan drill, made of wood and a string, with an iron point, Tibetan name sOiru From
-Shibke, Tibet. (16 by 7^ by llj inches.)
-
-71. Tibetan scales (for weighing) consisting of a stick with marks, a bag of cloth, and a weight of
-stone in a bag, Tibetan name Nyaga •phorclo. From Shibke, Tibet. Length of stick inches.
-
-72. Tibetan writing tablet, made of wood, consisting of two boards, one showing woodcarving of
-ivastiha ornament. Tibetan name mmtra. From Khalatse. (14| by 2^ inch.)
-
-73. Tibetan cup of wood, with iron ring. Tibetan name Kore or Laliorgyi Kore^ cup of Lahore.'^^
-From Khalatse. (4 by 2 inches.)
-
-74. Tibetan lock and key, of iron. Tibetan name Kulig. From Leh. (1| by If inches and 3
-inches.)
-
-75. Iron hoe and hammer, broken. Tibetan name Togtse, Found at Dard castle, Skinding valley,
-near Khalatse. (4i by If inches.)
-
-76. Iron penholder case, with incised foliage ornaments, Tibetan name Myug rogs. Found in
-Byangthang, Tibet. (10 by f inches.)
-
-77. Iron spoon, incised with foliage ornament. Tibetan name Thurmangs, Pound at sLas, Skam-
-lung, Khalatse. (5 x 1 f inches.)
-
-78. Pills, made of the Dalai Lamars excrement. Purchased at Khalatse, Ladakh.
-
-79. Sieve cup of copper leaf with brass trimmings, was found filled with grain. Found in ruined
-at Skara, near Leh. (Sf by 2 inches.)
-
-II.— Kashmir State Collection.
-
-{^reserved in JPrafap Singh Mmevm^ Srinagar.)
-
-1. Coloured tablet figure of Manjuiri (Wams-dpal) seated, fragmentary (4f inches high, inches
-broad). Burnt clay. From Basgo, Ladakh.
-
-2. Coloured tablet with figure of bTsongkhapa, seated on lotus throne (3| inches high, 2i inches
-broad). Burnt clay. From Leh.
-
-3. Coloured round seal (S| inches diameter). Burnt clay. Prom Basgo, Ladakh.
-
-4. Coloured tablet with figure of Tara {sGrol-ma} seated in varamudra^ painted gold (4 inches
-high, 2| inches broad). Burnt clay. From Tar, Ladakh.
-
-5. The same, a little damaged.
-
-6. Tablet of burnt clay showing seated Buddha under arch with stupas^ and two monks, probably his
-chief disciples, Maudgalyayana and Sariputra, standing on his right and left (If inches high. If inches
-broad). Prom Tar, Ladakh.
-
-7. Tablet of burnt clay showing seated figure of a Bodhisattva, probably Vajrapani (Phyag-rdor)
-(2 inches high, 1| inches broad). From Leh.
-
-8. Tablet of black burnt clay, showing a seated Tara (sGrol-ma) (If inches high, If inches broad).
-Inscription in Tibetan characters, indistinct, 0^ dvdve d , » » ,dvaTe duTi $, From Leh.
-
-y. Tablet of burnt clay, showing seated Buddha-like figure, damaged, painted white (2 inches high,
-If inches broad). Inscription in Tibetan characters d AuMj on reverse. Prom Leh,
-
-
-115
-
-
-10. Tablet of unburnt clay, showing bTsongkhapa seated on a lotus^ throne between two disciples
-standing on each side holding a flower with a sword and book respectively (2j inches high, inches
-broad) . From Leh.
-
-11. Tablet of nnburnt clay showing bTsongkhapa seated with book and sword as in No. 10 (2
-inches high, if inches broad). From sNyemo, Ladakh.
-
-12. Tablet of anbnrnt clay showing a lama seated in European fashion ; believed to be Pha dam-pa-
-sangs-rgyas. Possibly Maitreya. (3 inches high, ^ inches broad.) From Leh.
-
-13. Tablet of unburnt clay showing a four-armed, seated Maitreya (Byams-pa) with lotus and bowl
-and with a stupa on his head. Inscription in Tibetan characters : first Om mani pad 7 ne hvM ; then the
-Te dhamd formula, rest indistinct, then Om a hum, (2| inches high, 2 J inches broad.) From LiUr.
-
-14. Head of a stucco figurine of a Bodhisattva coloured. Traces of colour. From Leh. (1^ by
-2 inches.)
-
-15. Tablet of unburnt clay, showing Tara (sGroi-ma) seated. From Thugsrje chenpo in Rubshu.
-(2 by 2 inches).
-
-16. Same as No. 11, but showing traces of a Tibetan inscription. Inscription hfangfola
-
-namo. From sNyemo, Ladakh.
-
-17. Tablet of unburnt clay, showing Saihvjira (bDe-mchog) with his Sakti (three or four faces,,
-twelve arms). From Leh. (3| by 2J inches.)
-
-18. Tablet oE unburnt clay, showing Vajrapani (Phyag-dor), in his wrathful form, with six arms
-three faces, trampling on two corpse's. From Leh. (3i by 2| inches.)
-
-19. Tablet of unburnt clay, showing Manjusri. Inscription in Tibetan characters indistinct. From
-Leh. (2i by 2 inches.)
-
-20. Tablet of unburnt clay, painted yellow, showing Buddha seated in hkumisparfa. From Leh.
-(IJ by 1 inch.)
-
-21. Tablet of unburnt clay, showing Tara, same as No. 15. From Rubshu.
-
-22. Tablet of unburnt clay, showing indistinct Bodhisattva, probably Aval5kitesvara with two lotus
-flowers. Tibetan inscription. Om a hum. From Thugsrje chenpo^ Euhsh%i, (1^ by IJ inches.)
-
-23. Ditto.
-
-24. Ditto.
-
-25. Miniature stupa of unburnt clay with eight little stupas in relief. Inscription Ye dharmd in
-Nagari characters of 11th century. From Spithug, Ladakh. (4 by 3 inches.)
-
-26. Miniature stupa of unburnt red clay. Inscription 7e dkarnid in Tibetan characters. From
-rGga^ Ladakh. (8^ by 2^ inches.)
-
-27. Miniature stupa of unburnt clay. Inscription in unknown characters, possibly kind of ancient
-Nagari. From Leh. (2 by 1^ inches.)
-
-28. Miniature stupa of unburnt red clay with eight little stupas in relief. Inscription indistinct,
-apparently the Te dJiarma formula, in Tibetan or Gupta characters. From rGya, Ladakh, ^li by
-1 inch.)
-
-29. Ditto.
-
-30. Ditto.
-
-31. Tablet of unburnt clay, showing Manjusri ("aJams-dpal) seated with sword and book. Insciiption
-Te dharma in Indian characters of circa 800-900 A.D. From rGya. ^2^ by 2 inches.)
-
-82. Ditto.
-
-83. Tablet of unburnt clay showing Bodhisattva (Maitreya ?) seated with lotus, book and stupa.
-Inscription Te dharma in ancient Tibetan characters. From rGya, Ladakh. (2J by 2 inches )
-
-34. Ditto.
-
-36. Ditto. Red clay tablet, similar to Nos. 33 and 34, but book omitted.
-
-Q 2
-
-
-116
-
-
-36. Tablet of unburnt red clay^ showing Vajradhara (rDo-rje-'achang) seated. Tibetan inscription
-0/71 a hur/u From rGya, Ladakh, by inches.)
-
-37. Tablet of unburnt red clay, showing Buddha seated in lhumis]^aria. From rGya, Ladakh.
-(1| by 1| inches.)
-
-:3S. Tablet of unburnt red clay, showing wrathful form of Vajrapani (Phyag-rdor) (two arms only).
-From rGya, Ladakh. (If by 1| inches.)
-
-39. Tablet of unburnt clay coloured red, showing two small and one large stupa^ the latter of the
-ladder type. Inscription indistinct. Apparently the Te dJiama formula In old Tibetan or Gupta
-characters. From Staglung, Ladakh. (2| x 2| inches.)
-
-40. Tablet of unburnt clay painted red, showing two small and one larger stupa^ the latter of the
-ladder type. Inscription quite indistinct. From Staglung, Ladakh. (2| by 2^ inches.)
-
-41. Tablet of unburnt clay, painted red showing nine stupas in two rows. Inscription quite indis-
-tinct. From Staglung, Ladakh. (3 by 3 inches.)
-
-42. Tablet of unburnt clay, painted red, showing two small and one large stupa, the latter of the
-ladder type. Inscription : The Ye dliatma formula in ancient Tibetan characters. From Staglung,
-Ladakh. (3| by 3| inches.)
-
-43. Tablet of unburnt clay, showing five stupas, below them inscription of the Ye dharma formula in
-ancient Tibetan characters. From Skara, near Leh. (8 by 2 inches.)
-
-44. Tablet of unburnt clay, showing two small and one large stupa, the latter of the ladder type.
-Inscription of the Ye dliarma formula in ancient Sarada, circa 10th century. From Skara, near Leh.
-
-by 2| inches.)
-
-45. Tablet of unburnt clay, showing one stupa of the ladder type. Inscription Ye dJiarmd formula
-in ancient Sarada. From Skara, near Leh. (2^ by inches.)
-
-46. Tablet of unburnt clay, showing one stupa. Inscription very indistinct, probably the Ye
-dliariyia formula. From Skara, near Leh. (2f by 2f inches.)
-
-47. Tablet of unburnt clay, showing ten stupas. Inscription Ye dharma In ancient Tibetan
-•characters. From Skara, near Leh. (2^ x 2| inches.)
-
-48. Tablet of unburnt clay, showing one stupcu Inscription Ye dharma in Sarada characters. From
-Skara near Leh. (3| by 2J inches.)
-
-49. Tablet of unburnt clay, showing eleven Inscription indistinct, probably the Ye dharma,
-
-formula. From Skara near Leh. (If by 2 inches.)
-
-50. Tablet of unburnt clay showing one stup)a of the ladder type. Inscription Ye dharma in Sarada
-of about the 11th century. From rGyamthsa, near Leh. (H by IJ inches.)
-
-51. Tablet of unburnt red clay showing two small and one large the latter of the ladder type
-and two lotus flowers. Inscription the Ye dhana, formula in Stoda. From Basgo, Ladakh. (3 by 2i
-i nches.)
-
-52. Ditto.
-
-o3. Tablet of unburnt clay showing two small and one large stupa. Inscription Ye dharma in
-ancient Tibetan characters. From rGya (?). (If by If inches.)
-
-54. Tablet of unburnt red clay showing one stupa. Inscription Ye dharma,. In ancient Nagari of
-about the 9th century. From rGya, Ladakh. (3f by inches.)
-
-55. Tablet of unburnt red clay, showing two smaller and one larger stupa. Inscription Ye dharma,
-in early Nagari of about the 9th century. From rGya. (1^ by 1 \ inches.)
-
-66, Tablet of unburnt clay, painted red, showing one stupa. Inscription Ye dharma, in late Gupta.
-Half broken off. From Phuga, Rubshu. (2 by inches.)
-
-57. Tablet of unburnt red clay showing three stupas. Inscription Ye dhoma, in ancient Tibetan
-chai-acters. 'Broken. From rGya, Ladakh. (If by 1^ inches.)
-
-
-117
-
-
-hi a. Tablet o£ unburnt clay^ showing eflSgy of stujm* Inscription Te dharma in Indian characters
-of the 9th century. Prom Skara, near Leh. (2 by If inches.)
-
-
-58.
-
-Ancient sherd of pottery from Alchi mkhar-
-
-■gog with dark red designs.
-
-(4 by 2i inches.)
-
-59.
-
-Ditto.
-
-ditto.
-
-(3^ by 1\ inches.)
-
-60.
-
-Ditto.
-
-ditto.
-
-(2^ by 1| inches.)
-
-61.
-
-Ditto.
-
-ditto.
-
-(2| by 2| inches.)
-
-62.
-
-Ditto.
-
-ditto.
-
-(2| by If inches.)
-
-63.
-
-Ditto.
-
-ditto.
-
-{1| by inches.)
-
-64.
-
-Ditto.
-
-ditto.
-
-(2^ by If inches.)
-
-65.
-
-Ditto.
-
-ditto.
-
-(2| by If inches,)
-
-66.
-
-Ditto.
-
-ditto.
-
-(2i by IJ inches,)
-
-67.
-
-Ditto.
-
-ditto.
-
-(2 by inches.)
-
-68.
-
-Ditto.
-
-ditto.
-
-(1| by 1 inch.)
-
-
-69. Bronze button from ancient grave, Leh, spii*al ornament. (2 by inches.)
-
-70. Bronze pendant from same place, circular ornament. (2^ by 7| inches.)
-
-71. Bronze buttons, four combined, from same place, circular ornament. (IJ by inches.)
-
-72. Bronze seal (?) from same place, cross lines and dot ornament. (If by IJ inches.)
-
-73. Two bronze beads, from same place. (| by \ inch.)
-
-74^. Bell-like pendant, from same place. (1 by f inch.)
-
-75, Bone tube from Waka castle. (3 by f inch.)
-
-76. Bronze button from ancient grave, Leh, broken, flower ornament (?) (1^ by inches.)
-
-77, Bronze button, from same place, broken, star ornament. (1^ by IJ inches.)
-
-78. Coloured glass bead from grave at Leh.
-
-
-118
-
-
-APPENDIX B.
-
-LIST OF MANUSCRIPTS AND WOOD-PRINTS ACQUIRED BY DR, FRANCKE
-
-IN INDIAN TIBET.
-
-I. Ltteratuee.
-
-{a) Boohs obtained chiefly in Ladahh,
-
-1. Shar-rgan-gyi-gln-bzlmgs-so, The Songs of the Shar-rgan festival^ from Poo (sPu), Copied'
-from a MS. at Poo by bsKal-bzang. 29 ps. 8^.
-
-2. The same, translated into ordinary Tibetan, by bsKal-bzang.
-
-3. Bod-rgya-nag-rgya-gar-rnams-kyi rgyal-rabs-bzhugs-so. History of Tibet, China, and India
-copied from the great fG^aUrabs of Khalatse by bZod-pa-phnn-thsogs. 96 ps. foolscap.
-
-4. Ka-dros-chos-sder (bKa-gros-chos-gter), a small tract in Skrt. and Tibetan, extracted from a
-mchod-rten at Chemre and sold to us. On p. 1, it is stated to be a sastra (bstan-chos) composed by
-King Srong-btsan-sgam-po and two monks, Nam-Khai-snying-po, and Atsar (Acarya) Nag-po
-and sent to Nga-ris (Western Tibet). 14 x 3^ cm.
-
-5. Photographic reproduction of No. Or. 6683, sheet 84 to 72 of L-MS. of the La-dvags-rgyal*
-tabs. From British Museum, London. 22xl6| cm.
-
-6. Bod-sa-gzhi-chag-rabs, Origin of the world, from the A-MS. of the La-dvags-rgyal-rabs, copied
-by Joseph Thse-brtan of Leh. 13 ps. foolscap.
-
-7. La-dvags-rgyal-rabs, Chapter VIII, (from bDe-ldan-rnam-rgyal to Thse-dpal-rnam-rgyal), copied
-from B-MS. in the possession of Tsandan Munshi, Leh, by Joseph Thse-brtan, Leh. 12 ps. foolscap.
-
-8. La-dvags-rgyal-rabs, Chapter VIII, copied from C-MS. in the possession of Munshi dPal-rgyas,
-Leh, by Joseph Thse-brtan, Leh. 5 ps. foolscap.
-
-9. Dzam-mu-ma-ha-ra-dza-gu-lab-sing-gi-dmag-mis-la-dvags-dang-bod-la-dmag-btang-bai-lo-rgyus-
-bzhugs-so, History of the Dogra war, copied from C-MS. of the La-dvags-rgyal-rabs in the possession
-of Munshi dPal-rgyas, Leh, by Joseph Thse-brtan, Leh. 7 ps. foolscap.
-
-10 . La-dvags-la-ma-ha-ra-ja-gu-lab-sing-gis-mnga-mdzad-pa-nas-phyin-gyi-lo-rgyus-bzhugs-so, His-
-tory of Ladakh after the Dogra war, copied from C-MS. of the La-dvags-rgyal-rabs in the possession
-of Munshi dPal-rgyas, Leh, by Joseph Thse-brtan of Leh. 10 ps. foolscap.
-
-11. bZang-Kar-chags-thsul-gyi-lo-rgyus, History of the origin of Zangs-dKar, copied from a MS
-in possession of the chiefs of sTista, by bZod-pa-bde-chen of Kyelang. One sheet of Tibetan paper, 62
-by 58 cm. Writing on one side only.
-
-12. gCig-tan-gyi-jo-rabs-ni, History of the chiefs of gCig-tan. The original being lost, the history
-was taken down according to the dictation of the present ex-chief of gCig-tan by Munshi Te-shes-rig-
-^adzin of Khalatse. One sheet, 59 by 22| cm.
-
-1 3. Kha-la-tse-pa-me-me-thse-bstan-gyis-bshad-pai-tha-dmag-gi-lo-rgyus-bzhugs-so, J oseph Thse-
-brtan's history of the Dogra war. Lithographic print from Leh Mission Press, 1903. 16 ps. 8°.
-
-14. Chronicles of the chiefs of Kolong-Lahul, in Urdu, copied from the original in the posses-
-sion of Chief Amar Chand of Kolong, by bZod-pa-bde-chen, Kyelang. Small book in octavo.
-
-15. Genealogical tree of the chiefs of Kolong, Lahul, in Tibetan, copied from a one-sheet manu-
-script in the possession of Chief Amar Chand of Kolong, by bZod-pa-bde-chen of Kyelang. One sheet
-octavo with two additions.
-
-16. Genealogical tree of the Chiefs of Barbog, Lahul, in Tibetan, copied from a one-sheet manu«
-script in possession of the Barbog chiefs by bZod-pa-bde-chen of Kyelang. One sheet, 15 by 19 cm.
-
-
-119
-
-
-17. gSei-gYi-me-loiig-zhes-pai-rgYal-rabs-bzlmgs-sOj The chronicles of Tinan, in Tibetan^ copied
-■from a manuscript in possession of the chiefs of Tinan by bZod-pa-bde-chen of Kyelang, One sheet of
-Tibetan paper. 45 by 22^ cm.
-
-18. Genealogical tree of the chiefs of Tinan^ copied from a ojie-sheet manuscript in possession of the
-chiefs of Tinan by bZod-pa-bde-chen of Kyelang. One sheet, 26^ by 21^ cm.
-
-19. gSar-gzugs-’^agyur-thor-bu-mi-'^adra-ba-yin, Introduction to the Tibeto-Mongolian alphabet,
-copied from a one-sheet block-print from Leh by Munshi Ye-shes-rig- adzin of Khalatse, one-sheet
-foolscap.
-
-20. Nyo-pas-sgo-la-btang-ces-kyi-glu-yin, Marriage-songs from Tagmacig, copied from an original
-MS. at Tagmacig by Munshi Ye-shes-rig-^adzin of Khalatse. 74 ps. 4°.
-
-21. gSung-don-bzhin-yung-'’agrung-dgon-gyi-phyag-rabs, Tibetan MS. the mahatmya of Lama-
-yuru/^ one sheet of Tibetan paper, 24^* by 26 cm. Copied by bsTan-'^adzin-dpal-'abyor of Leh.
-
-22. Om-sba-sti-siddham-dpag-kyid-chos-khor-lha-sai-zhing-mkhams-^adir, etc., Tibetan MS. the
-treaty between Lhasa and Bashahr.'’-’ Copied by Lobzang of Poo, from a MS. in the hands of the
-rDzong-dpon of Tsaparang. One sheet of Tibetan paper, 57 by 41^ cm.
-
-23. The same, copied by Hira of sNam-rgya from a MS. in his own possession, one sheet, 55^ by
-33^ cm.
-
-24. History of Bainchan Shah, from Azmi^s History of Kashmir. Copied from a Persian MS. 4 ps,
-foolscap. English translation appended.
-
-25. History of Rainchan Shah, from Malvl Haider Malikas History of Kashmir. Copied from
-a Persian MS., foolscap, English translation appended.
-
-26. ITang-dmag, the war against ITang, copied from MS. containing the literary version of the
-Kesar-saga, in the possession of the bKa-blon at Changs-pa, by Joseph Thse-brtan of Leh.
-
-(&) A CoUecUon of books acquired from Lahul.
-
-1. gSer-'^od-dam-pa, Suvarnaprabhasasutra, ancient MS. in eleventh century orthography, from the
-Ku-ku-zhi family of Kyelang, One complete volume, with wooden boards.
-
-2. bsKa-brdzogs-pa-chen-po, MS. in Tibetan and Sanskrit, contents of a Tantric character. Complete
-in 63 sheets ; circa 46 by 9^ cm.
-
-8. bSon-gyi-spar-kha-dpungs-shig, Tibetan Manuscript, of Tantric character, on mystical marks.
-"Complete in 4 leaves, 46 by 9^ cm.
-
-4. rGyol-po-skyas-^adebs-bzhugs-so, Tibetan MS. of a Tantric character, treating of ^agong-po, evil
-spirits ; 9 leaves, 46 by 9^ cm.
-
-5. Klu-gtor, Tibetan MS., about offerings to Nagas; 4 leaves, 42 by 7^ cm.
-
-6. sLob-dpon-padmai-gsungs-pai gYang-sgo-bsdam-pa, Tibetan MS., the closed door of blessing,
-by Padma [sambhava] ; 4 leaves, 46 by 9 1 cm.
-
-7. dGu-mig-lto-cos-kyi-bzlog-thabs, Tibetan MS. A means to avoid the nine eyes (?),^^ (against
-■the evil eye?). A work presented to Padmasambhava by the fairy ^aGro-ba-bzang-mo ; 9 leaves,
-46 by 9J cm.
-
-8. ’aDri-moi mdos, sangs-rgyas-kyis-mdzad-pao, Tibetan MS. ‘‘ Cross of defilement, composed by
-Buddha \ 5 leaves, 48^ by 8 cm.
-
-9. rGyal-po-chen-po-rnam-mthos-sras-kyis-gYang-^agugs-^adod-dgui-gter-mdzod, Tibetan MS.
-
-Vairochana^s treasury for the nine desires f 11 leaves, 46 by 9^ cm,
-
-10. vGyal-po-chen-po-rnam-thos-sras-la-mchod-gtor-^ahul-bai-rim-pa-dngos-gruh-ky-ibang-mdzod,
-
-Tibetan MS., about offerings to Vairochana. Written in black and red, with yellow lines. Bu-sfcon is
-mentioned in the colophon ; he may be the author ; 16 leaves, 38 by 8 cm.
-
-
-120
-
-
-1 1 . Yi-ge-dr ug-pai-rig-sngags-clien-moi-sgrub-tliabs-gser-gjd-’aplireng-ba, Tibetan block-print^
-'' about tbe magical powers of the six syllables the Om-ma-ni-pa-dme-hurn) ; 3 leaves, 50 hj
-9 cm.
-
-12. bSmng-ma-dpal-dgon-ma-ning-nag-poi-bskang-ba, Tibetan MS., How to satisfy the glorioiis^
-black ennnch, the guardian.'*^ On the last page, a certain Chos-^aphel-bstan--'adzin (perhaps the author)
-is mentioned ; 9 leaves, 46 by 9^ cm.
-
-13. bsTan-bsrung-rdo-rje-dgra-'^adul-kyi-sgo-kha-dang-bskang-ba-bskul-bzlog-pa-bead, Tibetan MS.^
-How to feed, satisfy, and repulse rDo-rje-dgra-^adul, the guardian of the teaching; 3 leaves, 45
-
-by 9| cm.
-
-14. rNams-sras-thse-rings-mai-rKang-phrin, Tibetan MS., The gospel of rNams-sras-thse-ringsmak,^^
-a Tantric work. Several pages are torn and incomplete. 8 leaves, 46 by 9^ cm.
-
-15. sLob-dpon-pa-dmai-'’adzad-pai-bdud-kyi-zhal-^agyur-rgyad-pa, Tibetan MS. The eighth
-diabolical manifestation (zhal-‘'agyur) of Padma [sambhava].''^ Written in dbu-med character. It belongs-
-to the so-called gTer-ma or hidden books. 9 leaves, 46 by 9 f cm.
-
-16. gNas-chen-dril-bu-ri-dang-ghandholai-gnas-yig-don-gsal-bzhugs-so, Tibetan wood-print, ^^the
-mahatmya of the Gandhola-temple in Lahnl.^*’ 12 leaves, 29 by 9J cm.
-
-17. Ras-’^aphags-aphags-pai-gnas-bshad-dang-mdon-rtogs-bcas-hzhugs-so, Tibetan wood-print, the
-mahatmya of Eas-‘’aphags (Triloknath, Re-'^aphagin Lahnl). 8 leaves, 30 by 9| cm.
-
-IS. Shes-rab-Jfcyi-pha-rol-tu-phyin-pa, fragment of a Tibetan MS. of the eleventh or twelfth
-century, containing the Prajhaparamita, excavated from an ancient mchod-rten at Kyelang, by
-Rev. G. Hettasch.. Two boxes full of large leaves, more or less complete. Kept at Simla.
-
-19. Votive book, in fragments, Tibetan MS. of the eleventh or twelfth century. It refers to the
-dedication of the Prajhaparamita, mentioned under No. 18, and also to the cremation of an Urgyanpa
-lama. Excavated from an ancient mchod-rten at Kyelang by Rev. G. Hettasch. About 26 sheets
-have been preserved, more or less complete ; 18 by 9 cm.
-
-II. POLKLOEB.
-
-1. Ro-ngo-rub-can-ni-sgrungs-yin, Tales of the corpse Ngo-rub-can, collected in Purig by Munshi
-Ye-shes-rig- adzin of Khalatse. (These tales remind us of the Vetalapahcavimsatika); 21 ps. 4°.
-
-2. Nyo-pai-chang-glu, The Drinking-songs of Khalatse. Taken down by Munshi Ye-shes-rig-^adzin
-of Khalatse; 10 ps. 4°
-
-3. La-dvags-dang-bu-rig-yul-so-soi-glui-spre-cha-yin, a collection of songs from Ladakh and Purig
-
-taken down by Munshi Ye-shes-rig-'^adzin of Khalatse ; 39 ps. 4°,
-
-4. Various songs from Ladakh, taken down by Munshi Ye-shes-rig-’ adzin of Khalatse, and others
-52 ps. 8^.
-
-5. La-dvags-kyi-glu, 14 songs from Ladakh. Writer unknown. 12 ps. 8°.
-
-6. A collection of 28 historical songs from Ladakh, taken down by Munshi Ye-shes-rig-^adzin of
-Khalatse ; 18 ps. 8®.
-
-7. Ke-sar-gyi-gying-glu-lnga-yod, Five songs in praise of Kesar, taken down by Ye-shes-rig-‘’adzin
-of Khalatse ; 6 ps. 8®.
-
-8. Tales from Lahul, in Bunan and Tibetan, appendix to Die mythologischen und historischen.
-Erinnerungen der Lahouler taken down by bZod-pa-bde-chen of Kyelang ; 6 ps. 8®.
-
-9. gTam-dpe-ni, a collection of Tibetan proverbs from rGya, Ladakh, collected by dGa-phun-thsogs-
-of Kyelang ; 26 ps.
-
-10. Bag-ma-btang-za-na-nyo-pas-sgo-la-btang-cas-si-dpe-cba-yin, Marriage-songs of Khalatse, and.
-called Lhasa-songs from Khalatse, taken down by Ye-shes-rig-’adzin of Khalatse ; 19 -b 7 ps. 4®.
-
-
-121
-
-
-11. sBal-yul-gyi-glu-yin, Songs from Baltistan^ taken down by Ye-shes-rig-’adzin of Khalatse;
-8 ps. 4°.
-
-12. La-dvags-kyi-glu-kka-shas-bzliugs-so^ 32 Historical Songs from Ladakh^ written by a native
-of Leh ; 12 ps. folio.
-
-13. Phyi-dbang-gi-gln-kha-shas-bzhugs-sOj Songs from Phyi-dbang. Taken down by a native
-of Phyi-dbang in Ladakh ; 24 ps. 4°.
-
-14. Phyi-dbang-gi-gling-glu-bzhugs-so^ the Gling-glu of Phyi-dbang, written by Ye-shes-rig-^adzin
-of Khalatse ; 13 ps. 4°.
-
-15. Thsod-pa-dang-gln-dang-gtam-dpe, a collection of riddles, songs, and proverbs from Khalatse
-coUected by Munshi Ye-shes-rig-’adzin of Khalatse ; 21 ps, 4^.
-
-16. Pa-cha-chen-mo-dang-rgyal-po-chen-poi-sgrnngs-yin, Fairy tales from Pnrig. Taken down by
-Munshi Ye-shes-rig-^adzin of Khalatse j 68 ps. 4°
-
-17. Folklore collected on the road, taken down mostly by bZod-pa-phun-thsogs, 11 + 4 ps. S°.
-
-18. Short description of mTho-lding, Guge, by Lobzang of Poo. One sheet with writing on
-one side.
-
-19. A Tale of Human Sacrifices at Sarahan, Bashahr, taken down by PinJi Lai ; 3 ps. 8°, In
-Urdu.
-
-
-122
-
-
-APPENDIX C.
-
-NOTE ON EAWALSAE, MANDl STATE.
-
-On the 22n<i Janaary 19 10^ I visited Rawalsar with a guide;, and on the road I met with several
-Tibetans, all from tne western British parts of Tibet, who ha l come here on pilgrimage. At Eawalsar,
-high up on the hillside, there is a little lake, about half a mile in circumference, amidst a most glorious
-vegetation of palm trees and other foliage. The Tibetan name of the lake is Pa-clma-can lotus-possess-
-ing.'’^ This name is mentioned by K. Marx in his three documents,^*’ in connection with a passage in
-the rGyahraJj^ which he translates to the place where the water is fiery. This rendering is, however,
-misleading ; for the Tibetan text w’hich he thus translates Clm-la-vie- ahar is really the name of another
-lake. We must not, therefore, suppose from this rendering that the water of the Rawalsar lake is hot.
-Quite a different lake situated in Nepal territory is called Chula-me- ahar and may possess hot springs.
-We received this information from a Tibetan pilgrim on his way to Rawalsar who gave us the follow-
-ing list of Tibetan places of pilgrimage in Nepal: — (1) Bya-lung Ka-skor, (2) Chu4a-me- alar,
-(3) rJDo-la-me-alar, '^4) Tsan-dan Bhag-mo, (6) Shivg4dan Bhag-mo, According to Professor GriinwedeP
-Chibar[-Chila mehar) is the place where Milaraspa died in A, D. 1122. He says that it is situated near
-Nalan on the Tibeto-Nepalese frontier.
-
-The lake of Rawalsar has become famous on account of its connection with the Buddhist priest
-Padma-sambhava who is supposed to have dwelt here. Tibetan literature connects Padma-sambhava with
-Zahor, the Tibetan name of Mandi j but it is not clear, whether the name Zahor refers to the Mandi
-State in general or to Mandi town. The Tibetans believe that his spirit still dwells in the tree on the
-little floating island of the lake. In their view it is his initiative which moves the island about,
-whilst other people attribute its movement to the wind. There are many wild ducks on the lake which
-enjoy the safety of the sacred spot, and the waternuts (ifrapa natans) are eagerly collected by the
-Tibetans, who carry them to their homes as objects of sanctity.
-
-On the shore of the lake the Tibetans have a Lamaist temple which is asserted to have been
-recently renovated. It was rebuilt by the father of the present owner who belongs to a Kunawar
-family. This temple is furnished with one or two Nepalese bells which have long inscriptions.
-When we were at Rawalsar, Puntsog found a bell with an inscription in Nagari characters. The
-language seems to be Nepalese, but no one has as yet been able to read it. Miss Duncan, who was here in
-1906, discovered a metal prayer wheel with a Tibetan inscription in two lines from which we learn that
-the man who rebuilt the temple is called Thse-ring-dor-rgyas, and that the name of the shrine is
-Shag-thub-ehen-po.
-
-There are, however, many Tibetan inscriptions carved on rocks round the lake. They are mostly
-invocations and besides the 0® mani ^adme hum, they contain endless repetitions of the following
-formula j
-
-Ohi a hum Vadara guru Padma siddhi huh.
-
-Om Vagisvari muh.
-
-Om Vadzramtva huh
-
-and perhaps several others. The first of them is an invocation of the famous lama Padma-sambhava
-under a name by which he is also known in Lahul and Rubshu, and probably in other parts of Western
-Tibet. The second formula is an invocation of Mafijusri under the name of Vagsvara and the third is
-addressed to Vajra-sattva. It should be noted that the combination of the first two incantations is very
-frequent in Lahul. This is by no means extraordinary, for Padma-sambhava is closely connected with
-
-
-^ Mytliologie,
-
-
-123
-
-
-the Tibetan emperor Khri Brong Icle btzcm who invited him to Tibet and who is regarded as an incarna-
-tion of Manjusri. But also the third invocation we find in Lahul combined with the former two ; for
-instance on the rock at Yurnad near Kve-Iang (Lahul) which w’as photographed bv Dr. Vogel. Is it
-possible that Padma-sambhava who made ample use of the vajnc (thunderbolt) was believed to be an
-incarnation of Vajra-sattv^a ?
-
-It is of great interest that the connection of the Buddhist teacher Padma-sainbha\a with Rawalsar
-is asserted not only by Tibetan Buddhists, but also by the Brahmans of the Hrfha. T)r. Vogel has the
-following note in his article on Triloknath^ ‘'Here (at Rawalsar) in an absolutely Hindu country w^e
-find Padma-sambhava, the founder of Buddhism in Tibet, worshij)ped not only by lamas who have
-their own dgon-jpa here, but equally by Brahmans who call him Rishi Lomasa and even possess a
-Mdhdtmi/a>, in which the local legend is given in its Brahmanic version.”
-
-The Siva temples make a very beautiful pictoi'e along the shore of the lake and are undoubtedly
-older than the present Lamaist dgonpa. The stone figures of the bull Xandi in front of them struck me
-as being particularly well modelled. The ancient dress of Mancli Buddhists has been preserved in
-Lamaist representations of Padma-sambhava. The unusual kind of the Lamars head-dress is still
-known as Zalior-ma^ Zahor being the Tibetan name of Maadi. As regards the many Tibetan rock
-carvings on the shore of the lake, I find it impossible to assign a fixed date to them. The forms of
-characters employed certainly do not suggest their being contemporaneous with Padma-sambhava;
-but as many of them look very time-worn, they may have been carved within the last five hundred years.
-
-One of the Tibetans I met at Rawalsar told me that he intended to travel straight to Amritsar, as
-this was another ^lace connected with Padama-sambhava. I w’as astonished to hear such a statement,
-and resolved to make enquiries on the spot.
-
-Let me now add a few notes on Mandi, collected from Tibetan historical works- There can exist
-no reasonable doubt as regards the identification of the Tibetan Zahor wdth Man^l ; for on our visit to
-Rawalsar we met with numerous Tibetan pilgrims, who all said that they wrere travelling to Zahor,
-thereby indicating the Mandi State, if not the town. In the biography of Padma-sambhava, and in
-other books referring to his time, Zahor is frequently mentioned as a place where this teacher (c. 750
-A. D.) resided. The famous Buddhist teacher Santi Rakhshita, who went to Tibet, was born in
-Zahor. Again in the days of Bal-pa-can (C. 800 A. D.) we find the statement that during the
-reigns of his ancestors many religious hooks had been brought to Tibet from rGya (India or China), Li,
-Zahor and Kashmir. Zahor was then apparently a seat of Buddhist learning and it is even stated
-that under the same king Zahor was conquered by the Tibetans. But under his successor, the
-apostate King Langdarma, many religious books were brought to Zahor, among other places, to save
-them from destruction.
-
-Among the Tibetans there still prevails a tradition regarding the existence of hidden books in
-Mandi, and this tradition in all probability refers to the books above mentioned. Mr. Howell, Assistant
-Commissioner of Kulu, told me that the present Thakur of Kolong, Lahoul, Lad once been told by a
-high lama from Nepal, where the books are still hidden. Unfortunately the had entirely
-
-forgotten the name of the place. My enquiries on the spot were of no avail, as none of the lamas and
-Tibetan laymen could or would tell where the books were concealed. I can suggest only one way
-of finding out the truth (or otherwise) of the tradition. A reward in money might be offered to the
-Thakurs of Kolong in order to induce them to make another attempt to find the old books. It will
-be remembered that the Thakurs of Kolong found out among other things who were the murderers
-of Schlagintweit.
-
-
-E 2
-
-
-1 S. B., Yol. LXX, p. 39.
-
-
-124
-
-
-APPENDIX D.
-
-GENEALOGY OE THE EAJAS OE BASHAHE.
-
-Mr. H. A. Rose, I.C.S., while in charge of census operations in the Panjab, procured a copy of
-the genealogical roll of the Rajas of Bashahr. It is a list of 120 n'jLtnes, the years of accession and
-death being added in each case according to '^the era of Yudhishthira/^ As Dr. Prancke has pointed
-out in the course of his journal (above p. 8) the use of the cognomen Singh throughout the pedigree^
-renders its euthenticity highly doubtful, except for the portion dealing with the last three or four centu-
-ries. Among the ruling houses of the Panjab Hill States the cognomen in question does not seem to have
-come into use until the 16th century. In Chamba it replaced the appellation of mrman and in Kulu
-that of Fdl. ^ If any further proof of the absolutely unreliable character of the earlier part of the list
-were wanted, I need only mention that the fifth Raja (supposed to have lived 153 years after Yudhish-
-thira !) bears the half Persian name of Gulab Singh, A name of this kind cannot, of course, have
-been in use in India previous to the Moslim conquest.
-
-I wish, therefore, to reproduce here only the concluding twelve names of the genealogy, ending
-with Raja Shamsher Singh, the present ruler of the State, who is mentioned in Dr. Francke^s account
-and portrayed in Plate IV, b. 1 cannot, of course, vouchsafe the accuracy of the dates assigned to each
-Raja, but it is noteworthy that Kehari Singh, who is said to have reigned from A.D. 1639 to 1696, is
-the same who concluded in A.D. 1650 the treaty with Tibet of which Dr. Prancke procured copies in the
-course of his tour (see above p. 24). I give in each case the names both according to the spelling of the
-list supplied to me and in their correct form.
-
-
-Hari Singh
-
-' • . acc.
-
-1464
-
-obiit
-
-1512
-
-Chhatar (Chhattar) Singh ...
-
-
-1512
-
-is
-
-1574
-
-Bhoop (Bhup) Singh , • ...
-
-
-1574
-
-91
-
-1688
-
-Kalyan (Kalyan) Singh , . . ,
-
-• * >»
-
-1588
-
-99
-
-1639
-
-Kehari (hehari from Skr. Kesari) Singh
-
-• •
-
-1639
-
-Si
-
-1696
-
-Bi]'e (from Skr. Yijaya) Singh ....
-
-. . . ,,
-
-1696
-
-S9
-
-1719
-
-Ode (Tide from Skr, Udaya) Singh
-
-• • ' s>
-
-1719
-
-Si
-
-1767
-
-Bam (Ram) Singh
-
-* • >J
-
-1767
-
-ss
-
-1799
-
-Boodhar (Budar) Singh
-
-• » . „
-
-1799
-
-Si
-
-1844
-
-Oogar (Ugar) Singh ....
-
-• • •
-
-1844
-
-ss
-
-1878
-
-Mahindar (Mahindar or Yahendar) Singh
-
-»
-
-1878
-
-it
-
-1906
-
-Shamsher Singh
-
-„
-
-1907
-
-
-^ Chamba State Gazetteer ^ p. 81',
-
-
-INDEX
-
-
-Page
-
-B — contd.
-
-
-Page
-
-
-A
-
-Bu-rzhan, priests
-
-
-47
-
-Abbruzzi, Duke of
-
-• . • t » 7 0
-
-Brag-nag-mkhar, Khalatse .
-
-
-. . 9o
-
-Abcbi . . •
-
-97
-
-Brahma .....
-
-
-. 102
-
-Adam malig
-
-100
-
-Brahmapura (Chamba)
-
-
-74
-
-Akstobya
-
-• . • . • l4)
-
-Brang-mkbar (Brag-mkhar), Spiti
-
-
-43, 45
-
-Alchi
-
-32, 43, 78, 86, 88—94, 97
-
-Brom-ston
-
-
-■42,45, 90,97
-
-Al-cbi-mkhar-gog •
-
-. . . 56, 63, 72, 92
-
-Brom-ston-chu
-
-
-, . 46
-
-Al-loi-pa «
-
-90
-
-Brom-ston- gyi-s n a
-
-
-46
-
-Ambika . . •
-
-5
-
-Bruske, Rev. G. . , .
-
-
-10, 12, 13
-
-Amitabba . •
-
-. 32, 34, 43
-
-Bja-rgod ....
-
-
-21
-
-Amitayus . ,
-
-» • . . 33, 46, 9/
-
-Byams-cben temple
-
-
-93
-
-Amogbasiddba .
-
-32
-
-Byamspa .....
-
-
-44, 86, 101, 105
-
-Ananta
-
-91
-
-Byamspa (monastery), Leh ,
-
-
-70, 71
-
-Anantakirti, King of Nepal .... 51
-
-Byams-pa (temple), Basgo . •
-
-
-86, 105
-
-d* Andrada ,
-
-• . . . 1,28,36
-
-Byams-pa-chen-moi-lha-khang, Tabo
-
-
-. . 42
-
-Aryadeva .
-
-91
-
-Byams-pa-dgon-pa, Saspola , •
-
-
-88
-
-Asuras, the
-
-. 97
-
-Byang-chub-bd
-
-
-. 37, 41, 61
-
-Atisa
-
-1, 19, 23, 41, 42, 45, 50, 51, 52
-
-Byang-cbnb-sems-dpa, King
-
-
-41, 90
-
-Anrangzeb
-
-98
-
-Bjiui-dgon-pa ....
-
-
-27
-
-Avalokit^svara . .
-
-13, 31, 34, 46. 61, 80, 87, 89, 93,
-
-dBang-pao-brgya-sbyin (Indra) ,
-
-
-79
-
-
-94, 106
-
-dBang-gsing-dbang-po, prince
-
-
-77
-
-Awwal Masjid, Kashmir
-
-108
-
-’aBa-yul ....
-
-
-37
-
-Azmi, the historian
-
-•
-
-o
-
-00
-
-’aBu-dmar-laiu-bstan
-
-
-. . 102
-
-
-’Bum-lde, King . , . ,
-
-
-68, 74, 76, 81, 84
-
-
-B
-
-’aBri-khung-pa, sect
-
-
-96
-
-Baho
-
-• * . . . 6o
-
-^aBru-gu-ma ....
-
-
-22, 105
-
-Baltal
-
-107
-
-’aBrug-pa, order . 27, 32, 34,
-
-44, 57, 67, 74, 96
-
-Balti, Baltistan
-
-69, 72, 77, 84, 98, 101, 104
-
-’aBrog-pa, Dard . . •
-
-.
-
-60
-
-Bamburaha •
-
-4
-
-’aBrog-pai-mkbar, Khalatse
-
-.
-
-95
-
-Bang“kha
-
-59
-
-'aBrog-pai'mkhar, Leh
-
-•
-
-68, 77
-
-Basgo • • 7, 24, 59, 63, 82, 86, 87, 88, 91, 92
-
-’sBa-lu-mkhar . . .
-
-•
-
-72, 95
-
-Basbahr . 5, 6-
-
--12, 15, 24, 25, 28, 30, 31, 34, 35,
-
-
-43, 44
-
-0
-
-
-Basti Ram
-
-98
-
-Calvert .....
-
-
-27
-
-Bateson, Rev.
-
-73
-
-Cargill .....
-
-
-36, 43
-
-Bazar, of Leh
-
-70, 83
-
-Conway, W. M,
-
-
-. 104
-
-Beingrol .
-
-... . . 34
-
-Commissioner's Compound, Leh
-
-
-. 71, 80, 84
-
-Beutel, Rev.
-
-2, 3, 4
-
-Ctesias .....
-
-
-27
-
-Bhairava .
-
-• . . . • 8
-
-Cunningham ....
-
-
-53, 102, 105, 106
-
-Bla-ma-gu-rn, rock
-
-86
-
-hCu-gcig-zbal temple . » ♦
-
-
-97
-
-Blo-bzang-ye-shes
-
-. . . . , 46
-
-ICe-bde, village
-
-
-59
-
-Blon-chen-pa, clan
-
-• * ( • • 48
-
-Chad-pai-lba-kbang ,
-
-
-75
-
-Blon-po, house at Leh
-
-• • • . « 70
-
-Oliainba .....
-
-
-5, 74, 101, 105
-
-Bodro Masjid . •
-
-« . . . 108, 109
-
-Cbamba-Lahul ....
-
-
-2
-
-Bon-chos .
-
-21, 31, 65, 66, 92, 93, 97, 102
-
-Cliandl-devi, temple .
-
-
-6
-
-Buddha . 16, 20, 31, 32, 33, 40 -42, 44, 4S, 51, 53, 57,
-
-Ch'anegund ....
-
-
-67, IO4, 105
-
-62, 76, 78, 80, 83, 87, 89, 91, 92. 103, 109.
-
-Chang .....
-
-
-26, 34, 35, 37
-
-Bulbul
-
-108
-
-Cbangspa .....
-
-
-79, 80, 82, 84
-
-Bulbul Lanlrar .
-
-108, 109
-
-Char, festival ....
-
-
-2
-
-
-126
-
-
-INDEX.
-
-
-O'^contd.
-
-Chatterji, Director of Xashniir Arclissology
-
-
-94, 78, 90,
-94, 100
-
-
-Chandhari Khusbi MuLamniad
-Cbemre ....
-Chigtan ....
-China ....
-
-Chini ....
-
-Chogan . " .
-
-Choglamsa
-Cb os-drag
-
-Chos-grags-rg ja-mthsoi- dpal
-Chota Nagpur .
-
-Christian Church, Leh
-Chung-mkhar
-Chushod ,
-
-Chushol ....
-Chhatrarhl . •
-
-
-46, 59
-82, 97, 99, 100
-73, 103
-7, 10, 12, 13, 15
-. 11
-
-. 68
-
-
-Da
-
-Dabliug •
-Dalai Lama
-Dard «
-
-
-. . . , 60,73,101
-
-21
-
-. . . - 26, 27, 79
-
-48, 64, 60, 61, 67, 68, 71, 73,77, 80
-95, 99, 102, 104
-
-
-D — contd^
-
-Page
-
-Duncan, Miss J. E,
-
-. . 72, 122
-
-Dus-bzhi-lha-mo
-
-. 107
-
-Du*zhMa
-
-. 107
-
-bDe-skyong-rnam-rgyal , Kin g
-
-56. 57, 90
-
-bDe-ldaii-rnam-rgya), King . .
-
-59, 6:5, ?4, 85, 98, 99
-
-bDe-lpgs-rnam-rgyal, King .
-
-.88
-
-’aDu-kbang, at Mang-rgyu .
-
-93
-
-rDo-rje-'achang
-
-38, 96
-
-rDo-rje-sems-dpa . ...
-
-32, 89
-
-Dhanr.akirti ....
-
-91
-
-Dharma<;ala, Nirmand
-
-. 5, 6
-
-Dhruva ....
-
-. 10:i
-
-E
-
-East India Company . . ■ .
-
-69
-
-Edward, King Emperor
-
-90
-
-Eggerton, P
-
-. ' . . 45
-
-Ekasrlnga • .
-
-47
-
-Empire of the Eastern Women'
-
-. • . 65, 72, 74
-
-Endere, in Turkestan
-
-' . . . 92
-
-England
-
-. 108
-
-Esu .....
-
-67
-
-
-Das, Sarat Chandra
-
-
-19, -81, 45, 60, 85, 98, 103
-
-Fergusson
-
-5
-
-Dava Bam Sahni
-
-
-. 108
-
-Filipo de Filipi .
-
-76
-
-Debring . •
-
-• •
-
-» • . ,62
-
-Forbes, C.
-
-15
-
-Desideri . ^
-
-• •
-
-. . . 68, 69
-
-
-Diack , ' .
-
-• •
-
-. - . . .10
-
-
-G
-
-Divan Eari Ghand -
-
-
-. . . . 96
-
-Gadgari, mo)iastery
-
-. 30
-
-Dobbaling •
-
-• #
-
-21
-
-Ga-ga-sod-nams
-
-45
-
-Dogra . .
-
-43, 46,
-
-58, 69, 66, 67, 70, 74, 75, 83,
-
-Ga-ldan-thsang
-
-24, 59
-
-
-96, 98, 100, 105
-
-Garni, name of a mask
-
-. . . . 2. 3
-
-Dougga
-
-• «
-
-105
-
-Gandharvas
-
-38, 80
-
-Don-grub-rnam-rgyal, King
-
-56, 69
-
-Ganesa . .
-
-. . . .6,38,42,91
-
-Don-ldan . . -
-
-
-79
-
-Gar, minister
-
-103
-
-Don-yod . . -
-
-
-. . . . 79
-
-Garkunu .
-
-. - . . . 67
-
-Dou*yod‘gi’ub*pa
-
-
-32
-
-Gar-log -(Turkestan ?)
-
-. ^ . . . . 51
-
-Dos-mo-che, festival
-
-
-3
-
-Gaithog
-
-. . - .
-
-Doura, festivaL .
-
-
-2
-
-Garuda
-
-. 11,15,32,48,62,97,99,103
-
-Drag-mkhar‘rtse
-
-
-. . . . 45
-
-Gaura - . • .
-
-7
-
-Dra-lang, at Pu
-
-
-22
-
-Gelugpa, order . , 16, 27, 35, 37, 43, 47,52, 88, 104
-
-Dr&ug-khar
-
-
-. • 43, 44, 47, 48
-
-Gerard, brothers
-
-4, 8, 9, 10, 18, 15, 16, 1 7
-
-Drang-tse . •
-
-
-28, 58, 59, 60
-
-Gilgit - .
-
-. - . . . .48
-
-Dras . ,
-
-« «
-
-. 67, 98, 104-107
-
-Glan-chen-kha-bab, Satluj
-
-.... . 45
-
-Drathang . •
-
-
-49
-
-Glang’po-sna, monastery
-
-. . . n
-
-Drew
-
-• 1
-
-. 52,-54, 66, 58, 61, 96, 104
-
-Gling
-
-. ' . . . 33
-
-Dri-ri-dgon-pa . -
-
-
-. 27
-
-Gling-sin g- chen^ rgyal-po
-
-. - . . .33
-
-Drum-ba, Ago, (Dhruva ?) .
-
-10^, 108, 104
-
-Gog-bzang-lha-mo .
-
-... . . . 65, 79-
-
-Duka . . ’
-
-•
-
-16
-
-Gol, mosque
-
-. - . . .104.
-
-
-INDEX
-
-
-127
-
-
-G^conta^
-
-
-G5padri . . ■ .
-
-Grang-mkhar, Spiti
-Grong-dpon, house at Leh ,
-Gmiiewedel, A.
-
-Gugo 7f 12} 18j 19} 20} 22} !
-
-36} 37} 40} 41
-Gund . . . •
-
-Gnng-ri} moTintrtins*
-
-Gud g-sugon-snyan-lha
-Gulbug ....
-Gurkhas . . . .
-
-dGa-phiin-thsogs
-dGa-ldau, see Ga-ldan-tlisang
-dGe-bai-bshes-gnjen .
-dOe-’adun-grub .
-dGe-lug-pa, see Ge-lugpa^
-dGon-pa, village
-dGon-pa, at Kanam . -
-dGon-pa-pa, house at OMgtan
-dtion-pa-so-ma, Leh . .
-
-dGra-lha . . . ,
-
-raGo-cheu-mchod-rteu ,
-mGon-Khang, Leh
-mGon-po . , . .
-
-sGa-ra . . ...
-
-sGar-rtse, monasteiy . . .
-
-sGye-ra . ...
-
-sGrol-ma . . ...
-
-sGrol-gser
-
-TGam-po . . . , .
-
-xGya, village ,55} 58,62,
-
-rGya-mthsa, temple . . .
-
-aGya-zhing-pa, dan . .
-rGyu-mkhar
-Ghulam Khan ...
-
-
-23} 26} 27} 28, 30
-45, 46} 50, 51, 3
-
-
-63} 64,. 65
-
-
-Page
-
-. 109
-
-. . 43
-
-7J
-
-. 15} 44
-32, 34}
-
-o2, 74, 77} 89
-. 107
-37
-
-. 21
-
-
-Haidar, Sultan .
-
-
-. 77
-
-Hang . . .
-
-. .
-
-
-21
-
-Hang pass
-
-
-. ‘
-
-30
-
-Hanu . . ^
-
-. .
-
-
-. . . 67,72, 101
-
-Harcourt, Capt. . .
-
-
-, . . . 4, 15
-
-Hari Parbat . .
-
-
-• w
-
-. 109
-
-Hari-rtse . .
-
-
-... .67.
-
-Hatti ,
-
-- .
-
-
-4
-
-Hedin, Sven
-He-ma-la . . -
-
-
-23, 27, 63, 61
-
-... . ■ . 67
-
-Hem-babs .
-
-
-. . 67, 105
-
-Hemis . * .
-
-. ^
-
-
-. ■ 57, 66, 66, 67, 78, 84
-
-Henasku .
-
-. *
-
-
-. 67
-
-Henir, clan
-
-. *
-
-
-.48
-
-
-Page
-
-48
-
-. . . 45
-
-67
-9
-
-. . 22, 109
-
-24, 27
-74
-
-. 85,37,38
-
-8} 42, 45, 46, 47,
-
-48, 54
-27
-
-. 67
-
-64
-
-
-19, 23, 32, 46;
-
-
-lS.-^contd .
-
-Hensi, clan
-Heyde, A W; Eev.
-
-Hibti ....
-
-Hidimba temple, Manali
-Himalaya ....
-
-Hira ....
-
-Hiuen Tsiang . . .
-
-Horrng . . . ,
-
-Howcjll, Assistant Commiusioner, ,
-
-IHrib-skyes (Shibke)
-
-IHunupatta
-
-IHa-bab-mchod-rten .
-IHa-bt^u-rtse-lha-khang, Khanji
-IHa-bla-mai-dgon-pa .
-Ha-bla-ma-ye-shes-*od .
-
-IHa-brang, Kanam*
-
-Hvbiang, Kyabar
-1 Ha-dbang-blo-gros
-IHa-chen-hha-gan , . •
-
-Ha-chen-dngos-grub .
-
-IHa-chen -K un-dga-mam^rgy al
-IHa-chen-rgyal-po
-iHa-chen-shes-rab
-IHa-chos .
-
-Ha-dbang-chos-rje
-IHa-Khang, at AIcbi .
-IHa-Khang-ched-po .
-IHa-Khang-chen-moi-sgo-Khang.
-iHa-Khang-dkar-bynng,.at Tabo
-iHa-Khang-gong-ma. .
-IHa-Kbang-gong-po .
-IHa-Kbang-pa, bo^se-name .
-lHa-Khang-sp-ma,.SaspoJa . .
-IHa-’od-pai-dgop-pa .
-
-IHa-ri ....
-IHa-rgyal ....
-IHa-sa, see Lhasa
-IHa-sha-man-da-re-ha, Haii dftrava
-
-
-Ibrahim ]^an . . . . ' . . 107
-
-Idgah ^ • -10^
-
-Igu , . - • • . • • . • • *59
-
-India • 1,40, 64, 67, 74, 75, 89, 90, Ql,- 92, 93
-
-95 , 100 , 101 , 104 , 108
-
-Indian Tibet » • • ♦ • . 1, 3, 24, 47
-
-Indra . • . - . • . • . . 14
-
-Indra-hodhi-rnam-rgyal - . . . ‘ . S6
-
-Indus • • 45, 5o, 56, 58,-69, 60, d5, 66, 67,
-
-68, 69, 76; 94, 99
-
-
-at Tabo
-
-
-128
-
-
-INDEX.
-
-
-Jadoiig
-Jami’ mosque
-Jaogi
-
-Jaschke, H. A. .
-
-Java
-
-J o-mo-rdo-rje
-Jo-moi-dgon-pa, Li
-Jonaraja .
-
-Jugda
-
-‘aJam-dbjangs .
-
-‘a J am-dbyangs-Khang
-a J am-dbyangs-mam-rgyal
-aJams-cbung temple
-IJang
-
-
-41,
-
-
-Page
-
-34
-
-108
-
-16
-
-79, 103
-32
-86
-31
-101
-48
-94, 97
-91
-99
-93
-79
-
-
-Kabul
-Kailasa
-
-Kalagtrung •
-
-iKalaruauya •
-
-Kail
-
-Kalmaks •
-
-Kamalasila
-Kanam
-KanSwar
-Kancbauapurl .
-
-Kanika
-Kanishka
-Karaita, bird
-Kargil
-
-Kasbmii* State , 1, 50, 60, 62, 74.
-
-
-Kaze
-
-Keban Singb, Kiug .
-Ke'iar (desar)
-
-
-. 107
-
-12, 26, 27, 37, 6i
-. . . 20, 22
-. 101
-
-2, 5, 6, 8, 12, 13, 21, 22
-69
-91
-
-.14, 16, 17, 21
-10, 13, 14, 16, 21, 31
-8
-67
-67
-
-. - 4
-
-102, 104, 105
-78, 84, 89, 99, 100,
-
-104, 106, 107, 108, 109
-. 44,45,46,47
-
-. 7,24
-
-21, 22, 65, 68, 79, 80, 82, 102, 103,
-
-105, 107
-44, 47
-15
-
-
-Ki, monastery
-Kinam
-Kin
-
-Klu-grub .
-
-Klu-dkyil (Likyir)
-
-K615, caste
-Kolong, Labul ,
-
-Kouow, Sten, Dr.
-
-Kotgur
-
-Kotbi, at Nirmaud
-Koros, Osoma de
-Kuliuza, mask .
-
-Kula . 2, 5, 8, 9, 11, 14 , 15, 31, 46, 46, 48, 61 , 69
-
-
-. 2, 3, 4, 15 , 17, 48
-6
-
-16, 17, 34, 45
-
-
-Kumara
-Kun-d ^-snying-po
-
-
-91
-
-91
-
-
-K—confc^,
-
-Kyabav
-Kyibar
-Kytdang
-Kyuling
-dKar-rgya
-
-dKar-byung-lba-khaiig
-dKar-rtse .
-dKor
-dKyil
-
-d Kyi l-Kban g, I’abo
-bKa-rgyud, lama of Poo
-bKa-rgyud lama*?, tbe .
-bKA-gdams-pr, order .
-bKa-blon, bouse, at Leb
-bKa-blon-gyi-dbyar-sa
-bKa-blon-tbse-bstan .
-bKa-rdzong
-bKar-b?.o, garden
-bKor-rdzod, monastery
-bKra-shis-sgang ,
-bKra-sbis-sgo-mang .
-bKra-sbis-bstan-’apbel ,
-bKra-s his- matbong-dby angs
-bKra-sbis-rnam-rgyal .
-bKra-sbis-bzang-grub
-bKra*shis Ihun-grcb ,
-bKra-sbis-lbun-po
-rKyang-drag
-sKa-ra . . ,
-
-sKar-cbung-rdo-db yi n gs
-sKar-rdo .
-
-sKyabs-mkbar (Sbibke)
-sKyid-gling
-sKyid-lde-nyi-ma-mgon
-bsKal-bzang, queen ,
-
-Khaga Tanzin ,
-
-Khagiini (Lamayuru)
-Kha-gaii-stong-sku
-Kbanji
-Kbab
-Kbams
-Kbarbu
-Kbartag
-Kbarmang
-Kbalatse
-Kbolaring
-Kb.otan
-K by a gar, lake
-Kbyug
-
-Kbyung-po, clan
-Kbri-bkra-sbis-grags-pa-lde
-
-
-76,
-
-
-. 77,
-
-
-Page
-10, 35
-46
-64, 66
-
-
-46
-
-3o
-
-98, 99, 104
-. 19, 20
-45
-42
-96
-19, 96
-42, 52, 97, 100
-70
-82
-63
-27
-84
-
-, 54, 55
-30
-80
-76, 83
-34
-
-1, 89, 90
-
-
-.52, 63,
-
-
-86 , 86 ,
-
-16, 17:
-
-
-48,
-
-
-67, 94:
-
-
-31
-, 42, 76
-27
-74, 75
-64
-104
-26
-44
-88
-57
-69
-98
-87
-97
-21
-78,79
-98, 99
-34
-10 /.
-„ 96, 96
-20
-74
-61
-26
-48
-
-
-IlSTDEX.
-
-
-129
-
-
-K — contd,
-
-'Khri-stod, prince
-Kri-btsug-lde
-Kbri-btsug-’abum-gdugs
-Kbri-sultan
-
-Khri-srong-lde-btsan .
-Kbrig-rtse
-
-mKha-'agro-ye-shes gtso-rgyai
-mKbar-gog, (Shipke) • •
-
-mKhar-cbung, Leb
-mKbas-grub-pa
-
-
-Page
-
-93
-
-68
-
-67
-
-99, 105
-91, 92
-46, 47
-46
-25, 26
-70
-35,42
-
-
-Labpa Khansman 93
-
-Ladakh . 2, 13, 20, 21, 22, 23, 24, 25, 26, 30, 31, 34, 43*
-44, 45, 46, 49, 53, 54, 55, 58, 69, 60, 61, 02, 63,
-64, 66, 67, 68, 69, 70, 71, 72, 73, 74, 76, 77, 78,
-79, 80, 81, 82, 83, 86, 87, 88, 93, 94, 96, 98, 99,
-103, 105, 106, 107, 109
-La-dvags-gong'Zhai-thang . . . ,85,86
-
-La-dvags-rgyal-poi-mchibs-ra .... 107
-
-Lahul . • 1, 2,9, 14,22,31, 43,44,96,105
-
-
-Lamayuru
-
-Langdarma
-
-La-rtsa
-
-Latu . . . .
-
-Laufer, Dr. B. .
-
-Lawrence, Sir W.
-
-Leh , 3,7, 23,30, 36,
-
-
-Li ...
-
-Lid
-Likyir
-Ling-shed
-Lion Gate (Leh)
-
-Lithang
-
-Lohsjang, of Leh
-
-Lobzang, of Poo
-
-Loipa
-
-Lokesvara
-
-Longstaif, Dr, .
-
-Lo-tsa-»bai-lha-Khang, Poo
-
-Lo-tsa-bai-lha-Khang, Nako
-
-Lo-tsa-bai-lha-Khang, Alchi
-
-Lower Ladakh .
-
-Luther
-
-Lyall , . *
-
-
-. • . .82, 96, 97, 98
-
-3,34
-
-106
-
-64
-
-. . . .21
-
-107,108
-
-, 23, 30, 36, 45, 47, 49, 68, 65, 66, 68, 69,
-70, 71, 72, 73, 74, 75, 77, 78, 79, 80, 81,
-
-82, 83, 84, 86, 87,90,91, 93, 96, 97,
-
-105
-
-Lhanartsa 46
-
-Lhasa . 4, 7, 24; 26, 31, 86, 42, 47, 52, 59, 64, 68, 77, 78,
-
-‘83, 88,92, 99, 103
-
-.30,3482,34,69
-. . . 21
-86, 87, 88
-
-
-. 78
-
-. 44
-
-. 81
-26, 27, 28
-91
-93
-
-‘27,109
-. 20
-.^32,34
-c 91
-53
-
-. *3
-
-.47,48
-
-
-Magadha .
-
-Ma-gi'os . , • .
-
-Mabakala
-
-Mahara] Ganj, Kashmir
-Mahendra Singh
-Mahesvara temple, Sungra
-Maitreya .
-
-
-Maitreya temple
-Ma-Khang, monastery
-MaHk, of Kashmir
-Malvi Haidar Malik
-Manali
-
-Manasarovar Lake
-Man chad .
-Mang-rgyu
-Mang-yul
-
-Mang-yul-gyi-Ke [ru]
-Ma-ni-gscr-mo, Leh
-Manjughosha
-Manjusri .
-
-Mar-pa
-
-
-50
-
-. 26, 27
-. 97
-
-. 108
-. 17,34
-9
-
-44, 70, 71, 76, 80,
-
-, 87, 93, 101, 102
-105, 106^
-76
-
-. 103
-
-. 105
-
-. lOS
-. 9, 15
-!, 27, 37, 52, 61, 77*
-9, 14, 22, 106
-. 93, 94
-46
-
-, . • 46
-
-.75,87
-. 40, 94, 97
-
-. 89,93
-90, 96
-
-
-Marshall, J. H., Director General of Archseology 1, 3, 68,
-
-78
-
-
-Mar-rtse-long
-
-•
-
-. , . . 64,66,67
-
-Mard, Dr. K. *
-
-.
-
-. . 74,76,79,83,86,87
-
-Ma-Spang
-
-
-26,37
-
-Maudgalyayana «
-
-.
-
-
-Meebold « .
-
-a
-
-78
-
-Meru . •
-
->
-
-. . . 46, 65, 66, 67
-
-Mes-ag-thsoms, King
-
-67
-
-Mezmi, mask
-
-•
-
-3
-
-Mi-’akhrugs-pa
-
-
-. . u . . 14
-
-Mi-la-ras-pa
-
-
-96
-
-Mig-mang game
-
-
-12
-
-Minniken, Mr.
-
-
-10
-
-Mi-pham-mgon
-
-
-64
-
-Mira
-
-
-66
-
-Mo-lha .
-
-
-. . . 21
-
-Mon
-
-54,66,
-
--60, 61, 62, ^,'64, 66. 67, 75, 80'
-
-Mongols .
-
-
-. 69, 80, 86
-
-Mon-yul .
-
-
-61
-
-Moorcroft 45, 59,
-
-62, 68,
-
-64, 66, 68, 69, 70, 98, 101, 106
-
-Moravian Mission
-
-
-10,12,18 68, 71,73,'76
-
-Mosque, Leh
-
-
-70. 83
-
-Murals
-
-
-.82, 89,90,98,99
-
-Mukund Ram
-
-•
-
-84, iOO, -106, 108
-
-Mulbe
-
-
-aOl, 102,104
-
-MuJhe Ohamba
-
-
-. . , 101, 102
-
-Mundaii •
-
-
--10
-
-
-130
-
-
-INDEX.
-
-
-HL—coKtd. Pase
-
-
-0
-
-Pags
-
-Han-dig-lha-khang
-
-. . . . 99
-
-’Od-dpag-med
-
-
-44
-
-Musi . • , •
-
-. . . . 67,78
-
-Oliver, Capt.
-
-•
-
-98
-
-Mu-rtse, garden
-
-• • • • 84
-
-On-po-pa, bouse-name
-
-.
-
-. 102
-
-Jkljang-ngan-mcd-meliog-dpal
-
-• • • • SB, 41
-
-
-N
-
-
-Padmasambbava
-
-P
-
-20, 31,
-
-34, 44, 46, 53, 86, 109,
-
-Nacliar ....
-
-• • « 9, lo
-
-
-122
-
-^aga » « 1 ij 15, 23
-
-, 26, 27, 58, 66, 92, 97, 99
-
-PahSri, dialects
-
-
-10
-
-Nagarjuna . , * •
-
-. 40, 52, 91
-
-Pandavas, temple of tbe
-
-
-6
-
-Nako • • . •
-
-. . 3, 25, 32, 33, 34
-
-Pandras
-
-
-. 107
-
-"Fara-gya • • o •
-
-10, 24, 27, 30, 37
-
-Pangi
-
-
-13
-
-ISTamifca pass
-
-. 101
-
-Pangkong, lake
-
-
-. 28, 59, 61
-
-■Nandi ....
-
-6
-
-Pardsurama
-
-
-6
-
-Nandu, clan
-
-tar* 48
-
-Pasbkynm
-
-
-68
-
-Naropa ....
-
-. . 91, 96, 107, 109
-
-Paunda
-
-
-9
-
-Hathang, Spiti •
-
-. • • • 43
-
-Peshawar
-
-.
-
-45, 109
-
-Hema ringmo
-
-. . . . 50
-
-Petersburg, St.
-
-.
-
-79
-
-Nepal ....
-
-, « • • 30, el
-
-Pindi Lai . 1, 2, 3, 5,
-
-6, 11, 25, 29, 32, 38, 42, 48, 49,
-
-Nestorians
-
-. . . . 60
-
-
-56, 57,81, 93, 106, 109
-
-Neve, Dr. E. and A. . .
-
-• • • ^ 109
-
-Pliny
-
-. .
-
-27
-
-New Palace, Lek
-
-. 70, 71
-
-Poo . 10, 12, 14, 15, 17, 19, 20, 21, 22, 23, 25, 26, 27,
-
-Nickoll, Mr. . ,
-
-.108
-
-
-28, 29, so, 46, 60, 82, 92
-
-Nidar ....
-
-60
-
-Potala, at Lhasa
-
-
-42
-
-Nirmand . ,
-
-• < 3, 4, 5, 6, 9, 14
-
-Pradyumna
-
-
-8
-
-Nii-th ....
-
-% • . . 3
-
-Puntsog, Tibetan assistant
-
-
-, 87, 91, 93, 98, 101
-
-N ono, of Spiti ,
-
-• • • 44, 47
-
-Purang
-
-
-. 23, 36
-
-N o-no-ksod-nams- j o-rgyas
-
-. • . • 63
-
-Pnrgynl
-
-
-. 25, 37
-
-No-no-bsod-noms-liinn-grub
-
-63
-
-Puri
-
-
-27
-
-NotoYitcb
-
-. . . . 66
-
-Purig
-
-
-108,104, 106
-
-Nnbra ....
-
-. 77
-
-Purig Sultans
-
-
-. . , . 99
-
-Nn-Kuo
-
-* • a • 74
-
-Puspa-ari
-
-
-. 109
-
-Nyi-ma-mgon •
-
-23, 68, 93
-
-Pyiu
-
-
-. 31, 47
-
-Nyi-ma-rnam-rgyal .
-
-• • • • 68
-
-dPal-rgyas, munshi ,
-
-
-71, 78, 82, 83
-
-Nyeba, Lis eight sons
-
-* • . • 1 02
-
-dPal-ldan-’abrug-pa .
-
-
-96
-
-Nyetliang
-
-• • • • 52
-
-dPal-ldan-lha-mo
-
-
-97, 103
-
-Nyoma
-
-55, 56,557, 58, 59, 60, 62
-
-dPe-thub
-
-
-. 75, 84
-
-gNas-pbne-pa
-
-• • • # 9t>
-
-sPang-dmar-lha
-
-
-21
-
-gNya-kbri-bt san-po
-
-• . 37, 86, 88
-
-sPu (Poo)
-
-
-. . . 19
-
--rNam-rgyal^rtse-mo
-
-. 68, 70, 76, 77, 85, 87
-
-sPyan-ras-gzigs
-
-
-. 46, 89, 94
-
-rJNam-pux-snang-mdzad .28, 38, 40, 41, 42, 89, 90, 91,
-
-sPyan-ras-gzigs monastery
-
-
-. 70, 71
-
-
-93
-
-Pharang pass
-
-
-. 46, 48
-
-TNam-tbos-sras
-
-76
-
-Pbog, Spiti
-
-
-... . 48
-
-irNying-ma-pa, order
-
-. 27,31,47
-
-Pho-tho-la, pass
-
-
-98
-
-sNnang-ba-mtlia-yas
-
-. . , . 32
-
-Pho-to-gong-kba, pass
-
-
-61
-
-sNynr-la
-
-93
-
-Pho-lba
-
-
-21
-
-'sNye-mo
-
-. . . . 84, 86
-
-Phu-ga .
-
-
-.60,61
-
-sNyegs-pa, clan
-
-• • • . 48 ‘
-
-Phu-ga, brook
-
-
-. , . 56, 58
-
-Nyag-dbang-rnam-rgyal, lama
-
-. . . . ^ . 60, 67
-
-Phun-thsogs, see Puntsog
-
-
-93
-
-
-• , • * . 60
-
-Bhul-byung
-
-
-41
-
-.niNgon-mkliyen-rgyal-po .
-
-41
-
-Phyag-rdor
-
-, •
-
-. 89, 94, 103
-
-
-INDEX.
-
-
-131
-
-
-? — contd. Page
-
-Phyag-rdor-jo, minister
-
-• • • . 76, 8o, 86
-
-(Pliyang
-
-84 85
-
-Phyi-dbang . •
-
-• • • . « 85
-
-Phyi- dbang-stag-rtse
-
-5
-
-B
-
-Ba-ca-lha-mo .
-
-50
-
-Bag-pa .
-
-87
-
-.Bainchan Shah
-
-108
-
-Kalpa-can
-
-. 47, 91, 92
-
-H ampnr
-
-. 4, 6, 7, 8, 9, 35, 48
-
-Ranghirpnr
-
-67
-
-Bang-dum monastery
-
-78
-
-Bang-rig, Spiti
-
-45
-
-Ra-nyid
-
-27
-
-Rapson, Professor
-
-. . . . 94
-
-Barang .
-
-13, 14
-
-Bareng
-
-. - . . . 45
-
-Batnabhadra
-
-.16, 20,27,28,50
-
-Batnasambhava «
-
-. 32
-
-Bawalsar . .
-
-. 122
-
-Bawling, Major
-
-28
-
-Bed College . .
-
-76
-
-Beichel, Bev. G. and Mrs.
-
-. 73, 76, 83
-
-Bi-phug temple
-
-80
-
-Bi-zhing
-
-22
-
-Big-pa-can, minister
-
-103
-
-Binchan Bhoti
-
-107, 108
-
-Bin? chen-hyun g-ldan
-
-32
-
-Ein-chen-zla-ba
-
-. 33,41
-
-Bin-cben-hzang-po
-
-16, 33,35,37,40, 41, 46, 60,
-52, 78, 82, 86, 87, 88, 89,
-91, 93, 96, 100, 102
-
-Bintan shahki masjid
-
-. 108
-
-Rogi
-
-12, 14
-
-'Bong, near Lhasa
-
-45
-
-Bong, Ladakh
-
-. - • . 64, 65
-
-Bong-chu-rgyud
-
-60
-
-Bose, H. A,
-
-8, 10
-
-Bubshu
-
-30, 48, 53, 54, 55, 60, 61,62, 66
-
-Rudro Singh, King
-
-17
-
-Rum-rtse . *
-
-. 62, 63, 64
-
-Russia - .
-
-• . . ^ 69
-
-Buthog
-
-61, 74
-
-Rva-sgrengs
-
-. 45, 51
-
-S
-
-•Sabu
-
-. • . • 68
-
-Sadhu, Khalassi
-
-7
-
-Sad-na-legs, King
-
-64
-
-^akti
-
-68,59,67,76
-
-
-S—
-
-Sakti temple
-
-Salt lake . • • .
-
-Sampalia (Ladakk)
-
-Samndiasena, Zing .
-
-Sandberg, Zer. Graham
-Sanid, monastery • . ,
-
-Santlrakshita • . • <
-
-
-Page
-. 102
-61
-74
-
-. 5
-
-. 27
-
-* 78
-
-. 91
-
-
-Saipan
-
-
-8, 9, 14, 17 18
-
-
-Saripnttra •
-Sarkhnng
-Saskya-gonk-mig
-Saskyapa order .
-
-
-Satluj valley
-
-
-1 , 2 ,
-
-
-Satrapa
-
-Satyamati . *
-
-Schiefner
-
-Schlagintweit, E. V,
-Schmitt, Rev. S. .
-
-Schnabel, Rev. B.
-Schuvter, Miss -
-
-Seljang, monastery .
-Seng-ge-sgang temple
-Seng-ge-kha-bab
-Seng-ge-mkhar, Shipke
-Seng-ge-rnam-rgyal, Zing
-
-
-• • • • 20
-• . . . 21
-
-• • o . 44
-
-• • • .44,47
-
-. . 86, 87, 88, 93
-
-7,9, 10,14,16, 17, 18, 21,
-22, 23, 26, 29, 30, 48
-. . . 103, 104
-
-67
-
-• . . . 79
-
-. . . 66, 67, 70
-
-e . . 71,72,81
-
-17, 18, 21, 23, 24, 25, 30
-, . • . 66 , 68
-. . . . 87
-
-• . . . 96, 97
-
-, 45,69
-, 26
-
-
-26, 57
-75,
-
-
-59, 60, 65, 66, 68,
-78, 84, 86, 98, 99
-
-
-Serlang . •
-
-Shasraran, Leh
-Shah Jahan
-Shakya-thnh-pa
-Sham Sher Singh, raja
-Shang valley
-Shargola
-
-Shar-rgan, festival .
-Shasn bridge .
-
-Ska we, the late Dr. P. E.
-
-
-. . . 37
-
-. . 84
-
-, . . 98
-
-, • 33, 41, 46
-
-* • 7,8, 18
-
-. , . 65, 66
-
-102, 103, 104, 107
-, 20, 21, 22, 82
-17
-
-56,57,58,59, 60,
-71, 72,82
-
-
-Sheh
-
-She-i*ab-zang-po
-Sh erring
-
-Sbigar-nagyr mosque
-Shimsa Zharhu
-Sbinggo
-
-Sbing-Khang .
-Shipke
-Shirima .
-
-Sikander Butsbikan
-
-Simla
-
-§iva
-
-
-. 67, 68
-. 103
-
-27
-
-. 104
-
-304,105
-. 104
-
-. 107
-
-
-15, 23, 24,
-
-
-25, 26, 27, 30, 81. 37, 54
-67
-
-. 108
-
-1,2, 15,58. 72, 82, 109
-
-
-2 , 5 , 6 , 12 , 20 , 21 , 22, 102
-
-
-132
-
-
-INDEX.
-
-
-T'-^Gontd*
-
-
-Sles, CLeh)
-
-Slob-dpon-zhabs-iies, temple
-Sod ....
-Sonamarg
-S5nar, caste
-Scrarang {Saraham) .
-
-
-33
-
-77, 105
-. 107
-
-
-1, 25, 30, 31, 35, 36, 37, 42, 43
-44, 45, 46, 47, 48, 50, 54,
-56, 61, 82
-. 32, 35,43
-
-.75,84
-
-
-97, 103
-4
-
-107, 108, 109
-
-91
-
-44, 67, 88, 91, 103
-
-92
-
-9. 12, 15
-
-
-77, 99, 104
-67
-42
-59
-
-
-Spiti mer
-Spitlnig .
-
-Spooner, Dr. D. B .
-
-Sri Devi
-
-Srinagar, Garhwal
-Srinasrar, Kashmir
-Sriiendrahodhi
-Srong-btsan-sgam-po
-Stein, Dr. M. A.
-
-Snngra
-Sumatikirti
-Sum valley
-Suryaiuati
-
-gSer-gyi-lha-Khang, Tabo
-g Ser-K b ri-mkhar
-gSer-bzang-drl-med
-gSum-tbsag, temple .
-bSod-nams, Wazir
-bSod-nams-malig
-gSham
-
-
-Tabo . 36, 37, 38, 40, 41, 42, 43, 46, 47, 51, 52, 82,
-
-86, 90, 92, 93. 97
-
-Takbt“i-Salaiman 109
-
-Tar 67, 94
-
-Tara . 17, 20, 33, 46, 67, 87, 89, 94,^97, 106
-
-Taranda 9
-
-Tea-bkra-sbis-*od-ratbo 80
-
-Ten-gser-po . , , . . 71, 81
-
-Tewar gorge .... .84
-
-Tibet . . 1, 2. 7, 9, 12, 15, 21, 23, 25, 26, 27, 28,
-
-34, 36, 37, 40, 43, 47, 48, 50, 51, *S3,
-
-67, 72, 76, 77, 78, 79, 85, 86, *”88, 92,
-
-94, 96,98
-
-Tilipa, Tilopa 91, 96
-
-Tirtbapuri 94
-
-
-Tilipa, Tilopa .
-
-Tirtbapuri
-
-Tirtbika
-
-Tise
-
-Ti&erm
-
-Togocbe, bonsename
-
-
-Trebeck
-Trench, Capt.
-
-Tretapuri
-
-Triloknatb
-
-Turkestan
-
-Turkomans . . •
-
-bTang-rgyud, monastery
-sTag-lung
-sTag-sna
-
-sTag-rtse . .
-
-sTag-tbsang-ras-pa ^ .
-
-Tbag-lang, pass
-Tbar-cben
-Tbar-sab-pa
-Tbeg-chen-gong-ma
-The- rang-tban g-ka
-Tho-gar, clan .
-
-Tbog-lde-jo , • (
-
-Tho-tho-ri-snyan, King •
-Thugs-rje-chen-po, Eubsbn
-Tbugs-rje-cben-po, mang-rgyu
-mTho-lding • . If 23.
-
-mTbo-rang, bridge
-Tsaparang
-
-Tsimma panchik i
-
-Tsong-kha-pa . . .
-
-Tsuling .
-gTsug-lag-khang
-Thse-dbang, of Galdan
-Thse-dtang-rnam-rgyal I
-Tbse-dhang-rnam-rgyal II
-Tbse-dpag-med
-
-Thse-dpal-don-grub-vdo-rje-rnam-
-
-inThsan-legs
-
-mThso-kysg
-
-mThso-dkar
-
-mThso-mo-ri-ri- . .
-
-
-Ubshi •
-
-XTgra Singh, King
-ITmla •
-
-Umna •
-
-Urni
-
-
-. 44, 63, 59, 61,';69, 71
-
-70
-
-
-30, 50, 60,
-. 77
-
-
-27, 28, 86,
-
-
-35, 36,
-
-
-•gyal, King
-
-
-. 48, 50, 53
-
-
-L, 2, y6
-92, 109
-, 80, 86
-44
-60
-67
-99
-57, ST
-55, 62
-85
-96
-71
-34
-IS
-104
-88
-61
-93
-52, 89
-23, 28
-36,- 43.
-63
-
-, 42, 52
-30>
-4r
-69, 63’
-86 .
-83, 93
-46, 97
-66, 94
-41
-56*
-61
-56, 69
-
-
-, 26, 37
-81
-
-70, 71, 78, 82
-
-
-Vairochaua
-
-Vaisravana
-
-Yajradbafra
-
-
-• 66,92, 97
-
-17
-85
-
-. • 50’
-
-9, 11, 12, 14
-
-
-• 28, 33, 38, 91, 98
-76
-33
-
-
-INDEX,
-
-
-133
-
-
-'V-contd, Pase
-
-Y
-
-P^as
-
-Vajrapani
-
-. . 20,89, 94., 103
-
-Yang-lde-jo . . . .
-
-. 104
-
-Vajrasattva
-
-. . . 89, 103
-
-Yangla ...
-
-. . l6
-
-Vakatanya
-
-101
-
-Y5m, carvings of
-
-. , 2. 107
-
-Yigne, G. T. .
-
-. * 105
-
-Youngllu^band, Sir Praiicis
-
-. . 109
-
-VikramaSla
-
-. . . . 50, 51
-
-Ynm-cben-mo, Tara . * ,
-
-. . 20, 46
-
-Vogel, Dr. J. Ph.
-
-. 1, 2, 4 59, 64, 75, 96, 105
-
-W
-
-gYnng-drung, monasterv . . ,
-
-Z
-
-. 96
-
-Waddel,L. A.
-
-. . . 92
-
-Zangskai . . . 16,23,36,
-
-44,46, 54,67, 58
-
-Waka ,
-
-101
-
-Zaiigzam » . , . •
-
-. . 35
-
-Wangtu, bridge
-
-, 7,9,10,11,12,14
-
-Zla-ba-grag{,-pa ....
-
-. . 91
-
-Wanla
-
-. . . 97. 100
-
-Zla-’od
-
-. . 43
-
-West Tibetan Empire
-
-. 10,23,26,36,38,44,46,48.
-50,58, 85,86,91,93,101
-
-Zoji, pass . . £ .
-
-Zhamarting
-
-. 106, 107
-
-. , 59
-
-
-List of Fiihlic Libraries^ eto*^ to winch copies of the Arch(Bological Sttrveii
-Eeports, new Imperial Series, including the Director GeneraVs Annual
-Deport, I art II, and the Drovincicd Annual Deports of the B'aperin^
-tendents are regularly supplied.
-
-L-COUNTRIES OUTSIDE INDIA.
-
-UxiTED Kingdom.
-
-British Museum Library, Great Russell Street, Bloomsbury, London.
-
-Bodleian Library, Oxford.
-
-London University Library, ImjDerial Institute, London, S.W
-Cambridge University Library, Cambridge.
-
-Edinburgh „ ,, Edinburgh.
-
-Glasgow ,, „ Glasgow.
-
-Aberdeen „ „ Aberdeen.
-
-Trinity College Library, Dublin.
-
-Eolklore Society, 11, Old Square, Lincoln's Inn^ London, W.C.
-
-National Art Library, South Kensington Museum, London.
-
-Royal Institute of British Architects, 9, Conduit Street, Hanover Square, London, W,
-Advocates^ Library, Edinburgh.
-
-The Royal „ Windsor Castle, Berks.
-
-Royal Society, Burlington House, Piccadilly, London.
-
-Royal Society, Edinburgh.
-
-Royal Irish Academy, 19, Dawson Street, Dublin.
-
-National Library of Ireland, Leinster House, Kildare Street, Dublin.
-
-Royal Asiatic Society, 2^, Albemarle Street, London.
-
-Society of Antiquaries of London, Burlington House, Piccadilly, W.
-
-Royal Scottish Museum, Edinburgh, Scotland.
-
-Society of Antiquaries of Scotland, National Museum of Antiquities, Queen Street,
-Edinburgh.
-
-Imperial Institute, London.
-
-Indian Institute, Oxford.
-
-Society for Protection of Ancient Buildings, 10, Buckingham Street, Adelphi, W.C,
-
-The Royal Academy of Arts, Burlington House, London.
-
-Society for the Promotion of Hellenic Studies, London.
-
-France.
-
-
-Bibliotheque Nationale, Paris.
-
-Institnt de France, Paris.
-
-Musee Guimet, 7, Place dHena, Paris.
-
-
-ii
-
-
-L— COUNTHIES OUTSIDE INDIA— com
-Geiimany.
-
-Dibliothek der Deiitscheii Morgealaudisehen Gesellschaft, Hallo (Saalo), Germany
-Soyal Prussian Academy of Sciences, Berlin
-
-Austhta.
-
-Imperial Academy of Sciences, Vienna.
-
-Hungarian Academy, Buda-Pesth.
-
-
-Italy.
-
-Eiblioteca Xazionaie, Vittorio Emanuele, Rome.
-
-R Biblioteca Nazionale Centrale di Eirenze.
-
-British School at Rome.
-
-American School of Classical Studies at Rome.
-
-Other Coxjhtiues in Europe.
-
-Roninklijke Akademie van Wetenschappen te Amsterdam, Holland.
-
-Royal Institute of Netherlands, India, The Hague, Holland.
-
-Imperial Academy of Sciences (for the Asiatic Sluseum), St. Petersburg, RussLi.
-Royal Library, Copenhagen, Denmark.
-
-Acad^mie Royale d’Arch^ologie de Belgique, xAnvers*
-
-University Library, Upsala, Sweden.
-
-„ „ Christiania, Norway,
-
-British School at Athens, Greece.
-
-La Societe Archeologique d^Athenes, Athens, Greece,
-
-America.
-
-American Oriental Society, 235, Bishop Street, New Haven, Conn., U.S.A.
-Smithsonian Institution, Washington, D. C., U.S.A.
-
-Secretary, National Museum, Washington, U.S.A.
-
-British Colonies.
-
-The Museum, Canterbury, New Zealand.
-
-Literary and Historical Society, Quebec, Canada.
-
-Melbourne Library, Melbourne.
-
-University Library, Sydney, New South Wales.
-
-Victoria Public Library, Perth, Western Australia.
-
-Royal Asiatic Society, Ceylon Branch, Colombo.
-
-Straits Branch, Royal Asiatic Society, Singapore.
-
-J^Iuseum of Arabic Art, Cairo, Egypt.
-
-
-Ill
-
-
-L-COUNTRIES OUTSIDE l:sT)lk-^co;ield.
-
-Foreign Colonies.
-
-Directeur de FEcole frangaise d'extreaie Orient^ Hanoi.
-
-Batavlaasch Genootscliap ran Knnsten en Wefcenscliappeu; Batavia,
-
-Institut Prangais D^Areheologie Orlentale clu Caire^ CairO; Egypt.
-
-Ethnological Survey for the Philippine Islands^ Department of Interior, Manila.
-
-II.-^IXDIA.
-
-(1) Imperial,
-
-Imperial Library, Calcutta.
-
-Indian Museum, Calcutta.
-
-“^Press Room, Calcutta and Simla.
-
-(2) Provincial,
-
-Madras.
-
-Secretariat Library, Port St. George.
-
-University „ Madras,
-
-Public „ „
-
-Presidency College „
-
-School of Art, „
-
-Government Central Museum, Madras.
-
-Christian College Library
-
-Bombay.
-
-Secretariat Library, Bombay,
-
-University „ „
-
-Bombay Branch of the Royal Asiatic Society, Town Hall, Bombay.
-
-School of Art, Bombay.
-
-The College of Science, Poona.
-
-Bengal,
-
-Secretariat Library, Writers’ Buildings, Calcutta.
-
-University Library, the Senate House, Calcutta.
-
-Presidency College Library, 1, College Square, Calcutta.
-
-Sanskrit College Library, 1, College Square, Calcutta.
-
-Asiatic Society of Bengal, 57, Park Street, Calcutta,
-
-United Provinces.
-
-Secretariat Library, P. W, D., Allahabad.
-
-. University „ Allahabad.
-
-Public Library, Allahabad,
-
-Provincial Museum Library, Lucknow.
-
-Sanskrit College, Benares.
-
-Thomason College, Roorkee.
-
-* Direcfcor-Generars Report, Part II only.
-
-
-iy
-
-lI,—mi)IA—conckl
-
-Vtjsjab,
-
-Secretariat Library^ Public Works Dexiartment. Lahore,
-Punjab Public Library, Lahore.
-
-Museum Library^ Lahore.
-
-L’nirersity Library, Lahore.
-
-Government College Library, Lahore.
-
-Delhi Jluseum and Institute, Delhi.
-
-North-West Frootier Provixce,
-Secretariat Library, Peshawar,
-
-
-Burma,
-
-Secretariat Library, Eangooii.
-
-The Bernard Free Library, Ban goon.
-
-The Phayre INIuseum, Rangoon,
-
-Ceotral Provinces.
-
-Secretariat Library, Nagpur.
-
-[Museum Library, Nagpur.
-
-Assam.
-
-Secretariat Library, Shillong.
-
-COORG.
-
-The Chief Commissioner of Coorg^s Library, Bangalore.
-
-Native States.
-Hyclerahad,
-
-The Resident's Library, Hyderabad,
-
-Central India.
-
-Library of the Agent to the Governor-General, Indore.
-The Librarian, Dhar Museum Library, Dhar.
-
-Bajkumar College, Indore.
-
-
-Rajputana,
-
-Library of the Chief Commissioner and Agent to the Governor-General,
-College Library, Ajmer,
-
-
-Baroda.
-
-Library of the Resident at Baroda.
-
-
-CALC5UTTA : PB.INTEI) BY STTPBT. GOVT. PRINTING, INDIA, 8, HASTINGS
-
-
-PRESMNTS
-
-SECRETARIAT
-
-
-LIBRARY

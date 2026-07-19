@@ -1,0 +1,70 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_aboriginalsiberi00czap
+  work_id: siberian.aboriginal_siberia.czaplicka_archive
+  title: Aboriginal Siberia - A Study in Social Anthropology
+  source_url: https://archive.org/details/aboriginalsiberi00czap
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/internet-archive/aboriginalsiberi00czap-aboriginal-siberia-czaplicka.txt
+    checksum:
+      algorithm: sha256
+      value: ad0a430d60e51744d33ee15d092c594837af77220f7961c8c1faa2438b2d378a
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/internet-archive/aboriginalsiberi00czap-aboriginal-siberia-czaplicka.md
+    checksum:
+      algorithm: sha256
+      value: 9b097213e76baf7edad97d067e516e358f92b6c55639b4367ab61fa928c616b6
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+    checksum:
+      algorithm: sha256
+      value: d6029327d19026e615267e2da2f2f1f64b7e96ec2b06bc19c44c1e204e27c1e9
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids siberian.aboriginal_siberia.czaplicka_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1914 (pre-1930), US public domain. Czaplicka's synthesis of Siberian
+      ethnography, esp. shamanism, drawing together many field sources with quoted
+      verbatim accounts; author-synthesis prose with embedded primary excerpts. OCR
+      of a scan; expect OCR noise.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

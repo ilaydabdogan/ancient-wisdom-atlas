@@ -1,116 +1,10 @@
-# The Book of Opening the Mouth, Volume 1
-
-BooI?s on Egppt anb Cbalbaea
-
-
-VoL. XXVI. OF THE SERIES
-
-
-THE BOOK OF OPENING
-THE MOUTH
-
-
-Volume I.
-
-
-BooFta on anb Cbalbaea
-
-
-THE BOOK
-
-OF
-
-OPENING THE MOUTH
-
-J THE EGYPTIAN TEXTS WITH ENGLISH
-TRANSLA TIONS
-
-
-BY
-
-E. A. WALLIS BUDCxE, M.A., LittT)., D.Litt., D.Lit.
-
-KEEPEK OP THE EGYPTIAN AND ASSYRIAN ANTIQUITIES
-IN THE BRITISH MUSEUM
-
-
-KEGAN PAUL, TRENCH, TRUBNER & CO. Ltd.
-
-
-Dryden House, 43 Gerrard Street, W.
-1909
-
-{All rights reserved\
-
-
-OSKTHAL .OGKjAv
-
-
-ijj©o a®®
-
-
-N^^Dfc
-
-
-i- . .'■. ; -.Ji.r -rj ■
-
-
-Imf
-
-
-- I, <8
-
-
-^ ^
-
-
-, "' J' . ■ 'i 'f ■*. V .
-
-•• ■ -sj#*: ruL- it;; 3 r.
-
-
-LONDON :
-
-PRINTED BY WILLIAM CLOAVES AND SONS, LIMITED,
-duke street! STAMFORD STREET, S.E., AND GREAT WINDMILL STREET, W.
-
-
-The Book of Opening the Month which is printed,
-with English translations, in tliis and the following
-volume, is edited from three copies wdiicli were written
-in the XIXth, XXth and XXVIth Dynasties re-
-spectively. Though these copies are comparatively
-modern, it is certain that they describe faithfully
-ceremonies whicli originated among the primitive in-
-digenous inhabitants of the Nile Valley, and reproduce
-the ancient formulae which were recited during their
-performance. The oljject of the ceremonies and formulae
-was the reconstitution of the body of the dead man
-and the restoi^ation to it of the heart-soul (Ba), and
-the double (Ka). At the moment of death the imma-
-terial and spiritual elements of man left him. The
-immortal spirit-soul (Khu) departed to the abode of
-spirit-souls, which "was situated in some place either in
-heaven, or beyond the limits of this world (not below
-it), but the heart-soul and the Ka remained (.)n earth,
-near the body, and had to be provided witli meat and
-drink and a dwelling place. The recital of the Book
-of Opening the Mouth and the Liturgy of Eunerary
-OUbrings, and the performance of the cerenumies
-
-
-VI
-
-
 PREFACE
 
 
-described in tliem, "vvere believed in all periods to re-
-create the body, and to enable its spiritual elements to
+described in tliem, "vvere believed in all periods to recreate the body, and to enable its spiritual elements to
 continue their existence. In the earliest times the
 ceremonies were performed on the actual dead body,
-but subsequently, perhaps because it was more con-
-venient, or perhaps as the result of a change of thought,
+but subsequently, perhaps because it was more convenient, or perhaps as the result of a change of thought,
 a statue was substituted for it.
 
 On this statue, which was set upon a mound of
@@ -143,8 +37,7 @@ PREFACE
 
 vii
 
-geese were slain, and their bodies were likewise pre-
-sented to the dead. These creatures were the incarna-
+geese were slain, and their bodies were likewise presented to the dead. These creatures were the incarna-
 tions of the enemies of Osiris, wlio at some remote
 period were captured by the servants of the god and
 were brought and slain before him. Their spirits were
@@ -163,8 +56,7 @@ were few in number is proved l)y the models of the
 instruments, and knives, and vases, used during the
 ceremonies, which are described on pp. ix.-x^^ With
 the great development of the cult of Osiris, which
-took place pro].)ably under the Illrd and IVth Dynas-
-ties, new ceremonies and formulae were added t(» the
+took place pro].)ably under the Illrd and IVth Dynasties, new ceremonies and formulae were added t(» the
 old, and even under the Ancient Empire the Service of
 Opening the Mouth hecaine practically a repetition (jf
 tlie acts performed and the words recited by the Sons
@@ -187,12 +79,10 @@ was #nade for the lady Sais was written, Christianity
 had been preached in Egypt for nearly one hundred
 years.
 
-The Book of Opening the Mouth exercised a con-
-siderable influence on the religious literature of Egypt,
+The Book of Opening the Mouth exercised a considerable influence on the religious literature of Egypt,
 for we find passages from it and allusions to it in the
 Pyramid Texts of Sakkarah of the Vlth Dynasty, and
-many of its ceremonies are rei^roduced in the remark-
-able work which M. Moret has translated into French
+many of its ceremonies are rei^roduced in the remarkable work which M. Moret has translated into French
 and aptly termed the “ Eitiial of the Divine Cult.''
 With the view of enabling the reader to compare the
 ♦two works I have added an English rendering of the
@@ -229,8 +119,7 @@ ceremony in connection with tlie “ Opening of the
 Mouth was performed. Several of these appear to
 have been buried with the dead merely as amulets, but
 it is clear from the ''finds” in certain tombs of the
-Ancient Empire, that models of several of the instru-
-ments employed in the " Opening of the Mouth,” and
+Ancient Empire, that models of several of the instruments employed in the " Opening of the Mouth,” and
 of vases for unguents were grou^ied on a system and
 laid with the dead in their tombs. A good example of
 such a group is British Museum, No. 5526. Here we
@@ -263,8 +152,7 @@ finest, is bored to a depth sufficient for use. Here, then,
 we have a group of models of instruments for opening
 the moutli, and libation or wine vases which were,
 apparently, intended to be used for tlie benefit of the
-deceased in the (3ther World, if necessary. If the cere-
-mony of Opening the Mouth was performed for the
+deceased in the (3ther World, if necessary. If the ceremony of Opening the Mouth was performed for the
 deceased with whom these ohjecte were found before he
 was buried, they would appear to be unnecessary. It
 is possible, however, that groups of this kind were only
@@ -276,17 +164,14 @@ were found at Abydos in the early years of the XIXth
 century, and they were acquired in 1836 at the sale of*
 the Sams Collection. To assign an exact date to them
 is impossible, but it is tolerably certain that they belong
-to the time when one of the earliest forms of the cere-
-monies of Opening the Mouth was in use, probably
-under the lYth or Vth dynasty. The pink stone Pesh-
-en-kef speaks for itself, the two small stone knives, one
+to the time when one of the earliest forms of the ceremonies of Opening the Mouth was in use, probably
+under the lYth or Vth dynasty. The pink stone Peshen-kef speaks for itself, the two small stone knives, one
 of which is missing, reijreseut the “ iron of the South,”
 
 
 MODELS OF INSTRUMENTS, &C. xi
 
-and the '' iron of the North,” or the two neterti instru-
-ments I \ — V . The white and the black vases
+and the '' iron of the North,” or the two neterti instruments I \ — V . The white and the black vases
 
 I I ^ W
 
@@ -379,7 +264,6 @@ Ko. 6123.
 
 n
 
-8
 
 n
 
@@ -390,11 +274,8 @@ A/VWV\
 
 0?
 
-1
 
 X
-
-1
 
 
 W/vW
@@ -405,7 +286,6 @@ IT
 
 o
 
-0
 
 g=Z=Z5
 
@@ -455,8 +335,6 @@ o
 
 o
 
-0
-
 
 2. Alabaster slab, with under side flat. Length
 in., breadth 2f in. The name of the deceased is not
@@ -504,20 +382,14 @@ u
 
 m
 
-0
 
 gz=z5
 
-
-1
 
 [ZE]
 
 C3
 
-11
-
-0
 
 t
 
@@ -558,8 +430,7 @@ Temple Tchesert/’
 
 The name of the particular instrument which this
 model was intended to represent is not given. Another
-example in the British Museum, No. 15,779, is in-
-scribed on one side of the .handle with the name of
+example in the British Museum, No. 15,779, is inscribed on one side of the .handle with the name of
 
 
 Prince Nehi,
@@ -658,57 +529,43 @@ f
 
 Twenty-sixili Ceremony .....
 
-94
 
 ■m
 
 Twenty-sevenili Ceremony ....
 
-105
-
 
 Twenty- eightli Ceremony ....
 
-108
 
 ■'1
 
 Twenty-ninth Ceremony .....
 
-111
 
 YII. — Offerings of Incense to the gods
-
-115
 
 
 VIII. — Supplementary Ceremonies ....
 
-121
 
 "1
 
 IX. — Presentation of Offerings .....
 
-128
-
 
 X. — Thirtieth Ceremony ......
 
-144
 
 '4
 
 The Book of Opening- the Mouth. From the tomb of
 Seti I.
 
-148
 
 f'J
 
 The Bitual of the Divine Cult ....
-
-197
 
 
 LIST OF ILLUSTRATIONS IN VOL. I.
@@ -777,9 +634,6 @@ Bull of the South ...... 47
 27. The Am khent declaring that the enemies of the
 
 deceased are slain ......
-
-
-50
 
 
 XX
@@ -899,12 +753,6 @@ VOL. IL
 B
 
 
-2
-
-
-BOOK OF OPENING THE MOUTH
-
-
 would be that each instrument was presented in turn
 to the statue, that some action was performed upon it
 by the priest with each, and that as a result of these
@@ -926,8 +774,7 @@ tomb of Mathen,^ an official who flourished at the end
 of the Illrd or beginning of the I Vth Dynasty.^ It
 is, however, clear that under tlie IVth Dynasty the
 ceremonies of the “ Opening of the Mouth,” and the
-offerings wdiich were presented during their perform-
-ance, were fewer than in later times.
+offerings wdiich were presented during their performance, were fewer than in later times.
 
 According to Schiaparelli,*'^ the service for the
 “ Opening of the Mouth ” began with the sprinkling
@@ -945,11 +792,7 @@ II Lihro dei Funerali^ p. 255,
 OPENING CEREMONIES
 
 
-3
-
-
-garments were then ]3resented, and the washing, puri-
-fying, anointing, and dressing of the statue were
+garments were then ]3resented, and the washing, purifying, anointing, and dressing of the statue were
 considered to he complete. A further censing and
 sprinkling of the statue were then performed, and the
 statue was ready for the meal whicli was provided.
@@ -966,8 +809,7 @@ was “opened,” and the deceased whom it rejpresented
 was believed to have become a Iclm, or spirit, and to
 possess all the faculties of the spirits in the Other
 World. The ceremonies are thus seen to have been
-few, and, as the offerings cannot have been very ex-
-pensive, the service of “Opening the Mouth” was
+few, and, as the offerings cannot have been very expensive, the service of “Opening the Mouth” was
 probably performed for all hut the poorest folk.
 
 Towards the end of the Vth Dynasty a change took
@@ -975,13 +817,10 @@ place, and, according to Signor Schiaparelli,^ an entirely
 new list of offerings to the statiie was drawn up. The
 number of objects was largely increased, and tlie list
 contained the names of joints of meat, bread, cakes,
-wines, grain of various kinds, fruit, flowers, and vege-
-tables, and the ceremonies connected with the censing
+wines, grain of various kinds, fruit, flowers, and vegetables, and the ceremonies connected with the censing
 and sprinkling of the statue were multiplied. At
 ^ Ojp. p. 257.
 
-
-4 BOOK OF OPENING THE MOUTH
 
 this time also %yas introduced the employment of the
 '' Kef-pesesh/’ and the two axes, which in later
@@ -1005,8 +844,7 @@ was the list of offerings lengtliened? And why \vas
 the use of instruments introduced? To answer these
 questions definitely is not easy witli the materials at
 present available. We are justified in assuming that
-the older and shorter list was a product of the theo-
-logians of Memphis, who attempted to express in it the
+the older and shorter list was a product of the theologians of Memphis, who attempted to express in it the
 views and beliefs of the people of Northern Egypt and
 the Delta. As this list continued to be inscribed on
 private tombs, whilst the longer and newer list was
@@ -1016,9 +854,6 @@ Pyramids of Unas, Teta, Pepi II., &c., were under the
 
 
 INFLUENCE OF THE CULT OF OSIRIS
-
-
-5
 
 
 influence of the cult of some god, or some religious
@@ -1031,8 +866,7 @@ the royal pyramids of the Vlth Dynasty contain many
 allusions to incidents in the history of the funeral
 ceremonies wliich were performed for Osiris by Horns
 and his assistants, and throughout it the dead king is
-identified with Osiris. Set, the god of physical dark-
-ness and of moral evil, as a result became the foe of the
+identified with Osiris. Set, the god of physical darkness and of moral evil, as a result became the foe of the
 dead king, and his evil influence could only he averted
 by the intervention of Thotli, the heart of As
 
@@ -1043,8 +877,7 @@ also did he seek for, and lind, and give hack to tlio
 deceased his soul. The calamities which came upon
 the god Osiris also came up(-)n the king, who was only
 delivered from them hy a repetition of the ceremonies
-which were performed for the god. Ey the introduc-
-tion into the formulae of allusions to the enmity which
+which were performed for the god. Ey the introduction into the formulae of allusions to the enmity which
 existed between Horns and Set, the killing of Osiris,
 and his resurrection ceremonies, the character of the
 list of oflbrings l)ecanie entirely changed, and the longer
@@ -1116,9 +949,6 @@ through the organic growth of that ceremony itself, or i
 ITS DEVELOPMENT
 
 
-7
-
-
 under the influence of extraneous causes, among which
 are their similarity to ceremonies connected with the
 divine cult, and the growing influence of tlie doctrine
@@ -1144,17 +974,10 @@ they were performed from the XVIIItli Dynasty on-
 ^ Jl Libro del Funeralij p. 260 .
 
 
-8
-
-
-BOOK OF OPENING THE MOUTH
-
-
 i
 
 wards are, fortunately, abundant, and we can describe
-one ceremony after the other with considerable ex-
-actitude. To the versions of the Book of Oj)ening the
+one ceremony after the other with considerable exactitude. To the versions of the Book of Oj)ening the
 Mouth which are given in the tomb of Seti I. and in
 the tomb of Peta-Ameu-apt vignettes are added, and
 such illustrations are of the greatest value. In the
@@ -1171,8 +994,7 @@ The Eihst Ceremony.
 
 In the first Vignette of the Book of Opening tlie
 Mouth in the tomb of Seti I. the statue of the king is
-seen standing upon an oval which is intended to re-
-present a mound of sand ; in his right hand is a staff.
+seen standing upon an oval which is intended to represent a mound of sand ; in his right hand is a staff.
 The opening words of the texts order the statue to be
 j)laced upon a mound of sand in the '' House of gold/'
 with its face to the south. The heaping up of the sand
@@ -1184,8 +1006,7 @@ out it was the custom to scatter sand over it, in order
 to sanctify the building which was to be raised upon
 it, and to consolidate its foundations.^
 
-The “ House of gold " was the sarcophagus, or per-
-liai)S the front hall of the tomb, or even the space in
+The “ House of gold " was the sarcophagus, or perliai)S the front hall of the tomb, or even the space in
 front of the tomb. Why the statue should he placed
 with its face towards the south is not stated, but tlie
 meaning of the rubric is clear, and we can only assume
@@ -1195,9 +1016,6 @@ Fundraire^ p. 291.
 
 
 lO
-
-
-BOOK OF OPENING THE MOUTH
 
 
 that the orientation of the statue in this direction was
@@ -1242,8 +1060,7 @@ to pray, and a compass is greatly prized l)y every
 desert Arab, for it enables him to find the direction of
 this holy city.
 
-The ordering of the ceremonies was under the direc-
-tion of the '' Kher hob,” i.e., he who had the roll of
+The ordering of the ceremonies was under the direction of the '' Kher hob,” i.e., he who had the roll of
 papyrus inscribed with the service, and he was assisted
 in carrying out its directions by : —
 
@@ -1259,12 +1076,6 @@ in carrying out its directions by : —
 Later called Setew,
 
 
-12
-
-
-BOOK OF OPENING THE MOUTH
-
-
 6. The Aai ichknt
 
 
@@ -1272,9 +1083,6 @@ i li
 
 
 7. The
-
-
-1
 
 
 Mesentiu
@@ -1291,15 +1099,13 @@ j and ^ ^ ^ J
 one was called Tgherat ukt, and the other Tcherat
 NETCIIESET.
 
-Of all these the Ivher heb was by far Ihe most im-
-portant. Ill everything which concerned magic and
+Of all these the Ivher heb was by far Ihe most important. Ill everything which concerned magic and
 religion he was the supreme authority, and his decision
 could only be overruled by the king. He could of
 course read and write, and his knowledge of methods
 of procedure in magical ceremonies and of the contents
 of the sacred books caused him to be regarded with
-great respect, and often with fear. He was the equiva-
-lent of the “medicine man’' and “magic doctor” of
+great respect, and often with fear. He was the equivalent of the “medicine man’' and “magic doctor” of
 modern Central African tribes, and many of his duties
 suggest that his office was of Central African origin.
 In the Book of Opening the Mouth it is he who directs
@@ -1315,9 +1121,6 @@ the dead.
 
 
 THE QENAU garment
-
-
-13
 
 
 The Second C'EREMONy.
@@ -1342,8 +1145,7 @@ Of tlie exact shape of the (pnau gariaeiit we have no
 satisfactory information, l»ut it is clear that it was
 sui)posed to endow the wearer with some spiritual
 powei', and to make efficacious the words which he had
-to say. The word is not found in the Theban Iiccen-
-sion of the Booh of the JOead^ and the garment was
+to say. The word is not found in the Theban Iiccension of the Booh of the JOead^ and the garment was
 probably a copy of one of the garments which the
 })rimitive Africans, from whom the Egyptians borrowed
 their funerary ceremonies, wore when burying their
@@ -1356,12 +1158,6 @@ We may note in passing that onwards from the
 XVIIIth Dynasty, if not earlier, all the cereinonieB of
 Opening the Moutli were performed on the statue of
 the deceased, and not on the body, (»r muminy, as was
-
-
-14
-
-
-BOOK OF OPENING THE MOUTH
 
 
 the case in primitive -times. Many African travellers
@@ -1392,8 +1188,7 @@ having filled each with water walked round the statue
 four times, each time emptying one of the vases over
 it, and recited the following formulae : —
 
-1. '' Thou art pure. Thou art pure. Thy purifica-
-tions are the purifications of Horus, and the purifica-
+1. '' Thou art pure. Thou art pure. Thy purifications are the purifications of Horus, and the purifica-
 tions of Horus are thy purifications.
 
 ^ Cf. Genesis 1. 3.
@@ -1464,9 +1259,6 @@ after it had been cut oil The head of the god Osiris
 CEREMONY OF PURIFICATION
 
 
-17
-
-
 ^'lilete; I have renewed my youth; I am Osiris, the
 'Oieir of eternity/' And in another Chapter (CLIV.),
 after referring to the tact that Osiris did not decay, the
@@ -1488,8 +1280,7 @@ liones of Osiris, beeanso Im was the go<l of the earth and
 had them in his keeping after the dismemberment of
 the l)ody of the god, and because, according to one
 theological system, he was the father of Osiris. The
-parents of Osiris were Sel) and JNut, and his grand-
-parents Shu and Tefnut. In the text (d* Ihitclmi-Amen
+parents of Osiris were Sel) and JNut, and his grandparents Shu and Tefnut. In the text (d* Ihitclmi-Amen
 we find added, after Sel,>, the words : —
 
 "Thotli hath purified tliem (i.e., the hones) for thee,
@@ -1502,8 +1293,6 @@ IV. In the fourth cerenmny the Sem priest, or Smer,
 performed another series of purifications of the statue,
 VOL. II. G
 
-
-1 8 BOOK OF OPENING THE MOUTH
 
 but on this occasion he made use of four tesliert vases
 
@@ -1531,9 +1320,6 @@ are the purifications of Horns, and the purifications of
 
 
 CEREMONY OF PURIFICATION
-
-
-19
 
 
 ''are the purifications of Thotli, and the ptirifications ol'
@@ -1611,9 +1397,6 @@ divine dwelling.
 PURIFICATION BY CENSING
 
 
-21
-
-
 This ceremony may he described as the censing of
 the South/’ for in it the statue was censed with the
 incense of the Soiitli excellence. The seman has
@@ -1643,8 +1426,6 @@ I ’ certainly associated with him, just as tlie North was
 I the country of Set.
 
 
-22 BOOK OF OPENING THE MOUTH
-
 The Sixth Ceremony.
 
 VI. In the sixth ceremony the statue was censed
@@ -1668,9 +1449,6 @@ formulae : —
 
 
 PURIFICATION BY CENSING
-
-
-23
 
 
 '^1. Thy censiiigs with natron are the ceiisings of
@@ -1772,8 +1550,7 @@ Titr Eighth Crurmonv.
 
 YIII. The eighth ceremony is also one of censing.
 In it the Sem priest, or the Smer, took a censer of
-burning incense, and presented it to the statue say-
-ing
+burning incense, and presented it to the statue saying
 
 “ 0 Osiris, I liave presented unto thee the Eye of
 “ Horns, and the odour thereof cometh unto thee.”
@@ -1785,12 +1562,6 @@ The text of Butehai-Amen adds : —
 “Nekheh, cometh, it washeth thee clean, it adorneth
 “thee, and it inaketh its seat to be on thy two
 hands.”
-
-
-26
-
-
-BOOK OF OPENING THE MOUTH
 
 
 And the rubric orders the words, ^'Thou art pure,
@@ -1808,8 +1579,7 @@ tlie deceased.
 
 The Ninth Ceremony.
 
-IX. The ninth ceremony is one of great import-
-ance and interest. In it the Kher heb is assisted by a
+IX. The ninth ceremony is one of great importance and interest. In it the Kher heb is assisted by a
 priest called the “Am Khent” or “ Ammi Khent,” who
 performed duties in connection with the interior of the
 
@@ -1817,13 +1587,9 @@ performed duties in connection with the interior of the
 PURIFICATION BY CENSING
 
 
-27
-
-
 tomb. He wore a loin-clotli and belt, and liad a sash
 over his right shoulder. The Kiier heb and the AjSI
-Khent passed from the place outside where the pre-
-vious ceremonies had been perfoinned into the interior
+Khent passed from the place outside where the previous ceremonies had been perfoinned into the interior
 of the tomb in order to see the august one in the
 chamber of the house of gold,” House of gold ” is,
 
@@ -1836,12 +1602,6 @@ as we have seen, a name of the sarcophagus, and the
 tomh. Having entered the Kiier heb and tlie Asi
 Kiient found a statue of the deceased there, and
 before it a short rectangular bed, the shape of which
-
-
-28
-
-
-BOOK OF OPENING THE MOUTH
 
 
 resembles that of the ankarib of the Sudani tribes.
@@ -1888,8 +1648,6 @@ He then said : —
 “ and one touched me.
 
 
-30 BOOK OF OPENING THE MOUTH
-
 I have seen [myj father in his every form/'
 
 III answer to these words the Khek heb and his tw^o
@@ -1921,9 +1679,6 @@ In the text of Seti I. the Kher heb then says : —
 
 
 THE RISING FROM THE HEAD
-
-
-31
 
 
 protect him, lie existeth, he shall not he carried away.”
@@ -1965,12 +1720,6 @@ escape from the Tuat. Now, the skin was also typical
 Vertu du sacrifice furUraire,
 
 
-32
-
-
-BOOK OF OPENING THE MOUTH
-
-
 of the sacrifice, and the passage through it endowed a
 man with the strength and life of the victim^ and made
 Iiim the representative of 'the animal slain. As the
@@ -1993,8 +1742,7 @@ metal, it was merely laid on them, and the inanimate
 stone, with its covering of skin, Ixecaine an all-j)owerful
 personification of the god himself, Mr. Ci'awley states
 {Mystic Bose, p. Ill), that the Queensland tribes used
-to flay a slain enemy, and preserve the skin as a power-
-ful medicine. They would cover their patients with it
+to flay a slain enemy, and preserve the skin as a powerful medicine. They would cover their patients with it
 as witli a blanket, and it was believed that the sick
 people derived benefit from it.
 
@@ -2005,9 +1753,6 @@ puzzled all inquirers. The allusion to the SlH
 
 
 THE BEETLE
-
-
-33
 
 
 suggests that the deceased has become a Sah (i.e.,
@@ -2036,18 +1781,11 @@ World”
 The beetle which is depicted in the text of Seti has
 horns, and appears to represent the large class of beetle
 which is common in the Sudan, and is employed by the
-magicians in performing works of sorcery and in medi-
-cine. This beetle is known as the Ceratorrhina goliath,
+magicians in performing works of sorcery and in medicine. This beetle is known as the Ceratorrhina goliath,
 and is coloured green, red, white and black. Among
 the Baluba people the sorcerer who wishes to cast a
 spell on a man first provides himself with the body of
 VOL. II. B
-
-
-34
-
-
-BOOK OF OPENING THE MOUTH
 
 
 a very large beetle, probably tlie goliath beetle. The
@@ -2056,8 +1794,7 @@ human knuckle-bones and red scrapings of Imlmla
 (canewood). If such a beetle (which is about two and
 a half inches long) cannot be found, .then he takes a
 small horn of sheep, goat, or antelope, and fills it
-similarly. He puts this object in his mouth and there-
-upon becomes invisible. The beetle is then placed
+similarly. He puts this object in his mouth and thereupon becomes invisible. The beetle is then placed
 with a Tragelaplms horn filled with various ingredients
 in a very long pod of the Kigelia tree. At the moment
 of casting the spell, the sorcerer adds to the hidden
@@ -2076,16 +1813,12 @@ of human bones, and the body of a goliath beetle
 {Grenfell and the Congo, i., p. 405).
 
 The beetle, the mantis, and the bee certainly played
-a very important part in connection with the resurrec-
-tion of the deceased. The beetle probably assisted him
+a very important part in connection with the resurrection of the deceased. The beetle probably assisted him
 to acquire new life, but how exactly this insect worked
 cannot be said. The mantis was held to be sacred by
 
 
 THE MANTIS
-
-
-35
 
 
 the Egyptians, just as it is considered holy by the
@@ -2119,8 +1852,6 @@ point of view, see Westwood, Introduction, London,
 Mantis is the mundane representative of the groat god ’Kaggen
 (see Stow, Native Baces of South Africa, p. 131),
 
-
-36 BOOK OF OPENING THE MOUTH
 
 Of the symbolism of the bee in the Book of Opening
 the Mouth nothing can be said at present, but in view
@@ -2170,14 +1901,10 @@ District, Congo Free State : —
 THE SCULPTORS AND THE STATUE
 
 
-37
-
-
 The Tenth Ceremony.
 
 
-X. In the tenth ceremony the Sem priest plays a pro-
-minent part. Having risen up from the bed, he took
+X. In the tenth ceremony the Sem priest plays a prominent part. Having risen up from the bed, he took
 off the skin of the bull, and put on the qeiiaw garment,
 
 
@@ -2224,12 +1951,6 @@ added : —
 “ have loved him.’ Since that day the Ba-Kuba bury their dead.”
 
 
-38
-
-
-BOOK OF OPENING THE MOUTH
-
-
 0 artizans, artizans, I pray you to smite the great
 statue.
 
@@ -2253,12 +1974,8 @@ ye his head,
 THE SCULPTORS AND THE SMITING
 
 
-39
-
-
 The smiting ” of the statue is one of the most
-important acts of this ceremony, which was in-
-tended to commemorate the murder of Osiris by
+important acts of this ceremony, which was intended to commemorate the murder of Osiris by
 Set and his companions. Osiris was ''smitten/' that
 is to say, slain, and the smiting of the statue sym-
 
@@ -2273,8 +1990,6 @@ a man, or an animal, or even an inanimate offering,
 was an act of consecration or dedication, and any
 being or thing which had been “ smitten ” became the
 
-
-40 BOOK OF OPENING THE MOUTH
 
 property of the • god.^ In primitive times the man
 or animal intended for sacrifice was brought to the
@@ -2300,9 +2015,6 @@ fingers,'' advanced to the statue and said to it : —
 THE SCULPTORS AND THE SMITING
 
 
-41
-
-
 I am thy son, I am Horns, I have pressed for thee
 '' thy mouth.
 
@@ -2324,12 +2036,6 @@ my father the Osiris.”
 He next took his stand before the statue, having near
 
 
-42
-
-
-BOOK OF OPENING THE MOUTH
-
-
 him the — > instruments, and said to one of the
 Mesentiu : —
 
@@ -2341,8 +2047,7 @@ father.”
 The Sem priest declaring that he is Horns, the Protector of his father.
 
 
-By these words he meant tliat, being the represen-
-tative of Horus, the son of Osiris, he would not permit
+By these words he meant tliat, being the representative of Horus, the son of Osiris, he would not permit
 anyone else to perform these last rites for him. The
 Sem priest then passed to the hack of the statue, and
 shortly after returned, having meanwhile transformed
@@ -2351,11 +2056,7 @@ shortly after returned, having meanwhile transformed
 THE SCULPTORS AND THE SMITING
 
 
-43
-
-
-himself into a “follower of Horns/’ When he re-
-appeared the Mesentiu said : —
+himself into a “follower of Horns/’ When he reappeared the Mesentiu said : —
 
 “ 0 Isis, Horns hath passed on, and he hath embraced
 “ his father.”
@@ -2376,14 +2077,10 @@ IChee heb saying : —
 “ Pass on, and look thou upon thy father.”
 
 
-44
-
-
 BOOK OP OPENING THE MOUTH
 
 
-At this point the Sem priest took off the qenau gar-
-ment from his shoulders, and laid down the staff, and ,4
+At this point the Sem priest took off the qenau garment from his shoulders, and laid down the staff, and ,4
 
 
 The Kher lieb addressing th« Sem priest.
@@ -2409,9 +2106,6 @@ The Sem priest re-appears, wearing the panther skin.
 
 The “Eye” mentioned here is the Eye of Horus,
 ■which was seized upon by Set, who had transformed
-
-
-46
 
 
 BOOK OF OPENING THE MOUTPI
@@ -2448,12 +2142,6 @@ when the Sem priest had laid his hand upon a “ bull of the
 South,” which lay bound on the ground, the slaughterer
 
 
-48
-
-
-BOOK OF OPENING THE MOUTH
-
-
 went and stood on the animal and, having smitten him,
 tore out his heart and cut off his left fore-leg. Among
 those who stood there were two women, who represented
@@ -2483,21 +2171,14 @@ attack shall be made upon this god (i.e., the deceased)."
 
 ■I
 
-4
-
 
 SLAUGHTER OF A BULL
 
 
-49
-
-
 After the great fight between Horns and Set, in wliich
-Horns was the victor, the companions of Set trans-
-formed themselves into birds, animals, and fish, and so
+Horns was the victor, the companions of Set transformed themselves into birds, animals, and fish, and so
 escaped for a time; they were, however, canght and
-slain, and the offering of gazelle and a goose commemo-
-rated this slaughter.
+slain, and the offering of gazelle and a goose commemorated this slaughter.
 
 
 The Sm priest then took the heart of the bull, and
@@ -2514,9 +2195,6 @@ VOL. II.
 
 
 E
-
-
-50
 
 
 BOOK OF OPENING THE MOUTPI
@@ -2541,9 +2219,6 @@ as they were taken from the animal, raw and bloody ;
 
 
 THE BULL
-
-
-51
 
 
 no attempt was made to roast or lioil tliem, or to treat
@@ -2590,17 +2265,13 @@ J' hJ
 EATING THE GOD
 
 
-53
-
-
 described portions of him were eaten sacramentally, first
 by the KIa. of the deceased, and secondly by Ms friends
 who assisted at the funeral feast.
 
 The idea that the eater of the bodies of gods, or
 portions of them, absorbed the qualities and attributes
-of the gods, is far older than the text under considera-
-tion, for we find it expressed clearly in the text of
+of the gods, is far older than the text under consideration, for we find it expressed clearly in the text of
 Unas,^ a king of the Vth Dynasty. Unas, we are
 told, carried off the hearts of the gods, and fed upon
 the organs near them; he absorbed their words of
@@ -2670,17 +2341,13 @@ XXVIIIth Chapter in the Papyrus of Nefer-uben-f one
 of them is depicted. He has the form of a man, with
 grotesque features, and the tail of an animal, and holds
 a large knife in his right hand. The Egyptians, in
-common with many of the modern peoples of Equa-
-torial Africa, believed that spells could be cast by
+common with many of the modern peoples of Equatorial Africa, believed that spells could be cast by
 
 
 ^ From the Niger to the Nila, i. 61.
 
 
 STEALING THE HEART
-
-
-55
 
 
 malicious folk upon the hearts of the living, and by
@@ -2754,9 +2421,6 @@ The Ba-Mbala, too, believe that the soul or heart of
 STEALING THE HEART
 
 
-57
-
-
 a man can be stolen from him. Messrs. Joyce and
 Torday tell ns {JnL Anthrop. Inst,^ vol. xxxv., p. 418)
 that the Doldy or man who is possessed by the Molokt,
@@ -2805,8 +2469,7 @@ had been slain in battle, as an article of food, and so
 became cannibals.
 
 The testimony of all experienced African travellers
-is to the effect that cannibalism was at one time com-
-mon in all parts of Central Africa, and that it has only
+is to the effect that cannibalism was at one time common in all parts of Central Africa, and that it has only
 ceased to exist in East Africa in comparatively recent
 times. Junker says {Travels in Africa, ii., p. 233):
 ^^Why some of these more highly-gifted races should
@@ -2825,9 +2488,6 @@ seemed to be given up to cannibalism. " Cannibalism
 
 
 CANNIBALISM
-
-
-59
 
 
 is a bad liabit, but it does not necessarily mark out
@@ -2852,8 +2512,7 @@ tratflc in slaves for the purpose between the Lulongo
 river and the Mobangi. The people on the Lulongo
 organized raids on the upper reaches of their river, or
 landed at some beach to raid the inland towns. They
-fought the unsuspecting and unprepared people, over-
-powered them, killed many in the process, and brought
+fought the unsuspecting and unprepared people, overpowered them, killed many in the process, and brought
 the rest home with them. They divided up them
 human booty, and kept them in their towns, tied up
 and starving, until they were fortunate enough to catch
@@ -2883,8 +2542,7 @@ the spit stuck in the ground by a slow fire, until it
 could be kept for weeks and sold at leisure.
 
 Sometimes a section of a town would club together
-'' to buy a large piece of the body wholesale, to be re-
-tailed out again ; or a family man would buy a whole
+'' to buy a large piece of the body wholesale, to be retailed out again ; or a family man would buy a whole
 "'leg to divide up between his wives, children, and
 slaves.’' An old man with whom Bentley talked at
 Bangala in 1887 had actually killed and eaten seven of
@@ -2894,8 +2552,7 @@ so recently as June, 1898.
 According to Johnston {Grmfdl and the Congo, i.,
 p. 403) the Basoko eat the dead as well as those who
 are specially killed for the feast. Only the chiefs are
-allowed to rest in their graves, all other persons — ex-
-cept they die of infectious or disgusting diseases — are
+allowed to rest in their graves, all other persons — except they die of infectious or disgusting diseases — are
 cooked and eaten, not buried. The Basoko prefer the
 flesh of the thighs and breast, which they cut off in
 
@@ -2941,9 +2598,6 @@ Northern Indians the genital organs of any beast killed
 are eaten by men and boys.
 
 
-62
-
-
 BOOK OF OPENING THE MOUTPI
 
 
@@ -2987,15 +2641,13 @@ Eule,”^ a work which, though probably not written
 before the fifth century of our era, contains traditions
 of a far older period.
 
-According to this work Abba Daniel Parnaya, a dis-
-ciple of Abba Arsenius (born about a.d. 350), knew of
+According to this work Abba Daniel Parnaya, a disciple of Abba Arsenius (born about a.d. 350), knew of
 a monk “ who in his ignorance considered and believed
 “ that the bread which we receive is not in very truth
 “ the Body of Christ, but a similitude of His Body.”
 Two of the Fathers hearing of this, and knowing
 “his sublime works and labours,” imagined that he
-held this view because of his innocent and simple dis-
-position, and they went to him and remonstrated with
+held this view because of his innocent and simple disposition, and they went to him and remonstrated with
 him, saying, “Father, we have heard a thing from a
 “ man which we do not believe, for he saith that tliis
 “ bread which we receive is not in very truth the Body
@@ -3012,12 +2664,6 @@ entreated him, saying, “ Thou must not say thus, father,
 
 
 * Seo my Paradise of the Fathers, vol. ii., p. 159.
-
-
-64
-
-
-BOOK OF OPENING THE MOUTH
 
 
 '' of which He said, ' This is My Body,' for it is not to
@@ -3107,9 +2753,6 @@ did so said : —
 THE TWO AXES
 
 
-67
-
-
 “Hail, Osiris 1 I have come to eiri])rac6 thee.
 “ I am Horus.
 
@@ -3165,12 +2808,6 @@ Smiting was an act of dedication (see above, pp. 37 if.).
 Lefebure, op. cif., p. 23.
 
 
-68
-
-
-BOOK OF OPENING THE MOUTH
-
-
 to the statue, and went tlu’ough the motion of cutting
 open its mouth and eyes with them, and said : —
 
@@ -3195,9 +2832,6 @@ The above words show that the instrument symbolic
 
 
 THE THIGH
-
-
-69
 
 
 of Set was first used on the statue, and though the
@@ -3284,9 +2918,6 @@ Crown and his words of power.
 THE UR-HEKAU
 
 
-71
-
-
 '' becoiiiest a lord of two-fold might, thou makest the
 passes which give thee the fluid of life, and their fluid
 of life is about the Osiris.
@@ -3309,9 +2940,6 @@ and their Kau.
 And behold, this statue of the ( )siris is Shu, the
 son of Teinu, and as he liveth even so shalt thou live.
 Shu hath ])rovided thee [with all things].
-
-
-72
 
 
 BOOK OF OPENING TliE MOUTH
@@ -3347,8 +2975,7 @@ And the Am as luiest said : —
 The mouth and the eyes of the statue were now
 opened. Fut brought to the deceased his head, and
 Shu gave him strength, and exalted him to the heights
-of heaven. The use of the Ur-hekau instiniment pro-
-duced a wnnderful effect, for, through the four passes
+of heaven. The use of the Ur-hekau instiniment produced a wnnderful effect, for, through the four passes
 which the Sem priest made with it, some of the vital
 
 
@@ -3429,8 +3056,7 @@ SMITING AS DEDICATION 75
 and -sveep for him.”
 
 The words those who were bound with him ” refer
-to Isis and ISTephthys who were bound round the de-
-ceased with the swathings with which the mummy was
+to Isis and ISTephthys who were bound round the deceased with the swathings with which the mummy was
 
 
 Tlie “follower of Homs,” who is the Sein priest, addressiiij; the three
@@ -3448,9 +3074,6 @@ said to tliree ministrants who were in the tomlt; —
 “ 0 Isis, Horns hath passed.”
 
 
-76
-
-
 BOOK OF OPENING THE MOUTPI
 
 
@@ -3466,8 +3089,7 @@ ceremonies which brought about the resurrection of
 The Sein priest addressing the IMesentiu, i.e., sculptors, or artizans.
 
 Osiris. The three uiinistrants in the tomb, with the
-SEiM priest, rejiresent the four sons of Horns, or accord-
-ing to another legend, the four sons of Osiris.
+SEiM priest, rejiresent the four sons of Horns, or according to another legend, the four sons of Osiris.
 
 The Fifteienth Oekemony.
 
@@ -3496,12 +3118,6 @@ The Sixteenth Ceremony.
 
 XVI, In the next ceremony another new personage
 appears, viz., the Sa-mer-e, or Sa-f-mek-e,
-
-
-78
-
-
-BOOK OF OPENING THE MOUTH
 
 
 beloved son/' This man may have been
@@ -3607,8 +3223,7 @@ the priests said : —
 The Seventeenth Ceremony.
 
 XVII. The next ceremony restored colour to the lips
-of the statue. The Sejm priest took a little bag con-
-taining some red substance, and by the order of the
+of the statue. The Sejm priest took a little bag containing some red substance, and by the order of the
 Khbr heb advanced to the statue, and rubbed its lijKS
 and eyelids with it, and said : —
 
@@ -3666,8 +3281,6 @@ priest, who said : —
 “ established for thee/’
 
 
-84 BOOK OF OPENING THE MOUTH
-
 XXI. He then rubbed milk on the mouth of the
 statue, and said : —
 
@@ -3682,16 +3295,12 @@ having made four passes with it before the statue, said : —
 “ and through it thy mouth shall lack nothing.”
 
 In the test of Seti I. we find that the Kher heb said
-to the Sem priest, or Smer, wMlst an offering of purifi-
-cation was made : —
+to the Sem priest, or Smer, wMlst an offering of purification was made : —
 
 “ Thou hast come, thou hast purified thy father.”
 
 
 THE FEATHER
-
-
-85
 
 
 And after this the Kher heb addressed the Sa-meu-e
@@ -3714,8 +3323,6 @@ him, and having cut open the breast, tore out the heart,
 and cut off a leg. The Sem pidest stood at the head of
 the animal, and a woman who typified Xephthys, the
 
-
-86 BOOK OF OPENING THE MOUTH
 
 le«Ber Tcherat,” took \ii) her position at the tail. As
 the killing is heiiig perfonned, she whispered into the
@@ -3747,8 +3354,6 @@ sacrificed.
 THE SA-MER-F
 
 
-87
-
 tion, and to pass them before the mouth and the two
 eyes of the statue, or to ruh them with the Abases. As
 the Sa-f-mer-f did this over each cthet vase, he recited
@@ -3767,12 +3372,6 @@ The Sem priest leadin'^ the Sa-ii)er-f outside the tomb.
 
 The Sem priest, or Smer, then grasped the hand of
 the Sa-f-mer-f, and led him outside the tomb. The
-
-
-88
-
-
-BOOK OF OPENING THE MOUTH
 
 
 Sem priest then brought forward two gazelle and a
@@ -3841,8 +3440,6 @@ the Osiris.
 i
 
 
-90 BOOK OF OPENING THE MOUTH
-
 “ I have brought unto thee a gazelle, with its head
 ‘‘ cut off.
 
@@ -3878,12 +3475,6 @@ The Sem priest then continued the formulae, and
 said : —
 
 “ 0 statue of the Osiris, 1 have opened for tliee thy
-
-
-92
-
-
-BOOK OF OPENING THE MOUTH
 
 
 mouth with the instruinent of Anpii (Anuhis), with
@@ -3929,9 +3520,6 @@ And the Am Kiient said : —
 CENSING THE STATUE
 
 
-93
-
-
 My father, my father !
 
 “ My father, my father !
@@ -3955,8 +3543,6 @@ Pure is the Ka of the Osiris.
 Thy head is shrouded in the sweet-smelling incense.
 The dew of the god is upon thy members.
 
-
-94 BOOK OF OPENING THE MOUTH
 
 “ The two Great Gods (Horus and vSet) who preside
 over the Land of the South purify thee.
@@ -4011,9 +3597,6 @@ This appears to have been a sort of
 THE NEMES BANDLET
 
 
-95
-
-
 their heads to keei^ off the cold wind l)y night, and
 which they draw before their faces by day to shut out
 the glare from their eyes. The Sbm priest took the
@@ -4033,12 +3616,6 @@ statue said : —
 
 
 " White One of Hekhen/'
-
-
-96
-
-
-BOOK OF OPENING THE MOUTH
 
 
 In the later version the text reads : —
@@ -4146,12 +3723,6 @@ VOL. II.
 ir
 
 
-98
-
-
-BOOK OF OPENING THE MOUTH
-
-
 “ It maketli glad thy face in its name of ‘ Qemat,’
 
 '' Thou art arrayed in the Eye of Horns, and the god-
@@ -4194,9 +3765,6 @@ swathed with funerary swathings.
 THE BANDLETS
 
 
-99
-
-
 “ Thoii art staLlished by Horus.
 
 “ Thine Eye hath been presented nnto tiiec, and thou
@@ -4237,12 +3805,6 @@ of a bandlet.
 
 ^ Here there is a play on the words syrvenkliy to make perfect, and
 the name of the bandlet.
-
-
-100
-
-
-BOOK OF OPENING THE MOUTH
 
 
 '^And thou shalt renew tliy youtli even as she
@@ -4319,12 +3881,6 @@ the ApiAl bandlet, which is the two arms of the
 goddess Tait upon thy body.
 
 
-102
-
-
-BOOK OF OPENING THE MOUTH
-
-
 A god atfcaclietli himself thereby to a god, and it is
 “ the binding of a god to a god in its name of ' Atniai/
 It is washed by the god Hapi, and the Spirits make
@@ -4379,8 +3935,7 @@ may shine among you in your name of ‘ Pant neteru,’
 him and defend him, and let not any evil whatsoever
 “ hapj)en to his body for ever.
 
-“ Hail, Osiris ! The Eye of Horns hath been pre-
-sented unto thee, and inasmuch as it is with thee thy
+“ Hail, Osiris ! The Eye of Horns hath been presented unto thee, and inasmuch as it is with thee thy
 “ lieart shall not stand still."'
 
 Erom the above address it is clear that the Collar
@@ -4393,22 +3948,18 @@ with their arms. With the Collar a pectoral, hetert
 was probably presented,^ but no mention is
 
 
-made of it here. The statue in this ceremony repre-
-sented the gods Shu and Tefnut, and the embrace
+made of it here. The statue in this ceremony represented the gods Shu and Tefnut, and the embrace
 of the straps of the Collar symbolized the embrace
 which Temu gave to these gods after he had created
 them.
 
 About the origin of Shu and Tefnut there are other
-versions of the legend besides that given above. Accord-
-ing to one Temu went to Annu to satisfy his lust, and
+versions of the legend besides that given above. According to one Temu went to Annu to satisfy his lust, and
 taking his member in his hand he produced an orgasm,
 
 
 ^ See the variant text iu Moret, Mituel^ p. 242.
 
-
-104 BOOK. OF OPENING THE MOUTH
 
 and Shu and Tefuut came into being as the results
 According to another he acted as a husband to liis hand,
@@ -4420,14 +3971,10 @@ IvA, or Double. Ea transferred his soul to Osiris by
 embracing him, and as the Collar is here the symbol of
 Ea and his forms Temu and Khepera, the souls of these
 gods are transferred to the statue by the embrace of its
-straps. The text which describes this ceremony prob-
-ably had its origin in Abydos, but we may note that
-the members of the Company of gods of Temu men-
-tioned ill it are the same as we find in the Pyramid
+straps. The text which describes this ceremony probably had its origin in Abydos, but we may note that
+the members of the Company of gods of Temu mentioned ill it are the same as we find in the Pyramid
 Texts.
 
-
-AAAAAA
 
 A/WW\
 
@@ -4436,9 +3983,6 @@ jPepi L, 1. 4G5fE.
 
 
 <o>-
-
-
-351
 
 
 “TO
@@ -4588,8 +4132,7 @@ Hail, Osiris 1 The Eye of Horus hath been pre-
 
 The Twenty-eighth Ceremony.
 
-XXVIII. The next ceremonies were devoted to pro-
-viding the statue with a sceptre, emblem of sovereignty
+XXVIII. The next ceremonies were devoted to providing the statue with a sceptre, emblem of sovereignty
 
 
 The Bern priest presenting the Ames sceptre, or liail, to the statue.
@@ -4601,9 +4144,6 @@ sceptre, ^ ^ P 'which was made of the
 
 
 THE MACE
-
-
-109
 
 
 sweet-smelling Jscr wood, [j [1 ^ , and presented it
@@ -4636,9 +4176,6 @@ statue : —
 
 
 no
-
-
-BOOK OF OPENING THE MOUTH
 
 
 ‘'Join thyself, join thyself to it, 0 Eye of Horus, the
@@ -4683,8 +4220,7 @@ A passage hath been made into thine ears for thee,
 “ Thy odour cometh to thee as that of the Great One
 '' of Words of Power.’’
 
-In the Vignette in the tomb of Seti I., which illus-
-trates this ceremony, the priest is seen kneeling before
+In the Vignette in the tomb of Seti I., which illustrates this ceremony, the priest is seen kneeling before
 the statue and holding a circular object in each hand ;
 it is possible that these may represent the pupils of the
 eyes of the deceased.
@@ -4709,9 +4245,6 @@ is in the censer in its name of ^ Pet ’ ; thou art censed
 
 
 II2
-
-
-BOOK OF OPENING THE MOUTH
 
 
 The Osiris is pure, is pure.
@@ -4768,8 +4301,6 @@ VOL. 11.
 I
 
 
-114 book of opening the mouth
-
 ''[Thy] j)iirifications are the i^urifications of the
 "Khabu^; the Khabu being bound [on thee] heaven
 “ Bhineth brightly.
@@ -4798,8 +4329,7 @@ I
 “ face to the Osiris, and he shall be happy on this day.” ^
 
 2 The text of Seti I. ends here. The foBowing passages are from
-the texts of Butehai-Amen and the Louvre Papyrus. See Schia-
-parelli, op. cif., iU 9Gff,
+the texts of Butehai-Amen and the Louvre Papyrus. See Schiaparelli, op. cif., iU 9Gff,
 
 
 CHAPTEE YII.
@@ -4812,8 +4342,7 @@ Offerings of Incense to the gods.
 “ To Amen-Ea, Lord of the Thrones of the Two Lands,
 “ at the head* of the Apt (Karnak).
 
-To Atmii, Lord of the Two Lands of Aiimi (Helio-
-polls).
+To Atmii, Lord of the Two Lands of Aiimi (Heliopolls).
 
 “ To Ea-Heru-khiiti.
 
@@ -5040,12 +4569,6 @@ so he said : —
 “ teeth.
 
 
-120
-
-
-BOOK OF OPENING THE MOUTH
-
-
 Ea liath opened thy mouth, and ho hath opened for
 
 thee thy two eyes.
@@ -5130,8 +4653,6 @@ it.s face with them
 
 said: —
 
-
-122 BOOK OF OPENING THE MOUTH
 
 Hail, Osiiis !
 
@@ -5318,12 +4839,6 @@ He hath drawn out the Ka of the Osiris from the
 ^ I.e., the Field of Reeds, a section of the Elysian Fields.
 
 
-126
-
-
-BOOK OF OPENING THE MOUTH
-
-
 The statue of the Osiris is perfect, yea, perfect ;
 
 It is not weak, hut strong, and at its head is the
@@ -5376,9 +4891,6 @@ He who \vas in a state of weakness cometh !
 SUPPLEMENTARY CEREMONIES
 
 
-127
-
-
 The Osiris hath appeared on the thighs of Isis ;
 
 And he sitteth on the thighs of ISTephthys.
@@ -5398,8 +4910,7 @@ He shall make the Osiris to walk therein, and there
 “ shall be no sickness of any kind whatsoever to him
 '' therein, and he shall never feel hunger therein/’
 
-The presentation of the offerings which were dedi-
-cated to the statue then began. The Sem priest, in-
+The presentation of the offerings which were dedicated to the statue then began. The Sem priest, in-
 structed by the Kiier-heb, took the offerings, which
 were brought in quadruplicate, and standing up and
 sitting down alternately four times said : —
@@ -5509,9 +5020,6 @@ VOL. 11.
 K
 
 
-130
-
-
 BOOK OF OPENING THE MOUTtl
 
 
@@ -5615,12 +5123,6 @@ then poured w^ater into the vases, and said : —
 “ Hail, Osiris 1
 
 
-132
-
-
-BOOK OF OPENING THE MOUTH
-
-
 I have brought for thee tlie Eye of Horns, and I
 have carried aAvay all the things which are hateful to
 “ the Osiris, and all the evil things spoken in liis name.
@@ -5659,16 +5161,12 @@ on the name of it. The greater number of the formulae
 PRESENTATION OF OFFERINGS
 
 
-133
-
-
 are identical with those which are found in the Pyramid
 of Unas and in the tomb of Peta-Amen-apt, and have
 been already translated. It is therefore only necessary
 to give the names of the oflPerings here ; those who wish
 to compare the variant forms of the formulae and of the
-names of the offerings will find them given by Schia-
-parelli, II Lihro del Funcrali, p. 314 ff., and Diimichen,
+names of the offerings will find them given by Schiaparelli, II Lihro del Funcrali, p. 314 ff., and Diimichen,
 Dev Grabpalast dcs Patuamcnap, i, plates xviii. ff. The
 following is the Great List of Offerings : —
 
@@ -5682,8 +5180,6 @@ following is the Great List of Offerings : —
 
 5. Pour vases of Hetcha incense (or, unguent).
 
-
-1
 
 I.
 
@@ -5739,8 +5235,6 @@ I.
 I
 
 
-134
-
 14.
 
 15.
@@ -5762,8 +5256,6 @@ I
 24.
 26.
 
-
-BOOK OF OPENING THE MOUTH
 
 A 0 — • Q
 
@@ -5787,11 +5279,6 @@ One basket of Eethu cakes, ? ( 2 i .
 c=^A (^ 3 )
 
 Four baskets of Hebnen cakes,
-
-
-AAAAAA
-
-AAAAAA
 
 
 I.
@@ -5864,9 +5351,6 @@ III’
 PRESENTATION OF OFFERINGS
 
 
-135
-
-
 29. Two vessels of beer, ^ ^
 
 30. [Two vessels of Abslm wine, a Jj j.
@@ -5881,8 +5365,6 @@ ID <S 111 I
 
 
 34. Two vessels of Hamu wine, ^
-
-5
 
 
 ©
@@ -5945,12 +5427,6 @@ AA/WVA
 III
 
 
-136
-
-
-BOOK OF OPENING THE MOUTH
-
-
 43. Two left fore-legs (four times), ®
 
 44. One Auaii joint (loin), ^
@@ -5991,9 +5467,6 @@ I Ji III*
 
 
 PRESENTATION OF OFFERINGS
-
-
-137
 
 
 59. [One] Tupu goose, “ °
@@ -6047,9 +5520,6 @@ in'
 7.0. [One ve.ssel of Akait grain, (jl) f
 
 
-BOOK OF OPENING THE MOUTH
-
-
 74. [Two vessels of Akai of Sut, ^ ^
 
 P‘2.0 111’
@@ -6068,7 +5538,6 @@ JflPli-
 
 78. [One vessel of Uh fruit, f, p
 
-79
 
 80, [Four (or, twenty) baskets of onions,
 
@@ -6095,16 +5564,12 @@ c--*=>3 aaaaaa aaaaaa
 
 87. Spring fruit, flowers, vegetables of all kinds,
 
-AAAAAA
 
 Then the Sem priest approached the offerings, and
 the chief Kher heb said : —
 
 
 PRESENTATION OF OFFERINGS
-
-
-139
 
 
 '' Hail, Osiris !
@@ -6155,8 +5620,6 @@ and to Mut-Sekhit-Bast in Asher (Thebes),
 
 “ one thousand Hat tchefau cakes,
 
-
-140 BOOK OF OPENING THE MOUTH
 
 '' one tliousand tilings of all kinds, beantiful, pure, and
 sweet, and
@@ -6289,8 +5752,7 @@ enemies.
 
 PRESENTATION OF OFFERINGS 143
 
-'' Spirit, lie performetli liis transformations, and lie set-
-teth his heart wheresoever his Kau are.”
+'' Spirit, lie performetli liis transformations, and lie setteth his heart wheresoever his Kau are.”
 
 The Sem priest then made an offering to [Ea, and]
 Thoth, and Osiris, and Maat of bread, and beer, and
@@ -6417,12 +5879,6 @@ VOL. II.
 
 
 L
-
-
-146
-
-
-BOOK OF OPENING THE MOUTH
 
 
 '' And tlie House is opened for its Lord.
@@ -6564,9 +6020,6 @@ apparel. 4. Then shall be said four times : —
 THE PURIFICATIONS
 
 
-149
-
-
 II_ 5_
 
 
@@ -6603,12 +6056,6 @@ Text : '' Thou art pure, thou art pure.
 
 III. Vignette : The statue of the king standing on
 a mound of sand, and the Smer pouring water over it
-
-
-150
-
-
-BOOK. OF OPENING THE MOUTH
 
 
 from a vase {tesheo^) which he holds in both hands before
@@ -6662,8 +6109,7 @@ caisi
 
 
 IV. Vignette : The statue of the king standing on a
-mound of sand, as before; before it is the Smek pre-
-senting a vase of water of incense. The Smer walks
+mound of sand, as before; before it is the Smek presenting a vase of water of incense. The Smer walks
 round the statue with a vase of water in which five
 grains of qemd incense of Nekheb, @ ®
 
@@ -6688,12 +6134,6 @@ Text: ''13. Pure, pure is Osiris, the king, Men-
 " of Homs and Set, the semdn of thy mouth ; thy
 
 
-BOOK OF OPENING THE MOUTH
-
-
-152
-
-
 AAAA(V\ G I
 
 
@@ -6713,8 +6153,7 @@ I
 
 
 V. Vignette : The statue of the king standing on a
-mound of sand, as before ; before it is the Smer pre-
-senting a vase of incense. The Smer walks round the
+mound of sand, as before ; before it is the Smer presenting a vase of incense. The Smer walks round the
 statue with a vase of water in which five grains of Ha
 
 (or Meh) incense of Shetpet, ®
@@ -6879,9 +6318,6 @@ a mound of sand, as before ; before it is the Smee, who
 THE CENSINGS
 
 
-155
-
-
 □
 
 
@@ -6950,8 +6386,6 @@ I
 
 I
 
-1
-
 
 tomb ministrant* In front of tlie statue is the Sem,
 who is seated on a short bed, or couch, with his legs
@@ -6984,9 +6418,6 @@ My father, my father !
 RISING FROM THE DEAD
 
 
-157
-
-
 ilii
 
 
@@ -7015,9 +6446,6 @@ Kiient) : —
 
 seem to indicate that Horiis laid a snare in the form of a beetle of
 some kind.
-
-
-158 BOOK OF OPENING THE MOUTH
 
 
 46. And the Ammu Khentu shall say to the Sem: —
@@ -7053,8 +6481,6 @@ AWvNA AAAAAA HLL 1 ■Ku=a--. C
 
 
 .i= n n '=^
-
-AAAAAA
 
 
 1 59
@@ -7094,9 +6520,6 @@ staff, and shall put on a QENA garment, and shall say : —
 
 
 i6o
-
-
-BOOK OF OPENING THE MOUTH
 
 
 “54,55. and I have provided Mm with a large
@@ -7161,9 +6584,6 @@ ri
 ■■y
 
 
-163 BOOK OF OPENING THE MOUTH
-
-
 “ 65. your father, [that is to say] this statue of the
 “ GG. king Men-Maat-Ea, giver of life ! ”
 
@@ -7177,8 +6597,7 @@ Text : 67. And the Sem shall say : —
 “ 69. thee to make to shine the head of my father.”
 
 XVI. Vignette : The statue of the king standing on
-a mound of sand, as before. Behind it stands a minis-
-trant, and in front of it are the three Ammu Khent.
+a mound of sand, as before. Behind it stands a ministrant, and in front of it are the three Ammu Khent.
 
 Text : 70. And the Ajimu Ivhent .shall say : —
 
@@ -7198,10 +6617,6 @@ XVII. 73, 74. Yl ^ f ffl 1 ^ 75.
 
 U I AAAAAA A ^ HLl
 
-1
-
-
-163
 
 - 75 "
 
@@ -7262,9 +6677,6 @@ Text : [And the Sem] shall say : —
 “ 78. this mine Eye from his mouth;
 
 “ 7n. I have cut off the kJiqjcsh (i.e., leg, or thigh).”
-
-
-164 BOOK OF OPENING THE MOUTH
 
 
 XIX. 81. Yl f J
@@ -7439,9 +6851,6 @@ AWvV\ ^ ;
 A^^lV^A j
 
 
-167
-
-
 A^/V'A^
 I /WVAAA
 
@@ -7459,9 +6868,6 @@ AA/VWA i )9
 
 
 V
-
-
-0
 
 
 Text: 94. [Tlien sliall tlie Skm] say to tlie statue
@@ -7486,9 +6892,6 @@ Thy mother smiteth thee and weepeth for thee.
 
 "I have opened for thee thy mouth, with the Leg,
 ' the Eye of Horns.’'
-
-
-BOOK OF OPENING THE MOUTH
 
 
 1 68
@@ -7558,16 +6961,14 @@ AW«AA
 
 XXIII. ViaKETTE: The Sem standing before the
 statue of the king, and performing the ceremony of
-opening the mouth and the two eyes with two instru-
-ments, . Behind him is the Kher heb.
+opening the mouth and the two eyes with two instruments, . Behind him is the Kher heb.
 
 Text : 100. Thy mouth hath been made firm. I
 
 “ have balanced for thee thy mouth 101. conformably
 “ to thy teeth, 0 thou statue of the Osiris, king Men-
 “Maat-Ea. 102. I have opened for thee thy mouth,
-“ 0 statue of the Osiris, king Men-Maat-Ea, the ever-
-living. 103. I have opened for thee the two eyes.''
+“ 0 statue of the Osiris, king Men-Maat-Ea, the everliving. 103. I have opened for thee the two eyes.''
 
 XXIV. [And the Sem shall also] say : —
 
@@ -7576,9 +6977,6 @@ XXIV. [And the Sem shall also] say : —
 
 
 TriK THIGH OF IRON
-
-
-169
 
 
 nr AAWVV V— — ^
@@ -7648,12 +7046,6 @@ Jl^lk “'•■kJ'l
 " as he opened the mouth of Osiris, 109. wdth the
 
 
-BOOK OF OPENING THE MOUTH
-
-
-170
-
-
 ‘‘ iron wliicli cometli forfcli from Set, with tlie meskha
 of iron wherewitli lie opened the mouth of the gods
 ‘‘ shall be .opened the mouth of the 110. Osiris, king
@@ -7677,13 +7069,9 @@ And the Au As shall say : —
 THE UR-HEKA
 
 
-171
-
-
 XXV. Vignette: The Sem standing before the
 statue of the king, and iierforming the ceremony of
-opening the mouth and the two eyes with the instru-
-ment TTk-heka, ^ I U . Behind him stands
+opening the mouth and the two eyes with the instrument TTk-heka, ^ I U . Behind him stands
 
 the Kher heb, and the Sem says : —
 
@@ -7768,9 +7156,6 @@ make thee to live, thou becomest a lord of two-fold
 THE UR-HEKA
 
 
-173
-
-
 “ Maat-Ea, is Shu, the sou of Tern, and [as] he liveth
 “ [so] shalt thoxi live. Shu hath provided thee [with all
 “ things]. Shu hath exalted thee 124. to the height
@@ -7788,12 +7173,6 @@ THE UR-HEKA
 
 
 /
-
-
-174
-
-
-BOOK OF OPENING THE MOUTH
 
 
 XXVL 129. i ^ ^ ^ I
@@ -7850,8 +7229,6 @@ XXVIII. 135.
 137.
 
 
-175
-
 cm 134.
 
 
@@ -7901,9 +7278,6 @@ Text: “135. I am Horus. 136. I will not permit
 XXIX. Vignette A : The statue of the king standing
 
 
-176
-
-
 BOOK’ OF OPENING THE MOUTH
 
 
@@ -7944,14 +7318,10 @@ Text : “ 139. [And the Sem] shall say to the statue
 
 “ 140. king Men-Maat-Ea, 141. giver of life,
 
-“ I have brought unto thee thy son, 142. thy be-
-loved, and he shall open thy mouth.”
+“ I have brought unto thee thy son, 142. thy beloved, and he shall open thy mouth.”
 
 
 THE METCHETFET
-
-
-177
 
 
 XXX. Vignette: The statue of the king standing
@@ -8014,9 +7384,6 @@ Text : “ 150. 0 statue of the Osiris, king Men-maat-
 COLOURING THE LIPS
 
 
-179
-
-
 ‘'Eu, 151, tliy moutli liatli been made firm,. 152. I
 
 “ have made to balance for thee thy month conformably
@@ -8038,9 +7405,6 @@ Text : " 155. His mouth hath been rubbed — sch (i.e.,
 
 
 i8o
-
-
-BOOK OF OPENING THE MOUTH
 
 
 156.
@@ -8121,8 +7485,7 @@ nil
 164.
 
 
-XXXA’'. Vignette A : The statue of the king stand-
-ing on a mound of sand, as before. Before it, lying on
+XXXA’'. Vignette A : The statue of the king standing on a mound of sand, as before. Before it, lying on
 the ground, is a bull bound for the slaughter, and the
 slaughterer is cutting oft’ one of its legs. At its head
 stands the Sem, and near the tail is a woman, the
@@ -8155,9 +7518,6 @@ Text : “ 162. Thy mouth hath been opened for thee,
 BOOK OF OPENING TPIE MOUTH
 
 
-182
-
-
 \/
 
 
@@ -8180,9 +7540,6 @@ g ? n /WWW
 XXXVI. 167. H ^ ^ “ If r| J
 
 Jj idi T /wwv
-
-
-0
 
 
 /WWW ,
@@ -8217,8 +7574,6 @@ Text: “167. 0 statue of the Osiris, king Men-Maat-
 SEB-UR AND TUN-lNU 1 83
 
 
-AAAAAA ;
-
 AAA/WA J
 
 
@@ -8232,11 +7587,6 @@ AA/WvA j
 =^iU4[iii r°iS°i v
 
 XXXVII. 171, Yl I ~ H
-
-
-AAAAAA
-
-AAAAAA
 
 
 i I I
@@ -8267,11 +7617,6 @@ the Sem says : —
 “ am thy son,
 
 
-BOOK OF OPENING THE MOUTH
-
-
-184
-
 173.
 
 
@@ -8284,11 +7629,6 @@ AAV\AA
 
 
 ' V
-
-
-AAAAAA
-
-AAAAAA
 
 
 -<S>-
@@ -8314,11 +7654,6 @@ AWw\A V-
 
 
 'Sm. V
-
-
-AAAAAA
-
-AAAAAA
 
 
 l lTTKIll " awvaa
@@ -8382,9 +7717,6 @@ H 4
 AWAAA
 
 
-AAAAAA
-
-
 HJV
 
 
@@ -8411,9 +7743,6 @@ lll^QP^
 “ Company of the gods who are in the House of the
 “Aged Prince who is in Annu, and he hath taken
 “ possession of the Ueerit Crown
-
-
-BOOK OF OPENING THE MOUTH
 
 
 1 86
@@ -8446,15 +7775,9 @@ AA/WV\
 II I ^ [STarM;]
 
 
-0
-
-
 Q-
 
 I I 1 ^
-
-
-AAAAAA
 
 
 J]
@@ -8469,12 +7792,6 @@ a
 180.
 
 
-AAAAAA
-
-
-AAAAAA
-
-
 “ 177. tlierein, before Horus, the Lord of mankind.
 
 “ 0 Osiris, king Men-Maat-Ea, Homs hath opened
@@ -8485,9 +7802,6 @@ AAAAAA
 
 
 THE CENSING
-
-
-187
 
 
 181.
@@ -8551,9 +7865,6 @@ of that work said for him through the care of his Queen Sat-Ba.
 1^55
 
 
-BOOK OF OPENING THE MOUTH
-
-
 AA^AAA AWwV\ | [ ] ( |
 
 
@@ -8589,9 +7900,6 @@ o
 186,
 
 
-1
-
-
 “ cjometli to the backbone of the Osiris. The
 
 “Mbn-ue cometh, the ]\Ien--tje cometh. The member
@@ -8612,9 +7920,6 @@ right hand the jSTemes bandlet, and says
 
 
 THE NEMES
-
-
-189
 
 
 n r*- ‘* ''‘' ' ''*'‘l /WVAAA ca j
@@ -8659,12 +7964,6 @@ Text: “ 191. 0 statue of the Osiris, king Men-Maat-
 
 “ 192. I have filled thine eye for thee with Metcliet
 “ unguent.”
-
-
-BOOK OF OPENING THE MOUTH
-
-
-190
 
 
 XLII. igS.'Yl 194 .^aaaa^^^
@@ -8775,12 +8074,6 @@ Text: “199. Unite thyself, unite thyself to this
 “ this earth, 0 Osiris, 201. king Men-Maat-Ea.’'
 
 
-192
-
-
-BOOK OF OPENING THE MOUTH
-
-
 XLIV.
 
 
@@ -8816,18 +8109,12 @@ and saying : —
 CENSING THE GODDESSES
 
 
-193
-
-
 XLVI. 206.
 
 
 €2^
 
 A(VW\A
-
-
-207
 
 
 D=t3 ■<S>-
@@ -8881,15 +8168,6 @@ XJrt-liekat.
 VOL. II.
 
 
-0
-
-
-194
-
-
-BOOK OF OPENING THE MOUTH
-
-
 Aww\ co^ •
 
 
@@ -8903,8 +8181,6 @@ MAAAA
 
 j □ ^
 
-
-1
 
 I S=:>
 I
@@ -8936,9 +8212,6 @@ brightly.
 
 
 OFFERINGS TO ALL THE GODS
-
-
-195
 
 
 e I
@@ -8993,16 +8266,14 @@ and important set of ceremonies were performed daily
 
 196 BOOK OF OPENING THE MOUTtI
 
-in the Temple of Amen-Ea for the purpose of main-
-taining the intimate connection which existed between
+in the Temple of Amen-Ea for the purpose of maintaining the intimate connection which existed between
 the king and the great god of Thebes. To the work
 which describes these ceremonies and supplies the
 formulae which accompanied them the title Daily
 “Eitual of the Divine Cult’’ lias appropriately been
 given.
 
-The chief object of the ceremonies, and of the for-
-mulae which were recited duriog their performance,
+The chief object of the ceremonies, and of the formulae which were recited duriog their performance,
 was to renew the supply of tlie fluid of life/’ and
 the divine essence that made him a god upon earth,
 which the king obtained from Amen-Ea. Many of
@@ -9011,13 +8282,11 @@ of the Book of Opening the Mouth, and to enable the
 reader to compare such portions in the two Books, a
 translation of the Daily Eitual of the Divine Quit ” is
 here given. The whole of this work has been recently
-edited by M. Moret in Lc, Bituel tlu Culte divin jour-
-nalier^ Paris, 1902, where he has printed a transcript
+edited by M. Moret in Lc, Bituel tlu Culte divin journalier^ Paris, 1902, where he has printed a transcript
 of the hieratic text in a papyrus at Berlin, with many
 variant and additional chapters from the Temple of
 Ahydos and elsewhere, French translations, notes, &c.
-It is therefore unnecessary to give hieroglyphic tran-
-scripts ill tliis work.
+It is therefore unnecessary to give hieroglyphic transcripts ill tliis work.
 
 
 ( 197 )
@@ -9025,7 +8294,6 @@ scripts ill tliis work.
 
 THE
 
-RITUAL OF THE DIVINE CULT'
 
 The beginning of the Chapters of the ceremonies
 OF the god which are to be performed in the House
@@ -9055,12 +8323,6 @@ Tlic following shall bo said : —
 ' For a complete hieroglyphic transcript of the hieratic text and
 a French translation, see hloret’s excellent work, De liitwl du Oulte
 divin journalier ^ Paris, 1902.
-
-
-198
-
-
-RITUAL OF THE DIVINE CULT
 
 
 The Second Ceremony.
@@ -9111,9 +8373,6 @@ The foUmnng shall he said : —
 OF ENTERING THE SANCTUARY
 
 
-199
-
-
 To Khamutef within the Disk ! To Ner who shineth
 from his two TJtchats 1 To Ea Heru-klmti, the great
 '' god who hath the mastery over the feather at the head
@@ -9158,12 +8417,6 @@ ANOTHER CHAPTER.
 “goddesses who dwell in Uast (Thebes), 0 gods and
 
 
-200
-
-
-RITUAL OF THE DIVINE CULT
-
-
 ^'goddesses who dwell in Annu (Heliopolis), 0 gods
 '' and goddesses who dwell in Het-ka-Ptah (Memphis),
 0 gods and goddesses who dwell in heaven, 0 gods
@@ -9205,9 +8458,6 @@ The, following shall he said : —
 OF BREAKING THE SEAL
 
 
-201
-
-
 “destroy the god upon his seat; nay, I have come to
 “ place the god upon his seat. Thou art stablished
 “ uj)on thy great seat, Amen-Ea, Lord of the Throne of
@@ -9240,12 +8490,6 @@ THE CHAPTER OF OPENING THE FACE OF THE GOD.
 Tlte followinu i<hall ho said : —
 
 “ The two doors of heaven open, the two doors of
-
-
-202
-
-
-RITUAL OF THE DIVINE CULT
 
 
 '' earth unclose. Seb maketh obeisance unto the gods
@@ -9286,9 +8530,6 @@ of the Throne of the Two Lands. I am pure to him.
 THE PROSTRATIONS
 
 
-203
-
-
 “ are to you. I smell — life to Per-aa (Pharaoh), praise
 '' be to the Lord of the Two Lands.”
 
@@ -9323,12 +8564,6 @@ Thefolloioing shall be said : —
 " watched [to do] thy will, I have not been overthrown
 " by thine enemies on this day. Thine enemies whom
 " thou hatest thou hast overthrown [on] thine enemies
-
-
-204
-
-
-RITUAL OF THE DIVINE CULT
 
 
 “on this (lay. He who adoreth his lord feeleth not
@@ -9368,9 +8603,6 @@ ANOTHER CHAPTEE.
 
 
 HYMNS TO AMEN-RA
-
-
-205
 
 
 “ limbs, adoration to the Great Company of the Gods
@@ -9444,9 +8676,6 @@ The folloioing shall he said : —
 THE CENSING
 
 
-207
-
-
 Two Lands, and beautiful on the day wherein he
 ''resteth his heart upon it. It openeth his flesh, it
 ‘'knitteth together his bones, it gathereth together his
@@ -9480,9 +8709,6 @@ The folloiaing shall he said : —
 
 
 2o8
-
-
-RITUAL OF THE DIVINE CULT
 
 
 The Seventeenth Ceremony.
@@ -9568,9 +8794,6 @@ VOL. II.
 2tO
 
 
-RITUAL OF THE DIVINE CULT
-
-
 '' Horus from the hands of his enemies. No male devil
 '' and no female devil shall enter into this temple.
 
@@ -9647,14 +8870,7 @@ The next eight ceremonies are repetitions of those
 1 The name of the sanctuary or shrine of the Sun-god.
 
 
-212
-
-
-RITUAL OF THE DIVINE CULT
-
-
-■which have already been described (see above, Cere-
-monies IX. ff.).
+■which have already been described (see above, Ceremonies IX. ff.).
 
 The Thirtieth Ceremony.
 
@@ -9690,9 +8906,6 @@ ANOTHER CHAPTER.
 THE CENSINGS
 
 
-213
-
-
 which ciroppeth from tlio God comotli, and the smell
 thereof is upon thee, 0 Ameu-Ea, Lord of the Throne
 ^'of the Two Lands. The Eye of Horns liideth thee
@@ -9723,12 +8936,6 @@ thereof is upon thee, 0 Ameu-Ea, Lord of the Throne
 " art established as the lord of the rising, and it formeth
 "an ornament before thee, 0 Amen-Ea, Lord of the
 " Throne of the Two Lands. I have bound up for thee
-
-
-214
-
-
-RITUAL OF THE DIVINE CULT
 
 
 '' the Eye of HoruS; the smell thereof cometh to thee ;
@@ -9846,9 +9053,6 @@ ANOTHER CHAPTER.
 HYMNS TO AMEN-RA
 
 
-217
-
-
 watcli, Amen-lta, Lord of tlie Throne of tlio Two Lands,
 '' in peace.
 
@@ -9885,9 +9089,6 @@ watcli, Amen-lta, Lord of tlie Throne of tlio Two Lands,
 2i8
 
 
-RITUAL OF THE DIVINE CULT
-
-
 ANOTHER OHAPTEli.
 
 “Watch, and be in peace, thou watchest in peace;
@@ -9922,8 +9123,6 @@ ANOTHER OHAPTEli.
 HYMNS TO AMEN RA
 
 
-219
-
 '' what thou wishest, so that thou ixiayest be wholly at
 ''' peace witli him on this day/'
 
@@ -9954,9 +9153,6 @@ who hath joined the Abet Crown to the Mat Crown,
 " One, who is more hidden than his creations, who ruled
 " this earth when he appeared from out of the water,
 " who enveloped with fire the impotent one, and drove
-
-
-220
 
 
 RITUAL OF TI-IE DIVINE CULT
@@ -10001,9 +9197,6 @@ The followi^ig shcdl he said : —
 THE PRESENTATION OF TRUTH
 
 
-221
-
-
 “and the earth are glad, the Great Company of the
 “Gods sing songs of praise, saying, ‘Amen-Ea Heru-
 “ Khuti appeareth as one whose word is law.’ ”
@@ -10038,12 +9231,6 @@ The follo'wing shall he said : —
 “ upon her. The beings of the Circle of the heavens
 “ have their hands [stretched out] to praise thee every
 “day. Thou hast given breath to every nostril to
-
-
-222
-
-
-RITUAL OF THE DIVINE CULT
 
 
 “vivify that ■which thou didst make with thy two
@@ -10082,9 +9269,6 @@ RITUAL OF THE DIVINE CULT
 THE PRESENTATION OF TRUTH
 
 
-223
-
-
 “lookesfc upon Maat, Shii, the son of Ea, thy priest,
 ''maketh Maat to he in the hook of thy possessions,
 ''and thou hast peace and flouiishest through her.
@@ -10115,12 +9299,6 @@ THE PRESENTATION OF TRUTH
 "she existeth before thee for ever. [An offering] of
 " Maat hath been made unto thee to give satisfaction to
 "thy heart, and thy heart shall live in her, and thy
-
-
-224
-
-
-RITUAL OF THE DIVINE CULT
 
 
 “ soul shall live, 0 Amen-Ea. Maat is absorbed into
@@ -10161,9 +9339,6 @@ RITUAL OF THE DIVINE CULT
 OF CEl^SING THE GOBS
 
 
-225
-
-
 '' The White Crown and the Eed Crown are upon thy
 ^4iead, they are the 1:)eauties of thy head. Maat is
 stablislied within the Ax:)ts, yea twice established, she
@@ -10197,12 +9372,6 @@ The following shall loo said : —
 
 “ The gods in the South and in the North are-purified,
 VOL. IT. Q
-
-
-226
-
-
-RITUAL OF THE DIVINE CULT
 
 
 and the Great Company of the Gods likewise who are
@@ -10240,9 +9409,6 @@ nemes bandlet about his neck and his matu bandlet
 THE PURIFICATIONS
 
 
-227
-
-
 “ Tliothj my fingers are upon tliee like [those of] Anpu,
 “ at the head of the divine hall. I am a living servant
 “ of Ea. I am an ah priest, for I am pure {ah), and my
@@ -10274,12 +9440,6 @@ stahte) four tivws : —
 “ Two Lands. I have presented to thee the water in
 “ [the vases], the Eye of Horns. Thine eye is offered
 “ unto thee, thy head is offered unto thee, thy bones are
-
-
-228
-
-
-RITUAL OF THE DIVINE CULT
 
 
 offered unto tliee, and thy head is stablished upon thy
@@ -10357,12 +9517,6 @@ The following shall he said : —
 “ Horus.”
 
 
-230
-
-
-RITUAL OF THE DIVINE CULT
-
-
 The Thirty-eighth Ceremony.
 
 THE CHAPTER OF PUTTING ON THE BANDLBT.
@@ -10401,9 +9555,6 @@ The following shall be said : —
 THE GREEN AND RED BANDLETS
 
 
-231
-
-
 “are in its greenness, and one reneweth Ms youth
 “through it as Ea renewed his youth. 0 Amen-Ea,
 “ Lord of the Throne of the Two Lands, I have presented
@@ -10436,8 +9587,6 @@ Thefolloioing shall he said : —
 “ all who are in the Two Lands. Thine arm cannot be
 “resisted in all the earth, 0 Amen-Ea, Lord of the
 
-
-, -232 RITUAL OF THE DIVINE CULT
 
 “ Throne of the Two Lands. I have presented unto
 “ thee the Eye of Horns, and thou seest through it.’'
@@ -10518,8 +9667,6 @@ THE UNGUENTS 233
 “ thyself therewith.
 
 
-234 RITUAL OF THE DIVINE CULT
-
 “Hail, Amen-Ea, Lord of the Throne of the Two
 “ Lands, I have filled thee with the Eye of Horns, [with]
 “ the Metcliet oil which cometh forth from the Eye of
@@ -10554,9 +9701,6 @@ make use tliereof. Cause thou him to have power
 
 
 THE UNGUENTS
-
-
-235
 
 
 “ over his body. Give thou to him his sacrifices through
@@ -10594,8 +9738,6 @@ The following shall be said : —
 “possession thereof, Amen-Ea, Lord of the Throne of
 “the Two Lands, thou hast taken possession thereof.
 
-
-236 RITUAL OF THE DIVINE CULT
 
 ''Thou hast spread the Eye of Horns in the form of
 
@@ -10673,8 +9815,6 @@ The following shall be said : —
 “purification is the purification of Thoth, and the
 
 
-238 RITUAL OF THE DIVINE CULT
-
 purification of Tfiotli is thy purification. Thy purifi-
 “ cation is the purification of Sep, and the j)urification
 of Sep is thy purification. Thy mouth is the mouth
@@ -10713,9 +9853,6 @@ times.
 NATRON AND MYRRH
 
 
-239
-
-
 The Fifty-second Ceremony.
 
 THE CHAPTER OF NATRON.
@@ -10751,8 +9888,6 @@ The follotving shall he said : —
 “ of the South and North, Pharaoh, at the head of all
 “ the living for ever.”
 
-
-240 RITUAL OF THE DIVINE CULT
 
 These axe the offerings which shall be made before
 Amen.
@@ -10791,9 +9926,6 @@ THE CHAPTER OF ENTERING INTO THE SHRINE.
 
 
 OF CENSING THE URAEUS
-
-
-241
 
 
 '' tli6 lord of men. Tliy places (tlirones ?) are given .to
@@ -10872,9 +10004,6 @@ UNCOVERING OF THE FACE.
 THE SETEF-SA CHAMBER
 
 
-243
-
-
 ''cool water, wlien thou standest in the pure, cool
 " water, and thou refreshest thyself with incense. Come,
 " come in peace. Thou risest in peace. The incense is
@@ -10906,8 +10035,6 @@ SETEP-SA CHAM BEK.
 “ thou hast looked upon the things which Horns, the
 “ dweller in Mount Bakha, hath looked upon, [that is]
 
-
-244 RITUAL OF THE DIVINE CULT
 
 Neith ill Sais and Hatlior in lier horizon. Amen is
 “ satisfied -with all the things which the Son of Ea, Seti-
@@ -10981,12 +10108,6 @@ If thou wouldst live at the head of the living, say :
 "Eye of Horns, 0 Amen-Ea, hath passed with its
 
 
-246
-
-
-RITUAL OF THE DIVINE CULT
-
-
 '' beauties. It hatli stablished thy two j)lumes on thy
 head that thou mayest smite thine enemies.” • The Son
 of Ea, Seti Mer-en-Ptah, saith, '' Amen-Ea, I have raised
@@ -10998,8 +10119,7 @@ PECTORAL.
 
 Homage to thee, Tern ! Homage to thee, Khepera,
 when thou art exalted upon the steps, when thou xisest
-on the obelisk in the liouse of the Obelisk in lielio-
-polis, when thou emittest moisture like Shu, when
+on the obelisk in the liouse of the Obelisk in lieliopolis, when thou emittest moisture like Shu, when
 '' Lhou spittest like Tefmit, when thou placest thine
 “ arms round them Avith the Ka so that thou mayest
 'Onake thy Ka to be in them. Hail, Temu, thou hast
@@ -11013,11 +10133,3 @@ Crowns, Seti Mer-en-Ptah, saith : " 0 Amcn-Ea, I
 " unto thee thine Eye.”
 
 
-END OF VOL. IL
-
-
-LONDON :
-
-PRINTED BY WILLIAM CLOWES AND SONS, LIGHTED,
-
-DUKE STREET, STAMEORD STREET, S.E., AND OREAT WINDMILL STREET, W,

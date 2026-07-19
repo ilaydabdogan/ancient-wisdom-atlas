@@ -69,6 +69,134 @@ figures:
 
 # Narratives of the Rites and Laws of the Yncas
 
+^    THE      \
+
+
+WORKS    ISSUED     BY
+
+
+Wi)t  ?^alilugt  0ocietu*
+
+
+NARRATIVE    OF    THE    RITES    AND
+LAWS    OF    THE    YNCAS.
+
+
+FIRST  SERIES.  NO.  XLVUI-MDCCCLXXUI
+
+
+NARKATIVES
+
+
+OF
+
+
+THE   RITES   AND   LAWS
+
+
+oy
+
+
+THE    YNCAS.
+
+
+TRANSLATED
+
+
+FEOM    THE    ORIGINAL    SPANISH    MANUSCEIPTS,
+
+AND  EDITED,
+
+ESIitfj   Notes   ana    an    Entrotiuction,
+
+BY
+
+CLEMENTS   R.  MARKHAM,  C.H.,  F.R.S.
+
+
+BURT  FRANKLIN,  PUBLISHER
+NEW  YORK,  NEW  YORK
+
+
+Published  by
+
+BURT  FRANKLIN
+
+514  West  n3th  Street
+
+New  York  25,  N.  Y.
+
+
+tvtpJl  >
+
+
+ORIOINALLV  PUBLISHED  BY  THE  HAKLUYT  SOCIETY
+REPRINTED  BY  PERMISSION
+
+
+3^os.SJV)
+
+
+PRINTED  IN  THE  U.S.A.
+
+
+COUNCIL
+
+
+THE    HAKLUYT    SOCIETY.
+
+
+The  Right  Hon.  Sib  DaVID  DUNDAS,  Puesident.
+
+Admiral  C.  K.  DKINKWATER  BETHUNE,  C.B.  »
+
+MiJOB-GKNEEAL  SiR  HENRY   C.  RAWLINSOX,  K.C.B.,  D.C.L.,  !•  VKf:-l'iiEsii.EvTS  .
+F.K.S.,  VicePbks.R.G.S.  J
+
+Rev.  GEORGE  P.  BADGER.
+
+JOHN  BARROW,  Esq.,  F.R.S.
+
+Vice-Admibal  COLT.IKSON,  C.B.
+
+W.  E.  FRERE,  Esq.
+
+Captain  J.  G.  GOOUENOUGH,  R.N.
+
+CH.\RLES  GREY,  Esq.
+
+EGERTOX  VERNON  HARCOURT,  Esq.
+
+JOHN  WINTER  JONES,  Esq.,  F.S.A.
+
+R.  H.  Major    Esq.,  F.S.A.,  Sec.R.G.S.,  F.S.A.
+
+SiB  W.  STIRLING  MAXWELL,  Babt.
+
+Sib  CHARLES  NICHOLSON,  Bart.,  D.C.L.
+
+Vice-Admiral  EIJAMJUS  OMMANNEY,  C.B.,  F.R.S.
+
+Reab-Ahmiral  SHERARD  OSBORN,  C.B.,  F.R.S.
+
+The  Loed  STANLEY  of  Aldebley.
+
+The  Hon.  FREDliRlCK  WALPOLE,  M.P.
+
+CLE.\IENTS  R.  MARKHAM,  Esq.,  C.B.,  F.R.S.,  Sec.R.G.S.,  HoNor.Ar.Y  Si  CRET.ir.Y.
+
+
+CONTENTS.
+
+
+I.
+
+An  Account  of  the  Fables  and  Rites  of  the  Yncas,  by  Christoval
+
+de  Molina  .  .  _  .  Page         3
+
+II.
+
 An  Account  of  the  Antiquities  of  Peru,  by  Juan  de  Santa  Cruz
 
 Pacbacuti-yamqui  Salcamayhua  -  -  -       C
@@ -7988,3 +8116,2536 @@ fHuaca-chaca.     A  bridge  over  the  Apurimac,  116.     See  G.
 
 de  la  Vega,  i,  pp.  234,  241
 •\-Huaca-puncu-mayu.      River   also    called    Capi-mayu   and
+
+Huatauay,  flowing  through  Cuzco,  50
+■\Huacay-pata.      Great    square   at   Cuzco,   17,   39,    43,    53,
+
+87,99
+■\Huacra-chucu,  97.     See  G.  de  la  Vega,  ii,  p.  322
+Huamalies  province,  94
+fHuamanca  (Guamanga),  95
+Huaman-cancha,  near  Cuzco,  43
+Huamanin,,  near  Vilcas,  95
+Huanacu  (see  Tia-huanacu) ,  16
+Huana-calla,  91
+
+•fXHuancas.     Great  tribe  of,  87,  93,  98,  114
+Huancarama.   Between  the  Apurimac  and  Andahuaylas,  115
+fHuancanc.     On  the  north  side  of  lake  Titicaca,  100
+
+
+INDEX.  181
+
+■fHuancavillca.     The  modern  Huancavelica,  94,  102
+■f^Huanucu  province,  94,  114
+Huaray-pacha,  22
+Huarmi-pucara,  101
+Huari,  15
+
+Huarochiri  province,  125,  135,  143
+■fHicaruc,  88.     See  G.  de  la  Vega,  i,  p.  80
+Huascar-pata,  111
+
+fXHuayllas,  98.     See  G.  de  la  Vega,  ii,  p.  132
+Huayparya.     South  of  Cuzco,  22
+Hucuru,  87
+
+■fHurin  Cuzco,  or  Lower  Cuzco,  22,  33,  43,  44,  47,  48,  76,
+151
+
+"fJaquijahuana  (see  Sacsahvana),  23.  See  G.  de  la  Vega,  i,
+p.  80;  ii,  p.  53.  Also  Oieza  de  Leon,  pp.  9,  32,  150,
+320,  321
+
+Langui-supa,  Yayanacota  de.  The  lake  of  Lanqui  in  the
+lofty  region  west  of  the  vale  of  Vilcamayu,  88
+
+Latallaco  hill,  near  Lima,  136
+
+Llallahua-pucara,  100,  101
+
+Llantapa,  in  Huarochiri,  142
+
+LucHoc-chullo  farm,  98
+
+Lupaca  province,  in  Colla-suyu,  on  the  western  shore  of  lake
+Titicaca,  101
+
+Mama  province,  a  district  of  Huarochiri  {Alcedo,  ii,  p.  433),
+94,  121
+
+Manares  province,  102
+
+Mantucalla.     Ynca  remained  at,  during  sacrifices,  18
+
+Maras.     A  village  north  of  Cuzco,  43
+
+■\Marca-huasi.  About  ten  leagues  from  Cuzco,  in  the  pro-
+vince of  Abancay  {Alcedo,  ii,  p.  457),  23
+
+•\Ma8ca8.  Vanguard  in  Ynca^s  array,  116.  See  G.  de  la
+Vega,  i,  p.  80
+
+Matahua.     A  place  near  Cuzco,  38
+
+Matra-coto.     Mountain  in  Huarochiri,  143
+
+Mauli,  liver,  168
+
+
+182  INDEX.
+
+Mulli-pumpa.     In  Urcos,  18
+XMulla-hatnjpahi.     In  the  kingdom  of  Quito^  113
+Musiis  {Moxos),  168
+
+•\-Muyna,  111.     See  G.  de  la  Vega,  \,  pp.  80,  86,  190,  306,
+349 ;  ii,  pp.  306,  485
+
+Ollachea.     In  the  province  of  Caravaya,  93
+Ollanta-tamjpu.  In  the  vale  of  Vilcamayu,  near  Cuzco,  51,  116
+Omoto-yanacMiri.      Sacrifice  at,  17
+"fXOtabala.     In  the  kingdom  of  Quito,  110
+
+•fXPaccari-tamjm,  6,  38,  71,  173.    See  G.  de  la  Vega,  i,  p.  65
+"fXP^^chacamac.     On  the  coast  of  Peru,  south  of  Lima,  29,
+
+31,  33,  60
+Pachatusam.     A  high  hill  near  Cuzco,  95,  104
+•fPajjris,  96,  102,  116.     See  G.  de  la  Vega,  i,  p.  80
+fParinacochas,  59,  96.     See  G.  de  la  Vega,  i,  p.  231
+■fXPastus,  99,  110.     See  G.  de  la  Vega,  i,  p.  40  ;  ii,  p.  241,
+
+350
+Pati.     A  plain  near  Andahuaylillas,  18
+Paucaray,  93
+
+Pisac.     In  the  vale  of  Yilcamayu,  near  Cuzco,  23,  100
+Pocama'Cancha,  112
+Pollcaro  river,  116
+Poquen-cancha.    Temple  where  historical  records  were  kept,
+
+near  Cuzco,  4
+fPoqui-llacta,  102.     See  G.  de  la  Vega,  i,  pp.  79,  86
+•fPotosi.     In  Upper  Peru,  161
+■fPuca-marca,  at  Cuzco,  21,  118.     See  G.  de  la  Vega,  ii,  p.
+
+246
+•ftPucara.     In  the  Collao,  6,  7,  100,  101
+Puipu-huana.     A  mountain  peak  in  Huarochiri,  144
+Pxima-cancha,  18,  95,  108
+fPuma-chupa.    A  suburb  of  Cuzco,  50.     See  G.  de  la  Vega
+
+ii,  pp.  239,  242,  247
+Puma-huaca,  94
+Puna-marca,  92
+Puquhia.     Near  Moquegua,  100  {Alcedo,  iv,  p.  236)
+
+
+INDEX.  183
+
+Puqumqxie,  47
+
+Futina.    In  the  province  of  Azangaro,  near  lake  Titicaca^  83
+
+■\QueliuaT.  Vanguard  in  the  Ynca's  army,  116.  See  G.  de
+la  Vega,  \,  p.  80.  Quehiie  became  a  village  near  Che-
+cacupe,  in  the  vale  of  VilcE^mayu  [Alcedo,  iv,  p.  284)
+
+Quejpay-pampa,  118
+
+Queros-Hicanacauri.     Sacrifice  at,  17
+
+Quihuar-cancha.     In  Cuzco^  21
+
+■fQuichuas,  100,  116
+
+Quichuipay  lake,  95
+
+•fQuilacti.     In  Upper  Peru,  98
+
+■flQuillasenca,  98,  109  {Alcedo,  iv,  p.  290).  A  tribe  betvreen
+Quito  and  Pasto
+
+Qidlli-yacolca.     Ravine  near  Cuzco,  41
+
+Quillis-cachis.     Aborigines  of  Cuzco,  110,  116
+
+Quilluas,  159
+
+fQuiqiiisana.  A  village  in  Quispicanchi,  in  the  vale  of  Vil-
+camayu,  south  of  Cuzco  (Alcedo,  iv,  p.  293),  18,  22,  96
+
+Quinti.     In  Huarochiri,  143
+
+Quiras-Tnanta  ravine,  39
+
+•^XQuito,  97,  98,  108,  110
+
+Quiza-chilla.     Final  victory  over  the  Chancas  at,  92
+
+■\-Quispi-cancha.  A  province  south  of  Cuzco  {Alcedo,  iv,  p.
+295),  18
+
+Quisuar-cancha.     Temple  at  Cuzco,  11
+
+Quiyancatay  mountain,  87
+
+■fRimac-pampa,  at  Cuzco,  20.     See  G.  de  la  Vega,  ii,  p.  239
+
+Rimac-yuncas,  94,  108
+
+Rontoca.     In  the  Quehuars,  18
+
+•fRucanas  {Lucanas),  93,  117.    See  G.  de  la  Vega,  i,  p.  267;
+
+ii,  pp.  147,  358
+Rumi-huasi,  93
+Rurama,  near  Quiquijana,  18
+fRurucachi,  18,  88.     See  G.  de  la  Vega,  i,  p.  159
+
+Sacalpina.     A  league  from  Cuzco,  54
+
+•fSacsnhuaman.     Fortress  at  Cuzco,  88,  90,  93,  99,  103,  106
+
+
+184  INDEX.
+
+•\XSacsaJiuana,  12,  119
+
+Sallcatay  mountains,  87,  117
+
+8  uncus,  110,  116
+
+Santa  Ana.     A  village  in  Huarocbiri,  130
+
+A  church  in  Cuzco,  170
+
+San  Agustin.     Site  of  the  palace  of  Tupac  Ynca  Yupanqui
+
+at  Cuzco,  100
+San  Damian.     A  village  in  Huarochiri,  130,  142,  144
+Santo  Domingo.    On  the  site  of  the  temple  at  Cuzco,  17,  37
+San  Geronimo  de  Surco.     A  village  in  Huarochiri,  133
+San  Juan.     A  village  in  Huarochiri,  130
+San  Lorenzo  de  Quinti.     A  village  in  Huarochiri,  144
+Santa  Maria  de  Jesus  de  Huarochiri,  143
+Santiago  de  Hanalucayhua  y  HurinhuayhuacancJii,  67
+Sanuc,  74
+Satpina,  22
+Sausa,  6,  87,  88,  93
+Sausiru  farm,  52
+Sienacaca,  144
+Sihuana.     In  Cacha,  18
+
+Soras.     In  the  province  of  Lucanas  [Alcedo,  iv,  p.  445),  93
+Succanca  hill,  1 7
+Sulcanca,  18
+Suntu  hill,  18
+
+Surco.     In  Huarochiri,  133
+Snsur-puquio,  12
+Sutic-toco.     In  Paccari-tampu,  77
+
+f  Tampa,  29,  77,  98,  116
+
+Tancar  village,  82
+
+fXTarma,'94;  103
+
+Tautar,  23
+
+Taya-cassa.  An  island  near  Huanta,  formed  by  the  river
+Anco-yacu,  which  divides  the  province  of  Huanta  from
+that  of  Angaraes  (Alcedo,  iv,  p.  515),  93
+
+fXTiahuanacu,  4,  5,  6,  7,  73,  171
+
+Tilca,  23
+
+Ti(j^uina.     South  part  of  lake  Titicaca,  73
+
+
+INDEX.  185
+
+fTiticaca,  5,  60,  112
+
+fTococachi.     Suburb  of  Cuzco,  85,  97.    See  0.  de  la  Vega,  ii,
+
+p.  249
+"fTtahuantin-suyic.     Empire  of  the  Yncas,  68,  76,  87,  103,
+
+107,  111
+■\XTimi-fam'pa,  97,  108,  113
+
+Pachacamac,  98
+
+fTiccuman,  103
+
+•f*  JJacay-pata  (see  Huacay-jpata)
+■\-Uiscaca-hamha.     Wizards  kept  at,  60
+tJC/rcos,  18,  29,  102,  151
+
+fUrco-suyu,  67,  100.     See  G.  de  la  Vega,  i,  p.  159
+Utcu-pampa.     Huascar  taken  prisoner  at,  117
+
+Vallollo  mountain,  87
+Varivilca  (see  Huarivilca)
+Villca-coto,  133
+
+fVilcanota,  18,  83,  88, 152.  See  G.  de  la  Vega,  ii,  pp.  179,  255
+fVilca-cunca,  99,  119.     See  G.  de  la  Vega,  ii,  pp.  51,  511
+t  Vilca-pampa,  63.     See  G.  de  la  Vega,  ii,  pp.  270,  301
+fXVilcas-huaman,  93,  95,    108,  114,  115.      See  G.  de  la
+Vega,  i,  pp.  324,  326  ;  ii,  p.  58
+
+•fXauxa  (see  Savsa)
+
+Yacachacota.     Huaca  at,  88
+
+Yacolla  hill,  18
+
+•fXYaJiuar-ccocha,  110
+
+Yamquesupa  village
+
+Yana-cocha,  88
+
+Yana-yacu,  113
+
+Yana-yana.     Sacrifice  at,  18
+
+Yaurisquis.  Near  Paruro,  south  of  Cuzco  {Alcedo,  i,  p.  4 43),  23
+
+•fYauyus,  114.     See  G.  de  la  Vega,  ii,  p.  143
+
+iYunca,  31,  94,  123,  134.     See  G.  de  la  Vega,  ii,  p.  224
+
+fYuncaypampa,  91
+
+■\Yucay,  151
+
+
+1 80  INDEX.
+
+
+III.— QUICHUA  WOEDS.
+
+Some  .are  corrupt,  and  cannot  be  made  out,  owing  to  errors  in
+
+transcription.
+Words  with  a  t  also  occur  in  Garcilixsso  de  la  Vega,  and  with  a  J  in
+
+Cieza  de  Leon.
+
+Accari.     This  word  occurs  in  a  prayer  for  the  Ynca.     Acca
+
+is  the  fermented  liquor  called  chicha.     Ri  is  a  particle
+
+meaning  'but/  'but  however' (JIoZ2'?an,  pp.  264,  267),  31
+
+nn  (  Sorcerers  who  told  fortunes  by  maize  or  llama's
+Achacuc,  29  ?       -,  -..  ,,  ,      u
+
+1  4   i       ""'^nj  according  as  they  came  out  odd  or
+
+'  V      even.     Mossi  No.  3  ;    Von  Tschudi,  p.  17
+
+Achvs.  Achu  or  Achuch.  An  interjection  of  reprehension
+at  one  who  exaggerates  (Mossi,  No.  4  ;  Von  TsclnicU,  p.
+19),  79
+
+■\AcUa.  Chosen  women  (see  Yurac,  Huayra,  Pacu,  Yana)
+82,  98,  108,  112
+
+■fAcUa-huasi.  House  of  chosen  women,  165.  See  G.  de  la
+Vetja,  i,  p.  292
+
+Acnupii,  29,  33.  Aampuy  (Von  Tschudi,  p.  9),  or  Acnopiiy
+(Mossi,  p.  5),  richly  dressed.  Acnani,  to  prepare  cere-
+monies.    Acnapuy,  pretty,  handsome  (Markham,  p.  67)
+
+Acoy-cunacataca.  Accoy,  innumerable  (Marhhavi,  p.  65),
+Ciina,  the  plural  particle.  Taca,  a  particle  of  affirma-
+tion (Hohjuin,  p.  265)
+
+Arf<a.  The  only  word  resembling  this  is  Acsu,  the  skirt  or
+petticoat,  29
+
+Ahimpichu.  Aliua,  woven.  Pichu,  a  hollow  bone,  or  small
+pipe.  J ^«a  is  also  a  macaw.  Then  p/c/m  is  probably
+for  picJiiti  ov  piscu,  a  bird,  28,  33
+
+Ahin-Situa-saqui.  A  song  at  the  Situa  festival.  Alan
+should  probably  be  Alau,  an  interjection,  26
+
+AUasiu.  Allani  is  the  verb  "  I  dig".  Possibly  stn  should
+be  stii},  when  the  word  would  mean  '  the  time  for  dig-
+ging,' or  it  might  be  huaca,  a  proper  name,  32
+
+AUcac/iispa.     Alkachini,  to  interpret,  31
+
+AUrananiy.    From  AUcani,  to  leave  anything  undone,  79.  89
+
+nancy  ran
+
+
+INDEX.  187
+
+AJquenti  (see  Ccenti)
+
+Allpamantaca .  Mortal  {Allpamantucac) ,  or  that  which  be-
+comes earth  (Allpayac),  79
+
+Allparnumachun.     For  Allpamanac,  mortal,  79
+
+Ama.     Not,  31,  56
+
+AmacagacJmncJnt,  30
+
+AmacacharihiLay .  Amacha  or  Amaeacha,  a  defender.  Ri,
+a  particle,  denoting  a  beginning,  as  Amachani,  '1  de-
+fend', Amacharini,  "  I  prepare  to  defend'^,  32
+
+Amachu-picJm-pichu-chiincJm.  Chu  is  an  interrogative  ad-
+verb.    Pi,  the  preposition  "  in".     Fichu,  30
+
+Amamanackispa,  56
+
+Amahu7iucliispa.  Ama,  not.  Hunn,  a  milhon,  or  Hunii,
+all.     Mana,  none,  30
+
+Amalla.  Lla  is  a  particle  meaning  "  only'^,  "no  more
+than'^  31
+
+Amananu.     An  interjection,  30
+
+Amapirima,  90
+
+Amaqiiaquinta,  30
+
+^m«?'w.     A  serpent,  95
+
+Amaycay.     Perhaps  Amancay,  a  lily
+
+^tnwsca.     ^mzt,  "dumb^',  32
+
+Anac-pacha  (or  Hanac),  high.     Hanac-pacha,  heaven,  32
+
+•\Anatuya.    Anas,  a  skunk,  79.     See  G.  de  la  Vega,  ii,  p.  384
+
+Anay  saoca.     A  drama.     Anay,  an  interjection  of  praise.
+
+Sauca,  pleasure,  90
+•\Anca.     An  eagle,  96.     See  G.  de  la  Vega,  ii,  p.  457
+Ancalluasu.     Dress  of  a  girl.      Ancallu,  woman's  attire  in
+
+ancient  times  (Mossi,  No.  15),  53
+Ancha.     Superlative,  89
+Apa.     Apani,  I  carry,  79
+Apaclia-mama-aclii.     A  compound  of  Ynca  and  Colla  words.
+
+Apachi,  is  grandmother  in  the  Colla  dialect.       Mama  is
+
+mother  in  the  Ynca  language,  77
+Apachinarcanqui.     You  shall  have  caused  to  be  carried,  79
+■fApachita.     A  heap  on  the  road  side,  78, 115.    See  G.  de  la
+
+Vega,  ii,  p.  356
+
+
+1 88  INDEX.
+
+Ajpacochan.     {Corrupt)
+
+Apoyunay.      Apuyupa,  "  one  in  high  authority'',  79
+■\-Apu.     Chief,  25,  79.     See  G.  de  la  Veya,  i,  p.  225  ;  ii,  pp.
+39,  318
+
+Punchau,  sun  idol,  25
+
+Quilla,  moon  idol,  102,  103
+
+Panaca,  governor  of  the  convents  of  women,  165
+
+Armicachun.  Probably  Armachachun.  Arma,  bath.  Cha-
+chun,  third  person  singular  imperative  of  Cani,  "  I  am",
+33
+
+Arpay.     Blood  sacrifice,  79,  85,  115
+
+Aspaca.     Aspacacuni,  to  sacrifice  by  invitation,  115
+
+Astara.     A  flute,  139
+
+Atalli,  31
+
+Atic.     A  conqueror,  79
+
+Aticoclla.     Aticlla,  preparation,  31
+
+Aticuc.     Aticani,  to  keep  or  guard,  31
+
+■\Atoc.     A  fox,  112.     See  0.  de  la  Vega,  ii,  p.  384
+
+Attolihvay,  33
+
+A  tun  (see  Hatun)
+
+fAuca.  Enemy,  soldier,  102,  115.  See  G.  de  la  Vega,  i,  p.
+185;  ii,  pp.  76,528
+
+fAuqui.  Prince  of  the  blood  royal,  unmarried,  106.  See
+G.  de  la  Vega,  i,  p.  97;  ii,  p.  352
+
+Auscovicas.  Soothsayers.  The  word  is  corrupt.  Perhaps
+Cusco-vica,  114
+
+Ayamarca  Raymi.     October,  35
+
+Ay  cay.     Ayquiy  ?  flight,  32
+
+Ayma.     A  song,  89
+
+Ay  man,  79
+
+Ayrihnay.     April,  33,  52
+
+Ayuscay-rutu-cMca-quica-chica.  Ceremonies.  Garcillasso
+says  that  Ayusca  is  a  baby  that  pines  (i,  iv,  2).  Aymii
+now,  but  not  in  ancient  times,  means  to  commit  adul-
+tery. Rutu,  to  shear,  and  Quicu,  to  comb.  Chica,  as,
+as  well  as,  so.  The  Ayuscay  was  when  a  woman  con-
+ceived ;  Rutu,  when  a  child  was  named  and  shorn  at
+the  age  of  one;  Quicu,  when  a  girl  reached  the  age  of
+puberty,  53
+
+
+INDEX.  189
+
+Cachra.     A  song,  but  the  word  is  corrupt,  89
+
+CacUnn.  The  third  person  present  imperative  of  the  verb
+Gani,  I  am,  31,  56
+
+•fCagi-cagi.  Commandments,  precepts,  71.  Also  a  fast,
+according  to  G.  de  la  Vega,  ii,  p.  229
+
+CaQicta.     Accusative  form  of  the  above,  30,  56
+
+Oac-yoc.  An  old  form  of  ca,  "  but"  ;  yoc,  a  particle  of  pos-
+session, 32
+
+Cahuariusinay .  The  word  Cahi(a7'l  is  to  look  up  ;  and
+Cahuarina  a  look-out  place,  89
+
+Cahnac.     He  who  looks,  79
+
+Callapallatichinay .     Callpalla  is  sterile,  barren,  89
+
+CallL     Valorous,  courageous,  37
+
+Gallpanchan..  Calljja,  force,  vigour.  Callpanchani,  to
+strengthen,  77
+
+Ccdlpari.     To  regain  strength,  115
+
+Callparicu.     A  wizard,  one  who  gives  strength.  13
+
+Callpay.     Work,  115
+
+Callurac.     Clever,  able
+
+Calparica  (see  Callparicu)
+
+■fCam.     Thou,  90,  115.     G.  de  la  Vega,  i,  p.  197
+
+Cam-cam.,  115
+
+Can-cuna.     Ye,  115
+
+Cama.     The  soul,  31.     G.  de  la  Vega,  i,  p.  106
+
+Camac.  Participle  of  Caviani,  I  create,  33,  79.  G.  de  la
+Vega,  i,  p.  101
+
+Camac-churac.     Ghurani,  I  put,  30
+
+Camac-pacha.     Pacha,  the  earth,  79
+
+Can lac-chiscan,  79
+
+Camachun.     Third  person  singular  imperative,  30
+
+Camachurac,  28
+
+Canianchacas,  96
+
+Camanmi.     An  optative  form  of  the  indicative,  79
+
+Camantera-pichiu.     Name  of  a  bird,  46
+
+Cama-quhnpa,  86
+
+Camas.     Perhaps  for  Camac,  28
+
+Camaf!cnyqni.     Imperative  futui'e  second  person,    29,  51,
+
+on      •">'>
+
+
+190  INDEX.
+
+Camasca.     A  wizard,  14
+
+Gamay-quilla.     December,,  47
+
+Camchomcanquiman.  Probably  for  Cachcanquiman.  Pre-
+terite of  the  optative  second  person  singular  of  the
+verb  Cani,  I  am.     "  0  that  you  were".     79
+
+Camtaca,  81
+
+Canahuisa.     Sorcerer^  89,  114
+
+Canay.     June,  19
+
+Canca.  They  will  be,  or  he  will  be.  From  Cani,  I  am,
+28,  29
+
+Cangachihuay.     A  thrush,  33
+
+Cancha-ri.  Gancha,  a  place,  yard,  court.  Ri,  a  particle
+meaning  but,  but  however,  30,  56
+
+Ganchu.     A  wizard,  83,  89,  114
+
+■\Gancu  (see  Sancu)
+
+Gani.     I  am,  79
+
+Ganqui.  Thou  art,  33,  79,  115.  G.  de  la  Vega,  Pt.  ii,
+lib.  i,  cap.  23
+
+Ganquichic.     We  are,  115
+
+Ganipu.  Medal  of  gold  or  silver  worn  by  nobles  on  their
+foreheads,  16
+
+Gapaucha-cocuy .  Human  sacrifice.  Gcapachani  means  to
+do  a  thing  with  pleasure,  also  to  cut  by  the  root.  Gocuy,
+an  offering.     Gocuni,  to  offer  oneself,  85
+
+Ganta,  or  Gamta.     Accusative  of  Gam,  thou,  30
+
+Gayitoray.     A  way  of  making  chicha,  35
+
+■fGarachi.    The  itch  in  llamas,  160.    G.  de  la  Vega,  ii,  p.  378
+
+Garca.  A  sorcerer,  from  the  dung  of  llamas  ;  diviner  by
+odds  and  evens,  89
+
+Garcan.  Third  person  singular  perfect  indicative  of  Gani,
+"  I  am,"  79
+
+Garhua-yalli.     A  term  unexplained  by  Dr.  Avila,  122
+
+Gari  {Gcari).     A  man,  28,  86
+
+Gari-cachun.  Gcari,  a  man.  Gachun,  imperative  third  per-
+son of  Gani,  "  I  am^'  ;
+
+Gari-cachuyu.     Probably  for  Gari-cachun,  33
+
+Gari-llacta.     Gcari  and  llacta,  a  village,  56
+
+Gasilla.     Gasi,  vain.     Casilla,  in  vain,  28,  30,  56
+
+
+INDEX.  191
+
+Casillacta,  SO,  31,  56
+
+Catamuscampas.     Catani,  to  cover,  roof,  115
+
+Catuiman,  32
+
+Cauchay.     Cauchani,  to  pick  leaves,  30
+
+Causachun.     Third  person  imperative  of  Gausani,  to  live,  30
+
+Causamiis,  33
+
+fCay.     This.     Also  the  infinitive  of  Cani,  I  ara.     Applied
+
+to  nouns  to  denote  the  natui'e  of  a  thing,  as  Runa,  a
+
+man;  Rima-cay,  humanity,  30,   79.     G.  do  la  Vega,  i,
+
+p.  198
+Cay-lla.   Lla,  a  particle  of  love,  liking,  preference,  28,  29,  33
+Cay-cama.     Gama,  a  preposition,  with,  as  for  as,  according
+
+to,  81
+Gay-cari-caclmn,  79,  86
+Gay-huarmi-cachun.     Gay,  this  ;   Gcari,  a  man  ;   Huarmi,  a
+
+woman;  Oac/iim,  third  person  imperative  of  (Jani,  I  am,
+
+79,  86
+Gay-colla.     Proper  name  Golla,  38
+Gay-coscay.     Proper  name,  86
+Gayciistaymi.     (TJie  word  is  corrupt),  29
+Gayhuacyanquifal.      Gayhua,  a  certain  plant;    qulta,  wild.
+
+But  the  word  is  corrupt,  81
+Cay  qui.     Gay-yq^ai,  thine,  28,  33
+Gayqnita.     Ta,  accusative  ending,  78
+Gayquichu-ras.     Ghu,  a  particle  of  interrogation,  30
+Gayqidquisicas-pilla.     Qnlqni,  the  same,  30
+Gayu.     A  song,  89
+Gcacca.     A  rock,  87
+Gcalla-sana.     A  portent ;    Gcallani,  I  break ;   Sanampa,  a
+
+sign,  107
+Gcallac-pacha.     "  Beginning  of  time",  70
+Gcamantira.     Small  bright  feathers  that  birds  have  under
+
+their  beaks,  80
+•\Gcapac.     Eich,  royal,  29,  78.      G.  de  la  Vega,  i,  p.  95  ;  ii,
+
+pp.  27,  315
+acchama  quispisutuc  umii.     Water  in  the  spring  at
+
+Titicaca;   Ghama,  joy,   Q,ulsp)isutu,  crystal  dvops;  Urnu,
+
+water.   "The  royal  joy  bringing  crystal  water  drops",  87
+
+
+192  INDEX.
+
+Ccapac  acliun.     An  exclamation,  31
+
+-fAyllu.     The  royal  family,  23,  98.     G.  de  la  Vega,
+
+ii,  pp.'243,  345,541
+
+cocha-cocuy.     A  ceremony,  54,  57,  86
+
+Cagir.     Viceroy,  99
+
+llama.     The  royal  sheep,  159
+
+llautu.     Eoyal  fringe,  100
+
+huari.     An  oflficer's  name,  102
+
+. Baymi.     November;  great  festival,  35,  36,  47,  83,
+
+
+84,  85,  103
+
+—  Tica,  89
+
+—  Unancha.     Royal  standard,  91,  105,  120
+
+—  TJncu.     Royal  tunic,  111
+
+—  Usnu.     Royal  tribunal,  judgment-seat,  107
+paratamus  (corrupt  ?),  79
+
+
+Ccari  (see  Cari).     A  man,  28,  86
+
+Ccenti.     A  humming-bird
+
+Ccuri  (see  Curi)
+
+■[Chaca.     A  bridge  73,  78,  100.     G.  de  la  Vega,  ii,  p.  119
+
+•fChacara.     A  farm,  31,  48.     G.  de  la  Vega,  ii,  p.  226
+
+Chachac.     A  priest,  77
+
+Chachachun.     Chachani,  to  shake  clothes,  to  shake  a  tree
+
+for  fruit,  31
+■fChahuar.     Aloe  fibre,  40.     G.  de  la  Vega,  i,  pp.  58,  227
+ChahuarJmay .     Month  of  June,  19
+Chama.     Joy,  87
+huarisca.      A    song;    Huari,    God  of  power,    74.
+
+Tschudi,  ii,  p.  315
+
+uricasa.     Probably  for  huarisca,  89
+
+
+-[Champi.     Mace,  battle-axe  used  with  one  hand,  6,  106.
+
+G.  de  la  Vega,  ii,  pp.  177,  518
+Chamachun.     Chamani,  I  rejoice,  am  content,  31
+Chapipuca.      Chapi  ?   (corrupt)  ;    Chawpi,  middle;    Puca,
+
+red,  32
+Chasca-chuqui.     Lance ;    Chasca,  netted,    dishevelled.     A
+
+lance  whence  a  fringe  was  suspended,  95
+•\Chasqui.     Messenger,  169.     G.  de  la  Vega,  ii,  pp.  49,  60,
+
+119,  120,  121
+
+
+INDEX.  193
+
+Chasquihuoy,  29
+
+Chapa.     Sentry,  watcli,  115
+
+Chay.     This,  31
+
+Chayan.     Chayman,  here,  79
+
+Chayariyuya.     Chaya,  return  ;   Yuya,  mind,  memory,  79
+
+Chica.     So,  as,  75
+
+Chica-llacta.     Llacta,  a  village,  115
+
+Chiccha.     Chicchi,  hail ;  Chicha,  a  shoe,  7i),  78
+
+Chicpa  (corrupt),  78
+
+Chihuay.     A  bird,  29
+
+•fOhilca.  A  shrub  (Baccharis  scandens),  118.  G.  de  la  Vega,
+i,  p.  187
+
+■fChipana.  A  woman's  breast;  a  lens  of  metal  for  con-
+centrating the  sun's  rays;  a  bracelet  worn  by  the  High
+Priest,  45,  106.     G.  de  la  Vega,  ii,  pp.  30,  163
+
+Chipicnispa.     Chipicnini,  I  wink,  89
+
+Chiqui.     Misfortune,  75
+
+Chiqui-manta.     Mania,  from  32
+
+Chiquiy.     My  misfortune,  115
+
+Chiraoca.  Clear,  genial  season;  Ca,  an  old  form  of  geni-
+tive, 79
+
+Chirmaynaymantan.  Chirma,  harmful,  115.  G.  de  la  Vega,
+ii,  p.  326.     To  be  unquiet  or  to  do  harm
+
+Chispa.     {Corrupt),  30
+
+Chocanaco.     A  trial  of  strength.     Should  be  Choccanacuy.
+
+A  throwing  of  stones.     [Mossi,  No.  77),  47
+Chucup-mama.     Should  be  Churup,    genitive  of  Churu,  a
+shell ;  iWama,  mother  ;  mother  of  the  shell.    A  pearl,  94
+
+XGhumpi.  A  belt  (see  ZZama) ;  also  a  dark  brown  colour
+{Gieza  de  Leon,  p.  146)
+
+Ghunires.     (Gorrupt),  101
+
+•\Ghumi.  Frozen  potato,  1 62, 167.  G.  de  la  Vega,  pp.  17,  359
+
+Ghwpasitas.  Worshipping  the  summit  of  a  pass.  Ckiipa,
+a  tail,  59
+
+Chuqui.  A  lance,  16,  20,  21,  25,  36,  115,  167,  95.  G.  de
+la  Vega,  i,  p.  225  ;  ii,  p.  171
+
+Chuqui-yllayllapa.     Thunder  and  lightning
+
+Cliuqui.     Gold,  in  the  Colla  dialect,  90
+
+
+194  INDEX.
+
+•\Churac.     Participle  of  Clmrani,  to  put,  31,  33.     G.  de  la
+
+Vega  i,  p.  198
+Churachay .     Ghay,  that,  33
+
+Ghurncllay .     Llay,  a  particle,  denoting  pleasure  or  endear-
+ment, 91
+Churaspac.     Preposition,  for,  31
+
+GJmrasqnayqui.      Yqui,  second  possessive  pronoun,  2S,  32
+■\Ghuri.     Son,  56.      G.  de  la  Vega,  \,  pp.  91,  214
+Churinta.     Accusative,  31
+Churu.     A  shell,  106
+
+"fChuspa.     A  bag  for  coca,  20,  38.     G.  de  la  Vega,  i,  p.  296
+ChutarpiL.     (Corrupt).      Chutani,  I    tighten.       Chutasca,  a
+
+thing  well  fastened  (see  Huanarpu) ,  81
+Cicapac.     Dative  case  of   Cica,  a   corrupt  word ;    perhaps
+
+Sicya,  a  measure,  or  Sicra,  a  small  basket,  79
+Citua  (see  Situa)
+
+Coca-hacho.  '' Eater  of  coca".  HacJni,"  chewev"  (Mossi)  118
+■fCocha.     Lake,  117.     G.  de  la  Vega,  i,  p.  49  ;  ii,  p.  66
+Cochaman.     Man,  against,  or  to,  79
+Gochamanturayocpia.      Tura,   brother  of  a  sister.      Yoc,  a
+
+particle  of  possession.     Pa,  genitive  particle,  86
+Cochispa.     {Corrupt),  56
+Coco.     Missiles  ;  thistle  heads  ;  a  game,  47
+Colla-chicha,  62
+■fCollca.     A  granary,  98.    Ramos,  cap.  18  ;  G.  de  la  Vega,  ii,
+
+p.  237
+Collca-uncu.     A  dress ;   TJncu,  a  tunic  ;   Collca,  a  granary  ;
+
+also  the  Pleiades  {Acosta  from  Balboa,  p.  58),  37
+•fCollque.     Silver  {see  Napa,  Chachac),  19,  47,  77,  90
+Concaraca.     Cunca,  neck.     Rac,  before,  79
+Conca-qui.     Yqui,  second  possessive  pronoun,  89
+Conopa.     Household  god,  not  among  the  Yncas  ;  but  among
+
+the  coast  tribes
+Conti-vicas.     Sorcerers  {C unti-uica) ,  114
+Cori  (see  Curi)
+■fCoya.     Queen   (see  Mama),  23,  96.      G.  de  la  Vega,  i,  pp.
+
+68,  96,  293
+Rayvii.     August,  20
+
+
+INDEX.  195
+
+Coyafacssa.  (Coiriipt.)   A  woman  dedicated  to  the  sun,  25
+
+Coyniy-pashinatapac  {Corrupt)     Coniy,  warmth,  79
+
+Cozco  (see  Cuzco)
+
+Cucunari  (see  Coco),  89
+
+Cuchi.     Rainbow,  Ccuychi,  75
+
+Cuclm.y,  32
+
+■fCumpi.     Fine  cloth,  88,  97,  99,  105,  118.     G.  de  la  Vega,
+ii,  p.  324
+
+Cunijncu.     Weaver  of  fine  cloth,  160
+
+Canacuy-camayoc.      Cunaaiy,  a   preacher;    Catnayoc,   one
+who  has  charg'e  of  anything,  71
+
+C unti-huisa,  Sorcerer,  89
+
+fCuraca.     A  lord,  87,  99
+
+Curayoc.     Ccoray,  the  act  of  hoeing.      Yoc,  particle  of  pos-
+session
+
+fCiiri.     Gold,  19,  47,  78,  89,  90
+
+—  fGancha.     Temple,  16,  17,  76,  78,  89,92,  99,  100,
+103,  104,  108.      G.  de  la  Vega,  i,  p.  283
+
+ccacca.     A  bowl  to  hold  water  from  Titicaca,  87
+
+■\napa.     Golden  figure  of  a  llama,  19,  47
+
+chachac.     A  priest  in  some  parts  {Arriaga),  77
+
+Cuscayqid.     Equal ;    Yq^rii,  thy,  89
+
+fCiisi.     Joy,  81.     G.  de  la  Vega,  ii,  pp.  159,  423
+
+Cud-cidlasun.     To  feel  joy,  89
+
+Cusi-simirac.     A  happy  smile  ;  good  news,  81
+
+Cusi-Uacta.     A  happy  village,  31
+
+Cusinchicpi.     Giving  rewards  ;  Fl,  from  ;   Cminchlnl,  I  con-
+sole, 80
+
+Cusi-ussa-poclwy .     A  good  ripening,  30
+
+Cuspalla,  89
+
+■fCuy  Cmjliuan.     Guy,  a  guinea  pig;  Hiian,  with,  85,  101
+
+Cayllu  or  Cuyrii.     A  white  llama;   Coyru,  white,  applied  to
+metals  and  animals,  27
+
+Cuyru-mama.     "  White  mother",  applied  to  the  earth,  5G
+
+•\Cuzco  (see  Hanan,  Hiirin)
+asu  ycocliilliquilla,  37
+
+Gualanpap'i  (see  Hani  ait  p''' pi)
+
+
+196  INDEX.
+
+Hahocha.     Perhaps  Hahua  (outside)  ;  Hucha  (sin),  a  slight
+
+offence,  115
+fHahuay.     Grandchild.     Hence  Hahuanina,  a  lineage,  29.
+
+G.  de  la  Vega,  ii,  pp.  531,  533
+Hampi-camayoc.     A  doctor,  one  who  has  charge  of  medi-
+cines or  poisons,  99
+Hamuttapty.     Subjunctive  of  Hamutani,  I  understand,  79
+fEanan-Cuzco.     Upper  Cuzco,  26,  33,  43,  44,  47,  48,  76,
+
+-79,  151
+Hanan-hamuyrac.     Hamuy,  to  come ;  Bac,  even,  89
+Hanan-pichun.     Hanan,  upper ;  Pichu,  a  bird,  79
+Hanantarac.     Hananta,  dative  case ;  Rac,  even,  first,  89
+Hapa-cochan.     To  boast,  29
+
+Hapi-nunu.    Devils;  Hapi,  to  seize;  J\^M?m, breast,  68,  78,  87
+Hatallihuay.     To  hold,  to  have  charge  of,  29,  31,  56
+HatalUmuchun.     To  hold,  31
+■fHatun.     Great,  29
+
+pucuy.     January,  51
+
+runa.     A  giant,  115
+
+Hauca.  May,  rest,  repose,  16
+Hauchha.  Cooked  herbs,  115
+Haycay.     How  much,  how  great,  29
+
+Pachacamac,  28
+
+Hayllayqui-pac.     Haylli,  song;   Yqui,  thy,  39
+
+Haymiquay.     Help  {hut  corrupt),  28
+
+Haynillalay  (corrupt),  79
+
+HicrinpacJiap.     Perhaps  for  Hurin-pacha,  86
+
+Hillacunya-chnquicunya.       Men    dressed    up    as    lions,    so
+
+called,  45
+Hillusn.     Greedy,  115
+fHinalla.     So,  in  this  way,  89
+Hinallatac.     Tac,  a  final  particle,  115
+Hinatac,  81
+Hinamatima  (corrupt).      Probably  Hinantin,  all  together,
+
+79,  89
+fHuaca.     Sacred,  a  sacred  thing,  5,  27,  29,  32,  34,  55,  58,
+76,  83,  93
+cainayoc.     Priest  in  charge  of  a  huaca,  43,  58
+
+
+INDEX.  197
+
+Huaca  mncJia.     Worship  of  a  huaca,  83,  86
+Htmcanqui.     A  love  philtre,  81,  88
+-fHuacay-pata.     Great  square  at  Cuzco,  31
+
+chaspa.     Guard
+
+chamuy.     Chamay,  joy
+
+fHuaccha  (see  Huacliay).    Poor,  30.     G.  de  la  Vega,  i,  pp.
+
+90,  97
+Huaccunacatacay.     Huaccani,  to  mourn,  115
+Huachay -llama.     The  llama  of  the  poor,  159
+Huacra-chucu.      Horn  head-dress,  97.     O.  de  la  Vega,  ii,
+
+p.  226
+Hnacns-cJiasjya  {corrupt  ?),  30
+
+fllualiuay.     A  child,  31,  56.     G.  de  la  Vega,  i,  p.  314
+Hunlanpapi  or  Huallavpani.     A  large  tuft  of  feathers,  49
+fHualcanca,     Shield,  106.      G.  de  la  Vega,  ii,  p.  171
+Hualla-liuisa.     A  sorcerer,  89,  114
+Huallma  (see  Taqui).      A  song,   18.      Haylli  of  G.  de  la
+
+Vega,  ii,  p.  8
+Huallana-chamayariscca.     A  joyful  song,  89
+Haallpaquiypa.     Hualpac,  Creator,  115
+Hualpay.     Creation,  formation,  29
+Hiiallparillac.     Two  particles,  ri  and  lla,  30
+fHtiaman-cancha.     Place  of  a  falcon,  43
+
+liana.     Seat  of  a  falcon,  76
+
+champi.     Club,  106
+
+nin,  95
+
+Euan.     With,  89
+
+Huana.     Correction,  29
+
+fHuanacu.     Wild  species  of  llama.     Guanaco,  16,  41
+
+Huanarp2i  (see  Chutarpu).   The  female  form  of  Chutarpu,  81
+
+Huanchurin.     With,  30
+
+Huancliin.     With,  30
+
+Huanta-chinaca.     A  drinking  bout,  130
+
+Huara.     Breeches,  36,  141
+
+•\-Euaraca.     Sling,  belt,  36,  38,  39,  40,  47,  53.     G.  de  la
+
+Vega,  ii,  pp.  134,  167
+Huarachicu.     Ceremony  of  breeching,  34,  80
+Iluarayaru,  43
+
+
+198  ■  INDEX.
+
+Huari  (see  Taqui).     A  song,  39,  44
+Huarita.     Accusative  form,  42
+Huarmay.     My  boy,  30,  31
+
+■\Huarmi.     Woman,  80.     G.  cle  la  Vega,  ii,  p.  482
+•  auca.     Amazon,  102,  103
+
+cachun.     Imperative  of  Cani,  I  am,  28
+
+Jiapiy-^pacha,   ccarichasquiy  pacha.      The  time    for
+
+marrying.     "  The  time  for  the  woman  being  caught,
+the  time  for  the  man  to  chase^^  80
+
+XHiiarya  {corruiit).     Perhaps  Huayra,  wind,  air,  30.     Cieza-
+
+de  Leon,  p.  389
+Huasa.     Back,  shoulder,  30
+■\Huascar.     Rope,  49
+fHuasi.     House,  76
+Huatica.     Tempter,  115
+Huatyasca.     Broiled  food,  135
+Huaypau.     Interjection,  29
+Huayru-adla.     Chosen  virgins  for  the  Ynca,  82
+fHuayna.     Youth,  young,  1,  98,  99,  104
+
+punchau.     A  name  of  the  Sun  God,  47
+
+captiy.     Subjunctive,  75
+
+captiyllapun,  75
+
+Huccsis-canchic.     "  We  are",  78
+
+Huccrma  {yachachacJnm)  (see  yacha),  29
+
+Huisa.     A  sorcerer,  89
+
+Hullpaycuscayqiii  {corrupt),  89
+
+Hidtis.     Clay-pot  in  which  llipta  is  kept,  96
+
+Huni.     Perhaps  hunu,  a  number,  31
+
+Hunichic,  29
+
+Hunihuay,  32
+
+Humi.     A  number  or  division  of  men,  ten  thousand,  165
+
+Hu2)yasumicusu.    Sumaycucuni,  to  boast  or  praise  oneself,  90
+
+■\Hurin-chiccha.     Chicchi,  hail ;  Hurin,  lower,  89
+
+cocha.     Lower  lake,  79
+
+pacha.     Lower  land,  30,  32,  86
+
+p>ichun.     Lower  bird,   79
+
+Iludusca.    For  Huatusca,  to  prophesy ;  or  else  from  Ifustuni,
+I  stamp,  32
+
+
+INDEX.  199
+
+Hiiya-clivcu.     Ckucu,  a  head-dress,  101
+Huyarilmiay.     Perhaps -4 ^/ri/may,  April,  28
+
+Itari-panaca.  Panaca,  name  applied  to  lineages  or  families,  23
+
+Laycca.     A  priest,  83,  98,  114
+
+Llaca-cliuqui.     A  lance  adorned  with  plumes,  95
+
+■\Llacta.     A  village,  76,  31,  115
+
+pachacasilla.     Head  man  of  a  village  (see  Pachaca)
+
+Llanca  (see  Llama)
+
+■\Llama   huacar  pana.      Right  hand   is   paila ;    Llama,    a
+sheep,  1 6
+
+huanacu.     A  wild  llama,  16
+
+jwcos  cuyllos.     White  alpacas,  16
+
+paucar  paco.     Beautiful  alpacas,  16
+
+uqui  paco,  16
+
+cliumjji.     Dark  brown  llama,  16
+
+llanca.     Working  llama,  16
+
+ccapac.     Belonging  to  the  crown,  159
+
+huacliay.     Belonging  to  the  people,  159
+
+cmjllu.     White  llama,  27,  31,  32
+
+michec.     Shepherd,  81
+
+Uama-hanamsi.     Drama,  90,  101
+
+
+Llanay  [corrupt),  70
+
+Llanca-pata.     Small  plates  of  gold,  19
+
+Llanquisi.     Shoes,  80,  106
+
+Llantu-picliu.     Shade,  28,  33
+
+Llapan.     All,  89
+
+Llasac.     Heavy,  79
+
+Llauraruna,  29
+
+Llaychunca.      A  soothsayer  by  odds  and  evens,  89.     The
+
+Llayca  of  G.  de  la  Vega,  i,  ix,  14
+Llayman,  79
+
+Llaidu.     Royal  fringe,  12,  16,  36,  58,  100,  106,  111
+Lliclla.     Mantle,  9,  24,  40.     Cieza  cle  Leon,  p.  146
+Llipta.     Lime  chewed  with  coca,  62,  96
+Llusque.     Month  of  May,  17
+Llutaciicci-capac.     A  name  for  the  god,  89
+
+
+200  INDEX.
+
+Macliiyqui.    Thigh.    Yq%ii,  second  possessive  pronoun,  86
+
+Madamniqui.     A  boy  [Macta),  86
+
+Mamanchu.     Wife,  166
+
+fMama-cuna.     Matrons  in  charge  of  the  virgins  of  the  Sun,
+
+18,  165.     G.  de  la  Vega,  i,  pp.  293,  294,  300,  302
+fMana.     No,  not,  30,  32
+
+Manayllcnj.     From  Manani,  I  ask,  pray  for,  89
+Manchuricayquiman.     For  Mancharini,  I  tremble,  79
+Manamyancanchu.     Manam,  not.     Canchu,  79
+Manaracpas.     Before  that,  79
+Manures.     Before,  102
+Manta.     From,  32,  115
+Mantapas.     From,  81
+
+Manchachic.     Manchani,  I  fear.     Imperative,  79
+Manchay-simi-yocpa.     Manchay,  fear,  86
+•\Maquiy-lluttaquey.     Maqui,  hand ;  Lluta,  to  cover,  79
+Maras-ttoco.     Window  at  Paccari-tampu,  77
+•\Marca-ri.     Village ;  Marccani,  I  carry,  31
+Marca-rihuay ,  29
+Marca-lUhiiay ,  33
+Marop.     A  pestle,  131
+Masnu-yauri.      A  term  unexplained  by  Avila  (see  Yauri),
+
+122
+Massuma.     A  festival  in  Huarochiri,  122
+^May.     Who,  where,  29,  33,  91.     G.  de  la  Vega,  i,  p.  198
+3faypin.     Where  is  it  ?  33,  79
+Maypini-canqui  (see  Canqv.i),  28
+Maycanmi.     Which  of  them,  79
+Maycanmi-canqui.     Canqui,  art  thou,  86
+Maymana.     Where,  32
+Maynic.     Whether,  81
+Mayrnantapas.     Whence,  81
+■fMayu-cttna.     Rivers,  89
+3fic7iachic.     Avarice,  30
+•\Michec  (see  llama)
+Micuy.     To  eat,  31,  32
+Micuynin.     To  eat,  33
+Micuncancachun.     To  eat  much,  30
+
+
+INDEX.  201
+
+Mirachun.     Mirani,  I  multiply,  increase,  29
+
+Miruna  {corrupt  ? ),  30
+
+■fMitanta.     Turn,  time,  31
+
+Mitaysanay.     Turn,  115
+
+^Mitimaes.     Colonists,  4,  22,  23,  95,  97,  113,  161
+
+Mojocati.     A  sacrifice  ;  perhaps  Mosoc,  new,  50
+
+\Molli.     Trees,  90
+
+Moro-urco.-  A  house  near  the  temple  of  the  Sun,  where  a
+great  cable  was  kept ;  Muru,  a  coloured  spot ;  JJrco,  a
+hill,  48
+
+Moronpassa  tarpuyquilla.  July  ;  Tarpuy-quilla,  'Hhe  sow-
+ing month,"  1 9
+
+Moya.     Forests,  165
+
+Mudia.     Worship,  37,  43,  44,  83,  89,  90,  114
+
+Muchancoyqui.     Miichani,  I  worship,  115
+
+Muchascay,  31
+
+Mucumuchun.     Muccu,  a  joint,  knot ;  Mucliuni,  I  suffer,  30
+
+Muchun.     Suffering,  30
+
+Muchuspacan.     Suffering,  30
+
+Mtdlii.     Shell,  17,  20,  62,  63
+
+•\Miinayqui.  Love ;  Yqui,  second  possessive  pronoun^  79.
+See  O.  de  la  Vega,  i,  p.  523;  ii,  p.  239
+
+Miisac.     Perhaps  Munac,  loved,  23,  32
+
+Mutca.     A  mortar,  131
+
+Nacasca.     Beheaded,  32
+
+•fNanaclla.     Suffering,  45
+
+Napa.     Salutation,  19,  39,  47
+
+Najjahuay.     Salutation
+
+NauL     Eye,  86
+
+Neca.     Towards,  79
+
+Nicocupa.     To  ask  for  another,  32
+
+Nicpa-carichun.     To  say  anything  importunately,  30
+
+Nicpunchac.     Nee,  towards  ;  for  punchau,  day,  56
+
+Nihuay.     Near,  32
+
+•\Ninacta.     Fire,  31
+
+Niocmin  (corrupt  ?),  32
+
+Nipacachun,  71
+
+
+202  INDEX.
+
+Nis,  28
+
+Nis-caca.  Nisca,  a  particle^  denoting  one  who  has  the  re-
+putation for  any  quality,  115.     Holguin,  p.  257
+
+Niscayqui,  30
+
+Nispa.     A  particle,  31
+
+Nispac,  SO,  56
+
+Nispachucapac,  31
+
+Nis'pacamacpa,  86
+
+Nispacamacatn,  32
+
+Nispaclnirascay ,  30
+
+Nispallutac,  33
+
+Nispanictisun,  89
+
+Nisunqui,  81
+
+Niyhuan.     Niy,  a  saying,  115
+
+J^Kca,  I,  90
+
+Numi.     Bosom,  68,  78,  79,  87
+
+■\Nusta-caUi-sapa.  ''A.  princess  unrivalled  for  courage;"
+Nusta,  a  princess  ;  Calli,  courage  ;  Sapa,  unequalled,
+37,  41,  42
+
+tOcZ/o  (see  Pallet)
+
+•fOscoUo.     A  wild  cat,  141.     G.  de  la  Vega,  ii,  p.  116
+
+Pac,  91
+
+Pacamascayqui.     Pacani,  to  hide,  31
+
+•\Paccarlsca.     Origin,  birth,  38
+
+Paccarimusca.     Morning,  78
+
+Paccariscanchic.     Born
+
+Pachaccan.     Servant,  major-domo,  71
+
+•f Pacha  (see  Huriii,  Purum,  Ccallac,  etc.),  30
+
+Paclia-pucuy.     February,  52
+
+Pflcha-chacara.     Farm,  31
+
+■fPacJiacamac.     Creator  of  the  world,  7,  88,  93,  94,  98,  108,
+
+114,  127.     G.  de  la  Vega,  i,  p.  106  ;  ii,  p.  38
+Pachachulla,  32
+Pachacunaripis,  89
+
+Paella.     Bald,  barren,  bleak,  empty,  32
+Pacnipaccaricli un,  56
+
+
+INDEX.  203
+
+fPaco  (see  Llama)
+
+Pa  cop  a,  86
+
+Facta.     Equal,  fair,  just,  79
+
+Pacu-acUa.     Chosen  women  for  chiefs  and  lords,  82
+
+fPahuay.     Flight,  91  ^
+
+"fFaUa-sillu.     A  female  figure;  Palla,  princess,  19
+
+focUo.     Ocllo,  a  woman  of  the  blood  rojal,  who  had
+
+taken  a  vow  of  celibacy,  but  was  not  secluded  in  a
+convent,  25.     G.  dela  Vega,  i,  iv,  cap,  7
+
+PaUcaijmantam.     A  branch  ;  il/aii/a,  from,  115
+
+PaUarac.     Collected,  28
+
+fPancurcu.     A  torch,  23
+
+fPapa.  Potato,  29,  159,  162.  G.  de  la  Vega,  ii,  pp.  5,
+17,213,  359
+
+Papa-Qara.     Potato  and  maize  (sa^'a),  30
+
+Papi.     Injured,  damaged,  79
+
+Passa.     Pacsa,  the  moon  in  the  Colla  dialect,  37
+
+Paucar-huara.     March,  time  of  many  flowers,  52
+
+Camay oc.     One  in  charge  of  royal  insignia,  99
+
+paco  (see  llama),  16
+
+quintu.     Bunch  of  fruit,  19
+
+runcu.     Small  plate  of  gold,  19
+
+suntur.     Head-dress  of  the  Ynca,  6,  19,  39,  41
+
+Paycaptin.     Pay,  he ;   Captin,  subjunctive  of  Cajii,  I  am,  31
+
+Payllanquifacmi.     Payllani,  I  reward,  79
+
+Pialco.     A  bird,  for  Pilcu,  25
+
+Picliiu.     A  bird,  46
+
+Plhucupi  (corrupt),  29
+
+Plhxiana.     Perhaps  Pihiiia,  brave
+
+Pilco-camayoc.    One  who  has  charge  of  plumes  of  a  bird,  99
+
+casa.     Garland,  26,  44
+
+— —  pichiu.     A  bird,  46
+
+yacu,  25
+
+luncu-paucar-uncu.   Beautiful  head-dress  of  plumes,51
+
+Pimi-cuchun.     Perhaps  Pincachini,  jump,  30
+
+Pincanqui.     You  bound,  jump,  86,  91
+
+Pirca.     A  wall,  96
+
+PIscapapas.     Pisca,  a  large  partridge,  29
+
+
+204  INDEX.
+
+Picaspapas,  33
+Pitispa.     Pitini,  to  break,  30
+
+Pitusiray-sanasiray.     One  person  fastened   on  the  top  of
+another ;  Pitu,  equal,  a  pair ;  Siray,  sewn  together ;
+Sana,  perhaps  for  Sama,  rest,  75
+Pocoyca.     Ripe,  79
+
+Puca-caychu-unca.     Red  tunics;  Puca,  red,  45
+"^-Pucara.     Fortress
+Pucay-urco.     A  ceremonial  dress  ;   Urco  should  probably  be
+
+uncu,  a  tunic,  49
+Pucu-pucu.     A  bird,  73
+Pullao.     A  tree,  142
+Punari.     Desert,  31
+\Pwichau-Ynca.     The  Sun  Idol,  16
+
+Ajpu.     The  Sun  Idol,  56
+
+Huayna.     The  Sun  Idol
+
+Churi.     Son  of  the  day,  30
+
+Punchaoca.     Of  the  day.     Archaic  form  of  genitive,  79
+
+Purichic.     To  walk,  30
+
+Purichuruna,  56
+
+Purin.     He  walks,  79
+
+Puris.     He  walks,  29
+
+Pusupichu  (corrupt),  28
+
+Puracahua.     A  dress  or  ornament,  97
+
+Purapura.     Pura,  both.     Ornaments  on  each  side,  90,  106
+
+Purunpacha.     Purun,  savage ;  Pacha,  time,  70,  1 35
+
+racyaptin.      Racya,  before;    Nntin,  plural   of
+
+multitude,  70,  135
+■\Pururaucas.     Stones  turned  to  men,  154.     Acosta  ;  G.  de
+
+la  Vega,  ii,  p.  57
+Purunmas.     False  men,  152.     G.  de  la  Vega,  ii,  p.  57
+Puti.     A  trunk,  110
+Putu.     A  large  calabash,  143
+
+Qualpay,  31
+Quarpas,  31
+Queru.     A  cup,  103
+Quespilla.     Crystal,  28
+
+
+INDEX.  205
+
+Quida,  30
+
+Qvictacamascay ,  30
+
+Quichu.     A  song,  99
+
+Qidcusiquispu,     A  bezoar  stone,  31
+
+Qiiicuchica,  63,  80
+
+Quicuna,  78
+
+Quiuanpas,  89
+
+fQuillaca.     Moon,  79,  109
+
+Quillari,  30,  36
+
+Quillarincanpas,  56
+
+QaillpuiichicJqn,  79
+
+Quimampichun,  79
+
+Quinraynin-pichun.     Broad,  79
+
+tQ«u'n?/a.     Chenopodium  Quinoa,  L,  159.     (r.  cZe  ^a  li^t^^^,  ii,
+
+pp.  5,  7,  213,  357,367
+Quipasiyun.     Quipani,  to  cover,  79  .
+tQwi'pws.     Knot  records,  10,  51,  169
+
+t camayoc.     Keeper  of  the  records,  55,  58
+
+•fQuirau.     Cradle,  53.     G.  de  la  Vega,  ii,  p.  531
+Quisaruna.     Quiso,  the  birds  for  sacrifice  {Acosta),  30
+Quiscuar.     Tree,  90
+Quistacmi,  79
+Qiiispi.     July,  20
+Quispicta.     Cleai-,  bright,  56
+
+pilla,  30,  33,  56
+
+Quispi-casica,  32
+
+llacta.     Bright  village,  30,  31,  56
+
+sutic.     Bright  name,  87
+
+Quita.     Savage,  30
+
+Rallcapacpalhaean.     {Corrupt),  79
+Ranuptiy,  79
+Ranotayri,  79
+
+"fRaurana.     To  burn,  41,  42,  43.     G.  de  la  Vega,  ii,  p.  531
+Raurac.     Burnt,  89
+Rahnicachun.     Be  at  the  Raymi,  79
+
+■\Rayrni  Ccapac.     The  great  festival,  35,  36,  47,  83,  84,  85,
+95,  100,  108,  166
+
+
+206  INDEX.
+
+Rmjmi  Napa,  39,  41,  42
+
+Baypancanquena,  79
+
+Recsichillaran.     To  make  to  know
+
+Riacllahuay .     [Corrupt),  89
+
+Riaiytam,  79
+
+Ricaptiy,  79
+
+Ricsi,  79
+
+Riculla,  79
+
+Ricunanquim.     To  look,  79
+
+fRimachun.     Speak,  86
+
+Rimasu,  90
+
+Rimayni.     To  speak,  86
+
+Rochocallasun,  89
+
+ti^tma.     A  man,  31
+
+yachachachachurh.     A  teacher,  29
+
+yanani.     Servant,  56
+
+cay.     This  man,  30
+
+• scay,  30
+
+■ rallac,  79
+
+hualpac.     Good  workman,  81,  89
+
+•\Rurac.     Maker,  28,  33.     G.  de  la  Vega,  i,  p.  109
+Rurascayquicta  tacancharin,  56
+Rutichico.     The  cutting  of  hair,  53
+
+Sacaca,     A  comet,  95
+Sacapac.     Castanets,  32
+Saccocachun,  31
+
+Sanca-sonco-quila  pionco.     A  dress,  49
+Sancu.     Sacrificial  pudding,  24,  27,  32,  33,  81
+■\Sapa.     Only  one  ;  unequal,  37
+Sarampion.     (Corrupt).     A  disease,  110
+■\8ara-colU.     Different  kinds  of  maize,  163
+cuma
+
+
+paro
+
+Sasca.     Sacsa,  Tagged;  /Sawca,  joy,  31
+
+Sasicuspa,  81
+
+Saycaftiy.     To  stand.     Subjunctive,  79
+
+t  Saycoynicaypitac.     To  tire.     Subjunctive,  79
+
+
+INDEX.  207
+
+Se(^sec.     Thom  bush,  96.     Mossi,  No.  278
+
+Sihuicas.     Sihui,  a  thorn,  96.     Idossi,  No.  235
+
+Simi.     Mouth,  86
+
+fSinchi-naui-yocpa.     Strong  eye,  86
+
+t  Situa.     Festival,  20,  32,  34.     G.  cle  la  Vega,  i,  p.  179
+
+Soncoapa  chinacoc  huacca  chinacoc.     Small   stones  used  as
+
+love  producers,  81
+Sulluya.     Bastard.     Sullii,  premature,  118
+Sunquichay,  81
+Suntur-jpaucar.     Royal  head-dress,  6,  17,  39,  41,  44,  106,
+
+111,  120
+Sitpa-yacoUa.     White  mantles,  36
+Suntinrammica.     Suntuni,  to  heap  up,  86
+■\Suri.     Ostrich,  78.     G.  de  la  Vega,  ii,  pp.  31,  394
+Suruc-chuqui.     A  lance  with  long  tassels,  95
+Sutic-toco.     A   window    at   Paccari-tampu.      Sutic,    name ;
+
+Toco,  window,  77
+■fSuyu.     Province,  58,  163
+
+fSuyuntuy.     Turkey  buzzard,  88,  101.      G.  de  la  Vega,  ii,
+'p.  390
+
+Tacamachic.     A  black  duck,  30
+
+Tacancuna.     Tacana,  a  hammer,  29
+
+Taclica.     (Corrupt),  89
+
+Taqtiacaycha.     Probably  Taquiani,  I  fix,  am  constant,  29
+
+Taqui.     Music,  18,  26,  32,  39,  42,  44,  48
+
+Huallina.     A  song,  18
+
+Alanqitua  saqui.     A  song  at  the  Situa  festival,  26
+
+Ayma.     Song,  89
+
+Gayo.     Song,  89
+
+Chapay  quenalo.     Song,  50
+
+Chupay  hvaylhi.     Song,  51
+
+Huallina  mayuriscca.     Song,  89
+
+Haylli.     Song,  89
+
+Gachra,  89
+
+Quichu,  99
+
+Uucu,  59
+
+Turca,  89
+
+
+208  INPEX.
+
+Tarayac,  79
+
+Tarichasquihuay .     Tarini,  to  find^  33
+
+Tarpimtay.     Priest;   Tarpuni  is  to  show,  17,  18,  38,  41,52
+•fTasqni.     A  girl,  80.     G.  de  la  Vega,  i,  p,  197
+Tayna.     Perhaps  Tauna,  a  stick,  32
+Tayta.     Father,  101
+Tica-tica.     Music,  26
+Tica.     Brick,  or  if  Ttica,  a  flower
+"[Tiya  ;    Tiyana.     Seat,  90,  99
+Tiyancay.     To  sit
+Titu.     Difficult,  29
+
+tfToco.     Window,  77.     G.  de  la  Vega,  ii,  p.  238
+Tocto.     Honey  ;  a  bird,  47,  49
+Tocuya,  86
+
+Topapo.      Tupu,  a  measure,  29
+Torca  (see  Taqui)
+•fTtahuantin-suyu.     The  four  provinces  or  divisions  of  thg
+
+empire,  68,  76,  87,  103,  107,  111
+Ttopayaricta.     Tapani,  to  rend,  79
+Tupac-hunnacu.     Royal  huanacu,  41
+
+pichuc  llantu.     Royal  fringe  of  feathers,  88
+
+usi,  74,  88
+
+• yauri.     Royal  sceptre, 41,  74,  75,  88,  91,  97,  106,  111
+
+iXTupu.     Measure,  79,  169.     G.  de  la  Vega,  ii,  p.  9;  Cieza
+
+de  Leon,  p.  146
+Turumanya.     Rainbow,  75
+fTuta.     Night,  30.     G.  de  la  Vega,  i,  p.  182
+Tataca,  79
+Tiitacachannas
+Tutayac-pacha,     Time  of  night ;  dark  ages,  70
+
+Ucu-pichu.     TJcu,  deep;  Pichu,  a  bird,  28,  33
+
+fUchulla.     TJchu,  pepper,  32
+
+•\JJcumari.     A  bear,  111
+
+TJicchay -Camay oc.  A  preacher.  Huichay  (not  TJicchay)  up,  71
+
+TJhiscayquita.     (V ichccani)  to  shut,  30
+
+Uma-chucn.     Head  dress,  106
+
+Umachun,  78
+
+
+INDEX.  209
+
+JJmnda.     Head  (accusative),  32
+
+TJma-Raymi.     September,  34
+
+ti7ma.     Priest,  83,  89,  98,  114
+
+TJmina.     Emerald,  94
+
+Unacchuylla.     To  prolong,  111
+
+Unachayamoran.    {Gorru^jt),  75
+
+Unanchaptiy,  79
+
+JJnancha.     Standard,  91,  105,  106,  120
+
+Unanchascam,  79
+
+JJncancampac,  30
+
+"fJJncu.     Mantle,  37.     G.  de  la  Vega,  i,  p.  296
+
+umisca
+
+Uncallu,  40
+
+•fUnu.     Water,  87.      G.  de  la  Vega,  i,  p.  198
+
+JJpiachun.     Drink  (imperative),  30
+
+Upatari.      Ujpallani?  to  be  silent,  102,  104
+
+TJqui-jpaco  (see  llama)
+
+TIracahua.     A  deep  place,  106
+
+Uracarpana.     Sacrifice,  85
+
+•fUrpi.     Dove,  129.     G.  de  la  Vega,  ii,  p.  393
+
+Usachun.     To  accomplish,  31
+
+Uscata.     Sorcerer,  89
+
+JJi^nayqni.     JJsnu,  tribunal,  landmark,  79
+
+TJsnu.     Landmark,  107
+
+Usuta.     Shoe,  36,  40
+
+fUtvruncu.     Jaquar,  96.     G.  de  la  Vega,  ii,  p.  385
+
+Uyari.     To  hear,  81
+
+Vyarihua.     Hearing,  33
+
+JJyarillaray.     To  listen,  79
+
+Vallavicas  (see  Hualla-huicos)
+
+Varoytiypas  {corrupt)
+
+Vatica  (see  Huatica)
+
+Vicuna,  79.     G.  de  la  Vega,  ii,  pp.  117,  378,  383,  384
+
+Vilca.     Sacred,  63,  93,  107.     G.  de  la  Vega,  ii,  pp.  255,  416
+
+camayoc.     One  in  charge  of  sacred  things,  58
+
+Vilca  y-cunapac,  115
+Vinaypas.     Increase,  81
+
+
+210  INDEX.
+
+Y.     Possessive  particle,  3rd  persou,  29
+
+Yacachun.     Follow,  31
+
+fYacha.     A  school,  79.    G.  de  la  Vega,  i,  p.  335 ;  ii,  p.  247
+
+Yachachvn.     Let  him  learn,  30
+
+Yachaptly.     Subjunctive  form,  79
+
+Yacliaranquira,  79
+
+Yachipachan,  71
+
+t  Yacolla.     A  cloak,  36,  44.     G.  de  la  Vega,  i,  p.  290
+
+Yacarcaes.     Wizards,  86
+
+Yacarcay.     Invocation,  14
+
+•fYahuar-sancu.     Sacrificial  bread,  smeared  with  blood,  27,
+
+28,32
+Yalmoyra.     Festival,  19,  48
+Yaichicliuruay .     {Corrupt),  30
+Yampac,  56
+
+■fYana.     Black,  30,  91
+
+Yana-aclla.     Wives  for  the  common  people,  82,  146
+Yanaussi,  79
+
+Yana-caca.     Black  rock,  li6
+Yana-namca,     {Obscure),  123
+Yananya.     Servant,  31
+Yana-yana.     Sacrifice
+Yaravi.     An  elegy,  52
+Yatalliymay.      (Corrupt),  29
+Yauirca.     A  thick  cable,  95
+Yauri.     Sceptre,  26,  40,  41,  42,  92
+Yayacarui.     Rainbow,  75
+
+•^Yayay.     Father,  31.     G.  de  la  Vega,  ii,  p.  353
+Ychastalpas.     Perhaps,  81
+
+•fYchna.     Vermilion.     G.  de  la  Vega,  ii,  p.  413
+Ychu.     Grass,  40,  41.     G.  de  la  Vega,  i,  p.  254
+Yllarichun.     To  shine  (imperative),  30,  56
+Ymay.     What,  33
+Ymay-pacha.     What  time,  31
+Ymay-pachama,  28
+Ynihuay,  28,  33
+Yiica-uillu.     Female  figure,  19
+ocUo.     Woman  of  the  blood  royal,  25
+
+
+INDEX.  211
+
+Ynca-runa-yanami.     Royal  servant,  30
+
+churl.     Son  of  the  Ynca,  31
+
+ranti.     Viceroy,  112
+
+fYnti.     Sun,  31,  90,  101,  112
+
+fYniip-Raymi.     Festival  in  May,  16
+
+Yntic.     Genitive  (archaic  form),  49,  79
+
+Ynimcampac,  30
+
+Yochaycaym  ayoc,  32
+
+Yocllamunqui,  81
+
+Yquicauras.     Perhaps  Yquicayani,  to  cut  up,  30
+
+Yquida.     Positive  particle,  2nd  person,  accusative,  30,  56
+
+Yurac-aclla.     Chosen  virgin  of  medium  beauty  (Ramos,  cap.
+
+9),  82
+Yuya.     Thought,  memory,  89
+Yuyayronayta.     A  wise  man ;  a  cautious  man,  79
+
+
+IV.— NAMES  OF  GODS  AND  HUACAS.
+
+Those  with  t  also  occur  in  Garcilasso  de  la  Vega ;  those  with  %,  ia
+
+Cieza  de  Leon.
+
+Acliacalla  (see  Hapi-numi)
+Anta-imca.     A  Huaca,  83
+
+Atajjymapuranutapya.      {Corrupt).     A  Huaca  v^^orshipped  by
+the  Huancas,  88
+
+CacJia-Uiracocha.     The  idol  in  the  Temple  at  Cacha,  18.     G.
+
+de  la  Vega,  i,  p.  159 ;  ii,  p.  69  ;   Cieza  de  Leon,  p.  356
+Caclia-huaca  (see  Ccapa-cocha)
+Cana-chuap  Yaurica.     A  demon  exposed  by  Ccapac  Yupan-
+
+qui,  86
+Canamay.     A  huaca,  96.     See  G.  de  la  Vega,  i,  p.  330
+Caprichay.     Creator  ;  called  also  Tica-ccapac,  83
+Carayucho-Euayallo,   or  Hnallallo   Caruicho.     A  huaca  of
+
+the  Huarochiris,  123,  1 12
+Cavillaca.     A  goddess  of  the  Huarochiris,  125,  127
+Chellcascayu.     A  Huarochiri  idol,  122
+
+
+212  INDEX.
+
+Chinchay-cocha.     A  huaca  from,  83,  93
+
+Choque  suso.     A  god  of  the  Huarocliiris,  145
+
+Chumpi-casico,  or  Huanacanri,  36
+
+Chuqui  yllallapa.  Huaca  of  thunder  and  lightning,  16,  20,  21
+
+Chuquilla,  26,  56,  155,  167
+
+Chuquipillu.     A  huaca,  83
+
+Chuqui-racra.     A   huaca   found   by   the  Ynca    at  Villcas.
+
+Racra,  split.     Literally  "  a  forked  dart"  or  lightning,
+
+83,93
+Chuspi-huaca,  94
+
+Coniraya.     A  god  of  the  Huarochiris,  124,  134
+Conopas.     Household  gods  of  the  Huarochiris,  122
+Coropvna.     A  huaca  ;  a  mountain  peak,  83.     O.  de  la  Vega,
+
+i,  p.  232
+
+Guacamayofi.     Macaws,  ancestors  of  the  Canaris,  9
+
+Huallallo  Caruincho.     A  God  of  the  Huarochiris,  123,
+
+Chiqui-racra.     (See  Chuqui-racra) ,  83,  93
+
+fHuanacauri.     Huaca  of  a  brother  of  Manco  Ccapac,  13,
+
+17,  25,  26,  35,  38,  52,  57,  75,  80.     See  0.  de  la  Vega,
+
+i,  pp.  65,  6Q ;  ii,  pp.  169,  230
+
+XHuarivilca.     The  huaca  at  Xauxa,  7,  87.     Cieza  de  Leon,
+
+p.  300
+Huathiacuri.     A  sort  of  demi-god  in  Huarochiri,  135
+
+Pacha-mama.     The  earth  goddess,  56,  155,  166,  167
+fXPachacamac.     "  Creator   of  the  worW,  29,    31,  33,  60.
+
+See  G.  de  la  Vega,  i,  p.  106  ;  ii,  p.  38;  Cieza  de  Leon,
+
+pp.  251,  253,  254
+fPachayachachic.     "Teacher  of  the  world'\     The  Creator.
+
+The  Creator,  6  ;  Temple  to,  11, 106  ;  Existence  of,  11  ;
+
+Idol  of,  16;  Prayer  to,  16,  20  ;  Festival  of,  82,  85,  90,
+
+107,  108,  115,  119,  154,  167.     See  G.  de  la  Vega,  i,  p.
+
+109  ;  ii,  p.  56
+Pariacaca.     A  god  of  the  Huarochiris,  87,  93,  128,  138,
+
+139,  142
+Passa-mama.     An  idol  of  the  moon,  37
+
+
+INDEX.  213
+
+Punchau.  The  idol  of  the  sun,  16,  30,  56.  See  G.  de  la
+Vega,  i,  p.  182
+
+Rurucachi.     A  huaca,  88
+
+■fXSupay.  A  devil,  115.  See  O.  de  la  Vega,  i,  p.  108 ;  ii,
+p.  397;  Gieza  de  Leon,  p.  224
+
+Tarapaca  (see  Uiracocha,  Tonapa),  31,  71,  79,  115
+
+fTecsi,  or  Tied  Ccapac  (see  Caprichay,  Uiracocha),  6,  81,
+83.     See  O.  de  la  Vega,  i,  p.  109;  ii,  p.  38
+
+Tocapo  Uiracocha,  6,  28,  33
+
+Tonapa  (see  Tarapaca).  A  legendary  prophet  or  demi-
+god, apparently  in  the  Collao,  71,  72,  74,  79,  87,  88,
+115
+
+Unciiraya.     A  jar  with  the  figure  of  a  devil  so-called,  among
+
+the  Huarochiris,  122
+Uiracocha  (see  Viracocha).     See  G.  de  la  Vega,  ii,  p.  66
+Urpi-huachac.    Wife  of  Pachacamac  ;  a  legend  in  Huarochiri,
+
+129
+
+"f  Viracocha  (see  Tecsi,  Tocapo,  Pachayachachic)
+
+■ Tecsi,  6,  28,  29,  30,  33
+
+Tocapo,  6,  28
+
+Coniraya,  God  of  the  Huarochiris,  124
+
+Ya,  29
+
+Chanca,  God  of  the  Chancas,  29
+
+■ Hatun,  (Great),  29
+
+Apstin,  (Chief),  29
+
+Urusayna,  29
+
+Ghuqui- chanca,  29
+
+Tarapaca,  31
+
+Tonapa,  69,  70,  71,  72
+
+mparaca  (atHuaruc),  88
+
+Ynti,  112
+
+Yanacauri  (see  Huanacauri)
+Ymaymana  {Uirococha) ,  6,  30,  32
+fYnti.     Sun  God  of  the  Collas,  112
+
+
+214  INDEX.
+
+v.— NAMES   OF   INDIAN   MEN,  WOMEN,   AYLLTJS
+OR   LINEAGES,   AND   TRIBES.
+
+Those  with  t  also  occur  in  Garcilasso  de  la  Vega ;  those  with  J,  in
+
+Cieza  de  Leon.
+
+Amaru  Yupanqiii  Ynca.     Eldest  son  of  Pachacuti  Ynca,  95,
+
+96,  99,  104
+fAnahuarqui  Mama  (see  Mama),  98
+flAnco-AUu  [Hanco-Allu) .    Chief  of  the  Chancas,  91,92,94.
+
+Hanco-hualla  of  G.  de  la  Vega,  i,  pp.  242,  324,  326 ;  ii,
+
+p.  58.     Cieza  de  Leon,  p.  280
+Anco,  Don  Carlos,  67
+
+Apu-caTTia.     A  minister  of  the  temple,  100
+Apu-  or  Auqui-challcu  Yupanqui.    A  minister  of  the  temple,
+
+100,  106
+Apu-Hualpaya.    Governor  or  Regent  of  Huayna  Ccapac,  104
+Apu-Quiricanqui,  Don  Gaspar,  165
+Apu-Tampu- Pacha.     Father  of  Manco  Ccapac,  74,  77
+Apu-Urco-Huaman-Ynti-Cunti-Mayta.       Son    of    Mayta
+
+Ccapac,  85
+Arequi  Ruca.  Ynca  general  on  the  march  along  the  coast,  98
+•\Asto  Huaraca,     Chief  of  the  Chancas,  92.     0.  de  la  Vega,
+
+i,  p.  347
+flAtahvaljja  Ynca.     Birth,  107;  at  Quito,  111;    message
+
+to  his  brother,  112;  Viceroy,  112;  war  of,  113;  taken
+
+prisoner  by  Pizarro,  118
+XAtoc  (see  Huaminca  Atoc)
+Aucaylli  Ayllu.     Lineage  which  carried  the  cries  to  Chita,
+
+on  the  Anti'Suyu  road,  23
+•\Ayar  Caclii.    One  of  the  four  brothers  who  came  out  of  the
+
+cave  of  Tampu;  brother  of  Manco  Ccapac,  57,  74
+"^Ayar  Racca.     Brother  of  Manco  Ccapac,   74.     Garcilasso
+
+gives  the  name  Ayar  Sauca  (i,  p.  73).
+■\Ayar  JJclxu.     Brother  of  Manco  Ccapac,  74
+Aylhi.     Lineage
+
+Aucaylli,  23
+
+Chamin  Cuzco,  22
+
+
+INDEX.  215
+
+Ayllu  -fCcapac.     The  blood  royal,  22.     See  G.  de  la  Vega,
+
+ii,  p.  531
+-fChina   Panaca,   23,    78.       See   G.   de   la   Vega,  ii,
+
+p.  531
+
+Copara,  144
+
+Hahtn,  22
+
+•\Huanaynin,  85.     Huahuanina  of  G.  de  la  Vega,  ii,
+
+p.  531
+
+Masca  Panaca,  23
+
+Marasaylla,  22
+
+
+—  Quesco,  23
+
+—  Tarpuniay.     The  priest  caste,  23
+
+—  Sanu,  23
+
+—  fUsca  Mayta,  22.     See  G.  de  la  Vega,  ii,  p.  531
+
+—  Usca  Panaca,  23
+
+—  ■\Vica-quirait,  22.     See  G.  de  la  Vega,  ii,  p.  531
+
+—  Yauroy  Panaca,  23
+
+—  Yapoinayu,  22
+
+—  Yahuaymin  Sutic,  22
+
+—  Yaraycu,  22
+
+
+Cacya-quivi,  Don  Baltasor  de,  67
+
+■\XGanas.     A  tribe  south  of  Cuzco,  on  the  borders  of  the
+
+Collao,  67,  102,  152
+■\XCanaTis.     Origin,  8;  Huaca  of,  83,  93;  Conquest  of,  49,
+
+98,  HI;  Chief  of  (see   Urco-calla),  112;  Punished  by
+
+Athahualpa,  113,  116
+■\\Ca7Lches.     A  tribe  bordering  on  the  Canas,  67,  152.    Cieza
+
+de  Leon,  pp.  355,  358
+Capacuyos.     A  tribe  which  conspired  against  Ynca  Pacha-
+
+cutec,  96
+^\Cavinas.     A  tribe  south  of  Cuzco,  91,  96.     Cieza  de  Leon,-
+
+p.  354
+^Cayaucachis.     An   aboriginal  tribe   of  Cuzco,  76.     See  G.
+
+de  la  Vega,  ii,  p.  239
+■^Ccapac  Yupanqui.     Ynca,  85,  88
+
+■f-lChachajmyas.     A  tribe  in  Chincha-suyu,  22,  27,  54,  103
+fXChallcuchima.     A  general  of  Atahuallpa,  111,  115,  118
+
+
+216  INDEX.
+
+Chamin  Cuzco  Ayllu,     A  lineage  whicli  carried  the  cries  down
+
+the  Chincha-suyu  road,  22
+Ghana   Coricoca.      A    valiant    widow  in  the  war  with  the
+
+Chancas,  92
+■\XChancas.     A  tribe  of  great  power,  west  of  Cuzco,  29,  91,
+
+92,  152.     See  Cieza  de  Leon,  p.  280,  315,  316
+Chauca-chiipta.     The  name  of  the  Indians  in  Huarochiri,
+
+who   were  found  by  Dr.  Avila,    in  new  shirts   called
+
+Musnu  yauri,  and  Carhua  yelli,  122
+■fChillquis.     Vanguard  of  the  Ynca  army.     Tribe  near  Cuzco,
+
+in  district  now  called  Paruro,  102,  116
+-fChina-Fanaca  Ayllu.     A  lineage  which  carried  the  cries
+
+down  the  Cunti-suyu  road.     Descendants  of  the  Ynca
+
+Sinchi  Ruca,  23,  78
+•fChollques,  96.      Probably  Chillqui  of  G.   de   la    Vega,   i,
+
+p.  80
+■\XGhumpivillcas,  96,  168.     See  G.  de  la  Vega,  i,  p.  229
+Chuqui-huy-]jachuqui'pa.     Sister  and  wife  of  Ynca  Huascar,
+
+111
+•fColla-Gcapac.     Chief  of  the  Collas,  90,  91
+Condorcanqui,  Don  Felipe  de,  67
+Gopara  Ayllu.     A  lineage  in  Huarochiri,  144
+■\Guys  Manco.     A  great  chief  at  Cuzco  ;  chief  of  the  valley
+
+of  the  Rimac,  105.    See  G.  de  la  Vega,  ii,  pp.  185,  190,
+
+192,  194
+
+Haca-roca.     Husband  of  the  Princess  Mama  Ruca,  107
+
+Hanco-Allo  (see  Anco-Allu)
+
+Hatun-Collas.     Chief  of  the  Collas,  90
+
+Hatun-Ayllu.     A  lineage  which  carried  the  cries  down  the
+
+Chincha-suyu  road,  22
+XHuaminca  Atoc.    General  sent  against  Atahualpa,  112,  113.
+
+See  Gieza  de  Leon,  pp.  167,  273
+•\IIuanaynin  Ayllu.     Descendants  of  Ma3'ta  Ccapac,  85
+Huanca   Auqui.     General    of    the    blood    royal,    employed
+
+against  Atahualpa,  113,  115,  117
+Ruayrotari,  Maria  de,  67
+Huasco  Tornay  Rimac.     Chief  of  the  Chancas,  92
+
+
+INDEX.  217
+
+■fXHuayna  Ccapac,  1  ;  born,  98,  99;  accession,  104;  coro-
+nation, 106;  wars,  108,  110;  death,  110
+
+fZloque  Yujpanqui  Ynca,  82
+
+fMama-huaca.     Wife  of  Manco  Ccapac,  62,  75,  76
+
+achi.     Mother  of  Manco  Ccapac,  74
+
+\Ana1iuarqui.    Wife  of  Tupac  Ynca  Yupanqui,  98
+
+Chimpu-cuca  or   Tancarayacchi.     Wife  of  Lloque
+
+Yupanqui,  82
+
+■fCorillpay  cahua.     Wife  of  Ccapac  Yupanqui,  87
+
+Ccoya  chuqui  huypa  chuquipa.     Wife  of  Huascar
+
+
+Ynca,  111
+
+■fChuqui-checya.  Wife  of  Ynca  Yahuar-huaccac,  90
+
+
+Chimpu-runtucay.     Wife  of  Huayna  Ccapac,  108
+
+Cuca.     Second  sister  of  Huayna  Ccapac,  107
+
+• Cusirimay.   First  wife  of  Huayna  Ccapac,  105,  107
+
+"fMamicay  Chimpu.     Wife  of  Ynca  Ruca,  89
+
+"^Runtu-cay.     Wife  of  Ynca  Uira-ccocha,  90
+
+■\XManco  Ccapac.     Deluge,  4  ;  call  from  the  Sun,  5 ;  issues
+
+from  Paccari-tampu,  6  ;  brother  of  Huanacauri,  35,  44,
+
+52  ;    birth,   74  ;    marriage,   76  ;    enemy  of  Huaca,  76 ;
+
+prayers  of,  79  ;  ceremony  ordered  by,  80
+Manco- Churin-Cuzco.     The  ^lite  of  the  Ynca's  army,  116
+■fXifanco  Ynca,  1 08,  1 1 9
+Marasaylla  Cuynissa  Ayllu,  22
+Masca-Panaca-Ayllu,  23
+Mayhua,  Juan  Apu  Ynca,  67
+•fMayta  Ccapac  Ynca,  83
+
+•fMayus.     Tribe  near  Cuzco.     Ynca's  body-guard,  110,  116
+Mihicnaca  Mayta.     General  in  army  of  Huayna  Ccapac,  108,
+
+110
+
+Ninancuyoclii.     A  son  of  Huayna  Ccapac,  107
+
+•fPachacuti  Ynca  Yupanqui.     Takes  the  name  of  Yamqui
+Pachacutec,  93,  94,  95,  99
+
+■flPaullu  Ynca,  23
+
+
+218  INDEX.
+
+-fPinao  Ccapac,  Tocay  Ccapac.    Conquered  by  Manco  Ccapac,
+
+76.     Garcilasso  has  Pinahua  (i,  p.  71)
+Pisar  Ccapac.     Chief  of  Cassamarca,  94
+
+Quesco  Ayllu,  23
+"f-Quichuas,  100,  116
+
+fQuis-quis.     A  general  of  Atahualpa,  111,  114,  115,  116,
+117,  120
+
+fPaJma  Ocllo.     Mother  of  Huascar  Ynca,  107,  111
+
+fPuca  Ynca,  87,  88,  89,.
+
+fBumi-naui.     A  general  of  Atahualpa,  111
+
+Sanu  AylUi
+
+Santa    Cruz,   Pachacuti    Yamqui    Salcamayhna,    Juan    de.
+
+Author  of  "  Antiquities  of  Peru,"  Ql
+fSinchi  Buca.     The  second  Ynca,  44,  78,  80,  81
+
+Tarpuntay  Ayllu,  23
+
+Tintaya,  Gonzalo  Pizarro  de,  67
+
+"fTocay    Ccapac,     A   great  idolater   conquered    by   Manco
+
+Ccapac,  77,  90.     Garcilasso  has  Tocay  (i,  p.  71)
+Tocto  Oclla  Guca.     Mother  of  Atahualpa,  107
+Tomay-Huaraca.     Chief  of  the  Chancas,  92
+fTupac  Ynca  Yupanqui,  96,  97,  101,  104,  152
+Tupac  Ranchiri  Ynca.     A  priest  of  the  Ccuri-cancha,  92
+
+fUira-ccocha  Ynca  (see  Viracocha) ,  12,  90,  92,  95
+
+Urcu-huaranca .     Son  of  Mayta  Ccapac,  85
+
+TJrcxi-Ynca.     Son  of  Ynca  Uira-ccocha.     Slain  by  the  Chief
+
+Yamqui  Pachacutec,  91,  93
+Ur^u-Calla.     Chief  of  the  Canaris,  112
+Urcuni,  Bernabe  Apu  Hilas,  67
+•fUsca-Mayta  Ayllu,  23
+Uturuncu  Achachi,     An  Ynca  general,  99,  102,  103
+
+"fVicaquirau  Ayllu,  22
+
+Vilcaquiri.     A  brave  Ynca  captain,  92
+
+fViracocJia  Ynca  (see  Uiraccocha),  12,  90,  92,  95
+
+
+INDEX.  219
+
+fYahuar-huaccac  Ynca,  89
+
+Yahuaijmin  Ayllu  Sutic,  22
+
+Yamqui  huanacu,  Francisco  de,  67
+
+Yamqxil  Pacliacutec,    Chief  of  Huayra  Cancha.    Defeats  and
+
+kills  Ynca  Urcu.      Submits   to  Ynca  Yupanqui,  who
+
+takes  his  name,  91,  93
+Yaraycu  Ayllu,  22
+Yaurii  Panaca  Ayllu,  23
+Yajpo-raayu  Ayllu,  22
+■^-XYwpanqui  Ynca  (see  Pacliacutec  and  Yamqui),  10,  11,  12,
+
+33,  54,  91,  92,  93,  96,  100,  154
+
+
+VI.— NAMES   OF   SPANIARDS.
+
+Artaun,  Don  Sebastian  de,  Bishop  of  Cuzco.  Treatise  on
+the  fables  and  rites  of  the  Yncas  addressed  to,  3
+
+Avila,  Dr.  Francisco  de.  Author  of  a  narrative  of  the  errors
+of  the  Indians  of  Huarochiri,  etc.,  121
+
+Barco,  Pedro  del,  118
+Benalcazar,  Sehastian  de,  169
+Bohadilla,  Dona  Isabel  de,  21
+
+Candia,  Pedro  de,  118
+
+Canete,  Viceroy  Marquis  of,  161
+
+Castro,  Licentiate,  62
+
+Guzman,  Diego  Artiz  de,  11
+
+Lartaun  (see  Artaun)
+
+Molina,  Cristoval  de.  Author  of  ''Fables  and  Rites  of  the
+Yncas^',  3
+
+Olivcra,  Luis  de,  59,  62
+
+Ondegardo,  Polo  de.  Report  by,  149.  Cieza'  de  Leon,  p.
+387  ;  G.  de  la  Verja,  i,  p.  273  ;  ii,  p.  91
+
+Pizarro,  Francisco  de,  118
+
+
+220  INDEX.
+
+Segovia,  Hernan  Lopez  de,  11
+
+Toledo,  Viceroy  Francisco  de,  60
+Toro,  Friar  Pedro  de,  62
+
+Valverde,  Fray  Vicente  de,  119
+
+
+THE    END.
+
+
+DATE
+
+DUE
+
+Mffi^0M)4
+
+nM  ^
+
+i
+
+1
+
+GAYLORD
+
+PRINTED  IN  U.S.A
+
+COLUMBIA  UNIVERSITY  LIBRARIES
+
+
+0023392533
+
+
+0^3?9'?/^
+

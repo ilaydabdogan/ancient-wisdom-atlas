@@ -1,434 +1,3 @@
-# The Central Caribs
-
-CONTENTS
-
-
-PAGE
-
-
-PREFACE . 9
-
-GEOGRAPHICAL ENVIRONMENT . n
-
-MACUSIS . ,3
-
-WAIWAIS . ,53
-
-WAIWES . 182
-
-PARUKUTUS . i83
-
-CHIKENAS . ,94
-
-KATAWIANS . i97
-
-TONEYENAS . i98
-
-DIAUS . i99
-
-WAKERAS . 212
-
-KUMAYENAS . 214
-
-URUKUENAS . 217
-
-APALAI IS . 220
-
-MARACA TRIBES . 242
-
-Zaparas . 242
-
-Azumaras . 242
-
-PORO KOTOS . 245
-
-OTHER TRIBES . 250
-
-SOMATIC CHARACTERS . 253
-
-MAP . 278
-
-BIBLIOGRAPHY . 280
-
-INDEX . . ! . 282
-
-
-PLATES
-
-
-Frontispiece.
-
-Appalaii Head Dress
-
-Plate
-
-
-The Savannah Country of British Guiana
-
-Plate
-
-
-Macusi Interior of Work House
-
-Plate
-
-III.
-
-Macusi Mission Choir
-
-Macusi Women and Children
-
-Plate
-
-
-Macusi Interior
-
-Macusi Woman Grating Cassava
-
-Waiwai
-
-Plate
-
-
-Macusi
-
-Plate
-
-
-Macusi
-
-Plate
-
-VII.
-
-Waiwai Family in Their Hammocks
-
-Plate
-
-VIII.
-
-Waiwai Chiefs
-
-Plate
-
-
-Waiwai Men
-
-Plate
-
-
-Waiwai Pounding Poison Vine in the River
-to Kill Fish
-
-Waiwai Woman Spinning
-
-Waiwai Man Making a Bow
-
-Plate
-
-
-Waiwai Breaking Poison for Fish
-
-Waiwai Trap for Wild Pigs
-
-Waiwai Dance
-
-Plate
-
-XII.
-
-Waiwai
-
-Plate
-
-XIII.
-
-Parukutu Chief
-
-Parukutu Girls
-
-Plate
-
-XIV.
-
-Parukutu
-
-Plate
-
-
-Parukutu
-
-Plate
-
-XVI.
-
-Waiwe
-
-Diau
-
-Plate
-
-XVII.
-
-Porokoto
-
-Chikena
-
-Tonayena
-
-Azumara
-
-Zapara
-
-Chikena
-
-Katawian
-
-Tonayena
-
-
-UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
-
-Plate
-
-XVIII.
-
-Kumayena
-
-Urukuena
-
-Plate
-
-XIX.
-
-Apalaii War Chief’s Ceremonial Dress
-
-Plate
-
-
-Apalaii Wasp Frame in Form of a
-Jaguar
-
-Plate
-
-XXI.
-
-Apalaii Apron
-
-Plate
-
-XXII.
-
-Apalaii Ceremonial Club with Figures
-Representing Mythical Apalaii
-Forest Monsters
-
-Plate
-
-XXIII.
-
-Apalaii Trays
-
-Waiwai Sieve
-
-Plate
-
-XXIV.
-
-Macusi Carrying Basket
-
-Apalaii Carrying Basket
-
-Plate
-
-XXV.
-
-Macusi Beaded Aprons
-
-Plate
-
-XXVI.
-
-Waiwai Woman’s Loin Apron
-
-Plate
-
-XXVII.
-
-Waiwai Head Dress
-
-Plate
-
-XXVIII.
-
-Waiwai Head Dress
-
-Plate
-
-XXIX.
-
-Waiwai Combs
-
-Plate
-
-XXX.
-
-Waiwai Men’s Belts
-
-Plate
-
-XXXI.
-
-Waiwai Hair Tubes
-
-Plate
-
-XXXII.
-
-Waiwai Ear Ornaments
-
-Plate
-
-XXXIII.
-
-Waiwai Case for Poisoned Arrow
-Points
-
-Plate
-
-XXXIV.
-
-Waiwai Trinket Baskets
-
-Waiwai Storage Basket
-
-Plate
-
-XXXV.
-
-Waiwai Musical Instruments
-
-Waiwai Knives of Peccary Tusk
-
-Plate
-
-XXXVI.
-
-Waiwai Stools
-
-Plate
-
-XXXVII.
-
-Waiwai Cassava Grater
-
-Waiwai Wooden Mortar
-
-Plate
-
-XXXVIII.
-
-Waiwai Ceremonial Clubs
-
-Plate
-
-XXXIX.
-
-Waiwai Body Painting
-
-Plate
-
-
-Waiwai Face Painting
-
-NOTICE
-
-
-Dr. Farabee completed the text of this volume in Decem¬
-ber, 1921. During his absence on the Museum’s expedition in
-South America in the following year the book was in press.
-Upon his return in the spring of 1923, Dr. Farabee was so ill
-that he was unable to give his attention to the proofs or the
-preparation of the plates. His continued illness has made it
-seem desirable to see the book through the press without his
-supervision. The reading of the proofs, the preparation of
-the plates and the making of the index were tasks that fell to
-others in the Museum. That this work has been well and
-thoroughly done is not doubtful, but to the student making use
-of the volume I desire to make it known that Dr. Farabee had
-no opportunity of reading the proofs or preparing the plates or
-supervising the publication.
-
-G. B. Gordon,
-
-Director.
-
-
-PREFACE
-
-
-The material here presented was collected by the University
-Museum’s South American Expedition, 1913-1916. The work
-was done under the supervision of Dr. G. B. Gordon, Director
-of the Museum, and with the assistance in the field of Mr.
-John Ogilvie, Sr. Joaquin Albuquerque and Dr. Franklin H.
-Church.
-
-The Carib tribes, whose language, culture and somatic
-characters were investigated, are in contact with numerous
-other tribes whom we visited and whose history we have recorded
-in Vol. IX of the Museum’s Anthropological Publications under
-the title of The Central Arawaks. Many similarities of cul¬
-ture will be observed among the tribes of these two linguistic
-stocks — similarities which may be due in part to contact and
-in part to the influence of environment.
-
-As this is the first time that any detailed account of these
-tribes has been attempted, no doubt many mistakes have been
-made which will await the correction of future students. Some
-of the tribes had not been visited before, some had been located
-on maps by hearsay, while some had not been known even by
-name. The lack of interpreters at times rendered the work
-difficult and accounts for the brevity of discussion in certain
-parts.
-
-The data concerning the interior tribes are based entirely
-upon personal observation by the members of the expedition.
-The material from the Macusis was obtained very largely from
-Mr. Christopher Davis, a man educated in the mission schools
-of Demarara, who had been living with the Macusis for fifteen
-years in the capacity of a voluntary religious teacher.
-
-Besides doing the usual ethnological work, the expedition
-made a map of the region through which it passed, washed the
-streams for gold (nothing of value was found), made natural
-
-
-10 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
-history collections and secured many rare live animals and
-birds for the Philadelphia Zoological Gardens.
-
-It gives me pleasure to acknowledge my obligations to the
-following persons who contributed so much to the success of
-the expedition: To Dr. G. B. Gordon; to the President and
-Board of Managers for their liberal support and hearty coopera¬
-tion; to Mr. H. P. C. Melville, Magistrate and Protector of
-Indians, for valuable information and assistance; to Christopher
-Davis for information and services as interpreter among the
-Macusis; to our four Arawak Indians, who traveled with us for
-six months, for faithful service; and especially to Mr. John
-Ogilvie, whose intimate knowledge of jungle travel made pos¬
-sible our journey to the interior tribes, for companionship and
-assistance in every part of the work.
-
-William Curtis Farabee
-
-
-December 16, 1921
-
-
 GEOGRAPHICAL ENVIRONMENT
 
 
@@ -467,8 +36,6 @@ water. When the luxurious grass of the savannah becomes dry,
 it is burned to kill the rattlesnakes and to drive the game in
 the direction of the hunters.
 
-
-12 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS., VOL. X
 
 The presence of a never failing spring or a water hole
 determines the site of the village which is usually located in the
@@ -535,9 +102,6 @@ published by Martius.
 2J. A. J. de Villiera, Roy. Geog. Jour., May, 191 1.
 
 
-14 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
-
 In 1835, when Robert Schomburgk first visited Southern
 British Guiana, he found some three thousand Macusis in the
 same territory they occupied when first reported by the Dutch.
@@ -575,9 +139,6 @@ as possible.
 1 Manuscript published by Lieut. Smyth, Jour. Roy. Geog. Soc., Vol. 6, 1836, pp. 11-23.
 
 2 See bibliography.
-
-
-FARABEE - THE CENTRAL CARIBS
 
 
 MATERIAL CULTURE
@@ -620,9 +181,6 @@ been mixed with the feet in a hole near the house is then applied
 on both sides making a smooth wall six inches thick.
 
 
-16 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
-
 The bark walls are usually about five feet high. The posts
 supporting the roof carry three horizontal stringers firmly lashed
 at the required heights. The heavy bark of the tirikir tree
@@ -653,9 +211,6 @@ communal house 48 feet long and 24 feet wide having a seven
 foot wall would have eight wall posts six inches in diameter
 with two principal posts eight inches in diameter, 20 feet
 high and 12 feet apart, located near the foci of the ellipse.
-
-
-FARABEE — THE CENTRAL CARIBS
 
 
 The two principal posts are forked at the top to receive the
@@ -698,8 +253,6 @@ feet wide; one for men and the other for women, but in many
 instances only the east door is in use. The smaller houses have
 
 
-18 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
 only one door which may be at the end or on the side. . The
 doors of the large houses have bark or plank jambs 1 5 inches
 wide. The movable door of leaves or bark is lifted and set
@@ -738,9 +291,6 @@ stant tread of bare feet. The soil was removed before the house
 was built but no other preparation for the floor was made.
 The floors are kept remarkably clean ; no refuse being allowed
 to collect around the walls nor in the common central portion.
-
-
-FARABEE — THE CENTRAL CARIBS
 
 
 The rough work, such as preparing cassava roots and removing
@@ -785,8 +335,6 @@ making meal, farina and cassava bread, drink for festivals,
 weaving of hammocks, etc., are kept in the work houses or in
 
 
-20 UNIVERSITY MUSEUM— ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
 the centre of the large house for use in common. Only the
 smaller things are individual. The loom is a very simple affair
 composed of two upright poles with two mortises near the top
@@ -823,9 +371,6 @@ feet long, 1 foot wide and 2 inches thick, is cut from the broad
 flat root of the A spidospermum excelsum. Holes are made with
 a bone awl, the stones driven in with a wooden mallet and the
 whole surface covered with pitch ( Ceroxylon andicola ) to fasten
-
-
-FARABEE — THE CENTRAL CARIBS
 
 
 the stones more securely and to fill up the pores of the wood.
@@ -867,8 +412,6 @@ an adaptation of something already in use to a new purpose, but
 a direct invention of a new device for a new service.
 
 
-22 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
 For the removal of the woody fibre from the cassava pulp,
 a sieve, made by plaiting splints of palm fronds, is in use. They
 are usually square with the sides raised by tying small sticks
@@ -906,9 +449,6 @@ woven basketry or leaves may be used to cover the contents and
 to protect them from the rain. Men and women carry with a
 tump line made of the inner bark of a small cakaralli tree
 (. Secythis ollaria). The line is secured one third way down the
-
-
-FARABEE — THE CENTRAL CARIBS
 
 
 framework of the basket and is so short that it keeps the load
@@ -950,8 +490,6 @@ tribe to tribe. The Waiwais make the best ones (Plate
 XXXIV.)
 
 
-24 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
 Pottery
 
 The Macusis make no fine pottery but their cooking and
@@ -989,9 +527,6 @@ and grow to a height of eight or ten feet. The women do every¬
 thing in connection with collecting, spinning and weaving cotton,
 while the men make strings and larger cords of other fibres. The
 cotton is collected and stored away to dry in small leaf-lined
-
-
-FARABEE — THE CENTRAL CARIBS
 
 
 baskets which are suspended from the roof near the ridge pole.
@@ -1032,9 +567,6 @@ often used for the warp and cotton for the woof. Palm fibre
 was in common use for making hammocks throughout the
 
 
-26 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
-
 Guiana regions before the introduction of cotton spinning, as it
 is today by all the forest tribes. Both types are still found in
 many places. When the body of the hammock is finished,
@@ -1071,9 +603,6 @@ the loop with his feet hanging in front of his mother’s hip.
 Her back is thus left free for the pack basket which is suspended
 from a bark or woven tump line over her forehead. Endless
 bands an inch wide are woven over pliable sticks and worn on
-
-
-FARABEE — THE CENTRAL CARIBS
 
 
 the head by young women of marriageable age at their dances.
@@ -1115,8 +644,6 @@ then by a backward roll these strands are made to twist about
 each other into a single thread. When heavier cords or lines
 
 
-28 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
 are required two, three or more of these threads are twisted
 together in the same manner. The leaf of the ixtle is broad
 and heavy, with a tough skin. To free the fibre, the leaf is
@@ -1153,9 +680,6 @@ these used as belts.
 The forest provides ready made splendid substitutes for
 the manufactured cords in the pliant stems of a great variety
 of lianas or creepers known locally under the general term bush
-
-
-FARABEE - THE CENTRAL CARIBS
 
 
 rope. ’ A bush rope may be the size of a thread or a six inch
@@ -1196,9 +720,6 @@ of the soil. The bark on the logs is partially burned. The
 remainder later falls off and is decomposed where it falls. This
 
 
-UNIVERSITY MUSEUM— ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
-
 method of clearing differs from the two methods used in North
 America in frontier days. 1 he frontiersman either cut down all
 the trees, collected them into great heaps and burned them, or
@@ -1235,9 +756,6 @@ field by inserting stems in the old hills as the cassava is used
 out; thus with little labor the field is kept full and growing.
 But this system soon exhausts the immediate soil while other
 rank vegetation takes possession between the hills. Very little
-
-
-FARABEE — THE CENTRAL CARIBS
 
 
 cultivating is ever done after the first planting gets a good
@@ -1279,9 +797,6 @@ at the end of the season, and gives the whole crop for use. It
 is a poisonous plant which animals, birds and insects neither eat
 nor destroy. Besides, it is less difficult to prepare and more
 convenient for use than corn or wheat.
-
-
-UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
 
 
 Corn, beans, melons, squashes, pumpkins, sweet potatoes
@@ -1365,8 +880,6 @@ to catch or to kill, but the curassow ( Crax alector), maroudi
 (' Tinamotis elegans) are easily shot with the bow and arrow
 
 
-34 UNIVERSITY MUSEUM— ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
 because they come when called by the Indians, who are perfect
 imitators. The whistling ducks ( Anas autumnahs) are numerous
 in the lakes in the wet season. The muscovy ( Cainna moschata)
@@ -1448,8 +961,6 @@ The press is then hung on the end of a beam or the fork of a
 pole set for the purpose and a lever passed through the loop at
 
 
-36 UNIVERSITY MUSEUM— ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
 the lower closed end of the press. A woman sits on the end
 of the lever, thus stretching the press downwards and con¬
 tracting its sides. The poisonous juice is forced out through
@@ -1487,9 +998,6 @@ parched. In this state it is called farina. The oven for making
 farina should be larger, with upturned edge, making the oven
 two or three inches deep. The sifted cassava pulp is spread
 over the hot oven and stirred constantly to prevent it from
-
-
-FARABEE — THE CENTRAL CARIBS
 
 
 sticking to the bottom and burning. After it is thoroughly
@@ -1532,8 +1040,6 @@ As the children grow older, or with a change of diet, the condi¬
 tion disappears.
 
 
-38 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
 Fruits form a large part of the diet. Bananas are the most
 important, the plantains are known but not depended upon.
 The cashew (Anacardium occidentale) , the pineapple ( Ananas
@@ -1569,9 +1075,6 @@ a lump two inches square and an inch thick would give a good
 light for an hour. When eating our dinner at night in the forest
 we often depended upon the konima tree for light. The resin
 is found at the root of the tree in hard lumps.
-
-
-FARABEE - THE CENTRAL CARIBS
 
 
 Manufacture of Drinks
@@ -1612,8 +1115,6 @@ is over, the men immediately go to sleep and wake up hungry,
 but as well as usual.
 
 
-40 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
 Another drink is made for the paiwai dance and is called
 by the same name. Cassava bread is made twice its ordinary
 thickness and baked on both sides until it is black and charred.
@@ -1650,9 +1151,6 @@ miliaria regia ) are also used. Wild pineapples, cashews and
 bananas are crushed and mixed with water to drink.
 
 
-FARABEE — THE CENTRAL CARIBS
-
-
 Eating and Drinking
 
 The Indians eat less than a white man at their regular
@@ -1687,9 +1185,6 @@ some food. No word of greeting is offered with the drink and
 no word of thanks returned with the empty bowl. Any empty
 receptacle must be returned by the individual to whom it was
 first presented.
-
-
-42 UNIVERSITY MUSEUM — -ANTHROPOLOGICAL PUBLICATIONS, VOL. X
 
 
 Hunting
@@ -1730,9 +1225,6 @@ are kept tied on platforms and never allowed to run about the
 house on account of the danger from jiggers (. Pulex penetrans),
 the small insects which burrow under the skin near the toe nails
 and make the dogs’ toes sore. These jiggers infest the dust
-
-
-FARABEE — THE CENTRAL CARIBS
 
 
 about the village and cause a great deal of suffering among men
@@ -1818,9 +1310,6 @@ Seeds are scattered under the trap, and when the boy on watch
 sees a bird enter he pulls a string, which releases the support
 
 
-FARABEE — THE CENTRAL CARIBS
-
-
 and allows the trap to fall. Animals have runways which they
 habitually travel. A loop is so placed in the runway that
 the head of the animal passes through the loop. The loop cord
@@ -1860,8 +1349,6 @@ from the branches of a tree. When transfixed with an arrow,
 he may hold on until the Indian climbs up and kills him. We
 
 
-46 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
 sat down to wait for one to fall that had been mortally wounded,
 but while we watched an eagle happened along and carried it
 off. At another time I shot a curassow, which fell behind a
@@ -1897,9 +1384,6 @@ hunter hides under the tree before the parrots come, and with
 his poisoned darts ready he awaits their arrival. They come first
 into the top of the tree, and when the sentry is satisfied that all is
 well, they move down to the lower branches, where the hunter
-
-
-FARABEE — THE CENTRAL CARIBS
 
 
 picks them oft one by one until he is satisfied. The arrow, the
@@ -1940,8 +1424,6 @@ most savage fish known to South American waters, is the pirai
 (. Serasalmus piraya), a short, deep bodied fish, from a foot to
 eighteen inches in length, having very sharp saw edged teeth.
 
-
-48 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
 
 It cannot be taken with the hook, so a very ingenious trap is
 used to catch it.1 This trap is used by all Arawak and
@@ -1984,9 +1466,6 @@ not return, it may be set anywhere in rapid water. The end
 2 Ibid., Fig. 4.
 
 
-FARABEE — THE CENTRAL CARIBS
-
-
 may be untied to remove the fish. The trap1 is a simple
 affair, made ot sticks two and a halt feet long, in the form of a
 truncated cone. It is carried into the pool and planted down
@@ -2027,8 +1506,6 @@ other vicious fish, is speared at once and thrown out bv the men
 1 Ibid., Fig. 5.
 
 
-50 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
 with the poison. When the man in charge is satisfied that the
 fish are all dead he gives the signal and everybody rushes in
 and gathers up all the fish he can find. A large pool will yield
@@ -2065,9 +1542,6 @@ river three hours’ journey away. 1 he first thing, after the
 loads of pulp were deposited on the river bank, was to make
 baskets of leaves to hold the small fish. The larger fish were
 strung on a cord or bush rope over the shoulder. The place
-
-
-FARABEE — THE CENTRAL CARIBS
 
 
 selected for the poisoning was the deepest pool on the river.
@@ -2108,8 +1582,6 @@ rosia toxicaria), leaves and seeds used; kunapari ( Clibadium
 asperum), leaves and seeds used; tcukuya and haya are shrubs
 
 
-52 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
 whose leaves only are used. The curale ( Strychnos toxifera )
 poison is not used in shooting fish or in poisoning the pools,
 but is reserved for the blow gun darts and arrow points.
@@ -2148,9 +1620,6 @@ immediate use, it is slipped from one end, given a few twists
 and replaced, the bow being flexed by pressure against the knee.
 The Waiwais make the best bows of all the tribes. Arawak as
 well as Carib tribes secure Waiwai bows by barter.
-
-
-FARABEE — THE CENTRAL CARIBS
 
 
 All tribes make the same general type of arrow. They
@@ -2252,9 +1721,6 @@ Manacu wood . .
 1 Reisen in British Guiana, p. 450.
 
 
-FARABEE — THE CENTRAL CARIBS
-
-
 Only a few men know how to manufacture the poison, and
 these go about it with great ceremony and secrecy. I did not
 witness the ceremony but learned from others about it. A new
@@ -2290,9 +1756,6 @@ is because we have not advanced beyond the primitive man’s
 ideas of the mystery surrounding poisons. We easily believe
 extravagant stories concerning deadly insects, deadly snakes
 and deadly poisons.
-
-
-UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
 
 
 Detachable poisoned points, eight inches long, are used
@@ -2375,9 +1838,6 @@ The blow gun darts, ten inches long and the size of knitting
 needles, are made from the midrib of the cokerite palm ( Maxi -
 
 
-58 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
-
 miliana regia ) and carried in a wicker woven quiver, which is
 coated with karamana wax and covered with a tapir skin cap.
 Attached to the quiver, there is a jawbone of the pirai ( Serras -
@@ -2415,9 +1875,6 @@ effective implements. The small amount of poison one would
 get from eating a bird or animal killed with a dart or arrow
 point could be eaten with impunity. One would not be foolish
 enough to drink the water in the pool at a poisoning, but he
-
-
-FARABEE — THE CENTRAL CARIBS
 
 
 might drink from the river immediately below without danger
@@ -2461,8 +1918,6 @@ They gather the cotton, spin it and weave it into cloth and
 hammocks. Women among all tribes appear to the white
 
 
-60 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
 visitor as burden bearers and hard laborers because they are
 so busy cooking while the men are visiting. If the visitor, how¬
 ever, should accompany a hunting party to a distant mountain,
@@ -2499,9 +1954,6 @@ cases a stranger can recognize the animal form at a glance
 plain color, while the borders are ornamented with fragments of
 realistic designs. Sometimes the aprons have fringes of nuts or
 seeds which serve as ornaments and also as rattles, making
-
-
-FARABEE — THE CENTRAL CARIBS
 
 
 tinkling sounds at every step as the thighs strike the apron in
@@ -2541,8 +1993,6 @@ bark is sometimes used for baby carriers, small hammocks and
 tump lines.
 
 
-62 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
 The Macusis, when traveling in the savannah on stony
 trails, wear sandals made of the leaf stock of the aeta palm
 (. Mauritia flexuosa ) or. of the thick hide of the tapir. The
@@ -2579,9 +2029,6 @@ arm and above the calf of the leg; shell ear ornaments with
 necklace and pendants and lower lip plugs with pendants
 attached. The women wear wristlets on both arms, and anklets
 woven in place, d he men wear wristlets on the right arm but
-
-
-FARABEE — THE CENTRAL CARIBS
 
 
 not on the lei t on account of its interference with the bowstring.
@@ -2622,9 +2069,6 @@ hanging down the back. The combs in use (Plate XXIX) are
 made by setting the hard wood teeth in a slit in the leg bone
 
 
-64 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
-
 of a bird. The comb is from four to six inches wide and the
 teeth are about two inches long. The hollow bone is filled
 with wax, the ends of the teeth imbedded in the wax, fine cotton
@@ -2661,9 +2105,6 @@ design may be that of a conventionalized animal or plant but
 in body decoration it is used for the sake of beauty only. Frag¬
 ments of designs are used to fill up irregular spaces. Two girls
 were painted up for us and we took their photographs but un-
-
-
-FARABEE — THE CENTRAL CARIBS
 
 
 fortunately that one particular roll of films was spoiled and the
@@ -2705,8 +2146,6 @@ all the tribes in the Guiana region. Their songs are borrowed
 by other tribes. A few years ago a mission was established at
 
 
-66 UNIVERSITY MUSEUM— ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
 Upikari and a small chapel built. One day when I was passmg
 the chapel, 1 heard music inside and went in. The choir (Plate
 111) consisting of two boys and two girls, with a boy at the
@@ -2742,9 +2181,6 @@ with engraved designs. Another variety of flute has a reed
 made of a bird bone thrust through the node of the flute. The
 flutes of the Apalaii are all side blown and thus differ from those
 of other Carib tribes.
-
-
-FARABEE — THE CENTRAL CARIBS
 
 
 The Dance
@@ -2786,8 +2222,6 @@ their right four steps. T hus they continue around the circle
 from right to left. The rhythm is emphasized by throwing the
 
 
-68 UNIVERSITY MUSEUM— ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
 weight of the body forward with each step. The tukui, m
 expression of their welcome, make a lot of noise with panpipes
 and drums.
@@ -2827,9 +2261,6 @@ together with all the family pets. As the visitors arrive by
 villages the day before the dance is scheduled to begin, they
 
 
-FARABEE — THE CENTRAL CARIBS
-
-
 blow their reed flutes to announce their presence. They ad¬
 vance into the village and the head man goes into the house, to
 the hammock of the head man of the village, and says “I am
@@ -2867,8 +2298,6 @@ required as in the paricari dance, but no drink is offered to or
 for the evil spirit. Even though there is no direct worship or
 offering, it would appear that this dance in recognition of the
 
-
-70 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
 
 evil spirit is a direct attempt to avert his ill will. The third
 dance, called kaka, is much like the warepang except for the
@@ -2910,9 +2339,6 @@ It is a very ingenious toy and as far as I am aware unknown
 outside the Caribs.
 
 
-FARABEE — THE CENTRAL CARIBS
-
-
 Political Organization
 
 At present there is no chief over the whole Macusi tribe,
@@ -2952,8 +2378,6 @@ go away from the old home. I he daughter brings to live in
 her father’s house a husband who willingly submits to the will
 
 
-72 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
 of his father in law. This does not mean that the father is
 domineering, but that his expressed wishes are respected. He
 counsels with his family and gives advice.
@@ -2991,9 +2415,6 @@ used may grow at a great distance in the savannah or forest;
 he must know the plants and their locality. He is taught the
 traditions of the tribe, for he must pass them on. He must
 learn the methods of his profession and the proper use of his
-
-
-FARABEE— THE CENTRAL CARIBS
 
 
 voice in exorcising spirits. He must become a real ventriloquist
@@ -3035,9 +2456,6 @@ ritual over it and gave it to the patient to drink. If a child
 has worms he gives it a tea, called ronai, made of the bark
 
 
-UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
-
 of a tree by the same name. For a pain in the stomach or
 bowels, he scrapes the seeds of the kamara and makes a tea.
 For headache, he folds up the skin over the temple and per¬
@@ -3074,9 +2492,6 @@ The kenaimas are little people who live in the depths of
 the forest and come out at night to attack people— to kill them
 outright or to inflict some punishment upon them which will
 eventually cause their death. They may be hiding in lonely
-
-
-FARABEE — THE CENTRAL CARIBS
 
 
 places waiting an opportunity to spring upon a passing victim.
@@ -3117,8 +2532,6 @@ direction of the guilty parties. I was unable to find any such
 
 1 Reisen in British Guiana, Vol. I, p. 158.
 
-
-76 UNIVERSITY MUSEUM— ANTHROPOLOGICAL PUBLICATIONS, VOL. X
 
 method in use today. All punishments of such nature are in
 the hands of the afflicted family. The methods are then, to
@@ -3161,9 +2574,6 @@ and enter the girl’s home where they take up their abode. They
 Guiana, p. 222.)
 
 
-FARABEE — THE CENTRAL CARIBS
-
-
 become a separate family but the boy devotes himself to the
 service of his father in law until a child is born, when they may
 move away to a home of their own. They may build a house
@@ -3202,8 +2612,6 @@ here, living in natural conditions, seem to suffer very little;
 they go on doing their ordinary work up to the very time of
 delivery and after a few hours are at work again. On the Apini-
 
-
-78 UNIVERSITY MUSEUM - ANTHROPOLOGICAL PUBLICATIONS, VOL. X
 
 wau we met a Diau man who had brought a message from the
 Diaus, ten days away, to the Parikutus inviting them to a great
@@ -3244,9 +2652,6 @@ do no hard labor, nor kill any large animal; particularly he
 must not kill a snake or an anteater for a year. He must not
 
 
-FARABEE — THE CENTRAL CARIBS
-
-
 shoot any animal, bird or fish, nor is he allowed to eat game so
 killed by another. He may catch fish with a hook or catch
 them with his hands. He is therefore confined to a fish, fruit
@@ -3284,8 +2689,6 @@ water and then rubbed the wet cotton on the legs and arms of
 the three strong young men and a boy at the village and on
 
 
-80 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
 Ogilvie and me but not on our Wapisiana boys nor the old men
 at the village. This cotton they would carry home and rub over
 the bodies of their boys so that they might grow into strong
@@ -3322,9 +2725,6 @@ or sister, and is not named until some act or peculiarity calls
 attention to the individual and fixes the name. Some mental
 or physical resemblance to an animal gives a man the name of
 the animal: A man was called waipingpana because his ears
-
-
-FARABEE — THE CENTRAL CARIBS
 
 
 had some of the peculiarities of a deer’s ears; a fat man, kiwang,
@@ -3366,8 +2766,6 @@ They never touch the corpse, as there is no need for it, but they
 are not especially afraid of the dead. When a husband dies
 
 
-82 UNIVERSITY MUSEUM— ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
 his widow, if her father is not living, goes with her children to
 the home of her brother or sister. She may marry again soon
 and take or leave the children as is most convenient. Children
@@ -3407,9 +2805,6 @@ the volume of sound. At the end of twenty minutes it stops in
 deathly stillness. Slowly the women dry their eyes, crawl out
 of their hammocks and go back to work, while the men in a
 few minutes resume their talk of other things. It is a most
-
-
-FARABEE — THE CENTRAL CARIBS
 
 
 impressive ceremony, mournful yet musical and soothing. While
@@ -3453,8 +2848,6 @@ said, “Tree, be hard on my elder brother’s side,” and it was so.
 Then he asked his elder brother how he was getting on, and the
 
 
-84 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
 elder brother answered, “The tree is so hard I cannot cut it at
 all.” As he said this he stopped working and looked around
 on his younger brother’s side. To his surprise he found a great
@@ -3493,9 +2886,6 @@ Origin of Fish
 There were no fish in the lakes or rivers, and the two
 brothers wanted fish. The younger brother said to his elder
 brother. “Let us poison this pool; there are no fish in it. You
-
-
-FARABEE — THE CENTRAL CARIBS
 
 
 go down to the other end and poison it there, and I will poison
@@ -3541,9 +2931,6 @@ Amer. Mus. Nat. Hist., Vol. XII, Pt. 1, 1912. (3) W. C. Farabee, Anth. Pub. Univ
 Museum, Vol. IX, pp. 123-131, 1918.
 
 
-86 UNIVERSITY MUSEUM— ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
-
 one on the thumb side of the hand is radial; one on the little
 finger side is ulnar; one across the back ot the hand is dorsa ,
 the loop nearest the tip of the finger is distal, and the one
@@ -3586,9 +2973,6 @@ rotate the wrists inward
 Fig. 2. — Waitai, Fish Trap. Macusi and extend. (Fig. 2.)
 
 
-FARABEE — THE CENTRAL CARIBS
-
-
 Parkinson found the same thing among the Yoruba of West
 Africa; Cunnington found it in Central Africa; Haddon, in
 South Africa; and I among the Wapisianas of the Guianas and
@@ -3625,9 +3009,6 @@ like figure in each hand with loop around all except the ring
 fingers.
 
 This figure is found also among the eastern Arawaks.
-
-
-88 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
 
 
 4. Rocebibu
@@ -3702,9 +3083,6 @@ the original string. Have the as-
 Jaw. Macusi
 
 
-90 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
-
 sistant take the left hand loops and draw out in the form of
 spider’s nest (Fig. 5).
 
@@ -3722,9 +3100,6 @@ from the distal side, bring it through between the thumb and
 index, give it a right hand twist and place the loop over the left
 index. Draw tight the pendant strings. Again pass the right
 index beneath the palmar string and between the index and third
-
-
-FARABEE — THE CENTRAL CARIBS
 
 
 finger, hook it over the dorsal string, bring it forward, twist as
@@ -3767,9 +3142,6 @@ the pendant dorsal string, bringing it through between the
 ]Those following were obtained from the Waiwais.
 
 
-92 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
-
 thumb and index. Give the loop a right hand twist, place it
 over the left index and pull tight the pendant string. Again
 pass the right index beneath the pendant palmar string and
@@ -3810,9 +3182,6 @@ hand. Take up the original second and third finger loops of
 the left hand on the backs of corresponding fingers of the right
 
 
-FARABEE — THE CENTRAL CARIBS
-
-
 hand. Bring over the string from the hack of the left hand and
 pull out. These remain a loop around the second and third
 fingers of the right hand, each loop holding midway between
@@ -3846,9 +3215,6 @@ over and release thumb loops. Place tips of indexes in the
 triangles inside of thumbs but outside of thumb strings. Turn
 palms outward releasing the little fingers. There remain two
 horizontal strings with five cross strings.
-
-
-94 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
 
 
 14. Watciwatci, Two Little Turtles
@@ -3887,9 +3253,6 @@ on the corresponding fingers of the left hand. Take up the
 original second and third finger loops of the left hand on the
 backs of the corresponding fingers of the right hand. Draw
 out, and an equilateral triangle remains between the hands.
-
-
-FARABEE — THE CENTRAL CARIBS
 
 
 17. Maiyosi, a Spider
@@ -3931,9 +3294,6 @@ palm with a hook of the right index, twist inward and place the
 loop over the left index. Bring long loop forward, leaving it
 
 
-UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
-
 around the thumb, and remove the other string from between
 the second and third to between the fourth and little fingers.
 Take up the thumb and little finger strings on the backs of the
@@ -3972,9 +3332,6 @@ Macusis. He was married to a Macusi woman and had three
 children; the eldest of whom, a girl of fourteen, speaks English
 perfectly. With the aid of his wife and daughter Davis had
 translated many selections from the Bible and many passages
-
-
-FARABEE — THE CENTRAL CARIBS
 
 
 from the Prayer Book. Every Sunday he held services in the
@@ -4077,7 +3434,6 @@ they. . .
 
 . injamura
 
-98 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
 
 Possessive Pronouns
 
@@ -4150,9 +3506,6 @@ heavy . amuine
 heavier . amuineseni entendairo
 
 heaviest . amuenesenikong endairo fugero
-
-
-FARABEE — THE CENTRAL CARIBS
 
 
 Plurals
@@ -4365,9 +3718,6 @@ yani at the spring NUMERALS
 20. tiwingpemongong
 
 
-FARABEE — THE CENTRAL CARIBS
-
-
 1 he meaning ol the words for the numerals from one to four
 is not understood. Five is made up of mia, fingers and toiking,
 on one side; that is, all the fingers on the right hand have been
@@ -4426,9 +3776,6 @@ Which your domestic dog (is)?
 11. tarako kenangure
 
 hat with me (I have)
-
-
-102 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
 
 
 12. tarako kenaug amure
@@ -4543,9 +3890,6 @@ you
 urineri
 
 woman
-
-
-FARABEE — THE CENTRAL CARIBS
 
 
 The father loves his son
@@ -4761,8 +4105,6 @@ and
 to him
 
 that he may come his son
-
-FARABEE — THE CENTRAL CARIBS
 
 
 puripanaloheiya kaima; aminge bura assamanda kufu
@@ -5003,9 +4345,6 @@ Judea pata bai ipakesabe Galilee pona.
 Judea place from he came out when Galilee on
 
 
-106 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
-
 St. John, Chapter 4
 
 46. . . . And there was a certain nobleman, whose son
@@ -5109,9 +4448,6 @@ and we father of us God
 Christ winafai nere.
 
 Christ side from and
-
-
-FARABEE — THE CENTRAL CARIBS
 
 
 Uwa tatoke irebatobe ana ya, God bia konoro
@@ -5238,8 +4574,6 @@ pong nere
 people and
 
 
-108 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
 8. Aiyamore winufai ana epotori God maimu etunge
 
 you side from we master God word sound
@@ -5305,9 +4639,6 @@ the sight of God and our Father:
 4. Knowing brethren beloved, your election of God.
 
 
-FARABEE — THE CENTRAL CARIBS
-
-
 5. For our gospel came not unto you in word only, but also
 in power, and in the Holy Ghost, and in much assurance; as ye
 know what manner of men we were among you for your sakes.
@@ -5364,9 +4695,6 @@ again his death near from he got up Heaven in went up
 erentesa nere, merunte fuguru Yung God merunte eteya po;
 
 sits now and strong very father God strong his hand on
-
-
-110 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
 
 
 merere pata bai aipetong euneanggong yefuzu samandazang
@@ -5427,8 +4755,6 @@ bia karimetobe asatobe toya nere pemongong bia etiakamasa
 
 to tell repeat them and his people near change
 
-
-FARABEE - THE CENTRAL CARIBS 111
 
 tana to erirekong bia bai to kuzaia irumakaning nere; inafe
 
@@ -5491,8 +4817,6 @@ turn when in place of what (any) does he truth according and
 
 1 The English Prayer Book was used for text.
 
-
-112 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
 
 ennengbe itekatong poikatetobeia tiyakamate aminggebura
 
@@ -5575,9 +4899,6 @@ uyu nere, owaropo tare wanekong ure pokombe
 me and how many here are me with
 
 
-FARABEE — THE CENTRAL CARIBS
-
-
 tikenang ayewanggong ke, tenombe amaimu ke nere
 
 Pure _ hearts with slow your word with and
@@ -5630,8 +4951,6 @@ yung tikomambere turvezing.
 
 Father everlasting
 
-
-114 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
 
 3. Apu tamonoware Angels yamum karawana fomang
 
@@ -5704,9 +5023,6 @@ anetara pekabe ka pata, tamonoware yafurenang bia.
 enwakeya.
 
 
-FARABEE — THE CENTRAL CARIBS
-
-
 19. Ya purufu ana mangamere aipetong ana efuze.
 
 20. Merere yening ana sena apu apaitoritonnong
@@ -5755,8 +5071,6 @@ powers therein.
 
 8. The goodly fellowship of the Prophets: praise thee.
 
-
-116 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
 
 9. The noble army of Martyrs: praise thee.
 
@@ -5807,9 +5121,6 @@ is in thee.
 
 29. O Lord, in thee have I trusted: let me never be con¬
 founded.
-
-
-FARABEE — THE CENTRAL CARIBS
 
 
 The Lord’s Prayer
@@ -5927,8 +5238,6 @@ Yawere bura nere, ana yewang sena ming gambo many. Wake
 fuguru ayezeru mutanabe ana mang. Tewe ikubai tiza ewe
 
 
-118 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
 ku fube, bura tiza irumakabe ana ya mang; ine ekubai buru
 tize merere kufube ana ya mang; merere yening puria bura ana
 ya mang. Erire fuguru ana wane, tize mapona zanimake ana
@@ -5972,9 +5281,6 @@ ana yewang taucimba ana poikatajning me|runte | pe.
 Ana wakiri yembatobe ana ya nere ipe Psalms ke.
 
 
-FARABEE — THE CENTRAL CARIBS
-
-
 3. Ana epotori wane yening, epeku God pe, epeku kingbe
 nere, tamonowarong God yamu ebainong.
 
@@ -6016,8 +5322,6 @@ gods.
 4. In his hand are all the corners of the earth; and the
 strength of the hills is his also.
 
-
-120 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
 
 5. The sea is his, and he made it: and his hands prepared
 the dry land.
@@ -6086,9 +5390,6 @@ duration, allowing me to determine the rate of my time. I was
 able to check up with established stations at both ends of our
 
 
-FARABEE — THE CENTRAL CARIBS
-
-
 long journey through the interior. Mr. H. P. C. Melville and
 Mr. C. W. Anderson fixed the position of Dada Nawa, and
 Anderson and Dutch engineers at different times had fixed the
@@ -6123,2246 +5424,3 @@ for Brazil and the Guianas to delimit their interior boundaries
 before valuable discoveries make the task more difficult.
 
 
-280 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
-BIBLIOGRAPHY
-
-Appun, Carl Ferdinand
-
-1. Unter den Tropen, Bd. 11. Jena, 1871.
-
-2. Ausland, Jahrgange, 1869-71-72.
-
-Brett, W. H., Rev.
-
-Indian Missions in Guiana. London, 1851.
-
-Coudreau, Henri A.
-
-La France Equinoxiale. Paris, 1887.
-
-Coudreau, O.
-
-1. Voyage a la Mapuera. Paris, 1903.
-
-2. Voyage au Rio Curua. Paris, 1903.
-
-Crevaux, J.
-
-1. Bibliotheque Linguistique Americaine, Tome VI 1 1. Paris, 1882.
-
-2. Voyages dans l’Amerique du Sud. Paris, 1883.
-
-Goeje, C. H. de
-
-Beitrage zur Volkerkunde von Surinam. Int. Archiv. fur Ethnog.
-Bd. XIX, pp. 1-34. Leiden, 1908.
-
-Grupe y Thode, G.
-
-liber den Rio Branco und die anwohnenden Indianer. Globus, Bd. 57,
-251-254. Braunschweig, 1890.
-
-Hillhouse, William
-
-Notices of the Indians Settled in the Interior of British Guiana. Jour.
-Royal Geog. Soc., Vol. II, pp. 227-249. London, 1832.
-
-Huebner, George
-
-Ovalledo Rio Branco. Manaos, 1906.
-
-Im Thurn, Everard Ferdinand
-
-Among the Indians of Guiana. London, 1883.
-
-Joest, W.
-
-Ethnographisches und Verwandtes aus Guayana. Leiden, 1893.
-
-Koch-Grunberg, Theodor, und Hubner, Georg
-
-Die Makuschi und Wapischiana. Zeitschrift fur Ethnologie V, 1-44,
-
-Koch-Grunberg, Theodor
-
-Reise durch Nordbrasilien zum Orinoco. Ibid., s. 448, Vol. 45, 1913.
-
-
-FARABEE — THE CENTRAL CARIBS
-
-
-Martius, Carl Friedrich Ph. Von
-
-i . Beitrage zur Ethnographic und Sprachenkunde Amerikas, zumal
-Brasiliens. Leipzig, 1867.
-
-2. On the State of Civil and Natural Rights among the Aboriginal
-Inhabitants of Brazil. Jour. Royal Geog. Soc., Vol. II, pp. 191-227.
-London, 1832.
-
-Pitou, L. A.
-
-Voyage a Cayenne. 2 vols. Paris, 1807.
-
-Roth, Walter E., M.D.
-
-Animism and Folklore of the Guiana Indians. 30th An. Rept. Bu.
-Amer. Eth., pp.’ 103-386, 1908-1909.
-
-SCHOMBURGK, RlCHARD
-
-Reisen in Britisch-Guiana in den Jahren 1840-1844, 2 vols. Leipzig,
-
-SCHOMBURGK, ROBERT HERMANN
-
-1. Report on the Third Expedition into the Interior of Guayana. Jour.
-
-Royal Geog. Soc., Vol. VI., pp. 224-284. London, 1836.
-
-2. Journey to the Sources of the Essiquibo. Ibid., Vol. X, pp. 1 59-190,
-
-
-3. Visit to the Sources of the Takutu. Ibid., Vol. XIII, pp. 18-75, 1843.
-
-4. Reisen in Guiana und am Orinoko wahrend der Jahre 1835-1839.
-
-Leipzig, 1841.
-
-5. Comparative Vocabulary of Eighteen Languages and Dialects of
-
-Indian Tribes Inhabiting Guiana. London, 1848.
-
-Smith, Lieutenant, R. N.
-
-Account of the Rivers Amazon and Negro from Recent Observations.
-Jour. Royal Geog. Soc., Vol. VI, pp. II-23. London, 1836.
-
-Stradelli, E.
-
-1. Rio Branco. Boll, della Soc. Geog. Ital. Roma, Marzo-Aprile, 1899.
-
-2. L'Uaupes et gli Uaupes. Ibid., Maggio, 1890.
-
-Ule, E.
-
-Unter den Indianern am Rio Branco in Nordbrasilien. Zeitsch. fur
-Ethnog. s. 278, Vol. XLV, 1913.
-
-Valliere, J. A. J. de
-
-Jour. Royal Geog. Soc. May, 1911.
-
-Waterton, Charles
-
-Wanderings in South America. London, 1878.
-
-
-INDEX
-
-
-abiu, 38, 79
-abnormalities, 256
-abortion, 74
-
-Absolution, in Macusi language,
-
-
-Acarai Mts., 12, 21, 153, 155, )73*
-acaiara tree, resin of, 38
-acouri, 83, 178; pattern, 170
-adobe, walls, 15; oven, 22
-aeta palm: dish, 21; food, 40;
-hammock, 25; mantle, 160;
-quipu, 162; roof, 18; rope, 26;
-sandals, 62; string, 27; thong, 42
-Africa, cat’s cradle in, 91 ff.
-agouti, 33; teeth, 57
-agriculture, 30 ff.; 59, 274; Ma¬
-cusi, 12, 29
-aical poison, 5 1
-aimara, 35, 48
-ainke, 83
-aiya poison, 50 ff.
-
-Ajana tribe, 25 1
-
-Alaska Eskimo, cat’s cradles, 91
-
-albinism, 256
-
-albumin poison, 54
-
-alligator scales, 170
-
-Amazon, 155, 199,207,212; forest,
-
-
-ambush, 184
-
-Amucu, Lake, 11, 14, 279
-amulet, hunting, 42
-ananas, rope fibre, 26, 28
-ancestor worship, 171
-Anderson, C. W., 279
-Andes Mts., 212
-
-animals, 60, 78; acouri, 83, 178;
-agouti, 33, 57; anteater, 33, 78;
-capybara, 33; deer, 12, 33, 44,
-54, 81 ; dogs, 26, 42 ff., 59, 164 ff.,
-iguana, 45; jaguar, 33, 46, 53, 228;
-lizards, 33, 45; monkey, 12, 33,
-45, 54, 56, 79, 189, 228, 255 ; paca,
-33; peccary, 33, 43, 52 ff., 60,
-155, 184, 170; puma, 33; sloth,
-33, 170; squirrel, 83; tapir, 33,
-44, 53 ff., 56, 58, 62, 164; turtle,
-
-
-animal drawings, 167; forms, 23,
-60, 64; worship, 171
-anklets, cotton, 27, 62 ff.; palm
-leaf, 202
-
-annatto tree, 61 ; paint, 65
-ant, 32; bina, 43; hill, 155; jaw,
-170; in wasp frame, 224, 226
-anteater, 33, 78
-antidote, poison, 57
-Antilles, blow gun in, 56
-antwood, 32
-
-Apalaii bandoleer, 63; flute, 66;
-
-tribe, 220 ff., 25 1
-Apini River, 25 1 ff.
-
-Apiniwau River, 78, 82, 163, 172,
-
-Apostles’ Creed in Macusi, 109 ff.
-Appun, 14
-
-aprons, 225, 258; burial of, 172;
-Diau, 203, 205; Kumayenas,
-
-214; Macusi, 27, 60, 61 ; Waiwai,
-
-arapaima fish, 35, 48
-Aratawaii, cqf’s cradle, 88
-Arawak arrow, 58; cat’s cradles,
-87, 89, 91; drink, 39; fish trap,
-48; food, 35 ff.; hammock, 12,
-26; peccary trap, 44; tribe, 183,
-Arecuna, hammock, 25; location,
-14; poison, 54; reeds, 57; tribe,
-
-Arikiana tribe, 25 1
-arimaru, 54
-Arimiana tribe, 250
-Armadilla River, 155
-arm bands, 63
-armlet, 202
-
-arrow, 52 ff., 76, 246; bone-tip, 45;
-dance, 160; in puberty ceremony,
-223; reeds, 221; Waiwai, 164
-(see bow)
-
-art, 166 ff., 1 71 (see decoration)
-artist, native, 167
-ashes, fertilizer, 29
-Asia, blow gun in, 56; cat’s cradle
-
-assaii, 40, 162
-
-
-FARABEE — THE CENTRAL CARIBS
-
-
-assistants, medicine man’s, 223
-
-astronomical observations, 278
-
-Atanayru tribe, 13
-
-Ataroi tribe, 175, 279
-
-attention, 255
-
-Atyai tribe, 13
-
-awara, 40
-
-awl, bone, 20, 157
-
-axe, stone, 83
-
-Azumara tribe, 242 ff.
-
-baby carrier, bark, 61, 78, 201;
-
-cotton, 25 ff.
-bacaba, 40, 162
-back ornament, 61
-bags, string, 27
-baggage, 22, 186
-bait, 47 ff., 90
-
-baking, cassava, 20, 22, 33, 35 ff. ;
-
-oven or pan, 17, 22, 36; taboo, 40
-baldness, 254
-
-bamboo: arrow case, 56; color
-pattern, 170; flute, 66, 224;
-
-horn, 43, 224; hair tube, 63,
-254; joint case, 220, 222; knife,
-77; point, 53, 54, 58; splint, 167
-bamboo place, 200
-banana: drink, 39, 40; food, 38,
-201, 214; leaves, 39 ff., 161;
-planting, 32; storage, 19; varie¬
-ties, 1 54 ff.
-
-bandoleers, 62 ff., 223; baby carrier,
-78; cotton, 28
-Barata, Col., 13
-
-barbecue, 33 ff.; at fish poisoning,
-
-bark: arm bands, 63; baby carrier,
-78, 201 ; belts, 61 ; blow gun, 57;
-canoe, 186, 213 ff., 251; cloak,
-222; cradle, 78; dog hammock,
-26; doors, 18; grave, 81; nousewalls, 15; poison, 51, 54; tea, 73;
-trumpet, 160; tump line, 22
-Barokoto tribe, 25 1
-baskets: for blow gun equipment,
-58; cat’s cradle, 87, 91; carry¬
-ing, 155; covers, 22 ff. ; drink,
-
-1 6 1 ; fishing, 49 ff.; fish trap, 48;
-Macusi, 22 ff.; Parukutu, 191 ;
-
-
-pack, 59; storage, 19, 25, 37;
-strainer, 39; trinket, 23, 170;
-Urukuena, 217; Waiwai, 166 ff.;
-woman’s, 172; work, 25
-bathing, 23, 65, 166, 187, 223, 253,
-256; dogs, 43, 253
-batten, 25
-
-beads, 60, 62 ff., 166, 170, 223;
-Diau, 199; necklace, 202, trade
-in, 183 (see also aprons)
-beans, 32, 201, 213, 224
-beams, Macusi house, 17, 21, 40
-bee, 224, 226
-beehive trap, 44
-beeswax, 53
-
-beetles, 34, 222; in cat’s cradle, 95
-
-beliefs (see superstition)
-
-bell nut apron, 205
-
-belts, 26, 28, 61
-
-Bible in Macusi, 96
-
-Bibliography, 280 ff.
-
-Bili tribe, 250
-
-bina, 55, 79; dog, 43; courtship,
-225; hunting, 42
-binding pole, Macusi house, 16
-binoculars, 184, 278
-birds, 53, 67, 78 ff.; chickens, 164,
-201 ff.; curassow, 33, 46, 164,
-222, 255; doves, 33; ducks, 34,
-174; eagle, 63, 212, 222; heron,
-34; humming bird, 67, 222;jabiru,
-34; maam, 33, 46; macaw, 47,
-222; maroudi, 33, 46; muscovy,
-34; negrocope, 34; oriole, 222;
-owl, 173; parrot, 33, 46, 47, 212,
-222, 255; toucan, 33; trumpeter,
-33, 46; tukui, 67; woodpecker,
-225; bone, 63 ff., 224; food, 33;
-shooting, 56; spirit, 73; traps, 44
-birth, 199
-Black River, 182
-
-bleaching, 186; ananas fibre, 28;
-
-basket splints, 23
-blinds, bird, 46, 222
-Blood Creek, 1 53
-
-blow gun, 52 ff., 54, 222; manufac¬
-ture, 56 ff. ; storage of, 19 (see
-dart)
-
-body coloring: Macusi, 61, 64 ff.;
-
-
-284 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
-
-Waiwai, 1 66, 293; forest tribes,
-256; mutilation, 64; oil, 37, 187
-boiling: divination, 75; meat and
-fish, 22, 33; monkey, 189; poison,
-
-
-boils, 201
-bolls of cotton, 25
-Bonawau River, 172
-bone: arrowtip, 53; awl, 20, 157;
-comb, 64; ear ornament, 63;
-flute, 66, 158, 187, 224; whistle,
-
-borders (see decoration)
-boundaries, 1 1, 221, 279
-bout, drinking, 39, 67
-bows, 33 ff., 42 ff ., 188, 225; burial
-• of, 81 ff.; at death, 172; games,
-70, 78 ff.; manufacture, 52 ff.,
-58; Parukutu, 191; storage, 19;
-strings, 27; Waiwai, 164 (see
-arrow)
-
-bowls, 24; drink, 68, 156, 159, 162,
-203 ff.; food, 187, 201; funeral,
-
-1 71 ff.; storage, 161
-boys, 63; ordeal, 222 ff.
-bracelet, 202
-
-Branco River (see Rio Branco)
-bravery, 223
-
-Brazil, 14, 199, 212, 242, 245, 279;
-Indians, 36; nuts, 37, 63, 164,
-
-bread, 33, 35, 64, 70, 76, 79, 161 ff.,
-189, 191,201 (see cassava)
-breech cloth, 25 ff., 61, 223, 250, 258;
-burial of, 172; Diau, 202; Kumayena, 214
-breeding dogs, 42
-bridle bit, form of lip plug, 250
-British Guiana, 14, 252
-brush, palm leaf, 190
-Brunton compass, 278
-bulucush palm, 38
-burial, 81 ff., 189 ff.; of medicine
-man, 227
-buttons, 202
-
-bush rope, 29, 48; poison, 50, 165
-(see liana)
-
-
-cabbage, 38
-Caixana tribe, 13
-
-cakaralli bark: belt, 61; trumpet,
-160; tump line, 22
-cake, cassava, 22, 189
-cakewalk, 160
-
-calabash: bowl, 68, 69, 73; at burial,
-172; in flute, 224; instead of
-pottery, 24
-Calabash, River, 172
-caladium charm, 42, 225
-call (see imitation of call)
-camera, 51, 184
-
-camp, 157, 166, 174, 189, 200, 201,
-214; at poisoning, 49
-camp meetings, 189
-canes, 32; pattern, 170 (see sugar
-cane)
-
-canoe, 59, 78 ff., 154, 186, 188, 191,
-274; for fishing, 48; repair of 53;
-for storage of drink, 39, 68
-canopy, roof, 164, 200
-captives, 185
-capybara, 33
-caramu, 54
-Caripuna tribe, 1 3
-carrying band, 78
-carving, 170; comb, 64; flute, 66
-cashews, 40, 155; nut, 38; plant¬
-ing, 32
-
-casiri, 40
-
-cassava, 12, 191, 214, 256, 277;
-chewers, 64, 167; cuttings, 59,
-153 ff.; drink, 39, 1 6.1 ; farina,
-17; flour, 35, 37; graters, 20 ff.,
-157; juice, 24, 53; plant, 31;
-planting, 30; pellets, 225; soup,
-
-catapult, 70
-cat’s cradles, 85 ff.
-cattle, 221
-celibate, 225
-
-center pole, Waiwai house, 165, 170
-ceremonial, 63; club, 160, 204;
-objects, 166
-
-ceremonies, 220, 221, 257; burial,
-81 ff., 189 ff., 227; deer hunter,
-42; mourning, 82, 1 89 fF. ; poison
-
-
-FARABEE — THE CENTRAL CARIBS
-
-
-making, 55; puberty, 61, 76, 221
-ff. (see bina; customs)
-chain weaving, 25
-chants, 226 (see singing; song)
-chapel, 66
-Chapern tribe, 13
-charcoal, 53
-charm (see bina)
-
-Cherokee blow gun, 56
-chewing cassava, 64, 167, 40; cane,
-
-chichi, 161
-
-chickens, 34, 164, 201 ff. ; poisoned,
-
-chief, 22i ff., 257; Diau, 200, 202;
-Macusi, 71; medicine man, 190;
-Parukutu, 82, 181 ff.; Taruma,
-153; Waiwai, 153 ff., 156, 162,
-
-Chikena tribe, 184, 194, 197
-childbirth, 77
-
-children, 60, 71, 78, 82, 159, 188,
-
-chin, 253
-chisel, fire, 38
-choir, 66
-
-chorus, 66, 1 58 (see singing)
-chouta palm floor, 1 7
-Christianity, 96 ff.
-
-Christie, 256
-
-cigarette, 190, 204 ff., 227
-Cileus tribe, 250
-circumcision, 256
-clam, cat’s cradle, 94
-clay baking pan, 22; dancing
-ground, 223; fireplace, 17; pot¬
-ter’s, 24
-
-cleanliness, 253; Macusi, 14
-clearing, 200, 202; fields, 29 ff., 59,
-
-cloak, 222
-cloth, 59, 61
-
-clothing, 221, 275; Macusi, 60 ff.
-
-(see costume, ornament)
-clowns, 1 59, 205
-
-club: ceremonial, 160, 204; for dogs,
-187; fishing, 48; Waiwai, 166,
-170; war, 185
-cocks, 34
-
-
-Coeroene, 279
-
-coiling process, pottery, 24
-
-cokerite palm, cassava press, 21;
-
-dart, 57; drink, 40; roof, 17 ff.
-collections, Apalaii, 220
-color, 60, 61, 65, 162, 1 66, 178, 203,
-
-comb manufacture, 63 ff. ; burial
-of, 172; Waiwai, 170; use of,.
-commercial banana, 201
-communal house, 20, 164, 191, 201
-comparative study, 257
-comparison, measurements, 270
-compass, 184, 278
-concentration, 217
-conception, 74, 77
-concession, land, 221
-conch shell, 85
-cone basket, 23
-Conebo tribe, 161
-Confession in Macusi, 117
-conjunctiva, 253
-consultation, medicine men, 227
-contact, 60, 1 71
-conventional, art, 171
-conversation, 69
-convulsions, 227
-
-cooking, 18, 24, 33, 190, 200, 203
-cord (see string)
-
-Corentine river, 97, 212, 214, 251
-
-corn, 22, 154, 249, 277; chewers,
-64; cultivation, 30 ff.; drink,
-161; husking, 19; grinding, 17;
-Macusi, 37; mortar, 20
-costume, 60 ff., 221; Diau, 202;
-
-dance, 160 (see clothing)
-cotton baby carrier, 78; on comb,
-64; headband, 63, 76; loin cloth,
-61; raw, 24; seed charm, 79;
-silk gathering, 58 ff.; string, 52,
-60, 66; storage, 19; weaving, 27
-Coudreau, 14, 153, 252
-councils, 222
-
-counting, 181, 217, 245, 249; Ma¬
-cusi, 1 01 (see vocabulary)
-courage, 228
-
-courtesy, 201 (see customs)
-
-
-286 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
-
-courtship, 225
-cousins, marriage of, 76
-couvade, 78
-
-covers: arrowcase, 56; basket, 22;
-
-dart case, 58; tray, 22
-crab, cat’s cradle, 94
-crabwood, 52
-cradle, 78; cat’s, 85 ff.
-
-Creation, legend of, 83
-creeper, bark poison, 54
-cremation, 171
-Crevaux, J., 220
-crime, 71
-
-Cuduwini River, 133
-cultivation of fields, 30 ff.
-culture: elements of Waiwai, 163;
-differences, 12; material at Tcalio, 201
-
-Cunnington, 187 ff.
-curale poison, 52
-curari poison, 54, 55, 58
-curassow, 33, 46, 164, 222, 253
-curiosity, 202
-
-customs, 156, 158; burial, 81 ff.,
-
-1 71 ff., 189, 227; couvade, 78 ff.;
-drinking, 41 ff., 162 ff., 203 ff. ;
-eating, 41 ff., 187, 201; greeting,
-187, 188, 200, 202; labor, 59 ff.;
-marriage, 15, 76, 153, 165, 225 ff.;
-mourning, 82 ff., 189 ff.; visiting,
-ff., 165, 187, 191; wrestling, 70,
-75, 185, 206, 250 (see games;
-ceremonies)
-
-Cutari, 214, 251, 279
-cuttings, cassava, 31, 59, 153 ff.
-
-Cyk Tow, 189
-
-Dada Nawa, 279
-dam trap, 48
-
-dance, Diau, 199 ff., 203; Macusi,
-39, 61, 65 ff.; marriage, 76, 78;
-ordeals, 221, 226; Waiwai, 1 57 ff.
-dancing board, 205, 223; ground,
-danger: from poison darts, 55; to
-traveller in tropics, 58
-d’Anville, 13
-Dara Kityu River, 251
-
-
-darts, 52, 54, 57 ff., 70
-Davis, Christopher, 73, 96
-deafness, 256
-death, 75, 81 ff., 171, 189
-decoration: arrow, 53; basket, 23;
-body, 60, 63 ff., 166, 1 91, 203;
-bow, 52; for dances, 160, 222 ff.;
-flute, 66, 224; house pole, 165
-(see design)
-decoy, 47
-
-deer, 12, 54, 81; food, 33; hunting,
-
-deformation, 254, 256
-de Goeje, C. H., 221
-deity, 224, 228
-Deniarara, 96
-
-design, 23; arrows, 33; aprons, 27,
-60 ff.; body paint, 64 ff.; face,
-203; flute, 66; Waiwai, 165 ff.,
-
-de Sousa, Andre Fernandes, 13
-developing photographs, 207
-development of race, 228
-dialect, 197
-
-Diau, 78, 1 9 1 , 199 ff., 202 ff., 206,
-250, 253; apron, 61; messenger,
-163; paint, 166
-diet, 76, 79, 277
-
-differences: environment, 12; causes
-of tribal, 276
-dip net, 47
-dippers, 24
-
-Disappearance of Two Brothers,
-legend, 85 ff.
-disease, 74, 242, 246
-distention of stomach from diet, 37
-division of labor, 59, 163 (see
-
-customs)
-divination, 75
-
-dogs, 26, 165, 183, 187 ff., 201 ff.,
-217; care of, 59, 253; hunting,
-42 ff.; Waiwai, 164 ff.; Kumayena, 214
-
-domestic fowls, 34, 54, 164, 201 ff.
-doves, 33
-
-doors, house, 16 ff., 165
-drawings, original, 167
-dress (see costume, ornament)
-dried meat, 35
-
-
-FARABEE — THE CENTRAL CARIES
-
-
-drink: courtship, 225; dance, 159
-ff. ; Diau, 201 ff. ; Macusi, 37 ff.,
-59, 67; medicine, 73 ff.; tobacco,
-227; visitors, 156, 187; Waiwai,
-
-drinks: assau, 40, 162; awara, 40;
-bacaba, 40, 162; banana, 39, 40;
-cashew, 38, 40; cassava, 39, 161;
-chichi, 1 6 1 ; corn, 161; kamara
-tea, 74; paiwai, 40; palm seed,
-40, 161; papaya, 38; paricari,
-39, 1 61 ; pineapple, 38; 40;
-
-ronai, 73; tobacco, 227; yaposa,
-
-
-drink house, 202
-drinking-bout, 67, 162
-Drios, 25 1
-drums, 68, 224
-drying frame, corn, 32
-Duanapuku tribe, 251
-ducks, 34, 174
-dump, village, 166
-Dutch, 279; traders, 13, 14; West
-India Co., 13
-
-dye: annatto, 61; genipa, 222, on
-quipus, 162 (see paint)
-dynamometer, 258
-
-eagle, 46, 63, 212, 222
-ear, 254; ornaments, 62 ff.
-eating (see customs)
-education, 226, 255
-eel (see electric eel)
-eggs, 34
-egret, 222
-el Dorado, 1 1
-electric eel, 35, 48, 85
-elevation, 11, 155, 175, 187,212
-emiwariyangong, 81
-engineers, 221, 279
-Ensign films, 207
-enteekerang, 83
-environment, Carib, 11, 276
-Eskimo, cat’s cradle, 91 ff.
-
-Essiquibo River, 1 1, 13, 85, 153, 155,
-
-ethnological report, 13
-ethnologist, 220
-etiquette (see customs)
-
-
-equator, 221, 223, 251
-ethics, 71
-Europeans, 275
-
-evil spirits, 15, 69, 72, 81, 172, 174
-
-evolution, art, 171
-
-ewuruci, 81
-
-exogamy, 76
-
-exorcism, 73
-
-expedition, 38, 279
-
-exploration, 13, 221
-
-eyebrows, plucked, 64, 217, 253
-
-eyes, 253
-
-face, 273; paintings, 65, 1 66, 187,
-
-falcon, 33
-falls, 85, 220 ff.
-
-family, 71, 77, 225; accommodation
-fan, 36
-
-farina: manufacture, 17, 22 ff., 35
-ff., 40; storage, 23
-Farogle, 212
-fasting, 225, 227
-fatherhood, 71
-father-in-law, 76, 225
-feast: at dance, 78; fish poisoning,
-30; at marriage, 76; ordeals, 226
-feathers: on arrows, 53; back orna¬
-ment, 61; comb, 64; decoration,
-23, 52, 63; in headdress, 205, 220,
-222; in nose, 253; on wasp frame,
-
-features, 253
-feeblemindedness, 256
-feet, 273
-felt hat, 203
-
-fermented drinks, 39 ff., 161 ff., 203
-festival, 63 (see ceremony)
-fetishism, 171
-
-feud, 71, 184 ff., 194 (see warfare)
-fever, 73, 212, 220, 228, 246
-fibre: ananas, 28; cassava, 22;
-
-cord, 24, 42; cradle, 78
-fields, 12, 15, 24, 79, 135 ff., 163,
-174, 201, 214, 256 ff. ; camp at,
-212; clearing, 67, 153, cultiva¬
-tion of, 29 ff.
-filing teeth, 64
-
-
-288 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
-
-films, 207
-
-fire, 154, 173, 190, 204; making, 38;
-at poison making, 55; places, 17,
-18, 23, 165; stick, 66; wood, 17,
-
-firing pottery, 24
-
-fish, 11,23; aimara, 35, 48; arapaima, 35,48; eel, 35, 48, 85; pacu,
-35, 47, 172; perai, 47, 74-
-pirai, 35, 47, 49, 58, 74, 85; sting¬
-ray, 35,48; cat’s cradle, 92; hook,
-164, 172, 183; lines, 27; Macusi,
-34 ff., 48 ff., 84; 185, 277; poi¬
-soning, 34; spine, 170; trap, 48,
-
-fishing, 12, 33 ff., 59, 79, 163 ff.
-fleas, 186
-flies, 18
-flint, 53
-
-Flood, legend of, 84 ff.
-floors, 18
-flour, 35
-
-flutes, 66, 69, 156, 158, 187, 223 ff.
-fly: cat’s cradle, 87; eye, 170
-food, 12, 33 ff., 37 ff., 76, 201 ff.,
-220, 257, 277; bowls, 24, 187;
-in courtship, 225; gathering, 59;
-in ordeal, 223; rack, 165
-Footo, cat’s cradle, 94
-forearm, 274
-
-forest tribes, 26, 42, 51 ff., 61, 63,
-
-forked stick: pole, 21; cassava
-press, 35
-formula, 54, 74
-Fotcokwa, cat’s cradle, 96
-framework: cassava sieve, 21 ; corn
-drying, 52; drink receptacle, 203;
-loom, 25; Macusi house, 16;
-pack basket, 22; trap, 48;
-Waiwai house, 164
-French, 199
-fried food, 34
-
-fringe, 60, 160; aprons, 27, 203
-fruits, 22 ff., 33, 83, 187; abiu, 38,
-79; annatto, 65; banana, 38;
-bulucush, 38; calabash, 24, 68
-ff., 73, 172, 224; cashew, 32, 38,
-40, 155; casiri, 40; guava, 38;
-
-
-imbira, 38; manicole palm, 38;
-melon, 32, 37; papaya, 32, 38,
-155, 201; pepper, 32; pineapple,
-32, 38, 154; plantain, 38, 154,
-201; plum, 47; rubber tree, 38;
-watermelon, 37; yam, 154
-furnishing house, 19; workhouse, 17
-future, Waiwai, 176
-
-gable, Macusi house, 17
-game, 1 1 ff., 23, 76, 79
-games, 1 1, 12, 70 ff., 255, 277
-genipa dye, 222
-
-geographical environment, 1 1 ff.
-
-geometric design, 23, 60, 64, 171
-
-girls, 63; ordeal, 225
-
-Gloria, in Macusi, 1 18
-
-granite outcrop, 212
-
-grass, savannah, 1 1
-
-graters: cassava, 17, 20 ff., 35;
-
-manufacture of, 157
-grave, 181 ff.
-
-Great Falls, 213, 279
-greeting (see customs)
-grinding corn, 17,20; place, 17
-groove, fire, 38
-grub, 34; cat’s cradle, 90
-Goeldi Museum, 220
-gourds, 18, 19, 190; rattle, 69, 158,
-204 ff.; for poison, 55; whistle,
-
-
-guava, 38
-
-Guiana, 26, 65, 201, 212, 279;
-British, 14, 252; French, 199,
-
-guide, 56, 183, 186 ff., 201, 212, 226
-
-gum, 61
-
-gun, 46, 79
-
-Haddon, D., 85 ff.
-hair: bandoleer, 63; belts, 28;
-combings, 172; cut, 223, 252; of
-old man, 183; oil, 37; style, 63,
-tubes, 166, 203
-
-hammocks: burial of, 171 ff. ; cradle,
-78; colored, 61, 69; dog, 26, 59;
-hanging, 17 ff., 187, 189, 190, 201,
-204, 225, 256; fires under, 154;
-
-
-FARABF.E — THE CENTRAL CARIBS
-
-
-loom,2o; manufacture, 25; posts,
-
-Hammer plates, 207
-
-hands: of bananas, 19; grip, 274;
-
-shake, 200, 202; strength, 258
-handles, knife, 170
-harpoon head, 53 ff.
-harpy, 63, 222
-harvest, 32, 59
-hat, 221
-haya, 51
-
-head, 273; band, 27, 63, 76; dress,
-160, 173, 205, 220; man, 39, 49;
-hearing, 255
-height, 258, 270
-herbs, 72
-
-hereditary office, 72, 226
-herons, 34
-hoe, 30
-hominy, 37
-
-Honawau River, 198, 200
-honey, 64
-
-hook, fish, 47, 79, 164, 172, 183
-horn, hunting, 43, 222
-Horstman, Nicholas, 13
-hospitality (see visiting)
-house: Apalaii, 220; building, 59,
-67, 77, 82, 174, 1 81 ; cat’s cradle,
-92 ff.; cleaning, 253; Kumayena,
-214; Macusi, 15 ff., 150, 155 flf.;
-at Minai Ulud, 186 ff.; Parukutu, 191 ; at Tcalio, 200; at Tca-
-lifona, 202; Waiwai, 164, ff., 170
-hunting, 12, 33, 42 ff., 44 ff., 156,
-163 ff., 186, 188, 224; dogs, 42
-ff.; horn, 43 ff., 65, 67, 71, 224;
-implements, 52 ff.
-hydrocyanic acid, cassava, 20, 35
-hymns, 66
-
-iguanas, 45
-Ilian River, 200
-imbira, 38
-
-imitation calls, 34, 45, 52, 73, 226
-immortality, 82, 227
-implements: arrow and pottery
-manufacture, 172; hunting, 52
-ff.; digging, 30
-
-
-lm Thurn, 14
-
-Inago, 155
-incantation, 190
-industry, 228, 246
-insects: bee, 224, 226; beetle, 222;
-flea, 186; fly, 18, 170; grub, 34;
-mosquito, 18; scorpion, 170-
-spider, 89, 95; bait, 47, 70, 78;
-protection vs., 15, 220, 222
-instruments: astronomical, 278;
-
-musical, 66 ff., 156, 158 ff., \66
-interior tribes, 50, 60, 62, 82, 1 54,
-
-interpreter, 205, 252; of dreams,
-
-intoxicating drinks, 39, 161, 167
-invention: blow gun, 56; cassava
-press, 2 1
-
-invitations, 67 ff., 76, 78, 156, 162
-ff., 199 (see customs)
-iron points, digging sticks, 30
-Iroquois, blowgun among, 56
-irrigation, 29
-Itacuta River, 13
-Itoto River, 202
-ixtle fibre string, 27 ff.
-
-jabiru, 34
-
-jaguar, 33, 46, 53 ff., 228; bone
-flute, 66, 158, 187; skin belt, 61
-jar, water, 1 72
-jaremakwita, 81
-Jary River, 22 1
-jaw, 253
-Jayne, 91 ff.
-jiggers, 42
-
-journey: by chief, 156; for cuttings,
-59; length of, 256; for poison, 49
-ff.; for trade, 59; taboo on, 79
-jumping stone, 85
-
-Kafaiyana River, 155
-Kaikutciana tribe, 251
-Kaitcana River, 183 ff., 186, 194
-kaka, 70
-
-Kalicina tribe, 250
-Kamacoko River, 153, 155
-Kamalili cat’s cradle, 93
-
-
-290 UNIVERSITY MUSEUM
-
-
-— ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
-
-Kanuku Mts., 11, 13, H) 54
-
-Kaphu River, 251
-
-karamana wax, 58, 66
-
-Karap tribe, 251
-
-Karape River, 214
-
-kartama seeds, 74
-
-Katawian tribe, 197; village, 187
-
-katumba, 82
-
-Kefulikaco cat’s cradle, 91
-Kenaima, 74 ff., 81, 172; protec¬
-tion vs., 15, 18
-Kiwang, 81
-kinship terms, 80
-Kiwinik, 153, 154
-
-knives, 170, 188; burial of, 172;
-Diau, 199; peccary tooth, 52;
-Waiwai, 1 66
-konima tree, light, 38
-Koropatinauaua, 155
-Kowui, 51
-
-Kumayena tribe, 214
-kunapari, 51
-Kunuu River, 155
-kunani, 51
-
-Kutcifiana tribe, 182
-
-labor, 59 ff., 163
-
-La Condamine, 13
-
-Lake Amucu, 1 1, 279
-
-lakes, 1 1, 84, 173 ff.
-
-landing, canoe, 153, 188, 200, 212
-
-landmarks, physical measurements,
-
-
-language, 96 ff., 177 ff-, 182 ff- (see
-vocabulary)
-
-latitude and longitude, 187, 212, 278
-leader: chorus, 66; dance, 69 ff.,
-
-
-leaves: bait, 47; charm, 42; poison,
-51 ff.; shelter, 55, 78 (see banana;
-palm)
-
-left handed, 274
-leg band: cotton, 27; Diau, 202
-legends, 83 ff., 172 ff.
-letterwood for bows, 52
-lever, for cassava press, 21,35
-lianas: baskets, 22; belts, 61; on
-blow gun, 57; poison, 49, 51;
-strings, 28 ff.
-
-
-limbs, 272
-
-lips, 253; plugs, 62
-
-lizards, 33, 45 , .
-
-log: drink receptacle, 203; path, 30
-
-loin cloth (see breech clout)
-
-looms, 20, 25 ff.
-
-loop snares, 45 .
-
-Lord’s Prayer in Macusi, 1 17 ft.
-lore, star, 278
-Lucie River, 279
-
-maam, 33, 46
-Maca tribe, 246
-macaw, 47, 222
-Macheyenga tribe, 91
-Macusi, 1 1 ff., 163, 242, 256; apron,
-170; bow, 164; graters, 151,
-houses, 1 5
-Macuxi, 13
-magnet, 184, 278
-maicasapa, 33
-Maiyosi cat’s cradle, 95
-Majari River, 14
-Malitili, 155
-
-Malkanuni cat’s cradle, 95
-mallet, wooden, 20, 50
-mamai, 81
-manacu wood, 54
-manaos, 246
-manicole palm, 38
-manners, 253
-mantle, aeta palm, 160
-manufacture: drinks, 39 ff., 591
-farina, 35; hunting implements,
-52 ff.; medicine, 72 ff.; poison,
-
-
-Maopityan tribe, 251
-maps, 13, 245, 250, 252, 278 ff.
-Mapidian tribe, 156, 182, 183, 251
-mara, 69
-
-Maraca, 245; island, 241; river,
-242; tribes, 242 ff.
-
-Marajo, 62
-
-maranta splint basket, 23
-maroudi, 33, 46
-marriage, 15, 76, 225 ff.
-
-Martius, 13
-matches, use of, 38
-material culture, 15, 201
-
-
-FARABEE — THE CENTRAL CARIBS
-
-
-massacre, 185
-mats, 21, 78, 84, 223
-mawari, 69
-meadows, 1 1
-
-meals, 37, 41 ; corn meal, 20
-measurements, 253, 257 ff.
-meat: eating of, 41; Macusi uses,
-33 ff.; taboo, 76
-
-medicine, 72 ff., 190, 212; man,
-
-melon, 32, 37
-
-Melville, H. P. C., 153, 279
-men: costume, 60 ff., 160, 202;
-door, 17; decoration, 1 7 1 ; house,
-187; measurements, 257; work,
-mercury, 184
-
-messengers, 68, 78, 156, 162, 227
-metal baking pan, 22
-milk, palm, 38
-
-Mimisakualitilite cat’s cradle, 92
-Minai Ulud, 186, 194, 198
-Minu cat’s cradle, 93
-miritci palm, 84
-miscegination, 276
-missions, 65, 96 ff.
-
-Moa cat’s cradle, 90
-Mocajahi River, 1 1 ; Mountains, 1 1
-molar bone, 254
-mold, 39 ff.
-
-monkey, 12, 79, 228, 255; cat’s
-cradle, 88; hair bandoleer, 63,
-223; hair belt, 28; hunting, 43,
-54, 56; food, 33, 189
-monogamy, 76
-moon, 204, 278; mts., 1 1
-Moonpidienne tribe, 252
-morality, Macusi, 14, 71
-Morning Prayer in Macusi, 1 1 1 ff.
-Moroi cat’s cradle, 89
-mortar: corn, 20, 37; place, 17;
-
-Waiwai, 170
-mortise on loom, 20
-mosquitoes, 18
-Mt. Harrison, 155
-Mt. Seriri, 35
-
-mountains, 83 ff., 277; Acarai, 12,
-
-
-252; Andes, 212; Harrison, 155;
-Kanuku, 11, 13 ff., 54; Paiufon,
-174; Pakaraima, 1 1 , 13; Seriri,
-14; sacred, 279
-mourning, 82, 189 ff.
-
-Mouse cat’s cradle, 91
-mouth, 253
-mureyamaissang, 81
-muscovy duck, 34
-muscularity, 253
-
-music, 65 ff., 158 ff., 206 (see dance,
-singing)
-
-musical instruments, 66 ff., 156,
-
-muskmelons, 37
-
-Muskogean Indians, blow gun, 56
-
-mustaches, 64
-
-mute, 256
-
-mutilation, 64
-
-murder, 71
-
-names, 80
-Napikeri, 1 5
-native artist, 167
-Natterer, Johann, 13
-natural history, 226; form in art,
-
-neatness, 253
-neck, 272
-
-necklace, 28, 60, 62, 172, 202
-
-negro, 201, 203, 213
-
-Negro River, 13
-
-negrocope, 34
-
-negroid type, 198
-
-nest, turtle, 34
-
-net, 27; dip, 47; snare, 45
-
-New River, 279
-
-nonsense syllables, 206
-
-North American Sioux, 273, 275
-
-nose, 253; orna'ments, 63
-
-nursing, 78
-
-nuts, 22, 38, 79, 214; Brazil, 37, 63,
-164, 200, 201 ff.; cashew, 38;
-crabwood, 52; palm, 57; as food,
-33,37,41; fringe, 203; ornament,
-60; rattle, 66; storage, 83
-
-
-29 2 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
-
-observation, astronomical, 278
-Ogilvie, John, 80, 153, 156, 175 ff.,
-oil, brazil nut, 37; crabwood, 52;
-hair, 63 ff., 166, 187, 203, 254;
-paint, 61 ; turtle egg, 34
-Ojapi tribe, 25 1
-Okumiana tribe, 250
-Ouayeoue tribe, 252
-onobu, 81
-
-operation, medical, 72
-ordeal, 63, 222, 226 ff.
-organ, 66
-orientation, 253
-
-origin: couvade, 80; design, 166,
-
-1 71 ; fish, 84; men, 172
-oriole, 222
-Orinoco River, 57
-
-ornament: Apalaii, 221 ff. ; Bili,
-250 ff; dance, 160, 205; Diau,
-202; at death, 172; on loin cloth,
-23, 26, 76, 82; Macusi, 60 ff.;
-Waiwai, 166 (see decoration, de¬
-sign, etc.)
-
-Orokoyauna tribe, 251
-Ortiguera, 62
-Ouayeoue tribe, 252
-oven, baking, 17, 22
-over exertion, 226
-Owamginto, cat’s cradle, 91
-owl, 173
-ox, poisoned, 54
-Oyapock River, 221
-
-paca, 33
-
-Pacangera cat’s cradle, 87
-
-pack, 187; basket, 22, 26, 217;
-
-train, 1 56, 256
-pacu, 35, 47, 172
-paddle, baking, 36
-paint, 250; body, 23, 61, 64 ff., 166,
-203, 256; burial, 172; eyebrows,
-64; face, 187; house pole, 170
-Pairakaira, 85
-paito, 81
-
-Paiufon Mt., 1 74 ff.
-paiwai, dance and drink, 40
-paiwari (see paricari)
-
-Pakaraima Mts., 11,13
-
-
-palm, 170; beetle, 34; design, 170;
-fibre, 25, 162, 201; leaf brush,
-190; leaf basket, 22; leaf armlets, 63; leaf anklet, 202; leaf in
-burial, 172; leaf dish, 21; leaf
-fan, 36; leaf on houses, 15, 18,
-200; leaf uses, 161, 181,220,223;
-nut, 37, 57; seed drink, 40, 161;
-splints, 160, 221
-pan, metal, 17, 22
-Pano tribe, 17
-panpipes, 68
-Papagei tribe, 251
-papaya, 32, 38, 1 55, 201
-Para, 207
-
-Paracoana tribe, 13
-
-Parana River, 246
-
-Paraviana tribe, 13
-
-Paraiviana tribe, 250
-
-parched farina, 36; corn, 37; food, 34
-
-paricari dance, 39, 67; drink, 39, 161
-
-parikara (see paricari)
-
-Parkinson, 87 ff.
-
-Paroghotto tribe, 251
-parrot, 33, 46 ff., 212, 222, 253
-Paru River, 220 ff.
-
-Parukutu tribe, 65, 78 ff., 82, 155,
-passion flower, 32
-patse, 81
-
-pattern, 170 (see design)
-
-Pauyaiden tribe, 250
-pay: medicine, 227; services, 227,
-wife, 77
-
-peaceful tribes, 14, 251
-pebbles: medicine, 190; pottery, 24
-peccary: arrow, 54, 81 ; food, 33, 60,
-135,' 164; hunting, 43, 53, 55;
-rib, 170; poisoned, 55; tooth, 52
-pedometer, 184, 278
-pellets, cassava, 225
-pendants, 62 ff. (see ornament)
-peppers, 32, 37
-
-perforation of lip, 256; nose, 253
-Peru, cat’s cradle in, 91
-pestle, 17, 20
-
-pets, 68; birds, 34, 57, 164, .201 ff.,
-peccary, 33; maroudi, 46
-
-
-FARABEE — THE CENTRAL CARIBS
-
-
-Philippines, cat’s cradle in, 92
-phonetic system, 97
-photographs, 160, 191,207,214,220,
-
-physical: appearance of Parukutu,
-183; differences, 12, 243; meas¬
-urements, 1 9 1 , 197, 214; ‘type,
-piaima, 175
-
-Pianoghoto tribe, 250 ff.
-
-Pianoi tribe, 25 1
-piazong, 72
-pici, 5 1
-
-pigeon eggs, 34
-
-pineapple, 32, 38, 154: drink, 40
-pirai, 35, 47, 49, 58, 74, 85
-pitch: on arrow, 53; on blow gun,
-57; on grater, 20, 157; on resonater, 159
-
-Plains Indians, cat’s cradle, 91 ff.
-plaiting: belt, 26, 28, 61; cassava
-press, 21
-
-plantain, 38, 1 54, 201
-planting, 30 ff., 59, 77, 154, 202
-plants: antwood, 32; genipa, 222;
-gourd (see calabash); haya, 51;
-ixtle, 27; karamana, 58, 66;
-kowui, 51; kunapari, 51; kunani,
-51; maranta, 23; pici, 51; pua,
-74; tcipuyeyere, 73 (see cassava,
-vegetables, etc.)
-plate, Macusi house, 16 ff.
-plates, photographic, 207
-play, 78 (see games)
-plaza, 200 ff., 204 (see dancing
-ground)
-plow, 30
-
-plug, ear and lip, 62 ff.
-plum, 47
-points, arrow, 53
-
-poison, 47, 54, 250; arrow, 53, 55 ff.,
-58, 222; in cassava, 20, 35; con¬
-tainer, 55 ff.; dart, 46; formula,
-54; gathering, 59; Kenaima, 175;
-tciukuya, 5 1
-
-poisoning fish, 11, 29, 33 ff., 47, 49,
-
-poles: dance, 204; house, 15 ff.,
-164 ff.; vines, 1 54
-
-
-political organization, Macusi, 71
-polyandria, 191
-Ponama River, 186
-Porocoto tribe (see Porokoto)
-porphyry, 20, 157
-portage, 186
-Portugese, 13, 242
-Porokoto tribe, 242, 245 ff.
-postures, 256
-
-potato, 32, 201; bread, 37; plant¬
-ing, 59; sweet, 31, 32, 37, 184
-pots, 189; cooking, 17,24,41, 172,
-190, 200 ff., 203; divination, 75;
-drink, 171, 204; eating, 41, 189;
-manufacture of, 24; poison mak¬
-ing, 55; storage, 24, 39
-pottery: Apalaii, 220; Macusi, 24;
-
-Parukutu, 191; whorl, 27
-prayer, 228; Book in Macusi, 96
-press: cassava, 21, 35; nut, 37;
-
-poison, 55; sugarcane, 37
-prognathism, 253
-pua, seed salve, 14
-puberty: ceremony, 61, 76, 221 ff.;
-ordeal, 63, 225
-
-public: opinion, 71; ceremony, 76
-Puduwau River, 182 ff., 201
-Puerueta, 1 5
-
-pulp: cassava, 20 ff., 36; poison, 49
-
-puma, 33
-
-pumpkin, 32, 37
-
-punishment, 71, 74, 76, 227
-
-Purigoto tribe, 246
-
-purpleheart: bows, 52; spears, 53
-
-queue, hair, 63, 213
-quipus, 68, 162, 199
-quiver, dart, 58
-
-rack, food, 163
-
-rafters: Macusi, 15, 18; Waiwai,
-
-raid, 221
-
-railroad, coming of, 14
-rainfall, 1 1, 277
-
-rattle: on apron, 60; dance, 66, 69,
-158, 160; gourd, 204 ff.; snakes,
-1 1 ; staff, 67
-raw cotton, 16
-
-
-294 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
-
-razors, 64
-red howler, 33
-
-reeds: arrow, 221 ff.; flute, 69;
-gun, 57
-
-realism, 60, 171, 224
-refuse, 166
-
-relation: of language, 246; tribal,
-religion, 72, 83, 224, 171 ff., 228
-(see superstition)
-resin, fire, 38
-
-resonator: calabash, 224; tortoise
-shell, 159
-
-Responses, Macusi, 1 1 7
-rest, 163 ff.
-rheumatism, 226
-
-rhythm, 67, 1 58 (see dance, singing)
-rice, 213
-
-ridgepole, Macusi house, 16 ff., 19,
-
-Rio Branco, 1 1, 13 ff., 221
-Ripanuni River, 13
-rites: hunting, 42; visiting, 41 (see
-ceremonies, customs)
-ritual: medicine, 73; welcome, 69
-Rivers, Dr., 85
-
-rivers, 278; Amazon, 155, 199, 207,
-212; Apini, 251 ff.; Armadilla,
-155; Black, 182; Blood Creek,
-153; Bonawau, 172; Branco, 11,
-13 ff., 221; Calabash, 172; Corentine, 97, 212, 214, 251, 279;
-Cuduwini, 153; Cutari, 214, 25 1,
-279; Dara Kityu, 251; Essiquibo, 1 1, 13, 85, 153, 155, 231
-ft.; Honawau, 198, 200; Howrokoa, 155; lliau, 200; Itacutu,
-13; Itoto, 202; Jary, 221; Kafaiyana, 155; Kaitcana, 183 ff., 186,
-194; Karape, 214; Kamakoho,
-153, 155; Kaphu, 251; Kunuu,
-155; Lucie, 279; Majari, 14;
-Mocajahi, 11; Negro, 13; New,
-279; Orinoco, 57; Oyapock, 221;
-Parana, 246; Paru, 220 ff.; Ponama, 186; Puduwau, 182 ff.,
-201; Ripanuni, 13; Rupununi,
-13, 14, 153, 256; Sipaliwini, 214,
-279; Takutu, 13, 14, 256; Tapanahona, 221; Trombetas, 155,
-Ucayali, 161; Uraracuera, 14,242,
-245; Yaiimu, 155; Yupukari,
-256; Wananui, 251; Yaiimu,
-155; Yupukari, 256
-roasting: cassava, 20; corn, 37;
-fish, 49; meat, 33; nut, 38; tur¬
-tle, 34 (see barbecue)
-
-Rocebibu cat’s cradle, 88
-ronai tea, 73
-
-Roucouyenne tribe, 221, 251
-roof, 16, 164, 200
-roots: cassava, 22, 30; poison, 54
-rubber: men, 201, 220, 221, 278;
-tree, 38
-
-run, animal, 44 ff.
-
-Rupununi Mts., 11, 14; River, 153,
-
-sacred: bundle, 223; lake, 279;
-
-tradition, 71
-sacrifice of maiden, 173
-Saint John, Macusi text, 104
-salt: antidote, 57; Macusi use, 35;
-
-Parukutu, 184
-sandals, 62
-sanitation, 166, 253
-Sapara, 13
-
-savannah: deer, 33, 42; tree, 52;
-
-tribes, 25 ff., 42, 270
-scale line, hammock, 26
-scarcity of women, 191
-scarification, 225
-
-Schomburgk, Robert, 14, 28, 58, 75,
-scientific tests, 255
-scissors, 64
-scorpion, design, 170
-seasons: dry, 11, 15, 29, 34, 47, 49,
-166; wet, 11, 30, 47, 62, 77;
-planting, 19
-
-seeds, 84, 255; bait, 44; food, 37;
-medicine, 74; necklaces, 28, 62;
-ornament, 60, 62; paint, 61;
-planting, 19, 31; rattle, 69
-seeding cotton, 25
-senses, development of, 255
-sentry, parrot, 46, 222
-
-
-FARABEE — THE CENTRAL CARIBS
-
-
-Seriri Mts., 14
-sex differences, 274 ff.
-sextant, 184, 278
-
-shell ornaments, 62 ff.; conch, 85;
-
-resonater, 159; whorl, 27
-shelters, 55, 78, 154, 165, 172, 186,
-shirts, 60, 203
-
-shooting: games, 70; manner of, 164
-shoulder basket, 23, 172, 190
-shrub, 161
-shuttle, 25
-Siamese link, 2 1
-
-sickness, 72 ff., 155, 184, 190 ff., 201,
-
-sieve, cassava, 17, 21 ff., 36, 170
-sight, gun, 57
-
-signal, 188, 223; dancing, 68 ff.;
-
-hunting, 43 ff., 224; fishing, 51
-significance: art, 64, 1 66, 171; couvade, 80; wasp frame, 228
-sincerity, medicine man, 227
-singing, 66, 73, 97, 158, 190, 204 ff„
-223, 226, (see dance)
-
-Sioux baby cradle, form of, 22
-Sipaliwini River, 214, 279
-siroche, 212
-
-site, village, 1 1, 15, 188
-
-skin: jaguar, 61; tapir, 56, 58, 62
-
-skirts, 60
-
-slaves, 185
-
-sloth design, 33, 170
-
-smallpox, 242, 246
-
-smoke hole, 18, 200
-
-smoking: cigarette', 190, 204 ff., 227;
-
-fish, 34, 50; meat, 33, 204
-snake, 1 1 , 32, 78, 170
-snares, 29, 44 ff., 59
-social culture, Macusi, 60
-soil, 29, 1 54 ff., 227
-solo singing, 66
-somatic characteristics, 253 ff.
-song: borrowing, 65; Diau, 206; to
-evil spirit, 69; of piazong, 73
-sounding board, 204, 254 (see danc¬
-ing board)
-
-soup, 37 ff.; cassava, 69; fish and
-meat, 33 ff.; manner of eating,
-41 ; palm, 38
-
-
-Spaniards, 279
-
-spears, 43; fish, 49, 51; manufac¬
-ture of, 52 ff.
-speech, Macusi, 14
-spider web, cat’s cradle, 89, 95
-spindle, 24, 27, 172
-spinning: Arecuna, 25; cotton, 24
-ff., 59; Macusi, 24 ff.; outfits, 19
-spirits, 72; hunting, 42; evil, 15,
-spring, 12 ; pole, 48
-squashes, 32, 37, 201, 277; planting,
-
-squirrel, 83
-
-staff, 66, 183, 200, 204 ff., 223
-stain on basket splints, 23
-stalking game, 42, 45
-star lore, 278
-stations, time, 278
-stealing, 71
-steam, use of, 190
-steps in house, 17
-
-sticks: digging, 30, 134; hooked,
-19; poisoned, 75
-stingray, 35, 48, 74
-stork, 22 1
-
-stone, 157, 190; axe, 83; fireplace,
-18; men, 83; oven support, 22;
-whorl, 27
-
-stool, 19, 41, 69, 157 ff., 170, 226,
-
-storage, 19; beeswax, 53; bowls,
-161; bows and arrows, 19; corn,
-19; cotton, 24; drink, 40; farina,
-23) 3°) 37i f°°d, 19, 214; gourds,
-55; poison, 55; pots, 24, 39
-storms, 186, 204
-
-strainers: cassava, 17; drink, 39,
-
-
-strangulation, 256
-streamers, 63, 222
-string, 162 ff., 199, 234; aeta fibre,
-27; apron, 61; arrow, 53 ; bow,
-52, 164; catapult, 70; comb, 64;
-cotton, 24, 27, 222, 224, etc.; ear
-plug, 63; fish, 50; fish trap, 48;
-flute, 66; fringe, 60; ixtle fibre,
-27 ff.; pack basket, 22; quipu,
-68, 162 ff.; trinket basket, 23
-
-
-296 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
-
-stringers, house building, 15
-sugar cane, 32, 37, 59, 79, i54) '86,
-
-superstition: couvade, 79; death,
-81 ff., 172, 227; hunting, 42;
-Kenaimas, 74; placenta, 77;
-poison, 55; sickness, 72, 184;
-
-spirits, 15: twins, 257; wasp
-frame, 226 ff.
-support, pack basket, 22
-supraorbital ridges, 253
-survey, 221
-
-Surinam, slavery in, 14
-sweet: cassava, 31, 154; potatoes,
-symbolism, art, 171
-
-tables, measurement, 260 ff.
-
-Takutu Mts., 11; River, 13 ff., 256
-Tapanahona River, 221
-Tapicari tribe, 13
-
-tapir, 53 ff., 164; food, 33; hunting,
-44; skin, 56, 58, 62
-Tarapidians, 250
-target, 70; test, 225
-Tarireng bark, 54
-
-Taruma tribe, 21 , 153, 155, 158, 162,
-tassels, 26, 61
-
-taboo, 77, 78 ff., 164, 167, 201, 225;
-
-food, 33, 76
-tangsa, 81
-tattoo, 64, 167, 252
-Tcalifona, 201
-Tcalio, 200
-
-Tcara Nawa, 183 ft'., 187
-Tcekawa cat’s cradle, 94
-tcukuya poison, 5 1
-teacher, 226
-
-Te Deum in Macusi, 1 13 ff.
-teeth, 254; animal, 225; comb, 63
-ff.; filing, 64; gun, 57; knife, 52;
-ornaments, 63
-tekatong, 82
-telescopic baskets, 23
-temperament, 71
-temperature, 155
-tempering clay, 24
-
-
-tests: marriage, 76; scientific, 255;
-target, 225
-
-texts: Macusi, 104 ft.; Absolution,
-uoff.; Apostles’ Creed, 109 ff.;
-Confession, 117; Gloria, 118;
-Laudamus, 1 1 3 ff . ; Lord’s Prayer,
-
-1 17; Morning Prayer, 1 1 1 ff.; Re¬
-sponses, 1 17; St. John IV., 46-54,
-104 ff.; Thessalonians I, 106 ff.;
-Venite, 1 18
-thatch, 202
-theft, 71
-
-thread (see cotton string)
-timber hitch, 26
-Tirijo tribe, 25 1
-tirikir tree bark, 16
-Tirka, 66, 73
-
-tobacco, 32, 73; drink, 227
-
-toggle head, harpoon, 54
-
-toilet cases, 23, 63
-
-1'onayena tribe, 198, 252
-
-tongue scraping, 64
-
-Torres Straits, cat’s cradle in, 91
-
-tortoise, 159, catching, 34; shell,
-
-
-totem, 67, 166, 1 71 , 228
-toucans, 33
-toy catapult, 70
-tracaxa, 34
-
-trade, 23, 59, 191, 246; aprons, 61;
-cloth, 61; Diau, 199; enemy
-tribes, 185; hunting implements,
-52; Macusi-Wapisiana, 14;
-poison, 51, 54; trinkets, 183
-trader, 59, 199, 203, 212, 278
-tradition, 72, 80
-
-trail, 22, 37, 62, 65, 155, 173 ff., 188,
-trance, 227
-
-traps, 29, 59, 170; fishing, 44, 47
-ff., 86; mouse, 91 ; peccary, 44
-travellers’ mistakes, 58
-tray, 170; covers, 22
-tree roots, 223
-
-trees: abiu, 38, 79; acaiara, 38;
-aeta palm, 11, 18, 21, 25 ff., 40,
-42, 62, 160, 162; annatto palm,
-61, 65; awara, 40; bacaba, 40;
-162; bamboo, 43, 53 ff., 56, 58,
-
-
-FARABEE — THE CENTRAL CAR1BS
-
-
-banana, 19, 32, 38 ff., 154, 161,
-
-201, 214; bulucush palm, 38;
-cakaralli, 22, 61, 160; caladium,
-42,225; chouta palm, 17; cokerite, 17, 21, 40, 57; cotton, 19, 24,
-27, 52, 58, 60 ff., 76, 78 ff. ; crabwood, 52; konima, 38; manicole
-palm, 38; miritci palm, 84;
-rubber, 38; tirikir, 16
-
-tribes, 13, 221, 250 ff.; Ajana, 251;
-Apalaii, 63, 66, 220, 251; Arawak, 12, 26, 35, 39, 44, 48, 58,
-270, 273; Arecuna, 14, 25, 54, 57,
-242; Arikiana, 251; Arimiana,
-250; Atanayru, 13; Atarois, 175,
-279; Atyai, 13; Azumara, 242
-ff. ; Barokoto, 251; Bili, 250;
-Caixana, 13; Caripuna, 13; Chapern, 13; Chikena, 184, 194, 197;
-Cileus, 250; Conebo, 161; Diau,
-ff., 206, 250, 253; Drios, 251;
-Duanapuku, 251; Kaikutciana,
-251; Kalicina, 250; Karap, 251;
-Katawian, 187, 197; Kumayena,
-214; Kutcifiana, 182; Macusi,
-Macuxi (see Macusi); Macheyenga, 91; Maopityans, 25 1 ; Ma-
-pidian, 156, 182, 183, 251;
-
-Maraca, 242 ff. ; Moonpidienne,
-252; Okwmiana, 250; Orokoyauna, 251; Ouayeoue, 252;
-Ojapi, 251; Pano, 17; Papagei,
-251; Paracoana, 13; Paraviana,
-13; Paraiviana, 250; Parukutu,
-
-202, 251 ff. ; Paroghotto, 251;
-Pauyaiden, 250; Pianoghoto, 250
-ff., Pianoi, 251; Porokoto, 242,
-245 ff.; Purigoto, 246; Roucouyenne, 221, 251; Sapara, 13;
-Tapicari, 13; Tarapidian, 250;
-Taruma, 21, 153, 155, 158, 162,
-175 ff., 189, 252; Tirijo, 251;
-Tonayena, 198, 252; Tunayanna,
-
-
-251; Uapixana, 13; Uatarai, 13;
-Uaya, 13; Uayuru, 13; Upurui,
-251; Uricuana, 250; Urukuena,
-217; Waiwai, 21, 50, 52, 61, 79,
-250, 254, 257; Waiwe, 182, 201,
-251; Waiweana, 250; Wapisiana,
-279; Yaou, 252; Zapara, 242;
-Zurumata, 251; comparison of,
-270; confusion of, 250; connec¬
-tion of, 183, 194, 197, 217, 242;
-friendly, 14, 251; forest, 26, 42,
-interior, 50, 60, 62, 82, 154, 164,
-trigger stick, 48
-
-trinkets: exchange, 183; storage,
-19; baskets, 23, 170
-Trombetas River, 155, 172, 175, 182,
-trough, 39, 68, 203 ff.
-trousers, 60
-trumpet, 158, 160
-trumpeter birds, 33, 46
-trunk, 271
-
-tube, bamboo, 63, 254
-tukui, 67
-
-tump line, 22, 26, 61, 256
-Tunayanna, 251
-
-turtle: cat’s cradle, 94; catching,
-34; as food, 33; shell bowl, 21,
-35; stool, 19
-tuwi, 67
-twins, 256
-
-Uapixana tribe, 13
-Uatarai tribe, 13
-Uaya tribe, 13
-Uayuru tribe, 13
-Ucayli River, 16 1
-umuri, 81
-umu, 81
-
-Uncle, C. N., 220
-upa, 81
-Upikari, 66
-Upurui tribe, 25 1
-
-
-298 UNIVERSITY MUSEUM — ANTHROPOLOGICAL PUBLICATIONS, VOL. X
-
-
-urari (see curari)
-
-Uraracuera River, 14, 242, 245
-uri, 81
-
-Uricuana tribe, 250
-urn, funeral, 171
-urubamba, 91
-Urukuena tribe, 217
-utensils, Macusi, 19
-
-vanity, individual, 65, 166
-variety: food, 12; seeds, 31
-vegetables: beans, 32, 201, 213, 224:
-cabbage, 38; cassava (see cas¬
-sava); cane, 32, 37, 59, 79, I54)
-186, 188, 1 9 1, 201 ; corn (seecorn) ;
-hominy, 37; potato, 31 ff., 37, 59)
-184, 201; pumpkin, 32, 37; rice,
-213; squash, 32, 37, 59, 201, 277
-Venezuelan boundary, 1 1
-Venite, in Macusi, 1 18
-ventriloquist, 73
-victory, 221
-
-village, 14 ff., 49, 59, i55) 164, 183
-site, 12, 188
-
-vines, 201, 21 1 ; belt, 28, 165
-vision, 253, 255
-
-visiting, 19, 60, 158, 162, 185, 228;
-dance, 67 ff.; house, 163, 191,
-202 (see customs)
-voice, Macusi, 14
-
-vocabulary, 214; Apalaii, 229 ff.;
-Azumara, 243 ff.; Chikena, 195
-ff.; Diau, 208 ff.; Kumayena,
-215 ff.; Macusi, 97 ff.; Natterer’s
-13; Parikutu, 192 ff. ; Porokoto,
-247 ff.; Urukuena, 218 ff.; Waiwai, 177 ff.
-vultures, 33, 185
-
-waists, 60
-
-Waitai, cat’s cradle, 86
-Waitiwelito, cat’s cradle, 95
-Waiwai tribe, 153 ff., 182 ff., 250,
-254, 257; aprons, 61; bow, 52;
-cat’s cradle, 87, 89; couvade, 79;
-dance, 205; drink, 203; graters,
-21; poisoning, 50; trinket basket,
-
-
-WaiwS tribe, 182,201,251
-Waiweana tribe, 250
-Wainwright plates, 207
-waipingpana, 80
-Wakakulud, 153
-Wakera tribe, 201, 212 ff.
-walk, 256
-walls, Macusi, 16
-wana, 81
-Wanafu, 81
-Wananui River, 25 1
-Wanotobo Cataract, 279
-Wapisiana tribe, 80, 158, 175, 187,
-242, 256, 279; bow, 164; cat’s
-cradle, 85, 87, 90; dance, 160;
-drink, 161; eyebrows, 64; fish¬
-ing, 49, 51; graters, 157; gun,
-57; hammocks, 25; in Macusi
-land, 14; poison, 54; name, 155;
-trade, 35; Polyandria, 191; wasp
-frame, 228
-waraiyo, 81
-waraiyorang, 81
-warepang, 69
-war chief, 271
-
-warfare, 58, 71, 182, 184, 194, 246
-wasp frame, 223 ff., 226, 228; grub,
-
-
-wasp nest design, 170
-watch, 184, 278
-Wateiwatci cat’s cradle, 94
-water: carrying, 24, 59; drinking,
-40; fall, 48; farina, 37; gourd,
-18, 24, 190; hole, 12; melon, 37;
-in poison, 55
-Waterton, 54
-Watisa cat’s cradle, 87
-wax: comb, 64; on flute, 224; on
-gun, 57; thread, 53; on quiver,
-
-weaving, 24 ff.; Macusi, 59
-wheat, 31
-whipping, 206
-whips, 250
-
-whistle, 159 ff., 175, 204; cere¬
-monial Waiwai, 166, 170; legend
-
-
-whistling duck, 34
-whorls, 25, 27; burial of, 172
-
-
-FARABEE — THE CENTRAL CARIBS
-
-
-wickerwork: houses, 15; quiver,
-58; press, 21, 36; wasp frame, 224
-widow, 82
-
-wild cane, 53; cotton, 79; game,
-34; honey, 64
-winds, 1 5
-
-withes, in house building, 15
-wives, number of, 153, 165, 227
-wokarimo bark, 54
-women: costume, 60; 166 flf., 202
-flf.; dance, 160; door, 17, 165;
-decoration, 166, 171; duties, 41,
-43, 162; measuring, 257; scarc¬
-ity of, 1 91; work, 20, 23 ff., 32,
-35. 59 flf., 154, 256
-wood, 225; mallet, 20; paddle, 36;
-
-pecker, 225; trough, 21
-workhouse, 17, 19, 165
-worm, bait, 47
-
-
-worship, animal, 171
-wourari (see curari)
-
-Wratten plates, 207
-wrestling, 70, 75, 185, 206, 250
-wristlets, 62
-wuriyang, 81
-
-Yakki, 54
-Yaku, 81
-
-Yaiimu River, 155
-yams, 154
-Yaou tribe, 252
-yaposa drink, 40 flf.
-yellow farina, 37; plum, 47
-Yoruba, 87
-Yupukari River, 256
-
-Zapara tribe, 242
-Zurumata tribe, 251

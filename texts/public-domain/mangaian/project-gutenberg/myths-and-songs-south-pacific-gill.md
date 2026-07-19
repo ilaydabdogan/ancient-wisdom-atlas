@@ -80,6 +80,82 @@ i.N:rjian  uoyjoN    K
 MAX    MULLER
 
 
+//  .  ii.  0  .  o  ^."
+
+
+«
+
+
+PRINCETON,  N.  J.
+
+
+%
+
+
+Division
+
+
+SL2&00
+
+
+MYTHS   AND    SONGS
+FROM   THE   SOUTH    PACIFIC.
+
+
+NEW    BOOKS.
+
+THE  CHILDHOOD  OF  THE  WORLD :  A  Simple  Account  of  Man  in
+Early  Times.  By  Edwakd  Clodd,  F.K.A.S.  New  Edition.
+Crown  8vo.     3s.
+
+"  Likely  to  prove  acceptable  to  a  large  and  growing  class  of  readers." — Pall  Mall
+Gazette.
+
+"  The  book  is  one  which  very  young  children  could  understand,  and  which  grown-
+up persons  may  run  through  with  pleasure  and  advantage." — Spectator.
+
+"  Its  style  is  simply  exquisite,  and  it  is  filled  with  most  curious  information." —
+Christian  World.
+
+"  I  read  your  book  with  great  pleasure.  I  have  no  doubt  it  will  do  good,  and  hope
+you  will  continue  your  work.  Nothing  spoils  our  temper  so  much  as  having  to
+unlearn  in  youth,  manhood,  and  even  old  age,  so  many  things  which  we  were  taught
+as  children.  A  book  like  yours  will  prepare  a  far  better  soil  in  the  child's  mind,  and
+I  was  delighted  to  have  it  to  read  to  my  children." — (Extract  from  a  Letter  from
+Professor  Max  Muller  to  the  Author).
+
+THE  CHILDHOOD  OF  RELIGIONS :  Including  a  Simple  Account  of
+the  Birth  and  Growth  of  Myths  and  Legends.  By  Edward
+Clodd,  F.E.A.S.     Crown  8vo.     5s.
+
+"  His  language  is  simple,  clear,  and  impressive.  His  faculty  of  disentangling
+complicated  masses  of  detail,  and  comjiressing  much  information  into  small  space,
+with  such  felicitous  arrangement  and  expression  as  never  to  over-tax  the  attention  or
+abate  the  interest  of  the  reader,  is  very  remarkable." — Examiner.
+
+"  The  style  is  very  charming.  There  is  something  in  the  author's  enthusiasm,
+something  in  the  pellucid  simplicity  of  his  easy  prose,  which  beguiles  the  reader
+along." — Academy.   •
+
+THE  LIFE  AND  GROWTH  OF  LANGUAGE.  By  W.  D.  Whitney,
+Professor  of  Sanskrit  and  Comparative  Philology  in  Yale
+College,  New  Haven.     Second  Edition.     5s.
+
+"  We  commend  Mr.  Whitney's  book  as  being  a  clear  and  concise  summary  of  all
+that  is  known  of  the  still  infant  science  of  language." — Hour.
+
+MISSIONARY  LIFE  IN  THE  SOUTHERN  SEAS.  By  James  Hutton.
+With  Illustrations.     Crown  8vo.     7s.  Qd.
+
+This  is  an  historical  record  of  mission  work  by  the  labourers  of
+all  denominations  in  Tahiti — the  Hervey,  the  Austral,  the  Samoa  or
+Navigator's,  the  Sandwich,  Friendly,  and  Fiji  Islands,  &c.
+
+"  The  narrative  is  calm,  sensible,  and  manly,  and  preserves  many  interesting
+facts  in  a  convenient  shape." — Literary  Churchman.
+
+A  YACHTING  CRUISE  IN  THE  SOUTH  SEAS.  By  C.  F.  Wood.
+Demy  8vo.,  with  six  Photographic  Illustrations.  7s.  Qd.
 The  author  has  spent  considerable  time  in  Polynesia,  and  his  work
 is  a  description  of  the  islands  and  the  manners  and  customs  of  the
 natives  as  they  exist.  Much  that  is  interesting  from  a  scientific  and
@@ -3631,7 +3707,7 @@ Maui  the  Third  told  them  that  he  had  made  a  grand  discovery
 Jo  Myths  and  Soitgs.
 
 "Where  is  it  situated?"  inquired  they.  "Down  t/we"  said
-Maui  the  Younger.  "  Do^vn  7<://^ fr<? .?"  they  demanded.  "Down
+Maui  the  Younger.  "  Do^vn  7<://^<fr<? .?"  they  demanded.  "Down
 there,^^  again  shouted  Maui.  The  fact  was,  they  were  not  aware  of
 the  secret  opening  in  their  house  leading  to  Avaiki.  At  the
 earnest  soHcitation  of  Maui,  they  all  consented  to  follow  him.
@@ -21839,3 +21915,222 @@ Disguises.  A  Drama.    Small
 crown  Svo.     Cloth,  price  5^.
 
 WEDMORE  (Frederick).
+The     Masters     of     Genre
+
+Painting.  With  sixteen  illustrations.
+Crown  8vo.    Cloth,  price  7^.  dd
+
+WELLS  (Capt.  John  C),  R.N.
+(Spitzbergen — The  Gate-
+way to  the  Polynia  ;  or,  A  Voyage
+to  Spitzbergen.  With  numerous  Il-
+lustrations by  Whymper  and  others,
+and  Map.  New  and  Cheaper  Edi-
+tion.    Demy  8vo.     Cloth,  price  ds.
+
+
+Wet    Days,    by    a    Farmer.
+
+Small  crown  Syo.     Cloth,  price  6j.
+WETMORE  (W.  S.).
+
+Commercial      Telegraphic
+
+Code.  Second  Edition.  Post  4to.
+Boards,  price  42.?.
+
+WHITAKER  (Florence).
+Christy's    Inheritance.      A
+
+London  Story.  Illustrated.  Royal
+i6mo.     Cloth,  price  \s.  6d.
+
+WHITE  (A.  D.),  LL.D.
+Warfare  of  Science.     With
+Prefatory  Note  by  Professor  Tyndall.
+Second  Edition.   Crown  8vo.    Cloth,
+price  3.y.  6d.
+
+WHITNEY  (Prof.  W.  D.)
+The    Life   and    Growth    of
+
+Language.  Second  Edition.  Crown
+Svo.  Cloth,  price  5J.  Copyright
+Edition.
+
+Volume  XVI.  of  The  International
+Scientific  Series.
+
+Essentials  of  English
+Grammarforthe  Useof  Schools.
+Crown  8vo.     Cloth,  price  3^.  6a.
+
+WICKHAM  (Capt.  E.  H.,  R.A.)
+Influence  of  Firearms  upon
+
+Tactics  :  Historical  and  Critical
+Investigations.  By  an  Officer  of
+Superior  Rank  (in  the  German
+Army).  Translated  by  Captain  E.
+H.  Wickham,  R.A.  Demy  Svo.
+Cloth,  price  -js.  6d.
+
+WICKSTEED  (P.  H.).
+Dante  :  Six  Sermons.    Crown
+8vo.     Cloth,  price  $s.
+
+WILLIAMS  (Rowland),  D.D.
+Life  and  Letters  of,  with  Ex-
+tracts from  his  Note-Books.  Edited
+by  Mrs.  Rowland  Williams.  With
+a  Photographic  Portrait.  2  vols.
+Large  post  Svo.     Cloth,  price  245.
+
+Stray  Thoughts  from  the
+Note-Books  of  the  Late  Row-
+land Williams,  D.D.  Edited  by
+his  Widow.  Crown  Svo.  Cloth,
+price  35.  6d.
+
+Psalms,  Litanies,  Coun-
+sels and  Collects  for  Devout
+Persons.  Edited  by  his  Widow.
+New  and  Popular  Edition.  Crowij
+Svo.     Cloth,  price  3^.  6d.
+
+
+32      A  List  of  C.  Kegan  Paul  6^  Co^s  Publications.
+
+
+WILLIS  (R.),  M.D.
+Servetus    and    Calvin  :    a
+
+Study  of  an  Important  Epoch  in  the
+Early  History  of  the  Reformation.
+8vo.  Cloth,  price  i6s.
+William  Harvey.  A  History
+of  the  Discovery  of  the  Circula-
+tion of  the  Blood.  With  a  Portrait
+of  Harvey,  after  Faithorne.  Demy
+8vo.    Cloth,  price  145.
+
+WILLOUGHBY(The  Hon.  Mrs.).
+On    the     North     Wind  —
+
+Thistledown.  A  Volume  of  Poems.
+Elegantly  bound.  Small  crown  8vo.
+Cloth,  price  ts.  6d.
+
+WILSON  (H.  Schutz).
+The  Tower    and   Scaffold.
+
+A  Miniature  Monograph.  Large
+fcap.  8vo.     Price  is.
+
+Within  Sound  of  the  Sea.
+By  the  Author  of  "  Blue  Roses,"
+"  Vera,"  &c.  Third  Edition.  2  vols.
+Crown  8vo.  Cloth,gilt  tops,  price  12.?.
+%*  Also  a  cheaper  edition  in  one
+Vol.  with  frontispiece.  Crown  8vo.
+Cloth,  price  6s.
+
+WOINOVITS  (Capt.  I.).
+Austrian  Cavalry  Exercise.
+
+Translated  by  Captain  W.  S.  Cooke.
+Crown  8vo.     Cloth,  price  7J.
+
+WOLLSTONECRAFT  (Mary).
+Letters   to    Imlay.    With  a
+
+Preparatory  Memoir  by_  C.  Kegan
+Paul,  and  two  Portraits  in  eaii  forte
+by  Anna  Lea  Merritt.  Crown  Svo.
+Cloth,  price  ds.
+
+
+WOOD  (Major-GeneralJ.  Creigh-
+ton).
+Doubling    the    Consonant.
+
+Small  crown  Svo.    Cloth,  price  \s,  6d,
+WOODS  (James  Chapman).
+A    Child    of    the    People,
+
+and  other  poems.  Small  crown  8vo.
+Cloth,  price  55.
+
+WRIGHT  (Rev.  David),  M.A.
+Waiting  for  the  Light,  and
+other  Sermons.  Crown  Svo.  Cloth,
+price  6s.
+
+YOUMANS  (Eliza  A.).
+An  Essay  on  the  Culture
+of  the  Observing  Powers  of
+Children,  especially  in  connection
+with  the  Study  of  Botany.  Edited,
+with  Notes  and  a  Supplement,  by
+Joseph  Payne,  F.  C.  P.,  Author  of
+"  Lectures  on  the  Science  and  Art  of
+Education,"  &c.  Crown  Svo.  Cloth,
+price  2^.  6d.
+
+First     Book     of     Botany.
+
+Designed  to  Cultivate  the  Observing
+Powers  of  Children.  With  300  En-
+gravings. New  and  Cheaper  Edi-
+tion. Crown  Svo.  Cloth,  price  2s.  6d.
+
+YOUMANS  (Edward  L.),  M.D.
+A  Class  Book  of  Chemistry,
+
+on  the   Basis  of  the   New    System.
+
+With  200  Illustrations.     Crown  Svo.
+
+Cloth,  price  ss.
+YOUNG  (William).
+
+Gottlob,    etcetera.       Small
+
+crown  Svo.     Cloth,  price  35.  6d.
+ZIMMERN  (H.).
+
+Stories  in  Precious  Stones.
+
+With  Six  Illustrations.  Third  Edi-
+tion.     Crown  Svo.     Cloth,  price  5^ .
+
+
+London: — C.  Kegan  Paul  &  Co.,  i,   Paternoster  Square.
+
+
+f^
+
+
+DATE    DUE
+
+m  1 2
+
+GAYLORD
+
+PRINTED  IN  U.S.A.
+
+BL2600  ,G47
+
+Myths  and  songs  from  the  South  Pacific.
+
+Princeton  Theological  Semlnary-Speer  Library
+
+
+1    1012  00109  5720
+
+
+''i^pM^'.'^^d
+
+
+1^
+

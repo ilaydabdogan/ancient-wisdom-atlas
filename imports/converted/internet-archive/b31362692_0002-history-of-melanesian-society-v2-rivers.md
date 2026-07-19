@@ -1,256 +1,3 @@
-# The History of Melanesian Society, Volume 2
-
-Digitized  by  the  Internet  Archive
-in  2019  with  funding  from
-Wellcome  Library
-
-
-https://archive.org/details/b31362692_0002
-
-
-THE  HISTORY  OF
-MELANESIAN  SOCIETY
-
-
-IN  TWO  VOLUMES
-Volume  II
-
-
-CAMBRIDGE  UNIVERSITY  PRESS
-C.  F.  CLAY,  Manager
-ILontion :  FETTER  LANE,  E.C.
-(Etimtmrgf) :  100  PRINCES  STREET
-
-
-Centum:  H.  K.  LEWIS,  136  GOWER  STREET,  W.C.
-
-3  ?gork:  G.  P.  PUTNAM’S  SONS
-ftoniba})  anti  GTalrtittn:  MACMILLAN  AND  CO.,  Ltd.
-^Toronto:  J.  M.  DENT  AND  SONS,  Ltd.
-ffl'ofego :  THE  MARUZEN-KABUSHIKI-KAISHA
-
-
-All  rights  reserved
-
-
-Percy  Sladen  Trust  Expedition  to  Melanesia
-
-THE  HISTORY  OF
-MELANESIAN  SOCIETY
-
-
-BY
-
-W.  H.  R.  RIVERS,  F.R.S.
-
-FELLOW  OF  ST  JOHN’S  COLLEGE,  CAMBRIDGE
-
-
-IN  TWO  VOLUMES
-Volume  II
-
-
-Cambridge  :
-at  the  University  Press
-
-I9I4
-
-
-dTambritfp:
-
-PRINTED  BY  JOHN  CLAY,  M.A.
-AT  THE  UNIVERSITY  PRESS
-
-
-CONTENTS
-
-
-CHAP.
-
-PAGE
-
-XV.
-
-Introduction  .........
-
-i
-
-XVI.
-
-The  Morphological  Comparison  of  Systems  of  Relationship
-
-9
-
-XVII.
-
-Melanesian  Gerontocracy  ......
-
-46
-
-XVIII.
-
-Social  Organisation  .......
-
-70
-
-XIX.
-
-Descent,  Inheritance  and  Succession  ....
-
-90
-
-XX.
-
-Marriage  .........
-
-104
-
-xxr.
-
-Communism  .........
-
-127
-
-XXII.
-
-Functions  of  Relatives  .......
-
-*5°
-
-XXIII.
-
-The  Linguistic  Comparison .
-
-i73
-
-XXIV.
-
-Secret  Societies  ........
-
-205
-
-XXV.
-
-Tikopia  ..........
-
-234
-
-XXVI.
-
-Kava  and  Betel  ........
-
-243
-
-XXVII.
-
-Beliefs  and  Ceremonial  connected  with  Death
-
-258
-
-XXVIII.
-
-Migrations  .........
-
-292
-
-XXIX.
-
-Immigrant  Influence  on  Social  Organisation  .
-
-3IQ
-
-XXX.
-
-Totemism  .........
-
-337
-
-XXXI.
-
-Decorative  Art  ........
-
-374
-
-XXXII.
-
-Communism  and  Money  ......
-
-384
-
-XXXIII.
-
-Religion  and  Magic  .......
-
-404
-
-XXXIV.
-
-Sun  and  Moon ;  Stone-work ;  Incision ;  Tattooing
-
-423
-
-XXXV.
-
-Material  Culture  ........
-
-439
-
-XXXVI.
-
-Language  .........
-
-464
-
-XXXVII.
-
-The  Bismarck  Archipelago .
-
-497
-
-XXXVIII.
-
-The  Dual  Organisation  .......
-
-556
-
-XXXIX.
-
-Conclusions  .........
-
-573
-
-Index  to  volumes  i  and  n
-
-597
-
-Bismarck  Archipelago
-
-
-MAP
-
-
-/•  499
-
-
-M.
-
-M.  L.
-
-
-A  bbirevicitions
-
-Codrington’s  Melanesians.
-Codrington’s  Melanesian  Languages.
-
-
-Phonetic  System
-
-See  volume  i,  p.  18.
-
-
-\
-
-
 CHAPTER  XV
 
 
@@ -297,8 +44,6 @@ R.  M.  S.  11.
 I
 
 
-2  Melanesian  Society
-
 path  suggested  by  the  comparative  study  of  the  forms  of
 the  systems  and  their  associated  functions  that  I  turned  to
 the  consideration  of  the  systems  as  collections  of  linguistic
@@ -343,9 +88,6 @@ examples  to  illustrate  the  purely  evolutionary  standpoint.
 
 In  the  task  of  analysing  Melanesian  culture  into  its
 component  elements,  I  began  with  features,  such  as  the
-
-
-3
 
 
 The  Analysis  of  Culture
@@ -396,8 +138,6 @@ of  Graebner  and  myself  shows  only  too  cogently  the  need
 
 1  See  Zeitsch.  f  Ethnol .,  1905,  xxxvn  and  Anthrofios ,  1909,  iv,  7 26  and  998.
 
-
-4  Melanesian  Society
 
 there  is  for  the  study  of  methods  and  principles,  and  makes  it
 unnecessary  to  apologize  for  a  mode  of  treatment  which  will
@@ -496,8 +236,6 @@ The  general  mode  of  treatment  of  this  book  holds  a  middle
 course  between  those  of  the  evolutionary  and  historical  schools
 
 
-6  Melanesian  Society
-
 because  the  principle  underlying  it  is  that  the  contact  of
 peoples  and  the  blending  of  their  cultures  act  as  the  chief
 stimuli  setting  in  action  the  forces  which  lead  to  human
@@ -593,8 +331,6 @@ purely  evolutionary  school  of  British  anthropologists  and  the
 purely  historical  school  of  Germany,  but  in  choosing  a  title,
 I  have  preferred  history  to  evolution  in  order  to  emphasise
 
-
-8  *  Melanesian  Society
 
 my  belief  that  it  is  the  historical  aspect  of  human  progress,
 rather  than  the  evolution  which  accompanies  it,  which  should
@@ -755,8 +491,6 @@ ascertain  why  there  should  be  this  association  in  Oceania
 between  complexity  and  richness  in  nomenclature.
 
 
-1 2  Melanesian  Society
-
 Another  fact  may  perhaps  have  attracted  attention.  I
 have  recorded  a  large  number  of  special  functions  associated
 with  bonds  of  relationship,  special  rights  or  privileges  pos¬
@@ -803,9 +537,6 @@ in  a  comparative  table  at  the  end  of  the  first  volume.
 Terms  for  Parents  and  Children
 
 
-13
-
-
 (i)  Parents  and  children.
 
 The  chief  topic  to  be  considered  under  this  heading  is
@@ -849,8 +580,6 @@ manner.  Such  an  indeterminate  way  of  regarding  the  matter
 becomes,  however,  impossible  when  we  find  the  Polynesians
 making  a  distinction  in  the  nomenclature  for  children  which
 
-
-1 4  Melanesian  Society
 
 does  not  occur  in  Melanesia  with  its  far  more  ample  ter¬
 minology.  If  the  terminology  of  relationship  be  determined
@@ -900,9 +629,6 @@ a  definite  term  for  the  brother-sister  relationship,  lulu}  but  a
 
 
 Brothers  and  Sisters
-
-
-15
 
 
 man  often  addresses  and  speaks  of  his  sister  as  Iasi.  It  may
@@ -1058,14 +784,6 @@ of  a  special  term  for  a  relative  and  absence  of  function.
 )
 
 
-R.  M.  S.  II.
-
-
-2
-
-
-1 8  Melanesian  Society
-
 Throughout  Polynesia,  so  far  as  we  know,  the  mother  s
 brother  has  no  special  duties  or  privileges  except  in  places
 where  he  has  a  special  designation.  Both  in  Tonga  and
@@ -1112,9 +830,6 @@ for  a  man  to  take  the  widow  of  his  mother’s  brother  if
 1  See  Elsdon  Best ,Journ.  Anth.  Inst.,  1902,  xxxii,  112.
 
 2  Loc.  cit.
-
-
-19
 
 
 PVife  of  Mother  s  Brother
@@ -1166,8 +881,6 @@ practised  in  the  island  in  the  past,  even  if  it  be  no  longer  the
 1  See  especially  I,  183.
 
 
-20  Melanesian  Society
-
 custom.  In  the  Torres  Islands  the  evidence  is  less  definite;
 a  man  may  still  marry  the  wife  of  his  mother’s  brother  in  the
 island  of  Hiw,  but  yet  the  characteristic  Banksian  feature  of
@@ -1217,9 +930,6 @@ might  follow  that  the  custom  of  the  Levirate,  which  exists  in
 The  Father  s  Sister
 
 
-21
-
-
 these  islands,  might  have  been  modified  so  that  the  uncle’s
 wife  should  be  looked  on  in  the  same  light  as  the  brother’s
 wife.  The  transference  of  wife  from  uncle  to  nephew  would
@@ -1266,8 +976,6 @@ probable  that  not  long  ago  there  was  either  no  special  term  at
 all  for  the  father’s  sister,  or  only  such  words  as  the  lalagi  of
 
 
-22  Melanesian  Society
-
 Pentecost  or  the  mateima  of  Mota,  which  are  terms  for  a
 potential  wife.  If  this  were  so,  it  would  have  become  the
 custom,  when  the  father’s  sister  was  no  longer  regarded  as
@@ -1292,8 +1000,7 @@ with  the  mother’s  brother,  but  one,  at  least,  of  the
 tribes  of  the  interior,  the  Dhawanisa,  has  a  special  desig¬
 nation.  In  the  simple  systems  of  the  Solomons  he  has
 the  same  name  as  the  father,  but  in  Guadalcanar  he  is
-probably  classed  with  the  mother’s  brother  and  the  father-in-
-law,  though  the  information  on  this  point  was  not  decisive.
+probably  classed  with  the  mother’s  brother  and  the  father-inlaw,  though  the  information  on  this  point  was  not  decisive.
 In  another  island  of  this  region,  Florida,  it  appears  that  the
 husband  of  the  father’s  sister  is  now  often  classed  with  the
 father,  but  it  is  probable  that  he  should  properly  be  tumbu,
@@ -1363,8 +1070,6 @@ the  community  of  designation  between  these  relatives  is  found,
 there  is  reason  to  believe  that  it  is  the  consequence  of  such
 
 
-24  Melanesian  Society
-
 a  marriage  regulation1.  The  second  condition  which  would
 produce  this  form  of  correspondence  is  the  cross-cousin
 marriage.  If  a  man  must  marry  the  daughter  of  his  mothers
@@ -1401,8 +1106,7 @@ other  features  of  Melanesian  systems  which  may  be  considered
 here.  One  of  the  consequences  of  the  cross-cousin  marriage
 will  be  to  produce,  not  only  a  community  of  designation  for
 the  father’s  sister  and  the  wife  of  the  mother’s  brother,  but  the
-term  used  for  these  relatives  will  also  apply  to  the  mother-in-
-law  ;  these  three  relationships  will  be  combined  in  one  and
+term  used  for  these  relatives  will  also  apply  to  the  mother-inlaw  ;  these  three  relationships  will  be  combined  in  one  and
 the  same  person.  Similarly,  the  mother’s  brother  and  the
 husband  of  the  father’s  sister  will  be  the  same  person  as  the
 father-in-law,  and  as  a  matter  of  fact,  in  the  places  already
@@ -1415,8 +1119,7 @@ considered,  these  relatives  are  included  under  the  same  term.
 
 The  Cross-cousin  Marriage  25
 
-Thus,  in  Guadalcanar  the  mother’s  brother  and  the  father-
-in-law  are  both  nia ,  and  the  father’s  sister,  the  wife  of  the
+Thus,  in  Guadalcanar  the  mother’s  brother  and  the  fatherin-law  are  both  nia ,  and  the  father’s  sister,  the  wife  of  the
 mother’s  brother  and  the  mother-in-law  are  all  tarungo ;
 a  similar  correspondence  is  found  among  the  coastal  people
 of  Viti  Levu  who  practise  the  cross-cousin  marriage.  Further,
@@ -1463,8 +1166,6 @@ or  has  been  practised,  or  are  places  so  closely  allied  to  them
 1894,  vii,  238.
 
 
-26  Melanesian  Society
-
 in  general  culture  that  we  may  safely  assume  that  the  cross¬
 cousin  marriage  existed  there  at  one  time.
 
@@ -1504,8 +1205,7 @@ terms  for  cross-cousins,  and  in  some  systems  three  different
 categories  of  this  relationship  are  recognised,  two  male  cousins
 calling  one  another  tavale  and  two  female  cousins  ndauve  or
 raiva ,  while  those  of  different  sex  are  ndavola.  Further,  the
-terms  for  cross-cousin  are  also  used  for  brothers-  and  sisters-
-in-law  ;  thus,  in  Mbau  the  wife’s  brother  is  tavale ,  for  he
+terms  for  cross-cousin  are  also  used  for  brothers-  and  sistersin-law  ;  thus,  in  Mbau  the  wife’s  brother  is  tavale ,  for  he
 will  naturally  stand  in  this  relationship  to  his  sister’s  husband
 independently  of  marriage,  and  it  is  noteworthy  that  a  man
 
@@ -1513,9 +1213,6 @@ independently  of  marriage,  and  it  is  noteworthy  that  a  man
 
 
 Cross-cousins
-
-
-27
 
 
 continues  to  call  his  wife’s  brother  by  this  name  even  if  he
@@ -1532,8 +1229,7 @@ In  the  region  of  the  Solomon  Islands  where  there  is
 matrilineal  descent,  the  nomenclature  for  cross-cousins  strongly
 supports  the  conclusions  drawn  from  the  terms  used  for  their
 parents.  In  Guadalcanar,  where  the  cross-cousin  marriage
-exists  at  the  present  time,  all  varieties  of  brother-  and  sister-
-in-law  are  called  iva,  the  term  also  used  of  one  another  by
+exists  at  the  present  time,  all  varieties  of  brother-  and  sisterin-law  are  called  iva,  the  term  also  used  of  one  another  by
 cross-cousins.  In  Ysabel,  where  there  is  clear  evidence  of
 the  prevalence  of  the  cross-cousin  marriage  in  the  past,  there
 is  a  special  term  for  cross-cousins,  but  it  is  possible  that  this
@@ -1566,8 +1262,6 @@ and  sister  address  one  another  by  a  term  mats ,  used  also  by
 
 2  See  Gray,  loc.  cit.
 
-
-28  Melanesian  Society
 
 women  who  stand  in  the  relation  to  one  another  of  husband’s
 sister  and  brother’s  wife  (w.s.).  On  the  other  hand,  though
@@ -1666,8 +1360,6 @@ systems,  such  as  those  of  the  Hawaian  Islands  and  Niue,  there
 are  special  terms  for  these  relatives,  hunoai  or  vungavai ,  with
 
 
-30  Melanesian  Society
-
 a  different  reciprocal,  hunona  or  Jingona .  The  Niue  usage
 seems  to  show  a  transitional  stage,  the  parents-in-law  having
 the  same  name  as  the  parents  with  the  qualification  vungavai ,
@@ -1681,8 +1373,7 @@ terms  for  father  and  mother.
 Among  the  coastal  peoples  of  Fiji  we  find  the  feature,
 already  fully  considered,  whereby  the  parents-in-law  are  classed
 with  the  mother’s  brother  and  father’s  sister.  Among  the
-people  of  the  interior  with  the  exception  of  the  Nam-
-bombudho,  on  the  other  hand,  the  terms  for  these  relatives
+people  of  the  interior  with  the  exception  of  the  Nambombudho,  on  the  other  hand,  the  terms  for  these  relatives
 are  quite  different  from  those  for  the  mother’s  brother  and
 father’s  sister.
 
@@ -1741,8 +1432,7 @@ very  great.
 In  the  Torres  group,  there  is  in  Hiw  only  one  term  in
 use,  kwiiga ,  for  the  reciprocal  relationship.  In  Loh  this
 term  is  used  for  the  father-in-law  and  the  son-in-law,  while
-others,  tivina  or  recha,  may  be  used  in  its  place  for  mothers-
-and  daughters-in-law.  It  is  clear  that,  with  the  most  de¬
+others,  tivina  or  recha,  may  be  used  in  its  place  for  mothersand  daughters-in-law.  It  is  clear  that,  with  the  most  de¬
 finite  and  elaborate  regulations  concerning  the  conduct  to
 one  another  of  this  group  of  relatives,  there  goes  a  distinctly
 more  complex  mode  of  nomenclature  than  is  found  in  northern
@@ -1766,8 +1456,6 @@ extraordinary  degree  of  complexity.  Whether  this  richness
 
 1  Joest  in  Baessler,  op.  tit.,  382.
 
-
-32  Melanesian  Society
 
 of  nomenclature  is  accompanied  by  especially  elaborate  and
 numerous  rules  concerning  conduct  my  information  is  not  suffi¬
@@ -1809,8 +1497,7 @@ sex,  these  terms  being  the  same  as  those  for  husband  and
 wife.  The  Niue  system  also  has  this  characteristic  feature,
 except  that  the  term  ordinarily  used  between  those  of  the
 same  sex  is  sometimes  used  between  those  of  different
-sex.  Tonga  differs  in  that  the  term  used  between  brothers-
-in-law  is  different  from  that  used  between  sisters-in-law,
+sex.  Tonga  differs  in  that  the  term  used  between  brothersin-law  is  different  from  that  used  between  sisters-in-law,
 while  in  Tikopia  the  terms  used  between  those  of  different
 sex  are  not  the  terms  used  also  for  husband  and  wife,  but
 those  otherwise  used  between  brothers  and  sisters.  With
@@ -1819,11 +1506,7 @@ those  otherwise  used  between  brothers  and  sisters.  With
 Brothers -  and  Sisters-in-law
 
 
-33
-
-
-this  exception,  and  that  of  Samoa  where  no  definite  classi-
-ficatory  terms  for  any  of  these  relatives  were  obtained,  the
+this  exception,  and  that  of  Samoa  where  no  definite  classificatory  terms  for  any  of  these  relatives  were  obtained,  the
 Polynesian  systems  agree  in  the  feature  that  a  man  and  his
 wife’s  sister  or  his  brother’s  wife  address  and  speak  of  one
 another  as  if  they  were  man  and  wife.
@@ -1845,8 +1528,7 @@ further  facts  to  show  the  meaning  of  certain  complexities  (see
 i,  278)  which  I  failed  to  unravel.
 
 In  the  Solomon  Islands  there  is  much  variety  in  the
-mode  of  classing  the  different  kinds  of  brother-  and  sister-
-in-law.  The  western  islands  have  terms,  iva  in  Eddystone
+mode  of  classing  the  different  kinds  of  brother-  and  sisterin-law.  The  western  islands  have  terms,  iva  in  Eddystone
 and  mani  in  Vella  Lavella,  used  between  those  of  the
 same  sex,  while  for  those  of  different  sex  there  is  a  new
 feature.  The  wife  of  the  elder  brother  is  called  by  the
@@ -1873,11 +1555,6 @@ In  most  of  the  systems  of  the  Eastern  Solomons  all  kinds
 R.  M.  s.  II.
 
 
-3
-
-
-34  Melanesian  Society
-
 of  brother-  and  sister-in-law  are  classed  together.  The  only
 exception  among  the  systems  which  have  been  fully  recorded
 is  in  Savo  where  there  are  two  terms  :  mcinggu  used  for  all
@@ -1901,8 +1578,7 @@ elaborate  rules  of  avoidance  associated  with  great  com¬
 plexity  of  designation.  Throughout  the  Banks  group  similar
 terms  are  in  use  between  those  of  the  same  sex,  whether  men
 or  women,  but  usually  the  terms  used  by  men  differ  somewhat
-in  form  from  those  used  by  women  ;  thus,  in  Mota  brothers-
-in-law  call  one  another  wulus ,  while  sisters-in-law  are  walui
+in  form  from  those  used  by  women  ;  thus,  in  Mota  brothersin-law  call  one  another  wulus ,  while  sisters-in-law  are  walui
 or  in  address  wuluk  and  waluk.  In  the  terms  used  between
 those  of  different  sex  there  is  the  greatest  diversity  throughout
 the  different  islands  of  the  group.  In  Mota  a  man  addresses
@@ -1922,9 +1598,6 @@ to  his  wife,  while  these  women  call  him  husband,  just  as  is  the
 case  in  Polynesia.  It  is  evident  that  all  the  various  modes  of
 addressing  or  speaking  of  these  relatives  have  the  underlying
 idea  of  the  possibility  either  of  marriage,  or  of  extra-marital
-
-
-35
 
 
 Relatives  by  Marriage
@@ -1984,8 +1657,6 @@ Banks  Islands,  but  in  Loh  in  the  Torres  Islands  its  place  is
 3—2
 
 
-36  Melanesian  Society
-
 taken  by  two  terms  tukwutog  and  retukwu,  the  former  used
 between  the  grandfathers  and  the  latter  between  the  grand¬
 mothers  of  a  married  couple.  These  terms  are  only  special
@@ -2035,8 +1706,6 @@ are  causally  related ;  that  these  relationships  have  special
 
 Personal  Names
 
-
-37
 
 designations  because  the  use  of  the  personal  name  is  pro¬
 hibited.
@@ -2088,8 +1757,6 @@ marriage.
 I  have  already  suggested  that  the  classing  of  the  father’s
 
 
-38  Melanesian  Society
-
 sister  and  the  wife  of  the  mother’s  brother  with  the  mother
 in  several  Melanesian  systems  has  followed  the  disuse  of  the
 personal  name.  Thus,  in  Hiw  in  the  Torres  Islands,  marriage
@@ -2139,13 +1806,10 @@ Melanesian  ideas,  the  clearest  of  all  possible  indications  that
 Personal  Names
 
 
-39
-
 are  ineligible  as  consorts  in  marriage  or  as  partners  in
 extra-marital  sexual  relations.
 
-There  is  evidence,  however,  that  the  classing  of  brothers-
-and  sisters-in-law  with  brothers  and  sisters  may  have  come
+There  is  evidence,  however,  that  the  classing  of  brothersand  sisters-in-law  with  brothers  and  sisters  may  have  come
 about  in  another  way,  one  which  does  not  necessarily  carry
 with  it  the  prohibition  of  sexual  relations.  In  some  systems
 the  terms  used  between  these  relatives  are  not  those  applied
@@ -2187,8 +1851,6 @@ by  their  personal  names.  It  is  probably  a  rule  in  Melanesia
 
 1  Thurnwald,  Zeitsch.f.  vergleich.  Rechtswiss 1910,  xxm,  334.
 
-
-40  Melanesian  Society
 
 that  whenever  there  is  a  suitable  term  of  relationship,  it  is
 wrong  to  use  the  personal  name.  Certainly  this  is  so  in
@@ -2284,8 +1946,6 @@ ever  be  the  explanation,  we  can  be  confident,  that  the  use  of
 this  descriptive  term  is  relatively  late.
 
 
-42  Melanesian  Society
-
 The  wide  distribution  of  a  descriptive  term  for  the  father’s
 sister  and  the  absence  of  any  alternative  nomenclature  point
 to  this  relative  having  had  no  term  of  relationship  peculiar
@@ -2336,9 +1996,6 @@ of  this  term  leaves  no  doubt  that  it  is  properly  a  term
 
 
 Generalisation
-
-
-43
 
 
 for  the  mother’s  brother,  and  yet  it  is  applied  to  a  number
@@ -2436,8 +2093,6 @@ ditions,  one  example  being  the  classing  of  the  children  of  the
 
 Nomenclature  and  Functions
 
-
-45
 
 father’s  brother  with  those  of  the  mother’s  sister  which  would
 be  a  natural  consequence  of  the  dual  organisation  of  society.
@@ -2564,8 +2219,6 @@ general  rule  not  to  go  outside  Oceania.
 3  Op.  cit.  p.  162.
 
 
-48  Melanesian  Society
-
 says  further  that  this  carries  with  it  all  the  consequential
 relationships.
 
@@ -2671,11 +2324,6 @@ is  matrilineal  and  in  Fiji  patrilineal,  it  seemed  to  me  that
 r.  m.  s.  II.
 
 
-4
-
-
-50  Melanesian  Society
-
 the  explanation  of  the  difference  between  the  two  systems
 was  to  be  sought  in  the  different  mode  of  descent,  and  probably
 depended  on  the  change  from  one  mode  of  descent  to  the
@@ -2775,13 +2423,10 @@ signation  to  disappear,  as  I  have  suggested  may  have
 4—2
 
 
-52  Melanesian  Society
-
 happened  in  the  case  of  the  corresponding  term  for  the
 mother’s  mother  in  Pentecost,  we  should  have  the  brother
 of  the  mothers  mother  called  by  the  same  term  as  the
-elder  brother.  But,  in  the  dual  organisation  with  matri-
-lineal  descent,  or  for  that  matter  with  patrilineal  descent
+elder  brother.  But,  in  the  dual  organisation  with  matrilineal  descent,  or  for  that  matter  with  patrilineal  descent
 also,  the  brother  of  the  mother’s  mother  is  a  man  of  the
 same  moiety  as  the  father’s  father,  and  may  even  be
 one  and  the  same  person  as  the  latter.  The  Dieri  evidence
@@ -2869,8 +2514,6 @@ been  produced.
 application  to  a  woman  of  a  term  otherwise  used  for  a  man  is  probably  an  error ;
 even  if  correct,  it  must  almost  certainly  be  the  result  of  some  later  modification.
 
-
-54  Melanesian  Society
 
 Thus,  so  far  as  the  Fijian  tribes  are  concerned,  the  chief
 and  indisputable  correspondences  follow  naturally  from  the
@@ -2967,8 +2610,6 @@ between  those  of  different  sex,  is  a  term  for  a  potential
 1  Op.  cit.  p.  334.
 
 
-56  Melanesian  Society
-
 consort.  In  the  Buin  system  three  relatives,  the  wife’s
 sister,  the  brother’s  wife  and  the  wife  of  the  father’s
 father  are  classed  together,  and  since  two  of  them  are
@@ -3013,9 +2654,6 @@ which  will  explain  the  correspondences  is  one  in  which  a
 man  marries  a  woman  two  generations  above  his  own,  viz.,
 the  wife  of  his  father’s  father  or  a  woman  having  the  same
 status  as  this  relative.
-
-
-57
 
 
 Marriage  with  Grandfather  s  Wife
@@ -3067,8 +2705,6 @@ marriage  with  the  wife  of  the  father’s  father  should  have
 1  See  p.  62  of  this  Chapter.
 
 
-58  Melanesian  Society
-
 left  similar  indications  of  its  former  existence  in  the  system
 of  relationship.
 
@@ -3115,9 +2751,6 @@ generation  nor  from  that  of  their  daughters,  but  from  the
 generation  of  their  granddaughters.  It  is  obvious  that  such
 
 1  See  the  diagram  on  p.  17  of  the  first  volume.
-
-
-59
 
 
 Dominance  of  Elders
@@ -3266,8 +2899,6 @@ an  established  system,  and  even  after  this  dominance  had
 largely  or  wholly  disappeared.
 
 
-62  Melanesian  Society
-
 The  nature  of  the  Pentecost  system  makes  it  probable
 that  the  marriage  with  the  granddaughter  of  the  brother
 persisted  long  after  the  dominance  of  the  old  men  had  ceased
@@ -3318,8 +2949,6 @@ scriptive  terms  are  used  in  Melanesia,  they  are  relatively
 Santa  Cruz  and  Ysabel
 
 
-63
-
 recent  innovations,  introduced  either  to  replace  older  terms
 or  to  be  used  where  previously  there  had  been  no  terms
 of  relationship  at  all,  the  descriptive  terms  in  the  latter
@@ -3365,8 +2994,6 @@ the  father’s  father,  and  it  is  probable  that  the  more  extended
 usually  applied  by  a  woman  to  her  elder  sister,  whereas  the  Ysabel  term  is  one
 applied  by  a  man  to  his  sister,  at  any  rate  in  Tikopia.
 
-
-64  Melanesian  Society
 
 connotation  of  the  Bugotu  system  is  due  to  a  later  process  of
 generalisation  (see  n,  42)
@@ -3469,11 +3096,6 @@ furnishes  a  rational  explanation  of  the  peculiar  forms  of
 r.  m.  s.  11.
 
 
-5
-
-
-66  Melanesian  Society
-
 marriage  of  Melanesia,  the  social  state  supposed  to  have  existed
 is  so  extraordinary,  and  so  widely  removed  from  any  known
 to  exist  elsewhere,  that  before  we  accept  it  and  pass  on  to  the
@@ -3482,8 +3104,7 @@ into  the  possibility  of  some  alternative  explanation.
 
 The  scheme  I  have  propounded  rests  entirely  on  the
 fundamental  assumption  that  the  dominance  of  the  old  men
-arose  in  a  society  possessing  the  dual  organisation  with  matri-
-lineal  descent.  I  have  failed  wholly  to  see  my  way  to  a
+arose  in  a  society  possessing  the  dual  organisation  with  matrilineal  descent.  I  have  failed  wholly  to  see  my  way  to  a
 scheme  which  derives  these  marriages  from  any  other  form
 of  social  organisation.  I  have  already  mentioned  my  long
 attempts  and  complete  failure  to  bring  the  Pentecost  and
@@ -3525,8 +3146,6 @@ from  the  matrimonial  classes  unless,  as  is  possible,  the  dual
 
 Matrimonial  Classes
 
-
-67
 
 organisation  of  the  Dieri  has  resulted  from  a  simplification
 of  a  fourfold  system1.  Marriage  with  the  wife  of  the  fathers
@@ -3578,8 +3197,6 @@ vation  owing  to  their  having  no  names.
 
 5—2
 
-
-68  Melanesian  Society
 
 that  at  one  stage  of  Melanesian  history  the  old  men  had
 sufficient  power  to  enable  them  to  monopolise  all  the  young
@@ -3639,8 +3256,7 @@ group  in  which  all  the  women  are  monopolised  by  the  leader
 of  the  group.  As  a  matter  of  fact,  the  condition  I  have
 formulated  is  absolutely  and  fundamentally  different.  The
 monopoly  of  women  by  the  old  men  which  I  assume  must
-have  existed  in  a  community  already  divided  into  two  exoga-
-mous  moieties  ;  it  involves  the  clear  recognition  of  generations
+have  existed  in  a  community  already  divided  into  two  exogamous  moieties  ;  it  involves  the  clear  recognition  of  generations
 and  the  existence  of  the  classificatory  system  of  relationship.
 Without  these  three  features,  the  scheme  I  have  advanced
 would  become  hopeless  confusion  in  place  of  the  order
@@ -3769,8 +3385,6 @@ system  and  that  a  dual  grouping  still  exists  in  Vanua  Levu  (see  Man 
 2  See  1,  1 77-
 
 
-72  Melanesian  Society
-
 daughter  s  daughter  or  with  the  wife  of  his  father’s  father,
 it  seems  probable  that  these  descriptive  terms  have  replaced
 others  which  had  lost  their  meaning  on  the  disappearance  of
@@ -3816,9 +3430,6 @@ that  few  natives  profess  to  be  able  to  follow  it2.”
 1  The  Rev.  C.  E.  Fox  has  recently  found  a  dual  system  with  matrilineal  descent
 still  present  in  San  Cristoval ;  see  Southern  Cross  Log  (Sydney  edition),  1912,
 xvm,  27.
-
-
-2
 
 
 M.,  30.
@@ -3875,8 +3486,6 @@ sation  and  other  social  groups  allied  to  them.  In  the  Banks
 of  the  people  (Gray,  Austral .  Ass.  1892,  p.  648).
 
 
-74  Melanesian  Society
-
 Islands  there  are  divisions  of  the  moieties  which  appear  to
 take  no  part  in  the  regulation  of  marriage.  Some  of  them
 correspond,  however,  with  districts  of  the  island ;  this  sug¬
@@ -3888,8 +3497,7 @@ Thus  not  only  has  each  district  of  Mota  its  own  Tamate  hwoa
 (see  i  104),  but  apparently  also  any  other  society  of  one
 district  is  largely  independent  of  the  corresponding  societies
 of  other  districts  (see  1,  125).  Similar  subgroups  are  present
-in  the  Torres  Islands,  but  I  have  no  information  about  then-
-history  or  about  the  part  they  take  in  the  regulation  of  social
+in  the  Torres  Islands,  but  I  have  no  information  about  thenhistory  or  about  the  part  they  take  in  the  regulation  of  social
 
 life  at  the  present  time.  .  ,
 
@@ -3927,9 +3535,6 @@ by  other  informants.
 
 
 Totemism
-
-
-75
 
 
 of  one  group  which  we  may  call  A  had  to  marry  a  woman
@@ -3980,8 +3585,6 @@ evidence  of  genuine  totemism  is  the  Santa  Cruz  group.
 1  Sojourn.  Roy.  Anth.  Inst.  1909,  xxxix,  156.
 
 
-76  Melanesian  Society
-
 We  know  so  little  of  the  culture  of  this  region  that  the
 matter  may  be  not  so  simple  as  it  seems,  but  on  the  avail¬
 able  evidence  this  group  possesses  the  institution  of  totemism
@@ -4030,8 +3633,6 @@ each  of  the  three  primary  clans  is  divided  into  a  number  of
 
 Totemism
 
-
-77
 
 groups,  each  of  which  has  associated  with  it  an  object  which,
 when  an  animal  or  plant,  may  probably  not  be  eaten.
@@ -4085,8 +3686,6 @@ respects  that  of  his  father.
 
 4  Thurnwald,  Zeitsch.  f.  vergleich.  Rechtswiss.  1910,  XXIII,  327.
 
-
-78  Melanesian  Society
 
 In  Fiji,  and  especially  among  the  inland  people  of  Viti
 Levu,  there  are  certain  animals  or  plants  which  may  not  be
@@ -4193,8 +3792,6 @@ plants  with  individual  persons  in  the  Banks  Islands.
 2  For  a  good  example  see  Rep.  Canib.  Exp.  to  Torres  Straits ,  VI,  121.
 
 
-80  Melanesian  Society
-
 of  the  social  organisation  of  Malaita,  and  if  my  observation  be
 right,  there  can  be  little  doubt  that  local  exogamy  is  not
 limited  to  Lau,  but  exists  elsewhere  in  that  island  and  in  other
@@ -4295,11 +3892,6 @@ a  local  segregation  of  the  totemic  clans.  It  seemed  probable,
 
 R.  M.  s.  II.
 
-
-6
-
-
-82  Melanesian  Society
 
 however,  that  originally  each  clan  had  its  own  mandwai ,  and
 it  is  possible  that  at  this  time  the  clans  were  localised.
@@ -4402,8 +3994,6 @@ by  Mr  Hocart  and  myself  on  the  Western  Solomon  Islands.
 6 — 2
 
 
-84  Melanesian  Society
-
 In  all  those  places,  then,  where  we  have  evidence  of  the
 existence  of  marriage  with  the  daughter’s  daughter  and  with
 the  wives  of  the  father’s  father  and  mother’s  brother,  we  may
@@ -4478,8 +4068,7 @@ forms  of  social  structure  found  in  Melanesia  is  the  dual
 organisation  with  matrilineal  descent,  and  the  latest  is  that
 in  which  a  clan-organisation  is  absent,  while  the  totemic
 system  occupies  an  intermediate  position.  Of  the  other  form
-of  organisation  which  has  been  described,  non-totemic  clan-
-exogamy,  so  little  is  known  that  it  would  be  hazardous  to
+of  organisation  which  has  been  described,  non-totemic  clanexogamy,  so  little  is  known  that  it  would  be  hazardous  to
 assign  it  a  definite  place  in  order  of  time.  It  may  be  noted,
 however,  that  the  only  example  of  definite  local  exogamy  has
 been  found  in  Malaita  where  in  general  the  clan-organisation
@@ -4503,8 +4092,6 @@ in  relation  to  a  standard  derived  from  European  civilisation.  It  impli
 direction  in  which  culture  has  changed  in  Melanesia  has  been  always  towards,  and
 not  away  from,  this  standard.
 
-
-86  Melanesian  Society
 
 the  study  of  systems  of  relationship.  Thus,  in  the  New
 Hebrides  and  Banks  Islands,  where  the  dual  organisation  still
@@ -4601,8 +4188,6 @@ is  regulated  solely  by  relationships  which  can  be  traced
 genealogically.  At  each  end  of  this  series  we  have  no
 evidence  of  the  existence  of  totemism  as  a  social  system,
 
-
-88  Melanesian  Society
 
 though  it  is  definitely  present  in  those  places  which  seem  to
 occupy  an  intermediate  position  in  the  chain  of  development.
@@ -4741,8 +4326,7 @@ present.
 
 Descent.
 
-In  the  area  of  Melanesia  included  in  my  survey,  matri-
-lineal  descent  is  almost  universal  wherever  definite  exogamy
+In  the  area  of  Melanesia  included  in  my  survey,  matrilineal  descent  is  almost  universal  wherever  definite  exogamy
 is  practised  by  means  of  a  social  mechanism  of  clans  or
 moieties.  The  dual  organisation  is  invariably  matrilineal,
 and  the  scheme  of  the  preceding  chapters  rests  entirely  on
@@ -4754,8 +4338,7 @@ lineal  mode  of  descent  may  be  limited  to  one  part  only  of  the
 island.  The  only  other  known  example  of  patrilineal  descent
 in  conjunction  with  exogamy  is  in  the  Lau  district  of  Malaita,
 where  a  man  belongs  to  the  village  or  local  group  of  his
-father.  If  we  extend  the  use  of  the  term  “descent”  to  non-
-exogamous  groups,  Fiji  will  furnish  another  example  of  patri¬
+father.  If  we  extend  the  use  of  the  term  “descent”  to  nonexogamous  groups,  Fiji  will  furnish  another  example  of  patri¬
 lineal  descent,  for  here  a  man  belongs  to  the  matanggali  or
 itokatoka  of  his  father.
 
@@ -4780,8 +4363,6 @@ where  matrilineal  descent  is  practised  ;  it  has  even  been  said
 that  a  man  is  not  related  to  his  own  father.  If  you  converse
 with  a  Melanesian  in  English,  he  will  be  very  likely  to  tell
 
-
-92  Melanesian  Society
 
 you  that  he  is  not  related  to  his  father,  but  when  he  makes
 such  a  statement,  he  is  supposing  that  the  English  word
@@ -4878,8 +4459,6 @@ given  to  the  word.  The  important  point  is  that  at  the
 children  would  belong  to  this  moiety  and  marriage  between  them  would  be  excluded
 by  the  ordinary  rule  of  exogamy  (see  also  II,  16).
 
-
-94  Melanesian  Society
 
 present  time,  whatever  may  have  been  the  case  in  the  past,  the
 social  relations  existing  in  Melanesia  between  a  man  and  his
@@ -4978,15 +4557,12 @@ have  carried,  one  of  its  functions  still  remains  of  vital  import¬
 ance.  Marriage  is  still  regulated  largely,  if  not  predominantly,
 
 
-96  Melanesian  Society
-
 by  the  social  grouping,  and  so  long  as  this  continues,  so  long
 must  the  line  of  descent  remain  a  matter  of  the  utmost  social
 significance.  Even  here,  however,  there  are  indications  that
 the  social  grouping  has  less  importance  than  it  probably
 at  one  time  possessed.  Nowhere  in  Melanesia  at  the  present
-time  is  marriage  regulated  solely  by  the  grouping  in  exoga-
-mous  moieties  or  clans  ;  there  are  certain  persons  of  the
+time  is  marriage  regulated  solely  by  the  grouping  in  exogamous  moieties  or  clans  ;  there  are  certain  persons  of  the
 opposite  moiety,  or  of  different  clans,  with  whom  marriage  is
 just  as  strictly  forbidden  as  with  members  of  the  same  group.
 In  some  parts  of  Melanesia,  marriage  is  regulated  solely  by
@@ -5027,9 +4603,6 @@ followed  the  arrival  of  Europeans.  I  was  told  that  inheritance
 
 
 Inheritance
-
-
-97
 
 
 by  the  children  is  quite  modern,  and  this  information  receives
@@ -5084,14 +4657,6 @@ to  their  children,  but  at  this  second  transmission,  the  rights
 garden  for  himself  in  Pentecost,  it  goes  to  the  sister’s  son.
 
 
-R  M.  S.  II.
-
-
-7
-
-
-98  Melanesian  Society
-
 of  others  were  recognised  ;  it  is  clear  that  those  who  suc¬
 ceeded  to  the  land  of  their  father  had  to  make  certain
 payments  to  their  fathers  brothers,  and  if  such  payments
@@ -5138,9 +4703,6 @@ In  the  Western  Solomons,  there  is  a  somewhat  complicated
 condition  ol  inheritance  ol  land  which  arises  out  of  communal
 ownership  (see  Chapter  xxi),  but  personal  possessions  pass
 altogether  to  the  children.
-
-
-99
 
 
 Chieftainship
@@ -5300,8 +4862,6 @@ lineal  succession.
 I  may  point  out  that  if  patrilineal  inheritance  and  succession
 
 
-102  Melanesian  Society
-
 have  arisen  through  a  gradual  increase  in  the  recognition
 of  the  relation  of  a  father  to  his  child,  it  is  easy  to  see  why
 descent  should  have  lagged  so  much  behind,  and  still  remains
@@ -5451,11 +5011,8 @@ matrilineal  descent,  a  girl  would  be  taken  by  a  man  from  the
 opposite  moiety  and  put  in  the  charge  of  his  mother,  a  woman
 
 
-106  Melanesian  Society
-
 who  would  be  the  sister  of  one  of  the  elder  men  of  his  own
-moiety.  By  such  a  proceeding  it  would  seem  that  the  would-
-be  husband  might  incur,  not  only  the  wrath  of  the  members
+moiety.  By  such  a  proceeding  it  would  seem  that  the  wouldbe  husband  might  incur,  not  only  the  wrath  of  the  members
 of  the  other  moiety,  but  also  that  of  the  senior  men  of  his
 own  who  would  thus  be  deprived  of  a  potential  wife.  If
 there  were  such  opposition  from  members  of  both  moieties
@@ -5546,8 +5103,6 @@ Melanesian  mind.
 In  this  hypothetical  sketch  the  most  important  assump¬
 tion  is  in  the  part  I  have  assigned  to  the  father,  and  at  the
 
-
-108  Melanesian  Society
 
 same  time  it  is  one  of  the  greatest  theoretical  interest.  If
 I  am  right,  we  have  in  such  an  action  on  the  part  of  the
@@ -5743,8 +5298,6 @@ sisters.  It  is  from  these  islands  that  I  obtained  definite  evi¬
 dence  of  the  practice  of  giving  a  daughter  instead  of  a  wife
 
 
-1 1 2  Melanesian  Society
-
 which  I  have  made  so  important  a  feature  of  my  scheme  of
 the  evolution  of  the  cross-cousin  marriage  (see  n,  61).  The
 case  is  not  quite  straightforward,  for  on  my  hypothesis  it  is
@@ -5840,8 +5393,6 @@ ambiguity  of  the  older  terms  when  there  disappeared  the
 R.  M.  S.  II.  O
 
 
-1 14  Melanesian  Society
-
 forms  of  marriage  which  have  so  strangely  affected  systems
 of  relationship  in  other  parts  of  Melanesia.
 
@@ -5900,8 +5451,7 @@ who  had  settled  both  in  this  island  and  in  the  Torres  Islands
 had  noted  a  great  contrast  in  this  respect,  and  had  been
 especially  struck  by  the  buying  of  wives  in  Vanikolo  and  its
 absence  in  the  Torres  Islands.  Similarly,  the  evidence  of
-Joest  and  O  Ferrall  points  clearly  to  the  custom  of  paying-
-for  a  wife  in  Santa  Cruz.  It  is  possible  that  the  practice  may
+Joest  and  O  Ferrall  points  clearly  to  the  custom  of  payingfor  a  wife  in  Santa  Cruz.  It  is  possible  that  the  practice  may
 not  be  the  same  in  different  districts  j  but  if  I  am  right  in
 supposing  that  payment  for  a  wife  indicates  the  cessation  of
 marriage  with  relatives,  we  can  conclude  that  these  marriages
@@ -6004,8 +5554,7 @@ sons  of  a  family  who  married  the  wives  of  their  father’s
 brothers  or  whether  the  practice  extended  to  all  the  sons.
 
 In  the  system  of  Vella  Lavella  there  are  a  number  of
-features  which  are  evidently  closely  related  to  those  of  Eddy-
-stone  and  must  have  a  similar  origin.  Here  again,  there  is  a
+features  which  are  evidently  closely  related  to  those  of  Eddystone  and  must  have  a  similar  origin.  Here  again,  there  is  a
 doubt  about  the  exact  extension  of  the  terms,  but  it  is  almost
 certain  that  the  wives  of  both  elder  and  younger  brothers  are
 classed  with  the  mother,  and  that  reciprocally,  women  class  the
@@ -6041,8 +5590,6 @@ sister  of  the  wife  was  sometimes  called  menggora ,  but  this
 may  either  have  been  a  mistake  or  the  result  of  some  later
 process  of  generalisation.
 
-
-1 1 8  Melanesian  Society
 
 The  terminology  for  relationship  in  Eddystone  Island
 and  Vella  Lavella  thus  presents  certain  features  which  would
@@ -6143,8 +5690,6 @@ with  the  brother’s  daughter,  for  we  have  no  evidence  that  it
 was  ever  an  established  custom  for  a  man  to  give  a  wife  to
 
 
-120  Melanesian  Society
-
 a  younger  brother.  Nevertheless,  it  is  probable  that  the
 marriage  was  a  feature  of  the  decay  of  the  dominance  of  the
 old  men  ;  that  as  the  practice  of  individual  marriage  spread
@@ -6233,8 +5778,7 @@ The  most  generally  accepted  explanation  of  the  cross¬
 cousin  marriage  makes  it  the  direct  consequence  of  the
 dual  organisation  of  society.  If,  in  this  form  of  social
 organisation,  two  persons  of  the  same  generation  marry,  they
-must  before  marriage  stand  to  one  another  in  the  classifi-
-catory  relation  of  cross-cousin  ;  it  has  been  held  that  the
+must  before  marriage  stand  to  one  another  in  the  classificatory  relation  of  cross-cousin  ;  it  has  been  held  that  the
 whole  matter  is  explained  by  supposing  that  these  persons
 
 
@@ -6337,8 +5881,6 @@ of  the  woman  marries  the  sister  of  the  man,  either  at  the
 1  Gray,  loc.  cit.
 
 
-1 24  Melanesian  Society
-
 same  time  or  later.  This  custom  occurs  in  Torres  Straits1,
 but  does  not  appear  to  be  an  established  institution  anywhere
 in  the  region  of  Melanesia  dealt  with  in  this  book.  Here
@@ -6385,9 +5927,6 @@ tions  prohibiting  marriage  with  those  very  closely  related,  is
 1  Rep.  Camb.  Exp.  to  Torres  Str.  V,  125.
 
 2  Forschungcn...,  Ill,  18.
-
-
-125
 
 
 Payment  for  a  IVife
@@ -6437,11 +5976,8 @@ if  a  man  marries  one  who  should  normally  be  his  wife,  so  that
 there  is  at  least  one  piece  of  definite  evidence  in  favour  of  the
 
 
-1 26  Melanesian  Society
-
 hypothesis.  There  is,  however,  a  great,  if  not  insuperable
-difficulty  in  the  way  of  its  acceptance,  viz.,  that  the  bride-
-price  goes  to  the  immediate  relatives  of  the  bride  and  to
+difficulty  in  the  way  of  its  acceptance,  viz.,  that  the  brideprice  goes  to  the  immediate  relatives  of  the  bride  and  to
 members  of  her  own  social  group,  and  not  to  those  who  have
 been  deprived  of  a  potential  wife.  It  is  clear  that  if  the
 bride-price  were  a  recompense  for  the  loss  of  a  prospective
@@ -6513,14 +6049,11 @@ evidence  for  communism  which  may  seem  to  be  derived  from
 the  terms  of  relationship,  and  then  pass  on  to  the  evidence  for
 
 
-1 28  Melanesian  Society
-
 the  existence  of  actual  communistic  relations  in  Melanesia
 at  the  present  time  or  in  the  recent  past.  Only  after  I  have
 established  the  existence  of  such  communism  in  the  history
 of  Melanesian  society,  shall  I  consider  how  far  it  can  be
-regarded  as  a  social  institution  to  which  the  term  “group-
-marriage  ”  can  properly  be  applied.
+regarded  as  a  social  institution  to  which  the  term  “groupmarriage  ”  can  properly  be  applied.
 
 Certain  features  of  the  classificatory  system  of  relationship
 have  been  often  regarded  as  evidence  in  favour  of  sexual
@@ -6613,11 +6146,6 @@ of  the  mother’s  brother  are  all  potential  wives  (see  1,  48),
 
 r.  m.  s.  II.
 
-
-9
-
-
-130  Melanesian  Society
 
 we  may  conclude  with  some  assurance  that  the  wife  of  the
 sister’s  son  was  also  a  potential  wife,  and  the  mother’s  brother
@@ -6718,8 +6246,6 @@ word  did  not  represent  a  fact.  In  Pentecost  also  the  word
 9—2
 
 
-132  Melanesian  Society
-
 for  mother,  ratahi ,  with  the  same  plural  prefix,  means  the
 sisters,  and  Dr  Codrington  supposes  that  the  term  originally
 meant  the  “sister  members”  of  the  moiety  who  are  the
@@ -6769,9 +6295,6 @@ known  to  the  people  who  avoid  the  terms,  but  is  a  feature  of
 Avoidance
 
 
-133
-
-
 practical  importance  in  their  lives.  It  is  evident  that  the
 possibility  of  sexual  relations  between  a  group  of  men  and
 a  group  of  women  of  considerable  size  is  constantly  present
@@ -6817,8 +6340,6 @@ Banks  group,  the  wife’s  sister  is  still  addressed  by  her  personal
 name.  In  Hiw  this  is  almost  certainly  habitual,  and  we  may
 therefore  conclude  that  in  this  island  sexual  relations  are
 
-
-134  Melanesian  Society
 
 habitual  also ;  in  other  words,  that  sexual  communism  is  still
 in  existence  in  this  island.  Though  the  wife’s  sister  may  also
@@ -6870,9 +6391,6 @@ make  it  absolutely  certain  to  all  that  such  relations  have  not
 A  voidance
 
 
-135
-
-
 taken  place,  there  is  no  way  in  which  he  can  do  so  more
 surely  than  by  calling  this  relative  his  sister.  It  is  very
 significant  that  the  Torres  Islands  should  be  the  seat  of  this
@@ -6918,8 +6436,6 @@ time.  Sexual  communism  has  been  demonstrated  for  these
 islands,  but  it  remains  uncertain  whether  this  communism  is  a
 mere  occasional  occurrence,  perhaps  even  a  late  development,
 
-
-1 36  Melanesian  Society
 
 or  whether  it  was  an  ancient  and  organised  system.  If
 only  a  recent  development,  there  is  no  reason  to  suppose
@@ -7021,8 +6537,6 @@ affording  such  an  alternative.  In  these  islands  it  is  said  that
 if  a  woman  gives  birth  to  a  child  of  a  sex  other  than  she  has
 
 
-1 38  Melanesian  Society
-
 desired,  she  will  strangle  the  child  unless  someone  should
 intervene  and  say  “Do  not  do  that!”  in  which  case  the
 speaker  becomes  the  adoptive  parent  of  the  child  and  must
@@ -7119,8 +6633,6 @@ right  to  assist  in  the  care  and  nurture  of  the  child,  a  right
 which  is  now  satisfied  ceremonially  by  each  woman  being
 
 
-1 40  Melanesian  Society
-
 allowed  to  hold  the  child  for  a  time.  As  we  shall  see  later,
 a  similar  handing  round  occurs  when  a  canoe  is  used  for  the
 first  time,  and  there  is  reason  to  believe  that  this  custom  may
@@ -7214,8 +6726,6 @@ starting  point  a  society  organised  on  the  dual  basis  with
 matrilineal  descent,  with  the  classificatory  system  already
 developed  in  its  main  features,  and  with  the  recognition  of
 
-
-142  Melanesian  Society
 
 generations  and  of  the  different  status  of  the  members  of
 these  different  generations,  and  yet  without  the  institution  of
@@ -7315,8 +6825,6 @@ may  be  answered  that,  as  other  kinds  of  individual  property
 developed,  the  idea  that  women  might  be  private  property
 
 
-1 44  Melanesian  Society
-
 also  arose  and  grew.  But  this  is  only  putting  the  difficulty
 farther  back,  for  why  should  the  desire  for  individual  pro¬
 perty  have  arisen  ?  It  is  a  question  whether  the  develop¬
@@ -7366,9 +6874,6 @@ transition  from  this  condition  to  one  in  which  sexual  relations
 “  Group-marriage ”
 
 
-145
-
-
 are  limited  to  individual  men  and  women,  a  transition  to
 the  condition  we  find  in  Melanesia  at  the  present  time,
 where  there  is  undoubtedly  present  that  special  bond  between
@@ -7412,17 +6917,11 @@ of  sexual  relations.
 If,  therefore,  we  are  to  regard  the  determination  of  social
 status  as  the  essential  function  of  marriage,  it  seems  clear  that
 the  group-relations  I  have  assumed  can  hardly  be  regarded  as
-marriage.  I  prefer,  therefore,  not  to  use  the  term  “group-
-marriage,”  but  to  speak  only  of  sexual  communism.
-
-
-R.  M.  S.  II.
+marriage.  I  prefer,  therefore,  not  to  use  the  term  “groupmarriage,”  but  to  speak  only  of  sexual  communism.
 
 
 IO
 
-
-1 46  Melanesian  Society
 
 Communism  of  property  in  Melanesia.
 
@@ -7488,8 +6987,7 @@ allied  to  that  of  the  Banks  Islands.
 
 I  have  no  information  about  property  from  either  the
 Torres  or  the  Santa  Cruz  Islands,  and  my  only  satisfactory
-evidence  from  the  Solomons  comes  from  the  island  of  Eddy-
-stone  with  its  relatively  advanced  culture.  Here  it  is  a
+evidence  from  the  Solomons  comes  from  the  island  of  Eddystone  with  its  relatively  advanced  culture.  Here  it  is  a
 striking  fact  that,  side  by  side  with  the  existence  of  individual
 marriage  in  a  most  definite  form,  there  still  exists  a  large
 degree  of  community  in  the  ownership  of  land.  No  piece
@@ -7525,8 +7023,6 @@ on  the  other  hand,  individual  property  in  land  is  clearly
 
 I
 
-
-148  Melanesian  Society
 
 recognised,  though  complicated  by  many  practices  which  bear
 witness  to  communistic  ideas.  And  yet  marriage  among  the
@@ -7573,9 +7069,6 @@ their  own  use  long  before  their  monopoly  of  the  women
 began,  and  that  it  was  during  the  interval  between  the
 origins  of  the  two  forms  of  individual  possession  that  the
 custom  of  transmitting  such  individual  property  to  the  sisters’
-
-
-149
 
 
 Communism  and  social  groupings
@@ -7782,11 +7275,8 @@ here  also  the  avoidance  would  have  been  the  result  of
 laxity  set  up  by  Polynesian  or  other  external  influence
 
 1  It  seems  clear  that  it  also  exists  in  New  Caledonia,  and  Speiser  has  recently
-recorded  the  custom  in  the  southern  part  of  Pentecost  ( Siidsee ,  Urwald,  Kanni-
-baleii ,  Leipzig,  1913,  p.  217).
+recorded  the  custom  in  the  southern  part  of  Pentecost  ( Siidsee ,  Urwald,  Kannibaleii ,  Leipzig,  1913,  p.  217).
 
-
-1 54  Melanesian  Society
 
 which  has  affected  those  islands.  It  may  be  noted  that  it
 is  not  necessary  to  suppose  that  the  Polynesians  or  any
@@ -7980,8 +7470,6 @@ formulated,  and  I  suppose  that  this  formulation  has  grown
 gradually  more  precise  until  the  respective  rights  of  father
 
 
-158  Melanesian  Society
-
 and  mother’s  brother  are  clearly  defined  and  recognised
 by  all.
 
@@ -8078,8 +7566,6 @@ function,  and  there  is  reason  to  believe  that  such  reciprocity
 actually  exists.  When  making  inquiries  into  the  functions  of
 
 
-1 60  Melanesian  Society
-
 the  mothers  brother,  I  have  on  several  occasions  met  with
 apparent  contradictions  on  the  part  of  my  informants.  Thus,
 to  go  back  to  my  earliest  work  in  Torres  Straits1,  I  noted
@@ -8118,8 +7604,7 @@ can  take  anything  belonging  to  her  nephew,  while  the  latter
 can  only  take  the  possessions  of  his  aunt  with  her  permission,
 thus  reversing  the  usual  mode  of  conduct  of  a  man  towards
 his  mother’s  brother.  In  the  one  case,  it  is  the  senior  who
-has  a  right  to  property;  in  the  other,  it  is  the  junior  who  now-
-exercises  the  right,  even  if  at  one  time  the  right  was  reci¬
+has  a  right  to  property;  in  the  other,  it  is  the  junior  who  nowexercises  the  right,  even  if  at  one  time  the  right  was  reci¬
 procal.  There  are  also  certain  avoidances  between  a  woman
 
 1  Reports  Cambridge  Expedition  to  Torres  Straits ,  Vol.  v.,  p.  146,  1904.
@@ -8180,11 +7665,6 @@ has  an  important  share,  while  she  takes  the  leading  part  in
 1 1
 
 
-R.  M.  S.  II.
-
-
-1 62  Melanesian  Society
-
 the  rite  of  initiation  into  the  Avtagataga  rank  of  the  Sukwe ,
 which  is  the  only  occasion  on  which  women  participate  in
 the  ritual  of  this  institution.
@@ -8234,8 +7714,6 @@ of  the  functions  must  have  arisen  since  the  time  when  this
 
 The  Father  s  Sister
 
-
-163
 
 relative  was  a  potential  wife.  It  is  unlikely  that,  when  the
 father’s  sister  was  the  potential  wife  of  her  nephew,  she  at
@@ -8381,8 +7859,6 @@ that  the  brother’s  son  was  formerly  himself  the  prospective
 or  actual  husband,  but  this  meets  with  certain  difficulties.
 
 
-1 66  Melanesian  Society
-
 Taking  only  the  position  of  the  father’s  sister  as  potential
 wife,  the  suggestion  naturally  arises  that  when  a  woman  was
 no  longer  married  by  her  brother’s  son,  it  was  in  cases  where
@@ -8478,8 +7954,6 @@ customs.  While  the  Vanikolo  practice  may  be  connected  with
 1  Erromanga ,  London,  1902,  p.  394.
 
 
-1 68  Melanesian  Society
-
 mother-right,  that  of  Eromanga  would  seem  to  be  associated
 with  polygyny,  while  the  nature  of  the  term  for  grandchild
 suggests  that  the  custom  may  be  recent.
@@ -8542,8 +8016,7 @@ In  the  Banks  Islands  a  man  must  not  address  his  wife’s
 father  familiarly,  and  must  not  take  anything  from  above  his
 head  or  pass  him  when  he  is  sitting.  The  reciprocal  rela¬
 tionship  of  walui ,  i.e.,  brother’s  wife  and  sister’s  husband,
-has  similar  rules,  but  less  strict  than  in  the  case  of  the  parent-
-in-law.  In  the  Torres  Islands  there  are  similar  rules;  a  man
+has  similar  rules,  but  less  strict  than  in  the  case  of  the  parentin-law.  In  the  Torres  Islands  there  are  similar  rules;  a  man
 will  not  approach  his  daughter’s  husband  when  he  is  sitting
 down,  and  this  reserve  is  reciprocated  by  the  latter.  Neither
 of  these  relatives  will  take  a  load  directly  from  the  shoulder
@@ -8575,8 +8048,6 @@ peculiar  position  in  these  customs  of  avoidance.  Both  in  the
 Banks  and  Torres  Islands,  it  is  only  necessary  for  a  man  to
 say  that  an  object  is  the  head  of  a  relative  by  marriage  and
 
-
-1 70  Melanesian  Society
 
 that  object  becomes  taboo  (see  1,  44).  If  two  men  are
 quarrelling,  it  is  only  necessary  for  a  man  to  say,  “If  you  go
@@ -8735,8 +8206,6 @@ of  the  Banks  Islands,  in  the  Torres  Islands,  in  Malaita  and
 1  See  Comparative  Table  at  the  end  of  the  first  volume  for  full  lists  of  terms.
 
 
-1 74  Melanesian  Society
-
 Vella  Lavella  in  the  Solomon  Islands,  and  also  in  Rafurafu  in
 San  Cristoval  where  it  has  the  male  prefix  wa.  In  the  Nggao
 system  of  Ysabel,  ma  is  used  with  the  possessive  suffix  which
@@ -8834,8 +8303,6 @@ used  in  Ulawa  and  San  Cristoval  irrespective  of  age.  Santa
 Cruz  has  the  term  kalengi.  In  the  Banks  and  Pentecost  we
 
 
-1 76  Melanesian  Society
-
 meet  again  with  the  Fijian  and  Solomon  word  in  the  forms
 tugak ,  ogak  and  tuaga .  In  the  Torres  Islands  the  word  used
 irrespective  of  age  is  tigi  or  teii.
@@ -8885,9 +8352,6 @@ throughout  Melanesia  and  occur  also  in  Polynesia,  the  term
 
 
 The  Mother's  Brother
-
-
-177
 
 
 for  younger  brother  (m.s.)  or  younger  sister  (w.s.)  being  even
@@ -8942,11 +8406,6 @@ a  mistake.
 R.  M.  s.  11.
 
 
-12
-
-
-1 78  Melanesian  Society
-
 for  this  relative,  a  diversity  even  greater  than  for  the  mother,
 child,  and  the  brother-sister  relationship.
 
@@ -8997,9 +8456,6 @@ woman.”
 
 
 Linguistic  Comparison
-
-
-179
 
 
 Grandparent  and  grandchild.
@@ -9149,8 +8605,6 @@ direct  and  remote  consequence  of  one  of  the  anomalous
 1  See  I,  33  and  Codrington,  41.
 
 
-1 82  Melanesian  Society
-
 forms  of  Melanesian  marriage  of  which  there  is  no  direct
 evidence  in  the  Solomons.
 
@@ -9193,8 +8647,7 @@ parents  of  a  consort ;  one  occurring  in  Polynesia,  Tanna,
 Aniwa,  Fiji,  and  the  Solomons;  the  other  in  the  Torres  and
 Banks  Islands  and  Pentecost.
 
-There  is  far  less  constancy  in  the  designations  for  brothers-
-and  sisters-in-law.  Excluding  those  cases  in  which  these
+There  is  far  less  constancy  in  the  designations  for  brothersand  sisters-in-law.  Excluding  those  cases  in  which  these
 relatives  are  classed  with  the  husband  or  wife,  we  find  in
 
 
@@ -9247,8 +8700,6 @@ The  results  of  the  linguistic  comparison  of  the  terms
 denoting  relationship  in  Polynesia  and  Melanesia  may  be
 summed  up  as  follows  : —
 
-
-1 84  Melanesian  Society
 
 There  is  far  greater  uniformity  throughout  Oceania  in
 the  nomenclature  for  the  father  than  for  the  mother.  For
@@ -9444,8 +8895,6 @@ social  evolution  of  Melanesian  society  which  was  left  on  one
 side  in  the  earlier  discussion.  In  tracing  out  this  evolution
 
 
-1 88  Melanesian  Society
-
 little  reference  was  made  to  any  conditions  which  might  have
 produced,  or  formed  the  starting-point  of,  the  changes  from
 one  form  of  marriage  to  another.  The  growing  recognition
@@ -9531,16 +8980,13 @@ view  that  the  disappearance  of  the  granddaughter  marriage
 was  directly  due  to  the  foreign  influence.  It  has  been  seen
 (see  11,  61)  that,  if  the  old  men  began  to  give  their  daughters
 to  their  sisters’  sons  instead  of  their  wives,  the  marriage  with
-the  granddaughters  of  the  brothers  would  necessarily  dis-
-appear,  because  these  women  would  have  already  been  given
+the  granddaughters  of  the  brothers  would  necessarily  disappear,  because  these  women  would  have  already  been  given
 in  marriage.  In  the  Banks  Islands,  however,  there  is  no
 reason  to  believe  that  this  took  place,  for  we  have  no  evi
 dence  of  the  presence  of  the  cross-cousin  marriage,  either  at
 present  or  in  the  past,  except  in  Merlav  the  social  organisa¬
 tion  of  which  departs  widely  from  that  of  other  islands  ot  the
 
-
-1 90  Melanesian  Society
 
 group.  In  these  islands,  we  have  definite  evidence  against
 the  existence  of  the  cross-cousin  marriage,  for  the  method  of
@@ -9638,8 +9084,6 @@ furnish  terms  for  those  relationships  vitally  affected  by  the
 changes.  It  remains  to  consider  how  far  these  changes  may
 
 
-1 92  Melanesian  Society
-
 be  directly  ascribed  to  such  an  external  influence,  and  how
 far  they  may  have  been  merely  the  result  of  the  state  of
 unrest  which  an  external  influence  would  set  up.
@@ -9735,9 +9179,6 @@ sisters  are  found,  but  not  those  for  relatives  by  marriage,  a
 
 
 R.  m.  s.  II.
-
-
-13
 
 
 jg4  Melanesian  Society
@@ -9841,8 +9282,6 @@ have  a  possible  motive  for  the  different  terms  used  by  the
 13—2
 
 
-196  Melanesian  Society
-
 parents.  It  is  possible  that  the  double  nomenclature  for
 the  child  once  existed  in  Melanesia,  and  that  the  single
 term  which  has  survived  in  many  places  is  that  which  was
@@ -9894,9 +9333,6 @@ fixed  pronouns  of  Savo  and  Vella  Lavella,  for  the  languages
 Possessive  Forms
 
 
-197
-
-
 of  these  islands  depart  widely  from  the  Melanesian  type
 and  belong  to  a  wholly  different  family  or  families.  The
 forms  found  in  Fiji  are  of  more  importance  for  my  present
@@ -9944,8 +9380,6 @@ Lau  and  Fiu  systems  of  Malaita,  on  the  other  hand,  the  great
 
 1  The  possessive  noun  also  occurs  in  Malaita  and  the  Shortland  Islands.
 
-
-198  Melanesian  Society
 
 majority  oi  the  terms  are  followed  by  pronouns  of  a  quite
 different  kind,  of  which  nau  stands  for  the  first  person
@@ -9996,9 +9430,6 @@ denote  the  relationship  between  two  persons  or  two  groups
 Collective  Forms
 
 
-199
-
-
 of  persons.  These  collective  forms  are  used  both  by  coastal
 and  inland  peoples,  and  I  am  indebted  to  Mr  Hocart  for  the
 information  that  the  collective  forms  are  used  in  the  mountains
@@ -10023,8 +9454,7 @@ vei  of  Fiji  ;  tamatasiy  tamaluluna  and  tamaivana  being  used  for
 brothers,  brothers  and  sisters,  and  brothers-  and  sisters-in-law
 respectively.  In  Ulawa  there  is  an  even  closer  resemblance
 to  Fiji.  In  this  island  the  collective  prefix  is  rohaiy  mother
-and  child  being  rohainikeina  and  two  brothers-in-law  rohai-
-ihana .  The  meaning  of  ro  is  two,  and  the  had  is  certainly
+and  child  being  rohainikeina  and  two  brothers-in-law  rohaiihana .  The  meaning  of  ro  is  two,  and  the  had  is  certainly
 related  to  the  vei  of  Fiji.
 
 It  is  probable  that  a  more  complete  inquiry  would  show
@@ -10049,8 +9479,6 @@ vidual.  If  the  collective  terms  used  by  the  new  settlers  were
 adopted  by  the  earlier  inhabitants,  there  would  come  about  a
 condition  in  which  they  would  use  their  own  terms  in  address
 
-
-200  Melanesian  Society
 
 or  when  speaking  of  individuals,  while  they  would  use  the
 collective  terms  when  speaking  of  a  group  of  relatives  of  a
@@ -10099,9 +9527,6 @@ part,  an  introduced  practice.
 Terms  used  in  Address
 
 
-201
-
-
 Vocative  Forms .
 
 Throughout  Melanesia  many  terms  of  relationship,  and
@@ -10147,8 +9572,6 @@ mountain  tribes.
 The  evidence  from  the  Solomons  and  Fiji  thus  suggests
 that  when  two  widely  different  terms  are  used  for  a  relative,
 
-
-202  Melanesian  Society
 
 one  in  address  and  the  other  in  ordinary  conversation,  the
 former  belongs  to  an  older  linguistic  stratum.  This  con¬
@@ -10203,8 +9626,7 @@ The  only  exception  is  that  the  term  for  relatives  by  marriage
 of  the  same  generation,  zva,  is  not,  so  far  as  we  know,  found
 in  Polynesia.  It  may  be  noted  also  that  of  the  Fijian
 terms  which  suffix  the  pronoun  and  yet  are  not  widely  dis¬
-tributed  throughout  Melanesia,  that  denoting  the  brother-
-sister  relation,  ngane ,  is  also  found  in  Polynesia.
+tributed  throughout  Melanesia,  that  denoting  the  brothersister  relation,  ngane ,  is  also  found  in  Polynesia.
 
 It  thus  appears  that  nearly  every  term  which  I  suppose
 to  have  been  introduced  into  Melanesia  by  an  external
@@ -10244,8 +9666,6 @@ present  condition  of  Melanesian  society  is  the  result  of  the
 interaction  of  two  peoples,  one  of  which,  broken  up  into
 small  groups,  speaking  widely  diverse  languages  and  having
 
-
-204  Melanesian  Society
 
 little  communication  with  one  another,  possessed  the  dual
 organisation  with  matrilineal  descent.  I  shall  assume  that
@@ -10310,8 +9730,6 @@ only  place  in  the  British  Solomon  Islands  in  which  there
 1  Since  this  was  written  I  have  heard  from  Mr  J.  W.  Blencowe  that  there  is  an
 organisation  having  some  resemblance  to  the  Banks  Sukwe  in  Utupua.
 
-
-206  Melanesian  Society
 
 is  any  definite  evidence  of  secret  societies  is  the  island  of
 Florida,  in  the  matrilineal  region  of  the  eastern  part  of  the
@@ -10404,11 +9822,8 @@ certain  occasions  women  are  allowed  to  enter  the  gamal ,
 and  they  habitually  see  some  of  the  proceedings  which  take
 place  in  its  immediate  neighbourhood.
 
-The  resemblance  of  the  gamal  to  the  men’s  sleeping-
-house  or  club-house,  found  in  other  parts  of  Melanesia  and
+The  resemblance  of  the  gamal  to  the  men’s  sleepinghouse  or  club-house,  found  in  other  parts  of  Melanesia  and
 
-
-208  Melanesian  Society
 
 elsewhere,  is  obvious.  The  special  features  which  need  ex¬
 planation  in  the  Banks  Islands  are  the  existence  of  differences
@@ -10506,9 +9921,6 @@ other  kinds,  see  Codrington,  216.
 
 
 R.  M.  s.  11.
-
-
-14
 
 
 2 1  o  Melanesian  Society
@@ -10614,8 +10026,6 @@ may  well  have  introduced  the  general  principle  of  division
 14 — 2
 
 
-2 1 2  Melanesian  Society
-
 and  rank,  but  it  is  out  of  the  question  that  it  could  have
 led  to  the  large  number  of  ranks  which  now  exist.  Let  us
 suppose,  however,  that  the  aborigines  came  into  the  Sukwe
@@ -10711,8 +10121,6 @@ come  into  being  which  do  not  belong  to  either  of  the  com¬
 ponent  cultures,  but  are  the  result  of  the  interaction  between
 
 
-214  Melanesian  Society
-
 the  two.  I  take  as  an  example,  by  means  of  which  to
 illustrate  this  subject,  the  representation  of  death  which
 seems  to  be  one  of  the  leading,  if  not  the  leading,  motive  of
@@ -10770,8 +10178,7 @@ The  Societies  and  Death
 in  so  many  departments  of  life.  It  would  account  for  the
 respect  paid  to  the  taboo-marks  of  the  immigrants,  for  the
 disappearance  of  all  uninitiated  persons  when  the  tamate
-are  abroad,  and  for  the  powers  of  extortion  and  terror-
-isation  possessed  by  the  societies.  It  would  also  help  to
+are  abroad,  and  for  the  powers  of  extortion  and  terrorisation  possessed  by  the  societies.  It  would  also  help  to
 explain,  from  the  aboriginal  point  of  view,  why  admission  to
 the  society  of  the  gamal  should  be  a  necessary  preliminary
 to  participation  in  the  rites  of  the  Tamate  societies ;  it  would
@@ -10813,8 +10220,6 @@ to  owe  its  explanation  to  the  desire  of  the  immigrants  to
 
 1  See  Hibbert  Journal ,  1912,  X,  393.
 
-
-2 1 6  Melanesian  Society
 
 confirm  a  delusion  of  the  aborigines ;  and,  since  the  mouth  of
 the  candidate  would  be  shut  to  the  uninitiated,  the  ceremony
@@ -10916,8 +10321,6 @@ one  hand,  and  the  Banks  Islands  and  New  Hebrides,  on
 3  Ten  Years  in  Melanesia ,  London,  1887.
 
 
-2 1 8  Melanesian  Society
-
 the  other  hand.  While  in  the  former  the  religious  cult
 centres  round  ghosts  who  have  once  been  men,  the  ordi¬
 nary  cult  of  the  Banks  and  New  Hebrides  is  that  of  spirits
@@ -10971,9 +10374,6 @@ the  former  and  “  spirit  ”  for  the  latter  class  of  being.
 Taboo
 
 
-219
-
-
 an  immigrant  institution,  it  follows  that  the  immigrants  were
 not  communistic,  but  possessed  the  institution  of  private
 property,  and  used  their  taboo-marks  to  protect  their  property
@@ -11019,8 +10419,6 @@ this.  The  dread  inspired  by  the  secret  organisation  may
 have  put  into  the  hands  of  the  immigrants  a  means  of
 
 
-220  Melanesian  Society
-
 enforcing-  their  individualistic  principles  in  regard  to  property
 which  was  more  potent  than  their  influence  in  those  places
 where  the  societies  did  not  exist.  Sexual  communism,  on
@@ -11060,19 +10458,14 @@ sations  of  the  Banks  Islands  for  traces  of  totemism,  one
 must  at  once  be  struck  by  the  animal  nature  of  the  masks
 from  which  so  many  of  the  Tamate  societies  derive  their
 names.  Especially  significant  in  this  respect  are  the  Kwat
-and  its  subsidiary  societies.  The  turtle,  the  shark,  the  sea-
-snake,  the  eel  and  several  kinds  of  fish,  after  which  the
+and  its  subsidiary  societies.  The  turtle,  the  shark,  the  seasnake,  the  eel  and  several  kinds  of  fish,  after  which  the
 various  sub-societies  are  named,  are  totems  elsewhere  in
 
 
-1  Another  region  where  totemism  is  certainly  absent  is  that  comprising  Eddy-
-stone,  Ruviana  and  Vella  Lavella,  but  here  secret  societies  are  also  absent.
+1  Another  region  where  totemism  is  certainly  absent  is  that  comprising  Eddystone,  Ruviana  and  Vella  Lavella,  but  here  secret  societies  are  also  absent.
 
 
 Totemism
-
-
-221
 
 
 Melanesia,  while  the  only  division  of  this  society  which
@@ -11122,8 +10515,6 @@ on  the  use  of  the  tamate  of  a  Tamate  society  similar  to
 those  associated  with  totemism.  There  is,  however,  the
 fundamental  difference  between  the  two  that,  while  the  use
 
-
-222  Melanesian  Society
 
 of  the  totem  is  forbidden  to  the  members  of  a  totemic  group,
 the  use  of  a  tamate  is  allowed  to  the  members  of  a  Tatnate
@@ -11219,8 +10610,6 @@ means  of  telling  whether  their  prominent  position  is  due  to
 their  chieftainship  or  to  their  high  Sukwe  rank.  In  Motlav
 the  succession  of  the  chief  or  etvusmel  was  said  to  be  from
 
-
-224  Melanesian  Society
 
 father  to  son,  but  Dr  Codrington  shows1  that  this  may  only
 have  been  due  to  the  fact  that  such  a  man  would  have  the
@@ -11318,13 +10707,8 @@ Certain  features  of  the  Sukwe  and  Ta7nate  societies  have
 been  definitely  ascribed  to  the  culture  of  the  immigrants.  It
 
 
-R.  M.  S.  II.
-
-
 !5
 
-
-226  Melanesian  Society
 
 has  been  supposed  that  the  cult  of  the  dead  and  the  insti¬
 tutions  of  taboo,  totemism  and  chieftainship  were  brought
@@ -11416,8 +10800,7 @@ those  carried  out  in  the  Banks.
 
 In  the  New  Hebrides  there  are  also  societies,  called  Bweta ,
 Bwatu  or  Welu,  which  bear  a  general  resemblance  to  the
-Tamate  of  the  Banks,  but  it  would  appear  from  Dr  Codring-
-ton’s  account  that  they  are  less  numerous  and  their  ritual
+Tamate  of  the  Banks,  but  it  would  appear  from  Dr  Codrington’s  account  that  they  are  less  numerous  and  their  ritual
 
 1  These  words  should  properly  be  written  Sukmbwe  and  Hukmbwe ,  or
 Hunggmbwe ,  according  to  the  values  of  q  given  by  Dr  Codrington  (M.L.,  409
@@ -11427,8 +10810,6 @@ spelling.
 
 15—2
 
-
-228  Melanesian  Society
 
 less  elaborate  than  in  Mota.  In  Pentecost  every  male
 becomes  a  member,  initiations  taking-  place  at  intervals  of
@@ -11536,8 +10917,6 @@ nature  of  the  two  rites.  They  suggest  that  the  branding
 1  A 94.  See  also  Ray,  Zeit.f.  afrikan.  u.  ozeatt.  Sprachen ,  1897,  in,  214.
 
 
-230  Melanesian  Society
-
 is  an  original  feature  which  should  accompany  the  clasping
 of  the  six  stakes  in  Mota,  but  has  fallen  into  desuetude.
 
@@ -11583,9 +10962,6 @@ the  absence  of  the  vested  interests  set  up  by  such  payments
 made  the  abolition  of  the  societies  a  far  easier  matter  than
 elsewhere  in  Melanesia.  The  efforts  of  the  early  missionaries
 to  destroy  the  organisation,  together  with  the  effect  produced
-
-
-231
 
 
 The  Nanga  of  Fiji
@@ -11638,8 +11014,6 @@ closely  similar  to  that  of  southern  Melanesia.
 1889,  11,  254;  B.  Thomson,  The  Fijians,  1908,  p.  149.
 
 
-232  Melanesian  Society
-
 The  limitation  of  the  Nanga  cult  to  one  region  of  Viti
 Levu  suggests  that  the  mode  of  interaction  between  immi¬
 grants  and  aborigines  in  this  region  may  have  been  of  the
@@ -11686,9 +11060,6 @@ at  St  Philip’s  and  St  James’  Bay  in  Santo  (Espiritu  Santo),
 the  term  is  gamalix,  and  in  Epi  and  at  Ogugu  in  Santo,
 
 1  I  am  indebted  for  this  and  many  of  the  following  words  to  Mr  Ray.
-
-
-233
 
 
 Terms  for  Club-house
@@ -11818,8 +11189,6 @@ than  appears  from  Mariner’s  record.
 6  Ibid.,  1,  283.
 
 
-236  Melanesian  Society
-
 to  be  explained  in  this  way  will  be  put  aside  at  once.  The
 resemblances  with  Tonga  are  too  fundamental  to  be  explained
 by  such  invasions  as  that  which  occurred  in  the  latter  part  of
@@ -11918,8 +11287,6 @@ Tikopia  an  isolated  remnant  of  the  immigrant  invaders
 (see  1,  291).
 
 
-238  Melanesian  Society
-
 of  Melanesia  whose  culture  has  been  preserved  more  or  less
 unmixed  and  untouched  by  the  accident  of  isolation  ;  they
 suggest  that  this  isolation  has  preserved  the  main  features
@@ -12014,8 +11381,6 @@ ancient  condition  of  mother-right  in  Tikopia  is  that,  ten  days
 after  a  woman  has  borne  a  child,  she  is  taken  to  her  father’s
 
 
-240  Melanesian  Society
-
 house  where  she  stops  for  ten  days.  It  is  very  unlikely
 that  these  functions  of  relationship  have  been  due  to  external
 influence,  to  the  influence  of  Fijians  in  Tonga  and  to  that
@@ -12063,9 +11428,6 @@ their  approach  to  those  of  Melanesia  suggests  that  Tonga  and
 Tikopia  were  the  seat  of  a  process  of  blending  between  an
 
 
-241
-
-
 Polynesian  Secret  Societies
 
 aboriginal  people  and  the  immigrants,  though  owing  to  special
@@ -12081,8 +11443,7 @@ that  the  ancestors  of  the  Tongans  and  Tikopians  found  these
 islands  uninhabited,  it  would  follow,  either  that  they  practised
 matrilineal  descent  and  matrilocal  marriage,  or  that  they
 brought  with  them  the  survivals  of  these  institutions.  On
-the  whole,  it  seems  most  probable  that  the  traces  of  mother-
-right  are  the  survivals  of  an  aboriginal  culture  which  once
+the  whole,  it  seems  most  probable  that  the  traces  of  motherright  are  the  survivals  of  an  aboriginal  culture  which  once
 existed  in  Tonga  and  Tikopia.  It  may  be  pointed  out  that
 Tonga  is  so  near  Fiji  that  the  presence  of  an  aboriginal
 population  similar  to  that  of  Melanesia  is  far  from  improbable.
@@ -12114,13 +11475,9 @@ societies  of  persons  called  Areois ,  in  which  there  were  a
 number  of  ranks  similar  to  those  of  the  Melanesian  Sukwe.
 The  societies  were  entered  by  a  process  of  initiation,  and  both
 
-16
-
 
 R.  m.  s.  II.
 
-
-242  Melanesian  Society
 
 initiation  and  raising  to  a  higher  rank  were  accompanied  by
 ceremonies  of  which  the  offering  of  a  pig  formed  an  essential
@@ -12190,8 +11547,6 @@ where  the  custom  does  not  exist  being  New  Zealand  and
 
 16 — 2
 
-
-244  Melanesian  Society
 
 Easter  Island1.  In  both  places,  however,  the  word,  in  its
 usual  form  or  as  kawa ,  is  found  with  the  meaning  of  “bitter,”
@@ -12296,8 +11651,6 @@ an  obstacle  to  the  adoption  of  the  orthodox  Polynesian
 2  Robertson,  loc.  cit.
 
 
-246  Melanesian  Society
-
 procedure.  The  separation  between  different  ranks  of  the
 Sukwe  may  have  made  more  individual  methods  necessary,
 and  minor  variations  of  procedure  in  the  organisations  of
@@ -12397,8 +11750,6 @@ respect,  it  is  probable  that,  as  in  Tonga,  the  practice  is  recent.
 2  Joske,  Int.  Arch,  f  Ethnog.  1889,  II,  p.  263,  n.  2.
 
 
-248  Melanesian  Society
-
 from  those  of  Polynesia  and  of  other  regions  of  Melanesia.
 It  is  also  noteworthy  that  the  people  of  Pentecost  have  a
 tradition  of  the  origin  of  kava,  said  not  to  be  known  in  the
@@ -12451,9 +11802,6 @@ Nanga  organisation  were  performed.
 3  Fison ,  Journ.  Anth.  Inst.  1885,  XIV,  15.
 
 
-249
-
-
 Kava  and  the  Cult  of  the  Dead
 
 This  at  once  suggests  that  the  use  of  kava  belongs  to  the
@@ -12501,8 +11849,6 @@ region  forms  only  one  corner  of  a  vast  area  of  distribution
 extending  through  New  Guinea  and  the  Malay  Archipelago
 to  India.
 
-
-250  Melanesian  Society
 
 There  are  indications  that  the  area  of  distribution  has
 extended  its  limits  in  Oceania  in  relatively  late  times,  even  if
@@ -12564,16 +11910,14 @@ Cruz  Islands.  It  is,  of  course,  possible  that  certain  elements
 of  the  culture  of  the  betel-people  may  have  been  carried
 directly  or  indirectly  to  southern  Melanesia/  Fiji  and  Poly¬
 nesia,  but  it  seems  more  probable  that  we  have  in  the  culture
-of  these  regions  the  results  of  the  influence  of  the  kava-
-people  uncomplicated  by  the  culture  of  the  betel-people,
+of  these  regions  the  results  of  the  influence  of  the  kavapeople  uncomplicated  by  the  culture  of  the  betel-people,
 and  I  shall  proceed  upon  this  assumption  in  the  following
 chapters.
 
 In  the  Santa  Cruz  Islands,  where  both  betel  and  kava  are
 used,  it  is  clear  that  we  have  to  deal  with  elements  belonging
 to  the  three  cultures ;  and  for  reasons  I  have  already  con¬
-sidered,  we  can  be  confident  that  in  these  islands  the  kava-
-people  were  the  earlier,  and  the  betel-people  the  later,  comers.
+sidered,  we  can  be  confident  that  in  these  islands  the  kavapeople  were  the  earlier,  and  the  betel-people  the  later,  comers.
 It  must  at  present  be  left  an  open  question  whether  the
 betel-people  themselves  reached  these  islands,  or  whether
 certain  elements  of  their  culture,  including  betel,  may  not
@@ -12599,8 +11943,6 @@ blending  of  one  people  with  another  whose  culture  was  already
 complex ;  we  shall  have  to  inquire  how  far  elements  of  the
 culture  introduced  by  the  earlier  settlers  were  obliterated  or
 
-
-252  Melanesian  Society
 
 obscured  by  the  betel-people.  An  obvious  fact  to  be  dealt
 with  will  be  the  absence  of  kava  in  the  Solomons,  for  if
@@ -12641,8 +11983,7 @@ the  Tamate  societies,  and  it  is  the  culture  of  this  people  which
 is  enshrined  in  their  ritual ;  it  will  therefore  follow  that,  if
 the  kava-people  settled  in  the  Solomons,  it  is  the  matrilineal
 region  which  has  preserved  their  culture  most  purely.  I  pro¬
-pose  to  adopt  as  my  working  hypothesis  that  the  kava-
-people  settled  in  the  Solomons,  and  that  in  the  matrilineal
+pose  to  adopt  as  my  working  hypothesis  that  the  kavapeople  settled  in  the  Solomons,  and  that  in  the  matrilineal
 region  of  these  islands  there  has  been  preserved  the  culture
 resulting  from  the  blend  of  the  kava-people  with  the  dual
 
@@ -12654,8 +11995,7 @@ The  Kava-people  and  the  Solomons  253
 
 people,  but  relatively  little  influenced  by  the  betel-people,
 while  other  parts,  such  as  Ulawa  and  Malaita  and  the  more
-western  islands,  are  places  where  the  influence  of  the  betel-
-people  has  been  predominant.  It  is  noteworthy  that  the
+western  islands,  are  places  where  the  influence  of  the  betelpeople  has  been  predominant.  It  is  noteworthy  that  the
 matrilineal  islands  occupy  the  central  portion  of  the  Solomons,
 suggesting  that  the  betel-people  have  gradually  invaded  the
 islands  from  several  sides ;  it  is  probable  that  their  culture
@@ -12698,8 +12038,6 @@ I  now  return  to  the  substances  which  form  the  special
 
 1  Mitt.  Anthrop.  Ges.  Wien ,  1899,  XXIX,  251.
 
-
-254  Melanesian  Society
 
 subject  of  this  chapter.  I  have  spoken  of  the  culture  of
 the  matrilineal  region  of  the  Solomons  as  having  been  rela¬
@@ -12750,9 +12088,6 @@ The  constituents  of  betel-mixture,  on  the  contrary,  are
 always  at  hand.  They  are  carried  in  the  basket  or  bag
 
 
-255
-
-
 Origin  of  Kava
 
 ready  for  immediate  use  at  any  moment:  the  mixture  is  used*
@@ -12779,8 +12114,7 @@ or  is  made  only  in  order  that  it  may  be  used  as  a  religious
 offering.
 
 I  cannot  conclude  this  chapter  without  a  brief  consider¬
-ation  of  the  origin  of  kava-drinking.  The  practice  of  betel-
-chewing  is  widespread,  and  Melanesia  forms  but  one  corner
+ation  of  the  origin  of  kava-drinking.  The  practice  of  betelchewing  is  widespread,  and  Melanesia  forms  but  one  corner
 of  so  large  an  area  of  distribution  that  we  can  be  confident
 that  it  was  brought  into  Melanesia  by  an  immigrant  people
 as  a  fully  developed  practice.  With  kava  the  case  is  different.
@@ -12791,8 +12125,7 @@ for  the  origin  of  the  practice.  It  is  probable  that  it  was  not
 brought  by  the  kava-people  as  a  fully  developed  custom,  but
 arose  through  the  needs  and  conditions  of  their  new  home.
 
-The  suggestion  I  make  concerning  the  origin  of  kava-
-drinking  is  one  which  involves  a  conclusion  which  will  only
+The  suggestion  I  make  concerning  the  origin  of  kavadrinking  is  one  which  involves  a  conclusion  which  will  only
 be  reached  at  a  later  stage  of  my  argument  in  the  next
 chapter.  I  mention  it  only  in  order  to  be  able  to  deal  with
 the  origin  of  kava  now.
@@ -12801,8 +12134,6 @@ This  conclusion  is  that  there  was  no  very  great  differ¬
 ence  between  the  cultures  of  the  kava-people  and  the
 betel-people.  Probably  both  peoples  came  from  the  same
 
-
-256  Melanesian  Society
 
 part  of  the  world,  and  the  differences  between  them  are
 perhaps  to  be  explained  merely  by  the  lapse  of  time  between
@@ -12896,12 +12227,6 @@ which  I  denote  by  their  respective  uses  of  kava  and  betel.
 2  Somerville,  Journ.  Anth.  Inst.  1894,  XXiii,  380.
 
 
-R.  M.  S.  II.
-
-
-17
-
-
 CHAPTER  XXVII
 
 
@@ -12993,8 +12318,6 @@ p.  207)  has  recorded  definite  evidence  of  a  skull-cult  in  the  New  He
 
 17 — 2
 
-
-260  Melanesian  Society
 
 the  Western  Solomons  leaves  little  doubt  that  it  is  to  be
 ascribed  to  the  betel-people.  Indeed,  I  believe  it  to  be  so
@@ -13094,8 +12417,6 @@ head-hunting  peoples  of  Melanesia.
 2  M.,  264.
 
 
-262  Melanesian  Society
-
 the  Solomons,  however,  as  in  Savo,  we  find,  either  alone  or
 in  conjunction  with  the  more  widely  diffused  belief,  the  idea
 that  the  dead  go  into  volcanic  craters  or  caverns,  while  in  at
@@ -13141,9 +12462,6 @@ should  be  common  to  the  betel-people  of  the  Solomons
 and  the  kava-people  of  Polynesia  ;  the  fact  which  requires
 
 1  Stair,  Old  Samoa ,  1897,  pp.  217-9.
-
-
-263
 
 
 Home  of  the  Dead
@@ -13198,8 +12516,6 @@ women  who  die  in  childbirth.
 
 4  Taylor,  Te  Ika  a  Maui ,  1870,  p.  389.
 
-
-264  Melanesian  Society
 
 having  taken  place,  but  the  further  consideration  of  this
 problem  may  be  deferred  till  the  ritual  of  death  has  been
@@ -13299,8 +12615,6 @@ terred  in  this  position.
 
 3  Codrington,  M 265.  4  Ibid.  287.
 
-
-266  Melanesian  Society
 
 In  Malikolo  the  body  is  either  interred  or  exposed  on  a
 platform  until  it  decays,  when  the  bones  are  interred1.  A  chief
@@ -13420,8 +12734,6 @@ of  ordinary  people  are  either  interred  or  thrown  into  the  sea,
 6  Arch.  f.  Religionswiss.  1914,  XVII,  64.
 
 
-268  Melanesian  Society
-
 while  those  of  chiefs,  or  of  women  of  chiefs’  rank,  are  burnt ;
 the  bones  are  collected  from  the  ashes  and  are  thrown  into
 the  sea  or  into  rivers,  or  are  interred.  The  disposal  of  the
@@ -13523,8 +12835,6 @@ bodies  of  the  dead  are  placed  in  canoes  or  in  representatives
 of  canoes.  The  canoe  forms  a  feature  of  the  ritual,  both
 
 
-270  Melanesian  Society
-
 when  the  body  is  interred,  and  when  it  is  preserved  on  plat¬
 forms  or  in  the  house.  There  can  be  no  doubt  that  the
 function  of  the  canoe  is  to  convey  the  dead  to  their  future
@@ -13575,8 +12885,6 @@ some  parts  of  the  Solomons,  however,  the  practice  is  not  so
 Cave-burial
 
 
-271
-
 limited,  but  the  bodies  of  chiefs  may  be  thus  treated  if  they
 have  so  desired  before  their  death.  The  treatment  of  the
 bones  of  chiefs  after  cremation  in  the  islands  of  Bougainville
@@ -13611,8 +12919,7 @@ Polynesian  cases  the  caves  or  chasms  are  in  remote  and
 inaccessible  places,  and  their  situation  may  be  known  only
 to  a  few ;  it  is  clear  that  it  is  the  possibility  of  desecration
 which  has  acted  as  the  immediate  motive  for  the  removal
-of  the  dead  to  these  resting-places,  and  the  practice  of  cave-
-burial  may  have  come  about  in  this  way,  in  which  case  it
+of  the  dead  to  these  resting-places,  and  the  practice  of  caveburial  may  have  come  about  in  this  way,  in  which  case  it
 would  not  be  necessary  to  assign  it  to  any  special  culture
 or  cultures,  thus  producing  a  further  simplification  of  our
 problem.  I  shall  return  to  this  subject  again.  For  the
@@ -13626,8 +12933,6 @@ Travels ,  1813,  p.  155.
 
 3  Ellis,  Polynesian  Researches ,  1829,  I,  524-5.
 
-
-272  Melanesian  Society
 
 three  main  modes  of  disposing  of  the  bodies  of  the  dead :
 inhumation,  cremation  and  the  various  means  by  which  the
@@ -13729,8 +13034,6 @@ Western  British  Solomons,  to  be  published  by  Mr  Hocart  and  myself.
 
 R.  M.  s.  II.  To
 
-
-274  Melanesian  Society
 
 It  is  clear  that  the  sitting  position  is  that  employed  in
 most  parts  of  Polynesia,  the  chief  exceptions  being  Tonga
@@ -13834,8 +13137,6 @@ Having  now  established  the  presence  in  Oceania  of  two
 18 — 2
 
 
-276  Melanesian  Society
-
 modes  of  treatment  of  the  dead  which  seem  to  be  founded
 on  ideas  widely  divergent  from,  if  not  diametrically  opposed
 to,  one  another,  the  task  which  presents  itself  is  to  assign
@@ -13917,8 +13218,7 @@ development  of  the  importance  attached  to  the  skull  by  the
 latter  people,  it  will  follow  that  preservation  was  a  practice
 common  to  both  immigrant  peoples.  The  distinguishing
 feature  of  the  betel-culture  would  be  the  concentration  of  the
-idea  of  preservation  upon  the  skull,  whereas  among  the  kava-
-people,  the  preservation  of  the  body  as  a  whole  would  have
+idea  of  preservation  upon  the  skull,  whereas  among  the  kavapeople,  the  preservation  of  the  body  as  a  whole  would  have
 been  the  main  object  of  the  funeral  rites,  though  there  are
 definite  indications  of  a  belief  in  the  special  importance  of  the
 head.  The  study  of  the  modes  of  disposing  of  the  bodies  of
@@ -13930,8 +13230,6 @@ streams  of  immigrants  with  cultures  closely  allied  to  one
 another.  Before  I  proceed  further,  it  must  be  pointed  out
 that  if  preservation  of  the  bodies  of  the  dead  be  thus  ascribed
 
-
-278  Melanesian  Society
 
 to  immigrants,  it  does  not  follow  that  the  practice  must  have
 belonged  to  the  immigrant  culture  in  its  former  home.  It
@@ -13976,9 +13274,6 @@ as  its  representative.  I  need  hardly  point  out  how  closely
 this  scheme  accords  with  the  ascription  of  a  cult  of  the  dead,
 and  especially  of  dead  ancestors,  to  the  immigrants.  It  is  an
 essential  part  of  my  general  scheme  that  both  the  kava-  and
-
-
-279
 
 
 Cult  of  the  Dead
@@ -14028,8 +13323,6 @@ in  their  attitude  towards  the  dead.  If  one  people  believing
 in  communion  with  the  dead  settle  in  small  numbers  among
 another  by  whom  the  dead  are  feared,  it  is  natural  that
 
-
-280  Melanesian  Society
 
 the  cult  of  the  immigrants  should  be  practised  secretly,  if  it  is
 to  be  practised  at  all.
@@ -14137,8 +13430,6 @@ Kirche  auf  d.  Gesellschafts-Archipel,  Berlin,  1844,  1,  83.
 9  David  Malo,  Hawaiian  Antiquities,  Honolulu,  1903,  pp.  132  and  142.
 
 
-282  Melanesian  Society
-
 therefore,  the  two  modes  of  treating  the  bodies  of  the  dead  in
 Melanesia  belong  to  two  different  peoples,  they  must  also
 belong  to  two  peoples  in  Polynesia.  Further,  if  those  who
@@ -14234,8 +13525,6 @@ brought  by  a  late  stream  of  immigration1.
 
 1  Mr  Elsdon  Best  has  recently  shown  (Man,  1914,  p.  73)  that  New  Zealand
 
-
-284  Melanesian  Society
 
 The  view,  then,  that  a  population  closely  allied  in  physique
 and  culture  to  the  dual  people  of  Melanesia  was  formerly
@@ -14336,8 +13625,6 @@ A  subject  which  needs  more  consideration  is  the  nature
 of  the  extended  interment  of  Tikopia,  Tonga  and  Samoa.
 
 
-286  Melanesian  Society
-
 Earlier  in  this  chapter  I  suggested  that  this  mode  of  interment
 especially  when  a  vault  is  used,  is  only  a  special  development
 of  preservation  in  the  house,  but  in  a  house  beneath  the
@@ -14361,8 +13648,7 @@ into  Polynesia.  The  use  of  a  vault  and  the  whole  treatment
 of  the  body  of  a  chief  before  it  is  interred  in  Samoa  show
 that  we  have  to  do  with  practices  allied  to  those  which  depend
 on  the  idea  of  preservation.  Extended  interment  need  only
-have  been  the  custom  of  some  special  group  of  the  kava-
-people  who  believed  in  the  preservation  of  the  body,  but  put
+have  been  the  custom  of  some  special  group  of  the  kavapeople  who  believed  in  the  preservation  of  the  body,  but  put
 the  idea  into  execution  in  a  manner  different  from  that  of  the
 main  body  of  this  people.
 
@@ -14432,8 +13718,6 @@ part  of  Polynesia.
 Elsdon  Best,  Man ,  July,  1914.  Cremation  only  takes  place  in  New  Zealand
 
 
-288  Melanesian  Society
-
 Its  occurrence  in  Bougainville,  one  of  the  places  possessing
 an  especially  archaic  system  of  relationship,  might  seem  to
 suggest  that  cremation  is  a  relatively  early  practice  ;  but  its
@@ -14483,8 +13767,6 @@ suitable  place  for  their  final  disposal.
 
 Cremation
 
-
-289
 
 feature  of  Melanesian  culture,  possibly  derived  from  some
 body  of  immigrants  still  later  than  the  betel-people.  Another
@@ -14537,8 +13819,6 @@ R.  m.  s.  II.
 !9
 
 
-290  Melanesian  Society
-
 the  outcome  of  the  blending  of  a  number  of  different  peoples.
 First,  a  people  possessing  the  dual  organisation  of  society;
 next,  an  immigrant  people  who  introduced  the  use  of  kava
@@ -14590,8 +13870,7 @@ some  region  where  their  influence  has  been  dominant  and
 where  the  influence  of  the  kava-people  has  been  relatively
 slight.  Such  a  region  seems  to  exist  in  the  more  western
 islands  of  the  British  Solomons  which  have  been  studied
-by  Mr  Hocart  and  myself ;  the  share  taken  by  the  betel-
-people  in  the  production  of  Melanesian  culture  can  only  be
+by  Mr  Hocart  and  myself ;  the  share  taken  by  the  betelpeople  in  the  production  of  Melanesian  culture  can  only  be
 adequately  considered  after  the  full  account  of  this  work  has
 been  published.
 
@@ -14688,12 +13967,9 @@ Peoples”  which  forms  one  of  the  Essays  and  Studies  presented  to  W i
 Cambridge,  1913,  p.  474.
 
 
-294  Melanesian  Society
-
 from  their  own ;  and  there  is  every  reason  to  suppose  that
 the  adaptability  of  rude  peoples  is  no  new  character  of  human
-nature,  but  that  it  would  have  been  operative  when  the  kava-
-people  or  the  betel-people  reached  Melanesia.  It  is  almost
+nature,  but  that  it  would  have  been  operative  when  the  kavapeople  or  the  betel-people  reached  Melanesia.  It  is  almost
 certain  that  people  with  such  lowly  culture  as  we  must  ascribe
 to  the  earliest  inhabitants  of  Melanesia  would  have  accepted
 with  the  greatest  readiness  the  customs  and  beliefs  of  a
@@ -14784,8 +14060,6 @@ tions.  I  shall  therefore  return  to  the  subject  again  in  con¬
 nection  with  my  second  class  of  conditions,  and  shall  only
 
 
-296  Melanesian  Society
-
 consider  here  the  influence  of  a  shortage  of  women  on  the
 actual  mode  of  interaction.  If  we  take  the  case  in  which
 the  immigrant  men  bring  with  them  no  women  at  all,  it  is
@@ -14812,8 +14086,7 @@ likely  to  persist  than  would  be  the  case  if  all  or  most  of  the
 children  of  the  immigrants  necessarily  had  indigenous  mothers.
 
 One  of  the  main  assumptions  on  which  the  argument  of
-this  volume  is  based  is  that  the  kava-people  and  the  betel-
-people  were  accompanied  by  few  or  none  of  their  women,
+this  volume  is  based  is  that  the  kava-people  and  the  betelpeople  were  accompanied  by  few  or  none  of  their  women,
 and  the  nature  of  Melanesian  culture  and  the  physical  cha¬
 racters  of  the  people  are  best  explained  by  the  relatively
 rapid  fusion  of  the  descendants  of  the  immigrants  with  the
@@ -14881,8 +14154,6 @@ that  arising  from  prevailing  winds  and  currents,  and  these
 women  of  the  countries  through  which  they  pass,  they  may  have  as  large  a  pro¬
 portion  of  women  at  the  end  as  at  the  beginning.
 
-
-298  Melanesian  Society
 
 factors  have  been  frequently  considered  in  connection  with
 Oceania1.  I  do  not  propose  to  enter  at  any  length  upon  the
@@ -14978,8 +14249,6 @@ activity,  such  as  fumaroles  or  solfataras,  while  they  avoid
 those  possessing  active  volcanoes.
 
 
-300  Melanesian  Society
-
 The  influence  of  such  geographical  factors  on  the  distri¬
 bution  of  culture  has  an  importance  from  the  theoretical  point
 of  view  to  which  I  shall  have  to  return  later.  The  geo¬
@@ -15026,9 +14295,6 @@ As  an  instance  of  the  defensive  properties  of  the  Mela¬
 nesian  jungle,  I  may  mention  that  even  now  it  is  possible  for
 a  punitive  expedition,  armed  with  all  the  appliances  of  modern
 warfare,  to  spend  several  days  making  its  way  for  a  few  miles
-
-
-301
 
 
 Vegetation  and  Size  of  Islands
@@ -15079,8 +14345,6 @@ permanent  feature  of  their  intercourse.
 On  a  small  island  the  nature  of  the  vegetation  would,  in  the
 first  place,  have  less  influence  in  producing  a  differentiation
 
-
-302  Melanesian  Society
 
 of  population.  In  the  case  of  a  hostile  reception,  the  vege¬
 tation  would  give  the  inhabitants  less  effective  cover  from
@@ -15173,8 +14437,6 @@ two  institutions  of  the  club-house  and  the  ghost-cult  being
 closely  blended,  while  it  is  noteworthy  that  in  his  account  of
 the  organisation  of  Malikolo  (see  11,  229),  Mr  Leggatt  takes
 
-
-304  Melanesian  Society
 
 the  small  Maskelyne  Islands  as  his  example  rather  than  the
 larger  island  of  Malikolo  itself.  Our  evidence  from  the
@@ -15273,14 +14535,6 @@ customary  to  speak  of  the  latter  as  highlanders  rather  than
 1  See  Woodford,  Man ,  1908,  VIII,  p.  81.
 
 
-R  M.  S.  II.
-
-
-20
-
-
-306  Melanesian  Society
-
 as  bushmen.  Here  again  it  is  in  the  larger  islands,  such
 as  Viti  Levu,  that  the  differentiation  of  population  is  most
 pronounced.
@@ -15294,8 +14548,7 @@ bush-people  are  noted  for  their  skill  in  agriculture  and  their
 lack  of  knowledge  of  navigation.  If  the  existing  population
 of  Melanesia  has  been  compounded  of  two  main  elements,
 one  indigenous,  and  the  other  immigrant  coming  from  afar  by
-sea,  these  cultural  differences  between  the  coast-  and  bush-
-peoples  are  precisely  such  as  might  have  been  expected.  It
+sea,  these  cultural  differences  between  the  coast-  and  bushpeoples  are  precisely  such  as  might  have  been  expected.  It
 is  perfectly  natural  that  in  the  thickly  wooded  islands  of
 Melanesia  the  main  body  of  the  earlier  inhabitants  in  the
 interior  should  have  remained  distinct  from  the  descendants
@@ -15317,8 +14570,7 @@ Of  these  facts  the  most  important  is  the  special  promi¬
 nence  of  the  differentiation  in  the  Solomons.  According  to
 the  scheme  outlined  in  Chapter  xxvi,  the  Solomons  differ
 from  southern  Melanesia  in  that  the  population  of  the  latter
-is  supposed  to  be  a  blend  of  the  dual  people  and  the  kava-
-people,  while  in  the  Solomons  the  element  furnished  by  the
+is  supposed  to  be  a  blend  of  the  dual  people  and  the  kavapeople,  while  in  the  Solomons  the  element  furnished  by  the
 betel-people  has  been  added.  If  therefore,  as  seems  pro¬
 bable,  the  differentiation  into  coast-people  and  bush-people
 is  especially  pronounced  in  the  Solomons,  the  possibility  is
@@ -15338,8 +14590,7 @@ the  strict  limitation  of  the  sea-going  people  to  the  coast,
 which  is  found  in  some  of  the  Solomon  Islands,  followed  the
 arrival  of  the  betel-people.  In  other  words,  it  is  possible  that
 the  bush-people  of  the  Solomons  at  the  present  time  repre¬
-sent  the  results  of  fusion  between  dual  people  and  kava-
-people,  while  the  coastal  people  are  the  descendants  of  the
+sent  the  results  of  fusion  between  dual  people  and  kavapeople,  while  the  coastal  people  are  the  descendants  of  the
 betel-people  through  their  marriages  with  women  of  the  mixed
 population  they  found  in  possession  of  the  islands  on  their
 arrival.
@@ -15353,8 +14604,7 @@ two  hypotheses,  I  now  suggest  that  the  bush-people  of
 islands  such  as  Malaita  represent  the  same  elements,  racial
 and  cultural,  as  the  people  of  the  matrilineal  region.
 
-We  know  practically  nothing  of  the  culture  of  the  bush-
-people  of  the  Solomons,  and  it  is  only  in  quite  another  region
+We  know  practically  nothing  of  the  culture  of  the  bushpeople  of  the  Solomons,  and  it  is  only  in  quite  another  region
 of  Melanesia  that  we  have  at  present  the  opportunity  to  put
 this  hypothesis  to  the  test.  This  is  the  island  of  Viti  Levu
 where  it  would  seem  that  the  people  of  the  interior  are  just
@@ -15519,8 +14769,7 @@ least  two  main  streams  ;  that  while  the  present  culture  of
 certain  parts  of  Melanesia  is  the  resultant  of  the  mixture  of  an
 indigenous  people  possessing  the  dual  organisation  of  society
 with  people  using  kava,  there  came  later  into  northern
-Melanesia  a  second  stream  of  immigrant  people  using  betel-
-mixture,  thus  adding  a  further  element  of  complexity  to  the
+Melanesia  a  second  stream  of  immigrant  people  using  betelmixture,  thus  adding  a  further  element  of  complexity  to  the
 culture  of  those  regions  into  which  it  penetrated.
 
 If  Melanesian  society  has  this  complex  nature,  it  is  evident
@@ -15559,16 +14808,12 @@ the  understanding,  of  an  immigrant  people,  and  we  can  be
 confident  that  the  influence  of  the  kava-people  would  be
 
 
-312
-
-
 Melanesian  Society
 
 directed  towards  simplification.  It  is  probable  that  this
 process  of  simplification  would  be  assisted  by  later  immi¬
 grant  influence,  and  the  nature  of  the  systems  of  Ulawa,
-Saa  and  Eddystone  suggests  that  the  influence  of  the  betel-
-people  in  this  direction  was  especially  pronounced.  There  is
+Saa  and  Eddystone  suggests  that  the  influence  of  the  betelpeople  in  this  direction  was  especially  pronounced.  There  is
 reason  to  suppose  that  the  influence  of  the  betel-people  has
 been  especially  strong  in  these  islands,  and  it  is  therefore  signifi¬
 cant  that  they  possess  the  simplest  of  all  the  Melanesian
@@ -15615,8 +14860,7 @@ Immigrant  Terms  of  Relationship  313
 
 wide  a  distribution  as  to  suggest  that  it  is  such  a  word.  Its
 presence  in  southern  Melanesia,  Fiji  and  Polynesia  shows
-that  it  certainly  formed  part  of  the  vocabulary  of  the  kava-
-people,  but  it  is  also  present  in  Eddystone,  and,  with  elided
+that  it  certainly  formed  part  of  the  vocabulary  of  the  kavapeople,  but  it  is  also  present  in  Eddystone,  and,  with  elided
 initial  letter,  in  Ulawa  where  the  influence  of  the  betel-people
 has  been  especially  pronounced.  Probably  both  peoples  used
 this  term.  Similarly,  tina  is  used  in  Eddystone  as  well  as  in
@@ -15657,8 +14901,6 @@ three  especially  characteristic  forms  of  marriage,  viz.  marriage
 with  the  daughter’s  daughter  of  the  brother,  with  the  wife
 of  the  father’s  father  and  with  the  wife  of  the  mother’s
 
-
-3 1 4  Melanesian  Society
 
 brother,  were  all  indigenous  institutions  and  that,  where  they
 are  still  to  be  found  in  Melanesia,  they  are  surviving
@@ -15755,8 +14997,6 @@ the  island  was  peopled  by  descendants  of  the.  immigrants
 who  left  the  islands  of  their  original  settlement  while  the  social
 
 
-3 1 6  Melanesian  Society
-
 system  was  in  a  state  of  flux,  and  before  the  secret  organisa¬
 tions  had  developed  the  stable  characters  which  gave  them  the
 vitality  they  possessed  elsewhere.
@@ -15809,8 +15049,7 @@ Social  Sy stem  of  Betel-people  3 1 7
 can  only  be  explained  by  a  far  more  intimate  blending  of
 peoples  than  is  implied  in  such  a  process.
 
-We  have  then  to  accept  the  alternative  view  that  the  kava-
-people  blended  intimately  with  the  earlier  inhabitants,  and  that
+We  have  then  to  accept  the  alternative  view  that  the  kavapeople  blended  intimately  with  the  earlier  inhabitants,  and  that
 the  existing  social  system  is  the  result  of  the  interaction
 between  the  social  ideas  and  practices  of  the  two  peoples.  How
 far  this  fusion  was  limited  to  the  coast,  or  took  effect  over  the
@@ -15833,8 +15072,7 @@ and  of  clan-exogamy  is  due  to  the  influence  of  the  betel-people,
 and  if  so,  it  becomes  most  improbable  that  they  possessed
 these  institutions.  The  conditions  now  present  in  the  Solomon
 Islands  suggest  that  the  betel-people  had  passed  beyond  the
-stage  of  development  in  which  society  is  composed  of  exo-
-gamous  social  groups,  and  regulated  their  marriages  solely  by
+stage  of  development  in  which  society  is  composed  of  exogamous  social  groups,  and  regulated  their  marriages  solely  by
 kinship  or  genealogical  relationship.  The  possibility,  however,
 must  always  be  borne  in  mind  that  the  disappearance  of
 exogamy  may  be  only  the  result  of  a  process  set  up  in  a  new
@@ -15852,8 +15090,6 @@ is  reputed  to  have  come  from  the  west,  and  there  can  be
 little  doubt  that  it  is  the  result  of  a  secondary  migration  from
 the  Western  Solomons.  In  recent  times,  the  influence  of
 
-
-3 1 8  Melanesian  Society
 
 Eddystone  Island  or  Simbo  upon  the  Eastern  Solomons  has
 been  confined  to  raids  in  search  of  heads,  but  the  use  of  its
@@ -15879,8 +15115,7 @@ a  difficulty  for  my  hypothesis.  I  have  already  (11,  313)  shown
 reason  to  believe  that  the  betel-people  used  the  word  tina  for
 the  mother,  and  I  have  now  to  suggest  that  this  term  may
 have  come  into  use  in  the  matrilineal  region  of  the  Solomons
-as  the  result  of  the  formation  of  kema ,  either  by  the  betel-
-people  themselves,  or  through  the  secondary  movements  which
+as  the  result  of  the  formation  of  kema ,  either  by  the  betelpeople  themselves,  or  through  the  secondary  movements  which
 carried  their  influence  into  the  matrilineal  region.  If  these
 settlements  were  at  first  independent,  but  through  intermar¬
 riage  came  to  influence  the  other  groups,  the  term  used  by
@@ -15948,8 +15183,6 @@ it  is  the  recognition  of  this  relation  which  is  the  really
 important  matter,  it  is  quite  possible  that  the  immigrants  may
 
 
-320  Melanesian  Society
-
 have  themselves  practised  matrilineal  descent  in  their  former
 home,  and  yet  may  have  succeeded  in  bringing  patrilineal
 institutions  into  existence  as  the  result  of  their  settlement  in
@@ -16013,8 +15246,7 @@ consideration  for  the  next  chapter.
 
 I  have  so  far  considered  only  the  mode  of  descent,  inheri¬
 tance  and  succession  of  the  kava-people  in  so  far  as  Melanesia
-is  concerned.  According  to  my  scheme,  however,  the  kava-
-people  form  an  important  element  in  the  population  of  Poly¬
+is  concerned.  According  to  my  scheme,  however,  the  kavapeople  form  an  important  element  in  the  population  of  Poly¬
 nesia,  and  it  may  therefore  help  us  if  we  consider  the  nature
 of  descent,  inheritance  and  succession  in  Polynesia.  In
 Tikopia,  which  I  have  supposed  to  approach  most  closely  to
@@ -16045,13 +15277,6 @@ difficult  to  express  any  definite  opinion  about  the  nature  of
 their  laws  of  inheritance,  and  it  is  in  the  matter  of  succession
 that  we  have  the  most  definite  evidence.  This  may  be  of  two
 
-R.  M.  S.  II.
-
-
-21
-
-
-322  Melanesian  Society
 
 kinds  :  succession  to  chieftainship  or  kingship,  and  succession
 to  special  occupations,  such  as  those  of  priest  or  craftsman.
@@ -16147,8 +15372,6 @@ relationship  between  father  and  child,  and  I  have  now  to
 consider  whether  the  recognition  of  the  social  tie  may  not
 have  been  assisted  by  another  factor,  the  knowledge  of  the
 
-
-324  Melanesian  Society
 
 physiological  relationship  between  father  and  child  possessed
 by  the  immigrants,  and  perhaps  only  by  them.  Throughout
@@ -16246,8 +15469,6 @@ been  the  result  of  the  interaction  between  two  peoples  who  before  the
 devoid  of  aristocratic  ideas.
 
 
-326  Melanesian  Society
-
 I  was  told  that  the  chiefs  of  the  Nandrau  are  descended  from
 four  brothers  who  landed  in  Viti  Levu  Bay,  and,  making  their
 way  to  Nandrau,  became  the  chiefs  of  the  people,  the  four
@@ -16311,8 +15532,7 @@ borne  out  by  the  nature  of  the  cross-cousin  marriage  as  it  is
 practised  in  Melanesia.  So  far  as  we  can  judge  from  the
 evidence,  the  cross-cousin  marriage  often,  if  not  usually,  takes
 place  between  the  children  of  own  brother  and  sister,  and  not
-merely  between  the  children  of  these  relatives  in  a  classifi-
-catory  sense.  It  is  therefore  probable  that  the  cross-cousin
+merely  between  the  children  of  these  relatives  in  a  classificatory  sense.  It  is  therefore  probable  that  the  cross-cousin
 marriage  is  definitely  associated  with  the  recognition  of  the
 relation  between  father  and  child,  and  if  so,  it  follows  that
 it  was  later  than  the  other  three  forms  and  probably  came
@@ -16339,8 +15559,6 @@ gical  record  was  of  this  kind,  and  in  this  respect  the  marriage
 almost  certainly  falls  into  line  with  the  cross-cousin  marriage.
 Since  the  marriage  with  the  brother’s  daughter  thus  implies
 
-
-328  Melanesian  Society
 
 the  presence  of  individual  marriage,  of  the  recognition  of  the
 relation  between  father  and  child,  and  probably  of  the  distinc¬
@@ -16390,9 +15608,6 @@ marriage  had  already  come  into  existence  among  the  dual
 people,  there  was  no  payment  for  the  wife.  There  is  evidence
 
 
-329
-
-
 Payment  for  a  IVife
 
 (i,  49  and  184)  that  payment  for  a  wife  is  directly  connected
@@ -16440,8 +15655,6 @@ the  immigrants  dominated  the  social  structure,  we  should
 expect  to  find  payment  for  a  wife  an  important  part  of  the
 marriage  regulations.  If  now  we  study  the  distribution  of
 
-
-330  Melanesian  Society
 
 the  custom  of  payment  for  a  wife,  we  find  that  the  existing
 conditions  accord  with  these  expectations.  Pentecost  and
@@ -16542,8 +15755,6 @@ indigenous  women,  the  dual  people  held  that  they  had  rights
 over  the  children  of  these  women.  If  to  this  suggestion
 
 
-332  Melanesian  Society
-
 there  be  added  the  assumption  that  these  rights  were  vested
 in  the  woman’s  brothers,  we  have  a  motive  which  may  have
 played  a  part  in  the  production  of  the  special  status
@@ -16637,8 +15848,6 @@ to  the  interaction  between  kava-people  and  dual  people  that
 we  must  look  especially  for  the  causes  of  these  customs.
 The  problem  before  us  is  to  determine  how  far  they  arose  as
 
-
-334  Melanesian  Society
 
 a  consequence  of  the  marriage  of  kava-men  with  indigenous
 women.
@@ -16737,8 +15946,6 @@ for  whom  the  special  term  bulena  is  used,  while  the  immigrant  sister�
 called  sibi  and  is  thus  classed  with  other  relatives  by  marriage.
 
 
-336  Melanesian  Society
-
 being  if,  for  long  periods,  the  descendants  of  the  immigrants
 formed  an  organisation  distinct  from,  though  in  intimate  social
 relations  with,  the  earlier  inhabitants.
@@ -16810,13 +16017,6 @@ At  the  outset  of  the  inquiry  we  are  met  by  a  serious
 difficulty  which  would  seem  to  be  inherent  in  any  scheme
 which  involves  the  transference  of  totemism  from  one  place  to
 
-R.  M.  S.  II.
-
-
-22
-
-
-338  Melanesian  Society
 
 another.  The  essence  of  totemism  as  a  social  system  lies  in
 the  function  of  the  totem  as  the  tie  which  binds  together  the
@@ -16839,8 +16039,7 @@ the  primary  order,  derived  from  without  the  utmost  limits
 of  Melanesia.  Even  if  the  totem-animals  of  Melanesia
 were  represented  in  the  former  home  of  the  kava-people,  we
 can  be  confident  that  they  do  not  represent  all  the  former
-totems,  but  that  the  migrants  must  have  had  many  totem-
-animals  in  their  old  home  which  they  did  not  find  in
+totems,  but  that  the  migrants  must  have  had  many  totemanimals  in  their  old  home  which  they  did  not  find  in
 Melanesia.
 
 It  would  seem  to  follow  that,  if  totemism  has  been  intro¬
@@ -16916,9 +16115,6 @@ and  mammals,  as  well  as  the  sun.
 1  Anthropos ,  1907,  11,  400.
 
 2  Seejourn.  Roy.  Anth.  Inst 1909,  XXXIX,  178.
-
-
-340
 
 
 Melanesian  Society
@@ -17026,8 +16222,6 @@ Efate  and  in  one  class  of  Fijian  totem,  though  it  may  be
 noted  that  there  is  a  striking  difference  between  the  two  places
 
 
-342  Melanesian  Society
-
 in  that  the  plants  of  Efate  are  largely  used  as  food,  while  those
 of  Fiji  are  trees.
 
@@ -17081,8 +16275,6 @@ Certain  facts  suggest  that  the  tua  totems  are  the  more
 Totems  and  Death-rites
 
 
-343
-
 recent.  ^  According  to  the  scheme  formulated  in  Chapter
 xxiii  the  word  tete  belongs  to  an  older  linguistic  stratum,
 while  tua  is  the  more  modern  ;  this  suggests  that  the  tete
@@ -17092,8 +16284,7 @@ by  the  fact  that  the  tua  totems  are  the  better  known.  A
 totemic  system  recently  introduced  is  likely  to  be  regarded  as
 more  important,  and  therefore  better  known,  than^an  older
 form  which  has  been  pushed  into  the  background.  There
-are,  thus,  two  reasons  for  supposing  that  the  tua  or  bird-
-totems  are  the  more  recent.
+are,  thus,  two  reasons  for  supposing  that  the  tua  or  birdtotems  are  the  more  recent.
 
 Certain  features  of  the  funeral  rites  confirm  the  supposition
 that  the  two  classes  of  totem  are  the  result  of  successive
@@ -17128,8 +16319,6 @@ ville  and,  if  the  bird-totems  of  the  Shortland  Islands  are
 to  be  connected  with  cremation,  the  two  are  probably
 also  associated  in  Bougainville.  If  the  introduction  of
 
-
-344  Melanesian  Society
 
 bird-totemism  is  relatively  late  in  one  place,  it  will  probably
 be  so  in  the  other.  The  connection  of  totemism  with  the
@@ -17226,8 +16415,6 @@ ment,  physical  and  social.
 Before  proceeding  farther,  it  will  be  well  to  sum  up  the
 
 
-346  Melanesian  Society
-
 conclusions  to  which  we  have  been  led  by  the  consideration  of
 the  nature  of  Oceanic  totemism.  The  indigenous  character  of
 the  totems  of  Oceania  made  it  probable  that  the  totemism
@@ -17322,8 +16509,6 @@ fitted  into  and  became  part  of  the  social  body  of  the  dual
 people.
 
 
-348  Melanesian  Society
-
 Where,  on  the  other  hand,  the  social  system  is  essentially
 totemic  and  where  the  dual  system  has  entirely  disappeared,
 we  have  to  formulate  some  mechanism  by  which  the  immi¬
@@ -17377,9 +16562,6 @@ quite  in  accordance  with  my  general  scheme  of  the  absorption
 Totemism  in  Southern  Melanesia
 
 
-349
-
-
 of  the  totemism  of  the  kava-people  in  the  ritual  of  the
 Tomate  societies  that  there  should  only  be  these  scanty
 indications  of  totemism  in  the  social  grouping  derived  from
@@ -17428,8 +16610,6 @@ social  structure.  The  only  indications  of  the  former  exist¬
 ence  of  the  dual  organisation  are  derived  from  the  system  of
 
 
-350  Melanesian  Society
-
 relationship  of  one  district  of  the  island  of  Santa  Cruz,  and
 in  this  district  descent  is  matrilineal.  The  small  island  of
 Temotu,  where  descent  is  patrilineal,  may  be  found  to  have  a
@@ -17450,8 +16630,7 @@ relationship  reveals  no  evidence  of  the  dual  organisation,  and
 the  pure  character  of  the  totemism,  together  with  the  use  of  a
 Polynesian  language,  suggest  that  any  earlier  form  of  social
 organisation  must  have  been  absorbed  in  that  of  the  immi¬
-grants.  Nevertheless  descent,  so  far  as  we  know,  is  matri-
-lineal.
+grants.  Nevertheless  descent,  so  far  as  we  know,  is  matrilineal.
 
 Since  we  are  here  concerned  with  totemism,  I  have  only
 to  consider  the  matrilineal  region  of  the  Solomon  Islands,
@@ -17527,16 +16706,13 @@ with  the  animal-totems  was  brought  about.
 If  the  process  in  action  has  been  on  the  lines  I  have  just
 
 
-352  Melanesian  Society
-
 sketched,  it  will  be  evident  that  we  have  to  do  with  a  highly
 modified  totemic  system.  The  aberrant  character  which  has
 made  it  difficult  for  Dr  Codrington  and  others  to  recognise
 totemism  in  the  Solomons  would  be  the  result  of  a  special
 direction  taken  by  the  process  resulting  from  the  interaction
 between  the  dual  and  kava-peoples,  on  the  top  of  which  there
-have  come  modifications  due  to  the  later  influence  of  non-
-totemic  immigrants,  the  betel-people.
+have  come  modifications  due  to  the  later  influence  of  nontotemic  immigrants,  the  betel-people.
 
 In  the  Shortland  Islands  we  again  meet  with  a  typical
 form  of  totemism  combined  with  matrilineal  descent.  In  this
@@ -17571,14 +16747,11 @@ the  non-Melanesian  character  of  the  language  point  to  a
 process  whereby  the  totemic  immigrants  were  absorbed
 into  the  earlier  organisation  in  spite  of  the  pure  character
 of  the  totemism.  We  must,  however,  await  more  complete
-knowledge  of  the  totemism  of  this  district  to  see  how  far-
-this  view  is  justified.
+knowledge  of  the  totemism  of  this  district  to  see  how  farthis  view  is  justified.
 
 
 Totemism  and  Descent
 
-
-353
 
 In  Viti  Levu  we  find  the  association  of  totems  with  patri¬
 lineal  transmission,  but  it  must  be  remembered  that  the
@@ -17627,13 +16800,6 @@ I  wo  alternatives  would  be  open  to  the  children  of  the
 immigrants.  They  might  intermarry  exclusively  with  one
 another,  or  they  might  marry  with  their  mothers  people.  In
 
-R.  M.  S.  II.
-
-
-23
-
-
-354  Melanesian  Society
 
 the  former  case,  the  separation  between  the  immigrants  and
 the  indigenous  people  would  be  perpetuated,  and  even  accen¬
@@ -17732,8 +16898,6 @@ sidered  in  another  connection.  I  have  shown  in  Chapter  xix
 23—2
 
 
-356  Melanesian  Society
-
 that  one  reason  for  the  persistence  of  matrilineal  descent  in
 Melanesia,  while  succession  and  inheritance  have  become
 largely  patrilineal,  is  that  the  mode  of  descent  touches  but
@@ -17811,8 +16975,7 @@ migrant  and  indigenous  peoples.
 I  have  so  far  dealt  solely  with  Melanesia,  and  have  been
 working  throughout  on  the  assumption  that  all  the  various
 forms  of  totemism  in  this  area  have  been  derived  directly,  or
-indirectly  by  means  of  secondary  movements,  from  the  kava-
-people.  At  this  stage  it  will  be  well  to  turn  to  Polynesia.
+indirectly  by  means  of  secondary  movements,  from  the  kavapeople.  At  this  stage  it  will  be  well  to  turn  to  Polynesia.
 The  conditions  in  Tikopia  correspond  well  with  the  hypothesis
 on  which  I  am  proceeding.  We  must  suppose  that  the  four
 social  groups  of  this  island  are  derived  from  four  immigrant
@@ -17830,8 +16993,6 @@ of  Melanesia.  It  is  in  Samoa  and  Tonga,  however,  that  we
 
 1  Wheeler,  op.  cit.  p.  26.
 
-
-358  Melanesian  Society
 
 have  the  most  definite  evidence  of  totemism,  and  that  this
 should  be  so  is  in  accordance  with  the  position  reached  else¬
@@ -17878,9 +17039,6 @@ of  themselves  or  their  children  with  animals  or  plants,  it  be¬
 comes  possible  to  formulate  the  general  lines  of  the  process  by
 means  of  which  the  settlements  of  the  kava-people  became
 the  forerunners  of  the  totemic  social  groups  of  Melanesia.
-
-
-359
 
 
 Identity  of  Man  and  Totem
@@ -17931,8 +17089,6 @@ to,  the  kava-people  and  their  descendants  which  acted  as  the
 starting-point  of  Melanesian  totemism.  The  first  step  in  the
 present  inquiry  is  to  discover  whether  the  belief  in  identity
 
-
-360  Melanesian  Society
 
 was  held  by  the  kava-people  or  whether  it  arose  out  of  the
 interaction  between  them  and  the  indigenous  population.
@@ -18034,8 +17190,6 @@ after  cremation  are  thrown  into  rivers  or  the  sea,  and  each
 2  Ibid.,  33.
 
 
-362  Melanesian  Society
-
 clan  has  its  appointed  place  where  it  was  probably  once  be¬
 lieved,  even  if  the  belief  is  not  still  present,  that  the  bones  are
 devoured  by  the  fish,  lizard,  shark  or  other  kind  of  animal
@@ -18132,8 +17286,6 @@ believed  that  they  became  incarnate  in  animals  after  death,
 and  were  able  to  choose  the  vehicles  of  their  incarnation.
 
 
-364  Melanesian  Society
-
 I  need  hardly  point  out  how  closely  the  different  forms  of
 belief  in  descent  from  the  totem  in  Oceania  are  in  accordance
 with  the  hypothesis  that  the  starting-point  of  this  totemism
@@ -18150,8 +17302,7 @@ feature  of  the  Melanesian  form  of  the  institution.
 
 I  propose  now  to  examine  other  Melanesian  and  Poly¬
 nesian  beliefs  concerning  animals  with  the  object  of  inquiring
-whether  they  also  can  be  connected  with  a  belief  of  the  kava-
-people  in  their  incarnation  after  death  in  animal  form.  There
+whether  they  also  can  be  connected  with  a  belief  of  the  kavapeople  in  their  incarnation  after  death  in  animal  form.  There
 are  several  beliefs  concerning  animals  and  plants  in  Melanesia
 which  resemble  the  totemic  beliefs  of  the  people,  so  closely
 indeed  in  some  cases  as  to  point  to  some  connection  between
@@ -18229,8 +17380,6 @@ being  related  to  the  ghost,  in  the  form  of  an  animal.
 1  Thurnwald,  Forschungen  anf  d.  Salomo-Inseln  n.  d.  Bismarck- Archiftel,  1912,
 I,  316.
 
-
-366  Melanesian  Society
 
 Further,  both  the  animals  of  the  Eastern  Solomons  and
 the  birds  of  Buin  bring  the  matter  into  direct  relation  with
@@ -18328,8 +17477,6 @@ which  the  founders  of  a  Tamate  society  practised  in  secret
 was  the  ceremonial  eating  of  the  animal  or  plant  they  revered,
 
 
-368  Melanesian  Society
-
 and  that,  as  the  originally  sacred  character  of  the  rite  was
 lost,  the  eating  of  the  animal  or  plant  became  the  habitual
 and  ordinary  practice  of  the  society.
@@ -18379,12 +17526,9 @@ apart  from  totemism,  but  in  Fiji  very  similar  beliefs  occur  in
 Reincarnation
 
 
-369
-
 conjunction  with  it.  De  Marzan  records1  that,  shortly  before
 the  birth  ol  a  child  in  Viti  Levu,  the  expectant  mother  is
-visited  by  the  totem-animal  of  the  tribe,  conclusions  being-
-drawn  concerning  the  health  and  vigour  of  the  child  from  the
+visited  by  the  totem-animal  of  the  tribe,  conclusions  beingdrawn  concerning  the  health  and  vigour  of  the  child  from  the
 behaviour  of  the  animal.  Here  we  have  a  definite  link
 between  the  belief  of  the  Banks  Islands  and  totemism,  for  the
 Fijian  institution  must  certainly  be  regarded  as  totemism,
@@ -18427,14 +17571,6 @@ latter  half-  of  the  process,  the  reincarnation  in  human  form,
 
 1  Anthropos ,  1907,  n,  402.
 
-
-R.  M.  S.  II,
-
-
-24
-
-
-370  Melanesian  Society
 
 which  has  survived.  We  should  have  to  suppose  that  the
 belief  in  incarnation  has  disappeared  from  the  current  religion
@@ -18532,8 +17668,6 @@ chapter  is  the  relative  insignificance  of  animal  cults  in
 24 — 2
 
 
-372  Melanesian  Society
-
 Polynesia.  If  the  kava-people  had  believed  in  their  incarna¬
 tion  after  death  in  animals,  we  should  have  expected  to  find  this
 belief  more  prevalent  in  Polynesia  than  it  appears  to  be.  It
@@ -18569,8 +17703,7 @@ speak  with  some  confidence.  It  is  just  in  those  parts  of  the
 Solomon  Islands  where  the  influence  of  the  betel-people
 seems  to  have  been  especially  potent  that  we  have  no  evi¬
 dence  whatever  for  the  presence  of  totemism.  No  trace  of
-this  institution  has  been  found  in  Malaita,  Ulawa  and  Eddy-
-stone  Island.  On  the  other  hand,  the  totemism  of  the  Solo¬
+this  institution  has  been  found  in  Malaita,  Ulawa  and  Eddystone  Island.  On  the  other  hand,  the  totemism  of  the  Solo¬
 mons  is  most  definite  in  the  matrilineal  region  where  I  suppose
 the  culture  of  the  kava-people  to  have  had  the  greatest  per¬
 sistence.  This  distribution  makes  it  extremely  unlikely  that
@@ -18594,8 +17727,7 @@ indefinite  nature  of  any  totemic  features  of  Polynesian  culture
 makes  it  unlikely  that  the  people  who  interred  their  dead  in
 the  sitting  position  were  totemic  or  possessed  totemic  ideas.
 The  evidence  is  against  ascribing  a  share  in  the  production  of
-Melanesian  totemism  to  any  element  other  than  the  kava-
-people,  except  in  so  far  as  it  was  through  the  interaction  with
+Melanesian  totemism  to  any  element  other  than  the  kavapeople,  except  in  so  far  as  it  was  through  the  interaction  with
 the  earlier  inhabitants  that  the  beliefs  of  the  kava-people
 acquired  that  social  setting  which  produced  the  institution  of
 totemism  as  it  is  now  found  in  Melanesia.
@@ -18646,9 +17778,6 @@ is  seen  in  most  of  the  knives  shown  in  Plates  V — VI  I,  but  has
 Conventionalisation
 
 
-375
-
-
 reached  its  extreme  development  in  the  shape  of  the  figure
 which  represents  Tamate  Viov  (PL  IX).
 
@@ -18697,8 +17826,6 @@ The  special  problem  presented  by  the  art  of  the  Banks
 Islands  is  to  determine  why  the  representation  of  the  human
 
 
-376  Melanesian  Society
-
 figure  should  have  changed  into  a  rectilinear  pattern.  On  the
 general  hypothesis  I  put  forward,  we  have  to  suppose  that  the
 human  motive  belonging  to  the  art  of  one  people  has  been
@@ -18722,8 +17849,7 @@ dual  people  or  by  some  later  body  of  immigrants.  I  will
 consider  first  whether  it  is  possible  to  explain  it  through
 indigenous  influence.
 
-According  to  the  main  argument  of  this  book,  the  kava-
-people  who  founded  the  Sukwe  and  Tamate  societies,  and  as
+According  to  the  main  argument  of  this  book,  the  kavapeople  who  founded  the  Sukwe  and  Tamate  societies,  and  as
 I  now  suppose,  had  the  human  motive  as  the  predominant  ele¬
 ment  in  their  decorative  art,  reached  Melanesia  in  relatively
 small  numbers  and,  marrying  indigenous  women,  had  descen¬
@@ -18797,8 +17923,6 @@ the  human  figure  to  geometrical  designs  were  not  due  to  the
 in  which  halves  of  Tamate  Viov  are  represented.
 
 
-378  Melanesian  Society
-
 gradual  coming  into  play  of  indigenous  forms  of  artistic
 expression,  but  to  motives  of  a  special  kind  arising  out  of  the
 secrecy  and  mystery  of  the  Sukwe  and  Tamate  societies.
@@ -18851,9 +17975,6 @@ is  elongated,  angular  above  and  below,  and  the  nose  is  narrow.
 The  Malo-saru
 
 
-379
-
-
 Islands  which  does  not  fit  directly  into  this  scheme.  Perhaps
 the  purest  example  of  geometrical  art  in  these  islands  is  to  be
 found  in  the  mantle  called  malo-saru  (Plate  VIII).  This
@@ -18903,8 +18024,6 @@ Cruz  or  of  a  body  of  the  Micronesians  who  probably  introduced  the  lo
 Santa  Cruz.
 
 
-380  Melanesian  Society
-
 any  permanent  settlement  of  people  from  Santa  Cruz.  There
 is,  however,  one  feature  of  the  culture  of  Ureparapara  which
 suggests  that  there  was  such  settlement.  This  island  is
@@ -18930,8 +18049,7 @@ representation,  and  especially  of  animals,  while  two  of  the
 pudding-knives  from  Ureparapara  are  decorated  with  designs
 derived  from  a  fish.
 
-These  also  can  be  ascribed  with  confidence  to  the  kava-
-people,  who  would  thus  be  a  people  whose  art  was  especially
+These  also  can  be  ascribed  with  confidence  to  the  kavapeople,  who  would  thus  be  a  people  whose  art  was  especially
 devoted  to  naturalistic  representation.  The  great  prominence
 of  the  human  figure  in  the  art  of  the  Banks  Islands  is
 probably  due  to  the  importance  which  the  immigrant  cult  of
@@ -19002,8 +18120,6 @@ both  having  been  the  outcome  of  the  blend  of  two  similar
 racial  and  cultural  elements.  This  scheme  will  find  support
 1  See  C.  H.  Read,  Jonrn.  Anth.  Inst.,  1892,  xxi,  139.
 
-
-382  Melanesian  Society
 
 if  there  should  be  any  other  features  common  to  the  art  of  the
 two  areas.  A  prominent  feature  of  the  human  designs  in
@@ -19120,8 +18236,7 @@ for  the  introduction  of  the  custom  of  taboo  into  Melanesia.
 A  most  important  feature  of  this  custom  is  that  it  is  the  means
 of  protecting  property,  and  so  far  as  we  know,  it  is  individual
 property  which  is  usually  so  protected.  It  will  be  impossible
-to  adhere  to  this  scheme  unless  it  can  be  shown  that  the  kava-
-people  were  individualistic  in  respect  of  property.  If  it  should
+to  adhere  to  this  scheme  unless  it  can  be  shown  that  the  kavapeople  were  individualistic  in  respect  of  property.  If  it  should
 
 
 Mat-  and  Shell-money  385
@@ -19174,14 +18289,6 @@ twenty  fathoms,  and  repeated  instances  occur  in  the  record  of
 the  customs  and  rites  of  the  Banks  Islands  which  show  how
 
 
-R.  M.  S.  II.
-
-
-25
-
-
-386  Melanesian  Society
-
 great  an  importance  attaches  to  ten  and  multiples  of  ten  in  the
 monetary  transactions.  In  two  islands,  Santa  Maria  and
 Merlav,  where  the  som  shells  from  which  the  money  is  made
@@ -19196,8 +18303,7 @@ are  used  as  money,  but  we  know  nothing  of  the  scale  of  value
 of  these  objects,  and  the  arrows  are  not  only  used  as  money,
 but  serve  also  as  weapons.
 
-The  only  objects  we  know  to  be  used  as  money  in  Vani-
-kolo  are  pieces  of  turtle-shell,  which  also  form  the  raw  material
+The  only  objects  we  know  to  be  used  as  money  in  Vanikolo  are  pieces  of  turtle-shell,  which  also  form  the  raw  material
 for  ornaments  and  other  objects  made  by  the  people.
 
 The  money  of  Santa  Cruz  is  of  a  more  definite  kind.  The
@@ -19217,8 +18323,7 @@ definite  scale  of  values,  a  dog’s  tooth  being  the  more  valu¬
 able.  The  values,  however,  are  not  constant  but  vary  with
 locality,  a  dog’s  tooth  being  worth  five  porpoise’s  teeth  in
 Florida  and  only  one  or  two,  according  to  quality,  in  San
-Cristoval.  In  the  western  islands  the  money  consists  of  arm-
-rings.  Some  of  a  large  size,  called  poata ,  usually  made  from
+Cristoval.  In  the  western  islands  the  money  consists  of  armrings.  Some  of  a  large  size,  called  poata ,  usually  made  from
 the  shell  of  the  giant  clam,  are  used  for  no  other  purpose,  but
 smaller  rings  are  also  used  as  ornaments.  Here  there  is  a
 definite  scale  of  values,  a  poata  being  worth  a  given  number
@@ -19259,8 +18364,7 @@ that  the  use  of  feather-money  is  due  to  the  absence  of  the
 materials  for  making  shell-money.  In  two  of  the  Banks
 Islands,  where  the  sow  shell  is  not  found,  feather-money  of  a
 crude  kind  is  used  in  its  place.  If  shell-money  formerly
-existed  in  Santa  Cruz,  it  becomes  possible  that  the  feather-
-money  of  that  island  is  also  a  substitute  for  an  older  form
+existed  in  Santa  Cruz,  it  becomes  possible  that  the  feathermoney  of  that  island  is  also  a  substitute  for  an  older  form
 which  went  out  of  use  owing  to  lack  of  raw  material,  or  for
 some  other  reason.  The  fact,  however,  that  several  parts  of
 Melanesia  even  now  possess  more  than  one  kind  of  money
@@ -19282,19 +18386,15 @@ the  people  who  founded  these  societies.  The  presence  of
 25—2
 
 
-388  Melanesian  Society
-
 shell-money  in  the  Solomons  is  therefore  consistent  with  the
 other  features  which  point  to  the  kava-people  as  forming  one
 element  in  the  population  of  these  islands.  The  distribution
 of  the  use  of  arm-rings  and  porpoise’s  teeth  in  the  Solomons,
 on  the  other  hand,  and  the  absence  of  these  kinds  of  money
-in  southern  Melanesia,  point  to  their  ascription  to  the  betel-
-people.
+in  southern  Melanesia,  point  to  their  ascription  to  the  betelpeople.
 
 Before  I  proceed  further,  it  will  be  well  to  inquire  how  far
-it  is  possible  to  formulate  a  mechanism  whereby  the  kava-
-people  may  have  introduced  the  use  of  money  among  a
+it  is  possible  to  formulate  a  mechanism  whereby  the  kavapeople  may  have  introduced  the  use  of  money  among  a
 previously  communistic  people.  If  it  is  possible  to  construct
 a  scheme  which  will  fit  in  with  all  the  known  facts,  we  shall
 have  gone  far  to  establish  the  communism  of  the  dual  people
@@ -19440,8 +18540,7 @@ and  yellow  feathers  were  also  much  used  in  the  Hawaian  Islands.
 
 Manufacture  by  Women  391
 
-There  is  one  feature  of  the  manufacture,  both  of  the  shell-
-money  of  the  Banks  Islands  and  of  the  mat-money  of  the
+There  is  one  feature  of  the  manufacture,  both  of  the  shellmoney  of  the  Banks  Islands  and  of  the  mat-money  of  the
 New  Hebrides,  which  might  seem  to  raise  an  obstacle  to  their
 ascription  to  the  kava-people.  Both  kinds  of  money  are  made
 by  women,  and  it  is  part  of  my  scheme  that  the  kava-people
@@ -19486,8 +18585,6 @@ nesians  are  largely  communistic,  probably  more  so  than  the
 Melanesians.  It  would  seem  as  if  my  general  scheme  in¬
 volves  the  paradox  that  a  people  to  whom  I  have  ascribed  the
 
-
-392  Melanesian  Society
 
 introduction  of  money  and  the  individualistic  trend  of  Mela¬
 nesian  culture  became  in  Polynesia  a  communistic  people
@@ -19584,8 +18681,6 @@ it  stimulate  the  desire  for  individual  possession  which  was  the
 result  of  the  foundation  in  Melanesia  of  settlements  which
 
 
-394  Melanesian  Society
-
 long  remained  distinct  from  the  general  body  of  the  indigenous
 people.
 
@@ -19663,8 +18758,7 @@ example  of  the  kind  of  intermediate  condition  which  may  arise
 after  several  generations  has  been  recorded  in  Chapter  11
 (1,  55).  This  case  shows  that  a  man  transmits  land  which  he
 has  cleared  to  his  children,  and  it  is  possible  that  this  is  only
-the  persistence  of  a  custom  which  illustrates  how  the  kava-
-people  attempted  to  bring  about  the  individual  ownership  of
+the  persistence  of  a  custom  which  illustrates  how  the  kavapeople  attempted  to  bring  about  the  individual  ownership  of
 land.  We  may  suppose  that,  when  the  strangers  found  that
 any  gardens  given  to  them  would  revert  to  their  wives’
 people,  they  cleared  fresh  places  for  themselves  in  the  hope
@@ -19684,8 +18778,6 @@ and  especially  those  made  by  the  kava-people,  on  the  other
 
 1  M.}  63.
 
-
-396  Melanesian  Society
 
 hand,  would  be  more  likely  to  be  regarded  as  individual
 property  and  to  be  transmitted  from  individual  to  individual.
@@ -19717,8 +18809,7 @@ Sukwe  would  be  regarded  as  common  property,  and  yet  the
 evidence  is  quite  definite  that  it  is  usually,  if  not  always,  the
 property  of  an  individual  man,  and  passes  on  his  death  to
 another  individual.  According  to  the  scheme  of  this  book,
-however,  the  gamal  is  an  institution  due  entirely  to  the  kava-
-people,  and  therefore  one  in  connection  with  which  we  should
+however,  the  gamal  is  an  institution  due  entirely  to  the  kavapeople,  and  therefore  one  in  connection  with  which  we  should
 expect  to  find  immigrant  ideas  persisting.  The  individual
 ownership  of  the  gamal  points  very  decisively  to  the  individ¬
 ualism  of  the  kava-people.
@@ -19782,12 +18873,9 @@ brother’s  daughter.  The  general  result  of  the  discussion  of
 marriage  in  this  chapter  and  in  Chapter  xxix  is  consistent
 
 
-398  Melanesian  Society
-
 with  the  view  that  the  dual  people  were  communistic,  and  that
 the  movement  towards  individual  marriage  was  greatly  assisted
-by,  if  it  was  not  entirely  due  to,  the  influence  of  the  kava-
-people.
+by,  if  it  was  not  entirely  due  to,  the  influence  of  the  kavapeople.
 
 The  discussion  of  the  present  chapter  has  tended  to
 justify  the  ascription  of  communism  in  goods  to  the  dual
@@ -19821,8 +18909,7 @@ I  had  to  content  myself  with  this  explanation.  If,  however,
 Polynesian  culture  is  complex,  and  if  the  kava-people  were
 only  later  settlers  among  a  population  long  established  in  the
 islands  of  the  Pacific,  the  matter  becomes  far  more  natural.
-We  have  to  suppose  that,  just  as  the  individualistic  kava-
-people  failed  to  influence  the  communism  in  property  of  the
+We  have  to  suppose  that,  just  as  the  individualistic  kavapeople  failed  to  influence  the  communism  in  property  of  the
 earlier  population,  so  they  failed  greatly  to  affect  their  sexual
 communism.  I  have  now  to  consider  how  far  the  facts  of
 Polynesian  culture  fit  in  with  this  hypothesis.
@@ -19884,8 +18971,6 @@ position.  The  distribution  of  pronounced  communism  in
 P-  77-
 
 
-400  Melanesian  Society
-
 Melanesia  thus  shows  some  agreement  with  the  distribution
 
 o  #
@@ -19915,8 +19000,7 @@ of  the  relation  between  father  and  child.  Since  we  have  now
 seen  that  this  recognition  is  largely  to  be  ascribed  to  immigrant
 influence,  it  is  necessary  to  consider  whether  the  whole  body
 of  customs  connected  with  adoption  may  not  have  been
-the  results  of  the  interaction  between  the  dual  and  kava-
-peoples.  I  mentioned  the  possibility  of  external  influence  in
+the  results  of  the  interaction  between  the  dual  and  kavapeoples.  I  mentioned  the  possibility  of  external  influence  in
 Chapter  xxi,  though  the  influence  I  had  then  in  mind  was
 that  of  the  Polynesians  who  are  known  to  have  settled  in
 Melanesia,  and  especially  in  the  Banks  Islands,  in  relatively
@@ -19989,11 +19073,6 @@ this  custom.
 
 R.  M.  s.  II.
 
-
-26
-
-
-402  Melanesian  Society
 
 originally  one  whereby  a  father  obtained  a  right  to  his  own
 chiTd  into  one  whereby  any  man  other  than  the  father  obtains
@@ -20169,8 +19248,7 @@ cated  rites  carried  out  in  order  to  produce  certain  effects  with
 no  evidence  whatever  of  any  appeal  to  higher  powers.  I  have
 
 1  See  Durkheim,  LI  Anne  e  sociologique,  1898,  p.  1,  and  Hubert  and  Mauss,
-Ibid.  1904,  p.  13,  et  seq.  A  more  recent  definition  by  Durkheim  ( Les  Formes  ele-
-mentaires  de  la  Vie  religieuse ,  Paris,  1912,  p.  58,  et  seq.)  lays  especial  stress  on  the
+Ibid.  1904,  p.  13,  et  seq.  A  more  recent  definition  by  Durkheim  ( Les  Formes  elementaires  de  la  Vie  religieuse ,  Paris,  1912,  p.  58,  et  seq.)  lays  especial  stress  on  the
 collective  nature  of  religion,  but  distinguishes  it  less  definitely  from  magic.
 
 2  I  intend  this  to  exclude  the  case  in  which  there  is  a  belief  that  non-human
@@ -20179,8 +19257,6 @@ beings  so  compelled  may  have  attributes  ordinarily  regarded  as  divine. 
 that  such  compulsion  can  be  exerted  implies  that  in  this  special  respect  the  beings
 are  not  “higher  powers,”  whatever  they  may  be  in  other  respects.
 
-
-406  Melanesian  Society
 
 only  been  able  to  obtain  one  or  two  of  the  formulas  of  these
 rites  ;  if  we  had  more  of  them,  the  evidence  for  an  appeal
@@ -20228,9 +19304,6 @@ Banks  Islands,  it  is  impossible  that  they  could  have  escaped
 1  The  most  elaborate  utterance  which  I  record  (i,  163)  was  given  to  me  in
 English  and  I  did  not  preserve  the  actual  words  used.  It  is  possible  that  the
 Motlav  words  would  show  whether  they  carried  a  supplication  or  a  command.
-
-
-407
 
 
 Magic  and  the  Dual  People
@@ -20378,8 +19451,6 @@ to  be  directly  due  to  the  action  of  a  ghostly  agency,  the  power
 of  which  is  certainly  regarded  as  higher  than  that  of  man.
 
 
-410  Melanesian  Society
-
 Here  the  whole  process  seems  to  have  a  definitely  religious
 character  and  one  of  a  high  order.
 
@@ -20475,8 +19546,6 @@ has  been  directed  to  accentuate  the  sense  of  mystery  which
 until  this  moment  the  candidate  has  shared  with  other  un¬
 initiated  persons.  On  the  available  evidence  it  would  seem
 
-
-412  Melanesian  Society
 
 probable  that  the  religious  character  of  a  Tamate  society
 reaches  its  acme  at  the  moment  of  initiation  to  decline
@@ -20579,8 +19648,6 @@ The  point  of  especial  importance  in  relation  to  the  scheme  of
 
 1  M.y  pp.  128 — 149.  2  Af.,  14 7-  15  Af.,  146.
 
-
-414  Melanesian  Society
 
 this  book  is  that  they  are  essentially  formulas  in  which  appeal
 is  made  to  the  ghosts  of  the  dead,  and  not  to  the  spirits  called
@@ -20685,8 +19752,6 @@ it  is  noteworthy  that  the  word  is  associated  with  the  man  who
 1  M.,  128.
 
 
-416  Melanesian  Society
-
 carries  out  the  rite  rather  than  with  the  vui  in  connection
 with  which  the  offering  is  made.  A  man  who  wishes  to
 obtain  a  benefit  of  a  certain  kind  goes  to  one  who  is  known  to
@@ -20788,11 +19853,6 @@ vui  might  have  arisen  through  an  animistic  interpretation  by
 
 R.  m.  s.  II.
 
-
-27
-
-
-4 1 8  Melanesian  Society
 
 the  kava-people  of  practices  followed  by  the  earlier  inhabitants,
 which  in  the  minds  of  the  latter  were  not  connected  with  a
@@ -20898,8 +19958,6 @@ so  definitely  present  in  the  secret  ritual.
 27 — 2
 
 
-420  Melanesian  Society
-
 details  of  the  religious  rites  of  Polynesia.  If  those  who  have
 had  the  opportunity  had  devoted  to  the  study  of  ritual  one
 hundredth  part  of  the  time  and  trouble  they  have  spent  in  the
@@ -20954,9 +20012,6 @@ Les  derniers  Sauvages ,  1882,  p.  240.
 Personal  Vui
 
 
-421
-
-
 Tahiti  one  class  is  formed  by  beings  called  tii.  The  tii  were
 little  respected,  as  shown  by  the  fact  that  their  images  might
 be  sold  or  broken,  just  as  we  might  expect  if  they  were  the
@@ -21006,8 +20061,6 @@ transferred  from  the  spirits  connected  with  stones  and  other
 2  For  further  light  on  the  nature  of  the  vui ,  see  II,  429.
 
 
-422  Melanesian  Society
-
 inanimate  objects  to  the  definitely  anthropomorphic  Kwat  and
 Tagaro.  The  question  can  only  be  settled  by  a  thorough
 comparison  of  Melanesian  and  Polynesian  mythologies  in
@@ -21055,8 +20108,6 @@ sun.
 
 2  Voyages  aux  lies  du  grand  ocdan ,  Paris,  1837,  1,  503.
 
-
-424  Melanesian  Society
 
 The  ritual  of  the  Tamate  liwoa  society  includes  only  one
 feature  which  suggests  any  connection  with  the  sun.  The  six
@@ -21122,8 +20173,7 @@ ville2.  These  instances  are  few  in  number,  but  they  are  suffi¬
 cient  to  show  the  existence  of  the  cult  which  I  suppose  else¬
 where  to  have  become  part  of  the  secret  ritual3.
 
-If  a  cult  of  the  sun  is  thus  to  be  assigned  to  the  kava-
-people,  we  should  expect  to  find  it  prominent  in  the  religion
+If  a  cult  of  the  sun  is  thus  to  be  assigned  to  the  kavapeople,  we  should  expect  to  find  it  prominent  in  the  religion
 of  Polynesia.  We  have  at  present,  however,  no  evidence  of
 its  existence  ;  all  I  can  now  suggest,  as  an  explanation  of  this
 absence,  is  that  in  Polynesia  the  sun  has  become  a  god  whose
@@ -21161,8 +20211,6 @@ Leipzig,  1913,  Tafel  XXI.
 3  It  may  be  noted  that  representations  of  the  sun  are  used  in  the  Banks  Islands
 when  sunshine  is  being  produced  by  “magic”  (see  Codrington,  Ytf.,  184).
 
-
-426  Melanesian  Society
 
 perhaps  also  the  loom  and  its  products,  are  due  to  some
 relatively  late  migration,  possibly  of  the  secondary  order,
@@ -21220,8 +20268,6 @@ southern  New  Hebrides,  which  has  not  reached  other  parts  of
 Stone-work  in  Melanesia
 
 
-427
-
 Melanesia.  Since,  however,  the  cult  of  the  moon  should,  if
 it  belonged  to  the  culture  of  the  kava-people,  have  become
 part  of  the  secret  ritual,  the  absence  is  not  surprising ;  it  is
@@ -21273,8 +20319,6 @@ Santa  Maria.  I  saw  a  block  of  worked  stone  in  Mota  which
 3  Siidsee ,  Urwald,  Kannibalen ,  Leipzig,  1913,  p.  269.
 
 
-428  Melanesian  Society
-
 was  said  to  have  come  from  an  ancient  gam  at  (1,  22),  and
 there  are  also  examples  of  worked  stone  in  Loh  in  the  Torres
 Islands.
@@ -21303,8 +20347,7 @@ him  was  recent,  having  been  made  by  a  man  who  had  not
 long  been  dead,  and  the  stone  structures  of  Loh  are  also  said
 to  be  recent,  but  there  can  be  no  doubt  that  the  greater  part
 of  the  stone-work  of  this  part  of  Melanesia  is  very  ancient.
-This  is  certainly  so  in  the  case  of  the  stone-walls  and  earth-
-mounds  of  Santa  Maria  which  are  ascribed  to  the  labours  of
+This  is  certainly  so  in  the  case  of  the  stone-walls  and  earthmounds  of  Santa  Maria  which  are  ascribed  to  the  labours  of
 a  people  called  Mala-vui  or  Mala-tuniun  who  are  said  to  have
 had  no  houses,  to  have  slept  in  the  bush  like  animals,  and  to
 have  had  little  or  no  sense.  They  are  said  to  have  built  the
@@ -21340,8 +20383,7 @@ Ysabel,  where  stone- work  is  also  found.
 The  tradition  concerning  the  stone-walls  and  earth-mounds
 of  Santa  Maria  is  just  such  as  we  might  expect  to  find  if  these
 objects  were  made  by  an  indigenous  people  at  the  bidding  and
-under  the  direction  of  a  few  immigrants,  such  as  the  kava-
-people,  who  regarded  themselves  as  normal  human  beings
+under  the  direction  of  a  few  immigrants,  such  as  the  kavapeople,  who  regarded  themselves  as  normal  human  beings
 and  the  natives  as  hardly  human.  It  is  of  especial  in¬
 terest  that  the  indigenous  people  should  have  been  called
 Mala-vui ,  for  this  is  thoroughly  in  agreement  with  my
@@ -21378,8 +20420,6 @@ Tahiti  was  to  the  east  of  the  pyramidal  platform,  which  implies
 
 Captain  Cook’s  Journal ,  London,  1893,  p.  83.
 
-
-430  Melanesian  Society
 
 that  the  pyramid  was  at  the  western  end,  and  that  the  whole
 structure  was  oriented  in  an  east-west  direction.  It  is  there¬
@@ -21478,8 +20518,6 @@ the  practice  of  interment  with  that  of  preservation  of  the
 
 2  Rev.  cV Ethnog.  1883,  11,  101.
 
-
-432  Melanesian  Society
 
 dead.  This  mode  of  interment  in  the  case  of  chiefs  has  the
 special  feature,  unknown  elsewhere  in  Oceania,  that  the  bodies
@@ -21593,11 +20631,6 @@ whose  business  it  is  to  tattoo,  who  do  not  appear  to  be  the  priests
 R.  M.  s.  11.
 
 
-28
-
-
-434  Melanesian  Society
-
 therefore,  to  assume  that  incision  was  practised  by  the  people
 who  interred  their  dead  in  the  sitting  position.  If  one  of
 the  two  contradictory  practices  of  Polynesia  is  thus  to  be
@@ -21612,8 +20645,7 @@ in  Polynesia.
 
 It  might  seem  at  first  sight  that  such  a  dread  as  1  have
 ascribed  to  the  kava-people  would  be  wholly  incompatible
-with  the  existence  of  incision  in  Polynesia.  If  the  kava-
-people  exerted  the  influence  in  Polynesia  which  my  scheme
+with  the  existence  of  incision  in  Polynesia.  If  the  kavapeople  exerted  the  influence  in  Polynesia  which  my  scheme
 implies,  it  may  seem  incredible  that  they  should  have  adopted
 an  indigenous  practice  which  was  directly  in  conflict  with
 their  ideas.  It  will  be  necessary  to  find  a  very  potent  motive
@@ -21662,8 +20694,7 @@ ascription  of  the  practice  to  the  people  who  interred  their
 dead  in  the  sitting  position,  while  the  dread  of  exposure  of
 the  glans  is  to  be  ascribed  to  the  kava-people.  If  now
 we  turn  to  Melanesia,  we  find  much  which  agrees  with
-this  view.  If  incision  had  been  a  practice  of  the  kava-
-people,  we  should  have  expected  to  find  it  part  of  the
+this  view.  If  incision  had  been  a  practice  of  the  kavapeople,  we  should  have  expected  to  find  it  part  of  the
 ritual  of  the  Sukwe  and  “ghost”  societies.  According  to
 Lamb1,  the  first  step  in  joining  the  organisation  in  Ambrym
 which  seems  to  correspond  to  the  Sukzve  is  “circumcision”  ;
@@ -21698,8 +20729,6 @@ the  men  in  these  islands.
 
 28 — 2
 
-
-436  Melanesian  Society
 
 For  the  sake  of  simplicity  I  have  so  far  spoken  of  incision
 as  the  practice  of  the  earlier  population  of  Polynesia  and
@@ -21748,9 +20777,6 @@ in  the  two  areas.  In  Polynesia  tattooing  is  more  especially
 1  See  especially  Fison ,Journ.  Anth.  Inst.  1885,  xiv,  28.
 
 
-437
-
-
 Tattooing
 
 <3
@@ -21776,8 +20802,7 @@ elements  of  which  I  suppose  Oceanic  culture  to  be  composed.
 Its  high  development  in  Polynesia  suggests  its  ascription
 to  one  of  the  two  chief  elements  of  this  people,  and  the  fact
 that  tattooing  was  so  prominent  a  feature  of  the  Areoi
-societies  of  Tahiti  points  to  its  association  with  the  kava-
-people.  On  the  other  hand,  the  tuitonga  who  would  seem
+societies  of  Tahiti  points  to  its  association  with  the  kavapeople.  On  the  other  hand,  the  tuitonga  who  would  seem
 to  be  the  special  representative  of  the  kava-people  in  the
 Tongan  Islands  was  not  tattooed1.  This  is  explained  by  the
 people  as  the  result  of  an  objection  to  do  anything  to  so
@@ -21805,8 +20830,6 @@ I  have  supposed  to  be  connected  with  the  absence  of  the  customs  in  
 from  the  culture  of  the  kava-people.
 
 
-438  Melanesian  Society
-
 necessary  to  discover  some  motive  which  led  to  the  limitation
 of  the  practice  to  women  in  Melanesia  and  to  its  especial
 development  among-  men  in  Polynesia.  If,  on  the  other  hand,
@@ -21815,8 +20838,7 @@ Melanesian  conditions  become  explicable.  We  may  suppose
 that,  before  the  arrival  of  the  kava-people,  the  custom  was  in
 vogue  among  both  men  and  women,  but  went  out  of  fashion
 among  the  men  after  the  arrival  of  the  immigrants.  On  this
-alternative,  the  custom  would  have  been  adopted  by  the  kava-
-people  in  Polynesia  and  have  become  an  essential  part  of  an
+alternative,  the  custom  would  have  been  adopted  by  the  kavapeople  in  Polynesia  and  have  become  an  essential  part  of  an
 organisation  founded  by  them.
 
 There  is  one  aspect  of  the  practice  which  is  in  favour
@@ -21890,8 +20912,6 @@ with  which  I  am  now  about  to  deal.  It  is  probable  that  few
 wholly  new  elements  of  the  material  culture  have  arisen  out  of
 such  interaction,  but  the  nature  of  this  interaction  must  have
 
-
-440  Melanesian  Society
 
 determined  whether  an  element  of  an  introduced  culture  was
 to  succeed  in  implanting  itself  in  a  new  home,  whether  it  was
@@ -21995,8 +21015,6 @@ strengthened  if  it  is  possible  to  show  in  this  chapter  that  the
 3  Festskrift  t.  Edvard  Wester  march,  Helsingfors,  1912,  p.  109.
 
 
-442  Melanesian  Society
-
 objects  used  as  money  have  been  introduced,  or  have  been
 rendered  available  for  use,  by  immigrant  arts.  Similarly,  the
 view  that  the  ritual  of  the  secret  societies  represents  an  intro¬
@@ -22095,8 +21113,6 @@ Further,  we  have  in  these  islands  definite  evidence  of  the
 disappearance  of  an  article  of  clothing,  the  malo-saru .  It  is
 
 
-444  Melanesian  Society
-
 true  that  this  garment  was  only  used  in  the  ritual  of  the
 Sukwe,  but  nevertheless  it  shows  that  the  people  once
 possessed  the  means  of  making  clothing  and  that  this  has
@@ -22148,8 +21164,6 @@ extremities  of  the  group,  and  not  in  Florida,  suggests  a
 The  Loom
 
 
-445
-
 gradual  spread  of  a  process  introduced  by  the  betel-people.
 The  fact  that  it  was  formerly  made  in  Ulawa  and  San
 Cristoval  shows,  however,  that  we  may  have  to  do  with
@@ -22195,9 +21209,6 @@ southern  Melanesia.
 Melanesia.
 
 2  Westermarck  Festskrift ,  p.  123.
-
-
-446
 
 
 Melanesian  Society
@@ -22251,9 +21262,6 @@ have  to  consider  whether  the  use  in  sport,  in  fishing  and  in
 The  Bow  and  Arrow
 
 
-447
-
-
 shooting-  small  game  may  not  be  a  survival  of  its  former  use  in
 warfare,  and  if  so,  how  it  has  come  about  that  the  bow  is  no
 longer  used  as  a  weapon.
@@ -22263,8 +21271,7 @@ believed  in  the  simplicity  of  Polynesian  culture,  we  should  be
 in  some  difficulty.  The  Polynesians  have  several  weapons,
 such  as  the  club,  javelin  and  sling;  if  this  people  were
 simply  descendants  of  the  kava-people,  we  should  have  to
-explain  why  these  objects,  if  originally  weapons  of  the  kava-
-people,  should  not  have  survived  in  the  ritual  of  the  Sukwe.
+explain  why  these  objects,  if  originally  weapons  of  the  kavapeople,  should  not  have  survived  in  the  ritual  of  the  Sukwe.
 We  should  also  have  to  explain  how  the  bow  and  arrow,  which
 must  have  been  very  prominent  in  the  culture  of  the  ancestors
 of  the  Polynesians,  should  have  been  so  entirely  displaced  by
@@ -22274,8 +21281,7 @@ We  have  only  to  suppose  that  some  or  all  of  the  existing
 weapons  ol  Polynesia  other  than  the  bow  and  arrow  belonged
 to  the  culture  of  the  earlier  population  and  that,  whether
 owing  to  its  unsuitability  to  the  nature  of  Polynesian  warfare
-or  for  some  other  reason,  the  bow  and  arrow  of  the  kava-
-people  fell  into  disuse  as  a  weapon  and  survived  only  for
+or  for  some  other  reason,  the  bow  and  arrow  of  the  kavapeople  fell  into  disuse  as  a  weapon  and  survived  only  for
 other  purposes.  There  are  certain  features  of  the  use  of  the
 bow  and  arrow  in  Polynesian  sport  which  show  that  this
 supposition  is  correct.
@@ -22301,8 +21307,6 @@ as  *a  weapon  in  most  parts  of  Polynesia,  but  that  their
 1  See  especially  Moerenhout,  op.  cit.  n,  p.  140.
 
 
-448  Melanesian  Society
-
 descendants  continued  to  use  it  in  a  manner  which  must  be
 regarded  as  a  combination  of  a  sport  and  a  religious  rite1.
 
@@ -22326,8 +21330,7 @@ the  bow  and  arrow  formed  part  of  the  material  equipment
 brought  with  them  by  the  kava-people.  Such  acceptance,
 however,  does  not  necessarily  carry  with  it  the  consequence
 that  the  earlier  peoples  of  Melanesia  and  Polynesia  were
-unacquainted  with  this  weapon  before  the  arrival  of  the  kava-
-people.
+unacquainted  with  this  weapon  before  the  arrival  of  the  kavapeople.
 
 In  connection  with  this  possibility,  it  is  noteworthy  that
 in  the  northern  New  Hebrides  there  are  varieties  of  the  bow
@@ -22405,14 +21408,6 @@ r 1  flssenscf/Hu'he  Ergebnisse  einer  amtlichen  Forschungsreise ,  n  ;  Be 
 1  Hagen  and  Pineau,  loc.  cit.  ’  ^
 
 
-R.  M.  S.  II.
-
-
-29
-
-
-450  Melanesian  Society
-
 who  interred  their  dead  in  the  sitting  position  ;  we  are  thus
 driven  to  suppose  that  the  failure  ol  the  kava-people  to  intro¬
 duce  the  bow  and  arrow  as  a  weapon  into  Polynesia  was  the
@@ -22480,8 +21475,7 @@ did  not  succeed  in  introducing  it  into  southern  Melanesia,  or  it
 disappeared  if  they  succeeded.
 
 This  ascription  of  the  knowledge  of  the  plank-built  canoe
-to  the  kava-people  is  supported  by  the  presence  of  the  plank-
-built  canoe  in  Polynesia.  In  some  cases  the  accounts  of  those
+to  the  kava-people  is  supported  by  the  presence  of  the  plankbuilt  canoe  in  Polynesia.  In  some  cases  the  accounts  of  those
 who  have  described  Polynesian  canoes  leave  it  doubtful
 whether  we  have  to  do  with  a  true  plank-built  canoe  or  with
 a  dug-out  with  raised  sides,  but  in  some  cases  the  description
@@ -22517,13 +21511,10 @@ always  sleep  on  shore.  This  mode  of  navigation  may  have
 29 — 2
 
 
-452  Melanesian  Society
-
 come  about  in  the  Solomons  owing  to  local  conditions,  but  it
 is  more  probable  that  it  points  to  a  definite  principle  of  navi¬
 gation  and  warfare  characteristic  of  the  people  who  form  the
-special  element  in  this  part  of  Melanesia,  viz.,  the  betel-
-people.  It  is  to  this  people  that  I  ascribe  the  practice  of
+special  element  in  this  part  of  Melanesia,  viz.,  the  betelpeople.  It  is  to  this  people  that  I  ascribe  the  practice  of
 head-hunting,  and  it  is  thoroughly  consistent  with  this  ascrip¬
 tion  that  a  special  kind  of  canoe  and  mode  of  navigation
 should  be  found  where  this  influence  has  been  dominant.
@@ -22534,8 +21525,7 @@ make  double  canoes,  are  far  more  frequent.  If  the  knowledge
 of  plank-building  were  owned  by  the  kava-people,  it  becomes
 a  question  whether  the  dug-out  canoe  may  not  have  belonged
 to  the  earlier  inhabitants  of  Polynesia  who  interred  their  dead
-in  the  sitting  position.  If  so,  it  would  follow  that  the  dug-
-out  canoe  of  Melanesia  may  also  be  ascribed  to  this  people.
+in  the  sitting  position.  If  so,  it  would  follow  that  the  dugout  canoe  of  Melanesia  may  also  be  ascribed  to  this  people.
 The  people  who  interred  their  dead  in  the  sitting  position
 must  have  reached  the  islands  of  Polynesia  and  Melanesia  in
 some  kind  of  canoe,  and  such  canoes  must  have  been  large
@@ -22569,8 +21559,6 @@ using  the  dug-out  canoe.
 
 Structural  Survivals  in  the  Canoe
 
-
-453
 
 feature  of  the  canoe  of  southern  Melanesia  which  suggests  its
 ascription  to  this  people.  The  canoe  furnishes  one  of  the
@@ -22620,8 +21608,6 @@ it  is  making  no  great  demand  on  probability  to  assume
 2  Codrington,  M 293  ;  see  also  Westertnarck  Festskrift,  p.  1 10.
 
 
-454  Melanesian  Society
-
 that  these  special  features  have  also  disappeared.  I  have
 already  supposed  that  the  knowledge  of  plank-building  was
 possessed  by  the  kava-people,  and  yet  there  is  no  sign  of  its
@@ -22631,8 +21617,7 @@ of  the  craft  of  the  kava-people  should  also  have  failed  to  be
 introduced  or,  if  introduced,  should  have  disappeared  later.
 
 Alternative  views  are  that  the  features  in  question  were
-brought  into  Oceania  by  some  special  migration  of  the  kava-
-people  which  did  not  reach  southern  Melanesia,  or  that  they
+brought  into  Oceania  by  some  special  migration  of  the  kavapeople  which  did  not  reach  southern  Melanesia,  or  that  they
 are  due  to  some  still  later  migration.  If,  as  I  suppose,  the
 cult  of  the  sun  and  the  use  of  megalithic  monuments  are  due
 to  a  special  migration  later  than  that  of  the  main  body  of  the
@@ -22667,9 +21652,6 @@ island  may  have  been  reached  by  a  party  of  the  betel-people,
 it  is  more  likely  that  this  pile-dwelling  of  a  dead  chief  is  an
 indication  that  the  practice  of  raising  houses  from  the  ground
 was  known  to  the  kava-people.  If  so,  the  kava-people  must
-
-
-455
 
 
 The  Long  House
@@ -22721,8 +21703,6 @@ sation  founded  by  that  people.
 2  The  full  consideration  of  this  subject  must  be  postponed  till  the  Western
 Solomons  are  dealt  with  in  a  later  work.
 
-
-456  Melanesian  Society
 
 The  square  house  is  only  known  in  Fiji  and  I  will  postpone
 its  discussion  until  I  consider  the  round  house.
@@ -22778,8 +21758,6 @@ bell-roofed  and  the  plate  shows  definitely  the  conical  form  of  the  ro
 The  Round  House
 
 
-457
-
 New  Caledonia1,  and  probably  also  in  the  similarly  shaped
 house  of  Santa  Cruz.  In  the  Western  Solomons  many  of  the
 houses  have  a  rounded  apse-like  end  which  also  suggests  the
@@ -22829,8 +21807,6 @@ the  culture  of  New  Caledonia  and  Santa  Cruz  which  suggests
 houses  at  Meli  in  the  New  Hebrides.
 
 
-458  Melanesian  Society
-
 the  presence  of  some  influence  of  which  other  parts  of  Melane¬
 sia  especially  included  in  my  survey  show  few,  if  any,  traces.  It
 is  possible  that,  in  these  islands  and  in  the  south-western  part
@@ -22859,8 +21835,7 @@ stone  and  umbrella  for  use  in  their  Tamate  society.
 
 In  the  Matambala  of  Florida  the  mysterious  sounds  of  the
 ritual  are  made  by  the  bullroarer,  and  this  object  is  well
-known  in  the  Banks  Islands.  This  suggests  that  the  bull-
-roarer  was  originally  used  in  southern  Melanesia,  but  was
+known  in  the  Banks  Islands.  This  suggests  that  the  bullroarer  was  originally  used  in  southern  Melanesia,  but  was
 displaced  by  the  werewere,  perhaps  because  the  secret  of  the
 bullroarer  became  known,  perhaps  because  the  werewere
 sound  seemed  even  more  likely  to  arouse  the  wonder  and
@@ -22875,9 +21850,6 @@ werewere,  has  yet  survived  as  the  distinguishing  sound  of
 certain  societies  and  grades  of  the  Sukwe.  On  this  supposi¬
 tion  the  werewere,  and  possibly  also  the  meretang,  are  not
 to  be  assigned  to  any  of  the  constituent  cultures  of  Melanesia,
-
-
-459
 
 
 The  Conch  and  Gong
@@ -22931,8 +21903,6 @@ ferred,  it  may  be  called  the  slit-drum  to  distinguish  it  Irom
 the  drum  proper  or  membrane-drum.  The  distribution  of
 
 
-460  Melanesian  Society
-
 the  gong  points  to  its  ascription  either  to  the  kava-people
 or  to  those  who  interred  their  dead  in  the  sitting  position.  It
 is  widely  distributed  in  Polynesia  and  southern  Melanesia
@@ -22983,8 +21953,6 @@ the  pigs  found  in  Polynesia  by  the  earlier  European  navigators
 Domestic  Animals
 
 
-461
-
 were  widely  different  from  the  domestic  pig  of  Europe,  even
 if  they  were  not  members  of  a  different  species,  such  as
 is  still  found  in  New  Guinea.  The  Melanesian  pig  still
@@ -23002,8 +21970,7 @@ totem  in  Santa  Cruz  and  Fiji,  and  its  presence  in  Polynesia
 are  fully  in  accordance  with  this  ascription.
 
 The  fowl.  If  objects  used  in  the  ceremonial  of  the  secret
-organisations  of  Melanesia  are  to  be  ascribed  to  the  kava-
-people,  it  will  follow  that  this  people  was  responsible  for  the
+organisations  of  Melanesia  are  to  be  ascribed  to  the  kavapeople,  it  will  follow  that  this  people  was  responsible  for  the
 introduction  of  the  fowl  into  Melanesia.  The  use  of  its
 feathers  as  the  badge  of  one  of  the  ranks  of  the  Sukwe  and  as
 material  for  money  in  the  Banks  Islands  point  to  its  associa¬
@@ -23022,8 +21989,7 @@ the  name  for  the  bird  in  the  New  Hebrides.  It  is  most
 unlikely  that  the  bird  was  carried  from  the  New  Hebrides  to
 Niuafou  or  vice  versa ,  and  according  to  the  scheme  of  this
 book,  its  presence  in  these  two  places  is  the  result  of  an
-immigrant  culture  common  to  them,  viz.  that  of  the  kava-
-people.  The  presence  of  the  bush-turkey  in  Melanesia  is
+immigrant  culture  common  to  them,  viz.  that  of  the  kavapeople.  The  presence  of  the  bush-turkey  in  Melanesia  is
 definitely  associated  with  volcanic  activity,  the  heat  of  the
 soil  taking  an  important  part  in  the  incubation  of  the  eggs.
 Niuafou  is  also  volcanic,  and  it  may  have  been  this  character
@@ -23032,8 +21998,6 @@ which  has  allowed  the  survival  of  the  bird  in  that  island.
 
 1  Proc.  Zool.  Soc.  London,  1911,  p.  749
 
-
-462  Melanesian  Society
 
 One  of  the  aims  of  this  chapter  was  to  inquire  how  far
 there  is  evidence  that  the  objects  used  as  money  and  in  the
@@ -23056,15 +22020,13 @@ consistent  with  other  facts  showing  that  the  fowl,  pig  and  dog
 were  brought  by  the  kava-people.
 
 It  remains  to  account  for  the  turtle-shell  of  Vanikolo,  and
-the  porpoise-teeth  and  arm-rings  of  the  Solomons.  Turtle-
-shell  is  used  as  the  material  for  the  most  highly  prized  of  the
+the  porpoise-teeth  and  arm-rings  of  the  Solomons.  Turtleshell  is  used  as  the  material  for  the  most  highly  prized  of  the
 ornaments  of  Vanikolo,  and  it  is  probable  that  it  was  the
 utilisation  of  turtle-shell  by  the  immigrants  to  make  this
 ornament  which  led  to  its  adoption  as  currency.  It  may
 have  been  only  through  the  arts  of  the  immigrants  that
 it  became  possible  to  catch  the  turtle,  and  similarly,  it  may
-have  been  only  through  some  art  introduced  by  the  betel-
-people  that  the  porpoise  was  first  caught.  Of  the  arm-rings
+have  been  only  through  some  art  introduced  by  the  betelpeople  that  the  porpoise  was  first  caught.  Of  the  arm-rings
 used  as  money  in  the  Western  Solomons,  all  that  can  be  said
 is  that  the  manufacture  of  the  more  important  kinds  would
 only  become  possible  after  the  introduction  of  the  drill,  and
@@ -23092,8 +22054,7 @@ of  the  Tamate  societies,  we  again  meet  with  the  pig  and  the
 cycas.
 
 Nearly  all  these  articles  are  prominent  in  the  culture  of
-Polynesia  and  must  therefore  be  ascribed  either  to  the  kava-
-people  or  to  those  who  interred  their  dead  in  the  sitting
+Polynesia  and  must  therefore  be  ascribed  either  to  the  kavapeople  or  to  those  who  interred  their  dead  in  the  sitting
 position.  In  some  cases  the  objects  are  associated  with  the
 chiefs  of  Polynesia,  so  that  according  to  the  general  scheme
 of  this  volume  they  are  to  be  assigned  to  the  kava-people.
@@ -23211,12 +22172,6 @@ in  vocabulary  and  that  the  grammar  is  essentially  Melanesian  in  charac
 R.  M.  s.  II.
 
 
-30
-
-
-466
-
-
 Melanesian  Society
 
 examples  of  the  linguistic  diversity  which  existed  before  the
@@ -23316,8 +22271,6 @@ other  missions,  partly  to  the  knowledge  of  English  possessed  by  native
 from  Queensland,  and  partly  to  the  increase  of  the  white  population.
 
 
-468  Melanesian  Society
-
 between  the  inhabitants  of  different  districts  and  islands,  but
 the  only  language  of  the  people.  It  is  part  of  my  general
 scheme  that  the  descendants  of  the  kava-people  gradually
@@ -23415,8 +22368,6 @@ There  can  be  little  doubt  also  that  the  phonetic  variations
 1  This  subject  is  more  fully  considered  later  in  this  chapter  (see  p.  483).
 
 
-470  Melanesian  Society
-
 of  the  languages  of  Melanesia  are  largely  to  be  explained  by
 the  influence  of  the  earlier  inhabitants.  Many  of  the  phonetic
 interchanges  best  known  to  philologists  can  be  found  even
@@ -23449,8 +22400,7 @@ mothers.  This  process  would  be  the  more  natural  if  the
 language  of  the  betel-people  did  not  differ  very  widely  from
 that  of  the  earlier  immigrants.  The  existence  of  common
 elements  in  the  use  of  kava  and  betel,  in  the  cult  of  the  dead
-and  in  the  material  culture,  has  led  me  to  regard  the  kava-
-and  betel-peoples  as  closely  allied  to  one  another,  and  the
+and  in  the  material  culture,  has  led  me  to  regard  the  kavaand  betel-peoples  as  closely  allied  to  one  another,  and  the
 slight  differences  between  the  languages  of  places  settled
 by  the  betel-people  and  those  they  did  not  reach  suggest
 that  the  languages  of  the  kava-  and  betel-peoples  did  not
@@ -23510,8 +22460,6 @@ Even,  however,  if  such  factors  could  explain  the  variations
 in  vocabulary,  they  cannot  account  for  the  phonetic  differ¬
 ences.  These  must  be  due  to  definite  structural  differences
 
-
-472  Melanesian  Society
 
 in  the  organs  of  speech,  and  it  is  most  unlikely  that  these
 could  be  produced  by  such  differences  of  environment  as
@@ -23610,8 +22558,6 @@ Polynesian  people.  The  absence  of  the  chief  cause  of
 1  Especially  the  highly  developed  curvilinear  character  of  their  decorative  art.
 
 
-474  Melanesian  Society
-
 Melanesian  diversity  thus  goes  far  to  account  for  the  uni¬
 formity  of  Polynesia.
 
@@ -23707,8 +22653,6 @@ the  great  influence  of  isolation  in  the  production  of  linguistic
 diversity.  The  Polynesian  evidence  reinforces  that  derived
 
 
-476  Melanesian  Society
-
 from  Melanesia  in  showing  that  the  blending  of  peoples  is  a
 far  more  potent  factor  than  isolation.  The  greatest  linguistic
 differences  among  peoples  of  similar  culture  with  which  we
@@ -23721,8 +22665,7 @@ not  a  physical  cause,  but  is  due  to  social  and  ethnical  factors.
 
 I  can  now  return  to  Melanesia.  The  study  of  Polynesian
 language  has  led  to  the  conclusion  that  the  people  who
-interred  their  dead  in  the  sitting  position  spoke  an  Austro-
-nesian  language.  This  people  entered  Melanesia  before
+interred  their  dead  in  the  sitting  position  spoke  an  Austronesian  language.  This  people  entered  Melanesia  before
 the  kava-people  and,  in  some  way  I  have  yet  to  consider,
 helped  to  produce  the  culture  I  regarded  at  one  time  as
 aboriginal.  It  follows  that  the  kava-people  were  not  the
@@ -23804,8 +22747,6 @@ become  separated  from  this  inland  group.  In  Santa  Cruz  and
 its  neighbours  we  have  a  group  of  islands  occupying  a  position
 1  See  Joly,  Bull,  de  la  Soc.  d’Anth .,  Paris,  1904,  Ser.  V,  t.  v,  p.  365.
 
-
-478  Melanesian  Society
 
 which,  as  I  have  already  pointed  out  (n,  299),  might  lead  to
 their  escape  from  some  of  the  influences  which  have  affected
@@ -23901,8 +22842,6 @@ cepted,  this  people  might  be  called  the  Proto-Polynesians,  but  I  hesit
 term  in  the  present  state  of  our  knowledge.
 
 
-480  Melanesian  Society
-
 indigenous  speech.  Further,  I  suppose  that  the  difference
 thus  produced  by  different  degrees  of  admixture  with  the
 aboriginal  tongues  was  accentuated  by  the  isolation  which
@@ -23912,8 +22851,7 @@ of  linguistic  diversity  which  made  the  use  of  their  language
 necessary  as  a  lingua  franca.  Moreover,  I  suppose  that  they
 had  a  far  greater  success  than  the  sitting-interment  people
 in  bringing  about  linguistic  uniformity  in  Melanesia.  This
-greater  success  would  have  been  due,  partly  to  the  Austro-
-nesian  character  already  given  to  the  languages  of  the  dual
+greater  success  would  have  been  due,  partly  to  the  Austronesian  character  already  given  to  the  languages  of  the  dual
 people  by  the  earlier  settlement  of  the  people  who  practised
 sitting  interment,  but  still  more  to  the  influence  of  the  secret
 organisations  which  I  have  already  considered, — this  acting
@@ -24000,11 +22938,6 @@ habited  the  islands  of  Melanesia.
 r.  m.  s.  II.
 
 
-31
-
-
-482  Melanesian  Society
-
 Moreover,  in  language,  as  in  other  departments  of  human
 culture,  there  will  always  be  the  possibility  that  its  features
 may  not  belong  to  any  one  of  the  elements  out  of  which
@@ -24054,8 +22987,7 @@ introducing  their  own  terms  of  relationship  when  they  were
 Immigrants  and  Vocabiriary  483
 
 the  means  of  bringing  about  modifications  of  the  social
-organisation  of  the  earlier  inhabitants.  Where  the  kava-
-people  did  not  influence  the  social  structure,  I  have  supposed
+organisation  of  the  earlier  inhabitants.  Where  the  kavapeople  did  not  influence  the  social  structure,  I  have  supposed
 that  the  earlier  terms  persisted  and  became  part  of  the  lan¬
 guage  of  the  people  which  resulted  from  the  fusion  between
 the  dual  and  kava-peoples.
@@ -24099,10 +23031,7 @@ people  who  interred  their  dead  in  the  sitting  position,
 greatly  modified  by  indigenous  influence,  but  it  is  most
 
 
-484  Melanesian  Society
-
-improbable  that  they  belong  to  the  vocabulary  of  the  kava-
-people.
+improbable  that  they  belong  to  the  vocabulary  of  the  kavapeople.
 
 I  suggest,  then,  as  a  general  principle  which  may  help  in
 the  distinction  of  different  strata  in  vocabulary  that  those
@@ -24133,8 +23062,7 @@ naming  of  animals,  and  especially  of  birds,  in  Melanesia.
 
 The  principle  I  have  just  suggested  is  one  which  may  be
 applied  at  any  stage  of  Melanesian  history.  I  have  drawn
-my  examples  especially  from  the  interaction  between  the  kava-
-people  and  the  earlier  settlers  organised  on  the  dual  basis
+my  examples  especially  from  the  interaction  between  the  kavapeople  and  the  earlier  settlers  organised  on  the  dual  basis
 of  society,  but  it  may  be  applied  to  any  other  of  the  inter¬
 actions  I  suppose  to  have  taken  place  in  Melanesia,  to  that
 of  the  betel-people  with  those  produced  by  the  blend  of  the
@@ -24195,9 +23123,6 @@ the  words  vui  and  oloolo.  In  this  chapter  it  is  their  dis¬
 tribution  which  leads  me  to  connect  them  with  the  earlier
 immigrants  into  Oceania,  but  this  agrees  with  the  view
 I  have  advanced  in  Chapter  xxxm  where  I  have  shown
-
-
-486
 
 
 Melanesian  Society
@@ -24297,8 +23222,6 @@ a  secondary  and  indirect  consequence  of  the  interaction  of
 peoples.
 
 
-488  Melanesian  Society
-
 I  put  forward  this  hypothesis  of  the  origin  of  the  two
 different  forms  of  the  first  person  plural  in  Oceania  only
 as  an  example  of  the  kind  of  process  whereby  grammatical
@@ -24395,8 +23318,6 @@ words.
 2  M.L. ,  28.
 
 
-490  Melanesian  Society
-
 far  from  having  the  difficulty  of  the  language  spoken  by  the
 first  comers.  I  suggest  that,  in  consequence  of  this  greater
 familiarity,  the  new  comers  would  be  able  to  modify  the  earlier
@@ -24414,8 +23335,7 @@ classes  of  possessive  in  Melanesia  belong  to  two  successive
 migrations  of  people  speaking  allied  languages.  The  whole
 argument  of  this  chapter,  however,  has  gone  to  show  that
 there  have  been  two  such  successive  migrations  even  in  those
-parts  of  Melanesia  which  have  not  been  reached  by  the  betel-
-people.  It  is  therefore  in  accordance  with  the  general  scheme
+parts  of  Melanesia  which  have  not  been  reached  by  the  betelpeople.  It  is  therefore  in  accordance  with  the  general  scheme
 of  this  chapter  that  the  possessive  nouns  of  Melanesia  should
 belong  primarily  to  the  languages  which  were  the  outcome  of
 the  earliest  settlement  of  people  speaking  an  Austronesian  lan¬
@@ -24446,9 +23366,6 @@ of  the  kava-people.
 
 
 Possessive  Pronouns
-
-
-491
 
 
 out  of  a  large  class  of  men  would  have  been  the  result  of  the
@@ -24495,9 +23412,6 @@ I  venture  to  suggest,  then,  that  the  true  possessive  pro¬
 nouns  of  Melanesia  were  introduced  by  the  kava-people  ;
 in  two  out  of  the  three  classes  of  noun  with  which  they  are
 used  it  is  possible  to  refer  their  introduction  to  definite  social
-
-
-492
 
 
 Melanesian  Society
@@ -24596,8 +23510,6 @@ of  which  possession  is  denoted  in  Oceania  the  direct  con¬
 sequences  of  the  social  development  which  followed  immigrant
 
 
-494  Melanesian  Society
-
 influence  and  furnishes  a  good  example  of  the  close  inter¬
 dependence  of  linguistic  with  other  aspects  of  human  culture.
 
@@ -24695,8 +23607,6 @@ the  words  used  to  denote  them  and  their  constituent  parts.
 1  Folk-Lore ,  1909,  xx,  254.
 
 
-496  Melanesian  Society
-
 Language  has  not  developed  by  itself  as  an  independent  and
 isolated  part  of  human  culture,  but  has  grown  in  the  closest
 association  with  social  needs.  Those  who  wish  to  understand
@@ -24754,8 +23664,6 @@ R.  m.  s.  II.
 3  2
 
 
-498  Melanesian  Society
-
 the  nature  of  the  means  of  navigation  in  recent  times  must
 have  made  their  occurrence  exceptional.
 
@@ -24793,8 +23701,7 @@ It  also  includes  Duke  of  York  Island  and  the  southern  part
 of  New  Ireland.  I  shall  first  consider  the  majority  of  the
 inhabitants  of  this  region  who  speak  Melanesian  languages,
 and  shall  then  consider  briefly  the  Sulka,  who  differ  from  the
-other  possessors  of  the  dual  system  in  speaking  a  non-Mela-
-nesian  language.  I  shall  also  deal  here  briefly  with  another
+other  possessors  of  the  dual  system  in  speaking  a  non-Melanesian  language.  I  shall  also  deal  here  briefly  with  another
 people  of  the  Gazelle  Peninsula,  the  Baining,  who  speak
 a  non- Melanesian  language.
 
@@ -24804,9 +23711,6 @@ a  non- Melanesian  language.
 2  I  propose  to  call  this  and  other  islands  of  the  archipelago  by  their  old
 names.  In  doing  so,  I  am  only  following  the  example  of  more  than  one  German
 ethnologist.
-
-
-499
 
 
 32 - 2
@@ -24876,8 +23780,7 @@ Animals  of  the  Moieties  501
 the  moieties  are  called  after  To  Kambinanaand  To  Kovuvuru
 (or  Karvuvu),  two  legendary  persons  to  whom  I  shall  return
 later.  Everywhere  else  the  moieties  have  definite  names.
-In  Duke  of  York  Island  they  are  called  Pikalaba  and  Mara-
-mara1,  and  these  names  are  used  also  in  the  Laur  district  of
+In  Duke  of  York  Island  they  are  called  Pikalaba  and  Maramara1,  and  these  names  are  used  also  in  the  Laur  district  of
 New  Ireland2,  while  further  south  in  this  island  the  moieties
 are  called  Baumbaum  and  Marrmarr3 *,  the  latter  evidently  being
 a  modification  of  Maramara.
@@ -24933,8 +23836,6 @@ great,  so  that  it  is  the  exact  equivalent  of  malaba.
 
 7  Op.  cit.  p.  612.  8  Meier,  op.  cit .  p.  20.
 
-
-502  Melanesian  Society
 
 moieties  of  other  districts  these  groups  connected  with  the
 coconut  correspond,  but  there  is  evidence  that  the  Maramara
@@ -25029,8 +23930,7 @@ in  addition  to  the  Pandion  and  Haliaetus.
 A  quite  different  feature  of  the  moieties  is  that  they  are
 connected  in  some  places  with  certain  legendary  personages.
 I  have  already  mentioned  that,  according  to  Danks,  the
-moieties  of  the  Gazelle  Peninsula  are  named  after  To  Kam-
-binana  and  To  Kovuvuru,  the  heroes  of  a  large  cycle  of  tales
+moieties  of  the  Gazelle  Peninsula  are  named  after  To  Kambinana  and  To  Kovuvuru,  the  heroes  of  a  large  cycle  of  tales
 in  which  the  former  appears  as  a  kind  of  personification  of
 ability  and  guile,  while  To  Kovuvuru  represents  stupidity  and
 ignorance.  A  connection  with  persons  similarly  opposed  in
@@ -25044,8 +23944,6 @@ of  the  totem-birds,  Thurnwald,  Forschu?ige?i . ,  I,  317.
 
 6  Poch,  loc.  cit.  <7  Peekel,  Religion  und  Zauberei ,  p.  7.
 
-
-504  Melanesian  Society
 
 while  the  head  of  the  Pikalaba  is  Tamono,  a  fool  who  was
 continually  falling  a  victim  to  the  deceptions  of  Soi1.
@@ -25098,9 +23996,6 @@ P-  93-
 4  Anthropos,  1908,  in,  459,  and  Religio?i  u.  Zauberei,  p.  16.
 
 5  Ibid.  II,  220.
-
-
-505
 
 
 Sub-groups  of  the  Moieties
@@ -25232,8 +24127,7 @@ prefix,  as  hintama.  Other  terms  used  by  her  nephews  are
 remarkable  in  that  they  differ  for  the  two  moieties,  a  feature
 of  the  terminology  of  relationship  for  which  there  is  no  known
 parallel  in  other  parts  of  Melanesia.  If  a  child  is  of  the  Tarago
-moiety,  he  calls  his  father’s  sister  rahat ,  but  if  one  of  the  Paki-
-laba,  the  word  he  uses  is  tau.  These  words  are  used  recipro¬
+moiety,  he  calls  his  father’s  sister  rahat ,  but  if  one  of  the  Pakilaba,  the  word  he  uses  is  tau.  These  words  are  used  recipro¬
 cally.  A  man  may  not  marry  his  father’s  sister,  and  the  two
 do  not  use  their  personal  names  ;  there  is  no  other  kind  of
 avoidance,  but  nephew  and  aunt  may  embrace  and  joke  with
@@ -25252,8 +24146,6 @@ which  we  have  not  met  before,  but  this  may  be  owing  to
 defect  of  my  own  information,  for  the  husband’s  mother’s
 
 
-508  Melanesian  Society
-
 brother  is  not  a  relationship  for  which  I  have  especially
 sought  a  name,  though  it  is  one  we  might  expect  to  be
 distinguished  by  a  matrilineal  people.  Another  correspon¬
@@ -25265,8 +24157,7 @@ daughter  of  the  brother.  Here,  however,  the  term  in  question
 is  also  used  reciprocally  for  the  daughter-in-law  and  grandchild.
 
 There  is  a  special  term  lapu  for  cross-cousins  of  the  same
-sex,  but  those  of  different  sex  call  one  another  hine,  or  hine-
-kokup ,  hine  being  the  term  for  the  brother-sister  relationship.
+sex,  but  those  of  different  sex  call  one  another  hine,  or  hinekokup ,  hine  being  the  term  for  the  brother-sister  relationship.
 Cross-cousins  ( hine-kokup )  may  not  marry,  nor  may  they
 utter  each  other’s  names,  and  they  avoid  one  another  in  the
 same  way  as  brother  and  sister.  It  is  clear  from  Peekel’s
@@ -25456,8 +24347,6 @@ connection  with  the  organisation.
 3  It  may  be  noted  that  duka  is  the  word  for  “ghost”  in  Santa  Cruz.
 
 
-5 1 2  Melanesian  Society
-
 Gazelle  Peninsula,  but  there  is  no  definite  evidence  that  these
 dances  are  connected  with  the  Dukduk  societies.  Parkinson
 speaks  of  dukduk  masks  and  skull-masks  as  if  they  were
@@ -25510,8 +24399,6 @@ is  now  extinct,  but  there  is  definite  evidence  of  its  former
 Dukduk  and  Tamate
 
 
-513
-
 importance  in  this  district  ;  it  is  probably  from  here  that  the
 organisation  reached  the  districts  where  it  now  flourishes.
 
@@ -25559,13 +24446,6 @@ death  of  the  Tamate  in  the  Banks  Islands  may  be  the  survival
 of  a  celebration  of  the  annual  changes  of  the  sun  which  are  the
 special  object  of  the  ritual  of  the  Areoi  in  the  Marquesas.
 
-33
-
-
-R.  M.  S.  II.
-
-
-514  Melanesian  Society
 
 In  the  Banks  Islands  we  have  no  evidence  of  any  seasonal
 character,  but  in  the  case  of  the  Dukduk  this  is  very  definite.
@@ -25769,8 +24649,6 @@ from  this  direction  is  furnished  by  the  fact  that,  even  now,
 the  celebrations  travel  from  west  to  east,  a  direction  opposed
 
 
-5 1 8  Melanesian  Society
-
 to  the  movement  of  the  Dukduk  which  is  first  celebrated  in
 the  east  and  travels  westward1.
 
@@ -25823,9 +24701,6 @@ origin  of  the  organisation  on  lines  similar  to  that  by  which
 “Magic”  in  the  Ingiet
 
 
-519
-
-
 I  have  sought  to  explain  the  Tamate  societies.  I  have  sup¬
 posed  that  the  magic  of  southern  Melanesia  is  mainly  or
 entirely  derived  from  the  culture  of  the  people  who  inhabited
@@ -25871,9 +24746,6 @@ being  into  which  he  wishes  it  to  go.  This  may  be  one  of
 a  certain  number  of  animals,  or  the  magit  may  take  a  new
 
 1  Anthropos ,  1913,  vm,  285.
-
-
-520
 
 
 Melanesian  Society
@@ -25975,8 +24847,6 @@ grants  were  able  to  bring  about  a  state  of  affairs  in  their  new
 home  which  made  unnecessary  any  attempt  to  awaken  or
 
 
-522  Melanesian  Society
-
 strengthen  belief  in  their  malign  influence.  Their  natural
 gifts  and  their  material  arts  would  have  been  sufficient  to
 ensure  their  power  and  influence  in  their  new  home.  In
@@ -25997,8 +24867,7 @@ where  in  Melanesia  have  come  to  form  elements  in  religion
 or  in  the  social  structure,  have  here  become  the  means  whereby
 an  alien  people  strove  to  strengthen  their  position  by  bringing
 harm  upon  those  who  ventured  to  stand  in  their  way.  In
-this  connection  it  is  noteworthy  that  blackmail  and  terrorisa-
-tion,  as  features  of  the  secret  organisations,  seem  to  be  more
+this  connection  it  is  noteworthy  that  blackmail  and  terrorisation,  as  features  of  the  secret  organisations,  seem  to  be  more
 highly  developed  in  the  Bismarck  Archipelago  than  in  southern
 Melanesia,  a  difference  to  be  expected  if  the  immigrants  in
 one  place  were  able  to  make  their  way  without  bringing  into
@@ -26053,8 +24922,7 @@ monies  are  performed  in  which  as  many  as  eight  or  ten  people
 may  take  part.  The  initiation  of  boys  is  evidently  one  of  the
 purposes  of  this  ceremonial.  We  know  little  about  the  exact
 nature  or  meaning  of  the  proceedings,  one  feature  of  which  is
-the  thrusting  of  lances  at  two  wooden  images  of  the  “sea-
-eagle”  which  hang  on  poles  before  the  tower,  but  the  pyramidal
+the  thrusting  of  lances  at  two  wooden  images  of  the  “seaeagle”  which  hang  on  poles  before  the  tower,  but  the  pyramidal
 character  of  the  tower  and  its  great  size  suggest  that  it  may
 stand  in  some  relation  to  the  pyramids  of  the  Polynesian
 marae  and  the  Fijian  nanga.  It  is  possible  that  the  wooden
@@ -26071,8 +24939,6 @@ tions  of  the  two  regions,  not  only  in  general  character,  but
 1  For  an  account  of  the  ceremony  see  Parkinson,  p.  607  ;  and  Meier,  Anthropos ,
 1910,  V,  108;  1911,  VI,  843  ;  and  Mythen  u.  Erzahl ,  p.  151.
 
-
-524  Melanesian  Society
 
 even  in  minute  details.  Perhaps  the  most  striking  fact  which
 has  emerged  from  the  comparison  is  the  clear  evidence  of  an
@@ -26174,8 +25040,6 @@ proposition  is  true  of  the  Bismarck  Archipelago.  One  feature
 Melanesian  Society
 
 
-526
-
 of  distribution  in  this  region  distinctly  supports  the  general¬
 isation.  The  Dukduk  is  highly  developed  in  Duke  of  York
 Island,  and  there  is  some  reason  to  suppose  that  the  secret
@@ -26271,8 +25135,6 @@ knock  off  a  hump  of  the  shell  and  thus  produce  a  perforated
 1  Op.  cit.  pp.  191-2 ;  elsewhere  (p.  202)  Kleintitschen  speaks  of  the  low  position
 of  women.
 
-
-528  Melanesian  Society
 
 disc1.  As  in  the  Banks  Islands,  the  shells  are  collected  by
 men,  and  in  New  Britain  there  is  a  definite  reason  why  this
@@ -26374,14 +25236,6 @@ into  the  sea  with  the  feet  weighted  so  that  it  assumes  the
 1  Friederici,  op.  cit.  p.  165.  2  Parkinson,  op .  tit.  p.  75.
 
 
-R.  M.  S.  II.
-
-
-34
-
-
-530  Melanesian  Society
-
 upright  position.  Rarely  the  body  of  a  chief  is  interred  in
 this  position1.
 
@@ -26477,13 +25331,10 @@ a  remarkable  fact  that  Duke  of  York  Island,  where  the
 upright  position  also  occurs,  is  especially  the  home  of  the
 Dukduk  which,  according  to  my  scheme,  also  embodies  a  cult
 of  the  sun.  We  thus  obtain  further  evidence  that  this  cult  of
-the  sun  was  not  a  part  of  the  general  culture  of  the  kava-
-people,  but  was  brought  into  Melanesia  by  a  distinct  and
+the  sun  was  not  a  part  of  the  general  culture  of  the  kavapeople,  but  was  brought  into  Melanesia  by  a  distinct  and
 relatively  late  migration,  the  migration  of  a  people  who  placed
 their  dead  in  the  upright  position  after  death.  If  there  is
 
-
-232  Melanesian  Society
 
 anything  in  this  view,  it  might  be  expected  that  the
 upright  position  would  also  be  found  in  the  Society  an
@@ -26520,21 +25371,14 @@ which  is  found  elsewhere2.
 Incision.
 
 
-This  custom  is  carried  out  by  the  Barriai  and  neighbour-
-ing  peoples  and  also  at  Nakanai,  but  there  is  no  evidence  of
+This  custom  is  carried  out  by  the  Barriai  and  neighbouring  peoples  and  also  at  Nakanai,  but  there  is  no  evidence  of
 its  occurrence  in  the  Gazelle  Peninsula  or  New  Ireland3.
-Among  the  Barriai  and  Kilenge  peoples,  a  garment  of  bark-
-cloth  is  worn  in  such  a  way  as  to  suggest  that  the  practice  of
+Among  the  Barriai  and  Kilenge  peoples,  a  garment  of  barkcloth  is  worn  in  such  a  way  as  to  suggest  that  the  practice  of
 incision  may  have  been  combined  with  an  objection  to  the
 part  exposed  by  the  operation  being  seen4.  If  this  be  so,  this
 region  shows  a  striking  resemblance  to  Polynesia  and  the
 southern  New  Hebrides.  It  is  also  a  remarkable  point  of
 resemblance  with  southern  Melanesia  that  incision  should  be
-
-
-1
-
-2
 
 
 Kleintitschen,  op.  cit.  p.  225.  „  _  ,  ,  ,  ,  A
@@ -26548,9 +25392,6 @@ shortly  in  Folk-Lore.
 
 
 4  Ibid.  p.  152.
-
-
-533
 
 
 Shell-money  and  Kava
@@ -26577,8 +25418,7 @@ to  find  signs  of  the  material  culture  of  this  people,  and  I  have
 now  to  inquire  how  far  this  is  the  case.
 
 The  chief  material  objects  which  I  have  been  led  to
-ascribe  to  the  kava-people  are  the  following  : — kava,  shell-
-money,  the  pig  and  fowl,  the  bow  and  arrow,  the  wooden
+ascribe  to  the  kava-people  are  the  following  : — kava,  shellmoney,  the  pig  and  fowl,  the  bow  and  arrow,  the  wooden
 gong,  the  conch-shell,  the  fillet  and  the  cycas  tree.  I  have
 now  to  inquire  whether  these  objects  are  used  in  the  dual
 region,  and  especially  whether  they  have  such  a  connection
@@ -26601,8 +25441,6 @@ Archipelago.
 The  pig  and  the  fowl  are  both  present  in  the  Bismarck
 Archipelago,  and  I  have  already  considered  the  importance  of
 
-
-534  Melanesian  Society
 
 the  pig  in  connection  with  the  Ingiet  societies.  Difficult  as
 it  may  be  to  explain  the  abstinence  of  members  of  the  Ingiet
@@ -26657,9 +25495,6 @@ Voyage  autonr  du  Monde ,  1826,  I,  981.
 The  Conch  and  Fillet
 
 
-535
-
-
 means  of  certain  rhythms  and  variations  of  the  sound1.  The
 instrument  has  thus  a  definite  utilitarian  purpose  as  well  as  a
 ceremonial  use,  and  we  know  of  no  such  purpose  in  southern
@@ -26710,8 +25545,6 @@ sent  in  the  Dukduk  and  Ingiet ,  but  are  used  in  such  a  way  as
 2  J.  Meier,  Anthropos ,  1911,  VI,  860.  3  Ibid.  p.  844.
 
 
-536  Melanesian  Society
-
 to  show  their  close  connection  with  the  essential  purpose  of
 the  societies.  We  have  here  striking  evidence,  not  only  in
 favour  of  the  common  source  of  the  organisations  of  the  two
@@ -26722,8 +25555,7 @@ societies.
 
 Only  one  other  element  of  the  material  culture  need  be
 considered  here.  The  dual  region  of  the  Bismarck  Archi¬
-pelago  possesses  two  kinds  of  canoe,  the  dug-out  with  out-
-rigger  which  is  in  general  use  throughout  the  region  and  the
+pelago  possesses  two  kinds  of  canoe,  the  dug-out  with  outrigger  which  is  in  general  use  throughout  the  region  and  the
 plank-built  canoe,  called  mon ,  which  is  only  found  at  the
 southern  end  of  New  Ireland.  I  have  already  suggested  that
 the  disappearance  of  the  secret  organisations  at  the  southern
@@ -26761,8 +25593,6 @@ objects  used  in  the  secret  organisations.  Spirals  occur  on  the
 
 Curvilinear  Art
 
-
-537
 
 masks  of  the  Dukdukx  and  on  the  wooden  gongs1 2  which  we
 have  seen  to  be  so  closely  associated  with  this  institution.
@@ -26812,8 +25642,6 @@ Archipel.  z/.  Neuguinea ,  Leipzig,  1902,  p.  152.
 
 2  See  Eberlein,  Anthropos ,  1910,  V,  635.
 
-
-538  Melanesian  Society
 
 continually  at  warfare  with  the  Gaktai,  a  mountain  people
 occupying  the  hills  between  Wide  and  Open  Bays,  together
@@ -26867,9 +25695,6 @@ XXIX,  209)  and  of  Parkinson,  op.  cit.  p.  177.
 The  Sulka
 
 
-539
-
-
 approach.  Masks  kept  in  this  house  are  used  in  dances,  and
 young  men,  regarded  as  the  children  of  these  masks,  often
 destroy  property  and  behave  in  other  ways  like  the  members
@@ -26917,8 +25742,6 @@ know  how  close  is  the  resemblance  between  the  structures
 1  This  practice  is  followed  in  the  Western  Solomon  Islands  where  I  suppose
 the  influence  of  the  betel-people  to  have  been  predominant.
 
-
-540  Melanesian  Society
 
 called  towers  in  these  two  cases,  but  it  is  noteworthy  that  it
 is  only  among  two  neighbouring  peoples  of  New  Britain  that
@@ -27022,8 +25845,6 @@ Dreissig  Jahre . ,  pp.  155  and  613  ;  much  of  it  was  obtained  by  Par
 Father  Rascher.
 
 
-.  542  Melanesian  Society
-
 are  worn,  but  the  most  striking  feature  of  the  ceremony  is
 ,the  use  of  enormous  objects,  it  may  be  as  much  as  45  metres
 in  length,  which  are  held  over  the  heads  of  the  chief  actors.
@@ -27122,8 +25943,6 @@ with  the  dead  once  existed  but  has  disappeared,  just  as
 1  Parkinson,  op.  cit.  p.  652.
 
 
-544  Melanesian  Society
-
 we  must  suppose  the  sacred  character  of  the  totems  to  have
 disappeared.
 
@@ -27146,8 +25965,7 @@ descendants  of  the  kava-people.  I  have  suggested  that  the
 mode  of  burial  practised  by  the  Sulka  may  be  in  part  a
 survival  of  practices  belonging  to  a  megalithic  culture ;  the
 similar  character  of  the  Siara  rites  suggests  that  the  immi¬
-grants  into  this  region  belonged  to  that  section  of  the  kava-
-people  who  constructed  the  stone  monuments  of  Oceania.
+grants  into  this  region  belonged  to  that  section  of  the  kavapeople  who  constructed  the  stone  monuments  of  Oceania.
 
 Northern  New  Ireland  and  New  Hanover.
 
@@ -27176,8 +25994,6 @@ concerning  the  nature  of  the  ceremonies  in  which  these
 
 Masks  and  Totemism
 
-
-545
 
 objects  are  used.  It  is  clear,  however,  in  the  first  place,  that
 they  are  connected  with  a  cult  of  dead  ancestors  and,  in  the
@@ -27224,14 +26040,6 @@ placed  in  the  sitting  position  and  then  packed  in  coral-chalk
 and  hung  under  the  roof  of  the  house  where  it  may  be  kept
 1  Parkinson,  641.  2  Op.  cit.  650.
 
-
-R.  M.  S.  II.
-
-
-35
-
-
-546  Melanesian  Society
 
 for  many  years.  This  method  is  evidently  to  be  brought
 into  relation  with  mummification,  and  is  a  definite  example  of
@@ -27299,8 +26107,7 @@ were  nevertheless  burnt  before  his  eyes1.  We  seem  to  have
 
 GIje  u  ass°ciation  between  the  practice  of  cremation
 
-and  the  burning  of  masks  after  they  have  been  used  in  cere-
-momal  It  is,  therefore,  significant  that  the  masks  of  the
+and  the  burning  of  masks  after  they  have  been  used  in  ceremomal  It  is,  therefore,  significant  that  the  masks  of  the
 Dukduk  are  burnt  at  the  time  of  the  “  death  ”  of  the  Dukduk,
 and  that  the  tindalo  were  also  burnt  at  the  end  of  the  celebra-
 °fthe  Matambala  of  Florida.  In  the  Tamate  societies
@@ -27341,8 +26148,6 @@ Brown,  Afelanesians  and  Polynesians,  p.  192.
 35—2
 
 
-548  Melanesian  Society
-
 whole.  Cremation  is  not  a  mode  of  disposal  of  the  dead
 which  it  would  be  easy  to  introduce  into  a  new  home.  It  is
 only  where  immigrants  acquired  great  power  that  we  should
@@ -27381,8 +26186,7 @@ that  the  object  called  oara  which  represents  the  sun  in  New
 Ireland  is  burnt  at  the  end  of  the  ceremonial  in  which  it  is
 used,  together  with  the  skull  of  a  dead  man1.
 
-Another  fact  indirectly  connecting  cremation  and  bird-
-totemism  with  a  cult  of  the  sun  comes  from  Florida  in  the
+Another  fact  indirectly  connecting  cremation  and  birdtotemism  with  a  cult  of  the  sun  comes  from  Florida  in  the
 Solomons2.  Each  of  the  kema  or  clans  of  this  island  has  a
 ghostly  tindalo  who  is  regarded  as  an  ancestor.  In  the  case
 of  the  Manukama  clan,  this  tindalo  is  called  Manoga,  and
@@ -27392,9 +26196,6 @@ when  this  being  is  invoked,  the  offering  is  first  raised  towards
 
 
 Cremation  and  Sun-cult
-
-
-549
 
 
 the  east  where  the  sun  rises  and  to  the  west  where  it  sets.
@@ -27410,8 +26211,7 @@ There  are  thus  facts  which  suggest  that  the  people  who
 practised  cremation  and  were  responsible  for  the  introduction
 of  bird-totemism  were  those  whom  I  suppose  to  have  intro¬
 duced  the  cult  of  the  sun  into  Melanesia.  This  view,  however,
-is  beset  by  many  difficulties.  If  the  introducers  of  the  sun-
-cult  practised  cremation,  we  have  to  account  for  the  absence
+is  beset  by  many  difficulties.  If  the  introducers  of  the  suncult  practised  cremation,  we  have  to  account  for  the  absence
 of  cremation  in  Polynesia.  The  only  part  of  Polynesia  where
 the  dead  are  burnt  is  New  Zealand,  and  even  there  it  is  only
 practised  in  some  districts  and  in  special  circumstances1.
@@ -27482,8 +26282,7 @@ position  in  interment  or  disposal  in  water  is  the  result  of  the
 interaction  between  two  peoples,  one  of  whom  practised  cre¬
 mation  and  believed  that  the  dead  go  to  the  sky,  while  the
 other  either  interred  or  threw  their  dead  into  the  water.
-I  suggest  that  in  some  of  the  places  where  the  cremation-
-people  failed  to  introduce  their  practice  of  cremation,  they
+I  suggest  that  in  some  of  the  places  where  the  cremationpeople  failed  to  introduce  their  practice  of  cremation,  they
 succeeded  in  modifying  the  indigenous  orientation  of  the
 corpse  so  as  to  direct  the  dead  towards  the  home  in  the
 sky  whither  they  would  have  been  sent  by  the  practice  of
@@ -27548,8 +26347,6 @@ Parkinson,  Dreissig  Jahre  in  der  Siidsee,  1907,  pp.  349 — 410.
 2  Globus,  1909,  XCV,  193.
 
 
-552  Melanesian  Society
-
 if  it  is  possible  to  show  that  the  customs  peculiar  to  the  three
 peoples  have  been  derived  from  different  cultures.
 
@@ -27601,9 +26398,6 @@ All  accounts  of  the  Moanus,  on  the  other  hand,  point  to
 The  Matankor
 
 
-553
-
-
 their  being  relatively  recent  immigrants  who  are  still  conquer¬
 ing  and  displacing  the  other  peoples,  several  instances  being
 given  by  Parkinson  in  which  they  now  occupy  islands  or
@@ -27649,8 +26443,6 @@ Admiralty  Islands  where  we  know  definitely  of  the  use  of
 kava  is  Lou,  which  is  one  of  the  seats  of  the  Matankor.  This
 suggests  that  there  still  lingers  in  this  island  one  of  the
 
-
-554  Melanesian  Society
 
 original  customs  of  the  kava-people  which  has  disappeared
 everywhere  else  in  northern  Melanesia.
@@ -27773,8 +26565,7 @@ interment  in  the  sitting  position.  Then,  when  the  subject  of
 decorative  art  was  reached,  it  was  found  that  the  rectilinear
 geometrical  art  of  southern  Melanesia  and  Polynesia  could  be
 most  naturally  explained  if  it  belonged  to  a  people  common  to
-these  two  areas  who  reached  Oceania  earlier  than  the  kava-
-people.  In  a  later  chapter  I  was  led  to  assign  the  belief  in
+these  two  areas  who  reached  Oceania  earlier  than  the  kavapeople.  In  a  later  chapter  I  was  led  to  assign  the  belief  in
 the  spirits  called  vui  to  these  earlier  immigrants,  and  then  the
 study  of  the  practice  of  incision  made  it  probable  that  this
 custom  is  a  modification  of  circumcision  practised  by  the  same
@@ -27784,9 +26575,6 @@ to  this  people.  Lastly,  the  existence  of  certain  archaic  forms
 of  Melanesian  language  seemed  to  be  most  naturally  explained
 if  a  people  speaking  a  language  of  the  Austronesian  family  had
 settled  in  Melanesia  before  the  arrival  of  the  kava-people.
-
-
-557
 
 
 Origin  of  Dual  Organisation
@@ -27890,7 +26678,6 @@ centre  round  two  personages  who  in  the  Gazelle  Peninsula
 
 Evidence  from  Mythology  550
 
-1
 
 axe  called  To  Kambinana  and  To  Kovuvuru  or  Karvuvu.  In
 all  these  tales  To  Kambinana  appears  as  a  wise  and  clever,  if
@@ -27940,8 +26727,6 @@ To  Karvuvu  or  Tamono  is  exactly  such  as  would  be  natural
 
 1  Man, ,  1913,  p.  195.
 
-
-560  Melanesian  Society
 
 to  an  ignorant  bush-people  brought  into  contact  with  immi¬
 grants  of  superior  culture  who  have  come  by  sea.  Still  other
@@ -28020,8 +26805,7 @@ these  words  mean  “great  bird,”  but  their  different  forms  may
 be  a  record  of  the  linguistic  diversity  I  suppose  to  have  been
 characteristic  of  the  aborigines.
 
-Another  point  of  interest  is  the  association  of  the  Mara-
-mara  with  male,  and  of  the  Pakilaba  with  female,  objects  (see
+Another  point  of  interest  is  the  association  of  the  Maramara  with  male,  and  of  the  Pakilaba  with  female,  objects  (see
 
 lr’.  l°u  '  m  S  SU¥e?tS  tlla,:  £^e  ass°ciation  of  the  moieties
 with  butterflies  and  the  heavenly  bodies  came  into  existence
@@ -28052,14 +26836,6 @@ interaction  between  two  peoples.  Metathesis  might  be  expected  to  occur 
 foreign  words  imperfectly  understood  are  used  by  an  indigenous  people
 
 
-36
-
-
-R.  M.  S.  II.
-
-
-562  Melanesian  Society
-
 would  be  the  natural  result  of  the  social  condition  produced
 by  the  union  of  a  light  coloured  with  a  negroid  people.
 
@@ -28079,8 +26855,7 @@ mate  with  women  of  some  other  race  and  speech.  From  this
 it  follows  that  the  mode  of  interaction  between  the  people  who
 interred  their  dead  in  the  sitting  position  and  the  true
 aborigines  of  Melanesia  must  have  been  of  a  kind  very
-different  from  that  I  have  formulated  in  the  case  of  the  kava-
-people.  I  have  to  inquire  whether  the  assumption  that  the
+different  from  that  I  have  formulated  in  the  case  of  the  kavapeople.  I  have  to  inquire  whether  the  assumption  that  the
 sitting-interment  people  were  accompanied  by  their  women
 will  help  us  to  understand  the  coming  into  being  of  the  dual
 organisation  of  society.
@@ -28156,8 +26931,6 @@ who  goes  from  the  Gazelle  Peninsula  to  Laur  or  to  Duke  of
 
 36—2
 
-
-564  Melanesian  Society
 
 York  Island  will  find  everywhere  a  mechanism  by  means  of
 which  his  social  conduct  will  be  regulated.
@@ -28256,8 +27029,6 @@ the  immigrant  men  would  have  been  forced  into  polyandrous
 unions  by  the  circumstances  of  their  environment.  There
 
 
-566  Melanesian  Society
-
 would  thus  be  produced  a  general  slackening  of  the  moral  tone
 and  a  tendency  towards  communistic  relations,  even  if  such
 tendencies  had  been  completely  absent  in  their  former  home.
@@ -28353,8 +27124,6 @@ have  tended  to  break  down  any  fixed  ideas  concerning  private
 property  which  the  immigrants  may  have  possessed  in  their
 
 
-568  Melanesian  Society
-
 former  home,  but  it  is  not  possible  to  formulate  so  definitely
 as  in  the  case  of  sexual  relations  the  conditions  which  would
 have  led  the  immigrants  towards  communism  of  property,  nor
@@ -28374,8 +27143,7 @@ property,  should  we  have  to  suppose  that  the  communism  of
 goods  of  Melanesia  has  been  wholly  a  consequence  of  its
 sexual  communism.
 
-A  second  subject  which  must  be  considered  is  the  matri-
-lineal  descent  of  the  dual  people.  Here,  again,  we  must
+A  second  subject  which  must  be  considered  is  the  matrilineal  descent  of  the  dual  people.  Here,  again,  we  must
 know  more  about  the  social  systems  of  such  peoples  as  the
 Baining  before  we  can  tell  how  far  the  matrilineal  descent  of
 the  dual  people  must  be  regarded  as  a  result  of  the  process  of
@@ -28430,8 +27198,7 @@ guistic  condition  which  I  suppose  to  have  been  present  in
 Melanesia  before  the  arrival  of  the  kava-people.  I  have
 assumed  that  this  people  found  a  high  degree  of  linguistic
 diversity,  but  I  have  left  it  an  open  question  to  what  extent
-this  diversity  depended  on  the  changes  suffered  by  the  Aus-
-tronesian  language  of  the  sitting-interment  people  during  the
+this  diversity  depended  on  the  changes  suffered  by  the  Austronesian  language  of  the  sitting-interment  people  during  the
 process  of  its  introduction,  and  to  what  extent  it  depended
 on  the  persistence  in  many  places  of  the  aboriginal  forms  of
 speech.  The  mechanism  I  suggest  for  the  production  of  the
@@ -28448,8 +27215,6 @@ their  speech  may  have  been  a  frequent  feature  of  the  pro¬
 cess  whereby  the  sitting-interment  people  fused  with  the
 earlier  inhabitants.
 
-
-570  Melanesian  Society
 
 If,  as  I  have  assumed,  the  people  who  buried  their  dead
 in  the  sitting  position  were  the  first  settlers  in  Polynesia,  so
@@ -28550,8 +27315,6 @@ one  or  more  of  the  four  social  groups  which  make  up  the
 2  Gray,  Rep.  Austral.  Ass.  1892,  p.  648.
 
 
-572  Melanesian  Society
-
 existing  population  of  Tikopia.  The  dual  character  in
 Tikopia  would  not  only  be  far  later  than  the  dual  organisa¬
 tions  of  Melanesia,  but  it  would  have  arisen  through  a  wholly
@@ -28608,8 +27371,6 @@ greatly  affected.
 
 I  then  turned  to  other  elements  of  Melanesian  culture  in
 
-
-574  Melanesian  Society
 
 order  to  discover  whether  it  was  possible  to  detect  further
 evidence  of  this  external  influence,  and  I  began  my  quest
@@ -28703,8 +27464,6 @@ tion  of  the  dead,  but  put  the  idea  into  execution  in  a  manner
 somewhat  different  from  that  of  the  general  body  of  the
 carriers  of  the  kava-culture.
 
-
-576  Melanesian  Society
 
 So  far  I  had  confined  my  attention  to  that  part  of  Melanesia
 about  which  my  own  work  had  provided  new  material.  I  then
@@ -28807,14 +27566,6 @@ long  ago  as  1909,  but  was  omitted  from  the  published  paper  (. Folk-Lo
 42)  on  account  of  the  scantiness  of  the  evidence  then  available.
 
 
-R.  M.  S.  II.
-
-
-37
-
-
-578  Melanesian  Society
-
 In  the  first  place,  it  must  be  pointed  out  that  the  various
 movements  which  I  have  regarded  as  primary  migrations
 when  looked  at  from  the  point  of  Oceania,  may  only  become
@@ -28854,8 +27605,7 @@ their  religious  ideas,  their  modes  of  disposal  of  the  dead,  their
 weapons  and  other  elements  of  their  material  culture  would
 probably  have  been  very  different.  It  is  just  such  a  difference
 which  may  have  distinguished  the  kava-people  from  those
-who  interred  their  dead  in  the  sitting  position,  and  the  betel-
-people  from  the  kava-people.  The  three  peoples  may  be
+who  interred  their  dead  in  the  sitting  position,  and  the  betelpeople  from  the  kava-people.  The  three  peoples  may  be
 regarded  as  samples  taken  from  the  culture  of  Indonesia  at
 
 three  different  stages  of  its  history.
@@ -28910,8 +27660,6 @@ idea  that  the  monuments  have  spread  from  some  common
 source,  and  thus  raises  hopes  that  at  least  one  of  the  cultures
 I  suppose  to  have  been  carried  into  Oceania  may  be  brought
 
-
-580  Melanesian  Society
 
 into  relation  with  other  parts  of  the  world,  including  our
 own  islands.
@@ -29007,8 +27755,6 @@ and  north-west,  and  that  the  only  influences  which  have
 come  from  the  east  have  been  through  the  relatively  recent
 
 
-582  Melanesian  Society
-
 movements  of  Polynesians  since  Polynesian  culture  acquired
 its  distinctive  characters.  The  possibility  must  be  borne
 in  mind,  however,  that  influences  from  America  may  have
@@ -29093,8 +27839,7 @@ entirely  on  linguistic  evidence,  and  it  may  be  possible  to  bring
 two  of  these  schemes  into  line  with  my  own.  I  have  already
 used  (11,  449)  one  item  of  the  large  mass  of  linguistic  evidence
 collected  by  Friederici1  in  such  a  way  as  to  suggest  that  one
-of  his  two  currents  of  migration  corresponds  with  the  sitting-
-interment  people  and  the  other  with  the  kava-people,  but
+of  his  two  currents  of  migration  corresponds  with  the  sittinginterment  people  and  the  other  with  the  kava-people,  but
 it  must  be  left  for  further  inquiry  to  ascertain  whether  this
 is  correct  or  whether  Friederici’s  two  currents  are  to  be
 ascribed  to  the  kava-people  and  some  later  migration.
@@ -29203,8 +27948,6 @@ essential  character  of  the  less  material  elements  of  culture.
 2  Rep.  Brit.  Ass.  for  1911,  p.  496.
 
 
-586  Melanesian  Society
-
 It  is  not  difficult  to  see  how  great  has  been  the  influence  of  a
 mechanical  conception  of  human  intercourse  upon  Graebner’s
 scheme.  Thus,  the  association  of  secret  societies  with  the
@@ -29245,8 +27988,7 @@ isolated  and  not  part  of  a  much  more  comprehensive  scheme,
 the  argument  would  have  to  be  condemned  as  an  example  of
 the  circular  fallacy.  The  real  force  of  the  argument  con¬
 cerning  money  and  communism  is  that  the  communism  of
-the  dual  people  and  the  introduction  of  money  by  the  kava-
-people  form  an  interrelated  and  interdependent  couple  which
+the  dual  people  and  the  introduction  of  money  by  the  kavapeople  form  an  interrelated  and  interdependent  couple  which
 forms  only  one  element  in  a  complex  structure  no  part  of
 which  in  any  way  contradicts,  or  is  inconsistent  with,  this
 
@@ -29288,8 +28030,7 @@ Similarly,  the  ascription  of  the  bow  and  arrow  to  the
 kava-people  might  be  regarded  as  an  example  of  the  circular
 fallacy  if  the  sacred  character  of  the  sport  of  archery  in
 Polynesia  and  the  especial  connection  of  this  sport  with  the
-chiefs  did  not  bring  the  ascription  of  the  bow  to  the  kava-
-people  into  harmony  with  several  other  parts  of  my  general
+chiefs  did  not  bring  the  ascription  of  the  bow  to  the  kavapeople  into  harmony  with  several  other  parts  of  my  general
 scheme.
 
 It  is  essential,  however,  that  such  a  hypothetical  scheme
@@ -29302,8 +28043,6 @@ hypothesis  to  guide  the  study  of  Oceanic  history  has  been
 greatly  enhanced  by  its  having  served  to  account  for  facts
 which  only  came  to  my  knowledge  as  the  work  proceeded.
 
-
-588  Melanesian  Society
 
 I  may  illustrate  this  by  reference  to  the  Bismarck  Archi¬
 pelago.  At  the  beginning  of  my  task  it  was  open  to  me  to
@@ -29355,8 +28094,6 @@ It  will  be  in  the  capacity  of  my  scheme  for  thus  fitting
 Predictions
 
 
-589
-
 into  itself  new  facts  discovered  by  future  ethnographical
 research  that  the  test  of  its  truth  will  lie,  and  it  may  not  be
 out  of  place  here  to  mention  one  or  two  of  the  future  dis¬
@@ -29403,8 +28140,6 @@ the  dual  people,  and  the  origin  of  incision  as  the  result
 of  interaction  between  the  kava-people  and  the  earlier
 
 
-590  Melanesian  Society
-
 inhabitants.  Still  less  essential  to  my  general  scheme  is  the
 origin  of  the  dual  organisation  in  the  fusion  of  two  peoples.
 The  greater  part  of  my  scheme  takes  the  dual  organisation  as
@@ -29437,8 +28172,7 @@ there  is  definite  evidence  for  the  ancient  sanctity  of  trees  in
 the  Western  Solomon  Islands,  and  this  subject  will  be  dealt
 with  when  the  culture  of  those  islands  has  been  fully  described
 by  Mr  Hocart  and  myself.  All  that  I  need  do  here  is  to
-refer  to  the  possibility  that  the  people  with  whom  this  tree-
-cult  was  connected  may  have  been  responsible  for  the  tree-
+refer  to  the  possibility  that  the  people  with  whom  this  treecult  was  connected  may  have  been  responsible  for  the  tree-
 totemism  which  occurs  here  and  there  in  Melanesia.  It  is
 possible  that  the  cult  of  trees,  the  round  house  and  the  curvi¬
 linear  form  of  art  may  form  only  constituent  parts  of  a  culture
@@ -29500,8 +28234,6 @@ affording  a  secure  criterion  of  the  order  in  which  external
 influences  have  been  exerted.  An  especially  important  element
 
 
-592  Melanesian  Society
-
 of  the  social  structure  is  relationship,  and  one  of  the  most
 important  lessons  taught  by  this  book  is  the  value  of  this
 subject  to  the  ethnologist.  I  have  elsewhere  dealt  with  the
@@ -29547,9 +28279,6 @@ great  value  of  secret  societies  and  secret  cults  as  repositories
 of  ancient  cultures.  The  scheme  of  this  volume  rests  largely
 
 1  Kinship  and  Social  Organisation ,  London,  1914.
-
-
-593
 
 
 Language  and  Race
@@ -29598,13 +28327,6 @@ supposed  that  the  allied  languages  accompanying  the  physical
 diversity  of  Polynesian  and  Melanesian  are  due  to  the
 language  of  the  Melanesian  having  arisen  through  the
 
-38
-
-
-R.  M.  S.  II.
-
-
-594  Melanesian  Society
 
 influence  of  an  immigrant  people  so  few  in  number  as
 compared  with  the  indigenous  population  that  they  had
@@ -29700,8 +28422,6 @@ representative.  The  fact,  however,  that  the  tuitonga  might
 38 — 2
 
 
-596  Melanesian  Society
-
 not  inflict  those  signs  of  mourning  which  lead  to  the  loss  of
 blood  (see  11,  437)  suggests  that  both  this  custom  and  his
 exemption  from  the  operations  of  incision  and  tattooing  may
@@ -29709,8 +28429,7 @@ have  been  the  result  of  his  great  sanctity,  which  made  the
 idea  of  the  effusion  of  his  blood  abhorrent  to  the  people.  It
 is,  however,  very  unlikely  that  the  tuitonga  would  have  been
 exempt  from  so  general  and  important  a  custom  as  incision
-if  this  operation  had  formed  part  of  the  culture  of  the  kava-
-people.  The  exemption  may  have  arisen  out  of  the  belief
+if  this  operation  had  formed  part  of  the  culture  of  the  kavapeople.  The  exemption  may  have  arisen  out  of  the  belief
 in  his  sanctity,  and  may  yet  be  evidence  of  the  presence
 or  absence  of  a  cultural  influence.
 
@@ -29732,2489 +28451,3 @@ a  knowledge  of  its  past  that  such  historical  studies  as  those
 of  which  this  book  is  an  example  are  necessary  steps  towards
 the  construction  of  a  science  of  social  psychology.
 
-
-INDEX
-
-
-Abrus  precatorius  i  92
-Admiralty  Is.  ii  255,  551  seq.
-Adoption  i  50,  144,  158,  300,  345;
-
-ii  136,  162,  400,  579
-Adultery  i  229,  273,  310,  31 1,  325,  387
-Affection,  parental  i  53
-Afterbirth  i  144,  31 1
-Age  and  terms  of  relationship  i  9 ;
-ii  14,  193
-
-Agriculture  i  55,  325,  348;  ii  306,  541,
-552
-
-ceremonies  connected  with  i  95,  316
-Ambrym  ii  89,  228,  266,  303,  378,  435,
-
-.  448,  465,  477
-America  ii  582
-Anaiteum  i  214;  ii  270,  426
-Analysis  of  culture  ii  2,  438,  441
-Ancestor  i  188,  303,  304,  315  seq.;
-
-ii  35b  37b  5 1 5>  545-  See  Dead,
-cult  of
-
-Anger  i  310,  320
-
-Animals  and  social  groups  i  217,  224,
-228,  264,  273,  280,  292,  303,  315,
-336;  ii  501
-
-and  secret  societies  i  90,  no  seq.;
-ii  220
-
-changing  into  i  210,  304;  ii  360,  365
-descent  from  i  272,  280,  286
-guardian  i  154,  210;  ii  364
-identity  of  men  with  1152,156,210;
-ii  359
-
-images  of  i  no  seq.;  ii  516
-names  of  ii  484.  See  Incarnation,
-Totemism
-
-Aniwa  ii  25,  27,  244
-
-Anudha  i  298,  355
-
-Archery  ii  447,  587
-
-Areca  i  246,  316;  ii  257.  See  Betel
-
-Areoi  ii  241,  263,  285,  399,  432,  460,  513
-
-Arir  Island.  See  St  John’s
-
-Aristocracy  ii  325
-
-Arrow  i  145,  184,  188,  222;  ii  386.
-See  Bow
-
-Art,  decorative  i  172;  ii  374,  473,  491,
-
-536,  545)  583)  590  '
-
-Articles  ii  492
-
-
-Arunta  ii  67,  195
-Ashes  i  106,  113,  135,  149
-Associations  (magic)  i  156,  159;  ii  522
-Atkinson,  J.  J.  ii  69
-Atua  i  230,  303,  307,  315,  32b  336,  343)
-350,  354,  368;  ii  260,  280,  405
-Aurora  Island  i  25,  211
-Australia  ii  11,  59,  66,  75,  214
-“  Austronesian  ”  ii  474
-Avoidance  ii  132,  154,  333
-
-between  brother  and  sister  i  36,  213,
-255,  291 ;  ii  152,  164,  331,  507
-between  cross-cousins  ii  508
-of  father’s  sister  ii  161
-of  mother’s  brother’s  wife  i  222
-of  relatives  by  marriage  i  42,  182,
-222,  225,  230,  256,  308  ;  ii  30,  34,
-132,  135,  168,  332  seq.
-
-Axe  i  339
-
-Baessler  i  217;  ii  247
-Baining,  the  ii  541,  567,  569,  583
-Bamboo  i  144,  158
-Banana  i  93,  104,  119,  135,  153,  219,
-245,  246,  327;  ii  361
-wild  i  273,  281
-
-Banks  Islands  Chaps.  II — VI ;  i  108,
-265,  348  seq.
-
-Banks,  Sir  Joseph  i  20
-Banyan  i  23,  155,  245
-Bark-cloth  i  305,  313,  325,  329,  338,
-346,  348,  381,  444,  532
-Barriai,  the  ii  500,  510,  529,  532
-Barringtonia  i  in
-Barwell  Island.  See  Tikopia
-Bathing  i  136,  311,  324
-Beattie,  J.  W.  i  223
-Beechy  ii  272
-Bellona  Island  ii  153
-Belts  i  132,  173,  174
-Best,  Elsdon  ii  283,  287,  549
-Betel-chewing  i  298,  314,  322,  333,  355  ;
-ii  249,  533,  552
--leaf  i  316,  333,  337
--people  ii  250,  260,  291,  312,  470,
-
-579)  59i
-
-
-Index
-
-
-598
-
-Betrothal,  infant  i  207 ;  ii  64
-Bird  dances  ii  541
-
-totemism.  See  Totemism
-Birds  i  211
-
-and  secret  societies  i  hi  seq. ;  ii
-512,  520
-
-and  social  groups  i  234,  272 ;  ii  77,
-339  seq.,  501,  543,  545,  549,  559
-Bismarck  Archipelago  i  234;  ii  497
-Blackmail  ii  522
-
-Blencoe,  J.  W.  ii  82,  205,  266,  432
-Blood  i  312,  319;  ii  437,  546
--money  i  37
-
-Body,  terms  for  parts  of  the  ii  491
-Bogen-kultur  ii  585
-Bone,  human  i  158,  162;  ii  543
-Bonito  i  331 ;  ii  267
-Bougainville  Island  i  258;  ii  288,  513,
-546
-
-Bourne,  E.  i  246 ;  ii  63
-Bow  and  arrow  i  50,  73,  75,  77,  III,
-1 16,  124,  136,  146,  149,  171,  226,
-306,  309,  330,  349 ;  ii  446,  534,  554,
-585,  587
-
-Bowl  i  1 13,  224,  227;  ii  223
-Branding  ii  229
-
-Bread-fruit  i  23,  no,  115,  124,  133,  135,
-149,  153,  171
-Brenchley  ii  431
-
-Bride-price  i  49,  184,  207,  225;  ii  109,
-113,  115,  124,  328,  388,  543
-Brother  and  sister  i  36;  ii  14.  See
-Avoidance
-
-Brotherhood,  artificial  i  185,  379
-Brothers  i  213;  ii  14,  154,  175,  192
-Brother’s  wife  i  183;  ii  55,  128,  141
-Brown,  A.  R.  ii  67
-Brown,  Dr  G.  ii  18,  511  seq.
-
-Brown,  J.  Macmillan  ii  282,  287
-Bugotu  i  246
-Buin  i  258;  ii  50,  54,  77
-Bull-roarer  ii  512  seq.
-
-Burial  ii  264
-Burne,  Miss  C.  S.  i  15
-Burning,  of  tamate  i  in,  128
-of  food  i  105,  106
-Burnt  offerings  i  244;  ii  416,  546  seq.
-Bush  people  ii  305,  316,  559
-turkey  i  152;  ii  78,  461
-Butterfly  ii  503
-
-Caen  Island  ii  542
-
-Caladium  i  137,  273
-
-Canarium  nut  i  25,  59,  65,  115,  227
-
-Cannibalism  i  116,  152,  273;  ii  552
-
-Canoe  i  38,  170,  225,  231,  327  ii  450,
-
-.47B  523,  536,  552
-chief’s  i  305
--double  ii  452
--house  ii  230
-
-
-Canoe,  in  death  rites  ii  265  seq.,  529,
-
-
-545
-
--making
-
-
-i  170,  3*7,  326,  339  5  ”  259,
-
-
-45b  553.
-models  of  i  326
-
-ownership  of  i  209;  ii  147,  396,  453
-plank-built  ii  451,  536
-sending  adrift  in  i  305 ;  ii  270
-Cassowary  ii  517
-Castaways  i  300,  306;  ii  239,  298
-Casuarina  i  97
-Cat  i  333
-
-Cave  burial  ii  265,  269,  271,  286
-
-Centipede  i  154
-
-Chaffing.  See  Joking
-
-Character  i  22,  23,  36,  145,  153;  ii  560
-
-Charms  i  74
-
-Chastity  i  307,  310
-
-Cherry  Island.  See  Anudha
-
-Chestnut  i  no
-
-Chiefs,  treatment  of  dead  ii  266  seq.,
-
-276,  281,  459,  529,  545
-sanctity  of  ii  261
-
-Chieftainship  i  86,  107,  139,  17 1,  226,
-265,  305,  340,  353,  380,  386;  ii  85,
-99,  158,  223,  236,  322,  324,  393,
-447,  487,  510,  512,  541,  543,  589
-Childbirth  i  50,  144,  150,  188,  311,  357
-China  ii  581
-Choiseul  ii  268
-Christian,  F.  W.  ii  257
-Christianity,  influence  of  i  2,  36,  76,  80,
-382,  387;  ii  413
-Churchill,  W.  ii  584
-Cicisbeism  i  387
-Circular  argument  ii  586
-Circumcision  ii  436,  539  seq.,  557.  See
-Incision
-Clam  i  246
-
-giant  i  22,  23,  157,  163,  167,  191  ;  ii
-78,  386
-
-Clan,  definition  of  i  7
-Classes,  matrimonial  ii  66,  75
-Classification,  biological  ii  342
-Classificatory  system  i  6  seq.  See  Re¬
-lationship
-
-Clothing.  See  Dress
-Clouds  i  79,  157,  163
-Club  (weapon)  i  50,  99,  207,  208,  306,
-309 ;  ii  235
-
-Club-house  i  22,  36,  60,  209,  223,  229,
-264;  ii  81,  207,  210,  226,  455,  538,
-
-589
-
-ownership  of  ii  396
-terms  for  ii  232
-Coast-people  ii  305,  316
-Cockatoo  i  245  ;  ii  541
-Coconut  i  56,  95,  100,  1 10  seq.,  1 57  seq.,
-188,  226,  246,  299,  304,  314,  318;
-ii  501,  554,  560
-
-
-Index  599
-
-
-Coconut  cream  i  312,  333
-fibre  i  2 1 1
-leaves  i  73,  94
-
-Codrington,  Dr  i  15,  26,  33,  55,  61,  86,
-126,  139,  168,  206,  250,  255;  ii  35,
-72,  97,  131,  156,  277,  352,  395,
-
-413,  428,  432,  444-5,  474,  489,  494
-Collective  terms  i  253,  268
-Communion  with  the  dead  ii  232,  279,
-41 1
-
-Communism  Chaps.  XXI  and  XXXII ;
-
-ii  160,  170,  219,  49C565,  570,  589
-Compass,  points  of  i  147
-Conception,  beliefs  about  ii  324
-Conch-shell  i  64,  65,  67,  73,  75,  76,  80,
-98,  107,  186;  ii  459,  5i6,  535
-Conservatism  i  169;  ii  293,  413
-Consonants,  elision  of  i  269
-Constellations  i  172
-Contact  of  peoples  ii  6,  433,  487,  595
-Contradiction  in  belief  ii  433
-Conventionalisation  in  art  i  82,  172;
-ii  374,  382
-
-Cook,  Captain  ii  372,  429
-Cook  Islands  ii  380
-Cooking  i  325
-Coral  i  162,  326
--chalk  ii  545
-Correspondences  i  16
-Cousin  i  12.  See  Cross-cousins
-Couvade  i  146
-Cox,  W.  H.  ii  502,  559
-Crab  i  153,  154,  287;  ii  520
-hermit  i  152,  153,  224
-Crayfish  i  114,  116,  219
-Creation  i  226,  315,  339
-Cremation  ii  267,  287,  343,  545,  580
-Crocodile  i  245,  336;  ii  361,  517,  520
-Cross-cousins  i  13,  343;  ii  26,  166
-marriage.  See  Marriage
-Cross-legged  position  i  83,  186,  212,
-305
-
-Crotons  i  92  seq.,  101,  noseq.
-
-Crow  ii  517
-Cubit  i  163
-Curse  i  123,  124,  343
-Cuscus  i  245
-
-Cutting  face  in  mourning,  etc.  i  312-3,
-320,  346;  ii  437,  596
-Cuttle-fish  i  1 14
-
-Cycas  i  54,  62,  65,  73,  75,  77,  89,  96,
-103,  in,  137,  138,  140,  207,  319;
-ii  100,  228,  237,  401,  535
-
-Dancing  i  72-3  seq.,  82,  108,  109,  111,
-1 14,  1 1 5,  132,  135,  231;  ii  512,
-539,  54i
-
-Danks  ii  500  seq.
-
-Darwin,  C.  ii  138
-Daughter’s  husband  i  172
-
-
-Dead,  cult  of  the  ii  217,  371,  516,  542,
-545
-
-disposal  of  the  Chap,  xxvn  ;  i  188,
-313,  346;  ii  529  seq.,  539,  542,
-543,  545  seq.
-
-fear  of  the  ii  215,  273,  279,  542,  569
-home  of  the  i  40,  79,  109,  116,  226;
-ii  261,  270,  274,  479,  532,  534,  550
-Death  and  secret  societies  i  127  ;  ii  208,
-214,  279,  367,  51 1
-
--rites  i  59,  205,  212;  ii  243.  See
-Dead,  disposal  of
-Debt  i  122
-
-Decorations  i  101,  104,  112,  135,  137,
-148,  172
-
-Definitions  i  7,  15;  ii  75,  90,  218,  264,
-404,  41 1,.  459
-Degeneration  ii  595
-Demit  ii  229,  424,  426,  460
-Descent  i  15,  189,  220,  224,  228,  234,
-241,  383;  ii  49,  66,  91,  hi,  137,
-145,  206,  319,  348,  353,  504,  544,
-552,  568,  589
-
-Design,  naturalistic  ii  374,  379,  380
-rectilinear  ii  374,  376,  378  seq.
-simplification  of  ii  374
-Dhaw  anisa  i  281;  ii  51
-Dieri  ii  47,  67,  83
-Digging-stick  i  157
-Dillon,  P.  i  298,  351
-Disappearance  of  art  ii  441,  443,  445,
-453
-
-Disease  i  158,  165,  244,  304,  319,  322,
-
-.  356
-
-District  i  16
-
-Divination  i  147,  155,  323
-Divorce  i  346
-
-Dog  i  220,  273,  280;  ii  386,  461,  517,
-520,  542,  543,  587
-Dolmen  ii  428,  549
-Dolphin  i  219,  220;  ii  545
-Dove  i  1 12
-Dracaena  i  65
-Dragon-fly  i  hi;  ii  547
-Drama  ii  107
-Dream  i  147,  165
-Dress  i  348;  ii  432,  442
-Drew,  Rev.  F.  H.  i  234,  239
-Drill  ii  462
-
-Drought  i  176,  317,  338
-
-Drum  i  70,  72-3,  80,  108,  113,  135,  231  ;
-
-ii  266,  378,  459.  See  Gong
-Drummond,  Rev.  H.  N.  i  19 1—2,  196,
-204
-
-Dual  number,  use  of  ii  508
-
-organisation  Chap.  XXXVIII;  i  16,
-17,  20,  189;  ii  16,  24,  50,  58,  66,
-70,  83,  240,  314,  348,  498,  538,  590
-people  ii  250
-Dugong  i  245
-
-
-6oo
-
-
-Index
-
-
-Dukduk  ii  51 1  seq.,  530,  534
-Duke  of  York  Island  ii  500  seq.,  531,
-547
-
-Dumont  D’Urville  i  299,  351
-Durkheim,  E.  ii  405
-Durrard,  Rev.  W.  J.  i  22,  23,  43,  45,
-68  seq.,  82,  86,  107,  no,  127,  133,
-164,  185,  217,  299,  301,  334 ;  ii  265
-Dyes  ]  133
-
-Eagle  i  245,  248;  ii  501,  523,  543
-Ear-boring  i  222,  31 1,  312,  314
--stick  ii  377
-
-Earth,  contact  of  dead  with  ii  539
--mounds  ii  427-9
-Easter  Island  ii  244,  446
-Eccentricity  i  23 ;  ii  349
-Eddystone  Island  i  252,  256;  ii  267
-Edge-Partington,  J.  i  82,  173
-Eel  i  152,  219,  228,  243,  245,  303,  336;
-11  361
-
-sea-  i  177,  219,  228,  303
-Efate  ii  78,  244,  459,  584
-Elders,  dominance  of  ii  59,  140,  148.
-
-See  Gerontocracy
-Elopement  ii  105
-Embalming  ii  269,  272,  281,  368
-Emerson,  Mr  J.  i  374
-Emerson,  Dr  N.  B.  i  383
-Endogamy  i  264,  345
-Enmity  of  moieties  i  22
-Epi  ii  244
-
-Eromanga  ii  167,  233,  244
-Espiritu  Santo.  See  Santo
-Etiquette  ii  1 58
-European  influence  ii  94,  96
-Evidence,  value  of  i  2-3,  4,  301,  350
-Evolution  ii  1,  5
-Exchange  of  food  i  149
-
-of  presents  i  308,  312;  ii  107
-Excrement  i  161,  195
-Exogamy  i  24,  189,  219,  224,  228,  241  ;
-ii  78,  81,  317,  504,  543,  552
-local  i  237,  256:  ii  79
-
-Faith  i  158
-
-Family  i  344,  352,  363;  ii  92,  143
-Famine  i  338
-
-Fasting  i  38,  43,  133,  314;  ii  542
-Father  1  37,  103,  140,  314;  ii  13,  102,
-108,  173
-
-relationship  with  ii  91,  102,  137,  1  c  1,
-
-1 57?  163,  323,  327,  402
-Fatherhood  ii  568
-Father’s  father  i  148 ;  ii  53  seq.
-
-sister  i  38,  80,  145,  146,  148,  182,
-204,  208,  213,  222,  225,  230,  255,
-3o8,  343,  349,  367;  ii  21,  41,  93,
-160,  178,  332,  507,  558
-sister’s  husband  i  40,  205  ;  ii  22,  165
-
-
-Feasts  i  66,  80,  95,  104,  145,  148,  170,
-212,  222,  231,  312,  316,  320,  326
-Fellmann,  Rev.  H.  ii  515
-Fenualoa  i  228
-Fifty  i  104,  1 15
-Fighting.  See  Warfare
-at  marriage  207-8
-
-Fiji  Chap.  XI ;  i  86;  ii  231,  253,  341,
-369,  430,  436,  456,  488
-Fillet  1  73,  104,  148,  305,  306,  348;
-ii  436,  535?  554
-
-Fines  1  42,  93,  98,  103,  105,  123,  184
-Fire  i  25,  109,  112,  144,  171,  224,  243,
-244
-
-in  death  rites  ii  265,  267,  539
-Fire-making  i  332
-
-First-born  child  i  145,  146,  147,  148,
-150;  ii  139,  161
-First-fruits  i  95,  318;  ii  513
-Fish  i  145,  150,  154,  157,  163,  168,  217,
-224,  228,  243,  248,  273,  304,  314,
-319,  33 7  5  Chap,  xxx,  ii  268,  517,
-520,  545
--net  ii  552
-poisoning  of  i  332
-Fisher  Island  ii  544
-Fish-hawk  i  280;  ii  501
-Fishing  i  325,  330,  349
--lines,  wearing  of  i  349
-Fison,  Rev.  L.  i  270,  363
-Five  i  64,  67,  80,  101,  104,  136,  146,
-148,  188,  227
-Flores  ii  582
-Florida  i  241  ;  ii  504
-Flycatcher  ii  543
-
-Flying  fox  i  40,  152,  163,  21 1,  228,  231,
-245>  3°3>  336;  ii  517
-fish  i  326,  330
-
-Food  i  23,  54,  70,  81,  1 18,  163,  231,
-333?  353
-
-and  marriage  i  256
-and  sex  of  child  i  150
-in  magic  i  158,  161
--prohibition  i  152,  204,  314.  See
-Totemism
-Formulas  i  78,  85
-Fornander  i  383
-Forts  ii  428-9
-
-Four  i  73,  80,  101,  146,  148,  162,  208
-Fowl  i  92,  219,  220,  280,  333,  353;
-
-11  386,  461,  517,  533,  587
-Fox,  Rev.  C.  E.  ii  72,  252,  588
-Frazer,  Sir  J.  G.  ii  68
-Freeth,  Rev.  R.  E.  ii  427
-Freire-Marreco,  Miss  i  15
-Friederici,  Dr  G.  ii  449,  504,  583
-Frigate-bird  i  245
-Fruits  i  151,  152,  220
-Futuna  ii  244
-
-Future  life.  See  Dead,  home  of  the
-
-
-Index
-
-
-601
-
-
-Gaimard,  Dr  i  351
-Gaktai,  the  ii  538
-Ganial  i  60.  See  Club-house
-Gambier  Islands  ii  272,  433
-Games  i  349
-
-Gardiner,  Professor  Stanley  ii  248
-Gardner  Island  ii  544
-Garfish  i  336,  368
-Gazelle  Peninsula  ii  499  seq.,  527
-Genealogies  i  27,  44,  266,  358,  359,  375  ;
-ii  1 18
-
-Generalisation  ii  42,  64,  117,  334
-Generosity  i  55
-
-Geographical  conditions,  influence  of
-ii  297,  345,  363,  592
-Gerontocracy  ii  68,  105,  120,  148,  313,
-
-324,  04
-
-Gerrit  Denys  Island  ii  544
-Gestures  i  79
-
-Ghost  i  15,  79,  85,  89,  187,  195,  231,
-248,  343;  ii  218,  414  seq.,  505,
-51 1  seq.,  531
-
-possession  by  i  164,  321;  ii  418
-Gismana  i  164;  ii  418,  520
-Gong,  wooden  ii  459,  516,  534,  537,
-
-539,  542,  554-  See  Drum
-Government  i  93
-
-Graebner,  Dr  F.  ii  3,  81,  256,  498,  585
-Grammar  ii  486
-
-Grandparents  i  36,  85,  225,  230;  ii  28,
-77,  167,  179,  190
-of  married  couple  i  179  ;  ii  35
-Grass  i  25,  224
-Green  i  137
-Greetings  i  324
-Guadalcanar  i  242
-Guppy,  H.  B.  i  273
-
-Haamonga  ii  431
-Hades.  See  Dead,  home  of  the
-Hair-cutting  i  314,  348
-decorating  i  73,  138
-of  Tikopians'  i  303
-wearing  i  314,  348
-Haliaetus  leucogaster  ii  501  seq.,  517,
-519,  520
-
-Hamburg  Expedition  to  South  Seas
-
-ii  SSh  554
-Hand-clapping  i  83
-Hanging  i  98, 107,  305-6,  347 ;  ii  236, 504
-Hat.  See  Masks
-
-Hawaian  Islands  i  374;  ii  281,  393,
-398,  453
-
-Hawk  i  1 19.  See  Fish-hawk
-Head,  as  representative  of  body  ii  272
-carrying  on  i  325
-of  pig  i  80,  272
-
-respect  for  i  37,  42  seq.,  184,  205,
-308;  ii  168  seq.,  259,  261,  335,
-491
-
-
-Head-coverings  i  173,  174;  ii  446,  513,
-535.  See  Fillet  and  Masks
-Head-hunting  ii  86,  100,  259,  428,  452,
-
-459,  553,  585.
-
-Helpfulness,  obligation  of  i  161,  184;
-
-ii  170,  334,  558
-Heralds  i  272
-Heriot  ii  320
-
-Hibiscus  i  23,  62,  73,  96,  101,  104,  105,
-i.i  5,  1 17,  148,  167
-Hindu  influence  ii  578,  580
-Historical  standpoint  ii  5
-Hocart,  A.  M.  i  1,  234,  285,  293;  ii  41,
-7 1,  78,  83,  151,  158,  199,  291,  305,
-588,  59°
-
-Homicide  i  88,  300
-Hopkins,  Rev.  A.  J.  i  236
-Hornbill  ii  517
-
-Hostility  between  moieties  i  22;  ii  135,
-163-4,  169,  240,  500,  557
-House  i  1 3 1,  209,  344;  ii  454
-
--building;  i  65,  325  ;  ii  259,  455,  553
-ceremonial  destruction  of  i  99,  142
--pile  ii  454,  55?,  585
-round  i  223;  ii  456,  590
--tree  ii  456
-Howitt,  A.  W.  ii  47
-Hiigel,  Baron  A.  v.  i  330
-Human  motive  in  art  i  82,  96;  ii  376
-Hundred  i  103,  115,  127,  135,  146,  188,
-212,  318;  ii  265
-Hurricane  i  317
-Husband’s  sister  i  207
-Hyde,  Dr  i  375,  383
-
-Identity  of  men  and  animals  ii  359,
-.  .364,  368
-Illegitimacy  i  31 1
-
-Images  i  243,  248;  ii  351,  372,  515,  519,
-534
-
-Immigrants,  small  numbers  of  ii  210
-Incantation  i  157,  162
-I  ncarnation  in  animals  and  plants  ii  36 1 ,
-
-5 17,  521
-Incest  ii  154
-
-Incision  i  292,  308,  31 1,  312;  ii  235,
-432  seq.,  532,  540,  554,  589,  595
-India  ii  581
-Indonesia  ii  577
-
-Infanticide  i  145,  305,  310,  313,  352;
-
-ii  138,  242
-Ingiet  ii  515
-Inglis  i  214;  ii  426
-Inheritance  i  16,  37,  55,  209;  ii  96,  148,
-319
-
-Inhumation.  See  Interment
-Initiation  i  63  seq.,  88,  98 ;  ii  68,  208,
-230,  5  !2,  519
-Insect  ii  342,  501
-Interaction  ii  213,  574,  585,  595
-
-
-602
-
-
-Index
-
-
-Interest  on  money  i  51,  64,  122,  169;
-ii  528
-
-Intermediary  i  159
-Interment  ii  264,  273
-
-extended  i  313  ;  ii  277,  285,  431,  529,
-549
-
-in  house  1  313;  11  529,  539
-in  vault  ii  274,  286,  432
-sitting  ii  273,  281,  382,  539,  545
-upright  ii  265,  425,  531,  549
-Investment  i  133,  140
-Isolation  ii  471,  475
-Itokatoka  i  264
-Ivens,  Rev.  W.  G.  i  234
-
-Japan  ii  581
-Javelin  ii  447
-
-Jawbone  of  pig  i  74,  106,  184;  ii  386,
-460
-
-Jealousy  ii  142,  144
-Joest,  W.  i  217,  220;  ii  81,  115,  339
-Joking  i  36,  46,  230,  287,  344;  ii  133,
-155
-
-Joske,  A.  B.  i  287
-Jus  primae  noctis  i  386
-
-Kangaroo  ii  517,  520
-Kauai  i  374,  378
-
-Kava  Chap,  xxvi,  i  72,  76,  82,  126,
-184  seq.,  21 1,  223,  227,  231,
-312  seq.,  337,  355;  ii  417,  533,
-553
-
--bowls  i  327;  ii  431
-origin  of  ii  255
-.  -people  ii  250,  555,  579
-Kia  i  245
-
-Kilenge,  the  ii  500,  532
-Kinao  ceremony,  the  ii  523,  525,  539
-Kingfisher  i  40,  117,  118
-Kinship  i  16;  ii  91,  567
-
-regulation  of  marriage  by.  See
-Marriage
-
-Kipling,  R.  ii  566
-Kissing  i  344
-Kleintitschen,  P.  A.  ii  527
-Knives,  pudding  i  81,  172;  ii  374,  376,
-377,  380
-
-bamboo  i  144,  31 1
-Kobe,  the  ii  500
-Kole-kole  i  62,  80,  130;  ii  265
-Kramer,  Dr  ii  547
-Kwakwea  ii  444
-Kwat  ii  412,  414,  418,  421
-
-society,  the  i  113;  ii  220,  340
-
-Lamb,  R.  ii  228,  266,  435
-Land  i  55;  ii  97,  395
-common  i  56;  ii  147
-Landtmann,  Dr  G.  ii  274
-Lang,  Andrew  ii  69
-
-
-Language  Chaps.  XXIII  and  XXXVI,
-ii  552,  561,  569,  584,  594
-of  sala^oro  i  90,  92,  97,  115;  ii  495
-Papuan  ii  465,  497
-un-  i  41,  .43;  ii  4 7h  495
-La  Perouse  i  298
-Laur  ii  500  seq.
-
-Law  ii  158
-Left  side  i  56,  74
-
-Legends  i  107,  115,  117;  ii  503,  559
-Leggatt,  W.  ii  303
-Lemons  i  137,  146
-Leper’s  Island  i  21 1,  213;  ii  97,  153
-Levirate  i  48,  183,  206,  222,  296;  ii  20,
-44,  1 1 1
-
-Libation  i  84,  85
-Licentiousness  ii  242,  399
-Life  tokens  i  155;  ii  365
-Lifu  ii  233
-Lightning  i  157,  164
-Lihir.  See  Gerrit  Denys  Island
-Lime  ii  552
--boxes  i  333
-Limes  i  137
-
-Lingua  franca.  See  Pidgin  language
-Lister,  J.  J.  ii  461
-Livuan  ii  527
-
-Lizard  i  106,  152,  154,  158;  ii  361,  517,
-520,  545.
-
-monitor-  i  243,  248
-Loans  i  64,  122,  169
-Local  groups  ii  79,  347,  356
-Loli  i  204,  210
-Longevity  i  157
-Loom  ii  379,  425,  445
-Lunacy  i  152,  164,  345
-Lunalilo  House  i  374
-
-Macdonald,  Dr  ii  78
-Mackenzie,  Dr  ii  78
-McLennan,  J.  F.  i  6;  ii  64,  108
-Maewo.  See  Aurora  Island
-Magic  Chap,  xxxm,  i  15,  38,  52,  156,
-23L  315  ;  ii  99,  107,  144,  164,  271,
-432,  435,  483,  518,  552,  564
-in  Polynesia  ii  420
-Maguire,  Dr  i  363
-Malabar  ii  64
-Malaita  i  235  seq.;  ii  79
-Malay  apple  i  152
-
-Archipelago  ii  249,  256,  474,  577
-Malikolo  ii  89,  228,  233,  266,  303,  435,
-
-448,  459
-Malo  ii  428
-Malo,  David  i  384
-Malosaru  i  82 ;  ii  379,  425,  443,  463
-Mana  i  74,  78,  154,  157,  158,  162,  164,
-243,  244  ;  ii  99,  100,  4o6,  445,  485
-Manahiki  ii  281,  380,  453
-Mangaia  ii  274,  287,  380
-
-
-Index
-
-
-603
-
-
-Mangareva.  See  Gambier  Islands
-
-Mango  i  328
-
-Manoga  ii  548
-
-Mantis,  praying  ii  501
-
-Maoris.  See  New  Zealand
-
-Marae  ii  430,  447
-
-Mare  ii  233
-
-Maresere,  John  i  299;  ii  406
-Marett,  R.  R.  i  15
-Mariner,  W.  i  302 ;  ii  235,  274,  280
-Marquesas  ii  247,  261,  263,  271,  281,
-
-.  424,  429,  433,  5i4,  55b  59i
-Marriage  Chaps.  XVII  and  XX,  i  17,  47,
-206,  309,  345,  379;  ii  145,  186,
-
-326,  397
-
-between  chiefs  and  commoners  i  305
-by  exchange  of  brothers  and  sisters
-ii  23,  123
-
-by  purchase.  See  Bride-price
-child  i  383
-
-conflict  at  i  207,  309;  ii  64,  105
-cross-cousin  i  48,  184,  215,  256,  259,
-270,  294;  ii  24,  43,  54,  61,  64,  85,
-hi,  1 2 1,  128,  1 8 1,  327,  508
--group  ii  127,  145
-infant  i  207;  ii  64,  105
-matrilocal  ii  126,  240,  355
-regulation  of  i  236,  251,  256,  303,
-309,  370,  373,  382 ;  ii  82,  96,  353,
-541.
-
-restrictions  on  i  81,  152,  190,  223
-with  brother’s  daughter  i  185  ;  ii  1 10,
-1 14,  1 18,  327,  508
-
-with  brother’s  granddaughter  i  47,
-199;  ii  47,  51,  59,  189,  326
-with  father’s  sister  i  47,  182,  184,
-340;  ii  38,  42,  109,  1 14
-with  husband’s  brother  i  346.  See
-Levirate
-
-with  sister  i  380,  382
-with  wife  of  father’s  brother  ii  116,
-120,  328
-
-with  wife  of  grandfather  ii  53,  60,
-326
-
-with  wife  of  mother’s  brother  i  48,
-185,  196,  206,  223;  ii  38,  44,  49,
-5 7,  60,  109,  1 8 1,  326
-with  wife’s  mother  i  182,  223
-Marzan,  de  i  264;  ii  78,  341,  369
-Maskelyne  Islands  ii  229,  304
-Masks  i  81,  89,  90,  114,  122,  126,  131,
-134;  ii  76,  205,  367,  3 77,  412,  51 1,
-521,  524,  535,  539,  54B  543,  544,
-547  .
-
-Massage  i  356
-Massim  ii  537
-
-Mat  i  59,  101,  136,  207;  ii  442
-as  money  i  170,  188;  ii  385
-Matanibala  ii  76,  229,  254,  424,  429,
-458,  547
-
-
-Matanggali  i  264
-Matankor  ii  552  seq.
-
-Material  culture  Chap,  xxxv
-Matupi  ii  526
-Mbau  i  266
-
-Measures  i  66,  70,  74,  170
-
-Measuring-rod  i  74,  76
-
-Megalithic  culture  ii  427,  446,  540,  544,
-
-549,  579
-
-Megapodius.  See  Bush-turkey
-Meier,  J.  ii  516,  519
-Mengen  ii  537
-Menstruation  i  313,  368
-Merlav  i  24,  32,  34,  43,  48,  54,  78,  86,
-158;  ii  80,  315,  349
-Metathesis  ii  561
-Method  ii  3,  586,  591
-
-genealogical  i  3,  5,  55,  265,  280,
-371;  ii  108
-
-Micronesia  i  228;  ii  255,  553,  591
-Midwife  i  50,  144;  ii  401
-Migrations  Chap.  XXVIII,  ii  262,  271,
-278,  322,  570
-
-primary  and  secondary  ii  308,  497,
-578
-
-Mission,  Melanesian  i  2,  18,  143,  298,
-322 ;  ii  86,  406,  467
-Moanus  ii  552
-
-Moerenhout  ii  242,  362,  423,  433,  448,
-45i
-
-Moieties  i  17,  22,  23,  24,  35,  36,  46,  49,
-53,  72,  149,  172,  180,  189,  191,
-204,  207;  ii  105,  106,  416,  462,
-500  seq.,  510,  526,  586
-Money  Chap,  xxxil,  i  64  seq.,  330;
-ii  441,  462,  527  seq.,  586
-feather  i  222 ;  ii  462
-shell  i  14 1,  146,  166  seq.;  ii  462,
-
-5io,  5i5,5J 7, 527  seq.,  533,547,  554
-turtle-shell  i  225 ;  ii  462
-Monoliths  ii  428
-
-Monopoly  of  women  ii  59,  64,  68,  69,
-88,  142,  159,  565  '
-
-Monsoon  ii  511,  514
-Months  i  273
-
-Moon  i  226,  243,  244,  273;  ii  230,  351,
-426,  503,  552
-Morality  ii  566
-
-Morgan,  Lewis  i  270,  363,  375;  ii  152
-Mortar  i  333
-Moseley  ii  432
-
-Mota  Chap,  iv,  i  4,  19,  20,  22,  24,  26,
-28,  34,  35,  38,  39,  4i,  42  seq.,  52,
-55,  62,  63,  79,  85,  147  seq.,  156,
-167,  170,  171,  213;  11  78,  265,  309,
-315,  427,  449
-
-Mother  i  66,  144,  154;  ii  117,  137,  167,
-174, 185,  354, 368,369,466,  468,  470
-right  ii  102,  156,  157,  168,  185,  188,
-239,  240,  241,  319,  331,  504,  510
-
-
-604  Index
-
-
-Mother’s  brother  i  37,  68,  80,  103,  104,
-146,  156,  183,  204,  213,  225,  230,
-255,  290,  291,  308,  309,  31 1,  312,
-313,  366;  ii  17  seq.,  18,  37,  57,
-1 13,  130,  151,  155  seq.,  166,  1 77,
-1 8 1,  184,  185,  187,  189,  239,  240,
-331,  401,  448,  504,  507
-Mother’s  brother’s  wife  i  222  ;  ii  18,  130
-Motlav  i  24,  30,  39,  41,  42,  43,  49,  54,
-
-63,  79,  147,  149,  H0,  153,  156,
-
-161,  164,  166,  170,  174,  302  ;  ii  460
-Mountain  i  226
-
-Mourning  i  38,  153,  306,  314,  348;
-11  596
-
-Muller,  F.  ii  480
-Muller,  W.  ii  453
-Mullet  i  224
-
-Mummification  ii  265,  267,  269,  272,
-281,  287,  368,  546
-
-Mwele  i  65  seq.,  82,  89,  96,  103,  137  seq.,
-140,  207;  ii  401,  462
-Mweretang  i  65,  73,  112,  136,  137;
-.  ii  458
-
-Mythical  ancestors  i  7,  25,  26,  272
-Myth-making  ii  370,  421
-Myths  i  107,  hi,  219,  226,  245,  315,
-339;  ii  423,  437,  545,  55$
-
-Nail-parings  i  145,  161  ;  ii  161,  164
-Nakanai  ii  517,  532,  535
-Namatanai  ii  507,  558
-Nambombudho  i  284
-Names  i  39,  41,  42,  43,  45,  179,  180,
-1 95,  204,  205,  213,  223,  230,  255,
-258,  293,  308,  346,  347,  370,  373;
-11  19,  21,  22,  36  seq.,  129,  132,  133,
-
-162,  335,  471,  508,  509
-Naming  i  147
-
-nature  of  i  210
-
-Nandrau  i  264,  271  seq.,  283;  ii  51,
-326
-
-Nanga  i  280;  ii  231,  248,  430,  435,
-
-456,  457
-
-Narambula  i  269
-Nausori  i  268,  270,  296
-Navatusila  i  271,  279  seq.,  283  seq.;
-ii.  51
-
-Navigation  ii  298,  452,  570
-Ndeni  i  217
-Negro  ii  284
-
-New  Britain  ii  498,  500  seq.,  510,  528
-New  Caledonia  ii  153,  205,  299,  457,
-590
-
-New  Guinea  ii  214,  249,  255,  274,  299,
-
-338,  537,  553,  590
-New  Hanover  ii  544
-New  Hebrides  i  24,  25,  128,  170,  189  ;
-ii  86,  139,  227,  257,  259,  261,  265,
-325,  412,  414,  423,  426,  449,  461,
-470
-
-
-New  Ireland  Chap,  xxxvn
-New  Zealand  ii  18,  243,  261,  263,  281,
-287,  380,  473,  536,  549,  551,
-.59°
-
-Nggaliyalatini  i  282
-Nggao  i  247
-Nine  ii  554
-Niuafou  ii  461
-Niue  i  371  ;  ii  269
-Nokanoka  i  269
-
-Nomenclature,  richness  of  ii  11,  30,  31,
-69,  85  seq.,  150,  172
-simplicity  of  ii  11
-Noseboring  ii  539
-Nukapu  i  228,  321
-Nukulofa  ii  431
-Numbers  ii  294,  592
-small.  See  Migrations
-
-Oahu  i  374,  378,  381
-Observation,  power  of  i  301
-Obsidian  ii  554
-Occupations  i  265,  325
-Octopus  i  150,  154,  1 77,  219,  303,  304,
-368;  11  78
-
-O’Ferrall  i  220,  223;  ii  115
-Offerings  i  226,  231,  243,  244,  312,  315,
-
-317,  338;  n  4H,  548
-to  dead  ii  246,  249,  259
-to  sun  ii  425
-burnt  i  244;  ii  416,  546
-Olo-olo  i  146,  156,  160;  ii  415,  416,  485
-Omba.  See  Leper’s  Island
-Onomatopoeia  ii  484
-Ontong  Java  ii  156,  445
-Ordeals  i  103,  112,  142
-Orientation  i  101,  147  ;  ii  424,  429,
-43°
-
-of  dead  ii  550
-Origins  ii  7
-
-Oven  i  62,  65,  6 7,  72,  79,  96,  104,  115,
-1 16,  147,  212
-
-Owl  i  23,  92,  120,  286,  368;  ii  517
-
-Palmer,  Archdeacon  i  85
-Palmer,  J.  C.  i  82,  85,  86
-Palmistry  i  220,  251;  ii  84,  503
-Pandanus  i  92,  104,  133,  136
-Pandion  leucocephalus  ii  501  seq.,  517,
-520
-
-Panoi  i  40,  109,  116
-Pantutun,  John  i  50,  no,  199,  206,  210,
-213  ;  ii  74,  165
-
-Papaia  i  217,  220,  314,  327,  333,  357
-Parakeet  i  245
-Parentage  i  51,  146  seq.
-
-Parent  and  child  i  35  ;  ii  13,  91  seq.,
-136  seq.,  1 5 1,  194,  507
-Parents  of  married  couple  ii  35
-Parkinson  Chap,  xxxvn
-
-
-Index
-
-
-605
-
-
-Parmal  i  1 59  seq.
-
-Parrot  i  in;  ii  386,  517,  543
-Patteson,  Bishop  i  3,  298
-Paumotu  Islands  ii  281,  451,  472
-Payments  i  37,  93,  135-6,  157,  160,  163,
-169,  229;  ii  512
-
-on  adoption  i  51  seq.,  146  seq.;  ii
-136-7,  400  seq.
-
-on  initiation  i  64  seq.,  88,  98,  100,
-103,  122,  1 3 1,  140-1  ;  ii  228,  230,
-
-5*5
-
-for  land  i  58;  ii  320
-for  wife  i  49,  225  ;  ii  105,  109,  113,
-1 1 5,  [24  seq.,  328  seq.,  389,  543
-Peace,  symbol  of  i  75
-Pedigrees  ii  94.  See  Genealogies
-Peekel  ii  503  seq.,  558
-Penny,  A.  ii  217
-Penrhyn  Island  ii  453
-Pentecost  Island  Chap,  vm,  ii  11,  13,
-78,  87,  104,  153,  159,  187  seq.,  227,
-228,  265,  305,  442,  449
-Perineal  cloth  i  308,  312
-Periphrasis  i  119
-Perouse,  La  i  298,  355
-Perry,  W.  J.  ii  28,  118,  532,  550
-Personality  i  154,  156
-Phonetics  i  18,  246;  ii  470,  471,  473
-Physical  characters  of  people  i  228,
-302;  ii  153,  284,  325,  326,  370,
-378,  473,  502,  506,  543,  557,
-560-1,  582
-
-Pidgin  language  ii  466,  475,  494,  584
-English  ii  489
-
-Pig  i,  26  seq.,  43  seq.,  49,  64,  70,
-73-4,  7 6,  80,  88,  93,  98,  100,
-102,  105-9,  122  seq.,  131-2,
-
-163,  1 91,  207-8,  210,  220,  222,
-225,  227,  243,  272,  333,  353;
-ii  105,  108-9,  228,  229,  242,
-460,  512,  517,  520,  533,  538,
-
-542-3,  545-6-
-Pig’s  head  i  208
-
-Pigeon  i  88,  in,  114,  219,  243,  245,
-248,  280,  303,  336  ;  11  517,  543
-Pigments  i  92,  104,  135,  137
-Pileni  i  228,  321
-Pillow  i  328
-
-Piper  methysticum  i  83  ;  ii  256,  533
-Pity  i  320
-
-Places,  sacred  i  157,  165,  244,  303,
-320  ;  ii  447
-
-Plants,  sacred  i  23,  317  ;  ii  256,  340
-
-seq.,  345,  359,  3^3
-and  childbirth  i  150,  151
-and  social  groups  i  303,  336
-Plasticity  of  culture  ii  440
-Platform,  stone  i  69,  70,  136,  150
-Platform  burial  Chap.  XXVII,  ii  530,
-
-543>  545
-
-
-Plural,  use  of  i  291  ;  ii  131,  508
-inclusive  and  exclusive  ii  486
-Poch,  R.  ii  503  seq.
-
-Poepoe,  J.  M.  i  374,  376,  380
-Poison  i  159
-
-Polyandry  i  183  ;  ii  296,  565
-Polygyny  i  48,  49,  196,  309,  352  ;
-
-11  18,  128,  167-8,  399,  565,  566
-Polynesia  i  228  ;  ii  8,  n,  13,  87,
-139,  203,  234  seq.,  244  seq.,
-
-249  seq.,  257,  268,  270,  271,
-
-280  seq.,  321,  357,  358,  378,
-
-380,  390  seq.,  398,  446,  447,
-
-452,  472  seq.
-history  of  ii  8
-
-Polynesian  influence  in  Melanesia
-
-ii  139,  153,  238,  524
-culture,  complexity  of  ii  280
-Ponape  ii  553
-
-Poroporo  i  35,  36,  39,  40,  42,  43,  45,
-46;  ii  133,  152,  161
-Porpoise  i  219,  245,  337  ;  ii  386,
-462
-
-Possession  i  164,  321  seq.
-
-Possessive  noun  i  266 ;  ii  77,  197,
-488
-
-pronoun  i  141,  215,  239,  248,  250,
-255,  266,  271,  290  ;  ii  77,  196,
-197,  488
-
-Posture,  cross-legged  i  83
-Prayer  i  85,  186-8,  226,  231,  301,
-312,  316,  337,  338  ;  ii  249,  413
-seq.
-
-Prawn  i  331
-Prediction  ii  588
-Pregnancy  i  146,  15 1
-Preservation  of  the  dead  ii  209,  272,
-273,  275  seq.,  281,  285,  529,
-
-530,  545,  546
-Priest  1  354  ;  11  433
-Principles  ii  591
-Processions  i  101,  105,  134
-Prohibition  of  sexual  relations  ii  140,
-Prohibitions  i  205,  223  ;  ii  76,  377,
-47i,  5°8,  538
-
-food  i  1 19,  1 5 1  seq.,  177,  191,  204,
-217,  219,  220,  228,  243,  248,  264,
-273,  281,  286,  292,  303,  304,  317  ;
-
-ii  76-7,.  235
-
-Promiscuity  ii  127,  143,  152,  154,  566
-Property  i  37,  55,  141  seq.,  209  seq.,
-226,  306,  384 ;  ii  96  seq.,  107,
-219,  392,  S\2  ,
-
-and  secret  societies  i  92,  122,  125,
-141  seq. ;  ii  209,  512
-community  of  i  37,  39,  43,  209,
-225,  291  ;  ii  81,  146  seq.,  160-1,
-394  seq.
-
-destruction  of  i  135  ;  ii  17°
-protection  of  i  122,  125  ;  ii  219,  512
-
-
-6o6
-
-
-Index
-
-
-Psychology  ii  6,  107,  383,  41 1,  595
-Pudding  1  75,  147,  148,  243,  318
--dish  i  25,  86
-
-Punishment  i  50,  63,  91,  93,  98,  107,
-142,  160,  305,  306,  319
-by  atua  i  319
-
-by  death  i  50,  63,  67,  91,  98,  107,
-160,  3°5,  306
-Pygmies  ii  583
-
-Pyramids  ii  372,  429,  430,  523,  525,  549
-
-Quarrels  i  23,  37,  44,  52,  59,  94,  123,
-182,  291,  310,  343;  11  146,  170
-Quatrefages,  de  ii  431  •
-
-Quiros  ii  315,  479
-
-Rail  i  336
-Rain  i  79,  338
-
--making  i  157,  163
-prayers  for  i  316,  317
--song  i  78
-
-Rainbow  i  108,  157  ;  ii  426
-Rank  i  139,  140,  141  ;  ii  226,  229,
-235,  241,  325,  377
-at  sea  i  171,  21 1
-Rape  i  296
-Rarotonga  ii  269,  281
-Rascher  ii  538,  542
-Rat  i  1 18,  1 19,  152,  154,  212  ;  ii  248,
-
-446
-
-Rawe  i  38,  80,  98,  107
-Ray.  See  Sting-ray
-Ray,  S.  H.  i  77,  85,  215,  383  ;  ii  177,
-178,  465,  474
-
-Reciprocal  terms  i  205  ;  ii  30,  31,  47.
-
-See  Collective  terms
-Reciprocity  in  relationship  i  8,  235  ;
-
-ii  159,  160,  169,  200
-Red  i  73,  74,  7 5,  77,  80,  95,  1 1 2-1 19,
-I27,  133?  135,  13 7  seq.,  148,  158,
-162,  164,  226,  312,  338;  ii  385,
-390
-
-Reef  Island  i  227  ;  ii  478
-Region,  definition  of  i  16
-Reincarnation  ii  369,  370
-Relationship  Chaps,  xvi  and  xxm,
-i  6  seq.,  26,  44,  58,  177,  192,
-214,  221,  224,  229,  234  seq.,
-
-258,  266  seq.,  307,  341,  364,
-
-369,  371,  37 5  i  ii  235,  240,  31 1,
-469,  490,  506
-
-classificatory  system  of  i  6  ;  ii  10
-uniformity  of  terms  of  ii  185,  186,
-188,  195
-
-Relatives  by  marriage  i  13,  34,  41,
-255,  293;  ii  29,  38,  169,  182,
-332
-
-functions  of  Chap,  xxil,  i  35,  255,
-290,  308,  343,  366;  ii  12,  45,
-330
-
-
-Relief  ii  320
-
-Religion  Chap.  XXXIII,  ii  445
-Remedies  i  324,  356
-Rennell  ii  153
-Rent  i  59
-
-Respect  i  37,  38,  39,  41,  42,  45,  305,
-324;  n  75,  131,  154,  155,  162,
-505
-
-for  chiefs  i  305
-for  totems  ii  75,  505
-Rewa  i  268
-Rhythm  i  97
-Rickard,  R.  H.  ii  511
-Ringworm  i  324
-Rivers  ii  505
-
-throwing  dead  into  ii  268,  289,
-343,  344,  53i
-
-Robertson,  H.  A.  ii  167,  244
-Robinson,  Mr  Aubrey  i  374
-Rocks,  sacred  i  23,  24,  165.  See
-Stones
-Rod  ii  462
-
-Kongo  i  157;  ii  390,  485
-Rotuma  i  355
-
-Rowa  i  20,  24,  31,  35,  36,  38,  41,  43,
-49,  166,  167,  170,  226;  11  379,
-425,  445
-
-Rukruk  11  513,  535,  554
-Ruviana  i  257  ;  ii  77
-
-Saa  i  235  seq.,  250  ;  ii  15,  87,  312,
-
-550
-
-Sacrifice  i  337  ;  ii  259,  261
-Saddle  Island.  See  Motlav
-Sago  i  299,  333  ;  ii  552
--palm  i  no
-
-Salagoro  Chap.  IV,  i  62,  81,  82,  134
-seq.,  138  ;  ii  377,  468,  495
-Samoa  1  82,  271,  368  seq.  ;  ii  13,  14,
-17,  18,  256,  262,  268  seq.,  281,
-
-399,  446,  453,  457,  473
-San  Christoval  i  234,  239,  258;  ii  15,
-
-72,  252,  267,  305,  312,  382,  386,
-
-414,  444,  546
-Sanctity  i  119,  241,  248
-Sandwich  Island,  Bismarck  Archi¬
-pelago  ii  544
-New  Hebrides.  See  Efate
-Santa  Cruz  Chap,  ix,  ii  63,  71,  75,
-8b  84,  98,  1 13  seq.,  247,  251,
-266,  309,  349,  350,  379,  386,  387,
-432,  442,  456,  465,  472,  476  seq.,
-5i  1
-
-Santa  Maria  i  22,  26,  63,  77,  78,  81,
-133,  168  ;  ii  386,  427  seq.
-
-Santo  1  133;  ii  232,  266,  448,  591
-Savage  Island.  See  Niue
-Savo  i  247,  251,  255;  ii  267,  270,
-465,  477
-
-Scent  i  162,  164
-
-
-Index
-
-
-607
-
-
-Schmidt,  P.  W.  i  258  ;  ii  253,  474,  593
-Sea,  throwing  dead  into  ii  267,  268,
-269,  270,  271,  343,  344,  368,
-.  529.
-
-Sea-lion  i  224
-Sea-slug  i  40,  158
-Sea- water  i  137
-and  mana  i  78
-
-Seclusion  i  80,  88,  96,  103,  127  ;  ii  228,
-229,  435.  5i5,  554
-
-Secret  societies  Chaps.  Ill  and  XXIV,
-
-i  87,  125,  210;  ii  205,  241,  248,
-252,  253,  279,  285,  303,  314,  325,
-
-367,  37 6,  378,  387,  39°,  394,  4°9
-seq.,  435,  442,  460  seq.,  468,  510,
-541,  547,  586,  587,  592
-Seligmann,  C.  G.  ii  338
-Selwyn,  Bishop  i  298
-Bishop  John  i  88,  356
-Seven  i  73
-
-Sex  i  88,  91,  no,  114,  115,  119,  147,
-150  ;  ii  295,  297,  561
-of  societies  i  88,  91
-Sexes,  proportion  of  ii  295
-Sexual  relations  i  39,  81,  134,  142,  15 1,
-
-183,  209,  213,  230,  307,  310,  386  ;
-
-ii  34,  37  seq,,  55,  hi,  129,  132,
-134,  140,  145,  152,  153,  154,  161,
-163,  168,  434
-
-abstinence  from  i  134,  327
-and  speech  i  209  ;  ii  134
-Shark  i  23,  113,  155,  1 77,  210,  217,
-220,  243,  245,  248,  331,  332,  368  ;
-ii  220,  230,  361,  365,  517,  518,
-520,  545
-
-Shell-money.  See  Money
-Shortland  Islands  ii  77,  82,  267,  340,
-352,  .357,  53B  546
-
-Shoulder  i  43,  56,  74,  101,  147,  182,
-184  ;  ii  169
-Siara  ii  542
-
-Sides,  right  and  left  i  75,  88,  90,
-101
-
-Signalling  ii  534
-Silence  i  147,  209
-Simplification  of  culture  ii  236,  282
-of  relationship  ii  87,  88,  89,  171,
-189,  312
-
-Single-stick  i  349
-
-Sister’s  husband  i  172,  205,  222,  230,
-293  ;  ii  128,  169
-
-Sister’s  son  i  38,  153,  158,  185,  204,  209,
-213,  230,  255,  290  seq.  ;  ii  17
-seq.,  57,  59  seq.,  97,  112,  130,
-142,  146,  148,  156,  158,  159,  1 78,
-
-184,  187,  189,  239.  See  Mother’s
-brother
-
-Six  i  101  ;  ii  229
-
-Size  of  islands,  influence  on  migration
-ii  3OI5  345,  363,  52i,  525,  592
-
-
-Skull  i  226
-of  pig  i  106
-
-cult  of  i  226  ;  ii  258,  259,  429,
-
-5 1 1,  530,  543,  548
-preservation  of  Chap.  XXVII,  11
-
-530,  543,  55°
-
--shrine  ii  267,  273,  585
-Sky,  home  of  dead  in  ii  263,  550
-Sleep  i  166
-Sling  ii  447
-
-Snake  i  112,  243,  244,  245,  273,  286,
-2 87;  ii  517,  518,  542,  545
--eaters  ii  552
-
-sea-  i  113,  152,  154,  219;  ii  220
-Social  groups  i  190,  217,  228,  241,
-243,  245,  264,  272,  281,  286,
-303,  334  ;  ii  72,  79,  91,  108,  147,
-
-314  seq.,  354,  5°5
-and  marriage  ii  96
-origin  of  i  26,  243,  245,  264,  272,
-354,  363
-
-Social  structure  i  24,  25,  176,  189,
-241  ;  ii  4,  43,  45,  83,  85,  186,
-216,  280,  338,  347  seq.,  591
-Society  Islands.  See  Tahiti
-Sogoi  i  20,  24,  25,  46,  54,  92  seq.,
-147,  172  ;  ii  92
-Soloi  i  92  ;  ii  219,  410
-Solomon  Islands  Chap.  X,  ii  86,  115,
-216  seq.,  230,  251  seq.,  258  seq.,
-261,  266,  270,  304  seq,,  333,
-
-365,  390,  424-5,  435,  442,  451,
-453,  454  seq.
-
-matrilineal  region  ii  72,  76,  156,
-316  seq.,  350  seq.,  386,  435,  442
-Western  ii  156,  273,  365,  442,  455
-
-457,.  590
-Solstice  ii  514
-Somerville  ii  233,  426,  451
-Song-making  i  78
-
-Songs  i  23,  73,  77,  80,  108,  109,  1 13,
-135,  346  ;  11  445
-
-Soul  i  164,  165,  186  ;  ii  268,  365
-Sounds  i  65,  135;  ii  208,  211,  411,
-5 1 1-2
-
-Spanish  explorers  ii  216
-Spear  ii  543,  554
-Specialism  ii  594
-
-Speech  i  209,  213;  ii  114,  133,  134
-modes  of  i  39
-Speiser  ii  153,  259,  419,  427
-Spider  i  no
-Spiral  ii  536
-
-Spirit  i  15,  23,  157,  163,  286;  ii  218,
-228,  406,  414,  415  seq.,  518,  542
-animal  i  151
-possession  by  i  164
-Spitting  i  165
-Sport  ii  446
-Springs  i  304
-
-
-6o8
-
-
-Index
-
-
-Stakes  i  74,  101  ;  ii  229
-Stars  i  172  ;  ii  552
-Stature,  of  Tikopians  i  303
-Stealing  i  138,  148,  157,  307,  319
-Stephan  ii  256,  498
-Sterility  i  346
-
-Sting-ray  i  154,  224,  228,  231,  304,
-336  ;  ii  518,  520
-St  John’s  ii  542
-Stocks,  sacred  i  230
-Stones,  sacred  i  22,  23,  80,  100,  102,
-103,  106,  no,  131,  157,  163,
-
-164,  226,  231,  243,  244,  286,
-
-338,  368  ;  ii  406,  416,  421,  539,
-465
-
-in  magic  i  157,  163
-as  weapons  i  17 1
-
-Stone-work  i  23,  62,  100,  174:  ii  269,
-378,  382,  421,  425,  427,  431,  523,
-525,  540
-
-images  1  174;  ii  446,  515,  516,
-
-517,  521,  535
-on  grave  ii  274
-
-Strangers  i  136;  ii  191,  210,  211,
-
-302,  388
-
-taken  for  the  dead  ii  214,  215,  216
-treatment  of  i  322,  341
-Strangling  i  291,  305,  306,  352  ;  ii
-2 37,  504
-
-String  1  145,  329
-Strong,  Dr  ii  69
-Suas,  Father  ii  266,  477
-Subgroups  of  moieties  i  23,  24,  176,
-190,  209,  264,  281,  286  ;  ii  73,
-74,  80,  315,  349  seq.,  504,  531,
-
-.  538
-
-Substitution  words  i  41,  43
-Succession  i  15,  37,  306,  340,  346,
-384;  11  99  seq.,  145,  319,  321,
-322,  324  seq.,  504,  510
-definition  of  i  15
-to  occupation  i  326  ;  ii  322
-in  Polynesia  ii  302
-Suckling  i  53,  54;  ii  137
-Sugar-cane  i  212
-Suicide  i  346  ;  ii  237
-Sukwe  Chaps.  111,  iv,  xxiv,  i  37,  38,
-5i,  54,  61,  122,  125,  126,  161,
-168,  169,  172,  173  ;  ii  100,  245,
-246,  248  seq.,  315,  325,  376  seq.,
-
-387,  424,  425,  435,  436,  445,
-
-446,  458  seq.,  462,  468
-in  relation  to  Tamate  societies,
-i  126  seq.
-
-Sulka  ii  537  seq.,  569
-Sumba  ii  582
-
-Sun  i  22,  79,  176,  243  seq.  ;  ii  230,
-
-351,  423,  428,  430,  503,  514,
-
-515,  524,  53i,  532,  537,  540,
-
-548,  549,  579
-
-
-Sunset  i  79
-Sunshine  i  157
-
-Survival  ii  139,  147,  155,  239,  268,
-369,  370,  440  seq.,  447,  453,
-
-5i5».  546
-
-Swallow  i  134,  137
-Islands  i  217
-
-Sword-fish  i  82,  120,  174,  246,  336  ;
-ii  267
-
-Symbols  i  75
-
-“Sympathetic  magic”  i  145,  150
-
-
-Tabar.  See  Gardner  Island
-
-
-Taboo
-
-1  i
-
-38,  77
-
-r,  92,
-
-95,
-
-152,
-
-318,
-
-319;
-
-11  209,  218
-
-,  228,
-
-239,
-
-252,
-
-324,
-
-384,
-
-394,
-
-409
-
-seq.,
-
-512,
-
-525
-
-on
-
-food
-
-i  38.
-
-See
-
-Prohibitions
-
-Tahiti
-
-ii  242,  256,  263
-
-!,  271.
-
-,  281,
-
-283,
-
-3b2,
-
-366,
-
-37  2,
-
-399,
-
-420,
-
-421,
-
-429,
-
-430,
-
-433,
-
-447,
-
-451,
-
-453,
-
-Tales
-
-514,
-
-532,  551
-
-i  2
-
-5,  30,
-
-115,
-
-11 7,
-
-1 19,
-
-212,
-
-219,
-
-245;  :
-
-11  231,
-
-,  248,
-
-326,
-
-421,
-
-458,
-
-460,
-
-5°3>
-
-505,
-
-539,
-
-545,
-
-Tally
-
-i  207
-
-Tamaniu  i  154,  210;  ii  359,  364  seq.,
-366
-
-Tamate  Chaps,  iv,  v,  xxiv,  i  61,  62,
-81,  132,  161,  164  seq.,  172  ;
-
-ii  174,  258,  279,  309,  315,  340,
-367,  370,  374,  376  seq.,  387,
-
-401,  409  seq.,  418,  424,  425,
-
-458,  462,  468,  485,  513,  515,
-
-519,  546
-
-and  sukwe  ii  21 1
-secrecy  of  ii  21 1,  226
-societies  i  87 ;  ii  208,  279,  340,
-367,  377,  409,  462,  513  seq.,
-
-547
-
-Tamate  liwoa  i  64,  95,  96  seq.  ;  ii
-212,  423  seq.,  513  seq.,  524,
-
-531.  See  Ghosts
-Tambu  ii  485,  505,  529
-Tanga.  See  Caen  Island
-Tanna  ii  25,  27,  29,  73,  123,  233,
-244,  571,  572
-
-Tapu  i  77,  136,  318  ;  ii  485
-Taro  i  120,  135,  147,  168,  191,  227,
-304,  314,  3l7  seq.,  333,  336,
-
-337  ;  11  552
-
-Tataro  ii  413,  414,  417
-Tattooing  i  134,  174,  213,  313,  328;
-11  235,  326,  328,  436,  575,  590,
-595
-
-Taumako  i  321
-
-Tavatsukwe  i  72,  77,  82,  83,  85,  98,
-99;  ii  212,  249
-Tavua  i  286,  295
-
-
-Index
-
-
-609
-
-
-Tawarig  i  30,  35,  42,  146
-Teeth  ii  267,  286,  388,  461
-as  money  ii  386
-blackened  ii  539
--cutting  i  54
-dropping  out  i  220
-wearing  human  i  349
-Teknonymy  i  230,  268,  269,  279  ;  ii
-336
-
-Telei.  See  Buin
-
-Ten  i  54,  136,  147,  188,  212,  226,
-
-3l4>  ii  385
-
-Terrorisation  i  88,  91,  99,  142
-Thilenius  ii  298
-Thomas,  N.  W.  ii  48
-Thomson,  Basil  i  270
-Three  i  7  5,  136,  170,  171,  226,
-
-316
-
-Thunder  i  157,  164,  245
-Thurnwald,  Dr  R.  i  258  ;  ii  28,  50,
-
-.55,  Il8>  I24,  344,  366
-Tii  ii  42 1
-
-Tikopia  Chaps,  xil,  xxv,  i  298,  334  j
-ii  270,  309,  407,  420,  446,  449,
-571
-
-Tina  11  313,  318
-
-Tindalo  i  241,  243  ;  ii  76,  100,  217,
-218,  229,  230,  351,  426,  547,
-548
-
-Tin  tatis  i  123,  124
-Todas  i  265
-
-To  Kambinana  ii  501,  559
-To  Kovuvuru  ii  501,  559
-Tonga  i  263  seq.  ;  ii  14,  160,  234
-seq.,  274,  280,  399,  430,  431,
-
-433,,  437,  453,  57i
-influence  in  Tikopia  i  334,  355  ;
-ii  234
-
-Tonga-fiti  ii  584
-Tongatabu  i  355  ;  ii  431
-Torres  Islands  Chap,  vn,  i  22,  86,
-92,  102,  121,  128,  191,  225  ;  ii
-15,  7 1,  78,  87,  109  seq.,  227,
-
-232,  247,  261,  265,  386,  428,
-
-5.°5
-
-Straits  i  3  ;  ii  79,  124,  136,  160
-Totems,  associated  ii  338,  339,  543  seq.
-ceremonial  eating  of  ii  367
-linked  ii  338,  344
-
-Totemism  Chaps,  xviii,  xxx,  i  7,
-15;  ii  75,  81,  83,  84,  87,  91,
-220  seq.,  230,  235-6,  237,  239,
-252,  268,  314,  459,  461,  505,
-
-517,  521,  526,  543,  552,  555,
-
-560,  587,  589
-bird-  ii  341,  544  seq.
-in  Polynesia  ii  357
-tree-  ii  369,  590
-
-Tower  in  ceremony  ii  523,  539,  540,
-
-541
-
-
-Tree-fern  i  75,  106
-Tree-planting  i  55,  58
-Trees  i  55,  62,  65  seq.,  92,  106,  135,
-165,  209,  226,  245,  264,  368  ;
-ii  98,  229,  266,  320,  365,  518,
-
-542,  .589,  590
-destruction  of  i  44
-property  in  i  55,  57,  58  ;  ii,  98,
-320
-
-dead  in  ii  266
-Tremotu  ii  456
-Tribe  i  264
-
-definition  of  i  1 5
-Trilithon  ii  427,  430,  431
-Tubuan  ii  51 1  seq.,  524,  525,  534
-Tufunga  i  326
-
-Tuitonga  ii  433,  436,  437,  595
-Tumuip  ii  537
-
-Turmeric  i  137,  298,  31 1,  312,  327,
-
-333,  337,  338,  346  ;  ii  39°
-
-Turtle  i  113,  154,  15 7,  191,  219,  225,
-227,  228,  229,  246,  303,  333,
-337,  35°,  353  5  ii  220,  235,  386,
-
-389,  462
-
-Twenty  i  70,  148
-Twins  i  145,  313
-Tylor,  Professor  i  13
-
-Ulawa  i  234,  246  seq.,  250;  ii  15,
-87,  312,  444
-
-Umbilical  cord  i  144,  31 1  ;  ii  161,
-164
-
-Umbrella  palm  i  97,  145,  164
-Underground  world  ii  261,  265,  479
-Upright  position  ii  379,  425,  530  seq.,
-
-55°
-
-Ureparapara  i  31,  49,  81,  86,  102,
-11 7,  121  ;  ii  376,  377,  379,  38o,
-
-.  425,  53i
-
-Uripiv  ii  229,  233,  424
-Usiai  ii  552,  558
-Utupua  i  227  ;  ii  205,  478
-Uvea.  See  Wallis  Island
-
-Vanikolo  i  217,  224,  298,  321  ;  ii  115,
-266,  386,  426,  462
-
-Vanua  Lava  i  20,  30,  34,  35,  40,  49,
-68,  85,  89,  1 07,  hi,  1 1 2,  1 1 7,
-121,  133,  140,  157,  167,  168
-Levu  ii  71,  588
-Vao  ii  428
-
-Vasu  i  273,  279,  291  ;  ii  61,  156,
-
-158, 331  ..
-
-Vault,  burial  in  11  274,  286,  432
-Vegetation,  influence  on  migration
-ii  300,  592
-
-Vella  Lavella  i  253  seq.,  257  ;  ii  77,
-100,  465,  478
-Venereal  diseases  i  324
-Venesection  i  357
-
-
-6 1  o  Index
-
-
-Verana  i  190,  195,  209  ;  ii  74,  81,
-146,  149
-
-Vested  interests  i  140-1 ;  ii  102,  125,  230
-Veve  i  20,  22,  23,  24,  35,  36,  50,  53,
-72,  160,  161,  172  ;  ii  92,  131,
-!49>  169
-
-Village  i  2 37,  256,  353
-definition  of  i  16
-Viti  Levu  i  262  ;  ii  71,  153,  231
-Vocabulary  ii  466,  469,  471,  473,  482
-Volcanoes  ii  262-3,  299,  315,  461,
-478,  479
-
-Vuatom  ii  513,  514
-Vui  i  23,  157,  164  seq.,  226;  ii  249,
-406,  414,  415  seq.,  417,  428,
-429,  460,  485,  589
-local  character  of  ii  418
-Vurar  ii  514
-
-Wailing  i  306,  346
-Wallis  Island  i  299,  302,  332
-Warfare  i  15,  68,  116,  124,  176,  229,
-3io,  329,  368 ;  ii  300,  305,  450,  504
-War-song  i  77
-
-Water  i  42,  147,  224 ;  ii  288,  362,
-
-505,  531
-
-Water-vessel  i  222,  333  :  ii  316
-Watson,  H.  i  166
-Wealth  i  140,  141
-Weaning  i  53
-
-Weapons  i  329  ;  ii  271,  446.  See
-Bow  and  arrow,  Club
-Weather  i  231
-Weaver,  Mrs  E.  A.  i  374
-Weaving  i  82,  108  ;  ii  379,  448
-Webb  ii  456
-
-Webster,  Professor  Hutton  ii  222
-Wegener  ii  451
-
-Welchman,  Dr  i  245,  256,  257  ;  ii  73
-Werewere  sound  i  96,  100,  101,  102,
-io5,  I26,  134  seq.,  136,  138,
-139  ;  ii  458
-
-Westermark,  Professor  i  6
-Wheeler,  G.  C.  i  1,  232,  258  ;  ii  82,
-
-1 1 8,  267,  344
-Whale  i  220
-tusk  ii  390
-Whistling  i  65
-
-White  i  hi  seq.,  116  seq.,  137  seq.
-Widow  i  38,  153,  183,  206,  208,  222,
-310,  314,  347,  348  ;  ii  18,  no,  114
-
-
-Widower  i  153,  314
-Wife  i  40,  41,  66  ;  ii  18,  124,  125,
-141,  161,  325,  388
-potential  11  19,  21,  34,  38,  47,  55,
-56,  106,  128  seq.,  162,  163,  329
-Wife’s  brother  i  146,  172,  185,  205,
-23o,  293,  308,  310;  ii  169
-father  i  41,  172,  182,  184,  309  ;
-ii  31
-
-mother  i  41,  182-4,  223,  255,  256,
-309;  ii  31,  133
-
-sister  1  182,  205,  223  ;  ii  33,  35,
-1 17,  128,  129,  132  seq.,  141
-Willey,  A.  ii  511
-Williams  ii  456
-Williamson,  R.  W.  ii  437
-Wilson,  Miss  E.  i  192
-Women,  and  the  sukive  i  66,  67,  79,
-81,  131,  139
-
-and  kava  i  82,  83,  187  ;  ii  248
-and  secret  societies  i  87,  90,  94,
-99,  100,  105,  hi,  1 19,  120;
-
-ii  207,  21 1,  228,  229,  230,  248,
-249,  5 1 1,  526,  541
-exchange  of  ii  562
-occupations  of  i  133,  136,  325;  ii
-391  .
-
-proportion  of  women  among  immi¬
-grants  ii  215,  225,  295,  297,
-
-316,  353  seq.,  370,  434,  466,
-
-562  seq.,  565,  592
-work  of  i  167,  325  ;  ii  527,  554
-Wometeloa  i  62,  68
-Wona  i  62,  69,  70.  See  Platform,
-stone
-
-Woodford,  C.  M.  i  243;  ii  156,  217,
-
-305
-
-Worship  i  243
-Wrestling  i  349
-Wrist  i  124
-
-Yam  i  25,  95,  135,  146,  147,  148,
-
-161,  163,  168,  188,  208,  219,
-
-22 7,  273,  286,  304,  314,  316,
-
-.317-8,  333
--stick  i  318
-Yawning  i  165
-
-Yellow  i  hi,  1 17,  135,  137  seq.
-
-Ysabel  i  245,  246,  250,  256,  257;  ii
-23  b  267,  386,  428,  429,  444,
-
-456
-
-
-CAMBRIDGE!  PRINTED
-
-
-BY  JOHN
-
-
-UNIVERSITY  PRESS
-
-
-SELECTION  FROM  THE  GENERAL  CATALOGUE
-
-OF  BOOKS  PUBLISHED  BY  THE
-
-CAMBRIDGE  UNIVERSITY  PRESS
-
-
-The  Melanesians  of  British  New  Guinea.  By  C.  G.  SELIGMANN,
-M.D.  With  a  Chapter  by  F.  R.  Barton,  C.M.G.,  and  an  appendix  by  E.  L.
-Giblin.  Royal  8vo.  With  map,  80  plates  and  50  text-figures.  21s  net.
-“Some  idea  of  the  thoroughness  with  which  Dr  Seligmann  has  conducted  his  investiga¬
-tions  may  be  gathered  from  the  fact  that  each  group  under  consideration  is  treated,  as  far  as
-possible,  under  the  following  headings  :  Geographical  and  social  relations;  social  system  and
-regulation  of  public  life  ;  family  life ;  couitship,  betrothal,  and  marriage ;  property  and
-inheritance;  trade;  warfare;  burial  and  mourning  ceremonies;  magic  and  religion....
-Dr  Seligmann  has  laid  an  enduring  foundation  for  the  ethnology  of  the  south-eastern  district
-of  British  New  Guinea  which  is  indispensable  for  students  at  home  and  for  future  investiga¬
-tors  in  New  Guinea.” — Morning  Post
-
-“Dr  Seligmann’s  long-expected  work  on  the  anthropology  of  New  Guinea  will  come  as
-a  delightful  surprise  even  to  those  who  had  the  best  reason  to  believe  in  his  exceptional
-qualifications  for  his  task.... Dr  Seligmann’s  book  may  be  taken  as  a  model  of  what  is  to  be
-done  by  an  anthropologist  who  understands  his  business.  To  call  attention  to  his  workman¬
-like  devices  one  by  one  would  be  most  useful,  did  space  allow.... The  numerous  photographs
-are  admirable.” — Athenceum
-
-Reports  of  the  Cambridge  Anthropological  Expedition  to  Torres
-
-Straits.  By  the  members  of  the  Expedition.  Edited  by  Alfred  C.  Haddon,
-Sc.D.,  F.R.S.  Volume  II.  (Physiology  and  Psychology.)  Part  I.  Intro¬
-duction  and  Vision.  9s  net.  Part  II.  Hearing,  Smell,  Taste,  Cutaneous
-Sensations,  Muscular  Sense,  Variations  of  Blood-Pressure,  Reaction-times.
-7s  net.  Vol.  III.  Linguistics.  Demy  4to.  30s  net.  Vol.  IV.  Arts  and  Crafts.
-With  40  plates.  Demy  4to.  25s  net.  Vol.  V.  Sociology,  Magic  and  Religion
-of  the  Western  Islanders.  With  Tables  and  22  plates.  Demy  4to.  25s  net.
-Vol.  VI.  Sociology,  Magic  and  Religion  of  the  Eastern  Islanders.  With  30
-plates.  Demy  4to.  Buckram.  21s  net.
-
-The  Reports  will  form  a  series  of  six  volumes.  The  price  of  each  part  will
-vary  according  to  its  size  and  the  number  of  the  illustrations.  The  price  of
-separate  parts  will  be  net,  but  to  subscribers  to  the  whole  set  a  reduction  will
-be  made  of  one-third  of  the  published  price.  It  is  estimated  that  the  sub¬
-scription  price  to  the  complete  set  will  be  about  five  pounds.
-
-“  The  present  instalment  of  the  gleanings  of  the  Cambridge  Expedition  to  Torres  Straits
-is,  like  its  predecessors,  a  model  of  what  intensive  study  on  the  part  of  well-trained  anthro¬
-pologists  can  make  of  only  moderately  promising  material. ...The  most  thorough  piece  of
-anthropological  research  that  has  hitherto  been  produced  in  this  country.”— Athetnzum  on
-Vol.  iv,  Arts  and  Crafts
-
-The  Veddas.  By  C.  G.  Seligmann,  M.D.,  and  Brenda  Z.  Selig¬
-mann.  With  a  chapter  by  C.  S.  Myers,  M.D.,  D.Sc.,  and  an  appendix  by
-A.  Mendis  Gunasekara,  Mudaliar.  Demy  8vo.  With  72  plates,  15  text
-figures,  and  map.  15s  net.
-
-“  This  book  is  of  first  importance,  and  it  may  be  considered  the  final  word  on  the  subject.
-The  Ceylon  Government  is  to  be  congratulated  in  having  secured  the  services  of  Dr  and
-Mrs  Seligmann  for  this  important  research.  A  final  word  of  praise  is  due  to  the  number
-and  excellence  of  the  photographs.’  Nature
-
-
-The  Tribes  of  Northern  and  Central  Kordofdn.  By  H.  A.
-
-MacMichael.  Demy  8vo.  With  19  plates.  10s  6d  net.
-
-Ethnology  of  A-Kamba  and  other  East  African  tribes.  By  C.  W.
-
-Hobley,  C.M.G.,  A.M.Inst.C.E.  Demy  8vo.  With  54  illustrations  and  a
-map.  7 s  6d  net.
-
-Kinship  Organisations  and  Group  Marriage  in  Australia.  By
-
-Northcote  W.  Thomas,  M.A.  Demy  8vo.  With  3  maps.  6s  net.
-
-continued  overleaf
-
-
-The  Land  of  the  Blue  Poppy.  Travels  of  a  Naturalist  in  Eastern
-Tibet.  By  F.  Kingdon  Ward,  B.A.,  F.R.G.S.  Royal  8vo.  With  5  maps
-and  40  plates.  12s  net.
-
-‘  ‘  This  is  a  book  of  travel  of  quite  unusual  charm  and  interest.  So  little  is  known  of
-Eastern  Tibet  that  in  itself  the  book  is  one  of  considerable  importance,  and  for  the  general
-reader  its  interest  is  greatly  increased  by  the  extraordinary  vividness  of  the  picture  it  presents.
-We  do  not  remember  a  book  which,  without  elaboration  or  an  excessive  display  of  facts,  is
-so  completely  satisfying  and  convincing.  We  feel  now  that  we  know  that  curious  country,
-with  its  vast  mountains,  its  jungles  of  eternal  rain,  and  its  vast  arid  plains.” — Globe
-
-The  Duab  of  Turkestan.  A  Physiographic  sketch  and  account  of
-some  travels.  By  W.  Rickmer  Rickmers.  Large  Royal  8vo.  With  20 7
-illustrations.  30s  net.
-
-“  Mr  Rickmers  is  a  geographical  explorer  of  the  highest  qualifications.... The  book  testifies
-to  singularly  wide  interests  in  its  author  and  to  his  most  unusually  catholic  equipment  of
-science.... Mr  Rickmers  is  clearly  himself  a  specialist  in  several  subjects,  and  abreast  of  the
-latest  researches  in  all  with  which  he  deals.... There  is  very  little  ordinarily  included  within
-the  province  of  physical  science  which  is  not  dealt  with  expertly  in  this  book,  and  nothing
-concerning  mountains  fails  to  be  treated  with  the  full  knowledge  and  sure  touch  of  a  master.
-...To  an  author  who  offers  instruction,  amusement,  vivid  pen-pictures  of  unfamiliar  and
-fascinating  scenes  and  such  magnificent  sun-pictures  as  the  telescopic  panorama  of  the
-glaciated  range  of  Peter  the  Great,  one  ought  only  to  be  grateful.” — Ti?nes
-
-Yiin-Nan,  the  Link  between  India  and  the  Yangtze.  By  Major
-
-H.  R.  Davies.  Demy  8vo.  With  a  map  and  73  plates.  16s  net.
-
-“This  book  gives  an  admirable  account  of  the  writer’s  journeys  in  South-West  China,
-illustrated  by  many  excellent  photographs.  Major  Davies  gives  vivid  descriptions  of  the
-land  and  its  inhabitants,  and  their  occupations  and  customs.... There  are  valuable  appendices
-on  geographical  and  commercial  questions  and  a  long  account  of  the  tribes  of  Yiin-nan.  The
-work  is  a  most  valuable  addition  to  our  knowledge  of  this  important  province,  and  deserves
-the  careful  study  of  every  one  interested  in  China  and  its  problems.” — Manchester  Guardian
-
-Desert  and  Water  Gardens  of  the  Red  Sea.  Being  an  account  of
-the  Natives  and  the  Shore  Formations  of  the  Coast.  By  Cyril  Crossland,
-M.A.,  B.Sc.,  F.L.S.,  F.Z.S.  Royal  8vo.  With  40  plates,  11  text-figures  and
-12  diagrams.  10s  6d  net.
-
-“  Combining  a  vivid  imagination,  more  common  in  the  laboratory  and  the  lecture  theatre
-than  is  commonly  supposed,  with  the  accuracy  of  a  trained  man  of  science,  Mr  Crossland
-has  made  a  very  charming  addition  to  the  Nature  library.... The  photographs  add  to  the
-enjoyment  of  a  book  that  would,  even  short  of  such  embellishment,  have  earned  the  highest
-praise.” — Outlook
-
-Essays  and  Studies  presented  to  William  Ridgeway,  Sc.D.,
-
-LL.D.,  Litt.D.,  F.B.A.,  on  his  Sixtieth  Birthday,  6  August,  1913.  Edited
-by  E.  C.  Quiggin,  M.A.,  Ph.D.  Royal  8vo.  With  photogravure  portrait,
-17  plates  and  71  other  illustrations.  25s  net.
-
-The  contributions  are  grouped  under  the  headings  of  Classics  and  Ancient  Archaeology,
-Medieval  Literature  and  History,  Anthropology  and  Comparative  Religion.  The  titles  and
-names  of  the  Authors  of  the  various  papers  are  given  in  the  prospectus,  a  copy  of  which  will
-be  sent  post  free  on  request.
-
-Kindred  and  Clan  in  the  Middle  Ages  and  After.  A  Study  in  the
-Sociology  of  the  Teutonic  Races.  By  Bertha  S.  Phillpotts.  Demy  8vo.
-10s  6d  net.
-
-Ethnology.  In  two  parts  :  I.  Fundamental  Ethnical  Problems,
-II.  The  Primary  Ethnical  Groups.  By  A.  H.  Keane,  F.R.G.S.  Crown  8vo.
-With  numerous  illustrations.  Second  edition,  revised.  10s  6d.
-
-Man,  Past  and  Present.  By  A.  H.  Keane,  F.R.G.S.  Crown  8vo.
-
-With  15  illustrations.  12s.
-
-
-Cambridge  University  Press
-
-C.  F.  Clay,  Manager  :  Fetter  Lane,  London

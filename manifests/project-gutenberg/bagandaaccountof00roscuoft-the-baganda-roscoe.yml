@@ -27,7 +27,7 @@ artifacts:
     path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
     checksum:
       algorithm: sha256
-      value: 68176b7819a80f03417711cfad12f2b932015f6733c697da448c22d17b0b4dab
+      value: 7fcac55cf0dd9b347c6d8cbc847c1ac7743e8c68465ea03172e9f5ef7e72cdad
     media_type: text/markdown
     notes: Canonical reviewed Markdown corpus text.
   converter:
@@ -42,8 +42,6 @@ artifacts:
   cleanup_notes:
   - Removed distributor packaging and license text from canonical corpus file.
   - Preserved source line and paragraph structure without interpretive rewriting.
-  - Trimmed bounded front/back/appended non-body regions by mechanical line selection
-    (OCR review wave 3).
   rights:
     status: public_domain
     jurisdiction: US

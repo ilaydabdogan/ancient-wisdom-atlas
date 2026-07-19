@@ -27,7 +27,7 @@ artifacts:
     path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol1-mead.md
     checksum:
       algorithm: sha256
-      value: 6b9bfb0049cf5b710a82db1d2229cfedf5162054c52a8d9d092c5e5cf428c9a4
+      value: 975ee5fae62452363d96d62f0ce24afb138147c5b6d2113d5fb2934e4703a6c0
     media_type: text/markdown
     notes: Canonical reviewed Markdown corpus text.
   converter:
@@ -42,8 +42,6 @@ artifacts:
   cleanup_notes:
   - Removed distributor packaging and license text from canonical corpus file.
   - Preserved source line and paragraph structure without interpretive rewriting.
-  - Trimmed bounded front/back/appended non-body regions by mechanical line selection
-    (OCR review wave 3).
   rights:
     status: public_domain
     jurisdiction: US

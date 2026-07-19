@@ -69,6 +69,64 @@ figures:
 
 # Teutonic Mythology, Volume 4
 
+Division  _'BL  6  fc(D
+
+Section...*.  §:S^T
+
+No_ \/.v..t
+
+
+TEUTONIC    MYTHOLOGY.
+
+
+JACOB    GRIMM.
+
+
+TEUTONIC   MYTHOLOGY
+
+
+BY
+
+
+JACOB    GRll
+
+
+TRANSLATED    FRUM    THE    EUUKTii    EDITION
+
+WITH
+
+NOTES     AND     AFi'ENDIX
+
+
+JAMES    STEVEN    STALL Y13KASS,
+
+
+VOL.    IV
+
+
+H
+
+
+V-^O"  Vi^'T
+
+
+LONDON:  GEORGE  BELL  &  SONS,  YORK  STREET,
+
+COVENT  (lARDEN.
+
+188«.
+
+
+Butlor  ,t-  Tamicr.
+
+The  Selwood  rrmtimi  Works
+
+From^,  <ind  London.
+
+
+CONTENTS.
+
+
 VOL.   IV.
 
 PAGE
@@ -114,7 +172,7 @@ iihele  h,,  Pantal.  1034  der  vil  arge  h.  1847.  den  h.  gramen,
 Servat.  148  (per  contra,  hypocrita  is  transl.  dunni  cristdni,  Diut.
 1,239^).  Also  "dogs,"  as  in  Judith  131,39:  jjone  haeSenan
 huud.  Olaf  Tryggv.  saga,  cap.  68:  /(it^fZ-heidinn.  Svenske
-vis  :    hednings-/ /r?ifL       Mor.   418 :    den  heideuschen   ]tn)it.      In
+vis  :    hednings-/</r?ifL       Mor.   418 :    den  heideuschen   ]tn)it.      In
 
 Willeh.  58,  16  the   Sarrazin  ride  on  dogs  and  hogs. Gradually
 
@@ -389,7 +447,7 @@ to  roam  ?  Sinafz  in  Laber  358  must  be  conn,  with  scJimufzoi,  to
 counterfeit  the  hare's  cry,  Schmoller  3,-179.  Trogen,  Sv.  iifvcnt.
 1,51  is  our  Fiih'l,  trusty.  Gnnnr,  Fornakl.  sug.  1,  87.  Gifr,  Geri,
 two  dogs  iu  Fiolsviuns-mal.  S7iali,  Marknssou  ]  74^  Guldtand
-Norske  event.  2,  92.  Yrs t,  FornalJ.  sug.  1,  22,  Ursa  in  Saxo.
+Norske  event.  2,  92.  Yrs<t,  FornalJ.  sug.  1,  22,  Ursa  in  Saxo.
 Bettelmann  in  Biirger  474''  and  StaJlmeister  iu  Tieck's  Zerbino
 express  social  rank,  conf.  MaJvoimi,  Ken.  1664.  It  were  too  bold
 to  conn.  Lepplsc.h  in  Pauli  Sch.  u.  ernst  77,  with  Samr  =  Lapp,  iu
@@ -507,7 +565,7 @@ bogh,  some  connecting  it  with  Sanskr.  b'agas,  sun,  Hofer's
 Zeitschr.  1,  150.  In  the  Old-Persian  cuneiform  writing  4,  61
 occurs  bagilha,  dei,  from  the  stem  baga,  Bopp's  Comp.  Gram.
 452  ;  Sanskr.  bhagavat  is  adorandus.  Ilesychius  has  ^ayalo'i,
-Z6v i  (ppv'yio^  (conf.  Spiegel's  Cuneif.  inscr.  210.  Windisch-
+Z6v<i  (ppv'yio^  (conf.  Spiegel's  Cuneif.  inscr.  210.  Windisch-
 mann  19.  20.  Bopp,  Comp.  Gr.  452.  581.  Miklosich  3).  Boh.
 buze,  bozatko,  Pol.  boz^,  bozfjjtko,  godkin,  also  genius,  child  of
 luck.     Boh.  buzek,  Pol.  bozek,  idol.
@@ -524,7 +582,7 @@ Gothic  J}6  galiuga-guda  for  et'SwXa,  1  Cor.  10,  19.  20,  where  the
 Greek  has  no  article,  we  may  perceive  a  side-glance  at  Gothic
 mythology  ;  conf.  Lobe  gloss.  76^.  The  ON.  guiT  is  not  always
 idolum  merely,  but  sometimes  numen,  as  god"  (ill,  omnia  numiua,
-Sajm.   67^  siti   Hakon  meS  hoiSin  gob,    HAkonann.    21.     g inff,
+Sajm.   67^  siti   Hakon  meS  hoiSin  gob,    HAkonann.    21.     g<inff,
 
 
 1286  GOD.
@@ -588,7 +646,7 @@ examples  of  '  wilkomen  Got  und  mir'  are  here  omitted.]  sit  mir
 in  Gate  wilkomen.  Pass.  3i,  92.  im  und  den  giifeu  (gods)  wille-
 komen,  Troj.  kr.  23105.  God  alone:  Got  willekunie  liero  von
 Berne,  Dietr.  Drachenk.  60".  Me  and  my  wife :  willekomen
-mir  und  ouch   Jer  frouiven  mtn,  MS.  1,  57*^.  bien  venuz  miner
+mir  und  ouch  <Jer  frouiven  mtn,  MS.  1,  57*^.  bien  venuz  miner
 fromven  nude  mir,  Parz.  76,  12.
 
 The  Supreme  Being  is  drawn  into  other  formulas  :  dankent
@@ -726,7 +784,7 @@ drieu,  damri  deu,  doiaini  dleus,  Raynouard  3,  68;  on  dame  conL
 p.  299  n.  Wallacli.  dumnedeit  for  God,  domii  for  sir,  lord.  Slav.
 knez,  hniaz,  prince,  is  applied  to  God  in  Wiggert's  psalms,  conf.
 kneze  granitsa  in  Lisch  urk.  1,  9.  So  ava^,  avaaaa  are  used  of
-kings  and  gods,  espec.  avaKe i  of  the  Dioscuri,  and  the  Voc.  dya
+kings  and  gods,  espec.  avaKe<i  of  the  Dioscuri,  and  the  Voc.  dya
 of  gods  only.
 
 p.  22.]  God  is  called  Father  in  that  beautiful  passage  :  ]7onne
@@ -742,7 +800,7 @@ viother  (p.  254).
 
 p.  22.]  The  Saxon  metod,  ON.  midtndr  may  be  conn,  with
 Sanskr.  mdtar,  meter  and  creator,  Bopp's  Comp.  Gr.  1134,  and
-mata,  mother,  creatress  ;  conf.  Ta/jii,a<;  Zev i.
+mata,  mother,  creatress  ;  conf.  Ta/jii,a<;  Zev<i.
 
 p.  23.]  In  Homer  too,  God  is  he  that  pours  :  Zeus  creates,
 begets  mankind,  Od.  20,202.  But  Zeus  p^^eet  vScop,  II.  16,  385.
@@ -769,7 +827,7 @@ in  das  lant  (so :  the  devil  brings  you),  Dietr.  and  Ges.  656.    mich
 GOD.  1291
 
 liab  selbtT  gewUet  her  Got  vuu  liiinel,  Keller's  Erziilil,  tjl.y,  11.
-We  say  'go  with  God/  safely,  avv  Oetp  j3aivet i,  Babr.  92,  G.
+We  say  'go  with  God/  safely,  avv  Oetp  j3aivet<i,  Babr.  92,  G.
 
 p.  23.]  Though  IJerthold  laughs  at  the  notion  of  God  sitting
 in  the  sky,  and  his  legs  reaching  down  to  the  earth,  as  a  Jewish
@@ -892,7 +950,7 @@ liim,  conseq.  no  hearing  of  prayer.  Besides,  an  almighty  God
 must  understand  thoughts  as  easily  as  words.  Prayers,  the
 utterance  of  petition,  gratitude  and  joy,  arose  in  heathenism,  and
 jn-esuppose  a  divine  form  that  hears.  Odysseus  prays  to  Athena:
-kXvOl  yu,eu,  vvv  8^  irep  fiev  aKovaov,  iiret  7rdpo i  ovttot  axovaw;
+kXvOl  yu,eu,  vvv  8^  irep  fiev  aKovaov,  iiret  7rdpo<i  ovttot  axovaw;
 paiofxevov,  Od.  G,  325.  13,  35G.  kXvOi,  ava^  5,  445.  II.  IG,  514  ;
 Poseidon  and  Apollo  are  addressed  with  the  same  formula.  Gods
 are  greeted  through  other  gods :  Veneri  dicito  multam  meis
@@ -930,7 +988,7 @@ clamare,  anaharen  invocare,  N.  Boeth.  146.  OS.  grotian  God,
 Hel.  144,  24.  145,  5.  Does  TvpoaKweu)  come  from  Kweco  I  kiss
 (as  adoro  from  os  oris,  whence  osculum),  and  is  it  conn,  with  the
 hand-kissing  with  which  the  Greeks  worshipped  the  sun;  rrjv  x^^P"'
-KuaavTe i,  Lucian  5,  133;  or  from  kvwvI  conf.  irpoaKvve';,  fawn-
+KuaavTe<i,  Lucian  5,  133;  or  from  kvwvI  conf.  irpoaKvve';,  fawn-
 ing flatterers,  Athen.  6,  259,  see  Pottos  Zahlmeth,  255.  jiaTrd-
 t,ea6ai  is  also  used  of  dogs  fawning  upon  a  master.
 
@@ -977,7 +1035,7 @@ in  die  bede,  int  gebede,  Maerl.  2,  209.  3,  247.  do  hup  er  ane  zu
 veniende  :  wo  irae  daz  houbit  lac,  do  satzte  her  di  fuze  hin,  Myst.
 1,  218.  legde  hleor  on  eord'an,  Caedra.  140,  32.  Swed.  bunfaUa,
 to  kneel  in  prayer.  During  a  sacrifice  they  fell  to  the  ground
-ptTTToi/re?  € i  fo)8a<?,  Athen.  p.  511.  The  Ests  crawl  bareheaded
+ptTTToi/re?  €<i  fo)8a<?,  Athen.  p.  511.  The  Ests  crawl  bareheaded
 to  the  altar,  Estu.  verh.  2,  40.  Other  customs :  the  ludians
 danced  to  the  Sun,  Lucian,  ed.  Lelnn.  5,  130.  Roman  women,
 barefoot,  with  dishevelled  hair,  prayed  Jupiter  for  rain.  The
@@ -1013,11 +1071,11 @@ p.  33.]  Arsenius  prays  with  'uplifted  liands  from  sunset  to
 sunrise,  Maerl.  3,  197.  in  crucis  modum  coram  altari  se  sternere,
 Pertz  8,  258;  conf.  ordeal  of  cross.  Praying  'mit  zertdnen
 armen,  zertrenten  armen,  Zellw.  urk.  no.  1029.  775.  Hands  are
-washed  before  praying  :  y^elpa'i  vi.-^d/Li€vo i  7roXif)<;  d\6<;,  in  the
+washed  before  praying  :  y^elpa'i  vi.-^d/Li€vo<i  7roXif)<;  d\6<;,  in  the
 hoary  sea,  Od.  2,  261.  12,  336.  Helgafell,  )?angat  skyldi  engi
 ma'Sr  opveginn  (unwashen)  lita,  Landn.  2,  12.
 
-p.  33.]  Xdpi i,  gratia,  is  also  translated  anst.  Goth,  anstdi
+p.  33.]  Xdpi<i,  gratia,  is  also  translated  anst.  Goth,  anstdi
 audahafta,  gratia  plena  !  OHG.  fol  Gotes  ensfi,  0.  i.  5,  18.
 enstio  fol,  Hel.  8,  8  ;  conf.  *  gebono  fullu  '  in  Tat.,  and  AS.  mid
 gife  gefylled.  For  ginada  Otfried  uses  a  word  peculiar  to  him-
@@ -1054,7 +1112,7 @@ after  sunset,  Geo.  2281.  On  the  other  hand,  '  Norffr  horfa  dyr  '
 occurs  in  SiBtn.  7''.  Jotunheimr  lies  to  the  North,  Rask  afh.  1,
 83.  9 1.    D.  Sag.  981-2.
 
-p.  35  n.]  Mock-piety :  wolt  ir  den  heiligen  die  z ihen  (toes)
+p.  35  n.]  Mock-piety :  wolt  ir  den  heiligen  die  z<ihen  (toes)
 ahbcissoi  ?  Bi'ontier  1,  295.  alle  heiligen  freshen  wollen,  Elis.
 V.  Orl.  251.  gotze-sclilecker,  Staid.  1,  467.  In  thieves'  lingo  a
 Catholic  is  tolefresser,  hllderfresser ,  Thiele  317".  magliavutts,
@@ -1170,7 +1228,7 @@ quoque  hostiis  litare  fas  habent.  Herculem  ac  Martem  concessis
 animalibus  phicant.     pars  Suevorum  et  Isidi  sacrificat.
 
 To  a  sacrifice  the  god  is  invited,  is  asked  to  join  :  KaXeet  tov
-deov,  Herod.  1,  132.  iirtKaXiet,  r.  6.  4,  60.  i'mKaKiaavTe i  r.  0.
+deov,  Herod.  1,  132.  iirtKaXiet,  r.  6.  4,  60.  i'mKaKiaavTe<i  r.  0.
 acpdl^ovcrt  2,  39.  The  gods  are  present  at  it,  Atheu.  3,  340-L
 Why  bones  are  offered  to  the  gotls,  Hes.  theog.  557.  primitiae
 ciboriim  deo  offerenda,  Athen.  2,  213.  The  rising  smohe  and
@@ -1259,7 +1317,7 @@ borsten,'  Weisth.  3,  478.  In  buying  it,  one  must  not  bai-gain,
 Athen.  3,  102.     The  skin  was  hung  up  and  shot  at,  p.  650.
 
 p.  46.]  The  people  by  eating  became  partakers  in  the  sacri-
-fice, conf.  1  Cor.  10,  18  :  ou^t  ol  ia6iovT€ i  Ta<;  dvaia<;  KOivtovol
+fice, conf.  1  Cor.  10,  18  :  ou^t  ol  ia6iovT€<i  Ta<;  dvaia<;  KOivtovol
 70V  dvcnaa-TTjplov  elcri  ;  p.  41.
 
 p.  47.]  On  sacrificing  Horses  (p.  664)  and  its  origin,  see
@@ -1297,7 +1355,7 @@ Oudenaerde  are  called  hickefreters,  chicken-munchers,  Belg.  Mus.
 5,  440.
 
 p.  49.]  Oxen  were  favourite  victims  among  the  Greeks  and
-Romans  :  toI  S'  eVt  divl  6a\daari i  lepa  pe^ov  Tavpov<;  Trafxp.eXava'?
+Romans  :  toI  S'  eVt  divl  6a\daari<i  lepa  pe^ov  Tavpov<;  Trafxp.eXava'?
 'EvoauxdovL  Kvavo'y^a iT-p,  Od.  3,  5  ;  namely,  nine  bulls  before  each
 of  the  nine  seats  3,  7.  Twelve  bulk  sacrificed  to  Poseidon  13,
 1 82.  To  Athena  pe^(v  ^ovv  r/viv  evpii/jbircoTrov  (lS/xy]T7]V,  rjv  ovitm  vtto
@@ -1339,7 +1397,7 @@ pillar,  Krotzenb.  w.,  yr  1415  (Weisth.  3,  513).  The  gras-frisch-
 Ihig  in  Urbar.  Aug.,  yr  1316,  seems  to  mean  a  sheep,  MB.  34'',
 305.  friscJiig,  frisclilliig,  a  wether,  Staid.  1,  399.  opferen  als
 eiuen  friskinc,  Mos.  19,  8.  ein  frishinc  (ram)  da  bi  gie,  Diemer
-19,  19.  With  friscing  as  recens  natus  conf.   r(f)ayal  veoO/jXov
+19,  19.  With  friscing  as  recens  natus  conf.  <r(f)ayal  veoO/jXov
 /SoToO,  yEsch.  Eum.  428.  King  Hei"Srekr  has  a  giiltr  reared,  with
 12  judges  to  look  after  it,  Hervar.  saga  c.  14  (Fornald.  s6g.  1,
 463)  ;  conf.  the  giafgoltr,  Norw.  ges.  2,  127.
@@ -1419,7 +1477,7 @@ fire,  h.  Ludwig    84,  19;    or  the  building    of  a  chapel.     Silver
 
 WORSHIP.  1305
 
-l>lou jlis  and  alilpi^  ofrored  (p.  59 n.  2G In.),  D.  Sag.  59.  Pirates  oder
+l>lou<jlis  and  alilpi^  ofrored  (p.  59 n.  2G In.),  D.  Sag.  59.  Pirates  oder
 a  tentli  part  of  their  booty,  p.  2ol ;  coiif.  evravda  tm  vao)  Tpn'ipovi
 avcLKenat,  ■)(^a\Kovv  efifioXov,  Pans,  i,  10,  k  Stones  are  carried
 or  thrown  on  to  a  grave  (otherw.  branches,  Kleinia  3,  29tj  :  on
@@ -1480,7 +1538,7 @@ troop  to  the  Schweckbauser  hills,  where  an  idol  formerly  stood,
 Harrys  i.  no.  4.
 
 p.  59  n.]  Ael/3ov  8'  aOavdroiai  Oeoh,  Od.  2,  432.  olvov  eK'^eov,
-^8'  €v)(^ovTo  6eol i,  II.  3,  296.  Before  drinking,  they  poured  some
+^8'  €v)(^ovTo  6eol<i,  II.  3,  296.  Before  drinking,  they  poured  some
 on  the  ground  to  the  gods  7,  480 ;  whereas  the  Scythians  spilt
 no  loine  (Lucian  Toxar.  45),  and  the  German  heroes  drank  minne
 without  spilling  any,  D.  Sag.  236-7.  poculis  aureis  memoriae  de-
@@ -1550,8 +1608,8 @@ has  Halax-stat.  Dare  we  bring  in  the  AS.  ealgian  (tueri)  and
 the  Lat.  arcere,  arx  ?  D.  Sag.  319.  Pictet  in  Origines  1,  227
 connects  alhs  with  Sanskr.  alka.  What  means  '  alle  gassen  und
 allien'  in  the  Limbg.  chron.  p.m.  5?  With  the  Alois  in  Tacitus
-conf.  the  Scythian  KopaKoi,  (f)iXLoc  BaifjLove i  =  Orestes  and  Pylades,
-Lucian's  Toxar.  7.     D.  Sa r.  118.
+conf.  the  Scythian  KopaKoi,  (f)iXLoc  BaifjLove<i  =  Orestes  and  Pylades,
+Lucian's  Toxar.  7.     D.  Sa<r.  118.
 
 
 1308  TEMPLES.
@@ -1584,7 +1642,7 @@ such  as  ON.  stalli  and  the  plur.  Jiorgar,  see  D.  Sag.  114-5.
 
 p.  69.]  OHG.  Itaruc  seems  preserved  in  Harahes-heim,  Cod.
 Lauresh.  3,  187,  and  in  Hargenstein,  Panzer's  Beitr.  1,1;  conf.
-Hercijnius.  AS.  Besiuga-/ mr/(,  Kemble  no.  994.  ON.  hatim-
+Hercijnius.  AS.  Besiuga-/<mr/(,  Kemble  no.  994.  ON.  hatim-
 brcSom  liorgi  roe^Sr,  SjBm.  42^.  hof  mun  ek  kiosa,  ok  Jiiirga
 raarga  14P.  Thors-ar(//i,  -aerg,  -harg,  now  Thors-hiilla,  Hildebr.
 iii.  D.  Sag.  115.  The  hof  sometimes  coupled  with  horgr  occurs
@@ -1593,7 +1651,7 @@ even  in  MHG.  in  the  sense  of  temple,  temple-yard  :  ze  hofe  geben
 30.  den  liof  rumen  (temple)  172,  5;  conf.  ON.  hofland,  temple-
 land.  Munch  om  Skiriugssal  106-7.  D.  Sag.  116-7.  Likewise
 garte,  tun.,  pi.  tunlr,  iviese,  aue  (p.  225)  are  used  for  holy  places,
-Gr.  dXao i.
+Gr.  dXao<i.
 
 p.  69.]  OHG.  pnro,  AS.  hcaro,  are  supported  by  Idj^arida  =
 nemorosa,  which  Graff  3,  151  assoc.  with  kiparida ;  by  AS.
@@ -1625,8 +1683,8 @@ tended by  wild  beasts,  Wuotan  by  wolf  and  raven,  Froho  by  a  boar.
 p.  69.]  Worshipping  in  the  still  and  shady  grove  was  practised
 by  many  nations.  '  Thou  hast  scattered  thy  ways  to  the  strangei-s
 under  every  green  tree'  complains  Jeremiah  3,  13.  kKvtov
-ak TO<^  Ipov  jiOrjvaLr}<;,  Od.  6,  321.  ev  aXaei  hevopi^evTt  ^oi^ov
-^AiroWcovo'i  9,  200.  dXaea  Ilepae(^ovairi i  10,  509.  aXcro?  viro
+ak<TO<^  Ipov  jiOrjvaLr}<;,  Od.  6,  321.  ev  aXaei  hevopi^evTt  ^oi^ov
+^AiroWcovo'i  9,  200.  dXaea  Ilepae(^ovairi<i  10,  509.  aXcro?  viro
 aKtepov  eKarvi^oXov  'A'rroWwvo'i  20,  278.  Athenaeus  4,  371-2,
 celebrates  the  cool  of  the  sacred  grove,  inhorruit  atram  majestate
 nemus,  Claudian  in  Pr.  et  Olybr.  125  (on  nemus,  see  p.  648).  in
@@ -1937,7 +1995,7 @@ is  the  inspired  speaker  of  oracles.]
 
 dialis  in  Hartung  1,  193.  Schwenck  27;  amictus  veste  alba
 sevir  et  praetor,  Petron.  65.  The  Cimbrian  priestesses  in  Strabo
-are  \ev^ei/j,ove i  (p.  55-6),  and  the  Gothic  priests  in  Jorn.  cap.  10
+are  \ev^ei/j,ove<i  (p.  55-6),  and  the  Gothic  priests  in  Jorn.  cap.  10
 appear  in  candidis  vestibus.  The  Gallic  druids  are  arrayed  in
 white  (p.  1206),  the  priest  of  Gerovit  in  snow-wJiife,  Sefridi  v,
 Ottonis  p.  128  (Giesebr.  Wend,  gesch.  1,  90).  In  the  Mid.  Ages
@@ -2088,7 +2146,7 @@ si  credere  velis,'  used  of  the  divine  Mother  in  her  bath,  cap.  40,
 does  seem  to  point  to  a  statue.
 
 p.  106.]  In  the  oldest  time  fetishes — stones  and  logs — are
-regarded  as  gods'  images,  Gerh.  Metron.  p.  26.  Gr.  to  ^pera i\n
+regarded  as  gods'  images,  Gerh.  Metron.  p.  26.  Gr.  to  ^pera<i\n
 the  Tragic  poets  is  a  god's  image  of  wood  (conf.  etKouv),  though
 Benfey  1,  511  says  'of  clay;'  ^oavov,  prop,  graven  image  fr.  ^eeo
 I  scrape,  often  means  a  small  image  worn  on  the  person,  e.g.  the
@@ -2542,7 +2600,7 @@ gwyth,  p.  150  n.  In  the  Eifel  the  wild  host  is  called  ]Vudes-\\eev,
 In  the  Wetterau  band  of  robbers  was  one  Werner  Wuttwuttwatt,
 Schwenker  574.     Pfister  1,  157.  162.
 
-p.  133.]      It  is  not  Svid'r,  gen.  Svinns,  but  Svi(T ir  ok  SviSrir,
+p.  133.]      It  is  not  Svid'r,  gen.  Svinns,  but  Svi(T<ir  ok  SviSrir,
 
 gen.  Scid'ars,  in  Sa3m.  46''.     Sn.  3.  24.  195, Beside   valfa&lr,
 
@@ -2861,7 +2919,7 @@ Got  schuof  im  sauften  siiezen  wint,  Ernst  5,  238   (Sup.  to  145).
 The  liimmliscJie  hind  makes  guten  wind,  Osw.  9Q0-b.  1220;  but
 also  the  storm  wind  1137.  2731.  To  the  Greeks  it  was  Zeus
 espec.  that  sent  a  fair  wind  :  Aioq  ovpo^,  Od.  15^  207.  Zev^;  oupov
-'iaWeu  15,  475.  Zev i  evdve/xo';,  Paus.  iii.  13,  5.  Also  a'Ep/u,ri i
+'iaWeu  15,  475.  Zev<i  evdve/xo';,  Paus.  iii.  13,  5.  Also  a'Ep/u,ri<i
 aepLo<;  is  named  '  inter  deos  qui  ad  pluviam  eliciendam  a  mago
 advocantur,^  Cass.  Dio  71,  19;  and  Hermes  or  Tlieuth.  was  the
 Egyptians'  rain-god  71,  8  (Sup.  to  175).
@@ -2995,7 +3053,7 @@ Wolfs  Ztschr.  1,  69.  OSinn,  unlike  Thorr,  hardly  ever  occurs
 in  names  of  men  :  Raaf  235-7  gives  Odhankarl,  Odhinkarl.
 
 p.  159.]  On  the  plant-name  Woden-tuugtl,  -star,  see  K.
-Schiller's  Ndrd.  pflanzenn.  32  ;  conf.  'Epfxov  ^di i,  Mercurii
+Schiller's  Ndrd.  pflanzenn.  32  ;  conf.  'Epfxov  ^di<i,  Mercurii
 SLirculus, 'filix,  and  'EpfJLOv  /Bordvcov,  herba   murcuriali.s,  Diosc.  4,
 
 
@@ -3100,7 +3158,7 @@ He   drives  a  chariot ;    conf.   the   Schoneu  superst.    about    Thor,
 THUNAE.  1339
 
 Nilsson  -i,  •iO-4.^  Ill  Ostgiitl.  the  aska  is  called  goa  ;  wlieu  it
-thunders,  they  say  'goa  gar/  Kaleu  11'';  (JojJ ir  kor,  Alinqv.  347,
+thunders,  they  say  'goa  gar/  Kaleu  11'';  (JojJ<ir  kor,  Alinqv.  347,
 but  also  (joi)ior  gar  384,  and  horiihouden  giir  385.  In  Holland  :
 '  ouze  lievo  Heer  reed  (drove)  door  de  lucht/  Father  God  is
 rolling  d'brenta  (milk-vessels)  up  and  down  the  cellar  steps,
@@ -3190,7 +3248,7 @@ have  an  evil  god  or  devil  perkel,  iiergalak,  Finn.  jjerheJe,  Kalev.
 
 p.  172.]  In  Finn,  the  oak  (tammi)  is  called  God's  tree,  pim
 Ynmalan,  Kalev.  24,  98.  105-7.  115-7;  conf.  Zeus's  oak  p.  184,
-robur  Jovis  p.  170.  Ju-glans,  Aio i  /3ttXavo?  =  castanea,  Theophr.
+robur  Jovis  p.  170.  Ju-glans,  Aio<i  /3ttXavo?  =  castanea,  Theophr.
 3,  8.  10.    Diosc.  1,  145.     The  oak  beiug  sacred  to  Thorr,  he  slays
 
 
@@ -3479,7 +3537,7 @@ The  donnernessel,  urtica  dioica,  resists  thunder.  Finn.  TJkon-
 tuhiiio,  fungus,  femes;  JJ.  nauris,  rapa;  TJ.  lummet,  caltha  palus-
 tris ;  Z7A;/iO?i-lehti,  folium  (lappa).  Jovis  colus,  zJi09  rjXaKaTTj,
 clinopodium,  verbena,  Diosc.  3,  99.  4,  61.  Jovis  uaadius,  cata-
-nance,  herba  filicula  4,  132.  iepa  rov  6eov  (f>r]yb i  at  Dodona
+nance,  herba  filicula  4,  132.  iepa  rov  6eov  (f>r]yb<i  at  Dodona
 Pans.  1,  17.  Jovis  arbor,  Ov.  Met.  1,  104.  A  tJmnder-tree  in
 Tyrol,  Wolf  Ztschr.  While  redbreast  and  beetle  attract  light-
 ning, the  wannenweihe  repels  it,  p.  674.  It  was  a  universal
@@ -3615,7 +3673,7 @@ ZIO    (TIW,    TYR).
 p.  194.]  In  Umbrian  the  nom.  was  still  Juv,  dat.  Jure,  voc.
 Jnpater,  Anfr.  u.  Kuhn  Ztschr.  1,  128:  Jnveis  luvfreis,  Jupiter
 liber,  Mommsen  139.  What  of  Finn,  taivas,  coelum  ?  or  even
-Quvpo i,  the  Assyrian  Mais  (Suidas)  ?     A  divergent  form,  '  vater
+Quvpo<i,  the  Assyrian  Mais  (Suidas)  ?     A  divergent  form,  '  vater
 
 Zi'  in   Miillenh.  nr.  410. Dyaus  is  not  only  coelum,  but   a
 
@@ -3624,7 +3682,7 @@ human  life,  Holtzra.  3,  101 — 6.  Parallel  with  the  ideas  belonging
 to  the  root  div,  are  those  developed  out  of  Sansk.  sur,  splendeo  :
 s}ira  deus,  suvja  sol,  svar  coelum.
 
-p.  194.]  Spiegel,  Zendav.  6,  connects  6e6 i  with  dhi.  Lith.
+p.  194.]  Spiegel,  Zendav.  6,  connects  6e6<i  with  dhi.  Lith.
 dievas  god,  dcive  goddess,  dievaitiz  (godkin)  thunderer,  dicvaite
 (goddesskin)  rain-goddess;  conf.  Pott's  Etym.  forsch.  1st
 ed.  56-7.     Beufey's  Orient  1,  510.
@@ -3704,13 +3762,13 @@ o,  193-4 ;  conf  *  mein  six  I '
 p.  205.]  On  the  divine  Gliera  see  GDS.  612.  Lucian  supplies
 additional  proofs  of  the  Scythian  worship  of  the  sword;  Toxaris
 38  :  ov  /xd  jup  TOP  'Avefxov  Koi  top  'Akivuki^v.  Scytha  4  :  dWd
-7rpo i  Aklvukov  Kal  Za/j-oX^iSo^,  roiv  irarpwcov  ijfily  Oeoyp.  Jupiter
-Trag.  42  :  ^KvOai  Aklvukt)  6vovre i  kuI  &pdKe i  Za/jb6\^LSc.  Conf.
+7rpo<i  Aklvukov  Kal  Za/j-oX^iSo^,  roiv  irarpwcov  ijfily  Oeoyp.  Jupiter
+Trag.  42  :  ^KvOai  Aklvukt)  6vovre<i  kuI  &pdKe<i  Za/jb6\^LSc.  Conf.
 Clem,  Alex,  admon.  42.  GDS.  231.  Priscus,  quoted  in  Jorn.  c.  5,
-ed.  Bonn  201,  17.  224,  remarks  on  the  sword:  Apfo i  ^L(f)o<;  oirep
+ed.  Bonn  201,  17.  224,  remarks  on  the  sword:  Apfo<i  ^L(f)o<;  oirep
 6i'  lepbv  Kal  nrapd  twv  ^KvOiKOiV  ^aatXecov  Tip,ciop.€vov,  ola  Si)
-TOi  e p6p(p  Tcov  TToXe/jicov  dvaKei/uLevov,  ev  roi-i  irdXai  d(j)avLa 6 P]y at
-■X^p6voi<;,  elra  Bid  /3o6 i  evpedijyai.  The  Mars  of  the  Alans  is  men-
+TOi  e<p6p(p  Tcov  TToXe/jicov  dvaKei/uLevov,  ev  roi-i  irdXai  d(j)avLa 6 P]y at
+■X^p6voi<;,  elra  Bid  /3o6<i  evpedijyai.  The  Mars  of  the  Alans  is  men-
 tioned by  Lucan  8,  223  :  duros  aetcriti  Alartis  Alanos.  The
 worship  of  lance  aud  sword  among  the  llomans  is  attested  by
 Justin  43,  3  :  Nam  et  ab  origine  rerum  pro  diis  imniortalibus
@@ -3811,7 +3869,7 @@ CHAPTER    X.
 FRO    (FREYR).
 
 p.  210.]  The  Yngl.  13  calls  Freyr  veraldar  god,  Saxo  calls
-Fro  deorum  satrapa.  Goth,  frduja  stands  not  only  for  Kupio i,  but
+Fro  deorum  satrapa.  Goth,  frduja  stands  not  only  for  Kupio<i,  but
 for  ^eo<?.  The  Mouachus  Sangall.  says  (Pertz  2,  733) :  tunc  illo
 verba,  quibus  eo  tempore  superiores  ab  inferioribus  honorari
 demulcerique  vel  adulari  solebant,  hoc  modo  labravit :  '  laete  vir
@@ -3847,7 +3905,7 @@ and  the  converse  :  '  Aestas  in  exilinm  jam  peregrinatur,'  ibid,
 
 p.  213  n.]  On  the  phallus  carried  about  in  honour  of  Dionysos
 or  Liber  by  the  Egyptians,  Greeks  and  Romans,  see  Herod,  2,  48.
-Hartung  2,  140.   f)aWol  eardat  ev  roicn  irpoirvkaLOiaL  hvo  Kapra
+Hartung  2,  140.  <f)aWol  eardat  ev  roicn  irpoirvkaLOiaL  hvo  Kapra
 fieydXoi,  Lucian  De  dea  Syra  16,  where  more  is  told  about  phalli,
 conf.  28-9.  An  '  idolum  priapi  ex  auro  fabrefactum  '  in  Pertz
 5,  481.  Phalli  hung  up  in  churches  at  Toulouse  and  Bordeaux,
@@ -4198,7 +4256,7 @@ Virg.  Aen.  8,  620.
 ]).  238.]  Oegir  is  a  iotunn,  H^ni.  3;  a  bcrglui  2.  The  ON.
 ogn,  f.,  =  terror  and  ocean;  ugnar  liomi  =  go\d,  Saem.  152";
 ogurlig  Oegisdottor  153"  ;  (>/i'»iicr/-  =  Oegir,  Egills.  618.  What
-means  Otv/i,s-/ c/»ir,  Sajm.  121-5?  Egishiba,  Agisfadinra,  Ilpt's
+means  Otv/i,s-/<c/»ir,  Sajm.  121-5?  Egishiba,  Agisfadinra,  Ilpt's
 Ztschr.  8,  588  ;  Agat^ul  on  L.  Zurich  2,  536,  formed  like  Agadora
 (Eider,  p.  239  ?)     ocgisandr,  sea-sand,  Barl.  26,  20.
 
@@ -4353,7 +4411,7 @@ p.  254]  Priscus  calls  Attila's  wife  Kpe/ca  179,  9,  'PeKav  207,
 5,  377.  Sommer  11.  167-8.  147  (conf,  frau  Motie,  12.  168.  147).
 A  witch's  daughter  HarJca,  Wolf's  Ztschr.  2,  255.  Haksche,  like
 Godsche  for  Gode,  Hpt's  Ztschr.  5,  377.  Harke  flies  through  the
-air  in  the  shape  of  a  dove,  makes  the  fields //•2(///*/ /,  carries  a  stool
+air  in  the  shape  of  a  dove,  makes  the  fields //•2(///*/</,  carries  a  stool
 to  sit  on,  so  as  not  to  touch  the  ground,  Sommer  p.  12;  this  is
 like  Herodias  (p.  285)  and  the  wandering  woman  (p.  632.  1058).
 
@@ -4363,7 +4421,7 @@ KERTHUS.      GAUDE.      HARKE.      CERES.      ISIS.  1365
 p.  254  n.]  Moinraseu  133  derives  Ceres,  Oscan  Kerrcs,  from
 creare ;  Hitzig  Pliilist.  232  connects  it  with  ^ri.s  =  Sii;  I  witL
 cera  and  cresco.  For  Demeter  the  Slavs  have  zeme  laate,  mother
-earth;  a  dear  mother,  Hke  {7rvpo i)  (f)iX7]<;  Aij/j.rjTpo';,  iEsop  (Corais
+earth;  a  dear  mother,  Hke  {7rvpo<i)  (f)iX7]<;  Aij/j.rjTpo';,  iEsop  (Corais
 212.  de  Furia  367).  Babr.  131  ;  conf.  A7j/xi]T€po<;  ukti'j,  II.  13,
 323,  and  '  das  liebe  koru,  getreidelein,'  Gram.  3,  065.  GDS.  53.
 The  Earth's  lap  is  like  a  mother's  :  foldan  sceat  (  =  scl)00sz),  Cod.
@@ -4496,7 +4554,7 @@ bed  geraacht,  d'  fedre  fliege  runder;'  in  Gegenbach  4-27:
 'heaven's  feathers  fly';  in  Nassau:  'Dame  H.  shakes  up  her
 bed/  Kehrein's  Nassau  p.  280.  Nurses  fetch  babies  out  of
 frau  Ilolleu  ieich.  In  Transylvania  are  fields  named  Fraii-hohhi.'
- iraben,  Progr.  on  Carrying  out  Death  1861,  p.  3.  She  washes
+<iraben,  Progr.  on  Carrying  out  Death  1861,  p.  3.  She  washes
 her  veil,  Prtihle  198.  Like  Berthe,  she  is  queen  or  leader  of
 elves  and  holdes  (p.  456),  conf.  Titania  and  Dame  Venus.
 '  Fraue  Bcrcht,  fraue  Holt '  occur  in  the  Landskranna  (?)
@@ -4786,7 +4844,7 @@ we  may  perh.  count  the  Kitzliammer  on  the  Meisner  (Suppl.  to
 270)  among  her  or  Holda's  dwellings  ;  conf.  cat-feeding  (p.  1097).
 
 p.  307  n.]  Maui,  men  is  akin  to  Lat.  monile.  Dor.  fxdvo^,
-lxdvvo s,  Pers.  fxaviuKr}'^,  fiaviuKov,  Ssk.  mani.  Pott  1,  89.  As  incu-
+lxdvvo<s,  Pers.  fxaviuKr}'^,  fiaviuKov,  Ssk.  mani.  Pott  1,  89.  As  incu-
 ijldd'  expresses  a  woman's  gladness  over  her  jewel,  a  Swiss  woman
 calls  her  girdle  '  die  freude/  Staid.  2,  515-6.
 
@@ -4953,7 +5011,7 @@ healthy  lives    to    their  honesty  and    temperance   (p.  458).
 
 Amrita  (Somad.  1,  127)  is  derived  by  Bopp,  Gl.  17%  from  a  priv.
 and  mrita  mortuus,  hence  immortal  and  conferring  immortality  ;
-and  a-ix^poaia  (279^)  fr.  a-fxpoaia,  /3poT6 i  being  for  fxpoT6<;.
+and  a-ix^poaia  (279^)  fr.  a-fxpoaia,  /3poT6<i  being  for  fxpoT6<;.
 Various  accounts  of  its  manufacture  in  Rhode's  Relig.  bildung  d.
 Hindus  1,  230.  It  arises  from  the  churning  of  the  ocean,  says
 Holtzmann  3,  146 — 150,  as  ambrosia  did  from  treading  the  wine-
@@ -5064,9 +5122,9 @@ J).  104-.     ThoiT  shakes  his  beard,  Saiin.  70".
 
 The  align-,  Jiatred,  vengi'iincf  of  the  gods  was  spoken,  of  on
 p.  18-9.  They  punish  misdeeds,  boasting,  presumption.  .Their
-eiii'i/,  (^66vo i,  is  discussed  by  Lehrs  in  Kilnigsb.  abb.  iv.  1,
-]3o  seq. ;  conf.  OeXyetv  (Snppl.  to  331).  tmu  tlvo^   p9ovepoiv
-8aL/jb6i/Qjv  fxij-^avrj   yeyov€,  Procop.  2,  358.  t>}?  tu^t;?  o  (fi96vo i
+eiii'i/,  (^66vo<i,  is  discussed  by  Lehrs  in  Kilnigsb.  abb.  iv.  1,
+]3o  seq. ;  conf.  OeXyetv  (Snppl.  to  331).  tmu  tlvo^  <p9ovepoiv
+8aL/jb6i/Qjv  fxij-^avrj  ‹yeyov€,  Procop.  2,  358.  t›}?  tu^t;?  o  (fi96vo<i
 2,  178.  irry]peta  8ai'/uo»'o<?  =  tantalizing  behaviour  of  a  god,
 Jjucian  pro  lapsu  in  saint.  1.  Loki  loves  mischief  when  he  brings
 about  the  death  of  Baldr.  So  the  devil  laughs  to  scorn  :  der
@@ -5089,9 +5147,9 @@ at  the  smoking  sacrifices  of  those  he  has  spared.  Ares  too,  and
 Briareus  are  KvSei  yaiovre^;.  A  god  feels  no  pain  :  ecrrep  Oe6<;  yap
 iariv,  ovK  ala6)]a€Tac,  Aristoph,  Frogs  631.      So  Gripir  is  '  tjhid'r
 
-konongr,*   Saam.   172''. The  gods   Jangli  :  yeXQ) i  5'  iir    avTw
+konongr,*   Saam.   172''. The  gods   Jangli  :  yeXQ)<i  5'  iir    avTw
 
-Tot?  6eo2 i  eKcvqOri,  Babr.  56,  5;  risiis  /oi;is  =  vernantis  coeli
+Tot?  6eo2<i  eKcvqOri,  Babr.  56,  5;  risiis  /oi;is  =  vernantis  coeli
 tempcries.  Marc.  Cap.  (conf.  giant  SvasuSr,  p.  758).  snhrisit
 crudele  pater  (Gradivus),  Claudian  in  Eutr.  2,  109.  Callaecia
 visit  Jloribus  ....  per  herbamy7'^/•c/^•  rosae,  Claud,  laus  Serenae
@@ -5103,7 +5161,7 @@ p.  327.]      For  gods  hccomiiuj  visildc  Homer  has  a  special  word
 
 .ivapy/j'i  :    ■)(^a\e7rol  8e  6eol  ^aivecrOai  ivapyel<;,  II.  20,   131.      deol
 
-(paii'ovrai  ivapyel i,  Od.    7,  201.    16,  IGl.      evapyi] i  rjkde  3,  420.
+(paii'ovrai  ivapyel<i,  Od.    7,  201.    16,  IGl.      evapyi]<i  rjkde  3,  420.
 
 ivapyt]^  a vyy ev6fj,evo<;,  Lucian's  Sat.  10. Gods  can  appear  and
 
@@ -5117,7 +5175,7 @@ No  one  can  see  them  against  their  will :   t/?  av  Oehv  ovk  eOekovia
 
 o(f)6dX/jioi(TLv  iSoiT    7]   evff  7]  €v6a  KLOvra;   Od.   10.  573. As  a
 
-god  can  hear  far  off:  K\vei  he  koL  trpoawOev  ojv  6e6 i,  ^Esch.  Eum.
+god  can  hear  far  off:  K\vei  he  koL  trpoawOev  ojv  6e6<i,  ^Esch.  Eum.
 287.  375  ;  as  'Got  und  sin  muoter  selient  dur  die  steine/  MS.  2,
 ]  2" ;  so  gods  and  spirits  enter  locked  and  guarded  chambers
 unperceived,  unhindered,  Holtzm.  3,  11.  48.  Dame  Venus  comes
@@ -5165,7 +5223,7 @@ moment  he  is  named  looks  in  at  the  door,  IMeinert's  Kuhl.  1G5.
 1G5.  Bellona  flies  away  a />//•(/,  Claud,  in  Eutr.  2,  230;  Gostr,
 i.e.  Obin,  as  a  valr  (falcon],  and  gets  a  cut  in  his  tail,  Fornald.
 sog.  1,  487-8.  Athena  arrj  Se  Kar  avrlOupov  K'XicrLrj';,  Od.  16,
-159  ;  si  mache  sich  schoen,  unci  go  herfiir  nls  ein   j6tlnne  zuo  (lev
+159  ;  si  mache  sich  schoen,  unci  go  herfiir  nls  ein  <j6tlnne  zuo  (lev
 tilr,  Renner  12227.  When  the  unknown  goddess  steps  inside
 the  door,  her  stature  reaches  to  the  roofbeam,  /xeXtiOpov  Kvpe
 Kuprj,  then  in  a  moment  she  is  recognised.  Hymn  to  Aphrod.
@@ -5196,7 +5254,7 @@ Usa,  aurora,  are  drawn  by  kine.  Plato  in  Phasdr.  246-7  speaks
 of  the  gods'  horses,  chariots,  charioteers,  of  Zeus  driving  a  winged
 car.     Selene  is  appealed  to  :  ttot   MKeavbv  rpeire  ttcoA.ou?,  Theocr.
 
-2,163.      a Trepe i,  evKifKoio  kut  dvTvya  Nukt6<;  oiraSoi  2,  166.
+2,163.      a<Trepe<i,  evKifKoio  kut  dvTvya  Nukt6<;  oiraSoi  2,  166.
 
 The  German  gods  occasionally  drive  in  star-chariots,  or  the  stars
 themselves  have  a  chariot,  pp.  151.  723  n. ;  conf.  the  car-pro-
@@ -5229,14 +5287,14 @@ and  the  angel  steps  out  of  it,  Girard  de  Viane  p.  153. Gods
 and  dgemons  are  said  to  OiXyetv,  hoodwink,  delude  (conf.  p.
 463-4  of  elves,  and  Suppl.  to  322)  :  dXXd  jxe  Sai/jbwv  6e\yei,  Od.
 16,  195;  of  Hermes:  uvhpwv  o/ju/xara  OeXyei,  II.  24,  343:  of
-Poseidon  :  6e\^a i  oacre  ^aeivd,  II.  13,  435  ;  of  Athena  :  tou?  he
-TIaX\.d s  'Adi^vair)  OkX^ei  koI  /j,r}Ti€Ta  Zev i,  Od.  16,  298;  ded
+Poseidon  :  6e\^a<i  oacre  ^aeivd,  II.  13,  435  ;  of  Athena  :  tou?  he
+TIaX\.d<s  'Adi^vair)  OkX^ei  koI  /j,r}Ti€Ta  Zev<i,  Od.  16,  298;  ded
 diXyec  1,  57;  but  also  of  Circe  and  the  Sirens,  Passow  sub  v.
 6iXjo).     Hera  holds  her  hand  over  her  protege,  virep-^eipla,  Paus.
 
-iii.  13,   6. They  take  one  by  the  hair  :   ari)  h"  oinOev,  ^av9yi i
+iii.  13,   6. They  take  one  by  the  hair  :   ari)  h"  oinOev,  ^av9yi<i
 
-Se  KOfxr/^  eXe  IlrjXeLcova,  II.  1,  197;  by  the  ear:  Kp6vo i  irpocr-
+Se  KOfxr/^  eXe  IlrjXeLcova,  II.  1,  197;  by  the  ear:  Kp6vo<i  irpocr-
 eXdwv  OTTLaOev  Koi  tov  coto?  fiovXa^6/ui€vo<;,  Lucian^s  Sat.  11.
 
 p.  331.]  The  Grecian  gods  sleep,  Athen.  2,  470;  yet  Ssk.
@@ -5278,7 +5336,7 @@ for  cloud,  Bopp's  Gl.  16^  209".  136'^.  158^;  but  do  not  attribute
 a  separate  language  to  the  gods.  Yet  Somaveda  1,  59.  64  names
 the  four  languages  Sanskrit,  Prakrit,  Vernacular  and  Dwmonlc.
 The  Greek  examples  can  be  added  to :  n\ayKra<;  S'  r/rot  rd<;  ye
-0€ol  ixdKape i  KaXiovcrtv,  Od.  12,  61.  dvr^rol  "Epcora,  uOdvaroi  he
+0€ol  ixdKape<i  KaXiovcrtv,  Od.  12,  61.  dvr^rol  "Epcora,  uOdvaroi  he
 Urepoora,  Plato's  Phoedr.  252.  Tr}y  S'  ^A(^pohiTt)v  KiKX/jaKovai,
 Oeol  re  kcli  dvepet,  Hes.  Theog.  197.  The  different  expressions
 attrib.  to  nioi  and  goJs  in  the  Alvis-mal,  could  no  doubt  be  taken
@@ -5344,7 +5402,7 @@ Gods  are  regarded  by  men  as  fathers,  goddesses  as  w.others
 (pp.  22.  145.  254).     They  delight  in  men,  avhpdaL  repiro/jbevoL,
 
 II.  7,  61  ;  their  kindly  presence  is  expr.  by  the  Homeric  a/x0t-
-/Saivo)  :  6?  XpvaTjv  d/ii pi^e/3T]Ka<;,  II.  1,  37.  09  "Icr/xapov  d/x(})t-
+/Saivo)  :  6?  XpvaTjv  d/ii<pi^e/3T]Ka<;,  II.  1,  37.  09  "Icr/xapov  d/x(})t-
 /Se/Si^Kei,  Od.  9,  198.  They  love  to  come  down  to  men;  conf.
 Exod.  3,  8:  Kare/Srjv,  descendi,  hwearf  (p.  325)  ;  they  stop  their
 chariots,  and  descend  to  earth,  Holtzm.  3,  8.  Nalus  p.  15.
@@ -5548,7 +5606,7 @@ tales, pp.  285.  381,  it  comes  of  spilt  straw  that  St.  Venus
 (Vinire)  has  stolen  from  St.  Peter.  In  Basque  :  ceruco  esnebidea,
 simply  via  lactea,  fr.  eznea  milk.  Td<;  ei?  ovpavbv  -^vx^v  vofii^o-
 fjieva<;  6hov<;,  Lucian's  Encom.  Demosth.  50.  Lettic  :  putnu
-zela-ch,  bird-path,  Bergm.  GO  (so  7r6po i  olwvoiv,  aether,  ^sch.
+zela-ch,  bird-path,  Bergm.  GO  (so  7r6po<i  olwvoiv,  aether,  ^sch.
 Prom.  281)  ;  also  Beeva  yahsta,  God's  girdle  115,  or  is  that  the
 rainbow?  (p.  733).  Arlanrod  is  also  interpr.  corona  septen-
 trioualis,  though  liter,  silver-circle.  For  the  many  Hungar.
@@ -5705,7 +5763,7 @@ V.  Valfo'Sur  vel  framtelja,  patris  artem  (mysterium  ?  )  enarrare,
 Saem.  1^.  Another  point  of  likeness  betw.  Wieland  and  Hephces-
 ios  is,  that  both  are  masters  of  forging  dwarfs  (p.  471-2).  Their
 handiwork  was  famous:  epyov  'H(f}aiaroto,  Od.  4,  617.  15,116.
-ou?  "H(f)ai,aT0 i  ereufe  7,  92.
+ou?  "H(f)ai,aT0<i  ereufe  7,  92.
 
 p.  380.]  'Mime  the  oid^  in  Bit.  138  seems  to  have  a  short  i,
 and  can  hardly  belong  here,  Karajan  in  Verbrvid.  von  S.  Peter
@@ -6039,7 +6097,7 @@ would  cause  a  fire,  which  came  true.  In  Fornm,  s.  4,  46  :  vtsinda-
 hona,  sA  er  sagJSi  fyrir  orlog  manna  ok  lif ;  conf.  p.  408.
 
 p.  405.]  Wackernagel  in  Hpt's  Ztschr.  2,  539  thinks  a/torunas
-=  / aZ{orunas  =  helliruua.  A  cave  of  the  Alrann  in  Pauz.  Beitr.
+=  /<aZ{orunas  =  helliruua.  A  cave  of  the  Alrann  in  Pauz.  Beitr.
 1,  78 — 80.     mandragora  aJruna,  Mone's  Anz.  8,  397.
 
 p.  400.]  My  resolution  of  ON.  norn  into  Goth,  navairns,  death-
@@ -6254,7 +6312,7 @@ sigenunft  15029.  Aurelian  led  in  triumph  ten  captive  GotJiic
 amazons,  Vopisc.  in  Aurel.  34.  Lampr.  Alex.  6320  calls  the
 Amazons  nrlouges  wip.  Paul  Diaconus  mentions  a  fight  betw.
 Lamissio  and  the  Amazons  for  the  passage  of  a  river.  Adam  of
-Bremen  4,  19  speaks  of  'amazons  and  cynos-ceph xli ; '  conf.  P.
+Bremen  4,  19  speaks  of  'amazons  and  cynos-ceph<xli ; '  conf.  P.
 Diac.  1,  15.  hunt-houhito  in  Graff.  The  Krone  174G9  tells  of
 '  der  mcide  lant,'  land  of  maids.
 
@@ -6822,7 +6880,7 @@ WIGHTS   AND    ELVES.  1415
 
 The  term  holders-mdnnclien  im  bolilers-locb,  Beclisfc.  3,  129,
 must  come  fr.  biiliel,  collis  ;  conf.  OIIG.  puliiles  perc,  Gralf  3,
-1-2  and  tlie  name  Bohler.  Wend,  ludkoiva   jora,  little  folk's  hill,
+1-2  and  tlie  name  Bohler.  Wend,  ludkoiva  <jora,  little  folk's  hill,
 Volksl.  2,  2G8'*.  in  montaiiis  (Prasiorum)  pygnuei  traduntur,
 Pliny  6,  19.      People  show  the  twargcs-Iacker,  tvilllckex-ldcker,  wul-
 
@@ -7438,7 +7496,7 @@ the  moss-maiden.  When  a  wood-maiden  was  caught,  her  little
 man  came  running  up,  and  cried  :  '  A  wood -maiden  may  tell
 anytliiug,  barring  the  use  you  can  make  of  drip-water/  Panz.
 Beitr.  2,  IGl.  A  thankful  little  woodwife  exclaims:  '  bauern-
-blut,  du  bist  gut,'  Borner  p.  231.  To  the  hnsh- jraiidinothrr  on
+blut,  du  bist  gut,'  Borner  p.  231.  To  the  hnsh-<jraiidinothrr  on
 the  Saale  corresp.  the  Esthonian  foreat-fatJicr,  tree-host,  BiJcler
 146.
 
@@ -7697,7 +7755,7 @@ WIGHTS   AND   ELVES.  1433
 
 nip  daemon,  Von  bull  p.  lG-7-8.  'Quoth  tho  inotbor  :  Nit  gang
 liiunsz,  der  iiiionDiel  (or,  dor  rmui)  ist  diisz  ;  for  tlie  child  fcaroth
-tliG  vinnnntl  (mau)/  Keisersbg's  Bil j^r.  16G*^.  To  vennummen
+tliG  vinnnntl  (mau)/  Keisersbg's  Bil<j^r.  16G*^.  To  vennummen
 and  verbutzen  oneself,  H.  Sachs  i.  5,  534°.  Not  only  Rumpehfilf,
 but  Knirfih'r,  Gehhart,  Tepcntlren  (Miillenh.  p.  306-7-8),  THfvll
 Tare  (Sv.  folkv.  1,  171)  must  have  their  names  guessed.  Other
@@ -7717,7 +7775,7 @@ oueself  ?  The  Swiss  bijog,  bogJc,  brooij  =  ma,sk,  bugbear.  Staid.  1,
 seems  akin  to  bruogo,  AS.  broga  =  terror,  terriculamentum.
 
 p.  508.]  On  the  Fr.  folht,  conf.  Diefenb.  Celt.  1,  182.  The
-f det  allows  the  peasant  who  has  caught  him  three  wishes,  if  he
+f<det  allows  the  peasant  who  has  caught  him  three  wishes,  if  he
 will  not  show  him  to  the  people,  Marie  de  Fr.,  Fables,  p.  140.
 The  far  fad  et  de  Poissy  comes  out  of  the  fireplace  to  the  women
 who  are  inspecting  each  other's  thighs,  and  shows  his  backside.
@@ -7778,7 +7836,7 @@ Hahn's  Lieder  136.     A  good  description  of  the  kobold  in  Firmen.
 2,  237-8.  The  herb  agennund,  Garg.  88'',  seems  conn,  with
 Agem.und,  the  house- daemon  in  Reinardus.
 
-p.  511.]  The  homesprite  being  olKovp6 i,  agathodaemon  (p.
+p.  511.]  The  homesprite  being  olKovp6<i,  agathodaemon  (p.
 485-6),  there  is  milk,  honey  and  sugar  set  on  the  bench  for  him,
 as  for  the  unke,  Schweinichen  1,  2(51.  In  the  Schleswig-Holstein
 stories  they  must  always  have  i^ap  or  groats,  with  a  piece  of
@@ -7923,7 +7981,7 @@ conf.  cZ //.s.sT- troll,  Sv.  forns.  1,  92-8.  Grendel  is  called  a  pyrfi
 Beow.  846.  As  the  rune  purs  in  ON.  corresp.  to  Jxirn  in  AS.,  we
 have  even  in  ON.  a  giant  named  Bol-^or??,  Sasm.  28\  Sn.  7  ;
 should  it  be  Bal]>orn,  fire-thorn  ?  It  is  strange  that  Alvis,  though
-a  dwarf,  says  :  pur)(a  liki  ))ycci  mer  a  ])er  vera,  Sa3m.  48'\     OHG.
+a  dwarf,  says  :  pur>‹a  liki  )›ycci  mer  a  ]>er  vera,  Sa3m.  48'\     OHG.
 
 VOL.    IV.  M
 
@@ -8071,7 +8129,7 @@ Romans  coclites  :  coclites  qui  altero  lumine  orbi  nascuntur,  Pliny
 xi.  37,  35  ;  decem  coclites,  ques  montibus  summis  Rhipaeis  fodere,
 Enn.  in  Varro   7,    71    (0.  Midler   p.    148)  ;    conf.    Goth,   haihs,
 
-fiov6(f)6a\im,o i,  coecus,  Hpt's  Ztschr.  6,  11. A   tail  is  attrib.  to
+fiov6(f)6a\im,o<i,  coecus,  Hpt's  Ztschr.  6,  11. A   tail  is  attrib.  to
 
 the  giantess  Hrimger^r,  Saem.  144*.     Giants,   like  dwarfs,   are
 
@@ -8563,7 +8621,7 @@ with  the  same  vowels  as  Adam,  Eve;  conf.  Es,  Imlia  (Suppl.  to
 
 The  term  liid-stam,  nation,  is  taken  wholly  from  the  vegetable
 kingdom,  Otfr.  iii.  12,  7.  Plants  and  rocks  are  not  dead,  they
-speak  :    Bpvb i   kuI    Trerpa?  uKovetv,    Plato's    Phsedr.    275.     Men
+speak  :    Bpvb<i   kuI    Trerpa?  uKovetv,    Plato's    Phsedr.    275.     Men
 
 
 CREATION.
@@ -8641,7 +8699,7 @@ silver,  brass  and  iron.  GDS.  1 — 5.  In  the  age  of  Saturn  the
 earth-born  men  went  naked  and  free  from  care,  lived  on  the  fruit
 of  trees,  and  talked  with  beasts,  Plato's  Politicus  272.
 
-p.  581.]  UaXaiol  \6 yoL  of  deluges  {KaraxXva/iol';)  are  ment.
+p.  581.]  UaXaiol  \6<yoL  of  deluges  {KaraxXva/iol';)  are  ment.
 by  Plato  de  Leg.  3,  677.  The  form  sin-vluot  is  still  retained  in
 Mauritius  692,  also  sm-fluot  in  Anegenge  22, 17.  24,  13,  but  sint-
 vluot  already  in  25,  18,  smt-waege  23,  54,  swi^-gewaege  25,  7.
@@ -8702,7 +8760,7 @@ elements,  not  human-shaped  gods  at  all,  Herod.  1,  131. The
 
 Indians  admitted  Jive  elements  :  fire,  water,  earth,  aether  (akusui
 and  wind  (vaya).  The  Chinese  thought  metal  an  element  of  its
-own.  Galen  sets  down /o? r;  warm,  cold,  dry,  wet  (can  we  make
+own.  Galen  sets  down /o?<r;  warm,  cold,  dry,  wet  (can  we  make
 these  attributes  represent  fire,  earth,  air,  water  ?).  How  the  four
 elements  run  into  one  another,  is  described  in  MS.  1,  87";  H.
 Sachs  knows  '  die  vier  element,'  1,  255  ;  *erde  und  wazzer  nider
@@ -8910,9 +8968,9 @@ tors),  to  the  holy  flood's  whirl,  Kalev.  1,  1*77;  conf.  6,  92.  7,  7
 
 uazarcJdmga  =  njmY>ha,,  Graff  4,  504;  wazard iezo  =  nymTpha,  5,  237.
 wazzerdurh?  uenster?  cataracta.  Trier,  ps.  41,  11.  Windb.  ps.
-41,  11 ;  laufen.  Staid.  1,  444.  Gr.  Blvo i  and  Bivr].  The  passage
+41,  11 ;  laufen.  Staid.  1,  444.  Gr.  Blvo<i  and  Bivr].  The  passage
 in  Plutarch's  C^sar  stands  :  iroTajjiSiv  Slvai'i  koX  pevfiuTcov  iXiy-
-fi,ol i  KoX  ■\^6(^oL i.  Homer  has  irorafio';  dpyvpo-Slvij'i,  II.  21,  130;
+fi,ol<i  KoX  ■\^6(^oL<i.  Homer  has  irorafio';  dpyvpo-Slvij'i,  II.  21,  130;
 he  pictured  waterfalls  as  horses  flying  headlong  :  ')^apuhpai,  piovaat
 e^  opicov  iirl  Kap  16,  392.  'Tis  a  being  below  stirs  up  the  whirl-
 pool, Leopr.  106;  Loki  dwells  in  Franangrs-fors,  Ssem.  68.  Sn.
@@ -8939,7 +8997,7 @@ Gaules.  The  Servian  and  (ace.  to  Schott)  Wallachian  custom  of
 uTajjpirig  round  reminds  me  of  the  Hyperborean  votive  ofi'erings
 wrapt  in  ears  of  corn  and  carried  by  two  virgins,  Herod,  4,  33.
 Creuzer  2,  117.  Were  the  maidens  themselves  wrapt  up?  and
-can  the  five  7rep(f}€pee i  who  escorted  them  be  conn,  with  the  rain-
+can  the  five  7rep(f}€pee<i  who  escorted  them  be  conn,  with  the  rain-
 maiden's  name  Tropirripovvat  conf.  GDS.  865.  In  the  new  ed.  of
 Vuk's  Diet,  the  dance  and  rain-song  are  called  prporyshe  and  the
 leader  inpatz.  When  a  priest  touched  the  fountain  with  an  oaken
@@ -9028,7 +9086,7 @@ Wb.  141,  20.  Tit.  5448.  6005.  Amur  1730.  Fundgr.  2,  4.  Hpt's
 Ztschr.  7,  276.  294.  Wigalois  sub  v.;  in  dem  roten  lehermer,
 Barl.  262,  16;  lahenner,  Ernst  3210;  leverse,  Walew.  5955;  lever-
 zee, Y.  d.  Bergh  103.  127.  With  this  term  conf.  the  irXevficov
-6a\dTTio i,  sea-lung,  of  Pytheas;  F.  Magn.  traces  this  lung  to  the
+6a\dTTio<i,  sea-lung,  of  Pytheas;  F.  Magn.  traces  this  lung  to  the
 dismembered  Ymir.  For  garsecg,  conf.  my  first  ed.,  Vorr.  xxvii.,
 and  Hpt's  Ztschr.  1,  578.  Dahlmann  in  Forsch.  1,  414  explains
 gars-ecg  as  earth's  edge;  Kemble,  Gl.  sub  v.  secg,  as  homo  jaculo
@@ -9080,7 +9138,7 @@ f^r,  Cgedm.  154,  15;  brond  (gleS)  sceal  fretan,  consume,  Beow.
 is  insatiable,  like  hell  or  avarice,  Freid.  69,  5;  the  fire  saith  not
 'it  is  eiiougJi/  Prov.  30,  16;  eld,  celed  (fr.  alan,  nourish)  means
 ignis  pastas,  the  fed  and  steady  flame ;  conf.  in  he  dufidrcov
-"H f)aiaTo<;  ovk  eXa/xTre,  Soph.  Antig.  1007.  It  licks  :  Lith.
+"H<f)aiaTo<;  ovk  eXa/xTre,  Soph.  Antig.  1007.  It  licks  :  Lith.
 '  ugnis  laizdo  pro  stogi^,'  at  the  roof;  conf.  tunga,  tungal  (p.  700);
 seven  kindlings  or  seven  tongues  of  flame,  Colebr.  Essays  1,  190.
 It  snatches,  filches  :  f^^-res  feng,  Beow.  3525  ;  so  \'^v  beoiS  pcof,
@@ -9307,7 +9365,7 @@ and  boys  are  allowed  to  cut  wood  in  the  forest  on  St.  Walburg's
 eve,  Weisth.  2,  168.
 
 p.  620.]  The  sol-stitlum  is  in  Homer  Tpoirrj  rjeXloLo,  Od.  15,
-404;  afx^l  depiva i  rpoirci'^,  Procop.  B.  Goth.  2,  13  ;  aix^l  rpoTra?
+404;  afx^l  depiva<i  rpoirci'^,  Procop.  B.  Goth.  2,  13  ;  aix^l  rpoTra?
 ')(^eilxepLvd'i  3,  27.  The  Bavar.  records  have  sunwenden,  sunhenden,
 the  Aleman.  sungihten :  'ze  sungihten'  Weisth.  1,  293.  304.
 316 — 8;  ze  singeht  1,325;  nach.  sung ehten  1,669;  ze  sungiden
@@ -9398,11 +9456,11 @@ N.  Frisian  hilhen-hrennen  on  Febr.  22,  see  Miillenh.  p.  167.
 
 p.  630.]  Old  examples  of  illumination  :  Joli.  Chrys.  Or.  in  red.
 Flaviani  c.  4  :  oirep  ovv  eTrotija-are  arecpavoicravTe^  T't]v  ayopav
-Kol  Xu^vov^  a\lrai>Te i.  Greg.  Naz.  Or.  de  red.  Athanasii  21  p.
+Kol  Xu^vov^  a\lrai>Te<i.  Greg.  Naz.  Or.  de  red.  Athanasii  21  p.
 
 391  :  €0)  Xiyeiv  .  .  .  iraaav  (jicor]  KaraarpaiTTOfxevriv  ttoXlv.
 Choricii  Gazaei  Orr.,  ed.  Boissonade  '46  p.  101  :  crKeveai  Be
-<^&)To<?  elpyaafiivoL';  eixpTj/xovfMev  toi)?  evep'yeTa i.  splendida  fuit
+<^&)To<?  elpyaafiivoL';  eixpTj/xovfMev  toi)?  evep'yeTa<i.  splendida  fuit
 illuminatio ;  vios  is  fuit  veterum  diebus  laetis  ac  festis.  Ann.
 Worm.  1251  (Bohm.  Font.  2,  168):  regem  incensis  candelis  et
 campanis  pulsatis  singulis  diebus  festivis  denunciare.  Trees
@@ -9645,7 +9703,7 @@ p.  128. With  Wodan  oska-hyrr  conf.  Suppl.  to  149.     ON.  hi/r,
 Dan.  bar,  fair  wind.  Low  Germ,  seamen's  words  are  bo,  a  sud-
 den and  passing  squall,  bolges  wetter,  donnerbo,  regenbo,  hagelbo.
 Slav,  buria  =  TproceWsi,  Miklos.  p.  6;  Serv.  bura,  Russ.  bnrdn,
-hurricane,  conf.  ^opia i.  Boreas  helps  the  Greeks,  Herod.  7,  189.
+hurricane,  conf.  ^opia<i.  Boreas  helps  the  Greeks,  Herod.  7,  189.
 On  Juno,  see  Suppl.  to  632  beg.  Can  OSin's  name  of  Vid'rir  be
 akin  to  AS.  kwid'a,  hweod'ii  =  vi\ira,  lenis,  /itaeo^ria?i.  =  murmuraro  ?
 The  Slav,  pogoda  is  in  Lith.  pagada,  fair  wind,  fair  weather.
@@ -9692,7 +9750,7 @@ hauser  they  say  :  '  Oho,  Kaiser  Friedrich  is  brewing,  there'll  be
 soft  weather,'  Prsetor.  Alectr.  pp.  69,  70.
 
 p.  641.]  To  the  Greeks  it  was  Zeus  that  shed  the  snow,  II.  12,
-280-1  ;  evicpev  6  Z€v i,  Babr.  45,  1.  '^Die  toren  (fools)  sprechent
+280-1  ;  evicpev  6  Z€v<i,  Babr.  45,  1.  '^Die  toren  (fools)  sprechent
 {in  winter)  snia  sni ! '     Walth.  76,  1.
 
 4.  Earth.
@@ -9776,7 +9834,7 @@ sulurnar,  Landn.  4,  6.
 
 p.  644.]  Demeter  meets  Jasion  in  the  thrif allow,  the  fruitfullest
 cornland  :  ixi'yri  (j^iXoTrjri  Koi  evvfj  veim  evi  rpiiroXw,  Od.  5,  127,
-conf.  Hes,  Theog.  971  and  veio^  Tpl7roXo i,  II.  18,  541;  OHG.
+conf.  Hes,  Theog.  971  and  veio^  Tpl7roXo<i,  II.  18,  541;  OHG.
 drisl-a,  GDS.  53.  61-2.
 
 p.  645.]  A  mons  sanctus  near  Jugenheim  is  mentioned  in  a
@@ -10253,7 +10311,7 @@ crusta,  Lith.  kregzde,  Gr.  '^^^eXiScov,  Lat.  hirundo  for  ■)(^eptSa)v,
 ')^pi8(i)v,  Wallach.  rendurea,  Alban.  delenduse.  Lett,  besdeliga.
 .Slav,  lastovice,  vlastovice,  Serv.  lasta,  lastavitza,  Russ.  lastochka.
 Finn,  piiasky.  Est.  paastlenne.  Hung,  fetske.  The  swallow,  co?
-''Adrjvaia,  is  the  first  to  pluck  a  borrowed  plume  out  of  the  Ko\oi6 i
+''Adrjvaia,  is  the  first  to  pluck  a  borrowed  plume  out  of  the  Ko\oi6<i
 (daw),  Babr.  72,  16  ;  in  prose  however  (Cor.  188)  it  is  the  owl
 (yXayf).  Mary's  needlewoman,  who  stole  the  ball  of  thread,  was
 turned  into  a  swallow,  on  which  the  white  spot  shows  the  ball,
@@ -10666,7 +10724,7 @@ OHG.  muggi-stat,  Graff  2,  654;  brem-garten,  brem-stall,  Schm.
 garten,  a  place  in  Styria,  Ranch  2,  191. The  other  terra  ivibel
 
 occurs  in  the  adjs.  luihel-val,  wibel-var,  pale,  Herb.  6880.  12867,
-A  Welsh  gioibeden,  musca,  gwiblo,  to  fly,  swarm.  Kdv9apo i
+A  Welsh  gioibeden,  musca,  gwiblo,  to  fly,  swarm.  Kdv9apo<i
 KOTTpov  cr(f)aLpav  iroirjaa'i,  ^sop.  Fur.  223.  ^lian.  Hist.  anim.
 10,  15.  Arist.  Hist.  anim.  5,  19  (conf.  Lucian  8,  428).  The
 Cod.  Exon.  426,  11  has  :  'is  l^aes  gores  sunu  gonge  hrgedra,  ]7one
@@ -10790,7 +10848,7 @@ Miklosich  brings  both  h'tchcia,  2^chcl6  =  apis,  and  byk  =  taurus,
 under  boukati  =  mugire  (the  hum  of  the  bee?).  The  Gl.  Saloin.
 make  wasps  come  from  the  rotten  flesh  of  asses,  drones  from  that
 of  mules,  hornets  from  that  of  horses,  and  bees  from  that  of  calces,
-conf.  Diut.  2,  19-i  :  t7r7ro(i  ippifxevo^;  a(f)r}K(ov  yeveal'i  iart,  Lessing
+conf.  Diut.  2,  19-i  :  t7r7ro‹i  ippifxevo^;  a(f›r}K(ov  yeveal'i  iart,  Lessing
 9,  146  fr.  Aeliau  1,28;  and  bees  proceed  from  the  carcase  of
 the  lion  slain  by  Samson,  Judg.  14,  8.  An  account  of  the  genera-
 tion of  hornet  and  bee  in  Schroter  p.  136.     Peterson,  p.  55.     In
@@ -10945,7 +11003,7 @@ Ennius  (in  Varro  7,  73)  calls  the  sun  caeli  cUpeus,  and  the  notion
 
 is  Slavic  too,  Hanusch  256. On  the  sun  as  an  eye,  conf.  Kuhn
 
-(in  Hofer  1,  150),  Passow  sub  vv.  o/xfia,  oj)da\fx6 i.  Li  solans
+(in  Hofer  1,  150),  Passow  sub  vv.  o/xfia,  oj)da\fx6<i.  Li  solans
 qui  tout  aguete.  Rose  1550.  The  sun's  eye  hidden  in  the  well
 seems  to  be  referred  to  in  such  names  as  Simnehriinno  near
 Ddsseldorf,  Lacombl.  1,  no.  Q^  (yr  874)  ;  Sonnenhrunne,  Mone's
@@ -10956,7 +11014,7 @@ Simihorn  near  Gelnhausen  ;   Simnohnmnon,  Werden's  Reg.  236,
 and   ougenbrunne  6,  230;  conf.  Forstemann  2,  1336. To  AS.
 
 ivnldres  (jim,  heofones  gim.  Cod.  Exon.  174,  30,  corresp.  the  Ssk.
- liei  dominus,  diei  gemma  =  so\,  Bopp  27^  Other  AS.  terms  are  :
+<liei  dominus,  diei  gemma  =  so\,  Bopp  27^  Other  AS.  terms  are  :
 t'olca  fri&candel,  Caedm.  153,  15,  Jieofoncandel  181,  34;  rodores
 riindel,  Beow.  3l4d,  ^voruldcandel  3926;  wyncandel,  Cod.  Exon.
 174,  31.
@@ -11217,7 +11275,7 @@ ie  friieje  uf  brast,  MS.  2,  b^ ;  an  der  sterren  brunste,  burning.
 Dint.  1,  352  ;  sterre  enbran  u.  schein,  took  fire  and  shouo  1,  351 ;
 conf.  N.  Cap.  97.     The  sinking,  *  rushiug   down  '  of  stars  is  in
 
-Grk  ai ja€Lv,  Eurip.    Iph.   Aul.   9. In   Hungary    280    native
+Grk  ai<ja€Lv,  Eurip.    Iph.   Aul.   9. In   Hungary    280    native
 
 names   of    stars   have    been    collected,    Wolfs    Ztschr.    2,    160.
 
@@ -11279,7 +11337,7 @@ zorn-rute,  anger- rod,  Lucae  Chron.  249 ;  '  et  nunquam  caelo
 speciatnm  iinpnne  comcten,'  Claud.  B.  Get.  243,  crine  vago  2  t-7.
 
 p.  723.]  The  Greeks  called  Mercury  XtlK^wv,  Jupiter  ^aedcov,
-Saturn  ^aivcov,  Venus  $o)cr-^6po<?  =  Luci-fer,  and  Mars  IIvp6€L i,
+Saturn  ^aivcov,  Venus  $o)cr-^6po<?  =  Luci-fer,  and  Mars  IIvp6€L<i,
 five  planets  in  all;  conf.  Cic.  de  Nat.  D.  2,  20;   so  the  third  day
 
 of  the  week  was  Tlvpoei'^,  the  fourth  XriX^wv. The  evening
@@ -11500,7 +11558,7 @@ Ssk.  rajani  seems  akin  to  Goth,  riqis,  Ir.  reag,  AS.  racu  (p.  813
 end).  Other  words  for  night:  Ir.  oidhche,  aidche,  Zeuss  257,
 Gael,  oiche ;  Finn,  y'u,  Est.  o,  Hung,  cj,  Lapp,  iya,  ya ;  Basq.
 gaiia,  ganha,  arraha,  zaroa.  The  Greek  language  has  a  separate
-name,  vvKT6 i  d/uLoXyo^;,  for  the  last  third  of  the  night,  when
+name,  vvKT6<i  d/uLoXyo^;,  for  the  last  third  of  the  night,  when
 dreams  are  true  (p.  1146  mid.);  [but  also  the  first  third,  when
 Hesperus  shines,  11.  22,  317].
 
@@ -11916,7 +11974,7 @@ Inter  mcere,'  Walth.  30,  15.  Modern:  '  abendi'oth  gut  wetter
 bot,'  or  '  ab.  bringt  morgenbrot,'  or  '  der  morgen  grau,  der  abend
 roth,  ist  ein  guter  wetterbot,'  Simrock's  Spr.  20.  19.  7099.
 On  the  other  hand  :  EvdyyeXo'i  fxev,  (oairep  rj  7rapoi/j,ia,  ' Ew'^
-jiiwiTo  /iiT]Tp6 i  evcf)p6p7]<;  irdpa,  Aesch.  Agam.  264.
+jiiwiTo  /iiT]Tp6<i  evcf)p6p7]<;  irdpa,  Aesch.  Agam.  264.
 
 p.  749.]  Ssk.  usas  aurora,  dual  usasa,  Bopp's  Gl.  53'' ;  Lat.
 aurora  for  ausosa ;  Att.  eo)?,  Ion.  77069,  Dor.  aco?,  2Eio\.  av(o<; ;  conf.
@@ -11970,7 +12028,7 @@ welkt,'  fades,  pales,  Schm.  v.  Wern.  253.  The  morning  star  is
 harbinger  of  day  (p.  752  n.)  :  daz  im  der  tage-sterre  vruo  hioite
 doi  tac,  Ksrchr.  7885  ;  daTtjp  dyyiWwu  (pdo<;,  Od.  13,  94.
 
-Birds  rejoice  at  his  coming :  i^viku  6pvtde i  aaoxri,  rnrpcoroi,
+Birds  rejoice  at  his  coming :  i^viku  6pvtde<i  aaoxri,  rnrpcoroi,
 Charon.  Fragm.  34'';  6  6pv(,<;  ttjv  ew  kuXwv,  Athen.  4,  36  :  daz
 cleine  siieze  vogellhi  lean  dingen  (reckon)  uf  den  morgenschin,  u.
 sich  des  tages  friiuwen  muoz,  Troj.  kr.  20309;  nam  diu  naht  ein
@@ -12044,7 +12102,7 @@ hin,  u.  leant  diu  naht,  Freib.  Trist.  4705 ;   ja  swant  (vanished)
 
 DAT   AND    NIGHT.  1523
 
- ler  tac,  \i.  ivuoJik  (grew)  diu  luilit,  Heinz  v.  Konst.  Ritt.  u..  jif.
+<ler  tac,  \i.  ivuoJik  (grew)  diu  luilit,  Heinz  v.  Konst.  Ritt.  u..  jif.
 7;  conf.  Lat.  aduUa  nocte;  do  der  tac  verswant,  G.  frau  2013.
 21-27;  LG.  Mie  lett  dagen  u.  awinen*  '  schemmcrn  u.  dagcn/
 Strodtm.  200.  238.  Brera.  wtb.  4,  G'M  ;  'do  der  tac  zerstoeret
@@ -12054,7 +12112,7 @@ WR^erffdn,  Diemer  149,  25;  '  als  der  t.  was  gclegen,'  lain  down,
 Krnst  4679  ;  'do  dor  t.  lie  mneu  schiii,'  let  be,  left  off,  Troj.  kr.
 1 1095  ;  '  der  t.  sin  ivnnne  vcrhU/  his  bliss  forsakes,  MS.  2,  192'' ;
 der  t.  sin  Ueht  vcrldt  2,  496"';  der  t.  Idt  sinen  fjlafit,  Troj.  kr.
-8480 ;  do  des  tages  Heht  verswein,  Bark  368,  3 ;  siSSan   xfen-
+8480 ;  do  des  tages  Heht  verswein,  Bark  368,  3 ;  siSSan  <xfen-
 leoht  under  beofenos  hiidor  heholen  weorSeS,  Beow.  821 ;  der  tac
 'jieng  mit  freuden  hin,  do  diu  naht  ir  triiebeii  schin  liber  al
 die  werlt  gespreite,  Gerh.  4931;  asfensciraa /ord  geivdf,  Caedin.
@@ -12642,7 +12700,7 @@ feorli  have  *  mid '  prefixed  to  them,  answering  to  mitil-gart,  mid-
 dau-geard  :  OHG.  midfiri,  mittiverihi,  AS.  mldfeorwe.  Manascps
 seems  to  corresp.  to  the  Eddie  ahhi  ve  iard'ar.  Stem.  23'',  popu-
 lorum  habitaculum,  terra  ab  hominibus  inhabitata  (F.  Magu.  p.
-255  n.),  to  which  is  opposed  uive=  iif jar(Tar,  gigantum  habitacula.
+255  n.),  to  which  is  opposed  uive=  iif<jar(Tar,  gigantum  habitacula.
 And  the  Gael,  siol,  seed,  often  stands  for  people,  men.
 
 p.  794.]  Ssk.  loka,  mundus,  fr.  16c,  lucere  ?  conf.  Lat.  locus,
@@ -12754,7 +12812,7 @@ Pantsch.  1,  80.  2,  528.     Liebr.  on  Barlaam  p.  330-1.
 p.  801.]  Gehenna  is  supposed  to  mean  vale  of  sorrow;  pi.
 gehennac,  Arnob.  2,  14.  Arab,  iahennem,  Pers.  gehinnovi ;  the
 Tni'ks,  too,  retain  it  in  the  Koran  as  jehenne,  the  abode  of  ehlis,
-diabolus.  "Ahrj^,  ciid7] i  is  expl.  as  the  invisible  (god),  fr.  atS?;?.
+diabolus.  "Ahrj^,  ciid7]<i  is  expl.  as  the  invisible  (god),  fr.  atS?;?.
 Hades  is  addressed  as  a  person  :  wi'af  'AtSij,  Soph.  Trach.  1085;
 so  is  the  Hebrew  Sheol,  b)i^p,  biit  Gesen.  731''  [see  Hosea  13,
 1  i,  and  1  Cor.  15,  55].  Lueian  de  luctu  2.  3  descr.  Hades  as  a
@@ -12851,7 +12909,7 @@ p.  XXX.  The  stench  of  hell  may  have  been  suggested  by  the
 noxious  fumes  that  rise  out  of  clefts  in  the  earth.
 
 p.  806.]  Greek  opinion  placed  Tartarus  not  inside  the  earth,
-but  an  immense  way  off  it.  A  brass  anvil  {')(a\Keo i  uKfAcov)  falls
+but  an  immense  way  off  it.  A  brass  anvil  {')(a\Keo<i  uKfAcov)  falls
 nine  days  and  nights  fr.  heaven,  and  touches  earth  on  the  tenth ;
 it  takes  nine  more  to  reach  Tartarus,  Hes.  Theog.  722 — 5  ;  but
 Homer  makes  Hephaestus  fall  fr.  heaven  in  one  dag,  II.  1,  592.
@@ -12991,7 +13049,7 @@ ment-day will  come,  Hpt  3,  367. The  earth  quaked,  ON.  ior'S
 
 diisad'h,  Sa3m.  24l'>.  The  Greeks  ascr.  the  phenomenon  to  Posei-
 don, Herod.  7,  129,  or  some  other  god:  rr]v  iroXiv  rod  6eov  aei-
- TavTo i,  Paus.  i.  29,  7,  elsewh.  to  Typhoeus,  Ov.  Met.  5,  356  ;  its
+<TavTo<i,  Paus.  i.  29,  7,  elsewh.  to  Typhoeus,  Ov.  Met.  5,  356  ;  its
 cause  is  discussed  by  Agathias  5,  8.  The  Lith.  god  of  earth-
 quake is  Drehkullijs,  Nesselm.  pp.  154.  208,  fr.  drebeti,  quake,
 and  kulti,  strike.  A  New  Zeal,  story  of  earthquake  in  Klemm  4,
@@ -13040,7 +13098,7 @@ conf.  '  en  infer  vont  U  hel  cevaller  qui  sont  raorts  as  toruois  et 
 rices  guerres,^  Aucassin  in  Meon  1,  355,  Both  AS.,  OHG.  and
 ]\[HG.  phrases  point  to  a  heavenly  castle  :  Godes  ealdorburg,  Dei
 palatium,  Cod.  Exon.  441,  8:  rodcra  ceanter,  coelorum  urbs  441,
-10.  A  minute  description  of  the  himiUs je  Godes  bnnj  (Hpt's
+10.  A  minute  description  of  the  himiUs<je  Godes  bnnj  (Hpt's
 Ztschr.  3,  443-4)  says  :  diu  burg  ist  gestiftet  mit  aller  tiuride
 meist  edller  geist  (jimmon,  der  himel  niercijriezon,  der  burge  funda-
 menta,  die  porte  ioh  die  mure  daz  sint  die  tinren  sfeina  der  Gotes
@@ -13193,7 +13251,7 @@ beasts,  says  Dietm.  of  Mersebg  (Pertz  5,  739).  Curiously,  how-
 ever, each  man  is  credited  with  tJoree  souls,  two  of  which  perish
 with  the  body,  but  the  third  survives  :  hustogue  sujjerstes  evolat,
 Claud,  de  4  cons.  Honor.  228 — 235.  Men's  souls  {■y^v^ai)  go
-to  the  underworld,  their  bodies  {avTov i,  like  selb  =  mia  lip)
+to  the  underworld,  their  bodies  {avTov<i,  like  selb  =  mia  lip)
 become  the  prey  of  dogs  and  birds,  II.  1,  4.  Of  lovers  it  is
 thought,  that  tlieir  souls  intermarry ;  the  notion  must  be  old,
 for  we  find  it  in  H.  v.  Veldeke  :  wir  sin  ein  lip  und  ein  geist.
@@ -13318,7 +13376,7 @@ had  many  souls,  like  Lucian's  cock.
 
 p.  830.]  Good  souls  for  a  time  hover  on  Hades'  verdant  mead,
 Pint.  4,  1154.  The  soul  feeds  on  the  field  or  meadow  of  truth,
-d\T]6eia i  ireBlov,  \€ifi(i)v,  Plat.  Phaedr.  248  (in  the  train  of  God,
+d\T]6eia<i  ireBlov,  \€ifi(i)v,  Plat.  Phaedr.  248  (in  the  train  of  God,
 crv/jiTropevdelaa  OeS,  it  looks  upon  truth,  ibid.).  On  the  green
 grass  the  soul  sits  down,  Fcifalik  Musp.  p.  5.  '  He  is  going  to
 die'  is  expr.  by  'ho  is  just  fluttering  away.'  Souls  of  the  dead
@@ -13523,7 +13581,7 @@ Braut  55,  6;  fara  i  disar  sal,  Fornald.  sog.  1,  527  (conf.  heingja
 sik  1  disar  sal  1,  454) ;  fara  i  lios  annat,  to  other  light,  Sajm.
 262»;  sokien  lioht  odar,  Eel.  17,  17;  de  hac  luce  transire,  Lex
 Burg.  14,  3;  Esth.  ihna  minnema,  go  to  the  other  world;  conf.
-fXTjKiTC  ovra  iv   pdei,  Soph.  Philoct.  415.  An  f rid u  faran  (go  to
+fXTjKiTC  ovra  iv  <pdei,  Soph.  Philoct.  415.  An  f rid u  faran  (go  to
 peace),  tliar  er  mina  fordron  dcdun,  Hel.  14,  22.  For  dying  is  a
 going  to  sleep  :  den  langen  sldf  sldfen,  Kolocz  285  ;  daz  in  (hiui)
 der  hmge    shlf  gevie  (caught).   Ring   246;  conf.   vf  einem    stro
@@ -13573,7 +13631,7 @@ men,  so   is  Iris  to  women. Death  drags  men  away  from  their
 houses,  their  buildings  :  thus  Protesilaos  leaves  his  widow  a  half-
 finished  house,  So/xa  rjfiireXtj'i,  II.  2,  701.  Apollo  and  Artemis
 come  regularly  and  kill  ofi'  the  old  people  with  painless  darts,
-dyavoc';  ^eXeeaai,  Od.  15,  410-1  ;  rrjv  ^aXev  'Apre/uiL i  lo'^eaipa
+dyavoc';  ^eXeeaai,  Od.  15,  410-1  ;  rrjv  ^aXev  'Apre/uiL<i  lo'^eaipa
 15,478;  alhe  fiOL  w?  fiaXaKOV  Odvarov  iropoL  ApT€/j,t,<;  arjvi]  18,
 202.  20,60-1.  80.  Charon  ferries  over  the  water;  so  the  devil
 is  repres.  with  an  oar  in  his  hand,  Woeste  p.  49.  '  Vallen  in  des
@@ -13628,7 +13686,7 @@ dem  riickcn  waere,  on  my  back,  MS.  2,  46''. Death  is  invoked
 by  men  weaiy  of  life  :  er  rlef  (cried)  nach  dem  tode,  Ksrchr.
 1724;  Tot,  kum  u.  toete  mich!  Dioclet.  4732  ;  nun  kum  Tot!
 Hartm.  1,  biichl.  292;  kum  Dot !  Mar.  kl.,  after  Arnold  28.  440  ;
-conf.  iXdeTQ)  iM6po i,  Aesch.  Suppl.  804 ;  0  Yama,  come,  release
+conf.  iXdeTQ)  iM6po<i,  Aesch.  Suppl.  804 ;  0  Yama,  come,  release
 me,  Holtzm.  Kur.  723 ;  kom  T.,  brich  mir  daz  herz  enzwei,
 Hagen's  Ges.  Abent.  1,  301;  we  dir  T.,  kam  her,  u.  nim  uns  alle
 hin,  Mai  150,  12.  155,  4.  162,  4.  161,  13.  178,  27;  recipe  me  ad
@@ -13696,7 +13754,7 @@ carries  about,  Holtzm.  Ind.  s.  1,  Gi-5.  Rochholz  1,  89  ;  ob  mich
 der  Tot  eiihindet,  Wh.  GS,  22.  Death  throws  his  net  over  us,
 Steph.  Stofl.  174;  in  des  Todes  vallen  (snares)  beklemmet,
 ^lart.  11'';  kameu  zuo  des  Todes  vaUe,  Livl.  1808;  in  des  Todes
-h} / i  (ambush),  Kl.  1356;  der  Tot  im  daz  leben  stal,  Ottoc.  86";
+h}</<i  (ambush),  Kl.  1356;  der  Tot  im  daz  leben  stal,  Ottoc.  86";
 die  in  (fr.  them)  het  der  T.  verstolen,  Wigal.  9213  ;  in  het  vil
 iiach  (well-nigh)  der  bitter  T.  mit  siner  kraft  (jezucket  Jiiii  (tugged
 away)  5956  ;  sin  leben  het  geziickct  der  T.  5129  ;  der  T.  ziicket
@@ -13789,7 +13847,7 @@ DEATH.  1559
 
 110.  17751.  19117.  Ulr.  Trist.  19G4;  der  gemeine  T.,  Ilalin  78,
 20.  91,48.  Greg.  3709.  Sclnvabensp.  p.  179;  der  (jemebiUche
-T,,  Klage  534;  6dvaro i  ofxolo^;,  Od.  3,  236;  qui  omnes  mauet,
+T,,  Klage  534;  6dvaro<i  ofxolo^;,  Od.  3,  236;  qui  omnes  mauet,
 couf.  Etr.  Mantus  fr.  manere,  Gerh.  pp.  17.  50.
 
 p.  850,]  Dominus  Blicero  is  called  Bleher  \n  Coremans  109;
@@ -14000,7 +14058,7 @@ Tit.  72,  4 ;  Christianchen  ist  nicht  fitr  mich  gehoren,  Gellert  3,
 
 DESTINY   AND   WELL-BEING.  15G3
 
-Dan.  'cr  clot  saa  ht /d,  saa  faacr  ilet  saa  blivc'j  ez  gvt  kcincin
+Dan.  'cr  clot  saa  ht</d,  saa  faacr  ilet  saa  blivc'j  ez  gvt  kcincin
 anders  dau  itn  wirt  iifgehit,  Mich,   lieham's  Vom  unglauben  4
 
 [necessity  is  laid  upon  me,  1  Cor.  9,  IG]. *  Swaz  dir  enteile  is
@@ -14499,7 +14557,7 @@ CHAPTER  XXIX.
 PERSONIFICATIONS.
 
 p.  880.]  Like  tlio  Gr.  -rrpoaw-TTov  is  the  Gotb.  Uulja,  Matth.
-0,  17,  couf.  Gal.  4,  19.  I  have  fouud  MUG.  schtn  =  €tSo i  in  two
+0,  17,  couf.  Gal.  4,  19.  I  have  fouud  MUG.  schtn  =  €tSo<i  in  two
 more  places:  des  lewen  scJitii,  Bou.  G7,  42  ;  sinea  schi)i,  (image),
 Lanz.  492G.  Personification  does  not  give  rise  iramed.  to  proper
 names,  for  these  tolerate  no  article  (Gramm.  I,  405.  595),  but  to
@@ -14808,7 +14866,7 @@ vende  diu  im  niht  genaheu  mac  1,  85".  AVe,  wer  wil  uu  Sorgen
 walteu  ?  diu  was  min  sinde  (housemate)  nu  vil  mauegen  tac  1,
 103'*.
 
-p.  898.]  ^r]/j,7]  de6 f,  Hes.  Op.  761 -2;  ^dfxa  carries  rumours
+p.  898.]  ^r]/j,7]  de6<f,  Hes.  Op.  761 -2;  ^dfxa  carries  rumours
 to  Zeus's  throne,  Theocr.  7,  03,  There  is  a  Lat.  phrase  :  scit
 Fama,  scit  cura  deiim,  Forcell.  sub  v.  scio.  i^a/uaque  nigrantes
 succiucta  pavoribus  a/ds,  Claud.  B.  Get.  201 ;  volat  fama  Caesaris
@@ -15039,7 +15097,7 @@ dal  gauch  (solsequium).  The  rederijkers  too  name  their  rooms
 a.ftev  flowers  ;  is  it  a  relic  of  druidic,  bardic  usage  ?
 
 p.  911.]  The  ON.  Saria  reminds  one  of  the  Gr,  ^y'jix'n,  of
-whom  Hes.  0pp.  7G2  declares  :  6eo i  vv  Ti i  iari  Koi  avTij.  She
+whom  Hes.  0pp.  7G2  declares  :  6eo<i  vv  Ti<i  iari  Koi  avTij.  She
 converses  with  O'Sinn,  as  ^d/j,a  conveys  rumours  to  Zeus  (Suppl.
 to  898  beg.).  Musa  is  rendered  mngertii,  Barl.  252,  7;  Madete
 musas,  daz  waren  sengere^i   (rhy.  eren)/  Herb.  17865;  but  again,
@@ -15085,7 +15143,7 @@ which  restores  them  to  their  senses,  Od.  11,  50.  89.  96-8.  148.
 SPECTRES.  1585
 
 cake   was  offered  :  cum   inortui  pascuiitur,    Lasicz  48.  50.      Food
-and  driiil:  is  laid  on  the   i;rave  for  the  souls,  Pass.  10(3,  84 — 93.
+and  driiil:  is  laid  on  the  <i;rave  for  the  souls,  Pass.  10(3,  84 — 93.
 
 On  inaiiefi,  Mania,  see  Gerh.  Etr.  g.  10;  '  in  sede  Manium'  =
 in  the  bosom  of  the  earth,  Pliny  33,  1.  On  lares,  see  Lessing  8,
@@ -15192,7 +15250,7 @@ das  gjoad,  wilde  cjjoad,  Panzer  1,  9.  16.  29.  37.  Qi.  85.  133;  in
 Vorarlberg,  das  narld-volk  or  wiietlius,  Vonbuu  p.  83;  der  wilde
 jjiger  mit  dem  w'uthis  heer,  Gotthelfs  Erz.  1,  221  ;  in  the  Eifel,
 Wudes  ov  Wodes  heer,WoWs  Ztschr.  1,316.  Firinen.  3,244'';
-jo('ja(jd,joja jd,  Osnabr.  mitth.  3,  238 — 2-40.
+jo('ja(jd,joja<jd,  Osnabr.  mitth.  3,  238 — 2-40.
 
 p.  924.]  Als  im  der  tiuvel  jagete  ndch,  Livl.  reimchr.  7274.
 The  devil  is  called  a  weideman,  hunter,  Merwund.  2,  22,  and  in
@@ -15411,7 +15469,7 @@ Here  the  huntsman  is  evid.  Ode)t  himself. Among  the  train
 o(  Gnro  rysserova  ( =  Gudron  the  horse-tailed,  Landstad  pp.  121.
 131-2)  is  Sigurd  Snaresvend  riding  his  Grani  (Faye  62).  The
 members  of  the  troop  go  and  sit  over  the  door  :  the  like  is  told
-of  devils,  who  lie  down  in  front  of  lit-hiui er  where  drinking,
+of  devils,  who  lie  down  in  front  of  lit-hiui<er  where  drinking,
 gaming,  murdering  goes  on,  Berthold  p.  357 ;  and  of  the
 Devil,  who  sits  during  the  dance,  H.  Sachs  1,  342"'';  ^  setz  nur
 die  seel  auft  iiberthiir'  iii.  1,  261  ;  sein  seel  setz  er  ufE  iiber  thiir,
@@ -15676,7 +15734,7 @@ TRANSLATION.  1597
 
 inaii  a  irmitler-Jiower  ijyoim  up  suddenly  out  of  the  ground  ;  he
 ])ulls  it,  and  sticks  it  in  his  hat;  as  quick  as  you  can  turn  your
-liand,  a   /rey  mannildn  stands  there,  and  beckons  him  to  follow  ;
+liand,  a  </rey  mannildn  stands  there,  and  beckons  him  to  follow  ;
 or  else,  the  moment  the  flower  is  stuck  in  the  hat,  the  whitn  hidij
 appears,  Firmen.  2,  175,  The  wonder-flower  gets  caught  in  the
 slioe-buckle,  Somm.  p.  4,  as  feruseed  falls  into  the  shoes  (p.
@@ -16055,7 +16113,7 @@ mitth.  vi.  3,  67.  70.
 The  serpent  in  Paradise  was  wi'ongly  supposed  to  be  the  devil,
 Schwenk's  Semit.  162.  He  is  called  der  Untivurm,  Mar.  148,  28;
 der  aide  lidle-trachG,  Pass.  13,  23.  101,  47;  der  hellewurm  106,  27  ;
-celidras,  Erm.  Nigell.  2,  191,  fr.  'x^6Xv8po i,  water-snake.  Leviathan
+celidras,  Erm.  Nigell.  2,  191,  fr.  'x^6Xv8po<i,  water-snake.  Leviathan
 is  transl.  in  AS.  by  sce-draca ;  he  is  descr.  '  cum  armilla  in
 maxilla,'  Vom  geloub.  601,  and  there  is  '  ein  rlnc  ime  in  sine
 nasen  gelegit'  541;  conf.  'in  des  tiuveles  drozzeii,,'  throat,  Rol.
@@ -16076,7 +16134,7 @@ a  box,  Leipz.  avaut.  2,  41  ;  tlieie  is  a  decU  in  the  f/Zr/.v.v,  bo
 legend  of  Zeno  in  Bruns,  and  in  that  of  the  schohir  and  robber
 iu  H.  V.  Herford,  yr  995  and  in  Korner.
 
-p.  1000.]  The  devil  as  a  liaiiinwr  (sle re),  Kemble's  Sal.  and
+p.  1000.]  The  devil  as  a  liaiiinwr  (sle<re),  Kemble's  Sal.  and
 Sat.  140,  177.  He  is  called  Htvtvierlriv,  Auibras.  lied.  142.  As
 Donar's  hammer  gradu.  becomes  a  fiery  sword,  it  is  also  said  :
 ein  Jiarcc  .sivert  der  tiuvel  hat,  Hpt  5,  450  (p.  812.  Suppl.  to  lOlo
@@ -16752,7 +16810,7 @@ sin,  en  ]?at  voru  galdrar,  Laxd.  142.
 p.  1045.]  For  masca,  the  Lomb.  Glosses  have  iiasca,  Hpt's
 Ztschr.  1,  556;  conf  talamasca  (p.  915).  With  striga  connect
 o-Tpiy^  owl,  who  waylays  children,  and  is  kept  off  by  hawthorn,
-Jv.  Fast.  6,  130 — 168;  crrpiyXa  in  Leo  Allatius  ;  aTiy\o<;  {j6r) i) .
+Jv.  Fast.  6,  130 — 168;  crrpiyXa  in  Leo  Allatius  ;  aTiy\o<;  {j6r)<i) .
 DC.  Another  word  for  mask  is  sdioa-hart,  Sclim.  3,  362.
 Oager's  Ulni  p.  526  :  nu  sitze  ich  als  ein  nchempart  truric,  Renn
 
@@ -17164,7 +17222,7 @@ the  hell,  Panz.  Beitr.  1,  20.
 
 p.  1089.]  '  Carmine  yrandincs  averterc,'  is  as  old  as  Pliny  17,
 28.  Hail  beiniTf  in  grains,  it  is  strewn  out  by  bushclfuls  :  t»}?
-;y;a\a^?;<?  ocrov  /j,e8ifivot,  ■)(^i\ioi  Sia rK€Baa6t')TQ)(jav,  Lncian's  Icaroin.
+;y;a\a^?;<?  ocrov  /j,e8ifivot,  ■)(^i\ioi  Sia<rK€Baa6t')TQ)(jav,  Lncian's  Icaroin.
 26.  '  You  hail-hoilcr  !  '  is  a  term  of  al)nse,  Mone's  Scliansp.  2,
 274.  German  witches  scatter  a  powder  with  cries  of  (illes  schauer,
 alles  schaiier  !  The  day  before  Walburgis  ni<^ht,  a  merry  cobbk'r
@@ -17257,10 +17315,10 @@ MAGIC.
 1629
 
 
- iiii  (
+<iiii  (
 
 
-'«/(RT t  faciunt,  et  iu  siiis  spurcitiis  erroneas  consulunb  pliito-
+'«/(RT<t  faciunt,  et  iu  siiis  spurcitiis  erroneas  consulunb  pliito-
 nissas/  Bull  of  Greg.  9  (1233),  ibid.  2,  1G8.     On  wax-fjures,  see
 
 Osuabr.  verb.  3,   71. M.  Lat.   invtdtuor,  praestigiator  qui  ad
@@ -17275,15 +17333,15 @@ tried  to  have  an  Easter  candle  out  of  the  church,  to  do  the  work
 by.  Sticking  needles  into  a  wax-figure  occurs  in  Kemble's
 Chartae,  Pref.  lix.  Ix.,  and  the  story  in  Miillenh.  p.  233  ;  conf.
 imago  argentea  (Suppl.  to  1 175  end).  Ferebatur  immjinem  quan-
-dam  ad  instar   H(iiti,  ex  Egipto  adlatam,  adorare  ;  a  qua  quotiens
+dam  ad  instar  <H(iiti,  ex  Egipto  adlatam,  adorare  ;  a  qua  quotiens
 responsa  quaerebat,  necesse  erat  homicidium  aut  in  summo  festo
 adulterium  procurare ;  conf.  Pertz  10,  tOO  and  the  thiePs  thumb
 
 (Suppl.  to   1075  end). GiUtiiuj  out  the  footprint   answers  to
 
-TTjpelv  TO  ixvo i  Koi  d/jLavpovf,  vestigium  observare  et  delere  (blur),
+TTjpelv  TO  ixvo<i  Koi  d/jLavpovf,  vestigium  observare  et  delere  (blur),
 by  planting  one's  right  foot  on  the  other's  left  print,  and
-one's  left  on  his  right,  and  saying  :  iTn^e^r/Kd   toc,  kul  vTrepdvo)
+one's  left  on  his  right,  and  saying  :  iTn^e^r/Kd  <toc,  kul  vTrepdvo)
 elfxi,  conscendi  te,  et  superior  sum  !  Luciau's  Dial,  meretr.  4.
 GDS.  137.
 
@@ -17374,7 +17432,7 @@ turnint^  into  a  swine,  but  rnnninf^  about  wild  like  a  boar,  Ver-
 laufFon  Vatnsd.  p.  106-7.  The  magicians  and  enchantresses  in
 our  fairytales  often  change  men  into  wolves,  bears,  cats,  dogs  or
 swine  ;  the  witches  of  a  later  time  liave  no  longer  the  power.
-Circe's  formula,  when  turning  men  into  ! wlnc  by  a  stroke  of
+Circe's  formula,  when  turning  men  into  !<wlnc  by  a  stroke  of
 her  rod,  was  :  epyeo  vvv  avc^eovhe,  Od.  10,  320.  The  Lapland
 sorcerers  sund  bears,  wolves,  foxes,  ravens,  to  do  mischief  to
 men  :  such  beast  is  then  called  tiUe,  Lindahl  474'*.
@@ -17429,7 +17487,7 @@ of  the   three  brothers,  who   rub  feathers,   hair  and   scales,   and
 immed.    eagles,  bears   and,  fish    come   to    their   aid, Widely
 
 spread  is  the  belief  in  the  magic  of  the  eye,  Grenzboten  ^60,  no.
-26.  BXifjbfia,  avaiTvorj  and  6(p6a\/x6 i  ^daKavo'i  are  already  in
+26.  BXifjbfia,  avaiTvorj  and  6(p6a\/x6<i  ^daKavo'i  are  already  in
 Plutarch's  Sympos.  v.  7;  nescio  quis  teneros  ocidus  milai  fascinat
 agnos,  Virg.  Eel.  3,  108.  Engl,  evil  eye,  Ir,  the  balar,  Conan
 p.  32  ;  the  blink  o'  an  ill  ee,  Hone's  Dayb.  2,  688.  His  diebus
@@ -17456,7 +17514,7 @@ folke-ev.  2,  47.  Helen,  like  Grimhild,  makes  a  magic  potion,
 mingling  spices  with  the  wine,  Od.  4,  220 — 230  ;  so  does  Circe
 10,  235.  The  Faroese  still  call  the  draught  of  oblivion  ouminni,
 Qvad.  p.  178.  180.  The  Servians  make  their  voda  zaboravna  of
-mountain-herbs,  Vuk  2,  612-3.  Conf.   f)i\Tpov,  love-potion;
+mountain-herbs,  Vuk  2,  612-3.  Conf.  <f)i\Tpov,  love-potion;
 mein-blandinn  mio^r.  Vols,  saga  c.  25  ;  scheidel-tranc  gebruwen.
 
 
@@ -17642,7 +17700,7 @@ cribro  aquam,  Plaut.  Ps.  i.  1,  100  ;  imbrem  in  cribro,  Pliny  28,  2.
 Our  'emptying  the  pond  with  a  sieve,^  Sommer's  Sag.  pp.  13,
 94.
 
-The  Gauls  prophesied  from  the  o- /)aSacr/u.o?  (convulsions)  of  one
+The  Gauls  prophesied  from  the  o-</)aSacr/u.o?  (convulsions)  of  one
 devoted  to  death,  when  his  hack  was  pierced  with  a  sword,  Strabo
 4,  p.  198;  the  Cimbrians  from  the  blood  and  entrails  of  their
 sacrificed  prisoners  7,  p.  294,  Lat.  exti-spicium.  The  Malays
@@ -17677,7 +17735,7 @@ Levit.  11,  9  and  Dent.  14,  9  fish  that  have  fins  and  scales  are
 pron.  eatable;  conf.  Griesh.  146.
 
 p.  1117.]  The  rat  wishes  the  cat  joy  when  she  nvepzes,  Avada-
-nas  2,  149,  150;  7rTap/j.6 i  eK  twv  he^iMv,  Herm.  Gottesd.  alt.
+nas  2,  149,  150;  7rTap/j.6<i  eK  twv  he^iMv,  Herm.  Gottesd.  alt.
 p.  18G;  "Epcore^  eTreirTapov,  Tlieocr.  7,  96;  haec  ut  dixit.  Amor,
 sinistra  ut  antea,  dextra  steniuit  approbationem,  Catull.  44,  17;
 atque,  ut  primum  e  regione  mulieris,  pone  tergum  eius  maritus
@@ -17702,7 +17760,7 @@ may  be  poured  instead  of  lead,  Mone's  Anz.  7,  423  :  ceram  in
 aquam  fundere,  Lasicz  56.
 
 p.  1119.]  Ang(tng,  what  meets  you  on  setting  out,  ecodev,
-mane,  eV  up-^fj,  iv  6vpai i,  cttI  rfj  TrpcoTrj  e^oBo),  is  significant.
+mane,  eV  up-^fj,  iv  6vpai<i,  cttI  rfj  TrpcoTrj  e^oBo),  is  significant.
 M.  Neth.  eu  goet  ghemoet,  Rose  2715;  gude  u.  bose  mutfe,  Gefk.
 Beil.  100.  Swed.  mof,  mote;  hiks-niot,  ey'\\  meeting.  Gr,  Si;?-
 dvT7}T0<;  [^ill-met   by   moonlight,  proud   Titania]  =  boding   ill;  so
@@ -17710,7 +17768,7 @@ dvT7}T0<;  [^ill-met   by   moonlight,  proud   Titania]  =  boding   ill;  so
 
 1638  SUPERSTITION.
 
-Sv i-K\r}S6viaTo i  [fr.  KXrjSdov,  omen].  A  titulus  in  the  Salic  Law
+Sv<i-K\r}S6viaTo<i  [fr.  KXrjSdov,  omen].  A  titulus  in  the  Salic  Law
 treats  '  de  suj^ierventis  vel  exspoliationibus.''
 
 p.  1124.]  On  angang  among  the  Thugs,  see  Convers.  lex.  d.
@@ -17758,7 +17816,7 @@ Klemm  3,  90.     There  are  beasts  which  are  not  to  be  named  in
 
 SUPERSTITION.  1639
 
-the  morning  :  ala'^ito  drjptwv  riov  irpwia^t  u>pa i  ovofiaadiivai,  Bua-
+the  morning  :  ala'^ito  drjptwv  riov  irpwia^t  u>pa<i  ovofiaadiivai,  Bua-
 k\t]8ovl(tt(i)p,  Luc.  Amores  30.  Meeting  with  a  /tare  bodes  no
 good,  Wolf's  Deut.  sag.  no.  370;  turn  thee  home  if  a  hare  run
 across  thy  path,  Keisersb.  Vom  lewen  Q'd"^'.     On  the  hare  and  the
@@ -17789,7 +17847,7 @@ the  Reinaert  dene  hejach.  ON.  hreisikuttr  is  ermine.  Auspicio
 hodie  optumo  exivi  foras,  mustela  murem  abstulit  praeter  pedes.
 Plant.  Stich.  iii.  2,  G.     A  legend  of  the  mustela  in  Marie  1,  474.
 
-p.  1129.]  "Opvi i  came  to  mean  any  auspicium,  whether  of
+p.  1129.]  "Opvi<i  came  to  mean  any  auspicium,  whether  of
 birds  or  not,  Aristoph.  Birds  719 — 721.  A  bird-gazer  oicui/ta-T?;?,
 II.  2,  858;  opvida^  ji'Mvai,  Od.  1,  159;  Stayvayvai  'jni]aeL<;  opviOcov,
 Pans.  i.  34,  3;  olojvaiv  aa(f)a  etSco?,  Od.  1,  2U2 ;  6pyi6a<;  Kpivwv,
@@ -17801,7 +17859,7 @@ Luc.     Eunuch.     0. OllG.    fogalrarta    augurium,   Jogalrarton
 augariari,  Graff  2,  536;  fojilrartod  auspicium,  Gl.  tSletst.  22,  3.
 AS.  fxujel-hwdte  augurium  (Suppl.  to  1107).  Boh.  koh,  koba,
 divination  by  flight  of  birds  ;  koha,  knha,  falcon.  Not  every  bird
-is  adapted  for  divination  :  6pvi6e<;  Si  re  ttoWoI  vtt  av yu i  rjeXioio
+is  adapted  for  divination  :  6pvi6e<;  Si  re  ttoWoI  vtt  av<yu<i  rjeXioio
 (f)oiTO)a\  ovSe  re  Traj'xe?  evalcnp,oL,  Od.  2,  181  ;  fugl  froff-hugadr,
 ISaem.  141";  parra,  comix,  picas,  pi<:a  are  augurales,  Aufrecht  in
 D.  Zeitschr.  1,  280. Men  watched   the  flight  as   well  as  the
@@ -17855,7 +17913,7 @@ eTreTTTaro  Se^to?  (right  hand)  opvi'i,
 aiera  (eagle)  dpyijv  XV^^  (pipcov  ovvx^eaai  TriXcopov
 rjiJ-epov  i^  avXrj'i.      Od.  15,  160.
 
-avrap  6  rolaiv  upiarepb^  (left  hand)  i'fXvOev  6pvi i,
+avrap  6  rolaiv  upiarepb^  (left  hand)  i'fXvOev  6pvi<i,
 aleTO'i  vy^nreTT]';,  e;^e  Se  Tpi')pQiva  ireXeiav.     Od.  20,  242.
 
 Tft)  8'  aierot)  (two  eagles)  evpvoira  Zev<;
@@ -17868,12 +17926,12 @@ and  tlieu  :   he^io)  (right  hand)  i]i^av  8id  r   oUia,  k.t.X.  lot.
 Again,  tlio  lunch  :
 
 eVeTTTaTO  Se^to?  6pvL<^,
-K('pKO i  (hawk),  ^AttoWcovo'^  Ta-^v i  ayye\o<;,  iv  he  iruhtaaL
+K('pKO<i  (hawk),  ^AttoWcovo'^  Ta-^v<i  ayye\o<;,  iv  he  iruhtaaL
 Tt'XXe  ireXeiav  hy^cov,  Kara  he  Tzrepa  xevev  epa^e
-p.ea(n]yu i  V7)6<;  re  kul  aurov  TijXe/xd^oco.      Od.  15,  528.
+p.ea(n]yu<i  V7)6<;  re  kul  aurov  TijXe/xd^oco.      Od.  15,  528.
 
 The  flight  of  the  mouse-haivk  is  carefully  scanned  by  the  Kal-
-niuks,  Klemm  3,  202.  We  read  of  8e|to9  €p(ohi6 i  (heron)  in
+niuks,  Klemm  3,  202.  We  read  of  8e|to9  €p(ohi6<i  (heron)  in
 Hipponax,  Fragm.  50,  of  Se^ir)  acTTr]  (woodpecker),  Fragm.  (32  ;
 ardeolae  (herons),  altero  oculo  carentes,  optimi  augurii,  Pliny  11
 37.  52.  Ilrafn  fl^gr  austiin  af  ha  meiSi  (tree),  ok  eptir  houotn
@@ -17900,7 +17958,7 @@ when  ho  flies  on  your  left,  whereas  most  birds  signify  good  on  the
 right,  Max  Miill.  Meghaduta,  p.  59.
 
 p.  1132.]  'H  ctIttt}  (a  pecker)  kuI  ei  ri  tolovtov  opveov  he^ia
-7rp6 i  e/jcora?  (paiveTai.  Eyo)  fiev,  to  AevKLTnre,  he^irj  ct/ttt;  /
+7rp6<i  e/jcora?  (paiveTai.  Eyo)  fiev,  to  AevKLTnre,  he^irj  ct/ttt;  /
 Didymus  apud  schol.  Aristoph.  Av.  704;  ireTofieaOd  re  yap  Kai
 TolaLv  epcoa-L  avveafiev,  Av.  704,  conf.  Meineke's  Choliarabi  p,
 122-3.     Pics  en  numbre  impair,  signe  de  malheur.  Bosquet  219.
@@ -17969,7 +18027,7 @@ cant, Klemm  2,  329,  and  to  Kalmuks  that  of  the  snake  3,  202-3.
 SUPERSTITION.  1643
 
 The  iioi'a^liino^  of  horses,  sneezing  of  cats,  howling  of  dogs,  each
-is  an  omen  :  tlir  liet   liu  kafze  nihfc  genorn,  Helbl.  1,  1392  (Suppl.
+is  an  omen  :  tlir  liet  <liu  kafze  nihfc  genorn,  Helbl.  1,  1392  (Suppl.
 to  1 1 15) ;  on  the  howling  of  dogs,  see  Capitolinns  in  Maxim,  jun.
 c.  o.     Pausan.  iv.  13,  1.
 
@@ -18089,7 +18147,7 @@ Philops.  17.  24;  fingers  of  a  babe  unborn  (p.  1073n.).
 p.  1139.]  Goth,  dagain.  vita ijj  =  dies  observate,  Gal.  4,  10.
 'H/jiepa  /xeXuLva,  fi,7]  Kadapd,  uTTO^pd'i  (fr.  (ppd^co),  see  Lucian's
 Pseudologista  (/;  -rrepl  t/}?  (i7ro(ppd8o^) ,  couf.  ed.  Bip.  8,  434;  so
-d7ro(f)pu8€ i  TTvXat,  Porta  Scelerata  8,  58.  Dies  fastus,  mfastus,
+d7ro(f)pu8€<i  TTvXat,  Porta  Scelerata  8,  58.  Dies  fastus,  mfastus,
 iiefandus,  nefarius,  iufandus,  per  quem  nefas  fari  praetorem  ;
 dies  inaiispicatus,  a  ter.  Henry  IV.  died  on  a  Tuesday,  die
 Martis,  qua  etiam  cuncta  sua  praelia,  paganico  nirairum  auspicio,
@@ -18101,7 +18159,7 @@ p.  1 140  n.]  With  Wisantgang  conf.  Wisantes-steiga,  AVisantes
 wane  (Neugart).  Should  we  read  Wolf-bizo  (-bit),  or  Wolf-bizo
 (-biter),  like  baren-beisser,  bullen-beisser  (-dog)?  Cattle  Icilled
 or  bitten  bij  wolves,  are  wholesome  flire,  Spinnr.  evang.,  Friday  9.
-Gr.  XvKu^pcoTo i,  and  Plutarch  discusses  'why  wolf-eaten  mutton  is
+Gr.  XvKu^pcoTo<i,  and  Plutarch  discusses  'why  wolf-eaten  mutton  is
 sweeter,'  Symp.  2,  9.  Woljieip  Graff  1,  850  ;  Woljieibsch,  Kopp's
 Gesch.  d.  Eidgen.  2,  557 ;  Wulfevingr,  Gosl.  berggesetze  p.  339  ;
 Ulricus  dictus  Woljleipsch,  der  WvlHcipscho,  Ch.  yrs  1260—65.
@@ -18493,7 +18551,7 @@ In  Cassel  they  say  aufstiitzig  for  ill  :  ein  pferd  aufstiitzig  worden
 Cav.  im  irgarten  53.
 
 p.  1154.]  Sickness  appears  as  a  divine  dispensation  in  vovaoq
-Ai6 i,  Od.  9,  411 ;  ir  ware  diu  s,\x\\tgescehen,  Fundgr.  2,  46.  Sick-
+Ai6<i,  Od.  9,  411 ;  ir  ware  diu  s,\x\\tgescehen,  Fundgr.  2,  46.  Sick-
 ness  seizes:  appwaro^;   is   infirmus;  our    an-gegrijj'en ;    mich  hut
 
 
@@ -18524,7 +18582,7 @@ Ksrchr.  838  ;  daz  gesiiht  begund  in  jiiehen,  Ecke  176;   diu  suht
 
 von  ime^oz,  Diemer  325,  7. The  vovaot  approach  men  avro-
 
-/xaTot,  and  crcyfj,  iirel  (pwvrjv  efetXero  fXTjTieTa  Zev i,  Hes.  0pp.
+/xaTot,  and  crcyfj,  iirel  (pwvrjv  efetXero  fXTjTieTa  Zev<i,  Hes.  0pp.
 102.  Mulierculae  plures  ....  a  daemoniis  vexantur  (yr  1075),
 Pertz  5,  128.  The  witch  cooks,  brews  diseases  ;  so  does  the
 Finn.  Kivutar  (Suppl.  to  1046);  she  is  called  '  kipia  neito,'
@@ -18583,7 +18641,7 @@ avar-sfurz,  relapse;  conf.  '  modica  j^ulsatun  febre,'  Greg.  Tur.  2,
 5.  '  Winter  uud  siimer'  are  a  disease  (cold  and  hot  fits  of  ague
 alternating  ?),  St.  Louis  (Ruckert)  59,  28.  80,  21.  Lat.  quer-
 quera,  shivering  fit.  MHG.  quartanie,  febr.  quart.,  MSH.  3,
-178'';  kar t an ie,  WsiTth.  kr.  str.  51.  Gr.  r)TrLa\o i,  Luc.  Philops.
+178'';  kar t an ie,  WsiTth.  kr.  str.  51.  Gr.  r)TrLa\o<i,  Luc.  Philops.
 19.  In  0.  Fr.  they  said  'trembler  la  fievre,'  Meon  3,  88.  Rute-
 beuf  1,  290.  Renart  10150.  Lith.  paszta-kiele,  fever-bird  (kiele,
 siskin).  Lett,  drudsis  vinnu  yahi,  fever  rides  him,  Bergm.  08.
@@ -18619,7 +18677,7 @@ synties,  petits  cousins,  Belg.  mus.  8,  183.  Boh.  dna,  gout;  Pol.
 dma,  prop,  blast,  breathing  upon.
 
 p.  1157,  line  6,  a  short  pai-agr.  was  omitted  from  the  text,  viz. :
-"  A  burning  tumour  at  the  finger-nail  {'7rapo)vv)(^i i)  is  called  the
+"  A  burning  tumour  at  the  finger-nail  {'7rapo)vv)(^i<i)  is  called  the
 worm,  the  runabout  worm,  the  unnamed  (bee.  one  was  shy  of
 uttering  the  creature's  name),  the  evil  thing;  Engl,  ringworm
 [mistake  for  whitlow  ?],  Scot,  ringwood,  for  which  R.  Chambers
@@ -18674,7 +18732,7 @@ to  1234). Goute  r\e  avertinz,  Rutebeufl,  257;  avertin  de  chief
 la  male  gote  aiez  as  dens  !  14322.  Ducange  sub  v.  gutta  quotes
 many  kinds  ;  avertin,  esvertin,  Meon  1,  391.  OHG.  mdnothmlino,
 moon-sick,  lunaticus,  Graff  1,  443  (out  of  its  place).  Concidere
-ad  lunae  incrementa,  KarairiiTTeiv  'jrpo i  ttjv  ae\i)vr)v,  Lucian's
+ad  lunae  incrementa,  KarairiiTTeiv  'jrpo<i  ttjv  ae\i)vr)v,  Lucian's
 Toxar.  24.  Nasci  =  lentigo,  Graff  2,  1105.  As  there  are  77
 noschen,  so  *  77  sorts  of  zahn-rosen,'  Hpt  4,  390 ;  *  77  shot  and
 77  plagues/  Superst.  spell  xxxix.  ;  '  77  worms/  Mone  6,  462  ;
@@ -18727,7 +18785,7 @@ Flore  2230,  kam  ze  gerechen  2231 ;  do  si  wart  ze  witzen,  Kschr.
 11925.  Our  '  bei  sich  sein^;  sumne  ego  apud  me  ?  Plaut.  M.G.
 iv.  8,  36.
 
-p.  1159.]  ON.  qveisa,  colica,  conf.  Goth,  qaisv,  (b8i i  (Suppl.  to
+p.  1159.]  ON.  qveisa,  colica,  conf.  Goth,  qaisv,  (b8i<i  (Suppl.  to
 1212  end;  grimme  muoter,  Mone  8,  495;  bdrmuter,  Garg.  182^
 bdrvatter  69'';  wdrwund,  Staid.  2,  435.  Dysentery,  der  rote  suche
 Myst.  1,  105  ;  er  gewan  den  durchgang,  Diocl.  4645  ;  Nethl
@@ -18756,7 +18814,7 @@ l)atur,  abortuni  fecit;  Bavar.  Jiiiischliiigon  is  said  of  a  cow,  Sclim
 3,  452  ;  die  frau  liat  mit  dem  fiinften  kiiide  umgeworfen,  Claudius
 in  Herder's  Remains  1,  423.  Goth.  Jitau,  our  kreisseu,  to  have
 throes:  zimhern,  parturire,  Hag.  Ges.  Ab.  1,  12.  Throes  are
-called  a>hlve i  or  ^oXal,  throws  of  Artemis,  Procop.  2,  57G  (Suppl.
+called  a>hlve<i  or  ^oXal,  throws  of  Artemis,  Procop.  2,  57G  (Suppl.
 to  1177  mid.).  'To  give  birth  to'  we  express  by  'come  down
 with,  bring  into  the  world,'  or  simply  hrituj,  Schweiuichen  1,  38;
 Swiss  froJilen,  trollen,  zerf alien,  fall  in  pieces  (come  in  two),
@@ -18846,7 +18904,7 @@ is   a  contagious  disease,   Augsb.   chr.,   yr  1387.     Mono  6,  257;
 
 SICKNESSES.  1661
 
-burz>.'l,   jHnhHf::el,  Friscb  1,  157.  383.  SI.  kratel,  an  ailment
+burz>.'l,  <jHnhHf::el,  Friscb  1,  157.  383.  SI.  kratel,  an  ailment
 that  makes  one  leg  shorter,  Vuk  sub  v.  ;  MHG.  ir  beiu  (legs)
 diu  habent  die  muchen,  Fraueni.  p.  192,  our  maiike,  malauders,
 Frisch.  A  bleeding  boil  is  called  hund  schiittler,  Panzer  2,  305  ;
@@ -19183,7 +19241,7 @@ a  cloud,  a  viper,  Villemarq.  Bard.  bret.  120.  The  plague,  in  the
 shape  of  a  fog,  winds  into  a  wasps'  hole,  and  gets  plmjiji'd  in,
 Kulpa  iu  D'Elv.  1 1 0 ;  she  comes  in  at  the  window,  a  black  shape,
 passes  into  a  bored  hole,  and  is  pegged  hi,  Keh rein's  Nassau  54.
-^oi^o(i   uKepaeKofirj^  \ol/j,ou    V€(f)eXT)y   cnrepvKei,    Luc.    Alex.    36.
+^oi^o‹i   uKepaeKofirj^  \ol/j,ou    V€(f›eXT)y   cnrepvKei,    Luc.    Alex.    36.
 
 N.  JMarc.  Cap.  30. Tiie   plague   proceeds  from  the  throats  of
 
@@ -19199,7 +19257,7 @@ p.  1189.]  The  Great  Plague  is  called  pestis ^fit'a,  Welsh  g  fad
 felen,  San  Marte's  Arthur-s.  29.  323.  With  the  leg.  of  Elliant
 conf.  Volksmiirch.  aus  Bret.  p.  185 — 8.     Souvestre  20G-7.     On
 
-'  Do/Hiw  Thiederici,  Thietm.  Merscb.  4,  21;  'ASptavoO  Tvpyos,  Td pos,  Procop.  B.
+'  Do/Hiw  Thiederici,  Thietm.  Merscb.  4,  21;  'ASptavoO  Tvpyos,  Td<pos,  Procop.  B.
 Goth.  2,  22 ;  tnrris  Crescentii  or  Dietriclis-hans  iu  the  leg.  of  Crescentia  and  the
 Two  DietricLs.  In  Wackeru.  Lb.  990,  Ditterich  biiikU  the  Kngel-borg ;  it  is  called
 SorHen-bnrij  in  Myst.  1,  1U3.
@@ -19308,17 +19366,17 @@ Whether  to  pick  beautiful  flowers,  or  dur  Got  stdn  km  (for  God's
 love  let  them  stand)  ?  Hpt  4,  500.  The  inarrubium  indeed  is
 gotes-vcrgeten,  gotis-v.,  gotz-vergesseii,  Mone  4,  240-8.  8,  493.
 407;  gotis-vergeszene,  Summerl.  57,  51.  Gewv  dypaxm^,  ?V
-Kp6vo i  KareaTretpe'     Glaucus,  having  found  and  eaten  it,  becomes
+Kp6vo<i  KareaTretpe'     Glaucus,  having  found  and  eaten  it,  becomes
 
 immortal,  Athen.  3,  83-4. Aljxa  ^Apeox;  (blood  of  Ares),  nardus
 
 montana,  Dioscor.  1,  8,  lilium  3,  106;  alp,a  'Ep/xov,  verbena  4,
 60;  aljxa  !A6r]vd';  chamaepitys  3,  165;  alfia  'H pa KXeou<;,  crocna
 1,  25,  centaurium  minus  3,  7;  alfA,a  rndvov,  rubus  4,  37.  So:
-70V09  'HpaK\eov i,  myrtus  silv.  4,  144,  elleborum  alb.  4,  148 ;
+70V09  'HpaK\eov<i,  myrtus  silv.  4,  144,  elleborum  alb.  4,  148 ;
 76V09  'Epfxov,  anethum  3,  60,  buphthalmus  3,  146  ;  761/09  ripa>o^,
 polygonum  4,  4  (is  76»'o?  here  semen,  or  as  the  Lat.  version  has  it,
-genitura?).  The  flower  Ata i  first  springs  up  after  the  hero's
+genitura?).  The  flower  Ata<i  first  springs  up  after  the  hero's
 death.  Pans.  i.  35,  3.  Plants  often  originate  from  drops  of  blood
 (p.  827),  as  the  flower  on  Sempach  field  shoots  up  where  Leopold
 has  fallen,  Reber's  Hemmerlin  p.  240.  The  poison-plant  ukovltov
@@ -19375,8 +19433,8 @@ coincides  'Apeo<;  kwi),  Babr.  68,  4.  Does  OHG.  wat-wurz,  Graff
 
 p.  1195.]  Mary  has  the  most  herbs  named  after  her,  see
 Fries's  Udtl.  1,  87.  Similar  to  the  wine  Liehfraueu-milch  is
-ji j)poB LT7]<;  ^d\a,  Aristoph.  in  a  lost  play  p.  m.  154*;  t]8v^  7e
-TTLveiv  olvo i  jl(j)po8.  yd\a,  Athen.  10,  444'^  Marien-railch  how-
+ji<j)poB LT7]<;  ^d\a,  Aristoph.  in  a  lost  play  p.  m.  154*;  t]8v^  7e
+TTLveiv  olvo<i  jl(j)po8.  yd\a,  Athen.  10,  444'^  Marien-railch  how-
 ever is  polypodiuni  vulg.,  said  to  have  grown  out  of  the  drops  of
 milk  that  Mary  scattered  over  the  land,  F.  Magnus.  361  note  ;
 conf.  the  Span,  leche  de  los  viejos,  leche  de  Maria  =  wine.  Marien
@@ -19386,7 +19444,7 @@ Yrbk814. Frua-mdnteli,  malva  rotundifolia.  Wolf's  Zts.  2,  54.
 
 Vrowen-hdr,  Minnen-hdr,  capillus  Veneris,  Mone  4,  241  ;  conf.
 Venus's  eyebrow  (Suppl.  to  1192  mid.).  Nemnich  sub  vv.
-cypripeJium,  adiautum.  Marien-thrdne,  -tear,  resembles  "Hpa i
+cypripeJium,  adiautum.  Marien-thrdne,  -tear,  resembles  "Hpa<i
 SdKpvov,  verbena,  Diosc.  4,  60.  Labrum,  lavacrum,  concha  Vene-
 ris =dipsacus  sitibundus,  bee.  it  gathers  dewdrops.  Maryaretlien-
 schvckla,  -shoe,  put  in  a  box,  becomes  a  black  worm.
@@ -19396,7 +19454,7 @@ Nethl.  oijhen-troost ;  also  auijen-dicmt  (lilunientrost,  a  family  name  a
 conf.  '  den  ich  in  miuen  ougen  gerue  burge,"  Wolfr.  S,  4  ;  zc  sumerc  die  ougeu
 troflteu  scboene  wise  (fair  meads  enchant  the  eye) ;  lovely  l&dies  were  6(ptia\fj.ut'
 dXvTjOo^'es,  eye-smarts.  Da'ges  eagc,  primula  veris  [?j ,  M.  Engl,  dales  eyghe,
-daisy,  Alex.  7511.  Clover  too  is  called  ou ien  hrclu'mii-,  but  Engl,  cye-lriijht  is
+daisy,  Alex.  7511.  Clover  too  is  called  ou<ien  hrclu'mii-,  but  Engl,  cye-lriijht  is
 euphrasia.  Ich  tuon  dir  in  den  ougen  wol,  Winsbekin  4,  4 ;  er  ist  niir  in  den
 ougen  niht  ein  dorn,  MS.  1,  15".  2,  UH";  ob  ez  ir  etelichcn  taete  in  den  ougen  wO,
 MS.  1,  dS".  GDS.  20") ;  conl.  friedelex  ouna,  Mone  8,  405.  Hpt.  ^^>,  33'i.
@@ -19635,7 +19693,7 @@ Verbena  is  akin  to  veru  and  Virbius,  says  Schwenck  pp.  489.
 fore called  lepo^ordvr)  and  herba  inira,  qua  coronabantur  bella
 indicturi,  Pliny  22.  2,  3.  25.  9,  59.  Wolfg.  Goethe's  Dissert,
 p.  30-1.  [t  is  called  irepiarepeLov,  bee.  pigeons  like  to  sit  by  it;
-also/erran'a,  Diosc.  4,  60 :  77  cn8r]ptTi i  4,  33-4-5.  OHG.  tsarna,
+also/erran'a,  Diosc.  4,  60 :  77  cn8r]ptTi<i  4,  33-4-5.  OHG.  tsarna,
 isenina,  Graflf  3,  864.  1,  491 ;  idncletta  4,  555.  Sumerl.  24,  9  ;
 isenarre,  Sumerl.  40,  54 ;  tserenbart  66,  40.  MHG.  isenhart,
 Mone's  Auz.  4,  250  and  Quellen  309*'.  Eisen-kraut,  as  we  still
@@ -19730,7 +19788,7 @@ herbe,  volgariter  byfus  in  ander  sprach  bock,'  Voc.  incip.  Teuton.
 er  nit  miid  sere  uf  dem  weg,  der  tiifel  mag  im  och  nit  geschaden ;
 und  wo  es  in  dem  hus  lit,  es  vertribt  den  zober,'  Heilmittelbuch
 of  1400  in  the  Giess.  lis.  no.  992,  bl.  128^',  'Artemisia,  beyftiss,
--f onnenwendel,'  J.  Serranus's  Diet.  Latino-Germ.  (Niirnb.  1539)
+-f<onnenwendel,'  J.  Serranus's  Diet.  Latino-Germ.  (Niirnb.  1539)
 05'';  'in  dem  bifns,'  Mone's  Anz.  '34,  337.  Superstitions  about
 it,  Panz.  Beitr.  1,  249.  '  St  John's  coals  (touchstones)  are  found
 fr.   noon  to   vespers  of  John's   day  under  the  beijfuss ;  alias  non
@@ -19897,7 +19955,7 @@ hauen  noch  von  stechen,  Giess.  papier-hs.  no.  1029  (conf.  p.  1244).
 
 vincant  in  causis '  is  Bohemian,  like  that  about  the  child's  caul
 (p.  874n.).  The  above  names  remind  us  of  Goth,  vigadein6  =
-tribulus  (Suppl.  to  1212  mid,),  as  the  Gr,  ^dro i  is  perhaps  from
+tribulus  (Suppl.  to  1212  mid,),  as  the  Gr,  ^dro<i  is  perhaps  from
 ^aivco,  and  the  Lat,  sentis  akin  to  Goth,  sinj^s,  via ;  yet  conf,  Kl.
 schr,  5,  451  seq.     GDS.  211.
 
@@ -20717,7 +20775,7 @@ me  gangest  7,  420 ;  do  verstuont  daz  bluot  vil  gar,  Walth.  v.  Rh.
 138,  11;  verstellen,  to  stanch,  Mone  6,  460.  7,  420.  In  a  spell
 for  stanching  blood,  the  history  of  iron  is  related,  Kale  v.  rune  3
 (nov.  ed.  9).  There  is  a  plant  named  hluot-stant,  Sumerl.  56,  QQ  ;
-a  Thracian  herb    ccrx-ai/jio i,   Welcker's   Kl.    schr.    3,   29.     Fris.
+a  Thracian  herb    ccrx-ai/jio<i,   Welcker's   Kl.    schr.    3,   29.     Fris.
 
 '  blod  shetta,'  protect,  Richth,  236,  13. In  the  names  Blut-
 
@@ -20810,7 +20868,7 @@ The  ideas  of  Meleager  and  Norna-gestr  (p.  853  end),  o^  /j^ea-ojata
 and  middil-gard  (p.  794),  of  o/i0aA,6<?  and  the  dille-stein  (p.  806),
 of  Cerberus  and  the  hell-hound  (p.  997),  of  KrjpvKecov  and  the
 wishing-rod  (976-7),  and  of  sieve-turning  (p.  1108)  are  closely
-allied;  and  rj\to i,  ON.  sol,  Goth,  sauil,  coincide  even  verbally
+allied;  and  rj\to<i,  ON.  sol,  Goth,  sauil,  coincide  even  verbally
 (p.  701  end).  With  Eonian  usage  agree  our  dislocation-spells
 (p.  224-5)  and  lustration  of  highways,  RA.  p.  73.  On  the  other
 hand,  the  Zeus-Jupiter  is  in  other  nations  split  up  into  Wuotan,
@@ -21883,7 +21941,7 @@ q.  f.  Frethewlf,  q.  f.  FlngoUwlf,  q.  f.  (7eafa,  quern  Geattam  pagani
 jamdudum  pro  deo  venerabantur,  q.  f.  Cetirwa,  q.  f.  Bean,  q.  f.
 Celdewa,  q.  f.  Eeremod,  q.  f.  Idcrmod,  q.  f.  Hafhra,  q.  f.  ira/a,
 q.  f.  Beadwing.  Alberic  p.  186:  Woden  iste  fuit  filius  Frithe-
-vKxldi,  qui  Frehi>iil,  (\.  Flnnii,  q.  Godpiilfi,  q.  (?e^/ /(',  q.  Befhlii,  q.
+vKxldi,  qui  Frehi>iil,  (\.  Flnnii,  q.  Godpiilfi,  q.  (?e^/</(',  q.  Befhlii,  q.
 Bedvil,  q.  SceldH,  q.  ^tccaf,  q.  Heremodii,  q.  (riyaZt',  q.  Bedwegii,
 q.  Stere.'iii.  Matth.  Westm.  p.  112  (under  Mercia)  :  IFocZe?i  fuit
 filius  Frefhewold,  q.  f.  Freolaf,  q.  f.  Frithewlf,  q.  f.  Godwif,  q.  f.
@@ -23085,7 +23143,7 @@ contra  subveniant,  totum  pereat.
 
 venisti  ad  aliquem  locum  ad  orandum  nisi  ecclesiam,  ...  id
 est,  vel  ad  fontes  vel  ad  lapides  vel  ad  arhores  vel  ad  hiola,  et
-ibi  aut  caiidelam  aut  faculam  pro  veneratioue  loci  ince)idi.' tl,  aut
+ibi  aut  caiidelam  aut  faculam  pro  veneratioue  loci  ince)idi.'<tl,  aut
 panem  aut  aliquam  oblationem  illuc  detulisti  aut  ibi  comedisti,
 aut  aliquam  salutem  corporis  aut  animae  ibi  requisisti.
 
@@ -23139,7 +23197,7 @@ guento  post  mortem  vulnus  sanari  possit,  et  sic  cum  unguento
 sepelinnt.
 
 Pag.  195''^:  fecisti  quod  plures  faciunt:  scopant  locum  ubi  facere
-Solent  it>-nem  in  domo  sua,  et  niittunt   irana  hordd  locae  adhuc
+Solent  it>-nem  in  domo  sua,  et  niittunt  <irana  hordd  locae  adhuc
 calido,  et  si  esalierint  grana,  periculosum  erit,  si  aufcem  ibi  per-
 manserint,  bonuni  erit.
 
@@ -23609,7 +23667,7 @@ iars.
 .  4.  item  ai/r  (eggs)  essent  sy,  so  wernt  sy  niclit  hcrtt  an  dem
 paucb  des  iars.
 
-5.  item  so  man  an  dera  Oster-tag  legt  man  tvurf t  (sausages)
+5.  item  so  man  an  dera  Oster-tag  legt  man  tvurf<t  (sausages)
 vnder  das  clirawt  vud  ain  gens  (goose),  welcher  die  wiirst  siecbt,
 der  siecbt  des  iars  cbain  slangen,  vud  wer  der  gens  ist  (eats),
 der  gewint  des  iar  des  cbalten  siecbten  nit.
@@ -23629,7 +23687,7 @@ lier  haim'^  so  wirt  des  iars  nicbt  natig.
 
 9.  ee  man  zu  der  metten  an  dem  Weihnacbtag  get,  so  greiflft
 ains  vnder  die  p)ankch  vnd  nymt  ain  bant-uolle  molten  (mould)
-beraus.  vint  es  etwas  lahenti ji js  in  den  molten,  so  stirbt  es  des
+beraus.  vint  es  etwas  lahenti<ji<js  in  den  molten,  so  stirbt  es  des
 iars  nicbt.
 
 10.  so  man  die  palm  baim-trait  von  kircbeu,  so  legent  sy
@@ -23919,7 +23977,7 @@ das  feivr  mit  dem  elkl  (19),  so  stirbt  chains  aus  dem  haus  nicht.
 
 SUPERSTITIONS.      G.  1701
 
-G.     From  II  a  US  Vi  nil  >•)•'.  t  '  Rluine   der   Tiigend  '  couip.   in    Mil
+G.     From  II  a  US  Vi  nil  >•)•'. <t  '  Rluine   der   Tiigend  '  couip.   in    Mil
 (ace.  to  the  Gotha  MS.).^
 
 Die  zaubry  die  ist  Got  fast  vuwerd,
@@ -24260,7 +24318,7 @@ do  wellent  ettlich  da-pey,
 wenn  es  vngewitter  sey  (is  a  storm),
 das  sey  alles  von  der  munch  wegen  (because  of  monks)
 die  da  gaud  affter  der  wege  (going  their  ways)  ;
-vnd  auch  ettlich  mainent  sicherlich,  16 j
+vnd  auch  ettlich  mainent  sicherlich,  16<j
 
 wenn  der  rapp  hopp,^  daz  tiitt  ain  lich  (means  a  corpse) .
 Ettlich  habent  denn  ainen  newen  fund,
@@ -26136,7 +26194,7 @@ SUPERSTITIONS.      I.  1793
 398.  When  one  is  attired  by  another,  she  must  not  thank  her,  else  the
 finery  will  not  fit  her.
 
-;W\  The  fruit-trees  must  not  see  a  di! f(tffm  the  Twelves,  or  they'll  bear
+;W\  The  fruit-trees  must  not  see  a  di!<f(tffm  the  Twelves,  or  they'll  bear
 no  fruit.
 
 •100.  A  maid  ivho  is  leavimj  must  make  one  more  mess  of  pottage,  and
@@ -26300,7 +26358,7 @@ SUPERSTITIONS.      I.  1795
 
 456.  A  hride  at  her  wedding  shall  wear  an  old  blue  apron  underneath.
 
-457.  Put  your  shofs  wrong-wise  at  the  head  of  your  bed,  and  the   dp  will
+457.  Put  your  shofs  wrong-wise  at  the  head  of  your  bed,  and  the  <dp  will
 not  press  you  that  night.
 
 458.  If  she  that  is  confined  stick  needles  in  the  curtains,  the  babe  will
@@ -26605,7 +26663,7 @@ scared  by  the  ^riiisebi  (?)  that  swarm  from  the  west.
 546.  Combs,  knives,  cloths,  i^sed  about  a  dead  man,  shall  be  laid  in  the
 coffn,  and  be  buried  with  him.
 
-547.  If  a2^re.7nan too7naji  lift  a  child  from  the  font,  either  that  child  or
+547.  If  a2^re.7nan<too7naji  lift  a  child  from  the  font,  either  that  child  or
 her  own  will  die.
 
 548.  If  a  loaf  be  laid  on  its  brown  side,  witches  can  walk  in.
@@ -26780,7 +26838,7 @@ will  prick  God's  eyes  out  :  it  also  destroys  the  rainhoio.
 605.  Whoever  commits  a  crime  that  is  not  found  out  in  his  lifetime,
 ivalks  after  death  with  his  head  under  his  arm.
 
-60 J.  He  that  buries  money  must  tvalk  after  death,  until  it  is  found.
+60<J.  He  that  buries  money  must  tvalk  after  death,  until  it  is  found.
 Go7.  If  you  don't  pray,  the  schivahen  (black  worms)  steal  flour  out  of  your
 bin.
 
@@ -27191,7 +27249,7 @@ else  the  yarn  will  he  made  into  a  ropi'.  for  tlie  child.
 73k  It'  tlie  child,  when  born,  be  wrapt  \x\  fur,  it  will  liave  curly  hair.
 
 735.  Put  three  pennies  in  its  first  hath^  it  will  always  have  money;  a
-pen,  it  will  learn  last;  a  rosary,  it  will  grow  up  pious;  an  e rg,  it  will  hare
+pen,  it  will  learn  last;  a  rosary,  it  will  grow  up  pious;  an  e<rg,  it  will  hare
 a  clear  voice.  But  the  tliree  pennies  and  the  egg  must  be  given  to  the
 first  beggar.
 
@@ -27211,7 +27269,7 @@ from  it  (drop  a  coin  in  the  swathings),  that  it  may  have  peact;.
 741.  If  tiie  child  can't  or  won't  eat,  give  a  little  feast  to  the  fowls  of  the
 air  or  the  black  dog.
 
-742.  If  the  baby  sleep  on ///ron^/i  a   /i-(t«.d!(?r  s/orm,  the  Ughtninij  will  not
+742.  If  the  baby  sleep  on ///ron^/i  a  </i-(t«.d!(?r  s/orm,  the  Ughtninij  will  not
 strike.
 
 743.  The  tablecloth  whereon  ye  have  eaten,  fumigate  with  fdlen  crumbs,
@@ -28035,7 +28093,7 @@ call  '  making  it  hot  for  a  man.'  (Beschr.  dea  Fichtelbergs,  Lpzg.  17
 p.  151.)
 
 !'(52.  To  discovcf  what  the  year  shall  l)ring,  they  plant  themselves  on  a
-cross-rodih  or  2' t'"<"ti7  of  ivays  at  12  the  night  before  Christmas,  statid
+cross-rodih  or  2'<t'"<"ti7  of  ivays  at  12  the  night  before  Christmas,  statid
 stockstill  without  speaking  for  an  hour,  whilst  all  tlie  future  o()ens  on
 their  eyes  and  ears.     This  they  call  '  to  go  hearken.'     (Ibid.  p.  155.)
 
@@ -28880,7 +28938,7 @@ SUPERSTITIONS.      K.  1831
 giisterne  skola  bli  o-cnse  (get  dis-uriited,  quarrel).
 
 i\.  Ej  nul  man  vdnda  am  (turn  back),  dsl  man  gar  i  nagot  iirende  (any
-errand),  at  det  icke  m l  aflcipa  ilia  (turn  out  ill).
+errand),  at  det  icke  m<l  aflcipa  ilia  (turn  out  ill).
 
 62.  For  knapn§,lar  mS,  man  ej  tacka,  ty  de  tappas  bort  (get  lost).
 
@@ -28943,7 +29001,7 @@ jiever  satisfied).     Men   rakar  en  ko  (but  if  a  cow  chance)  pi  den 
 vilgen,  sil  tar  (gets)  hon  sig  aldrig  kalf.
 
 71.  Del  man  logar  sig,  siittes  sful  i  vatnet  (in  bathing,  steel  is  put  in  the
-water),  och  niickcn  bindes  sdlunda:  '  X ick,  ndck,  still  i  strand  !  far  din  var
+water),  och  niickcn  bindes  sdlunda:  '  X<ick,  ndck,  still  i  strand  !  far  din  var
 eu  sliil-tjuf,  mor  din  var  en  ndl-tjuf ;  sS,  Ifingt  (so  far)  skal  du  vara  hdr-
 
 
@@ -29296,7 +29354,7 @@ den,  som  har  baaret  (he  who  has  worn)  disso  kliider  tilforn,  tid  eft
 forsvinde  og  hentilres  (day  by  day  waste  away).
 
 Wo.  Naar  talgen  (rallow),  som  sidder  omkring  et  braadende  lys,  boier
-sig  ligesom  en  hovle-spaan  (shaving),  da  betyder  det,  at  nogen  skal   ioe,
+sig  ligesom  en  hovle-spaan  (shaving),  da  betyder  det,  at  nogen  skal  <ioe,
 og  er  det  siidvanligen  (usually)  den,  til  hvem  hovle-spaanen  peger
 (points).
 
@@ -29423,7 +29481,7 @@ i  en  Psalme-bog,  vil  man  af  dens  indhold  kunne  slutte  sig  til  det  v
 hvilken  foUet  er,  naar  det  kastes  (stretch  betw.  four  sticks  the  afterbirth  of
 a  foal),  og  derpaa  ni'ig^n  kri/her  der-igjimuetn  (creep  naked  through  it),  da
 vil  hun  kunne  fode  born  uden  smerte  (without  pain).  Men  alle  de  drenge
-(boys)  hun  undfanger,  blive  v ir-ulve,  og  alle  de  piger  blive  marer}
+(boys)  hun  undfanger,  blive  v<ir-ulve,  og  alle  de  piger  blive  marer}
 
 168.  Shjer-Torsdag-aften  (Maundy  Thursd.)  kaster  bonden  uxerogjern-
 Teiler  paa  do  hesaacde  (ujre  (axes  and  iron  bolts  on  the  sown  fields),  og
@@ -29878,7 +29936,7 @@ ishes malignant  under-gods  who  try  to  injure  men.
 1846  APPENDIX.
 
 66.  Many  believe  in  the  power  of  man  to  raise  wind,  and  to  change  its
-direction.  For  this  purpose  they  would  hang  up  a  snalce,  or  set  up  an  a re,
+direction.  For  this  purpose  they  would  hang  up  a  snalce,  or  set  up  an  a<re,
 in  the  direction  whence  they  wished  for  a  wind,  and  try  to  allure  it  hy
 whistling.
 
@@ -30531,7 +30589,7 @@ Ich  virbeden  dir,  gychfr,  hi  der  heylgir  wandillungin.  vnd  bi  den  hey
 V  wunden  viisers  herren  Jesu  Christi.  vad  bi  deme  bluode  dat  Gote  vyt
 (out  of)  sinen  V  wunden  ran.  vnd  bi  dem  erstin  menschin  dat  Got  vf
 erden  ye  gemacht,  oder  ye  liz  geborren  werden.  Ich  virbeden  dir  bi  den
-dritt,  na jelin,  de  Gode  durch  sine  hende  vnd  durch  sine  vusze  wrde  geslagen.
+dritt,  na<jelin,  de  Gode  durch  sine  hende  vnd  durch  sine  vusze  wrde  geslagen.
 Ich  virbeden  dir  bi  den  vijer  hidden  (4  rjracious  ones)  de  da  stioonden  vf  ziotijn
 vnoszin  vnd  sprachin  vys  (out  of)  zweyir  muodir  libe,  '  wer  si  bede  van  rechtir
 lybden,  vmme  allis  dat  mogelich  is,  des  wulden  si  in  geweren.'  dat  was
@@ -31212,7 +31270,7 @@ vil  da  gauge?'  siger  Jesus. — '  Jeg  vil  gajie  til  N.  N.' — '  Hvad
 dci- ?  '  siger  Jesus. — 'Jeg  vil  hans  Mod  lapt,  jeg  vil  liana  ben  bidt,  og
 hans  hdnder  slldf,  jefr  vil  lians  hilse  fortappe.' — '  Nej,'  siger  Joliannes
 evangelist,  '  det  skal  du  ikke  gjoie;  mens  Jesu  navn  mane  dig  af  hlod  i
-flod  !  Jesu  navn  mano  dig   if  been  I  steen  !  Jesu  navn  mane  dig  uf  hold
+flod  !  Jesu  navn  mano  dig  <if  been  I  steen  !  Jesu  navn  mane  dig  uf  hold
 i  mold  !     Jesu  navn  inane  dig  ad  til  verdens  ende  !
 
 Jesus  han  sig  under  espen  stod,  han  svedte  vand  (water),  han  svedte
@@ -31260,7 +31318,7 @@ eske  for  brrg-greb,  for  s
 1787),  pp.  119.  120.
 
 
-Jeg  gi ir  at  dettc  mcnneske  for  brrg-greb,  for  sne-greb,  for  dddmans  greb,
+Jeg  gi<ir  at  dettc  mcnneske  for  brrg-greb,  for  sne-greb,  for  dddmans  greb,
 for  alio  de  greb,  som  falder  imellem  himmel  og  jord.     i  de  tre  navn  etc.
 
 
@@ -33065,7 +33123,7 @@ JuHus  CiEsar  1444.
 juncfrouwen-wert  1350.
 jung-brunne  (fount  of  youth)  1456.
 Juno  1321.  14(i'.»-71.  1665.
-Jupiter    1322-3.     133 J.    1469,    1738-9.
+Jupiter    1322-3.     133<J.    1469,    1738-9.
 1740.
 
 Amnion  1387.
@@ -34689,7 +34747,7 @@ wheel-rolhng  1348.  1371.
 
 whirlwind  1798-9.  1847.
 
-white  lady  1318.  1371.  1401.  1571.  15 J5.
+white  lady  1318.  1371.  1401.  1571.  15<J5.
 
 wicke-weib  (witch)  1809.
 
@@ -35765,10 +35823,10 @@ PHILOLOGY.
 
 WEBSTER'S  DICTIONARY  OF  THE  ENGLISH  LAN-
 GUAGE. With  Dr.  Miihn's  Ktymolnpy.  1  vol.  1628  popes,  3000  lUus-
-trations.  21.«. ;  half  caU,  :«>s.  ;  "calf  or  Imlf  russia,  :51.s.   id. ;  rnssia,  '21.
+trations.  21.«. ;  half  caU,  :«>s.  ;  "calf  or  Imlf  russia,  :51.s.  <id. ;  rnssia,  '21.
 With  AppendiceR  and  70  additional  piuron  of  Illustratious,  1919  pages,
 31s.  6d. ;  half  aUf,  iii. ;  calf  or  half  ru.ssia,  121.  2s. ;  russia,  21.  10s.
-•The  BEST PEACTiCAL English  DiCTiONAUT  kxtant.' — Q« irterlyB««ieu>,1873.
+•The  BEST PEACTiCAL English  DiCTiONAUT  kxtant.' — Q«‹irterlyB««ieu›,1873.
 Prospectuses,  wth  spocimen  pages,  post  free  on  application.
 
 Richardson's  Philological  Dictionary  of  the  English  Language.
@@ -35785,7 +35843,7 @@ The  Elements  of  the  English  Language.    By  E.  Adams,  Ph.D.
 
 21st  Edition.     Post  8vo.    4s.  6d.
 
-Philological  Essays.    By  T.  H.  Key,  M.A.,  F.R.S.    8vo.    10s.  6 i.
+Philological  Essays.    By  T.  H.  Key,  M.A.,  F.R.S.    8vo.    10s.  6<i.
 Language,  its  Origin  and  Development.     By  T.  H.  Key,  M.A,
 
 F.ll.S.    8vo.     14.S.
@@ -35926,7 +35984,7 @@ German  Ballads,  from  Uliland,  Goethe,  and  Schiller.    By  C.  L^
 
 Bielefeld.     3rd  Edition.     Is.  6d.
 
-Charles  XII.,  par  Voltaire.    By  L.  Direy.    7th  Edition.     Is.  C f.
+Charles  XII.,  par  Voltaire.    By  L.  Direy.    7th  Edition.     Is.  C<f.
 Aventures  de  Tel^maque,  par  F^n^lon.    By  C.  J.  Delille.     4th
 
 Edition.     2s.  6d.
@@ -36208,3 +36266,192 @@ Educational  Works.
 
 
 Helps'  Course  of  Poetry,  for  Schools.  A  New  Selection  from
+tlio  English  Poets,  ciiri'fiiUy  compiled  aii<l  adapted  to  tho  several  standarda
+by  E.  A.  Helps,  one  of  H.M.  Inspectors  of  Schools.
+
+Book      I.     Infants  and  Standards  I.  and  II.     liil  pp.  small  8vo.    M.
+Took    II.     Standards  III.  and  IV.     21t  pp.  crown  8vo.    1«.  Gd.
+r.ook  III.     Standards  V.,  VI..  and  VII.     :352  pp.  post  8vo.    2s.
+Or   in   PARTS.      Infants,   2d. ;    Standard  I.,  2d. ;   Standard  II.,  2d.
+Standard  III.,  4<1.
+
+
+Picture   Sohool-Books.     In  Simple  Language,  with  numerouB
+
+lUu.-lnitious.  Royal  16mo.
+The  Infant's  Primer.  3(1.— School  Primer.  6d.— School  R«ader.  By  J.
+Tilleard.  l(i.— Poetry  Book  for  Schools.  Is.— The  Life  of  Joseph.  Is.— The
+Scripture  Parables.  By  the  Rev.  J.  K.  Clarke.  I.?.- The  Scripture  Miracles.
+By  the  Rev.  J.  E.  Clarke.  Is.— The  New  Testament  History.  By  the  Rev.
+J.  G.  Wood,  M.A.  Is.— The  Old  Testament  History.  By  the  Rev.  J.  G.
+"Wood,  M.A.  Is.— The  Story  of  Bunyan's  Pilgrim's  Progress.  Is.— The  Life
+of  Martin  Luther.     By  Sarah  Crompton.    Is.
+
+
+SuifabU
+
+for
+Infants.
+
+
+BOOKS  FOR  YOUNG   READERS.
+
+A  Series  of  Reading  Books  designed  to  facilitate  the  acquisition  of  the  power
+
+of  Reading  by  very  young  Children.   InW  vols,  limp  cloth,  6d.  each.
+
+Those  with  an  asterisk  have  a  Frontispiece  or  other  Illustration.
+
+♦The  Two  Parrots.     A  Tale  of  the  Jubilee.     By  M.  E.
+
+Wiiitle.    9  Illustrations.
+
+*The  Old  Boathouse.   Bell  and  Fan;  or,  A  Cold  Dip.
+
+*Tot  and  the  Cat.     A  Bit  of  Cake.     The  Jay.     The
+Black  Hen's  Sost.    Tom  and  Ned.     Mrs.  Bee.
+
+*rhe  Cat  and  the  Hen.    Sam  and  hia  Dog  Redleg.
+
+Bob  and  Tom  Leo.     A  Wreck.
+
+♦The  New-bom  Lamb.    The  Rosewood  Box.    Poor
+Fan.    Sheep  Dog.
+
+♦The  Story  of  Three  Monkeys.
+
+♦Story  of  a  Cat.    Told  by  Herself.
+
+The  Blind  Boy.    The  Mute  Girl.     A  New  Tale  of  |
+
+Babes  in  a  Wood.
+
+The  Dey  and  the  Knight.     The  New  Bank  Note.
+
+The  Royal  Visit.    A  King's  Walk  on  a  Winter's  Day.
+
+*  Queen  Bee  and  Busy  Bee.
+
+*  Gull's  Crag.
+
+*  A  First  Book  of  Geography.  By  the  Rev.  C.  A.  Johns.
+
+Illustrated.    Doable  size.  Is.
+
+
+SuUabU
+
+I  'Standard*
+I.  i  II.
+
+
+Syllabic  Spelling.
+Standard  I.,  3ci.
+
+
+By  C.  Barton.     In  Two  Parts.     Infants,  Zd.
+
+
+20        George  Bell  and  Sons'  Educational  Works.
+
+
+BELL'S    READING-BOOKS.
+
+FOR    SCHOOLS    AND    PAROCHIAL    LIBRARIES.
+Now  Ready.  PostSvo.   Strongly  bound  in  cloth.  Is.  each,
+
+*Life  of  Columbus.
+
+*  Grimm's  German  Tales.    (Selected.)
+*Andersen's  Danish  Tales.    Illustrated.    (Selected.)
+
+Great  Englishmen.     Short  Lives  for  Young  Children,
+Great  Enghshwomen.     Short  Lives  of.
+Great  Scotsmen.     Short  Lives  of.
+*Masterman  Ready.  ByCapt.  Marryat.  lUus.  (Abgd.)
+
+*Scott's  Tahsman.     (Abridged.)
+
+*Priends  in  Fur  and  Feathers.    By  Gwynfryn.
+
+*Dickens's  Little  Nell.    Abridged  from  the  '  The  Old
+
+Curiosity  Shop.'
+
+Parables  from  Nature.    (Selected.)    By  Mrs.  Gatty.
+Lamb's  Tales  from  Shakespeare.    (Selected.)
+Edgeworth's  Tales.     (A  Selection.)
+
+*  Gulliver's  Travels.    (Abridged.)
+
+*  Robinson  Crusoe.     Illustrated.
+
+*  Arabian  Nights.    (A  Selection  Kewritten.)
+
+*The  Vicar  of  Wakefield.
+
+♦Settlers  in  Canada.    By  Capt.  Marryat.    (Abridged.)
+
+Marie :  Glimpses  of  Life  in  France.  By  A.  E.  EUis.
+
+Poetry  for  Boys.     Selected  by  D.  Munro.
+*Southey's  Life  of  Nelson.    (Abridged.)
+*Life  of  the  Duke  of  Wellington,  with  Maps  and  Plans,
+*Sir  Roger  de  Coverley  and  other  Essays  from  the
+
+Spectator.
+
+Tales  of  the  Coast.    By  J.  Runciman.
+
+*  These  Volumes  are  Illustrated.
+
+
+S^ntabl»
+
+for
+Standards
+
+in.  &  IV.
+
+
+standards
+IV.  &  V.
+
+
+Standards
+
+V.  VI.  &
+
+VII.
+
+
+Uniform  with  the  Series,  in  limp  cloth,  &d.  each.
+Shakespeare's    Plays.     Kemble's  Beading  Edition.    With  Ex-
+planatory Notes  for  School  Use.
+JULIUS  C^SAR.      THE  MERCHANT  OF  VENICE.      KING  JOHN,
+HENRY  THE  FIFTH.        MACBETH,        AS  YOU  LIKBiIT.
+
+
+London :  GEORGE  BELL  &  SONS,  York  Street,  Covent  Garden.
+
+
+DATE  DUE
+
+5
+
+M  0*1^
+
+»
+
+DEMCO  38-2
+
+97
+
+BL860  .G867  v.4
+Teutonic  mythology,
+
+Princeton  Theological  Seminary-Speer  Library
+
+
+1    1012  00108  2611
+

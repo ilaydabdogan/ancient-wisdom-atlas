@@ -3819,7 +3819,7 @@ items:
   manifest_path: manifests/project-gutenberg/19438-hero-of-esthonia-kirby.yml
   extraction_dir: extractions/estonian/project-gutenberg/hero-of-esthonia-kirby
 - id: hindu.rigveda.griffith_archive
-  status: converted
+  status: ingested
   priority: high
   source: internet_archive
   source_id: hymns-of-the-rigveda-english-translation-of-the-rigveda-complete-2-volumes
@@ -3883,7 +3883,11 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-17'
     converted_on: '2026-07-17'
+    promoted_on: '2026-07-19'
   converted_path: imports/converted/project-gutenberg/hymns-of-the-rigveda-english-translation-of-the-rigveda-complete-2-volumes-hymns-of-the-rigveda-griffith.md
+  canonical_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  manifest_path: manifests/project-gutenberg/hymns-of-the-rigveda-english-translation-of-the-rigveda-complete-2-volumes-hymns-of-the-rigveda-griffith.yml
+  extraction_dir: extractions/hindu/project-gutenberg/hymns-of-the-rigveda-griffith
 - id: hindu.upanishads.sbe01.muller_archive
   status: ingested
   priority: high
@@ -12109,7 +12113,7 @@ items:
   manifest_path: manifests/project-gutenberg/11277-egyptian-ideas-of-the-future-life-budge.yml
   extraction_dir: extractions/egyptian/project-gutenberg/egyptian-ideas-of-the-future-life-budge
 - id: egyptian.budge.gods_of_the_egyptians.archive_v1
-  status: converted
+  status: ingested
   priority: high
   source: internet_archive
   source_id: godsofegyptianso00budg
@@ -12169,7 +12173,11 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-19'
     converted_on: '2026-07-19'
+    promoted_on: '2026-07-19'
   converted_path: imports/converted/project-gutenberg/godsofegyptianso00budg-gods-of-the-egyptians-budge-vol1.md
+  canonical_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  manifest_path: manifests/project-gutenberg/godsofegyptianso00budg-gods-of-the-egyptians-budge-vol1.yml
+  extraction_dir: extractions/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1
 - id: egyptian.budge.gods_of_the_egyptians.archive_v2
   status: ingested
   priority: high
@@ -13217,7 +13225,7 @@ items:
   manifest_path: manifests/internet-archive/thirtyminorupani00naraiala-thirty-minor-upanishads-aiyar.yml
   extraction_dir: extractions/hindu/internet-archive/thirty-minor-upanishads-aiyar
 - id: buddhist.buddhist_suttas.rhys_davids_sbe11_archive
-  status: converted
+  status: ingested
   priority: high
   source: internet_archive
   source_id: buddhistsuttas00davigoog
@@ -13275,7 +13283,7 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-19'
     converted_on: '2026-07-19'
-    promoted_on: ''
+    promoted_on: '2026-07-19'
   converted_path: imports/converted/project-gutenberg/buddhistsuttas00davigoog-buddhist-suttas-rhys-davids-sbe11.md
   canonical_path: texts/public-domain/buddhist/internet-archive/buddhist-suttas-rhys-davids-sbe11.md
   manifest_path: manifests/internet-archive/buddhistsuttas00davigoog-buddhist-suttas-rhys-davids-sbe11.yml
@@ -13740,7 +13748,7 @@ items:
   manifest_path: manifests/internet-archive/sacredbooksofchi00laozuoft-texts-of-taoism-part2-legge-sbe40.yml
   extraction_dir: extractions/taoist/internet-archive/texts-of-taoism-part2-legge-sbe40
 - id: confucian.four_books.legge_archive
-  status: converted
+  status: ingested
   priority: high
   source: internet_archive
   source_id: fourbooksconfuci00leggiala
@@ -13806,7 +13814,7 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-19'
     converted_on: '2026-07-19'
-    promoted_on: ''
+    promoted_on: '2026-07-19'
   converted_path: imports/converted/internet-archive/fourbooksconfuci00leggiala-four-books-confucian-legge.md
   canonical_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
   manifest_path: manifests/internet-archive/fourbooksconfuci00leggiala-four-books-confucian-legge.yml
@@ -14010,7 +14018,7 @@ items:
   manifest_path: manifests/internet-archive/storieslegendsof00chiv-stories-legends-annam-chivas-baron.yml
   extraction_dir: extractions/vietnamese/internet-archive/stories-legends-annam-chivas-baron
 - id: african.folk_tales_angola.chatelain_archive
-  status: converted
+  status: ingested
   priority: high
   source: internet_archive
   source_id: folktalesofangol00chat
@@ -14073,7 +14081,11 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-19'
     converted_on: '2026-07-19'
+    promoted_on: '2026-07-19'
   converted_path: imports/converted/project-gutenberg/folktalesofangol00chat-folk-tales-of-angola-chatelain.md
+  canonical_path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  manifest_path: manifests/project-gutenberg/folktalesofangol00chat-folk-tales-of-angola-chatelain.yml
+  extraction_dir: extractions/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain
 - id: african.kaffir_folk_lore.theal_archive
   status: ingested
   priority: medium
@@ -15298,7 +15310,7 @@ items:
     converted_on: '2026-07-19'
   converted_path: imports/converted/project-gutenberg/nativetribesofso00howiuoft-native-tribes-south-east-australia-howitt.md
 - id: australian.ethnological_studies_queensland.roth_archive
-  status: converted
+  status: ingested
   priority: medium
   source: internet_archive
   source_id: ethnologicalstu00rothgoog
@@ -15355,7 +15367,11 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-19'
     converted_on: '2026-07-19'
+    promoted_on: '2026-07-19'
   converted_path: imports/converted/project-gutenberg/ethnologicalstu00rothgoog-ethnological-studies-queensland-roth.md
+  canonical_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  manifest_path: manifests/project-gutenberg/ethnologicalstu00rothgoog-ethnological-studies-queensland-roth.yml
+  extraction_dir: extractions/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth
 - id: native_american.traditions_arapaho.dorsey_kroeber_archive
   status: ingested
   priority: high
@@ -16463,7 +16479,7 @@ items:
   manifest_path: manifests/project-gutenberg/wishramtexts00sapirich-wishram-texts-sapir.yml
   extraction_dir: extractions/native-american-plateau/project-gutenberg/wishram-texts-sapir
 - id: native_american.yana_texts.sapir_archive
-  status: converted
+  status: ingested
   priority: high
   source: internet_archive
   source_id: yanatexts00sapirich
@@ -16524,6 +16540,7 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-19'
     converted_on: '2026-07-19'
+    promoted_on: '2026-07-19'
   converted_path: imports/converted/project-gutenberg/yanatexts00sapirich-yana-texts-sapir.md
   canonical_path: texts/public-domain/native-american-california/project-gutenberg/yana-texts-sapir.md
   manifest_path: manifests/project-gutenberg/yanatexts00sapirich-yana-texts-sapir.yml
@@ -17182,7 +17199,7 @@ items:
   manifest_path: manifests/project-gutenberg/indiantribesperu10fararich-indian-tribes-eastern-peru-farabee.yml
   extraction_dir: extractions/amazonian/project-gutenberg/indian-tribes-eastern-peru-farabee
 - id: amazonian.the_central_caribs.farabee_archive
-  status: converted
+  status: ingested
   priority: medium
   source: internet_archive
   source_id: centralcaribs0000fara
@@ -17241,6 +17258,7 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-19'
     converted_on: '2026-07-19'
+    promoted_on: '2026-07-19'
   converted_path: imports/converted/project-gutenberg/centralcaribs0000fara-the-central-caribs-farabee.md
   canonical_path: texts/public-domain/guiana-amerindian/project-gutenberg/the-central-caribs-farabee.md
   manifest_path: manifests/project-gutenberg/centralcaribs0000fara-the-central-caribs-farabee.yml
@@ -17312,7 +17330,7 @@ items:
   manifest_path: manifests/project-gutenberg/14465-gods-and-fighting-men-gregory.yml
   extraction_dir: extractions/celtic/project-gutenberg/gods-and-fighting-men-gregory
 - id: celtic.cuchulain_of_muirthemne.gregory_archive
-  status: converted
+  status: ingested
   priority: high
   source: internet_archive
   source_id: cuchulainofmuirt00greg_0
@@ -17373,7 +17391,7 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-19'
     converted_on: '2026-07-19'
-    promoted_on:
+    promoted_on: '2026-07-19'
   converted_path: imports/converted/project-gutenberg/cuchulainofmuirt00greg_0-cuchulain-of-muirthemne-gregory.md
   canonical_path: texts/public-domain/celtic/internet-archive/cuchulain-of-muirthemne-gregory.md
   manifest_path: manifests/internet-archive/cuchulainofmuirt00greg_0-cuchulain-of-muirthemne-gregory.yml
@@ -18159,7 +18177,7 @@ items:
   manifest_path: manifests/internet-archive/teutonicmytholog01grim-teutonic-mythology-v1-grimm-stallybrass.yml
   extraction_dir: extractions/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass
 - id: germanic.teutonic_mythology_v2.grimm_stallybrass_archive
-  status: converted
+  status: ingested
   priority: medium
   source: internet_archive
   source_id: teutonicmytholog02grim
@@ -18220,7 +18238,7 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-19'
     converted_on: '2026-07-19'
-    promoted_on:
+    promoted_on: '2026-07-19'
   converted_path: imports/converted/project-gutenberg/teutonicmytholog02grim-teutonic-mythology-v2-grimm-stallybrass.md
   canonical_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
   manifest_path: manifests/internet-archive/teutonicmytholog02grim-teutonic-mythology-v2-grimm-stallybrass.yml
@@ -18940,7 +18958,6 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-19'
     converted_on: '2026-07-19'
-    promoted_on:
   converted_path: imports/converted/internet-archive/in.ernet.dli.2015.105319-book-of-opening-the-mouth-budge-vol1.md
   canonical_path: texts/public-domain/egyptian/internet-archive/book-of-opening-the-mouth-budge-vol1.md
   manifest_path: manifests/internet-archive/in.ernet.dli.2015.105319-book-of-opening-the-mouth-budge-vol1.yml
@@ -19142,7 +19159,7 @@ items:
   manifest_path: manifests/internet-archive/the-egyptian-heaven-and-hell-vol-3-egyptian-heaven-and-hell-v3-summary.yml
   extraction_dir: extractions/egyptian/internet-archive/egyptian-heaven-and-hell-v3-summary
 - id: egyptian.development_of_religion_thought.breasted_archive
-  status: converted
+  status: ingested
   priority: medium
   source: internet_archive
   source_id: developmentreli03breagoog
@@ -19202,13 +19219,13 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-19'
     converted_on: '2026-07-19'
-    promoted_on:
+    promoted_on: '2026-07-19'
   converted_path: imports/converted/internet-archive/developmentreli03breagoog-development-of-religion-thought-ancient-egypt-breasted.md
   canonical_path: texts/public-domain/egyptian/internet-archive/development-of-religion-thought-ancient-egypt-breasted.md
   manifest_path: manifests/internet-archive/developmentreli03breagoog-development-of-religion-thought-ancient-egypt-breasted.yml
   extraction_dir: extractions/egyptian/internet-archive/development-of-religion-thought-ancient-egypt-breasted
 - id: hindu.markandeya_purana.pargiter_archive
-  status: converted
+  status: ingested
   priority: high
   source: internet_archive
   source_id: in.ernet.dli.2015.188841
@@ -19269,7 +19286,7 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-19'
     converted_on: '2026-07-19'
-    promoted_on:
+    promoted_on: '2026-07-19'
   converted_path: imports/converted/internet-archive/in.ernet.dli.2015.188841-markandeya-purana-pargiter.md
   canonical_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
   manifest_path: manifests/internet-archive/in.ernet.dli.2015.188841-markandeya-purana-pargiter.yml
@@ -19545,7 +19562,7 @@ items:
   manifest_path: manifests/project-gutenberg/15477-mahabharata-ganguli-vol4.yml
   extraction_dir: extractions/hindu/project-gutenberg/mahabharata-ganguli-vol4
 - id: tibetan.book_of_the_dead.evans_wentz_archive
-  status: converted
+  status: ingested
   priority: high
   source: internet_archive
   source_id: the-tibetan-book-of-the-dead_202401
@@ -19606,13 +19623,13 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-19'
     converted_on: '2026-07-19'
-    promoted_on:
+    promoted_on: '2026-07-19'
   converted_path: imports/converted/internet-archive/the-tibetan-book-of-the-dead_202401-tibetan-book-of-the-dead-evans-wentz.md
   canonical_path: texts/public-domain/tibetan/internet-archive/tibetan-book-of-the-dead-evans-wentz.md
   manifest_path: manifests/internet-archive/the-tibetan-book-of-the-dead_202401-tibetan-book-of-the-dead-evans-wentz.yml
   extraction_dir: extractions/tibetan/internet-archive/tibetan-book-of-the-dead-evans-wentz
 - id: tibetan.buddhism_of_tibet.waddell_archive
-  status: converted
+  status: ingested
   priority: high
   source: internet_archive
   source_id: buddhismoftibeto00wadd_202603
@@ -19673,13 +19690,13 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-19'
     converted_on: '2026-07-19'
-    promoted_on:
+    promoted_on: '2026-07-19'
   converted_path: imports/converted/internet-archive/buddhismoftibeto00wadd_202603-buddhism-of-tibet-lamaism-waddell.md
   canonical_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
   manifest_path: manifests/internet-archive/buddhismoftibeto00wadd_202603-buddhism-of-tibet-lamaism-waddell.yml
   extraction_dir: extractions/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell
 - id: tibetan.antiquities_of_indian_tibet.francke_vol1_archive
-  status: converted
+  status: ingested
   priority: medium
   source: internet_archive
   source_id: in.ernet.dli.2015.206240
@@ -19739,13 +19756,13 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-19'
     converted_on: '2026-07-19'
-    promoted_on:
+    promoted_on: '2026-07-19'
   converted_path: imports/converted/internet-archive/in.ernet.dli.2015.206240-antiquities-of-indian-tibet-francke-v1.md
   canonical_path: texts/public-domain/tibetan/internet-archive/antiquities-of-indian-tibet-francke-v1.md
   manifest_path: manifests/internet-archive/in.ernet.dli.2015.206240-antiquities-of-indian-tibet-francke-v1.yml
   extraction_dir: extractions/tibetan/internet-archive/antiquities-of-indian-tibet-francke-v1
 - id: tibetan.antiquities_of_indian_tibet.francke_vol2_archive
-  status: converted
+  status: needs_resourcing
   priority: medium
   source: internet_archive
   source_id: in.ernet.dli.2015.104279
@@ -19804,13 +19821,15 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-19'
     converted_on: '2026-07-19'
-    promoted_on:
   converted_path: imports/converted/internet-archive/in.ernet.dli.2015.104279-antiquities-of-indian-tibet-francke-v2-chronicles-ladakh.md
-  canonical_path: texts/public-domain/tibetan/internet-archive/antiquities-of-indian-tibet-francke-v2-chronicles-ladakh.md
-  manifest_path: manifests/internet-archive/in.ernet.dli.2015.104279-antiquities-of-indian-tibet-francke-v2-chronicles-ladakh.yml
   extraction_dir: extractions/tibetan/internet-archive/antiquities-of-indian-tibet-francke-v2-chronicles-ladakh
+  hold_reason: Bilingual Tibetan/English texts-and-translations edition; original
+    Tibetan script is interleaved throughout the introduction and translation (~10%
+    of lines are wrong-script OCR garbage). Cannot be reduced to English-only by a
+    deterministic trim. Needs re-sourcing of an English-only edition or orthographic
+    separation.
 - id: mongol.the_mongols_history.curtin_archive
-  status: converted
+  status: ingested
   priority: medium
   source: internet_archive
   source_id: mongolshistory00curtuoft
@@ -19868,7 +19887,7 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-19'
     converted_on: '2026-07-19'
-    promoted_on:
+    promoted_on: '2026-07-19'
   converted_path: imports/converted/internet-archive/mongolshistory00curtuoft-the-mongols-a-history-curtin.md
   canonical_path: texts/public-domain/mongol/internet-archive/the-mongols-a-history-curtin.md
   manifest_path: manifests/internet-archive/mongolshistory00curtuoft-the-mongols-a-history-curtin.yml
@@ -19940,7 +19959,7 @@ items:
   manifest_path: manifests/project-gutenberg/40402-sagas-from-the-far-east-busk.yml
   extraction_dir: extractions/mongol/project-gutenberg/sagas-from-the-far-east-busk
 - id: korean.korean_folk_tales.gale_archive
-  status: converted
+  status: ingested
   priority: high
   source: internet_archive
   source_id: koreanfolktalesi00impa_0
@@ -19998,13 +20017,13 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-19'
     converted_on: '2026-07-19'
-    promoted_on:
+    promoted_on: '2026-07-19'
   converted_path: imports/converted/internet-archive/koreanfolktalesi00impa_0-korean-folk-tales-im-bang-yi-ryuk-gale.md
   canonical_path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
   manifest_path: manifests/internet-archive/koreanfolktalesi00impa_0-korean-folk-tales-im-bang-yi-ryuk-gale.yml
   extraction_dir: extractions/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale
 - id: korean.korean_tales.allen_archive
-  status: converted
+  status: ingested
   priority: medium
   source: internet_archive
   source_id: koreantalesbeing00alle
@@ -20062,13 +20081,13 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-19'
     converted_on: '2026-07-19'
-    promoted_on:
+    promoted_on: '2026-07-19'
   converted_path: imports/converted/internet-archive/koreantalesbeing00alle-korean-tales-allen.md
   canonical_path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
   manifest_path: manifests/internet-archive/koreantalesbeing00alle-korean-tales-allen.yml
   extraction_dir: extractions/korean/internet-archive/korean-tales-allen
 - id: korean.corea_the_hermit_nation.griffis_archive
-  status: converted
+  status: ingested
   priority: medium
   source: internet_archive
   source_id: cu31924023520681
@@ -20126,13 +20145,13 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-19'
     converted_on: '2026-07-19'
-    promoted_on:
+    promoted_on: '2026-07-19'
   converted_path: imports/converted/internet-archive/cu31924023520681-corea-the-hermit-nation-griffis.md
   canonical_path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
   manifest_path: manifests/internet-archive/cu31924023520681-corea-the-hermit-nation-griffis.yml
   extraction_dir: extractions/korean/internet-archive/corea-the-hermit-nation-griffis
 - id: malay.malay_magic.skeat_archive
-  status: converted
+  status: ingested
   priority: high
   source: internet_archive
   source_id: malaymagicbeingi00skea
@@ -20192,13 +20211,13 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-19'
     converted_on: '2026-07-19'
-    promoted_on:
+    promoted_on: '2026-07-19'
   converted_path: imports/converted/internet-archive/malaymagicbeingi00skea-malay-magic-skeat.md
   canonical_path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
   manifest_path: manifests/internet-archive/malaymagicbeingi00skea-malay-magic-skeat.yml
   extraction_dir: extractions/malay/internet-archive/malay-magic-skeat
 - id: malay.pagan_races_malay_peninsula.skeat_blagden_vol1_archive
-  status: converted
+  status: ingested
   priority: medium
   source: internet_archive
   source_id: paganracesofmal01skea
@@ -20256,13 +20275,13 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-19'
     converted_on: '2026-07-19'
-    promoted_on:
+    promoted_on: '2026-07-19'
   converted_path: imports/converted/internet-archive/paganracesofmal01skea-pagan-races-malay-peninsula-v1-skeat-blagden.md
   canonical_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
   manifest_path: manifests/internet-archive/paganracesofmal01skea-pagan-races-malay-peninsula-v1-skeat-blagden.yml
   extraction_dir: extractions/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden
 - id: malay.pagan_races_malay_peninsula.skeat_blagden_vol2_archive
-  status: converted
+  status: ingested
   priority: medium
   source: internet_archive
   source_id: paganracesofmal02skea
@@ -20318,13 +20337,13 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-19'
     converted_on: '2026-07-19'
-    promoted_on:
+    promoted_on: '2026-07-19'
   converted_path: imports/converted/internet-archive/paganracesofmal02skea-pagan-races-malay-peninsula-v2-skeat-blagden.md
   canonical_path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v2-skeat-blagden.md
   manifest_path: manifests/internet-archive/paganracesofmal02skea-pagan-races-malay-peninsula-v2-skeat-blagden.yml
   extraction_dir: extractions/malay/internet-archive/pagan-races-malay-peninsula-v2-skeat-blagden
 - id: burmese.soul_of_a_people.fielding_hall_archive
-  status: converted
+  status: ingested
   priority: medium
   source: internet_archive
   source_id: cu31924079683326
@@ -20382,13 +20401,13 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-19'
     converted_on: '2026-07-19'
-    promoted_on:
+    promoted_on: '2026-07-19'
   converted_path: imports/converted/internet-archive/cu31924079683326-soul-of-a-people-fielding-hall.md
   canonical_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
   manifest_path: manifests/internet-archive/cu31924079683326-soul-of-a-people-fielding-hall.yml
   extraction_dir: extractions/burmese/internet-archive/soul-of-a-people-fielding-hall
 - id: melanesian.history_of_melanesian_society.rivers_vol1_archive
-  status: converted
+  status: ingested
   priority: medium
   source: internet_archive
   source_id: historyofmelanes01rive
@@ -20446,13 +20465,13 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-19'
     converted_on: '2026-07-19'
-    promoted_on:
+    promoted_on: '2026-07-19'
   converted_path: imports/converted/internet-archive/historyofmelanes01rive-history-of-melanesian-society-v1-rivers.md
   canonical_path: texts/public-domain/melanesian/internet-archive/history-of-melanesian-society-v1-rivers.md
   manifest_path: manifests/internet-archive/historyofmelanes01rive-history-of-melanesian-society-v1-rivers.yml
   extraction_dir: extractions/melanesian/internet-archive/history-of-melanesian-society-v1-rivers
 - id: melanesian.history_of_melanesian_society.rivers_vol2_archive
-  status: converted
+  status: ingested
   priority: medium
   source: internet_archive
   source_id: b31362692_0002
@@ -20508,13 +20527,13 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-19'
     converted_on: '2026-07-19'
-    promoted_on:
+    promoted_on: '2026-07-19'
   converted_path: imports/converted/internet-archive/b31362692_0002-history-of-melanesian-society-v2-rivers.md
   canonical_path: texts/public-domain/melanesian/internet-archive/history-of-melanesian-society-v2-rivers.md
   manifest_path: manifests/internet-archive/b31362692_0002-history-of-melanesian-society-v2-rivers.yml
   extraction_dir: extractions/melanesian/internet-archive/history-of-melanesian-society-v2-rivers
 - id: siberian.aboriginal_siberia.czaplicka_archive
-  status: converted
+  status: ingested
   priority: high
   source: internet_archive
   source_id: aboriginalsiberi00czap
@@ -20573,13 +20592,13 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-19'
     converted_on: '2026-07-19'
-    promoted_on:
+    promoted_on: '2026-07-19'
   converted_path: imports/converted/internet-archive/aboriginalsiberi00czap-aboriginal-siberia-czaplicka.md
   canonical_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
   manifest_path: manifests/internet-archive/aboriginalsiberi00czap-aboriginal-siberia-czaplicka.yml
   extraction_dir: extractions/siberian/internet-archive/aboriginal-siberia-czaplicka
 - id: finnic.finno_ugric_siberian_mythology.holmberg_archive
-  status: converted
+  status: ingested
   priority: high
   source: internet_archive
   source_id: mythologyofallra04unse
@@ -20641,13 +20660,13 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-19'
     converted_on: '2026-07-19'
-    promoted_on:
+    promoted_on: '2026-07-19'
   converted_path: imports/converted/internet-archive/mythologyofallra04unse-finno-ugric-siberian-mythology-holmberg.md
   canonical_path: texts/public-domain/finnic/internet-archive/finno-ugric-siberian-mythology-holmberg.md
   manifest_path: manifests/internet-archive/mythologyofallra04unse-finno-ugric-siberian-mythology-holmberg.yml
   extraction_dir: extractions/finnic/internet-archive/finno-ugric-siberian-mythology-holmberg
 - id: finnic.pre_and_proto_historic_finns.abercromby_vol1_archive
-  status: converted
+  status: ingested
   priority: low
   source: internet_archive
   source_id: preandprotohist01abergoog
@@ -20707,13 +20726,13 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-19'
     converted_on: '2026-07-19'
-    promoted_on:
+    promoted_on: '2026-07-19'
   converted_path: imports/converted/internet-archive/preandprotohist01abergoog-pre-and-proto-historic-finns-v1-abercromby.md
   canonical_path: texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v1-abercromby.md
   manifest_path: manifests/internet-archive/preandprotohist01abergoog-pre-and-proto-historic-finns-v1-abercromby.yml
   extraction_dir: extractions/finnic/internet-archive/pre-and-proto-historic-finns-v1-abercromby
 - id: finnic.pre_and_proto_historic_finns.abercromby_vol2_archive
-  status: converted
+  status: ingested
   priority: low
   source: internet_archive
   source_id: preandprotohisto02aber
@@ -20772,7 +20791,7 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-19'
     converted_on: '2026-07-19'
-    promoted_on:
+    promoted_on: '2026-07-19'
   converted_path: imports/converted/internet-archive/preandprotohisto02aber-pre-and-proto-historic-finns-v2-abercromby.md
   canonical_path: texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v2-abercromby.md
   manifest_path: manifests/internet-archive/preandprotohisto02aber-pre-and-proto-historic-finns-v2-abercromby.yml

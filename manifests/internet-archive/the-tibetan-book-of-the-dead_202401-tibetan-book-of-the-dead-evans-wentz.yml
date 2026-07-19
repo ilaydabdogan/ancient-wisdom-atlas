@@ -1,0 +1,70 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_the-tibetan-book-of-the-dead_202401
+  work_id: tibetan.book_of_the_dead.evans_wentz_archive
+  title: The Tibetan Book of the Dead
+  source_url: https://archive.org/details/the-tibetan-book-of-the-dead_202401
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/internet-archive/the-tibetan-book-of-the-dead_202401-tibetan-book-of-the-dead-evans-wentz.txt
+    checksum:
+      algorithm: sha256
+      value: 4c225fe1d68229034ad996072e47a396e00f06af38a47cd6d9b42c66902bca0f
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/internet-archive/the-tibetan-book-of-the-dead_202401-tibetan-book-of-the-dead-evans-wentz.md
+    checksum:
+      algorithm: sha256
+      value: cd0df964a174822eaf9227609ec8e5dba94b74ff6eeb103db481c0b776a2bfc6
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/tibetan/internet-archive/tibetan-book-of-the-dead-evans-wentz.md
+    checksum:
+      algorithm: sha256
+      value: d6894d14017931d52f1b6bcc5cff0eee6fe16e01c85abf44ef1e1aded2acc493
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids tibetan.book_of_the_dead.evans_wentz_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    full_text: allowed
+    training_use: allowed
+    notes: 'First published 1927 (pre-1930), US public domain since 2023. Mixed: Dawa-Samdup''s
+      verbatim translation of the Bardo Thodol wrapped in Evans-Wentz''s extensive
+      editorial introduction and commentary. Retried on a live, non-restricted identifier
+      (no lending restriction). OCR of a scan; expect OCR noise.'
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

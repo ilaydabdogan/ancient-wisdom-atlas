@@ -67,116 +67,6 @@ figures:
 
 # Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697, Volume 1
 
-ates
-Lappe eng
-a
-bs pails
-
-
-er
-
-
-eP
-
-
-na
-
-
-{ Nil
-put
-
-
-ah
-
-
-}
-fy
-
-
-arog wah
-wr fe
-
-
-ea ght Lat
-nf ti,
-
-
-aN
-
-
-S
-<
-
-
-By
-
-
-any
-dias pd
-A >:
-
-
-a
-~
-
-
-TRANSACTIONS AND PROCEEDINGS
-
-
-OF
-
-
-THE JAPAN SOCIETY, LONDON.
-
-
-SUPPLEMENT I.
-
-
-NIHONGI,
-
-
-Chronicles of Japan from the Earliest Times to 4.v. 697.
-
-
-TRANSLATED FROM THE ORIGINAL CHINESE AND JAPANESE
-
-
-BY
-~
-
-
-W. G. ASTON, C.M.G.
-Honorary Member of the Fapan Society, &c.
-
-
-VOLUME I.
-
-Freer G ler of Are
-
-Washingion-.
-LONDON, 1806.
-
-PUBLISHED FOR THE SOCIETY BY
-KEGAN PAUL, TRENCH, TRUBNER - & Co.,. LIMITED,
-PATERNOSTER HOUSE, CHARING CROSS ROAD, W.C.
-[All Rights Reserved.|
-
-
-“ere
-
-
-oY}
-
-
-991
-
-
-iNG 9 die
-
-
-Vi |
-
-
 PREFACE.
 
 
@@ -190,18 +80,15 @@ acquainted with the English language, and who may have the
 curiosity to learn in what light their ancient history and
 traditions are viewed by a Western student.
 
-As only a limited sale of a work of this kind could be ex-
-pected, the translator was fortunate in being relieved from
+As only a limited sale of a work of this kind could be expected, the translator was fortunate in being relieved from
 all pecuniary responsibility for its publication by the Japan
-Society. His special acknowledgments are due to those mem-
-bers by whose liberality a guarantee fund for this purpose has
+Society. His special acknowledgments are due to those members by whose liberality a guarantee fund for this purpose has
 been. provided.
 
 It remains for him to express his indebtedness to other
 workers, by whose labours in the field of Japanese and Chinese -
 learning he has freely profited. The writings of Messrs.
-Chamberlain and Satow’ have been placed under frequent con-
-tribution, and for the latter part of the work, the scholarly
+Chamberlain and Satow’ have been placed under frequent contribution, and for the latter part of the work, the scholarly
 German translation of the Wzhongz, by Dr. Florenz, has been of
 the greatest possible assistance. He should also mention the
 names of Williams, Giles, Parker, Mayers, Gubbins, Hepburn,
@@ -222,8 +109,7 @@ Amongst native Japanese writers the chief authorities have
 been the famous scholars Motooéri and Hirata. Their religious
 and patriotic prejudices often lead them to take views from
 which a European reader is forced to dissent, but no Western
-scholar can hope to rival or even to approach their vast eru-
-dition, clothed as it is in an easy and graceful style, undisfigured
+scholar can hope to rival or even to approach their vast erudition, clothed as it is in an easy and graceful style, undisfigured
 by pedantry. The translator gladly seizes this opportunity of
 expressing the strong admiration which he has long entertained
 for them. For the Notes, the SZ#kaz edition of the Vizhongi
@@ -345,8 +231,7 @@ Accession A.D,
 INTRODUCTION.
 
 
-Writing.—The art of writing is one of the numerous ele-
-ments of civilization for which Japan is indebted to China.
+Writing.—The art of writing is one of the numerous elements of civilization for which Japan is indebted to China.
 The date of its first introduction is not definitely known.
 There are indications that some acquaintance with the Chinese
 written character was possessed by individuals in Japan during
@@ -361,8 +246,7 @@ institutions and manners, not less profound and far-reaching
 than that produced in our own time by the influence of
 European ideas.
 
-From its geographical position, Corea was the natural inter-
-mediary by which China became known to Japan. In these
+From its geographical position, Corea was the natural intermediary by which China became known to Japan. In these
 early times there was no direct sea communication between the
 two last-named countries. Travellers crossed the Strait from
 Japan to Corea, and pursued the rest of their journey by the
@@ -395,9 +279,7 @@ years should probably be added. In the following reign
 (Richiu’s) ‘‘ recorders were appemited in the provinces in order
 to note down words and events.” But from the specimens of
 their reports which are preserved in the Vzhongi, these officials
-do not seem to have contributed much of importance to his-
-torical knowledge. Fabulous stories and accounts of mon-
-strosities and portents form the staple of their compositions.
+do not seem to have contributed much of importance to historical knowledge. Fabulous stories and accounts of monstrosities and portents form the staple of their compositions.
 It may be inferred, however, that such functionaries were
 already in existence at the capital, and indeed we find mention
 at this time of hereditary corporations of fumi-bito or scribes,
@@ -407,8 +289,7 @@ court of the Mikado.
 
 History. The Kiujiki.—The first literary efforts of the
 Japanese took the direction of history. No doubt the Norito
-or rituals of the Shinto religion and some poetical composi-
-tions date from an earlier period. But they do not seem to.
+or rituals of the Shinto religion and some poetical compositions date from an earlier period. But they do not seem to.
 have been committed to writing. The earliest book of which we
 find mention is the Azujzkz or Kujzki (Chronicle of old matters.
 of former ages), which was compiled in a.p. 620 under high
@@ -431,8 +312,7 @@ INTRODUCTION. Xill
 
 
 portion and a list of local governors. The historical part is
-almost word for word the same as the zhong, which, how-
-ever, is very much fuller, and is brought down to a much later
+almost word for word the same as the zhong, which, however, is very much fuller, and is brought down to a much later
 period.
 
 The Kojiki,—In 4.p. 682 a number of Princes and High
@@ -479,15 +359,13 @@ or less patchwork appearance, and falls far short of the stan-
 XIV INTRODUCTION.
 
 
-dard of uniformity of style and method which we are accus-
-tomed to look for in historical compositions.
+dard of uniformity of style and method which we are accustomed to look for in historical compositions.
 
 Materials for the Nihongi.—The remains of the Kiujiki
 must have formed a very important element of the authors”
 material. Indeed I lean to the belief that whether the present
 Kiujiki is authentic or not, much of the earlier part of the
-Nthongi (except the first two books) is practically the composi-
-tion of the illustrious Shotoku Daishi, its reputed author.
+Nthongi (except the first two books) is practically the composition of the illustrious Shotoku Daishi, its reputed author.
 It is recorded that he was a profound student of Buddhism and
 of Chinese classical literature, and internal evidence shows
 that the writer of this part of the Vzhongi was well versed in
@@ -533,9 +411,7 @@ with it. Some are, no doubt, of still greater antiquity.
 An institution which must have contributed substantially,
 though perhaps indirectly, to the collection and conservation
 of the materials for the more legendary part of the Wzhongi
-was the Katari Be, or hereditary corporation of reciters. Un-
-fortunately we know very little about it. Hirata, in his Koshz-
-cho, states, on what authority does not appear, that the Katari
+was the Katari Be, or hereditary corporation of reciters. Unfortunately we know very little about it. Hirata, in his Koshzcho, states, on what authority does not appear, that the Katari
 Be came forward and recited ‘‘ancient words” before the
 Emperor at the festival of Ohonihe when he inaugurated his
 reign by sacrifices to the Gods. It is not probable that their
@@ -597,16 +473,14 @@ and assimilated the civilization of China, material, moral,
 and political, together with the Buddhist religion, thereby
 profoundly modifying the entire course of their future history.
 The defects of the Vzhongz are due partly to the uncritical
-spirit of the age when it was written, but mainly to the circum-
-stance that the authors were accomplished scholars deeply
+spirit of the age when it was written, but mainly to the circumstance that the authors were accomplished scholars deeply
 imbued with ideas derived from the classical and _ historical
 literature of ancient China. With exceptions to be noticed
 presently, the work is composed in the Chinese language.
 This is in itself an obstacle to the faithful representation of
 things Japanese. But unfortunately it is not all. Chinese ideas
 and traits of Chinese manners and customs are frequently
-brought in where they have no business. In the very first para-
-graph we have an essay spiced with Chinese philosophical
+brought in where they have no business. In the very first paragraph we have an essay spiced with Chinese philosophical
 terms which reads strangely incongruous as a preface to the
 native cosmogonic myth. Battle axes are mentioned at a time
 when no such weapons were in use by the Japanese, stone
@@ -662,8 +536,7 @@ When it is remembered that there was no official recognition
 of the art of writing in Japan until a.p.. 405, and that the
 first mention of calendar-makers belongs to a.p. 553, the
 historical value of such chronology may be readily estimated.
-After the Christian epoch there may have been some blunder-
-ing and unsuccessful endeavours to give the right years, but for
+After the Christian epoch there may have been some blundering and unsuccessful endeavours to give the right years, but for
 several centuries longer the months and days must have been
 simply supplied from the writers’ imagination. Even so late
 as the beginning of the 5th century the chronology can be shown
@@ -710,8 +583,7 @@ that it after all presents a very full and varied picture of the
 civilization, manners and customs, and political, moral, and
 religious ideas of the ancient Japanese. Even the large untrue
 element which it contains is not without its value. Bad
-history may be good mythology or folk-lore, and state-
-ments the most wildly at variance with fact often throw a
+history may be good mythology or folk-lore, and statements the most wildly at variance with fact often throw a
 useful light on the beliefs or institutions of the age when they
 became current.
 
@@ -798,8 +670,7 @@ little to choose between the Kojzk? and Nihong?t. The Kajeki
 is on the whole the fuller of the two, and contains legends
 which the Wzhongi passes over in silence, but the latter work,
 as we now have it, is enriched by variants of the early myths,
-the value of which for purposes of comparison will be recog-
-nized by scientific inquirers.
+the value of which for purposes of comparison will be recognized by scientific inquirers.
 
 But there can be no comparison between the two works
 when viewed as history. Hiyeda no Are’s memory, however
@@ -869,9 +740,7 @@ Royal Geographical Society, and which may be briefly described
 as—‘ the vowels as in Italian, the consonants as in English.”
 There are no silent letters.
 
-Some inconsistencies will doubtless be observed in the spell-
-ing of proper names, in regard to which the Japanese them-
-selves are often very vague. There is a good deal of confusion
+Some inconsistencies will doubtless be observed in the spelling of proper names, in regard to which the Japanese themselves are often very vague. There is a good deal of confusion
 between the hard and soft.consonants ¢ and d, ch or sh andy, x
 and 6, and & and g, which it is difficult for a European scholar
 always to avoid.
@@ -956,8 +825,7 @@ writing, styling it the Nihon-shoki, which is its most usual literary designa--
 tion at the present time. It is also spoken of as the “ Shoki.”
 
 * The first two books of the “ Nihongi” contain the myths which form the
-basis of the Shinto religion. For the further study of this subject, Chamber-
-lain’s admirably faithful translation of the Kojiki, and Satow’s contributions.
+basis of the Shinto religion. For the further study of this subject, Chamberlain’s admirably faithful translation of the Kojiki, and Satow’s contributions.
 to the “J.A.S.T.” will be found indispensable. _ Griffis’s “ Religions of Japan ”
 may also be consulted with advantage.
 
@@ -966,9 +834,6 @@ See “ Mayer’s Chinese Manual,” p. 293.
 
 
 B
-
-
-2 NIHONGI.
 
 
 egg which was of obscurely defined limits and contained
@@ -1010,8 +875,7 @@ this subject can afford to neglect it.
 
 The corresponding passage of the “ Kiujiki” (vzde Index) is as follows :—
 “ Of old, the original essence was a chaotic mass. Heaven and Earth had
-not yet been separated, but were like an egg, of ill-defined limits and con-
-taining germs. Thereafter, the pure essence, ascending by degrees, became
+not yet been separated, but were like an egg, of ill-defined limits and containing germs. Thereafter, the pure essence, ascending by degrees, became
 thinly spread out, and formed Heaven. The floating grosser essence sank
 ‘heavily, and, settling down, became Earth. What we call countries were
 meaning.
@@ -1057,8 +921,7 @@ the gods is obscure, and. these renderings must be accepted with caution.
 Compare the notes to Chamberlain’s “ Kojiki,” where much attention has
 been given-to this subject. It may be remarked that there is great and
 inextricable confusion as to the early deities between the various. ancient
-authorities, the -“ Kojiki,” the “ Kiujiki,” the “ Kogojiui,” the various docu-
-ments quoted in the “ Nihongi,” and the “ Nihongi ” itself.
+authorities, the -“ Kojiki,” the “ Kiujiki,” the “ Kogojiui,” the various documents quoted in the “ Nihongi,” and the “ Nihongi ” itself.
 
 * The Chinese = jit? means simply three deities. But the interlinear
 Kana has mi-bashira no Kami, ie. Deities, three pillars, hashira or
@@ -1090,32 +953,24 @@ B 2
 ww
 
 
-4 NIHONGI.
-
-
 These were pure males spontaneously developed by the
 operation of the principle of Heaven.
 
 In one writing it is said :*—‘‘ When Heaven and Earth
 began, a thing existed in the midst of the Void Its shape
-may not be described. Within it a Deity. was sponta-
-neously produced, whose name was Kuni-toko-tachi no
+may not be described. Within it a Deity. was spontaneously produced, whose name was Kuni-toko-tachi no
 Mikoto, also called Kuni-soko-tachi* no Mikoto. Next
 there was Kuni no sa-tsuchi no Mikoto, also called Kuni
-no sa-tachi® no Mikoto. Next there was Toyo-kuni-
-nushi" no Mikoto, also called Toyo-kumu-nu’ no Mikoto,
+no sa-tachi® no Mikoto. Next there was Toyo-kuninushi" no Mikoto, also called Toyo-kumu-nu’ no Mikoto,
 Toyo-ka-fushi-no * no Mikoto, Uki-fu-no-toyo-kahi’ no
 Mikoto, Toyo-kuni-no' no Mikoto, Toyo-kuhi-no" no
 Mikoto, Ha-ko-kuni-no” no Mikoto, or Mi-no” no
 Mikoto.”
 
 In one writing it is said :—‘* Of old, when the land was
-young and the earth young, it floated about, as it were float-
-ing oil. Atthistimea thing was produced within the land,
+young and the earth young, it floated about, as it were floating oil. Atthistimea thing was produced within the land,
 in shape like a reed-shoot when it sprouts forth. From this
-there was a Deity developed, whose name was Umashi-
-ashi-kabi-hiko-ji *no Mikoto. Nextthere was Kuni no toko-
-tachi no Mikoto, and next Kuni no sa-tsuchi no Mikoto.”’
+there was a Deity developed, whose name was Umashiashi-kabi-hiko-ji *no Mikoto. Nextthere was Kuni no tokotachi no Mikoto, and next Kuni no sa-tsuchi no Mikoto.”’
 
 
 1 The principle of Heaven is the same thing as the Y6 or male principle
@@ -1172,13 +1027,10 @@ next Taka-mi-musubi* no Mikoto, next Kami-mi-musubi *
 no Mikoto.”’ |
 
 In one writing it is said :—‘‘ Before Heaven and Earth
-were produced, there was something which might be com-
-pared to a cloud floating over the sea. It had no place of
+were produced, there was something which might be compared to a cloud floating over the sea. It had no place of
 attachment for its root. In the midst of this a thing was
 generated which resembled a ‘reed-shoot when it is first
-produced in the mud. This became straightway trans-
-formed into human’ shape and was called Kuni no toko-
-tachi no Mikoto.”
+produced in the mud. This became straightway transformed into human’ shape and was called Kuni no tokotachi no Mikoto.”
 
 In one writing it is said:—‘‘ When Heaven and Earth
 began, a thing was produced in the midst of the Void,
@@ -1210,9 +1062,6 @@ by Kami, deity.
 
 
 i
-
-
-6 NIHONGI.
 
 
 which a God was developed, called Kuni toko-tachi no
@@ -1265,8 +1114,7 @@ abstinence, taboo. Kashiki is probably only another form of Kashiko,
 awful.- Awo is green.
 
 * Izana is the root of a verb izanafu, to invite ; gi, a masculine, and mi, a
-feminine termination. These two names may therefore be rendered male-
-who-invites and female-who-invites. But it may be suspected that this is,
+feminine termination. These two names may therefore be rendered malewho-invites and female-who-invites. But it may be suspected that this is,
 after all, merely a volks-etymologie, and that Iza or Isa is simply the name
 of a place, na being another form of no, the genitive particle. Isa is known
 to Japanese myth. We shall find an Isa well in Heaven spoken of
@@ -1342,11 +1190,7 @@ Toyo-kuni-nushi no Mikoto.
 rich land master
 
 
-NIHONGI.
-
-
-In one writing it is said :—‘‘ The gods that were pro-
-duced in pairs, male and female, were first of all Uhiji ni
+In one writing it is said :—‘‘ The gods that were produced in pairs, male and female, were first of all Uhiji ni
 
 
 A Branch.
@@ -1465,9 +1309,6 @@ Kogoto-dama no Mikoto.
 (?)
 
 
-10 NIHONGI.
-
-
 Omo-taru no Mikoto and Kashiko-ne no Mikoto, and next
 Izanagi no Mikoto and Izanami no Mikoto.”
 
@@ -1519,15 +1360,13 @@ very conjectural. Some are probably names of places. Possibly some of
 the obscurer names are Corean. The “ Seishiroku” speaks of a Corean
 Sagiri no Mikoto, and other known Corean Deities were worshipped in
 Japan. The reader will do well to consult here Satow’s “ Japanese Rituals”
-in “J.A.S.T.,” Vol. VI., Pt. II., p. 120, where he makes the pregnant sug-
-gestion that the sun was the earliest among. the powers of nature to be
+in “J.A.S.T.,” Vol. VI., Pt. II., p. 120, where he makes the pregnant suggestion that the sun was the earliest among. the powers of nature to be
 de‘fied, and that the long series of gods who precede her in the cosmogony
 of the “ Kojiki” and “ Nihongi,” most of whom are shown by their names to
 have been mere abstractions, were invented.to give her a genealogy.
 
 ‘Hirata conjectures that the jewel-spear (nu-boko or tama-boko) of
-Heaven was in form like a wo-bashira. Wo-bashira means literally male-
-pillar. This word is usually applied to the end-posts
+Heaven was in form like a wo-bashira. Wo-bashira means literally malepillar. This word is usually applied to the end-posts
 or pillars of a railing or balustrade, no doubt on
 account of the shape of the top, which ends in a sort
 of a ball (the nu or tama), supposed to resemble the
@@ -1542,8 +1381,7 @@ A writer quoted in the Tst-sho commentary
 on the ‘“ Nihongi,” says that the Tama-boko (or
 nu-boko) is the root of coition.
 
-The late Mr. J. O’Neill, in his “ Night of the Gods” (pp. 31, 37, 67), pro-
-posed the theory that this spear and other spears of myth “are but symbols
+The late Mr. J. O’Neill, in his “ Night of the Gods” (pp. 31, 37, 67), proposed the theory that this spear and other spears of myth “are but symbols
 of the Earth-axis and its prolongation,” an idea which is worked out with
 much ingenuity and learning in that remarkable work. At p. 88 he argues
 that this view is not inconsistent with the phallic interpretation.
@@ -1567,9 +1405,6 @@ Sacred Mountain Nan-tai (male-form), which was visited every summer by
 
 
 Wo-bashira.
-
-
-12 NIHONGI.
 
 
 dripped from the point of the spear coagulated and became
@@ -1612,8 +1447,7 @@ _ Implements,” Plate VII., are probably phalli. Their size precludes the
 
 view that they were used as weapons.
 
-It may be, however, that both the Earth-axis and the phallic interpreta-
-tions of the nu-boko are too subtle. The Hoko may after all be a spear and
+It may be, however, that both the Earth-axis and the phallic interpretations of the nu-boko are too subtle. The Hoko may after all be a spear and
 nothing more, and the nu or jeriel merely an ornate epithet, as indeed Hirata
 suggests.
 
@@ -1651,8 +1485,7 @@ Then he inquired of the female deity, saying :—“‘ In thy body
 is there aught formed?” She answered, and said :—‘‘ In my
 body there is.a place which is the source of femineity.” The
 male deity said :—‘‘ In my body again there is a place which is
-the source of masculinity. I wish to unite this source-
-place of my body to the source-place of thy body.” Hereupon
+the source of masculinity. I wish to unite this sourceplace of my body to the source-place of thy body.” Hereupon
 the male and female first became united as husband and
 wife.
 
@@ -1692,20 +1525,13 @@ at that time. (See above, p. I.)
 1.6;
 
 
-1593
-
-
 i.
-
-
-14 NIHONGI.
 
 
 were born as twins. This is the prototype of the twin-births
 which sometimes take place among mankind.
 
-Next was born the island of Koshi,' then the island of Oho-
-shima, then the island of Kibi no Ko.
+Next was born the island of Koshi,' then the island of Ohoshima, then the island of Kibi no Ko.
 
 Hence first arose the designation of the Oho-ya-shima *
 country.
@@ -1714,12 +1540,10 @@ Then the islands of Tsushima and Iki, with the small islands
 in various parts, were produced by the coagulation of the
 foam of the salt-water.
 
-It is also stated that they were produced by the coagu-
-lation of the foam of fresh water.
+It is also stated that they were produced by the coagulation of the foam of fresh water.
 
 ‘In one writing it is said:—‘‘The Gods of Heaven
-addressed Izanagi no Mikoto and Izanami no Mikoto, say-
-ing: ‘There is the country Toyo-ashi-hara-chi-i-wo-aki no
+addressed Izanagi no Mikoto and Izanami no Mikoto, saying: ‘There is the country Toyo-ashi-hara-chi-i-wo-aki no
 midzu-ho.* Do ye proceed and bring it into order.’ They
 then gave them the jewel-spear of Heaven. Hereupon
 the two Gods stood on the floating bridge of Heaven, and
@@ -1742,13 +1566,12 @@ the source of masculinity. I desire to unite my source of
 ‘ Koshi is not anisland. It comprises the present provinces of Ettchiu,
 Echigo, and Echizen.
 
-> These two are not clear. Kibi is now Bingo, Bizen, and Bittchiu. Ko,
+) These two are not clear. Kibi is now Bingo, Bizen, and Bittchiu. Ko,
 “child or small,” perhaps refers to the small islands of the Inland Sea.
 
 3 Great-eight-island.
 
-* Abundant-reed-plain, thousand-five-hundred-harvest (or autumn) fair-
-ears.
+* Abundant-reed-plain, thousand-five-hundred-harvest (or autumn) fairears.
 
 » The “ Kiujiki” makes the nu-boko or jewel-spear the central pillar of
 the house which they erected. Eight-fathom is simply a poetical expression
@@ -1785,8 +1608,7 @@ having divined a time, they went down. The two deities
 
 ' The leech was identified in after times with the God Yebisu. See
 Anderson’s Catalogue of Paintings in the British Museum, p. 36. Hirata
-attempts to show that he was the same as Sukuna-bikona, but is not con-
-vincing. The reed boat recalls the Accadian legend of Sargon and his ark
+attempts to show that he was the same as Sukuna-bikona, but is not convincing. The reed boat recalls the Accadian legend of Sargon and his ark
 of rushes, the Biblical story of, Moses as an infant and many more, for which
 the curious reader may consult the late John O’Neill’s “ Night of the Gods,”
 
@@ -1800,17 +1622,13 @@ fF
 - I0.
 
 
-16 NIHONGI.
-
-
 accordingly went again round the pillar, the male Deity
 from the left,’ and the female Deity from the ‘right.
 When they met, the male Deity spoke first and said :—
 “How pretty! a lovely maiden!” The female Deity
 next answered and said :—“‘ How pretty! a lovely youth ! ”
 Thereafter they dwelt together in the same palace and had
-children, whose names were Oho-yamato no Toyo-aki-tsu-
-shima, next the island of Ahaji, next the island of Iyo no
+children, whose names were Oho-yamato no Toyo-aki-tsushima, next the island of Ahaji, next the island of Iyo no
 futa-na, next the island of Tsukushi, next the triplet
 islands of Oki, next the island of Sado, next the island of
 Koshi, next the island of Kibi-no-ko. The country was
@@ -1866,23 +1684,20 @@ artem coeundi potiti sunt.
 In one writing it is said:—‘‘The two Deities were
 united and became husband and wife. First of all, the
 islands of Ahaji and Aha being considered the placenta,”
-they produced the island of Oho-yamato no Toyo-
-aki-tsu-shima, next the island of Iyo, next the island of
+they produced the island of Oho-yamato no Toyoaki-tsu-shima, next the island of Iyo, next the island of
 Tsukushi, next, as twins, the islands of Oki and Sado,
 next the island of Koshi, next Oho-shima, and next
 Kojima.”
 
 In one writing it is said :—‘‘ First there was born the
-island of Ahaji, next the island of Oho-yamato no Toyo-
-aki-tsu-shima, next the island of Iyo no futa-na, next the
+island of Ahaji, next the island of Oho-yamato no Toyoaki-tsu-shima, next the island of Iyo no futa-na, next the
 island of Oki, next the island of Sado, next the island of
 Tsukushi, next the island of Iki, and next the island of
 ~Tsushima.”
 
 In one writing it is said :—‘‘ The island of Ono-goro
 being considered the placenta, there was born the island
-of Ahaji, next the island of Oho-yamato no Toyo-aki-
-tsu, next the island of Iyo no futa-na, next the island
+of Ahaji, next the island of Oho-yamato no Toyo-akitsu, next the island of Iyo no futa-na, next the island
 of Tsu-kushi, next the island of Kibi no ko, next, as
 twins, the islands of Oki and Sado, and next the island
 of Koshi.”
@@ -1911,9 +1726,6 @@ Cc
 It.
 
 
-18 NIHONGI.
-
-
 forthwith took the hand of the male Deity, and they at
 length became husband and wife. There was born to
 them the island of Ahaji, and next the leech-child.”’
@@ -1923,9 +1735,7 @@ mountains. Then they produced Ku-ku-no-chi, the ancestor
 of the trees, and next the ancestor of herbs, Kaya no hime.'
 Also called Nudzuchi.
 
-After this Izanagi no Mikoto and Izanami no Mikoto con-
-sulted together, saying :—‘‘ We have now produced the Great-
-eight-island country, with the mountains, rivers, herbs, and
+After this Izanagi no Mikoto and Izanami no Mikoto consulted together, saying :—‘‘ We have now produced the Greateight-island country, with the mountains, rivers, herbs, and
 trees. Why should we not produce someone who shall be
 lord of the universe?” They then together produced the Sun-
 Goddess, who was called Oho-hiru-me no muchi.’*
@@ -1935,8 +1745,7 @@ In one writing she is called Ama-terasu-oho-hiru-me no
 Mikoto.°
 
 The resplendent lustre of this child shone throughout
-all the six quarters.° Therefore the two Deities rejoiced, say-
-ing :—‘‘ We have had many children, but none of them have
+all the six quarters.° Therefore the two Deities rejoiced, saying :—‘‘ We have had many children, but none of them have
 been equal. to this wondrous infant. She ought not to be
 kept long in this land, but we ought of our own accord to
 send her at once to Heaven, and entrust to her the affairs of
@@ -1959,10 +1768,7 @@ in the modern chichi, father, and kaya is the name of a kind of rush used
 for thatching. Nu-dzu-chi, moor-of-father.
 
 
-2 Universe. In the original, tenka, i.e. that which is under Heaven, sub-
-
-
-sequently the usual word for the Empire.
+2 Universe. In the original, tenka, i.e. that which is under Heaven, subsequently the usual word for the Empire.
 
 
 3 Oho-hirus‘me no muchi. Great-noon-female-of-possessor.
@@ -1983,8 +1789,7 @@ Maori myth, quoted by Lang, “Custom and Myth,” p45.
 THe AGE OF THE GOoDs. 10
 
 
-Called in one writing Tsuki-yumi' no Mikoto, or Tsvki-
-yomi no Mikoto.
+Called in one writing Tsuki-yumi' no Mikoto, or Tsvkiyomi no Mikoto.
 
 His radiance was next to that of the Sun in splendour.
 This God was to be the consort of the Sun-Goddess, and to
@@ -2049,9 +1854,6 @@ C 2
 ae
 
 
-20 NIHONGI.
-
-
 Sosa no wo no Mikoto, saying :—‘‘ Thou art exceedingly
 wicked, and it is not meet that thou shouldst reign over the
 world. Certainly thou must depart far away to the Nether-
@@ -2077,21 +1879,17 @@ Land.”
 
 In one writing it is said :—‘‘ After the sun and moon,
 the next child which was born was the leech-child. When
-this child had completed his third year, he was neverthe-
-less still unable to stand upright. The reason why the
+this child had completed his third year, he was nevertheless still unable to stand upright. The reason why the
 leech-child was born was that in the beginning, when
 Izanagi no Mikoto and Izanami no Mikoto went round
-the pillar, the female Deity was the first to utter an ex-
-clamation of pleasure, and the law of male and female was
+the pillar, the female Deity was the first to utter an exclamation of pleasure, and the law of male and female was
 therefore broken. They next procreated Sosa no wo no
 Mikoto. This God was of a wicked nature, and was
 always fond of wailing and wrath. Many of the people of
-the land died, and the green mountains withered. There-
-fore his parents addressed him, saying: ‘ Supposing that
+the land died, and the green mountains withered. Therefore his parents addressed him, saying: ‘ Supposing that
 thou wert to rule this country, much destruction of life
 would surely ensue. Thou must govern the far-distant
-Nether Land.’ Their next child was the bird-rock-cam-
-phor-wood boat of Heaven. They forthwith took this
+Nether Land.’ Their next child was the bird-rock-camphor-wood boat of Heaven. They forthwith took this
 
 
 1 Ne no kuni, lit. the root-country, by which Hades or Yomi is no doubt
@@ -2133,8 +1931,7 @@ Hani-yama-hime.
 In one writing it is said:—‘‘ When Izanami no Mikoto
 gave birth to the Fire-God, she was burnt, and died. She
 was, therefore, buried at the village of Arima in Kumano,
-in the province of Kii. In the time of flowers, ‘the in-
-habitants worship the spirit of this Goddess by offerings of
+in the province of Kii. In the time of flowers, ‘the inhabitants worship the spirit of this Goddess by offerings of
 
 
 1 Kagu tsuchi was the God of Fire. Tsu is here probably the genitive
@@ -2160,25 +1957,19 @@ mining.
 late
 
 
-22 NIHONGI,
-
-
 flowers. They also worship her with drums, flutes, flags,
 singing and dancing.”
 
 _ In one writing it is said:—‘“Izanagi no Mikoto and
-Izanami no Mikoto, having together procreated the Great-
-eight-island Land, Izanagi no Mikoto said: ‘Over the
+Izanami no Mikoto, having together procreated the Greateight-island Land, Izanagi no Mikoto said: ‘Over the
 country which we have produced there is naught but
 morning mists which shed a perfume everywhere!’ So
 he puffed them away with a breath, which became
 changed into a God, named Shina tohe no Mikoto. He
 is also called Shina’ tsu hiko no Mikoto. This is the
-God of the Wind. Moreover, the child which they pro-
-created when they were hungry was called Uka no
+God of the Wind. Moreover, the child which they procreated when they were hungry was called Uka no
 mi-tama” no Mikoto. Again they produced the Sea-Gods,
-who were called Wata® tsu mi no Mikoto, and the Moun-
-tain-Gods, who were called Yama tsu mi, the Gods of the
+who were called Wata® tsu mi no Mikoto, and the Mountain-Gods, who were called Yama tsu mi, the Gods of the
 River-mouths, who were called Haya-aki'-tsubi no Mikoto,
 the Tree-Gods, who were called Ku-ku no chi, and the
 Earth-Goddess, who was called Hani-yasu’ no Kami.
@@ -2209,8 +2000,7 @@ body.
 7 The ancient Japanese word for younger sister was imo, which is also
 applied to a wife. It may be doubted whether this justifies any adverse
 inference as to the morals of the Japanese in early times. “Sister” is used
-as an endearing epithet in the Song of Solomon where the relation is cer-
-tainly not that of brother and sister. It is true, however, that marriages were
+as an endearing epithet in the Song of Solomon where the relation is certainly not that of brother and sister. It is true, however, that marriages were
 allowed between brothers and sisters when of different mothers.
 
 
@@ -2263,7 +2053,7 @@ and next Kura-midzu-ha no Kami."
 4 i.e. The Milky Way. Yasu, easy, is probably in error for ya-so, eighty,
 i.e. manifold, having many reaches.
 
-> Jar-swift-sun. So written, but mika is probably a word meaning very or
+) Jar-swift-sun. So written, but mika is probably a word meaning very or
 mighty.
 
 6 Fire-swift-sun. See Ch. “ Kojiki,” p. 32. 7 Brave-jar-father.
@@ -2276,9 +2066,6 @@ mighty.
 
 
 peToe
-
-
-24 NIHONGI,
 
 
 Thereafter, Izanagi no Mikoto went after Izanami no
@@ -2404,15 +2191,10 @@ P3420:
 JR te
 
 
-26 NIHONGI.
-
-
 which was called Naga-chi-ha' no Kami. Moreover, he
 threw down his upper garment, which was called
 Wadzurahi? no Kami. Moreover, he threw down his
-trowsers, which were called Aki-gui* no Kami. More-
-over, he threw down his shoes, which were called Chi-
-shiki* no Kami.
+trowsers, which were called Aki-gui* no Kami. Moreover, he threw down his shoes, which were called Chishiki* no Kami.
 
 Some say that the Even Pass of Yomi is not any place
 in particular, but means only the space of time when the
@@ -2431,8 +2213,7 @@ purified himself. When at length he was about to wash
 away the impurities*® of his body, he lifted up his voice
 and said, “‘ The upper stream is too rapid and the lower
 stream is too sluggish, I will wash in the middle stream.”
-The God which was thereby produced was called Ya-so-
-maga-tsu-bi* no Kami, and then to remedy these evils
+The God which was thereby produced was called Ya-somaga-tsu-bi* no Kami, and then to remedy these evils
 
 
 Long-road-rock. * Disease or trouble.
@@ -2461,9 +2242,6 @@ Purgatory. For lustration as a widespread practice, consult Dr. Tylor’s
 9 Eighty-evils-of-body. Cf. Ch. ‘ Kojiki,” p. 41.
 
 
-1
-3
-4
 E]
 
 
@@ -2475,8 +2253,7 @@ Kami, and after him Oho-nawo-bi' no Kami.
 
 Moreover, the Deities which were produced by his
 plunging down and washing in the bottom of the sea
-were called Soko-tsu-wata-tsu-mi? no Mikoto and Soko-
-tsutsu-wo no Mikoto. Moreover, when he plunged and
+were called Soko-tsu-wata-tsu-mi? no Mikoto and Sokotsutsu-wo no Mikoto. Moreover, when he plunged and
 washed in the mid-tide, there were Gods produced who
 were called Naka* tsu wata-dzu-mi no Mikoto, and next
 -Naka-tsutsu-wo no Mikoto.* Moreover, when he washed
@@ -2485,8 +2262,7 @@ who were called Uha-tsu-wata-dzu-mi no Mikoto and next
 Uha'-tsutsu-wo no Mikoto. © There were in all nine Gods.
 The Gods Soko-tsutsu-wo no Mikoto, Naka-tsutsu-wo no
 Mikoto, and Soko-tsutsu-wo no Mikoto are the three
-great Gods of Suminoye. The Gods Soko-tsu-wata-dzu-
-mi no Mikoto, Naka-tsu-wata-dzu-mi no Mikoto, and
+great Gods of Suminoye. The Gods Soko-tsu-wata-dzumi no Mikoto, Naka-tsu-wata-dzu-mi no Mikoto, and
 Uha-tsu-wata-dzu-mi no Mikoto are the Gods worshipped *
 by the Muraji of Adzumi.’
 
@@ -2510,8 +2286,7 @@ Murajia title of honour. It is derived from mura, a village or assemblage,
 and ushi, master. These titles, called Uji or Kabane, though Kabane is
 properly the second or honorary “element, were in their origin simply
 official designations, and in the “ Nihongi” we frequently meet with cases
-where the office and the title are united inthe same person. They were, how-
-ever, hereditary, and by degrees the mere honorary element prevailed. It
+where the office and the title are united inthe same person. They were, however, hereditary, and by degrees the mere honorary element prevailed. It
 too, ultimately vanished, these titles becoming simply surnames to which no
 particular distinction was attached. Japanese writers, the author of the
 “ Nihongi” with the rest, have, for want of a more appropriate character,
@@ -2525,9 +2300,6 @@ way.
 iS)
 
 
-28 NIHONGI.
-
-
 left eye, which was called Ama-terasu-no-oho-Kami.'
 Then he washed his right eye, producing thereby a Deity
 who was called Tsuki-yomi no Mikoto.2. Then he washed
@@ -2539,8 +2311,7 @@ plain of High Heaven: do thou, Tsuki-yomi no Mikoto,
 rule the eight-hundred-fold tides of the ocean plain: do
 thou, Sosa no wo no Mikoto, rule the world.” At this
 time, Sosa no wo no Mikoto was already of full age. He
-had, moreover, grown a beard eight spans long. Never-
-theless, he neglected to rule the world, and was always
+had, moreover, grown a beard eight spans long. Nevertheless, he neglected to rule the world, and was always
 weeping, wailing, and fuming with rage. Therefore
 Izanagi no Mikoto inquired of him, saying, ‘‘ Why dost
 thou continually weep in this way?” He answered and
@@ -2603,8 +2374,7 @@ that herbs, trees, and pebbles naturally contain the
 element of fire.”’
 
 In one writing it is said: ‘‘ Izanagi no Mikoto, wishing
-to see his younger sister, went to the temporary burial-
-place. At this time, Izanami no Mikoto being still as she
+to see his younger sister, went to the temporary burialplace. At this time, Izanami no Mikoto being still as she
 was when alive came forth to meet him, and they talked
 together. She spoke to Izanagi no Mikoto and said, ‘ My
 august Lord and husband, I beseech thee not to look at
@@ -2624,16 +2394,13 @@ ran away. Then the thunders all arose and pursued him.
 * The numbers 500, 80, 8, 180, 10,000 are often put vaguely for a large
 number.
 
-> Rock-split. ® Root-split.
+) Rock-split. ® Root-split.
 
 * Rock-elder-male. * Greatemountain-of-person.
 
 
 9 Middle. WW Spur, vaeedon. KK .33.
 4 True-conquer or excel. Foundation.
-
-
-30 NIHONGI.
 
 
 Now by the roadside there grewa large peach tree,’ at the
@@ -2711,12 +2478,10 @@ Haya-sufu-na‘ gate. But the tide in these two gates was.
 exceeding strong. So he returned and took his way ,
 
 
-towards Wodo® in Tachibana. There he did his ablu-
-tions. At this time, entering the water, he blew out and
+towards Wodo® in Tachibana. There he did his ablutions. At this time, entering the water, he blew out and
 produced Iha-tsu-tsu’ no Mikoto ; coming out of the water,
 he blew forth and produced Oho-nawo-bi® no Kami.
-Entering a second time, he blew out and produced Soko-
-tsutsu '' no Mikoto ; coming out he blew forth and produced
+Entering a second time, he blew out and produced Sokotsutsu '' no Mikoto ; coming out he blew forth and produced
 Oho-aya-tsu-bi * no Kami. Entering again, he blew forth
 
 
@@ -2755,8 +2520,7 @@ blew out and produced the various deities of Heaven and
 Earth, and of the Sea-plain.”’
 
 In one writing it is said:—*‘ Izanagi no Mikoto charged
-his three children, saying, ‘ Do thou, Ama-terasu no Oho-
-kami, rule over the plain of High Heaven; do thou,
+his three children, saying, ‘ Do thou, Ama-terasu no Ohokami, rule over the plain of High Heaven; do thou,
 Tsuki-yomi no Mikoto, be associated with her in the
 charge: of Heavenly matters; do thou, Sosa no wo no
 Mikoto, govern the plain of Ocean.’
@@ -2764,8 +2528,7 @@ Mikoto, govern the plain of Ocean.’
 Now when Ama-terasu no Oho-kami was already in
 Heaven, she said:—‘I hear that in the Central country
 of reed-plains there is the Deity Uke-mochi no Kami.? Do
-thou, Tsuki-yomi no Mikoto, go and wait upon her.’ Tsuki-
-yomi no Mikoto, on receiving this command, descended
+thou, Tsuki-yomi no Mikoto, go and wait upon her.’ Tsukiyomi no Mikoto, on receiving this command, descended
 and went to the place where Uke-mochi no Kami was.
 Thereupon Uke-mochi no Kami turned her head towards
 the land, and forthwith from her mouth there came boiled
@@ -2785,8 +2548,7 @@ Deity. I must not see thee face to face.’ Sothey were
 separated by one day and one night, and dwelt apart.
 
 After this Ama-terasu no Oho-kami sent a second time
-Ame-kuma-bito* to go and see her. At this time Uke-
-mochi no Kami was truly dead already. But on the crown
+Ame-kuma-bito* to go and see her. At this time Ukemochi no Kami was truly dead already. But on the crown
 of her head there had been produced the ox and the horse;
 
 
@@ -2801,8 +2563,7 @@ Tue AGE OF THE Gobs. 34
 
 
 on the top of her forehead there had been produced
-millet ; over her eyebrows there had been produced the silk-
-worm ; within her eyes there had been produced panic; in
+millet ; over her eyebrows there had been produced the silkworm ; within her eyes there had been produced panic; in
 her belly there had been produced rice; in her genitals there
 had been produced wheat, large beans! and small beans.”
 Ame-kuma-bito carried all these things and delivered them
@@ -2829,8 +2590,7 @@ Upon this Sosa no wo no Mikoto made petition, saying :—
 “I will now obey thy instructions and proceed to the Nether
 Land. Therefore I wish for a short time to go to the Plain of
 High Heaven and meet with my elder sister, after which I will
-go away for ever.” Permission was granted him, and he there-
-fore ascended to Heaven.
+go away for ever.” Permission was granted him, and he therefore ascended to Heaven.
 
 After this, Izanagi no Mikoto, his divine task having been
 
@@ -2839,8 +2599,7 @@ After this, Izanagi no Mikoto, his divine task having been
 
 * Phaseolus radiatus. Hepburn. Compare with this the Chinese myth of
 P‘an-ku quoted above. There are Indian and Iranian myths ofa similar
-character. See T.R.A.S.,” Jan., 1895, p. 202. “Creation from the frag-
-ments of a fabulous anthropomorphic being is common to Chaldzans,
+character. See T.R.A.S.,” Jan., 1895, p. 202. “Creation from the fragments of a fabulous anthropomorphic being is common to Chaldzans,
 Iroquois, Egyptians, Greeks, Tinnehs, Mangaians, and Aryan Indians.”
 Lang, ‘* Myth, Religion, Ritual,” I. 246.
 
@@ -2864,12 +2623,6 @@ D
 . 20.
 
 
-303
-
-
-34 -. NIHONGI.
-
-
 accomplished, and his spirit-career about to suffer a change,
 built himself an abode of gloom in the island of Ahaji, where he
 dwelt for ever in silence and concealment.
@@ -2885,8 +2638,7 @@ by reason of the fierceness of his divine nature there was a
 commotion in the sea, and the hills and mountains groaned
 aloud. Ama-terasu no Oho-kami, knowing the violence and
 wickedness of this Deity, was startled and changed countenance,
-when she heard the manner of his coming. She said (to her-
-self) :—‘‘ Is my younger brother coming with good intentions ¢
+when she heard the manner of his coming. She said (to herself) :—‘‘ Is my younger brother coming with good intentions ¢
 I think it must be his purpose to rob me of my kingdom. By
 the charge which our parents gave to their children, each of us
 has his own allotted limits. Why, therefore, does he reject the
@@ -2955,8 +2707,7 @@ Mikoto’s ten-span sword, which she broke into three pieces,
 and rinsed in the true-well of Heaven. Then chewing them
 with a crunching noise, she blew them away, and from the
 true-mist of her breath Gods were born.” The first was named
-Ta-gori-bime, the next Tagi-tsu-bime, and the next Ichiki-
-shima-bime,® three daughters in all.
+Ta-gori-bime, the next Tagi-tsu-bime, and the next Ichikishima-bime,® three daughters in all.
 
 After this Sosa no wo no Mikoto begged from Ama-terasu no
 Oho-kami the august string of 500 Yasaka jewels which was
@@ -2992,8 +2743,7 @@ Re 25
 kachi-hayabi-ama no oshi-ho-mimi no Mikoto,’ and the next
 Ama no ho-hi no Mikoto.?. This is the ancestor of the Idzumo
 no Omi, and of the Hashi no Muraji® The next was Ama-tsu
-hiko-ne no Mikoto.t He was the ancestor of the Ohoshi-
-kafuchi no Atahe, and of the Yamashiro no Atahe.’ The next
+hiko-ne no Mikoto.t He was the ancestor of the Ohoshikafuchi no Atahe, and of the Yamashiro no Atahe.’ The next
 was Iku-tsu-hiko-ne no Mikoto,® and the next Kumano no
 kusu-bi? no Mikoto—in all five males.*
 
@@ -3047,34 +2797,26 @@ Tue AGE oF THE GODS. 37
 
 her hand she took a bow and arrow, and going forth to
 meet him in person, stood on her defence. Then Sosa no
-wo no Mikoto declared to her, saying :—‘ From the be-
-ginning I have had no evil intentions. All that I wished
+wo no Mikoto declared to her, saying :—‘ From the beginning I have had no evil intentions. All that I wished
 was to see thee, my elder sister, face to face. It is only
 for a brief space that I have come.’ Thereupon the Sun-
 Goddess, standing opposite to Sosa no wo no Mikoto,
 swore an oath, saying :—‘If thy heart is pure, and thou
 hast no purpose of relentless robbery, the children born to
-thee will surely be males.’ When she had finished speak-
-ing, she ate first the ten-span sword which she had girded
-on, and produced a child which was called Oki-tsu-shima-
-bime.’ Moreover she ate the nine-span sword, and pro-
-duced a child which was called Tagi-tsu-hime. Moreover
+thee will surely be males.’ When she had finished speaking, she ate first the ten-span sword which she had girded
+on, and produced a child which was called Oki-tsu-shimabime.’ Moreover she ate the nine-span sword, and produced a child which was called Tagi-tsu-hime. Moreover
 she ate the eight-span sword, and produced a child which
 was called Tagori-hime—in all three female Deities. After
 this Sosa no wo no Mikoto took the august five-hundred
 string of jewels which hung upon his neck, and having
 rinsed them in the Nuna? well of Heaven, another name
 for which is the true-well of Isa, and ate them. So he
-produced a child, which.was called Masa-ya-a-katsu-kachi-
-haya-bi-ame no oshi-ho-ne no Mikoto. Next he produced
+produced a child, which.was called Masa-ya-a-katsu-kachihaya-bi-ame no oshi-ho-ne no Mikoto. Next he produced
 Ama-tsu-hiko-ne no Mikoto, next Iku-tsu-hiko-ne no
 Mikoto, next Ama no ho-hi no Mikoto, and next Kumano
-~no oshi homi no Mikoto—in all five male Deities. There-
-fore as Sosa no wo no Mikoto had thus acquired proof of
-his victory, the Sun-Goddess learnt exactly that his inten-
-tions were wholly free from guilt. The three female
-Deities which the Sun-Goddess had produced were accord-
-ingly sent down to the Land of Tsukushi. She therefore
+~no oshi homi no Mikoto—in all five male Deities. Therefore as Sosa no wo no Mikoto had thus acquired proof of
+his victory, the Sun-Goddess learnt exactly that his intentions were wholly free from guilt. The three female
+Deities which the Sun-Goddess had produced were accordingly sent down to the Land of Tsukushi. She therefore
 instructed them, saying :—‘ Do ye, three Deities, go down
 and dwell in the centre of the province, where you will
 assist the descendants of Heaven,? and receive worship
@@ -3087,9 +2829,6 @@ whose name was Ha-akaru-tama.* This Deity came to
 } Lady of the island of the offing.
 * Nuna-wi,—perhaps for mana-wi, i.e. true well.
 * i.e, the Emperors. 4 Feather-bright-gem.
-
-
-38 ‘  NIHONGI..
 
 
 meet him and presented to him beautiful maga-tama’ of
@@ -3112,8 +2851,7 @@ whether thy words are true or false?’ He answered and
 said :—‘ Let thee and me bind ourselves by an oath. If
 while we are bound by this oath, the children produced are
 females, my heart is to be accounted black, but if they are
-males, itis to be thought red.’_ So they dug. three true-
-wells of Heaven and stood opposite to one another. Then
+males, itis to be thought red.’_ So they dug. three truewells of Heaven and stood opposite to one another. Then
 Ama-terasu no Oho-kami spoke to Sosa no wo no Mikoto
 and said :—‘ I am now about to give thee the sword which
 is in my girdle; do thou give me‘ the curved jewels of
@@ -3147,9 +2885,7 @@ which he held, and having made it to float on the surface
 of the True-Well of Heaven, bit off the end of the sword
 and blew it away. The Deities which were produced from
 amidst his breath were called Ama no ho-hi no Mikoto,
-next Masa-ya-a katsu-katsu-no-haya-hi-ama-no oshi-ho-ne-
-no Mikoto, next Ama-tsu hiko-ne no Mikoto, next Iku-
-tsu hiko-ne no Mikoto, and next Kumano no kusu-hi no
+next Masa-ya-a katsu-katsu-no-haya-hi-ama-no oshi-ho-neno Mikoto, next Ama-tsu hiko-ne no Mikoto, next Ikutsu hiko-ne no Mikoto, and next Kumano no kusu-hi no
 Mikoto. In/‘all there were five male Deities. Such is the
 story.” Ly ees
 In one writing it is said:—‘‘ The Sun-Goddess. stood
@@ -3196,8 +2932,7 @@ and placed them on the palm of his right hand, when they
 became changed and produced the God Ama no ho-hi no
 Mikoto. After that he took in his mouth the jewels which
 hung round his neck and laid them on his left fore-arm,
-when they became changed and produced the God Ama-
-tsu hiko-ne no Mikoto. Moreover, from his right fore-arm
+when they became changed and produced the God Amatsu hiko-ne no Mikoto. Moreover, from his right fore-arm
 there was produced the God Iku-tsu hiko-ne no Mikoto.
 Again from his left foot was produced the God Hi no
 
@@ -3206,8 +2941,7 @@ _haya-hi no Mikoto. Again from his right leg was produced
 Kumano no oshi-homi-no Mikoto, also called Kumano no
 oshi-sumi no Mikoto. The children produced by Sosa no
 wo no Mikoto were all male children. Therefore the Sun-
-Goddess knew exactly that Sosa no wo no Mikoto’s inten-
-tions had been from the first honest. So these six male
+Goddess knew exactly that Sosa no wo no Mikoto’s intentions had been from the first honest. So these six male
 children were taken and made the children of the Sun-
 Goddess, and were caused to govern the Plain of Heaven.
 The three female Deities born of the Sun-Goddess were
@@ -3234,8 +2968,7 @@ suspiciously like Chinese.
 * Province-master—honoured ones or possessors.
 
 3 Indian myth has a piebald or spotted deer or cow among celestial objects.
-The idea is probably suggested by the appearance of the stars. It is doubt-
-ful whether colt should be singular or plural.
+The idea is probably suggested by the appearance of the stars. It is doubtful whether colt should be singular or plural.
 
 
 Tue AGE oF THE Gops. AI
@@ -3262,8 +2995,7 @@ represents the Japanese word ihahi (pronounced iwai). According to
 Hirata this contains the same root as imi, avoidance, especially religious
 avoidance of impurity, and had originally the same meaning. The yu of
 yu-niha, or sacred plot of ground where rice for the festival of first-fruits was
-grown, is the same root. But asa strict observance of conditions of cere-
-monial purity was a chief feature of the Shinto services, this word came to
+grown, is the same root. But asa strict observance of conditions of ceremonial purity was a chief feature of the Shinto services, this word came to
 ‘be put for religious rites generally, and the Chinese character is even used,
 if we may believe the interlinear gloss which renders it by ogami, for Buddhist
 celebrations. The usual modern meaning of ihahi is blessing, well-wishing,
@@ -3294,9 +3026,6 @@ is inherent in all mythologies.
 
 
 I. 38.
-
-
-42 NIHONGI.
 
 
 Then the eighty myriads of Gods met on the bank of the
@@ -3388,8 +3117,7 @@ whole having a more or less hereditary character, we:shall have a tolerable
 idea of a Be. ~The origin of some, as of the Imibe, is lost in antiquity, but
 many were instituted in historical times, and for all manner of objects.
 There were. Be of weavers .(Oribe), of figured- stuff weavers (Ayabe), of
-executioners (Osakabe), of fishers (Amabe), of farmers (Tanabe), of clay-
-workers (Hasebe or Hashibe), and many more. The sole function of some
+executioners (Osakabe), of fishers (Amabe), of farmers (Tanabe), of clayworkers (Hasebe or Hashibe), and many more. The sole function of some
 was to perpetuate the name of a childless Emperor or Empress. ‘The local
 habitation of these corporations was also called Be, just as our word
 admiralty may mean either a body of officials or the building where they
@@ -3439,8 +3167,7 @@ is favoured by the Chinese character used for it in the “Nihongi.” The
 hand is a hand’s length, not a hand’s breadth, as with us. The yata-kagami
 would therefore be “a mirror of large size.”
 
-There are ancient mirrors in Japan with a number of suzu or bells project-
-ing round them, or of an octagonal shape, and I am disposed to think that
+There are ancient mirrors in Japan with a number of suzu or bells projecting round them, or of an octagonal shape, and I am disposed to think that
 the epithet yata has reference to this peculiarity, the corners or projections
 being taken for handles. Compare the analogous word Yatagarasu (Index).
 
@@ -3459,7 +3186,7 @@ up in every Shinto shrine.
 4 This is said to be the origin of the Kagura or pantomimic dance now
 performed at Shinto festivals.
 
-> The braces or shoulder straps were to support a tray for carrying things,
+) The braces or shoulder straps were to support a tray for carrying things,
 and so assist the arms. The Japanese word is tasuki, which means
 assistance. .
 
@@ -3471,8 +3198,7 @@ assistance. .
 8 In Hirata’s version of the ancient mythical narrative, he introduces here
 an incantation said in the “ Kiujiki” to have been taught by the Sun-Goddess
 to Ninigi no Mikoto, but stated in the ‘‘ Ko-go-jiui” to have come down
-originally from Uzume no Mikoto. It consists of the syllables Hito-futa-
-mi-yo-itsu-mu-nana-ya-kokono-tari, which Hirata has tried hard to extract
+originally from Uzume no Mikoto. It consists of the syllables Hito-futami-yo-itsu-mu-nana-ya-kokono-tari, which Hirata has tried hard to extract
 some meaning out of. Hito, he says, is man, futa, the lid, i.e. the door of
 the rock-cave, miyo is the imperative of miru, to see, this phrase meaning
 “Took! ye Gods at the door!” and so on. That these words are now
@@ -3485,8 +3211,7 @@ Now Ama-terasu no Oho-kami heard this, and said :—‘‘ Since
 I have shut myself up in the Rock-cave, there ought surely to
 be continual night in the Central Land of fertile reed-plains.
 How then can Ama no Uzume no Mikoto be so jolly?” So
-with her august hand, she opened for a narrow space the Rock-
-door and peeped out. Then Ta-jikara-wo no Kami forthwith
+with her august hand, she opened for a narrow space the Rockdoor and peeped out. Then Ta-jikara-wo no Kami forthwith
 took Ama-terasu no Oho-kami by the hand, and led her out.
 Upon this the Gods Nakatomi no Kami and Imibe no Kami'
 at once drew a limit by means of a bottom-tied rope ? (also
@@ -3509,8 +3234,7 @@ garments of the Deities. Sosa no wo no Mikoto saw this,
 
 -and_ forthwith flaying a piebald colt with a backward
 
-flaying, flung it into the interior of the hall. Then Waka-
-hiru-me no Mikoto was startled, and fell down from the
+flaying, flung it into the interior of the hall. Then Wakahiru-me no Mikoto was startled, and fell down from the
 loom, wounding herself with the shuttle which she held in
 her hand, and divinely departed.’ Therefore Ama-terasu
 no Oho-kami spoke to Sosa no wo no Mikoto and said :—
@@ -3545,12 +3269,6 @@ i
 peiler
 
 
-46
-
-
-NIHONGI,
-
-
 shut the Rock-door. Hereupon all under Heaven was in
 continual darkness, and there was no difference of day and
 night. Therefore the eighty myriads of Gods met in the
@@ -3575,8 +3293,7 @@ which he fashioned by this means is the Goddess Hi no
 mahe no Kami, who dwells in the province of Kii.”
 
 In one writing it is said :—‘‘ The august Sun Goddess
-took an enclosed rice-field and made it her Imperial rice-
-field. Now Sosa no wo no Mikoto, in spring, filled up the
+took an enclosed rice-field and made it her Imperial ricefield. Now Sosa no wo no Mikoto, in spring, filled up the
 channels and broke down the divisions, and in autumn,
 when the grain was formed, he forthwith stretched round
 them division ropes.’ Again when the Sun-Goddess was in
@@ -3603,15 +3320,13 @@ ancestor of the Imibe, to make offerings,* and Toyo-tama,'
 the ancestor of the Be of jewel-makers, to make jewels. They
 also caused Yama-tsuchi* to procure eighty precious
 combs of the five-hundred-branched true sakaki tree, and
-Nu-dzuchi’ to procure eighty precious combs of the five-
-hundred-branched suzuki grass. When all these various
+Nu-dzuchi’ to procure eighty precious combs of the fivehundred-branched suzuki grass. When all these various
 
 
 ‘ The meaning is doubtful, as also whether this Deity is a God or a
 Goddess. .
 
-* i.e, ropes drawn along the divisions of the rice-fields in token of owner-
-ship. 3 See above, p. 41.
+* i.e, ropes drawn along the divisions of the rice-fields in token of ownership. 3 See above, p. 41.
 
 4 Of cloth. *.Rich-jewel. 6 Mountain-god. 7 Moor-god.
 
@@ -3620,12 +3335,6 @@ ay
 
 
 Saas
-
-
-48
-
-
-NIHONGI.
 
 
 objects were collected, Ama no Koyane no Mikoto, the
@@ -3639,14 +3348,11 @@ Mikoto was convicted, and fined in the articles required
 for the ceremony of purification. Hereupon these were the
 things abhorrent of luck of the tips of his fingers, and the
 things abhorrent of calamity of the tips of his toes.’ Again,
-of his spittle he made white soft offerings, and of his nose-
-mucus he made blue soft offerings, with which the purifica-
-tion service was performed. Finally he was banished
+of his spittle he made white soft offerings, and of his nosemucus he made blue soft offerings, with which the purification service was performed. Finally he was banished
 according to the law of Divine banishment.”
 
 In one writing it is said :—‘‘ After this the Sun-Goddess
-had three rice-fields, which were called the Easy’ Rice-
-field of Heaven, the Level Rice-field of Heaven, and the
+had three rice-fields, which were called the Easy’ Ricefield of Heaven, the Level Rice-field of Heaven, and the
 Village-join* Rice-field of Heaven. All these were good
 rice-fields, and never suffered even after continuous rain or
 drought. Now Sosa no wo no Mikoto had also three
@@ -3672,11 +3378,7 @@ things required for the purification service.
 2 Easy to cultivate, says the “‘ Shukai” editor.
 
 3 Mura-ahase, a term of doubtful meaning. Motowori suggests that for
-ahase we should read yori. The meaning then would be rice-fields adjoin-
-ing the village. Accommodation land, as we should say.
-
-
-4
+ahase we should read yori. The meaning then would be rice-fields adjoining the village. Accommodation land, as we should say.
 
 
 Obstructed with stumps of wood.
@@ -3704,10 +3406,8 @@ Sakaki tree of the Heavenly Mount Kagu and hung upon
 its upper branches a mirror of eight hands, made by the
 ancestor of the mirror-makers, Ono-kori-dome, a child of
 Ama no Nukado; on the middle branches he hung curved!
-jewels of Yasaka gem made by the ancestor of the jewel-
-makers, Ama no Akaru-dama, a child of Izanagi no Mikoto.
-On the lower branches he hung tree-fibre? made by Ama-
-no Hi-washi, the ancestor of the Imbe of the province of
+jewels of Yasaka gem made by the ancestor of the jewelmakers, Ama no Akaru-dama, a child of Izanagi no Mikoto.
+On the lower branches he hung tree-fibre? made by Amano Hi-washi, the ancestor of the Imbe of the province of
 Aha. Futo-dama no Mikoto, ancestor of the Imbe no
 Obito, was thereupon made to take these things in his
 hand, and, with lavish and earnest words of praise, to recite
@@ -3721,8 +3421,7 @@ Ama no Tajikara-wo no Kami, who was waiting beside the
 Rock-door, forthwith pulled it open, and the radiance of
 the Sun-Goddess filled the universe. Therefore all the
 Gods rejoiced greatly, and imposed on Sosa no wo no
-Mikoto a fine of a thousand tables of (articles of) purifica-
-tion.” Of the nails of his hands they made things abhorrent
+Mikoto a fine of a thousand tables of (articles of) purification.” Of the nails of his hands they made things abhorrent
 
 
 words of incantation, so that if anyone wrongly claimed the fields he might
@@ -3741,14 +3440,7 @@ Japan.
 E
 
 
-50
-
-
-NIHONGI.
-
-
-of luck, and of the nails of his feet they made things abhor-
-rent of calamity. Then they caused Ama no Koyane no
+of luck, and of the nails of his feet they made things abhorrent of calamity. Then they caused Ama no Koyane no
 Mikoto to take charge of his Great Purification Liturgy,
 and made him recite it. This is the reason why the people
 of the world are careful in the disposal of their own nails.
@@ -3763,10 +3455,8 @@ bound together green grass, and made of it a broad hat and
 rain-coat, and in this garb asked a lodging of the assembled
 Gods. They said:—‘Thy behaviour has been filthy and
 wicked, and therefore thou hast been banished. How
-canst thou ask of us a lodging?’ In the end they unani-
-mously repulsed him. Therefore, although the wind and
-rain were very violent, he was unable to find a resting-
-place, and went downwards, suffering bitterly. Ever since
+canst thou ask of us a lodging?’ In the end they unanimously repulsed him. Therefore, although the wind and
+rain were very violent, he was unable to find a restingplace, and went downwards, suffering bitterly. Ever since
 that time all the world has avoided entering the house of
 another wearing a broad hat ‘and a grass rain-coat, or
 bearing a bundle of grass on the back. For a breach of
@@ -3813,8 +3503,7 @@ will certainly be females, and in that case they must be
 sent down to the Central Land of Reed-Plains. But if my
 intentions are pure, then I shall produce male children,
 and in that case they must be made to rule the Heavens.
-The same oath will also hold good as to the children pro-
-duced by my elder sister.’ In this way the Sun-Goddess
+The same oath will also hold good as to the children produced by my elder sister.’ In this way the Sun-Goddess
 first of all chewed her ten-span sword, etc., etc.
 
 Sosa no wo no Mikoto straightway unwound, coil after
@@ -3822,8 +3511,7 @@ coil, the complete string of five hundred jewels entwined in
 the right knot of his hair. The jewels chinked as he rinsed
 them on the surface of the true well of Heaven. Then he
 chewed their ends, and laid them on his left palm, thus
-producing a child, who was called Masa-ya-a-katsu-katsu-
-haya-hi-ama-no-oshi-ho-ne no Mikoto. After this he
+producing a child, who was called Masa-ya-a-katsu-katsuhaya-hi-ama-no-oshi-ho-ne no Mikoto. After this he
 _ chewed the left jewels, and placing them on his right palm,
 produced a child, who was called Ama-no-ho-hi no Mikoto.
 He is the ancestor of the Idzumo no Omi, of the Musashi
@@ -3839,8 +3527,7 @@ Gods to banishment to the Nether Land, and being about
 to take my departure thither, I could never bear to become
 separated from my elder sister without having seen her
 face to face. Therefore it is truly with a pure heart, and
-not otherwise, that I came up again. Now that our inter-
-view is over, I must return hence for ever to the Nether
+not otherwise, that I came up again. Now that our interview is over, I must return hence for ever to the Nether
 
 
 _
@@ -3863,13 +3550,9 @@ IG Le),
 Ibi
 
 
-52 NIHONGI.
-
-
 Land, in obedience to the Divine behest of the assembled
 Deities. I pray that my elder sister may illuminate the
-Land of Heaven, and that it may spontaneously enjoy tran-
-quillity. Moreover, I deliver to my elder sister the children
+Land of Heaven, and that it may spontaneously enjoy tranquillity. Moreover, I deliver to my elder sister the children
 which, with a pure heart, I have produced.’ Having done
 so, he returned downwards.”’
 
@@ -3881,8 +3564,7 @@ sound. He found there an old man and an old woman.
 Between them was set a young girl, whom they were caressing
 and lamenting over. Sosa no wo no Mikoto asked them,
 saying :—‘‘ Who are ye, and why do ye lament thus?” The
-answer was :—‘‘ Iam an Earthly Deity, and my name is Ashi-
-nadzuchi.! My wife’s name is Te-nadzuchi.” This girl is
+answer was :—‘‘ Iam an Earthly Deity, and my name is Ashinadzuchi.! My wife’s name is Te-nadzuchi.” This girl is
 our daughter, and her name is Kushi-nada-hime.’ The reason
 of our weeping .is that formerly we had eight children,
 daughters. But they have been devoured year after year by an
@@ -3891,8 +3573,7 @@ girl to be devoured. There is no means of escape for her, and
 therefore do we grieve.” Sosa no wo no Mikoto said:—‘‘ If
 that is so, wilt thou give me thy daughter?” He replied, and
 said :—‘‘ I will comply with thy behest and give her to thee.”
-Therefore Sosa no wo no Mikoto on the spot changed Kushi-
-nada-hime into a many-toothed close-comb, which he stuck in
+Therefore Sosa no wo no Mikoto on the spot changed Kushinada-hime into a many-toothed close-comb, which he stuck in
 the august knot of his hair. Then he made Ashi-nadzuchi and
 Te-nadzuchi to brew eight-fold sake, to make eight cupboards,
 in each of them to set a tub filled with sake,’ and so to
@@ -3936,8 +3617,7 @@ In one writing it is said :—‘“‘ Its original name was Ama
 
 no Mura-kumo no tsurugi.”’*
 
-[lt perhaps received this name from the clouds constantly gather-
-ing over the place where the serpent was. In the time of the
+[lt perhaps received this name from the clouds constantly gathering over the place where the serpent was. In the time of the
 Imperial Prince Vamato-dake tts name was changed to Kusa-nagi
 no tsurugt. |
 
@@ -3945,8 +3625,7 @@ Sosa no wo no Mikoto said:—‘ This isa divinesword. How
 can I presume to appropriate it to myself?”’ So he gave it up
 to the Gods of Heaven.’
 
-After this he went in search of a place where he might cele-
-brate his marriage, and at length came to Suga, in the province
+After this he went in search of a place where he might celebrate his marriage, and at length came to Suga, in the province
 of Idzumo. Then he spoke, and said:—‘‘ My heart is
 refreshed.” Therefore that place is now called Suga.’ There
 he built a palace.
@@ -3971,7 +3650,7 @@ snake,
 * It is hardly necessary to point out the resemblance of this story to that
 of Perseus and Andromeda, and many others.
 
-*> Suga means pure, fresh. _ 5 Fierce;
+*) Suga means pure, fresh. _ 5 Fierce;
 
 
 I
@@ -3981,9 +3660,6 @@ I
 
 
 - 53-
-
-
-54 NIHONGI.
 
 
 They form a manifold fence—
@@ -4029,9 +3705,7 @@ The poems in this work are translated so that a line of the English
 version corresponds to a line of Japanese, but it has not. always been
 possible to preserve the original order of the lines.
 
-2 The interlinear version has kumi-do ni mito no makuai shite. Kumi-
-do is no doubt the special nuptial hut above referred to. Mito is “ august-
-place ” according to Hirata, and is another word for the kumi-do. This
+2 The interlinear version has kumi-do ni mito no makuai shite. Kumido is no doubt the special nuptial hut above referred to. Mito is “ augustplace ” according to Hirata, and is another word for the kumi-do. This
 phrase, which is taken from the “ Kojiki,” probably denotes legitimate nuptial,
 as opposed to casual intercourse. But the Chinese original has nothing of
 the sort.
@@ -4051,8 +3725,7 @@ p. 67.
 Tue AGE OF THE GoDs. 55
 
 
-nadzuchi. I therefore grant to these two Deities the designa-
-tion of Inada no Miya-nushi' no Kami.”
+nadzuchi. I therefore grant to these two Deities the designation of Inada no Miya-nushi' no Kami.”
 
 Having done so, Sosa no wo no Mikoto at length proceeded
 to the Nether Land.
@@ -4063,14 +3736,11 @@ of the river Hi,in Idzumo. There he saw Inada-hime, the
 
 daughter of Susa no yatsu-mimi,’ Master of the Shrine of
 Inada. He had connubial relations with her, and a child
-was born, styled Suga no yu-yama-nushi® Mitsu-na-saro-
-hiko-yama-shino.”’ #
+was born, styled Suga no yu-yama-nushi® Mitsu-na-sarohiko-yama-shino.”’ #
 
-One version has Suga no Kake-na Saka-karu-hiko-ya-
-shima’*® no Mikoto.
+One version has Suga no Kake-na Saka-karu-hiko-yashima’*® no Mikoto.
 
-Another has :—‘‘ Suga no yu-yama-nushi Mitsu-na-saro-
-hiko ya-shima-no.* The descendant of this God in the
+Another has :—‘‘ Suga no yu-yama-nushi Mitsu-na-sarohiko ya-shima-no.* The descendant of this God in the
 fifth generation was Oho-kuni-nushi no Kami.” ’
 
 In one writing it is said :—‘‘ At this time Sosa no wo no
@@ -4104,8 +3774,7 @@ abstract termination.
 § Eight-island-moor.
 
 7 Great-country-master-god. Identified by Hirata with Oho-na-muji,
-also with one of the Shichi-fuku-jin, or Seven Gods of Happiness, named Dai-
-koku-sama.
+also with one of the Shichi-fuku-jin, or Seven Gods of Happiness, named Daikoku-sama.
 
 8 Foot-stroke-hand-stroke.
 
@@ -4117,9 +3786,6 @@ i
 
 
 54+
-
-
-NIHONGI.
 
 
 must take fruit of all kinds, and brew from it eight jars
@@ -4141,9 +3807,7 @@ of Ohari. It is this Deity which is in the charge of the
 Hafuri' of Atsuta. The sword which slew the serpent is
 called Worochi no Ara-masa.” It is now at Isonokami.’
 
-Afterwards the child who was born of Inada no Miya-
-nushi Susa no yatsu-mimi, namely Ina-gami Furu-kushi-
-nada-hime,* was removed to the upper waters of the river
+Afterwards the child who was born of Inada no Miyanushi Susa no yatsu-mimi, namely Ina-gami Furu-kushinada-hime,* was removed to the upper waters of the river
 Hi, in the province of Idzumo, and brought up there.
 After this Sosa no wo no Mikoto made her his consort,
 and had by her a child, whose descendant in the sixth
@@ -4192,11 +3856,9 @@ behaviour was unmannerly. A fine was therefore imposed
 on him by all the Gods of a thousand tables, and he was
 driven into banishment. At this time, Sosa no wo no
 Mikoto, accompanied by his son Iso-takeru* no Kami,
-descended to the Land of Silla,* where he dwelt at Soshi-
-mori.” There he lifted up his voice and said:—‘I will
+descended to the Land of Silla,* where he dwelt at Soshimori.” There he lifted up his voice and said:—‘I will
 not dwell in this land.’ He at length took clay and made
-of it a boat, in which he embarked, and crossed over east-
-wards until he arrived at Mount Tori-kamu no Take, which
+of it a boat, in which he embarked, and crossed over eastwards until he arrived at Mount Tori-kamu no Take, which
 is by the upper waters of the river Hiin Idzumo. Now
 there was in this place a serpent which devoured men.
 Sosa no wo no Mikoto accordingly took his sword, called
@@ -4235,13 +3897,7 @@ Ile
 I. 58.
 
 
-58
-
-
 1 Corea. * The meritorious God.
-
-
-NIHONGI.
 
 
 cut the serpent’s tail, the edge of his sword was notched.
@@ -4312,10 +3968,8 @@ Thereafter Sosa no wo no Mikoto dwelt on the Peak of 1. 59.
 Kuma-nari,” and eventually entered the Nether Land.”
 
 In one writing it is said :—‘‘ Oho-kuni-nushi* no Kami
-is also called Oho-mono-nushi no Kami,* or else Kuni-
-dzukuri Oho-na-mochi* no Mikoto, or again Ashi-hara
-no Shiko-wo,’ or Ya-chi-hoko? no Kami, or Oho-kuni-
-dama* no Kami, or Utsushi-kuni-dama*no Kami. His
+is also called Oho-mono-nushi no Kami,* or else Kunidzukuri Oho-na-mochi* no Mikoto, or again Ashi-hara
+no Shiko-wo,’ or Ya-chi-hoko? no Kami, or Oho-kunidama* no Kami, or Utsushi-kuni-dama*no Kami. His
 children were in all one hundred and eighty-one Deities.
 
 Now Oho-na-mochi no Mikoto and Sukuna-bikona no
@@ -4334,7 +3988,7 @@ above as the residence of Sosa no wo. See Index—Kuma-nari.
 
 3 Great-country-master. + Great-thing-master.
 
-> Country-make great-name-possessor.
+) Country-make great-name-possessor.
 
 6 The ugly male of the reed-plain. 7 Eight thousand spears.
 S Great-country-jewel. » Apparent-country-jewel.
@@ -4368,16 +4022,11 @@ k
 60.
 
 
-60 NIHONGI.
-
-
 The people enjoy the protection of these universally until
 the present day.
 
-Before this Oho-na-mochi no Mikoto spake to Sukuna-
-bikona no Mikoto, and said :—‘ May we not say that the
-country which we have made is well made?’ Sukuna-
-bikona no Mikoto answered and said :—‘ In some parts it
+Before this Oho-na-mochi no Mikoto spake to Sukunabikona no Mikoto, and said :—‘ May we not say that the
+country which we have made is well made?’ Sukunabikona no Mikoto answered and said :—‘ In some parts it
 is complete and in others it is incomplete.’ This
 conversation had doubtless a mysterious purport.
 
@@ -4390,8 +4039,7 @@ where he climbed up a millet-stalk, and was thereupon
 jerked off, and went to the Everlasting Land.
 
 After this, wherever there was in the land a part which
-was imperfect, Oho-na-mochi no Kami visited it by him-
-self, and succeeded in repairing it. Coming at last to the
+was imperfect, Oho-na-mochi no Kami visited it by himself, and succeeded in repairing it. Coming at last to the
 province of Idzumo, he spake, and said :—‘ This Central
 Land of Reed-plains had been always waste and wild.
 The very rocks, trees and herbs were all given to violence.
@@ -4436,8 +4084,7 @@ here that thou hast been enabled to accomplish this
 mighty undertaking.” Then Oho-na-mochi no Kami
 inquired, saying :—‘ Then who art thou?’ It replied and
 said:—‘I am thy guardian spirit, the wondrous spirit.’
-Then said Oho-na-mochi no Kami :—‘ True, I know there-
-fore that thou art my guardian spirit, the wondrous spirit.
+Then said Oho-na-mochi no Kami :—‘ True, I know therefore that thou art my guardian spirit, the wondrous spirit.
 
 
 Where dost thou now wish to dwell?’ The spirit
@@ -4462,16 +4109,14 @@ become transformed into an eight-fathom bear-sea-monster,*
 name of the site of the Inner Shrine at Ise.
 
 8’ Sea-monster is in Japanese wani. It is written with a Chinese
-character which means, properly, crocodile, but that meaning is inadmis-
-sible in these old legends, as the Japanese who originated them can have
+character which means, properly, crocodile, but that meaning is inadmissible in these old legends, as the Japanese who originated them can have
 known nothing of this animal. The wani, too, inhabits the sea and not
 rivers, and is plainly a mythical creature.
 
 Satow and Anderson have noted that the wani is usually represented
 in art as a dragon, and Toyo-tama-hime (see Index), who in one version
 of the legend changes into a wani, as her true form, at the moment of
-child-birth, according to another changes into a dragon. Now Toyo-
-tama-hime was the daughter of the God of the Sea. This suggests that
+child-birth, according to another changes into a dragon. Now Toyotama-hime was the daughter of the God of the Sea. This suggests that
 the latter is one of the Dragon-Kings familiar to Chinese (see Mayers’
 Manual, p. 142) and Corean fable who inhabit splendid palaces at the
 bottom of the sea. It is unnecessary here to follow the Dragon-Kings
@@ -4488,9 +4133,6 @@ I 626
 
 
 Te .03.
-
-
-62 NIHONGI.
 
 
 had intercourse with Mizo-kuhi' hime of the island
@@ -4514,10 +4156,7 @@ the dwarf leaped up, and bit him on the cheek. He
 wondered at his appearance, and sent a messenger to
 report the matter to the Gods of Heaven. Now when
 Taka-mi-musubi no Mikoto heard this, he said :—‘ The
-children whom I have produced number in all one thou-
-
-
-cassia-tree mentioned in it is certainly Chinese.” Is it possible that
+children whom I have produced number in all one thoucassia-tree mentioned in it is certainly Chinese.” Is it possible that
 wani is for the Corean wang-i, ie. “the King,” z being the Corean
 definite particle, as in zeni, fumi, yagi, and other Chinese words which
 reached Japan vid Corea? We have the same change of mg into 7 in the
@@ -4562,8 +4201,7 @@ See Ch. K., p. 85. Sukuna means small (in modern Japanese few) and
 bikona is honorific.
 
 Hirata identifies Sukuna-bikona with Yebisu and Oho-na-mochi with
-Daikoku. See Anderson’s B. M. Catalogue, p. 36. All these identifica-
-tions, of which Hirata is profuse, are somewhat problematical.
+Daikoku. See Anderson’s B. M. Catalogue, p. 36. All these identifications, of which Hirata is profuse, are somewhat problematical.
 
 
 1B
@@ -4580,8 +4218,7 @@ reer It;
 MASA-YA-A-KATSU-KATSU-HAYA-HI AMA NO OSHI-HO-MI-MI NO
 MiKoTo, the son of Ama-terasu no Oho-kami, took to wife
 Taku-hata'-chi-chi-hime, daughter of Taka-mi-musubi no
-Mikoto. A child was born to them named Ama-tsu-hiko-hiko-
-ho-no-ninigi no Mikoto.? Therefore his august grandparent,
+Mikoto. A child was born to them named Ama-tsu-hiko-hikoho-no-ninigi no Mikoto.? Therefore his august grandparent,
 Taka-mi-musubi no Mikoto, treated him with special affection,
 and nurtured him with great regard. Eventually he desired
 to establish his august grandchild Ama-tsu-hiko-ho-ho-ninigi
@@ -4598,8 +4235,7 @@ They all said :—‘‘ Ama-no-ho-hi no Mikoto is the most heroic
 among the Gods. Ought not he to be tried? ”
 Taka-mi-musubi no Mikoto thereupon complied with the
 general advice, and made Ama-no-ho-hi no Mikoto to go and
-subdue them. This Deity, however, curried favour with Oho-
-na-mochi no Mikoto, and three years passed without his
+subdue them. This Deity, however, curried favour with Ohona-mochi no Mikoto, and three years passed without his
 making any report. Therefore his son Oho-se-ihi no Mikuma
 no ushi* (also called Take ‘-mikuma no ushi) was sent.
 
@@ -4622,12 +4258,10 @@ any report. Taka-mi-musubi no Mikoto therefore again
 summoned together all the Gods and inquired of them who
 should be sent. They all said :—‘‘ Ame-waka-hiko,! son of
 Ame no Kuni-dama.? He is a valorous person. Let him be
-tried.” Hereupon Taka-mi-musubi no Mikoto gave Ame-waka-
-hiko a heavenly deer-bow and heavenly feathered arrows, and
+tried.” Hereupon Taka-mi-musubi no Mikoto gave Ame-wakahiko a heavenly deer-bow and heavenly feathered arrows, and
 so despatched him. This God also was disloyal, and as soon
 as he arrived took to wife Shita-teru-hime,’ the daughter of
-Utsushi-kuni-dama‘* (also. called Taka-hime or Waka-kunt-
-dama). Accordingly he remained, and said :—‘‘ I, too, wish to
+Utsushi-kuni-dama‘* (also. called Taka-hime or Waka-kuntdama). Accordingly he remained, and said :—‘‘ I, too, wish to
 govern the Central Land of Reed-Plains.” He never reported
 the result of his mission. At this time, Taka-mi-musubi no
 Mikoto, wondering why he was so long in coming and making
@@ -4635,8 +4269,7 @@ his report, sent the pheasant Na-naki® to observe. The
 pheasant flew down and perched on the top of a many-branched
 cassia-tree which grew before Ame-waka-hiko’s gate. Now
 Ama-no Sagu-me ° saw this and told Ame-waka-hiko, saying :—
-‘* A strange bird has come and is perched on the top of the cassia-
-tree.” Then Ame-waka-hiko took the heavenly deer-bow and
+‘* A strange bird has come and is perched on the top of the cassiatree.” Then Ame-waka-hiko took the heavenly deer-bow and
 the heavenly feathered arrows which had been given him by
 Taka-mi-musubi no Mikoto, and shot the pheasant, so that it
 died. The arrow having passed through the pheasant’s breast,
@@ -4664,16 +4297,10 @@ kiéng, no doubt also an onomatope.
 6 Heavenly-spying-woman.
 
 
-100
-
-
 II.
 
 
 dike
-
-
-66 NIHONGI.
 
 
 fell, hit Ame-waka-hiko on the top.of his breast. ‘At this time
@@ -4689,28 +4316,19 @@ The sound of the weeping and mourning of Ame-waka-hiko’s
 Kuni-dama, hearing the voice of her crying, straightway knew
 that her husband, Ame-waka-hiko, was dead, and sent down a
 swift wind. to bring the body up to Heaven. Forthwith a
-mortuary house was made, in which it was temporarily de-
-
-
-posited. The river-geese were made the head-hanging
+mortuary house was made, in which it was temporarily deposited. The river-geese were made the head-hanging
 bearers and broom-bearers.
 
 
-One version is :—‘‘ The barn-door fowls were made head-
-
-
-hanging bearers, and the river-geese were made broom-
-bearers.”
+One version is :—‘‘ The barn-door fowls were made headhanging bearers, and the river-geese were made broombearers.”
 
 
 The sparrows were made pounding-women.
 
 
-One version is :—‘‘ The river-geese were made head-hang-
-ing bearers and also broom-bearers, the kingfisher was made
+One version is :—‘‘ The river-geese were made head-hanging bearers and also broom-bearers, the kingfisher was made
 the representative of the deceased, the sparrows were made
-the pounding-women, and the wrens the mourners. Alto-
-gether the assembled birds were entrusted with the matter.”
+the pounding-women, and the wrens the mourners. Altogether the assembled birds were entrusted with the matter.”
 
 For eight days and eight nights they wept and sang dirges.'
 
@@ -4744,11 +4362,9 @@ Tue AGE OF THE Gops. 67
 
 
 Before this, when Ame-waka-hiko was in the Central Land of
-Reed-Plains, he was on terms of friendship with Aji-suki '-taka-
-hiko-ne no Kami. Therefore Aji-suki-taka-hiko-ne no Kami
+Reed-Plains, he was on terms of friendship with Aji-suki '-takahiko-ne no Kami. Therefore Aji-suki-taka-hiko-ne no Kami
 ascended to Heaven and offered condolence on his decease.
-Now this God was exactly like in appearance to Ame-waka-
-hiko when he was alive, and therefore Ame-waka-hiko’s parents,
+Now this God was exactly like in appearance to Ame-wakahiko when he was alive, and therefore Ame-waka-hiko’s parents,
 relations, wife, and children all said :—‘‘ Our Lord is still alive,”
 and clung to his garments and to his girdle, partly rejoiced
 and partly distracted. Then Aji-suki-taka-hiko-ne no Kami
@@ -4756,8 +4372,7 @@ and partly distracted. Then Aji-suki-taka-hiko-ne no Kami
 such that it is right that mutual condolence should be made.
 Therefore I have not been daunted by the pollution, but have
 come from afar to make mourning. Why then should I be
-mistaken for a dead person?” So he drew his sword, Oho-ha-
-kari,’ which he had in his girdle, and cut down the mortuary
+mistaken for a dead person?” So he drew his sword, Oho-hakari,’ which he had in his girdle, and cut down the mortuary
 house, which fell to earth and became a mountain. It is now
 in the province of Mino, by the upper waters of the River
 Ayumi. This is the mountain of Moyama (mourning moun.
@@ -4800,26 +4415,17 @@ Fe Z
 Lilt
 
 
-68 NIHONGI.
-
-
 Now there were certain Gods dwelling in the Rock-cave of
-Heaven, viz. Mika no Haya-hi' no Kami, son of Idzu no wo-
-bashiri >no Kami, Hino Haya-hino Kami, son of Mika no Haya-
-hi no Kami, and Take-mika-dzuchi no Kami,’ son of Hino Haya-hi
-no Kami. The latter God came forward and said :—‘‘Is Futsu-
-nushi no Kami alone to be reckoned a hero? And am I not a
+Heaven, viz. Mika no Haya-hi' no Kami, son of Idzu no wobashiri )no Kami, Hino Haya-hino Kami, son of Mika no Hayahi no Kami, and Take-mika-dzuchi no Kami,’ son of Hino Haya-hi
+no Kami. The latter God came forward and said :—‘‘Is Futsunushi no Kami alone to be reckoned a hero? And am I not a
 hero ?”’ His words were animated by a spirit of indignation. He
 was therefore associated with Futsu‘nushi no Kami and made to
-subdue the Central Land of Reed-Plains. The two Gods there-
-upon descended and arrived at the Little Shore* of Itasa, in the
+subdue the Central Land of Reed-Plains. The two Gods thereupon descended and arrived at the Little Shore* of Itasa, in the
 Land of Idzumo. Then they drew their ten-span swords, and
 stuck them upside down in the earth, and sitting on their
-points questioned Oho-na-mochi no Kami, saying :—‘‘ Taka-mi-
-musubi no Mikoto wishes to send down his August Grandchild
+points questioned Oho-na-mochi no Kami, saying :—‘‘ Taka-mimusubi no Mikoto wishes to send down his August Grandchild
 to preside over this country as its Lord. He has therefore
-sent us two Gods to clear out and pacify it. What is thy inten-
-tion? — Wilt thou stand aside or no?” Then Oho-na-mochi
+sent us two Gods to clear out and pacify it. What is thy intention? — Wilt thou stand aside or no?” Then Oho-na-mochi
 no Kami answered and said :—‘‘I must ask my son before I
 reply to you.” At this time his son Koto-shiro-nushi no Kami
 was absent on an excursion to Cape Miho in the Land of
@@ -4830,11 +4436,9 @@ Some say:—‘‘ He was amusing himself by catching birds.”
 He therefore took the many-handed boat of Kumano,
 
 [Another name is the Heavenly. Pigeon-boat. |
-and placing on board of it his messenger, Inase-hagi,’ he de-
-spatched him, and announced to Koto-shiro-nushi no Kami the
+and placing on board of it his messenger, Inase-hagi,’ he despatched him, and announced to Koto-shiro-nushi no Kami the
 declaration of Taka-mi-musubi no Kami. He also inquired
-what language he should use in answer. Now Koto-shiro-
-nushi: no Kami spoke to the messenger, and said :—‘‘ The
+what language he should use in answer. Now Koto-shironushi: no Kami spoke to the messenger, and said :—‘‘ The
 Heavenly Deity has now addressed us this inquiry. My father
 
 
@@ -4843,8 +4447,7 @@ swift sun.
 
 2 Idzu no wo-bashiri, lit. dread-of-male-run.
 
-3 Take-mika-dzuchi. Take is brave. Mika-dzuchi is identified with ika-
-dzuchi, thunder.
+3 Take-mika-dzuchi. Take is brave. Mika-dzuchi is identified with ikadzuchi, thunder.
 
 4 Wobama.
 
@@ -4859,9 +4462,7 @@ THe AGE OF THE Gops. 69
 
 ought respectfully to withdraw, nor will I make any opposition.”
 So he made in the sea an eight-fold fence of green branches, and
-stepping on the bow of the boat, went off.'. The messenger re-
-turned and reported the result of his mission. Then Oho-na-
-mochi no Kami said to the two Gods, in accordance with the
+stepping on the bow of the boat, went off.'. The messenger returned and reported the result of his mission. Then Oho-namochi no Kami said to the two Gods, in accordance with the
 words of his son :—‘‘ My son, on whom I rely, has already
 departed. I, too, will depart. If I were to make resistance all
 the Gods of this Land would certainly resist also. But as I
@@ -4871,8 +4472,7 @@ as a staff when he was pacifying the land and gave it to the
 two Gods, saying :—‘‘ By means of this spear I was at last
 successful. Ifthe Heavenly Grandchild will use this spear to
 rule the land, he will undoubtedly subdue it to tranquillity. I
-am now about to withdraw to the concealment of the. short-of-a-
-hundred ’-eighty road-windings.” * Having said these words, he
+am now about to withdraw to the concealment of the. short-of-ahundred ’-eighty road-windings.” * Having said these words, he
 at length became concealed.* Thereupon the two Gods put to
 death all the rebellious spirits and Deities.
 
@@ -4881,8 +4481,7 @@ One version says :—‘‘ The two. Gods at length put to
 
 
 - death the malignant Deities and the tribes of herbs, trees and
-rocks. When all had been subdued, the only one who re-
-fused submission was the Star-God Kagase-wo.’ There-
+rocks. When all had been subdued, the only one who refused submission was the Star-God Kagase-wo.’ There-
 
 
 “ Went off” is the same character as is translated “withdraw” above.
@@ -4919,9 +4518,6 @@ II. 9,
 Nstvam Tors
 
 
-70 NIHONGI.
-
-
 fore they sent the Weaver-God Take-ha-dzuchi no Mikoto
 also, upon which he rendered submission. The two Gods
 therefore ascended to Heaven.”
@@ -4942,16 +4538,14 @@ twin summits of Kushibi, he took his stand on a level part of
 the floating sand-bank. Then he traversed the desert land of
 Sojishi from the Hill of Hitawo in his search for a country,
 until he came to Cape Kasasa, in Ata-no-nagaya. A certain
-man of that land appeared and gave his name as Koto-katsu-
-kuni-katsu Nagasa.* The August Grandchild inquired of him,
+man of that land appeared and gave his name as Koto-katsukuni-katsu Nagasa.* The August Grandchild inquired of him,
 saying :—“‘ Is there a country, or not ?’” He answered, and said:
 —‘ There ishere a country. I pray thee roam through it at
 thy pleasure.” The August Grandchild therefore went there
 and took up his abode. Now there was a fair maid in that land
 whose name was Ka-ashi-tsu-hime.
 
-[Also called Kami Ata-tsu-hime or Ko no hana no saku-
-ya-hime.*]
+[Also called Kami Ata-tsu-hime or Ko no hana no sakuya-hime.*]
 
 
 Take-ha-dzuchi is brave-leaf-elder. It is not clear that this Weaver-God is
@@ -4959,8 +4553,7 @@ the same as the Weaver star.
 
 1 The interlinear gloss has idzu, an obsolete word which means awful,
 holy, sacred. Itis, I would suggest, the same root which appears in the name
-of the province Idzu-mo and in Idzu-shi in Tajima, also a seat of Shinto wor-
-ship. Mo means quarter, as in yomo, the four quarters, everywhere, and shi
+of the province Idzu-mo and in Idzu-shi in Tajima, also a seat of Shinto worship. Mo means quarter, as in yomo, the four quarters, everywhere, and shi
 is for ishi, stone. See Index—Idzu.
 
 2 It is this word which forms the second part of Kumaso, the general
@@ -4982,10 +4575,7 @@ The August Grandchild inquired of this fair maid, saying :—
 handmaiden’ is the child of a Heavenly Deity by his marriage
 with Oho-yama-tsu-mi Kami.”
 
-The August Grandchild accordingly favoured’ her, where-
-
-
-upon in one night she became pregnant. But the August Grand- |
+The August Grandchild accordingly favoured’ her, whereupon in one night she became pregnant. But the August Grand- |
 
 
 child was slow to believe this, and said :—‘‘ Heavenly Deity
@@ -5007,23 +4597,18 @@ entrance.
 
 * The character 3 which in Chinese means a house, a chamber, is, in
 the older Japanese literature, generally, if not invariably, used to represent
-the Japanese word muro. Another character used for this purpose is > a
+the Japanese word muro. Another character used for this purpose is ) a
 cellar. The muro is distinguished from the ihe, or ordinary dwelling. What
-was the murogij/This term is nowadays applied to a. gardener’s forcing-
-house, which aM doan consists of a pit four or five feet deep and roofed over.
+was the murogij/This term is nowadays applied to a. gardener’s forcinghouse, which aM doan consists of a pit four or five feet deep and roofed over.
 Hi-muro means an ice-house. Ifthe ice-houses in Japan (see drawing in
 “San-sai-dzu-ye,” IV., 19), so denominated, resemble those which I have seen
-at Yang-hwa-chin in Corea, they were pits sunk several feet below the sur-
-face of the ground and covered with a heavy thatched roof. At the foot of
+at Yang-hwa-chin in Corea, they were pits sunk several feet below the surface of the ground and covered with a heavy thatched roof. At the foot of
 Mount Ohoyama there was to be seen, some years ago, a large rectangular
 pit, three or four feet in depth, with a thatched roof sloping to the ground,
 and no walls, which was occupied as a dwelling by the pilgrims to that
-mountain. There are also pits in Corea covered with thatch or strong oil-
-paper, which are used by the poorest classes as shelters. These are called
-um, or um-mak. Pit-dwellers are also mentioned in the old Chinese litera-
-ture. The references to the muro in the “ Kojiki” and “ Nihongi” show
-that the muro of those days had asimilar character. We read of Tsuchi-
-gumo (earth-hiders, see Index) living in muro, of a muro being dug, and of
+mountain. There are also pits in Corea covered with thatch or strong oilpaper, which are used by the poorest classes as shelters. These are called
+um, or um-mak. Pit-dwellers are also mentioned in the old Chinese literature. The references to the muro in the “ Kojiki” and “ Nihongi” show
+that the muro of those days had asimilar character. We read of Tsuchigumo (earth-hiders, see Index) living in muro, of a muro being dug, and of
 steps (down) toa muro. That they were sometimes of considerable size is
 shown by the legend of Jimmu Tenn0’s reign, which speaks of 160 persons
 being in a muro at the same time. The pit was (at least in some cases) not
@@ -5033,9 +4618,6 @@ reeds for laths, and plastered with a mixture of grass andclay.. The roof was
 
 
 —_
-
-
-72 NIHONGI.
 
 
 entering, dwelt therein. Then she made a solemn declaration,
@@ -5061,20 +4643,16 @@ Mr. J. Milne, in an extremely interesting paper on the pit-dwellers of Yezo,
 read before the Asiatic Society of Japan in 1882, argues that certain pits
 discovered by him in large numbers in the islands of Yezo and Itorup were
 the dwellings of a pre-Aino race, whose modern representatives are to be
-found amongst the Kurilsky or their neighbours in Kamschatka and Sagha-
-lin. To these he gives the name of Koro-pok-guru, following an Aino tradi-
-tion communicated to him by Mr. Batchelor.
+found amongst the Kurilsky or their neighbours in Kamschatka and Saghalin. To these he gives the name of Koro-pok-guru, following an Aino tradition communicated to him by Mr. Batchelor.
 
 On the other hand, I am informed by Baron A. von Siebold, who visited
 several of these groups of pits in Kusiro and the Kurile Islands, that,—-
 
 1. Their appearance is, in his opinion, not consonant with the great
-antiquity assigned to them by Mr. Milne’s theory. It was especially notice-
-able that no large trees or even deep-rooted brushwood were found growing
+antiquity assigned to them by Mr. Milne’s theory. It was especially noticeable that no large trees or even deep-rooted brushwood were found growing
 in or between the square pits.
 
-2. They are arranged in a regular order more suggestive of a military en-
-campment than of the abodes of atribe of savages. They are all of the same
+2. They are arranged in a regular order more suggestive of a military encampment than of the abodes of atribe of savages. They are all of the same
 size, except a few larger ones, which may have been occupied by officers.
 An earthwork near one of them was also suggestive of a military occupation.
 _ 3. The pits were carefully dug and found to contain fragments of burned
@@ -5105,8 +4683,7 @@ arose was called Ho no Susori no Mikoto (ke was the ancestor
 of the Hayato) ; next the child which was born when she drew |
 
 
-back and remained away from the heat was called Hiko-ho-ho-
-demi no Mikoto; the child which was next born was called Ho
+back and remained away from the heat was called Hiko-ho-hodemi no Mikoto; the child which was next born was called Ho
 no akari no Mikoto (ke was the ancestor of the Wohari no
 Murajz)—in all three children.’
 
@@ -5124,19 +4701,16 @@ the Heavenly deer-bow and the Heavenly true-deer-arrows,
 and so despatched him. Ame-waka-hiko, having received
 this command, went down and forthwith married many
 daughters of the Earthly Deities. Eight years passed, during
-which he made no report of his mission. Therefore Ama-
-terasu-no Oho-kami summoned Omohi-kane no. Kami (the
+which he made no report of his mission. Therefore Amaterasu-no Oho-kami summoned Omohi-kane no. Kami (the
 Thought-combiner) and inquired the reason why he did not
-come. Now the Thought-combining Deity reflected and in-
-formed her, saying :—‘ It will be well to send the pheasant
+come. Now the Thought-combining Deity reflected and informed her, saying :—‘ It will be well to send the pheasant
 to inquire into this.’ Hereupon, in accordance with this
 God’s device, the pheasant was caused to go and spy out
 the reason. The pheasant flew down and perched on the
 top of a many-branched cassia-tree before Ame-waka-hiko’s
 
 
-' The “ Kojiki” gives these names differently. Ho no akari means fire-
-light. The other two are of doubtful interpretation. Perhaps Susori is from
+' The “ Kojiki” gives these names differently. Ho no akari means firelight. The other two are of doubtful interpretation. Perhaps Susori is from
 the word suso, skirt, and ho-ho-de may mean “go out from flames.” This
 passage shows that the muro was used as an ubu-yaor parturition-house. It
 was the custom in ancient Japan for women to retire for their confinement to
@@ -5162,12 +4736,6 @@ GP
 tere:
 
 
-74
-
-
-NIHONGI.
-
-
 gate, where it uttered a cry, saying :—‘ Ama-waka-hiko!
 
 
@@ -5178,8 +4746,7 @@ made a report of thy mission?’ Now a certain Earthly
 Goddess, named Ama-no-sagu-me, saw the pheasant, and
 said :—‘ A bird of evil cry is sitting on the top of this tree.
 It will be well to shoot it and kill it.” So Ame-waka-hiko
-took the Heavenly deer-bow and the Heavenly true deer-
-arrow given him by the Heavenly Deity and shot it, upon
+took the Heavenly deer-bow and the Heavenly true deerarrow given him by the Heavenly Deity and shot it, upon
 which the arrow went through the pheasant’s breast, and
 finally reached the place where the Heavenly Deity was.
 Now the Heavenly Deity seeing the arrow, said :—‘ This
@@ -5188,8 +4755,7 @@ here?’ So she took the arrow, and pronouncing a curse
 over it, said :—‘Ifit has been shot with evil intent, let
 mischief surely come upon Ama-waka-hiko; but if it has
 been shot with a tranquil heart, let no harm befall him.’
-So she flung it back. It fell down and struck Ame-waka-
-hiko on the top of the breast, so that he straightway died.
+So she flung it back. It fell down and struck Ame-wakahiko on the top of the breast, so that he straightway died.
 This is the reason why people at the present day say,
 ‘Fear a returning arrow.’ Now Ame-waka-hiko’s wife and
 children came down from Heaven and went away upwards
@@ -5198,8 +4764,7 @@ mourning house in Heaven, in which they deposited it and
 lamented over it. Before this Ame-waka-hiko was on
 friendly terms with Aji-suki-taka-hiko-ne no Kami.
 Therefore Aji-suki-taka-hiko-ne no Kami ascended to
-Heaven and condoled with them on the mourning, lament-
-ing greatly. Now this God had by nature an exact
+Heaven and condoled with them on the mourning, lamenting greatly. Now this God had by nature an exact
 resemblance to Ame-waka-hiko in appearance. Therefore
 Ame-waka-hiko’s wife and children, when they saw him,
 rejoiced, and said :—‘ Our Lord is still alive.’ And they
@@ -5257,10 +4822,7 @@ These two poems are in what is now called a Rustic’
 measure.
 
 
-1 The metre is irregular. The“ Kojiki” version (see Ch. K., p. 99) is some-
-
-
-what different. The Weaving-maiden of Heaven is a Chinese personification
+1 The metre is irregular. The“ Kojiki” version (see Ch. K., p. 99) is somewhat different. The Weaving-maiden of Heaven is a Chinese personification
 of the Star a Lyrae. See Mayers’ “Chinese Manual,” p. 97. This affords
 some indication of the date of this poem. It must have been written after
 the Japanese became familiar with Chinese astronomy.
@@ -5283,24 +4845,15 @@ BI onc.
 II. 16.
 
 
-76
-
-
-NIHONGI.
-
-
 After this Ama-terasu no Oho-kami united Yorodzu-hata
 Toyo-aki-tsu-hime, the younger sister of Omohi-kane no
-Kami to Masa-ya-a-katsu-katsu-no-haya-hi no Ama no Oshi-
-ho-mimi no Mikoto, and making her -his consort, caused
+Kami to Masa-ya-a-katsu-katsu-no-haya-hi no Ama no Oshiho-mimi no Mikoto, and making her -his consort, caused
 them to descend to the Central Land of Reed-Plains. At
 this time Katsu-no-haya-hi no Ama no Oshi-ho-mimi no
-Mikoto stood on the floating bridge of Heaven, and glanc-
-ing downwards, said :—‘Is that country tranquillized yet ?
+Mikoto stood on the floating bridge of Heaven, and glancing downwards, said :—‘Is that country tranquillized yet ?
 No! it is a tumble-down land, hideous to look upon.’ So
 he ascended, and reported why he had not gone down. |
-Therefore, Ama-terasu no Oho-kami further sent Taka-
-mika-tsuchino Kami and Futsu-nushi no Kami first to clear
+Therefore, Ama-terasu no Oho-kami further sent Takamika-tsuchino Kami and Futsu-nushi no Kami first to clear
 it. Now these two Gods went down and arrived at
 Idzumo, where they inquired of Oho-na-mochi no Mikoto,
 saying: —‘ Wilt thou deliver up this country to the
@@ -5314,11 +4867,9 @@ Oho-na-mochi no Kami replied to the two Gods in the
 words of his son. The two Gods thereupon ascended to
 Heaven and reported the result of their mission, saying :—
 ‘ All the Central Land of Reed-Plains is now completely
-tranquillized.’ Now Ama-terasu no Oho-kami gave com-
-mand, saying :—‘ If that be so, I willsend down my child.’
+tranquillized.’ Now Ama-terasu no Oho-kami gave command, saying :—‘ If that be so, I willsend down my child.’
 She was about to do so, when in the meantime, an August
-Grandchild was born, whose name was called Ama-tsu-
-hiko-hiko-ho-no-ninigi no Mikoto. Herson represented to
+Grandchild was born, whose name was called Ama-tsuhiko-hiko-ho-no-ninigi no Mikoto. Herson represented to
 her that he wished the August Grandchild to be sent
 down in his stead. Therefore Ama-terasu no Oho-kami
 
@@ -5326,9 +4877,7 @@ down in his stead. Therefore Ama-terasu no Oho-kami
 - gave to Ama-tsu-hiko-hiko-ho no ninigi no Mikoto the three
 
 
-treasures, viz. the curved jewel of Yasaka gem, the eight-
-
-hand mirror, and the sword Kusanagi, and joined to him
+treasures, viz. the curved jewel of Yasaka gem, the eighthand mirror, and the sword Kusanagi, and joined to him
 
 as his attendants Ame no Koyane no Muikoto, the first
 
@@ -5357,31 +4906,26 @@ who dwells at the eight-cross-roads of Heaven, the length
 of whose nose is seven hands, the length of whose back is
 more than seven fathoms. Moreover, a light shines from
 his mouth and from his posteriors. His eye-balls are like
-an eight-hand mirror and have a ruddy glow like the Aka-
-kagachi.’ Thereupon he sent one of his attendant Deities
+an eight-hand mirror and have a ruddy glow like the Akakagachi.’ Thereupon he sent one of his attendant Deities
 to go and make inquiry. Now among all the eighty
 myriads of Deities there was not one who could confront
 him and make inquiry. Therefore he specially commanded
 Ame no Uzume, saying :—‘ Thou art superior to others in
-the power of thy looks. Thou hadst better go and ques-
-tion him.” So Ame no Uzume forthwith bared her breasts
+the power of thy looks. Thou hadst better go and question him.” So Ame no Uzume forthwith bared her breasts
 and, pushing down the band of her garment below her
 navel, confronted him with a mocking laugh. Then the
 God of the cross-ways asked her, saying: —‘Ame no
 Uzume! What meanest thou by this behaviour?’ She
 answered and said :—‘ I venture to ask who art thou that
-dost thus remain in the road by which the child of Ama-
-terasu no Oho-kami is to make his progress?’ The God
+dost thus remain in the road by which the child of Amaterasu no Oho-kami is to make his progress?’ The God
 of the cross-ways answered and said :—‘ I have heard that
-the child of Ama-terasu no Oho-kami is now about to de-
-scend, and therefore I have come respectfully to meet and
+the child of Ama-terasu no Oho-kami is now about to descend, and therefore I have come respectfully to meet and
 attend upon him. My name is Saruta-hiko no Oho-kami.’ *
 Then Ame no Uzume again inquired of him, saying :—
 ‘Wilt thou go before me, or shall I go before thee?’ He
 answered and. said:—‘‘I will go before and be his
 harbinger.’ Ame. no Uzume asked again, saying :—
-‘¢ Whither wilt thou go and whither will the August Grand-
-child go?’ He answered and said :—‘ The child of the
+‘¢ Whither wilt thou go and whither will the August Grandchild go?’ He answered and said :—‘ The child of the
 
 
 1 In later times a phallic Deity.
@@ -5391,9 +4935,6 @@ le pz
 
 
 1 Tse
-
-
-NIHONGI.
 
 
 Heavenly Deity will proceed to the peak of Kushifuru of
@@ -5428,8 +4969,7 @@ Ame no Uzume no Mikoto, in accordance with the request
 made by Saruta’ hiko no Kami, attended upon him.
 Now the August Grandchild commanded Ame no Uzume
 no Mikoto, saying :—‘ Let the name of the Deity whom
-thou didst discover be made thy title.’ Therefore he con-
-ferred on her the designation of Sarume no Kimi.? So
+thou didst discover be made thy title.’ Therefore he conferred on her the designation of Sarume no Kimi.? So
 this was the origin of the male and female Lords of Sarume
 being both styled Kimi.” *
 
@@ -5450,8 +4990,7 @@ no Ushi. This is the God which now dwells in the land of
 either case, the inference is that it was unusual for women to have such
 names or titles, Motowori’s opinion to the contrary notwithstanding.
 
-The Sarume were primarily women who performed comic dances (saru-
-mahi or monkey-dances) in honour of the Gods. They are mentioned along
+The Sarume were primarily women who performed comic dances (sarumahi or monkey-dances) in honour of the Gods. They are mentioned along
 with the Nakatomi and Imbe as taking part in the festival of first-fruits and
 other Shintd ceremonies. These dances were the origin of the Kagura and
 No performances. Another function of the Sarume is that indicated in the
@@ -5460,10 +4999,8 @@ out of her rock-cave. She is there said to have been divinely inspired. This
 divine inspiration has always been common in Japan. ‘The inspired person
 falls into a trance, or hypnotic state, in which he or she speaks in the
 character of some God. Such persons are now known as Miko, defined by
-Hepburn as ‘a woman who, dancing in a Miya, pretends to hold communica-
-tion with the Gods and the spirits of the dead, in short a medium. There
-are also strolling mediums, as in England, women of a low class, who pre-
-tend to deliver messages from deceased friends or relatives. See Lowell’s
+Hepburn as ‘a woman who, dancing in a Miya, pretends to hold communication with the Gods and the spirits of the dead, in short a medium. There
+are also strolling mediums, as in England, women of a low class, who pretend to deliver messages from deceased friends or relatives. See Lowell’s
 “Esoteric Shinto,” in the “J. A. S. T.,” and Index—Inspiration.
 
 * Master of religious abstinence or worship.
@@ -5478,25 +5015,17 @@ ie
 BES (20;
 
 
-80
-
-
-NIHONGI.
-
-
 Katori in Adzuma.' After this the two Deities descended
 and arrived at the Little Shore of Itasa in Idzumo, and
 asked Oho-na-mochi no Kami, saying :—‘ Wilt thou
 deliver up this country to the Heavenly Deity, or no?’
 He answered and said :—‘ I suspected that ye two gods were
-coming to my place. Therefore I will not allow it.’ There-
-upon Futsu-nushi no Kami forthwith returned upwards, and
+coming to my place. Therefore I will not allow it.’ Thereupon Futsu-nushi no Kami forthwith returned upwards, and
 made his report. Now Taka-mi-musubi no Mikoto sent
 the two Gods back again, and commanded Oho-na-mochi
 no Mikoto, saying :—‘ Having now heard what thou hast
 said, I find that there is profound reason in thy words.
-Therefore again I issue my commands to thee more circum-
-stantially, that isto say:—Let the public matters which
+Therefore again I issue my commands to thee more circumstantially, that isto say:—Let the public matters which
 thou hast charge of be conducted by my grandchild, and
 do thou rule divine affairs. Moreover, if thou wilt dwell
 in the palace of Ama no Hi-sumi,’ I will now build it for
@@ -5544,10 +5073,7 @@ Tue AGE OF THE Gops. 81
 ‘He will take my place and will yield respectful obedience.
 I will withdraw and depart from here.’ He forthwith
 invested him with the pure Yasaka jewels, and then became
-concealed for ever.'| Therefore Futsu-nushi no Kami ap-
-
-
-pointed Kunado no Kami’ as guide, and went on a circuit I. 21.
+concealed for ever.'| Therefore Futsu-nushi no Kami appointed Kunado no Kami’ as guide, and went on a circuit I. 21.
 
 
 of pacification.. Any who were rebellious to his authority
@@ -5557,16 +5083,14 @@ rendered obedience were Oho-mono-nushi* no Kami and
 Koto-shiro-nushi no Kami. So they assembled the eighty
 myriads of Gods in the High Market-place of Heaven, and
 taking them up to Heaven with them, they declared their
-loyal behaviour. Then Taka-mi-musubi no Mikoto com-
-manded Oho-mono-nushi no Kami, saying :—‘ If thou dost
-take to wife one of the Deities of Earth, I shall still con-
-sider that thy heart is disaffected. I will therefore now give
+loyal behaviour. Then Taka-mi-musubi no Mikoto commanded Oho-mono-nushi no Kami, saying :—‘ If thou dost
+take to wife one of the Deities of Earth, I shall still consider that thy heart is disaffected. I will therefore now give
 thee my daughter Mi-ho-tsu hime to be thy wife. Take with
 thee the eighty myriads of Deities to be the guards of my
 August Grandchild to all ages. So she sent him down
 again. Thereupon Ta-oki-ho-ohi no Kami, ancestor of the
 Imbe of the Land of Kii, was appointed hatter,’ Hiko-sachi
-no’ Kami was made shield-maker,*> Ma-hitotsu nc Kamié
+no’ Kami was made shield-maker,*) Ma-hitotsu nc Kamié
 was made metal-worker, Ame no Hi-washi’? no Kami was
 appointed tree-fibre maker, and Kushi-akaru-dama no Kami
 ewel-maker.‘
@@ -5579,7 +5103,7 @@ saying :—‘I will set up a Heavenly divine fence’ and a
 
 * Kasa-nuhi, i.e. broad-hat-sewer.
 
-> Tate-nuhi, lit. shield-sewer.
+) Tate-nuhi, lit. shield-sewer.
 
 ° The-one-eyed God. It is curious that the Smith-God of Japan, like the
 Cyclops of Greek fable, should have but one eye. The “ Kojiki” calls him
@@ -5600,9 +5124,6 @@ G
 
 
 Ti s29;
-
-
-82 NIHONGI.
 
 
 Heavenly rock-boundary wherein to practise religious
@@ -5630,8 +5151,7 @@ of ancient Chinese literature. But it is not easy to see how this should be
 preserved as a sacred treasure.
 
 The derivation does not help us much. Hi is no doubt sun, used
-metaphorically, as in hi-kagami, sun-mirror or sacred-mirror ; hiko, sun-
-child (prince); hime, sun-female (princess). This is fairly well represented
+metaphorically, as in hi-kagami, sun-mirror or sacred-mirror ; hiko, sunchild (prince); hime, sun-female (princess). This is fairly well represented
 by the Chinese character ji! in the text. The remainder of the word, viz.
 morogi, is probably moro, a word of multitude, all, many, and gi (for ki),
 wood. There is a proper name, Take-morogi, where morogi is written with
@@ -5665,8 +5185,7 @@ made to divine by means of the Greater Divination, and
 thus to do his service.’
 
 At this time Ama-terasu no Oho-kami took in her hand
-the precious mirror, and, giving it to Ame no Oshi-ho-mi-
-mi no Mikoto, uttered a prayer, saying :—‘ My child, when
+the precious mirror, and, giving it to Ame no Oshi-ho-mimi no Mikoto, uttered a prayer, saying :—‘ My child, when
 thou lookest upon this mirror,.let it be as if thou wert
 looking on me. Let it be with thee on thy couch and in
 thy hall, and let it be to thee a holy? mirror.’ Moreover,
@@ -5692,8 +5211,7 @@ After this, Ame no Oshi-ho-mi-mi no Mikoto went back
 again to Heaven. Therefore Ama-tsu-hiko-ho no ninigi no
 
 
-1 The Greater Divination was by observing the cracks in a deer’s shoulder-
-blade which had been exposed to fire. This is also a practice of the
+1 The Greater Divination was by observing the cracks in a deer’s shoulderblade which had been exposed to fire. This is also a practice of the
 Chinese and Mongols, but in China it is more common to use the shell of a
 tortoise for this purpose, as is sometimes done in Japan also. See Legge’s
 “Chinese Classics,” Vol. III., p. 335, 336. Ban Nobutomo has devoted a
@@ -5721,37 +5239,25 @@ Il. 23:
 2 4r
 
 
-84
-
-
-NIHONGI.
-
-
 Mikoto descended to the peak of Takachiho of Kushibi in
 Hiuga. Then he passed through the Land of Munasohi,!
 in Sojishi, by way of the Hill of Hitawo, in search of a
-country, and stood on a level part of the floating sand-
-bank. Thereupon he called to him Koto-katsu-kuni-
-katsu-Nagasa, the Lord of that country, and made inquiry
+country, and stood on a level part of the floating sandbank. Thereupon he called to him Koto-katsu-kunikatsu-Nagasa, the Lord of that country, and made inquiry
 of him. He answered and said :—‘ There is a country
-here. I will in any case obey thy commands.’ Accord-
-ingly the August Grandchild erected a palace*hall and
+here. I will in any case obey thy commands.’ Accordingly the August Grandchild erected a palace*hall and
 rested here. Walking afterwards by the sea-shore, he saw
 a beautiful woman. The August Grandchild inquired of
 her, saying:—‘ Whose child art thou?’ She answered
-and said :—‘ Thy handmaiden is the child of Oho-yama-
-tsu-mino Kami. My name is Kami-ataka-ashi-tsu-hime,
+and said :—‘ Thy handmaiden is the child of Oho-yamatsu-mino Kami. My name is Kami-ataka-ashi-tsu-hime,
 and I am also called Ko-no-hana-saku-ya-hime.’ Then
-she said:—‘I have also an elder sister named Iha-naga-
-hime.’* The August Grandchild said :—‘ I wish to make
+she said:—‘I have also an elder sister named Iha-nagahime.’* The August Grandchild said :—‘ I wish to make
 thee my wife. How will this be?’ She answered and
 said :—‘ I have a father, Oho-yama-tsu-mi no Kami, I pray
 thee ask him. The August Grandchild accordingly spake
 to Oho-yama-tsu-mi no Kami, saying:—‘I have seen thy
 daughter and wish to make her my wife.’ Hereupon
 Oho-yama-tsu-mi no Kami sent his two daughters with
-one hundred tables of food and drink to offer them respect-
-fully. Now the August Grandchild thought the elder
+one hundred tables of food and drink to offer them respectfully. Now the August Grandchild thought the elder
 sister ugly, and would not take her. So she went away.
 But the younger sister was a noted beauty. So he took
 her with him and favoured her, and in one night she became
@@ -5791,13 +5297,9 @@ Grandchild, and said:—‘ Thy handmaiden has conceived
 a child by the August Grandchild. It is not meet that it
 should be born privately.’ The August Grandchild said:
 —‘ Child of the Heavenly Deity though Iam, how could I
-in one night cause anyone to be with child? Now it can-
-not be my child.’ Kono-hana-saku-ya-hime was exceed-
-ingly ashamed and angry. She straightway made a door-
-less muro, and thereupon made .a vow, saying :—‘ If the
+in one night cause anyone to be with child? Now it cannot be my child.’ Kono-hana-saku-ya-hime was exceedingly ashamed and angry. She straightway made a doorless muro, and thereupon made .a vow, saying :—‘ If the
 child which I have conceived is the child of another Deity,
-may it surely be unfortunate. But if it is truly the off-
-spring ofthe Heavenly Grandchild, may it surely be alive and
+may it surely be unfortunate. But if it is truly the offspring ofthe Heavenly Grandchild, may it surely be alive and
 unhurt.’ So she entered the muro, and burnt it with fire.
 At this time, when the flames first broke out, a child was
 born who was named Ho-no-susori no Mikoto ; next when
@@ -5806,11 +5308,9 @@ named Ho-no-akari no Mikoto. The next child which was
 born was called Hiko-ho-ho-demi no Mikoto,' and also
 Ho-no-wori no Mikoto.”
 
-In one writing it is said :—‘‘ When the flames first be-
-became bright, a child was born named Ho-no-akari no
+In one writing it is said :—‘‘ When the flames first bebecame bright, a child was born named Ho-no-akari no
 Mikoto ; next, when the blaze was at its height, a child was
-born named Ho-no-susumi? no Mikoto, also called Ho-no-
-suseri no Mikoto; next, when she recoiled from the blaze;
+born named Ho-no-susumi? no Mikoto, also called Ho-nosuseri no Mikoto; next, when she recoiled from the blaze;
 a child was born named Ho-no-ori-hiko-ho-ho-demi no
 Mikoto—three children in all. The fire failed to harm them,
 and the mother, too, was not injured in the least. Then
@@ -5835,9 +5335,6 @@ ans
 II. 26.
 
 
-86 NIHONGI.
-
-
 sprang up a bamboo grove. Therefore that place was
 called Taka-ya.'
 
@@ -5852,8 +5349,7 @@ In one writing it is said :—‘‘ Taka-mi-musubi no. Mikoto
 took the coverlet which was on the true couch and wrapped
 in it Ama-tsu-hiko-kuni-teru-hiko-ho no ninigi no Mikoto,
 who forthwith drew open the rock-door of Heaven, and
-thrusting asunder the eight-piled clouds of Heaven, de-
-scended. At this time Ama-no-oshi-hi no Mikoto, the
+thrusting asunder the eight-piled clouds of Heaven, descended. At this time Ama-no-oshi-hi no Mikoto, the
 ancestor of the Oho-tomo* no Muraji, taking with him
 Ame-kushi-tsu Oho-kume, the ancestor of the Kume Be,*
 placed on his back the rock-quiver of Heaven, drew on his
@@ -5862,20 +5358,16 @@ placed on his back the rock-quiver of Heaven, drew on his
 a knife, but to bite it through, a thin garment being interposed. It should be
 breathed on seven times with warm breath before being tied.
 
-Superstition and Ritual have a preference for knives of some more primi-
-tive material than iron. Medea shears her magic herbs “curvamine falcis
+Superstition and Ritual have a preference for knives of some more primitive material than iron. Medea shears her magic herbs “curvamine falcis
 ahenze,” and Zipporah performs the rite of circumcision with a sharp stone.
 But a more prosaic explanation of the present passage is suggested by a
 surgeon friend. There is less hemorrhage when a blunt instrument is used.
 
 * Bamboo-house.
 
-2 This incident is the mythical counterpart of the annual festival of Nihi-
-nahe or nihi-name, now celebrated on November 23rd, when the new sea-
-son’s rice is offered to the Gods and partaken of by the Emperor for the
+2 This incident is the mythical counterpart of the annual festival of Nihinahe or nihi-name, now celebrated on November 23rd, when the new season’s rice is offered to the Gods and partaken of by the Emperor for the
 first time. It was grown in plots of ground (yu-niha), the position of which
-was fixed upon by divination and prepared under strict conditions’ of cere-
-monial purity. Nihi means new, n represents no, the genitive emis: and
+was fixed upon by divination and prepared under strict conditions’ of ceremonial purity. Nihi means new, n represents no, the genitive emis: and
 ahe means feast. Name means to taste.
 
 The modern name of this festival is Shin-j6-sai. There is a similar one in
@@ -5900,10 +5392,8 @@ forearm a dread loud-sounding elbow-pad,’ and grasped
 in his hand a Heavenly vegetable-wax-tree bow and a
 Heavenly feathered arrow, to which he added an eight-eyed
 sounding-arrow.? Moreover he girt on his mallet-headed
-sword,’ and taking his place before the Heavenly Grand-
-child, proceeded downwards as far as the floating bridge of
-Heaven, which is on the two peaks of Kushibi of Taka-
-chiho in So in Hiuga. Then he stood on a level part of
+sword,’ and taking his place before the Heavenly Grandchild, proceeded downwards as far as the floating bridge of
+Heaven, which is on the two peaks of Kushibi of Takachiho in So in Hiuga. Then he stood on a level part of
 the floating sand-bank and passed through the desert land
 
 
@@ -5912,12 +5402,11 @@ Stone Mallets.
 
 of Sojishi by way of Hitawo in search of a country
 until he came to Cape Kasasa in Ata no Nagaya.
-Now at this place there was a God named Koto-katsu-
-kuni-katsu-Nagasa. Therefore the Heavenly Grandchild
+Now at this place there was a God named Koto-katsukuni-katsu-Nagasa. Therefore the Heavenly Grandchild
 inquired of this-God, saying:—‘Is there a country?’
 
 
->
+)
 
 
 Il.
@@ -5941,28 +5430,19 @@ Parker says that the nari-kabura is not Chinese, but an invention of the Huns.
 ’ From the way in which these swords are associated with “ stone-mallet ”
 swords in the Jimmu Tenné narrative (see also Ch. K., pp. 112, 142), | am
 disposed to think that they were of stone, and probably identical with the
-mallet-shaped objects called raiko shown in Plate XI. of Kanda’s “ Stone Im-
-plements of Japan,” from which the illustration is taken. They were, no
+mallet-shaped objects called raiko shown in Plate XI. of Kanda’s “ Stone Implements of Japan,” from which the illustration is taken. They were, no
 doubt, lashed to wooden handles, and used as weapons.
 
 
 II. 28.
 
 
-88
-
-
-NIHONGI,
-
-
 was the child of Izanagi no Mikoto, and his other name is
 Shiho-tsu-tsu-no oji.”’?
 
 In one writing it is said:—‘‘ The Heavenly Grandchild
-favoured Ataka-ashi-tsu-hime, the daughter of Oho-yama-
-tsu-mino Kami. In one night she became pregnant, and
-eventually gave birth to four children. Therefore Ataka-
-ashi-tsu-hime took the children in her arms, and, coming
+favoured Ataka-ashi-tsu-hime, the daughter of Oho-yamatsu-mino Kami. In one night she became pregnant, and
+eventually gave birth to four children. Therefore Atakaashi-tsu-hime took the children in her arms, and, coming
 
 
 ‘forward, said:—‘ Ought the children of the Heavenly
@@ -6017,8 +5497,7 @@ from amidst the embers, and approaching, told him,
 saying:—‘ The children which thy handmaiden has
 brought forth, and thy handmaiden herself, have of our
 own accord undergone the danger of fire,' and yet have
-suffered not the smallest hurt. Will the Heavenly Grand-
-child not look on them?’ He answered and said :—‘ I
+suffered not the smallest hurt. Will the Heavenly Grandchild not look on them?’ He answered and said :—‘ I
 knew from the first that they were my children, only, as
 they were conceived in one night, I thought that there
 might be suspicions, and I wished to let everybody know
@@ -6033,8 +5512,7 @@ In one writing it is said :—‘‘Ame no Oshi-ho-ne no
 Mikoto took to wife Taku-hata-chichi-hime Yorodzu-hata *
 hime no Mikoto, daughter of Taka-mi-musubi no Mikoto.”
 
-Another version says :—‘* Honoto-hata-hime-ko-chichi-
-hime no Mikoto, daughter of Taka-mi-musubi no Mikoto.”
+Another version says :—‘* Honoto-hata-hime-ko-chichihime no Mikoto, daughter of Taka-mi-musubi no Mikoto.”
 She bore to him a child named Ama-no-ho-no-akari no
 Mikoto. Next she bore Ama-tsu-hiko-ne-ho-no-ninigi-ne
 no Mikoto. The child of Ama-no-ho-no-akari no Mikoto
@@ -6070,15 +5548,11 @@ Pe ae To
 eke)
 
 
-NIHONGI.
-
-
 Plains, the rocks, tree-stems and herbage have still the
 power of speech. At night, they make a clamour like that
 of flames of fire; in the day-time they swarm up like the
 flies in the fifth month, etc., etc.””. Now Taka-mi-musubi no
-Mikoto gave command, saying :—‘‘ I formerly sent Ame-
-waka-hiko to the Central Land of Reed-Plains, but he has
+Mikoto gave command, saying :—‘‘ I formerly sent Amewaka-hiko to the Central Land of Reed-Plains, but he has
 been long absent, and until now has not returned, perhaps
 being forcibly prevented by some of the Gods of the Land.”
 She therefore sent the cock-pheasant Na-naki to go thither
@@ -6087,15 +5561,12 @@ he saw the fields of millet and the fields of pulse he remained
 there, and did not come back. This was the origin of the
 modernsaying, ‘‘ The pheasant special messenger.”’ Therefore
 she afterwards sent the hen-pheasant Na-naki, and this bird
-came down and was hit by an arrow shot by Ame-waka-
-hiko, after which she came up and made her report, etc.,
+came down and was hit by an arrow shot by Ame-wakahiko, after which she came up and made her report, etc.,
 etc. At this time Taka-mi-musubi no Mikoto took the
 coverlet which was upon the true couch, and having
-clothed therewith the Heavenly Grandchild Ama-tsu-
-hikone Ho-no-ninigi-ne no Mikoto, sent him downwards,
+clothed therewith the Heavenly Grandchild Ama-tsuhikone Ho-no-ninigi-ne no Mikoto, sent him downwards,
 thrusting asunder the eight-piled clouds of Heaven.
-Therefore this God was styled Ame-kuni-nigishi-hiko-ho-
-ninigi no Mikoto. Now the place at which he arrived on
+Therefore this God was styled Ame-kuni-nigishi-hiko-honinigi no Mikoto. Now the place at which he arrived on
 his descent is called the Peakof Sohori-yama of Takachiho
 in So in Hiuga. When he proceeded therefore on his way,
 etc., etc.,! he arrived at Cape Kasasa jin Ata, and finally
@@ -6144,11 +5615,9 @@ Ah ! ye dotterels of the beach !*
 In one writing it is said :—‘‘ The daughter of Taka-mi- yy, 31.
 musubi no Mikoto, Ama-yorodzu-taku-hata chi-hata hime.”
 
-One version is :—‘‘ Yorodzu-hata-hime ko-dama-yori-
-hime no Mikoto was the child of Taka-mi-musubi no
+One version is :—‘‘ Yorodzu-hata-hime ko-dama-yorihime no Mikoto was the child of Taka-mi-musubi no
 Mikoto. This Goddess became the consort of Ame no
-Oshi-hone no Mikoto, and bore to him a child named Ama-
-no Ki-ho-ho-oki-se no Mikoto.”
+Oshi-hone no Mikoto, and bore to him a child named Amano Ki-ho-ho-oki-se no Mikoto.”
 
 One version is :—‘‘ Katsu no haya-hi no Mikoto’s child
 was Ama no Oho-mimi no Mikoto. This God took to wife
@@ -6156,16 +5625,13 @@ Nigutsu hime, and had by hera child named Ninigi no
 Mikoto.”
 
 One version is :—‘‘ The daughter of Kami-mi-musubi no
-Mikoto, Taku-hata chi-hata hime, bore a child named Ho-
-no-ninigi no Mikoto.”’
+Mikoto, Taku-hata chi-hata hime, bore a child named Hono-ninigi no Mikoto.”’
 
 One version is :—‘‘ Ama no Kise no Mikoto took to wife
 Ata-tsu hime, and had children, first Ho-no-akari. no
-Mikoto, next Ho-no-yo-wori no Mikoto, and next Hiko-ho-
-ho-demi no Mikoto.”’
+Mikoto, next Ho-no-yo-wori no Mikoto, and next Hiko-hoho-demi no Mikoto.”’
 
-In one writing it is said :—‘‘ Masa-ya-a-katsu-katsu-no-
-haya-hi Ama no Oshi-ho-mimi no Mikoto took to wife Ama
+In one writing it is said :—‘‘ Masa-ya-a-katsu-katsu-nohaya-hi Ama no Oshi-ho-mimi no Mikoto took to wife Ama
 
 
 ? A regular tanka (short poem) of 31 syllables. The meaning is: “ The
@@ -6177,16 +5643,11 @@ Is it not so?”
 Hi eg2e
 
 
-92 NIHONGI.
-
-
-no yorodzu-taku-hata-chi-hata hime, daughter of Taka-mi-
-musubi no Mikoto, and by her as consort had a child
+no yorodzu-taku-hata-chi-hata hime, daughter of Taka-mimusubi no Mikoto, and by her as consort had a child
 named Ama-teru-kuni-teru Hiko-ho no akari no Mikoto.
 He is the ancestor of the Ohari no Muraji. The next child
 was Ama-no-nigishi-kuni-no-nigishi Ama-tsu-hiko-ho-no
-ninigi no Mikoto. This God took to wife Kono hana saku-
-ya-hime no Mikoto, daughter of Oho-yama-tsu-mi no Kami,
+ninigi no Mikoto. This God took to wife Kono hana sakuya-hime no Mikoto, daughter of Oho-yama-tsu-mi no Kami,
 and by her as consort had first a child named Ho-no-susori
 no Mikoto, and next Hiko-hoho-demi no Mikoto.”’
 
@@ -6207,12 +5668,10 @@ elder brother’s fish-hook, and there was no means of finding it.
 He accordingly made another new hook which he offered to his
 elder brother. But his elder brother refused to accept it, and
 demanded the old hook. The younger brother, grieved at this,
-forthwith took his cross-sword* and forged* from it new fish-
-hooks, which he heaped up ina winnowing tray, and offered to his
+forthwith took his cross-sword* and forged* from it new fishhooks, which he heaped up ina winnowing tray, and offered to his
 brother. But his elder brother was wroth, and said :—‘‘ These
 are not my old fish-hook: though they are many, I will not
-take them.” And he continued repeatedly to demand it vehe-
-mently. Therefore Hiko-hoho-demi no Mikoto’s. grief was
+take them.” And he continued repeatedly to demand it vehemently. Therefore Hiko-hoho-demi no Mikoto’s. grief was
 exceedingly profound, and he went and made moan by the shore
 of the sea. There he met Shiho-tsutsu* no Oji.® The old
 man inquired of him saying :—‘‘ Why dost thou grieve here?”
@@ -6238,8 +5697,7 @@ Tue AGE OF THE GODS. | 93
 in it Hoho-demi no Mikoto, sank it in the sea. Forthwith he
 found himself at a pleasant strand, where he abandoned the
 basket, and, proceeding on his way, suddenly arrived at the
-palace of the Sea-God. This palace was provided with battle-
-ments and turrets, and had stately towers. Before the gate
+palace of the Sea-God. This palace was provided with battlements and turrets, and had stately towers. Before the gate
 there was a well, and over the well there grew a many-branched
 cassia-tree,' with wide-spreading boughs and leaves. Now
 Hiko-hoho-demi no Mikoto went up to the foot of this tree and
@@ -6251,8 +5709,7 @@ she spoke to her father and mother, saying :—‘‘ There is a rare
 stranger at the foot of the tree before the gate.” The God of
 the Sea thereupon prepared an eight-fold cushion and led him
 in. When they had taken their seats, he inquired of him the
-object of his coming. Then Hiko-hoho-demi no Mikoto ex-
-plained to him in reply all the circumstances. - The Sea-God
+object of his coming. Then Hiko-hoho-demi no Mikoto explained to him in reply all the circumstances. - The Sea-God
 accordingly assembled the fishes, both great and small, and
 required of them an answer. They all said :—‘‘ We know not.
 Only the Red-woman”* has had a sore mouth for some time past
@@ -6283,9 +5740,6 @@ in the well, saw the shadow,” etc.
 ee lee ois
 
 
-94 - NTHONGI.
-
-
 Mikoto, and addressing him in an easy, familiar way, said :—
 “If the Heavenly Grandchild desires to return to his country
 I will send him back.” So he gave him the fish-hook which he
@@ -6294,10 +5748,8 @@ thou givest this fish-hook to thy elder brother, before giving to
 him call to it secretly, and say, ‘A poor hook.” He further
 presented to him the jewel of the flowing tide and the jewel of
 the ebbing tide, and instructed him, saying :—‘‘ If thou dost dip
-the tide-flowing jewel, the tide will suddenly flow, and there-
-withal thou shalt drown thine elder brother. But in case thy
-elder brother should repent and beg forgiveness, if, on the con-
-trary, thou dip the tide-ebbing jewel, the tide will spontaneously
+the tide-flowing jewel, the tide will suddenly flow, and therewithal thou shalt drown thine elder brother. But in case thy
+elder brother should repent and beg forgiveness, if, on the contrary, thou dip the tide-ebbing jewel, the tide will spontaneously
 ebb, and therewithal thou shalt save him. If thou harass him
 in this way, thy elder brother will of his own accord render
 submission.”
@@ -6332,10 +5784,7 @@ no Mikoto, saying :—‘‘ When thy handmaiden is in travail, I
 
 
 1 See above, p. 73-
-2 Ever since the time of Cain and Abel, folk-lore has had a curious par-
-
-
-tiality for the younger of two brothers. The Jimmu legend contains several
+2 Ever since the time of Cain and Abel, folk-lore has had a curious partiality for the younger of two brothers. The Jimmu legend contains several
 instances of this. .
 
 
@@ -6347,22 +5796,16 @@ pray thee do not look upon her.” However, the Heavenly
 peeped in. Now Toyo-tama-hime was just in childbirth, and
 had changed into a dragon.’ She was greatly ashamed, and
 said :—‘‘ Hadst thou not disgraced me, I would have made the
-sea and land communicate with each other, and for ever pre-
-
-
-vented them from being sundered. But now that thou hast
-disgraced me, wherewithal shall friendly feelings be knit to-
-gether ?”’ So she wrapped the infant in rushes, and abandoned
+sea and land communicate with each other, and for ever prevented them from being sundered. But now that thou hast
+disgraced me, wherewithal shall friendly feelings be knit together ?”’ So she wrapped the infant in rushes, and abandoned
 it on the sea-shore. Then she barred the sea-path, and passed
-away.” Accordingly the child was called Hiko-nagisa-take-u-
-gaya-fuki-ahezu* no Mikoto.
+away.” Accordingly the child was called Hiko-nagisa-take-ugaya-fuki-ahezu* no Mikoto.
 
 A long time after, Hiko-hoho-demi no Mikoto died, and was
 buried in the Misasagi on the summit of Mount Takaya in
 Hiuga.
 
-In one writing it is said:—‘‘ The elder brother Ho-no-
-susori no Mikoto had acquired a mountain-gift. Now the
+In one writing it is said:—‘‘ The elder brother Ho-nosusori no Mikoto had acquired a mountain-gift. Now the
 elder and younger brothers wished to exchange gifts, and
 therefore the elder brother took the bow which was of the gift
 of the younger brother, and went to the mountain in quest
@@ -6372,8 +5815,7 @@ of the younger brother, and went to the mountain in quest
 the Sea-King-and his daughter are represented as combining the Dragon
 with the human form. See above, p. 61.
 
-* “There are many examples of the disappearance of the bride or bride-
-groom in consequence of the infringement of various mystic rules.” Lang’s
+* “There are many examples of the disappearance of the bride or bridegroom in consequence of the infringement of various mystic rules.” Lang’s
 “Custom and Myth,” p. 81.
 
 * Prince-beach-brave-cormorant-rush-thatch-unfinished. The application
@@ -6389,12 +5831,6 @@ Dix 36.
 II. +32.
 
 
-96
-
-
-NIHONGI.
-
-
 of wild animals. But never a trace of game did he see.
 The younger brother took the fish-hook of his elder
 brother’s gift, and with it went a-fishing on the sea, but
@@ -6405,8 +5841,7 @@ brother was sorry, and of the cross-sword which he had
 in his girdle made fish-hooks, which he heaped up in
 a winnowing tray, and offered to his elder brother. But
 the elder brother refused to receive them, saying :—‘I still
-wish to get the fish-hook of my gift.’ Hereupon Hiko-
-hoho-demi no Mikoto, not knowing where to look for it,
+wish to get the fish-hook of my gift.’ Hereupon Hikohoho-demi no Mikoto, not knowing where to look for it,
 only grieved and made moan. He went to the sea-shore,
 where he wandered up and down lamenting. Now there
 was an old man, who suddenly came forward, and gave
@@ -6433,8 +5868,7 @@ Hoho-demi by a cord and sunk him.” [The term katama
 
 means what ts now called a bamboo-basket. |
 
-Now there is in the bottom of the sea a natural “ Little-
-shore of delight.””. Proceeding onwards, along this shore,
+Now there is in the bottom of the sea a natural “ Littleshore of delight.””. Proceeding onwards, along this shore,
 he arrived of a sudden at the palace of Toyo-tama-hiko, the
 God of the Sea. This palace had magnificent gates and
 towers of exceeding beauty. Outside the gate there was a
@@ -6467,7 +5901,7 @@ looked up and there was a beautiful God leaning against a
 cassia-tree. She accordingly returned within, and informed
 her mistress.
 
-Hereupon Toyo-tama-hiko sent a>man to inquire,
+Hereupon Toyo-tama-hiko sent a)man to inquire,
 saying :—* Who art thou, O stranger, and why hast thou
 come here?’ Hoho-demino Mikoto answered and said :—
 ‘I am the grandchild of the Heavenly Deity,’ and ulti-
@@ -6478,8 +5912,7 @@ made him obeisance, and led him within, where ,he inquired
 courteously of his welfare, and gave him to wife his
 daughter, Toyo-tama-hime. Therefore he remained and
 dwelt in the palace of the sea. Three years passed, after
-which Hoho-demi no Mikoto sighed frequently, and Toyo-
-tama-hime asked him, saying :—‘ Does the Heavenly
+which Hoho-demi no Mikoto sighed frequently, and Toyotama-hime asked him, saying :—‘ Does the Heavenly
 Grandchild perchance wish to return to his native land?’
 He answered and said:—‘It is so.’ Toyo-tama-hime
 forthwith told the God her father, and said :—‘ The
@@ -6508,15 +5941,8 @@ H
 ES 308
 
 
-98
-
-
-NIHONGI.
-
-
 ‘When thou givest the fish-hook to thy elder brother, thou
-must use this imprecation : “ The origin of poverty : the be-
-ginning of starvation: the root of wretchedness.” Give it not
+must use this imprecation : “ The origin of poverty : the beginning of starvation: the root of wretchedness.” Give it not
 to him until thou hast said this. Again, if thy brother cross
 the sea, I will then assuredly stir up the blasts and billows, and
 make them overwhelm and vex him.’ Thereupon he placed
@@ -6526,8 +5952,7 @@ and so sent him back to his own country. ;
 At another time, before this, Toyo-tama-hime spoke in
 an easy, familiar way, and said:—‘ Thy handmaid is with
 child. Some day, when the winds and waves are boisterous,
-I will come forth to the sea-shore, and I pray thee to con-
-struct for me a parturition-house, and to await me there.’
+I will come forth to the sea-shore, and I pray thee to construct for me a parturition-house, and to await me there.’
 
 After this, Toyo-tama-hime fulfilled her promise to come,
 and spake to Hoho-demi no Mikoto, saying :—‘ To-night
@@ -6538,16 +5963,13 @@ this time Toyo-tama-hime had become changed into an
 enormous sea-monster of eight fathoms, and was wriggling
 about on her belly. She at last was angry that she was
 put to:shame, and forthwith went straight back again to
-her native sea, leaving behind her younger sister Tama-yori-
-hime as nurse to her infant. The child was called Hiko-
-nagisa-take-u-gaya-fuki-ayezu no Mikoto, because the
+her native sea, leaving behind her younger sister Tama-yorihime as nurse to her infant. The child was called Hikonagisa-take-u-gaya-fuki-ayezu no Mikoto, because the
 parturition-house by the sea-shore was all thatched with
 cormorants’ feathers, and the child was born before the
 tiles had met. It was for this reason that he received this
 name.” ®
 
-One version says :—‘‘ Before the gate there was a beau-
-tiful well, and over the well there grew a cassia-tree with
+One version says :—‘‘ Before the gate there was a beautiful well, and over the well there grew a cassia-tree with
 an hundred branches. Accordingly Hiko-hoho-demi no
 Mikoto sprang up into that tree and stood there. At this
 time, Toyo-tama-hime, the daughter of the God of the
@@ -6594,15 +6016,13 @@ the reason why the tish kuchime is not among the articles
 of food set before the Emperor.
 
 When the time came for Hiko-hoho-demi. no: Mikoto. to
-take his departure, the God of the Sea spake to him, say-
-ing :—‘I am rejoiced in my inmost heart that the Heavenly
+take his departure, the God of the Sea spake to him, saying :—‘I am rejoiced in my inmost heart that the Heavenly
 Grandchild has now been graciously pleased to visit me.
 When shall I ever forget it?’ So he took the jewel which
 when thought of makes the tide to flow, and the jewel
 which when thought of makes the tide to ebb, and joining
 them to the fish-hook, presented them, saying :—‘ Though
-the Heavenly Grandchild may be divided from me by eight-
-fold windings (of road), I hope that we shall think of each
+the Heavenly Grandchild may be divided from me by eightfold windings (of road), I hope that we shall think of each
 other from time to time. Do not therefore throw them
 away.’ And he taught him, saying :—‘ When thou givest
 this fish-hook to thy elder brother, call it thus :—‘ A hook
@@ -6623,9 +6043,6 @@ Ih 4a:
 ICO
 
 
-NIHONGI.
-
-
 brother is angry, and has a mind to do thee hurt, then
 
 
@@ -6639,8 +6056,7 @@ submissive vassal.2 Now Hiko-hoho-demi no Mikoto,
 having received the jewels and the fish-hook, came back to
 his original palace, and followed implicitly the teaching of
 the Sea-God. First of all he offered his elder brother the
-fish-hook. His elder brother was angry and would not re-
-ceive it. Accordingly the younger brother produced the
+fish-hook. His elder brother was angry and would not receive it. Accordingly the younger brother produced the
 tide-flowing jewel, upon which the tide rose with a mighty
 overflow, and the elder brother was drowning. Therefore
 he besought his younger brother, saying:—‘I will serve
@@ -6650,8 +6066,7 @@ whereupon the tide ebbed of its own accord, and the elder
 brother was restored to tranquillity. After this the elder
 brother changed his former words, and said :—‘I am thy
 elder brother. How can an elder brother serve a younger
-brother?’ Then the younger brother produced the tide-
-flowing jewel, which his elder brother seeing, fled up to a
+brother?’ Then the younger brother produced the tideflowing jewel, which his elder brother seeing, fled up to a
 high mountain. Thereupon the tide also submerged the
 mountain. The elder brother climbed a lofty tree, and
 thereupon the tide also submerged the tree. The elder
@@ -6661,13 +6076,11 @@ thereupon the tide also submerged the tree. The elder
 
 
 flee to. So he acknowledged his offence, saying :—‘ I have
-been in fault. In future my descendants for eighty gener-
-ations shall serve thee as thy mimes in ordinary. [One
+been in fault. In future my descendants for eighty generations shall serve thee as thy mimes in ordinary. [One
 version has ‘dog-men.’] I pray thee, have pity on me.’
 Then the younger brother produced the tide-ebbing jewel,
 whereupon the tide ceased of its own accord. Hereupon
-the elder brother saw that the younger brother was pos-
-sessed of marvellous powers, and at length submitted to
+the elder brother saw that the younger brother was possessed of marvellous powers, and at length submitted to
 serve him.
 
 On this account the various Hayato descended from Ho
@@ -6687,13 +6100,10 @@ not pressing a man to return a lost needle.”"* _ .
 ee iasvone writing it is said:—‘‘ The elder brother, Ho no
 susori no Mikoto, was endowed with a sea-gift, and was
 therefore called Umi no sachi-hiko :? the younger. brother,
-Hiko-hoho-demi no Mikoto, was endowed with a mountain-
-gift, and was therefore called Yama no sachi-hiko.. When-
-ever the wind blew and the rain fell, the elder brother lost
+Hiko-hoho-demi no Mikoto, was endowed with a mountaingift, and was therefore called Yama no sachi-hiko.. Whenever the wind blew and the rain fell, the elder brother lost
 his gain, but in spite of wind and rain the younger brother’s
 gain did not fail him. Now the elder brother spoke to the
-younger brother, saying :—‘ I wish to make trial of an ex-
-change of gifts with thee.’ The younger brother consented,
+younger brother, saying :—‘ I wish to make trial of an exchange of gifts with thee.’ The younger brother consented,
 and the exchange was accordingly made. Thereupon the
 elder brother took the younger brother’s bow and arrows,
 and went a-hunting to the mountain: the younger brother
@@ -6705,8 +6115,7 @@ demanded back his own fish-hook. Now the younger
 brother had lost the fish-hook in the sea, and he knew not
 how to find it. Therefore he made other new fish-hooks,
 several thousands in number, which he offered to his elder
-brother. The elder brother was angry, and would not re-
-ceive them, but demanded importunately the old fish-hook,
+brother. The elder brother was angry, and would not receive them, but demanded importunately the old fish-hook,
 etc., etc. Then the younger brother went to the sea-shore
 and wandered about, grieving and making moan. Now
 
@@ -6718,11 +6127,9 @@ of Temmu and Jité, not, I think, before that time.
 The Yengi-shiki (regulations of the Yengi, 901-923 period) says that on
 the first day of the year, at coronations, and when foreign envoys were
 received, twenty upper class hayato were to attend, twenty “new-comer ”
-hayato, and 132 ordinary hayato. These were to take their posts in detach-
-ments to right and left outside the Palace Gate. When the officials first
+hayato, and 132 ordinary hayato. These were to take their posts in detachments to right and left outside the Palace Gate. When the officials first
 entered, or got up from their seats, the “new-comer” hayato raised three
-barks, and there was more barking or howling, sometimes loud and some-
-times low, at other stages of the ceremony.
+barks, and there was more barking or howling, sometimes loud and sometimes low, at other stages of the ceremony.
 
 1 The Japanese word-hari means both needle and fish-hook. There is no
 such ambiguity in the Chinese characters used here.
@@ -6736,14 +6143,7 @@ II. 42.
 ET 43%
 
 
-102
-
-
-NIHONGI.
-
-
-there was there a river wild-goose which had become en-
-tangled in a snare, and was in distress. He took pity on it,
+there was there a river wild-goose which had become entangled in a snare, and was in distress. He took pity on it,
 and loosing it, let it go. Shortly after there appeared Shiho
 
 
@@ -6757,8 +6157,7 @@ Pleasant Road. So he went on along this road, which in
 due course led him to the palace of the Sea-God. Then the
 Sea-God came out himself to meet him, and invited him to
 enter. He spread eight layers of sea-asses’* skins, on which
-he made him to sit, and with a banquet of tables of a hun-
-dred, which was already prepared, he fulfilled the rites of
+he made him to sit, and with a banquet of tables of a hundred, which was already prepared, he fulfilled the rites of
 hospitality. Then he inquired of him in an easy manner :—
 ‘Wherefore has the Grandchild of the Heavenly Deity been
 graciously pleased to come hither ?’”
@@ -6780,14 +6179,10 @@ to Hiko-hoho-demi no Mikoto, and instructed him thus :—
 recite the following :—‘‘ A big hook, an eager hook, a poor
 hook, a silly hook.” After saying all this, fling it to him with
 a back-handed motion.’ Then he summoned together the
-sea-monsters, and inquired of them, saying :—‘ The Grand-
-child of the Heavenly Deity is now about to take his de-
+sea-monsters, and inquired of them, saying :—‘ The Grandchild of the Heavenly Deity is now about to take his de-
 
 
-. parture homewards. In how many days will you accom-
-
-
-plish this service?’ Then all the sea-monsters fixed each a
+. parture homewards. In how many days will you accomplish this service?’ Then all the sea-monsters fixed each a
 number of days according to his own length. Those of
 
 
@@ -6801,17 +6196,13 @@ Tue AGE OF THE Gops. 103
 
 
 them which were one fathom long of their own accord said :
-—‘In the space of one day we will accomplish it.’ The one-
-fathom sea-monsters were accordingly sent with him as his
-escort. Then he gave him two precious objects, the tide-
-flowing jewel and the tide-ebbing jewel, and taught him how
+—‘In the space of one day we will accomplish it.’ The onefathom sea-monsters were accordingly sent with him as his
+escort. Then he gave him two precious objects, the tideflowing jewel and the tide-ebbing jewel, and taught him how
 to use them. He further instructed him, saying :—‘ If thy
 elder brother should make high fields, do thou make puddle
 fields ; if thy elder brother make puddle fields, do thou make
-high fields. In this manner did the Sea-God in all sin-
-cerity lend him his aid. Now Hiko-hoho-demi no Mikoto,
-when he returned home, followed implicitly the God’s in-
-structions, and acted accordingly. When the younger
+high fields. In this manner did the Sea-God in all sincerity lend him his aid. Now Hiko-hoho-demi no Mikoto,
+when he returned home, followed implicitly the God’s instructions, and acted accordingly. When the younger
 brother produced the tide-flowing jewel, the elder brother
 forthwith flung up his hands in the agony of drowning.
 But when, on the other hand, he produced the tide-ebbing
@@ -6830,8 +6221,7 @@ thou shouldst build me a house by the sea-side and
 await me there.’ Therefore Hiko-ho-ho-demi no Mikoto,
 as soon as he returned to his own country, took cormorants’
 feathers, and with them as thatch, made a parturition-house.
-But before the tiling of the house was completed, Toyo-
-tama-hime herself arrived, riding on a great tortoise, with
+But before the tiling of the house was completed, Toyotama-hime herself arrived, riding on a great tortoise, with
 her younger sister Tama-yori-hime, and throwing a
 splendour over the sea. Now the months ofher pregnancy
 were already fulfilled, and the time of her delivery was
@@ -6850,9 +6240,6 @@ ti 45:
 
 
 TO4
-
-
-NIHONGI.
 
 
 peeped in secretly, when behold, she had become changed
@@ -6878,15 +6265,11 @@ In the island of wild-ducks-—
 The birds of the offing.” *
 
 Another account says :—‘‘ Hiko-ho-ho-demi no Mikoto
-took. other women and made them wet-nurses, bathing-
-women, boiled-rice-chewers, and washerwomen.* All these
+took. other women and made them wet-nurses, bathingwomen, boiled-rice-chewers, and washerwomen.* All these
 various Be were provided for the respectful nurture of
 the infant. The provision at this time, by means of other
 women, of milk for the nurture of the august child was the
-origin of the present practice of engaging temporarily wet-
-
-
-nurses to bring up infants.
+origin of the present practice of engaging temporarily wetnurses to bring up infants.
 
 
 After this, when Toyo-tama-hime heard what a fine boy
@@ -6894,8 +6277,7 @@ her child was, her heart was greatly moved with affection,
 and she wished to come back and bring him up herself.
 But she could not rightly do so, and therefore she sent her
 younger sister Tama-yori-hime to nurture him. Now when
-Toyo-tama-hime sent Tama-yori-hime, she offered (to Hoho-
-demi no Mikoto) the following verse in answer :—
+Toyo-tama-hime sent Tama-yori-hime, she offered (to Hohodemi no Mikoto) the following verse in answer :—
 
 
 Some may boast
@@ -6947,8 +6329,7 @@ in length, who with fins erect stays in the small orange-
 ori no Mikoto with him, and went to see the sea-monster.
 The sea-monster then suggested a plan, saying :—‘I could
 bring the Heavenly Grandchild to the Sea-Palace after a
-journey of eight days, but my King has a courser, a sea-
-monster of one fathom, who will without, doubt bring him
+journey of eight days, but my King has a courser, a seamonster of one fathom, who will without, doubt bring him
 thither in one day. I will therefore return and make him
 come to thee. Thou shouldst mount him, and enter the
 sea. When thou enterest the sea, thou wilt in due course
@@ -6980,12 +6361,6 @@ re
 ie Ays
 
 
-106
-
-
-NIHONGI.
-
-
 which she was about to draw water from the well, when
 she espied in the bottom of the water the shadow ofa man.
 She could not draw water, and looking up saw the Heavenly
@@ -7013,8 +6388,7 @@ fish-hook from her mouth and respectfully delivered it to him.
 The Sea-God then gave the fish-hook to Hiko-hoho-demi
 no Mikoto, and instructed him,. saying :—‘ When _ thy
 elder brother’s fish-hook is returned to him, let the
-Heavenly Grandchild say :—‘‘ Let it be to all thy descend-
-ants, of whatever degree of relationship, a poor hook, a paltry
+Heavenly Grandchild say :—‘‘ Let it be to all thy descendants, of whatever degree of relationship, a poor hook, a paltry
 poor hook.” When thou hast thus spoken, spit thrice, and
 give it to him. Moreover, when thy elder brother goes to
 sea a-fishing, let the Heavenly Grandchild stand on the
@@ -7036,9 +6410,6 @@ forthwith overwhelmed and harassed. Seeing no means of
 posture. * Mullet.
 
 
-1
-
-
 Tue AGE oF THE Gops. toF
 
 
@@ -7058,8 +6429,7 @@ his face with red earth, said to his younger brother :—
 ‘Thus do I defile my body, and make myse!f thy mime for
 ever.’ So kicking up his feet, he danced along and
 practised the manner of his drowning struggles. First
-of all, when the tide reached his feet, he did the foot-
-divination ;' when it reached his knees, he raised up his feet ;
+of all, when the tide reached his feet, he did the footdivination ;' when it reached his knees, he raised up his feet ;
 when it reached his thighs, he ran round in a circle; when
 it reached his loins, he rubbed his loins; when it reached
 his sides, he placed his hands upon his breast ; when it
@@ -7071,8 +6441,7 @@ time came for her delivery, she besought the Heavenly
 Grandchild, saying, etc., etc.
 
 The Heavenly Grandchild did not comply with her
-request, and Toyo-tama-hime resented it greatly, say-
-ing :—‘ Thou didst not attend to my words, but didst put
+request, and Toyo-tama-hime resented it greatly, saying :—‘ Thou didst not attend to my words, but didst put
 me to shame. Therefore from this time forward, do not
 send back again any of the female servants of thy handmaid
 who may go to thy place, and I will not send back any of
@@ -7097,9 +6466,6 @@ IT. 40.
 II. 50.
 
 
-108 NIHONGI.
-
-
 child on the beach is wrong. Toyo-tama-hime no Mikoto
 departed with the child in her’ own arms.: Many days
 after, she said :—‘ It is not right that the offspring of the
@@ -7113,11 +6479,7 @@ is already given above.”
 Hiko-nagisa-take-u-gaya-fuki-ahezu no Mikoto took his aunt
 Tama-yori-hime as his consort, and had by her in all four
 male children, namely, Hiko-itsu-se’ no Mikoto, next: Ina-ihi’
-no Mikoto, next Mi-ke-iri-no? no Mikoto, and next Kamu-
-yamato-Ihare-biko no Mikoto. Long after, Hiko-nagisa-take-u-
-
-
-gaya-fuki-ahezu no Mikoto died, in the palace of the western
+no Mikoto, next Mi-ke-iri-no? no Mikoto, and next Kamuyamato-Ihare-biko no Mikoto. Long after, Hiko-nagisa-take-ugaya-fuki-ahezu no Mikoto died, in the palace of the western
 
 
 country, and was buried in the Misasagi on the top of Mount
@@ -7129,8 +6491,7 @@ Mikoto, and the next Sano no Mikoto, also styled Kamu’-
 yamato-Ihare-biko no Mikoto. Sano was the name by
 which he was called when young. Afterwards when he
 had cleared and subdued the realm, and had control of the
-eight islands, the title was added of Kamu-yamato [hare-
-biko no Mikoto.”
+eight islands, the title was added of Kamu-yamato [harebiko no Mikoto.”
 
 In one writing it is said :—‘‘ His first child was Itsu-se
 no Mikoto, the next Mikeno no Mikoto, the next Ina-ihi no
@@ -7201,15 +6562,7 @@ I have no desire, however, to dispute all his Aino derivations of place names
 HL 5e
 
 
-33
-
-
-110 NIHONGI.
-
-
-Hiko-hoho-demi. He was the fourth child ' of Hiko-nagisa-take-
-u-gaya-fuki-ahezu no Mikoto. His mother’s name was Tama-
-yori-hime, daughter of the Sea-God. From. his birth, this
+Hiko-hoho-demi. He was the fourth child ' of Hiko-nagisa-takeu-gaya-fuki-ahezu no Mikoto. His mother’s name was Tamayori-hime, daughter of the Sea-God. From. his birth, this
 Emperor was of clear intelligence and resolute will. At the
 age of fifteen he was made heir to the throne. When he grew
 up, he married Ahira-tsu-hime, of the district of Ata in the
@@ -7219,8 +6572,7 @@ Tagishi-mimi no Mikoto and Kisu-mimi no Mikoto.
 When he reached the age of forty-five, he addressed his elder
 brothers and his children, saying :—‘‘Of old, our Heavenly
 Deities Taka-mi-musubi no Mikoto, and Oho-hiru-me no
-Mikoto, pointing to this land of fair rice-ears of the fertile reed-
-plain, gave it to our Heavenly ancestor, Hiko-ho no ninigi
+Mikoto, pointing to this land of fair rice-ears of the fertile reedplain, gave it to our Heavenly ancestor, Hiko-ho no ninigi
 no Mikoto. Thereupon Hiko-ho no ninigi no Mikoto, throwing
 open the barrier of Heaven and clearing a cloud-path, urged on
 his superhuman course until he came to rest. At this time the
@@ -7266,8 +6618,7 @@ Jimmu. III
 
 be suitable for the extension of the Heavenly task,! so that its
 glory should fill the universe. It is, doubtless, the centre of
-the world.” The person who flew down was, I believe, Nigi-
-haya-hi.* Why should we not proceed thither, and make it the
+the world.” The person who flew down was, I believe, Nigihaya-hi.* Why should we not proceed thither, and make it the
 capital ?” oe ;
 
 All the Imperial Princes answered, and said :—‘‘ The truth of
@@ -7280,12 +6631,9 @@ the roth month, the new moon of which was on the day Hinoto
 ' Mi, the Emperor in person led the Imperial Princes and a naval
 force on an expedition against the East. When he arrived at
 the Haya-suhi gate,® there was there a fisherman who came
-riding in a boat. The Emperor summoned him; and then in-
-quired of him, saying :—‘‘ Who art thou?” He answered and
-said :—‘‘ Thy servant is a Country-God, and his name is Utsu-
-hiko.’ I angle for fish in the bays of ocean. Hearing that
-the son of the Heavenly Deity was coming, therefore I forth-
-with came to receive him.” Again he inquired of him, saying :—
+riding in a boat. The Emperor summoned him; and then inquired of him, saying :—‘‘ Who art thou?” He answered and
+said :—‘‘ Thy servant is a Country-God, and his name is Utsuhiko.’ I angle for fish in the bays of ocean. Hearing that
+the son of the Heavenly Deity was coming, therefore I forthwith came to receive him.” Again he inquired of him, saying :—
 “‘Canst thou act as my guide?”’ He answered and said:—“ I
 will do so.””. The Emperor ordered the end.of a pole of shihi
 wood® to be given to the fisher, and caused him to be taken
@@ -7308,7 +6656,7 @@ hardly have been known in Japan before the introduction of writing in the
 5th century, A.D. It ismeedless to add that such dates are, in this part of
 the “ Nihongi,” purely fictitious.
 
-> The days of the month are throughout the “ Nihongi” given in this clumsy
+) The days of the month are throughout the “ Nihongi” given in this clumsy
 fashion. I have not thought it necéssary to follow the example, except in
 this one instance.
 
@@ -7333,16 +6681,11 @@ B.C. 666.
 B.C. 663.
 
 
-112 . ‘NIHONGI.
-
-
-A name was specially granted him, and he was called Shihi-ne-
-tsu-hiko.! He was the first ancestor of the Yamato no Atahe.
+A name was specially granted him, and he was called Shihi-netsu-hiko.! He was the first ancestor of the Yamato no Atahe.
 
 Proceeding on their voyage, they arrived.at Usa’ in the
 Land of Tsukushi. At this time there appeared the ancestors
-of the Kuni-tsu-ko* of Usa, named Usa-tsu-hiko and Usa-tsu-
-hime. They built a palace raised on one pillar * on the banks
+of the Kuni-tsu-ko* of Usa, named Usa-tsu-hiko and Usa-tsuhime. They built a palace raised on one pillar * on the banks
 of the River Usa, and offered them a banquet. Then, by
 Imperial command, Usa-tsu-hime was given in marriage to the
 Emperor’s attendant minister Ama no tane* no Mikoto. Now
@@ -7356,11 +6699,9 @@ of Oka’. inthe Land of Tsukushi.
 where he dwelt in the Palace of Ye.
 
 The year Kinoto U, Spring, 3rd month, 6th day. Going
-onwards, he entered the land of. Kibi,* and built a tem-
-porary palace, in which he dwelt. It was called the Palace
+onwards, he entered the land of. Kibi,* and built a temporary palace, in which he dwelt. It was called the Palace
 of Takashima. Three years passed, during which time he set
-in order the helms? of his ships, and prepared a store of pro-
-visions. It was his desire by a single effort to subdue the
+in order the helms? of his ships, and prepared a store of provisions. It was his desire by a single effort to subdue the
 Empire. ‘ .
 
 The year Tsuchinoye Muma, Spring, 2nd month, 11th day.
@@ -7372,7 +6713,7 @@ Whereupon that place was called Nami-haya (wave-swift) or ~
 
 * Prince of shihi root. .
 
-> Usa is now a district (k6ri) in the province of Buzen. Tsukushiis used by
+) Usa is now a district (k6ri) in the province of Buzen. Tsukushiis used by
 old writers both for the whole island of Kiushiu and for the northern part of it,
 
 3 Or Kuni no miyakko, local hereditary nobles.
@@ -7402,13 +6743,11 @@ Nami-hana (wave-flower). It is now called Naniha,' which is
 a corruption of this.
 
 3rd month, roth day. Proceeding upwards against the
-stream, they went straight on, and arrived at the port of Awo-
-kumo no Shira-date, in the township of Kusaka, in the province
+stream, they went straight on, and arrived at the port of Awokumo no Shira-date, in the township of Kusaka, in the province
 of Kafuchi.?
 
 Summer, 4th month, gth day. The Imperial forces in martial
-array marched on to Tatsuta. The road was narrow and pre-
-cipitous, and the men were unable to march abreast, so they
+array marched on to Tatsuta. The road was narrow and precipitous, and the men were unable to march abreast, so they
 returned and again endeavoured to go eastward, crossing over
 Mount Ikoma. In this way they entered the inner country.’
 
@@ -7419,19 +6758,17 @@ the forces under his dominion, and intercepted them at the Hill
 of Kusaka. A battle was engaged, and Itsuse no Mikoto was hit
 by a random arrow on the elbow. The Imperial forces were
 unable to advance against the enemy. The Emperor was vexed,
-and revolved in his inmost heart a divine plan, saying :—<‘ I
+and revolved in his inmost heart a divine plan, saying :—(‘ I
 am the descendant of the Sun-Goddess, and if I proceed
 against the Sun to attack the enemy, I shall act contrary to the
-way of Heaven. Better to retreat and make a show of weak-
-ness. Then sacrificing to the Gods of Heaven and Earth, and
+way of Heaven. Better to retreat and make a show of weakness. Then sacrificing to the Gods of Heaven and Earth, and
 bringing on our backs the might of the Sun-Goddess, let us
 follow her rays and trample them down. If we do so, the
 enemy will assuredly be routed of themselves, and we shall not
 stain our swords with blood.” They all said :—‘“ It is good.”
 Thereupon he gave orders to the army, saying :—‘‘ Wait a
 while, and advance no further.’”’ So he withdrew his forces,
-‘and the enemy also did not dare to attack him. He then re-
-tired to the port of Kusaka, where he set up shields, and made
+‘and the enemy also did not dare to attack him. He then retired to the port of Kusaka, where he set up shields, and made
 a warlike show. Therefore the name of this port was changed
 to Tatetsu,® which is now corrupted into Tadetsu.
 
@@ -7472,8 +6809,7 @@ Omo no ki no Mura.'
 5th month, 8th day. The army arrived at the port of
 Yamaki in Chinu [adso called Port Yama no wi|. Now Itsuse
 no Mikoto’s arrow wound was extremely painful. He grasped his
-sword, and striking a martial attitude, said :—‘‘ How exaspera-
-ting it is that a man should die of a wound received at the
+sword, and striking a martial attitude, said :—‘‘ How exasperating it is that a man should die of a wound received at the
 hands of slaves, and should not revenge it !”’ The people of that
 day therefore called the place Wo no minato.’
 
@@ -7525,8 +6861,7 @@ JimMu. 115
 a poisonous vapour, from which everyone suffered. For this
 reason the Imperial army was again unable to exert itself.
 Then there was there a man by name Kumano no Takakuraji,
-who unexpectedly had a dream, in which Ama-terasu no Oho-
-kami spoke to Take-mika-tsuchi no Kami,! saying :—‘I still
+who unexpectedly had a dream, in which Ama-terasu no Ohokami spoke to Take-mika-tsuchi no Kami,! saying :—‘I still
 hear a sound of disturbance from the Central Land of Reed-
 Plains. Do thou again go and chastise it.” Take-mika-tsuchi
 no Kami answered and said :—‘ Even if I go not, I can send
@@ -7550,8 +6885,7 @@ the interior, but among the mountains it was so precipitous
 that there was no road by which they could travel, and they
 wandered about not knowing whither to direct their march.
 Then Ama-terasu no Oho-kami instructed the Emperor in a
-dream of the night, saying :—‘ I will now send thee the Yata-
-garasu,” make it thy guide through the land.” Then there did
+dream of the night, saying :—‘ I will now send thee the Yatagarasu,” make it thy guide through the land.” Then there did
 
 
 ‘ The Thunder-God. 2 i.e. point upwards.
@@ -7576,9 +6910,6 @@ ELI.
 12.
 
 
-116 NIHONGI.
-
-
 indeed appear the Yata-garasu flying down from the Void.
 The Emperor said:—‘‘The coming of this crow is in due
 accordance with my auspicious dream. How grand! How
@@ -7586,8 +6917,7 @@ splendid! My Imperial ancestor, Ama-terasu no Oho-kami,
 desires therewith to assist me in creating the hereditary
 institution.” *
 
-At this time Hi no Omi? no Mikoto, ancestor of the Oho-
-tomo ® House, taking with him Oho-kume* as commander of
+At this time Hi no Omi? no Mikoto, ancestor of the Ohotomo ® House, taking with him Oho-kume* as commander of
 the main body, guided by the direction taken by the crow,
 looked up to it and followed after, until at length they arrived
 at the district of Lower Uda. Therefore they named the
@@ -7596,8 +6926,7 @@ place which they reached the village of Ukechi’ in Uda.
 
 that the Yang-wu or Sun-crow isin Japanese yata-garasu. The Yang-wu is a
 bird with three claws, and ofa red colour, which, according to Chinese myth,
-inhabits the sun. If we accept this identifi-
-cation, the meaning of the epithet yata becomes
+inhabits the sun. If we accept this identification, the meaning of the epithet yata becomes
 clear. It means eight hands, or, as ya in ancient
 Japanese meant also many or several, many
 hands, a sufficiently accurate description for
@@ -7607,15 +6936,13 @@ in his ‘“ Western Origin of Early Chinese
 Civilization,’ says that “the first allusion to
 the three-legged crow supposed to roost in
 the sun occurs in the “ Li Sao” of Kiii-yuen,
-the poet of Ts’u, 314 B.c. in China. A three-
-legged bird in various forms was figured on
+the poet of Ts’u, 314 B.c. in China. A threelegged bird in various forms was figured on
 coins of Pamphylia and Lycia of older times.
 Comte Goblet d’Alviella has reproduced some of
 them in his interesting work on “ La Migration
 des Symboles,” 1891, p. 222. See a paper on
 Sun-crow. theHi si0-maruin'* TAS.J.,7 VOL OCXILL 5 p27;
-and Ch. K., p. 136. .The-guidance of con-
-querors or colonists to their destination by a supernatural bird or beast
+and Ch. K., p. 136. .The-guidance of conquerors or colonists to their destination by a supernatural bird or beast
 is a familiar feature of old-world story. See Lang, “Custom and Myth,”
 Meer Ale
 
@@ -7690,9 +7017,6 @@ BETA.
 BEI V5:
 
 
-118 NIHONGI.
-
-
 Imperial army. The Emperor distributed this flesh and sake
 to the common soldiers, upon which they sang the following
 verses :—
@@ -7731,8 +7055,7 @@ _ of a well. He shone, and had a tail. The Emperor inquired
 
 
 of him, saying :—‘‘ What man art thou?” He answered and
-said :—‘‘ Thy servant is a local Deity, and his name is Wi-
-hikari.””* He it is who was the first ancestor of the Yoshino no
+said :—‘‘ Thy servant is a local Deity, and his name is Wihikari.””* He it is who was the first ancestor of the Yoshino no
 Obito. Proceeding a little further, there was. another man
 with a tail, who burst open a rock and came forth from it.. The
 Emperor inquired of him, saying :—“ What man art thou?”
@@ -7749,11 +7072,10 @@ I confess that I can make no satisfactory sense of the remainder of this
 poem. ‘The version given by Chamberlain (Ch. K., p. 140), following Moribe,
 is as good as any, but it seems to me very conjectural. It should be noted,
 however, that this part of the poem contains an indication of the polygamous
-customs of the Japanese at this time in the use of two words signify-
-ing respectively elder wife (konami) and younger wife (uhanari), The
+customs of the Japanese at this time in the use of two words signifying respectively elder wife (konami) and younger wife (uhanari), The
 “ Nihongi” omits the interjectional refrain given in the “ Kojiki.”
 
-> Kume means no doubt “soldier” in this passage.
+) Kume means no doubt “soldier” in this passage.
 
 3 Beating time is perhaps meant. * Well-brightness.
 
@@ -7775,8 +7097,7 @@ Mount Takakura in Uda, whence he had a prospect over all
 the land. On Kuni-mi*® Hill there were descried eighty
 bandits. Moreover at the acclivity of Me-zaka°® there was
 posted an army of women, and at the acclivity of Wo-zaka‘
-there was stationed a force of men. At the acclivity of Sumi-
-zaka* was placed burning charcoal. This was the origin of
+there was stationed a force of men. At the acclivity of Sumizaka* was placed burning charcoal. This was the origin of
 the names Me-zaka, Wo-zaka and Sumi-zaka.
 
 Again there was the army of Ye-shiki,’ which covered all the
@@ -7788,8 +7109,7 @@ person, and then fell asleep. The Heavenly Deity appeared to
 him in a dream, and instructed him, saying :—‘‘ Take earth
 from within the shrine !' of the Heavenly Mount Kagu, and of it
 make eighty Heavenly platters. Also make sacred jars” and
-therewith sacrifice to the Gods of Heaven and Earth. More-
-over pronounce a solemn imprecation. If thou doest so, the
+therewith sacrifice to the Gods of Heaven and Earth. Moreover pronounce a solemn imprecation. If thou doest so, the
 
 
 ’ Rock-push-divide.
@@ -7800,7 +7120,7 @@ Food-holder or purveyor.
 U-kahi means cormorant-keepers. Fishing with cormorants is still
 practised in Japan.
 
-> Land-view. ® Women’s acclivity.
+) Land-view. ® Women’s acclivity.
 
 7 Men’s acclivity. The terms Me-zaka and Wo-zaka are now applied to
 two roads or stairs leading up to the same place, one of which (the women’s)
@@ -7817,10 +7137,6 @@ Kagu-yama is a mountain in Yamato.
 “ Rituals” in  J.A.S.T.,” VIL., ti. ps 109.
 
 
-3
-4
-
-
 LiteenGs
 
 
@@ -7828,9 +7144,6 @@ ILL 17.
 
 
 III. 18,
-
-
-120 NIHONGI.
 
 
 enemy will render submission of their own accord.” The
@@ -7854,8 +7167,7 @@ in his heart. He caused Shihi-netsu-hiko* to put on ragged
 garments and a grass hat, and to disguise himselfas an old man,
 He also caused Ukeshi the Younger to cover himself with a
 winnowing tray, so as to assume the appearance of an old
-woman, and then addressed them, saying :—‘‘ Do ye two pro-
-ceed to the Heavenly Mount Kagu, and secretly take earth from
+woman, and then addressed them, saying :—‘‘ Do ye two proceed to the Heavenly Mount Kagu, and secretly take earth from
 its summit. Having done so, return hither. By means of
 you I shall then divine whether my undertaking will be
 successful or not. Do your utmost and be watchful.”
@@ -7914,8 +7226,7 @@ There is also a collection in the Uyeno Museum in Tokio. Ninagawa
 Noritane’s work entitled “‘ Kwan-ko-dzu-setsu” gives very good drawings of
 ancient pottery. The common Japanese name for this ware is Gidgi-yaki,
 Giodgi being the name of a Buddhist priest who lived 670-749, and who is
-credited with the invention of the potter’s wheel. But the wheel was cer-
-tainly known in Japan long before his time. This very passage contains an
+credited with the invention of the potter’s wheel. But the wheel was certainly known in Japan long before his time. This very passage contains an
 evidence of this fact. Both the Chinese characters and the Japanese word
 ta-kujiri given in the ancient commentary for the small jars. here mentioned
 mean “hand-made,” leading to the conclusion that this was exceptional.
@@ -7938,22 +7249,17 @@ III. 19.
 JU leg 2X0}5
 
 
-122 NIHONGI.
-
-
 upper waters of the River Nifu, he did worship therewith to all
 the Gods. It was with this that the custom began of setting
 sacred jars.’
 
-At this time he commanded Michi no Omi no Mikoto, say-
-ing :—‘‘ We are now in person’? about to celebrate a public’
+At this time he commanded Michi no Omi no Mikoto, saying :—‘‘ We are now in person’? about to celebrate a public’
 festival to Taka-mi-musubi no Mikoto,.and I appoint thee
 Ruler of the festival, and grant thee the title of Idzu-hime.*
 The earthen jars which are set up shall be called the Idzube
 or sacred jars, the fire shall be called Idzu no Kagu-tsuchi or
 sacred-fire-elder, the water shall be called Idzu no Midzu-ha
-no me or sacred-water-female, the food shall be called Idzu-
-uka no me or sacred-food-female, the firewood shall be called
+no me or sacred-water-female, the food shall be called Idzuuka no me or sacred-food-female, the firewood shall be called
 Idzu no Yama-tsuchi or sacred-mountain-elder, and the grass
 shall be called Idzu no No-tsuchi or sacred-moor-elder.”’
 
@@ -8001,7 +7307,7 @@ women were available at this time, Michi-no-Omi was given a feminine title
 for the occasion.
 
 
->.The interlinear Kana has tatematsuri, i.e. offered. The reference is to
+).The interlinear Kana has tatematsuri, i.e. offered. The reference is to
 the feast of Nihiname described above. See p. 86. ,
 6 The shitadami is a small shell of the turbinide class. Its introduction
 
@@ -8024,8 +7330,7 @@ stayed therein mingled with the enemy. He secretly arranged
 with them, saying :—‘‘ When they have got tipsy with sake,
 I will strike up a song. Do you, when you hear the sound of
 my song, all at the same time stab the enemy.” Having
-made this arrangement they took their seats, and the drinking-
-bout proceeded. The enemy, unaware that there was any plot,
+made this arrangement they took their seats, and the drinkingbout proceeded. The enemy, unaware that there was any plot,
 abandoned themselves to their feelings, and promptly became
 intoxicated. Then Michi no Omi no Mikoto struck ue the
 following song :—
@@ -8050,8 +7355,7 @@ Now when our troops heard this song, they all drew at the
 
 here does not seem very appropriate. Perhaps the meaning is “in number
 like the turbinidee.” Cf. Ch. K., p. 143. The “ Shukai” editor thinks that the
-shitadami represent the bandits. The great rock is, perhaps, the Miydto-
-seki at Futami, so often represented in Japanese pictures. See Anderson's
+shitadami represent the bandits. The great rock is, perhaps, the Miydtoseki at Futami, so often represented in Japanese pictures. See Anderson's
 Catalogue, p. 320, or Satow and Hawes’ Handbook, p. 150.
 
 . * In Yamato. To be distinguished from the city of Ohosaka.
@@ -8068,9 +7372,6 @@ TIiL-2k.
 
 
 NN eh
-
-
-124 NIHONGI,
 
 
 same time their mallet-headed swords, and simultanously slew
@@ -8116,8 +7417,7 @@ of some ten thousand souls now inhabit the island of Yezo.. When the
 “ Nihongi” was written they still occupied a large part of the main island of
 Japan, and in earlier times, as we gather from the evidence of place-names
 (See Chamberlain’s Essay published by the Imperial University), they ex.
-tended west even of Yamato. But it would not be safe to draw any con-
-clusion from their mention in this poem. ‘The writer of the “ Nihongi” is in the
+tended west even of Yamato. But it would not be safe to draw any conclusion from their mention in this poem. ‘The writer of the “ Nihongi” is in the
 habit of fitting ancient poetry into his narrative in a very arbitrary manner.
 The “ Kojiki” omits it. Yemishi or Yebisu is also applied to barbarous tribes
 generally, and this is probably its primary meaning. It ought, perhaps, to
@@ -8126,8 +7426,7 @@ at p. 65, the 4 or m having the same function as these letters in the words
 barbarian, babble, murmur, etc. See Index—Yemishi.
 
 ® Nothing could well be more primitive than this. 'The metre is irregular,
-and, like all Japanese poetry, there is no rhyme, quantity or regular recur-
-rence of accent to distinguish it from prose.
+and, like all Japanese poetry, there is no rhyme, quantity or regular recurrence of accent to distinguish it from prose.
 
 
 IMMU. 25
@@ -8135,8 +7434,7 @@ J 5
 
 
 be ascertained. Why should we remain for a long time in one
-place? By so doing we could not have control over emer-
-gencies.”’ Soheremoved his camp to another place.
+place? By so doing we could not have control over emergencies.”’ Soheremoved his camp to another place.
 
 11th month, 7th day. The Imperial army proceeded in great
 force to attack the Hiko’ of Shiki. First of all the Emperor
@@ -8154,8 +7452,7 @@ to the house of Shiki the Younger, where it cried, saying :—
 haste!’”’ Then Shiki the Younger was afraid, and, changing
 countenance, said :—‘‘ Thy servant, hearing of the approach of
 the conquering Deity of Heaven, is full of dread morning and
-evening. Well hast thou cried to me, O crow.” He straight-
-way made eight leaf-platters,” on which he disposed food, and
+evening. Well hast thou cried to me, O crow.” He straightway made eight leaf-platters,” on which he disposed food, and
 entertained the crow. Accordingly, in obedience to the crow,
 he proceeded to the Emperor and informed him, saying :—‘‘ My
 elder brother, Shiki the Elder, hearing of the approach of the
@@ -8184,9 +7481,6 @@ Ibe. Bish
 III. 24.
 
 
-126 NIHONGI.
-
-
 their interests. But Shiki the Elder and the others adhered to
 their foolish design, and would not consent to submit. Then
 Shihi-netsu-hiko advised as follows :—‘‘ Let us first send out
@@ -8201,8 +7495,7 @@ and make straight for Sumi-zaka.'| Then with the water of the
 River Uda we should sprinkle the burning charcoal, and
 suddenly take them unawares, when they cannot fail to be
 routed.” The Emperor approved this plan, and sent out the
-feebler troops towards the enemy, who, thinking that a power-
-ful force was approaching, awaited them with all their power.
+feebler troops towards the enemy, who, thinking that a powerful force was approaching, awaited them with all their power.
 Now up to this time, whenever the Imperial army attacked,
 they invariably capturedy and when they fought they were
 invariably victorious, so that the fighting men were all wearied
@@ -8328,14 +7621,10 @@ Lie 26
 127;
 
 
-128 NIHONGI.
-
-
 Heavenly Deity, who came down from Heaven to dwell here,
 riding in a Rock-boat of Heaven. His name was Kushi-dama
 Nigi-haya-hi no Mikoto. He took to wife my younger sister
-Mi-kashiki-ya-bime’ [also called Naga-sune-hime, or Tomi-ya-
-hime]? of whom he at length had a child, named Umashi-ma-te®
+Mi-kashiki-ya-bime’ [also called Naga-sune-hime, or Tomi-yahime]? of whom he at length had a child, named Umashi-ma-te®
 no Mikoto. Therefore did I take Nigi-haya-hi no Mikoto for my
 Lord, and did service to him. Can it be that there are two
 seeds of the children of the Heavenly Deity? Why should
@@ -8346,14 +7635,10 @@ The Emperor said :—‘‘ There are many other children of the
 Heavenly Deity. If he whom thou has takenasthy Lord were
 truly a child of the Heavenly Deity, there would be surely
 some object which thou couldst show to us by way of proof.”
-Naga-sune-hiko accordingly brought a single Heavenly-
-feathered-arrow of Nigi-haya-hi no Mikoto, and a foot-quiver,’
+Naga-sune-hiko accordingly brought a single Heavenlyfeathered-arrow of Nigi-haya-hi no Mikoto, and a foot-quiver,’
 and exhibited them respectfully tothe Emperor. The Emperor
 examined them, and said :—‘‘ These are genuine.” Then in
-his turn he showed to Naga-sune-hiko the single Heavenly-
-feathered-arrow and quiver which he wore. When Naga-sune-
-hiko saw the Heavenly token he became more and more em-
-barrassed. But the murderous weapons were algeady prepared,
+his turn he showed to Naga-sune-hiko the single Heavenlyfeathered-arrow and quiver which he wore. When Naga-sunehiko saw the Heavenly token he became more and more embarrassed. But the murderous weapons were algeady prepared,
 and things were in such a state that he was unable to pause in
 his career. Therefore he adhered to his misguided scheme,
 and would not alter his purpose.
@@ -8372,7 +7657,7 @@ gracious to him. He was the ancestor of the Mono no Be House.”
 1 Three-cook-house-princess. ? Wealth-house. 3 Sweet-true-hand.
 
 
-4 A foot-soldier’s quiver is meant. > i.e. of Lord and Vassal.
+4 A foot-soldier’s quiver is meant. ) i.e. of Lord and Vassal.
 6 The Mononobe were soldiers. Here, however, the hereditary chiefs
 
 
@@ -8400,10 +7685,7 @@ the Wi-Hofuri* at Hosomi no Nagara no Oka-zaki. All of these,
 “‘Nihongi” and one passage of the “ Kojiki,” all of which belong to the
 highly legendary period of Japanese history. We gather from them that
 the Tsuchi-gumo were usually, though not invariably, outlaws who defied the
-Imperial authority. They had Japanese names, and inhabited such long-
-
-
-settled parts of Japan as Yamato, Harima, and even Kiushiu. There is’
+Imperial authority. They had Japanese names, and inhabited such longsettled parts of Japan as Yamato, Harima, and even Kiushiu. There is’
 
 
 nothing, if we put aside the mention of Yemishi at p- 124, to suggest that
@@ -8433,8 +7715,7 @@ An amusing expansion by a modern writer of the spider conception of the
 Tsuchi-gumo will be found at p. 140 of Anderson’s B.M. Catalogue. See
 also Ch. K., p. 141, and Index.
 
-A little wok called “ Kek-kio-k6,” in a collection entitled ““Haku-butsu-
-s0-sho,” published by the Japanese Imperial Museum, has brought together
+A little wok called “ Kek-kio-k6,” in a collection entitled ““Haku-butsus0-sho,” published by the Japanese Imperial Museum, has brought together
 all the available information respecting Muro and Tsuchi-gumo.
 
 Chiefs:
@@ -8453,9 +7734,6 @@ K
 
 
 B.Ce 662.
-
-
-130 NIHONGI.
 
 
 -. trusting to their valour, refused to present themselves at Court.
@@ -8484,18 +7762,15 @@ great battle with the Emperor followed, and they were at
 length destroyed by the Imperial army. Therefore that place
 was called the village of Ihare.* Again, the place where the
 Imperial troops made a warlike stand was called Takeda.’
-The place where he built a castle was named Kita.’ More-
-over, the place where the enemy fell in battle, their dead bodies
-prostrate, with their forearms for pillows, was called Tsura-
-maki-da.°®
+The place where he built a castle was named Kita.’ Moreover, the place where the enemy fell in battle, their dead bodies
+prostrate, with their forearms for pillows, was called Tsuramaki-da.°®
 
 The Emperor, in Autumn, the gth month of the previous
 year, secretly took clay of the Heavenly Mount Kagu, with,
 which he made eighty platters, and thereafter performing
 abstinence in person, sacrificed to all the Gods. He was
 thereby at length enabled to establish the world’ in peace.
-Therefore he called the place where the clay was taken Hani-
-yasu.®
+Therefore he called the place where the clay was taken Haniyasu.®
 
 1 Dolichos Castle.
 
@@ -8517,8 +7792,7 @@ s Clay-easy or clay-peace.
 JimMv. 131
 
 
-3rd month, 7th day. The Emperor made an order,! say-
-ing :—‘‘ During the six years that our expedition against the
+3rd month, 7th day. The Emperor made an order,! saying :—‘‘ During the six years that our expedition against the
 East has lasted, owing to my reliance on the Majesty of
 Imperial Heaven, the wicked bands have met death. It is
 true that the frontier lands are still unpurified, and that a
@@ -8529,7 +7803,7 @@ and strong.’
 
 At present things are in a crude and obscure condition, and
 the people’s minds are unsophisticated. They roost in nests
-or dwell in caves.> Their manners are simply what is customary.
+or dwell in caves.) Their manners are simply what is customary.
 Now if a great man were to establish laws, justice could not
 fail to flourish. And even if some gain should accrue to
 the people, in what way would this interfere with the Sage’s *
@@ -8601,12 +7875,10 @@ Year Kanoye Saru, Autumn, 8th month, 16th day. The
 Emperor, intending to appoint a wife, sought afresh '
 children of noble families. Now there was a man who made
 representation to him, saying :—‘ There is.a child who was
-born to Koto-shiro-nushi no Kami by his union with Tama-
-kushi-hime, daughter of Mizo-kuhi-ni no Kami of Mishima.
+born to Koto-shiro-nushi no Kami by his union with Tamakushi-hime, daughter of Mizo-kuhi-ni no Kami of Mishima.
 Her name is Hime-tatara-i-suzu-hime no Mikoto. She is a
 woman of remarkable beauty.”” The Emperor was rejoiced,
-and on the 24th day of the gth month he received Hime-
-tatara-i-suzu-hime no Mikoto and made her his wife.
+and on the 24th day of the gth month he received Himetatara-i-suzu-hime no Mikoto and made her his wife.
 
 Year Kanoto Tori, Spring, 1st month, 1st day. The
 Emperor assumed the Imperial Dignity in the Palace of
@@ -8657,8 +7929,7 @@ a secret device received from the Emperor, to use incantations
 and magic formulz so as to dissipate evil influences. The use
 of magic formule had its origin from this.
 
-and year, Spring, 2nd month, 2nd day. The Emperor ascer-
-tained merit and dispensed rewards. To Michi no Omi no
+and year, Spring, 2nd month, 2nd day. The Emperor ascertained merit and dispensed rewards. To Michi no Omi no
 
 
 PO LE RI RE Te
@@ -8738,8 +8009,7 @@ Mondo no Kami remained until quite recent times.
 
 * Tonomori, guardian of a palace or shrine.
 
-* These names mean respectively the Persimmon plain of Upper Little-
-moor and the Persimmon plain of Lower Little-moor. The “ spirit terraces”
+* These names mean respectively the Persimmon plain of Upper Littlemoor and the Persimmon plain of Lower Little-moor. The “ spirit terraces”
 (a Chinese phrase) seems meant for the plots of ground consecrated for
 Shint6 worship. See above, p. 81.
 
@@ -8759,8 +8029,7 @@ _ JiwMu. 1135
 
 
 Of old, Izanagi no Mikoto, in naming this country, said :—
-““Yamato is the Land of Ura-yasu:? it is the Land of Hoso-
-hoko no Chi-taru :? it is the Land of Shiwa-Kami-Ho-tsu-ma.” *
+““Yamato is the Land of Ura-yasu:? it is the Land of Hosohoko no Chi-taru :? it is the Land of Shiwa-Kami-Ho-tsu-ma.” *
 
 Afterwards Oho-namuchi no Oho-kami named it the Land
 of Tama-gaki no Uchi-tsu-kuni.*
@@ -8781,8 +8050,7 @@ buried in the Misasagi’ N.E. of Mount Unebi.
 
 above, p. 13. It has nothing to do with akitsu, the dragon-fly. This insect
 may often be seen with its tail touching its mouth, so that its body forms a
-ring. The appearance of the province of Yamato, which is a plain sur-
-rounded by a ring of mountains, suggested the simile in the text. Later
+ring. The appearance of the province of Yamato, which is a plain surrounded by a ring of mountains, suggested the simile in the text. Later
 historians have converted this into a comparison of Japan to a dragon-fly
 with outstretched wings. j
 
@@ -8824,9 +8092,6 @@ B.C. 619.
 
 
 B.C. 585.
-
-
-136 NIHONGI.
 
 
 -mounds, one having a circular, the other a triangular base, merging into
@@ -8874,8 +8139,7 @@ those countries.
 I learn from Mr. W. Gowland, who has visited the spot recognized officially
 as the Misasagi of Jimmu Tenno, that there are here two enclosures, the
 inner of which contains two low mounds each about 18 feet in diameter and
-2 feet in height. A Chokushi or Imperial Envoy visits this Misasagi annu-
-ally on the 3rd April with offerings of products of mountain, river, and sea,
+2 feet in height. A Chokushi or Imperial Envoy visits this Misasagi annually on the 3rd April with offerings of products of mountain, river, and sea,
 viz., tahi, carp, sea-weed, salt, water, sake, mochi (a preparation of rice),
 warabi (fern flour ?), pheasants and wild ducks.
 
@@ -8940,17 +8204,14 @@ state. Therefore he was again charged with the conduct of
 affairs, and the Emperor treated him as an intimate friend. This
 prince, however, was of a perverse disposition, and his natural
 bent was opposed to justice. During the period of sincere
-seclusion * his authority at last became independent, and con-
-cealing his malicious purposes, he plotted the destruction of
+seclusion * his authority at last became independent, and concealing his malicious purposes, he plotted the destruction of
 his two younger brothers.
 
 Now in the year Tsuchinoto U of the cycle, Winter, the
 11th month, Kami-Nunagaha-mimi no Mikoto and his elder
 brother Kami-Ya-wi-mimi no Mikoto learnt privately his
 intentions and effectively prevented him. When the business
-of the misasagi was ended, they caused Yumi Be no Waka-
-hiko to make a bow, and Yamato no Kanuchi? Ama-tsu-ma-
-ura’ to make a true-deer arrow-point, and the Ya‘ Be to
+of the misasagi was ended, they caused Yumi Be no Wakahiko to make a bow, and Yamato no Kanuchi? Ama-tsu-maura’ to make a true-deer arrow-point, and the Ya‘ Be to
 prepare arrows. When the bow and arrows were ready,
 Kami-Nunagaha-mimi no Mikoto wished therewith to shoot
 to death Tagishi-mimi no Mikoto, who happened just then to
@@ -9000,9 +8261,6 @@ B.C. 581.
 B.C. 580.
 
 
-140 NIHONGI.
-
-
 no Mikoto, saying :—‘‘ The right time has now arrived. In
 words, secrecy is to be prized: in deeds, caution is advisable.
 Therefore, we have never had any partner in our conspiracy, and
@@ -9015,8 +8273,7 @@ so that he was unable to let fly the arrow. Then Kami-
 Nunagaha-mimi no Mikoto snatched.the bow and arrows which
 his elder brother held and shot Tagishi-mimi no Mikoto.
 The first shot struck him on the breast, the second on the
-back, and so at length he killed him. Hereupon Kami-Ya-wi-
-mimi no Mikoto was troubled and submitted himself, yielding
+back, and so at length he killed him. Hereupon Kami-Ya-wimimi no Mikoto was troubled and submitted himself, yielding
 the sovereignty to Kami-Nunagaha-mimi no Mikoto, saying :—
 “IT am thy elder brother.! But I am timid and weak, and
 unfit for effective action. On the present occasion thou hast
@@ -9029,8 +8286,7 @@ was the first ancestor of the Oho no Omi.
 ist year, Spring, rst month, 8th day. Kami-Nunagaha-mimi
 no Mikoto assumed the rank of Emperor. He made his
 capital at Katsuraki. It was called the palace* of Takaoka.
-He honoured the Empress by granting her the title of Kwo-
-dai-go or Grand Empress.* This was the year Kanoye Tatsu
+He honoured the Empress by granting her the title of Kwodai-go or Grand Empress.* This was the year Kanoye Tatsu
 of the cycle. |
 and year, Spring, rst month. Isuzu-yori-bime was appointed
 Empress.
@@ -9038,8 +8294,7 @@ One writing says :—‘‘ Kaha-mata-bime, daughter of the
 Agata-nushi of Shiki.”
 
 
-' In this and other passages of the “ Nihongi,” there is a sort of recog-
-nition of a right of primogeniture, but cases are numerous where the eldest
+' In this and other passages of the “ Nihongi,” there is a sort of recognition of a right of primogeniture, but cases are numerous where the eldest
 son is ignored or set aside without very strong reason in favour of a
 brother, widow, or younger son of the deceased sovereign.
 
@@ -9094,8 +8349,7 @@ Kami-Nunagaha-mimi was buried in the Misasagi on Tsukida
 Hill in Yamato. :
 
 
-The Emperor honoured the Empress with the title of Kwo-
-dai-go.
+The Emperor honoured the Empress with the title of Kwodai-go.
 
 
 * Anneli means peace.
@@ -9120,9 +8374,6 @@ B.C. 549.
 
 
 B.C. 548.
-
-
-142 NIHONGI.
 
 
 This was the year Midzunoto Ushi of the cycle.
@@ -9166,8 +8417,7 @@ THE EMPEROR OHO-YAMATO-HIKO-SUKI-TOMO.
 
 The Emperor Oho-Yamato-hiko-suki-tomo was the second
 child of the Emperor Shiki-tsu-hiko-tama-demi. His mother’s
-name -was Nuna-soko-naka-tsu-hime, grandchild of Koto-shiro-
-nushi no Kami, and daughter of the Prince* of Kamo. He was
+name -was Nuna-soko-naka-tsu-hime, grandchild of Koto-shironushi no Kami, and daughter of the Prince* of Kamo. He was
 made Prince Imperial in the 11th year, Spring, the Ist month
 
 
@@ -9191,8 +8441,7 @@ of the Emperor Shiki-tsu-hiko-tama-demi’s reign. He was then
 Ist year, Spring, 2nd month, 4th day. The Prince Imperial
 assumed the Imperial Dignity.
 
-Autumn, 8th month, rst day. The Emperor Shiki-tsu-hiko-
-tama-demi was buried in the Misasagi above Mihodo no wi,
+Autumn, 8th month, rst day. The Emperor Shiki-tsu-hikotama-demi was buried in the Misasagi above Mihodo no wi,
 south of Mount Unebi.
 
 gth month, 14th day. The Empress was honoured with the
@@ -9208,11 +8457,9 @@ made Empress.
 One version has :—‘“‘ Idzumi hime, daughter of Oto-wite,
 son of Haye, Agata-nushi of Shiki.”
 
-One version has:—‘‘Ihi-hime, daughter of Futo-ma-
-waka-hiko, Agata-nushi of Shiki.”
+One version has:—‘‘Ihi-hime, daughter of Futo-mawaka-hiko, Agata-nushi of Shiki.”
 
-This Empress was the mother of the Emperor Mi-matsu-
-hiko-Kayeshine.
+This Empress was the mother of the Emperor Mi-matsuhiko-Kayeshine.
 
 
 One version has:—‘‘ The Emperor’s younger brother
@@ -9235,8 +8482,7 @@ information about this period.
 
 3 The Japanese word for brother by the mother’s side is hara-kara, “ of
 the same belly,” as to which a paper by the present writer on the “ Family
-in Ancient Japan,” contributed to the Japan Society’s Journal, may be con-
-sulted.
+in Ancient Japan,” contributed to the Japan Society’s Journal, may be consulted.
 
 4 It is not clear what is meant by this.
 
@@ -9266,9 +8512,6 @@ B.C. 447.
 Bc. 408,
 
 
-144 NIHONGI.
-
-
 THE EMPEROR MI-MATSU-HIKO-KAYESHINE.
 (KOSHO' TENNO.)
 
@@ -9280,8 +8523,7 @@ She was the daughter of Ikishi-mimi no Mikoto.
 
 The Emperor had been made Prince Imperial in Spring, the
 second month of the 22nd year of the reign of the Emperor Oho-
-Yamato-hiko-suki-tomo. The Emperor Oho-Yamato-hiko-
-suki-tomo died in autumn, the ninth month of the 34th year of
+Yamato-hiko-suki-tomo. The Emperor Oho-Yamato-hikosuki-tomo died in autumn, the ninth month of the 34th year of
 his reign. On the 13th day of the roth month of the following
 year, the Emperor Oho-Yamato-hiko-suki-tomo was buried in
 the Misasagi over the Masago Valley to the south of Mount
@@ -9303,15 +8545,12 @@ was appointed Empress.
 One version says:—‘‘ Nunaki-tsu hime, daughter of
 Haye, Agata-nushi of Shiki.” .
 
-One version has :—‘‘ Oho-wi-hime, daughter of Toyo-
-aki-sata-wo of the Land of Yamato.”
+One version has :—‘‘ Oho-wi-hime, daughter of Toyoaki-sata-wo of the Land of Yamato.”
 
 The Empress gave birth to Ama-tarashi-hiko-kuni-oshi-bito
-no Mikoto, and to the Emperor Yamato-tarashi-hiko-kuni-oshi-
-bito.
+no Mikoto, and to the Emperor Yamato-tarashi-hiko-kuni-oshibito.
 
-68th year, Spring, 1st month, 14th day. Yamato-tarashi-
-hiko-kuni-oshi-bito no Mikoto was made Prince Imperial. He
+68th year, Spring, 1st month, 14th day. Yamato-tarashihiko-kuni-oshi-bito no Mikoto was made Prince Imperial. He
 
 
 } Filial piety manifested. * Kwo-dai- 6.
@@ -9338,8 +8577,7 @@ mother’s name was Yoso-tarashi-hime. She was the younger
 sister of Okitsu Yoso, the ancestor of the Ohari no? Muraji.
 
 The Emperor was made Prince Imperial in Spring, the rst
-month of the 68th year of the reign of the Emperor Mi-matsu-
-hiko-kayeshine. The Emperor Mi-matsu-hiko-kayeshine died
+month of the 68th year of the reign of the Emperor Mi-matsuhiko-kayeshine. The Emperor Mi-matsu-hiko-kayeshine died
 in Autumn, the 8th month of the 83rd year of his reign.
 
 Ist year, Spring, ist month, 7th day. The Prince Imperial 8.c. 392.
@@ -9363,8 +8601,7 @@ One version has :—‘‘ Isaka-hime, daughter of Isaka-hiko,
 
 Agata-nushi of Tohochi.”
 
-The Empress was the mother of the Emperor Oho-Yamato-
-neko-hiko-futo-ni.
+The Empress was the mother of the Emperor Oho-Yamatoneko-hiko-futo-ni.
 
 38th year, Autumn, 8th month, 14th day. The Emperor Mi- B.c. 355.
 matsu-hiko-kayeshine was buried in the Misasagi on Mount
@@ -9385,9 +8622,6 @@ B.C. 290.
 
 MINAS Seay.
 B.C. 289.
-
-
-146 NJHONGI.
 
 
 hiko-futo-ni no Mikoto was made’ Prince Imperial. He was
@@ -9420,16 +8654,13 @@ assumed the Imperial Dignity. He honoured the Empress
 with the title of Grand Empress. This year was the year
 Kanoto Hitsuji of the cycle.. — | Te
 
-_ 2nd year, Spring, 2nd month, 11th day. Hoso- Pume. no Mi-
-koto was appointed Empress.
-One version. has :—‘‘ Kasuga no Chichi- eee yamaka-
-hime.”
+_ 2nd year, Spring, 2nd month, 11th day. Hoso- Pume. no Mikoto was appointed Empress.
+One version. has :—‘‘ Kasuga no Chichi- eee yamakahime.”
 One version has :—‘‘ Mashita- -bime, daughter of sey
 Agata-nushi of Tohochi.”
 
 The Empress was the mother of the Panaiee Oho- nate.
-neko-hiko-kuni-kuru. A concubine named Yamato no kuni-ka-
-hime [aéso called Haye-irone| was the mother of Yamato-to-to-
+neko-hiko-kuni-kuru. A concubine named Yamato no kuni-kahime [aéso called Haye-irone| was the mother of Yamato-to-to-
 
 
 1 Several of the Emperors’ names have the element Yamato-neko (neko
@@ -9437,15 +8668,14 @@ is a honorific), and one Emperor styles himself Yamato-neko in an edict,
 although this was not his name. It may be suspected that Yamato- neko was
 at one time a general title for the sovereigns of Japan.
 
-? Filial piety-spirit. .. >  * In ¥amato,
+? Filial piety-spirit. .. )  * In ¥amato,
 
 
 KocEn. - 4g
 
 
 hi-momo-so bime no Mikoto and of Hiko-i-saseri-hiko no Mikcto
-[also. called Kibi-tsu-hiko no ee and Yamato- toto-waka-
-ya-bime no Mikoto.:
+[also. called Kibi-tsu-hiko no ee and Yamato- toto-wakaya-bime no Mikoto.:
 Another concubine Haye-iroto was the mother of : PKS!
 sajima no Mikoto and of Waka-take-hiko no Mikoto. - The’
 younger of these, namely, Waka-take-hiko no sap de was the
@@ -9474,8 +8704,7 @@ The Emperor Oho- Yamato-neko-hiko-kuni-kuru was the eldest |.
 
 
 child of the Emperor Oho-Yamato-neko-hiko-futo-ni. His
-mother’s name was Hoso-bime, daughter of Oho-me,* Agata-
-nushi of Shiki. He had been created Prince Imperial in Spring,
+mother’s name was Hoso-bime, daughter of Oho-me,* Agatanushi of Shiki. He had been created Prince Imperial in Spring,
 the rst month of the 36th year of the reign of the Emperor Oho-
 Yamato-neko-hiko-futo-ni. He was then nineteen years of age.
 The Emperor Oho-Yamato-neko-hiko-futo-ni died in Spring,
@@ -9528,9 +8757,6 @@ B.C. 16s
 B.C, 158.
 
 
-148 | NIHONGI.
-
-
 “th year, Spring, 2nd month, 2nd day. Uchi-shiko-me’ no
 Mikoto was appointed Empress. She had three children, two
 boys and one girl. The name of the eldest was Oho-hiko no
@@ -9553,8 +8779,7 @@ no Miyakko and the Iga no Omi, in all seven families.
 Hiko-futo-woshi-makoto no Mikoto was the grandfather of
 Takechi no Sukune.
 
-22nd year, Spring, 1st month, 14th day. Waka-Yamato-
-neko-hiko-oho-hihi no Mikoto was made Prince Imperial. He
+22nd year, Spring, 1st month, 14th day. Waka-Yamatoneko-hiko-oho-hihi no Mikoto was made Prince Imperial. He
 was sixteen years of age.
 
 57th year, Autumn, gth month, 2nd day. The Emperor
@@ -9603,12 +8828,10 @@ island of Tsurugi-ike.’
 
 6th year, Spring, Ist month, 14th day. Ika-shiko-me no
 Mikoto was appointed Empress. [She was his father’s concu-
-éine.| The Empress was the mother of the Emperor Mimaki-
-ir1-hiko-i-niye.
+éine.| The Empress was the mother of the Emperor Mimakiir1-hiko-i-niye.
 
 The Emperor had previously taken to himself as concubine
-Taniha no Takano-hime. She was the mother of Hiko-yu-
-musumi no Mikoto. [AJdso called Hiko-komosu no Mtkoto.| There
+Taniha no Takano-hime. She was the mother of Hiko-yumusumi no Mikoto. [AJdso called Hiko-komosu no Mtkoto.| There
 was a subordinate concubine named Oke-tsu-hime, younger
 sister of Oke-tsu no Mikoto, the ancestor of the Wani no Omi,
 She was the mother of Prince *? Hiko-imasu.
@@ -9620,8 +8843,7 @@ of age.
 60th year, Summer, 4th month, 9th day. The Emperor
 died.
 
-Winter, roth month, 3rd day. He was buried in the Saka-
-moto Misasagi at Isa-kaha in Kasuga.
+Winter, roth month, 3rd day. He was buried in the Sakamoto Misasagi at Isa-kaha in Kasuga.
 
 One version has :—‘‘ The Misasagi of Saka no kami.’’*
 
@@ -9686,18 +8908,12 @@ rst year, Spring, rst month, 13th day. The Prince Imperial
 assumed the Imperial Dignity. He honoured the et
 with the title of Grand Empress.
 
-and month, 16th day. Mimaki-hime was appointed Em-
-press. Before this she had given: birth to the Emperor Iku-
-me-iri-hiko-i-sachi, Kuni- kata-hime no. Mikoto, Chichi-tsuku
+and month, 16th day. Mimaki-hime was appointed Empress. Before this she had given: birth to the Emperor Ikume-iri-hiko-i-sachi, Kuni- kata-hime no. Mikoto, Chichi-tsuku
 Yamato-hime no Mikoto, Yamato-hiko no Mikoto, and Ika-tsuru-
 
 
-.2. hiko no Mikoto. By aconcubine, Tohotsu Ayume ma-kuwashi-
-
-
-hime, daughter of Araka, the Tohe of the Land of Kii, he
-had. Toyo-suki-iri-hiko no. Mikoto,, anda subordangte con-
-hada named Ohari no Olio-ama. ir at y aes
+.2. hiko no Mikoto. By aconcubine, Tohotsu Ayume ma-kuwashihime, daughter of Araka, the Tohe of the Land of Kii, he
+had. Toyo-suki-iri-hiko no. Mikoto,, anda subordangte conhada named Ohari no Olio-ama. ir at y aes
 “One version has :—‘“* Ya- ee -ama- irohe, daughter of
 _ Oho um no- -Sukune.”
 
@@ -9724,8 +8940,7 @@ Empire. Therefore it was that from generation to generation
 they were able to extend their unfathomable merit, and in their
 day to spread abroad their perfect virtue.
 
-We, having now received at their hands the mighty inheri-
-tance, lovingly nourish our good subjects. In so doing, let us
+We, having now received at their hands the mighty inheritance, lovingly nourish our good subjects. In so doing, let us
 follow obediently in the footsteps of our Imperial ancestors,
 and long preserve the unbounded felicity. And ye too, Our
 Ministers and functionaries, should you not co-operate with all
@@ -9756,7 +8971,7 @@ Toyo-suki-iri-bime no Mikoto to be worshipped at the village
 
 3 Le, a the virtues of the Sov ereign commanding the respect and
 obedience of the people.
-->%-In accordance: with the Chihese, notion that national’ calamities ae
+-)%-In accordance: with the Chihese, notion that national’ calamities ae
 owing tothe faults of the Emperor.
 
 5 The numen of Be great land of Y amato.
@@ -9780,24 +8995,16 @@ Bre. oes
 PCLT
 
 
-152 NIHONGI.
-
-
 of Kasanuhi in Yamato, where he established the sacred en-
 
 
-. closure of Shiki. Moreover, he entrusted Yamato-oho-kuni-
-
-
-dama no Kami to Nunaki-iri-bime no Mikoto to be worshipped.
-But Nunaki-iri-bime no Mikoto was bald and lean; and there-
-fore unfit to perform the rites of worship.
+. closure of Shiki. Moreover, he entrusted Yamato-oho-kunidama no Kami to Nunaki-iri-bime no Mikoto to be worshipped.
+But Nunaki-iri-bime no Mikoto was bald and lean; and therefore unfit to perform the rites of worship.
 
 7th year, Spring, 2nd month, 15th day. The Emperor
 decreed as follows :—‘‘ Of old our Imperial ancestors greatly
 extended the vast foundation, and under the later Emperors
-the institution became more and more exalted. The royal in-
-fluence spread and flourished. But now that it has devolved upon
+the institution became more and more exalted. The royal influence spread and flourished. But now that it has devolved upon
 Us, numerous calamities have unexpectedly befallen it. It is to
 be feared that from the absence of good Governmentin the Court,
 We have incurred the blame of the Gods of Heaven and Earth.
@@ -9817,15 +9024,12 @@ would assuredly become pacified of itself.” The Emperor in-
 
 
 The answer was :—‘‘I am the God who dwells within the
-borders of the land of Yamato, and my name is Oho-mono-
-nushi no Kami.”
+borders of the land of Yamato, and my name is Oho-mononushi no Kami.”
 
 Now, having obtained this divine message, the Emperor
 worshipped as he was told, but without effect. Then, having
 bathed and practised abstinence, and purified the interior of
-the Hall, he prayed, saying :—‘‘ Is Our observance of due cere-
-monies towards the Gods not yet complete? This non-
-acceptance iscruel. We pray that We may be further instructed
+the Hall, he prayed, saying :—‘‘ Is Our observance of due ceremonies towards the Gods not yet complete? This nonacceptance iscruel. We pray that We may be further instructed
 in a dream, and the divine favour thereby consummated.”
 
 That night he had a dream. A man of noble appearance
@@ -9843,13 +9047,10 @@ SUJIN. 153
 
 Emperor grieve no more for the disorder of the country. This
 is my will. If thou wilt cause me to be worshipped by my
-child, Oho-tata-neko, then will there be peace at once. More-
-over the lands beyond the sea will of their own accord render
+child, Oho-tata-neko, then will there be peace at once. Moreover the lands beyond the sea will of their own accord render
 submission.”
 
-Autumn, 8th month, 7th day. Yamato-to-to-kami-asachi-
-hara-ma-guhashi-hime, Oho-mina-kuchi-no Sukune, the an-
-cestor of the Hodzumi no Omi, and the Kimi of Wo-umi in
+Autumn, 8th month, 7th day. Yamato-to-to-kami-asachihara-ma-guhashi-hime, Oho-mina-kuchi-no Sukune, the ancestor of the Hodzumi no Omi, and the Kimi of Wo-umi in
 Ise had all three the same dream, which they reported to the
 Emperor, saying :—‘‘ Last night we had a dream in which there
 appeared a man of noble aspect, who admonished us, saying :—
@@ -9875,15 +9076,14 @@ Also called Kushi-hi-kata-ame-hi-kata, daughter of
 Take-chinu-tsumi.
 
 The Emperor said :—‘‘ Now we shall be prosperous.” So
-he ascertained by divination that it would be lucky to send Ika-
-shiko-wo to distribute offerings to the Gods. He also divined
+he ascertained by divination that it would be lucky to send Ikashiko-wo to distribute offerings to the Gods. He also divined
 that it would be unlucky to take advantage of this opportunity
 to worship other Gods.’
 
 11th month, 8th day.* The Emperor took the articles 4 for
 
 
-1 In Idzumi. > Than the two above mentioned.
+1 In Idzumi. ) Than the two above mentioned.
 
 * The original has cyclical characters which would make it the 56th day of
 the month. I have adopted an emendation which does not make obvious
@@ -9902,9 +9102,6 @@ B.C. Qo.
 Aig fey
 
 
-154 NIHONGI.
-
-
 the worship of the Gods which he ordered Ika-shiko-wo to have
 
 
@@ -9916,8 +9113,7 @@ Oho-kami. Moreover he made Nagaochi Master of the
 worship of Yamato no Oho-kuni-dama no Kami.
 
 After that, he divined that it would be lucky to worship the
-other Gods. So he took the opportunity of separately wor-
-shipping the assemblage of eighty myriads of Deities. He also
+other Gods. So he took the opportunity of separately worshipping the assemblage of eighty myriads of Deities. He also
 settléd which were to be Heavenly shrines and which Earthly
 shrines, and allotted land and houses for the service of the
 
@@ -9932,8 +9128,7 @@ the peasantry enjoyed abundance.
 village of Takahashi, named Ikuhi, was appointed Brewer to
 the Great Deity.
 
-Winter, r2th month, zoth day. The Emperor caused Oho-
-tata-neko to worship the Great Deity. On this day, Ikuhi, in
+Winter, r2th month, zoth day. The Emperor caused Ohotata-neko to worship the Great Deity. On this day, Ikuhi, in
 
 
 ‘person, presented to the Emperor sacred sake, with a song, as
@@ -9967,7 +9162,7 @@ We would go forth from—
 The door of the Hall of Miwa.
 
 
->> Hereupon the Emperor sang as follows :—
+)) Hereupon the Emperor sang as follows :—
 
 
 “How long ago” is'in Japanese Heubvisa: an obvious - allusion to- the
@@ -9991,14 +9186,10 @@ He who was called Oho- tata-neko was the first ancestor of the
 Kimi of Miwa.
 
 gth year, Spring, 3rd month, 15th day. The ae had
-a dream in, which a divine person appeared to him and in-
-structed him, saying :—‘‘ Take eight red shields and eight red
-spears and do worship to the God of Sumi-zaka. Take more-
-over eight black shields and eight black apeats and do wor-
-ship to the God of Oho-zaka.”
+a dream in, which a divine person appeared to him and instructed him, saying :—‘‘ Take eight red shields and eight red
+spears and do worship to the God of Sumi-zaka. Take moreover eight black shields and eight black apeats and do worship to the God of Oho-zaka.”
 
-Summer, 4th month, 16th day. In accordance with the in-
-struction he had received in the. dream, he worshipped the
+Summer, 4th month, 16th day. In accordance with the instruction he had received in the. dream, he worshipped the
 Gods of Sumi-zaka and Oho-zaka.’
 
 roth year, Autumn, 7th month, 24th day. He proclaimed
@@ -10052,9 +9243,6 @@ WE Gp.
 - 10.
 
 
-2. NIHONGI,
-
-
 he sent Tamba no chi-nushi no Mikoto to Tamba. On this
 occasion he addressed them, saying :—‘‘If there be any who
 do not receive our instructions, prepare war and smite them.”
@@ -10100,8 +9288,7 @@ Mikoto, the Emperor’s aunt by the father’s side, a shrewd and
 intelligent person, who could foresee the future, understood
 what was portended by this song, and told the Emperor that
 it was a sign that Take-hani-yasu-hiko* was about to plot
-treason against him. ‘I have heard,” she said, ‘“‘that Ata-
-bime, Take-hani-yasu-hiko’s wife, came secretly and took earth
+treason against him. ‘I have heard,” she said, ‘“‘that Atabime, Take-hani-yasu-hiko’s wife, came secretly and took earth
 
 
 1 The seals and ribbons are Chinese, and could not have been used as
@@ -10127,13 +9314,11 @@ Take-hani-yasu-hiko and his wife Ata-bime conspired to revolt,
 and arrived suddenly with an army which they had raised.
 They came each by different roads, the husband by way of
 Yamashiro, the wife by Oho-saka. They intended to join their
-forces and attack the capital. Then the Emperor sent Isaseri-
-hiko no Mikoto to attack the force led by Ata-bime. He
+forces and attack the capital. Then the Emperor sent Isaserihiko no Mikoto to attack the force led by Ata-bime. He
 accordingly intercepted it at Oho-saka and put it all to a great
 rout. Ata-bime was killed, and her troops were all slain.
 Afterwards he sent Oho-hiko and Hiko-kuni-fuku, the ancestor
-of the Wani no Omi, towards Yamashiro to attack Take-hani-
-yasu. Here they took sacred jars and planted them at the top
+of the Wani no Omi, towards Yamashiro to attack Take-haniyasu. Here they took sacred jars and planted them at the top
 of the acclivity of Takasuki in Wani.2 Then they advanced
 with their best troops and ascended Mount Nara and occupied
 it. Nowwhen the Imperial forces were encamping, they trod
@@ -10147,12 +9332,9 @@ now corrupted into Idzumi.
 
 Hani-yasu-hiko, standing on the bank of this river, inquired
 of Hiko-kuni-fuku, saying :—‘‘ Why hast thou raised an army
-and come hither?” He answered and said :—‘‘ Thou, in oppo-
-sition to Heaven, and regardless of right, dost intend to over-
-turn the Royal chamber.’ Therefore I have raised a loyal
+and come hither?” He answered and said :—‘‘ Thou, in opposition to Heaven, and regardless of right, dost intend to overturn the Royal chamber.’ Therefore I have raised a loyal
 army to punish thy revolt. This is the Emperor’s command.”
-Hereupon there was a struggle who should shoot first. Hani-
-yasu-hiko shot first at Hiko-kuni-fuku, but missed him. Then
+Hereupon there was a struggle who should shoot first. Haniyasu-hiko shot first at Hiko-kuni-fuku, but missed him. Then
 
 
 The same as Mount Kagu above referred to.
@@ -10160,9 +9342,6 @@ i.e. they sacrificed to the Gods before entering on the campaign.
 Narasu means to make level.
 
 
-1
-2
-3
 4 Challenge River. ° We would say the throne.
 
 
@@ -10173,9 +9352,6 @@ IT.
 
 
 - 12.
-
-
-1538 NIHONGI.
 
 
 Hiko-kuni-fuku aimed ‘at Hani-yasu-hiko, hit him in the breast;
@@ -10189,8 +9365,7 @@ Again the troops fled in fear and their excrements were voided
 on their breeches. So they took off their armour and ran..
 Knowing that they could not escape, they bowed their heads to
 the ground, and said, ‘‘Our Lord.” Therefore the men of that
-time called the place where the armour was taken off “‘ Ka-
-wara,”? and the place where the breeches were defiled they
+time called the place where the armour was taken off “‘ Kawara,”? and the place where the breeches were defiled they
 called. Kuso-bakama.* It is now called Kusuba, which ‘is a
 corruption of this word. |
 
@@ -10199,18 +9374,15 @@ A-gimi.*
 
 After tkis Yamato-toto-hi-momo-so-bime no Mikoto became
 the wife of Oho-mono-nushi no Kami. This God, however,
-was never seen in the day-time, but came at night. Yamato-
-toto-hime no Mikoto said to her husband :—‘‘ As my Lord ‘is
+was never seen in the day-time, but came at night. Yamatototo-hime no Mikoto said to her husband :—‘‘ As my Lord ‘is
 never seen in the day-time, I am unable to ‘view his august
 countenance distinctly ; I-beseech him therefore to delay a while,
 that in the morning -I may look upon the majesty of his
 beauty.” The Great God answered and said :—‘‘ What thou
-sayest is clearly right. To-morrow morning I will enter thy toilet-
-case and stay there. I pray thee be not alarmed at my form.”
+sayest is clearly right. To-morrow morning I will enter thy toiletcase and stay there. I pray thee be not alarmed at my form.”
 Yamato-toto-hime no Mikoto wondered secretly in her heart at
 this. Waiting until daybreak, she looked into her toilet-case.
-There was there a beautiful little snake,’ of the length and thick-
-ness of the cord ofa garment. Thereupon she was frightened,
+There was there a beautiful little snake,’ of the length and thickness of the cord ofa garment. Thereupon she was frightened,
 and uttered an exclamation. The Great God was ashamed, and
 changing suddenly into human form, spake to his wife, and
 
@@ -10316,9 +9488,6 @@ B.C: 87s
 B.C. 86.
 
 
-160 NIHONGI,
-
-
 r1th year, Summer, 4th month, 28th day. The generals of the
 four roads reported to the Emperor the circumstances of their
 pacification of the savages. This year strange tribes came in
@@ -10340,8 +9509,7 @@ epidemic disease has been rife, and calamities have befallen
 offences and to rectify Our errors, we have reverently worshipped
 the Gods of Heaven and Earth. We have also dispensed
 Our instructions and thus pacified the savage tribes, and
-by force of arms have chastised those who refused sub-
-mission. In this way authority has. been maintained, while
+by force of arms have chastised those who refused submission. In this way authority has. been maintained, while
 below there are no retired people.’ Education” is widespread ;
 the multitude take delight in their industries ;* strange tribes
 come employing several interpreters ; the countries beyond the
@@ -10355,9 +9523,7 @@ men’s bow-end tax and the women’s finger-end tax.*, Therefore
 the Gods of Heaven and Earth were harmonious. The wind
 
 
-1 By “retired people” are probably meant those who have concealed them-
-selves in order to escape from oppression. The phrase occurs in the “ Con-
-fucian Analects” (Legge, p. 200), where, however, it is used of a voluntary
+1 By “retired people” are probably meant those who have concealed themselves in order to escape from oppression. The phrase occurs in the “ Confucian Analects” (Legge, p. 200), where, however, it is used of a voluntary
 retirement from the world.
 
 2 The “education” is not juvenile education, but the education of the
@@ -10377,8 +9543,7 @@ SUJIN. 161
 
 and rain came in their season, the hundred kinds of grain
 formed duly. Families did not become extinct, population was
-sufficient. Profound peace prevailed in the Empire. There-
-fore he received the title of “ The Emperor, the august founder
+sufficient. Profound peace prevailed in the Empire. Therefore he received the title of “ The Emperor, the august founder
 of the country.”
 
 17th year, Autumn, 7th month, rst day. The following
@@ -10392,8 +9557,7 @@ caused to have ships built.”
 Winter, roth month. The building of ships was begun.
 
 48th year, Spring, ist month, roth day. The Emperor gave
-command to Toyoki no Mikoto and Ikume no Mikoto, say-
-ing :—‘‘ Ye, my two children, are alike in Our affection, and We
+command to Toyoki no Mikoto and Ikume no Mikoto, saying :—‘‘ Ye, my two children, are alike in Our affection, and We
 know not which of you to make Our successor. Do each of
 you dream, and We will form an augury from your dreams.”
 Hereupon the two princes, having received this command,
@@ -10437,13 +9601,9 @@ Bic Eg or
 hae es
 
 
-162 NIHONGI.
-
-
 6oth year, Autumn, 7th month, 14th day. The Emperor
 addressed his ministers, saying :—‘‘ Take-hi-teru no Mikoto
-Another version is Take-hina-tori or Ama-no-hina-
-tori.
+Another version is Take-hina-tori or Ama-no-hinatori.
 
 
 brought from Heaven the divine treasures and stored them in
@@ -10526,10 +9686,7 @@ saying :—‘‘ One of my children isa young infant. Yet of his own
 accord he has said this :—‘ These are the Gods worshipped by
 the men of Idzumo—Idzumo of the gem-like water-plant* and
 the sunken stone *—viz. the true-kind-beautiful-august-mirror,
-the pinion-flapping-beautiful-august-God, the bottom-treasure-
-august-treasure-master ; the august-spirit-plunged-in-the-water-
-of-the-mountain-stream, the peacefully-wearing (jewels ?)-august-
-deity, the bottom-treasure-august-treasure-master.’ * These do
+the pinion-flapping-beautiful-august-God, the bottom-treasureaugust-treasure-master ; the august-spirit-plunged-in-the-waterof-the-mountain-stream, the peacefully-wearing (jewels ?)-augustdeity, the bottom-treasure-august-treasure-master.’ * These do
 not seem like the words of a young infant. May they have
 been spoken by divine inspiration ?”
 
@@ -10556,9 +9713,6 @@ co w bo =.
 
 
 Vio
-
-
-164 NIHONGI.
 
 
 that upon which the people depend for their subsistence.’ At
@@ -10610,8 +9764,7 @@ THE EMPEROR IKU-ME-IRI-HIKO-I-SACHI.
 THE Emperor Iku-me-iri-hiko-i-sachi was the third child of the
 Emperor Mimaki-iri-hiko-iniye. The Empress his mother
 was called Mimaki-hime. She was the daughter of Oho-hiko
-no Mikoto. The Emperor was born in the Palace of Midzu-
-gaki in the 29th year of the Emperor Mimaki, the 50th year
+no Mikoto. The Emperor was born in the Palace of Midzugaki in the 29th year of the Emperor Mimaki, the 50th year
 of the cycle, Spring, the 1st month, the 1st day. From his
 birth he was of a distinguished appearance ; when he grew to
 manhood, he had superior talent and large principles. His
@@ -10654,11 +9807,7 @@ Wale?
 BGs 265
 
 
-166 NIHONGI.
-
-
-honorary title of Grand Empress. This was the year Midzu-
-noye Tatsu of the cycle.
+honorary title of Grand Empress. This was the year Midzunoye Tatsu of the cycle.
 
 and year, Spring, 2nd month, gth day. Saho-hime was
 appointed Empress. She gave birth to Homu-tsu-wake no
@@ -10666,8 +9815,7 @@ Mikoto. From his birth the Emperor loved him, and kept him
 near his own person. When he grew to manhood, he could
 not speak. |
 
-Winter, roth month. The capital was removed to Maki-
-muku. It was called the Palace of Tamaki. In this year the
+Winter, roth month. The capital was removed to Makimuku. It was called the Palace of Tamaki. In this year the
 man of Imna, Sonaka cheulchi,' asked permission to return to
 his country. Therefore gifts were liberally bestowed on him,
 and there were entrusted to him asa present for the King of
@@ -10688,8 +9836,7 @@ in the Land of Japan a sage Emperor, I wished to offer
 
 1 Corean pronunciation. The Japanese would be Sonaka shichi.
 
-2 There is probably some historical foundation for this. But the chrono-
-logy must be wrong. According to the Tongkam, Kara (Imna) was not
+2 There is probably some historical foundation for this. But the chronology must be wrong. According to the Tongkam, Kara (Imna) was not
 formed into a kingdom until A.D. 42, and hostilities between Kara and Silla
 are first mentioned in that work in A.D. 94. They were also at war
 in 97, 115, 116, and 203. See “Early Japanese History” in bil Nae a Nad
@@ -10697,8 +9844,7 @@ Pp. 44.
 
 ’ The ancient Chinese Emperors are so depicted.
 
-4 Now Tsuruga in Echizen. A derivation from Tsuno-nuka (horn-fore-
-head) seems intended.
+4 Now Tsuruga in Echizen. A derivation from Tsuno-nuka (horn-forehead) seems intended.
 
 5 The Chinese characters in the text are probably intended to be read
 with their Japanese pronunciation, and | have accordingly in this instance
@@ -10741,8 +9887,7 @@ the name of thy country. In future take the august name VI. 4.
 of the Emperor Mimaki and make it the name of thy
 country. So he gave Arashito red silk stuffs and sent him
 back to his native land. This was the reason why the
-name of that country is called Mimana.? Hereupon Ara-
-shito took the red silk which had been given him, and
+name of that country is called Mimana.? Hereupon Arashito took the red silk which had been given him, and
 stored it in the magazine of his country. The people of
 Silla hearing this, raised an army and proceeding thither
 robbed him of all the red silk. This was the beginning of
@@ -10768,9 +9913,6 @@ VI. 5.
 Oey
 
 
-168 NIHONGI.
-
-
 village chiefs said :—‘‘ With the implements which he is
 carrying let us fell the ox. We must surely prepare to
 slay and eat him. If the owner comes in search of him,
@@ -10785,8 +9927,7 @@ Now the God whom they worshipped was a white stone.
 So they gave the white stone tothe owner of the ox, and
 he accordingly brought it away with him and placed it in
 his bed-chamber. This divine stone became changed into
-a beautiful maiden, upon which Arashito was greatly re-
-joiced, and wished to be united to, her. But while he was
+a beautiful maiden, upon which Arashito was greatly rejoiced, and wished to be united to, her. But while he was
 away in another place, the maiden suddenly disappeared.
 Arashito was greatly alarmed, and inquired of his wife,
 saying :—‘ Whither has the maiden gone?’ She replied
@@ -10846,15 +9987,13 @@ to grant thy servant the place of his desire, thy servant
 will himself proceed to and visit the various provinces, and .
 
 
-he hopes that he may be granted the place which is agree-
-able to his mind.’ This was agreed to. Thereupon Ama
+he hopes that he may be granted the place which is agreeable to his mind.’ This was agreed to. Thereupon Ama
 no hi-hoko, ascending the river Uji, went northwards,
 until he arrived at the village of Ana, in the province of
 Ohomi.
 
 Afterwards, he proceeded onwards, from the province of
-Ohomi, through the province of Wakasa, and going west-
-ward arrived at the province of Tajima. So there he
+Ohomi, through the province of Wakasa, and going westward arrived at the province of Tajima. So there he
 
 
 Deities of Idzushi. Vide Ch. K., p. 261. Possibly the Idzushi short sword
@@ -10882,9 +10021,6 @@ Vio
 BiGnr25%
 
 
-170 NIHONGI.
-
-
 fixed his dwelling-place. Therefore the potters of Kagami
 no hasama,’ in the province of Ohomi, are the servants of
 Ama no hi-hoko. Accordingly Ama no hi-hoko took to
@@ -10898,8 +10034,7 @@ treason and tried to endanger the State. Therefore he watched
 for an occasion when the Empress was enjoying her leisure,
 and addressing her, said as follows:—‘‘ Whom dost thou love
 best—thy elder brother or thy husband?” Upon this, the
-Empress, ignorant of his object in making this inquiry, straight-
-way answered and said:—‘‘I love my elder brother.” Then
+Empress, ignorant of his object in making this inquiry, straightway answered and said:—‘‘I love my elder brother.” Then
 he enticed the Empress, saying :—‘‘If one serves a man by
 beauty, when the beauty fades, his affection will cease.? There
 are now many beautiful women in the Empire. They will
@@ -10929,7 +10064,7 @@ brother.
 
 
 1 Mirror-valley. 2 A Chinese saying.
-> i.e. to take possession of the throne.
+) i.e. to take possession of the throne.
 + A Chinese metaphor meaning “in security.”
 
 
@@ -10942,8 +10077,7 @@ his pillow. Up to this time the Empress had accomplished
 nothing, but thought vainly to herself:—‘‘ This would be the
 time to do that which the Prince, my elder brother, plotted.”
 And she wept tears which fell on the Emperor’s face. The
-Emperor woke up and addressed the Empress, saying :—‘‘ To-
-day We have had a dream. A small brocade-coloured snake
+Emperor woke up and addressed the Empress, saying :—‘‘ Today We have had a dream. A small brocade-coloured snake
 coiled itself round Our neck and a great rain arose from Saho,
 which coming hither wet Our face. What does this portend ?”’
 The Empress thereupon, knowing that she could not conceal
@@ -10953,22 +10087,18 @@ her elder brother’s, treason. Accordingly she addressed him,
 saying :—‘‘ Thy handmaiden was unable to resist the purpose
 of the Prince, her elder brother, and yet could not. be false to
 the gratitude due to the Emperor. If I confessed I destroyed
-the Prince, my elder brother. If I said nothing, I over-
-turned the temples of the earth and of grain,? so that on
+the Prince, my elder brother. If I said nothing, I overturned the temples of the earth and of grain,? so that on
 the one hand there was fear, and on the other there was
-grief. Whether I looked up or down there was lamenta-
-tion, whether I advanced or retired there was weeping and
+grief. Whether I looked up or down there was lamentation, whether I advanced or retired there was weeping and
 wailing. Night and day I was disturbed in mind, and could
 _ find no way to give information. Only to-day when Your
 Majesty went to sleep with his handmaiden’s knee as a pillow,
-she thought—‘ If I were mad enough to accomplish the pur-
-pose of my elder brother, at this very time the deed could be
+she thought—‘ If I were mad enough to accomplish the purpose of my elder brother, at this very time the deed could be
 done without difficulty.’ With this thought still in my mind,
 the tears flowed spontaneously. So I raised my sleeve to wipe
 away the tears,-and they overflowed from the sleeve and
 moistened Your Majesty’s face. Therefore the dream of to-day
-must have been an effect of this thing. The small brocade-
-coloured snake is nothing else than the dagger which was given
+must have been an effect of this thing. The small brocadecoloured snake is nothing else than the dagger which was given
 me: the great rain which arose suddenly is nothing else than
 thy handmaiden’s tears.”” Then the Emperor addressed the
 Empress, saying :—‘‘ This is not thy crime,” and raising a force
@@ -10983,9 +10113,6 @@ VI. 9.
 
 
 VI. 10.
-
-
-172 NIHONGI.
 
 
 remote ancestor of the Kimi of Kdédzuke, to slay Saho-hiko.
@@ -11022,10 +10149,7 @@ fair mates for thee. In the land of Tamba there are five
 ladies, all of virtuous minds, the daughters of the Prince, who is
 Michi no Ushi’ of Tamba.
 Prince Michi no Ushi was a grandson of the Emperor
-Waka-Yamato-Neko oho-hi-hi, and son of Prince Hiko-
-
-
-imasu.
+Waka-Yamato-Neko oho-hi-hi, and son of Prince Hikoimasu.
 
 
 * The Japanese word for rice-castle is inaki. It may be doubted whether
@@ -11041,8 +10165,7 @@ nobility which is frequently met with in the later history.
 SUININ. 173
 
 
-One version has:—‘‘ Son of Prince Hiko-yu-musubi-
-kuma.”’
+One version has:—‘‘ Son of Prince Hiko-yu-musubikuma.”’
 
 Let them be placed in the side courts to complete the number
 of the consort chambers.” To this the Emperor agreed.' Then
@@ -11052,8 +10175,7 @@ inside the castle. Thereupon the Emperor commended the
 good service of General Yatsunada, and granted him the name
 of Yamato-hi-muke take-hi-muke-hiko * Yatsunada.
 
-7th year, Autumn, 7th month, 7th day. The courtiers repre-
-sented to the Emperor as follows :—‘‘ In the village of Taima*
+7th year, Autumn, 7th month, 7th day. The courtiers represented to the Emperor as follows :—‘‘ In the village of Taima*
 there is a valiant man called Kuyehaya of Taima. He is ot
 great bodily strength, so that he can break horns and straighten
 out hooks. He is always saying to the people :—‘ You may
@@ -11076,8 +10198,7 @@ Nomi no Sukune. It is desirable that thou shouldst send for -
 him, by way of trial, and match him with Kuyehaya.”
 
 That same day the Emperor sent Nagaochi, the ancestor of
-the Atahe of Yamato, to summon Nomi no Sukune. There-
-upon Nomi no Sukune came from Idzumo, and straightway he
+the Atahe of Yamato, to summon Nomi no Sukune. Thereupon Nomi no Sukune came from Idzumo, and straightway he
 and Taima no Kuyehaya were made to wrestle together. The
 two men stood opposite to one another. Each raised his foot
 and kicked at the other,* when Nomi no Sukune broke with a
@@ -11109,8 +10230,7 @@ VA 6
 aves NIHONGI.
 
 
-the cause why there is in that village a place called Koshi-ore-
-da, i.e. the field of the broken loins.
+the cause why there is in that village a place called Koshi-oreda, i.e. the field of the broken loins.
 
 Nomi no Sukune remained and served the Emperor.
 
@@ -11130,11 +10250,8 @@ killed. Therefore that place received the name of Ochi-kuni.?
 The present name, Oto-kuni, is a corruption of this. The
 Empress Hibasu-hime no Mikoto had three sons and two
 daughters. The eldest was called Ini-shiki-iri-hiko no Mikoto,
-the second Oho-tarashi-hiko no Mikoto, the third Oho-nakatsu-
-hime no Mikoto, the fourth Yamato-hime no Mikoto, and the
-fifth Wakaki-ni-iri-biko no Mikoto. The concubine Nuba-tani-
-iri-hime gave birth to Nuteshi-wake no Mikoto and Ika-tarashi-
-bime no Mikoto. The next concubine Azami-ni-iri-bime gave
+the second Oho-tarashi-hiko no Mikoto, the third Oho-nakatsuhime no Mikoto, the fourth Yamato-hime no Mikoto, and the
+fifth Wakaki-ni-iri-biko no Mikoto. The concubine Nuba-taniiri-hime gave birth to Nuteshi-wake no Mikoto and Ika-tarashibime no Mikoto. The next concubine Azami-ni-iri-bime gave
 birth to Ike-haya-wake no Mikoto and Waka-asa-tsu-hime no
 Mikoto. ; :
 
@@ -11178,17 +10295,14 @@ Some say ‘‘ To the land of Tajima.”
 11th month, znd day. .Yukaha Tana presented the swan to
 the Emperor. Homutsu-wake no Mikoto played with this swan
 and at last learned to speak. Therefore, Yukaha Tana was
-liberally rewarded, and was granted the title of Tottori no Mi-
-yakko.* In consequence there was further established the Be
+liberally rewarded, and was granted the title of Tottori no Miyakko.* In consequence there was further established the Be
 of bird-catchers, the Be of bird-feeders,* and the Homu-tsu Be.
 
-25th year, Spring, 2nd month, 8th day. The Emperor com-
-manded the five Daibu,* Takenu Kaha-wake, ancestor of the
+25th year, Spring, 2nd month, 8th day. The Emperor commanded the five Daibu,* Takenu Kaha-wake, ancestor of the
 Abe no Omi, Hiko-kuni-fuku,’ ancestor of the Wani no Omi,
 Oho-kashima, ancestor of the Nakatomi no Muraji, Tochine,
 ancestor of the Mononobe no Muraji, and Take-hi, ancestor of
-the Ohotomo no Muraji, saying :—‘“‘ The sagacity of our pre-
-decessor on the throne, the Emperor Mimaki-iri-hiko-iniye,
+the Ohotomo no Muraji, saying :—‘“‘ The sagacity of our predecessor on the throne, the Emperor Mimaki-iri-hiko-iniye,
 was displayed in wisdom: he was reverential, intelligent and
 capable. He was profoundly unassuming, and his disposition
 was to cherish self-abnegation. He adjusted the machinery of
@@ -11225,21 +10339,15 @@ avele
 16.
 
 
-176 NIHONGI.
-
-
 his personal conduct. Every day he was heedful for that day.
 Thus the weal of the people was sufficient, and the Empire was
-at peace. And now, under Our reign, shall there be any re-
-missness in the worship of the Gods of Heaven and Earth?’’?
+at peace. And now, under Our reign, shall there be any remissness in the worship of the Gods of Heaven and Earth?’’?
 
 3rd month, roth day. Ama-terasu no Oho-kami was taken
-from Toyo-suki-iri-hime no Mikoto,’ and entrusted to Yamato-
-hime no Mikoto. Now Yamato-hime no Mikoto sought for a
+from Toyo-suki-iri-hime no Mikoto,’ and entrusted to Yamatohime no Mikoto. Now Yamato-hime no Mikoto sought for a
 place where she might enshrine the Great Goddess. So she
 proceeded to Sasahata in Uda. Then turning back from
-thence, she entered the land of Ohomi, and went round east-
-wards to Ming, whence she arrived in the province of Ise.
+thence, she entered the land of Ohomi, and went round eastwards to Ming, whence she arrived in the province of Ise.
 
 Now Ama-terasu no Oho-kami instructed Yamato-hime no
 Mikoto, saying :—‘‘ The province of Ise, of the divine wind,’ is
@@ -11253,12 +10361,10 @@ Iso. It wasthere that Ama-terasu no Oho-kami first descended
 from Heaven.
 
 One story is that the Emperor: made Yamato-hime no
-Mikoto to be his august staff,° and offered her to Ama-
-terasu no Oho-kami. Thereupon Yamato-hime no Mikoto
+Mikoto to be his august staff,° and offered her to Amaterasu no Oho-kami. Thereupon Yamato-hime no Mikoto
 took Ama-terasu no Oho-kami, and having enshrined her
 at Idzu-kashi no Moto in Shiki,° offered sacrifice to her.
-Thereafter, in compliance with the Goddess’s instruc-
-tions, she, in Winter, the roth month of the year Hinoto
+Thereafter, in compliance with the Goddess’s instructions, she, in Winter, the roth month of the year Hinoto
 
 
 ' This speech is thoroughly Chinese. It contains numerous phrases
@@ -11271,8 +10377,7 @@ borrowed from the Chinese classics.
 4 Abstinence Palace or Worship Palace. “On the accession of an
 Emperor, an unmarried Princess of the Imperial House was selected for the
 service of the Shrine of Ise, or if there was no such unmarried Princess,
-then another Princess was fixed upon by divination and appointed worship-
-princess (@& FE). The Worship-Palace was for her residence.” Shinto
+then another Princess was fixed upon by divination and appointed worshipprincess (@& FE). The Worship-Palace was for her residence.” Shinto
 midmoku ruijiushd, III. 23. See above, note to p. 41.
 
 5 ie. assistant or deputy.
@@ -11351,9 +10456,6 @@ AWiks
 8.
 
 
-178 NIHONGI.
-
-
 commanded the Mononobe, Tochine no Oho-muraji,' saying :—
 ‘‘ We have repeatedly despatched messengers to the Land of
 Idzumo to inspect the divine treasures of that Land, but we have
@@ -11364,20 +10466,16 @@ clear report thereof to His Majesty. He was accordingly
 appointed to the charge of the divine treasures.
 
 24th year, Autumn, 8th month, 7th day. The Department
-of Worship was made to ascertain by divination what imple-
-ments of war would be lucky as offerings to the Gods. Conse-
-quently bows, arrows, and cross-swords were deposited in the
+of Worship was made to ascertain by divination what implements of war would be lucky as offerings to the Gods. Consequently bows, arrows, and cross-swords were deposited in the
 shrines of all the Gods. The land and houses consecrated to
 their service were fixed anew, and they were sacrificed to in
 due season. The practice of offering weapons in sacrifice to the
 Gods of Heaven and Earth probably had its origin at this time.
 This year granaries were erected in the village of Kume.’
 
-28th year, Winter, roth month, 5th day. Yamato-hiko no Mi-
-koto, the Emperor’s younger brother by the mother’s side, died.
+28th year, Winter, roth month, 5th day. Yamato-hiko no Mikoto, the Emperor’s younger brother by the mother’s side, died.
 
-r1th month, znd day. Yamato-hiko was buried at Tsuki-
-zaka in Musa. Thereupon his personal attendants were
+r1th month, znd day. Yamato-hiko was buried at Tsukizaka in Musa. Thereupon his personal attendants were
 assembled, and were all buried alive upright in the precinct
 of the misasagi. For several days they died not, but wept and
 wailed day and night. At last they died and rotted. Dogs
@@ -11433,12 +10531,10 @@ It is well known to have existed among the Manchu Tartars and other
 races of North-Eastern Asia until modern times. The Jesuit missionary
 Du Halde relates that the Emperor Shunchi, of the T’sing dynasty (died
 1662), inconsolable for the loss of his wife and infant child, “ signified by his.
-will that thirty men should kill themselves to appease her manes, which cere-
-mony the Chinese look upon with horror, and was abolished by the care of
+will that thirty men should kill themselves to appease her manes, which ceremony the Chinese look upon with horror, and was abolished by the care of
 his successor ”—the famous Kanghi.
 
-Another missionary, Alvarez Semedo, in his history of the Tartar inva-
-sion, says :—“ The Tartarian King vowed to celebrate his Father’s Funerals
+Another missionary, Alvarez Semedo, in his history of the Tartar invasion, says :—“ The Tartarian King vowed to celebrate his Father’s Funerals
 with the lives of two hundred thousand of the inhabitants of China. For it
 is the custome of the Tartars, when any man of quality dieth, to cast into
 that fire which consumes the dead corpse as many Servants, Women and
@@ -11466,9 +10562,6 @@ N 2
 
 
 We 20}
-
-
-180 NIHONGI.
 
 
 Mikoto, saying :—‘‘Do ye each tell me the thing ye would
@@ -11568,8 +10661,7 @@ Gowland collection. ‘The Uyeno Museum in Tokio also possesses specimens,
 both of men and horses. None, however, remain in situ atthe tombs. The
 hani-wa (clay-ring) cylinders which may now be seen embedded in the
 earth round all the principal misasagi are so numerous that they can hardly
-have all been surmounted by figures. But they are of the same workman-
-ship and of the same date, and no doubt some of them are the pedestals of
+have all been surmounted by figures. But they are of the same workmanship and of the same date, and no doubt some of them are the pedestals of
 images, the above-ground part of which has been long ago destroyed by
 the weather or by accident.
 
@@ -11584,9 +10676,6 @@ Classics, Mencius,” p. 9.
 
 
 SSeS ==
-
-
-182 NIHONGI.
 
 
 When he was arriving at his lodging,’ a large tortoise came out
@@ -11612,9 +10701,7 @@ SUININ. 183
 this out, it must prognosticate something.” So Kambata no
 Tohe was sent for, and lodged in the hinder palace. She was
 the mother of Iha-tsuku-wake no Mikoto, who was the ancestor
-of the Kimi of Miho. Before this he had taken to wife Kari-
-hata-tohe, who bore him three sons. The first was called Oji-
-wake no Mikoto, the second Ika-tarashi-hiko no Mikoto, and
+of the Kimi of Miho. Before this he had taken to wife Karihata-tohe, who bore him three sons. The first was called Ojiwake no Mikoto, the second Ika-tarashi-hiko no Mikoto, and
 the third I-take-wake no Mikoto.
 
 Ika-tarashi-hiko no Mikoto was the first ancestor of the Kimi
@@ -11649,9 +10736,7 @@ kami.
 One version is:—‘‘ Whilst the Imperial Prince Inishiki
 dwelt at Kahakami of Udo in Chinu, he sent for a smith
 by name Kahakami, and made a thousand swords. At
-this time, the shield-makers’ Be, the Japanese-figured-cloth-
-workers’ Be, the sacred-bow-shavers’ Be, the sacred-
-arrow-makers’ Be,? the Oho-anashi Be, the Hatsu-kashi *
+this time, the shield-makers’ Be, the Japanese-figured-clothworkers’ Be, the sacred-bow-shavers’ Be, the sacredarrow-makers’ Be,? the Oho-anashi Be, the Hatsu-kashi *
 
 
 1 For irrigation. = So called because worn without a sheath.
@@ -11669,9 +10754,6 @@ VIL. 24.
 
 
 Boddy. Epes
-
-
-184 NIHONGI.
 
 
 Be, the jewel-workers’ Be, the Kami-osaka Be,' the Hi-oki?
@@ -11746,14 +10828,11 @@ Majesty. There was one Ha-buto gem, one Ashi-daka gem,
 one Uka no Akashi (red-stone) gem, one sun-mirror, and one
 Kuma-himorogi.* But there was one short sword called Idzushi,?
 which it ‘suddenly occurred to Kiyo-hiko not to offer to the
-Emperor ; so he concealed it in his clothing, and wore it him-
-self. The Emperor, unaware of the circumstance of the con-
-cealment of the short sword, and wishing to be gracious to
+Emperor ; so he concealed it in his clothing, and wore it himself. The Emperor, unaware of the circumstance of the concealment of the short sword, and wishing to be gracious to
 Kiyo-hiko, sent for him and gave him sake in the palace.
 Then the short sword appeared from among his, garments and
 became visible. The Emperor saw it, and himself asked
-Kiyo-hiko, saying :—‘‘ What short sword is that in thy cloth-
-ing?” Then Kiyo-hiko, seeing that he was unable to conceal
+Kiyo-hiko, saying :—‘‘ What short sword is that in thy clothing?” Then Kiyo-hiko, seeing that he was unable to conceal
 the short sword, explained that it belonged to the divine
 treasures which he was laying before the Emperor. So the
 Emperor said to Kiyo-hiko :—‘‘ How is it possible for this
@@ -11777,9 +10856,6 @@ A.D. 59.
 
 
 Vil 265,
-
-
-186 NIHONGI.
 
 
 appeared.”” The Emperor was struck with awe, and made no
@@ -11947,8 +11023,7 @@ born as twins* on the same day with the same placenta. The
 
 ' Great road or great conduct. ? Oho-iratsume.
 
-’ There seems to have been a question which of twins was to be con-
-sidered the elder. One idea was that the last born should be senior, because
+’ There seems to have been a question which of twins was to be considered the elder. One idea was that the last born should be senior, because
 he occupied the higher place in the womb.
 
 
@@ -11956,10 +11031,8 @@ _KEIKO. 189
 
 
 Emperor, wondering at this, informed the mortar.’ Therefore
-he gave these two Princes the names of Great Mortar (Oho-
-usu) and Little Mortar (Wo-usu). Now this Wo-usu no
-Mikoto was also called Yamato Woguna and again Yamato-
-dake no Mikoto.?. Whilst a child he had a manly spirit; when
+he gave these two Princes the names of Great Mortar (Ohousu) and Little Mortar (Wo-usu). Now this Wo-usu no
+Mikoto was also called Yamato Woguna and again Yamatodake no Mikoto.?. Whilst a child he had a manly spirit; when
 he arrived at manhood his beauty was extraordinary. He was
 a rod in height, and his strength was such that he could lift a
 tripod.’ | .
@@ -11987,14 +11060,12 @@ are also in use in Japan.
 The usu here referred to is probably of the
 kind shown in the annexed illustration. Stone
 pestles resembling in shape that in the right
-hand upper corner are among the stone, im-
-plements figured in Kanda’s work on this
+hand upper corner are among the stone, implements figured in Kanda’s work on this
 subject.
 
 Hardy, in his “ Manual of Buddhism,” p. 158,
 says :—‘‘The eastern pestle is found in every
-house, and is connected with as many super-
-stitions and ceremonies as the besom among Pestle and Mortar.
+house, and is connected with as many superstitions and ceremonies as the besom among Pestle and Mortar.
 the old wives of Europe.”
 
 The “ Shukai” editor suggests that by Great Mortar and Little Mortar the
@@ -12017,9 +11088,6 @@ A.D. 74.
 WA Eig
 
 
-190 NIHONGI.
-
-
 no Mikoto [one version has Take-wi-goro] was sent and caused
 to do sacrifice. Hereupon Ya-nushi-oshiho-dake-wo-goro no
 Mikoto went thither, and stayed at Kashihara in Abi, where he
@@ -12034,15 +11102,13 @@ a progressto Mino. Hiscourtiers represented to him, saying :—
 of perfect beauty. She is the daughter of the Imperial Prince
 Yasaka Irihiko.” The Emperor wished to obtain her to be
 his consort, and went to the house of Oto-hime.? Oto-hime,
-hearing that the Emperor was coming in his carriage, straight-
-way concealed herself in a bamboo-grove. Hereupon the
+hearing that the Emperor was coming in his carriage, straightway concealed herself in a bamboo-grove. Hereupon the
 Emperor provisionally caused Oto-hime to go and reside in
 the Kuguri Palace, and letting loose carp in a pond, amused
 himself by looking at them morning and evening. Now
 Oto-hime wished to see the carp sporting, so she came
 secretly and stood over the. pond. The Emperor forthwith
-detained her, and had intercourse with her. Hereupon Oto-
-hime thought :—‘‘ The way of a husband and wife is the
+detained her, and had intercourse with her. Hereupon Otohime thought :—‘‘ The way of a husband and wife is the
 prevailing rule both now and of old time. But for me it is not
 convenient.” So she besought the Emperor, saying :—‘‘ Thy
 handmaiden’s disposition is averse to the way of conjugal
@@ -12074,8 +11140,7 @@ Prince Oshi-wake, of the fourth the Imperial Prince Waka-
 Yamato-neko, of the fifth the Imperial Prince Oho-su-wake, of
 the sixth the Imperial Princess Nunoshi, of the seventh the
 Imperial Princess Nunaki, of the eighth the Imperial Princess
-Thoki no Iri-hime, of the ninth the Imperial Princess Kako-
-yori-hime, of the tenth the Imperial Prince Isaki no Iri-hiko,
+Thoki no Iri-hime, of the ninth the Imperial Princess Kakoyori-hime, of the tenth the Imperial Prince Isaki no Iri-hiko,
 of the eleventh the Imperial Prince Kibi no Ye-hiko, of the
 twelfth the Imperial Princess Takaki no Iri-hime, and of the
 thirteenth the Imperial Princess Oto-hime.
@@ -12092,8 +11157,7 @@ named Takada-hime, daughter of Kogoto of the Abe House,
 who bore to him the Imperial Prince Take-kuni Kori-wake.
 He was the first ancestor of the Wake of Mimura, in the
 Province of Iyo. His next consort, named Oho-tane-hime, of
-_Kami-naga in Hiuga, bore the Imperial Prince Hiuga no Sotsu-
-hiko. He was the tirst ancestor of the Kimi of Amu.* His
+_Kami-naga in Hiuga, bore the Imperial Prince Hiuga no Sotsuhiko. He was the tirst ancestor of the Kimi of Amu.* His
 next consort, named Sotake-bime, bore the Imperial Prince
 Kuni-chi-wake, the Imperial Prince Kuni-se-wake [one version
 has the Imperial Prince Miya-chi-wake] and the Imperial
@@ -12127,9 +11191,6 @@ De O2s
 invasion 7s
 
 
-192 NIHONGI.
-
-
 tarashi-hiko and the Imperial Prince Ihoki no Iri-hiko, the
 other seventy and odd children were all granted fiefs! of
 provinces and districts, and each proceeded to his own province.
@@ -12138,9 +11199,7 @@ the various provinces are the descendants of these separated
 (wakare) Princes.’
 
 In this month, the Emperor, hearing that the daughters of
-Kambone, Mino no Miyakko, the elder’s name being Ane-toho-
-ko, and the younger’s being Oto-toho-ko, were both of distin-
-guished beauty, sent Oho-usu’ no Mikoto with orders to
+Kambone, Mino no Miyakko, the elder’s name being Ane-tohoko, and the younger’s being Oto-toho-ko, were both of distinguished beauty, sent Oho-usu’ no Mikoto with orders to
 examine the countenance of these women. Now Oho-usu no
 Mikoto had secret intercourse with them, and did not report
 his mission. For this reason the Emperor was wrath with
@@ -12158,8 +11217,7 @@ Tsukushi.* |
 
 gth month, 5th day. On arriving at Saha in Suwo, the
 Emperor, standing with his face to the south,’ addressed his
-Ministers, saying :—‘‘ To the southwards, smoke rises abun-
-dantly. There must certainly be brigands there.” So he
+Ministers, saying :—‘‘ To the southwards, smoke rises abundantly. There must certainly be brigands there.” So he
 halted, and sending in advance Take-moro-gi, ancestor of the
 Omi of Oho, Unade, ancestor of the Omi of Kusaki, and
 Natsu-bana, ancestor of the Kimi of the Mononobe, made them
@@ -12171,16 +11229,13 @@ European feudalism must not be too closely pressed. Cf. Ch. K., p. 203.
 
 ? This omits to notice that Wake is a much older term.
 
-3 The country of the Kumaso was the southern part of the island of Kiu-
-shiu corresponding to the present provinces of Hiuga, Ohosumi, and Sat-
-suma. Kuma and So are the names of two tribes.
+3 The country of the Kumaso was the southern part of the island of Kiushiu corresponding to the present provinces of Hiuga, Ohosumi, and Satsuma. Kuma and So are the names of two tribes.
 
 * Tsukushi is used in two senses. It sometimes stands for the whole
 island of Kiushiu, sometimes for only the northern part of it, viz. the two
 provinces of Chikugo and Chikuzen. .
 
-° The Emperor of China stands with his face to the south on state occa-
-sions. But here it seems only to mean that the Emperor looked southwards.
+° The Emperor of China stands with his face to the south on state occasions. But here it seems only to mean that the Emperor looked southwards.
 
 
 KEIKO. 193
@@ -12237,11 +11292,7 @@ Nel eSs
 “VII. 9.
 
 
-194 NIHONGI.
-
-
-where he erected a travelling palace and dwelt there. There-
-fore the name of that place was called Miyako.’
+where he erected a travelling palace and dwelt there. Therefore the name of that place was called Miyako.’
 
 Winter, roth month. He arrived in the Land of Ohokida.
 The form of this region is wide and beautiful. Therefore it
@@ -12254,13 +11305,11 @@ she went out in person to meet the Emperor, and reported to
 him, saying :—‘‘ In this mountain there is a great cavern called
 the Rat’s Cave. There are two Tsuchi-gumo* who dwell in
 this cave. One is called Awo,*® and the other Shira.’ Again
-at Negino, in the district of Nawori, there are three Tsuchi-
-gumo. The name of the first is Uchi-zaru,’ of the second
+at Negino, in the district of Nawori, there are three Tsuchigumo. The name of the first is Uchi-zaru,’ of the second
 Yata,® and of the third Kunimaro.® These five men are alike
 mighty of frame, and moreover have numerous followers. They
 all say that they will not obey the Imperial command. If their
-coming is insisted on, they will raise an army and offer resist-
-ance.” The Emperor, provoked by this, could not advance on
+coming is insisted on, they will raise an army and offer resistance.” The Emperor, provoked by this, could not advance on
 his journey. So he halted at the village of Kutami, where he
 erected a temporary palace muro, and dwelt therein. Then he
 consulted with his Ministers, saying :—‘‘ Let us now put in
@@ -12294,11 +11343,9 @@ names, and inhabit old-settled parts of Japan.
 KEIKo. 195
 
 
-the pees where the camellia mallets were made Tsubaki-no-
-ichi," and the place where the blood flowed they called Chida.?
+the pees where the camellia mallets were made Tsubaki-noichi," and the place where the blood flowed they called Chida.?
 Then, in order to attack Uchi- -zaru, he crossed straight over
-Mount Negi. At this time the arrows of the enemy, shot cross-
-wise from the mountain, fell like rain in front of the Imperial
+Mount Negi. At this time the arrows of the enemy, shot crosswise from the mountain, fell like rain in front of the Imperial
 army. The Emperor retreated to Shiro-hara, where he made
 divination on the river-bank, and accordingly arraying his
 troops, he first attacked Yata on the moor of Negi, and defeated
@@ -12311,8 +11358,7 @@ moor of Kashihawo. On this moor there was a stone six feet
 in length, three feet in breadth, and one foot five inches in
 thickness. The Emperor prayed, saying:—‘“If we are to
 succeed in destroying. the Tsuchi-gumo, when we kick this
-stone, may we make it mount up like a Kashiha leaf.” Accord-
-ingly he kicked it, upon which, like a Kashiha leaf, it arose to
+stone, may we make it mount up like a Kashiha leaf.” Accordingly he kicked it, upon which, like a Kashiha leaf, it arose to
 the Great Void. Therefore that stone was called Homishi2
 The Gods whom he prayed to at this time were the God of
 Shiga, the God of the Mononobe of Nawori, and the God of
@@ -12355,9 +11401,6 @@ PND RS els $s
 AeDaroy
 
 
-196 NIHONGI.
-
-
 one of the ministers stood forward and said :—‘‘A Kumaso
 brave has two daughters, the elder named Ichi-fukaya, and
 the younger Ichi-kaya. Their beauty is perfect, and their hearts
@@ -12374,8 +11417,7 @@ her. Then Ichi-fukaya told the Emperor, saying :—‘‘ Be not
 anxious lest the Kumaso should not submit. Thy handmaiden
 has an excellent plan. Let me have one or two soldiers to
 follow me.” She then returned to her home, and prepared
-much strong sake, which she made her. father drink. He _ be-
-came drunk and lay down to sleep. Ichi-fukaya then secretly
+much strong sake, which she made her. father drink. He _ became drunk and lay down to sleep. Ichi-fukaya then secretly
 cut her father’s bowstring. Thereupon one of the soldiers who
 had escorted her came up and killed the Kumaso brave. The
 Emperor was provoked by such excessively unfilial conduct
@@ -12475,13 +11517,7 @@ epithet, or makura-kotoba, of Mount Heguri.
 VII.
 
 
-14
-
-
 Wilts.
-
-
-198 NIHONGI.
 
 
 11th day. Proceeding by the sea route, he anchored at
@@ -12569,8 +11605,7 @@ and spake, saying :—‘‘ The peaks and glens of this mountain
 follow each other fold upon fold. They are exceedingly
 beautiful. May it be that a God dwells in this mountain?”
 Then Saru-ohomi,’ the Agata-nushi of Minuma, represented to
-the Emperor, saying :—‘“‘ There is a female Deity named Yame-
-tsu hime, who dwells always among these mountains.” This is
+the Emperor, saying :—‘“‘ There is a female Deity named Yametsu hime, who dwells always among these mountains.” This is
 therefore the reason why this country is called the Land of
 Yame.
 
@@ -12612,9 +11647,6 @@ WOE:
 96s
 
 
-200 NIHONGI.
-
-
 partook of food. On this day the stewards left behind the
 drinking cup. Wherefore the men of that day called the place
 where the drinking cup had been forgotten Ukuha, The
@@ -12653,10 +11685,7 @@ was sent to attack the Kumaso. He was at this time
 sixteen years of age. Thereupon Yamato-dake no Mikoto
 said :—‘“‘I desire to take with me some good archers. Where
 are there any good archers?’ Some one told him, saying :—
-‘In the province of Mino there is a good archer named Oto-
-hiko-gimi.” Thereupon Yamato-dake no Mikoto sent Miyado-
-hiko, a man of Katsuraki, and summoned to him Oto-hiko-
-gimi. Therefore Oto-hiko-gimi came and brought with him
+‘In the province of Mino there is a good archer named Otohiko-gimi.” Thereupon Yamato-dake no Mikoto sent Miyadohiko, a man of Katsuraki, and summoned to him Oto-hikogimi. Therefore Oto-hiko-gimi came and brought with him
 Ishiura no Yokotachi, Tako no Inaki,‘ and Chichika no Inaki
 of the province of Ohari, and followed Yamato-dake no Mikoto
 on his expedition.
@@ -12686,11 +11715,9 @@ until the banquet should be given by the Brave of Kahakami.
 Then with a sword girded on him underneath his inner
 garment, he entered the banqueting muro of the Brave of
 Kahakami and remained among the women. The Brave of
-Kahakami, enchanted with the beauty of the young girl, forth-
-with took her by the hand, and made her sit beside him. He
+Kahakami, enchanted with the beauty of the young girl, forthwith took her by the hand, and made her sit beside him. He
 also offered her the cup, and made her drink, and thus amused
-himself with her. By and by the night grew late, and the com-
-pany fewer. Also the Brave of Kahakami became intoxicated.
+himself with her. By and by the night grew late, and the company fewer. Also the Brave of Kahakami became intoxicated.
 Hereupon Yamato-dake no Mikoto drew the sword which he
 had in his inner garments, and stabbed the Brave of Kahakami
 in the breast, but did not kill him outright. The Brave of
@@ -12698,8 +11725,7 @@ Kahakami, bowing down his head to the ground, said :—‘‘ Wait
 a little. I have something to say.” Then Yamato-dake no
 Mikoto stayed his sword and waited. The Brave of Kahakami
 addressed him, saying :—‘‘ Who is thine Augustness?”’ He
-answered and said:—‘‘I am the child of the Emperor Oho-
-tarashi-hiko, and my name is Yamato Woguna.” The Brave
+answered and said:—‘‘I am the child of the Emperor Ohotarashi-hiko, and my name is Yamato Woguna.” The Brave
 of Kahakami again spake to him, saying :—‘“‘ I am the strongest
 man in all this land, and therefore none of the men of this time
 
@@ -12710,8 +11736,7 @@ can excel me in might, and none refuses to be my follower.
 I have met with many valiant men, but none as yet could match
 the Prince. Therefore this despicable robber, from his filthy
 mouth, offers thine Augustness a title. Wilt thou accept it?”
-He said :—‘‘I will accept it.” So he spake to him, say-
-ing :—‘‘ Henceforward in speaking of the Imperial Prince, let
+He said :—‘‘I will accept it.” So he spake to him, saying :—‘‘ Henceforward in speaking of the Imperial Prince, let
 him be styled the Imperial Prince Yamato-dake.”’ When
 he had done speaking Yamato-dake pierced his breast
 through and killed him. Therefore up to the present day
@@ -12732,9 +11757,6 @@ A.D. 98.
 
 
 A.D. 110.
-
-
-202 NIHONGI.
 
 
 Afterwards he despatched Oto-hiko and the others, who slew
@@ -12765,15 +11787,10 @@ on him.
 of the Eastern wilds, and the frontier was in a state of tumult.
 
 Autumn, 7th month, 16th day. The Emperor addressed his
-Ministers, saying :—‘‘ The Eastern country is now in an un-
-quiet state, and turbulent Deities have sprung up in numbers.
+Ministers, saying :—‘‘ The Eastern country is now in an unquiet state, and turbulent Deities have sprung up in numbers.
 Moreover the Yemishi have rebelled to a man and frequently
-carry off the people. Whom shall I send to still this disturb-
-
-
-ance?” But none of the Ministers knew whom to send.
-Then Yamato-dake no Mikoto addressed the Emperor, say-
-ing :—‘‘ Thy servant it was who formerly performed the labour
+carry off the people. Whom shall I send to still this disturbance?” But none of the Ministers knew whom to send.
+Then Yamato-dake no Mikoto addressed the Emperor, saying :—‘‘ Thy servant it was who formerly performed the labour
 
 
 of the expedition to the West. . This campaign must be the
@@ -12816,12 +11833,10 @@ Amongst these Eastern savages the Yemishi are the most
 powerful, their men and women live together promiscuously,
 there is no distinction of father and child. In winter they
 dwell in holes, in summer they live in nests. Their clothing
-consists of furs, and they drink blood.’ Brothers are sus-
-picious of one another. In ascending mountains they are like
+consists of furs, and they drink blood.’ Brothers are suspicious of one another. In ascending mountains they are like
 flying birds; in going through the grass they are like fleet
 quadrupeds. When they receive a favour, they forget it, but
-if an injury is done them they never fail to revenge it. There-
-fore they keep arrows in their’top-knots and carry swords
+if an injury is done them they never fail to revenge it. Therefore they keep arrows in their’top-knots and carry swords
 within their clothing. Sometimes they draw together their
 fellows and make inroads on the frontier. At other times they
 take the opportunity of the harvest to plunder the people. If
@@ -12848,11 +11863,7 @@ Wika nnas
 Vi. 22.
 
 
-204 NIHONGI.
-
-
-Now We mark that thou art mighty of stature and thy coun-
-tenance is of perfect beauty, thou hast strength sufficient to raise
+Now We mark that thou art mighty of stature and thy countenance is of perfect beauty, thou hast strength sufficient to raise
 tripods, thy fierceness is like thunder and lightning, wherever
 thou dost turn thy face, there is none to stand before thee;
 whenever thou dost attack thou dost surely conquer. This we
@@ -12862,8 +11873,7 @@ intelligence and the disturbed condition of the country, has
 ordained that thou shouldst order the Heavenly institution,
 and save the monarchy from extinction. Moreover, this
 Empire is thy Empire, and this Dignity is thy Dignity. I
-adjure thee to exercise profound policy and far-reaching fore-
-sight in searching out iniquity and watching against crises.
+adjure thee to exercise profound policy and far-reaching foresight in searching out iniquity and watching against crises.
 Admonish with majesty; comfort with kindness. | Avoid
 having recourse to arms, and thou wilt naturally inspire loyal
 obedience. So by cunning words thou mayst moderate the
@@ -12891,11 +11901,9 @@ is a cento of reminiscences of Chinese literature.
 
 ? Numina.
 
-3 Hirata says that Japanese surnames were taken from offices or avoca-
-tions, names of places, parents’ names, circumstances, or objects. I suppose
+3 Hirata says that Japanese surnames were taken from offices or avocations, names of places, parents’ names, circumstances, or objects. I suppose
 he would have included under circumstances such personal peculiarities as
-that which suggested the name Nana-tsuka-hagi, literally ‘ Seven-span-
-shanks.”
+that which suggested the name Nana-tsuka-hagi, literally ‘ Seven-spanshanks.”
 
 
 KEIKO. 205
@@ -12906,8 +11914,7 @@ out on his journey.
 
 7th day. He turned aside from his way to worship at
 the shrine of Ise. Here he took leave of Yamato-hime! no
-Mikoto, saying :—‘‘ By order of the Emperor, I am now pro-
-ceeding on an expedition against the East to put to death
+Mikoto, saying :—‘‘ By order of the Emperor, I am now proceeding on an expedition against the East to put to death
 the rebels, therefore I am taking leave of thee.” Hereupon
 Yamato-hime no Mikoto took the sword Kusa-nagi and gave it
 to Yamato-dake no Mikoto, saying :—‘‘ Be cautious, and yet
@@ -12917,8 +11924,7 @@ This year Yamato-dake no Mikoto first reached Suruga.
 The brigands of this place made a show of obedience, and said,
 deceivingly :—‘‘ On this moor there are large deer in very great
 plenty. Their breath is like the morning mist, their legs are
-like a dense wood. Do thou go and hunt them.” Yamato-
-dake no Mikoto believed these words, and, going into the
+like a dense wood. Do thou go and hunt them.” Yamatodake no Mikoto believed these words, and, going into the
 middle of the moor, sought for game. The brigands, desiring
 to kill the Prince, set fire to the moor. But the Prince, seeing
 
@@ -12938,8 +11944,7 @@ The Prince said :—‘‘I was almost betrayed.” So he burnt
 all that robber-band and exterminated them. Therefore that
 place was called Yaketsu.’
 
-Next he marched on to Sagami, whence he desired to pro-
-ceed to Kadzusa. Looking over the sea, he spake with a loud
+Next he marched on to Sagami, whence he desired to proceed to Kadzusa. Looking over the sea, he spake with a loud
 voice, and said :—“‘ This is but a little sea:* one might even
 
 
@@ -12963,13 +11968,9 @@ sacred purposes. See a paper by Satow, in “J.A.S.T.,” VI. 223.
 VII. 26.
 
 
-206 NIHONGI.
-
-
 jump over it.’ But when he came to the middle of the sea a
 storm suddenly arose, and the Prince’s ship was tossed about,
-so that he could not cross over. At this time there was a con-
-cubine in the Prince’s suite, named Oto-tachibana-hime. She
+so that he could not cross over. At this time there was a concubine in the Prince’s suite, named Oto-tachibana-hime. She
 was the daughter of Oshiyama no Sukune of the Hodzumi
 House. She addressed the Prince, saying :—‘‘ This present
 uprising of the winds and rushing of the waves, so that the.
@@ -12981,8 +11982,7 @@ plunged into the billows. The storm forthwith ceased, and
 the ship was enabled to reach the shore. Therefore the people
 of that time called that sea Hashiri-midzu.’
 
-Hereupon Yamato-dake no Mikoto, going by way of Kad-
-zusa, changed his route, and entered the Land of Michi no
+Hereupon Yamato-dake no Mikoto, going by way of Kadzusa, changed his route, and entered the Land of Michi no
 oku.
 
 At this time a great mirror was hung upon the Prince's ship.
@@ -12995,8 +11995,7 @@ saw the Prince’s ship from afar, they feared his majesty and
 power, and knew in their hearts that they could not gain the
 victory over him. They all flung away their bows and arrows,
 bowed down towards him, and said :—‘‘ When we look upon
-thy face, we see that it is more than human. Art thou per-
-chance a Deity? We desire to know thy name.” The Prince
+thy face, we see that it is more than human. Art thou perchance a Deity? We desire to know thy name.” The Prince
 answered and said:—“I am the son of a Deity of visible
 men.” Hereupon the Yemishi were all filled with awe. They
 gathered up their skirts and, plunging into the waves, of their
@@ -13014,8 +12013,7 @@ them to be his personal attendants. The Yemishi having been
 KEIKO. . 207
 
 
-subdued, he returned from the country of Hitakami, and pro-
-ceeding to the south-west, passed through Hitachi, and arrived
+subdued, he returned from the country of Hitakami, and proceeding to the south-west, passed through Hitachi, and arrived
 at the Land of Kahi, where he dwelt in the palace of Sakawori.
 At this time a light was kindled and he partook of food. On
 this night he made a song, in which he inquired of those in
@@ -13065,7 +12063,7 @@ country as regards means of access, and also whether the people
 were tractable or not. So Yamato-dake no Mikoto advanced
 
 
-* Cf Ch. Ka Pp. 214. > Quiver.
+* Cf Ch. Ka Pp. 214. ) Quiver.
 3 Now known as the Usuhi Toge (pass) on the Nakasendd road.
 4 Aga tsuma means my wife.
 
@@ -13082,31 +12080,24 @@ VII. 28.
 Walle 20;
 
 
-208 NIHONGI.
-
-
-into the province of Shinano. This isa Land of high moun-
-tains and profound valleys. Verdant summits are piled up ten
+into the province of Shinano. This isa Land of high mountains and profound valleys. Verdant summits are piled up ten
 thousand fold, so that for men with staff in hand they are hard
 to ascend. The cliffs are precipitous, and are girt with flying
 bridges.’ Many thousand are the hill-ranges, where even with
 slackened reins the horse makes no progress. Yet Yamato-dake
 no Mikoto, bursting through the smoke, and braving the mists,
 distantly crossed Mount Oho-yama. He had already reached
-the summit when he became hungry and had food on the moun-
-tain. The God of the mountain plagued the Prince. He
+the summit when he became hungry and had food on the mountain. The God of the mountain plagued the Prince. He
 assumed the form of a white deer and stood before him. The
 Prince, wondering at this, took a stick of garlic, and jerked it
 at the white deer, striking it in the eye and killing it.2) Here
 the Prince suddenly lost his way and could find no issue.
 Then a white dog came of its own accord, and made a show of
 guiding the Prince. Following the dog, he proceeded on his
-way, and succeeded in coming out into Mino. Kibi no Take-
-hiko, coming out from Koshi, met him. Before this when any
+way, and succeeded in coming out into Mino. Kibi no Takehiko, coming out from Koshi, met him. Before this when any
 one crossed the Shinano pass, he inhaled so much of the breath
 of the Deity that he became ill and lay down. But after the
-white deer was killed, the travellers who crossed that moun-
-tain chewed garlic,®> and smearing with it men, kine, and
+white deer was killed, the travellers who crossed that mountain chewed garlic,®) and smearing with it men, kine, and
 horses, preserved them from being affected by the Deity’s
 
 
@@ -13200,9 +12191,6 @@ WAT 305
 Willa Bee
 
 
-210 NIHONGI.
-
-
 by the favour of the Gods, and trusting in the mighty power
 of the Emperor, I made the rebellious to submit themselves for
 punishment, and: the violent deities to become moderate.
@@ -13220,11 +12208,9 @@ Having said so, he died on the moor of Nobo. He was then
 thirty years of age. When the Emperor heard it, he could not
 sleep peacefully on his couch, nor was the taste of food sweet
 to him. Night and day his voice was choked with grief: with
-tears and lamentations he beat his breast. Therefore he ex-
-claimed aloud, saying :—‘‘Oh! Our son, Prince Wo-usu!
+tears and lamentations he beat his breast. Therefore he exclaimed aloud, saying :—‘‘Oh! Our son, Prince Wo-usu!
 Formerly when the Kumaso revolted he was still a boy. But
-for a long time he bore the labour of campaigning. After-
-wards he was constantly at Our side, supplying Our deficiencies.
+for a long time he bore the labour of campaigning. Afterwards he was constantly at Our side, supplying Our deficiencies.
 Then when the troubles with the Eastern savages arose, there
 was no one else whom We could send to smite them, so in
 spite of Our affection for him, We sent him into the country of
@@ -13318,9 +12304,6 @@ VII. 34.
 IND Eee 8%
 
 
-212 NIHONGI.
-
-
 to the Court, where they were made to settle beside Mount
 Mimoro. Ere long they cut down all the trees of the sacred’
 mountain. They shouted and bawled in the neighbouring
@@ -13335,8 +12318,7 @@ Harima, Sanuki, Iyo, Aki, and Aha.
 
 In the beginning Yamato-dake no Mikoto took the Imperial
 Princess Futachi-iri-hime, and made her his consort.” She
-bore Prince Ineyori-wake, next the Emperor Tarashi-naka-tsu-
-hiko,* next Nuno oshi-iri-hime no Mikoto, and next Prince
+bore Prince Ineyori-wake, next the Emperor Tarashi-naka-tsuhiko,* next Nuno oshi-iri-hime no Mikoto, and next Prince
 Waka-take. The eldest of these, Prince Ineyori-wake, was the
 first ancestor of the two families of the Kimi of Inu-gami and
 of the Kimi of Takebe. Another consort, named Kibi no
@@ -13382,8 +12364,7 @@ harbour of Aha.
 At this time the Emperor, hearing the cry of a fish-hawk,
 wished to see the bird’s form. So he went out upon the sea in
 search of it, and caught clams. Hereupon the ancestor of the
-Kashihade no Omi,’ by name Ihaka Mutsukari, made shoulder-
-straps of bulrushes, and preparing a hash of the clams, put it
+Kashihade no Omi,’ by name Ihaka Mutsukari, made shoulderstraps of bulrushes, and preparing a hash of the clams, put it
 before the Emperor. Therefore he commended the service
 rendered by the Omi Ihaka Mutsukari, and granted him the
 Stewards’ Ohotomo Be.
@@ -13400,8 +12381,7 @@ Palace.
 Emperor returned to Yamato, and dwelt in the Palace of
 Makimuku.
 
-55th year, Spring, 2nd month, 5th day. Prince Hiko-sa-
-jima was appointed Governor-general' of the fifteen provinces
+55th year, Spring, 2nd month, 5th day. Prince Hiko-sajima was appointed Governor-general' of the fifteen provinces
 of the Té-san-d6é.2 He was a grandson of Toyoki no Mikoto.
 But when he arrived at the village of Anashi in Kasuga
 he fell ill and died. i
@@ -13411,8 +12391,7 @@ Prince did not arrive, secretly purloined his body, and buried
 it in the land of Kodzuke.’
 
 56th year, Autumn, 8th month. The Emperor commanded
-Prince Mimoro-wake, saying :—‘‘ Thy father, Prince Hiko-
-sajima, was unable to proceed to his governorship and died
+Prince Mimoro-wake, saying :—‘‘ Thy father, Prince Hikosajima, was unable to proceed to his governorship and died
 prematurely. Therefore do thou undertake the absolute rule
 of the Eastern Land.” So Mimoro-wake no Mikoto, having
 
@@ -13460,13 +12439,9 @@ AED Fo K;
 #D, 132.
 
 
-214 NIHONGI.
-
-
 good administration when the Yemishi made a disturbance.
 So he raised an army and attacked them. Then the Yemishi
-chieftains, Ashi-furi-he, Oho-ha-furi-he, and Tohotsu Kura-ho-
-he bowed their heads to the ground and came; they made
+chieftains, Ashi-furi-he, Oho-ha-furi-he, and Tohotsu Kura-hohe bowed their heads to the ground and came; they made
 deep obeisance.and accepted punishment, offering him all their
 territory without exception. Therefore he pardoned those who
 surrendered, and put to death those who would not submit.
@@ -13477,8 +12452,7 @@ the Eastern Land.
 57th year, Autumn, gth month. The Pool of Sakate was
 constructed, and the embankment planted with bamboos.
 
-Winter, roth month. It was commanded that every pro-
-vince should erect granaries of the labourers’ Be.’
+Winter, roth month. It was commanded that every province should erect granaries of the labourers’ Be.’
 
 58th year, Spring, 2nd month, 11th day. The Emperor
 made a progress to the Land of Ohomi, and dwelt in Shiga for
@@ -13496,10 +12470,8 @@ The Emperor Waka-tarashi-hiko was the fourth child of the
 Emperor Oho-tarashi-hiko-oshiro-wake. The name of the
 Empress his mother was Ya-saka-iri-hime no Mikoto, daughter
 of the Imperial Prince Ya-saka-iri-hiko.. He was appointed
-Prince Imperial in the 46th year of the Emperor Oho-tarashi-
-hiko, being then aged twenty-four years. In the 6oth year of
-his reign, Winter, the 11th month, the Emperor Oho-tarashi-
-hiko died.
+Prince Imperial in the 46th year of the Emperor Oho-tarashihiko, being then aged twenty-four years. In the 6oth year of
+his reign, Winter, the 11th month, the Emperor Oho-tarashihiko died.
 
 Ist year, Spring, ist month, 5th day. The Prince Imperial
 assumed the Imperial Dignity. This year was the year Kanoto
@@ -13521,8 +12493,7 @@ The Empress was honoured with the title of Grand Empress. VI. 38.
 
 3rd year, Spring, ist month, 7th day. Takechi no Sukune a.p. 133.
 was made Prime Minister. In the beginning the Emperor was
-born on the same day with Takechi no Sukune, and he there-
-fore had an extraordinary affection for him.
+born on the same day with Takechi no Sukune, and he therefore had an extraordinary affection for him.
 
 Ath year, Spring, 2nd month, 1st day. The Emperor com- a.p. 134.
 manded, saying:—‘‘Our predecessor on the throne, the
@@ -13530,8 +12501,7 @@ Emperor Oho-tarashi-hiko, was clear-sighted and of divine
 valour. When he became subject to the scheme’ and received
 over the plan he ruled Heaven and was in accordance with
 Man. He swept away the banditti, and restored right. His
-virtue was like a canopy, his path harmonized with develop-
-ment. Therefore in all the land under Universal Heaven
+virtue was like a canopy, his path harmonized with development. Therefore in all the land under Universal Heaven
 there was none who did not recognize him as Sovereign. VII. 39.
 Of all things endowed with life and possessed of soul were there ;
 any which did not find their place ?
@@ -13541,8 +12511,7 @@ We have now succeeded him in the occupation of the
 precious felicity. Morning and night we tremble and fear.
 But the people are like wriggling worms, and will not reform
 the savagery of their hearts. In the provinces and districts
-there are no Lords, in the villages there are no Chiefs.” Hence-
-forward let there be established Lords in the provinces, and
+there are no Lords, in the villages there are no Chiefs.” Henceforward let there be established Lords in the provinces, and
 let there be Chiefs placed in the villages. Accordingly let men
 of ability ofthe provinces be taken and appointed Chiefs over
 provinces and districts, so as to form a defence for the Inner
@@ -13559,10 +12528,9 @@ to the influence of the element which overcomes that prevailing with the
 previous dynasty, and all human affairs are referable to the same occult
 influence.” Mayers’ Manual, p. 317. This whole speech is intensely Chinese.
 
-2 This cannot be correct. > i.e. the Gokinai.
+2 This cannot be correct. ) i.e. the Gokinai.
 
-* Inaki is literally rice-castle, i.e. granary. The office seems to be some-
-thing like mayor. It subsequently became a mere title, and eventually a
+* Inaki is literally rice-castle, i.e. granary. The office seems to be something like mayor. It subsequently became a mere title, and eventually a
 surname.
 
 
@@ -13581,15 +12549,11 @@ A.D.
 190.
 
 
-216 NIHONGI.
-
-
 shields and spears as emblems of authority. So the mountains
 
 
 and rivers were made boundaries for the separation of one
-province and district from another, whilst the bounds of town-
-ships and villages were established by means of lanes. In this
+province and district from another, whilst the bounds of townships and villages were established by means of lanes. In this
 way East and West were reckoned as in a line with the sun,
 while North and South were reckoned as athwart the sun.’
 The sunny side of the mountains was called the light-face
@@ -13645,8 +12609,7 @@ granted the honorary title of Grand Empress.
 Winter, 11th month, 1st day. The Emperor commanded his
 Ministers, saying :—‘‘ The Prince, Our father, died before We
 reached the status of a youth. His divine spirit became changed
-into a white bird and ascended to Heaven. Our longing re-
-gard for him knows not a day’s intermission. Therefore it is
+into a white bird and ascended to Heaven. Our longing regard for him knows not a day’s intermission. Therefore it is
 Our wish to procure white birds and to keep them in the pond *
 within the precincts of the misasagi, so that, looking on these
 birds, we may comfort our feelings of longing.” Orders were
@@ -13667,9 +12630,6 @@ A.D. 193.
 
 
 VIII.-3.
-
-
-218 NIHONGI,
 
 
 therefore sent to the various provinces to send tribute of white
@@ -13699,8 +12659,7 @@ thwarts his Lord ?”?
 
 This year was the year Midzunoye Saru (gth) of the Cycle.
 
-2nd year, Spring, ist month, 11th day. Oki-naga-tarashi-
-hime was appointed Empress. Before this the Emperor had
+2nd year, Spring, ist month, 11th day. Oki-naga-tarashihime was appointed Empress. Before this the Emperor had
 taken to him as consort Oho-nakatsu-hime, daughter of his
 uncle Hiko-bito Ohine. She bore to him the Imperial Prince
 Kakosaka and the Imperial Prince Oshikuma. Next he took
@@ -13726,8 +12685,7 @@ CHIUAI. 219
 
 tion to the Southern provinces. Hereupon he left behind the
 Empress and the functionaries, and with two or three High
-officials’ and several hundred officers in attendance, he pro-
-ceeded, thus lightly equipped, as far as the land of Kii, where
+officials’ and several hundred officers in attendance, he proceeded, thus lightly equipped, as far as the land of Kii, where
 he dwelt in the Palace of Tokorotsu. At this time the Kumaso
 
 
@@ -13748,8 +12706,7 @@ great many tahi assembled beside the ship. The Empress
 sprinkled sake upon the tahi, which forthwith became drunk
 and floated to the surface. Then the fishermen, having
 caught numbers of these tahi, were delighted, and said :—
-‘““They are the fish given us by our wise sovereign.” There-
-fore the fish of that place, when the sixth month comes, are in
+‘““They are the fish given us by our wise sovereign.” Therefore the fish of that place, when the sixth month comes, are in
 the habit of floating belly upwards as if they were drunk. This
 was the origin of it.
 
@@ -13760,8 +12717,7 @@ sea a Nyoi’ pearl.
 gth month. The Emperor erected a Palace in Anato, and
 dwelt init. It was called the Palace of Toyora in Anato.
 
-8th year, Spring, ist month, 4th day. The Emperor pro-
-ceeded to Tsukushi. At this time Kuma-wani,’® the ancestor
+8th year, Spring, ist month, 4th day. The Emperor proceeded to Tsukushi. At this time Kuma-wani,’® the ancestor
 of the Agata-nushi of Oka, hearing of the Emperor’s arrival,
 
 
@@ -13787,9 +12743,6 @@ VIII. 5.
 
 
 « WatREGs
-
-
-220 _ NIHONGI.
 
 
 up on the bows of a nine-fathom ship. On the upper branches
@@ -13853,8 +12806,7 @@ subtlety tortuous as the curvings of the Yasaka jewels ;* may
 thy glance survey mountain, stream and sea-plain bright as
 the mirror of white copper; mayst thou, wielding this ten-span
 sword, maintain peace in the Empire.” Thereupon the
-Emperor commended Itote, and called him Isoshi. ‘ Where-
-fore the men of that time called the native place of Itote the
+Emperor commended Itote, and called him Isoshi. ‘ Wherefore the men of that time called the native place of Itote the
 Land ofIso. The present name Ito is a corruption of this.
 
 22nd day. The Emperor arrived in the district of Naka.
@@ -13870,8 +12822,7 @@ There is a better land than this, a land of treasure, which may
 be compared to the aspect of a beautiful woman—the land of
 Mukatsu,* dazzling to the eyes. In that land there are gold
 and silver and bright colours in plenty. It is called the Land
-of Silla of the coverlets of paper-mulberry.* If thou worship-
-pest me aright, that land will assuredly yield submission freely,
+of Silla of the coverlets of paper-mulberry.* If thou worshippest me aright, that land will assuredly yield submission freely,
 and the edge of thy sword shall not at all be stained with blood.
 
 
@@ -13880,7 +12831,7 @@ and the edge of thy sword shall not at all be stained with blood.
 
 century of our era. “There are” (he says) “hereditary kings in Ito, who
 all owe allegiance to the Queen country.”
-> No doubt Maga-tama are meant. 3 Opposite.
+) No doubt Maga-tama are meant. 3 Opposite.
 
 
 4 Taku-fusuma in Japanese. This is a pillow-word, prefixed to Silla, not
@@ -13897,9 +12848,6 @@ VIL. 85
 
 
 A.D. 2CC.
-
-
-222 NIHONGI.
 
 
 Afterwards the Kumaso will surrender. In worshipping me,
@@ -13967,8 +12915,7 @@ taken up and entrusted to Takechi no Sukune. He removed
 it by sea to Anato, and buried it temporarily in the Palace
 of Toyora, giving it a fireless temporary burial.
 
-22nd day. The Prime Minister, Takechi no Sukune, re-
-turned from Anato, and made his report tothe Empress. This
+22nd day. The Prime Minister, Takechi no Sukune, returned from Anato, and made his report tothe Empress. This
 year, owing to the expedition against Silla, it was impossible
 to bury the Emperor.’
 
@@ -13996,8 +12943,7 @@ of the Emperor Waka-Yamato-neko-hiko Ohohihi” and the
 daughter of Prince Okinaga* no Sukune. Her mother’s name
 was Katsuraki no Taka-nuka-hime. She was made Empress
 in the second year of the Emperor Naka-tsu-hiko. Whilst
-still young, she was intelligent and shrewd, and her counte-
-nance was of such blooming beauty that the Prince her father
+still young, she was intelligent and shrewd, and her countenance was of such blooming beauty that the Prince her father
 wondered at it.
 
 In his gth year, Spring, the 2nd month, the Emperor
@@ -14012,8 +12958,7 @@ and functionaries to purge offences *and to rectify transgres-
 
 ! Divine merit or success. 2 Kaikwa Tenno.
 
-3’ Name of a place in Ohomi. This is hardly consistent with the state-
-ment at the end of this reign that Oki-naga -(long life) was a posthumous
+3’ Name of a place in Ohomi. This is hardly consistent with the statement at the end of this reign that Oki-naga -(long life) was a posthumous
 name given her, apparently owing to the great age to which she attained.
 
 + The ceremony of purification (harahi) is referred to.
@@ -14022,9 +12967,7 @@ Motowori observes on the parallel passage of the “ Kojiki” that tsumi,
 offence, includes kegare, pollutions, ashiki waza, ill-deeds, and wazawahi,
 calamities. The offences for which the ceremony of purification was required
 are enumerated in the “ Kojiki” as flaying alive, flaying backwards, breaking
-down the divisions between rice-fields, filling up irrigating channels, com-
-mitting nuisances, incest, and bestiality. The Oho-harahi, or Great Purifica-
-tion Ritual, gives a similar but more detailed description. See Ch. K,,
+down the divisions between rice-fields, filling up irrigating channels, committing nuisances, incest, and bestiality. The Oho-harahi, or Great Purification Ritual, gives a similar but more detailed description. See Ch. K,,
 
 
 Pp. 230.
@@ -14046,9 +12989,7 @@ saying :—‘* Who is the God who on a former day instructed the
 Emperor? I pray that I may know his name.” After seven
 days and seven nights there came an answer, saying :—‘‘ I am
 the Deity who dwells in the Shrine of split-bell Isuzu in the
-district of hundred-transmit Watarahi in the province of divine-
-wind Ise,° and my name is Tsuki-sakaki idzu no mi-tama ama-
-zakaru Muka-tsu hime‘ no Mikoto.
+district of hundred-transmit Watarahi in the province of divinewind Ise,° and my name is Tsuki-sakaki idzu no mi-tama amazakaru Muka-tsu hime‘ no Mikoto.
 
 Again she inquired :—‘“‘ Other than this Deity, are there any
 Deities present?”’ The answer was:—‘‘I am the Deity who
@@ -14063,8 +13004,7 @@ comes forth on the ears of the flag-like Eulalia,* and my dwell- _
 ing is in the district of Aha in Ada-fushi in Oda.” She
 inquired:—‘‘ Are there others?” There was an answer,
 saying :—‘‘ There is the Deity who rules in Heaven, who rules
-in the Void, the gem-casket-entering-prince, the awful Koto-
-shiro-nushi.”’ *
+in the Void, the gem-casket-entering-prince, the awful Kotoshiro-nushi.”’ *
 
 
 1 Lit. religious abstinence. See above, p. 176.
@@ -14077,8 +13017,7 @@ feet long, with six strings.
 by the Deity. The literal meaning is “pure court,” from the place in which
 he stood during the ceremony. See Ch. K., p. 229.
 
-6 The epithets split-bell, hundred-transmit and divine-wind are makura-
-kotoba or pillow-words, which have no meaning to us. Split-bell is put
+6 The epithets split-bell, hundred-transmit and divine-wind are makurakotoba or pillow-words, which have no meaning to us. Split-bell is put
 before Isuzu because suzu means bell (Fr. grélot). Wataru, “to cross over,”
 suggests the phrase momo-tsutahe (hundred-transmit). See Ch. K., p. 247.
 
@@ -14099,9 +13038,6 @@ Q
 4.
 
 
-226 NIHONGI.
-
-
 “She inquired:—‘‘ Are there others?” There was an
 answer, saying :—‘“‘ It is not known whether there are others or
 not.” Hereupon the Saniha' said:—‘‘ There is no answer
@@ -14109,16 +13045,14 @@ now, but they will speak again afterwards.” So there was an
 answer, saying :—‘‘ There are the Gods who have settled to the
 bottom of the water of the Little Strait of Tachibana” in the
 Land of Hiuga, and who are produced and dwell there like
-fresh water plants. Their names are Uha-tsutsu no wo, Naka-
-tsutsu. no wo, and Soko-tsutsu no wo.?
+fresh water plants. Their names are Uha-tsutsu no wo, Nakatsutsu. no wo, and Soko-tsutsu no wo.?
 
 She inquired :—“ Are there others?”’ There was an answer,
 saying :—‘‘ Whether there are or not is unknown.” And
 nothing more was ever said as to the existence of other Gods.
 
 Now that the Divine words* had been obtained, the Gods
-were worshipped in accordance with their instructions. There-
-after, Kamo no Wake, the ancestor of the Kibi no Omi, was
+were worshipped in accordance with their instructions. Thereafter, Kamo no Wake, the ancestor of the Kibi no Omi, was
 sent to attack the Kumaso. Before many days had elapsed
 they freely submitted.
 
@@ -14153,7 +13087,7 @@ of Yamato,’ where she put to death a Tsuchi-gumo named
 4 The term “divine words” probably means the proper names and titles
 of the Deities.
 
-> Feather-white bear-eagle. 6 August hat. 7 Peaceful.
+) Feather-white bear-eagle. 6 August hat. 7 Peaceful.
 
 8 In Chikugo.
 
@@ -14190,8 +13124,7 @@ This having been done, the Empress knew that there was
 virtue in the teaching of the Gods, and she made sacrifice anew
 to the Gods of Heaven and Earth. As it was her purpose in
 person to chastise the West, she set apart a sacred rice-field,
-and tilled it. Then, in order to divert water from the Naka-
-gaha with which to irrigate it, she dug a channel as far as the
+and tilled it. Then, in order to divert water from the Nakagaha with which to irrigate it, she dug a channel as far as the
 Hill of Todoroki. But a great rock stood in the way, and she
 was unable to pierce a channel through it. Then the Empress
 sent for Takechino Sukune, and offering a sword and a mirror
@@ -14218,17 +13151,13 @@ IDS
 6.
 
 
-228 NIHONGI.
-
-
 The Empress returned to the Bay of Kashihi, and loosing
 her hair, looked over the sea, saying :—‘‘ I, having received the
 instructions of the Gods of Heaven and Earth, and trusting in
 the Spirits of the Imperial ancestors, floating across the deep
 blue sea, intend in person to chastise the West. Therefore do
 I now lave my head in the water of the sea. If Iam to be
-successful, let my hair part spontaneously into two.”’ Accord-
-ingly she entered the sea and bathed, and her hair parted of its
+successful, let my hair part spontaneously into two.”’ Accordingly she entered the sea and bathed, and her hair parted of its
 own accord. The Empress bound it up parted into bunches.’
 
 Then she addressed her ministers, saying :—‘‘ To make war
@@ -14305,8 +13234,7 @@ Otarimi,! Yosami no Ahiko to be the Director of the ceremonies
 in honour of the God.
 
 The time had now come for the Empress’s delivery. So she
-took a stone which she inserted in her loins, and prayed, say-
-ing :—‘‘ Let my delivery be in this land on the day that I
+took a stone which she inserted in her loins, and prayed, saying :—‘‘ Let my delivery be in this land on the day that I
 return after our enterprise is at an end.” That stone is now
 on the road-side in the district of Ito.” cae
 
@@ -14334,11 +13262,7 @@ XEEO:
 TX 10.
 
 
-230 NiHONGI.
-
-
-‘Winter, roth month, 3rd day. Sail was set from the har-
-bour of Wani.’ Then the Wind-God.made a breeze to spring
+‘Winter, roth month, 3rd day. Sail was set from the harbour of Wani.’ Then the Wind-God.made a breeze to spring
 up, and the Sea-God? uplifted the billows. The great fishes of
 the ocean, every one, came to the surface and encompassed the
 ships. Presently a great wind blew from a favourable quarter
@@ -14393,8 +13317,7 @@ female slaves.” He confirmed this by repeated oaths, saying :—
 _JINGO, 2a
 
 
-in the West; when the River Arinare' turns its course back-
-ward, and when the river pebbles ascend and become stars—
+in the West; when the River Arinare' turns its course backward, and when the river pebbles ascend and become stars—
 if before this we fail to pay homage every spring and every
 autumn, or neglect to send tribute of combs -and whips, may
 the Gods of Heaven and Earth both together punish us.”
@@ -14406,8 +13329,7 @@ of Gold and Silver, I gave orders to the three divisions of the
 army, saying :—‘ Slay not the submissive.’ Now that we have
 taken the Land of Treasure, and its people have freely offered
 submission, it would be unlucky to slay them.” So she loosed
-the cords with which he was bound, and made him her forage-
-provider.
+the cords with which he was bound, and made him her forageprovider.
 
 Ultimately she proceeded to the interior of that country,
 placed seals on the magazines of precious treasure, and took
@@ -14416,8 +13338,7 @@ which the Empress leant * was planted at the gate of the King
 of Silla as a memorial to after ages. Therefore that spear
 even now remains planted at the King of Silla’s gate.
 
-Now Phasa Mikeun,‘ King of Silla, gave as a hostage Mi-
-cheul-kwi-chi Pha-chin Kan-ki,> and with gold and silver,
+Now Phasa Mikeun,‘ King of Silla, gave as a hostage Micheul-kwi-chi Pha-chin Kan-ki,) and with gold and silver,
 bright colours, figured gauzes and silks, he loaded eighty vessels,
 which he made to follow after the Imperial forces. This was
 the origin of the King of Silla always sending eighty ships of
@@ -14449,15 +13370,11 @@ officially known as Koryé until A.D. 936, but the contracted form was in use
 TX, 12.
 
 
-232 NIHONGI.
-
-
 hearing that Silla had rendered up its maps and registers,! and
 made submission, secretly caused the warlike power (of the
 Empress) to be spied out. Finding then that they could not
 be victorious, they came of themselves without the camp, and
-bowing their heads to the ground, and sighing, said :—‘‘ Hence-
-forth for ever, these lands shall be styled thy western frontier
+bowing their heads to the ground, and sighing, said :—‘‘ Henceforth for ever, these lands shall be styled thy western frontier
 provinces, and will not cease to offer tribute.’ “Accordingly
 interior Governments were instituted. This is what is termed
 the three Han.”
@@ -14492,8 +13409,7 @@ Corea.
 
 ‘i.e, the territory described in them.
 
-* Corea at one time was divided into three kingdoms, called Ma-han, Sin-
-han, and Pyén-han, corresponding respectively to Pékché, Silla, and Koryé.
+* Corea at one time was divided into three kingdoms, called Ma-han, Sinhan, and Pyén-han, corresponding respectively to Pékché, Silla, and Koryé.
 But there is some doubt on the subject.
 
 The three Han are rendered in the kana gloss mitsu no Kara-kuni. But
@@ -14514,10 +13430,8 @@ SS Bircn,
 , JINGO. | 233
 
 
-One version says:—‘‘ When the Emperor Tarashi-
-nakatsu-hiko dwelt in the palace of Kashihi in Tsukushi,
-there were Deities who spake by the mouth of Uchi-saru-
-taka, Kuni-saru-taka, and Matsu-ya-tane, ancestors of the
+One version says:—‘‘ When the Emperor Tarashinakatsu-hiko dwelt in the palace of Kashihi in Tsukushi,
+there were Deities who spake by the mouth of Uchi-sarutaka, Kuni-saru-taka, and Matsu-ya-tane, ancestors of the
 Agata-nushi of Saha, and admonished the Emperor,
 saying :—‘If the august descendant wishes to gain the
 Land of Treasure, we will presently bestow it on him.’ So
@@ -14539,8 +13453,7 @@ any country? Moreover, when the ship in which We sail
 has been offered to you Deities, in what ship shall We
 sail? Nor do I know what Gods ye are. I pray you, let
 me know your names.’ Then the Gods gave their names,
-saying :—‘ Uha-tsutsu no wo, Naka-tsutsu no wo, Soko-
-tsutsu no wo.’ Such were the names of the three Gods
+saying :—‘ Uha-tsutsu no wo, Naka-tsutsu no wo, Sokotsutsu no wo.’ Such were the names of the three Gods
 given by them. And again one said :—‘I am Mukahitsu
 no wo, Kiki-so-ofu-itsuno mitama, Hayasa-nobori no
 Mikoto.’ Then the Emperor spake to the Empress, and
@@ -14563,31 +13476,24 @@ EX:..13:
 IDES vid
 
 
-234 NIHONGI,
-
-
 directions of the Gods.’ Then the Empress, clad in male
 attire, went on the expedition against Silla, and the Gods
 guided her. Accordingly the wave which followed the
 ship reached far into the interior of the Land of Silla.
 Hereupon the Silla Prince Urusohorichiu? came to meet
 the Empress, and kneeling down, took hold of the Royal
-vessel. Bowing his head to the ground, he said :—‘ Hence-
-forward thy servant will act as an interior Government for
+vessel. Bowing his head to the ground, he said :—‘ Henceforward thy servant will act as an interior Government for
 the child of the Gods who dwells in Japan, and will not
 cease to furnish tribute.’”’ |
 One version says :—‘‘ She took prisoner the Prince of
 Silla, and going to the sea-side, plucked out his knee-caps,*
 and causing him to crawl on the rocks, suddenly slew him,
 and buried him in the sand. Accordingly she stationed
-there one man as Governor of Silla, and departed. After-
-wards, the wife of the Prince of Silla, not knowing where
-the body of her husband was buried, all by herself con-
-ceived the thought of deluding the Governor. So,
+there one man as Governor of Silla, and departed. Afterwards, the wife of the Prince of Silla, not knowing where
+the body of her husband was buried, all by herself conceived the thought of deluding the Governor. So,
 enticing him, she said:—‘ If thou wilt let me know the
 place where the Prince’s body is buried, I will surely
-reward thee liberally, and will become thy wife.’ Here-
-upon the Governor believed these deluding words, and
+reward thee liberally, and will become thy wife.’ Hereupon the Governor believed these deluding words, and
 secretly made known to her the place where the body was
 buried. Then the Prince’s wife and the people of the
 country, having consulted together, slew the Governor,
@@ -14617,8 +13523,7 @@ JINGO, - 235
 
 
 mightily incensed, and raised a large army, with which it
-was her intent utterly to.destroy Silla. So, with war-
-ships filling the sea, she proceeded thither. At this time
+was her intent utterly to.destroy Silla. So, with warships filling the sea, she proceeded thither. At this time
 the people of Silla were all afraid, and knew not what to
 do. Having assembled, they consulted together, and slew
 
@@ -14675,9 +13580,6 @@ that of Japan.
 TEX
 
 
-226 NIHONGI.
-
-
 Homutate, the ancestor of the Atahe of Anato, and Tamomi no
 Sukune, ancestor of the Muraji-of Tsumori, represented to the
 Empress, saying :—‘‘ Surely thou wilt set apart unto the Gods
@@ -14711,8 +13613,7 @@ has associated with the name of Chiuai Tenno. It is surrounded by the
 usual circles of clay cylinders, known in the neighbourhood as “‘ Chiuai no
 sen-tsubo,” i.e. “the thousand jars of Chiuai.”
 
-There is a smaller mound of circular shape close to the other, also sur-
-rounded by a circle of clay cylinders. This isno doubt the tomb of a wife,
+There is a smaller mound of circular shape close to the other, also surrounded by a circle of clay cylinders. This isno doubt the tomb of a wife,
 son, or minister of the personage buried in the main tumulus. The
 “ Nihongi ” tradition does not account for it.
 
@@ -14745,15 +13646,13 @@ troops, and retreating again, encamped at Sumiyoshi.* At this
 time, the Empress heard that Prince Oshikuma had raised an
 army, and was awaiting her. She commanded Takechi no
 Sukune to take in his bosom the Imperial Prince, and going out
-across by way of the south-sea provinces,‘ to anchor in the har-
-bour of Kii, while the Empress’s ship made straight for Naniha.
+across by way of the south-sea provinces,‘ to anchor in the harbour of Kii, while the Empress’s ship made straight for Naniha.
 At this time the Empress’s ship swerved towards the midst of
 the sea, and was unable to proceed. She returned again to
 the harbour of Muko,’ where she made divination as to this.
 Hereupon Ama-terasu no Oho-kami admonished her, saying:
 —‘* My rough spirit may not approach the Imperial residence.
-Let him dwell in the land of Hirota in Mikokoro.” So Ha-
-yama-hime, daughter of Yamashiro-neko, was appointed to
+Let him dwell in the land of Hirota in Mikokoro.” So Hayama-hime, daughter of Yamashiro-neko, was appointed to
 worship him. Moreover, Waka-hiru-me no Mikoto admonished
 the Empress, saying :—‘‘ I wish to dwell in the land of Nagawo
 in Ikuta.”"® So Una-gami no Isachi was appointed to worship
@@ -14883,12 +13782,10 @@ Come ! let us join battle !
 
 
 Then Takechi no Sukune, giving command to the three
-divisions of the army, made them all bind up their hair mallet-
-wise. Accordingly he made an order, saying :—‘“‘ Let every
+divisions of the army, made them all bind up their hair malletwise. Accordingly he made an order, saying :—‘“‘ Let every
 one of you have spare bow-strings concealed in your top-knots,
 and gird on wooden swords.” Having done so, in accordance
-with the commands of the Empress, he deluded Prince Oshi-
-kuma, saying:—‘‘I am not greedy to possess the Empire.
+with the commands of the Empress, he deluded Prince Oshikuma, saying:—‘‘I am not greedy to possess the Empire.
 Only, while cherishing the infant Prince, we will obey my
 
 ‘Lord the Prince. Why should I contend with thee in battle ?
@@ -14913,9 +13810,6 @@ ID. eR
 
 
 WX 21,
-
-
-240 | NIHONGI,
 
 
 I pray thee let us both cut our bow-strings, fling away our
@@ -14989,8 +13883,7 @@ Since with my eyes I cannot see them,
 ‘Can they be still alive ?
 
 
-Hereupon they searched for their dead bodies, and were un-
-able to find them. But several days after, they came out on
+Hereupon they searched for their dead bodies, and were unable to find them. But several days after, they came out on
 the river-bank at Uji... Then Takechi no Sukune again made a
 song, saying :— |
 
@@ -15018,12 +13911,10 @@ Wakazakura.
 
 5th year, Spring, 3rd month, 7th day. The King of Silla
 sent O-nyé-sa-pol, Mo-ma-ri Cheul-chi and Pu-ra-mo-chi with
-tribute. It was their desire to get back Mi-cheul Hé-chi pol-
-han, who had formerly come as a hostage. With this object
+tribute. It was their desire to get back Mi-cheul Hé-chi polhan, who had formerly come as a hostage. With this object
 they tampered with Hé6-chi pél-han and caused him to use
 deceit, telling him to make petition and say :—‘‘The envoys
-O-nyé-si-pol, Mo-ma-ri Cheul-chi, and the other have in-
-formed me that my king, on account of my long failure to
+O-nyé-si-pol, Mo-ma-ri Cheul-chi, and the other have informed me that my king, on account of my long failure to
 return, has wholly confiscated my wife and family and made
 
 
@@ -15044,9 +13935,6 @@ TX 223.
 IX. 24.
 
 
-242 NIHONGI.
-
-
 them slaves. I pray thee, let me return for a while to my
 own country and learn whether this be true or false.” The
 Emperor forthwith gave him leave to go, and accordingly sent
@@ -15058,11 +13946,9 @@ sailors, on board of which they put Mi-cheul Han-ki and made
 him escape to Silla. They also made a straw figure which
 they put in Mi-cheul Hé-chi’s berth, and making it appear like a
 sick man, they informed Sotsuhiko, saying :—‘‘ Mi-cheul H6-chi
-has taken suddenly ill, and is on the point of death.” Sotsu-
-hiko sent men to nurse him, and so discovered the deception.
+has taken suddenly ill, and is on the point of death.” Sotsuhiko sent men to nurse him, and so discovered the deception.
 Having seized the three Silla envoys, he placed them.in a cage
-which he burnt with fire and so killed them. Then he pro-
-ceeded to Silla, where he touched at the harbour of Tatara.
+which he burnt with fire and so killed them. Then he proceeded to Silla, where he touched at the harbour of Tatara.
 He took the Castle of Chhora; and returned. The captives
 taken on this occasion were the first ancestors of the Han’
 people of the four villages of Kuhabara, Sabi, Takamiya, and
@@ -15108,8 +13994,7 @@ gone to the Wa country, and made a false report, saying :—‘ Silla and
 Kokury6 are about to plot together to attack Wa.’ The Lord at length sent
 troops to guard the frontier. And when Kokuryé, having invaded Silla,
 slew those guards also, the Lord of Wa believed that the story told by the
-Pékché men was true. But when he heard that the King of Silla had im-
-prisoned the family of Misiheun and Ché-syang, he thought that Ché-
+Pékché men was true. But when he heard that the King of Silla had imprisoned the family of Misiheun and Ché-syang, he thought that Ché-
 syang was really a rebel. Hereupon he sent forth an army in order to
 attack Silla, and made Ché-syang and Misaheun guides. Coming to an
 island in the ‘sea, all the generals consulted secretly how they should
@@ -15158,9 +14043,6 @@ iM. Dee aie
 EXC 25.
 
 
-344 NIHONcI.
-
-
 was commanded to go with the Prince Imperial and worship
 the Great God of Kebi in Tsunoga.'
 
@@ -15197,8 +14079,7 @@ pronunciation of the Chinese characters with which they are written, but
 there is much room for doubt whether the Japanese pronunciation would
 not sometimes be better. The text cannot be relied on.
 
-The interlinear kana gives as the names of the three envoys, Ureshi-
-hotsu, Momari Shichi, and Furamochi, and of the hostage, Mishi Kochi
+The interlinear kana gives as the names of the three envoys, Ureshihotsu, Momari Shichi, and Furamochi, and of the hostage, Mishi Kochi
 hotsu-kan. Here shichi is probably for 4? #ll (sya-chi), the 13th official
 rank in Silla.
 
@@ -15250,8 +14131,7 @@ The History of Wei says :—‘‘ In the reign of the Emperor
 Ming Ti, in the third year of the period King-ch‘u (A.D.
 239) the Queen of Wa sent the high officer Nan-teu-mi
 and others to the province, where they begged permission
-to proceed to the Emperor and offer tribute. The T‘ai-
-sheu,? Tang-hia, sent an officer to escort them to the
+to proceed to the Emperor and offer tribute. The T‘aisheu,? Tang-hia, sent an officer to escort them to the
 capital.”
 40th year. A.D. 240.
 The History of Wei says :—‘‘In the first year of Chéng-
@@ -15269,12 +14149,11 @@ poem is of very doubtful interpretation.
 ‘time a district of the Chinese province of Lolang in Corea. A map of China
 under the Tsin dynasty, however, makes Thé-pang a separate district further
 to the north. But the Governor of Thé-pang mentioned in the Wei history
-under the name of @l}) 33 and the Governor of Lolang called by the “ Tong-
-kam” ij JE are probably the same person. .
+under the name of @l}) 33 and the Governor of Lolang called by the “ Tongkam” ij JE are probably the same person. .
 
 Another authority makes Thé-pang identical with Namwén in Chdllato.
 
-> These officials, as. we learn from other sources, were sent by the Chinese
+) These officials, as. we learn from other sources, were sent by the Chinese
 authorities of Sakpang in Corea, not far from the present Treaty Port of
 Wonsan. See “Early Japanese History,” p. 58; “Ishdnihonden,” I. 11;
 “ Tongkam,” III. 17.
@@ -15287,9 +14166,6 @@ A.D. 246.
 
 
 IX. 26.
-
-
-246 NIHONGI.
 
 
 43rd year.
@@ -15313,8 +14189,7 @@ kindness to my Lord the King.’* I then said to Kutyé and his
 fellows:—‘I have always heard that there is an honourable
 country in the East, but I have had no communication with it,
 and do not know the way. There is nothing but far seas and
-towering billows, so that in a large ship, one can hardly com-
-municate. Even if there were a regular crossing-place, how
+towering billows, so that in a large ship, one can hardly communicate. Even if there were a regular crossing-place, how
 could you arrive there?’ Hereupon Kuty6 and the others
 said :—‘ Well, then, for the present we cannot communicate.
 Our best plan will be to go back again, and prepare a ship with
@@ -15333,13 +14208,12 @@ two, or three men. I cannot guess what Japanese names are meant. The
 The “ Shukai” edition rejects these extracts from Chinese History. They
 were doubtless added at a later date.
 
-3 The Chinese characters are c= (%, of which the traditional kana render-
-ing is Toku-shiu. The “Shukai” editor says it was part of Imna (or Mimana).
+3 The Chinese characters are c= (%, of which the traditional kana rendering is Toku-shiu. The “Shukai” editor says it was part of Imna (or Mimana).
 Its destruction by Silla is recorded below—sth year of Kimmei Tenno.
 
 4 The Japanese traditional rendering is Makin Kanki.
 
-> A.D. 244.
+) A.D. 244.
 
 6 The Japanese kana gloss has Kutei, Mitsuru, and Mako.
 
@@ -15410,9 +14284,6 @@ X28:
 A.D. 249.
 
 
-248 NIHONGI.
-
-
 Here thy servants were captured by men of Silla and confined
 ina gaol. After three months had passed, they wished to kill
 us. Then Kutyé and the rest looked up towards Heaven, and
@@ -15425,8 +14296,7 @@ else, as soon as we return, we will kill you.’ Therefore we,
 Kuty6 and the rest, were afraid, and made’ no objection. For
 this reason we have hardly been able to reach the Heavenly
 Court.” Then the Grand Empress and Homuda wake no
-Mikoto charged the Silla envoys with this deed, and accord-
-ingly prayed to the Gods of Heaven, saying :—‘‘ Whom is it
+Mikoto charged the Silla envoys with this deed, and accordingly prayed to the Gods of Heaven, saying :—‘‘ Whom is it
 meet that we send to Pékché to examine this matter whether
 it be true or false; whom is it meet that we send to Silla to
 investigate this charge?” Therewith the Gods of Heaven
@@ -15470,14 +14340,12 @@ Keuncha was a Pekché general.
 were forthwith ordered to take command of choice troops
 which were sent along with Sya-pék Ké-ro. . They all assembled
 at Thak-syun, invaded Silla, and conquered it. Seven provinces
-were accordingly subdued, viz. Pi-chi-pun, South Kara, Tok-
-kuk, Ara, Tara, Thak-syun, and Kara.2, Then they moved
+were accordingly subdued, viz. Pi-chi-pun, South Kara, Tokkuk, Ara, Tara, Thak-syun, and Kara.2, Then they moved
 their forces, and turning westward, arrived at Ko-hyé-chin,
 where they slaughtered the southern savages of Chim-mi-ta-nyé
 and granted their country to Pékché. Hereupon their King,
 Syoko,* together with Prince Kusyu, came to meet them with
-more troops. Then four villages, viz. Pi-ri, Phi-chung, Pho-
-mi-ki, and Pan-ko, spontaneously surrendered. Thereupon
+more troops. Then four villages, viz. Pi-ri, Phi-chung, Phomi-ki, and Pan-ko, spontaneously surrendered. Thereupon
 the Kings of Pekché, father and son, met Areda wake, Mong-na
 Keuncha, and the rest at the village of Wi-niu [ow called
 Tsurusugt) .and at an interview offered their congratulations
@@ -15520,19 +14388,14 @@ IX.
 ADS 250.
 
 
-250 NIHONGI.
-
-
-forward, therefore, for a thousand autumns and for ten thou-
-sand years, without pause and without limit, we shall bear the
+forward, therefore, for a thousand autumns and for ten thousand years, without pause and without limit, we shall bear the
 regular title of ‘The Western Frontier Province,’ and every
 spring and every autumn will attend your Court with tribute.”
 So he took with him Chikuma Nagahiko to his capital, where
 he treated him with the most cordial courtesy. He also made
 Kutyo and the others escort him home.
 
-50th year, Spring, 2nd month. Areda wake and his com-
-panions returned.
+50th year, Spring, 2nd month. Areda wake and his companions returned.
 
 Summer, 5th month. Chikuma Nagahiko, Kutyo and the
 rest arrived from Pékché. Thereupon the Grand Empress was
@@ -15555,10 +14418,8 @@ serve as a station in going and returning.”
 
 51st year, Spring, 3rd month. The King of Pékché again
 sent Kutyé to the Court with tribute. Hereupon the Grand
-Empress addressed the Prince Imperial and Takechi no Su-
-kune, saying :—‘‘ We owe it to Heaven and not to man that we
-have a friendly country like Corea. Therefore it brings con-
-stantly, without missing a year, tribute of trinkets and rarities
+Empress addressed the Prince Imperial and Takechi no Sukune, saying :—‘‘ We owe it to Heaven and not to man that we
+have a friendly country like Corea. Therefore it brings constantly, without missing a year, tribute of trinkets and rarities
 such as there have never been before. We, seeing this true
 affection, are always rejoiced at it,.and so long as we live will
 heartily bestow on it Our favour.”
@@ -15579,8 +14440,7 @@ JINGO. 251
 
 
 At this time the Kings of Pékché, father and son, both together
-knocked their foreheads on the ground and made representa-
-tion, saying:—‘‘ The immense bounty of the honourable
+knocked their foreheads on the ground and made representation, saying:—‘‘ The immense bounty of the honourable
 country is more weighty than Heaven and Earth. What day,
 what hour shall we presume to forget it? The sage sovereign
 dwells above, illustrious as the sun and moon; thy servants
@@ -15603,8 +14463,7 @@ we are now in communication has been opened to us by
 Heaven. Therefore does it bestow on us Celestial bounty,
 and dividing off the land west of the sea, has granted it to us.
 Consequently the foundation of our land is confirmed for ever.
-Thou shouldst cultivate well its friendship, and having col-
-lected our national products, wait on it with tribute without
+Thou shouldst cultivate well its friendship, and having collected our national products, wait on it with tribute without
 ceasing. Henceforth, grudging not even our lives, let us
 continue to send yearly tribute.”
 
@@ -15621,14 +14480,11 @@ projections round the rim. See above, p. 44.
 
 8 Iron mountain. All this about iron is merely symbolical of constancy.
 
-4 The King of Pékché. > Came to the throne A.D. 384.
+4 The King of Pékché. ) Came to the throne A.D. 384.
 
 § The “ Tongkam” places his death in A.D. 375.
 
-7 The traditional kana rendering of E is Kokishi, a word I do not recog-
-
-
-nize as Corean. But nearly all Corean words relating to official matters
+7 The traditional kana rendering of E is Kokishi, a word I do not recognize as Corean. But nearly all Corean words relating to official matters
 have become obsolete, being replaced by Chinese terms.
 
 
@@ -15652,9 +14508,6 @@ A.D. 262.
 EX. 33.
 
 
-252 NIHONGI.
-
-
 62nd year. Silla did not attend the Court. The same year
 Sotsuhiko was sent to chastise Silla.
 
@@ -15664,8 +14517,7 @@ honourable country sent Sachihiko to attack it. The men
 of Silla dressed up two beautiful women whom they sent
 to meet Sachihiko at the port and inveigle him.. Sachihiko
 accepted them, and turning aside, attacked the land of
-Kara. Kwi-pon? Kanki, King of Kara, and his sons, Pék-
-ku-chi, A-syu-chi, Ik-sya-ri, I-ra-ma-chyu, and I-mun-chi,
+Kara. Kwi-pon? Kanki, King of Kara, and his sons, Pékku-chi, A-syu-chi, Ik-sya-ri, I-ra-ma-chyu, and I-mun-chi,
 fled to Pekché, taking with them their subjects. Pékché
 received them cordially, and Kwi-chén-chi, younger sister
 of the King of Kara, went to Great Wa and addressed the
@@ -15687,8 +14539,7 @@ sent a messenger to inquire of her whether or no the
 Empress’s wrath had abated. She, pretending a dream,
 said to the Empress:—‘ To-night, in a dream, I saw
 Sachihiko.’ The Empress was greatly enraged, and
-said :—‘ How should Hiko dare to come?’ The Em-
-press’s * words were reported to Sachihiko, who seeing
+said :—‘ How should Hiko dare to come?’ The Empress’s * words were reported to Sachihiko, who seeing
 that he would not be pardoned, went into a cave. of
 a rock and died.”
 
@@ -15719,8 +14570,7 @@ usurpation was set up and made king.’
 This year was the second year of the period T‘ai She of
 the Emperor Wu Ti of the Tsin Dynasty. K‘i Kii-chu of
 Tsin says:—‘‘In the roth month of the 2nd year of the
-period T‘ai-she of Wu Ti, the Queen of Wa sent inter-
-preters with tribute.”
+period T‘ai-she of Wu Ti, the Queen of Wa sent interpreters with tribute.”
 
 69th year, Summer, 4th month, 17th day. The Grand
 Empress died in the Palace of Waka-zakura at the age of 100.
@@ -15785,8 +14635,7 @@ Before this time, when the Emperor was in the. womb, the
 Gods of Heaven and Earth granted to him the three Han.’*
 When he was born there was flesh growing on his arm-in shape
 like an elbow-pad.’? As to this resemblance, the Empress
-judged that it was the elbow-pad worn as a manly accoutre-
-ment. Therefore he was styled by this name, and called the
+judged that it was the elbow-pad worn as a manly accoutrement. Therefore he was styled by this name, and called the
 Emperor Homuda.
 In the earliest antiquity, the tomo was commonly called
 Homuda. .
@@ -15801,15 +14650,13 @@ name of a place.
 
 3 17th of the Cycle. *"Coréa,
 
-* The Zomo or leather shield worn on the fore-arm by archers as a pro-
-tection against the recoil of the bow-string.
+* The Zomo or leather shield worn on the fore-arm by archers as a protection against the recoil of the bow-string.
 
 
 Oyrn. 255
 
 
-Land of Koshi, and did worship to the Great God of Tsu-
-tsuhiin Tsunoga. At this time the Great God and the
+Land of Koshi, and did worship to the Great God of Tsutsuhiin Tsunoga. At this time the Great God and the
 Heir to the Throne exchanged names. Accordingly the
 Great God was called the God Isasa-wake and the Heir to
 the Throne Homuda wake no Mikoto.’
@@ -15822,25 +14669,20 @@ assumed the Dignity. This year was the year Kanoye Tora
 2nd year, Spring, 3rd month, 3rd day. Nakatsuhime was a.D. 271.
 appointed Empress. She gave birth to the Imperial Princess
 Arata, to the Emperor Oho-sazaki, and to the Imperial Prince
-Netori. Before this the Emperor had taken to him as concu-
-bine the Empress’s younger sister, Takaki Iribime, who bore to
-him the Imperial Prince Nukada no Oho-naka-hiko, the Im-
-perial Prince Oho-yama-mori, the Imperial Prince Iza no
+Netori. Before this the Emperor had taken to him as concubine the Empress’s younger sister, Takaki Iribime, who bore to
+him the Imperial Prince Nukada no Oho-naka-hiko, the Imperial Prince Oho-yama-mori, the Imperial Prince Iza no
 mawaka, the Imperial Princess Oho-hara, and the Imperial
 Princess Komida. Another concubine, a younger sister of the
 Empress, named Otohime, bore to him the Imperial Princess
 Ahe, the Imperial Princess Ahaji no Mihara, and the Imperial
 Princess Kino Uno. The next concubine, daughter of Hifure
-no Omi, the ancestor of the Wani no Omi, by name Miya-
-nushi-yaka-hime, bore the Imperial Prince Uji no Waka-
-iratsuko, the Imperial Princess Yata, and the Imperial Princess
+no Omi, the ancestor of the Wani no Omi, by name Miyanushi-yaka-hime, bore the Imperial Prince Uji no Wakairatsuko, the Imperial Princess Yata, and the Imperial Princess
 Medori. The next concubine, named Oname-hime, the -
 younger sister of Yaka-bime, bore the Imperial Prince Uji no
 waka-iratsu-me. The next concubine, named Oto-hime,
 daughter of Kaha-mata Nakatsu hiko, bore the Imperial
 Prince Wakanoke Futa-mata. The next concubine, named Xx: 3.
-Mago-hime, younger sister of Osabi, Muraji of the Sakurawi-
-da Be, bore the Imperial Prince Hayabusa wake. The next
+Mago-hime, younger sister of Osabi, Muraji of the Sakurawida Be, bore the Imperial Prince Hayabusa wake. The next
 concubine, named Naga-hime, of Idzumi in Hiuga, bore the
 Imperial Princes Oho-haye and Wo-haye.
 In all the sons and daughters of this Emperor were together
@@ -15858,9 +14700,6 @@ ASD 272
 A.D. 274.
 
 
-256 NIHONGI.
-
-
 Oho-yama-mori was the first ancestor of the two families of the
 Kimi of Hiji-kata and the Kimi of Haibara. The Imperial
 Prince Iza no mawaka was the first ancestor of the Wake of
@@ -15871,8 +14710,7 @@ attended the Court with tribute. They were employed to
 make the Mtma-zaka road.
 
 11th month. The fishermen of several places clamoured
-noisily, and would not obey the Imperial command. So Oho-
-hama no Sukune, ancestor of the Muraji of Adzumi, was sent
+noisily, and would not obey the Imperial command. So Ohohama no Sukune, ancestor of the Muraji of Adzumi, was sent
 to subdue this clamour. He was accordingly made controller
 of the fishermen. This was the origin of the proverbial saying
 of the people of that time, viz. Sawa-ama or “‘clamorous
@@ -15885,20 +14723,17 @@ Celestial Court. Therefore Kino Tsuno no Sukune, Hata no
 . Yashiro no Sukune, Ishikaha no Sukune and Tsuku no Sukune
 
 
-were sent to call him to an account for his rudeness. Here-
-upon the people of Pékché slew Sins& by way of apology. Ki
+were sent to call him to an account for his rudeness. Hereupon the people of Pékché slew Sins& by way of apology. Ki
 no Tsuno no Sukune and the others accordingly established
 Ahwa as king, and returned (to Japan).'
 
-5th year, Autumn, 8th month, 13th day. The various pro-
-vinces were directed to establish Be of fishermen and Be of
+5th year, Autumn, 8th month, 13th day. The various provinces were directed to establish Be of fishermen and Be of
 mountain wardens.”
 
 Winter, roth month. The province of Idzu was charged
 with the duty of constructing a ship 10 rods* in length. As
 soon as it was completed, it was launched on the sea for a
-trial. It floated lightly, and was as swift as a racer. There-
-fore that ship was called Karano.
+trial. It floated lightly, and was as swift as a racer. Therefore that ship was called Karano.
 
 (lt ts a mistake to make the ship called Karano because tt was
 
@@ -15950,8 +14785,7 @@ Court.
 
 The Pékché record says :—‘‘ King Ahwa came to the
 throne and was disrespectful * to the honourable country.
-Therefore we were despoiled of Chhim-mi-ta-ryd, Hyon-
-nam, Chi-chhim, Kong-na, and Eastern Han. Herewith
+Therefore we were despoiled of Chhim-mi-ta-ryd, Hyonnam, Chi-chhim, Kong-na, and Eastern Han. Herewith
 Prince Chik-chi* was sent to the Celestial Court in order
 to restore the friendship of former kings.
 
@@ -15974,8 +14808,7 @@ Shiraki. ,
 
 * Or “men of Kara.” Compare Ch. K,, p. 252.
 
-° See above, p. 256, where it is said that it was King Sinsa who was dis-
-respectful.
+° See above, p. 256, where it is said that it was King Sinsa who was disrespectful.
 
 ° The “ Tongkam” calls him Tyénchi, and places this event in 397.
 
@@ -15998,9 +14831,6 @@ A.D. 278.
 C276.
 
 
-258 NIHONGI.
-
-
 plotting to that end, saying (to himself), ‘Alone I will cut off
 Tsukushi, and will invite the three Han to come and do
 homage to me, so that finally I may possess the Empire.’ ”
@@ -16020,18 +14850,15 @@ serves his Prince with loyalty, and has not had a black heart.
 All the Empire knows this. I pray thee leave this place
 secretly, and, proceeding to the Court, personally unfold thine
 innocence. After this it will not be too late to die. Moreover
-the people of this time are always saying that thy slave resem-
-bles the Great Minister in appearance. Therefore I will now die
+the people of this time are always saying that thy slave resembles the Great Minister in appearance. Therefore I will now die
 in the place of the Great Minister, and so make clear the Great
 Minister’s redness of heart.”? So he threw himself on his
 sword, and slew himself. Then Takechi no Sukune, alone,
 grieving greatly for him, secretly left Tsukushi, and embarking
-on the sea, went round by way of the Southern Ocean. Anchor-
-ing in the harbour of Ki, he hardly succeeded in making his
+on the sea, went round by way of the Southern Ocean. Anchoring in the harbour of Ki, he hardly succeeded in making his
 way to the Court, where he explained his innocence. The
 Emperor forthwith questioned Takechi no Sukune along with
-Umashi no Sukune, upon which these two men were each ob-
-stinate, and wrangled with one another, so that it was
+Umashi no Sukune, upon which these two men were each obstinate, and wrangled with one another, so that it was
 impossible to ascertain the right and the wrong. The Emperor
 then gave orders to ask of the Gods of Heaven and Earth the
 ordeal by boiling water. Hereupon Takechi no Sukune and
@@ -16054,8 +14881,7 @@ Mumaya-zaka ponds were made.
 
 This year there was a man who made representation to the
 Emperor, saying :—‘‘ There is in the land of Hiuga a maiden
-whose name is Kami-naga-hime.' She is the daughter of Ushi-
-morowl, the Kimiof Muragata. She is distinguished for beauty
+whose name is Kami-naga-hime.' She is the daughter of Ushimorowl, the Kimiof Muragata. She is distinguished for beauty
 over all the Land.’’ The Emperor was pleased, and wished in
 his heart to obtain her.
 
@@ -16064,8 +14890,7 @@ messenger to summon Kami-naga-hime.
 
 Autumn, gth month. Kami-naga-hime arrived from Hiuga,
 and was straightway settled at the village of Kuhadzu. Now
-the Imperial Prince, Oho-sazaki no Mikoto, when he saw Kami-
-naga-hime, was struck with the beauty of her form, and had a
+the Imperial Prince, Oho-sazaki no Mikoto, when he saw Kaminaga-hime, was struck with the beauty of her form, and had a
 constant love for her. Hereupon the Emperor became aware
 of Oho-sazaki no Mikoto’s passion for Kami-naga-hime, and
 wished to:unite her to him. Therewith the Emperor, on the
@@ -16117,11 +14942,7 @@ A.D. 280.
 A.D. 282.
 
 
-260 NIHONGI.
-
-
-poetry, forthwith understood that he was receiving Kami-naga-
-hime as a gift; and, greatly delighted, made a song in reply,
+poetry, forthwith understood that he was receiving Kami-nagahime as a gift; and, greatly delighted, made a song in reply,
 saying :—
 
 In the pond of Yosami
@@ -16195,8 +15016,7 @@ OJIN. 261
 towards him over the sea. Presently they entered the
 harbour of Kako in Harima. The Emperor addressed his
 courtiers, saying :—‘ What stags are these which come in
-numbers swimming over the great sea?’ Then the cour-
-tiers all looked at them and wondered. So a messenger
+numbers swimming over the great sea?’ Then the courtiers all looked at them and wondered. So a messenger
 was sent to make examination. The messenger, when he
 came there, saw that they were all men, only they had for
 clothing deer-skins with the horns attached. He inquired
@@ -16246,9 +15066,6 @@ A.D. 284.
 
 
 A.D. 285.
-
-
-262 NIHONGI.
 
 
 Therefore the place where the horses were kept was named
@@ -16378,9 +15195,6 @@ established him as King.” “ Tongkam,” III. 14.
 A.D. 288.
 
 
-264 NIHONGI.
-
-
 Kidzu no Sukune and his colleague moved forward their choice
 troops and arrived at the Silla frontier. The King of Silla was
 afraid, and confessed his guilt, so they brought away with them
@@ -16454,8 +15268,7 @@ immigrated to Japan, bringing with them a company of their
 people of seventeen districts.
 
 22nd year, Spring, 3rd month, 5th day. The Emperor made
-a progress to Naniha, where he dwelt in the a oe of Oho-
-sumi.
+a progress to Naniha, where he dwelt in the a oe of Ohosumi.
 
 roth day. He ascended a lofty tower and had a distant
 prospect. Now he was attended by his concubine Yehime,
@@ -16514,11 +15327,7 @@ BGS
 EoehOs
 
 
-266 NIHONGI.
-
-
-and visit them.” So he granted her permission, and summon-
-ing eighty fishermen of Mihara in Ahaji and making sailors of
+and visit them.” So he granted her permission, and summoning eighty fishermen of Mihara in Ahaji and making sailors of
 them, sent her to Kibi. :
 
 Summer, 4th month. Yehime set sail from Ohotsu’ and
@@ -16545,10 +15354,8 @@ My spouse of Kibi.
 Autumn, gth month, 6th day. The Emperor hunted in the
 Island of Ahaji. This island lies beyond the sea to the west of
 Naniha. There is a confusion of peaks and cliffs; hills and
-valleys succeed to one another. Fragrant herbs grow luxuri-
-antly ; it is washed by the long billows. Moreover, great deer,
-wild ducks, and wild geese are abundant in that island. There-
-fore the Emperor made frequent excursions thither.* Now the
+valleys succeed to one another. Fragrant herbs grow luxuriantly ; it is washed by the long billows. Moreover, great deer,
+wild ducks, and wild geese are abundant in that island. Therefore the Emperor made frequent excursions thither.* Now the
 Emperor, going round by way of Ahaji, made a progress to
 Kibi and went on an excursion to the Island of Adzuki.
 
@@ -16604,7 +15411,7 @@ road—the part nearest the capital.
 
 * Middle prince. 5 Younger prince. 4 Weavers.
 
-> If we take a broad view of Japanese History we shall recognize in it a
+) If we take a broad view of Japanese History we shall recognize in it a
 constant oscillation between two forms of government. At one time there
 is a strong central authority with local governors removable at pleasure or at
 short intervals. By degrees the latter offices become hereditary and more
@@ -16640,9 +15447,6 @@ A.D. 297.
 A.D. 300.
 
 
-268 NIHONGI.
-
-
 when he invaded that country. The great services of his
 father gave him absolute authority in Imna. He came
 into our country and went back and forward to the
@@ -16662,8 +15466,7 @@ was sent as tribute by the Land of Idzu. It is rotten, and
 unfit for use. It has, however, been in Government use for a
 long time, and its services should not be forgotten. Shall we
 not keep the name of that ship from being lost, and hand it
-down to after ages?’’ The ministers, on receiving this com-
-mand, made the functionaries take the timber of that ship and
+down to after ages?’’ The ministers, on receiving this command, made the functionaries take the timber of that ship and
 use it as firewood for roasting salt. Herewith they got five.
 hundred baskets of salt, which were freely given away to the
 various provinces, and the latter were accordingly caused to
@@ -16674,7 +15477,7 @@ all assembled in the harbour of Muko. At this time the Silla
 
 1 Japan. 7
 
-> If this story were true, it would have to be dated 120 years later. But
+) If this story were true, it would have to be dated 120 years later. But
 even then Koryo was still Kokuryd. The name Koryé did not come into
 official use till A.D. 918, though as a literary designation examples of it may
 be found as early as A.D. 500. Koryé, however, is out of place in an
@@ -16685,8 +15488,7 @@ The term Nippon for Japan is also an anachronism. It was not officially
 notified to Corea until A.D. 670, though there are examples of its use earlier
 in the same century.
 
-Waka-iratsuko did not become Heir Apparent until A.D. 309 (of the “ Ni-
-hongi” chronology), and as he is there alluded to as being of tender years,
+Waka-iratsuko did not become Heir Apparent until A.D. 309 (of the “ Nihongi” chronology), and as he is there alluded to as being of tender years,
 he must have been at this time a somewhat precocious prince.
 
 ® See above; pu257-
@@ -16701,8 +15503,7 @@ presently spread to the fleet of ships, so that many of them
 were burnt. In consequence of this, the Silla men were called
 to an account. The King of Silla, when he heard of it, was
 afraid, and, greatly alarmed, sent tribute of skilful workmen.
-They were the first ancestors of the Wina” Be. In the begin-
-ning, when the ship Karano was burnt as firewood for making
+They were the first ancestors of the Wina” Be. In the beginning, when the ship Karano was burnt as firewood for making
 salt, some was left over from the burning. It was thought
 strange that it did not burn, and it was accordingly presented
 to the Emperor. The Emperor wondered at it, and had it
@@ -16747,7 +15548,7 @@ Yura is in Ahaji. Cf. Ch. K., 285.
 
 + They were Coreans. See above, p. 264.
 
-> Wu AR, called by the Japanese Go or Kure, was a Chinese dynasty,
+) Wu AR, called by the Japanese Go or Kure, was a Chinese dynasty,
 the last sovereign of which was deposed A.D. 280, long before the despatch of
 these envoys. We learn, however, from a note to the “ Shukai” edition that
 this appellation was applied (perhaps popularly) to all the six dynasties
@@ -16766,9 +15567,6 @@ DN. 202
 A.D. 309.
 
 
-270 NIHONGI.
-
-
 Kory6 to give them persons who knew the road. The King
 of Koryé sent with them as guides two men called Kureha and
 Kureshi.’ Inthis way they were enabled to reach Wu. The
@@ -16783,8 +15581,7 @@ over, bringing in her train seven women.
 4oth year, Spring, 1st month, 8th day. The Emperor
 summoned to him Oho-yama-mori no Mikoto * and Oho-sazaki
 no Mikoto, and inquired of them, saying :—‘‘ Do ye love your
-children?” They answered and said :—‘‘ We love them ex-
-ceedingly.” Again he inquired :—‘‘ Which are most dear—
+children?” They answered and said :—‘‘ We love them exceedingly.” Again he inquired :—‘‘ Which are most dear—
 the elder ones or the younger?” Oho-yama-mori no Mikoto
 answered and said :—‘‘ There is none like the elder.’”” On this
 the Emperor showed displeasure. Then Oho-sazaki no Mikoto,
@@ -16817,7 +15614,7 @@ rejects the name Chikchi, which in the older editions follows Pékché, It is
 not in the old books, and besides his death has been already recorded
 above.
 
-®> He was the son of an inferior consort.
+®) He was the son of an inferior consort.
 
 
 Ojmn. 294
@@ -16837,8 +15634,7 @@ the Prince Imperial, and caused to administer affairs of State.
 41st year, Spring, 2nd month, 15th day. The Emperor died
 in the Palace of Toyo-Akira at the age of 110.”
 
-One account says:—‘‘ He died in the Palace of Oho-
-kuma.”’
+One account says:—‘‘ He died in the Palace of Ohokuma.”’
 
 In this month Achi no Omi and his companions arrived in
 Tsukushi from Wu. Now the Great God of Muna-gata * asked
@@ -16863,7 +15659,7 @@ in his honour standing at this day.
 
 3 In Chikuzen.
 
-* Mitsukahi means “ august messenger.” > Settsu.
+* Mitsukahi means “ august messenger.” ) Settsu.
 
 6 Kaya is written with the characters for ‘“‘ Musquito-net.” There isa place
 in Bittchiu of this name, but written with different characters.
@@ -16895,8 +15691,7 @@ If there is above a cheerful heart with which to employ the
 people, the people are happy and the Empire tranquil. But
 here am I, a younger brother, and moreover wanting in talent.
 How shall I presume to succeed to the Dignity and to enter
-upon the Celestial task? But thou, O great Prince, art dis-
-tinguished in appearance and of a far-reaching benevolence.
+upon the Celestial task? But thou, O great Prince, art distinguished in appearance and of a far-reaching benevolence.
 Thou art also of ripe years and art fit to become Lord of the
 Empire. The late Emperor established me as his Heir. But
 was this for my abilities? No, it was simply because he loved
@@ -16924,17 +15719,13 @@ Emperor that the Imperial Dignity should not be vacant for a
 single day. Therefore he made choice beforehand of an
 illustrious virtue and established the Prince as his duplicate.
 The succession he bestowed on thee and the people he granted
-to thee. Let us honour his preference, and publish it through-
-out the land. Wanting in wisdom though I am, shall I dis-
-regard the command of the late Emperor, and without con-
-sideration comply with the request of the Prince, my younger
+to thee. Let us honour his preference, and publish it throughout the land. Wanting in wisdom though I am, shall I disregard the command of the late Emperor, and without consideration comply with the request of the Prince, my younger
 brother ? ”
 
 He firmly declined and would not receive it, and each of
 them wished to transfer (the sovereignty) to the other.
 
-At this time the Imperial Prince Nukada no .Oho-naka-tsu-
-hiko, intending to take charge of the official rice-lands and
+At this time the Imperial Prince Nukada no .Oho-naka-tsuhiko, intending to take charge of the official rice-lands and
 granary of Yamato, addressed Oii no Sukune, ancestor of the
 Omi of Idzumo, who was the officer charged with these official
 rice-lands, saying :—“‘ These official rice-lands were originally
@@ -16968,16 +15759,10 @@ Xx.
 XL.
 
 
-3
-
-
 ale
 
 
 4.
-
-
-274 NIHONGI.
 
 
 Mikoto spake to Oii, saying :—‘‘ Do thou go thyself to the Han
@@ -16988,8 +15773,7 @@ straightway came accompanied by Akoko. Accordingly he was
 asked about the Yamato official rice-lands. He replied, saying :
 —‘‘]T have heard by tradition that, in the time of the Emperor
 who reigned in the palace of Tamaki at Makimuku,' the official
-rice-fields of Yamato were settled in the charge of Oho-tarashi-
-hiko no Mikoto, the Prince Imperial. At that time there was
+rice-fields of Yamato were settled in the charge of Oho-tarashihiko no Mikoto, the Prince Imperial. At that time there was
 an Imperial Decree to the effect that the official rice-lands of.
 Yamato were always to be the official rice-lands of the reigning
 Sovereign, and could not be held by anyone who was not the
@@ -16998,8 +15782,7 @@ wrong to say that this is Mountain-warden-land.”’
 
 Then Oho-sazaki no Mikoto sent Akoko to the Imperial
 Prince Nukada no Oho-naka-tsu-hiko, and made him acquaint
-him with these circumstances. The Imperial Prince Oho-naka-
-tsu-hiko knew not at all what to do, and Oho-sazaki no Mikoto,
+him with these circumstances. The Imperial Prince Oho-nakatsu-hiko knew not at all what to do, and Oho-sazaki no Mikoto,
 recognizing that he was in the wrong, forgave him and did not
 punish him. ©
 
@@ -17011,8 +15794,7 @@ will ultimately ascend to the Imperial Dignity.” Hereupon
 Oho-sazaki no Mikoto, having heard beforehand of his plot,
 secretly advised the Prince Imperial to prepare soldiers for his
 protection. Then the Prince Imperial got ready troops and
-awaited him.. The Imperial Prince Oho-yama-mori, not know-
-ing that soldiers had been prepared, took with him only a few
+awaited him.. The Imperial Prince Oho-yama-mori, not knowing that soldiers had been prepared, took with him only a few
 hundred fighting men, and starting in the middle of the night,
 proceeded thither. At dawn he arrived at Uji, and was about
 to cross the river when the Prince Imperial, having put on
@@ -17031,8 +15813,7 @@ NINTOKU. 275
 
 
 hempen garments, took the helm, and secretly mingled with
-the ferrymen. He then took the Imperial Prince Oho-yama-
-mori on board and ferried him over as far as the middle of the
+the ferrymen. He then took the Imperial Prince Oho-yamamori on board and ferried him over as far as the middle of the
 river, where he induced the ferrymen to step on the (side of
 the) boat and make it heel over. Hereupon the Imperial
 Prince Oho-yama-mori fell into the river and sank. But he
@@ -17084,17 +15865,13 @@ For Adzusa bows ! ?
 ‘ The asterisks represent an untranslatable pillow-word. See Ch. K,
 Pp. 255.
 * Mayumi is the Euonymus. Adzusa is the Catalpa, a tree suitable for
-making bows. It has no particular meaning here. There is much differ-
-elves)
+making bows. It has no particular meaning here. There is much differelves)
 
 
 XI.
 
 
 6.
-
-
-276 NIHONGI.
 
 
 So he was buried at Mount Nara. Afterwards the Prince
@@ -17117,8 +15894,7 @@ forward. So he sent it away again and procured other fresh
 fish, which he presented, and which were declined as on the
 previous day. The fresh fish again became putrid. The
 fisherman was grieved at his frequent returning, so he flung
-away the fresh fish and wept. Therefore the proverbial say-
-ing, ‘‘ There is a fisherman who weeps on account of his own
+away the fresh fish and wept. Therefore the proverbial saying, ‘‘ There is a fisherman who weeps on account of his own
 things,” which had its origin in this.
 
 The Prince Imperial said:—‘‘I know that the Prince, my
@@ -17127,13 +15903,11 @@ then should I prolong my life and give trouble to the Empire ?”’
 So he died by his own hand. Then Oho-sazaki no Mikoto,
 hearing of the Prince Imperial’s death, was greatly shocked,
 and hastening from Naniha arrived at the Palace of Uji. Now
-three days had passed since the Prince Imperial’s death. Oho-
-sazaki no Mikoto beat his breast, wept aloud, and knew not
+three days had passed since the Prince Imperial’s death. Ohosazaki no Mikoto beat his breast, wept aloud, and knew not
 what to do. He loosed out his hair, and bestriding the corpse,
 called upon him thrice, saying :—‘‘Oh, my younger brother,
 the Imperial Prince!” In course of time he came to life,
-raised himself up, and remained in a sitting posture. Here-
-upon Oho-sazaki no Mikoto addressed the Heir Apparent,
+raised himself up, and remained in a sitting posture. Hereupon Oho-sazaki no Mikoto addressed the Heir Apparent,
 saying :—‘“‘Oh, what grief! Oh, what regret! Why didst
 thou pass away of thine own accord? If the dead had any
 
@@ -17142,8 +15916,7 @@ ence of opinion among native commentators as to the meaning of this poem.
 It would seem as if the Prince, having thrown his brother overboard, could
 hardly claim much credit for clemency. But probably this is a genuine
 ancient poem, which the author has inserted here without much regard to
-fitness. The asterisks represent the untranslatable pillow-word Chihay-
-bito, an epithet of Uji.
+fitness. The asterisks represent the untranslatable pillow-word Chihaybito, an epithet of Uji.
 
 
 NINTOKU. 257
@@ -17200,7 +15973,7 @@ a new palace in a new locality.
 par ee se
 
 
->.
+).
 
 
 A.D. 314.
@@ -17218,9 +15991,6 @@ XI.
 9.
 
 
-278 NIHONGI.
-
-
 In the case of both there are omens. This is an indication
 from Heaven. Let us take the names of these birds, and each
 exchanging them, call our children after them as a covenant °
@@ -17236,9 +16006,7 @@ This year was the year Midzunoto Tori (roth) of the Cycle.
 was appointed Empress. She was the mother of the Emperor
 Ohi-ne’ Iza-ho-wake, of the Imperial Prince Suminohe no
 Nakatsu, of the Emperor Midzu-ha-wake, and of the Emperor
-Wo-asa-tsu-ma-waku-go no Sukune. Another consort, Kami-
-naga-hime of Hiuga, bore to him the Imperial Prince Oho-
-kusaka and the Imperial Princess Hatahi.
+Wo-asa-tsu-ma-waku-go no Sukune. Another consort, Kaminaga-hime of Hiuga, bore to him the Imperial Prince Ohokusaka and the Imperial Princess Hatahi.
 
 4th year, Spring, 2nd.month, 6th day. The Emperor
 addressed his ministers, saying :—‘‘ We ascended a lofty tower
@@ -17329,13 +16097,10 @@ Chinese works.
 esrO;
 
 
-Av Ds <3 89%
+Av Ds (3 89%
 
 
 XT stet's
-
-
-280 NIHONGI.
 
 
 Autumn, 8th month, gth day. For the Imperial Prince
@@ -17371,8 +16136,7 @@ building of a Palace was imposed for the first time. Hereupon
 the people, without superintendence, supporting the aged and
 leading by the hand the young, transported timber, carried
 baskets * on their backs, and worked their hardest without
-distinction of night or day, vying with one another in the con-
-struction. In this manner, ere long the Palace buildings were
+distinction of night or day, vying with one another in the construction. In this manner, ere long the Palace buildings were
 every one completed. Therefore up to the present day he is
 styled the Sage Emperor.
 
@@ -17385,10 +16149,9 @@ side, so that the lower streams flow sluggishly. Should there
 
 ' This Be is also called the Nibu Be. There are several places in Japan,
 of thisname. It was originally the group of peasants whose duty it was to
-provide wet nurses, etc., for infant princes. See Ch. K., p. 268, and Moto-
-wori in “ Kojikiden,” xxxv. 12.
+provide wet nurses, etc., for infant princes. See Ch. K., p. 268, and Motowori in “ Kojikiden,” xxxv. 12.
 
-> The “ Kojiki” says that these two Be were instituted as “ middai” of
+) The “ Kojiki” says that these two Be were instituted as “ middai” of
 the Prince and the Empress, i.e. in order to perpetuate their memory, the
 Be in such cases taking the name of the person or of his or her residence.
 The last explanation might apply to the Empress, but it is not clear how
@@ -17402,8 +16165,7 @@ NINTOKU. 281
 
 happen to be continuous rains, the tide from the sea flows up
 against them so that one may ride in boats through the
-villages: and the highways, too, are covered with mud. There-
-fore do ye our ministers examine this together, and having
+villages: and the highways, too, are covered with mud. Therefore do ye our ministers examine this together, and having
 ascertained the source of the divergence, make a channel for
 them to the sea, and, staying the contrary flow (of the tide),
 preserve the fields and houses.”
@@ -17432,8 +16194,7 @@ who hast sent the curse (to remove which) I have now come
 hither as a sacrifice. If thou dost persist in thy desire to have
 me, sink these calabashes and let them not rise to the surface.
 Then shall I know that thou art a true God, and will enter the
-water of my own accord. But if thou canst not sink the cala-
-bashes, I shall, of course, know that thou art a false God, for
+water of my own accord. But if thou canst not sink the calabashes, I shall, of course, know that thou art a false God, for
 whom, why should I spend my life in vain?” Hereupon a
 whirlwind arose suddenly which drew with it the calabashes
 and tried to submerge them in the water. But the calabashes,
@@ -17458,9 +16219,6 @@ A.D. 324.
 A.D. 325.
 
 
-282 NIHONGI.
-
-
 dancing on the waves, would not sink, and floated far away
 over the wide waters. In this way that embankment was
 completed, although Koromo no ko did not die. Accordingly
@@ -17482,15 +16240,13 @@ Tatebito no Sukune, the ancestor of the Omi of Ikuba,* who
 shot at the iron targets and pierced them. Then the guests
 from Koryé, when they saw this, were struck with awe by his
 excellent skill in archery, and, standing up together, did
-obeisance to the Emperor. The next day the Emperor com-
-mended Tatebito no Sukune and gave him a title, calling him
+obeisance to the Emperor. The next day the Emperor commended Tatebito no Sukune and gave him a title, calling him
 Ikuba no Toda no Sukune. On the same day a title was
 given to Sukune no Omi, the ancestor of the Miyakko of
 Ohase, and he was called Sakashi-nokori? no Omi.
 
 Winter, roth month. The Great Canal was dug in the
-district of Kurikuma in Yamashiro for the irrigation of the rice-
-fields. By this means the peasants of that district had always
+district of Kurikuma in Yamashiro for the irrigation of the ricefields. By this means the peasants of that district had always
 years of abundance.
 
 13th year, Autumn, gth month. Now for the first time
@@ -17556,8 +16312,7 @@ I will nourish her.‘
 
 That same day Kugahime was given to Hayamachi. On the
 evening of the next day Hayamachi went to Kugahime’s house.
-Now Kugahime would not comply with his wishes, but he per-
-sisted in approaching the curtained space. Then Kugahime
+Now Kugahime would not comply with his wishes, but he persisted in approaching the curtained space. Then Kugahime
 
 
 ‘In Kahachi.
@@ -17584,9 +16339,6 @@ DGS “16:
 
 
 A.D. 334.
-
-
-284 NIHONGI.
 
 
 said :—‘‘ Thy handmaiden will end her years husbandless.
@@ -17687,8 +16439,7 @@ was silent, and answered not again.
 
 30th year, Autumn, gth month, r1th day. The Empress a.p. 342.
 made an excursion to the land of Kii. She went as far as
-Cape * Kumano, and was coming back with leaves of the mit-
-suna,’ which she had gathered there. On this day the Emperor,
+Cape * Kumano, and was coming back with leaves of the mitsuna,’ which she had gathered there. On this day the Emperor,
 espying the Empress’s absence, wedded the Imperial Princess
 Yata, and placed her in the Palace. Now the Empress, when
 she arrived at the Naniha ferry, heard that the Emperor had
@@ -17704,12 +16455,11 @@ Empress’s ship, made a song, saying : —
 
 1 Wings? 2 The meaning is here somewhat doubtful.
 
-* Asatsuma is the name of a mountain in Yamato. It means “ morning-
-wife.”
+* Asatsuma is the name of a mountain in Yamato. It means “ morningwife.”
 
 4 This is properly not a cape, but only a spur ofa hill.
 
-> In the original mitsuna-kashiha. Kashiha is the Quercus dentata, a
+) In the original mitsuna-kashiha. Kashiha is the Quercus dentata, a
 kind of evergreen oak, the leaves of which were used as drinking-cups. But
 this term was also applied to any leaves used for this purpose. Here the
 leaves of another tree—the mitsuna—seem to be intended. Chamberlain
@@ -17718,10 +16468,7 @@ makes it the aralia. See Ch. K., pp. 248-273.
 § No doubt Naniha or Osaka.
 
 
->» ee
-
-
-286 NIHONGI.
+)» ee
 
 
 Ye men of Naniha,
@@ -17820,8 +16567,7 @@ Omi of Wani.”
 
 Now Kuchi no Omi went to the Palace of Tsutsuki, and
 wished to have audience of the Empress, but she remained
-silent and answered not. Then Kuchi no Omi prostrated him-
-self before the Empress’s hall, and remained there day and
+silent and answered not. Then Kuchi no Omi prostrated himself before the Empress’s hall, and remained there day and
 night drenched by the rain and snow, and did not move.
 Hereupon Kuchi no Omi’s younger sister, Kuniyori-hime, who
 was in the service of the Empress, and happened just then to
@@ -17843,8 +16589,7 @@ Then the Empress’ addressed Kuniyori-hime, saying :—
 ‘‘ Why weepest thou?” She answered and said :—‘‘ He that
 lies prostrate in the courtyard and begs an audience is thy
 handmaiden’s elder brother. He is wet with the rain, and XI. 20.
-does not flinch, but still lies prostrate in the hope of an audi-
-ence of thee. This is why I weep and am sorrowful.” Then
+does not flinch, but still lies prostrate in the hope of an audience of thee. This is why I weep and am sorrowful.” Then
 the Empress addressed her, saying :—‘‘ Tell thy elder brother
 to. return with all speed. I will never go back.” Kuchi
 accordingly returned, and made his report to the Emperor.
@@ -17855,12 +16600,8 @@ accordingly returned, and made his report to the Emperor.
 " Much of this poem is of doubtful interpretation. Compare Ch. K.. p. 275.
 
 
-288 NIHONGI.
-
-
 river to Yamashiro. At this time there was a mulberry branch
-floating down the stream. The Emperor looked at the mul-
-berry branch, and made a song, saying :—
+floating down the stream. The Emperor looked at the mulberry branch, and made a song, saying :—
 
 
 The mulberry tree?
@@ -17910,8 +16651,7 @@ introduction to saha-saha, i.e. purely, and the author immediately goes on
 to exchange this meaning for another meaning of the same word, viz.,
 clamorously, by a play of words common in Japanese poetry. The only
 bond of connection between the first and second halves of the poem is this
-double sense of saha-saha. ‘“ The flourishing trees” represent the Em-
-peror’s brilliant suite. The interpretation of this poem is more or less
+double sense of saha-saha. ‘“ The flourishing trees” represent the Emperor’s brilliant suite. The interpretation of this poem is more or less
 conjectural. Compare Ch. K., p. 279.
 
 
@@ -17940,8 +16680,7 @@ _ Then the Empress sent a message to the Emperor, saying:
 —‘ My lord has taken the Imperial Princess Yata and made
 her his concubine. Now I do not wish to be associated with the
 Princess as Consort.” So she refused to enter his presence,
-and the Imperial carriage returned to the Palace. The Em-
-peror hereupon resented the Empress’s great indignation, but
+and the Imperial carriage returned to the Palace. The Emperor hereupon resented the Empress’s great indignation, but
 yet continued to love her. .
 
 31st year, Spring, ist month, 15th day. Ohine-izaho-wake
@@ -17966,7 +16705,7 @@ Empress, saying :—‘‘ This evening the deer does not bell.
 Wherefore is this?” ‘The next day, a Saheki Be of the
 district of Wina presented a basket. The Emperor caused a
 steward to make inquiry of him, saying:—‘‘ What is this
-basket?” The answer was, “A buck.” He inquired—“ A
+basket?” The answer was, “A buck.” He inquired—“(A
 deer of what place?” and was told, “‘Of Toga moor.” The
 Emperor. considered that this basket’ must be the deer which
 
@@ -17988,9 +16727,6 @@ A.D. 350.
 
 
 XI. 22.
-
-
-290 -NIHONGI.
 
 
 - had belled, and he accordingly addressed the Empress, saying’:
@@ -18040,9 +16776,7 @@ of a dream.”
 4oth year, Spring, 3rd month. The Emperor wished to take
 to himself the Imperial Princess Medori! as concubine, and
 made the Imperial Prince Hayabusa wake’ his middle man.
-Now the Imperial Prince Hayabusa secretly wedded her him-
-self, and for a long time made no report of his mission. Here-
-upon the Emperor, not knowing: that she had a husband, went
+Now the Imperial Prince Hayabusa secretly wedded her himself, and for a long time made no report of his mission. Hereupon the Emperor, not knowing: that she had a husband, went
 in person to the Imperial Princess Medori’s chamber. At
 
 
@@ -18121,24 +16855,18 @@ XI. 25.
 XI. -26.
 
 
-292 NIHONGI.
-
-
 Now the Imperial Prince fled with the Imperial Princess Medori,
 intending to place her in the Shrine of Ise. Hereupon the
 Emperor, hearing that the Imperial Prince Hayabusa wake had
 run away, straightway sent Wofuna of the Honchi Be of Kibi
 and Aganoko, Atahe of Saheki in Harima, saying :—“‘ Pursue
-them, and when you overtake them, slay them forthwith.” Here-
-upon the Empress addressed the Emperor, saying :—‘‘ Truly
+them, and when you overtake them, slay them forthwith.” Hereupon the Empress addressed the Emperor, saying :—‘‘ Truly
 the Imperial Princess Medori is liable to severe punishment.
 But when she is killed I hope her body may not be exposed.”’
 Accordingly he gave orders to Wofuna and his colleague not
-to take the Imperial Princess’s leg-jewels or arm-jewels. Wo-
-funa and his colleague pursued them as far as Uda, and.closed
+to take the Imperial Princess’s leg-jewels or arm-jewels. Wofuna and his colleague pursued them as far as Uda, and.closed
 on them at Mount Soni. Here they hid in the herbage, and
-escaping by only a little, fled hastily, and crossed the moun-
-tain. Then the Imperial Prince made a song, saying: —
+escaping by only a little, fled hastily, and crossed the mountain. Then the Imperial Prince made a song, saying: —
 
 
 Even this mountain, steep
@@ -18177,8 +16905,7 @@ NINTOKU. 293
 
 
 observing that these jewels resembled those of the Impertal
-Princess Medori, straightway. became suspicious, and com-
-manded an official to inquire under what ‘circumstances they
+Princess Medori, straightway. became suspicious, and commanded an official to inquire under what ‘circumstances they
 had come by these jewels. They answered and ‘said :—‘‘ They
 are the jewels of the wife of Aganoko, the Atahe of Saheki.”
 So Aganoko, being interrogated, answered ‘and’ said :—‘‘ On
@@ -18242,7 +16969,7 @@ Ga) 3
 A.D. 355+
 
 
-> Gl aap
+) Gl aap
 
 
 A.D. 362.
@@ -18295,8 +17022,7 @@ bird; “probably” the peregrine "falcon. The best! hawks for: hurting”. wer
 iinet iinported to Japan from Corea. pial eck wae ;
 “Say untratislatable makura-kotoba comes in: here. iy eg a
 oa Pakechis no Sukune’s death is-not mentioned in the “Nihongi.”’ A later
-authority Says that he died i in this year, having held office for'240 years, and-
-lived 268 (or'299) ‘years. “Another authority statés that he’ died in-thée's5th
+authority Says that he died i in this year, having held office for'240 years, andlived 268 (or'299) ‘years. “Another authority statés that he’ died in-thée's5th
 year of Nintoku Tenné, at the age of 280. - Still another says that he‘diéd in’
 
 
@@ -18337,16 +17063,14 @@ sth month. . Takahase, ancestor of the Kimi of Kédzuke, was
 sent to ask the reason of the failure -to send tribute. On his
 way he took a white deer, and returning with it, presented it to
 the Emperor. He then chose another day and started ‘on his
-journey. Shortly after, the Emperor sent in addition Taka-
-hase’s younger brother Tamichi, and commanded him, saying :—
+journey. Shortly after, the Emperor sent in addition Takahase’s younger brother Tamichi, and commanded him, saying :—
 ‘“‘ Tf Silla-is recalcitrant, raise an army and invade that land,”
 So he gave him chosen troops. «Silla raised an army and made
 opposition.. Now -the Silla. men offered battle daily. ‘But
 Tamichi made strong his barriers, and would not go out: - Now
 a Silla’ soldier who had been let out. from the camp was taken
 prisoner. So being questioned as to the condition of affairs, he
-answered, saying :—‘‘ There are mighty men, called the ‘Hun-
-dred Thrusters,’* nimble and valorous, who always form the
+answered, saying :—‘‘ There are mighty men, called the ‘Hundred Thrusters,’* nimble and valorous, who always form the
 right van of the army. Therefore if you observe this and
 attack the left, it will be routed.” Now ao allowed the: left-to
 
@@ -18378,14 +17102,10 @@ A.D. 307.
 A.D. 370.
 
 
-296 NIHONGI.
-
-
 be vacant, and filled up the numbers of the right. Hereupon
 Tamichi, drawing up his picked cavalry,’ attacked their left,
 upon which the Silla troops were defeated. Accordingly letting
-go his men, he bore down on the enemy and slew several hun-
-dreds of them. So he took prisoners the people of four villages,
+go his men, he bore down on the enemy and slew several hundreds of them. So he took prisoners the people of four villages,
 with whom he returned to Japan.”
 
 55th year. The Yemishi rebelled. Tamichi was sent to
@@ -18394,8 +17114,7 @@ Harbour of Ishimi.* Now one of his followers obtained .
 Tamichi’s armlet and gave it to his wife, who embraced the
 armlet and strangled herself. When the men of that time
 heard of this they shed tears. After this the Yemishi again
-made an incursion and carried off some of the people. Accord-
-ingly they dug up Tamichi’s tomb, upon which a great serpent
+made an incursion and carried off some of the people. Accordingly they dug up Tamichi’s tomb, upon which a great serpent
 started up with glaring eyes, and came out of the tomb. It bit
 the Yemishi, who were everyone affected by the serpent’s poison,
 so. that many of them died, and only one or two escaped.
@@ -18503,9 +17222,6 @@ A.D. 377-
 A.D. 379.
 
 
-298 NIHONGI.
-
-
 come it is placed in: water or sake and thus used.’ - The
 Imperial Prince straightway brought some of that- ice, and
 presented it to the Palace. The Emperor was delighted with
@@ -18522,8 +17238,7 @@ He was strong and nimble. He carried swords on his right
 and on his left side, and used bow and arrow with all four
 hands at once. On this account he was disobedient to the
 Imperial command, and took a pleasure in plundering the
-people. -Hereupon the Emperor sent Naniha-neko « Take-
-furu-kuma, ancestor of the. Omi of neu who oe him to
+people. -Hereupon the Emperor sent Naniha-neko « Takefuru-kuma, ancestor of the. Omi of neu who oe him to
 death.
 
 67th year, Winter, roth month, ai day. The Tenpshoe
@@ -18567,12 +17282,10 @@ canst not sink them, then will I cut up thy body.” Now
 the water-snake changed itself into a deer and tried to
 draw down the calabashes, but the calabashes would not
 sink. So with upraised sword he entered the water and
-slew the water-snake. He further sought out the water-
-snake’s fellows. Now the tribe of all the water-snakes
+slew the water-snake. He further sought out the watersnake’s fellows. Now the tribe of all the water-snakes
 filled a cave in the bottom of the pool. He slew them
 every one, and the water of the river became changed to
-blood. Therefore that water was called ‘‘ The pool of Agata-
-mori. * 7 .
+blood. Therefore that water was called ‘‘ The pool of Agatamori. * 7 .
 
 At this time pestilential vapours arose more and more, and
 there were one or two cases of rebellion. Hereupon’ the
@@ -18591,13 +17304,10 @@ died. °'~
 
 
 ' The traditional kana rendering of the Chinese character translated
-“water-snake” is midzuchi. Midzu is water, and chi a honorific term mean-
-ing “elder.” Midzuchi means indifferently water-snake or water-god, the
+“water-snake” is midzuchi. Midzu is water, and chi a honorific term meaning “elder.” Midzuchi means indifferently water-snake or water-god, the
 two ideas being intimately associated in the Japanese mind. Dennys, in
-his “ Folk Lore of China,” quotes from the JVorth China Herald as fol-
-lows :—“‘ The River-God is in every case (where the waters of inundations
-were abated by them) a small water-snake, which popular fancy has con-
-verted into a deity.” The poisonous breath of serpents is an article of
+his “ Folk Lore of China,” quotes from the JVorth China Herald as follows :—“‘ The River-God is in every case (where the waters of inundations
+were abated by them) a small water-snake, which popular fancy has converted into a deity.” The poisonous breath of serpents is an article of
 popular faith in many countries.
 
 * From “ Hereupon ” down to “ operation” is taken almost verbatim from
@@ -18610,15 +17320,10 @@ XI, 34.
 A.D. 399.
 
 
-300 NIHONGI.
+Winter, roth month, 7th day: -He was buried in the misaang! on Mozu moor.’
 
 
-Winter, roth month, 7th day: -He was buried in the misa-
-ang! on Mozu moor.’
-
-
-_ 1} The Emperor's age is not given here. The “ Kojiki” makes him eighty-
-three years of age at his death. Others say 110. But if we allow him to
+_ 1} The Emperor's age is not given here. The “ Kojiki” makes him eightythree years of age at his death. Others say 110. But if we allow him to
 have been at least. sixteen when he fell in love with Kami-naga-hime (see
 above, p. 259) in A.D. 282, he cannot have been ae than 132 at the time of
 his death, '
@@ -18645,8 +17350,7 @@ he sent the Imperial Prince Nakatsu of Suminoye to give
 notice of the lucky day. Now Prince Nakatsu having assumed
 the elder Prince’s name, by this means seduced Kurohime.
 On this night the Imperial Prince Nakatsu * came away, having
-forgotten his wrist-bells in Kurohime’s house. On the follow-
-ing night, the Heir to the Throne, not knowing that the
+forgotten his wrist-bells in Kurohime’s house. On the following night, the Heir to the Throne, not knowing that the
 Imperial Prince Nakatsu had himself seduced her, went there.
 He entered the chamber, drew aside the curtain, and sat down
 upon the jewel-couch. Then there was a sound of bells at the
@@ -18664,14 +17368,10 @@ genitive particle. Sica aca he
 XH. 3.
 
 
-302 NIHONGI.
-
-
 Kurohime, saying :—‘‘ What bells are these ?”’ She answered
 and said :—“‘ Are they not the bells which thou didst bring last
 night ? Wherefore dost thou ask thy handmaiden any more
-about them?” The Heir naturally concluded that the Im-
-perial Prince Nakatsu had assumed his name and by this
+about them?” The Heir naturally concluded that the Imperial Prince Nakatsu had assumed his name and by this
 means seduced Kurohime, so he retired in silence.
 
 Now the Imperial Prince Nakatsu, fearing that trouble would
@@ -18741,8 +17441,7 @@ and surrounding them, captured* them everyone. At this time
 - Akoko, the Atahe of Yamato, who from the first had loved
 Prince Nakatsu, and was privy to his conspiracy, secretly
 assembled choice troops to the number of several hundred at
-Kurusu in Kakibami, and on behalf:of Prince Nakatsu with-
-stood the Heir. Now the Heir, not knowing that. he was
+Kurusu in Kakibami, and on behalf:of Prince Nakatsu withstood the Heir. Now the Heir, not knowing that. he was
 beset with troops, went out for several ri: from the mountain.
 He was stopped by a large force of armed men, and was unable
 to advance. So he sent a messenger and. inquired of them,
@@ -18750,18 +17449,15 @@ saying :—‘‘ What men are ye?” They answered and said :—
 ‘‘ Akoko, Atahe of Yamato.” And in their turn they questioned
 the messenger, saying :—‘‘ Who has Bone thee?”’ He said :—
 ‘“The Prince Imperial has sent me.’ .Then Akoko, fearing
-lest there might be a numerous army: there, said to the mes-
-senger :—‘“‘ Information has reached me that something unusual
+lest there might be a numerous army: there, said to the messenger :—‘“‘ Information has reached me that something unusual
 has happened to the Prince Imperial, and in order to assist
-him I am waiting upon him with this force that I have pre-
-pared.” The Heir, however, doubted his intentions, and tried
+him I am waiting upon him with this force that I have prepared.” The Heir, however, doubted his intentions, and tried
 to kill him. Whereupon Akoko was afraid, and offering as a
 - present. his own younger sister Hinohime,’ through her begged
 that his.capital offence might be pardoned. He was pardoned
 
 
-See above, p. 256, where his ancestor was made prefect of the fisher-
-amen.
+See above, p. 256, where his ancestor was made prefect of the fisheramen.
 
 ? As usual, “captured ”-stands for ‘ slew.”
 
@@ -18774,16 +17470,12 @@ ODD As
 WE, +g.
 
 
-304 NIHONGI.
-
-
 accordingly. It was prolably at this time that the custom
 began of the Atahe of Yamato sending tribute of ladies of the
 Palace.’
 
 The Heir took up his abode in the shrine of Furu no Iso no
-Kami. Hereupon the Imperial Prince Midzuha wake, discover-
-ing the absence of the Heir, sought him out and followed him:
+Kami. Hereupon the Imperial Prince Midzuha wake, discovering the absence of the Heir, sought him out and followed him:
 The Heir, however, suspected the intentions of the Prince, his
 younger brother, and would not send for him. Then the
 Imperial Prince Midzuha wake sent a message to the Heir,
@@ -18826,18 +17518,15 @@ Chi 15 fe Soe:
 
 me?’’ So he went to Naniha and observed the state of things
 with the Imperial Prince Nakatsu. The Imperial Prince
-Nakatsu, thinking that the Heir had fled away and’ disap-
-peared, had made no preparation. Now he had a Hayato!
+Nakatsu, thinking that the Heir had fled away and’ disappeared, had made no preparation. Now he had a Hayato!
 named Sashihire. Prince Midzuha wake sent for Sashihire
 secretly and tampered with him, saying :—‘ If thou wilt kill
 the Imperial Prince for me, then will I surely reward thee
 liberally.” So he took off his coat and trousers of brocade and
-gave them to him. Sashihire, relying on his words of allure-
-ment, all by himself took his spear, and watching the time
+gave them to him. Sashihire, relying on his words of allurement, all by himself took his spear, and watching the time
 when the Imperial Prince Nakatsu went into the privy, stabbed
 him to death, and entered the service of Prince Midzuha wake.
-Hereupon Dsuku no Tsukune made representation to the Im-
-perial Prince Midzuha wake, saying :—‘‘ Sashihire has killed his
+Hereupon Dsuku no Tsukune made representation to the Imperial Prince Midzuha wake, saying :—‘‘ Sashihire has killed his
 own lord for the sake of another, and although for us he has
 done a great service, yet towards his own lord his conduct has
 been heartless in the extreme. Shall he be allowed to live?”
@@ -18891,9 +17580,6 @@ A.D. 402.
 
 
 il bes
-
-
-306 | NIHONGI.
 
 
 Accordingly the men of that time spoke of the “‘ Adzumi eye.”
@@ -18975,8 +17661,7 @@ were appointed for the first time in the various provinces, who
 noted down statements, and communicated the writings of the
 four quarters. |
 
-Winter, roth month. The Iso no kami conduit was ex-
-cavated.
+Winter, roth month. The Iso no kami conduit was excavated.
 
 5th year, Spring, 3rd month, rst day. The three Deities
 _who dwell in Tsukushi appeared within the palace and said :—
@@ -18984,8 +17669,7 @@ _who dwell in Tsukushi appeared within the palace and said :—
 thee.” Hereupon the Emperor prayed, but his prayer was
 not answered.
 
-Autumn, gth month, 18th day. The Emperor went a-
-hunting to the Island of Ahaji. On this day the Kahachi
+Autumn, gth month, 18th day. The Emperor went ahunting to the Island of Ahaji. On this day the Kahachi
 Horse-keepers’ Be were in attendance on the Emperor, and held
 the bit. Before this the Horse-keepers’ Be had been branded *
 on the face, and none of their wounds had yet healed. Now
@@ -18993,8 +17677,7 @@ the God Izanagi, who dwells in the island, spoke by the mouth
 of a hafuri, saying :—‘‘I cannot endure the stench of blood.”
 Accordingly divination was made, and the answer was, ‘“‘ The
 God dislikes the smell of the branding of the Horse-keepers’ Be.”
-Therefore from that time forward the branding of the Horse-
-keepers’ Be was utterly discontinued.
+Therefore from that time forward the branding of the Horsekeepers’ Be was utterly discontinued.
 
 19th day. There was a sound as ofa blast of wind which
 cried aloud in the Great Void, saying :—‘*O thou Prince,
@@ -19031,13 +17714,9 @@ A.D. 4046
 XII. 9.
 
 
-308 NIHONGI.
-
-
 said :—‘‘ Thy younger sister! of bird-frequented Hata has gone
 to be buried at Hasa. [Another version is :—‘Sanakita no
-Komotsu? no Mikoto has gone to be buried at Hasa.”’]|  Sud-
-denly a messenger arrived in haste, who said :—‘‘ The Imperial
+Komotsu? no Mikoto has gone to be buried at Hasa.”’]|  Suddenly a messenger arrived in haste, who said :—‘‘ The Imperial
 concubine is dead.” The Emperor was greatly shocked, and
 
 
@@ -19106,7 +17785,7 @@ expiation. See above, p. 48.
 RicHivu. | 309
 
 
-gth day. A Treasury was. instituted and a Treasury > ae
+gth day. A Treasury was. instituted and a Treasury ) ae
 established.
 
 2nd month, 1st day. The Emperor sent for Futohime no
@@ -19130,8 +17809,7 @@ was the first ancestor of the two houses of the Miyakko of
 Sanuki and the Wake of Ashikuhi in Aha.
 
 3rd month, 15th day. The Emperor’s precious body: became
-ill at ease, and, the elements of water and earth being inhar-
-monious, he died in the Palace of Waka-zakura, at the age of
+ill at ease, and, the elements of water and earth being inharmonious, he died in the Palace of Waka-zakura, at the age of
 seventy.*
 
 
@@ -19170,9 +17848,6 @@ NET. 222
 A.D 400.
 
 
-310 NIHONGI.
-
-
 Winter, roth month, 4th day. The Emperor was buried in
 the peraeee on the Plain of Mozu no Mimi.
 
@@ -19189,16 +17864,14 @@ HANSHO TENNO.)
 
 The Emperor Midzuhawake was a younger brother by the
 same mother of the Emperor Izaho-wake. He was appointed |
-Prince Imperial in the second year of the Emperor Izaho-
-wake. The Emperor was born in the Palace of Ahaji. At his
+Prince Imperial in the second year of the Emperor Izahowake. The Emperor was born in the Palace of Ahaji. At his
 birth his teeth were like one bone,® and his appearance was
 beautiful. Now there was a well called Midzu no wi (the
 beautiful well) from which water was drawn to wash the Heir*
 to the Throne. A tajihi® flower had fallen into this well and
 it was accordingly made the name of the Heir to the
 Throne. The tajihi flower is what is now the itadori flower.
-Therefore he was styled the Emperor Tajihi® no Midzuha-
-wake.
+Therefore he was styled the Emperor Tajihi® no Midzuhawake.
 
 The Emperor Izaho-wake died in Spring, the 3rd month of
 the 6th year of his reign.
@@ -19215,8 +17888,7 @@ right path,” han meaning turn, and sei or sho “ right.”
 * In the Bamboo Books (“ Legge’s Chinese Classics”), p. 143, there is.
 mention of an ancient Chinese king whose teeth were one piece of bone.
 The “ Kojiki” says (Ch. K., p. 292) :—“ The length of his august teeth was
-one inch, and their breadth two lines, and the upper and lower [row] corre-
-sponded exactly, like jewels strung [together].”
+one inch, and their breadth two lines, and the upper and lower [row] corresponded exactly, like jewels strung [together].”
 
 4 He was not Heir at this time.
 
@@ -19288,8 +17960,7 @@ THE Emperor Wo-Asa-tsuma wakugo no Sukune was a younger
 _ brother by the same mother of the Emperor Midzuha wake.
 
 
-From infancy to puberty,® the Emperor was kind and unas-
-suming. When he attained to manhood, he became very ill
+From infancy to puberty,® the Emperor was kind and unassuming. When he attained to manhood, he became very ill
 and lost the free use of his limbs.
 
 The Emperor Midzuha wake died in Spring, the 1st month
@@ -19329,19 +18000,14 @@ because thou sufferest from disease? However long thou
 mayst live, thou must never succeed to the throne.’ Moreover,
 the two Emperors, my elder brothers, despised me and thought
 me a fool, as is known to all the Ministers. Now the Empire
-is a great organization: the Imperial Dignity is.a vast institu-
-tion: and to be the father and mother of the people is the
+is a great organization: the Imperial Dignity is.a vast institution: and to be the father and mother of the people is the
 office of a sage. How can such a charge be given to a fool?
-Make another choice of some wise Prince, and let him be esta-
-blished as Emperor. I, the unworthy one, may not presume
+Make another choice of some wise Prince, and let him be established as Emperor. I, the unworthy one, may not presume
 to fill the office.” The Ministers bowed down twice, and said:
-—‘‘ The Imperial Dignity should not be long vacant; the com-
-mand of Heaven should not be modestly refused. We, thy
+—‘‘ The Imperial Dignity should not be long vacant; the command of Heaven should not be modestly refused. We, thy
 servants, fear that if thou, the Great Prince, dost delay the
 time, and in opposition to the general desire dost refuse to
-rectify the name and dignity, the nation’s hopes will be disap-
-pointed. We pray therefore that the Great Prince, notwith-
-standing his sufferings, will yet assume the Imperial Dignity.”
+rectify the name and dignity, the nation’s hopes will be disappointed. We pray therefore that the Great Prince, notwithstanding his sufferings, will yet assume the Imperial Dignity.”
 The Imperial Prince Wo-Asa-tsuma wakugo no Sukune said :—
 “It is a weighty matter to take charge of the ancestral temples
 and the temples of the earth and of grain.’ I, the unworthy
@@ -19380,9 +18046,6 @@ SOLS 715
 A.D. 413.
 
 
-314 NIHONGI.
-
-
 was loath to consent, and turning his back upon her, sat
 without saying a word. Hereupon Oho-nakatsu hime no
 Mikoto was afraid, and not knowing how to retire, remained
@@ -19409,8 +18072,7 @@ Imperial Dignity.
 
 This year was the year Midzunoye Ne (49th) of the Cycle.
 
-and year, Spring, 2nd month, 14th day. Osaka no Oho-
-nakatsu hime was appointed Empress. On this day there was
+and year, Spring, 2nd month, 14th day. Osaka no Ohonakatsu hime was appointed Empress. On this day there was
 established on behalf of the Empress the Osaka Be.
 
 The Empress was the mother of the Imperial Prince Kinashi
@@ -19501,15 +18163,11 @@ A.D. 415.
 NQUU EA.
 
 
-316 NIHONGI.
-
-
 rejoiced, and having rewarded the physician liberally, sent him
 back to his own country.
 
 4th year, Autumn, gth month, gth day. The Emperor made
-a decree, saying :—‘‘ In the most ancient times, good govern-
-ment consisted in the subjects having each one his, proper
+a decree, saying :—‘‘ In the most ancient times, good government consisted in the subjects having each one his, proper
 place, and in names’ being correct. It is now four years since
 We entered on the auspicious office. .Superiors and inferiors
 dispute with one another: the hundred surnames? are not at
@@ -19517,16 +18175,13 @@ peace. Some by mischance lose their proper surnames ; others
 purposely lay claim to high family. This is perhaps the. reason
 why good government is not attained to. Deficient in wisdom
 although Weare, howcan We omit to rectify these irregularities ?
-Let the Ministers take counsel, and inform me of their deter-
-mination.” All the Ministers said :—‘‘ If Your Majesty, restor-
-ing that which is lost and correcting that which is perverted,
+Let the Ministers take counsel, and inform me of their determination.” All the Ministers said :—‘‘ If Your Majesty, restoring that which is lost and correcting that which is perverted,
 will thus determine Houses and surnames, your servants will
 stake their lives in recommending the adoption of such a
 measure.”
 
 28th day. The Emperor made a decree, saying :—‘* The
-ministers, functionaries, and the Miyakko of the various pro-
-vinces each and all describe themselves, some as descendants of
+ministers, functionaries, and the Miyakko of the various provinces each and all describe themselves, some as descendants of
 Emperors, others attributing to their race a miraculous origin,
 
 
@@ -19576,8 +18231,7 @@ hand.
 Hereupon every one put on straps of tree-fibre, and coming
 to the caldrons, plunged their hands in the boiling water, when
 those who were true remained naturally uninjured, and all those
-who were false were harmed. Therefore those who had falsi-
-fied (their titles) were afraid, and slipping away beforehand,
+who were false were harmed. Therefore those who had falsified (their titles) were afraid, and slipping away beforehand,
 did not come forward. From this time forward the Houses
 
 
@@ -19622,9 +18276,6 @@ A.D. 416.
 XIII. 8.
 
 
-318 | NIHONGI,
-
-
 Tamada no Sukune was suspicious, and put on armour under
 his clothing and so presented himself. The border of the
 
@@ -19641,8 +18292,7 @@ Sukune, when he secretly ran away and hid in his house. The
 Emperor again despatched soldiers, who surrounded Tamada’s
 house, took him, and put him to death.
 
-Winter, 11th month, 11th day. The Emperor Midzu-ha-
-wake was buried in the Mimihara Misasagi.
+Winter, 11th month, 11th day. The Emperor Midzu-hawake was buried in the Mimihara Misasagi.
 
 7th year, Winter, 12th month, Ist day. There was a banquet
 in the new Palace." The Emperor in person played on the
@@ -19658,8 +18308,7 @@ said:—‘‘I offer thee a woman.” The Emperor forthwith
 inquired of the Empress, saying :—‘‘ Who is the woman whom
 thou offerest me? I wish to know her name.’ The Empress
 could not help herself, and addressed the Emperor, saying :—
-“It is thy handmaiden’s younger sister, whose name is Oto-
-hime.” *® Otohime’s countenance was of surpassing and peerless
+“It is thy handmaiden’s younger sister, whose name is Otohime.” *® Otohime’s countenance was of surpassing and peerless
 beauty. Her brilliant colour shone out through her raiment,
 so that the men of that time gave her the designation of
 Sotohori Iratsume.*- The Emperor’s wishes had dwelt upon
@@ -19706,8 +18355,7 @@ Empress’s feelings. Thy handmaiden will not come, though
 it should cost her her life to refuse.” Then Ikatsu no Omi
 answered and said:—‘‘As thy servant has received the
 Emperor’s commands, I must bring thee back with me. If I
-bring thee not back, I shall surely incur punishment. There-
-fore it is better to die lying prostrate in this courtyard than to
+bring thee not back, I shall surely incur punishment. Therefore it is better to die lying prostrate in this courtyard than to
 return and undergo the extreme penalty.”” So for seven days
 he lay prostrate in the courtyard, and although food and drink
 were offered to him, he refused to taste them, but secretly ate
@@ -19734,9 +18382,6 @@ A.D. 410.
 UN Sai)
 
 
-320 NIHONGI.
-
-
 capital, and having lodged Otohime at the house of Akoko,
 the Atahe of Yamato, made his report. to the Emperor. The
 Emperor was greatly rejoiced. He commended Ikatsu no.
@@ -19744,8 +18389,7 @@ Omi, and showed him liberal favour. The Empress, however,
 showed her vexation, and Otohime could therefore not approach
 the interior of the Palace. Accordingly, a separate building:
 was erected for her at Fujihara, and she dwelt there.’ On the
-night that the Empress gave birth to the Emperor Oho-
-hatsuse, the Emperor for the first time went to the Fujihara
+night that the Empress gave birth to the Emperor Ohohatsuse, the Emperor for the first time went to the Fujihara
 Palace. The Empress hearing this, was angry, and said :—
 ** Many years have passed since I first bound up my hair and
 became thy companion in the hinder palace. It is too cruel
@@ -19782,7 +18426,7 @@ as opposed to Oho-nakatsu hime, the dame of the Great Interior.
 
 £ It was considered that when a spider clung to one’s garments, it was a
 sign that an intimate friend would arrive. Little crab is another name for
-spider. Sotohori hime was in after times looked on as the “ Muse. of>
+spider. Sotohori hime was in after times looked on as the “ Muse. of)
 poetry.” This poem is a regular Tanka, as are the others in this passage.
 
 
@@ -19854,9 +18498,6 @@ XIII. 13.
 A.D. 425.
 
 
-322 NIHONGI.
-
-
 11th year, Spring, 3rd month, 4th day. The Emperor made
 a progress to the Palace of Chinu. Sotohori Iratsume made a
 song, saying :—
@@ -19884,8 +18525,7 @@ the younger sister of the Empress by the same mother.? In
 Our heart we dearly love her, and it is Our desire that her
 name should be handed down to after ages. How can this be
 done?” In accordance with the Imperial command, Muruya
-no Muraji proposed a plan for the Emperor’s approval. Conse-
-quently the Miyakko of the various provinces were charged to
+no Muraji proposed a plan for the Emperor’s approval. Consequently the Miyakko of the various provinces were charged to
 establish Fujihara Be on behalf of Sotohori hime.
 
 14th year, Autumn, 9th month, 12th day. The Emperor
@@ -19901,8 +18541,7 @@ anew. Thenthe God of the Island* gave an oracular utterance,
 word for seaweed. ‘There is a Seaweed so called, but what this circumstance
 has to do with the story is not clear. -
 
-2 The traditional kana has haha-hara-kara. As hara-kara by its deriva-
-tion means “of the same womb,” it is needless to prefix haha, mother. But
+2 The traditional kana has haha-hara-kara. As hara-kara by its derivation means “of the same womb,” it is needless to prefix haha, mother. But
 this shows that when these kana glosses were written, hara-kara had come
 to mean simply brother or sister, as it does at present.
 
@@ -19914,8 +18553,7 @@ INGIO. EX:
 
 saying :—‘‘ It was by my intent that no beast was caught. In
 the bottom of the sea of Akashi there is a pearl. . If this pearl is
-sacrificed to me, ye shall be able to catch all the beasts.”” Here-
-upon they proceeded to assemble the fishermen of the various
+sacrificed to me, ye shall be able to catch all the beasts.”” Hereupon they proceeded to assemble the fishermen of the various
 places, and made them search the bottom of the sea of Akashi.
 When they dived into the sea, however, they were unable to
 reach the bottom. But there was one fisherman named
@@ -19924,8 +18562,7 @@ excelled all the fishers. He tied a rope to his loins, and went
 down to the bottom of the sea. After some time he came forth,
 and said :—‘‘ In the bottom of the sea there is a great sea-ear,!
 and this place is shining.”” Everybody said :—‘‘ Probably the
-pearl which the God of the Island has asked for is in this sea-
-ear’s belly.” Again he went in and searched for it. Hereupon
+pearl which the God of the Island has asked for is in this seaear’s belly.” Again he went in and searched for it. Hereupon
 Wosashi came to the surface with the great sea-ear in his arms,
 but his breath had ceased, and he died on the surface of the
 waves. Afterwards a rope was let down and the bottom of the
@@ -19948,8 +18585,7 @@ thoughts were constantly bent on becoming united to the
 * The ahabi or Haliotis tuberculata.
 
 * The prominence given to brotherhood and sisterhood by the same
-mother in the ‘ Nihongi,” as in Homer, has not, it appears to me, the sig-
-nificance attributed to it by McLennan’s theory, which would trace back such
+mother in the ‘ Nihongi,” as in Homer, has not, it appears to me, the significance attributed to it by McLennan’s theory, which would trace back such
 terms to a time when the mother was the only parent as to whom there
 could be no doubt. It seems to me that the father’s parentage is here
 taken for granted, the phrase really meaning brother or sister by the
@@ -19970,9 +18606,6 @@ XIII. 15.
 
 
 AD. 435:
-
-
-324 NIHONGI.
 
 
 Imperial Princess Oho-iratsume, but he dreaded the guilt,’ and
@@ -20023,8 +18656,7 @@ es 93:
 
 2 A somewhat different version of this poem is given in the “ Resse: LARSEC
 Ch. K., p. 296. I have adopted one or two of Motowori’s emendations. See
-“ Kojikiden,” xxxix. 23. “ Foot-dragging” is a makura-kotoba or conven-
-tional epithet of mountain, used because in ascending a mountain we drag one
+“ Kojikiden,” xxxix. 23. “ Foot-dragging” is a makura-kotoba or conventional epithet of mountain, used because in ascending a mountain we drag one
 foot painfully after the other. At least, that is the common interpretation.
 The metre is somewhat irregular naga-uta.
 
@@ -20087,8 +18719,7 @@ third line of this poem is literally “a ship-remainder,” by which is underst
 “ one who remains behind in a ship after the other passengers have landed.”
 There are, however, other explanations. See Ch. K., p. 3
 
-3 The metre of this poem is irregular. ‘“ Heaven soaring” is a conven-
-tional epithet applied to Karu, which is the name of a place, because Kari
+3 The metre of this poem is irregular. ‘“ Heaven soaring” is a conventional epithet applied to Karu, which is the name of a place, because Kari
 means “a wild goose ”—hardly a sufficient reason to our Western minds.
 
 4 Seventy-eight, says the “ Kojiki.” Another authority says eighty. But
@@ -20098,9 +18729,6 @@ at least 110 at the time of his death.
 
 
 ee
-
-
-326 NIHONGI,
 
 
 Now the King of Silla, when he heard that the Emperor
@@ -20122,19 +18750,16 @@ the misasagi of Naga-no no hara in Kahachi.
 funeral ceremonies were concluded, returned home.
 
 Now the men of Silla had always loved Mount Miminashi
-and Mount Unebi, which are hard bythe capital city. Accord-
-ingly, when they arrived at the Kotobiki Hill, they looked back,
+and Mount Unebi, which are hard bythe capital city. Accordingly, when they arrived at the Kotobiki Hill, they looked back,
 and said :—‘‘ Uneme haya! Mimi haya!’ This was simply
 because they were unpractised in the common. speech, and
-therefore corrupted Mount Unebi, calling it Uneme, and cor-
-rupted Mount Miminashi, calling it Mimi. Now the Yamato
+therefore corrupted Mount Unebi, calling it Uneme, and corrupted Mount Miminashi, calling it Mimi. Now the Yamato
 no. Mitma-kahi? Be, who were in attendance on the men of
 Silla, heard these words, and conceived a suspicion that the
 Silla men had had intercourse with the Uneme. So they made
 them go back, and gave information to the Imperial Prince
 Ohohatsuse. The Imperial Prince straightway threw the Silla
-messengers every one into prison, and put them to an examina-
-tion. Then the Silla messengers made a statement, saying :—
+messengers every one into prison, and put them to an examination. Then the Silla messengers made a statement, saying :—
 *“We have done the Uneme no harm. Our words were simply
 expressive of our love for the two mountains close to the
 capital.” Upon this it was recognized that the charge was.
@@ -20149,13 +18774,7 @@ articles sent as tribute and the number of ships.
 ‘cuUd] O:dUT JO Lovsestyy
 
 
-4
-
-
 XIII: 18.
-
-
-NIHONGI.
 
 
 Od
@@ -20173,12 +18792,10 @@ Wo-asa-tsuma waku-go no Sukune.
 One account says :—‘“‘ The third child.”
 
 His. mother’s name was Osaka no Oho-nakatsu-hime no
-Mikoto. She was the daughter of the Imperial Prince Waka-
-nuke-futa-mata.’
+Mikoto. She was the daughter of the Imperial Prince Wakanuke-futa-mata.’
 
 The Emperor died in the 42nd year of his reign, Spring, the
-Ist month. In Winter, the roth month, the funeral cere-
-monies were completed. At this time the Heir Apparent was
+Ist month. In Winter, the roth month, the funeral ceremonies were completed. At this time the Heir Apparent was
 guilty of a barbarous outrage in debauching a woman. The
 nation censured him, and the Ministers would not follow him,
 but all without exception gave their allegiance to the Imperial
@@ -20210,8 +18827,7 @@ And wait till the rain stops.
 ’ The parallel passage of the “ Kojiki” (Ch. K., p. 298) has “inside” for
 “notch,” and an ancient note explains that in the case of Prince Karu’s
 arrows, the “notch” or “inside” was of copper,.whereas those of Prince
-Anaho were “ like those of the present time,” i.e. presumably ofiron. Moto-
-wori thinks that the arrow-points are intended.
+Anaho were “ like those of the present time,” i.e. presumably ofiron. Motowori thinks that the arrow-points are intended.
 
 * It is a question whether Oho-mahe and Wo-mahe are one person or
 two brothers. The metre of this poem is imperfect Tanka.
@@ -20248,8 +18864,7 @@ title of ‘‘Grand Empress.” The capital was forthwith removed
 to Isonokami.*? It was called the Palace of Anaho.
 
 At this time the Imperial Prince Ohohatsuse wished to
-betroth to him the daughters of the Emperor Midzuha-
-wake.’ }
+betroth to him the daughters of the Emperor Midzuhawake.’ }
 
 [The names of these daughters are not found in any of the
 recoras. | :
@@ -20258,8 +18873,7 @@ Hereupon the Imperial Princesses answered and _ said :—
 “Thou, my Lord, art much given to violence, and to sudden
 fits of anger, so that he who sees thee in the morning is slain in
 the evening, and he who sees thee in the evening is slain in the
-morning. Now, thy handmaidens’ countenances are not dis-
-tinguished for beauty, nor their minds for cleverness. If in
+morning. Now, thy handmaidens’ countenances are not distinguished for beauty, nor their minds for cleverness. If in
 manners and speech we should be no whit agreeable to the
 princely expectation, how shouldst thou receive us to thy
 intimacy? For this reason we are unable to obey thy com-
@@ -20285,9 +18899,6 @@ A.D. 454.
 
 
 XH 20;
-
-
-330 NIHONGI.
 
 
 mands.” To the last they kept out of his way, and would not
@@ -20324,8 +18935,7 @@ named were grandchildren, and not children of Nintoku, but the more
 obvious explanation of the difficulty is that the chronology is entirely
 untrustworthy.
 
-% “ An aquatic plant with peltate floating leaves, probably a Lemnanthe-
-mum, or marsh-flower.” Williams. The allusion is to the opening stanzas of
+% “ An aquatic plant with peltate floating leaves, probably a Lemnanthemum, or marsh-flower.” Williams. The allusion is to the opening stanzas of
 the first ode of the She-king, translated by Dr. Legge as follows. :—
 
 
@@ -20353,8 +18963,7 @@ whom thou didst send to me. I beg thee to accept of it,
 although it is an object of no value, as a token of my good
 faith.”
 
-Hereupon Ne no Omi, when he saw the Oshiki jewel head-
-dress, was struck with its beauty, and the thought occurred to
+Hereupon Ne no Omi, when he saw the Oshiki jewel headdress, was struck with its beauty, and the thought occurred to
 him of stealing it and making it his owntreasure. So he falsely
 represented to the Emperor, saying :—‘‘ The Imperial Prince
 Ohokusaka refused to obey thy orders, and spake to thy
@@ -20365,8 +18974,7 @@ made it his own.
 
 Hereupon the Emperor believed Ne no Omi’s slanderous
 words, and was greatly wroth. He raised an armed force, with
-which he surrounded the house of the Imperial Prince Oho-
-kusaka and slew him. .
+which he surrounded the house of the Imperial Prince Ohokusaka and slew him. .
 
 At this time the Hikakas, Kishi of Naniha, father and sons,
 were all in the service of the Imperial Prince Ohokusaka, and
@@ -20393,7 +19001,7 @@ here is uncertain.
 * The ‘“ Kojiki” gives here a different name.
 
 
->. Ol raed
+). Ol raed
 
 
 A.D. 455.
@@ -20403,14 +19011,10 @@ A.D. 456.
 Neis2:
 
 
-332 ! NIHONGI.
-
-
 Mikoto was appointed Empress. The Emperor loved her
 exceedingly.
 
-Before this time Nakashi hime no Mikoto bore Prince Mayu-
-wa to the Imperial Prince Ohokusaka. On his mother’s account
+Before this time Nakashi hime no Mikoto bore Prince Mayuwa to the Imperial Prince Ohokusaka. On his mother’s account
 he escaped punishment, and was always brought up within the
 Palace.
 
@@ -20443,8 +19047,7 @@ saying :—
 ‘The daughter of the Emperor Izahowake was called
 the Imperial Princess Nakashi hime. She was also called
 the Imperial Princess Nagata no Oho-iratsume. The
-Imperial Prince Ohokusaka, a child of the Emperor Oho-
-sazaki, took to wife the Imperial Princess Nagata, who
+Imperial Prince Ohokusaka, a child of the Emperor Ohosazaki, took to wife the Imperial Princess Nagata, who
 bore to him Prince Mayuwa. Afterwards the Emperor
 
 
@@ -20455,7 +19058,7 @@ bore to him Prince Mayuwa. Afterwards the Emperor
 Book read more like genuine history, and the chronology, though it stiil
 leaves much to be desired, is not so wildly inaccurate as before.
 
-> He was really the fifth son. See above, p. 315.
+) He was really the fifth son. See above, p. 315.
 
 * The same thing in nearly the same words is related of one of the Later
 Han Emperors of China.
@@ -20465,9 +19068,6 @@ DOhVii2:
 
 
 XIV. 3,
-
-
-334 | NIHONGI.
 
 
 Anaho, giving heed to the slander of Ne no Omi, put to
@@ -20499,10 +19099,8 @@ violent, so with the further object of killing Prince Mayuwa as
 well, he examined him as to the reason of his conduct. Prince
 Mayuwa said:—‘‘ Thy servant has never sought the Celestial
 Dignity. He has only revenged himself on his father’s enemy.”
-The Imperial Prince Sakahi no Kurohiko, who feared pro-
-foundly the suspicion in which he was held, communicated
-secretly with Prince Mayuwa, and they at last found an oppor-
-tunity of getting away together. They fled to the house of the
+The Imperial Prince Sakahi no Kurohiko, who feared profoundly the suspicion in which he was held, communicated
+secretly with Prince Mayuwa, and they at last found an opportunity of getting away together. They fled to the house of the
 Oho-omi* Tsubura. The Emperor sent a messenger to ask
 
 
@@ -20522,16 +19120,13 @@ YURIAKU. 335
 
 for them. The Oho-omi replied by a messenger, saying :—
 ‘I may possibly have heard of a vassal in time of trouble taking
-refuge in a Royal chamber, but I had never seen Princes con-
-ceal themselves in the house of a vassal. At this very time the
+refuge in a Royal chamber, but I had never seen Princes conceal themselves in the house of a vassal. At this very time the
 Imperial Prince Sakahi no Kurohiko and Prince Mayuwa,
 trusting profoundly in thy servant’s heart, have come to thy
 servant’s house. How can I have the heart to send them to
 thee?” In consequence of this the Emperor raised a still
-greater army and surrounded the Oho-omi’s house. The Oho-
-omi came out, and standing in the courtyard, tied his garters.
-At this time the Oho-omi’s wife brought the garters, and heart-
-broken, alas! madea song, saying’ :—
+greater army and surrounded the Oho-omi’s house. The Ohoomi came out, and standing in the courtyard, tied his garters.
+At this time the Oho-omi’s wife brought the garters, and heartbroken, alas! madea song, saying’ :—
 
 
 The Omi child
@@ -20549,8 +19144,7 @@ servant cannot obey thy orders, even though his refusal costs him
 his life. There is a saying of a man of old, ‘ The will of even a
 common man cannot be taken from him.’* This is precisely
 thy servant’s case. I humbly beseech the Great Prince to
-allow thy servant’s daughter, Kara-hime, and the seven build-
-ings * of Katsuraki, which I now offer thee, to be received as a
+allow thy servant’s daughter, Kara-hime, and the seven buildings * of Katsuraki, which I now offer thee, to be received as a
 ransom for their offences.” The Emperor would not permit
 it, but set fire to the houses and burnt them. MHereupon the
 Oho-omi with the Imperial Prince Kurohiko and Prince Mayuwa
@@ -20585,8 +19179,7 @@ buried together on the hill south of Tsukimoto in Imaki no
 Aya."
 
 Winter roth month, 1st day. The Emperor resented the
-Emperor Anaho’s having formerly wished to transfer the king-
-dom to the Imperial Prince Ichinobe no Oshiha,* and to
+Emperor Anaho’s having formerly wished to transfer the kingdom to the Imperial Prince Ichinobe no Oshiha,* and to
 commit the succession definitively to his charge. So he
 sent a man to the Imperial Prince Ichinobe. no Oshiha, and
 treacherously arranged with him to go a-hunting. Inviting
@@ -20673,8 +19266,7 @@ called Princess Takahashi.] Woguna Kimi was originally an
 Uneme. The Emperor gave one night to her and she became
 pregnant. Ultimately she gave birth toa girl. The Emperor
 had suspicions and would not bring her up. When the girl was
-able to walk, the Emperor was in the great hall with the Oho-
-muraji Me, of the Mononobe, in attendance on him. The girl
+able to walk, the Emperor was in the great hall with the Ohomuraji Me, of the Mononobe, in attendance on him. The girl
 
 
 * The interlinear kana gloss has Hase.
@@ -20703,9 +19295,6 @@ XIV. 8.
 A.D. 458.
 
 
-338 NIHONGI.
-
-
 crossed the courtyard. Me, the Ohomuraji, looking round, said
 to the Ministers :—‘‘ What a pretty girl! There is a saying of
 the men of old, ‘ Thou art like thy mother.’! [This ancient
@@ -20718,8 +19307,7 @@ Emperor said :—‘‘ Every one who sees her makes the same
 remark. Sed insolitum est, quum ei unam solum noctem
 dederim, eam concepisse et filiam peperisse. Quam ob rem
 suspiciones mihi excitatae sunt.” Ohomurayji dixit :—‘‘ Sed in
-hac una nocte quoties cum ead rem habuisti?’’ ‘‘ Septies,”’ in-
-quit Imperator. Ohomuraji loquitur :—‘‘ Si haec femina puro
+hac una nocte quoties cum ead rem habuisti?’’ ‘‘ Septies,”’ inquit Imperator. Ohomuraji loquitur :—‘‘ Si haec femina puro
 corpore et pura mente recepit unam noctem quam ei dedisti, cur
 tam facile concipis suspiciones et nolis fidere alterius castitati?
 Servus tuus audivit feminas quae facile praegnantes fiant vel
@@ -20752,7 +19340,7 @@ The “‘Shinsen ” * of Péekché says :—‘‘ In the 6th year of
 some of the events allotted to the previous period really belong to this
 interval. Ae aris
 
-> i.e. wed. * 1.e. new compilation, the name of a book.
+) i.e. wed. * 1.e. new compilation, the name of a book.
 
 
 YURIAKU. 339
@@ -20760,11 +19348,8 @@ YURIAKU. 339
 
 the Cycle ' King Kero ascended the throne. The Emperor
 sent Aretoku hither to ask fora nyérang. Peékche adorned
-the daughter of the Lady Moni, called the Nyérang Chék-
-
-ké, and sent her as tribute to the Emperor.” ?
-Winter, roth month, 3rd day. The Emperor made a pro-
-gress to the Palace of Yoshino, and on the 6th he proceeded to
+the daughter of the Lady Moni, called the Nyérang Chékké, and sent her as tribute to the Emperor.” ?
+Winter, roth month, 3rd day. The Emperor made a progress to the Palace of Yoshino, and on the 6th he proceeded to
 Mimase. Giving orders to the wardens, he indulged in the
 
 
@@ -20776,9 +19361,7 @@ eight had been caught. Every time they hunted, they caught
 many, so that the birds and beasts were almost exhausted.
 At length they rested by the springs and groves, and sauntered
 together in the thickets and meadows. Halting his footmen,
-the Emperor counted the chariots and horses. Then he in-
-quired of the Ministers, saying :—‘‘ It is a pleasure of the hunt-
-ing-field to make the stewards cut up the fresh meat. Suppose
+the Emperor counted the chariots and horses. Then he inquired of the Ministers, saying :—‘‘ It is a pleasure of the hunting-field to make the stewards cut up the fresh meat. Suppose
 that you and We cut it up ourselves?’’ The Ministers were
 
 
@@ -20799,8 +19382,7 @@ apprehension, and sent to meet him Hi-no-hime, the Uneme of
 Yamato,* to offer him sake. The Emperor, seeing the beauty |
 
 
-of the Uneme’s countenance,’ and the elegance of her appear-
-ance, softened his looks, and with a pleased expression, said :—
+of the Uneme’s countenance,’ and the elegance of her appearance, softened his looks, and with a pleased expression, said :—
 ** How should I not wish to behold thy pleasing smile?” So
 
 
@@ -20822,13 +19404,10 @@ A.D. 400, and we are now at 458.
 Z 2
 
 
-EXCL VE  FOr
+EXCL VE (FOr
 
 
 SAV it.
-
-
-340 NIHONGI.
 
 
 hand in hand with her, he entered the hinder palace, where he
@@ -20881,7 +19460,7 @@ flesh is cut up small before it is served.
 Kori of Yamato. There is a village there called Mitobe, which means
 Imperial House Be. It probably was an appanage of the Empress.
 
-4 Scribes. > Palace attendants.
+4 Scribes. ) Palace attendants.
 
 
 YURIAKU. 34F
@@ -20894,9 +19473,7 @@ Hinokuma no Tami-tsukahi.’
 other name was Shikotohi], uttered a slander respecting the
 Imperial Princess Taku-hata and Takehiko, [hoki Be no Muraji,
 the bath-official, saying :—‘‘ Takehiko has had illicit intercourse
-with the Imperial Princess.’”’ Takehiko’s father, Kikoyu, hear-
-ing this rumour, was afraid lest calamity might overtake him-
-self, and persuaded Takehiko to come with him to the River
+with the Imperial Princess.’”’ Takehiko’s father, Kikoyu, hearing this rumour, was afraid lest calamity might overtake himself, and persuaded Takehiko to come with him to the River
 Ihoki. There, pretending to make cormorants dive into the
 water to catch fish, he took him unawares and slew him. When
 the Emperor heard this, he sent messengers to question the
@@ -20911,8 +19488,7 @@ When they came to Kahakami, a rainbow appeared, like unto a
 serpent, four or five rods in length. When they dug the place
 from which the rainbow sprang they found the divine mirror,
 and no great distance off, they discovered the Imperial
-Princess’s body. On ripping her open and making examina-
-tion, there was in her belly something like water, and in the
+Princess’s body. On ripping her open and making examination, there was in her belly something like water, and in the
 water there was astone. Kikoyu was thus enabled to establish
 his son’s innocence, but on the other hand he had remorse for
 having slain him. He revenged him by killing Kunimi, and
@@ -20948,9 +19524,6 @@ XEN sets
 XIV... 14,
 
 
-342 NIHONGI.
-
-
 In face and demeanour he resembled the Emperor. The
 
 
@@ -20979,8 +19552,7 @@ came swiftly flying. Then a dragon-fly flew thither suddenly,
 bit the gad-fly, and went away with it. The Emperor was
 pleased at its attention, and commanded his Ministers, saying:
 —‘‘Do ye on Our behalf compose an ode in praise of this
-dragon-fly.” As none of the Ministers made so bold as to com-
-pose an ode, the Emperor forthwith composed a short piece,*
+dragon-fly.” As none of the Ministers made so bold as to compose an ode, the Emperor forthwith composed a short piece,*
 saying :—
 
 These tidings some one
@@ -21038,8 +19610,7 @@ O Yamato, land of the dragon-fly !?
 One book has, instead of ‘‘the great presence,’ ‘‘ the
 great Lord.”
 
-One book has, instead of “‘stood at his throne,” “ re-
-mained in his throne.”
+One book has, instead of “‘stood at his throne,” “ remained in his throne.”
 
 One book has, instead of from “ even a creeping insect”
 (inclusive) to the end, the following :—
@@ -21086,9 +19657,6 @@ XIV.
 16.
 
 
-344 NIHONGI.
-
-
 5th year, Spring, 2nd month. The Emperor hunted on
 Mount Katsuraki. Suddenly there came a supernatural bird,
 in size like a sparrow, with a long tail which trailed upon the
@@ -21098,10 +19666,7 @@ from the herbage, a raging wild boar of which they had been in
 chase, and pursued the men. The huntsmen in great terror
 
 
-‘climbed up into trees. The Emperor commanded his attend-
-
-
-ants, saying :—‘‘ When a savage beast meets with man, it
+‘climbed up into trees. The Emperor commanded his attendants, saying :—‘‘ When a savage beast meets with man, it
 straightway halts. Encounter it with a shot from your bows,
 and then stab it.” The attendants were of an effeminate
 nature. They climbed up trees, and changed countenance,
@@ -21174,8 +19739,7 @@ Nyorang Choék-ke] had been put to death by burning,’ held
 counsel, saying :—‘‘ The ancient custom of sending tribute of
 women to be made Uneme is contrary to decorum, and is
 injurious to our country’s reputation. Henceforward it is
-unmeet that women be sent as tribute.” Accordingly he inti-
-mated to his younger brother, Lord Kun ®* [ive. Lord Kon-chi],
+unmeet that women be sent as tribute.” Accordingly he intimated to his younger brother, Lord Kun ®* [ive. Lord Kon-chi],
 saying :—‘‘ Do thou go to Japan,* and serve the Emperor.”
 Lord Kun answered and said :—‘‘ My Lord’s commands must
 not be disobeyed. I pray thee give me one of thy consorts,
@@ -21192,8 +19756,7 @@ Court.
 
 
 ' This passage, from “If now Your Majesty” down to “with us,” is
-copied, with a few trifling alterations, from a Chinese book. Motoéri dis-
-misses the whole incident of the Empress’s interference as a silly imitation
+copied, with a few trifling alterations, from a Chinese book. Motoéri dismisses the whole incident of the Empress’s interference as a silly imitation
 of Chinese models. He is doubtless right.
 
 2 See above, p. 338.
@@ -21210,15 +19773,11 @@ XIV. 7
 A.D 462.
 
 
-346 NIHONGI. |
-
-
 6th month, 1st day. The pregnant consort realized the
 words of Lord Kasyuni, and gave birth to a child in the island
 of Kahara in Tsukushi. So this child was given the name of
 Lord Shima.’ Upon this Lord Kun straightway took a ship
-and sent Lord Shima to his country. He became King Mu-
-nyéng. The people of Pékché call this island Chuto.’
+and sent Lord Shima to his country. He became King Munyéng. The people of Pékché call this island Chuto.’
 Autumn, 7th month. Lord Kun entered the capital. After
 this he had five children.
 ' The Pékché Shinsen says :—‘‘ In the year Kanoto ushi
@@ -21326,9 +19885,6 @@ name Takama, i.e. High Heaven.
 
 
 XIV. 20.
-
-
-348 NIHONGI.
 
 
 makers’ Be of Kibi, went home on some urgency. Sakitsuya
@@ -21439,8 +19995,7 @@ Aya of Kahachi.
 
 4 Corea, ® This must refer to Silla.
 
-° Imaki is the name of a place in Yoshino in Yamato. It means “ new-
-comer,” and the term may have been applied in the first place to this batch
+° Imaki is the name of a place in Yoshino in Yamato. It means “ newcomer,” and the term may have been applied in the first place to this batch
 of emigrants to distinguish them from previous ones.
 
 
@@ -21453,9 +20008,6 @@ XG 2 OF
 EIV 542 32
 
 
-350 NIHONGI.
-
-
 tising Silla, secretly sent a man to Pékché, to warn Otokimi,
 saying :—‘‘ Is thine own head so firm that thou canst chastise
 others? A report has reached me that the Emperor has
@@ -21465,10 +20017,8 @@ that calamity may reach my own person, it is well that I should
 wait with foot uplifted. Do thou, my son, come over and
 betake thyself to Pékché, and prevent it from communicating
 with Japan, while I will repair to and hold Imna, and will also
-hold no communication with Japan.” Otokimi’s wife Kusu-
-hime had profound patriotic sentiment; the sense of duty
-between lord and vassal was strong in her; her loyalty sur-
-passed the bright sun; her principles excelled the evergreen
+hold no communication with Japan.” Otokimi’s wife Kusuhime had profound patriotic sentiment; the sense of duty
+between lord and vassal was strong in her; her loyalty surpassed the bright sun; her principles excelled the evergreen
 fir. She abominated such treason, and having  stealthily
 killed her husband, secretly buried him in the chamber. Then
 she remained in the large island with Akawo, Ama no Atahe,
@@ -21481,9 +20031,7 @@ province of Yamato, where many of them died of disease. In
 consequence of this, the Emperor commanded Muruya,
 Ohotomo no Ohomuraji, to instruct Tsukami, Yamato no Aya‘
 no Atahe to remove Ko-kwi, of the Potters’ Be, Kyén-kwi, of
-the Saddlers’ Be, In-si-ra-ka, of the Painters’® Be, Chong-an-
-na, of the Brocade-weavers’ Be, and Myo-an-na, the Inter-
-preter, all belonging to the New Aya,° to other residences
+the Saddlers’ Be, In-si-ra-ka, of the Painters’® Be, Chong-anna, of the Brocade-weavers’ Be, and Myo-an-na, the Interpreter, all belonging to the New Aya,° to other residences
 at the following three places, viz., Upper Momohara, Lower
 Momohara, and Magami no Hara.
 
@@ -21518,9 +20066,7 @@ Haka-toko, Hinokuma no Tami-tsukahi, were sent to the
 Country of Wu.
 
 From the accession of the Emperor up to this year eight
-years had now passed, during which the Land of Silla was refrac-
-tory and given to vain talk, and did not send presents. There-
-fore they feared the intentions of the Central Land,’ and
+years had now passed, during which the Land of Silla was refractory and given to vain talk, and did not send presents. Therefore they feared the intentions of the Central Land,’ and
 cemented friendship with Kory6. Consequently the King of
 Koryo sent one hundred picked soldiers to guard Silla. After
 a while, one of these Koryo soldiers returned to his own
@@ -21537,13 +20083,10 @@ the people to kill the cocks kept in their houses. The people
 knew his meaning, and killed all the men of Kory6? resident in
 the country. Only one Koryo man was left, who seized an
 opportunity to effect his escape and flee to his own country,
-when he told the whole story. The king of Koryé accord-
-ingly raised an army and encamped by the city of Chhyuk-
-chong-nyu. [One book says the city of Tokushtki.| At length
+when he told the whole story. The king of Koryé accordingly raised an army and encamped by the city of Chhyukchong-nyu. [One book says the city of Tokushtki.| At length
 they made music, with song and dance. Hereupon the King
 of Silla, hearing in the night the Koryé army singing and
-dancing on all sides, became aware that the enemy had occu-
-pied the whole land of Silla. So he sent a man to the King of
+dancing on all sides, became aware that the enemy had occupied the whole land of Silla. So he sent a man to the King of
 Imna, saying :—‘“‘ The King of Koryé has attacked our country.
 At this present time, like the fringes sewn on a flag,* the condi-
 
@@ -21566,9 +20109,6 @@ XIV. 24.
 ELVA 2c.
 
 
-352 NIHONGI.
-
-
 tion of the land is more precarious than that of a pile of eggs.
 The thread of life is short, and may not at all be reckoned. I
 humbly beg that the Japanese Authorities * will assist me with
@@ -21587,8 +20127,7 @@ days they and the Kory6 men kept watch on one another.
 When night came on they pierced a steep place, and made a
 hollow way, along which they passed all the baggage wagons
 and prepared an ambush. At dawn the Koryé men thought
-to themselves :—‘‘ Kashihade no Omi and the others are steal-
-ing away.” Sothey came in pursuit with their whole army.
+to themselves :—‘‘ Kashihade no Omi and the others are stealing away.” Sothey came in pursuit with their whole army.
 Then the troops in ambush, both horse and foot, were let go,
 and taking them from both sides, put them to a great rout. It
 was from this that the enmity between the two countries sprang.
@@ -21616,8 +20155,7 @@ of Silla was Wa.
 3 It is difficult to say how much truth there is in this Corean episode. The
 “Tongkam” lends no corroboration. On the contrary the only notices of
 Japan which it contains about this time relate to Japanese descents on the
-Silla Coast. One is recorded in 459, one in 463, and one in 476. No un-
-usual enmity between Silla and Koryo at this time is mentioned in the
+Silla Coast. One is recorded in 459, one in 463, and one in 476. No unusual enmity between Silla and Koryo at this time is mentioned in the
 
 
 YURIAKU. 353
@@ -21629,10 +20167,7 @@ Deity of Munagata.?» Kataby and the Uneme, having arrived
 at the altar-place,* were about to perform the rites, when
 Katabu debauched the Uneme. When the Emperor heard
 this, he said :—“ When we sacrifice to the Gods and invoke
-from them blessings, should we not be watchful over our con-
-
-
-duct ?”. So he sent Naniha no Hidaka no Kishi to put him to
+from them blessings, should we not be watchful over our conduct ?”. So he sent Naniha no Hidaka no Kishi to put him to
 
 
 death. But Katabu straightway took to flight, and was not to
@@ -21649,8 +20184,7 @@ Ohotomo no Katari *no Muraji, and Wokahi no Sukune, saying :
 —“* Silla occupies the Western Land : age after age he has done
 us homage: he did not neglect visits of ceremony : his payment
 of tribute was duly discharged. But since We have come to rule
-the Empire, he has betaken himself beyond Tsushima, and con-
-cealed his traces outside of Chamna. He prevents Koryo from
+the Empire, he has betaken himself beyond Tsushima, and concealed his traces outside of Chamna. He prevents Koryo from
 sending tribute, he devours the walled cities of Pékché. Nay,
 more—his missions of ceremony to this court have been
 neglected and his tribute remains unpaid. With the savage
@@ -21686,13 +20220,10 @@ A.D. 465.
 PINE 20.
 
 
-> GING
+) GING
 
 
 ENE 2 Ss
-
-
-354 NIHONGI.
 
 
 heart of the wolf he flies away when satiated, and sticks fast
@@ -21701,8 +20232,7 @@ Take a royal army and chastise him. Let the punishment of
 Heaven be reverently executed.” .
 
 Hereupon Ki no Woyumi no Sukune laid a complaint before
-the Emperor through Ohotomo no Muruya no Ohomuraji, say-
-ing :—‘‘ Thy servant, although feeble and incompetent, will
+the Emperor through Ohotomo no Muruya no Ohomuraji, saying :—‘‘ Thy servant, although feeble and incompetent, will
 respectfully obey the Emperor’s orders. But now thy servant’s
 wife has departed this life, and there is nobody to take care of _
 thy servant. Do Thou, my Lord, I beseech Thee, represent
@@ -21717,8 +20247,7 @@ with a shove to his axle.
 Ki no Woyumi no Sukune and the rest accordingly entered
 Silla, butchering as they went the districts along their way.
 The King of Silla heard by night on all. sides the drums of the
-Government army, and becoming aware that they had com-
-pletely conquered the land of Tok,’ fled in confusion with several
+Government army, and becoming aware that they had completely conquered the land of Tok,’ fled in confusion with several
 hundred cavalry. Thereby ensued a great defeat. Woyumi
 no Sukune pursued and slew the enemy’s general in the midst
 of his army. The whole land of Tok was reduced ta order, but
@@ -21789,8 +20318,7 @@ the way, and returned back without having reached the Palace
 of the King of Silla.
 
 Hereupon the Uneme, Ohomi, following the dead body of
-Woyumi no Sukune, arrived in Japan. She at length com-
-plained to Ohotomo no Muruya no Ohomuraji, saying :—
+Woyumi no Sukune, arrived in Japan. She at length complained to Ohotomo no Muruya no Ohomuraji, saying :—
 “Thy handmaiden knows not where to bury him. I beseech
 thee let a good place be selected by. divination.” The Oho-
 
@@ -21805,8 +20333,7 @@ ISIN S03
 stG NIHONGI.
 
 
-muraji accordingly reported to the Emperor, who gave com-
-mand to the Ohomuraji, saying :—‘‘ The Commander-in-chief,
+muraji accordingly reported to the Emperor, who gave command to the Ohomuraji, saying :—‘‘ The Commander-in-chief,
 Ki no Woyumi no. Sukune, tossing his head like a dragon,
 and glaring like a tiger, surveying with extensive view the eight
 cords,’ overwhelmed the rebellious, and dashed against the
@@ -21814,12 +20341,9 @@ four seas.” So his body was worn out by ten thousand ri,’ and
 his life succumbed in the three Han. To show Our compassion,
 let there be appointed officials to conduct his funeral. Thou, my
 Lord Ohotomo, art of the same province and a near neighbour
-of the Lords of Ki, sothat thy connection with him is of old stand-
-ing.’”’ Hereupon the Ohomuraji, having received the Emperor’s
-commands, sent Wotori Hanishi* no Muraji to construct a tumu-
-lus at the village of Tamuwa, and bury him there. Upon this
-Ohomi, unable to contain herself for pleasure, sent to the Oho-
-muraji six Corean slaves named.Muro, Te-maro, Oto-maro,
+of the Lords of Ki, sothat thy connection with him is of old standing.’”’ Hereupon the Ohomuraji, having received the Emperor’s
+commands, sent Wotori Hanishi* no Muraji to construct a tumulus at the village of Tamuwa, and bury him there. Upon this
+Ohomi, unable to contain herself for pleasure, sent to the Ohomuraji six Corean slaves named.Muro, Te-maro, Oto-maro,
 Mi-kura, Wogura and Hari.° They are the Yake-bito® Be of
 the village of Kashimada in hither Kibi. Wokahi no Sukune
 came specially in attendance on Ki no Woyumi no Sukune’s
@@ -21842,8 +20366,7 @@ bombast is copied from a Chinese book.
 3 i.e, by distant campaigning.
 
 4 The Hanishi were the clay-workers whose office it was to ae the clay
-images which were set up round the tombs of the Emperors, His appoint-
-ment was therefore an appropriate one. But although the office.and the
+images which were set up round the tombs of the Emperors, His appointment was therefore an appropriate one. But although the office.and the
 title sometimes coincided, as in this case, they had often nothing to do with
 each other. A few pages back we had a Katari no Muraji (Chief of the
 Reciters) and a Kashihade no Omi (Lord Steward) in command of troops in
@@ -21895,12 +20418,8 @@ A.D. 466.
 el Wir ae
 
 
-358 NIHONGI.
-
-
 a dragon, with splendid high springing action, darting off like a
-wild goose.' His strange form was of lofty mould; his remark-
-able aspect was of extreme distinction. Hiaktson approached
+wild goose.' His strange form was of lofty mould; his remarkable aspect was of extreme distinction. Hiaktson approached
 and looked at him. In his heart he wished to possess him, so
 he whipped up the piebald horse which he rode and brought
 him alongside of the other, head by head and bit by bit. But
@@ -21909,8 +20428,7 @@ speedily vanished in the distance. Hereupon the piebald horse
 lagged behind, and, slow of foot, could not overtake the other.
 But the rider of the courser, knowing Hiaktison’s wish, stopped
 and exchanged horses with him, upon which they took leave of
-each otherand separated. Hiaktison, greatly rejoiced at obtain-
-ing such a steed, hastened home and placed him in the stable,
+each otherand separated. Hiaktison, greatly rejoiced at obtaining such a steed, hastened home and placed him in the stable,
 where he took off his saddle, foddered him, and went to sleep.
 The next morning the red courser had become changed into a
 horse of clay. Hiakttson, wondering at this in his heart, went
@@ -21920,8 +20438,7 @@ and left in its stead the clay horse which he had received in
 exchange.”
 
 roth year, Autumn, gth month, 4th day. Awo, Musa no
-Sukuri, and the others arrived in Tsukushi with two geese pre-
-sented by Wu. These geese were bitten by Minuma no Kimi’s
+Sukuri, and the others arrived in Tsukushi with two geese presented by Wu. These geese were bitten by Minuma no Kimi’s
 dog and died.
 
 Another book says :—‘“‘ These geese were bitten by a dog
@@ -21956,8 +20473,7 @@ were therefore given to establish toneri' of Kahase.
 
 Autumn, 7th month. There was a refugee from Pékché
 who gave his name as Kwisin. It was also stated. that Kwisin
-was a man of the Land of Wu. The Ihare no Kure’ no Koto-
-biki and the Sakate no Yakata-maro are his descendants.
+was a man of the Land of Wu. The Ihare no Kure’ no Kotobiki and the Sakate no Yakata-maro are his descendants.
 
 Winter, roth month. A bird of the Bird-department was
 
@@ -22016,15 +20532,11 @@ XLV. 35.
 A.D. 469.
 
 
-360 NIHONGI.
-
-
 to the Emperor. The Emperor forthwith suspected that Mita
 had debauched this Uneme, and conceiving to himself the
 thought of executing him, charged the Mononobe with this
 duty. At this time Hada no Sake’ no Kimi was in attendance.
-He wished by the voice of his lute to make the Emperor under-
-stand, so placing his lute crosswise, and playing upon it, he
+He wished by the voice of his lute to make the Emperor understand, so placing his lute crosswise, and playing upon it, he
 said :—
 
 Be there for five hundred years
@@ -22057,8 +20569,7 @@ The poor carpenter ! ?
 Hereupon the Emperor understood the voice of the lute, and
 pardoned the offence.
 
-13th year, Spring, 3rd month. Hadane no Mikoto, great-
-great-grandson of Saho-hiko,* secretly seduced the Uneme
+13th year, Spring, 3rd month. Hadane no Mikoto, greatgreat-grandson of Saho-hiko,* secretly seduced the Uneme
 Yamanobe no Koshimako. When this came to the Emperor’s
 ears, he gave Hadane no Mikoto in charge to Mononobe no Me
 no Ohomuraji, and made him call him to account for it.
@@ -22100,8 +20611,7 @@ no Me no Ohomuraji. .
 Autumn, 8th month. There was a man of Miwikuma in the
 province of Harima called Ayashi no Womaro, who was strong
 of body and stout of heart, and did wanton outrage, committing
-robberies on the highways, and preventing traffic. He in-
-tercepted the boats of merchants and plundered them every
+robberies on the highways, and preventing traffic. He intercepted the boats of merchants and plundered them every
 one. He had also disobeyed the laws of the country by
 neglecting to pay his taxes.
 
@@ -22119,8 +20629,7 @@ Be, planed timber with an axe,* using a stone as ruler. All
 day long he planed, and never spoiled the edge by mistake.
 The Emperor visited the place, and, wondering, asked of him,
 saying :—“‘ Dost thou never make a mistake and strike the
-stone?” Mane answered and said :—‘‘ I never make a mis-
-take!’ Then the Emperor called together the Uneme, and
+stone?” Mane answered and said :—‘‘ I never make a mistake!’ Then the Emperor called together the Uneme, and
 made them strip off their clothing and wrestle in open view
 with only their waistcloths on. Hereupon Mane ceased for a
 while, and looked up at them, and then went on with his planing.
@@ -22129,7 +20638,7 @@ But unawares he made a slip of the hand, and spoilt the edge
 
 _1 Tachibana moto means “ orange-stem, or orange-bottom,” and possibly
 is to be taken here in this sense, and not as the name of a place.
-> Here is the magician (world-wide) who can change himself into a beast,
+) Here is the magician (world-wide) who can change himself into a beast,
 but on being wounded or killed is obliged to assume his natural form.
 3 The plane was apparently unknown.
 
@@ -22144,9 +20653,6 @@ XIV. 38.
 
 
 A.D. 470.
-
-
-362 NIHONGI.
 
 
 of his tool. The Emperor accordingly rebuked him, saying :—
@@ -22199,8 +20705,7 @@ Sukuri, and the others, in company with envoys from the Land
 " The ink-cord is a contrivance for ruling lines on wood, used to this day
 by Japanese carpenters. A cord is passed through a pot of ink and then
 drawn taut, and let go so as to strike the wood. A chalked line is some;
-times used in the same way in this country. See illustration in “ Trans-
-actions of Japan Society,” Vol. II. p. 217. The metre of this poem is
+times used in the same way in this country. See illustration in “ Transactions of Japan Society,” Vol. II. p. 217. The metre of this poem is
 irregular, being a tanka with an additional line of seven syllables between
 the second and third.
 
@@ -22233,8 +20738,7 @@ another, saying :—‘‘ Who will be the best man to keep them
 company at table ?”’ The ministers all said :—‘‘ Neno Omi will
 be the proper person.” The Emperor accordingly gave command
 to Ne no Omi, and appointed him to keep them company in
-eating. Ultimately the men of Wu were entertained at Taka-
-nukuhara in Iso no Kami.* Now a Toneri was sent secretly
+eating. Ultimately the men of Wu were entertained at Takanukuhara in Iso no Kami.* Now a Toneri was sent secretly
 to observe the ornamentation. The Toneri reported to the
 Emperor, saying :—‘‘ The jewel head-dress worn by Ne no Omi
 is very noble, and extremely lovely.’’ Moreover, everybody
@@ -22269,9 +20773,6 @@ CIV AO:
 A.D. 471.
 
 
-364 NIHONGI.
-
-
 couch, answered him, saying:—‘‘ This jewel head-dress was
 presented on behalf of thy handmaiden by her elder brother,
 Prince Oho-kusaka, when, in obedience to the orders of the
@@ -22285,8 +20786,7 @@ fault.” The Emperor commanded, saying :—‘‘ From this time
 forward let Ne no Omi, his children, his descendants, and his
 eighty connections have no concern with the order of Ministers
 of State.”” He was about to put Ne no Omi to death, but he
-ran away and hid himself. Arriving at Hine, he made a rice-
-castle, in which he stood on the defensive, but was ultimately
+ran away and hid himself. Arriving at Hine, he made a ricecastle, in which he stood on the defensive, but was ultimately
 slain by the Government forces. The Emperor ordered the
 officials to divide his descendants into two parts, one of which
 was constituted common people of the Oho-kusaka Be, and
@@ -22307,8 +20807,7 @@ Omi. From this they had their beginning.
 
 15th year. The Hada House* was dispersed. The Omi
 and Muraji each enforced their services at pleasure, and would
-not allow the Hada no Miyakko to control them. Con-
-sequently Sake, Hada no Miyakko, made a great grievance of
+not allow the Hada no Miyakko to control them. Consequently Sake, Hada no Miyakko, made a great grievance of
 
 
 1 See above, p. 330. * See above, p. 331. 3 Wo means little.
@@ -22399,16 +20898,12 @@ AD. 475.
 A.D. 476.
 
 
-366 NIHONGI.
-
-
 is a match for the hand of Asahi no Iratsuko? The arrow
 which he lets fly will pierce two thicknesses of armour.” The
 Government troops were all afraid, and Ushiro no Sukune did
 not dare to advance to the combat. They awaited each other
 for two days and one night. Hereupon the Mononobe Me no
-Muraji armed himself with his sword, and making Oho-wono-
-te,’ of the Mononobe of Kiku in Tsukushi, take his shield and
+Muraji armed himself with his sword, and making Oho-wonote,’ of the Mononobe of Kiku in Tsukushi, take his shield and
 call out in the midst of the army, advanced along with him.
 Asahi no Iratsuko saw them from afar off, and shot an arrow
 through Oho-wono-te’s shield and two-fold armour which at
@@ -22419,8 +20914,7 @@ and slew him. Accordingly Ushiro no Sukune, beside himself
 with shame, for seven days did not make his report to the
 Emperor. But the Emperor inquired of his Ministers in
 attendance, saying :—‘‘ Why does not Ushiro no Sukune make
-his report?” Now there was a man named Sanuki no Ta-
-mushi Wake who came forward and addressed the Emperor,
+his report?” Now there was a man named Sanuki no Tamushi Wake who came forward and addressed the Emperor,
 saying :—‘‘ Ushiro no Sukune is a coward. For the space of
 two days and one night he was unable to seize Asahi no
 Iratsuko. Then the Mononobe, Me no Muraji, taking with
@@ -22441,7 +20935,7 @@ Their victuals became exhausted, and deep was hereupon the
 
 ' Great-axe-hand.
 
-> The village of Wina-Be, in Ise, with its inhabitants.
+) The village of Wina-Be, in Ise, with its inhabitants.
 
 3 In memory of the Emperor Anaho.
 
@@ -22456,8 +20950,7 @@ YURIAKU. 36.7
 
 
 weeping and lamentation. Upon this the Koryé generals
-addressed their King, saying:—‘‘ There is something extra-
-ordinary in the temper of Pékché. Whenever thy servants
+addressed their King, saying:—‘‘ There is something extraordinary in the temper of Pékché. Whenever thy servants
 observe them, they seem unaware of their own ruin. It
 is to be feared that they will again spread forth and revive.
 We pray that they may be at length got rid of.” The King
@@ -22513,9 +21006,6 @@ A.D. 477.
 A.D. 478.
 
 
-368 NIHONGI.
-
-
 22nd year, Spring, Ist month. Prince Shiraga was made
 Heir Apparent.
 
@@ -22555,8 +21045,7 @@ the coast of China. This happy group was the paradise of the Genii, who
 there maintained a sempiternal vigour by quaffing the waters of the fountain
 of life which flowed for them in a perpetual stream. The pine, the plum,
 the peach-tree, and the sacred fungus grow for ever upon its rocky shores ;
-and the ancient crane builds its nest upon the giant limbs of its never-
-dying pine.” Catalogue of Japanese paintings in the British Museum,
+and the ancient crane builds its nest upon the giant limbs of its neverdying pine.” Catalogue of Japanese paintings in the British Museum,
 Anderson, p. 224. See also Dickins’ “ Taketori-Monogatari,” in the “ R.A.S.
 Transactions.” The “ Manyoshiu,” an ancient collection of Japanese poems,
 contains a beautiful version of this legend, which has been rendered into
@@ -22589,8 +21078,7 @@ Tong-syéng."
 This year, tribute was sent from Pékché in excess of the
 regular amount.
 
-Tsukushi no Achi no Omi and Umakahi no Omi, in com-
-mand of a naval force, attacked Koryé.
+Tsukushi no Achi no Omi and Umakahi no Omi, in command of a naval force, attacked Koryé.
 
 Autumn, 7th month. The Emperor took to his sick-bed,
 and was ill at ease. By an Imperial decree he committed
@@ -22603,8 +21091,7 @@ pressed all their hands with sobs and lamentations, and died
 in the Great Hall, having left command to Ohotomo no
 Muruya no Ohomuraji and Yamato-Aya no Tsuka no Atahe,
 saying :—‘‘ At the present time, the world is one household:
-smoke and fire are 10,000 ri distant:* the people are well-
-ordered: the four barbarians are submissive. This is by the
+smoke and fire are 10,000 ri distant:* the people are wellordered: the four barbarians are submissive. This is by the
 will of Heaven, which desires to bestow peace throughout
 
 
@@ -22639,9 +21126,6 @@ XIV. 49
 
 
 XIV. 50.
-
-
-3270 NIHONGI.
 
 
 the land. Therefore with careful mind inciting myself, I have
@@ -22723,8 +21207,7 @@ against Silla, arrived at the province of Kibi, and passed by
 his house. Afterwards 500 Yemishi under his command,
 hearing of the Emperor’s death, spoke to one another,
 saying :—‘‘The Emperor who controls our country is dead.
-The opportunity should not be lost.’ So assembling them-
-selves into a band, they invaded the neighbouring districts.
+The opportunity should not be lost.’ So assembling themselves into a band, they invaded the neighbouring districts.
 Hereupon Oshiro came from his house, and meeting the
 Yemishi at Port Saba,’ fought with them, and shot at the
 Yemishi. But some skipped and others lay down, thereby
@@ -22755,9 +21238,6 @@ Bab 2
 
 
 EXSTAV Gat tre
-
-
-372 NIHONGI.
 
 
 Oshiro set up his bow, and taking it by the end, made a song,
@@ -22827,20 +21307,15 @@ DOV822
 pg
 
 
-374 NIHONGI.
-
-
 disaster. He exercised arbitrary authority, and squandered
-the official property. Hereupon Ohotomo no Muruya no Oho-
-muraji spake to Yamato no Aya no Tsuka no Atahe, saying :—
+the official property. Hereupon Ohotomo no Muruya no Ohomuraji spake to Yamato no Aya no Tsuka no Atahe, saying :—
 “The time has now come when the dying injunctions of the
 Emperor Ohohatsuse are to be fulfilled. It is meet that we
 should comply with them and do service to the Prince
 Imperial.” So they raised an armed force and besieged the
 Treasury. They blockaded it from without, and setting fire
 to it, roasted to death the Imperial Prince Hoshikaha. At
-this time Kibi no Waka-hime, the Imperial Prince Ihaki, Ani-
-kimi,' his elder brother by a different father, and Ki no Okazaki
+this time Kibi no Waka-hime, the Imperial Prince Ihaki, Anikimi,' his elder brother by a different father, and Ki no Okazaki
 no Kume’* were roasted to death along with him. Then
 
 
@@ -22856,8 +21331,7 @@ rebellious towards the Prince Imperial. He prays that a
 generous mercy be accorded him, and a human life spared.
 Accordingly Ayahiko represented this fully to Ohotomo, the
 Ohomuraji, on his behalf, and he was not entered in the rank
-of those who were executed. Wone thereupon made repre-
-sentation to the Ohomuraji through Ayahiko, saying :—‘* My
+of those who were executed. Wone thereupon made representation to the Ohomuraji through Ayahiko, saying :—‘* My
 Lord Ohotomo the Ohomuraji, owing to thy great mercy
 bestowed on me, my life, which was in imminent danger, has
 been continued and lengthened so that I can see the light of
@@ -22920,7 +21394,7 @@ had no children, sent the Ohomuraji, Ohotomo no Muruya, to
 the provinces, and established the Be of Shiraga no Toneri,’
 the Be of Shiraga no Kashihade,* and the Be of Shiraga no
 Yugehi,’ in the hope of leaving a trace which might be seen of
-posterity. >
+posterity. )
 
 Winter, r1th month. For the purpose of the offerings of
 the feast of first-fruits, Wodate, of the Be of Kume of Iyo,
@@ -22950,9 +21424,6 @@ A.D. 482.
 
 
 XV. 6.
-
-
-370 NIHONGI.
 
 
 of the Oshinomi Be and Obito of the granary of Shijimi in the
@@ -22991,8 +21462,7 @@ clear that she had a husband at this time. |
 gth month, 2nd day. The Omi and Muraji were sent on
 circuit to inspect the manners and customs.
 
-Winter, roth month, 4th day. An edict was made pro-
-hibiting dogs, horses, and playthings from being offered to the
+Winter, roth month, 4th day. An edict was made prohibiting dogs, horses, and playthings from being offered to the
 Emperor.*
 
 11th month, 18th day. The Omi and Muraji were feasted in
@@ -23076,9 +21546,6 @@ OV ae
 GV eS
 
 
-378 NIHONGI. °
-
-
 '
 
 In the ‘Genealogy’ it is said:—‘‘ The Imperial Prince
@@ -23098,8 +21565,7 @@ Hada no Sukune.”
 The Emperor, having lived for a long time on the borders,
 was thoroughly acquainted with the miseries of the people, and
 whenever he saw them oppressed, he felt as if his own four
-members were plunged in a ditch. He dispensed virtuous in-
-fluence, he bestowed blessings ; the regulations of government
+members were plunged in a ditch. He dispensed virtuous influence, he bestowed blessings ; the regulations of government
 were everywhere enforced ; charity was shown to the poor, and
 the husbandless were supported. The Empire rendered him
 cordial allegiance. |
@@ -23128,7 +21594,7 @@ to turn his steps towards the district of Akashi in the province
 of Harima. There they both changed their names to Tamba
 
 
-? i.e. Emperor Woke’s father. > See above, p. 336.
+? i.e. Emperor Woke’s father. ) See above, p. 336.
 3 Woke is meant.
 
 
@@ -23137,8 +21603,7 @@ KENZO. 379
 
 no Waraha,' and entered the service of the Obito of the Shijimi
 granafies.
-The Obito of the Shijimi granaries was Hosome Oshi-
-nomi Be no Miyakko.
+The Obito of the Shijimi granaries was Hosome Oshinomi Be no Miyakko.
 Adahiko at this time did not leave them, but remained constant
 to his duty as their vassal.
 
@@ -23158,10 +21623,8 @@ Hereupon the Emperor spake to his elder brother, Prince
 Ohoke, saying:—‘‘ Many years have passed since we fled
 hither to escape ruin. It belongs to this very evening to reveal
 our names and to disclose our high rank.” Prince Ohoke
-exclaimed with pity :—‘‘ To make such an announcement our-
-selves would be fatal. Which of us could keep safe his person
-and avoid danger?” The Emperor said :—‘‘ We, the grand-
-sons of the Emperor Izahowake, are a man’s drudges, and feed
+exclaimed with pity :—‘‘ To make such an announcement ourselves would be fatal. Which of us could keep safe his person
+and avoid danger?” The Emperor said :—‘‘ We, the grandsons of the Emperor Izahowake, are a man’s drudges, and feed
 his horses and kine. What better can we do than make known
 our names and be slain?” At length he and Prince Ohoke fell
 into each other’s arms and wept, being unable to contain their
@@ -23171,10 +21634,8 @@ and is therefore fit to make this disclosure?” The Emperor
 refused firmly, saying :—‘‘ Thy servant has no ability. How
 can he make so bold as to display virtuous action?” Prince
 Ohoke said:—‘‘ There are here none to excel my younger
-brother in ability and wisdom.” And in this way they mutu-
-ally held back each in favour of the other for two or three
-times. It was ultimately arranged, with the Emperor’s con-
-sent, that he should make the announcement. Together they
+brother in ability and wisdom.” And in this way they mutually held back each in favour of the other for two or three
+times. It was ultimately arranged, with the Emperor’s consent, that he should make the announcement. Together they
 went to the outside of the muro and sat down in the lowest
 
 
@@ -23191,9 +21652,6 @@ XV.
 
 
 Io.
-
-
-380 NIHONGI,
 
 
 place. The Obito of the granary ordered them io sit beside the
@@ -23236,8 +21694,7 @@ These are the fairness of the august heart of the master of the house :
 
 ’ The Dolichos roots present a difficulty. They are better known for
 yielding a starchy food like arrowroot than as material for house-building.,
-The stems are mentioned below. Another objection is that their introduc-
-tion here spoils the symmetry of the composition, which though not exactly
+The stems are mentioned below. Another objection is that their introduction here spoils the symmetry of the composition, which though not exactly
 poetry, is something closely verging on it. I would prefer to omit the words
 “ Katsura ne tsuki-tatsuru ” of the original, so that the first two lines would
 become only one, viz.—
@@ -23314,8 +21771,7 @@ without native authority.
 
 8 Animal dances, in which the performer represented a deer, wild boar,
 butterfly, bird, etc., were common in ancient Japan. The Shishi mai, or
-lion-dance, danced by two boys, one of whom wears a grotesque mask sup-
-posed to represent a lion, and the other supports the body, made of cotton
+lion-dance, danced by two boys, one of whom wears a grotesque mask supposed to represent a lion, and the other supports the body, made of cotton
 stuff, may still be seen in the streets. rh
 
 * The word for “revel” is uchi-ageS which means literally to strike up.
@@ -23386,8 +21842,7 @@ The august children are we.*
 
 ing-mat” (a rice straw mat), a conventional epithet or makura-kotoba of
 kaha, skin, perhaps because the Japanese used skins for sleeping on at one
-time. It has, properly speaking, nothing to do with kaha, river, but the un-
-expected conjunction is witty—from a Japanese point of view. The allusion
+time. It has, properly speaking, nothing to do with kaha, river, but the unexpected conjunction is witty—from a Japanese point of view. The allusion
 to the position of the two Princes is plain.
 
 ’ Chihara; or as it may be read Ashihara, means reed plain, a poetical term’
@@ -23410,8 +21865,7 @@ line between poetry and prose.
 
 
 Wodate was greatly astonished. He left his seat, and, vexed
-with himself," made repeated obeisance to them. He under-
-took to provide for them, and brought his people to prostrate
+with himself," made repeated obeisance to them. He undertook to provide for them, and brought his people to prostrate
 themselves reverently. Then he levied all the inhabitants of
 that district, and in a few days built a palace, in which the
 Princes were temporarily lodged. Going up to the capital, he
@@ -23469,15 +21923,11 @@ rei
 XV. I4.
 
 
-384 NIHONGI.
-
-
 12th month. There was a great assembly of the officials, at
 which the Prince Imperial Ohoke took the Imperial Seal, and
 placing it on the seat occupied by the Emperor, did him
 repeated obeisance. He then took his place among the
-Ministers, and said :—‘‘ This rank of Emperor should be occu-
-pied by a man possessed of merit. The disclosure of our rank,
+Ministers, and said :—‘‘ This rank of Emperor should be occupied by a man possessed of merit. The disclosure of our rank,
 and our being sent for by the late Emperor, is all a result of
 the policy of my younger brother. I resign the Empire in his
 favour.” The Emperor, on the other hand, resigned it on the
@@ -23577,12 +22027,6 @@ OVEn Oe
 XV.
 
 
-1
-
-
-356 NIHONGI.
-
-
 to you by the will of Heaven, and has been ceded to you by
 the Prince Imperial. Your wisdom is abundant, and your good
 fortune conspicuous. While young you were diligent, humble,
@@ -23651,8 +22095,7 @@ from one another. Then there appeared the nurse of the
 Imperial Prince Ihazaka, who made representation to the
 Emperor, saying :—‘‘ The upper teeth of Nakachiko had fallen
 out, so that by this they can be distinguished.” But although
-they were able, in accordance with the nurse’s words, to dis-
-tinguish the skulls, they never succeeded in separating the
+they were able, in accordance with the nurse’s words, to distinguish the skulls, they never succeeded in separating the
 bones of the four members. Accordingly a pair of misasagi
 were erected on the moor of Kaya resembling each other, so
 that they seemed but one. The funeral rites also were alike.
@@ -23700,9 +22143,6 @@ XGVE
 
 
 10.
-
-
-388 NIHONGI.
 
 
 3rd month, 1st day of the Serpent ' (the 2nd). The Emperor
@@ -23758,13 +22198,11 @@ the occupations of leather-dressers, shoemakers, buriers of dead animals,
 
 KENZO. 389
 
-But Yamato-bukuro no Sukune, by reason of the good ser-
-vices of his younger sister, Okime, was granted his original
+But Yamato-bukuro no Sukune, by reason of the good services of his younger sister, Okime, was granted his original
 title, namely, the House of the Kimi of Mount Sasaki.
 
 6th month. The Emperor visited the Hall of Avoidance
-of the heat, and had music there. The Ministers were as-
-sembled, and a banquet was prepared for them.
+of the heat, and had music there. The Ministers were assembled, and a banquet was prepared for them.
 
 This year was the year Kinoto Ushi (2nd) of the Cycle.
 
@@ -23821,9 +22259,6 @@ them.
 DEV. 220:
 
 
-390 NIHONGI.
-
-
 to crush his bones, and fling them broadcast. Would it not
 be a filial act to take revenge in this way?’ The Prince
 Imperial Ohoke could hardly answer for sighing and sobbing.
@@ -23848,17 +22283,15 @@ without virtue there is no requital.’’ If there is cause for
 gratitude, and no return is made, this is profoundly prejudicial
 to good morals. Your Majesty feasts the Country, and his.
 virtuous conduct is felt far and wide over the Empire. But
-if he pulls down the misasagi, and shows himself in an oppo-
-site light to Court and Country, Ohoke fears that it will become
+if he pulls down the misasagi, and shows himself in an opposite light to Court and Country, Ohoke fears that it will become
 impossible to govern the land and to bring up the people as
 his children. This is a second reason why it should not be
-destroyed.”” The Emperor said, ‘‘It is well,’ and counter-
-manded the work.’
+destroyed.”” The Emperor said, ‘‘It is well,’ and countermanded the work.’
 
 
 1 Virtue is in Chinese active, not merely the negation of vice.
 
-> The “ Kojiki” tells a somewhat different story. Vide Ch. K., p. 336. This.
+) The “ Kojiki” tells a somewhat different story. Vide Ch. K., p. 336. This.
 misasagi (which I have visited) is at the present day a round single mound,
 encircled by a moat, but there are sufficient remains of the second mound
 and of the original moat to show that it was once a double-topped misasagi
@@ -23913,8 +22346,7 @@ addressed him, saying :—‘‘ My ancestor Taka-mimusubi had
 the merit in conjunction (with other Deities) of creating
 Heaven and Earth. Let him be worshipped by dedicating to
 him people and land. I am the Moon-God, and I shall be
-pleased if an offering is made according to his desire.” Koto-
-shiro accordingly returned to the capital, and reported these
+pleased if an offering is made according to his desire.” Kotoshiro accordingly returned to the capital, and reported these
 
 
 1 Lit., The Mulberry and Euphorbia trees. There is an allusion to a
@@ -23939,9 +22371,6 @@ XN Gree:
 RV ich.
 
 
-392 NIHONGI.
-
-
 things fully to the Emperor. The Utaarasu rice-fields were
 dedicated to the God, and Oshimi no Sukune, the ancestor of
 the Agatanushi of Yuki, was appointed to attend upon his
@@ -23957,8 +22386,7 @@ saying :—‘‘ Let the Ihare rice-fields be dedicated to my
 ancestor Taka-mimusubi.” Kotoshiro accordingly reported
 the matter to the Emperor, and in compliance with the
 Goddess’s request, fourteen ché' of rice-land were dedicated to
-him. The Atahe of Shimo no agata in Tsushima was ap-
-pointed to attend upon his shrine.
+him. The Atahe of Shimo no agata in Tsushima was appointed to attend upon his shrine.
 
 13th day. The Saki-kusa Be? was established.
 
@@ -23972,8 +22400,7 @@ laid -by Cha-ro-na-kwi and Tha-kap-syo of Imna he slew
 Mak-ni-ke, the heir to the throne of Pekché, at Irin.2 [This is
 a place in Kory6.] He built the castle of Té-san,‘ and then
 stood on the defensive as regards the Eastern province, cutting
-off the harbour by which supplies were transported, and caus-
-ing the army to suffer from famine. The King of Pekché was
+off the harbour by which supplies were transported, and causing the army to suffer from famine. The King of Pekché was
 greatly enraged, and despatched General Ko-ni-ké and an
 officer of the military store department, named Mak-ko-ké, in
 command of troops to Te-san, to lay siege to it. Upon this,
@@ -23982,8 +22409,7 @@ Ohiha no Sukune moved forward his army, and attacked them
 
 1 See below, XXV; 18.
 
-? Saki-kusa is literally the herb of happiness. It is also called man-nen-
-gusa, or the ‘‘ herb of 10,000 years.” It was said to grow in the Court of the
+? Saki-kusa is literally the herb of happiness. It is also called man-nengusa, or the ‘‘ herb of 10,000 years.” It was said to grow in the Court of the
 Temple to the sovereign’s ancestors. The “Seishiroku” says :—“‘In the
 reign of the Emperor Kenzo, the officials were summoned to a banquet.
 At this time, a herb of three stems was growing in the courtyard of the
@@ -24000,9 +22426,7 @@ NINKEN. 308
 
 with continually growing valour. All that opposed him were
 put to the rout. But he was but one against a hundred.
-Suddenly his weapons ran short, and his power became ex-
-hausted. He saw that he could not bring matters to a con-
-clusion, and returned from Imna. Consequently the Land of
+Suddenly his weapons ran short, and his power became exhausted. He saw that he could not bring matters to a conclusion, and returned from Imna. Consequently the Land of
 Pekché slew Cha-ro-na-kwi, pep kap- ie and their people—
 more than three hundred men."
 
@@ -24018,8 +22442,7 @@ It is taken from an old manuscript.
 
 His designation was Shima no Iratsuko.* He was the elder
 brother by the same mother of the Emperor Woke. In his
-childhood he was intelligent, of quick parts and great attain-
-ments. When he grew to man’s estate, he was kind, indulgent
+childhood he was intelligent, of quick parts and great attainments. When he grew to man’s estate, he was kind, indulgent
 
 
 and gentle.
@@ -24058,9 +22481,6 @@ A.Ds 488.
 XV. 26;
 
 
-394 NIHONGI.
-
-
 district of Yosa in the province of Tamba. In the first year of
 
 
@@ -24069,22 +22489,18 @@ Yamabe no Muraji, Governor of Harima, went to the Capital
 and requested permission to go to fetch him. The Emperor
 Shiraga accordingly caused Wodate, provided with symbols of
 authority, and accompanied by his own personal attendants, to
-proceed to Akashi, and respectfully to go to meet him. UIti-
-mately, in the third year of his reign, Summer, the 4th month,
+proceed to Akashi, and respectfully to go to meet him. UItimately, in the third year of his reign, Summer, the 4th month,
 the Emperor Ohoke was appointed Prince Imperial.' In his
-fifth year, the Emperor Shiraga died, and the Emperor abdi-
-cated the Empire in favour of the Emperor Woke, becoming
+fifth year, the Emperor Shiraga died, and the Emperor abdicated the Empire in favour of the Emperor Woke, becoming
 Prince Imperial as before. In the third year of his reign,
 Summer, the 4th month, the Emperor Woke died.
 
 Ist year, Spring, Ist month, 5th day. The Prince Imperial
-assumed the Imperial rank in the Palace of Hirotaka in Isono-
-kami.
+assumed the Imperial rank in the Palace of Hirotaka in Isonokami.
 
 One book says:—‘‘ There were two palaces of the
 Emperor Ohoke, the first at Kahamura,? the second at
-Takano in Shijimi. The pillars of the Hall remain un-
-decayed until this day.”
+Takano in Shijimi. The pillars of the Hall remain undecayed until this day.”
 
 2nd month, 2nd day. His former consort, the Imperial
 Princess Kasuga no Oho-iratsume,® was appointed Empress. |
@@ -24094,9 +22510,7 @@ of the Emperor Oho-hatsuse by Woguna Kimi, daughter
 of Fukame, Wani no Omi.
 
 She at length bore to him one son and six daughters. The
-first was called the Imperial Princess Takahashi no Oho-
-iratsume ; the second was called the Imperial Princess Asat-
-suma; the third was called the Imperial Princess Tashiraga ;
+first was called the Imperial Princess Takahashi no Ohoiratsume ; the second was called the Imperial Princess Asatsuma; the third was called the Imperial Princess Tashiraga ;
 the fourth was called the Imperial Princess Kusuhi; the fifth
 was called the Imperial Princess Tachibana; the sixth was
 called the Emperor Wo-hatsuse no Waka-sazaki.. When he
@@ -24146,13 +22560,11 @@ Wono, fearful on account of her long-standing want of respect
 One authority says:—‘“‘In the time of the Emperor
 Woke, the Prince Imperial Ohoke was present at a
 banquet. He took upa melon to eat, but there was no
-knife. The Emperor Woke himself took a knife and com-
-manded his wife Wono to carry it and present it to the
+knife. The Emperor Woke himself took a knife and commanded his wife Wono to carry it and present it to the
 Prince Imperial. She came before him, and, in a standing
 position, laid the knife on the melon tray. Moreover,
 on the same day,'she poured out sake, and, in a standing
-position, gave it to the Prince Imperial to drink. In con-
-sequence of this disrespect, she feared to be put to death,
+position, gave it to the Prince Imperial to drink. In consequence of this disrespect, she feared to be put to death,
 and died by her own hand.”
 
 3rd year, Spring, 2nd month, 1st day. The Isonokami Be
@@ -24193,9 +22605,6 @@ XV. 28,
 
 
 XV.
-
-
-396 NIHONGI.
 
 
 Nakachiko of the Saheki Be is mentioned in the history
@@ -24243,8 +22652,7 @@ became husband and wife, and had a daughter named
 
 * Cf. the Biblical expression “ bowels of compassion.”
 
-4 By the clusters of the garlic bulbs in autumn she indicates the some-
-what complicated family relations described below.
+4 By the clusters of the garlic bulbs in autumn she indicates the somewhat complicated family relations described below.
 
 » Kara-fisher’s-field. * The (professional) weeping woman.
 
@@ -24266,8 +22674,7 @@ again to her second husband Yamaki, a man of Sumuchi,
 she bore Araki, so that Nakume and Araki were sister and
 brother by a different father. Consequently Nakume’s
 daughter Akitame called Araki’ her mother’s elder brother.
-Nakume having married Yamaki, bore Akitame. More-
-over, Yamaki having had illicit intercourse with Funame
+Nakume having married Yamaki, bore Akitame. Moreover, Yamaki having had illicit intercourse with Funame
 had by her Araki, so that Akitame and Araki were sister
 and brother by a different mother. Consequently Akitame
 called Araki her elder brother. In ancient times women
@@ -24280,12 +22687,10 @@ delivered to the Emperor the artizans Sunyuki and Nonyuki.*
 They were the ancestors of the Koryé tanners of the village
 of Nukada in the district of Yamabe in the province of
 Yamato.
-7th year, Spring, ist month, 3rd day. Wo-hatsuse Waka-
-sazaki no Mikoto was appointed Prince Imperial.
+7th year, Spring, ist month, 3rd day. Wo-hatsuse Wakasazaki no Mikoto was appointed Prince Imperial.
 8th year, Winter, roth month. The people said :—*“ At this
 time there is peace throughout the land; the officials fill their
-offices worthily. Everywhere within the seas there is a move-
-ment towards good feeling; the subjects pursue peacefully
+offices worthily. Everywhere within the seas there is a movement towards good feeling; the subjects pursue peacefully
 their avocations.” This year the five grains were produced in
 abundance, the silkworm and wheat afforded a rich harvest.
 
@@ -24314,17 +22719,13 @@ A.D. 495.
 A.D. 498.
 
 
-398 NIHONGI.
-
-
 Far and near there was purity and calm, and the population
 multiplied.
 
 r1th year, Autumn, 8th month, 8th day. The Emperor
 died in the Chief Bedchamber.
 
-Winter, roth month, 5th day. He was buried in the misa-
-sagi at the foot of the Hanifu acclivity.
+Winter, roth month, 5th day. He was buried in the misasagi at the foot of the Hanifu acclivity.
 
 
 BOG el
@@ -24339,8 +22740,7 @@ THE EMPEROR WOHATSUSE WAKA-SAZAKI.'
 THE Emperor Wohatsuse waka-sazaki was the eldest son of
 the Emperor Ohoke. His mother was called the Empress
 Kasuga no Iratsume. He was made Prince Imperial in the
-seventh year of the Emperor Ohoke. When he grew to man-
-hood, he was fond of criminal law,:and was well versed in the
+seventh year of the Emperor Ohoke. When he grew to manhood, he was fond of criminal law,:and was well versed in the
 statutes. He would remain in Court until the sun went down,
 so that hidden wrong was surely penetrated. In deciding
 cases he attained to the facts.? But he worked much evil, and
@@ -24352,8 +22752,7 @@ In the 11th year, the 8th month of his reign, the Emperor
 Ohoke died. The Minister of State Heguri no Matori no Omi
 usurped the government of the country and tried to reign over
 _Japan. Pretending that it was for the Emperor’s eldest son, he
-built a palace, and ultimately dwelt in it himself. On all occa-
-sions he was arrogant, and was utterly devoid of loyal principle.
+built a palace, and ultimately dwelt in it himself. On all occasions he was arrogant, and was utterly devoid of loyal principle.
 Now the eldest son wished to betroth to himself Kagehime, the
 daughter of Mononobe no Arakahi no Ohomuraji, and sent a
 middleman to Kagehime’s house to arrange for their union.
@@ -24376,9 +22775,6 @@ XVI. 2
 XVI. 3.
 
 
-400 NIHONGI.
-
-
 him, saying :—‘‘ Thy handmaiden wishes to wait upon thee on
 the street of Tsubaki-ichi.” Accordingly the eldest son, in
 order to go to the place of assignation, sent one of his personal
@@ -24390,8 +22786,7 @@ course his orders shall be obeyed.” But for a long time he
 did not send them. The eldest son cherished resentment at
 this, but controlled himself, and did not let it appear on his
 countenance. Ultimately he went to the place of assignation,
-and taking a place among the song-makers,' took hold of Kage-
-hime’s sleeve, and was loitering about unconcernedly, when
+and taking a place among the song-makers,' took hold of Kagehime’s sleeve, and was loitering about unconcernedly, when
 suddenly Shibi no Omi came, and pushing away the eldest son
 from Kagehime, got between them. Hereupon the eldest son
 let go Kagehime’s sleeve, and turning round, confronted Shibi
@@ -24501,8 +22896,7 @@ The great Lord’s
 Girdle of Japanese Joom ee e
 
 
-1 “ For want of strict care” is in the original Ama-shimi. This word con-
-tains an allusion to the Omi’s name Shibi. Miand bi are often interchanged
+1 “ For want of strict care” is in the original Ama-shimi. This word contains an allusion to the Omi’s name Shibi. Miand bi are often interchanged
 in Japanese.
 
 7 i.e. on my right hand.
@@ -24517,9 +22911,6 @@ pd
 OVIL. 5.
 
 
-402 NIHONGI.
-
-
 Hangs down in a bow."
 Whosoever it may be—
 There is no one (but me) whose love she requites.
@@ -24528,8 +22919,7 @@ There is no one (but me) whose love she requites.
 The eldest son then for the first time saw that Shibi had
 already possessed Kagehime, and became conscious of all the
 disrespect shown him by the father and the son. He blazed
-out into a great rage, and forthwith, on that same night, pro-
-ceeded to the house of Ohotomo no Kanamura no Muraji,
+out into a great rage, and forthwith, on that same night, proceeded to the house of Ohotomo no Kanamura no Muraji,
 where he levied troops and concerted his plans. Ohotomo no
 Muraji waylaid Shibi no Omi with a force of several thousand
 men. He slew him at Mount Nara.
@@ -24629,8 +23019,7 @@ with his people. When he uttered the curse, the only place
 which he forgot was the sea-brine of Tsunoga, and this he did
 
 
-one’s pillow.” This is probably why makura is here associated with Taka-
-hashi. Oho-yake means great storehouse. Hence the epithet attached to
+one’s pillow.” This is probably why makura is here associated with Takahashi. Oho-yake means great storehouse. Hence the epithet attached to
 it. “Of the spring-day” is a regular makura-kotoba or pillow-word of
 Kasuga, because kasuga is like kasumeru, to be hazy, and the weather is
 hazy in spring. Wosaho contains wo, male, which accounts for the epithet
@@ -24659,9 +23048,6 @@ A.D. 500.
 
 
 A.D. 501.
-
-
-404 NIHONGI.
 
 
 not curse. Therefore the Emperor eats salt from Tsunoga,
@@ -24714,8 +23100,7 @@ t1th month. He commanded Ohotomo no Muruya‘ no
 
 * Namiki means a row of trees, an avenue lined with trees.
 
-® This is a charge made against Show, King of Shang, in the “Shoo-
-king.” See Legge’s “ Chinese Classics,” Vol. III. p. 285.
+® This is a charge made against Show, King of Shang, in the “Shooking.” See Legge’s “ Chinese Classics,” Vol. III. p. 285.
 
 ° Dioscorea Japonica.
 
@@ -24739,8 +23124,7 @@ men’s heads, made them climb to the tops of trees, and then
 cut down the trees, so that the men who had climbed were
 killed by the fall. This he took a delight in.
 
-In this year, King Malta’ of Pékche, for his lawless oppres-
-sion of his subjects, was at length deposed by the people of
+In this year, King Malta’ of Pékche, for his lawless oppression of his subjects, was at length deposed by the people of
 that country and King Shima raised to the throne. He was
 made King Munyong.
 
@@ -24754,8 +23138,7 @@ where King Shima was born to him. He was sent back
 from the island, and did not reach the capital (of Japan).
 Owing to his having been born on an island, he received
 the name of Shima. There is now in the sea of Kawara °
-an island called Nirim Shima‘ which is the King’s birth-
-place. Therefore the Pekché people call this island Nirim
+an island called Nirim Shima‘ which is the King’s birthplace. Therefore the Pekché people call this island Nirim
 Shima. Considering that King Shima was King Keéro’s
 son, and King Malta King Konchi’s son, the expression
 ‘elder brother by a different mother’ is not clear.” *
@@ -24773,7 +23156,7 @@ is Otara.
 4 The traditional Kana has sema, for the Corean syém, island. Nirim
 means Lord.
 
-*> The “ Tongkam” (Vol. V. 4) account of these events is as follows :—
+*) The “ Tongkam” (Vol. V. 4) account of these events is as follows :—
 “Autumn, 8th month (A.D. 501). Pékché built the Castle of Karim (in
 Chollado), which was occupied by a garrison under a military officer named
 Chak Ka.
@@ -24800,9 +23183,6 @@ DONA ano
 A.D. 506.
 
 
-406 NIHONGI.
-
-
 5th year, Summer, 6th month. The Emperor made men
 lie down on their faces in the sluice of a dam and caused them
 to be washed away: with a three-bladed lance he stabbed
@@ -24814,7 +23194,7 @@ a son is raised up to honour.’ But we have no successor:
 wherewithal shall we hand down our name to posterity ?
 In accordance, therefore, with old Imperial precedents, we
 establish the Wohatsuse Toneri and make them assume the
-designation of this nEIen> so that it may not be forgotten
+designation of this nEIen) so that it may not be forgotten
 for ten thousand years.’
 
 Winter, roth month. The Land of Pékché sent Lord Mana
@@ -24872,8 +23252,7 @@ times, taking no care to avoid storms and torrents of rain.
 Being warmly clad himself, he forgot that the people were’
 
 
-starving from cold; eating dainty food, he forgot that the Em-
-pire was famishing. He gave great encouragement to dwarfs and
+starving from cold; eating dainty food, he forgot that the Empire was famishing. He gave great encouragement to dwarfs and
 performers, making them execute riotous music. He prepared
 strange diversions, and gave licence to lewd voices. Night
 and day he constantly indulged to excess in sake in the
@@ -24886,16 +23265,4 @@ Palace of Namiki.
 
 
 BND OF VOly 1.
-
-
-XVI. 10,
-
-
-Si eee
-Nee oes tan ij
-Lae ee
-= wet
-
-
-wai
 

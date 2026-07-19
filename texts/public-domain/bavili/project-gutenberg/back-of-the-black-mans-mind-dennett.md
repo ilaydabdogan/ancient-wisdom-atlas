@@ -66,6 +66,44 @@ figures:
 
 # At the Back of the Black Man's Mind; or, Notes on the Kingly Office in West Africa
 
+Digitized  by  tine  Internet  Archive
+
+in  2007  with  funding  from
+
+IVIicrosoft  Corporation
+
+
+http://www.archive.org/details/atbackofblackmanOOdennuoft
+
+
+AT  THE   BACK  OF   THE    BLACK
+MAN'S    MIND
+
+
+Plate  I
+
+
+Mavuncju,  a  Kabendarnail-fetish.
+
+
+See  /lage  93.
+
+
+FrontisJ>{tce.
+
+
+AT  THE  BACK  OF  THE
+/\  BLACK  MAN'S  MIND
+
+Or  NOTES  ON  THE  KINGLY  OFFICE
+IN  WEST  AFRICA        .         .         .         .
+
+
+BY
+
+
+R.    E.    DENNETT
+
 AUTHOR  OF    "notes  on   THE   FOLKLORE  OF   THE   FJORT,"    ETC.
 
 
@@ -9622,7 +9660,7 @@ The  titles  under  which  we  hear  of  the  Oba  of  the  Bin  I
 spoken  about  are  : —
 
 Obadududu,  perhaps  the  Oba  of  Heaven,  the  name  of  the
-supreme  goddess  among  the  yoruba  Odudua.  /^'u  ,  0 L^-(<^ck    -^  LC^  "v
+supreme  goddess  among  the  yoruba  Odudua.  /^'u  ,  0<L^-(<^ck    -^  LC^  "v
 
 Enonyagbon,  the  lord  of  the  earth.  '^-;^ar^.,^>vv\V5T>-7
 
@@ -10209,7 +10247,7 @@ WW
 (V)  .
 
 
- J   O  ^  K
+<J   O  ^  K
 
 
 K   O  Z   K
@@ -10270,7 +10308,7 @@ r
 
 L
 
- K
+<K
 
 -
 
@@ -14725,3 +14763,283 @@ Trade,  god  of,  245
 Trading,  50
 Traditions,  Bini,  220
 Transliteration,  system  of,  5
+Treaties,  48
+Trees,  \oo,  126  sq.
+Tree,  sacred,  12,  126  sq,  227,  258
+
+burial,  133
+
+worship,  246
+Tribal  marks,  76
+Tribute,  lOO,  126  sq.
+Triple  pillar,  197
+Turtle,  159
+
+Ugulu  dance,  208
+Uja,  24s
+
+
+INDEX
+
+
+287
+
+
+Ukhure,  221
+
+stick,  196,  211,  226
+Umbrella,  207
+Uncle,  rights  of,  41
+Uniyielle,  214
+Unluck,  138,  228
+Usiele,  214
+Usufruct,  43
+U  Ulu,  I03«
+
+
+Witchcraft,    83,     145,     191.    See    also
+
+Charm,  Counter-charm,  Magic
+Witnesses,  47
+Wives'  quarters,  189
+Woman  as  priestess,  265
+Women  and  worship,  257
+Women's  tabus,  130,  229,
+
+work,  65  sq.
+Worship  of  Ifa,  257
+
+
+Valleys,  tabu  of,  12
+
+Viceroys,  176
+
+Victims,  226,  260
+human,  263
+contact  with,  262,  263
+treatment  of,  261  sq.
+
+Vili,  48
+
+Village,  ruler  of,  185
+
+Viper,  158
+
+Virtue,  Yoruban,  267
+
+Vu,  106
+
+Vuta  Maleka,  29
+
+
+Wagtail,  155
+Wall  markings,  245
+Wall,  sacred,  187
+War  chief,  1 76,  224
+War,  god  of,  245
+War  palaver,  34
+Washing  the  hands,  140
+Wasteland,  185
+Water  buck,  160
+
+Water,  category  of,  108,  112,  124,  134,
+143,  162
+
+refusal  of,  153
+Waw  Waw  Waw,  66
+Week,  Bavili,  64
+
+Bini,  214
+Weight,  103
+Well,  187,  227
+
+sacred,  227
+Wer-animal,  146
+
+leopards,  ravages  of,  146
+Whale,  44,  97,  157
+Whip,  210
+Whirlpool,  102,  123
+White  colour,  156
+
+men  and  property,  45
+Widow,  remarriage  of,  36,  176,  199
+Wife  as  executrix,  47
+
+duties  of,  40
+
+purchase,  38
+
+qualifications  of,  38
+Winds,  74
+Wisdom,  102
+
+god  of,  245
+
+symbol  of,  194
+
+
+Xala,  ii«
+
+Xama  (snake),  142
+
+Luayi,  142
+
+Ngonzola,  142
+Xelo,  63
+
+Kata  Xibwici,  64
+
+Xitombe,  64
+Xendu,  28
+Xi,  105
+
+Xibata  grove,  118
+Xibanga,  122,  153
+
+marriage  tabu,  38
+Xibika  Bakulu,  51
+Xibila,  12,  28,  96
+
+different  kinds,  97
+
+Maluango's,  123
+Xibuela  (ray),  i6l
+Xibula  Mbungu,  102
+Xibuta  grove,  118
+Xi  Buta  Mambu,  51
+Xibutu  Xilongo,  91
+Xibwingi  grove,  113
+Xicifu,  64,  106
+Xicimbo,  89
+Xidiela,  story  of,  148  sq.
+Xidundu,  79
+Xiela,  94
+Xiendo  (ray),  161
+Xifilo  tree,  130
+Xifusa  grove,  117
+Xikafa  grove,  118
+Xikamaci  grove,  113
+Xikamba,  31,  122
+Xikanga  Nxiluka,  155
+
+grove,  114,  118
+Xiko,  63
+Xikumbua,  145
+Xikumbu  Ximanpandu,  146
+Xikunda,  90
+Xilawlo  tree,  130
+Xileci,  49
+Xilika  tree,  129
+Xilinga,  95
+Xilunzi,  81
+
+Xilu  Xinkukuba  grove,  118
+Ximbindi,  80
+Ximbuka,  88
+Ximbungu  grove,  118
+
+
+2S8
+
+
+INDEX
+
+
+Ximpungu,  91
+
+Xina,  36,  51.  84,  89,  144.  152,  163
+
+Bakici,  155
+
+Fumuci,  153
+
+Mvila,  52,  165
+
+Nkaka,  51,  164
+
+Nsoxi,  51,  164
+
+VaXi  Fumba,  51,  164
+
+Xi  Bifumba,  155
+
+Xi  Bika  Muana  Bukulu,  153
+
+Xi  Bilongo,  155
+
+Xici,  153
+
+Xinkicici,  155
+
+Xisalu,  155
+
+Xivanga  Nzambi,  51,  163
+
+Xixifumba,  154
+
+See  also  Tabus,  Agwa
+Xingombe  grove,  118
+Xinjili  grove,  118
+Xinkici  a'nci,  I53«
+Xiquani  grove,  118
+Xiseku,  113
+Xisengo,.  29
+Xisika,  91
+Xisongo,  91
+Xitembo,  89
+Xitini,  62
+Xiveve,  63
+
+
+Xivola  grove,  116
+Xivuma  grove,  117
+Xixexi,  138
+Xizuka,  113
+Xungu  grove,  118
+
+Yam  Juju,  188
+
+season,  256
+Year,  64,  106
+
+Bini,  215
+Yellow  colour,  141
+Yemaja,  245,  258
+Yeye  leaf,  264
+Yiya,  269
+Yoruba  philosophy,
+
+Zairi  R.,  I
+Zambi  inyona,  95
+Zibanga,  31
+
+Zimbu  Bifundi  grove,  \\\
+Zimbu  Xikoko  grove,  i  if
+Zinkawci,  131
+Zinkawci  Zi  Bakici,  91
+Zinkici  Zimbowu,  85
+Zinkici  Zinkondi,  85
+Zinkici  Zinzo,  85
+Zombo-Bawci  (eel),  152
+Zwangana  grove,  118
+
+
+THE  END
+
+
+y.jt^
+
+
+H.   CLAY   AND  SONS,    LTD.,    BREAD  STREET   HILL,    E.C.,   AND   BUNGAY,   SUFFOLK.
+
+
+t
+
+
+PLEASE  DO  NOT  REMOVE
+CARDS  OR  SLIPS  FROM  THIS  POCKET
+
+
+UNIVERSITY  OF  TORONTO  LIBRARY
+

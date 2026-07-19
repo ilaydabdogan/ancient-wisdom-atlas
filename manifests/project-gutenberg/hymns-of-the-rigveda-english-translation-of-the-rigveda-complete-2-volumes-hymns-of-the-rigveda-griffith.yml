@@ -1,0 +1,69 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_hymns-of-the-rigveda-english-translation-of-the-rigveda-complete-2-volumes
+  work_id: hindu.rigveda.griffith_archive
+  title: The Hymns of the Rigveda, Complete 2 Volumes
+  source_url: https://archive.org/details/hymns-of-the-rigveda-english-translation-of-the-rigveda-complete-2-volumes
+  fetch_date: '2026-07-17'
+  raw:
+    path: imports/raw/internet-archive/hymns-of-the-rigveda-english-translation-of-the-rigveda-complete-2-volumes-hymns-of-the-rigveda-griffith.txt
+    checksum:
+      algorithm: sha256
+      value: 315e38b0c773c6f7a9965732dd33ef3b27e8fdd5deae2fca2ece5b857c89b1ed
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/hymns-of-the-rigveda-english-translation-of-the-rigveda-complete-2-volumes-hymns-of-the-rigveda-griffith.md
+    checksum:
+      algorithm: sha256
+      value: cb3a9a8aeeb5606a93ef2f8ca72570dafcff01c8f2fc7bac49e93b75486ed891
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+    checksum:
+      algorithm: sha256
+      value: f2050d795d6e89bdac76b4c6a2297280cf7894d35a45fa6e4527bc3f76c7ebd6
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids hindu.rigveda.griffith_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Griffith died 1906; translation first published 1889-1892 and revised edition
+      published 1920, all pre-1930 so US public domain. OCR text from scan; needs
+      cleanup pass (page headers, diacritics) before extraction.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

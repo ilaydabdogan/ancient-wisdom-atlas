@@ -65,6 +65,34 @@ figures:
 
 # The Great African Island: Chapters on Madagascar
 
+tni9       r
+
+
+THE  GREAT  AFRICAN  ISLAND.
+
+
+"BaHaixtgne  ^ttss
+
+BAI.LANTYNE,    HANSON   AND  CO.
+EDINBURGH   AND   LONDON
+
+
+ROFIA    PALM    (.SV/jrus  ni^ffio)  and   TRAVELLER'S   TREE   (Urania  fiudosa).
+
+
+THE  GREAT  AFRICAN  ISLAND.
+
+CHAPTERS  ON   MADAGASCAR.
+
+
+A    POPULAR    ACCOUNT   OF   RECENT   RESEARCHES   IN    THE
+
+PHYSICAL  GEOGRAPHY,  GEOLOGY,  AND  EXPLORATION  OF  THE  COUNTRY.
+
+AND    ITS   NATURAL    HISTORY  AND    BOTANY ;
+
+AND    IN    THE    ORIGIN  AND    DIVISIONS,    CUSTOMS   AND    LANGUAGE,
+
 SUPERSTITIONS,    FOLK-LORE,    AND    RELIGIOUS    BELIEFS
 
 AND    PRACTICES    OF    THE    DIFFERENT    TRIBES.
@@ -8721,7 +8749,7 @@ through  the  water  with  great  speed,  but  as  they  have  no  keel
 they  require  careful  ballasting.  Very  small  canoes  are  used
 in  the  narrow  channels  along  the  sides  of  the  rice-fields  to
 convey  the  sheaves  to  the  threshing-floors  on  the  neighbouring
-hi Th  "rounds.
+hi<Th  "rounds.
 
 Few  things  are  more  pjleasant  than  a  canoe  voyage  on
 some  of  the  large  rivers  of  Madagascar,  always  providing
@@ -10034,7 +10062,7 @@ ampitotdam-hiirT/,  i.e.,  "at  the  place  of  pounding  rice,"  when
 the  rays  reach  farther  into  the  building,  and  touch  the  part
 ■where  the  rice-mortar  usually  stands.  Three  o'clock  is
 ainpamatora-janaJi  drnby,  "  at  the  place  of  fastening  the  calf,"
-i.e.,   when  the  rays  reach  the  middle  post,  where  the  animal
+i.e.,  <when  the  rays  reach  the  middle  post,  where  the  animal
 is  tied  up  at  night;  while  at  about  half-past  four  o'clock  is
 called  titfapcika,  "  touched,"  when  the  sun's  rays  reach  the  east
 wall  of  the  house.  So  that  the  arrangement  of  their  houses
@@ -11653,7 +11681,7 @@ might  be  wished),  in  order  that  great  quantities  of  beef  and
 rum  may  be  consumed  by  the  mourners.  This  marks  the
 second  stage  in  the  mourning.  Several  times  every  day  these
 cords  are  drawn  tighter,  and  this  process  is  continued  until
-nothing  but  the  bones  remain.  These  are  then  carefully  lai l
+nothing  but  the  bones  remain.  These  are  then  carefully  lai<l
 in  a  canoe,  with  its  two  ends  cut  square,  and  covered  in.
 When  this  has  been  done,  the  burial  takes  place.  The  coffin
 is  conveyed  amidst  continuous  musket-firing  to  the  family
@@ -13198,7 +13226,7 @@ for  him  and  kill  oxen  to  ward  off  the  impending  death."  ^'"
 
 Then  again,  the  laying  by  a  fowl  of  an  unusually  large
 ^g^  is  regarded  as  ominous  either  of  some  extraordinary
-good  or  evil,  while  an  unusually  small  ^g g  is  feared  as
+good  or  evil,  while  an  unusually  small  ^g<g  is  feared  as
 foreboding  evil.  Something  of  the  same  feeling  comes  up  in
 the  name  given  to  a  small  insect  which  attacks  the  young-
 rice- plants.  It  is  called  Ondrikdin  Andriamcmitra,  "  God's
@@ -18334,3 +18362,273 @@ Sikal^va  m.irriage  oust  m,  251.
 Sikalivas,  expedition  ag.dnst  the,  357.
 
 Sakalivas,  109,  113,  124,  132,  143,  151,  169,
+179,  212,  222,  226,  240.
+
+Sala    anga,  the,  an  incantation,  295,  296.
+
+Salutation,  old  forms  oT,  286.
+
+Salutations  and  benedictions,  324,  325.
+
+Sancity  of  idols,  209.
+
+Schools,  noimal  and  training,  36=;.
+
+Scripture  customs,  illustrated  bv  Malagasy,
+318-336.
+
+Seat  of  sovereigns,  188.
+
+Serpents,  53  ;  beliefs  regarding,  268.
+
+Service-,  rel'gious,  improvement  in,  363.
+
+Shaw,  Mr.,  41,  113,  126,  239,  288,  295,  312;
+on  B6tsileo  ornament,  265.
+
+"  Showing  of  mercy,  a,"  358.
+
+Sicknes-  and  d>ath,  2S9,  290,  291.
+
+Sihauaka,  129,  130,  212,  235.
+
+
+372
+
+
+INDEX.
+
+
+Silkworms,  96.
+
+Sihanaka  custom,  curious,  255  ;  religion,  302  ;
+
+superstition,  280.
+Sikidy  or  divination,  309.
+Silver  work,  native  ingenuity  in,  262.
+Singular  number,  dislike  to  the,  2S7.
+Sirab^,  32.
+
+"  Sitting  at  the  king's  gate,"  320.
+Skins,  nou-\ise  of,  214.
+Slate,  32.
+
+8  avery,  162,  180,  182,  335.
+Slaves,  class  of,  181.
+Snake-traps,  made  by  ants,  268.
+Sneezing,  285.
+
+BoareM,  Fernando,  discovereroUIadagascar,  3.
+Social  liabits,  improved,  355.
+Socieiy,  ranks  of,  182.
+Soldiers,  or  niiaramila,  183.
+Soiigumby,  tlie,  275.
+Songs,  loyal,  187.
+Sorcery  a  capital  crime,  2j2.
+Spear  and  slaeld,  tlie,  329.
+Spear  called  Tsi-tla-lainga,  igo.
+Souls,  transmigration  of,  270.
+Spiny  and  prickly  plants,  82.
+"  Spirit-bird,"  the,  274.
+"Spirit  of  evil,"  the,  295.
+Spiiira  of  the  dead,  3T2
+Spittle,  the,  medicinal  virtue  in,  286.
+Staff,  the,  a  sign  of  office,  322.
+Stations,  Mission,  361.
+Star-gazers,  311.
+Stones,  sacred,  305.
+Stories,  fabulous,  275.
+Straw-plait,  artistic  feeling  shown  in,  262.
+Stubliorn  chief,  a,  story  of,  332,  333.
+Sudden  death  ascribed  to  witclicraft,  291.
+Sugiir-Crtne,  89.
+Superstitions  connected  with  birds,  274,  275  ;
+
+with  death,  290,  291  ;  popular,  267.
+Superstitious  practices,  rise  of,  339.
+Symbolic  acts,  332.
+
+Tabooed  customs,  288,  294.
+
+Tabooed  or  Fady  words,  150,  168.
+
+Takatra,  the,  274.
+
+Tamarind,  tlie,  78,  278.
+
+Tamatave,  143.
+
+Tan^la  altar,  a,  30s,  306.
+
+Tanila  superstition,  281.
+
+Tanala  tribe  and  country,  107,  128,  215,  221,
+
+237-
+Tandr6y,  132.
+
+Taug^m-boay  ordeal,  the,  284.
+Tang6na  tree,  73.
+
+Taug^na  or  puison  ordeal,  140,  281,  282,  283.
+Tank^raiia  tribe  and  people,  26,  179.
+Tank^y  or  Bez^noz^no,  129.
+Tanosy,  203,  223.
+Tat^o  custom,  289.
+Tattooing,  209.
+Teeth,  loss  of,  285.
+Thanksgiving,  sacrifices  of,  303.
+Thresh in>r-floors,  Malagasy,  335.
+Time,  division  of,  279  ;  mode  of  reckoning,
+
+336.
+Times,  lucky  and  unlucky,  279.
+Tobacco,  95.
+Tokan-dia,  the,  275.
+Tomb,  fimily,  of  prime  minister,  260.
+Tombs  and  burial  customs,  225,  330.
+Tonic  sol-fa  system,  introduction  of,  364.
+
+
+Toothache,  285.
+
+Towns  and  houses,  205,  329,  330.
+
+Toy,  Rev.  R.,  quoted,  268.
+
+Trade,  increase  of,  354.
+
+Trades  and  occupations,  195.
+
+Tradition  as  to  Malasjasy  origin,  121.
+
+Traditions  of  the  Vazimba,  307,  308.
+
+Training  schools,  365.
+
+Trindraka  or  tenrec,  44.
+
+Translation  of  the  Pilgrim's  Progress,  347,
+
+Transmigration  of  souls,  the,  270.
+
+Traveller's  tree,  91.
+
+Trees,  height  and  size  of,  71.
+
+Trt-es  and  plants,  sacred,  277  ;  fetish,  306.
+
+Tsiafakomby  (tree),  82.
+
+Twelve,  a  lucky  number,  288.
+
+Umbrella,  royal,  i86.
+Ungulata,  46.
+
+Unlucl<y    days,     279,     280;    numbers    and
+actions,  287.
+
+Vakieoated  leaved  plants,  80.
+Vi'zlmba.  the,  135,  216,  307,  308.
+Vegetable  foods,  86 ;  exports,  99.
+Vegetation  of  coast,  71.
+Vegetation  of  interior,  81.
+Venetian  maps  of  Madagascar,  16.
+V^zo  (tribi ),  126.
+Village  churches,  363.
+V6av6ntaka,  72.
+Vokoka  ordeal,  the,  284.
+Volcanic  region,  27.
+Von^nina,  the,  278.
+
+Wake,  C.  S.,  103,  243.
+
+Wallace,  Alfred,  39,  45,  47,  48,  54,  66,  96,  105,
+
+n6,  117.
+Wall-painting  in  country  church,  261.
+War,  Christian  influence  in,  357.
+Wasps  61.
+
+"  Water  in  the  nose,"  285.
+Waterfalls,  24.
+
+Watershed  of  Madagascar,  24.
+Water-sprito  or  mermaid,  308.
+Weapons,  native,  216,  329.
+Weaving  of  coloured  cloths,  261,  262.
+Weeping  for  the  dead,  316.
+Widows,  curious  custom  regarding,  255.
+Wisdom  of  Queen  Ranavalona,  333,  334.
+Witchcraft  and  charms,  292  ;   detection   of,
+
+282.
+Wives,  cruel  treatment  of,  255.
+Words,   f^dy,    150,    169,    171 ;    obsolete,   152 ;
+
+French,    152  ;   English,  152  ;   Arabic,  154  ;
+
+history  in,   155-157;   poetry  in,    157-160;
+
+morality,    160-162  ;  for  religious  worsliip,
+
+162-164  ;    onomatopoetic,    164  ;    connected
+
+with  royalty,  169.
+Worship  of  ancestors,  226;  of  idols,  297-301  ;
+
+Christian,  customs  connected  with,  344,345.
+
+Tanis,  88.
+
+Yule,  Colonel,  55.
+
+Zahana,  tlie  (Bignonia  articulata),  S2.  277.
+
+Zkhitra  (raft),  77,  178.
+
+Zaza  Hova  (slaves),  182.
+
+Zaledz,  an  ancient  name  of  Madagascar,  2.
+
+Z6mba  (sacred  house),  226.
+
+Z6ro  firar^zana  (sacred  comer),  199.
+
+
+PRINTED  BY  BALLANTYNE,  HANSON  AND  CO.
+EDINBURGH  AND  LONDON
+
+
+<r
+
+
+University  of  California
+
+SOUTHERN  REGIONAL  LIBRARY  FACILITY
+
+305  De  Neve  Drive  -  Parking  Lot  17  •   Box  951388
+
+LOS  ANGELES,  CALIFORNIA  90095-1388
+
+Return  this  material  to  the  library  from  which  it  was  borrowed.
+
+
+APR  1  4  2008
+
+
+UGLACOLLIB  u^n
+RECEIVED  '^'"^
+
+
+DT    469.       M26S56o
+
+
+3  1158  00501  7602
+
+
+UC  SOUTHERN  REGIONAL  LIBRARY  FACILITY
+
+
+A     000  498  716     o
+

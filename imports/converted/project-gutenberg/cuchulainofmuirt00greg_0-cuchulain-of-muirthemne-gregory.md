@@ -1,541 +1,3 @@
-# Cuchulain of Muirthemne
-
-THOMAS   P.    O'NEILL,  JR
-
-LIBRARY
-
-BOSTON   COLLEGE
-
-
-Ex    Libris
-
-
-Heinz  Bluhm
-1907-1993
-
-
-CUCHULAIN    OF    MUIRTHEMNE
-
-
-First  Edition        .        .        .    April  1902
-Second  Edition     .        .        .    August  1903
-
-
-CUCHULAIN  OF  MUIRTHEMNE :
-THE  STORY  OF  THE  MEN  OF
-THE  RED  BRANCH  OF  ULSTER
-ARRANGED  AND  PUT  INTO
-ENGLISH  BY  LADY  GREGORY
-WITH  A  PREFACE  BY  W.  B.  YEATS
-
-
-NEW    YORK
-
-CHARLES    SCRIBNER'S    SONS
-
-153-157    FIFTH    AVENUE
-
-1903
-
-
-"t)ei|\im  -An  rh6iT)  too  beip  mo  rhuitinci|i,"  a^  CO-
-CtJl-Ain,  ''50  mbeit)  cp^Cc  ^suf  iom|A^*6  pOf  ^fi  mo
-jniomxjkftxMb-fe  x^me^fs  n^  n-^l^-o-jniorh  -oo  tiinne  n^
-5Air5i"6i5  If  ct^eine."
-
-*'l  SWEAR  BY  THE  OATH  OF  MY  PEOPLE,"  SAID  CUCHULPIN,  *' I
-WILL  MAKE  MY  DOINGS  BE  SPOKEN  OF  AMONG  THE  GREAT  DOINGS
-OF   HEROES    IN   THEIR   STRENGTH."
-
-
-.r>*
-
-
-Printed  in  Great  Britain,
-
-
-DEDICATION   OF   THE   IRISH   EDITION
-TO   THE   PEOPLE   OF   KILTARTAN
-
-My  Dear  Friends,
-
-When  I  began  to  gather  these  stories
-together,  it  is  of  you  I  was  thinking,  that  you  would
-like  to  have  them  and  to  be  reading  them.  For
-although  you  have  not  to  go  far  to  get  stories  of
-Finn  and  Goll  and  Oisin  from  any  old  person  in  the
-place,  there  is  very  little  of  the  history  of  Cuchulain
-and  his  friends  left  in  the  memory  of  the  people,  but
-only  that  they  were  brave  men  and  good  fighters,
-and  that  Deirdre  was  beautiful.
-
-When  I  went  looking  for  the  stories  in  the  old
-writings,  I  found  that  the  Irish  in  them  is  too  hard
-for  any  person  to  read  that  has  not  made  a  long  study
-of  it.  Some  scholars  have  worked  well  at  them.  Irish-
-men and  Germans  and  Frenchmen,  but  they  have
-printed  them  in  the  old  cramped  Irish,  with  translations
-into  German  or  French  or  English,  and  these  are  not
-easy  for  you  to  get,  or  to  understand,  and  the  stories
-themselves  are  confused,  every  one  giving  a  different
-account  from  the  others  in  some  small  thing,  the  way
-there  is  not  much  pleasure  in  reading  them.     It  is  what
-
-
-vi  DEDICATION
-
-I  have  tried  to  do,  to  take  the  best  of  the  stories,  or  what-
-ever parts  of  each  will  fit  best  to  one  another,  and  in  that
-way  to  give  a  fair  account  of  Cuchulain's  life  and  death.
-I  left  out  a  good  deal  I  thought  you  would  not  care
-about  for  one  reason  or  another,  but  I  put  in  nothing
-of  my  own  that  could  be  helped,  only  a  sentence  or
-so  now  and  again  to  link  the  different  parts  together.
-I  have  told  the  whole  story  in  plain  and  simple
-words,  in  the  same  way  my  old  nurse  Mary  Sheridan
-used  to  be  telling  stories  from  the  Irish  long  ago,  and
-I  a  child  at  Roxborough.
-
-And  indeed  if  there  was  more  respect  for  Irish  things
-among  the  learned  men  that  live  in  the  college  at
-Dublin,  where  so  many  of  these  old  writings  are  stored,
-this  work  would  not  have  been  left  to  a  woman  of
-the  house,  that  has  to  be  minding  the  place,  and
-listening  to  complaints,  and  dividing  her  share  of  food.
-
-My  friend  and  your  friend  the  Craoibhin  Aoibhin
-has  put  Irish  of  to-day  on  some  of  these  stories  that
-I  have  set  in  order,  for  I  am  sure  you  will  like  to  have
-the  history  of  the  heroes  of  Ireland  told  in  the  language
-of  Ireland.  And  I  am  very  glad  to  have  something
-that  is  worth  offering  you,  for  you  have  been  very
-kind  to  me  ever  since  I  came  over  to  you  from
-Kilchriest,  two-and-twenty  years  ago.
-
-AUGUSTA   GREGORY.
-
-March  1902.
-
-
-PREFACE
-
-I
-
-T  THINK  this  book  is  the  best  that  has  come  out  of
-Ireland  in  my  time.  Perhaps  I  should  say  that  it
-is  the  best  book  that  has  ever  come  out  of  Ireland  ;
-for  the  stories  which  it  tells  are  a  chief  part  of  Ireland's
-gift  to  the  imagination  of  the  world — and  it  tells  them
-perfectly  for  the  first  time.  Translators  from  the  Irish
-have  hitherto  retold  one  story  or  the  other  from  some
-one  version,  and  not  often  with  any  fine  understanding
-of  English,  of  those  changes  of  rhythm  for  instance
-that  are  changes  of  the  sense.  They  have  translated
-the  best  and  fullest  manuscripts  they  knew,  as  accurately
-as  they  could,  and  that  is  all  we  have  the  right  to
-expect  from  the  first  translators  of  a  difficult  and
-old  literature.  But  few  of  the  stories  really  begin
-to  exist  as  great  works  of  imagination  until  somebody
-has  taken  the  best  bits  out  of  many  manuscripts.
-Sometimes,  as  in  Lady  Gregory's  version  of  Deirdre,
-a  dozen  manuscripts  have  to  give  their  best  before
-the  beads  are  ready  for  the  necklace.  It  has  been
-as  necessary  also  to  leave  out  as  to  add,  for
-generations  of  copyists,  who  had  often  but  little
-sympathy  with  the  stones  they  copied,  have  mixed
-versions  together  in  a  clumsy  fashion,  often  repeating
-
-
-viii  PREFACE
-
-one  incident  several  times,  and  every  century  has
-ornamented  what  was  once  a  simple  story  with  its  own
-often  extravagant  ornament.  One  does  not  perhaps
-exaggerate  when  one  says  that  no  story  has  come  down
-to  us  in  the  form  it  had  when  the  story-teller  told  it  in
-the  winter  evenings.  Lady  Gregory  has  done  her  work
-of  compression  and  selection  at  once  so  firmly  and  so
-reverently  that  I  cannot  believe  that  anybody,  except
-now  and  then  for  a  scientific  purpose,  will  need  another
-text  than  this,  or  than  the  version  of  it  the  Gaelic
-League  is  about  to  publish  in  Modern  Irish.  When
-she  has  added  her  translations  from  other  cycles,  she
-will  have  given  Ireland  its  Mabinogion,  its  Morte
-D'Arthur,  its  Nibelungenlied.  She  has  already  put  a
-great  mass  of  stories,  in  which  the  ancient  heart  of
-Ireland  still  lives,  into  a  shape  at  once  harmonious
-and  characteristic ;  and  without  writing  more  than  a
-very  few  sentences  of  her  own  to  link  together  incidents
-or  thoughts  taken  from  different  manuscripts,  without
-adding  more  indeed  than  the  story-teller  must  often
-have  added  to  amend  the  hesitation  of  a  moment.
-Perhaps  more  than  all  she  had  discovered  a  fitting
-dialect  to  tell  them  in.  Some  years  ago  I  wrote  some
-stories  of  mediaeval  Irish  life,  and  as  I  wrote  I  was
-sometimes  made  wretched  by  the  thought  that  I  knew
-of  no  kind  of  English  that  fitted  them  as  the  language
-of  Morris'  prose  stories — the  most  beautiful  language
-I  had  ever  read — fitted  his  journeys  to  woods  and
-wells  beyond  the  world.  I  knew  of  no  language  to
-write  about  Ireland  in  but  raw  modern  English  ;  but  now
-Lady  Gregory  has  discovered  a  speech  as  beautiful  as
-that  of  Morris,  and  a  living  speech  into  the  bargain.
-
-
-PREFACE  ix
-
-As  she  moved  about  among  her  people  she  learned  to
-love  the  beautiful  speech  of  those  who  think  in  Irish,  and
-to  understand  that  it  is  as  true  a  dialect  of  English  as  the
-dialect  that  Burns  wrote  in.  It  is  some  hundreds  of  years
-old,  and  age  gives  a  language  authority.  One  finds  in  it
-the  vocabulary  of  the  translators  of  the  Bible,  joined  to
-an  idiom  which  makes  it  tender,  compassionate,  and
-complaisant,  like  the  Irish  language  itself.  It  is  certainly
-well  suited  to  clothe  a  literature  which  never  ceased  to
-be  folk-lore  even  when  it  was  recited  in  the  Courts  of
-Kings.
-
-
-II
-
-
-Lady  Gregory  could  with  less  trouble  have  made  a
-book  that  would  have  better  pleased  the  hasty  reader.
-She  could  have  plucked  away  details,  smoothed  out
-characteristics  till  she  had  left  nothing  but  the  bare
-stories  ;  but  a  book  of  that  kind  would  never  have
-called  up  the  past,  or  stirred  the  imagination  of  a  painter
-or  a  poet,  and  would  be  as  little  thought  of  in  a  few
-years  as  if  it  had  been  a  popular  novel.
-
-The  abundance  of  what  may  seem  at  first  irrelevant
-invention  in  a  story  like  the  death  of  Conaire,  is
-essential  if  we  are  to  recall  a  time  when  people  were  in
-love  with  a  story,  and  gave  themselves  up  to  imagination
-as  if  to  a  lover.  One  may  think  there  are  too  many
-lyrical  outbursts,  or  too  many  enigmatical  symbols
-here  and  there  in  some  other  story,  but  delight  will
-always  overtake  one  in  the  end.  One  comes  to  accept
-without  reserve   an  art  that  is  half  epical,  half  lyrical,
-
-
-X  PREFACE
-
-like  that  of  the  historical  parts  of  the  Bible,  the  art  of  a
-time  when  perhaps  men  passed  more  readily  than  they
-do  now  from  one  mood  to  another,  and  found  it  harder
-than  we  do  to  keep  to  the  mood  in  which  one  tots  up
-figures  or  banters  a  friend.
-
-
-Ill
-
-
-The  Church  when  it  was  most  powerful  created  an
-imaginative  unity,  for  it  taught  learned  and  unlearned
-to  climb,  as  it  were,  to  the  great  moral  realities  through
-hierarchies  of  Cherubim  and  Seraphim,  through  clouds
-of  Saints  and  Angels  who  had  all  their  precise  duties
-and  privileges.  The  story-tellers  of  Ireland,  perhaps  of
-every  primitive  country,  created  a  like  unity,  only  it  was
-to  the  great  aesthetic  realities  that  they  taught  people  to
-climb.  They  created  for  learned  and  unlearned  alike,
-a  communion  of  heroes,  a  cloud  of  stalwart  witnesses  ;
-but  because  they  were  as  much  excited  as  a  monk  over
-his  prayers,  they  did  not  think  sufficiently  about  the
-shape  of  the  poem  and  the  story.  One  has  to  get  a
-little  weary  or  a  little  distrustful  of  one's  subject,
-perhaps,  before  one  can  lie  awake  thinking  how  one
-will  make  the  most  of  it.  They  were  more  anxious
-to  describe  energetic  characters,  and  to  invent  beautiful
-stories,  than  to  express  themselves  with  perfect  dramatic
-logic  or  in  perfectly-ordered  words.  They  shared
-their  characters  and  their  stories,  their  very  images,
-with  one  another,  and  handed  them  down  from  genera-
-tion   to   generation ;    for    nobody,   even   when   he   had
-
-
-PREFACE  xi
-
-added  some  new  trait,  or  some  new  incident,  thought  of
-claiming  for  himself  what  so  obviously  lived  its  own
-merry  or  mournful  life.  The  wood-carver  who  first  put
-a  sword  into  St  Michael's  hand  would  have  as  soon
-claimed  as  his  own  a  thought  which  was  perhaps  put
-into  his  mind  by  St  Michael  himself.  The  Irish  poets
-had  also,  it  may  be,  what  seemed  a  supernatural  sanction,
-for  a  chief  poet  had  to  understand  not  only  innumerable
-kinds  of  poetry,  but  how  to  keep  himself  for  nine  days
-in  a  trance.  They  certainly  believed  in  the  historical
-reality  of  even  their  wildest  imaginations.  And  so  soon
-as  Christianity  made  their  hearers  desire  a  chronology
-that  would  run  side  by  side  with  that  of  the  Bible,  they
-delighted  in  arranging  their  Kings  and  Queens,  the
-shadows  of  forgotten  mythologies,  in  long  lines  that
-ascended  to  Adam  and  his  Garden.  Those  who
-listened  to  them  must  have  felt  as  if  the  living  were
-like  rabbits  digging  their  burrows  under  walls  that  had
-been  built  by  Gods  and  Giants,  or  like  swallows  building
-their  nests  in  the  stone  mouths  of  immense  images,
-carved  by  nobody  knows  who.  It  is  no  wonder  that
-one  sometimes  hears  about  men  who  saw  in  a  vision  ivy-
-leaves  that  were  greater  than  shields,  and  blackbirds
-whose  thighs  were  like  the  thighs  of  oxen.  The  fruit  of
-all  those  stories,  unless  indeed  the  finest  activities  of  the
-mind  are  but  a  pastime,  is  the  quick  intelligence,  the
-abundant  imagination,  the  courtly  manners  of  the  Irish
-country  people.
-
-
-xii  PREFACE
-
-
-IV
-
-
-William  Morris  came  to  Dublin  when  I  was  a  boy,
-and  I  had  some  talk  with  him  about  these  old  stories.
-He  had  intended  to  lecture  upon  them,  but  "  the  ladies
-and  gentlemen  " — he  put  a  communistic  fervour  of  hatred
-into  the  phrase — knew  nothing  about  them.  He  spoke
-of  the  Irish  account  of  the  battle  of  Clontarf,  and  of
-the  Norse  account,  and  said,  that  one  saw  the  Norse
-and  Irish  tempers  in  the  two  accounts.  The  Norseman
-was  interested  in  the  way  things  are  done,  but  the
-Irishman  turned  aside,  evidently  well  pleased  to  be  out
-of  so  dull  a  business,  to  describe  beautiful  supernatural
-events.  He  was  thinking,  I  suppose,  of  the  young  man
-who  came  from  Aoibhell  of  the  Grey  Rock,  giving  up
-immortal  love  and  youth,  that  he  might  fight  and  die  by
-Murrugh's  side.  He  said  that  the  Norseman  had  the
-dramatic  temper,  and  the  Irishman  had  the  lyrical.  I
-think  I  should  have  said  epical  and  romantic  rather
-than  dramatic  and  lyrical,  but  his  words,  which  have  so
-much  greater  authority  than  mine,  mark  the  distinction
-very  well,  and  not  only  between  Irish  and  Norse,  but
-between  Irish  and  other  un-Celtic  literatures.  The  Irish
-story-teller  could  not  interest  himself  with  an  unbroken
-interest  in  the  way  men  like  himself  burned  a  house,
-or  won  wives  no  more  wonderful  than  themselves.  His
-mind  constantly  escaped  out  of  daily  circumstance,  as
-a  bough  that  has  been  held  down  by  a  weak  hand
-suddenly  straightens  itself  out.  His  imagination  was
-always   running   oflf  to   Tir-nan-oge,   to   the    Land    of
-
-
-PREFACE  xiil
-
-Promise,  which  is  as  near  to  the  country-people  of
-to-day,  as  it  was  to  Cuchulain  and  his  companions.
-His  behef  in  its  nearness,  cherished  in  its  turn  the
-lyrical  temper,  which  is  always  athirst  for  an  emotion,
-a  beauty  which  cannot  be  found  in  its  perfection  upon
-earth,  or  only  for  a  moment.  His  imagination,  which
-had  not  been  able  to  believe  in  Cuchulain's  greatness,
-until  it  had  brought  the  Great  Queen,  the  red  eye-browed
-goddess  to  woo  him  upon  the  battlefield,  could  not  be
-satisfied  with  a  friendship  less  romantic  and  lyrical  than
-that  of  Cuchulain  and  Ferdiad,  who  kissed  one  another
-after  the  day's  fighting,  or  with  a  love  less  romantic
-and  lyrical  than  that  of  Baile  and  Aillinn,  who  died  at
-the  report  of  one  another's  deaths,  and  married  in
-Tir-nan-oge.  His  art,  too,  is  often  at  its  greatest  when
-it  is  most  extravagant,  for  he  only  feels  himself  among
-solid  things,  among  things  with  fixed  laws  and  satis-
-fying purposes,  when  he  has  reshaped  the  world
-according  to  his  heart's  desire.  He  understands  as  well
-as  Blake  that  the  ruins  of  time  build  mansions  in
-eternity,  and  he  never  allows  anything,  that  we  can
-see  and  handle,  to  remain  long  unchanged.  The
-characters  must  remain  the  same,  but  the  strength  of
-Fergus  may  change  so  greatly,  that  he,  who  a  moment
-before  was  merely  a  strong  man  among  many,  becomes
-the  master  of  Three  Blows  that  would  destroy  an  army,
-did  they  not  cut  off  the  heads  of  three  little  hills
-instead,  and  his  sword,  which  a  fool  had  been  able  to
-steal  out  of  its  sheath,  has  of  a  sudden  the  likeness  of
-a  rainbow.  A  wandering  lyric  moon  must  knead  and
-kindle  perpetually  that  moving  world  of  cloaks  made
-put  of  the  fleeces  of  Manannan ;    of  armed  men  who
-
-
-xiv  PREFACE
-
-change  themselves  into  sea-birds ;  of  goddesses  who
-become  crows  ;  of  trees  that  bare  fruit  and  flower  at
-the  same  time.  The  great  emotions  of  love,  terror,  and
-friendship  must  alone  remain  untroubled  by  the  moon
-in  that  world,  which  is  still  the  world  of  the  Irish
-country-people,  who  do  not  open  their  eyes  very  wide
-at  the  most  miraculous  change,  at  the  most  sudden
-enchantment.  Its  events,  and  things,  and  people  are
-wild,  and  are  like  unbroken  horses,  that  are  so  much
-more  beautiful  than  horses  that  have  learned  to  run
-between  shafts.  One  thinks  of  actual  life,  when  one
-reads  those  Norse  stories,  which  were  already  in
-decadence,  so  necessary  were  the  proportions  of  actual
-life  to  their  efforts,  when  a  dying  man  remembered  his
-heroism  enough  to  look  down  at  his  wound  and  say,
-"  Those  broad  spears  are  coming  into  fashion " ;  but
-the  Irish  stories  make  one  understand  why  the  Greeks
-call  myths  the  activities  of  the  daemons.  The  great
-virtues,  the  great  joys,  the  great  privations  come  in  the
-myths,  and,  as  it  were,  take  mankind  between  their
-naked  arms,  and  without  putting  off  their  divinity.
-Poets  have  taken  their  themes  more  often  from  stories
-that  are  all,  or  half,  mythological,  than  from  history  or
-stories  that  give  one  the  sensation  of  history,  under-
-standing, as  I  think,  that  the  imagination  which
-remembers  the  proportions  of  life  is  but  a  long
-wooing,  and  that  it  has  to  forget  them  before  it
-becomes  the  torch  and  the  marriage-bed.
-
-
-PREFACE  XV
-
-
-One  finds,  as  one  expects,  in  the  work  of  men  who
-were  not  troubled  about  any  probabilities  or  necessities
-but  those  of  emotion  itself,  an  immense  variety  of
-incident  and  character  and  of  ways  of  expressing
-emotion.  Cuchulain  fights  man  after  man  during  the
-quest  of  the  Brown  Bull,  and  not  one  of  those  fights  is  like
-another,  and  not  one  is  lacking  in  emotion  or  strangeness  ;
-and  when  one  thinks  imagination  can  do  no  more,  the
-storyof  the  Two  Bulls,emblematic  of  all  contests,suddenly
-lifts  romance  into  prophecy.  The  characters  too  have  a
-distinctness  one  does  not  find  among  the  people  of  the
-Mabinogion,  perhaps  not  even  among  the  people  of  the
-Morte  D' Arthur.  One  knows  one  will  be  long  forgetting
-Cuchulain,  whose  life  is  vehement  and  full  of  pleasure,  as
-though  he  always  remembered  that  it  was  to  be  soon
-over  ;  or  the  dreamy  Fergus  who  betrays  the  sons  of
-Usnach  for  a  feast,  without  ceasing  to  be  noble  ;  or  Conall
-who  is  fierce  and  friendly  and  trustworthy,  but  has  not
-the  sap  of  divinity  that  makes  Cuchulain  mysterious  to
-men,  and  beloved  of  women.  Women  indeed,  with  their
-lamentations  for  lovers  and  husbands  and  sons,  and  for
-fallen  rooftrees  and  lost  wealth,  give  the  stories  their
-most  beautiful  sentences  ;  and,  after  Cuchulain,  one  thinks
-most  of  certain  great  queens — of  angry,  amorous  Maeve,
-with  her  long  pale  face  ;  of  Findabair,  her  daughter,  who
-dies  of  shame  and  of  pity  ;  of  Deirdre  who  might  be  some
-mild  modern  housewife  but  for  her  prophetic  wisdom.
-If  one  does  not  set  Deirdre's  lamentations  among  the
-
-
-xvi  PREFACE
-
-greatest  lyric  poems  of  the  world,  I  think  one  may  be
-certain  that  the  wine-press  of  the  poets  has  been  trodden
-for  one  in  vain ;  and  yet  I  think  it  may  be  proud  Emer,
-Cuchulain's  fitting  wife,  who  will  linger  longest  in  the
-memory.  What  a  pure  flame  burns  in  her  always,
-whether  she  is  the  newly-married  wife  fighting  for  pre-
-cedence, fierce  as  some  beautiful  bird,  or  the  confident
-housewife,  who  would  awaken  her  husband  from  his
-magic  sleep  with  mocking  words  ;  or  the  great  queen
-who  would  get  him  out  of  the  tightening  net  of  his
-doom,  by  sending  him  into  the  Valley  of  the  Deaf,  with
-Niamh,  his  mistress,  because  he  will  be  more  obedient  to
-her  ;  or  the  woman  whom  sorrow  has  sent  with  Helen  and
-seult  and  Brunnhilda,  and  Deirdre,  to  share  their
-immortality  in  the  rosary  of  the  poets.
-
-" '  And  oh !  my  love ! '  she  said,  '  we  were  often  in
-one  another's  company,  and  it  was  happy  for  us  ;  for  if
-the  world  had  been  searched  from  the  rising  of  the  sun  to
-sunset,  the  like  would  never  have  been  found  in  one
-place,  of  the  Black  Sainglain  and  the  Grey  of  Macha,
-and  Laeg  the  chariot-driver,  and  myself  and  Cuchulain.'
-
-"  And  after  that  Emer  bade  Conall  to  make  a  wide,
-very  deep  grave  for  Cuchulain  ;  and  she  laid  herself
-down  beside  her  gentle  comrade,  and  she  put  her  mouth
-to  his  mouth,  and  she  said  :  '  Love  of  my  life,  my  friend,
-my  sweetheart,  my  one  choice  of  the  men  of  the  earth,
-many  is  the  women,  wed  or  unwed,  envied  me  until
-to-day ;  and  now  I  will  not  stay  living  after  you.' "
-
-
-PREFACE  xvii
-
-
-VI
-
-
-We  Irish  should  keep  these  personages  much  in
-our  hearts,  for  they  lived  in  the  places  where  we
-ride  and  go  marketing,  and  sometimes  they  have  met
-one  another  on  the  hills  that  cast  their  shadows  upon
-our  doors  at  evening.  If  we  will  but  tell  these  stories
-to  our  children  the  Land  will  begin  again  to  be  a  Holy
-Land,  as  it  was  before  men  gave  their  hearts  to  Greece
-and  Rome  and  Judea.  When  I  was  a  child  I  had  only
-to  climb  the  hill  behind  the  house  to  see  long,  blue,
-ragged  hills  flowing  along  the  southern  horizon.  What
-beauty  was  lost  to  me,  what  depth  of  emotion  is  still
-perhaps  lacking  in  me,  because  nobody  told  me,  not
-even  the  merchant  captains  who  knew  everything,  that
-Cruachan  of  the  Enchantments  lay  behind  those  long,
-blue,  ragged  hills !
-
-W.  B.  YEATS.
-
-March  1902.
-
-
-CONTENTS
-
-PAGE
-
-BIRTH   OF  CUCHULAIN I
-
-BOY   DEEDS  OF  CUCHULAIN 7
-
-THE  COURTING  OF  EMER 21
-
-BRICRIU'S    FEAST,    AND     THE    WAR      OF     WORDS     OF     THE
-
-WOMEN   OF  ULSTER .48
-
-THE  CHAMPIONSHIP  OF  ULSTER 62
-
-THE  HIGH   KING  OF   IRELAND 82
-
-FATE  OF   THE  CHILDREN   OF  USNACH I04
-
-THE  DREAM   OF  ANGUS I43
-
-CRUACHAN 148
-
-THE  WEDDING   OF  MAINE  MORGOR 159
-
-THE  WAR  FOR  THE   BULL  OF  CUAILGNE       .  .  .  .175
-
-THE  AWAKENING  OF  ULSTER 245
-
-THE  TWO  BULLS 268
-
-THE  ONLY  JEALOUSY  OF   EMER 276
-
-ADVICE  TO  A   PRINCE 294
-
-THE  SONS  OF  DOEL  DERMAIT 297
-
-BATTLE  OF  ROSNAREE 302
-
-THE  ONLY  SON  OF  AOIFE 313
-
-THE  GREAT   GATHERING  OF   MUIRTHEMNE .           .          .           .  320
-
-DEATH   OF  CUCHULAIN 334
-
-
-CUCHULAIN  OF  MUIRTHEMNE
-
-
 BIRTH   OF   CUCHULAIN
 
 TN  the  time  long  ago,  Conchubar,  son  of  Ness,  was
@@ -546,8 +8,7 @@ living,  and  Fergus,  son  of  Rogh,  who  was  at  that  time
 King  of  Ulster,  asked  his  mother  Ness  in  marriage.
 
 Now  Ness,  that  was  at  one  time  the  quietest  and
-kindest  of  the  women  of  Ireland,  had  got  to  be  un-
-kind and  treacherous  because  of  an  unkindness  that  had
+kindest  of  the  women  of  Ireland,  had  got  to  be  unkind and  treacherous  because  of  an  unkindness  that  had
 been  done  to  her,  and  she  planned  to  get  the  kingdom
 away  from  Fergus  for  her  own  son.  So  she  said  to
 Fergus :  "  Let  Conchubar  hold  the  kingdom  for  a  year,
@@ -686,8 +147,7 @@ said.  "  I  came  to  a  fine  well-lighted  house,"  said  Bricriu  ;
 "  I  saw  a  queen,  noble,  kind,  with  royal  looks,  with  curled
 hair  ;  I  saw  a  troop  of  women,  beautiful,  well-dressed  ;  I
 saw  the  man  of  the  house,  tall  and  open-handed  and
-shining."  "  Let  us  go  there  for  the  night,"  said  Con-
-chubar. So  they  brought  their  chariots  and  their  horses
+shining."  "  Let  us  go  there  for  the  night,"  said  Conchubar. So  they  brought  their  chariots  and  their  horses
 and  their  arms  ;  and  they  were  hardly  in  the  house  when
 every  sort  of  food  and  of  drink,  some  they  knew  and
 
@@ -730,8 +190,7 @@ or  from  forgetfulness.  It  is  my  messages  that  do  the
 will  of  Conchubar;  I  call  up  the  fighting  men  from
 all  Ireland  ;  I  am  well  able  to  provide  for  them  for  a
 week,  or  even  for  ten  days ;  I  settle  their  business  and
-their  disputes  ;  I  support  their  honour ;  1  get  satisfac-
-tion for  their  insults."
+their  disputes  ;  I  support  their  honour ;  1  get  satisfaction for  their  insults."
 
 
 6  BIRTH   OF   CUCHULAIN
@@ -763,8 +222,7 @@ So  the  men  of  Ulster  set  out  for  Emain,  Finchoem
 having  the  child  with  her.  And  when  they  came  there
 Morann  gave  his  judgment.  "  It  is  for  Conchubar,"  he
 said,  "  to  help  the  child  to  a  good  name,  for  he  is  next
-of  kin  to  him  ;  let  Sencha  teach  him  words  and  speak-
-ing ;  let  Fergus  hold  him  on  his  knees ;  let  Amergin  be
+of  kin  to  him  ;  let  Sencha  teach  him  words  and  speaking ;  let  Fergus  hold  him  on  his  knees ;  let  Amergin  be
 his  tutor."  And  he  said  :  "  This  child  will  be  praised  by
 all,  by  chariot  drivers  and  fighters,  by  kings  and  by  wise
 men  ;  he  shall  be  loved  by  many  men ;  he  will  avenge
@@ -809,8 +267,6 @@ the  ground.
 
 So  he  went  on  until  he  came  to  the  lawn  at  Emain
 
-7
-
 
 8        BOY   DEEDS   OF   CUCHULAIN
 
@@ -836,8 +292,7 @@ came  out  just  then  from  the  palace,  and  when  he  saw
 what  a  good  defence  the  little  lad  was  making,  he
 brought  him  in  to  where  Conchubar  was  playing  chess,
 and  told  him  all  that  had  happened.  "  This  is  no  gentle
-game  you  have  been  playing,"  he  said.  "  It  is  on  them-
-selves the  fault  is,"  said  the  boy ;  "  I  came  as  a  stranger,
+game  you  have  been  playing,"  he  said.  "  It  is  on  themselves the  fault  is,"  said  the  boy ;  "  I  came  as  a  stranger,
 and  I  did  not  get  a  stranger's  welcome."  "  You  did  not
 know  then,"  said  Conchubar,  "  that  no  one  can  play
 among  the  boy  troop  of  Emain  unless  he  gets  their  leave
@@ -869,8 +324,7 @@ for  his  people.  When  Conchubar  was  setting  out  to  the
 feast,  he  passed  by  the  lawn  where  the  boy  troop  were
 at  their  games,  and  he  watched  them  awhile,  and  he  saw
 how  the  son  of  Dechtire  was  winning  the  goal  from  them
-all.  "  That  little  lad  will  serve  Ulster  yet,"  said  Con-
-chubar ;  "  and  call  him  to  me  now,"  he  said,  "  and  let
+all.  "  That  little  lad  will  serve  Ulster  yet,"  said  Conchubar ;  "  and  call  him  to  me  now,"  he  said,  "  and  let
 him  come  with  me  to  the  smith's  feast."  "  I  cannot  go
 with  you  now,"  said  Setanta,  when  they  had  called  to
 him,  "  for  these  boys  have  not  had  enough  of  play  yet."
@@ -903,8 +357,7 @@ to  watch  the  house,  and  every  one  was  in  dread  of
 him,  he  was  so  fierce  and  so  cruel  and  so  savage.
 
 Now,  as  to  the  boys  at  Emain,  when  they  were  done
-playing,  every  one  went  to  his  father's  house,  or  to  who-
-ever was  in  charge  of  him.  But  Setanta  set  out  on  the
+playing,  every  one  went  to  his  father's  house,  or  to  whoever was  in  charge  of  him.  But  Setanta  set  out  on  the
 track  of  the  chariots,  shortening  the  way  for  himself  as
 he  was  used  to  do  with  his  hurling  stick  and  his  ball.
 When  he  came  to  the  lawn  before  the  smith's  house,
@@ -967,8 +420,7 @@ keep  it,"  said  the  boy.  And  this  is  how  he  came  by  the
 name  Cuchulain.
 
 It  was  a  good  while  after  that,  Cathbad  the  Druid  was
-one  day  teaching  the  pupils  in  his  house  to  the  north-
-east of  Emain.  There  were  eight  boys  along  with  him
+one  day  teaching  the  pupils  in  his  house  to  the  northeast of  Emain.  There  were  eight  boys  along  with  him
 that  day,  and  one  of  them  asked  him  :  "  Do  your  signs
 tell  of  any  special  thing  this  day  is  favourable  to  ?  "  "If
 any  young  man  should  take  arms  to-day,"  said  Cathbad,
@@ -1106,8 +558,7 @@ your  place  kept  for  you  between   Conchubar's   knees,
 
 THE   DUN   OF   NECHTAN'S   SONS     15
 
-But  as  to  myself,"  he  said,  "it  is  among  the  chariot-
-drivers  and  the  jesters  and  the  messengers  I  am,  and  I
+But  as  to  myself,"  he  said,  "it  is  among  the  chariotdrivers  and  the  jesters  and  the  messengers  I  am,  and  I
 must  find  a  place  and  fight  for  myself  where  I  can."
 "What  is  that  mountain  before  us?"  said  Cuchulain.
 "That  is  Slieve  Mourne,  and  that  is  Finncairn,  the
@@ -1158,8 +609,7 @@ quick  death."  "  Good  Jubair,"  said  the  boy,  "  spread
 out  the  coverings  of  the  chariot  now  for  me,  until  I  sleep
 for  a  while."  "  It  is  no  good  thing  you  are  going  to  do,"
 said  Jubair,  "to  be  going  to  sleep  in  an  enemy's
-country."  He  put  out  the  coverings  then,  and  Cuchu-
-lain lay  down  and  fell  asleep.
+country."  He  put  out  the  coverings  then,  and  Cuchulain lay  down  and  fell  asleep.
 
 It  was  just  at  that  time,  Foill,  son  of  Nechtan  Sceine,
 came  out,  and  when  he  saw  the  chariot,  he  called  out  to
@@ -1262,8 +712,7 @@ the  heads  of  the  three  sons  of  Nechtan  along  with  them.
 Presently  they  saw  a  herd  of  wild  deer  before  them.
 "  What  sort  of  cattle  are  those  ?  "  said  the  boy.  "  They
 are  not  cattle,  but  the  wild  deer  of  the  dark  places  of
-Slieve  Fuad."  "  Make  the  horses  go  faster,"  said  Cuchu-
-lain, "  until  we  can  see  them  better."  But  with  all  their
+Slieve  Fuad."  "  Make  the  horses  go  faster,"  said  Cuchulain, "  until  we  can  see  them  better."  But  with  all  their
 galloping  the  horses  could  not  come  up  with  the  wild
 deer.  Then  Cuchulain  got  down  from  the  chariot  and
 raced  and  ran  after  them  until  two  stags  lay  moaning
@@ -1366,13 +815,10 @@ So  Conchubar  sent  out  nine  men  into  each  of  the
 provinces  of  Ireland  to  look  for  a  wife  for  Cuchulain,  to
 see  if  in  any  dun  or  in  any  chief  place,  they  could  find  the
 
-21
-
 
 22  THE   COURTING   OF   EMER
 
-daughter  of  a  king  or  of  an  owner  of  land  or  a  house-
-holder, who  would  be  pleasing  to  him,  that  he  might
+daughter  of  a  king  or  of  an  owner  of  land  or  a  householder, who  would  be  pleasing  to  him,  that  he  might
 ask  her  in  marriage.
 
 All  the  messengers  came  back  at  the  end  of  a  year,
@@ -1415,8 +861,7 @@ said  Emer,  "  what  is  it  that  is  coming  towards  us."     And
 CUCHULAIN'S   RIDDLES  23
 
 Fiall,  daughter  of  Forgall,  went  out  and  met  him,  and  he
-came  with  her  to  the  place  where  Emer  and  her  com-
-panions were,  and  he  wished  a  blessing  to  them.  Then
+came  with  her  to  the  place  where  Emer  and  her  companions were,  and  he  wished  a  blessing  to  them.  Then
 Emer  lifted  up  her  lovely  face  and  saw  Cuchulain,  and  she
 said,  "  May  the  gods  make  smooth  the  path  before  you."
 "  And  you,"  he  said,  "  may  you  be  safe  from  every  harm."
@@ -1457,8 +902,7 @@ should  be  a  flame  of  hospitality,  a  road  that  cannot  be
 
 entered.  And  I  have  champions  that  follow  me,"  she
 said,  "to  keep  me  from  whoever  would  bring  me  away
-against  their  will,  and  against  the  will  and  the  know-
-ledge of  Forgall,  the  dark  king."
+against  their  will,  and  against  the  will  and  the  knowledge of  Forgall,  the  dark  king."
 
 "  Who  are  the  champions  that  follow  you,  maiden  ?  "
 said  Cuchulain.
@@ -1523,8 +967,7 @@ that  Conall  Cearnach  is  my  foster-brother.  Cathbad  of
 the  Gentle  Face  taught  me,  for  the  sake  of  Dechtire,  so
 that  I  understand  the  arts  of  the  Druids,  and  I  have
 learned  all  the  goodness  of  knowledge.  All  the  men
-of  Ulster  have  had  a  hand  in  bringing  me  up,  chariot-
-drivers  and  chiefs  of  chariots,  kings  and  chief  poets,  so
+of  Ulster  have  had  a  hand  in  bringing  me  up,  chariotdrivers  and  chiefs  of  chariots,  kings  and  chief  poets,  so
 that  I  am  the  darling  of  the  whole  army,  so  that  I
 fight  for  the  honour  of  all  alike.  And  as  to  yourself,
 Emer,"  he  said,  "what  way  have  you  been  reared  in
@@ -1574,8 +1017,7 @@ no  more  with  one  another  on  that  day.
 When  he  was  driving  across  the  plain  of  Bregia,  Laeg,
 his  chariot-driver,  asked  him,  "  What,  now,  was  the
 meaning  of  the  words  you  and  the  maiden  Emer  were
-speaking  together  ?  "  "  Do  you  not  know,"  said  Cuchu-
-lain, "  that  I  came  to  court  Emer  ?  And  it  is  for  this
+speaking  together  ?  "  "  Do  you  not  know,"  said  Cuchulain, "  that  I  came  to  court  Emer  ?  And  it  is  for  this
 reason  we  put  a  cloak  on  our  words,  that  the  young  girls
 with  her  might  not  understand  what  I  had  come  for.
 For  if  Forgall  knew  it,  he  would  not  consent  to  it,  but  to
@@ -1669,12 +1111,10 @@ is  the  Boinne,  and  it  gets  its  name  from  Boann,  the
 wife  of  Nechtan,  son  of  Labraid.  She  went  down
 to  the  hidden  well  at  the  bottom  of  the  dun  with  the
 three  cup-bearers  of  Nechtan,  Flex  and  Lex  and  Luam.
-No  one  came  back  from  that  well  without  blemish  un-
-less the  three  cup-bearers  went  with  him.  But  the
+No  one  came  back  from  that  well  without  blemish  unless the  three  cup-bearers  went  with  him.  But  the
 queen  went  out  of  pride  and  overbearing  to  the  well,
 and  it  is  what  she  said,  that  nothing  would  spoil  her
-shape  or  put  a  blemish  on  her.  She  passed  left-hand-
-wise  round  the  well,  to  mock  at  its  powers.     Then  three
+shape  or  put  a  blemish  on  her.  She  passed  left-handwise  round  the  well,  to  mock  at  its  powers.     Then  three
 
 
 THE  MEANING  OF  THE  RIDDLES  29
@@ -1750,8 +1190,7 @@ then  the  women  came  to  the  shore,  and  they  put  the
 boy  out  of  the  ship  on  the  land  where  the  men  were.
 And  the  harbour  was  stony  and  rocky,  and  the  boy
 slipped  and  fell  on  one  of  the  rocks,  so  that  he  died
-there.  And  the  women  saw  it,  and  they  cried  all  to-
-gether, '  Olbine,  Olbine,'  that  is  '  Great  Crime.'  And
+there.  And  the  women  saw  it,  and  they  cried  all  together, '  Olbine,  Olbine,'  that  is  '  Great  Crime.'  And
 it  is  from  that  it  is  called  Ailbine.
 
 " '  The  Remnants  of  the  Great  Feast,'  I  said.  That  is
@@ -1848,8 +1287,7 @@ of  the  people  about  Scathach.
 
 So  then  Forgall  v/ent  home,  and  Cuchulain  rose  up
 in  the  morning,  and  made  ready  to  set  out  for  Alban,  and
-Laegaire  Buadach,  the  Battle  Winner,  and  Conall  Cear-
-nach  said  they  would  go  with  him.     But  first  Cuchulain
+Laegaire  Buadach,  the  Battle  Winner,  and  Conall  Cearnach  said  they  would  go  with  him.     But  first  Cuchulain
 
 
 CUCHULAIN'S   JOURNEY  33
@@ -1877,14 +1315,12 @@ he  held  to  his  word  that  he  would  not  go  back  to  Emain
 without  finding  Scathach,  even  if  he  should  die  in  the
 attempt.
 
-But  now  he  was  astray  and  ignorant,  and  not  know-
-ing which  way  to  take,  and  he  saw  a  terrible  grqat  beast
+But  now  he  was  astray  and  ignorant,  and  not  knowing which  way  to  take,  and  he  saw  a  terrible  grqat  beast
 like  a  lion  coming  towards  him,  and  it  watching  him,
 but  it  did  not  try  to  harm  him.  Whatever  way  he
 went,  the  beast  went  before  him,  and  then  it  stopped
 and  turned  its  side  to  him.  So  he  made  a  leap  and
-was  on  its  back,  and  he  did  not  guide  it,  but  went  what-
-ever way  it  chose.  They  travelled  like  that  through
+was  on  its  back,  and  he  did  not  guide  it,  but  went  whatever way  it  chose.  They  travelled  like  that  through
 four  days,  till  they  came  to  the  end  of  the  bounds  of
 men,  and  to  an  island  where  lads  were  rowing  in  a
 small  loch ;  and  the  lads  began  to  laugh  when  they
@@ -2054,8 +1490,7 @@ they  had  all  been  promised  before.
 
 And  when  Forgall  Manach  heard  this,  he  went  to
 Emain,  and  he  told  Lugaid  that  the  best  of  the  maidens
-of  Ireland,  both  as  to  form  and  behaviour  and  handi-
-work^ was  in   his  house  unwed.     Lugaid  said  he  was
+of  Ireland,  both  as  to  form  and  behaviour  and  handiwork^ was  in   his  house  unwed.     Lugaid  said  he  was
 
 
 THE   WARWITH    AOIFE  37
@@ -2070,8 +1505,7 @@ But  whem  Emer  was  brought  to  Lugaid  to  sit  by  his
 side,  she  laid  one  of  her  hands  on  each  side  of  his  face,
 and  she  said  on  the  truth  of  her  good  name  and  of  her
 life,  that  it  was  Cuchulain  she  loved,  although  her  father
-was  against  him,  and  that  no  one  that  was  an  honour-
-able man  should  force  her  to  be  his  wife.
+was  against  him,  and  that  no  one  that  was  an  honourable man  should  force  her  to  be  his  wife.
 
 Then  Lugaid  did  not  dare  take  her,  for  he  was  in
 dread  of  Cuchulain,  and  so  he  returned  home  again.
@@ -2080,12 +1514,10 @@ As  to  Cuchulain,  after  he  had  been  a  good  time  with
 Scathach,  a  war  began  between  herself  and  Aoife,
 queen  of  the  tribes  that  were  round  about.  The
 armies  were  going  out  to  fight,  but  Cuchulain  was  not
-with  them,  for  Scathach  had  given  him  a  sleeping-
-drink  that  would  keep  him  safe  and  quiet  till  the  fight
+with  them,  for  Scathach  had  given  him  a  sleepingdrink  that  would  keep  him  safe  and  quiet  till  the  fight
 would  be  over,  for  she  was  afraid  some  harm  would
 come  to  him  if  he  met  Aoife,  for  she  was  the  greatest
-woman-warrior  in  the  world,  and  she  understood  en-
-chantments and  witchcraft.  But  after  one  hour,  Cuchu-
+woman-warrior  in  the  world,  and  she  understood  enchantments and  witchcraft.  But  after  one  hour,  Cuchu-
 lain started  up  out  of  his  sleep,  for  the  sleeping-drink
 that  would  have  held  any  other  man  for  a  day  and  a
 night,  held  him  for  only  that  length  of  time.  And  he
@@ -2126,8 +1558,7 @@ of  her,  and  lifted  her  on  his  shoulders,  and  brought
 her  down  to  where  the  army  was,  and  laid  her  on
 the  ground,  and  held  his  sword  to  her  breast,  and  she
 begged  for  her  life,  and  he  gave  it  to  her.  And  after
-that  she  made  peace  with  Scathach,  and  bound  her-
-self by  sureties  not  to  go  against  her  again.  And  she
+that  she  made  peace  with  Scathach,  and  bound  herself by  sureties  not  to  go  against  her  again.  And  she
 gave  her  love  to  Cuchulain  ;  and  out  of  that  love  great
 sorrow  came  afterwards.
 
@@ -2157,8 +1588,7 @@ when  she  asked  it.
 After  that,  he  stayed  for  another  while  with  Scathach,
 until  he  had  learned  all  the  arts  of  war  and  all  the  feats
 of  a  champion  ;  and  then  a  message  came  to  him  to
-come  back  to  his  own  country,  and  he  bade  her  fare-
-well. And  Scathach  told  him  what  would  happen  him
+come  back  to  his  own  country,  and  he  bade  her  farewell. And  Scathach  told  him  what  would  happen  him
 in  the  time  to  come,  for  she  had  the  Druid  gift ;  and  she
 told  him  there  were  great  dangers  before  him,  and  that
 he  would  have  to  fight  against  great  armies,  and  he
@@ -2358,8 +1788,7 @@ It  was  the  custom  with  the  men  of  the  Red  Branch,
 if  one  of  them  heard  a  word  of  insult,  to  get  satisfaction
 for  it  on  the  moment.  He  would  get  up  in  the  feasting
 hall  itself,  and  make  his  attack  ;  and  it  was  to  prevent
-that,  the  arms  were  kept  together  in  one  place.  Con-
-chubar's shield,  the  Ochain,  that  is  the  Moaning  One,
+that,  the  arms  were  kept  together  in  one  place.  Conchubar's shield,  the  Ochain,  that  is  the  Moaning  One,
 was  hanging  there  ;  whenever  Conchubar  would  be  in
 
 
@@ -2370,8 +1799,7 @@ would  moan  in  answer  to  it.  And  Conall  Cearnach's
 Lam-tapaid,  the  Quick  Hand,  was  in  it.  And  Fergus's
 Leochain,  and  Dubthach's  Uathach,  and  Laegaire's
 Nithach ;  and  Sencha's  Sciath-arglan  and  Celthair's
-Comla  Catha,  the  Gate  of  Battle,  and  a  great  many-
-others  along  with  these.
+Comla  Catha,  the  Gate  of  Battle,  and  a  great  manyothers  along  with  these.
 
 And  Cuchulain's  shield  was  there,  and  the  way  he
 got  it  was  this.
@@ -2393,8 +1821,7 @@ and  he  was  thinking  what  was  best  for  him  to  do,  when
 he  saw  a  man  coming  towards  him.  "There  is  some
 trouble  on  you,"  he  said.  "  There  is,  indeed,"  said  the
 shield-maker,  "  for  I  am  in  danger  of  death  unless  I
-make  a  shield  for  Cuchulain."  "  Clear  out  your  work-
-shop," said  the  strange  man,  "  and  spread  ashes  a  foot
+make  a  shield  for  Cuchulain."  "  Clear  out  your  workshop," said  the  strange  man,  "  and  spread  ashes  a  foot
 deep  on  the  floor."
 
 And  when  this  was  done,  Mac  Enge  saw  the  man
@@ -2410,8 +1837,7 @@ And  as  to  Cuchulain's  sword  that  was  hanging  along
 
 THEGAEBULG  45
 
-with  the  shield,  its  name  was  the  Cruaidin  Cailid-
-cheann ;  that  is,  the  Hard,  Hard  Headed.  And  it  had
+with  the  shield,  its  name  was  the  Cruaidin  Cailidcheann ;  that  is,  the  Hard,  Hard  Headed.  And  it  had
 a  hilt  of  gold  with  ornaments  of  silver,  and  if  the  point
 of  the  sword  would  be  bent  back  to  its  hilt,  it  would
 come  as  straight  as  a  rod  back  again.  It  would  cut
@@ -2438,8 +1864,7 @@ Cuchulain,  and  he  brought  it  to  Ireland.  And  it
 was  with  it  he  killed  his  own  son,  and  his  friend
 Ferdiad  afterwards.
 
-There  were  three  hundred  and  sixty-five  men  belong-
-ing to  Conchubar's  household ;  and  one  among  them
+There  were  three  hundred  and  sixty-five  men  belonging to  Conchubar's  household ;  and  one  among  them
 served  the  supper  every  night,  and  when  the  year  came
 round,  he  would  take  his  turn  again.  And  it  is  not  a
 small  thing  that  supper  was  :  beef  and  pork  and  beer
@@ -2557,8 +1982,6 @@ and  the  strength  of  six  men  to  fix  every  pole,  and
 thirty  of  the  best  skilled  men  in  Ireland  were  ordering
 it  and  directing  it,
 
-48
-
 
 BRICRIU'S    INVITATION  49
 
@@ -2577,8 +2000,7 @@ Macha  to  see  Conchubar  and  the  chief  men  of  Ulster.
 
 It  happened  that  day  they  were  all  gathered  together
 at  Emain  Macha,  and  they  made  him  welcome,  and  they
-put  him  to  sit  beside  Conchubar,  and  he  said  to  Conchu-
-bar and  to  them  all,  "  Come  with  me  to  a  feast  I  have
+put  him  to  sit  beside  Conchubar,  and  he  said  to  Conchubar and  to  them  all,  "  Come  with  me  to  a  feast  I  have
 made  ready."  "  I  am  willing  to  go,"  said  Conchubar,
 "  if  the  men  of  Ulster  are  willing."
 
@@ -2622,8 +2044,7 @@ out  from  Emain,  host,  troop,  and  company  under  king,
 chief,  and  leader,  and  it  was  a  good  march  they  all  made
 together  to  Dun-Rudraige.
 
-Then  Bricriu  set  himself  to  think  how  with  the  securi-
-ties that  were  given  for  him,  he  could  best  manage  to  set
+Then  Bricriu  set  himself  to  think  how  with  the  securities that  were  given  for  him,  he  could  best  manage  to  set
 the  men  of  Ulster  one  against  the  other.  After  he  had
 been  thinking  a  while,  he  went  over  to  Laegaire  Buadach,
 son  of  Connad,  son  of  Iliath.  "  All  good  be  with  you,
@@ -2725,8 +2146,7 @@ Conall  Cearnach ;  Cuchulain  ;  Conrad,  son  of  Mornai ;
 Ere,  son  of  Fedelmid  ;  lollan,  son  of  Fergus  ;  Fintan,  son
 of  Nial ;  Cethern,  son  of  Fintan  ;  Factna,  son  of  Sencad  ;
 Conla  the  False  ;  Ailell  the  Honey-Tongued  ;  the  chief
-men  of  Ulster,  with  the  young  men  and  the  song-
-makers.
+men  of  Ulster,  with  the  young  men  and  the  songmakers.
 
 While  the  feast  was  being  spread  out,  the  musicians
 and  players  made  music  for  them.  As  soon  as  Bricriu
@@ -2766,8 +2186,7 @@ spears,  and  the  other  half  was  as  white  as  chalk  with  the
 whiteness  of  the  shields.  There  was  fear  on  the  whole
 gathering ;  all  the  men  were  put  from  their  places,  and
 there  was  great  anger  on  Conchubar  himself  and  on
-Fergus,  son  of  Rogh,  to  see  the  injustice  and  the  hard-
-ship of  two  men  fighting  against  one,  Conall  and
+Fergus,  son  of  Rogh,  to  see  the  injustice  and  the  hardship of  two  men  fighting  against  one,  Conall  and
 Laegaire  both  together  attacking  Cuchulain  ;  but  there
 was  no  one  among  the  men  of  Ulster  dared  part  them
 till  Sencha  spoke  to  Conchubar.  "  It  is  time  for  you  to
@@ -3082,8 +2501,7 @@ against  hard-spiked  places  the  way  he  does.
 
 "  There  is  no  one  is  his  equal  in  youth,  in  form,  in
 brightness,  in  birth,  in  mind,  in  voice,  in  bravery,  in
-boldness,  in  fire,  in  skill ;  no  one  is  his  equal  in  hunt-
-ing, in  running,  in  strength,  in  victories,  in  greatness.
+boldness,  in  fire,  in  skill ;  no  one  is  his  equal  in  hunting, in  running,  in  strength,  in  victories,  in  greatness.
 There  is  no  man  to  be  found  who  can  be  put  beside
 Cuchulain."
 
@@ -3111,8 +2529,7 @@ And  Cuchulain  said :  "  To-day  myself  and  the  Grey
 of  Macha  have  gone  through  the  great  plains  of  Ireland,
 Bregia  of  Meath,  the  seashore  marsh  of  Muirthemne
 Macha,  through  Moy  Medba,  Currech  Cleitech  Cerna,
-Lia  of  Linn  Locharn,  Per  Femen  Fergna,  Curros  Dom-
-nand,  Ros  Roigne,  and  Eo.  And  now  I  would  sooner
+Lia  of  Linn  Locharn,  Per  Femen  Fergna,  Curros  Domnand,  Ros  Roigne,  and  Eo.  And  now  I  would  sooner
 eat  and  sleep  than  do  any  other  thing.  But  I  swear
 by  the  gods  my  people  swear  by,"  he  said,  "  I  would  be
 ready  to  fight  with  any  man  of  you  if  I  had  but  my
@@ -3136,8 +2553,7 @@ to  go  to  Cruachan  in  Connaught,  to  have  the  matter
 judged  by  Ailell  and  by  Maeve.  "  And  if  that  fails
 you,"  he  said,  "  what  you  have  to  do  is  to  go  to  Curoi,
 son  of  Daire,  at  Slieve  Mis,  in  Munster.  And  it  is  a
-true  judgment  he  will  give,  for  he  is  just  and  fair-
-minded,  his  house  is  open  to  guests,  his  hand  is  good
+true  judgment  he  will  give,  for  he  is  just  and  fairminded,  his  house  is  open  to  guests,  his  hand  is  good
 in  battle,  in  leading  he  is  a  king.  He  will  give  you  a
 right  judgment,  but  it  is  only  a  brave  man  will  ask
 it  from  him,  for  he  is  wise  in  all  sorts  of  enchantments,
@@ -3152,8 +2568,6 @@ no  wonder,"  said  Cuchulain,  "  for  every  one  knows  the
 awkwardness  of  your  horses,  and  the  unsteadiness  of
 your  chariot ;  it  is  so  heavy  that  each  of  the  wheels
 raises  the  sod  on  each  side  wherever  it  goes,  the  way
-
-62
 
 
 CUCHULAIN   AND   THE   WOMEN   63
@@ -3217,8 +2631,7 @@ ground,  and  the  whole  of  the  dun  began  to  shake,  so
 that  every  man  was  trembling  like  a  rush  in  a  stream.
 On  that  Maeve  said  :  "  Since  the  day  I  first  came  to
 Cruachan  I  never  before  heard  thunder,  there  being  no
-clouds  in  the  sky."  Then  Findabair  of  the  Fair  Eye-
-brows, daughter  of  Ailell  and  of  Maeve,  went  up,  for  she
+clouds  in  the  sky."  Then  Findabair  of  the  Fair  Eyebrows, daughter  of  Ailell  and  of  Maeve,  went  up,  for  she
 had  a  bird's  sight,  to  her  sunny  parlour  over  the  great
 door  of  the  fort,  to  tell  them  what  was  coming.  "  Dear
 mother,"  she  said,  "  I  see  a  chariot  coming  over  the
@@ -3229,8 +2642,7 @@ two  horses  that  are  in  the  chariot.  Two  fiery  dappled
 greys,  of  the  one  colour,  shape,  and  goodness,  having
 the  one  speed,  keeping  the  one  pace  ;  their  ears  pricked,
 their  heads  high,  their  nostrils  broad,  foreheads  broad,
-manes  and  tails  curled,  thin-sided,  wide-chested,  gallop-
-ing together.  The  chariot  is  made  of  fine  wood  with
+manes  and  tails  curled,  thin-sided,  wide-chested,  galloping together.  The  chariot  is  made  of  fine  wood  with
 wicker-work  newly  polished,  the  yoke  curved,  with  silver
 ornaments  on  it ;  it  has  two  black  wheels,  soft  looped
 yellow  reins.  I  see  in  the  chariot  a  big  stout  man,  with
@@ -3244,8 +2656,7 @@ feathers  over  his  head."
 CONALLCEARNACH  65
 
 "  I  know  well  who  that  man  is,"  said  Maeve,  and  it
-is  what  she  said  :  "  A  companion  of  kings,  an  old  be-
-stower  of  victories,  a  storm  of  war,  a  flame  of  judgment,
+is  what  she  said  :  "  A  companion  of  kings,  an  old  bestower  of  victories,  a  storm  of  war,  a  flame  of  judgment,
 a  long  knife  of  victory  that  will  cut  us  to  pieces,  mighty
 Laegaire  of  the  Red  Hand.  His  sword  cuts  through
 men  as  a  knife  cuts  through  a  leek ;  his  stroke  is  the
@@ -3300,15 +2711,13 @@ if  he  came  against  us."
 Findabair.  "  Tell  me  what  its  appearance  is,"  said
 Maeve.  "  I  see  two  horses  of  the  one  size  and  beauty,
 the  one  fierceness  and  speed,  with  ears  pricked,  heads
-high,  spirited  and  powerful,  with  fine  nostrils,  wide  fore-
-heads, mane  and  tail  curled,  leaping  together.  The  one
+high,  spirited  and  powerful,  with  fine  nostrils,  wide  foreheads, mane  and  tail  curled,  leaping  together.  The  one
 grey,  handsome,  with  broad  thighs,  eager,  leaping,
 thundering,  and  trampling.  As  he  goes,  his  fierce
 hoofs  throw  up  sods  of  earth  like  a  flock  of  swift  birds
 after  him.  As  he  gallops  on  his  way,  he  breathes  out
 a  blast  of  hot  breath,  a  fire  comes  from  his  curbed  jaws.
-The  other,  dark,  small-headed,  well-shaped,  broad-
-hoofed,  thin-sided,  high-couraged,  broad-backed,  sure-
+The  other,  dark,  small-headed,  well-shaped,  broadhoofed,  thin-sided,  high-couraged,  broad-backed,  sure-
 footed, spirited ;  he  takes  long  strides  in  the  race ;
 he  leaps  over  streams,  he  throws  off  heaviness,  he
 crosses  the  plains  of  the  middle  valley.  They  come
@@ -3390,8 +2799,7 @@ for  himself,  or  would  they  have  one  house  for  the  three  ?
 "  A  house  for  each  to  himself,"  said  Cuchulain.  And
 when  the  rest  of  the  men  of  Ulster  came,  Ailell  and
 Maeve  with  their  whole  household  went  out  and  bade
-them  welcome.  "We  are  well  pleased  with  the  wel-
-come," said  Sencha  for  them.
+them  welcome.  "We  are  well  pleased  with  the  welcome," said  Sencha  for  them.
 
 After  that,  they  all  came  into  the  fort  and  into  the
 palace.  They  went  round  from  one  door  to  the  other,
@@ -3527,8 +2935,7 @@ and  he  knew  there  was  danger  in  whatever  judgment
 he  might  give  ;  and  he  had  not  eaten  or  slept  for  three
 days  and  three  nights.  Then  Maeve  said  to  him,  "  It  is
 a  coward  you  are,  and  if  you  do  not  settle  this  matter  I
-will  settle  it  myself"  "  It  is  hard  for  me  to  give  judg-
-ment," said  Ailell,  "  it  is  a  misfortune  for  any  one  to  have
+will  settle  it  myself"  "  It  is  hard  for  me  to  give  judgment," said  Ailell,  "  it  is  a  misfortune  for  any  one  to  have
 to  do  it."  "  It  is  easy  enough,"  said  Maeve,  "  for  Laegaire
 and  Conall  Cearnach  are  as  different  as  bronze  and
 silver,  and  Conall  Cearnach  and  Cuchulain  are  as
@@ -3536,8 +2943,7 @@ different  as  silver  and  red  gold."
 
 After  a  while,  when  Maeve  had  searched  her  mind,
 Laegaire  Buadach  was  called  to  her.  "  Welcome,  Laegaire
-Buadach,"  she  said, "  it  is  right  for  you  to  have  the  Cham-
-pion's Portion.  We  give  you  the  headship  of  the  heroes
+Buadach,"  she  said, "  it  is  right  for  you  to  have  the  Champion's Portion.  We  give  you  the  headship  of  the  heroes
 of  Ireland  from  this  out,  and  the  Champion's  Portion,
 and  along  with  that  this  cup  of  bronze,  having  a  bird
 in  raised  silver  on  the  bottom.  Take  it  with  you  as  a
@@ -3553,8 +2959,7 @@ of  Ulster,  and  not  one  of  them  will  dispute  it  with  you
 any  more,  for  they  will  know  by  this  token  that  the
 Championship  has  been  given  to  you."  With  that,  the
 cup  was  given  to  him  with  its  full  of  rich  wine,  and  he
-drank  it  off  at  a  draught.  "  Now  you  have  the  Champion-
-ship," said  Maeve  ;  "  and  I  wish  you  may  enjoy  it  a
+drank  it  off  at  a  draught.  "  Now  you  have  the  Championship," said  Maeve  ;  "  and  I  wish  you  may  enjoy  it  a
 hundred  years  at  the  head  of  all  Ulster."
 
 So  Laegaire  left  her,  and  Conall  Cearnach  was  called
@@ -3666,15 +3071,12 @@ they  let  down  their  hands  and  sheathed  their  swords.
 "It  is  best,"  said  Sencha,  "for  you  to  go  to  Curoi  for
 judgment."     "  We  agree  to  that,"  said  they.
 
-So  on  the  morning  of  the  morrow,  the  three — Cuchu-
-lain,  Conall,  and  Laegaire — set  out  for  Curoi's  dun.  At
+So  on  the  morning  of  the  morrow,  the  three — Cuchulain,  Conall,  and  Laegaire — set  out  for  Curoi's  dun.  At
 the  gate  of  the  dun  they  unyoked  their  chariots,  and
 they  went  into  the  courtyard,  and  Blanad,  daughter  of
 Mind,  Curoi's  wife,  gave  them  a  good  welcome.  Curoi
-was  not  at  home  that  night,  but  knowing,  by  his  en-
-chantments, they  would  come,  he  had  left  instructions
-with  his  wife  how  to  entertain  them  ;  and  she  did  ac-
-cording to  his  wish,  giving  them  water  for  washing,  and
+was  not  at  home  that  night,  but  knowing,  by  his  enchantments, they  would  come,  he  had  left  instructions
+with  his  wife  how  to  entertain  them  ;  and  she  did  according to  his  wish,  giving  them  water  for  washing,  and
 drinks  for  refreshing,  and  beds  of  the  best,  so  that  they
 were  well  satisfied.
 
@@ -3736,8 +3138,7 @@ if  they  are  enemies,  let  them  come  on."  Then  they
 raised  a  great  shout  at  him,  and  Cuchulain  rushed  at
 them  and  attacked  them,  so  that  the  nine  fell  dead  to
 the  ground,  and  he  cut  their  heads  off  and  made  a  heap
-of  them,  and  sat  down  again  to  keep  the  watch.  An-
-other nine  and  then  another  shouted  at  him,  but
+of  them,  and  sat  down  again  to  keep  the  watch.  Another nine  and  then  another  shouted  at  him,  but
 he  made  an  end  of  the  three  nines,  and  made  one  heap
 of  their  heads  and  their  arms.
 
@@ -3843,8 +3244,7 @@ want  ?  "
 "  Uath,  the  Stranger,  is  my  name,"  said  he  ;  "  and
 neither  of  those  things  is  the  thing  I  want.  The  thing
 I  want  is  the  thing  I  cannot  find,  and  I  after  going
-through  the  world  of  Ireland  and  the  whole  world  look-
-ing for  it,  and  that  is  a  man  that  will  keep  his  word  and
+through  the  world  of  Ireland  and  the  whole  world  looking for  it,  and  that  is  a  man  that  will  keep  his  word  and
 will  hold  to  his  agreement  with  me."
 
 "  What  agreement  is  that  ?  "  said  Fergus.  "  Here  is
@@ -3861,8 +3261,7 @@ UATH,   THE   STRANGER  79
 
 and  keep  to  his  bargain.  Conchubar  I  put  aside
 because  of  his  kingship,  and  Fergus,  son  of  Rogh,  for
-the  same  reason.  But  outside  these  two,  come,  which-
-ever of  you  will  venture,  he  to  cut  off  my  head  to-night,
+the  same  reason.  But  outside  these  two,  come,  whichever of  you  will  venture,  he  to  cut  off  my  head  to-night,
 I  to  cut  off  his  head  to-morrow  night."
 
 "  It  is  not  right  for  dishonour  to  be  put  on  a  whole
@@ -3910,8 +3309,7 @@ your  daring  is  gone  from  you  ;  you  covet  a  great  name,
 but  you  are  not  able  to  earn  it.  Where  is  that  poor
 squinting  fellow  that  is  called  Cuchulain,"  he  said,  "  till
 I  see  if  his  word  is  any  better  than  the  word  of  the
-others  ? "  "I  will  keep  my  word  without  any  agree-
-ment," said  Cuchulain.  "  That  is  likely,  you  miserable
+others  ? "  "I  will  keep  my  word  without  any  agreement," said  Cuchulain.  "  That  is  likely,  you  miserable
 fly,  it  is  in  great  fear  of  death  you  are."
 
 On  that,  Cuchulain  made  a  leap  towards  him  and
@@ -4007,8 +3405,6 @@ red  as  the  berries  of  the  rowan-tree,  and  her  body  as
 white  as  the  foam  of  a  wave.  The  bright  light  of  the
 moon   was   in  her  face,  the   highness  of  pride  in    her
 
-82
-
 
 ETA  IN  83
 
@@ -4064,8 +3460,7 @@ serving-men  to  bring  the  child  away  out  of  his  sight,
 and  to  do  away  with  her.  So  they  brought  her  to  a
 pit,  but  when  they  were  putting  her  in,  she  smiled  a
 laughing  smile  at  them,  and  they  had  not  the  heart  to
-harm  her.  So  they  brought  her  to  a  calf-shed  belong-
-ing to  the  herds  that  minded  the  cattle  of  Eterscel,
+harm  her.  So  they  brought  her  to  a  calf-shed  belonging to  the  herds  that  minded  the  cattle  of  Eterscel,
 great-grandson  of  lar,  king  of  Teamhair ;  and  they
 cared  her  well  there,  and  there  was  not  a  king's
 daughter  in  Ireland  was  nicer  than  herself.  And  they
@@ -4200,11 +3595,9 @@ said  when  they  saw  him :  "  Our  bull  feast  and  our
 charm  of  truth  were  not  worth  much,  when  it  is  only
 a  young,  beardless  lad  they  have  brought  us ! "
 
-"  That  is  no  matter,"  said  Conaire,  "  for  it  is  no  dis-
-grace for  you  to  have  a  young  king,  when  my  father
+"  That  is  no  matter,"  said  Conaire,  "  for  it  is  no  disgrace for  you  to  have  a  young  king,  when  my  father
 and  my  grandfather  held  the  same  place."  "That  is
-true,"  they  all  said  then,  and  they  gave  him  the  king-
-ship, and  he  said,  "  I  will  learn  of  wise  men,  that  I
+true,"  they  all  said  then,  and  they  gave  him  the  kingship, and  he  said,  "  I  will  learn  of  wise  men,  that  I
 myself  may  be  wise."
 
 Now  there  was  great  plenty  in  Ireland  through  his
@@ -4237,8 +3630,7 @@ cow,  from  the  same  man  every  year  for  three  years.
 And  every  year  the  countryman  would  come  to  the
 king  to  make  his  complaint,  and  every  year  the  king
 would  say,  "  It  is  to  the  sons  of  Donn  Dessa  you
-should  go,  for  it  is  they  took  the  beasts."  But  when-
-ever he  would  go  and  speak  to  them,  they  would  go
+should  go,  for  it  is  they  took  the  beasts."  But  whenever he  would  go  and  speak  to  them,  they  would  go
 near  to  kill  him,  and  he  would  not  go  back  to  the  king
 for  fear  he  might  be  vexed.
 
@@ -4341,8 +3733,7 @@ fighting  men,  he  that  kept  three  of  the  Fomor  as  hostages
 at  the  king's  court,  the  way  their  people  would  not  spoil
 corn  or  milk  in  Ireland  through  his  reign  ;  "  it  is  oftener
 the  men  of  Ireland  have  been  quarrelling  to  have  you
-in  the  house,  than  you  have  been  straying  about,  look-
-ing for  a  lodging."  "  I  have  a  friend  not  far  from  this,"
+in  the  house,  than  you  have  been  straying  about,  looking for  a  lodging."  "  I  have  a  friend  not  far  from  this,"
 said  Conaire,  "  if  we  but  knew  the  way  to  his  house."
 "  What  is  his  name  ?  "  said  Mac  Cecht.  "  Da  Derga  of
 Leinster,  that  keeps  the  great  Inn,"  said  Conaire.  "  He
@@ -4370,8 +3761,7 @@ THETHREEREDMEN  91
 "  I  will  go  on  first  till  I  light  a  fire  in  the  house  before
 you."
 
-They  went  on  then  towards  Ath  Cliath,  and  pre-
-sently a  man  with  hair  cut  short,  with  a  dreadful
+They  went  on  then  towards  Ath  Cliath,  and  presently a  man  with  hair  cut  short,  with  a  dreadful
 appearance,  with  but  one  hand  and  one  foot  and  one
 eye,  overtook  them.  A  forked  pole  of  black  iron  he  had
 in  his  hand,  and  on  his  back  a  black-bristled  singed
@@ -4520,8 +3910,7 @@ from  the  Inn  through  the  wheels  of  the  chariots  that
 were  outside  the  doors,  Ingcel  said  to  Ferogain,  "  What
 is  that  great  light  beyond?"  "It  is  what  I  think,"
 said  Ferogain,  "  that  it  is  the  fire  of  Conaire,  the  High
-King.  And  I  would  be  glad  he  not  to  be  there  to-
-night, for  it  would  be  a  pity  if  harm  would  come  on
+King.  And  I  would  be  glad  he  not  to  be  there  tonight, for  it  would  be  a  pity  if  harm  would  come  on
 him,  or  his  life  be  shortened,  for  he  is  a  branch  in  its
 blossom."
 
@@ -4621,8 +4010,7 @@ Findmor."
 "  There  is  grief  on  us  if  that  story  is  true,"  said  the
 other  sons  of  Donn  Dessa ;  "  for  it  is  good  those  three
 are.  They  are  as  mannerl}-  as  young  girls,  and  they  have
-the  hearts  of  brothers,  and  the  courage  of  lions.  Who-
-ever has  been  \^-ith  them  and  parts  from  them,  it  is  little
+the  hearts  of  brothers,  and  the  courage  of  lions.  Whoever has  been  \^-ith  them  and  parts  from  them,  it  is  little
 he  sleeps  or  eats  till  the  end  of  nine  days,  fretting  after
 their  company.  It  is  a  pit>'  for  him  that  will  destroy
 them."
@@ -4664,8 +4052,7 @@ spear  in  his  hand  is  Celthair's  Luin,  that  was  in  the
 battle  of  Magh  Tuireadh,  and  that  was  brought  from
 the  east  by  the  three  children  of  Tuireann,  and  when  a
 battle  is  coming  near,  it  flames  up  of  itself,  and  it  must
-be  kept  quenched  in  a  vessel,  or  it  will  go  through  who-
-ever has  it  in  his  hand."
+be  kept  quenched  in  a  vessel,  or  it  will  go  through  whoever has  it  in  his  hand."
 
 "  I  saw  after  that,"  said  Ingcel,  "  a  room  with  nine
 men  in  it,  fair-haired  and  beautiful,  with  speckled  cloaks,
@@ -4708,8 +4095,7 @@ broad  spears,  and  red  curved  shields."
 "  I  know  those  men,"  said  Ferogain ;  "  three  royal
 princes  of  Britain  that  are  with  the  king,  Oswald  and
 his  two  foster-brothers,  Osbrit  of  the  Long  Hand  and
-his  two  foster-brothers,  Lindas  and  his  two  foster-
-brothers."
+his  two  foster-brothers,  Lindas  and  his  two  fosterbrothers."
 
 "Three  red  men  I  saw  after  that,"  said  Ingcel;  "red
 shields  above  them,  red  spears  in  their  hands,  their
@@ -4746,8 +4132,7 @@ good  cause  for  it ;  an  unfriendly  eye  looked  at  me ;
 there  is  some  bad  thing  in  front  of  the  Inn.'
 
 "  And  when  the  king  heard  that,  it  is  what  he  said  :
-*  I  had  a  dream  in  my  sleep  a  while  ago,  of  the  howl-
-ing of  my  dog  Ossar,  of  wounded  men,  of  a  wind  of
+*  I  had  a  dream  in  my  sleep  a  while  ago,  of  the  howling of  my  dog  Ossar,  of  wounded  men,  of  a  wind  of
 terror,  of  keening  that  overcame  laughter.' "
 
 "  That  was  Taulchinne,  Conaire's  juggler,"  said
@@ -4964,8 +4349,6 @@ and  there  was  anger  on  him,  for  he  thought  the  Druid
 was  mocking  him  ;  "  if  that  is  all  you  can  say,  you  can
 keep    it  for  yourself;    it  is  little  I  think  of  your  share
 
-104
-
 
 BIRTH   OF   DEIRDRE  105
 
@@ -4977,12 +4360,10 @@ The  Druid  went  away,  but  he  was  not  long  gone
 when  Fedlimid's  wife  was  found  to  be  with  child.  And
 as  her  time  went  on,  his  vexation  went  on  growing,  that
 he  had  not  asked  more  questions  of  Cathbad,  at  the  time
-he  was  talking  to  him,  and  he  was  under  a  smoulder-
-ing care  by  day  and  by  night,  for  it  is  what  he  was
+he  was  talking  to  him,  and  he  was  under  a  smouldering care  by  day  and  by  night,  for  it  is  what  he  was
 thinking,  that  neither  his  own  sense  and  understanding,
 or  the  share  of  friends  he  had,  would  be  able  to  save
-him,  or  to  make  a  back  against  the  world,  if  this  mis-
-fortune should  come  upon  him,  that  would  bring  such
+him,  or  to  make  a  back  against  the  world,  if  this  misfortune should  come  upon  him,  that  would  bring  such
 great  shedding  of  blood  upon  the  earth  ;  and  it  is  the
 thought  that  came,  that  if  this  child  should  be  born,
 what  he  had  to  do  was  to  put  her  far  away,  where  no
@@ -5019,8 +4400,7 @@ your  sake  deeds  of  anger  shall  be  done  in  Emain ;
 there  is  harm  in  your  face,  for  it  will  bring  banishment
 and  death  on  the  sons  of  kings.
 
-"  In  your  fate,  O  beautiful  child,  are  wounds,  and  ill-
-doings,  and  shedding  of  blood.
+"  In  your  fate,  O  beautiful  child,  are  wounds,  and  illdoings,  and  shedding  of  blood.
 
 "You  will  have  a  little  grave  apart  to  yourself;  you
 will  be  a  tale  of  wonder  for  ever,  Deirdre."
@@ -5044,8 +4424,7 @@ them.
 
 Then  he  sent  Levarcham  and  the  child  there,  that  no
 eye  might  see,  and  no  ear  hear  of  Deirdre.  He  put
-all  in  good  order  before  them,  and  he  gave  them  pro-
-visions, and  he  told  Levarcham  that  food  and  all  she
+all  in  good  order  before  them,  and  he  gave  them  provisions, and  he  told  Levarcham  that  food  and  all  she
 wanted  would  be  sent  from  year  to  year  as  long  as  she
 lived.
 
@@ -5073,8 +4452,7 @@ thing  she  would  not  have  her  know,  she  would  not  let
 her  have  friendship  with  any  living  person  of  the  rest  of
 the  world  outside  their  own  house.
 
-But  one  dark  night  of  winter,  with  black  clouds  over-
-head, a  hunter  came  walking  the  hills,  and  it  is  what
+But  one  dark  night  of  winter,  with  black  clouds  overhead, a  hunter  came  walking  the  hills,  and  it  is  what
 happened,  he  missed  the  track  of  the  hunt,  and  lost  his
 way  and  his  comrades.
 
@@ -5148,8 +4526,7 @@ salmon  of  the  stream  and  like  the  deer  of  the  grey
 mountain  ;  and  the  head  and  shoulders  of  Naoise  are
 above  all  the  other  men  of  Ireland."  "  However  they
 may  be,"  said  Levarcham,  "  get  you  out  from  here,  and
-take  another  road  ;  and  by  my  word,  Httle  is  my  thank-
-fulness to  yourself,  or  to  her  that  let  you  in."  "  You  need
+take  another  road  ;  and  by  my  word,  Httle  is  my  thankfulness to  yourself,  or  to  her  that  let  you  in."  "  You  need
 not  send  him  out  for  telling  me  that,"  said  Deirdre,
 "  for  as  to  those  three  men,  I  myself  saw  them  last  night
 in  a  dream,  and  they  hunting  upon  a  hill."
@@ -5179,24 +4556,20 @@ hunter,  "  but  no  other  man  can  see  her,  unless  he  knows
 from  me  the  place  where  she  is  living."  "Will  you
 bring  me  to  the  place  where  she  is,  and  you  will  have
 a  good  reward  ? "  said  the  king.  "  I  will  bring  you
-there,"  said  the  hunter.  "  Let  you  stay  with  my  house-
-hold to-night,"  said  Conchubar,  "and  I  myself  and  my
-people  will  go  with  you  early  on  the  morning  of  to-
-morrow/'    "  I    will    stay,"    said    the    hunter,    and    he
+there,"  said  the  hunter.  "  Let  you  stay  with  my  household to-night,"  said  Conchubar,  "and  I  myself  and  my
+people  will  go  with  you  early  on  the  morning  of  tomorrow/'    "  I    will    stay,"    said    the    hunter,    and    he
 
 
 no  FATE  OF  THE  SONS  OF  USNACH
 
-stayed   that   night   in    the    household    of    King    Con-
-chubar.
+stayed   that   night   in    the    household    of    King    Conchubar.
 
 Then  Conchubar  sent  to  Fergus  and  to  the  other
 chief  men  of  Ulster,  and  he  told  them  of  what  he  was
 about  to  do.  Though  it  was  early  when  the  songs  and
 the  music  of  the  birds  began  in  the  woods,  it  was  earlier
 yet  when  Conchubar,  king  of  Ulster,  rose  up  with  his
-little  company  of  near  friends,  in  the  fresh  spring  morn-
-ing of  the  fresh  and  pleasant  month  of  May,  and  the
+little  company  of  near  friends,  in  the  fresh  spring  morning of  the  fresh  and  pleasant  month  of  May,  and  the
 dew  was  heavy  on  every  bush  and  flower  as  they  went
 out  towards  the  green  hill  where  Deirdre  was  living
 
@@ -5214,8 +4587,7 @@ at  the  door  of  the  house.  Levarcham  called  out  that
 neither  answer  nor  opening  would  be  given  to  any  one
 at  all,  and  that  she  did  not  want  disturbance  put  on
 herself  or  her  house.  "  Open,"  said  Conchubar,  "  in
-the  name  of  the  High  King  of  Ulster."  When  Levar-
-cham heard  Conchubar's  voice,  she  knew  there  was  no
+the  name  of  the  High  King  of  Ulster."  When  Levarcham heard  Conchubar's  voice,  she  knew  there  was  no
 use  trying  to  keep  Deirdre  out  of  sight  any  longer,  and
 she  rose  up  in  haste  and  let  in  the  king,  and  as  many
 of  his  people  as  could  follow  him.
@@ -5244,8 +4616,7 @@ the  year's  end.  She  did  that,  and  Conchubar  got  a
 woman  teacher  for  her,  and  nice,  fine,  pleasant,  modest
 maidens  to  be  with  her  at  her  lying  down  and  at  her
 rising  up,  to  be  companions  to  her.  And  Deirdre  grew
-wise  in  the  works  of  a  young  girl,  and  in  the  understand-
-ing of  a  woman  ;  and  if  any  one  at  all  looked  at  her
+wise  in  the  works  of  a  young  girl,  and  in  the  understanding of  a  woman  ;  and  if  any  one  at  all  looked  at  her
 face,  whatever  colour  she  was  before  that,  she  would
 blush  crimson  red.  And  it  is  what  Conchubar  thought,
 that  he  never  saw  with  the  eyes  of  his  body  a  creature
@@ -5254,8 +4625,7 @@ that  pleased  him  so  well.
 One  day  Deirdre  and  her  companions  were  out  on  a
 hill  near  Emain  Macha,  looking  around  them  in  the
 pleasant  sunshine,  and  they  saw  three  men  walking
-together.  Deirdre  was  looking  at  the  men  and  wonder-
-ing at  them,  and  when  they  came  near,  she  remembered
+together.  Deirdre  was  looking  at  the  men  and  wondering at  them,  and  when  they  came  near,  she  remembered
 the  talk  of  the  hunter,  and  the  three  men  she  saw  in
 her  dream,  and  she  thought  to  herself  that  these  were
 the  three  sons  of  Usnach,  and  that  this  was  Naoise,
@@ -5300,8 +4670,7 @@ answer,  or  easy  for  me  to  refuse  ? "  said  Naoise-
 "  Nothing  but  the  cry  of  Conchubar's  wild  geese,"  said
 his  brothers  ;  "  but  let  us  quicken  our  steps  and  hasten
 our  feet,  the  darkness  of  night  is  coming  on."  They
-did  so,  and  were  widening  the  distance  between  them-
-selves and  her.  Then  Deirdre  cried  the  third  time,
+did  so,  and  were  widening  the  distance  between  themselves and  her.  Then  Deirdre  cried  the  third  time,
 "  Naoise !  Naoise  !  Naoise  !  son  of  Usnach,  are  you  going
 to  leave  me  ?  "  "  What  sharp,  clear  cry  was  that,  the
 sweetest  that  ever  came  to  my  ears,  and  the  sharpest
@@ -5588,8 +4957,7 @@ have  his  share  of  wandering."
 It  was  not  with  Deirdre's  will  Naoise  said  that,  and
 she  was  greatly  against  going  with  Fergus.  And  she
 said :  "  I  had  a  dream  last  night  of  the  three  sons  of
-Usnach,  and  they  bound  and  put  in  the  grave  by  Con-
-chubar of  the  Red  Branch."  But  Naoise  said  :  "  Lay
+Usnach,  and  they  bound  and  put  in  the  grave  by  Conchubar of  the  Red  Branch."  But  Naoise  said  :  "  Lay
 down  your  dream,  Deirdre,  on  the  heights  of  the  hills,
 lay  down  your  dream  on  the  sailors  of  the  sea,  lay
 down  your  dream  on  the  rough  grey  stones,  for  we  will
@@ -5612,8 +4980,7 @@ tears."
 
 "  A  thing  that  is  unpleasing  to  me,  and  that  I  would
 never  give  in  to,"  said  Fergus,  "  is  to  listen  to  the  howling
-of  dogs,  and  to  the  dreams  of  women ;  and  since  Con-
-chubar, the  High  King,  has  sent  a  message  of  friendship,
+of  dogs,  and  to  the  dreams  of  women ;  and  since  Conchubar, the  High  King,  has  sent  a  message  of  friendship,
 it  would  not  be  right  for  you  to  refuse  it."  "It  would
 not  be  right,  indeed,"  said  Naoise,  "  and  we  will  go  with
 you  to-morrow."  And  Fergus  gave  his  word,  and  he
@@ -5632,8 +4999,7 @@ what  she  said  :  "  My  love  to  you,  O  land  to  the  east,
 and  it  goes  ill  with  me  to  leave  you  ;  for  it  is  pleasant
 are  your  bays  and  your  harbours  and  your  wide  flowery
 plains  and  your  green-sided  hills ;  and  little  need  was
-there  for  us  to  leave  you."  And  she  made  this  com-
-plaint :  "  Dear  to  me  is  that  land,  that  land  to  the  east,
+there  for  us  to  leave  you."  And  she  made  this  complaint :  "  Dear  to  me  is  that  land,  that  land  to  the  east,
 Alban,  with  its  wonders  ;  I  would  not  have  come  from  it
 hither  but  that  I  came  with  Naoise.
 
@@ -5652,8 +5018,7 @@ BORACH'S   FEAST  121
 fish  and  venison  and  badger's  flesh,  that  was  my  portion
 in  Glen  Laoi.
 
-"Glen  Masan,  my  grief!  Glen  Masan !  high  its  hart's-
-tongue,  bright  its  stalks  ;  we  were  rocked  to  pleasant
+"Glen  Masan,  my  grief!  Glen  Masan !  high  its  hart'stongue,  bright  its  stalks  ;  we  were  rocked  to  pleasant
 sleep  over  the  wooded  harbour  of  Masan.
 
 "Glen  Archan,  my  grief!  Glen  Archan,  the  straight
@@ -5667,8 +5032,7 @@ our  rising ;  the  home  of  the  sun  is  Glen  Eitche.
 
 "  Glen-da-Rua,  my  grief!  Glen-da- Rua,  my  love  to
 every  man  that  belongs  to  it ;  sweet  is  the  voice  of  the
-cuckoo  on  the  bending  branch  on  the  hill  above  Glen-
-da-Rua.
+cuckoo  on  the  bending  branch  on  the  hill  above  Glenda-Rua.
 
 "  Dear  to  me  is  Droighin  over  the  fierce  strand,  dear
 are  its  waters  over  the  clean  sand ;  I  would  never  have
@@ -5757,8 +5121,7 @@ he  turned  back  as  she  was  rising  out  of  her  sleep,  and
 he  said,  "What  made  you  wait  after  us,  Queen?"
 "  Sleep  that  was  on  me,"  said  Deirdre ;  "  and  I  saw  a
 vision  in  it."  "What  vision  was  that?"  said  Naoise.
-"  It  was,"  she  said,  "  Fair-Haired  lollan  that  I  saw  with-
-out his  head  on  him,  and  Rough-Red  Buinne  with  his
+"  It  was,"  she  said,  "  Fair-Haired  lollan  that  I  saw  without his  head  on  him,  and  Rough-Red  Buinne  with  his
 head  on  him ;  and  it  is  without  help  of  Rough-Red
 Buinne  you  were,  and  it  is  with  the  help  of  Fair- Haired
 lollan  you  were."     And  she  made  this  complaint :
@@ -5875,8 +5238,7 @@ Naoise  have  her  for  himself."  ''  I  myself  will  go  there,"
 said  Levarcham,  *'  and  I  will  bring  you  word  of  that."
 x\nd  it  is  how  it  was,  Deirdre  was  dearer  to  her  than
 any  other  person  in  the  world  ;  for  it  was  often  she
-went  through  the  world  looking  for  Deirdre  and  bring-
-ing news  to  her  and  from  her.  So  Levarcham  went
+went  through  the  world  looking  for  Deirdre  and  bringing news  to  her  and  from  her.  So  Levarcham  went
 over  to  the  House  of  the  Red  Branch,  and  near  it  she
 saw  a  great  troop  of  armed  men,  and  she  spoke  to
 them,  but  they  made  her  no  answer,  and  she  knew  by
@@ -5980,8 +5342,7 @@ a  woman  is  better  of  shape  or  of  form  than  herself."
 
 When  Conchubar  heard  that,  he  was  filled  with
 jealousy  and  with  envy,  and  he  bade  the  men  of  his
-army  that  were  with  him,  and  that  had  been  drink-
-ing at  the  feast,  to  go  and  attack  the  place  were
+army  that  were  with  him,  and  that  had  been  drinking at  the  feast,  to  go  and  attack  the  place  were
 the  sons  of  Usnach  were.  So  they  went  forward  to
 the  House  of  the  Red  Branch,  and  they  gave  three
 great  shouts  around  it,  and  they  put  fires  and  red
@@ -6056,8 +5417,7 @@ made  a  stout  fight,  one  against  the  other.  But
 however  it  was.  Fair- Haired  lollan  put  down  Fiacra,
 so  that  he  made  him  lie  under  the  shelter  of  his  shield,
 till  it  roared  for  the  greatness  of  the  strait  he  was  in  ;
-for  it  was  the  way  with  the  Ochain,  the  shield  of  Con-
-chubar, to  roar  when  the  person  on  whom  it  would  be
+for  it  was  the  way  with  the  Ochain,  the  shield  of  Conchubar, to  roar  when  the  person  on  whom  it  would  be
 was  in  danger  ;  and  the  three  chief  waves  of  Ireland,
 the  Wave  of  Tuagh,  the  Wave  of  Cliodna,  and  the  Wave
 of  Rudraige,  roared  in  answer  to  it.
@@ -6115,8 +5475,7 @@ went  swimming  to  the  harbour."  But  Conchubar  said  :
 be  my  thanks  ;  I  would  not  give  you  peace,  and  you  in
 distress,  but  every  great  want  I  could  put  on  you."
 
-And  then  Ardan  said  :  ''  We  did  another  little  kind-
-ness to  you,  and  this  is  the  time  to  remember  it  ;  the
+And  then  Ardan  said  :  ''  We  did  another  little  kindness to  you,  and  this  is  the  time  to  remember  it  ;  the
 day  the  speckled  horse  failed  you  on  the  green  of
 Dundealgan,  it  was  we  gave  you  the  grey  horse  that
 would  bring  you  fast  on  your  road."
@@ -6185,8 +5544,7 @@ Usnach,  and  work  enchantment  on  them  ;  for  unless
 they  are  hindered  they  will  destroy  the  men  of  Ulster
 for  ever  if  they  go  away  in  spite  of  them  ;  and  I  give  the
 word  of  a  true  hero,  they  will  get  no  harm  from  me,  but
-let  them  only  make  agreement  with  me."  When  Cath-
-bad heard  that,  he  agreed,  believing  him,  and  he  went
+let  them  only  make  agreement  with  me."  When  Cathbad heard  that,  he  agreed,  believing  him,  and  he  went
 to  the  end  of  his  arts  and  his  knowledge  to  hinder  the
 sons  of  Usnach,  and  he  worked  enchantment  on  them,  so
 that  he  put  the  likeness  of  a  dark  sea  about  them,  with
@@ -6262,12 +5620,10 @@ up  and  down,  from  one  to  another,  and  Cuchulain  met
 DEIRDRE'S   LAMENT  135
 
 her,  and  she  told  him  the  story  from  first  to  last,  how
-it  had  happened  to  the  sons  of  Usnach.  It  is  sorrow-
-ful Cuchulain  was  for  that,  for  there  was  not  in  the
+it  had  happened  to  the  sons  of  Usnach.  It  is  sorrowful Cuchulain  was  for  that,  for  there  was  not  in  the
 world  a  man  was  dearer  to  him  than  Naoise.  And
 he  asked  who  killed  him.  "  Maine  Rough- Hand,"  said
-Deirdre.  Then  Cuchulain  went  away,  sad  and  sorrow-
-ful, to  Dundealgan.
+Deirdre.  Then  Cuchulain  went  away,  sad  and  sorrowful, to  Dundealgan.
 
 After  that  Deirdre  lay  down  by  the  grave,  and
 they  were  digging  earth  from  it,  and  she  made  this
@@ -6298,8 +5654,7 @@ lands  were  under  tribute  ;  three  pillars  in  the  breach
 of  battle  ;  three  pupils  that  were  with  Scathach.
 
 "  Three  pupils  that  were  with  Uathach ;  three
-champions  that  were  lasting  in  might  ;  three  shin-
-ing sons  of  Usnach  ;  it  is  weariness  to  be  without
+champions  that  were  lasting  in  might  ;  three  shining sons  of  Usnach  ;  it  is  weariness  to  be  without
 them.
 
 "  The  High  King  of  Ulster,  my  first  betrothed,  I
@@ -6314,8 +5669,7 @@ on  the  earth  ;  I  will  not  go  on  living  after  Ainnle  and
 after  Ardan.
 
 "  After  them  I  myself  will  not  live ;  three  that
-would  leap  through  the  midst  of  battle ;  since  my  be-
-loved is  gone  from  me  I  will  cry  my  fill  over  his
+would  leap  through  the  midst  of  battle ;  since  my  beloved is  gone  from  me  I  will  cry  my  fill  over  his
 grave.
 
 "  O  young  man,  digging  the  new  grave,  do  not
@@ -6339,8 +5693,7 @@ brought  a  sigh  from  my  heart ;  it  is  I  had  the  care  of
 them,  the  sight  of  them  is  a  cause  of  grief
 
 "  I  was  never  one  day  alone  to  the  day  of  the  making
-of  this  grave,  though  it  is  often  that  myself  and  your-
-selves were  in  loneliness.
+of  this  grave,  though  it  is  often  that  myself  and  yourselves were  in  loneliness.
 
 "  My  sight  is  gone  from  me  with  looking  at  the  grave  of
 Naoise ;  it  is  short  till  my  life  will  leave  me,  and  those
@@ -6569,8 +5922,7 @@ and  it  would  be  better  for  himself  to  turn  back,  for  the
 ruin  of  his  life  was  come.
 
 And  he  stopped  for  the  night  at  the  House  of  the  Two
-Smiths  on  the  hill  ofBruighean  Mor,  the  great  dwelling-
-place.
+Smiths  on  the  hill  ofBruighean  Mor,  the  great  dwellingplace.
 
 But  a  troop  of  the  men  of  Connaught  came  about  the
 house  in  the  night,  for  they  were  on  the  way  home  after
@@ -6580,8 +5932,7 @@ to  Emain.
 
 And  it  chanced  there  was  a  great  harper,  Craiftine,
 living  close  by,  and  his  wife,  Sceanb,  daughter  of
-Scethern,  a  Druid  of  Connaught,  loved  Cormac  Con-
-loingeas, and  three  times  she  had  gone  to  meet  him  at
+Scethern,  a  Druid  of  Connaught,  loved  Cormac  Conloingeas, and  three  times  she  had  gone  to  meet  him  at
 Athluain,  and  she  planted  three  trees  there — Grief,
 and  Dark,  and  Dumbness.
 
@@ -6651,8 +6002,7 @@ bade  her  to  send  and  search  all  through  Ireland  if  she
 could  find  a  young  girl  of  the  same  appearance  as  the
 one  Angus  had  seen  in  his  sleep.  And  then  he  left
 him  in  his  mother's  care,  and  she  had  all  Ireland
-searched  for  a  year,  but  no  young  girl  of  that  appear-
-ance could  be  found.
+searched  for  a  year,  but  no  young  girl  of  that  appearance could  be  found.
 
 At  the  end  of  the  year,  Boann  sent  for  Fergne  to
 come  again,  and  she  said  :  "  We  have  not  got  any  help
@@ -6761,8 +6111,7 @@ and  he  was  brought  before  them.  And  Ailell  said  to
 him :  "  Give  your  daughter  now  to  the  son  of  the
 Dagda."  "That  is  what  I  cannot  do,"  he  said,  "for
 there  is  a  power  over  her  that  is  greater  than  mine."
-"  What  power  is  that  ? "  said  Ailell.  "  It  is  an  enchant-
-ment," he  said,  "  that  is  on  her,  she  to  be  in  the  shape
+"  What  power  is  that  ? "  said  Ailell.  "  It  is  an  enchantment," he  said,  "  that  is  on  her,  she  to  be  in  the  shape
 
 
 THE   TWO   SWANS  147
@@ -6903,8 +6252,7 @@ corn  nor  grass  nor  leaf  would  sprout  before  the  end  of
 seven  years,  and  no  sort  of  weapon  would  wound  them.
 But  if  they  were  counted  in  any  place,  or  if  the  people
 so  much  as  tried  to  count  them,  they  would  not  stop  in
-that  place,  but  they  would  go  on  to  another.  But  how-
-ever often  the  people  of  the  country  tried  to  count
+that  place,  but  they  would  go  on  to  another.  But  however often  the  people  of  the  country  tried  to  count
 them,  no  two  people  could  ever  make  out  the  one
 number,  and  one  man  would  call  out,  "  There  are  three
 pigs  in  it,"  and  another,  "  No,  but  there  are  seven,"  and
@@ -6921,12 +6269,10 @@ called  Magh-mucrimha,  the  Plain  of  Swine-counting.
 
 Another  time  Fraech,  son  of  Idath,  of  the  men  of
 Connaught,  that  was  son  of  Boann's  sister,  Befind,  from
-the  Sidhe,  came  to  Cruachan.  He  was  the  most  beauti-
-ful of  the  men  of  Ireland  or  of  Alban,  but  his  life  was  not
+the  Sidhe,  came  to  Cruachan.  He  was  the  most  beautiful of  the  men  of  Ireland  or  of  Alban,  but  his  life  was  not
 long.  It  was  to  ask  Findabair  for  his  wife  he  came,  and
 before  he  set  out  his  people  said  :  "  Send  a  message  to
-your  mother's  people,  the  way  they  will  send  you  cloth-
-ing of  the  Sidhe."  So  he  went  to  Boann,  that  was  at
+your  mother's  people,  the  way  they  will  send  you  clothing of  the  Sidhe."  So  he  went  to  Boann,  that  was  at
 Magh  Breagh,  and  he  brought  away  fifty  blue  cloaks  with
 four  black  ears  on  each  cloak,  and  a  brooch  of  red  gold
 
@@ -6970,8 +6316,7 @@ they  had,  all  of  white  bronze,  and  the  chessmen  of  gold
 and  silver,  and  a  candle  of  precious  stones  lighting  them.
 
 Then  Ailell  said  :  "  Let  your  harpers  play  for  us  while
-the  feast  is  being  made  ready."  "  Let  them  play,  in-
-deed," said  Fraech.
+the  feast  is  being  made  ready."  "  Let  them  play,  indeed," said  Fraech.
 
 So  the  harpers  began  to  play,  and  it  was  much  that
 the  people  of  the  house  did  not  die  with  crying  and
@@ -7002,8 +6347,7 @@ with  his  cleaver,  and  he  not  eating  himself,  and  from
 the  time  he  began  dividing,  food  never  failed  under
 his  hand.
 
-After  that,  Fraech  was  brought  into  the  conversation-
-house,  and  they  asked  him  what  was  it  he  wanted.
+After  that,  Fraech  was  brought  into  the  conversationhouse,  and  they  asked  him  what  was  it  he  wanted.
 
 "  A  visit  to  yourselves,"  he  said,  but  he  said  nothing
 of  Findabair.  So  they  told  him  he  was  welcome,  and
@@ -7031,8 +6375,7 @@ given  her.
 Then  Fraech  went  to  the  conversation-house  to  Ailell
 and  to  Maeve.  "  Will  you  give  your  daughter  to  me  ?  "
 he  said.  "  We  will  give  her  if  you  will  give  the  marriage
-portion  we  ask,"  said  Ailell,  "  and  that  is,  sixty  black-
-grey  horses  with  golden  bits,  and  twelve  milch  cows,
+portion  we  ask,"  said  Ailell,  "  and  that  is,  sixty  blackgrey  horses  with  golden  bits,  and  twelve  milch  cows,
 and  a  white  red-eared  calf  with  each  of  them  ;  and  you
 to  come  with  us  with  all  your  strength  and  all  your
 musicians  at  whatever  time  we  go  to  war  in  Ulster."
@@ -7118,8 +6461,7 @@ again,  so  that  all  the  people  that  heard  it  could  not  but
 feel  sorrowful.  It  is  from  this  the  musicians  of  Ireland
 learned  the  sorrowful  cry  of  the  women  of  the  Sidhe.
 
-And  when  he  went  into  the  house,  the  whole  house-
-hold rose  up  before  him  and  bade  him  welcome,  as  if  it
+And  when  he  went  into  the  house,  the  whole  household rose  up  before  him  and  bade  him  welcome,  as  if  it
 was  from  another  world  he  was  come.  And  there  was
 shame  and  repentance  on  Ailell  and  on  Maeve  for
 trying  to  harm  him,  and  peace  was  made,  and  he  went
@@ -7337,8 +6679,7 @@ precious  stones  on  their  spears  that  would  flame  in
 the  night  like  the  rays  of  the  sun.  At  their  belts  they
 had  long,  gold-hilted  swords  with  silver  sheaths  ;  goads
 in  their  hands  of  white  bronze  with  silver  crooks.  And
-as  to  the  young  men  themselves,  they  were  very  hand-
-some and  stately,  and  large  and  shining  ;  curled  yellow
+as  to  the  young  men  themselves,  they  were  very  handsome and  stately,  and  large  and  shining  ;  curled  yellow
 hair  on  them,  hanging  down  on  their  shoulders  ;  proud,
 clear,  blue  eyes  ;  their  cheeks  like  the  flowers  of  the
 woods  in  May,  or  like  the  foxglove  of  the  mountains.
@@ -7350,8 +6691,7 @@ all  of  them  light  yellow  hair.  And  three  Druids  went
 in  front  of  them,  and  they  having  bands  of  silver  on
 their  heads,  and  speckled  cloaks  on  them,  and  carrying
 shields  of  bronze  with  ornaments  of  red  copper.  And
-there  were  three  harpers  with  them,  that  had  the  appear-
-ance of  kings.
+there  were  three  harpers  with  them,  that  had  the  appearance of  kings.
 
 It   is  like  that  they  gathered   at  the  royal  house   of
 Cruachan,  and  they  went  three  times   round   the  lawn
@@ -7375,20 +6715,17 @@ time  talking,  but  set  out  on  the  journey.
 
 When  the  messengers  they  sent  before  them  came  to
 Gerg's  house  at  Rath  Ini,  the  people  there  began  to
-make  all  ready  before  them,  and  they  laid  down  green-
-leaved  birch  branches  and  fresh  green  rushes  in  the
+make  all  ready  before  them,  and  they  laid  down  greenleaved  birch  branches  and  fresh  green  rushes  in  the
 house.  Then  Ferb  sent  her  foster-sister,  Findchoem,
 daughter  of  Erg,  and  bade  her  go  a  part  of  the  way
 with  the  messengers,  and  bring  her  back  word  what
 appearance  was  on  Maine  and  on  his  companions.  She
 was  not  long  away,  and  as  soon  as  she  came  back  she
 went  with  her  report  to  the  sunny  parlour  where  Ferb
-was,  and  it  is  what  she  said :  "  I  never  saw  since  Con-
-chubar was  in  Emain,  and  I  never  will  see  till  the  end
+was,  and  it  is  what  she  said :  "  I  never  saw  since  Conchubar was  in  Emain,  and  I  never  will  see  till  the  end
 of  life  and  time,  a  finer,  or  grander,  or  a  more  beautiful
 troop,  than  the  troop  that  is  coming  now  over  the
-plain.  It  was  the  same  as  if  I  was  in  a  sweet  apple-
-garden,  from  the  sweetness  that  came  to  me  when
+plain.  It  was  the  same  as  if  I  was  in  a  sweet  applegarden,  from  the  sweetness  that  came  to  me  when
 the  light  wind  passed  over  them  and  stirred  their
 clothes."
 
@@ -7427,8 +6764,7 @@ bodies  ;  the  story  is  sorrowful !
 quit  this  feast  this  very  night."
 
 But  he  got  a  sharp  rebuke  from  Maine  for  saying
-that,  and  Gerg  said  :  "  There  is  no  cause  for  any  un-
-easiness, for  the  men  of  Ulster  are  not  gathered  at
+that,  and  Gerg  said  :  "  There  is  no  cause  for  any  uneasiness, for  the  men  of  Ulster  are  not  gathered  at
 Emain  at  this  time.  And  if  they  were  itself,"  he  said,
 "  I  and  my  two  sons  would  be  ready  to  go  out  and  fight
 against  Conchubar  along  with  you."
@@ -7726,8 +7062,7 @@ Then  the  two  armies  met  one  another  in  the  middle
 of  the  house,  and  a  great  many  were  killed  there.  And
 Cobthach,  Gerg's  son,  after  he  had  killed  many  of  the
 Fomor,  came  to  where  Berngal  Brec  was  hewing  the
-heads  off  the  men  of  Connaught,  and  they  fought  to-
-gether, and  Berngal  was  worsted  in  the  end.
+heads  off  the  men  of  Connaught,  and  they  fought  together, and  Berngal  was  worsted  in  the  end.
 
 And  as  to  Maine,  he  killed  Buri  of  the  Rough  Word,
 and  after  that  he  went  mad  and  raging  through  the  house,
@@ -7829,8 +7164,7 @@ him  here."  "  That  is  rough  news  you  are  giving  me,
 Ferb,"  said  Fiannamail ;  "  and  indeed  I  am  parted  from
 my  companions  if  it  is  they  that  are  lying  here,"  he  said.
 "  They  are  your  companions  indeed,"  said  Ferb  ;  "  they
-overcame  others,  and  now  they  are  overcome  them-
-selves."
+overcame  others,  and  now  they  are  overcome  themselves."
 
 And  Fiannamail  said  :  "  And  Maine,  is  he  living  ?  my
 comrade,  my  dear  friend,  my  prince  at  home ! "  And
@@ -7916,8 +7250,7 @@ left  living  in  Ulster.
 So  Donall  went  out,  and  he  had  not  long  to  wait  till
 he  saw  a  great  troop  coming  towards  him,  and  Feradach
 of  the  Long  Hand,  Conchubar's  son,  with  them.  And
-Donall  and  his  men  attacked  them,  but  they  were  out-
-numbered, and  all  his  men  fell.  And  he  himself
+Donall  and  his  men  attacked  them,  but  they  were  outnumbered, and  all  his  men  fell.  And  he  himself
 wounded  Feradach  twice,  but  then  his  men  came  at  him,
 and  Feradach  struck  his  head  off,  and  let  out  his  shout
 of  victory,  and  his  people  shouted  along  with  him.
@@ -7947,8 +7280,7 @@ and  they  faced  one  another,  and  the  fight  began  ;  and
 
 174    WEDDING   OF   MAINE    M  ORG  OR
 
-Maeve  broke  through  the  army  of  Ulster  to  get  satisfac-
-tion for  her  son  and  for  her  people,  and  she  killed
+Maeve  broke  through  the  army  of  Ulster  to  get  satisfaction for  her  son  and  for  her  people,  and  she  killed
 Conchubar's  two  sons.  But  Conchubar  stood  out  and
 faced  her  in  spite  of  his  wounds,  and  in  spite  of  being  tired
 out ;  for  his  hurts  were  healed  by  the  greatness  of  his
@@ -8005,8 +7337,6 @@ along  with  that  my  father  gave  me  one  of  the  provinces
 of  Ireland,  the  province  of  Cruachan  ;  so  that  Maeve  of
 Cruachan  is  the  name  that  was  given  to  me.
 
-176
-
 
 176     WARFORBULLOFCUAILGNE
 
@@ -8052,8 +7382,7 @@ QUARREL  OF  MAEVE  AND  AILELL    177
 
 would  have  been  king  in  their  places  but  that  they  are
 older  than  myself.  And  as  to  giving  of  wages  and
-dividing  of  gifts,"  he  said,  "  you  are  no  better  than  my-
-self;  and  if  this  province  is  under  the  rule  of  a  woman,
+dividing  of  gifts,"  he  said,  "  you  are  no  better  than  myself;  and  if  this  province  is  under  the  rule  of  a  woman,
 it  is  the  only  province  in  Ireland  that  is  so :  and  it  is
 not  through  your  right  I  took  the  kingship  of  it,  but
 through  the  right  of  my  mother,  Mata  of  Murrisk,
@@ -8091,8 +7420,6 @@ woods   and  the   valleys,   and    they   were  equal    one  to
 
 M
 
-
-178    WAR   FOR   BULL   OF   CUAILGNE
 
 another.  And  the  last  thing  that  was  done  was  to
 bring  in  the  herds  of  cattle  from  the  forest  and  the  wild
@@ -8230,8 +7557,7 @@ Bull  of  Cuailgne.
 
 Then  Maeve  sent  messengers  to  the  six  Maines,  her
 sons,  to  come  to  Cruachan,  the  brothers  of  Maine  Morgor
-that  got  his  death  at  Dun  Gerg.  And  she  sent  mes-
-sengers to  the  sons  of  Magach ;  and  they  came,  with
+that  got  his  death  at  Dun  Gerg.  And  she  sent  messengers to  the  sons  of  Magach ;  and  they  came,  with
 thirty  hundred  armed  men,  and  to  Cormac  Conloingeas,
 son  of  King  Conchubar,  and  to  Fergus,  son  of  Rogh  ;
 and  they  came,  and  thirty  hundred  armed  men  with
@@ -8261,8 +7587,7 @@ among  them  ? "  every  one  asked.  "  It  is,  surely,"  said
 Maeve.
 
 So  they  made  their  camp  there,  and  between  the  four
-fords  of  Ai,  Athmaga,  Athslisen,  Athberena,  and  Ath-
-coltna,  there  were  red  fires  blazing  through  the  night.
+fords  of  Ai,  Athmaga,  Athslisen,  Athberena,  and  Athcoltna,  there  were  red  fires  blazing  through  the  night.
 
 
 i82    WAR   FOR    BULL   OFCUAILGNE
@@ -8300,8 +7625,7 @@ grey,  and  her  mouth  like  red  berries,  and  when  she
 spoke  her  voice  was  sweeter  than  the  strings  of  a  curved
 harp,  and  her  skin  showed  through  her  clothes  like  the
 snow  of  a  single  night.  Long  feet  she  had,  very  white,
-and  the  nails  on  them  pink  and  even  ;  her  hair  gold-
-yellow,  three  locks  of  it  wound  about  her  head,  and
+and  the  nails  on  them  pink  and  even  ;  her  hair  goldyellow,  three  locks  of  it  wound  about  her  head,  and
 another  that  fell  down  loose  below  her  knee.
 
 Maeve  looked  at  her,  and  she  said :  "  What  are  you
@@ -8366,8 +7690,7 @@ at  Cruachan  for  Ulster.
 
 Now,  when  Maeve  told  Fedelm  of  the  Sidhe  that
 there  need  be  no  fear  of  the  men  of  Ulster  coming  out
-to  attack  the  army,  for  they  were  lying  in  their  weak-
-ness, she  meant  that  they  were  under  the  curse  and  the
+to  attack  the  army,  for  they  were  lying  in  their  weakness, she  meant  that  they  were  under  the  curse  and  the
 enchantment  that  was  put  on  them  one  time  by  a
 woman  they  had  ill-treated.  And  the  story  of  it  is
 this  :—
@@ -8396,8 +7719,7 @@ CRUNDEN'S    WIFE  185
 house,  married  her,  and  she  tended  him  and  his  sons,
 and  everything  he  had  prospered.
 
-It  happened,  one  day,  there  was  to  be  a  great  gather-
-ing of  the  men  of  Ulster,  for  games  and  races  and  all
+It  happened,  one  day,  there  was  to  be  a  great  gathering of  the  men  of  Ulster,  for  games  and  races  and  all
 sorts  of  amusements,  and  all  that  could  go,  both  of  men
 and  women,  used  to  go  to  that  gathering.  "  I  will  go
 there  to-day,"  said  Crunden,  "  the  same  as  every  other
@@ -8405,8 +7727,7 @@ man  is  going."  "  Do  not,"  said  his  wife,  "  for  if  you
 so  much  as  say  my  name  there  at  the  fair,"  she  said, "  I
 will  be  lost  to  you  for  ever."  "  Then  indeed  I  will  not
 speak  of  you  at  all,"  said  Crunden.  So  he  set  out  with
-the  others  to  the  fair,  and  there  was  every  sort  of  amuse-
-ment there,  and  all  the  people  of  the  country  were
+the  others  to  the  fair,  and  there  was  every  sort  of  amusement there,  and  all  the  people  of  the  country  were
 at  it.
 
 At  the  ninth  hour,  the  royal  chariot  was  brought  on
@@ -8453,8 +7774,7 @@ king :  "  Give  me  even  a  delay  until  my  child  is  born."
 "  I  will  give  no  delay,"  said  the  king.  "  Then  the  shame
 that  is  on  you  will  be  greater  than  the  shame  that  is  on
 me,"  she  said.  "  And  because  you  have  showed  no  pity
-and  no  respect  to  me,"  she  said,  "  it  is  a  heavier  punish-
-ment will  fall  on  you  than  has  fallen  upon  me.  And
+and  no  respect  to  me,"  she  said,  "  it  is  a  heavier  punishment will  fall  on  you  than  has  fallen  upon  me.  And
 bring  out  the  horses  beside  me  now."  Then  they  started,
 and  the  woman  outran  the  horses  and  gained  the  race  ;
 and  at  the  goal  the  pains  of  childbirth  came  on  her,  and
@@ -8483,8 +7803,7 @@ When  the  men  of  Connaught  set  out  from  Cruachan
 for  the  north  they  stopped  towards  evening  at  Cuilsilinne,
 and  there  they  made  their  encampment  for  the  night
 Ailell  took  his  place  in  the  middle  of  the  camp,  and  on
-his  right  was  Fergus,  son  of  Rogh,  and  Cormac  Con-
-loingeas  next  to  him  again,  and  their  people  on  the
+his  right  was  Fergus,  son  of  Rogh,  and  Cormac  Conloingeas  next  to  him  again,  and  their  people  on  the
 same  side  ;  and  on  Ailell's  left  there  was  a  place  made  for
 Maeve  and  Findabair  her  daughter.  But  Maeve  stopped
 behind  until  the  whole  of  the  army  had  come  up,  and
@@ -8563,8 +7882,7 @@ SUALTIM    AND   CUCHULAIN       189
 
 So  Fergus  was  made  leader  of  the  whole  army ;  but
 as  they  went  on,  a  great  love  for  his  own  province  and
-his  home  came  on  him,  and  instead  of  going  on  north-
-wards he  turned  to  the  south.  And  while  he  was  delay-
+his  home  came  on  him,  and  instead  of  going  on  northwards he  turned  to  the  south.  And  while  he  was  delay-
 ing the  army  like  that,  he  sent  messsengers  into  Ulster
 to  give  warning  and  news  of  their  coming.  But  Maeve
 was  keeping  a  watch  on  him,  and  when  she  saw  what
@@ -8581,8 +7899,7 @@ Cuchulain  ;  and  he  gave  a  warning  to  the  army  and
 bade  them  mind  themselves  well,  lest  the  Hound  of
 Muirthemne  should  fall  on  them  and  destroy  them.
 
-And  then  the  men  of  Connaught  set  out  again  east-
-ward, and  when  they  came  to  Monecolthan,  they  saw
+And  then  the  men  of  Connaught  set  out  again  eastward, and  when  they  came  to  Monecolthan,  they  saw
 before  them  eight-score  deer,  in  the  one  herd,  and  the
 whole  army  surrounded  them,  and  all  the  deer  were
 killed  ;  but  if  they  were,  it  was  the  Gailiana,  scattered
@@ -8632,8 +7949,7 @@ to  ArdcuUin,  and  the  whole  country  of  Ulster  lay  there
 before  them.  And  then  they  saw  the  pillar-stone  and
 the  oak  ring  that  was  on  it ;  and  Ailell  took  it  off,  and
 gave  it  to  Fergus,  and  bade  him  read  the  Ogham.  And
-what  he  read  on  it  was  Cuchulain's  name,  and  the  warn-
-ing on  it  that  the  men  of  Ulster  should  not  pass  the
+what  he  read  on  it  was  Cuchulain's  name,  and  the  warning on  it  that  the  men  of  Ulster  should  not  pass  the
 pillar-stone  that  night,  for  if  they  did,  he  would  do  a  great
 revenge  on  them  at  the  sunrise  of  the  morrow.
 
@@ -8659,8 +7975,7 @@ night  was  it  friend  or  enemy  was  near  him,  until  the
 clear  light  of  the  sun  fell  on  the  snow  in  the  morning.
 And  then  they  left  that  place,  and  went  on  into  Ulster.
 
-As  to  Cuchulain,  he  did  not  rise  very  early  that  morn-
-ing, and  when  he  did,  there  was  food  made  ready  for
+As  to  Cuchulain,  he  did  not  rise  very  early  that  morning, and  when  he  did,  there  was  food  made  ready  for
 him,  and  a  bath  of  pure  water.  Then  he  bade  Laeg  to
 make  his  chariot  ready,  and  they  set  out ;  and  after  a
 while  they  came  to  the  track  of  the  army  of  Ireland
@@ -8687,8 +8002,6 @@ eighteenth  is  broken  up  and  distributed  among  the
 others,   so  that  no  sure  reckoning  can  be  made  of  it."
 
 
-192    WAR   FOR    BULL   OF   CUAILGNE
-
 This,  now,  was  one  of  the  three  best  estimates  ever
 made  in  Ireland,  and  the  other  two  were  made  by
 Lugh  of  the  Long  Hand,  and  by  Angus  at  Brugh  na
@@ -8705,8 +8018,7 @@ Athgowla,  northward  from  Knowth.
 There  they  met  with  the  two  young  men,  the  sons  of
 Neara,  that  were  sent  out  in  front  of  Maeve's  army,  to
 see  was  there  any  hindrance  before  it,  and  Cuchulain
-struck  off  their  heads  and  the  heads  of  their  chariot-
-drivers.
+struck  off  their  heads  and  the  heads  of  their  chariotdrivers.
 
 And  he  cut  down  a  tree  with  his  sword,  and  it  having
 four  branches,  and  he  lopped  them  short,  and  cleared
@@ -8776,8 +8088,6 @@ he  said,  "was    it  Conchubar  the   High   King  that  did
 N
 
 
-194    WAR   FOR   BULL   OF   CUAILGNE
-
 it  ? "  ^'  It  was  not,"  said  Fergus,  "  for  if  Conchubar
 had  come  here,  his  army  would  have  come  along  with
 him,  and  all  the  men  of  Ulster,  and  he  would  not
@@ -8835,8 +8145,7 @@ three  times  nine  sea-robbers  came  to  Emain,  and  the
 women  ran  shrieking  to  the  palace  when  they  saw  them,
 and  when  the  boys  that  were  at  play  on  the  lawn  knew
 what  they  were  running  from,  they  ran  along  with  them.
-But  Cuchulain  went  out  and  killed  nine  of  the  sea-
-robbers  and  wounded  the  rest  of  them,  so  that  he  drove
+But  Cuchulain  went  out  and  killed  nine  of  the  searobbers  and  wounded  the  rest  of  them,  so  that  he  drove
 them  all  back.  And  he  told  them  many  other  stories
 of  his  doings  beside  these.
 
@@ -8858,8 +8167,6 @@ And  when  the  men  of  Ireland  found  his  body  they
 began  to  keen  him.  And  then  they  saw  a  great  band
 of  women  of  the   Sidhe,  with  green  dresses  on  them,
 
-
-196    WAR   FOR    BULL   OF   CUAILGNE
 
 coming  for  his  body,  and  they  gave  out  a  great  cry
 over  him  and  brought  him  away  to  a  hill  of  the  Sidhe.
@@ -8896,8 +8203,7 @@ straight  and  smooth,  that  a  fly  could  not  have  kept  his
 footing  on  them.  The  chariot-driver  looked  at  the  poles,
 and  he  said  :  "  I  am  thinking  this  is  not  the  work  you
 have  a  right  to  be  put  to.  And  who  are  you  at  all  ?  "
-he  said.  "  I  am  that  notable  Cuchulain  you  were  speak-
-ing of  just  now."  "That  is  bad  news  for  me,"  said  the
+he  said.  "  I  am  that  notable  Cuchulain  you  were  speaking of  just  now."  "That  is  bad  news  for  me,"  said  the
 driver,  "  for  surely  I  am  a  dead  man."  "  There  need  be
 no  fear  on  you,"  said  Cuchulain,  "for  I  do  not  fight
 against  drivers  or   messengers   or  unarmed   men.     But
@@ -8916,8 +8222,7 @@ and  shook  it  before  the  men  of  Ireland.
 
 After  that,  the  three  sons  of  Garach  came  out  and
 made  an  attack  on  him,  but  he  overcame  them,  and
-struck  off  their  heads,  and  he  killed  their  chariot-
-drivers  as  well,  that  they  had  armed  against  him.
+struck  off  their  heads,  and  he  killed  their  chariotdrivers  as  well,  that  they  had  armed  against  him.
 And  Lethan  and  his  chariot-driver  came  against  him,
 and  he  killed  them  in  the  same  way.
 
@@ -8946,8 +8251,6 @@ was  true  to  him  yet.
 
 And   now   that   the   army   was   coming   so   near    to
 
-
-198    WAR   FOR   BULL   OF   CUAILGNE
 
 Cuailgne,  the  War-goddess,  the  Battle  Crow,  the  Morrigu,
 came  and  sat  on  a  pillar-stone  at  Teamhair,  and  gave  a
@@ -9033,8 +8336,6 @@ after  them  quietly,  the  way  they  would  not  hear  him,
 and  there  he  found  Fergus's  sword  lying  on  the  ground.
 
 
-200    WAR    FOR  BULL   OF   CUAILGNE
-
 So  he  took  the  sword  out  of  the  sheath,  and  he  cut  a
 wooden  sword  and  shaped  it,  and  put  it  into  the  sheath
 in  its  place,  and  he  brought  Fergus's  sword  back  to
@@ -9118,8 +8419,6 @@ him,  you  may  say  it  to  me,"  said  Cuchulain.  Then  Mac
 Roth  told  him  all  the  new  offers  he  had  brought  from
 
 
-202    WAR   FOR   BULL   OF   CUAILGNE
-
 Maeve,  and  Cuchulain  said :  "  I  am  Cuchulain  that  you
 are  looking  for,  and  I  refuse  all  your  offers."  So  Mac
 Roth  went  back  to  the  camp.  "  Did  you  find  Cuchulain  ?  "
@@ -9178,8 +8477,7 @@ misfortune  will  surely  happen."  "  I  give  my  word  not
 to  anger  him  in  any  way,"  said  Etarcomal.
 
 They  went  on  then  to  where  Cuchulain  was,  between
-Ochain  and  the  sea,  and  himself  and  Laeg  were  play-
-ing a  game  with  their  casting  spears.  "  There  is  an
+Ochain  and  the  sea,  and  himself  and  Laeg  were  playing a  game  with  their  casting  spears.  "  There  is  an
 armed  man  coming  to  us,"  said  Laeg.  "  What  sort  of
 man  is  he  ?  "  said  Cuchulain.  "  He  is  large  and  proud,
 and  he  standing  in  a  high  chariot,  and  the  waving
@@ -9201,8 +8499,6 @@ look  for  a  feast  I  am  come,"  said  Fergus,  "  for  I  know
 well  it  is  not  easy  for  you  to  get  your  own  share  of  food.
 
 
-204    WAR   FOR   BULL   OF   CUAILGNE
-
 But  I  am  come  for  the  men  of  Ireland,  to  agree  to  your
 conditions.  And  from  this  out  they  will  send  one  of
 their  best  men  to  fight  with  you  alone  every  day."  "  I
@@ -9213,8 +8509,7 @@ some  treachery  on  them."
 
 So  Fergus  went  back  to  the  camp,  but  Etarcomal
 stopped  for  a  while  looking  at  Cuchulain.  "  What  are  you
-looking  at  ?  "  said  Cuchulain.  "  I  am  looking  at  your-
-self," he  said.  "  Then  take  your  eyes  off  me,  and  go  after
+looking  at  ?  "  said  Cuchulain.  "  I  am  looking  at  yourself," he  said.  "  Then  take  your  eyes  off  me,  and  go  after
 Fergus ;  and  maybe  you  think  yourself  a  better  fighting
 man  than  the  one  you  are  looking  at,"  said  Cuchulain.
 "  You  look  to  me  as  good  a  fighter  as  I  ever  saw  for  one
@@ -9231,8 +8526,7 @@ be  the  first  to  come  to  you  to-morrow."  "  Come,  then,"
 said  Cuchulain,  "  and  however  early  you  may  come  in
 the  morning,  you  will  find  me  here  before  you."
 
-So  Etarcomal  set  out,  and  he  began  to  tell  his  chariot-
-driver  all  he  had  said,  and  how  he  had  promised  to  go
+So  Etarcomal  set  out,  and  he  began  to  tell  his  chariotdriver  all  he  had  said,  and  how  he  had  promised  to  go
 out  and  fight  with  Cuchulain  on  the  morrow.  "  Did  you
 make  that  promise?"  said  his  driver.  "I  did,"  said
 Etarcomal,  "  and  I  have  given  my  word  I  will  go  ;  and  I
@@ -9304,8 +8598,7 @@ every  other  man  that  goes  out  against  him."  And
 Maeve  came  out  of  the  door  and  spoke  high,  angry,
 loud  words  :  "  I  had  put  great  hopes  in  that  young  man,"
 she  said,  "  and  I  did  not  think  it  was  under  bad
-protection  he  was  going,  when  he  went  under  the  pro-
-tection of  Fergus."  And  Fergus  said  :  "  What  business
+protection  he  was  going,  when  he  went  under  the  protection of  Fergus."  And  Fergus  said  :  "  What  business
 had  he  going  out  at  all,  to  meddle  with  Cuchulain  ?
 And  if  I  went  there  myself,"  he  said,  "  it  is  well  pleased
 I  was  to  get  back  again  safely."
@@ -9348,8 +8641,7 @@ Cuchulain  ;  ''  would  he  have  me  kill  an  unarmed  man  ?
 For  he  brought  nothing  with  him  but  wooden  rods,  and
 it  is  not  my  custom  to  wound  chariot-drivers  or
 messengers  or  unarmed  men.  But  let  him  come  out
-armed  to  meet  me,"  he  said,  "  on  the  morning  of  to-
-morrow."
+armed  to  meet  me,"  he  said,  "  on  the  morning  of  tomorrow."
 
 So  Fiacha  went  back  to  the  camp,  and  the  day  seemed
 long  to  Natchrantal  till  he  could  meet  Cuchulain.  But
@@ -9532,14 +8824,11 @@ and  worn  out  with  the  hardship  of  the  war,  and  I  have
 no  mind  to  be  speaking  with  women."  "  You  will  have
 my  help  in  everything  you  do,"  she  said,  "and  it  is
 protecting  you  I  was  up  to  this,  and  I  will  protect  you
-from  this  out."  "  It  is  not  trusting  to  a  woman's  pro-
-tection I  am  in  this  work  I  have  in  my  hands,"  said
+from  this  out."  "  It  is  not  trusting  to  a  woman's  protection I  am  in  this  work  I  have  in  my  hands,"  said
 Cuchulain.  "  Then  if  you  will  not  take  my  help."  she  said,
 "  I  will  turn  it  against  you ;  and  at  the  time  when  you
 will  be  fighting  with  some  man  as  good  as  yourself,  I  will
 
-
-212    WAR   FOR   BULL   OF   CUAILGNE
 
 come  against  you  in  all  shapes,  by  water  and  by  land,
 till  you  are  beaten."  There  was  anger  on  Cuchulain
@@ -9601,8 +8890,7 @@ the  Gae  Bulg,  and  gave  him  a  deadly  wound.  "  I  ask
 one  thing  for  the  sake  of  your  great  name,  Cuchulain,"
 he  called  out.  "  What  thing  is  that  ?  "  "  It  is  not  to
 spare  my  life  I  am  asking  you,"  said  Loch,  "  but  let  me
-rise  up,  the  way  I  may  fall  on  my  face,  and  not  back-
-wards towards  the  men  of  Ireland,  so  that  none  of  them
+rise  up,  the  way  I  may  fall  on  my  face,  and  not  backwards towards  the  men  of  Ireland,  so  that  none  of  them
 can  say  it  was  in  running  away  or  in  going  backward  I
 fell."  "  I  will  surely  give  that  leave,"  said  Cuchulain,
 "  for  the  thing  you  ask  is  a  right  gift  for  a  fighting  man."
@@ -9618,13 +8906,10 @@ got,  and  not  one  of  his  people  or  his  friends  coming  to
 help  him.
 
 After  that  Maeve  sent  out  six  all  together  against
-him,  three  men  and  three  women  that  understood  en-
-chantments ;  but  he  destroyed  them  all.  And  now  that
+him,  three  men  and  three  women  that  understood  enchantments ;  but  he  destroyed  them  all.  And  now  that
 Maeve  had  broken  her  agreement  with  him,  not  to  send
 more  than  one  against  him  at  a  time,  he  did  not  spare
 
-
-214    WAR   FOR   BULL   OF   CUAILGNE
 
 her  men  any  longer,  but  from  where  he  was  he  used  his
 sling  so  well  that  in  the  whole  army  there  was  neither
@@ -9742,8 +9027,7 @@ your  life  at  this  time."
 With  that  he  went  away,  and  Cuchulain  said  to  Laeg,
 "  Yoke  the  scythed  chariot  for  me  now,  if  you  have  the
 things  belonging  to  it."  Then  Laeg  rose  up  and  got
-ready  the  chariot,  and  he  put  on  his  light  dress  of  deer-
-skins, that  was  spotted  and  striped  and  close-fitting,  so
+ready  the  chariot,  and  he  put  on  his  light  dress  of  deerskins, that  was  spotted  and  striped  and  close-fitting,  so
 that  his  arms  were  left  free.  And  over  that  he  put  his
 raven-black  cloak,  and  his  shining  helmet  on  his  head  ;
 and  on  his  forehead  he  put  the  narrow  band  of  gold  that
@@ -9877,8 +9161,6 @@ Then  the  men  of  Ireland  consulted  together  again
 who  they  would  send  out  to  fight  on  the  next  day  ;  and
 
 
-220    WAR   FOR   BULL   OF   CUAILGNE
-
 it  is  what  they  all  said,  that  it  was  Calatin  and  his
 twenty-seven  sons  and  his  sister's  son,  Glas,  son  of
 Delga,  should  go  out.  Now  it  is  the  way  they  were,
@@ -9893,8 +9175,7 @@ business  was  knotted.  "  And  surely,"  every  one  said,
 "  they  are  only  one  man,  for  they  are  all  members  of
 Calatin's  body."  After  that,  Fergus  went  into  his  tent,
 to  his  people,  and  he  gave  a  deep  groan  of  trouble,  and
-he  said  :  "  My  grief  for  the  thing  that  is  to  be  done  to-
-morrow." "  What  thing  is  that  ? "  said  they  all.
+he  said  :  "  My  grief  for  the  thing  that  is  to  be  done  tomorrow." "  What  thing  is  that  ? "  said  they  all.
 ''  Cuchulain  to  be  killed,"  he  said.  "  Who  would  kill
 him  ?  "  said  they.  "  Calatin  and  his  sons,"  he  said,  "  and
 if  there  is  any  one  of  you  would  go  and  watch  the  fight
@@ -9905,8 +9186,7 @@ Fiacha,  son  of  Firaba.
 So  in  the  morning  Calatin,  with  his  sons  and  his
 sister's  son,  rose  up  and  went  to  where  Cuchulain  was,
 and  Fiacha,  son  of  Firaba,  went  along  with  them.  And
-as  soon  as  they  came  near  him,  they  threw  their  twenty-
-nine  spears  at  him  all  together,  in  one  cast,  and  not  one
+as  soon  as  they  came  near  him,  they  threw  their  twentynine  spears  at  him  all  together,  in  one  cast,  and  not  one
 of  them  drew  blood,  for  he  caught  them  all  on  his
 shield.  Then  Cuchulain  drew  his  sword  from  the  sheath
 to  hack  off  the  spears  and  to  lighten  his  shield  ;  but
@@ -9956,13 +9236,10 @@ so,"  said  Ailell.  "  By  my  word,"  said  Fergus,  "  however
 it  was,  all  his  debts  are  paid  now."
 
 And  at  the  ford  where  Calatin  and  his  sons  got  their
-death,  there  is  a  stone  with  the  marks  of  their  sword-
-hilts,  and  the  butt-ends  of  their  spears  on  it  to  this  day.
+death,  there  is  a  stone  with  the  marks  of  their  swordhilts,  and  the  butt-ends  of  their  spears  on  it  to  this  day.
 
 Then  it  was  settled  by  the  men  of  Ireland  that  it  was
 
-
-222    WAR   FOR    BULL   OF   CUAILGNE
 
 Ferdiad,  son  of  Daire,  the  great  champion  of  the  men
 of  Domnand,  should  go  out  and  meet  Cuchulain  the
@@ -9971,8 +9248,7 @@ it  was  with  the  same  teachers  they  had  learned  the
 knowledge  of  arms,  with  Scathach  and  with  Uathach
 and  with  Aoife ;  and  neither  of  them  had  an  advantage
 over  the  other,  except  that  Cuchulain  had  the  feat  of
-the  Gae  Bulg.  But  Ferdiad  had  good  armour  to  pro-
-tect him  against  any  man  he  would  fight  with.
+the  Gae  Bulg.  But  Ferdiad  had  good  armour  to  protect him  against  any  man  he  would  fight  with.
 
 So  they  sent  messengers  to  bring  Ferdiad,  but  he
 refused  and  would  not  come,  for  he  knew  it  was  what
@@ -9980,8 +9256,7 @@ they  wanted  of  him,  to  fight  against  his  friend,  his
 companion  and  his  fellow  pupil,  Cuchulain.
 
 Then  Maeve  sent  the  Druids  and  the  satirists  to  him,
-that  they  might  make  three  hurtful  satires  and  three  hill-
-top satires  on  him,  if  he  would  not  come  with  them,  that
+that  they  might  make  three  hurtful  satires  and  three  hilltop satires  on  him,  if  he  would  not  come  with  them,  that
 would  raise  three  blisters  on  his  face.  Shame  and  Blemish
 and  Reproach,  so  that  if  he  did  not  die  on  the  moment,
 he  would  be  dead  before  the  end  of  nine  days.
@@ -10046,8 +9321,6 @@ Elga."  ^
 Ferdiad  gave  in  to  her  then,  and  he  bound  her  on  the
 sureties   of  the   aforesaid   six  for  the  fulfilment  of  her
 
-
-224    WAR   FOR   BULL   OF   CUAILGNE
 
 promises   of  the  reward  ;  and  she  bound  him  to  fight
 with  Cuchulain  on  the  morrow.
@@ -10135,8 +9408,6 @@ saying,"  said   Ferdiad  ;  "  it  is  not  for  a   brave  man  to
 P
 
 
-226    WAR    FOR   BULL   OF   CUAILGNE
-
 refuse — it  is  not  in  our  race.  I  will  delay  no  longer,
 courage  is  better  than  fear ;  let  us  set  out  now  to  the
 ford."
@@ -10217,16 +9488,13 @@ It  was  not  long  then  until  Ferdiad  saw  Cuchulain
 coming  towards  him  in  his  chariot,  and  it  is  how  his  two
 horses  were  going,  like  a  hawk  sweeping  from  a  cliff  on
 a  day  of  hard  wind,  or  like  a  sweeping  gust  of  the  spring
-wind  on  a  March  day  over  a  smooth  plain,  or  like  the  swift-
-ness of  a  wild  stag  when  he  is  first  started  by  the  hounds
+wind  on  a  March  day  over  a  smooth  plain,  or  like  the  swiftness of  a  wild  stag  when  he  is  first  started  by  the  hounds
 in  his  first  field  ;  as  if  they  were  on  fiery  flagstones,  so  that
 the  earth  was  shaking  and  trembling  with  the  quickness
 of  their  going.
 
 So  Cuchulain  reached  the  ford,  and  Ferdiad  came  to
 
-
-228    WAR    FOR   BULL   OF   CUAILGNE
 
 the  south  side,  and  Cuchulain  drew  up  on  the  north  side,
 and  Ferdiad  bade  Cuchulain  welcome.  "  I  am  happy  at
@@ -10265,8 +9533,7 @@ troops,  with  hundreds  before  now,"  said  Cuchulain,
 "  and  what  I  have  to  do  to-day  is  to  make  an  end  of  you,
 to  bring  you  down  in  our  first  path  of  battle."
 
-"  You  have  met  now  with  a  man  that  will  put  re-
-proach on  you,"  said  Ferdiad,  "  for  it  is  I  myself  will  do
+"  You  have  met  now  with  a  man  that  will  put  reproach on  you,"  said  Ferdiad,  "  for  it  is  I  myself  will  do
 that.     It  is  well  the  loss  of  the  men  of  Ulster  will  be
 
 
@@ -10304,16 +9571,13 @@ dearer ;  it  is  sorrowful  your  death  would  be  to  me."
 great  name  will  be  lost,  your  head  will  be  on  a  stake
 before  the  crowing  of  the  cock.  Madness  and  grief  are
 taking  hold  of  you,  Cuchulain,"  he  said,  "  and  it  is  bad
-treatment  you  will  get  from  me,  because  it  is  on  your-
-self the  fault  is."
+treatment  you  will  get  from  me,  because  it  is  on  yourself the  fault  is."
 
 "  Good  Ferdiad,"  Cuchulain  said  then,  "  it  was  not  right
 for  you  to  come  out  against  me,  through  the  stirring  up
 and  the  meddling  of  Ailell  and  of  Maeve  ;  and  none  of
 those  who  came  before  you  got  victory  or  success,  but
 
-
-230    WAR   FOR   BULL   OF   CUAILGNE
 
 they  all  fell  by  me,  and  you  will  fall  along  with  them.
 And,  O  Ferdiad,  strong  fighter,"  he  said,  "do  not
@@ -10336,8 +9600,7 @@ was  a  heavy  gift  for  them  ;  it  is  by  me  they  were  sent
 to  their  grave ;  it  is  by  me  they  got  the  end  that  was
 fitting  for  them.
 
-"  Though  Ferbaeth  was  boastful,  he  who  had  a  house-
-ful of  brave  men,  it  is  short  the  time  was  till  I  quieted
+"  Though  Ferbaeth  was  boastful,  he  who  had  a  houseful of  brave  men,  it  is  short  the  time  was  till  I  quieted
 his  rage  ;  I  killed  him  by  the  one  cast.
 
 "  The  striking  down  of  Srub  Daire's  courage  was
@@ -10354,8 +9617,7 @@ or  west.
 right  for  you  to  come  to  this  fight.  When  we  were  with
 Scathach,  it  is  together  we  used  to  go  to  every  battle,
 to  every  wild  place,  through  every  darkness  and  every
-hardship.  We  were  heart  companions  ;  we  were  com-
-rades in  gatherings ;  we  shared  the  one  bed  where  we
+hardship.  We  were  heart  companions  ;  we  were  comrades in  gatherings ;  we  shared  the  one  bed  where  we
 used  to  sleep   sound    sleep.     We   used   to   practise  to-
 
 
@@ -10382,8 +9644,7 @@ begin  with  them,"  said  Ferdiad.
 
 So  they  began  with  their  casting  weapons,  and  they
 took  their  protecting  shields,  and  their  round-handled
-spears,  and  their  little  quill  spears,  and  their  ivory-
-hilted  knives,  and  their  ivory-hafted  spears,  eight  of
+spears,  and  their  little  quill  spears,  and  their  ivoryhilted  knives,  and  their  ivory-hafted  spears,  eight  of
 each  of  them  they  had.  And  these  were  flying  from
 them  and  to  them  like  bees  on  the  wing  on  a  fine
 summer  day ;  there  was  no  cast  that  did  not  hit,  and
@@ -10426,11 +9687,9 @@ from  them  into  the  hands  of  their  chariot-drivers.  Each
 of  them  came  to  the  other  then,  and  each  put  his  hands
 round  the  neck  of  the  other,  and  gave  him  three  kisses.
 Their  horses  were  in  the  one  enclosure  that  night,  and
-their  chariot-drivers  at  the  one  fire ;  and  their  chariot-
-drivers  spread  beds  of  green  rushes  for  them,  with
+their  chariot-drivers  at  the  one  fire ;  and  their  chariotdrivers  spread  beds  of  green  rushes  for  them,  with
 wounded  men's  pillows  on  them.  The  men  that  had
-knowledge  of  healing  came  then,  and  put  herbs  of  heal-
-ing to  their  wounds.  And  of  every  herb  and  plant  that
+knowledge  of  healing  came  then,  and  put  herbs  of  healing to  their  wounds.  And  of  every  herb  and  plant  that
 was  put  to  Cuchulain's  wounds,  he  would  send  an  equal
 share  from  him  westward  over  the  ford  to  Ferdiad,  the
 way  the  men  of  Ireland  might  not  say  if  Ferdiad  should
@@ -10493,8 +9752,6 @@ them,  with  wounded  men's  pillows  on  them,  and  the  men
 that  had  knowledge  of  healing  came  to  examine  them
 
 
-234    WAR    FOR    BULL    OF   CUAILGNE
-
 that  night,  but  they  could  do  nothing  more  for  them,
 because  of  the  deepness  of  their  many  wounds,  but  to
 use  charms  and  spells  on  them,  to  staunch  their
@@ -10509,16 +9766,14 @@ They  rested  there  that  night,  and  they  rose  up  early
 on  the  morrow,  and  they  came  forward  to  the  ford  of
 battle.  Cuchulain  saw  a  sort  of  a  dark  look  on  Ferdiad
 that  day.  "  It  is  bad  you  are  looking  to-day,  Ferdiad,"
-he  said ;  "  there  is  a  darkness  on  your  face,  and  a  heavi-
-ness on  your  eyes,  and  your  own  appearance  is  gone
+he  said ;  "  there  is  a  darkness  on  your  face,  and  a  heaviness on  your  eyes,  and  your  own  appearance  is  gone
 from  you."  "  It  is  not  from  fear  or  dread  of  you  I  am
 like  this  to-day,"  said  Ferdiad ;  "  for  there  is  not  a
 champion  in  Ireland  to-day  I  could  not  put  down."
 And  Cuchulain  was  fretted  to  see  him  that  way,  and
 it  is  what  he  said  :  "  O  Ferdiad,  if  it  is  you  yourself,  I  am
 sure  you  are  a  miserable  man,  to  have  come  at  the
-bidding  of  a  woman  to  fight  against  your  own  com-
-panion." But  Ferdiad  said :  "  O  Cuchulain,  giver  of
+bidding  of  a  woman  to  fight  against  your  own  companion." But  Ferdiad  said :  "  O  Cuchulain,  giver  of
 wounds,  true  hero,  every  man  must  come  in  the  end  to
 the  sod  where  his  last  grave  shall  be."
 
@@ -10581,8 +9836,6 @@ fall  on  that  day  there,  or  they  would  both  fall.
 And  then  he  put  on  his  battle  suit,  before  the  coming
 
 
-236    WAR    FOR   BULL   OF   CUAILGNE
-
 of  Cuchulain  to  him.  He  put  on  his  shirt  of  striped
 silk,  with  its  border  of  speckled  gold,  next  his  white
 skin.  He  put  on  his  coat  of  brown  leather,  well  sewed,
@@ -10596,8 +9849,7 @@ hand,  and  his  curved  sword  upon  his  left  side,  with  its
 golden  hilt,  and  its  knobs  of  red  gold,  and  his  great,
 large,  bossed  shield  on  his  back.
 
-And  then  he  began  to  show  off  many  changing,  wonder-
-ful feats,  that  he  had  never  learned  with  any  other  person,
+And  then  he  began  to  show  off  many  changing,  wonderful feats,  that  he  had  never  learned  with  any  other  person,
 neither  with  nurse  or  with  tutor,  or  with  Scathach  or  with
 Uacthach,  or  with  Aoife,  but  that  were  made  up  that  day
 by  himself  against  Cuchulain.
@@ -10616,8 +9868,7 @@ will  do  that  indeed,  my  master  Cuchulain,"  said  Laeg.
 And  then  Cuchulain  put  on  his  battle  suit,  and  he
 said  :  "  What  arms  shall  we  take  to-day,  Ferdiad  ? "
 "  The  choice  is  yours  to-day,"  said  F'erdiad.  "  Let  us
-try  the  ford  feat  then,"  said  Cuchulain.  "  Let  us  in-
-deed," said  Ferdiad.  But  though  Ferdiad  agreed  to  it,
+try  the  ford  feat  then,"  said  Cuchulain.  "  Let  us  indeed," said  Ferdiad.  But  though  Ferdiad  agreed  to  it,
 it  is  sorry  he  was  to  say  those  words,  for  he  knew
 Cuchulain  was  used  to  put  an  end  to  every  fighter  that
 was  against  him  in  the  feat  of  the  ford.
@@ -10628,8 +9879,7 @@ It  was  great  work,  now,  that  was  done  on  that  day  at
 LAEG'S   TAUNTS  237
 
 the  ford  ;  the  two  champions  of  western  Europe,  the
-two  gift-giving  and  wage-giving  hands  of  the  north-
-west of  the  world ;  the  two  pillars  and  the  two  keys  of
+two  gift-giving  and  wage-giving  hands  of  the  northwest of  the  world ;  the  two  pillars  and  the  two  keys  of
 the  courage  of  the  Gael ;  to  be  brought  from  far  off,  to
 fight  one  against  the  other,  through  the  stirring  up  and
 the  meddling  of  Aileli  and  Maeve.  Each  of  them  began
@@ -10668,8 +9918,6 @@ before  at  all.
 And  it  is  then  Cuchulain's  anger  came  on  him,  and
 
 
-238    WAR   FOR   BULL   OF   CUAILGNE
-
 the  flames  of  the  hero  light  began  to  shine  about  his
 head,  hke  a  red-thorn  bush  in  a  gap,  or  like  the  sparks
 of  a  fire,  and  he  lost  the  appearance  of  a  man,  and  what
@@ -10702,8 +9950,7 @@ Ireland  broke  out  of  the  camp  to  the  south-west.
 They  were  using  the  edge  of  their  swords  through
 that  time ;  and  it  was  then  Ferdiad  found  a  time  when
 Cuchulain  was  off  his  guard,  and  he  gave  him  a  stroke  of
-the  sword,  and  hid  it  in  his  body,  and  the  ford  was  red-
-dened with  Cuchulain's  blood,  and  Ferdiad  kept  on
+the  sword,  and  hid  it  in  his  body,  and  the  ford  was  reddened with  Cuchulain's  blood,  and  Ferdiad  kept  on
 making  great  strokes  at  him.  And  Cuchulain  could  not
 bear  with  this,  and  he  called  to  Laeg  for  the  Gae  Bulg,
 and  it  was  sent  down  the  stream  to  him,  and  he  caught
@@ -10753,8 +10000,6 @@ be  now,  since  Ferdiad  of  the  hosts  has  fallen  by  you."
 "  What  are  joy  and  shouting  to  me  now  ?  "  said  Cuchulain  ;
 "  it    is   to    madness    and   to   grief    I    am    driven    after
 
-
-240    WAR   FOR   BULL   OF   CUAILGNE
 
 the  thing  I  have  done,  and  the  body  I  wounded  so
 hard."  "  It  is  not  right  for  }-ou  to  be  lamenting  him,"
@@ -10847,10 +10092,7 @@ was.
 Q
 
 
-242    WAR   FOR    BULL    OF   CUAILGNE
-
-"  Your  yellow  hair,  curled,  well-loved ;  your  soft,  leaf-
-like belt  about  you  until  death.
+"  Your  yellow  hair,  curled,  well-loved ;  your  soft,  leaflike belt  about  you  until  death.
 
 "  Dear  was  our  fellowship,  dear  the  brightness  of
 your  eyes ;  your  shield  with  its  rim  of  gold ;  your
@@ -10869,8 +10111,7 @@ story  to  me,  that  I  should  see  you  so  red  and  so  pale,  I
 with  my  spear  reddened,  and  you  in  a  bed  of  blood.
 
 "  When  we  were  over  in  the  east  with  Scathach,  there
-would  not  have  been  angry  words  between  us,  or  destroy-
-ing weapons.
+would  not  have  been  angry  words  between  us,  or  destroying weapons.
 
 "  Scathach  spoke  fiery  words  to  us,  '  Go  all  of  you  to
 the  battle  that  will  be  fought  by  Germain  the  terrible.'
@@ -10946,10 +10187,7 @@ the  tribes,  was  braver  than  any  other.
 "  Each  was  a  game,  each  was  a  sport,  until  Ferdiad
 
 
-244    WAR   FOR   BULL   OF   CUAILGNE
-
-came  to  the  ford,  like  a  proud  swelling  wave,  threaten-
-ing to  destroy  all  before  him.
+came  to  the  ford,  like  a  proud  swelling  wave,  threatening to  destroy  all  before  him.
 
 "  Each  was  a  game,  each  was  a  sport,  until  Ferdiad
 came  to  the  ford  ;  this  thing  will  hang  over  me  for  ever.
@@ -10983,12 +10221,9 @@ never  get  to  the  army  alive."  "  Who  do  you  think
 was  that  man,  Fergus  ? "  said  Ailell.  "  I  think,"  said
 Fergus,  "  it  was  Cethern,  son  of  Fintan,  from  the  North,
 and  he  will  soon  be  upon  us."  With  that,  Cethern
-came  bursting  into  the  camp,  and  he  attacked  every-
-one he  met  with  his  spit,  and  he  himself  got  many
+came  bursting  into  the  camp,  and  he  attacked  everyone he  met  with  his  spit,  and  he  himself  got  many
 wounds  back  again,  so  that  he  had  to  hold  up  the  board
 of  the  chariot  to  his  body  to  keep  his  bowels  from  falling
-
-245
 
 
 246     THE    AWAKENING   OF   ULSTER
@@ -11362,8 +10597,7 @@ the  women  free ;  and  then  they  went  back  to  Irard
 Cuillenn.
 
 Now,  as  to  the  men  of  Ireland,  they  spent  that  night  at
-Sleamhain  of  Meath.  And  in  the  night  Cormac  Conloin-
-geas  started  up  out  of  his  sleep,  and  he  called  out  that
+Sleamhain  of  Meath.  And  in  the  night  Cormac  Conloingeas  started  up  out  of  his  sleep,  and  he  called  out  that
 there  had  a  warning  dream  come  to  him,  and  that  there
 was  a  terrible  battle  before  them.  And  after  a  while
 Dubthach,  the  Beetle  of  Ulster,  started  up  out  of  his  sleep,
@@ -11378,8 +10612,7 @@ these  dreams  and  foretellings,  great  fear  came  on  the
 men  of  Ireland,  and  it  was  an  uneasy  night  they  spent
 at  Sleamhain  that  time.
 
-And  in  the  morning  Ailell  said  :  "  We  have  been  harry-
-ing Ulster  and  Cuailgne  this  long  time,  and  we  have
+And  in  the  morning  Ailell  said  :  "  We  have  been  harrying Ulster  and  Cuailgne  this  long  time,  and  we  have
 taken  the  women  and  the  cattle  and  the  goods  of  the
 men  of  Ulster,  and  we  have  cut  down  hills  behind  us  ;
 and  now,"  he  said,  "  it  is  time  for  us  to  turn  back  to
@@ -11429,8 +10662,7 @@ not  fall  on  them  without  warning.  Now  Conchubar  and
 Celtchair,  with  their  thirty  hundred  men,  had  followed
 them  to  Slieve  Sleamhain,  and  when  they  found  them
 gone  from  there  they  followed  on  to  Clartha,  for  they
-thought  to  get  the  start  of  the  rest  of  Ulster  in  red-
-dening their  hands  upon  the  men  of  Ireland.  So  Mac
+thought  to  get  the  start  of  the  rest  of  Ulster  in  reddening their  hands  upon  the  men  of  Ireland.  So  Mac
 Roth  was  not  long  waiting  when  he  saw  men  and  horses
 coming  from  the  north-east,  and  he  went  back  into
 the  camp.  "  Well,  Mac  Roth,"  said  Ailell, "  have  }'ou  seen
@@ -11591,8 +10823,7 @@ more  like  gold  than  what  he  has.     There  was  a  sword
 with  an  ivory  hilt  in  his  hand,  and  he  throwing  it  up
 and  catching  it  in  his  hand  again,  just  when  it  was
 coming  on  the  heads  of  the  people  near  him."  "  That
-is  Aithirne,  the  poet  and  satirist,"  said  Fergus.  "  Covet-
-ous he  is,  and  it  is  said  of  him  that  he  would  ask  the
+is  Aithirne,  the  poet  and  satirist,"  said  Fergus.  "  Covetous he  is,  and  it  is  said  of  him  that  he  would  ask  the
 one-eyed  man  for  his  one  eye,  and  that  the  rivers  and
 the  lakes  go  back  before  him  when  he  makes  a  satire
 on  them,  and  rise  when  he  praises  them.  And  one
@@ -11604,8 +10835,7 @@ milk  to  man  or  boy,  or  to  a  wounded  man  itself,  but
 left  them  without  food  and  without  drink,  unless  they
 would  eat  the  clay  or  drink  the  salt  water  of  the  sea."
 
-"  I  saw  another  troop  coming,"  said  Mac  Roth,  "  wild-
-looking,  and  in  the  middle  of  it  a  young  little  lad,  red
+"  I  saw  another  troop  coming,"  said  Mac  Roth,  "  wildlooking,  and  in  the  middle  of  it  a  young  little  lad,  red
 and  freckled.  He  had  a  silk  shirt  on  him  with  a  border  of
 red  gold,  and  a  shield  faced  with  gold,  with  a  golden  rim,
 and  a  little  bright  gold  sword  at  his  side."  "  Who  is
@@ -11698,8 +10928,7 @@ weapons,  to  stir  up  anger  between  them,  and  she  called
 out  that  ravens  would  be  picking  men's  necks  on  the
 morrow.  And  with  all  this  outcry,  Cuchulain  could  not
 sleep,  and  when  the  day  began  to  break  he  said  to
-Laeg :  "  Look  out  now,  and  bring  me  word  of  every-
-thing that  happens  on  this  day."  So  Laeg  looked  out,
+Laeg :  "  Look  out  now,  and  bring  me  word  of  everything that  happens  on  this  day."  So  Laeg  looked  out,
 and  he  said :  "  I  see  a  little  herd  of  cattle  breaking  out
 from  the  west  of  Ailell's  camp,  and  there  are  lads
 following  after  them  and  trying  to  bring  them  back  ;  and
@@ -11804,11 +11033,9 @@ yourself,  the  man  whose  father  and  mother  were  better
 FERGUS'S  THREE  BLOWS    265
 
 than  your  own  ;  the  man  that  put  to  death  the  three
-great  candles  of  the  valour  of  the  Gael,  the  three  pros-
-perous sons  of  Usnach,  in  spite  of  your  guarantee  and
+great  candles  of  the  valour  of  the  Gael,  the  three  prosperous sons  of  Usnach,  in  spite  of  your  guarantee  and
 your  protection  ;  the  man  that  banished  you  out  of  your
-own  country  ;  the  man  that  made  your  house  a  dwelling-
-place  for  deer  and  foxes  ;  the  man  that  never  left  you  so
+own  country  ;  the  man  that  made  your  house  a  dwellingplace  for  deer  and  foxes  ;  the  man  that  never  left  you  so
 much  as  the  breadth  of  your  foot  of  land  in  Ulster ;  the
 man  that  drove  you  to  the  entertainment  of  a  woman ;
 and  the  man  that  will  drive  you  back  to-day  in  the
@@ -11847,8 +11074,7 @@ now  ? "  said  Cuchulain.     "  The  armies  are  come  as  far
 266    THE    AWAKENING   OF   ULSTER
 
 as  Gairech,"  said  Laeg.  "  By  my  hand  of  valour,"  said
-Cuchulain,  "they  will  not  have  reached  to  Ilgairech  be-
-fore I  will  be  with  them."  With  that  he  put  out  all  his
+Cuchulain,  "they  will  not  have  reached  to  Ilgairech  before I  will  be  with  them."  With  that  he  put  out  all  his
 strength,  and  he  broke  the  ropes  that  were  about  him,
 and  threw  them  off,  and  he  scattered  the  grass  that  was
 on  his  wounds  into  the  high  air.  And  the  two  mocking
@@ -11908,8 +11134,7 @@ And  Fergus  was  watching  the  army  of  Ireland  going
 back  over  the  ford,  and  it  is  what  he  said  :  "  This  army  is
 swept  away  to-day  ;  it  is  wandering  and  going  astray
 like  a  mare  among  her  foals  that  goes  astray  in  a  strange
-place,  not  knowing  what  path  to  take.  And  it  is  follow-
-ing the  lead  of  a  woman,"  he  said,  "  has  brought  it  into
+place,  not  knowing  what  path  to  take.  And  it  is  following the  lead  of  a  woman,"  he  said,  "  has  brought  it  into
 this  distress."
 
 This  then  was  the  end  of  the  battle  of  Gairech  and
@@ -11954,8 +11179,7 @@ THE   TWO    SWINEHERDS  269
 
 people  are  all  saying  your  power  is  greater  than  mine."
 "  It  is  no  less  any  way,"  said  Ochall's  herd.  "  We  will
-soon  know  that,"  said  Friuch.  "  I  will  put  an  enchant-
-ment on  your  swine,  and  even  though  they  eat  their
+soon  know  that,"  said  Friuch.  "  I  will  put  an  enchantment on  your  swine,  and  even  though  they  eat  their
 share  of  mast,  they  will  not  be  fat,  like  mine  will  be."
 And  so  it  happened,  he  put  an  enchantment  on  the
 Connaught  swine,  and  when  Rucht  went  home  with
@@ -11997,8 +11221,7 @@ many   dead   bodies   of    friends,   and    much   crying    on
 account  of  us  two."  What  has  happened  you  all
 through  this  time  ?  "  they  asked.  "  Nothing  good,"  he  said.
 "  Since  we  went  from  you  we  have  been  all  the  time  in
-the  shape  of  birds,  and  you  saw  the  way  we  were  scold-
-ing at  one  another  all  through  this  year.  And  we  were
+the  shape  of  birds,  and  you  saw  the  way  we  were  scolding at  one  another  all  through  this  year.  And  we  were
 quarrelling  in  the  same  way  the  whole  of  last  year  at
 Cruachan,  and  the  men  of  the  North  and  of  the  South
 have  seen  what  our  power  is.  And  now,"  he  said,  "  we
@@ -12183,8 +11406,7 @@ tongue,  son  of  Cairbre,  got  his  death.
 Then  when  the  night  was  coming  on,  Cormac
 Conloingeas  took  hold  of  a  spear-shaft,  and  he  laid
 three  great  strokes  on  the  Brown  Bull  from  head  to
-tail,  and  he  said  :  "  This  is  a  great  treasure  to  be  boast-
-ing of,  that  cannot  get  the  better  of  a  calf  of  his  own
+tail,  and  he  said  :  "  This  is  a  great  treasure  to  be  boasting of,  that  cannot  get  the  better  of  a  calf  of  his  own
 age."  When  the  Brown  Bull  heard  that  insult,  great
 fury  came  on  him,  and  he  turned  on  the  White-horned
 again.  And  all  through  the  night  the  men  of  Ireland
@@ -12195,8 +11417,7 @@ On  the  morrow,  they  saw  the  Brown  Bull  coming
 over  Cruachan  from  the  west,  and  he  carrying  what
 was  left  of  the  White-horned  on  his  horns.  Then
 Maeve's  sons,  the  Maines,  rose  up  to  make  an  attack
-on  him  on  account  of  the  Connaught  bull  he  had  de-
-stroyed. "  Where  are  those  men  going  : "  said  Fergus.
+on  him  on  account  of  the  Connaught  bull  he  had  destroyed. "  Where  are  those  men  going  : "  said  Fergus.
 *'  They  are  going  to  kill  the  Brown  Bull  of  Cuailgne."
 "  By  the  oath  of  my  people,"  said  Fergus,  "  if  you  do
 not  let  the  Brown  Bull  go  back  to  his  own  country  in
@@ -12220,8 +11441,7 @@ Then  he  went  on  till  he  came  to  the  top  of  Slieve
 Breagh,  and  when  he  looked  from  it  he  saw  his  own
 home,  the  hills  of  Cuailgne  ;  and  at  the  sight  of  his
 own  country,  a  great  spirit  rose  up  in  him,  and  madness
-and  fury  came  on  him,  and  he  rushed  on,  killing  every-
-one that  came  in  his  way.
+and  fury  came  on  him,  and  he  rushed  on,  killing  everyone that  came  in  his  way.
 
 And  when  he  got  to  his  own  place,  he  turned  his  back
 to  a  hill  and  he  gave  out  a  loud  bellowing  of  victory.
@@ -12265,16 +11485,13 @@ him  to  get  them."
 
 So  she  went  to  Cuchulain  and  said  :  "  The  women  of
 
-276
-
 
 THETWOBIRDS  277
 
 Ulster  desire  that  you  will  get  these  birds  for  them."
 Cuchulain  put  his  hand  upon  his  sword  as  if  to  strike
 her,  and  he  said  :  "  Have  the  idle  women  of  Ulster
-nothing  better  to  do  than  to  send  me  catching  birds  to-
-day ? "  "  It  is  not  for  you,"  said  Levarcham,  "  to  be
+nothing  better  to  do  than  to  send  me  catching  birds  today ? "  "  It  is  not  for  you,"  said  Levarcham,  "  to  be
 angry  with  the  women  of  Ulster ;  for  there  are  many
 of  them  are  half  blind  to-day  with  looking  at  you,  from
 the  greatness  of  their  love  for  you."
@@ -12294,8 +11511,7 @@ she  said,  "  for  there  is  not  a  woman  of  them  but  would
 share  her  love  and  her  friendship  with  you  ;  while,  as  to
 me,  no  person  shares  my  love  but  you  alone."
 
-"  Do  not  be  vexed  then,"  said  Cuchulain ;  "  for  what-
-ever birds  may  come  to  the  plain  of  Muirthemne,  or  to
+"  Do  not  be  vexed  then,"  said  Cuchulain ;  "  for  whatever birds  may  come  to  the  plain  of  Muirthemne,  or  to
 the  Boinne,  from  this  out,  you  shall  have  the  two  most
 beautiful  among  them."
 
@@ -12375,17 +11591,14 @@ lying.
 tell  you  that,"  said  he.  "  It  is  to  speak  with  the  man
 lying  here  on  the  bed  I  am  come.  And  if  the  man
 lying  here  were  in  his  health,  he  would  be  a  protection
-to  all  the  men  of  Ulster ;  but  as  he  is,  under  great  sick-
-ness and  weakness,  he  is  a  better  protection  to  them."
+to  all  the  men  of  Ulster ;  but  as  he  is,  under  great  sickness and  weakness,  he  is  a  better  protection  to  them."
 And  he  stood  up  then,  and  it  is  what  he  said  :
 
-"  If  Cuchulain,  son  of  Sualtim,  would  take  my  friend-
-ship to-day,  all  he  has  seen  in  his  sleep  would  be  hiS)
+"  If  Cuchulain,  son  of  Sualtim,  would  take  my  friendship to-day,  all  he  has  seen  in  his  sleep  would  be  hiS)
 with  no  help  from  his  army.
 
 "  Liban,  she  who  sits  at  the  right  hand  of  Labraid  of
-the  quick  sword,  has  said  that  the  coming  of  Cuchu-
-lain would  bring  great  joy  to  the  heart  of  Fand  her
+the  quick  sword,  has  said  that  the  coming  of  Cuchulain would  bring  great  joy  to  the  heart  of  Fand  her
 sister.
 
 "  O  Cuchulain,  it  is  not  long  your  sickness  would  be
@@ -12522,8 +11735,7 @@ she  sat  on  the  side  of  the  bed  where  he  was,  and  it  is
 what  she  was  saying  :
 
 "  Rise  up,  champion  of  Ulster,  awake  from  your
-sleep,  in  health  and  happiness.  Look  at  the  well-
-shaped  king  of  Macha ;  he  will  not  allow  your  long
+sleep,  in  health  and  happiness.  Look  at  the  wellshaped  king  of  Macha ;  he  will  not  allow  your  long
 sleep.  Look  at  his  shoulder,  smooth  like  crystal  ;
 look  at  his  drinking-horns  and  battle  spoils  ;  look  at
 his  chariots  that  sweep  the  valleys ;  look  at  the
@@ -12776,8 +11988,7 @@ and  Fand  bade  Cuchulain  her  own  welcome.
 "  This  is  what  we  have  to  do,"  said  Labraid  ;  "  to  go
 and  take  a  turn  round  the  army  that  is  against  us."
 
-They  went  forward  then  till  they  reached  the  gather-
-ing-place of  the  armies,  and  till  they  cast  an  eye  over
+They  went  forward  then  till  they  reached  the  gathering-place of  the  armies,  and  till  they  cast  an  eye  over
 
 
 288         ONLY   JEALOUSY    OF    EMER
@@ -12931,8 +12142,7 @@ And  great  grief  and  trouble  of  mind  came  on
 Fand,  because  she  was  ashamed  to  be  given  up,
 and  to  have  to  go  back  to  her  home  there  and  then ;
 and  the  great  love  she  had  given  Cuchulain  troubled
-her ;  and  so  she  was  lamenting,  and  she  made  this  com-
-plaint :
+her ;  and  so  she  was  lamenting,  and  she  made  this  complaint :
 
 "  It  is  I  will  go  on  the  journey  ;  I  agree  to  it  with  great
 sorrow  ;  though  my  father  has  so  great  a  name,  I  would
@@ -13086,8 +12296,6 @@ this  time,  was  a  young  strong  man,  with  high  looks,  and
 with  two  red  stripes  on  his  body,  and  he  sitting  over  the
 pillow  of  a  man  that  was  wasting  away  in  Emain
 Macha.
-
-291
 
 
 CUCHULAIN'S   ADVICE  295
@@ -13352,8 +12560,7 @@ through  him,  and  he  fell,  and  Cuchulain  struck  his
 head  off.
 
 Then  the  prisoners  of  Eocho  Glas  came  running  from
-the  hills  on  every  side,  east  and  west,  and  bathed  them-
-selves in  his  blood,  for  he  had  been  doing  them  every
+the  hills  on  every  side,  east  and  west,  and  bathed  themselves in  his  blood,  for  he  had  been  doing  them  every
 sort  of  hurt  and  harm,  and  they  all  got  healing.
 
 And  the  three  sons  of  Doel  Dermait  came  with  them,
@@ -13407,8 +12614,6 @@ satires  on  her,  that  brought  blotches  out  on  her  face.
 And  when  her  face  that  was  so  beautiful  was  spoiled
 like  that,  she  went  back  and  hid  herself  in  her  father's
 
-302
-
 
 CONCHUBAR'S   SICKNESS         303
 
@@ -13440,8 +12645,7 @@ to  Conchubar,  and  rouse  him  out  of  his  sickness.
 So  Cathbad  went  to  him,  and  he  cried  tears  down  when
 he  saw  him,  and  he  said  :  "  Tell  me,  Conchubar,  what
 wound  it  is  or  what  sickness  has  weakened  you  and
-has  made  your  face  so  pale  ?  "  "  It  is  no  wonder  sick-
-ness to  be  on  me,"  said  Conchubar,  "when  I  think  of
+has  made  your  face  so  pale  ?  "  "  It  is  no  wonder  sickness to  be  on  me,"  said  Conchubar,  "when  I  think  of
 the  way  the  four  provinces  of  Ireland  came  and  destroyed
 my  forts  and  my  duns  and  my  walled  towns  and  the
 houses  of  my  people,  and  when  I  think  how  Maeve
@@ -13478,8 +12682,7 @@ Ulster,  and  till  you  can  send  messengers  to  your  friends
 among  the  Gall."  "  I  am  willing  to  do  that,"  said
 Conchubar,  "  but  I  give  my  word,"  he  said,  "  let  them
 come,  or  let  them  not  come,  I  will  go  myself  to  Teamhair
-to  get  satisfaction  from  Cairbre  Niafer,  my  own  son-in-
-law,  that  did  not  come  to  help  me  at  the  gathering  at
+to  get  satisfaction  from  Cairbre  Niafer,  my  own  son-inlaw,  that  did  not  come  to  help  me  at  the  gathering  at
 Ilgaireth,  and  to  Lugaid,  son  of  Curoi,  and  to  Eocha,  son
 of  Luchta,  and  to  Maeve,  and  to  Ailell,  till  I  throw
 down  the  stones  over  the  graves  of  their  chief  men,  till  I
@@ -13525,8 +12728,7 @@ that  loved  him  best  was  Aillinn,  daughter  of  Lugaidh,
 the  King  of  Leinster's  son.  And  one  time  she  herself
 and  Baile  settled  to  meet  one  another  near  Dundealgan,
 beside  the  sea.  Baile  was  the  first  to  set  out,  and  he
-came  from  Emain  Macha,  over  Slieve  Fuad,  over  Muir-
-themne,  to  the  strand  where  they  were  to  meet ;  and  he
+came  from  Emain  Macha,  over  Slieve  Fuad,  over  Muirthemne,  to  the  strand  where  they  were  to  meet ;  and  he
 stopped  there,  and  his  chariots  were  unyoked,  and  his
 horses  were  let  out  to  graze.  And  while  he  and  his  people
 were  waiting  there  they  saw  a  strange,  wild-looking
@@ -13575,8 +12777,7 @@ he  had  said  that  he  vanished  away,  and  as  to  Aillinn,
 her  life  went  from  her,  and  she  died  the  same  way  that
 Baile  had  died.
 
-And  an  apple-tree  grew  out  of  her  grave,  and  a  yew-
-tree  out  of  Baile's  grave.  And  it  was  near  that  yew-tree
+And  an  apple-tree  grew  out  of  her  grave,  and  a  yewtree  out  of  Baile's  grave.  And  it  was  near  that  yew-tree
 Conall  Cearnach  landed,  and  Baire,  and  the  grandson
 of  the  king  of  Norway.  And  Cuchulain  had  made
 ready  a  great  feast  for  them,  and  for  Conchubar  that
@@ -13653,13 +12854,11 @@ the  province  of  Connaught.
 And  Cairbre  sent  a  message  to  Cruachan,  to  say  to
 Ailell  and  to  Maeve  :  "  If  it  is  towards  us  Conchubar
 and  the  men  of  Ulster  are  coming,  let  you  come  to
-our  help  ;  but  if  it  is  past  us  they  go,  into  the  fair-
-headed  province  of  Connaught,  we  will  go  to  your
+our  help  ;  but  if  it  is  past  us  they  go,  into  the  fairheaded  province  of  Connaught,  we  will  go  to  your
 help."  So  when  Conchubar  came  to  Cuanglas,  at
 Rosnaree,  there  was  a  good  army  gathered  there  to
 make  a  stand  against  him  ;  the  three  troops  of  the
-children  of  Deagha,  and  a  great  troop  of  the  Collam-
-nachs,  and  of  the  men  of  Bregia,  and  of  the  Gailiana.
+children  of  Deagha,  and  a  great  troop  of  the  Collamnachs,  and  of  the  men  of  Bregia,  and  of  the  Gailiana.
 And  he  rose  up  early  in  the  morning,  and  he  could  see
 the  moving  of  men  and  the  shining  of  spears,  and  he
 heard  the  noise  of  a  great  army,  and  he  said  :  "  We  will
@@ -13765,16 +12964,14 @@ CONALL'S   SWORD  311
 And  it  happened  just  at  that  time  Conchubar,  the  High
 King,  was  taking  three  backward  steps  out  of  the  battle
 northward,  but  when  he  saw  the  face  of  Conall  coming
-towards  him,  he  called  to  him  to  stop  the  army  from  fall-
-ing back.    "  I  give  my  word,"  said  Conall,  "  I  think  it  easier
+towards  him,  he  called  to  him  to  stop  the  army  from  falling back.    "  I  give  my  word,"  said  Conall,  "  I  think  it  easier
 to  fight  the  battle  by  myself  than  to  stop  the  rout  now."
 And  just  then  the  three  royal  poets  of  the  king  of
 Teamhair  came  to   give  him  their   help,  Eochaid   the
 Learned,  and  Diarment  of  the  Songs,  and  Forgel  the
 Just,  and  they  went  into  the  fight  against  Conall.     And
 Conall  looked  at  them  and  he  said  :  "  I   give  my  true
-word,"  he  said,  "  if  you  were  not  poets  and  men  of  learn-
-ing, you  would  have  got  your  death  by  me  before  this  ;
+word,"  he  said,  "  if  you  were  not  poets  and  men  of  learning, you  would  have  got  your  death  by  me  before  this  ;
 and  now  that  you  are  come  fighting  with  your  master,"  he
 said,  "  where  is  there  any  reason  for  sparing  you  ?  "    And
 with  that  he  made  a  blow  at  them  with  a  heavy  stick
@@ -13794,8 +12991,7 @@ their  feet,  and  there  was  clashing  of  swords  on  both  sides,
 and  the  shouting  of  young  men,  and  the  screams  of  old
 men,  and  the  groaning  of  chariot-fighters,  and  the  crying
 of  ravens.  And  there  were  many  lying  in  cold  pools,  the
-white  soles  of  their  feet  close  together,  and  the  red  lips  turn-
-ing grey,  and  the  bright  faces  very  pale,  and  darkness  com-
+white  soles  of  their  feet  close  together,  and  the  red  lips  turning grey,  and  the  bright  faces  very  pale,  and  darkness  com-
 ing on  their  grey  eyes,  and  confusion  on  their  clear  wits.
 It  is  then  Cuchulain  met  with  Cairbre  Niafer,  and  he
 went  against  him,  and  put  his  shield  against  his  shield
@@ -13820,8 +13016,7 @@ weapons,  the  Dubach,  the  grim  one,  his  spear,  and  the
 Cruaidin,  his  sword.     And  then  they  took  to  hitting  at
 one  another  again,  and  at  last  Cuchulain  took  his  spear
 into  his  left  hand,  and  struck  at  Cairbre  with  it,  and  he
-lowered  his  shield  to  protect  his  body.    And  then  Cuchu-
-lain changed  it  to  his  right  hand,  and  struck  at  him  over
+lowered  his  shield  to  protect  his  body.    And  then  Cuchulain changed  it  to  his  right  hand,  and  struck  at  him  over
 the  rim  of  his  shield,  and  it  went  through  his  heart ;  and
 before  his  body  could  reach  the  ground,  Cuchulain  made
 a  spring  and  struck  his  head  off.     And  then  he  held  up
@@ -13864,8 +13059,7 @@ It  was  not  long  after  the  child  was  born,  word  came
 to  Aoife  that  Cuchulain  had  taken  Emer  to  be  his  wife
 in  Ireland.  When  she  heard  that,  great  jealousy  came
 on  her,  and  great  anger,  and  her  love  for  Cuchulain  was
-turned  to  hatred  ;  and  she  remembered  her  three  cham-
-pions that  he  had  killed,  and  how  he  had  overcome
+turned  to  hatred  ;  and  she  remembered  her  three  champions that  he  had  killed,  and  how  he  had  overcome
 herself,  and  she  determined  in  her  mind  that  when  her
 son  would  come  to  have  the  strength  of  a  man,  she
 would  get  her  revenge  through  him.  She  told  Conlaoch
@@ -13876,15 +13070,12 @@ the  use  of  arms  and  the  art  of  war.  He  turned  out  as
 apt  a  scholar  as  his  father,  and  it  was  not  long  before  he
 had  learnt  all  Scathach  had  to  teach.
 
-313
-
 
 314        THE   ONLY   SON   OF   AOIFE
 
 Then  Aoife  gave  him  the  arms  of  a  champion,  and
 bade  him  go  to  Ireland,  but  first  she  laid  three
-commands  on  him  :  the  first  never  to  give  way  to  any-
-living  person,  but  to  die  sooner  than  be  made  turn  back  ;
+commands  on  him  :  the  first  never  to  give  way  to  anyliving  person,  but  to  die  sooner  than  be  made  turn  back  ;
 the  second,  not  to  refuse  a  challenge  from  the  greatest
 champion  alive,  but  to  fight  him  at  all  risks,  even  if  he
 was  sure  to  lose  his  life ;  the  third,  not  to  tell  his  name
@@ -13898,8 +13089,7 @@ the  place  he  landed  at  was  Baile's  Strand,  near
 Dundealgan.
 
 It  chanced  that  at  that  time  Conchubar,  the  High
-King,  was  holding  his  court  there,  for  it  was  a  con-
-venient gathering-place  for  his  chief  men,  and  they  were
+King,  was  holding  his  court  there,  for  it  was  a  convenient gathering-place  for  his  chief  men,  and  they  were
 settling  some  business  that  belonged  to  the  government
 of  that  district.
 
@@ -13964,8 +13154,7 @@ down  your  comrade,  there  will  be  a  great  name  on  me  ;
 but  if  I  draw  back  now,  there  will  be  mockery  on  me,
 and  it  will  be  said  I  was  afraid  of  the  fight.  I  will  never
 give  in  to  any  man  to  tell  the  name,  or  to  give  an
-account  of  myself.  But  if  I  was  not  held  with  a  com-
-mand," he  said,  "there  is  no  man  in  the  world  I  would
+account  of  myself.  But  if  I  was  not  held  with  a  command," he  said,  "there  is  no  man  in  the  world  I  would
 
 
 3i6        THE   ONLY   SON   OF   AOIFE
@@ -14020,8 +13209,7 @@ you."  And  Conlaoch  said  :  "  My  curse  be  on  my
 mother,  for  it  was  she  put  me  under  bonds  ;  it  was  she
 sent  me  here  to  try  my  strength  against  yours."  And
 Cuchulain  said  :  "  My  curse  be  on  your  mother,  the
-woman  that  is  full  of  treachery ;  it  is  through  her  harm-
-ful thoughts  these  tears  have  been  brought  on  us."
+woman  that  is  full  of  treachery ;  it  is  through  her  harmful thoughts  these  tears  have  been  brought  on  us."
 And  Conlaoch  said  :  "  My  name  was  never  forced  from
 my  mouth  till  now ;  I  never  gave  an  account  of  myself
 to  any  man  under  the  sun.  But,  O  Cuchulain  of  the
@@ -14165,8 +13353,7 @@ This,  now,  was  the  way  it  happened  that  Curoi  got
 his  death  by  him.  He  met  with  Blanad  one  time,  a
 good  while  after  Curoi  had  given  him  the  championship
 of  Ulster,  and  it  is  what  she  told  him  that  there  was  not
-a  man  on  the  face  of  the  earth  she  loved  more  than  him-
-self. And  she  bade  him  come,  near  Samhain  time,
+a  man  on  the  face  of  the  earth  she  loved  more  than  himself. And  she  bade  him  come,  near  Samhain  time,
 to  Curoi's  dun  at  Finglas,  and  his  men  with  him,  and  to
 bring  her  away  by  force.
 
@@ -14179,8 +13366,6 @@ he  would  see  the  stream  in  the  wood  turning  white.  And
 when  what  she  thought  to  be  a  good  time  came,  when
 all  the  men  of  the  place  were  sent  out  looking  for  stones
 to  build  a  great  new  dun,  she  milked  the  three  white
-
-320
 
 
 BLANAD  321
@@ -14209,8 +13394,7 @@ And  as  to  the  children  of  Calatin,  this  is  the  way  it
 was  with  them.  At  the  time  Cuchulain  made  an  end  of
 Calatin  at  the  ford,  and  of  all  his  sons  with  him,  Calatin's
 wife  was  with  child.  And  when  her  time  came,  there
-were  three  daughters  born  at  the  one  birth,  and  they  de-
-formed, and  each  of  them  having  but  one  eye.
+were  three  daughters  born  at  the  one  birth,  and  they  deformed, and  each  of  them  having  but  one  eye.
 
 Then  Maeve  came  from  Cruachan  to  visit  them,  and
 she  brought  away  the  children  with  her,  and  took  the
@@ -14219,8 +13403,7 @@ years,  she  came  to  see  them,  and  she  said  :  "  Do  you  know
 who  it  was  killed  your  father  ?  "  "  We  know  well,"  they
 said,  "  it  was  Cuchulain,  son  of  Sualtim,  killed  him."
 *'  That  is  so,"  said  Maeve,  "  and  let  you  make  a  journey
-now,"  she  said,  "  through  the  whole  world,  to  get  know-
-ledge of  spells  and  enchantments  from  them  that  have  it,
+now,"  she  said,  "  through  the  whole  world,  to  get  knowledge of  spells  and  enchantments  from  them  that  have  it,
 the  way  you  will  be  able  to  avenge  your  father  when  the
 time  comes."
 
@@ -14302,11 +13485,9 @@ destroyed  by  the  men  of  Munster  and  Leinster,  and  of
 Con  naught.
 
 "  Where  is  Levarcham  ?  "  said  Conchubar.  "  I  am
-here,"  she  said.  "Go  out  for  me  now,"  said  Con-
-chubar, "  and  bring  Cuchulain  here  to  Emain  ;  for  it  is
+here,"  she  said.  "Go  out  for  me  now,"  said  Conchubar, "  and  bring  Cuchulain  here  to  Emain  ;  for  it  is
 against  him  this  army  we  have  news  of  is  gathered.  Bid
-him  to  make  no  delay,  but  to  leave  Dundealgan  and  Muir-
-themne  and  to  come  here  to  advise  with  myself,  and  with
+him  to  make  no  delay,  but  to  leave  Dundealgan  and  Muirthemne  and  to  come  here  to  advise  with  myself,  and  with
 Cathbad  and  Amergin,  and  all  the  knowledgeable  men.
 For  if  he  can  put  off  this  battle  till  I  myself,  and  Conall,
 and  all  the  men  of  Ulster,  will  be  ready  to  go  out  with
@@ -14332,8 +13513,7 @@ over  him  and  past  him,  he  could  not  bring  one  down,
 but  they  all  escaped  him.
 
 And  there  was  heaviness  on  him,  not  to  be  able  to  hit
-them,  for  he  knew  it  had  some  bad  meaning.  And  in-
-deed he  had  never  been  very  happy  in  his  mind  since  the
+them,  for  he  knew  it  had  some  bad  meaning.  And  indeed he  had  never  been  very  happy  in  his  mind  since  the
 death  of  the  blossomed  branch,  Aoife's  son,  there  on  that
 strand.  Then  he  saw  Levarcham  coming,  and  he  bade
 her  welcome.  "  I  am  glad  of  that  welcome,"  said
@@ -14406,8 +13586,7 @@ began  to  tear  up  the  earth  and  the  grass,  and  by  means
 
 of  their  witchcraft  they  put  the  appearance  of  troops  of
 men  and  of  armies  on  stalks  and  coloured  oak-leaves,
-and  little  fuzz-balls  ;  and  the  sounds  of  fighting  and  strik-
-ing, and  the  shouting  of  a  great  army  were  heard  on
+and  little  fuzz-balls  ;  and  the  sounds  of  fighting  and  striking, and  the  shouting  of  a  great  army  were  heard  on
 every  side,  as  if  there  was  an  attack  being  made  on  the
 dun.
 
@@ -14427,10 +13606,8 @@ able  to  hold  him  back  and  to  persuade  him.
 
 The  next  day  Cathbad  himself  came  to  keep  a  watch
 on  him  with  the  rest,  and  after  a  while  the  noise  of
-shouting  began  again,  and  for  all  they  could  do,  Cuchu-
-lain went  and  looked  out  at  the  window.  And  the  first
-thing  he  thought  he  saw  was  the  army  of  Ireland  stand-
-ing there  upon  the  plain.  And  then  he  thought  he  saw
+shouting  began  again,  and  for  all  they  could  do,  Cuchulain went  and  looked  out  at  the  window.  And  the  first
+thing  he  thought  he  saw  was  the  army  of  Ireland  standing there  upon  the  plain.  And  then  he  thought  he  saw
 Gradh,  son  of  Lir,  standing  there ;  and  after  that  he
 thought  he  heard  the  harp  of  the  son  of  Meardha  playing
 the  sweet  music  of  the  Sidhe,  and  he  knew  when  he
@@ -14505,14 +13682,11 @@ will  come  with  us.  And  there  are  bonds  on  you  not  to
 refuse  my  feast."  "  My  grief  for  that,"  said  Cuchulain.
 "  This  is  no  fit  time  for  me  to  be  feasting  and  making
 merry,  and  the  four  provinces  of  Ireland  burning  and
-destroying  Ulster,  and  the  men  of  Ulster  in  their  weak-
-ness, and  Conall  away,  and  the  men  of  Ireland  putting
+destroying  Ulster,  and  the  men  of  Ulster  in  their  weakness, and  Conall  away,  and  the  men  of  Ireland  putting
 insults  on  me  and  reproaches,  and  saying  I  have  run
-away  before  them.  And  but  for  yourself  and  Con-
-chubar,"  he  said,  "  and  for  Geanann  and  Amergin,  I  would
+away  before  them.  And  but  for  yourself  and  Conchubar,"  he  said,  "  and  for  Geanann  and  Amergin,  I  would
 fall  on  them  and  scatter  them,  that  their  dead  would
-be  more  than  their  living."  Then  all  the  women  per-
-suaded him,  and  Emer  spoke  to  him,  and  it  is  what
+be  more  than  their  living."  Then  all  the  women  persuaded him,  and  Emer  spoke  to  him,  and  it  is  what
 she  said  :  "  Little  Hound,  I  never  hindered  you  until
 this  hour  from  any  deed  or  any  adventure  you  had  a
 mind  for.  So  now,  for  my  sake,  my  choice  sweetheart,
@@ -14544,8 +13718,7 @@ and  Cuchulain  was  put  in  the  chief  place,  and  to  his
 right  hand  were  Cathbad  and  Geanann  and  the  poets,  and
 on  the  left  was  Niamh,  daughter  of  Celthair,  with  the
 women.  And  opposite  them  were  the  musicians  and  the
-reciters.  And  then  they  all  took  to  feasting  and  drink-
-ing and  to  games,  and  they  made  a  great  show  of  mirth
+reciters.  And  then  they  all  took  to  feasting  and  drinking and  to  games,  and  they  made  a  great  show  of  mirth
 and  pleasantness  before  Cuchulain.
 
 But  as  to  the  three  deformed,  one-eyed  children  of
@@ -14577,8 +13750,7 @@ the  feasting-house  were  trying  their  best  to  raise  the
 cloud  and  the  heaviness  off  Cuchulain's  mind.
 
 Then  the  children  of  Calatin  came  down  into  the
-valley,  and  the  same  way  as  before  they  took  thistle-
-stalks  and  little  fuzz-balls  and  withered  leaves,  and  put  on
+valley,  and  the  same  way  as  before  they  took  thistlestalks  and  little  fuzz-balls  and  withered  leaves,  and  put  on
 them  the  appearance  of  troops  of  armed  men,  so  that
 there  seemed  to  be  no  hill  or  no  place  outside  the  whole
 valley  but  was  filled  with  battalions,  coming  hundred  by
@@ -14624,8 +13796,7 @@ women,  and  she  beckoned  Niamh  out  to  speak  with  her.
 So  Niamh  came  out,  thinking  she  had  news  to  give
 her,  and  a  good  many  of  the  other  women  of  Emain  with
 her,  and  Badb  bade  them  follow  her.  And  she  led  them
-a  long  way  down  the  valley,  and  then  by  her  enchant-
-ments she  raised  a  thick  mist  between  them  and  the
+a  long  way  down  the  valley,  and  then  by  her  enchantments she  raised  a  thick  mist  between  them  and  the
 house,  so  that  they  could  not  find  their  way,  but  were
 astray  in  the  valley,  not  knowing  where  they  were.
 
@@ -14633,8 +13804,7 @@ Then  she  went  back  to  the  feasting-house,  and  she
 put  on  herself  the  appearance  of  Niamh,  and  she  came
 in  to  where  Cuchulain  was  and  called  out :  "  Rise  up,
 Cuchulain  ;  Dundealgan  is  burned,  Muirthemne  is
-destroyed,  and  Conaille  Muirthemne.  The  whole  pro-
-vince is  trampled  down  by  the  men  of  Ireland.  And  it
+destroyed,  and  Conaille  Muirthemne.  The  whole  province is  trampled  down  by  the  men  of  Ireland.  And  it
 is  on  myself  the  blame  will  be  laid,"  she  said,  "  and  all
 Ulster  will  say  that  I  hindered  you,  and  kept  you  back
 from  going  out  to  check  the  army,  and  to  get  satisfaction
@@ -14769,8 +13939,6 @@ drawn  back  from  a  fight  or  a  battle.  And  it  is  not  now
 I  will  begin  to  draw  back,"  he  said,  "  for  a  great  name
 outlasts  life."
 
-334
-
 
 THE   WASHER   AT   THE    FORD     335
 
@@ -14819,8 +13987,7 @@ of  the  rowan  tree.  And  he  was  going  by  them,  for  he
 knew  it  was  not  for  his  good  they  were  there.
 
 But  one  of  the  hags  called  to  him  :  "  Stop  a  while  with
-us,  Cuchulain."  "  I  will  not  stop  with  you,"  said  Cuchu-
-lain.  "  That  is  because  we  have  nothing  better  than  a
+us,  Cuchulain."  "  I  will  not  stop  with  you,"  said  Cuchulain.  "  That  is  because  we  have  nothing  better  than  a
 dog  to  give  you,"  said  the  hag.  "  If  we  had  a  grand,  big
 cooking-hearth,  you  would  stop  and  visit  us  ;  but  because
 it  is  only  a  little  we  have  to  offer  you,  you  will  not  stop.
@@ -15011,8 +14178,7 @@ sure  but  he  might  be  still  alive.
 his  striking  the  head  off  my  father."
 
 Then  the  Grey  of  Macha  came  back  to  defend
-Cuchulain  as  long  as  there  was  life  in  him,  and  the  hero-
-light  was  shining  above  him.  And  the  Grey  of  Macha
+Cuchulain  as  long  as  there  was  life  in  him,  and  the  herolight  was  shining  above  him.  And  the  Grey  of  Macha
 made  three  attacks  against  them,  and  he  killed  fifty
 men  with  his  teeth,  and  thirty  with  each  of  his  hoofs.
 So  there  is  a  saying  :  "  It  is  not  sharper  work  than  this
@@ -15060,8 +14226,7 @@ Cuchulain  that  whichever  of  them  would  be  killed  the
 first,  the  other  would  get  satisfaction  for  his  death.
 
 "  And  if  I  am  the  first  that  is  killed,"  said  Cuchulain
-at  that  time,  "  how  long  will  it  be  before  you  get  satis-
-faction for  me  ?  "
+at  that  time,  "  how  long  will  it  be  before  you  get  satisfaction for  me  ?  "
 
 "  Before  the  evening  of  the  same  day,"  said  Conall,  "  I
 will  have  got  satisfaction  for  you.  And  if  it  is  I  that
@@ -15142,8 +14307,7 @@ with  your  courage ;  for  I  would  like  that  you  would  be
 the  best  champion  in  Ireland."
 
 Then  Conall  made  an  end  of  him,  and  he  went  back,
-bringing  Cuchulain's  head  along  with  him  to  the  pillar-
-stone  where  his  body  was.
+bringing  Cuchulain's  head  along  with  him  to  the  pillarstone  where  his  body  was.
 
 And  by  that  time  Emer  had  got  word  of  all  that  had
 happened,  and  that  her  husband  had  got  his  death  by
@@ -15193,8 +14357,7 @@ country  is  of  crying  after  Cuchulain ;  and  it  is  good  at
 keeping  the  country  and  watching  the  boundaries  the
 man  was  that  is  here  before  me,  a  cross-hacked  body  in
 a  pool  of  blood.  And  it  is  well  it  pleased  Lugaid,  son  of
-Curoi,  to  be  at  the  killing  of  Cuchulain,  for  it  was  Cuchu-
-lain killed  the  chiefs  and  the  children  of  Deaguid  round
+Curoi,  to  be  at  the  killing  of  Cuchulain,  for  it  was  Cuchulain killed  the  chiefs  and  the  children  of  Deaguid  round
 Famain,  son  of  Foraoi,  and  round  Curoi,  son  of  Daire
 himself.  And  this  shouting  has  taken  away  my  wits
 and  my  memory  from  me,"  he  said,  "  and  it  is  hard  for
@@ -15246,8 +14409,7 @@ of  us
 It  is  often  it  was  put  under  my  head  ;  it  is  dear  that
 hand  was  to  me  !
 
-"  Dear  mouth  i  Ochone,  kind  mouth  that  was  sweet-
-voiced  telling  stories  ;  since  the  time  love  first  came
+"  Dear  mouth  i  Ochone,  kind  mouth  that  was  sweetvoiced  telling  stories  ;  since  the  time  love  first  came
 on  your  face,  you  never  refused  either  weak  or  strong !
 
 "  Dear  the  man,  dear  the  man,  that  would  kill  the
@@ -15264,8 +14426,7 @@ of  the  battles  ;  there  was  never  any  wage  given  like
 that.
 
 "  I  am  glad,  I  am  glad,  Cuchulain  of  Muirthemne,
-I  never  brought  red  shame  on  your  face,  for  any  un-
-faithfulness against  you.
+I  never  brought  red  shame  on  your  face,  for  any  unfaithfulness against  you.
 
 "  Happy   arc   they,  happy  are  they,  who   will    never
 
@@ -15321,8 +14482,7 @@ heads  of  the  men  of  Ireland  along  with  him  in  a  gad,
 and  he  laid  them  out  on  the  green  lawn,  and  the  people  of
 the  house  gave  three  great  shouts  when  they  saw  the  heads.
 And  Emer  came  out,  and  when  she  saw  Conall
-Cearnach,  she  said  :  "  My  great  esteem  and  my  wel-
-come before  you,  king  of  heroes,  and  may  your  many
+Cearnach,  she  said  :  "  My  great  esteem  and  my  welcome before  you,  king  of  heroes,  and  may  your  many
 wounds  not  be  your  death  ;  for  you  have  avenged  the
 treachery  done  on  Ulster,  and  now  what  you  have  to
 do  is  to  make  our  grave,  and  to  lay  us  together  in  the
@@ -15358,8 +14518,7 @@ with  smooth  eyebrows,  its  eyes  like  ice,  its  teeth  like
 blossoms  ;  that  head  is  more  beautiful  in  shape  than  the
 others  ?  "
 
-"  A  son  of  Maeve  ;  a  destroyer  of  harbours,  yellow-
-haired  Maine,  man  of  horses  ;  I  left  his  body  without
+"  A  son  of  Maeve  ;  a  destroyer  of  harbours,  yellowhaired  Maine,  man  of  horses  ;  I  left  his  body  without
 a  head ;  all  his  people  fell  by  my  hand."
 
 
@@ -15388,8 +14547,7 @@ do  not  hide  the  names  of  the  men  put  down  by  your
 arms."
 
 "  The  heads  of  Laigaire  and  Clar  Cuilt,  two  men  that
-fell  by  my  wounds.  It  was  they  wounded  faithful  Cuchu-
-lain ;  I  made  my  weapons  red  in  their  blood."
+fell  by  my  wounds.  It  was  they  wounded  faithful  Cuchulain ;  I  made  my  weapons  red  in  their  blood."
 
 "Whose  are  those  heads  farther  to  the  east,  great
 Conall  of  bright  deeds?  The  hair  of  the  two  is  of
@@ -15436,8 +14594,7 @@ after  the  Hound  ?  Are  they  mourning  the  son  of
 Sualtim  ?  are  they  showing  respect  through  their  grief?  "
 
 "O  Emer,  what  shall  I  do  without  my  Cuchulain,
-my  fine  nurseling,  going  in  and  out  from  me,  to-
-night ?  "
+my  fine  nurseling,  going  in  and  out  from  me,  tonight ?  "
 
 "  O  Conall,  lift  me  to  the  grave.  Raise  my  stone
 over  the  grave  of  the  Hound  ;  since  it  is  through  grief
@@ -15500,8 +14657,7 @@ said  the  kings  before  whom  he  chanted  ;  but  his  obscurity  was
 more  in  a  roundabout  way  of  speaking  than  in  mythological
 allusions.  There  is  a  description  of  a  banquet,  quoted  by  Professor
 Kuno  Meyer,  where  hens'  eggs  are  spoken  of  as  "  gravel  of  Glenn
-Ai,"  and  leek,  as  "  a  tear  of  a  fair  woman,"  and  some  eatable  sea-
-weed, dulse,  perhaps,  as  a  "net  of  the  plains  of  Rein" — that  is  to
+Ai,"  and  leek,  as  "  a  tear  of  a  fair  woman,"  and  some  eatable  seaweed, dulse,  perhaps,  as  a  "net  of  the  plains  of  Rein" — that  is  to
 say,  of  the  sea — and  so  on.  He  quotes  also  a  poem  that  calls  the
 sallow,  "  the  strength  of  bees,"  and  the  hawthorn  "  the  barking  of
 hounds,"  and  the  gooseberry  bush  "  the  sweetest  of  trees,"  and  the
@@ -15554,8 +14710,7 @@ Dust  hath  closed  Helen's  eye  " —
 must  seem  as  empty  as  a  Scald's  song,  or  the  talk  of  Cuchulain
 and  Emer,  to  one  who  has  never  heard  of  Helen,  or  even  to  one
 who  did  not  fall  in  love  with  her  when  he  was  a  young  man.  And
-if  we  were  not  accustomed  to  be  stirred  by  Greek  myth,  even  with-
-out remembering  it  very  fully,  "Berenice's  ever  burning  hair'  would
+if  we  were  not  accustomed  to  be  stirred  by  Greek  myth,  even  without remembering  it  very  fully,  "Berenice's  ever  burning  hair'  would
 not  stir  the  blood,  and  especially  if  it  were  put  into  some  foreign
 tongue,  losing  those  resounding  "  b's  "  on  the  way.
 
@@ -15596,8 +14751,7 @@ NOTES
 
 The  Irish  text,  from  which  the  greater  number  of  the  stories  in
 this  book  have  been  taken,  has  been  published  either  in  Irische
-Texte  or  the  Revue  Celtiqiie^  or  by  O'Curry  in  Atlantis  and  else-
-where, and  I  have  worked  from  this  text,  comparing  it  with  the
+Texte  or  the  Revue  Celtiqiie^  or  by  O'Curry  in  Atlantis  and  elsewhere, and  I  have  worked  from  this  text,  comparing  it  with  the
 translations  that  have  been  already  made.  In  some  cases,  as  in  the
 greater  part  of  "  The  War  for  the  Bull  of  Cuailgne,"  a  very  small
 part  of  the  Irish  text  has  as  yet  been  printed,  and  I  have  had  to
@@ -15620,8 +14774,7 @@ Mr  Alfred  Nutt's  "  Cuchulain,  the  Irish  Achilles"  :—
 Cuchulain  and  his  contemporaries  are  the  subject,  the  extent  of
 which  may  be  roughly  reckoned  at  2000  8vo  pages.  The  great
 bulk  of  this  is  contained  in  MSS.  which  are  older  than  the  twelfth
-century,  or  which  demonstrably  are  copied  from  pre-twelfth-
-century  MSS. ;  where  post-twelfth-century  versions  alone  remain,
+century,  or  which  demonstrably  are  copied  from  pre-twelfthcentury  MSS. ;  where  post-twelfth-century  versions  alone  remain,
 the  story  itself  is  nearly  always  known  from  earlier  sources  ;  in
 fact,  there  is  hardly  a  single  scene  or  incident  in  the  whole  cycle
 which  has  reached  us  only  in  MSS.  of  the  thirteenth  and  following
@@ -15636,21 +14789,17 @@ participated  in  the  accidents  of  its  evolution.
 
 "  The  great  bulk  of  this  literature  is,  as  I  have  said,  certainly
 older  than  the  twelfth  century  ;  but  we  can  carry  it  back  much
-farther,  apart  from  any  considerations  based  upon  the  subject-
-matter.  Arguments  of  a  nature  purely  philological,  based  upon
+farther,  apart  from  any  considerations  based  upon  the  subjectmatter.  Arguments  of  a  nature  purely  philological,  based  upon
 the  language  of  the  texts,  or  critical,  based  upon  the  relations  of
 the  various  MSS.  to  each  other,  not  only  allow,  but  compel  us
-to  date  the  redaction  of  the  principal  Cuchulain  stories,  substan-
-tially in  the  form  under  which  they  have  survived,  back  to  the
+to  date  the  redaction  of  the  principal  Cuchulain  stories,  substantially in  the  form  under  which  they  have  survived,  back  to  the
 seventh  to  ninth  centuries.  Whether  or  no  they  are  older  yet,  is
-a  question  that  cannot  be  answered  without  preHminary  examina-
-tion of  the  subject-matter.  In  the  meantime  it  is  something  to
+a  question  that  cannot  be  answered  without  preHminary  examination of  the  subject-matter.  In  the  meantime  it  is  something  to
 know  that  the  Cuchulain  stories  were  put  into  permanent  literary
 form  at  about  the  same  date  as  Beowulf,  some  loo  to  250  years
 before  the  Scandinavian  mythology  crystallised  into  its  present
 form,  at  least  200  years  before  the  oldest  Charlemagne  romances,
-and  probably  300  years  before  the  earliest  draft  of  the  Nibe-
-lungenlied.  Irish  is  the  most  ancient  vernacular  literature  of
+and  probably  300  years  before  the  earliest  draft  of  the  Nibelungenlied.  Irish  is  the  most  ancient  vernacular  literature  of
 modern  Europe,  a  fact  which  of  itself  commends  it  to  the  attention
 of  the  student."
 
@@ -15672,8 +14821,7 @@ their  Sea-God,  or,  as  some  say,  the  sea  itself.
 
 The  spelling  of  Irish  names  for  English  readers  is  always  a
 difficulty.  I  have  not  gone  by  any  fixed  rule,  but  have  taken  the
-spelling  of  names  from  various  good  authorities.  As  to  pronuncia-
-tion, the  modern  is  generally  used,  but  we  know  so  little  what  the
+spelling  of  names  from  various  good  authorities.  As  to  pronunciation, the  modern  is  generally  used,  but  we  know  so  little  what  the
 ancient  pronunciation  was,  that  we  are  left  some  freedom,  and
 some  words  have  taken  a  shape  from  English-speaking  generations,
 that  it  is  hard  to  change.  Teamhair,  for  instance,  has  become  Tara
@@ -15682,9 +14830,6 @@ Irish  speakers  "  Mur-hev-na,"  but  others  call  it  Muir'them-rae,
 
 
 NOTES
-
-
-357
 
 
 and  I  am  inclined  to  prefer  this  for  the  charm  of  its  sound,  and  I
@@ -15837,9 +14982,6 @@ Howth.
 The  Boyne.
 
 Bray.
-
-
-358
 
 
 NOTES
@@ -16124,173 +15266,3 @@ B.  Yeats,  for  his  kindness  and  for  his  severity.
 A.  G.
 
 
-THE  OLD  STORIES  OF  IRELAND.
-
-TWO  WORKS  TREATING  OF  GAELIC  LEGENDS.
-Edited  and  Translated  by  LADY  GREGORY.
-
-
-Poets  and  Dreamers.
-
-STUDIES  AND  TRANSLATIONS  FROM  THE  IRISH.
-
-Crown  Svo.     6s.
-
-"  Lady  Gregory  has  written  the  most  charming  book  that  has  come  out  of  Ireland  for
-many  a  long  day.  It  consists  of  original  sketches  and  of  translations  from  the  Irish,  and
-from  beginning  to  end  the  atmosphere,  which  is  delightful,  is  the  same.  ...  It  has
-charm,  and  there  is  everywhere  a  felicity  of  simple  phrase  that  is  infinitely  refreshing.
-.  .  .  We  are  grateful  to  Lady  Gregory  for  some  hours  that  could  not  have  been  more
-pleasant  if  they  had  been  spent  in  the  country  in  actual  converse  with  poets  and
-dreamers." — Morning  Post.
-
-"  In  this  book  the  Irish  peasant  is  for  the  first  time  allowed  to  speak  for  himself.  In
-'  Cuchulain  of  Muirthemne '  Lady  Gregory  had  already  invented  a  new  form  of  English  :
-the  first  really  faithful  transcript  of  the  speech  of  the  Irish  peasant,  as  he  thinks  in  Irish
-and  speaks  in  English.  Here,  in  these  folk-tales  collected  from  old  men  and  women  on
-the  roads,  and  from  the  cabins  of  poor  people,  and  from  the  workhouses,  and  in  these
-songs,  ballads,  and  plays  translated  from  Irish  we  have  a  grave,  quaint,  simple,  and
-sinewy  language,  which  is  not  a  consciously  naive  or  experimental  thing,  but  a  living
-speech,  which  the  present  writer  has  heard  spoken,  in  exactly  this  form  and  with  just
-these  subtly  indicated  cadences,  in  Galway,  in  Sligo,  and  on  the  islands  of  Aran.  ...  It
-is  perhaps  in  the  translations  of  the  poems  and  plays  of  Dr  Hyde  that  the  English  reader
-will  find  the  most  interesting  part  of  an  exceptionally  and  variously  interesting  book." —
-Athenceiitn.
-
-"  In  this  book  of  simple  and  beautiful  prose  Lady  Gregory  has  preserved  much  old
-Irish  tradition,  and  much  old  lore  and  folk-lore,  that  has  gone  in  waif  words  among  the
-cottars  for  many  generations.  ...  In  Ireland,  where  folk  have  never  forgotten  that  their
-ancestors  were  kings  and  heroes,  and  that  the  ancient  gods  walked  upon  the  hills  they
-plough,  there  is  a  great  bcdy  of  tradition,  and  much  beautiful  lore,  which  is  warmth  and
-sweetness  to  many  poor  souls,  and  a  comfort  to  many  dreamers  whose  hearts  have  been
-too  filled  with  vision  to  find  peace  in  that  land  or  in  these  times.  .  .  .  This  book  takes
-the  reader  to  the  passionate  green  heart  of  Ireland." — The  Speaker.
-
-"  Lady  Gregory's  touch  is  an  excellent  one,  and  her  fashion  of  interpreting  and  bring-
-ing before  us  the  local  talk  is  pleasant  and  individual  to  a  high  degree.  .  .  .  The  first,
-also  on  the  whole  the  most  delightful,  of  these  essays  or  chapters  is  the  one  that  deals
-with  the  poet  Raftery,  a  Connaught  bard.  .  .  .  The  chapters  dealing  with  her  own
-people  and  neighbours  are  all  touched  in  with  the  same  light,  sure  hand.  '  Moun-
-tain Theology  '  and  '  Workhouse  Dreams'  especially,  are  full  of  charm,  fresh,  clear,  and
-penetrating  .  .  .  her  book  is  one  to  which  all  lovers  of  Ireland  and  Irish  literature  will
-turn  with  keen  enjoyment,  and  that  more  than  once." — The  Times.
-
-"  A  fascinating  group  of  studies  and  translations  from  the  Irish.  .  .  .  Erudition  and
-tireless  research  reveal  a  new  world  of  unimagined  charm." — Outlook.
-
-"  It  is  agreed  upon  all  hands  that  this  writer's  English  version  of  the  story  of  the  Red
-Branch  of  Ulster  is  the  best  thing  in  a  literary  way  that  has  come  out  of  Ireland  for
-some  years.  The  present  miscellany  of  translated  poems  and  stories  follows  up  the
-success  of  that  work  in  a  book  no  less  attractive." — Scotsman.
-
-
-Gods  and   Fighting  Men.
-
-THE  STORY  OF  THE  TUATHA  DE  DANAAN  AND  OF  THE
-
-FIANNA  OF  IRELAND.
-
-Large  Crown  Svo.
-
-
-London:   JOHN  MURRAY,  ALBEMARLE  STREET,  W.
-
-
-THE  LATEST  SIX  SHILLING  NOVELS.
-
-
-THE    PINCH     OF     PROSPERITY.       By    Horack    Annesley
-Vachell,  Author  of  "The  Shadowy  Tliird,"  "John  Charity."
-
-"  We  have  nothing  but  praise  for  this  book.     Wc  have  read  every  word  of  it,  and  can
-
-conwiieotiouiJy  rccomiaend  xl.'  —LadUi    Held.
-
-THE  WIND  IN  THE  ROSE  BUSH.     By  Mary   E.   Wilkins,
-AolhrjT  of  "The  Heart's  Highway."
-
-"  Here  we  have  the  be»t  and  ino^t  le^timatc  kind  of  gbo&t  Uory — the  kind  which  is
-thrilliog  io  effect  and  ingenious  in  incident,  yet  eatcotially  sober  in  its  method." —
-Wutmuutrr  Gm^ttt.
-
-DANNY.     By  Alfred  Oi.i.ivant,  Author  of  " Owd  liob."
-
-.   .   The  work   is  notable  for  the  fir.cne:,'   <A  \\\  sympathy  and  the  delicacy  of  its
-tiatural  art,  as  well    a»    new  io   its    kiri'!  A    s'-y  real  story,  of  real  httmour,  real
-
-pathfj*,  and  real  chara'.t^r.   —  Timet.
-
-MOTH    AND    RUST  w.th  Geoffrey!  Wife  and  the
-
-Pitfall.      1-y  Maj  V  <  i :i  i:v,  .A-.thor  of  ••  kc«i  Tottxi^e."
-
-
-I;  -  ■
-
-
-)  »r..  »,.t:.  •  .       I ..Uh
-
-
-'  •      nan  character.   .   .  .   We
-
->ji   m    wtvtj  wljlCii,    hr%]'ir\    f^tng  well    put
-
-
-TALES  FROM  A  FAk  RIDING      By  Oliver  <;mo.ns,  Author  of
-
-IK'   (  winplcat  Barhclor."
-
-"...  dearly  coocaivcd  aad  pow«rfiiUy  told  .  .  .  thtf  am  «BoeU«Bt  is  tb«r  peculur
-•  v«ak  apot  aaoac  ckcfls."— TAf  CtMn^VML
-
-
-THE  TRIAL  OP  If  AN.     An  Allegorical  RooMnce.
-
-
-li  i>  a  Ikac  ojttccpuoA,  cm^hiiiy  tbovclM  emtmad  natimi  wick  ■•  Mnall  literary  skill
-.  .  .  (or  iu  sioooity,  the  bcMity  of  such  a4  iu  thoaglM,  aad  iu  mmqtf  subjca,  the
-work  oartainly  mtnu  aumtiom."" Thg  Tumi.
-
-LESLIE   FARQUHAR.     By   Ko&alihe   Mascon,   Author  of    "In
-
-f  JMi  Town.
-
-
-"  It  IS  a  pUaMie  to  take  up  sodi  a  caraiaJ  iniibid  work.  .  .  .  Decidedly  '  I>e     -
-Fwqabar '  is  a  book  to  be  read."— JiMiAnwa.
-
-THE  CAVALIER     By  G.  W.  Cable.
-
-"A  >ivid  ar.d  faviinatiBg  M.'jnt,  wherein  style  aod  wbetanor  alike  driind  aad  reward
-Lbc  readily  ol  every  \ku<."—J'aJi  AfeUJ  (,MutU
-
-THE  VALLEY  OF  DECISION.     By  Luith  Wharton,  Author  of
-
-"  (  r.'  : .!  Inktanccx,"  etc.
-
-.  .  .  d  le^Iiy  (>rwlianc  work.  It  is  v*ty  lon^,  but  tbe  six  bufkdred  a/td  fifty  pageik  do
-not  weary  or*e.  ...  As  we  read  we  are  remiti'lcd  of  Vernon  Lee,  of  '  John  Int^ks^nt,'  c4
-IV^txacoo,  knd,  in  of<e  lA  the  txKAt  fttxikiiiK  pbssaces  «/f  the  story,  uf  Cayli'.A(rik.'  — /'A^
-
-TRISTRAM   OF    BLENT.     By  Akthowy  Hope,  Author  of  "The
-
-I'f.       :.•  ;     /  /■  ■  '.I.      «.tC-
-
-"Tbere  J.  vr.;;ir  ii  >  v*  -  ^r.tructioo,  of  ckaractcr,  and  of  dialogue  .      .  c/ten  rpitcraui-
-oAea  paraiioxkal,  but  »(iU  mm%  «Aca  rtiBjlMfally  buincrt^ous."— 7A«  Viitui.
-
-
-London  :  JOHN  MURRAY,  ALBEMARLE  STREET,  W.
-
-
-PRINTED   AT  Till-:    lODlNlUilUJI    I'llESS,
-1)   AND   11    YOUNU   8THEET.
-
-
-I
-
-
-BOSTON  COLLEGE
-
-
-3  9031  021  94407  9

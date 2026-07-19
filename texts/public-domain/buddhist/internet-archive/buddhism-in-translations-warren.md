@@ -5216,7 +5216,7 @@ And  self-restraint  towards  living  things !
 How  blest  from  passion  to  be  free,
 All  sensuous  joys  to  leave  behind !
 Yet  far  the  highest  bliss  of  all
-To  quit  th'  illusion  false  —   I  am/  "
+To  quit  th'  illusion  false  —  <I  am/  "
 End  of  the  account  of  what  took  place  under  the  Mucalinda-tree
 
 
@@ -6445,7 +6445,7 @@ chapter  will  explain.
 
 I  hope  that  the  reader  will  be  able  to  make  out  the  Bud
 dhist  theory  of  existence.  It  does  not  appear  to  me  that  it
-corresponds  to  either  TO  ov  or  TO  yi yvd/ji€vov,  nor  yet  is  it  nihil
+corresponds  to  either  TO  ov  or  TO  yi<yvd/ji€vov,  nor  yet  is  it  nihil
 ism,  that  is  to  say,  a  doctrine  of  unreality.  The  human
 being  is  composed  of  five  groups,  so-called  because  they  each
 consist  of  many  independent  elements.  In  the  case  of  the

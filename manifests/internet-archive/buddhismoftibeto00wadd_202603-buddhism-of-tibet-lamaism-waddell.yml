@@ -1,0 +1,70 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_buddhismoftibeto00wadd_202603
+  work_id: tibetan.buddhism_of_tibet.waddell_archive
+  title: The Buddhism of Tibet, or Lamaism
+  source_url: https://archive.org/details/buddhismoftibeto00wadd_202603
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/internet-archive/buddhismoftibeto00wadd_202603-buddhism-of-tibet-lamaism-waddell.txt
+    checksum:
+      algorithm: sha256
+      value: f6f90dfb33f927644549fff4db79c5c9587404304558859d7af5ab39535cbbee
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/internet-archive/buddhismoftibeto00wadd_202603-buddhism-of-tibet-lamaism-waddell.md
+    checksum:
+      algorithm: sha256
+      value: de86b0fe013b172816f7c07faa2cfd612b4b24855fa11900d9b7f913bda763ac
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+    checksum:
+      algorithm: sha256
+      value: 89a1fde4e71aa3ea02753255f4fe31ad358cb60f1adaa42d3281c877f91ca4cc
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids tibetan.buddhism_of_tibet.waddell_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1895 (pre-1930), US public domain. Content is Waddell's ethnographic
+      study of Tibetan Buddhism with many translated ritual texts, mantras, and myths
+      quoted verbatim; author-prose and primary excerpts mixed. OCR of a scan; expect
+      OCR noise.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

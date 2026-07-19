@@ -64,6 +64,124 @@ figures:
 
 # Creation Myths of Primitive America
 
+Creation  Myths
+
+of
+
+Primitive  America
+
+
+I
+
+
+•  Jeremiah  Curt  in  ■
+
+
+tfy  of  ft
+
+
+APR  15  1899
+
+
+Division..jJ.L:^30U
+Section..'.Vrl.O   (~>    i    (
+Ng,_ ..
+
+
+CREATION    MYTHS   OF    PRIMITIVE
+AMERICA
+
+
+Curtin's  Works
+
+ON
+
+FOLK=LORE   AND   MYTHS.
+
+
+Myths  and  Folk-Lore  of  Ireland.
+
+Hero-Tales  of  Ireland.
+
+Irish  Fairy  Tales.
+
+Myths  and  Folk-Tales  of  the  Russians,
+
+Western  Slavs,  and  Magyars.
+Creation  Myths  of  Primitive  America.
+
+
+Jeremiah  Curtin  in  the  Ruins  of  Palenque,
+Central  America.
+
+
+CREATION  MYTHS
+
+OF
+
+PRIMITIVE  AMERICA
+
+
+IN    RELATION    TO
+
+
+The  Religious  History  and  Mental  Develop-
+ment of  Mankind
+
+
+BY
+
+
+JEREMIAH    CURTIN
+
+Author  of  "  Myths  and  Folk-Lore  of  Ireland,' '  "  Myths  and  Folk-
+Tales  of  the  Russians,  Western  Slavs,  and  Magyars,"
+"  Hero-Tales  of  Ireland,"  etc.
+
+
+%
+
+
+BOSTON
+LITTLE,  BROWN,  AND   COMPANY
+
+1898
+
+
+Copyright,  i8q8
+By  Jeremiah  Curtin
+
+
+All  rights  reserved
+
+
+SSntbcrstts  $rcss
+John  Wilson  and  Son,  Cambridge,  U.S.A.
+
+
+DEDICATION
+
+To
+
+MAJOR  J.  W.  POWELL,
+
+Director  of  the  Bureau  of  Ethnology ,  Smithsonian  Institution,
+LL.D.  of  Harvard  and  Heidelberg  :
+
+Sir, —  You  lost  your  right  hand  in  fighting  to  save  American
+unity  ;  but  though  the  hand  went  from  you  its  cunning  remained,
+with  the  power  to  plan  and  to  execute.
+
+The  same  kind  of  impulse  that  sent  you  to  the  field  of  battle
+to  serve  the  country  and  the  world,  sent  you  to  the  field  of
+science  to  serve  as  a  geologist  and  an  explorer  in  the  majestic
+region  of  the  Colorado,  and  finally  brought  you  to  found  the  Bureau
+of  Ethnology.  Through  your  labors,  combined  with  those  of  the
+men  whom  you  have  associated  with  you,  the  world  has  learned
+more  of  the  great  primitive  race  of  our  country  than  it  learned
+from  the  discovery  of  the  continent  till  the  day  when  the  Bureau
+was  founded.
+
 I  beg  to  inscribe  this  book  to  you  as  a  mark  of  my  respect
 and  friendship.
 
@@ -8266,7 +8384,7 @@ thought  Tsaroki.  "  Maybe  he  is  trying  me  in
 some  way."
 
 "  My  grandson,"  said  the  old  man,  after  a  while,
- c  I  should  like  to  see  somebody ;  I  should  like  to
+<c  I  should  like  to  see  somebody ;  I  should  like  to
 see  something,  see  people  ;  I  should  like  to  have  fun
 and  see  games  of  some  sort."
 
@@ -15226,7 +15344,7 @@ started.  At  noon  they  were  at  their  father's  house.
 Old  Jahtaneno  was  glad  when  he  looked  at  his
 daughters  and  saw  the  nice  presents.
 
- c  Our  husband  told  us  to  go  home  to-day,  and
+<c  Our  husband  told  us  to  go  home  to-day,  and
 we  cannot  stay  long  with  you."
 
 They  took  back  many  presents  from  their  father,
@@ -22105,3 +22223,229 @@ Fin    MacCool,  the   Hard  Gilla,   and  the
 
 High  King.
 The  Battle  of  Ventry.
+
+
+OPINIONS.
+
+These  are  thrilling  hero-tales.  No  extract  can  do  the  stories  justice.  Any  one
+taking  up  the  volume  will  not  be  likely  to  lay  it  down  without  reading  it.  —  The
+Cincinnati  Commercial  Gazette.
+
+Mr.  Jeremiah  Curtin,  whose  translation  of  the  novels  of  the  great  Polish
+novelist,  Sienkiewicz,  introduced  him  to  English  readers,  has  shown  equally
+admirable  skill  in  rendering  into  English  many  ancient  hero-tales  of  Ireland.  The
+stories  are  marvels  of  exaggeration,  and  have  a  genuine  Irish  flavor.  Champions,
+giants,  fairies,  and  witches  work  their  wonders  and  spells  in  a  fascinating  way.  —
+The  Outlook.
+
+The  people  of  this  country  ought  to  be  grateful  to  that  accomplished  American
+scholar,  Jeremiah  Curtin,  for  the  translations  from  varied  and  quite  dissimilar
+foreign  languages  which  he  has  added  to  our  literature.  His  version  of  the  won-
+derful novels  of  Sienkiewicz  opens  up  to  us  a  most  interesting  department  of
+history,  of  which  English-speaking  people  have  hitherto  been  profoundly  ignorant;
+and  his  latest  publication,  "  Hero-Tales  of  Ireland,"  is  perhaps  quite  as  valuable,
+with  the  added  charm  of  a  wild,  delightful,  primeval  Celtic  imagination.  —  The
+New  York  Sun.
+
+
+MYTHS  AND  FOLK-TALES  OF  THE  RUSSIANS,
+WESTERN  SLAVS,  AND  MAGYARS.
+
+BY   JEREMIAH   CURTIN.
+
+Crown  8vo.     Cloth,  gilt  top,  $2.00.
+
+CONTENTS.
+
+
+RUSSIAN    MYTHS
+
+The  Three  Kingdoms,  —  the  Copper,  the
+
+Silver,  and  the  Golden.
+Ivan  Tsarevich,    the  Fire   Bird,   and  the
+
+Gray  Wolf.
+Ivan    the    Peasant's  Son   and    the    Little
+
+Man    Himself    One   Finger  Tall,    his
+
+Mustache  Seven  Versts  in  Length.
+The  Feather  of  Bright  Finist  the  Falcon.
+The  Pig  with  Gold  Bristles,  the  Deer  with
+
+Golden  Horns,  and  the  Golden-Maned
+
+Steed  with  Golden  Tail-
+Water  of  Youth,  Water  of  Life,  and  Water
+
+of  Death.
+The  Footless  and  Blind  Champions.
+The  Three  Kingdoms.
+
+
+AND    FOLK-TALES.
+
+Koshchei  Without-Death.
+
+Vassilissa     Golden     Tress,     Bareheaded
+
+Beauty.
+The  Ring  with  Twelve  Screws.
+The  Footless  and  the  Blind-
+Koshchei  Without-Death.
+Go  to  the  Verge  of  Destruction  and  bring
+
+back  Shmat-Razum.
+Marya  Morevna.
+Yelena  the  Wise.
+
+The  Seven  Simeons,  Full  Brothers.
+The  Enchanted  Princess.
+Vassilissa  the   Cunning  and  the  Tsar  of
+
+the  Sea.
+
+
+Boyislav,  Youngest  of  Twelve.
+The  fable,  the  Pack,  and  the  Bag
+The  King  of  the  Toads.
+
+
+CHEKH    MYTHS    AND    FOLK-TALES.
+
+The   Mouse-Hole  and  the   Underground
+
+Kingdom.
+The  Cuirassier  and  the  Horned  Princess.
+The  Treacherous  Brethren.
+
+
+The  Poor  Man  and  the  King  of  the  Crows
+The  Useless  Wagoner.
+Mirko  the  King's  Son.
+The  Reed  Maiden.
+
+
+MAGYAR   MYTHS   AND    FOLK-TALES.
+
+Kiss   Miklos  and  the  Green  Daughter  of
+
+the  Green  King.
+The   Hedgehog,  the  Merchant,  the  King,
+and  the  Poor  Man.
+
+
+OPINIONS.
+
+A  volume  as  fascinating  as  any  fairy  book  that  was  ever  published  ;  and  simply
+for  their  wealth  of  imagination  and  rare  simplicity  of  diction  these  stories  will  be
+widely  read.  .  .  .  The  volume,  taken  for  all  in  all,  is  a  distinct  addition  to  litera-
+ture, a  priceless  boon  to  scientific  investigation,  and  a  credit  to  American  scholar-
+ship. The  educated  people  of  this  country  will  do  well  to  buy  and  read  this  truly
+remarkable  book.  —  Tlie  Beacon.
+
+Will  be  welcome  to  many  readers,  not  only  to  students,  but  to  children,  who
+find  inexhaustible  interest  in  just  such  folk-tales.  — Public  Opinion.
+
+At  once  thoroughly  admirable  and  thoroughly  delightful,  .  .  .  there  is  a
+surprising  freshness  and  individuality  of  flavor  in  them.  —  Boston  Courier.
+
+Stories  of  unique  character,  full  of  grotesque  and  marvellous  adventures,
+told  with  a  beautiful  simplicity  of  style  which  speaks  well  for  the  faithfulness  of
+the  translator's  work.  — Milwaukee  Sentinel.
+
+Prof.  Jeremiah  Curtin  gives  us  a  large  collection  of  these  tales,  many  of
+which  are  very  interesting,  many  beautiful,  and  all  strikingly  curious.  —  Boston
+Advertiser.
+
+Mr.  Curtin  spares  no  pains  in  his  researches  into  the  early  literature  of  the
+chief  primitive  races  of  the  earth.  Less  than  a  year  has  passed  since  the  publi-
+cation of  his  admirable  work  on  "  Irish  Folk-Lore."  The  present  volume  adds
+his  discoveries  among  three  other  important  nations.  —  The  Dial.
+
+
+Mythology  has  not  yet  come  to  a  science.  Its  tales  for  the  most  part  continue
+to  be  curious  bits  of  literature  merely,  highly  imaginative  and  entertaining,  but
+only  slightly,  if  at  all,  connected  with  truth  and  reason  so  far  as  we  can  discover.
+Still  there  comes  to  us  out  of  the  mythologic  sky  an  occasional  ray  of  meaning
+which  seems  to  the  hopeful  a  promise  that  the  history  of  credibility  and  of  fact
+shall  ultimately  be  extended  far  backward,  perhaps  into  the  remotest  ages  of  man-
+kind, through  illumination  from  this  source.  Mr.  Jeremiah  Curtin  has  written  a
+most  interesting  essay  bearing  upon  this  idea  in  an  introduction  to  his  new  volume,
+"  Myths  and  Folk-Tales  of  the  Russians,  Western  Slavs,  and  Magyars"  (Boston:
+Little,  Brown,  &  Co.).  It  is  an  essay  notable  for  its  evidence  of  scholarly  insight
+and  investigation,  its  curious  and  surprising  information  and  suggestion,  its  perfect
+lucidity,  and  its  rare  literary  charm.  —  New  York  Sun.
+
+No  one  else  could  have  so  delightfully  rendered  in  English  the  "  Myths  and
+Folk-Tales  of  the  Russians,  Western  Slavs,  and  Magyars."  One  of  the  brightest
+men  in  Boston  —  poet,  novelist,  critic,  and  wit  all  in  one  —  told  me  that  he  had
+read  this  book  through  three  times  already,  and  he  suspected  that  it  was  his  doom
+to  read  it  a  good  many  times  more.  After  all,  is  there  anything  quite  so  peren-
+nially fascinating  as  folk-lore,  unless  it  be  the  old  ballads  which  turn  folk-lore  into
+music?  .  .  .  Turn  to  the  book  itself  and  read  about  the  "  Fire  Bird"  and  the
+"Gray  Wolf,"  and  "The  Ring  with  Twelve  Screws  "and  "The  King  of  the
+Toads"  and  "  The  Reed  Maiden,"  and  you  will  forget  as  you  read  the  slow  pro-
+cession of  mortal  years,  and  dream  yourself  into  Elfin  Land,  where,  I  believe,
+they  never  grow  old.  And  then  if  you  want  to  come  back  into  active  human  life
+again,  read  that  vigorous  and  thrilling  tale  of  love  and  war,  "  With  Fire  and
+Sword."  — Louise  Chandler  Moulton,  in  the  Boston  Herald.
+
+The  literary  charm  of  the  translation  is  high,  and  the  tone  struck  in  rendering
+the  tales  from  the  Slav  and  the  Magyar  languages  is  naive  without  being  silly,
+natural  without  being  monotonous.  .  .  .  The  collection  opens  with  a  varied  mis-
+cellany of  Russian  stories  about  the  metal  and  animal  kingdoms  ;  enchanted  prin-
+cesses ;  pigs  with  golden  bristles ;  the  waters  of  youth,  life,  and  death  ;  and  the
+deathless  youth.  The  marvellous  imagination  of  the  Russ  peoples  plays  sportively
+through  these  creations,  and  exhibits  wanton  delight  in  hugeness,  in  physical
+strength  and  beauty,  in  comic  situations  of  its  mighty  myth-tsars,  and  queer  adven-
+tures for  its  king's  sons  and  tsarins.  .  .  .  Grown-up  children,  as  well  as  hunters
+after  folk-lore  and  superstitions,  will  revel  in  these  freaks  of  fact  and  fancy,  which
+Mr.  Curtin  translates,  and  dedicates  appropriately  to  Prof.  F.  J.  Child. —
+The  Critic.
+
+TALES  OF  THE  FAIRIES  AND  OF  THE
+GHOST-WORLD,
+
+«Eottcetcb  from  <®ral  (£rabition  in  &outbtt)c?t  jnaunjstcr.
+BY   JEREMIAH   CURTIN.
+
+i2mo.     Cloth,  $1.25.
+
+It  will  attract  earnest  attention  from  cultivated  readers  everywhere  who  delight
+in  primitive  romance  expressed  in  the  simple,  unaffected  language  of  the  common
+people.  —  Boston  Beacon.
+
+
+LITTLE,    BROWN,    &     COMPANY,   Publishers,
+254  Washington  Street,  Boston,  Mass.
+
+
+DATE  DUE
+
+fp— — tir
+
+fjj0&Qf&*Q%
+
+C1HT?,"C7
+
+— rt-#ri  "/^"iiTri
+
+TIMI      »U    |*JJ
+
+l^wm^
+
+GAYLORD
+
+PRINTED  IN  U.S.A.
+
+BL2530  .C8C97
+
+Creation  myths  of  primitive  America  in
+
+Princeton  Theological  Semmary-Speer  Library
+
+
+1    1012  00034  5308
+

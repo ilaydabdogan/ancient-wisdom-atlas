@@ -4770,7 +4770,7 @@ veda, where poems of different ages, different places, and
 [32] §
 
 
-XCVII1 - - VWEDIC HYMNS.
+XCVII1 - -<VWEDIC HYMNS.
 
 
 different families have been put together, we must be
@@ -7678,7 +7678,7 @@ his commentary (Sama-veda II, 6, 3, 12, 1) has parito:va-
 sthita lokatrayavartinaz pravzinak.
 
 
-Note 3. Rosante rofana.  A similar expression occurs
+Note 3. Rosante rofana. <A similar expression occurs
 III, 61, 5, where it is said of Ushas, the dawn, that she
 
 
@@ -14790,7 +14790,7 @@ on their chariot), their companion for victory (subhé
 nimislam),
 
 Sayava: ‘For the sake of water, or, on the brilliant
-chariot’ “ Ghi, 437, 6; 16504.
+chariot’ “<Ghi, 437, 6; 16504.
 
 VI, 62, 4. sibham p7¢ksham isham trgam vdhanta.
 
@@ -33724,3 +33724,7584 @@ pari-stubh = pari-srut ,(VIII,7, Ts)
 
 
 Ln a oe ee ee ee
+
+
+INDEX OF WORDS.
+
+
+491
+
+
+parizas, wealth:
+parivasa, I, 166, 14.
+
+eshai, (speckled) cloud :
+parushzyam, V, 52, 9°3 (V, 53,
+
+
+parus, knot :
+(66) ; p. XXV.
+parganya, cloud :
+parganyena, I, 38, o 3 parganyab
+iva, I, 38, 1413 parganyam, V,
+53, 6.
+parvata, mountain (cloud) :
+parvatah, V, 60, 2; 33 parvatah
+giri/, I, 37, 71; parvatam girim,
+V, 56, 45 parvatam, I, 85, 10;
+parvatad, I, 64, 3; V, 54) 93
+55,73; VIII, 7, 2; 34; parva-
+tasahb, V, 87, 9; VIII, 20, 5;
+parvatan, I, 19, 7'5 39) 53
+64, 11; 166,5°; V, 57,3; VIII,
+7,43 233 sph inntie ¥i80, 7;
+parvatanam og gPigy, ges
+parvateshu, V, 61, 19; VIII, 7,
+#% 20, 25. as KXY,
+parvata- Ayit, shaking the mountains:
+parvata-Aytite, V, 54, 1; parvata-
+kyfitab, V, 54, 3; (1, 168, 5%.)
+parvan, knot:
+(66); p. xxv.
+parva-sas, piece by piece, to pieces:
+Parva-sad, WI, 7520": 23,
+parsana, valley :
+parsanasah, Wilk, 7393
+pavi, tire (of a wheel) :
+pavi-bhis, I, 64, 12% pavya, I, 88,
+re VS ka 9s pavishu, I, 166,
+10; pavi-bhyaA, I, 168, 8.
+pas, to see:
+pasyan, I, 88, 5; V, 53,33. pasy-
+anta/, VIII, 20, 26.—pari-apas-
+yat, he looked over, X, 121, 8;
+pari apasyan, they looked about
+for (Acc.), I, 168, 9.
+pas, cattle :
+pasvas, I, 166, 6; pastim (4svyam),
+V, 61, 5; pdsve, I, 43, 2
+pasupi, shepherd :
+pasupab-iva, I, 114, 91.
+paskat, behind:
+paskat dagh, to stay behind, VII,
+7-56, 21.
+ele N. of a people :
+8.)
+Pastya-vat, N. of a country :
+pastya-vati, VIII, 7, 29!.—Adj.,
+filled with hamlets, (399.)—
+
+
+Subst. ., sacrificial vessel, (VIII,
+7) 29.)
+pastya, housewife, ep. of Aditi:
+(260.)
+pa, to protect :
+panti, I, 167, 8" Vga, oo 6s pasi,
+L 134, 5 5? (bis) ; pahi, I, 171, 6!
+pathdna, I, 166, 8; ytiyam
+pata, VII, 56, 253; 57,7; 58, 6;
+47, cit panti, they ward off,
+VII, 56, 19.
+pa, to drink :
+patha, I, 86,1; pahi, I, 2, 1; pi-
+tdsah, I, 168, 3; pibanti asya,
+VIII, 94, 45 53 piba, V, 60, 8;
+pibata, VII, 59, 31; pibantas,
+V, 61, 113 pibadhyai, I, 88, 4.
+pagas, splendour :
+_pagasa Atyena, II, 34, 13°.
+pagasvat, brilliant :
+pagasvantahs (viris), X, 77, 3.
+pazf, hand, hoof :
+(I, 38, rz.)
+patra, vessel :
+three patras, filled with milk and
+Soma, (VIII, 7, 10%.)
+Pathya :
+Vrishan Pathya, (153.)
+para, the other shore :
+paré, I, 167, 2; param (parshi naJ),
+Th) 2% 23 ‘param, the end, V,
+54, 10.
+paravata, pl., extranei, strangers :
+paravatad, Wy ea, TEN
+paravata- -han :
+paravata-ghni (Sarasvati), (V, 52,
+11"),
+parthiva, earthly; earth:
+parthivam (sadma), E98; 46" 3-Y,
+87, 71; parthiva, divyani, I, 64,
+33 parthivad, V, 52, 7-—par-
+thivat Adhi, from above the
+earth, I, 6, 10; (51 seq.) ; par-
+thiva régas, dy&, (1, 19, 3 1); par-
+thivani, earth, sky, and heaven,
+(52); visva parthivani, the whole
+earth, VIII, 94, 9
+parya :
+parye dy6/, at the close of the
+day, VI, 66, 8".
+pavaka, pure :
+pavakisas, I, 64, 2; pavakdm, I,
+64, 123 pavakébhiA, V, 60, 8;
+pavakas, VII, 56, 123 57, 5;
+pavakan, VIII, 20, 19.—pavaka
+U—-UN, Pp. Cxvi seq.
+
+
+‘492 VEDIC
+
+
+HYMNS.
+
+
+pasa, snare :
+pasan, the snares of ((Druh), Vil,
+(59,85 varunasya pasat, VI vt; 4.
+pitré, father :
+pita, 1, 38,1; X, 186, 2; ; pitaram,
+Il, 3 3.535  pitéram utd mataram,
+I, 114,73 pitas, I, 87,5; pitré-
+nim na sams, like the prayers
+of our fathers, X, 78, 3.—
+manus pita, I, 114, 23 II, 33,
+13.—pitad marutam, Rudra, the
+father of the Maruts, I, 114, 9;
+I], 33, 15 pita, V, 60, 55 pi-
+taram, V, 52, 16; pitré marf-
+tam, I, 114, 6.
+pitrya, of the father or fathers :
+pitryami (ukthdni), VII, 56, 23;
+pitryam (vayad), VIII, 20, 13.
+pinv, to sprinkle, pour out:
+pinvanti, 1, 64,5; 67; pinvate, II,
+34, 87; pinvanti ftsam, they fill
+the well, V, 54, 8; VII, 57, 1
+‘pipishvat, crushing :
+pipishvati, I, 168, 7.
+pipishu, wishing to drink :
+pipishava/, VII, 59, 4
+pippala, apple :
+pippalam rfsat, the red apple (the
+lightning), V, 54, 12’.
+pis, to adorn:
+pipise, he decked himself, I1, 33, 9 ;
+pipise, it has been laid, V, 57, 6;
+pishtam, bedecked, V, 56, 1.—
+abhi pipisre, they have adorned,
+V, 60, 4.—& pisands, adorning,
+nl Wee OF 3
+pis, gold:
+: (I, 64, 8*.)
+pisa, gazelle:
+pisdd-iva, I, 64, 8?
+pisénga, tawny:
+pisangai+ (horses), I, 88, 2.
+pisénga-asva, having tawny horses :
+pisanga-asvab, V, 57, 4
+pish, see pipishvat.
+piti, drinking :
+pitaye, for to drink, I, 166, 7; VII,
+59,5}; asya sémasya pitdye, VIL,
+94, 10 to 12; pitim arhasi, thou
+art worthy todrink,I,134, 6 (bis).
+pams, man:
+pumsab, V, 61,6; paman, V, 61,8.
+putra, son :
+putrdm, I, 38, 1; putrd4 (prisnes),
+V, 58, 53 (rudrésya), VI, 66, 3;
+divas putrasah, X, 77, 2.
+
+
+putra-kritha :
+putra-krithé na ganayah,« os -yuvaixes
+ev TeKvoTrolia, V, 61; 3°.
+on again :
+1, 6, 43 VII, 58, 5; VIII, 20; 36
+par, stronghold :
+ptsé-bhiA, I, 166, 8.
+purandhri, housewife :
+(I, 134, 3°)
+piram-dhi, morning, dawn :
+piram-dhim, I, 134, 3'.
+puras, in front:
+purad, I, 170, 4.
+pura :
+of yore, I, 39, 73 V, 53,13 for-
+merly, I, 167, 10; VII, 56, 23;
+: aeag te OK;
+purisha, soil :
+from pré, (I, 64, 12°; V, 55,57) |
+purishin :
+
+
+purish{zi, marshy, V, 53, 9.—puri- —
+
+
+shiza4, cultivators of the land,
+yeomen, V, 55, 5”
+pura, many:
+purt, I, 166, 33 133 piirvibhi, I,
+86, 6 ; : ptirvis, 4 99;3
+puru-kshi, nourishing many :
+puru-ksham, Vil, 932%
+puru-andra, resplendent :
+puru-andra (for Pada puru-éand-
+rah), V, 61, 16°.
+puru-tama, manifold :
+puru-tamam, V, 56, 5.
+puru-drapsa, rich in rain-drops :
+puru-drapsad, Y, 4735
+puru- -praisha, invoked by many :
+puru- -praishas, I, 168, 5°.
+Puru-mi/A/a :
+puru-mi/sdya, V, 61,
+5°) 5 (359 seq. 362.)
+puru-rtipa, assuming many forms:
+puru-riipah, II, 33, 9
+purusha-ghna, man-slaying :
+purusha-ghnam, 1, 214, 80%
+purushata, men as we are:
+VII, 57, 4
+Purushanti:
+(360); (V, 61, 57; 9%.)
+puru-sprzh, much-desired :
+puru-sprzha/, VIII, 20, 2
+Purfdravas :
+(307.)
+push, to prosper:
+
+
+9'5 (V5 61,
+
+
+.
+
+
+pushyati, I, 64, 137; pushyema, let |
+
+
+us foster, I, 64, 143 isha
+nrimnam, "rich in manhood, VII,
+
+
+SESE ae ea oe
+a Soaps
+
+
+INDEX OF WORDS.
+
+
+493
+
+
+56,5; pushtam, prosperous, I,
+I14, 1.—See pushyas.
+pushfi, prosperity :
+pushrishu, I, 166, 8.
+pushfi - -vardhana, wealth-increasing
+(Rudra) :
+push¢i-vardhanam, VII, 59, 12.
+pushyas, prosperity :
+pushyase, VII, 57, 5
+pi, to clean:
+punishé,(V, 58, 11); punands, who
+clean themselves from(Acc.),VI,
+66,47; ptitasya, clarified(Soma),
+ou, 94, 5.—pavanta, (VII, 56,
+
+
+phis-daksha, endowed with holy
+strength:
+pitd-daksham, I, 2, 7}.
+piita-dakshas, endowed with pure
+strength:
+piit4-dakshasa/, VIII, 94, 7; 10.
+pitabhrit, a Soma-vessel :
+
+
+(VIII, 94, 5%.)
+Piru, N. of a people:
+
+
+(398
+ptirva, former, old:
+ptrvasu vi- ushtishu, VIII, 20, 153
+piirvan-iva sdkhin, My BS
+pirvam, ancient, cs 166, I.—
+ptirva, before, opposed to fapara,
+behind, 7. 967, 3°.)
+parva-piti, the ‘early draught :
+
+
+ey I, 19, 9°3 134, 1°
+
+
+pirvy4m,V, 55, 8; pirvy4s (agnfA),
+” ing or, first, VIII, 7, 367.
+fishan
+n Bae el, t84; 3)
+przksh, foo
+priksham ya, to go in search of
+food, (II, 34, 3*); prikshé, to
+feed, IT, 34, 4°.
+a adv., quick :
+345 3%
+Sea N. pr.:
+54,1.
+priksha-y yavan (?) :
+ee yen, (V, 54, 12.)
+pri
+pra-prifkati (dhéna), satisfying,
+I, 2, 3'.—prikshase, (I, 6, 7”.)
+print, a liberal worshipper :
+prinataA, I, 168, 7.
+prit, battle, fight :
+prit-si, I, 64, 14; VIII, 20, 201.
+
+
+pritana, battle :
+pritandsu, I, 85, 8; VII, 56, 22;
+235 59) 4.
+prithivi, earth :
+prithivi, _antariksha, dyt, (50) ; ;
+prithivt, ragas, dyf, (I, 19, 3');
+prithiv!, X, 121, 5; I, 39 6;
+the earth trembles, I, 37,3
+54,9; 56, 375 60, 2; VI, 66,93
+opens wide, V, 58, 73 prithiv?
+uta dyatiA, L $24, E%3 prithivim,
+os 341,83 V, 57,3; (vi-undanti),
+I, 38, 93 V, 54, 8; prithivy42,
+X, 121, 9; I, 38, 23 39, 3; X,
+var 35 168, 1; prithivyai, V,
+59, 1 prithivyam, I, 168, 8.—
+prithivi, i.e, prithuv\, (255) ;
+=prithvi, pp. cxx; Cxxi.
+prithd, broad :
+prithim, I, 37, 113 dirgham
+pritha, far and wide, V, 87, 7.—
+prithvi, (255; 260.)
+prithu-graya, wide-spreading :
+prithu-grayi, I, 168, 7'.
+prith-pazi :
+(E, 385 127.)
+Prisni, Prisni, the mother of the
+
+
+Maruts :
+prisniA, a 168, gs Vi, Gayee 1,
+66, Ets Vib, oh 43 (Vv, 61,
+
+
+45 VIII, 94> 1 ; prisnim, V,
+53) 16; prisnyah, Hes a4 4°:
+: prisneb putraA, V, 58, 5.—
+prismayabs the clouds, VILL, $i
+rol"
+prisni-matri, pl., sons of Prisni:
+prisni-matarad, $s Ee 45 ¥537; 2
+
+
+3; pri’, 1, 85,23; V,59, 6; Vill,
+75:35 17- 5th 85, 3'; 168, 9};
+an 34, 2°; V, 61, 4°; X, ‘78,
+
+
+wel asva, with spotted HORSES:
+prishat-asvah, I, 87, 4 3 prishat-
+asvasah, Jt, 34, th 37, 2
+II, 34, 3°.
+prishati, the
+clouds) :
+prishatibhid, |S 37, 2 21; 64, 8; II
+te. 273 WV, 88, G3 prishatt2, I,
+39, 6; 85, 4; 53 V; 55, 6 ts 57,
+33 VIII, 2, 383 prishatishu, V,
+60, 2.—(I, 87, 4'; V, 53, 1")
+prishtha, back :
+prishtbam (divas), I, 166, 5; (V,
+54, 1"); prishthé (sada), V, 61,
+V, 61, 3%)
+
+
+;
+
+
+spotted deer (the
+
+
+494 VEDIC
+
+
+HYMNS.
+
+
+prishtha-prayag :
+(V, 55, 1%)
+prishtha-yagvan :
+divah & prishtha-yagvane, who sa-
+crifices on the height of heaven,
+V, 54, 1.
+pri (or par), to carry over:
+parshatha, you carry off, I, 86, 77;
+parshi nad param amhasad, carry
+us to the other shore of anguish,
+II, 33, 3.—ati parayatha, you
+help across, II, 34, 15; (1, 86,
+7',)—apa par, to remove, nis par,
+to throw down, (I, 86, ; 3
+pri, to fill:
+pipartana, fulfil, I, 166, 67; (221.)
+—ptirna (nath), full, Y, 59, 2
+pésas, form:
+pésah, I, 6, 3; see apesas,
+pésha, fulness :
+pésham (raya), I, 166, 3.
+patimsya, valour :
+patimsyebhid, I, 165, 7; VI, 66,
+23 patunsya, manly deeds, L, :
+566, 3:2 Vy Smee vrishni
+patimsyam, manly work, VIII,
+
+
+7, 23.
+pyai, to fill, to swell:
+pipyata, II, 34, 6; pipdya, it is
+brimming, V1, 66,1; pipyashim
+(isham), swelling, VII, 32
+pipyashis (ishad), VIL, "y, 19.
+pra, prep...
+pra (ati tasthati), I, 64, 133; pra
+(verb understood), V, 54, 23 87,
+we pra ratheshu, I, 85, 5.
+pra-avitrz, see av.
+pra-kri/in, playing about :
+pra-kri/inab (the Maruts), (I, 6,
+87); VII, 56, 16.
+pra-etas, wise :
+pra-ketasab, I, 39, 9; V, 87, 9;
+pra-ketasah, I, 64, 8; attentive,
+VIII,7,12; pra-etase (rudraya),
+I, 43, I.
+prakks, to ask:
+sam | prikkhase, thou greetest, 1,165,
+ca ; p. xv.—See 4-prikkhya.
+pra-ga, offspring :
+pra-gayal, VII, 57, 6; pra-gabhis
+pra gdyemahi, II, 33, 1.—pra-
+gah, beings, I, 43, 9.
+Pragapati :
+pragapate, X, 121, 10,
+pra-giiatra, “expert :
+pra-g#atarah na gyéshthah, X,78,2.
+
+
+pra-taram, further :
+V, 55, 3.
+pra-tavas, endowed with exceeding
+power:
+meena, L, 87,1
+prati, prep.
+to, I, 19, 1 . 171, rs
+88. 6 3. 165, 43%
+prati, V, 61, 9.
+prati-skabh, see skambh.
+pratna, old :
+pratnasya, I, 87, 5.
+pra-tvakshas, endowed with exceed-
+ing vigour :
+pra-tvakshasah, I, 87, 1; V, 57,
+
+
+towards, I,
+me _ arapat
+
+
+4.
+prath, to spread :
+prathishzha,(the earth)opened wide,
+V, 58,7; paprathe, (the earth)
+is stretched out, V, 87, 7.—a
+paprathan, they spread out,
+VIII, 94, 9
+prathamd, first :
+prathaméani, I, 166, 7; prathamad,
+II, 34, : a; prathama/ aptirvyad,
+I, 13 34,
+soca ee first- born :
+prathama-gah, X, 168, 3.
+pra-dakshinzit, turning to the right :
+V, 60, 1.
+pra-div :
+pra-diva, always, V, 60, 8.
+pra-dis, region :
+pra-disab, X, 121, 4.
+pra-niti, guidance :
+pra-nitishu, I, 114, 2
+pra-netr7, leader :
+
+
+pra-netarab martam, V, 61, 153
+they
+
+
+pra-netarah (ménma),
+guide, VII, 57,
+prd-patha, mee.
+pra-patheshu, I, 166, 9”.
+pra-pada :
+
+
+pra-padeshu, Roth for pra-pathe-_
+
+
+shu, (I, 166, 9 -
+pra-bhrith4, offering :
+pra-bhrithé, II, 34, 11°.
+pra-yagyu, chasing:
+pra-yagyavah, I, 39,9 ; 86,7; Vil,
+56, 14; pra-yagyavab, V, 55, 13
+pra- yagyave, V, 87, 1;
+yagytin, hunters, VIL, 7, 8%
+prayas, offering :
+
+
+ae I, 86, 7; prayad, I, 134,
+
+
+pice BGR for the sake of
+
+
+ae offerings, I, 2, 47.
+
+
+pra-
+
+
+nt oO
+
+
+INDEX OF WORDS. 495
+prayasvat, enjoying the offerings : pru, to float :
+
+prayasvantad, X, 775 4+ (X, 77; 57.)
+pra-yig, driver : prush, to shower down:
+
+pra-yligah, X, 77, 57. prushzuvanti, I, 168, 8; prusha
+
+
+pra-yddh, eager for battle:
+pra-yadhad, V, 59, 5.
+pra-yotrz, one who removes:
+pra-yota, (267.)
+prava, spring, well :
+pravasah, X, 77, 5”.
+pra-vava, pronus:
+(X, 77, 5°.)
+pravatvat, bowing :
+pravatvat?, pravdtvatid, pravat-
+vantah, V, 54, 9.
+pra-van :
+prava=pravan, (X, 77, 5”.)
+pravayana, a goad :
+(I, 166, 4*.)
+prava, the blowing before :
+(X, 77,57.)
+pra-vetri, driver :
+(I, 166, 4.)
+pra-sasti, great praise :
+pra-sastim, V, 57, 7.
+pra-sis, command :
+pra-sisham, X, 121, 23 (4.)
+prashti, leader :
+prashri#, I, 39, 6’; VIII, 7, 28.
+pra-sita, springing forth:
+pra-sitasab (wells), X, 77, 5.
+pra-siti, raid :
+pra-sitau, V, 87, 64; ma te bhima
+pra-sitau, may we not be in thy
+way when thou rushest forth,
+VII, 46, 4.
+pra-sthavan, marching forward :
+pra-sthavana/, VIII, 20, 1.
+pra:
+prasi, for pasi, (Oldenberg, I, 134,
+5”.)
+pranat, see an.
+pratad, early :
+I, 64, 15; at the morning sacri-
+fice, VIII, 94, 6.
+priya, beloved :
+priyé, I, 85, 7; priyasya, I, 87, 6;
+kadha priya, for kadha-priyad
+(see kadha-pri), I, 38, 11; VIII,
+7,31; priya (nama), VII, 56,
+10; ahani priyé, ona happy day,
+VII, 59, 23 priya tanva+, our
+own bodies, I, 114, 7%.
+pri, to please :
+pipriyazas, well pleased, VII, 57,
+2.
+
+
+(for Pada prusha), let me
+shower, X, 77, 1%.
+préshtha, most beloved :
+préshrha, I, 167, ro.
+
+
+phaliga, for parigha (?):
+(350)
+
+
+bat, particle of asseveration :
+(V, 59, 1°)
+badh, see vadh.
+bandh, to bind:
+baddhdm Asti tantishu, it clings to
+our bodies, VI, 74, 3.
+bandhana, stem:
+urvarukam iva bandhanat, like a
+gourd from its stem, VII, 59,
+
+
+44:
+bandhu-esha :
+bandhu-eshé, when there was in-
+quiry for their kindred, V, 52,
+16,
+babhra, tawny :
+babhrdA/, II, 33, 5; 9; babhrave,
+II, 33, 8; babhro, II, 33, 15.
+barhaza, weapon, bolt:
+barhana, I, 166, 6° ; (226.)—bar-
+hana tmana, by their own
+might, X, 77, 3.
+barhis, grass-pile, altar :
+barhiA, I, 85,6; VII, 57, 273 59,
+6; barhishi, I, 85, 73-86, 4;
+Vo 46g.
+bala, strength :
+balam, I, 37, 12; V, 57, 6.
+bala-da, giving strength :
+bala-daA, X, 121, 2.
+bahula, manifold:
+bahulam, V, 55, 9.
+bana, reed, arrow:
+(VIII, 20, 8'.)
+badh, to drive away :
+aré badhetham, VI, 74, 2.—ba-
+dhante apa, I, 85, 3; Apa ba-
+dhadhvam, VII, 56, 20.—nI-
+badhita, struck down, (268 seq.)
+baht, arm:
+bahti (the regions are the two
+arms of Hiravyagarbha), X,
+121, 43; bahd-bhid, I, 85, 6';
+bahfshu, I, 166, 10; VIII, 20,
+11; bahvd6A/, V, 57, 6.
+
+
+- 496 VEDIC
+
+
+HYMNS.
+
+
+baht-ogas, strong-armed :
+baht-ogasa/, VIII, 20, 6.
+baha-gita, quick with his arm:
+baht-gitas, V, 58, 4.
+biga, seed:
+bigam, V, 53, 13.
+budh, to awake:
+Siyana, bodhi=budhyasva,(ITI, 33,
+I ss 2 bodhaya, awake, ee
+
+
+badhede hoe
+budhné apam, X, 77, 4.
+budhnya, hidden :
+budhnyA, VII, 56, 141.
+brih:
+barhayati, to crush, (226.)—upa-
+barbrihat, she stretched out
+(dé, her’ arm), V, 61, 51.—Cf.
+vrih.
+brihat, great, mighty:
+brihat, V, 55, 13 23 57, 83 58,
+8; brihat vaya, VII, 58, 3;
+brihat gfhite, VIII, 20, 6;
+brihat vadema, we shall mag-
+nify, II, 33, 15; brihantam
+kratum, I, 2, 8; apa brihatiA,
+X, 121, 71; 93; brihatah divas,
+V, 59,73 87, 3
+
+
+brihat-giri, dwelling on mighty
+mountains:
+brihat-girayah, V, 57, 81; 58, 8.
+
+
+brihat-diva, coming from the great
+heaven :
+brihat-divaiA, I, 167, 2; (V, 57, 81.)
+brihat-vayas, of great strength:
+brihat-vayasah (the Maruts), (1,
+
+
+37> 9.)
+Brihaspati, a variety of Agni:
+(I, 38, 13°.)
+bradhna, bright:
+bradhnam, I, 6, 14.
+Brahmanaspati, lord of prayer:
+N. of Agni, (I, 38, 13'); (246, note.)
+brahmamyat, prayerful:
+brahmanyAnta/, II, 34, 11.
+brahman, m. priest:
+brahma kas, VIII, 7, 20; brah-
+mazam, X, 77, 1*
+brahman, n., prayer, hymn:
+brahma, I, 37; 49) 88,44 168, 15;
+II, 34, 71; brahmani, I, 165, 2
+4°5 resol il sg 6} brdhmanas
+patim, lord of prayer, E38; 33°:
+brii, to speak :
+bruve (pam4n iti), he is called, V,
+61, 8.—adhi bréhi nad, bless
+
+
+us, I, 114, 10.—fipa bruvate,
+they implore, I, 134, 2.—pra
+bruvate, they proclaim, V, 87,
+2.—sdm bruvate, they "talk
+together, I, 37, 13.
+
+
+bhaksh, to enjoy:
+bhakshiy4 (c. Gen.), V, 57, 7.
+bhaga, luck :
+bhagam, luck, I, 134, 5; bhage 4,
+in wealth, II, 34, 8
+bhag, to obtain :
+bhegire, V, 57, 5.—a& bhaga naA,
+appoint us to, give us, help us
+to (Loc.), I, 43, 8; Vil, <@
+4'; 4 bhagatana, VII, 56, 21.—
+Desider., bhiksh, (220.)
+bhadra, good, auspicious :
+bhadra, good things, I, 166, 91;
+oe: (sausravasini), VI, 74, 24
+(vastra), beautiful, I, 134, 43
+bhadra (rati4), I, 168, 7°; (su-
+mati/), I, 114, 9.
+bhadra-gani, having an_ excellent
+mother:
+bhadra-ganayad, V, 61, 4’.
+bhan, to shout :
+(Vv, 52, 12°.)
+bhandat-ishii, in jubilant throng:
+bhandat- -ishraye, V, 87,1
+bharata, Bharata (the warrior) :
+bharatiya, V, 54, 141.
+bharas, burden (?):
+(V, 54, 101.)
+bhartri, husband:
+bharta-iva, V, 58, 7.
+bha, to shine:
+vi-bhati, he shines forth, X, 121, 6.
+bhaga, share:
+bhagam, VII, 56, 14.
+bhang, splendour :
+bhands divab, V, 52,6; bhandm,
+V,59,1 - bhant- bhid, I, 87, 6;
+VIil, , 8; 36.
+bham, to be in wrath:
+bhamita4, I, 114, 8.
+bhama, vigour:
+bhdmena, I, 165, 8
+bhamin :
+bhamina, VS. for bhamitas, (I,
+114, 8.)
+bhis, light :
+bhasd, X, 77, 5-
+bhiksh, to beg, to implore: .
+(220); bhikshe, I, 171, 1; Dhik-—
+sheta, VIII, 7, 15.
+
+
+INDEX OF WORDS.
+
+
+497
+
+
+bhind, to cut asunder:
+bhindanti, V, 52, 9.— bibhidud vi,
+they clove asunder, I, 85, 10.
+bhiyas, tear:
+uel V, 59, 23 bhiydse, (I, 87,
+
+
+bhishig, physician :
+bhishak-tamam bhishagam, the
+best of all physicians, II, 33, 4.
+bhi, to fear :
+bhayate, I, 166, 5; VII, 58, 2;
+bhayante, 13.85, 98.486, 4;
+bibhaya, V, 60, 3; MEINE,
+m230;:7°% 4bibhayanta, I, 39, 6
+—See dbibhivas, bhiyas.
+bhi, f., fear:
+bhiya, I, 37, 83 171, 43 V, 57;
+taped 60, o; Vill, 7, 2
+bhimé, terrible :
+bhim4A, II, 34, 15 bhimisa4, VII,
+58, 2; mrigam na bhim4m, II,
+
+
+33, 11°.
+bhima-y4, fearful:
+' bhima-yté, V, 56, 3.
+bhim4-sandris, terrible to behold :
+bhima-sandrisa/, V, 56, 2.
+bhugman, the feeding cloud :
+bhugma, (I, 64, 3'.)
+bhufig, to enjoy:
+bhugé (ishé), VIII, 20, 8; ékam
+ft bhugé, of use, VIII, 20, 13.
+bhurvan, whirl :
+bhurvazi (apam), I, 134, 5 (bis);
+p. cxxii.
+eas, being, world:
+visvi bhfivanani, bhfvana, I, 64,
+35 85, 85 166, 4; Il, 34, 43
+visvasmat bhfvanat, I, 134, 5.—
+asy4 bhfivanasya bhiired, of this
+wide world, II, 33, 9 ; asyé vis-
+vasya bhtivanasya raéga (Vata),
+X, 168, 2; ; bhavanasya garbhaA,
+
+
+bhiva/, I, 86, 51; nab babhitha,
+thou hast come to be with us,
+a. 465, $5 <p. RV; babhiivan,
+having grown, I, 165, 8; sam
+nah bhitam, VI,74, 1; (190 seq.;
+435); bhiivan sikam, they be-
+came full of, VI, 66, 23; bodhi,
+II, 33, 15%—ma Apa bhitana,
+do not keep away, VII, 59, 10.
+—ma api bhfima tdsyam, let us
+not fall under its power, VII,
+57, 44.—kitad 4 babhiiva,
+
+
+[32]
+
+
+whence did he spring, X, 168,
+3.—pari babhfiva, he embraces,
+X, 121, 10.—vi- -bhvane, (48.)—
+bhavya and bhiita, what is and
+what will be, (p. 4); bhifitasya
+pati4, the lord of all that i My A;
+i232, 2.
+bhtiman, earth :
+bhima, I, 85, 5°; 88, 2.
+bhtimi, earth :
+bhdimi and dyt, (50) ; bhimiA, I,
+87,33; V, 59, 2 ; VIII, 20, 3;
+bhf{imim, ei 64, 53 V, 595, 45
+
+
+bhtimyam, I, 39, 4; bhimy
+& dade, p. cxvii.
+bhiiri, | much :
+bhtiri, bhtirizi, 1, 165, 7; 166,10;
+
+
+bhtiri dakra, you tee valued,
+VII, 56, 23'; bhtired, II, 33,9;
+
+
+bhtish, to honour :
+
+4-bhishantié, who honour, I, 43,
+9; cf. 4-bhtishénya.
+
+bhri, to bear, to carry:
+
+bibhritha, I, 39, to; VIII, 20, 26;
+bibhrati, V, 56, 8; haste bi-
+bhrat, I, 114, 5; bibharshi, IT,
+33, 103; bharata, Vil, ry |
+bharate, I, 64, 13; bharadhyai,
+Vi, 66, 3; gabhira, VII, 56, 4.
+—bibhratas fipa, bringing to
+(Acc.), I, 166, 2'.—pra bbara-
+dhve, you are carried forth, V,
+59, 43 pra bhara, I, 64, I3 pra
+bhare, I offer, V, 59, I ; 60,1 1°;
+pra bharadhvam, VI, 66, 9; pra
+bharamahe, I, 114, r: pra-
+bhritad, hurled forth, I, 165, 4;
+(182); pp. xv; xxi.—prati
+bharadhvam, bring forward,
+VIH, 20, 9.
+
+bhr7mi, quick, fresh :
+
+(II, 34, 1°.) — bhr/mim, cloud,
+Ii, 34, 1°; vagrant, VII, 56,
+207,
+
+bheshaga, medicine :
+
+bheshagam, V, 53, 14; VIII, 20,
+25'; X, 186, 1; Dbheshagah
+galashah, II, 33, 73 (1, 43, 4”) 5
+haste bibhrat bheshaga, carry-
+ing in his hand medicines
+(Rudra), I, 114, 53 bheshaga,
+Ii, 33, 12; 13'; VII, 46, 3;
+bheshagani, VI, 74, 3; bhesha-
+
+
+Kk
+
+
+- 498
+
+
+VEDIC HYMNS.
+
+
+gasya (marutasya), VIII, 20, 23;
+bheshagébhiA, II, 33, 23 4.
+bhoga, liberal :
+bhogan, V, 53, 16.
+bhrag, to shine:
+bhragante, Vi, 57, 33 abhragi,
+V, 54, 6.—vi bhragante, I, 85,
+4; VIII, 20, 113 vi- bhriigate
+(for vi- bhriigante), V, 61, 121.
+bhragat-rishii, with brilliant spears :
+bhrigat-rishrayab, 164,80 5:87,
+33 168, 43 II, 34, 53 V, 55,13
+X, 78, 7; bhragat-rishtim, VI,
+66, 11.
+bhragat-ganman, flame-born :
+bhragat-ganmanas, VI, 66, ro.
+bhragas, splendour :
+bhragasa, X, 78, 2.
+bhratri, brother :
+bhratara/, I, 170,2; V,60,5; bhra-
+tah, I, 170, 3; bhrata, X, 186, 2.
+bhratri-tva, brotherhood :
+bhratri-tvam, VIII, 20, 22),
+bhrami:
+bhrémim for bhrimim, (298) ; (II,
+
+
+34,1
+mamhana, in magnificence :
+V, 61, Io.
+makshf, quickly;
+I, 39,73 (II, 34, 12'); VI, 66, 5;
+VI, (56, :494:4, 25 6 206m, I,
+
+
+64, 15.
+makha, adj., strong, brisk :
+
+(46 seq.); makhas, I, 64, 11;
+makhébhya/, champions, VI,
+66, 9.
+
+makha, sacrifice :
+
+makhasya davane, for the offering
+of the sacrifice, VIII, 7, 27'; I,
+134, 13 (47.)—makhaé, sacri-
+ficer (?), I, 6, 8%.
+
+magha, wealth :
+
+maghani, VII, 57, 6
+
+magha-vat, mi ghty, lord:
+
+magha-va, V, 61, 19; magha-van,
+I, 165,93; maghavat-bhya4,VII,
+58, 3; Il, 33,14; maghavat-su,
+I, 64, 143 maghdénam, VII, 58,
+6; VIII, 94, 1.—magha-va, Ma-
+‘ghavat (Indra), I, 171, 3.
+
+magman, strength :
+
+magmana, 1:64: 3
+
+mati, thought ; prayer:
+
+iyam matiA, this prayer, V, 57, 1;
+
+ima mati, I,114,1'; matayad,
+
+
+I, 165, 41; V, 87, 13 matindm,
+prayers, I, 86, 21.—yatha matim,
+after their own mind, I, 6, 6’;
+svaya matya, their own will, V,
+58, 5.—mati, thoughts, I, 165, 1.
+mad, pron. .
+me, they are ‘mine, 1,165,4; aham,
+hia7ey 24 4.
+mad, to rejoice:
+madanti (c. Loc.), 1, 85, 13 V,6r,
+14; (c. Acc.), V,52,17; madatha,
+V,54,10; VIII,7,20; madanti,
+V, 56, 31; madantaA, VII, 59,7;
+svadhaya madantam, (34); mat-
+sati, may he rejoice in (Gen.),
+VIII, 94, 6; madayadhvai, I,
+37, 14; VII, 59, 6; madaya-
+dhvam (c. Gen.), I, 85, 6; méa-
+dayadhyai, I, 167, 1.—pra ma-
+danti, thy delight, VII, 57, 1.—
+See mand.
+mada, enjoying, rapture, Rausch,
+feast :
+madah, I, 86, 4; made, I, 85,
+ro; V, 53, 33 VIII, 7, 12;
+madeshu, I, 134, 5; madaya, I,
+37, 155 it, 34, 5-—(135:)
+mada-fyfit, enrapturing :
+mada-syfitam, I,85,77; (134sSeqq.);
+VIII,-7, 13.
+madira, delightful :
+madiram (madhu),V, 61,11; madi
+rasya, the sweet juice, I, 166, fe
+madhu, sweet juice, mead :
+madhu, I, 19, 9; 166, 2; V, 61,
+is5 VIII, , 10?! madhvah
+andhasa/, sweet food, I, 85, 67;
+madhva/ andhasa, with the juice
+of sweetness, V, 54, 8°; for
+madhvad/ read madhyvad (?), VII,
+57, 1'; madhod, II, 34, 5;
+somyé madhau, VII, 59, 6.
+madhu-dad, eating honey, fond of
+honey:
+madhu-4d (conjecture for ma-
+dhva/), VII, 57, 1°
+madhu-varza, honey-like :
+madhu-varvam, I, 87, 2
+madhyama, middle :
+madhyamé, in the middle (heaven),
+V, 60, 6.
+man, to think, to perceive :
+manmahe, V, 52, 3; manyase, V,
+56, 2; manvanas, V, 52, 153
+mamsase, (I, 6, 72); mdnyama-
+nah parsanasah, thinking them-
+
+
+INDEX
+
+
+OF WORDS.
+
+
+499
+
+
+selves valleys, VIII, 7, 34.—Aati
+manyase, thou despisest, I, 170,
+3-—pari-mamsate, he will de-
+spise, VII, 59, 3.
+manah-gtl, swift as thought :
+manab-gtwvab, I, 85, 4
+manas, mind;
+minah, I, 170, 3; manad krinuté,
+she is mindful, ¥, Gi; ¥3 manab
+Anu ganatt, I, 134, 1 ; manamsi,
+VII, 56, 8; manasa, aA, F391, 6:
+:, 64, ‘s 171, 21 (bis); maha
+manasa, with strong desire, I,
+165, 2!
+mand, wrath :
+asyai manayai, II, 33, 5.
+manisha, thought; prayer:
+manisha/, VI, 66, 11; manishdm,
+X,77,83 manishd, in my heart,
+I, 165, 10.—(I, 64, 125,)
+manishin, wise :
+manishinah, Sy 9:
+
+
+manu, man :
+manave, 3 165, 8; 166, 13.—
+Manus pita, father Manu, I,
+114,25 II, 33, 13".
+
+
+manus, man :
+ménushab (yésha), I, 167, 3
+mantra, song:
+gyéshthah mantras,
+song (Indra), (439.)
+mand, to please, to make rejoice :
+(VII, 57,11); mandantu, I,134, 2
+amandat, I, 165,11; mamandt-
+shi, joyful, V,61,9; mandadhve,
+you rejoice, VIII, 7, 14.—ft
+mamanda, he has gladdened, II,
+33, 6.—See mad.
+mandat-vira, delighting heroes :
+fay 234; 1°.)
+mandasan4, pleased :
+mandasanah, V, 60,7; mandasana/,
+V, 60, 8.
+mandin, delightful :
+mandinaJ, I, 134, 2
+mand, happy- ‘making :
+mandt, 1p 6;°7:
+mandra, sweet - toned :
+mandraA, I, 166, 11.
+manman, thought ; ; prayer:
+manma, brahma, girah, and ukthd,
+(I, 165, 4'); manma, Vil, 57,
+2; manmani,I, 165, 13; manma-
+bhis pVERES 7/355 19; X, 78, 1.
+manyt, courage, spirit, <a he eetpiad
+(I, 37,4"); (104); manyave, I, 37,
+
+
+the oldest
+
+
+7; manyt-bhiA, fiercely, VII,
+56, 22.
+mayah-bhil, beneficent, delightful :
+mayahs-bhfiva/4, I, 166, 3; V, 58, 2;
+mayah-bhuva4, VIII, 20, 24;
+mayads-bhi, II, 33,13; X, 186, 1.
+mayas, delight :
+mayas nah bhita, be our delight,
+VIII, 20,24; nab mayad kridhi,
+i; F¥4@, 2.
+mar, distantly connected with ar:
+
+
+Marat ...:
+etymology, p. xxiv seq.; Marut
+ars, p.XxXv; marut, maruta,
+wind, p. xxiii; marut=deva,
+p. Xxiv.
+marttvat, with the Maruts:
+martitvate (Vishnu), V, 87, 13
+Soi Enc lanhdaat t; ita, ee3
+II,
+marft- kta. i friend ofthe Maruts,
+(Agni) :
+martt-sakh4, (I, 38, 13°.)
+marta, mortal :
+martad, I, 64, 13; VIII, 20, 225
+martam, V, 61,15; martasad, | 2
+38, 45 mérteshu, VI, 66, 1.
+marta-bhégana, food of mortals:
+marta-bhéganam, I, 114, 6.
+martya, mortal:
+martyah, I, 40, 43 86, 9? FI, 34,
+93 V, 53, 153 VIII, 7, 153
+martyam, V, 52, 43 martyasya
+(mayinad), T, 39, 2
+martya-ishita, roused es men:
+martya-ishitad, I, 39, 8
+marya, manly youth:
+maryaA, I, 6, 31; mary4A, I, 64, 2?;
+V, 53,35 59, 3°3 5; 6; VII,
+56, 1; 16; X, 77, 33 78, 45
+maryasab, V, Gi, 4+ X97, 2
+maryah (kshitindm), X 78, $
+mah :
+mamahe, he has magnified, I, 165,
+£43 tat nab mamahantam, may
+they grant us this, I, 114, 11.
+mah, fem. mahi, great, ’ mighty :
+mah manasa, I, 165, 2!; mahé,
+I, 168, 1; V, 87, 15: VELE, 97; $<
+mahaé, Abl., I, 6, 10; maha4,
+Gen., 1, 19,23 34 168, 6: V, sa,
+73 87,8; X,77,63; mahaA, Acc.
+pl., 11, 34, 11; Nom. pl., £7; *5.
+121; mahas mahi, the great
+(mother) of the great, VI, 66,
+
+
+}
+
+
+Kk 2
+
+
+- 500
+
+
+~ VEDIC HYMNS.
+
+
+3'; mah4s+ mahim su-stutim, a
+great, great /hymn of praise,
+33, 8; mahim {sham, II, 34, 8
+
+
+mahi} ishah, VII, 59, 2; mahi
+VII, 56, 4; II, 33, 14
+maha, great :
+mahé vidathe, V, 59, 27; maha-
+
+
+nam devanam, VIII, 94, 8.
+mahat, great, mighty:
+
+mahdantaJ, I, 166, 11; VIII, 20, 8;
+mahantad, V, 55, 2; mahadntam
+ut4 arbhakam, our great or our
+small ones, I, 114, 7; mahanti
+mahatim, V, 59, 43 mahatis
+apas,VIII,7,22; mahaté 5
+I, 168, 9; mahat4s, V, 87, 4
+
+mahdn, might :
+
+mahna, I, 166, 113 V, 87, 21; VI,
+66,5; VIII, 20, 14.
+
+mahas, might :
+
+(I, 86, 11); mahad, V, 52, 3; ma-
+hasa,V, 59,6; mahawsi, V, 60, 4;
+VII, 56, 14; maha4-bhiA, I, 165,
+5°: V, 58,5; VIL 98, 23 (186,
+6'.)—mahdm, great, I, 6, 6.
+
+mahas, adv., quickly:
+
+maha, (II, 34,12"); V,87,7; X,
+77; 8.
+
+maha-gramé, a great troop:
+
+maha-grama/, X, 78, 6.
+
+mahamaha, mahamahivrata :
+
+(VI, 66, 3°.)
+
+mahi, great ; adv., exceedingly :
+
+mahi, n. ah 34,14; V, 54,1; I,
+43, yo hace Adv., mahi. vriddhas,
+grown large, V, 60, 3; mahi tve-
+shas, exceeding terrible, VIII,
+20, 7; truly, I, 167, 10.
+
+mahi-tv4, greatness, might :
+
+mahi-tvd, Instr., X, 121, 3; 4’; V,
+58,2; VII, 58, 1; mahi-tvam,
+i, Sy, 33 266,:%.
+
+mahi-tvana, greatness, might :
+
+mahi-tvand, Instr., I, 85,7; 86,9;
+mahi-tvanam, I, 166, 12'; V, 54,
+53 55, 4-
+
+mahina, greatness, might :
+mahingd, X, 121, 8; V, 57, 43 87,
+—See mahiman.
+mahi-bhanu :
+
+mahi-bhanavah for ahi-bhanavaA(?),
+(1, 192, 1°)
+
+mahiman, greatness :
+
+mahimanam, I, 85,
+167, 7; V, 87,
+himnd, (V, 87,
+
+
+2; mahima, I,
+6; mahind=ma-
+21,)—See mahina.
+
+
+mahisha, mighty :
+mahishasa4, I
+mahi, earth:
+mahi, a, FF 5 Os
+mahiy :
+mahiy ate, she is magnified, V, 56, 9.
+mahomahi (compound ?) :
+(VI, 66, 3°.)
+ma, not...:
+I, 38, 5'; mé6,I, 38,6; mé6s4,VII,
+59) 55 m4,with Optative, VII, 59,
+127,
+m4, to measure ; to fathom:
+memire ydganani, they measure
+many miles, X, 78, 7; mimihi
+(sl6kam), fashion, I, 38, 14.—vi
+mamire (antariksham), they have
+measured, V, 55, 23 Vi- -minab
+(antérikshe r4gasad), K, 221, §*%
+ma, to roar:
+mimati, I, 38, 8'; mfmatu, V, 59,
+8
+
+
+I, 64, 7.
+
+
+ma“gishtha, bright red :
+(232.)
+matri, 1 mother :
+matd, VI, 66, 313 VIII, 94, 1;
+vatsim nd mats, I, 38, 8; ma-
+taram, V, 52, 16; pitdram uta
+matdram, I, 114, 7 7; matté, I,
+37,93 apab matrih, (307.)
+mana, measure :
+mdnam, 599; x*.
+
+
+Mana:
+man4sah, the Manas, I, 171, 5);
+(I, 165, 152 .)
+
+
+manusha, adj., of men ; m., man:
+m&nushi yuga, V, 52, 4. ’—minu-
+shah, I, 37,75 X, 77373 manu-
+shad, I, 38, 103 39, 6.
+
+
+Mandarya:
+mandarydsya, I, 165,15’; 166, 15;
+167, I1 ; 168, 10; : (183 seq.)
+
+
+ManyA, the son of Mana (?) :
+manydsya, I, 165, 147; 151; 166,
+15; 167, 113 168,10; (183 seq.;
+203.)
+mayin, deceitful ; 8 ey
+mayinab (martyasya), I 1393 2.— ma-
+yinab (pl.), powerful, I, 64, 7;
+mayinam, V, 58, 2.
+miaruta, of the Maruts :
+marutam (sardha/), I, 37, 13 53
+V, 52, 83 p. XXv; (ganam), I, 38,
+153 64, 123 V, 52, 135 145 535
+£0 $° 98,7 15 VIII, 94, 125 (ra-
+tham), V, 56, 8; méarutam
+
+
+INDEX OF WORDS.
+
+
+501
+
+
+.(néma), VI, 66, 5; VII, 57, 11;
+marutah (gazdh), V, 61, 13;
+marutaya (sardhaya), V, 54,1;
+VIII, 20, 9; marutasya dhéim-
+na, I, 87, 6.—miarutaya, to the
+host of the Maruts, VI, 66, 9.—
+marutasya bheshagasya, of the
+Marut-medicine, VIII, 20, 23.—
+marutam rudrasya sitinim, the
+Marutlike son of Rudra, VI, 66,
+117; maruta, epithet of Vishzu,
+(134.)
+mardika, consolation:
+mardikébhi/, VIII, 7, 30.
+martanda, addled egg:
+(251.)
+mas, month :
+mat-bhiA, (I, 6, 37.)
+mahina, mighty :
+miahina/, I, 165, 3; p. xiv.—méa-
+hina = mahima, greatness? (309.)
+migh, see ni-méghamdana.
+mitra, friend :
+mitram na, I, 38, 137; V, 52, 14;
+mitraya, I1, 34, 4; mitrazam, I,
+170, 5.
+Mitra :
+Aryaman, Mitra, Varuma, (V, 54,
+8!) ; mitrad, VII, 56, 25; VIII,
+94, 5; 1, 43, 35 114, 11; mitra,
+II, 59, 1; mitram, I, 2, 7.
+mitra-pati, lord of friends :
+mitrazam mitra-pate, I, 170, 5.
+mitrayu, looking for friends :
+mitrayavas, mitraydvas, (II, 34,
+
+
+‘Mitravaruva, du., Mitra and Varuza:
+mitraévaruvau, I, 167, 81; °na, I, 2,
+9; mitravaruzau, I, 2, 8.
+mithas, each other :
+mitha4, VII, 56, 2; 3; VIII, 20,
+
+
+a3.
+mithaspridhya, clashing against each
+other :
+mithaspridhy4-iva, I, 166, 97.
+mimiksh, to sprinkle, to shower :
+_ (1853; 187 seq.).—See myaksh.
+mimiksha :
+mimikshas sémaA, (188.)
+mimikshf :
+mimikshim fndram, (188.)
+misra, from mis :
+(185.)
+mish :
+ni-mishata/, the twinkling (world),
+mm} tat, 3.
+
+
+mih :
+mimikshv4, sprinkle, (188.)
+mih, rain, mist :
+miham, I, 38,7; VIII, 7,4; mihé,
+I, 64, 6.—miha/ napatam, rain,
+the offspring of the cloud, I, 37,
+a2*
+mi, to dim:
+pra minanti, V, 59, 5.
+mi/b/Gh4-tama, most liberal :
+mi/04-tamaya (rudraya), I, 43, 1.
+mi//ashmat, bountiful :
+mi//ashmati-iva, like a bountiful.
+lady, V, 56, 3’.
+midhvas, bounteous :
+midhvah (rudra), 1, 114, 3; II, 33,
+143 mi/ishad (rudrasya), VI,
+66, 3; tén rudrasya mi/hishad,
+the bounteous sons of Rudra,
+VII, 58, 5'; mi/bashah (marf-
+tah), VIII, 20, 187; mi/sasham,
+VIII, 20, 3'; mi/Aashi, V, 56, 9.
+mua, to deliver :
+mu#katha, II, 34, 15; mu#sdtam,
+VI, 74, 3; mukshiya, VII, 59,
+12%°,—pra nah muf#katam, VI,
+74, 4.—prati 4mugdhvam, you
+have clothed yourselves, V, 55,
+6; prati mufishta pasdn, may
+he catch the snares, VII,. 59, 8.
+—vi mugadhvam, unharness, I,
+171, 1.—(270.)
+mud, to rejoice :
+mudé, V, 53, 5.
+mdaini, maniac :
+miunif-iva, VII, 56, 8.
+mush, to strip:
+méshatha, V, 54, 6'.
+mush/¢i-han, boxer :
+mushri-ha, V, 58, 4; VIII,.20, 20.
+mithus, suddenly :
+muhué, V, 54, 3.
+mirdhan, summit :
+mirdhaé nabha, I, 43, 9°.
+mriga :
+mrigih/ iva hastina/, like wild ele-
+phants, I, 64, 7°; mrigdd na
+bhimd@A4, terrible like wild beasts,
+II, 34, 17; mrigam na bhimam,
+like a terrible wild beast (the
+lion), Il, 33,117.—mrgad, deer,
+I, 38, 5.
+mriganzyt, hunter :
+mriganyavah, (V, 55, 1%.)
+mrig, to clear off:
+at mrige, nf mrige, V, 52, 17.
+
+
+. 502
+
+
+VEDIC HYMNS.
+
+
+mrid, to be gracious :
+
+
+mri/ayantu nad, 1,171, 3; mri/ata
+
+
+nah, I, 171, 43 V, 55,93 57, 8;
+58, 8; mri/antu, VII, 56, 17;
+mri/a (nah), I, 114, 2; 103 II,
+33, 11; mri/a, I, 114, 6; II, 33,
+143; mri/atam, VI, 74, 4.
+mri/ayat-tama, most gracious :
+mri/ayat-tama (su-matfs), I, 114,
+
+
+9.
+mri/ayaku, softly stroking :
+mri/aydkud (hastah), II, 33, 7.
+mrityd, death :
+mrityih, X, 121, 2; mrity6/, VII,
+39, 12
+mridh, to fail :
+mardhanti, I, 166, 2; mardhati, VII,
+
+
+595 4+
+médha, animal sacrifice :
+(I, 88, 3°; I, 43, 4%)
+medh4-pati, the lord of animal sacri-
+_fices :
+medha-patim, I, 43, 4%.
+medhas :
+medhas and vedhas, (VIII, 20, 17'.)
+medha, wisdom:
+medha, I, 165, 141; medham, II,
+345 7°,—medhas, minds, I, 88,
+
+
+medhda-pati :
+_ (I, 43, 4°)
+mesha, ram:
+
+meshaya meshyé, to ram and ewe,
+I, 43, 6.
+
+mé, see ma.
+myaksh, to cling:
+
+(184 seqq.); mimyaksha (with
+Loc.), I, 167, 3; mimikshu/, I,
+167, 4.—sam mimikshu/, I, 165,
+17; p. xiii; V, 58,5; sam mimi-
+kshire, they were united with,
+they obtained, I, 87, 6%.
+
+mraksh, to pound to pieces :
+
+ni mimrikshu/, I, 64, 4°.
+
+mraksha-kr/tvan :
+
+(I, 64, 4°.)
+
+
+yaksh, jag6n, to hunt:
+(V, 55, 1’)
+yaksha, the Yakshas:
+(V, 55, 1'3 VII, 56, 16’.)
+yaksha-dris, shining like Yakshas:
+yaksha-drisah, VII, 56, 16%.
+yag, to sacrifice :
+yagama, V, 60, 6; yagamahe, VII,
+59,12; yagadhva for yagadhvam,
+
+
+p. cxviii; yagamanaya, V, 60, 7;
+yagamanasya, V11, 57, 2; igindA,
+VII, 59, 2.—ad-yegé he acquired
+by sacrifices, I, 114, 2%.
+yagata, worshipful :
+yagatam, read yagata, II, 33, 101.
+yagatra, worshipful :
+yagatrah, V, 55, 10; 58, 4; VII,
+51S 4 Be
+yagus :
+from yag, (66.)
+yag#ia, sacrifice :
+yag#am, I, 170, 4; X, 121, 8; II,
+34, 127 (vah); V, 52,43 53 10}
+87,9; VII, 59,11; VIII, 20, 2;
+havishmantahs yag#dh, X, 77,13
+visva-psub yag#ah, X, 77, 4;
+ut-r7ki yag#é, X, 77,73 yag#a-
+yag#a, to every sacrifice, I, 168,
+11; yaga#ath, I, 86,2; X, 78,1;
+yagwébhi, I, 166,14; yag#éshu,
+VII, 57,13 X, 77, 8.
+yag#a-vahas, carrying off the sacri-
+fices, worshipped, propitiated:
+yag#a-vahasah, I, 86, 2'3 (40);
+(II, 34, 12°.)
+yag#a-sddh, fulfilling our sacrifice :
+yag#a-sddham (rudram), I, 114,.4.
+yagétiya, to be worshipped, worship-
+ful:
+
+
+yaga#iyam nama, I, 6, 4; yag#iyani
+ndmani, I, 87, 5°; (167); yaga-
+fyah, V, 52, 13 yagaiyah, V,
+87, 93 yagé#iyasahb, V, 61, 16;
+yag#éshu yag#iyasah, X, 77, 8;
+yagéiyebhis, V, 52, 5.
+yagyu=prayagyu (?) :
+yagyave, (V, 54, 1.)
+yagvan, sacrificing:
+(V, 54, 17); (66.)
+yat, to strive:
+yetire, I, 85, 8; V, 59, 25° VIII,
+20, 123 X, 77, 2.—adhi yetire,
+they fastened, I, 64, 4.—sam
+yatantam, may they come striv-
+ing together, V, 59, 8.
+yaté-sru&, holding ladles (full of
+libations) :
+yata-srukah, II, 34, 11.
+yat-kama, which we desire:
+yat-kamaA, X, 121, 103 (4.)
+yatra :
+ydtra, wherever, I, 166, 6; V, 55,
+7; yatra 4dhi, over whom, X,
+121, 6; where, V, 61, 14; when,
+VIII, 20, 6.
+
+
+INDEX OF WORDS.
+
+
+593
+
+
+yatha and yatha, as, like:
+ya4tha pura, as of yore, I, 39, 7;
+yatha, like, V, 54, 8; 133 61,
+10; VII, 57, 33 yatha, V, 53,7;
+54,43 87,7. —yatha matim, after
+their own mind, I, 6,6?; te yatha
+mana/, what thy mind was, lI,
+170, 33 yatha kit manyase, hrida,
+V, 56, 23 yatha vida, you know,
+= 95,23 yatha gushanta, VII,
+56, 203 yatha vasanti, VIII, 20,
+17.—yatha, so that, V, 59, 7;
+61, 43 I, 43, 2 (tris) ; 3 (tris) ;
+114,13 II, 33, 15.
+yatha-vasam, wherever he listeth:
+X, 168, 4.
+yad, ‘rel. pron. «..:
+yasya, X, 121, 2) > 45 (p. 4: )—yat ha
+vab bdlam, with such strength
+as yours, I, 37, 123 yat ha vab
+pura, as it was with you for-
+merly, VIII, 7, 21; yat adbhu-
+tam, what strange thing, I, 170,
+1.—yéna, that, I, 166, 143 yas-
+min, where, I, 168, 6
+yad, adv., when ; that .
+yat-tétab, X, "121, +3 esi sim, I,
+375 6393 yat ha, I, 37, 13; VIII,
+7, 113 adha yat, now that, I,
+167, 2 ; yat anga, VIII, 75 2
+yat-yét va, II, 34, 103 V, 60,
+6; yat, if, 1, 38, 4; yat, that, I;
+165, 143 166, 133 14; 167, 73
+VII, 56, 43 10.
+yada, when:
+V, 87,4
+yadi :
+when, I, 168, 8; if, VII, 56, 15.
+Yadu:
+_ yadum, VIII, 7, 18.
+yam, to hold, to yield, to give:
+sarma yakkhata, VII, 59,1; yakkha,
+I, 114, 10; yamsat asmabhyam,
+I, 114, 53 yakkbamanas dyu-
+dhai/, wielding weapons, VII, 56,
+13.—yakkhata adhi, grant, I, 85,
+12.—nf yemiré, they bent down
+before (Dat.), VIII, 7,53 34.—
+pra-yatasu, thrust forth, I, 166,
+4.—vi yanta, extend, I, 85, 12;
+vi yantana, V, 55, 9; vi yamué,
+they stretched (their legs) apart,
+V, 61, 3”; vi yematu/, they went
+straight to (Dat.), V, 61, 9.
+yama, rein:
+yama/, V, 61, 2.
+
+
+yama, twin:
+yamah-iva, V, 57, 4.
+Yama:
+yamasya patha, I, 38, 5°.
+yamayishzu :
+yamayishzavas, SV. for namayi-
+shuavah, (VIII, 20, 11.)
+Yamdaina :
+yamfinayam, V, 52,173 (V, 53,9")
+yayi:
+yayim, way, I, 87, 2! —yaylh, the
+wanderer, V, 87, 5'.—yayiyah
+(sindhavad), running, X, 78, 7.
+yava, barley :
+J, 38, 5°.)
+yavasa, pasture g grass, fodder :
+yavase, I, 38, 5°; V, 53) 16.
+yavi, or, yavya, young maid;
+Instr., yavya, I, 167, 4".
+yahvi, river:
+_yahvishu, VU, 56, 22.
+ya, to go.
+vatave, I, 37, 10; VIII, 7; 83 20,
+6; yanti, _they pass along, I,
+37,13'3 yami, I implore, V, 54;
+153 sabham yataém, going in
+triumph, V, 55, 1 to 9; (VIII,
+20,9735 ‘yathana sibham, V, 57;
+2; (1, 87, 4°); yat 4yasus, when
+they move about, VII, 57, 1.—
+anu yata, go after, I, 38, 11.—
+ava yasat, will he bring down,
+VI, 66, 5.—a@ yd, to come ...: &
+yatam dpa dravat, come quickly
+hither, I, 2,5; & ydasishta, may
+it bring, ask for, I, 165, 157;
+166, 15; 167, 113; 168, 103 p.
+xx; Anah yantu akkha, I, 167,
+2; a ydtam ipa nid-kritam, I,
+2, 6.—n{ ayatana, you went
+down, V, 54, 5'.—yathana pari,
+you go round, V, 55, 7.—pra
+yata, come, I, 37, 143 pra
+yatana, I, 165, 13; pra yayuAé,
+V, 53,12; pra aydsishza, V, 58,
+6.—vi yathana, you passthrough,
+I, 39, 3; vi yata, destroy, I, 86,
+10’; vi yati, it passes between,
+VI, 66, 7.
+yama, way, march:
+yamas, I, 166, 43 172, 1'5 ydmam,
+(I, 87, 2 wie VEEL pate ee:
+yamam yanti, VI], 154: y&mam
+yéshthahs, VII, 56, 6; ydmena,
+V, 53, 12; yamaya, I, 37, 7;
+39,6; VIII, 7,5; yame, V, 54,
+
+
+_ 504 VEDIC
+
+
+“HYMNS.
+
+
+5; yamebhiA, VIII, 7, 7; yame-
+shu, I, 37, 8°; 87, 3; V, 56,
+7; VIII, 20, 5.—yamas, carriage,
+VI, 66, 2:
+yaman, way, march:
+
+yama, II, 34, 10; yaman, I, 37;
+3°; 85, 13 166, 1; V, 52, 25 58,
+7; X, 77,8; 78, 6; VII, 58,2;
+yamani, V, 53, 16; on moving,
+X, 77, 43 yamani (ishdm), on
+the search, I, 168, 5: yamana/,
+out of your way, V, 57, 373
+yama-bhid, I, 37, 11; V, 56,
+
+
+4.
+yama-sruta, glorious on their march:
+yaéma-srutebhiA, V, 52, 15.
+yama-hiti, imploring invocation:
+yama-hiitishu, V, 61, 15.
+yu, to keep off:
+(I, 87, 4°); yuyéta, VIT, 56, 9;
+drat yuyota, VII, 58,6; X, 77,
+6; yuyodhi, II, 33, 3; ma nah
+yuyotha/, do not deprive us of
+(Abl.), II, 33, 1; na vai yoshat,
+it will never depart, II, 33, 9.
+—yuyotana 4pa, keep far, V, 87,
+81.—vi yuyota, deprive (Acc.) of
+(Instr.), I, 39, 8%.
+yuga:
+pare yugé, in former years, I, 166,
+13; manusha yugd, generation
+of men, V, 52, 4.
+yuk, to fail:
+yukkbati, V, 54, 13°.
+yug, to join, to yoke, to harness:
+yuaganti, I, 6, 1; 2; yuagate, I,
+87,3; 11, 34,8; yunkte, I, 134,
+33 yungdhvam, V, 56, 6 (tris);
+yuyugré, V, 53,1; dayugdhvam,
+V, 55, 6; 57, 33 yukta, VIII,
+94, 1; ayukta, he started, V,
+87, 4.—yuganta, they joined
+together (heaven and earth),
+VI, 66, 61; VIII, 20, 47; ayug-
+dhvam (tavishi4), you have
+assumed, I, 64, 7°; yuganas,
+in company with, I, 165, 5.—a
+ayugdhvam, you have yoked, I,
+85, 43 d-yuyugré, V, 58, 7.—
+apo ayugdhvam, I, 39, 6; apa
+yugmahe, I, 165, 5.—pra dyug-
+dhvam, I, 85, 5; pra yugata, V,
+52, 8; (X, 77, 5'.)—vi-yukta,
+sejunctus, (187.)
+yuga, together with (Instr.) :
+I, 39, 4°. |
+
+
+yagya, companion:
+yagyebhiA, I, 165, 77.
+yudh, to fight:
+yadhyatad (tritasya), VIII, 7,24.—
+pra yuyudhué, they have rushed
+forward to fight, V, 59, 5.
+yadh, weapon, sword:
+yudha-iva, I, 166, 1°; yudha, V,
+52,6'; yutsG, (Grassmann, VIII,
+20, 201.)
+yayudhi, thirsting for fight :
+yayudhayas, I, 85, 8.
+yuvati, young woman:
+yuvatis, V, 61, 9; yuvatim, I,
+167, 6.
+yavan, youthful, youth:
+yava (gava4), 1, 87, 4; V, 61, 13;
+yava (rudrad), V, 60, 5; yava-
+nam (Rudra), II, 33,11; yavana4,
+I, 64, 37 165, 23 267, Gs Y;
+57, 8; 58, 8; yuvanas, V, 58, 3;
+yavanas, VIII, 20, 17; 18;
+yina/, VIII, 20, 19.
+yushmat ...:
+yushmakam, I, 39, 2; 43 yush-
+maka, VII, 59, 9; 103 p. cxviii.
+—vab followed by esham, V, 87,
+2'; vab, for you or from you,
+VII, 56, 24}.
+yushmd-ishita, roused by you:
+yushma-ishita/, I, 39, 8°.
+yushma-ita, favoured by you:
+yushma-fitas, VII, 58, 4 (tris).
+yushmiaka, your:
+yushmakabhi/, I, 39, 8; yushma-
+kena, I, 166,14.
+yushmda-datta, bestowed by you:
+yushma-dattasya, V, 54, 13.
+yéshzha :
+yamam yéshthas, quickest to go,
+VII, 56, 6.
+yOogana:
+yéganam, hymn, I, 88, 51.—yéga-
+nam, the daily course (of the
+sun), V, 54, 5.—yOganani, many
+miles, X, 78, 7.
+yodha, soldier:
+yodhas, X, 78, 3.
+yoshaza, woman:
+yoshana, V, 52, 14.
+yésha, woman, wife :
+ydsha, I, 167, 3; ydshas, X, 168, 2.
+y6s, wealth:
+sam y6/, health and wealth, (193
+seq.); V, 53, 147; sam ka y6h
+Aa, 1, 324, 3 3:1159%, 33:
+
+
+INDEX OF WORDS.
+
+
+595
+
+
+ramh, to hurl :
+ramhdyantah, 1, 85, 51.—rarahanash,
+racers, I, 134, 1
+raksh, to shield:
+rakshata, I, 166, 8; rakshata, IT,
+34) 9-
+rakshas, fiend :
+raksha/, I, 86, 9'.
+raghu-patvan, swift-winged :
+raghu- patvanad, Le, 6,
+raghu-syad, swiftly gliding along :
+raghu-syadaA, I, 64, 7; 3 85, 6.
+ragab-tar, | crossing the air :
+ragah-ttih, V1, 66, 7 °; ragab-tiram,
+chaser of the sky, iy 6x, 43".
+ragas, air :
+ragas, dya, rokana, (513 5 5)3 ragas
+and parthiva, (st seq.; 55);
+ragah, V, 53,73 59,13 & raga,
+through the air (?), (VII, 57)
+2); ragasah (pl. Ey. at, 57;
+oh ragasab (Abl.), I, 6, 10;
+(Gen.), I, 19, 31; 168, 6 _rdgas,
+water, rain; “darkness, (I, 19,
+2); ragAmsi, clouds, mists, I,
+166, 33°43 V, 54, 43 ragasah
+vi-sargane, ened the mist is
+scattered, V, 59,
+ran, to delight in Sine: So de
+pleased, to accept with pleasure
+(Acc.) :
+(85; 86); radman, V, 53, 16;
+ramanta, VII, 57, 5; razyanti,
+I, 38, 2s raranata, you have
+rejoiced, I, 171, 1%.
+raaa, fight :
+_Tanaya, I, 168, 9.
+ranya, glorious :
+ranyani, I, 85, 10.
+ranva, gay :
+ranvith, VII, 59, 7
+ratna, treasure :
+saptd ratna, VI, 74, 1
+ratna-dhéya, gift of treasures :
+ratna-dhéyani, X, 78, 8.
+ratha, chariot :
+rathe, II, 34, 73 rathaib-iva, ¥;
+60, 1; rathanam na araA, ‘like
+the spokes of chariot-wheels,
+X,78, 4.—rathe, Indra’s chariot,
+I, 6, 2.—rathaA, the chariots of
+the Maruts, I, 38, fay Vor59;2
+tog; (V, 87, 3°; 3 VI, 66, 2);
+rathan, V, 53, 5'; rathebhid, 2
+88,1; V, 58,6; rathaid, VIII,
+% 17; (VIII, 20, 2'); rathanam,
+
+
+V, 52,9; 53,10; VIII,o4,1
+ratheshu, I, 39,6; 64,9; 85,
+43 53 87,2; 166,9; II, 34,
+8; V, 53,23 4; 56,6; 73 57,
+65 Go, 23. ¢3 Gr zre3 ViTT, 40,
+12.—ratham, the chariot of the
+Maruts, I, 167,5; V, 56, 8;
+rathena, VIII, 20, 10; rathasya,
+I, 88, 2; rathe, V, 54, 11; 56,
+So Vitis; 38% 36,
+rathasya (Vata’s), X,
+rathena (V4yu’s), I, 134, 13
+rathe, I, 134, 3.
+ratha-tar, ‘hastenin g the chariots :
+rathatti4-bhid, I, 88, 2; ratha-
+tid, a, 77,8 °
+ratha-vat, consisting of chariots :
+r4tha-vat radhah, V, 57, 7.
+Ratha-viti Darbhya :
+
+(359 seq.; 362); (V, 61, 5”);
+ratha-vitau, V, 61, 18; ratha-
+vitid, V, 61, 19.
+
+rathiyanti :
+
+rathiyanti-iva »whirling like chariot-
+wheels, I, 166, 5°.
+
+rathi, charioteer :
+
+rathib-iva, V, 61, 17; rathyas na,
+V, 87, 8 ; : rs abe VII, 56, 21.—
+rathyab (didhishavad), lords of
+chariots, X, 78, 5. —rathyaib
+syama, let us carry off, V, 54,13'.
+
+rathiyanti, see rathiyanti.
+rathe-sibh, brilliant on chariots :
+
+rathe-sibham, I, 37, 1; V, 56, 9.
+
+rathya :
+
+rathyah/ saptiA, (1, 85, 17.)
+
+rad, to scratch, to bite :
+radati, I, 166, 6*; rad, to cut, to
+give, (222 seq.)
+rada, radana, tooth :
+(I, 166, 6%.)
+radhra, wretched, a sluggard :
+
+radhrém, II, 34, yet s*. VER 56,
+
+20' ; radhra and bhrimi, (II,
+34, 1°.)
+randhra, hollow :
+
+ukshndb randhram, ‘ the hollow of
+the bull,’ VIII, 7, 26'.
+
+rap, to w hisper :
+
+(11,33, 3 1)—mearapat prati, V,61,9.
+
+rapas, mischief :
+
+rapa4 (aturasya), VIII, 20, 26';
+rapasah, II, 33, 3°; 7.
+
+rapsat-idhan, whose udders
+swelling :
+
+rapsadfidha-bhiA, II, 34, 5
+
+
+’
+
+
+are
+
+
+506 VEDIC
+
+
+HYMNS.
+
+
+rabh, to cling:
+rarabhe, I, 168, 3.—rabh, to rush
+upon, 4-rabh,to begin,(1,166,17.)
+rabhah/-da, giving strength :
+rabhah-daA (Indra), (1, 166, 1'.)
+rabhas, vigour :
+rabha/, (I, 166, 1'.)
+rabhasa, robust :
+rabhasaya, I, 166, 11; rabhasasab
+(avigdyah), I, 166, 107; rabhasdA,
+V, 54, 3
+rabhishtha, most vigorous :
+rabhishtha/, (1, 166, 11); V, 58, 5.
+ram, to stop, to arrest:
+riramdma, I, 165, 2; p. xx; ma
+ni riramat, V, 53,9; ramayanti,
+VII, 56, 19.
+ram, to delight :
+ramaya, V, 52, 13; raranta (read
+rarata ?), V, 54, 13%
+rambhin, clinging :
+rambhini-iva, I, 168, 3°.
+ray{, wealth :
+rayim, I, 64,153 85,12; V, 54,
+143 VIII, 7,13; rayi-bhiA, I,
+64, 10; patayad rayimdim, X,
+1231; 70; V, 55, 10.
+rasmi, ray :
+rasmim, VIII, 7, 8; rasmayaA, V,
+55,33 rasmishu, I, 134, 4 (bis) ;
+rasmi-bhi4, I, 87, 6’; darts
+(lightnings), I, 19, 8; reins, X,
+eyes
+rasa, rain :
+rasasya, I, 37, 5.
+Rasa, the distant river :
+rasa, V, 53, 91; rasaya, X, 121, 4%
+ra, to give:
+4rasata, I, 166, 3; 4radhvam, I,
+166, 12; VII, 59, 43 rasva, I,
+114, 63 93 rasi, II, 33, 125
+raré, VII, 59, 53 rarata (for
+raranta?), V, 54, 13%.
+rag, to shine :
+vi ragatha, V; 55,2; VIII, 7, 1.
+ragan, king :
+raga gagatahb, X, 121, 33 visvasya
+bhivanasya raga, X, 168, 2;
+rishim va raéganam va, V, 54, 73
+rdganam, V, 54, 14; 58, 43
+raganah/-iva, I, 85, 8; raganad
+na &itrab, X, 78, 1.
+raga-putra, having kings for her
+sons :
+raga-putra, ep. of Aditi, (254;
+260.)
+
+
+rata-havis, who has offered libations:
+rata-havishe, II, 34, 8.
+rata-havya, generous worshipper :
+rata-havyaya, V, 53, 12.
+rati, gift :
+ratié, 1, 168, 9's (V;-9ay-tr
+ratim, VII, 56, 18.
+radh, to give :
+(1, 166, 6*); raddhyasya (vdsvas),
+to be gained, X, 77, 6; ma
+riradhat, let him not deliver, II,
+
+
+33, 5.
+radhas, wealth :
+radhah, II, 34, 11;
+(bis) ; 53, 13 3 57,7:
+rami, dark night :
+rami/, II, 34, 12.
+ri:
+riz&ti, it crunches, I, 166, 6°.—
+rizaté, they go asunder, V, 58,
+6".—rinan apah, they let the
+waters run, VIII, 7, 28.—Anu
+riyate, it streams along, I, 85, 3.
+—ni rimanti, they disperse, V,
+56, 4.
+rik:
+pra ririfré, they have risen above
+(Abl.), X, 77, 3-
+ripf, enemy :
+ripas, II, 34, 9.
+risddas, devourer of foes :
+risddasah, I, 19, 5; 64,53 X, 77,
+33 53 risddasad, I, 39, 43 V, 60,
+71: 61,16; VII, 59, 9; risddasam
+(varuzam), I, 2, 7.
+rish, to suffer, to drop: .
+rishyatha, V, 54, 4; na rishyati, V,
+54, 73 ma ririsha4, do not hurt,
+I, 114, 7; 8; VII, 46, 3.
+rish, hurt :
+risha/, II, 34, 95 V, 52, 4-
+rishany, to fail :
+ma rishanyata, VIII, 20, 1.
+rih, to lick:
+rihaté, VIII, 20, 21°.
+ri, see ri.
+rukmé, gold, golden chains :
+rukma/, I, 88, 2; (II, 34, 2’); ruk-
+mah, I, 166, 10; V, 54, 11; VII,
+56, 13 3; rukmasaé, VIII, 20, 11 ;
+rukman, I, 64, 44; rukmaiA, V, —
+52, 6'; VII, 57, 33 rukmébhié,
+V, 56, 1; rukméshu, V, 53, 4.—
+rukmasa/, weapons (?), (1,85, 3°.)
+—rukma/-iva, like the golden
+disk (in heaven), V, 61, 12.
+
+
+Vy 584%
+
+
+INDEX OF WORDS.
+
+
+507
+
+
+rukma-vakshas, gold-breasted :
+rukmé-vakshasab (the Maruts), (I,
+64, 4'); II, 34,83; V, 55,13 57;
+"x x, 78, 2; rukma-vakshasaA,
+ET, 34, 2°; VIH;.20, 32:
+ru&, to shine:
+réfante, I, 6, 1°; rékate, I, 43, 55
+rékamanad, I, 165, 12.—vi ru-
+kandh, far-shining, VII, 56, 13.
+rug, to crash :
+- rugan, X, 168, 1.
+Rudra:
+rudraA, II, 34, 2; V, 60, 5; I, 43,
+43° 124,48 .cudra, 1,114, 2
+(bis); 33 73 85 II, 33, 1 seqq.;
+VII, 46, 2; 43 rudram, V, 52,
+16; 1, 43,475 114,43 I], 33,5;
+rudraya, I, 43, 1; 114, 175; 6;
+VII, 46, 1; rudrasya, I, 64, 2;
+12; 85,1; V, 59, 8; VI, 66, 3;
+es Nib; 96.04 56;:5)3°V 111,
+20,173; II, 33,6; 8; 135 14;
+rudrat, II, 33, 9; Rudra brings
+the medicines, (VIII, 20, 25 ys
+Aditi = Rudra (?), (I, 43, 22)—
+Rudras, Vasus, and Adityas,
+(VII, 56, 20°) ; rudrith, I, 64, 35
+166, 2; 11, 34,13; V, 60, 2: rud-
+rdsab, I, 85,2; V (87,73 "radrad,
+I, 39, 7; VIII, 7,12: rudrah, II,
+34,93 V, 54,45 60, 6; radrasab,
+» 39, 4; rudrasab, V, 57, 1;
+VIH,.20, 3:
+rudriya, belonging to Rudra:
+rudriyasa/, Maruts, I, 38, 7; V,58,
+7; rudriya/, II, 34, 10; rudri-
+yasab, V, 57, 7; VII, 56, 22;
+rudriyazam, VIII, 20, 3.—rudri-
+yam, Rudra’s healing, I, 43,2
+risat, red :
+rosat pfppalam, the red apple, V,
+54, 12".
+rfipa, form :
+riipazi, V, 52, 11; tvesham rfip4m,
+the blazing form, I, 114, 5;
+ghdéshah srinvire na rfipam, X,
+168, 4.
+reg, to tremble, to shake:
+régate (the earth), I, 37, 8; V, 60,
+2; VI, 66,9; VIII , 20, 53 réga-
+mane, X, 121, 6; régaminah, I,
+ys, 3 ‘regata, V, 60, 33 re-
+gatha, V, 59,43 régati, he stirs,
+I, 168, 5; regayat, he made
+tremble, V, 87, 5; regdyanti,
+Vii, 57; 1.—prd regate, I, 87,
+
+
+3; 4reganta pra, they reeled
+forward, I, 38, 10.
+rent, dust :
+renim, X, 168, 1.
+retah-dha :
+(V, 58, 7°.)
+revat, with wealth :
+revat vaya/, health and wealth, X,
+
+
+77> 7+
+rai or ra, to bark :
+(227 seq.)
+raf, wealth :
+ray4b, V, 54,133 VII, 56, 15; 57,
+67; rayah posham, fulness of
+wealth, I, 166, 3; rayé, VIII,
+7,183 rayad, treasures, I, 167,
+1; V, 54, 7.
+raivata, rich :
+raivatdsah, V, 60, 4.
+réka, light :
+na ere VI, 66, 6°; (V, 61, 121.)
+roana, light :
+rokani (divi), 1,6,1°; (divas) VIII,
+94,9'; rokanat (divas), I, 6, 9';
+(49 seqq.); V, 56, 1; nakasya
+adhi rokané, I, 19, 6. ; rokana,
+stirya, naka, (50) ; three roka-
+nas, (50 seq.)
+rédasi, du, heaven and earth:
+rédasi, (X, 121, 6'); I, 64,97; 85,
+1; (I, 167, 3”); V, 53,6; VI, 66,
+6°; 75 VII, 56,173 57,15 373
+58, 1; I, 134, 35 VIII, 7, 16;
+20, 43 94,11; for rddasi read
+rodasi, V, 61, 12'; réddasyoé, I,
+168, I.
+Rodasi, £,, wife of the Maruts, the
+lightning :
+gee ty BA ne
+5; V, 56, 8!; VI, 66, a rodasi
+(for rédasi iti), V, 6r, bao
+dasim (for rodast ), I, park es
+
+
+Rodasi as Eileithyia, (I, 167,
+1
+
+
+I, 167,
+
+
+rédhas, enclosure, fence, bank of a
+river :
+(I, 38, 11°)
+rédiasvat, still locked up, unopened :
+rdédhasvatis (clouds), I, 38, 11”.
+rohit, ruddy horse :
+rohitahs, V, 56, 6.
+rdhita, red (horse) :
+rohita/, I, 39, 6'; VIII, 7, 28; ro-
+hita, V, 61,93 I, 134, 3.
+raurava, skin of a deer:
+(232.)
+
+
+508
+
+
+VEDIC HYMNS.
+
+
+laghu, light :
+laghu and guru, light and heavy
+syllables, p. xcvii.
+loka, space :
+loka and uloka, p. Ixxiv seqq.
+
+
+vamsaga, bull :
+(140.) ;
+vakmya, praiseworthy :
+vakmyaA, I, 167, 7.
+vaksh (uksh), to grow, to wax:
+vavakshtA, 1, 64, 3; vavakshire, IT,
+34,4; .akshantam uta ukshitém,
+1, 114, 7; ukshamaaaA, NV, 57,8
+58, 8; ukshitdsad, B 85, 2!
+sik4m ukshités, V, 5 5, 33 lia
+ukshitanam, v, 56, 51.— vivak-
+shase (?), (I, 6, 77.)
+vakshawi, flank :
+vakshanabhyah divas a, I, 134, 4°.
+vakshan, offering (?) :
+vakshana, Instr.? V, 52, 15).
+vakshas, chest :
+vaksha/-su, I, 64, 4; 166, 10; V,
+54,11; VII, 56, 13.
+vankt, swift :
+vanhkam (rudram), I, 114, 4.
+vak, to speak, to tell :
+vokéh, I, 165, 3; vokdma, I, 166,
+1; vokemahi, 1,167, 10; vokanta,
+V, 52, 16 (bis); vokatat, V, 61,
+18; kat vokéma,1,43,13; usyate,
+1,114, 6; 4avok4ma namad/ asmai,
+I, 114, 11.—Adhi vokata, bless
+us, VIII, 20, 26.—pra vivakmi,
+I praise, 1, 167, 7; pra vééanta,
+they told me of (Acc.), V, 52,
+16; pra va&i, VII, 58, 6
+vakas, word, speech :
+idam vakah, V, 54, 15;
+vakasy, to murmur :
+vakasyate, (of Soma), (1 48.)
+vagra, thunderbolt :
+vagram, I, 85,9; VIII, 7, 22.
+vagra-bahu, holding the thunder-
+bolt in his arms:
+vagra-bahus, I, 165, 8; vagra-
+baho, II, 33, 3.
+vagra-hasta, with the thunderbolt in
+their hands :
+vagra-hastaif, VIII, 7, 32.
+vagrin, wielder of the thunderbolt:
+vagrive (Indra), VIII, 7, 10.
+vat :
+api-vatayantad, welcoming, Il,
+165, 131; p. xix; api-vat, to
+
+
+I, 114, 6.
+
+
+go near, to attend, Caus. the
+same, or, to bring near, (VII,
+46, 3): : api-vat in Zend, (202;
+438.)
+vatsa, the young :
+vats4m, I, 38, 8; vatsdsah, exer
+VI, "56, 16.
+vad, to speak :
+vadamasi, I, 87, 5 ; brih4t vadema,
+II, 33, i153 udydte (opp. sas-
+yate), V 5 $8,035 ip they
+crack (the whips), I, 37, 3.—
+akkha vada, speak forth, I, 38,
+13.—a vadata, salute, I 56a; 9.—
+sam vadasva , speak with ,(1, 165,
+7): 3; bee, 6:
+vadh, to strike, to slay:
+vadhim, : 165, 81; ma vadhi4, I,
+170, 2°; VII, 46,4; I, 1r4,7;
+8; mé vadhit, I, 38, 6; ma va-
+dhishzana, V, 55, 9
+vadhar, weapon, bolt :
+vadhaJ, Il, 34, 9; VII, 56, 17.
+vadha-sna, blow :
+vadha-snaiA, I, 165, 6
+van :
+vanata, accept, VIII, 7, 9; see vat
+and su-apivata.
+vana, water:
+(I, 64, 12%.)
+vana, forest :
+vana, I, 64, 7; 88, 3°; V, 57, 33
+60, 2; vanani, V, 58 67; trees
+(lances), I, 171, 3}.
+vanaspati, lord ‘of the forest :
+vdnaspatiA, I, 166, 5; VIII, 20, 5
+_vanaspatin, k, a0, 8%
+vanin, tree :
+vaninah, I, 39, 33 VII, 56, 25.
+vanin, worshipful :
+vaninam, I, 64, 12%.
+vanushy :
+vanushyata/, of the plotter, VII,
+56, 19. ©
+vand, to worship :
+vandasva, I, 38, 15; V, 58, 2; VIII,
+20,143 203 vandamadnam, greet-
+ing, II, 3 3, Ea";
+vanditr7, worshipper :
+vanditdram, II, 34, 15.
+vandya, excellent :
+vandyasaA, I, 168, 2.
+vandhira, seat (on a chariot) :
+vandhtreshu, I, 64, 9
+vap, to pull:
+abhi vapanta, they plucked, VII,
+
+
+INDEX OF
+
+
+WORDS. 509
+
+
+56, 31.—nf vapantu, may they
+mow down, II, 33, 11.
+vap, to sow:
+vapanti marfta/ miham, VIII, 7, 4.
+vapus, marvel :
+vapuh,VI, 66, 1; vapushe, I, 64, 4”.
+vaptri, barber :
+vapta-iva, (I, 156, 1o0*.)
+vayah-vridh, invigorating :
+vayah-vridhad, V, 54, 2.
+vayas, strength ;
+
+
+vayah, I, 375 9'5 W, 55,1; VI, 58,
+
+
+4: Vill,.9, 35320, 23)5 revat
+vayah, X, 77,7; vayasa, II, 33, 6.
+vayasvat, consisting of food :
+ray4h vayasvatah, V, 54, 13’.
+vaya. germ, sprout, offspring :
+vayam, I, 165, 15°; 166,153; 167,
+I1; 168,10; pp. XxX; xxi; (207
+seq.)
+vayd-vat, with offspring :
+vaydvantam kshayam, (208.)
+vayfina, way :
+__-vayfneshu, II, 34, 47.
+vara, suitor :
+vardb-iva, 66, 641,464,739,
+
+
+Be; 3°.
+-yara, delight :
+varaya, VII, 59, 2.
+varam, adv., or, it may be:
+I, 88, 2.
+varaha, boar :
+
+vrishabhih varahaih, (140) ; (I, 88,
+5°.)—divad varaham arusham,
+the red boar of the sky (Rudra),
+I, 114, 5.
+
+varahu, wild boar :
+
+vardhfin, I, 88, 57.
+
+varivasy, to open:
+
+varivasyantad/, VII, 56, 17.
+
+Varuna :
+
+Aryaman, Mitra, and Varuza, (V,
+54, 8'); varunads, VII, 56, 25;
+VIII, 94,53 1, 43,35 114,11;
+varuva, VII, 59, 13; varumasya
+pasat, from the snare of Varuaa,
+VI, 74, 43 varuzam, I, 2, 7.
+
+vartitha, protection :
+varfitham, II, 34, 14.
+vare-yl, wooing :
+
+vare-yavah (maryAh), X, 78, 41.
+varkas, see samand4-varkas.
+varna, colour :
+
+varnam, II, 34, 13.
+
+vartan{, road :
+
+vartanim, V, 61, 9.
+
+
+vartrz, one who stops :
+na vartad, VI, 66, 8.
+vartman, path :
+vartmani, I, 85, 3.
+vardhana, joy :
+rudraya vardhanam, I, 114, 6’.
+varpas, design :
+varpasa, I, 39, 17.
+varman-vat, mailed :
+varman-vantah (yodhas), X, 78, 3.
+varman, shield :
+sarma varma &hardih, I, 114, 5.
+varsha, rain :
+varsham, V, 58, 7.
+varsha-nirnig, clothed in rain :
+varsha-nirnigah, V, 57, 4.
+varshishtha, best, strongest :
+varshishthaya, I, 88, 17; varshish-
+thah, 1, 37, 6; vrishan, varshiyas,
+varshishtha, (144.)
+valkala, bark of trees :
+(178.)
+vavra, spring :
+vavrasah, I, 168, 2%.
+vas, to wish, to long for :
+vasmi, II, 33, 13; usmasi, I, 86, 10;
+vasama, I, 165, 77; usanti vam,
+I, 2, 43; yatha vasanti, as they
+will it, VIII, 20, 17 ; vavasanadA,
+the greedy, VII, 56, 10'.
+vas, to clothe:
+tavishid with vas (1, 64, 7°.)—
+firna/ vasata, they clothed them-
+selves in wool, V, 52, 9/.
+vas, Caus., to brighten :
+vasaya ushasa/, I, 134, 3 (bis).
+vas, to dwell :
+pravatsyam, pravatsyam, p. xvii.
+vasavya, wealth ;
+vasavyé, VII, 56, 21.
+Vasishtha :
+vasishthah, VII, 59, 3; the Vasish-
+thas are kapardinaA, (1, 114, 17.)
+Vasu :
+vasavah, II, 34,9; V, 55,8; VII,
+56, 17; 20° (gods); 59, 8; X,
+77,63 sréshthah devanam vasuA,
+the best Vasu among the gods
+(Rudra), I, 43, 5.
+vasu, kind:
+vasyasa hridd, VIII, 20, 183; va-
+syasi, V, 61, 6; (360.)
+vasu, wealth, treasure :
+vasu, V, 57, 3°; VII, 59, 6; X,77,
+I; paravatam vasu, (V, 52, 11°);
+vasvahb, X, 77,6; vastini, V, 61,
+
+
+510 VEDIC
+
+
+HYMNS.
+
+
+16; I, 134, 43 vastinam, I, 170,
+5; vasya/, greater wealth, V, 55,
+Io.
+vasu-pati, lord of treasures :
+vasu-pate vastindm, I, 170, 5.
+vasu-ya, wishing for wealth :
+vasu-ya, I, 165, 1.
+vastu, brightening up:
+kshapaA/ vastushu, at the brighten-
+ing up of the night, i.e. in the
+morning, (I, 64, 8%.)
+vastr7, the lighter up:
+kshap&m vasta (Indra), (I, 64, 87.)
+vastra, garment:
+bhadra vastra, I, 134, 4.—(234);
+vastranta, the end of a garment,
+_ (I, 37, 6)
+vasyas, see vdsu.
+vah, to draw, to carry, to drive:
+vahati, I, 39, 6; VIII, 7, 28; va-
+hate, I, 167, 7; vahante, V, 58,
+1; 61,11; vahadhve, V, 60, 7;
+vélhave, V, 56, 6 (bis); I, 134, 3
+(bis)—vahadhve, you bring, V,
+53, 133 sriyam vahante, VIII,
+20, 7%,— yag#am fihire, they
+carried on the sacrifice, II, 34,
+12°; (40)3(V, 52, 15'.)—vahatab
+akkha, they carry hither, I, 165,
+4.—4 vahantu, I, 85,6; 134,1;
+& vahanti, VIII, 7,35; a vahata,
+VIII, 20, 23.—para vaha, carry
+away, V, 61, 17.—pra vahadhve,
+you come, X, 77, 6.
+vahishrha, strongest :
+vahishtha, V, 56,6; I, 134, 3.
+vahni:
+(37 seqq.)—vahni-bhi4, with the
+swift Maruts, I, 6, 51; (37, 41,
+43 seq.)—vahni (for Pada vah-
+nid), the two horses, VIII, 94,
+11; (39.)—vahni, bright, lumi-
+nous, (38 seq.); vahni-tama,
+brightest, (38); ep. of Soma,
+(40); ep. of the Asvins and
+Ribhus, (43); m., fire, light,
+Agni, (37 seq.) ; minister, priest,
+(38, 39, 40-43.)—vahni, fem.?
+(39 seq)
+¥8, cst
+utéva,I, 86, 33 V, 60, 63. va,
+either (the second va being left
+out), I, 86, 8.—va, even, V, 52,
+I4.
+ya, to blow:
+& vatu bheshagém, may he waft
+
+
+medicine, X, 186, 1.—pra-va,
+_— anu-va, (X, 77, 5%)
+
+va:
+
+& vivase, I invite, VI, 66, 11; VII,
+58,5; a4 vivaseyam, may I gain,
+IT, 33, 6.
+
+vaghat, suppliant :
+vaghatad, I, 88, 6.
+
+vak, voice :
+imam vasam, V, 54,13 vaka, X,
+
+77, 1.—vak, Vak (the voice of
+the thunder), I, 167, 37; vadam
+(abhriyam), I, 168, 8.
+
+vaga, booty, wealth ;
+
+(I, 2, 5’); vagam, I, 64, 13; VII,
+56,23; vage, I, 43,83; vagad, I,
+167, 1'; vadgebhiA, VII, 57, 5;
+(I, 2, 5'.)—-vage, fight, I, 85, 5.—
+arvantam yagam, a horse, his
+strength, i.e. a strong horse, V,
+54,14”.
+
+vaga-pesas, glorious by booty:
+vaga-pesasam, II, 34, 6.
+
+vaga-yat, racing :
+vagayat-bhis, racing, V, 60, 1.—
+
+vagayantaA, (I, 167, 1'.)
+vaga-sati :
+
+vaga-satau, in battle, VI, 66, 8.—
+vaga-satibhi4, with riches and
+booty, VIII, 20, 16.
+
+vagin, powerful; strong horse :
+vaginam, I, 64, 6°; vaginas (Gen.),
+
+I, 86,3; VII, 56,15; VIII, 20,
+
+16; f. vagini, wealthy, strong,
+
+(1, 2, 5).)—vagi arush4s, red
+
+stallion, V, 56, 7; with sApti,
+
+(I, 85, 1'); vaginam, II, 34, 75
+
+vagin, the left horse, (I, 39, 6'.)
+vagini, mare (?) :
+
+(I, 2, 5’); see vagin.
+
+vagini-vat, wealthy, liberal :
+
+_vagebhih vagini-vati, (I, 2, 57.)
+vagini-vasu :
+
+vagini-vasii, rich in booty, I, 2, 5'.
+
+vana=baaa, arrow :
+
+vanah agyate, the arrow is shot,
+VIII, 20, 8,
+
+vana, voice :
+vanam, I, 85, 107; (II, 34, 1%.)—
+
+vanah, sacrificial music (?), (VIII,
+20, 81.)
+
+vani, speech :
+vani, 1, 88, 6.
+
+vata, wind:
+
+(90); p. xxiii; vatan, 1,64,5; V,
+58, 7; vatasab na sva-yfgah,
+
+
+INDEX OF WORDS,
+
+
+511
+
+
+like self-harnessed winds, X, 78,
+o: 3. —vatasya, the god Vata, >. @
+
+
+168,13; 2; vataya, X, 168, a:
+vitah, %. 186, 1; vata, X, 186,
+5.3
+
+
+vata, going ;
+
+
+go.
+eich, blazing with the wind :
+vata-tvishah, V, 54, 33 57, 4
+yata-svanas, rushing like the wind:
+vata-svanasa/, VII, 56, 3.
+vama, wealth :
+vamam, V, 60, 7.
+vayt, wind :
+p. Xxiil ; vayt- bhi4, VIII, 7,3; 43
+17. —vayth, the god Vayu, 1,134,
+3 (tris); vadyo, I, 2, 1 seqq.;
+134, I seqq.
+varkarya (?):
+varkarydm devim, sacred rite, I,
+
+
+88, 4/3 (176; 178.)
+varksha, from the bark of trees:
+(234.)
+varya, best :
+
+
+_varyani (bheshaga), I, 114, 5.
+vas, to shout :
+vasati, V, 54, 2
+yasi, dagger :
+vasibhiA, I, 37, 22; vasih, I, 88, 3};
+vasishu, V, 53, 43 p. [xxxviii.
+yasi-mat, armed with daggers :
+vasi-manta/, I, 87,6; V, 57, 2
+vasra, bull, f. cow:
+vasrdsab, vasrab, VIII, 7, 3; 7;
+
+
+(I, 38, 8’); vasrad, f., I, 37,
+10; vasra-iva, I, 38, 8’; II, 34,
+15.
+
+wi, prep....:
+
+
+vi, through, I, 39, 3; across, I,
+168,63; vi vi-taram, II, 33, 2'
+vi, m., bird:
+vayah arusha/, the red birds (of
+the Asvins), (26); vayas, (I, 37,
+9'); vaya na, I, 85,7; 87, 2;
+ee, 13 °266,.103 V, 59, 7; vie
+bhi4, (the Maruts) with their
+birds, Vy 5353
+vi-akta, resplendent :
+vi-akta/, VII, 56, 1.
+vi-ushzi, flashing forth (of the dawn),
+daybreak :
+vi-ushishu (s4svatinam), I, ITT; 53
+(ushasah), II, 34, 12; (prvasu),
+tg 20,15; X, 77,5; (I, 64,
+
+
+vi-rishti, see vyrishti.
+
+
+vi-oman, sky:
+vi-omani, V, 87, 9
+vi-karshazi, active :
+vi-karshazim, I, 64, 12.
+vi-ketas, wise :
+vi-ketasah, V, 54, 13.
+vi-ganivas, sage :
+vi-ganfishah, X, 77, 1
+vias, to tear:
+vi vi#kanti, they tear asunder, I,
+| 395 5
+vi-tata, see tan.
+vi-taram, far away:
+i,33, 2°.
+vithura, broken :
+vithurd-iva, I, 87, 31; (I, 37, 8');
+vithurd-iva, like brittle things,
+I, 168, 67.
+vithury, to break :
+vithuryati, (the earth) breaks, X,
+
+
+775 4+
+vid, to know (with Acc. and Gen.) :
+kab veda, I, 170,1; V, 53, 13 61,
+14; véda, yidre, VII, 56, 2;
+vidas, I, 19, 3'; 166, 7; V, 59,
+7; vida, you take notice of
+(Gen.), I, 86, 81; vitt&t, V, 60
+6; vedas, remember, I, 43, 9;
+vidma hf, we know quite well,
+ee ae 3; VIII, 20, 33 yatha
+vida, V, 55, 2; vidandsah (c.
+Gen.), X,77,6; vividé, I, 39, 4;
+vise We I, 165, 9; 10; vidé hf,
+vidat-vasu, Bee of wealth:
+viddt-vasum (Indra), I, 6, 6.
+vidatha, assembly, sacrificial assem-
+bly, sacrifice :
+vidatheshu, I,64,1°; 6; 85,1; 166,
+23 75 ela VII, 57, 25 (276);
+vidathe, V, 59, 27; II, 33, 15.
+vidathya, eloquent :
+vidathy4-iva, I, 167, 32.
+vidman, knowledge :
+vidmana, V, 87, 2
+vi-dyit, lightning :
+vi-dyft, I, 38, 8'; 64, 9; vi-dyfita,
+I, 86,9; V, 54,23 vi-dydtas, I,
+39, 97; 64, 5; 168, 8; V, 52,
+6; 54,11; VII, 56, 13.
+vidyft-mahas, brilliant with light-
+ning:
+vidyft-mahasa/, V, 54, 3.
+vidyft-hasta, holding lightnings in
+their hands:
+vidyft-hasta/, VIII, 7, 25.
+
+
+512 VEDIC
+
+
+HYMNS.
+
+
+vidyGnmat, charged with lightning :
+vidyGnmat-bhiA, I, 88, 1.
+vidh, to sacrifice :
+vidhema havisha, X, 121, 1 to 9;
+168, 4; ndamasa vidhema te, I,
+114, 2; vidhata/, of her servant,
+I, 167, 5.—vedhas from vidh,
+(VIII, 20, 171); vidatha, (350.)
+vi-dhartri, ruler:
+vi- dharti, VII, 56, 24.
+vi-dharman, rule:
+vi-dharmaze, VIII, 7, 5
+vind, to find:
+avindaA/, I, 6, 5; vidré, I, 87, 6;
+vidyama, may we have, I, 165,
+15; 166,15; 167,113; 168, 10;
+171, 6.
+vip, to tremble:
+pra vepayanti, they make tremble,
+I, 39,53 VIII, 7,4
+vi-pakshas, on each side:
+vi-pakshasa, I, 6, 2°.
+vi-pathi, goer:
+vi-pathayah, V, 52, Io.
+vipany4, fond of praise:
+vipanyavas, V, 61, 15.
+vi-paka, full:
+vi-paka, I, 168, 7.
+vipra, sage, poet:
+vipras,V11,58,4; VIII,7,1; vipra,
+V,58,2; vipram, 1,86, 3; 165,14;
+VIII, 7, 30; vipraya, V, 61, 9;
+viprasya, I, 85, 11; 86, 2; VII,
+56, 153; viprasah, priests, X,
+
+
+78,1.
+vi-bhaga, distribution :
+vi-bhagé, VII, 56, 21.
+vi-bh, almighty:
+vi-bha, 1, 165, 10; vi-bhva4, I,
+166, r1i',
+vi-bhiiti, power:
+vi-bhiitaya/, I, 166, 11°.
+vibhva-tashza, fashioned by Vibhvan:
+vibhva-tashtam, V, 58, 41.
+Vibhvan, one of the Rzbhus:
+(V, 58, 4.)
+vi-bhvan, see bhi.
+vi-mahas, mighty :
+
+
+vi-mahasaA, I, 86, 11; vi-mahasaA,
+
+
+g V, 87, 4°. a
+vi-mana, see ma.
+vi-méfana, resting-place (of horses):
+_vi-mééane, V, 53, 7-
+vi-rapsin, singer :
+vi-rapsinah, I, 64, 10';
+vi-rapsinad, I, 166, 8.
+
+
+87, 15
+
+
+virikmat, bright weapon:
+virikmatad, I, 85, 37 *.
+vi-rokin, bright, brilliant :
+vi-rokinah, (I, 85, 3°)5 V, $5, 35
+X, 78, 3.
+vivakshase, see vaksh.
+vivartana=nirgatya bhfimau_ vilu-
+atbanam:
+(V, 53, 77)
+vivasvat :
+Aditi+ vivasvan, (262.)
+vivas, see va.
+vis, to enter:
+a-vivésa, VI, 74, 2.—ni visate, he
+rests, X, 168, 3.
+vis, clan, tribe, people:
+vit, VII, 56, 53 visd, I, 39, 5;
+visah, 1,. 172,.:332 1; a, a
+vistim, 1, 134, 6; vikshd, houses,
+VII, 56, 22; visah marfitam,
+the folk of the Maruts » V, 56, 1.
+vispati, king:
+vispatiA, I, 37; 81,
+visva, all .
+visve devi, } & 121, 23 1-39, Fa
+VIII, 94, 23 visve sa-géshasah,
+all the united Maruts, I, 43, 33 3
+visva gatdni, X, 121, 103 visva
+bhfvanani, I, 64, 3; 85, 8;
+166, 43 IL, 34, 45 visvab kar-
+shanih, I, 86, 5; visvam sidma
+parthivam, i, 38, 103 visva
+parthivani, VIII, 94, 93 visva
+ahani, I, 171, 33 visvam graéme
+asmin, everything in this village,
+I, 114, 1; visvasya tdsya, of
+this all, V, 55, 8
+visva-ayu, everlasting :
+visva-ayu, V, 53, 13.
+visva-krishti, known to all men:
+(1, 64, 14*.)
+visvak, in all directions:
+vishtiziA, II, 33, 2; vishiéim, VI,
+
+
+74, 2.
+visva-kandra, all-brilliant :
+visva-kandra/, I, 165, 8.
+visva-karshamzi, known to all men:
+visva-darshanim, I, 64, 14".
+visva-ganya:
+ep. of Aditi, (260.)
+visva-dhayas, satisfying all:
+visva-dhayasam, VIII, 7, 13.
+visva-pis, all-adorned: |
+visva-pisah, VII, 575 33: (1, 64, 87a
+visva-psu, perfect :
+visva-psub (yag#ah), X, 77, 4
+
+
+INDEX
+
+
+OF WORDS.
+
+
+513
+
+
+visva-bharas:
+visva-bharasam, (V, 54, to'.)
+visvam, adv., everywhere:
+me h21, 7.
+visva-manusha, known to all men:
+(I, 64, 147.)
+visvam-inva, enlivening everything:
+visvam-invébhi/, V, 60, 8.
+visva-ripa, manifold:
+visva-rfipad (Angirasad), X, 78, 51;
+visva-rfipam (nishkam), varie-
+gated, II, 33, 10.
+visva-vedas :
+visva-vedasa/, all-knowing, I, 64,
+8; 10.—visva-vedasah, wealthy,
+V, 60, 7
+visvaha, adv., always:
+X, 78, 6.
+Vishnu :
+vishnuA/, I, 85, 77; (133 seq.3 136
+seq.); vishzave, V, 87,1; (V, 87,
+41); vishnoh, V, 87, 8; vishnoh
+
+
+eshasya, the rapid Vishzu
+(Soma?), II, 34, 111; Soma
+(rain), VIII, 20, 37.—Vishzu
+
+
+and Trita, Vishzu’s three steps,
+(II, 34, 10'); Vishvu=Evaya-
+marut ? (365.)
+vishpat, deliverer :
+(1, 166, 81.)
+vi-sargana, a
+vi-sargane, V, 59,
+-visita-stuka, with dishevelled locks:
+visita-stuka, I, 167, 5.
+-vi-stara, straw :
+
+
+vi-starah (read vi-staré), V, 52,
+
+
+to!"
+-vi-stha, kind, variety :
+vi-stha, the gusts (of Vata), X
+168, 23,
+i vi-spardhas, striving:
+vi-spardhasah, ¥, 87, 4°.
+\ vihava, vihavya :
+(1, 134, 61.)
+\ vihatmat, invoking:
+vihttmatinim, L124, 6';
+_vi-hruta, injured, crooked :
+vi-chrutam, VIII, 20, 26; (I, 166,
+8
+vi, to = up:
+a dvyata, I, 166, 4).
+vi, to go:
+
+
+vi, to enjoy:
+vyantu, VII, 57, 6
+
+
+[32]
+
+
+apa veti, it goes away, V, 61,
+18
+
+
+vi/a, strong:
+vila, I, 39, 2.—vi/d, n., stronghold,
+2
+
+
+eae I Be.
+vi/u-pavi, strong-fellied :
+vi/upavi-bhid, V, 58, 6; VIII, 20, 2’.
+viJu-pazi, strong-hoofed :
+vi/upazi-bhid, 1, 38,585
+viti, rejoicing, feast :
+vitaye, V,59,8; VII, 57,2; VIII,
+20, 10; 16,
+vira, hero, man:
+virid, 1, 85, 1; VI, 66, 103 X,
+77, 33 Virasah, V, 61, 43; virdn
+nah, I, 114, 8; II, 33, 43 viréh
+(Rudra), II, 33, 1’; virdya, V,
+61, 5; virasya, I, 86, 4; (In-
+dra), I, 166, 7.—vira4, son, VII,
+56, 24.
+vira-vat, rich in men:
+vira-vantam, I, 64, 15.
+virya, strength :
+viryam, V, 54,5
+vri, to keep back:
+varanta, V, 55, 7; vrata from vri,
+vrinoti, (236) ; varayati, to pro-
+hibit, (237.)—apa avrimvata, they
+have uncovered, II, 34, 1 —See
+vartr?, d-vrita.
+vri, to choose, to desire :
+vrine, VII, 94, 83; vrinimahe, I,
+114, 9; Avrinita, II, 33, 13.—
+&@ vrine, VII, 59, 113 4& vrini-
+mahe, I, 39,73 114, 43 & vavri-
+dhvam (better 4 vavriddhvam,
+see vrit), (VIII, 20, 18%.)
+vrika-tati, among wolves:
+IT, 34, 9°
+vrikta-barhis, for whom the sacred
+grass has been trimmed:
+vrikta-barhisha/, I, 38, 17; VIII,
+7,20; 21; (I, 64, 173 165,
+15°; 134, 6°.)
+vrikti, trimming (of the grass) :
+(1, 64, 1°
+vriksha, tree :
+vriksham, V, 54, 6.
+vrigana, invigorating :
+vriganam, I, 165, 15°; 166,
+q07, 4% 168, Cor 175,
+XX.
+vrigana, n., enclosure,camp, hamlet :
+(i, 165, 15 4 © vrigane, I, 166, 14;
+vrigane nadinam, in the realm
+of the rivers, V, 52, 73 vrigana,
+V, 54, 12; vriganeshu, Il, 34,
+
+
+7°; (2375)
+
+
+15;
+6; Pp.
+
+
+Ly
+
+
+514 VEDIC
+
+
+HYMNS.
+
+
+vritig, to turn, to ward off, to clear:
+
+(I, 165, : 15) 8) vritigase, (1, 87, 6");
+‘sirsh’ vavriguh, vavriktam, to
+turn back the heads, (269) ;
+vavargishizam, I, 134, 61.—
+pari vrinkta, spare, I, 172, 3;
+pari vrinaktu, VII, 46, 3; pari
+vrigyah, may it avoid, II, 33,
+14%.
+
+vit, to turn : ;
+
+vartayatha, I, 39, 33 vartayata,
+
+Il, 34, 93 avartayat, tS.
+9. “nu rathab avritsata, the
+chariots followed, V, 55, 1
+to 9.—a vavarta, i, "165, 25
+6 vartta, I, 165, 14? ; Xxi ;
+4 vavriddhvam sage a vavri-
+dhvam), VIII, 18°; abhi @
+avart, VII, 59, i g vavrityam,
+let me bring hither, I, 168, 1;
+VIII, 7, 33; a-vavartat, II, 34,
+14; & vavrittana, V, 61, 16.—
+vi vavrite, it turns, I, 166, 9°;
+vi vartante, they roll about, V,
+53, 77—sam avartata, there
+arose, X, 121,13; 73 (p. 4.)
+
+vritta=versus:
+
+p. Xcv.
+
+vritra, Vritra:
+
+vritram, I, 85,95; 165, 8; VII, 7,
+233 vritram, enemy, VII 58, 4.
+
+vritra-ttirya, struggle with Vritra :
+
+vritra-tirye, VIII, 7, 24.
+
+vritha, freely, lightly :
+
+I, 88, 6; 168, 4; wildly, V, 56,
+"ge quickly, VIII, 20; 10;
+vritha kri, to shake, (311.)
+
+vriddha, see vridh.
+vriddha-savas, endowed with full
+power :
+
+vriddha-savasah, V, 87, 6.
+
+vridh, to grow:
+
+vavridhe, I, 37, 5; 167, 8°; avar-
+dhanta, I, 85, 7'; vavridhanta,
+V, 52,73 VI, 66,2; vavridhud,
+Il, 34, 13°; V, 59, 53 _X, 77,
+2; vridhantam, strong, VI, 66,
+
+1; vriddhad, grown, V, 60, 3;
+vriddhas, magnified, I, 38, 157;
+vriddha, old, (I, 88,17); vridhé,
+to grow, I, 85, 17; vridhase, (I,
+87, 61); vridham, I, 167, 47;
+vardha, strengthen, V, 56, z;
+vardhayanti, VII, 57, 7; var-
+dhan, VIII, 7, 19; vavridhanas
+asman, prospering us, X, 78, 8;
+
+
+a vavridhus, V, 55, 3.—pra-
+vriddha, thou who art grown
+strong, I, 165, 9; p. xvii.—vi
+vavridhus, V, 59, 6.—sam_ va-
+vridhus, they have grown up
+together, V, 60, 5.—vridh in
+Zend, (1, 114, 6'.)
+vridha, increasing :
+vridhasah stha, I, 171, 2°.
+vrish, spargere, to rain down:
+vrishtvi, V, 53, 141; varshayatha,
+V, 55) 5-—(139; 151 seq.)—a-
+vrish, to drink, (152.)
+vrisha-khadi, armed with
+rings:
+vrisha-khadaya/, I, 64, 10”.
+vrishanasva, with strong horses :
+vrishanasvéna, VIII, 20, ro.
+vrishat - afigi, strongly - anointed
+(priests) :
+vrishat- -atigayab, VIII, 20, 9%.
+vrishan, strong, manly :
+(138 seqq. ); strong, powerful, (139
+seq.; 1423; 149); (I, 64, 107)¢
+male, (139 seq.) ; man, husband
+(141 3 144); vrishanah patimsye,
+(141); giver of rain, bounteous,
+(141 seq.); fertilising, (142)
+bull, horse, stallion, (25 seq.
+1393 140); ’arushdsab vrishanah,
+the red stallions, (26) ; vrishnabk,
+bulls, VIII, 20, 20; hero,
+epitheton ornans, ( 142 seqq. }
+149 seqq.); applied to deities
+(145 seqq.); arusha+ vrisha
+the red hero (Agni), fire in th
+shape of lightning, (18; 25; 26)
+name of Soma, (1 343136; 14m
+146 seqq.) or vrishanam, I, 88
+ae vrishanam with a; (1 +9)
+
+
+strong
+
+
+3
+"
+1
+1
+:
+
+
+(152 seq.); Mah Line
+(153); see varshishtha.—vrish
+nab, the strong Maruts, I, 16:
+
+
+rs. Se /ziveS itt, 20, 12
+ee uaee h 85, 12°; Vile
+18; ; 58, 6; I, 33,1
+
+
+sila VII, 7, 33: 20, 19
+vrisha gandb, the manly host (
+the Maruts), I, 87, 43 vrisha
+sardhaya, I, 64, 1 : Vii 20,
+vrishanam mérutam ganam, ;
+64, 12; VIII, 94, 12.—-vrish
+Rudra, II, 34, 2; Vishzu,
+87, 5; vrishne, Indra, I, 16
+II.
+
+
+: wal:
+
+
+INDEX OF WORDS.
+
+
+915
+
+
+vrisha-nabhi, with strong naves :
+vrisha-nabhina, VIII, 20, ro.
+vrisha-pani :
+(E, 38,215)
+vrisha-prayavan, strongly advancing:
+vrisha-prayavne, VIII, 20, 9.
+vrisha-psu, with strong forms :
+vrisha-psavah, VIII, 20, 7; (VIII, 7,
+71); vrisha-psuna, VIII, 20, 10.
+vrishabha, bull, manly hero:
+(1393 140); vrishabhas (usriyad),
+Dyu, the bull of the Dawn, V,
+58, 6°; Rudra, II, 33, 6; vrisha-
+bha, II, 33, 43 73 153 vrisha-
+bhaya, II, 33, 83; vrishabha,
+Indra, I, 165, 73 171, 53 vrésha-
+bhasya, I, 166, 1.
+vrisha-manas, manly-minded :
+vrisha-manaA, I, 167, 7.
+vrisha-vrata, epithet of Soma:
+(I, 85, 4%)
+vrisha-vrata, the manly host :
+vrisha-vratasa/, I, 85, 4%.
+vrishri, shower, rain:
+vrishtib, I, 38, 8; vrishtim, I, 39,
+9°; V, 55, 5'3 58, 33 vrishti, V,
+53, 5'3 vrishtayad, II, 34, 21; V,
+53, 213; 63 103 vrishti-bhid, V,
+59,5; VII, 56, 13°; VIII, 7, 16.
+vrishni, manly :
+vrishni patumsyam, manly work,
+VIII, 7, 233 vrishni savas, (V,
+, 58, 71.)
+vrishnya :
+(V, 58, 7°.)
+vrih, to draw:
+vi vrihatam, draw far away,VI, 74,
+2.—Cf,. brih.
+védi, altar:
+védim, I, 170, 4.
+vedya (?):
+vedyabhiA, clearly (?), I, 171, 1°.
+vedhas, wise :
+vedhase, I, 64, 1; VII, 46, 113 ve-
+dhasah, V, 52, 13'; vedhasad, V,
+
+
+54, 0-
+vedhas, servant (worshipper) :
+vedhasa/, VIII, 20, 171.
+ven, to cherish :
+venah, I, 43, 9.
+vénat, suppliant :
+vénatah, I, 86, 8.
+
+
+na vaf u, never, II, 33, 9'; 10.
+vai, to wither :
+part. vata and vana, (9o.)
+
+
+Vaidat-asvi :
+
+vafdat-asvib yatha, like Vaidadasvi,
+V, 62, 10 ¢- VN, 6x, $73.9"; 360;
+362.)
+
+vaiyasva :
+
+not vayyasva, pp. liii, lvi.
+
+vaira-deya, weregild :
+
+vafra-deye, V, 61, 8'.
+
+Vaisvanara, N. of Agni:
+
+vaisvanara, V, 60, 8.
+
+vyath, to shake :
+
+vyathate, V, 54, 7; vithura from
+vyath, (I, 168, 61.)
+
+vyathi, rolling :
+
+vyathi4, V, 59, 2.
+
+vyadh, to strike:
+
+vidhyata, I, 86, 9.
+
+vya:
+
+(I, 166, 4".)
+
+vytha :
+p. Ixxx.
+vyrishti (Ayudhavisesha) :
+vyrishtibhis, (VII, 56, 13°.)
+vraga, stable :
+
+vragé, I, 86, 3.—vragam, strong-
+hold, VI, 66, 8.—vraga/, keeper,
+(228.)
+
+vrata, sway, &c.:
+
+(236 seqq.) ; what is enclosed, pro-
+tected,set apart, (236 seq.; 383
+seq.); apaém vraté, within the pale
+of the waters, (384); law, (237
+seq.; 384); anu vratam, accord-
+ing to law, (238) ; vrata (dhara-
+yante), duties, VIII, 94,2; sway,
+power, (239); vratam, I, 166,
+12”; vraté tava,at thy command,
+under thy auspices, (239) ; sacri-
+fice, (238 seq.); deeds of the
+gods, (239.)
+
+vrata, troop:
+
+vratam-vratam, each troop, V, 53,
+
+II.
+
+
+sams, to recite, to praise :
+sasyate, I, 86, 4; sasydte (opp.
+udyate), V, 55, 8; sasyante, VII,
+56, 23; samsamanaya, var. |. for
+sasamanaya, (1,85,12'.)—asams,
+(271.)—Ut samsa, V, 52, 8.—pra
+samsa, I, 37, 5.
+samsa, spell, blessing, curse ; praise,
+prayer :
+(1, 166,13'; 271) ; nardm samsah,
+(Indra) praised by men, Man-
+nerlob, Il, 34, 63 (439.)—
+
+
+Ll2
+
+
+516
+
+
+VEDIC HYMNS.
+
+
+sdmsam, curse, VII, 56, 19;
+samsat, reproach, "a: 166, 8.—
+samsah, prayers, X, 78, 3.
+samsa, singer :
+samsam, I, 166, 13'5-(271.) |
+samsya, glorious :
+samsyam, II, 34, 11.
+sak, to be able :
+sikvas from sak, (V, 52, 161.) —
+katham seka, how could you,
+V, Gt, 2:
+sakra, hero :
+sakr ih, I, 166, 1.
+sana, hemp:
+(233.)
+sata, hundred :
+satam himab, I, 64,143 V, 54,153
+II, 33, 23 ékam-eka saté, each
+a hundred,V, 52, 27% dhentindm
+satam, vi 61, 10; sat4sya nri-
+nim sriyam, the happiness of a
+hundred men, I, 43, 7.
+sata-arkas :
+sata-arkasam, may be sat4-rikasam,
+p. Ixxxv?,
+sata-avaya, consisting of a hundred
+sheep:
+pastim sata-avayam, V, 61, 5.
+satabhugi, hundredfold :
+satabhugi- bhid, I, 166, 8.
+satasvin, winning a hundred :
+satasvi, Vit; $3.4:
+satin, hundredfold :
+satinam, I, 64, 153 satinah, with
+hundredfold wealth, VII, 5757
+satru, foe:
+sAtrub, I, 39, 43 satrod, I, 165, 6.
+sam, to work, to perform worship, to
+praise :
+(166) ; sasamaniya, 1, a re":
+sasamanasya, I, 86, 8.
+sam, well, pleasant, sweet ; health :
+(190 s€qq.);: La65, 23 ‘with bha,
+(ry0 seq.); VI, 74, 13 p. cxi;
+with as, (191 seq.); I, 114, 1;
+withasorbhfi arate tae (192);
+with kar, vah, (rga}3 1) 43, 6;
+with pa, va, ’ &e., (192 seq.) ;
+sam y6A, health and wealth,
+(193 seq.); V, 53, 143 I, 114,
+2; II, 33, 13.
+sami, deed :
+sami, Loc.,1,87, 5”
+(V, 87, 9°.)
+sam-tama, most welcome, blissful :
+sam-tamam (hridé), 1, 43, 1; sam-
+
+
+2 : od A
+; sami and sami,
+
+
+tamebhi+ (bheshagébhiA), IT, 33,
+2; sam-tama (bheshag4), II, 33,
+13.
+sam-bhavishzha, most blissful :
+sam-bhavishrha/, I, dot 3; s4m-
+bhavishrhaA, X: 77 :
+sam-bhil, healthful :
+sam- bhi, X, 186, 1.
+sam-y6/, for health and wealth:
+
+
+T, 43, 4
+sara, reed, arrow:
+
+
+(398.)
+sarad, harvest :
+sarat-bhiA, I,
+Ceres, p. xxiv.
+saru, shaft:
+sarub, 1 174, a.
+sardha, host :
+sardhas miarutas=cerfo Martio,
+p. xxv; sardham, V, 53, 10; 56,
+9; sardham-sardham, V, 53,
+11; sardhaya, I, 37 43 64, a;
+V, 64; By 87, 34 VE OS IT;
+VIII, 20, 9; sardhasya, VII,
+56, 8 ; sardhah, see sardhas ;
+(67 seq.; 69. )-—s4rdhan ritasya,
+the companies of our sacrifice,
+VIII, 7,21.—sardha, strong, (68. )
+sardhas, might, host:
+(67; 68 seqq.) ; sardhad, I, 37, 11;
+5; V, 52, 8'; 54,6; VII, 59,
+7; (V, 87, 11); sardhamsi, V,
+87, 7°.
+sarman, shelter, protection:
+sarma, I, 85, 12; Vy §5 @3 VL,
+59, 1; 1, 114, 5; 103 sarman,
+VII, 56, 25.
+sarya, made of reeds:
+sarya, f., an arrow, also a sacrificial
+vessel, (398.)
+saryana, lands in Kurukshetra :
+(398.)
+Saryand-vat, N. of a lake:
+saryand-vati, VIII, 7, 29%. —A
+sacrificial vessel, (VIL, 7; 29°)
+sarvara, dark:
+sarvarif, the dark cows (the
+clouds), Vy 34,99
+savas, strength:
+savah, I, 37, 93 39, 10; V, 58, 77;
+87, 2; 6; savasa, I, 39, 8; 64,
+8; 95 133 167,93; 171, 5°; VI,
+66, 6; VII, 57, 24; savase, V,
+87, 11; savasab, I, 167, 9; V,
+52, 23 savamsi, VII, 56, 7.—
+Savas, (251.)
+
+
+86, 6.—Sarad =
+
+
+Ag G si RE
+i *
+
+
+INDEX OF
+
+
+WORDS. 517
+
+
+savishtha, most powerful :
+savishtha, I, 165, 7.
+Sasiyasi :
+(V, 61, 5°); (360;
+sasvat.
+sasvat, all:
+sasvatah, V, 52,23; sasvatam ékam
+ft, VIII, 20, 13.—sdasvatinadm,
+the eternal dawns, I, 171, 5.—
+sasiyasi, compar., more frequent,
+V, 61, 6; (360.)
+sakin, hero:
+sakinah, V, 52, 171.
+sanakshaumasira, clothes of hemp or
+linen:
+_ (234.)
+sas:
+& sasate, they call for me, I,
+165, 4-
+sikvas, wise, powerful:
+sikvasah, V, 52, 161; 54, 4.
+siksh for sisaksh :
+(V, 52, 167.)
+sikha:
+(¥;:52, 16'.)
+sipra-vat :
+sipravan, (II, 34, 3°.)
+sipra, helmet ; jaw:
+sipre, jaws, (11, 34, 3°; I, 2, 3').—
+siprad (hiravyayi), headbands,
+¥, 54; 41; helmets, VIH, 7,
+25.
+siprin, helmeted or possessed of
+jaws:
+(II, 34, 3°.)
+simi-vat, vigorous, powerful:
+simi-van, V, 56, 33; simi-vatam,
+VIII, 20, 3; simi-vantad, X,
+pee nr a
+siva, propitious :
+sivabhiA (fiti-bhis), VIII, 20, 24.
+sfsu, young one, calf:
+sisve, II, 34, 8; sfsavah, VII, 56,
+16.
+sisilla, child:
+sistas na krilayah, X, 78, 6.
+sibham, adv., fast:
+I, 37, 14.
+sirshan, head:
+sirshan, VIII, 7, 253 sirshd-su, V,
+54,113 57,63 sirsha vavrzktam,
+(269.)
+sukra, bright:
+sukrah-iva stiryad, I, 43, 5; sukram
+(fidhas), VI, 66, 1; sukré
+(Gdhani), Il, 34, 23; sukrasaA,
+
+
+362); see
+
+
+I, 134, 5; sukrébhi# hiranyaih,
+IT, 33, 9.
+suk, to shine:
+sdsukan, VI, 66, 23 susukvdmsah,
+V, 87, 6; sususanaA, brilliant,
+Il, 34, 13 sukatd, HI, 34, 12.
+siki, bright, brilliant :
+shkayah, 1, 64, 23 VI, 66, 43 11;
+VII, 57, 53 I, 134, 43 53 suai,
+sakinam, stim, siki-bhyas,
+sikayah, VII, 56, 12; sifini,
+pure, IT, 33, 13.
+siki-ganman, bright born:
+siki-ganmana/, VII, 56, 12.
+sundhy4@, brilliant :
+sundhyavas, V, 52, 9.
+subh, see sumbh.
+sibh, splendour, beauty, glory:
+subha, I, 165, 1; p. xiii; VII, 56,
+6; subhé, I, 64, 47; 88, 23; for
+triumph, I, 87, 37; 167, 6; V,
+52, 8; §7, 3; Vl, 57, 33
+sibham ya, to go in triumph,
+V, 55, 1 to 9; 57, 2; (VIII,
+20, 7*.)—sibhas, gems, V, 54,
+<%3
+subham-ya:
+(164); (I, 87, 4°.)
+subham-ydvan, triumphant:
+subham-yava, V, 61, 133 (164;
+I, 87, 4°.)
+subham-y@, triumphant:
+subham-yavah, X, 78,73; (164.)
+subhra, brilliant:
+subhra4/, VII, 56, 8; subhra4, I,
+19, 53 85, 3"5 167, 4; VII, 56,
+16; VIII,7, 25; 28.—subhrad,
+NALD 3, 9. 4;
+subhra-khadi, armed with bright
+rings:
+subhra-khadaya/, VIII, 20, 4.
+subhra-yavan:
+subhra-yavana, (164.)
+sumbh, to shine; to adorn:
+subhayanta, VII, 56, 16; sobhase,
+to be glorious, X, 77, 13 subha-
+yante, they adorn themselves,
+I, 85, 3; sambhamana/, I, 165,
+5; VII, 56, 113 59, 73 subha-
+naff, bright, I, 165, 34; p. xv;
+subhayat-bhiA/, brilliant, V, 60,
+8; (162.)—pra sumbhante, they
+glance forth, I, 85, 1.
+susukvani:
+(I, 168, 17.)
+susukvas and susukand, see sud,
+
+
+518 VEDIC
+
+
+HYMNS.
+
+
+sishma, breath, strength:
+sishmas, I, 165, 4°; p. xv; breath,
+VII, 56, 8; sGshmam, I, 64, 14;
+165, 1*; pp. xiii seq.; xxi; VIII,
+7,243 20, 33 sashmaya, power
+(blast), VIII, 7,53 sashma with
+vrishan and vrishabha, (140;
+149.)
+sushmin, strong :
+sushm!, VII, 56, 24; sushmize, I
+37, 4+
+stira, hero:
+surah, 1, 64, 93 stirad-iva, I, 85,
+8; V, 59, 53 ganisab stirah,
+Lats 56, 22; gigivdmsah na
+stirdh, Ay 7854,
+stisu-vas, “alway s increasing :
+stisu-vamsam, I, 64, 153
+vamsah, strong, i, 167, 9.
+sringa, horn :
+sringam, V, 59, 3
+sridh, strong:
+sardhantam, V, 56, I.
+sé-vridh, conferring blessings :
+sé-vridhah, V, 87, 4
+sO:
+ni-sitani, prepared, I, 171, 4.
+sokis, blast of fire :
+sokih, 1, 39,1
+s6na, brown :
+s6na, I, 6, 2.
+sobhas, see sumbh.
+sébhisht/a, most splendid :
+sdbhishthah, VII, 56, 6.
+skut, to trickle :
+skétanti, I, 87, 2
+Syava :
+syaviya, V, 61, 9.
+Syava-asva :
+syava-asva, V, 52,
+(359 seq.)
+Syavasva- stuta, praised by Syavasva :
+syavasva- stutaya, V, 61, 5”.
+syena, hawk :
+| syendb, VII, 56, 3; syendsad na
+pakshizah, like winged hawks,
+VIII, 20, 10; syendsas, X, 77,
+53 syendn-iva, I, 165, 2; (175.)
+srath :
+srathayanta, they tire, V, 54, 10.
+—srathayante, they soften, V,
+59, 1.—sisrathantu, may they
+loose it (plural instead of dual),
+(258.)
+srathary, to melt :
+sratharyati, X, 77, 4°
+
+
+d
+
+
+sfisu-
+
+
+ts. t¥j6t,'s%;
+
+
+sravas, glory :
+sravah, I, 165,123 171, 53 V;52,
+rae eS 43,73 sravamsi, V, 61,
+I1 3 sravase, I, 134, 3.
+sravasyll, eager for glory:
+sravasy(h, VIII, 94, 13  sravas-
+yavah, I, 85, 8.—sravasyim,
+glorious, V, 56, 8.
+sraya, going :
+srayah, V, 53, 4°
+sri:
+dpa-sritab, retired, V, 61, 19.—upa-
+sisriyands, fastened, VII, 56, 13.
+sriyase, see sri.
+sri, splendour, beauty, glory :
+svih, V, 57,63 sriyd, V, 61; 427;
+VI, 66, 4; VII, 56, 6; sriyd
+sréshthah, II, 33, 3; sriyé, I, 88,
+33 V, 55,35 VIII, 7,25; X,
+77, 23 sriyé sréyamsah, V, 60,
+4°; sriyase, I, 87, 6'; V, 59, 3°
+(bis) ; sriyad, I, 85, 27; 166, 10;
+VIII, 20, 12; srfyam vdhante,
+they bring with them beautiful
+light, VIII, 20, 7%.—sriyam,
+happiness, I, 43, 73; sriyé, for
+happiness sake, I, 64, 12.
+sru, to hear:
+srinve, 1, 37,33 srindti, I, 37,13;
+srinuta, I, 86, 21; srdéta, V, 87,
+8; 9; srudhf, I, 2,13 srindtu,
+I,114,113 VII, 46, 1'; susrava,
+V 5°33; 23° sriavire; NV, 87, e:
+X, 168, 4; srinomi (with two
+Acc.), I hear thou art —, II, 33,
+4.—a& asrot, listened, I, 39, 6°;
+sroshantu a, I, 86, 5%.—See
+srétri.
+sruta, glorious:
+srutam, I, 6,6; V, 52, 17; ‘nu
+Il; srutasu, V, 60, 2
+sritya, glorious:
+sratyam, I, 165, 11.
+srush?i, a hearing:
+srushzim, I, 166, 13.
+srush¢i-mat, to be obeyed:
+srush¢i-mantam, V, 54, 14°.
+sréni, row :
+srénih, V, 59, 71.
+sréyas :
+sriyé sréyamsah, glorious for glory,
+V, 60, 4?
+sréshtha, eae
+sréshthah, 1, 43, 5.—sréshthab
+sriyd, the most beautiful in
+beauty, II, 33, 3
+
+
+;
+:
+= ¢
+:§
+7
+i
+
+
+INDEX OF WORDS.
+
+
+519
+
+
+sréshtha-tama, the very best :
+sréshtha-tamas, V, 61, 1.
+srétri, listening to:
+srétarah (yama-hitishu), V, 61, 15.
+sl6éka, hymn :
+slékam, I, 38, 14.
+svas, to-morrow :
+svah, 1, 167, 10 3 170, 1.
+svi, to flourish :
+stisdvama, I, 166, 143 see sfisu-vas.
+svit, to shine:
+vi asvitan, X, 78, 7
+svityazk, bright :
+svitizé, II, 33, 8
+
+
+sakrit, once (only) :
+
+VI, 66, 1.
+
+sakthan, leg:
+
+sakthdni, V, 61, 3.
+
+sakhi, friend :
+
+sakha, I, 170, 3; X, 186, 2; apam
+sakha, X, 168, 3; sakhye
+sakhayaA, I, 165, 11; sakhayaA,
+V, 52, 2; sakhayaé, VIII, 20, 23;
+sakhin akkha sakhayad, I, 165,
+13; sakhin, V, 53, 16.
+
+sakhi-tva, friendship :
+
+sakhi-tvé, VIII, 7, 31.
+
+sakhya, friendship:
+
+sakhydsya, V, 55,9; X, 78, 8;
+sakhyaya vridham, to grow their
+friend, I, 167, 4.
+
+sak, to follow:
+
+sisakti, I, 38,8; sakadhyai, 1,167, 5
+—saketa, may he remain united,
+V, 52, 15.—sakante daksham,
+they assume strength, I, 134, 2
+
+saka, with:
+
+I, 167, 7; sak4 marat-su, among
+the Maruts, V, 56, 8; 9; suté
+saka, VII, 59, 33.
+
+sa-gatya, common birth :
+
+sa-gatyéna, VIII, 20, 21.
+
+sa-gish, endowed with :
+
+sa-gtih, V, 60, 8.
+
+sa-géshas, friend:
+
+sa-géshasah, V, 57,13 I, 43, 3
+sa-goshasah, V, 54,6; hy
+allied with, (263.)
+
+sat, hero:
+(I, 165, 3)
+sat-asva, with good horses :
+
+sat-asvah, V, 58, 4.
+
+sat-pati, lord of (brave) men:
+
+sat-pate, I, 165, 37; sat-patim, II,
+33, 12.
+
+
+satya, true :
+satya, I, 87, 4; 167, 7; satydm,
+truly, I, 38, 72 Vil, 50, 125
+tirah satydni, in eS of all
+pledges, (VII, 59, 8°.)
+saty4-dharman, righteous:
+satyd-dharma, X, 121,-9.
+satya-savas, of true strength :-
+satya-savasah, I, 86, 8; 93; satya-
+savasam, V, 52, gi,
+sitya-srut, truly listening :
+sitya-srutah, V, 57, 8; 58, 8.
+satra, together :
+V, 60, 4.
+satrak, common :
+satrazim, VII, 56, 18;
+together, X, 77, 4.
+satvan, giant:
+sAtvanah, I, 64, 2°.
+sad, to sit down :
+sidan, I, 85, 73 sattah, VII, 56,
+18. —sidata & a, sit down on (Acc. ss
+‘, 85, 6; a sadata (barhiA), VII,
+57, 2 ; 59, 6.—ni seda, VII, 59,
+7 —pra- -sattah, V, 60, 1
+sidana, seat :
+parthive sadane, (I, 38, 10°); rita-
+sya sadaneshu, sacred places, II,
+34, 13”.
+sadanya, distinguished in the assem-
+blies :
+(276.)
+sadam, always:
+IT, 34,4; I, 114, 8.
+sadas, seat :
+sada/, I, 85, 2 ee ee Pe 3
+(V, 61, cod ees V, 87, 4
+sada, always:
+VII, 56, 253 57,73 58,63 46, 4;
+I, 20, 223 94, 3.
+sadman, seat, place:
+sadma (parthivam), space (of the
+earth), I, 38, 10’; seat (of the
+earth), V, 87, 7'; sadma, altar,
+(I, 38, t0'.)
+sadman, m.
+sadmanam divyam, (I, 38, 107.)
+sadyah-iiti, quickly ready to help:
+sadyah- -fitayah, V, 54, 153 sadyas-
+fitayas, X, 78, 2.
+sadyas, quickly :
+sadyah, V, 54, Io.
+sadha-stha, abode, council :
+sadha-sthe, V, 52, 7; 87, 3.
+sadhri#ina, assembled :
+sadhri#inas, I, 134, 2
+
+
+satrakah,
+
+
+?
+
+
+520 VEDIC
+
+
+HYMNS.
+
+
+sadhrya&, together :
+sadhryazkah, V, 60, 3.
+san, to gain:
+sanat, V, 61, 5; sanita, VII, 56,
+23.
+sanat, always:
+VII, 56,5; X, 78, 8.
+sa-nabhi, holding together :
+sa-nabhayads, X, 78, 4.
+sani, luck :
+sanim, II, 34, 7°.
+sa-ni/a, dwelling in the same nest :
+sa-ni/ah, I, 165, 1; VII, 56, 1;
+p. Xiv.
+sanutar, far :
+V, 87,8; X, 77, 6
+sanemi, entirely:
+VII, 56, 9
+sap, to follow, to attend on, to wor-
+ship :
+(1, 85, 1°.)
+sapatni:
+(129.)
+Sapary, to serve:
+saparyati, VIII, 7, 20.
+sapta-gihva, seven- tongued :
+sapta-gihvab (vahnayad), (39.)
+sapta-tantu, having seven threads
+(the sacrifice) :
+(253.)
+saptan, seven :
+sapta sapta sakinad, the seven and
+seven heroes, V, 52, 17’; sapta
+ae the seven treasures, VI,
+745
+sapti, ete yoke- ve
+sAptay ab, I, 85, 173 6; saptayas,
+VIII, 20, 23; sapti, the middle
+horse, (I, 39, 6'.)
+sa-prathas, wide-spreading :
+sa-pratha/, VIII, 20, 13.
+sapsara, fed:
+sapsardsah, I, 168, 9.
+sabad-digha, juice-yielding :
+sabah-digha, I, 134, 4?
+s4-bandhu, kinsman :
+sa-bandhavah, V, 59, 5°; VII, 20,
+ie
+sabar, juice, milk, water:
+(I, 134, 4
+sa-badh, ore es ;
+sa-badhaA, I, 64, 8
+sa-bharas, toiling together :
+Sa- bharasad, V, Sa, 10"
+sabha, assembly, ¢ court :
+
+
+(276.)
+
+
+sabha-vat, courtly:
+sabha-vatt, I, 167, 3
+sabha-saha, strong in the assembly :
+(276.)
+sabhéya, courtly, polite :
+(276.)
+sam, prep., with. ..:
+1, 64, 83.367, 3:
+sama, like, worth as much:
+samah (read sama ?), V, 61, 81.
+sdmana, feast :
+simanam na yéshaA, =: 168, 27.
+samana, together :
+I, 168, 1.
+sa-manyi, pl. friends of one mind:
+sa-manyavah, II, 34, 3; 53 6;
+VIII, 20,1; 213; confidants (of
+Vishnu), V, 87, 8
+samaya, at once:
+I, 166, 9°.
+sam-arana, battle:
+sam-arane, I, 170, 2.
+sam-arana, see ri.
+sa-maryA, battle :
+sa-maryé, I, 167, Io.
+samaha, well:
+V, 53, 15+
+samana, common, equal :
+samanam, VI, 66, 1; VII, 57, 3;
+VIII, 20, 11; samanasmat, V,
+87, 43 samanébhid, I, 165, pe
+fem. samani, (I, 165, 1 ae
+samana-varkas, of equal splendour :
+sam4na-varkasa, I, 6, 7.
+samanya, all equally :
+i; 46%. 3°.
+sam-ukshita, see vaksh.
+samudra, sea:
+samudram, X, 121, 4; (arzavam),
+I, 19,77; 8; samudrasya, I, 167,
+2; samudrataA, V, 55,5; samu-
+dréshu, VIII, 20, 25.—samudra,
+welkin, (58); confluvies, (61) ;
+adj. watery, flowing, (61 seq.)
+sam-riti :
+(I, 64, 157.)
+sim-okas, surrounded :
+sam-okasa/, I, 64, 10.
+sam-karénya, see abhisam-sarénya.
+sam-dris, sight :
+sam-drisi ring you are to be
+seen, V, 87, 63 stiryasya sam-
+drisah, ‘from the sight of the
+sun, II, 33, 1
+sam-misla, united, endowed with:
+sam-mislasah (c. Instr.), I, 64, 10;
+
+
+INDEX OF WORDS.
+
+
+521
+
+
+sam-mislah (c. Loc.), 1, 166, 11;
+(c. Instr.), VII, 56, 6.
+sam-rag, king :
+sam-rat, VII, 58, 4.
+sam-varana, the hidden place :
+sam-varanasya, X, 77, 6.
+sam-vak, colloquium :
+i267, 3".)
+sam-hita, strong:
+sam-hitam, I, 168, 6.
+sa-yaig, together with :
+sa-yuk, X, 168, 2.
+sa-ratham, on the same chariot :
+X, 168, 2.
+Sarayu, the river S.:
+sarayus, V, 53, 9°.
+saras, lake :
+sdramsi trini, VIII, 7, 107.
+Sarasvati, the river:
+(V, 52, 11)
+sarga, drove:
+sargam (gavam), V, 56, 5.
+sarva, whole :
+sarvaya (visa), I, 39, 5.
+sarva-tati, salus:
+sarva-tata, in health and wealth,
+(260.) — sarva-tata, together,
+VII, 57, 7-
+savana, libation :
+savanani, II, 34, 6; savane, in the
+Soma offering, VII, 59, 7.
+sa-vayas, of the same age:
+sa-vayasah, I, 165, 1.
+
+
+. Sask, to cling :
+
+
+saskata, I, 64, 12°.
+sas, to sleep:
+garah & sasatim-iva, as a lover
+(wakes) a sleeping maid, I,
+134, 3.
+sasahf, victorious :
+sasahiA, I, 171, 6.
+sasrivas, see sri.
+sasvar, in secret :
+VII, 59, 7°.
+sasvarta, secretly :
+VII, 58, 5.
+sah, to resist, to conquer :
+sahante (sahamsi sahasa), VI, 66,
+g; sahanti, VII, 56, 5; saha-
+manaya, VII, 46, 1; sahanta/,
+strong, V, 87, 5.
+saha, together with:
+I, 38,6; V, 53, 23 14’; sahé, VIII,
+¥, $31
+saha, strong:
+sahad, VIII, 20, 20.
+
+
+sahah-dia, giver of victory :
+sahad-das, I, 171, 5.
+sahas, strength :
+shhab, 11, 34, 75.N, 97,8 VIE,
+20,133; sahamsi sdhasa sdhante,
+VI, 66, 9; sahah sahasa (for
+Pada sahasa/) 4 namanti, VII,
+56, 191.
+sahasd-vat :
+sahasa-van, p. cxxii seq.
+sahasra, thousand :
+sahdsram, I, 167, 1 (tris); VII,
+
+
+46, 3.
+sahésra-bhrishri, thousand-edged :
+sahasra-bhrishtim, I, 85, 9.
+sahasrin, thousandfold :
+sahasrivam, I, 64, 153; V, 54,133
+sahasrinah, I, 167, 1.—sahasri,
+winning a thousand, VII, 58, 4.
+sahasriya, thousandfold :
+sahasriydsah, 1,168,2; sahasriyam,
+VII, 56, 14.
+sahasvat, strong:
+sahasvat, aloud, I, 6, 8.
+sahiyas, bravest :
+sahiyasah, I, 171, 6°.
+sdhuri, strong :
+sahuriA, VII, 58, 4.
+sa-hfiti, divided praise :
+sa-hiti, II, 33, 4.
+sahé, see saha.
+sikam, together:
+I, 37, 2°; 64,43; 166,13; V, 55,
+3 (bis); VI, 66, 2.
+sikam-iksh, growing up together :
+sdkam-tkshe, VII, 58, r.
+sa/bri, victor :
+sa/ha, VII, 56, 23.
+sati, conquest :
+sati/, 1, 168, 7'.—-satim, help, I,
+6, 10.
+sadh, to finish, to fulfil :
+sddhan, VI, 66, 7; sddhanta, I, 2, 7.
+sadharani, belonging to all:
+sadharanyd-iva, I, 167, 4°.
+sadhu-yd, kindly:
+I, 370, 2.
+sinu, ridge :
+sanunad pari (divas), V, 59, 73
+diva sanu, V, 60, 3.
+siman, song:
+sima-bhihs, X, 78, 5.
+sdma-vipra, clever in song:
+sima-vipram, V, 54, 14.
+saim-tapana, full of heat :
+sim-tapana/, VII, 59, 9.
+
+
+522 VEDIC
+
+
+HYMNS,
+
+
+sim-ragya, the being the universal
+ruler :
+sim-ragyena, VII, 46, 2’.
+siyaka, arrow:
+sdyakani, i1,:32,, 20,
+sdsahi, see sasahi.
+simha, lion :
+simhitb-iva, I, 64, 8; vrisha sim-
+had, (140.).
+sizk, to pour out:
+asi#tkan, I, 85, 11.
+sindhu, stream, river:
+sindhava/, I, 168, 8; V, 53, 7;
+VIII, 7, 53 X, 78,75 (X, 78,
+6'.)—sindhué, the Indus, V, 53,
+g's the. river, 1; 214.383
+sindhum, VIII, 20, 241; sindhau,
+VIII, 20, 25
+sindhu-matrz, pl., the sons of Sindhu,
+N. of the Maruts:
+sfindhu-matarah, X, 78, 6'; (I,
+
+
+_ 85, 3°35 168, 9"); (307)
+
+sim, particle :
+I, 37,6; 9.
+
+su, to press out, to pour out (Soma):
+suvana, dissyllabic, ert
+
+
+suvanath (indu-bhi4), VIII, 7,
+143 sunvaté, V, 60, 7; sun-
+vata, I, 2, 6; sutas, I, 86, 4;
+VII, 94, 43 sutah, .: 3,43 168,
+3; sutaéndm séminam, by 354,
+6.—See also suta.,
+
+si, well:
+
+I, 37,14; 38,6; V, 54,15; VIII,
+94, 33; X, 77, 43 VI, 74, 4;
+quickly, I, 165, 14; loud, VIII,
+20, 19; greatly, VIII, 7, 18;
+6 si, II, 34, 15; VII, 59, 5;
+VIII, 7, 33; més, VII, 59, 5;
+sahé si, VIII, 7, 32.
+
+su-a&, fleet :
+su-dvikah, VII, 56, 16.
+su-apas, clever :
+su-apah, I, 85,9; V, 60, 5.
+su- -apivata, implored, desired :
+su-apivata (Rudra), freely acces-
+sible, VII, 46, 31; (1, 165, 13°) ;
+see vat.
+su-dpnas, wealthy :
+su-apnasah, X, 78, I.
+su-arka, resounding with beautiful
+songs:
+
+su-arkafA/, I, 88, 14.
+
+su-dvas, gracious :
+
+su-avasam, V, 60, 13
+svavadbhiA, (I, 6, 3%.
+
+
+oe
+su-avan,
+
+
+su-dsva, possessed of good horses :
+su-asvah, V, 57, 2; VII, 56, 1.
+su-adhi, full of devotion :
+su-Adhy4id, X, 78, 1.
+su-ayudha, with good weapons :
+su-Ayudhads, V, 57, 2; su-dyu-
+dhdsas, V, 87,57; VII, 56, 11.
+su-ukta, hyma :
+su-ukténa, I, 171, 1; su-uktam,
+VII, 58, 6.
+
+
+* su-upayana :
+
+
+(VII, 46, 3%)
+su-krit, good deeds :
+su-krite, I, 166, 12.
+si-krita, well-made :
+st- kritam, I, 85,9; sa-kritad, I,
+134, 2.
+su-kshatrd, powerful :
+su-kshatrasah, I, 19, 5
+su-kshitf, dwelling in safety :
+su-kshitaye, VII, 56, 24.
+su-kha, easy :
+su-khéshu (ratheshu), V, 60, z.
+su-khadi, armed with beautiful
+rings:
+su-khadaye, (I, 64, 107); V, 87, |
+1; su-khadayaA, I, 87, 6
+su-ga, flowing freely :
+su-gah, I, 165, 8.—su-gam, to a
+good end, V, 54, 63 su-gam,
+welfare, I, 43, 6.
+su- gandhi, sweet-scented :
+sugandhim, VII, 59, 12.
+su-gopatama, having the
+guardians :
+su-gopatamaA, I, 86, 1°.
+su-Aandra, bright :
+su-kandram, II, 34, 13.
+su-ketti, kindness :
+su-ketiina, I, 166, 61.
+su-fetfina, gracious :
+su-et(inam (Soma), (I, 166, 61.)
+si-gata, well-born :
+si-gataya, V, 53, 123 si-gata, V,
+56, 9; su-gatdsab gio 2 V,
+57553 59; 6; VIII, 20, 8; su-
+gatab, I, 88, 33 166, 12% ; su-
+gatam, well-acquired, VII, 56,
+21.
+su-gihva, soft-tongued :
+su-gihvab, I, 166, 11.
+suta, the pressed juice (of Soma),
+‘libation :
+asya sutasya, VIII, 94, 63; suté
+sika, VII, 59, 3'; sutasad, I,
+165,43 sutinam, b ¥ 3s
+
+
+best
+
+
+INDEX OF
+
+
+WORDS. 523
+
+
+su-tash/a :
+=vibhva-tashta ? (V, 58, 41.)
+suta-soma, pouring out Soma:
+sutd-soma/, I, 167, 6; sut4-some
+ratha-vitau (Loc. abs.),V, 61, 18;
+suté-soma/, I, 2, 2
+su-damsas, powerful :
+su-damsasah, I, 85, 1
+su-dinu, bounteous giver:
+su-danavah, I, 39, 10; 172, 1;
+*2°3¢ VU, s9, 10; “Vill, 7,
+yard “2893 203 20, 43-5 St
+- ddnavad, I, 64, 6'; (113 seqq.);
+1, 85, 10; II, 34, 8? > V, 52,55
+53,6; 57,5; VIII, 20, 18; X,
+78,5; su-danuA, generous sacri-
+ficer, VI, 66, 5.
+su-dis, liberal giver :
+su-dise, V, 53, 2
+su-dina, always kind :
+su-dina, V, 60, 5.
+su-diti, flaming:
+suditi-bhi4, VIII, 20, 2.
+su-dagha, flowing with plenty :
+su- dagha, V, 60, 5.
+su-deva, beloved by the gods :
+su-devas, VS 635-46.
+su-dravizas :
+ep. of Aditi or Agni, (260.)
+su-dhanvan, carrying good bows :
+su- -dhanyanah, Wy BF 2
+st-dhita :
+sidhita- iva, well-aimed, I, 166, 6°
+st- dhita, well grasped, ty ons,
+3:
+su-nishké, decked with beautiful
+chains :
+su-nishkad/, VII, 56, rz.
+su-niti, good leader :
+su-nitayah, X, 78, 2.
+su-nrita, su-nrité :
+(I, 134, 17)
+su-pis, handsome:
+su-pisah, I, 64, 8
+su-putra, having good sons:
+su-putra (Aditi), (2545; 260.)
+su-pésas, well-adorned, brilliant :
+su-pésasam, II, 34,135; su-pésasa/,
+V, 57» 40
+su-praketa, brilliant hero:
+su-praketébhiA/, I, 171, 6.
+su-barhis, for whom we have pre-
+pared good altars:
+su-barhishad, VIII, 20, 25.
+su-bhaga, blessed, fortunate :
+su-bhagaA/, I, 86, 7; VIII, 20, 15;
+
+
+sana V, 56, 9; su-bhagasaA,
+V, 60,
+su- bhigé, beeea happy:
+su-bhagaA, I, 167, 7; su-bhagdn,
+X, 78,8.
+su-bhil, strong :
+su-bhvah, V, 55,33 59,33 87533
+su-bhvé, VI, 66, 3.
+si-makha, joyful, powerful :
+si-makhaya, I, 64,1; 165,11; sa-
+makhasaA, I, 85, 4; sa-makhaA,
+¥ oy, 9
+su-mati, skeen goodwill; prayer:
+su-matiA, E34; ee VIL, e9,.45
+59; 4; I, 114,95 (219 seq,); su-
+matim, [, Pio HY 894, 84
+sumati- bhié, VI » 57, 5.—su-ma-
+tim, prayer, I, 166, 617. (220
+seq.)
+su-manasyam§na, kind-hearted :
+su-manasyamana, VI, 74, 43 (435.)
+su-matr/, having a good mother:
+su-matarah/, X, 78, 6.
+su-maya, mighty :
+su-maya/, I, 88, 1; su-mayaA, I,
+167, 2
+su-maruta :
+su-marutam gavzam, the goodly host
+of the Maruts, X, 77, 14; 2.
+su-méka, firmly established :
+su-méke, VI, 66, 67; VII, 56, 17.
+sumna, favour :
+sumnam, V, 53, 9; VIII, 7, 15; I,
+43,43 114,9; 10; II, 33, 1; 6;
+sumna, I, 38, 3'; VIII, 20, 16;
+sumnébhi/, VII, 56, 17; sum-
+néshu, V, 53, 1.—(221.)
+sumna-yat, wishing for favour :
+sumna-yantah, VI I1,7,11.—sumna-
+yan, well-disposed, I, 114, 3.
+su- yama, well-broken (horses):
+su-yamebhiA, Vyoa6.%
+su-raza, delightful gift :
+su-ranani, V, 56, 8
+su-ratna, rich:
+su-ratnan, X, 78, 8.
+su-ratha, possessed of good chariots :
+su-rathas, V, 57, 2
+su-rati, full of blessings :
+su-ratayah, a, 85:30
+suvita, welfare, blessing :
+suvitdya, ty 168, £25 Vy SF 3, 59
+5 4} VIII, 7, 333 suvita, I,
+38 3's
+su-vira, with. valiant offspring :
+su-virah, V, 53,153 58, 4; su-viram,
+
+
+524 VEDIC
+
+
+HYMNS.
+
+
+I, 85, £25) VieShs PE oss 73
+su-vira, VII, 56, 5; su-vira4, II,
+soos
+su-virya, with plentiful offspring:
+su-viryasya (rayad), VII, 56, 15.
+su-vrikti, pure offering, prayer:
+su-vriktim, I, 64, 17; suvrikti-bhiA,
+I, 168, 1.
+su-vridh, well-grown:
+su-vridhad, V, 59, 5
+su-sami, zealously:
+su- sami = su-sdmi (susamyda), V
+87, 9".
+su-sarman, yielding the best pro-
+tection :
+su-sarmanah, X, 78, 2.
+su-sasti, praise :
+susast{-bhid, V, 53, 11.
+su-sipra, with beautiful cheeks ;
+su-siprah (Rudra), II, 33, 5; (iI,
+
+
+>
+
+
+34, 3°.
+su-stiikvan, brilliant :
+su-sikvanad, V, 87, 3
+su-séva, kind friend :
+su-sévau, VI, 74, 4
+susravah-tama, most glorious :
+susravas-taman, VIII, 20, 20.
+si-samskrita, well-fashioned :
+sti-samskritad, 1, 38, 12.
+sti-sadris, like one another:
+sa-sadrisah, V, 57, 4.
+su-sandris, beautiful to behold :
+su-sandrisah, X, 78, I.
+Su-séma, N. of a country:
+su-s6me, VIII, 7, 29'.—su-sdma, a
+sacrificial vessel, (VIII, 7, 29'.)
+Su-soma, N. of a river:
+(398 seq.)
+si-stuta, highly praised:
+st-stutas, I, 166, 7.
+su-stuti, praise :
+su-stuti4, VII, 58, 6;
+VIT, 58, 33 II, 33, 8.
+su-stibh, chanting beautifully:
+su-stibhad, X, 78, 4.
+su-hava, who readily hears our call :
+su- havah, 14, 335.5
+su-hastya, handy priest :
+_Su-hasty.h, I, 64, 1
+sii, to bring forth:
+_Asfita, I, 168, 9.
+st, f. “3 genetrix :
+svam, Loc., (V, 58, 7'.)
+sid :
+sisfidatha, you lead rightly, V,
+54) 7+
+
+
+su-stutim,
+
+
+sing, son :
+stindim, I, 64,12; 166, 2; VI, 66,
+r4 stindvad, I, 375 ro! : 85,1
+VIII, 20, 17.
+sfinrita :
+stinsita, glory, VII, 573 6.—siin-
+rita, dawn, I, 134, 1
+stra, sun: .
+stra fit-itah, X, I21, 6; sirad,
+(V, 59, 3°); stram, 1,'86, 5°;
+see svar.
+stiri, lord:
+stirayab, V, 52, 16; VIII, 94) 75
+X, 78, 6; ; stirth, VIL, 57, 73 suri-
+bhid, V, 52, 15'.
+strya, sun :
+sirya, naka, rofana, (50) 5 ; stryads
+na, V, 54,53 59, 3.3 X, 77, 33
+I, 43, 53 siiryam, VIII, 7¢38 5
+stiryasya-iva, V, 55533 43 stir-
+yasya #kshud, V, 59, 53 sur-
+yasya sam- -drssab, II, $3585
+siiryaya, VIII, 7, 85 stirye tt-
+ite, V, 54, 10; suryad-iva, I,
+64, 2.
+stirya-tvak, with sun-bright skin:
+sirya-tvakas, VII, 59, 11.
+Sarya, Sarya (the Dawn):
+,surya-iva, 1, 267, 5
+stiryamasa, sun and moon:
+VIII, 94, 2
+sri, to run, to flow:
+sasruA, V, 53, 2'; sasrashiA, I, 86,
+5°; sisratah, V, 54, 10.—pra sas-
+ru/, they went forth, V, 53, 7.
+srig, to let loose, to send forth :
+srigami, I, T9, 93 fly I, 395
+to; sriganti, VIII, 7, 8; asri-
+kshata, V, 62, 62 Asargi, I, 38,
+8.—Ava-srishtA divas, sent from
+heaven, VII, 46, 3.—vi sriganti,
+V, 53, 6.
+sripra-danu, possessed of flowing
+rain :
+sripra-danti, (115.)
+séna, army:
+sénab (of Rudra), II, 33, 11°.
+sena-ni, ep. of Rudra:
+(II, 33, 11°.)
+sO:
+ava syatam, tear away, VI, 74, 3.
+—See pra-sita.—vi syanti, they
+rush forth, I, 85, 5
+Sébhari :
+(VIII, 20, 27); sébharizaim, VIII,
+20, 8; sobhare, VIII, 20, 19.
+
+
+?
+
+
+ies ian
+
+
+:
+a
+x
+
+
+INDEX OF WORDS.
+
+
+525
+
+
+Sobhari-yt, friend of the Sobharis :
+sobhari-yavads, VIII, 20, 2”.
+s6ma, Soma:
+sédmah sutds, I, 86, 4; VIII, 94,
+4'; soma, I, 43, 7; 8'; 9 (bis);
+Somaand Rudra, (435); s6mam,
+V, 60, 8; sdmasya, I, 85, 10;
+87, 53 134, 13 asya sémasya
+pitaye, VIII, 94, 10 to 12; sé-
+mah, X, 78,2; I, 2,13 sdma-
+sab, I, 168, 3'; sémanam, I,
+134, 6.—See vrishan.
+soma-paribadh :
+soma-paribadhaA, read soma, pari-
+badhaJ, I, 43, 8'.
+séma-piti, Soma-drinking :
+séma-pitaye, VIII, 94, 3; 93 I,
+4, 3.
+soma-pitha :
+(1, 19, oe
+somarudra, Soma and Rudra:
+sémarudra, °au, VI, 74, 1 to 4.
+somya, of Soma:
+somy4m madhu, I, 19, 9; somyé
+madhau, VII, s9, 6.
+saudhanvana, Ribhu:
+saudhanvaniasaA, {1, 6, 4°.)
+saibhaga, delight, happiness :
+saibhagam, V, 53, 13; satibha-
+gaya, V, 60, 5; saavhaga, I, 38,
+a
+sausravasa, glory:
+sausravasani, VI, 74, 2.
+Sauhotra :
+Purumi//a Sauhotra, (362.)
+skand, to spring:
+ati skandanti, they spring over, V,
+52, 3.
+skambh :
+prati-skabhe, to withstand, I, 39,
+2.
+skambha-deshva, whose gifts are
+firm :
+skambha-deshzaA, I, 166, 7.
+stan, to thunder :
+stanayantam, I, 64, 6*; stanayan,
+X, 168, 1.
+stanayat-ama,
+strength:
+stanayat-amas/, V, 54, 3.
+stabh :
+stabhitam, established, X, 121, 5;
+tastabhané, standing firm, X,
+121, 6.—vi rédasi tastabhdiA,
+they hold heaven and earth
+asunder, VIII, 94, 11.
+
+
+having thundering
+
+
+stu, to praise :
+stusbhé; V,. 58, 2°3: VI, 7, 32;
+astoshi, X, 77, 13 stuhi, V, 53,
+3; stuhi, V, 53, 165 II, 33, 11;
+stuvaté, VIII, 7, 353 stuvatad,
+V, 53, 16; stavanas, II, 33, 11;
+staunas, not stavanas, (VI, 66,
+5); stutad, I, 171, 33 I, 33, 12;
+stutasya, VII, 56, 15; stutd&,
+V, 52,143 Stutdsad, I, 171, 3;
+VII, 57,6; 73 pa stuhi, praise,
+VIII, 20, 14.
+stubh, to rush:
+stobhati (vah prati), astobhayat,
+I, 88, 6; (178); to shout, (V,
+52, 12'); to praise, p. xcvi.—
+prati stobhanti, (streams) gush
+forth, I, 168, 8.
+stubh, to stamp:
+in tri-stabh, (VIII, 7, 1’); p.xcvi.
+str?, star:
+stri-bhi4, I, 87, 113 166, 11; II,
+
+
+34, 2.
+stena, thief:
+Sayama, staund =stena, (VI, 66, 5°.)
+stotrz, praiser : :
+stota, I, 38, 43 stotrin, X, 78, 8;
+stotrzbhyaA, II, 34, 7.
+stotra, praise :
+stotrasya, V, 55,9; X, 78, 8.
+stobhagrantha :
+(V, 52, 12°.)
+st6ma, praise, hymn:
+st6ma, brahman, uktha, (I, 165,
+a*)s. stOmad,: 1, 165,253.15;
+466,. 153 167; 12; 7RGR, 30;
+171, 2; st6mam, V, 52, 43; 60,
+13; 61,173; VIII, 7, 93 st6man,
+I, 114, 9; st6émaid, V, 56, 5';
+VIII, 7, 17; st6mebhi/, VIII,
+7,213 II, 33, 5%
+st6ma-vahas, offering hymns of
+praise :
+(40.)
+stauna, unkind (?):
+staunas, VI, 66, 5'.
+stri, woman:
+tva stri, V, 61, 6; (360.)
+stryambika :
+derivation of Tryambaka, (VII,
+59,.12°.)
+sthavira, strong:
+sthavira/, I, 171, 5.
+stha, to stand:
+tish¢fat, VIII, 20, 4; frdhva
+tishtAatu, I, 134, 17; tasthau,
+
+
+526 VEDIC
+
+
+HYMNS.
+
+
+I, 64,9; V, 56, 8; VI, 66, 6.—
+pra ati tasthaf, he surpasses, I,
+64, 13.—ma Apa sthata, do not
+stay away, VIII, 20, 1’,—ma
+ava sthata, do not go away, V,
+53, 8.—a tasthtd, they stepped
+to (Acc.), I, 85, 73 V, 60, 2; a
+ratheshu tasthtshaA, V, $3)" 3;
+a asthapayanta, they placed, I,
+167, 6.—Ut tishtha, arise, V, 56,
+5.—pari sthuA, they surrounded,
+367,93 pie tasthtishab,
+standing around, I, 6, 17; ma
+pari sthat, let not prevent, V,
+53, 9.—Vvi ‘peer e, they have
+spread, VIII, 7, 8; 36.
+sthis-rasman, with firm reins :
+sth&b-rasmanah, V, 87,5
+sthata :
+sthatid aratham, what stands
+and moves, pp. Ixxii seqq.
+sthatri, charioteer :
+sthatarah, V, 87, 6 -—sthatrin, for
+sthatth, p. Ixxiii; sthatGs gdaga-
+tah, p. Ixxiv.
+sthira, strong, firm :
+sthirdm, I, 37, 93 39) 33 64, 153
+sthird (Rodasi), I, 167, 7; sthird,
+I, 39, 2; VIII, 20, exes Vi,
+56, 73 II, 33, 147; sthiri, I,
+38, 12; sthirasya, V, 52, 2;
+sthirébhid, II, 33, 9
+sthira-dhanvan, whose bow is strong:
+Rudra, (II, 33, 147); sthira-dhan-
+vane, VII, 46, 1.
+snu, ridge :
+snt- bhi, V, 60, 7; 87, 4; Adhi
+snfina divas, VIII, “Pay ae 2
+sanu.
+spat, truly:
+V, 59,1
+sparas, help:
+sparase, VIII, 20, 8.
+spas, to bind:
+(1, 166, 8'.)
+spas, spy:
+spat, (V, 59, 1°.)
+sparha, brilliant :
+sparhé, VII, 56, 21; pa
+VII, 58, 3; sparhdni, VII, 59, 6
+sparha-vira, of excellent men :
+sparha-viram, V, 54, 14.
+spri, see sparas,
+spridh, to strive:
+aspridhran (c. Dat.), VI, 66, 11;
+VII, 56, 3.
+
+
+spridh, ere &
+spridhah, V, 55, 6
+sma, particle :
+hi sma, smdasi sma, I, 37, 15;
+uta sma, V, 52, 8; 9; yush- _
+mikam sma, V, 53, 5; ddha
+sma, V, 54, 6; VI, 66,6; VII,
+56, 22; iha sma, V, 56, 7 : nahi
+sma, VIII, 7, 21.
+smat, together :
+V, 87, 8; VIII, 20, 18.
+smi, to smile:
+Ava smayanta, they smiled upon
+(Loc.), I, 168, 8.
+syand, to haste :
+syannas, V, 53, 7.
+syandana, carriage :
+(V, 87, 3°.)
+syandra, rushing :
+syandras, V, 52, 8; syandrdsah,
+V, 52, 3; the rushing chariots,
+V, 87, 3”
+srag, garland :
+sraksh, V, 53, 4.
+sridh, to fail, to miss :
+na sredhati, V, 54, 7; dsredhantaA,
+VII, 59, 6
+sridh, enemy
+sridha/, VIII, 94, 7
+sva, one’s own:
+svam, V, 58, 73; 59, 15 svam
+ékab, VII, 56, a4’; svéna, I,
+165, 8 ; svaya (matya), V, 58,
+5; svat, from his own place, V,
+87, 4
+svah, see eon
+svah-dris, seeing the sun:
+svah-drik, VII, 58, 2”.
+svah-nri, man of Svar:
+svah-narah, V, 54, 10.
+svah-vat, heavenly, splendid :
+svah-vati, splendid, I, 168, 7;
+heavenly Aditi, (260.)
+sva-kshatra, strong :
+sva-kshatrebhif, I, 165, 57.
+sva-ga, self-born >
+sva-gih, I, 168, 2.
+svasig, to embrace :
+(235, note *.)
+sva-tavas, strong in themselves :
+sva-tavasah, (I, 64, 44; 165, 5’);
+I, 64, 7°; 85,73 166,23; 168,
+2; sva-tavasah, VII, 59, 113
+sva-tavase, VI, 66, 9; svata-
+vadbhiA, (1, 6, 3°.)
+
+
+Be ae
+
+
+ay
+4
+
+id
+&
+
+
+INDEX OF
+
+
+WORDS.
+
+
+527
+
+
+svadha, custom, é6os, Sitte:
+
+(32 seqq.); svadha, I, 165, 6;
+svadham anu, according to their
+wont, I, 6, 47; 88,6; 165, 5;
+b. xvi VIE, 56,133 VIET, '30; 7;
+(V, 54, 5'.)—svadhayA, by itself,
+sponte suf, 34 seq.; by them-
+selves, I, 64, 4*; svadhabhiA,
+themselves, V, 60, 4’.
+
+svadhia, food:
+
+(35 seq.); svadhim, I, 168, 97;
+svadha, sacrificial term, (36.)
+
+svadha-van, self-dependent :
+
+svadhd-vne, VII, 46, 1%.
+
+svadhiti, axe :
+
+(I, 88, 21; 166, 6°); svadhitiva, p.
+
+cxvii.
+svadhiti-vat, holding the axe:
+
+svadhiti-van, I, 88, 2'; (171.)
+
+svana, shouting :
+
+svanah, V, 87, 53 svanit, I, 38,
+
+- 103 svané, V, 60, 3.
+
+svap, to tear, to pull (?):
+(I, 166, 10%.)
+svapt, beak :
+
+sva-pbhis, VII, 56, 3'; (1, 166,
+
+to4,
+sva-bhanu, self-luminous :
+
+sva-bhanavah, I, 37,2; V,53, 43
+VIII, 20, 4; (I, 64, 4*) ; sva-
+bhanave, V, 54, 1.
+
+sva-yata, self-guided :
+
+sva-yatasas, I, 166, 4.
+
+svayam, self :
+
+(V, 60, 41); themselves, I, 87, 3;
+VII, 56, 11; yourselves, V, 55,
+a$: SY, 2.
+
+sva-yasas, famous :
+
+sva-yasasah, X, 77, 5.
+
+sva-yukta, of one’s own accord :
+
+sva-yuktah, I, 168, 4.
+
+sva-ylig, self-harnessed :
+
+sva-ylgah (vdtasah), X, 78, 2;
+(I, 168, 5°.)
+
+svar, ether :
+
+svah, X, 121, 57; light, I, 168, 2’;
+sky, V, 54, 15; stra, of the
+sun, VIII, 7, 36.
+
+sva-rag, sovereign :
+
+sva-ragah, V, 58, 13 sva-ragah,
+
+of the lord (Soma), VIII, 94,
+
+
+svaritri, singer :
+svaritarah, I, 166, 11.
+
+sva-rofis, self-luminous :
+sva-rokisha/, V, 87, 5.
+
+
+svarga, heaven:
+(X, 121, 5%)
+svarya, heavenly:
+4smanam svaryam, V, 56, 4”.
+svavas, see su-dvas.
+sva-vidyut, with their own lightning :
+sva-vidyutah, V, 87, 3.
+sva-vrikti:
+(I, 64, :1°3
+sva-sokis, self-shining : -
+sva-sokih (Rodasi), VI, 66, 6.
+svasara, nest, fold:
+svasarani, II, 34, 5; svdsareshu,
+IT, 34, 8.
+sva-srit, going, moving by them-
+selves :
+sva-srit, I, 87, 43; sva-srita/, (I,
+64, 4°; 7°); I, 64, 11.
+svasti, favour :
+svasti-bhi4, V, 53, 14; VII, 56,
+253; 57,73 58,6; 46, 4; svasti,
+happily, IT, 33, 3.
+svad, sweet :
+svadéh_ sviadiyas,
+sweet, I, 114, 6.
+svana, rattling:
+svanébhiA, VIII, 7, 17.
+svanin, noisy, turbulent :
+svaninam, (1, 64, 127.)
+svaha, hail to you!
+VII, 59, 6.
+svit :
+kva svit, I, 168, 6; X, 168, 3.
+svri, to sound, to roar:
+svaranti, V, 54, 2; 123 Asvaran,
+V, 54, 8; sasvah, I, 88, 5.
+svéda, sweat:
+svédasya, I, 86, 8; varshdm
+svédam 4akrire, they have
+changed their sweat into rain,
+V, 58, 7.
+
+
+sweeter than
+
+
+ha, particle :
+yat ha, I, 37, 123 133 39,33 85,73
+87, 3; 88,53 VIII, 7, 115 21;
+I, 134, 2; kat ha nfinam, I, 38,
+13; VIII, 7, 31; kam ha, I, 39, 1;
+kad ha, V, 59, 43 ydyam ha, V,
+59> 4+
+hamsa, swan:
+hamsiasah, II, 34, 5; VII, 59, 7.
+han, to kill, to strike:
+hanti, VII, 58, 4; hantana, VII,
+59, 8; hamsi, II, 33, 15; ahan,
+I, 85, 9; hanyate, V, 54, 7;
+ganghananta, I, 88, 2; gigham-
+
+
+528 VEDIC
+
+
+HYMNS.
+
+
+sasi, I, 170, 2.—abhi gighamsati,
+he tries to hurt us, VII, 59, 8.—
+ava hantana, strike down, II, 34,
+9.—uat gighnante, they stir up, I,
+64, 11.—para hatha, you over-
+throw, I, 39, 3; para-hata, stag-
+gering, V, 56, 3'.—s4m hananta,
+they fight together for (Loc.),
+VII, 56, 22.
+hanu, jaw:
+hanva-iva, I, 168, 5).
+hanman, bolt:
+hanmana, VII, 59, 8}.
+hayé, hark!
+Vi Sy Bs: 58, Bh
+hari, bay:
+hari, the two bays (of Indra), I,
+6,2; 165,43; hari vrishama, the
+bay stallions, (139); sapti hari,
+(1, 85, 1'); hari (of the Maruts),
+, 56, 6.—hari with synizesis,
+p. Cxxiii,
+hari-vat, with bay-horses :
+hari-va/, I, 165, 3; 167, 1.
+hari-sipra, golden-jawed (or -hel-
+meted) :
+(II, 34, 3°.)
+harmusa:
+(217, note .)
+harmya, fire-pit, hearth, house:
+(218 seqq.)—harmya, living in
+houses, I, 166, 4°.
+harmye-stha :
+harmye-stha4, standing by the
+es (217); VII, 56, 16.
+hary, to be pleased with (Acc. VE
+haryata, V, 54, 15.—prati haryate,
+it is acceptable, V, 57, 1; prati
+haryanti, they yearn for me, I,
+165, 4.
+haryata, delicious:
+(147 seq.)
+hava, call:
+havam, I, 86,2; V, 87,8; 9; VIII,
+7.92 Rig, £26958,
+havana, invocation:
+havanani, V, 56, 2.
+havana-srat, mindful of invocations :
+havana-srit, II, 33, 157.
+havas, call, prayer:
+havasa, 1, 64, 127; VI, 66, rr.
+havid-krit, sacrificer :
+havid-kritam, I, 166, 2.
+havishmat, carrying oblations :
+havishman, 1, 167, 6;  havish-
+mantah, X, 77, 1; 1, 114, 8.
+
+
+havis, sacrifice :
+havi, VII, 59,-9; I, 114, 3;
+havisha, “S 121, 1to9g; I, aa
+X, 168, 4} havishad, V, 60, 6
+havimshi, I, 170, 5; VII, 57, 6
+havis-bhib, 11, $35 6
+haviman, invocation :
+haviman, VII, 56, 15;
+bhid, II, 33, 5.
+havya, called to assist :
+havya/, VIII, 20, 201.
+havy4, offering, libation :
+havya, I, r71, 4; VII, 56, 123 59,
+5: VIII, 20,9; 103; 16.
+havy4-dati, offering :
+havya-datim, V, 55, ro.
+has, to laugh:
+gaksh from has, (284.)
+hasta, hand:
+hastah (bheshagab galashad), II,
+33, 7'3 haste bibhrat bheshagi,
+I, 114, 5; hastayoA, I, 38, 1;
+hasteshu, I, 37, 3; 168, 3.
+hastin, elephant :
+hastina/, I, 64, 7?
+ha, to flee:
+gihita, I, 37, 71; dyath gthite
+brihat, the sky makes wide
+room, VIII, 20, 6.—apa aha-
+sata, ft ahasata, (VIII, 7, 2.)—
+ni gihate, they bend down, V,
+87, 3<. 60, 33 VRE Fae
+ahasata, they have gone down,
+VIII, 7, 2'.—pra gihite, flies out
+of your way, I, 166, 57.
+ha, to forsake, to leave behind:
+Agahatana, VIII, 7, 31; hitva, V,
+53, 14.
+haridra, yellow:
+
+
+havima-
+
+
+(232.)
+hi, indeed, truly, for...:
+kit hi, VII, 59,7; hikam, VII,59, 5;
+vidma hf, I, 170, 3; VIII, 20, 3.
+hi, to prepare :
+hinomi, VII, 56, 12.
+hims, to hurt :
+ma nah himsit, X, 121, 9.
+hita, friend:
+hit&/-iva, I, 166, 3; hita, kind,=
+si-dhita, (225.)
+hinv, to rouse:
+hinvantu, II, 34, 12.
+himavat, the snowy mountain :
+himavantas, X, 121, 43 (p. 4.)
+hima, winter :
+satam hima, during a hundred |
+
+
+INDEX OF WORDS.
+
+
+929
+
+
+winters, I, 64,143 V, 54, 153
+IT, 33, 2.
+hiranya, gold :
+hiramyam-iva, I, 43, 5; hfrazyaih,
+with golden ornaments, V, 60,
+43 Il, 33,9.
+Hiranya-garbha, the Golden Child:
+hiravya-garbha/, X, 121, 1'; (p. 3
+seq.; 6.)
+hiramya-kakra, on golden wheels :
+hiramya-sakran, I, 88, 5.
+hiramya-nirnig, gold-adorned :
+hiramya-nirnik, I, 167, 3.
+hiranya-pani, golden-hoofed :
+hirazyapani-bhi/, VIII, 7, 27; (I,
+oe te.)
+hiramyaya, golden :
+hiranyayebhiA, I, 64, 11 3 hiranya-
+yam (vagram), I, 85, 9; hiraz-
+yayid, V, 54, 113 VIII, 7, 25;
+hiramyayan (atkin), V, 55, 6;
+hirazyaya/, golden-coloured, V,
+87, 53; hirazyd4yasab, golden
+(chariots), VI, 66, 2'; hirazyaye
+kése, VIII, 20, 8%.
+hiramya-ratha, on golden chariots :
+hiramya-rathah, V, 57, 1.
+hiranya-varna, golden-coloured :
+hirazya-varzan, II, 34, 11.
+hirazya-vasi, armed with golden
+daggers :
+hiranya-vasibhis, VIII, 7, 32.
+hfrazya-sipra, golden-jawed :
+hiranya-siprah/, I1, 34, 3°.
+hiri-sipra, golden-jawed (or -hel-
+meted) :
+(II, 34, 3°.)
+hid, to hate :
+gihi/iré, VII, 58, 5; hi/itasya,
+furious, VII, 46, 4.
+hu, to sacrifice :
+guhumas/ (c. Gen.), X, 121, 10;
+guhavama te haviA, I, 114, 3.
+
+
+(32]
+
+
+hri, to be angry:
+atha na hrinishé, II, 33, 15.
+hrid, heart :
+hridd, I, 171, 23 V, 56, 23; vas-
+yasa hridd, VIII, 20, 18; hridé,
+I, 43, 13; X, 186, 13; hrit-sé, I,
+168, 3.
+hé/as, anger :
+hé/ad, I, 171, 13 114, 4.
+heti, weapon :
+hetis, Il, 33, 14; hetayad, pp.
+xIvili; 1.
+hétri, caller :
+hétrishu, VIII, 20, 201.
+hétri, the Hotri priest :
+héta, VII, 56, 18; VIII, 94, 6';
+pa#ka hétrin, II, 34, 143 hétr-
+shu, (VIII, 20, 20%.)
+hraduni-vrit, whirling the hail:
+hraduni-vritah, V, 54, 3-
+hru, to injure:
+vi hruzati, he can injure, I, 166,
+12; (I, 166, 8'.)
+hvri, or hvar, to overthrow:
+guhuranta, I, 43, 8; hruand hvar,
+(I, 166, 8'.)
+hve, to call, to invoke:
+havamahe, II, 34, 11; VIII, 7, 6;
+es 4. 414. 8s vase, 5, 50,
+5; huve, VIII, 94, 10 to 12; I,
+2, 7; havate, VII, §6, 18;
+havate, he is invoked (?), II, 33,
+51; vipram havamanam, VIII,
+7, 30.—Anu hvaya, call after, V,
+53, 16.—Ava hvaye, I call down,
+V, 56, 1.—a huvamahe, we call
+towards us, V, 56, 8; 4 huve,
+V, 56, 9; VII, 56, 10; a go-
+haviti, he calls again and again,
+VII, 56, 18.—ni hvayamahe, we
+call down, I, 114, 43 5.—pra
+hfiyase, thou art called forth, I,
+19, I.
+
+
+{I.
+
+
+Lisl: OF
+
+
+THE MORE IMPORTANT PASSAGES
+QUOTED
+
+
+IN THE. PREFACE AND IN IHE NOSES
+
+
+J e e e © ° e
+
+
+RIG-VEDA.
+
+PAGE
+
+221 I, 38, 14
+XXxix seqq. 39,9.
+Ig! 43,2.
+19, 21 43, 6.
+76 44, 8.
+140 44, 13
+236 a6, 1.
+28 47) 4-
+39 47,8.
+5° 48, II
+24 48, 16
+143 49,1.
+270 49, 4-
+304 594.
+264 51, II
+50 51, 12
+158 52,4.
+188 54, 2.
+200 547 -
+187 54,8.
+253 55,1.
+163 55. 3-
+284 5594+
+255 5555.
+264 57,6.
+239, 258 58,5.
+237 59, 1-
+214 60,5.
+104 61, 12
+236 61, 14
+84 61, 16
+23 62, 10
+238 62, 13
+298 64,4.
+144 65-70
+269 68,1.
+271, 284 7o, 4.
+187 79, 4-
+415 71,7-
+252 74,5.
+152 93, Gs
+152 73, 9.
+68 72,10
+
+
+139, 143
+
+
+lxxiii
+
+207
+
+125
+
+182, 222
+125
+
+125
+
+QI, 205
+
+125
+
+34
+
+xlvii, note P
+]xxiii
+
+xxiii
+Ixxiiseqq., 119
+61
+
+78
+
+xxiii
+
+255
+
+o4
+
+
+LIST OF IMPORTANT PASSAGES. 531
+
+
+PAGE PAGE
+PA Fo? Pa eet egies 3 2 Pe be hs Ea ran 2 |
+es O(7) >. 5... 280 Pid 6 oe 1s
+TAGs 6 4 se BGS 114, 3 wa oan
+ee ae eee ee NiG4 4 ts w Oat
+Pega 6 wa cs (806 I14, 5 PN 2
+Sees es Se GIG FIG Gs ee ISR
+90,22 «ss. 89 S504. es 2 2S
+Oe 5. SY gS 706 3, . £40
+eee cf 268 $50, 9G Se 88
+Se ee eee tf: 550, 46. 6
+WE 46 Gi. e398 S10, 46 as 1
+Wee ee 4g ss 966 WIG, 98 | 3 403
+wae at 16s Ay, 8 4. ss ee EOD
+LS ee cae |. S27, 82 ae Se)
+Oe 2 es tgs BIT, St 4s 6 sO
+a RO 30 6 ss a 36
+ees 3. ee eS AGS ite GS
+epee ee, 268 ot ee
+Peete ke $56, 10 5... FOR
+Se PO eee me {yj eS es See ee remie ©
+On Os es 5 3 IGT hak, 05 0 ae
+Mita 5 4. Fae $94, 3
+Pe 2 ta ey Pe So | efai Fee ey 248
+See ny 2... 4 5. 25, 26 eT ee ee are © 3.4
+ae ee ee ee 24, OO 127, 3 102
+Fay fae eon fy | a7, 4 - 224
+Mii pe 45s 4 107 127, 6 68
+Was ge 6 AIS 127, II - are
+Mes. 6s 5 a0 128,2 . 202, 437
+ee ere ye ree 4.4. 138, 4 <4 eee 8
+Se os er eae ae 128, 5 229
+O4,725 +. + » 259, 260 129, 3 A 142
+Ba, 20 i ya! 240 $490.84 42
+wea. ee ee 129,8 . : 158
+et ee FR 96, 3% 65
+00, 25.4.5. °° 5-200 130,79 (a 3. 4 FAO
+Rey eee Ge Oe 533;4 69
+tet yc i Ie 33,84 226
+Ors tas 4s SUL 134, 3 47
+Se Se teres 134, 5 CXXli
+wee, 6 a... 14s 436, %: 5 238
+Wet 33s ss 4399 138, 4 206
+BOGS eo 6 4 182 139, I 69
+SOGee 6s 4c. ¥Q3 139, 2 265
+STG See wk 843 539, 7 =. 206
+PGs tes 3 ESS AG, 0 <*, 141
+BOG, 39455. . + +38 140,1%. . 225
+ae Ce ets FS 149,43 % 187
+SFG 9 02h, 6 08 R46s'3 . ai2
+See 4s 5 oo a8 4G, » 50°
+SSS ES yaw 6 SOS 548, 4 & coe yf
+R08 4. ss 206 Retey a 221
+BS S34. os 95 394,23 4. 265
+Beet. «S549 $53, 3 (os 3 259
+eee, 28 ods es O83 BSG, S$ 4 ck ss TKS
+
+
+532 VEDIC HYMNS.
+PAGE PAGE
+
+I, 154, 4 36  s0t, 6 | 249
+154, 5 403 191,7 » 266
+155, 4 52 191,9 - 28
+155) 5 264 gt, 15. 231
+156, 3 220 ii, 8,3 189
+156, 4 134, 441 oR. 68
+157; 3 192 i; 6. 68
+157, 4 188 43 122
+159, 3 Ixxiv a Ss 18
+159, 5 219 3,8. 33
+160, 3 38 3, 42 185
+161, I! 1xxx 285 253
+161, 14 62 a 207
+162, 22 258 6,3. 165
+163, 3 237 8,3. 237
+164, 30 35 10, 2 19
+165 xii seqq. ees 47
+165, 1 186 it,4 147
+165, 5 32 II, 12 47
+165, 6 34 12, 10 199
+165, 13 437 15, 8 93
+166, 5 75 16, 2 266
+166, Io 133, 173, 196 16, 3 62, 309
+166, I1 160 16, 6 150
+167, 3 186, 225, 443 16, 8 141
+167, 4 186 17,4 39
+167, 6 164, 204 18,5 ciii
+168, 3 230 20, 4 345
+168, 6 86, 162 et. 2 148
+168, 8 178 a1,:3 41
+169, I 268 43,3 122
+169, 3 185 23,3 104
+169, 6 196 23, 8 226
+169, 7 196 at-10 . 271
+169, 8 222 23,14 104
+17%, 4 220 24, 1 189
+173, 3 275 24,12. 237, 266
+173, 3 189 26,1 271
+174, 8 175 27,7 254
+£75, 43 142 27,9 51
+19955 139 27,10. 225
+177, 2 140 27,14 - 259
+1943 150 28,6 « 187
+179, 1 I4I 28, 8 238
+180, 5 309 30, 2 223
+180, 6 35 30, II 67
+181, 5 Ixvii OBS 172
+181, 8 142 $1.2 93
+184, I 41 Cee Bs 166, 271
+185, 3 240, 259 33,4 = 287
+186, 5 140 33,13. 193
+186, 10 349 34,2 . 144
+189, 2 193 34, 15 220
+189, 6 229 35, 8 207
+190, 6 105 37,3 39
+
+
+LIST OF IMPORTANT PASSAGES. 533
+
+
+PAGE PAGE
+14, a Bs 8 e999 EE Pee ee ree
+SF he ss O97 44,4 - + « « 50
+Seg hts ws 6492 S053 «4 eS O5RS
+004 0% 3. oe 298 86, 8 ie so CE
+te es 8 OOS Sia. 4s
+OE? aed a ae ee tae & Pee,” S58 0S 4 fe RF
+ee 2. . 204 S4,56.°>% « . age
+SAGs. . . 6172 54,3033. «ae
+att... . 140 8 3205. 4 A080
+Oe ee merge {<7 | S55 131 ok
+8 i 5 e339 EG eat to ES
+ae Sl 6880 57, 6 220
+4,7 36 60, 3 36
+4, 11 254 61,1 442
+Be a a ae Si, 5 %.: «x - 40, 38
+Oe. 6-45, 6 30 OF, 735,56. Bae
+Se ree ere IM, Sg is.  .  ERKViil, 32
+6, 8 49 I, 4 38
+7% 25 I, 20 262
+8, 3 155 a, 2 256
+11, 8 226 5 261
+13,6. 193 4,7 114
+ee ae 310 6,7 225
+15,1. 310 6,9 19, 25
+£5, 3° 17 ‘6, 10
+17,3 - 194 755 253
+18,2. 270 12, 4 258
+18,4. 194 12,5 193
+19,4 + 69 13,5 33
+26,1 3 41 oes Sea 197
+32,3 . 50 re. 0, 22, 26
+S352. 224 16, 19 119
+24; 2%. 155 16, 20 143
+26, 4 163 18, 9 265
+26, 5 122 18, 11 133
+26, 6 299 19, 2 22.3
+27,9 247 19, 3 224
+27,15 144 19, 4 IO1
+29, 2 224 a1, 6 41
+29,9 149 22,2 315
+BO tGs . «kf 166 9407) i ee a
+Sere i>... > . 266 ye are ©
+SG, 507... ... 2237, 248 a6. 750. 5s , Bae
+teed oe. kw OS A Ae ae eee emee e
+2, 362°... «shel SO at eae
+23; 9% 27 30, 3 267
+32,4 69 30, 10 145
+32,7 95 30, 23 201
+32, 8 237 33, 6 33
+33, 6 223 375 4 372
+33, 8 206 39; 3 263
+35; 2 214 41, 6 : I4I
+35, 10 34 435 4 268
+40, 7 121 43, 6 26
+
+
+VEDIC HYMNS.
+
+
+173
+57, 187, 131
+34
+
+
+VI,
+
+
+LIST OF IMPORTANT PASSAGES. 535
+
+
+PAGE PAGE
+S65 Fo gin ee 9 Vio4i,22 >: = AG
+OS ee ee 108 Wh Varin: ase 5Oe
+US ee eae rarenn $9 90 10 ce 0 ES
+Te era 8’, Mi he es
+a4.0 2. 6 432 3,4 ; < 410
+oe Ge 5 207 ce bee —. FOT
+4 2. 205 Pe ee . 202, 437
+a Ge 270 4, 6 ee
+29, 2 186 Ar ae Ae
+29, 3 187 Pa eee re
+30, 3 223 $53 «+ > +
+SS Ae Ser 42 ee See eee
+Ct ee Greer ay 8! tetas i ae
+33, 3 225 De oer ries. FL
+34, 3 192 CS ee eee S.,.
+36, 5 . 96 1655... 48
+36,1; 40 SR 4 6+ SSE
+40,4. 188 8). 4. ahs
+44, 14 100 18,9. : 265
+45, 22 192 20, 4- 186
+47, 24 102 22,3- + 303
+48, 18, 26 24,1 . 96
+49, 2 21, 26 24,4+ < 149
+49, 3 22 25, 2 271
+50, 2 248 31, 10 221
+50, 4 378 32,13 - + - 225, 264
+50, 5 186, 274 $908. ST
+50,7 - Ixxiv, 194 aa, $7 5 7 3 ok
+50, 13 115 49
+eee 244, 249 35) 4- - 192
+51, 14 158 35,6. . - + 193, 244
+52,9 - 77 35, 5- => ~5 393
+“4, 59 189 a6, 05 2 So. Ot
+54,9 - 239 Ce ere ere
+57,3 > 39 40,45. «+ « = a5
+57,5. 208 8.450 eae
+58, 3 - 61 Pe eee reer [7
+61,6. 223, 442 PO re.
+61, II 52 46,3. - - - 202
+61, 13 48, 61 47) 3 34
+62,4. ey 46,3403 61
+62,6. 7 356 Ct Oe Oe 257
+62, Io 269 BROG os toe eae
+63,6. 162, 172 ea ace eee
+63.3.. = EEG Pree iG erg Or
+4.3.5 ts 197 6,5). =.
+O44. «2+ 40 6, tt". 3. = 2239
+PO ee Ph eee ee SS
+aa a OG, 50 6 2 age
+6,8 4s 377 56,2i . + +» 240, 241
+O65. «ss 896 OG 4. 51 ys 197
+Wa Pe a OF 4... tor
+Oe 4s Oe 60,45 <>. < 433
+Oe. £0) ss ESS 60,6. . . . 202, 437
+
+
+7h ae 60,9 seq. - - 146
+
+
+VEDIC HYMNS.
+
+
+223
+#590 259
+Ixviii seq.
+258
+
+
+VIL, 9, 34%
+
+
+35
+
+
+19
+
+
+LIST OF IMPORTANT PASSAGES.
+
+
+VIII, 45, 35 -
+46,14.
+46, 43°.
+46,34.
+
+
+47,7
+48, 2
+48, 4
+48,9
+
+
+49-59 -
+
+
+59, 2
+51, 3
+51,7
+52,7
+
+
+PAGE
+124
+189
+231
+310
+268
+lxi
+190
+282
+xlvi seqq.
+b S44
+Ixvii
+267
+267
+309
+24
+Ixvii, 267
+225
+152
+198
+186
+226
+
+
+VII,
+
+
+100, 2
+100, 103 II
+
+
+40
+
+
+VEDIC HYMNS.
+
+
+m
+. ‘4 >
+as
+
+
+bo
+°o
+Ne
+NAO N 4 Hee OHO HF ES CONT WW
+mt XO
+
+
+36, 1-3
+
+
+200
+
+
+439
+217
+67
+149
+291
+265
+439
+214
+267
+61
+251
+255, 261
+245
+249
+229
+245
+246
+349
+
+
+PAGE
+245
+244
+249
+140, 177
+132
+240
+225
+246
+246
+10>
+251
+217
+223
+399
+283
+158
+269
+432
+10%
+192
+259
+18, 149
+161
+141
+275
+Ixxiii
+262
+I51
+123
+308
+308
+308
+212
+172
+148
+186
+148, 302
+152
+192
+205%
+200
+259
+214
+Ixxx
+185
+237
+218
+42
+153
+195
+92
+224
+448
+253
+96, 253
+
+
+LIST OF IMPORTANT PASSAGES.
+
+
+539
+
+
+X,124,7 .
+124,9 .
+
+
+125, 12
+
+
+39, 2 .
+129, 3 .
+E3395 -
+£75, 3.
+138, 4 .
+140,2.
+142,4.
+
+
+By, 3, ©
+
+
+37,5.
+wit, Ot.
+
+
+XI, 34.
+
+
+1, 8,6, .
+
+
+See 13, 3
+
+
+V, 20
+
+
+11,6. £0 °.
+Il, 7,3,1 .
+
+
+IV, 3, 4, 14
+
+
+¥E, 3, 3,4 .
+
+
+mith, 7, 34.
+
+
+I, 13,3 +
+
+
+VIII, rr .
+
+
+X,144,6.
+Lis, f
+153,2 -
+158,1.
+164,3 -
+165, 4 -
+EO. f ,
+Coy Fle ae
+190, 2.
+
+
+ATHARVA-VEDA.
+
+
+VAGASANEYILSAMHITA.
+
+
+153
+
+
+TAITTIRIYVA-SAWHITA.
+
+
+430
+388
+
+
+AITAREYA-BRAHMAWA.
+
+
+lxix
+
+
+SATAPATHA-BRAHMAWA.
+
+
+389
+429
+429
+153
+
+
+TANDYA-BRAHMAWA.
+
+
+360
+
+
+TAITTIRIVA-ARANYAKA.
+
+
+254
+
+
+Ixix, note
+
+
+VI, 2, 1
+Fe, HGF
+mr, r, 6e, *
+
+
+Al, 46'.
+
+
+V, 1, 3) 3-
+VII, 1, 19, 3
+
+
+Vit, es
+
+
+ss 3, 8 5
+
+
+55254 +
+XIII, 5, 1,16 .
+
+
+Ah 9543.
+
+
+I, 23
+
+
+EAs 4:5
+
+
+415
+
+
+89
+
+
+188
+322
+
+
+89
+
+
+Io
+
+
+377
+322
+
+
+430
+
+
+xlvi, note
+
+
+ASVALAYANA SRAUTA-SUTRA.
+
+
+IIt2
+
+
+III.
+
+
+A BIBLIOGRAPHICAL LIST OF THE MORE
+IMPORTANT PUBLICATIONS ON THE RIG-VEDA.
+
+
+I have often stated how much I was indebted to the
+labours of others in all I have endeavoured to do for the
+Veda. I have to make the same acknowledgment once
+more. Many indeed of those with whom I once worked
+side by side have ceased from their labours, but the gaps
+which death has caused have been filled by many young
+and equally valiant soldiers. I am almost afraid to mention
+names, lest I should seem forgetful of some by whose
+labours I have benefitted. The elaborate publications of
+M. Bergaigne occupy a prominent place, and seem to me
+to have hardly received the credit which they deserve.
+Scholars are too apt to forget that we may differ from the
+results arrived at by our colleagues, and yet admire their
+industry, their acumen, their genius. Professor Ludwig has
+continued his work, undismayed by the unjust and unseemly
+attacks of his rivals. Professor Oldenberg’s contributions,
+Das altindische Akhyana, 1883 ; Rigveda-Samhita und Sama-
+vedarcika, 1884; Die Adhydyatheilung des Rigveda, 1887,
+and lastly, the Prolegomena to his Hymnen des Rigveda,
+1888, have opened new and important fields of critical in-
+vestigation. Different views have been ably represented by
+Pischel and Geldner in their Vedische Studien.
+
+Professor Avery’s Contributions to the History of Verb-
+Inflection in Sanskrit (1875), Professor Lanman’s Statistical
+Account of Noun-inflection in the Veda (1877), are indispens-
+able helps to every student of the Veda. Professor Delbriick’s
+Syntaktische Forschungen (1871-1879) und Das Altindische
+Verbum (1874) marked a decided advance in critical scholar-
+
+
+BIBLIOGRAPHICAL LIST. 54!
+
+
+ship. Almost every case of the noun in the Veda has found
+its special investigator, the Dative in Delbriick (1867), the
+Genitive in Siecke (1869), the Vocative in Benfey (1872),
+the Instrumental in Wenzel (1879), the Accusative in Gae-
+dicke (1880). The nominal suffixes have been treated by
+Bruno Lindner in his Altindische Nominalbildung (1878) ;
+the suffixes of the Infinitive by Professor Ludwig (1871)
+and Professor Wilhelm (1870 and 1873). Geldner and Pro-
+fessor Kaegi have given a popular and useful account of
+the results of Vedic studies in Siebenzig Lieder des Rig-
+veda (1875), and Der Rigveda (1881).
+
+The following is a list of the more important publications
+on the Rig-veda which have proved useful to myself and
+will prove useful to others. This list does not pretend to
+be complete, but even in its incomplete form, I hope that
+.it may be serviceable to students of the Rig-veda.
+
+
+The following abbreviations have been used :—
+
+
+Bezz. Beitr.=Beitrage zur Kunde der indogermanischen Sprachen, herausgegeben
+von A. Bezzenberger.
+
+
+Festgruss an Bohtlingk = Festgruss an Otto von Bohtlingk zum Doctor-Jubilaum
+von seinen Freunden. Stuttgart, 1888. -
+
+Journ. Amer. Or, Soc. = Journal of the American Oriental Society.
+
+KZ. = Kuhn’s Zeitschrift fiir vergleichende Sprachforschung.
+
+
+Rev. hist. rel. =Revue de Vhistoire des religions, publi¢ée by M. Jean Reville.
+Paris.
+
+
+ZDMG. = Zeitschrift der deutschen morgenlandischen Gesellschaft.
+
+
+ArrowsmiTH, R. The Rigveda. By Adolf Kaegi. Translation.
+Boston, 1886.
+
+AuFRECHT, TH. KZ. XXV, 435, 601; XXVI, 610; XXVII, 609.—
+Zur Kenntniss des Rgveda: Festgruss an Béhtlingk, 1-3.—
+Erklarung vedischer Stellen: Bezz. Beitr. XIV, 29-33—ZDMG.
+XLV, 305.
+
+Avery, Joun. Contributions to the History of Verb-Inflection in
+Sanskrit, 1875. (Journ. Amer. Or. Soc., Vol. X, No. 10.)
+
+—— The Unaugmented Verb-Forms of the Rig- and Atharva-Vedas
+(Journ. Amer. Or. Soc., Vol. XI, No. 2, 1885.)
+
+BarTHotomak, Cur. Rv. I, 171, 1: KZ. XXIX, 279.—Arisches :
+Bezz. Beitr. XV, 1-43, 185-247.—ZDMG. XLII, 664-668.
+——— Studien zur indogermanischen Sprachgeschichte. Halle, 1890.
+
+See Pischel in Gétting. Gel. Anz., No. 13, 20 Juni 1890, pp. 529 ff.
+
+
+542 VEDIC HYMNS,
+
+
+Benrey, THEopor. Die Quantitatsverschiedenheiten in den Samhit4-
+und Pada-Texten der Veden. 6 Theile. Gdttingen, 1874-81.
+Ueber die Entstehung des indogermanischen Vokativs. Gédt-
+
+tingen, 1872.
+Vedica und Verwandtes. Strassburg, 1879.
+
+
+—— Ueber einige W6rter mit dem Bindevocal i im Rigveda. Gét-
+tingen, 1879.
+Vedica und Linguistica. Strassburg, 1880.
+
+
+Behandlung des auslautenden a in na ‘wie’ und na ‘nicht’
+im Rigveda, mit Bemerkungen tiber die Aussprache der Worter
+im Veda. Gdttingen, 1881.
+
+Uebersetzung des Rigveda (I, 1-118): Orient und Occident,
+
+1862-64.
+
+Rigveda, X, 10, 7: Bezz. Beitr. I, 47-51.—-Uebersetzung des
+
+Rigveda (I, 119-130): Bezz. Beitr. VII, 286-309.
+
+Kleinere Schriften, herausgegeben von A. Bezzenberger, I, 109,
+120, 265, 278, 295, 305, 314, 316; II, 172, 177. Berlin, 1890.
+
+Brercaieng, A. La religion védique d’aprés les hymnes du Rig-Veda.
+Vols. I-III. Paris, 1878-83.
+
+—— Quelques Observations sur les figures de rhétorique dans le Rig-
+Veda. (Mémoires de la Société de linguistique, tome IV, 2¢
+fascicule.) Paris, 1880.
+
+Recherches sur l’histoire de la Samhité du Rig-Veda I. La
+Samhita primitive. Paris, 1887. (Journal Asiatique, 1886. Extrait.)
+
+——— Nouvelles recherches sur l’histoire de la Samhita du Rig-Veda
+II-IV. Supplément au Mémoire sur la Samhita primitive; les
+différents couches dinterprétations; le classement du Mandala
+VIII. Paris, 1887. (Journal Asiatique, IX, 191-287. Extrait.)
+
+Deuxitme note additionnelle 4 l’article Recherches sur histoire
+
+de la Samhita du Rig-Veda. (Journal Asiatique, IX, 518 f.)
+
+La syntaxe des comparisons védiques: Bibliothéque de l’école
+
+des hautes études, LX XII, pp. 75-101. (Mél. Renier, Paris, 1887.)
+
+Recherches sur histoire de la liturgie védique. La forme
+
+métrique des hymns du Rig-Veda. (Ac. des Inscr., C—R, XVI,
+
+1888, Mai-Juin, pp. 232-238.)
+
+Recherches sur histoire de la liturgie védique. (Journal
+
+Asiatique, XIII, 2, 121-197. 1889.)
+
+La division en Adhydyas du Rig-Veda: Journal Asiatique, X,
+
+3, 488-495. (Extrait. Paris, 1888.)
+
+et V. Henry. Manuel pour le Sanscrit Védique. Paris, 1890.
+
+
+BIBLIOGRAPHICAL LIST. 543
+
+
+Bioomrietp, M. Final as before Sonants in Sanskrit. Baltimore,
+1882. (Amer. Journal of Philology, Vol. III, No. 1.)
+
+On certain Irregular Vedic Subjunctives or Imperatives. Balti-
+more, 1884. (Amer. Journal of Philology, Vol. V, No. 1.)
+
+—— On the Vedic Instrumental padbhis. (Proc. Amer. Or. Soc.
+Oct. 1889, pp. clii—clvi.)
+
+——— Contributions to the Interpretation of the Veda. Second Series.
+Baltimore, 1890.
+
+Botiensen, F. Zur Vedametrik: ZDMG. XXXV, 448-445.—Die
+Betonungssysteme des Rig- und Samaveda: ZDMG. XXXV,
+456-72.—Beitrage zur Kritik des Veda: ZDMG. XLI, 494-507 ;
+XLV, 204.
+
+P. von Brapxe. Beitrage zur altindischen Religions- und Sprach-
+geschichte: ZDMG. XL, 347 ff, 655 ff.
+
+Dyaus Asura, Ahura Mazda und die Asuras. Halle, 1885.
+
+Brunnuorer, H. Erwahnung der Pfahlbauten im Rigveda: Fernschau,
+Jahrb. der Mittelschweiz, Geogr.-Commerz, Ges. in Aarau, II
+(1888).
+
+—— Dialektspuren (Infinitiv): KZ. XXV, 329.—Ueber Infinitive des
+Veda und Avesta: Bezz. Beitr. XV, 262-270.
+
+CoLinET, Pu. Les principes de l’exégése védique d’aprés MM. Pischel
+et K. Geldner (Muséon, IX, 1890, pp. 250-267 and 372-388).
+Purandhi, the goddess of abundance, in the Rigveda. (Babyl.
+
+and Oriental Record, II, 11 (1888), pp. 245-254.)
+
+Purandhi zs the goddess of abundance in the Rigveda, (Babyl.
+and Oriental Record, 1890, IV, 6, pp. 121-130.)
+
+Coriitz, H. Ueber eine besondere Art vedischer Composita, Ver-
+handlungen des Vte2 intern. Or. Congr. zu Berlin, 1881. II,
+287-298.
+
+Desriicx, B. De usu dativi in carminibus Rigvedae. Halle, 1867.
+
+Syntaktische Forschungen. Halle, 1871-79.—Bd.V, Altindische’
+Syntax. Halle, 1888.
+
+—— Das Altindische Verbum. Halle, 1874.
+
+Vedische Chrestomathie. Halle, 1874.
+
+Eaton; A. J. The Atmanepada in the Rigveda. Leipzig, 1884.
+
+D’Ecxstzin, Baron. Etudes sur la Grammaire Védique. (Revue
+Archéologique.) Paris, 1859.
+
+Eperen, A. H. On the Relation in the Rig-Veda between the Palatal
+and Labial Vowels and their Corresponding Semivowels, 1878.
+(Journ. Amer, Or. Soc., Vol. XI, 1880.)
+
+
+544 VEDIC HYMNS.
+
+
+Exni, J. Der Vedische Mythus des Yama. Strassburg, 1890.
+
+Rv. X, 85, die Vermahlung des Soma und der Strya: ZDMG.
+XXXII, 166-176.
+
+GaxEpickE, Cart. Der Accusativim Veda. Breslau, 1880.
+
+GarsE, R. Accentuationssystem der altindischen Nominalcomposita :
+KZ. XXIII, 470.
+
+Getpner, K. Conjectanea Vedica (kshoni): Bezz. Beitr. XI, 327-331.
+—Ueber das vedische Wort meni: Festgruss an Bohtlingk,
+31-33.—Conjectanea Vedica: KZ. XXVII, 215 ff.
+
+Getpner, K., u. A. Karner. Siebenzig Lieder des Rigveda. Tiibingen,
+1875.
+
+Grassmann, H. Worterbuch zum Rig-Veda. Leipzig, 1873.
+
+Rigveda, tibersetzt. 2 Vols. Leipzig, 1876-77.
+
+Grirritu, R. T. H. The Hymns of the Rigveda, translated with a
+Popular Commentary. Vols. I, Il. Benares, 1889-90.
+
+Guru Darta, Vidyarthit. The Terminology of the Vedas, Part I.
+Lahore, New Indian Press, 1888.
+
+Hapret, Jutrus. An Varuna, Rigveda I, 25, tibersetzt: Zeitschr. f.
+Missionskunde u. Religionswissenschaft, V, 1, p. 28 f.
+
+Have, M. The Origin of Brahmanism. Poona, 1863.
+
+-—— A Contribution towards a Right Understanding of the Rigveda.
+Bombay, 1863.
+
+Brahma und die Brahmanen. Miinchen, 1871.
+
+On the Interpretation of the Veda: Report of the Proc. of the
+
+2nd intern. Congr. of Or. in London, 1874, pp. 24-27. Cf.
+
+Delbriick in Jenaer Literaturzeitung, Jahrgang 1874, Art. 785,
+
+and 1875, Art. 137.
+
+Ueber das Wesen und den Werth des wedischen Accents.
+Miinchen, 1874.
+
+—— Vedische Rathselfragen und Rathselspriiche. Uebersetzung und
+Erklérung des Dirghatamas-Liedes Rigv.I, 164. Mutinchen, 1876.
+
+Hirtesranpt, A. Ueber die Géttin Aditi. Breslau, 1876.
+
+Varuna und Mitra. Breslau, 1877.
+
+—— Das altindische Neu- u. Vollmondsopfer. Jena, 1880.
+
+——- Die beiden arischen Accentsysteme. 1882-85.
+
+Veda-Chrestomathie mit Glossar. Berlin, 1885.
+
+Zu Rv. V, 2, 1-6: ZDMG. XXXIII, 248-251.—Zu Rv. I, 162:
+
+ZDMG. XXXVII, 521-524.—Miscelle aus dem Vedaritual:
+
+ZDMG. XL, 708-712.
+
+
+BIBLIOGRAPHICAL LIST. 545
+
+
+HiLLEeBranpdT, A. Spuren einer alteren Rigvedarecension: Bezz. Beitr.
+VIII, 195-203.—Uktham madas fa sasyate: Bezz. Beitr. [X, 192.
+—— Vedica. Vienna Oriental Journal, III, 188-194, 259-273.
+—— Nationale Opfer in Altindien: Festgruss an Bohtlingk, 40-43.
+Die Sonnwendfeste in Altindien: Romanische Forschungen, V,
+1889, 299 seqq.
+Vedische Mythologie I. Soma und verwandte Gotter. Breslau,
+1891.
+
+
+Hirzer, A. Gleichnisse und Metaphern im Rgveda. Leipzig, 1890.
+
+Karct, A. Der Rigveda, die aelteste Literatur der Inder. ate Aufl.
+Leipzig, 1881. See Arrowsmith.
+
+Vasta usrah: Festgruss an Bohtlingk, 48 seq.
+
+Kerpaker, M. Varunae gli Aditya, saggio di esegesi vedica, memoria
+(Atti della R. Acad. di archeol. lettere e belle arti, 1884-86).
+Napoli, 1887, pp. 105-144.—App. II al Vol. XIII, degli Atti &c.
+Napoli, 1889.
+
+Kirste, J. Etudes sur les Pratig4khyas. Paris, 1883.
+
+Kovurixowski, D. Les trois feux sacrés du Rig-Véda: Rev. hist. rel.
+XX, 2, pp. 151-179.
+
+Kiunav, R. Die Trishtubh-Jagati-Familie. Géttingen, 1886.
+
+Rhythmus und indische Metrik. Géttingen, 1887.
+
+
+Lanctors, M. Rig-Véda, ou Livre des Hymnes, traduit du Sanscrit,
+4 tom. Paris, 1848-51.
+
+
+Lanman, Cuarues R. A Statistical Account of Noun-Inflection in the
+Veda. (Journ. Amer. Or. Soc., Vol. X, No. 11.) New Haven,
+1880. Cf. Collitz in Bezz. Beitr. VII, 176-184.
+
+
+Lignana, Giacomo. I Navagvah e i Dasagvah del Rigveda: Verhand-
+lungen des VIIten internat. Or. Congr. in Wien, 1886. Arische
+Section, pp. 59-68.
+
+
+LinpyEr, Bruno. Altindische Nominalbildung. Jena, 1878.
+Lupwic, A. Der Infinitivim Veda. Prag, 1871.
+
+
+—— Ueber die unflectierten Formen auf 4 des verbum finitum im
+Rigveda. Prag, 1874. (Sitzungsber. d. Kgl. bohm. Ges. d. Wiss.)
+
+
+—— Die philosophischen und religidsen Anschauungen des Veda.
+Prag, 1875.
+
+
+Der Rigveda, Deutsch mit Commentar und Einleitung, Vols. 1-6.
+Prag, 1876-88.
+
+—— Uber die Erwahnung von Sonnenfinsternissen im Rigveda.
+Sitzungsber. der Kgl. bohm. Ges. der Wiss. Prag, 1885.
+
+
+[32] Nn
+
+
+546 VEDIC HYMNS.
+
+
+ad
+
+
+Lupwic, A. Die Ironie im Mahabharata und im Regveda: Festgruss
+an Bohtlingk, 82-87.
+
+Ueber die Kritik des Rgveda Textes. Prag, 1889.
+
+——— Ueber Methode bei Interpretationen des Rgveda. Prag, 1890
+
+—— dhaman und svadha: KZ. XXVIII, 240.
+
+Bedeutungen vedischer Worter: ZDMG. XL, 715-717.—Dre
+Revedastellen: ZDMG. XL, 713.
+
+Macponett, A. A. Katyayana’s Sarvanukramawi of the Azgveda
+Oxford, 1886.
+
+Max Mutter, F. Rig-Veda oder die heiligen Lieder der Brahmanen
+I: Text und Uebersetzung des Pratisikhya oder der Altester
+Phonetik und Grammatik. Leipzig, 1856.
+
+—— Rig-Veda-Samhita. The Sacred Hymns of the Brahmans
+Translated and explained. Vol. I. London, 1869.
+
+Mayr, Auret. Beitrage aus dem Rg-Veda zur Accentuirung de:
+Verbum finitum. Wien, 1871.
+
+
+Meyer, Rupotr. Regvidhana. Berlin, 1878.
+
+Murr, Joun. Original Sanskrit Texts, Vols. I-V, London, 1868-187:
+(2nd ed.).
+
+Myriantueus, L. Die Agvins oder Arischen Dioskuren. Miinchen
+1876.
+
+Nersser, W. Zur vedischen Verballehre I: Bezz. Beitr. VII, 211-241
+—Vorvedisches im Veda: Bezz. Beitr. XVII, 244-256.
+
+Nive, M. F. Etudes sur les hymnes du Rig-Véda. Paris, 1842.
+
+——~ Essai sur le Mythe des Ribhavas. Paris, 1847.
+
+Oxpenserc, H. Das altindische Akhyana: ZDMG. XXXVII
+54-86. :
+
+— Rigveda-Samhita und Samavedarcika: ZDMG. XXXVIII
+439-480.
+
+ae Akhyana-Hymnen im Rigveda: ZDMG. XXXIX, 52-90.
+
+—— Die Adhy4yatheilung des Rigveda: ZDMG. XLI, 508-515
+XLII, 362-365.
+
+—— Ueber die Liedverfasser des Rigveda. ZDMG. XLII, 199-247
+
+Der Abhinihita Sandhi im Rigveda, ZDMG. XLIV, 321-338.
+
+Der Rigveda. Band I: Metrische und textgeschichtliche Pro:
+legomena. Berlin, 1888. [Cf. Review by A. Hillebrandt, u
+Goetting. Gel. Anz., Mai 1889, pp. 387-424.—-See Sabbathier. |
+
+—— The Interpretation of the Veda, and the Hindu Epic: Oper
+Court (Chicago), 1889, April 11 (Translated from the Deutsch
+Rundschau).
+
+
+BIBLIOGRAPHICAL LIST. 547
+
+
+Perry, E.D. Indra in the Rigveda: Journ. Amer. Or. Soc., Vol. XI,
+pp. 117-208. New Haven, 1882. (See Hillebrandt in E, Kuhns
+Literatur-Blatt fiir Orientalische Philologie, II, 1.)
+
+Pertscu, W. Upalekha, de Kramapatha libellus. Berol. 1854.
+
+Peterson, P. Hymns from the Rigveda, edited with Sayana’s Com-
+mentary, notes and a translation. Bombay, 1888 (B. S. S.).
+
+—— Handbook to the Study of the Rigveda. Part I. Bombay,
+1890 (B. S. S.).
+
+Piscuet, R. Miscellanea: ZDMG. XXXV, 711-724.— Vedica:
+ZDMG. XL, 111-126.
+
+Zur Lehre vom Dativ: Bezz. Beitr. I, 111-120.
+
+PiscHEL, R., u. K. F. GetpnEr. Vedische Studien I. Stuttgart, 1888.
+[Cf. Reviews by: V. Henry: Revue critique (1890), 5, pp.
+81-85.—H. OLpenperG: Gédtting. Gel. Anz. 1890. 10.—
+BartTHotomaE: Deutsche Litztg. 23 (1890).—VECKENSTEDT :
+Zeitschr. f. Volkskunde II, 6, pp. 244-248.—See Colinet.]
+
+Reenaup, Paut. Le mot védique rta: Rev. hist. rel. XVI, 1887,
+pp. 26-27.
+
+Le caractére et lorigine des jeux des mots védiques: Rev. hist.
+
+rel. XVI, 2, pp. 166-169.
+
+Un épithéte des dieux dans le Rig-Veda (amfira): Rev. hist.
+
+rel. XV, 1887, pp. 46-51.
+
+Etymologies védiques: Rev. hist. rel. XIX, 1, pp. 79-84.
+
+Le Rig-Veda et les origines de la mythologie indo-européenne :
+Rev. hist. rel. XIX, 3, pp. 333-352.
+
+—— Etudes védiques. Traduction d’un hymn & l’Aurore (I, 123 du
+Rig-Véda): Rev. hist. rel. XXI, 1, pp. 63-96.
+
+—— Etudes védiques. Deux appréciations récentes du Rig-Veda :
+Rev. hist. rel. XXI, 3, pp. 301-311.
+
+Etudes védiques. L’hymne III, 1 du Rig-Véda: Rev. hist.
+rel. XXII, 302.
+
+Reonrer, A. Etude sur Vidiome des Védas et les origines de la
+langue Sanscrite. Paris, 1855.
+
+
+Etudes sur la grammaire védique. Pratigakhya du Rig-Véda.
+Paris, 1857.
+
+Ric-Vepa. Rigveda Sanhita, liber primus, ed. F. Rosen. London,
+1838.
+
+Rig-Veda-Sanhita, the Sacred Hymns of the Brahmans, together
+
+with the Commentary of Sayanacharya. Edited by F. Max Miller.
+
+6 vols. London, 1849-1874. Second Edition, Vols. I, I.
+
+London, 1890.
+
+
+NN 2
+
+
+548 VEDIC HYMNS.
+
+
+Ricg-Vepa. The Hymns of the Rig-Veda in the Samhita Text. Re-
+printed from the editio princeps, by F. Max Miiller. London, 1873.
+The Hymns of the Rig-Vedain the Pada Text. Reprinted from
+
+the editio princeps, by F. Max Miiller. London, 1873.
+
+Die Hymnen des Rigveda. Herausgegeben von Th. Aufrecht.
+2 Theile. 2te Auflage. Bonn, 1877.
+
+—- Riksamhitéa Sayanfkarya-virakita-Bhashya-sahité, Padapashayu-
+kta ka, edited by Ragaraéma SAstri Bodas and Sivardma Sastri
+Gore. 8 vols. Bombay, 1889.
+
+—— Rigveda Samhita, ed. by Prasanna Kumara Vidyaratna. Vol. I.
+Calcutta, 1888-9.
+
+Rigvedasya Sdyawakarya-virakitam Madhaviya-Vedartha-Praka-
+sdkhyam Bhashyam. Edited by Prasanna Kumfara Vidyaratna.
+Calcutta, 1889.
+
+—— Rig-Veda Sanhita, the first and second Adhyayas of the first
+Ashtaka, with notes and explanations, and an introductory essay on
+the study of the Vedas. By K. M. Banerjea. Calcutta, 1875.
+
+—— Rig Veda Samhita, Vols. I-VII. Bengali Translation, with notes,
+by R. C. Datta. Calcutta, 1887.
+
+—— The Vedarthayatna, Marathi and English Translation of the
+Vedas. Parts 1-22. Bombay, 1876-80.
+
+
+Rotu, R. Zur Litteratur und Geschichte des Weda. Stuttgart, 1846.
+
+Ueber gewisse Kiirzungen des Wortendes im Veda: Verhand-
+lungen des VIIten intern. Or. Congr. in Wien, 1886. Arische
+Section, pp. I-10.
+
+— Ueber den Soma: ZDMG. XXXV, 680-692.— Wo wiachst dex
+Soma? ZDMG. XXXVIII, 134-139.—Der Adler mit dem Soma :
+ZDMG. XXXVI, 353-360.—Lésung eines Rathsels im Veda:
+ZDMG. XXXVII, tog-112.—Wergeld im Veda: ZDMG. XLI,
+672-676.
+
+——— Vedische Studien: KZ. XXVI, 45.
+
+
+SaBBATHIER, R. Une édition critique du Rig-Veda par M. Oldenberg :
+Rev. hist. rel. XX, 3, pp. 297-331.—Rev. de ling. XXIII, 1.
+93-97:
+
+ScHERMAN, Lucran. Philosophische Hymnen aus der Rig- und
+Atharva-Veda-Sanhita. Strassburg, 1887.
+
+Scumipt, J. Pluralbildungen der indog. Neutra (Weimar, 1889),
+p. 127 to Rv. I, 171, 1.—p. 128 seq. on krava.—p. 307 seq. to Rv.
+V, 52, 9.—p. 314 to Rv. X, 77, 8
+
+L. von Scuréprr. Nominalcomposita: KZ. XXIV, rot.
+
+
+BIBLIOGRAPHICAL LIST. 549
+
+
+Scuwas, Jutius. Das altindische Thieropfer. Erlangen, 1886.
+
+SrecKE, E. De genitivi in lingua Sanscrita imprimis Vedica usu.
+Berol. 1869.
+
+Simon, Ricwarp. Beitrage zur Kenntniss der vedischen Schulen.
+Kiel, 1889.
+
+TurpauT, G. Das Jatapatala. Lpzg. 1870.
+
+Turrini, Giuseppe. All’ Aurdra fnno df Praskanva Kanva recato di
+Sathskrito in volgare. Bologna, 1889.
+
+Watus, H. W. The Cosmology of the Rigveda. London, 1887.
+
+Weser, A. Vedische Hochzeitspriiche : Indische Studien, V, 177-226.
+
+Ueber die Metrik der Inder. Berlin, 1863 (Indische Studien,
+VIII).
+
+WenzeL, H. Ueber den Instrumentalis im Rigveda. ‘Tiibingen,
+1879.
+
+Wuitney, W. D. On the History of the Vedic Texts: Journ. Amer.
+Or. Soc. 1853.
+
+Wirneitm, Euvcen. De infinitivi linguarum Sanscritae, Bactriae, etc.
+forma et usu. Isenaci, 1873. :
+
+Witson, H. H. Rig-Veda-Sanhité. Translated, completed by
+E. B. Cowell. London, 1850-66.
+
+Winoiscu, E. Zwélf Hymnen des Rigveda mit Sayana’s Com-
+mentar. Leipzig, 1883.
+
+
+Vedisches: Festgruss an Bohtlingk, 114-118.
+
+
+WInDISCHMANN, Fr. Ueber den Somacultus der Arier: Abhandlungen
+der Miinchener Ak. der Wiss. IV. B. Abh. 2.
+
+ZIMMER, Heinricu. Altindisches Leben. Berlin, 1879.
+
+ZuBatyY, JosEF. Der Quantititswechsel im Auslaute vedischer WoGrter:
+Vienna Oriental Journal, II, 53-62, 309-318; III, 86-92,
+151-162, 281-312; IV, 1-16, 89-112.
+
+
+nes.
+
+
+ia
+
+
+Ce as
+
+
+Gan eos
+
+
+CORRIGEN DS.
+
+
+Page 123, line 6 from below, read visva-manusha for visv4-manusha
+
+
+”?
+
+
+138,
+138,
+173;
+278,
+315,
+
+
++P)
+
+
+19, vead samsamanaya for samsa°
+
+20, read samsanam for samsanam
+
+4 from below, vead ara for ara
+
+17 seq., vead of Indra for of the Maruts
+8, read gafigana- for gafgana-
+
+
+a
+
+
+z "th
+eee os
+
+
+eens eu) i aA Ya el ey i ternal ag ie ae
+
+
+hia te ies Nrcne a  c ee tat bate 8 at
+
+bes oe 2 ‘_ : aoe my ei yo |rrs sees + serendse © of
+
+eeA : 2) > Cg) 7) be or b e Sse te oo ee Seay wor eIpoy SI
+
+Mi yy nee oh Ge ee ee oe Boe B coo oe VE ae Ciethtodd Code tala, eyeridse ss al
+Lo) 9 < . Pt 2 ~D a b ily eet | ¥ Per toy Dee att age Wa begs ee Jee ey ae 67 8 Gs 6 sinua , eT
+y; (‘O29 ‘sorey ered)
+s eB{VOYIPOU soTeimyyny
+= * eee * 28 e ee ar) e © 8 ee Y. oe os snyeordy SIU «6 ZI
+< ° . uu wo a 4% eee a7 < ss . 4, ee ead ee ode SNYVOIIT qodse 6c a
+< fe) ei 8 Poe ee ae ae ere Ste WY | *s** syeong em, ©“ oT
+- : u >) 2 feelers : +3 U, °° - syeoneysodse “ 6
+> eee N | \ Pa a ee eer elie P C5 ge boy Tee ee er Sot ey STUOT 6c g
+: sud} uw | sg 2 | w |(aym)al B |--- yYofrrttt ss + aedse snyndg 2
+. , ee ° . o- oe e (eae s és (su) U CW oa een f 0 6 66 «+ * ST[VSUNT 9
+_ ee cl 2 2 ee @ «ee ee oe b o's) Se Oe 6 ST[VIQV[-O.1Nn44NL) c
+eo) oe C ° 8 « oe 6 -s P R ae ys Chait ieey sh tet 2 * eyertdse 6c ca
+* 4 EG e Ps e o le 3 (a ee a, ea ey ay Ge ae s 6 8 eIpay ¢
+ee ay . oe e: 8.8 rT i) Rp Fy Wy BOS 166 (65-8 eqyerrdse 66 z
+~ 4 c : a a 6 6 Uo ee: q oa er Wea, Lae vale fee eer ae ae sinudy, I
+4 *SsOTBInqjyNy)
+<i
+ps *SStID III | “SSXID IT | ‘SStID I
+
+‘OSOUIYD | ‘MOIQOET | ‘SIqvuay | ‘uerssog | ‘AsTYOg “pusZ ‘yaysueg | v ~ ‘SLNVNOSNOD
+
+“LH2VHdIV AUVNOISSIN
+
+
+‘LSVQ] AHL 40 SHOOT GAAOVS AHL AO
+
+
+SNOILWISNVU] FHL uO GALdOdV SLAGVHdTY IVLNAIY() JO NOILVUALTVISNVY [
+
+
+TRANSLITERATION OF ORIENTAL ALPHABETS
+
+
+554
+
+
+eee eee es ae ; Pa) ee rr wer rer a2:4% “i: (yy) 4 ae FORE oe i ia nee ear ge Pe ae ee — Go Ee LOG RIO Canine RO ERS
+oo) CL ton Yee ee eee Pee ee - + * 7 snumaodse “6 9¢ ste
+ee ay tee ee ware Z 0 SOR Se ee 7 ee cE
+
+
+° e 68 ee @e ‘ee (/)s v6) ee SE co +e o9* 9 OGRE té rE
+Sie ses ee coerce 7 aodse snyuidg g¢
+
+
+° ee eee 6 eee ty Pan haan Ves Wee Ie TRUE aS 2s Se ee 66 Ze
+I
+
+
+ee Pe ie” Pe ce et ees Pe ae Sa ce 60 ae ? “0 SI][OUL “ce Ig
+if G c & gs ae co) ie re SU eel I reese eee © gieo0atMeg OF
+_ : a a f ie rae se ee ae
+eee e 6 e ¢ ¢ eee on bie ver. rane tear Ha oe e . 8 e ae 66 82
+Par ae ra pi ee ce a OR Gis ia > R bog ec de oh ane up cee ee + eagendse ‘ 12
+vod p “ ie ¢ ec > Gree epee p Fee ee eee eee pom 9g
+ieee bee 2 Pl he bic Sree ewes HL vy vie 6 e]* +4 0 * » 2 games 77 CZ
+yy eed ee
+
+
+ges EO es ae 4 e088 Oot Se See ee Se
+*soTeyUOd
+
+
+° + ae > bh Pe pee ahi Sa WY se 4 ots 3 Oe (T3 2S
+o B
+
+
+2  “«.< eee 4 Pe) op eee a ee ge zZ « e* ee SN4LTIGISSV SIUd] “ce ar
+Peete ea et ie Pe miileocce] s [oe co]? sngepqwsesodse =“ = 1Z
+8 e ea 8 ee. e ‘wos ‘i tae *eee ee Ce Fa (4) ah Tae C6 ¢- ¢ el ee ®@ SIU9T be 02
+
+
+hd gee cee e 28 e A ee hie eee eee oye oe ee (4) << e cee e eee ¢ godess snqizidg §]
+
+
+init.
+
+
+& ‘ >) 4 ¢ ¢¢ Wiss sape eet £ ptt tte St ee oe
+
+
+‘sSeID TIT | ‘SSeID IT | “Sselo I
+*(pa0e2e272009)
+
+
+‘osoulyd | ‘moigeyy | “oIqery | ‘UvIsIog | “LAoTYed “pusZ ‘yizysues | | v ——
+*‘LHAVHdAIV AUVNOISSIN SLNYROSHOD
+
+
+555
+
+
+FOR THE SACRED BOOKS OF THE EAST.
+
+
+es
+ae
+oe
+
+
+7?
+
+
+4
+
+
+d
+e 6 2
+
+
+coe 8 ¢ + BBiesIA 6S
++ eo ° eerpasnuy g¢
+¢ os * STUD] ” LG
+- * gadse snzidg g¢
+eyemdse = =| gg
+ss 9 * SITBOOAITIAG FG
+ie So * eee CO
+‘ee ° *eulissInuayT, ZG
+- © eyerdse = 1g
+
+
+oo ee a ee oe
+- ejyeudse “ 6F
+
+
+oer ee ee suey, Sp
+*SO[VIQe'T
+
+
+e °° © gIUdT 66 LP
+* + * godse snqidg oF
+
+
+ee BdIpLIOBIp = CP
+
+
+* ByVOLy . bP
+‘* * * SITBIOAIWISG EF
+
+
+coe se + © guepe Bp
+LE eqearidse a IP
+
+
+2.00 & ©: & €¢ eIpoyy OP
+“* andes “:<) ¢¢
+see eee * ginuay ge
+
+
+(‘o29 ‘sopenSutq)
+eV{VOYIpou soeTeyuEed
+
+
+556 TRANSLITERATION OF ORIENTAL ALPHABETS.
+
+
+ete St Se at eee OP Oe 4 6 8} tee ere ere L948 { coc cess © gnoBlT SITeIVTET CZ
+OS ee eee ak ae eee ae 6 Eee es Pes : see + + erowsy speInyny FZ
+Pig Bete ete ke Men ae eee eS Paty ar ae ee Se oe oe ee - + + |(ng)no “6 ss €Z
+CS So eg el ee ee ee SRS 2 Oe ee we + + + |(ng) na ¢ 66 Ze
+ig fo +64 | ef * 1 oe) m3} ue [oes (nv) | ny | siferqet-omngyqn snSuoyqyydiq 1%
+ae as ae ie Mae pak ( * us [ss s+] (0) [mee s+ + + eSu0y < 02
+- Oe Pe ee Le ee aoe 2 q cee lee eet oes |] O | * * * * STAOTG SITVIGRI-OInyINy GT
+Te eet eee es Eee Eo aes ee Bis ee 6 | 88 © COREG « ff SI
+19 ‘19 Ge 4 ee ee ‘6 Mae o. 66 ibe aie 02.00 4 Lig ie te. 0 + + © | (IQ) 19 «6 66 LI
+~ Re gt Se a 5a REE Geen ads oe cl byiameey mt) 1g | sipegeped-ormgqns snSuoyjyydiq 9T
+9 ge eatin ies Ene - Mat) 2 leor | @ [ee] s 0% eBu0r ss SI
+3 Pee ee eae eee (2) 3(0)3 FO Obie oie | ieseve 3 °° * stagiq sipeyeped-oinyynyy FT
+0 & ad “— ( é Ts eeee (n) 0 0,89 6.6 9.0.5 ee “6 eC]
+n a — i{|-—-|**° < Bp Ra et ee a ee ee oe
+eae ad ie Me ie ef a ge et ee ee “ II
+WE gett GH UG he al ge Es gta wee gan MMe tp = 608 ait eA ah ge Lt * Sere Se emmy ae
+6 @h% oes vey $c # ae ae oe: 0ue! 6 Ay Nea RS Sa My gy nH * > ew Et BR " 6
+Blut wie oc 6 CE Cw Oe © bee «eae eRe ost ee ee ee ee ee a See
+I re “A “Fy e ° 5 Pes Spe eae (2) j Sk Sa st > 66 Z
+ee a ee ere P we fees efor oe] a forces e+ + sraarq sregereg 9
+e + Ps es" ?v nr lke cee e (v) B “+4 8 + 8 BOE 66 c
+3s | = | = | ss fate) oe motets tle ty ep tt ee eee >
+ea Cree Gore Gane: 8 «ea MEE oe te Co es ERR ee Q se eee es greae;y “6 ¢
+ge dite wi ek 4 4d kde we aes SEO Ce oe tee 8: gee onaiest 2
+2 a OS PA OE a a oe ae et es ee Get ee ee ae
+
+
+"SSUID II | ‘SSeID IT | “SSPID I
+. , "STHMOA
+
+
+‘asoulyD | ‘moiqoy | ‘oiqeay | ‘ueISIog | PARTYOg *pusz “yazysues v
+‘LHAVHdIV AUVNOISSIN
+
+
+SACRED BOOKS OF THE EAST
+
+
+TRANSLATED BY
+
+
+VARIOUS ORIENTAL SCHOLARS
+
+
+AND EDITED BY
+
+
+Pr. MAX “MUTE DER
+
+
+*,* This Series is published with the sanction and co-operation of the Secretary of
+State for India in Council.
+
+
+REPORT presented to the ACADEMIE DES INSCRIPTIONS, May 11,
+1883, by M. ERNEST RENAN.
+
+
+‘M. Renan présente trois nouveaux
+volumes de la grande collection des
+“Livres sacrés de l’Orient” (Sacred
+Books of the East), que dirige 4 Oxford,
+avec une si vaste érudition et une critique
+si sfire, le savant associé de 1’Académie
+des Inscriptions, M. Max Miiller.... La
+premiére série de ce beau recueil, com-
+posée de 24 volumes, est presque achevée.
+M. Max Miiller se propose d’en publier
+
+
+une seconde, dont Vintérét historique et
+religieux ne sera pas moindre. M. Max
+Miiller a su se procurer la collaboration
+des savans les plus éminens d’Europe et
+d’Asie. L’Université d’Oxford, que cette
+grande publication honore au plus haut
+degré, doit tenir 4 continuer dans les plus
+larges proportions une ceuvre aussi philo-
+sophiquement congue que savamment
+exécutée.’
+
+
+EXTRACT from the QUARTERLY REVIEW.
+
+
+‘We rejoice to notice that a second
+series of these translations has been an-
+nounced and has actually begun to appear.
+The stones, at least, out of which a stately
+edifice may hereafter arise, are here being
+brought together. Prof. Max Miiller has
+deserved well of scientific history. Not
+a few minds owe to his enticing words
+their first attraction to this branch of
+study. But no work of his, not even the
+
+
+great edition of the Rig-Veda, can com-
+pare in importance or in usefulness with
+this English translation of the Sacred
+Books of the East, which has been devised
+by his foresight, successfully brought so
+far by his persuasive and organising
+power, and will, we trust, by the assist-
+ance of the distinguished scholars he has
+gathered round him, be carried in due
+time to a happy completion.’
+
+
+Professor E. HARDY, Inaugural Lecture in the University of Freiburg, 1887.
+
+
+‘Die allgemeine vergleichende Reli-
+gionswissenschaft datirt von jenem gross-
+artigen, in seiner Art einzig dastehenden
+Unternehmen, zu welchem auf Anregung
+Max Miillers im Jahre 1874 auf dem
+
+
+internationalen Orientalistencongress in
+London der Grundstein gelegt worden
+war, die Ubersetzung der heiligen Biicher
+des Ostens’ (the Sacred Books of the
+East).
+
+
+Orford
+AT THE CLARENDON PRESS
+
+
+LONDON: HENRY FROWDE
+OXFORD UNIVERSITY PRESS WAREHOUSE, AMEN CORNER, E.C.
+
+
+2 SACRED BOOKS OF THE EAST:
+
+
+FIRST SERIES.
+
+
+vou. I. The Upanishads.
+
+
+Translated by F. Max Mttier. Part I. The Ahandogya-
+upanishad, The Talavakara-upanishad, The Aitareya-aramyaka,
+The Kaushitaki-brahmama-upanishad, and The Vagasaneyi-
+samhita-upanishad. 8vo, cloth, ros. 6d.
+
+
+The Upanishads contain the philosophy of the Veda. They have
+become the foundation of the later Veddnta doctrines, and indirectly
+of Buddhism. Schopenhauer, speaking of the Upanishads, says :
+‘In the whole world there ts no study so beneficial and so elevating
+as that of the Upanishads. It has been the solace of my life, 1t will
+be the solace of my death.
+
+
+[See also Vol. XV.]
+
+
+Von. 11. The Sacred Laws of the Aryas,
+
+
+As taught in the Schools of Apastamba, Gautama, VAasish/fa,
+and Baudhayana. ‘Translated by Grore Bututer. Part I.
+Apastamba and Gautama. 8vo, cloth, ros. 6d.
+
+
+The Sacred Laws of the Aryas contain the original treatises on
+which the Laws of Manu and other lawgivers were founded.
+[See also Vol. XIV.]
+
+
+vou. 111. The Sacred Books of China.
+
+
+The Texts of Confucianism. Translated by James Lecer.
+Part I. The Shi King, The Religious Portions of the Shih
+King, and The Hsiao King. 8vo, cloth, ras. 6d.
+
+
+Confucius was a collector of anctent traditions, not the founder of
+a new religion. As he lived in the sixth and fifth centuries B.C.
+his works are of unique interest for the study of Ethology.
+
+
+[See also Vols. XVI, XXVII, XXVIII, XXXIX, and XL.]
+
+
+Vou. Iv. The Zend-Avesta.
+
+
+Translated by James DarmesTETER. Part I. The Vendidad.
+8vo, cloth, ros. 6d.
+
+
+The Zend-Avesta contains the relics of what was the religion of
+Cyrus, Darius, and Xerxes, and, but for the battle of Marathon,
+
+
+EDITED BY F, MAX MULLER. 3
+
+
+might have become the religion of Kurope. Lt forms to the present
+day the sacred book of the Parsis, the so-called fire-worshippers.
+Two more volumes will complete the translation of all that ts left us
+of Zoroaster’s religion.
+
+
+[See also Vols. XXIII and XXXI.]
+
+
+Vou. Vv. Pahlavi Texts.
+
+
+Translated by E. W. West. Part I. The Bundahis, Bahman
+Yast, and Shayast la-shayast. 8vo, cloth, 12s. 6d.
+
+
+The Pahlavi Texts comprise the theological literature of the revival
+of Loroaster’s religion, beginning with the Sassanian dynasty. They
+are important for a study of Gnosticism.
+
+
+Vous. VI awn IX. The Qur'an.
+Parts I and II. Translated by E.H. Parmer. 8vo, cloth, 21s.
+
+
+Lhis translation, carried out according to his own peculiar views
+of the origin of the Qur’dn, was the last great work of E. H. Palmer,
+before he was murdered in Eg yft.
+
+
+Vou. vil. The Institutes of Vishzu.
+Translated by Jutius Jotty. 8vo, cloth, ros. 6d.
+
+
+A collection of legal aphorisms, closely connected with one of the
+oldest Vedic schools, the Kathas, but considerably added to tn later
+time. Of importance for a critical study of the Laws of Manu.
+
+
+Vou. vit. The Bhagavadgita, with The Sanatsugatiya,
+and The Anugita.
+Translated by KAsHinATH Trimpak TELANG.  §8Vvo, cloth,
+Ios. 6d.
+The earliest philosophical and religious poem of India, It has been
+paraphrased in Arnold’s ‘Song Celestial.’
+
+
+vou. X. The Dhammapada, 7
+Translated from Pali by F. Max MUxier; and
+
+
+The Sutta-Nipata,
+Translated from Pali by V. Fauss6Li ; being Pigs Books
+of the Buddhists. 8vo, cloth, ros. 6d,
+The Dhammapada contains the quintessence of Buddhist morality.
+The Suita-Nipdta gives the authentic teaching of Buddha on some
+of the fundamental principles of religion,
+
+
+4 SACRED BOOKS OF THE EAST:
+
+
+Vou. XI. Buddhist Suttas.
+Translated from Pali by T. W. Ruys Davips. 1. The Maha-
+parinibbana Suttanta; 2. The Dhamma-Aakka-ppavattana
+Sutta. 3. The Tevigga Suttanta; 4. The Akankheyya Sutta;
+5. The Xetokhila Sutta; 6. The Maha-sudassana Suttanta ;
+“. The Sabbasava Sutta. 8vo, cloth, ros. 6d.
+
+
+A collection of the most important religious, moral, and philosophical
+discourses taken from the sacred canon of the Buddhists.
+
+
+vou. x11. The Satapatha-Brahmamza, according to the
+Text of the MAadhyandina School.
+Translated by Jutius Eccrtine. Part I. Books I and II.
+8vo, cloth, 12s. 6d.
+A minute account of the sacrificial ceremonies of the Vedic age.
+It contains the earliest account of the Deluge tn India.
+[See also Vols. XX VI, XLI.]
+
+
+Vou. XIII. Vinaya Texts.
+Translated from the Pali by T. W. Ruys Davins and Hermann
+OxpENBERG. PartI, The Patimokkha. The Mahavagga, I-IV.
+8vo, cloth, tos. 6d.
+The Vinaya Texts give for the first time a translation of the moral
+
+
+code of the Buddhist religion as settled in the third century B.C.
+[See also Vols. XVII and XX.]
+
+
+von. xIv. The Sacred Laws of the Aryas,
+As taught in the Schools of Apastamba, Gautama, VAsish/ha,
+and Baudhayana. ‘Translated by Grore Bier. Part II.
+Vasish/ha and Baudhayana. 8vo, cloth, ros. 6d.
+
+
+vou. XV. The Upanishads.
+Translated by F. Max Mirer. Part IJ. The Ka/Aa-upanishad,
+The Muzdaka-upanishad, The Taittiriyaka-upanishad, The
+Brzhadaramyaka-upanishad, The Svet4svatara-upanishad, The
+Prasf#a-upanishad, and The Maitrayaza-brahmama-upanishad.
+8vo, cloth, tos. 6d.
+
+
+vou. xvi. The Sacred Books of China.
+
+
+The Texts of Confucianism. Translated by James Lecer.
+Part II. The Yi King. 8vo, cloth, ros. 6d.
+[See also Vols. XXXVII, XX XVIII. ]
+
+
+Vou. XVII. Vinaya Texts. 3
+Translated from the Pali by T. W. Ruys Davins and Hermann
+
+
+OxpenBERG. Part II. The Mahavagga V-X: The Xullavagga,
+I-III. 8vo, cloth, ros. 6d.
+
+
+EDITED BY F. MAX MULLER. 5
+
+
+Vou. Xvitrt. Pahlavi Texts.
+
+
+Translated by E. W. West. Part II. The D&distan-t Dinik
+and The Epistles of Manfiskthar. 8vo, cloth, r2s. 6d..
+
+
+vou. XIX. The Fo-sho-hing-tsan-king.
+A Life of Buddha by Asvaghosha Bodhisattva, translated from
+Sanskrit into Chinese by Dharmaraksha, a.p. 420, and from
+Chinese into English by Samurt Beat. 8vo, cloth, ros. 6d.
+This life of Buddha was translated from Sanskrit into Chinese,
+A.D. 420. It contains many legends, some of which show a certain
+similarity to the Evangelium infantiae, &c.
+
+
+Vou. XxX. Vinaya Texts.
+
+
+Translated from the Pali by T. W. Ruys Davips and Hermann
+OxpenBerc. Part III. The Xullavagga, IV-XII. 8vo, cloth,
+10s. 6d.
+
+
+Vou. XXI. The Saddharma-puzdarika; or, The Lotus
+of the True Law.
+Translated by H. Kern. 8vo, cloth, 12s. 6d.
+‘The Lotus of the true Law, a canonical book of the Northern
+Buddhists, iranslated from Sanskrit. There ts a Chinese transla-
+tion of this book which was finished as early as the year 286 A.D.
+
+
+Vou. XXII. Gaina-Sitras.
+Translated from Praékrit by Hermann Jacost. Part I. The
+Afaranga-Sfitra and The Kalpa-Sfitra. 8vo, cloth, ros. 6d.
+The religion of the Gainas was founded by a contemporary of Buddha.
+Lt still counts numerous adherents in India, while there are no
+Buddhists left in India proper.
+Part II, 7 preparation.
+
+
+Vou. XXIII. The Zend-Avesta.
+
+
+Translated by James DarmesTeTER. Part II. The Sifrézahs,
+Yasts, and Nyayis. 8vo, cloth, ros. 6d.
+
+
+Vou. XXIV. Pahlavi Texts.
+
+
+Translated by E. W. Wesr. Part III. Dina-i Maindg-
+Khirad, Sikand-gimanik Vigar, and Sad Dar. 8vo, cloth,
+Ios. 6d,
+
+
+6 SACRED BOOKS OF THE EAST:
+
+
+SECOND SERIES.
+
+
+Vou. xxv. Manu.
+
+
+Translated by Grorc BUHLER. 8vo, cloth, 21s.
+This translation is founded on that of Sir William Jones, which has been
+carefully revised and corrected with the help of seven native Commentaries.
+An Appendix contains all the quotations from Manu which are found in the
+Hindu Law-books, translated for the use of the Law Courts in India.
+Another Appendix gives a synopsis of parallel passages from the six
+Dharma-siitras, the other Smvztis, the Upanishads, the Mahabharata, &c.
+
+
+vou. XXxviI. The Satapatha-Brahmaza.
+
+
+Translated by Jutius Eccrzine. Part I]. Books III and IV.
+8vo, cloth, 12s. 6d.
+
+
+Vous. XXVII anp XXVIII. The Sacred Books of China.
+The Texts of Confucianism. Translated by James Lecce. Parts
+IIlandIV. The Li Ai, or Collection of Treatises on the Rules
+of Propriety, or Ceremonial Usages, 8vo, cloth, 12s. 6d. each.
+
+
+Vou. XXIX. The Gvzhya-Sitras, Rules of Vedic
+
+
+Domestic Ceremonies.
+Part I. Sankhayana, Asvalayana, Paraskara, Khadira. Trans-
+lated by Hermann OLDENBERG. 8vo, cloth, 125. 6d.
+
+
+These rules of Domestic Ceremonies describe the home life of the ancient
+Aryas with a completeness and accuracy unmatched in any other literature.
+Some of these rules have been incorporated in the ancient Law-books.
+
+
+Vou. Xxx. The Gvzhya-Sitras, Rules of Vedic
+Domestic Ceremonies. :
+Part II. Gobhila, Hirazyakesin, Apastamba. Translated by
+HERMANN OLpENBERG. Apastamba, Yag#ia-paribhasha-siitras.
+Translated by F. Max Mttrer. 8vo, cloth, 12s. 6d.
+
+
+Vou. XxxI. The Zend-Avesta. |
+Part III. The Yasna, Visparad, Afrinagan, Gahs, and
+Miscellaneous Fragments. Translated by L.H.Mitts. 8vo,
+cloth, 12s. 6d.
+
+
+Vou. XXXII. Vedic Hymns.
+_ ‘Translated by F. Max Mttier. Part I. 8vo, cloth, 18s. 6d.
+Part II, 2” preparation.
+
+
+Vou. XxxItI. The Minor Law-books.
+Translated by Junius Jorry. Part I. Narada, Brzhaspati.
+8vo, cloth, ros. 6d.
+
+
+EDITED BY F, MAX MULLER. ”
+
+
+Vou. XXXIV. The Ved4nta-Sitras, with the Com-
+mentary by Sankara#arya. Part I.
+
+
+Translated by G. Turpaut. 8vo, cloth, r2s. 6d.
+Parts II and III, 7 preparation.
+
+
+Vou. XxxXv. The Questions of King Milinda. Part I.
+Translated from the Paliby T.W. Ruys Davins. 8vo, cloth, ros. 6d.
+
+
+vou. Xxxvi. The Questions of King Milinda. Part II.
+[Zn the Press. |
+
+
+Vou. XXXVII. The Contents of the Nasks, as stated
+in the Eighth and Ninth Books of the Dinkard. Translated
+by E. W. West. 8vo, cloth, 15s.
+
+Part II, 2” preparation.
+
+
+Vous. XXX1IX anp XL. The Sacred Books of China. The
+Texts of Taoism. Translated by James LeceE. 8vo, cloth, 21s.
+
+
+Vou.xLI. The Satapatha Brahmava. Part III. Trans-
+lated by Juttus Eccrtine. [Jn the Press.|
+Parts IV, V, cn preparation.
+
+
+RECENTLY PUBLISHED BY THE CLARENDON PRESS.
+
+
+A Catalogue of the Chinese Translation of the Bud-
+dhist Tripitaka, the Sacred Canon of the Buddhists
+an China and Fapan.
+
+
+Compiled by order of the Secretary of State for India by
+Bunyiu Nanyjio, Priest of the Temple, Eastern Hongwanai,
+Japan; Member of the Royal Asiatic Society. 4to, 32s. 6d.
+
+
+‘An immense service rendered to Oriental scholarship. —Saturday Review.
+
+
+Record of Buddhistic Kingdoms; being an Account by
+the Chinese Monk F4-uten of his Travels in India and Ceylon
+(A.D. 399-414) in search of the Buddhist Books of Discipline.
+Translated and annotated, with a Corean recension of the
+Chinese Text, by James Leccr, M.A., LL.D. Crown 4to,
+boards, tos. 6d.
+
+
+8 RECENT ORIENTAL WORKS.
+
+
+Anecdota POxroniensta.
+ARYAN SERIES.
+
+
+Buddhist Texts from Fapan. 1. Vagrakkhedika; The
+Diamond-Cutter.
+Edited by F. Max Mittier, M.A, Small 4to, 3s. 6d.
+
+
+One of the most famous metaphysical treatises of the Mahayana Buddhists.
+
+
+Buddhist Texts from Fapan. 1. Sukhavati-Vytha:
+Description of Sukhavati, the Land of Bliss.
+
+
+Edited by F. Max Mutter, M.A., and Bunyru Nanjio. With
+two Appendices: (1) Text and Translation of Sanghavarman’s
+Chinese Version of the Poetical Portions of the Sukh@vati-
+Vyfha; (2) Sanskrit Text of the Smaller Sukhavati-Vytha.
+Small 4to, 7s. 6d.
+
+
+The editio princeps of the Sacred Book of one of the largest and most
+influential sects of Buddhism, numbering more than ten millions of followers
+in Japan alone.
+
+
+Buddhist Texts from Fapan. Nl. The Ancient Palm-
+Leaves containing the Pragna-Paramita-Hvzdaya-
+Siatra and the Ushuisha-Vigaya-Dharazi.
+
+
+Edited by F. Max Mitirr, M.A., and Bunyiu Nanyjio, M.A.
+With an Appendix by G. Binzer, C.I.E. With many Plates.
+Small 4to, ros.
+
+Contains facsimiles of the oldest Sanskrit MS.at present known.
+
+
+Dharma-Samegraha, an Ancient Collection of Buddhist
+Technical Terms.
+Prepared for publication by Kenyru Kasawara, a Buddhist
+
+
+Priest from Japan, and, after his death, edited by F. Max
+Miyer and H. Wenzer. Small 4to, 7s. 6d.
+
+
+Katdyana’s Sarvanukramami of the /Azgveda.
+
+
+With Extracts from Shadgurusishya’s Commentary entitled
+Vedarthadipika. Edited by A. A. Macponegtt, M.A., Ph.D. 16s.
+
+
+Oxford
+AT THE CLARENDON PRESS
+
+
+LONDON: HENRY FROWDE
+OXFORD UNIVERSITY PRESS WAERIOUS, AMEN CORNER, E.C.
+
+
+c1iCh
+i 1)
+
+
+- + $2
+& &
+ss @8 €
+
+
+aan 77, |
+Qo.
+
+
+PLEASE DO NOT REMOVE
+CARDS OR SLIPS FROM THIS POCKET
+
+
+UNIVERSITY OF TORONTO LIBRARY
+
+
+if
+MAVEN hie Pav!
+
+
+Tehahias
+Hay
+
+A Peis os £3 Fe
+Hey
+
+
+eae
+
+
+ey one
+Phy) ie
+‘
+
+
+aay a3 i
+SPAR ake ay eet
+ex: 5
+
+
+as
+
+I
+Berets
+a We Ny,
+
+
+’
+
+
+he
+Oy
+aki
+ie es
+
+
+“ae fe
+
+pepyyh SOS RESaLeAd
+
+ae nteane
+
+PHB er GaCG rEE
+:
+
+
+& ¥
+
+2188
+
+Pr oany
+ye)
+
+
+ets ¥y
+.
+PEGs
+
+
+Cie lg at m9
+
+
+aig hin Se Sp Ra
+
+
+a
+
+Ate rate AS? CoM Cue ae kee,
+
+At yes, ME 654 4 Ses ow Bnew Loe)
+Petras a
+
+
+rue,
+
+
+¥, week!
+Sialy!
+
+
+my
+hi
+bt
+
+
+fp
+
+
+A: YY ei
+ne
+4
+
+
+pore cat ip us tae
+4 tate ie
+

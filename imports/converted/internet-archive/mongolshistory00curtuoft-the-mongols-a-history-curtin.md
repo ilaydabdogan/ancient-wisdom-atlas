@@ -1,998 +1,9 @@
-# The Mongols - A History
-
-THE  MONGOLS
-
-
-A  HISTORY
-
-
-JEREMIAH   CURTIN
-
-
-Htv
-
-
-THE    MONGOLS
-
-A  HISTORY
-
-BY
-
-JEREMIAH   CURTIN
-
-AUTHOR    OF    "MYTHS    AND    FOLK-LORE    OF    IRELAND,"     "  HERO  -  TALES
-
-OF    IRELAND,"    "MYTH    AND    FOLK  -  TALES    OF   THE    RUSSIANS,
-
-WESTERN    SLAVS,  AND   MAGYARS,"   "  CREATION   MTTHS
-
-OF   PRIMITIVE   AMERICA,"    ETC.
-
-
-With  a  Foreword  by
-THEODORE  ROOSEVELT
-
-
-513402
-
-
-1 5.  V  Si
-
-
-BOSTON
-LITTLE,  BROWN,  AND  COMPANY
-
-1908
-
-
-D$
-
-5.
-
-
-Copyright,  1907,
-Bt  A.  M.  Curtw.
-
-AU  rights  reserved
-
-
-Published  December  1907
-
-
-printer*
-I.  J.  Pakkhill  &  Co.,  Bosto*.  U.  8.
-
-
-rpiHEODORE  ROOSEVELT,  President  of  the  United  States
-Jj  of  America,  I  dedicate  to  you  the  present  volume  entitled
-"  The  Mongols,  a  History."  I  do  this  because  on  September
-5th,  1901,  in  the  city  of  Burlington  where  you  addressed  Vermont
-veterans,  I  asked  permission  to  make  the  dedication  and  you  gave
-it.     You  were  Vice-President  at  that  time.
-
-I  made  this  request  because  I  have  great  respect  and  admiration
-for  you  as  a  man,  as  a  leader  of  men,  and  a  scJwlar;  and  because
-of  the  way  in  which  I  came  first  to  know  you.
-
-In  1891  you,  as  Chairman  of  the  Civil  Service  Commission,
-were  in  Washington.  I  had  just  returned  to  that  city  from  a  work
-of  two  years  among  Pacific  Coast  Indians.  Of  these,  two  tribes
-in  California  had  asked  me  to  intercede  for  them  with  the  President,
-who  in  those  days  was  Benjamin  Harrison.  These  Indians  were
-among  the  truly  wretched  and  suffering.  One  tribe  of  them  had
-been  almost  exterminated  through  a  massacre  inflicted  by  white
-men.  The  other  reduced  to  a  feeble  remnant  through  various  man-
-killing  processes.  Still  they  were  worthy  of  earnest  attention.
-Their  myths  have  a  beauty  and  a  value  which  should  preserve
-them  till  literature  perishes.  These  two  tribes  were  the  Wintu
-and  the  Yana  whose  account  of  the  world  and  its  origin  I  pub-
-lished later  on  in  "  Creation  Myths  of  Primitive  America."
-
-On  reaching  Washington  I  went  to  Frederick  T.  Greenhalge,
-my  classmate,  who  then  represented  a  part  of  Massachusetts  in
-Congress,  but  afterward  was  one  of  that  Commonwealth's  renowned
-governors.  Greenhalge  tried  to  induce  a  strong  man  or  two  from
-the  Senate  or  House  to  assist  us  to  act  on  the  President,  but,  though
-promises  were  made,  no  man  came  with  support,  and  we  went  alone
-to  the  White  House.  The  case  had  been  stated  clearly  on  two  pages
-which  I  held  ready  for  delivery.     When  I  had  given  the  reason
-
-v
-
-
-vi  Dedication
-
-of  my  coming  the  President  answered:  "I  see  no  way  to  help
-yon.  What  can  I  do  in  this  matter?  "  "  You  can  give,"  replied  I,
-"  the  executive  impulse.  Send  this  statement  to  tfie  Secretary  of
-the  Interior,  and  direct  him  to  act  on  it."  "  That  will  suffice,"
-added  Grecnhalge.  "  /  will  do  it,"  said  the  President,  after  thinking
-a  moment.  He  took  my  paper,  jotted  down  the  directions  I  had
-su<iqested,  and  sent  them  to  the  Secretary.
-
-II V  came  away  greatly  satisfied,  and  halted  some  moments  at
-the  head  of  the  staircase.  The  President's  chamber  was  on  tfie
-second  story.  All  at  once  in  the  large  room  below  us  I  saw
-a  young  man,  alert  in  his  bearing  and  perfectly  confident.  He
-gazed  at  tfie  ceiling  and  ivalls  of  the  room,  and  was  thoroughly
-occupied.  There  was  no  one  else  in  the  apartment.  I  asked
-Greenhalge  to  look  at  him.  "  That  man,"  said  I,  '  looks
-precisely  as  if  he  had  examined  this  building,  and  finding  it  suit-
-able has  made  up  his  mind  to  inhabit  it."  "  He  is  a  living  picture
-of  that  purpose,"  replied  Greenhalge.  "  But  do  you  not  know  him?
-That  is  Theodore  Roosevelt,  Chairman  of  the  Civil  Service  Com-
-m  ission,  I  must  make  you  acquainted.  But  first  listen  to  a  propliecy :
-That  man  down  there  who  wants  this  house  will  get  it.  He  will
-live  here  as  President."
-
-On  reaching  the  foot  of  the  staircase  Greenhalge  met  you  and  made
-us  acquainted.  We  conversed  for  some  moments,  and  then  you  were
-called  to  tlie  President.  You  and  I  did  not  meet  for  some  years
-after  that  day  at  the  White  House.  You  were  toiling  at  problems
-of  government  and  service,  looking  ahead  always,  looking  to  things
-over  which  you  are  brooding  and  toiling  this  moment.  Some  of
-the  problems  have  been  solved,  others  still  demand  solution.
-
-My  work  led  me  to  various  parts  of  the  earth,  arid  around  it.
-But  at  home  or  abroad  I  watched  your  activity  with  care  and  deep
-interest.  Not  very  long  after  that  prophecy  I  read  for  the  first  time
-this  statement  concerning  you:  "  We  need  just  stich  a  man  to  be
-President."  These  words,  uttered  casually  at  tliai  juncture,  were
-like  the  still  small  voice,  their  might  was  in  their  quality.
-
-When  a  few  years  of  service,  unique  in  many  ways,  liad  brought
-you  to  tfie  Navy  you  accomplished  your  task  in  that  place  and  went
-farther  immediately.  By  this  time  your  name  and  the  office  of
-Prcsiiletit  were  associated  in  the  minds  of  many  people.  Next
-came  tlie  Cuban  war  with  experience  and  triumph.    And  then  you
-
-
-Dedication  vii
-
-were  governor  at  Albany.  While  still  in  that  office  you  were  named
-for  Vice-President,  and  elected.  Later  you  were  President.  But
-only  when  elected  by  the  people  could  you  act  as  seemed  best  to  you
-and  not  as  antecedents  commanded.
-
-I  have  watched  and  studied  your  career  with  deeper  interest  than
-that  of  any  man  who  has  ever  been  President  of  the  United  States.
-There  is  no  case  in  our  history  of  such  concordance  between  the
-judgment  of  a  people  and  the  acts  of  a  man.  "  Thou  hast  been
-faithful  over  a  few  things,  I  will  make  thee  ruler  over  many."
-
-Jeremiah  Curtin.
-St.  Htacinthe,  P.  Q.,    September  6,  1906.
-
-
-FOREWORD
-
-
-The  death  of  Jeremiah  Curtin  robbed  America  of
-one  of  her  two  or  three  foremost  scholars.  Mr.  Curtin,
-who  was  by  birth  a  native  of  Wisconsin,  at  one  time
-was  in  the  diplomatic  service  of  the  Government;
-but  his  chief  work  was  in  literature.  The  extraordinary
-facility  with  which  he  learned  any  language,  his  gift
-of  style  in  his  own  language,  his  industry,  his  restless
-activity  and  desire  to  see  strange  nations  and  out  of
-the  way  peoples,  and  his  great  gift  of  imagination
-which  enabled  him  to  appreciate  the  epic  sweep  of
-vital  historical  events,  all  combined  to  render  his  work
-of  peculiar  value.  His  extraordinary  translations  of
-the  Polish  novels  of  Sienkiewicz,  especially  of  those
-dealing  with  medieval  Poland  and  her  struggles  with
-the  Tartar,  the  Swede  and  the  German,  would  in  them-
-selves have  been  enough  to  establish  a  first  class  repu-
-tation for  any  man.  In  addition  he  did  remarkable
-work  in  connection  with  Indian,  Celtic  and  other
-folk  tales.  But  nothing  that  he  did  was  more  important
-than  his  studies  of  the  rise  of  the  mighty  Mongol
-Empire  and  its  decadence.  In  this  particular  field  no
-other  American  or  English  scholar  has  ever  approached
-him.
-
-Indeed,  it  is  extraordinary  to  see  how  ignorant  even
-
-
-IX
-
-
-x  Foreword
-
-the  best  scholars  of  America  and  England  are  of  the
-tremendous  importance  in  world  history  of  the  nation-
-shattering  Mongol  invasions.  A  noted  Englishman  of
-letters  not  many  years  ago  wrote  a  charming  essay  on
-the  Thirteenth  Century  —  an  essay  showing  his  wide
-learning,  his  grasp  of  historical  events,  and  the  length
-of  time  that  he  had  devoted  to  the  study  of  the  century.
-Yet  the  essayist  not  only  never  mentioned  but  was
-evidently  ignorant  of  the  most  stupendous  fact  of  the
-century  —  the  rise  of  Genghis  Khan  and  the  spread  of
-the  Mongol  power  from  the  Yellow  Sea  to  the  Adriatic
-and  the  Persian  Gulf.  Ignorance  like  this  is  partly  due
-to  the  natural  tendency  among  men  whose  culture
-is  that  of  Western  Europe  to  think  of  history  as  only
-European  history  and  of  European  history  as  only
-the  history  of  Latin  and  Teutonic  Europe.  But  this
-does  not  entirely  excuse  ignorance  of  such  an  event
-as  the  Mongol-Tartar  invasion,  which  affected  half
-of  Europe  far  more  profoundly  than  the  Crusades.
-It  is  this  ignorance,  of  course  accentuated  among
-those  who  are  not  scholars,  which  accounts  for  the
-possibility  of  such  comically  absurd  remarks  as  the
-one  not  infrequently  made  at  the  time  of  the  Japanese-
-Russian  war,  that  for  the  first  time  since  Salamis
-Asia  had  conquered  Europe.  As  a  matter  of  fact  the
-recent  military  supremacy  of  the  white  or  European
-races  is  a  matter  of  only  some  three  centuries.  For
-the  four  preceding  centuries,  that  is,  from  the  beginning
-of  the  thirteenth  to  the  seventeenth,  the  Mongol  and
-Turkish  armies  generally  had  the  upper  hand  in  any
-contest  with  European  foes,  appearing  in  Europe
-always  as  invaders  and  often  as  conquerors;  while  no
-ruler  of  Europe  of  their  days  had  to  his  credit  such
-
-
-Foreword  xi
-
-mighty  feats  of  arms,  such  wide  conquests,  as  Genghis
-Khan,  as  Timour  the  Limper,  as  Bajazet,  Selim  and
-Amurath,  as  Baber  and  Akbar.
-
-The  rise  of  the  Mongol  power  under  Genghis  Khan
-was  unheralded  and  unforeseen,  and  it  took  the  world
-as  completely  by  surprise  as  the  rise  of  the  Arab  power
-six  centuries  before.  When  the  thirteenth  century
-opened  Genghis  Khan  was  merely  one  among  a  number
-of  other  obscure  Mongol  chiefs  and  neither  he  nor  his
-tribe  had  any  reputation  whatever  outside  of  the  barren
-plains  of  Central  Asia,  where  they  and  their  fellow-
-barbarians  lived  on  horseback  among  their  flocks  and
-herds.  Neither  in  civilized  nor  semi-civilized  Europe,
-nor  in  civilized  nor  semi-civilized  Asia,  was  he  known
-or  feared,  any  more,  for  instance,  than  the  civilized
-world  of  today  knows  or  fears  the  Senoussi,  or  any
-obscure  black  mahdi  in  the  region  south  of  the  Sahara.
-At  the  moment,  Europe  had  lost  fear  of  aggression  from
-either  Asia  or  Africa.  In  Spain  the  power  of  the  Moors
-had  just  been  reduced  to  insignificance.  The  crusad-
-ing spirit,  it  is  true,  had  been  thoroughly  discredited
-by  the  wicked  Fourth  Crusade,  when  the  Franks
-and  Venetians  took  Constantinople  and  destroyed
-the  old  bulwark  of  Europe  against  the  Infidel.  But
-in  the  crusade  in  which  he  himself  lost  his  life  the
-Emperor  Barbarossa  had  completely  broken  the  power
-of  the  Seljouk  Turks  in  Asia-Minor,  and  tho  Jeru-
-salem had  been  lost  it  was  about  to  be  regained  by  that
-strange  and  brilliant  man,  the  Emperor  Frederick  II,
-"  the  wonder  of  the  world."  The  Slavs  of  Russia
-were  organized  into  a  kind  of  loose  confederacy,  and
-were  slowly  extending  themselves  eastward,  making
-settlements  like  Moscow  in  the  midst  of  various  Finnish
-
-
-xii  Foreword
-
-peoples.  Hungary  and  Poland  were  great  warrior
-kingdoms,  tho  a  couple  of  centuries  were  to  pass  before
-Poland  would  come  to  her  full  power.  The  Caliphs
-still  ruled  at  Bagdad.  In  India  Mohammedan  warred
-with  Rajput;  and  the  Chinese  Empire  was  probably
-superior  in  civilization  and  in  military  strength  to  any
-nation  of  Europe.
-
-Into  this  world  burst  the  Mongol.  All  his  early
-years  Genghis  Khan  spent  in  obtaining  first  the  control
-of  his  own  tribe,  and  then  in  establishing  the  absolute
-supremacy  of  this  tribe  over  all  its  neighbors.  In
-the  first  decade  of  the  thirteenth  century  this  work
-was  accomplished.  His  supremacy  over  the  wild
-mounted  herdsmen  was  absolute  and  unquestioned.
-Every  formidable  competitor,  every  man  who  would
-not  bow  with  unquestioning  obedience  to  his  will,
-had  been  ruthlessly  slain,  and  he  had  developed  a
-number  of  able  men  who  were  willing  to  be  his  devoted
-slaves,  and  to  carry  out  his  every  command  with  un-
-hesitating obedience  and  dreadful  prowess.  O  it  of
-the  Mongol  horse-bowmen  and  horse-swordsmen  he
-speedily  made  the  most  formidable  troops  then  in
-existence.  East,  west  and  south  he  sent  his  armies,
-and  under  him  and  his  immediate  successors  the  area  of
-conquest  widened  by  leaps  and  bounds;  while  two
-generations  went  by  before  any  troops  were  found  in
-Asia  or  Europe  who  on  any  stricken  field  could  hold
-their  own  with  the  terrible  Mongol  horsemen,  and
-their  subject-allies  and  remote  kinsmen,  the  Turko-
-Tartars  who  served  with  and  under  them.  Few  con-
-quests have  ever  been  so  hideous  and  on  the  whole  so
-noxious  to  mankind.  The  Mongols  were  savages  as
-cruel  as  they  were  brave  and  hardy.    There  were  Nes-
-
-
-Foreword  xv
-
-or  of  any  other  nation ;   this  was  after  the  Hungarians
-had  been  conquered.
-
-The  scourge  of  the  Mongol  conquests  was  terrible
-beyond  belief,  so  that  even  where  a  land  was  flooded
-but  for  a  moment,  the  memory  long  remained.  It
-is  not  long  since  in  certain  churches  in  Eastern  Europe
-the  litany  still  contained  the  prayer,  "  From  the  fury
-of  the  Mongols,  good  Lord  deliver  us."  The  Mongol
-armies  developed  a  certain  ant-like  or  bee-like  power
-of  joint  action  which  enabled  them  to  win  without
-much  regard  to  the  personality  of  the  leader ;  a  French
-writer  has  well  contrasted  the  great  "  anonymous
-victories  '  of  the  Mongols  with  the  purely  personal
-triumphs  of  that  grim  Turkish  conqueror  whom  we
-know  best  as  Timour  the  Tartar,  or  Tamerlane.
-The  civil  administration  the  Mongols  established  in
-a  conquered  country  was  borrowed  from  China,  and
-where  they  settled  as  conquerors  the  conduct  of  the
-Chinese  bureaucracy  maddened  the  subject  peoples
-almost  as  much  as  the  wild  and  lawless  brutality  of  the
-Mongol  soldiers  themselves.  Gradually  their  empire,
-after  splitting  up,  past  away  and  left  little  direct  in-
-fluence in  any  country;  but  it  was  at  the  time  so  pro-
-digious a  phenomenon,  fraught  with  such  vast  and
-dire  possibilities,  that  a  full  knowledge  of  the  history
-of  the  Mongol  people  is  imperatively  necessary  to  all
-who  would  understand  the  development  of  Asia  and
-of  Eastern  Europe.  No  other  writer  of  English  was
-so  well  fitted  to  tell  this  history  as  Jeremiah  Curtin.
-
-Theodore  Roosevelt.
-
-Sagamore  Hill,  September  1, 1907.
-
-
-CONTENTS
-
-
-CHAPTER   I  pag*
-
-Geographical  spread  of  the  word  Mongol.  —  Beginning  of  the  Mongol
-career.  —  Mythical  account  of  Temudjin's  origin.  —  Kaidu,  ancestor
-of  the  great  historical  Mongols.  —  Origin  of  the  Urudai  and  Manhudai
-tribes.  —  Family  of  Kaidu.  —  Origin  of  the  Taidjuts.  —  Bartan,  grand-
-father of  Temudjin. —  Yessugai,  father  of  Temudjin.  —  Kabul's  visit
-to  China.  —  Capture  and  escape  of  Kabul.  —  Shaman  killed  for  the
-death  of  a  patient.  —  Death  of  Ambagai.  —  Death  of  Okin  Barka. —
-March  of  Kutula  against  China.  —  Kaidan,  Tuda  and  Yessugai  hold  a
-council.  —  Attack  of  the  Durbans.  —  Bartan,  the  father  of  Yessugai,
-dies.  —  Triumph  of  Yessugai 1
-
-CHAPTER   II
-
-Rivalry  between  descendants  of  Kabul  and  Ambagai.  —  Kidnapping  of
-Hoelun  by  Yessugai.  —  Birth  and  naming  of  Temudjin.  —  Yessugai
-finds  a  wife  for  Temudjin.  —  Death  of  Yessugai,  1175.  —  Neglect  of
-Hoelun.  —  Targutai  draws  away  Yessugai's  people.  —  Temudjin  be-
-gins his  career  by  the  murder  of  his  half-brother.  —  Capture  of
-Temudjin  by  the  Taidjuts.  —  Temudjin's  escape  from  captivity.—
-Assistance  rendered  by  Sorgan  Shira.  —  Marriage  of  Temudjin
-to  Bortai.  —  Friendship  of  Temudjin  and  Bobrchu.  —  Alliance
-of  Togrul  and  Temudjin.  —  Chelmai,  son  of  Charchiutai.  —
-Capture      of     Bortai     by     the     Merkits.  —  Pursuit     of     Temudjin.
-
-—  Origin  of  the  worship  of  Mount  Burham. — 'Assistance  of  Togrul
-in  recovering  Bortai.  —  Ancestors  of  Jamuka.  —  Temudjin  made  Khan.
-
-—  Appointment  of  officers.  —  Temudjin's  first  victory  in  battle.—
-Temudjin's  brutal  punishment  of  prisoners.  —  Juriats  join  Temudjin's
-forces.  —  Marriage  of  Temudjin's  sister  to  Podu.  —  Marriage  of
-Temudjin's  mother  to  Munlik.  —  Barins  withdraw  from  alliance. —
-Efforts  of  Temudjin  to  win  the  friendship  of  Jamuka   .        .        .        •    10
-
-CHAPTER  III
-
-Attack  of  Temudjin  and  Togrul  upon  the  Lake  Buyur  Tartars.  —  Togrul
-is  given  the  title  of  Wang  Khan.  —  Attack  of  Temudjin  upon  the
-Churkis.  —  Origin  of  the  Churkis. —  Death  of  Buri  Buga.  —  Adopted
-sons  of  Hoelun,  mother  of  Temudjin.  —  Temudjin  and  Wang  Khan
-attack  the  Merkits,  1197.  —  Desertion  of  Wang  Khan.  —  Wang  Khan's
-men  routed  by  Naimans.  —  Rescue  of  Wang  Khan  by  Temudjin.—*
-
-xvii
-
-
-xviii  Contents
-
-PAGE
-
-Second  defeat  of  the  Naimans. —  Temudjin  and  Wang  Khan  become
-as  father  and  son  to  each  other.  —  Wang  Khan  and  Temudjin  march
-against  the  Taidjuts,  1200.  —  Taidjuts  are  joined  by  several  neigh-
-boring tribes.  —  Offering  made  by  Taidjuts  and  their  allies  when
-taking  oath.  —  Defeat  of  Taidjuts  and  Merkits  by  Temudjin. —
-Jamuka  is  made  Khan.  —  Effort  of  Jamuka  to  surprise  and  kill
-Temudjin,  1901.  —  Shamans  cause  wind  and  rain  to  strike  Temudjin. —
-Defeat  of  Jamuka.  —  Punishment  of  Temudjin's  brother,  Belgutai,  for
-exposing  plans.  —  Temudjin  marches  against  the  Tartars.  —  Marriage
-of  Temudjin  to  Aisugan.  —  Defeat  of  Tukta  Bijhi,  a  Merkit  chief. —
-Temudjin  asks  for  Wang  Khan's  granddaughter  for  Juchi.  —  Efforts
-of  Jamuka  to  rouse  the  jealousy  of  Sengun,  son  of  Wang  Klian. —
-Sengun  tries  to  break  the   alliance   between    his   father   and   Temudjin.
-
-—  Discovery  of  a  plot  to  kill  Temudjin.  —  Attack  of  Wang  Khan  and
-Sengun  upon  Temudjin.  —  Victory  of  Temudjin.  —  Death  of  Huildar.
-
-—  Message  of  Temudjin  to  Wang  Khan.  —  Message  of  Temudjin  to
-Sengun.  —  Message  of  Temudjin  to  Jamuka.- — Attack  of  Temudjin
-upon  Wang  Khan.  —  Defeat  of  Wang  Khan  and  Sengun.  —  Temudjin
-rewards  his  warriors.  —  Temudjin  takes  as  wife  the  daughter  of
-Jaganbo,  Wang  Khan's  brother.  —  Death  of  Wang  Khan  and  Sengun,
-1203 37
-
-CHAPTER   IV
-
-Attack  upon  Temudjin  by  Baibuga,  his  father-in-law.  —  Council  held  by
-Temudjin,  1204.  —  Battle  with  the  Naimans,  autumn  of  1204. —
-Capture  of  Kurbassu,  the  wife  of  Baibuga.  —  Surrender  to  Temudjin
-of  tribes  allied  to  Jamuka.  —  Subjection  of  the  Merkits.  —  Marriage
-of  Temudjin  to  the  daughter  of  Dair  Usun.  —  Revolt  and  pursuit  of
-the  Merkits.  —  Death  of  Tohtoa.  —  Defeat  and  capture  of  Jamuka. —
-Death  of  Jamuka.  —  Temudjin  is  made  Grand  Khan,  takes  the  title
-Jinghis.  —  Temudjin  rewards  his  officers.  —  Temudjin  gives  his  wife
-to  Churchadai.  —  Temudjin  distrusts  his  brother,  Kassar.  —  Defence
-of  Kassar  by  his  mother,  Hoelun.  —  Death  of  Hoelun.  —  Temudjin
-alarmed  at  the  power  of  Taibtengeri,  a  Shaman.  —  Murder  of  Taibten-
-geri.  —  Jinghis  Khan's  (Temudjin)  campaign  against  Tanguts. —
-Jinghis  Khan's  position  secured  in  Northeastern  Asia.  —  Kara  Kitai,
-geographically.  —  The  Uigurs.  —  Triumphs  of  Jinghis  alarm  China. —
-Mission  of  Jinghis'  envoys  to  the  Uigurs.  —  Indignation  of  the  Uigurs.
-
-—  Mongols  invade  Tangut,  1207.  —  Tangut  King  gives  his  daughter  in
-marriage  to  Jinghis.  —  Return  of  Jinghis.  —  Arslan  Khan  of  the  Kar-
-luks  gives  homage  to  Jinghis.  —  Marriage  of  Arslan  to  Altun  Bijhi,
-Jinghis'  daughter 69
-
-CHAPTER    V
-
-China,  618  to  907,  a.  n.  — Fall  of  Tang  dynasty.  —  The  Kitans.  —  Parin
-proclaims  himself  Emperor,  f>1fi.  —  House  of  Sung  unites  nearly  all
-China,  f»r>0.  —  Tribute  paid  by  the  Sung  Emperor  to  the  Kitans,  1004.
-— Victory  over  the  Kitans  by  Aguta  in  1114. —  Founding  of  a  new
-State.  Kin  kwe,  by  \iruta.  Death  of  Aguta. —  Invasion  of  North
-China  by  Kin  Emperor,  112.5.  —  Kin  Emperor  besieges  Kai  fong
-fu.  1196.  Sung  Bmperor  seised  and  sent  to  Manchuria.  -M
-sage  of  Jinghis  Khan  to  the  sovereign  of  China.  —  Jinghis  sets  out
-to  subdue  the  Chinese  Empire,  1211.-  Sons  of  Jinghis.  —  Army
-equipment.     -Advance    of    [,900    miles    to    the    Great    Wall    of    China.
-
-—  Friendship    of    the    Onguts. —  Insurrection    of    the    Kitans.  —  Chong
-tu     invested.  —  Jinghis     sends     Subotai     against     the     Merkits.  —  Jin-
-
-
-Contents  xix
-
-PAGE
-
-ghis  resumes  activity  in  China,  1213.  —  Attack  of  Tangut  on  China,
-1213.  —  Mongols  attack  lands  bordering  on  the  Hoang  Ho,  1214. —
-Defence  of  Chong  tu.  —  Mongols  attack  Nan  king.  —  Defeat  of  the
-Merkits.  —  Corea's  submission  to  Jinghis,  1218. —  Death  of  Boroul,
-1217.  —  Origin  of  Mukuli,  one  of  Jinghis'  greatest  generals.  —  Jinghis'
-fourth  attack  on  the  Tanguts,  1218.  —  Origin  of  Kara  Kitai.  —  Victory
-of  Yeliu  over  Kashgar.  —  Invasion  of  Kwaresm  by  Yeliu.  —  Treachery
-of  Gutchluk.  —  Execution  of  Gutchluk  by  Chepe.  —  Kara  Kitai  at-
-tacked by  Shah  Mohammed.  —  The  World-Shaking  Limper  (Tamer-
-lane).—  Attack  of  Kara  Kitans  by  Mongols.  —  Death  of  the  Gurkhan
-of  Kara   Kitai,   1136 7$
-
-CHAPTER   VI
-
-Addition  of  Kara  Kitai  to  Mongol  domains.  —  End  of  Seljuk  rule. —
-Kutb  ud  din  Mohammed  made  Kwaresmian  Shah.  —  Mohammed  seizes
-Balk  and  Herat.  —  Invasion  of  the  lands  of  the  Gurkhan  by  Mohammed,
-1208.  —  Defeat  and  capture  of  Shah  Mohammed.  —  Mohammed  and
-Osman  make  an  attack  on  the  Gurkhan.  —  Success  of  the  Kwaresmian
-Shah.  —  Mohammed  gives  his  daughter  in  marriage  to  Osman,  ruler
-of  Samarkand.  —  Kwaresmians  killed  by  Osman.  —  Storming  of  Samar-
-kand by  Mohammed.  —  Death  of  Osman.  —  Seizure  of  a  part  of  the
-Gur  Kingdom.  —  Assassination  of  Ali  Shir  by  command  of  Mohammed,
-his  brother.  1213.  —  Winning  of  Ghazni  by  Mohammed,  1216.  —  Dis-
-covery of  letters  from  the  Kalif  warning  the  Gurs  against  Mohammed.
-—  Efforts  of  Nassir  the  Kalif  to  stop  Kwaresmian  growth.  —  Limited
-power  of  the  Kalif.  —  Envoy  sent  by  Mohammed  to  the  Kalif.  —  Ali  ul
-Muluk  is  recognized  as  Kalif.  —  Murder  of  Ogulmush  by  command
-of  the  Kalif.  —  Annexation  of  Irak  by  Mohammed.  —  Mohammed  ad-
-vances on  Bagdad.  —  Retreat  of  Mohammed.  —  Mohammed  alarmed
-by  Mongol  movements.  —  Mohammed  receives  envoys  from  Jinghis
-Khan,  1216-17.  —  Sunnites  and  Shiites.  —  Determination  of  the  Kalif
-to  ask  Jinghis  to  defend  the  Sunnites.  —  Invitation  to  Jinghis  branded
-on  the  head  of  the  envoy.  —  Message  of  Jinghis  to  Shah  Mohammed.  —
-Arrest  of  Mongolian  merchants.  —  Second  message  from  Jinghis  to
-Mohammed.  —  Murder  of  Bajra,  Jinghis  Khan's  envoy.  —  Turkan
-Khatun,  the  mother  of  Shah  Mohammed.  —  Trouble  caused  by  Turkan
-Khatun.  —  A  Mongol  tempest.  —  Conspiracy  of  Bedr  ud  din.  —  Ar-
-rangement of  the  Mongol  army.  —  Investment  of  Otrar,  November,
-1218.  —  Capture  of  Otrar,  April,"  1219.  —  Slaughter  of  the  Turk  garri-
-son at  Benakit.  —  Escape  of  Melik  Timur.  —  Investment  of  Bokhara,
-June,  1219.  —  Surrender  of  Bokhara.  —  Feeding  of  Mongol  horses  in
-th^  Grand  Mosque.  —  Storming  of  the  fortress.  —  March  of  Jinghis  on
-Samarkand.  —  Surrender  of  Samarkand.  —  Pursuit  of  the  Kwaresmian
-ruler
-
-
-CHAPTER  VII
-
-Indecision  of  Shah  Mohammed.  —  Escape  of  Mohammed  to  Nishapur.  —
-Submission  of  Balkh.  —  Proclamation  of  the  Shah  to  Nishapur.  —
-Pursuit  of  Mohammed.  —  Withdrawal   of  Mohammed   from   Nishapur.
-
-—  Sack  of  Nishapur. —  Flight  of  Mohammed  to  an  island  in  the
-Caspian.  —  Death  of  Shah  Mohammed  January  10,  1221.  —  Escape  of
-Turkan  Khatun  to  the  mountains.  —  Succession  of  Jelal  ud  din. —
-Surrender  of  Uak  and  of  Turkan  Khatun.  —  Siege  and  capture  of  the
-Kwaresmian  capital.  —  Attack  made  on  the  Talekan  district  by  Jinghis.
-
-—  Siege  of  Ghazni.  —  March  of  Tului  against  Khorassan,  1220.  —
-Attack    on    Nessa.  —  Attack    and    capture    of    Merv.  —  Revenge    of
-
-
-93
-
-
-xx  Contents
-
-FAOE
-
-Togachar's  widow.  —  March  of  the  Mongols  against  Herat.  —  Turk-
-mans near  Nerv  escape  and  form  the  nucleus  of  the  Ottoman  Empire.
-
-—  Jelal  ud  din  at  Ghazni,  1991.  —  Death  of  a  grandson  of  Jinghis. —
-Revenge  of  Jinghis.  —  Retreat  of  Jelal  from  Ghazni.  —  Pursuit  of
-Jelal  by  Jinghis.  —  Battle  at  the  Indus  between  Jelal  and  Jinghis. —
-Leap  of  Jelal  into  the  Indus.  —  Siege  of  Herat,  1999.  —  Mongol  army
-marches  on  Herat  a  second  time 113
-
-CHAPTER  VIII
-
-Jinghis  passes  the  winter  near  the  Indus,  1-222-23.  —  Resolve  of  Jinghis
-to  return  to  Mongolia,  1993. — 'Myths  regarding  this  resolution. —
-Command  of  Jinghis  to  kill  useless  prisoners. — .March  of  Chepe  Noyon
-to  Tirlis.  —  Command  of  Jinghis  to  Chepe  Noyon  to  exterminate  the
-Polovtsi.  —  March  of  Chepe  to  Tiflis.  —  Chepe's  alliance  with  the
-Polovtsi.  —  Betrayal  of  the  Polovtsi,  their  flight  to  Russia.  —  Mystislav
-aids  the  Polovtsi  against  the  Mongols.  —  Defeat  of  the  Russians  on  the
-Kalka,  1994. — Terror  of  Southern  Russia.  —  Jinghis  at  his  home  on
-the  Kcrulon,  1225»—  Mukuli's  conquest  of  lands  belonging  to  the  Kin
-dynasty,  1216. —  Death  of  Mukuli,  1223.  —  Jinghis  enters  Tangut.
-
-—  Siege  of  Ling  chau.  —  Submission  of  Ling  chau.  —  Death  of  Jinghis
-Khan.  1997.  —  Burial  of  Jinghis. -A  Jinghis  Khan's  disposal  of  his
-Empire,  -f-  Kurultai  of  election  held  on  the  Kerulon,  1229.  —  Accession
-of  Ogotai.    His   plans  of  expeditions.  —  Offerings  made  to  the  shade
-
-of  Jinghis.  —  First  work  of  Ogotai 131
-
-CHAPTER    IX
-
-Condition  of  Persian  Irak  at  the  time  of  Jinghis  Khan's  death.  —  Flight
-of  Jelal  ud  din  to  Delhi.  —  Marriage  of  Jelal  to  the  daughter  of
-Iletmish.  —  Effort  of  Jelal  to  take  possession  of  his  inheritance.  —
-Founding  of  the  Kara  Kitan  dynasty  of  Kerman.  —  Marriage  of  Jelal
-to  the  daughter  of  Borak.  —  Advance  of  Jelal  into  Fars.  —  M
-of  Jelal  to  the  daughter  of  the  Atabeg  of  Shiraz.  —  Effort  of  Jelal  to
-overcome  his  brother,  Ghiath.  —  Jelal  marches  against  Nassir,  Kalif
-of  Islam.  —  Capture  of  Dakuka  by  Jelal,  1225.  —  Possession  of  Tebril
-by  Jelal.  -f-  Expedition  against  Georgia,  122.5./— Second  march  of  Jelal
-to  Tiflis,  1226.  — /  Conquest  of  Georgia./ — Jelal  attacks  K.irs.  —  Defeat
-of  a  Mongol  division  by  Jelal.  —  Attack  of  the  Mongols  on  Jelal  in
-Ispahan,  1227.  —  Murder  of  Mohammed,  a  favorite  of  Jelal.  —  Ghiath
-ud  din  strangled  by  Borak.  —  Jelal  demands  tribute  from  the  Shirvan
-Shah.  —  Attack  of  Jelal  on  the  combined  armies  of  Georgia  and
-Armenia.  —  Second  siege  of  Khelat  by  Jelal.  —  Death  of  Nassir  the
-Kalif,  1995.  —  Succession  of  Zahir  as  Kalif  and  then  of  Mostansir. —
-Jelal  invested  with  the  title  of  Shah  in  Shah.  —  Capture  of  Khelat  by
-Jelal,  1930.  —  Defeat  of  Jelal  at  Kharpert.  —  March  of  Jelal  on
-Khelat.  —  March  of  Jelal  on  Gandja.  —  Attack  and  defeat  of  Jelal  by
-Mongols.  —  Death  of  Jelal,  1231.  —  End  of  Kwarcsmian  dynasty  .  145
-
-CHAPTER    X
-
-Ravage  of  Amid  and  Mayafarkin  by  Mongols.  —  Devastation  of  A/erhaid-
-jan.  —Capture  of  BrbfJ  by  Mongols.  —  Mongols  in  Arabian  Irak,  1238.
-
-—  Capture  of  Gandja  by  Mongols,  1935.  —  Capture  of  Tiflis  by  Mongol  .
-
->.      Mongols  advance  to  the  Tigris.  —  Visit  of  Prince    \\nk-  and
-his    sister,    Tamara,    to    Ogotai,     1940.  —  Mongols    in    Syria,    1241. —
-
-
-Contents  xxi
-
-PAGB
-
-Capture  of  regions  north  of  Lake  Van.  —  Sheherzur  sacked  by
-Mongols.  —  The  Mongols  driven  off  from  Yakuba  by  Bagdad  troops.  —
-Refusal  of   Queen   Rusudan   to   leave   Usaneth.  —  Death   of    Rusudan.
-
-—  Installation  of  Kuyuk,  1246. —  Death  of  Kei  Kosru,  1245.  —  Struggle
-of  Rokn  ud  din  for  rule  in  Rum.  —  Death  of  Alai  ud  din.  —
-Mangu  Grand  Khan  of  the  Mongols,  1231.  —  Visit  of  Rokn  ud  din  to
-Sarai.  —  Entrance  of  Baidju  into  Rum.  —  Great  ruin  effected  by
-Mongols  in  Asia  Minor.  —  Appointment  by  Juchi  of  Chin  Timur  as
-Governor  of  Kwaresm.  —  Ravaging  by  Kwaresmian  bands  in  Khoras-
-san.  —  Attack  upon  the  Kankalis  by  Chin  Timur.  —  Visit  of  the  Prince
-of  Iran  to  Ogotai.  —  Authority  transferred  from  Chin  Timur  to  Sari
-Bahadar.  —  Reinstatement  of  Chin  Timur.  —  Chin  Timur's  choice  of
-Kurguz  as  chancellor.  —  Death  of  Chin  Timur,  1235.  —  Visit  of  Kurguz
-to  Ogotai.  —  Kurguz  appointed  to  collect  taxes.  —  Residence  of  Kurguz
-at  Tus.  —  Command  of  Ogotai  to  raise  up  Khorassan,  and  repeople
-Herat.  —  Struggle  between  Sherif  and  Kurguz.  —  Death  of  Kurguz.  —
-Succession   of   Sherif.  —  Sherif's   oppression   of  the  people  of  Tebriz.
-
-—  Death  of  Sherif,  1244.  —  Visit  of  Argun  to  the  Kurultai  which
-elected  Kuyuk,  1251.  —  Election  of  Mangu,  1251.  —  Argun's  reception
-in  Merv.  —  Shems  ud  din's  reign  in  Herat.  —  Death  of  Rokn  ud  din.  —
-Death  of  Shems  ud  din,  1244.  — Death  of  Kutb  ud  din,  1258.  — Posi-
-tion of  Persia  in  1254 178
-
-CHAPTER   XI
-
-The  Ismailian  known  in  Europe  as  Assassins.  —  Death  of  Mohammed,  632.
-
-—  Omar  made  Kalif,  634.  —  Murder  of  Aly,  661.  —  Election  of  Muavia
-in  Damascus.  —  Winning  of  Egypt  by  Muavia.  —  Yezid,  son  of  Muavia,
-named  heir.  —  Death  of  Muavia.  Succession  of  Yezid,  680.  —  Death  of
-Muslim.  —  Hussein  camps  on  the  plain  of  Kerbala.  —  Death  of  Hussein,
-October,  680.  —  Babek,  816.  — Seizure  of  Babek  by  Motassim,  835.—
-Execution  of  Babek.  —  Origin  of  Abdallah.  —  Spread  of  the  peculiar
-beliefs  of  Abdallah.  —  Amed,  son  of  Abdallah.  —  Rise  of  Karmath.  —
-Fights  in  the  East  and  West.  —  Obeidallah,  first  Fatimed  Kalif,  909.
-
-—  Winning  of  Egypt  and  Southern  Syria  by  descendants  of  Obeidallah,
-967.  —  Addition  of  Aleppo  to  the  Fatimed  Empire,  991.  —  Founding  of
-the  Eastern  Ismailians,  or  Assassins,  by  Hassan  Ben  Sabah.  —  Omar
-Khayyam  and  Nizam  ul  Mulk.  —  Death  of  Alp  Arslan.  —  Seizure  of  the
-fortress  of  Alamut  by  Hassan  Sabah,  1090.  —  Rivalry  of  Hassan  and
-Nizam  ul  Mulk.  —  Death  of  Nizam  ul  Mulk  and  Melik  Shah,
-1092.  —  Peculiar     belief     of     Hassan     Sabah.  —  Assassins     in     Syria.
-
-—  Friendship  of  Risvan,  Prince  of  Aleppo,  for  the  Order.  —
-Assassination  of  the  Prince  of  Mosul,  1113.  —  Death  of  Risvan. —
-Akhras  attempts  to  exterminate  the  Assassins.  —  Revenge  of  the
-Assassins.  —  Surrender  of  the  fortress  of  Sherif,  1120.  —  Death  of
-Hassan  Sabah,  1124.  —  Kia  Busurgomid  succeeds  Hassan  Sabah.  —
-Possession  of  Banias  by  Assassins.  —  Hugo  De  Payens,  Grand  Master
-of  the  Templars  in  Jerusalem,  1129.  —  Death  of  Togteghin.  —  Succession
-of  his  son,  Tajulmuluk.  —  Efforts  to  murder  Tajulmuluk. —  Execution
-
-of  the  Assassins jgf
-
-CHAPTER   XII
-
-Murder  of  Aksonkor  Burshi,  Prince  of  Mosul,  1126.  —  Murder  of  Busi,
-Prince  of  Damascus.  —  Murder  of  Sindjar's  vizir  by  Assassins,  1127. —
-Vengeance  of  Assassins.  —  Death  of  a  Fatimid  Kalif  by  the  daggers  of
-the  Assassins,  1134.  —  Death  of  Kia  Busugomid,  1138.  —  Appointment
-of  Mohammed  to  succeed  his  father.  —  Murder  of  Mostereshed.  —  Death
-
-
-xxii  Contents
-
-PAGE
-
-of  Rashld,  his  or. —  Assassin  doctrine  as  delivered  to  Sindjar.
-
-• — Succession  "i"  Mohammed,  ii:is. —  Nur  ed  din  in  Syria.  —  Attack
-against  Damascus,  1154.  —  Friendship  of  Nur  ed  din  for  the
-AW  Triumph    of     Nur     ed     din     in     Haram. —  Arrival    of
-
-Shawer     In     Damascus.  —  Shawer'a     request     for     aid     against     the
-
-Cn:  Plot   of   Shawer   to   destroy    Shirkuli.  —  Death   of   Shirkuh,
-
-1169.  -Saladin'a  origin.  —  Saladin  first  vi/.ir  of  the  Kalif.  -Exposure
-of  the  Becreta  of  the  Assassins  by  Hassan  II. —  Efforts  of  Hassan  to
-established  bis  descent  from  Kalifs  of  Egypt.  —  Death  of  Hassan. —
-I ».  ah  of  Nur  nl  din,  1174.  — Egypt  governed  l>y  Saladin  in  the  Dame
-
-of  Salih. —  Defeat  of  the  troops  of  Aleppo,  by  Saladin,  1175.  — End
-
-of    the     I'atimid     Kalifat. —  Saladin    attacked     by     Assassins.  —  Attack
-
-of  M  issiat  by  Saladin.  —  Compromise  of  Sinan. —  Death  of  Mohammed
-II.-    Succession  of  Jelal  nd  din  Hassan,  son  of  Mohammed,   1913, —
-
-l>  return  to  the  true  faith.  — Death  of  Jelal  ud  din,  1225. —  Su<
-Bion  of   his   son,   Alii   ed  din.  —  Death  of  Alai  ed  din.  —  Succession  of
-Kokn  ud  din.  —  Attack  of  HulagU  upon  the  Affftfiftffinn  — Surrender  of
-Rokn   ud  din. — Visit  of  Rokn  ud  din  to  the  court  of  Mangu,  1957. —
-Death  of  Kokn  ud  din 299
-
-CHAPTER   XIII
-
-Message  of  Hulagu  to  Kalif  of  Bagdad,  1257.  —  Kalif  rebukes  Hulagu. —
-Hulagu'a  envoys  insulted  by  the  people.  —  Second  message  of  the
-Kalif  to   Hulagu  to   warn   him   against  making  war  on   the   Ahhasids.
-
-—  Attempted  treason  of  Akc,  commandant  of  Daritang.  —  Possession
-of  the  Daritang  road  by  Hulagu.  —  Prediction  of  the  astrologer. —
-Capture  of  I.uristan  by  the  Mongols.  —  Advance  of  Peth  ud  din  to
-meet  the  .Mongol  division.  —  Opening  of  canals  from  the  Tigris  by  the
-Mongols.  —  Triumph  <>f  Hulagu.  —  Submission  of  the  Kalif  of  Bagdad.
-
-—  Bagdad  sacked  by  the  Mongols.  —  Death  of  Kalif  of  Bagdad,  i
-
-—  Appointment  of  Ben  Amran  as  prefect.  —  Alb  Argun's  accession  to
-the  throne  of  Luristan. —  Summons  of  Hulagu  to  Bedr  ml  din,   I
-
-of  Mosul.  —  Presents  given  by  the  Prince  of  Mosid  to  Hulagu.  —  D
-of  Salih,  l.'V'i.    -Death  of  Turan  Shah,  successor  of  Salih.       Accession
-
-of  Eibeg  to  the  throne  of  Egypt  —  Attempt  of  Nassir  to  drive  Eibeg
-from  the  throne.  —  Message  of  Hulagu  to  Nassir.  --  Advance  of
-Hulagu'a  army  into  Syria.  —  Accusation  of  Hulagu  again  kamil,
-the  Byubite  prince.  —  .Summons  sent  by  Hulagu  to  the  Prince  of
-.Mardin.  —  Message  of  Nassir  to  Mogith. —  Succession  of  Mem
-of  Eibeg. —  Kutuz  Incomes  Sultan.  —  Siege  of  El  Hint.  —  Mongols
-camp  ne  II    Ueppo.  —  Assault  and  capture  of  Aleppo,  January  25,  1260.
-
-—  Damascus  left  defenceless  hy   Nassir 247
-
-CHAPTER    XIV
-
-New*  of  the  death  of  Mangu,  1 2W.  —  Desire  of   Kutuz.  to  take  ti-    fkM
-against    the    Mongols.  —  Imprisonment    of    Hulagu's    envoy.  —  Meeting
-of   the    two    armies    on    the    plain    of    Ain    .lalut.    1  JViO.  —  Defe.it    of
-Moncrols    by    Kutur..        Arrival    of    Kutuz    in    Damascus.  —  Pursuit    of
-the   Mongol's   by    I  Death   of    KutUS,    I  -?«0.  —  Enthronement   of
-
-p,ci»     -  Youth    Of    BefbarS.  —  Yshmut,   son    Of    Hnlntru.   demands    the
-
--.•ruler   of   Mavafarkin.  —  Denth   of    Kamil. —  Attack    of   Yshmut   on
-
-Mardin.        Kalifs    imestiture    of    Rcihars    with    the    sovereignty.  —  De-
-
-rture   from   Cairo   Of   the   Sultan   and    the    Kalif,    1909.        Entrance   of
-
-it&tulr    Into    Hitt       Attack    of    Sanjar   on    the    Mongols    who    were
-
-
-Contents  xxiii
-
-PAGE
-
-moving  against  Mosul.  —  Death  of  San  jar.  —  Siege  of  Mosul. —
-Slaughter  of  the  inhabitants  of  Mosul.  —  Death  of  Prince  of  Mosul. —
-Death  of  Salih.  —  Visit  of  Salih,  the  Melik  of  Mosul,  to  Beibars  in
-Egypt-  —  Enthronement  of  Beibars.  —  Berkai's  criticism  of  Hulagu.  —
-Defeat  of  Hulagu  by  Nogai.  —  Return  of  Hulagu  to  Tebriz.  —  Letter
-of  Beibars  to  Berkai.  —  Detention  of  envoys  by  Michael  Palaelogus.  — ■
-Desire  of  Berkai  for  an  alliance  against  Hulagu.  —  Attack  of  Hayton,
-King  of  Cilicia,  on  Egyptian  territory.  —  Death  of  Seif  ud  din  Bitikdji,
-1263.  —  Troubles  in  Fars. —  Reception  of  Seljuk  Shah  at  the  Oxus,  by
-Hulagu.  —  Death  of  Abu  Bekr,  1260.  —  Accession  of  Mohammed  Shah
-to  the  throne  of  Fars,  1262.  — Death  of  Seljuk  Shah.  —  Uns  Khatun
-placed  on  the  throne  of  Fars,  1264.  —  Sherif  ud  din  claims  to  be  the
-Mahdi  promised  by  the  Shiites.  —  March  of  the  Mongols  against  Sherif
-ud  din. —  Siege  of  El  Biret,  1264.  — Death  of  Hulagu,  1265.  — Death
-of  Hulagu's  wife  Dokuz  Khatun.  —  Berkai's  second  campaign  to  the
-Caucasus,  1264.  —  Death  of  Berkai,  1266.  —  Nogai's  army  retreats  on
-Shirvan 267
-
-CHAPTER  XV
-
-Kin  Emperor  sends  offerings  to  the  spirit  of  Jinghis  Khan,  1229. —
-Mongols  continue  warfare  in  China.  —  Siege  of  Li  ho  chin  by  Mongols,
-1227.  —  King  Yang  attacked  by  Mongols,  1229.  —  Defeat  of  the  Mon-
-gols by  Yra  buka,  1230.  —  Advance  of  Ogotai  and  Tului  on  China.  —
-Ogotai  anxious  to  seize  Honan.  —  Surrender  of  Fong  tsiang.  —  Arrival
-of  Yra  buka,  the  Kin  general  at  Teng  chu,  1234.  —  Tului's  report  to
-Ogotai  of  the  situation  in  Honan.  —  Siege  of  Yiu  chin  by  Tului.  —  Cap-
-ture and  death  of  Yra  buka.  —  Ogotai  visits  Tului.  —  Ogotai  asks  the
-Kin  Emperor  to  submit.  —  Advance  of  Mongols  on  Shan  chiu.  —  Fall  of
-Honan.  —  Siege  of  Nan  King.  —  Appearance  of  the  plague.  —  Flight  of
-the  Emperor  from  his  capital.  —  Attack  of  the  capital  by  Subotai.  —
-Defence  of  Pian  king.  —  Surrender  of  Pian  king.  —  Execution  of
-Baksan.  —  Appearance  of  Mongols  near  Tsai  chiu.  —  Attack  of  Tsai
-chiu  by  Tatchar,  son  of  Boroul.  —  Nin  kia  su  yields  the  throne  to
-Clung  lin.  —  Death  of  Nin  kia  su.  —  Death  of  Ching  lin.  —  Death  of
-Tului,  October,  1232.  — End  of  dominion  of  the  Kins  in  China,  1234    .  295
-
-CHAPTER    XVI
-
-Kurultai  summoned  by  Ogotai  at  Talantepe,  1234.  —  Kurultai  summoned
-by  Ogotai  at  Kara  Kurum,  1235.  —  Batu  marches  West.  —  An  army  sent
-to  Cashmir  and  India.  —  Expedition  against  China.  —  Assassination  of
-Tsui  li.  —  Recall  of  Subotai.  —  Reoccupation  of  Ching  tu  by  the
-Chinese  1239.  —  Sack  of  Ching  tu  by  Mongols.  —  Entrance  into  Hu
-kuang  of  Kutchu,  1236.  —  Death  of  Kutchu.  —  Attack  on  Liu  chiu  by
-Chagan,  a  Mongol  general,  1238.  —  Withdrawal  of  Chagan.  —  Three
-victories  of  Meng  kong  over  Mongols,  1239.  —  Offers  of  peace  by  Wang
-tsie,  a  Mongol  envoy.  —  Death  of  Ogotai,  1241.  —  Influence  of  Abd  ur
-Rahman  over  the  widow  of  Ogotai.  —  Delay  of  Batu  in  coming  to  the
-Kurultai.  — ■  Election  of  Kuyuk  as  Emperor.  —  Death  of  Turakina,
-Ogotai's  widow.  —  Death  of  Fatima,  a  favorite  of  Turakina.  —  Batu
-learns  of  the  death  of  Kuyuk,  1248.  —  Kurultai  called  by  Batu.  —
-Mangu,  son  of  Tului,  saluted  as  Emperor,  1251.  —  Refusal  of  Ogo-
-tai's sons  to  recognize  the  legality  of  the  Kurultai  which  appointed
-Mangu.  —  Discovery  of  a  plot  to  assassinate  Mangu.  —  Death
-of    Siurkukteni,    mother    of    Mangu,    1252.  — ■  Desire    of    Mangu    to
-
-
-xxiv  Contents
-
-PAGE
-
-kill  the  partisans  of  Ogotafs  sons.  —  Removal  of  all  Uigurs  favor-
-able to  Ogotai's  descendants  by  Mangu.  —  Mangu  gives  Honan  to
-Kubilai,  1252.  —  Tali  the  capital  of  Nan  chao  under  Mongol  rule.  —
-Return  of  Kubilai  to  Mongolia.  —  Journey  of  Uriang  Kadai  to
-Mangu's  court  to  report  on  work  done  in  the  South,  beyond  China. —
-Return  of  Uriang  Kadai,  1254.  —  Summons  of  Uriang  Kadai  to  Chen
-chi  kung,  sovereign  of  Tung  king  (Gan  nan),  to  own  himself  tributary
-to  Mangu.  —  Surrender  of  Kiao  chi,  the  Gan  nan  capital,  to  Uriang
-Kadai.  —  Chen  chi  kung  resigns  in  favor  of  his  son,  1253.  —  Popularity
-of  Kubilai  in  China.  —  Jealousy  of  Mangu.  —  Recall  of  Kubilai,  1257.
-
-—  March  of  Mangu  to  the  Sung  Empire.  —  March  of  Mangu  against
-Ku  chu  yai,  a  fortress  west  of  Pao  ning.  —  Mangu's  conquest  of  West-
-ern Su  chuan.  —  Death  of  Mangu,  1259.  —  Kubilai  at  Ju  in  Honan,
-1259.  —  Effort  of  Arik  Buga,  master  at  Kara  Kurum,  to  usurp  power.
-
-—  Treaty  of  Kia  se  tao  and  Kubilai.  —  Encampment  of  Kubilai  outside
-the  walls  of  Pekin.  —  Election  and  enthronement  of  Kubilai.  —  Battle
-between  Kubilai  and  Arik  Buga.  —  Defeat  of  Arik  Buga  .        .  310
-
-CHAPTER   XVII
-
-March  of  Arik  Buga  to  Kara  Kurum.  —  Attack  of  Arik  Buga  on  Kubilai
-northeast  of  Shang  tu.  —  Defeat  of  Arik  Buga.  —  Reverses  of  Arik
-Buga.  —  Appeal  of  Arik  Buga  to  the  mercy  of  his  brother,  1264. —
-Death  of  Arik  Buga,  1266.  —  Claim  of  Kaidu,  grandson  of  Ogotai,  to
-headship  of  the  Mongols.  —  Decision  of  Kubilai  to  conquer  all  China.
-
-—  Revolt  of  Litan,  one  of  Kubilai's  generals.  —  Death  of  Litan. —
-Kubilai  moves  against  Southern  China,  1267. —  Kubilai's  command  to  At
-chu  to  besiege  Siang  yang,  1268.  —  Attack  of  Mongols  on   Fan  ching,
-
-1273.  —  The  Emperor's  discovery  of  the  siege  of  Siang  yang  by  the  Mon-
-gols. —  Control  of  Fan  ching  by  the  Mongols.  —  Surrender  of  Siang
-yang  by  Liu  wen  hwan.  —  Death  of  Tu  tsong,  the  Emperor,  August,
-
-1274.  —  Surrender  of  many  cities  to  Bayan.  —  Surrender  of  Su  chuan,
-1278.  —  Bayan  advises  Kubilai  to  continue  operations  in  China.-  \r-
-rival  of  the  Emperor  and  Empress  at  Kubilai's  court.  —  March  of
-Bayan  against  Lin  ngan.  —  Election  of  Y  wang  as  governor  of  the  Em-
-pire.—  Command  obtained  from  the  Emperor,  by  Bayan,  ordering  Sung
-subjects  to  submit  to  the  Mongols.  —  Chinese  defections  follow  Mongol
-successes.  —  Effort  of  Alihaiya  to  bribe  Ma  ki  to  surrender  Kwe  Iin  fn,
-the  capital  of  Kiang  se.  —  Defeat  and  capture  of  Ma  ki.  —  Death  of
-Toan  tsong,  1278.  —  Kuang  Wang  is  made  Emperor  under  the  Mine
-Ti  ping.  —  Destruction  of  the  army  of  the  Sung  Emperor.  —  Blocking
-of  Chinese  vessels  by  Mongol  barges.  —  Capture  of  more  than  800  Chi-
-nese vessels.  —  Death  of  Chang  shi  kie.  —  Kubilai  finds  himself  master
-
-of  China,  January  31,  1279 336
-
-CHAPTER    XVIII
-
-Struggle  of  Kubilai  with  Kaidu  lasting  from  the  death  of  Arik  Buga  to  the
-death  of  Kubilai.  —  End  of  the  Sung  dynasty.  —  Departure  of  troops
-for   Corea.  —  Mongol    fleet   encounters   a   storm.  —  Return   of  the   6
-
-—  Attack  and  defeat  of  the  King  of  Banna.  —  Death  of  Sutu,  a
-distinguished  Mongol  general. —  Kubilai  plans  a  second  Japanese
-expedition.  —  Victory  of  Kubilai's  forces  over  the  Tung  king  men  in
-Seventeen  engagements.  —  Visit  of  Vang  ting  pie  to  the  islands  south
-of  China,  12S5.  —  Arrival  of  the  ships  of  tin  kingdoms  in  Tsinan  chiu.
-
-—  Desire  of  Tok  Timur  to  put  Sliircki,  son  of  Mangu,  on  the  throne,
-
-
-Contents  xxv
-
-PAGE
-
-1277.  _  Tok  Timur  attacked  by  Bayan.  —  Flight  of  Tok  Timur.  —  Tok
-Timur  asks  aid  of  Shireki ;  failing  to  get  it  he  sets  up  Sarban.  —  Form-
-ing of  a  new  league  against  Kubilai  by  Kaidan  with  Nayan  as  leader.
-
-—  Capture  and  death  of  Nayan.  —  Gift  of  Kara  Kurum  to  Bayan,  as
-headquarters.  —  Kubilai's  departure  from  Shang  tu  for  the  West.  —
-Recall  of  Bayan.  —  Kubilai  sends  a  thousand  ships  to  attack  Java.  —
-Effort  of  Wang  chu  to  free  the  Chinese  Empire.  —  Death  of  Ahmed,
-Kubilai's  Minister  of  Finance.  —  Execution  of  Wang  chu.  —  Execution
-of  Sanga.  —  Death  of  Kubilai,  February,  1294.  —  Election  of  Timur.  —
-Death  of  Bayan  at  the  age  of  fifty-nine.  —  Treaty  of  Timur  with  the
-King  of  Tung  king.  —  Spread  of  revolt.  —  Death  of  Kaidu,  1301.  —
-Daughter  of  Kaidu.  —  Homage  rendered  Chabar  as  Kaidu's  successor.
-— •  Timur  acknowledged  as  overlord.  —  War  between  Chabar  and  Dua,
-1306.  —  Death  of  Dua.  —  Gebek,  son  of  Dua,  proclaimed  successor.  —
-Attack  of  Chabar  on  Gebek.  —  Defeat  of  Chabar 361
-
-CHAPTER  XIX
-
-Accession  of  Ananda,  grandson  of  Kubilai.  —  Removal  of  Ananda.  —  Suc-
-cession of  Khaishan,  under  the  name  of  Kuluk.  —  Death  of  Khaishan,
-1311.  —  Batra  is  proclaimed  under  the  name  Bayantu.  —  Cause  and
-beginning  of  the  ruin  of  Mongol  power  in  China.  — ■  Appointment  of
-Shudi  Bala  as  successor  of  Bayantu.  —  Death  of  Bayantu  in  1320.  — ■
-Assassination  of  Shudi  Bala.  The  first  death  by  assassination  in  the
-Imperial  family.  —  Succession  of  Yissun  Timur.  —  Appointment  of
-Asukeba  as  heir.  —  Death  of  Yissun  Timur.  —  The  widow  of  Yissun.
-Timur  proclaims  Asukeba.  —  Effort  of  Tob  Timur  to  secure  the  throne
-for  his  brother,  Kushala.  —  Defeat  of  the  partisans  of  Asukeba.  —
-Exile  of  the  Empresc.  —  Sudden  death  of  Kushala  while  feasting,
-1329.  —  Tob  Timur  is  made  Emperor.  —  Death  of  Tob  Timur.  —  Death
-of  the  young  son  of  Kushala.  —  Accession  of  Togan  Timur,  Kushala's
-eldest  son.  —  Revolt  in  Honan,  Su  chuan  and  Kwang  tung.  —  Removal
-of  Tob  Timur's  tablet  from  the  hall  of  Imperial  ancestors,  1340. —
-Completion  of  the  annals  of  the  Liao,  the  Kin,  and  the  Sung  dynasties.
-
-—  Insurrection  m  South  China,  1341.  —  Fang  kwe  chin,  a  pirate,
-harries  the  coast  of  Che  kiang.  —  Declaration  of  Han  chan  tong  of  the
-appearance     of     Buddha     to     free     China     from    the     Mongol     yoke.
-
-—  Death  of  Han  chan  tong.  —  Departure  of  Mongols  from  the
-Yang  tse  region.  —  Capture  of  Han  yang  and  Wu  chang  in
-Hu  kwang  by  Siu  chiu  hwei.  —  Recapture  of  Hang  chiu  by  the
-Mongol  general,  Tong  pu.  —  Appearance  of  Chang  se  ching  in  Kiang
-nan.  —  Siu  chiu  hwei  proclaims  himself  Emperor.  —  Defeat  of  a  Mongol
-general  by  Ni  wen  tsiun.  —  Appearance  of  Chu  yuan  chang,  the  man
-destined  to  destroy  Mongol  rule,  and  found  the  Ming  dynasty. —
-Capture  of  Nan  king,  Yang  chiu  and  Chin  kiang  by  Chu.  —  Defeat
-of  adherents  of  Ming  wang,  the  pseudo  Sung  Emperor,  by  Chagan
-Timur,  a  Mongol  general.  —  Control  of  Hu  kwang  and  Kiang  si  by  Siu
-chiu  hwei.  —  Chin  proclaims  himself  Emperor.  —  Plans  of  Chagan
-Timur  to  capture  Nan  king.  —  Aiyuchelitala  named  as  heir  by  Togan
-Timur.  —  Invitation  of  Ali  hwei  to  Togan  Timur  to  yield  what  is  left
-of  Mongol  power.  —  Defeat  of  Tukien  Timur.  —  Assassination  of
-Chagan  Timur  by  Wang  se  ching.  —  Appearance  of  Ming  yu  chin  as
-Emperor.  —  March  of  Chu,  the  coming  Emperor  of  China,  against  Chin
-yiu  liang.  —  Defeat  of  Chin  yiu  liang.  —  Surrender  of  cities  to  Chu.  —
-Effort  of  Polo  Timur  to  capture  Tsin  ki.  —  Defeat  of  Polo  Timur  by
-Ku  ku  Timur.  —  The  heir  of  the  Mongol  throne  acts  against  the  Grand
-
-
-xxvi  Contents
-
-PAGE
-
-Khan,  his  father.  —  Polo  Timur  made  commander-in-chief  by  Togan
-Timor.  —  News  of  the  capture  of  Shang  tu.  —  Death  of  Ming  yu  chin,
-l;5,i(j#  —  Disappearance  of  Han  lin  ulh.  —  Efforts  of  Chu  to  liberate
-China.  —  Surrender  of  all  cities  to  Chu's  generals.  —  Terror  of  Togan
-Timur  caused  by  conquests  of  Chu.  —  Chu  proclaimed  Emperor,  the
-name  Ming  is  given  to  his  dynasty.  —  Entrance  of  Chu  into  Ta  tu,
-1368. —  Death  of  Togan  Timur.  —  Capture  of  Togan  Timur's  grand-
-son by  Ming  forces.  —  Advance  of  Su  tu,  the  Ming  general,  to  the
-Kerulon.  —  Death  of  the  Mongol  heir.  Succession  of  his  son  Tukus
-Timur,  1378.  —  Defeat  of  Tukus  Timur  by  Chu  forces.  —  Assassination
-of  Tukus  Timur.  —  Civil  war  roused  by  Yissudar.  —  Invitation  of  the
-Emperor  of  China  to  Buin  Shara  to  declare  himself  vassal.  —  Invasion
-of  Mongolia  by  a  Chinese  army.  —  Yung  lo's  advance  to  the  Kerulon.
-—  Defeat  of  the  Mongols.  —  Death  of  Buin  Shara,  1412.  — The  Manchu
-dynasty.  —  End  of  Mongol  power 384
-
-
-V
-
-^
-
-
--
-
-
-r\\
-
-
-THE    MONGOLS
-
-
 CHAPTER  I
 
 CLASSIFICATION,   MYTH   AND    REALITY
 
 FROM  an  obscure  and  uncertain  beginning  the  word  Mongol
-has  gone  on  increasing  in  significance  and  spreading  geo-
-graphically during  more  than  ten  centuries  until  it  has  filled  the
+has  gone  on  increasing  in  significance  and  spreading  geographically during  more  than  ten  centuries  until  it  has  filled  the
 whole  earth  with  its  presence.  From  the  time  when  men  used  it
 at  first  until  our  day  this  word  has  been  known  in  three  senses
 especially.  In  the  first  sense  it  refers  to  some  small  groups  of
@@ -1007,18 +18,14 @@ eyes  of  various  degrees  of  intensity.  In  this  sense  the  word  Mongol
 co-ordinates  vast  numbers  of  people,  immense  groups  of  men  who
 are  like  one  another  in  some  traits,  and  widely  dissimilar  in  others.
 It  embraces  the  Chinese,  the  Coreans,  the  Japanese,  the  Manchus,
-the  original  Mongols  with  their  near  relatives  the  Tartar,  or  Turk-
-ish tribes  which  hold  Central  Asia,  or  most  of  it.  Moving  west-
+the  original  Mongols  with  their  near  relatives  the  Tartar,  or  Turkish tribes  which  hold  Central  Asia,  or  most  of  it.  Moving  west-
 ward from  China  this  term  covers  the  Tibetans  and  with  them  all
 the  non-Aryan  nations  and  tribes  until  we  reach  India  and
 Persia.
 
 In  India,  whose  most  striking  history  in  modern  ages  is  Mongol,
 nearly  all  populations  save  Aryans  and  Semites  are  classified  with
-Mongols.  In  Persia  where  the  dynasty  is  Mongol  that  race  is  pre-
-ponderant in  places  and  important  throughout  the  whole  kingdom,
-
-1
+Mongols.  In  Persia  where  the  dynasty  is  Mongol  that  race  is  preponderant in  places  and  important  throughout  the  whole  kingdom,
 
 
 The  Mongols
@@ -1106,20 +113,17 @@ This  stealing  of  cattle,  this  grabbing  of  pasture  and  forest,  this
 fighting,  this  killing,  this  capture  of  women  continued  for  ages  with
 no  apparent  results  except  those  which  were  personal,  local,  and
 transient  till  Temudjin  the  great  Mongol  appeared  in  that  harsh
-mountain  country.  This  man  summed  up  in  himself,  and  intensi-
-fied to  the  utmost  the  ideas,  strength,  temper  and  spirit  of  his  race
+mountain  country.  This  man  summed  up  in  himself,  and  intensified to  the  utmost  the  ideas,  strength,  temper  and  spirit  of  his  race
 as  presented  in  action  and  life  up  to  his  day.  He  placed  the
 Mongols  on  the  stage  of  the  world  with  a  skill  and  a  power  that
 were  simply  colossal  and  all-conquering.  The  results  which  he
 won  were  immediate  and  terrifying.  No  man  born  of  woman  has
-had  thus  far  in  history  a  success  so  peculiar,  so  thorough  and  per-
-fect, so  completely  acknowledged  by  mankind  as  the  success  won
+had  thus  far  in  history  a  success  so  peculiar,  so  thorough  and  perfect, so  completely  acknowledged  by  mankind  as  the  success  won
 by  Temudjin.  There  is  in  his  career  an  unconquerable  sequence,
 a  finish,  a  oneness  of  character  that  sets  it  apart  among  all  the
 careers  of  those  mighty  ones  in  history  who  worked  for  this  life  and
 no  other,  and  strove  for  no  object  save  that  which  is  tangible,
-material  and  present;  success  of  such  kind  and  success  so  enor-
-mous that  a  common  intelligence  might  yearn  for  it,  but  have  no
+material  and  present;  success  of  such  kind  and  success  so  enormous that  a  common  intelligence  might  yearn  for  it,  but  have  no
 
 
 The  Mongols
@@ -1131,14 +135,11 @@ The  Mongols
 more  chance  of  winning  than  of  reaching  the  stars,  or  of  seeing  the
 sun  during  night  hours.
 
-The  career  of  this  Mongol  is  unique  in  the  world,  unapproach-
-able,  since  its  object  was  unmixed  and  immediate  and  his  success
-in  attaining  it  was  so  great  that  it  seems,  we  might  say,  super-
-human.
+The  career  of  this  Mongol  is  unique  in  the  world,  unapproachable,  since  its  object  was  unmixed  and  immediate  and  his  success
+in  attaining  it  was  so  great  that  it  seems,  we  might  say,  superhuman.
 
 The  account  which  is  given  us  of  Temudjin's  origin  is  a  myth
-tale,  excepting  a  few  generations  directly  preceding  him.  Gene-
-alogy in  the  form  of  a  myth  tale  is  no  exception  in  the  case  of  any
+tale,  excepting  a  few  generations  directly  preceding  him.  Genealogy in  the  form  of  a  myth  tale  is  no  exception  in  the  case  of  any
 people,  —  no  wonder.  It  is  the  rule  and  inevitable,  the  one  method
 used  by  each  primitive  folk  to  explain  its  own  origin.  All  early
 men  in  their  own  accounts  are  descended  from  gods  who  are
@@ -1162,8 +163,7 @@ single  and  that  her  name  was  Alan  Goa.  The  moving  people
 were  dependents  of  one  Horilartai.
 
 In  time  before  that  Bargudai,  who  owned  Bargu<i/n  on  bake
-Baikal,  had  a  daughter  whom  lie  gave  to  Horilartai  of  Horntu-
-madun.  From  this  marriage  came  Alan  Goa,  born  at  Alih  Usun.
+Baikal,  had  a  daughter  whom  lie  gave  to  Horilartai  of  Horntumadun.  From  this  marriage  came  Alan  Goa,  born  at  Alih  Usun.
 They  had  left  their  old  place  since  the  hunting  of  ermine  and
 Bquirrelfl  had  been  stopped  there.  Horilartai  removed  to  Mount
 Burhan,  where  game  was  abundant.  He  joined  Shinehi  Ho.an.
@@ -1183,8 +183,7 @@ Dorbian.
 One  day  while  Doben  was  hunting  he  found  in  the  forest  a
 man  roasting  vension  and  straightway  asked  meat  of  him.  The
 man  kept  one  flank  and  the  lungs,  and  gave  the  remainder  to
-Doben  who  tied  what  he  got  to  his  saddle,  and  started  off  home-
-ward. He  met  on  the  road  a  poor  man  and  a  small  boy.  "  Who
+Doben  who  tied  what  he  got  to  his  saddle,  and  started  off  homeward. He  met  on  the  road  a  poor  man  and  a  small  boy.  "  Who
 art  thou  ?  "  inquired  Doben.  "  I  am  of  the  Malish  Boyandai,"
 said  the  poor  man,  "  I  am  in  need,  give  me  venison,  I  pray  thee,
 I  will  give  thee  my  son  in  return  for  it."  Doben  gave  the  man  a
@@ -1210,8 +209,7 @@ brothers  could  break  the  five  arrows  when  tied  in  a  bundle.
 son,  "as  to  who  is  the  father  of  my  third,  fourth  and  fifth  sons.
 Ye  wonder,  and  with  reason,  for  ye  know  not  that  a  golden  hued
 man  makes  his  way  to  this  yurta.  He  enters  through  the  door  by
-which  light  comes,  he  enters  in  through  the  smoke  hole  like  sun-
-shine. The  brightness  which  comes  from  him  fills  me  when  I  look
+which  light  comes,  he  enters  in  through  the  smoke  hole  like  sunshine. The  brightness  which  comes  from  him  fills  me  when  I  look
 at  him.  Going  off  on  the  rays  of  the  sun  or  the  moon  he  runs  like
 a  swift  yellow  dog  till  he  vanishes.  Cease  talking  idly.  Your  three
 youngest  brothers  are  children  of  Heaven,  and  no  one  may  liken
@@ -1221,8 +219,6 @@ Alan  Goa  instructed  her  sons  then,  and  said  to  them :  "  Ye  all
 are  my  children,  ye  are  all  sons  of  mine.  If  ye  stand  apart  like
 those  five  broken  arrows  it  will  be  very  easy  to  break  you,  but  if  ye
 
-
-6  The  Mongols
 
 keep  one  mind  and  one  spirit  no  man  on  earth  will  be  able  to  injure
 you,  ye  will  be  like  those  five  arrows  in  the  bundle."
@@ -1275,16 +271,13 @@ became  reconciled  and  went  home  with  Ilatagi.
 Classification,    Myth   and   Reality  7
 
 anchar  to  himself.  And  aloud  he  said  as  they  traveled,  "  A  coat
-is  complete  when  a  collar  is  sewed  to  it."  The  brother  said  noth-
-ing on  hearing  these  words  for  the  first  time ;  Boduanchar  repeated
+is  complete  when  a  collar  is  sewed  to  it."  The  brother  said  nothing on  hearing  these  words  for  the  first  time ;  Boduanchar  repeated
 the  saying.  "  What  dost  thou  mean  ?  "  asked  Hatagi.  "  Those
-men  on  the  river,"  said  Boduanchar,  "  have  no  head  in  their  com-
-pany; great  and  small  are  all  one  to  them.  We  might  take  their
+men  on  the  river,"  said  Boduanchar,  "  have  no  head  in  their  company; great  and  small  are  all  one  to  them.  We  might  take  their
 ulus *  very  easily."  "  Well,"  replied  Hatagi,  "  when  we  reach  home
 we  will  talk  of  this ;  if  we  agree  we  will  take  the  place."
 
-The  five  brothers  talked  over  the  plan  and  were  willing.  Bodu-
-anchar led  them  back  to  the  village.  The  first  person  seized  by
+The  five  brothers  talked  over  the  plan  and  were  willing.  Boduanchar led  them  back  to  the  village.  The  first  person  seized  by
 him  was  a  woman.  "  Of  what  stock  art  thou  ?  "  asked  Boduanchar.
 "  I  am  of  the  Charchiuts,"  answered  the  woman.  The  five
 brothers  led  all  the  people  to  their  own  place ;  after  that  they  had
@@ -1319,8 +312,6 @@ even  children.    Most  of  the  Jelairs  were  slain,  except  some  who
 1 A  village  or  community.
 
 
-8  The  Mongols
-
 had  camped  in  a  place  where  the  enemy  did  not  reach  them.
 These  survivors  found  refuge  at  Monalun's  settlement,  where
 they  fell  to  digging  roots  for  subsistence,  and  spoiled  a  large
@@ -1338,8 +329,7 @@ wives  brought  the  armor.  The  Jelairs  then  slew  the  women,  and
 when  she  came  up  they  killed  Monalun  also.
 
 The  descendants  of  Katchi  Kyuluk  were  all  dead  now  except
-the  youngest  son,  who  was  living  apart  from  the  others  at  Bar-
-gudjin  on  the  eastern  shore  of  Lake  Baikal,  and  Kaidu  his  eldest
+the  youngest  son,  who  was  living  apart  from  the  others  at  Bargudjin  on  the  eastern  shore  of  Lake  Baikal,  and  Kaidu  his  eldest
 son's  only  offspring,  a  small  boy  who  was  saved  by  his  nurse,  who
 hid  with  the  child  under  firewood.
 
@@ -1367,8 +357,7 @@ asked  he  of  (lie  younger  man.     "  I  have  not,"  said  the  stranger,
 The  man  followed  Nacbin,  who  al  his  own  time  well  selected  turned
 
 on  this  Jelair  and  killed  him.  lb-  fettered  the  horse,  tied  the  hawk
-to  the  middle,  turned  and  rode  toward  the  second  man  ;  upon  reach-
-ing him  he  aaked  if  he  had  seen  a  brown  stallion,  and  marcs  going
+to  the  middle,  turned  and  rode  toward  the  second  man  ;  upon  reaching him  he  aaked  if  he  had  seen  a  brown  stallion,  and  marcs  going
 
 
 Classification,   Myth   and  Reality  9
@@ -1396,8 +385,7 @@ Nachin,  as  Mongol  story  depicts  him,  is  one  of  the  few  men
 in  history  who  were  not  self-seeking.  He  saved  the  small  remnant
 of  his  family  which  escaped  from  the  Jelairs,  and  was  for  some
 time  the  real  guardian  of  the  Mongols.  He  saved  the  boy  Kaidu,.
-and,  seeking  no  power  for  himself,  turned  every  effort  to  strengthen-
-ing his  nephew.
+and,  seeking  no  power  for  himself,  turned  every  effort  to  strengthening his  nephew.
 
 From  that  nephew,  Kaidu,  are  descended  the  greatest  historical
 men  of  his  people,  men  without  whom  the  name  Mongol  might  not
@@ -1405,8 +393,7 @@ have  risen  from  obscurity  to  be  known  and  renowned  as  it  now  is.
 
 Nachin  had  two  sons,  Urudai  and  Manhudai,  from  whom  are
 descended  the  Uruts  and  Manhuts,  two  tribes  which  under  Kuildar
-and  Churchadai  saved  the  fortune  of  Temudjin  in  his  most  des-
-perate battle  at  Kalanchin.
+and  Churchadai  saved  the  fortune  of  Temudjin  in  his  most  desperate battle  at  Kalanchin.
 
 Kaidu  had  three  sons;  the  eldest  was  Boshin  Kordokshin,  the
 second  Charaha  Lingu,  the  third  Chao  Jinortaidji.  Kaidu 's
@@ -1418,8 +405,6 @@ strong  son,  Ambagai,  were  descended  the  Taidjuts.
 Kaidu's  second  son  took  his  eldest  brother's  widow,  and  from
 her  had  a  son,  Baisutai,  from  whom  came  the  Baisuts.    Kaidu's
 
-
-10  The  Mongols
 
 third  BOD  had  six  sons,  who  were  the  founders  of  six  clans  among
 Mongols.  Tumbinai,  son  of  Boshin,  Kaidu's  eldest  son,  had  two
@@ -1525,8 +510,7 @@ the  darkness.  They  pursued  and  hunted  him  with  all  speed,
 but  only  at  Kabul's  own  yurta  were  they  able  to  come  up  with  him.
 There  he  received  them  with  all  hospitality,  and  gave  his  enemies
 a  splendid  new  tent  which  belonged  to  a  wife  whom  he  had  just
-taken ;  he  gave  also  the  best  entertainment.  Soon  after,  he  sum-
-moned his  servants  (his  sons  were  not  with  him).  "  These  people,"
+taken ;  he  gave  also  the  best  entertainment.  Soon  after,  he  summoned his  servants  (his  sons  were  not  with  him).  "  These  people,"
 said  he,  "  wish  to  take  me  to  the  Golden  Khan  to  be  killed  by  him
 with  terrible  torture.     Ye  must  save  me."
 
@@ -1534,12 +518,8 @@ The  servants  fell  unawares  on  the  Golden  Khan's  messengers,
 and  killed  every7  man  of  them.  Kabul  was  saved  that  time,  but
 soon  after  he  fell  ill  and  died  —  very  likely  of  poison  —  thus
 leaving  the  world  to  his  seven  sons,  who  were  very  ambitious.  These
-sons  were  so  great  through  their  valor  and  courage  that  no  com-
-bination of  enemies  could  meet  them  successfully.  They  were  all
+sons  were  so  great  through  their  valor  and  courage  that  no  combination of  enemies  could  meet  them  successfully.  They  were  all
 of  one  mother,  Kulku  Goa,  a  Kunkurat  woman,  whose  younger
-
-
-12  The  Mongols
 
 
 o
@@ -1551,8 +531,7 @@ terrible  blood  feud.
 Sam  Tegin  fell  ill  and  they  called  in  a  shaman  of  the  Taidjuts
 to  cure  him.  He  died  notwithstanding  the  art  of  this  shaman,
 who  was  slain  either  on  his  way  home  or  soon  after,  by  the  relatives
-of  the  dead  man.  This  caused  a  great  battle  between  the  Taid-
-juts and  Sain  Tegin's  adherents  and  relatives,  joined  now  by
+of  the  dead  man.  This  caused  a  great  battle  between  the  Taidjuts and  Sain  Tegin's  adherents  and  relatives,  joined  now  by
 Kabul's  sons,  who  favored  the  cause  of  their  uncle.  In  this  battle
 Kaidao  met  a  Taidjut  in  single  encounter,  split  open  his  saddle,
 swept  him  down  from  his  horse,  and  wounded  him  dreadfully.
@@ -1638,8 +617,6 @@ their  presence.  The  swamp  extended  so  far  on  either  hand  that
 they  cared  not  to  follow.
 
 
-14  The  Mongols
-
 Kutula's  surviving  attendants  returned  to  the  army,  spread  news
 of  his  death,  and  declared  that  the  Durhans  had  killed  him.  His
 warriors  reached  home  somewhat  earlier  than  the  Khan  and
@@ -1718,15 +695,13 @@ the  position  a  conflict  resulted,  attacks  were  made  by  small  parties
 or  larger  ones,  or  through  war  or  poison ;  the  weaker  men  when
 ambitious  were  swept  from  existence.  The  continual  interference
 of  China  by  intrigue  or  by  arms,  or  by  bribery  through  titles  or
-presents,  through  rewards  to  individuals,  or  dire  ghastly  punish-
-ments where  punishment  seemed  more  effective,  did  something
+presents,  through  rewards  to  individuals,  or  dire  ghastly  punishments where  punishment  seemed  more  effective,  did  something
 also  to  strengthen  and  consolidate  the  loosely  coherent  society  of
 the  Mongols,  and  thus  helped  unwittingly  the  work  of  strong  men
 seeking  power  north  of  China.
 
 Yessugai,  through  activity  and  keenness  succeeded  in  winning
-co-operation  sufficient  to  undo  the  great  Taidjut  triumph.  Ka-
-bul's sons  again  got  the  primacy.
+co-operation  sufficient  to  undo  the  great  Taidjut  triumph.  Kabul's sons  again  got  the  primacy.
 
 
 CHAPTER   II
@@ -1738,8 +713,7 @@ Ambagai  was  the  great  ruling  fact  among  Mongols  at  this
 epoch.  Kabul  and  Ambagai  were  second  cousins,  both  being  third
 in  descent  from  Kaidu,  that  little  boy  saved  by  his  nurse  from  the
 Jelairs;  the  Kaidu  whose  descendants  were  the  great  ruling
-Mongols  of  history.  Kabul  and  Ambagai  are  remarkable  them-
-selves, and  are  notable  also  as  fathers  of  men  who  sought  power
+Mongols  of  history.  Kabul  and  Ambagai  are  remarkable  themselves, and  are  notable  also  as  fathers  of  men  who  sought  power
 by  all  means  which  they  could  imagine  and  bring  into  practice.
 
 *  Yessugai  with  his  brothers  was  now  triumphant  and  prosperous.
@@ -1757,8 +731,7 @@ found  none  and  rode  back  to  the  cart  where  his  wife  was.  Those
 men  are  very  hostile,"  said  the  woman.  "  Hurry  off,  or  they  will
 kill  thee.  If  thou  survive  find  a  wife  such  as  I  am,  if  thou  remember
 me  call  bet  by  my  name."  Then  she  drew  off  her  shift  and  gave
-it  to  Yeke.  Be  took  it.  mounted  quickly  and,  seeing  Yessugai  ap-
-proaching with  his  brothers,  galloped  up  the  river.
+it  to  Yeke.  Be  took  it.  mounted  quickly  and,  seeing  Yessugai  approaching with  his  brothers,  galloped  up  the  river.
 
 The  three  men  rushed  after  Yeke,  but  did  not  overtake  him,
 so  they  rode  back  to  the  woman,  whose  name  was  Hoelun.    She
@@ -1767,8 +740,6 @@ was  weeping.  Her  screams  when  they  seized  her  "  raised  waves
 on  the  river,  and  shook  trees  in  the  valley."
 
 "  The   husband   has  crossed   many   ridges  already,   and   many
-
-10
 
 
 Temudjin  Begins  His  Mighty  Career  17
@@ -1800,8 +771,7 @@ only  know  the  sun  and  the  moon  through  our  eyesight,'  said  I  to
 some  friends  of  mine,  '  but  now  a  white  falcon  has  brought  them
 both  down  to  me  in  his  talons,  this  must  be  an  omen  of  greatness.'
 At  the  right  time  hast  thou  come  hither  Yessugai  with  thy  son  and
-shown  what  my  dream  means.  It  presages  high  fortune  un-
-doubtedly. I  have  a  daughter  at  home,  she  is  small  yet  but  come
+shown  what  my  dream  means.  It  presages  high  fortune  undoubtedly. I  have  a  daughter  at  home,  she  is  small  yet  but  come
 •and  look  at  her."
 
 Then  he  conducted  the  father  and  son  to  his  yurta.  Yessugai
@@ -1817,9 +787,6 @@ son,  and  do  thou  leave  him  here  for  a  time  with  me."
 The  agreement  was  finished  and  Yessugai  went  away  without
 
 1 1161.
-
-
-18  The  Mongols
 
 
 o
@@ -1846,8 +813,7 @@ Yessugai  died1  shortly  after  without  seeing  Temudjin.
 Munlik  went  with  all  haste  to  Desaichan.  "  Yessugai,"  said  he,
 "  wants  to  see  Temudjin,  he  has  sent  me  to  bring  the  boy."  '  If
 Yessugai  is  grieving  let  Temudjin  go,  and  return  to  me  afterward."
-Munlik  took  Temudjin  home  as  instructed.  In  the  spring  follow-
-ing when  Ambagai's  widows  were  preparing  the  offerings  to
+Munlik  took  Temudjin  home  as  instructed.  In  the  spring  following when  Ambagai's  widows  were  preparing  the  offerings  to
 ancestors  before  moving  to  the  summer  place  they  refused  to  share
 sacrificed  meats  with  Hoelun,  and  thus  shut  her  out  from  their
 ruling  circle  and  relationship.  "  Better  leave  this  woman  here  with
@@ -1874,11 +840,9 @@ l  1175.
 Temudjin  Begins  His  Mighty  Career  19
 
 Temudjin  wept  then  and  turned  to  his  mother  for  assistance.
-Hoelun  resolved  quickly ;  she  mounted,  and,  directing  her  attend-
-ants to  take  lances,  set  out  at  the  head  of  them.  She  overtook  the
+Hoelun  resolved  quickly ;  she  mounted,  and,  directing  her  attendants to  take  lances,  set  out  at  the  head  of  them.  She  overtook  the
 deserting  people  and  stopped  one  half  of  them,  but  even  that  half
-would  not  go  back  with  her.  So  Targutai  and  Todoyan  had  de-
-feated Hoelun  with  her  children,  and  taken  one  half  of  Yessugai's
+would  not  go  back  with  her.  So  Targutai  and  Todoyan  had  defeated Hoelun  with  her  children,  and  taken  one  half  of  Yessugai's
 people;  the  second  half  joined  other  leaders.  But  Hoelun,  a
 strong,  resolute  woman,  protected  her  family  and  found  means  to
 support  it.  Her  children  lived  in  poor,  harsh  conditions,  and  grew
@@ -1913,15 +877,11 @@ not  kill  Belgutai."     Then  he  bent  his  legs  under  him,  and  waited.
 
 Temudjin  from  behind  and  Kassar  in  front  killed  Baiktar  with
 arrows.  When  they  went  home  Hoelun  knew  by  their  faces  what
-had  happened.  '  Thou  wert  born,"  said  she  to  Temudjin,  "  grasp-
-ing blood  in  thy  fingers.    Thou  and  thy  brother  are  like  dogs  when
+had  happened.  '  Thou  wert  born,"  said  she  to  Temudjin,  "  grasping blood  in  thy  fingers.    Thou  and  thy  brother  are  like  dogs  when
 
-
-20  The  Mongols
 
 devouring  a  village,  or  serpents  which  swallow  alive  what  they
-spring  upon,  or  wolves  hunting  prey  in  a  snow  storm.  The  in-
-juries done  us  by  the  Taidjuts  are  terrible,  ye  might  plan  to  grow
+spring  upon,  or  wolves  hunting  prey  in  a  snow  storm.  The  injuries done  us  by  the  Taidjuts  are  terrible,  ye  might  plan  to  grow
 strong  and  then  punish  the  Taidjuts.    But  what  are  ye  doing  ?  "
 
 Well  might  she  ask,  for  she  did  not  know  then  her  wonderful  son
@@ -1940,8 +900,7 @@ out  and  train  his  own  family.  The  first  work  before  him  was
 the  empire  of  his  household.  Neither  mother,  nor  brother,
 nor  anyone  must  stand  between  Temudjin  and  his  object ;  in  that
 he  showed  his  great  singleness  of  purpose,  his  invincible  will  power,
-his  wisdom  in  winning  the  success  which  his  mind  saw.  The  wis-
-dom of  Temudjin  in  building  up  empire  was  an  unerring  clear
+his  wisdom  in  winning  the  success  which  his  mind  saw.  The  wisdom of  Temudjin  in  building  up  empire  was  an  unerring  clear
 instinct  like  the  instinct  of  a  bee  in  constructing  its  honeycomb,
 or  the  judgment  and  skill  of  a  bird  in  finding  the  proper  n  atcrial,
 and  weaving  the  round  perfect  nest  for  its  eggs  and  its  little  ones.
@@ -1969,8 +928,7 @@ Temudjin  Begins  His  Mighty  Career         21
 
 the  Taidjuts.  "  We  want  only  Temudjin,  we  want  no  one  else,"
 said  they.  Temudjin  had  fled  to  Mount  Targunai  and  hidden
-there  in  dense  thickets  whither  they  could  not  follow.  They  sur-
-rounded Targunai  and  watched  closely.
+there  in  dense  thickets  whither  they  could  not  follow.  They  surrounded Targunai  and  watched  closely.
 
 He  spent  three  days  in  secret  places,  and  then  led  his  horse  out
 to  flee  from  the  mountain.  When  near  the  edge  of  the  forest  the
@@ -1984,8 +942,7 @@ tried  to  go  out  a  second  time  —  a  great  rock  fell  in  front  of  h
 blocked  the  road  and  stopped  his  passage.  "  Heaven  wills  that  I
 stay  here  still  longer,"  said  Temudjin.  He  went  back  and  spent
 three  other  days  m  the  mountain,  nine  days  in  all  without  eating.
-"  Must  I  die  here  alone  and  unheard  of  ?  "  thought  he  despair-
-ingly. "  Better  go  at  all  hazards."  He  cut  a  way  near  the  rock
+"  Must  I  die  here  alone  and  unheard  of  ?  "  thought  he  despairingly. "  Better  go  at  all  hazards."  He  cut  a  way  near  the  rock
 and  led  his  horse  down  the  mountain  side.
 
 The  Taidjuts,  who  were  watching  outside  very  carefully,  seized
@@ -2012,8 +969,6 @@ him,  and  searched  around  everywhere.  There  was  moonlight
 that  evening  and  Sorgan  Shira  of  the  Sulduts,  who  was  searching
 with  others,  and  had  gone  quite  a  distance  ahead,  found  Temudjin,
 
-
-22  The  Mongols
 
 but  did  not  call  out.  "  The  Taidjuta  hate  thee  because  thou  hast
 wisdom,"  said  he  to  the  captive,  "  thou  wilt  die  if  they  find  thee.
@@ -2046,8 +1001,7 @@ pursued  by  a  falcon,"  said  Temudjin,  "  it  hides  in  thick  and
 thus  saves  itself."
 
 We  should  be  of  less  value  than  grass  were  we  not  to  help  this
-poor  youth,  who  thus  begs  us,"  said  to  himself  Sorgan  Shira.  Tin-
-boys  took  the  kang  from  the  captive  and  burned  it,  then  they  hid
+poor  youth,  who  thus  begs  us,"  said  to  himself  Sorgan  Shira.  Tinboys  took  the  kang  from  the  captive  and  burned  it,  then  they  hid
 Timudjin  in  a  cart  which  they  piled  high  with  wool  packs  and  told
 Kadan,  their  sister,  to  guard  the  wool  carefully,  and  not  speak  of
 Temudjin  to  any  living  person.
@@ -2072,8 +1026,7 @@ Temudjin  Begins  His  Mighty  Career  23
 he  was  silent  and  moved  not.    The  Taidjuts  were  satisfied,  and
 went  away  without  emptying  the  cart  box.
 
-"  Thou  hast  come  very  near  killing  me,"  said  Sorgan  to  Temud-
-jin. "  The  smoke  of  my  house  would  have  vanished,  and  my  fire
+"  Thou  hast  come  very  near  killing  me,"  said  Sorgan  to  Temudjin. "  The  smoke  of  my  house  would  have  vanished,  and  my  fire
 would  have  died  out  forever  had  they  found  thee.  Go  now  to  thy
 mother  and  brothers."
 
@@ -2090,8 +1043,7 @@ brothers  and  Hoeiun  his  mother.  Temudjin  moved  now  with
 them  to  Mount  Burhan.  Near  Burhan  is  the  high  land  Gulyalgu,
 through  this  land  runs  the  river  Sangur,  on  the  bank  of  that  river
 is  a  hill  called  Kara  Jiruge  and  a  green  colored  lake  near  the
-foot  of  it.  At  this  lake  Temudjin  fixed  his  yurta,  trapped  mar-
-mots and  field  mice,  and  thus  thev  lived  on  for  a  season.  At
+foot  of  it.  At  this  lake  Temudjin  fixed  his  yurta,  trapped  marmots and  field  mice,  and  thus  thev  lived  on  for  a  season.  At
 last  some  Taidjut  thieves  drove  off  eight  horses  from  Temudjin,
 leaving  only  the  white-nosed  sorrel  mare  which  Sorgan  had  given
 him,  and  on  which  Belgutai  had  gone  to  hunt  marmots.  He  came
@@ -2114,8 +1066,6 @@ which  they  were  driven."  Temudjin's  weary  beast  was  let  out  then
 to  pasture ;  a  white  horse  with  a  black  stripe  on  its  spine  was  led  in
 to  go  farther.    The  youth  hid  his  leather  pail  and  his  bag  in  the
 
-
-24  The  Mongols
 
 grass  very  carefully.  "  Thou  art  tired,"  said  he  to  Temudjin,
 '  and  art  anxious.  My  name  is  Boorehu,  I  will  go  with  thee  for
@@ -2175,20 +1125,17 @@ to  marry.  Bortai's  father  rejoiced  at  seeing  Temudjin.  "  I
 grieved,"  said  he,  "  greatly  and  lost  hope  of  seeing  thee  when  I
 heard  of  Taidjut  hatred."
 
-Both  parents  escorted  their  daughter  and  her  husband.  Desai-
-chan  after  going  some  distance  turned  homeward,  as  was  usual
+Both  parents  escorted  their  daughter  and  her  husband.  Desaichan  after  going  some  distance  turned  homeward,  as  was  usual
 for  fathers,  but  Bortai's  mother,  Sotan,  went  on  to  Temudjin's
 yurta.
 
-Temudjin  wished  now  to  have  Boorchu,  wished  him  as  a  com-
-rade forever,  and  sent  Belgutai  to  bring  him.  Boorchu  said  noth-
+Temudjin  wished  now  to  have  Boorchu,  wished  him  as  a  comrade forever,  and  sent  Belgutai  to  bring  him.  Boorchu  said  noth-
 ing to  his  father  or  to  any  one ;  he  took  simply  a  humpbacked  sorrel
 horse,  saddled  him,  strapped  a  coat  of  black  fur  to  the  saddle
 and  rode  away  quickly  to  Temudjin 's  yurta;  after  that  he  never
 left  him.
 
-Temudjin  removed  from  the  Sangur  to  the  springs  of  the  Keru-
-lon and  fixed  his  yurta  at  the  foot  of  the  slope  known  as  Burji.
+Temudjin  removed  from  the  Sangur  to  the  springs  of  the  Kerulon and  fixed  his  yurta  at  the  foot  of  the  slope  known  as  Burji.
 Bortai  had  brought  with  her  a  black  sable  cloak  as  a  present  to
 Hoelun.  "  In  former  days,"  said  Temudjin  to  his  brothers,  "  our
 father,  Yessugai,  became  a  sworn  friend,  an  '  anda,'  to  Togrul
@@ -2198,8 +1145,7 @@ we  will  go  now  and  show  Togrul  honor."
 Temudjin  and  two  of  his  brothers  took  the  cloak  to  Togrul  in
 the  Black  Forest  on  the  Tula.  "  In  former  days,"  said  Temudjin
 as  he  stood  before  Togrul,  "  thou  didst  become  anda  to  Yessugai,
-hence  thou  art  to  me  in  the  place  of  my  father.  I  bring  thee  to-
-day, my  father,  a  gift  brought  by  my  wife  to  my  mother."  With
+hence  thou  art  to  me  in  the  place  of  my  father.  I  bring  thee  today, my  father,  a  gift  brought  by  my  wife  to  my  mother."  With
 these  words  he  gave  the  black  sable  to  Togrul,  who  was  pleased
 very  greatly  with  the  offering.
 
@@ -2211,8 +1157,6 @@ When  Temudjin  returned  home  the  old  man  Charchiutai  came
 from  Mount  Burhan  with  the  bellows  of  a  blacksmith  on  his
 shoulders,  and  brought  also  Chelmai,  his  son,  with  him.    "  When
 
-
-26  The  Mongols
 
 thou  wert  born,"  said  Charehiutai  to  Temudjin,  "  I  gave  thee  a
 lined  sable  wrap,  I  gave  thee  too  my  son  Chelmai,  but  as  he  was
@@ -2255,8 +1199,7 @@ mounted   men.     They  dragged    Bortai  out,  and   then   put  her  on
 
 nor  '.\itli  Hoakchin.     Nerl  they  followed  on  Temudjin'a
 
-ks  i"  Mount  Burhan,  bul  could  nol  come  up  with  him.   Wish-
-ing   to    enter  the   mountain    land    straightway  they    tried  one  and
+ks  i"  Mount  Burhan,  bul  could  nol  come  up  with  him.   Wishing   to    enter  the   mountain    land    straightway  they    tried  one  and
 •nothei  place,  bul  found  no  road  of  any  kind  open.     In   one  part
 ii  ky  mora--,  in  another  a  dense  growth  of  fores!   and  thicket.
 They  did  not  find  the  »<■<  rei   road  and  could  not  break  in  at  any
@@ -2310,9 +1253,6 @@ Togrul's  statement  also.     "  I  have  heard,"  said  Jamuka,  "  that
 1 A  tuman  is  ten  thousand.
 
 
-28  The  Mongols
-
-
 D'
 
 
@@ -2348,8 +1288,7 @@ warned  him.  He  and  Dair  Usun,  his  brother,  rushed  away  down
 the  river  to  Bargudjin.  When  the  Merkits  were  fleeing  at  night
 down  along  the  Selinga,  Togrul's  men  hunted  on  fiei  <lv  and  were
 seizing  them.  In  that  rushing  crowd  Temudjin  shouted  :  '  Bortai !
-()  Bortai  !  "  She  was  with  the  fleeing  people;  she  knew  Temud-
-jin's voice  and  sprang  from  a  small  covered  cart  with  Hoakchin,
+()  Bortai  !  "  She  was  with  the  fleeing  people;  she  knew  Temudjin's voice  and  sprang  from  a  small  covered  cart  with  Hoakchin,
 the  old  woman.  Running  up,  she  caught  Temudjin's  horse  by  the
 bridle.  Tin-  moon  broke  through  clouds  that  same  moment,  and
 each  knew  the  other.
@@ -2389,8 +1328,7 @@ me  has  strengthened  my  hands  to  avenge  a  great  insult.  The
 Merkits  who  attacked  me  are  extinguished,  their  wives  are
 taken  captive,  the  work  is  now  ended."  That  same  year  Bortai
 gave  birth  to  her  first  son,  Juchi,  and  because  of  her  captivity  the
-real  father  of  Juchi  was  always  a  question  in  the  mind  of  Temud-
-jin.
+real  father  of  Juchi  was  always  a  question  in  the  mind  of  Temudjin.
 
 The  Uduts  had  left  in  their  camp  a  beautiful  small  boy,  Kuichu,
 He  had  splendid  bright  eyes,  was  dressed  in  river  sable,  and  on
@@ -2407,8 +1345,6 @@ first  day ;  both  were  guests  of  Togrul  at  that  period.  Now  they
 swore  friendship  again,  —  became  andas  a  second  time.  They
 discussed  friendship  with  each  other :  "  Old  people,"  said  Temudjin,
 
-
-30  The  Mongols
 
 M  declare  that  when  men  become  andas  both  have  one  life  as  it
 were;  neither  abandons  the  other,  and  each  guards  the  life  of  his
@@ -2480,8 +1416,7 @@ me  besides  what  I  ask  of  thee."  Temudjin  nodded,  and  Horchi
 was  satisfied.
 
 Next  came  a  number  of  men  from  four  other  clans.  These  had
-all  left  Jamuka  for  Temudjin,  and  joined  him  at  the  river  Ki-
-murha.  And  then  was  completed  a  work  of  great  moment :  Altan,
+all  left  Jamuka  for  Temudjin,  and  joined  him  at  the  river  Kimurha.  And  then  was  completed  a  work  of  great  moment :  Altan,
 Huchar  and  Sachai  Baiki  took  counsel  with  all  their  own  kinsmen,
 and  when  they  had  finished  they  stood  before  Temudjin  and
 spoke  to  him  as  follows :  "  WTe  wish  to  proclaim  thee,"  said  they.
@@ -2491,27 +1426,21 @@ and  take  splendid  stallions  and  mares  we  will  bring  all  to  thee
 surely,  and  when  at  the  hunt  thou  art  beating  in  wild  beasts  we
 will  go  in  advance  of  others  and  give  thee  the  game  taken  by  us.
 If  in  battles  we  transgress  thy  commands,  or  in  peace  we  work  harm
-to  thee  in  any  way,  take  from  us  everything,  take  wives  and  prop-
-erty and  leave  us  out  then  in  wild,  barren  places  to  perish,"  Hav-
+to  thee  in  any  way,  take  from  us  everything,  take  wives  and  property and  leave  us  out  then  in  wild,  barren  places  to  perish,"  Hav-
 ing sworn  thus  they  proclaimed  Temudjin,  and  made  him  Khan
 over  all  of  them.
 
-Temudjin,  now  Khan  in  the  land  of  the  four  upper  rivers,  com-
-manded his  comrade  Boorchu,  whom  he  called  "  youngest  brother,"
+Temudjin,  now  Khan  in  the  land  of  the  four  upper  rivers,  commanded his  comrade  Boorchu,  whom  he  called  "  youngest  brother,"
 together  with  Ogelayu,  Hochiun,  Chedai  and  Tokolku  to  carry
 his  bows  and  his  quiver.  Vanguru  and  Kadan  Daldur  to
 dispense  food  and  drink,  to  be  masters  of  nourishment.  Dagai
 was  made  master  of  shepherds,  Guchugur  was  made  master  of
 
 
-32  The  Mongols
-
-
 ev
 
 
-kibitkas.  Dodai  became  master  of  servants.  After  that  he  com-
-manded Kubilai,  Chilgutai  and  Karkaito  Kuraun  with  Kassar
+kibitkas.  Dodai  became  master  of  servants.  After  that  he  commanded Kubilai,  Chilgutai  and  Karkaito  Kuraun  with  Kassar
 his  brother  to  be  swordbearers ;  his  half  brother  Belgutai  with
 Kara!  Daito  Kuraun  to  be  masters  of  horse  training.  Daichu,
 Daihut,  Morichi  and  Muthalhu  were  to  be  masters  of  horseherds.
@@ -2532,16 +1461,14 @@ all  be  my  fortunate  helpers  and  stand  in  high  honor  before  me;  '
 then  he  instructed  them  how  to  perform  their  new  duties.
 
 Temudjin  sent  Tagai  and  Sukagai  to  announce  his  accession
-to  Tog  nil  of  the  Keraits.  "  It  is  well,"  said  Togrul,  "  that  Temud-
-jin is  made  Khan ;  how  could  ye  live  even  to  this  time  without  a
+to  Tog  nil  of  the  Keraits.  "  It  is  well,"  said  Togrul,  "  that  Temudjin is  made  Khan ;  how  could  ye  live  even  to  this  time  without  a
 commander?    Be  not  false  to  the  Khan  whom  ye  ha\  n."
 
 Temudjin  sent  Arkai  Kassar  and  Belgutai  with  similar  tidings
 to  Jamuka  who  answered:  "  Tell  Altan  and  Huehar,  Temudjin's
 uncle  and  cousin,  that  they  by  calumnies  have  parted  me  now  from
 my  anda,  and  ask  them  why  they  did  not  proclaim  Temudjin
-when  he  and  I  were  one  person  in  spirit?  Be  ye  all  acfi  assist-
-ants to  Temudjin.  Let  his  heart  be  at  rest  through  your  faith-
+when  he  and  I  were  one  person  in  spirit?  Be  ye  all  acfi  assistants to  Temudjin.  Let  his  heart  be  at  rest  through  your  faith-
 fulness."
 
 This  was  the  formal  official  reply,  Jamuka's  real  answer  was
@@ -2573,8 +1500,7 @@ of  this  movement  by  Mulketokah  and  by  Boldai  who  were  both  of
 them  Ikirats.  His  warriors  all  told  were  thirteen  thousand  in
 number  and  with  these  he  marched  forth  to  meet  Targutai  and
 Jamuka.  He  was  able  to  choose  his  own  time  and  he  struck  the
-invaders  as  suited  him.  He  fought  with  these  enemies  at  Dalan-
-daljut  and  gained  his  first  triumph,  a  bloody  victory,  and  immense
+invaders  as  suited  him.  He  fought  with  these  enemies  at  Dalandaljut  and  gained  his  first  triumph,  a  bloody  victory,  and  immense
 in  its  value  as  results  proved.
 
 Targutai  and  Jamuka  were  repulsed  with  great  loss.  Their
@@ -2589,20 +1515,16 @@ seventy,  or,  as  some  state,  in  eighty  large  caldrons,  he  boiled  alive
 those  of  them  who  were  worthiest  of  punishment.  The  boiling
 continued  each  day  till  he  had  tortured  to  death  the  most  powerful
 and  vindictive  among  his  opponents.  This  execution  spread
-terror  on  all  sides,  and  since  Temudjin  showed  the  greatest  kind-
-ness to  his  friends  not  only  during  those  days,  but  at  all  times
+terror  on  all  sides,  and  since  Temudjin  showed  the  greatest  kindness to  his  friends  not  only  during  those  days,  but  at  all  times
 and  rewarded  them  to  the  utmost,  hope  and  fear  brought  him
 manv  adherents.
 
 The  Units  and  Manhuts,  the  first  led  by  Churchadai,  and  the
-second  by  Kuyuldar,  drew  away  from  Jamuka  and  joined  Temud-
-jin, the  new  victor.  Munlik  of  the  clan  Kuanhotan  came  also,
+second  by  Kuyuldar,  drew  away  from  Jamuka  and  joined  Temudjin, the  new  victor.  Munlik  of  the  clan  Kuanhotan  came  also,
 bringing  with  him  his  seven  mighty  sons  who  were  immensely
 great  fighters,  and  venomous.  This  Munlik,  a  son  of  that  Charaha
 whom  one  of  Targutai 's  followers  had  wounded  to  death  with  a
 
-
-34  The  Mongols
 
 spear  thrust,  was  the  man  who  had  brought  home  Temudjin
 from  the  house  of  Desaichan  his  father-in-law  when  his  own
@@ -2636,13 +1558,11 @@ how  could  we  become  one  with  their  enemy,  and  l<  ive  them?"
 Notwithstanding  this  answer  Ulug  Bahadur  and  Tugai  Talu  with
 their  kinsmen  and  dependents  went  away  in  a  body  to  Temudjin.
 
-We  have  come,"  said  they,  "  like  a  woman  berefl  of  her  hus-
-band,  or  a  herd  without  a  master,  or  a  flock  without  a  shepherd.
+We  have  come,"  said  they,  "  like  a  woman  berefl  of  her  husband,  or  a  herd  without  a  master,  or  a  flock  without  a  shepherd.
 In  friendship  and  agreemenl  we  would  live  with  thee,  we  would
 draw  our  swords  to  defend  thee,  and  cut  down  thy  enemi
 
-I  was  like  ;i  sleeping  man  when  ye  came  to  me,"  said  Temud-
-jin, "ye  pulled  me  by  the  forelock  and  roused  me.     I  was  sitting
+I  was  like  ;i  sleeping  man  when  ye  came  to  me,"  said  Temudjin, "ye  pulled  me  by  the  forelock  and  roused  me.     I  was  sitting
 here  in  Badness,  and  ye  cheered  me,  I  will  do  what    I  can  now  to
 rfy  your  wish  He  made   various  rules  ami   arrangements
 
@@ -2666,8 +1586,7 @@ or  traders.  Men  in  the  old  time  have  said  that  one  heart  and  one
 soul  cannot  be  in  two  bodies,  but  this  is  just  what  in  our  case  I
 shall  show  to  all  people  as  existing.  I  desire  nothing  of  thee  and
 thy  people,  but  friendship.  I  wish  to  extend  my  dominion  and
-only  ask  faithful  help  from  my  sister's  husband  and  his  tribes-
-men."    The  marriage  took  place  and  Podu  was  his  ally.
+only  ask  faithful  help  from  my  sister's  husband  and  his  tribesmen."    The  marriage  took  place  and  Podu  was  his  ally.
 
 Soon  after  this  first  group  of  Juriats  had  joined  Temudjin,
 some  more  of  their  people  discussed  at  a  meeting  as  follows :
@@ -2698,8 +1617,6 @@ Thereupon  Holichin  and  Hurchin,  his  two  step-mothers  grew  angry.
 to  us  at  the  same  time  with  Temudjin's  mother  ?  "  asked  they
 
 
-36  The  Mongols
-
 as  they  struck  Shikiur  who  was  master  of  provisions.  This  striking
 brought  on  a  disturbance.  Thereupon  Temudjin  commanded
 his  half  brother,  Belgutai,  to  mount  his  horse  and  keep  order
@@ -2728,8 +1645,7 @@ never  ceased  to  pursue  his  object.  Temudjin  tried  to  win  some  show
 of  kindness  from  Jamuka.  In  other  words  he  made  ever-  effort
 to  subdue  him  by  deep  subtle  cunning,  but  all  efforts  proved
 fruitless.  These  men  were  bound  to  win  power.  Without  power
-life  was  no  life  for  either  one  of  the  two  master  tricksters.  What-
-ever his  action  or  seeming  at  any  time  Jamuka  was  Tcmudjin's
+life  was  no  life  for  either  one  of  the  two  master  tricksters.  Whatever his  action  or  seeming  at  any  time  Jamuka  was  Tcmudjin's
 mortal  enemy  always.  He  kept  undying  hatred  in  his  heart,  and
 was  ever  planning  some  blow  at  his  rival.  When  the  Juriats  were
 at  their  best  he  was  plotting,  when  they  were  seal  '-red  and  weak
@@ -2768,19 +1684,15 @@ on  the  other.  The  Tartars  could  not  retreat  since  the  Golden
 I  "ban's  men  were  pursuing,  so  they  raised  a  strong  fortress  against
 them.  Temudjin  and  Togrul  broke  into  this  fortress;  many
 Tartars  were  slain,  and  many  captured,  among  them  their  leader.
-Temudjin  put  this  man  to  death  in  revenge  for  his  father.  Im-
-mense booty  was  taken  by  Temudjin  and  his  ally  in  captives,  in
+Temudjin  put  this  man  to  death  in  revenge  for  his  father.  Immense booty  was  taken  by  Temudjin  and  his  ally  in  captives,  in
 cattle  and  property  of  all  sorts;  among  other  things  taken  was
 a  silver  cradle  and  a  cloth  of  gold  which  lay  over  it.  Temudjin
 received  praise  for  his  action.    Without  striking  a  blow  the  Kin
 
-37
-
 
 3S  The  Mongols
 
-minister  had  accomplished  his  mission,  and  later  he  took  to  him-
-self, before  his  sovereign,  the  merit  of  making  Togrul  and  Te-
+minister  had  accomplished  his  mission,  and  later  he  took  to  himself, before  his  sovereign,  the  merit  of  making  Togrul  and  Te-
 mudjin  do  his  work  for  him.  He  gave  Temudjin  the  title  Chao
 Iluri,  and  to  Togrul  the  title  of  Wang  Khan  was  given.  "  I  am
 thankful."  said  the  minister.  "  When  I  return  I  will  report  all  to
@@ -2799,8 +1711,7 @@ Ihilil  Lake  many  people;  while  he  was  absent  the  Churkis
 stripped  fifty  of  these  men,  tore  their  clothes  off,  and  slew  ten  of
 them.     Temudjin  was  enraged  at  this  action.
 
-"Why  endure  deeds  of  this  kind  from  the  Churkis?"  ex-
-claimed he.  "  At  our  feast  in  the  forest  they  cut  Belgutai  in  the
+"Why  endure  deeds  of  this  kind  from  the  Churkis?"  exclaimed he.  "  At  our  feast  in  the  forest  they  cut  Belgutai  in  the
 shoulder.  When  I  was  avenging  my  father  and  uncle  they  would
 not  give  aid  to  us,  they  went  to  our  enemies  and  helped  them,  now
 I  will  punish  those  people  belittingly."
@@ -2843,8 +1754,7 @@ earlier  than  others,  but  he  remained  independent  in  feeling,
 hence  Temudjin  did  not  trust  him.
 
 Though  no  man  among  Mongols  could  equal  Buri  Buga  in
-strength  or  in  wrestling  he  did  not  escape  a  cruel  death.  Some-
-time after  the  reduction  of  the  Churkis  Temudjin  commanded
+strength  or  in  wrestling  he  did  not  escape  a  cruel  death.  Sometime after  the  reduction  of  the  Churkis  Temudjin  commanded
 Belgutai  and  Buri  Buga  to  wrestle  in  his  presence.  Whenever
 Belgutai  wrestled  with  Buri  Buga  the  latter  was  able  with  one
 leg  and  one  hand  to  hold  him  as  still  as  if  lifeless.  This  time
@@ -2882,9 +1792,6 @@ for  this  man  had  great  transactions  with  Temudjin,  he  had
 much  to  do  also  with  Yessugai,  Temudjin's   father.     Markuz
 
 
-40  The  Mongols
-
-
 6'
 
 
@@ -2895,12 +1802,10 @@ widow  resolved  to  take  vengeance  on  Naur  for  this  dreadful
 death  of  her  husband.  She  set  out  some  time  later  on  to  give
 a  feigned  homage  to  Naur  and  to  marry  him  if  possible,  as  was
 stated  in  confidence  by  some  of  her  servitors.  She  brought  to  Naur
-a  hundred  sheep  and  ten  mares,  besides  a  hundred  large  cow-
-skins  holding,  as  was  said,  distilled  mare's  milk,  but  each  skin  held
+a  hundred  sheep  and  ten  mares,  besides  a  hundred  large  cowskins  holding,  as  was  said,  distilled  mare's  milk,  but  each  skin  held
 in  fact  a  well  armed  living  warrior.
 
-A  feast  was  given  straightway  by  Naur  during  which  the  hun-
-dred men  were  set  free  from  the  cowskins,  and,  aided  by  attendants
+A  feast  was  given  straightway  by  Naur  during  which  the  hundred men  were  set  free  from  the  cowskins,  and,  aided  by  attendants
 of  the  widow,  they  slew  the  Khan  and  his  household.
 
 Markuz  left  four  sons,  the  two  most  distinguished  were
@@ -2909,16 +1814,14 @@ Togml  succeeded  Kurja  Kuz  his  own  father  by  slaying  two
 uncles,  besides  a  number  of  cousins.  Gurkhan,  his  remaining
 uncle,  fled  and  found  asylum  with  Inanji,  Taiyang  of,  the
 neighboring  Naimans,  whom  he  roused  to  assist  him.  Gurkhan
-then  with  the  Naiman  troops  drove  out  Togrul  and  made  him-
-self ruler.  Togrul,  attended  by  a  hundred  men,  went  to  Yessugai
+then  with  the  Naiman  troops  drove  out  Togrul  and  made  himself ruler.  Togrul,  attended  by  a  hundred  men,  went  to  Yessugai
 and  implored  aid  of  him.  Yessugai  reinstated  Togrul,  and
 forced  Gurkhan  to  flee  to  Tangut.
 
 Togrul  vowed  endless  friendship  to  his  ally  and  became  to  him
 a  sworn  friend  or  "  anda."  When  Yessugai  was  poisoned  by
 Tartars,  Temudjin  his  son,  a  boy  at  that  time,  lost  authority  and
-suffered  for  years  from  the  Taidjuts.  Togrul  gave  help  and  har-
-bored  him.  After  that,  as  has  been  already  related,  when  Temudjin
+suffered  for  years  from  the  Taidjuts.  Togrul  gave  help  and  harbored  him.  After  that,  as  has  been  already  related,  when  Temudjin
 had  married  and  the  Mcrkits  stole  his  wife,  Togrul  assisted  in
 restoring  her,  and  with  her  a  part  of  Temudjin's  people.  In
 1194  lie  was  given  the  title  Wang  Khan.  Later  his  brother
@@ -2944,15 +1847,13 @@ and  Taidju  their  leader.  That  same  year  they  fell  upon  the
 Merkits,  a  nation  of  four  tribes  ruled  then  by  Tukta  Bijhi.  One
 of  these  tribes  was  defeated  near  the  Selinga.  Temudjin  let  Wang
 Khan  keep  all  the  booty  taken.  Wang  Khan  in  1198,  the  yea?
-following,  undertook  unassisted  a  war  against  the  Merkits,  cap-
-tured Jilaun,  the  son  of  Tukta  Bijhi,  and  slew  Tugun,  another
+following,  undertook  unassisted  a  war  against  the  Merkits,  captured Jilaun,  the  son  of  Tukta  Bijhi,  and  slew  Tugun,  another
 son.  He  took  also  Kutu,  Tukta's  brother.  He  seized  all  Jilaun's
 herds  and  people,  but  gave  no  part  of  this  booty  to  Temudjin.
 
 In  1199  the  two  allies  marched  to  attack  the  Naimans,  a  people
 strong   and   famous   while    under   Buga   Khan,  an    able   ruler,
-but  when  this  Khan  died  his  two  sons,  to  gain  a  certain  con-
-cubine left  by  their  father,  began  a  murderous  quarrel,  which
+but  when  this  Khan  died  his  two  sons,  to  gain  a  certain  concubine left  by  their  father,  began  a  murderous  quarrel,  which
 brought  about   the  division  of   the   country.     The   elder  man,
 Baibuga,   called  Taiyang,1   by  his  subjects  and  his   neighbors]
 retained  the  level  country,  while  Buiruk,  his  brother,  took  mountain
@@ -2981,8 +1882,6 @@ Temudjin  and  the  Naimans.    Wang  Khan  set  out  for  home  that
 1  Great  Kiag  in  Chinese.
 
 
-42  The  Mongols
-
 night.     Temudjin   thus   deserted  was  forced  to  withdraw  which
 he  did  unobserved.
 
@@ -2991,8 +1890,7 @@ his  two  brothers.  He  captured  their  families,  as  well  as  their
 property  and  cattle.  Then  he  entered  Wang  Khan's  land  and
 found  there  rich  booty  of  all  kinds.  Wang  Khan  sent  Sengun,
 his  son,  to  meet  Seirak;  meanwhile  he  hurried  off  messengers
-to  Temudjin,  and  begged  of  him  assistance.  Temudjin  con-
-sidering the  plight  of  his  ally,  but  still  more  his  own  peril  should
+to  Temudjin,  and  begged  of  him  assistance.  Temudjin  considering the  plight  of  his  ally,  but  still  more  his  own  peril  should
 Wang  Khan's  men  be  routed  and  captured  by  the  Xaimans,  sent
 his  four  ablest  chiefs  to  assist  him.  These  were  Boon -hu.  Mukuli,
 Boroul  and  Jilaun.  These  four  led  their  men  by  hurried  marches,
@@ -3041,12 +1939,10 @@ me.  Thou  too,  O  my  father,  canst  not  live  on  in  safety  without
 my  firm  friendship.  Without  me  thy  false  brothers  and  cousins,
 assisted  by  their  allies,  would  split  up  thy  people  and  snatch  thy
 dominion.  They  would  kill  thee  unless  by  swift  flight  thou  wert
-able  to  save  thyself  from  ruin.  Sengun,  thy  son,  would  gain  noth-
-ing, he  too  would  be  swept  both  from  power  and  existence,  though
+able  to  save  thyself  from  ruin.  Sengun,  thy  son,  would  gain  nothing, he  too  would  be  swept  both  from  power  and  existence,  though
 he  does  not  see  this  at  present.    I  am  his  best  stay,  as  well  as  thine,
 
-0  my  father.  Thou  art  my  greatest  stay  too  and  support.  With-
-out thee  all  my  enemies  would  rise  up  at  once  to  overwhelm  me,
+0  my  father.  Thou  art  my  greatest  stay  too  and  support.  Without thee  all  my  enemies  would  rise  up  at  once  to  overwhelm  me,
 but  were  I  gone,  and  my  power  in  their  hands  thy  power  would
 pass  soon  to  thy  deadliest  enemies,  thy  relatives.  Our  one  way  to
 keep  power  and  live  on  in  safety  is  through  a  friendship  which
@@ -3054,8 +1950,7 @@ nothing  can  shatter.  That  friendship  exists  now,  and  we  need
 only  proclaim  it.  Were  I  thy  elder  son  all  would  be  quiet  and
 settled  for  both  of  us."
 
-WThen  Wang  Khan  was  alone  he  spoke  thus  to  himself  and  con-
-sidered :  "  I  am  old,  to  whom  shall  I  leave  the  direction  of  my
+WThen  Wang  Khan  was  alone  he  spoke  thus  to  himself  and  considered :  "  I  am  old,  to  whom  shall  I  leave  the  direction  of  my
 people  ?  My  younger  brothers  are  without  lofty  qualities ;  my
 brother  Jaganbo  is  also  unable  to  stand  against  enemies.  Sengun
 is  the  only  man  left  me,  but  whatever  Sengun's  merits  may  be
@@ -3075,8 +1970,6 @@ that  immense  opposition  would  come  from  Sengun  and  Jamuka.
 "  We  shall  fight  side  by  side  in  war  against  enemies,"  said  Wang
 
 
-44  The  Mongols
-
 Khan  to  his  new  elder  son.  "  In  going  against  wild  beasts  we  are
 to  hunt  with  common  forces.  If  men  try  to  raise  quarrels  between
 us  we  will  loud  no  ear  to  anyone,  and  believe  onlv  when  we  have
@@ -3089,10 +1982,8 @@ plotting  had  turned  against  himself  most  completely,  and  if  he
 had  planned  to  help  Temudjin  he  could  not  have  helped  better.
 Somewhat  later  Juchi  Kassar  snatched  another  victory  from  the
 Naimans,  and  weakened  them  further.  Tukta  Bijhi,  the  Merkit
-chief,  sent  Ordjank  and  Kulu,  his  brothers,  to  rouse  up  the  Taid-
-juts afresh  against  Temudjin.  Ongku  and  Ilakadju  took  arms
-and  made  ready  to  help  Targutai,  the  Taidjut  chief,  with  Kudo-
-dar  and  Kurul.
+chief,  sent  Ordjank  and  Kulu,  his  brothers,  to  rouse  up  the  Taidjuts afresh  against  Temudjin.  Ongku  and  Ilakadju  took  arms
+and  made  ready  to  help  Targutai,  the  Taidjut  chief,  with  Kudodar  and  Kurul.
 
 Temudjin  and  Wang  Khan  marched  in  the  spring  of  1200
 and  met  those  opponents  at  the  edge  of  the  great  Gobi  desert,
@@ -3104,8 +1995,7 @@ Shira,  who  had  rescued  Temudjin  from  the  river  Onon,  taken  the
 kang  from  his  neck  and  hidden  him  under  wool  racks.  H-kadju
 and  Ongku,  who  had  helped  on  this  war  by  enabling  Tukta  Bijhi
 to  rouse  up  the  Taidjuts  fled  now  to  Bargudjin  with  Tukta
-Bijhi's  two  brothers,  while  Kurul  found  a  refuge  with  the  Nai-
-mans. Still  this  defeat  did  not  end  Taidjut  rancor.  The  Kat-
+Bijhi's  two  brothers,  while  Kurul  found  a  refuge  with  the  Naimans. Still  this  defeat  did  not  end  Taidjut  rancor.  The  Kat-
 kin>  and  Saljuts  shared  also  this  hatred.  Temudjin  strove
 however,  to  win  them,  and  sent  an  envoy  with  this  message:
 '  Each  Mongol  clan  should  support  me,  I  then  could  protect  all
@@ -3134,8 +2024,7 @@ secret  faithfully,  and  attack  the  allies  without  warning  or  mercy.
 Temudjin  was  advised  of  the  pact  and  the  oath  by  Dayin  Xoyon
 a  Kunkurat  chieftain,  hence  he  had  time  to  meet  those  confederates
 near  Buyar  Lake,  where  he  dispersed  them  after  fighting  a  fierce,
-stubborn  battle.  Somewhat  later  he  met  a  detachment  of  Taid-
-juts  and  some  Merkits  near  the  Timurha  and  crushed  them  also.
+stubborn  battle.  Somewhat  later  he  met  a  detachment  of  Taidjuts  and  some  Merkits  near  the  Timurha  and  crushed  them  also.
 Meanwhile  the  Kunkurats  ceased  their  resistance,  and  set  out
 to  join  Temudjin,  but  Kassar,  his  brother,  not  knowing  their
 purpose,  attacked  and  defeated  them.  They  turned  thereupon  to
@@ -3152,8 +2041,7 @@ They  made  plans  then  to  surprise  Temudjin  when  unguarded,
 and  slay  him.
 
 A  certain  man  named  Kuridai,  who  had  been  present  at  the  oath
-taking,  slipped  away  home  and  told  the  whole  tale  to  his  brother-in-
-law,  Mergitai,  a  Kurulat,  who  happened  in  at  the  yurta.  Mergitai
+taking,  slipped  away  home  and  told  the  whole  tale  to  his  brother-inlaw,  Mergitai,  a  Kurulat,  who  happened  in  at  the  yurta.  Mergitai
 insisted  that  Kuridai  should  gallop  off  swiftly  to  Gulyalgu  and
 explain  the  plot  to  Temudjin  since  he,  Kuridai,  with  his  own  ears
 had  heard  it.  '  Take  my  gray  horse  with  stumpy  ears,  he  will
@@ -3169,8 +2057,6 @@ Kuridai  hurried  off.  On  the  way  he  saw  warriors  bearing  a
 splendid  white  tent  for  Jamuka.    Some  attendants  of  these  men
 
 
-46  The  Mongols
-
 pursued  him,  but  soon  he  was  swept  out  of  sight  by  the  stallion.
 In  due  time  he  found  Temudjin,  who  on  hearing  the  tidings
 sprang  quickly  to  action.  He  sent  men  to  Wang  Khan  who
@@ -3185,17 +2071,14 @@ but  the  wind  and  rain  turned  on  Jamuka.  The  air  became  dark
 and  the  men  tumbled  into  ravines,  and  over  rough  places.
 "  Heaven  is  not  gracious  to-day,"  said  Jamuka,  "  that  is  why
 this  misfortune  is  meeting  us."  His  army  was  scattered.  The
-Xaimans  and  others  then  left  him,  and,  taking  those  who  had  pro-
-claimed him,  Jamuka  withdrew  down  the  river.
+Xaimans  and  others  then  left  him,  and,  taking  those  who  had  proclaimed him,  Jamuka  withdrew  down  the  river.
 
 Wang  Khan  pursued  Jamuka  while  Temudjin  followed  Autchu
 of  the  Taidjuts,  and  those  who  went  with  him.  Autchu  escap
-hurried  home,  rallied  his  people,  crossed  the  Onon  and  began  ac-
-tion. After  many  encounters  there  was  a  fierce  all  day  battle  with
+hurried  home,  rallied  his  people,  crossed  the  Onon  and  began  action. After  many  encounters  there  was  a  fierce  all  day  battle  with
 Temudjin,  then  both  sides  promised  to  hold  their  places  that  night
 on  the  battle-ground.  Temudjin  had  been  wounded  in  the  neck
-and  had  fainted  from  blood  loss.  Chelmai,  his  attendant  and  com-
-rade, sucked  out  the  blood  which  was  stiffening,  and  likely  ••  .-lioke
+and  had  fainted  from  blood  loss.  Chelmai,  his  attendant  and  comrade, sucked  out  the  blood  which  was  stiffening,  and  likely  ••  .-lioke
 him.  The  chief  regained  consciousness  at  midnight.  Chelmai  had
 stripped  himself  naked,  to  escape  the  more  easily  if  captured,
 and  stolen  into  the  enemy's  camp  to  find  mare's  milk,  but  found
@@ -3236,16 +2119,14 @@ forget  while  I  live  these  great  services."
 Temudjin  saw  next  day  that  Jamuka's  men  had  scattered  in
 the  night  while  his  own  men  were  still  on  the  battle-ground.  He
 hunted  after  the  enemy  then  for  some  distance;  all  at  once
-on  a  hill  a  woman  dressed  in  red  was  heard  shouting :  "  Temud-
-jin !  Temudjin  !  "  very  loudly.  He  sent  to  learn  who  she  was,
+on  a  hill  a  woman  dressed  in  red  was  heard  shouting :  "  Temudjin !  Temudjin  !  "  very  loudly.  He  sent  to  learn  who  she  was,
 and  why  she  was  shouting.  "  I  am  Kadan,  the  daughter  of  Sorgan
 Shira,"  said  the  woman.  "  The  people  have  tried  to  cut  down
 my  husband,  and  I  was  calling  Temudjin  to  defend  him."
 
 Temudjin  sent  quickly  to  save  Kadan 's  husband,  but  he  was
 dead  when  they  found  him.  Temudjin  then  called  Kadan  to  sit  at
-his  side,  because  of  the  time  when  she  guarded  him  under  wood-
-packs  at  her  father's.  One  day  later  Sorgan  Shira  himself  came
+his  side,  because  of  the  time  when  she  guarded  him  under  woodpacks  at  her  father's.  One  day  later  Sorgan  Shira  himself  came
 to  Temudjin.  "  Why  come  so  late?"  inquired  Temudjin.  "j
 have  been  always  on  thy  side,"  replied  Sorgan,  "  and  anxious  to
 join  thee,  but  if  I  had  come  earlier  the  Taidjuts  would  have
@@ -3283,8 +2164,7 @@ him  and  Wang  Khan  by  Jamuka.
 
 Temudjin  had  slain  many  Tartars  in  this  conflict  and  captured
 most  of  the  survivors,  now  he  counseled  with  his  relatives  as  to
-what  should  be  done  with  those  captives.  "  They  deserve  punish-
-ment," said  he;  "  they  killed  our  grand  uncle  and  our  father.
+what  should  be  done  with  those  captives.  "  They  deserve  punishment," said  he;  "  they  killed  our  grand  uncle  and  our  father.
 Let  us  slay  every  male  who  is  higher  than  the  hub  of  a  cart  wheel.
 When  that  is  done  we  must  make  slaves  of  the  others  and  divide
 tliem  between  us."  All  who  were  present  accepted  this  method.
@@ -3345,8 +2225,7 @@ head  cut  off.
 
 The  Merkit  chief,  Tukta  Bijhi,  came  back  from  Lake  Baikal
 and  attacked  Temudjin,  but  was  baffled.  He  turned  then  to
-Buiruk  of  the  Naimans  who  joined  a  confederacy  of  Kat-
-kins,  Durbans,  Saljuts  and  Uirats  together  with  Merkits  and
+Buiruk  of  the  Naimans  who  joined  a  confederacy  of  Katkins,  Durbans,  Saljuts  and  Uirats  together  with  Merkits  and
 mo'-ed  in  1202,  near  the  autumn,  with  a  strong  force  to  strike
 Temudjin  who  was  supported  by  Wang  Khan,  his  old  ally.  Because
 of  the  season  Temudjin  retired  to  mountain  lands  near  the  Kitan
@@ -3357,8 +2236,6 @@ and  skirmished,  but  before  they  could  fight  a  real  battle,  wind  and
 snow  with  dense  fog,  brought  on,  as  was  said,  by  magicians,  struck
 them  all  and  stopped  action.     The  confederates  were  forced  to
 
-
-50  The  Mongols
 
 retreat  greatly  weakened ;  they  lost  men  and  horses  killed  by  falling
 in  the  fog  over  precipices,  while  multitudes  perished  in  wild  places
@@ -3373,16 +2250,14 @@ waited.
 Temudjin  and  Wang  Khan  passed  the  winter  on  level  land
 near  the  mountains  where  snow  served  as  water.     While  there
 he    asked    in    marriage    Wang    Khan's    granddaughter,   Chaur
-Bijhi,  for  his  own  eldest  son,   Juchi,   and    Wang    Khan   men-
-tioned  Temudj in's   daughter,  Kutchin  Bijhi,  for   Sengun's    son
+Bijhi,  for  his  own  eldest  son,   Juchi,   and    Wang    Khan   mentioned  Temudj in's   daughter,  Kutchin  Bijhi,  for   Sengun's    son
 Kush  Buga.     These  two  marriage  contracts,  agreed  on  at  first,
 were  broken  later  for  various  not  well  explained  reasons.     Jamuka
 was    beyond   doubt   the  great   cause  in  this  matter,  and    raised
 the  whole   quarrel.     This   rupture   was   followed   by   wrangling
 and  coolness  between  the  two  allies,  thus  giving  a  still  further
 chance  to  Jamuka.     As  he  had  never  been  able  to  estrange  Wang
-Khan  thoroughly  from  Temudjin  he  turned  now  in  firm  confi-
-dence to  Sengun.     He  conquered  Wrang  Khan's  son   and  heir
+Khan  thoroughly  from  Temudjin  he  turned  now  in  firm  confidence to  Sengun.     He  conquered  Wrang  Khan's  son   and  heir
 with  the  following  statements:    "Temudjin  has  grown  strong,
 and  desires  to  be  the  greatest  among  men.     He  has  de  ermined
 to  be  the  one  ruler,  he  cannot  be  this  unless  he  destroys  thy  whole
@@ -3399,8 +2274,7 @@ keen  hatred,  feelings  strengthened  immensely  by  Temudjin 's
 uncles,  Daritai  and  Kudjeir,  who,  with  Altan,  his  cousin,  were
 enraged  at  the  loss  of  their  booty,  and  for  other  reasons.  These
 men  declared  that  every  word  uttered  by  Jamuka  was  true.  A
-great  plot  was  formed,  and  directed  by  Jamuka,  to  surprise  Temud-
-jin and  kill  him.  Jamuka,  who  was  watching  events  and  working
+great  plot  was  formed,  and  directed  by  Jamuka,  to  surprise  Temudjin and  kill  him.  Jamuka,  who  was  watching  events  and  working
 keenly,  took  with  him  Altan  and  others,  at  the  end  of  1202,  and
 went  again  to  Sengun,  who  was  then  living  north  of  Chechcher,  and
 
@@ -3451,11 +2325,8 @@ but  victory,  if  thou  win  it,  must  be  thine  through  thy  own  work
 and  fortune."
 
 
-52  The  Mongols
-
 Sengun  turned  to  his  father  for  the  last  time :  "  Think  on  this
-scourge  risen  against  us,"  said  he.  "  If  thou  stop  not  this  Temud-
-jin  we  are  lost,  thou  and  I,  without  hope;  if  thou  spare  him,  we
+scourge  risen  against  us,"  said  he.  "  If  thou  stop  not  this  Temudjin  we  are  lost,  thou  and  I,  without  hope;  if  thou  spare  him,  we
 shall  both  die  very  soon.  We  must  put  an  end  to  the  man,  or
 be  ruined.  He  will  kill  thee  first  of  all,  and  then  my  turn  will
 come  very  quickly."
@@ -3474,11 +2345,9 @@ at  that  time,  but  now  we  will  send  to  him  saying  that  we  accept
 his  proposal.  We  will  make  a  great  feast  of  betrothal  and  invite
 him.     If  he  comes  to  it  we  will  seize  the  vile  traitor  and  kill  him.'*
 
-When  they  had  settled  on  this  plan  Sengun  sent  envoys  to  Temud-
-jin accepting  the  marriage  proposals,  and  inviting  him  to  the  feast
+When  they  had  settled  on  this  plan  Sengun  sent  envoys  to  Temudjin accepting  the  marriage  proposals,  and  inviting  him  to  the  feast
 of  betrothal.  Temudjin  accepted  and  set  out  with  attendants.
-On  the  way  he  stopped  at  the  house  of  Munlik  his  step-
-father, the  husband  of  Hoelun.  Munlik  became  thought  "ill  and
+On  the  way  he  stopped  at  the  house  of  Munlik  his  stepfather, the  husband  of  Hoelun.  Munlik  became  thought  "ill  and
 serious  as  he  heard  of  the  invitation.  "  When  we  asked  for  their
 maiden,"  said  he,  "they  were  haughty  and  refused  her;  why
 invite  now  to  a  feast  of  betrothal  ?  Better  not  go  to  them ;  excuse
@@ -3490,8 +2359,7 @@ sent  Bugatai  with  Kilatai  to  the  festival,  and  returned  home
 very  quickly.  AVhen  Sengun  saw  the  two  men  sent  as  substitutes
 he  knew  at  once  that  Temudjin  had  seen  through  his  stratagem.
 He  called  a  council  immediately.  "  We  must  act  quickly  now,"
-said  he.  "We  will  move  with  all  force  against  Temudjin  to-
-morrow, but  send,  meanwhile,  a  strong  party  to  seize  him  while
+said  he.  "We  will  move  with  all  force  against  Temudjin  tomorrow, but  send,  meanwhile,  a  strong  party  to  seize  him  while
 south  of  Mount  Mao."  Aike  Charan,  who  was  Altan'a  youngest
 brother  and  one  of  Wang  Khan's  chosen  leaders,  had  been  at  the
 council.  He  hastened  home  thai  same  evening  and  told  his  wife,
@@ -3505,15 +2373,13 @@ him.  If  some  man  to-night  would  warn  Temudjin  his  reward
 would  be  enormous."  "  Speak  not  idle  words,"  said  the  woman.
 "  Our  servants  may  hear  thee,  and  think  thy  talk  serious."
 
-Badai,  a  horseherd  who  had  just  brought  in  mare's  milk,  over-
-heard Aike  Charan  and  the  answer  of  Alikai.  He  turned  at  once
+Badai,  a  horseherd  who  had  just  brought  in  mare's  milk,  overheard Aike  Charan  and  the  answer  of  Alikai.  He  turned  at  once
 and  told  Kishlik.  "  I  too  will  listen,"  said  Kishlik  who  was  his
 comrade.  Kishlik  went  in  then  and  saw  Aike  Charan 's  son,
 Narinkeyan,  whittling  arrows  and  looking  at  his  parents.  "  Which
 of  our  servants,"  asked  he,  "  should  lose  his  tongue  lest  he  tell
 what  ye  have  said  to  each  other?  "  Kishlik  heard  these  words,
-though  Narinkeyan  did  not  know  it.  "  Oh  Kishlik,"  said  Narin-
-keyan, turning  to  the  horseherd,  "  Bring  me  in  the  white  horse
+though  Narinkeyan  did  not  know  it.  "  Oh  Kishlik,"  said  Narinkeyan, turning  to  the  horseherd,  "  Bring  me  in  the  white  horse
 and  the  gray  one,  I  will  go  riding  to-morrow."
 
 Kishlik  went  out  quickly.  '  Thou  hast  told  the  truth,"  said
@@ -3524,28 +2390,21 @@ off  without  seeing  Narinkeyan.  They  reported  all  to  Temudjin,
 told  him  Aike  Charan 's  whole  story  and  the  words  of  Narinkeyan.
 
 Temudjin  summoned  his  trustiest  servants  immediately  and
-hurried  off  to  the  northern  side  of  Mount  Mao.  Chelmai  he  com-
-manded to  follow  and  watch  every  movement  of  the  on-marching
+hurried  off  to  the  northern  side  of  Mount  Mao.  Chelmai  he  commanded to  follow  and  watch  every  movement  of  the  on-marching
 enemy.  At  noon  the  next  day  Temudjin  halted  briefly  and  two
 horseherds,  Alchidai  and  Chidai,  brought  in  tidings  that  the  enemy
 was  advancing  very  swiftly.  A  great  dust  cloud  was  rising  up
-from  them  and  was  visible  on  the  south  of  Mount  Mao.  Temud-
-jin hurried  on  till  he  reached  Kalanchin,  a  place  selected  by  him
-for  battle.  There  he  stopped,  disposed  all  his  forces,  and  assem-
-bled his  leaders.
+from  them  and  was  visible  on  the  south  of  Mount  Mao.  Temudjin hurried  on  till  he  reached  Kalanchin,  a  place  selected  by  him
+for  battle.  There  he  stopped,  disposed  all  his  forces,  and  assembled his  leaders.
 
 Meanwhile  Sengun  with  Wang  Khan,  who  had  at  last  by  much
 urging  been  persuaded  to  join  this  expedition,  were  advancing
 at  all  the  speed  possible,  and  soon  men  could  see  them.  They
-halted  at  once  for  battle.  "  Who  are  the  best  men  among  Temud-
-jin's  warriors  ?  "  asked  Wang  Khan  of  Jamuka.  '  The  Units
+halted  at  once  for  battle.  "  Who  are  the  best  men  among  Temudjin's  warriors  ?  "  asked  Wang  Khan  of  Jamuka.  '  The  Units
 and  Manhuts  are  best,"  said  Jamuka,  "  they  are  never  disordered;
 they  have  used  swords  and  spears  from  their  boyhood.  When
 they  strike  thou  wilt  see  dreadful  fighting."  "  Well,"  said  Wang
 Khan,  "  let  our  hero  Hadakji  fall  on  them  first  with  his  Jirkins ;
-
-
-54  The  Mongols
 
 
 tv
@@ -3558,8 +2417,7 @@ death  blow."
 
 AYhile  Wang  Khan  was  thus  making  dispositions,  Temudjin
 on  his  side  spoke  to  the  Unit  commander:  "  Uncle  Churchadai,
-I  would  give  thee  the  vanguard,  what  is  thy  own  wish  ?  '  Chur-
-chadai was  just  ready  to  answer  when  Huildar  spoke  up:  '  O
+I  would  give  thee  the  vanguard,  what  is  thy  own  wish  ?  '  Churchadai was  just  ready  to  answer  when  Huildar  spoke  up:  '  O
 Khan,  my  dear  friend  (he  was  Temudjin 's  anda),  I  will  mount
 my  strong  steed  and  break,  with  my  Manhuts,  through  all  who
 oppose  us.  I  will  plant  thy  tail  standard  on  Gubtan,  that  hill  at
@@ -3599,8 +2457,7 @@ Wang  Khan  of  the  Keraits  55
 
 although  very  slightly.  It  was  late  in  the  evening  and  dark,  so
 he  brought  together  his  men  and  was  careful  to  seek  out  and  save
-Huildar.  Temudjin  during  that  night  withdrew  from  the  battle-
-ground, and  at  daybreak  discovered  that  Ogotai,  his  son,  with
+Huildar.  Temudjin  during  that  night  withdrew  from  the  battleground, and  at  daybreak  discovered  that  Ogotai,  his  son,  with
 Boroul  and  Boorchu  were  all  three  of  them  missing.  "  Those
 two  faithful  men,"  said  Temudjin,  "  have  lived  with  my  son,  and
 now  they  have  died  with  him."  He  grieved  that  day  greatly,,
@@ -3643,8 +2500,6 @@ reviewed  the  remnant  of  his  army  and  found  only  five  thousand
 men  altogether.     On  the  way  his  men  hunted.     WTiile  beating
 
 
-56  The  Mongols
-
 in  .Tame  Tcmudjin  tried  to  restrain  Huildar  whose  wound  had
 not  healed,   hut  he  rushed  quickly  at  a  wild  boar,  his  wound
 opened,  and  he  died  shortly  after.    They  buried  him  on  Orneii,
@@ -3661,8 +2516,7 @@ now  east  of  the  Tugeli,  grass  here  is  good,  and  our  horses  are
 satisfied.     Why   wert  thou   angry  with  me,   O  my  father,   why
 didst  thou  bring  such  great  fear  on  me  ?    If  thou  hadst  the  v
 to  blame,  why  not  give  the  blame  reasonably,  why  destroy  all  my
-property  ?     People  divided  us,  but  thou  knowest  well  our  agree-
-ment, that  if  men  should  talk  to  either  one  of  us  to  the  harm  of
+property  ?     People  divided  us,  but  thou  knowest  well  our  agreement, that  if  men  should  talk  to  either  one  of  us  to  the  harm  of
 the  other  we  would  not  believe  what  was  said  till  we,  thou  and  I,
 should  explain   questions  personally.     But  my  father,  have  we
 had    any    personal    explanation?      Though    small,   I   am   worth
@@ -3688,8 +2542,7 @@ thy  words  to  him  were  of  this  kind:    '  For  thy  benefactions  to  me
 
 Wang  Khan  of  the  Keraits  57
 
-I  'will  make  return  not  only  to  thee,  but  thy  children  and  grand-
-children. I  swear  by  High  Heaven  that  I  will  do  so.'  After  that
+I  'will  make  return  not  only  to  thee,  but  thy  children  and  grandchildren. I  swear  by  High  Heaven  that  I  will  do  so.'  After  that
 thy  brother  Erke  Kara  got  troops  from  the  Naimans,  made  war  on
 thee  a  second  time,  and  drove  thee  to  the  lands  of  the  Gurkhan.
 In  less  than  a  year  thou  didst  weary  of  the  Gurkhan  and  leave
@@ -3714,8 +2567,7 @@ attack  when  I  have  not  done  any  evil  to  thee  or  to  Sengun,  or
 harmed  either  one  of  you  ?  "
 
 When  the  men  gave  these  words  to  Wang  Khan  he  sighed
-deeply  and  answered :  "  I  should  not  have  quarreled  with  Temud-
-jin,  I  should  have  stayed  with  him."  Then  he  cut  his  middle
+deeply  and  answered :  "  I  should  not  have  quarreled  with  Temudjin,  I  should  have  stayed  with  him."  Then  he  cut  his  middle
 finger  and  putting  the  blood  from  it  into  a  small  horn,  he  said:
 "  If  I  harm  Temudjin  may  I  be  cut  as  this  finger  is  cut."  He
 gave  the  horn  then  to  Temudjin 's  messenger.
@@ -3730,8 +2582,6 @@ cup,  much  loss  there  will  not  be  to  anyone  from  thy  drinking."
 Temudjin  then  commanded  to  say  to  Altan  and  to  Huchar:  "  I
 know  not  why  ye  resolved  to  desert  me,  O  Huchar.     We  wished
 
-
-58  The  Mongols
 
 first  to  make  thee  khan  since  thou  art  the  son  of  Naigun,  but  thou
 werl  unwilling.  Thy  father,  O  Altan,  ruled  as  khan  once,  hence
@@ -3755,8 +2605,7 @@ would  never  let  other  men  rule  over  my  flock.  Thou  art  ni\  slave
 by  inheritance,  hence  I  address  thee  as  brother."
 
 To  Sengun  Temudjin  sent  this  message:  "I  am  a  son  of  thy
-father  born  with  my  clothes  on;  thou  art  his  son  born  in  naked-
-ness.  Once  our  father  showed  equal  kindness  to  both  of  US,  but
+father  born  with  my  clothes  on;  thou  art  his  son  born  in  nakedness.  Once  our  father  showed  equal  kindness  to  both  of  US,  but
 dark  suspicion  attacked  thee,  and  thou,  fearing  lest  I  n  ight  trick
 thee  in  some  way,  conceived  a  great  hatred  and  expelled  me
 unjustly.  Cease  causing  grief  to  thy  father,  go  to  him  now  and
@@ -3828,14 +2677,10 @@ a  fierce  battle  followed.  On  the  third  day  of  this  battle  the  Kerait
 had  not  strength  to  fight  longer.     Wang  Khan  and  Seugun  had
 
 
-60  The  Mongols
-
-
 D'
 
 
-both  vanished,  no  one  knew  by  what  road   they  had  saved  them-
-selves,  or  when  they  had  fled  from  the  battle-ground.
+both  vanished,  no  one  knew  by  what  road   they  had  saved  themselves,  or  when  they  had  fled  from  the  battle-ground.
 
 '  I  could  not  let  you  kill  my  sovereign,"  said  Hadak,  the  chief
 leader  to  Temudjin,  "  and  I  fought  long  to  give  Wang  Khan  and
@@ -3887,8 +2732,7 @@ Wansr  Khan  of  the  Keraits  61
 
 kocha,  his  attendant,  and  Kokocha's  wife,  farther  west  past  the
 Naimans.  He  stopped  to  drink  somewhat  later  and  seeing  a  wild
-horse  which  flies  were  tormenting,  he  stole  up  to  kill  him.  Ko-
-kocha  wished  now  to  desert  and  take  Sengun's  saddle  horse;  he
+horse  which  flies  were  tormenting,  he  stole  up  to  kill  him.  Kokocha  wished  now  to  desert  and  take  Sengun's  saddle  horse;  he
 intended  to  tell  Temudjin  where  Sengun  was,  but  his  wife  was
 indignant.  "  How  leave  thy  master,  who  gave  thee  food  and  good
 clothing,  how  desert  him  ?  "  She  refused  to  advance  and  was
@@ -3955,8 +2799,7 @@ not  fail  to  1)0  first  on  the  1. at  tie-ground.  As  the  spring  of  120
 Was  beginning  he  held  a  great  council  of  his  leaders.      Some  thought
 
 their  horses  too  weak  after  winter,  but  others  preferred  to  move
-promptly.  Action  pleased  Temudjin,  hence  ho  set  out  imme-
-diately, but  halted  before  lie  rem  lied  the  Xaiman  boundary.     It  \\  as
+promptly.  Action  pleased  Temudjin,  hence  ho  set  out  immediately, but  halted  before  lie  rem  lied  the  Xaiman  boundary.     It  \\  as
 
 autumn  when  he  entered  the  enemy's  country,  and  found  arrayed
 there  against  him  men  from  the  Merkits,  the  Keraits,  Uirats,
@@ -3986,8 +2829,7 @@ in  confusion,  sweeping  with  it  Baibuga,  badly  wounded.  The
 Taiyang  fled  on  foot,  first  to  a  neighboring  mountain  where
 Kurbassu,  his  wife  was,  Later  on  he  was  hurried  to  a  place  of
 more  safety,  where  he  died  soon  of  wounds  and  of  blood  loss.
-Temudjin,  ever  swift  to  pursue,  hunted  down  his  fleeing  father-
-in-law  ;  his  men  captured  Kurbassu,  who  was  joined  to  his  house-
+Temudjin,  ever  swift  to  pursue,  hunted  down  his  fleeing  fatherin-law  ;  his  men  captured  Kurbassu,  who  was  joined  to  his  house-
 held.  They  captured  also  Baibuka's  seal  keeper,  Tatungo,  an
 Uigur  of  learning.  Brought  before  Temudjin  he  explained  what
 a  seal  is.  "  Remain  with  me,"  said  the  conqueror,  "  use  the
@@ -4006,8 +2848,7 @@ but  Tukta  Bijhi  fled  farther  with  Chilaun  and  Katu,  and  a  few
 a'  endants.
 
 At  the  beginning  of  the  Merkit  subjection,  Dair  Usun,  chief  of
-the  Uasit  Merkits,  gave  Kulan  Khatun,  his  daughter,  to  Temud-
-jin. When  he  was  taking  the  girl  to  the  conqueror  the  road  was
+the  Uasit  Merkits,  gave  Kulan  Khatun,  his  daughter,  to  Temudjin. When  he  was  taking  the  girl  to  the  conqueror  the  road  was
 impassable  through  disorder.  He  met  on  the  way  a  man,  Naya
 of  the  Barins.  "  I  am  giving  my  daughter  to  Temudjin,"  said
 Dair  Usun  to  Naya.  "  Come  with  me,"  answered  Naya.  "  If
@@ -4105,11 +2946,7 @@ him.  Mistake  not,  O  Khan,  my  friend,  these  words  which  I
 send  thee."
 
 "  Is  it  possible  to  leave  men  unpunished  who  betray  ?  "  asked
-Temudjin.  "  Give  them  to  death  with  their  children  and  grand-
-children ! '      Then    he   commanded   to   slay   those   five   traitors
-
-
-66  The  Mongols
+Temudjin.  "  Give  them  to  death  with  their  children  and  grandchildren ! '      Then    he   commanded   to   slay   those   five   traitors
 
 
 er
@@ -4117,20 +2954,17 @@ er
 
 before  the  eyes  of  Jarauka  to  whom  he  sent  at  the  same  time  this
 message:  "  Once  I  made  thee  a  shaft  of  my  kihitka,  but  thou
-dicl-t  desert  me.  Thou  hast  joined  me  again,  so  now  be  my  com-
-rade Should  <>ne  of  us  forget,  the  other  will  remind  him.  If  one
+dicl-t  desert  me.  Thou  hast  joined  me  again,  so  now  be  my  comrade Should  <>ne  of  us  forget,  the  other  will  remind  him.  If  one
 falls  asleep  the  other  will  rouse  him.  Though  thou  didst  leave
 me,  thou  wert  si  ill  in  reality  my  assistant.  Though  thou  didst
 oppose  I  got  no  harm  in  the  end  from  that  action.  When  thou  and
 I  had  a  battle  thy  heart  was  regretful,  apparently.  When  I  warred
 with  Wang  Khan  thou  didst  send  me  his  discourses.  That  was
 the  earliest  service.  When  I  was  battling  with  the  Naimans
-thy  words  made  their  hearts  shake;  that  was  another  good  ser-
-vice.
+thy  words  made  their  hearts  shake;  that  was  another  good  service.
 
 These  words  were  taken  to  Jamuka  and  he  answered:  "  When
-we  became  andas  in  boyhood  we  ate  food  too  strong  for  our  stom-
-achs; we  gave  words  to  each  other  which  nothing  can  take  from
+we  became  andas  in  boyhood  we  ate  food  too  strong  for  our  stomachs; we  gave  words  to  each  other  which  nothing  can  take  from
 our  memory'.  People  roused  us  to  quarrel  and  we  parted.  I
 blush  when  I  think  of  my  speeches  uttered  once  to  my  anda,  and
 I  dare  not  look  now  at  thee.  It  is  thy  wish  that  I  be  for  the  future
@@ -4142,13 +2976,11 @@ a  louse  on  thy  collar  outside,  or  a  thorn  in  thy  inner  neel  band.
 Thou  WOtlldst  not  be  at  rest  in  the  daytime,  while  at  night  thou
 WOllldst  sleep  with  alarm  in  thy  bosom  were  I  to  be  near  thee.
 Thy  mother  is  prudent,  thou  thyself  art  a  hero,  thy  brothers  are
-gifted,  thy  comrades  are  champions,  thou  nasi  sevent  -three  lead-
-ers, but  from  childhood  I  have  had  neither  father  nor  mother,  I
+gifted,  thy  comrades  are  champions,  thou  nasi  sevent  -three  leaders, but  from  childhood  I  have  had  neither  father  nor  mother,  I
 have  no  brothers,  my  wife  is  a  babbler,  my  comrades  are  traitors,
 hence,  ( )  my  anda,  whom  Heaven  has  preferred,  give  me  death  the
 more  quickly  thai  thy  heart  may  be  quiet.  If  thou  let  me  die
-without  blood  loss  [,  after  death  and  for  ages,  will  help  thy  de-
-sc  .-miauls  ami  protect  them."
+without  blood  loss  [,  after  death  and  for  ages,  will  help  thy  desc  .-miauls  ami  protect  them."
 
 On  hearing  this  answer  Teinndjin  said:  "  Jamuka,  my  anda,
 went  his  own  way  in  life,  but  his  words  have  in  fact  never  harmed
@@ -4199,16 +3031,13 @@ three  days  and  nights  with  me  to  find  and  restore  those  eight
 horses.  Why  did  it  happen  that  Nahu  Boyan,  thy  rich  father,
 who  had  only  one  son,  let  that  son  be  my  comrade?  Because  in
 thee  traits  of  high  justice  were  evident.  After  that  when  I  called
-thee  to  help  me  thou  didst  not  refuse  and  wert  prompt  in  thy  com-
-ing. When  the  three  Merkit  clans  drove  me  into  the  forests  of
+thee  to  help  me  thou  didst  not  refuse  and  wert  prompt  in  thy  coming. When  the  three  Merkit  clans  drove  me  into  the  forests  of
 Mount  Burhan  thou  didst  not  desert  me;  thou  didst  share  my
 great  suffering.  When  I  spent  a  night  before  the  enemy  at  Talan
 and  a  great  blinding  rain  came  thou  didst  give  me  rest,  and  spread
 out  thy  felt  robe  above  me,  and  stand  there  and  hold  it,  and  not
 let  that  rain  touch  me.     Thou  didst  stand  in  that  painful  position
 
-
-68  The  Mongols
 
 until  daybreak,  resting  first  on  one  leg  and  then  on  the  other.
 This  proves  thy  unbounded  devotion.  It  would  not  be  possible
@@ -4227,8 +3056,7 @@ Khan  Kutula  made  merry  and  was  dancing,  Heaven  bestowed
 wisdom  and  tidings  which  became  clear  to  thee.  I  remember
 the  words  given  then  by  thy  keen  father,  Gunua,  and  I  make  thee
 prince  now  because  of  those  words,  and  thy  conduct  ever  after.
-Sit  thou  above  other  men  in  society,  be  a  commander  of  ten  thous-
-and on  the  left  wing,  and  govern  on  the  east  to  the  Haralin  moun-
+Sit  thou  above  other  men  in  society,  be  a  commander  of  ten  thousand on  the  left  wing,  and  govern  on  the  east  to  the  Haralin  moun-
 tains.    Thy  descendants  will  inherit  thy  dignity."
 
 "  In  youth,"  said  Jinghis  to  Horchi,  "  thou  didst  prophesy
@@ -4236,18 +3064,14 @@ touching  me;  thou  didst  share  with  me  toils  after  that  and  wert
 to  me  a  true  comrade.  Now  when  thy  words  of  fore-knowledge
 are  verified  and  proven,  I  give  thee  what  thou  didst  ask  for  it  that
 time:  I  give  thee  the  right  to  choose  for  thyself  thirty  beautiful
-maidens  and  women  among  all  conquered  nations.  Bring  to-
-gether three  thousand  of  the  Bali,  the  Adarki  and  other  clans  ruled
-by  Achik  and  by  Togai,  and  when  thou  hast  ten  thousand  assem-
-bled command  them  and  govern  those  people.  Put  up  thy  camps
+maidens  and  women  among  all  conquered  nations.  Bring  together three  thousand  of  the  Bali,  the  Adarki  and  other  clans  ruled
+by  Achik  and  by  Togai,  and  when  thou  hast  ten  thousand  assembled command  them  and  govern  those  people.  Put  up  thy  camps
 as  may  please  thee  among  forest  nations  on  the  Irtish,  and  guard
 well  that  region.  Let  all  affairs  there  be  under  tin  management,
 thou  hast  now  thy  heart's  wish."
 
-Jinghis  turned  then  to  Churchadai :  "Thy  greatest  serv-
-ice," said  he,  "  was  in  that  dreadful  battle  at  Kalanchin
-against  the  strong  Klian  of  the  Keraits.  When  Iluildar  de-
-clared that  he  would  seize  and  hold  (Jubtan  thou  didst
+Jinghis  turned  then  to  Churchadai :  "Thy  greatest  service," said  he,  "  was  in  that  dreadful  battle  at  Kalanchin
+against  the  strong  Klian  of  the  Keraits.  When  Iluildar  declared that  he  would  seize  and  hold  (Jubtan  thou  didst
 t;ike  the  vanguard.  Success  in  that  desperate  encounter  came
 from  thee  beyond  any  man.  Thou  didst  break  and  hcrl  back
 the  .lirkins,  (lie  strongest  of  the  enemy,  and  after  them  came  still
@@ -4262,8 +3086,7 @@ the  strong  central  position.  Thou  didst  wound  with  thy  own
 hand  Sengun  in  the  cheek  while  he  was  making  the  last  fearful
 onrush.  Hadst  thou  not  struck  him  then,  it  is  unknown  what
 would  have  followed.  Later  on,  when  we  were  moving  down  the
-Kalka,  I  relied  upon  thee  as  I  might  on  a  lofty  immovable  moun-
-tain. On  arriving  at  Baljuna  thou  didst  fight  in  the  vanguard
+Kalka,  I  relied  upon  thee  as  I  might  on  a  lofty  immovable  mountain. On  arriving  at  Baljuna  thou  didst  fight  in  the  vanguard
 again,  and  with  Heaven's  great  assistance  we  crushed  the  Keraits
 at  last,  and  because  of  that  triumph  the  Naimans  and  the  Merkits
 could  not  resist  us,  and  were  scattered.  When  they  were  scattered,
@@ -4273,8 +3096,7 @@ him  and  capture  his  people.     That  is  thy  second  great  service."
 
 "With  these  words  Jinghis  gave  Churchadai  his  own  wife,  Ibaha,
 the  daughter  of  Jaganbo,  to  whom  he  spoke  then  as  follows:
-"  Ibaha,  I  do  this  not  because  I  have  ceased  to  love  thee,  not  be-
-cause thou  hast  an  evil  temper  of  mind,  or  art  lacking  in  beauty.
+"  Ibaha,  I  do  this  not  because  I  have  ceased  to  love  thee,  not  because thou  hast  an  evil  temper  of  mind,  or  art  lacking  in  beauty.
 I  give  thee  to  Churchadai  to  reward  him  in  the  highest  way  possible.
 I  give  thee  to  Churchadai  because  of  his  inestimable  service,  and
 I  desire  those  of  my  sons  and  descendants  who  shall  receive  the
@@ -4282,15 +3104,13 @@ throne  after  me  to  honor  the  dignity  and  fame  of  Ibaha.  Now
 thou  wilt  grant  me  a  favor :  Thy  father  gave  with  thee  Ashi  Timur,
 who  is  master  of  thy  kitchen  and  two  hundred  men  to  work  under
 him.  In  going  leave  with  me  one  hundred  of  those  men,  and
-leave  also  Ashi."  Then  Jinghis  said  to  Churchadai :  "  I  com-
-mand thee  to  govern  four  thousand  of  the  Units.  Thou  didst  tame
+leave  also  Ashi."  Then  Jinghis  said  to  Churchadai :  "  I  command thee  to  govern  four  thousand  of  the  Units.  Thou  didst  tame
 the  wild,  and  bring  down  the  rebellious,  thou  and  Chelmai  with
 Chepe  and  Subotai.  Ye  have  been  like  four  raging  watch-dogs
 in  swiftness.  If  I  sent  you  to  any  place  ye  crushed  hard  immense
 stones  into  gravel,  ye  overturned  cliffs,  and  stopped  the  great  rush
 of  deep  waters,  hence  I  command  you  to  be  in  the  battle  front.
-The  four  heroes:  Boorchu,  Mukuli,  Boroul  and  Chilaun  I  com-
-mand to  be  behind  me.  Churchadai  to  be  in  front,  and
+The  four  heroes:  Boorchu,  Mukuli,  Boroul  and  Chilaun  I  command to  be  behind  me.  Churchadai  to  be  in  front,  and
 thus  make  my  heart  free  to  be  fearless.  Kubilai  be  the  elder
 in  all  warlike  matters  and  decisions."  Then  he  added :  "  Because
 of  disobedience  I  do  not  make  Baidun  a  commander  apart  and
@@ -4299,8 +3119,6 @@ act  with  thee,  and  see  thou  what  will  come  of  it."
 
 After  that  Jinghis  said  to  Boorchu  and  others:  "  Hunan  is  like
 
-
-70  The  Mongols
 
 a  fearless  wolf  in  the  night  time,  in  the  day  he  is  like  a  black  raven.
 He  joined  me  and  never  would  act  with  had  people.  In  every
@@ -4365,8 +3183,7 @@ child !  '  screamed  my  mother.  Altani,  Boroul's  wife,  who  was
 sitting  east  of  the  door,  rushed  at  the  Tartar,  caught  his  hair  with
 one  hand  and  pulled  his  knife  with  the  other  so  vigorously  that
 she  and  the  knife  fell  together.  Now  Chedai  and  Chelmai,  who
-had  just  killed  a  cow  a  little  north  of  the  yurta,  heard  Altani  scream-
-ing. They  ran,  one  with  a  knife,  the  other  with  an  axe  and  killed
+had  just  killed  a  cow  a  little  north  of  the  yurta,  heard  Altani  screaming. They  ran,  one  with  a  knife,  the  other  with  an  axe  and  killed
 the  stranger.  Altani,  Chedai  and  Chelmai  disputed  then  as  to
 who  had  shown  the  greatest  service.  *  If  we  had  not  run  up,'
 said  Chedai  and  Chelmai,  '  thou  couldst  not  have  managed  the
@@ -4384,8 +3201,7 @@ from  suffering  the  death  penalty."
 
 Jinghis  spoke  next  to  Sorgan  Shira :  "  When  I  was  young,"
 said  he,  ' '  Targutai  Kurultuk,  with  his  brethren  the  Taidjuts,
-<  "tured  me.  Thou,  with  thy  son,  hid  me  at  thy  yurta  and  com-
-manded Kadan,  thy  daughter,  to  serve  me,  and  ye  then  gave  me
+<  "tured  me.  Thou,  with  thy  son,  hid  me  at  thy  yurta  and  commanded Kadan,  thy  daughter,  to  serve  me,  and  ye  then  gave  me
 freedom.  Day  and  night  I  remember  this  service,  but  ye  came
 to  me  late  and  only  now  am  I  able  to  reward  you.  What  may
 your  wish  be  ?  '  '  We  should  like,"  answered  they,  "to  make  a
@@ -4394,8 +3210,6 @@ may  be  possible,  let  the  Khan  give  it."  "Let  it  be  as  ye  wish;
 make  your  camp  in  that  country.  Besides,  let  all  your  descendants
 bear  arrows  and  bows,  and  drink  a  cup  of  wine  in  the  camp  of  the
 
-
-72  The  Mongols
 
 Khan  when  ye  come  to  it.  Nine  death  offenses  will  be  forgiven
 you."  To  Chilaun  and  Chinbo,  sons  of  Sorgan  Shira,  he  said:
@@ -4421,8 +3235,7 @@ people  and  command  them.  When  all  who  had  labored  to  build
 up  the  Empire  had  received  their  rewards  and  offices  Jinghis
 Khan's  step-father,  Munlik,  brought  his  seven  sons  to  the  assembly
 and  received  for  them  good  recognition.  The  fourth  man  of  these
-was  a  shaman,  Kokochu,  a  man  of  boundless  ambition.  Taib-
-tengeri  was  his  second  name.  No  one  could  tell  who  among  these
+was  a  shaman,  Kokochu,  a  man  of  boundless  ambition.  Taibtengeri  was  his  second  name.  No  one  could  tell  who  among  these
 seven  brothers  was  the  most  self-willed  and  bitter.  One  day  they
 attacked  Juchi  Kassar  and  beat  him.  Kassar  complained  to  Jinghis
 of  this  treatment;  Jinghis  became  angry.  "  Thou  hast  boasted,"
@@ -4447,8 +3260,7 @@ reached   Ka^-ar's  yurta  at   sunrise,  just  as   Jinghis,  having  tied
 
 Temudjin  Rewards  His  Empire  Builders       73
 
-Kassar's  sleeves,  had  taken  cap  and  girdle  from  him  and  was  ask-
-ing him  questions.  When  Jinghis  saw  his  mother  he  was  wonder-
+Kassar's  sleeves,  had  taken  cap  and  girdle  from  him  and  was  asking him  questions.  When  Jinghis  saw  his  mother  he  was  wonder-
 fully astonished,  and  alarmed  also.  Hoelun  was  very  angry.
 Stepping  out  of  her  kibitka,  she  untied  Kassar,  gave  him  back  cap
 and  girdle,  then  sitting  down,  she  put  her  feet  under  her,  bared
@@ -4461,8 +3273,7 @@ nor  Temugu  could  draw  my  breasts  thoroughly;  only  Kassar
 could  empty  both  sides  and  relieve  me.  Temudjin,  thou  hast
 gifts,  but  Kassar  alone  has  the  strength  and  the  art  to  shoot  arrows.
 Whenever  men  have  risen  in  rebellion  he  has  brought  them  down
-with  his  arrows  and  tamed  them.  Every  enemy  now  is  des-
-troyed, and  Kassar  is  needed  no  longer."
+with  his  arrows  and  tamed  them.  Every  enemy  now  is  destroyed, and  Kassar  is  needed  no  longer."
 
 Jinghis  waited  till  Hoelun's  anger  had  subsided.  Then  he
 said :  "  I  was  frightened  when  I  acted.  I  am  ashamed  at  this
@@ -4482,16 +3293,13 @@ The  seven  brothers  surrounded  him.  "  How  didst  thou  dare  to
 send  men  to  take  people  from  us  ?  "  roared  the  brothers,  and
 they  were  ready  to  beat  him.  "  I  ought  not  to  have  sent  men  to
 you,"  said  Temugu,  much  frightened.  "  As  thou  art  to  blame,
-then  beg  pardon."  And  they  forced  him  to  kneel  to  them  straight-
-way.
+then  beg  pardon."  And  they  forced  him  to  kneel  to  them  straightway.
 
 The  next  day,  very  early,  while  Jinghis  was  in  bed,  Temugu
 fell  on  his  knees  before  him  and  told  how  Taibtengeri  and  his
 brothers  had  treated  him.  He  wept  while  relating  the  details.
 Jinghis  had  said  no  word  yet,  when  Bortai  came  from  her  bed
 
-
-74  The  Mongols
 
 with  a  blanket  around  her  and,  shedding  tears  meanwhile,  spoke
 as  follows:  '  This  man  has  beaten  Kassar,  and  now  he  has  forced
@@ -4505,20 +3313,17 @@ small,  helpless  children."
 with  him  as  thou  pleasest."     Temugu  went  out  and  agreed  with
 three  very  strong  wrestlers.     Mnnlik  came  later  with  his  seven
 sons,  and  when  Taibtengeri  sat  near  the  door  on  the  west  side,
-Temugu,  as  he  passed,  seized  him  roughly  by  the  collar.   "  Yester-
-day." said  he,  "  thou  didst  force  me  to  my  knees ;  I  will  try  strength
+Temugu,  as  he  passed,  seized  him  roughly  by  the  collar.   "  Yesterday." said  he,  "  thou  didst  force  me  to  my  knees ;  I  will  try  strength
 fc  >-■  lay  with  thee."    While  Temugu  was  struggling  with  him  the  cap
 fell  from  the  head  of  the  shaman;    Munlik  took  the  cap  and  put
-it  under  his  arm.     "  Wrestle  not  here !  "  cried  Jinghis,  "  go  out-
-side."    When  the  two  men  stepped  forth  from  the  yurta  Taib-
+it  under  his  arm.     "  Wrestle  not  here !  "  cried  Jinghis,  "  go  outside."    When  the  two  men  stepped  forth  from  the  yurta  Taib-
 tengeri was  seized  by  the  wrestlers  who  broke  his  spine  and  threw
 him  aside  to  the  left  where  he  fell  near  the  wheel  of  a  kibitka.
 "  Taibtengeri,"  said  Temugu  to  Jinghis,  "  forced  me  to  my  knees
 yesterday  to  beg  pardon ;  now  when  I  wish  to  try  strength  with  him,
 he  lies  down  and  refuses  to  rise.     It  is  clear  that  he  is  a  coward."
 Munlik  understood  and  began  to  weep  bitterly.      ;'  O   Khan,"
-said  he.  "  I  was  thy  assistant  before  thou  wert  even  at  the  begin-
-ning of  thy  greatness,  and  I  have  continued  to  serve  thee  till  this
+said  he.  "  I  was  thy  assistant  before  thou  wert  even  at  the  beginning of  thy  greatness,  and  I  have  continued  to  serve  thee  till  this
 day."     While  he  was  >|>caking  his  six  sons  stood  near  the  center
 of  the  yurta  and  watched  the  door.     They  began  to  put  up  their
 sleeves  as  if  for  a  struggle.     Jinghis  rose.     lie  was  frightened,  but
@@ -4545,8 +3350,7 @@ sons  what  was  needed  very  greatly  in  their  case  —  obedience.
 This  one  tried  to  equal  me,  hence  I  extinguished  him.  Had  I
 known  thee  earlier  I  should  have  put  an  end  to  thee,  as  I  have  to
 Jamuka,  to  Altan  and  Kudjeir,  But  if  a  man  gives  a  word  in
-the  morning  and  breaks  it  ere  night  comes,  or  gives  it  in  the  eve-
-ning and  breaks  it  in  the  morning,  the  judgment  of  people  will
+the  morning  and  breaks  it  ere  night  comes,  or  gives  it  in  the  evening and  breaks  it  in  the  morning,  the  judgment  of  people  will
 shame  him.  I  have  promised  to  save  thee  from  death,  so  let  us
 now  end  this  matter."
 
@@ -4567,12 +3371,10 @@ China.
 Kara  Kitai  (Black  Cathay)  was  at  that  time  a  very  large  Empire
 composed  of  many  nations.  The  ruler  of  each  of  these  nations
 acknowledged  the  overlordship  of  the  Gurkhan  or  sovereign,  In
-length  Kara  Kitai  extended  westward  from  Tangut  to  the  Kwares-
-mian  Empire,  and  in  width  from  the  Upper  Irtish  to  the  Pamir
+length  Kara  Kitai  extended  westward  from  Tangut  to  the  Kwaresmian  Empire,  and  in  width  from  the  Upper  Irtish  to  the  Pamir
 highlands.  Within  its  borders  were  the  lakes  now  known  as
 Balkash,  Issikkul  and  Lob  Nor.  Of  cities  now  existing,  Kuldja
-would  be  close  to  the  center,  Kashgar  and  Yarkend  a  good  dis-
-tance from  its  western  border,  while  Khotan  would  be  well  re-
+would  be  close  to  the  center,  Kashgar  and  Yarkend  a  good  distance from  its  western  border,  while  Khotan  would  be  well  re-
 moved from  its  southernmost  limit.
 
 Nearly  all  Central  Asia  was  included  in  this  Empire,  while
@@ -4614,8 +3416,7 @@ might  join  the  Gurkhan;  they  might  rouse  either  parly  to  move
 againsl  him.  The  Idikut's  delighl  was  great,  therefore,  and  genuine
 when  Mongol  envoys  appeared  before  him.  Jinghis  had  heard
 of  the  Idikut's  resolve,  and,  knowing  well  what  good  might  rise
-from  it,  had  taken  action  very  promptly,  and  despatched  as  en-
-voys Alp  ling  and  Durbai  to  the  ruler  of  the  Uigurs.
+from  it,  had  taken  action  very  promptly,  and  despatched  as  envoys Alp  ling  and  Durbai  to  the  ruler  of  the  Uigurs.
 
 The  Idikut  showed  the  highest  honor  to  these  envoys,  and
 dismissed  them  with  even-  mark  of  courtesy  and  friendship,
@@ -4640,8 +3441,7 @@ am  the  servant  and  BOH  of  Jinghifl   Khan  the  Immovable. "
 Temudjin  Rewards  His  Empire  Builders        77
 
 At  first  sight  it  might  seem  that  the  Mongol  Khan  would  be
-satisfied  with  a  statement  of  this  kind,  but  he  was  far  from  satis-
-faction, for  just  then  came  four  envoys  from  the  sons  of  Tukta
+satisfied  with  a  statement  of  this  kind,  but  he  was  far  from  satisfaction, for  just  then  came  four  envoys  from  the  sons  of  Tukta
 Bijhi,  declaring  their  subjection,
 
 The  Uigur  envoys  were  received  with  every  honor,  but  since  he
@@ -4656,12 +3456,10 @@ objects,,  These  were  sent  to  Jinghis  Khan  that  same  summer,
 but  the  Idikut  excused  himself  from  offering  them  in  person,
 and  added  various  reasons  to  explain  his  own  absence.
 
-Fresh  disorder-  broke  out  in  Tangut,  which  caused  new  cam-
-paigning. Th«  Mongols  invaded  that  country  a  third  time,
+Fresh  disorder-  broke  out  in  Tangut,  which  caused  new  campaigning. Th«  Mongols  invaded  that  country  a  third  time,
 routed  its  warriors,  captured  the  city  of  Uiraka  and  the  fortress  of
 Imen.  A  second  Tangut  army  was  scattered,  and  Chong  sing,
-the  chief  capital,  was  invested.  During  this  siege  peace  was  con-
-cluded and  the  Tangut  king  gave  his  daughter  to  Jinghis  in
+the  chief  capital,  was  invested.  During  this  siege  peace  was  concluded and  the  Tangut  king  gave  his  daughter  to  Jinghis  in
 marriage.
 
 During  1209  the  Mongol  sovereign  returned  home  in  triumph
@@ -4674,8 +3472,7 @@ time,  revolted.  Among  these  was  the  Sultan  of  Khotan,  who
 marched  against  him  with  an  army,  and  persuaded  Arslan  Khan
 to  drop  allegiance,,  Arslan  made  haste  to  help  the  Sultan  all  the
 more,  since  at  that  time  he  was  advised  of  the  Gurkhan 's  plans  by
-that  sovereign's  deceitful  Emir,  Tanigu.  This  traitor  so  repre-
-sented Arslan  to  his  overlord,  the  Gurkhan,  that  the  latter  gave
+that  sovereign's  deceitful  Emir,  Tanigu.  This  traitor  so  represented Arslan  to  his  overlord,  the  Gurkhan,  that  the  latter  gave
 him  the  title  "'  son,"  and  appointed  for  him  the  agent  whom
 Tanigu  recommended.  But  when  Mongol  victories  sent  panic
 throughout  Northern  Asia,  Arslan  acted  quickly.  He  slew  the
@@ -4684,8 +3481,6 @@ waited  for  his  favor.
 
 Arslan  said  that  if  he  received  a  golden  girdle,  and  a  high  position
 
-
-78  The  Mongols
 
 in  the  Mongol  service  he  would  have  one  wish  alone  ungratified:
 to  be  the  fifth  son  of  the  great  Khan.  Jinghis,  divining  this  wish
@@ -4732,18 +3527,13 @@ Tekoan,  the  son  of  this  first  Kitan  ruler,  by  giving  the  aid  of  his
 arms  to  a  rebel  chieftain  in  China,  secured  victory,  and  a  throne
 for  him.  In  return  for  such  service  the  newly  made  Emperor,
 who  fixed  his  residence  or  capital  at  the  present  Kai  fong  fu  on  the
-south  bank  of  the  Hoang  Ho,  or  Yellow  River,  ceded  sixteen  dis-
-tricts to  Tekoan  in  Pehche  li,  Shan  si  and  Liao  tung,  engaging  also
+south  bank  of  the  Hoang  Ho,  or  Yellow  River,  ceded  sixteen  districts to  Tekoan  in  Pehche  li,  Shan  si  and  Liao  tung,  engaging  also
 to  furnish  three  hundred  thousand  pieces  of  silk  as  his  annual
 tribute.
 
 The  new  Chinese  Emperor  took  the  position  of  vassal  to  the
 Kitan,   and   termed   himself   his   grandson   and   subject.      The
 
-79
-
-
-80  The  Mongols
 
 successor  to  this  Chinese  ruler  sought  to  modify  these  conditions.
 Tekoan  made  war  on  him;  conquered  all  the  provinces  north  of
@@ -4770,8 +3560,7 @@ the  Eastern  Ocean  and  the  Sungari  River.  These  formed  pari  of
 the  same  Tungus  stock  as  did  the  Kitans,  but  they  were  untouched
 as  yet  by  luxury.
 
-In  1114  Aguta  gained  a  victor}'  over  the  Kitans,  and  the  follow-
-ing year  proclaimed  himself  Emperor  of  the  Jutchis.  The  new
+In  1114  Aguta  gained  a  victor}'  over  the  Kitans,  and  the  following year  proclaimed  himself  Emperor  of  the  Jutchis.  The  new
 State  he  called  Aidjin  Kurun  (Kin  kwe  in  Chinese),  that  is,  CJolden
 Kingdom.  He  would  not  act,  he  said,  like  the  Kitans,  who  had
 taken  the  name  of  a  metal  that  is  eaten  by  rust  very-  easily  and
@@ -4785,8 +3574,7 @@ years  and  two  centuries.
 The  Sung  Emperor  had  abetted  Aguta,  and  even  urged  him
 towards  victory,  Imping  thus  to  regain  the  lands  lying  between  the
 Yellow  Sea  and  the  Yellow  River.  The  Kitans  were  crushed  in
-the  conflict,  but  the  new  power  (the  Kin  dynasty)  was  more  dan-
-gerous for  1 1 i in  than  the  old,  as  he  learned  to  his  cost  very  quickly.
+the  conflict,  but  the  new  power  (the  Kin  dynasty)  was  more  dangerous for  1 1 i in  than  the  old,  as  he  learned  to  his  cost  very  quickly.
 Iii  \\t:>  the  Kin  Km  peror  invaded  North  China;  the  year  following
 he  reached  the  Hoang  Ho,  or  Yellow  River,  and  besieged  Kai
 fong  fu  which  lies  south  of  it.     The  Sung  Emperor,  who  visited
@@ -4798,8 +3586,7 @@ the  camp  of  the  invader  to  find  peace  there  if  possible,  was  seized
 and  sent  to  Manchuria  with  his  family.  One  of  his  brothers,
 livinc  then  in  the  South,  was  made  sovereign  by  the  Chinese.  The
 Kins  advanced  farther,  reached  the  Yang  tse  and  took  Lin  ngan
-in  the  Che  kiang  province.  They  forced  the  Emperor  to  acknowl-
-edge their  conquest  and  promise  a  yearly  payment  of  twenty-five
+in  the  Che  kiang  province.  They  forced  the  Emperor  to  acknowledge their  conquest  and  promise  a  yearly  payment  of  twenty-five
 thousand  pieces  of  silk  with  two  hundred  and  fifty  thousand  ounces
 of  silver,  and  to  avow  himself  a  vassal  in  addition.
 
@@ -4809,8 +3596,7 @@ way  between  the  great  rivers  Hoang  Ho  and  Yang  tse.  The  Sung
 Emperor  moved  his  capital  to  Lin  ngan,  known  as  Han  chau
 somewhat  later.  The  Kins  took  up  arms  to  extend  their  new
 Empire  still  farther  southward,  but  were  confronted  by  failure.
-The  war  ended  in  1165  by  a  treaty  which  retained  former  boun-
-daries, but  decreased  the  Sung  tribute.  The  southern  Emperor,
+The  war  ended  in  1165  by  a  treaty  which  retained  former  boundaries, but  decreased  the  Sung  tribute.  The  southern  Emperor,
 moreover,  instead  of  being  a  vassal  to  him  of  the  north,  acquired
 the  relation  of  a  nephew  to  an  uncle.  But  in  1206  the  Sung
 Emperor  began  a  new  war  which  brought  defeat  to  him.  To
@@ -4838,8 +3624,6 @@ and  in  1210  an  envoy  informed  Jinghis  Khan  that  Chong  hei,
 the  eighth  of  the  dynasty,  had  succeeded  Madaku.  The  envoy
 demanded  that  the  vassal,  as  he  claimed  to  consider  Jinghis,
 
-
-82  The  Mongols
 
 should  receive  the  announcement  while  kneeling,  in  accordance
 with  the  etiquette  of  China.
@@ -4870,8 +3654,7 @@ thy  knowledge  that  we,  by  Heaven's  favor,  have  been  chosen  from
 among  all  the  Mongols  to  hold  the  reins  of  Empire  and  of  guj  lance.
 The  fame  of  our  conquering  host  has  gone  forth,  and  is  spreading.
 We  are  planting  our  banners  over  all  the  earth's  surface,  and  soon
-every  people  and  all  nations  will  submit  without  delay  or  hesita-
-tion to  our  prosperous  direction,  and  share  in  its  many  bene-
+every  people  and  all  nations  will  submit  without  delay  or  hesitation to  our  prosperous  direction,  and  share  in  its  many  bene-
 factions. But  should  any  rise  and  resist,  their  houses,  goods,
 property  and  dependents  will  be  ruined  without  mercy.  Praise
 and  honor  to  High  Heaven,  our  dominion  is  so  w<  il  ordered  that
@@ -4898,8 +3681,7 @@ will  last  till  Heaven  puts  the  diadem  of  victory  and  power  on  the
 head  of  him  whom  it  chooses,  and  puts  the  rags  of  misery  and
 want  on  him  whom  it  desires  to  wear  them."
 
-On  receiving  these  words,  such  as  no  man  had  ever  sent  a  sover-
-eign in  China,  Chong  hei  burst  into  a  blazing  rage  and  dismissed
+On  receiving  these  words,  such  as  no  man  had  ever  sent  a  sovereign in  China,  Chong  hei  burst  into  a  blazing  rage  and  dismissed
 the  envoy  with  contempt  and  with  injury.  "  If  Jinghis  has
 planned  war  and  slaughter  against  us,"  replied  he,  "  who  can
 prevent  him  from  tempting  fortune  ?  "
@@ -4921,15 +3703,13 @@ also  spirits  good  and  evil."
 His  four  sons,  Juchi,  Jagatai,  Ogotai  and  Tului,  accompanied
 the  Mongol  sovereign.
 
-This  army  of  invasion  was  held  together  by  the  sternest  disci-
-pline and  made  up  of  mounted  men  only.  The  units  of  this  force
+This  army  of  invasion  was  held  together  by  the  sternest  discipline and  made  up  of  mounted  men  only.  The  units  of  this  force
 were  ten,  one  hundred,  one  thousand  and  ten  thousand  warriors,
 The  orders  of  the  sovereign  were  given  to  the  chiefs  of  ten  thousand,
 and  by  them  to  subordinates.  Each  man  had  a  strong  rawhide
 armor  and  helmet;  he  carried  a  lance  and  a  sabre  with  an  ax,  a
 bow,  and  a  quiver ;  he  was  followed  by  a  number  of  horses,  which
-hi  ]  no  food  save  that  which  they  found  as  they  traveled.  Im-
-mense herds  of  cattle  were  driven  in  the  rear  of  the  army.  In
+hi  ]  no  food  save  that  which  they  found  as  they  traveled.  Immense herds  of  cattle  were  driven  in  the  rear  of  the  army.  In
 time  of  forced  marches  each  man  carried  with  him  some  milk  and
 a  small  portion  of  flesh  food.
 
@@ -5036,8 +3816,6 @@ Tangut  was  attacking  on  the  west,  and  in  1213  took  King  chiu,
 a  border  city.
 
 
-86  The  Mongols
-
 Tangut  and  China  had  passed  eighty  years  in  mutual  good
 feeling  and  friendship  when  the  Tangut  sovereign,  attacked  by
 Jinghis  for  the  third  time,  asked  aid  from  the  Kin  sovereign,  hut
@@ -5061,8 +3839,7 @@ Mongol  armies  were  assembled  with  their  booty  in  April  of  that
 year,  at  a  place  some  leagues  west  of  Chong  tu.  Jinghis  would
 permit  no  attack  on  that  capital.  To  the  Emperor  he  sent  two
 officers  with  the  following  message :  "  All  places  north  of  the  Hoang
-Ho  are  mine,  save  Chong  tu,  which  is  all  that  remains  in  thy  ser-
-vice.  Heaven  has  brought  thee  down  to  this  impotence;  were  I
+Ho  are  mine,  save  Chong  tu,  which  is  all  that  remains  in  thy  service.  Heaven  has  brought  thee  down  to  this  impotence;  were  I
 to  harass  thee  still  further  I  should  dread  Heaven's  anger.  Wilt
 thou  treat  my  army  well,  ami  satisfy  the  generals?  "
 
@@ -5079,8 +3856,7 @@ amnesty  to  all.  but  not  feeling  safe,  he  left  his  heir  in  Chong  tu,
 and  s.-t  out  for  IVn  king,  the  prcscnl  Kai  fong  fu,  belter  known  as
 Nan  king.  Oil  the  southern  bank  of  the  Hoang  Ho.  On  th  way
 he  attempted  to  deprive  the  Kara  Kitans  in  his  escort  of  the  horses
-and  arrows  which  had  been  (riven  them.  Thev  revolted  immedi-
-ately,  chose  as  leader  one  ( Ihoda  and  turned  then  toward  Chong  tu.
+and  arrows  which  had  been  (riven  them.  Thev  revolted  immediately,  chose  as  leader  one  ( Ihoda  and  turned  then  toward  Chong  tu.
 Two  leagues  from  the  capital  Choda  met  armed  resistance,  and
 
 
@@ -5099,8 +3875,7 @@ his  kingdom.
 When  Utubu  heard  of  this  new  Mongol  inroad  he  summoned  his
 son  to  Nan  king  immediately.  Chong  tu,  the  capital,  was  poorly
 provisioned,  the  Mongols  were  near  it,  their  ferocity  was  famous ;
-the  besieged  were  in  terror.  Utubu  hurried  forward  a  great  trans-
-port of  food  under  Li  ing,  with  a  numerous  army.  The  Mongols
+the  besieged  were  in  terror.  Utubu  hurried  forward  a  great  transport of  food  under  Li  ing,  with  a  numerous  army.  The  Mongols
 attacked  this  strong  army.  Li  ing,  who  was  drunk  when  they  fell
 on  him,  was  killed.  The  battle  was  lost,  and  the  transport  was
 seized  and  swept  off  by  the  victors.  At  news  of  this  dreadful
@@ -5130,9 +3905,6 @@ plunder,  and  give  due  praise  to  Mingan  for  his  siege  work.
 Mingan  had  hardly  captured  Chong  tu  when  Jinghis  sent
 Samuka  with  ten  thousand  men  to  fall  on  Nan  king  and  capture
 the  Emperor.     Samuka    marched  up  so  close  to  the  city  that
-
-
-88  The  Mongols
 
 
 &'
@@ -5174,8 +3946,7 @@ the  two  years  which  followed,  this  best  of  all  Mongol  leaders  won
 back  that  whole  region  by  excellent  strategy,  finesse,  and  grand
 fighting.  This  work  was  indispensable  in  the  conquest  of  China.
 During  1217  this  great  general  appeared  before  Jinghis  encamped
-then  on  the  Tula.  Mukuli  was  rewarded  beyond  all  other  gen-
-eral-; up  to  that  day,  and  after  it.  Jinghis  praised  him  in  public,
+then  on  the  Tula.  Mukuli  was  rewarded  beyond  all  other  general-; up  to  that  day,  and  after  it.  Jinghis  praised  him  in  public,
 lauded  his  great  mental  gifts,  and  his  services,  called  him  Kwe
 Wang,  <ir  prince  in  the  Empire,  and  made  this  title  hereditary.
 He  created  him  lieutenant  commanding  in  China,  and  gave  him
@@ -5190,10 +3961,8 @@ he  dismissed  him  with  an  army  of  Mongols  and  Kitans,  with  the
 Jutchis,  or  Manchus,  to  help  them.
 
 In  1218  Jinghis  marched  on  Tangut  for  the  fourth  time  and
-brought  it  to  obedience.  During  that  year  he  received  the  sub-
-mission of  Corea.  Next  his  activity  was  turned  to  a  new  side,
-and  soon  we  shall  see  the  opening  scenes  in  that  mighty  move-
-ment begun  by  Jinghis  and  continued  by  his  descendants,  and
+brought  it  to  obedience.  During  that  year  he  received  the  submission of  Corea.  Next  his  activity  was  turned  to  a  new  side,
+and  soon  we  shall  see  the  opening  scenes  in  that  mighty  movement begun  by  Jinghis  and  continued  by  his  descendants,  and
 still  later  resumed  by  his  relative,  the  tremendous  Timur,  that
 World  Shaking  Limper  and  father  of  the  Mongol  rulers  of
 India.
@@ -5211,8 +3980,7 @@ him.  At  the  head  of  these  and  his  own  men,  he  went  farther.
 Bilik,  prince  of  the  Uigurs,  from  whom  he  asked  a  passage,  went
 out  to  receive  him  at  the  boundary,  with  a  large  gift  of  sheep,
 horses,  and  camels.  Bilik  gave  also  as  hostages  a  number  of  his
-sons  and  grandsons,  and  recognized  the  renowned  man  as  over-
-lord.
+sons  and  grandsons,  and  recognized  the  renowned  man  as  overlord.
 
 Yeliu  conquered  Kashgar,  Yarkend,  Khotan  and  Turkistan.
 Turkistan  was  at  that  time  under  Nahmud  Khan,  the  twentieth
@@ -5222,16 +3990,13 @@ of  Transoxiana,  and,  as  this  region  too  was  attacked  somewhat
 lai  r  by  Kara  Kitans,  he  became  Yeliu's  vassal.  Kwaresm  met
 soon  the  same  fate  as  Transoxiana;  Yeliu's  troops  brought
 sword  and  flame  to  it,  and  Atsiz,  the  second  prince  of  the  dynasty
-of  the  Kwaresmian  Shahs,  obtained  peace  by  paying  thirty  thou-
-sand gold  coins  for  it  yearly.
+of  the  Kwaresmian  Shahs,  obtained  peace  by  paying  thirty  thousand gold  coins  for  it  yearly.
 
 When  Yeliu  had  brought  under  his  dominion  all  regions  between
 the  Yaxartes  and  the  Gobi  desert,  and  between  the  headwaters  of
 the  Irtish  and  the  Pamir  highlands,  he  took  the  title  of  Gurkhan
 of  Kara  Kitai,  and  fixed  his  chief  residence  at  Bela  Sagun  on  the
 
-
-90  The  Mongols
 
 next  large  stream  east  of  the  Yaxartcs  River.  In  1136,  while
 preparing  for  war  against  the  Kin  sovereigns  to  win  back  the
@@ -5241,20 +4006,16 @@ tutelage  of  his  mother.  Dying  in  1155  he  left  a  son,  Chiluku,  for
 whom  his  aunt,  Pussuen,  was  regent  till  1107  when  he  came  to
 majority.  When  the  son  of  the  last  Naiman  ruler  came  in  1208
 to  seek  an  asylum  in  Kara  Kitai,  Chiluku  was  still  ruling.  He
-showed  the  fleeing  Khan  a  kind  welcome,  and  gave  him  his  daugh-
-ter in  marriage.
+showed  the  fleeing  Khan  a  kind  welcome,  and  gave  him  his  daughter in  marriage.
 
 Chiluku  was  occupied  mainly  in  hunting  wild  beasts,  and  in
 seeking  for  pleasure.  This  weakness  caused  the  defection  of
 great  vassals :  the  Idikut  of  the  Uigurs ;  the  Khan  of  Transoxiana;
-the  Kwaresmian  Shah,  and  now  it  led  his  perfidious  new  son-in-
-law  to  dethrone  him.
+the  Kwaresmian  Shah,  and  now  it  led  his  perfidious  new  son-inlaw  to  dethrone  him.
 
-The  Naiman  Khan  had  attracted  some  of  Chiluku's  com-
-manders, and  on  collecting  the  wreck  of  his  late  father's  army  he
+The  Naiman  Khan  had  attracted  some  of  Chiluku's  commanders, and  on  collecting  the  wreck  of  his  late  father's  army  he
 saw  himself  at  the  head  of  considerable  forces.  To  begin  his
-plot  easily  he  begged  leave  of  the  Gurkhan  to  assemble  the  scat-
-tered remnants  of  the  Naiman  army,  then  wandering  through
+plot  easily  he  begged  leave  of  the  Gurkhan  to  assemble  the  scattered remnants  of  the  Naiman  army,  then  wandering  through
 northeastern  lands  of  the  Kara  Kitan  Empire.  These  men
 might  be  employed,  he  said,  in  Chiluku's  service.  The  weak
 and  kindly  old  sovereign  consented,  gave  his  daughter'/]  husband
@@ -5267,10 +4028,8 @@ Further  hope  of  booty  caused  other  bands  to  follow  quickly.  Still
 Gutchluk  could  not  seize  the  Empire  without  an  ally,  and  the
 Empire,  or  at  least  a  large  part  of  it,  was  his  object.
 
-He  turned  to  Shah  Mohammed  who  had  withdrawn  from  sub-
-jection  to  Chiluku,  and  had  received  even  the  homage  of  Osman,
-tlir  Khan  ruling  then  over  Transoxiana  and  Samarkand.  Gutch-
-luk asked  Shah  Mohammed  to  fall  on  the  Empire,  and  seize  the
+He  turned  to  Shah  Mohammed  who  had  withdrawn  from  subjection  to  Chiluku,  and  had  received  even  the  homage  of  Osman,
+tlir  Khan  ruling  then  over  Transoxiana  and  Samarkand.  Gutchluk asked  Shah  Mohammed  to  fall  on  the  Empire,  and  seize  the
 ''Tii  part  for  this  service.  The  Shah  gave  a  favorable  answer.
 Meanwhile  a  Kani  Kitan  army  was  despatched  to  Samarkand  by
 Chiluku  to  bring  Osman  ba<  k  to  obedience.  Shah  Mohammed
@@ -5290,21 +4049,18 @@ in  despair  after  losing  a  large  force  of  warriors  who  were  killed  or
 taken  captive.
 
 Meanwhile  Shah  Mohammed  had  crossed  the  western  boundary
-accompanied  by  Osman,  and  met  the  Kara  Kitan  forces  com-
-manded by  Tanigu.  He  attacked  these  and  captured  the  com-
+accompanied  by  Osman,  and  met  the  Kara  Kitan  forces  commanded by  Tanigu.  He  attacked  these  and  captured  the  com-
 mander. The  defeated  troops  while  marching  home  robbed
 their  own  fellow  subjects  and  plundered  without  distinction ;  Bela
 Sagun,  which  preferred  Mohammed,  would  not  open  its  gates  to
 them.  Besieged  oy  the  troops  of  their  own  sovereign  they  fought
 for  sixteen  days,  hoping  daily  to  see  the  Shah's  army.  The  city
-was  taken  by  assault,  and  the  people  were  slaughtered.  Fifty-
-seven  thousand  persons  perished  under  the  sword  edge.
+was  taken  by  assault,  and  the  people  were  slaughtered.  Fiftyseven  thousand  persons  perished  under  the  sword  edge.
 
 As  Kara  Kitan  treasures  had  vanished,  the  state  treasury  was
 empty.  Mahmud  Bai,  an  immensely  rich  general  who  feared  for
 his  own  wealth  and  substance,  advised  the  Gurkhan  to  force  a
-restoration  of  all  that  had  been  seized  by  Gutchluk  and  his  fol-
-lowers. The  army  chiefs,  unwilling  to  yield  up  their  plunder,  were
+restoration  of  all  that  had  been  seized  by  Gutchluk  and  his  followers. The  army  chiefs,  unwilling  to  yield  up  their  plunder,  were
 furious  on  hearing  this  proposal.  Gutchluk  appeared  then  on
 a  sudden,  and  seized  his  father-in-law,  the  Gurkhan.  Once
 master  of  the  sovereign's  person  he  used  sovereign  authority,  so
@@ -5325,8 +4081,6 @@ When  Jinghis  heard  of  this  he  commanded  Chepe  not  to  be
 proud  of  success,  for  pride  had  undone  Wang  Khan  of  the  Keraits
 
 
-92  The  Mongols
-
 and  the  Taiyang  of  the  Naimans,  as  well  as  Gutehluk,  and  brought
 ruin  to  ever}7  recent  ruler.
 
@@ -5339,12 +4093,10 @@ the  mountains,  and  hid  there  from  death,  which  he  looked  on  as
 certain  in  case  he  were  captured.  One  day  when  Temudjin  was  out
 hunting  his  beaters  inclosed  and  caught  Chepe.  The  Khan
 wished  to  slay  him,  but  Boorchu,  his  earliest  comrade  and  one  of
-his  four  chosen  leaders,  begged  for  a  combat  with  Chepe.  Temud-
-jin agreed,  and  gave  him  a  white  muzzled  horse  for  the  trial.
+his  four  chosen  leaders,  begged  for  a  combat  with  Chepe.  Temudjin agreed,  and  gave  him  a  white  muzzled  horse  for  the  trial.
 Boorchu  shot  an  arrow  which  failed  to  reach  Chepe.  Chepe
 more  adroit  than  his  enemy,  sent  a  shaft  which  brought  down  the
-horse  under  him,  and  the  next  instant  he  rushed  away  with  light-
-ning speed.  Reduced  to  want  some  time  later  Chepe  offered  his
+horse  under  him,  and  the  next  instant  he  rushed  away  with  lightning speed.  Reduced  to  want  some  time  later  Chepe  offered  his
 service  to  Temudjin,  the  strong  victor.  Temudjin  knew  the  man's
 worth  and  accepted  his  offer.  The  Khan  made  Chepe  a  chief  of
 ten  men  to  begin  with,  then  of  a  hundred,  later  on  of  a  thousand,
@@ -5368,14 +4120,12 @@ it  extended  from  the  Syr  Darya  or  Yaxartes  to  the  Indus,  and  from
 Kurdistan  to  tlit  great  roof  of  the  world,  those  immense  Pamir
 highlands.  The  sovereign  at  the  opening  of  the  thirteenth  century
 was  Alai  ud  din  Mohammed,  great-great-grandson  of  a  Turk
-slave  named  Nush  Tegin.  The  master  of  this  slave  was  a  f reed-
-man  of  Melik  Shah  the  Seljuk  Sultan,  and  this  freedman  transferred
+slave  named  Nush  Tegin.  The  master  of  this  slave  was  a  f reedman  of  Melik  Shah  the  Seljuk  Sultan,  and  this  freedman  transferred
 Nush  Tegin  to  his  sovereign.  The  slave  became  cupbearer  to
 Melik  Shah,  and  prefect  of  Khwaresm  at  the  same  time  by  virtue
 of  his  office.  In  Mohammedan  history  cases  of  Turkish  slaves
 seizing  sovereignty  are  frequent.  Turkish  captives  in  Persia
-were  highly  esteemed  and  appeared  there  in  multitudes.  Through-
-out the  vast  regions  north  and  east  of  the  Caspian  various  Turk
+were  highly  esteemed  and  appeared  there  in  multitudes.  Throughout the  vast  regions  north  and  east  of  the  Caspian  various  Turk
 tribes  fought  unceasingly;  each  seized  the  children  of  an  enemy
 whenever  the  chance  came,  and  sold  them  in  the  slave  marts.
 These  children,  reared  in  the  faith  of  Mohammed,  were  trained
@@ -5392,10 +4142,6 @@ much  by  Arab  conquest,  recovered  under  Bagdad  rule  in  some
 slight  degree,  till  the  eleventh  century  saw  it  conquered  again  by
 Turk  nomads  from  those  immense  steppes  north  and  east  of  the
 
-93
-
-
-94  The  Mongols
 
 Caspian.  Under  the  descendants  of  Seljuk  these  fierce  sons  of  wild
 herdsmen  pushed  their  way  on  to  the  Propontis  and  to  Palestine;
@@ -5415,13 +4161,11 @@ By  the  death  of  Togrul  and  Sindjar,  both  Persian  Seljuk  lines
 became  extinct.
 
 Tukush  obtained  investiture  at  Bagdad  from  the  Kalif,  and
-Persia  passed  from  one  line  of  Turkish  tyrants  to  another.  Mo-
-hammed, who  succeeded  his  father  Tukush,  in  1200,  seized  the
+Persia  passed  from  one  line  of  Turkish  tyrants  to  another.  Mohammed, who  succeeded  his  father  Tukush,  in  1200,  seized  the
 provinces  of  Balkh  and  Herat  and  made  himself  lord  of  Khorassan.
 Soon  after  this  Mazanderan  and  Kerman  passed  under  his  power
 and  direction.  Mohammed  now  planned  to  shake  off  the  authority
-of  the  Gurkhan  of  Kara  Kitai,  to  whom  he,  and  three  of  his  prede-
-cessors, had  paid  yearly  tribute.  Besides  he  was  urged  to  this
+of  the  Gurkhan  of  Kara  Kitai,  to  whom  he,  and  three  of  his  predecessors, had  paid  yearly  tribute.  Besides  he  was  urged  to  this
 step  by  Osman,  Khan  of  Samarkand  and  Transoxiana,  who,
 being  also  a  vassal  of  the  Gurkhan,  endured  with  vexation  the
 insolence  of  agents  who  took  the  tribute  in  his  provinces.  Osman
@@ -5431,8 +4175,7 @@ this  offer  with  gladness;  he  merely  waited  for  a  pretext,  which
 appeared  very  quickly:  An  official  came  to  receive  the  yearly
 tribute,  and  seated  himself  at  the  Shah's  side,  the  usual  place  in
 such  cases,  though  it  seemed  now  that  he  did  so  somewhat  boldly.
-Mohammed's  pride,  increased  much  by  recent  victory  over  Kip-
-chaka  living  north  of  the  Caspian,  would  endure  this  no  longer,
+Mohammed's  pride,  increased  much  by  recent  victory  over  Kipchaka  living  north  of  the  Caspian,  would  endure  this  no  longer,
 so  in  rage  he  commanded  to  cut  down  the  agent  and  hack  him  to
 pieces.
 
@@ -5480,15 +4223,12 @@ of  him.  He  fell  before  Mohammed  and  begged  for  life  abjectly.
 The  Shah  would  have  spared  him,  but  Osman 's  wife,  the  Shah's
 daughter,  rushed  in  and  demanded  the  death  of  her  husband.  He
 had  preferred  an  earlier  wife,  the  daughter  of  the  Gurkhan,  and
-had  forced  her,  the  Shah's  daughter,  to  serve  at  a  feast  that  de-
-tested and  inferior  woman.  Osman  had  to  die,  and  with  him
+had  forced  her,  the  Shah's  daughter,  to  serve  at  a  feast  that  detested and  inferior  woman.  Osman  had  to  die,  and  with  him
 died  his  whole  family,  including  the  daughter  of  the  Gurkhan.
 
 Mohammed  joined  all  Osman's  lands  to  the  Empire,  and  made
 Samarkand   a   new  capital.     He  further  increased   his   Empire
 
-
-96  The  Mongols
 
 by  a  part  of  the  kingdom  of  Gur,  which  extended  from  Herat  to
 the  sacred  river  of  India,  the  Ganges.
@@ -5503,8 +4243,7 @@ that  reduced  state  when  he  was  killed  in  his  own  palace.  Public
 opinion  in  this  case  held  the  Shah  to  be  a  murderer,  and  beyond
 doubt  with  full  justice.
 
-Ali  Shir,  the  Shah's  brother,  who  had  proclaimed  himself  sover-
-eign so  hurriedly  when  Mohammed  was  returning,  disguised  as
+Ali  Shir,  the  Shah's  brother,  who  had  proclaimed  himself  sovereign so  hurriedly  when  Mohammed  was  returning,  disguised  as
 a  slave,  from  his  war  against  the  Gurkhan,  was  now  at  he  Gur
 capital;  he  declared  himself  Mahmud's  successor  and  begged  the
 Shah  to  confirm  him  as  vassal.  Mohammed  sent  an  officer,  as
@@ -5518,16 +4257,14 @@ Three  years  later,  1216,  Mohammed  won  Ghazni  from  a  Turk
 general  once  a  subject  of  Shihab  ud  din.  This  Turk  h  d  seized
 the  province  at  the  dissolution  of  Gur  dominion.  In  the  archives
 of  Ghazni  the  Shah  came  on  letters  from  the  Kalif  X;i  ir  at  Bagdad
-to  the  Gur  Khans,  in  which  he  gave  warning  against  the  Kwares-
-mian Shahs,  and  incited  to  attack  them,  advising  a  junction  with
+to  the  Gur  Khans,  in  which  he  gave  warning  against  the  Kwaresmian Shahs,  and  incited  to  attack  them,  advising  a  junction  with
 the  Kara  Kitans  for  that  purpose.
 
 These  letters  roused  the  Shah's  wrath  to  the  utmost.  The
 Kalif,  Nassir,  who  ascended  the  throne  in  1180,  had  labored
 without  success,  though  unceasingly,  to  stop  Kwaresmian  growth
 and  aggression.  lie  could  not  employ  his  own  fort  es  to  this  end,
-since  lie  had  none.  The  temporal  power  of  the  Prophet's  succes-
-sors had  shrunk  to  the  narrow  limits  of  Kuzistan  and  Arabian
+since  lie  had  none.  The  temporal  power  of  the  Prophet's  successors had  shrunk  to  the  narrow  limits  of  Kuzistan  and  Arabian
 Irak.  The  other  parts  of  their  once  vast  dominions  had  passed  to
 various  dynasties  whose  sovereigns  were  supposed  to  receive  lands
 in  fief  from  the  Kalif.  If  these  sovereigns  asked  for  investiture
@@ -5546,8 +4283,7 @@ in  their  own  capital  always.
 When  the  Seljuk  Empire,  composed  at  that  time  of  Persian
 Irak  alone,  was  destroyed  by  disorder  under  Togrul  its  last  Sultan,
 the  Kalif,  a  man  of  quick  mind  and  adventurous  instincts,  did  much
-to  bring  on  the  dissolution  of  the  tottering  state,  through  his  in-
-trigues, and  by  calling  in  Tukush,  the  Kwaresmian  monarch.  He
+to  bring  on  the  dissolution  of  the  tottering  state,  through  his  intrigues, and  by  calling  in  Tukush,  the  Kwaresmian  monarch.  He
 had  hoped  to  win  Persian  Irak,  but  when  Tukush  had  won  that
 great  province  he  would  cede  not  a  foot  of  it  to  any  man.  The
 Kalif  saw  himself  forced  to  invest  a  new  line  with  the  sanction  of
@@ -5582,8 +4318,6 @@ the  first  duties,  the  duty  of  protecting  the  boundaries  of
 Islam,    and    waging    sacred  wars  to  bring  unbelievers  to    the
 
 
-98  The  Mongols
-
 true  faith,  or,  if  they  will  not  accept  the  true  faith,  to  pay
 tribute?"
 
@@ -5597,15 +4331,13 @@ Ogulmush,  a  Turk  general  who  had  subdued  Persian  Irak  and
 then  rendered  fealty  to  Mohammed,  was  murdered  at  direction  of
 the  Kalif ,  under  whose  control  a  number  of  Assassins  had  been  placed
 by  their  chieftain  at  Alanuit.  In  Persian  Irak  the  name  of  the
-Shah  was  dropped  from  public  prayers,  after  the  slaying  of  Ogul-
-mush. The  princes  of  Fars  and  Azerbaidjan  hastened  promptly
+Shah  was  dropped  from  public  prayers,  after  the  slaying  of  Ogulmush. The  princes  of  Fars  and  Azerbaidjan  hastened  promptly
 to  seize  upon  Irak,  at  the  instance  of  Nassir.  Sad,  prince  of  Fars,
 was  taken  captive,  but  secured  freedom  by  ceding  two  strongholds,
 and  promising  the  third  of  his  annual  income  as  tribute.  Euzbek
 of  Azerbaidjan  fled  after  defeat,  and  the  Shah  would  not  pursue,
 as  the  capture  of  two  rulers  in  the  space  of  one  year  was  unlucky.
-Euzbek,  on  reaching  home,  sent  envoys  with  presents,  and  pro-
-claimed himself  a  vassal.  Mohammed  annexed  Irak  to  the  Empire,
+Euzbek,  on  reaching  home,  sent  envoys  with  presents,  and  proclaimed himself  a  vassal.  Mohammed  annexed  Irak  to  the  Empire,
 and  moved  his  troops  on  toward  Bagdad.
 
 Nassir  sent  words  of  peace  to  his  enemy,  but  those  words  had
@@ -5620,8 +4352,7 @@ a  second  division  of  the  same  strength.  Though  the  time  was
 early  autumn,  snow  fell  for  twenty  days  in  succession,  the  largest
 tents  were  buried  under  it;  men  and  horses  died  in  great  numbers,
 both  when  they  were  marching  through  those  mountains  and
-when  they  halted.  A  retreat  was  commanded  at  last  when  ad-
-vance was  impossible.  Turks  and  Kurds  then  attacked  the
+when  they  halted.  A  retreat  was  commanded  at  last  when  advance was  impossible.  Turks  and  Kurds  then  attacked  the
 retreating  forces  SO  savagely  that  the  ruin  of  the  army  was  well
 nigh  total.  This  was  attributed  by  Sunnite  belief  to  Divine  anger
 for  thai  impious  attack  on  the  person  of  the  Kalif.
@@ -5671,35 +4402,29 @@ commission  upon  it.  His  skull  was  then  covered  with  paint,  or
 a  mixture  of  some  kind.  The  entire  message  to  Jinghis  was  fixed
 well  in  the  mind  of  the  envoy,  and  he  set  out  on  his  journey.
 
-/iter  four  months  of  hard  traveling  he  reached  Mongol  head-
-quarters, delivered  his  message  in  words,  and  was  admitted  soon
+/iter  four  months  of  hard  traveling  he  reached  Mongol  headquarters, delivered  his  message  in  words,  and  was  admitted  soon
 after  to  the  Khan  of  the  Mongols  in  secret.  The  envoy's  head
 was  shorn  a  second  time  and  the  credentials  traced  with  fire  on  his
 
-
-100  The  Mongols
 
 crown  became  visible.  There  was  branded  in  also  an  invitation
 to  invade  the  Kwaresmian  Empire,  and  destroy  the  reigning
 dynasty.
 
-Jinjrhis  meditated  over  this  invitation.  The  thought  of  con-
-quering  a  new  Empire  did  not  leave  him,  but  as  he  had  spoken
+Jinjrhis  meditated  over  this  invitation.  The  thought  of  conquering  a  new  Empire  did  not  leave  him,  but  as  he  had  spoken
 not  long  before  with  its  ruler  in  friendship,  he  waited  till  a  reason
 to  justify  attack  should  present  itself.
 
 In  1216-17  in  Bukhara,  as  mentioned  already.  Shah  Mohammed
 received  three  envoys  from  Jinghis;  these  men  brought  ingots  of
-silver,  musk,  jade  and  costly  white  robes  of  camels'  hair,  all  crea-
-tions and  products  of  Central  Asia,  sent  as  presents  to  the  Kwares-
+silver,  musk,  jade  and  costly  white  robes  of  camels'  hair,  all  creations and  products  of  Central  Asia,  sent  as  presents  to  the  Kwares-
 mian sovereign.  "  The  great  Khan  has  charged  us,"  said  the
 envoys,  "  to  give  this  message:  '  I  salute  thee  !  I  know  thy  power
 and  the  great  extent  of  thy  Empire.  Thy  reign  is  over  a  large
 part  of  the  earth's  surface.  I  have  the  greatest  wish  to  live  in
 peace  with  thee;  I  look  on  thee  as  my  most  cherished  son.  Thou
 art  aware  that  I  have  subdued  China,  and  brought  all  Turk  nations
-north  of  it  to  obedience.  Thou  knowest  that  my  country  is  swarm-
-ing with  warriors ;  that  it  is  a  mine  of  wealth,  and  that  I  have  no
+north  of  it  to  obedience.  Thou  knowest  that  my  country  is  swarming with  warriors ;  that  it  is  a  mine  of  wealth,  and  that  I  have  no
 need  to  covet  lands  of  other  sovereigns.  I  and  thou  have  an
 equal  interest  in  favoring  commerce  between  our  subjects.'
 
@@ -5710,8 +4435,7 @@ among  rulers  in  Asia  to  denote  corresponding  degrees  of  submission.
 The  Shah  summoned  one  of  the  envoys  in  the  night-time.
 "  Has  Jinghis  Khan  really  conquered  China  ?  "  asked  he.  '  There
 is  no  doubt  of  that,"  said  the  envoy.  "  Who  is  this  who  calls  me
-his  son  ?  How  many  troops  has  he  ?  "  The  envoy,  seeing  Mo-
-hammed's excitement,  replied  that  Mongol  forces  were  not  to  be
+his  son  ?  How  many  troops  has  he  ?  "  The  envoy,  seeing  Mohammed's excitement,  replied  that  Mongol  forces  were  not  to  be
 compared  with  his  in  any  case.  The  Shah  w;is  calmed,  and  when
 the  time  came  he  dismissed  the  envoys  with  apparent  good  feeling
 and  friendliness.  When  they  reached  the  boundary  of  the  Shah's
@@ -5728,8 +4452,7 @@ and  of  very  great  value.     Soon  after  the  Khan's  envoys  had  made
 Destruction  of  the  Kwaresmian  Empire       101
 
 their  visit,  a  party  of  between  four  and  five  hundred  merchants
-from  Mongolian  places  arrived  at  Otrar  on  the  Syr  Darya.  Inald-
-juk,  the  governor  of  the  city,  tempted  by  the  rich  stuffs  and  wares
+from  Mongolian  places  arrived  at  Otrar  on  the  Syr  Darya.  Inaldjuk,  the  governor  of  the  city,  tempted  by  the  rich  stuffs  and  wares
 which  those  strangers  had  brought  with  them,  imprisoned  the
 whole  party,  and  declared  to  the  Shah  that  the  men  were  spies
 of  the  Mongol  sovereign.  The  Shah  gave  command  to  slay  them
@@ -5739,8 +4462,7 @@ with  indignation  as  he  heard  it,  and  went  straightway  to  a  mountain
 top  where  he  bared  his  head,  put  his  girdle  about  his  neck,  and  fell
 prostrate.  He  lay  there  imploring  Heaven  for  vengeance,  and
 spent  three  days  and  nights,  it  is  stated,  imploring  and  prostrate.
-He  rose  and  went  down  then  to  hurl  Mongol  strength  at  the  Kwares-
-mian Empire.
+He  rose  and  went  down  then  to  hurl  Mongol  strength  at  the  Kwaresmian Empire.
 
 The  request  of  fhe  Kalif  of  Islam  ran  parallel  now  with  the  wish
 of  the  Mongols.  But  before  striking  the  Empire,  Jinghis  had
@@ -5772,10 +4494,7 @@ The  influence  of  this  relentless,  strong-willed  woman,  and  the
 valor  of  Turkish  warriors  raised  those  chiefs  to  the  highest  rank
 
 
-102  The  Mongols
-
-among  military  leaders;  their  power  was  enormous,  since  com-
-manders of  troops  governed  with  very  wide  latitude.  Amid
+among  military  leaders;  their  power  was  enormous,  since  commanders of  troops  governed  with  very  wide  latitude.  Amid
 this  aristocracy  of  fighters  the  power  of  the  sovereign  was  uncertain ;
 he  was  forced  to  satisfy  the  ambition  of  men  who  saw  in  all  things
 their  own  profit  only.  The  troops  controlled  by  those  governors
@@ -5787,8 +4506,7 @@ equalled  her  son  in  authority,  but  often  surpassed  him.  When
 two  orders  of  different  origin  appeared  in  any  part  of  the  Empire,
 the  date  decided  which  had  authority;  that  order  was  always
 carried  out  on  which  the  date  was  most  recent,  and  the  order  of
-recent  date  was  the  order  of  that  watchful  woman,  "When  Mo-
-hammed won  a  new  province  he  always  assigned  a  large  part  to
+recent  date  was  the  order  of  that  watchful  woman,  "When  Mohammed won  a  new  province  he  always  assigned  a  large  part  to
 the  appanage  of  his  mother.  She  employed  seven  secretaries  at
 all  times,  men  distinguished  for  ability.  The  inscription  on  her
 decrees  was  "  Protectress  of  the  world  and  the  faith,  Turkan,
@@ -5805,8 +4523,7 @@ the  judge  not  to  neglect  this  prime  dignitary,  so  he  sent  Nassir  ud
 din  a  scaled  purse  containing  four  thousand  gold  pieces.  The
 Shah,  who  was  watching  both  judge  and  vizir,  caused  the  latter
 to  send  the  purse  to  him.  It  was  sent  straightway,  and  the  seal
-was  intact  on  it.  The  judge  was  summoned,  and  when  he  ap-
-peared  the  Shah  asked  before  witnesses  what  gift  he  had  made
+was  intact  on  it.  The  judge  was  summoned,  and  when  he  appeared  the  Shah  asked  before  witnesses  what  gift  he  had  made
 the  vizir;  he  denied  having  made  any,  persisted  in  denial,  and
 swore  by  the  head  of  his  sovereign  that  he  had  not  given  one  coin
 to  the  minister.  The  Shah  had  the  purse  brought;  the  judge
@@ -5821,8 +4538,7 @@ Destruction  of  the  Kwaresmian  Empire       103
 
 approach  Turkan  Khatun  ordered  people  of  all  ranks  and  classes
 to  go  forth  and  meet  him.  The  vizir  grew  more  insolent  now
-than  he  had  been.  The  Shah  sent  an  officer  to  bring  the  recalci-
-trant minister's  head  to  him.  When  the  officer  came  to  her  capital,
+than  he  had  been.  The  Shah  sent  an  officer  to  bring  the  recalcitrant minister's  head  to  him.  When  the  officer  came  to  her  capital,
 Turkan  Khatun  sent  him  to  the  vizir,  who  was  then  in  the  divan
 and  presiding.  She  had  given  the  officer  this  order :  "  Salute  the
 vizir  in  the  Shah's  name,  and  say  to  him :  '  I  have  no  vizir  except
@@ -5847,8 +4563,7 @@ learned  upon  reaching  that  city,  that  those  Merkits,  being  allies
 of  Gutchluk,  were  hunted  by  Jinghis,  and  that  Gutchluk  himself
 had  been  slain  by  the  Mongols.
 
-He  returned  swiftly  to  Samarkand  for  additional  forces,  and  fol-
-lowing the  tracks  of  both  armies,  found  a  field  strewn  with  corpses,
+He  returned  swiftly  to  Samarkand  for  additional  forces,  and  following the  tracks  of  both  armies,  found  a  field  strewn  with  corpses,
 among  which  he  saw  a  Merkit  badly  wounded;  from  this  man
 the  Shah  learned  that  the  Jinghis  had  gained  a  great  victory,
 and  gone  forward.
@@ -5863,8 +4578,6 @@ not  to  meet  me  in  battle,  God  commands  me  to  fall  on  thy  forces.
 I  wish  to  inflict  sure  destruction  on  infidels  and  thus  earn  Divine
 favor."
 
-
-104  The  Mongols
 
 The  Mongols,  forced  to  give  battle,  came  very  near  victory.
 They  had  put  Mohammed's  left  wing  to  flight,  pierced  the  center
@@ -5881,11 +4594,9 @@ After  this  encounter  the  Shah  knew  Mongol  strength  very
 clearly.  He  told  intimates  that  he  had  never  seen  men  fight  as
 they  had.
 
-Jinghis,  having  ended  Gutchluk  and  his  kingdom  (1218),  sum-
-moned his  own  family  and  officers  to  a  council  wThere  *hey  dis-
+Jinghis,  having  ended  Gutchluk  and  his  kingdom  (1218),  summoned his  own  family  and  officers  to  a  council  wThere  *hey  dis-
 cussed war  with  Mohammed,  and  settled  everything  touching
-this  enterprise  and  its  management.  That  same  autumn  the  Mon-
-gol conqueror  began  his  march  westward,  leaving  the  care  of  home
+this  enterprise  and  its  management.  That  same  autumn  the  Mongol conqueror  began  his  march  westward,  leaving  the  care  of  home
 regions  to  his  youngest  brother.  He  spent  all  the  following  summer
 near  the  Upper  Irtish,  arranging  his  immense  herds  of  horses
 and  cattle.  The  march  wras  resumed  in  the  autumn,  when  he  was
@@ -5902,8 +4613,7 @@ desperate  fighting,  which  made  the  Mongols  not  merely  a  terror,
 but,  at  that  time,  invincible.  The  Kwaresmian  armies  were
 defending  a  population  to  which  they  were  indifferent,  and  which
 they  were  protecting,  hence  victory  gave  scant  rewrards  in  the
-best  case,  while  the  Mongols,  in  attacking  rich,  flourishing  coun-
-tries, wen-  excited  by  all  that  can  rouse  human  greed,  or  tempt
+best  case,  while  the  Mongols,  in  attacking  rich,  flourishing  countries, wen-  excited  by  all  that  can  rouse  human  greed,  or  tempt
 wild  cupidity.  The  disparity  in  leaders  was  still  more  apparent.
 On  the  Mongol  side  was  B  chief  of  incomparable  genius  in  all  that
 he  was  doing;  on  the  other  side  a  vacillating  sovereign  with
@@ -5913,12 +4623,10 @@ and  a>-avMnating  rulers  ail  his  reign,  and  now  he  feared  to  meet
 
 Destruction  of  the  Kwaresmian  Empire       105
 
-a  man  whom  he  had  provoked  by  his  outrages.  Instead  of  con-
-centrating forces  and  meeting  the  enemy,  he  scattered  his  men
+a  man  whom  he  had  provoked  by  his  outrages.  Instead  of  concentrating forces  and  meeting  the  enemy,  he  scattered  his  men
 among  all  the  cities  of  Transoxiana,  and  then  withdrew  and  kept
 far  from  the  fields  of  real  struggle.  Some  ascribed  this  to  the
-advice  of  his  generals,  others  to  his  faith  in  astrologers,  who  de-
-clared that  the  stars  were  unfavorable,  and  that  no  battle  should
+advice  of  his  generals,  others  to  his  faith  in  astrologers,  who  declared that  the  stars  were  unfavorable,  and  that  no  battle  should
 be  risked  till  they  changed  their  positions.  It  is  also  reported  that
 Jinghis  duped  the  Shah,  and  made  him  suspect  his  own  leaders.
 The  following  is  one  of  the  stories :
@@ -5958,8 +4666,6 @@ the  second,  commanded  by  his  eldest  son,  Juchi,  was  to  act  against
 the  other  cities,  from  Jend  to  Lake  Aral;   the  third  division  he
 
 
-106  The  Mongols
-
 <lirected  against  Benakit  on  the  river,  south  of  Jend.  While
 the  three  divisions  were  taking  these  cities  on  the  Syr  Darya,
 Jinghis  himself  moved  toward  Bokhara  to  bar  Shah  Mohammed
@@ -5968,16 +4674,14 @@ garrison  between  the  two  rivers.
 
 Otrar  was  invested  late  in  November,  1218.  The  walls  had  been
 strengthened,  and  the  city,  with  its  fortress,  provisioned  very
-carefully.  The  strong  garrison  had  been  increased  by  ten  thou-
-sand horsemen.  After  a  siege  of  five  months  the  troops  and  the
+carefully.  The  strong  garrison  had  been  increased  by  ten  thousand horsemen.  After  a  siege  of  five  months  the  troops  and  the
 citizens  were  discouraged,  and  the  commander  thought  it  best  to
 surrender,  but  Inaldjuk,  the  governor,  could  not  hope  for  his  life,
 since  he  was  the  man  who  had  slain  the  Mongol  merchants;
 hence,  he  would  not  hear  of  surrender.  He  would  fight,  as  he
 said,  to  the  death,  for  his  sovereign.  The  chief  of  the  horsemen
 felt  differently,  and  led  out  his  best  troops  in  the  night  to  esca;  ,
-but  was  captured.  He  and  they  offered  then  to  serve  the  be-
-siegers. The  Mongols  inquired  about  conditions  in  the  city,  and,
+but  was  captured.  He  and  they  offered  then  to  serve  the  besiegers. The  Mongols  inquired  about  conditions  in  the  city,  and,
 when  the  chief  had  told  what  he  knew,  they  informed  him  that  he
 and  his  men,  being  unfaithful  to  their  master,  could  not  be  true
 to  another.     They  thereupon  slew  him,  and  all  who  were  with  him.
@@ -6007,17 +4711,14 @@ cease  fighting  till  the  city  was  captured.     Fresh  troops  relieved
 
 Destruction  of  the  Kwaresmian  Empire      107
 
-those  who  were  wearied.  After  seven  days  of  storming  the  Mon-
-gols burst  in  and  slew  every  soul  in  that  city.
+those  who  were  wearied.  After  seven  days  of  storming  the  Mongols burst  in  and  slew  every  soul  in  that  city.
 
 Juchi  made  a  son  of  Hassan  Hadji  commandant  of  the  ruins;
 then  he  moved  up  the  river  and  sacked  every  place  that  he  visited.
 
-As  the  Mongols  drew  near  to  Jend,  Katluk  Khan,  the  comman-
-dant, fled  in  the  night  time,  crossed  the  Syr  Darya  and  took  the
+As  the  Mongols  drew  near  to  Jend,  Katluk  Khan,  the  commandant, fled  in  the  night  time,  crossed  the  Syr  Darya  and  took  the
 desert  road  for  Urgendj  beyond  the  southern  shore  of  the  Oxus.
-Juchi  demanded  surrender  through  Chin  Timur  his  envoy.  De-
-serted by  their  chief,  the  people  were  in  doubt  what  to  do,  and  when
+Juchi  demanded  surrender  through  Chin  Timur  his  envoy.  Deserted by  their  chief,  the  people  were  in  doubt  what  to  do,  and  when
 Chin  Timur  came  they  wished  to  kill  him,  but  he  told  them  of
 Signak,  and  promised  to  turn  aside  Mongol  vengeance  in  case
 they  were  prudent.  The  people  then  freed  him,  but  very  soon
@@ -6035,13 +4736,11 @@ bank  with  thoroughness.
 
 The  third  division  of  the  army  moved  from  Otrar  to  the  left
 up  the  river,  and  attacked  Benakit  which  was  garrisoned  by
-Kankalis.  At  the  end  of  three  days  the  officers  wished  to  capitu-
-late. Their  lives  were  promised  them,  and  they  surrendered.
+Kankalis.  At  the  end  of  three  days  the  officers  wished  to  capitulate. Their  lives  were  promised  them,  and  they  surrendered.
 The  inhabitants  were  driven  from  the  city.  The  Turks  were
 taken  out  to  one  side,  and  cut  down  to  the  last  man,  with  swords
 and  other  weapons.  Being  warriors  whom  the  Mongols  could  not
-trust,  they  were  slaughtered.  The  artisans  were  spared  and  di-
-vi  'ed  among  the  Mongol  army.  Unskilled,  young,  and  strong
+trust,  they  were  slaughtered.  The  artisans  were  spared  and  divi  'ed  among  the  Mongol  army.  Unskilled,  young,  and  strong
 men  were  taken  to  assist  in  besieging;  all  other  people  were
 slain  immediately.
 
@@ -6053,10 +4752,7 @@ to  be  safe  from  stones  and  arrows.  The  besiegers  were  reinforced
 by  twenty  thousand  Mongols  for  conflict,  and  fifty  thousand  natives
 
 
-108  The  Mongols
-
-of  the  country  to  cany  on  siege  work.  These  natives  were  em-
-ployed first  of  all  at  bearing  stones  from  a  mountain  three  leagues
+of  the  country  to  cany  on  siege  work.  These  natives  were  employed first  of  all  at  bearing  stones  from  a  mountain  three  leagues
 distant,  and  building  a  road  from  the  shore  to  the  fortress  in  the
 river.  Timur  Melik  meanwhile  built  twelve  covered  barges,
 protected  from  fire  with  glazed  earth,  which  was  first  soaked  in
@@ -6103,8 +4799,7 @@ After  some  days  the  defenders  lost  hope  of  success  and  resolved
 Destruction  of  the  Kwaresmian  Empire      109
 
 to  burst  through  in  the  night  time,  trusting  in  that  way  to  save
-themselves.  They  fell  on  the  Mongols  unexpectedly,  and  scat-
-tered them,  but  instead  of  pursuing  this  advantage  and  fighting,
+themselves.  They  fell  on  the  Mongols  unexpectedly,  and  scattered them,  but  instead  of  pursuing  this  advantage  and  fighting,
 those  escaping  defenders  hastened  forward.  The  Mongol  troops
 rallied,  and  hunted  the  fugitives  to  the  river,  where  they  cut  down
 nearly  all  of  them.
@@ -6125,8 +4820,7 @@ provisions;  jesters  and  singers  of  the  city  were  summoned,  and
 while  wild  warriors  were  revelling  in  excesses  of  all  sorts,  and
 shouting  songs  of  their  own  land  and  people,  the  highest  chiefs
 of  religion  and  doctors  of  law  served  them  as  slaves,  held  their
-horses  and  fed  them.  While  thus  employed  one  great  man  whis-
-pered to  his  neighbor :  "  Why  not  implore  the  Almighty  to  save
+horses  and  fed  them.  While  thus  employed  one  great  man  whispered to  his  neighbor :  "  Why  not  implore  the  Almighty  to  save
 us  ?  ':  'Be  silent,"  said  the  other,  "  God's  wrath  is  moving  near
 us ;  this  is  no  time  for  beseeching.  I  fear  to  pray  to  the  Almighty
 lest  it  become  worse  with  us  thereby.  If  life  is  dear  to  thee  hold
@@ -6135,8 +4829,7 @@ their  beasts  now  for  the  Mongols,  and  serve  them."
 From  the  mosque  Jinghis  went  to  the  place  of  public  prayer
 beyond  the  city,  and  summoned  all  people  to  meet  there.  He
 stood  in  the  pulpit  and  inquired :  "  Who  are  the  richest  men  in
-this  multitude  ? '  Two  hundred  and  eighty  persons  were  pre-
-sented; ninety  of  these  had  come  from  other  cities.  The  Khan
+this  multitude  ? '  Two  hundred  and  eighty  persons  were  presented; ninety  of  these  had  come  from  other  cities.  The  Khan
 commanded  all  those  wealthy  persons  to  draw  near,  and  then  he
 spoke  to  them.  He  described  the  Shah's  cruelties  and  injustice,
 which  had  brought  on  the  ruin  of  their  city:  "  Know,"  continued
@@ -6145,8 +4838,6 @@ of  this  country  are  the  worst  of  its  criminals.  Should  ye  ask  why
 I  speak  thus,  I  answer;  I  am  Heaven's  scourge,  sent  to  punish.
 Had  ye  not  been  desperate  offenders  I  should  not  be  standing  here
 
-
-110  The  Mongols
 
 now  against  you."  Then  he  said  that  he  required  no  one  to
 deliver  wealth  which  was  above  ground,  his  men  could  discover
@@ -6184,8 +4875,7 @@ once  without  pity.
 
 Samarkand  was  one  of  the  great  commercial  cities  of  the  world.
 It  had  a  garrison  which  numbered  forty  thousand.  Both  the
-city  and  the  citadel  had  been  fortified  with  care,  and  all  men  con-
-sidered that  a  siege  of  that  place  would  continue  for  months,  nay,
+city  and  the  citadel  had  been  fortified  with  care,  and  all  men  considered that  a  siege  of  that  place  would  continue  for  months,  nay,
 for  years  perhaps.
 
 The  thr<  ■<•  other  army  corps  appeared  now,  for  every  place  on
@@ -6202,8 +4892,7 @@ the  doomed  city,  paraded  his  legions  before  it;  cavalry,  infantry,
 and  at  last  those  unfortunate  captives  who  had  the  seeming  of
 regular  warriors.
 
-Two  days  were  spent  in  examining  the  city  defenses  and  out-
-works ;  on  the  third  morning  early  the  Mongol  conqueror  sounded
+Two  days  were  spent  in  examining  the  city  defenses  and  outworks ;  on  the  third  morning  early  the  Mongol  conqueror  sounded
 the  onset.  A  host  of  brave  citizens  made  a  great  sally,  and  at  first
 swept  all  before  them  but  not  being  sustained  by  their  own  troops,
 who  feared  the  besiegers,  they  met  a  dreadful  disaster.  The
@@ -6220,8 +4909,7 @@ this  great  multitude,  the  real  strength  of  the  city,  issued  forth  tha
 same  day  with  their  leaders,  their  families,  and  their  baggage,  in
 one  word,  with  all  that  belonged  to  them.  On  the  fourth  day,
 just  as  the  storm  was  to  be  sounded,  the  chief  men  of  the  city
-went  to  the  Mongol  camp,  where  they  received  satisfactory  an-
-swers concerning  themselves  with  their  families  and  dependents;
+went  to  the  Mongol  camp,  where  they  received  satisfactory  answers concerning  themselves  with  their  families  and  dependents;
 hence  they  opened  the  gates  of  Samarkand  to  the  conqueror;
 but  they  were  driven  from  the  city  save  fifty  thousand  who  had
 put  themselves  under  the  protection  of  the  cadi  and  the  mufti.
@@ -6239,8 +4927,6 @@ mosque  was  fired  then,  and  all  were  burned  to  death  in  it.  The
 Kankalis  who  had  yielded  on  the  third  day,  that  is  the  first  day
 of  fighting,  were  conducted  to  a  place  beyond  the  city  and  kept
 
-
-112  The  Mongols
 
 apart  from  others.  Their  horses,  arms,  and  outfits  were  taken
 from  them,  and  their  hair  was  shaved  in  front,  Mongol  fashion,  as
@@ -6262,8 +4948,7 @@ unoccupied  for  a  long  time.
 Jinghis  Khan  so  disposed  his  forces  from  the  first,  that  Shah
 Mohammed  could  not  relieve  any  city  between  the  two  rivers;
 now  all  those  cities  were  taken,  and  the  forces  defending  them
-were  slaughtered.  The  next  great  work  was  to  seize  Shah  Mo-
-hammed himself,  and  then  slay  him,  and  with  him  his  family.
+were  slaughtered.  The  next  great  work  was  to  seize  Shah  Mohammed himself,  and  then  slay  him,  and  with  him  his  family.
 
 Thirty  thousand  chosen  men  were  employed  now  in  chasing  the
 Kwareamian  ruler.  Never  had  a  sovereign  been  hunted  like  this
@@ -6280,17 +4965,14 @@ CHAPTER  VII
 FLIGHT    AND    DEATH    OF    MOHAMMED
 
 WHILE  the  Mongols  were  ruining  Northern  Transoxiana
-Mohammed  held  aloof  from  every  action,  and  was  dis-
-couraged so  deeply  that  his  weakness  affected  all  people  of  the
+Mohammed  held  aloof  from  every  action,  and  was  discouraged so  deeply  that  his  weakness  affected  all  people  of  the
 Empire.  While  fortifying  Samarkand  he  passed  by  the  moat
 one  day,  and  madi-  this  remark:  "The  Mongols  are  so  many
 that  they  could  fill  this  moat  with  their  horsewhips."  When
-Jinghis  had  captured  the  northern  line  beyond  the  Oxus,  Mo-
-hammed moved  southward  by  way  of  Naksheb,  telling  all  people
+Jinghis  had  captured  the  northern  line  beyond  the  Oxus,  Mohammed moved  southward  by  way  of  Naksheb,  telling  all  people
 to  care  for  themselves,  since  his  troops  could  not  protect  them.
 The  diversity  of  opinions  among  his  commanders  and  ministers
-increased  his  hesitation.  The  best  warriors  declared  that  Trans-
-oxiana was  lost,  but  that  Khorassan  and  Irak  must  be  guarded;
+increased  his  hesitation.  The  best  warriors  declared  that  Transoxiana was  lost,  but  that  Khorassan  and  Irak  must  be  guarded;
 that  troops  must  be  concentrated,  a  general  levy  enforced,  and  the
 Amu  Darva  be  defended  at  all  costs.  Others  advised  to  fall
 back  upon  Ghazni,  and  there  meet  the  Mongols;  if  beaten  the
@@ -6310,10 +4992,6 @@ Mohammed,  in  fact  the  only  brave  man  in  the  family,  was  opposed
 to  both  projects;  he  would  not  talk  of  retreat,  he  would  stop
 the  invasion  at  the  Oxus.     ;'  If  thou  retire  to  Irak,"  said  he,  "  give
 
-113
-
-
-114  The  Mongols
 
 me  thy  forces.  I  will  drive  back  the  Mongols,  and  liberate  the
 Empire."  Every  discussion,  however,  was  fruitless;  the  Shah
@@ -6329,8 +5007,7 @@ journey  no  longer,  the  Shah  started  off  in  hot  haste  through
 Khorassan.  Most  of  the  troops  who  went  with  him  were  Turks
 whose  chiefs  were  his  mother's  adherents  and  kinsmen;  these
 formed  a  plot  very  quickly  to  kill  him.  Forewarned  of  their
-treachery,  Mohammed  left  his  tent  during  night  hours;  next  morn-
-ing it  was  seen  to  be  riddled  with  arrows.  His  fears  increased
+treachery,  Mohammed  left  his  tent  during  night  hours;  next  morning it  was  seen  to  be  riddled  with  arrows.  His  fears  increased
 greatly,  and  he  hastened  on  till  he  reached  Nishap,  where  he
 halted,  thinking  that  the  Mongols  would  not  cross  the  river  Oxus
 in  any  case.
@@ -6346,8 +5023,7 @@ to  ruin  utterly  those  which  resisted.
 
 The  pursuing  Mongols  swept  through  Khorassan  untiringly.
 This  splendid  province  had  four  famous  cities:  Balkh,  Herat,
-Merv  and  Nishapur.  Besides  these  there  were  others  of  con-
-siderable, though  minor,  importance.  When  the  Mongols  were
+Merv  and  Nishapur.  Besides  these  there  were  others  of  considerable, though  minor,  importance.  When  the  Mongols  were
 near  Balkh  that  city  sent  forth  a  deputation  with  presents  and
 submission.  A  Mongol  governor  was  placed  in  it.  Zaveh  closed
 its  gates  and  refused  all  supplies;  unwilling  to  lose  lime  there  at
@@ -6392,8 +5068,7 @@ rushed  up  to  the  city,  received  what  they  asked  for  and  rode  away
 swiftly.  At  last  Chepe  came  and  commanded  the  vizir,  the
 mufti  and  cadi  to  appear  at  headquarters.  Three  supposititious
 men  were  sent  out  to  meet  him  with  gifts  and  provisions.  The
-general  gave  these  men  the  Khan's  proclamation  in  Uigur  char-
-acters, and  this  was  its  import :  "  O  commandants,  officials  and
+general  gave  these  men  the  Khan's  proclamation  in  Uigur  characters, and  this  was  its  import :  "  O  commandants,  officials  and
 people !  Know  ye  that  Heaven  has  given  me  the  Empire  of  the
 earth,  both  the  east  and  the  west  of  it.  Those  who  submit  will
 be  spared ;  woe  to  those  who  resist,  they  will  be  slaughtered  with
@@ -6405,8 +5080,6 @@ try  to  escape  utter  ruin  will  seize  you."
 The  three  bodies  of  Mongols,  ten  thousand  each  which  were
 speeding  on  now  in  pursuit  of  Mohammed  were  rushing  toward
 
-
-116  The  Mongols
 
 Irak.  Subotai  passed  through  Damegan  and  Simnan,  and
 crossed  the  Kumus  River.  Chepe  Noyon,  who  had  gone  by
@@ -6435,8 +5108,7 @@ had  he  ridden  away  when  the  Mongols,  who  knew  now  whose
 horse  they  had  wounded,  rushed  in,  thinking  to  seize  tl  e  hunted
 man  surely.  They  attacked  the  fort  furiously  at  first,  but  learning
 soon  that  the  Shah  had  escaped  they  hurried  after  him.  On  the
-way  they  met  men  who  professed  to  be  guides  dismissed  by  Mo-
-hammed ;  from  these  men  they  heard  that  he  was  fleeing  to  Bagdad.
+way  they  met  men  who  professed  to  be  guides  dismissed  by  Mohammed ;  from  these  men  they  heard  that  he  was  fleeing  to  Bagdad.
 They  took  the  guides  then  and  rushed  forward,  but  the  Shah  was
 on  a  new  road  at  that  time.  The  Mongols  soon  saw  that  they  had
 lost  his  trail,  and  were  tricked,  so  they  cut  down  the  guides  and
@@ -6467,14 +5139,11 @@ appeared  on  a  sudden.  They  were  guided  by  Rokn  ud  din,  a
 small  prince  of  that  region.  This  man's  uncle  and  cousin  had  been
 killed  by  Shah  Mohammed,  who  seized  their  lands  in  the  days  of
 his  insolence  and  his  greedy  ambition.  Rokn  ud  din's  hatred  had
-sent  him  as  a  guide  to  the  Mongols,  and  thus  he  recovered  his  fam-
-ily inheritance.  The  Shah  had  barely  time  to  spring  into  a  boat
-and  push  out  from  shore  when  his  enemies  were  upon  him.  En-
-raged at  the  loss  of  their  victim,  many  horsemen  sprang  after  the
+sent  him  as  a  guide  to  the  Mongols,  and  thus  he  recovered  his  family inheritance.  The  Shah  had  barely  time  to  spring  into  a  boat
+and  push  out  from  shore  when  his  enemies  were  upon  him.  Enraged at  the  loss  of  their  victim,  many  horsemen  sprang  after  the
 boat,  but  they  failed  to  reach  it  and  were  drowned  in  the  Caspian.
 
-Mohammed,  who  was  suffering  gravely  from  pleurisy  and  weak-
-ness, declared  as  he  sailed  from  the  shore,  that  after  reigning  over
+Mohammed,  who  was  suffering  gravely  from  pleurisy  and  weakness, declared  as  he  sailed  from  the  shore,  that  after  reigning  over
 many  kingdoms  and  lands  he  lacked  even  a  few  ells  of  earth  for
 a  resting  place.  The  fallen  man  reached  a  small  island  and  was
 childishly  joyous  at  finding  a  safe  place  of  refuge.  His  house  was
@@ -6488,8 +5157,7 @@ honored  all  gages  of  this  kind.
 
 The  Shah's  illness  increased,  and  he  lost  hope  of  recovery.  His
 son?  came  and  then  he  withdrew  from  Oslag  the  inheritance.
-'  Save  Jelal  ud  din  there  is  none  of  you  who  can  recover  the  Em-
-pire," declared  Mohammed.  The  failing  monarch  took  his  own
+'  Save  Jelal  ud  din  there  is  none  of  you  who  can  recover  the  Empire," declared  Mohammed.  The  failing  monarch  took  his  own
 sabre  which  he  girded  on  Jelal  ud  din,  and  commanded  the  younger
 brothers  to  show  him  obedience.  Mohammed  breathed  his  last
 some  days  later,  January  10,  1221,  and  was  buried  on  that  island.
@@ -6498,15 +5166,12 @@ shirt.  Hi?  funeral  was  small  and  the  ceremony  scant  at  his  burial.
 Such  was  the  end  which  Jinghis  gave  a  great  sovereign  who,  till
 
 
-118  The  Mongols
-
 lii>  attack  on  the  Kalif  of  Islam,  ruled  over  a  vast  country  and  found
 success  everywhere  save  in  the  struggles  with  his  mother.
 
 Before  crossing  the  Oxus,  Mohammed  directed  Turkan  Khatun,
 who  governed  Urgendj,  the  modern  Khiva,  to  retire  to  Mazanderan
-and  live  there  in  the  mountains,  taking  with  her  his  harem.  Jin-
-ghis,  informed  clearly  of  tlie  quarrels  between  the  Shah  and  his
+and  live  there  in  the  mountains,  taking  with  her  his  harem.  Jinghis,  informed  clearly  of  tlie  quarrels  between  the  Shah  and  his
 mother,  sent  Danishmend,  his  chancellor,  to  that  relentless,  harsh
 woman,  and  this  was  his  message:  'Thy  son  is  ungrateful,  I
 know  that.  If  thou  agree  with  me  I  will  not  touch  Kwaresm,
@@ -6549,8 +5214,7 @@ found   in   the  harem  were  put  to  death   promptly.     Two  of  his
 
 Flight  and  Death  of  Mohammed  119
 
-daughters  were  given  to  Jagatai,  who  made  one  of  them  his  concu-
-bine, and  gave  the  other  as  a  present  to  his  manager;  a  third  was
+daughters  were  given  to  Jagatai,  who  made  one  of  them  his  concubine, and  gave  the  other  as  a  present  to  his  manager;  a  third  was
 given  as  wife  to  the  chancellor,  Danishmend.  The  widow  of
 Osman,  Khan  of  Samarkand,  she  who  had  insisted  on  the
 execution  of  her  husband,  and  was  the  daughter  of  the  Gurkhan,
@@ -6569,8 +5233,7 @@ with  a  number  of  others.
 Mohammed's  three  elder  sons  made  their  way  to  Mangishlak
 by  the  Caspian  and  thence  to  Urgendj,  the  Kwaresmian  capital.
 Since  the  flight  of  their  grandmother  the  capital  had  been  without
-rule ;  in  her  haste  she  had  left  no  governor  there.  Seventy  thou-
-sand men  gathered  round  the  three  princes  immediately.  The
+rule ;  in  her  haste  she  had  left  no  governor  there.  Seventy  thousand men  gathered  round  the  three  princes  immediately.  The
 commanders,  being  Kankali  Turks,  were  dissatisfied  that  Jelal
 ud  din  had  succeeded  his  father;  they  feared  his  strong  will  and
 plotted  to  kill  him.  The  new  Shah  saw  very  clearly  that  his  one
@@ -6591,8 +5254,6 @@ on  the  southern  rim  of  the  desert ;  a  part  of  this  cordon  was  alrea
 near  Nessa  when  Jelal  ud  din  and  his  party  arrived  there.  He
 attacked  this  line  of  men  valiantly,  forced  it  to  flight  and  pushed
 
-
-120  The  Mongols
 
 on  without  stopping.  This  was  the  first  victory  won  over  Mongols
 in  the  Kwaresmian  Empire.  The  two  younger  brothers,  hearing
@@ -6630,8 +5291,7 @@ them  fearing  such  an  exile,  joined  with  the  people  and  waited.
 Except  artisans  no  one  was  spared  unless  youthful  women,  and
 also  children;    all  were  cut  down  by  Ogotai,  without  mercy.
 
-After  this  slaughter  the  Mongols  plundered  Urgendj  of  every-
-thing which  had  value.  Then  they  opened  the  sluices  of  the  Oxus
+After  this  slaughter  the  Mongols  plundered  Urgendj  of  everything which  had  value.  Then  they  opened  the  sluices  of  the  Oxus
 and  flooded  the  city;  those  who  were  hidden  there  perished.  In
 other  places  sonic  persons  saved  themselves  always,  bill  here,
 those  who  escaped  Mongol  fury  and  hid  themselves  were  drowned
@@ -6649,8 +5309,7 @@ action.  All  the  inhabitants  were  driven  beyond  the  suburbs  and
 massacred;  a  certain  old  woman  stopped  the  sword  above  her
 head  and  promised  a  rare  pearl  if  they  spared  her.  When  they
 asked  for  the  treasure,  she  answered,  "  I  have  swallowed  it."
-They  ripped  her  body  open  and  found  the  costly  pearl  in  her  stom-
-ach. Thinking  that  others  might  have  swallowed  jewels  in  like
+They  ripped  her  body  open  and  found  the  costly  pearl  in  her  stomach. Thinking  that  others  might  have  swallowed  jewels  in  like
 fashion,  Jinghis  commanded    to  rip  bodies  open  thenceforward.
 
 The  Mongol  Khan  passed  the  next  winter  between  Balkh  and
@@ -6658,8 +5317,7 @@ the  Badakshan  boundary,  subduing,  ravaging,  destroying  all  cities
 of  note,  and  every  place  of  distinction  or  value.  Before  the  winter
 had  ended  that  whole  region  north  of  the  Oxus  was  ruined,  and  was
 a  horror  to  look  upon.  In  spring  he  crossed  the  river  at  a  ford  and
-was  met  by  a  Balkh  deputation  with  gifts  and  submission.  Hu-
-mility brought  that  rich  famous  place  no  salvation.  Jinghis,
+was  met  by  a  Balkh  deputation  with  gifts  and  submission.  Humility brought  that  rich  famous  place  no  salvation.  Jinghis,
 who  knew  that  Jelal  ud  din,  the  new  sovereign,  was  at  Ghazni
 with  an  army,  would  not  leave  a  strong  fortress  behind  him.
 Under  pretext  of  making  a  census  he  directed  the  people  in  Balkh
@@ -6684,14 +5342,11 @@ in  it  and  left  not  one  stone  on  another.
 While  the  Khan's  army  was  destroying  Nusrat  i  kuh,  Tului
 
 
-122  The  Mongols
-
 returned  to  his  father  after  wasting  Khorassan,  the  richest  and  most
 beautiful  part  of  the  Empire.  When  Tului  had  set  out  for  this
 work  of  destruction  Khorassan  had  been  already  ravaged  by
 Subotai  and  by  Chepe,  who  did  the  work  only  in  part  as  they
-rushed  along  hunting  Mohammed.  These  two  chiefs  left  a  com-
-mandant in  each  place  which  yielded.  After  they  had  passed,  and
+rushed  along  hunting  Mohammed.  These  two  chiefs  left  a  commandant in  each  place  which  yielded.  After  they  had  passed,  and
 when  oews  came  of  victories  won,  as  men  said,  by  Mohammed,
 people  hitherto  terrified  recovered  their  courage.  For  instance,
 the  chief  of  militia  in  Tus  killed  the  Mongol  commandant  and
@@ -6700,8 +5355,7 @@ chief  suffered  soon  after  for  his  levity  and  rashness.  A  strange
 captain  came  with  a  detachment  to  Tus,  put  nearly  all  native  troops
 to  the  sword,  and  forced  the  Tus  citizens  to  destroy  their  defenses.
 
-When  Tului  received  the  command  in  1220  to  march  on  Kho-
-rassan he  sent  forward  ten  thousand  men,  under  Togachar,  as  a
+When  Tului  received  the  command  in  1220  to  march  on  Khorassan he  sent  forward  ten  thousand  men,  under  Togachar,  as  a
 vanguard.  This  body  went  on  toward  Xessa  and  when  approaching
 thai  city  a  part  of  it  met  with  resistance.  Belgush,  its  commander,
 fell  in  the  action  which  followed.  Togachar,  to  avenge  the  death  of
@@ -6715,11 +5369,9 @@ old  fortress.
 Togachar  attacked  Nessa,  using  twenty  catapults  handled  by
 captives,  who,  whenever  they  fell  back,  were  massa<  red  by  Mongols
 behind  them.  On  the  sixteenth  day  at  dawn  a  breach  in  the  wall
-w:i^  effected  ;  the  Mongols  burst  through  and  drove  out  the  inhabit-
-ants.      On  the  plain  near  Nessa  some  were  forced  to  bind  others;
+w:i^  effected  ;  the  Mongols  burst  through  and  drove  out  the  inhabitants.      On  the  plain  near  Nessa  some  were  forced  to  bind  others;
 
-when  the  hands  of  each  man  were  bound  behind  his  back  the  Mon-
-gols slaughtered  all  who  were  there,  seventy  thousand  in  number.
+when  the  hands  of  each  man  were  bound  behind  his  back  the  Mongols slaughtered  all  who  were  there,  seventy  thousand  in  number.
 The  ancient  city  of  Meru,  or  Merv,  renowned  in  Persian  story,
 and  -till  more  in  Sanscrit  poems,  was  the  first  place  attacked  by
 Tului  with  the  main  army.  It  was  one  of  the  four  ruling  cities,
@@ -6734,8 +5386,7 @@ a    neighboring    foitTC  "All    people   who   remain    must    receive
 
 Flight  and  Death  of  Mohammed  123
 
-Mongol  troops  with  submission,"  this  was  his  order.  Moham-
-med's fear,  not  his  counsel,  remained  in  that  city.  His  governor,
+Mongol  troops  with  submission,"  this  was  his  order.  Mohammed's fear,  not  his  counsel,  remained  in  that  city.  His  governor,
 Behai  ul  Mulk,  did  not  think  Meraga  strong  and  found  elsewhere
 a  refuge ;  some  chiefs  returned  to  Merv,  others  fled  to  distant  places.
 The  new  governor,  a  man  of  no  value,  declared  for  submission,
@@ -6778,9 +5429,6 @@ Men,  women,  and  children  were  torn  from  one  another  never
 to  meet  in  this  life  after  that  day.     The  whole  place  was  filled  with
 
 
-124  The  Mongols
-
-
 Er
 
 
@@ -6790,8 +5438,7 @@ the  last  without  pity  or  exception.  Only  four  hundred  artisans
 were  set  aside  and  some  boys  and  girls  intended  for  servitude.
 Wealthy  persons  were  tortured  unsparingly  till  they  told  where  their
 treasures  were  hidden;  when  the  treasures  were  found  these
-men  were  slaughtered  as  well  as  the  others.  The  city  was  plun-
-dered to  the  utmost;  the  tomb  of  the  Sultan,  Sindjar,  was  pillaged;
+men  were  slaughtered  as  well  as  the  others.  The  city  was  plundered to  the  utmost;  the  tomb  of  the  Sultan,  Sindjar,  was  pillaged;
 the  walls  of  the  ancient  city  and  the  fortress  were  made  level  with
 the  country  about  them.
 
@@ -6819,8 +5466,7 @@ and  five  hundred  catapults.
 
 The  siege  was  begun  by  laying  waste  the  whole  province,  of
 which  Nishapur  was  the  capital.  Three  thousand  ballistas,  three
-hundred  catapults,  seven  hundred  machines  to  throw  pots  of  burn-
-ing naphtha,  and  four  thousand  ladders  were  among  the  siege
+hundred  catapults,  seven  hundred  machines  to  throw  pots  of  burning naphtha,  and  four  thousand  ladders  were  among  the  siege
 implements.  At  sighl  of  these,  and  of  the  vast  multitude  of  savage
 warriors  surrounding  their  city,  the  leaders  felt  courage  go  from
 them.
@@ -6833,14 +5479,12 @@ Tului  refused  every  offer  and  held  the  judge  captive.     Next
 
 Flight  and  Death  of  Mohammed  125
 
-morning  he  rode  round  the  walls  and  roused  his  troops  to  the  great-
-est endeavor.  They  attacked  all  sides  at  once,  fighting  that  day
+morning  he  rode  round  the  walls  and  roused  his  troops  to  the  greatest endeavor.  They  attacked  all  sides  at  once,  fighting  that  day
 and  the  night  following.  In  the  morning  the  moats  were  full;
 in  the  walls  were  seventy  breaches;  ten  thousand  Mongols  had
 entered.  New  assailants  rushed  in  from  every  side,  and  there  were
 desperate  encounters  at  many  points.  Before  that  day  had
-ended  the  city  was  occupied.  The  assailants  took  terrible  ven-
-geance. Togachar's  widow,  one  of  Jinghis  Khan's  daughters,
+ended  the  city  was  occupied.  The  assailants  took  terrible  vengeance. Togachar's  widow,  one  of  Jinghis  Khan's  daughters,
 rushed  in  herself  with  ten  thousand  warriors  who  cut  down  all
 before  them.  The  slaughter  continued  four  days  without  ceasing.
 The  Mongols  destroyed  every  living  thing ;  even  the  cats  and  dogs
@@ -6851,8 +5495,7 @@ had  saved  their  lives  by  lying  down  among  corpses,  so  now  he
 ordained  that  all  heads  be  cut  from  the  bodies;  of  these  three
 pyramids  were  constructed,  one  of  men's  heads,  a  second  from
 heads  of  women,  and  a  third  of  children's  heads.  Fifteen  days
-did  destruction  of  the  city  continue;  the  place  disappeared  alto-
-gether, and  the  Mongols  sowed  barley  on  the  site  of  it.  Of  the
+did  destruction  of  the  city  continue;  the  place  disappeared  altogether, and  the  Mongols  sowed  barley  on  the  site  of  it.  Of  the
 inhabitants  only  a  few  hundred  men  were  left  living ;  these  were
 skilled  artisans.  Lest  some  should  find  refuge  in  underground
 places,  troops  were  left  near  the  ruins  to  slay  all  who  might  creep
@@ -6878,8 +5521,6 @@ While  Tului  was  ruining  Khorassan,  a  small  group  of  Turkmans,
 Khankalis,  who  were  living  near  Merv,  fearing   the  Mongols,
 
 
-126  The  Mongols
-
 moved  westward,  and  after  some  wandering  in  Asia  Minor,  settled
 at  last  near  Angora  under  Ertogrul  their  tribe  chieftain.  Thty
 numbered  in  those  days  four  hundred  and  forty  families.  These
@@ -6889,8 +5530,7 @@ in  history  until  our  day.
 After  he  had  destroyed  Talekan,  Jinghis  held  his  summer  camp
 for  a  time  in  the  neighboring  mountains.  His  sons,  Jagatai  and
 Ogotai,  returned  from  Urgendj  and  other  ruined  places  on  the
-Oxus.  Juehi  went  north  of  Lake  Aral  and  in  deep  and  unquench-
-able anger  began  to  establish  the  monarchy  of  Kipchak,  known
+Oxus.  Juehi  went  north  of  Lake  Aral  and  in  deep  and  unquenchable anger  began  to  establish  the  monarchy  of  Kipchak,  known
 later  as  the  Golden  Horde,  and  never  again  saw  his  father.  Jinghis
 learning,  toward  the  autumn  of  1221,  that  Jelal  ud  din  had  large
 forces  in  Ghazni,  directed  his  march  toward  that  city  to  crush
@@ -6961,8 +5601,7 @@ ud  din  would  have  held  his  own,  and  perhaps  won  a  victory,  had
 not  Bela  Noyon  been  sent  with  ten  thousand  picked  men  to  pass
 the  mountain  at  all  costs.  Over  cliffs  and  on  the  edge  of  abysses
 the  Mongols  crept  carefully,  pushing  forward  till  at  last  they  were
-h  the  rear  of  the  weakened  left  wing  and  the  center  which,  at-
-tar ked  from  rear  and  front,  were  pierced  through  and  forced  out
+h  the  rear  of  the  weakened  left  wing  and  the  center  which,  attar ked  from  rear  and  front,  were  pierced  through  and  forced  out
 of  contact  with  each  other.
 
 Rallying  seven  thousand  men  around  him  Jelal  ud  din  made  a
@@ -6973,21 +5612,17 @@ given  variously  as  from  twenty  to  sixty  feet  higher  than  the  plain
 of  the  water.     His  shield  was  at  his  shoulder,  and  his  standard
 
 
-128  The  Mongols
-
 in  His  hand.  Jinghis,  who  spurred  to  the  river  bank  swiftly  and
 gazed  at  his  fleeing  opponent,  cried  :  "  How  could  Shah  Mohammed
 l>e  the  father  of  this  man  !  "
 
 Tlie  eldest  son  of  Jelal  ud  din  was  a  lad  of  eight  years.  He  with
-his  brothers  were  tossed  into  the  Indus  and  drowned  like  super-
-fluous puppies.  Jinghis  disposed  of  the  harem  and  treasures  as
+his  brothers  were  tossed  into  the  Indus  and  drowned  like  superfluous puppies.  Jinghis  disposed  of  the  harem  and  treasures  as
 pleased  him.
 
 Jelal  ud  din  vanished  then  for  a  time  from  the  conflict  to  appear
 later  on  in  various  struggles  till  weakness,  treachery  and  death
-put  an  end  to  him.  Mongol  generals  crossed  the  river  and  pur-
-sued, but  returned  after  fruitless  endeavors.
+put  an  end  to  him.  Mongol  generals  crossed  the  river  and  pursued, but  returned  after  fruitless  endeavors.
 
 Jinghis  marched  up  the  right  bank  of  the  Indus  in  the  spring
 of  1822,  and  sent  his  son  Ogotai  to  take  Ghazni  and  destroy  it.
@@ -7033,10 +5668,8 @@ In  addition  to  his  own  men  the  Mongol  commander  led  now
 fifty  thousand  impressed  from  conquered  places.  A  siege  followed
 soon  and  a  desperate  resistance.  Six  months  and  seventeen  days
 did  it  last  till  the  fall  of  the  city.  The  sword  was  turned  then
-on  all  save  the  choice  youth  of  both  sexes.  For  one  week  the  Mon-
-gols slew,  pillaged,  burned,  ruined.  It  was  said  that  one  million
-six  hundred  thousand  people  perished  in  the  conflict  and  subse-
-quent slaughter.  Jinghis  received  the  richest  of  the  plunder,  and
+on  all  save  the  choice  youth  of  both  sexes.  For  one  week  the  Mongols slew,  pillaged,  burned,  ruined.  It  was  said  that  one  million
+six  hundred  thousand  people  perished  in  the  conflict  and  subsequent slaughter.  Jinghis  received  the  richest  of  the  plunder,  and
 with  it  went  several  thousands  of  youthful  captives.
 
 When  Herat  was  destroyed  the  commander  went  back  to  the
@@ -7071,8 +5704,6 @@ On  deserting  Jelal  ud  din,  Agrak  had  gone  with  Azam  to  Bekerhar.
 After  a  visit  there  he  set  out  for  Peshawur,  and  from  the  first
 halting  place  sent  back  this  message :  "  Let  not  my  mortal  enemy
 
-
-130  The  Mongols
 
 remain  in  thy  country."  This  enemy  was  Nuh  Jaudar,  the  chief
 of  five  or  six  thousand  Kolluj  families.  Azam  sent  back  this
@@ -7131,10 +5762,6 @@ The  other  account  is  quite  different  in  character  and  import :
 "  I  was,"  says  a  Gurjistan  cadi,  "  in  Herat  on  a  tower,  which
 stood    just  in  front  of  Tului's  headquarters.     Arrows  came  in
 
-131
-
-
-132  The  Mongols
 
 such  numbers  that  I  went  down  and  was  lost  in  the  dust,  among
 Mongols.  They  seized  and  took  me  then  to  Tului.  When  he
@@ -7157,8 +5784,7 @@ pleases  them.'  His  face  colored  at  these  words,  and  he  shouted
 in  rage  till  the  dart  dropped  from  his  fingers.  I  felt  death  standing
 near  me  that  moment,  but  he  soon  recovered  and  said :  '  I  have
 thought  on  the  wisdom  of  sages,  and  see  that  I  have  plundered  and
-slain  without  the  right  knowledge  in  that  region  where  Moham-
-med's horse  lost  his  wav ;  but  what  care  I  for  men  ?  '  and  he  went
+slain  without  the  right  knowledge  in  that  region  where  Mohammed's horse  lost  his  wav ;  but  what  care  I  for  men  ?  '  and  he  went
 from  the  chamber.  I  could  remain  in  those  places  no  longer,  such
 was  my  fear  in  that  horde,  and  I  fled  from  it."
 
@@ -7194,8 +5820,7 @@ Polovtsi,  a  people  akin  to  the  Mongols.
 These  Polovtsi  led  a  nomad  life  in  that  region  which  stretches
 westward  from  the  Caspian  to  the  Dnieper;  they  were  neighbors
 of  the  Russians  whom  thev  had  harassed  for  centuries.  The
-Mongols  had  obtained  from  the  Shirvan  Shah  ten  guards  to  con-
-duct them.  The  commanders  began  very  strangely.  They  cut
+Mongols  had  obtained  from  the  Shirvan  Shah  ten  guards  to  conduct them.  The  commanders  began  very  strangely.  They  cut
 off  the  head  of  one  of  these  ten  and  declared  that  the  other  nine
 would  die  by  the  same  kind  of  death  if  they  should  deceive  them
 or  use  any  treachery.  Despite  this  cruel  act  the  guides  led  the
@@ -7224,12 +5849,9 @@ boundaries.  Ten  thousand  families  passed  into  Byzantine
 regions.  John  Ducas,  the  Emperor,  took  those  people  then  to
 his  service  and  gave  them  land  in  Macedonia  and  Thrace.  Great
 numbers  fled  into  Russia,  which  for  two  centuries  had  been
-scourged  with  their  raids  and  their  outrages.  Among  the  fugi-
-tives  was  Kotyan,  a  Khan  whose  daughter  had  married  the  Ga-
+scourged  with  their  raids  and  their  outrages.  Among  the  fugitives  was  Kotyan,  a  Khan  whose  daughter  had  married  the  Ga-
 litch  prince  Mystislav  the  Gallant.     Kotyan  implored  his  son-in-
 
-
-134  The  Mongols
 
 law  to  help  him:  "  To-day,"  said  he,  "  the  Mongols  have  taken
 our  land,  they  will  take  yours  to-morrow.  Assist  us;  if  not  we
@@ -7241,8 +5863,7 @@ said  Mvstislav,  "  they  will  go  with  the  Mongols  and  strengthen
 them."  A  deputation  went  north  to  ask  aid  of  the  princes  in
 Suzdal.  Troops  were  collected  and  the  Russian  princes  moved
 against  the  enemy  in  confidence.  On  the  way  they  met  Mongol
-envoys  who  delivered  this  message:  "We  have  heard  that,  con-
-vinced by  the  Polovtsi,  ye  are  marching  against  us,  but  we  have
+envoys  who  delivered  this  message:  "We  have  heard  that,  convinced by  the  Polovtsi,  ye  are  marching  against  us,  but  we  have
 not  come  to  attack  you.  We  have  come  against  our  own  horse
 boys  and  slaves,  the  vile  Polovtsi;  we  are  not  at  war  with  you.
 If  the  Polovtsi  flee  to  your  country  drive  them  out  of  it,  and  seize
@@ -7269,8 +5890,7 @@ Russian  victory.  Mvstislav  ordered  Daniel  of  Galitch,  son  of
 Roman,  to  cross  the   Kalka;   after  hint  went  all  the  other  princes
 
 and  encamped  on  the  steppe  beyond  the  river.  The  Polovtsi
-were  posted  in  advance,  some  of  them  serving  as  sentries.  Mys-
-tislav  rode  forward  to  reconnoitre.  Being  satisfied  with  what
+were  posted  in  advance,  some  of  them  serving  as  sentries.  Mystislav  rode  forward  to  reconnoitre.  Being  satisfied  with  what
 was  revealed  to  him  he  returned  hastily,  ordered  out  his  own  men
 and  alio  Daniel,  giving  no  command  to  other  princes  who  were
 left  in  their  camp  awaiting  orders;  there  was  keen  rivalry  between
@@ -7304,8 +5924,7 @@ their  ground  firmly  near  the  river,  on  a  hill  which  they  fortified
 with  palisades.  They  fought  there  with  two  divisions  of  Mongols,
 which  remained  at  the  Kalka  —  the  others  followed  Mystislav
 toward  the  Dnieper.  Three  days  did  those  brave  men  fight  at  the
-river,  till  assured  that  they  would  be  freed  on  surrender,  if  ran-
-somed. They  trusted  the  plighted  word  of  the  Mongols  and
+river,  till  assured  that  they  would  be  freed  on  surrender,  if  ransomed. They  trusted  the  plighted  word  of  the  Mongols  and
 yielded.
 
 The  Mongol  chiefs  bound  those  three  princes  hand  and  foot,
@@ -7316,27 +5935,22 @@ beneath  in  desperate  torture.  Thus  the  three  Russians  died  while
 the  Mongols  were  feasting  above  them.
 
 Six  princes  and  a  great  number  of  their  men  perished  while
-fleeing  toward  the  Dnieper.  Mystislav,  and  those  in  his  com-
-pany, including  Daniel,  reached  the  river  and  crossed  it.  The
+fleeing  toward  the  Dnieper.  Mystislav,  and  those  in  his  company, including  Daniel,  reached  the  river  and  crossed  it.  The
 prince  burned  his  boats  on  the  west  bank,  or  had  them  cut
 into  pieces  lest  the  enemy  might  follow  him  farther,  but  the
 Mongols  turned  back  before  reaching  the  Dnieper.     The  north-
 
-
-136  The  Mongols
 
 em  contingent,  commanded  by  the  Rostoff  prince,  Vassilko,
 heard  at  Chernigotf  of  the  Kalka  disaster  and  returned  home,
 being  too  weak,  as  they  thought,  to  face  such  an  enemy.
 
 On  their  way  eastward  the  Mongols  used  fire  and  sword  without
-mercy  wherever  they  found  men  and  property.  They  filled  south-
-ern Russia  with  terror;  they  swept  through  the  Crimea  and
+mercy  wherever  they  found  men  and  property.  They  filled  southern Russia  with  terror;  they  swept  through  the  Crimea  and
 ravaged  it ;  they  captured  Bulgar  on  the  Volga  and  ruined  that
 opulent  city.  Sated  with  bloodshed  and  laden  with  booty  they
 returned  that  same  year  to  headquarters  east  of  the  Caspian.
-Thus  one  division  of  Jinghis  Khan's  great  army  overran  an  im-
-mense part  of  Europe  without  meeting  effective  resistance  in  any
+Thus  one  division  of  Jinghis  Khan's  great  army  overran  an  immense part  of  Europe  without  meeting  effective  resistance  in  any
 
 place.
 
@@ -7351,8 +5965,7 @@ In  February  of  1225  the  mighty  manslayer  had  returned  to  his
 homeland  between  the  rivers,  where  we  may  leave  him  for  a  time
 and  turn  to  China:
 
-After  Jinghis  left  the  Kin  Empire  in  1216  the  Kins  reoccu-
-pied  the  land  seized  from  them  excepting  Chong  tu  and  the  northern
+After  Jinghis  left  the  Kin  Empire  in  1216  the  Kins  reoccupied  the  land  seized  from  them  excepting  Chong  tu  and  the  northern
 rim  of  Pe  che  li  and  Shan  si.  Mukuli,  the  great  Mongol  general,
 reentered  China  in  1217.  During  that  year  and  the  five  years
 which  followed  he  conquered  all  the  lands  of  the  Kin  dynasty
@@ -7378,8 +5991,7 @@ Death  and  Burial  of  the  Conqueror  137
 Tangut  favored  the  Kins,  and  its  monarch  prepared  for  armed
 action  against  the  Mongols.
 
-In  view  of  this  Jinghis  toward  the  end  of  1225  left  his  head-
-quarters to  make  war  on  Tangut.  His  formal  complaint  was  that
+In  view  of  this  Jinghis  toward  the  end  of  1225  left  his  headquarters to  make  war  on  Tangut.  His  formal  complaint  was  that
 foes  of  the  Mongol  Khan  had  been  favored  and  taken  into
 service  by  the  King  who  had  refused  also  to  send  his  son  as  a
 hostage.
@@ -7403,8 +6015,7 @@ a  lMf  ™iVe  iQ  Vain  to  hide  in  caverns  and  in  mountains.
 As  to  the  Mongol  sword,  hardly  two  in  a  hundred  escape  it.  The
 nelds  are  covered  with  the  bones  of  slaughtered  people  "
 
-In  the  month  of  July,  1227,  Li  hien  sent  an  embassy  with  sub-
-mission. He  asked  merely  one  month  in  which  to  surrender  his
+In  the  month  of  July,  1227,  Li  hien  sent  an  embassy  with  submission. He  asked  merely  one  month  in  which  to  surrender  his
 capital  The  favor  was  granted,  and  Jinghis  promised  to  regard
 mm  as  his  son  in  the  future.
 
@@ -7423,8 +6034,6 @@ Jinghis  died  August  18,  1227,  when  sixty-six  years  of  age.     He
 iiad  reigned  twenty-two  years.
 
 
-138  The  Mongols
-
 The  order  to  slay  the  Tangut  sovereign  and  the  people  of  the
 city  was  carried  out  strictly,  and  the  kingdom  of  Tangut  was  added
 to  the  Mongol  Empire.
@@ -7435,8 +6044,7 @@ are  at  present.  They  destroy  empires  as  a  man  plucks  out  herbs  by
 the  roots,  such  is  the  power  in  their  possession.  Why  does  Heaven
 let  them  have  it  ?  "
 
-The  remains  of  the  great  Khan  were  taken  back  to  his  birth-
-place. Lest  his  death  might  be  known  the  troops  who  conducted
+The  remains  of  the  great  Khan  were  taken  back  to  his  birthplace. Lest  his  death  might  be  known  the  troops  who  conducted
 them  slew  every  person  whom  they  met  as  they  traveled.  Only
 when  they  arrived  at  the  home  of  Jinghis  was  his  death  published
 to  all  men.
@@ -7457,8 +6065,7 @@ which  I  found  in  Siberia.  First  we  have  the  life  and  death  struggle
 between  Jinghis  and  the  King  of  Tangut  whose  name  in  the
 chronicle  is  Shidurgo.  Shidurgo  opens  the  struggle  by  becoming
 a  serpent,  Jinghis  becomes  king  of  all  birds,  and  then  Shidurgo
-turns  into  a  tiger,  Jinghis  changes  at  once  to  a  lion ;  at  last  Shid-
-urgo is  a  boy  and  Jinghis  appears  as  chief  of  the  Tengeri  or  heav-
+turns  into  a  tiger,  Jinghis  changes  at  once  to  a  lion ;  at  last  Shidurgo is  a  boy  and  Jinghis  appears  as  chief  of  the  Tengeri  or  heav-
 enly divinities,  and  Shidurgo  is  at  his  mercy.  "  If  thou  kill  me,"
 said  Shidurgo,  "  the  act  will  be  fatal  to  thee;  if  thou  spare  me  it
 will  be  fatal  to  thy  children."  Jinghis  struck,  but  the  blow  did  not
@@ -7482,8 +6089,7 @@ will  come  to  me."  She  went  to  the  Kara  Muren  (the  Hoang  Ho)
 and  plunged  into  it.  When  she  returned  she  had  all  her  farmer
 great  beauty.  The  following  night  while  Jinghis  lay  asleep  she
 bewitched  him ;  he  grew  feeble  and  ill  and  never  gained  strength
-again.  She  left  him,  went  down  to  the  Kara  Muren  and  disap-
-peared in  that  river.
+again.  She  left  him,  went  down  to  the  Kara  Muren  and  disappeared in  that  river.
 
 Jinghis  lay  helpless  in  bed  and  at  last  death  was  near  him.
 He  spoke  then  to  Kiluken,  his  old  comrade,  the  gray  hero :  "  Be
@@ -7491,8 +6097,7 @@ thou  a  true  friend  to  my  widow  Bortai  Fudjin,  and  to  my  sons
 Ogotai  and  Tului,  be  thou  true  to  them  fearlessly.  The  precious
 jade  has  no  crust,  the  polished  dagger  no  dirt  on  it ;  man  born  to  life
 is  not  deathless,  he  must  go  hence  without  home,  without  resting
-place.  The  glory  of  a  deed  is  in  being  finished.  Firm  and  un-
-bending is  he  who  keeps  a  plighted  word  faithfully.  Follow  not
+place.  The  glory  of  a  deed  is  in  being  finished.  Firm  and  unbending is  he  who  keeps  a  plighted  word  faithfully.  Follow  not
 the  will  of  another  and  thou  wilt  have  the  good-will  of  many.  To
 me  it  is  clear  that  I  must  leave  all  and  go  hence  from  you.  The
 words  of  the  boy  Kubilai  are  very  weighty;  note  what  he  says,
@@ -7518,8 +6123,6 @@ O  thou  my  Khan  ?
 Sweeping  forward  in  pride,  as  sweeps  forward  an  eagle  thou
 didst  lead  us  aforetime,
 
-
-140  The  Mongols
 
 O  thou  my  Khan,
 
@@ -7567,8 +6170,7 @@ thy  faithful  friends,  thy  fortunate  land  and  thy  great  golden
 mansion,  that  wonderful  building,  are  awaiting  thee  off  there.
 
 "  Wilt  thou  leave  us  now  here  in  this  quagmire,  because  this  land
-pleases  thee?  because  so  many  Tanguts  are  vanquished?  be-
-cause Kurbeldjin  Goa  was  beautiful  ?
+pleases  thee?  because  so  many  Tanguts  are  vanquished?  because Kurbeldjin  Goa  was  beautiful  ?
 
 "  We  could  not  save  thy  noble  life  in  this  kingdom,  so  let  us  bear
 thy  remains  to  their  last  home  and  resting  place.  Let  us  bear
@@ -7582,8 +6184,7 @@ Death  and  Burial  of  the  Conqueror  141
 
 passed  over  the  mountain  range  easily  and  across  the  immense
 Gobi  desert.  It  moved  on  amid  wailing  and  chanting,  and
-at  last  reached  the  home  of  the  mighty  and  merciless  man-
-slayer.
+at  last  reached  the  home  of  the  mighty  and  merciless  manslayer.
 
 The  body  was  buried  in  a  Kentei  Khan  forest  near  a  majestic
 tree  which  had  pleased  Jinghis  Khan  very  greatly  in  his  lifetime.
@@ -7595,8 +6196,7 @@ the  body  of  the  conqueror  was  hidden.
 Jinghis  Khan  is  one  of  the  great  characters  of  history,  perhaps
 the  greatest  that  has  appeared  in  the  world  to  the  present  day.
 A  man  who,  never  hampered  by  conscience,  advanced  directly
-toward  the  one  supreme  object  of  his  life,  —  power.  His  execu-
-tive ability  was  wonderful,  as  was  also  his  utter  disregard  for  human
+toward  the  one  supreme  object  of  his  life,  —  power.  His  executive ability  was  wonderful,  as  was  also  his  utter  disregard  for  human
 life.  Beginning  with  a  few  huts  on  the  Kerulon  he  drew  in  tribe
 after  tribe,  country  after  country,  till  at  his  death  he  was  master
 of  more  territory  than  had  ever  been  ruled  by  one  sovereign.  He
@@ -7626,8 +6226,6 @@ Darya,  or  Yaxartes.
 Ogotai  received  the  country  watered  by  the  Imil,  while  Tului,
 
 
-142  The  Mongols
-
 the  youngest,  inherited  his  father's  home  places  between  Kara
 Kururu  and  the  Onon  River  region.
 
@@ -7637,14 +6235,12 @@ came  to  maturity;  his  father's  house  and  all  that  belonged  to  it
 fell  to  the  youngest  son  always.
 
 When  the  last  rites  had  been  rendered,  and  the  last  honors  paid
-to  the  great  conqueror,  each  of  the  four  sons  returned  to  his  posses-
-sions, and  it  was  only  after  two  years  that  the  family  held  the
+to  the  great  conqueror,  each  of  the  four  sons  returned  to  his  possessions, and  it  was  only  after  two  years  that  the  family  held  the
 Kurultai  of  election.  In  the  spring  of  1229  all  assembled  again  on
 the  Kerulon.  /fThey  were  met  and  received  by  Tului,  acting  as
 regent  till  they  should  choose  a  new  sovereign./^
 
-From  the  regions  north  and  west  of  Lake  Aral  came  the  descend-
-ants of  Juchi,  that  eldest  son  who  had  dared  to  defy  his  own
+From  the  regions  north  and  west  of  Lake  Aral  came  the  descendants of  Juchi,  that  eldest  son  who  had  dared  to  defy  his  own
 terrible  father.  Jagatai  brought  his  sons  and  grandsons  from  the
 Hi ;  and  Ogotai  came  from  the  Imil  near  which  he  had  been
 living.
@@ -7671,8 +6267,7 @@ times,  and  was  trained  beyond  any  in  the  wisdom  of  the  conqueror.
 "  how  act  against  his  command  and  his  wishes  ?  "
 
 Ogotai  still  resisted,  and  forty  days  passed  in  feasting  ere  he
-yielded.  On  the  forty-first  day,  which  was  pointed  out  by  magi-
-cians as  the  time  most  propitious,  he  was  conducted  to  the  throne
+yielded.  On  the  forty-first  day,  which  was  pointed  out  by  magicians as  the  time  most  propitious,  he  was  conducted  to  the  throne
 by  Jagatai  and  by  Utchuken  his  uncle,  Jinghis  Khan's  youngest
 brother.  Tului  gave  him  the  goblet  used  on  occasions  of  that
 kind,  and  then  all  who  were  in  the  pavilion,  and  those  outside,
@@ -7691,8 +6286,7 @@ immense  throngs  of  people  there  present  gave  the  like  homage
 also.  When  Ogotai  reentered  the  tent  a  great  fe&st  was  served
 straightway.
 
-In  choosing  Ogotai  the  family  swore  to  adhere  to  his  descend-
-ants, and  the  following  strange  words  were  used  by  them:  "  We
+In  choosing  Ogotai  the  family  swore  to  adhere  to  his  descendants, and  the  following  strange  words  were  used  by  them:  "  We
 swear  not  to  seat  on  the  throne  another  branch  of  our  family  so
 long  as  there  shall  be  of  thy  descendants  a  morsel  of  flesh  which,
 cast  upon  grass,  might  stop  a  bullock  from  eating,  or  cast  into  fat
@@ -7729,12 +6323,9 @@ first  time  since  the  Mongol  conquest.  In  the  west  it  was  a  tax
 on  every  male  person  of  legal  age.     In  China  the  system  of  the
 
 
-144  The  Mongols
-
 country  was  chosen  and  the  tribute  was  levied  on  houses.  Lands
 taken  from  the  Kin  dynasty  were  divided  into  ten  provinces  in
-each  of  these  was  established  a  tribunal  for  assessment  and  col-
-lection of  tribute.  Chu  tsai  even  proposed  to  the  White  Khan  to
+each  of  these  was  established  a  tribunal  for  assessment  and  collection of  tribute.  Chu  tsai  even  proposed  to  the  White  Khan  to
 use  in  governing  his  possessions  the  rules  of  Confucius.  "  The
 Empire  has  been  conquered  on  horseback,"  said  the  sage,  "  but
 no  man  can  rule  it  from  the  saddle."
@@ -7766,8 +6357,7 @@ parts  of  it,  especially.  '  In  those  lands  which  Jinghis  Khan
 ruined,"  exclaims  the  historian,  "  not  one  in  a  thousand  is  left
 of  the  people.  Where  a  hundred  thousand  had  lived  before  his
 invasion  there  are  now  scarce  one  hundred.  Were  nothing  to
-stop  the  increase  of  population  from  this  hour  till  the  day  of  Judg-
-ment it  would  not  reach  one  tenth  of  what  it  was  before  Jinghis
+stop  the  increase  of  population  from  this  hour  till  the  day  of  Judgment it  would  not  reach  one  tenth  of  what  it  was  before  Jinghis
 Khan's  coming."
 
 The  ruin  inflicted  by  that  dreadful  invasion  spread  terror  on  all
@@ -7786,18 +6376,13 @@ the  cause  of  a  conflict  between  the  two  Turk  leaders  Edek  Khan
 and  Togan  Taissi  the  Atabeg.  These  rivals  divided  the  province
 between  them  at  last,  and,  since  Ispahan  fell  to  the  former,  Ghiath
 ud  din  wished  to  win  him  as  a  vassal.  He  therefore  promised
-Edek  his  sister  in  marriage,  but  while  settling  the  terms  of  agree-
-ment Edek  was  slain  by  his  rival,  the  Atabeg,  Togan.
+Edek  his  sister  in  marriage,  but  while  settling  the  terms  of  agreement Edek  was  slain  by  his  rival,  the  Atabeg,  Togan.
 
 Ghiath  marched  against  Ispahan  promptly,  received  Togan 's
 homage,  and  gave  him  the  sister  just  promised  to  Edek.  In
 quick  time  he  thus  found  himself  master  of  Irak,  Mazanderan  and
 Khorassan.
 
-145
-
-
-146  The  Mongols
 
 Jelal  ud  din  when  defeated  at  the  Indus,  which  he  swam  with
 such  daring,  had  been  pursued  fiercely  in  India  by  Jinghis  Khan's
@@ -7810,8 +6395,7 @@ seized  a  good  part  of  north  India  and  was  ruling  unchallenged.
 He  feared  now  the  coming  of  so  brave  and  incisive  a  man  as
 Jelal  ud  din,  hence  he  sent  him  rich  gifts  and  declared  that  the
 climate  of  Delhi  was  unwholesome.  Jelal  would  find,  he  felt
-certain,  a  far  better  residence  in  Multan  and  a  much  more  salu-
-brious climate.  Jelal  withdrew,  but  he  gathered  much  booty  of
+certain,  a  far  better  residence  in  Multan  and  a  much  more  salubrious climate.  Jelal  withdrew,  but  he  gathered  much  booty  of
 value  as  he  traveled.
 
 Meanwhile  from  Irak  came  many  generals  who  were  enraged
@@ -7824,8 +6408,7 @@ he  set  out  at  once  to  encounter  the  Sultan  of  Delhi.
 
 But  Iletmish  offered  peace,  and  the  hand  of  his  daughter  instead
 of  hostilities;  Jelal  took  peace  and  the  woman.  Still  Iletmish
-made  a  league  with  Karadja  and  others  to  drive  out  the  I  wares-
-mian  if  need  be.  Jelal,  who  could  not  make  head  against  all,
+made  a  league  with  Karadja  and  others  to  drive  out  the  I  waresmian  if  need  be.  Jelal,  who  could  not  make  head  against  all,
 took  advice  of  his  generals.  Those  who  had  quitted  his  brother
 wished  a  return  to  home  regions.  It  would  be  easy,  they  told  him,
 to  snatch  command  from  Ghiath  his  brother,  a  weakling,  and
@@ -7855,8 +6438,7 @@ attacked  him,  incited  to  do  so  by  Ghiath,  who  wished  at  that
 juncture  to  seize  all  the  baggage  and  women  belonging  to  Borak's
 assistants.
 
-The  aggressor  was  beaten,  put  to  flight  and  driven  into  a  neigh-
-boring fortress,  where  Borak  killed  him.  Borak  not  satisfied  yet
+The  aggressor  was  beaten,  put  to  flight  and  driven  into  a  neighboring fortress,  where  Borak  killed  him.  Borak  not  satisfied  yet
 with  this  outcome  had  attacked  Kevashir  where  the  son  of  the
 recent,  but  then  defunct,  governor  was  commanding.  While
 thus  engaged  he  heard  all  at  once  that  Jelal  was  in  Kerman.
@@ -7892,8 +6474,6 @@ who  sent  his  son  with  five  hundred  horsemen  to  welcome  the
 Sultan,  and  excused  himself  saying  that  he  had  once  made  a  vow
 
 
-148  The  Mongols
-
 not  to  meet  any  person  whatever.  Jelal  accepted  the  statement.
 He  knew  that  the  Atabeg  was  hostile  to  Ghiath,  who  had  invaded
 his  country  a  short  time  before  and  had  even  retained  certain
@@ -7926,8 +6506,7 @@ cruel  hardships  I  have  come  to  find  rest  here,  but  since  you  meet
 me  with  swords,  I  withdraw  to  other  places."
 
 Ghiath  believing  this  message,  and  thinking  besides  that  his
-brother  was  powerless  to  harm  him,  came  back  to  Rayi  and  dis-
-missed  his  large  forces.
+brother  was  powerless  to  harm  him,  came  back  to  Rayi  and  dismissed  his  large  forces.
 
 Jelal  sent  out  an  agent  who  gave  immense  promises  to  the
 generals  of  his  brother,  and  gave  them  rings  also  in  proof  of  his
@@ -7935,16 +6514,14 @@ favor.     Many  yielded  while  others  went  promptly  to  Ghiath  and
 
 showed  the  rings  given  them.      lie  had  his  brother's  agent  arrested.
 
-Hut  Jelal,  feeling  thai  most  of  the  warriors  were  with  him,  ad-
-vanced with  only  three  thousand  picked  horsemen.  This  advance
+Hut  Jelal,  feeling  thai  most  of  the  warriors  were  with  him,  advanced with  only  three  thousand  picked  horsemen.  This  advance
 was  successful;  Ghiath  fled  to  ;i  fortress  but  reassured  by  mild
 me-  he  left  his  asylum  and  went  to  his  brother's  headquarters.
 
 
 Persia  at  Jinghis  Khan's  Death  149
 
-The  supremacy  of  Jelal  was  generally  acknowledged;  com-
-manders came  to  him  each  with  a  shroud  on  his  shoulders,  and  fell
+The  supremacy  of  Jelal  was  generally  acknowledged;  commanders came  to  him  each  with  a  shroud  on  his  shoulders,  and  fell
 at  his  feet  to  win  pardon.  The  Sultan  treated  these  men  with  a
 kindness  which  scattered  their  fears  and  attached  them  to  his
 fortunes.  Soon  he  saw  also  at  his  court  that  entire  horde  of  small
@@ -7971,8 +6548,7 @@ waited.
 Jelal  begged  by  letter  Moazzam,  the  Prince  of  Damascus  and
 nephew  of  Saladin,  to  aid  him  in  this  struggle  with  Nassir  who
 had  brought,  as  he  stated,  savage  people  to  Persia,  and  destroyed
-Shah  Mohammed.  Moazzam  replied  that  he  would  make  com-
-mon cause  with  the  Sultan  in  everything  save  only  a  struggle
+Shah  Mohammed.  Moazzam  replied  that  he  would  make  common cause  with  the  Sultan  in  everything  save  only  a  struggle
 against  the  high  chief  of  all  Moslems.
 
 Kush  Timur  led  the  forces  of  Bagdad  which  were  twenty
@@ -7980,16 +6556,12 @@ thousand  in  number.  A  pigeon  was  sent  to  Mozaffar  who  was
 prince  then  in  Erbil  with  an  order  to  attack  the  Sultan's  rear  guard
 and  bar  retreat  to  him.  Since  Jelal's  forces  were  small  he  sent  a
 message  to  Kush  Timur  saying  that  he  had  not  come  as  an  enemy ;
-he  desired  the  good-will  of  the  Kalif  whose  aid  was  to  him  indis-
-pensable in  that  great  struggle  with  the  enemy  who  menaced  all
+he  desired  the  good-will  of  the  Kalif  whose  aid  was  to  him  indispensable in  that  great  struggle  with  the  enemy  who  menaced  all
 Islam.  If  the  Kalif  would  act  and  agree  with  him  he,  the  Sultan,
 could  be  the  safe-guard  of  Persia.
 
 Kush  Timur's  single  answer  was  to  range  his  men  in  order  of
 1  About  twenty-seven  miles.        2  A  dinar  is  the  fiftieth  part  of  a  cent.
-
-
-150  The  Mongols
 
 
 o'
@@ -8026,8 +6598,7 @@ asses,  and  cattle.
 
 When  this  Turk  general,  who  thought  that  the  Sultan  was  then
 in  Dakuka,  saw  his  troops  after  daybreak,  and  knew  by  the  regal
-umbrella  that  Jelal  himself  was  there  with  them,  he  was  so  dis-
-concerted that  he  forgot  every  idea  save  the  single  one  of  winning
+umbrella  that  Jelal  himself  was  there  with  them,  he  was  so  disconcerted that  he  forgot  every  idea  save  the  single  one  of  winning
 favor.  He  sent  his  wife,  Jelal's  sister,  to  make  peace  if  possible.
 She  made  it  and  Togan  thereupon  ranged  his  troops  with  the
 Sultan's  and  under  his  banners ;  after  that  they  returned  to  Meraga.
@@ -8062,8 +6633,7 @@ Since  Euzbeg  was  neglectful  and  indolent  the  Georgians  made
 raids  into  Arran  and  Azerbaidjan;  they  ravaged  Erzerum  also,
 and  later  on  Shir  van.  They  had  scourged  the  Moslems  of  these
 regions  severely.  Eager  for  vengeance  Jelal  had  no  sooner  made
-himself  master  at  the  Caspian  than  he  declared  war  on  the  Geor-
-gians, who  sent  back  this  answer:  "  We  have  measured  our  strength
+himself  master  at  the  Caspian  than  he  declared  war  on  the  Georgians, who  sent  back  this  answer:  "  We  have  measured  our  strength
 with  the  Mongol,  who  took  all  his  lands  from  thy  father  and
 destroyed  him.  He  was  a  man  of  more  courage  and  power  than
 art  thou.  Those  Mongols  who  killed  him  met  us,  and  ended  by
@@ -8088,8 +6658,6 @@ Tebriz,  put  its  mayor  to  death,  and  arrested  the  ringleaders  of  the
 conspiracy.     When  he  had  strengthened  thus  his  authority  he
 
 
-152  The  Mongols
-
 married  Euzbog's  wife,  and  while  in  Tehriz  urged  forward  troops
 who  took  Gandja,  the  capital  of  Arran,  whence  Euzbeg  made
 his  way  to  Alandja.
@@ -8100,8 +6668,7 @@ army  in  which  were  found  Alans,  Lesgians,  Kipchaks  and  others.
 This  army  struck  now  by  Jelal  lost  heavily  and  was  scattered.
 After  the  victory  -Jelal  marched  on  Tiflis,  which  he  captured  through
 aid  from  Mohammedans  who  lived  in  that  city.  All  Georgians
-were  put  to  the  sword  except  those  who  acknowledged  the  suprem-
-acy of  the  Sultan.  Women  and  children  fell  to  the  conquerors,
+were  put  to  the  sword  except  those  who  acknowledged  the  supremacy of  the  Sultan.  Women  and  children  fell  to  the  conquerors,
 the  city  was  yielded  to  pillage.  Jelal  took  full  vengeance  on  the
 Georgians  for  all  that  they  had  done  to  Mohammedans.  His
 troops  were  enriched  by  the  property  of  Christians,  he  slew  a
@@ -8109,14 +6676,12 @@ vasl  number  of  those  "  infidels,"  as  he  thought  them,  and  drove
 their  children  and  wives  into  slavery.
 
 Leaving  Georgia,  a  desert  in  great  part  he  turned  his  face  next
-to  Khelat  on  the  north  of  Lake  Van  in  Armenia.  This  city  be-
-longed to  Ashraf,  an  Eyubite  prince,  lord  over  Harran  and  Itoha.
+to  Khelat  on  the  north  of  Lake  Van  in  Armenia.  This  city  belonged to  Ashraf,  an  Eyubite  prince,  lord  over  Harran  and  Itoha.
 His  brother.  Moazzam,  the  prince  of  Damascus,  who  defended
 himself  against  Ashraf,  and  Kainil.  his  eldest  brother,  who  was
 Sultan  of  Egypt,  had  sent  his  chief  confidant,  an  officer,  to  Jelal
 then  in  Tiflis,  and  begged  him  to  make  an  attack  upon  Khelat,
-and  give  in  this  way  assistance.  Moazzam  admired  the  Kwares-
-mian  Sultan  immensely,  and  held  it  an  honor  to  wear  a  robe  which
+and  give  in  this  way  assistance.  Moazzam  admired  the  Kwaresmian  Sultan  immensely,  and  held  it  an  honor  to  wear  a  robe  which
 had  come  from  him,  and  ride  on  a  steed  which  Jelal  had  thought
 proper  to  send  him.  During  night  banquets  .Moazzam  never
 swore  excepl  by  the  head  of  the  Sultan.
@@ -8128,8 +6693,7 @@ Borak,  the  governor  of  Kerman,  had  withdrawn  from  allegiance,
 and  even  -cut  men  to  the  Mongols  to  explain  the  increase  and
 importance  of  Jelal'a  new  army.
 
-The  Sultan  abandoned  the  siege  and  set  out  for  Kerman.  Bo-
-rak, who  had  learned  that  he  was  coming,  withdrew  to  a  stronghold
+The  Sultan  abandoned  the  siege  and  set  out  for  Kerman.  Borak, who  had  learned  that  he  was  coming,  withdrew  to  a  stronghold
 and  sent  words  of  feigned  loyalty  and  obedience.      It  would  have
 
 been  difficult  t<>  capture  the  stronghold,  so  Jelal  thought  it  beat  to
@@ -8173,8 +6737,7 @@ Ashraf  went  to  Damascus,  moreover,  and  swore  obedience  to
 Moazzam,  his  brother,  begging  him  meanwhile  to  stop  Jelal  from
 ruining  Khelat,  but  Jelal  remained  till  the  cold  and  deep  snow
 drovf  him  from  the  place.  Azerbaidjan  also  called  him.  A
-large  horde  of  Turkmans  were  pillaging  the  people,  and  plunder-
-ing caravans.
+large  horde  of  Turkmans  were  pillaging  the  people,  and  plundering caravans.
 
 The  Sultan  made  a  swift  march  and  came  on  them  suddenly,
 shutting  off  their  retreat  to  the  mountains.  Surrounding  the
@@ -8184,10 +6747,7 @@ with  his  captives.  The  Kwaresmians  had  abandoned  Tiflis  for
 the  winter,  so  the  Georgians  at  Ani,  Kars  and  other  places  united.
 
 
-154  The  Mongols
-
-They  moved  on  Tiflis  in  a  body  and  put  to  death  all  Moham-
-medans, and  since  they  despaired  of  defending  the  city  against
+They  moved  on  Tiflis  in  a  body  and  put  to  death  all  Mohammedans, and  since  they  despaired  of  defending  the  city  against
 Jelal  they  fired  it.
 
 The  Ismailians,  that  is,  the  Assassins  of  Persia,  had  just  killed
@@ -8233,8 +6793,7 @@ dismissal  1kv  made  all  take  an  oath  not  to  turn  from  the  enemy
 
 Persia  at  Jinghis  Khan's  Death  155
 
-or  prefer  life  to  the  death  of  a  hero.  He  took  the  same  oath  him-
-self, and  appointed  a  day  for  the  struggle.  Command  was  then
+or  prefer  life  to  the  death  of  a  hero.  He  took  the  same  oath  himself, and  appointed  a  day  for  the  struggle.  Command  was  then
 given  the  chief  judge  and  the  Ispahan  mayor  to  review  the  armed
 citizens.
 
@@ -8278,8 +6837,6 @@ and  died  weapons  in  hand,  except  three  of  them.
 The  Sultan  remained  in  the  center,  which  then  was  surrounded
 
 
-156  The  Mongols
-
 completely.  He  had  only  fourteen  of  the  guards  near  his  person,
 and  he  slew  with  his  own  hand  his  standard  bearer  who  was
 fleeing;  then  he  himself  cut  a  way  through  the  enemy.  Fugitives
@@ -8300,8 +6857,7 @@ many  men  both  in  killed  and  in  prisoners
 No  one  knew  whither  the  Sultan  had  vanished.  Some  sought
 for  his  corpse  on  the  battle-field,  others  thought  that  the  enemy
 had  captured  him.  At  Ispahan  people  talked  of  a  new  sovereign,
-while  the  mob  wished  to  seize  the  women  and  goods  of  the  Kwares-
-mians.  But  the  cadi  prevailed  upon  all  to  wait  a  few  days  till
+while  the  mob  wished  to  seize  the  women  and  goods  of  the  Kwaresmians.  But  the  cadi  prevailed  upon  all  to  wait  a  few  days  till
 the  Bairam  feast  opened.  He  agreed,  however,  with  the  principal
 citizens  that  should  the  Sultan  not  come  to  the  prayer  on  that  feast
 day  they  would  choose  as  ruler  Togan  Taissi,  who  tlnough  his
@@ -8356,8 +6912,7 @@ deserting.  From  his  Kuzistan  place  of  retirement  he  sent  his
 vizir  to  Bagdad  to  declare  that  he  had  gone  from  his  brother.  He
 then  proffered  proofs  that  his  reign  had  been  friendly  to  the  Kalif,
 while  Jelal  had  acted  with  enmity,  and  had  brought  fire  and  sword
-to  the  suburbs  of  Bagdad.  He  begged  aid  of  the  Kalif  in  recover-
-ing his  dominions,  and  promised  true  obedience  to  the  heir  of  the
+to  the  suburbs  of  Bagdad.  He  begged  aid  of  the  Kalif  in  recovering his  dominions,  and  promised  true  obedience  to  the  heir  of  the
 Prophet.
 
 The  vizir  was  received  with  distinction,  and  a  subsidy  of  thirty
@@ -8372,8 +6927,6 @@ to  the  land  of  the  Assassins  he  changed  his  route  quickly  to  follow,
 and  ask  the  Alamut  chief  to  surrender  the  fugitive.  "  Your
 brother,"  said  the  chief,  "  is  here  in  asylum;  he  is  a  Sultan  him-
 
-
-158  The  Mongols
 
 self  and  his  father  was  a  Sultan,  —  we  cannot  surrender  him,  but
 he  will  not  take  your  dominions,  we  guarantee  that.  Should  he
@@ -8441,8 +6994,7 @@ made  up  from  nine  nations  and  forty  thousand  in  number  had
 gathered  north  of  Arran.  The  Sultan  marched  against  this
 army  and  pitched  his  camp  at  Mendur.  Since  his  forces  were
 greatly  inferior  in  number  to  those  of  the  enemy,  Sherif  ul  Mulk,
-his  vizir,  advised  at  a  council  to  limit  all  action  to  stopping  provi-
-sions and  meeting  the  enemy  with  advantage  when  want  came.
+his  vizir,  advised  at  a  council  to  limit  all  action  to  stopping  provisions and  meeting  the  enemy  with  advantage  when  want  came.
 This  advice  enraged  Jelal  so  seriously  that  he  struck  his  vizir  on
 the  head  with  a  writing  case.  "  They  are  mere  sheep ;  would  a
 lion  be  troubled  by  the  number  of  such  weak  little  animals  ?  "
@@ -8469,8 +7021,6 @@ One  of  the  bravest  of  Georgia's  great  veterans  rode  forth  to  the
 space  between  the  two  forces.    The  Sultan  rushed  to  meet  this
 
 
-160  The  Mongols
-
 strong  champion,  and  pierced  him  through  with  one  lance  thrust.
 Three  sons  of  the  man  came  forth  then  to  avenge  him  and  were
 killed  in  succession  by  Jelal.  Next  came  a  fifth  man,  enormous
@@ -8493,8 +7043,7 @@ before  that  with  Jelal,  wished  now  to  arrange  them,  show  homage,
 and  give  presents  ten  thousand  dinars  in  value.
 
 The  Sultan  received  him  with  every  distinction,  and  in  taking
-farewell  asked  for  siege  engines.  Rokn  ud  din  sent  a  great  cata-
-pult, shields  and  many  engines  of  value.  The  princes  of  Amid
+farewell  asked  for  siege  engines.  Rokn  ud  din  sent  a  great  catapult, shields  and  many  engines  of  value.  The  princes  of  Amid
 and  Mardin  sent  their  submission  through  envoys.  Next  came
 an  embassy  from  Bagdad.  Nassir,  the  Kalif,  had  died  during
 1225  in  the  forty-sixth  year  of  his  rule,  the  longest  rule  of  any  man
@@ -8522,8 +7071,7 @@ that  title  to  no  ruler,  but  while  investing  him  the  Kalif  gave  the
 title  Shah  in  Shah  (Shah  of  Shahs) .  In  letters  after  that  Jelal
 styled  himself  servant  of  the  Kalif  whom  he  called  lord  and  master.
 
-While  besieging  Khelat  the  Sultan  commanded  to  adorn  Ispa-
-han with  a  college,  and  a  domed  mausoleum  of  rich  structure.
+While  besieging  Khelat  the  Sultan  commanded  to  adorn  Ispahan with  a  college,  and  a  domed  mausoleum  of  rich  structure.
 This  building  was  to  hold  the  sarcophagus  of  his  father  which
 meanwhile  would  rest  on  the  Demavend  mountain  in  Erdehan,
 a  strong  fortress  three  days'  journey  from  Rayi  toward  the  Caspian.
@@ -8531,16 +7079,14 @@ He  requested  by  letter  his  aunt,  Shah  Khatun,  a  widow  of  the
 Mazanderan  prince  named  Ardshir,  to  attend  the  "  great  Sultan's  "
 remains  to  the  fortress.  The  chief  men  of  her  country  and  the
 Moslem  Ulema  were  to  go  with  her.  Mohammed  of  Nessa,  who
-indited  the  letter  with  this  request,  declares  that  he  sent  it  unwil-
-lingly, since  he  knew  well  that  Mohammed's  remains  were  far
+indited  the  letter  with  this  request,  declares  that  he  sent  it  unwillingly, since  he  knew  well  that  Mohammed's  remains  were  far
 safer  on  that  island  in  the  Caspian  than  they  ever  could  be  in  the
 fortress;  for  the  Mongols  burned  the  corpses  of  all  kings  whose
 graves  they  found,  believing  them  of  the  Kwaresmian  dynasty.
 They  dug  up  in  Gur  the  remains  of  Mahmud,  son  of  Sebak  Tegin,
 though  this  prince  had  been  dead  two  whole  centuries.  "  The
 event  failed  not  to  justify  my  fears,"  adds  Mohammed  Nessavi.1
-"  After  Jelal  had  been  slain  the  Mongols  took  the  Erdehan  strong-
-hold and  sent  the  body  of  Mohammed  to  Ogotai  who  burned  it."
+"  After  Jelal  had  been  slain  the  Mongols  took  the  Erdehan  stronghold and  sent  the  body  of  Mohammed  to  Ogotai  who  burned  it."
 
 Before  beginning  the  siege  of  Khelat,  Jelal  sent  an  envoy  from
 Meraga  to  the  Sultan  of  Rum,  Alai  ed  din  Kei  Kubad,  with  a  letter
@@ -8581,10 +7127,8 @@ testified  friendship.  '  The  presents  brought  by  those  envoys,'
 replied  the  vizir,  '  are  not  equal  to  two  thousand  dinars.' '
 
 The  envoys,  accompanied  by  three  others  from  Jelal,  went  home
-little  pleased  with  their  mission.  When  they  arrived  at  the  boun-
-dary of  Rum  the  two  hurried  on  in  advance  to  their  sovereign.  On
-hearing  their  narrative  Kei  Kubad  despatched  one  of  them  straight-
-way to  make  an  alliance  with  Ashraf.
+little  pleased  with  their  mission.  When  they  arrived  at  the  boundary of  Rum  the  two  hurried  on  in  advance  to  their  sovereign.  On
+hearing  their  narrative  Kei  Kubad  despatched  one  of  them  straightway to  make  an  alliance  with  Ashraf.
 
 After  six  months  of  siege  work  Jelal  stormed  Khelat  and  took
 it  April  2,  1230.  He  wished  that  his  men  should  not  pillage  and
@@ -8638,8 +7182,7 @@ appeared  he  went  at  the  head  of  them  to  join  Kei  Kubad  at  Sivas
 whence  they  would  march  with  combined  armies  on  Khelat.
 
 Jelal  had  resolved  to  advance  on  Kharpert,  hoping  to  attack
-the  first  of  the  armies  which  moved  to  join  the  other.  He  sum-
-moned his  troops  to  Kharpert  and  went  thither  himself  in  advance
+the  first  of  the  armies  which  moved  to  join  the  other.  He  summoned his  troops  to  Kharpert  and  went  thither  himself  in  advance
 of  them,  but  falling  ill  at  that  place  he  was  in  such  straits  that  the
 generals  thought  his  life  lost  and  were  ready  the  moment  breath
 left  him  to  rush  off  and  seize  each  man  the  province  that  pleased
@@ -8666,15 +7209,13 @@ Jelal  fled  to  Manazguerd,  and  taking  the  troops  then  besieging
 that  fortress  marched  on  Khelat  winch  he  stripped  of  all  that
 had  value  and  was  movable ;  that  done  he  burned  the  remainder.
 Then,  taking  with  him  the  Georgian  wife  of  Prince  Ashraf  and
-Ashraf's  two  brothers,  Yakub  and  Abbas,  he  moved  into  Azer-
-baijan. The  vizir  with  his  troops  was  posted  in  Sekman  Abad
+Ashraf's  two  brothers,  Yakub  and  Abbas,  he  moved  into  Azerbaijan. The  vizir  with  his  troops  was  posted  in  Sekman  Abad
 to  follow  the  movements  of  the  enemy;  he  himself  hailed  near
 Khoi.      His  generals  had  deserted.
 
 Jelal's  enemies  did  not  pursue.  On  the  contrary  his  vizir  got
 a  letter  from  Ashraf,  who  had  parted  with  Kei  Kubad  after  the
-victory,  and  gone  to  Khelat,  which  he  found  a  sad  ruin  and  de-
-serted. "  Your  master,"  wrote  he  to  Sherif,  "  is  the  Sultan  of
+victory,  and  gone  to  Khelat,  which  he  found  a  sad  ruin  and  deserted. "  Your  master,"  wrote  he  to  Sherif,  "  is  the  Sultan  of
 Moslems,  the  first  rampart  of  Islam  against  Mongol  enemies.
 We  know  that  to  weaken  him  signifies  ruin  to  religion,  that  1  ;  •
 losses  will  affect  every  Moslem.  Why  do  you  with  your  wonderful
@@ -8684,8 +7225,7 @@ my  brother,  the  Sultan  of  Egypt."
 
 These  propositions  were  followed  by  discussion,  and  the  two
 princes  made  peace.  The  Sultan  agreed  to  cease  all  attacks  upon
-Khelat,  but  despite  every  effort  he  would  make  no  promise  re-
-garding Kei  Kubad.  He  could  not  forgive  him  the  alliance  with
+Khelat,  but  despite  every  effort  he  would  make  no  promise  regarding Kei  Kubad.  He  could  not  forgive  him  the  alliance  with
 Ashraf.  He  knew  onlv  later  how  his  vizir  had  offended
 that  prince's  envoys.  But  when  he  learned  that  the  Mongols
 were  entering  Irak  he  swore  to  respect  all  the  lands  of  Kei
@@ -8731,8 +7271,7 @@ toward  the  river  Araxes.  The  Mongols  thought  that  he  had
 crossed  it  and  they  hurried  on  farther  toward  Gandja,  the  capital
 of  Arran,  but  Jelal  had  turned  back  toward  Azerbaidjan  and  sent
 Prince  Yakub  his  prisoner  to  explain  to  Ashraf,  Yakub's  brother,
-the  great  need  of  sending  men  promptly  to  drive  back  the  Mon-
-gols, whose  plan  was  to  crush  down  and  ruin  the  whole  world  of
+the  great  need  of  sending  men  promptly  to  drive  back  the  Mongols, whose  plan  was  to  crush  down  and  ruin  the  whole  world  of
 Islam.
 
 Yakub  was  conducted  to  Sherif  ul  Mulk,  Jelal's  vizir,  who  had
@@ -8746,14 +7285,10 @@ to  the  chief  of  the  Turkmans  of  Arran.  That  done,  Sherif  went
 to  Khizan  and  raised  there  the  banner  of  rebellion.  He  was  angry
 since  the  Sultan,  because  of  Sherif's  immense  outlays,  had  taken
 from  him  command  of  the  taxes,  and  income  of  all  sorts.  Thinking
-Jelal  lost  when  he  had  fled  in  Mugan  and  had  been  almost  cap-
-tured, he  wrote  to  Kei  Kubad  and  Ashraf  declaring  that  if  they
+Jelal  lost  when  he  had  fled  in  Mugan  and  had  been  almost  captured, he  wrote  to  Kei  Kubad  and  Ashraf  declaring  that  if  they
 would  leave  Azerbaidjan  to  him  coupled  with  Arran  he  would
-render  homage  for  both  and  have  the  two  princes'  names  men-
-tioned at  all  publie  worship,     "  Fallen  Tyrant  "  was  the  name
+render  homage  for  both  and  have  the  two  princes'  names  mentioned at  all  publie  worship,     "  Fallen  Tyrant  "  was  the  name
 
-
-166  The  Mongols
 
 given  the  Sultan  in  this  letter.  Many  missives  which  were  similar
 to  this  one  in  part  went  to  governors  to  corrupt  them.  One  of
@@ -8774,12 +7309,10 @@ Sherif  came  with  a  shroud  on  his  neck.  Jelal  had  wine  brought
 to  him,  an  act  not  agreeing  with  etiquette,  since  the  Kwaresmian
 sultans  never  admitted  vizirs  to  their  banquets.  Sherif  thought
 himself  then  at  the  summit  of  favor,  but  soon  he  had  reason  to
-think  otherwise,  for  though  he  followed  the  Sultan  the  latter  as-
-signed him  no  duties.
+think  otherwise,  for  though  he  followed  the  Sultan  the  latter  assigned him  no  duties.
 
 The  bad  condition  of  JelaPs  affairs  affected  the  people  of  the
-two  Caspian  provinces  recently  subjected.  In  Tebriz  the  popula-
-tion, roused  to  anger  by  the  men  who  commanded  in  tin  name  of
+two  Caspian  provinces  recently  subjected.  In  Tebriz  the  population, roused  to  anger  by  the  men  who  commanded  in  tin  name  of
 the  Sultan,  were  ready  to  massacre  all  the  Kwaresmians  and  thus
 win  good  grace  from  the  Mongols.  Revolts  broke  out  in  many
 places  of  Azerbaidjan  and  of  Arran.  Men  in  the  service  of  the
@@ -8805,8 +7338,7 @@ the  Bokhara  suburbs.  Jelal,  lest  his  troops  lose  their  courage
 and  scatter,  had  the  man  killed  at  once.
 
 Then,  fearing  that  the  vizir  might  rush  away  on  a  sudden  and
-rouse  many  men  to  rebellion,  the  Sultan  set  out  for  Jaraper  fol-
-lowed still  by  the  traitor.  He  ordered  then  the  commandant  of
+rouse  many  men  to  rebellion,  the  Sultan  set  out  for  Jaraper  followed still  by  the  traitor.  He  ordered  then  the  commandant  of
 the  Jaraper  fortress,  a  cruel  old  Turkman,  to  arrest  the  vizir  and
 put  him  in  irons  the  moment  that  he,  the  Sultan,  moved  farther.
 This  was  done,  and  soon  after,  the  old  Turkman  sent  six  guards
@@ -8822,11 +7354,9 @@ is  yours,"  replied  Sherif.  "  Do  what  seems  best  to  you.  I  receive
 that  which  comes  to  him  always  who  trusts  the  ungrateful."
 These  were  the  last  words  of  Sherif.    He  was  strangled.
 
-Jelal's  next  move  was  a  quick  march  on  Gandja,  where  the  popu-
-lace had  slain  all  Kwaresmians  in  the  city.  He  pitched  his  camp
+Jelal's  next  move  was  a  quick  march  on  Gandja,  where  the  populace had  slain  all  Kwaresmians  in  the  city.  He  pitched  his  camp
 at  the  wall  and  strove  to  persuade  the  seditious  to  obedience  by
-pleasant  messages  and  mildness;  but  the  crowd  grew  more  in-
-solent and  rushed  forth  to  fall  on  him.  The  Sultan  charged  fiercely.
+pleasant  messages  and  mildness;  but  the  crowd  grew  more  insolent and  rushed  forth  to  fall  on  him.  The  Sultan  charged  fiercely.
 The  populace  fled,  and  returned  through  the  gate  in  disorder.
 The  victors  were  eager  for  plunder,  but  the  Sultan  restrained
 them.  He  wished  above  all  to  discover  the  leaders  of  the  outbreak.
@@ -8847,8 +7377,6 @@ in  Egypt,  as  they  thought,  till  the  whole  Mongol  question  was
 settled  without  him.     Jelal  sent  his  chancellor  then  to  Mozaffer,
 
 
-168  The  Mongols
-
 who  had  received  Khelat  from  Ashraf  his  brother.     He  invited
 this  prince  to  come  with  his  own  troops  and  bring  with  him  also
 the  princes  of  Mardin  and  Amid,  with  their  forces.    He  said  that
@@ -8859,8 +7387,7 @@ country  compared  with  which  Khelat  and  its  lands  were  as  nothing.
 This  was  said  by  Jelal  in  the  presence  of  his  generals,  but  to
 Mohammed  of  Nessa  when  alone  with  him  his  speech  was  as
 follows :     "  I  have  no  faith  in  the  people  to  whom  you  are  going,
-but  these  here,"  meaning  his  Turkman  commanders,  "  are  satis-
-fied only  with  visions,  and  their  highest  desire  is  to  escape  serious
+but  these  here,"  meaning  his  Turkman  commanders,  "  are  satisfied only  with  visions,  and  their  highest  desire  is  to  escape  serious
 fighting.    Thus  have  they  baffled  every  plan  made  by  me.    I  send
 you  now  on  this  mission  knowing  well  that  you  will  bring  back  an
 answer  taking  from  them  all  hope  of  aid."
@@ -8875,8 +7402,7 @@ I  have  given  one  also  to  Kei  Kubad ;  I  know  too  that  your  sovereign
 has  ravaged  Kei  Kubad's  country,  and  that  is  not  what  he  promised
 on  the  day  of  the  oath  taking.  Besides  I  am  not  my  owr.  master;
 I  depend  on  my  brothers,  the  Sultan  of  Egypt,  and  the  ruler  of
-Syria,  I  could  not  help  any  man  unless  those  two  permitted.  More-
-over what  aid  could  my  little  army  give  Jelal,  or  others?  As  to
+Syria,  I  could  not  help  any  man  unless  those  two  permitted.  Moreover what  aid  could  my  little  army  give  Jelal,  or  others?  As  to
 the  princes  of  Mardin  and  Amid,  they  are  not  my  dependents.
 They  are  discussing  with  the  Sultan  touching  aid.  I  know  that,
 I  know  too  that  he  is  trying  them.  He  will  find  soon  that  they  are
@@ -8900,8 +7426,7 @@ Mongols  were  searching  for  the  Sultan,  and  had  passed  by  that
 city.     Jelal  went  to  Hany,  but  finding  there  only  the  women  and
 baggage,  he  set  out  for  Jebal  Jor  without  waiting.     A  Mongol
 escaping  from  punishment  had  come  to  the  Kwaresmians  and
-declared  that  the  Mongols  were  advancing.    The  man  was  a  com-
-mander of  one  thousand  who  would  not  endure  reprimands  from
+declared  that  the  Mongols  were  advancing.    The  man  was  a  commander of  one  thousand  who  would  not  endure  reprimands  from
 superiors,  hence  had  fled  from  them.     Following  the  advice  of
 this  runaway  Jelal  left  his  baggage  at  the  wayside,  and  settled  in
 ambush  near  by  to  fall  on  the  Mongols  while  they  were  pillaging
@@ -8940,8 +7465,6 @@ Amid  prince  to  force  him  from  the  country  at  the  earliest.  But  at
 daybreak    the   Mongols    were    present.    They   surrounded    the
 
 
-170  The  Mongols
-
 Sultan's  pavilion  while  he  was  still  sleeping  off  his  carousal.  One
 general,  Orkhan,  galloped  up  with  his  troops  and  drove  the  enemy
 away.  The  officers  of  Jelal's  own  household  strove  hard  in  this
@@ -8955,8 +7478,7 @@ ordered  Orkhan  to  rush  in  another  direction  with  his  forces,  and
 draw  off  the  enemy.  He  himself  took  the  road  to  Amid  with  one
 hundred  horsemen.  The  gates  of  that  city  were  closed  to  him.
 Persuasion  was  powerless  to  open  them,  hence  he  fled  on  toward
-the  Tigris,  but  soon  turning  aside  he  rushed  back,  and  thus  fol-
-lowed the  counsel  of  Otuz  Khan,  who  declared  that  the  best  way
+the  Tigris,  but  soon  turning  aside  he  rushed  back,  and  thus  followed the  counsel  of  Otuz  Khan,  who  declared  that  the  best  way
 to  flee  from  the  Mongols  was  to  double  back  and  be  behind  them.
 He  reached  a  small  village  in  the  region  of  Mayafarkin  and  stopped
 for  the  night  at  a  granary.  While  he  was  sleeping  Otuz  Khan
@@ -8971,8 +7493,7 @@ reached  the  swift  rider,  but  he  slew  both  of  them.  The  others
 could  not  come  up  with  the  fugitive  whose  horse  beyond  doubt
 was  superior.
 
-Jelal  hurried  on  alone  now,  and  made  his  way  into  the  moun-
-tains. There  he  was  captured  by  Kurds,  whose  work  was  to  strip
+Jelal  hurried  on  alone  now,  and  made  his  way  into  the  mountains. There  he  was  captured  by  Kurds,  whose  work  was  to  strip
 even'  wayfarer  and  slay  him.  They  stripped  the  Sultan  at  once
 and  were  going  to  kill  him  when  he  told  their  chief  secretly  who  he
 was,  asking  the  man  to  conduct  him  to  the  Erbil  prince,  Mozaffer,
@@ -9069,13 +7590,10 @@ people  fled  to  the  mountains,  others  took  refuge  in  the  citadel.
 The  Mongols  set  fire  to  !he  city  and  burned  it.  They  stormed
 Balri,  a  fortified  place  in   the  region  of  Khelat,  and  slaughtered
 
-172
-
 
 Condition  of  Persia  in  1254  173
 
-all  the  inhabitants.     The  large  city  of  Andjish  met  a  similar  de-
-struction.
+all  the  inhabitants.     The  large  city  of  Andjish  met  a  similar  destruction.
 
 A  third  Mongol  force  now  laid  siege  to  Meraga.  This  city
 surrendered  on  condition  that  the  lives  of  all  citizens  be  respected.
@@ -9120,8 +7638,6 @@ Their  leader  fixed  his  camp  near  Tebriz  and  summoned  that  city  to
 surrender.    It  offered  a  large  sum  of  money,  many  fabrics,  wine  and
 
 
-174  The  Mongols
-
 other  products.  The  chief  judge  and  the  mayor  with  the  principal
 people  went  to  the  Mongol  commander,  who  ordered  to  send  out
 to  him  weavers  since  he  wished  to  have  certain  stuffs  made  for  his
@@ -9147,8 +7663,7 @@ Egypt.  With  him  was  Ashraf,  his  brother,  who  had  persuaded
 him  to  make  the  expedition.  The  Eyubite  princes  and  the  Sultan
 of  Rfun  marched  also  with  Kamil.
 
-The  siege  lasted  five  days  altogether.  Prince  Massud,  a  weak-
-ling and  a  man  enamoured  of  pleasure,  surrendered  his  capital
+The  siege  lasted  five  days  altogether.  Prince  Massud,  a  weakling and  a  man  enamoured  of  pleasure,  surrendered  his  capital
 to  Kamil,  who  gave  it  as  an  appanage  (1232)  to  his  faithless  son
 Salih,  who  previously  had  wished  to  dethrone  him.  Massud
 received  certain  lands  lying  in  Egypt;  to  those  lands  he  went
@@ -9168,15 +7683,13 @@ houses,  but  eould  not  take  the  fortress  where  the  inhabitants  had
 
 Condition  of  Persia  in  1254  175
 
-rallied,  and  though  perishing  from  thirst  fought  with  a  mar-
-velous valor.  At  the  end  of  forty  days  the  Mongols  retired
+rallied,  and  though  perishing  from  thirst  fought  with  a  marvelous valor.  At  the  end  of  forty  days  the  Mongols  retired
 on  receipt  of  large  sums  in  gold  from  the  people.
 
 They  ravaged  after  that  the  north  edge  of  Arabian  Irak  as  far
 as  Zenk  Abad  and  Sermenrai,  which  they  pillaged.  The  Kalif
 made  Bagdad  defensible  and  in  1237  in  his  wish  to  rouse  every
-Moslem,  he  asked  the  Ulema :  '  Which  gives  more  merit,  a  pil-
-grimage to  Mecca,  or  a  war  on  the  infidel  ?  "  "  The  holy  war,"
+Moslem,  he  asked  the  Ulema :  '  Which  gives  more  merit,  a  pilgrimage to  Mecca,  or  a  war  on  the  infidel  ?  "  "  The  holy  war,"
 answered  all  as  one  person.  The  war  was  proclaimed  then.
 Great  persons,  men  of  law,  common  people,  all  went  out  daily
 to  learn  the  art  of  wielding  weapons.  The  Kalif  himself
@@ -9204,16 +7717,13 @@ Albania  and  Georgia,  sacking  all  the  best  cities.  Georgia  had  so
 recently  been  plundered  by  Jelal  ud  din  that  unable  to  defend
 themselves  against  the  Mongol  invaders,  the  princes  and  people
 sought  refuge  in  the  mountains.  Queen  Rusudan,  a  woman  famous
-for  her  beauty  and  her  lack  of  virtue,  chose  as  asylum  the  im-
-pregnable fortress  of  Usaneth  in  Imeretia.
+for  her  beauty  and  her  lack  of  virtue,  chose  as  asylum  the  impregnable fortress  of  Usaneth  in  Imeretia.
 
 Chormagun  seized  the  country  between  the  Araxes  and  the
 Cyrus.  One  of  his  generals,  Gadagan,  took  Kedapagu  and
 Varsanashod.  Another  one,  Mular,  seized  Shamkar  and  every
 stronghold  around  it.    Chormagun 's  brother  Jola  took  the  fortress
 
-
-176  The  Mongols
 
 of  Katchen.  Jelal,  the  master  of  the  place,  fled  to  Khok  Castle
 Dear  Kandzassar.  When  summoned  to  surrender  he  gave  the
@@ -9243,8 +7753,7 @@ On  hearing  of  the  dread  destruction  which  had  fallen  upon
 Ani,  and  the  slaughter  of  all  who  had  lived  in  it,  the  inhabitants
 of  Kar^  fearing  the  doom  which,  as  they  thought,  would  meet
 them  unless  they  could  avert  it,  carried  the  keys  of  their  city
-to  the  Mongol  commander.  Notwithstanding  this  voluntary  sub-
-missioD  and  surrender,  a  dreadful  massacre  followed,  for  Chor-
+to  the  Mongol  commander.  Notwithstanding  this  voluntary  submissioD  and  surrender,  a  dreadful  massacre  followed,  for  Chor-
 magUI)  gave  direction  to  put  all  to  the  sword  except  children,
 desirable  women,  and  artisans  of  skill,  who  were  needed  by  the
 Mongols.
@@ -9278,8 +7787,7 @@ the  Seljuks  spread  over  those  conquered  lands  widely.  Most
 places  were  given  them  as  fiefs,  and  the  Christians  of  that  entire
 region  passed  under  the  yoke  of  unsparing  and  insolent  nomads.
 
-The  Sultan  Ghiath  ud  din  Kei  Kosru,  eighth  successor  of  Sulei-
-man the  first  conqueror,  had  ruled  over  Rum  for  five  years  when
+The  Sultan  Ghiath  ud  din  Kei  Kosru,  eighth  successor  of  Suleiman the  first  conqueror,  had  ruled  over  Rum  for  five  years  when
 in  1243  the  Mongols  set  out  to  subject  it.  Chormagun  was  now
 dead  and  Baidju,  who  succeeded  him,  had  come  with  an  army,  in
 which  were  Armenian  and  Georgian  contingents,  to  invest  Erzerum
@@ -9290,8 +7798,7 @@ the  city  was  taken  by  storm,  and  one  day  later  the  citadel  met  with
 a  similar  misfortune.  The  commandant  and  also  his  warriors
 were  put  to  the  sword  without  exception.  Artisans,  workmen,
 desirable  women  and  children  were  spared  to  be  driven  into
-slavery.  When  the  city  had  been  plundered  and  ruined  the  Mon-
-gols withdrew  to  their  winter  camp  on  the  plain  of  Mugan.
+slavery.  When  the  city  had  been  plundered  and  ruined  the  Mongols withdrew  to  their  winter  camp  on  the  plain  of  Mugan.
 
 Mongol  warriors  were  sent  in  1244  toward  Syria.  While  they
 were  approaching  Malattia,  where  news  of  the  sack  of  Cesaraea
@@ -9305,8 +7812,6 @@ Mongols  who  slaughtered  the  old  men  and  women;  the  young
 of  both  sexes  were  spared  and  driven  on  into  slavery.
 
 
-178  The  Mongols
-
 The  Mongols  waited  not  to  lay  siege  to  Malattia,  they  sped
 forward  at  command  of  Noyon  Yassaur  to  Aleppo,  demanded  a
 ransom,  received  it,  and  vanished.  On  his  way  back,  Yassaur
@@ -9317,8 +7822,7 @@ reached  forty  thousand  gold  pieces.  After  receiving  this  ransom
 Yassaur  continued  his  march  toward  the  boundary  of  Persia.
 Yassaur  was  the  Mongol  chief,  probably,  who  in  1244,  toward  the
 end  of  the  summer,  summoned  Bohemond  V.,  Prince  of  Antioch,
-to  level  the  walls  of  his  cities,  send  in  all  the  revenue  of  his  prince-
-dom, and  give  besides  three  thousand  maidens.  The  prince
+to  level  the  walls  of  his  cities,  send  in  all  the  revenue  of  his  princedom, and  give  besides  three  thousand  maidens.  The  prince
 refused,  the  Mongol  commander  refrained  from  attacking,  but
 later  on  the  Antioch  prince  furnished  tribute  to  the  Mongols.
 
@@ -9333,8 +7837,7 @@ ruler  if  compared  with  the  sovereigns  of  Rum,  Syria  and  Egypt.
 "  Go  to  them  first,"  said  lie,  "  I  will  follow  their  exampl
 
 Hayton,  the  king  of  Cilieia,  had  promised  to  bring  to  the  Sultan
-of  Rum  a  whole  corps  of  Armenians;  he  delayed  marching,  how-
-ever, and  awaited  developments.  The  kingdom  of  Rum  was  now
+of  Rum  a  whole  corps  of  Armenians;  he  delayed  marching,  however, and  awaited  developments.  The  kingdom  of  Rum  was  now
 subject  to  Mongols,  and  Hayton  thought  it  well  to  win  Mongol
 favor  if  possible.  On  securing  consent  from  the  chief  men  of  his
 kingdom  he  sent  envoys  in  1244,  during  spring,  with  rich  presents
@@ -9343,8 +7846,7 @@ in  Katchen.who  presented  them  to  Baidju,  toChormagun's  widow,
 and  to  Mongol  commanders.  Baidju  asked  first  that  Hayton
 deliver  the  wife,  daughter  and  mother  of  Kei  Kosru,  who  were
 then  in  ("ilicia.  That  request  made,  he  took  leave  of  the  envoys,
-and  sent  with  them  men  of  his  own  to  their  sovereign.  The  con-
-ditions were  grievous  to  H.-ivton,  but  he  yielded  the  women  to
+and  sent  with  them  men  of  his  own  to  their  sovereign.  The  conditions were  grievous  to  H.-ivton,  but  he  yielded  the  women  to
 Baidju 'a  offi<  i;d>  and  sent  on  new  envoys.  The  Mongol  commander
 satisfied,  and  concluding  an  alliance  with  Hayton,  giving  him
 a  diploma  which  affirmed  his  position  as  vassal  to  the  Grand  Khan.
@@ -9364,8 +7866,7 @@ speedily  to  save  themselves.
 Mongol  dominion  was  extending  continually.  Bedr  ud  din
 Lulu  the  Prince  of  Mosul  declared  in  a  letter  to  the  Prince  of
 Damascus  that  he  had  in  his  own  name  concluded  a  treaty  by  which
-the  inhabitants  of  Syria  would  give  the  Mongols  a  fixed  tribute  ac-
-cording to  wealth  and  ability.  The  tax  of  the  rich  would  amount
+the  inhabitants  of  Syria  would  give  the  Mongols  a  fixed  tribute  according to  wealth  and  ability.  The  tax  of  the  rich  would  amount
 to  ten  dirhems,  medium  men  would  pay  five,  and  poor  people  one
 dirhem.  This  letter  was  published  at  Damascus,  and  officials
 began  to  collect  the  taxes  decreed  by  it.
@@ -9383,11 +7884,9 @@ vain  did  he  send  her  rich  presents,  and  ask  for  an  interview  during
 which  she  and  he  might  arrange,  he  declared,  an  alliance  with
 friendship.  The  queen  would  not  go  from  her  stronghold,  and
 gave  no  better  answer  to  a  message  from  Batu,  who  since  Ogatai's
-death,  in  December,1241,  was  the  first  among  Jinghis  Khan's  grand-
-sons. She  sent  her  son  David,  however,  to  Batu  as  hostage,  and
+death,  in  December,1241,  was  the  first  among  Jinghis  Khan's  grandsons. She  sent  her  son  David,  however,  to  Batu  as  hostage,  and
 pi;-  ed  him  under  that  strong  Khan's  protection.  Baidju,  wrathful
-at  Rusudan 's  stubbornness,  resolved  to  give  Georgia  a  ruler  sub-
-servient to  Mongols.  Rusudan 's  brother,  Lasha,  had  a  son  born
+at  Rusudan 's  stubbornness,  resolved  to  give  Georgia  a  ruler  subservient to  Mongols.  Rusudan 's  brother,  Lasha,  had  a  son  born
 outside  wedlock  whom  the  queen  had  despatched  into  Rum
 when  her  daughter  went  thither  to  marry  Kei  Kosru.  This  son  of
 Lasha,  named  David,  was  detained  for  ten  years  in  Cesaraea.
@@ -9395,8 +7894,6 @@ Freed  now  for  this  special  state  trick,  he  was  brought  to  the  camp
 of  the  Mongols  where  certain  princes  proclaimed  him,  and
 took  the  oath  of  allegiance.      Georgian   troops  and  Armenians
 
-
-180  The  Mongols
 
 went  with  David  to  Mtskhete  the  seat  of  the  Patriarch,  who
 anointed  him,
@@ -9406,8 +7903,7 @@ Rusudan  in  her  fortress  where,  reduced  to  extremities,  she  took
 poison  and  in  dying  recommended  her  son  to  Batu  the  Khan  of
 the  Kipchaks  and  master  at  that  time  in  Russia.
 
-The  young  King  of  Georgia  set  out  to  be  present  at  the  in-
-stallation of  Kuyuk  (124(5).  The  names  given  of  subject  rulers
+The  young  King  of  Georgia  set  out  to  be  present  at  the  installation of  Kuyuk  (124(5).  The  names  given  of  subject  rulers
 present  at  this  great  Kurultai  show  how  far-reaching  was  the
 power  of  the  Mongols:  the  Prince  of  Fars;  the  ruler  of  Kerman ;
 Bedr  ud  din  Lulu,  Prince  of  Mosul;  Yaroslav,  Grand  Prince  of
@@ -9483,15 +7979,12 @@ vizir  and  thus  learn  where  his  treasures  were  hidden;  by  these
 men  he  was  finally  killed.
 
 Meanwhile  it  was  settled  that  Rum  must  go  to  both  brothers.
-All  that  lay  west  of  the  Sivas  was  given  to  Yzz  ud  din,  and  every-
-thing east  of  that  river  fell  to  Rokn  ud  din,  but  the  officials  of
+All  that  lay  west  of  the  Sivas  was  given  to  Yzz  ud  din,  and  everything east  of  that  river  fell  to  Rokn  ud  din,  but  the  officials  of
 the  latter  wished  him  to  have  all  that  Kuyuk  had  first  given  him.
 Yzz  ud  din's  partisans  declared  that  their  sovereign  was  resigned
 to  the  will  of  the  Grand  Khan,  and  would  take  whatever  appanage
 his  brother  might  give  him.    Rokn  ud  din  credited  this  statement
 
-
-182  The  Mongols
 
 and  went  to  a  meeting  place.  He  was  seized  with  his  vizir  and
 taken  to  Konia.  No  harm  was  done  him,  however.  Yzz  ud  din
@@ -9514,11 +8007,9 @@ of  their  master  in  the  presence  of  the  Grand  Khan.  They  forged
 a  letter  from  Yzz  ud  din  to  Tarantai  and  his  colleague,  in  which
 the  Sultan  commanded  to  confide  Alai  ud  din  and  the  presents
 to  the  chancellor  Shems  ud  din  and  the  Emir  Seif  ud  din  Jalish,
-the  bearers  of  the  letters,  who  would  go  with  the  prince  to  Mon-
-golia.   Tarantai  and  his  colleague  were  summoned  to  Konia.
+the  bearers  of  the  letters,  who  would  go  with  the  prince  to  Mongolia.   Tarantai  and  his  colleague  were  summoned  to  Konia.
 
-The  Emir  and  the  chancellor  set  out  with  this  letter  and  over-
-took Alai  ud  din  at  Sarai,  Batu's  capital.  Batu  gave  t  lem  an
+The  Emir  and  the  chancellor  set  out  with  this  letter  and  overtook Alai  ud  din  at  Sarai,  Batu's  capital.  Batu  gave  t  lem  an
 audience  and  to  him  they  explained  how  Yzz  ud  din  had  discovered
 Tarantai's  evil  plotting  and  also  that  of  his  colleague.  On  a  time,
 as  they  said,  Tarantai  had  been  stricken  by  lightning,  hence  should
@@ -9564,8 +8055,7 @@ Baidju  then  took  Rokn  ud  din  out  of  prison  and  installed  him
 as  Sultan  in  all  the  Rum  provinces.  Yzz  ud  din  fled  now  a  second
 time  and  found  refuge  with  the  Byzantine  Emperor  who  was
 visiting  Sardis.  This  emperor,  Theodore  Lascaris,  fearing  Rokn
-ud  din's  partisans,  as  well  as  the  Mongols,  advised  the  fleeing  Sul-
-tan to  return  to  his  kingdom,  Yzz  ud  din  took  the  advice,  and
+ud  din's  partisans,  as  well  as  the  Mongols,  advised  the  fleeing  Sultan to  return  to  his  kingdom,  Yzz  ud  din  took  the  advice,  and
 offered  submission  to  Hulagu,  who  upheld  the  division  of  Rum
 between  the  two  brothers.
 
@@ -9593,8 +8083,7 @@ but  the  death  of  his  queen.  Isabella,  detained  him.  He  set  out  at
 last  in  1254  and,  traveling  in  disguise,  crossed  Asia  Minor.  He
 passed  through  Derbend  to  the  court  of  Batu,  and  to  that  of  Sartak,
 Hutu's  son,  said  then  to  be  a  Christian.  From  Batu's  Horde  he
-spent  five  months  in  reaching  Mangu,  who  received  him  with  dis-
-tinction. Letters  patent  were  given  the  King.  These  were  to
+spent  five  months  in  reaching  Mangu,  who  received  him  with  distinction. Letters  patent  were  given  the  King.  These  were  to
 serve  as  a  safeguard  to  him  and  his  country,  and  as  a  charter  of
 freedom  to  the  church  in  Armenia.  He  remained  fifty  days  at  the
 court,  and  returned  in  1255  to  Cilicia  through  Transoxiana  and
@@ -9638,17 +8127,14 @@ there    was    still    another    misery.      Kwaresmian    bands    ravaged
 
 Condition  of  Persia  in  1254  185
 
-actively  in  Khorassan.  They  killed  all  the  prefects  whom  Chor-
-magun  the  Mongol  general  sent  to  various  places,  and  searched
+actively  in  Khorassan.  They  killed  all  the  prefects  whom  Chormagun  the  Mongol  general  sent  to  various  places,  and  searched
 out  and  slew  Kwaresmians  who  were  faithful  to  Mongols.  These
 bands  were  parts  of  a  corps  of  Kankalis,  ten  thousand  in  number,
 or  thereabouts,  who  occupied  chiefly  the  Tus  and  the  Nishapur
-mountains.  Togan  Sangur  and  Karadja,  two  of  Jelal  ud  din's  lieu-
-tenants, commanded  them.
+mountains.  Togan  Sangur  and  Karadja,  two  of  Jelal  ud  din's  lieutenants, commanded  them.
 
 Chin  Timur  attacked  thrice  these  Kankalis,  but  did  not  master
-or  crush  them.  At  last,  Kelilat,  his  lieutenant,  succeeded  at  Seb-
-zevar,  after  three  days  of  desperate  fighting.  In  this  struggle  he
+or  crush  them.  At  last,  Kelilat,  his  lieutenant,  succeeded  at  Sebzevar,  after  three  days  of  desperate  fighting.  In  this  struggle  he
 lost  two  thousand  warriors.  Karadja  fled  to  the  Sidjistan  country
 to  save  himself,  while  Sangur  sought  refuge  in  the  Kuhistan
 mountains.  Three  thousand  Kankalis  went  to  find  safety  in
@@ -9658,8 +8144,7 @@ mosque  where  the  three  thousand  had  hoped  to  find  safety,  and
 there  every  man  died  at  the  sword  edge.  Of  course  the  attackers
 lost  heavily.
 
-Sair  Bahadur  who  commanded  at  Badghis  had  been  com-
-missioned by  the  Grand  Khan  to  march  against  Karadja  and  take
+Sair  Bahadur  who  commanded  at  Badghis  had  been  commissioned by  the  Grand  Khan  to  march  against  Karadja  and  take
 fire  and  sword  to  all  rebels.  He  was  on  the  road  when  he  heard
 that  Karadja,  defeated  by  Kelilat,  had  shut  himself  up  in  Arak
 Seistan.  Sair  invested  the  place,  but  only  after  two  years  of  hard
@@ -9683,10 +8168,7 @@ served  the  Grand  Khan  directly,  he  was  chosen  as  the  best  man
 for  the  mission.    To  secure  a  good  hearing  he  took  from  those  two
 
 
-186  The  Mongols
-
-great  regions  various  small  princes  who  had  given  their  submis-
-sion.
+great  regions  various  small  princes  who  had  given  their  submission.
 
 Kara  Kurum  now  beheld  for  the  first  time  princes  of  Iran.
 When  Ogotai  heard  of  their  coming  he  was  gratified  greatly.
@@ -9749,8 +8231,7 @@ make  a  census  of  Mazanderan  and  Khorassan.  While  this  task
 was  in  progress  no  man  was  to  trouble  him  for  any  cause.  If
 Kurguz  did  his  work  well  he  would  be  rewarded.
 
-Kurguz  came  back  to  Khorassan  with  this  patent  and  com-
-menced work  witn  vigor.  Nussal,  set  aside  by  this  document,  was
+Kurguz  came  back  to  Khorassan  with  this  patent  and  commenced work  witn  vigor.  Nussal,  set  aside  by  this  document,  was
 old  and  quite  powerless,  but  Kelilat,  his  aid,  being  a  man  of
 capacity  and  keenly  ambitious,  raised  his  voice  in  opposition.
 Kurguz  showed  his  patent :  "  Here  is  the  order  that  no  man
@@ -9758,19 +8239,16 @@ may  trouble  me  in  my  labor."  Kelilat  found  no  answer  on  that
 day.  Kurguz  reorganized  Mazanderan  and  Khorassan,  putting
 down  as  he  did  so  a  whole  army  of  extortioners  and  tyrants.
 
-Meanwhile  Sherif  ud  din,  the  vizir,  and  Kelilat,  who  were  power-
-less against  Ogotai's  patent  and  Kurguz,  with  his  strong  will  and
+Meanwhile  Sherif  ud  din,  the  vizir,  and  Kelilat,  who  were  powerless against  Ogotai's  patent  and  Kurguz,  with  his  strong  will  and
 purpose,  urged  Ongu  to  ask  with  insistence  for  the  place  of  his
 father.  The  vizir,  while  feigning  to  be  the  fast  friend  of  Kurguz,
 was  rousing  up  every  power  possible  against  him.  Swept  away
-by  these  efforts,  Ongu  sent  a  nephew  to  Ogotai  with  false  accusa-
-tions, incriminating  Kurguz.  These  accusations  were  upheld
+by  these  efforts,  Ongu  sent  a  nephew  to  Ogotai  with  false  accusations, incriminating  Kurguz.  These  accusations  were  upheld
 with  activity  by  all  who  were  hostile  to  Chinkai.  Ogotai  now  sent
 Argun  with  two  others  to  investigate  and  report  to  him.  Kurguz,
 on  learning  that  Ongu  had  sent  an  agent  to  Ogotai,  set  out  himself
 to  explain  the  position,  leaving  Behai  ud  din  to  manage  in  his
-absence.  At  Tenakit  he  came  on  the  members  of  Argun's  com-
-mission, who  declared  that  he  must  go  back  to  Tus  with  them.
+absence.  At  Tenakit  he  came  on  the  members  of  Argun's  commission, who  declared  that  he  must  go  back  to  Tus  with  them.
 He  refused.  Thereupon  there  was  violence  and  he  lost  one  tooth
 in  a  personal  encounter.  He  returned,  but  before  starting  he  sent
 a  trusty  friend  in  the  night  time  to  Ogotai,  bearing  one  of  his
@@ -9779,18 +8257,14 @@ garments  which  was  blood  stained.
 When  the  commission  arrived  at  Khorassan  the  commanders
 
 
-188  The  Mongols
-
-of  troops  with  Kelilat,  Ongu  and  Nussal,  expelled  from  the  resi-
-dence of  Kurguz  his  secretaries  and  other  assistants.  Kurguz
+of  troops  with  Kelilat,  Ongu  and  Nussal,  expelled  from  the  residence of  Kurguz  his  secretaries  and  other  assistants.  Kurguz
 himself  wanted  simply  to  hold  the  position  till  his  messenger
 returned  from  Mongolia.  This  man  came  at  last  with  an  order
 to  the  civil  and  military  chiefs  to  state  each  man  his  case  before
 Ogotai,  who  had  been  incensed  by  the  bloody  garment.
 
 Kurguz  communicated  this  order  to  his  enemies,  and  set  out  at
-once  without  waiting  for  their  answers.  Many  persons  of  dis-
-tinction went  with  him.  Kelilat,  Ongu  and  others  followed  quickly
+once  without  waiting  for  their  answers.  Many  persons  of  distinction went  with  him.  Kelilat,  Ongu  and  others  followed  quickly
 and  both  parties  reached  Bukhara  simultaneously.  In  the  time
 of  a  feast  which  was  given  them  by  the  governor,  Kelilat  was
 assassinated.
@@ -9799,8 +8273,7 @@ When  the  opponents  reached  Ogotai's  capital  the  Grand  Khan
 wished  to  dine  in  a  beautiful  tent  which  Ongu  had  just  given  him.
 After  the  meal  he  went  out  for  some  minutes,  intending  to  reenter,
 but  as  soon  as  he  had  left  the  pavilion  a  blast  of  wind  overturned
-it.  The  Grand  Khan,  through  annoyance  and  superstition,  com-
-manded to  rend  the  tent  in  pieces  immediately.
+it.  The  Grand  Khan,  through  annoyance  and  superstition,  commanded to  rend  the  tent  in  pieces  immediately.
 
 Some  days  later  a  tent  was  erected  which  with  its  contents
 Kurguz  had  given  Ogotai.  Inside  were  displayed  curious  things
@@ -9816,8 +8289,7 @@ position  and  substance;  he  himself  had  much  keenness.  On  the
 other,  since  Kclilat's  death,  there  were  only  that  general's  sons,
 who  were  still  little  children,  and  Ongu,  a  young  man  devoid  of
 experience.  But  at  the  end  of  some  months  the  atFair  was  still
-pending.  Ogotai,  wishing  peace  between  the  two  rivals,  cora-
-manded  Ongu  and  Kurguz  to  live  in  one  tent  and  drink  from  the
+pending.  Ogotai,  wishing  peace  between  the  two  rivals,  coramanded  Ongu  and  Kurguz  to  live  in  one  tent  and  drink  from  the
 same  goblet.  Care  had  been  taken  to  remove  even-  weapon.
 Thia  plan  proved  resultless,  and  Chinkai  and  his  aids  gave  in  their
 report  to  the  sovereign.
@@ -9875,13 +8347,10 @@ summoned  promptly  the  chief  men  in  Khorassan  and  Irak,  as
 well  as  the  Mongol  commanders,  and  marked  his  accession  to
 
 
-190  The  Mongols
-
 power  by  a  festival  which  lasted  some  days,  during  which  the
 new  ordinances  were  issued.
 
-He  sent  his  son  with  officials  of  finance  to  take  from  Chor-
-magun's  officers  control  over  districts  in  Azcrbaidjan  and  in
+He  sent  his  son  with  officials  of  finance  to  take  from  Chormagun's  officers  control  over  districts  in  Azcrbaidjan  and  in
 Irak  which  they  were  ruining  by  exactions.  Every  noyon,  every
 officer  acted  with  absolute  power  in  the  region  or  city  where  he
 functioned,  and  seized  for  himself  the  main  income  of  the  treasury.
@@ -9895,14 +8364,12 @@ roads  over  which  he  was  marching.  Kurguz  was  both  feared
 and  respected.  He  raised  Tus  again  from  its  ruins.  On  the  eve
 of  his  coming  there  were  only  fifty  inhabited  houses  within  its
 limits.  When  he  had  chosen  it  as  a  residence  Persian  lords
-came  to  live  in  that  capital  and  within  a  week  land  rose  a  hundred-
-fold as  to  value.
+came  to  live  in  that  capital  and  within  a  week  land  rose  a  hundredfold as  to  value.
 
 Herat  too  reappeared  out  of  ashes  and  fragments.  After  the
 ruin  and  sack  of  that  city  in  1222  its  site  had  been  occupied  by
 very  few  persons,  but  in  1286,  when  Ogotai  commanded  to  raise
-up  Khorassan,  it  was  planned  to  repeople  Herat,  once  so  pros-
-perous. An  Emir,  Yzz  ud  din,  whom  with  one  thousand  imilies
+up  Khorassan,  it  was  planned  to  repeople  Herat,  once  so  prosperous. An  Emir,  Yzz  ud  din,  whom  with  one  thousand  imilies
 Tului  had  transported  to  Bishbalik  from  Herat,  received  now
 command  to  come  back  with  one  tenth  of  his  following.  These
 people  at  first  had  much  difficulty  in  finding  subsistence,  through
@@ -9957,8 +8424,7 @@ regent  in  Mongolia.  Chinkai,  his  protector,  was  gone.  He  had
 fled  from  the  hatred  of  the  regent  which  intrigue  had  roused
 wrongfully  against  him.  To  crown  his  misfortune,  the  governor
 of  Persia  was  penniless,  hence  had  no  power  to  establish  his
-innocence.  He  was  sent  back  at  command  of  the  regent  to  Jaga-
-tai s  sons  to  be  judged  by  them.  He  answered  straightforwardly
+innocence.  He  was  sent  back  at  command  of  the  regent  to  Jagatai s  sons  to  be  judged  by  them.  He  answered  straightforwardly
 all  questions  which  they  put  to  him,  nevertheless,  Kara  Hulagu
 adjudged  death  to  the  governor.  His  mouth  was  crammed  then
 with  earth  and  in  that  way  they  strangled  and  killed  him.
@@ -9969,8 +8435,6 @@ as  he  stated,  from  Mazanderan  and  Khorassan.  This  Sherif,
 destined  to  death  by  Kurguz  very  recently,  was  the  son  of  a  porter
 of  Kwaresm.     He  became  page  to  the  governor  of  the  country,
 
-
-192  The  Mongols
 
 who  chose  him  because  of  his  personal  beauty.  "When  Chin
 Timur  was  commanded  to  enter  Khorassan  and  assist  Chonnagun
@@ -9999,8 +8463,7 @@ to  spare  no  man.  To  extort  from  the  victims  all  that  was
 humanly  possible,  armed  warriors  of  the  garrison  were  <\\.  irtered
 in  houses;  people  were  seized  and  imprisoned,  kept  without  food
 or  even  water,  nay  more,  they  were  tortured.  Moslem  ulemas,
-exempt  from  all  tribute  to  Mongols  and  hitherto  treated  respect-
-fully, came  to  ask  mercy  for  themselves  and  for  others  Widows
+exempt  from  all  tribute  to  Mongols  and  hitherto  treated  respectfully, came  to  ask  mercy  for  themselves  and  for  others  Widows
 and  orphans,  exempt  by  the  laws  of  Jinghis  and  Mohammed,
 came  to  implore  simple  justice.  These  people  were  treated  with
 the  utmost  contempt,  and  were  flouted  by  Sherif's  assistants.  Men
@@ -10027,8 +8490,7 @@ some  months  later  (1244).
 
 Argun  did  what  he  could,  as  it  seems,  to  correct  those  abuses.
 He  remitted  taxes  not  paid  before  Sherif's  death,  and  freed  all
-who  were  in  prison  for  non-payment.  Argun  had  been  sum-
-moned to  the  Kurultai  which  elected  Kuyuk  and  there  an  important
+who  were  in  prison  for  non-payment.  Argun  had  been  summoned to  the  Kurultai  which  elected  Kuyuk  and  there  an  important
 abuse  became  prominent.  Since  Ogotai's  death  the  various  princes
 of  Jinghis  Khan's  family  had  given  to  some  orders  on  the  revenue
 of  districts  in  Persia,  and  given  also  orders  of  exemption  to  others.
@@ -10040,11 +8502,9 @@ continued  Argun  as  the  governor  of  Persia,  and  those  whom  Argun
 favored  obtained  whatever  offices  he  asked  for  them.
 
 On  returning  to  Persia,  Argun  was  received  in  Merv  splendidly.
-But  he  saw  very  soon  that  powerful  opponents  at  court  were  in-
-triguing against  him,  hence  he  set  out  again  for  Mongolia.  While
+But  he  saw  very  soon  that  powerful  opponents  at  court  were  intriguing against  him,  hence  he  set  out  again  for  Mongolia.  While
 on  the  road  he  learned  of  Kuyuk's  death  and  turned  back  to  make
-barracks  for  troops  sent  by  that  Grand  Khan  to  reduce  popula-
-tions not  subject  as  yet  to  the  Mongols.  Now  arrived  also  agents
+barracks  for  troops  sent  by  that  Grand  Khan  to  reduce  populations not  subject  as  yet  to  the  Mongols.  Now  arrived  also  agents
 of  various  princes  with  orders  on  the  revenues  for  years  in  advance
 of  collection.  This  abuse,  which  was  ruinous,  endured  till  the
 interregnum  was  ended.
@@ -10053,8 +8513,7 @@ Argun  reached  the  court  only  after  the  election  of  Mangu  in
 July,  1251.  He  complained  of  those  orders  on  the  income  and  he
 coudemned  the  great  hordes  of  officials  who  went  to  collect  them.
 These  people  lived  on  the  country,  he  said,  and  they  ruined  it.  It
-was  decided  at  last  that  each  man  in  Persia  should  pay  in  propor-
-tion to  his  property.  This  tax  was  varied  from  one  to  ten  dinars,
+was  decided  at  last  that  each  man  in  Persia  should  pay  in  proportion to  his  property.  This  tax  was  varied  from  one  to  ten  dinars,
 and  was  to  maintain  the  militia  and  post  routes;  also  envoys  of
 the  Grand  Khan.    Nothing  more  would  be  asked  of  the  people.
 
@@ -10062,8 +8521,6 @@ Argun  retained  his  high  office  of  governor,  Persia  was  divided
 into  four  parts;  in  each  was  a  lieutenant  under  Argun.  Evil
 doers  were  punished,  at  least  for  a  season,  and  here  is  a  striking
 
-
-194  The  Mongols
 
 example  of  this  justice:  Hindudjak,  a  general  and  chief  of  ten
 thousand,  who  had  taken  life  from  a  melik  of  Rum  without  reason,
@@ -10081,8 +8538,7 @@ stronghold  by  his  brother,  Omar  Mergani,  the  all-powerful  vizir
 of  Ghiath  ud  din  of  the  Gur  line  of  princes.  AVhen  Osman  died
 Abu  Bekr  succeeded  him.  Abu  Bekr  married  a  daughter  of
 Ghiath  ud  din;  from  this  union  came  Melik  Shems  ud  dm  Mo
-hammed,  who  in  1245  lost  his  father  and  inherited  the  Gur  king-
-dom. He  went  to  the  Kurultai  and  arrived  on  the  day  of  election.
+hammed,  who  in  1245  lost  his  father  and  inherited  the  Gur  kingdom. He  went  to  the  Kurultai  and  arrived  on  the  day  of  election.
 He  was  presented  by  Mangu 's  officials,  who  informed  the  Grand
 Khan  of  the  merits  of  the  father  and  grandfather  of  the  man  then
 before  him,  not  forgetting,  of  course,  Shems  ud  din's  own  high
@@ -10128,8 +8584,7 @@ Mongolia  this  young  prince  heard  of  the  death  of  his  father,  and
 the  usurpation  of  power  by  Kutb  ud  din  his  own  cousin.  He
 continued  the  journey,  however,  and  was  received  well  by  Ogotai,
 who,  to  reward  him  for  coming  so  far  to  look  on  the  face  of  the
-Grand  Khan,  gave  him  Kerman  which  he  was  to  hold  in  his  char-
-acter of  vassal  with  the  title  and  name  of  his  father, Kutlug  Sultan.
+Grand  Khan,  gave  him  Kerman  which  he  was  to  hold  in  his  character of  vassal  with  the  title  and  name  of  his  father, Kutlug  Sultan.
 
 Kutb  ud  din  now  received  a  summons  to  appear  at  the  court  in
 Mongolia.  Shortlv  after  his  arrival  he  was  sent  to  China
@@ -10140,8 +8595,7 @@ minister,  was  the  firm  friend  of  his  rival,  and  he  himself
 was  commanded  to  go  back  to  Yelvadji.  Soon  after,  he  went
 with  this  governor  from  China  to  the  new  Kurultai,  which  chose
 Mangu  from  whom,  and  with  the  aid  of  Yelvadji,  he  obtained  the
-throne  of  Kerman.  When  Kutb  ud  din  was  approaching  Ker-
-man, Rokn  ud  din  was  departing  with  treasures  to  Lur  where  he
+throne  of  Kerman.  When  Kutb  ud  din  was  approaching  Kerman, Rokn  ud  din  was  departing  with  treasures  to  Lur  where  he
 asked  an  asylum  from  the  Kalif .  The  Kalif,  not  wishing  to  anger
 the  Mongols,  refused  it,  and  now  Rokn  ud  din  resolved  to  repair
 to  the  court  of  Mangu  to  find  justice.
@@ -10159,9 +8613,6 @@ him  at  Jend  to  show  homage  and  honor.
 This  was  the  position  in  Persia  in  1254  when  Hulagu  went  to
 that  country  to  conquer,  to  slaughter,  and  to  regulate.  His  very
 first  task  was  to  root  out  and  destroy  the  Ismailians  who  had  formed
-
-
-196
 
 
 The  Mongols
@@ -10205,23 +8656,16 @@ of  Muavia,  the  governor  of  Syria,  as  a  Kalif  to  overthrow  Aly,
 whom  many  Mohammedans  would  not  acknowledge.  The  father
 of  Muavia  had  been  one  of  the  most  bitter  enemies  of  the  Prophet.
 This  hatred  was  shared  fully  by  the  son,  who  left  nothing  undone
-to  rouse  Syria  to  the  utmost  against  Aly ;  he  even  had  the  blood-
-stained clothes  of  Othman  exhibited  in  the  principal  mosque  of
+to  rouse  Syria  to  the  utmost  against  Aly ;  he  even  had  the  bloodstained clothes  of  Othman  exhibited  in  the  principal  mosque  of
 Damascus.  A  fierce  but  drawn  battle  at  Siffin  between  these  two
 Kalifs  was  fruitless;  an  arbitration  as  to  who  should  be  Kalif
 settled  nothing  and  pacified  no  man.
 
-Next  came  the  winning  of  Egypt  by  Muavia  as  the  first  Om-
-mayad  Kalif.    There  were  two  Kalifs  now  ruling  de  facto  in  Islam,
+Next  came  the  winning  of  Egypt  by  Muavia  as  the  first  Ommayad  Kalif.    There  were  two  Kalifs  now  ruling  de  facto  in  Islam,
 
-197
-
-
-198  The  Mongols
 
 Muavia  at  Damascus,  and  Aly  at  Kufa.  In  661  Aly  fell  by  the
-hand  of  an  assassin.  Aly's  son,  Hassan,  succeeded  him,  but  re-
-signed after  six  months  of  rule,  and  retired  to  Medina  where  one
+hand  of  an  assassin.  Aly's  son,  Hassan,  succeeded  him,  but  resigned after  six  months  of  rule,  and  retired  to  Medina  where  one
 of  his  many  wives  poisoned  him,  incited,  as  partisans  of  Aly
 insisted,  by  Muavia.    Muavia  was  now  the  sole  Kalif  of  Islam.
 
@@ -10250,8 +8694,7 @@ These  deputations  all  named  Yezid  as  heir  of  the  Kalif  and
 chose  him.  They  gave  then  an  oath  of  allegiance  and  homage.
 Arabian  Irak  and  Syria  also  joined  in  this  oath.
 
-Muavia  went  next  to  the  two  holy  cities  as  it  were  on  a  pil-
-grimage, but  his  great  ruling  purpose  was  to  win  or  to  force  the
+Muavia  went  next  to  the  two  holy  cities  as  it  were  on  a  pilgrimage, but  his  great  ruling  purpose  was  to  win  or  to  force  the
 consent  of  Medina  and  Mecca  to  the  recent  election.  The  chief
 dissentients  in  Medina  were  Hussein,  son  of  Aly.  Abd  al  Rahman,
 son  of  Abu  I3ekr  and  both  Abdallahs,  sons  of  Omar  and  Zobeir.
@@ -10260,8 +8703,7 @@ immediately  for  Mecca.  The  rest  of  the  people  accepted  Yezid
 ami  gave  him  the  oath  without  waiting.  Muavia  went  on  then  to
 M.  oca,  where  he  !>i>rc  himself  mildly  toward  all  men,  but  near  the
 end  of  his  visit  he  spoke  to  the  city  concerning  an  heir  to  the  Kalifat.
-It  was  answered  that  the  election  of  an  heir  was  opposed  to  prece-
-dent but  Mecca  men  offered  to  accept  any  one  of  three  methods :
+It  was  answered  that  the  election  of  an  heir  was  opposed  to  precedent but  Mecca  men  offered  to  accept  any  one  of  three  methods :
 
 
 The  Assassin  Commonwealth  199
@@ -10299,8 +8741,7 @@ Abbasids.
 Muavia  died  in  680.  Yezid,  who  succeeded,  made  those  first  of
 all  take  the  oath  to  him  who  had  refused  it  at  Medina.  The  sons
 of  Omar  and  Abbas  gave  this  oath  straightway,  but  Hussein,  son
-of  Aly,  and  the  son  of  Zobeir  went  to  Mecca  asking  time  to  con-
-sider. No  one  had  dared  to  attack  that  holy  city  since  its  capture
+of  Aly,  and  the  son  of  Zobeir  went  to  Mecca  asking  time  to  consider. No  one  had  dared  to  attack  that  holy  city  since  its  capture
 by  Mohammed,  and  there  in  full  safety  every  plotter  could  work
 out  his  plan  against  the  Kalif  or  others.
 
@@ -10314,11 +8755,8 @@ urged  him  on  always.  Hussein  yielded  at  last  and  set  out  for
 Kufa.    Muslim,  his  cousin,  had  been  sent  ahead  to  prepare  for
 
 
-200  The  Mongols
-
 his  coming.  This  move  became  known  at  Damascus,  so  Yezid
-summoned  hastily  to  Kufa  Obeidallah,  then  governing  in  Bus-
-sorah  with  unpitying  severity.  On  arriving  he  sought  and  found
+summoned  hastily  to  Kufa  Obeidallah,  then  governing  in  Bussorah  with  unpitying  severity.  On  arriving  he  sought  and  found
 Muslim,  who  was  lodging  with  Hani,  an  adherent  of  the  Alyite
 
 family.
@@ -10333,8 +8771,7 @@ Toward  the  end  of  680  Hussein  rode  out  of  Mecca  with  his
 family  and  a  small  band  of  followers,  all  kinsmen.  When  the
 desert  was  crossed,  and  he  was  advancing  on  Kufa,  news  came  to
 him  that  Muslim's  life  had  been  taken.  He  might  have  turned  back
-then  to  Mecca,  but  Muslim's  kinsmen  were  clamorous  for  ven-
-geance. Besides  there  remained  the  wild  hope  that  those  v
+then  to  Mecca,  but  Muslim's  kinsmen  were  clamorous  for  vengeance. Besides  there  remained  the  wild  hope  that  those  v
 had  invited  him  might  rally  at  last;  but  each  man  whom  he  met
 gave  darker  tidings.
 
@@ -10343,8 +8780,7 @@ words  to  offer :    "  The  heart  of  the  city  is  on  thy  side,  but  its
 
 is  against  thee."
 
-The  Bcduins,  ever  ready  for  warfare,  had  been  coming  to  Hus-
-sein, but  when  they  saw  his  <ause  weakening  they  fell  away  paddy,
+The  Bcduins,  ever  ready  for  warfare,  had  been  coming  to  Hussein, but  when  they  saw  his  <ause  weakening  they  fell  away  paddy,
 and  no  one  was  left  except  the  original  party.  A  chance  chieftain
 passing  southward  advised  him  to  turn  to  the  Sclma  hills  and  to
 Aja.  "  In  ten  days,"  said  the  man,  "  the  Beni  Tay  and  twenty
@@ -10382,8 +8818,7 @@ tight  against  enemies  of  Islam."
 Obeidallah  insisted  on  absolute  surrender,  and  directed  that
 Amr  stop  every  approach  to  the  river,  thus  taking  water  from  the
 party.  Hussein,  fearing  death  less  than  the  governor  of  Kufa
-adhered  to  his  conditions.  He  even  brought  Amr  to  ur^e  Obeidal-
-lah to  lead  him  to  the  Kalif.  Instead  of  agreeing,  Obeidallah  sent
+adhered  to  his  conditions.  He  even  brought  Amr  to  ur^e  Obeidallah to  lead  him  to  the  Kalif.  Instead  of  agreeing,  Obeidallah  sent
 a  certain  Shamir  to  urge  action.  "  Hussein,"  said  he,  "  we  must
 have  dead  or  living  in  Kufa  immediately;  if  Amr  loiters,  Shamir
 must  depose  him."
@@ -10418,16 +8853,12 @@ cried  to  him :     "  Gently,  that  is  the  grandson  of  the  Prophet.
 By  the  Lord  I  have  seen  those  lips  kissed  by  the  blessed  mouth  of
 
 
-202  The  Mongols
-
 Mohammed."  Hussein's  sister,  his  two  little  sons,  Aly  Ashgar  and
 Air,  with  two  daughters,  sole  descendants  of  Hussein,  were  treated
 with  seeming  respect  by  the  governor,  and  sent  with  llie  head  of
 their  father  to  the  Kalif.  Yezid  disowned  every  share  in  the
-tragedy.  Hussein's  family  were  lodged  in  the  Kalif's  own  resi-
-dent- at  Damascus  for  a  time,  and  then  sent  with  honor  to  Medina,
-where  their  coming  caused  a  great  outburst  of  grief  and  lamenta-
-tion. Many  objects  in  that  city  made  the  day  of  Kerbala  seem
+tragedy.  Hussein's  family  were  lodged  in  the  Kalif's  own  resident- at  Damascus  for  a  time,  and  then  sent  with  honor  to  Medina,
+where  their  coming  caused  a  great  outburst  of  grief  and  lamentation. Many  objects  in  that  city  made  the  day  of  Kerbala  seem
 dreadful.  The  deserted  houses  in  which  had  dwelt  those  kinsmen
 of  Mohammed  who  had  fallen;  the  orphaned  lilile  children,  and
 the  widows,  gave  great  reality  to  every  word  uttered.  The  story
@@ -10451,16 +8882,14 @@ kinsmen  of  Muavia,  that  same  tale  affected  the  Abbasids  and
 made  it  possible  to  raise  up  against  them  a  nation  in  Persia  and
 a  dynasty  in  Egypt.  So  strong  were  men's  feelings  on  this  point  in
 Islam  and  so  many  the  people  who  favored  the  descendants  of  Aly
-that  Mamun,  the  son  of  Harun  al  Rashid,  made  an  effort  to  con-
-solidate the  Alyite  and  Abbasid  families.  Moreover  the  teaching
+that  Mamun,  the  son  of  Harun  al  Rashid,  made  an  effort  to  consolidate the  Alyite  and  Abbasid  families.  Moreover  the  teaching
 of  Persian  adherents  of  Aly  had  such  influence  that  they  eaptured
 this  Kalif  intellectually.
 
 In  Mamun's  day  the  Moslem  world  became  greatly  imbued  with
 ideas  from  IVr-da  and  India,  and  with  fireek  theories  and  learning.
 The  Koran  was  treated  as  never  before  till  that  period.  Opinions
-ami  systems  of  all  sorts  were  brought  into  Islam.  A  time  of  tre-
-mendous disturbance  succeeded   ;i>  the  fruit,  or  result,  of  these
+ami  systems  of  all  sorts  were  brought  into  Islam.  A  time  of  tremendous disturbance  succeeded   ;i>  the  fruit,  or  result,  of  these
 
 
 The  Assassin  Commonwealth  203
@@ -10493,8 +8922,7 @@ deceiver  fell  now  to  the  Turk  general,  Afshin.
 Babek  had  defeated  six  famous  generals  of  Islam  and  slain,  as
 some  state,  a  million  of  people  during  twenty  years  of  rebellion.
 One  of  his  ten  executioners  declared  that  he  alone  had  taken  the
-lives  of  twenty  thousand  men;  so  merciless  was  the  struggle  be-
-tween the  partisans  of  the  Kalif  at  and  the  advocates  of  freedom
+lives  of  twenty  thousand  men;  so  merciless  was  the  struggle  between the  partisans  of  the  Kalif  at  and  the  advocates  of  freedom
 and  equality.
 
 The  prisoner  was  brought  by  his  captor  to  Samira  in  chains  and
@@ -10506,11 +8934,8 @@ at  last  to  the  palace  where  Motassim,  surrounded  by  his  warriors,
 commanded  Babek's  own  executioner  to  cut  off  the  arms  and  legs
 of  his  master,  and  then  plunge  a  knife  into  his  body.  The
 executioner  obeyed,  Babek  meanwhile  smiling  as  if  to  prove
-his  own  character,  and  the  correctness  of  his  surname,  "  Khur-
-remi  "  (The    Joyous).    The  severed  head  was  exhibited   in  the
+his  own  character,  and  the  correctness  of  his  surname,  "  Khurremi  "  (The    Joyous).    The  severed  head  was  exhibited   in  the
 
-
-204  The  Mongols
 
 cities  of  Khorassan,  and  the  body  impaled  near  the  palace  of
 the  Kalif.
@@ -10524,23 +8949,19 @@ to  overturn  Arab  rule  in  his  country  and  reestablish  the  ancient
 faith  and  Empire  of  Persia.  This  involved  complete  change  in  the
 structure  of  Islam,  and  all  its  present  ideals.  He  could  not  declare
 open  war  against  the  accepted  religion  and  dynasty,  since  all  the
-military  power  was  at  their  command;  hence  he  decided  to  under-
-mine them  in  secret.
+military  power  was  at  their  command;  hence  he  decided  to  undermine them  in  secret.
 
 From  Ahwas  he  went  to  Bussorah  and  later  to  Syria  where  he
 settled  at  Salemiya,  whence  his  teachings  were  spread  by  Ahmed,
 his  son,  by  two  sons  of  that  Ahmed,  and  also  by  his  Dayis,  men  who
 performed  each  of  them  all  the  various  duties  of  spy,  secret  ag«  'it,
 and  apostle.  The  most  active  of  those  Dayis  was  Hussein  of
-Ahwas,  who,  in  the  province  of  which  Kufa  was  the  capital,  in-
-structed many  agents  in  the  secrets  of  revolt  and  in  perversion  of
+Ahwas,  who,  in  the  province  of  which  Kufa  was  the  capital,  instructed many  agents  in  the  secrets  of  revolt  and  in  perversion  of
 the  teachings  of  Islam.  Among  these  agents  the  most  noted  was
 one  famous  later  as  Karmath.  This  man  delayed  not  in  showing
-his  character  and  principles  "  through  torrents  of  blood,  and  de-
-struction of  cities."     Crowds  of  men  rallied  to  his  war  cry.
+his  character  and  principles  "  through  torrents  of  blood,  and  destruction of  cities."     Crowds  of  men  rallied  to  his  war  cry.
 
-The  Karmathites  declared  that  nothing  was  forbidden,  every-
-thing was  a  matter  of  indifference,  justified  by  the  fact  of  its  exist-
+The  Karmathites  declared  that  nothing  was  forbidden,  everything was  a  matter  of  indifference,  justified  by  the  fact  of  its  exist-
 ence, hence  should  receive  neither  punishment  nor  reward.  The
 commands  of  Mohammed  were  pronounced  parables  disguising
 political  maxims  and  injunctions.  They  differed  from  Abdallah's
@@ -10561,8 +8982,7 @@ valuable  and  they  could  bear  it  away  with  them.    They  attacked
 The  Assassin  Commonwealth  205
 
 the  holy  city  of  Mecca  and  captured  it  through  desperate  fighting.
-More  than  thirty  thousand  true  Moslems  were  slain  while  defend-
-ing the  temple.  The  sacred  well,  Zemzem,  was  polluted  by
+More  than  thirty  thousand  true  Moslems  were  slain  while  defending the  temple.  The  sacred  well,  Zemzem,  was  polluted  by
 corpses  hurled  into  it  by  people  to  whom  nothing  whatever  was
 sacred.  The  temple  was  fired,  and  the  black,  holy  stone  of  the
 Kaaba,  which  in  Abraham's  day  had  come  down  from  heaven
@@ -10574,8 +8994,7 @@ and  torturing  most  parts  of  Islam,  was  extinguished  in  bloodshed.
 The  career  of  the  Karmathites  proved  the  wickedness  and  folly  of
 their  method.    Its  turn  came  now  to  the  system  of  Abdallah.
 
-Ismailian  teaching  had  spread  through  the  Empire  of  Mo-
-hammed and  reached  even  Southern  Arabia.  About  892  a  certain
+Ismailian  teaching  had  spread  through  the  Empire  of  Mohammed and  reached  even  Southern  Arabia.  About  892  a  certain
 Mohammed  Alhabib,  who  claimed  his  descent  from  Ismail,  son
 of  Jaffar  es  Sadik,  sent  one  Abu  Abdallah  to  the  north  coast  of
 Africa.  Abu  Abdallah  impressed  the  Berber  tribes  greatly,  and
@@ -10605,13 +9024,9 @@ the  daughter  of  the  Prophet  (Mohammed).
 *  The  Victorious.
 
 
-206  The  Mongols
-
-In  !)!)1  Aleppo  was  added  to  the  Fa  timid  Empire  which,  be-
-ginning at  the  river  Orontes  and  the  desert  of  Syria,  extended  to
+In  !)!)1  Aleppo  was  added  to  the  Fa  timid  Empire  which,  beginning at  the  river  Orontes  and  the  desert  of  Syria,  extended  to
 Morocco.  In  view  of  this  great  success  and  its  danger  to  the
-Abbasids  the  world  was  informed  now  from  Bagdad  that  the  Fati-
-mid dynasty  was  spurious;  that  the  first  kalif  installed  at  Mahdiya
+Abbasids  the  world  was  informed  now  from  Bagdad  that  the  Fatimid dynasty  was  spurious;  that  the  first  kalif  installed  at  Mahdiya
 was  ao  descendant  of  the  Prophet,  he  was  merely  the  son  of  that
 Ahmed  who  was  a  son  of  Abdallah,  son  of  Maiimm  Kaddah,  son
 of  Daisaii  the  Dualist,  his  mother  being  a  Jewess.  Hence  he  was
@@ -10621,8 +9036,7 @@ the  crimes  of  whose  followers,  had  tortured  all  Islam  for  a  century.
 
 That  society,  or  order,  which  met  at  the  famed  Souse  of  Sciem
 in  Cairo,  was  dreaming  of  power  night  and  day  and  struggling
-always  to  win  it.  Power  it  could  reach  by  supplanting  the  Ab-
-basids, but  not  in  another  way,  hence  this  order  aimed  at  the
+always  to  win  it.  Power  it  could  reach  by  supplanting  the  Abbasids, but  not  in  another  way,  hence  this  order  aimed  at  the
 overthrow  of  the  Abbasids.  It  also  spread  secret  doctrines  by  its
 Dayis  (political  and  religious  missionaries)  continually.  Through
 this  activity  the  Fatimids  were  rising.  Meanwhile  the  Abbasids
@@ -10637,8 +9051,7 @@ labors.
 
 One  of  these  Dayis,  Hassan  Ben  Sabah,  founded  a  sect,  the
 Eastern  Ismailites,  renowned  later  as  the  Ass assins.  This  Hassan
-was  son  of  Ali.  a  Shiite  of  the  old  city  Ravi,  who  claimed  that  hi-
-father,  Sabah  Ilomairi,  had  gone  from  Kufa  to  Kum  and  later  to
+was  son  of  Ali.  a  Shiite  of  the  old  city  Ravi,  who  claimed  that  hifather,  Sabah  Ilomairi,  had  gone  from  Kufa  to  Kum  and  later  to
 Ravi.      People    from    Tub  in    Khorassan,  and  others  insisted   that
 
 hi-  ancestors  had  passed  :i!l  their  lives  in  Khorassan.   Ali.  suspected
@@ -10668,13 +9081,11 @@ Nishapur  school  he  bound  both  his  classmates  by  a  promise.
 Nizam  ul  Mulk  himself  tells  the  story :  "  '  Men  believe,'  remarked
 Hassan  one  day  to  us,  '  that  the  pupils  of  our  master  are  sure  to
 be  fortunate;  let  us  promise  that  should  success  visit  one  of  us
-only,  that  favored  one  will  share  with  the  other  two.'  We  prom-
-ised." Years  later  when  Nizam  ul  Mulk  was  grand  vizir  to  Alp
+only,  that  favored  one  will  share  with  the  other  two.'  We  promised." Years  later  when  Nizam  ul  Mulk  was  grand  vizir  to  Alp
 Arslan,  Sultan  of  the  Seljuks,  he  showed  Omar  Khayyam  sincere
 honor  and  friendship,  and  offered  him  the  dignity  of  second  vizir,
 which  the  poet  rejected,  but  at  his  request  the  vizir  gave  him
-one  thousand  gold  pieces  each  year  instead  of  the  office.  Thence-
-forward Omar  Khayyam  was  enabled  to  follow  his  bent  and  do
+one  thousand  gold  pieces  each  year  instead  of  the  office.  Thenceforward Omar  Khayyam  was  enabled  to  follow  his  bent  and  do
 great  work,  as  astronomer  and  poet.
 
 Hassan  Ben  Sabah  lived  on  in  obscurity  till  the  death  of  Alp
@@ -10702,8 +9113,6 @@ of  the  Empire.  Nizam  ul  Mulk  needed  ten  times  that  period  for
 the  labor.
 
 
-208  The  Mongols
-
 Melik  Shah  gave  all  the  men  called  for  by  Hassan,  and  with
 their  aid  the  work  was  accomplished.  But  to  defeat  the  vizir
 was  not  easy;  Nizam  ul  Mulk  had  abstracted  certain  pages,
@@ -10717,14 +9126,12 @@ intimate  adherent.
 One  day  in  1078,  when  complaining  of  Nizam  ul  Mulk  and  the
 Sultan,  Hassan  added :  "  Had  I  but  two  friends  of  unbending
 fidelity  I  would  soon  end  this  rule  of  the  Turk  and  the  peasant
-Sultan  and  vizir)."  These  words  describe  Hassan's  forecast  com-
-pletely, and  show  the  germ  of  the  Assassin  creation,  which  wa>  i  ld-
+Sultan  and  vizir)."  These  words  describe  Hassan's  forecast  completely, and  show  the  germ  of  the  Assassin  creation,  which  wa>  i  ld-
 blooded  murder,  carefully  pondered,  thought  out  with  slowness,  but
 executed  on  a  sudden.  Abu  Fazl  could  not  credit  that  statement,
 and  thought  Hassan  demented.  To  restore  his  mental  balance  he
 placed  on  the  table  before  him  meat  and  drink  mixed  with  saffron
-which  was  believed  at  that  time  in  Persia  to  be  a  mind  strengthen-
-ing herb.  Hassan  noted  his  meaning  immediately,  was  angry,
+which  was  believed  at  that  time  in  Persia  to  be  a  mind  strengthening herb.  Hassan  noted  his  meaning  immediately,  was  angry,
 and  would  not  remain  longer.  Abu  Fazl  did  what  was  possible
 to  <li  tain  the  apostle  of  murder,  but  every  effort  <>n  his  part
 was   fruitless;  Hassan  left  Ispahan  quickly  for  Egypt.
@@ -10743,8 +9150,7 @@ while  through  ministers  and  dignitaries  he  was  loaded  with  favors
 until  a  great  quarrel  broke  out  on  a  sudden  in  Egypl
 
 Alostanair  had  declared  his  son,  Nesar,  as  his  successor,  and
-heir  to  the  Kali  fat ;  thereupon  rose  a  faction.  The  commander-
-in-chief  of  the  war  forces  was  at  the  head  of  it.  He  insisted  that
+heir  to  the  Kali  fat ;  thereupon  rose  a  faction.  The  commanderin-chief  of  the  war  forces  was  at  the  head  of  it.  He  insisted  that
 Mosteali,  another  son   of   Mostansir,  was  the  only  one  fitted   for
 
 
@@ -10762,10 +9168,8 @@ he  was  not  alarmed  he  answered :  '"  Our  Lord  has  promised  that
 no  harm  shall  meet  me."  The  sea  became  calm  soon  after.  All
 on  board  turned  then  to  Hassan,  accepted  his  teaching  and
 became  devoted  and  faithful  disciples.  As  the  voyage  continued  a
-contrary  wind  drove  the  vessel  to  Syria  where  the  apostle  de-
-barked and  went  to  Aleppo.  Thence  he  traveled  farther,  to
-Bagdad,  Isaphan,  Yezd,  Kerman  and  many  other  places,  publish-
-ing his  doctrines  with  the  greatest  industry.
+contrary  wind  drove  the  vessel  to  Syria  where  the  apostle  debarked and  went  to  Aleppo.  Thence  he  traveled  farther,  to
+Bagdad,  Isaphan,  Yezd,  Kerman  and  many  other  places,  publishing his  doctrines  with  the  greatest  industry.
 
 In  Damegan  Hassan  spent  three  years,  and  made  numerous
 converts.  Rayi  he  could  not  visit  since  Nizam  ul  Mulk  had
@@ -10776,8 +9180,7 @@ now  through  Sari,  Demavend,  Kazvin  and  Dilem  and  halted  at
 last  at  Alamut.
 
 Hussein  Kaini,  one  of  Hassan's  devoted  and  skilful  Dayis,  had
-been  sent  some  time  before  to  Alamut  to  secure  an  oath  of  al-
-legiance and  fidelity  to  Kalif  Mostansir,  Most  of  the  inhabitants
+been  sent  some  time  before  to  Alamut  to  secure  an  oath  of  allegiance and  fidelity  to  Kalif  Mostansir,  Most  of  the  inhabitants
 had  already  given  the  usual  oath,  but  the  commandant,  Ali  Mehdi,
 who  held  the  fortress  in  the  name  of  Melik  Shah,  refused,  declaring
 that  he  would  acknowledge  the  spiritual  dominion  of  no  one  save
@@ -10792,8 +9195,6 @@ Kirdkuh,  instructing  him  to  pay  Mehdi  three  thousand  ducats.
 Mehdi,  knowing  well  the  confidence  placed  in  Mosaffer  by  the
 Seljuk  Sultan,  was  amazed  when  the  three  thousand  ducats  were
 
-
-210  The  Mongols
 
 paid  to  him.  Ho  learned  then  that  Mosaffer  was  a  devoted
 follower  of  Hassan  Ben  Sabah,  and  one  of  his  earliest  adherents.
@@ -10823,8 +9224,7 @@ Hassan  Sabah  with  all  his  followers.
 
 Though  Hassan  had  only  seventy  men,  and  not  much  food
 to  give  them,  he  defended  the  fortress  with  great  courage  till
-Abu  All,  his  Dayi,  hastened  up  in  the  night  time  with  three  hun-
-dred men.  These,  with  the  seventy  of  the  garrison,  attacked  the
+Abu  All,  his  Dayi,  hastened  up  in  the  night  time  with  three  hundred men.  These,  with  the  seventy  of  the  garrison,  attacked  the
 besiegers  and  dispersed  them.
 
 Melik  Shah  who  was  greatly  alarmed  by  this  defeat  sent  troops
@@ -10834,8 +9234,7 @@ Hussein  retreated  to  a  castle  in  Muniin  where  soon  he  was
 besieged  ami  in  no  less  danger  than  Hassan  had  been  very
 recently  in  Alamut.
 
-rp  to  this  time  Hassan  had  acted  as  a  political  age&l  and  re-
-ligious nuncio  in  the  name  of  ftlostansir,  but  now  he  saw  an  op-
+rp  to  this  time  Hassan  had  acted  as  a  political  age&l  and  religious nuncio  in  the  name  of  ftlostansir,  but  now  he  saw  an  op-
 portunity for  securing  power  for  himself  and  he  did  not  hesitate.
 
 1  Eagle's  nest.
@@ -10869,8 +9268,7 @@ warrior.  To  extend  commerce  he  had  built  bridges  and  canals;
 to  ensure  the  safety  of  merchants  and  all  who  traveled  he  had  made
 each  village  and  hamlet  responsible  for  the  crimes  committed  within
 its  precincts.  In  this  way  the  entire  population  assisted  in  the
-suppression  of  robbery,  one  of  the  great  evils  of  that  time.  Has-
-san had  made  a  notable  beginning  —  he  had  alarmed  all  Asia.
+suppression  of  robbery,  one  of  the  great  evils  of  that  time.  Hassan had  made  a  notable  beginning  —  he  had  alarmed  all  Asia.
 
 What  were  the  doctrines  of  the  Ismailians,  used  by  Hassan  Ben
 Sabah  ?
@@ -10886,8 +9284,6 @@ But  before  giving  the  first  degree  to  any  novice  whatever  the  Master
 took  from  him  an  oath  devoting  the  applicant  to  the  greatest
 calamities  of  this  life,  and  the  keenest  sufferings  of  the  next,  if  he
 
-
-212  The  Mongols
 
 kept  not  strict  silence  touching  that  which  was  revealed  to  him,
 <>r  if  he  ceased  to  be  the  friend  of  all  friends  of  the  Ismailians,
@@ -10907,8 +9303,7 @@ Zayn  al  Abidin,  Mohammed  Bakir,  Jaffar  es  Sadik,  and  Ismail,
 or  Mohammed,  the  son  of  Ismail,  who  surpasses  all  other  Imams
 in  occult  wisdom  and  in  knowledge  of  the  mystic  sense  of  things
 visible.  He  explains  these  mysteries  to  those  of  the  initiated  who
-inquire,  for  he  has  been  instructed  by  God  himself,  and  he  com-
-municates his  marvelous  gifts  to  the  Dayis,  or  Ismailian  apostles,
+inquire,  for  he  has  been  instructed  by  God  himself,  and  he  communicates his  marvelous  gifts  to  the  Dayis,  or  Ismailian  apostles,
 to  the  exclusion  of  all  other  sectaries  of  Ali.
 
 Like  the  Imams,  the  word-endowed  prophets  sent  to  establish
@@ -10920,8 +9315,7 @@ called  "the  dumb,"  because  they  merely  walked  in  the  way
 which  had  been  traced  for  them  previously.  When  these  seven
 vicars  pass  from  the  earth,  a  new  prophet  comes  who  sets  aside  the
 preceding  religion  and  is  followed  by  seven  mute  vicars.  These
-changes  follow  one  another  till  the  coming  of  the  seventh  word-
-endowed  prophet,  who  is  the  lord  of  the  present,  that  is,  lord  of
+changes  follow  one  another  till  the  coming  of  the  seventh  wordendowed  prophet,  who  is  the  lord  of  the  present,  that  is,  lord  of
 the  :i^re  in  which  he  is  manifest.
 
 The  firvl  prophet  was  Adam,  for  whom  his  son  Seth  served  as
@@ -10940,8 +9334,7 @@ The  Assassin  Commonwealth  213
 vicar.  With  the  sixth  prophet,  Mohammed,  was  associated  Aly.
 After  Alv  were  six  mute  chiefs  of  Islam.  These  are  the  Imams
 whom  we  have  named  from  Hassan  to  Ismail.  Ismail  is  the
-seventh  and  most  recent  prophet.  When  he  appeared  pre-
-ceding religions  were  abolished.  Endowed  with  an  all-knowing
+seventh  and  most  recent  prophet.  When  he  appeared  preceding religions  were  abolished.  Endowed  with  an  all-knowing
 wisdom  he  alone  can  explain  sacred  teaching.  All  people  owe
 him  obedience,  and  it  is  only  through  his  guidance  that  man  can
 advance  in  salvation.
@@ -10958,8 +9351,7 @@ mystic  significance  of  the  precepts  of  Islam  touching  prayer,
 alms,  pilgrimages,  and  all  other  practices  which  were,  as  he
 showed,  to  turn  men  from  vice  to  perfection.  He  recommended
 the  study  of  Aristotle,  Pythagoras,  and  Plato ;  he  warned  against
-blind  belief  in  tradition,  against  yielding  credit  to  simple  allega-
-tions, and  against  taking  accepted  proof  unless  it  be  rational.
+blind  belief  in  tradition,  against  yielding  credit  to  simple  allegations, and  against  taking  accepted  proof  unless  it  be  rational.
 
 In  the  seventh  and  the  eighth  degree  the  Master  taught  that
 the  founder  of  every  religion  requires  an  associate,  a  vicar  to
@@ -10967,11 +9359,9 @@ hand  down  his  precepts ;  the  latter  is  the  image  of  the  world  here
 below  enveloped  by  that  which  is  above  it;  one  precedes  the
 other  as  cause  does  effect.  The  first  principle  has  neither  attribute
 nor  name;  one  may  not  say  that  it  exists,  or  does  not  exist,  that
-it  is  ignorant,  or  knowing.  And  thus  farther  on  with  all  its  attri-
-butes, for  every  affirmation  regarding  it  implies  a  comparison  with
+it  is  ignorant,  or  knowing.  And  thus  farther  on  with  all  its  attributes, for  every  affirmation  regarding  it  implies  a  comparison  with
 things  that  are  created,  every  negation  tends  to  deprive  it  of  an
-at.nbute;  it  is  neither  eternal  nor  temporal,  but  its  command-
-ment, its  word  is  that  which  exists  from  eternity.  The  disciple  —
+at.nbute;  it  is  neither  eternal  nor  temporal,  but  its  commandment, its  word  is  that  which  exists  from  eternity.  The  disciple  —
 that  is,  he  who  follows  —  aspires  to  the  height  of  the  one
 who  precedes  him,  and  he  who  is  endowed  with  the  word  on
 earth  aspires  to  be  one  with  him  who  is  master  of  the  word  in
@@ -10982,9 +9372,6 @@ he  has  taught  up  to  that  time,  and  on  seeing  that  the  disciple
 understands  he  removes  the  last  veil,  and  says  to  him  in  substance:
 
 
-214  The  Mongols
-
-
 ^
 
 
@@ -10993,14 +9380,12 @@ the  origin  and  changes  of  matter.  An  apostle  delivers  to  mankind
 that  which  heaven  has  revealed  to  him.  For  the  sake  of  justice
 and  order,  he  adapts  his  religion  to  the  needs  of  the  race.  When
 this  religion  is  needed  for  the  general  welfare  it  is  binding,  but
-the  philosopher  is  not  bound  to  put  it  into  practice.  The  philos-
-opher is  free,  is  bound  to  nothing;  knowledge  for  him  is  sufficient,
+the  philosopher  is  not  bound  to  put  it  into  practice.  The  philosopher is  free,  is  bound  to  nothing;  knowledge  for  him  is  sufficient,
 since  it  contains  the  truth,  that  towards  which  he  is  striving.
 He  should  know  its  whole  meaning,  all  that  it  binds  men  to  execute,
 but  he  need  not  be  subject  to  vexations,  which  arc  not  intended
 for  sages.  Finally  it  is  explained  to  the  disciple  that  if  word
-endowed  apostles  have  the  mission  to  uphold  order  among  man-
-kind in  general,  sages  are  charged  to  teach  wisdom  to  individuals.
+endowed  apostles  have  the  mission  to  uphold  order  among  mankind in  general,  sages  are  charged  to  teach  wisdom  to  individuals.
 
 From  all  that  has  been  preserved  by  the  chroniclers  of  those
 days  regarding  the  Assassin  kingdom,  it  is  clear  that  in  great
@@ -11050,14 +9435,12 @@ of  Kefrlana.
 
 Abu  Tahir  on  returning  to  the  Prince  of  Aleppo  used  all  his
 influence  to  kill  Abu  Harb  Issa,  a  great  Khojend  merchant,  who
-had  come  to  Aleppo  with  five  hundred  camels  bearing  much  mer-
-chandise. This  man  had  done  what  he  could  to  cause  harm  to
+had  come  to  Aleppo  with  five  hundred  camels  bearing  much  merchandise. This  man  had  done  what  he  could  to  cause  harm  to
 the  Order.  A  man  named  Ahmed,  who  was  secretly  an  Assassin,
 had  been  present  in  the  caravan  from  the  boundary  of  Khorassan,
 and  was  watching  to  avenge  his  brother  slain  by  the  people  of  that
 merchant.  On  reaching  Aleppo  he  went  to  Abu  Tahir  and
-Risvan,  whom  he  won  through  accounts  of  Abu  Harb's  im-
-mense wealth,  and  his  hatred  of  the  Assassins.  On  a  day,
+Risvan,  whom  he  won  through  accounts  of  Abu  Harb's  immense wealth,  and  his  hatred  of  the  Assassins.  On  a  day,
 while  the  merchant  was  counting  his  camels,  the  murderers  fell
 upon  him,  but  his  slaves,  who  were  near,  showed  their  courage  and
 slew  the  attackers  before  they  could  injure  Abu  Harb.  The
@@ -11080,16 +9463,12 @@ Risvan 's  son,  Akhras,  succeeded  him.  This  youth  of  sixteen
 was  assisted  in  governing  by  Lulu,  a  eunuch.    He  began  rule  by
 
 
-216  The  Mongols
-
 condemning  to  death  all  people  belonging  to  the  Assassin  Order.
-By  this  sentence  more  than  three  hundred  men,  women  and  chil-
-dren were  slain,  and  two  hundred  were  thrown  into  prison.  Abul
+By  this  sentence  more  than  three  hundred  men,  women  and  children were  slain,  and  two  hundred  were  thrown  into  prison.  Abul
 Fettah,  a  son  of  Abu  Tahir  the  goldsmith,  and  his  successor  as  head
 of  the  Assassin  Order  in  Syria,  met  with  a  death  no  less  terrible  than
 that  of  his  namesake,  the  nephew  of  Hassan  Ben  Sabah.  The
-trunk  of  his  body  was  hacked  into  pieces  at  the  gate  looking  east-
-ward toward  Irak,  his  legs  and  arms  were  burned,  and  his  head
+trunk  of  his  body  was  hacked  into  pieces  at  the  gate  looking  eastward toward  Irak,  his  legs  and  arms  were  burned,  and  his  head
 was  borne  through  Syria  as  a  spectacle.  Ismail,  a  brother  of  that
 astrologer  who  had  brought  the  Order  into  friendship  with  Risvan,
 died  with  the  others.  Many  Assassins  were  hurled  into  the  moat
@@ -11174,8 +9553,6 @@ brain,  and  was  of  his  own  invention.
 He  showed  the  truth  of  his  doctrine  by  concise,  captious  argu-
 
 
-218  The  Mongols
-
 ments.  "  As  to  the  knowledge  of  God,"  said  he,  "  one  of  two
 courses  must  be  followed :  Claim  to  know  God  by  the  sole  light
 of  reason,  or  admit  that  one  cannot  know  him  by  reason,  but  that
@@ -11183,8 +9560,7 @@ men  need  instructors.  Now  he  who  rejects  the  first  statement  may
 not  reject  another  man's  reason  without  admitting  thereby  the
 necessity  of  guidance."  Hassan  combated  in  this  way  the  claims
 of  Greek  sages.  "  The  need  of  a  guide  being  admitted  we  must
-know  if  every  teacher  is  good,  or  if  we  must  have  infallible  in-
-struction. Now  he  who  maintains  that  every  teacher  is  good  may
+know  if  every  teacher  is  good,  or  if  we  must  have  infallible  instruction. Now  he  who  maintains  that  every  teacher  is  good  may
 not  reject  his  opponent's  instructor  without  acknowledging  the
 need  of  a  teacher  deserving  the  obedience  and  confidence  of  all
 men.  It  is  shown,"  added  he,  "  that  mankind  has  need  of  a  true
@@ -11197,23 +9573,19 @@ the  journey.
 
 "  Variety  of  opinion  is  a  real  proof  of  error,  accord  in  opinion
 shows  truth,  and  unity  is  the  sign  of  it.  Diversity  is  a  clear  sign  of
-error;  unity  comes  from  teaching  obedience,  diversity  from  free-
-dom of  thought;  unity  indicates  submission  to  an  Imam,  freedom
+error;  unity  comes  from  teaching  obedience,  diversity  from  freedom of  thought;  unity  indicates  submission  to  an  Imam,  freedom
 of  thought  goes  with  schism,  and  many  leaders."
 
 Apparently  austere  in  his  morals  and  respecting  the  Koran,
 Hassan  Sabah  forced  all  his  subjects  to  live  just  as  he  did.  The
 sternness  of  his  methods  may  be  known  from  these  examples.
-He  had  one  son  clubbed  to  death  for  mere  suspicion  of  being  con-
-nected with  the  slaying  of  the  Kuhistan  governor  without  orders;
-the  other  for  wine  drinking  and  dissolute  conduct.  In  the  execu-
-tion of  his  elder  son  he  gave  to  his  subjects  an  example  of  the
+He  had  one  son  clubbed  to  death  for  mere  suspicion  of  being  connected with  the  slaying  of  the  Kuhistan  governor  without  orders;
+the  other  for  wine  drinking  and  dissolute  conduct.  In  the  execution of  his  elder  son  he  gave  to  his  subjects  an  example  of  the
 penalty  paid  for  interfering  with  the  prerogative  of  the  Grand
 Frior.  The  execution  of  the  younger  showed  them  the  result  of
 disobedience  to  principles  —  the  principles  ruling  at  Alamut.
 
-Just  before  Ih's  death  in  112i  Hassan  Sabah  made  his  old  com-
-rade  Kia  Busurgomid  his  successor.  Under  this  second  chief
+Just  before  Ih's  death  in  112i  Hassan  Sabah  made  his  old  comrade  Kia  Busurgomid  his  successor.  Under  this  second  chief
 murder  increased  very  greatly;  not  merely  enemies  of  the  sett
 fell  now  by  the  dagger,  but  any  prince  or  man  who  had  an  enemy
 could  hire  one  of  the  Order  to  murder  him.  Rather  than  expose
@@ -11236,16 +9608,14 @@ reason,  after  being  in  open  war  with  Kia  Busurgomid  for  some
 time,  he  asked  that  an  envoy  be  sent  to  discuss  terms  of  peace.
 The  envoy  from  the  Assassins  was  received  courteously  by  the
 Sultan,  but  upon  leaving  the  presence  of  Mahmud  he  was  seized
-and  murdered  by  the  enraged  populace.  The  Sultan  sent  an  en-
-voy to  Alamut  immediately  to  assure  Kia  Busurgomid  that  this
+and  murdered  by  the  enraged  populace.  The  Sultan  sent  an  envoy to  Alamut  immediately  to  assure  Kia  Busurgomid  that  this
 unfortunate  incident  was  due  wholly  to  the  hostility  of  the  citizens,
 and  that  he  himself  was  in  no  way  to  blame.
 
 Kia  Busurgomid  replied  that  he  had  believed  in  the  assurances  of
 safety  which  the  Sultan  had  given.  If  the  Sultan  would  deliver  the
 murderers  of  the  man  to  the  Assassins  there  would  be  no  difficulty,
-otherwise  he  would  take  revenge  for  the  death  of  his  envoy.  Mah-
-mud fearing  the  rage  of  the  people  gave  no  reply,  and  was  shortly
+otherwise  he  would  take  revenge  for  the  death  of  his  envoy.  Mahmud fearing  the  rage  of  the  people  gave  no  reply,  and  was  shortly
 after  attacked  by  a  large  number  of  Assassins  who  killed  four
 hundred  men  and  carried  off  many  horses  and  camels.
 
@@ -11253,8 +9623,7 @@ In  1129  the  Sultan  got  possession  of  the  Alamut  fortress,  but
 was  soon  forced  to  relinquish  it.  Not  long  after  Mahmud  died,
 probably  by  poison  administered  by  a  member  of  the  Order.
 
-In  Risvan's  time,  as  already  stated,  the  Assassins  enjoyed  im-
-mense influence  at  Aleppo,  but  under  his  son  they  were  hunted
+In  Risvan's  time,  as  already  stated,  the  Assassins  enjoyed  immense influence  at  Aleppo,  but  under  his  son  they  were  hunted
 down  and  slaughtered.  A  somewhat  similar  fate  struck  them  in
 Damascus  where  during  Busi's  time,  Behram,  an  Assassin  from
 Astrabad,  won  over  to  his  side  the  vizir  who  gave  him  in  1128  the
@@ -11267,11 +9636,8 @@ protection  against  them.  But  the  career  of  Behram  the  shrewd
 Assassin  was  of  short  duration.
 
 
-220  The  Mongols
-
 Dohak,  the  chief  man  in  Taim,  a  part  of  the  district  of  Baalbek,
-determined  to  avenge  the  death  of  his  brother  who  had  been  mur-
-dered at  command  of  Behram,  hence  he  summoned  the  warriors
+determined  to  avenge  the  death  of  his  brother  who  had  been  murdered at  command  of  Behram,  hence  he  summoned  the  warriors
 of  Taim  with  assistance  from  Damascus  and  places  around  it.
 Behram  planned  to  surprise  Dohak  and  his  army  and  crush
 them,  but  he  fell  into  their  power  unwarily,  and  they  killed  him.
@@ -11287,8 +9653,7 @@ faith  or  principle,  but  adroit  and  successful.  The  Crusaders,  whose
 power  was  then  rising  in  Syria,  seemed  to  Abul  Wefa  the  best  allies
 possible  for  Assassins.  Enemies  of  Mohammedanism,  they  were
 friends  to  its  opponents.  Attacked  from  without  by  Crusaders  and
-corrupted  from  within  by  Ismailian  teachings,  Abbasid  Mo-
-hammedanism seemed  nearing  its  downfall.  Abul  Wefa  now
+corrupted  from  within  by  Ismailian  teachings,  Abbasid  Mohammedanism seemed  nearing  its  downfall.  Abul  Wefa  now
 made  a  treaty  with  the  King  of  Jerusalem,  through  which  he
 engaged  to  give  him  Damascus  on  a  certain  Friday.  While  Busi,
 the  Emir,  and  his  great  men,  were  assembled  in  the  mosque  at
@@ -11307,8 +9672,7 @@ Bernard  and  confirmed  by  the  Pope  raised  it  to  be  a  great  Order
 created  to  defend  the  Holy  Sepulchre  and  pilgrims.
 
 During  this  year,  1129,  Hugo  arrived  in  Jerusalem  with  a
-numerous  escort  of  pilgrims  and  knights,  who  through  his  in-
-fluence had  taken  the  cross  and  raised  arms  in  defence  of  Christ's
+numerous  escort  of  pilgrims  and  knights,  who  through  his  influence had  taken  the  cross  and  raised  arms  in  defence  of  Christ's
 sepulchre.
 
 The  winning  of  Damascus  was  now  decided  upon,  but  mar-
@@ -11320,8 +9684,7 @@ velous  events  happened  meanwhile  to  prevent  the  carrying  out
 of  this  plan.  Tahir  Ben  Saad,  the  vizir,  who,  as  we  have  seen,
 exercised  supreme  power  at  direction  of  Tajul  Muluk  Busi,  Prince
 of  Damascus  had  arranged  with  Abul  Wefa,  the  surrender  of
-Damascus  in  secret.  Tajul  Muluk  Busi,  discovering  the  treach-
-ery of  his  vizir  and  the  plot  of  the  Assassins  to  get  possession  of
+Damascus  in  secret.  Tajul  Muluk  Busi,  discovering  the  treachery of  his  vizir  and  the  plot  of  the  Assassins  to  get  possession  of
 Damascus,  had  Tahir  Ben  Saad  put  to  death  immediately,  and
 then  commanded  a  slaughter  of  all  the  Assassins  in  the  city.  It
 is  stated  that  "  six  thousand  fell  by  the  sword  which  thus  avenged
@@ -11330,15 +9693,12 @@ many  victims  of  the  dagger."
 While  this  was  taking  place  a  strong  Christian  army  was  rapidly
 approaching  Damascus  to  take  possession  of  the  city.  Of  this
 army  a  large  number,  while  marching,  went  with  knights  to
-plunder  villages  and  obtain  provisions,  permitting,  as  was  cus-
-tomary, a  considerable  force  of  pilgrims  to  accompany  them.
+plunder  villages  and  obtain  provisions,  permitting,  as  was  customary, a  considerable  force  of  pilgrims  to  accompany  them.
 They  advanced  without  order  and  were  in  great  part  cut  down
 by  a  picked  corps  of  warriors  from  Damascus.  On  hearing  of
-this  disaster  the  rest  of  the  Christian  army  hurried  forward  to  at-
-tack those  men  of  Damascus.  While  they  were  thus  hastening
+this  disaster  the  rest  of  the  Christian  army  hurried  forward  to  attack those  men  of  Damascus.  While  they  were  thus  hastening
 dreadful  darkness  appeared  on  a  sudden,  darkness  broken  only
-by  flashes  of  lightning;  then  came  a  tempest  with  the  roar-
-ing of  thunder  and  a  downrush  of  rain  which  overspread
+by  flashes  of  lightning;  then  came  a  tempest  with  the  roaring of  thunder  and  a  downrush  of  rain  which  overspread
 everything.  When  the  roads  were  all  flooded  and  the  whole
 country  covered  with  water,  a  great  cold  set  in  quickly;  frost  of
 amazing  severity  turned  flood  and  rain  into  ice  and  snowflakes.
@@ -11379,8 +9739,7 @@ in  honor  —  such  was  her  view  of  honor.
 
 Busi  the  Prince  of  Damascus  was  marked  for  destruction.  Tahir
 the  friend  of  the  Assassins  had  been  executed  and  six  thousand  of  the
-Order  had  been  massacred  in  1129  at  that  prince's  command ;  there-
-fore there  was  no  escape  for  Busi.  Within  two  years  of  that  massacre
+Order  had  been  massacred  in  1129  at  that  prince's  command ;  therefore there  was  no  escape  for  Busi.  Within  two  years  of  that  massacre
 he  was  attacked  by  a  band  of  Assassins  and  escaped  with  difficulty ;
 the  year  following,  however,  brought  death  to  him  from  the  effects
 of  wounds  received  in  that  encounter.
@@ -11391,8 +9750,6 @@ generation  to  another.  They  never  forgot  and  never  forgave.
 Sherns  ul  Muluk,  son  of  Busi,  as  well  as  many  other  people  of
 renown  fell  under  the  daggers  of  the  Order.     The  mufti  of  Kasvin
 
-222
-
 
 Hulagu  Destroys  the  Assassin  Commonwealth    223
 
@@ -11402,8 +9759,7 @@ and  ordinary  men  were  murdered  by  the  tools  of  Hassan  Ben
 Sabah  and  his  successors  the  so-called  apostles  of  Islam.
 
 But  in  spite  of  the  bitter  enmity  between  the  Abbasids  and  the
-Fatimids  and  the  fact  that  fhe  Assassins,  an  offshoot  of  the  Fati-
-mids,  had  worked  long  and  industriously  to  overthrow  their  op-
+Fatimids  and  the  fact  that  fhe  Assassins,  an  offshoot  of  the  Fatimids,  had  worked  long  and  industriously  to  overthrow  their  op-
 ponents, the  throne  of  the  Kalif  of  Bagdad  had  not  been  stained
 with  the  blood  of  its  occupants  thus  far.  But  the  time  had  now
 come  when  the  Order  dared  to  murder  even  the  successor  of  the
@@ -11415,8 +9771,7 @@ was  thought  by  many  that  the  murderer  was  employed  by  the
 family  of  Efdhal,  the  grand  vizir.
 
 Efdhal  had  been  as  dangerous  for  the  Kalif  at  Cairo  through
-the  immense  power  which  he  wielded  in  Egypt  as  for  the  Cru-
-saders because  of  his  hatred  for  them  and  the  great  energy  with
+the  immense  power  which  he  wielded  in  Egypt  as  for  the  Crusaders because  of  his  hatred  for  them  and  the  great  energy  with
 which  he  warred  against  them.  He  was  cut  down  by  two  men
 who  belonged  to  the  Order.  No  one  knew  who  had  employed
 those  two  persons,  whether  the  murderers  were  the  tools  of
@@ -11434,14 +9789,11 @@ Bagdad  and  Cairo,  or  in  other  words  between  the  Abbasids  and
 the  Fatimids.
 
 Mostershed  the  twenty-ninth  Abbasid  Kalif  held  power  from
-1118  to  1135,  but  his  power  was  limited  and  his  throne  most  in-
-secure. When  they  made  themselves  guardians  of  the  Kalifs  at
+1118  to  1135,  but  his  power  was  limited  and  his  throne  most  insecure. When  they  made  themselves  guardians  of  the  Kalifs  at
 Bagdad  the  Seljuk  Sultans  took  from  them  all  marks  of  temporal
 power  except  the  Friday  prayers  from  the  pulpit,  and  the  coinage
 of  money.     When  Massud  became  Sultan  he  immediately  took
 
-
-224  The  Mongols
 
 this  last  evidence  of  authority  from  the  Kalif  and  appointed  Friday
 prayers  in  his  own  name.  This  encroachment  was  tolerated  by
@@ -11451,8 +9803,7 @@ Kalif's  army.  These  officers  assured  the  Kalif  that  it  would  not
 be  difficult  to  conquer  Massud.  Deceived  by  their  statements
 Mostershed  mareheil  against  the  Sultan,  but,  deserted  by  his
 warriors  in  the  first  onset,  he  was  captured  by  Massud  and
-taken  to  Meragha.  He  was  freed  however  on  Ins  promise  to  re-
-main thereafter  in  Bagdad  and  pay  a  yearly  tribute  to  the  Sultan.
+taken  to  Meragha.  He  was  freed  however  on  Ins  promise  to  remain thereafter  in  Bagdad  and  pay  a  yearly  tribute  to  the  Sultan.
 
 The  Ismailians  had  hoped  that  this  war  would  end  the  Abbasids;
 hence  they  were  bitterly  disappointed,  and  determined  to  take  the
@@ -11467,8 +9818,7 @@ slaughter  of  Mostershed  when  they  learned  that  his  successor
 Rashid  had  been  killed.  The  Assassins  had  thought  that  by  the
 murder  of  Mostershed  they  would  bring  about  the  ruin  of  the
 Kalifat.  But  hope  deceived  them.  Rashid  on  taking  the  throne
-planned  his  own  policy  and  determined  to  begin  his  rule  I  i  eng-
-ing  the  death  of  his  father.  He  went  first,  however,  on  a  journey
+planned  his  own  policy  and  determined  to  begin  his  rule  I  i  enging  the  death  of  his  father.  He  went  first,  however,  on  a  journey
 to  Ispahan,  intending  when  he  returned  to  deal  with  the  Assassins,
 The  Order  ever  alert  and  watchful  discovered  his  purpose.  Four
 active  adherents  followed  Rashid,  and  at  last  when  the  chance  came
@@ -11532,15 +9882,12 @@ resurrection.  To  believe  thus  is  needful  for  salvation,  and  no  man
 may  give  an  opinion  on  God's  commands,  or  alter  one  letter  in
 
 
-226  The  Mongols
-
 them.  These  are  the  rules  on  which  rests  our  religion,  and  if
 they  please  not  the  Sultan  let  him  send  a  theologian  to  talk  with
 us.
 
 In  1138  began  the  rule  of  Kia  Mohammed,  a  man  not  only
-lacking  in  wit  and  ability  but  wholly  untrained  in  the  art  of  govern-
-ing. The  power  of  the  Order  had  now  reached  its  height.  Its
+lacking  in  wit  and  ability  but  wholly  untrained  in  the  art  of  governing. The  power  of  the  Order  had  now  reached  its  height.  Its
 authority  and  influence  were  apparent  in  many  countries  of  Asia.
 There  was  need  of  a  strong  man  at  Alamut.  Nearly  fifty  years
 had  passed  since  Hassan  Ben  Sabah  began  his  career  of  murder;
@@ -11588,8 +9935,7 @@ crossed  the  river  with  his  army  and  was  received  on  the  bank  by
 his  vassals  the  Prince  of  Mosul,  Zenky  of  Basra,  and  others.
 The  combined  armies  then  attacked  Hilla  the  enemy's  stronghold,
 and  though  Dubeg's  army  was  much  larger  than  that  of  the
-Kalif 's  the  Arabs  were  defeated  owing  chiefly  to  the  skilful  move-
-ments of  Zenky.  Somewhat  later  Zenky  went  to  Hamad  an  to
+Kalif 's  the  Arabs  were  defeated  owing  chiefly  to  the  skilful  movements of  Zenky.  Somewhat  later  Zenky  went  to  Hamad  an  to
 the  court  of  the  Seljuk  Sultan,  Mahmud,  and  soon  married  the
 widow  of  Kundughly,  the  richest  noble  of  the  court.  In  1124  he
 returned  to  Basra  and  Wasit  where  he  ruled  with  great  severity,
@@ -11611,16 +9957,12 @@ Damascus.
 
 In  1132  when  fleeing  from  Karaja  by  whom  he  had  been  defeated
 in  battle,  Zenky  was  saved  by  Eyub  commandant  of  the  castle  of
-Tenkrit  on  the  bank  of  the  Tigris.  This  service  was  never  for-
-gotten. In  1138  on  a  night  when  Eyub,  who  had  been  driven  from
+Tenkrit  on  the  bank  of  the  Tigris.  This  service  was  never  forgotten. In  1138  on  a  night  when  Eyub,  who  had  been  driven  from
 the  castle  of  Tenkrit,  was  seeking  an  asylum  with  Zenky  at  Mosul
 a  son  was  born  to  him.  This  son  he  named  Yessuf  Salal  ed  din
 (Saladin).  A  year  later  Zenky  took  possession  of  Baalbek  and
 Eyub  was  made  governor  there.  Saladin  was  nine  years  old  when
 Zenky  was  murdered.     Zenky's  possessions  were  shared  by  his  two
-
-
-228  The  Mongols
 
 
 D
@@ -11723,8 +10065,6 @@ a  general  of  Crusaders  with  a  large  number  of  men  as  a  guard
 against  Xur  ed  din.
 
 
-230  The  Mongols
-
 But  peace  was  of  short  duration ;  the  advantage  which  came  to
 the  King  of  Jerusalem  by  the  terms  of  the  treaty  induced  him  to
 violate  his  promise  in  the  hope  of  eventually  getting  control  of
@@ -11743,12 +10083,10 @@ set  on  fire  to  hamper  the  enemy,  and  it  continued  to  burn  for
 fifty-four  days  and  nights.  Adhad,  the  Kalif,  despatched  courier
 after  courier  with  letters  to  Syria  imploring  Nur  ed  din  to  help  him,
 and  to  picture  the  greatness  of  his  need  he  inclosed  locks  of  hair
-from  the  heads  of  his  wives,  as  if  saying :  "  The  enemy  are  drag-
-ging our  women  by  the  hair.     Come  and  rescue !  "
+from  the  heads  of  his  wives,  as  if  saying :  "  The  enemy  are  dragging our  women  by  the  hair.     Come  and  rescue !  "
 
 Nur  ed  din  was  in  Aleppo  and  Shirkuh  at  Emesa.  Nur  ed  din,
-however,  at  no  time  indifferent  to  the  importance  of  gaining  in-
-fluence and  power,  gave  two  hundred  thousand  gold  ducats  to
+however,  at  no  time  indifferent  to  the  importance  of  gaining  influence and  power,  gave  two  hundred  thousand  gold  ducats  to
 Shirkuh  and  sent  him  to  Egypt  immediately  (December,  1168).
 Six  thousand  chosen  Syrians  marched  with  him  and  two  thousand
 picked  Turkman  warriors  from  Damascus.  Saladin,  urged  by
@@ -11759,8 +10097,7 @@ to  liberate,  the  latter  to  win  Cairo.  Shawer  promised  a  million  of
 ducats  in  the  name  of  the  Kalif,  and  the  King  of  Jerusalem  was
 glad  to  receive  fifty  thousand  in  ready  money.  The  Crusaders
 withdrew  when  the  Syrians  under  Shirkuh  appeared  before  Cairo
-in  January,  1169.  The  Kalif  went  to  the  camp  on  a  visit  im-
-mediately, and  complained  very  bitterly  of  Shawer  who  had
+in  January,  1169.  The  Kalif  went  to  the  camp  on  a  visit  immediately, and  complained  very  bitterly  of  Shawer  who  had
 brought  the  Crusaders  into  Egypt,  burned  Fustat,  and  ruined  the
 country.  He  begged  Shirkuh  to  obtain  for  him  the  head  of  the  vizir,
 he  himself  being  unable  to  get  it.
@@ -11783,14 +10120,12 @@ Shirkuh  died  two  months  later,  March  26,  and  his  nephew
 Yussuf  Salah  ed  din,  now  thirty-one  years  of  age,  was  invested
 with  the  same  dignities  of  office  and  received  the  same  title.
 
-Saiadin  was  now  the  vizir  of  the  Kalif,  and  Nur  ed  din's  com-
-mander, thus  his  position  was  peculiar;  he  was  the  vizir  of  a
+Saiadin  was  now  the  vizir  of  the  Kalif,  and  Nur  ed  din's  commander, thus  his  position  was  peculiar;  he  was  the  vizir  of  a
 Shiite  Kalif  and  the  commander  of  a  Sunnite  king.  He  therefore
 caused  the  name  of  Nur  ed  din  to  be  mentioned  in  public  prayers
 every  Friday  after  that  of  the  Kalif.
 
-Nur  ed  din  thought  that  the  time  had  come  to  abolish  the  Fati-
-mid  Kalifat,  but  Saiadin  delayed  since  the  people  clung  to  Adhad,
+Nur  ed  din  thought  that  the  time  had  come  to  abolish  the  Fatimid  Kalifat,  but  Saiadin  delayed  since  the  people  clung  to  Adhad,
 the  last  representative  of  the  dynasty.  Adhad  fell  ill,  however,
 and  died  opportunely.  Saiadin  transferred  the  prerogative  of
 prayer  then  from  the  Fatimid  line  to  that  of  the  Abbasid  September
@@ -11819,11 +10154,8 @@ to  the  world.  To  announce  the  same  license  to  the  leaders  of  the
 Order  and  favor  impunity  of  vice  not  merely  by  example  but  by
 
 
-232  The  Mongols
-
 preaching  from  the  pulpit  that  crime  is  permissible  and  innocent.
-In  Ramadan  of  the  559th  year  of  the  Hegira —  1163  —  the  in-
-habitants of  Rudbar  were  assembled  at  Alamut  by  his  com-
+In  Ramadan  of  the  559th  year  of  the  Hegira —  1163  —  the  inhabitants of  Rudbar  were  assembled  at  Alamut  by  his  com-
 mand. A  pulpit  was  placed  at  the  foot  of  the  castle  and  looking
 toward  Mecca  to  which  all  professors  of  Islam  turn  when  praying.
 
@@ -11848,8 +10180,7 @@ given  to  the  Karmathites  and  other  great  criminal  disturbers,  was
 given  not  only  to  the  disciples  of  Hassan  but  to  all  the  Ismailians.
 Through  their  Grand  Prior  the  Order  after  concealing  its  true
 doctrine  from  mankind  for  years  had  revealed  it  on  a  sudden
-and  exposed  to  the  world  a  society  founded  on  atheism,  assassina-
-tion and  immorality.  Thenceforth  the  Order  was  doomed  to
+and  exposed  to  the  world  a  society  founded  on  atheism,  assassination and  immorality.  Thenceforth  the  Order  was  doomed  to
 rapid  internal  destruction.
 
 The  Ismailians  had  adopted  the  view  that  the  universe  had  never
@@ -11870,8 +10201,7 @@ Hulagu  Destroys  the  Assassin  Commonwealth     233
 
 time  from  the  flight  of  the  Prophet,  so  did  the  Molahids  from
 the  manifestation  of  the  Imam,  the  17th  of  Ramadan  in  the  559th
-year  of  Hegira.  As  Mohammed's  name  was  never  mentioned  with-
-out adding  "  The  Blessed,"  so  after  that  day  the  words  "  Blessed
+year  of  Hegira.  As  Mohammed's  name  was  never  mentioned  without adding  "  The  Blessed,"  so  after  that  day  the  words  "  Blessed
 be  his  memory  "  were  added  to  Hassan's  name.  The  Grand  Priors
 had  called  themselves  simply  missionaries  or  precursors  of  the
 Imam,  but  Hassan  insisted  that  he  was  the  Imam;  in  him  lay  all
@@ -11881,13 +10211,11 @@ to  the  different  princes.  His  letter  concerning  Reis  Mossafer,  the
 Grand  Prior  of  Kuhistan,  a  namesake  of  whom  had  been  Grand
 Prior  in  Irak  under  Hassan  Ben  Sabah,  was  as  follows :
 
-"  I,  Hassan,  declare  to  you  that  on  earth  I  am  God's  vice-
-gerent. Reis  Mossafer  is  my  vice-gerent  in  Kuhistan,  The  men
+"  I,  Hassan,  declare  to  you  that  on  earth  I  am  God's  vicegerent. Reis  Mossafer  is  my  vice-gerent  in  Kuhistan,  The  men
 of  that  province  will  obey  him;  they  must  listen  to  his  words  as
 to  mine."
 
-Reis  had  a  pulpit  erected  in  the  Mumin  Abad  castle,  his  resi-
-dence. From  the  pulpit  he  read  this  epistle  to  the  people,  most
+Reis  had  a  pulpit  erected  in  the  Mumin  Abad  castle,  his  residence. From  the  pulpit  he  read  this  epistle  to  the  people,  most
 of  whom  listened  to  it  with  pleasure.  There  was  a  great  festivaL
 with  music  and  sports;  they  fell  to  dancing,  they  drank  wine  at
 the  foot  of  the  pulpit,  and  in  every  way  possible  made  known  their
@@ -11906,15 +10234,11 @@ atheism  and  immorality  than  to  assume  the  character  of  Imam.
 
 To  convince  the  people  that  he  was  the  Imam  Hassan  was  driven
 to  prove  himself  descended  from  the  Fatimid  Kalifs.  He  was
-declared  to  be  a  son  of  Nesar  and  a  grandson  of  the  Kalif  Mostan-
-sir  during  whose  reign  Hassan  Ben  Sabah  had  been  in  Cairo,  and
-in  the  political  disputes  of  the  day  had  taken  the  side  of  Mo-
-stansir's  elder  son  Nesar.  For  this  he  had  been  ordered  by  Bedr
+declared  to  be  a  son  of  Nesar  and  a  grandson  of  the  Kalif  Mostansir  during  whose  reign  Hassan  Ben  Sabah  had  been  in  Cairo,  and
+in  the  political  disputes  of  the  day  had  taken  the  side  of  Mostansir's  elder  son  Nesar.  For  this  he  had  been  ordered  by  Bedr
 Jimali,  the  commander-in-chief,  to  leave  Egypt.  A  certain  Abul
 Hassan  Seid,  a  favorite  of  the  Kalif,  had  come  to  Alamut  a  year
 
-
-234  The  Mongols
 
 after  the  death  of  Mostansir,  and  had  brought  with  him  a  son
 of  Nesar  whom  he  confided  to  Hassan  Ben  Sabah.  Hassan  treated
@@ -11930,8 +10254,7 @@ This  tale  instead  of  satisfying  the  people  was  received  with
 ridicule  and  declared  to  be  untrue.  Then  as,  according  to  new
 Ismailite  teaching,  all  was  indifferent  and  nothing  forbidden,  the
 builders  of  Hassan's  genealogy  found  it  best  to  maintain  that
-Nesar  had  met  Mohammed's  wife  in  secret,  the  result  being  Has-
-san, the  Grand  Prior,  Imam,  and  Kalif,  "  Blessed  be  his  Mem-
+Nesar  had  met  Mohammed's  wife  in  secret,  the  result  being  Hassan, the  Grand  Prior,  Imam,  and  Kalif,  "  Blessed  be  his  Mem-
 ory "
 
 Ismailites  who  in  this  way  tried  to  prove  that  Hassan  was  a
@@ -11940,8 +10263,7 @@ a  title  which  involved  extreme  obloquy.
 
 Crime  and  immorality  now  reigned  wherever  the  Order  had
 power  or  influence.  Men  who  had  hitherto  been  Assassins  through
-obedience  to  those  in  power  and  in  the  belief  that  they  ware  ful-
-filling a  religious  duty  by  removing  persons  who  were  harmful  to
+obedience  to  those  in  power  and  in  the  belief  that  they  ware  fulfilling a  religious  duty  by  removing  persons  who  were  harmful  to
 Islam,  now  murdered  people  wantonly.
 
 Hassan  II  died  in  the  fourth  year  of  his  reign  by  the  dagger  of
@@ -11951,8 +10273,7 @@ Disorders  caused  through  the  revelation  by  Hassan  were  not
 stopped  by  his  murder.  Crimes  of  even'  kind  increased  greatly
 during  the  reign  of  his  son  and  successor,  Mohammed  II,  whose
 first  act  was  to  avenge  the  murder  of  his  father.  Nanver,  the  late
-Prior's  brother-in-law  and  assassin,  died  by  the  axe  of  the  execu-
-tioner, and  with  him  died  all  his  kindred,  male  and  female.
+Prior's  brother-in-law  and  assassin,  died  by  the  axe  of  the  executioner, and  with  him  died  all  his  kindred,  male  and  female.
 
 Mohammed  II  preached  and  taught  with  even  more  insistence
 than  had  Hassan,  his  father,  the  doctrine  of  license,  crime,  and
@@ -12026,8 +10347,7 @@ if  not  it  would  keep  up  the  struggle.  The  first  party  descended,
 rendered  homage  to  the  Sultan  and  vanished.  The  besiegers
 waited  for  the  second  division,  waited  long  and  discovered  at
 last  that  the  garrison  had  gone  in  one  party.  The  castle  was  then
-razed  at  command  of  the  Sultan.  But  the  Ismailians  to  >k  ven-
-geance on  Sheikh  Ali.  While  returning  from  a  pilgrimage  to
+razed  at  command  of  the  Sultan.  But  the  Ismailians  to  >k  vengeance on  Sheikh  Ali.  While  returning  from  a  pilgrimage  to
 Mecca  he  was  slain  by  one  of  their  Assassins  in  a  rnosque  at
 Damascus.
 
@@ -12039,8 +10359,7 @@ years  the  Fatimids  had  been  collecting  the  wealth  not  only  of
 Egypt,  but  of  Syria  and  Arabia.  When  after  the  death  of  the
 Sultan,  Saladin  took  possession  of  this  palace,  he  found  there
 jewels  of  a  value  beyond  estimate.  There  were  magnificent  pearls;
-an  emerald  "  a  span  long  and  as  thick  as  a  finger,"  there  was  fur-
-niture of  ebony  and  ivory,  there  were  coffers  inlaid  with  gold  and
+an  emerald  "  a  span  long  and  as  thick  as  a  finger,"  there  was  furniture of  ebony  and  ivory,  there  were  coffers  inlaid  with  gold  and
 ornamented  with  precious  stones.  There  was  wealth  of  every  kind.
 There  was  also  a  splendid  library  containing,  as  some  historians
 state,  2,000,000  volumes,  others  mention  a  much  smaller  number
@@ -12055,16 +10374,14 @@ fortifications,  mosques  and  schools.
 Though  there  was  a  strong  party  in  Cairo  hostile  to  Saladin.  a
 pariy  composed  <>f  officer-,  in  i he  Egyptian  army,  palace  dependents
 and  even  some  of  the  Syrian  officers  who  were  embittered  by  the
-rapid  advance  of  bo  young  a  man,  still  his  adherents  were  in-
-creasing. Nur  ed  din  saw  with  alarm  the  influence  and  power  of
+rapid  advance  of  bo  young  a  man,  still  his  adherents  were  increasing. Nur  ed  din  saw  with  alarm  the  influence  and  power  of
 hi*  lieutenant  but  he  knew  well  that  embroiled  with  the  Crusaderi
 
 
 Hulagu  Destroys  the  Assassin  Commonwealth     237
 
 and  the  Sultan  of  Rum  he  could  not  recall  the  master  of  Cairo.
-Hence  though  alert  and  watchful  he  remained  in  apparent  friend-
-ship, and  Saladin  was  prudent  enough  to  render  him  homage  as
+Hence  though  alert  and  watchful  he  remained  in  apparent  friendship, and  Saladin  was  prudent  enough  to  render  him  homage  as
 ruler  of  Syria  and  Egypt.  Meanwhile  to  secure  his  own  position
 he  gathered  his  family  around  him,  made  his  brothers,  his  nephews,
 and  his  relatives  commanders  in  the  army;  and  strengthened  the
@@ -12089,8 +10406,7 @@ Nur  ed  din  died  May  6,  1174,  and  was  succeeded  by  his  son
 Salih,  a  boy  eleven  years  of  age.  The  young  prince,  incapable  of
 governing,  was  under  control  of  guardians  among  whom  was
 the  eunuch  Gumushtegin,  a  man  greatly  disliked  by  the  Syrians
-of  Aleppo.  Master  of  Egypt  and  with  a  large  army  at  his  com-
-mand Saladin  could  have  seized  power  had  he  so  wished,  but  he
+of  Aleppo.  Master  of  Egypt  and  with  a  large  army  at  his  command Saladin  could  have  seized  power  had  he  so  wished,  but  he
 remained  true  to  the  interests  of  Salih  and  at  once  ordered  that
 the  name  "  es  Salih,  son  of  Nur  ed  din  "  should  be  mentioned
 in  the  Friday  prayers  and  engraved  on  the  money.
@@ -12106,8 +10422,6 @@ alarmed  by  the  proximity  of  the  Crusaders,  and  in  dread  of  an
 attack  from  Aleppo,  now  begged  aid  of  the  Prince  of  Mosul.  When
 he  refused  they  turned  to  Saladin,  who  moved  by  quick  marches
 
-
-238  The  Mongols
 
 across  the  desert  and  entered  the  city  on  the  27th  of  November.
 Making  his  In-other  Governor  of  Damascus  he  set  out  for  Aleppo.
@@ -12166,8 +10480,7 @@ Hulagu  Destroys  the  Assassin  Commonwealth    239
 tresses :  Bosaa,  Manbidj,  and  Azaz,  the  latter  only  after  a  siege
 lasting  nearly  a  month.  During  this  siege  the  king  was  again
 attacked  by  Assassins ;  the  first  struck  at  his  head  with  a  knife
-but  Saladin  seized  the  man's  hand  and  an  attendant  rushed  for-
-ward and  killed  him.  A  second  and  even  a  third  murderer  sprang
+but  Saladin  seized  the  man's  hand  and  an  attendant  rushed  forward and  killed  him.  A  second  and  even  a  third  murderer  sprang
 forth  but  met  with  no  better  success.
 
 Saladin,  greatly  alarmed  by  these  repeated  attacks,  determined
@@ -12175,8 +10488,7 @@ to  destroy  the  Assassins,  or  at  least  drive  them  out  of  Syria.  In
 1177,  after  peace  was  established  with  Mosul  and  Aleppo,  he
 advanced  with  a  large  force  and  blockaded  Massiat  which  was
 built  on  an  almost  inaccessible  peak  commanding  a  deep  ravine.
-Moslem  historians  assure  us  that  he  would  have*  captured  this  all-
-important  fortress  and  thus  ended  the  Order  in  Syria  had  not  his
+Moslem  historians  assure  us  that  he  would  have*  captured  this  allimportant  fortress  and  thus  ended  the  Order  in  Syria  had  not  his
 uncle,  Shihab  ed  din,  Lord  of  Hamath,  begged  him  to  make
 peace  on  the  assurance  of  Sinan  that  the  king  would  thereafter
 be  protected  from  Assassins.  Other  historians  assert  that  he  was
@@ -12206,19 +10518,15 @@ Kwaresmian  Shah  and  the  Governor  of  Irak  of  this  change  in  the
 teachings  at  Alamut,  undertaking  at  the  same  time  to  bring  all
 
 
-240  The  Mongols
-
 Ismailians  to  follow  his  example.  Belief  seems  to  have  been  given
-to  these  assurances,  for  when  his  wife  and  mother  went  on  a  pil-
-grimage to  Mecca  they  were  received  with  distinction  at  Bagdad
+to  these  assurances,  for  when  his  wife  and  mother  went  on  a  pilgrimage to  Mecca  they  were  received  with  distinction  at  Bagdad
 and  the  party  of  pilgrims  who  marched  under  the  banner  of  the
 Alamut  ruler  preceded  all  others.  He  lived  only  twelve  years  after
 coming  to  the  throne  but  during  those  years  he  built  mosques,
 established  schools  and  called  in  learned  men  to  teach  his  people  the
 true  faith.  Some  historians  consider  Jelal  ud  din  a  shrewd  politician
 rather  than  a  reformer  and  assert  that  he  remained  an  apostle  of
-atheism.  Be  this  as  it  may  he  did  for  a  short  time  suppress  assas-
-sination but  it  reinstated  itself  quickly  when  poison  removed
+atheism.  Be  this  as  it  may  he  did  for  a  short  time  suppress  assassination but  it  reinstated  itself  quickly  when  poison  removed
 him  and  his  son,  Alai  ed  din  Mohammed,  a  boy  nine  years  of  age,
 reached  the  throne.  During  Alai  ed  din's  reign  women  of  the
 harem  ruled  at  Alamut.  Every  law  established  by  Jelal  ud  din,  his
@@ -12236,8 +10544,7 @@ successor.
 
 From  childhood  the  Ismailians  looked  upon  Rokn  ud  din  as
 tlnir  future  Grand  Prior  and  showed  him  honor  equal  to  that
-given  his  father.  This  roused  anger  in  Alai  ed  din  and  he  re-
-solved to  depose  his  son  and  appoint  another  sicccssor.  When
+given  his  father.  This  roused  anger  in  Alai  ed  din  and  he  resolved to  depose  his  son  and  appoint  another  sicccssor.  When
 his  advisors  declared  that  the  nomination  was  final  he  was  enraged
 and  from  that  time  on  annoyed  and  tormented  his  son,  till  at
 last  Rokn  ud  din  disclosed  his  whole  mind  to  those  courtiers  who
@@ -12262,8 +10569,7 @@ amusement  of  acting  as  shepherd.  He  was  found  dead  in  that
 house  about  midnight,  his  head  cut  from  the  body.  A  Turkman
 and  a  native  of  India  were  found  wounded  near  him.
 
-At  the  end  of  eight  days,  after  many  had  been  tortured  on  sus-
-picion they  discovered  the  murderer.  He  was  a  certain  Hassan  of
+At  the  end  of  eight  days,  after  many  had  been  tortured  on  suspicion they  discovered  the  murderer.  He  was  a  certain  Hassan  of
 Masanderan,  the  late  chief's  nearest  intimate,  his  inseparable
 companion,  a  man  whom  he  loved  till  his  death  though  tormenting
 him  in  every  way  possible.
@@ -12274,8 +10580,7 @@ on  the  youtlif ul  chief,  who  gave  an  additional  example  of  savagery
 by  burning  with  the  body  of  Hassan  two  sons  and  one  daughter
 of  the  Assassin.  Of  course  they  were  innocent,  though  not  only  is  it
 possible  but  probable,  that  they  possessed  knowledge  which  Rokn
-ud  din  would  suppress  at  all  hazards.  Thus  Alai  ed  din  was  mur-
-dered by  an  Assassin  hired  by  his  own  son.
+ud  din  would  suppress  at  all  hazards.  Thus  Alai  ed  din  was  murdered by  an  Assassin  hired  by  his  own  son.
 
 The  first  act  of  this  new  ruler  was  to  order  his  subjects  to  observe
 every  practice  of  Islam,  and  next  he  took  measures  to  suppress
@@ -12291,16 +10596,13 @@ assure  him  of  his  submission  to  the  Mongol  Empire.  This  general
 advised  him  to  visit  Prince  Hulagu,  who  had  just  come  to  Persia.
 Rokn  ud  din,  alarmed  for  his  own  safety,  answered  that  he  would
 send  his  brother,  Shahinshah,  in  advance.  Yassaur  consented  to
-this  and  charged  his  own  son  to  go  with  Shahinshah.  But  mean-
-while he  entered  the  Alamut  region  with  an  army  corps  of  Persians
+this  and  charged  his  own  son  to  go  with  Shahinshah.  But  meanwhile he  entered  the  Alamut  region  with  an  army  corps  of  Persians
 and  Turks,  and  attacked  that  great  fortress  June,  1256.  After  a
 sharp  struggle  his  men  were  forced  back,  and  out  of  revenge  he
 destroyed  all  the  harvest,  and  ravaged  the  country.
 
 Hulagu  had  commissioned  Guga  Uga  and  Kita  Buga  to  finish
 
-
-242  The  Mongols
 
 tht-  conquest  of  Kuhistan  which  the  latter  had  begun  two  years
 earlier.  He  had  made  rather  slow  progress  alone,  but  aided  by
@@ -12314,8 +10616,7 @@ expressions  of  submission  we  will  forgive  the  crimes  committed  by
 thy  father.  Raze  thy  castles  and  come  to  our  camp.  No  harm
 will  be  done  to  the  country."
 
-When  Rokn  ud  din  had  demolished  several  castles  and  dis-
-mounted the  Alamut  gates  with  those  of  Meimundiz  and  Lemsher,
+When  Rokn  ud  din  had  demolished  several  castles  and  dismounted the  Alamut  gates  with  those  of  Meimundiz  and  Lemsher,
 Yassaur  left  Ismailian  territory.  But  Rokn  ud  din,  while  giving
 assurances  of  obedience,  and  receiving  a  Mongol  governor,  asked
 the  term  of  one  year  in  which  to  do  homage  to  Hulagu.
@@ -12391,14 +10692,11 @@ to  expose  his  life  needlessly.  Meanwhile  the  catapults  were
 mounted  and  the  following  morning  an  attack  was  begun  from  all
 points.  The  combat  lasted  till  evening  and  was  strenuous  on
 both  sides.  At  a  season  when  tempests  and  snow  had  till  that
-year  made  all  mountain  places  impassable  the  weather  was  favor-
-able for  siege  work  and  a  new  attack.    The  fourth  day  was  opening
+year  made  all  mountain  places  impassable  the  weather  was  favorable for  siege  work  and  a  new  attack.    The  fourth  day  was  opening
 
 
 *
 
-
-244  The  Mongols
 
 when  Rokn  ud  din  thought  it  best  to  abandon  the  fortress.  He
 sent  his  chief  men  with  his  son  to  the  camp  of  the  Mongols,  and
@@ -12440,8 +10738,7 @@ Hulagu's  permission  destroyed  every  manuscript  which  related  to
 The  foundations  of  thi^  famed  fortress  were  laid  in  800,  and  the
 castle,  enormously  strong  through  its  works  and  position,  waa
 richly  provisioned.  This  was  the  true  head  and  capital  of  thai
-kingdom  of  murder.  Connected  with  the  castle  were  great  apart-
-ments cut  into  the  rock,  for  storage  of  provisions  both  solid  and
+kingdom  of  murder.  Connected  with  the  castle  were  great  apartments cut  into  the  rock,  for  storage  of  provisions  both  solid  and
 liquid;   of  the  latter  there  was  wine,  honey  and  vinegar.    It  waa
 
 Baid  that  those  Stores  had  been  put  there  one  hundred  and  seventy
@@ -12450,8 +10747,7 @@ Baid  that  those  Stores  had  been  put  there  one  hundred  and  seventy
 Hulagu  Destroys  the  Assassin  Commonwealth     245
 
 years  earlier,  in  the  days  of  Hassan  Ben  Sabah,  and  were  preserved
-perfectly  owing  to  the  cleanliness  of  the  place,  and  the  pure  moun-
-tain air  of  that  region.  The  waters  of  the  river  Bahir,  conducted
+perfectly  owing  to  the  cleanliness  of  the  place,  and  the  pure  mountain air  of  that  region.  The  waters  of  the  river  Bahir,  conducted
 to  the  foot  of  the  fortress,  filled  a  moat  which  inclosed  half  the
 stronghold.
 
@@ -12495,8 +10791,6 @@ journey,  which  was  ignominous  and  doleful,  command  was  given
 Mongol  officers  to  slay  the  Assassins,  and  spare  no  man,  woman
 
 
-246  The  Mongols
-
 or  child ;  hence  all  were  massacred.  Infants  at  the  breast  were
 not  spared  any  more  than  their  mothers.  Not  a  child  or  a  relative
 of  Rokn  ud  din  was  left  living.
@@ -12506,8 +10800,7 @@ of  characters  in  history  —  a  pitiless  coward  who  had  caused  the
 death  of  his  own  father,  killed  the  murderer  of  that  father  without
 trial  lest  he  tell  what  he  knew  of  his  master's  evil  doing,  and
 burned  the  children  of  the  murderer  with  the  corpse  of  their
-father  lest  they  too  might  expose  him.  He  gave  away  power  with-
-out an  effort  to  save  it,  and  lost  his  own  life  with  indignity.
+father  lest  they  too  might  expose  him.  He  gave  away  power  without an  effort  to  save  it,  and  lost  his  own  life  with  indignity.
 
 
 CHAPTER   Xin
@@ -12526,8 +10819,7 @@ warned  against  resistance  substantially  as  follows :  "  Strike  not
 the  point  of  an  awl  with  thy  fist,  mistake  not  the  sun  for  the  glowing
 wick  of  a  flameless  taper.  Level  the  walls  of  Bagdad  at  once,  fill  its
 moats ;  leave  government  to  thy  son,  for  a  season,  and  come  to  us  or,
-if  thou  come  not,  send  thy  vizir  with  Suleiman  Shah  and  the  chan-
-cellor. They  will  take  to  thee  our  counsels  with  precision;  thus
+if  thou  come  not,  send  thy  vizir  with  Suleiman  Shah  and  the  chancellor. They  will  take  to  thee  our  counsels  with  precision;  thus
 wilt  thou  use  them  correctly  and  we  shall  not  be  forced  then  to
 anger.  If  we  march  against  Bagdad  thou  wilt  not  escape  us,
 even  shouldst  thou  hide  in  the  deepest  earth,  or  rise  to  highest
@@ -12538,20 +10830,14 @@ to  these  counsels;  if  not  the  world  will  behold  Heaven's  anger
 without  waiting."
 
 The  answer  to  this  letter  showed  no  sign  of  fear  or  humility.
-1  Young  man,"  replied  the  Kalif,  "  seduced  by  ten  days  of  favor-
-ing fortune  thou  art  in  thy  own  eyes  High  Lord  of  the  universe,
-and  thinkest  thy  commands  the  decisions  of  destiny.     Thou  re-
-quirest  of  me  that  which  will  never  be  given.
+1  Young  man,"  replied  the  Kalif,  "  seduced  by  ten  days  of  favoring fortune  thou  art  in  thy  own  eyes  High  Lord  of  the  universe,
+and  thinkest  thy  commands  the  decisions  of  destiny.     Thou  requirest  of  me  that  which  will  never  be  given.
 
 '''  Knowest  not  that  from  the  West  to  the  East  all  who  worship
 God  and  hold  the  true  faith  are  my  servitors  ?  Had  I  the  wish  I
 could  make  myself  master  of  Iran.  With  what  is  left  of  its  people
 I  could  go  beyond  Iran  and  put  every  man  in  his  real  position.    But
 
-247
-
-
-248  The  Mongols
 
 I  have  no  wish  to  rouse  war,  that  scourge  of  all  nations.  I  desire
 not  that  troops  should  at  my  command  wring  curses  from  my
@@ -12622,8 +10908,7 @@ preparing  troopt  to  besiege  a  great  city  which  might  have  many
 defenders.  His  chief  camp  was  at  Hamadan,  and  Bagdad  must  be
 taken,  hence  his  first  point  was  to  seize  all  the  roads  between  those
 two  cities.  One  road,  that  over  which  the  left  wing  of  his  army
-must  travel,  lay  among  mountains  and  over  high  passes,  snow-
-covered  almost  at  all  times.  In  these  difficult  districts  was  the  fort-
+must  travel,  lay  among  mountains  and  over  high  passes,  snowcovered  almost  at  all  times.  In  these  difficult  districts  was  the  fort-
 ress Daritang  which  commanded  a  defile  and  guarded  Arabian  Irak
 at  its  boundary.  In  Daritang  the  commandant  Ake  was  a  man
 who  had  griefs  of  his  own  brought  about  by  the  Kalif.  Hulagu
@@ -12631,14 +10916,11 @@ sent  for  this  person,  seduced  him  with  favors,  engaged  him  to
 yield  his  own  fortress,  and  win  over  other  commandants  if  possible.
 
 Once  at  home  Ake  felt  his  heart  change ;  he  repented.  Through
-a  friend  he  made  known  at  Bagdad  the  plans  of  the  enemy,  and  de-
-clared that  if  the  Kalif  would  send  him  one  corps  of  trained  horse-
-men he  would  furnish  a  hundred  thousand  good  warriors,  Turk-
-mans and  Kurds ;  with  these  he  would  stop  every  Mongol  advance
+a  friend  he  made  known  at  Bagdad  the  plans  of  the  enemy,  and  declared that  if  the  Kalif  would  send  him  one  corps  of  trained  horse-
+men he  would  furnish  a  hundred  thousand  good  warriors,  Turkmans and  Kurds ;  with  these  he  would  stop  every  Mongol  advance
 against  Bagdad.  This  offer  was  laid  before  the  vizir,  but  the
 K  !if  refused  it.  Hulagu  knew  all  these  details  soon  after  and
-sent  a  strong  mounted  force  to  settle  with  the  Daritang  command-
-ant. The  Mongol  on  nearing  the  fortress  called  out  the  com-
+sent  a  strong  mounted  force  to  settle  with  the  Daritang  commandant. The  Mongol  on  nearing  the  fortress  called  out  the  com-
 mandant to  consult  with  him,  as  he  said.  Ake  appeared  and
 was  seized  that  same  moment.  "  If  thou  wish  to  save  life
 for  thyself,  and  save  also  thy  office,  call  out  all  thy  people;
@@ -12646,8 +10928,6 @@ we  are  taking  a  census."  Ake  was  submissive  and  called  out  the
 people.  '  If  faithful,  thou  wilt  tear  down  the  fortress."  The
 commandant  saw  that  he  had  been  discovered,  still  he  obeyed
 
-
-250  The  Mongols
 
 calmly  and  had  the  fortress  demolished.  Then  he  was  slain  with
 all  the  men  under  him,  and  also  his  household.  Emir  Said,  Ake's
@@ -12666,16 +10946,13 @@ the  Kalif  will  be  taken  by  Hulagu,"  replied  the  adherent  of  Ali.
 Nassir  then  met  the  other  astrologer  and  overcame  him  by  naming
 the  Kalifs  who  had  been  killed  without  causing  calamity  to  mankind.
 
-Command  was  now  given  the  Mongols  to  converge  upon  Bag-
-dad. Those  in  Rum  and  the  West  were  to  march  through  Mosul,
+Command  was  now  given  the  Mongols  to  converge  upon  Bagdad. Those  in  Rum  and  the  West  were  to  march  through  Mosul,
 halt  somewhat  west  of  the  capital  and  encamp  there.  These  men
 would  form  the  right  wing  of  Hulagu's  army.  The  left  wing
 would  march  on  the  road  by  Daritang  to  camp  northeast  of  the
 capital.  Hulagu  himself  was  to  be  in  the  center,  hence  he  took
-the  road  through  Hculvan  by  which  Mohammed  Shah  had  ad-
-vanced when  he  met  his  disaster.  From  Essed  Abad  new  envoys
-were  sent  to  the  Kalif  inviting  him  to  visit  headquarters.  Mostas-
-sim  refused  this,  but  promised  an  annual  tribute  if  Hulagu  would
+the  road  through  Hculvan  by  which  Mohammed  Shah  had  advanced when  he  met  his  disaster.  From  Essed  Abad  new  envoys
+were  sent  to  the  Kalif  inviting  him  to  visit  headquarters.  Mostassim  refused  this,  but  promised  an  annual  tribute  if  Hulagu  would
 had  away  all  his  warriors.  The  prince  answered  that  being  so
 mar  he  could  not  go  back  without  seeing  the  Kalif.  But  before
 going  farther  Hulagu  despatched  a  third  embassy  asking  to  send
@@ -12698,11 +10975,9 @@ Destruction  of  the  Kalifat  251
 
 strong  Mongol  division.  He  attacked  the  vanguard  which  was
 beaten,  and  then  pursued  till  it  reached  the  main  army.  There  the
-Mongols  faced  the  pursuers  and  a  second  battle  began  which  con-
-tinued till  nightfall.  The  two  armies  camped  face  to  face  until
+Mongols  faced  the  pursuers  and  a  second  battle  began  which  continued till  nightfall.  The  two  armies  camped  face  to  face  until
 daybreak.  During  the  night  the  Mongols  opened  canals  from
-the  Tigris  and  submerged  a  great  plain  in  the  rear  of  their  op-
-ponents, thus  making  retreat  very  difficult,  and  in  places  im-
+the  Tigris  and  submerged  a  great  plain  in  the  rear  of  their  opponents, thus  making  retreat  very  difficult,  and  in  places  im-
 possible. At  daybreak  a  fresh  battle  followed  in  which  most  of
 the  Bagdad  men  perished.  The  chancellor  fled  to  the  city  with  a
 very  small  party.  Only  then  did  the  Kalif's  advisers  set  about
@@ -12720,8 +10995,7 @@ may  be  different."
 
 Next  day  the  vizir,  the  home  minister,  and  many  among  the
 chief  citizens  went  in  a  body  to  Hulagu.  He  would  not  receive
-them.  The  attack  was  renewed  then  and  lasted  six  days  in  suc-
-cession. At  the  end  of  that  period  the  whole  eastern  wall  had  been
+them.  The  attack  was  renewed  then  and  lasted  six  days  in  succession. At  the  end  of  that  period  the  whole  eastern  wall  had  been
 seized  by  the  Mongols.  The  investment  was  absolute,  escape  by
 the  river  was  impossible  either  down  with  the  current,  or  upward
 against  it.  The  chancellor  tried  to  escape  but  was  met  by
@@ -12739,14 +11013,10 @@ presents,  but  they  gained  no  sight  of  the  great  Mongol.  The
 eldest  son  of  the  Kalif  took  the  vizir  and  with  him  made  a  new  trial,
 
 
-252  The  Mongols
-
-
 B'
 
 
-hut  those  two  had  no  more  success  than  the  others.  On  the  follow-
-ing day  Ilulagu  sent  two  messengers  into  the  city  with  this  order:
+hut  those  two  had  no  more  success  than  the  others.  On  the  following day  Ilulagu  sent  two  messengers  into  the  city  with  this  order:
 "  Bring  to  me  Suleiman  Shah  with  the  Chancellor.  The  Kalif  may
 come,  or  not  come,  as  he  chooses."  These  two  men  were  brought,
 and  then  sent  hack  to  the  city  to  say  to  all  people  with  whom  they
@@ -12765,8 +11035,7 @@ him,  seven  hundred  persons  all  counted.  The  son  of  the  Chancellor
 died  with  the  others.
 
 It  was  the  Kalif 's  turn  then ;  he  went  forth  with  his  three  sons
-from  Bagdad,  three  thousand  persons  went  with  him,  high  digni-
-taries and  officials.  When  he  appeared  before  Ilulagu  the  prince
+from  Bagdad,  three  thousand  persons  went  with  him,  high  dignitaries and  officials.  When  he  appeared  before  Ilulagu  the  prince
 asked  about  his  health  very  affably,  and  then  said  that  he  must
 proclaim  to  the  city  that  all  men  were  to  lay  down  their  arms,  and
 come  out  to  be  counted.  Mostassim  returned  and  proclaimed  to
@@ -12809,13 +11078,11 @@ thousand  eunuchs.  The  Kalif  begged  to  have  those  women  given
 him  who  had  never  been  under  sunlight  or  moonlight  directly.
 The  conqueror  gave  him  one  hundred.  Mostassim  chose  relatives
 and  they  were  led  forth  from  the  palace.  All  the  Kalif's  best
-treasures  were  taken  to  Hulagu's  camp  ground.  Around  the  im-
-mense tent  of  Jinghis  Khan's  grandson  were  piled  up  great
+treasures  were  taken  to  Hulagu's  camp  ground.  Around  the  immense tent  of  Jinghis  Khan's  grandson  were  piled  up  great
 masses  of  wealth,  being  a  portion  of  that  which  the  Abbasids  had
 taken  from  men  during  half  a  millennium.
 
-The  sack  of  the  city  continued  seven  days  and  nights  in  suc-
-cession; most  of  the  mosques  were  burned  during  that  time.  A
+The  sack  of  the  city  continued  seven  days  and  nights  in  succession; most  of  the  mosques  were  burned  during  that  time.  A
 deputation  came  then  to  beg  pity  of  the  conqueror.  Seeing  that
 the  place  if  he  spared  it  might  yield  him  some  profit  he  relented
 after  eight  hundred  thousand  human  beings  had  been  slaughtered.
@@ -12835,8 +11102,6 @@ is  long,"  replied  the  vizir,  referring  to  a  taunt  of  the  chancellor.1
 '"Long  beard,  short  wit,"  an  Arabic  proverb.
 
 
-254  The  Mongols
-
 The  Kalif  and  his  eldest  son  were  placed  each  in  a  felt  sack,  and
 trampled  to  death  under  horse  hoofs.  Mostassim's  attendants  were
 cut  down,  and  slaughtered  by  various  methods.  Next  day  the
@@ -12844,10 +11109,8 @@ youngest  son  of  the  Kalif  died,  and  all  of  the  Abbasids  whose
 names  were  on  the  list  of  that  ruling  family  were  then  put  to
 death.
 
-The  Kalif,  whose  mother  was  an  Ethiopian  slave,  was  the  thirty-
-seventh  of  his  line.  He  was  forty-six  years  of  age  when  he  died,
-February  21,  1258,  after  a  reign  of  fifteen  years.  Hulagu  ap-
-pointed new  dignitaries  for  Bagdad.  The  old  vizir,  Ibn  Alkamiya,
+The  Kalif,  whose  mother  was  an  Ethiopian  slave,  was  the  thirtyseventh  of  his  line.  He  was  forty-six  years  of  age  when  he  died,
+February  21,  1258,  after  a  reign  of  fifteen  years.  Hulagu  appointed new  dignitaries  for  Bagdad.  The  old  vizir,  Ibn  Alkamiya,
 was  continued  in  office.  Among  new  men  was  one  quite  deserving
 of  notice;  this  was  Ben  Amran,  prefect  of  a  place  east  of  Bagdad
 and  touching  it.  This  man  had  been  a  servant  to  the  governor  of
@@ -12860,8 +11123,7 @@ governor  of  Bagdad."  His  master  gave  him  in  answer  a  kick  of
 such  force  that  he  fell  over  backward.  Being  in  Bagdad  during
 the  siege  days  Ben  Amran  heard  that  pro  visions  were  scarce  in
 the  camp  of  the  Mongols.  He  tied  a  letter  to  an  arrow  and  shot
-it  over  the  wall  with  this  message:  "  If  Hulagu  would  learn  sonic-
-thing  of  value  Let  him  send  for  Ben  Amran  "  The  letter  was  taken
+it  over  the  wall  with  this  message:  "  If  Hulagu  would  learn  sonicthing  of  value  Let  him  send  for  Ben  Amran  "  The  letter  was  taken
 to  the  Mongol,  and  he  sent  for  Ben  Amran.  The  Kalif,  who  was
 foolish  in  all  things,  permitted  the  man  to  go  from  the  city.  When
 brought  to  the  chief  of  the  Mongols  he  declared  that  he  could  obtain
@@ -12893,8 +11155,7 @@ Ulema  this  question :  "  Which  man  is  better  as  sovereign,  an
 unbeliever  who  is  just,  or  a  Moslem  unjust  in  his  dealings  ?  "
 The  assembled  Ulema  gave  no  answer  till  Razi  ud  din  Ali,  a  sage
 esteemed  greatly,  wrote  as  follows :  "  The  unbeliever  who  is  just
-should  be  preferred  to  the  unjust  believer."  All  the  Ulema  sub-
-scribed to  this  answer.
+should  be  preferred  to  the  unjust  believer."  All  the  Ulema  subscribed to  this  answer.
 
 Every  place  from  the  Persian  Gulf  to  Bagdad  was  subjected.
 And  it  is  of  great  interest  to  note  the  conduct  of  some  and  the  fate
@@ -12904,12 +11165,10 @@ good  advice  in  his  day  to  Shah  Mohammed.  Teghele  had  joined
 the  Mongol  forces,  but  expressed  regret  at  the  ruin  of  Bagdad,  and
 the  death  of  the  Kalif.  Hulagu  heard  of  this  and  grew  angry,
 Teghele,  informed  of  his  peril,  left  the  camp  without  permission
-and  withdrew  to  his  mountains.  A  force  was  despatched  to  Luris-
-tan  to  bring  back  the  fugitive,  whose  brother,  Shems  ud  din  Alb
+and  withdrew  to  his  mountains.  A  force  was  despatched  to  Luristan  to  bring  back  the  fugitive,  whose  brother,  Shems  ud  din  Alb
 Argun,  set  out  to  appease  Hulagu  and  gain  pardon.  Argun  was
 met  on  the  Luristan  border  by  Mongols  who  put  him  in  chains,
-and  slew  his  whole  escort.  The  Mongols  went  on  then  and  sum-
-moned Teghele  to  yield  himself.  At  first  he  refused  through  dis-
+and  slew  his  whole  escort.  The  Mongols  went  on  then  and  summoned Teghele  to  yield  himself.  At  first  he  refused  through  dis-
 trust of  their  promises,  but  he  made  no  active  resistance.  When  at
 last  they  gave  him  Hulagu 's  ring  as  a  token  of  favor  he  believed,
 and  they  took  him  to  Tebriz  where  Hulagu  had  him  tried,  and
@@ -12927,21 +11186,16 @@ august  foot  to  the  head  of  his  servitor."  These  words,  and  the
 intercession  of  Dokuz  Khatun,  Hulagu's  wife,  obtained  the  grace
 
 
-256  The  Mongols
-
 which  he  needed  and  was  seeking.    The  brothers  were  reconciled
 and  Rum  was  divided  between  them.
 
-Hulagu  now  summoned  Bedr  ud  din  Lulu  of  Mosul  to  his  pres-
-e.  This  prince  was  then  more  than  eighty  years  old  and  veiy
-crafty.  He  had  been  a  slave  of  Nur  ud  din  Arslam,  Shah  of  Diar-
-bekr,  who  at  death  loft  him  as  guardian  to  his  son  Massud.  Lulu
+Hulagu  now  summoned  Bedr  ud  din  Lulu  of  Mosul  to  his  prese.  This  prince  was  then  more  than  eighty  years  old  and  veiy
+crafty.  He  had  been  a  slave  of  Nur  ud  din  Arslam,  Shah  of  Diarbekr,  who  at  death  loft  him  as  guardian  to  his  son  Massud.  Lulu
 governed  Mosul  for  this  Massud  who  died  in  1218  leaving  two  sons
 of  tender  years.  Those  boys  followed  their  father  to  that  otlior
 existence  before  two  years  had  passed,  and  the  former  slave  became
 sovereign.  He  had  reigned  in  Mosul  forty  years  laoking  one,
-before  coming  to  Hulagu's  presence  with  splendid  gifts  and  ap-
-parently unlimited  obedience.  When  leaving  Mosul,  Lulu's
+before  coming  to  Hulagu's  presence  with  splendid  gifts  and  apparently unlimited  obedience.  When  leaving  Mosul,  Lulu's
 friends  wore  in  dread  for  his  safetv,  but  he  calmed  them,  an
 this  assurance :  "  I  will  make  the  Khan  mild,  and  even  pull  his
 ears  while  I  speak  to  him."
@@ -12961,10 +11215,8 @@ promise.
 The  fate  of  both  Christians  and  Jews  had  been  painful  and
 bitter  under  Abbasid  dominion.  Favor  and  solace  now  came
 from  tin-  Mongols.  Tho  invaders  cared  no  more  at  that  time  for
-Christians  than  for  the  followers  of  Mohammed,  but  when  at-
-tacking new  lands  it  was  to  their  interest  to  win  populations  which
-wen-  hostile  to  the  dominant  nation.  The  protection  of  the  con-
-querors,  and  the  shattered  condition  of  Islam,  weakened  by  such
+Christians  than  for  the  followers  of  Mohammed,  but  when  attacking new  lands  it  was  to  their  interest  to  win  populations  which
+wen-  hostile  to  the  dominant  nation.  The  protection  of  the  conquerors,  and  the  shattered  condition  of  Islam,  weakened  by  such
 din-  devastation,  had  roused  hopes  among  Christians  to  dominate
 those  who  had  trampled  them  for  centuries.  Upon  the  choice
 which  the  conqueror  would  make  between  the  religions  their  fata
@@ -12991,12 +11243,10 @@ Three  weeks  later  on  Turan  Shah  fell  by  the  daggers  of  men  who
 had  been  Mameluk  chiefs  in  the  reign  of  his  father.  He  had  wished
 to  replace  these  by  friends  of  his  own,  so  they  slew  him.  After
 this  deed  the  chiefs  gave  allegiance  to  Shejer  ud  dur,  the  late
-Sultan's  slave  girl  and  concubine.  She  had  enjoyed  his  full  con-
-fidence, and  was  governing  till  Turan  Shah  might  reach  Cairo.
+Sultan's  slave  girl  and  concubine.  She  had  enjoyed  his  full  confidence, and  was  governing  till  Turan  Shah  might  reach  Cairo.
 
 Eibeg,  a  Mameluk  chief,  was  elected  commander.  Shejer  ud  dur
-now  married  Eibeg  and  when  three  months  had  passed  she  re-
-signed in  his  favor.  In  mounting  the  throne  the  new  Sultan  took
+now  married  Eibeg  and  when  three  months  had  passed  she  resigned in  his  favor.  In  mounting  the  throne  the  new  Sultan  took
 the  title  Moizz,  and  chose  as  associate  El  Ashraf,  an  Eyubite
 prince  six  years  old,  the  great-grandson  of  Kamil  the  Sultan.
 This  revolution,  which  placed  a  Mameluk  chief  on  the  throne  of
@@ -13018,8 +11268,6 @@ of  Russia  young  prisoners  were  sold  in  large  numbers  into  Egypt
 and  Syria.  Salih  had  a  thousand,  whom  he  lodged  in  the  fortress
 of  Randhat,  on  an  island  in  front  of  Cairo;   he  called  them  the
 
-
-258  The  Mongols
 
 Bahriye,  or  men  of  the  river.  Tliese  young  slaves  were  brought
 up  in  the  practice  of  arms,  and  in  the  religion  of  Islam.  The
@@ -13076,8 +11324,7 @@ and  cut  their  heads  off  immediately.
 
 Some  years  before  his  defeat  by  Eibeg  Prince  Nassir  had
 sent  to  Hulagu  his  vizir,  Zein  ud  din  el  Hafizzi,  who  brought
-back  with  him  letters  of  safety  to  his  master.  The  im-
-mense progress  of  Hulagu 's  arms  and  his  menacing  plans  dis-
+back  with  him  letters  of  safety  to  his  master.  The  immense progress  of  Hulagu 's  arms  and  his  menacing  plans  dis-
 turbed Nassir,  who  grieved  now  that  he  had  not  sent  homage
 earlier  to  the  conquering  Mongol.  In  1258  he  despatched  his
 son,  Aziz,  still  a  boy,  with  his  vizir,  a  general,  and  some  officers,
@@ -13087,21 +11334,18 @@ audience.
 
 When  Nassir's  envoys  were  received  by  Hulagu,  he  inquired
 why  their  master  had  not  come  with  them.  "  The  Prince  of
-Syria  fears,"  said  they,  "  that  should  he  absent  himself  his  neigh-
-bors, the  Franks,  who  are  also  his  enemies,  would  invade  his
+Syria  fears,"  said  they,  "  that  should  he  absent  himself  his  neighbors, the  Franks,  who  are  also  his  enemies,  would  invade  his
 possessions,  hence  he  has  sent  his  own  son  to  represent  him."
 Hulagu  feigned  to  accept  this  false  answer.  The  envoyss  it  is
 said,  requested  Mongol  aid  to  save  Egypt  from  the  Mameluks.
-Hulagu  detained  Aziz  some  months,  and  when  at  last  he  per-
-mitted the  boy  to  take  leave  and  return  to  his  father,  the  vizir
+Hulagu  detained  Aziz  some  months,  and  when  at  last  he  permitted the  boy  to  take  leave  and  return  to  his  father,  the  vizir
 received  a  message  for  Nassir,  which  was  in  substance  as  follows :
 :'  Know  thou,  Prince  Nassir,  and  know  all  commanders  and
 warriors  in  Syria,  that  we  are  God's  army  on  earth.  He  has
 taken  from  our  hearts  every  pity.  Woe  to  those  who  oppose  us,
 they  must  flee,  we  must  hunt  them.  By  what  road  can  they  save
 themselves,  what  land  will  protect  them?  Our  steeds  rush  like
-lightning,  our  swords  cut  like  thunderbolts,  our  warriors  in  num-
-ber are  like  sands  on  the  seashore.  Whoso  resists  us  meets  terror;
+lightning,  our  swords  cut  like  thunderbolts,  our  warriors  in  number are  like  sands  on  the  seashore.  Whoso  resists  us  meets  terror;
 he  who  implores  us  finds  safety.  Receive  our  law,  yours  and  ours
 will  then  be  in  common.  If  ye  resist,  blame  yourselves  for  the
 things  which  will  follow.  Choose  the  safe  way.  Answer  quickly,
@@ -13124,11 +11368,9 @@ make  common  cause  with  every  Mohammedan,  and  sent  back  a
 brave  answer.  These  are  some  words  of  it:  "  Ye  say  that  God  has
 removed  from  your  hearts  every  pity.  That  is  the  condition  of
 devils,  not  sovereigns.  But  is  it  not  strange  to  threaten  lions  with
-bruises,  tigers  wTith  hyenas,  and  heroes  with  clodhoppers  ?  Re-
-sistance to  you  is  obedience  to  the  Highest.  If  we  slay  you  our
+bruises,  tigers  wTith  hyenas,  and  heroes  with  clodhoppers  ?  Resistance to  you  is  obedience  to  the  Highest.  If  we  slay  you  our
 prayers  have  been  answered;  if  ye  slay  us  we  go  into  paradise.
-We  will  not  flee  from  death  to  exist  in  opprobrium.  If  we  sur-
-vive we  are  happy;  if  we  die  we  are  martyrs.  Ye  demand  that
+We  will  not  flee  from  death  to  exist  in  opprobrium.  If  we  survive we  are  happy;  if  we  die  we  are  martyrs.  Ye  demand  that
 obedience  which  we  render  the  vicar  of  the  Prophet,  ye  shall  not
 have  it;  we  would  rather  go  to  the  place  in  which  he  is.  Tell
 the  man l  who  indited  your  message  that  we  care  no  more  for  his
@@ -13139,8 +11381,7 @@ summoned  Bedr  ud  din  Lulu,  who,  excused  because  of  great  age,
 bad  to  send  his  son,  Melik  Salih  Ismail,  with  the  troops  of  Mosul.
 When  this  young  man  arrived  at  the  camp  of  the  Mongols  Hulagu
 made  him  marry  a  daughter  of  Jelal  ud  din,  the  last  Shah  of
-Kwaresm.  Kita  Buga  went  with  the  vanguard,  Sinkur,  a  de-
-scendant of  Kassar,  and  Baidju  led  the  right  wing,  the  left  was"  com-
+Kwaresm.  Kita  Buga  went  with  the  vanguard,  Sinkur,  a  descendant of  Kassar,  and  Baidju  led  the  right  wing,  the  left  was"  com-
 manded by  Sunjak.  Ilulagu  set  out  with  the  center,  September
 12,  1259.  He  passed  Hakkar,  where  all  Kurds  whom  they  met
 were  cut  down  by  the  sword,  not  one  man  being  spared.  On
@@ -13190,8 +11431,7 @@ Hulagu 's  march  spread  dismay  throughout  Syria.  Prince  Nassir
 had  spent  his  time  thus  far  in  discussing  with  Mogith.  The  year
 before  a  corps  of  three  thousand  horsemen  came  to  Syria;  these
 were  deserters  from  Hulagu 's  army,  so  called  Sheherzurians,
-doubtless  Kurds  of  Sheherzur.  Nassir  took  these  men  to  his  serv-
-ice, and  gave  them  good  treatment ;  on  hearing  that  they  wished
+doubtless  Kurds  of  Sheherzur.  Nassir  took  these  men  to  his  service, and  gave  them  good  treatment ;  on  hearing  that  they  wished
 to  desert  him  for  Mogith  he  doubled  his  bounty,  but  still  they
 passed  over  to  Mogith.  With  these  men  and  the  Mameluks
 Prince  Mogith  considered  that  he  could  master  Damascus.  Nassir
@@ -13206,8 +11446,6 @@ and  resolved  on  resistance.  Nassir  fixed  his  camp  at  Berze,  a
 short  distance  north  of  Damascus,  but  he  could  not  confide  in
 his  army ;  volunteers,  Turks  and  Arabs,  he  knew  that  his  generals
 
-
-262  The  Mongols
 
 and  soldiers  greatly  feared  Hulagu's  victors.  He  himself  was  a
 man  of  weak  character  who  roused  no  respect  in  his  army.
@@ -13267,8 +11505,7 @@ brother  and  mother,  and  was  then  proclaimed  sovereign.
 Captured  by  Mongols  in  boyhood,  Kutuz  had  been  sold  in
 Damascus,  and  later  in  Cairo.  He  declared  himself  a  nephew  of
 the  Kwaresmian  ruler,  Shah  Mohammed.  Manumitted  by
-Moizz  ud  din  Eibeg  he  added  El  Moizzi  to  his  name,  thus  follow-
-ing the  Mameluk  custom.
+Moizz  ud  din  Eibeg  he  added  El  Moizzi  to  his  name,  thus  following the  Mameluk  custom.
 
 "When  generals  condemned  Kutuz  for  taking  the  dignity  from
 Mansur  he  referred  to  Hulagu,  and  the  fear  caused  by  Prince
@@ -13282,8 +11519,7 @@ were  sent  to  Stambul,  the  Turkish  capital,  and  remained  there.
 The  new  Sultan  imprisoned  eight  generals,  then,  receiving  the
 oath  of  the  army,  he  prepared  his  campaign  against  the  Mongols.
 First  he  sent  an  assuring  epistle  to  Nassir,  swearing  that  he  would
-lay  no  claim  to  that  prince's  possessions ;  that  he  looked  on  him-
-self as  Nassir 's  lieutenant  in  Egypt,  that  he  would  put  him  on  the
+lay  no  claim  to  that  prince's  possessions ;  that  he  looked  on  himself as  Nassir 's  lieutenant  in  Egypt,  that  he  would  put  him  on  the
 throne  if  he  would  come  at  that  juncture  to  Cairo.  If  the  prince
 wished  his  services  he  would  march  to  his  rescue,  but  if  his  presence
 was  disquieting  the  army  would  go  with  the  chief  whom  Prince
@@ -13292,16 +11528,13 @@ Nassir  might  indicate.
 This  letter,  borne  to  the  prince  by  an  officer  from  Egypt,  who
 went  with  the  envoy  whom  the  prince  had  sent  to  Egypt  asking  for
 aid,  allayed  the  suspicions  of  Nassir.  Danger  was  imminent,
-Hulagu  had  just  marched  into  Syria.  Master  of  all  lands  be-
-tween the  Euphrates  and  Tigris,  Hulagu  laid  siege  to  El  Biret  on
+Hulagu  had  just  marched  into  Syria.  Master  of  all  lands  between the  Euphrates  and  Tigris,  Hulagu  laid  siege  to  El  Biret  on
 the  first  of  these  rivers,  and  took  it.  In  that  citadel  Said,  the
 Eyubite  prince,  who  had  been  nine  years  in  prison,  was  freed  by
 Hulagu  and  put  in  possession  of  Sebaibet  and  Banias.  The  Mongol
 then  crossed  the  Euphrates  by  bridges  of  boats  at  Malattia,  Kelat
 ur  Rum,  El  Biret,  and  Kirkissia;   he  sacked  the  city  Mahuj,  and
 
-
-264  The  Mongols
 
 left  garrisons  in  El  Biret,  Nedjram,  Joaber,  Kallomkos,  and  Lash„
 having  put  to  the  sword  their  inhabitants.  After  that  he  marched
@@ -13322,8 +11555,7 @@ These,  finding  the  enemy  superior  in  numbers,  and  resolute,
 returned  through  the  gates  very  quickly.  Next  day  the  bulk  of
 the  Mongol  division  approached  the  walls  closely.  The  chiefs
 of  the  garrison  went  out  to  the  square  where  they  counseled.
-Though  Prince  Moazzam  Turan  Shah,  the  governor,  had  for-
-bidden attacks  on  an  enemy  so  evidently  superior,  a  part  of  the
+Though  Prince  Moazzam  Turan  Shah,  the  governor,  had  forbidden attacks  on  an  enemy  so  evidently  superior,  a  part  of  the
 troops,  and  with  them  a  crowd  of  common  people,  marched  out
 to  the  mountain  Bankussa  which  they  occupied.  Seeing  Mongols
 advancing,  some  of  those  on  the  mountain  hurried  down  to  attack
@@ -13356,8 +11588,7 @@ Aleppo  had  been  sacked  during  five  days  and  nights,  and  most  of
 the  inhabitants  had  been  cut  down,  Hulagu  proclaimed  an  end  to
 the  massacre.  The  streets  were  blocked  up  with  corpses.  Only
 those  men  escaped  who  found  refuge  in  four  houses  of  dignitaries,
-in  a  Mohammedan  school,  and  a  synagogue,  all  these  were  safe-
-guarded. One  hundred  thousand  women  and  children  were  sold
+in  a  Mohammedan  school,  and  a  synagogue,  all  these  were  safeguarded. One  hundred  thousand  women  and  children  were  sold
 into  slavery.  The  walls  of  Aleppo  were  leveled,  its  mosques  were
 demolished,  its  gardens  uprooted  and  ruined.  One  month  later
 on  the  citadel  yielded.  The  victors  found  immense  booty  in  the
@@ -13391,11 +11622,7 @@ he  read  his  diploma,  and  an  edict  which  guaranteed  safety  to  all
 men.  But  in  spite  of  grand  words  of  this  kind  consternation  and
 dread  were  universal.
 
-Two  commandants  came  now,  one  a  Mongol,  the  other  a  Per-
-sian, who  gave  orders  to  follow  the  wishes  of  Zein  ud  din  el  Hafizzi,
-
-
-266  The  Mongols
+Two  commandants  came  now,  one  a  Mongol,  the  other  a  Persian, who  gave  orders  to  follow  the  wishes  of  Zein  ud  din  el  Hafizzi,
 
 
 r>v
@@ -13424,8 +11651,7 @@ his  promise,  but  if  a  Moslem  would  swear  on  the  Koran  that  their
 lives  would  be  spared,  they  would  surrender  the  castle.  Hulagu
 asked  whom  they  wished  as  the  man  to  give  oath  to  them;  they
 replied  Fakhr  ud  din  Saki,  last  commandant  in  the  cilfdel  of
-Aleppo.  Hulagu  sent  this  man  with  directions  to  swear  to  every-
-thing asked  of  him.  On  the  faith  of  his  oath  the  place  was  de-
+Aleppo.  Hulagu  sent  this  man  with  directions  to  swear  to  everything asked  of  him.  On  the  faith  of  his  oath  the  place  was  de-
 livered. All  then  were  ordered  to  go  forth  from  Harem.  Hulagu,
 angry  that  his  word  had  been  questioned,  put  Fakhr  ud  din  to
 death  straightway,  and  slaughtered  the  whole  population,  not
@@ -13443,8 +11669,7 @@ he  made  Kita  Buga  commander  of  the  armies  in  Syria,  and  when
 departing  ordered  him  to  level  the  walls  of  Aleppo  and  its  citadel.
 A  deputation  of  Crusaders  came  at  this  time  to  Kita  Buga.
 
-It  is  said  by  historians,  that  Hulagu  had  resolved  to  take  Pales-
-tine from  the  Moslems,  and  give  it  to  Christians,  and  that  he  was
+It  is  said  by  historians,  that  Hulagu  had  resolved  to  take  Palestine from  the  Moslems,  and  give  it  to  Christians,  and  that  he  was
 about  to  do  this  when  news  came  of  Mangu's  demise  in  Mongolia.
 He  turned  homeward  immediately,  intending  to  strive  for  his  own
 elevation,  but  he  learned  in  Tebriz  that  his  brother,  Kubilai,
@@ -13469,10 +11694,6 @@ Kurd  attendants  who  informed  Kita  Buga  of  his  whereabouts,  he
 was  seized  near  Lake  Ziza  by  Mongols  and  taken  to  their  general,
 who  was  laying  siege  then  to  Ajaion.    The  general  forced  Nassir
 
-267
-
-
-268  The  Mongols
 
 to  order  the  commandant  to  surrender  that  fortress  to  the  Mongols.
 The  commandant  obeyed  after  certain  resistance  and  Ajalon,
@@ -13489,16 +11710,14 @@ Bulagu  received  Nassir  well  and  promised  to  reinstate  him  in
 Syria  when  he  should  subdue  Egypt
 
 Egypt,  up  to  that  time  a  refuge  for  those  who  were  fleein"  from
-Mongols,  now  felt  the  terror  of  a  threatened  invasion.  The  Mon-
-gols had  conquered  all  lands  invaded  by  them  thus  far,  hen
+Mongols,  now  felt  the  terror  of  a  threatened  invasion.  The  Mongols had  conquered  all  lands  invaded  by  them  thus  far,  hen
 most  men  felt  certain  that  they  would  take  Egypt.  The  Africans
 living  in  Cairo  returned  to  their  distant  homes  because  of  this
 conviction.  Soon  after  Hulagu's  departure  for  Persia  envoys
 announced  themselves  in  Cairo,  and  summoned  the  Sultan  to
 obedience;  war  was  threatened  in  case  of  refusal.  Kutuz  called
 a  great  council  immediately  to  decide  upon  final  action.  Nassir
-ud  din  Kaimeri,  a  Kwaresmian  general  who  had  just  left  the  serv-
-ice of  Nassir,  favored  war  and  declared  for  it.  "  No  one,"  he
+ud  din  Kaimeri,  a  Kwaresmian  general  who  had  just  left  the  service of  Nassir,  favored  war  and  declared  for  it.  "  No  one,"  he
 said,  "  could  believe  Hulagu  who  has  broken  faith  with  the  Alamut
 chief,  with  the  Kalif,  with  Ake,  commandant  of  Daritang,  and
 with  the  Prince  of  Erbil."  Beibars,  the  emir  from  Damascus,
@@ -13511,8 +11730,7 @@ It  was  then  decided  that  Hulagu's  envoys  must  die,  hence  they
 were  thrown  into  prison  to  await  execution.  The  Sultan  made
 immense  efforts;  he  levied  tribute,  illegal  in  Islam;  lie  taxed.
 revenues,  he  taxed  heads,  but  that  was  still  insufficient;  then  he
-:ed  the  goods  of  all  who  had  deserted  Nassir  for  his  sake.  Nas-
-gir'a  wife  had  to  yield  up  a  pari  of  her  jewels;  other  women  were
+:ed  the  goods  of  all  who  had  deserted  Nassir  for  his  sake.  Nasgir'a  wife  had  to  yield  up  a  pari  of  her  jewels;  other  women  were
 forced  lo  make  similar  sacrifices.  Those  who  did  not  part  with
 their  jewels  willingly  were  ill-treated.     When  ready  for  marching
 
@@ -13564,15 +11782,12 @@ Sultan  made  only  a  brief  halt  at  Gaza,  and  moved  along  near  the
 coast  line.    Kita  Buga,  who  heard  at  Baalbek  of  this  hostile  ad-
 
 
-270  The  Mongols
-
 vance,  sent  his  family  and  baggage  to  Damascus,  collected  his
 troops,  and  set  out  to  encounter  the  forces  of  Egypt.
 
 The  two  armies  saw  each  other  first  on  the  plain  of  Ain  Jalut
 ^ Fountain  of  Goliah),  between  Baissan  and  Nablus.  Before  the
-battle  Kutuz  spoke  with  great  feeling  to  his  generals,  and  strength-
-ened them  for  the  conflict.  He  mentioned  the  peoples  whom  the
+battle  Kutuz  spoke  with  great  feeling  to  his  generals,  and  strengthened them  for  the  conflict.  He  mentioned  the  peoples  whom  the
 Mongols  had  ruined,  and  he  threatened  his  hearers  with  the  same
 lot  unless  they  won  victory.  He  roused  them  to  liberate  Syria,  and
 vindicate  Islam;  if  not  they  would  earn  Heaven's  wrath  and
@@ -13580,8 +11795,7 @@ dire  punishment.  Moved  by  his  words  they  shed  tears,  and  swore
 to  do  all  that  was  in  them  to  hurl  back  the  enemy.
 
 The  two  armies  met  September  3,  1260.  The  Egyptians  entered
-the  battle  without  confidence.  At  first  they  were  timid  and  con-
-fusion appeared  in  the  left  wing  which  turned  to  flee;  at  that
+the  battle  without  confidence.  At  first  they  were  timid  and  confusion appeared  in  the  left  wing  which  turned  to  flee;  at  that
 moment  the  Sultan  cried  out:  "  O  God,  give  Thou  victory  to  thy
 servant  Kutuz."  He  charged  then  in  person,  cut  into  the  thick
 of  the  enemy,  and  performed  miracles  of  valor.  He  charged  again
@@ -13589,8 +11803,7 @@ and  again,  encouraging  others  to  meet  death,  and  fear  nothing.
 
 Meanwhile  the  left  wing  had  rallied,  re-formed,  and  reappeared
 on  the  battlefield.  These  warriors  fought  now  with  invincible
-fury,  and  stopped  not  till  they  had  broken  the  ranks  of  the  Mon-
-gols, who  fled  after  having  lost  most  of  their  officers.  Kita  Buga
+fury,  and  stopped  not  till  they  had  broken  the  ranks  of  the  Mongols, who  fled  after  having  lost  most  of  their  officers.  Kita  Buga
 was  killed  in  the  action.  A  Mongol  division  entrenched  on  a
 neighboring  height  was  attacked,  and  cut  to  pieces.  The  emir,
 Beibars,  surrounded  the  fugitives,  of  whom  only  a  very  small
@@ -13598,8 +11811,7 @@ number  escaped.  Some  hid  among  reeds  near  the  battle-ground;
 Kutuz  set  fire  to  the  reeds  and  all  those  men  perished.  When  the
 great  battle  was  over  the  Sultan  came  down  from  his  horse,  and
 returned  thanks  to  God  in  a  prayer  of  two  verses.  Prince  Said,
-who  had  fought  on  the  side  of  the  Mongols,  came  now  to  sur-
-render. On  dismounting  he  went  to  the  Sultan  to  kiss  his  hand,
+who  had  fought  on  the  side  of  the  Mongols,  came  now  to  surrender. On  dismounting  he  went  to  the  Sultan  to  kiss  his  hand,
 but  Kutuz  kicked  his  mouth,  and  commanded  an  equerry  to  cut
 his  head  off  immediately.
 
@@ -13615,8 +11827,7 @@ The  camp  of  the  Mongols,   their  women,   and  children,  and
 
 Victory  of  Kutuz,  Sultan  of  Egypt  271
 
-baggage  fell  into  the  hands  of  the  conquerers.  Hulagu's  com-
-mandants were  slaughtered  wherever  the  Moslems  could  seize
+baggage  fell  into  the  hands  of  the  conquerers.  Hulagu's  commandants were  slaughtered  wherever  the  Moslems  could  seize
 them.  Those  in  Damascus  were  able  to  save  themselves.  News
 of  the  Mongol  defeat  arrived  there  September  8  in  the  night
 between  Saturday  and  Sunday.  The  commandants  rushed  off
@@ -13631,8 +11842,7 @@ and  slew  all  unhindered.  The  churches  of  Saint  James  and  Saint
 Mary  were  burred.  Jew  shops  were  plundered  most  thoroughly,
 and  the  houses  of  that  people  with  their  synagogues  were  saved
 only  by  armed  forces.  Next  the  turn  came  to  Moslems  who  had
-been  partisans  and  agents  of  the  Mongols;  these  too  were  mas-
-sacred without  pity.
+been  partisans  and  agents  of  the  Mongols;  these  too  were  massacred without  pity.
 
 Kutuz  arrived  at  Damascus  with  his  army,  and  entered  the
 city  two  days  later.  He  hanged  a  number  of  Moslems,  who  had
@@ -13650,8 +11860,7 @@ Egyptians,  withdrew  to  Rum  with  the  remnant  of  his  warriors.
 Kutuz,  who  had  saved  Egypt  and  become  master  of  Syria  as  far
 as  the  Euphrates,  was  the  only  man  of  that  period  who  could  have
 turned  back  the  tide  of  Mongol  conquest.  He  now  gave  fiefs  and
-rewards  to  whomever  his  good- will  selected.  He  gave  the  govern-
-ment of  Damascus  to  Sindjar;  and  of  Aleppo  to  Mozaffer,  a  son
+rewards  to  whomever  his  good- will  selected.  He  gave  the  government of  Damascus  to  Sindjar;  and  of  Aleppo  to  Mozaffer,  a  son
 of  Bedr  ud  din  Lulu ;  Prince  Mansur  was  confirmed  in  possession
 of  Hamat;  Ashraf,  Prince  of  Hims,  Hulagu's  chief  lieutenant  in
 Syria,  asked  grace  of  the  Sultan  and  got  it.  When  he  had  named
@@ -13670,10 +11879,8 @@ resentment  that  with  six  other  malcontents  he  formed  a  plot  to
 assassinate  the  Sultan.
 
 Between  Koissem  and  Salahiyet  the  Sultan  left  his  road  for  a
-short  hunting  trip ;  the  conspirators  followed  till  they  found  him  un-
-attended.     Beibaia  then  approached  Kutuz  and  begged  for  a  favor
-which  was  granted;  he  took  the  Sultan's  hand  to  kiss  it;  that  mo-
-ment one  of  the  six  struck  Kutuz  on  the  back  of  the  neck  with  a
+short  hunting  trip ;  the  conspirators  followed  till  they  found  him  unattended.     Beibaia  then  approached  Kutuz  and  begged  for  a  favor
+which  was  granted;  he  took  the  Sultan's  hand  to  kiss  it;  that  moment one  of  the  six  struck  Kutuz  on  the  back  of  the  neck  with  a
 sabre,  a  second   man  pushed  him  down  from  the  horse,  a  third
 pierced  his  body  with  an  arrow,  and  Beibars  with  a  last  blow  took
 life  from  the  Sultan,  October  25, 1260     The  assassins  left  the  body
@@ -13713,8 +11920,7 @@ bargain.      He    was   bought   then   by   Emir   Eidikin    Bundukdarj
 
 Victory  of  Kutuz,  Sultan  of  Egypt  273
 
-following  Mameluk  usage  he  called  himself  Beibars  el  Bunduk-
-dari.  In  1246  the  Eyubite  Sultan,  Salih,  disgraced  Eidikin,  took
+following  Mameluk  usage  he  called  himself  Beibars  el  Bundukdari.  In  1246  the  Eyubite  Sultan,  Salih,  disgraced  Eidikin,  took
 his  Mameluk,  and  advanced  Beibars  until  he  became  one  among
 the  highest  Bahriyans,
 
@@ -13722,8 +11928,7 @@ Beibars  now  made  his  old  owner  a  general,  and  gave  him  the
 government  of  Damascus.  Hulagu  had  given  Damascus  and  its
 province  to  Prince  Nassir,  and  had  sent  him  from  Hamadan,  with
 an  escort  of  three  hundred  Syrians,  on  the  eve  of  the  day  when  news
-came  that  the  Mongols  were  crushed  at  Ain  Jalut.  It  was  sug-
-gested to  Hulagu  then  by  a  Syrian  that  Nassir  on  getting  Damascus
+came  that  the  Mongols  were  crushed  at  Ain  Jalut.  It  was  suggested to  Hulagu  then  by  a  Syrian  that  Nassir  on  getting  Damascus
 would  join  Kutuz  surely.  Thereupon  Halagu  sent  three  hundred
 Mongols  on  horseback  to  follow  Nassir.  They  came  up  with  the
 prince  in  the  mountains  of  Salmas  where  they  killed  him,  and
@@ -13734,19 +11939,16 @@ greatly  by  the  death  of  Mangu,  he  could  not  begin  an  expedition
 at  that  time.
 
 As  we  have  stated,  Mayafarkin  had  been  summoned  to  surrender
-and  then  besieged  by  Yshmut  while  his  father,  Hulagu,  was  ad-
-vancing on  Aleppo.  Prince  Kamil  of  Mayafarkin  gave  this  answer
+and  then  besieged  by  Yshmut  while  his  father,  Hulagu,  was  advancing on  Aleppo.  Prince  Kamil  of  Mayafarkin  gave  this  answer
 to  the  summons :  "  I  have  learned  from  the  fate  of  other  sovereigns
 to  put  no  trust  whatever  in  Mongols  and  will  fight  to  the  utmost."
 Inflaming  the  courage  of  his  people,  he  opened  all  his  supplies
 and  every  treasure,  not  wishing,  as  he  said,  to  act  like  the  Kalif  of
 Bagdad  who  lost  life  and  an  Empire  through  avarice.  He  began
-by  a  sortie,  in  which  he  slew  many  besiegers.  He  had  in  his  serv-
-ice a  man  of  rare  skill  in  hurling  great  stones  with  catapults,
+by  a  sortie,  in  which  he  slew  many  besiegers.  He  had  in  his  service a  man  of  rare  skill  in  hurling  great  stones  with  catapults,
 This  man  did  immense  harm  to  the  assailants;  they  too  had  a
 man  of  much  art  in  this  matter  whom  they  got  from  Bedr  ud  din
-Lulu,  late  prince  of  Mosul.  It  is  said  that  once  the  two  men  dis-
-charged their  engines  at  the  very  same  instant  and  the  two  stones
+Lulu,  late  prince  of  Mosul.  It  is  said  that  once  the  two  men  discharged their  engines  at  the  very  same  instant  and  the  two  stones
 from  their  catapults  met  in  the  air  and  shivered  each  other  to
 fragments,  Two  champions  of  wonderful  strength  came  out  of
 Mayafarkin  each  time  with  a  sortie,  and  never  retired  till  they
@@ -13755,8 +11957,6 @@ to  a  blockade,  and  with  the  blockade  appeared  famine.  The
 besieged  were  forced  to  eat  dogs,  cats,  shoes,  and  at  last  they  ate
 people.      After  the  blockade  had  continued  a  full  year  and  resistance
 
-
-274  The  Mongols
 
 was  exhausted,  the  inhabitants  sent  to  Yshmut  declaring  that  there
 were  no  more  defenders  in  Mayafarkin.  He  sent  Oroktu  Noyon,
@@ -13782,13 +11982,11 @@ The  last  man  was  spared  because  he  had  been  chief  hunter  for  the
 Prince  of  Mayafarkin,  and  Hulagu  took  him  into  his  service.
 
 Yshmut  now  attacked  Mardin  at  command  of  his  father.  Hulagu
-had  invited  Said  of  Mardin  to  come  to  him,  but  Said  was  distrust-
-ful, and  sent  his  son  Mozaffer,  to  render  homage  at  Aleppo;
+had  invited  Said  of  Mardin  to  come  to  him,  but  Said  was  distrustful, and  sent  his  son  Mozaffer,  to  render  homage  at  Aleppo;
 Hulajni  sent  him  back  to  Mardin  and  said:  "Tell  thv  father  to
 come;  prevent  his  revolt  and  thus  save  him."  The  father  would
 not  listen  and  imprisoned  Mozaffer;  then  Hulagu  sent  troops
-against  Mardin.  The  place  was  on  a  height  beyond  reach  of  pro-
-jeetiles,  and  the  attackers  were  forced  to  blockade  it.  At  the  end
+against  Mardin.  The  place  was  on  a  height  beyond  reach  of  projeetiles,  and  the  attackers  were  forced  to  blockade  it.  At  the  end
 of  eight  months  an  epidemic  and  famine  had  produced  fearful
 ravages;  Prince  Said  died  of  the  malady  or,  as  some  historians
 state,  of  poison  administered  by  his  son.  Mozaffer  was  set  free
@@ -13816,15 +12014,12 @@ Gospels.
 
 Four  days  later  the  chief  functionaries  and  the  ulema  assembled
 in  the  palace,  and  Ahmed's  genealogy  was  established.  Taj  ud
-din  the  chief  justice  gave  him  the  oath  of  allegiance,  next  the  Sul-
-tan pledged  his  homage  and  faith  in  case  the  new  Kalif  acted  always
+din  the  chief  justice  gave  him  the  oath  of  allegiance,  next  the  Sultan pledged  his  homage  and  faith  in  case  the  new  Kalif  acted  always
 according  to  the  Divine  law  of  Islam,  and  all  traditions  of  the
 Prophet,  commanded  what  the  law  commands,  forbade  what  the
 law  forbids,  and  walked  in  the  ways  of  the  Almighty.  Also  that  he
-received  legally  in  the  name  of  God  the  contributions  of  the  faith-
-ful and  gave  them  to  those  who  had  the  right  to  receive  them.  The
-Kalif  then  invested  Beibars  with  the  sovereignty  of  countries  sub-
-mitted to  Islam,  and  those  which  God  might  permit  him  to  free
+received  legally  in  the  name  of  God  the  contributions  of  the  faithful and  gave  them  to  those  who  had  the  right  to  receive  them.  The
+Kalif  then  invested  Beibars  with  the  sovereignty  of  countries  submitted to  Islam,  and  those  which  God  might  permit  him  to  free
 from  unbelievers.  This  act  of  investiture  was  fixed  in  a  diploma,
 which  was  given  to  the  Sultan.  Then  every  man  present  pledged
 faith  to  the  Kalif,  now  called  Al  Mostansir  Billahi,  and  gave  him
@@ -13836,10 +12031,8 @@ of  Mohammed  rode  forth  in  public  on  a  white  steed  with  black
 trappings.  He  wore  a  black  turban,  a  violet  mantle,  a  collar  of
 gold,  and  the  sabre  of  a  Beduin.  On  the  day  of  installation  the
 Kalif  invested  the  Sultan  with  robes  of  office,  and  put  a  gold
-chain  on  his  neck.  After  that  the  vizir  read  the  diploma  con-
-ferring sovereign  power  upon  Beibars,  The  Sultan  now  mounted
-and  rode  through  the  city  with  great  pomp  and  the  utmost  solem-
-nity, preceded  by  the  vizir  and  the  grand  marshal,  who  carried
+chain  on  his  neck.  After  that  the  vizir  read  the  diploma  conferring sovereign  power  upon  Beibars,  The  Sultan  now  mounted
+and  rode  through  the  city  with  great  pomp  and  the  utmost  solemnity, preceded  by  the  vizir  and  the  grand  marshal,  who  carried
 alternately  above  their  heads  the  diploma  given  by  the  Kalif.  All
 houses  were  decorated,  and  the  Sultan's  horse  walked  on  the
 richest  of  stuffs  which  had  been  spread  on  the  streets  of  his
@@ -13848,9 +12041,6 @@ passage.
 The  following  Friday  the  Kalif  preached  in  the  mosque  of  the
 citadel ;  the  Sultan,  uncertain  of  the  effect  which  he  might  produce,
 and  to  be  sure  of  results  in  every  case,  so  arranged  as  to  shower
-
-
-276  The  Mongols
 
 
 o'
@@ -13866,10 +12056,8 @@ three  horses ;  he  gave  also  two  thousand  mounted  warriors,  and  a
 body  of  Beduins.
 
 The  Sultan  and  the  Kalif  left  Cairo  for  Damascus  September  4th,
-1262.  On  the  10th  of  October  the  Kalif  took  the  road  for  Bag-
-dad, attended  by  the  generals  Sen0  ud  din  Bilban  and  Sonkor
-of  Rum  who  had  been  deputed  to  go  with  him  to  the  Euphra-
-tes, and  to  hold  themselves  ready  to  follow  into  Irak  at  the  first
+1262.  On  the  10th  of  October  the  Kalif  took  the  road  for  Bagdad, attended  by  the  generals  Sen0  ud  din  Bilban  and  Sonkor
+of  Rum  who  had  been  deputed  to  go  with  him  to  the  Euphrates, and  to  hold  themselves  ready  to  follow  into  Irak  at  the  first
 signal  from  the  Kalif.
 
 The  three  sons  of  Bedr  ud  din  Lulu,  then  princes  of  Mosul,.
@@ -13888,16 +12076,14 @@ set  out  with  these  horsemen.  The  Kalif  overtook  Hakim  and  his
 party  at  the  river  where  the  seven  hundred  Turkman  deserted.
 
 Thereupon  Hakim  adhered  to  Mostansir,  and  was  ready  to
-assist  in  installing  him  at  Bagdad.  The  people  of  Ana  had  re-
-fused to  receive  Hakim.  The  Sultan  of  Egypt,  they  said,  had
+assist  in  installing  him  at  Bagdad.  The  people  of  Ana  had  refused to  receive  Hakim.  The  Sultan  of  Egypt,  they  said,  had
 recognized  a  Kalif  who  was  coming;  to  him  alone  would  they
 open  the  gates  of  their  city.
 
 When  Mostansir  appeared  he  was  met  with  due  homage.
 Baditse  acted  like  Ana,  but  Hitt  refused  sternly  to  open  its  gates
 and  was  taken  by  violence.  The  Kalif  entered  the  city  November
-24  with  his  warriors,  who  plundered  both  Christians  and  Jews  with-
-out merry.
+24  with  his  warriors,  who  plundered  both  Christians  and  Jews  without merry.
 
 Kara  liuga,  the  commander  of  those  Mongols  who  guarded
 Arabian  Irak,  hearing  of  Mostansir's  approach  marched  against
@@ -13908,12 +12094,10 @@ Victory  of  Kutuz,  Sultan  of  Egypt  277
 
 Kalif  and  might  give  him  aid.  Kara  Buga  entered  the  city  on  a
 sudden  and  cut  down  the  people  on  all  sides.  Bahadur  Ali,
-governor  of  Bagdad,  went  hither  also  with  the  troops  in  his  gar-
-rison. These  two  commanders  after  joining  their  forces  near
+governor  of  Bagdad,  went  hither  also  with  the  troops  in  his  garrison. These  two  commanders  after  joining  their  forces  near
 Anbar  encountered  the  new  Kalif  who,  ranging  the  Turkmans  on
 his  right,  the  Arabs  on  his  left,  charged  himself  in  the  center.
-Bahadur's  troops  took  to  flight  and  the  greater  part  threw  them-
-selves into  the  river.  Kara  Buga  put  some  of  his  forces  in  ambush
+Bahadur's  troops  took  to  flight  and  the  greater  part  threw  themselves into  the  river.  Kara  Buga  put  some  of  his  forces  in  ambush
 and  waited.  When  the  Turkmen  and  Arabs  met  the  Mongols
 they  fought  very  little,  and  rushed  off  in  panic.  The  center,  now
 left  unsupported,  was  surrounded  and  overpowered,  crushed  into
@@ -13928,8 +12112,7 @@ Mostassim,  the  last  Kalif  of  the  Kalifat,  who  was  trampled  to  death
 under  horsehoofs  at  Hulagu's  camp  ground.  But  whatever  his
 merits  this  adventure  reached  the  acme  of  folly.  It  is  difficult  to
 explain  how  the  Sultan  of  Egypt  with  all  his  shrewd  management
-could  have  spent  so  much  treasure  on  a  journey  foredoomed  be-
-yond doubt  to  disaster,  unless  he  had  a  sinister  motive  in  the
+could  have  spent  so  much  treasure  on  a  journey  foredoomed  beyond doubt  to  disaster,  unless  he  had  a  sinister  motive  in  the
 enterprise,  and  wished  it  to  end  in  the  destruction  of  that  Kalif
 whom  he  had  perhaps  inaugurated  through  diplomacy  and  for  his
 own  aggrandizement.  One  historian  declares  that  Beibars  was
@@ -13956,8 +12139,7 @@ by  command  of  God  "  He  lived  this  life  for  forty  years  and  was
 first  in  that  line  of  Egyptian  Kalifs  who  were  puppets  of  the
 Mameluke  sovereigns.  An  end  was  put  to  that  line  only  when
 Egypt  was  conquered  by  Selim  I.  and  the  Turkish  Sultans  took
-to  themselves  the  Kalifal,  and  became  the  successors  of  Mo-
-hammed.
+to  themselves  the  Kalifal,  and  became  the  successors  of  Mohammed.
 
 Salih,  the  eldest  son  of  Bedr  ud  din  of  Mosul,  met  a  worse  fate
 by  far  than  the  Kalif.  Soon  after  the  accession  of  Beibars  Salih's
@@ -13979,8 +12161,7 @@ and  escape  straightway  to  Egypt.    He  fled  then  to  Erbil
 
 Meanwhile  Salih,  fearing  lest  Ibn  Yunus  might  give  the  letter  to
 the  Mongols,  withdrew  with  his  son,  Alai  ul  Mulk.  toward  Syria.
-Turkan  Khatun,  his  wife,  would  not  go  with  him.  She  re-
-mained in  Mosul  with  Yasan,  the  Mongol  prefect.  She  and
+Turkan  Khatun,  his  wife,  would  not  go  with  him.  She  remained in  Mosul  with  Yasan,  the  Mongol  prefect.  She  and
 Yasan  shut  the  gates  and  prepared  a  defence  for  the  city.  One  of
 Salih's  officers,  Alam  ud  din  Sanjar,  left  him  while  journeying  and
 returned  to  occupy  Mosul.  He  found  the  gates  closed  and  began
@@ -14004,14 +12185,12 @@ attempted  to  storm  it,  but  the  monks  repelled  every  effort,  and
 burned  all  scaling  ladders  with  naphtha.  The  Kurds  now  let  down
 two  immense  rocks  from  a  neighboring  mountain  top.  One  of
 these  remained  fast  in  the  wall  and  was  fixed  there  like  a  stone  in
-its  setting;  the  other  passed  through  and  left  a  wide  breach  be-
-hind it.  When  the  Kurds  tried  to  rush  through  the  opening  the
+its  setting;  the  other  passed  through  and  left  a  wide  breach  behind it.  When  the  Kurds  tried  to  rush  through  the  opening  the
 monks  met  them  with  a  desperate  valor,  using  stones,  darts,  and
 every  weapon  in  the  monastery.  They  kept  the  Kurds  out  and
 filled  up  the  great  breach-  The  Abbot,  Abunser,  fought  with  the
 foremost  and  lost  one  eye  in  that  venomous  struggle.  But  in  time
-the  defenders  were  failing  and  would  have  been  forced  to  sur-
-render had  the  attacks  been  continued.  But  the  Kurds  too  had
+the  defenders  were  failing  and  would  have  been  forced  to  surrender had  the  attacks  been  continued.  But  the  Kurds  too  had
 their  weakness.  They  greatly  feared  an  attack  from  the  Mongols,
 though  this  they  concealed  very  cleverly,  and  even  extorted  a
 ransom.  The  monks  gave  the  silver  and  gold  of  the  churches,
@@ -14024,8 +12203,7 @@ the  Mongols  were  moving  on  Mosul,  marched  out  and  engaged
 them ;  he  was  killed  and  his  forces  defeated.  Salih,  the  Melik  of
 Mosul ,  and  his  son  had  gone  meanwhile  to  Beibars  who  was  then
 at  Damascus  with  the  new  Kalif.  He  was  received  with  great
-pomp  by  the  Sultan,  as  were  also  his  brothers.  Horses  and  ban-
-ners and  robes  of  honor  were  presented  to  them,  also  diplomas
+pomp  by  the  Sultan,  as  were  also  his  brothers.  Horses  and  banners and  robes  of  honor  were  presented  to  them,  also  diplomas
 confirming  their  titles.  These  diplomas  were  strengthened  further
 by  the  Kalif.  The  three  brothers  then  escorted  the  Kalif  to
 Rahbah,  as  has  been  already  stated,  where  they  left  him,  each
@@ -14035,22 +12213,17 @@ Salih  returned  to  Mosul  which  was  at  that  time  invested  by
 Mongols.  Samdagu,  the  commander,  having  learned  from  a  spy
 that  Salih  was  coming,  withdrew  to  a  point  not  remote  from  the
 city  where  he  waited.  When  Salih  had  passed  the  gate.  Samdagu
-reinvested  it  with  two  tumans  of  warriors  and  twenty-five  cata-
-pults. He  then  began  siege  work  which  lasted  from  December
+reinvested  it  with  two  tumans  of  warriors  and  twenty-five  catapults. He  then  began  siege  work  which  lasted  from  December
 till  summer.
 
 Salih  gave  good  gifts  to  his  garrison,  and  promised  that  the  Sul-
-
-
-280  The  Mongols
 
 
 D'
 
 
 tan  would  send  reinforcements.  The  defence  was  a  brave  one  and
-effective.  One  day  eighty  Mongols  succeeded  in  scaling  the  bul-
-warks, but  were  killed  every  man  of  them  and  their  heads  shot  out
+effective.  One  day  eighty  Mongols  succeeded  in  scaling  the  bulwarks, but  were  killed  every  man  of  them  and  their  heads  shot  out
 from  catapults  to  their  comrades.
 
 Samdagu  felt  need  of  reinforcements  which  came  to  him  promptly
@@ -14070,8 +12243,7 @@ The  Sultan's  army  was  slaughtered  except  a  mere  remnant.  The
 Mongols  attacked  then  the  people  of  Sinjar,  killed  nearly  all  the
 men  and  seized  captive  the  women  and  children.  Next  they  put
 on  the  clothing  of  Akkush 's  dead  warriors  and  moved  toward
-Mosul.  When  nearinj;  that  citv  thev  were  seen  from  the  watch-
-towers  by  the  people,  who  mistook  them  for  forces  sent  by  the
+Mosul.  When  nearinj;  that  citv  thev  were  seen  from  the  watchtowers  by  the  people,  who  mistook  them  for  forces  sent  by  the
 Sultan,  and  went  out  in  large  numbers  to  meet  them  These
 citizens  were  surrounded  immediately  by  the  Mongols  and  slain  to
 the  very  last  person.
@@ -14083,15 +12255,13 @@ with  a  request  for  full  pardon.  Thereupon  Salih  yielded  and  sent
 to  Samdagu  a  letter  containing  the  terms  of  surrender.
 
 He  went  to  the  Mongol  camp  from  the  city  June  25,  1262,  with
-presents  and  dainties,  preceded  by  dancers,  musicians  and  har-
-lequins.  The  Mongol  commander,  forgetting  all  promises,  would
+presents  and  dainties,  preceded  by  dancers,  musicians  and  harlequins.  The  Mongol  commander,  forgetting  all  promises,  would
 not  receive  Salih,  or  look  at  him,  nay  more,  he  put  the  prince  under
 a  strong  guard  immediately.
 
 But  Samdagu  reassured  the  people;  they  were  to  be  of  good
 cheer  he  declared  and  fear  nothing.  Meanwhile  they  must  tear
-down  the  walls  and  remove  them.  They  did  this  work  straight-
-way, and  when  all  was  cleared,  and  the  whole  place  was  laid  open.
+down  the  walls  and  remove  them.  They  did  this  work  straightway, and  when  all  was  cleared,  and  the  whole  place  was  laid  open.
 
 
 Victory  of  Kutuz,  Sultan  of  Egypt  281
@@ -14126,8 +12296,7 @@ beheaded.
 
 Samdagu  after  his  triumph  at  Mosul  marched  on  to  Jeziret
 to  which  he  laid  siege  all  the  following  winter  and  spring  and  a
-part  of  the  summer  of  1263.  This  place  was  saved  from  destruc-
-tion by  the  bishop,  Hanan  Yeshua  (Grace  of  Jesus),  a  Nestorian,
+part  of  the  summer  of  1263.  This  place  was  saved  from  destruction by  the  bishop,  Hanan  Yeshua  (Grace  of  Jesus),  a  Nestorian,
 who  through  his  knowledge  of  alchemy  was  a  favorite  of  Hulagu,
 to  whom  he  went  straightway  and  obtained  ayarlyk,  or  decree
 securing  their  lives  to  the  people.  The  gates  were  thrown  open  to
@@ -14163,8 +12332,7 @@ is  certain  for  something  in  Egypt  ?  "  "  Very  well,"  said  the  Sultan
 a  messenger  to  Salar  with  letters,  as  it  were  in  reply  to  some  others ;
 he  sent  a  second  man  also  to  kill  the  first  as  soon  as  he  cr  tssed
 Salar's  boundary,  and  leave  the  man  where  he  fell  with  the  letters
-upon  him.  All  this  was  done  as  Beibars  had  commanded.  Mon-
-gol outposts  discovered  the  body  and  searched  it.  The  letters  were
+upon  him.  All  this  was  done  as  Beibars  had  commanded.  Mongol outposts  discovered  the  body  and  searched  it.  The  letters  were
 sent  to  the  court  for  perusal.  In  Hulagu 's  service  there  were  sons
 of  former  Mameluks  of  the  Kalif.  These  men  told  Salar  directly
 what  had  happened  and  he  knew  straightway  that  Beibars
@@ -14186,8 +12354,7 @@ child  died  some  months  later  and  Berkai,  the  third  son  of  Juchi,
 was  put  on  the  throne  in  1256.  Berkai  had  been  converted  to
 Islam  and  was  spreading  it-  doctrines  effectively.  Strong  through
 support  of  Mangu,  tli«'  Grand  Khan,  whom  he  had  helped  to
-th»-  Empire,  Berkai  now  reproached  Hulagu  with  needless  cruel-
-ties,   with    slaughter    of    both     friends    and    enemies;     with    the
+th»-  Empire,  Berkai  now  reproached  Hulagu  with  needless  cruelties,   with    slaughter    of    both     friends    and    enemies;     with    the
 
 
 Victory  of  Kutuz,  Sultan  of  Egypt  283
@@ -14198,8 +12365,7 @@ still  other  causes  of  complaint.  Three  descendants  of  Juchi
 had  marched  into  Persia  with  Hulagu:  Balakan  and  Tumar,
 a  grandson  and  great  grandson  of  Juchi.  These  two  at  the
 head  of  Batu's  contingent,  and  Kuli,  also  a  grandson  of  Juchi.
-Kuli  led  the  contingent  of  Urda's,  his  father.  Tumar  was  ac-
-cused before  Hulagu  of  attempting  to  harm  him,  through  witch-
+Kuli  led  the  contingent  of  Urda's,  his  father.  Tumar  was  accused before  Hulagu  of  attempting  to  harm  him,  through  witch-
 craft. He  confessed  guilt  when  examined  while  in  torture.
 Hulagu  out  of  respect  for  Berkai  sent  Tumar  to  him  attended
 by  Sugundjak,  a  commander.  Berkai,  thinking  that  Tumar 's
@@ -14213,8 +12379,7 @@ election  of  Arik  Buga,  while  Hulagu  favored  Kubilai  in  the  contest
 for  Grand  Khanship.  Hulagu,  tired  of  excessive  reproaches  from
 Berkai,  was  ready  for  warfare.  On  hearing  this,  Berkai  declared
 his  intention  of  avenging  the  blood  of  his  relatives  and  many
-thousands  of  others.  He  sent  southward  an  army  of  thirty  thou-
-sand commanded  by  Nogai,  a  cousin  of  Tumar,  who  marched
+thousands  of  others.  He  sent  southward  an  army  of  thirty  thousand commanded  by  Nogai,  a  cousin  of  Tumar,  who  marched
 on  and  camped  near  Shirvan  beyond  the  Caucasus.  When  the
 troops  of  the  princes  descended  from  Juchi  saw  war  breaking  out
 between  their  own  sovereign  and  Hulagu  they  left  Persia  quickly.
@@ -14235,9 +12400,6 @@ him  north  of  the  Terek  in  which  were  vast  numbers  of  cattle  and
 of  women  and  children.    Hulagu 's  army  remained  at  that  camp
 
 
-284  The  Mongols
-
-
 B'
 
 
@@ -14245,8 +12407,7 @@ and  for  tliroe  days  continued  to  drink,  and  to  yield  themselves  up
 to  every  indulgence  accessible.
 
 All  on  a  sudden  Nogai  reappeared  with  his  army,  Hulagu's
-men  were  surprised  near  the  river  and  thoroughly  defeated  (Jan-
-uary 1:3,  1263).  The  only  escape  for  survivors  was  to  cross  the
+men  were  surprised  near  the  river  and  thoroughly  defeated  (January 1:3,  1263).  The  only  escape  for  survivors  was  to  cross  the
 frozen  river.  They  tried  this,  the  ice  broke  and  immense  numbers
 sank  in  the  Terek.  Hulagu  returned  to  Tebriz  greatly  grieved  and
 cast  down  by  the  overthrow,  but  he  summoned  at  once  a  new  army
@@ -14276,8 +12437,7 @@ sufficiency,  and  that  no  one  should  thwart  him.
 
 When  Jelal  had  assembled  those  people  of  Kipchak  he  declared
 that  Hulagu  would  put  them  in  the  vanguard  to  be  slain  there.
-"  I  do  not  wish  this,"  said  he.  "  Follow  me  and  we  will  free  our-
-selves from  Mongol-."  He  gave  the  men  money  and  arms  from
+"  I  do  not  wish  this,"  said  he.  "  Follow  me  and  we  will  free  ourselves from  Mongol-."  He  gave  the  men  money  and  arms  from
 the  treasury  and  arsenals  of  Bagdad  ;  then,  he  told  the  commandant
 of  the  <  ity  that  to  gather  provisions  he  was  making  a  raid  against
 Cafadje  Arabs,  at  war  with  Hulagu;  that  done,  he  would
@@ -14306,14 +12466,12 @@ refuge  in  Egypt.
 
 The  Sultan  commanded  his  officials  to  treat  these  men  well,  to
 give  them  provisions  and  clothing.  They  came  to  Cairo  about
-two  hundred  strong  and  under  four  captains.  Each  captain  re-
-ceived the  land  given  to  commanders  of  a  hundred.  Beibars  gave
+two  hundred  strong  and  under  four  captains.  Each  captain  received the  land  given  to  commanders  of  a  hundred.  Beibars  gave
 also  clothing,  horses  and  money.  All  became  Moslems.  This
 generous  treatment  induced  others  to  seek  an  asylum  in  Egypt.
 
 When  he  had  talked  with  these  strangers  concerning  their
-sovereign  and  country  the  Sultan  resolved  to  send  envoys  to  Ber-
-kai. He  chose  for  this  office  Self  ud  din  Keshrik,  a  man  who  had
+sovereign  and  country  the  Sultan  resolved  to  send  envoys  to  Berkai. He  chose  for  this  office  Self  ud  din  Keshrik,  a  man  who  had
 once  served  Jelal  ud  din  the  Kwaresmian  Sultan;  he  knew  the
 country  to  which  he  was  sent  and  its  language.  Madjd  ud  din,  a
 juris-consult,  went  with  him.  Two  men  of  the  Kipchaks  who  had
@@ -14340,14 +12498,12 @@ stopped  in  Greek  regions  by  the  Emperor  Michael '  who  had  com-
 ^x
 
 
-plaints  against  Berkai  whose  troops  had  been  raiding  his  posses-
-sions. Michael  had  sent  some  time  before  a  Greek  document  in
+plaints  against  Berkai  whose  troops  had  been  raiding  his  possessions. Michael  had  sent  some  time  before  a  Greek  document  in
 which  he  had  sworn  peace  and  amity  to  the  Sultan.
 
 Beibars  summoned  straightway  the  Patriarch  and  bishop  to  get
 their  decision  on  oath  breaking.  They  declared  that  by  breaking
-an  oath  a  sovereign  abjures  his  religion.  Beibars  sent  to  the  Em-
-peror this  document  signed  by  the  Patriarch  and  bishops;  he  sent
+an  oath  a  sovereign  abjures  his  religion.  Beibars  sent  to  the  Emperor this  document  signed  by  the  Patriarch  and  bishops;  he  sent
 also  a  letter  to  Berkai,  in  which  he  implored  him  to  stop  all  attacks
 on  the  Empire.
 
@@ -14405,8 +12561,7 @@ Khan's  name  next  his  own  in  the  public  prayer  of  each  Friday;
 this  was  done  als~>  in  Jerusalem  and  Cairo.  He  sent  to  Berkai  the
 first  Friday  sermon  of  the  new  Kalif.
 
-Beibars  sent  back  with  the  Berkai  envoys  the  two  hundred  war-
-riors from  Kipchak.
+Beibars  sent  back  with  the  Berkai  envoys  the  two  hundred  warriors from  Kipchak.
 
 Three  months  after  the  envoys  had  gone  thirteen  hundred
 Kipchaks  set  out  for  Cairo.  Beibars  commanded  to  treat  them
@@ -14423,8 +12578,7 @@ Irak.  These  came  to  seek  an  asylum  in  Egypt,  and  he  gave  them
 fiefs.  The  next  year  he  sent  Shuja  ud  din,  one  of  his  chamberlains,
 to  Berkai,  begging  him  to  stop  his  people  from  raiding  the  lands  of
 thr  Byzantine  Emperor,  who  had  asked  his  good  offices.  He  sent  at
-the  same  time  three  turbans  to  Berkai  which  he  had  worn  while  mak-
-ing the  pilgrimage  to  Mecca,  two  marble  vases  and  other  presents.
+the  same  time  three  turbans  to  Berkai  which  he  had  worn  while  making the  pilgrimage  to  Mecca,  two  marble  vases  and  other  presents.
 
 While  Hulagu  was  defending  his  northern  frontier  against
 Berkai's  armies  Hay  ton,  the  King  of  Cilicia,  attacked  Egyptian
@@ -14455,15 +12609,13 @@ havoc.
 
 Beibars  was  informed  now  by  secret  servants  in  Irak  that  Hulagu
 had  sent  two  agents  to  corrupt  leading  officers  of  Egypt,  and  that
-these  men  would  visit  Siss  as  thev  traveled.  This  news  was  con-
-finned  by  his  agents  in  that  capital  of  Armenia.  The  Sultan  learned
+these  men  would  visit  Siss  as  thev  traveled.  This  news  was  confinned  by  his  agents  in  that  capital  of  Armenia.  The  Sultan  learned
 afterward  from  Acre  that  those  two  agents  had  gone  to  Damascus;
 he  commanded  to  arrest  them  directly.  Brought  to  Cairo  they
 could  not  deny  the  accusation,  so  Beibars  hanged  them  promptly.
 
 The  Egyptians  intercepted  this  same  year  a  letter  from  Hulagu  to
-Mogith,  Prince  of  Karak;  this  seemed  an  answer  to  some  com-
-munication, from  which  it  might  be  inferred  that  the  prince  had
+Mogith,  Prince  of  Karak;  this  seemed  an  answer  to  some  communication, from  which  it  might  be  inferred  that  the  prince  had
 been  a-sking  the  Mongols  to  take  Egypt,  and  also  Syria  to  Gaza.
 Beibars  set  out  straightway  for  Gaza,  and  feigning  great  friendship
 for  Mogith  invited  him  to  Gaza.  Mogith  made  the  visit,  but  the
@@ -14479,8 +12631,7 @@ the  cause  of  the  prince's  detention.    After  that  he  seized  Karak
 and  returned  to  (  laiTO  where  In-  took  Mogith's  life  without  waiting.
 HulagU  was  interested  greatly  during  the  last  year  of  his  rule
 in  building  a  palace  al  AJatag,  and  in  finishing  the  observatory
-at  Meraga.  Though  not  a  scholar  himself  he  liked  to  con-
-verse   with    learned  men,  especially   astronomers  and  alchemists,
+at  Meraga.  Though  not  a  scholar  himself  he  liked  to  converse   with    learned  men,  especially   astronomers  and  alchemists,
 
 
 Victory  of  Kutuz,  Sultan  of  Egypt  289
@@ -14492,11 +12643,9 @@ Administration  had  now,  (1264),  become  greatly  important.
 Hulagu's  rule  extended  from  the  Oxus  to  Syria  and  the
 Byzantine  Empire.  He  gave  his  eldest  son,  Abaka,  Mazanderan,
 Irak  and  Khorassan ;  to  Yshmut  his  third  son,  Azerbaidjan  and
-Arran;  to  Tudan,  one  of  his  commanders,  Diarbekr  and  Diar-
-rabiat  up  to  the  Euphrates;  Rum  he  gave  to  Moyin  ud  din  Per-
+Arran;  to  Tudan,  one  of  his  commanders,  Diarbekr  and  Diarrabiat  up  to  the  Euphrates;  Rum  he  gave  to  Moyin  ud  din  Per-
 vane ;  to  the  Melik  Sadr  ud  din,  the  province  of  Tebriz,  and  Fars
-to  an  emir,  Ikiatu.  According  to  Rashid  he  gave  Kerman  to  Tur-
-kan  Khatun,  but  this  is  questioned  by  some  historians.  In  1263
+to  an  emir,  Ikiatu.  According  to  Rashid  he  gave  Kerman  to  Turkan  Khatun,  but  this  is  questioned  by  some  historians.  In  1263
 he  had  put  to  death  his  vizir  Seif  ud  din  Bitikdji  while  on  the  march
 from  Shemaki  to  Derbend,  and  put  in  his  place  Shems  ud  din
 Juveini,  whose  brother,  Ala'i  ud  din,  Ata  ul  Mulk,  was  made
@@ -14516,8 +12665,7 @@ in  all.  Only  two  escaped,  one  was  his  son,  and  the  other  his
 nephew.
 
 The  troubles  in  Fars  at  this  time  roused  Hulagu's  attention  very
-keenly.  The  princes  of  that  region  were  subject  to  Mongol  do-
-l  inion  from  the  first.  After  the  death,  in  1231,  of  the  Atabeg  of  Fars,
+keenly.  The  princes  of  that  region  were  subject  to  Mongol  dol  inion  from  the  first.  After  the  death,  in  1231,  of  the  Atabeg  of  Fars,
 Said  Abu  Bekr,  his  son  and  successor,  sent  his  brother  Tehemten
 with  his  homage  to  Ogotai  and  also  rich  presents.  The  Grand
 Khan  gave  a  patent  of  investiture  with  the  title  Kutlug  Khan.
@@ -14530,10 +12678,7 @@ When  Hulagu  came  to  the  Transoxiana  Abu  Bekr's  nephew,
 Seljuk  Shah,  came  with  rich  presents  to  greet  him.    Seljuk  Shah
 
 
-290  The  Mongols
-
-was  befittingly  received  at  the  Oxus  by  Hulagu;  but  was  after-
-ward imprisoned.
+was  befittingly  received  at  the  Oxus  by  Hulagu;  but  was  afterward imprisoned.
 
 Abu  Bekr  died  in  12G0,  after  a  reign  of  thirty  years.  His  son
 Said  succeeded  him  but  died  twelve  days  after  reaching  the  throne,
@@ -14624,14 +12769,11 @@ Shiites,  and  thought  that  he  had  the  power  to  work  wonders.
 Assuming  the  insignia  of  royalty  he  advanced  from  Shebankiare
 
 
-292  The  Mongols
-
 towards  Shiraz  with  his  followers  who  already  formed  a  small
 army.
 
 The  Mongol  commander  at  Shiraz  and  Uns  Kahtun's  chief
-minister  took  proper  measures  and  marched  against  this  descend-
-ant of  Mohammed.  They  met  near  Guvar.  Many  thought  that
+minister  took  proper  measures  and  marched  against  this  descendant of  Mohammed.  They  met  near  Guvar.  Many  thought  that
 the  "  Madhi  "  was  assisted  by  spirits,  and  that  whoso  attacked  him
 would  be  paralyzed.  For  some  time  no  man  in  the  army  of  Shiraz
 would  raise  a  hand  against  Sherif .  At  last  two  warriors  ventured
@@ -14702,25 +12844,19 @@ which  tolled  at  all  seasons.  Hulagu  had  five  wives;  from  these,
 not  counting  other  women,  he  had  thirteen  sons  and  seven
 daughters.
 
-Accounts  have  come  down  to  us  of  interesting  judgments  con-
-nected with  Hulagu.  On  a  time  certain  people  came  to  him  for
+Accounts  have  come  down  to  us  of  interesting  judgments  connected with  Hulagu.  On  a  time  certain  people  came  to  him  for
 justice ;  a  file-maker  had  killed  a  near  relative  of  theirs,  and  they
-asked  that  the  criminal  be  given  them  for  punishment.  "  Are  file-
-makers  numerous  in  the  country  ?  "  asked  Hulagu.  '  They  are
+asked  that  the  criminal  be  given  them  for  punishment.  "  Are  filemakers  numerous  in  the  country  ?  "  asked  Hulagu.  '  They  are
 few,"  was  the  answer.  Hulagu  thought  a  moment  and  answered:
 will  give  you  a  maker  of  pack  saddles ;  since  there  are  many  of
 these  we  can  spare  one  more  easily  than  a  file-maker."  The
 friends  of  the  dead  man  declared  that  they  wanted  the  murderer.
-Hulagu  would  not  yield,  and  gave  them  a  cow  as  an  equiv-
-alent.
+Hulagu  would  not  yield,  and  gave  them  a  cow  as  an  equivalent.
 
 A  man  lost  his  eye  in  a  quarrel  with  a  weaver,  and  came  to  get
-justice :  The  prince  put  out  the  eye  of  a  maker  of  arrows  in  satis-
-faction. Some  one  asked  why  he  did  this.  "A  weaver,"  said
+justice :  The  prince  put  out  the  eye  of  a  maker  of  arrows  in  satisfaction. Some  one  asked  why  he  did  this.  "A  weaver,"  said
 he,  "  needs  both  his  eyes,  while  one  is  enough  for  the  arrowsmith ;
 
-
-294  The  Mongols
 
 he  always  closes  the  other  when  he  tests  the  straightness  of  an
 arrow."
@@ -14729,8 +12865,7 @@ A  letter  without  signature  or  date  was  sent  to  Hulagu  from  a
 Pope,  supposed  to  be  Alexander  IV,  though  assigned  to  1261.
 In  this  letter  the  Pope  declared  his  delight  on  hearing  that  Hulagu
 wished  to  be  a  Catholic.  "  Think,"  continued  he,  "  how  your
-power  to  subjugate  Saracens  will  be  increased  if  Christian  war-
-riors assist  you  openly  and  with  force,  as  with  God's  grace  they
+power  to  subjugate  Saracens  will  be  increased  if  Christian  warriors assist  you  openly  and  with  force,  as  with  God's  grace  they
 would,  sustained  by  Divine  power  under  the  shield  of  Christianity.
 In  shaping  your  actions  by  Catholic  teaching  you  will  heighten
 your  power  and  acquire  endless  glory."  Hulagu  is  credited  not
@@ -14741,10 +12876,8 @@ south  of  the  Caucasus.  Abaka,  who  was  Hulagu 's  eldest  son  i  id
 successor,  held  the  right  bank  of  the  Kur  with  his  forces.  Abaka
 sent  forward  Yshmut,  his  brother,  who  met  Berkai's  first  army
 commanded  by  Nogai.  A  stubborn  engagement  took  place  near
-the  Aksu.  Nogai's  army  was  forced  to  retreat  on  Shirvan  in  dis-
-order, Nogai  himself  being  wounded.  Abaka  now  crossed  the  Kur,
-but  hearing  of  Berkai's  advance  with  a  numerous  armv,  he  re-
-crossed  and  destroyed  all  the  bridges.
+the  Aksu.  Nogai's  army  was  forced  to  retreat  on  Shirvan  in  disorder, Nogai  himself  being  wounded.  Abaka  now  crossed  the  Kur,
+but  hearing  of  Berkai's  advance  with  a  numerous  armv,  he  recrossed  and  destroyed  all  the  bridges.
 
 Berkai  came  up  with  his  forces  and  the  two  armies  camped  on
 opposite  sides  of  the  river.  They  remained  fifteen  days  in  their
@@ -14768,8 +12901,7 @@ offerings  to  Jinghis  Khan's  spirit,  but  the  new  sovereign  would
 accept  naught  from  a  ruler  who  had  refused  to  acknowledge
 Jinghis  as  his  overlord.
 
-The  Mongols,  not  regarding  the  death  of  Jinghis,  had  con-
-tinued their  warfare  in  China  and  pushed  on  through  Shen  si  to
+The  Mongols,  not  regarding  the  death  of  Jinghis,  had  continued their  warfare  in  China  and  pushed  on  through  Shen  si  to
 the  edge  of  the  Sung  Empire.  At  the  end  of  1227  they  besieged
 Si  ho  chin,  a  city  southeast  of  Kong  chang  and  thirty  leagues
 distant.  The  commandant  defended  the  place  with  great  valor,
@@ -14796,10 +12928,6 @@ made  two  of  them  governors.
 In  1230  the  Mongols  were  beaten  a  second  time  by  Yra  buka,
 a  Kin  general,  who  stopped  the  siege  of  King  yang  by  a  victory.
 
-295
-
-
-296  The  Mongols
 
 Elated  by  success,  Yra  buka  freed  from  confinement  an  envoy
 whom  during  his  regency  Tului  had  sent  with  peace  messages.
@@ -14820,8 +12948,7 @@ then  he  imprisoned  him.  The  siege  of  Fong  tsiang  was  continued
 with  vigor.
 
 The  Kin  emperor,  seeing  that  his  generals  were  slow  in  sending
-aid,  hurried  off  Bai  kua,  his  assistant,  to  urge  them.  They  re-
-plied that  their  troops  were  too  few  to  challenge  the  great  Mongol
+aid,  hurried  off  Bai  kua,  his  assistant,  to  urge  them.  They  replied that  their  troops  were  too  few  to  challenge  the  great  Mongol
 army.  The  Emperor  commanded  to  take  men  from  Tung  kwan,
 the  strong  fortress,  give  battle  at  once  to  the  enemy,  and  force  the
 relief  of  Fong  tsiang  which  was  sorely  beleaguered.
@@ -14839,8 +12966,7 @@ On  the  north  it  was  bounded  by  the  Hoang  Ho,  on  the  west  it  was
 guarded  by  high  rugged  mountains,  and  the  strong  Tung  kwan
 fortress.  The  Mongol  officers  were  seeking  for  means  to  overcome
 or  elude  these  great  obstacles  when  Li  chang  go,  a  Kin  officer,
-who  had  joined  Ogotai's  service  only  after  Fong  tsiang  had  sur-
-rendered, proposed  to  enter  Honan  from  the  south,  and  traced
+who  had  joined  Ogotai's  service  only  after  Fong  tsiang  had  surrendered, proposed  to  enter  Honan  from  the  south,  and  traced
 out  a  route  for  the  conquest.  Tului  saw  that  the  plan  was  the
 same  as  that  traced  by  Jinghifl  on  his  death  bed,  and  commended
 it   to   Ogotai,    his   brother,    immediately.      Ogotai   consulted   his
@@ -14852,11 +12978,9 @@ generals,  accepted  the  plan,  and  commissioned  Tului  to  follow
 it.
 
 It  was  agreed  that  the  armies  of  the  north  and  the  south  should
-meet  at  Nan  king  in  the  following  February  Ogotai  sent  Chu-
-bugan  to  the  Sung  Emperor  for  permission  to  pass  through  a  part
+meet  at  Nan  king  in  the  following  February  Ogotai  sent  Chubugan  to  the  Sung  Emperor  for  permission  to  pass  through  a  part
 of  his  country,  but  the  envoy  was  killed  after  crossing  the  boundary
-The  deed  astounded  the  Mongols,  since  the  Sung  court  had  re-
-quested their  alliance  somewhat  earlier.  This  killing  gave  a  good
+The  deed  astounded  the  Mongols,  since  the  Sung  court  had  requested their  alliance  somewhat  earlier.  This  killing  gave  a  good
 pretext  later  on,  however,  for  attacking  the  Empire.
 
 Tului  marched  straightway  on  Pao  ki  where  he  assembled  thirty
@@ -14893,18 +13017,14 @@ after  he  had  crossed  it,  they  learned  that  he  was  on  their  side
 already.     They  marched  immediately  and  discovered  the  enemy
 
 
-298  The  Mongols
-
 at  the  foot  of  Mount  Yui  in  a  cliosen  position.  The  Kin  forces
-attacked  and  a  sharp  struggle  followed.  The  Mongols  were  in-
-ferior in  numbers  and  withdrew,  but  withdrew  unmolested.
+attacked  and  a  sharp  struggle  followed.  The  Mongols  were  inferior in  numbers  and  withdrew,  but  withdrew  unmolested.
 
 After  some  days  the  Kin  generals  were  informed  that  the  enemy
 had  retired  to  a  forest.  They  resolved  to  return  to  Teng  chu,
 subsist  on  the  provisions  of  the  city,  and  spare  their  own  rations.
 They  passed  by  mere  chance  near  the  forest ;  the  Mongols  sallied
-forth  and  attacked,  but  only  feigned  serious  fighting.  Mean-
-while the  Kin  cavalry  seized  the  Mongol  baggage.
+forth  and  attacked,  but  only  feigned  serious  fighting.  Meanwhile the  Kin  cavalry  seized  the  Mongol  baggage.
 
 On  reaching  Teng  chu  the  Kin  generals  reported  that  they  had
 won  a  great  victory.  Rejoicings  at  the  court  wrere  sincere,  but
@@ -14926,8 +13046,7 @@ Ogotai  received  now,  through  a  courier,  an  account  from  Tului
 of  the  Honan  situation  and  crossed  the  Hoang  Ho  without  waiting.
 He  ordered  Tului  to  meet  him.  On  hearing  of  this  movement  by
 Ogotai,  the  Kin  Emperor  gave  orders  to  cut  dikes  near  the  capital,
-flood  the  country  about  it,  and  thus  stop  the  enemy.  Thirty  thou-
-sand men  were  sent  to  guard  the  great  river,  but  when  Kia  ku
+flood  the  country  about  it,  and  thus  stop  the  enemy.  Thirty  thousand men  were  sent  to  guard  the  great  river,  but  when  Kia  ku
 saho,  the  commander,  learned  that  Ogotai  was  already  on  the
 soutli  side  he  retreated.  In  their  march  forward  the  Mongols
 came  on  the  men  cutting  dikes,  attacked  them,  stopped  their  work,
@@ -14954,8 +13073,7 @@ that  city  immediately ;  dug  a  moat  round  the  walls,  took  the  place,
 and  found  Wanien  Khada.  When  captured  Wanien  asked  to
 be  brought  before  Subotai.  "  Thou  hast  but  a  moment  to  live,"
 remarked  Subotai,  "  why  wish  to  see  me  ?  "  "  Heaven,  not  chance,
-gives  us  heroes.  Now  that  I  have  seen  thee,  I  close  my  eyes  with-
-out sorrow,"  replied  the  Kin  general.
+gives  us  heroes.  Now  that  I  have  seen  thee,  I  close  my  eyes  without sorrow,"  replied  the  Kin  general.
 
 When  Subotai's  fur}7  had  calmed  somewhat  Cheng  ho  shang,
 who  was  also  in  the  city,  came  out  of  his  hiding  and  asked  to  be
@@ -14967,8 +13085,7 @@ to  induce  him  to  do  so.  To  make  the  man  kneel  they  chopped
 both  his  feet  off,  and  split  his  mouth  to  the  ears  to  force  silence;
 but  he  ceased  not  to  say  in  his  keen  ghastly  torment  that  he  would
 not  befoul  himself  by  treason.  Struck  by  his  fortitude  and
-elated  by  kumis  (their  liquor  distilled  from  mare's  milk)  the  Mon-
-gols called  out  to  him :  "If  thou  art  ever  recalled  to  this  life,
+elated  by  kumis  (their  liquor  distilled  from  mare's  milk)  the  Mongols called  out  to  him :  "If  thou  art  ever  recalled  to  this  life,
 splendid  warrior,  be  born  in  our  company ! "
 
 Yra  buka  was  seized  on  the  road  to  the  capital  while  fleeing.
@@ -14989,13 +13106,10 @@ The  Grand  Khan  applauded  his  brother  for  skill  in  that  perilous
 enterprise.     Tului  replied,  that  success  was  due  mainly  to  the
 
 
-300  The  Mongols
-
 valor  and  endurance  of  his  warriors,  and  the  fortune  attendant  on
 the  sovereign  of  the  Mongols.
 
-When  he  heard  of  Tului's  achievement,  the  Kin  Emperor  sum-
-moned to  his  capital  all  troops  entrusted  with  defending  Honan
+When  he  heard  of  Tului's  achievement,  the  Kin  Emperor  summoned to  his  capital  all  troops  entrusted  with  defending  Honan
 on  its  western  border ;  hence  the  two  generals  commanding  on  that
 side,  and  the  governors  of  Tung  kwan,  the  great  fortress,  united
 their  forces,  which  amounted  to  one  hundred  and  ten  thousand
@@ -15010,11 +13124,9 @@ by  his  Emperor's  army.
 The  Mongols  advanced  on  Shan  chiu,  without  obstacle.  The
 Kins  retired  toward  the  mountains  of  Thie  ling  followed  by
 vast  crowds  of  people  of  ever}*  age  and  both  sexes,  who  had
-hoped  for  a  shelter  in  the  mountains.  As  they  advanced  melt-
-ing snow  made  the  roads  very  difficult  and  sometimes  impassable.
+hoped  for  a  shelter  in  the  mountains.  As  they  advanced  melting snow  made  the  roads  very  difficult  and  sometimes  impassable.
 Pursued  by  the  victors,  their  aged  people  and  children  who  lagged
-behind  were  cut  down  without  mercy.  One  Kin  general  sur-
-rendered, but  still  the  captors  beheaded  him;  the  others  were
+behind  were  cut  down  without  mercy.  One  Kin  general  surrendered, but  still  the  captors  beheaded  him;  the  others  were
 overtaken  and  slain  as  was  also  the  chief  Tung  kwan  governor.
 
 Defence  in  the  west  of  Honan  collapsed  utterly.  Fourteen
@@ -15061,8 +13173,7 @@ siege  with  great  vigor.  The  command  had  been  given  him,  he
 said,  to  capture  the  capital  and  he  was  obeying  it.  He  had  planted
 long  lines  of  catapults;  captive  women,  young  girls,  old  men,  and
 children  were  carrying  fascines  and  bundles  of  straw  to  fill  moats
-and  ditches.  Fearing  to  stop  negotiations,  the  Kin  general  com-
-manding forbade  to  reply  to  attacks  of  the  Mongols.  This  order
+and  ditches.  Fearing  to  stop  negotiations,  the  Kin  general  commanding forbade  to  reply  to  attacks  of  the  Mongols.  This  order
 roused  indignation.  The  Kin  Emperor  showed  himself  in  the  city
 to  the  people,  attended  by  a  few  horsemen  only.  A  body  of  officers
 came  to  him  complaining  that  they  were  not  allowed  to  defend
@@ -15073,8 +13184,7 @@ hostage,  so  be  patient  till  he  has  gone  from  me.  If  the  enemy  does
 not  retire  there  will  be  time  then  for  a  life  and  death  struggle."
 
 The  young  prince  set  out  that  same  day  with  Li  tsi,  a  state
-minister,  but  as  the  attack  was  continued,  the  Kin  ruler  indig-
-nant at  Mongol  duplicity  gave  the  signal  for  action.
+minister,  but  as  the  attack  was  continued,  the  Kin  ruler  indignant at  Mongol  duplicity  gave  the  signal  for  action.
 
 Subotai  had  set  up  an  immense  line  of  catapults  and  hurled
 large,  jagged  millstones  with  dreadful  impetus.  At  the  end  of
@@ -15085,17 +13195,13 @@ almost  to  the  top  of  the  ramparts;    the  towers,  though  built  of
 o
 
 
-02  The  Mongols
-
-
 &'
 
 
 strong  timber  from  old  palaces,  were  broken.  To  deaden  the  effect
 of  these  millstones  the  towers  were  backed  with  huge  bags  filled
 with  wheat-straw,  and  horse  dung,  covered  with  felt  and  tied  with
-cords  very  firmly,  also  planks  faced  with  untanned  hides  of  buf-
-faloes. The  Mongols  hurled  fire  with  ballistas  to  burn  the  defences.
+cords  very  firmly,  also  planks  faced  with  untanned  hides  of  buffaloes. The  Mongols  hurled  fire  with  ballistas  to  burn  the  defences.
 No  projectile,  however,  could  injure  those  strange  massive  walls
 of  the  fortress,  which  were  mainly  of  clay  grown  as  solid  as  iron.
 
@@ -15117,20 +13223,17 @@ that  a  million  of  men  fell,  Subotai  sent  a  message  declaring  that
 as  discussions  for  peace  were  in  progress  hostilities  would  cease
 altogether,  and  he  prepared  to  withdraw  to  some  distance.
 
-The  Emperor  in  answer  sent  rich  parting  presents  to  the  Mon-
-gol general  and  his  officers.  One  month  after  this  truce  a  plague
+The  Emperor  in  answer  sent  rich  parting  presents  to  the  Mongol general  and  his  officers.  One  month  after  this  truce  a  plague
 broke  out  in  the  capital,  and  during  fifty  days  coffins  to  the
 number  of  nine  hundred  thousand,  as  the  account  runs,  were
 borne  from  the  city;  besides  there  were  corpses  of  indigent
 people  which  were  put  in  the  earth  without  coffins  or  boxes.
 
 During  discussions  for  peace,  a  Mongol  envoy,  Tang  tsing,
-with  a  suite  of  thirty  persons,  was  slain  in  Pien  king  by  the  popu-
-lace. This  deed  went  unpunished  and  unnoted  by  the  Chinese,
+with  a  suite  of  thirty  persons,  was  slain  in  Pien  king  by  the  populace. This  deed  went  unpunished  and  unnoted  by  the  Chinese,
 hence  command  was  given  Subotai  to  attack  the  Kin  capital  a
 second  time.  Ogotai  had  also  another  complaint  against  the  Kin
-sovereign:  Xin  kia  su  had  taken  into  his  service,  and  even  re-
-warded, a  general  of  the  Mongols  who,  not  enduring  his  chief,
+sovereign:  Xin  kia  su  had  taken  into  his  service,  and  even  rewarded, a  general  of  the  Mongols  who,  not  enduring  his  chief,
 had  passed  to  the  Kin  side  and  yielded  up  cities  which  were
 under  his  control.
 
@@ -15184,8 +13287,6 @@ gates  to  his  warriors.  After  some  days  Baksan  heard  of  a  hostile
 advance  and  withdrew,    but  was  followed   by   She  tian  tse,   a
 
 
-304  The  Mongols
-
 Mongol  commander.  He  himself  carried  news  of  his  failure  to
 the  Emperor,  whom  he  urged  to  recross  the  Hoang  Ho,  retreat  to
 Kwe  te  fu  and  be  safe  there.  The  Emperor  crossed  in  the  night
@@ -15198,8 +13299,7 @@ resisted.  The  Mongols  closed  in  on  them;  food  soon  rose  to
 fabulous  prices,  people  perished  of  hunger,  officials  of  the  Empire
 begged  on  the  streets ;  there  were  even  men  who  ate  their  own  wives
 and  children.  Houses  were  torn  down  for  fuel.  The  Emperor
-sent  an  official  to  conduct  out  his  consort  and  the  dowager  Em-
-press in  secret,  but  he  failed  in  the  effort.  This  attempt  ron-  <1
+sent  an  official  to  conduct  out  his  consort  and  the  dowager  Empress in  secret,  but  he  failed  in  the  effort.  This  attempt  ron-  <1
 the  populace:    "  He  has  left  us  to  our  fate,"  said  they,  in  despair.
 
 At  this  evil  juncture  Tsui  li,  who  commanded  the  eastern  side
@@ -15207,13 +13307,11 @@ of  the  capital,  made  himself  master  of  the  city  in  all  parts.  He
 had  the  governor  of  the  palace,  the  minister  of  state  and  ten  other
 high  dignitaries  killed  in  his  presence.  Immediately  afterward
 he  proclaimed  them  as  worthy  of  death  for  their  failure  in  duty.
-He  entered  the  palace  with  armed  hand,  held  a  council  and  pro-
-claimed Prince  Wa  nien  tsung  ko  as  regent.  He  sent  men  in  the
+He  entered  the  palace  with  armed  hand,  held  a  council  and  proclaimed Prince  Wa  nien  tsung  ko  as  regent.  He  sent  men  in  the
 name  of  the  Emperor's  mother  to  bring  that  prince  to  the  city.
 He  came  without  delay  and  was  now  regent.  Tsui  li  made  himself
 first  minister,  chief  commander  and  head  of  the  Imperial  Council.
-One  of  his  brothers  was  made  city  governor,  and  another  one  pre-
-fect of  the  palace.  All  his  dependents  had  places.  He  judged  now
+One  of  his  brothers  was  made  city  governor,  and  another  one  prefect of  the  palace.  All  his  dependents  had  places.  He  judged  now
 that  he  needed  the  Mongols  to  protect  him  in  office,  and  he  sent
 his  submission  to  Subotai.  That  commander  approached  the
 main  gate  of  the  city.  Tsui  li,  arrayed  in  royal  fashion,  wont  out
@@ -15277,13 +13375,9 @@ tried  by  a  council  of  war  and  then  executed.
 Fucha  kuan  nu,  a  certain  general,  seized  control  of  Kwe  te  fu
 
 
-306  The  Mongols
-
-after  killing  Li  tsi  with  three  hundred  mandarins,  and  also  the  gov-
-ernor. Kuan  nu's  mother  had  been  captured  after  Baksan's  defeat.
+after  killing  Li  tsi  with  three  hundred  mandarins,  and  also  the  governor. Kuan  nu's  mother  had  been  captured  after  Baksan's  defeat.
 Temutai,  a  Mongol  commander,  was  besieging  a  town  twenty
-its  south  of  Kwe  tc  fu ;  the  Emperor  charged  Kuan  nu  to  insin-
-uate to  Temutai  that  if  his  (Kuan  nu's)  mother  were  restored  he
+its  south  of  Kwe  tc  fu ;  the  Emperor  charged  Kuan  nu  to  insinuate to  Temutai  that  if  his  (Kuan  nu's)  mother  were  restored  he
 would  bring  the  Emperor  to  accept  peace  conditions.  Temutai  sent
 back  the  woman,  and  began  to  negotiate.  Kwan  nu  and  Temutai
 had  held  many  meetings.  Meanwhile  Kwan  nu  prepared  a  secret
@@ -15299,8 +13393,7 @@ Honan,  proposed  that  the  Emperor  make  Tsai  chiu  his  capital.
 Nin  kia  su  was  quite  willing,  but  Kuan  nu  would  not  hear  of  a
 change  which  would  cost  him  control  of  the  Emperor's  person.
 There  was  no  outcome  now  for  the  Emperor  but  to  be  rid  of  the
-minister,  so  one  day  Kuan  nu  was  killed  while  entering  his  sover-
-eign's chamber.  The  falling  monarch  had  still  one  hope  left  in
+minister,  so  one  day  Kuan  nu  was  killed  while  entering  his  sovereign's chamber.  The  falling  monarch  had  still  one  hope  left  in
 connection  with  Tsai  chiu:    Wu  shan,  a  general  in  outh  of
 
 Honan,  had  a  force  seventy  thousand  in  number.  Ogotai  the  year
@@ -15335,21 +13428,18 @@ parties  came  from  the  army  of  Tatchar,  who  was  only  waiting  for
 the  capture  of  Lo  yang  to  surround  the  Kin  sovereign's  last  refuge.
 Lo  yang  had  sustained  a  long  siege,  and  had  forced  the  Mongols
 to  raise  it  Tsi  yang  shen,  who  had  rendered  great  service  in
-regions  north  of  the  river,  was  still  in  command.  His  forces,  how-
-ever, were  few,  and  long  resistance  was  this  time  impossible;
+regions  north  of  the  river,  was  still  in  command.  His  forces,  however, were  few,  and  long  resistance  was  this  time  impossible;
 hence  he  put  himself  now  at  the  head  of  a  chosen  party  and
 strove  to  break  through  the  enemy,  but  was  seized  arms  in  hand
 fighting  valiantly.  Tatchar  tried  to  win  over  so  splendid  a  warrior,
 and  implored  him  most  earnestly  to  show  homage  to  Ogotai,  to
 prostrate  himself  with  face  looking  northward,  but  he  bowed
-toward  the  south,  saluting  in  this  way  Nin  Ida  su,  his  own  Em-
-peror, and  suffered  death  for  his  action.
+toward  the  south,  saluting  in  this  way  Nin  Ida  su,  his  own  Emperor, and  suffered  death  for  his  action.
 
 Tatchar  was  the  son  of  Boroul,  one  of  Jinghis  Khan's  four
 great  heroes,  and  now  being  free  he  moved  on  Tsai  chiu  to  end  the
 Kin  dynasty.  His  army  was  reinforced  by  twenty  thousand  good
-warriors  under  Meng  kong  and  Kiang  hai,  whom  the  Sung  Em-
-peror had  sent  because  of  his  alliance  with  Ogotai.  The  two
+warriors  under  Meng  kong  and  Kiang  hai,  whom  the  Sung  Emperor had  sent  because  of  his  alliance  with  Ogotai.  The  two
 commanders  brought  with  them  three  hundred  thousand  sacks  of
 rice  for  the  Mongols.  After  two  months'  blockade  provisions
 were  so  scarce  in  the  city  that  human  flesh  was  used  as  food  and
@@ -15405,8 +13495,7 @@ Emperor  Ho  li  pu,  was  charged  with  defending  the  Eastern  side
 of  the  city.  Ching  lin  had  no  wish  to  accept  the  sad  gift,  and  fell
 prostrate  with  weeping.  "  I  give  thee  the  throne  during  terrible
 need  and  disaster,"  said  the  Emperor.  "  The  size  of  my  body
-prevents  me  from  fleeing  on  horseback,  but  thou  mayest  save  thy-
-self, thou  art  courageous  and  swift;  thou  mayst  rescue  the  dynasty
+prevents  me  from  fleeing  on  horseback,  but  thou  mayest  save  thyself, thou  art  courageous  and  swift;  thou  mayst  rescue  the  dynasty
 and  bring  back  dominion;   this  is  the  real  position."
 
 Ching  lin  look  the  seal,  and  was  raised  to  the  throne  on  the
@@ -15439,8 +13528,7 @@ Their  dynasty  of  nine  sovereigns  reigned  one  century  and  eighteen
 years.  Excepting  Kong  chang  fu  all  places  w7hich  belonged  to
 that  dynasty  surrendered.  The  Sung  Emperor  rejoiced  much  and
 gave  many  festivals  while  thus  rejoicing  at  the  fall  of  an  enemy.
-He  offered  the  ashes  and  bones  of  the  last  of  the  Kins  to  his  an-
-cestors. Foolish  man,  he  had  given  aid  to  a  much  greater  and
+He  offered  the  ashes  and  bones  of  the  last  of  the  Kins  to  his  ancestors. Foolish  man,  he  had  given  aid  to  a  much  greater  and
 more  terrible  enemy  than  the  one  who  had  vanished,  and  had
 assured  the  near  destruction  of  his  own  house  and  dynasty.
 
@@ -15448,8 +13536,7 @@ Ogotai,  the  Grand  Khan,  and  Tului,  his  brother,  returned
 to  Kara  Kurum  two  years  before  the  Kin  downfall.  After
 Ogotai  had  crossed  the  Hoang  Ho,  and  Tului  had  passed  through
 Honan,  the  completion  of  the  work  was  left  to  the  competent
-Subotai.  Tului  died  in  October,  1232,  soon  after  his  return  to  Mon-
-golia. He  was  forty  years  of  age.  Juve'ini  states  that  his  life  was
+Subotai.  Tului  died  in  October,  1232,  soon  after  his  return  to  Mongolia. He  was  forty  years  of  age.  Juve'ini  states  that  his  life  was
 shortened  by  excessive  drinking.  He  was  the  favorite  son  of
 Jinghis  under  whom  he  had  learned  war  in  all  its  phases  and
 details.  His  campaign  in  Honan  was  admired  with  much  reason.
@@ -15465,11 +13552,9 @@ EXPEDITION    AGAINST    CHINA    AND    DEATH    OF    OGOTAI
 
 IN  1234  a  great  Kurultai  was  summoned  by  Ogotai  atTalantepe,
 and  one  at  Kara  Kurum,  his  new  capital,  the  year  following.
-At  the  second  Kurultai  it  was  decided  to  make  three  great  ex-
-peditions :  One  against  the  Sung  Empire ;  another  to  bring  down
+At  the  second  Kurultai  it  was  decided  to  make  three  great  expeditions :  One  against  the  Sung  Empire ;  another  to  bring  down
 Corea,  which  had  shaken  off  Mongol  rule;  a  third  to  countries
-north  of  the  Caspian,  the  Caucasus  and  the  Black  Sea,  and  west-
-ward indefinitely.  The  Grand  Khan  wished  to  march  himself
+north  of  the  Caspian,  the  Caucasus  and  the  Black  Sea,  and  westward indefinitely.  The  Grand  Khan  wished  to  march  himself
 with  this  last  expedition,  but  at  the  instance  of  princes  of  his
 family  he  yielded,  and  appointed  Batu,  second  son  of  Juchi,  to
 chief  command  in  those  regions.
@@ -15495,8 +13580,6 @@ should  be  added;  they  urged  the  need  of  using  force  to  win  that
 right  and  agreement.  Tliev  must  regain  their  ancienl  capitals:
 Ken  king,  Lo  yang,  :md  Si  ngan  fu.  Members  of  the  council
 declared  that  this  policy  would  bring  back  the  Mongols,  that  it
-
-310
 
 
 Death  of  Ogotai  311
@@ -15545,16 +13628,13 @@ Neither  side  won,  but  the  Sung  troops  were  forced  to  abandon
 Lo  yang  through  a  dearth  of  provisions.    Through  lack  of  food
 
 
-312  The  Mongols
-
 also  the  Sung  generals  left  Pien  king  and  turned  southward.  The
 cities  of  Northern  Honan  were  nearly  deserted,  and  all  of  them
 suffered  from  hunger.
 
 Ogotai  recalled  Subotai,  whom  he  destined  for  Europe,  and
 sent  to  the  Sung  court  an  envoy  to  reproach  it  with  oath  breaking.
-Li  tsong  sent  his  envoy  to  Kara  Kurum  to  allay  the  coming  tem-
-pest, but  the  journey  was  useless,  war  had  been  fixed  at  the
+Li  tsong  sent  his  envoy  to  Kara  Kurum  to  allay  the  coming  tempest, but  the  journey  was  useless,  war  had  been  fixed  at  the
 Kurultai.  Three  army  corps  were  now  to  attack  the  Sung  Empire,
 one  under  command  of  Prince  Kutan,  Ogotai 's  second  son,  aided
 by  Tagai,  a  general  who  was  to  invade  Su  chuan,  that  great
@@ -15604,12 +13684,10 @@ took  Ching:  tu  and  sacked  it  a  second  time.  He  wished  now  to
 enter  Hu  kuang,  the  next  province,  by  Kwei  chiu,  a  city  on  the
 north  bank  of  the  river  Yang  tse,  but  Meng  kong,  the  Sung  general,
 had  put  western  Hu  kuang  into  such  a  good  state  of  defence,  that
-this  plan  was  a  failure;  he  even  took  Kwei  chiu  from  the  Mon-
-gols.
+this  plan  was  a  failure;  he  even  took  Kwei  chiu  from  the  Mongols.
 
 Meanwhile  Prince  Kutchu,  whose  chief  camp  was  at  Teng
-chu  in  Honau,  entered  Hu  kuang  in  1236.  To  him  the  com-
-mandants of  Siang  yang  fu  surrendered  the  city  with  immense
+chu  in  Honau,  entered  Hu  kuang  in  1236.  To  him  the  commandants of  Siang  yang  fu  surrendered  the  city  with  immense
 stores  in  it.  Kutchu  took  Tsao  yang,  he  took  also  Li  ngan,  but
 died  shortly  after.
 
@@ -15633,15 +13711,11 @@ kong  gained  three  victories  over  the  Mongols  and  captured  four
 cities.  In  February,  1240,  Wang  tsie,  the  Mongol  envoy,  appeared
 at  the  Sung  court  for  the  fifth  time,  with  offers  of  peace  which  were
 rejected.  Wang  tsie  died  before  his  mission  was  ended,  and  the
-Sung  governor  delivered  his  body  to  the  Mongols.  In  the  begin-
-ning of  1240  also  a  number  of  Mongol  army  corps  marched  by
+Sung  governor  delivered  his  body  to  the  Mongols.  In  the  beginning of  1240  also  a  number  of  Mongol  army  corps  marched  by
 various  roads  into  China.  No  further  mention,  however,  of
 fighting  is  made  till  after  Ogotai 's  death  the  year  following.
 
 While  Mongol  armies  were  attacking  Corea,  ravaging  China,
-
-
-311  The  Mongols
 
 
 o
@@ -15658,8 +13732,7 @@ called  Kertchagan  built  by  Persians,  who  strove  to  outdo  or  to
 rival  those  architects  from  China  who  at  Kara  Kurum  had  shown
 what  their  skill  was.  From  Kertchagan  he  went  back  to  Kara
 Kurum  for  some  days  and  then  passed  the  summer  at  Ormektua
-where  he  held  court  in  a  white  Chinese  tent,  lined  with  silk  embroid-
-ered with  gold  very  deftly.  In  this  tent,  known  as  the  Sarai  Ordu,
+where  he  held  court  in  a  white  Chinese  tent,  lined  with  silk  embroidered with  gold  very  deftly.  In  this  tent,  known  as  the  Sarai  Ordu,
 or  Golden  Horde,  there  was  room  for  one  thousand  persons.  The
 Grand  Khan  spent  forty  days  at  Lake  Kosa.  From  there  he
 went  to  Ongki  near  the  Great  Gobi  desert  where  he  lived  all  the
@@ -15733,15 +13806,11 @@ when  he  heard  of  the  death  of  his  father.
 
 Princes  of  the  blood  and  chiefs  of  the  army  received  invitations
 from  Ogotai's  widow  to  assemble  for  the  Kurultai;  meanwhile  at
-the  instance  of  Jagatai  and  others  the  regency  was  given  to  Tura-
-kina. The  regency  began  by  ejecting  Ching  kai  the  grand  chan-
+the  instance  of  Jagatai  and  others  the  regency  was  given  to  Turakina. The  regency  began  by  ejecting  Ching  kai  the  grand  chan-
 cellor, an  Uigur.  A  Mohammedan,  Abd  ur  Rahman,  who  had
 come  some  time  earlier  to  Mongolia  with  merchandise,  had  won
 the  good- will  of  Turakina  completely ;  a  short  time  before  Ogotai's
 death  he  had  offered  to  farm  all  the  revenues  of  China.    Chu  tsai
-
-
-316  The  Mongols
 
 
 ©'
@@ -15765,13 +13834,11 @@ on  astronomy.
 Soon  after  Ogotai's  death  Temugu,  his  uncle,  who  was  Jinghis
 Khan's  youngest  brother,  approached  the  Khan's  residence  with
 his  army,  and  made  a  faint  move  toward  a  seizure  of  the  Empire.
-Turakina  sent  to  ask  why  he  came  to  "  his  daughter  "  so  numer-
-ously attended,  and  sent  him  his  son,  who  had  been  living  at
+Turakina  sent  to  ask  why  he  came  to  "  his  daughter  "  so  numerously attended,  and  sent  him  his  son,  who  had  been  living  at
 Ogotai's  residence.  On  hearing  that  Kuyuk  had  arrived  from  the
 west  and  had  reached  the  Imil  where  his  yurta  was  established
 Temugu  dropped  his  plan,  and  replied  that  he  wished  to  jondole
-with  his  daughter  on  the  loss  of  her  husband ;  after  that  he  with-
-drew to  his  own  place.
+with  his  daughter  on  the  loss  of  her  husband ;  after  that  he  withdrew to  his  own  place.
 
 The  assembly  to  elect  a  new  sovereign  was  to  be  at  Talantepe,
 but  did  not  meet  till  124G,  because  of  Batu's  endless  loitering.
@@ -15796,8 +13863,7 @@ Death  of  Ogotai  317
 
 complain  of  Fatima,  and  demand  that  she  be  punished  should  his
 illness  prove  fatal.  Kutan  died,  hence  Kuyuk  commanded  the
-trial  of  Fatima.  She  was  bastinadoed  and  tortured  till  she  de-
-clared herself  guilty.  Every  opening  of  her  body  save  her  nose  was
+trial  of  Fatima.  She  was  bastinadoed  and  tortured  till  she  declared herself  guilty.  Every  opening  of  her  body  save  her  nose  was
 sewed  up  and  closed  tightly;  after  suffering  dreadful  anguish  for
 a  time  she  was  wrapped  in  felt  blankets  firmly  and  thrown  into
 a  river;  her  friends  were  put  to  death  also.  The  turn  came  soon
@@ -15807,8 +13873,7 @@ put  to  death  with  his  wife  and  whole  family.
 Kuyuk,  suffering  from  gout,  the  result  of  drink  and  dissipation,
 set  out  in  1248,  during  spring,  for  his  own  domains  to  find  a  more
 favoring  climate.  Siur  Kukteni,  Tului's  widow,  fearing  lest  Kuyuk
-might  be  hostile  to  her  nephew  Batu,  who  had  not  come  to  do  hom-
-age, warned  the  latter  to  be  on  his  guard  at  all  seasons.  There  was
+might  be  hostile  to  her  nephew  Batu,  who  had  not  come  to  do  homage, warned  the  latter  to  be  on  his  guard  at  all  seasons.  There  was
 no  reason,  however,  for  this  caution,  since  Kuyuk  died  on  the  road,
 being  seven  days'  journey  from  Bish  Balik,  the  Uigur  capital.
 
@@ -15832,14 +13897,10 @@ the  majority  of  princes.
 
 At  this  Kurultai,  composed  mainly  of  Juchi's  descendants  and
 those  of  Tului,  that  is  descendants  of  Jinghis  Khan's  youngest  and
-eldest  sons,  Ilchi  Kidai  of  the  Jelairs  declared  that  they  had  en-
-gaged to  choose  no  man  as  sovereign  unless  a  descendant  of  Ogotai
-so  long  as  that  branch  remained  living.  "  Yes,"  answered  Kubi-
-lai,  son  of  Tului,  "  but  ye  were  the  first  to  infringe  Jinghis  Khan's
+eldest  sons,  Ilchi  Kidai  of  the  Jelairs  declared  that  they  had  engaged to  choose  no  man  as  sovereign  unless  a  descendant  of  Ogotai
+so  long  as  that  branch  remained  living.  "  Yes,"  answered  Kubilai,  son  of  Tului,  "  but  ye  were  the  first  to  infringe  Jinghis  Khan's
 laws,    and   disregard   Ogotai's   will.     Ye   put   Altalun,    Jinghis'
 
-
-318  The  Mongols
 
 daughter,  to  death  without  reference  to  Jinghis  Khan's  statute
 that  no  descendant  of  his  may  suffer  death  until  judged  by  an
@@ -15847,16 +13908,14 @@ assembly  of  his  or  her  equals.  Ye  put  Kuyuk  on  the  throne  in
 defiance  of  Ogotai,  who  had  appointed  Shiramun  to  succeed
 him."
 
-These  two  complaints  were  brought  up  by  those  who  had  deter-
-mined to  take  the  throne  from  descendants  of  Ogotai.  Batu,  who
+These  two  complaints  were  brought  up  by  those  who  had  determined to  take  the  throne  from  descendants  of  Ogotai.  Batu,  who
 was  also  their  enemy,  had  agreed  with  Siur  Kukteni,  to  elect  her
 eldest  son,  Mangu.  This  widow  of  Tului  had  an  all  powerful
 support  in  the  army.  The  arrangements  by  which  Jinghis  had
 given  the  greater  part  of  his  troops  to  Tului  assured  preponderance
 to  this  branch.  When  the  throne  held  an  Emperor  the  combined
 army  was  under  the  sovereign,  but  in  time  of  interregnum  each
-part  of  it  recognized  the  authority  of  that  prince  to  whom  it  be-
-longed, and  who  was  its  only  commander.  After  the  death  of
+part  of  it  recognized  the  authority  of  that  prince  to  whom  it  belonged, and  who  was  its  only  commander.  After  the  death  of
 Tului  his  army  of  one  hundred  and  one  thousand  out  of  a  total  of
 one  hundred  and  thirty  passed  to  his  four  sons  by  his  chief  wife
 Siur  Kukteni :  Mangu,  Kubilai,  Arik  Buga  and  Hulagu.  During
@@ -15864,8 +13923,7 @@ the  minority  of  these  princes  their  mother,  sure  of  the  commander
 whom  she  had  bound  to  her,  governed  with  rare  judgment  the
 numerous  tribes  which  were  subject  to  her  children.  Honored  by
 Batu  and  many  other  princes  it  was  easy  for  her  to  place  one  of
-her  sons  on  the  throne,  since  the  candidates  among  Ogotai 's  de-
-scendants were  too  young  in  years  yet  to  be  personally  considered.
+her  sons  on  the  throne,  since  the  candidates  among  Ogotai 's  descendants were  too  young  in  years  yet  to  be  personally  considered.
 
 Mangusar,  a  general,  was  the  first  in  the  assembly  to  propose
 Prince  Mangu,  whose  courage  and  wit  he  extolled,  giving  instance
@@ -15896,8 +13954,7 @@ the  following  spring  to  be  held  in  Jinghis  Khan's  home  land  near
 the  sources  of  the  Onon  and  the  Kerulon  when  Mangu  was  to  be
 recognized  by  all  princes,  and  by  the  chiefs  of  the  army.
 
-Ogul  Gaimish,  Kuyuk's  widow,  was  to  be  regent  in  the  mean-
-while assisted  by  her  two  sons :  Khodja  and  Nagu.  The  only,  or
+Ogul  Gaimish,  Kuyuk's  widow,  was  to  be  regent  in  the  meanwhile assisted  by  her  two  sons :  Khodja  and  Nagu.  The  only,  or
 at  least  the  main  care  of  this  regency  was  to  dispose  of  tribute  by
 giving  orders  in  advance  on  the  provinces.  Ogul  Gaimish  was
 given  greatly  to  sorcery  and  spent  much  of  her  time  with  magicians.
@@ -15905,8 +13962,7 @@ The  Mongol  Empire  was  thus  left  to  many  evil  influences.
 
 Khodja  and  Nagu  disavowed  the  agents  who  in  their  names  had
 voted  for  Mangu.  They  informed  Batu,  that  they  could  not
-hold  to  decisions  of  a  Kurultai  assembled  far  from  the  land  of  Jin-
-ghis, and  moreover  imperfect.  Batu  enjoined  on  them  to  visit  the
+hold  to  decisions  of  a  Kurultai  assembled  far  from  the  land  of  Jinghis, and  moreover  imperfect.  Batu  enjoined  on  them  to  visit  the
 coming  Kurultai,  and  added  that  the  princes  had  chosen  the  man
 whom  they  held  the  best  fitted  to  govern  the  Empire,  and  that  their
 choice  was  now  made  and  irrevocable.
@@ -15933,8 +13989,6 @@ descended  from  Juchi  and  Tului,  with  the  nephews  of  Jinghis,  met
 at  Koitun  Ola,  the  place  designated,  and  made  a  last  effort  to  bring
 
 
-320  The  Mongols
-
 the  heads  of  the  houses  of  Ogotai  and  Jagatai  to  share  in  the
 meeting.  An  officer  sent  to  Ogul  Gaimish,  and  another  to  Yissu,
 son  of  Jagatai,  announced  that  the  other  princes  had  assembled,
@@ -15957,13 +14011,10 @@ wound  the  earth  by  digging,  or  otherwise,  or  trouble  the  calm  of
 the  waters,  or  their  purity.
 
 On  the  morrow  a  rich  feast  was  given  by  Mangu  in  a  tent  of
-rare  stuffs  and  great  splendor.  At  his  right  sat  the  princes  de-
-scended from  Jinghis,  at  his  left  the  princesses.  A  similar  'east  was
+rare  stuffs  and  great  splendor.  At  his  right  sat  the  princes  descended from  Jinghis,  at  his  left  the  princesses.  A  similar  'east  was
 given  each  day  for  seven  days  in  succession.  Each  day  every  guest
-wore  a  dress  of  new  color ;  each  day  three  hundred  horses  and  bul-
-locks with  five  thousand  sheep  were  eaten,  while  two  thousand  cart
-loads  of  wine  and  kumis  were  drunk  to  drive  away  thirst  and  con-
-sole the  great  company.
+wore  a  dress  of  new  color ;  each  day  three  hundred  horses  and  bullocks with  five  thousand  sheep  were  eaten,  while  two  thousand  cart
+loads  of  wine  and  kumis  were  drunk  to  drive  away  thirst  and  console the  great  company.
 
 In  the  midst  of  this  feasting  and  pleasure  a  man,  known  as
 Kishk,  made  his  way  to  the  Grand  Khan's  pavilion  with  the
@@ -15983,8 +14034,7 @@ Death  of  Ogotai  321
 
 inquiries  discovered  that  the  princes  Shiramun,  Nagu  and  Khodja
 were  going  to  the  Kurultai  to  make  use  of  the  moment  when  all
-would  be  drunk  to  finish  Mangu  and  his  followers.  Kishk  de-
-clared that  through  eagerness  to  tell  what  he  knew  at  the  earliest
+would  be  drunk  to  finish  Mangu  and  his  followers.  Kishk  declared that  through  eagerness  to  tell  what  he  knew  at  the  earliest
 he  had  made  in  one  day  three  days'  journey.
 
 The  story  was  received  with  astonishment  at  first,  and  seemed
@@ -15993,8 +14043,7 @@ the  details  again  and  in  such  fashion  this  time  that  every  doubt
 vanished.  Each  prince  wished  to  go  himself  and  look  into  the
 matter.  It  was  decided  to  send  Mangusar,  the  chief  general,
 and  the  first  person  who  in  the  Kurultai  proposed  that  Mangu
-should  be  raised  to  the  throne ;  with  him  went  two  or  three  thou-
-sand men.  The  princes  were  not  more  than  two  days  from  the
+should  be  raised  to  the  throne ;  with  him  went  two  or  three  thousand men.  The  princes  were  not  more  than  two  days  from  the
 Ordu.
 
 Mangusar  reached  their  camp  very  early  in  the  morning  and,
@@ -16009,24 +14058,19 @@ Mangu,  and  were  about  to  continue  their  journey.  They  were
 forced,  however,  to  follow  Mangusar,  and  were  permitted  to  take
 only  twenty  men  with  them  as  an  escort.
 
-Arriving  at  the  Ordu  they  offered  their  presents  by  nines  accord-
-ing to  Mongol  custom.  The  first  two  days  they  took  part  in  the
+Arriving  at  the  Ordu  they  offered  their  presents  by  nines  according to  Mongol  custom.  The  first  two  days  they  took  part  in  the
 festival  unquestioned,  but  on  the  third  day  the  three  princes  were
 arrested  when  ready  to  enter  the  Grand  Khan's  pavilion.  Next
 day  Mangu  himself  questioned  them.  He  began  by  saying  that,
-though  the  charges  might  seem  improbable,  he  was  bound  to  con-
-vince himself  and  thus  destroy  all  suspicions  against  them,  and
+though  the  charges  might  seem  improbable,  he  was  bound  to  convince himself  and  thus  destroy  all  suspicions  against  them,  and
 punish  their  accusers.
 
 The  princes  denied  the  whole  story  with  firmness.  Mangu
 questioned  Shiramun 's  governor,  who  was  forced  by  the  bastinado
 to  avow  the  conspiracy,  but  it  was  made,  he  declared,  by  him  and
 his  officers  without  knowledge  of  the  princes;  after  these  words
-he  drew  his  own  sabre  and  killed  himself.  A  commission  of  gen-
-erals under  Mangusar  was  formed  to  report  on  the  confessions  of
+he  drew  his  own  sabre  and  killed  himself.  A  commission  of  generals under  Mangusar  was  formed  to  report  on  the  confessions  of
 
-
-322  The  Mongols
 
 the  officers  of  the  three  princes  from  whom  the  avowal  of  a  plot
 was  at  last  forced.
@@ -16060,8 +14104,7 @@ Kurum  to  judge  hostile  princes  and  princesses.  With  Ogul
 Gaimish,  he  was  especially  angry,  since  she,  when  summoned  to
 render  him  homage,  had  answered  that  Mangu  and  the  other
 princes  had  sworn  not  to  choose  a  Grand  Khan  unless  from  among
-the  descendants  of  Ogotai.  Both  hands  and  arms  of  Ogul  Gai-
-mish were  sewed  up  in  a  leather  bag,  and  she  with  Sliiramun's
+the  descendants  of  Ogotai.  Both  hands  and  arms  of  Ogul  Gaimish were  sewed  up  in  a  leather  bag,  and  she  with  Sliiramun's
 mother  was  taken  to  the  residence  of  Shir  Kukteni.  Mangusar
 stripped  her  there  of  all  clothing  and  then  proceeded  to  interrogate,
 reproached  him  indignantly  with  exposing  her  body,  which
@@ -16084,11 +14127,9 @@ of  Jagatai,  was  delivered  to  Batu,  who  had  him  killed  in  revenge
 for  words  used  when  in  liquor.
 
 The  three  princes  were  spared  by  Mangu  in  view  of  their  kinship :
-Khodja  was  sent  to  Suligai,  east  of  Kara  Kurum ;  Nagu  and  Shira-
-mun  were  ordered  to  the  army.  When  Kubilai  was  going,  some
+Khodja  was  sent  to  Suligai,  east  of  Kara  Kurum ;  Nagu  and  Shiramun  were  ordered  to  the  army.  When  Kubilai  was  going,  some
 time  later,  to  China,  Mangu  as  a  favor  let  him  take  Shiramun  on
-that  journey,  but  when  Mangu  himself  went  to  China  he  had  Shira-
-mun drowned,  through  mistrust  of  this  young  man,  who  had  been
+that  journey,  but  when  Mangu  himself  went  to  China  he  had  Shiramun drowned,  through  mistrust  of  this  young  man,  who  had  been
 destined  to  the  throne  by  his  grandfather.  The  greater  part  of
 Ogotai's  descendants  were  sent  to  various  places  and  deprived  of
 the  troops  which  were  theirs  by  inheritance.  Mangu  gave  those
@@ -16107,8 +14148,7 @@ the  armies  in  China.  Two  corps  were  sent  at  the  same  time  to
 the  Kirghis  and  the  Kemjuts.
 
 Strong  now  on  his  throne  through  destruction  of  enemies,  Mangu
-dismissed  all  the  princes  and  generals  who  had  come  to  the  Kurul-
-tai.  Berkai  and  Togha  Timur  received  splendid  gifts  for  them-
+dismissed  all  the  princes  and  generals  who  had  come  to  the  Kurultai.  Berkai  and  Togha  Timur  received  splendid  gifts  for  them-
 selves, and  for  Batu,  their  brother.  Kara  Hulagu  received  the
 inheritance  of  Jagatai,  his  grandfather,  and  was  charged  to  put  to
 death  Yissu,  his  uncle,  placed  on  the  throne  by  Kuyuk,  the  late
@@ -16125,26 +14165,21 @@ well  in  connection  with  Jinghis,  whom  he  followed  most  faithfully.
 As  recompense  Jinghis  gave  the  Idikut  his  daughter  Altun  Bighi
 
 
-324  The  Mongols
-
 in  marriage.  This  marriage  was  deferred  by  the  death  of  the
 conqueror.  Ogotai  wished  to  carry  out  the  desire  of  his  father,
 hut  before  he  could  do  so  Altun  Bighi  herself  died,  and  Bardjuk
 died  soon  after.  Bardjuk's  son  Kishmain  went  to  Ogotai's  court
 and  received  hia  father's  title  of  Idikut,  or  sovereign  among  the
-Uigurs.  He  too  died  soon  after,  and  Turakina,  the  regent,  ap-
-pointed her  brother  Salendi  to  the  Uigur  dynasty.
+Uigurs.  He  too  died  soon  after,  and  Turakina,  the  regent,  appointed her  brother  Salendi  to  the  Uigur  dynasty.
 
-This  new  Idikut,  who  was  a  Buddhist,  made  haste  to  give  hom-
-age to  Mangu  at  the  time  of  his  accession,  but  just  after  he  bad
+This  new  Idikut,  who  was  a  Buddhist,  made  haste  to  give  homage to  Mangu  at  the  time  of  his  accession,  but  just  after  he  bad
 started  a  slave  accused  him  of  planning  to  slay  all  Mohammedans,
 not  only  in  the  capital,  but  throughout  the  whole  Uigur  kingdom,
 when  assembled  in  their  mosques  on  a  Friday.  One  of  Mangu 's
 officials  received  the  accusation  and  sent  a  messenger  straightway
 for  the  Idikut.  Salendi  returned  without  delay  to  Bish  Balik  and
 was  confronted  with  the  slave,  who  told  the  whole  plan  minutely.
-Salendi  denied  every  point  with  great  firmness.  The  slave  de-
-manded to  take  the  affair  to  Mangu  to  be  judged  by  him.  Seif
+Salendi  denied  every  point  with  great  firmness.  The  slave  demanded to  take  the  affair  to  Mangu  to  be  judged  by  him.  Seif
 ud  din,  the  official,  sent  him  to  the  Grand  Khan,  and  soon  after
 the  Idikut  was  summoned  for  trial.  Questioned  and  put  to
 torture,  he  ended  by  confessing  that  he  was  guilty.  The  Grand
@@ -16153,15 +14188,13 @@ his  head  was  cut  off  by  his  own  brother,  Okcndji.  T  vo  of  his
 higher  officials,  condemned  as  accomplices,  met  death  by  having
 their  bodies  cut  in  four  pieces  crosswise.  A  third  man,  named  Bela,
 was  condemned  to  death  also,  but  Mangu,  wishing  to  win  from
-High  Heaven  the  cure  of  his  mother,  reprieved  all  who  were  sen-
-tenced to  death  upon  that  day.  Bela  was  already  at  the  place  of
+High  Heaven  the  cure  of  his  mother,  reprieved  all  who  were  sentenced to  death  upon  that  day.  Bela  was  already  at  the  place  of
 execution  and  stripped  of  his  garments  when  grace  came,  but
 hia  children  and  wives  and  his  possessions  were  taken  and  he  was
 sent  00  B  mission  to  Syria  and  Egypt.
 
 When  Mongol  princes  granted  life  to  a  criminal  he  was  either
-sent  to  the  army,  where  he  might  die  with  some  profit  to  his  sover-
-eign, <>r  he  was  employed  on  a  perilous  mission,  or  \v;r'  sent  to
+sent  to  the  army,  where  he  might  die  with  some  profit  to  his  sovereign, <>r  he  was  employed  on  a  perilous  mission,  or  \v;r'  sent  to
 some  country  with  a  death-dealing  climate.
 
 The  slave  who  had  accused  Salendi  got  his  recompense  and
@@ -16185,8 +14218,7 @@ that  in  Mangu 's  reign  the  only  thing  favorable  to  Mongols  was  the
 death  of  Meng  kong,  the  greatest  general  of  China,  the  man  who
 had  frequently  stopped  them,  and  often  defeated  their  forces.
 
-In  1252  Mangu  gaveHonan  to  Kubilai,  his  brother,  as  an  appan-
-age, and  a  part  of  Shen  si  with  it  also.  In  the  same  year,  having
+In  1252  Mangu  gaveHonan  to  Kubilai,  his  brother,  as  an  appanage, and  a  part  of  Shen  si  with  it  also.  In  the  same  year,  having
 previously  consulted  Chinese  sages  as  to  all  needful  and  proper
 details,  he  made  a  great  sacrifice  to  Heaven  from  a  mountain  top.
 The  year  following  he  directed  that  a  census  be  taken  of  the  people
@@ -16204,21 +14236,16 @@ expedition.
 Kubilai  traversed  all  Su  chuan,  and  after  a  march  of  great  trials,
 over  mountains  which  seemed  quite  impassable  for  an  army,  he
 crossed  on  rafts  the  Kin  sha  (Golden  Sand),  a  large  river.  The
-king  of  the  Mussu  man,  the  first  people  beyond  the  Kin  sha,  sub-
-mitted. The  sovereign  of  the  next  people,  the  Pe  man,  made  no
+king  of  the  Mussu  man,  the  first  people  beyond  the  Kin  sha,  submitted. The  sovereign  of  the  next  people,  the  Pe  man,  made  no
 resistance,  but  his  nephew  defended  the  capital.  Kubilai  took  the
 city,  and  put  the  nephew  to  death,  but  he  spared  the  inhabitants.
 
 Tali,  the  capital  of  Nan  chao,  received  Mongol  rule  without
 fighting.  Yao  shu,  his  adviser,  told  Kubilai  how  Tsao  pin,  sent
 by  a  Sung  Emperor  to  seize  Nan  shan,  did  the  work  without  killing
-a  person,  and  even  without  stopping  any  traffic  in  the  city.  Kubi-
-lai declared  that  he  would  show  a  like  wonder.  Shortly  after  this
-he  mounted  his  stallion,  and  arriving  at  the  walls  of  Tali,  he  un-
-furled silk  banners,  on  which  it  was  written  in  large  characters
+a  person,  and  even  without  stopping  any  traffic  in  the  city.  Kubilai declared  that  he  would  show  a  like  wonder.  Shortly  after  this
+he  mounted  his  stallion,  and  arriving  at  the  walls  of  Tali,  he  unfurled silk  banners,  on  which  it  was  written  in  large  characters
 
-
-326  The  Mongols
 
 that  to  kill  man  or  woman  was  forbidden  under  penalty  of  death.
 In  virtue  of  this  statement  on  the  flags,  and  possibly  for  some  other
@@ -16228,24 +14255,19 @@ officers  sent  to  ask  for  surrender.
 
 Kubilai  did  not  go  beyond  Tali ;  he  returned  to  Mongolia  and
 left  Uriang  Kadai  to  master  those  southern  regions.  After  Nan
-chao,  the  Mongol  chief  attacked  and  subjected  the  Tupo  or  Tibe-
-tans, a  war-loving  people,  between  one  and  two  millions  in  num-
-ber. Many  of  these  entered  his  army,  which  was  thereby  strength-
-ened greatly.  Some  even  served  in  the  vanguard  and  acted  as
+chao,  the  Mongol  chief  attacked  and  subjected  the  Tupo  or  Tibetans, a  war-loving  people,  between  one  and  two  millions  in  num-
+ber. Many  of  these  entered  his  army,  which  was  thereby  strengthened greatly.  Some  even  served  in  the  vanguard  and  acted  as
 scouts  in  attacking.
 
 Towards  the  end  of  1254  Uriang  Kadai  left  his  armies  in  the
 field,  and  returned  to  Mongolia  to  report  to  Mangu  the  work  done
 in  the  south  beyond  China.  Sent  back  the  next  year,  he  entered
-through  Lower  Tibet,  and  continued  his  conquests.  The  king-
-dom of  Ava  as  well  as  two  others,  was  either  subjected  or  terrified
-into  yielding.  Two  years  later,  in  1257,  the  Mongol  general  ap-
-peared on  the  edge  of  Tung  king  (Gan  nan)  and  summoned  its
+through  Lower  Tibet,  and  continued  his  conquests.  The  kingdom of  Ava  as  well  as  two  others,  was  either  subjected  or  terrified
+into  yielding.  Two  years  later,  in  1257,  the  Mongol  general  appeared on  the  edge  of  Tung  king  (Gan  nan)  and  summoned  its
 sovereign,  Chen  chi  kung,  a  vassal  of  the  Sung  Emperor,  to  own
 himself  tributary  to  Mangu.  Since  his  envoys  did  not  return  to
 him  the  general  entered  Gan  nan  and  marched  to  the  Iha  River,
-which  runs  through  the  whole  kingdom  lengthwise.  On  the  oppo-
-site bank  he  saw  the  enemy's  army  with  an  immense  force  of  ele-
+which  runs  through  the  whole  kingdom  lengthwise.  On  the  opposite bank  he  saw  the  enemy's  army  with  an  immense  force  of  ele-
 phants in  order  of  battle.  The  Mongols,  disposed  in  three  parts,
 crossed  and  routed  the  enemy.  The  king  hurried  into  a  boat,
 sailed  with  the  current  and  fled  to  an  island ;  a  part  of  his  army
@@ -16288,17 +14310,14 @@ forced  the  king  to  render  homage  in  person.
 
 Kubilai's  kindness  and  justice  made  him  very  popular  in  China.
 Because  of  this,  and  of  calumny,  Mangu  became  jealous,  thinking
-that  his  brother  wished  empire.  Hence  in  1257  Kubilai  was  re-
-called, and  replaced  straightway  by  Alemdar.  Alemdar  arrested
+that  his  brother  wished  empire.  Hence  in  1257  Kubilai  was  recalled, and  replaced  straightway  by  Alemdar.  Alemdar  arrested
 a  number  of  Kubilai's  fiscal  agents  and  put  them  to  death,  saving
-two,  touching  whom  he  was  waiting  for  the  Grand  Khan's  deci-
-sion. Kubilai  suffered  keenly,  his  life  was  in  danger,  and  he  hesi-
+two,  touching  whom  he  was  waiting  for  the  Grand  Khan's  decision. Kubilai  suffered  keenly,  his  life  was  in  danger,  and  he  hesi-
 tated seriously  in  action.  The  sage  Yao  shu,  his  adviser,  declared
 that  since  he  was  the  first  subject  of  his  sovereign,  he  should  give
 an  example  of  obedience.  This  Chinese  sage  advised  a  return  to
 Mongolia  with  his  family  as  the  best  way  to  soften  the  suspicions
-of  his  brother  and  remove  every  danger.  This  advice  was  re-
-garded and  followed.  When  they  met  the  two  brothers  could  not
+of  his  brother  and  remove  every  danger.  This  advice  was  regarded and  followed.  When  they  met  the  two  brothers  could  not
 restrain  tears.  No  reference  was  made  to  Chinese  matters.
 Alemdar  was  recalled,  and  his  commission  was  ended.
 
@@ -16311,8 +14330,6 @@ Sung  territory,  and  imprisoned  in  a  fortress  with  his  suite  of  sevent
 persons.  The  envoy  died  shortly  after,  but  the  members  of  his
 suite  were  detained  in  the  fortress  until  1254.    That  year  the  Mon-
 
-
-328  The  Mongols
 
 gols  besieged  Ho  chiu,  before  which  they  were  defeated  by  Wang
 kian,  the  city  governor.  The  Chinese,  to  show  how  much  peace
@@ -16357,8 +14374,7 @@ atly  to  capture   Ku  chu  yai,  fi   fortress  twenty  leagues  wesl   <>f
 left  ;it  Ching  tu  .1  Strong  garrison  and  marched  l<>  lake  this  mountain
 
 stronghold.  ( lhang  shi,  a  Sung  general  captured  recently,  was  sent
-in  advance  to  persuade  the  commandanl  of  Ku  elm  yai  to  surren-
-der.     <  shi  entered   the  city,  but,  instead  of  persuading  the
+in  advance  to  persuade  the  commandanl  of  Ku  elm  yai  to  surrender.     <  shi  entered   the  city,  but,  instead  of  persuading  the
 
 commandanl  t<>  surrender,  or  trying  to  persuade  him  and  then
 returning  t<>  Niuli,  he  remained  in  the  stronghold.
@@ -16368,8 +14384,7 @@ Death  of  Ogotai  329
 
 Mangu  himself  now  marched  against  the  place  and,  overcoming
 all  obstacles,  brought  his  army  up  to  it.  After  ten  days  of  siege
-work  one  gate  of  the  city  was  surrendered  by  Chao  chung,  a  traitor-
-ous officer  of  the  garrison.  The  Mongols  entered  in  secret,  but
+work  one  gate  of  the  city  was  surrendered  by  Chao  chung,  a  traitorous officer  of  the  garrison.  The  Mongols  entered  in  secret,  but
 there  was  soon  a  fierce  and  keen  struggle  in  the  streets,  during
 which  Yang  li,  the  commandant,  was  killed  and  the  garrison
 scattered.  The  house  of  Chao  chung,  the  traitor,  was  spared
@@ -16377,8 +14392,7 @@ in  the  looting  and  destruction  which  followed;  he  himself  was
 rewarded  with  a  rich  robe  of  honor,  and  the  command  of  a  city.
 Chang  shi,  the  Sung  general  who  did  not,  or  would  not  persuade
 the  city  to  surrender,  was  captured  a  second  time,  and  next  day  the
-Grand  Khan  had  him  quartered,  that  is,  his  body  was  cut  length-
-wise and  crosswise.  After  this,  much  of  Western  Su  chuan  was
+Grand  Khan  had  him  quartered,  that  is,  his  body  was  cut  lengthwise and  crosswise.  After  this,  much  of  Western  Su  chuan  was
 subjected.  The  struggle  was  stubborn  and  desperate  in  some
 parts;  in  others  there  was  only  indifference,  or  treason.  On
 February  18,  1259,  the  Mongol  New  Year,  a  great  feast  was  given
@@ -16409,8 +14423,6 @@ rest  driven  back  to  Chung  king,  whence  they  started.
 In  June  assaults  were  very  frequent,  but  with  no  profit  to  either
 
 
-330  The  Mongols
-
 side.  One  night  in  July  a  Mongol  general  scaled  the  ramparts
 with  picked  warriors  and  held  his  position  till  daybreak.  Then,
 seeing  Wang  kian,  the  Sung  commander,  who  was  about  to  begin
@@ -16433,13 +14445,11 @@ near  the  graves  of  Jinghis  and  Tului.
 
 Mangu  was  generous  but  stern  by  nature.  He  often  distributed
 largess  freely  among  his  troops,  but  insisted  that  they  should  be
-held  under  severe  discipline  at  all  times.  In  the  Su  chuan  cam-
-paign he  strictly  forbade  his  men  to  plunder.  On  learning  that  Assu-
+held  under  severe  discipline  at  all  times.  In  the  Su  chuan  campaign he  strictly  forbade  his  men  to  plunder.  On  learning  that  Assu-
 tai, while  out  hunting,  had  destroyed  a  wheatfield,  he  reproved  him
 sternly  and  had  several  of  his  companions  punished.  He  carried
 discipline  so  far  that  once,  when  a  soldier  disobeyed  orders  and
-forcibly  took  an  onion  from  a  peasant,  he  was  put  to  death  imme-
-diately. Though  tolerant  of  all  religions  he  was  superstitious,  and
+forcibly  took  an  onion  from  a  peasant,  he  was  put  to  death  immediately. Though  tolerant  of  all  religions  he  was  superstitious,  and
 under  the  influence  of  shamans,  an  influence  apparently  baneful.
 A  -ton'  is  told  of  one  of  Mangu 's  wives,  who,  having  given  birth  to
 a  son,  summoned  a  shaman  to  read  the  boy's  horoscope.  The
@@ -16479,8 +14489,7 @@ and  active  flotilla.
 He  laid  siege  at  once  to  Wu  chang  fu  and  sent  a  division  of
 troops  to  Kiang  si,  where  they  captured  two  cities.  These  brilliant
 actions  roused  fear  in  Lin  ngan  (Hang  chau),  the  Sung  residence.
-The  Emperor  up  to  this  time  had  not  known  of  the  Mongol  in-
-vasion; for  his  minister  had  deceived  him  systematically,  and
+The  Emperor  up  to  this  time  had  not  known  of  the  Mongol  invasion; for  his  minister  had  deceived  him  systematically,  and
 now  he  received  a  vast  number  of  petitions  from  all  sides,
 declaring  the  minister  a  traitor  and  demanding  that  death  be
 inflicted  for  his  treason.  The  Emperor  removed  the  man
@@ -16509,8 +14518,7 @@ vigor.  Kia  se  tao  engaged  that  the  Sung  Emperor  would  own
 himself  a  vassal  of  the  Grand  Khan,  the  sovereign  of  the  Mongols.
 Kubilai  had  received  an  official  account  of  the  death  of  Mangu,
 still  he  rejected  the  minister's  proposal.  But  when  letters  came
-from  his  partisans,  who  urged  him  to  hasten  and  prevent  the  at-
-tempts to  be  made  by  Arik  Buga,  he  consulted  his  generals,  and
+from  his  partisans,  who  urged  him  to  hasten  and  prevent  the  attempts to  be  made  by  Arik  Buga,  he  consulted  his  generals,  and
 Hao  king,  one  of  them,  explained  very  clearly  that  Arik  Buga.
 master  at  Kara  Kurum,  the  home  capital,  and  Duredji,  governor  of
 Yen  king  (now  Pekin),  the  capital  of  China,  would  act  as  one  man
@@ -16531,8 +14539,7 @@ the  best  of  the  cavalry,  leaving  orders  with  his  gener  -  t»  await
 Uriang  Kadai.  Uriang  Kadai  had  been  commanded  by  Mangu
 to  join  Kubilai'a  army  at  \Yu  chang,  bringing  with  him  the  thirteen
 thousand  men  furnished  by  subject  nations  on  the  south,  beyond
-China.  After  he  had  defeated,  on  the  border,  armies  more  numer-
-ous by  far  than  his  own,  he  laid  siege  to  Kwei  tiu,  the  capital  of
+China.  After  he  had  defeated,  on  the  border,  armies  more  numerous by  far  than  his  own,  he  laid  siege  to  Kwei  tiu,  the  capital  of
 Kiang  >i.  defeated  a  second  Chinese  army,  and  reached  Southern
 IIu  kuang,  where  he  laid  siege  to  Chang  shi.  The  treaty  now
 made  by  Kubilai  forced  him  to  desist  and  cross  the  Yang  tse  with
@@ -16555,8 +14562,7 @@ management.  The  massacre  of  Uriang  Kadai's  rear  party  was
 exhibited  as  a  triumph  and  Kia  se  tao  was  summoned  to  the  court
 to  be  honored  by  a  brilliant  reception.
 
-Kubilai  encamped  outside  the  walls  of  Yen  king,  and  com-
-plained to  Arik  Buga  of  the  levies  of  men,  beasts  and  money  which
+Kubilai  encamped  outside  the  walls  of  Yen  king,  and  complained to  Arik  Buga  of  the  levies  of  men,  beasts  and  money  which
 the  latter  was  making.  Arik  Buga  gave  quieting  answers;  he
 wished  to  attract  Kubilai  and  his  partisans  to  the  Kurultai  which
 had  been  summoned.  Beyond  doubt  he  either  had  taken  means  to
@@ -16572,8 +14578,7 @@ election.
 
 Kubilai's  party  met,  and  since  the  position  was  so  serious  as  to
 brook  no  delay,  it  was  impossible  for  them  to  wait  for  Juchi's  and
-Jagatai's  descendants  or  for  Hulagu,  who  was  then  in  Persia.  Ku-
-bilai was  elected  immediately  and  without  opposition  and  placed  on
+Jagatai's  descendants  or  for  Hulagu,  who  was  then  in  Persia.  Kubilai was  elected  immediately  and  without  opposition  and  placed  on
 the  throne  with  the  usual  formalities,  1260.  — This  election  was  the
 beginning  of  a  contest  which  in  the  sequel  destroyed  the  Mongol
 Empire. — A  deputation  of  one  hundred  was  now  sent  to  inform
@@ -16590,20 +14595,15 @@ silk  and  silver  among  them ;  he  sent  two  other  men  to  Shen  si,  and
 these  two  were  able  to  induce  certain  governors  and  generals  in
 China  to  declare  for  Arik  Buga,  who,  supported  in  this  way,  did
 not  hesitate  to  take  the  sovereign  title.  At  the  head  of  his  party
-was  Kutuktai,  once  the  chief  wife  of  Mangu.  With  her  were  asso-
-ciated Mangu's  sons  :  Assutai,  Yurungtash  and  Shireki,  also  several
+was  Kutuktai,  once  the  chief  wife  of  Mangu.  With  her  were  associated Mangu's  sons  :  Assutai,  Yurungtash  and  Shireki,  also  several
 of  Jagatai's  grandsons.
 
 The  two  claimants  continued  to  send  envoys  to  each  other  all
 
 
-334  The  Mongols
-
 that  season  without  reaching  an  agreement.  In  the  autumn  Arik
-Buga  sent  out  an  army  commanded  by  Karadjar,  and  by  Chumu-
-kur,  a  son  of  Hulagu.  This  force  was  defeated  by  Kubilai's
-vanguard.  Discouraged  by  this  check,  Arik  Buga's  troops  scat-
-tered, and  he  himself  sought  Kirghis  regions  for  protection  after
+Buga  sent  out  an  army  commanded  by  Karadjar,  and  by  Chumukur,  a  son  of  Hulagu.  This  force  was  defeated  by  Kubilai's
+vanguard.  Discouraged  by  this  check,  Arik  Buga's  troops  scattered, and  he  himself  sought  Kirghis  regions  for  protection  after
 he  had  put  to  death  Apishga  and  his  brother  —  those  two  Jagatai
 princes  friendly  to  Kubilai  —  and  the  deputation  of  one  hundred
 sent  with  news  of  that  emperor's  election.
@@ -16620,8 +14620,7 @@ an  amnesty  which  would  arrive  very  soon,  he  had  the  two  put
 to  death  while  in  prison,  and  published  the  edict  after  its  arrival.
 Three  corps  of  troops  led  by  Prince  Kadan  were  now  sent  by  the
 governor  against  Kundukai,  Arik  Buga's  commander,  who,  unable
-to  take  Si  ngan  fu  and  needing  reinforcements,  withdrew  north-
-ward to  meet  Alemdar,  who  was  bringing  fresh  troops  from  Mon-
+to  take  Si  ngan  fu  and  needing  reinforcements,  withdrew  northward to  meet  Alemdar,  who  was  bringing  fresh  troops  from  Mon-
 golia. After  these  two  generals  had  joined  forces,  they  turned
 toward  the  south  and  were  met  by  Kubilai's  army  in  Middle  Shen  si,
 somewhat  east  of  Kin  chau.  The  battle  which  followed  was
@@ -16631,8 +14630,7 @@ crushing  a  defeat  that  the  campaign  was  ended.  Kundukai  and
 Alemdar  were  both  killed  in  this  battle,  and  China  was  secured  to
 Kubilai,  who  now  moved  north  and,  entering  Mongolia,  established
 his  camp  at  the  river  Ungki  for  that  winter.  Kara  Kunnn  lacked
-supplies  and,  since  it  received  them  from  China,  Kubilai  deter-
-mined to  stop  every  movement  to  Mongolia  and  had  means  to
+supplies  and,  since  it  received  them  from  China,  Kubilai  determined to  stop  every  movement  to  Mongolia  and  had  means  to
 enforce  this  decision.  "Want  soon  appeared  in  the  capital.  Arik
 Buga  was  in  need  of  arms  ami  provisions;  still  he  persisted, and
 transferring  to  Algu,  who  w.*i^  with  him,  the  inheritance  of  Jagatai,
@@ -16644,8 +14642,7 @@ or  from  Berkai.     Arik  Buga  was  still  in  the  Kem  Kcmdjut  region,
 Death  of  Ogotai  335
 
 and  fearing  to  make  an  attack  in  his  weakness,  he  sent  a  message  to
-Kubilai  saying  that  he  repented  and  acknowledged  him  as  the  sover-
-eign, that  he  would  stand  before  him  at  once  were  his  horses  in
+Kubilai  saying  that  he  repented  and  acknowledged  him  as  the  sovereign, that  he  would  stand  before  him  at  once  were  his  horses  in
 condition  to  travel,  though  he  would  prefer  to  await  the  arrival  of
 Berkai  and  Hulagu,  whom  he  had  asked  with  other  princes  to
 arrange  the  affairs  of  the  Empire.
@@ -16665,8 +14662,7 @@ THE  summer  and  autumn  of  1261  were  passed  very  quietly.
 Arik  Ruga's  horses  recovered;  he  assembled  large  forces
 and  set  out  for  Kara  Kurum,  the  chief  capital  of  Mongolia  To  put
 Yessugka  off  his  guard  and  lull  all  suspicions,  he  sent  a  message
-announcing  his  visit  and  with  it  submission.  After  that  he  ap-
-peared on  asudden  and  fell  upon  Yessugka'smen,  whom  he  crushed.
+announcing  his  visit  and  with  it  submission.  After  that  he  appeared on  asudden  and  fell  upon  Yessugka'smen,  whom  he  crushed.
 Hurrying  southward  at  once  to  strike  Kubilai,  he  met  him  at  some
 distance  northeast  of  Shang  tu,  on  the  eastern  rim  of  the  great  Gobi
 desert.     Arik  Buga  was  beaten  and  fled  northward.
@@ -16683,8 +14679,7 @@ Algu,  made  Khan  of  Jagatai's  Horde  by  Arik  Bupi.  took  the
 government  from  Organa,  Kara  Hul&gu's  widow.  His  sway  then
 extended  from  Almalik  to  the  Syr  Darya,  and  soob  he  had  an  army
 of  one  hundred  and  fifty  thousand.  Arik  Buga,  poor  and  weak  after
-such  numerous  reverses,  sent  three  agents  to  Algu  to  levy  a  contri-
-bution in  cattle,  arms,  and  money.  The  abundant  proceeds  of
+such  numerous  reverses,  sent  three  agents  to  Algu  to  levy  a  contribution in  cattle,  arms,  and  money.  The  abundant  proceeds  of
 this  Levy  tempted  Algu.    He  seized  Arik  Buga'a  men,  since,  as  he
 
 stated,  they  had  made  offensive  diseourses  against  him.  After  that
@@ -16694,8 +14689,6 @@ it  was  late  to  retrieve  the  error,  he  must  acknowledge  Kubilai  as
 Sovereign  and  take  his  side  openly.
 
 Algu  put  the  three  agents  to  death,  seized  all  the  wealth  which
-
-330
 
 
 Kubilai  Khan  Destroys  the  Sung  Dynasty     337
@@ -16744,8 +14737,6 @@ Arik  Buga,  left  without  friends,  troops  or  resources,  decided  in
 1264  to  appeal  to  the  mercy  of  his  brother,  and  went  to  him.     On
 
 
-338  The  Mongols
-
 appearing  at  Kubilai's  tent  men  threw  the  curtain  of  the  entrance
 around  him;  thus  covered  he  made  his  prostrations.  Such  was
 the  usage  in  cases  of  that  kind.  Admitted  to  the  interior,  he  stood
@@ -16769,8 +14760,7 @@ Togachar,  a  nephew  of  Jinghis,  rose  then  and  said  :  "  The  Khan
 desires  no  mention  to-day  of  the  past.  He  wishes  you  to  feel
 nothing  but  pleasantness."  Turning  to  Kubilai  then,  he  added:
 "  Arik  Buga  is  standing ;  what  place  dost  thou  give  him  ?  "  He
-was  seated  with  Kubilai's  sons  and  they  passed  that  day  in  com-
-pany. On  the  morrow,  however,  Arik  Buga's  officers  .vere  all
+was  seated  with  Kubilai's  sons  and  they  passed  that  day  in  company. On  the  morrow,  however,  Arik  Buga's  officers  .vere  all
 put  in  irons,  and  Kubilai  appointed  a  commission  of  four  princes
 and  three  generals  to  interrogate  Arik  Buga  and  his  partisans.
 Arik  Buga  declared  that  he  alone  was  responsible,  that  his  officers
@@ -16794,8 +14784,7 @@ principal  ulus  of   the  Mongols.     Why  hesitate?     Make  yourself
 Kubilai  Khan  Destroys  the  Sung  Dynasty     339
 
 Grand  Khan  immediately."  He  had  consulted  with  the  other
-officers ;  all  held  that  opinion  together.  The  officers  present  con-
-firmed what  Arik  Buga  had  stated,  and  ten  of  them  were  sen-
+officers ;  all  held  that  opinion  together.  The  officers  present  confirmed what  Arik  Buga  had  stated,  and  ten  of  them  were  sen-
 tenced to  pay  the  death  penalty.  But  to  judge  Arik  Buga  himself
 Kubilai  wished  the  presence  of  Hulagu,  Berkai,  and  Algu.  After
 waiting  a  long  time  for  them,  princes  of  the  blood  and  generals  then
@@ -16830,16 +14819,13 @@ to  Kaidu  and  his  exploits.
 Kubilai,  now  Grand  Khan,  had  decided  to  conquer  all  China
 and  he  began  that  great  work  with  seriousness.  During  1260  he
 had  sent  an  envoy  named  Haoking  to  inform  the  Sung  Emperor  of
-his  election.  This  envoy  was  to  see  in  addition  that  the  treaty  con-
-cluded at  Wu  chang  fu  with  Kia  se  tao  was  respected.  As  soon  as  the
+his  election.  This  envoy  was  to  see  in  addition  that  the  treaty  concluded at  Wu  chang  fu  with  Kia  se  tao  was  respected.  As  soon  as  the
 envoy  set  foot  on  Sung  territory  he  was  cast  into  prison  with  all
 his  attendants.  This  was  done  at  direction  of  Kia  se  tao,  the  real
 author  of  the  treaty  by  which  the  Sung  Emperor  was  made  a
 vassal  of  Kubilai.  Kia  se  tao  had  removed  from  this  world  every
 person  who  knew  of  that  treaty  and  its  various  provisions.    He  was
 
-
-340  The  Mongols
 
 the  only  man  living  at  that  time  in  China  who  knew  of  it.  The
 great  point  for  Kia  se  tao  was  that  the  Sung  Emperor  must  continue
@@ -16932,8 +14918,6 @@ It  was  decided  that  the  city  could  sustain  a  long  siege,  and  that
 they  must  reduce  it  by  famine.    All  communication  by  land  was
 
 
-342  The  Mongols
-
 cut  off,  but  the  Chinese  had  a  numerous  flotilla  and  could  receive
 arms  and  reinforcements  by  the  river.  The  besiegers  constructed
 fifty  great  barges  on  which  warriors  were  exercised  daily  at  warfare
@@ -16943,13 +14927,11 @@ in  the  following  autumn  (12G9)  during  very  high  water.  At  chu
 punished  the  Chinese  while  they  were  nearing  Siang  yang,  and  on
 their  way  back  he  seized  five  hundred  boats  from  them.
 
-After  a  blockade  of  one  year  the  Mongols  saw  the  need  of  invest-
-ing Fan  ching,  on  the  opposite  side  of  the  river.  The  cities  were
+After  a  blockade  of  one  year  the  Mongols  saw  the  need  of  investing Fan  ching,  on  the  opposite  side  of  the  river.  The  cities  were
 connected  by  bridges  of  boats;  both  sides  of  the  river  were  dotted
 with  posts  and  intrenchments,  while  the  river  was  barred  with
 strong  chains  and  armed  barges.  Siang  yang  seemed  abandoned
-to  its  fate,  for  Kia  se  tao  did  nothing  to  succor  it,  but  he  took  im-
-mense pains  all  this  time  to  hide  from  his  sovereign  what  was
+to  its  fate,  for  Kia  se  tao  did  nothing  to  succor  it,  but  he  took  immense pains  all  this  time  to  hide  from  his  sovereign  what  was
 happening  in  the  Empire.  Despite  his  precautions  the  Emperor
 heard  in  1271  that  the  Mongols  were  besieging  Siang  yang,  that
 being  the  third  year  of  the  investment.  He  demanded  information ;
@@ -16974,8 +14956,7 @@ met.  and  that  of  the  Chinese  was  cut  to  pieces,  or  scattered.
 This  check  spread  such  a  terror  among  the  Sung  warriors  that
 the  whole  army  fled,  having  standards  and  baggage  behind  it.
 Still  the  besieged]  whose  chiefs  were  not  east  down  by  reverses,
-stood  firm,  and  at  the  end  of  four  years  the  city  was  still  well  sup-
-plied with  provisions,  though  salt  and  a  few  other  articles  were
+stood  firm,  and  at  the  end  of  four  years  the  city  was  still  well  supplied with  provisions,  though  salt  and  a  few  other  articles  were
 
 
 Kubilai  Khan  Destroys  the  Sung  Dynasty     34.c
@@ -16995,8 +14976,7 @@ the  people.
 
 This  new  flotilla  was  commanded  by  Chan  shun  and  Chang  kwe,
 two  very  brave  warriors.  Chan  shun  was  killed  before  reaching
-the  city.  Chang  kwe  in  returning  to  Ngan  lo  was  met  by  the  Mon-
-gols, and  a  desperate  hand  to  hand  conflict  resulted;  every  man
+the  city.  Chang  kwe  in  returning  to  Ngan  lo  was  met  by  the  Mongols, and  a  desperate  hand  to  hand  conflict  resulted;  every  man
 near  Chang  kwe  was  killed,  and  he  was  seized.  All  wounded  and
 blood-covered,  he  would  not  acknowledge  the  Mongols.  They
 slew  him  immediately  and  sent  four  prisoners  back  to  Siang  yang
@@ -17018,19 +14998,15 @@ The  Mongols  master  Fedan  ching  during  February,  1273.  Kia
 se  tao  now  offered  to  lead  men  himself  and  give  aid  to  the  cities,
 but,  through  the  Emperor,  he  commanded  himself  to  remain,
 declaring  his  presence  at  court  indispensable.  Kao  ta,  a  great
-enemy  of  Liu  wen  hoan,  was  appointed  to  lead  instead  of  the  won-
-derfully adroit  minister.
+enemy  of  Liu  wen  hoan,  was  appointed  to  lead  instead  of  the  wonderfully adroit  minister.
 
 The  catapults  were  turned  on  Siang  yang,  but  the  attack  began
 
 
-344  The  Mongols
-
 only  in  November.  The  machines  made  a  terrible  noise;  the
 enormous  stone  missiles  crushed  all  that  they  fell  upon.  The
 besieged  rushed  away  from  exposed  spots  in  terror.  Fear  spread
-through  the  city.  Liu  ching,  who  knew  Liu  wen  hoan,  the  com-
-mandant,  asked  now  for  parley,  and  got  it,  but  the  two  men  had
+through  the  city.  Liu  ching,  who  knew  Liu  wen  hoan,  the  commandant,  asked  now  for  parley,  and  got  it,  but  the  two  men  had
 barely  bejrun  to  converse  when  Chinese  warriors  sent  arrows  from
 the  fortress  and  Liu  ching  was  saved  only  by  the  goodness  of  his
 armor.
@@ -17063,8 +15039,7 @@ Emperor.
 
 Kubilai,  exercised  by  the  war  in  his  own  family,  was  inclined  to
 cease  action  on  the  Vang  tse  for  the  present,  but  hi  generals
-explained  the  great  value  of  the  capture  of  Siang  yang  in  contin-
-uing the  struggle  and  urged  that  he  strike  his  enemies  while  the
+explained  the  great  value  of  the  capture  of  Siang  yang  in  continuing the  struggle  and  urged  that  he  strike  his  enemies  while  the
 advantage  was  <>n  his  side.    The  Emperor,  Tu  tsong,  had  just  died,
 
 August,  1274,  and  had  left  all  affairs  to  Kia  se  tao,  and  others  as
@@ -17081,8 +15056,7 @@ child  of  four  years.  This  boy  was  chosen.  The  new  Emperor
 received  the  name  Kong  tsong,  and  the  Empress  Siei  shi,  a  widow
 of  Tu  tsong's  father,  was  raised  to  the  regency.
 
-While  preparing  to  continue  the  conquest  of  China  most  effect-
-ively, Kubilai,  to  explain  and  to  justify  his  action,  issued  a  re-
+While  preparing  to  continue  the  conquest  of  China  most  effectively, Kubilai,  to  explain  and  to  justify  his  action,  issued  a  re-
 script declaring  that  Jinghis,  Ogotai  and  Mangu  had  striven  to
 establish  firm  peace  with  the  Sung  Empire,  and  that  he  himself
 when  only  a  prince  and  commander  of  armies  had  made  a  treaty
@@ -17120,8 +15094,6 @@ the  trouble,  and  Bayan  took  the  city.  The  Mongols  made
 track  of  strong  beams  from  the  river  to  Lake  Teng  into  which  they
 
 
-346  The  Mongols
-
 dragged  all  their  vessels  and  barges.  From  this  lake  they  sailed
 to  the  Han  by  an  outlet,  thus  passing  Ngan  lo  without  battle.
 Having  taken  Sin  hing  chau  and  Sha  yang,  two  cities  on  the  right
@@ -17136,31 +15108,26 @@ across  the  Yang  tse  under  At  chu.  Hia  kwe,  the  Chinese  general,
 fearing  lest  he  might  be  cut  off,  sailed  down  with  all  his  flotilla,
 thus  leaving  Bayan  perfect  freedom  of  action.
 
-Yang  lo  on  the  north  bank  was  captured.  Han  yang  surren-
-dered. Bayan  crossed  the  great  river  with  his  army,  and  was
+Yang  lo  on  the  north  bank  was  captured.  Han  yang  surrendered. Bayan  crossed  the  great  river  with  his  army,  and  was
 preparing  a  siege  for  AYu  chang  fu  when  Chang  yen  kien  and  Ching
 pong,  the  commandants  of  that  city,  surrendered  and  passed  with
 their  men  to  the  service  of  Kubilai.  Bayan  left  a  strong  garrison
 under  Alihaya  and  moved  toward  the  east  with  the  rest  of  his
 forces.
 
-Ching  pong  had  been  charged  by  Bayan  with  effecting  the  sub-
-mission of  Chin  y,  the  Hoang  chiu  commandant.  Chin  y  de-
+Ching  pong  had  been  charged  by  Bayan  with  effecting  the  submission of  Chin  y,  the  Hoang  chiu  commandant.  Chin  y  de-
 manded a  good  office.  Bayan  promised  to  make  him  chief  inspector
 of  lands  along  the  Yang  tse.  Chin  y  then  opened  the  gates  of
 Hoang  chiu  to  the  Mongols ;  he  induced  the  governor  of  Ki  chiu
 to  join  also  and  surrender  his  city.  Many  commandants  along
 the  Yang  tse  had  oerved  under  Liu  wen  hoan,  or  men  of  his
 family,  and  these  surrendered  without  waiting  for  a  summons.
-Chin  yen,  a  commandant  in  Kiang  nan,  and  son  of  Chin  y,  fol-
-lowed the  example  of  his  father.  The  governor  of  Kiu  kiang
+Chin  yen,  a  commandant  in  Kiang  nan,  and  son  of  Chin  y,  followed the  example  of  his  father.  The  governor  of  Kiu  kiang
 opened  hia  gates  to  Bayan,  who  received  in  this  city  the  surrender
 of  Nan  king,  Te  ngan  fu,  and  Lu  ngan.  The  kindly  reception
-given  by  Bayan  to  all  Chinese  facilitated  his  conquests  im-
-mensely.
+given  by  Bayan  to  all  Chinese  facilitated  his  conquests  immensely.
 
-Kia  <c  tao,  now  master  of  the  Sung  Emperor,  had  collected  mean-
-while a  great  army,  and  brought  to  Wu  hu.  or  to  a  point  near  it,
+Kia  <c  tao,  now  master  of  the  Sung  Emperor,  had  collected  meanwhile a  great  army,  and  brought  to  Wu  hu.  or  to  a  point  near  it,
 a  great  river  fleet  which  was  joined  by  Hia  kwe's  large  flotilla.
 The  first  minister  seal  now  to  Bayan  a  Mongol  captive  as  envoy,
 bearing  presents  <»f  beautiful  fruits  and  proposals  of  peace  on  the
@@ -17213,13 +15180,10 @@ brother  had  been  sent  to  obtain  his  release  from  Kia  se  tao.  The
 mission  succeeded ;  Hao  king  and  his  suite  were  set  free,  but  he  fell
 
 
-346  The  Mongols
-
 ill  on  the  road,  and  died  after  reaching  Yen  king  (Pekin),  the
 capita]  of  the  Empire.
 
-Kubilai  .sent  an  embassy  soon  after  this  to  make  new  peace  pro-
-posals. Lien  hi  kien,  the  chief  of  this  embassy,  stopped  at  Nan
+Kubilai  .sent  an  embassy  soon  after  this  to  make  new  peace  proposals. Lien  hi  kien,  the  chief  of  this  embassy,  stopped  at  Nan
 king,  Bayan's  headquarters,  and  obtained  five  hundred  men  as  an
 escort.  Bay  an  forbade  hostile  acts  on  the  part  of  his  army,  and
 thus  avoided  all  pretexts  for  violence  to  the  embassy.  In  spite  of
@@ -17235,8 +15199,7 @@ Bay  an  was  distrustful,  and  received  all  these  statements  very
 coolly.  He  sent  to  Lin  ngan  with  the  bearer  of  this  letter  Chang
 yu,  his  own  officer,  to  treat  for  peace  formally,  but  really  to  see  the
 condition  of  the  capital.  Chang  yu  was  assassinated  on  the
-journey.  Bayan,  indignant  at  such  treachery,  demanded  permis-
-sion of  Kubilai  to  continue  hostilities.  The  Grand  Khan,  in
+journey.  Bayan,  indignant  at  such  treachery,  demanded  permission of  Kubilai  to  continue  hostilities.  The  Grand  Khan,  in
 answer,  recalled  him  at  once  to  the  North  to  take  command  against
 Kaidu,  who  at  that  time  was  pressing  him  sorely.
 
@@ -17245,8 +15208,7 @@ attack  on  Wu  chang  fu.  He  manned  several  thousand  large  boats
 and  seized  the  straits  of  King  kiang.  Alihaiya,  the  Wu  chang
 commandant,  advanced  with  a  fleet  against  Kao  shi  kie,  who,
 fearing  the  risk  of  a  battle,  raised  anchor  and  retired  to  the  great
-Tong  ting  lake,  where  he  made  his  boats  ready  for  action.  Ali-
-haiya formed  his  fleet  into  several  squadrons,  which  put  the  Chinese
+Tong  ting  lake,  where  he  made  his  boats  ready  for  action.  Alihaiya formed  his  fleet  into  several  squadrons,  which  put  the  Chinese
 to  flight  with  great  promptness.  They  seiz.ed  Kao  shi  kie's  boat,
 took  him  prisoner  and  then  cut  his  head  off.  The  head  was  fixed
 on  a  lance  point  and  shown  beneath  the  walls  of  Yu  chau,  which
@@ -17254,8 +15216,7 @@ surrendered  when  summoned.
 
 Alihaiya  now  attacked  Kiang  ling.  The  governor  of  tins  city,
 Kao  ta,  was  among  the  best  officers  in  China.  Dissatisfied  with
-the  COUrt  which  had  put  other  men  above  him  irregularly,  he  sur-
-rendered his  city.  After  some  days  he  wTote  to  commandants
+the  COUrt  which  had  put  other  men  above  him  irregularly,  he  surrendered his  city.  After  some  days  he  wTote  to  commandants
 within  his  jurisdiction  advising  surrender,  and  soon  fifteen  of
 tlnm  yielded.     Alihaiya  left  all  who  surrendered  in  command  of
 
@@ -17276,8 +15237,7 @@ now  for  the  government  was  to  be  rid  of  Kia  se  tao,  who  had  grown
 odious  to  all  men,  and  in  1274  the  regent  deprived  him  of  office.
 This  did  not  sate  public  hatred,  however.  Ten  accusations  were
 leveled  against  this  vile  minister,  but  the  regent  whom  he  had
-created  could  not  make  up  her  mind  to  destroy  the  man,  so  she  con-
-fiscated his  property,  and  assigned  Fu  kien  to  him  as  a  place  of
+created  could  not  make  up  her  mind  to  destroy  the  man,  so  she  confiscated his  property,  and  assigned  Fu  kien  to  him  as  a  place  of
 life  exile.  An  official  whose  father  the  minister  had  banished  was
 given  the  task  of  conducting  the  condemned  man.  This  official
 made  it  his  pleasure  to  torment  the  fallen  minister  as  he  traveled,
@@ -17286,8 +15246,7 @@ act  he  was  put  to  death  straightway.
 
 At  chu  resolved  now  to  attack  Chang  shi  kie,  who  had  a  vast
 fleet  of  boats  on  the  river.  In  front  of  his  own  fleet  he  arranged
-his  largest  boats  and  placed  upon  them  one  thousand  crossbow-
-men  who  discharged  blazing  arrows  to  fire  the  opposing  flotilla.
+his  largest  boats  and  placed  upon  them  one  thousand  crossbowmen  who  discharged  blazing  arrows  to  fire  the  opposing  flotilla.
 He  followed  closely  behind  to  sustain  them.
 
 The  Mongol  fleet  bore  down  with  all  force  on  the  Chinese.
@@ -17301,13 +15260,10 @@ Mongols.
 Bayan  saw  the  Grand  Khan  at  Shang  tu,  and  convinced  him  that
 harm  alone  could  result  from  stopping  operations  in  China  for
 even  a  short  time.  Bayan  was  sent  back  to  his  office  and  the  plan
-of  campaign  was  fixed  promptly.  Bayan  was  to  march  straight-
-way (1275),  and  take  the  Sung  capital.  His  assistants  were  to
+of  campaign  was  fixed  promptly.  Bayan  was  to  march  straightway (1275),  and  take  the  Sung  capital.  His  assistants  were  to
 operate  on  the  right  and  the  left  in  the  Hoai  nan  and  Kiang  si
 provinces.    His  own  army  was  divided  into  three  parts  and  its
 
-
-350  The  Mongols
 
 action  repeated  in  some  sense  the  movements  of  the  combined
 Mongol  forces.  The  part  of  this  army  in  which  Bay  an,  the  great
@@ -17402,10 +15358,7 @@ and  map  in  each  archive;  these  were  all  carefully  placed  under
 seal.    Troops  were  stationed  in  every  part  of  the  capital  and  exact
 
 
-352  The  Mongols
-
-order  continued.  Bayan,  whom  the  Emperor  and  Empress  de-
-manded to  see,  excused  himself  under  pretext  that  he  knew  not
+order  continued.  Bayan,  whom  the  Emperor  and  Empress  demanded to  see,  excused  himself  under  pretext  that  he  knew  not
 the  right  ceremonial  on  such  an  occasion,  and  next  day  he  left  the
 city.  Two  Chinese  dignitaries  were  charged  with  watching  the
 palace,  for  no  reason  whatever  were  they  to  lose  sight  of  the
@@ -17417,8 +15370,7 @@ appeared  at  the  palace.  His  first  act  was  to  abolish  all  etiquette
 observed  with  the  Emperor  and  Empress.  Meanwhile  he  invited
 the  Emperor  and  his  mother  to  set  out  for  Kubilai's  court  in  Shang
 tu,  without  waiting.  After  this  notice  had  been  given,  the  Empress
-with  streaming  eyes  embraced  her  little  boy,  lately  heir  to  the  Em-
-pire :  "  The  son  of  Heaven  spares  thy  life,"  said  she.  '  It  is  proper
+with  streaming  eyes  embraced  her  little  boy,  lately  heir  to  the  Empire :  "  The  son  of  Heaven  spares  thy  life,"  said  she.  '  It  is  proper
 to  thank  him."  This  heir  of  seven  years,  a  creation  of  the  dead
 Kia  se  tao,  fell  on  his  knees  at  the  side  of  his  mother;  their  faces
 were  turned  toward  the  north,  toward  Shang  tu ;  nine  times  did
@@ -17430,13 +15382,11 @@ Lin  ngan  and  their  Empire  forever.  With  them  went  a  great
 company  containing  all  the  princes  and  princesses  of  the  Sung
 family  who  were  in  the  capital  at  that  time,  besides  ministers,  high
 functionaries,  men  of  letters  of  great  note  and  marked  influence.
-All  these  took  the  road  northward,  and  surely  a  mournful  proces-
-sion followed  the  Emperor.
+All  these  took  the  road  northward,  and  surely  a  mournful  procession followed  the  Emperor.
 
 The  regent,  the  Emperor's  grandmother,  fell  ill  and  was  left  in
 Lin  ngan  for  recovery.  A  number  of  Chinamen,  desperate  at
-seeing  their  Emperor  led  captive  with  the  chief  men  of  the  govern-
-ment and  some  of  the  best  minds  of  China,  made  efforts  to  save
+seeing  their  Emperor  led  captive  with  the  chief  men  of  the  government and  some  of  the  best  minds  of  China,  made  efforts  to  save
 them.  Twice  did  they  rush  at  the  escort  of  Mongols  which  was
 led  by  Atahai  and  Li  ting,  but  the  escort  was  too  strong  to  be
 broken ;  the  Mongols  repelled  the  Chinese  after  a  desperate
@@ -17495,8 +15445,6 @@ the  dynasty,  he  summoned  a  certain  Chin  tsong  and  said  to  him :
 "  I  will  not  dishonor  my  blood  by  surrender ;  I  ask  you  to  despatch
 
 
-354  The  Mongols
-
 all  my  family,  and  then  show  to  me  the  same  service."  In  vain
 did  Chin  tsong  strike  the  earth  with  his  forehead,  in  vain  did  he
 beg  of  the  governor  to  relieve  him  from  such  a  terrible  service.
@@ -17525,8 +15473,7 @@ Lin  Dgan,  to  leave  those  princes  no  time  to  strengthen  their  armies.
 
 When  the  Sung  princes,  brothers  of  the  Emperor,  came  to  Wen
 chau  from  Lin  ngan,  the  officers  who  followed  or  joined  them,
-made  Y  wang,  the  elder,  chief  governor  of  the  Empire,  and  asso-
-ciated with  him  his  brother  Kwang  wang.  These  brothers
+made  Y  wang,  the  elder,  chief  governor  of  the  Empire,  and  associated with  him  his  brother  Kwang  wang.  These  brothers
 entered  Fu  kien,  where  the  two  leading  cities  were  on  the  point
 of  submitting  to  Hoang  wan  tau,  whom  Bayan  had  made  governor
 of  thai  province  very  recently.  The  new  governor  had  guaranteed
@@ -17557,11 +15504,9 @@ great  levies  were  made,  which  disquieted  the  Mongols.
 When  Bayan  obtained  a  command  from  the  Empress,  the
 Emperor's  mother,  requiring  every  Sung  subject  to  submit  to  the
 Mongols,  At  chu  sent  a  copy  to  Li  ting  shi,  who  had  tried  to  rescue
-the  Emperor  and  who  was  defending  Yang  chiu  with  great  stub-
-bornness. Li  ting  shi  answered  from  the  ramparts,  that  he  knew
+the  Emperor  and  who  was  defending  Yang  chiu  with  great  stubbornness. Li  ting  shi  answered  from  the  ramparts,  that  he  knew
 no  command  save  that  to  defend  the  place  assigned  him  by  the
-Empress  through  a  document  from  her  own  hand.  At  chu  ob-
-tained a  new  command  in  still  stronger  language,  and  addressed
+Empress  through  a  document  from  her  own  hand.  At  chu  obtained a  new  command  in  still  stronger  language,  and  addressed
 to  Li  ting  shi  directly.  Li  ting  shi  discharged  arrows  at  the  man
 bringing  this  document.
 
@@ -17587,12 +15532,9 @@ Chu  hwan  surrendered.
 At  chu  sent  a  strong  corps  of  cavalry  to  hunt  down  the  two
 fleeing  commanders.  One  thousand  Chinese  were  slain  in  this
 labor,  and  Li  ting  shi  was  forced  into  Tai  chiu,  where  he  was
-surrounded  immediately.  Two  leading  officers  in  that  city  be-
-trayed it  to  the  Mongols.  Li  ting  shi,  seeing  that  his  last  hour  was
+surrounded  immediately.  Two  leading  officers  in  that  city  betrayed it  to  the  Mongols.  Li  ting  shi,  seeing  that  his  last  hour  was
 near,  sprang  into  a  pond  which  proved  to  be  very  shallow.     He
 
-
-356  The  Mongols
 
 was  dragged  out  of  it  promptly  and  with  Kiang  tsai  hurried  back  to
 Yang  chiu.  At  chu  left  nothing  undone  to  win  these  two  men  to
@@ -17600,8 +15542,7 @@ Kubilai,  but  since  both  were  unbending  he  killed  them.
 
 Tong  wen  ping  and  Argan  made  progress  in  Che  kiang.  They
 won  a  victor}'  over  the  Sung  army  in  Chu  chiu,  and  in  Fu  kien
-took  a  fortress,  called  Sha  u.  These  Mongol  successes  were  fol-
-lowed by  Chinese  defections  and  the  surrender  of  cities.  This
+took  a  fortress,  called  Sha  u.  These  Mongol  successes  were  followed by  Chinese  defections  and  the  surrender  of  cities.  This
 constrained  the  Sung  court  to  think  of  its  safety.  Chin  y  chong
 and  Chang  shi  kie  assembled  a  very  large  fleet,  and  a  considerable
 army.  The  Emperor  embarked  with  his  court  and  the  army  and
@@ -17617,8 +15558,7 @@ delivered  his  city  to  the  Mongols.
 Alihaiya  had  laid  siege  for  three  months,  with  great  vigor,  to
 Kwe  lin  fu,  the  capital  of  Kuang  si,  but  failing  to  conquer  the
 desperate  resistance  of  the  governor  Ma  ki,  he  tried  softer  methods.
-He  obtained  from  Kubilai  a  diploma  appointing  Ma  ki  eo.nmander-
-in-chief  of  Kuang  si,  and  sent  him  the  document  by  an  officer.
+He  obtained  from  Kubilai  a  diploma  appointing  Ma  ki  eo.nmanderin-chief  of  Kuang  si,  and  sent  him  the  document  by  an  officer.
 Ma  ki  burned  the  diploma,  and  cut  down  the  officer.  Kwe  lin  fu,
 built  at  the  meeting  of  two  rivers,  was  exposed  at  one  side  alone,
 where  the  whole  garrison  could  face  any  enemy.  The  Mongol
@@ -17659,8 +15599,7 @@ slaughter.  City  after  city  was  put  to  the  sword  without  mercy
 or  favor.  Since  many  southern  cities  had  been  retaken  by  Sung
 forces  Kubilai  in  1278  sent  fresh  troops  to  that  part  of  the  Empire,
 and  ordered  Ta  chu,  Li  heng,  and  Liu  se  kwe  to  cross  the  Ta  yn
-ling  mountains,  while  the  fleet,  under  Sutu  and  others,  would  at-
-tack the  Sung  squadron.
+ling  mountains,  while  the  fleet,  under  Sutu  and  others,  would  attack the  Sung  squadron.
 
 Sutu  now  swept  all  things  before  him  till  he  reached  Chao  chiu,
 where  he  met  firm  resistance.  Not  wishing  to  delay,  lest  he  be
@@ -17670,22 +15609,18 @@ Chao  chiu  and  laid  siege  to  it  regularly.  The  place  was  built
 strongly,  and  Ma  fa,  the  commandant,  was  so  active  and  resolute
 that  after  battering  it  for  twenty  days  and  storming  it  repeatedly
 Sutu  could  show  only  small  progress.  Then  the  commandant
-made  a  sortie  in  which  he  burned  the  battering  engines  of  the  Mon-
-gols, but  surrounded  at  last  by  greater  forces,  he  perished  in  a
+made  a  sortie  in  which  he  burned  the  battering  engines  of  the  Mongols, but  surrounded  at  last  by  greater  forces,  he  perished  in  a
 murderous  struggle.  His  men  broke  and  fled  to  the  city;  the
 enemy  ran  with  them,  rushed  in  throngs  to  the  gates,  swept  through
 them  after  the  Chinese,  took  the  place,  and  put  all  to  the  sword
 without  exception.
 
 The  young  Emperor  had  no  port  in  which  to  anchor  his
-vessels  with  safety.  Hence  he  wandered  about  on  the  sea  with-
-out a  resting-place,  till  in  May,  1278,  at  the  age  of  eleven,  he
+vessels  with  safety.  Hence  he  wandered  about  on  the  sea  without a  resting-place,  till  in  May,  1278,  at  the  age  of  eleven,  he
 died,  on  Kang  chuen,  a  desert  island.  Most  of  the  officials  and
 high  personages  who  followed  him  were  averse  to  this  wandering
 existence,  and  were  ready  to  submit  to  Kubilai,  but  Liu  sin  fu
 
-
-358  The  Mongols
 
 opposed  them  with  the  uttermost  vigor.  "  We  have,"  said  he,  "  a
 son  of  Tu  tsong  with  us  yet  and  we  must  make  him  the  Emperor.
@@ -17771,8 +15706,7 @@ death  to  captivity,  he  put  the  boy  Emperor  on  his  shoulders  and
 sprang  into  the  sea  with  him.  Most  of  the  dignitaries  followed
 this  example,  and  drowned  themselves.
 
-More  than  eight  hundred  ships  fell  into  the  power  of  the  Mon-
-gols. Later  on  Chinese  corpses  in  thousands  were  floating  on
+More  than  eight  hundred  ships  fell  into  the  power  of  the  Mongols. Later  on  Chinese  corpses  in  thousands  were  floating  on
 those  waters.  Among  them  was  that  of  Ti  ping,  and  on  it  was
 found  the  seal  of  the  Empire.  When  Chang  shi  kie  heard  that
 his  sovereign  was  dead  he  went  to  the  ship  of  the  Empress  and
@@ -17780,8 +15714,6 @@ tried  to  induce  her  to  aid  him  in  choosing  some  relative  of  the  Sun
 family  and  making  him  Emperor.  But  when  she  learned  of  the
 death  of  her  young  son  she  sprang  into  the  sea  without  further
 
-
-360  The  Mongols
 
 discussion,  and  was  followed  by  the  ladies  of  her  service.  Chang
 shi  kie  found  her  hodv  and  buried  it  on  the  mainland.  He  then
@@ -17803,11 +15735,9 @@ KUBILAI'S  ACTIVITY    IN   CHINA   AND  WAR    WITH    KAIDU
 
 THE  struggle  of  Kubilai  Khan  against  Arik  Buga,  his  brother,  has
 been  described  in  some  detail  already,  as  well  as  the  downfall
-and  death  of  the  latter.  Next  came  Kaidu,  a  more  dangerous  oppo-
-nent, who  claimed  Mongol  sovereignty  through  descent  from  his
+and  death  of  the  latter.  Next  came  Kaidu,  a  more  dangerous  opponent, who  claimed  Mongol  sovereignty  through  descent  from  his
 grandfather  Ogotai.  Ogotai  had  been  designated  by  Jinghis
-to  the  khanship  of  the  Mongols,  and  when  this  choice  was  con-
-firmed at  the  first  Kurultai  of  election  the  dignity  was  fixed  among
+to  the  khanship  of  the  Mongols,  and  when  this  choice  was  confirmed at  the  first  Kurultai  of  election  the  dignity  was  fixed  among
 Ogotai's  descendants.  By  the  election  of  Mangu,  a  son  of  Tului,
 this  pact  was  rejected  and  broken.  Long  and  stubborn  struggle*
 and  ruin  were  entailed  on  the  Mongols  by  that  change.
@@ -17830,10 +15760,7 @@ pay  for  the  outlay,  but  Kubilai  was  inflexible,  and  the  order  was.
 given  to  send  an  army  one  hundred  thousand  strong  to  conquer
 the  islands.  The  troops  embarked  at  Lin  ngan  and  Tsuen  chiu  fu
 toward  the  end  of  1280 ;  the  fleet  bearing  them  sailed  for  Corea  to
-be  joined  by  a  contingent  of  that  country  composed  of  nine  hun-
-dred ships,  which  carried  ten  thousand  warriors.    This  immense
-
-361
+be  joined  by  a  contingent  of  that  country  composed  of  nine  hundred ships,  which  carried  ten  thousand  warriors.    This  immense
 
 
 3G2  The  Mongols
@@ -17854,11 +15781,9 @@ rendered  homage  to  Kubilai  and  sent  him  tribute.  Not  content
 with  the  tribute  thus  brought  him,  Kubilai  sent  to  that  country  a
 ruling  council  composed  of  his  own  officers.  After  two  years  the
 heir  of  Cochin  China,  indignant  at  the  sight  of  foreign  men  ruling
-his  country,  moved  his  father  to  arrest  them.  To  punish  this  rebel-
-lion, as  he  called  it,  Kubilai  sent  a  fleet  from  South  China  with  an
+his  country,  moved  his  father  to  arrest  them.  To  punish  this  rebellion, as  he  called  it,  Kubilai  sent  a  fleet  from  South  China  with  an
 army  under  General  Sutu,  who  landed  in  1281  at  the  capital,
--which  he  captured.  The  king's  son  retired  toward  the  moun-
-tains, and  occupied  Sutu  with  phrases  of  submission.  Mean-
+-which  he  captured.  The  king's  son  retired  toward  the  mountains, and  occupied  Sutu  with  phrases  of  submission.  Mean-
 while he  was  preparing  to  defeat  him  if  possible.  Sutu  learned
 shortly  after  that  men  were  advancing  from  many  directions  to  cut
 him  off  from  his  vessels.  He  found  it  well  for  this  reason  to
@@ -17904,8 +15829,7 @@ whole  kingdom  agreed  to  pay  tribute  to  Kubilai.  The  Kin  shi,
 a  people  of  Yun  nan,  who  till  that  time  had  been  kept  by  the
 king  from  submis-ion  to  the  Mongols,  declared  obedience.
 
-The  great  Emperor  planned  now  a  second  attack  on  the  Japa-
-nese islands,  to  repair  the  disaster  which  happened  to  the  first
+The  great  Emperor  planned  now  a  second  attack  on  the  Japanese islands,  to  repair  the  disaster  which  happened  to  the  first
 one.  Atagai  was  named  chief  of  the  expedition.  The  Corean
 king  was  to  give  five  hundred  ships  to  it.  In  Kiang  nan,  Che
 kiang  and  Fu  kien,  ships  were  built,  and  new  levies  made,  to  the
@@ -17931,8 +15855,6 @@ provisions,  Chin  ge  suan  raised  false  objections,  and  Togan,
 seeing  his  active  hostility,  knew  that  he  must  first  of  all
 bring   Tung  king   down    to   obedience.     He   entered  the  coun-
 
-
-364  The  Mongols
 
 try  in  1285  during  January  and  on  rafts  crossed  the  Fu  Hang
 River.  At  the  other  bank  stood  the  enemy  in  order  of  battle,  but
@@ -17967,10 +15889,8 @@ pong  fei  and  Fan  tsie.  Meanwhile  a  fleet  from  Kuang  tung  bore
 a  second  good  army  under  Situr,  a  great  Kipchak  leader  who
 broughl  with  him  officers  and  warriors  of  his  people.
 
-Kubilai's  forces  beat  the  Tung  king  men  in  seventeen  en-
-gagements, ravaged  a  part  of  the  country,  pillaged  the  capital,
-Beized  immense  wealth,  and  retired  on  Yun  nan  with  rejoic-
-ing. The  King,  Chin  ge  suan,  had  sailed  away,  no  one  knew
+Kubilai's  forces  beat  the  Tung  king  men  in  seventeen  engagements, ravaged  a  part  of  the  country,  pillaged  the  capital,
+Beized  immense  wealth,  and  retired  on  Yun  nan  with  rejoicing. The  King,  Chin  ge  suan,  had  sailed  away,  no  one  knew
 whither,  but  now,  when  the  Mongols  had  gone,  he  appeared  witli
 large  forces  a  second  time.
 
@@ -17989,8 +15909,7 @@ head  of  the  vanguard  and  opened  a  way  for  the  army.
 
 Notwithstanding  his  victory  the  king  thought  it  wise  now  to
 offer  submission ;  he  begged  Kubilai  to  forget  past  events  and  with
-his  prayers  sent  a  gold  statue.  Kubilai,  in  punishment  for  de-
-feat, took  Yun  nan  rule  from  Prince  Togan,  forbade  him  the
+his  prayers  sent  a  gold  statue.  Kubilai,  in  punishment  for  defeat, took  Yun  nan  rule  from  Prince  Togan,  forbade  him  the
 palace,  and  assigned  him  Yang  chiu  as  a  residence.
 
 In  1285  Kubilai  had  charged  Yang  ting  pie  to  visit  the  islands
@@ -18016,21 +15935,16 @@ the  western  border.
 These  two  rulers  did,  in  fact,  begin  war  by  a  battle  on  the  Syr
 Darya  or  Yaxartes.  Borak  gained  the  victory  through  an  ambush.
 He  made  many  prisoners,  and  took  rich  booty.  Later  on  Kaidu
-got  assistance  from  Mangu  Timur  of  the  Golden  Horde,  a  descend-
-ant of  Juchi,  who  sent  an  army  commanded  by  Bergatchar,  his
-uncle.  With  his  own  and  these  forces  Kaidu  met  Borak  and  de-
-feated him  in  a  murderous  battle.  The  defeated  man  then  with-
+got  assistance  from  Mangu  Timur  of  the  Golden  Horde,  a  descendant of  Juchi,  who  sent  an  army  commanded  by  Bergatchar,  his
+uncle.  With  his  own  and  these  forces  Kaidu  met  Borak  and  defeated him  in  a  murderous  battle.  The  defeated  man  then  with-
 drew to  Transoxiana  and  recruited  his  army,  which  he  welded
 together  again  through  treasures  obtained  from  Bokhara  and
 Samarkand,  those  famous  old  cities  between  the  two  rivers.  He
 was  preparing  for  a  second  struggle  when  peace  proposals  were
 
 
-306  The  Mongols
-
 brought  him  from  Kudu  by  Kipchak  Ogul,  a  grandson  of  Ogotai,
-and  friendly  to  both  these  opponents.  The  proposals  were  agree-
-able to  Borak,  who  immediately  accepted  them.  He  formed  an
+and  friendly  to  both  these  opponents.  The  proposals  were  agreeable to  Borak,  who  immediately  accepted  them.  He  formed  an
 alliance  then  with  Kaidu  and  each  man  became  to  the  other  a
 sworn  friend  or  "  anda."
 
@@ -18046,8 +15960,7 @@ wished  to  force  the  Idikut  to  join  in  the  war  against  Kubilai,  but
 at  this  juncture  the  Idikut  received  aid  from  the  Emperor's  troops,
 which  appeared  in  that  region.
 
-That  same  year  Kubilai  sent  westward  a  numerous  army  com-
-manded by  his  son  Numugan,  who  had  under  him  as  general  Han-
+That  same  year  Kubilai  sent  westward  a  numerous  army  commanded by  his  son  Numugan,  who  had  under  him  as  general  Han-
 tum,  a  minister  of  State,  and  a  descendant  of  Mukuli,  Jinghis  Khan's
 most  beloved  and  perhaps  his  most  gifted  commander.  Guekji,
 Numugan 's  brother,  and  Shireki,  son  of  Mangu,  went  also  with  his
@@ -18103,21 +16016,16 @@ the  district  of  Jend  and  Ozkend  he  was  rescued  by  his  own  men,
 who  were  quartered  just  then  in  those  places.  Putting  himself
 at  the  head  of  them,  he  advanced  on  Shireki.  When  the  two
 forces  met  Shireki 's  men  deserted  to  Sarban,  who  captured  him.
-Yubukur,  who  had  come  to  give  aid  to  Shireki,  was  also  aban-
-doned by  his  own  troops  and  captured  by  Sarban,  who,  giving
+Yubukur,  who  had  come  to  give  aid  to  Shireki,  was  also  abandoned by  his  own  troops  and  captured  by  Sarban,  who,  giving
 each  of  these  princes  to  a  guard  of  five  hundred,  set  out  on  a  visit
 to  Kubilai.  Yubukur,  while  passing  near  the  Utchugen's  land,  sent
 gifts  of  silver  and  jewels  to  the  prince  who  was  ruling  at  that  time
 and  begged  for  deliverance.  Sarban  was  attacked  on  a  sudden  by
-the  Utchugen's  descendants  and  his  force  taken  captive.  He  him-
-self escaped  unattended,  and  made  his  way  to  the  Emperor,  who
+the  Utchugen's  descendants  and  his  force  taken  captive.  He  himself escaped  unattended,  and  made  his  way  to  the  Emperor,  who
 gave  him  both  lands  and  warriors  in  sufficience,  but  Shireki,  when
-taken  to  Kubilai.  was  sent  to  an  island  where  the  climate  was  pestif-
-erous and  he  died  in  due  season.  Yubukur,  after  serving  a  time
+taken  to  Kubilai.  was  sent  to  an  island  where  the  climate  was  pestiferous and  he  died  in  due  season.  Yubukur,  after  serving  a  time
 with  Kaidu,  made  his  peace  with  the  Emperor  and  later  on  Kubi-
 
-
-368  The  Mongols
 
 lai's  son,  Numugan,  who  had  been  seized  by  Shireki  was  set
 free.
@@ -18162,8 +16070,7 @@ which  was  manned   and  surrounded  by  crOSsbowmen   and  archers.
 When  the  two  armies  were  drawn  up  in  order  of  battle  the  whole
 
 ■pace  which  they  occupied,  and  a  broad  belt  around  it,  was  filled
-with  a  great  blare  of  trumpets  and  the  music  of  many  wind-instru-
-ments.    This  was  followed  by  songs  from  the  warriors  on  both
+with  a  great  blare  of  trumpets  and  the  music  of  many  wind-instruments.    This  was  followed  by  songs  from  the  warriors  on  both
 
 
 Kubilai's  Activity  in  China  369
@@ -18173,8 +16080,7 @@ was  filled  with  clouds  of  arrows ;  when  the  opponents  drew  nearer
 spears  were  used  deftly,  and  they  closed  finally  with  sabres  and
 hand  to  hand  weapons.  Nay  an 's  army  showed  great  resolution,
 fighting  from  dawn  until  midday,  but  at  last  numbers  triumphed.
-Nayan,  when  almost  surrounded,  strove  to  escape,  but  was  cap-
-tured. Kubilai  had  him  killed  on  the  field  without  waiting;  he
+Nayan,  when  almost  surrounded,  strove  to  escape,  but  was  captured. Kubilai  had  him  killed  on  the  field  without  waiting;  he
 was  wrapped  in  a  pair  of  felt  blankets  and  beaten  to  death  without
 bloodshed.  It  is  said  that  he  was  a  Christian  and  bore  on  his
 standard  a  cross  in  contrast  to  the  sun  and  moon  of  the  standards
@@ -18185,8 +16091,7 @@ and  triumph.  The  princes  Singtur  and  Kadan  were  still  in  arms,
 hence  Kubilai  sent  his  grandson,  Timur,  against  both  with  the
 generals  Polo  khwan,  Tutuka,  Yissu  Timur  and  Li  ting  shi.  After
 a  toilsome  campaign,  which  took  place  in  the  following  summer,
-Timur  defeated  Singtur  and  Kadan,  and  received  the  submis-
-sion of  Southern  Manchuria.
+Timur  defeated  Singtur  and  Kadan,  and  received  the  submission of  Southern  Manchuria.
 
 The  chief  enemy  who  had  raised  the  whole  conflict  remained  in
 the  West,  and  against  him  the  Emperor  now  turned  his  efforts.  To
@@ -18199,21 +16104,16 @@ crossing  the  mountains  of  Kang  kai.  Kamala,  Kubilai's  favorite
 grandson,  was  defeated  and  surrounded  near  the  river  Selinga.  He
 was  barely  rescued  by  Tutuka  and  his  Kipchak  warriors.
 
-Affairs  now  seemed  so  serious  that  the  Emperor,  despite  ad-
-vanced age,  thought  it  best  to  march  forward  in  person.  He  sent
+Affairs  now  seemed  so  serious  that  the  Emperor,  despite  advanced age,  thought  it  best  to  march  forward  in  person.  He  sent
 for  Tutuka  to  act  with  him,  and  praised  the  recent  exploit  of  that
-general.  Kubilai  left  Shang  tu  for  the  West  July,  1289,  but  re-
-turned without  meeting  Kaidu,  or  coming  near  him.
+general.  Kubilai  left  Shang  tu  for  the  West  July,  1289,  but  returned without  meeting  Kaidu,  or  coming  near  him.
 
 For  four  years  now  Bayan  held  Kaidu  in  check,  till  at  length
-being  accused  of  inaction,  and  even  of  connivance  with  the  Em-
-peror's rival,  Kubilai  recalled  the  great  general,  and  gave  command
+being  accused  of  inaction,  and  even  of  connivance  with  the  Emperor's rival,  Kubilai  recalled  the  great  general,  and  gave  command
 to  Timur,  his  own  grandson.  But  before  Timur  came  to  take  over
 the  office  Bayan  had  gone  forth  to  meet  Kaidu  and  had  defeated
 his  army.     On  returning  to  headquarters  he  yielded  command  and
 
-
-370  The  Mongols
 
 gave  Tiraur  a  banquet  at  which  he  made  him  rich  presents.  Bayan
 then  departed  for  Tai  tung  fu,  assigned  him  already  as  a  residence.
@@ -18225,8 +16125,7 @@ and  commander  of  the  guards  and  other  troops  in  both  capitals
 (Shang  tu  and  Ta  tu).
 
 Kubilai  liked  to  send  envoys  to  various  countries  south  of  China
-whence  ships  came  in  large  numbers  bearing  rare  objects  as  pres-
-ents. He  sent  once  a  Chinese  minister  to  visit  the  sovereign  of  a
+whence  ships  came  in  large  numbers  bearing  rare  objects  as  presents. He  sent  once  a  Chinese  minister  to  visit  the  sovereign  of  a
 land  called  Kuava  (Java).  This  ruler  for  some  unknown  reason
 had  the  minister  branded  on  the  face,  and  sent  him  home  with
 great  insult.  Kubilai  felt  the  outrage,  and  all  his  officers  demanded
@@ -18238,8 +16137,7 @@ persuaded  Chepi  to  conquer  Kolang,  a  near  kingdom  at  war  then
 with  Kuava.  Chepi  won  a  great  victor}'  over  the  King  of  Kolang
 whom  he  seized  and  killed  straightway.  The  King  of  Kuava  tried
 now  to  get  rid  of  the  Chinese,  and  strove  to  cut  them  off  from  their
-\.  ssels.  Chepi  reached  the  fleet,  thirty  leagues  distant,  with  diffi-
-culty, after  some  serious  encounters  in  which  he  lost  three  thousand
+\.  ssels.  Chepi  reached  the  fleet,  thirty  leagues  distant,  with  difficulty, after  some  serious  encounters  in  which  he  lost  three  thousand
 warriors,  though  he  brought  away  much  gold  and  many  jewels.
 On  arriving  at  court  he  gave  these  to  the  Emperor,  but  Kubilai,
 enraged  because  Chepi  had  not  conquered  the  kingdom  of  Kuava,
@@ -18265,8 +16163,7 @@ the  death  of  Seyid  Edjell  put  the  wealth  of  the  Empire  into  his
 keeping.
 
 Kubilai  needed  money  at  all  times,  he  needed  much  of  it,  and
-Ahmed  found  means  to  get  money.  Invincible  through  the  Em-
-peror's favor,  he  exercised  power  without  limit;  at  his  will  he
+Ahmed  found  means  to  get  money.  Invincible  through  the  Emperor's favor,  he  exercised  power  without  limit;  at  his  will  he
 disposed  of  the  highest  offices  in  the  Empire.  He  brought  down  to
 death  whomsoever  he  accounted  an  enemy,  and  no  man,  whatever
 his  rank  or  position,  had  the  courage  to  brave  Ahmed's  hatred.  He
@@ -18279,8 +16176,7 @@ greed  and  ambition  and  lust.
 For  twelve  years  this  man  proved  invincible,  though  his  secret
 enemies  were  an  army  in  number,  and  he  was  hated  by  the  people
 for  his  endless  abuses.  Those  learned  Chinese  who  were  intimate
-with  the  Emperor  strove  in  vain  to  open  his  eyes  to  the  real  charac-
-ter of  Ahmed.  At  last  they  were  able  to  expose  him  to  Chingkin
+with  the  Emperor  strove  in  vain  to  open  his  eyes  to  the  real  character of  Ahmed.  At  last  they  were  able  to  expose  him  to  Chingkin
 well  and  clearly  and  Chingkin  became  Ahmed's  most  resolute
 enemy.  This  son  of  Kubilai  was  so  angry  one  day  at  the  minister,
 that  he  struck  him  on  the  face  with  his  bow,  and  laid  his  cheek
@@ -18300,12 +16196,9 @@ news  that  Chingkin  was  coming.  All  the  great  functionaries
 hastened  to  the  palace  to  greet  him.  Ahmed  went  at  the  head  of
 the  mandarins ;  just  as  he  was  passing  the  gate  Wang  chu  struck
 him  down  with  a  club  and  thus  killed  him.  At  news  of  this  deed
-Kubilai  was  terribly  enraged.  He  had  Wang  chu  and  his  asso-
-ciates seized,  judged,  and  executed.  A  large  sum  of  money  was
+Kubilai  was  terribly  enraged.  He  had  Wang  chu  and  his  associates seized,  judged,  and  executed.  A  large  sum  of  money  was
 assigned  for  a  funeral  of  great  splendor,  and  Kubilai  commanded
 
-
-372  The  Mongols
 
 all  his  most  distinguished  officers  to  be  present.  But  grief  at  the
 tragic  death  of  his  favorite  was  followed  soon  by  furious  anger.
@@ -18328,8 +16221,7 @@ Emperor.
 
 The  ministry  of  finance  was  given  now  to  an  Uigur  named
 Sanga,  whose  brother  was  the  principal  Lama.  Sanga  had
-occupied  his  dignity  eight  years,  following  closely  the  ex-
-ample of  Ahmed,  when  one  of  Kubilai's  officers  un<  crtook  to
+occupied  his  dignity  eight  years,  following  closely  the  example of  Ahmed,  when  one  of  Kubilai's  officers  un<  crtook  to
 expose  the  evil  deeds  of  the  minister.  In  time  of  a  hunt  he  spoke
 with  the  Emperor  about  Sanga.  Kubilai  thought  him  a  vilifier
 and  had  the  man  beaten.  Later  on  the  Emperor  tried  to  force
@@ -18357,8 +16249,7 @@ mansion.  The  Emperor  agreed,  and  in  a  short  time  the  Persian
 returned,  bringing  with  him  two  caskets  filled  with  pearls  of  great
 value.  "  How  is  this  ?  "  cried  the  Emperor  to  Sanga;  "  thou  hast
 all  these  pearls  and  art  unwilling  to  give  me  even  a  few  of  them  ?
-Where  didst  thou  find  such  great  riches  ?  "  The  minister  an-
-swered that  he  got  them  from  various  Mohammedans  who  were
+Where  didst  thou  find  such  great  riches  ?  "  The  minister  answered that  he  got  them  from  various  Mohammedans  who  were
 governors  of  provinces  in  China.  "  Why  have  these  men  brought
 me  nothing  ?  "  asked  Kubilai.  "  Thou  bringest  me  trifles  and
 for  thyself  keepest  all  that  is  most  precious."  "  They  were  given
@@ -18374,8 +16265,7 @@ they  had  merited.  By  decision  of  the  censors  they  were  stripped
 of  office.  Two  Mohammedan  governors  lost  their  lives,  as  did
 many  others  involved  in  the  recent  abuses.
 
-Thus  after  the  death  of  Seyid  Edjell,  for  about  one  fifth  of  a  cen-
-tury the  chiefs  of  finance  in  China  were  men  from  other  countries,
+Thus  after  the  death  of  Seyid  Edjell,  for  about  one  fifth  of  a  century the  chiefs  of  finance  in  China  were  men  from  other  countries,
 as  were  most  of  their  agents.  These  persons  kept  themselves  in
 power  by  revolting  exactions.  Kubilai,  ever  greedy  of  money  since
 he  needed  endless  sums  of  it,  chose  as  agents  in  finance  men  who
@@ -18398,9 +16288,6 @@ of  twenty-five  or  thirty  miles  were  well  equipped  post  houses,  at
 some  of  which  four  hundred  horses  were  kept,  two  hundred  for
 
 
-374  The  Mongols
-
-
 D'
 
 
@@ -18410,8 +16297,7 @@ thousand  post  stations.
 
 Two  systems  of  carriers  were  maintained  by  the  government.
 The  foot  messengers  wore  belts  with  bells  attached  and  were
-stationed  at  intervals  of  three  miles  apart.  When  the  bells  an-
-nounced the  approach  of  a  runner  a  fresh  man  prepared  to  take
+stationed  at  intervals  of  three  miles  apart.  When  the  bells  announced the  approach  of  a  runner  a  fresh  man  prepared  to  take
 his  place  at  once.  Each  man  ran  at  his  greatest  speed.  The
 mounted  couriers  by  a  similar  system  of  relief  could  travel  four
 hundred  miles  in  twenty-four  hours,  the  distance  covered  at  night
@@ -18465,8 +16351,7 @@ number  of  the  articles  given.  On  one  of  these  great  feast  days
 Kubilai  was  presented  with  a  hundred  thousand  horses  with  rich
 coverings.  During  the  day  his  five  thousand  elephants  were
 exhibited  in  their  housings  of  bright  colored  cloth  on  which  birds
-and  beasts  were  represented.  These  elephants  bore  caskets  con-
-taining the  Imperial  plate  and  furniture  and  were  followed  by
+and  beasts  were  represented.  These  elephants  bore  caskets  containing the  Imperial  plate  and  furniture  and  were  followed  by
 camels  laden  with  things  needful  for  the  feast.
 
 Only  the  princes  and  higher  officers  assembled  in  the  hall,  other
@@ -18483,8 +16368,7 @@ lower  down,  so  that  their  heads  would  not  be  above  the  level  of
 the  Emperor's  feet.  Lower  still  sat  the  chief  officers.  Ordinary
 guests  and  warriors  seated  themselves  on  the  carpet.  Two  large
 men  stood  at  the  entrance  of  the  hall  to  punish  those  who  were  so
-unfortunate  as  to  step  on  the  threshold,  such  offenders  were  imme-
-diately stripped  and  beaten  severely  with  rods.  Various  household
+unfortunate  as  to  step  on  the  threshold,  such  offenders  were  immediately stripped  and  beaten  severely  with  rods.  Various  household
 officials  moved  about  to  see  that  the  guests  were  properly  served.
 Near  the  Khan's  table  was  a  magnificently  carved  stand  in  which
 was  inserted  a  golden  vessel  holding  an  enormous  quantity  of
@@ -18494,8 +16378,6 @@ tables  with  handled  cups  from  which  to  drink.  One  of  these  bowls
 was  placed  between  every  two  persons.  The  men  who  served  the
 Khan  had  their  mouths  and  noses  covered  with  delicate  napkins
 
-
-376  The  Mongols
 
 of  silk  and  gold,  that  their  breath  might  not  offend  him.  Whenever
 he  raised  the  wine  cup  to  his  lips  the  musicians  began  to  play,  and
@@ -18512,8 +16394,7 @@ The  girls  were  sent  to  the  court  and  examined  by  a  number  of
 matrons.  Polo  states:  "  These  women  make  the  girls  sleep  with
 them  in  turn  to  ascertain  that  they  have  a  sweet  breath  and  are
 strong  of  limb."  The  few  who  passed  this  examination  attended
-the  Khan,  the  rejected  married  officers  or  became  palace  em-
-ployees.
+the  Khan,  the  rejected  married  officers  or  became  palace  employees.
 
 It  is  stated  by  chroniclers  of  that  time  that  Kubilai  became,
 through  the  influence  of  Jambui  Khatun,  a  Lamaist.  Still,  to
@@ -18534,8 +16415,7 @@ In  1293,  eight  years  after  the  death  of  Chingkin,  his  widow,
 Guekjin,  urged  the  great  general,  Bayan,  to  remark  to  the  Emperor
 that  he  had  not  named  a  successor.  Thereupon  Kubilai  appointed
 his  grandson,  Timur,  whom  he  had  sent  to  Kara  Kurum  as  its
-governor,  and  charged  Bayan  to  announce  to  that  prince  his  ap-
-pointment, and  instal  him  as  heir  with  due  festivals  and  ceremonies.
+governor,  and  charged  Bayan  to  announce  to  that  prince  his  appointment, and  instal  him  as  heir  with  due  festivals  and  ceremonies.
 
 After  Kubilai's  death,  February,  1294,  a  Kurultai  of  election  was
 held  at  Shang  tu,  the  summer  capital.  Timur  went  to  that  city
@@ -18555,8 +16435,7 @@ was  proclaimed  then  Grand  Khan  of  the  Mongols.
 
 The  first  work  of  Timur  was  to  give  Imperial  rank  to  his  parents,
 and  next  to  rear  a  monument  to  Kubilai,  Jambui,  the  late  Empress,
-and  Chingkin,  his  own  father.  Kamala  was  made  the  chief  gover-
-nor of  Mongolia  with  Kara  Kurum  as  his  residence.  Guekdju  and
+and  Chingkin,  his  own  father.  Kamala  was  made  the  chief  governor of  Mongolia  with  Kara  Kurum  as  his  residence.  Guekdju  and
 Kurguez,  Timur 's  brothers-in-law,  received  command  over  troops
 opposed  to  Kaidu  and  Dua  on  the  northwestern  border.  Timur's
 cousin,  Prince  Ananda,  was  made  governor  of  Tangut,  that  region
@@ -18577,8 +16456,7 @@ Once  on  the  throne,  Timur  made  peace  with  the  King  of  Ngan
 nan  and  opened  communication  with  India,  which  had  been  stopped
 by  the  war  and  operations  against  Java.  For  several  years  Titiya,
 King  of  Mien  tien  (Burma),  had  failed  to  send  tribute,  and  Timur
-v.  s  preparing  large  forces  against  him  when  Titiya's  son,  Sinho-
-bati,  came  with  both  homage  and  tribute  in  the  name  of  his  father.
+v.  s  preparing  large  forces  against  him  when  Titiya's  son,  Sinhobati,  came  with  both  homage  and  tribute  in  the  name  of  his  father.
 Through  a  patent  Timur  then  declared  Titiya  king,  with  his  son
 Sinhobati  as  successor,  and  gave  to  the  prince  a  square  seal  with  the
 figure  of  a  tiger.  Mongol  generals  on  the  borders  of  Burma
@@ -18590,8 +16468,6 @@ Asankoye,  his  brother.  His  son  went  to  beg  the  assistance  of
 China.  Timur  sent  this  command  to  Seitchaur,  then  governing
 in  Yun  nan  for  the  Empire :     "  March  into  Mien  tien ;  seize  and
 
-
-378  The  Mongols
 
 bring  me  Asankoye."  Seitchaur  met  many  checks  and  returned
 to  Yun  nan,  spreading  meanwhile  the  statement  that  he  had
@@ -18617,8 +16493,7 @@ him.
 The  Emperor  at  this  juncture  commanded  his  generals  Liu
 kwe  kie  and  Yang  sai  yu  pwa  to  assemble  all  troops  available  in
 Suchuan,  Yun  nan  and  Hu  kuangand  advance  to  supp  «rt  Li  yu
-chin,  who,  pressed  by  Song  long  tsi  most  unsparingly,  was  retreat-
-ing, or  rather,  fleeing  to  a  place  of  protection.  He  had  abandoned
+chin,  who,  pressed  by  Song  long  tsi  most  unsparingly,  was  retreating, or  rather,  fleeing  to  a  place  of  protection.  He  had  abandoned
 his  baggage  and  lost  many  warriors.
 
 The  revolt  spread  now  on  all  sides,  and  many  new  tribes  joined
@@ -18649,8 +16524,7 @@ rush  away,  and  give  notice.  Kurguez,  the  general  in  charge,  did
 not  know  of  this  and  marshalled  his  warriors,  six  thousand  in
 number.  The  attack  was  a  fierce  one,  Kurguez  fought  as  best  he
 was  able,  but  waited  in  vain  for  assistance;  he  fled  at  last,  was
-pursued  and  taken  captive.  "  I  am  the  Emperor's  brother-in-
-law,"  said  he.  With  these  words  he  saved  his  life,  for  they  spared
+pursued  and  taken  captive.  "  I  am  the  Emperor's  brother-inlaw,"  said  he.  With  these  words  he  saved  his  life,  for  they  spared
 him.  Timur  had  the  three  men,  who  had  failed  through  their
 drinking,  put  in  irons,  but  the  loss  caused  by  their  feasting  soon
 found  a  recompense.  Wishing,  as  they  said,  to  serve  the  Emperor,
@@ -18662,13 +16536,11 @@ them.
 
 Ulus  Buga  from  Kara  Kurum  sent  his  men  out  to  pillage  and
 was  seized  for  such  action.  Friends  saved  him,  however,  from
-punishment,  but  Timur  would  not  give  him  employment.  Yubu-
-kur, on  the  contrary,  was  treated  with  kindness  by  the  Emperor.
+punishment,  but  Timur  would  not  give  him  employment.  Yubukur, on  the  contrary,  was  treated  with  kindness  by  the  Emperor.
 Durduka,  who  had  deserted  twice  before,  received  this  time  a
 death  sentence.  He  wept  while  defending  his  action,  and  declared
 in  reply  to  this  sentence,  that  fear  had  forced  him  to  go  from  the
-service  of  Kubilai,  that  he  had  never  raised  arms  against  that  sover-
-eign, that  seeing  Timur  on  the  throne  he  had  persuaded  the  two
+service  of  Kubilai,  that  he  had  never  raised  arms  against  that  sovereign, that  seeing  Timur  on  the  throne  he  had  persuaded  the  two
 others  who  were  with  him  to  rally  to  the  Emperor,  that  he  had
 brought  back  more  troops  than  he  had  taken,  and  had  brought
 them  to  march  against  Timur's  opponents.
@@ -18682,8 +16554,6 @@ and  Chobai  when  he  came  to  them,  disposed  as  they  were  along
 Tangut  on  the  border  as  far  as  Kara  Kodja  toward  Uigur  regions.
 But  while  Dua's  troops  were  preparing  to  pass  a  certain  river,
 
-
-380  The  Mongols
 
 Durduka,  coming  up  on  a  sudden,  defeated  them  and   slew   or
 drowned  a  great  number.
@@ -18704,8 +16574,7 @@ Kaidu  had  assumed  the  title  Grand  Khan,  thus  claiming  the
 headship  of  the  Mongols,  which  belonged  to  him  by  the  will  of
 Jinghis,  and  the  solemn  oath  of  the  earliest  Kurultai.  Could  he
 have  lived  some  years  longer  he  might  have  obtained  the  great
-primacy,  since  after  Timur  the  Mongol  sovereigns  of  China  dete-
-riorated and  became  not  merely  paltry  but  pitiful  and  wretched,
+primacy,  since  after  Timur  the  Mongol  sovereigns  of  China  deteriorated and  became  not  merely  paltry  but  pitiful  and  wretched,
 while  Kaidu  was  a  genius  and  also  a  hero.  He  was  loved  in  the
 West  very  greatly,  and  his  veterans  were  renowned  even  among
 Mongols.  Kaidu  was  exalted  by  his  people  for  magnanimity  and
@@ -18745,8 +16614,7 @@ off  with  all  his  attendants,  leaving  the  one  thousand  horses  behind
 him  as  forfeit.
 
 Kaidu's  warriors  mourned  the  death  of  their  ruler  with  loud
-intense  wailing.  Dua,  to  whom  he  had  told  his  last  wishes,  pro-
-posed to  the  princes  who  stood  round  the  bier  of  the  sovereign  to
+intense  wailing.  Dua,  to  whom  he  had  told  his  last  wishes,  proposed to  the  princes  who  stood  round  the  bier  of  the  sovereign  to
 choose  as  successor  the  eldest  among  the  dead  man's  forty  sons,
 namely,  Chabar,  who  was  then  absent.  Dua  on  his  part  owed  much
 to  Chabar.  When,  after  the  death  of  Borak,  the  members  of  his
@@ -18769,19 +16637,15 @@ family.
 
 But  this  agreement  was  short-lived.  In  the  year  following,
 disputes  burst  forth  between  Chabar  and  Dua  which  involved
-the  two  sides  of  Jinghis  Khan's  family.  In  1306,  at  Dua's  persua-
-sion, Timur,  who  was  watchful,  of  course,  and  suspicious,  attacked
+the  two  sides  of  Jinghis  Khan's  family.  In  1306,  at  Dua's  persuasion, Timur,  who  was  watchful,  of  course,  and  suspicious,  attacked
 Chabar,  the  son  of  Kaidu  his  recent  opponent.     Chabar  was
 
-
-382  The  Mongols
 
 deserted  immediately  by  most  of  his  adherents.  He  turned  in
 distress  then  to  Dua  to  support  him.  Dua  treated  his  guest  with
 distinction,  but  took  that  guest's  states  from  him,  and  joined
 Turkistan  to  Transoxiana.  He  thus  reestablished  well-nigh
-in  completeness  the  dominions  of  Jagatai,  which  Kaidu  had  dis-
-membered.
+in  completeness  the  dominions  of  Jagatai,  which  Kaidu  had  dismembered.
 
 So  Chabar,  the  successor  of  Kaidu  of  Kuyuk  and  of  Ogotai,  was
 the  last  real  sovereign  descended  from  Ogotai,  son  of  Jinghis ;  that
@@ -18790,20 +16654,17 @@ world  of  the  Mongols;  Ogotai,  whose  descendants,  despoiled
 by  Batu,  son  of  Juchi,  had  won  for  themselves  immense  regions
 through  the  fruitful  activity  and  genius  of  Kaidu.
 
-Dua,  son  of  Borak,  died  in  1306 ;  his  son,  Gundjuk,  who  suc-
-ceeded him,  held  power  one  year  and  a  half  only.  After  Gund-
+Dua,  son  of  Borak,  died  in  1306 ;  his  son,  Gundjuk,  who  succeeded him,  held  power  one  year  and  a  half  only.  After  Gund-
 juk's  death  supreme  power  was  next  captured  by  Taliku,  who
 through  Moatagan  was  descended  from  Jagatai.  Taliku  had
 grown  old  in  combats;  a  Mohammedan  by  religion,  he  strove  to
 spread  his  belief  among  Mongols.
 
-Meanwhile  two  princes,  descended  from  Jagatai,  insisted,  weap-
-ons in  hand,  that  the  throne  belonged  by  right  to  a  son  of  Dua;
+Meanwhile  two  princes,  descended  from  Jagatai,  insisted,  weapons in  hand,  that  the  throne  belonged  by  right  to  a  son  of  Dua;
 these  two  were  vanquished.  Many  others  were  preparing  to
 avenge  the  defeat  which  these  men  had  suffered  when  Ti  Hku  was
 killed  at  a  banquet  by  officers  who  wished  to  raise  a  son  of  their
-former  sovereign,  Dua,  to  dominion.  The  conspirators  then  pro-
-claimed Dua's  youngest  son,  Gebek  (1308).  This  prince  was  barely
+former  sovereign,  Dua,  to  dominion.  The  conspirators  then  proclaimed Dua's  youngest  son,  Gebek  (1308).  This  prince  was  barely
 installed  when  Chabar,  leagued  with  other  princes  descended
 from  Kaidu,  attacked  him.  Chabar  being  vanquished  in  this
 struggle,  crossed  the  Hi.  Only  a  few  followers  went  with  him,  and
@@ -18827,21 +16688,18 @@ pounced  upon  straightway.  The  whole  life  of  that  land  was
 passed  in  confusion,  bloodshed  and  anarchy.
 
 Timur,  the  Grand  Khan  at  Ta  tu,  was  forty-two  years  of  age  when
-he  died  in  1307,  after  a  reign  of  thirteen  years.  During  his  last  ill-
-ness a  decree  was  issued  forbidding  the  killing  of  any  animal  for
+he  died  in  1307,  after  a  reign  of  thirteen  years.  During  his  last  illness a  decree  was  issued  forbidding  the  killing  of  any  animal  for
 forty-two  days;  still  he  died.  He  was  a  sovereign  well  liked  by
 the  Chinese,  who  praised  his  humanity  and  prudence.  Humane
 he  seems  to  have  been  to  some  extent.  Princes  and  princesses  of
 the  Jinghis  Khan  line  had  held  boundless  power  over  vassals  and
-people  who  served  them  till  Timur  declared  that  no  prince  what-
-ever should  put  to  death  any  one  without  his  confirmation.  He
+people  who  served  them  till  Timur  declared  that  no  prince  whatever should  put  to  death  any  one  without  his  confirmation.  He
 founded  an  Imperial  College  at  Ta  tu  and  built  a  magnificent
 palace  in  honor  of  Confucius.
 
 Before  he  mounted  the  throne  Timur,  like  so  many  men  of  his
 family  and  race,  had  been  an  unrestrained,  boundless  drinker;
-his  grandfather,  Kubilai,  reprimanded  him  frequently  and  basti-
-nadoed him  thrice  for  his  conduct.  At  last  physicians  were  sent
+his  grandfather,  Kubilai,  reprimanded  him  frequently  and  bastinadoed him  thrice  for  his  conduct.  At  last  physicians  were  sent
 to  see  that  he  ate  and  drank  within  reason,  but  an  alchemist,  whose
 duty  it  was  to  attend  him  in  the  bathing  house,  filled  his  bath  tub
 with  wine  or  other  liquor  instead  of  water.  Kubilai  heard  of  this
@@ -18853,20 +16711,16 @@ he  had  been  irrestrainable  aforetime.
 
 CHAPTER   XIX
 
-EXPULSION   OF   THE  MONGOLS   FROM    CHINA
 
 THE  late  Emperor  was  childless.  His  widow,  Bulagan,  who
 toward  the  end  of  her  husband's  reign  had  great  influence,
-wished  to  put  on  the  throne  Ananda,  a  son  of  Mangkala  and  grand-
-son of  Kubilai.  He  was  living  at  that  time  in  Tangut  as  its  vice-
+wished  to  put  on  the  throne  Ananda,  a  son  of  Mangkala  and  grandson of  Kubilai.  He  was  living  at  that  time  in  Tangut  as  its  vice-
 roy. Tangut  in  those  days  included  Shen  si,  with  Tibet  and  Su
-chuan  also  in  some  part.  While  Timur  lay  on  his  death-bed  Bula-
-gan warned  Ananda  in  secret  to  hasten  to  the  capital.  She  wished
+chuan  also  in  some  part.  While  Timur  lay  on  his  death-bed  Bulagan warned  Ananda  in  secret  to  hasten  to  the  capital.  She  wished
 to  keep  the  throne  from  Khaishan  and  Ayurbali  Batra,  the  two
 sons  of  Chingkin's  son  Tarmabala;  she  had  had  the  mother  of
 these  two  princes  sent  to  Corea  as  an  exile.  Khaishan  was  on  the
-northwestern  border  at  that  time,  commanding  an  army  of  observa-
-tion, and  had  won  high  repute  through  discretion  and  bravery  in
+northwestern  border  at  that  time,  commanding  an  army  of  observation, and  had  won  high  repute  through  discretion  and  bravery  in
 the  struggle  with  Kaidu.     Batra  was  with  his  mother  in  exile.
 
 Bulagan,  now  the  regent,  was  sustained  in  supporting  Ananda
@@ -18887,15 +16741,10 @@ was  commanding,  and  acted.  Melik  Timur,  a  son  of  Arik  Buga,
 was  one  Of  Ananda'l  chief  partisans.  He  had  served  in  the  army
 of  Chahar,  had  revolted,  and  then  fled  to  China;  this  Melik  Timur
 
-384
-
-
-Expulsion  of  the  Mongols  from  China        385
 
 was  put  in  chains,  conveyed  to  Shang  tu,  and  immured  there
 securely.  Agutai  and  other  partisans  of  Ananda  were  arrested  and
-condemned  to  die  for  endeavoring  to  dispose  of  the  throne  arbi-
-trarily, but  the  execution  was  deferred  till  Khaishan's  arrival.
+condemned  to  die  for  endeavoring  to  dispose  of  the  throne  arbitrarily, but  the  execution  was  deferred  till  Khaishan's  arrival.
 Bulagan  and  Ananda  were  guarded  in  the  palace.  The  princes
 of  the  blood  asked  Batra  to  proclaim  himself  Emperor,  but  he
 refused,  saying  that  the  throne  belonged  to  his  elder  brother.
@@ -18918,8 +16767,7 @@ his  own  sons.
 
 Khaishan's  first  act  was  to  give  homage  to  his  ancestors  in  the
 temple  devoted  to  their  service.  Next  he  carried  out  the  judgment
-passed  by  Batra  against  the  adherents  of  Ananda.  Ananda  him-
-self, with  Melik  Timur,  his  close  intimate,  and  Bulagan,  the  Em-
+passed  by  Batra  against  the  adherents  of  Ananda.  Ananda  himself, with  Melik  Timur,  his  close  intimate,  and  Bulagan,  the  Em-
 press had  to  die  according  to  sentence.  They  had  broken  the
 laws  of  the  Yassa  by  their  efforts  to  dispose  of  the  throne  without
 winning  consent  from  Jinghis  Khan's  family.
@@ -18931,23 +16779,18 @@ angered  the  Chinese  by  favoring  Lamas  beyond  measure.  A  law
 was  passed  that  whosoever  struck  a  Lama  his  hand  should  be  cut
 off,  and  whoso  spoke  against  a  Lama  should  have  his  tongue  cut
 out.  Given  to  women  and  wine,  Khaishan  died  at  the  age  of
-thirty-one,  in  the  year  1311.  His  brother  Batra  was  then  pro-
-claimed Emperor,  but  with  the  condition  that  a  son  of  Khaishan
+thirty-one,  in  the  year  1311.  His  brother  Batra  was  then  proclaimed Emperor,  but  with  the  condition  that  a  son  of  Khaishan
 should  be  his  heir.    The  feast  of  installation  lasted  for  a  week.    At
 
-
-386  The  Mongols
 
 an  hour  designated  by  astrologers  he  ascended  the  throne  and  was
 saluted  under  the  name  Bayantu.  The  first  act  of  this  sovereign
 was  to  punish  those  ministers  who,  taking  advantage  of  Khaishan's
-incompetence,  had  acquired  wealth  for  themselves  through  injus-
-tice;  he  put  to  death  some  of  these,  and  sent  others  to  exile.
+incompetence,  had  acquired  wealth  for  themselves  through  injustice;  he  put  to  death  some  of  these,  and  sent  others  to  exile.
 
 Notwithstanding  an  ordinance  made  by  Kubilai,  examinations  of
 scholars  had  not  been  reestablished.  Bayantu  brought  them
-now  into  use,  thus  winning  good  will  from  the  learned.  He  pro-
-hibited the  employment  of  eunuchs  in  every  office,  though  he
+now  into  use,  thus  winning  good  will  from  the  learned.  He  prohibited the  employment  of  eunuchs  in  every  office,  though  he
 infringed  his  own  law  the  year  following  (1315),  by  making  a
 eunuch  Grand  Mandarin.  Bayantu  was  himself  a  scholar  and
 encouraged  learned  men.  Among  many  who  are  mentioned  as
@@ -18961,8 +16804,7 @@ that  he  appoint  to  that  dignity  one  of  his  nephews,  he  removed
 his  nephew,  Kushala,  the  eldest  son  of  Kuluk  Khan  (Kaishan)
 the  late  Emperor,  and  sent  him  to  live  in  Yun  nan  as  its  governor.
 The  officers  of  Kushala's  household  looked  upon  this  as  exile,
-and  in  crossing  Shen  si  they  persuaded  many  Mongol  com-
-manders in  those  parts  to  take  arms  in  Kushala's  favor.  But
+and  in  crossing  Shen  si  they  persuaded  many  Mongol  commanders in  those  parts  to  take  arms  in  Kushala's  favor.  But
 when  Kushala  saw  himself  abandoned  soon  after  by  those  very
 officers,  he  fled  to  the  Altai  for  refuge  among  the  Khans  of  Jagatai.
 Thereupon  the  Emperor  appointed  as  heir  his  own  son  Shudi
@@ -18983,14 +16825,10 @@ did  not  act  against  Temudar,  but  he  gave  his  confidence  to  Baidju,
 a  descendant  of  Mukuli,  Jinghis  Khan's  great  commander.     Te-
 
 
-Expulsion  of  the  Mongols  from  China       387
-
 mudar  took  revenge  on  many  of  his  enemies,  but  after  his  death
 •which  took  place  in  1322  a  host  of  accusers  attacked  this  oppressor.
-Fear  restrained  them  no  longer,  hence  they  called  loudly  for  jus-
-tice and  obtained  it  as  far  as  was  possible  at  that  time.  The
-Emperor  degraded  the  dead  minister  by  cancelling  his  titles,  des-
-troying his  tomb,  and  seizing  his  property.  Those  who  had  shared
+Fear  restrained  them  no  longer,  hence  they  called  loudly  for  justice and  obtained  it  as  far  as  was  possible  at  that  time.  The
+Emperor  degraded  the  dead  minister  by  cancelling  his  titles,  destroying his  tomb,  and  seizing  his  property.  Those  who  had  shared
 in  Temudar's  crimes,  among  others  his  adopted  son  Tekchi,
 formed  a  plan  to  assassinate  Shudi  Bala  and  Baidju,  his  first
 minister,  and  give  the  throne  then  to  Yissun  Timur,  a  son  of
@@ -19010,15 +16848,13 @@ spending  the  night  at  Nanpo,  the  conspirators  killed  Baidju  in  his
 tent  to  begin  with,  and  then  forced  the  guard  of  the  Emperor's
 pavilion.  Tekchi  himself  slew  his  sovereign.  Shudi  Bala  was  only
 twenty-one  years  of  age  when  his  death  came.  This  was  the  first
-death  by  assassination  that  there  had  ever  been  in  the  Imperial  fam-
-ily of  the  Mongols.  Two  princes,  Antai  Buga  and  Yesien  Timur,
+death  by  assassination  that  there  had  ever  been  in  the  Imperial  family of  the  Mongols.  Two  princes,  Antai  Buga  and  Yesien  Timur,
 seized  the  great  seal,  with  other  insignia  of  dominion,  and  bore
 them  to  Yissun  Timur,  son  of  Kamala,  who  proclaimed  himself
 Emperor  at  the  Kerulon  River,  and  granted  a  pardon  to  all  men.
 
 At  first  he  intended  to  place  at  the  head  of  affairs  those  wTho  had
-brought  him  dominion  through  their  murders;  but  when  ex-
-perienced advisers  explained  to  the  new  sovereign  clearly  that  if
+brought  him  dominion  through  their  murders;  but  when  experienced advisers  explained  to  the  new  sovereign  clearly  that  if
 this  were  done  the  whole  nation  might  suspect  him  of  complicity,
 he  had  Yesien  Timur  with  two  other  conspirators  arrested  and
 executed  in  the  place  where  the  Emperor  and  his  minister  had
@@ -19029,8 +16865,6 @@ then  to  confiscate  their  property.
 Sonan,  son  of  Temudar,  bed  been  condemned  simply  to  exile,
 
 
-388  The  Mongols
-
 but  when  the  ministers  remarked  that  he  had  cut  off  Baidju's
 shoulder  with  a  sabre  stroke,  Sonan  suffered  death  with  the  others.
 Those  princes  of  the  blood  who  had  joined  the  conspiracy  were
@@ -19038,8 +16872,7 @@ sent  to  various  places  of  exile.
 
 Yissuo  Timur  entered  T  tu  in  December,  1323,  and  earlv  the
 following  year  he  Appointed  as  heir  his  son  Asukeba.  This  paltry
-monarch  did  nothing  of  note  while  in  power,  and  died  when  thirty-
-six  years  of  age.  Though  Asukeba,  who  was  eldest  among  the
+monarch  did  nothing  of  note  while  in  power,  and  died  when  thirtysix  years  of  age.  Though  Asukeba,  who  was  eldest  among  the
 four  sons  of  the  Emperor,  was  heir  by  appointment,  his  right  to
 the  Empire  was  challenged.  It  will  be  remembered  that  when
 Bayantu  had  succeeded  Kuluk  Khan  he  did  so  on  condition  that
@@ -19062,27 +16895,21 @@ wished  a  son  of  Kuluk  Khan  to  be  Emperor.  Yang  Timur,  son
 of  Choahugur,  was  distinguished  as  a  warrior,  while  his  position
 was  strengthened  by  the  fame  of  his  father  and  grandfather.
 Raised  to  high  dignities  through  Kuluk  Khan,  by  whom  he  was
-favored,  this  governor  felt  himself  bound  to  the  sons  of  that  Em-
-peror by  gratitude,  as  well  as  self-interest.  When  setting  out  for
+favored,  this  governor  felt  himself  bound  to  the  sons  of  that  Emperor by  gratitude,  as  well  as  self-interest.  When  setting  out  for
 Shang  tu  some  months  earlier  Yissun  Timur  had  given  him  power
 in  the  capital.  Yang  Timur  now  summoned  high  officials  to  the
-palace  and  proposed  the  elevation  of  one  of  Kuluk's  BODS  to  Em-
-pire, threatening  with  death  all  who  showed  opposition.  After
+palace  and  proposed  the  elevation  of  one  of  Kuluk's  BODS  to  Empire, threatening  with  death  all  who  showed  opposition.  After
 tlii>  declaration  he  arrested  Upetala,  and  other  high  functionaries;
 these  men  he  replaced  by  others  in  whom  he  had  confidence.
-The  troops,  who  had  no  knowledge  yet  of  his  intentions,  wen-
-ordered  to  kneel,  looking  southward,  and  touch  the  earth  with
+The  troops,  who  had  no  knowledge  yet  of  his  intentions,  wenordered  to  kneel,  looking  southward,  and  touch  the  earth  with
 their  foreheads.     This  was  to  indicate  that  through  them  Yang
 
-
-Expulsion  of  the  Mongols  from  China        389
 
 Timur  had  proclaimed  Tob  Timur  Emperor.  That  prince  was
 then  in  Nan  king.  The  minister  had  urged  him  to  hasten,  and  now
 announced  his  early  arrival.
 
-Three  descendants  of  Jinghis  with  fourteen  high  officials  con-
-spired to  slay  the  first  minister  for  his  unparalleled  daring.  Yang
+Three  descendants  of  Jinghis  with  fourteen  high  officials  conspired to  slay  the  first  minister  for  his  unparalleled  daring.  Yang
 Timur,  learning  of  their  plot,  seized  the  seventeen  and  put  to  death
 every  man  of  them.
 
@@ -19123,8 +16950,6 @@ Shang  tu  with  him.  Tao  la  chu,  who  commanded  at  the  summer
 palace,  sallied  forth  repeatedly  with  partisans  of  Asukeba,  to  battle
 
 
-390  The  Mongols
-
 with  besiegers,  but  reduced  finally,  he  yielded.  He  surrendered
 the  seal  of  the  Empire  and  gave  up  also  the  rich  jewels  belonging
 to  Asukeba.  The  young  Emperor  died  shortly  after,  no  one  knows
@@ -19153,10 +16978,8 @@ his  appointments.  At  the  same  time  the  new  Emperor  named
 his  own  ministers,  and  sent  one  of  them  to  inform  Tob  Timur
 that  the  throne  was  made  his  in  succession.
 
-Tob  Timur  and  his  first  minister  set  out  for  Sluing  tu  now  with-
-out loitering,  and  met  the  new  sovereign  a  little  north  of  the  city.
-That  same  evening,  while  at  a  feast,  Kushala  became  ill  on  a  sud-
-den and  died  some  days  later  (1329).  A  report  went  abroad  that
+Tob  Timur  and  his  first  minister  set  out  for  Sluing  tu  now  without loitering,  and  met  the  new  sovereign  a  little  north  of  the  city.
+That  same  evening,  while  at  a  feast,  Kushala  became  ill  on  a  sudden and  died  some  days  later  (1329).  A  report  went  abroad  that
 he  had  been  poisoned;  suspicion  touched  Yang  Timur,  the  first
 minister.  Kushala  was  thirty  years  old  when  he  died,  and  was
 entitled  Ming  tsong  in  Chinese.
@@ -19173,13 +16996,10 @@ nan  province,  who  in  1380  took  the  title  of  King  of  Yun  nan,
 and   revolted.     lie  was  put  down  by  force  the  year  following  this
 
 
-Expulsion  of  the  Mongols  from  China        391
-
 action,  1331.  Like  Yissun  Timur  and  Kuluk,  who  preceded  him,
 Tob  Timur  favored  Buddhism  greatly.  He  appointed  large  sums
 to  build  temples,  and  brought  from  Uigur  regions  a  renowned
-Lama,  Nien  chin  kilas,  whom  he  called  "  Instructor  of  the  Em-
-peror." Tob  Timur  commanded  the  highest  personages  to  ad-
+Lama,  Nien  chin  kilas,  whom  he  called  "  Instructor  of  the  Emperor." Tob  Timur  commanded  the  highest  personages  to  ad-
 vance to  meet  this  great  Lama.  All  persons  whom  he  addressed
 bent  the  knee  to  him,  by  order,  and  served  wine  to  the  Lama,
 who  received  it  without  any  answering  civility.  Shocked  at  his
@@ -19208,8 +17028,7 @@ feet  and  explained  that  that  tribunal  was  bound  in  all  sacredness
 to  \n  rite  down  exactly  the  good  and  bad  deeds  of  Emperors,  prince3
 and  great  men,  and  write  them  down  without  favor,  that  these
 records  were  not  to  be  seen  by  any  one  save  high  officials  of  the
-College  of  Historians  until  after  the  death  of  the  Emperor.  Dur-
-ing time  immemorial  no  sovereign  had  violated  the  annals  of  his
+College  of  Historians  until  after  the  death  of  the  Emperor.  During time  immemorial  no  sovereign  had  violated  the  annals  of  his
 dynasty,  much  less  those  of  his  own  reign,  and  he  hoped  that  the
 Emperor  would  not  be  the  first  to  infringe  on  this  sacred  and  long
 honored  usage.  Tob  Timur  yielded,  and  even  praised  the  official
@@ -19217,8 +17036,6 @@ for  his  courage  and  honesty.
 
 Occupied  with  his  own  pleasures  mainly,  and  leaving  State  cares
 
-
-392  The  Mongols
 
 to  his  minister,  Tob  Timur  became  a  nonentity.  He  died
 in  1382  at  Shang  tu,  being  twenty-nine  years  of  age  when  his  life
@@ -19231,8 +17048,7 @@ minister  that  he  gave  him  his  one  son  to  educate,  bestowing  on  the
 youth  the  new  name  Yang  Tekus,  and  took  Targai,  the  minister's
 son,  to  be  reared  in  the  palace.  The  Empress  wished  to  enthrone  a
 boy  of  seven  years,  Ylechebe,  second  boo  of  Kushala,  who  had
-been  named  heir  by  the  late  sovereign.  She  had  this  boy  pro-
-claimed, and  then  became  regent,  but  the  health  of  Ylechebe  was
+been  named  heir  by  the  late  sovereign.  She  had  this  boy  proclaimed, and  then  became  regent,  but  the  health  of  Ylechebe  was
 feeble,  and  he  died  some  months  afterward.  The  Chinese  name
 King  tsong  was  bestowed  on  him.
 
@@ -19265,8 +17081,6 @@ discussing  this  matter,  and  settling  its  details,  death  struck  the
 minister.  Since  Tob  Timur's  advent  to  authority  this  minister
 had  been  all-powerful;    DO  person  or  combination  of  persons  how-
 
-
-Expulsion  of  the  Mongols  from  China        393
 
 ever  mighty  had  been  able  to  successfully  oppose  him ;  he  had  done
 what  he  wished  in  all  cases;  he  had  forced  the  widow  of  Yissun
@@ -19312,8 +17126,6 @@ replied  very  coolly  that  her  uncle  and  her  brothers  had  plotted
 against  him,  and  he  would  do  nothing  to  save  her.    She  was  taken
 
 
-394  The  Mongols
-
 from  the  palace  to  some  house  where  Peyen  himself  killed  her.
 Talientali  defended  his  life  arms  in  hand  till  he  fled  to  Hoan  ho
 Timur's  mansion,  where  the  blood  hunters  slew  him.  Hoan  ho  was
@@ -19327,8 +17139,7 @@ weakness  roused  up  the  Chinese  at  last,  and  they  began  to  cast  off
 the  Mongol  yoke.  Revolts  broke  out  in  Honan,  Su  chuan,  and
 Kuang  tung  simultaneously ;  they  were  stifled  at  the  very  inception.
 The  Mongol  court  became  thoroughly  suspicious  of  the  Chinese.
-In  133G  it  prohibited  them  from  having  horses  and  arms  and  for-
-bade them  to  use  the  language  of  the  Mongols,  their  masters.
+In  133G  it  prohibited  them  from  having  horses  and  arms  and  forbade them  to  use  the  language  of  the  Mongols,  their  masters.
 
 Peyen,  the  all-powerful  minister,  had  reached  now  the  acme  of
 his  influence,  and  was  approaching  his  ruin  and  his  doom.  This
@@ -19359,10 +17170,7 @@ Yun  nan  t<>  be  rid  of  him.  When  Shudi  Bala  (Gheghen  Khan)
 was  slain,  the  throne  was  given  to  Kushala,  who  for  safety  had
 
 
-Expulsion  of  the  Mongols  from  China        395
-
-withdrawn  beyond  the  Gobi  desert.  While  my  father  was  return-
-ing rule  was  tendered  Tob  Timur,  who  accepted  on  condition  of
+withdrawn  beyond  the  Gobi  desert.  While  my  father  was  returning rule  was  tendered  Tob  Timur,  who  accepted  on  condition  of
 yielding  to  Kushala  on  the  latter 's  arrival.  Meanwhile  he  sent  the
 seal  of  Empire  to  the  coming  Emperor,  who  was  journeying  toward
 his  capital.  My  father,  to  reward  his  brother's  apparent  zeal,
@@ -19396,19 +17204,15 @@ who  disapproved  them,  resigned,  and  his  place  was  taken  by
 Toktagha,  his  son,  and  by  Timur  Buga.
 
 At  this  time  were  completed  annals  of  the  Liao,  the  Kin,  and
-the  Sung  dynasties.  Kubilai  at  beginning  his  reign  had  com-
-manded to  write  memoirs  of  the  first  and  second  of  these  dynasties,
+the  Sung  dynasties.  Kubilai  at  beginning  his  reign  had  commanded to  write  memoirs  of  the  first  and  second  of  these  dynasties,
 the  memoirs  being  officially  established,  and  after  its  fall  memoirs
 of  the  Sung  dynasty  also.  He  wished  too  that  the  data  on  which
 they  were  founded  should  form  a  part  of  those  annals.  Theselabors,
 neglected,  notwithstanding  his  orders  and  those  of  his  immediate
 
 
-396  The  Mongols
-
 successors,  were  hut  slightly  advanced  when  Togan  Timur  became
-Emperor.  To  finish  them  he  established,  under  Toktagha,  a  com-
-mission of  the  most  eminent  scholars  in  the  Empire.  These  men
+Emperor.  To  finish  them  he  established,  under  Toktagha,  a  commission of  the  most  eminent  scholars  in  the  Empire.  These  men
 produced  annals  of  those  three  dynasties.  Besides  there  were  in
 these  works  calendars;  methods  of  astronomical  research;  lists  of
 great  men  and  their  biographies;  lists  of  hooks  published  by
@@ -19417,8 +17221,7 @@ There  were  also  statistics  touching  several  foreign  countries,  and
 detailed  description  of  States  paying  tribute  to  the  dynasties.
 
 At  the  end  of  three  years  Toktagha,  disgusted  with  court  life,
-retired  from  office.  When  consulted  about  a  successor  he  recom-
-mended  AlutU,a  descendant  in  the  fourth  generation  from  Boorchu,
+retired  from  office.  When  consulted  about  a  successor  he  recommended  AlutU,a  descendant  in  the  fourth  generation  from  Boorchu,
 the  first  man  of  Jinghis  Khan's  comrades  and  one  of  his  four
 bravest  warriors.  Alutu  when  in  office  exiled  Machartai  and
 Toktagha.  In  1347  his  place  was  taken  by  Pierkie  Buga.  son  of
@@ -19435,8 +17238,7 @@ China.  In  1341  two  private  persons  had  raised  troops  in  Hu  kuang,
 and  seized  many  cities.  Discontent  had  grown  rife  in  Shan  tung,
 while  robber  bands  ravaged  other  regions.  A  pirate  chief.  Fang
 kwe  chin,  harried  the  coasts  of  Che  kiang  and  Kiang  nan.  This
-man  sailed  up  southern  rivers,  plundered  cities,  and  ruined  com-
-merce,  turning  specially  to  vessels  filled  with  grain,  rice  and  various
+man  sailed  up  southern  rivers,  plundered  cities,  and  ruined  commerce,  turning  specially  to  vessels  filled  with  grain,  rice  and  various
 provisions  intended  for  the  capital.  The  Mongols  seemed  to
 disregard  these  the  earliest  attacks,  and  disorders  increased  very
 rapidly.     Those   who   raised   them   made   use  of   the  great  public
@@ -19452,24 +17254,17 @@ lived  on  both  banks  of  the  river,  or  near  them.  The  insurgents
 enrolled  sonic  impressed  laborers,  as  well  as  men  whose  lands  had
 
 
-Expulsion  of  the  Mongols  from  China        397
-
 been  taken  for  the  new  river  bed,  and  who  were  to  find  land  in
-other  places.  Fresh  taxes  imposed  to  carry  out  those  works  in-
-creased dissatisfaction.
+other  places.  Fresh  taxes  imposed  to  carry  out  those  works  increased dissatisfaction.
 
 Han  chan  tong,  an  obscure  private  person,  seeing  the  ferment  of
 minds,  raised  the  report  that  Fohi  (Buddha)  had  now  appeared  to
 deliver  the  Chinese  from  Mongol  oppression.  He  roused  rebellion
-in  Honan,  Kiang  nan,  and  Shan  tung,  but  the  chief  leaders,  know-
-ing that  this  story  would  not  be  accepted  unless  strengthened,  gave
+in  Honan,  Kiang  nan,  and  Shan  tung,  but  the  chief  leaders,  knowing that  this  story  would  not  be  accepted  unless  strengthened,  gave
 out  to  the  world  that  Han  chan  tong  was  of  the  Sung  dynasty,  and
-eighth  in  descent  from  Hwei  tsung.  They  took  an  oath  to  him,  sac-
-rificing a  black  bull,  and  a  white  stallion.  They  chose  then  a  red
-cap  as  ensign.  This  pretender  to  Sung  blood  had  very  poor  for-
-tune, however.  Attacked  by  the  Mongols,  he  was  captured  and
-killed  by  them,  but  his  wife,  and  his  son,  Han  lin  ulh,  fled  and  con-
-tinued the  struggle.
+eighth  in  descent  from  Hwei  tsung.  They  took  an  oath  to  him,  sacrificing a  black  bull,  and  a  white  stallion.  They  chose  then  a  red
+cap  as  ensign.  This  pretender  to  Sung  blood  had  very  poor  fortune, however.  Attacked  by  the  Mongols,  he  was  captured  and
+killed  by  them,  but  his  wife,  and  his  son,  Han  lin  ulh,  fled  and  continued the  struggle.
 
 The  first  reverse  did  not  cast  down  those  rebels.  Their  principal
 chief,  Liau  fu  tong,  captured  cities  in  Kiang  nan  and  passed  over
@@ -19481,8 +17276,7 @@ Tien  wan  to  the  dynasty  which  he  was  seeking  to  establish.
 
 After  a  feeble  resistance  the  Mongols  abandoned  the  whole
 Yang  tse  region.  A  comet  appeared  now,  and  a  report  was  spread
-widely  by  the  rebels  that  this  heralded  Togan  Timur's  early  down-
-fall. The  Mongol  Government  to  conciliate  men  who  had  the
+widely  by  the  rebels  that  this  heralded  Togan  Timur's  early  downfall. The  Mongol  Government  to  conciliate  men  who  had  the
 most  influence  over  people  admitted  to  offices  of  all  kinds  those
 Chinese  scholars  in  the  south,  who  till  then  had  been  able  to  act
 only  in  matters  touching  literature  and  commerce,  and  were
@@ -19492,12 +17286,10 @@ The  government  despatched  to  Honan  an  army  commanded  by
 YessenTimur,  a  brother  of  Toktagha,  the  prime  minister,  and
 exiled  to  the  distant  north  Yng  kwe,  a  true  descendant  of  the  Sung
 family,  with  an  order  not  to  let  him  communicate  with  any  man.
-This  was  done  since  most  rebel  chiefs  hid  their  plans  of  ambi-
-tion under  pretext  of  putting  the  prince  on  the  throne  of  his  fathers.
+This  was  done  since  most  rebel  chiefs  hid  their  plans  of  ambition under  pretext  of  putting  the  prince  on  the  throne  of  his  fathers.
 
 Siu  chiu  hwei  continued  his  triumphs,  and  to  attach  men  to  his
-fortunes  more  surely,  he  let  them  pillage  all  cities  which  he  cap-
-tured.    He  took  Han  yang,  and  Wu  chang  in  Hu  kuang,  as  well  as
+fortunes  more  surely,  he  let  them  pillage  all  cities  which  he  captured.    He  took  Han  yang,  and  Wu  chang  in  Hu  kuang,  as  well  as
 
 
 3'JS  The  Mongols
@@ -19505,21 +17297,16 @@ tured.    He  took  Han  yang,  and  Wu  chang  in  Hu  kuang,  as  well  as
 Kiu  kiang  in  the  north  of  Kiang  si.  He  defeated  Fan  chi  king  and
 mastered  Hang  ehau,  which  the  Sung  dynasty  had  once  made  its
 capital,  but  the  Mongol  general,  Tong  pu  siao,  crossed  the  Vang
-tse,  and  laying  siege  to  Hang  chau,  regained  it  after  desperate  car-
-nage. Yessen  Timur,  who  had  been  sent  to  put  down  rebellion
+tse,  and  laying  siege  to  Hang  chau,  regained  it  after  desperate  carnage. Yessen  Timur,  who  had  been  sent  to  put  down  rebellion
 in  Honan,  defeated  by  Li  fu  tong,  retired  to  Kai  fong  fu,  and  thus
-left  the  field  to  the  rebels.  This  incompetent  general  was  rep-
-rimanded and  soon  after  the  increase  of  the  uprising  caused  the
-Eniperor  to  replace  him  by  his  brother  Toktagha.  Toktagha,  lead-
-ing Honan  forces,  defeated  the  insurgents  near  Pe  sui  chiu,  but
+left  the  field  to  the  rebels.  This  incompetent  general  was  reprimanded and  soon  after  the  increase  of  the  uprising  caused  the
+Eniperor  to  replace  him  by  his  brother  Toktagha.  Toktagha,  leading Honan  forces,  defeated  the  insurgents  near  Pe  sui  chiu,  but
 Sing  ki,  who  commanded  all  Imperial  troops  in  Yang  tse  regions,
 was  defeated  and  lost  his  life  in  a  battle  against  a  new  rebel  army.
 
-Fang  kwe  chin,  the  pirate  chieftain,  was  very  active.  He  con-
-tinued to  capture  ships  sailing  northward,  and  thus  deprived  Ta  tu
+Fang  kwe  chin,  the  pirate  chieftain,  was  very  active.  He  continued to  capture  ships  sailing  northward,  and  thus  deprived  Ta  tu
 of  supplies  from  South  China,  and  also  of  tribute.  Besides  this,  he
-killed  most  perfidiously  Tai  Buga,  a  general.  Hence  the  govern-
-ment, greatly  anxious  to  win  the  bold,  active  pirate,  charged  Tie
+killed  most  perfidiously  Tai  Buga,  a  general.  Hence  the  government, greatly  anxious  to  win  the  bold,  active  pirate,  charged  Tie
 li  Timur  to  confer  with  him.  The  pirate  gave  assurance  that  he
 would  submit  and  disband  his  forces  if  he,  with  his  brothers,  two
 in  number,  were  made  mandarins  of  the  fifth  class.  Tie  li  Timur,
@@ -19536,20 +17323,15 @@ Toktagha,  fell  on  Chang  sc  ching,  beat  him  thoroughly,  and  retook
 the  cities  which  he  had  captured.  But  while  Toktagha  was
 retrieving  the  losses  of  his  sovereign,  his  own  colleague  at  the  capital
 was  working  his  ruin.  llama  and  Sue  sue,  two  brothers,  notorious
-for  dissolute  conduct,  had  become  mighty  in  the  Emperor's  coun-
-cil-. They  were  Kankali  Turks,  adventurers  in  the  worst  sense,
+for  dissolute  conduct,  had  become  mighty  in  the  Emperor's  council-. They  were  Kankali  Turks,  adventurers  in  the  worst  sense,
 hardened  profligates,  and  thoroughly  perfidious.  When  he  had
-reached  power  Toktagha  gave  llama  occupation,  and  then  ap-
-pointed  him  minister.  Very  soon  this  new  minister  made  himself
+reached  power  Toktagha  gave  llama  occupation,  and  then  appointed  him  minister.  Very  soon  this  new  minister  made  himself
 independent  of  Toktagha  and  rose  every  day  to  greater  influence.
 In  due  time  he  found  support  in  Ki,  the  Empress,  a  Corean  princess
 
 
-Expulsion  of  the  Mongols  from  China        399
-
 by  origin.  She  was  Togan  Timur's  favorite  wife,  and  mother  of
-the  heir  apparent.  Hama  applied  himself  quickly  also  to  serv-
-ing the  worst  inclinations  of  his  sovereign,  and  peopled  the
+the  heir  apparent.  Hama  applied  himself  quickly  also  to  serving the  worst  inclinations  of  his  sovereign,  and  peopled  the
 palace  with  his  creatures,  youthful  debauchees  given  to  every
 disorder,  and  Tibetan  Lamas,  who  practised  all  sorts  of
 magic,  and  held  immensely  grotesque  superstitions.  At  this
@@ -19592,8 +17374,6 @@ corps  to  support  the  defeated  man,  attacked  the  rebel  leader  and
 vanquished  him.     He  received  chief  command  now  because  of
 
 
-400  The  Mongols
-
 his  victory,  and  marching  directly  toward  Po  chiu,  he  overtook
 and  again  defeated  Liau  fu  tong,  who  fled  for  relief  toward  Ngan
 fong  and  took  his  Emperor  with  him.
@@ -19628,8 +17408,7 @@ and  captured.
 
 Chang  se  ching  wrote  now  to  the  future  Emperor  of  China  and
 entreated  him  to  cease  his  siege  labor  and  liberate  Chang  se  te,
-promising  ill  return  to  become  his  vassal  and  pay  a  large  yearly  trib-
-ute in  grain,  gold  and  silver.  Chu,  convinced  of  Chang  M  ching's
+promising  ill  return  to  become  his  vassal  and  pay  a  large  yearly  tribute in  grain,  gold  and  silver.  Chu,  convinced  of  Chang  M  ching's
 thorough  perfidy,  held  firmly  to  his  prisoner  and  captured  the  cifrj .
 In  the  North  the  adherents  of  Ming  wang,  the  paeudo  Sung
 Emperor  who  desolated  Shen  si  and  Ilonan,  were  beaten  in  Shen  si
@@ -19637,8 +17416,6 @@ by  Chagan  TimUT,  th<>  Mongol  general.  Liau  fu  tong,  Ming
 Wang's  first  minister,  had  mastered  Qonan  for  the  greater  part,
 and  now  wished  to  capture  Kai  fong  fu,  the  capital  of  Ilonan,  and
 
-
-Expulsion  of  the  Mongols  from  China       401
 
 establish  in  that  place  the  court  of  his  sovereign.    Two  army
 corps  which  he  had  sent  to  Shan  tung  committed  great  ravages.
@@ -19649,15 +17426,12 @@ city,  surprised  Pe  pu  sin  and  captured  his  baggage.     Pe  pu  sin  fle
 to  Su  chuan  and  thus  saved  himself.     The  rebel  force  which  had
 burst  into  Shan  tung  and  taken  many  cities  defeated  Talima  che  li
 and  laid  siege  to  Tsi  nan,  the  chief  city  of  Shan  tung  and  its  capital.
-When  Tong  toan  siao  arrived  from  Honan  with  a  Mongol  divi-
-sion he  defeated  the  rebels  at  the  walls  of  Tsi  nan  and  then  left  the
+When  Tong  toan  siao  arrived  from  Honan  with  a  Mongol  division he  defeated  the  rebels  at  the  walls  of  Tsi  nan  and  then  left  the
 place ;  but  barely  had  he  gone  when  Mao  kwe,  who  commanded  the
-pseudo  Sung  forces,  attacked  this  central  city  of  Shan  tung  and  cap-
-tured it.     Then  he  pursued  Tong  toan  siao,  closed  with  his  forces,
+pseudo  Sung  forces,  attacked  this  central  city  of  Shan  tung  and  captured it.     Then  he  pursued  Tong  toan  siao,  closed  with  his  forces,
 and  killed  him  in  battle.   After  this  victory  in  1357  Mao  kwe  seized
 the  city  of  Ho  kien  and  made  raids  to  the  very  edge  of  Ta  tu,  the
-capital  of  the  Mongol  Empire.     It  was  thought  by  some  mem-
-bers    of    the  council,   that    the    Emperor    should    immediately
+capital  of  the  Mongol  Empire.     It  was  thought  by  some  members    of    the  council,   that    the    Emperor    should    immediately
 withdraw  from  Ta  tu,  but  the  minister,  Tai  ping,  opposed  this,
 and  summoned  Liu  kara  Buga,  a  good  general,  who  defeated
 Maok  we,  and  forced   him  back    on  Tsi   nan,    which    he    had
@@ -19678,15 +17452,11 @@ Kubilai  Khan's  splendid  palace  in  that  city.
 In  the  South  Siu  chiu  hwei  had  made  himself  master  of  most
 of  Hu  kwang  and  a  part  of  Kiang  si.  Chu  yuan  chang,  the  coming
 Emperor,  strengthened  his  position  in  Kiang  nan,  and  set  about
-conquering  Che  kiang  in  its  Eastern  division .  He  received  the  sub-
-mission of  the  pirate,  Fang  kwe  chin,  who,  threatened  in  the  West  by
+conquering  Che  kiang  in  its  Eastern  division .  He  received  the  submission of  the  pirate,  Fang  kwe  chin,  who,  threatened  in  the  West  by
 
-
-402  The  Mongols
 
 ClKing  se  ching  and  in  the  south  by  Chin  yiu  ting,  master  in  Fu
-kien,  preferred  to  be  vassal  of  a  man  wliom  he  trusted.  The  pi-
-rate agreed  to  surrender  Wen  chau,  Tai  chu,  and  King  yuen  in
+kien,  preferred  to  be  vassal  of  a  man  wliom  he  trusted.  The  pirate agreed  to  surrender  Wen  chau,  Tai  chu,  and  King  yuen  in
 southern  Che  kianjr  when  thev  came  to  him ;  he  sent  also  his  son
 Fang  kwan  as  a  hostage.  Chu,  believing  the  word  of  this  pirate,
 sent  his  son  back  to  him,  and  on  receiving  the  above  mentioned
@@ -19705,8 +17475,7 @@ Sin  chiu  (Kuang  sin)  on  the  eastern  border  of  Kiang  si  after  a
 siege  which  was  famous  for  desperate  resistance  (1358).  The
 defenders  were  led  by  Ta  chin  nu  of  the  blood  of  Jinghis,  and  by
 Beyen  Buga,  a  descendant  of  the  Idikut  of  the  Uigurs.  Both  these
-men  perished  in  the  deadly  encounter.  The  provisions  in  the  gar-
-rison became  so  reduced  that  the  warriors  ate  the  flesh  of  those  of
+men  perished  in  the  deadly  encounter.  The  provisions  in  the  garrison became  so  reduced  that  the  warriors  ate  the  flesh  of  those  of
 their  comrades  who  had  perished.  At  last  they  killed  all  of  the
 inhabitants  who  through  age  or  weakness  could  not  aid  in  the
 defence  and  used  them  for  food.  The  place  was  finally  captured
@@ -19727,8 +17496,6 @@ to  death  in  his  barge,  with  a  crowbar.
 
 Chin  now  proclaimed  himself  Emperor,  named  his  dynasty  the
 
-
-Expulsion  of  the  Mongols  from  China        403
 
 Han,  and  returned  to  Kiu  kiang,  whence  he  had  set  out  on  his
 enterprise.
@@ -19756,8 +17523,7 @@ infamous  men  who  had  no  thought  except  to  increase  their  own
 wealth  and  authority,  and  who  kept  the  weak  and  debauched
 Emperor  in  complete  ignorance  of  all  things  around  him.
 
-A  quarrel  between  two  Mongol  military  chiefs  at  this  critical  mo-
-ment is  of  interest :  Chagan  Timur,  acting  in  Shan  si,  had  retaken
+A  quarrel  between  two  Mongol  military  chiefs  at  this  critical  moment is  of  interest :  Chagan  Timur,  acting  in  Shan  si,  had  retaken
 Tsin  ki  from  the  rebels.  Polo  Timur,  the  Tai  tung  fu  governor,
 declared  that  this  district  belonged  to  his  province,  and  should  not
 be  detached  from  it.  He  advanced  with  troops  therefore  to  take  the
@@ -19775,8 +17541,6 @@ seemed  more  dangerous  by  far  than  the  rebellion  in  China.  More
 than  once  had  the  Emperor  ordered  princes  of  his  family  to  aid
 
 
-404  The  Mongols
-
 him  with  troops  in  defending  his  dominions ;  but  now  one  of  these
 princes,  Ali  hwei  Timur,  seventh  in  descent  from  Ogotai,  tried  to
 seize  the  throne  for  his  own  use,  instead  of  helping  its  occupant.
@@ -19784,18 +17548,15 @@ This  prince  was  advancing  with  aid,  but  when  some  days  march
 from  the  Great  Wall  of  China,  he  declared  that  Togan  Timur  the
 Emperor  was  powerless  to  preserve  that  which  he  had  received  from
 his  ancestors;  that  he  had  lost  more  than  half  of  it  already.  Ali
-hwei  then  invited  the  Emperor  to  yield  what  remained  of  the  in-
-heritance. Tukien  Timur,  whom  the  Emperor  sent  to  crush  this
+hwei  then  invited  the  Emperor  to  yield  what  remained  of  the  inheritance. Tukien  Timur,  whom  the  Emperor  sent  to  crush  this
 bold  rebel,  was  beaten  and  withdrew  on  Shang  tu  to  find  refuge.
 The  Mongol  court  was  in  terror  and  hurried  on  forces,  but  at  this
-juncture  the  rebel  prince  was  betrayed  by  his  own  men,  and  de-
-livered to  the  Emperor's  general  who  commanded  him  to  be  put
+juncture  the  rebel  prince  was  betrayed  by  his  own  men,  and  delivered to  the  Emperor's  general  who  commanded  him  to  be  put
 to  death  immediately.
 
 Chagan  Timur,  having  won  back  Honan,  put  garrisons  in  the
 principal  cities  and  passed  over  then  to  Shan  tung  to  restore  it  to
-the  Mongols.  On  reaching  this  province  he  received  the  sub-
-mission of  Tien  fong  and  Wang  se  ching,  two  chiefs  of  the  rebels.
+the  Mongols.  On  reaching  this  province  he  received  the  submission of  Tien  fong  and  Wang  se  ching,  two  chiefs  of  the  rebels.
 He  divided  his  army  into  several  corps  and  sent  these  into  action
 on  all  sides.  He  himself  went  to  Tsi  nan,  the  chief  city,  or  capital,,
 to  besiege  it,  and  took  the  place  after  three  months'  investment.
@@ -19820,8 +17581,6 @@ alive  to  the  coffin  of  Chagan  Timur,  and  there  tore  their  hearts
 out,  those  hearts   he  then  offered  to  the  spirit  of  his  father.     All
 
 
-Expulsion  of  the  Mongols  from  China        405
-
 the  troops  of  these  men  who  had  followed  them  into  the  city  were
 put  to  the  sword  without  exception.
 
@@ -19839,8 +17598,7 @@ general,  had  beaten  to  death  with  a  crowbar  his  own  would-be
 Emperor,  Siu  chiu  hwei.  Chin  had  taken  Tai  ping  and  advanced
 to  the  lands  of  Nan  king.  Chu  yuan  marched  against  him,  and
 when  he  had  taken  Nan  king  he  found  Chin  near  Kiu  kiang  and
-cut  his  army  to  pieces.  Chin  fled  to  Wu  chang.  Chu  yuan  cap-
-tured Kiu  kiang,  and  then  Nan  chang  fu.  Master  of  this  capital,
+cut  his  army  to  pieces.  Chin  fled  to  Wu  chang.  Chu  yuan  captured Kiu  kiang,  and  then  Nan  chang  fu.  Master  of  this  capital,
 he  received  submission  from  the  principal  cities  of  Kiang  si.
 Chin,  wishing  to  win  back  Nan  chang  fu  at  all  hazards,  equipped
 a  vast  number  of  vessels  and  laid  siege  to  the  city,  which  he  pressed
@@ -19866,8 +17624,6 @@ for  leniency,  and  the  discipline  of  his  army.
 Before  this  campaign  which  destroyed  the  would-be  new  dynasty
 
 
-406  The  Mongols
-
 of  Han,  Chu  yuan,  learning  that  Chang  se  ching  and  Liu  chin  had
 captured  Ngan  fong,  where  the  Sung  Emperor  was  living,  and
 that  they  had  slain  Liau  fu  tong,  his  commander  in  that  city,
@@ -19889,16 +17645,14 @@ was  unprincipled  and  ambitious,  took  active  part  in  the  struggles
 of  rivals.  Clio  se  kien,  the  first  minister,  persuaded  the  heir  that
 many  great  persons,  whom  he  named,  were  ready  to  rise  iu
 rebellion;  he  then  induced  him  to  ruin  them.  The  prince
-accused  these  men  to  his  father,  and  through  his  power  of  in-
-sistence brought  death  to  two  leading  persons.
+accused  these  men  to  his  father,  and  through  his  power  of  insistence brought  death  to  two  leading  persons.
 
 Cho  se  kien  and  the  eunuch,  Pa  pu  hwa,  bound  to  each  other
 by  criminal  plotting,  now  feared  lest  Tukien  Timur,  a  friend  of  the
 two  men  just  done  to  death  without  reason,  might  avenge  them,
 hence  they  decided  to  destroy  Tukien  also.  They  brought  a
 criminal  action  against  him.  Polo  Timur  roused  a  defender  to
-act  for  him.  The  heir,  enraged  by  this  daring,  accused  Polo  him-
-self of  complicity  with  Tukien  and  had  him  stripped  of  his  office.
+act  for  him.  The  heir,  enraged  by  this  daring,  accused  Polo  himself of  complicity  with  Tukien  and  had  him  stripped  of  his  office.
 Polo  refused  to  yield  up  command  and  his  enemy  Kuku  Timur
 was  sent  to  constrain  him.  Polo  knew  that  this  order  had  been
 given  without  the  Emperor's  knowledge,  and  induced  Tukien  to
@@ -19911,21 +17665,17 @@ the  capital,  fled  northward  for  safety.  Tukien  now  advanced
 to  the  river  Tsing  ho,  where  he  halted  to  wait  for  the  Emperor's
 
 
-Expulsion  of  the  Mongols  from  China        407
-
 decision.  He  declared  that  Polo  Timur,  by  whose  orders  he  was
 acting,  had  no  dream  of  failing  in  duty  to  the  Emperor,  he  merely
 desired  to  deliver  his  sovereign  from  Cho  se  kien  and  Pa  pu  hwa
 the  two  traitors;  he  would  retire  the  moment  these  direst
 foes  of  the  Emperor  were  given  to  him.  They  meditated  long
 at  the  court  over  this  proposition,  counter  proposals  were  made,
-but  Tukien  remained  firm  and  retired  only  when  the  two  min-
-isters were  put  in  his  possession  and  Polo  Timur  was  reinstated  in
+but  Tukien  remained  firm  and  retired  only  when  the  two  ministers were  put  in  his  possession  and  Polo  Timur  was  reinstated  in
 office.
 
 Mongol  dominion  had  fallen  in  China  and  civil  war  was
-raging  around  Shang  tu.  The  heir,  a  rebel  also,  was  or-
-dered back  to  Ta  tu  by  the  Emperor.  He  obeyed,  but  if  he
+raging  around  Shang  tu.  The  heir,  a  rebel  also,  was  ordered back  to  Ta  tu  by  the  Emperor.  He  obeyed,  but  if  he
 did  it  was  simply  to  assemble  an  army  and  send  it  under  Kuku
 Timur  to  fall  upon  Polo  at  Tai  tung  fu,  his  headquarters.  Polo,
 leaving  men  to  defend  the  place,  hastened  on  to  Ta  tu  with  the
@@ -19944,8 +17694,7 @@ and  companion  in  debauchery ;  he  drove  from  the  palace  a  legion
 of  parasites,  among  others  a  real  cohort  of  eunuchs  and  the  whole
 throng  of  Lamas.  At  his  request  the  Emperor  sent  courier  after
 couiier  to  the  heir  demanding  his  return  to  the  palace.  The  heir,
-far  fmm  obeying,  resolved  to  try  arms  against  Polo,  his  now  all-
-powerful  opponent.  The  recent  example  of  Tukien  Timur  was
+far  fmm  obeying,  resolved  to  try  arms  against  Polo,  his  now  allpowerful  opponent.  The  recent  example  of  Tukien  Timur  was
 in  this  case  most  apposite.
 
 When  Polo  learned  that  the  heir  was  advancing  he  arrested
@@ -19999,16 +17748,13 @@ resign  in  his  favor,  and  not  finding  the  minister  compliant  grew
 enraged  at  him.  The  Emperor  was  unwilling  to  abdicate,  but  he
 gave  his  son  power  almost  equal  to  that  which  he  himself  had,
 making  him  lieutenant  in  the  Empire.  Kuku  Timur  tried  to
-prevent  this,  but  failed,  and  was  stripped  of  his  dignities.  There-
-upon, he  retired  to  Shang  si,  where  he  lived  in  a  stronghold.
+prevent  this,  but  failed,  and  was  stripped  of  his  dignities.  Thereupon, he  retired  to  Shang  si,  where  he  lived  in  a  stronghold.
 
 While  the  Mongol  COUrl  was  thus  lorn  asunder  by  dissension  Chu
 yuan  chang  was  extending  his  Empire  continually.  He  lived  at
 Nan  king,  working  always  to  establish  a  government  on  justice  and
 order,  as  recommended  by  anctenl  philosophers  of  China.     Mean-
 
-
-Expulsion  of  the  Mongols  from  China        409
 
 while  his  generals  Su  ta  and  Chang  yu  chun  attacked  Chang  si
 ching,  who  was  master  yet  of  a  part  of  Che  kiang  and  Kiang  nan.
@@ -20054,15 +17800,12 @@ taken  power  from  them  to  give  it  to  a  warrior  filled  with  virtue  an
 greatness,  a  warrior  loved  and  respected  by  all  men  who  knew  him.
 
 
-410  The  Mongols
-
 The  generals  met  no  resistance  in  any  place.  When  all  Shan
 tung  had  submitted  they  passed  to  Honan,  where  they  had  success
 of  the  same  kind  —  the  gates  of  every  city  were  opened  to  their
 standards.
 
-Togan  Timur,  who  was  terrified  at  the  swiftness  of  these  con-
-quests, sent  courier  after  courier  for  Kuku  Timur,  but  that  general
+Togan  Timur,  who  was  terrified  at  the  swiftness  of  these  conquests, sent  courier  after  courier  for  Kuku  Timur,  but  that  general
 did  nothing  to  rescue  the  capital;  he  held  aloof  and  marched  away
 toward  Tai  yuen.
 
@@ -20078,8 +17821,7 @@ Chu  yuan  chang,  the  new  Emperor,  left  Nan  king  in  August,  1368,
 crossed  the  Hoang  Ho  at  Ping  lien,  and  marched  on  the  capital ;
 all  cities  submitted  to  him  willingly.  At  the  same  time  his  two
 generals  entered  Pe  che  li  from  Shan  tung.  At  this  juncture  Che
-li  nien,  one  of  Togan  Timur's  ministers,  took  from  the  temple  of  an-
-cestors all  tablets  of  the  Mongol  Emperors  and  fled  to  the  north,  the
+li  nien,  one  of  Togan  Timur's  ministers,  took  from  the  temple  of  ancestors all  tablets  of  the  Mongol  Emperors  and  fled  to  the  north,  the
 heir  fleeing  with  him.  Togan  Timur  decided  to  follow  immediately,
 and  naming  Timur  Buga  his  lieutenant,  he  appointed  King  tong
 as  defender  of  the  capital.  Then,  assembling  the  princes,  princesses
@@ -20098,11 +17840,8 @@ the  bank  of  Lake  Tai,  where  in  1:570  his  life  came  to  its  end.  He
 had  reigned  thirty-five  years,  and  was  fifty-one  years  of  age.
 
 The  Ming  forces  seized  Lag  chang  and  captured  Maitilipala,
-Togan  Timur's  grandson,  as  well  as  many  princes  and  prin-
-cesses and  distinguished    persons    who    were    all    taken    back  to
+Togan  Timur's  grandson,  as  well  as  many  princes  and  princesses and  distinguished    persons    who    were    all    taken    back  to
 
-
-Expulsion  of  the  Mongols  from  China        411
 
 China.  The  heir  escaped  safely  to  Kara  Kurum,  which  now
 became  the  one  capital  of  the  Mongols.  On  learning  that  this
@@ -20118,8 +17857,7 @@ son  Tukus  Timur,  who  was  complimented  by  the  Ming  Emperors
 on  his  accession  to  the  sovereignty  of  the  Mongols  now  driven  back
 to  their  original  home.  In  succeeding  years  the  troops  of  this
 Khan  advanced  frequently  to  violate  Chinese  borders,  but  in  1388
-the  new  Emperor  sent  an  army  against  Tukus  Timur  which  de-
-feated him  at  Buyur  lake  very  thoroughly.  His  wives,  his  second
+the  new  Emperor  sent  an  army  against  Tukus  Timur  which  defeated him  at  Buyur  lake  very  thoroughly.  His  wives,  his  second
 son  and  more  than  three  thousand  officers  were  captured.  Tukus
 Timur  was  assassinated  near  the  Tula  while  seeking  safety  in
 flight.  Yissudar,  who  did  the  deed,  was  a  prince  of  the  Emperor's
@@ -20141,16 +17879,13 @@ first  on  the  Onon,the  second  on  the  eastern  boundary  of  Mongolia.
 Buin  Shara  was  killed  in  1412  by  Mahmud,  prince  of  the  Uriats,
 who  put  Dalbek  on  the  throne  of  the  Mongols.
 
-During  two  centuries  Mongol  princes  strove  unceasingly  to  re-
-gain lost  dominion;  yielding  to  China  when  sufficient  force  was
+During  two  centuries  Mongol  princes  strove  unceasingly  to  regain lost  dominion;  yielding  to  China  when  sufficient  force  was
 sent  against  them,  or  attacking  border  provinces  of  the  Empire
 when  those  provinces  were  left  unguarded.
 
 Toward  the  middle  of  the  seventeenth  century,  when  the  Ming
 dynasty  was  nearing  its  downfall,  the  Mongols  were  divided  into
 
-
-412  The  Mongols
 
 groups  under  various  small  chieftains,  each  of  whom  bore  the  title
 Khan.
@@ -20179,2129 +17914,3 @@ the  secret  of  the  future.
 THE   END.
 
 
-INDEX
-
-
-Abaka,  Hulagu's  eldest  son  and  heir,
-
-294
-Abbasid  Kalifs,  97,  199,  202,  206,  223;
-
-Rashid  killed,  224,  231,  238,  247,
-
-258.
-Abdallah,  son  of  Kaddah,  plans  to
-
-establish  ancient  faith  of  Persia,
-
-204.
-Abu  Abdallah,  sent  to  Africa;    an-
-nounces a  Mahdi;   assassinated  by
-
-Obedallah,  205.
-Abu  Ali  Mansur,  tenth  Kalif  of  the
-
-Fatimid  line,  assassinated,  223.
-Abu  Bekr,  the  first  Kalif,  197.
-Abul    Fettah,    nephew    of    Hassan
-
-Sabah,  215.
-Abul  Wefa,  an  Assassin  from  Persia,
-
-makes  a  treaty  with  the  King  of
-
-Jerusalem,  220.
-Abu  Mohammed,  Grand  Prior  of  the
-
-Assassins  of  Syria,  216,
-Adhad  the  Kalif,  asks  aid  of  Nur  ed
-
-din;    his  death,  231.
-Aguta,    subdues    the    Kitans;     his
-
-death,  80.
-Ajk£  Charan,  reveals  a  plot  to  kill
-
-Temudjin,  52.
-Aiyaruk,  daughter  of  Kaidu,  380.
-Aivuchelitala,  heir  of  Togan  Timur,
-
-";03,  404.
-Alai  ed  din,  Kei  Kubad,  Sultan  of
-
-Rum,    makes    an     alliance    with
-
-Ashraf,  161,  162.
-Ala  Kush,  Ongut  envoy,  62;    makes
-
-invasion  easy,  83.
-Alamut,    Seljuk    fortress,  seized    by
-
-Hassan  Sabah,  210,  239,  240,  241,
-
-244.
-Alan  Goa,  daughter  of  Bargudai,  4;
-
-her  death,  6;    descendants,  7.
-Aleppo,  added  to  the  Fatimid  Em-
-pire, 264 ;  Saladin's  great-grandson
-
-rules   the    principality,    258;     be-
-
-
-sieged by  Hulagu,  264;  captured  by
-assault,  265.
-
-Algu,  deserts  Arik  Buga,  336.
-
-Alihaiya,  Mongol  officer,  attacks
-Kiang  ling ;  city  surrenders,  348 ;
-favorite  of  Kubilai,  349;  lays
-siege  to  Chang  cha,  353 ;  captures
-the  city,  354;  ordered  to  Tung
-king,  364.
-
-Ali  hwei  Timur  tries  to  seize  power,
-401.
-
-Ali  Shir,  brother  of  Kwaresm  Shah,
-95.
-
-Ali  ul  Mulk,  acknowledged  as  Kalif  by
-Shah  Mohammed,  98.
-
-Aly,  son-in-law  of  Mohammed,
-elected;  rules  at  Kufa;  assassin-
-ated, 197,  198,  201,  202.
-
-Amalric,  King  of  Jerusalem,  raises
-the  siege  of  Alexandria,  229;  vio-
-lates his  promise,  230.
-
-Ambagai,  descendant  of  Taidjuts,  9;
-seized  by  Tartars,  12;  nailed  to
-wooden  ass,  13 ;  his  widows,  18.
-
-Amid,  Kubilai  Khan's  Minister  of
-Finance,  killed  by  Wang  chu,  371.
-
-Amid  ul  Mulk,  vizir,  favors  retreat
-of  Shah  Mohammed,  113.
-
-Ananda,  attempts  to  seize  power,  384 ;
-murdered,  385.
-
-Antchin,  sent  to  conclude  an  alliance
-with  Lyuko,  84.
-
-Argun,  sent  to  capture  Kurguz,  191 ;
-becomes  governor,  192;  visits
-Mangu's  court,  193.
-
-Arik  Buga,  brother  of  Hulagu,  wishes
-to  be  Grand  Khan,  283;  left  in
-command  by  Mangu,  328 ;  begins  a
-struggle  for  Empire,  332;  puts
-Apishga  in  prison ;  takes  sovereign
-title,  333;  defeated,  334;  sends
-message  to  Kubilai,  335;  defeated,
-336;     resolves   to   march   against
-
-
-413
-
-
-414
-
-
-Index
-
-
-Algu;  returns  to  China,  337;  his
-death,  339.
-
-Arslaii,  Khan  of  the  Karluks,  77;
-marries  Altun  Bighi,  daughter  of
-Jinghis,  78.
-
-Ashrai",  acts  against  Kwaresmians,
-153;  sends  a  commander  to  the
-West,  I64j  sets  out  for  Ilarran;
-joins  Kei  Kubad,  1G3,  168;  sends
-message  to  Jelal;  makes  a  journey
-to  E.trypt,  L69.
-
-Assassins,  see  l  [assan  Sabah,  Kia  Mo-
-hammed, Hassan  II,  etc.
-
-Assutai,  one  of  the  Arik  Buga's
-commanders,  passes  the  "  Iron
-Gate."  337.
-
-Asukeba,  heir  of  Yissu  Timur,  388;
-proclaimed  at  Shang  tu,  389.
-
-Ata  ul  Mulk  Juveini,  vizir  and  histo-
-rian, 243,  244.
-
-At  chu,  Mongol  commander  of  fleet,
-captures  seven  hundred  boats,  349.
-
-Aziz,  grandson  of  Saladin,  258.
-
-Babek,  a.  d.  S16,  defeated  and  cap-
-tured, 203
-Badai,  discovers  a  plot  to  kill  Temud-
-
-i" in,   53;    rewarded   by    the  Grand
-vlian,   60.
-Baibuga,  Naiman  chief,  makes  Wang
-Khan's  skull   into  a  drinking-cup,
-61;  alarmed  at  Temudjin's  growing
-power,  62;    defeat  ami  death,  63.
-Baidj u, succeeds Chormagun  in  Persia,
-177:      demands     mother    of     Kei
-rlorsu,   178;    trouble  with  Queen
-Rusudan,  179.
-Baiktar,  killed  by  Temudjin,  his  half-
-brother.  19.  20.
-Baisutai  clan,  origin  of.  9.
-Baitulu.  chief  of  Tumats,  withdraws
-from  obedience,  88.
-ias,  a  castle  in  Syria,  219
-Barans,  defeated  by  Temudjin,  41.
-Bardjuk,  chief  of  the  Uigurs,  receives
-Jinghis  Khan's  envoy,  7<>;    about
-to  '  larry  tlie  daughter  of  Jinghis,
-:.
-
-grandfather  of  Temudjin,  10;
-
-his  death,    15.
-
-Batra.   grandson   of  Chingkin,   384;
-•    for  Shang  tu,  385;    pro-
-claimed Emperor;    takes  the  tide
-Byantu;      appoints    his    son;     his
-death,
-
-of  Juchi:  Khan  of  the
-Golden  Borde;  loiters,  318;  calls
-a  rlurult  a!,  317;    lends  troops  to
-
-
-escort  Mangu  to  the  Kurultai,  318;
-his  death,  282.
-
-Bar  Hebraeus,  a  historian,  273.
-
-Bayan,  receives  command,  345;  cap-
-tures Yang  lo,  346 ;  6ends  Chang  yu
-to  make  peace;  demands  permis-
-sion to  continue  hostilities,  348;
-visits  the  Grand  Khan,  349;  cap-
-tures Chang  chau,  350;  sends  Em-
-press and  Emperor  to  Kubilai;
-summoned  to  move  on  Kaidu,  352;
-headquarters  al  Kara  Kurum,  369;
-declares  for  Timur;  his  death,  377.
-
-Bedr  ud  din  Lulu.  Prince  of  Mosul,
-arranges  for  Syria  to  pay  a  tax,
-179;  summoned  by  Hulagu;  his
-origin,  L'.">o.
-
-Bedr  ud  din  of  Otrar,  his  hatred  for
-Shah  Mohammed.  105.
-
-Beibars  Bundukdar,  minister  of
-Nassir  of  Damascus;  strikes  the
-vizir;  goes  to  Gaza;  sends  his
-oath  of  fidelity  to  the  Sultan  of
-Egypt,  262;  declares  for  war,
-commands  the  Egyptian  vanguard,
-269;  sent  to  pursue  the  Mongols,
-271;  asks  for  government  of
-Aleppo;  plots  to  assassinate
-Kutuz;  murders  the  Sultan;  is
-made  Sultan;  arrives  in  Cairo;  a
-Polovtsi  by  origin,  272;  gives  his
-former  owner  the  government  of
-Damascus,  273;  send  for  Abul
-Ahmed,  274  :  invested  with  sover-
-eignty; orders  the  provinces  to
-receive  Ahmed  as  Kalif,  275;  sends
-troops  to  the  boundary  of  Persia,
-285;  sends  en\ovs  to  the  Khan
-of  the  Golden  J  forde,  286,  287;
-hangs  Hulagu's  en  288.
-
-Berkai,  son  of  Juchi;  Khan  of  the
-Golden  Borde;  converted  to  Is-
-lam, 282;  <\r  ires  the  election  of
-Arik    Buga.  sends    an   army
-
-against  Hulagu,  284,  285,  287;
-begins  a  new  campaign;  dies
-while  marching  against  Abaka,
-Hulagu's  sine  I  I.
-
-Ten  Amran,  a  traitor.  254-255.
-
-Belgutai,  half-brother  of  Temudjin,
-19:    goes  with  Temudjin  for  his
-
-bride.  25j    wounded  at  a  feast.  38 J
-
-kills  Burs  Buga;   is  excluded  from
-
-Council,  48j    made  master  of  horse
-
-training,  43.
-Beglu  Alt',  mother  of  Jelal  ud  din,  158.
-Boduanchar,   son    of   Alan   Goa,   5;
-
-leaves  home,  6;   finds  a  wife,  7.
-
-
-Index
-
-
-415
-
-
-Boorchu.  24;  becomes  Temudjin's
-comrade,  25,  27,  31,  32;  sends
-troops  against  the  Naimans;  saves
-Sengun,  42;  escapes  from  Keraits,
-55;  made  commander  of  ten
-thousand,  67,  68,  69;  saves  Chepe
-Noyon,  92.
-
-Borak,  commander  in  Jelal  ud  din's
-army,  146;  gives  his  daughter  to
-Jelal;  master  of  Kerman;  nine
-of  his  family  keep  rule  for  eighty-
-six  years,  147;  revolts,  152;  mar-
-ries Beglu  Ali,  Ghiath's  mother;
-strangles  Ghiath,  158;  asks  the
-Kalif  for  title  of  Sultan;  takes
-the  name  Kutlug  Khan ;  his  death;
-succeeded  by  Rokn  ud  din,  195.
-
-Bortai,  chosen  by  Yessugai  as  bride
-for  Temudjin,  17;  captured  by
-Merkits,  25,  26,  27,  28";  birth  of
-Juchi,  29;  counsels  Temudjin,
-30,  73;  always  held  the  first  place,
-138;  Jinghis  speaks  of  her  when
-dying,  139.
-
-Boroul,  found  in  the  Churki  camp
-and  given  to  Hoelun,  39,  42,  53;
-6aves  the  life  of  Ogotai,  55;  sent
-to  aid  Wang  Khan,  56;  released
-from  nine  death  sentences,  70,  71;
-his  death,  88,  307.
-
-Boshin,  great-great-grandfather  of
-Temudjin,  10.
-
-Bugundai,  fourth  son  of  Alan  Goa,  4.
-
-Buhadur  Yessugai,  father  of  Jinghis
-Khan,  15.     See  Yessugai.
-
-Buin  Shara,  succeeds  Goltsi  on  the
-Mongol  throne;    assassinated,  411.
-
-Bulagan,  partisan  of  Ananda,  strives
-to  put  him  on  the  throne,  384;
-killed,  385.
-
-Burma,  struggles  to  drive  back  the
-Mongols,  362;    defeated,  363,  377.
-
-Burshi,  first  victim  of  the  second
-Grand  Prior  of  the  Assassins,  223.
-
-Bu>i,  Prince  of  Damascus,  219,  220;
-slaughters  many  Assassins,  221;
-marked  for  destruction,  222.
-
-Chabar,    son    of    Timur,    381;     last
-
-real     sovereign     descended     from
-
-Ogotai,  382,  385.
-Changan  Timur,  Mongol  general,  312,
-
-400;     takes    Nan  king;     quarrels
-
-with     Polo     Timur;      wins     back
-
-Honan,  403,  404,  406,
-Chang  hong    fan,  made  commander
-
-by  Kubilai,    358;    attacks    Sung
-
-fleet,  359.
-
-
-Chang  se  ching,  a  Chinese  rebel,  398,
-400,  401,  405,  408,  409.
-
-Chang  se  te,  brother  of  Chang  se
-ching;  defeated  and  captured.  400.
-
-Chang  shi  kie,  349 ;  assembles  a  fleet,
-356;  makes  levies  in  Fu  kien,  357;
-builds  a  palace,  358,  359;  loses
-his  life  in  a  storm,  360.
-
-Chao  wun  ping,  a  distinguished
-scholar,  301.
-
-Charaha,  son  of  Kaidu,  9;  father  of
-Munlik,  stepfather  of  Temudjin,
-18,  35.
-
-Charchiutai,  gives  his  son  Chelmai  to
-Temudjin,  25,  26.
-
-Chelmai,  son  of  Charchiutai,  given
-to  Temudjin,  26,  27,  32;  saves
-the  life  of  Temudjin,  46,  53;  re-
-leased from  nine  death  sentences,
-70,  71.
-
-Cheng  ho  shang,  a  Kin  hero,  299.
-
-Chep?  Noyon,  aids  in  winning  the
-land  of  the  Kitans,  84,  85;  sent
-against  the  Kara  Kitan  usurper;
-Jinghis  warns  him  not  to  be  proud,
-91 ;  kills  Gutchluk ;  carries  Mongol
-arms  into  Armenia;  his  origin,
-92;  sent  to  capture  Shah  Mo-
-hammed, 114;  takes  Nishapur,
-115;  sacks  Ravi,  116;  plunders
-Persian  Irak,  132;  commanded
-to  conquer  Polovtsi,  133.
-
-Chepi,  a  Chinese  general,  sent  against
-Java;  wins  a  victory  for  Java;
-condemned ;  receives  seventy
-blows,  370.
-
-Chilaidu,  a  Merkit;  Yessugai  seizes
-his  wife  Hoelun,  16;  Merkits  attack
-Temudjin  to  take  vengeance,  28,
-29.
-
-Chiluku,  ruler  of  Kara  Kitai,  grand-
-son of  Yeliu  Tashi,  89,  90.
-
-Ching  ling,  made  Kin  Emperor,  308;
-slain,  309.
-
-Chin  ge  suan,  ruler  of  Tung  king,
-refuses  to  furnish  Togan  with  war
-supplies,  363,  364,  365.
-
-Chingkin,  Kubilai's  intended  suc-
-cessor; his  death,  364;  his
-exposure  of  Ahmed,  371,  372.
-
-Chin  Timur,  left  as  governor  of
-Kwaresm.  184;  attacks  Kanknlis;
-deprived  of  power:  sends  Kelilat
-to  Grand  Khan,  185 ;  made  gover-
-nor by  Ogotai,  186;  his  death,
-187.  _
-
-Chin  yiu  liang,  a  general  of  the,
-founder    of    the    would-be    Tien
-
-
-416
-
-
-Index
-
-
-dynasty,  captures  Sin  chin;  beats
-the  Emperor  to  death  with  a  crow-
-bar. 402,  105.
-
-Chin  y.  commandant  of  Hoang  chiu,
-surrenders  the  city,  3  16.
-
-ChonaugUT,  loader  of  the  Imperial
-troops,  Bucceeds  Tutuka;  defeats
-Kaidu,  378,  :NI;    his  son,  3S8.
-
-Chong  hei,  Emperor  of  China,  81,  82,
-83.
-
-Chormagun,  loader  of  army  sent  in
-pursuit  of  Jelal  ud  din,  164,  10(3,
-171.  IT."..  176,  177.
-
-Cho  so  kien,  minister  of  Togan  Timur,
-103,  W6,  407.
-
-Churrha'lai.  leader  of  the  Units,  33,
-64;  offers  to  lead  the  vanguard,
-56,   59,   68;    rewarded,   69.
-
-Chu  yuan  chang,  a  Buddhist  priest
-destined  to  destroy  Mongol  rule,
-400.  401;  gains  power,  402,  405,
-406.  409;  proclaims  himself  Em-
-peror, names  his  dynasty  Ming,
-410.
-
-Crusaders,  220,  221,  230.
-
-Dair  Usun,  chief  of  Hoasi  Merkits,  28,
-63.
-
-Dargham.  a  commander  in  Egypt,
-228,  229.
-
-Desaichan,  father  of  Rortai,    17,  34.
-
-Dalbek  put  on  the  Mongol  throne,
-411.
-
-Doben.  ninth  in  descent  from  Ba-
-tachi,  4 ;  boy  received  in  exchange
-for  venison,  5;  descendants  of
-Doben  and  Alan  Goa,  7.
-
-Dokuz  Khatun,  granddaughter  of
-Wang  Khan  and  wife  of  Hulagu,
-255;   her  death,  256.
-
-Dua,  put  on  the  Jagatai  throne  by
-Kaidu,  366;  deserted  by  his
-troops,  379;  proposes  Chabar
-as  Timur's  successor;  proposes
-to  acknowledge  overlordship  of
-Timur,  Kubilai's  son;  his  death,
-381.
-
-Epyi>t.  scene  of  groat  struggles  be-
-tween Kalifs  of  Bagdad  and
-Cairo.    223.      Set    Saladin,    Nur  cd
-
-din,  Kutus.
-
-Eibeg,     a     Mamehik     chief,     marries
-
-concubine  of  Sultan   Salih,   rules
-
-1   ■•. ;  ■•     257 :     restores    lands    be-
-longing to   Nassir  of  Syria,   268,
-259;    slain  by  his  wife.  262,  263.
-Eusbeg,  a  general,  watches  India  for
-
-
-Jelal  ud  din,  146;    his  neglect,  151,
-
-,  I"'--
-
-Eyub,  commandant  of  Tenkrit  castle,
-'father  of  Saladin,   227,   228,  238.
-
-Fakhr  ud  din  Saki,  last  commandant
-of  Aleppo.  266,  267.
-
-Fang  kwe  chin,  a  pirate,  396:  shows
-great  activity,  398;    submits,  409.
-
-Faris  ud  din  Aktai,  a  celebrated
-Manieluk  chief,  258;  makes  Bei-
-bars  Sultan,  272.
-
-Fatimids,  first  Kalif,  Obeidallah.
-205;  their  territory;  declared
-spurious  by  Bagdad;  struggle  to
-supplant  the  Abbasids,  206;  trained
-in  the  House  of  Science.  211;  doc-
-trine, 212;  agents  in  Persia  and
-Syria,  214,  231,  233.  See  Assas-
-sins.
-
-Georgians,  make  a  league  against
-Jelal  ud  din,  159;  defeated  by
-Jelal,  160.
-
-Ghiath  ud  din,  son  of  Shah  Mo-
-hammed, retires  to  Karun ;  marches
-against  Ispahan,  145;  quarrels
-with  his  brother,  146,  148,  151;
-arrests  Jelal's  envoys;  betrays
-Jelal,  155;  retires  to  the  moun-
-tains; kills  Mohammed  at  a  feast;
-goes  to  the  Assassins,  157;  goes
-to  Kerman;  strangled  by  Borak,
-head  sent  to  Ogotai,  158,  194.
-
-Goltsi.  gains  power  in  Mongolia,  411.
-
-Gumushtogin,  a  eunuch,  guardian
-of  Salih,  son  of  Nur  ed  din,  237;
-hires  Assassins  to  kill  Saladin,  238.
-
-Gutchluk,  given  as  title  to  son-in-
-law  of  the  Kara  Kitai  ruler,  90;
-makes  war  on  his  father-in-law,
-91,  92.
-
-Gutchluk.  son  of  Baibuga  of  the
-Naimans.  103.  104.
-
-Ilayton.   King  of  Tilicia,    178,    180;
-
-decides  to  visit  Mangu  the  Grand
-
-Khan,  183;  sets  out,  287;  aids  the
-
-Mongols,  288.
-Hakim.  276:    claims  to  be  fourth  in
-
-descent    from    Riostershed;     goes
-
-to  Egypt.  -~7-  »  Kalif,  286.
-
-II  m  Tni .  has  an  evil  influence  in  councils
-of  the  Emperor,  398,  399,  400.
-
-Han  lin  ulh,  son  of  Sung  pretender,
-396;    disappears.  400.
-
-Herat,  summoned  to  surrender,  126,
-128,  129,  131;   repeopled,  190,  194.
-
-
-Index
-
-
-417
-
-
-Hoan  ho  Timur,  grandson  of  Mangu,
-393,  394.
-
-Eoelun,  captured  by  Yessugai,  16;
-gives  birth  to  Temudjin,  17,  18,  19,
-20,  39;  warns  Temudjin  against
-Jamuka,  32;  saves  her  son  Kassar;
-her  death,  73.
-
-Horchi,  describes  a  vision,  30;  given
-thirty  beautiful  women,  68.
-
-Huildar,  leader  of  the  Manhuts;
-plants  Temudjin's  standard  on
-Gubtan,  54,  55;   his  death,  56.
-
-Hulagu  marches  into  Asia  Minor,  184,
-195;  advances  to  exterminate  the
-Assassins,  241;  sends  envoys  to
-Grand  Prior,  242,  243;  surrender
-of  Alamut,  244;  gives  a  great
-feast,  245;  kills  all  the  Ismailians;
-sets  out  to  destroy  the  Kalif  at,  247 ;
-seduces  commandant  of  Daritang,
-249,  250,  251;  slaughters  the  in-
-habitants of  Bagdad,  252;  kills  the
-Kalif,  254;  warns  Nassir  of  Syria,
-259,  260,  261;  summons  Aleppo
-to  surrender,  264;  sacks  Aleppo;
-receives  keys  of  Damascus,  265;
-receives  news  of  Mangu's  death,
-266;  promises  to  reinstate  Nassir,
-267;  kills  Nassir,  273;  trouble
-with  Berkai,  son  of  Juchi,  282;
-defeated  near  Shemaki;  victori-
-ous at  Shirvan,  287;  builds  a
-palace  at  Alatag,  288;  extent  of
-rule,  289;  places  Uns  Khatun  on  the
-Far's  throne,  291;  quells  an  up-
-rising, 292;    his  death,  293.
-
-Hassan  Ben  Sabah,  son  of  Ali,  sent  to
-the  Nishapur  school,  206;  class-
-mate of  Omar  Khayyam,  207;
-gains  influence  over  Melik  Shah,
-208;  favors  the  second  son  of  the
-Sultan  of  Egypt;  gets  possession
-of  Alamut,  209;  wins  followers,
-ires  power,  210;  causes  the
-dfith  of  Nizam  ul  Mulk  and  of
-Melik  Shah,  211;  his  secret  doc-
-trines, 212;  selects  victims,  215;
-warns  Sindjar,  Sultan  of  the  Sel-
-
-i'uks,  217;  makes  Kia  Busurgomid
-lis  successor;  his  death,  218.
-Hassan,  son  of  Kia  Mohammed,  Grand
-Prior  of  the  Assassins,  spreads
-report  that  he  is  the  promised
-Iman,  226;  becomes  Grand  Prior;
-determines  to  expose  the  secrets
-of  the  Order,  231 ;  proclaims  him-
-self the  Iman;  celebrates  the  17th
-Ramadan,   232;    driven  to  prove
-
-
-himself  a  descendant  of  Fatimid
-Kalifs,  233;  teaches  atheism  and
-immorality;    assassinated,  234.
-
-Hussein,  son  of  Aly,  198;  offers  of
-support  from  Kufa,  199;  leaves
-Mecca,  200;  attacked  by  the
-troops  of  the  governor  of  Kufa;
-his  death,  201,  202.
-
-Hussein  Kaini,  an  active  Dayis,  204,
-210.
-
-Ismailians,  154,  196,  211;    Ismailian
-
-doctrine,  225,  234,  236,  240,  245.
-
-See  Assassins.
-Ibn  al  Athir,  the  historian,  172,  173.
-Ibn  Yunus,  steals  a  letter  from  Salih
-
-of  Mosul,   278;    first  governor  of
-
-Mosul,  281.
-
-Jagatai,  marches  to  China  with  Jin-
-ghis,  his  father,  83;  receives  com-
-mand at  Otrar,  105,  119;  quarrels
-with  Juchi,  his  brother,  120;  re-
-turns to  Jinghis,  126,  138;  his
-dominion,  141,  314,  315;  his  son,
-333,  334,  336,  366,  380.
-
-Jamuka,  chief  of  the  Juriats;  de-
-scended from  Kabul  Khan,  27,  29,
-30;  forms  a  party,  31;  his  brother
-Taichar,  32;  allies  himself  with
-Temudjin's  enemies,  33,  34,  36;
-influences  Sengun,  43;  attacks
-Wang  Khan  and  Jamuka,  46;  his
-forces  scatter,  47;  fills  Sengun's
-heart  with  fear,  50,  51;  conspires
-to  kill  Temudjin,  52;  battle  with
-Temudjin,  53;  message  from  Te-
-mudjin, 57;  betrayed  and  sur-
-rendered to  Temudjin,  63;  words
-from  Temudjin,  66;    his  death,  67.
-
-Jambui  Khatun,  wife  of  Kubilai,  353,
-370,  376,  377.
-
-Jelairs,  a  clan;  origin,  7;  kill  Mona-
-lun,  8;  crushed  by  Nachin,  9;
-oath  taken  to  destroy  Temudjin
-and  Wang  Khan,  9,  44.
-
-Jelal  ud  din,  son  of  Shah  Mohammed,
-saves  his  father,  104;  joined  by
-Timur  Melik,  108;  opposes  re-
-treat, 113;  with  his  two  brothers
-he  reaches  Urgendj;  attacked  by
-Kankali  Turks,  119;  defeats  the
-Mongols  at  Ghazni,  121;  defends
-himself  at  the  Indus,  127;  springs
-into  the  Indus,  128;  pursued  to
-India,  marries  the  daughter  of
-the  Sultan  of  Delhi.  146;  feigns
-ignorance    of    his    father-in-law's
-
-
-418
-
-
-Index
-
-
-treason.  147:  marries  daughter  of
-■  of  Fars.  148;  mpaign
-against  Nassir  the  Kalif;  Bends
-letter  to  Prince  of  Damascus,  149;
-marches  to  Azerbaijan.  160;  caj>-
-tures  Tovin;  learns  of  plot  against
-him  in  Tebris,  151;  abandons
-siege  of  Khalat  :  sets  out  for  Ker-
-man,  152;  marches  against  the
-Assassins  of  Persia;  repulses  Mon-
-gols. 154;  betrayed  by  his  brother;
-defeated  by  Mongols,  155;  learns
-thai  Ghiath  has  gone  to  the  As-
-sassins, 157;  secures  the  district
-of  Gushtasfi,  158;  fines  his  vizir
-for  giving  advice,  1">9;  besieges
-Khalat  a  second  time;  commands
-Moslems  to  pray  for  Ifostansir,
-takes  Khalat.  162;  falls  ill;
-defeated,  163;  goes  to  Mugan  to
-obtain  warriors.  165;  surprised
-by  Mongols;  discovers  the  treason
-of  his  vizir.  H'»o;  sets  out  for  Jara-
-per.  b'i7;  surrounded  by  Mongols,
-169;  captured  by  Kurds;  is  killed;
-appearance  as  described  by  Nessa,
-171.
-
-Jelal  ud  din  Hassan  of  Alamut,  son
-of  Mohammed  II.  230;  opposed
-to  the  doctrines  taught  at  Alamut;
-poisoned,  240.
-
-Jinghis  Khan  (see  early  life  under
-Temudjin).  rewards  his  Empire
-builders.    68,     50;      jealous    of    his
-
-brother;    reproved  by  his  mother,
-
-angry  at  Munlik.  75;  sends
-envoy  to  Idikut  of  the  Uigurs,  76;
-intrenched  in  Kara  Kitai.  7S;
-seeks  co-operation  of  the  Kitans,
-81;  informed  of  the  succession
-of  Chonghei,  81;  Bends  message
-to  t  lie  <  !hinese  Emperor,  82;  m
-from  the  Kerulon  to  conquer
-China:  crosses  Qobi;  invests  Tai
-tong  f'i.  si;  resumes  activity  in
-China,  85;  marries  a  daughter
-of  (Jtubu,  86;   marches  on  Tangut;
-
-D    of    <  \
-Kalif      ■  is      aid :       sen. Is
-
-t,,  Bhafa  Mohammed,  100;
-tinguish    Qutchluk,
-101  :    <  •       i     tchluk  and  his  king-
-dom;   marches  w<
-
-mmand,  105;  i
-
-r,  to  Bokhara,  106   108;  enters
-
-que   on    horseback:     marches
-
-3    narkand;  cuts  off  Jelal's
-
-'     '  '^  on   the   N ak-
-
-
-6heb  steppes;  besieges  Termend;
-destroys  Kerduan;  takes  Bamian;
-grandson  killed,  126;  attacks
-Jelal  at  the  Indus.  1  J  7  ;  cuts  down
-men  faithful  to  Jelal  ud  din  120;
-winter  near  the  Indus;
-resolves  to  return  to  China;  gives
-command  to  kill  prisoners;  leaves
-Samarkand;  back  in  homeland
-1225;  enters  Tangut.  137;  his
-death;  remains  taken  to  birth-
-place. 138;  funeral  chant,  139,
-140.
-Juchi,  son  of  Temudjin,  his  birth.  29,
-50,  52;  goes  to  China  with  Jinghis,
-83;  tries  t,,  save  Kultuk.  88;  sent
-to  act  against  cities  from  Jend  to
-Lake  Aral;    gives  <>rd>  I  ark
-
-the  city  of  Jend.  106,  1  \    1  19;
-
-quarrels  with  Jagatai,    120;
-north  of  Lake  Aral  and  establ
-the   Golden    Horde,    126;     Juchi'a
-heirs  inherit  from  Jinghis,  141.  144;
-his  grandson,  367.
-
-Kabul,  son  of  Tumbinai,  visits  China;
-taken  prisoner,  11,  12,  15;  rivalry
-between  descendants  of  Kabul  and
-Ambagai,  16.
-
-Kaidan,  meets  Taidjut  in  single
-combat,  12,  13.
-
-Kaidu,  saved  by  his  nurse,  S;  from
-him  are  descended  t.ic  greatest
-historical  men  of  the  Mongols,  9;
-grandfather  of  Tumbinai.    10,    16.
-
-Kaidu,  >:re;it-Lrran<!son  of  Jinghis
-Khan,  advances  to  attack  Algu,
-337,  339.  361:  makes  war  on
-Kubilai.  365;  gets  control  of  the
-Jagatai  country.  368;  forms  a  new
-league  368;  held  in  check  by
-Bayan,  360,  376;  assumes  the
-title  of  Grand  Khan;  his  death,
-380  381,  ■'
-
-Kamal.t.  Kubilai's  grandson,  3fi9;
-ro  Emj  ■  \,  .'<77.  387.
-
-Kamil,    Prince   of  rkin.    273,
-
-271.
-
-Kami]    Sultan  of  Egypt,  163    174.
-
-Kankalis,    101,    107:    expect    to  be
-
-treated     as     kinsmen.      Ill:       .ire
-
-112;    .lis-  itisfied  with
-
-Jelal  ud  dm   119:  move  westward;
-
-form   nucleus  ,,f  Ottoman    Ivnnire,
-
-1  .'<      closely  connected  with  Kwar-
-ian  ruler-    158.
-Kara  Bug*,  Mongol  commander,  276,
-277.
-
-
-Index
-
-
-419
-
-
-Kara  Kitai,  its  extent,  75,  78;  its
-origin,  89,  90,  91,  93,  94,  100.
-
-Kara  Hulagu,  grandson  of  Jagatai;
-dies  on  the  way  to  his  possessions,
-323.
-
-Karniath,  agent  of  Abdallah,  204;
-captures  Mecca;  his  followers
-rage  for  a  century,  205.
-
-Kassar  (Juchi),  brother  of  Temudjin,
-17;  together  with  Temudjin  kills
-his  half-brother,  19,  20,  21,  27,  35;
-victory  over  the  Naimans,  44,  45;
-disobeys  Temudjin,  59;  saved
-by  his  mother,  72,  73,  74.
-
-Kassin  Aimed,  uncle  of  Mostassim,
-made  Kalif,  275;  lost  in  a  battle
-against  Kara  Buga,  277.
-
-Katchi  Kyuluk,  eldest  son  of
-Monalun.  7;    his  descendants,  8.
-
-Kei  Kosru,  ruler  of  Rum  in  1238,  177,
-178;  marries  the  daughter  of
-Queen  Rusudan,  179;  his  death,
-181.
-
-Kei  Kubad,  Sultan  of  Rum,  161,  162,
-163,  164,  165,  168,  169.
-
-Kentei  Khan  mountains,  have  two
-water  systems,  3 ;  body  of  Jinghis
-carried  to  the  Kentei  Khan  region,
-139.
-
-Khaishan,  son  of  Chingkin,  aspires
-to  power,  384;  saluted  as  sover-
-eign ;  takes  the  name  Kuluk  Khan,
-385 ;    his  death,  385.
-
-Ki,  wife  of  Togan  Timur,  398.
-
-Kia  Busurgomid,  second  Grand  Prior,
-218,  219,  225.
-
-Kia  Mohammed,  third  Grand  Prior
-of  the  Assassins,  225,  226.
-
-Kia  se  tao,  Chinese  official,  makes
-secret  treaty  proposals  to  Kubilai,
-332,  343,  344;  master  of  Sung
-Emperor,  346,  347;  exiled  and
-murdered,  349.
-
-Kitsns,  succeeded  by  the  Golden
-Khans,  2;  a  part  of  the  Manchu
-stock,  78,  79;  Aguta  subdues  the
-Empire,  80,  81;  insurrection,  84,
-85.  90.
-
-Koko^hu,  a  shaman,  son  of  Munlik,
-Jinehis  Khan's  stepfather.  72;
-called  also  TaibtPngeri.  gathers
-followers,  73:    is  killed.  74.
-
-Kotyan,  a  Polovtsi  Khan  whose
-daushter  married  Mystislav  of
-Russia.  133.
-
-Kubilai  Khan,  favored  bv  Hulagu,
-283;  son  of  Tului,  309',  318;  re-
-ceives  Honan  from   Mangu,   325;
-
-
-returns  to  Mongolia,  326 ;  popular
-in  China,  327;  accepts  conditions
-offered  by  Kiase  tao,  332;  urged  to
-proceed  to  Kurultai,  333;  meets
-Arik  Buga's  army  in  Middle  Shen
-si,  334;  goes  to  Kai  ping  fu,  335;
-attacked  by  Arik  Buga,  336,  337,
-338;  decides  to  conquer  all  China,
-339;  his  envoys  imprisoned,  340;
-delays  war,  341;  assembles  troops,
-342;  exercised  by  war  in  his  own
-family,  344;  issues  a  rescript,  345;
-sends  an  embassy,  348;  writes  to
-Li  ting  shi,  355;  summons  Bayan
-from  South  China,  357,  358;  re-
-solves to  subdue  China,  361 ;  forces
-Burma  to  pay  tribute,  363 ;  plans
-second  attack  on  Japan;  con-
-quers Tung  king,  364;  drops  his
-campaign  against  Java,  365;  sur-
-prises the  army  of  Tob  Timur,  366 ;
-crushes  Nayan,  368;  leaves  Shang
-tu,  369;  needs  money,  371,  372;
-his  death,  373;  his  capital  and
-palace,   374.
-
-Kuichu,  found  in  the  Udut  camp  and
-given  to  Hoelun,  29;  Jinghis  Khan
-rewards  him,  70.
-
-Kuku  Timur,  son  of  Chagan,  404,
-406,  407,  408,  409,  410,  411.
-
-Kuluk    Khan,     see    Khaishan,   385.
-
-Kutula,  fourth  son  of  Kabul,  12;
-assembles  warriors,  13;  attacked
-by  Durbans,   14;    blood  feud,  15.
-
-Kuku  Timur,  besieges  Y  tu,  404;
-opposes  the  heir,  408,  409;  his
-death,  411.
-
-Kung  yuan  tse,  descendant  of  Con-
-fucius, 301;  sent  to  Subotai,
-305.
-
-Kurguz,  Chin  Timur's  chancellor,
-186;  summoned  to  Mongolia,  187;
-sent  to  make  a  census;  explains
-accusations  made  against  him,  187;
-causes  the  death  of  Ongu;  rules
-west  of  the  Oxus,  189;  protects
-Persians  asjainst  Mongols;  is  killed
-by  Kara  Hulagu,  191.
-
-Kushala.  son  of  Tob  Timur,  386,
-388.  3S9;  distrusts  his  brother;
-poisoned  at  a  feast,  390,  392,  394,
-395.
-
-Kutb  ud  din,  nephew  of  Borak.  tries
-to  usurp  power;  ex>ps  to  Kurultai;
-obtains  throne  of  Kerman;  kills
-Rokn  ud  din,  195.  196.
-
-Kuridai,  warns  Temudjin  of  a  plot  to
-kill  him,  45.
-
-
-420
-
-
-Index
-
-
-Ivirja  Kuz.  father  of  Wang  Khan
-(Togrul),  4o.
-
-Ku -h  Timur  leads  Bagdad  forces,
-149;     killed.     150.
-
-Kutuz,  general  of  Eibeg,  ruler  of
-ptj  259,  262;  his  origin;  be-
-comes master  in  Egypt,  263;  calls
-a  council;  decides  on  war,  268;
-sends  envoy  to  Syria.  269;  ad-
-dreesee  his  generals,  270;  wins  a
-ureal  victory;  names  his  lieuten-
-ants in  Syria:  leaves  for  Egypt;
-d  by  Beibars,  272.
-
-Kuvuk.  installed  Grand  Khan,  180,
-181,  182;    his  death.  182.
-
-Kwaresmian  Shall.  Bee  Shah  Mo-
-hammed and  Shah  Jelal  ud  din.
-
-Kwan  sien  seng,  captures  Shang  tu,
-104.
-
-Liau  fu  tong,  chief  of  the  Sung  pre-
-tender. 397;  proclaims  Han  [in
-ulh.  399.  400;  seizes  Kai  fong  fu,
-401;    escapes  to  Ngan  fong,  403;
-
-slain,  406.
-
-Lien  hi  bien,  a  Uigur,  Arik  Buga's
-best  general,  33  I.
-
-Li  ting  shi.  tries  to  rescue  his  Em-
-peror. .'J>.">.">:  rescued  from  drown-
-ing, and  slain,  356.
-
-Li  tsong,  Sung  Emperor,  311,  312;
-bis  death,  341,  358.
-
-Liu  kara  Buga,  a  Mongol  general,
-lt)l.
-
-Liu  sin  fu.  minister  of  the  Sung  Em-
-peror,  357,  358.  359.
-
-Lin  wen  hoan,  minister  of  Sung  Em-
-peror. 3  1 3;  surrenders  Siang  yang,
-;  I.  345,  346,  348,  351.
-
-Lyuko,  prince  of  Kitan  dynasty,
-joins  Jinghis,  84,  85.
-
-14  ihmud,  successor  of  Sindjar,  210.
-
-Ma  ki.  governor  of  Kuang  si,  resi
-the  Mongols,  3
-
-M  ••nun.  sun  of  Harun  al  Rashid,
-makes  an  effort  to  unite  the  Alyites
-and  /         ids,  202.
-
-Ifai  •!   of  Tului;     hi"  brothers,
-
-318;  election  declared  illegal,  319;
-fe  •  of  in  '  illation ;  plol  against
-hi"  life.  320;  Heal b  of  his  mother,
-322;  goes  to  Kara  Kurum:  kills
-his    cousin,     323;     has     Ogotai's
-
-frandson     drowne  I,     323 :     a
-[on  KubuaJ    Khan.    325;
-
-makes    ready    to    march    ag
-the  Sung   Empire,   327;    sets  out
-
-
-for  the  Sung  Empire,  328;  gives
-a  preat  feast,  329;  his  death,  330,
-331;    wife  and  sons,  333.
-
-nfangu  Timur  of  the  Golden  Horde,
-descendant  of  Juchi,  365;  sov-
-ereign of  Kipchak,  366,  307
-
-Mansur,  son  of  Eibeg  of  Egypt,  262;
-imprisoned  by  Kutuz,  263.
-
-Mao    kwe.    <•  ramander    of    the    Sung
-
-forces,  401 :    his  death,  402.
-
-Massud,  Seljuk  Sultan,  takes  author-
-ity from  Abbasid   Kalifs,  2
-
-Melik  Salih  Ismail,  son  of  Bedr  ud
-din  Lulu;  marries  the  daughter
-of  Jelal  ud  din,  last  Shah  of  Kwai-
-esm,  260.
-
-Melik  Shah,  Seljuk  Sultan,  93;    jiives
-an  of  lice  to  Hassan  Ben  Sabah,  207,
-208,  209;    alarmed  by  the  defe
-his     troops.     210;      murdered     by
-Hassan  Ben  Sabah's  Assassins,  211.
-
-Melik  Timur,  son  of  Arik  Buga,
-partisan  of  Ananda,  384;  mur-
-dere  1,  3X5.
-
-Merkit.  clan,  the  peoj)le  from  whom
-Boelun,  the  mother  of  Temudjin,
-was  stolen,  16;  avengethe  kidnap-
-ping. 27;  hunted  by  Wang  Khan
-and  Temudjin,  28.  29,  30,  19,  56,
-58,  62,  63,  64.  65.
-
-Merv.  attacked  by  Tului's  army,
-122;  invested:    sun  slaugh-
-
-ter of  its  citizens,  123;  re*
-peopled,  128;  again  destroyed,
-129.
-
-Mien  yang,  taken  by  Sin  chiu  hwei,
-lost  to  the  Mongols,  399.
-
-Mingan,     a     distinguished     Chinese
-general,    84;      praised    for
-work,   87.
-
-Rling  yu  chin,  a  new  Emperor,
-pears  in  Su  chuan,  405;  nis  death,
-109.
-
-M>  .izzam.    Print  6    of    Aleppo.    ref>
-
-orrender  the  city,  264;  Aleppo
-
-royed,  '•),'"'•
-Mohammed,  Shah  of  Kwaresm.  with-
-draws from  subjection  to  (hiluku
-ruler  in  Kara  Kitai.  90,  91:  In-
-vades 'he  lands  of  the  Gurkhan,
-Q4;  is  defeated,  95j  kills  Lis
-brother.    96:      resolvei    to    destroy
-
-the   Abbasid    Kalifat,  97;    an
-toward  Bagdad.  98;    receive*  en-
-
-rTnghlS,  100;    lus  mother,
-
-101;    assembles  a   large  army  at
-
-.arkand.    103:     alarmed    at    the
-approach  Of  the  Mongol  army,  104,
-
-
-Index
-
-
-421
-
-
-105;  chased  by  thirty  thousand
-men,  112,  113,  114,  115;  suffering
-from  pleurisy  and  weakness,  takes
-refuge  on  an  island,  117;  his
-death,  117.
-
-Mohammed  of  Nessa,  the  historian,
-161;  describes  appearance  of  Jelal
-ud  din,  171.
-
-Mohammed  II  of  Alamut,  son  of
-Hassan  II,  avenges  the  death  of  his
-father;  preaches  the  doctrine  of
-license,  crime,  and  vice,  234;  death
-from  poison,  239.
-
-Monalun,  mother  of  Katchi  Kyuluk
-and  Nachin,  7;  quarrels  with  the
-Jelairs;    is   murdered  by  them,  8.
-
-Mongith,  Prince  of  Karak,  288;
-murdered  by  Hulagu,  288.
-
-Mostansir.  Fatimid  Kalif  at  Cairo,
-160,  161,  206,  208,  209.
-
-Mostassim,  Kalif  in  Bagdad  in  1257;
-his  answer  to  Hulagu's  summons
-to  level  the  walls,  247;  advised
-to  send  gifts  to  the  Mongols,  248,
-249;  refuses  to  visit  Mongol  camp,
-250;  bound  to  his  destiny,  252;
-begs  for  the  lives  of  his  family,
-253;  murdered  by  Hulagu,  254,
-274.
-
-Mostershed,  the  twenty-ninth  Ab-
-basid  Kalif,  223;  marches  against
-Seljuk  Sultan,  224;  killed  by  the
-Assassins,  224.
-
-Mozaffer,  son  of  Bedr  ud  din  Lulu,
-given  Aleppo,  271.
-
-Mozaffer,  son  of  Said  of  Mardin,
-rewarded  by  Hulagu,  275.
-
-Muavia,  governor  of  Syria,  made
-Kalif  to  overthrow  Aly;  wins
-Egypt  as  first  Ommayad  Kalif.  197;
-sole  Kalif  of  Islam,  198;  forces
-the  election  of  Yezid;  his  death,
-199:   exile  of  his  descendants,  202.
-
-M.ikuli,  a  Jelair,  given  to  Temudjin
-
-i,  bjr  his  (Mukuli's)  father,  39;  re-
-warded by  Jinghis,  67,  68;  re-
-warded beyond  all  other  generals,
-88;  reenters  China,  136;  his
-death,  136.
-
-Munlik,  son  of  Charaha,  goe3  after
-Temudjin  when  Yessugai  is  dying,
-18,  33 ;  marries  Temudjin's  mother,
-35;  gives  Temudjin  advice  which
-saves  his  life,  52;  is  rewarded
-by  Jinghis,  72:  one  of  his  seven
-sons  killed  by  Jinghis,  74,  75.
-
-Mystislav,  Russian  prince,  defeated
-at  the  Kalka,  135.
-
-
-Nachin,  uncle  of  Kaidu,  7,  8,  9.
-
-Nassir,  Kalif  of  Bagdad,  ascends
-the  throne,  96,  97;  strengthens
-Bagdad,  149;    his  death,  160.
-
-Nassir  Salah  ud  din  Yusseif,  descend-
-ant of  Saladin,  180,  257;  rules
-Syria;  undertakes  to  drive  Eibeg
-from  the  Egyptian  throne,  258;
-envoys  received  by  Hulagu,  259;
-concludes  a  treaty  with  Mogith,
-260,  261;  alarmed  by  the  ap-
-proach of  the  Mongols,  262;  re-
-ceives a  letter  from  Kutuz,  263;
-hears  of  the  sack  of  Aleppo,  265;
-betrayed,  and  seized  by  the  Mon-
-gols, 267,  269,  273.
-
-Nassir  ud  din,  vizir  of  Turkan
-Khatun,  mother  of  Shah  Moham-
-med, exercises  authority  in  spite
-of  Mohammed,  103.
-
-Nassir  ud  din,  famous  astronomer,
-244.
-
-Naur,  murders  the  grandfather  of
-Wang  Khan  (Togrul),  40.
-
-Nin  kai  su,  Kin  Emperor,  295,  300;
-accepts  every  condition,  301;  aban-
-dons the  capital,  303;  sets  out  to
-make  Tsai  chiu  his  capital,  306;
-loses  courage,  3Q7;  makes  one
-more  attempt  to  s"ve  himself,  308;
-yields  the  throne  to  Ching  lin;
-hangs  himself,  309.
-
-Nishapur,  twelve  days'  journey  from
-Merv,  attacked  by  Tului,  124;
-city  occupied,  125.
-
-Nizam  ul  Mulk,  student  at  the  Nisha-
-pur school  of  Movaffik,  206;  first
-statesman  of  his  period,  207;
-Nizam's  own  statement;  killed
-by  Hassan  Ben  Sabah,  211.
-
-Nogai,  Berkai's  commander,  283,
-surprises  Hulagu's  men,  284 ;  forced
-to  retreat ;  is  wounded,  294.
-
-Nur  ed  din.  Prince  of  Damascus,
-receives  command  from  the  As-
-sassins, 217;  son  of  Zenky,  226;
-rules  the  Syrian  province,  228 ;
-conquers  Haram;  receives  news
-of  the  advance  of  Amalric.  King
-of  Jerusalem,  229;  sends  Shirkuh
-to  Egypt,  230;  wishes  to  abolish
-the  Fatimid  Kalifat,  231;  sees
-with  alarm  the  growing  influ-
-ence of  Saladin,  236;  his  death,
-237.
-
-Nusrat  i  kuh,  in  the  Talekan  district,
-defends  itself  for  six  weeks,  121;
-no  living  soul  is  spared,  122.
-
-
-422
-
-
-Index
-
-
-Obeidallah,  governs  in  Bussorah;
-kills  Muslim.  200;  insists  on  abso-
-lute surrender  of  Hussein,  201;
-slavs  Hussein  and  his  followers,
-202.
-
-Obeidallah,  son  of  Mohammed  Al-
-habib,  summoned  to  Africa  by
-Abdallah;  imprisoned;  rescued
-by  Abdauah;  made  the  first  Fati-
-mid  Kalif,  205.
-
-Ogotai,  is  wounded,  r>5;  is  given  the
-wife  of  Tukta  liijlii.  64,  71;  goes
-wiili  Jinghis,  his  father,  to  China,
-83;  placed  in  command  at  Otrar,
-105;  given  oommand  at  Urgendj,
-120;    senl    to   take  Ghasni,    128;
-
-r> ives  his  inheritance,   141,   143,
-
-144;  Borak  sends  him  the  bead
-of  Ghiath.  158;  receives  the  bo  ly
-of  Shah  Mohammed,  161,  164;
-Tamara  of  Georgia  visits  his
-court,  176;  receives  Kelilat,  185;
-gratified  by  a  visit  from  the  princes
-of  Iran.  1st),  1S7;  receives  presents
-from  Kutuz.  188;  commands  to  raise
-up  Khorassan,  19'),  191.  1 93 :  gives
-command  over  Chinese  troops  to
-three  generals  of  that  race,  295;
-master  of  Shen  si,  296,  297;  re-
-ceives a  message  from  Tului  in
-Honan,  29s ;  visits  Tului.  299;
-master  of  all  places  around  Kin
-capital,  300;  asks  for  host.
-301;  alliance  with  Sung  Em-
-peror, 307;  returns  to  Kara
-Kurum,  309;  holds  a  great  Ku-
-rultai,  310;  recalls  Subotai,  312;
-!i  of  Kutchu,  his  favorite  son,
-312;  passes  his  time  in  hunting
-and  drinking,  31 1:  falls  ill;  his
-death,  315;  his  widow  assembles
-a  Kurultai;  the  influence  of  Ye
-liu  elm  tsai,  31  I,  316.
-
-Ogul  Gaimish,  Kuvuk's  widow,  319;
-pul  to  death,  323.
-
-Olnn  Barka,  son  of  Kabul,  13,  l  l.
-
-tribe  living  near  the  Great
-Wall  of  China,  62.
-•n  River,  its  source,  2,  4.
--  of  Templars,  220.
-
-Daman,  ruler  of  Samarkand,  makes
-an  a: lack  r,n  the  Qurkhao  of  Kara
-Kitai;  wins  a  victory;  kills
-Kwaresmians;     death    caused    by
-
-his   Wife,    05.
-
-Pa  pu  hwa.  a  eunuch,  keeps  To^an
-1'imur    under    his    evil    influ*
-
-
-403,    406;    Tu    kien    delivers    his
-sovereign  from  the  traitor,  407.
-
-Peyao,  daughter  of  Yang  Tiraur,
-marries  Togan  Titnur,  392;  mur-
-dered by  Peyen,  393,  394.
-
-Peven,  first  minister  of  Togan  Timur,
-discovers  a  plot  to  assassinate  the
-Grand  Khan,  393;  kills  the  Em-
-press Peyao,  394;  his  downfall
-and  exile,  394.
-
-Polo  Timur,  governor  of  Tai  tung,
-quarrels  with  Chagan  Timur,  403;
-strives  to  capture  Tsin  ki;  refuses
-to  yield  up  command,  406;  rein-
-stated in  oilice,  407;  puts  to  death
-Tolo  Timur;  despair  over  the
-defection  of  his  best  general,  ins;
-his  head  sent  to  the  heir  of  To
-Timur,  408.
-
-Polovtsi,  a  tribe  akin  to  the  Mongols;
-befriend    the    Mongols;      are    be-
-trayed and  slaughtered,  133;  a
-with  terror,  they  desert  their  allies
-at  the  Kalka,  134,  135.
-
-Risvan,  Prince  of  Aleppo,  a  friend
-of  the  Assassins,  214;  loses  Apa-
-mea;  reproached  by  Syrian
-princes;   his  death.  215.
-
-Rokn  ud  din,  son  of  Shah  Moham-
-med, holds  Persian  Irak,  113;
-slain  by  Mongols,  1 15.
-
-Rokn  ml  din  Kelidi  Arslan,  son  of
-Kei  Kosru.  sovereign  of  Rum,  181  ;
-his  partisans,  ls_>;  receives  the
-land  west  of  the  Sivas;  installed
-as  Sultan.  1S3;  receives  news  of
-his  father's  death;  ■  isjts  OgO
-asks  asylum  of  the  Kalif;  his
-death.  19").
-
-Rokn  ud  din,  son  of  Alai  el  din,
-Grand  Prior  of  he  Assassins.  240;
-made    heir;      O]  his    father;
-
-causes     the     assassination    of    his
-father.    241;     demolishes    castles
-and  gives  the  Moa  ols  assurao
-of  obedience,   242;    is  (riven  five
-
-days     for    surrender.     243j      visits
-
-Hulagu;  marries  a  Mong  'i  woman;
-goes  to  Mongolia;   his  death,  245.
-Rusudan,   Queen   of   Georgia,    159;
-finds  an  asylum  in  [meretia,  175;
-
-refuses    to    leave    I'saneth:     sends
-
-her  son  as  hostage  to  Batu,  179;
-
-attacked  by  King  David;  recom-
-mends her  son  to  Batu,  Khan  of
-the  Qolden  Horde;  takes  poison
-and  dies,  180.
-
-
-Index
-
-
-423
-
-
-Sain  Tegin,  brother  of  Kulku  Goa,  11 ;
-falls  ill  and  dies;  the  shaman  is
-killed,  and  the  family  involved
-in  a  blood  feud,  12.
-
-Saladin,  son  of  Eyub,  226;  his  birth,
-227;  goes  to  Egypt;  is  left  in
-command  at  Alexandria,  229;
-plot  against  his  life,  230;  becomes
-vizir  of  the  Kalif,  231;  delivers
-the  blow  which  destroys  the  main
-branch  of  the  Western  Ismailites,
-231;  takes  possession  of  the  Sul-
-tan's palace;  finds  a  splendid
-library,  236;  strengthens  fortifi-
-cations, 237;  goes  to  Aleppo;
-strong  champion  of  the  Abbasids;
-occupies  Emesa  and  Baalbek,  238;
-determines  to  destroy  the  Assas-
-sins; returns  to  Cairo,  239.
-
-Salah,  son  of  Bedr  u<j  din  of  Mosul;
-letter  stolen  by  lbn  Yunus;  goes
-to  Syria;  wife  defends  Mosul,  278;
-goes  to  Egypt;  returns  to  Mosul,
-279;  surrenders  to  Hulagu,  280;
-killed  in  a  terrible  manner,  281.
-
-Salih,  son  of  Nur  ed  din,  is  taken
-to  Aleppo,  237,  238.
-
-Samdagu,  commander  at  Mosul,
-279;  receives  reinforcements  from
-Hulagu;  terms  of  surrender,  280;
-marches  on  Jeziret;  kills  Gubeg,
-281.
-
-Sanga,  a  Uigur;  minister  of  Kubilai,
-372;  his  dishonesty  discovered;
-killed  by  Kubilai,  373.
-
-Sankor,  grandson  of  Salgar,  estab-
-lishes himself  as  master  in  Fars,
-147.
-
-Sarban,  son  of  Jagatai,  favors  Tok
-Timur  for  Grand  Khan,  3G6;
-offered  the  throne  by  Tok  Timur;
-deserted  by  his  troops;  taken
-captive,  escapes  to  the  Emperor,
-367
-
-Sarta!:.  son  of  Batu  Khan  of  the
-Golden  Horde,  sai  1  to  be  a  Chris-
-tian. 1S4:  succeeds  his  father  in
-1255;  his  death.  282.
-
-Sengun  Bil^he.  grandson  of  Kaidu,  9;
-given  rule  bv  Kabul,  10;  father
-of  Ambaetai.  12.
-
-Sengun.  son  of  Wang  Khan,  defeate  1
-by  Seirak.  42;  saved  by  Bodrchu;
-secluded  from  earliest  inheritance
-by  Temudjin,  43;  his  son,  Kush
-Buga;  his  fear  and  hatred  of
-Temudiin,  50;  goes  for  counsel,
-51;    plots  to  kill  Temudjin,   52;
-
-
-defeated  and  wounded  in   battle,
-54;    his  answer  to   message    from
-Temudjin,  58,  60;    his  death,  61.
-Seyid  Edjell,  an  adherent  of  Islam,
-chief    minister    of     Kubilai,     cele-
-brated for  probity;    his  death,  370.
-Shawer,    vizir    under    the    Egyptian
-Kalif;   his  struggle  with  Dargham,
-228;    alliance   with  Amalric,  229;
-feels  his  danger,  230;   killed,  231.
-Shems  ud  din  Iletmish,  once  a  slave;
-seizes    a    part    of    India;     refuses
-shelter  to  Jelal  ud  din,  Sultan  of
-Kwaresm,   146.
-Shems   ud   din    Mohammed,   son    of
-
-Abu  Bekr;   reigns  in  Herat,  194.
-Sherif  ul  Mulk,  Jelal  ud  din's  vizir,
-a  traitor;     offers   homage  to   Kei
-Kubad  and  Ashraf,  165;    tortures
-Kwaresmian   officers;    his  treason
-discovered    by   Jelal,    166;     killed
-by  order  of  the  Sultan,  167.
-Shireki,  son  of  Mangu,  accepts  Tok
-Timur's  offer  of  the  throne;   de-
-feated, 366;    his  exile  and  death,.
-367.
-Shihab  ud  din,  fourth  sovereign  of  the
-
-Gur  dynasty,  96.
-Shirkuk,     uncle    of    Saladin,    made
-governor  of  Emesa,  228;    goes  to
-Egypt;    fortifies  Belbeis;  alarmed
-by  strength  of  combined  armies,
-229;    withdraws  from  Egypt;    ap-
-pears before  Cairo  a  second  time,
-230;  becomes  vizir ;  his  death,  231.
-Sidje  Bighi,  chief  of  the  Barins,  with-
-draws from  Temudjin,  35.
-Sinan,  Grand  Prior  of  the  Assassins
-in    Syria,     assists    Gumushteghin
-in  a  plot  to  kill  Saladin,  238,  239.
-Sindjar,  Sultan  of  the  Seljuks,  sends
-troops   to   take    Ismailian  castles,
-217;  receives  a  threatening   letter
-from    Hassan     Ben     Sabah,    217.
-Sinkur,  a  descendant  of  Juchi  Kassar,
-commands  the  right  wing  of  Hu-
-lagu's  army,  260.
-Siu  chiu   hwei,    a   rebel  chief;    pro-
-claimed   Emperor;     calls    his    dy-
-nasty Tien   wan,    297;    master  of
-Wu  chang,  399 ;  wishes  to  transfer
-his    capital     to     Nan     chang    fu;
-beaten  to  death  by  Chin  yiu  liang,
-402.
-Siur    kukteni,    wife    of    Tului    and
-mother    of    Mangu,   Kubilai,    Arik
-Bua:a  and  Hulagu,  317,  318;    her
-death,  322.
-
-
-424
-
-
-Index
-
-
-Sorgan  Shim,  saves  the  life  of  Te-
-mudjin, 21;  places  Temudjin  in
-a  carl  piled  high  with  wood,  22,
-23  46,47;  his  son,  64;  is  rewarded,
-71.
-
-Subotai,  called  the  Valiant,  32;
-sent  by  Temudjin  to  seize  the  sons
-of  Tukta  Bijhi,  65;  rewarded  for
-services,  69;  sent  the  second  time,
-kills  the  two  young  men,  88,  114;
-sacks  Ravi,  116,  132,  299;  sent
-to  subdue  Kin  capital,  300j  with-
-draws: attacks  the  capital  a
-second  time.  302,  303;  sends  the
-Empresses  to  Mongolia,  305.
-
-Su  ta.  general  of  Chu  yuan  chang,
-attacks  (hang  si  ching,  408;  wins
-a  great  victory;  captures  Chang
-si  ching,  409;  marches  to  the
-Kerulon  River.
-
-Sutu,  a  Mongol  commander,  356;
-sends  his  son  to  Shang  tu,  357;
-moves  against  King  of  Cochin
-China ;  returns  to  Canton,  362,  363 ;
-perishes  at  Kien  moan  River,  364.
-
-Sue  sue,  a  man  whose  influence  in-
-jures the  Grand  Khan  Togan
-Timur,  398,  400.
-
-Tache,   Mongol  leader,   defeated  by
-
-Liau  fu  tong,  399.
-Tadji  Baku,  one  of  the  commanders
-
-sent  against  Jelal  ud  din,  154.
-Taibtengeri     (see     Kokochu),     puts
-
-a  saddle  on  Temugu,  73;    is  killed
-
-by  Temugu,  74.
-Taidjuts,    descendants   of   Ambagai,
-
-9;     kill    sons    of    Kabul,    15,    20;
-
-capture    Temudjin,    21,    22,     23;
-
-attack  Temudjin,  26,  30.  33,  34,  44.
-Taimulon,  sister  of  Temudjin,  17.
-Talaiguta,    gives    his    grandchildren,
-
-Mukuli  and  Buga,  to  Temudjin,  39.
-Tang  dynasty,  its  duration,  2,  79.
-Tangut.    made    to   pay   tribute,    75;
-
-b  disorders  break  out,  77.
-Ta  san  kuan,  a  fortress  belonging  to
-
-the  Buna  Emperor,  is  captured  by
-
-Tului,  297.
-Tatehar,  son  of  Boroul.  one  of  Jinghis
-
-Khan's  great  heroes,  307,  308  309.
-TatunL'"     ■    Uigur   of   learning,    1'ai-
-
-buka'i    seal     keeper,     taken    by
-Temudjin;      teacnee     Temudjin  s
-
-pons,  63.
-Tekoari,  son  of  Abaki,  the  first   Kit  an
-ruler;     secures    the    throne    for    a
-Chinese  rebel,  79;    makes  war  on
-
-
-this    rebel's     successor;     captures
-him;  calls  his  dynasty  "  Liao,"  80.
-
-Temudjin  Uge,  a  Tartar  chieftain
-from  whom  Temudjin  (Jinghis
-Khan)     received    his     name,     17;
-
-Temudjin,  his  birth,  17;  finds  a
-bride,  18;  his  character,  20;
-seized  by  Sorgan  Shira,  22;  wife
-stolen  by  Merkits,  27;  recovers
-Bortai,  28;  is  joined  by  Jelairs;
-vision  of  Horchi,  30;  is  made
-Khan;  appoints  officers,  31;  an-
-nounces his  accession  to  Togrul
-and  Jamuka,  32;  attacks  Jamuka,
-33;  boils  his  prisoners;  joined
-by  several  tribes;  strengthens
-position  by  marriages,  35;  quarrel
-at  a  feast,  35;  tries  to  win  Ja-
-muka, 36;  marches  against  Nai-
-mans,  41;  deserted  by  Wang
-Khan;  aids  Wang  Khan,  42;  con-
-versation with  Wang  K
-adopted  by  Wang  Khan,  43;
-wounded  in  battle,  46;  is  saved
-by  Chelmai,  46;  saves  daughter
-of  Sorgan  Shira;  moves  against
-Tartars,  47;  punishes  uncles  and
-cousin  for  disobedience;  excludes
-Belgutai  from  council,  48;  mar-
-ries Aisugan,  19;  asks  Wang
-Khan's  granddaughter  for  Juehi,
-55;  assembles  forces  at  Kalanchin;
-reviews  army,  55;  sends  a  mes-
-sage to  Wang  Khan,  56;  sends
-message  to  Jamuka,  57;  defeats
-Wang  Khan,  59;  struggle  with
-Baibuga,  62;  takes  Kulan  Khatun
-as  wife,  63 ;  passes  the  winter  near
-the  Altai  mountains,  64;  kills
-Jamukc;  takes  the  title  Jinghis
-Khan,     67.      See     Jinghis     Khan.
-
-Timur,  son  of  Chingkin,  given  com-
-mand  by  Kubil  d,  his  grandfather,
-369;  given  a  banquet  by  Bayan,
-:<7H;  chosen  by  Kubilai  as  suc-
-cessor. 376;  Bayan  declares  for
-him,  M77:  commands  Seitchaur  to
-march  into  Mien  tien,  378,  379,
-3S0.  381  ;    his  death  at  T  |  tu,  383.
-
-Tob  Timur.  son  of  Kuluk  Khan.  388,
-389;  sends  messengers  to  his
-brother;  is  informed  by  Kushala
-that  the  throne  will  l>e  his  in  suc-
-cession, 390;  made  ESmperor  a
-md  time  after  the  murder  of
-Kushala,  H90.  391;  favors  Bud-
-dhism. .",',» 1 ;  l>ecomes  a  nonentity;
-his  death,  392.
-
-
-Index
-
-
-425
-
-
-Togachar,  son  of  Jinghis  Khan's
-youngest   brother,    122,   328.   338.
-
-Togan,  son  of  Kubilai,  ordered  to
-march  to  Cochin  China,  363,  364;
-is  punished  by  the  Emperor,  365.
-
-Togan  Taissi,  uncle  of  the  Kwaresm
-Shah,  Jelal  ud  din,  moves  on  Azer-
-baidjan;  surprised  by  Jelal  ud  din,
-150;  sends  his  wife  to  make  peace ;
-chosen  as  a  ruler,  156.
-
-Togan  Timur,  son  of  Kushala,  mar-
-ries Peyao,  daughter  of  Yang
-Timur,  392;  made  sovereign,  393;
-allows  Peyen  to  kill  the  Empress,
-394;  removes  Tob  Timur's  tablet
-from  Hall  of  Ancestors,  394;
-causes  the  annals  of  the  Liao,  Kin,
-and  Sung  dvnasties  to  be  com-
-pleted, 396,  398,  403;  makes  Polo
-Timur  commander-in-chief,  407;
-terrified  by  Chinese  conquests;
-his  death,  410.
-
-Togha  Timur,  brother  of  Batu,  Khan
-of  the  Golden  Horde,  223.
-
-Togrul,  Khan  of  the  Keraits,  his
-origin,  39;  implores  aid  of  Yes-
-sugai,  40;  deceived  by  Jamuka,  41.
-See  Wang  Khan.
-
-Toktagha,  Togan  Timur's  first  minis-
-ter, 395;  tires  of  court  life;  is
-exiled;  Tai  ping  obtains  his  recall,
-396,  397;  leads  Honan  troops,
-398;  is  accused  of  dishonesty;
-exiled,  399.
-
-Tok  Timur,  officer  in  Kubilai's  army,
-366;  wishes  to  put  Shireki  on  the
-throne;  is  defeated;  seized  by
-Shireki ;  his  death,  367.
-
-Tsui  li,  seizes  Kin  capital;  proclaims
-Wa  nien  tsung  regent;  sends  the
-keys  of  the  city  to  the  Mongols,  304.
-
-Tuguchar,  left  by  Jinghis  to  guard
-home  lands,  83.
-
-Tu  kien  Timur,  sent  against  Ali  hwei
-Timur,  403;  is  defeated,  404;
-enemies  seek  to  destroy  him,  406,
-407.
-
-Tukta  Bijhi,  chief  of  the  Merkits.  27;
-death  of  his  son,  41;  rouses  the
-Taidjuts  against  Temudjin,  44;
-moves  against  Temudiin.  49:  pur-
-sued by  Jinghis,  63;   his  death.  64.
-
-Tukus  Timur,  becomes  Grand  Khan
-in  1378;  defeated  by  the  Chinese;
-assassinated,  411.
-
-Tula  River,  its  source,  2.
-
-Tului,  saved  by  Boroul's  wife.  71;
-goes  to  China,  S3;    receives  com-
-
-
-mand to  march  on  Khorassan,  122;
-wastes  the  country  and  returns  to
-Jinghis;  destroys  Merv,  123;  his
-cruelty;  moves  against  Nishapur,
-124,  125,  131,  132;  inherits  home
-places,  138,  141,  142,  296;  follows
-the  plan  traced  out  by  Jinghis
-on  his  death-bed;  enters  Kin
-regions,  297,  298,  299,  300;  re-
-turns to  Kara  Kurum;  his  death,
-309.
-
-Tumbinai,  ancestor  of  Jinghis  and
-Tamerlane,  9,  10,  58.
-
-Tung  Kwan,  a  fortress  on  the  Honan
-border,  296;  betrayed  and  sur-
-rendered, 300.
-
-Turkan  Khatun,  mother  of  the  Kwar-
-esm ruler,  Shah  Mohammed,  101,
-102;  leaves  Kwaresm;  puts  to
-death  many  princes;  captured
-and  taken  to  Jinghis,  118;  com-
-manded to  look  at  her  country  for
-the  last  time,  136.
-
-Tu  tsong,  Sung  Emperor,  344;  suc-
-ceeded by  Chao  hien,  345,  358.
-
-Uigurs,  40;  their  language,  63;  their
-territory,  75;  their  yearly  tribute,
-76;  their  envoys  received  with
-honor,  77,  89;  cease  to  pay  tribute
-to  Kara  Kitai,  90;  the  Idikut
-meets  Jinghis,  104,  325,  366,
-412.
-
-Ulakchi,  son  and  successor  of  Sartak
-the  son  of  Batu  of  the  Golden
-Horde,   282.
-
-Uns  Khatun,  last  of  the  Salgarid
-dynasty,  placed  on  the  Fars
-throne,  291 ;  marries  Mangu  Timur,
-son  of  Hulagu,  292.
-
-Uriang  Kadai,  son  of  Subotai,  325;
-left  to  master  southern  regions,
-326,  327,  328,  332,  333.
-
-Urut,  clan,  descended  from  Urudai,
-a  son  of  Nachin.  9,  33,  69.
-
-Utchugen,  a  title  given  Jinghis
-Khan's  youngest  brother,  Temugu,
-father  of  Togachar,  328,  367,  368.
-
-Utubu,  becomes  Emperor  of  China,
-85.
-
-Vanguru,   made  master  of  nourish-
-ment, 70.
-Vassaf,  a  historian,  380.
-
-Wang  Khan  (Togrul  up  to  page  38),
-receives  his  title,  38.  39:  his  grand-
-father,    40;  wins    a   victory    and
-
-
-426
-
-
-Index
-
-
-keeps  all  the  booty,  41;  deserts
-Temudjin;  is  forced  to  beg  for
-as^i  1_';   becomes    "  father  "
-
-to  Temudjin,  43;  marches  with
-Temudjin  to  the  Gobi  desert,
-44;  supports  lViuudjin,  49:  joins  a
-conspiracy  to  kill  Temudjin,  53;
-withdraws  from  the  battle-field,
-55;  receives  Juchi  Kassar's  mes-
-sengers, 59;  surrenders;
-is  killed  at  Didik,  80;  skull  made
-into  a  drmking-cup,  61.
-
-Wa  tin    murderer  of  Chagan
-
-Timur;  his  heart  torn  out  by  Kuku
-Timur,  Chagan's  adopted  son,  404.
-
-Wanien  Khada,  Kin  oommander,
-297;  forces  his  way  to  Yiu  chiu;
-is  captured  aud  brought  before
-Sobotai,  299.
-
-Wen  tien  siang,  made  first  minister,
-
-detained  by  Ha  van;    sent   to
-
-Kubilai;   escapee,  351;   recaptures
-
-Canton.  358;    begs  for  death;    is
-
-freed,  358.
-
-Yanj:  sai  yu  pwa,  Mongol  commander,
-assembles  troops  in  Su  chuan,  378.
-
-Yang  Tek  l  le    heir   by  Togan
-
-Timur.  :192,  393;  exiled  to  Corea,
-394,  395.
-
-Yai  :r.  son  of  Choahugur,  388;
-
-mirches   toward    Liao    tunu',    389;
-
-s  to  assist    Yang  Tekus,   ..'.'-'.
-
-393;    his  family  extinguished,  394.
-
-Yao  Bhu,  adviser  of  Kubilai,  327.
-
-Yassaur.    Mongol    oommander;     at-
-tacks Malattia,  180;  moves  air
-Alrimut,     -Ml;      leaves      Ismailian
-territory.   21 2.
-
-Ye  liu  chu  I  ii.  adviser  of  Jinghis  an  1
-11  bad,  112;  prevails  on  Oj;o';ii
-to  fix  rank  of  officers,  143;  B
-many  people,  305;  chides  Ogotai
-for  drinking,  31 1:  dies  of  grief,  316;
-•  ■■.  aed  as  a  faithful  adviser,  '■>' 7.
-
-Yeliu  Tashi,  founder  of  Kara  Kitai;
-'  o  tit],,  of  Qurkhan  of  Kara
-K.   ,i.  si;    his  death    90.
-
-Yes-'"i    Timur,    proclaii  i      Lsukeba
-and  h  1  'anoes  on  t  ho  capital,
-defeated;  captured  and  Blain,
-
-Y  o    son   of   Bartan,    10,    13;
-
-f-om    th"    Taidjuts,     1 "
-kidnaps  Hoelun,    16,   17;    •
-
-K).
-Vend,   son  of   Muavia;     heir  of   the
-
-
-Kalif,  19S,  199;  summons  Obei-
-dallah  to  Kufa,  200;  denies  con-
-nection with  plot  to  kill  Hussein,
-202.
-
-Yissu  Timur,  grandson  of  Boorohu;
-given  command  by  Kubilai,  368,
-369.
-
-Yissudar,  Mongol  commander  at
-Hamadan,  241;  assassinates  Tukus
-Timur.    111.
-
-Yissun  Timur,  son  of  Kainala,  pro-
-claims himself  Emperor  at  the
-Kerulon  River,  387;  enters  Ta  tu
-1323;  appoints  his  son  Asukeba
-heir;   <  1 1 •  -  —  at  Bhang  tu.  388.
-
-Yissuts,  a  Mongol  tribe  which  fought
-against  Temudjin,    92.
-
-Ylcchebe,    second    son    of    Kushala,
-made    Emperor  when   seven   ;
-of  age,  dies  soon  after,  392.
-
-Yshmut,  son  of  Hulagu,  sent  to  take
-Mayafarkin,     200,     273;     at1
-Mardin,  274;  meets  Berkai's  army,
-294.
-
-Yuelu  Timur.  3S9;  master  of  Shang
-tu,  390,  391;    his  death .  391.
-
-Yuult  lo,  the  third  Emperor  of  the
-Ming  dynasty,  advances  to  the
-Kerulon  River,  411.
-
-Yurungtash,  son  of  Mangu,  leader
-of  Kubilai's  forces  in  the  Altai
-Mountain  countn    337
-
-Y  wang,  half-brother  of  the  Sung
-E  i  eror;  his  title  changed  from
-Ki  wang  to  Y  wang.  350;
-made  chief  governor  of  the  Em-
-pire, 354;  made  Emperor  when
-nine  years  of  age,  365,  356;  has  no
-port   to  anchor  in  ;    hi     deal  h
-
-Yzz  ud  din.  son  of  Kei  KoBTU,  Sultan
-of    Rum.     181,    joins     in
-
--nt  v  his  brother,  Alai  ud  din,
-1  32;  oners  sul  mission  to  llulagu,
-183,  favored   by    Berkai,  286.
-
-Zahir,    son    and    successor   of   Kalif
-ir:      his     death,     when    nine
-months  in  office,  160.
-Zein  ud  din,  vizir  of  Kalif  I  "nt
-
-to   Hula-  l.    259;     insulted   by   l'<  i-
-
-bars,    262;     closes    the    gates   of
-265;     yields   power  to
-Mo  166.
-
-Zenky,  son  of  Ak  Bunkur  and  father
-of  Vur  ed  din.  22«". :  receives  high
-office,  227:  his  death,   228.
-
-
-,   Jer
-
-Is
-
-
-PLEASE  DO  NOT  REMOVE
-SLIPS  FROM  THIS  POCKET
-
-
-UNIVERSITY  OF  TORONTO
-LIBRARY

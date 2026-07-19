@@ -65,6 +65,399 @@ figures:
 
 # The Jataka; or, Stories of the Buddha's Former Births, Vol. III
 
+•ANCEl%
+
+
+Qlli
+
+
+I
+
+S     =
+
+ea  n   U    I  —       fC
+
+
+in*
+
+
+:aiifoP/i!^
+vaan#'
+
+
+aweunivers/a
+
+
+nVDJO"*^        '%J3KVS0V^
+
+
+<\WEUNIVER%
+
+
+^10SANCEI%
+^lOSANCEU"j;>
+
+
+<f5l3W^01^      %e\iN(l-]\^
+
+
+A^-UBRARYO^
+
+
+-5^tUBRARYQ^^
+
+
+^OFCAllFORi^
+
+
+^^A«vaan-#
+
+
+•ANCEIFXa
+
+
+VCa^tt
+
+
+^tUBRARYO^
+
+
+^HIBRARYQc^
+
+
+«^5MEUNIVER%
+
+
+^10S-ANCEI%
+
+9
+
+
+^OJITVDJO'^     %0inVDJO'^        '^J^UDNVSO^      %aiAiNftmv^
+
+
+;ANCEl£r»
+
+
+^OFCAIIFO%
+
+
+^OFCAUF0%
+
+
+'%«vaan-#'
+
+
+^5»EUNIVER%
+
+
+A^lOSANCEl^^
+
+t
+
+
+^(^Awaani^      '<<^3kvsoi'^    '^/smmv^
+
+
+IIIVD-JO'^
+
+:aiifo«i^
+waani^
+
+
+,5jflEUNi\ey/A
+
+
+Q
+
+
+^tUBRARYOc.      ^IIBRARY^A
+
+
+^J^DNvan'^    "^/JMAiMfl-iwv^      %0inv3jo=^    %ojnv3jo'^
+
+
+^^MEUNIVERJ/^
+
+
+"<f^3!)}JV«)l^
+
+
+A>:lOSANCE^r^
+
+
+■^AajAINfl-JWV^
+
+
+^OFCAllFOff^     ^OF-CAIIFOS';^
+
+
+^'ANCEl%         ^tUBRARYO^,      #UBRARY^;C.
+
+
+AWEUNIVER%      ^lOSANCElfjj>
+
+
+^OJITVDJO^
+^OFCAUFOM^
+
+
+PS
+
+
+^J5l]3NYS01^      "^/^aaAINMWs^
+
+
+AWEUfJlVER5"/A
+
+
+o
+
+
+^J^UONVSOl^      %a3MNft-3ft^^
+
+
+(J
+
+
+>&AavaaiH'^
+
+
+^.
+
+
+"^iHAINnmV^
+
+
+^HlBRARYQ/v
+
+<L3
+
+
+,5jAEUNIVERy/A
+
+
+^^^ojiivDjo^    %oimi^'^      '^smmm^
+
+
+I
+
+
+S     .:^
+
+
+v^lOSANCElfX^
+
+o
+
+
+"^SWAlNft-aUV
+
+
+^OFCAIIFO)?^
+
+
+"^^^MIH^
+
+
+^OFCAIIFO%,
+
+
+.^WEUKIVERy/A
+
+
+-^mwm^
+
+
+^lOSANCEL
+
+<3
+
+
+MtUBRARYOc.
+
+
+^WEUNIVERS/A
+
+
+^j^uoNvsm^
+
+
+^lUBRARY^^      ^^.
+
+
+^ojiwDjo^    ^.aojnvDj
+
+
+^OFCAUF0%
+
+
+,5ji\EUNIVER%
+
+
+^lOSANCElfj-^
+
+i
+
+
+^I^UDNVSm^
+
+
+99
+
+°^/Sa3AlNfl-3WV^
+
+
+^OFCAllFOff^      ^OFCAUFO
+
+
+'^omwB
+
+
+^10SAHCEI%
+
+
+^lOSANCEl^^
+
+
+^t-UBRARYQ^^
+
+
+^HIBRATO/:^
+
+
+"^iBAINaiVt^
+
+
+^OFCAIIFOM^
+
+
+^OF-CAUFOP;)^
+
+
+^<?Aaviian#'
+
+
+^^omm^
+
+
+\WEUNIVERS/A
+
+
+'<(^3NVS01^
+
+
+^1«\EUNIVER%
+
+
+'<l^30NVS01'v?
+
+
+^lOS-ANCEl
+
+g
+
+
+^lOSANCEl
+
+
+S     5
+
+
+^JjUBRARYOc^        <5yEUNIVER%      ^10SANCEI%         ^lUBRARYO^,      -c^tlIBRAR\
+
+
+THE    JATAKA
+
+
+OR
+
+
+STOKIES  OF  THE  BUDDHA'S  FOKMEK  BIRTHS
+
+
+aonDon:   C.  J.  CLAY  AND  SONS,
+
+CAMBEIDGE   UNIVERSITY   PEESS  WAEEHOUSE,
+
+AVE   MAEIA  LANE.
+
+©laggoto:  263,  ARGYLE  STREET.
+
+
+ILeipjifl:  F.  A.  BROCKHAUS.
+
+iJcto  loris:    THE  MACMILLAN  COMPANY.
+
+ISomiaa:    G.  BELL  AND  SONS.
+
+
+"""^T^-  h,  Je''-'  ^>y
+
+
+SCENE  FROM  THE  STUPA  OF  BHARHUT  ILLUSTRATING  JATAKA  383
+(from  Cunningham,  PI.  xlvii.  5).
+
+
+THE    JATAKA
+
+
+/,
+
+
+OR
+
+
+STORIES    OF    THE    BUDDHA'S
+FORMER    BIRTHS.
+
+
+TRANSLATED  FROM  THE  PALI  BY  VARIOUS  HANDS
+
+
+UNDER   THE   EDITORSHIP   OF
+
+
+PHOFESSOR     E.    B.    COWELL.
+
+
+VOL.     III.
+
+TRANSLATED     BY
+
+H.   T.   FRANCIS,   M.A.,
+
+LATE    FELLOW    OF    GONVILLE    AND    CAICS    COLLEGE,
+AND
+
+R.   A.   NEIL,   M.A.,
+
+FELLOW    OF    PEIIBEOKE    COLLEGE.
+
+
+CAMBRIDGE :
+AT   THE   UNIVERSITY     PRESS.
+
+1897
+[All  Eights  reserved.]
+
+
+i
+
+
+PRINTED   BY   J.   AND   C.   F.    CLAY,
+AT   THE    UNIVERSITY   PRESS.
+
+
+BL
+
+1411
+
+33  E5c
+
+V.  3
+
+
 PREFACE.
 
 This  volume  of  translation  corresponds  to  the  third  volume  of
@@ -3792,7 +4185,7 @@ felled  him  to  the  gromid.  This  case  of  imaginary  salutation  was  blaze
 the  Congregation  of  the  Brethren.  The  matter  was  discussed  by  them  in  the
 Hall  of  Truth,  as  to  how  the  leather-coated  mendicant  fancied  he  was  being
 saluted  and  met  with  his  death.  The  Master  came  and  inquired  the  subject  of
-their  discussion  and   jn  being  told  what  it  was  said,  "Not  now  only.  Brethren,
+their  discussion  and  <jn  being  told  what  it  was  said,  "Not  now  only.  Brethren,
 but  of  old  too  this  ascetic  imagined  he  was  being  saluted  and  so  came  by  his
 death,"  and  he  then  related  to  them  an  old-world  legend.
 
@@ -6367,7 +6760,7 @@ The  warrior  prince  a  well-weighed  verdict  gives,
 Of  righteous  judge  the  fame  for  ever  lives.
 
 [155]  The  king  of  Kosala  having  thus  gained  the  forgiveness  of  the
-Bo lhis:itta  iincl  given  him  back  his  kingdom,  departed  to  his  own  country.
+Bo<lhis:itta  iincl  given  him  back  his  kingdom,  departed  to  his  own  country.
 
 
 The  Master,  having  eudod  his  di.scoursc,  thius  identified  the  Birth:  "At  that
@@ -6385,7 +6778,7 @@ they  say,  he  went  about  lamenting,  quite  unable  to  shake  oft'  his  gr
 Master  i»crceivetl  in  the  man  a  capacity  to  atUiin  to  the  Fruit  of  Salvation,  and
 when  he  went  his  rounds  in  Savatthi  for  alms,  accompanied  by  an  attendant
 priest,  he  came  to  his  hou.se  and  sitting  down  on  the  seat  prepared  for  him  he
-b nvc'd  to  his  host,  who  wa.s  also  .se ited,  and  said,  "Lay  Brother,  art  thou
+b<nvc'd  to  his  host,  who  wa.s  also  .se<ited,  and  said,  "Lay  Brother,  art  thou
 grieving?"  and  on  his  ix'plying,  "Yes,  Reverend  Sir,  I  am,"  he  said,  "  PViend,
 sages  of  old  he«irkened  to  the  woi-ds  of  Wisdom,  and  when  they  lost  a  father,
 they  did  not  grieva"  And  at  the  request  of  his  host  he  told  a  story  of  the  olden
@@ -6424,7 +6817,7 @@ senses?  Why  do  you  offer  grass  and  water  to  the  aircase  of  an  ox?"
 And  hereupon  he  spoke  two  stanzas  : —
 
 Why  ha.sto  to  bring  thy  now-mown  grasH  ho  sweet.
-Anil  cry  to  lifelcH.s  lx; i.st,  'Arise  and  CJitW
+Anil  cry  to  lifelcH.s  lx;<i.st,  'Arise  and  CJitW
 
 No  fo(Ml  may  raise  to  life  an  ox  that's  dead,
 Thy  words  aro  idle  and  of  folly  brcti.
@@ -6493,7 +6886,7 @@ envy  he  plucked  out  his  eyes.  This  circumst^mce  became  known  in  the  
 of  the  Brethren.  Then  they  raised  a  discussi.jn  in  the  Hall  ot  Iruth,  saying,
 "Sirs,  young  prince  Bodhi  had  the  eyes  of  such  and  such  an  arti.san  put  out
 Sureli-  he  is°x  hai-sh,  cruel,  and  violent  man."  The  Master  came  and  asked  what
-wivs  the  topic  the  Brethren  were  debating   vs  they  .sat  together,  and  hearing  what
+wivs  the  topic  the  Brethren  were  debating  <vs  they  .sat  together,  and  hearing  what
 it  was  he  Lid,  "Not  n.nv  .iiily,  but  f..rnicrly  too  such  Wius  his  nature  and  of  old
 in  like  manner  he  i)Ut  out  the  eyes  of  a  thousand  warriors  and,  alter  .slaying
 them,  he  ottered  up  their  Hesh  jus  a  religious  sacriticc."  And  .so  saying  he  told
@@ -6537,7 +6930,7 @@ monarch  and  I  become  sole  priest  V  And  he  got  the  king  to  liearken 
 his  words.
 
 And  the  king  marched  forth  with  a  great  army  and  invest^-d  tlje  city
-of  a  certain  king  and  t Mjk  l»im  prisoner.  And  by  similar  means  he  gained
+of  a  certain  king  and  t<Mjk  l»im  prisoner.  And  by  similar  means  he  gained
 the  sovereignty  of  all  India,  and  with  a  thousand  kings  in  his  train,  ho
 went  to  seize  upon  the  kingdom  of  Takkasila.  The  limlhisattji  repaired
 the  walls  of  the  city  and  made  it  impregnable  to  its  enemie.s.  And  the
@@ -6556,7 +6949,7 @@ banyan.  And  surrounding  the  tree  with  a  rimmed  circtimference  let  us
 fill  it  with  blood  five  inches  deep.  And  so  shall  the  victory  soon  be
 ours."
 
-The  king  readily  as.sented  and  concealing  mighty  wrestlers  behin l  the
+The  king  readily  as.sented  and  concealing  mighty  wrestlers  behin<l  the
 curtjiin,  he  summoned  each  king  separately,  and  when  the  wrestlers  had
 squeezed  them  in  their  arms  till  they  had  reduced  them  to  a  state  of
 insensibility,  he  had  their  eyes  put  out,  and  after  they  were  dead,  he  took
@@ -6571,7 +6964,7 @@ eating  the  flesh  it  let  drop  the  bone,  and  the  shai-p  |K)int  falling
 iron  spikes  on  the  king's  left  eye,  destroyed  that  eye  too.  At  this
 moment  he  recalled  the  words  of  the  Bodhisatta  and  said,  "  Our  teacher
 when  he  said  *  These  mortals  expei'ience  results  corresponding  to  their
-deeds,  even   as  fruit  coiTesponds  with  the  seed,'  spoke,  I  supj»ose,  with  all
+deeds,  even  <as  fruit  coiTesponds  with  the  seed,'  spoke,  I  supj»ose,  with  all
 this  before  his  mind's  eye."  And  in  his  lamentation  he  addressed  Piiigiya
 in  two  stanzas  : —
 
@@ -6622,11 +7015,11 @@ UKAGA-JATAK.\.
 
 [162]  "  J/u/t  uaiu  his  mortal  frmnti,'  etr.  This  .story  the  Mjusttn*,  while  dwelling
 at  Jetavanii,  tola  ci>nccnnng  a  landowner  wliose  .son  hiul  died.  Tlie  introductory
-story  is  jast  the  siune  as  that  of  the  man  who  lo.st  b jtli  his  wife  and  father.
+story  is  jast  the  siune  as  that  of  the  man  who  lo.st  b<jtli  his  wife  and  father.
 Here  too  the  Master  in  the  .s;ime  way  went  to  the  man's  hoiuse,  and  after  .saluting
 him  as  he  was  .scixted,  asked  him  sjiying,  "Pray,  Sir,  are  you  giieving?"  And  on
 his  rei>lying,  "Ves,  Uevei-end  Sir,  ever  since  my  .son's  death  I  grieve,"  he  said,
-"Sir,  verily  that  which  is  subject  to  di.s.s ilution  is  dis.solved,  and  that  which  is
+"Sir,  verily  that  which  is  subject  to  di.s.s<ilution  is  dis.solved,  and  that  which  is
 subject  to  destruction  is  desti-oyed',  and  this  h;q>i»ens  not  to  one  man  oidy,  nor
 in  one  village  merely,  but  in  countless  spherc.s,  and  in  the  three  nuxles  of  ex-
 istence, there  is  no  ci-eatui-e  that  is  not  subject  to  death,  nor  is  there  any  exi.sting
@@ -6850,7 +7243,7 @@ him  seized  and  thrown  into  prison.  While  he  was  lying  there,  he  ente
 the  First  Path.  The  king,  Ijecoming  aware  of  his  great  merit  relea.sed  him
 He  took  a  .scented  garland  and  coming  into  the  presence  of  the  M;tster,  saluted
 him  and  .si^t  down.  Then  the  Miister  asked  if  sf)me  evil  had  not  befallen  hmi
-"Yes  Reverend  Sir,"  he  answered,  "but  thnnigh  evil  goo l  luus  come  to  me.  1
+"Yes  Reverend  Sir,"  he  answered,  "but  thnnigh  evil  goo<l  luus  come  to  me.  1
 have  entereil  on  the  First  Path."  "N'erily,'"  .s^iid  the  Master,  "not  you  only,  but
 sages  of  old  got  good  out  of  evil"  And  herewith  at  his  request  he  told  a  .story
 of  the  past.
@@ -6933,7 +7326,7 @@ No.  356.
 KARANDIYA-JATAKA.
 
 "  Wki/  in  forest,"  etc. — This  was  a  story  told  by  the  Master  while  dwelling  at
-Jct xvaiui,  concerning  the  Captain  of  the  Faith  (Sariputta).  That  elder,  they  say,
+Jct<xvaiui,  concerning  the  Captain  of  the  Faith  (Sariputta).  That  elder,  they  say,
 when  wicked  folk  came  to  him,  such  as  hunters,  fishermen  and  the  like,  laid
 down  the  moral  law  to  tlicm,  and  any  othei-s  that  lie  might  see  from  time  to
 time,  saying,  "Receive  ye  the  law."  Through  rcsi>ect  for  the  elder,  they  could
@@ -6944,11 +7337,11 @@ priests  and  siiid,  "Sirs,  these  men  receive  the  law  from  me,  but  kee
 wishe.s,  and  as  they  dare  not  di.sol>ey  what  you  tell  them,  they  accept  it.  Hence-
 forth lay  not  down  the  law  to  such  fus  these."  The  elder  w;us  offended.  On
 hearing  of  the  incident  they  stiirted  a  di.scu.ssion  in  the  Hall  of  Truth,  how  that
-the  elder  Sariputta  i)re uhed  the  law  to  any  that  he  happened  to  see.  The
+the  elder  Sariputta  i)re<uhed  the  law  to  any  that  he  happened  to  see.  The
 Mtustcr  came  and  inquired  what  was  the  topic  that  the  Brethren  wore  debating
 in  their  a.s.sembly,  and  on  hearing  what  it  wa.s,  he  .sjiid,  "Not  now  only,  Brethren,
 but  formerly  al.s<}  he  preached  the  law  to  any  men  he  njight  cliance  to  .see,  even
-though  they  did  not   isk  for  it."     And  herewith  he  told  a  story  of  the  ptust.
+though  they  did  not  <isk  for  it."     And  herewith  he  told  a  story  of  the  ptust.
 
 
 Once  upon  a  time  wlicn  Brahmadattn  rcij^ned  in  Benare.s,  the  Bodhisatta
@@ -7363,7 +7756,7 @@ she  addressed  her  husband,  [183]  "Sir,  the  priests  constantly  come  her
 do  you  not  see  them?"  On  hearing  this  he  said,  "Very  well,  I  will  see  them."
 On  the  morrow  she  told  him  when  the  priests  had  finished  their  meal.  He
 came  and  sat  respectfully  on  one  side,  conversing  affably  with  the  })riests.  Then
-the  Captain  of  the  Faith  preached  the  L iw  to  him.  He  Wcxs  so  charmed  with
+the  Captain  of  the  Faith  preached  the  L<iw  to  him.  He  Wcxs  so  charmed  with
 the  exposition  of  the  fixith,  and  the  dei)ortment  of  the  priests,  that  from  that
 day  forward  he  prepared  mats  for  the  elders  to  sit  on,  and  .strained  water  for
 them,  and  during  the  meal  listened  to  the  exi)osition  of  the  faith.  By  and  bye
@@ -7588,7 +7981,7 @@ On  hearing  this  the  Garuda  king  uttered  the  second  stanza  : —
 
 How  didst  thou  cross  the  stormy  main,
 And  Serunia  in  safety  gain?
-How  did.st  thou,  Sagga,  tell  me,  \>v xy,
+How  did.st  thou,  Sagga,  tell  me,  \>v<xy,
 To  fair  Su-ssondi  win  thy  way?
 
 [190]  Then  Sagga  repeated  three  stanzas: —
@@ -7596,7 +7989,7 @@ To  fair  Su-ssondi  win  thy  way?
 With  trading-folk  from  Bhanikaccha  land
 My  ship  was  wTecked  by  monsters  of  the  sea;
 
-I  on  a  plank  did  .s ifely  gain  the  strand,
+I  on  a  plank  did  .s<ifely  gain  the  strand,
 
 When  an  anointed  queen  with  gentle  hand
 Upbfjre  me  tenderly  \\\xm  her  knee,
@@ -7640,7 +8033,7 @@ possible  to  set  them  at  variance."  So  he  drew  nigh  to  Sariputta  and 
 it  be,  Reverend  Sir,  that  there  is  some  quarrel  l)etween  you  and  the  venerable
 chief  older  Moggallanal"  "Why  .so,  Sir?'^  he  asketl.  "He  ever.  Holy  Sir,  siKsaks
 in  your  disprai.se  and  says,  'When  I  am  gone,  what  is  Sariputta  worth  compared
-with  me  in  c x.ste,  lineage,  family  and  country,  or  in  the  j)ower  of  attaiinuents
+with  me  in  c<x.ste,  lineage,  family  and  country,  or  in  the  j)ower  of  attaiinuents
 in  the  sjicrcd  volumes?'  *'  The  elder  smiled  and  .sjiid,  "Be  off,  sirrah  !"  Another
 day  he  drew  nigh  to  the  chief  elder  Moggallana,  and  .said  the  siime  thing.  He
 too  smiled  and  said,  "  Be  ofi",  sirrah  !"  Moggallana  went  to  SariputU  and  asked,
@@ -7650,7 +8043,7 @@ away."  "Very  well,  friend,  drive  him  away."  The  elder  .said,  "You  are
 come  here,"  and  snapping  his  lingers  at  him,  he  drove  him  away.  The  two
 elders  lived  happily  together,  and  returning  to  the  Master,  made  obeisance  to
 him  and  sat  down.  The  Mjxster  spoke  kinilly  to  them  and  iusked  if  they  had
-kept  their  Retreat  plea.santly.  They  .said,  "A  cert(iin  l)eggar  wished  to  set  us  at
+kept  their  Retreat  plea.santly.  They  .said,  "A  cert‹iin  l›eggar  wished  to  set  us  at
 variance,  but  f;iiling  in  the  attempt  he  ran  away."  The  Master  said,  "Verily,
 Sariputta,  not  now  only,  but  fonuerly  also,  he  thought  to  set  you  at  variance,
 but  failing  in  the  attcnint  he  ran  away."  And  hereui)on  at  his  request  he
@@ -7745,7 +8138,7 @@ ji-skcd  what  his  offence  was,  he  charged  him  with  stcjiling  the  king'
 "  I  am  not  in  the  habit  of  stealing  your  projxjrty,  Sire,"  he  .siiid,  '*  but  I  had
 my  doubts  as  to  the  relative  imix)rtanco  <»f  virtue  and  learning,  and  in  testing
 which  was  the  greater  of  the  two,  I  thrice  alxstracted  a  coin,  and  then  I  was
-given  int i  cu.stody  and  brought  before  you.  Now  that  I  know  the  greater  efficacy
+given  int<i  cu.stody  and  brought  before  you.  Now  that  I  know  the  greater  efficacy
 of  virtue  compared  with  learning,  I  no  longer  wish  to  live  a  layman's  life.  I  will
 l)ecome  an  itscetic."
 
@@ -7787,7 +8180,7 @@ Virtue  excels  vain  gifts  of  form  and  birth,
 Apart  from  virtue  learning  has  no  worth.
 A  prince  or  peas^xnt,  if  to  sin  enslaved,
 In  neither  world  from  misery  is  saved.
-Men  of  high  caste  with  those  of  b a.se  degree.
+Men  of  high  caste  with  those  of  b<a.se  degree.
 If  virtuous  here,  in  heixven  will  equal  be.
 [195]  Not  birth,  nor  lore,  nor  friendship  aught  avails.
 Pure  virtue  only  future  bliss  entails.
@@ -7859,7 +8252,7 @@ Drinking  sweet  draughts  of  Truth — he  only  knows
 
 EscaiMJ  from  bonds  of  sin  and  all  his  woe.s.
 
-[197]  Thus  did  the   !reat  lieing,  disgusted  by  coming  into  contact  with  evil
+[197]  Thus  did  the  <!reat  lieing,  disgusted  by  coming  into  contact  with  evil
 associates,  through  the  jjower  of  solitude,  l>ring  his  teaching  to  a  climax  and  leatl
 men  to  the  eternal  Nirvana.
 
@@ -7925,7 +8318,7 @@ The  monkey,  on  hearing  this,  uttered  the  remaining  verses  :
 
 Thy  prai.ses,  friend,  unmeaning  sound ;
 A  pretty  monkey  ne'er  wa.s  found.
-[199]  Wh j  in  the  stores,  when  drunk,  I  pray,
+[199]  Wh<j  in  the  stores,  when  drunk,  I  pray,
 Uid  starve  ami  beat  me  sore  to-day  i
 When  I,  snake-charmer,  call  to  mind
 The  bed  of  i)aiii  where  I  reclined.
@@ -7961,7 +8354,7 @@ GUMBIYA-JATAK.\
 asked  him  if  it  were  true  that  he  regretted  it.  "It  is  true,  Iluly  Sir,"  he  sjiid.
 "What  have  vou  seen  to  cause  this  feeling/"  asked  the  MivsttT.  When  the
 brother  replied,  "  It  Wius  owing  to  the  ciiarnis  of  a  woman,"  the  Mfuster  sjiid,  "The.se
-five  (jualities  of  ilosire  are  like  the  honey  sprinkled  over  with  dea lly  iMii.son,
+five  (jualities  of  ilosire  are  like  the  honey  sprinkled  over  with  dea<lly  iMii.son,
 and  left  in  the  road  by  one  (lumhika."  And  herciipnn  at  the  nvpicst  of  the
 Brother  he  told  a  story  of  the  jm-st.
 
@@ -8009,7 +8402,7 @@ Through  their  own  greed  did  perish  in  the  wood.
 But  they  who  wisely  from  the  bait  ab.stained,
 Were  free  from  torture  and  at  peace  remained.
 So  last,  like  poison-bait,  for  man  is  laid;
-His  heart's  desire  has  oft  to  de ith  betrayed.
+His  heart's  desire  has  oft  to  de<ith  betrayed.
 But  who,  though  frail,  l)esetting  sins  forego,
 Escape  from  bonds  of  suffering  and  woe.
 
@@ -8137,14 +8530,14 @@ When  they  belioM  a  foe  o'erconie  with  pain.
 
 When  with  bold  front  he  gfKJs  to  meet  his  fate,
 
-And  blencho-s  not,  as  one  well-.skil!e l
+And  blencho-s  not,  as  one  well-.skil!e<l
 All  things  with  judgment  to  discriminate.
 
 Be  it  by  muttered  sjKill  or  charm.
 By  lavish  gifts,  or  help  of  powerful  kin,
 
 That  he  may  Ijcst  escaix;  from  harm,
-A  man  should  strive  some  vant ige  ground  to  win.
+A  man  should  strive  some  vant<ige  ground  to  win.
 
 But  should  he  fail  to  reach  success,
 With  others'  aid  or  by  himself  alone.
@@ -8244,7 +8637,7 @@ whilst  resitling  at  .Jetavana,  concerning  the  rebuke  of  sin.  The  incid
 to  the  story  will  he  .set  forth  in  the  I'anna  Birth.  But  on  this  occa.sion  the
 Master  addre.s.siiig  the  Brethren  .said,  "Brotliers,  sin  ought  to  bo  regarded  with
 suspicion.  Thougli  it  l»e  fus  small  jus  a  banyan  shoot,  it  may  |)rove  fatal.  Sages
-of  old  too  sus{)ectcd  whatever  w ia  open  to  suspicion."  And  with  tliis  he  related
+of  old  too  sus{)ectcd  whatever  w<ia  open  to  suspicion."  And  with  tliis  he  related
 a  story  of  the  pas-t.
 
 
@@ -8318,7 +8711,7 @@ This  was  the  fifth  stanza,  inspired  by  Perfect  Wisdom.
 
 
 The  Master  here,  his  les.son  ended,  revealed  the  Truths  and  identified  the
-Birth  :— At  the  cunclusi jn  of  the  Truths  five  hundred  Brethren  attained  Saint-
+Birth  :— At  the  cunclusi<jn  of  the  Truths  five  hundred  Brethren  attained  Saint-
 hood : —  "At  that  time  I  my.self  was  the  golden  goose."
 
 
@@ -8381,7 +8774,7 @@ He  overcame  me  and  oppressed  me  sore."
 -  Dhanmiapada  v.  3 — 5.
 
 
-140  Thr  Jnt ihi.      Bool-    V.
+140  Thr  Jnt<ihi.      Bool-    V.
 
 
 They  who  such  thoughts  refiwo  to  entertain,
@@ -8573,7 +8966,7 @@ hand  at  the  foot  of  the  stairs,  and  when  the  king  came  he  was  look
 about  for  an  opportunity  to  strike  him.  The  king  came  repeating  the
 second  stanza  :
 
-Like  a  be ist  of  burden  still
+Like  a  be<ist  of  burden  still
 
 Thou  dost  turn  and  turn  about.
 Thou  that  Ma.sika»  didst  kill.
@@ -8705,7 +9098,7 @@ said,  "of  a  world-famed  professor  at  Takkasila."
 
 "My  father,"  she  said,  "was  so  pleased  at  his  having  awjuiretl  from
 him  an  art  equal  to  liis  own,  that  he  gave  me  to  him  to  wife.  And
-becauHt^  I  fell  in  love  with  you,  I  let  you  kill  my  lawful  husl)un l."
+becauHt^  I  fell  in  love  with  you,  I  let  you  kill  my  lawful  husl)un<l."
 
 Thought  tht!  robber  chief,  "Thi.s  woniiin  now  has  killed  her  lawful
 husband.  As  soon  as  she  .sees  .some  other  man,  she  will  treat  me  too  after
@@ -8780,7 +9173,7 @@ The  jackal,  on  heai-ing  this,  uttered  the  third  stanza :
 
 Who  makes  the  cas.sia  thicket  ring
 With  laughter,  though  none  dance  or  sing.
-Or  flap  their  hands,  good  time  t j  keep  ?
+Or  flap  their  hands,  good  time  t<j  keep  ?
 Fair  one,  laugh  not,  when  thou  shouldst  weep.
 
 On  hearing  this,  she  repeated  the  fourth  stanza :
@@ -8794,7 +9187,7 @@ Then  the  jackal  repeated  the  fifth  stanza  :
 
 Another's  faults  are  plainly  seen,
 'Tis  hard  to  see  one's  own,  I  ween.
-Methinks  thou  t j()  miust  count  the  cost,
+Methinks  thou  t<j()  miust  count  the  cost,
 When  spouse  and  lover  both  are  lost,
 
 [224]  On  hearing  his  words  she  spoke  this  stanza  :
@@ -8837,8 +9230,8 @@ KAPOTA-JATAKA'
 
 
 "  I  feel  quite  weU"  etc. — This  story  the  Miuster,  whilst  dwelling  at  Jetavana,
-told  concerning  a  greedy  Brother.  This  story  of  the  gree ly  lirother  has  already
-been  fully  told  in  divers  ways.  In  this  ca.se  the  Ma.ster  ii.- ked  him  if  he  were
+told  concerning  a  greedy  Brother.  This  story  of  the  gree<ly  lirother  has  already
+been  fully  told  in  divers  ways.  In  this  ca.se  the  Ma.ster  ii.-<ked  him  if  he  were
 greedy  and  on  his  confessing  that  it  wjvs  .so,  siiid,  "Not  now  only,  but  formerly
 also,  Brother,  you  were  greedy,  and  through  greed  came  by  your  death."  And
 herewith  he  told  a  story  of  the  past.
@@ -8942,9 +9335,9 @@ AVAIUYA-JATAKA.
 Jetavana,  about  a  fcrryiuaii.  Thi.s  man,  they  s^iy,  w.us  fo«.li.sh  and  ignorant:  he
 knew  not  the  qualities  of  the  Three  Jewels  and  of  all  exce  lent  Ijcu.gs :  he  w;i.s
 hasty,  rough  and  violent.  A  certiiin  country  Brother,  wishn.g  t.  wait  on  the
-Buddhis  c une  .Mie  evening  t j  the  ferry  on  the  Aciravatl  and  s|ud  to  the  feiryman  :
+Buddhis  c<une  .Mie  evening  t<j  the  ferry  on  the  Aciravatl  and  s|ud  to  the  feiryman  :
 "Lay-l.rother,  I  wish  t.,  cros.s,  let  n.e  have  your  Ujat."  "Sir  it  is  too  late,  stay
-here.'  "Lay-brother,  1  c^mnot  8t iy  here,  Uike  me  across.'  The  ferrvuian  said
+here.'  "Lay-brother,  1  c^mnot  8t<iy  here,  Uike  me  across.'  The  ferrvuian  said
 angrily,  "Come  then,  Sir  Priast,"  and  took  him  into  the  boat:  but  he  steered
 badly  and  made  the  boat  shii.  water,  so  that  the  Brothers  rol)C  wius  wet,  and  it
 Wius  dark  iKifore  he  i.ut  him  on  the  farther  bank.  W  hen  the  Brother  ro^ichc.1  the
@@ -8986,7 +9379,7 @@ for  twelve  years.  Then  he  thought,  "  I  have  stayed  too  long,  I  will
 journey  through  the  country  and  return  here":  so  without  telling  the  king
 and  only  saying  to  the  gardener,  "Friend,  I  weary,  I  will  journey  in  the
 country  and  return,  pray  do  you  tell  the  king,"  [230]  he  went  away
-and  came  to  a  ferry  on  the  Ganges.  There  a  foolish  ferryman  name l
+and  came  to  a  ferry  on  the  Ganges.  There  a  foolish  ferryman  name<l
 Avariyapita  lived:  he  understood  neither  the  merits  of  good  men  nor  his
 own  gain  and  loss:  when  folk  would  cross  the  Ganges,  he  first  took  tlicni
 across  and  then  asked  for  his  fare;  when  they  gave  him  none,  he  quarrelled
@@ -9154,7 +9547,7 @@ spoke  the  third  stanza  :
 With  imclwinscd  teeth,  and  goatskin  garV)  and  hair
 
 All  matted,  muttering  holy  word.s  in  i)cacc  :
-Surely  no  human  means  to  g Kxl  they  spare.
+Surely  no  human  means  to  g<Kxl  they  spare.
 
 They  know  the  Tmth,  and  they  have  won  Release.
 
@@ -9210,7 +9603,7 @@ DAUiMrKHA-J.VrAKA.
 
 [238]  '' Plfimiren  of  seme"  e/f.— This  tale  was  told  l.y  the  Miuster  wliile
 dwelling  in  .letavana,  concerning  the  (Jreat  Renunciation.  The  incident  that
-led  to  the  story  has  Ijoon  t jld  before.
+led  to  the  story  has  Ijoon  t<jld  before.
 
 
 Once  upon  a  time  the  Magadha  king  reigned  in  Rajagaha.  The
@@ -9296,11 +9689,11 @@ am  l)arrraukha  tile  pacceka."  "  Sir,  do  you  know  our  king?"  "Yes,  he
 was  my  friend  in  my  layman  days."  "Sir,  the  king  longs  to  see  you,  I
 will  tell  hinj  of  your  coming."  "Go  and  do  so."  He  went  and  told  the
 king  that  Darlmukha  was  come  and  sitting  on  the  stone-seat.  The  king
-said,  "So  my  friend  is  come,  I  shall  .see  him":  so  he  mounted  his  car  an l
+said,  "So  my  friend  is  come,  I  shall  .see  him":  so  he  mounted  his  car  an<l
 with  a  great  ictiiiue  went  to  the  garden  and  saluting  the  paccekaltwddliii
 with  kindly  greeting  he  sat  on  one  side.  Th»^  paccekahuddha  said,
 "  Brahmadatta,  do  you  rule  your  kingdom  with  righteou.snes.s,  never  follow
-evil  cour.ses  or  oppress  the  people  for  money,  and  d«j  goo l  deeds  with
+evil  cour.ses  or  oppress  the  people  for  money,  and  d«j  goo<l  deeds  with
 charity?"  [-^1]  and  after  kindly  greeting,  "Brahmadatta,  you  are  old,
 it  is  time  for  you  to  renounce  pleasui-es,  and  he  ordained,"  so  he  preached
 the  law  and  sj)oke  the  first  stan/.a  :
@@ -9440,7 +9833,7 @@ Or  less  than  othei-s,  live  not,  but  begone.
 Dull  and  clever,  brave  and  coward,  all  are  honourefl  equally :
 Undiscriminating  Moiuitain,  good  men  will  not  stay  on  thee !
 
-[248]      Best,  indifterent  and  meanest  Neru  d x^s  not  separate,
+[248]      Best,  indifterent  and  meanest  Neru  d<x^s  not  separate,
 
 Undiscriminating  Neru,  we  alas !    must  leave  thee  straight.
 
@@ -9473,7 +9866,7 @@ old  tale.
 
 Once  upou  a  time  when  Brahmadutta  was  king  in  Benares,  the
 Bodhisatta  was  born  in  a  brahmin  family  at  a  village  of  that  country.
-When  h !  grow  u|),  he  learned  the  arts  [-4'J]  at  Takkasila,  became  an
+When  h<!  grow  u|),  he  learned  the  arts  [-4'J]  at  Takkasila,  became  an
 ascetic  and  reaching  tlie  Faculties  and  Attainments  lived  on  roots  and
 fruits  in  the  Hiniahiya.  At  tliat  time  a  being  of  perfect  merit  fell  from
 the  Heaven  of  the  Thirty-tliree  and  was  conceived  as  a  girl  inside  a  lotus
@@ -9512,7 +9905,7 @@ was  lirought  to  him  by  his  crossing  the  water  owing  to  his  doubt  (f
 "What  is  in  this  lotus?"  He  did  not  say  to  tlio  king  directly,  "Take  her
 and  go,"  but  said,  "If  you  know  this  maiden's  name,  O  great  king,  take  her
 and  go."  "Lord,  if  you  tell  it,  I  shall  know."  "I  shall  not  tell  it,  but
-when  you  know  it  tsike  her  and  depart."  The  king  agree l,  and  thence-
+when  you  know  it  tsike  her  and  depart."  The  king  agree<l,  and  thence-
 forth considered  along  with  his  ministers,  "What  may  be  her  name?"  He
 put  forward  all  names  hard  to  guess  and  talked  with  the  Bodhi.SiittA,  saying,
 "Such  and  such  will  be  her  name":  but  the  liodhisatta  .said  nay  and
@@ -9525,7 +9918,7 @@ her  said,  "We  cannot  find  your  name,  live  here  in  the  Ilinmlaya,  we 
 depart,"  "  Great  king,  if  you  go  you  will  never  find  a  wife  like  me.  In
 the  Heaven  of  the  Thirty-three,  in  the  Cittalata  garden,  there  is  a  creeper
 named  AsavatT :  in  its  fruit  a  divine  drink  is  born,  and  they  wlio  driiik  of
-it  once  are  intoxicated  for  four  months  and  lie  on  a   livine  couch  :  it  bears
+it  once  are  intoxicated  for  four  months  and  lie  on  a  <livine  couch  :  it  bears
 fruit  once  in  a  thousand  years  and  the  sous  of  the  gods,  though  given  to
 strong  drink,  [20 1]  l)ear  with  their  thirst  for  that  divine  drink  .saying,
 "We  shall  reap  fruit  from  this,"  and  come  constantly  throughout  the
@@ -9632,7 +10025,7 @@ MIG  ALOPA-J  ATAK  A '
 [■2!'>!'y]  "  Vour  inn/s,  mi/  mn"  etc. — The  Master  told  this  tilo  in  .Tetivana,  of  an
 unruly  Brother.  'I he  Ma.ster  jusked  the  Brother,  "Are  you  really  luunily/"  Ho
 .said,  "Ve.s,  lord":  and  the  Master  s^iying,  "Von  are  not  unruly  for  the  first
-time;  formerly  too  through  \uirulinc.s.s  you  di l  not  the  hidding  of  tho  wise  and
+time;  formerly  too  through  \uirulinc.s.s  you  di<l  not  the  hidding  of  tho  wise  and
 met  your  death  by  tlie  Veramhha-  winds,"  told  an  old-world  Uile.
 
 
@@ -10039,7 +10432,7 @@ The  country-folk  in  their  simplicity.
 Strike  him  down  with  Ijeak  and  pinion,
 
 Tear  him  with  your  claws :
-Dc ith  to  such  a  dastard  minion.
+Dc<ith  to  such  a  dastard  minion.
 
 Traitor  to  our  cau.se.
 
@@ -10063,7 +10456,7 @@ support  lay  folk?"     "Yes,  lord."     "What  are  they?"     "My  father  a
 
 172  The  Jataka.     Book   VI.
 
-lord."     "Well  (luiic,  well  done,  I'rotlier:  y Hi  keojt  up  the  rule  of  the  wise  men
+lord."     "Well  (luiic,  well  done,  I'rotlier:  y<Hi  keojt  up  the  rule  of  the  wise  men
 of  old,  for  they  ton  even  when  horn  iw  bcu.sts  gave  tlicir  life  for  their  iMirent«,"
 
 and  HO  he  told  an  old  tale.
@@ -10191,7 +10584,7 @@ Then  s;iw  my  mother  and  was  justifuHl.
 These  were  the  sttmziui  inspireil  hy  Pi'rfect  Wisdom.
 
 
-At  the  enil,  tlie  Miuster  ilecliin-d  the  Truths,  and  iilentifie l  the  Ilirth: — At
+At  the  enil,  tlie  Miuster  ilecliin-d  the  Truths,  and  iilentifie<l  the  Ilirth: — At
 the  end  of  the  Truths,  the  brother  who  sup|H>rted  his  mother  wius  e.stal>lishe«l  in
 the  First  Tath:— ^"At  that  time  the  father  and  mother  were  memltcru  of  the
 royal  family,  the  brahmin  was  Sariputta,  the  king  Ananda,  the  doer  myself."
@@ -10280,7 +10673,7 @@ again  and  again  he  told  her.  Then  she  said,  "Give  me  your  spell  of
 knowledge."  He  said,  "It  cannot  b«!  givm "  :  but  though  repidsed  slie
 l)re.ssed  him  again.
 
-The  king  .said,  "If  I  give  you  this  spell,  I  sluiU   li»'."  "Even  though
+The  king  .said,  "If  I  give  you  this  spell,  I  sluiU  <li»'."  "Even  though
 you  die,  give  it  mo."  The  king,  being  in  the  power  of  womankind,
 saying,  "It  is  well,"  con.sent<'d  and  went  to  the  park  in  a  chariot,  saying,
 "  I  shall  enter  the  Hre  after  giving  away  this  spell."  At  that  moment,
@@ -10344,7 +10737,7 @@ her  the  charm  :  what  am  I  to  do  now  ?  "  "Tli.-re  is  no  need  for 
 of  both  of  you  :  you  say,  '  It  is  the  way  of  the  craft,'  and  have  her  beaten
 with  some  blows  :  by  this  means  she  will  not  get  it."  The  king  said,  "It
 is  well,"  and  agreed.  The  Bodhisatta  after  exhortation  to  the  king  went
-to  Sakka's  heaven.  The  king  went  to  the  garden,  ha l  the  queen  sum-
+to  Sakka's  heaven.  The  king  went  to  the  garden,  ha<l  the  queen  sum-
 moned and  then  said,  "Lady,  will  you  have  the  charm?"  "  Ye.s,  lord."
 "Then  go  through  the  \isual  custom."  "What  custom?"  "  A  hundred
 stripes  ['-'81]  on  the  back,  but  you  vaunt  not  make  a  sound."  She  consent*?d
@@ -10675,7 +11068,7 @@ years.
 [293]  After  the  lesson,  the  .Miuster  dcchired  the  Tmths  and  identified  the
 Birth : — at  the  end  of  the  Truths  the  Brother  who  feared  death  was  established
 in  the  fruition  of  the  first  Path: — "In  th(^.se  days  the  king  was  Ananda,
-Cullatundila  was  tiie  Brother  who  fe u-s  death,  the  multitude  was  the  Congre-
+Cullatundila  was  tiie  Brother  who  fe<u-s  death,  the  multitude  was  the  Congre-
 gation, Mahatiiiidila  my.self."
 
 
@@ -10789,7 +11182,7 @@ The  ci-ab  being  weary  then  loosed  him  a  little.  The  snake  thinking,
 "Crabs  do  not  eat  the  flesh  of  crows  nor  of  snakes,  then  for  what  reason
 does  this  one  seize  usl"  in  enquiry  .spoke  the  third  stanza  : —
 
-'Tis  not  for  the  .s ikc  of  food
+'Tis  not  for  the  .s<ikc  of  food
 
 Crabs  would  seize  a  snake  or  crow:
 Tell  me,  you  who.se  eyes  protrude,
@@ -10876,7 +11269,7 @@ No.  390.  187
 rice-dust  with  sour  gruel ;  if  silkeu  clothes  i)erfumed  with  iuueuse  were  brought
 liiui  he  had  them  removed,  and  wore  clothes  of  coarse  hair-cloth  for  sugar ;  if  a
 chariot  adorned  with  jewels  and  gold  and  drawn  by  high-bred  horses  were  brought
-him,  he  h ad  it  taken  away  and  went  in  a  broken-down  old  chariot  with  a  i)ani.sol
+him,  he  h<ad  it  taken  away  and  went  in  a  broken-down  old  chariot  with  a  i)ani.sol
 of  leaves  overhead.  All  his  life  he  did  nothing  with  gifts  (ir  the  other  merits,  and
 when  he  died  he  was  born  in  the  hell  Horuva.  His  substance  was  heirless :  and
 the  king's  men  carried  it  into  the  i)alace  in  seven  days  and  nights.  When  it  was
@@ -10904,7 +11297,7 @@ full  of  food  of  excellent  Havoui*s.  He  taking  the  food  and  Iciiving  
 along  the  .street.  The  merchant,  returning  from  court,  saw  him  and  .siiluting  asked
 him  if  he  had  got  food.  "  I  have,  merchant."  The  merchant,  looking  at  his
 bowl,  could  not  reconcile  his  will  to  it,  but  thinking,  "Had  my  slaves  or  work-
-{Hjople  eaten  this  fo xl  of  mine  they  would  have  done  me  hanl  .service :  ahiH,  it  is
+{Hjople  eaten  this  fo<xl  of  mine  they  would  have  done  me  hanl  .service :  ahiH,  it  is
 a  loss  for  me  I"  and  he  could  not  make  the  after-thought  jwrfect.  Now  giving  is
 rich  in  fruit  only  to  cnie  who  can  make  the  three  thoughts  jKjrfect : —
 
@@ -10947,7 +11340,7 @@ is  my  Iwiy  ?"  "  He  wtiM  di«|>orting  hini.self  in  the  river:  I  look
 but  cuuld  not  Ht'*'  him."  She  wept  and  >uiid  nothing.  Tlie  iliMihiiiattji,
 knowing  of  thi.s  nintl«*r,  thought,  "  I  Mill  make  thiM  buNineMt  public";  and
 NO  going  tlii-ou;^'li  till'  air  and  lighting  at  ll<>nan>M  in  fair  r»iiii«>nt  under  lUid
-upper,  lie  sto Ml  at  tin'  diM)r;  not  weeing  the  aliiiH  ihamlM'r,  he  thought,  "'nint
+upper,  lie  sto<Ml  at  tin'  diM)r;  not  weeing  the  aliiiH  ihamlM'r,  he  thought,  "'nint
 wicked  man  liaM  deNtn>ye«l  the  chMml>«>r."  The  younger  brother,  heiiring  of
 hi.s  coming,  cume  and  rtalutetl  the  I l4j< I h inat tA  and  taking  him  up  to  the
 roof  gave  him  g«M»d  IikhI  to  eat.  And  when  tin*  meal  wa«  over,  M*ated  for
@@ -10959,7 +11352,7 @@ when  destroyi'd  by  king«  ami  othiTs  I  What  ilitFen'Uce  in  there  U'tw
 you  and  the  Maylia  bird  I"  841  the  |l.Mn,,..»f.  f>x|M>uniliiig  the  law  with
 the  enMo  of  a  Itutldha  H^toke  theM«  Htanzit
 
-There  '\h  a  bini  calle i  .MayhakiV,  in  mmintAin  cave  it  livoM:
+There  '\h  a  bini  calle<i  .MayhakiV,  in  mmintAin  cave  it  livoM:
 
 On  pijud  trwx  with  riin'iiing  fruit,  'mine,'  'mine'  the  cry  it  give*.
 
@@ -11028,7 +11421,7 @@ king  thought,  "These  men  go  about  by  day  in  ascetic's  garb  and  misco
 themselves  at  night;"  so  b<'ing  angry  with  the  Firethren,  he  adopted
 hereticjil  views,  and  sent  round  a  proclamation  by  drum  that  all  the
 Brethren  must  dejiart  from  his  kingdom  and  that  his  men  would  punish
-them  wherever  found.  All  the  ascetics  fle l  from  the  kingdom  of  Kasi,
+them  wherever  found.  All  the  ascetics  fle<l  from  the  kingdom  of  Kasi,
 which  was  three  hundred  leagues  in  extent,  to  other  royal  cities,  and  there
 was  no  one,  righteous  Buddhist  or  Brahmin,  to  preach  to  the  men  of  all
 Kasi  ;  so  that  the  men  without  preaching  became  savage,  and  lK«ing  averw
@@ -11056,7 +11449,7 @@ coming  to  the  king's  gate  he  stoinl  in  the  air.  They  told  the  king,
 majesty,  there  is  a  beautiful  young  Brother  with  a  priest  standing  in  the
 air  [305]  at  the  king's  gate."  The  king  rose  from  his  seat  and  standing  at
 the  lattice  said,  "  Young  Brother,  why  do  you,  who  are  beautiful,  sUmd
-venerating  that  ugly  priest  and  holding  his  b iwl  and  rolx's  ? "  and  so
+venerating  that  ugly  priest  and  holding  his  b<iwl  and  rolx's  ? "  and  so
 talking  with  him  he  spoke  the  first  stanza: —
 
 Noble  (if  face,  yuu  make  ol)cisjinee  low;
@@ -11073,7 +11466,7 @@ Of  saints  devout  and  perfect  in  the  way:
 
 As  for  myself,  my  title  I  proclaim,
 
-Sakka,  the  l n\i  whom  thirty  ginls  olxjy.
+Sakka,  the  l<n\i  whom  thirty  ginls  olxjy.
 
 The  king  hearing  this  asked  in  the  third  stanza  what  was  the  blessing
 of  venerating  tlie  Brother  : —
@@ -11123,7 +11516,7 @@ O  kint,',  lot  many  a  virtunis  deed  be  thnie.
 I'rom  anger  free,  with  grace  in  every  thought,
 
 I'll  lend  an  an-  whenever  strangei-s  sue:
-1  take  thv  counsel  go Hl,   1   bring  to  nought
+1  take  thv  counsel  go<Hl,   1   bring  to  nought
 
 My  pride  and  serve  thee,  Lonl,  witli  h..ma:4e  due.
 
@@ -11134,7 +11527,7 @@ recognise  that  the  world  is  not  vanity,  that  there  are  good  liuddhist
 Brahmins,  and  so  give  gifts,  practise  morality,  keep  the  holy-days
 preaching  to  the  king.  Sakka  also  by  his  ,»ower  stood  m  the  air,  and
 preachin-  to  the  townsfolk,  "Henceforward  be  zealous,"  he  sent  roun.
-proclamation  by   lrum  that  the  Buddhists  and  Brahmins  who  had  fled
+proclamation  by  <lrum  that  the  Buddhists  and  Brahmins  who  had  fled
 should  return.  Then  both  went  back  to  their  own  place.  The  king  stoo«l
 firm  in  the  admonition  and  did  good  works.
 
@@ -11161,10 +11554,10 @@ into  a  lotus-pool  [308],  and  seeing  a  lotus  in  flower  he  stood  to  l
 it.  Then  tho  gmldcH-M  who  dwelt  in  that  j>art  of  the  forowt  frichUMiol  hiin
 huiviiig,  "Sir,  yoii  iirt*  a  thief  of  odourn,  thin  is  a  kind  «if  theft."  Hi'  went  \nu:k
 ill  Ji  friglit  to  Jetjivan/i,  and  Halutml  the  Mii.>»tcr  ami  fwit  down.  '*  Where  hove
-you  lx>«ii  Htavill^,  limther/"  "In  niich  and  .tiieh  a  wo mI,  and  the  goddeiw
+you  lx>«ii  Htavill^,  limther/"  "In  niich  and  .tiieh  a  wo<mI,  and  the  goddeiw
 frightt'netl  me  in  .Miieh  and  .inch  a  way."  The  Ma.nter  »Miid,  "  Vou  are  not  the
 tif>Ht  who  have  IxHri  fri^'litencd  \>y  u  gotlde»*.t  when  »nieUin^;  a  flower;  migCM  of  old
-have  l>een  frightcne l  in  like  manner,"  and  at  the  Hn»ther'M  requittt  ho  told  an
+have  l>een  frightcne<l  in  like  manner,"  and  at  the  Hn»ther'M  requittt  ho  told  an
 uld  tale.
 
 
@@ -11172,7 +11565,7 @@ Once  u{)on  n  time  when  Hmhnwidatta  wiim  rei^nin^  in  H«*nHn>H,  the
 BtNlhisattA  waM  )>orn  in  a  hnthmin  family  of  a  village  in  Kani:  when  he
 ^row  up  he  learneil  the  art.s  nt  Takka>tila,  and  ufterwardH  lN«came  an  ajicetic
 and  live«I  near  a  lotUH-|M>ol.  One  day  he  went  down  into  the  |kx)I  ami  stood
-smeilin;:;  a  lotuH  in  full  Mower.  A  j»od h'}m  wht)  wo-s  in  a  liollow  in  a  trunk
+smeilin;:;  a  lotuH  in  full  Mower.  A  j»od<h'}m  wht)  wo-s  in  a  liollow  in  a  trunk
 of  a  tree  alarming  him  M|H>ke  the  tintt  Mtanui  :
 
 You  wore  never  given  that  flower  you  Mniell,  though  itM  oidy  a  mingle  hloom;
@@ -11206,7 +11599,7 @@ A  sin  like  a  hair-tip  shows  on  him  like  a  dark  cloud  in  the  sky.
 So  alarmed  liy  her  the  Bodhisatta  in  emotion  .spoke  the  sixth
 stanzji  : —
 
-Surely,  fairy,  you  know  me  well,  t i  pity  me  you  deign:
+Surely,  fairy,  you  know  me  well,  t<i  pity  me  you  deign:
 If  you  .see  me  ilo  the  like  offence,  pray  sjieak  to  me  again.
 
 Then  tlie  goddess  spoke  to  him  the  seventh  stanza  : —
@@ -11235,7 +11628,7 @@ Kaist  <
 
 
 'ipi>'/  lit''  M  lheir$,"  el,:-  The  MiLstcr  told  this  Ulo  while  dwelling  in  the
-,^.„v  -iiinren/tonnrninK  some  brethren  wh i  were  jjiven  t)  unuLsement.  The
+,^.„v  -iiinren/tonnrninK  some  brethren  wh<i  were  jjiven  t)  unuLsement.  The
 KMXit  Moiruali.ina  hud  shak.-n  their  dwellin;;  and  alarm.-tl  them.  The  nn'thren
 H.it  dist  u.H.sinK'  tlieir  fiudt  in  the  Hall  of  Truth.  The  M.i-ster  l«ing  t^.ld  tins
 Hjiid  t.>  them,  "They  are  not  given  t«  anmM;ment  for  the  tirst  time,"  and  so  told
@@ -11278,7 +11671,7 @@ J.  ill.
 
 When  they  heard  him,  they  all  together  spoke  the  fourth  stanza  : —
 
-Seven  years  oi-duinoil,  with  duly  t tii.Hurod  hair,
+Seven  years  oi-duinoil,  with  duly  t<tii.Hurod  hair,
 
 In  ^lejJh^l^a^l^la  hero  we  spend  our  days,
 Living  on  reninants:  if  you  ulanic  our  tai\>,
@@ -11343,8 +11736,8 @@ In  terror  as  T  seek  my  food  :  how  can  a  crow  Ijc  fat  ?
 Crows  si>end  their  lives  in  fear,  their  wits  for  mischief  ever  keen ;
 The  bitH  they  pick  are  not  enough  ;   good  quail,  that's  why  I'm  Iwin.
 
-Rude  gnuss  and  see ls  are  all  your  food  :  there's  little  richness  there  :
-Then  tell  me  why  you're  fat,  go Kl  quail,  on  such  a  scanty  fare.
+Rude  gnuss  and  see<ls  are  all  your  food  :  there's  little  richness  there  :
+Then  tell  me  why  you're  fat,  go<Kl  quail,  on  such  a  scanty  fare.
 
 The  Bodhisatta  hearing  him  spoke  these  stanzas,  explaining  the  reason
 of  his  fatness  : —
@@ -11352,7 +11745,7 @@ of  his  fatness  : —
 I  have  content  and  ea.sy  mind,  short  distiinces  to  go,
 1   live  on  anything  I  get,  and  so   I'm  fat,  gotxl  crow.
 
-Content  of  min l,  and  happiness  with  little  care  of  h&irt,
+Content  of  min<l,  and  happiness  with  little  care  of  h&irt,
 A  stiUiilard  easily  attained  :   that  life's  the  Ijctter  part.
 
 
@@ -11385,7 +11778,7 @@ Benares  merchant.  A  crow  becanie  intimate  witli  him  and  lived  there
 also.  Here  the  story  is  to  be  expaiuU-d.  The  cook  pulled  out  the  crow's
 feathers  and  sprinkled  him  with  Hour,  then  piercing  a  cowrie  he  hung
 it  on  the  crow's  neck  and  threw  liinj  into  a  basket.  The  Botlhi.satta
-came  from  the  wood,  and  Boeiug  him  made  a  jt-.st  an l  spoke  the  first
+came  from  the  wood,  and  Boeiug  him  made  a  jt-.st  an<l  spoke  the  first
 stanza  : —
 
 Our  old  friond  !  look  at  him  !
@@ -11399,7 +11792,7 @@ How  gay  our  friond  api>cnrs  I
 
 My  nails  and  hair  bad  gi-own  .so  fa-st,
 
-riioy  liami>ere l  mo  in  all  I  did  :
+riioy  liami>ere<l  mo  in  all  I  did  :
 A  barWr  came  along  at  la-st,
 
 And  of  .HUl)erfluou^s  hair  I'm  rid.
@@ -11471,7 +11864,7 @@ stood  outside,  then  looking  up  again  he  thought  "  How  is  that  peak
 re.sting  so?  and  how  are  the  rafters?"  and  asking  the  Bodhisatta  he
 spoke  the  tirst  stanza  : —
 
-[318]  The  i>e ik's  a  cubit  and  a  half  in  height,
+[318]  The  i>e<ik's  a  cubit  and  a  half  in  height,
 
 Eight  spans  will  compass  it  in  circuit  round,
 Of  simsiii)a  and  sara  built  aridit :
@@ -11521,7 +11914,7 @@ Vou  sjtoil  the  sweolnes.s  if  you  add  the  i>eel.
 Kvon  so  tho  wi.so  man  without  violence,
 (lathers  kiiig'.s  dui»  in  village  and  in  town,
 
-lnertM.ses  wealth,  an l  yet  gives  no  ottencc  ;
+lnertM.ses  wealth,  an<l  yet  gives  no  ottencc  ;
 He  walks  the  way  of  right  and  of  renown.
 
 [320]  The  king  taking  counsel  with  the  Bodhisatta  went  to  a  lotu.s-Umk,
@@ -11572,7 +11965,7 @@ Hudhisatta  was  a  lion  and  living  with  a  lioness  had  two  children,  a 
 a  daughter.  The  .son's  name  was  Manoja.  When  he  grew  up  he  took
 a  young  lioness  to  wife  :  and  so  they  became  five.  Manoja  killed  wild
 buffaloes  and  other  animals,  and  so  got  flesh  to  feed  his  parents,  sister  and
-wife.  [.32l']  One  day  in  his  hunting  ground  he  Siiw  a  jackal  culle l  Giriya,
+wife.  [.32l']  One  day  in  his  hunting  ground  he  Siiw  a  jackal  culle<l  Giriya,
 unalfle  to  run  away  and  lying  on  his  belly.  "  Jiow  now,  friend  I"  he  .Siiid.
 •  I  wish  to  wait  on  you,  my  lord."  "  Well,  do  so,"  So  he  took  the  jackal
 U>  his  den.  The  IJ«Klhisatta  seeing  him  said,  "  Dear  Manoja,  jackals  are
@@ -11627,7 +12020,7 @@ iiis  fortune  is  not  prosiHjrous  whom  wickeii  folk  entice  ;
 l.,ook  at  Maiioja  lying  tlierc,  through  Uiriya's  mlvicc.
 
 No  joy  have  mntliers  in  a  .sou  whose  comrades  arc  not  gixnl:
-Look  at  Manoja  lying  there  all  coverc«l  with  his  I)1 mh.1.
+Look  at  Manoja  lying  there  all  coverc«l  with  his  I)1<mh.1.
 
 And  even  so  fares  still  the  man,  in  low  estate  he  lies,
 
@@ -11649,7 +12042,7 @@ Look  therefore  to  thy  betters  for  thine  aid.
 
 
 After  the  lesson,  the  Master  dedaretl  the  Truths  and  identitied  the  P.irth  : —
-After  the  Truths  the  brother  who  kept  bad  company  was  estivblishe l  in  the
+After  the  Truths  the  brother  who  kept  bad  company  was  estivblishe<l  in  the
 fruition  of  the  Fii-st  Path: — "At  that  time  the  jackal  wjus  Devadatta,  Manoja
 wa.s  the  keeper  of  bad  company,  his  sister  wa.s  Uppalavanna,  his  wife  the  Sister
 Khema,  his  mother  the  mother  of  Rahula,  his  father  myself."
@@ -11688,7 +12081,7 @@ with  his  sword  :  hanging  the  pieces  on  one  stick  he  came  sis  if  ca
 pole  and  saying,  "  I  will  rest  a  little,"  lie  drew  near  to  a  banyan  tree
 by  the  road  and  lying  down  fell  asleep.  A  yakkha  called  Makhadeva  was
 reborn  in  that  banyan,  and  got  from  Vessavana^  all  living  things  who  came
-to  it  as  his  foo l.  When  the  king  rose  he  said,  "  Stay,  you  are  my  food,"
+to  it  as  his  foo<l.  When  the  king  rose  he  said,  "  Stay,  you  are  my  food,"
 and  took  him  by  the  hand.  "Who  are  you?'  said  the  king.  "I  am
 a  yakkha  born  here,  I  get  all  men  who  come  to  this  place  as  my  food."
 The  king,  taking  good  heart,  a.sked,  "  Will  you  eat  to-day  only  or  continu-
@@ -11708,7 +12101,7 @@ he  told  the  case  to  a  minister  in  attendance  and  asked  what  was  to 
 you  were  about  it  :  but  never  mind,  there  are  many  nien  in  the  jail."
 '*  Then  do  you  manage  this  affair,  and  give  mo  life."  The  ministt'r  agreetl,
 and  taking  a  man  from  the  jail  every  day  sent  him  to  the  yakkha  with  a
-|)lat !  ot"  rice  without  telling  him  anything.  The  yakkha  eats  Ixjth  rice  and
+|)lat<!  ot"  rice  without  telling  him  anything.  The  yakkha  eats  Ixjth  rice  and
 man.  After  a  time  the  jails  became  eu)|»ty.  The  king  finding  no  cue  to
 carry  the  rice  .shook  with  fear  of  death.  The  nunist«'r  comforting  him  said,
 "O  king,  desire  of  wealth  is  stronger  than  desire  of  life  :  let  us  put  a  packet
@@ -11718,12 +12111,12 @@ did  so.  The  liodhi.satta  thought,  "  I  get  pence  and  halfjKMK-e  for  m
 and  can  hardly  support  my  mother  :  I  will  get  this  wealth  and  give  it  her,
 and  then  go  to  the  yakkha  :  if  I  can  get  the  betU>r  of  him,  well,  and  if  I
 cannot  she  will  live  comfortably"  :  so  he  told  his  mother,  but  she  said,  "I
-have  enough,   lear,  I  don't  neetl  wealth,"  and  .so  forbade  him  twice  ;  but  the
+have  enough,  <lear,  I  don't  neetl  wealth,"  and  .so  forbade  him  twice  ;  but  the
 tlnrd  time  without  asking  her,  he  aaid,  "Sirs,  bring  the  thoustind  pieces,  I
 will  Uike  the  rice.''  So  he  gave  his  mother  the  thou.sand  pieces  and  said,
 "  Don't  fret,  di-ai- ;  I  will  overcome  the  yakkha  and  give  happiness  to  the
 peo[)lc  :  I  will  (.(inii-  making  your  t^^-arful  face  to  laugh,"  antl  so  saluting
-her  he  went  to  the  king  with  the  king's  men,  and  saluting  him  8too l  there.
+her  he  went  to  the  king  with  the  king's  men,  and  saluting  him  8too<l  there.
 The  king  said,  "My  good  man,  will  you  take  the  ricel"  "  Ye.s,  O  king."
 "What  should  you  take  with  you?"  [3-7]  "Your  golden  slippers,  O
 king."  "  Why  }"  "  O  king,  that  yakkha  gets  to  eat  all  p«'ople  standing  on
@@ -11774,7 +12167,7 @@ If  you  eat  ine,  will  he  hard  to  find.
 [329]  The  yakkha  thought,  "  The  young  man  speaks  sense,"  and  l>eing
 well  disposed  spoke  two  stanzas  : —
 
-Young  Sutiuji,  my  interests  are  clc irly  na  you  show :
+Young  Sutiuji,  my  interests  are  clc<irly  na  you  show :
 Yisit  your  mother  then  in  i»eju;e,  you  have  my  l&ive  to  go.
 
 Take  sworti,  and  para.sol,  jind  dish,  young  man,  and  go  your  ways.
@@ -11790,7 +12183,7 @@ With  all  thy  kith  ami  kin,  yakkhiu,  right  hapi)y  may  you  be :
 The  king's  command  hius  Ix'cn  i>erfonued,  and  wealth  has  anno  to  me.
 
 So  he  admonished  the  yakkha,  saying,  "  Friend,  you  did  evil  deeds  of
-(dd,  you  were  cruel  ami  hai-sh,  you  ate  the  Hesh  and  bloo l  of  others  and  so
+(dd,  you  were  cruel  ami  hai-sh,  you  ate  the  Hesh  and  bloo<l  of  others  and  so
 were  born  as  a  yakkha:  from  henceforth  do  no  murder  or  the  like:"  so
 telling  the  blessings  of  virtue  and  the  misery  of  vice,  he  established  the
 yakkha  in  the  tive  virtues  :  then  he  said,  "  Why  dwell  in  the  forest  ?  come,
@@ -11801,7 +12194,7 @@ with  the  yakkha.  The  king  with  his  miuistt-rs  [330]  went  out  to  meet
 IJodhisattii,  settled  the  yakkha  at  the  city  gate  and  made  him  get  the  best
 rice  :  then  he  enteretl  the  town,  made  proclamation  by  drum,  and  calling  a
 meeting  of  the  townsfolk  spoke  the  pmises  of  the  Bodhisatta  and  gave  him
-the  command  of  the  army  :  himself  was  establi.she l  in  the  Bodhisatta's
+the  command  of  the  army  :  himself  was  establi.she<l  in  the  Bodhisatta's
 teaching,  did  the  good  works  of  charity  and  the  other  virtues,  and  became
 destined  for  heaven.
 
@@ -11817,7 +12210,7 @@ Ananda,  the  youth  myself."
 No.  399.
 «;iJjiiA-JAr.vK.v.
 
-••/// /'   inll  tif  itlii  jiJk*,     el,:.      Tlio   MiiHtt-r  ti>ltl   tliln  mIhmi  tlMflllli^  III  Jrlii-
+••///</'   inll  tif  itlii  jiJk*,     el,:.      Tlio   MiiHtt-r  ti>ltl   tliln  mIhmi  tlMflllli^  III  Jrlii-
 vuiui,  coiiivniiiig  u  Hntthor  wlm  ftii|>|Mirti>l  lim  nmthrr
 
 
@@ -11825,9 +12218,9 @@ OiitT  u|)oii  n  tiiiM'  whuii  llniliin««luttA  wiui  n'ifpting  in  Itt'uan
 lloilhiMitta  wiiM  U>ni  of  a  vultiin*.  Whon  hv  grvw  up  Ih'  put  hi.H  pnrtMilN,
 now  old  niitl  iliiii  of  %>\i\  in  u  vuliun''H  mvi*  nnd  f^l  ihnu  hy  )>ringing
 tlifiii  ilittli  of  ct>wM  itnti  till'  like.  At  tli«<  tinir  u  certain  huntiT  Uid  iinnnvt
-for  vulturi'M  all  iilmut  a  IUmiahmi  i*(Mnpt4)i7'.  Ono  tiny  thv  Itocihiiwtta
-.(u)((kiii^  for  Mi'mIi  niiiip  to  the  ii(nirt('ry  und  caught  hiii  for)t  in  tho  iinjirrH.
-Ill'  dill  not  think  of  hiiiiM'lf,  hut  n'iiirin)H'ri< l  hiii  old  (MinMitM.  "  liow  will
+for  vulturi'M  all  iilmut  a  IUmiahmi  i*‹Mnpt4›i7'.  Ono  tiny  thv  Itocihiiwtta
+.‹u›<<kiii^  for  Mi'mIi  niiiip  to  the  ii‹nirt<'ry  und  caught  hiii  for›t  in  tho  iinjirrH.
+Ill'  dill  not  think  of  hiiiiM'lf,  hut  n'iiirin)H'ri<<l  hiii  old  (MinMitM.  "  liow  will
 my  iHirtnt.i  liv<>  now  (  I  think  thry  will  dip,  igiiormnt  thnt  I  «ni  miight,
 hrl|>|i'H.H  Hiid  dcMtituto,  wiutting  awuy  in  thnt  hill-cnvi> :  "  no  lann-nting  ho
 H|M>ki'  till'  tiiMt  Ntiin/Jt  : —
@@ -11836,14 +12229,14 @@ lIow  will  tho  old  follot  niAiiAgv  now  within  tho  m<»intAin  t'Avn  '
 For   1   am  fattcnoil  in  a  miiait,  cniet   NiIIva'**  mU
 
 [331]  Tlu»  Hon  of  a  huntrr,  hearing  him  lam.  iw,  -.j-ik.  tu.-  •..•.i.ihI
-Htiin&i,   tli«'  vnlturt*  H|M>kt*  th«>  third,  and  mo  on  ult riiat«'ly  :
+Htiin&i,   tli«'  vnlturt*  H|M>kt*  th«>  third,  and  mo  on  ult<riiat«'ly  :
 
 Vultiiro,  what  Mtmngo  UniontM  i>f  yoiipt  arc  thcHo  tny  oant  tlvit  roach  \
 \  lu'vpr  hcani  or  haw  a  hinl  tlutt  nttrml  huiiiAn  ^puoch.
 
 I   toiid  luy  ugwl  jhirt'titM  within  a  uioiintain  oivc,
 
-How  will  tho  old  folk.H  nmn igo  now  tliat  I've  bccoiuc  your  iilavo  f
+How  will  tho  old  folk.H  nmn<igo  now  tliat  I've  bccoiuc  your  iilavo  f
 
 Carrion  a  vulture  Mightn  AcnwM  a  hundrvil  loagucn  of  land;
 Why  do  you  fAil  to  nco  a  .Huam  aim!  net  mo  cIom  at  hand  \
@@ -11858,7 +12251,7 @@ Ho  fail.H  to  .soo  A  .Hiiarw  «>r  net  although  so  i-li)«o  At  hand.
 ()  hunter,  hAppinos.s  be  thine,  with  all  thy  kith  and  kin  :
 I'll  tend  my  agcil  (tArents  their  niountain-cave  within.
 
-Then  the  Bo lhi.sjittA,  fnKKl  from  the  fear  of  d»*ath,  joyfully  g>tve  thanks
+Then  the  Bo<lhi.sjittA,  fnKKl  from  the  fear  of  d»*ath,  joyfully  g>tve  thanks
 and  spoaking  a  tiual  stanza  took  his  mouthful  of  meat,  and  went  away  and
 gave  it  to  his  |>aivnt«i.
 
@@ -11882,7 +12275,7 @@ nAHHM.M'I   I'I'IIA -lATAKA.
 
 ^^  Friend  Anullmci'irJ,"  «•/«'. — The  Mjistor  told  thiM  while  dwelling  in  Jeta-
 vnn;i,  conceniing  r]tnnand/i,  «»f  the  Sukyji  tril*.  He  wjw  nnlaineii  in  the  faith,
-hilt  forH4M)k  the  virtues  t>{  contentiiioiit  an l  tlu-  rf.st  ami  Kvanie  very  greedy.
+hilt  forH4M)k  the  virtues  t>{  contentiiioiit  an<l  tlu-  rf.st  ami  Kvanie  very  greedy.
 At  the  Ix'giniiiiig  of  the  rain.s  he  trie*!  two  or  thrc«;  niona.steries,  leaving  at
 one  an  lunhrella  or  a  .sh'X',  at  one  a  walking-ntick  or  a  water-jxit,  and  dwell-
 in  one  hini.>M'lf.  He  liegan  the  min.s  in  a  iouiitry-niona.st«'ry,  and  staying,
@@ -11892,15 +12285,15 @@ praiNing  eontentnient  with  the  ntvejvwirit-M.  Hearing  him  the  l'>rethren
 iiway  their  |>leif»j»nt  roliew  and  veju^'ln,  and  took  jnitH  of  clay  and  rtAutt  of  du^t-
 ragH.  He  put  the  ottiepH  in  his  own  Imlging.  and  when  the  rainn  and  the
 luivanuiA  festival  were  over  he  tillitl  a  cart  and  went  to  JeUivanjk.  On  the  way,
-iii>hind  a  nioiiiLHt<-ry  in  the  foront,  wnipping  Imh  feet  with  creeiierM  an l  njiying,
+iii>hind  a  nioiiiLHt<-ry  in  the  foront,  wnipping  Imh  feet  with  creeiierM  an<l  njiying,
 "Surely  something  cjin  U*  got  here,"  he  entere»i  the  mon^i-'Htery.  Two  oUl  ItrethrtMi
 had  .H|>t*nt  the  rain.n  there  :  they  had  got  two  euantc  eliMik.s  and  one  tine  Manket,
-an«l,  a."*  thev  could  not  divitlu  them,  thov  w rv  ple i««l  t4)  «•«  hint,  thinking,  "TIum
+an«l,  a."*  thev  could  not  divitlu  them,  thov  w<rv  ple<i««l  t4)  «•«  hint,  thinking,  "TIum
 Klder  will  divide  the«f  lM«tw«?»-n  m  I,  "Sir,  we  cannot  dividi*  thi«  which  in
 
 raiment  for  the  mihh;  we  have  .i  Jmut  it,  do  you  divide  it  Iwtwii-n  iw."
 
-He  c jn.Hent4-d  and  giving  the  tw<>  (••.ijn*.*  clonkn  to  them  he  Utttk  the  Manket,
+He  c‹jn.Hent4-d  and  giving  the  tw<›  (••.ijn*.*  clonkn  to  them  he  Utttk  the  Manket,
 Haying,  "Thi.s  falls  to  me  who  know  the  nt!*-'  <>f  diftcipline,''  and  went  away,
 ThcHo  KMer^,  wh"  |o\«il  the  blanket,  weii-  n   to  Jetavaiiit,  and  told  the
 
@@ -11917,19 +12310,19 @@ thev  rai.se*!  a  '     '  "  i,  of  the  S^ikva  tri)>e,  is  v«»rv  coVeto
 andgn»sly."  r  subject,  .said,  " Hrolhrn«,  I  {tanandAH
 
 decs  Ls  an-  n<'t  -u;t<.i  i  i  ip^p --  .  winn  i  I'rothfr  explains  progress  to  another
-he  .should  fimt  act  nuit^tbly  himwdf  an l  then  preach  t^i  othem,''
+he  .should  fimt  act  nuit^tbly  himwdf  an<l  then  preach  t^i  othem,''
 
 VoupM'lf  fip+t  hUtblish  in  pn»priety,
 
 'I'hcn  tcjich  ;    the  wiitc  ithoidu  not  sclf-ticcking  be.
 
 Hy  thiM  HtAii/ii  of  the  DhammajMida  he  Hhciwcd  the  law  and  Kaid,  "  Hruthen«,
-L'|>anan !a  i.s  not  covetous  f<>r  the  tirMt  time  ;  he  wom  no  before  aiic!  lie  plundcrc !
+L'|>anan<!a  i.s  not  covetous  f<>r  the  tirMt  time  ;  he  wom  no  before  aiic!  lie  plundcrc<!
 men'n  pn>j>erty  U-forc " :  and  .so  lie  told  an  old  tale.
 
 
 Once  u|»on  n  tiim-  wb«-n  iW-uhiiiadattu  was  nif^ning  in  lt<-iiare«,  th<*
-Iktdhi.Hutta  was  a  tn-e^pirit  by  a  river-l>ank.  A  jiu'kal,  name l  Mayavi,
+Iktdhi.Hutta  was  a  tn-e^pirit  by  a  river-l>ank.  A  jiu'kal,  name<l  Mayavi,
 had  taken  a  wife  and  livetl  in  a  place  by  that  river-ljank.  One  day  his
 mate  said  to  him,  "  Husl>and,  a  longing  ha^t  come  uj»on  me;  I  denire  to
 eat  a   frv»h  rohita   tish.'"      He  K.iifl,    "  lie  t-a-sy,    I    will   bring  it  you,'    and
@@ -12055,10 +12448,10 @@ him  ami  ho  tolil  them  thw  mattiT.  The  king  naid,  "The  homtchoUl  pric
 iM)n  do«H  not  u{>|>tiir,  how  in  thin!"  Wlu»n  \\v  hi-anl  the  caa««,  h«  M«?nt  for
 him  iind  wiid,  "I  givt*  \wv  U^  you  for  Mt>v<»n  days,  m»cnd  those  dayt  at  your
 huuNi>  and  on  thr  eighth  Mond  her  iMck."  IIu  Haid,  "Very  well,"  and  taking
-lier  t4»  hiH  hmiw  t H)k  delight  with  her.  They  liecame  enamounHl  of  rach
+lier  t4»  hiH  hmiw  t<H)k  delight  with  her.  They  liecame  enamounHl  of  rach
 oUier,  and  keeping  it  mn-n-t  they  fh-d  hy  the  Iioum*  door  and  came  t«»  the
 c*»untry  of  another  king.  No  man  knew  the  plaw  they  went  to,  and  their
-|»uth  wiiM  like  the  way  of  a  ahip.  The  king  ma(le  proclamation  l)y  drum
+|»uth  wiiM  like  the  way  of  a  ahip.  The  king  ma‹le  proclamation  l›y  drum
 round  the  fity,  and  though  h«>  nought  in  numy  wayn  he  did  not  find  the
 place  whither  hIh'  had  gone.  Then  great  »«»rn»w  for  her  fell  u|ion  him  :  his
 heart  l»«>can»o  hot  and  |>oun'd  out  KIimmI  :  after  that  Mood  Mowitl  fron»  hia
@@ -12075,7 +12468,7 @@ look  down  on  the  gathering  :  the  king  tweing  tht>  man  Mwallow  a  awo
 will  ask,  '  Ih  there  anything  hanler  than  that  1 '  Tlien,  my  lord  Ayura,
 you  hhould  make  an-swer,  *  It  in  banlcr  to  Hay  'I  give  up  bo  and  •o'":
 then  he  will  a.sk  you,  my  lord  PukkuHa.jiud  you  ahould  nuike  aiutwer,
-"O  king,  if  a  man  say*,  '  I  give  up  ho  and  «o '  an l  do«'H  not  give  it,  hia
+"O  king,  if  a  man  say*,  '  I  give  up  ho  and  «o '  an<l  do«'H  not  give  it,  hia
 wonl  is  fruitleaa,  no  men  live  or  eat  or  drink  hy  auch  wortla  ;  hut  they
 who  do  occording  to  that  worti  and  give  the  thing  according  to  their
 ■promiHo,  they  do  a  thing  hauler  than  the  other:  then  I  will  Hnd  what
@@ -12089,11 +12482,11 @@ three  inches  ami  shai^i  of  etlge.  The  king  aetMug  him  thought,  "  Tli
 is  swallowing  the  sword,  I  will  a.sk  thejte  wise  men  if  there  is  anything
 harder  than  that":   so  he  asktnl  Ayuni,  speaking  the  first  stanza  :  —
 
-'  Dftsnnna's  ginnl  .swoni   tliir>t.s  for  hhxid,  it.«*  edge  \i^  ! hnr|enrd  jtrfectly:
+'  Dftsnnna's  ginnl  .swoni   tliir>t.s  for  hhxid,  it.«*  edge  \i^  !<hnr|enrd  jtrfectly:
 Vet  "niitlst  the  cnnvd  he  xwallows  it:    a  hanler  feat  there  caiumt  !«:
 I  ft.sk  if  iinything  is  haul  c»jmiv\red  to  thi.n:    pn»y  answer  me.
 
-■  A  kingdoui  iu  Central  India,  api(arvntly  a  Mcat  i)f  the  sword-making  art.
+■  A  kingdoui  iu  Central  India,  api‹arvntly  a  Mcat  i›f  the  sword-making  art.
 
 
 No.   401.  209
@@ -12120,7 +12513,7 @@ Im  thcrv  aught  that's  hard  comiwirwl  t^.  this  /  pray  answer  me.
 The  wise  Pukkusa  in  answer  to  him  spoke  the  fourth  stanza:  —
 
 Not  by  words  men  live,  and  not  by  language  tittered  fniitleHsly  :
-But  to  give  and  n it  regret  it,  that  a  greater  feat  would  Iw  :
+But  to  give  and  n<it  regret  it,  that  a  greater  feat  would  Iw  :
 All  things  else  are  easy;  myal   MAgatlha,   I've  answereii  thee.
 
 [340]  The  king,  hearing  this,  considere«l,  "  I  first  said.  *  I  will  give
@@ -12129,7 +12522,7 @@ gave  her:  surely  I  have  done  a  hanl  thing":  mo  his  sorrow  iMJcamo  l
 Then  it  came  into  his  mind.  "There  is  no  one  wis«-r  than  wise  84-naka,  I
 will  ask  this  question  of  him"  :  and  asking  him  he  s|)oke  the  fifth  stanza  :—
 
-Pukkusa  ha/*  si»lvoil  my  «iur«li in,  wis«  in  all  phil<«»«»phy  :
+Pukkusa  ha/*  si»lvoil  my  «iur«li<in,  wis«  in  all  phil<«»«»phy  :
 S©naka  I  ask  the  quwtion  imw,  if  hanler  foat  there  Ito :
 Is  there  aught  that's  liard  com|»arc«l  Ut  this  f  pray  answer  me
 
@@ -12143,10 +12536,10 @@ The  king,  hearing  the  Bodhisatta's  wonK  nflectwl :  "  I  gave  the
 que<>n  to  the  priest's  son  of  my  own  thought  :  [341]  now  I  cannot  control
 my  thought,  I  sorrow  and  pine  :  this  is  not  worthy  of  me.  If  she  IovjhI
 me  she  would  not  forsake  her  kingdom  and  fl»'C  away:  what  have  I  to  do
-with  her  when  she  has  not  loved  mo  but  rte l  iiway  ?"  As  he  thought  thus,
+with  her  when  she  has  not  loved  mo  but  rte<l  iiway  ?"  As  he  thought  thus,
 all  his  sorrow  rolled  away  and  dei«rt«l  like  a  drop  of  water  on  a  lotus  leaf.
 That  instant  his  entrails  were  at  re«t.  He  Ix-came  well  and  happy,  and
-praise(l  the  Ik)dhisatta,  sp^-aking  the  final  stanza : —
+praise‹l  the  Ik›dhisatta,  sp^-aking  the  final  stanza : —
 
 Ayura  answered  qrieHtion,  gtKxi  Pukkusa  as  well  :
 The  words  of  Senaka  the  wise  all  answers  do  excel.
@@ -12482,21 +12875,21 @@ ATT"  I^EN'A- JATAKA.
 Mhriiii'  «jilli^l  Ak^jjVI.ivh  near  ALivI,  iMnccrnini;  the  n*Knlnti(>nn  fur  thf  IxnldinR  of
 crils'.  Tho  fKiiL-iiun  wiLS  toM  in  tin*  MaiukuntliA  IWrth^  lilMivo.  Tho  MjmU»r
 a«Mro.s.Hnl  tho  Hn-thn'n,  .njivin};,  " Mn-thn-n,  foniiorly  [3.'>2]  U'foro  Itudtihu  w»wi
-lM)rn  in  the  worUI,  prioMls  of  othor  n»lim()n.H,  i(von  though  orti-ntl  thoir  i-l)i)ii«»  hy
+lM)rn  in  the  worUI,  prioMls  of  othor  n»lim<>n.H,  i‹von  though  orti-ntl  thoir  i-l›i>ii«»  hy
 kingM,  ncvor  ik^kttl  for  iilnin,  hulding  that  )>«^'ing  from  othrrs  wjim  not  ngrvoAhlo
 or  pluuwint,"  And  no  ho  told  thu  tnlo  of  old  tiino.
 
 
 <  >nc(>  U|)on  n  tiinr  whon  HruhiuAdtitta  wa«  n>i^in^  in  HonanH,  the
-I{ MlhiHalta  wu.s  iMini  in  n  hrnhinin  boinudiuld  in  a  ct'itaiu  villagt*,  and  thoy
-oiilltvl  his  Muini'  youn^  AtthiHima.  \Vhi»n  \\f  jfn-w  up,  h»'  lramo l  all  tho
+I{<MlhiHalta  wu.s  iMini  in  n  hrnhinin  boinudiuld  in  a  ct'itaiu  villagt*,  and  thoy
+oiilltvl  his  Muini'  youn^  AtthiHima.  \Vhi»n  \\f  jfn-w  up,  h»'  lramo<l  all  tho
 iirUs  at  Tnkku.sihi,  and  uftorwardti  fU'cin^;  the  niis«ry  of  tlfMirtm  he  took  the
 roli^'ioUH  lift',  and  r«>nching  tho  high(>r  Facultitw  and  Attaininontu,  he  dwelt
 long  in  tho  Iliniiiluyu:  then  coming  down  among  men  to  got  lUilt  and
 vinegar,  he  reached  Henan-j*.  and  after  wt^iying  in  a  garden  he  camo
 lagging  next  day  to  tho  king's  court.  Tho  king,  Inking  pleased  with  his
-)H(aring  and  manner,  nent  for  him,  and  M)t  liim  on  a  seat  on  the  terrace,
-giving  him  goo l  fo^xl  :  then  receiving  his  thanks  he  was  pleased,  and
+)H<aring  and  manner,  nent  for  him,  and  M>t  liim  on  a  seat  on  the  terrace,
+giving  him  goo<l  fo^xl  :  then  receiving  his  thanks  he  was  pleased,  and
 exacting  a  promise  made  the  Ikxlhi.nattu  dwell  in  the  royal  garden,  and
 went  to  wait  on  him  two  or  three  times  each  day.  One  day,  l)eing  pleased
 with  his  preaching  of  tho  law,  ho  gave  him  a  choice,  saying,  '*  Tell  me
@@ -12557,7 +12950,7 @@ UchI  kino,  and  eko  the  leader  of  the  hcnl  :
 Hearing  but  now  those  genennw  deeds  of  thine,
 I   too  in  turn  to  generous  deeds  am  stirrwi.
 
-When  he  said  this,  the  Bo lhisatta  refuse l,  saying,  "  Great  king,  I  took
+When  he  said  this,  the  Bo<lhisatta  refuse<l,  saying,  "  Great  king,  I  took
 the  religious  life  free  from  defilement :  I  have  no  need  of  cows."  The
 king  ab(Kle  by  hi.«  admonition  ;  doing  alms  and  other  good  works  he
 U'came  destined  for  heaven,  and  not  falling  away  from  hia  meditation,  was
@@ -12584,7 +12977,7 @@ luiM  not  iKt-Mi  di!r«tn>)(Ml  with  hiit  r<)ii>|Hiiiy  now  fur  the  tint 
 bcforu,"  and  ho  t4«ld  an  uld  Liilo.
 
 
-Once  upuii  u  tiiiio  when  BnihmiMlutta  wom  kiii^  in  It« narcii,  the
+Once  upuii  u  tiiiio  when  BnihmiMlutta  wom  kiii^  in  It«<narcii,  the
 Ilodhisattu  wax  l>orii  in  the  wtinil*  uf  a  inonkvy,  and  liviMl  in  tho  king's
 gardcMt  with  a  n'tiniu>  of  tivo  huiidrtHl  inunk«*y»».  [IJ^Gj  Ih'ViidattA  w»ik
 also  born  in  th)<  womb  uf  a  moiikcy,  and  UvihI  there  aliio  with  a  retinue  of
@@ -12599,7 +12992,7 @@ and  threatened  the  monkeys.  He  made  announcement  to  tlie  thousand
 monkeys,  "It  i.s  not  well  to  dwell  near  the  habitation  of  the  angry;  let
 the  whole  troop  of  monkeys  Hee  and  go  elsewhere."  A  disolnxlient
 monkey  took  his  own  n>tinue  and  did  not  tl(H%  saying,  "  I  will  sec  about  it
-aft Twards."  The  Bcnlhisatta  took  his  own  retinue  and  went  to  the  forest.
+aft<Twards."  The  Bcnlhisatta  took  his  own  retinue  and  went  to  the  forest.
 One  day  a  female  slave  pounding  rice  hud  put  .some  rice  out  in  the  «un
 and  a  goat  was  eating  it  :  getting  a  blow  with  a  torch  and  running  away
 on  tire,  he  was  rubbing  himself  on  the  wall  of  a  grass-hut  near  an  elephant-
@@ -12647,7 +13040,7 @@ Who  virtue,  wistlom,  learning,  doth  inxs-sexH,
 His  decils  himself  and  other  nicn  will  blejw.
 
 Thcroforo  virtue,  knowledge,  learning',  and  himself  let  hini  rt'Kanl,
-Either  \>g  a  lonely  Saint  or  o'er  the  fl«)ck  keep  watch  an l  wanl.
+Either  \>g  a  lonely  Saint  or  o'er  the  fl«)ck  keep  watch  an<l  wanl.
 
 [358]  So  the  li^xlhisattii,  lK>coming  king  of  monkeys,  explained  the  way
 of  learning  the  Discipline.
@@ -12675,24 +13068,24 @@ mentioned  below.
 
 220  Tlu:  Jdtaka.     Book    Vll.
 
-l)rttctiH«(i  uiLHliUktiun,  ho  ho  WiiM  liorii  iit  the  VehappluiLi  hv^vvii.      Huviiig  B))ciit
+l>rttctiH«<i  uiLHliUktiun,  ho  ho  WiiM  liorii  iit  the  VehappluiLi  hv^vvii.      Huviiig  B)>ciit
 thcro  an  ctiMtcnco  of  five  hundroti  IcuIimim,  he  Wii.t  In.ni  in  the  SuUmkinna  heaven  ;
 
-ftfter    Mixtv-foiir    kiiliww    thcro    he    i)iui.sc(l    and    wiw»    l«)ni    in    the    AhhAMiuira
+ftfter    Mixtv-foiir    kiiliww    thcro    he    i>iui.sc‹l    and    wiw»    l«›ni    in    the    AhhAMiuira
 heftveii,  where  cxi.Hteiice  is  for  c\^\\t  Vi\\\>iin.      It  Wiw  there  that  this  f-iNo  d'wtrinn
 aro.se  in  him.      Ho  forgot  thiit  he  had   iNi.rtMv«l  from  higher  Hmhi
-and  had  )H>vn  Ixirn  in  that  heaven,  an l  {lerveivin^  neither  of  tl.'  ..i
+and  had  )H>vn  Ixirn  in  that  heaven,  an<l  {lerveivin^  neither  of  tl.'  ..i
 
 taken  up  the  false  diK-trine.  The  Lml,  iindi'Pttanding  hiw  refhvt^^in,  ['X>'j\  a-s
 eo-sily  ils  a  Htron^  man  can  ext«Mui  his  lieiit  nnn  or  licnd  his  extended  arm,
 di.sjii)l»earin^  from  Jotavano,  H|>|M>ansi  in  that  Mrahmalokii.  The  hrahiUA,  iH-<>in^
 the  1/onl,  siiid,  "Como  hither,  my  lorvl ;  weUome,  my  loni ;  it  i.s  a  lon^  tune,  my
 lord,  nino;  thou  hiust  taken  thus  o|i|Nirtunity,  uven  for  coming  hither;  thit  world,
-my  lonl,  i.s  ^ti r]H.-tual,  it  its  {lonuanent,  it  i.s  eternal,  it  is  atinolutc,  it  in  un-
+my  lonl,  i.s  ^ti<r]H.-tual,  it  its  {lonuanent,  it  i.s  eternal,  it  is  atinolutc,  it  in  un-
 chan^ini;;  thi.s  worhl  is  not  )>oni,  it  divay.s  not,  it  ilictt  not,  it  |>41m.soh  not  aw  i. ,
 it  i.s  not  iMirii  apiin  :  aiwirt  from  this  world  them  in  no  other  Hnlvation  Itcvii;  I
 When  thi.s  was  .s^iid,  tlio  Lord  Maid  to  liaka  tho  hrahma,  "ilaka  the  hriihm.i  I  i<
-come  to  ijjnorance,  he  has  come  to  ii;noran e,  when  he  will  nay  that  a  tliu
+come  to  ijjnorance,  he  has  come  to  ii;noran<e,  when  he  will  nay  that  a  tliu
 which  is  not  |M>rnianont  is  i>eniianeiit,  and  ho  on,  and  that  there  is  \\\t  utiirr
 wilvatioii  ajuart  fri>m  this  when  then'  is  another  salvation."  liearini;  this  tho
 hrahnia  thought,  "This  one  pn-s.se.'s  mo  hanl,  tindin^  out  exactly  what  I  fwiy,"
@@ -12720,7 +13113,7 @@ Hirth.  age,  and  .sorrow,  all  l»enoath  me  lie  :
 What  .should   I  do  with  goixl  works,  long  ago?
 Vet  tell  mo  something.   Lord,  that   I  .should  know.
 
-Then  the  L mi,  relating  and  showing  him  thingn  of  past  time,  Mi>oko  four
+Then  the  L<mi,  relating  and  showing  him  thingn  of  past  time,  Mi>oko  four
 Ktauzas : —
 
 To  many  a  man  of  old  thou  gavo-st  drink
@@ -12744,7 +13137,7 @@ No.   406.  221
 
 And  I  was  Kappa,  thy  disciple  true,
 Thy  wi»d(jin  ana  thv  virtuc-s  all   I  knew  :
-And  now  those  dee l.s  of  thine  so  long  ago
+And  now  those  dee<l.s  of  thine  so  long  ago
 Hemeiuberi ng,  aa  if  wuke<.l  from  sleep,  1  know.
 
 [3631  Hearing  his  own  deeds  from  the  Master's  discourse,  Baka  gave  thunks
@@ -12757,7 +13150,7 @@ Even  this  Brahma  world  illuminate.
 
 So  the  Master,  making  known  his  qiuility  as  Buddha  and  exj>ounding  the
 Iaw,  shcwrtl  forth  tho  Truths.  At  the  end  the  thoughts  of  ten  thou.sand
-brahmas  were  free(l  from  atLaclinicnts  and  sin.s.  So  the  l^»nl  l)fainie  the  refuge
+brahmas  were  free<l  from  atLaclinicnts  and  sin.s.  So  the  l^»nl  l>fainie  the  refuge
 of  nmny  l>nihnui«,  and  going  l«uk  fnim  Bmhmaloka  to  Jetiviuia  preached  the
 law  in  the  way  descril»ed  and  identifu-*!  thi'  Birth:  "At  that  time  li^ika  the
 bnihma  was  the  a-scetic  Ke-sava,  KapjMi  the  disciple  was  myself."
@@ -12769,19 +13162,19 @@ No.   406.
 OANDIIARA-JATAKA,
 
 
-"  Village*  full  «Lrt v«  thousatui"  etc. — The  Master  told  this  when  dwelling  in
-Jctavana,  concerning  the  i)recept  on  the  storing  up  of  me licinc«'.  The  occ^ision
+"  Village*  full  «Lrt<v«  thousatui"  etc. — The  Master  told  this  when  dwelling  in
+Jctavana,  concerning  the  i)recept  on  the  storing  up  of  me<licinc«'.  The  occ^ision
 however  aro.se  in  Kajiigalui.  When  the  vcncnibio  I'ilindiyuviucha  went  U>  the
 king's  dwelling  to  .set  free  the  park-keci)cr"s  family',  he  made  the  |Milfico  all  of  gold
 by  magic  jx)Wfr  :  imd  the  jtcplc-  in  tneir  delight  brought  to  that  elder  the  five
 kinds  of  medicine,  lie  gave  them  awav  to  the  congregation  of  Brethn;n.  .So
-tho  congregation  alxiuridLtl  in  mwlicines,  [3G4]  and  a.s  they  rtxeived  the  me licincH,
+tho  congregation  alxiuridLtl  in  mwlicines,  [3G4]  and  a.s  they  rtxeived  the  me<licincH,
 thev  tilleti  ix)Ls  and  jars  and  luigx  in  this  way  and  laid  them  aside.  People
 .seemg  this  murnuired,  saying,  "Those  greedy  priests  are  h(Uinling  in  their
 houses."  The  Miuster,  hearing  this  thing,  declared  the  precept,  "  Whatever
 medicines  for  sick  brethren  [sc.  are  received,  mast  l>e  used  withui  .sc-vcn  days],"
-and  siiid,  "  Brethren,  wise  men  of  old,  l>efore  the  Buddha  api>eare l,  ordaitied
-in  hereby  and  keeping   nily  the  five  precepts,  u.se l  t4j  chide  tho.sc  who  laid  aside
+and  siiid,  "  Brethren,  wise  men  of  old,  l>efore  the  Buddha  api>eare<l,  ordaitied
+in  hereby  and  keeping  <nily  the  five  precepts,  u.se<l  t4j  chide  tho.sc  who  laid  aside
 even  .salt  and  sugar  for  the  next  day ;  but  you,  though  orduinetl  in  such  a  rule  of
 .salvation,  make  a  hoard  for  the  second  and  the  third  day,"  and  so  he  told  the
 talc  of  old.
@@ -12798,8 +13191,8 @@ kingdom  ;  at  his  fatht-r's  death  ho  becamo  king  and  ruled  with  right
 222  Thr  Jr,t,ih,.     liuuk    Vll.
 
 
-In  the  Central  Regii>n,  in  iln^  kiii:,' li)in  of  Vidoha  u  kmj^  named  Videha
-was  rulin j  at  tho  tiiiu'.  Thi-.sc  two  kiit^H  had  iH)v«'r  Hf«n  each  othrr,
+In  the  Central  Regii>n,  in  iln^  kiii:,'<li)in  of  Vidoha  u  kmj^  named  Videha
+was  rulin<j  at  tho  tiiiu'.  Thi-.sc  two  kiit^H  had  iH)v«'r  Hf«n  each  othrr,
 hut  thoy  were  friends  and  had  great  trust  the  one  in  the  other.  At  that
 time  men  were  long-lived  :  their  life  whs  for  thirty  thousand  years.  'I'hen
 onco,  on  the  fast  day  of  the  full  uioon,  the  king  of  (Jandhuni  hat!  taken  the
@@ -12808,11 +13201,11 @@ prepared  for  him,  looking  through  an  oj>on  window  on  the  eiustrrn  iju
 he  .sat  giving  to  his  niini.stei-M  ii  discouiTM'  on  the  sulwitanc*'  of  tlu-  liiw.  At
 that  niouu-nt  Kaliu  wjis  covering  the  moon's  orh  which  wjis  full  and
 spreading  over  the  hky.  The  moon's  light  vani.shed.  The  nunistei-s,  not
-8 !eing  the  moon's  l)rightneHS,  told  tin-  king  that  the  m(K)n  was  seizjHJ  hy
+8<!eing  the  moon's  l)rightneHS,  told  tin-  king  that  the  m(K)n  was  seizjHJ  hy
 Kahu.  Th»>  king,  observing  the  moon,  thought,  "That  moon  hjis  lost  its
 light,  heing  marred  by  some  troubh-  froni  outsith*  ;  now  my  royal  retinue
 is  a  trouble,  and  it  is  not  mtn-t  that  1  should  lose  my  light  like  the  moon
-sei/e l  by  Rahu .  I  will  leave  my  kingdom  like  the  moon's  orb  shining  in  a
+sei/e<l  by  Rahu .  I  will  leave  my  kingdom  like  the  moon's  orb  shining  in  a
 clear  sky  ami  Ix-come  an  a.scetie:  why  should  I  admonish  another?  I  will
 go  alK)ut,  iletviihe«l  frouj  kin  and  piopii«,  admonishing  myself  alone:  that  is
 meet  for  me."  So  he  said,  "  As  ye  pU^asc  [SG.')]  so  do,"  and  gave  over  the
@@ -12906,7 +13299,7 @@ it  is  not  nu'ft  for  one  to  s|»eak  after  annoying  imd  an;,'»'ring  a
 though  he  Hjieaks  to  the  |K)int  :  [3GH]  you  an-  HjH'uking  vrry  harshly  to  me,
 as  if  shaving  me  with  l>lunt  steel,"  and  so  he  s|>okR  the  fourth  stanza : —
 
-Whuts(jcver  words,  if  «|«)keu,  wduKI  to  others  caiuw  ofienco,
+Whuts‹jcver  words,  if  «|«›keu,  wduKI  to  others  caiuw  ofienco,
 
 Wisi-  iiu'ii  Iciivc  those  worvls  unsix)kon,  though  of  mighty  consctiucnce.
 
@@ -12918,7 +13311,7 @@ UighteousncHs  when   I  am  .M|)wiking,  sin  on  me  can  leave  no  s|»ot
 Having  so  said,  ho  wont  on,  •*  I  will  not  work  with  you,  O  Xnanda',  aa
 a  jM)tter  with  raw  clay  only  :  I  will  sjM'uk  chiding  again  an«l  again;  what
 is  truth,  that  will  ahide."  And  so  being  steadfast  in  conduct  suitahlo  to
-that  admonition  of  the  Hlesse(l  One,  as  a  i)ott«'r  among  his  vessels,  after
+that  admonition  of  the  Hlesse‹l  One,  as  a  i›ott«'r  among  his  vessels,  after
 heating  them  often,  takes  not  tho  raw  clay,  hut  takes  the  haked  veoael
 only,  so  preaching  and  chiding  again  and  again  he  takes  a  man  like  a
 gootl  vessid,  iiiid  preaching  to  show  him  this,  he  %\\oVe  this  pair  of
@@ -12956,9 +13349,9 @@ MAIIAKAPI-JATAKA'.
 "  Vou  made  yonrself,^'  etc — The  Miustcr  told  this  while  dwelling  in  Jetavana,
 (•<>ncernin<;  giMxl  works  towani.s  one's  i*elatives.  The  occa-sion  will  ajUK^ar  in  tlie
 lihuddasfila  I'.irth-'.  Thev  liegaii  talking  in  the  Hall  of  Truth,  saying,  "The
->iil>renie  l>uddlia  diK?.s  go Hl  works  towanls  his  relatives."  [37<>]  When  the  Mjuster
+>iil>renie  l>uddlia  diK?.s  go<Hl  works  towanls  his  relatives."  [37<>]  When  the  Mjuster
 luul  askeil  and  been  told  their  thenie,  he  said,  "  liruthren,  this  is  not  the  tii-st
-time  a  Tathagat^i  hius  dom-  go(» l  works  towai-ds  his  relativus,"  and  so  he  tolil  a
+time  a  Tathagat^i  hius  dom-  go(»<l  works  towai-ds  his  relativus,"  and  so  he  tolil  a
 tiile  of  old  time.
 
 
@@ -13021,7 +13414,7 @@ vagrant  monkeys:'  what  are  we  to  do?"  and  so  stood  shivering.  The
 Bodhisatta  said,  "Do  not  fear,  I  will  give  you  life  ;"  and  so  comforting  the
 herd  of  monkeys,  he  a.scended  a  branch  that  ro.se  \ip  straii^ht,  went  along
 another  branch  that  stretched  towards  the  (ianges,and  springing  from  the  end
-of  it,  he  passed  a  hundred  bow-lengths  and  lighte l  on  a  bu.sh  on  the  bank'.
+of  it,  he  passed  a  hundred  bow-lengths  and  lighte<l  on  a  bu.sh  on  the  bank'.
 Coming  down,  he  marked  the  distance,  saying,  "That  will  be  the  di.stance  I
 have  come  :"  [372]  and  cutting  a  bamboo  shoot  at  the  root  and  stripping  it,
 he  said,  "So  much  will  be  fastened  to  the  ti^ee,  and  so  much  will  stay  in  the
@@ -13129,7 +13522,7 @@ mother  her  In^loved  son,  or  a  one  eyed  n)an  his  eye;  so  in  the  ver
 bukes a  sin  which  is  iK-ginniiig.  He  was  ol>ser\'ing  .TcUwana  on  that  midnight
 and  knowing  the  Brethren's  conduct  of  their  thoughts,  he  consiilered,  "This  sin
 among  these  l>rethi-en  if  it  grows  will  destroy  the  cause  of  .'^ainthoiKl.  1  will  this
-n)omcnt  ivhuke  their  sin  and  shr»w  them  Sainth HKi"  :  .so  leaving  the  perfume l
+n)omcnt  ivhuke  their  sin  and  shr»w  them  Sainth<HKi"  :  .so  leaving  the  perfume<l
 chamher  he  called  Ananda  [37^),  and  hidding  him  collect  all  the  brethren  dwelling
 in  the  place,  he  got  them  together  and  sat  down  on  the  seat  prepanni  for  Huihlha.
 He  said,  "  I'.rethren,  it  is  not  right  to  live  in  the  iH)wer of  sinful  thoughts;  a  sin  if
@@ -13227,11 +13620,11 @@ their  feet,  lor  the  sake  of  the  meat.  Not  enduring  to  be  killed,  th
 dropt  the  flesh,  another  bird  took  it :  the  rest  leaving  the  hawk  fell  on  the
 other :  when  he  relinquished  it,  a  third  took  it :  and  they  pecked  him  also
 in  the  .same  way.  The  king  .seeing  those  l)irds  thought,  "  Whoever  tot»k
-the  llesh,  sorrow  befel  him  :  whoever  relin iuished  it,  happiness  bcfel  him  :
+the  llesh,  sorrow  befel  him  :  whoever  relin<iuished  it,  happiness  bcfel  him  :
 whoever  tiikes  the  five  pleasures  of  sense,  sorrow  bi-fals  him,  happiness  the
 other  man  :  these  are  common  to  many  :  now  I  have  sixteen  thousand
 women  :  I  ought  to  live  in  happiness  leaving  the  live  plea-sures  of  sense,
-as  the  hawk  relin iuishing  the  morsel  of  flesh."  Considering  this  wisely,
+as  the  hawk  relin<iuishing  the  morsel  of  flesh."  Considering  this  wisely,
 ['M\)]  standing  as  he  was,  ho  realisetl  the  three  properties,  attained  spiritual
 insight,  and  reached  the  wisdom  of  paccekabuddha-hood.  The  rest  as
 lief  ore.
@@ -13333,7 +13726,7 @@ Like  a  Mnl  from  h.uul  >ft  free.
 
 Till-  hodliisjittu  hearing  lu'r  words  was  sih-nt.  She  wa.s  ilect-iving  the
 JjodhiiMitUi,  and  was  anxious  to  take  the  religious  lite  l>efore  hini:  so  she  said,
-•' Hu8ban l,  T  am  going  to  the  water-tank,  do  you  look  afl*T  the  children,"
+•' Hu8ban<l,  T  am  going  to  the  water-tank,  do  you  look  afl*T  the  children,"
 and  taking  a  pot  as  it'  she  had  heen  going  there,  she  went  away  and  coming  to
 the  ascetics  outside  tht;  town  shi-  was  ordained  l)y  them.  l  he  li<>«lhi8iitta
 dnding  that  she  did  not  return  attended  to  the  children  himself.  After-
@@ -13349,7 +13742,7 @@ will  lx>  able  to  live  in  their  own  way  :  I  ought  t«»  become  orda
 'I'hen  showing  them  to  their  kinsfolk  Im'  was  ordained  to  the  religious  life,
 and  dwelt  outside  the  city.  Then  one  day  the  female  astcetic  Iw'gging  in
 Benares  saw  him  and  saluted  him.  Haying,  "Sir,  I  lK?lieve  you  kilhnl  the
-children."  The  Hodhi.satta  sai l,  "  I  don't  kill  children  :  when  they  could
+children."  The  Hodhi.satta  sai<l,  "  I  don't  kill  children  :  when  they  could
 undi'rstand  for  then).s«'Ive3  I  became  ordained  :  you  were  careless  of  them
 and  pleased  youi-self  by  being  ordaineil"  :  and  .so  he  sjioke  the  last  stanza  : —
 
@@ -13358,7 +13751,7 @@ I  l»ecame  a  Brother:    leave  me,  we  can  follow  each  the  law.
 
 So  exhorting  the  female  ascetic  he  took  leave  of  her.  She  taking  the
 exhortation  saluted  the  liodhisatta  and  went  to  a  place  that  plea.sed  her.
-After  that  day  they  never  saw  each  other.  The  B T lhisatta  reaching  super-
+After  that  day  they  never  saw  each  other.  The  B<T<lhisatta  reaching  super-
 natural kn(nvleilgo  became  destined  to  the  Brahma  heav»'n.
 
 
@@ -13382,18 +13775,18 @@ elephant.  Now  the  way  in  which  this  elephant  was  adometl  and  the  roy
 of  rdena  will  be  set  forth  in  tlie  Matiii'iga*  Birth.  One  diiy  this  elephant  going
 out  of  the  city  in  the  moniing  siiw  the  Buddha  surrounded  by  a  multitude  of  siiints,
 in  the  inconipiirahle  majesty  of  a  Buddha,  entering  the  city  for  alms,  and  falling
-at  the  Tathagatii's  feet,  with  lamentiition  slie  prayed  t j  him,  sjiying,  "Lord
+at  the  Tathagatii's  feet,  with  lamentiition  slie  prayed  t<j  him,  sjiying,  "Lord
 who  knowest  all,  siiviour  of  the  whole  world,  when  I  waa  young  and  able  to  do
 work,  Udena,  the  rightful  king,  loved  me,  .siiying,  'My  life  ami  kingdom  and
-queen  are  all  due  to  her,'  and  gave  n»e  gi-e;it  honour,  ad jrning  me  with  all  orna-
+queen  are  all  due  to  her,'  and  gave  n»e  gi-e;it  honour,  ad<jrning  me  with  all  orna-
 ments ;  he  had  my  sUiU  smearetl  with  jKirfumeil  earth,  anil  coloured  hangings
 put  round  it,  and  a  lamp  lit  with  i>crfumeil  oil,  and  a  dish  of  incense  set  there,  he
-had  a  golden  \n>t  set  on  my  dunghill,  and  made  me  st ind  on  a  coloured  cajpet,
+had  a  golden  \n>t  set  on  my  dunghill,  and  made  me  st<ind  on  a  coloured  cajpet,
 and  gave  me  royal  foot!  of  many  choice  flavours  ;  but  now  when  I  am  old  and
 civnnot  do  work,  he  has  cut  ott'  all  that  honour  ;  unprotected  and  de.stitute  I
 live  by  eating  ketakit  fruit  in  the  forest;  I  have  no  other  refuge  :  make  L'dena
 think  on  my  merits  and  restore  me  again  my  old  honour,  O  Lord."  The  Master
-said,  '"(Jo  thou,  I  will  siHJiik  to  the  king  and  get  thy  old  honour  rcst jretl," and  he
+said,  '"(Jo  thou,  I  will  siHJiik  to  the  king  and  get  thy  old  honour  rcst<jretl," and  he
 went  to  the  door  of  the  king's  dwelling.  The  king  made  Budtlha  enter,  and  gave
 greiit  entertiiinment  in  the  jwilace  to  the  assembly  of  brethren  following  I'uddha.
 When  the  meal  Wius  over,  the  Ma.stcr  gave  thanks  Ui  the  king  and  iusked,  "O
@@ -13401,12 +13794,12 @@ king,  where  is  Bhaddavatika  ?"  "Lord,  I  know  not."  "O  king,  after  gi
 honoiu*  to  .servants,  it  is  not  right  to  t^ike  it  away  in  their  old  age,  it  is  right  to
 be  grateful  and  thankful;  Bhaddavatiku  is  ikjw  old,  she  is  worn  with  age  and
 unprotected,  and  she  lives  by  editing  ketika  fnut  in  the  wrxxl :  it  is  not  meet  for
-you  to  Iftive  her  unprotected  in  her  old  age":  s(i  telling  l)ha(ldavatika's  merits
-and  Siiyiug,  "  Re.stt>re  all  her  fonaer  honours,"  [38.')]  he  departc l.  The  king  did
+you  to  Iftive  her  unprotected  in  her  old  age":  s‹i  telling  l›ha<ldavatika's  merits
+and  Siiyiug,  "  Re.stt>re  all  her  fonaer  honours,"  [38.')]  he  departc<l.  The  king  did
 so.  It  Wius  spread  over  the  whole  city  that  the  former  honour  w;is  rcsttjred
 beciiuse  the  Buddha  had  told  her  merits.  This  l>eciime  known  in  the  a.ssembly
 of  the  Brethren,  and  the  Brethren  di.scu.ssed  it  in  their  meeting.  The  Ma.ster,
-coming  and  hairing  that  this  w;us  their  subject,  s iid,  "  Brethren,  this  is  not  the
+coming  and  hairing  that  this  w;us  their  subject,  s<iid,  "  Brethren,  this  is  not  the
 fii-st  time  that  the  Buddha  has  hy  telling  her  merits  got  her  former  honours
 i-esto!X'd  ' :  and  he  toM  the  tale  of  old.
 
@@ -13427,9 +13820,9 @@ shi-ramel.
 234  Thr  Jflfuhi.      Book    VII.
 
 
-tur  tlir  kiii j;,  utitl  in  battle  she  fought  and  crushed  tho  enemy.  'I'hu
+tur  tlir  kiii<j;,  utitl  in  battle  she  fought  and  crushed  tho  enemy.  'I'hu
 kiii^  said,  "Sin-  is  vn-y  serviceahle  to  me,"  gave  Imt  nil  ornamcntB  and
-cauHcd  all  honour  to  \n'  given  h T  such  a«  Udt'iui  gave  t<»  Hhadihivatika.
+cauHcd  all  honour  to  \n'  given  h<T  such  a«  Udt'iui  gave  t<»  Hhadihivatika.
 Then  when  she  wax  weak  from  uge  the  king  t«M>k  away  all  lier  honour.
 From  that  time  sin-  wa.s  unprutoeted  and  lived  hy  eating  grusM  and  leaven
 in  the  t'f)re8t.  Then  one  day  when  tho  vohwIh  in  tlie  king'H  court  were
@@ -13503,7 +13896,7 @@ SOMADATTA-JATAK.A.
 
 ^^ Deep  ill  the  ic^xxl"  etc. — Tlie  Mii.ster  told  this  while  dwelling  at  Jetavana,
 alx)ut  a  certain  <»U1  lirother.  The  .story  wjls  that  thi.s  Hr<)thcr  onlaincd  a  novice,
-who  waitc l  on  liiin  but  soon  died  of  a  fatal  di.s«use.  The  old  man  went  about
+who  waitc<l  on  liiin  but  soon  died  of  a  fatal  di.s«use.  The  old  man  went  about
 weeping  and  wailing  for  his  dciith.  Seeing  him,  the  Hrethren  lH)gan  to  tilk  in
 the  Hall  of  Truth,  "Sirs,  this  olil  Urother  goes  aU)ut  weei)ing  and  wailing  for  the
 novice's  death  :  he  must  surely  have  neglcvted  the  meditiition  on  dc;ith."  The
@@ -13541,7 +13934,7 @@ Low  on  tho  ground  ho  li(*M  :  uIils,  my  olephant  i.s  dead.
 
 At  the  instant,  Sukkii,  surveying  the  worM,  thought,  "  Tliifl  HHcutic  left
 wife  and  child  for  religion,  now  he  is  lamenting  the  young  elephant  whom
-he  culle l  lii.s  hoii,  I  will  rouHe  hiiu  imd  make  him  think,"  and  ho  coming  to
+he  culle<l  lii.s  hoii,  I  will  rouHe  hiiu  imd  make  him  think,"  and  ho  coming  to
 the  lieniiita^^e  he  stood  in  the  iiir  and  s^ntke  the  third  Ktanza  :-  -
 
 [31MJ]  I'll  .sorrow   for  the  dead  doth  ill   IxK-omu
@@ -13596,7 +13989,7 @@ SUSiMA-JATAKA.
 JetiiVHiKi,  fibout  the  Great  RenuiKiutioii.  The  Brethren  wei-e  hitting  in  the  Hall
 uf  Truth,  iiraising  the  Buddha's  renunciation.  The  Master,  tinding  that  this
 \V!is  their  topic,  .siiid,  "Brethren,  it  is  not  strange  that  I  should  now  make  the
-Gre(it  Renunciation  and  retin'iaent  from  the  wi)rld,  I  who  have  for  many  hundnKl
+Gre<it  Renunciation  and  retin'iaent  from  the  wi>rld,  I  who  have  for  many  hundnKl
 thou.siind  ages  e.\erciseti  j>erfection  :  of  old  also  1  gave  ui»  the  reign  over  the
 kingdom  of  Kfisi,  three  hundrcil  leagues  in  extent,  and  mouc  the  renunciation,"
 and  so  he  told  the  old  tale.
@@ -13611,8 +14004,8 @@ Hoilhisatta  given  to  the  nurse  and  brought  up  together  witli  his  own 
 They  both  grew  up  fair,  like  sons  of  gcnhs  :  [.'JOl']  they  both  learned  all
 sciences  at  Takkasilii  and  came  liome  again.  The  prince  became  viceroy,
 eating,  drinking,  and  living  along  with  the  Hodhisatta  :  at  his  father's
-death  he  became  king,  giving  gn-at  h jnour  to  tin-  }5 jdhisalta  an l  making
-him  his  priest  :  one  day  he  adorned  the  city,  and  decke l  like  Sakka,  king
+death  he  became  king,  giving  gn-at  h<jnour  to  tin-  }5<jdhisalta  an<l  making
+him  his  priest  :  one  day  he  adorned  the  city,  and  decke<l  like  Sakka,  king
 of  gods,  he  went  round  the  city  in  procession,  seated  on  the  shoulder  of  a
 royal  elephant  in  his  pride,  e(pial  to  Eravana',  with  the  liodhisatta  behind
 on  the  elephant's  back.  The  queen -mother,  hxiking  out  from  the  royal
@@ -13639,14 +14032,14 @@ king,  ahe  thy  chief  queen,  I  viceroy."  The  prient  said,  "It  caunot  b
 liut  hein^  asked  a<{uin  h(>  couHenttMl  :  iiiul  the  kin<<;  math*  the  pri<*8t  king,
 th«'  (jum-n-inothcr  chiff  (|UtM'ii,  and  hiinsrlf  viciTDy.  Thry  livt-tl  till  in
 harmony  to<^ethor,  hut  thi^  Hodhisutta  piiu'tl  uniid  h  houstdioldiTM  life  :  he
-lofl  de8ir«!M  and  lounetl  to  a  n-ligiouH  life  :  careh'tw  of  tlie  pleanuren   if  HeuHo
+lofl  de8ir«!M  and  lounetl  to  a  n-ligiouH  life  :  careh'tw  of  tlie  pleanuren  <if  HeuHo
 he  Htood  and  sat  and  hiy  alono,  like  a  man  hound  in  jail  or  a  rock  in  a
 cage.  [393]  The  chit'f  queen  thought,  "  Tht;  king  avoids  me,  he  Htandn
 and  Kits  and  lies  alone;  he  is  young  and  frenh,  I  am  old  and  have  grey  haira  :
 what  if  I  were  to  tell  him  a  8t<»ry  that  he  has  one  grey  hair,  make  him
 helievo  it  and  seek  my  company?"  One  day,  as  if  cleaning  the  king's
 head,  she  said,  "  Your  majesty  is  getting  old,  theiv  is  a  gi-ey  hair  on  your
-head."  "  Pull  it  out  and  put  it  in  my  hand."  She  pulle l  a  hair  out,
+head."  "  Pull  it  out  and  put  it  in  my  hand."  She  pulle<l  a  hair  out,
 hut  thnw  it  away  and  put  int«)  his  hand  one  of  her  own  grey  hail's.
 When  he  sjiw  it,  fear  of  death  nuule  the  sweat  start  from  his  forehead,
 though  it  was  like  a  plate  of  gold.  Ife  admonished  himself,  saying,
@@ -13659,7 +14052,7 @@ stanza : —
 Heretofore  the  hair>«  wore  dark
 
 Clustering  al>out  niy  hrow  ;
-White  to- lay  :  Su.slma,  mark  I
+White  to-<lay  :  Su.slma,  mark  I
 
 Time  for  religion  now  I
 
@@ -13715,7 +14108,7 @@ Layman's  life  I  love  no  more:
 Time  for  religion  now !
 
 Delight  in  layman's  life  is  a  weak  stay :
-The  wise  man  cuts  it  off"  and  g jes  his  way,
+The  wise  man  cuts  it  off"  and  g<jes  his  way,
 Renouncing  joys  of  sense  and  all  their  sway.
 
 Thus  declariniLf  l)Oth  tlie  delight  iind  misery  of  desires,  hr  sIiowimI  tin-
@@ -13727,7 +14120,7 @@ the  wurld  of  Brahma.
 
 
 [397]  After  the  les.H<>n,  the  Master  declaretl  the  Truth.s,  and  giving  the  drink
-of  ambrosia  to  many,  he  identifie l  the  I'irth  :  "At  that  time  the  chief  queen  wa.s
+of  ambrosia  to  many,  he  identifie<l  the  I'irth  :  "At  that  time  the  chief  queen  wa.s
 the  mother  of  Rahula,  the  king  wa.s  Ananda,  and  king  Suslma  was  I  myself."'
 
 
@@ -13737,7 +14130,7 @@ KOTISIMBALI-JATAKA '.
 
 "/  liore  xrith  me,"  etc.-  The  Ma.ster  told  this  tile  while  dwelling  in  Jetivaufi,
 concerning  rebuke  of  sin.  The  incident  leading  to  the  tile  will  api>ear  in  the
-Panna-  Birth.  On  this  occ;ision  the  Master,  perceiving  that  Hve  hundre l  Brethren
+Panna-  Birth.  On  this  occ;ision  the  Master,  perceiving  that  Hve  hundre<l  Brethren
 were  overcome  by  thoughts  of  desire  in  the  House  of  the  fJolden   Pavement,
 
 '  Compare  No.  370,  supni.
@@ -13752,7 +14145,7 @@ gathorud  the  tuMombly  and  euud,  "  Bruthrcii,  it  in  right  to  di»tniMt
 JH  iit'oper;  mjus  siin'ouiiii  n  man  lus  hanyjins  and  siuh  phiiits  grow  n\)  art)und  a
 tree:  in  this  way  of  old  n  spirit  dweUing  in  the  top  of  u  c»)tton-trft'  mjiw  a  hinl
 voiding  the  haiiyan  .s«'chIs  it  had  eaten  among  the  hrancheH  of  the  cotton -trc**,
-and  liecanio  territio l  lortt  her  alnxie  should  thereby  conio  to  doHtniction :"  and  mt
+and  liecanio  territio<l  lortt  her  alnxie  should  thereby  conio  to  doHtniction :"  and  mt
 ho  told  a  talc  of  old.
 
 
@@ -13763,7 +14156,7 @@ ilividing  tin;  water  in  the  great  ocean  hy  the  Mast  of  his  wingH,  h
 hy  the  tail  a  king  of  Hnake.s  a  thousand  fathoniH  long,  and  making  the
 snake  disgorge  what  he  had  sei/.tnl  in  his  mouth,  he  flew  along  tin*  tri'e
 tops  towards  the  cotton-tree.  The  Hnake  king  thought,  "  I  will  make  him
-drop  me  and  lot  me  go,"  so  he  Htuck  his  ho Kl  into  a  Imuyan-tree  and
+drop  me  and  lot  me  go,"  so  he  Htuck  his  ho<Kl  into  a  Imuyan-tree  and
 wound  himself  round  it  tirndy.  Owing  to  the  rm*  king's  strength  and  the
 great  size  of  the  snake-king  the  banyan  was  uprooted.  IJut  the  snake-
 king  would  not  let  go  the  banyan.  The  roc-king  took  the  anake-king,
@@ -13772,11 +14165,11 @@ belly  [3'jyJ  and  ate  the  fat.  Then  he  thn^w  the  rent  of  the  carca.s
 the  sea.  Now  in  that  banyan  there  was  a  certain  bird,  who  Hew  up
 when  the  banyan  was  thrown  away,  and  |H«rched  in  one  of  the  boughs  high
 t)n  the  cotton  tree.  The  tree-spirit  seeing  the  bird  shook  and  tninbled
-with  fear,  thinking,  "This  bird  will  let  its   lroppings  fall  on  my  trunk:
+with  fear,  thinking,  "This  bird  will  let  its  <lroppings  fall  on  my  trunk:
 a  growtli  of  banyan  or  of  fig  will  arise  and  go  spreading  all  «>ver  my
 tree:  so  my  home  will  be  destroyed."  The  tree  .«hook  to  the  i-oot«  with
 the  trendding  of  the  spirit  The  roc-king  |)erceived  the  trend)ling,  and
-spoke  two  stanza.s  in  en piiry  as  to  the  reason  : —
+spoke  two  stanza.s  in  en<piiry  as  to  the  reason  : —
 
 1   Imux'  with  nie  the  thousjintl  fathoms  length  of  that  king-snake:
 His  si/0  ami  my  huge  bulk  you  l>ore  Jind  yet  you  did  not  quake.
@@ -13823,18 +14216,18 @@ DnrM.VK.\UI-J.\TAKA.
 
 "  The  riyhteoxu  tiiu/,"  etc.— Tha  Miuster  told  this  tale  while  dwelling  in
 Jetavams  concerning  the  K<>.sida  king's  favour  Ut  a  stranger.  At  one  tune,
-the  .story  g(x)s,  that  king  showed  no  fivciur  to  his  old  warriors  who  came  to  him
-in  the  u.sual  whv,  but  gave  lujnour  and  ho.spit ility  to  strangcrw  connng  for  the
+the  .story  g‹x›s,  that  king  showed  no  fivciur  to  his  old  warriors  who  came  to  him
+in  the  u.sual  whv,  but  gave  lujnour  and  ho.spit<ility  to  strangcrw  connng  for  the
 first  time.  He 'went  to  fight  in  a  distiu-bed  frontier  province:  but  his  old
 warriors  would  not  fight,  thinking  that  the  new-comerw  who  were  in  favour
 would  do  so;  and  the  new-comers  would  not,  thinking  that  the  old  warriors
 would.  The  reikis  prevailed.  The  king,  knowing  that  his  defeat  wa.s  owing  to
 the  misUke  he  had  made  in  showing  favour  to  new-comers,  returned  to  Savatthi.
 He  resolved  Ui  a.sk  the  Lord  of  Wisdom  whether  he  wa.s  the  only  king  who
-had  ever  been  defwited  f jr  that  reason :  so  after  the  m.^rning  meal  he  went  to
+had  ever  been  defwited  f<jr  that  reason :  so  after  the  m.^rning  meal  he  went  to
 Jetavana  and  put  the  question  to  the  Master.  The  Mjwter  answered,  "(ireat
-King  yours  is  not  the  only  case :  former  kings  al»«j  were  defe itcd  by  rea.son  of
-the  favour  they  showed  to  new-comers,"  and  .so,  at  the  king's  re iuest,  he  t4>ld  an
+King  yours  is  not  the  only  case :  former  kings  al»«j  were  defe<itcd  by  rea.son  of
+the  favour  they  showed  to  new-comers,"  and  .so,  at  the  king's  re‹iuest,  he  t4›ld  an
 old  tala
 
 
@@ -13872,7 +14265,7 @@ He;iriiii,'  him,  the  Botlhisatta  said,  "Great  king,  your  sorrow  is  but
 a  trilling  sorrow.  Of  old,  a  brahmin  goatherd,  named  Dhumakari,
 took  a  great  Hock  of  goats,  and  making  a  |M>n  in  the  forest  kept  them
 there:  he  had  a  smoking  fire  and  lived  on  milk  and  the  like,  tending  his
-goats.  Seeing  son>e  de«'r  of  golden  hue  who  ha l  come,  he  felt  a  love  for
+goats.  Seeing  son>e  de«'r  of  golden  hue  who  ha<l  come,  he  felt  a  love  for
 them,  and  disregarding  his  goats  he  paid  the  honour  due  to  them  to  the
 deer.  In  the  autumn  the  d«'er  movetl  away  to  the  Himalaya:  his  goats
 were  dead  and  the  ileer  gone  from  his  sight:  so  for  .sorrow  he  took  jaundice
@@ -13883,7 +14276,7 @@ this  insUinc«',  he  said,
 A  brahmin  with  a  flock  of  goats,  of  high  Vasittha's  race,
 Kept  .smoking  fire  by  night  and  day  in  forest  dwelling-place.
 
-Smelling  the  smoke,  a  herd  of  deer,  by  gnats  s(iro  i)eHtcred,  come
+Smelling  the  smoke,  a  herd  of  deer,  by  gnats  s‹iro  i›eHtcred,  come
 To  find  a  dwelling  for  the  rains  near  DhQmakari's  home.
 
 The  deer  have  all  attention  now;   his  goats  receive  no  care,
@@ -13923,12 +14316,12 @@ entered  on  the  First  Path.  lie  set  out  by  a  forest  road  from  Sfivat
 a  ciiravan  of  wirts.  At  a  certiin  pleiusant  watered  spot  the  leader  of  the  caravan
 unyoked  Hve  hundretl  carts,  and  arranging  for  food,  Wth  hard  and  .soft,  he  took
 up  his  lodging  thei-e.  The  men  lay  down  here  and  there  to  sleep.  The  lay-brother
-practi.sed  {)erambulation  at  the  root  of  a  tree  ne ir  the  leader  of  the  caravan,
+practi.sed  {)erambulation  at  the  root  of  a  tree  ne<ir  the  leader  of  the  caravan,
 r  ive  hundred  robbei-s  planned  to  plunder  the  caravan  :  with  various  weiipons  in
 their  hands  they  surrounded  it  and  waited.  Seeing  the  lay-brother  at  his  walk
 they  .stood  waiting  to  Ix'gin  pUuulering  when  he  should  go  to  .sleep.  He  went  on
 walking  all  night.  At  dawn  the  i-obbers  threw  away  tne  sticks  and  .stones  and
-other  weaiMjii.s  they  had  picketl  up:  thov  went  away,  s iying,  "  Ma.ster  Caravan-
+other  weaiMjii.s  they  had  picketl  up:  thov  went  away,  s<iying,  "  Ma.ster  Caravan-
 Iciider,  you  are  owner  of  your  nrofH-'rty  f)ocau.se  you  have  got  your  life  owing  to
 that  man  who  keeps  awidce  .so  diligently  :  you  should  pay  honour  to  him."  The
 caravan-men  rising  l)ctimes  .saw  the  stonas  and  other  things  thrown  away  by
@@ -14085,9 +14478,9 @@ ingly beautiful  daughter  of  the  Kosala  king,  and  made  her  his  chief  q
 On  the  (luy  of  his  j»ara8ol-fe.stival  they  decorated  the  whole  city  as  if  it
 were  a  city  of  the  gods.  He  went  round  the  city  in  j)roceKsion;  [408]  then
 ho  asceniled  the  palacf,  which  was  deeoratvd,  and  on  the  dais  n»ount«'d  a
-throne  with  the  white  jnirasol  erected  on  it;  sitting  there  he  lo«jke l  down
+throne  with  the  white  jnirasol  erected  on  it;  sitting  there  he  lo«jke<l  down
 on  all  those  that  stood  in  attendance,  on  one  side  the  ministers,  on  another
-the  bnihiuins  and  householders  reHpU'n lent  in  the  beauty  of  varied  apparel,
+the  bnihiuins  and  householders  reHpU'n<lent  in  the  beauty  of  varied  apparel,
 on  another  the  townspeople  with  various  gifts  in  their  hands,  on  another
 troops  of  dancing-girls  to  the  number  of  sixteen  thousand  like  a  gathering
 of  the  nymphs  of  heaven  in  full  apparel.  Looking  on  all  this  entrancing
@@ -14196,13 +14589,13 @@ Siiintfl  art)  plciuuuit  to  my  sight
 [413]  Aftor  Hayinif  this,  lio  lookod  at  th»'  queen's  l>eaiity  and  Haid,
 "  Fair  la«ly,  I  have  told  fully  my  gootl  difdH  done  in  fonnrr  tinif,  hut
 nmongst  all  these  ladioH  there  is  none  like  you  in  lM>auty  or  charming
-grace:  by  what  df(d  diil  you  attain  this  Vn^auty  ? "  And  he  Hi)oke  a
+grace:  by  what  df<d  diil  you  attain  this  Vn^auty  ? "  And  he  Hi>oke  a
 Btanza  : —
 
 Liuly,  like  a  nymph  «»f  hoavon,
 
 Vou  tho  cniwd  uf  maids  oiitithino:
-For  what  gracioiw  de© l  w/u*  given
+For  what  gracioiw  de©<l  w/u*  given
 
 Mood  of  beauty  mo  divine?
 
@@ -14234,7 +14627,7 @@ kept  the  monil  duties  and  the  holy  days,  and  at  the  end  of  their  l
 became  destinetl  for  heaven.
 
 
-At  tho  end  of  tho  lo.s.- on,  the  Ma.ster  identified  the  birth:   "At  that  time  the
+At  tho  end  of  tho  lo.s.-<on,  the  Ma.ster  identified  the  birth:   "At  that  time  the
 queen  wjuj  the  mother  of  Rahula,  and  the  king  was  myself.'
 
 
@@ -14247,7 +14640,7 @@ No.   416.
 PARAXTAPA-JATAKA.
 
 
-"  Terror  and  fear ^  etc. — The  Master  t jld  this  while  dwelling  in  the  lianilx)o-
+"  Terror  and  fear ^  etc. — The  Master  t<jld  this  while  dwelling  in  the  lianilx)o-
 grove,  concerning  Dcvadatta's  going  al>out  to  kill  him.  They  were  discussing  it
 lu  the  Hall  of  Tnitli,  "Sirs,  Deviulatt^i  [415]  is  going  about  to  kill  the  Tathagata,
 he  ha«  hiretl  Ixjwineii,  thrown  down  a  rock,  let  loose  Xalagiri,  and  uses  sjieciai
@@ -14259,7 +14652,7 @@ he  told  the  talo  of  old.
 
 
 Once  upon  a  time  when  Bnihmadatta  was  reigning  in  Benares,  the
-IJodhi.satta  was  born  as  the  son  of  his  chief   jueen.  When  he  grew  up,
+IJodhi.satta  was  born  as  the  son  of  his  chief  <jueen.  When  he  grew  up,
 he  learned  all  the  aiis  at  Takkaaila,  and  acquired  a  spell  for  the  under-
 Htanding  of  all  animals'  cnes.  After  listening  duly  to  his  teacher,  he
 returned  to  Benares.  His  father  appointed  him  viceroy:  but  thougli  ho
@@ -14294,27 +14687,27 @@ opened  the  w  indow  and  said,  "  Who  is  in  the  chamber  ? "     One  ro
 said,  *'I."  '*Uo  and  take  tho  clotheit,  the  thouwiiid  piect^  itnd  the  ring
 from  tho  man  who  m  lying  dead  in  yondur  lutuH-taiik,  and  make  thn  body
 Hink  KO  thut  it  cannot  ris«  out  of  the  wat«T."  Th«'  man  did  no.  Th«»  jackal
-wuH  angry  again:  "The  other  day  you  |>n'vente l  my  childn^n  eating  the
+wuH  angry  again:  "The  other  day  you  |>n'vente<l  my  childn^n  eating  the
 Hhoes ;  to-day  you  prevent  them  eating  the  dead  man.  Very  well  :  on  the
 tliinl  iluy  from  thin  a  hostile  king  will  come  and  ••ncompaiw  the  city,  your
 father  will  wnd  you  to  battle,  they  will  cut  off  your  head  :  I  will  drink
 your  throat'H  blood  and  Hatixfy  my  enmity  :  you  make  yountelf  an  enemy  of
-mine  and  I  will  see  to  it :  "  no  she  cried  abuiiing  the  Ii Hlhifiatt«.  Then
+mine  and  I  will  see  to  it :  "  no  she  cried  abuiiing  the  Ii<Hlhifiatt«.  Then
 Hhe  took  her  cubH  and  went  away.  Un  the  third  day  the  hoHtile  king
 camo  and  encompatweil  tho  city.  The  king  said  to  the  I^xthiHatta,  "  Oo,
 dt>ar  Hon,  and  tight  him."  "<)  king,  I  hav«>  Hc<*n  a  viMion  :  I  cannot
 go,  for  I  fear  1  Hhall  low  my  lift*."  "  What  is  your  life  or  death  to  me?
 (fo."  Tho  ftreat  Being  ol)eye«l  :  taking  his  men  he  avoidinl  the  gate  where
 the  hoHtil**  king  wan  jxtstrtl,  and  wmt  out  l>y  another  which  In-  had  opt-ned.
-Ah  he  w«'nt  tin-  whol»«  i-ity  Iwcanje  aa  it  wrr«>  dfMert«' l,  for  all  men  went
-out  with  hiuj.  H(-  encampe(l  in  a  c»'rtain  f)j)«)n  Hftace  an«l  waited.  The
+Ah  he  w«'nt  tin-  whol»«  i-ity  Iwcanje  aa  it  wrr«>  dfMert«'<l,  for  all  men  went
+out  with  hiuj.  H<-  encampe‹l  in  a  c»'rtain  f›j>«>n  Hftace  an«l  waited.  The
 king  thought,  "My  viceroy  ha.H  emptiiil  tin*  city  and  th-d  with  all  my
 forces:  the  enemy  iH  lying  all  round  tlu*  city:  [417]  I  am  but  a  dead
 man."  To  Have  hin  life  he  took  bi«  chief  queen,  bin  family  priefit,  and  a
 Hiiiglf  attendant  nanu-d  I'arantapa  :  with  thi-m  he  AjhI  in  diftguine  by
 night  and  entered  a  wikkI.  Hearing  of  hia  tlight,  the  Hodhijiatt^i  entered
 tho  city,  defi>ated  tho  hoHtilo  king  in  battle  and  took  tho  kingdom.  Hifi
-father  made  a  hut  of  leave.s  or)  a  river  bank  and  live l  then*  on  wild  fruit*.
+father  made  a  hut  of  leave.s  or)  a  river  bank  and  live<l  then*  on  wild  fruit*.
 lie  and  the  family  priest  used  to  go  looking  for  wild  fruits  :  the  servant
 Parantapa  stayed  with  the  queen  in  the  hut  She  waa  with  child  by  the
 king:  but  owing  to  U'ing  constantly  with  Paranta|»a,  she  sinned  with  him.
@@ -14368,7 +14761,7 @@ but  I  lieard  the  noise  of  sometliing  slipping  frouj  a  bough  :  whethe
 
 man  or  beast    I    cannot    tell  :    but   whenever  f.ar  conns  on   nic  it   must
 
-be  from  the  cause  of  the  boughs  creiiking,"  an l  s..  i..  .-oin  irsaiion  with  her
+be  from  the  cause  of  the  boughs  creiiking,"  an<l  s..  i..  .-oin  irsaiion  with  her
 
 he  spoke  the  fii-st  stanza  : —
 
@@ -14420,7 +14813,7 @@ i'uranUi|ta  wailed  ii;  fear  of  death  and  h|K>ku  two  Ntauzaa  :  —
 Huroly  that  notind  haa  comu  to  you  and  told  ynu  wimt  liofol :
 Surely  the  man  wh<>  bent  the  iMmgh  haa  come  the  tolo  to  toll
 
-The  f M)liish  thought  that  oneo   1   had  haa  rwvchwl  your  knowN'^l^-i-  ii"w
+The  f<M)liish  thought  that  oneo   1   had  haa  rwvchwl  your  knowN'^l^-i-  ii"w
 That  dity  a  witnv.*vs,  umu  or  lio/wtt,  waa  thurv  and  ntuMik  th«3  Itough.
 
 Tlieu   the   j»rinc»'  Hfioke   the   hmt  Htanza  : —
@@ -14433,12 +14826,12 @@ place  with  branch(*ti :  then  waaliing  the  Hwortl  and  bathing,  he  went 
 to  the  hut  of  ImveM.  lie  told  the  prii^^t  how  he  had  killed  Paranta|ta  :  he
 ceuHuretl  liiH  moth«>r,  and  saying,  "What  ahall  we  do  now  f "  the  three
 wont  back  to  Bonarva.  'Die  IkxlhiiMtta  made  the  young  prince  viceroy
-and  doing  eliarity  and  other  good  workit  |iaaMe l  fully  through  the  path  to
+and  doing  eliarity  and  other  good  workit  |iaaMe<l  fully  through  the  path  to
 heaven.
 
 
 After  the  le.H.soii,  tht«  Ma-stor  idontifiod  the  Birth:    "At  that  time  Dovadatta
-\v us  the  old  kujg,  1  niyMjlf  w»v.h  the  young  one."
+\v<us  the  old  kujg,  1  niyMjlf  w»v.h  the  young  one."
 
 
 BOOK    Vlll.  — ATTIIA-NIPATA.
@@ -14449,33 +14842,33 @@ KACCANI-JATAKA'.
 [122]  '' Itubed  in  ichitf"  etc. — The  Maxtor  told  this  tale  while  dwelling  at
 Jetiivana,  oonceniing  a  nian  who  .suptx)rt«Hl  his  niother.  The  .story  i.s  that
 the  man  w;w  of  s*xA  family  and  roinluct  in  Savatthi  :  on  his  father's  death
-ho  l>c virne  devnt<-d  to  his  nmihcr  and  t*'nd«"«l  hi-r  with  the  services  of  nioiith-
+ho  l>c<virne  devnt<-d  to  his  nmihcr  and  t*'nd«"«l  hi-r  with  the  services  of  nioiith-
 Wiwhin^;,  tot'th  cleansing,  iMithing,  fi-ot-w/tshing  and  the  like,  and  also  by  giving
-her  gruel,  rice  and  other  fo Kl.  She  said  to  liim,  "  Dear  s<^)n,  therv  arc  (jther
+her  gruel,  rice  and  other  fo<Kl.  She  said  to  liim,  "  Dear  s<^)n,  therv  arc  (jther
 dutien  in  a  hoiischolder'H  life  :  you  nnist  marry  a  maid  of  a  suiUihle  familv,  who
 will  att4!nd  to  me,  and  then  you  win  do  your  |»ro|»or  work."  ".Mother,  it' is  for
-my  own  g MKl  an l  pleasure  thiit  I  wait  on  you  :  who  else  would  wait  on  you  .so
+my  own  g<MKl  an<l  pleasure  thiit  I  wait  on  you  :  who  else  would  wait  on  you  .so
 well  ?"  "Son,  you  ought  to  «lo  something  to  advance  the  foKuno  of  o>ir  house."
 "  I  have  no  care  for  u  hoiLsi>holdfr'n  life  ;  I  will  wait  on  y.m,  and  after  you  are
 dead  and  l)ume«l  I  will  UN-onie  an  a.sc«'tic."  She  iin'.H.v<«l  him  again  ana  again  :
 oijd  at  \i\ni,  without  winning  him  over  or  gaining  his  coiLsent,  she  hmught  him  a
 maid  of  a  suitaMe  family.  He  m.irri<*d  and  HvchI  with  her,  l>e»-au.sc!  he  would  not
 upiMtso  his  mother.  She  ol«N*rvoil  the  great  attention  with  which  her  haslviiid
-waitcil  on  his  nn»ther,  and  desirous  nf  imiUiting  it  she  too  waite l  on  her  with
+waitcil  on  his  nn»ther,  and  desirous  nf  imiUiting  it  she  too  waite<l  on  her  with
 care.  Noticing  his  wife's  devotion,  he  gave  her  thenceforth  all  the  pleasjint  food
 ho  could  get,  A«  time  went  on  she  foolishly  thought  in  her  pridi-,  "  lie  giveH
-me  all  the  plooHant  f xxi  he  gets  :  he  must  Ije  anxious  to  get  rid  [423]  of  his
-mother  and  I  will  find  some  means  for  doing  so."  S j  one  day  she  jwiid,
+me  all  the  plooHant  f<xxi  he  gets  :  he  must  Ije  anxious  to  get  rid  [423]  of  his
+mother  and  I  will  find  some  means  for  doing  so."  S<j  one  day  she  jwiid,
 "  Husband,  your  mother  scoULs  me  when  you  leave  the  house."  He  sjiid  nothing.
 She  thought,  "I  will  irriUito  the  old  woman  and  make  her  di.vigreoable  to  her
 »on"  :  and  thenceforth  she  gave  her  rice-'^'niel  either  very  hot  or  very  cold  or  very
-Halt  or  Haltle»4.s.  When  the  old  woman  complained  that  it  wa.s  to i  hot  or  too  salt
+Halt  or  Haltle»4.s.  When  the  old  woman  complained  that  it  wa.s  to<i  hot  or  too  salt
 she  threw  in  cold  water  enough  to  fill  the  di.sh  :  and  then  on  complaintw  of  it«
 being  cold  and  saltles-s,  she  would  make  a  great  outcry,  "Just  now  you  said  it  waa
 too  hot  and  too  salt  :  who  can  satisfy  you  ?"  So  at  the  Kith  she  would  throw
 very  hot  water  on  the  oM  woman's  bick  :  when  she  .said,  "  Daughter,  my  back  iH
 burning,"  the  other  would  throw  some  very  cold  water  on  her,  and  on  complaints
-of  thi.s,  she  would  make  a  story  t4»  the  neighlHUirs.  "This  woman  sai l  just  now
+of  thi.s,  she  would  make  a  story  t4»  the  neighlHUirs.  "This  woman  sai<l  just  now
 it  was  too  hot,  now  she  screams  'it  is  too  cold' :  who  can  endure  her  impudence  f"
 H  the  old  woman  complaintnl  that  her  l»ed  was  full  of  Hca-s,  she  would  take  the
 lied  out  aud  ahakc  her  own  l>ed  over  it  ami  then  bring  it  Ijack  decljiring,  "  I've
@@ -14501,7 +14894,7 @@ thought,  "He  cannot  l>reak  with  his  mother  who  is  ho  very  dmr  to  hi
 go  to  my  old  home,  I  shall  have  a  miserable  life  of  sejMiration  :  I  will  conciliate
 my  mother-in-law  and  tend  her  as  of  old":  [424]  and  thenceforth  she  did  so.
 One  day  that  lay  brother  went  to  Jetjivana  to  hear  the  law:  sjiluting  the
-Mitster  he  stoo l  on  one  side.  The  Master  a.sked  him  if  ho  were  not  careloHs  of
+Mitster  he  stoo<l  on  one  side.  The  Master  a.sked  him  if  ho  were  not  careloHs  of
 his  old  duties,  if  he  were  dutiful  in  tending  his  mother.  He  answ»rv«l,  "Yen,
 Lord:  my  mother  brought  me  a  maiil  to  wife  against  my  will,  .she  did  such  and
 such  unseemly  things,"  telling  him  all,  "  but  the  woman  eould  not  make  me  break
@@ -14584,9 +14977,9 @@ All  men  now  who  fallow  wrong
 
 Great  prosjKirity  receive.
 
-Barren  once,  my  g xxl  son's  sjxiase
+Barren  once,  my  g<xxl  son's  sjxiase
 
-Beats  me,  and  she  bears  a  s jn :
+Beats  me,  and  she  bears  a  s<jn :
 She  is  lady  of  our  hou.se,
 
 I  an  outcast  and  undone.
@@ -14735,7 +15128,7 @@ your  old  garden  ;  it  was  without  f(MKl,  and  half  dead  with  hunger  m
 first  sound:"  and  .so  hy  his  knowledge  giving  precisely  the  crane's  meaning
 he  uttered  the  first  stanza  : —
 
-A  pool  s i  deep  and  full  of  fish  they  called  this  place  of  yore,
+A  pool  s<i  deep  and  full  of  fish  they  called  this  place  of  yore,
 
 The  crane-king's  resilience  it  was,  my  anccstt>rs'  ucfore  :
 
@@ -14745,7 +15138,7 @@ And  though  wo  live  on  fn)g8  to-day,  we  never  leave  itH  shore.
 hunger  :  if  you  wish  to  set  it  free  from  hunger,  have  the  garden  cleaned
 and  fill  the  tank  with  water."  The  king  tohl  a  minister  t«j  have  this  done.
 "Great  king,  there  is  a  female  crow  who  lives  in  the  doorway  of  your
-elephant  house  :  sl»e  made  the  secon l  .sound,  grieving  fi)r  her  son  :  you
+elephant  house  :  sl»e  made  the  secon<l  .sound,  grieving  fi)r  her  son  :  you
 need  have  no  fear  from  it,"  and  .so  he  uttered  the  second  stanzji : —
 
 Oh  I    who  of  wicked  Bandhura  ?   the  single  eye  will  rend
@@ -14902,7 +15295,7 @@ the  water,  the  girl,  who  was  very  strong,  pushed  him  bard  with  both 
 threw  him  into  the  well.  "You  won't  die  that  way,"  she  said,  and  threw  a  large
 brick  upon  his  head.  He  died  on  the  spot.  When  she  came  back  to  the  town
 and  gave  her  mistress  the  ornament,  she  said,  "I  have  very  nearly  been  killed
-t j-day  for  that  ornament,"  and  told  the  whole  story.  The  mistress  told
+t<j-day  for  that  ornament,"  and  told  the  whole  story.  The  mistress  told
 Anathapindika,  and  he  told  the  Tathagata.  The  Master  said,  "Householder,
 this  is  not  the  first  time  that  servant  girl  has  been  endowed  with  wits  rising
 to  the  occasion  ;  she  was  so  l>efore  also  :  it  is  not  the  first  time  she  killed  that
@@ -15066,7 +15459,7 @@ down  on  a  Htone-slab.  That  day  Home  Htrange  gu«*fltM  had  come  to  th
 park-keeper's  house.  To  g«'t  them  soup  and  curry  he  hod  gone  with  a  Ikjw
 to  kill  a  tame  ileer  in  the  park  :  he  wiu*  there  looking  for  a  deer  when  he
 SAW  the  paccekabuddha  and  thinking  he  was  a  gnat  deer,  ho  aimed  an
-arrow  and  shot  liim.  The  paccekabuddha  uncovere l  his  head  ami  said,
+arrow  and  shot  liim.  The  paccekabuddha  uncovere<l  his  head  ami  said,
 "Sumangala."  (Jreatly  movetl  Humangtda  said,  "Sir,  I  know  not  of  your
 coming  and  shot  you,  thinking  you  were  a  de«'r  :  forgive  me."  '*  Very
 well,  but  what  will  you  «lo  now  1  Come,  pull  out  the  arrow."  He  made
@@ -15110,7 +15503,7 @@ Things  unworthy  of  a  crown
 
 Then  would  follow  from  his  nod.
 
-Conscious  of  a  milder  m X)d,
+Conscious  of  a  milder  m<X)d,
 
 Let  him  judgments  hai-sh  decree,
 When  the  case  is  understxni,
@@ -15187,7 +15580,7 @@ GAN(iAMALA-JATAKA.
 .letiivfiiiH,  coiKcrniiig  the  keeping  i>f  the  weekly  h"»ly  tlays.  One  duv  tho  .M»i«ter
 won  JulilrcM.siiig  the  lay-hrethren  wh"  were  keeping  the  h"ly  days  ami  sjiid,  "  I>iy-
 hrcthren,  your  <  <>niluct  is  g'HKl;  wlu-n  men  keep  the  Imlv  days  they  shnuld  give
-alniM,  keep  the  mural  precepts,  never  show  anger,  fei-f  kindne»w  an l  d«»  the
+alniM,  keep  the  mural  precepts,  never  show  anger,  fei-f  kindne»w  an<l  d«»  the
 duties  of  the  day  :  wise  men  of  old  gained  groat  glory  fron»  even  ft  iMirtial  keeping
 of  the  holy  days:"  and  at  their  retpieat  he  told  the  talo  of  old.
 
@@ -15213,7 +15606,7 @@ cook  some  rice  for  the  workpeople  in  the  morning  :  they  will  eat  it
 and  fast  the  rest  of  the  day. "  The  Bmlhisatta  rose  early  and  went  to  his
 work  :  no  one  had  told  him  to  fast  that  day.  The  other  workpeople  ate
 in  the  morning  and  then  fasted  :  the  merchant  with  his  wife,  children  and
-attendants  kept  the  fa.st :  all  went,  each  to  his  own  abode,  ami  .s it  there
+attendants  kept  the  fa.st :  all  went,  each  to  his  own  abode,  ami  .s<it  there
 meditating  on  the  moral  precepts.  The  Bodhisatta  worked  all  day  and
 came  home  at  sunset.  The  cook -maid  gave  him  water  for  his  hands,  and
 offered  him  in  a  dish  rice  taken  from  the  boiler.  The  Botlhisatta  said,
@@ -15292,19 +15685,19 @@ ilrariiig  the  king's  wonis  he  spoke  the  third  stanza  : —
 'Ti.s  thetM'  dcMireH  that  hum,  and  not  the  sun:
 'Tis  all  those  pressing  tn.sks  that  must  Iw  done.
 
-[44H]  The  king  asked  what  his  )>usini>s  was.  He  answen< l,  '*  O  king,
+[44H]  The  king  asked  what  his  )>usini>s  was.  He  answen<<l,  '*  O  king,
 I  was  living  by  the  south  gate  with  a  |)oor  woman  :  she  pmpoHi>d  that
 she  and  I  should  anuim^  ounM>lvi>s  at  the  festival  and  asked  if  I  had
 anything  in  hand  :  I  told  her  I  had  a  treasurt^  stored  inside  a  wall  hy  the
 north  gate  :  she  .sent  me  for  it  to  help  us  to  amuw  ounwlves  :  those  words
 of  hci-H  never  leave  my  hmrt  and  as  I  think  of  them  hot  di-sin*  burns  me  :
-that  is  my  business."  "Then  what  (h)lights  you  so  much  tliat  you
+that  is  my  business."  "Then  what  ‹h›lights  you  so  much  tliat  you
 di.sregiird  wind  and  sun,  and  sing  as  you  go  I "  "  O  king,  I  sing  to  think
 that  when  I  fetch  my  treasure  I  shall  amuse  mysi>lf  along  with  her."
-"Then,  my  gootl  man,  is  your  treasure,  hidden  by  the  north  gat«,  a  hundre l
+"Then,  my  gootl  man,  is  your  treasure,  hidden  by  the  north  gat«,  a  hundre<l
 thousand  pieces]"  "Oh  no."  Then  the  king  asked  in  succession  if  it
 were  fifty  thousjind,  forty,  thirty,  twenty,  ten,  five,  four,  thn-e,  two  gold
-pieces,  one  piece,  half  a  piece,  a   juarter  picKje,  four  pence,  three,  two,
+pieces,  one  piece,  half  a  piece,  a  <juarter  picKje,  four  pence,  three,  two,
 one  jieiiiiy.  The  man  said  "  No"  to  all  the.s**  ({uestions  aiul  then,  "  It  is  a
 half-jK'uny  :  indectl,  ()  king,  that  is  all  my  treasure:  but  I  am  going  in
 hopes  of  fetching  it  and  then  amu-sing  myself  with  her  :  and  in  that  desire
@@ -15348,7 +15741,7 @@ wish,  [-t'lO]  from  henceforth  I  will  imve  no  such  wish,"  and  so  in  
 he  8|)oke  the  fourth  stanza  : —
 
 I  have  seen  thy  nnit.s,   Desire  :    in  a  man's  own  will  they  lie.
-I   will  no  more  wi.ih  for  tlicc,  an l  thou,  Ue?*ire,  slialt  die.
+I   will  no  more  wi.ih  for  tlicc,  an<l  thou,  Ue?*ire,  slialt  die.
 
 So  saying,  he  spoke  the  fifth  stanza  declaring  the  law  unto  a  great
 multitude  devotetl  to  desires  : —
@@ -15364,7 +15757,7 @@ Ah
 
 So  declaring  the  law  unto  the  multitude,  he  entrusted  the  realm  to
 king  Udaya:  leaving  the  weeping  multitu«le  with  tears  on  their  faces,  he
-went  to  the  Himalaya,  became  an  ascetic  and  reache l  perfect  insight.  At
+went  to  the  Himalaya,  became  an  ascetic  and  reache<l  perfect  insight.  At
 the  time  of  his  becoming  an  a.scetic,  king  Udaya  spoke  the  sixth  stmza  in
 complete  expression  of  ecsta-sy  : —
 
@@ -15449,7 +15842,7 @@ Lo  !    how,  e'er  his  de^ith  befall,
 Meekness  brings  a  man  its  fruit  !
 One  who  bowi-d  before  us  all.
 
-Kings  and  lords  must  now  s ilute.
+Kings  and  lords  must  now  s<ilute.
 
 Though  the  king  checked  his  mother,  the  rest  of  the  multitude  rose  up
 and  said,  **  It  is  not  decent  that  such  a  low-caste  person  should  speak  to
@@ -15464,7 +15857,7 @@ He  has  cro.s.setl  the  waves  of  woe,
 Free  from  sorrow  now  he  strays.
 
 So  saying  the  king  saluted  the  paccekabuddha  and  asked  him  to  forgive
-the  queen-mother.  The  paccekabuddha  di l  so  and  the  king's  retinue  also
+the  queen-mother.  The  paccekabuddha  di<l  so  and  the  king's  retinue  also
 gained  his  forgiveness.  The  king  wisheil  liim  to  promise  that  he  would
 stay  in  the  neigh lx)urhood  :  but  he  refused,  and  standing  in  the  air  before
 the  eyes  of  the  whole  court  he  admonished  the  king  and  went  away  to
@@ -15490,7 +15883,7 @@ On  tliat  (lay  tliey  were  discu.ssing  in  tlic  Hall  of  Truth  how  Devad
 
 
 fulst^ly,  liHii  sunk  into  tlu*  ^Toinul  and  l>ec<>ini»  ilf«tinwl  to  the  licll  Avki.  The
-MuHter  ciiino  find,  ho irin}{  tho  Muhject  of  their  Lilk,  •uiid,  "This  is  not  the  fin^t
+MuHter  ciiino  find,  ho<irin}{  tho  Muhject  of  their  Lilk,  •uiid,  "This  is  not  the  fin^t
 time  ho  wiiik  into  tho  earth,"  nnd  ho  he  told  tho  talo  of  old.
 
 
@@ -15502,7 +15895,7 @@ He  reigned  over  the  kingdom  of  Ceti,  in  the  city  of  Sotthivati  ;  he
 endowed  with  four  supernatural  faculties — he  could  walk  aloft  and  i«ihs
 through  the  air,  he  luid  four  angels  in  each  of  the  four  quarters  to  defend
 him  with  dniwn  swords,  he  diffused  the  fnigrance  of  sandalwoixl  from  his
-l»o ly,  he  diffuwd  the  fragrance  of  the  lotus  from  his  mouth.  His  family
+l»o<ly,  he  diffuwd  the  fragrance  of  the  lotus  from  his  mouth.  His  family
 priest  was  named  Kapila.  This  hnihmin's  younger  brother,  Korakalamlta,
 had  l)een  taiight  along  with  the  king  l>y  the  saime  teauher  and  was  the
 king's  playmate.  Whrii  Apacara  was  prince,  [4r).'»]  he  promisiMl  to  make
@@ -15513,7 +15906,7 @@ siM'cial  forms  of  honour.  The  hrahmin  ohj-erviHl  this  and  considennl  t
 a  king  numages  best  with  ministers  of  his  own  age,  and  that  he  himself
 miyht  get  h'Rve  from  the  king  to  liecome  an  ascetic,  so  he  said,  "  C)  king,
 I  iun  f'rtting  ohl  ;  I  have  a  son  at  home  :  nuike  him  family  priest  and  I
-will  heconif  an  ascetic."  He  got  the  king's  leave  and  had  his  son  appointe l
+will  heconif  an  ascetic."  He  got  the  king's  leave  and  had  his  son  appointe<l
 fiiniilv  priest  :  then  he  wei\t  to  the  king's  park,  l)ecame  an  ascetic,  i-eached
 traiisofuileiit  knowledge  and  lived  there,  near  his  son.  Korakalumldikii
 ftlt  11  grudge  jigainst  his  bmther  because  he  had  not  got  him  his  post
@@ -15752,7 +16145,7 @@ INDRIYA-JATAKA.
 
 "  ^V}^o  through  desire"  etc.  The  Master  told  this  talo  while  dwelling  in
 Jctavaiia,  concerning  tomptjition  by  the  wife  of  one's  fonner  days.  The  story  is
-that  a  young  man  of  g(j Kl  family  at  Savattlii  lieani  the  MiustcPs  pre-uhing,  and
+that  a  young  man  of  g(j<Kl  family  at  Savattlii  lieani  the  MiustcPs  pre-uhing,  and
 thinking  it  im^M)ssiblc  to  lead  a  holy  life,  jHirfectly  complete  and  jnire,  jus  a
 householder,  he  tletermincd  tt)  become  an  ascetic  under  the  solving  doctrine  and
 HO  make  an  end  of  misery.  So  he  gave  uj>  his  house  and  projK>rty  to  his  wife
@@ -15760,13 +16153,13 @@ and  children,  and  asked  the  Master  to  ordain  hitn.  The  MasU-r  tlid  s
 was  tlie  junior  in  his  going  altout  for  alms  with  his  teachers  and  instructorM,  and
 jvs  the  Brethren  were  many,  ho  got  no  chair  either  in  laynien's  hou.scM  or  in  the
 refectory,  but  only  a  stool  or  a  Ik-'UcIi  at  the  end  of  the  novices,  his  food  was
-tossed  liim  Iwustily  on  a  la lle,  he  got  gruel  n>ade  of  bri>ken  lumps  of  rice,
+tossed  liim  Iwustily  on  a  la‹lle,  he  got  gruel  n›ade  of  bri>ken  lumps  of  rice,
 solid  food  stale  or  decaying,  or  sprouts  dried  and  burnt  ;  and  this  was  not
 enough  to  keep  him  alive.  [402]  He  took  what  he  had  got  to  the  wife  he  had
 left :  she  t(M)k  his  bowl,  .siduted  him,  emptie«l  it  and  gave  him  in.stead  well-
 C(V)ked  gruel  and  rice  witli  .sjuice  and  curry.  The  Brother  wjus  captivated  bv  the
 love  of  such  flavours  and  could  not  leave  his  wife.  She  thought  she  would  test
-iiis  atl'ection.  One  day  .she  had  a  countryman  clwin.se l  with  white  clay  and  set
+iiis  atl'ection.  One  day  .she  had  a  countryman  clwin.se<l  with  white  clay  and  set
 down  in  her  hoiuse  with  some  others  of  his  j>eo|)le  whom  she  had  sent  for,
 and  she  gave  them  something  to  cat  and  drink.  Tiiey  .siit  eating  and  enjoying
 it.  At  the  hou.se-do<»r  she  had  some  bullocks  tM)uiid  to  wheels  and  a  cart  set
@@ -15893,7 +16286,7 @@ old  tale.
 Once  upon  a  time  in  a  certain  town  of  Kasi  there  was  a  certain  young
 brahmin,  bwxutiful,  strong,  stout  as  an  elephant.  His  thoughts  were,  "Why
 should  I  keep  my  parents  by  working  on  a  farm,  or  have  a  wife  and  children,  or
-do  good  work.s  of  charity  and  so  forth  i  I  won't  keep  anylxxly  nor  do  any  go Hl
+do  good  work.s  of  charity  and  so  forth  i  I  won't  keep  anylxxly  nor  do  any  go<Hl
 work ;  but  I  will  go  into  the  forest  and  keep  myself  by  killing  deer."     So  with
 
 ^  The  Scholiast  takes  gadha  with  all  the  clauses :  the  meaning  tlien  would  be
@@ -15922,7 +16315,7 @@ Wme  the  ghost  of  a  man,  he  showed  wrinkles  furrowing  his  l>ody  like 
 cartThi  a  hot  season  ;  ill-favoured  and  ill-knit,  he  became  verv  nnserable  In
 "ke  manner  a.s  time  passed,  the  king  of  Si^n,  named  fivi,  had  a  desn^  o  eat
 flesh  roasted  on  coals  in  the  forest  :  .so  he  gave  over  his  kingdom  to  his  nimiBters
-and  wTth  the  five  kinds  of  we apons  he  went  to  the  fores  and  ate  the  fle«h  of  the
+and  wTth  the  five  kinds  of  we<apons  he  went  to  the  fores  and  ate  the  fle«h  of  the
 d^r  he  slew  :  in  time  he  came  to  that  spot  and  saw  that  man.  Although  afraid,
 hrsummoned  courage  to  a.sk  who  he  was.  ''Lord,  I  am  tbe  g^os  of  a  nu^.,
 reapin.-  the  fruit  of  the  deeds  I  have  done  :  who  are  you  I  "The  k  ng  ot  bivi
@@ -15937,7 +16330,7 @@ Labour,  and  skill  in  handicraft,  a  peaceful  home,  a  w'lfe.
 
 All  have  been  lost  to  me  :   my  works  bear  fruit  in  this  my  lite.
 
-Worsted  a  thousandfold  I  am,  kinless  and  reft  of  8t ay,
+Worsted  a  thousandfold  I  am,  kinless  and  reft  of  8t<ay,
 
 Strayed  from  the  law  of  righteousness,  like  ghost  I  m  fallen  away.
 
@@ -15972,7 +16365,7 @@ No.   424.
 ADirrA-JATAKA.
 
 "  Whiit*^er  a  man  can  save"  etc. — The  Mft^tor  t<»ld  thin  IaIo  while  dwelling  in
-JftuvHiui,  conceniiiig  an  iiiconiiMiraMo  gift.  The  itu- iin|>nm)>lc  gift  nui«t  I*
+JftuvHiui,  conceniiiig  an  iiiconiiMiraMo  gift.  The  itu-‹iin|›nm)>lc  gift  nui«t  I*
 •lesiTiUnl  ill  full  fnnii  tlio  comiuciitiirv  on  the  MikhAi^ovnuhLsuttii.  On  llu-  day
 iiftor  that  on  which  it  ha«l  Uh'ii  given,  tlioy  wore  tjilkin^' of  it  in  the  Hall  of  Truth,
 "Sirs,  the  Konala  king  [ITOl  after  exannnation  foimd  the  |»ro|>or  field  of  niorit,
@@ -15984,10 +16377,10 @@ examination  gave  Much  giftM,    luid  ho  ho  told  a  tale  of  old.
 
 
 Once  u|H)n  u  time  a  king  naimed  llhurata  reigned  nt  Huniva  in  the
-kingdom  of  Sovira.  He  practiHed  the  ten  royul  virtues,  won  the  |H ople
+kingdom  of  Sovira.  He  practiHed  the  ten  royul  virtues,  won  the  |H<ople
 hy  the  four  elementw  <)f  popularity,  «tootl  to  the  multitude  like  father  and
 mother  und  gave  great  gifts  to  the  poor,  the  wuyfai-era,  the  U'ggant,  the
-Buitora  and  the  like.  His  chief  (iu(m)u  Samuddavijayu  was  wine  and  full  of
+Buitora  and  the  like.  His  chief  ‹iu<m›u  Samuddavijayu  was  wine  and  full  of
 knowledge.  One  day  he  looked  round  his  alniM-hall  and  thought,  *•  My
 alms  are  devoured  hy  worthless  greedy  |>copIe :  I  don't  like  this :  I
 should  like  to  give  alms  to  the  virtuou.s  paccekahuddhos  who  deserve  the
@@ -16033,7 +16426,7 @@ assembly  spoke  two  stanzas  : —
 \Vhate'er  a  man  can  save  from  flames  that  bum  his  dwelling  down,
 Not  what  is  left  to  Ix)  consumetl,  will  still  remain  his  own.
 
-The  world's  on  fire,  decay  and  death  are  there  the  flamo  t j  feed  ;
+The  world's  on  fire,  decay  and  death  are  there  the  flamo  t<j  feed  ;
 Save  what  you  can  by  charity,  a  gift  is  saved  indeed.
 
 [472]  Thus  expressing  thanks  the  Elder  admonished  the  king  to  be
@@ -16046,13 +16439,13 @@ departure,  the  other  six  also  expresstnl  thanks  in  a  stanza  each  : �
 He  who  gives  to  rightcfius  men.
 
 Strong  in  holy  energy,
-Cras.scs  Vama'.s  tl(j Kl,  and  then
+Cras.scs  Vama'.s  tl(j<Kl,  and  then
 
 Gains  a  dwelling  in  the  sky.
 
 Like  to  war  is  charity :
 
-HostH  may  flee  l»ef jre  a  few :
+HostH  may  flee  l»ef<jre  a  few :
 Give  a  little  ])iou.'4ly :
 
 Bliss  hereafter  ia  your  due.
@@ -16092,8 +16485,8 @@ has  been  said.  The  king  and  (jueeu  gave  gifts  all  their  lives  and  p
 fully  through  the  [)ath  to  heaven.
 
 
-After  the  lesson,  the  Mivster  s iid,  "So  wise  men  of  old  gave  gifts  with  dis-
-crimination," and  identitied  the  Birth:  "At  that  time  the  paccekabudiliia  re iched
+After  the  lesson,  the  Mivster  s<iid,  "So  wise  men  of  old  gave  gifts  with  dis-
+crimination," and  identitied  the  Birth:  "At  that  time  the  paccekabudiliia  re<iched
 nirvana,  Sanuuldavijaya.  was  the  mother  of  Hrihula,  and  the  king  Bliarata  was
 my.self."
 
@@ -16202,7 +16595,7 @@ And  bring  down  Kahu  from  the  sky,  the  thing  iwrchance  may  Ihj.
 When  swarms  of  flies  devour  strong  drink  in  pitchers  full  and  free.
 And  house  themselves  in  burning  coals,  the  thing  jwrchance  may  Ihj.
 
-When  a.sse.s  get  them  n\^  re l  lips  and  faces  fair  to  see.
+When  a.sse.s  get  them  n\^  re<l  lips  and  faces  fair  to  see.
 
 And  shew  their  skill  in  song  and  dance,  the  thing  iKirchance  may  Ikj.
 
@@ -16247,7 +16640,7 @@ at  their  pleasure.  One  day  they  came  in  the  evening,  took  all  the  g
 went  away  :  but  one  she-goat  had  wandered  far,  and  not  .seeing  the  goats  depart-
 ing, she  was  left  behind.  Later,  as  she  was  departing,  a  certain  panther  saw
 her,  and  thinking  to  eat  her  stood  by  the  door  of  the  enclosure.  She  looked
-all  round,  and  .s iw  the  panther.  "  He  is  there  l)ecaiuse  he  wishes  to  kill  and  eat
+all  round,  and  .s<iw  the  panther.  "  He  is  there  l)ecaiuse  he  wishes  to  kill  and  eat
 me,"  she  thought ;  "  if  I  turn  and  run,  my  life  is  lost  ;  I  must  play  the  man,"
 and  so  she  tos.sed  her  horns,  and  sprang  straight  at  him  with  all  her  might.
 She  escaped  his  grip,  though  he  w;us  quivering  with  the  thought  of  catching  her  :
@@ -16395,7 +16788,7 @@ leaving  the  rest  behind,  and  going  beyond  the  prescribed  limit,  he  ca
 within  the  range  of  the  Vemmba  wind,  and  was  blown  into  atoms.
 
 
-The  Ma-ster,  in  his  l*erfect  Wi.s K.rn,  to  illustrate  this  incident,  uttered  thene
+The  Ma-ster,  in  his  l*erfect  Wi.s<K.rn,  to  illustrate  this  incident,  uttered  thene
 verses :
 
 Formed  of  rough  logs,  an  ancient  pathway  led
@@ -16457,14 +16850,14 @@ who  saw  no  sin  in  what  was  sinful.  The  Vinaya  scholar  .siiid  to  his
 the  other  Brother's  pupils  .s^vid,  "  Vour  m;uster  though  falling  into  sin  does  not
 recognize  its  sinfulness"  They  went  and  told  their  ma.ster.  He  .said,  "This
 Vinaya  scholar  l>efore  said  it  wius  \u>  sin,  and  now  says  it  is  a  sin  :  he  is  a  liar."
-They  went  an l  told  the  others,  "Vour  ma.-ster  is  a  liar."  Thus  they  stirred  up  a
+They  went  an<l  told  the  others,  "Vour  ma.-ster  is  a  liar."  Thus  they  stirred  up  a
 quarrel,  one  with  another.  Then  the  Vinaya  scholar,  finding  an  opportunity,
 went  through  the  form  of  excommunication  of  the  Brother  for  refusing  to  see
 his  offence.  Thenceforth  even  the  laymen  who  provided  ueces.saries  for  the
-priests  were  divideil  into  two  fjictions.  The  sisterhoods  t(M)  that  accept  their
+priests  were  divideil  into  two  fjictions.  The  sisterhoods  t‹M›  that  accept  their
 admonitions,  and  tutelary  gtxls,  with  their  fri»*nds  and  intimates  and  deities  from
 tho.se  that  rest  in  space-'  [487]  to  those  of  the  Brahma  World,  even  all  such  ius  were
-luiconvertetl,  formed  two  parties,  and  the  uproar  reached  t j  the  abo ie  of  the
+luiconvertetl,  formed  two  parties,  and  the  uproar  reached  t<j  the  abo<ie  of  the
 Sublime  gods'-.
 
 Then  a  certain  Brother  drew  nigh  to  the  Tathagata,  and  announced  the  view
@@ -16474,7 +16867,7 @@ orthodox  form,"  and  the  view  of  the  followers  of  the  e.xcomnuuiicated 
 forbidden  by  the  excommunicating  party,  .still  gathered  round  in  supjKjrt  of  him.
 The  Bl&ssed  One  said,  "There  is  a  schism,  yea,  a  .schism  in  the  Brotherhood,"
 and  he  went  to  them  and  jxiinted  out  the  mi.sery  involved  in  excommunication
-t j  those  that  excommunicated,  and  the  misery  following  upon  the  concealment
+t<j  those  that  excommunicated,  and  the  misery  following  upon  the  concealment
 of  sin  to  the  opiMwite  party,  and  so  departed.  Again  when  they  were  holding
 the  Ujxisatha  and  similar  services  in  the  .same  i>lace,  within  the  l>oundary,  and
 were  quan-elling  in  the  refectory  and  elsewhere,  he  laid  down  the  nde  that  they  .
@@ -16503,7 +16896,7 @@ But  the  Maxter  said  to  them,  "Once  ufMn  a  time,  Brethren,  Brahmadatta
 
 reigned  juh  king  of  Kfusi  in  Benares,  and  he  roblxni  Dighati,  king  of  KoMila,  of  hiii
 kingdom,  and  put  him  to  death,  when  Hving  in  disguise,  and  when  prince
-Dighavu  spared  tlie  life  of  Brahniadatt i,  tliey  l)eeame  thenceforth  close  friends.
+Dighavu  spared  tlie  life  of  Brahniadatt<i,  tliey  l)eeame  thenceforth  close  friends.
 And  since  such  must  have  Ijcen  the  long-sutlering  and  tenderness  of  these
 sceptred  and  s\vord-l)canng  kings,  verily.  Brethren,  you  ought  to  make  it  clear
 that  you  too,  having  emhraced  the  religious  life  acconling  to  so  well-taught  a
@@ -16524,7 +16917,7 @@ Each  one  believes  that  he  hini.self  is  wise,
 
 And  views  his  neighlxnir  witli  di.silainful  eyes.
 
-Bewildere l  souls,  putted  up  with  self-esteem.
+Bewildere<l  souls,  putted  up  with  self-esteem.
 
 With  oj)on  mouth  they  foolishly  Masplieme  ;
 
@@ -16532,7 +16925,7 @@ And  ;w  thro\igh  all  the  range  of  sjKHHjh  they  stray,
 
 Tlipy  know  not  whom  as  leader  to  obey.
 
-"7V/m'  man  abiu4e l  me,  that  struck  me  a  blow,
+"7V/m'  man  abiu4e<l  me,  that  struck  me  a  blow,
 
 A  third  o'ercnmo  and  robl>ed  nje  long  ago."
 
@@ -16542,13 +16935,13 @@ To  mitigate  their  wrath  are  ne'er  inclineil.
 
 "//e  did  abuse  and  buftet  me  of  yore.
 
-He  overcame  me  and  uppres.He l  me  sore."
+He  overcame  me  and  uppres.He<l  me  sore."
 
 They  who  such  thoughts  refu.se  to  entertain,
 
 Appea.se  their  wrath  and  live  at  i>ne  again.
 
-N tt  hate,  but  love  alone  makes  hate  to  cea.se  :
+N<tt  hate,  but  love  alone  makes  hate  to  cea.se  :
 
 This  is  the  everbisting  law  of  i>eace.
 
@@ -16621,7 +17014,7 @@ Mahasl'k.v-jataka'.
 
 "  Wherever  fniitfid  trees"  etc. — This  story  the  Master  dwelling  at  Jetavana
 told  concerning  a  certain  Brother.  The  story  goes  that  he  lived  in  a  forest  near
-a  border  village  in  the  Ko.sala  country,  and  recei\ed  instruction  in  f jrms  of
+a  border  village  in  the  Ko.sala  country,  and  recei\ed  instruction  in  f<jrms  of
 meditation  from  the  Master.  The  people  made  him  a  dwelling-place  on  a  site
 where  men  continually  pa.s.seil  to  and  fro,  providing  him  with  day  and  night
 quarters,  and  attentively  ministered  to  him.  In  the  very  first  month  after  he
@@ -16661,11 +17054,11 @@ of  Sakka  was  shaken.  Sakkn  reflfi-ting  on  the  cause  saw  the  purmt,  a
 to  test  his  virtue,  by  his  supernatural  power  he  withered  up  the  tree,
 which  became  a  mere  stump  jwrforated  with  holes,  and  stoiKl  to  be  buffeted
 by  every  blast  of  witnl,  and  from  the  holes  dust  came  out.  Tlie  parrot
-king  ate  this  dust  an l  drank  the  water  of  the  (Janges,  and  going  n«)wliere
+king  ate  this  dust  an<l  drank  the  water  of  the  (Janges,  and  going  n«)wliere
 else  sat  perched  on  tlu-  top  of  the  fig-stump,  recking  nought  of  wind  and
 sun.
 
-Sakka  notice l  how  very  content«'il  the  parrot  was,  and  said,  "  Aftei-
+Sakka  notice<l  how  very  content«'il  the  parrot  was,  and  said,  "  Aftei-
 hearing  him  speak  of  the  virtue  of  friendship,  I  will  come  and  give  him
 his  choice  of  a  boon,  and  cause  the  tig-tree  to  bear  ambrosial  fruit."  So
 he  took  the  form  of  a  royal  goose,  and  preceded  by  Suja  in  the  shape  of
@@ -16736,7 +17129,7 @@ king  on  seeing  it  was  highly  pleased,  and  singing  the  praises  of  Sak
 spoke  the  ninth  sttinza  :
 
 May  Sakka  and  all  loved  by  Sakka  blessed  Ije,
-As  1  to-day  aru  blest  this  g Jodly  sight  to  see  !
+As  1  to-day  aru  blest  this  g<Jodly  sight  to  see  !
 
 Sakka,  after  granting  the  parrot  his  choice,  and  causing  the  fig-tree  to
 bear  ambrosial  fruit,  returned  with  Sujata  to  his  own  abode.
@@ -16771,11 +17164,11 @@ CULLASUKA-JATAKA.
 "Lo/  countless  trees,^^  etr. — This  story  the  Master  dwelhiig  at  Jetavaii.i  told
 concerning  the  Verafija  section '.  When  the  Master  after  pa-ssing  tlio  rainy  seiusoii
 at  Verauja  in  due  course  arrived  at  Savatthi,  the  llrethren  in  the  Hall  of  Truth
-raised  a  discussion  saying,  "  Sirs,  ;i  Tathagat i,  a  delicately  inirtured  ksiiatriya
-and  Buddha,  tliough  possessed  of  supernatural  powers,  at  the  invit;ition   tf  a
+raised  a  discussion  saying,  "  Sirs,  ;i  Tathagat<i,  a  delicately  inirtured  ksiiatriya
+and  Buddha,  tliough  possessed  of  supernatural  powers,  at  the  invit;ition  <tf  a
 brahmin  of  X'eranja  stayed  three  months  with  him,  and  when  owing  to  the
 temptation  of  Mara  he  failed  to  receive  an  alms  at  the  hands  of  the  brahmin,
-even  for  a  single  day,  he  gave  up  all  covetous  ways,  an l  keeping  in  the  same
+even  for  a  single  day,  he  gave  up  all  covetous  ways,  an<l  keeping  in  the  same
 place  for  three  months  lived  on  water  and  a  modicum  of  the  groimd  Hour  of
 roots.  [49o]  0\\  the  contented  nature  of  Tathagatas  I"  When  the  M.ister  came
 and  on  intpiiry  learned  the  nature  of  their  discussion  he  sivid,  "  It  is  no  nuirvel,
@@ -16886,12 +17279,12 @@ her  body.  And  the  Bodhisatta  later  on  in  the  day,  dre.ssed  in  a  goo
 inner  and  outer  robe,  took  his  alms-bowl  uiul  walking  through  the  air
 came  to  the  window.  As  the  queen  rose  up  in  haste,  at  the  rustling
 sound  of  his  hark  garnicnt.s,  her  robe  of  tine  cloth  fell  from  otV  her.  An
-extraonlinary  object  struck  upon  the  eye   jf  the  Great  Being.  Then  the
+extraonlinary  object  struck  upon  the  eye  <jf  the  Great  Being.  Then  the
 .sinful  t'l-eling,  that  had  been  dwelling  for  countless  aeons  in  his  heart,
 ro.st^  up  like  a  snake  lying  in  a  box,  and  put  to  tlight  his  mystic  meditation.
 Being  unal>l*!  to  tix  his  thoughts  he  went  and  seized  the  queen  by  the
 hand,  and  forthwith  they  drew  a  cui'tain  round  them.  After  misconducting
-himself  with  her,  he  partook  of  .some  fi)o(l  and  returned  tt)  the  park.  And
+himself  with  her,  he  partook  of  .some  fi>o‹l  and  returned  tt›  the  park.  And
 every  day  tlieiueforth  he  acted  after  the  .sanu-  manner.
 
 His  misconduct  was  bhized  abroad  throughout  the  whole  city.  The
@@ -16973,7 +17366,7 @@ And  multitudes  thy  wisd.mi  shall  pnx;laim.
 Then  the  Bodhisatta  recovered  the  jxjwer  to  concentrate  his  thoughts,
 and  observing  the  misery  of  sinful  desire,  he  spoke  the  eighth  stanza  :
 
-Since  blinding  p i.ssions  yield  a  bitter  fruit,
+Since  blinding  p<i.ssions  yield  a  bitter  fruit,
 All  growth  of  liLst  I  cut  down  to  the  root.
 
 [501]  So  saying  he  asked  the  king's  leave,  and  having  gained  his
@@ -17013,10 +17406,10 @@ footsteps,  came  and  sUmxI  l>efore  him.  So  hi.s  father  one  day  a-sked 
 "When  1  went  off  without  telling  v*)U,  how  did  you  know  where  I  wjus  gone?"
 [r)()2]  ".My  dear  father,  I  recogni/xtl  your  fiM.t.step.s.  I  am  .>.killeii  in  thi.s  way."
 Then  his  father,  to  prove  him,  went  out  of  his  hou.se  after  the  early  meal,  and
-going  into  his  ne.\t-d M)r  neighlMMir's  house,  from  it  piLs.s(»d  int4t  another,  and
+going  into  his  ne.\t-d<M)r  neighlMMir's  house,  from  it  piLs.s(»d  int4t  another,  and
 from  this  third  house  again  returnetl  to  his  own  home,  and  thence  nja«le  his  way
 to  the  North  gate,  and  iia.ssing  out  by  it  made  a  tinuit  of  the  city  from  right
-to  loft.  And  coming  to  .letavana  \w  salute(l  the  .Miustor  and  sjit  down  t4)  listen
+to  loft.  And  coming  to  .letavana  \w  salute‹l  the  .Miustor  and  sjit  down  t4›  listen
 to  the  Law.  The  lio^  askwl  wh(>re  his  father  was,  anil  when  they  siiid,  "  We  do
 not  know,"  by  tracing  his  father's  steps,  and  st/irting  fri«m  the  next-door
 noighlKiur's  hou.se  he  went  by  the  .sjime  road  by  which  his  father  had  travelled
@@ -17085,7 +17478,7 @@ mother  must  have  a  limited  sphere  of  action.  Suppose  I  were  to  ask  
 the  limits  of  space  over  which  her  authority  extends.  Then  I  will  escape
 by  going  beyond  this."  So  one  day  sitting  respectfully  near  his  mother  he
 said,  "  My  dear,  that  which  belongs  to  a  mother  comes  to  the  children ;
-tell  me  now  what  is  the  l)oundaiy  of  our  ground."  She  t jld  liim  all  the
+tell  me  now  what  is  the  l)oundaiy  of  our  ground."  She  t<jld  liim  all  the
 landmarks,  mountains  and  such  like  in  all  direction.s,  and  pointed  out  to
 her  son  the  space,  thirty  leagues  long  and  five  leagues  broad,  and  said,
 "  Consider  it  to  be  so  mtich,  my  .son."  After  the  lapse  of  two  or  three
@@ -17119,7 +17512,7 @@ cried,  "  (Jood-l)ye,  moth«a-."  The  Yakkha  saiil,  "  If  you  do  not  re
 son,  1  cannot  live,  "  and  she  smote  upon  her  breast,  and  straightway  in
 sorrow  for  her  son  her  he.irt  was  i>roken  and  she  fell  down  dead  on  the
 spot.  The  Bodhisatta,  when  he  knew  hia  mother  was  dead,  called  to  his
-father  and  went  and  made  a  funeral  pile  and  Inirnetl  lier  bo ly.  Aft«'r
+father  and  went  and  made  a  funeral  pile  and  Inirnetl  lier  bo<ly.  Aft«'r
 extinguishing  the  flames,  he  made  offerings  of  various  coloured  flowers,
 and  with  weeping  and  lamentation  returned  with  his  father  to  Benares.
 
@@ -17332,7 +17725,7 @@ him  against  her,  saying,  "  I  cannot  possibly  support  your  mother  :  y
 must  kill  her."  [•'jH]  And  when  he  answered,  "Murder  is  a  serious
 matter :  how  am  I  to  kill  her  ?  "  she  said,  "  When  she  has  fallen  asleep,
 we  will  take  her,  b«'d  and  all,  and  throw  her  into  the  crocoilile  river.
-Then  the  croc xliles  will  make  an  end  of  her."  "  And  where  is  your
+Then  the  croc<xliles  will  make  an  end  of  her."  "  And  where  is  your
 mother  1 "  he  Maid.  "  She  sleeps  in  the  same  room  as  your  niother."
 "Then  go  and  set  a  mark  on  the  bed  on  which  she  lies,  by  fastening  a
 rope  on  it."  She  did  so,  and  said,  "I  have  put  a  mark  on  it."  The
@@ -17341,7 +17734,7 @@ And  he  lay  down  pretending  to  go  to  sleep,  and  then  went  and  fasten
 the  rope  on  his  mother-in-law's  bed.  Then  he  woke  his  wife,  and  they
 went  together  and  lifting  her  up,  bed  and  all,  threw  her  into  the  river.
 And  the  crocotliles  there  killed  and  ate  her.  Next  day  she  found  out
-what  had  happened  to  her  own  mother  and  8ai l,  "  My  lord,  my  mother  is
+what  had  happened  to  her  own  mother  and  8ai<l,  "  My  lord,  my  mother  is
 dead,  now  let  us  kill  yours."  "  Very  well  then,"  he  .said,  "we  will  make
 a  funeral  pile  in  the  cemetery,  and  cast  her  into  the  fire  and  kill  her."  So
 the  man  and  his  wife  took  her  while  she  was  asleep  to  the  cemetery,  and
@@ -17439,7 +17832,7 @@ After  ho  had  with  his  own  hands  phiced  his  treasure  in  the  tank,  h<
 about  looking  for  the  thief.  That  he  may  not  in  futurt;  go  on  playing  tin*
 part  of  a  thief,  we  will  kill  this  wicked  king."  So  they  rose  up  with
 sticks  and  clubs  in  their  hands,  and  then  and  there  beat  the  king  and  the
-priest  till  they  died.  But  tlu-y  anointed  the  B j lhi.satta  and  set  him  on
+priest  till  they  died.  But  tlu-y  anointed  the  B<j<lhi.satta  and  set  him  on
 the  throne.
 
 
@@ -17545,7 +17938,7 @@ will  come."  The  king  readily  agreed,  and  next  day  sent  his  daughter  
 the  hand  of  Sayha.  Sayha  took  the  king's  daughter  and  went  there,  and
 after  the  usual  salutation  and  compliments  to  the  sage,  he  presented  to
 liim  the  princ(!s.s,  as  lovely  as  a  celestial  nymph,  and  stood  at  a  respectful
-distance.  The  ascetic  losing  his  moral  sense  looked  at  her,  an l  with  the
+distance.  The  ascetic  losing  his  moral  sense  looked  at  her,  an<l  with  the
 mere  look  he  fell  away  from  meditation.  The  councillor  seeing  that  he
 was  smitten  with  love  said,  "Your  Reverence,  if  you  will  oH'er  sacrifice,
 the  king  will  give  you  this  maiden  to  wife."  He  trembled  with  the  power
@@ -17643,7 +18036,7 @@ Si»  <>iu!  thiy  H  ili.Hoii.s.sioii  w.im  niistHl  in  tlie  Hull  of  Truth
 Wlieu  the  Muster  hwiiii  what  they  welt;  thscufwiiii;,  ho  Meiit  f<»r  that  lin»ther  aiitt
 iiskfit  hitu  if  it  weru  true  that  he  wils  ^'roetlv.  Ami  when  he  M«id  "  Ve**,"  the
 Muster  uskt'd,  "Why,  Hrother,  are  yi>u  {nvedy  ^  Konnerly  t4X)  tiiroii^^h  your
-groe liness,  not  beinj,'  siitistit-d  with  the  ilwiu  iMwIics  of  elo|>huntrt,  you  left  lieiiartm
+groe<liness,  not  beinj,'  siitistit-d  with  the  ilwiu  iMwIics  of  elo|>huntrt,  you  left  lieiiartm
 und,  wunderinj;  ulioiit  im  the  hank  of  the  <  Janges,  enteriil  the  lliniahua  i-ountry."
 And  hereiUMiii  he  told  a  .Ntory  of  the  past.
 
@@ -17681,7 +18074,7 @@ Healing  this  the  crow  spoke  the  third  stiinxa  :
 
 What  fruits  upon  the  scii  alxiund.
 And  whence  may  fiesh  for  gocse  l)c  fountl  t
-Say  on  what  h&ivcnlv  fo Ki  yc  live,
+Say  on  what  h&ivcnlv  fo<Ki  yc  live,
 Such  Iwauty  and  such  strength  to  give.
 
 [r)22]  Then  the  i  uddy  goose  spoke  the  fourth  stanza  :
@@ -17692,7 +18085,7 @@ And  whence  shouUl  ruddy  geese  have  meiit  ?
 
 vScvala  plant,  stript  of  its  skin.
 
-Yields  fo xl  without  a  tiint  of  sin.
+Yields  fo<xl  without  a  tiint  of  sin.
 
 '  The  ruddy  goose,  in  the  poetry  of  the  Hindus,  is  their  turtle-Jove.     See  WUson's
 Mt'[fli(idut(i,  p.  77.
@@ -17748,7 +18141,7 @@ not  your  U-auty."      Ami  with  a  cry  of  'Caw,  Caw,'  he  tlew  away.
 
 The  M*uHt«r,  his  lesson  ended,  revealed  the  Truths  and  identified  the  B'rt}»  •-
 \t  he  conclusion  of  the  Truths  the  greedy  Brother  att.tined  t<.  fruition  of  the
-Secoiid  Vaih:  "  In  those  days  the  crow  was  the  gree ly  Brother,  the  she-goose
+Secoiid  Vaih:  "  In  those  days  the  crow  was  the  gree<ly  Brother,  the  she-goose
 was  the  mother  of  Hahula,  the  hc-go«se  myself. '
 
 
@@ -17839,7 +18232,7 @@ World.
 
 The  Mitster,  his  les.son  ended,  proclaiinc«l  the  Truths  and  identitieil  the
 Birth  : — At  the  fonclusi(m  of  the  Truths  the  lirother  who  longed  for  the  world
-Htt iincd  to  fruition  of  the  Kii-st  I'ath  : — "In  those  days  the  young  a.scctic  w;us
+Htt<iincd  to  fruition  of  the  Kii-st  I'ath  : — "In  those  days  the  young  a.scctic  w;us
 the  worldly-miniK-d  Brother,  the  maiden  then  is  the  maiden  now,  but  the  father
 was  myself."
 
@@ -17851,7 +18244,7 @@ SAML'GC.V-JATAKA.
 
 
 rr>27]  "  \y/(fioe  t'linif  i/i;  JrunoU,"  ed:  —This  story  the  Master,  while  dwelling
-at  .fetavauji,  told  (»f  a  worldly-niindeil  Brother.  The  M;i.stcr,  they  s iy.  asked  him
+at  .fetavauji,  told  (»f  a  worldly-niindeil  Brother.  The  M;i.stcr,  they  s<iy.  asked  him
 if  it  were  tnic  that  he  wjus  hankering  after  the  world,  and  on  his  confessing  that
 it  was  so,  he  sjiid,  "Why,  Brother,  do  you  desire  a  woman  {  Verily  woman  is
 wicked  and  ungrateful.  Of  old  Asiu-Ji  denjons  swallowed  women,  and  though
@@ -17890,7 +18283,7 @@ through  the  air.  When  she  saw  him,  she  put  her  hands  in  a  certain
 position  and  signed  to  him  to  come  to  her.  The  imigician  (juickly  dcscendetl
 to  the  ground.  Then  she  placed  him  iu  the  box,  and  .sat  down  on  it,
 waiting  the  approach  of  the  Asura,  and  as  soon  as  she  saw  him  coming,
-Ijefore  he  had  drawn  near  to  the  box,  she  opened  it,  and  getting  insid j  lay
+Ijefore  he  had  drawn  near  to  the  box,  she  opened  it,  and  getting  insid<j  lay
 over  the  magician,  and  wrajjped  her  garment  about  him.  The  Asura  came
 and  without  examining  the  box,  thought  it  was  only  the  woman,  and
 swallowed  the  box  and  set  out  for  his  cave.  While  on  the  road  he
@@ -18102,7 +18495,7 @@ And  grieve,  by  Mela's  art  lietrayed.
 On  hearing  thix  l\w  Hhe-jackal  8|)uku  the  thinl  stan/a  ;
 
 Vou  too,  my  loni,  were  hftitUv  wise,
-And,  foolish  creature,  niised  your  liea l,
+And,  foolish  creature,  niised  your  liea<l,
 
 SUiriiij^  alK)ut  with  oj>eii  eyes.
 Though  feigning  tu  be  dead.
@@ -18110,7 +18503,7 @@ Though  feigning  tu  be  dead.
 
 At  fitting  tiinON  they  that  are  wise
 Know  when  to  ojr*  or  close  their  eyes.
-Who  liM>k  at  the  wr jng  nioiuent,  will,
+Who  liM>k  at  the  wr<jng  nioiuent,  will,
 Kike  i'fitiinansii,  suffer  ill.
 
 This  >t;iii/.;i  wa-^  iiis|iii(Ml  by  Perfect  Witidum.
@@ -18119,7 +18512,7 @@ This  >t;iii/.;i  wa-^  iiis|iii(Ml  by  Perfect  Witidum.
 [535]  But  the  she-jackal  comforted  PutimatiHa  and  .said,  "  My  lord,  do
 not  vex  yourself,  I  will  find  a  way  to  bring  her  here  iigjiin,  and  when  she
 conieB,  1)0  on  your  giuird  and  catch  lier."  Tiicn  she  sought  the  goat  ami
-said,  "My  friend,  your  coming  j)rove l  of  service  to  us;  for  as  soon  r.s  you
+said,  "My  friend,  your  coming  j)rove<l  of  service  to  us;  for  as  soon  r.s  you
 appeared,  my  lord  recovered  consciousneH-H,  and  he  is  now  alive.  Come
 and  have  friendly  speech  with  him."  and  so  saying  she  spoke  the  fifth
 stanza  :
@@ -18151,10 +18544,10 @@ To  us,  I  pray  you,  truly  tell.
 
 The  goat  spoke  the  eighth  stanza  and  SJiid  :
 
-Hounds'  grey  and  tiin,  four-eyed  one  t H),
+Hounds'  grey  and  tiin,  four-eyed  one  t<H),
 Witli  .Tanibnk  form  my  escort  tnie  :
 Uo  hurry  home,  and  quick  prepare
-For  all  abundance  of  go xl  fare.
+For  all  abundance  of  go<xl  fare.
 
 '  Maliya  and  Pingiya  probably  refer  to  the  colour  of  the  dogs ;  Caturaksha  is  one
 of  Yania's  dogs  in  the  Rigveda ;  .lambuka  is  a  spirit  in  the  train  of  Skanda.
@@ -18174,7 +18567,7 @@ Your  go(Kls  will  all  soon  disappear  :
 I'll  take  your  greeting  to  my  lord  ;
 Don't  stir:    nay,  not  another  word  I
 
-With  these  words  she  ran  in  great  haste,  as  for  her  life,  an l  taking
+With  these  words  she  ran  in  great  haste,  as  for  her  life,  an<l  taking
 lier  lord  with  her,  Hod  away.  And  they  never  durst  come  hack  to  that
 spot.
 
@@ -18191,7 +18584,7 @@ TriTIR.V-.l  VTAKA'.
 Vulture  Peak,  told  i-ontennng  the  going  abo\it  of  Devadatta  to  slay  lum.  It
 Wius  at  this  time  that  they  sUiited  a  discus.sion  in  the  Hall  of  Trutli,  savnig,
 "Alas!  Sirs,  how  .shaujele.ss  and  l>a.se  wa-s  DevadatUi.  .loining  himself  to
-Ajat u«\ttii,  he  formed  a  plot  to  kill  the  excellent  and  supreme  Buddlia,  hy  the
+Ajat<u«\ttii,  he  formed  a  plot  to  kill  the  excellent  and  supreme  Buddlia,  hy  the
 suborning  of  archei-s,  the  hurling  of  a  rock,  and  the  letting  loose  of  Nalagn-i."
 'IMie  Miuster  came  ami  incpiired  of  the  Uretliren  what  they  were  discussuig  ni
 their  ;ussemblv,  and  on  l>eing  told  what  it  wa.H  s.iid,  [r),37l  "  Not  only  now,  but
@@ -18229,7 +18622,7 @@ the  bird.      By  and  bye  befon^  the  youths  had  attained  t«i  proficie
 Hcieiic(>M,  tlit'ir  master  died.      Ilis  pupils  had  his  Inxly  burnt,  s<'t  up  a  tope
 of  .sand  over  his  ashes,  and  with  we«'ping  and  lamentation  adorned  it  with
 all    iiianntT   of    flowers.      So   the    partndgo   asked    them   why   they    w«'pt,
-"Our   master,"   they    repli<' l,    "has   di«'d    while   our   studies   are   still    in-
+"Our   master,"   they    repli<'<l,    "has   di«'d    while   our   studies   are   still    in-
 complete."    "If  tliis  is  .so,  do  not  1m>  distressed  :   I  will  teach  you  science."
 "How  do  you  know  it?"      "I    used   to   listen  to  your   master,  while   he
 was   teaching  you,  and   got   up  three  Vedas    by   heart."      "Then  do  you
@@ -18240,7 +18633,7 @@ highly  delighted  and  actpiiretl  science  from  the  learned  partridge.     
 the  bird  stood  in  the  place  of  the  far-famed  teacher,  and  gave  lertures  in
 .scienct'.      The  youths  made  him  a  golden  cage  ami    fastening  an  awning
 over  it,  they  servefl  him  with  honey  and   parched  grain   in  a  golden  di.sh
-and   })resenting  liiin  with  divei-s  coloured   flowers,  they  pai l  great  honour
+and   })resenting  liiin  with  divei-s  coloured   flowers,  they  pai<l  great  honour
 to  the  bird.      It  was  bla/ed  abroad  throughout  all  Inilia  that  a  partridge  in
 a  forest  was  instructing  five  hundred  young  brahmins  in  sacred  te.xts.      At
 that  time  men  proclaimed  a  high  f«'8tival — it  was  like  a  gathering  together
@@ -18282,14 +18675,14 @@ Nor  let  the  wretch  e.sciipe  alive.
 
 Then  the  lizard  repeated  two  stanzas  :
 
-Filth  doth  his  gree ly  soul,  like  nurse's  garb,  besmear,
+Filth  doth  his  gree<ly  soul,  like  nurse's  garb,  besmear,
 Hi.s  i»ersoii  all  is  proof  ugainst  my  fangs,   I  fciir.
 
 Flaw.s  by  the  brt.se  iiigratc  are  everywhere  espied,
 Not  by  the  gift  of  worlds  can  he  be  satisHeil.
 
 The  lizard  .so  siiying  thought,  "Tiiis  fellow  will  wake  up  anrl  eat  me,"
-and  to  save  her  own  lift-  slie  6e l.  Now  the  lion  and  the  tiger  were  on
+and  to  save  her  own  lift-  slie  6e<l.  Now  the  lion  and  the  tiger  were  on
 very  friendly  terms  with  the  partridge.  Sometimes  they  used  to  comf-
 and  see  the  partridge,  and  sonu'times  the  partridge  went  and  taught  the
 Ljiw  to  them.  To-day  the  lion  .said  to  the  tiger,  "  It  is  a  long  time  since
@@ -18339,7 +18732,7 @@ Wo  may  ill  news  of  our  gixnl  partridge  hear.
 What  may  the  fellow's  antecedent.s  Ik",
 And  what  the  sins  that  he  confe.s.Hotl  to  thee,
 To  m.ike  thet'  doubt  that  some  misfortimc  may
-Have  fallen  on   the  le:irne l   bird   to-day  ]
+Have  fallen  on   the  le:irne<l   bird   to-day  ]
 
 Then  in  answer  to  him  king  tiger  repeated  the  remaining  ver.ses :
 
@@ -18379,3 +18772,903 @@ The  Miuster  ciideil  his  lesson  sjiying,  "Thus,  Brethren,  did  Dcvadatta,
 too  go  about  to  kill  nie,"  and  he  identified  the  Birth :  "  At  that  time  the  ascetic
 was  Uevadatta,  the  liz^ird  Kisagotanii,  the  tiger  Mtiggallana,  the  lion  Sariputtjx,
 the  world-renowned  teacher  Kas-sapa,  and  the  learned  partridge  was  myself."
+
+
+INDEX.
+
+
+Abhassara  Leavin  220
+
+Aciravati  river  'JO,  151
+
+Af^t^filava  sLrine  o2,  210
+
+Ajfita'sattu  80,  81,  142,  215,  31'.»
+
+Alavi,  a  city  52,  21G
+
+Ambattha,  court  of  2 18
+
+Anancia  6,  8,  10,  12,   15,  If.,  20,  22,  37,
+
+»;(■.,  80,  'jr.,  103,  125,  i:i5,  153,  ico,
+
+174,  183,  I8r,.  nil,  I'js,  203,  215,  217,
+224,  227,  228,  235,  23'J,  213,  215,  2<;0,
+2f;r,,  271,  27'J,  2H4,  2'J7.  31ti
+
+Anrahiipinaika  78,  85.  03,  12'.t.  105,  200
+
+Augulimnla  203
+
+Afijanavana  park  172
+
+Anotatta  lake  105,  108,  230
+
+Anuruddha  'j7,  27'J,  293,  2'Jl
+
+Anusissa  277
+
+Apacara,  a  king  272
+
+Arafijara,  a  country  277
+
+Aruna,  a  kinj,'  3
+
+Asaiiki'i  102,  104
+
+Asavati,  the  heavenly  crec'i)er  102
+
+Assaka  country  and  people  2,  5
+
+Assaka,  a  king  2 —
+
+Assapura,  a  city  275
+
+Asuras  313—
+
+Atthnnfini  (impossible  conditions),  284
+
+Atthisena  216
+
+Avanti,  kingdom  of  277
+
+Avfiriyapitfi  152
+
+Avavadakfi  1
+
+Avici  LeU  28,  48,  120,  272,  275
+
+Ayura  208
+
+Badarika  monastery  43
+
+Baka  the  Brahma  21'J
+
+Balaka-lonakriragfima  290
+
+Bandhura,  a  groom  258
+
+Baveni,  a  kingdom  83
+
+Benares  6,  8,  U,  10,  pangim
+
+Benfey  'J9,  115,  120,  174
+
+Bhaddavatikii,  an  elephant  233
+
+Bhaggas,  country  of  the  105
+
+Bhagu,  an  elder  291
+
+Bharata,  a  hunter  259  ;  a  king  of  Roruva
+
+280
+Bharukaccha,  a  country  124
+
+
+Bhesakalii  grove  105
+Bimbisfira,  king  80
+Bodhi,  a  prince  1(»5,  Hi7
+Budliisatta,  the  3,  4,  0,  pussiin
+Brahinadatta,  king  jxissim
+Braliuiadalta-kumara  150,  237,  24(5,  282,
+
+300
+Brahma-world  10,  54,  G4,  68,  99,  112,  159,
+
+102,   188,    l'J3,    217,   220,   224,    232,
+
+239,  200,  289,  309,  313
+Bulls,  tutelary  gods  in  the  shape  of  4
+
+Canda,  queen  118 —
+
+Oandavati,  princess  308
+
+Cajitain  of  tlic  Faith,  see  Sriripultu
+
+CauldrouH,  the  four  in  hell  31
+
+Ceti.  kingdom  of  272—
+
+Chauna  123,  204
+
+Chatta  70,  77
+
+Chiltalatfi  garden  102
+
+Cinca-mfmavikri  IhO
+
+Cittukuta,  Mount  137,  13h,  100
+
+Culla-anrithapintlika  310
+
+CuUadaddara  11
+
+CuUatundila  181
+
+Dabbascna,  a  king  9,  10
+
+Daddara,  Mount  11
+,,         a  city  275
+
+Daddara  Nagas  11
+
+Dalhadliamnia,  a  king  233
+
+Dandaki,  a  king  277
+
+Dantapura,  a  city  2,  228
+
+Darimukha  150 —
+
+Dasanna  swords  208
+
+Deccan,  the  277
+
+Devadatta  17,  29,  58,  60,  05,  00,  74,  75,
+87,  88,  107,  115,  117,  llH,  120,  133,
+186,  200,  218,  220,  249,  252,  271,  319,
+323
+
+Devala,  Black  278
+
+Deva- world,  the  30
+
+Dhanafijaya  05,  241
+
+Dhanapjila,  a  prince  118,  119
+,,  the  elephant  184
+
+Dhatarattha,  one  of  the  Four  Kings  1G5 —
+
+DhfimakJiri  212
+
+Dighati,  a  king  290
+
+
+.32(;
+
+
+In,  I,
+
+
+Dighavu,  prince  139,  *21M)
+Dumiiiukhii,  u  kin^  'J30
+
+Kin,  a  river  'I'M
+
+Eriivunu,  Sukku'H  ulepliunt  'I'M
+
+I'Ver,  L.  128
+
+l-'ulk  lore  Jourmil  2(1'..  210,  285
+FootMti'jw,  Hkill  to  truce  21(8
+Fourteen  KetH  of  priestly  duties  287
+
+(iundliaiundnna,  a  mountain  270
+(randliitrn  Kin^,'donI  221 —       ,  220
+(liiiiKiiniiilu,  11  Inirher  2ti'.»  —
+Gimmes  H">.   88,   loG,  220,  225,  '><\,  2m J,
+
+21)2,  a  10
+(laruda,  GarudaH  58,  O'J,  123 —
+(•hatu  111,  112
+Ghosita  park  28:J,  28'.t
+Gijjha  |iiililiata  Kit.xff  Vulturc-tuoutitaiii
+Gotama  M),  220
+Guuibika  (-l>iya)  1:12
+
+
+Hardy  21<).  287,  2h'.)
+
+Hare,  the  Moon'H  .S7
+
+Harita,  an  ascetic  'I'M'*
+
+Harittaca-KuiM.'ira  2U5
+
+Hatthipura,  a  city  275
+
+Heaven  of  the  Four  Kiu^;s,  thu  1»>5,  1»
+
+Himalaya.    11.  17,  21.  21.  2);.  :<().  |k
+
+r>:i.  T\  75,  7'.»,  80.  HH.  in.  '.»■>,  \)f<,
+115.  i:n,  no.  151,  Uio,  ir.i,  imm.
+
+
+222,    225.    2:»5.    2:V.I,    212.    2IH,
+25U,  2t;'.t,  270.  278.  280,  28j.  285.
+2y5.  '.WA,  HOC,  :j10,  313,  317,  320
+Horseman,  the  great  (i
+
+Indai)attana,  a  city  241
+Irulra  ;»7,  308  (>,■<•  Sakka)
+ludra  (Vasava)  21'.(  (»ee  Kakka)
+ludra  (Ma^havan)  1)7  (*<!e  Sakka)
+
+Jain  (ni^^'antha)  1,  84
+
+.Iaml>uka  318
+
+Janaka,  a  kin^  210.  214
+
+Jatakamalfi  17.  2f..  31.  85.  225,  244
+
+Jatakas  referred  to  in  the  text;
+
+Bhaddasala  225
+
+Cullahodhi  (".2
+
+CuUahainsa  183
+
+CuUanaiiilaka  117
+
+CuUanarada  311
+
+Cullanaradakassapa  1)8
+
+♦Daddara  117
+
+*Iudriya  3<),  KJl
+
+*Kanavera  2(il
+
+Khadiraiifjara  85
+
+Kliandahala  183
+
+•Khantivfidi  117
+
+*Kummrxsapinda  270
+
+Kunfila  87
+
+Maiifijanaka  157
+
+Mahakanha  96,  180
+
+
+53,
+112,
+2H;,
+257,
+2'J2.
+
+
+Jntakad  referred  to  iu  the  text :
+
+Mahaiiiittuvitida  13()
+
+.Mali.i^iluva  'J
+
+MaliiiutnmaKTa  130,  178
+
+Mahiliimukhata  I'.VJ
+
+Manikantha  52,  210
+
+Miitaii^^a  233
+
+Nigro«lha  173
+
+rrmiya  12,  228
+
+Tan II a  137,  23'J
+
+Srdaka  130
+
+Sama  201
+
+Sani^'hal)he<laka  1 39
+
+S»'yyaiiisa  9
+
+Takk.'irika  Wx
+
+Tesakuna  73.  197
+
+Tipallattha  43
+
+I'dd.ila  153
+
+rnimaKva  101.  210
+
+Vevatiyakitpi  117
+■lutavana  1.  li.  9,  10,  iiutmin
+Jewel-mount,  the  293
+Jotipalu  277
+
+Kaccana  279
+
+KAkati,  a  i|uccn  tU
+
+Kalahahu,  a  monkey  ti5
+
+Kalahu.  a  kiiiK  2t>
+
+Kaladevala  277    -
+
+Kalakanni,  K'nldefiM  of  ill-luck  Km.  Iftti
+
+Kiilink'a.  kin>;  2 —    ;  kingdom  2,  228,  32*2
+
+Kiima-hiaveiiH.  the  six  Kit)
+
+Kanipilla,  a  city  230
+
+Kampiliaka.  a  kingdom  52
+
+Kapila,  a  prient  272  -
+
+Kappa- kumara  94,  95,  96
+
+—  -m.'inava  221
+
+Karandiya  113.  114
+
+Karandu,  a  kiu^  228
+
+Kashmir  222
+
+Kasi,  country  21,  21.  2»'.,  .30.  39,  r^3,  94,
+
+140,  170.  178.  IKJ,  189.  192.  193.  237,
+
+215,  278.  290,  311
+Kassapa.  the  elder  M,  279,  323
+Kassapa  25
+Kathasarits  244
+Katiyani  (kaccani)  250
+Kavitthaka  hermitage  277
+Kebuka  (a  river)  01
+Kesava  94,  95,  96
+Khema  HI.  200
+Khujjuttara  111
+Ki.-<avaccha  277
+Kokalika  OH,  75
+Kokanada  palace  105
+Korakalamba,  -baka  272 —
+Kosala,  kin^J;  of  9,  15,  29,  69,  76,  80,  89,
+
+103,  111.  140.  172,  241,245,  250,  205,
+
+280,  290,  310
+Kosala.  country  of  21,  191,  291
+Kosambi,  city  43,  139,  233,  289,  291
+Kunibhavati,  a  city  277
+Kondaka-kumara  26
+
+
+These  Jatakas  occur  in  the  present  volume.
+
+
+Inch
+
+
+X.
+
+
+327
+
+
+Earns,  kingdom  of  the  241
+
+Lambacfilaka,  a  town  277
+Licchavis,  tbe  1
+Lola  1
+Lomasa-kassapa  307 —
+
+Maddava,  a  king  207
+
+^[af,'adha  king,  the  150
+
+MaKa'lha  kingdom  184,  285
+
+Mahadaddara  11
+
+Malifidhana  2h2
+
+Mahfit^ovindasutta  quoted  280
+
+Mahfikassapa,  the  elder  47
+
+Mahamaya  291
+
+Mahfipajapatl  120
+
+Mahrij)atapa,  a  kinj,'  118,  Hi)
+
+Mahasammata,  a  king  272
+
+Mahfitundila  181
+
+Makhfuk-va  201
+
+MallikA,  a  queun  13,  U,  1.",,  '_".(,  •.'44—
+
+Manoja  200
+
+Manosila,  Mount  230
+
+Mara  1H<;,  294,  HIO
+
+Mayha  bird,  the  188
+
+Mejjharanna  VXA
+
+MejainAtfi,  a  K"at  317
+
+Mflulissara  277,  279
+
+^fi(^'^llopa  lf>4
+
+Mittavindaka  13<>
+
+Mitthila.  a  city  222,  23(t
+
+MoKK'allana  22.  37,  (^),  12(;.  127.  210.  279.
+
+285.  323
+Musika  143
+
+Naga  island  12  (
+
+NriK'a«,  tin-  11.  ".M,  17  J
+
+Na^'Kaji.  a  kinj,'  229
+
+Nftlajjiri,  an  tlfphaiit  C.",.  Hm,  219.  319
+
+Nandamfiia  cave  1".7,  190,229.  2.!m.  •_'|.",.
+
+259,  203.  2H1
+Nandirttua,  a  niiiiiHter  3 —
+Nandiya  172
+
+Nfirada.  a  niiniHter  95;  an  ascetic  277
+Natakiivera  f.l
+Natapiitta,  a  Jain  H4
+Neru.  Mount  l«i<),  295
+Nimi,  a  kinj?  230
+
+Pabbata  277
+
+Pacceka  buddhas  157,  18?,  HK),  22tt,  230.
+
+245,  259.  203,  270.  280
+Paficala  kint;dom,  north,  »ee  Uttara  P.
+Pannalakkbanadevi  200
+Parantapa  250 —
+Parileyyaka  forest  291
+Partridge,  the  learned  320
+Pasenadi.  a  king  13,  243
+Patacara  1
+Patala.  a  dancer  301
+Pavement,  house  of  the  j^olden  (Kutisam-
+
+thfiro)  12,  228.  239
+Pilindiyavaccha  221
+PiuRalfi  07
+Piut,'iya  105.  100.  1(»7
+
+
+Potali,  a  city  2
+Potthapada,  a  parrot  65,  66
+Pukkusa  208
+Putimaiisa,  a  jackal  317
+
+Rfidha,  a  parrot  65,  66
+
+Rahu  222,  284
+
+Rahula  43.  44,  111,  232
+
+Rahula's  mother  64,  180,  200,  232,  239,
+
+248.  271.  282,  311
+Raja^aha  22,  47,  48,  156,  184,  221,  2H5
+Red  Howers  round  a  condemned  criminal's
+
+head  40
+Recjuisites  of  a  priest,  the  eipht  229
+Rij,'ht,  the  dead,  offering  for  254
+Roruva,  a  city  280
+Roruva  hell  in7
+
+Sacca  1
+
+Saccaka  1
+
+Sagga,  a  minstnl  124
+
+Saketa  (Oude)  172,  173
+
+Sakka  3.  5,  26.  3C,.  37.  85.  86.  91,  97.  109,
+110.  140.  145.  161.  163,  166,  174,  177,
+1M9,  193.  235,  236,  247,  255,  292,  294,
+307
+
+Sakkadattiya  277
+
+H;ikya  tribe  205
+
+Salindiya,  a  village  IHJ
+
+S.ilis.sara  277.  279
+
+Sama  40,  42
+
+Sammilla-bhfiKini  <>3 —
+
+Sanniddavijaya,  a  ijuecn  280
+
+Sarabhaiiga  277 —
+
+Kfirij.utta  1.  2.  5,  13,  22.  23,  29,  32,  34,
+60,  96,  113.  114.  121.  126.  127.  156,
+174.  177.  210,  215,211.  26(»,  279,309,
+323
+
+Satodika,  a  river  277
+
+Sattuka,  a  robber  261
+
+Savatthi  1,  14.  20.  24,  29.  32,  31,  38,  45,
+49.  55,  76.  77.  7h,  92.  I(t3,  112,  120,
+IHO,  iHt;.  •1-lH,  241,  243.  244.  253.  276,
+291.  294,  29H.  309
+
+Sayha,  a  councillor  21,  22,  307
+
+H.-Iiaka  171.  170,  207  .  21  o
+
+Serpent.s'  breath  251
+
+K< nmia  islatxl  124
+
+Setakctu  151  -
+
+Siliapura.  a  city  275
+
+Sim  ball  lake,  the  <>0
+
+Sindh  asses  176  ;  horses  5
+
+Sint-ru,  xve  Neru
+
+Sirl  (daugliter  of  Dasarattba)  K..')
+
+Sirisayana,  origin  of  16H
+
+Sivi,  a  kingdom  279
+
+Six  priests,  the  heretical  18,  99
+
+Sixteen  unsatisfied  things,  the  210
+
+Sotthivati  (vatthi?),  a  city  272
+
+Sovira,  a  kingdom  280
+
+Spell  for  understanding  all  voices  175
+
+Strii)a  of  Bharhut  168,  225
+
+Subliakinna  heaven  220
+
+Sublime  gods,  the  2H9
+
+Suciparivara.  a  mpifliant  H".5.  lOO.  168,260
+
+
+328
+
+
+Iiulex.
+
+
+Suddhodana,  a  kin^'  21)1
+Siijii,  Hujatfi  '.)7,  17fi,  '2'X2,  2'J3
+Sujiitakiiiiiruii  lO.'l,  101
+Sujiita,  a  (lueeii  11,  1')
+SulaHii  201—
+
+SumaiiKala,  a  park-keeper  203 —
+Suinedha  15'J
+SuniHumrira->,'iri  105
+Supatta,  the  vulture-kin^'  2H7
+Siirailaddaia  11
+Surattlia  country  277
+Siisima-kunirira  237
+SusBondf  124
+Sutana  201 —
+
+Tii^'araHikhi  1H7
+
+Takkiisilfi  21,  20,  43,  52,  G2.  70,  71),  Hi,
+y-l,  UH,  1)1),  105,  100,  111.  113.  12S,
+145,  151,  151,  101,  1112.  210,  210,
+229,  237,  211,  213,  21f.,  210,  257,
+277,  205
+
+Taniba,  a  kiii^'  121
+
+Thri'f  pr(»iu'rtics,  tlio  220
+
+Tibetan  Talcs  17,  40,  01,  02,  HO,  00,  12i».
+120,  Ml.  205,  210,  21H,  2H2,  2H5
+
+Trce-spiritrt  15,  22,  205,  213,  201,  310
+
+Tutelary  gods  of  kings  4,  5
+
+Udaya,  a  king  207 —
+Udena,  a  king  105,  233
+
+
+Upananda  205,  207
+
+Uppalavanna  2,  HI,  lOH,   193,  200.   232,
+
+244
+UsHada  hell  130
+U tiara- pa ficiUa  52,  230,  275
+
+Vauka,  a  king  112
+
+Vasittha  242
+
+Vayu,  the  son  of  31 1
+
+Vehapphala  heaven  220
+
+Veranihha,  -ba,  wind  104.  2H7,  28H
+
+Verafija,  a  city  204
+
+Vesiili  1
+
+VesHavana,  one  of  the  Four  KiuKs   165,
+
+lOO;  201,  208
+Vidcha.  king  222
+Vid*ha.  kingdom  222,  230
+Vi<lhura-panilita  241,  242
+Vinilha,  one  of  the  Four  Kings  105,  100
+Virupakkha,  one  of  tiie  Four  Kings  105
+Visakha  7h,  300
+Visayha  85 —
+Vulture  Mountain,  the  287, 310,  tee  Uijjha-
+
+pabbata
+
+Yakkhas  Of,,  y7,   KH;.   132,  201—     .  20H,
+
+304
+Yaina,  the  god  281
+Yava,  prince  142
+Yudhitthila,  a  king  241
+
+
+(j>S^^'>f
+
+
+cambbiooe:   printed  bt  j.  &  c.  f.  clat,  at  the  onivebsitt  press.
+
+
+^<5fOJIlV3J
+OFCAIIFOR
+
+
+.iilLUNlVtRi///
+
+University  of  California
+
+SOUTHERN  REGIONAL  LIBRARY  FACILITY
+
+305  De  Neve  Drive  -  Parking  Lot  17   •   Box  951388
+
+LOS  ANGELES.  CALIFORNIA  90095-1388
+
+Return  this  material  to  the  library  from  which  It  was  borrowed.
+
+
+dOSANCElfj:
+
+
+JAU  2  8  r:c'o
+
+SUE  2  WKS  FROM  DATE  P.dCEIVED
+
+
+clOSANCF^T
+
+
+'saiAiNa-3VN
+
+
+vmmo/
+
+
+^OJIIVDJO'^
+iFCAllFOBUj
+
+
+UCLA  ACCESS
+
+IntefUbrary  Loar
+1 1 630  Untvorfilcy
+Box  951575
+
+
+SERVICES  BUy
+
+Jusearch  Library
+
+
+ex
+
+
+•AVCflff>
+
+
+IIFOJ?^
+
+
+5=  =?,
+
+
+?Aavjjaiv#       <rji30Nvsoi'^     "^/iaaAiNn-iwv^     "^(^Aavaani^    '^(^Aavaan-^
+
+
+J15      ^§
+
+
+:lOSANCFlCr>
+
+
+^wmiOA.     <^\mmoA.      j^funivers/a     ^iosaslucjv.
+
+
+&
+
+
+wl/nim/^.ift'
+
+
+VCnvuiw rm«a^  -r/<*... , ...»  ■,,»v->
+
+
+^‹yojiiv3jo›'
+
+^OFCAIIFOMij^
+
+
+e-»  SS
+
+^(wian^^       <J^33Nvsoi^     ■^/^ajAiNn-avvv^
+
+
+'%ja3AiNn3W^>
+
+CO
+
+so
+
+
+rr«        13       III  <-T^
+
+
+L  005  963  402  2
+
+
+UC  SOUTHERN  REGIONAL  LIBRARY  FACIU"
+
+
+AA    000  904  573    3
+
+
+I    I
+
+O        u-
+IP       C?
+
+
+<^
+
+
+AWEI)NIVER%       ^lOSANCElf;
+
+
+'JilJJNVMJl'-
+
+
+-!^t•lIBRARYa^.
+
+
+A-;
+
+
+^OFCAllFi
+I'
+
+
+\
+
+
+IP
+
+
+<^^
+
+
+"'JOJAIMl  Jl^^
+
+
+"at
+
+
+■^/SJUAINn-JWV
+
+
+^IUBRARYOa,
+
+
+^A
+
+
+0
+
+
+^MEUNIVERSy/i
+
+
+5f-
+
+
+9    ^
+
+
+hoMTOi^^      ^smmm"^
+
+
+B
+
+
+^•lOSANCEier^
+
+— .  ,    ,,   U oo
+
+
+-^t-UBRAluc/,.
+
+
+^     ^^HIBRAi
+
+
+^(^OJITVDJO^      ^iifOinVDJO'
+

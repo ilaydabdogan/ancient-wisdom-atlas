@@ -1,488 +1,3 @@
-# Korean Folk Tales - Imps, Ghosts and Fairies
-
-Presented  to  the
-library  of  the
-
-UNIVERSITY  OF  TORONTO
-
-by
-
-
-George  J.M.  Gale
-
-
-KOREAN  IMPS
-GHOSTS  AND  FAIRIES
-
-
-KOREAN  FOLK  TALES
-
-
-IMPS,  GHOSTS  AND  FAIRIES
-
-TRANSLATED  FROM  THE  KOREAN
-OF  IM  BANG  AND  YI  RYUK
-BY  JAMES  S.  GALE
-
-
-London  ：  J.  M,  DENT  &  SONS，  Ltd.
-New  York  :  E,  P.  BUTTON  &  CO.  19 13
-
-
-All  rights  reserved
-
-
-TO
-
-MY  LITTLE  SON
-
-GEORGE  JAMES  MORLEY
-
-THE  DAYS  OF  WHOSE  YEARS
-ARE
-
-TWO  EASTERN  SPRINGS  AND  AUTUMNS
-
-
-PREFACE
-
-
-To  any  one  who  would  like  to  look  somewhat  into
-the  inner  soul  of  the  Oriental,  and  see  the  peculiar
-spiritual  existences  among  which  he  lives,  the
-following  stories  will  serve  as  true  interpreters,  born
-as  they  are  of  the  three  great  religions  of  the  Far
-East,  Taoism,  Buddhism  and  Confucianism.
-
-An  old  manuscript  copy  of  Im  Bang's  stories
-came  into  the  hands  of  the  translator  a  year  ago,
-and  he  gives  them  now  to  the  Western  world  that
-they  may  serve  as  introductory  essays  to  the
-mysteries,  and,  what  many  call,  absurdities  of
-Asia.  Very  gruesome  indeed,  and  unlovely,  some
-of  them  are,  but  they  picture  faithfully  the  condi-
-tions under  which  Im  Bang  himself,  and  many  past
-generations  of  Koreans,  have  lived.
-
-The  thirteen  short  stories  by  Yi  Ryuk  are  taken
-from  a  reprint  of  old  Korean  writings  issued  last
-year  (1911),  by  a  Japanese  publishing  company.
-Three  anonymous  stories  are  also  added,  "The  Geo-
-mancer,"  to  show  how  Mother  Earth  has  given
-anxiety   to   her  chicks   of   children  ；   "  Im,  the
-
-vii
-
-
-viii
-
-
-PREFACE
-
-
-Hunter,"  to  tell  of  the  actualities  that  exist  in  the
-upper  air;  and  "The  Man  who  lost  his  Legs,"  as  a
-sample  of  Korea's  Sinbad.
-
-The  biographical  notes  that  accompany  the
-stories  are  taken  very  largely  from  the  Kuk-cho
-Ifp-mul-chif  "  Korea's  Record  of  Famous  Men."
-
-J.  S.  Gale.
-
-
-CONTENTS
-
-I
-
-CHARAN
-
-FAGB
-
-II
-
-THE
-
-STORY  OF  CHANG  TO-RYONG          .  .
-
-18
-
-III
-
-A  STORY  OF  THE  FOX  ,
-
-26
-
-IV
-
-CHEUNG  PUK-CHANG,  THE  SEER  .         .  .
-
-2Q
-
-v
-
-YUN
-
-SE-PYONG,  THE  WIZARD        .  .
-
-^6
-0^
-
-VI
-
-THE
-
-WILD-CAT  WOMAN  .
-
-VII
-
-THE
-
-ILL-FATED  PRIEST        .  •         t         ,  ,
-
-A  A
-
-VIII
-
-THE
-
-VISION  OF  THE  HOLY  MAN   .         .  ,
-
-47
-
-IX
-
-THE
-
-VISIT  OF  THE  MAN  OF  GOD.         .  ,
-
-J
-
-X
-
-THE
-
-LITERARY  MAN  OF  IMSIL      .         .  .
-
-XI
-
-THE
-
-SOLDIER  OF  KANG-WHA         ,         .  .
-
-c8
-
-XH
-
-CURSED  BY  THE  SNAKE  .
-
-60
-
-XIII
-
-THE
-
-MAN  ON  THE  ROAD  .
-
-6-1
-
-XIV
-
-THE
-
-OLD  MAN  WHO  BECAME  A  FISH   .  .
-
-66
-
-XV
-
-THE
-
-GEOMANCER
-
-씨
-
-XVI
-
-THE
-
-MAN  WHO  BECAME  A  PIG     .         .  .
-
-/  v>
-
-XVII
-
-THE
-
-OLD  WOMAN  WHO  BECAME  A  GOBLIN  .
-
-78
-
-XVIII
-
-THE
-
-GRATEFUL  GHOST  .
-
-80
-
-XIX
-
-THE
-
-PLUCKY  MAIDEN
-
-83
-
-XX
-
-THE
-
-RESOURCEFUL  WIFE  .
-
-90
-
-XXI
-
-THE
-
-BOXED-UP  GOVERNOR  .
-
-92
-
-XKII
-
-THE
-
-MAN  WHO  LOST  HIS  LEGS     .         ,  .
-
-100
-
-XXIII
-
-TEN
-
-THOUSAND  DEVILS  .
-
-104
-
-XXIV
-
-THE
-
-HOME  OF  THE  FAIRIES          .         .  .
-
-in
-
-XXV
-
-THE
-
-HONEST  WITCH
-
-125
-
-ix
-
-X
-
-
-CONTENTS
-
-
-PAGE
-
-XXVI
-
-WHOM  THE  KING  HONOURS         .  .
-
-•  13°
-
-XXVII
-
-THE  FORTUNES  OF  YOO      ，         .  .
-
-•  133
-
-XXVIII
-
-AN  ENCOUNTER  WITH  A  HOBGOBLIN  .
-
-•  141
-
-XXIX
-
-THE  SNAKE'S  REVENGE       •         .  .
-
-.  146
-
-XXX
-
-THE  BRAVE  MAGISTRATE     .         .  .
-
-•  150
-
-XXXI
-
-THE  TEMPLE  TO  THE  GOD  OF  WAR  .
-
-•  iSS
-
-XXXII
-
-A  VISIT  FROM  THE  SHADES         ,  .
-
-•  157
-
-XXXIII
-
-THE  FEARLESS  CAPTAIN      ,          .  .
-
-.  162
-
-XXXIV
-
-THE  KING  OF  YOM-NA  (HELL)    .  .
-
--  i65
-
-XXXV
-
-hong's  EXPERIENCES  IN  HADES  ,
-
-.  171
-
-XXXVI
-
-HAUNTED  HOUSES      .          .          ,  .
-
-•  177
-
-XXXVII
-
-1M，  THE  HUNTER  .
-
-.  182
-
-XXVIII
-
-THE  MAGIC  INVASION  OF  SEOUL  .
-
-.  188
-
-XXXIX
-
-THE  AWFUL  LITTLE  GOBLIN        .  .
-
-•  191
-
-XL
-
-god's  WAY         .     '   .        ,        .  .
-
-•  194
-
-XLI
-
-THE  OLD  MAN  IN  THE  DREAM  .  .
-
--.,  ig6
-
-XLII
-
-THE  PERFECT  PRIEST           ,          .  .
-
-.  198
-
-XLIII
-
-THE  PROPITIOUS  MAGPIE    .  .
-
-.  200
-
-XLIV
-
-THE  4  OLD  BUDDHA  ，  .         .         ,  .
-
-.  202
-
-XLV
-
-A  WONDERFUL  MEDICINE  .          •  .
-
-•  204
-
-XLVI
-
-FAITHFUL  MO
-
-•  205
-
-XLVII
-
-THE  RENOWNED  MAING      .          ,  .
-
-.  208
-
-XLVIII
-
-THE  SENSES        .         •         .          .       -  .
-
-.  210
-
-XLIX
-
-WHO  DECIDES,  GOD  OR  THE  KING  ？  .
-
-.  211
-
-L
-
-THREE  THINGS  MASTERED           ，  ,
-
-•  213
-
-LI
-
-STRANGELY  STRICKEN  DEAD        .  •
-
-•  215
-
-LII
-
-THE  MYSTERIOUS  HOI  TREE        .  .
-
-,  217
-
-LIII
-
-TA-HONG   .         .         .          ...  .
-
-♦  2tg
-
-BIOGRAPHICAL
-
-
-Im  Bang  was  born  in  1640，  the  son  of  a  provincial  governor.
-He  was  very  bright  as  a  boy  and  from  earliest  years  fond  of
-study,  becoming  a  great  scholar.  He  matriculated  first  in  his
-class  in  1660,  and  graduated  in  1663.  He  was  a  disciple  of
-Song  Si-yol,  one  of  Korea's  first  writers.  In  1719,  when  he  was
-in  his  eightieth  year,  he  became  governor  of  Seoul,  and  held
-as  well  the  office  of  secretary  of  the  Cabinet.  In  the  year  1721
-he  got  into  difficulties  over  the  choice  of  the  Heir  Apparent,  and
-in  1722,  on  account  of  a  part  he  played  in  a  disturbance  in  the
-government,  he  was  exiled  to  North  Korea,  where  he  died.
-
-(From  Kuk-cho  In-mul-dd,  "  Korea's  Record  of  Famous
-Men.")
-
-Yi  Ryuk  lived  in  the  reign  of  King  Se-jo,  matriculated  in  /fVf
-1459,  and  graduated  first  in  his  class  in  1564.    He  was  a  man
-of  many  offices  and  many  distinctions  in  the  way  of  literary
-excellence.
-
-"  Korea's  Record  of  Famous  Men."
 
 
 xi
@@ -497,8 +12,7 @@ i
 
 CHARAN
 
-[Some  think  that  love,  strong,  true,  and  self-
-sacrificing,  is  not  to  be  found  in  the  Orient  ；  but  the
+[Some  think  that  love,  strong,  true,  and  selfsacrificing,  is  not  to  be  found  in  the  Orient  ；  but  the
 story  of  Charan,  which  comes  down  four  hundred
 years  and  more,  proves  the  contrary,  for  it  still  has
 the  fresh,  sweet  flavour  of  a  romance  of  yesterday  ；
@@ -515,8 +29,6 @@ are  good  musicians,  and  show  ability  in  the  affairs
 of  State.
 
 
-2    KOREAN  IMPS,  GHOSTS  AND  FAIRIES
-
 At  the  time  of  this  story  there  was  a  famous
 dancing-girl  in  Pyong-an  whose  name  was
 Charan.  She  was  very  beautiful,  and  sang  and
@@ -530,18 +42,15 @@ The  Governor's  family  consisted  of  a  son,  whose
 age  was  sixteen,  and  whose  face  was  comely  as  a
 picture.  Though  so  young,  he  was  thoroughly
 grounded  in  Chinese,  and  was  a  gifted  scholar.  His
-judgment  was  excellent,  and  he  had  a  fine  apprecia-
-tion of  literary  form,  so  that  the  moment  he  lifted
-his  pen  the  written  line  took  on  admirable  expres-
-sion. His  name  became  known  as  Keydong  (The
+judgment  was  excellent,  and  he  had  a  fine  appreciation of  literary  form,  so  that  the  moment  he  lifted
+his  pen  the  written  line  took  on  admirable  expression. His  name  became  known  as  Keydong  (The
 Gifted  Lad).  The  Governor  had  no  other  children,
 neither  son  nor  daughter,  so  his  heart  was  wrapped
 up  in  this  boy.  On  his  birthday  he  had  all  the
 officials  invited  and  other  special  guests,  who  came
 to  drink  his  health.  There  were  present  also  a
 company  of  dancing-girls  and  a  large  band  of
-musicians.  The  Governor,  during  a  lull  in  the  ban-
-quet, called  his  son  to  him,  and  ordered  the  chief  of
+musicians.  The  Governor,  during  a  lull  in  the  banquet, called  his  son  to  him,  and  ordered  the  chief  of
 the  dancing-girls  to  choose  one  of  the  prettiest  of
 their  number,  that  he  and  she  might  dance  together
 and  delight  the  assembled  guests.  On  hearing  this,
@@ -549,9 +58,6 @@ the  company,  with  one  accord,  called  for  Charan,
 
 
 CHARAN
-
-
-3
 
 
 as  the  one  suited  by  her  talents,  attainments  and
@@ -584,9 +90,6 @@ said,  "Even  parents  cannot  decide  as  to  the  love
 of  their  son  for  a  maiden.  What  ought  we  to  do?
 You  love  Charan  so  that  it  will  be  very  hard  for
 you  to  part,  and  yet  to  have  a  dancing-girl  before
-
-
-4    KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 you  are  married  is  not  good  form,  and  will  interfere
@@ -625,9 +128,6 @@ son  to  go  with  some  of  his  friends  to  a  neighbour-
 CHARAN
 
 
-5
-
-
 ing  monastery  to  study  and  prepare.  They  went,
 and  one  night,  after  the  day's  work  was  over  and
 all  were  asleep,  the  young  man  stole  out  into  the
@@ -638,11 +138,9 @@ could  be  heard.  The  young  man  looked  up  at  the
 moon  and  his  thoughts  were  full  of  sorrow.  He
 so  wished  to  see  Charan  that  he  could  no  longer
 control  himself,  and  fearing  that  he  would  lose  his
-reason,  he  decided  that  very  night  to  set  out  for  far-
-distant  Pyong-an.  He  had  on  a  fur  head-dress,
+reason,  he  decided  that  very  night  to  set  out  for  fardistant  Pyong-an.  He  had  on  a  fur  head-dress,
 a  thick  coat,  a  leather  belt  and  a  heavy  pair  of
-shoes.  When  he  had  gone  less  than  ten  lee,  how-
-ever, his  feet  were  blistered,  and  he  had  to  go  into
+shoes.  When  he  had  gone  less  than  ten  lee,  however, his  feet  were  blistered,  and  he  had  to  go  into
 a  neighbouring  village  and  change  his  leather  shoes
 for  straw  sandals,  and  his  expensive  head-cover  for
 an  ordinary  servant's  hat.  He  went  thus  on  his
@@ -679,24 +177,18 @@ and  she  has  been  away  for  two  or  three  months.
 Even  though  you  have  made  this  long  journey
 there  is  no  possible  way  to  meet  her,"
 
-She  did  not  invite  him  in,  so  cold  was  her  wel-
-come. He  thought  to  himself,  "  I  came  to  see
+She  did  not  invite  him  in,  so  cold  was  her  welcome. He  thought  to  himself,  "  I  came  to  see
 Charan,  but  she  is  not  here.  Her  mother  refuses
 me;  I  cannot  go  back,  and  I  cannot  stay.  What
 shall  I  do?"  While  thus  in  this  dilemma  a  plan
-occurred  to  him.  There  was  a  scribe  in  Pyong-
-an，  who,  during  his  father's  term  of  office,  had
+occurred  to  him.  There  was  a  scribe  in  Pyongan，  who,  during  his  father's  term  of  office,  had
 offended,  and  was  sentenced  to  death.  There  were
 extenuating  circumstances,  however,  and  he,  when
-he  went  to  pay  his  morning  salutations,  had  be-
-sought and  secured  his  pardon.  His  father,  out  of
+he  went  to  pay  his  morning  salutations,  had  besought and  secured  his  pardon.  His  father,  out  of
 regard  for  his  son's  petition,  had  forgiven  the
 
 
 CHARAN
-
-
-7
 
 
 scribe.  He  thought,  "I  was  the  means  of  saving
@@ -717,8 +209,7 @@ I  think  I  can  manage  it.    Will  you  consent  ？  ，,
 
 He  asked  as  to  the  plan.  It  was  this :  It  being
 now  a  time  of  snow,  daily  coolies  were  called  to
-sweep  it  away  from  the  inner  court  of  the  Gover-
-nor's yamen,  and  just  now  the  scribe  was  in  charge
+sweep  it  away  from  the  inner  court  of  the  Governor's yamen,  and  just  now  the  scribe  was  in  charge
 of  this  particular  work.  Said  he,  "  If  you  will  join
 the  sweepers,  take  a  broom  and  go  in  ；  you  will  no
 doubt  catch  a  glimpse  of  Charan  as  she  is  said  to
@@ -730,9 +221,6 @@ his  broom  into  the  inner  enclosure,  where  the  Hill
 Kiosk  was,  and  so  they  worked  at  sweeping.  Just
 then  the  Governor's  son  was  sitting  by  the  open
 window  and  Charan  was  by  him,  but  not  visible
-
-
-8    KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 from  the  outside.  The  other  workers,  being  all
@@ -769,9 +257,6 @@ official  quarters,  and  offer  a  sacrifice  to  his  spirit,
 CHARAN
 
 
-9
-
-
 but  here  I  am  imprisoned  and  to-morrow  is  the
 sacrificial  day.  I  fear  that  not  a  single  act  of
 devotion  will  be  paid,  I  am  disturbed  over  it,  and
@@ -804,9 +289,6 @@ never  forget  and  can  never  give  him  up.  The
 Governor,  too,  called  me  the  beloved  wife  of  his
 
 
-10  KOREAN  IMPS,  GHOSTS  AND  FAIRIES
-
-
 son,  and  did  not  once  refer  to  my  low  station.  He
 cherished  me  and  gave  me  many  gifts.  'Twas  all
 like  heaven  and  not  like  earth.  To  the  city  of
@@ -819,15 +301,12 @@ even  unto  death  as  I  should  have,  because  I  have
 been  under  the  power  and  influence  of  the
 Governor.  How  could  he  ever  have  come  so  far
 for  one  so  low  and  vile  ？  He,  a  gentleman  of  the
-highest  birth,  for  the  sake  of  a  wretched  dancing-
-girl  has  endured  all  this  hardship  and  come  so  far.
+highest  birth,  for  the  sake  of  a  wretched  dancinggirl  has  endured  all  this  hardship  and  come  so  far.
 Could  you  not  have  thought,  mother,  of  these
-things  and  given  him  at  least  some  kindly  wel-
-come ？  Could  my  heart  be  other  than  broken  ？  ，，
+things  and  given  him  at  least  some  kindly  welcome ？  Could  my  heart  be  other  than  broken  ？  ，，
 And  a  great  flow  of  tears  came  from  Charan's  eyes.
 She  thought  and  thought  as  to  where  he  could
-possibly  be.  "I  know  of  no  place,"  said  she,  u un-
-less it  be  at  such  and  such  a  scribe's  home."  Quick
+possibly  be.  "I  know  of  no  place,"  said  she,  u unless it  be  at  such  and  such  a  scribe's  home."  Quick
 as  thought  she  flew  thence,  and  there  they  met.
 They  clasped  each  other  and  cried,  not  a  word  was
 spoken.  Thus  came  they  back  to  Charan's  home
@@ -840,23 +319,17 @@ agreed  to  make  their  escape  that  night.    So  Charan
 CHARAN
 
 
-11
-
-
 got  together  her  clothing,  and  her  treasures  and
-jewels,  and  made  two  bundles,  and  thus,  he  carry-
-ing his  on  his  back  and  she  hers  on  her  head,
+jewels,  and  made  two  bundles,  and  thus,  he  carrying his  on  his  back  and  she  hers  on  her  head,
 away  they  went  while  the  city  slept.  They  followed
 the  road  that  leads  toward  the  mountains  that  lie
 between  Yang-tok  and  Maing-san  counties.  There
 they  found  a  country  house,  where  they  put  up,  and
 where  the  Governor's  son  became  a  sort  of  better—
-class  servant.  He  did  not  know  how  to  do  any-
-thing well,  but  Gharan  understood  weaving  and
+class  servant.  He  did  not  know  how  to  do  anything well,  but  Gharan  understood  weaving  and
 sewing,  and  so  they  lived.  After  some  time  they
 got  a  little  thatched  hut  by  themselves  in  the  village
-and  lived  there.  Charan  was  a  beautiful  sewing-
-woman,  and  ceased  not  day  and  night  to  ply  her
+and  lived  there.  Charan  was  a  beautiful  sewingwoman,  and  ceased  not  day  and  night  to  ply  her
 needle,  and  sold  her  treasures  and  her  jewels  to
 make  ends  meet.  Charan,  too,  knew  how  to  make
 friends,  and  was  praised  and  loved  by  all  the
@@ -865,16 +338,12 @@ that  had  befallen  this  mysterious  young  couple,  and
 helped  them  so  that  the  days  passed  peacefully  and
 happily  together.
 
-To  return  in  the  story :  On  awaking  in  the  morn-
-ing in  the  temple  where  he  and  his  friends  had
+To  return  in  the  story :  On  awaking  in  the  morning in  the  temple  where  he  and  his  friends  had
 gone  to  study,  they  found  Keydong  missing.  All
 was  in  a  state  of  confusion  as  to  what  had  become
 of  the  son  of  the  Chief  Justice.  They  hunted  for
 him  far  and  wide,  but  he  was  nowhere  to  be  found,
 so  word  was  sent  to  the  parents  accordingly.  There
-
-
-12    KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 was  untold  consternation  in  the  home  of  the  former
@@ -913,9 +382,6 @@ new  start  for  the  future.    By  means  of  it,  you  can
 CHARAN
 
 
-13
-
-
 serve  your  parents  and  look  the  world  in  the  face.
 Will  you  consent  ？  ，,
 
@@ -941,15 +407,11 @@ Charan,  however,  secured  it  first  and  showed  it  to
 Keydong.  It  was  none  other  than  a  special  work
 for  Examinations,  with  all  the  exercises  written  out.
 It  was  written  in  small  characters,  and  was  a  huge
-book  containing  several  thousand  exercises,  Key-
-dong was  delighted,  and  said,  "This  is  enough  for
+book  containing  several  thousand  exercises,  Keydong was  delighted,  and  said,  "This  is  enough  for
 all  needed  preparation."  She  bought  it  and  gave
 it  to  him,  and  there  he  pegged  away  day  after  day.
 In  the  night  he  studied  by  candle-light,  while  she
 sat  by  his  side  and  did  silk-spinning.    Thus  they
-
-
-14    KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 shared  the  light  together.  If  he  showed  any
@@ -988,9 +450,6 @@ Justice  and  not  Prime  Minister;  what  can  that
 CHARAN
 
 
-15
-
-
 mean  ？  ，，  He  handed  the  composition  paper  to  the
 father,  and  asked  him  to  look  and  see.  The
 Minister  gazed  at  it  in  wonder,  burst  into  tears,  and
@@ -1022,13 +481,9 @@ had  been  for  these  three  years.  He  bowed  low,
 and  said,  "I  have  been  a  very  wicked  man,  have
 
 
-16  KOREAN  IMPS,  GHOSTS  AND  FAIRIES
-
-
 left  my  parents,  have  broken  all  the  laws  of  filial
 devotion,  and  deserve  condign  punishment."  The
-King  replied,  saying,  "There  is  no  law  of  conceal-
-ment before  the  King.  I  shall  not  condemn  you
+King  replied,  saying,  "There  is  no  law  of  concealment before  the  King.  I  shall  not  condemn  you
 even  though  you  are  guilty  ；  tell  me  all."  Then  he
 told  his  story  to  the  King.  All  the  officials  on
 each  side  bent  their  ears  to  hear.  The  King  sighed,
@@ -1059,9 +514,6 @@ servants  to  bring  up  Charan.    In  a  great  festival
 CHARAN
 
 
-17
-
-
 of  joy  she  was  proclaimed  the  wife  of  the  Minister's
 son.  Later  he  became  one  of  Korea's  first  men  of
 State,  and  they  lived  their  happy  life  to  a  good  old
@@ -1079,8 +531,7 @@ THE  STORY  OF  CHANG  TO-RYONG
 [Taoism  has  been  one  of  the  great  religions  of
 Korea.  Its  main  thought  is  expressed  in  the
 phrase  su-sim  yon-song,  "to  correct  the  mind  and
-reform  the  nature  n  ；  while  Buddhism's  is  myong-
-sim  kyon^songy  "to  enlighten  the  heart  and  see  the
+reform  the  nature  n  ；  while  Buddhism's  is  myongsim  kyon^songy  "to  enlighten  the  heart  and  see  the
 soul."
 
 The  desire  of  all  Taoists  is  "eternal  life,"
@@ -1103,8 +554,6 @@ forty  years  of  age  or  so,  but  still  wore  his  hair
 
 down  his  back  like  an  unmarried  boy.    He  carried
 
-18
-
 
 THE  STORY  OF  CHANG  TO-RYONG  19
 
@@ -1113,8 +562,7 @@ a  bag  over  his  shoulder,  and  went  about  the  streets
 begging.    During  the  day  he  went  from  one  part
 of  the  city  to  the  other,  visiting  each  section,  and
 when  night  came  on  he  would  huddle  up  beside
-some  one's  gate  and  go  to  sleep.    He  was  fre-
-quently seen  in  Chong-no  (Bell  Street)  in  company
+some  one's  gate  and  go  to  sleep.    He  was  frequently seen  in  Chong-no  (Bell  Street)  in  company
 with  the  servants  and  underlings  of  the  rich.
 They  were  great  friends,  he  and  they,  joking  and
 bantering  as  they  met.    He  used  to  say  that  his
@@ -1123,8 +571,7 @@ To-ryong,  To-ryong  meaning  an  unmarried  boy,
 son  of  the  gentry.    At  that  time  the  magician  Chon
 U-chi,  who  was  far-famed  for  his   pride  and
 arrogance,  whenever  he  met  Chang,  in  passing
-along  the  street,  would  dismount  and  prostrate  him-
-self most  humbly.    Not  only  did  he  bow,  but  he
+along  the  street,  would  dismount  and  prostrate  himself most  humbly.    Not  only  did  he  bow,  but  he
 seemed  to  regard  Chang  with  the  greatest  of  fear,
 so  that  he  dared  not  look  him  in  the  face.  Chang,
 sometimes,  without  even  inclining  his  head,  would
@@ -1135,12 +582,8 @@ well,"    He  had  fear  written  on  all  his  features
 when  he  faced  Chang.
 
 Sometimes,  too,  when  Chon  would  bow,  Chang
-would  refuse  to  notice  him  at  all,  and  go  by  with-
-out a  word.  Those  who  saw  it  were  astonished,
+would  refuse  to  notice  him  at  all,  and  go  by  without a  word.  Those  who  saw  it  were  astonished,
 and  asked  Chon  the  reason.    Chon  said  in  reply,
-
-
-20    KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 "There  are  only  three  spirit-men  at  present  in
@@ -1151,13 +594,11 @@ it,  but  I  do.  Such  being  the  case,  should  I  not
 bow  before  him  and  show  him  reverence  ？  "
 
 Those  who  heard  this  explanation,  knowing  that
-Chon  himself  was  a  strange  being,  paid  no  atten-
-tion to  it.
+Chon  himself  was  a  strange  being,  paid  no  attention to  it.
 
 At  that  time  in  Seoul  there  was  a  certain  literary
 undergraduate  in  office  whose  house  joined  hard
-on  the  street.  This  man  used  to  see  Chang  fre-
-quently going  about  begging,  and  one  day  he
+on  the  street.  This  man  used  to  see  Chang  frequently going  about  begging,  and  one  day  he
 called  him  and  asked  who  he  was,  and  why  he
 begged.  Chang  made  answer,  "I  was  originally
 of  a  cultured  family  of  Chulla  Province,  but  my
@@ -1181,10 +622,8 @@ THE  STORY  OF  CHANG  TO-RYONG  21
 
 On  a  certain  day  when  the  master  was  on  his
 way  to  office,  he  saw  a  dead  body  being  carried
-on  a  stretcher  off  toward  the  Water  Gate.  Look-
-ing at  it  closely  from  the  horse  on  which  he  rode,
-he  recognized  it  as  the  corpse  of  Chang  To-
-ryong.  He  felt  so  sad  that  he  turned  back  to  his
+on  a  stretcher  off  toward  the  Water  Gate.  Looking at  it  closely  from  the  horse  on  which  he  rode,
+he  recognized  it  as  the  corpse  of  Chang  Toryong.  He  felt  so  sad  that  he  turned  back  to  his
 house  and  cried  over  it,  saying,  "  There  are  lots  of
 miserable  people  on  earth,  but  who  ever  saw  one
 as  miserable  as  poor  Chang  ？  As  I  reckon  the
@@ -1208,9 +647,6 @@ gone  some  miles  he  discovered  himself  to  be  in
 another  world  entirely,  no  longer  a  world  of  earth
 and  dust.  He  saw  some  one  coming  toward  him
 dressed  in  ethereal  green,  mounted  and  carrying  a
-
-
-22    KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 shade,  with  servants  accompanying.  He  seemed
@@ -1258,8 +694,7 @@ riding  out  to  meet  him,  but  he  could  not  tell  who
 he  was.  "I  see  you,"  said  he,  "but  as  to  who  you
 are  I  cannot  tell."
 
-The  kingly  host  then  said,  "I  am  Chang  To-
-ryong.  Do  you  not  know  me  ？  ，，  Then  as  the
+The  kingly  host  then  said,  "I  am  Chang  Toryong.  Do  you  not  know  me  ？  ，，  Then  as  the
 master  looked  more  closely  at  him  he  could  see
 the  same  features.  The  outlines  of  the  face  were
 there,  but  all  the  imperfections  had  gone,  and  only
@@ -1279,9 +714,6 @@ genii  reside.  This  hill  is  one.  In  days  gone  by,
 for  a  fault  of  mine,  I  was  exiled  to  earth,  and  in
 
 
-24    KOREAN  IMPS,  GHOSTS  AND  FAIRIES
-
-
 the  time  of  my  exile  you  treated  me  with  marked
 kindness,  a  favour  that  I  have  never  forgotten.
 When  you  saw  my  dead  body  your  pity  went  out
@@ -1289,8 +721,7 @@ to  me  ；  this,  too,  I  remember.  I  was  not  dead  then,
 it  was  simply  that  my  days  of  exile  were  ended
 and  I  was  returning  home.  I  knew  that  you  were
 passing  this  hill,  and  I  desired  to  meet  you  and
-to  thank  you  for  all  your  kindness.  Your  treat-
-ment of  me  in  another  world  is  sufficient  to  bring
+to  thank  you  for  all  your  kindness.  Your  treatment of  me  in  another  world  is  sufficient  to  bring
 about  our  meeting  in  this  one."  And  so  they  met
 and  feasted  in  joy  and  great  delight.
 
@@ -1335,8 +766,7 @@ was  here  on  earth  and  I  saw  him  for  fifteen  years,"
 said  the  master,  "I  remember  but  one  peculiarity
 about  him,  namely,  that  his  face  never  grew  older
 nor  did  his  dirty  clothing  ever  wear  out.  He  never
-changed  his  garb,  and  yet  it  never  varied  in  appear-
-ance in  all  the  fifteen  years.  This  alone  would
+changed  his  garb,  and  yet  it  never  varied  in  appearance in  all  the  fifteen  years.  This  alone  would
 have  marked  him  as  a  strange  being,  but  our  fleshly
 eyes  did  not  recognize  it."
 
@@ -1348,8 +778,7 @@ Ill
 
 A  STORY  OF  THE  FOX
 
-[The  Fox. ― Orientals  say  that  among  the  long-
-lived  creatures  are  the  tortoise,  the  deer,  the  crane
+[The  Fox. ― Orientals  say  that  among  the  longlived  creatures  are  the  tortoise,  the  deer,  the  crane
 and  the  fox,  and  that  these  long-lived  ones  attain
 to  special  states  of  spiritual  refinement.  If  trees
 exist  through  long  ages  they  become  coal  ；  if  pine
@@ -1363,16 +792,13 @@ Yi  Kwai  was  the  son  of  a  minister.  He  passed
 his  examinations  and  held  high  office.  When
 his  father  was  Governor  of  Pyong-an  Province,
 Kwai  was  a  little  boy  and  accompanied  him.  The
-Governor's  first  wife  being  dead,  Kwai's  step-
-mother was  the  mistress  of  the  home.  Once  when
+Governor's  first  wife  being  dead,  Kwai's  stepmother was  the  mistress  of  the  home.  Once  when
 His  Excellency  had  gone  out  on  an  inspecting
 tour,  the  yameti  was  left  vacant,  and  Kwai  was
 there  with  her.  In  the  rear  garden  of  the  official
 quarters  was  a  pavilion,  called  the  Hill  Pagoda,
 
 that  was  connected  by  a  narrow  gateway  with  the
-
-26
 
 
 A  STORY  OF  THE  FOX  27
@@ -1386,8 +812,7 @@ opened  suddenly  and  a  young  woman  came  in.
 Her  clothes  were  neat  and  clean,  and  she  was  very
 pretty.  Kwai  looked  carefully  at  her,  but  did
 not  recognize  her.  She  was  evidently  a  stranger,
-as  there  was  no  such  person  among  the  dancing-
-girls  of  the  yamen.
+as  there  was  no  such  person  among  the  dancinggirls  of  the  yamen.
 
 He  remained  looking  at  her,  in  doubt  as  to  who
 she  was,  while  she  on  the  other  hand  took  her  place
@@ -1398,20 +823,15 @@ laughed  and  made  no  reply.  He  called  her.  She
 came  and  knelt  down  before  him,  and  he  took  her
 by  the  hand  and  patted  her  shoulder,  as  though
 he  greeted  her  favourably.  The  woman  smiled
-and  pretended  to  enjoy  it.  He  concluded,  how-
-ever, that  she  was  not  a  real  woman,  but  a  goblin
+and  pretended  to  enjoy  it.  He  concluded,  however, that  she  was  not  a  real  woman,  but  a  goblin
 of  some  kind,  or  perhaps  a  fox,  and  what  to  do  he
 knew  not.  Suddenly  he  decided  on  a  plan,  caught
 her,  swung  her  on  to  his  back,  and  rushed  out
 through  the  gate  into  the  yamen  quarters,  where
-he  shouted  at  the  top  of  his  voice  for  his  step-
-mother and  the  servants  to  come.
+he  shouted  at  the  top  of  his  voice  for  his  stepmother and  the  servants  to  come.
 
 It  was  midnight  and  all  were  asleep.  No  one
 replied,  and  no  one  came.  The  woman,  then,  being
-
-
-28    KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 on  his  back,  bit  him  furiously  at  the  nape  of  the
@@ -1432,8 +852,7 @@ IV
 CHEUNG  PUK-CHANG,  THE  SEER
 
 [Cheung  Puk-chang. — The  YoUryok  Keui-sul,
-one  of  Korea's  noted  histories,  says  of  Cheung  Puk-
-chang  that  he  was  pure  in  purpose  and  without
+one  of  Korea's  noted  histories,  says  of  Cheung  Pukchang  that  he  was  pure  in  purpose  and  without
 selfish  ambition.  He  was  superior  to  all  others  in
 his  marvellous  gifts.  For  him  to  read  a  book  once
 was  to  know  it  by  heart.  There  was  nothing  that
@@ -1454,11 +873,6 @@ which,  upon  investigation,  was  found  in  each  case
 to  be  true.  He  was  a  Taoist,  and  received  strange
 revelations.
 
-29
-
-
-30   KOREAN  IMPS,  GHOSTS  AND  FAIRIES
-
 
 While  in  Peking  there  met  him  envoys  from  the
 Court  of  Loochoo,  who  also  were  prophets.  While
@@ -1471,8 +885,7 @@ envoy's  station  to  another  till  they  met  Cheung
 Puk-chang,  when  a  great  fear  came  upon  them,  and
 they  fell  prostrate  to  the  earth.
 
-They  took  from  their  baggage  a  little  book  in-
-scribed, "  In  such  a  year,  on  such  a  day,  at  such  an
+They  took  from  their  baggage  a  little  book  inscribed, "  In  such  a  year,  on  such  a  day,  at  such  an
 hour,  in  such  a  place,  you  shall  meet  a  Holy  Man."
 "  If  this  does  not  mean  your  Excellency,"  said  they,
 "whom  can  it  mean  ？  ，，  They  asked  that  he  would
@@ -1496,8 +909,7 @@ Puk-chang  replied,  "I  do  not  know  them  from
 CHEUNG  PUK-CHANG,  THE  SEER  31
 
 
-having  learned  them,  but  know  them  uncon-
-sciously,"
+having  learned  them,  but  know  them  unconsciously,"
 
 Puk-chang  was  acquainted  with  the  three
 religions,  but  he  considered  Confucianism  as  the
@@ -1521,16 +933,12 @@ through  the  hills,  and  the  priests  were  startled  and
 wondered  whose  flute  was  playing.]
 
 [There  is  a  term  in  Korea  which  reads  he-an
-pang-kwang,  u  spiritual-eye  distant-vision,"  the  see-
-ing of  things  in  the  distance.  This  pertains  to  both
+pang-kwang,  u  spiritual-eye  distant-vision,"  the  seeing of  things  in  the  distance.  This  pertains  to  both
 Taoists  and  Buddhists.
 
 It  is  said  that  when  the  student  reaches  a  certain
 stage  in  his  progress,  the  soft  part  of  the  head
 returns  to  the  primal  thinness  that  is  seen  in  the
-
-
-32    KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 child  to  rise  and  fall  when  it  breathes.  From  this
@@ -1555,13 +963,11 @@ was  actually  true.
 
 The  History  of  Confucius,  too,  deals  with  this
 when  it  tells  of  his  going  with  his  disciple  An-ja
-and  looking  off  from  the  Tai  Mountains  of  Shan-
-tung toward  the  kingdom  of  On.  Confucius
+and  looking  off  from  the  Tai  Mountains  of  Shantung toward  the  kingdom  of  On.  Confucius
 asked  An-ja  if  he  could  see  anything,  and  An-ja
 replied,  "I  see  white  horses  tied  at  the  gates  of  On."
 
-Confucius  said,  "  No,  no,  your  vision  is  imper-
-fect, desist  from  looking.  They  are  not  white
+Confucius  said,  "  No,  no,  your  vision  is  imperfect, desist  from  looking.  They  are  not  white
 horses,  but  are  rolls  of  white  silk  hung  out  for
 bleaching. **]
 
@@ -1587,12 +993,9 @@ sounds  of  the  birds,  the  voices  of  Nature,  and  much
 else.  He  accompanied  his  father  in  his  boyhood
 days  when  he  went  as  envoy  to  Peking.  At  that
 time,  strange  barbarian  peoples  used  also  to  come
-and  pay  their  tribute.  Puk-chang  picked  up  ac-
-quaintance with  them  on  the  way.  Hearing  their
-language  but  once,  he  was  readily  able  to  com-
-municate with  them.  His  own  countrymen  who
-accompanied  him  were  not  the  only  ones  aston-
-ished, nor  the  Chinamen  themselves,  but  the
+and  pay  their  tribute.  Puk-chang  picked  up  acquaintance with  them  on  the  way.  Hearing  their
+language  but  once,  he  was  readily  able  to  communicate with  them.  His  own  countrymen  who
+accompanied  him  were  not  the  only  ones  astonished, nor  the  Chinamen  themselves,  but  the
 barbarians  as  well.  There  are  numerous  interesting
 stories  hinted  at  in  the  history  of  Puk-chang,  but
 few  suitable  records  were  made  of  them,  and  so
@@ -1601,15 +1004,10 @@ many  are  lost.
 D
 
 
-34    KOREAN  IMPS,  GHOSTS  AND  FAIRIES
-
-
 There  is  one,  however,  that  I  recall  that
-comes  to  me  through  trustworthy  witnesses  :  Puk-
-chang,  on  a  certain  day,  went  to  visit  his  paternal
+comes  to  me  through  trustworthy  witnesses  :  Pukchang,  on  a  certain  day,  went  to  visit  his  paternal
 aunt.  She  asked  him  to  be  seated,  and  as  they
-talked  together,  said  to  him,  "I  had  some  har-
-vesting to  do  in  Yong-nam  County,  and  sent  a
+talked  together,  said  to  him,  "I  had  some  harvesting to  do  in  Yong-nam  County,  and  sent  a
 servant  to  see  to  it.  His  return  is  overdue  and  yet
 he  does  not  come.  I  aim  afraid  he  has  fallen  in  with
 thieves,  or  chanced  on  a  fire  or  some  other
@@ -1650,8 +1048,7 @@ the  matter  as  a  joke  ；  and  yet  Puk-chang  did  not
 seem  to  be  joking.
 
 Interested  and  curious,  she  made  a  note  of  the  day
-on  the  wall  after  Puk-chang  had  taken  his  depart-
-ure, and  when  the  servant  returned,  she  asked  him
+on  the  wall  after  Puk-chang  had  taken  his  departure, and  when  the  servant  returned,  she  asked  him
 what  day  he  had  come  over  Bird  Pass,  and  it
 proved  to  be  the  day  recorded.  She  added  also,
 "Did  you  get  into  trouble  with  a  yangban  there
@@ -1695,8 +1092,6 @@ said  that  one  day  Chon  came  to  call  upon  him  at  his
 
 house  and  asked  for  a  book  entitled  The  Tu-si，  which
 
-36
-
 
 YUN  SE-PYONG,  THE  WIZARD  37
 
@@ -1727,13 +1122,9 @@ seldom  finds  it  in  Taoism.]
 The  Story
 
 Yun  Se-Pyong  was  a  military  man  who  rose  to
-the  rank  of  minister  in  the  days  of  King  Choong-
-jong.  It  seems  that  Yun  learned  the  doctrine  of
+the  rank  of  minister  in  the  days  of  King  Choongjong.  It  seems  that  Yun  learned  the  doctrine  of
 magic  from  a  passing  stranger,  whom  he  met  on  his
 way  to  Peking  in  company  with  the  envoy.  When
-
-
-38    KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 at  home  he  lived  in  a  separate  house,  quite  apart
@@ -1751,8 +1142,7 @@ plying  his  craft.  So  skilful  was  he  that  he  could
 even  simulate  the  form  of  the  master  of  a  house
 and  go  freely  into  the  women's  quarters.  On  this
 account  he  was  greatly  feared  and  detested.  Yun
-heard  of  him  on  more  than  one  occasion,  and  deter-
-mined to  rid  the  earth  of  him.  Chon  heard  also  of
+heard  of  him  on  more  than  one  occasion,  and  determined to  rid  the  earth  of  him.  Chon  heard  also  of
 Yun  and  gave  him  a  wide  berth,  never  appearing  in
 his  presence.  He  used  frequently  to  say,  "I  am  a
 magician  only  ；  Yun  is  a  God."
@@ -1763,8 +1153,7 @@ Yun  would  come  that  afternoon  and  try  to  kill  him,
 to  escape  his  clutches.  If  any  one  comes  asking  for
 me  just  say  that  I  am  not  at  home."  He  then
 metamorphosed  himself  into  a  beetle,  and  crawled
-under  a  crock  that  stood  overturned  in  the  court-
-yard.
+under  a  crock  that  stood  overturned  in  the  courtyard.
 
 When  evening  began  to  fall  a  young  woman
 
@@ -1807,16 +1196,13 @@ saying,  "They  are  poor  where  she  lives,  and  so  I
 must  help  them."
 
 
-40    KOREAN  IMPS,  GHOSTS  AND  FAIRIES
-
 He  wrote  a  letter,  and  after  sealing  it,  said  to  one
 of  his  attendants,  "If  you  go  just  outside  the  gate
 you  will  meet  a  man  wearing  a  horsehair  cap  and  a
 soldier's  uniform.  Call  him  in.  He  is  standing
 there  ready  to  be  summoned."
 
-He  was  called  in,  and  sure  enough  he  was  a  Kon-
-yun-no  (servant  of  the  gods) .  He  came  in  and  at
+He  was  called  in,  and  sure  enough  he  was  a  Konyun-no  (servant  of  the  gods) .  He  came  in  and  at
 once  prostrated  himself  before  Yun.  Yun  said,  "  My
 sister  has  just  now  died  in  such  a  place  in  Chulla
 Province.  Take  this  letter  and  go  at  once.  I  shall
@@ -1835,8 +1221,7 @@ letter  read :  "She  died  at  such  an  hour  to-day  and
 we  were  in  straits  as  to  What  to  do,  when  your
 letter  came  with  the  supplies,  just  as  though  we  had
 seen  each  other.  Wonderful  it  is  ！  "  The  man  who
-brought  the  answer  immediately  went  out  and  dis-
-appeared. The  house  of  mourning  is  situated  over
+brought  the  answer  immediately  went  out  and  disappeared. The  house  of  mourning  is  situated  over
 ten  days'  journey  from  Seoul,  but  he  returned  ere
 sunset,  in  the  space  of  two  or  three  hours.
 
@@ -1848,8 +1233,7 @@ VI
 
 THE  WILD-CAT  WOMAN
 
-[Kim  Su-ik  was  a  native  of  Seoul  who  matric-
-ulated in  1624  and  graduated  in  1630.  In  1636,
+[Kim  Su-ik  was  a  native  of  Seoul  who  matriculated in  1624  and  graduated  in  1630.  In  1636,
 when  the  King  made  his  escape  to  Nam-han  from
 the  invading  Manchu  army,  Kim  Su-ik  acompanied
 him.  He  opposed  any  yielding  to  China  or  any
@@ -1868,11 +1252,6 @@ from  the  words,  "Birds  that  live  in  the  trees  know
 when  the  wind  will  blow  ；  beasts  that  live  in  the
 ground  know  when  it  is  going  to  rain,"  The
 wild  cat  unconsciously  told  on  himself.]
-
-41
-
-
-42   KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 The  Story
@@ -1894,8 +1273,7 @@ on  hand  to  answer  a  call,  so  the  wife  went  to
 the  kitchen,  made  a  fire  and  cooked  them  herself.
 Kim  waited,  meanwhile,  for  her  to  come.
 
-After  a  little  while  she  brought  them  in  a  hand-
-basket,  cooked  and  ready  served  for  him.  Kim  ate
+After  a  little  while  she  brought  them  in  a  handbasket,  cooked  and  ready  served  for  him.  Kim  ate
 and  enjoyed  them  much.  Meanwhile  she  sat
 before  his  desk  and  waited.  Suddenly  the  door
 opened,  and  another  person  entered.  Kim  raised
@@ -1929,8 +1307,7 @@ make  the  beast  fast  for  good  and  all  ！
 
 Note  by  the  writer.— Foxes  turning  into  women
 and  deceiving  people  is  told  of  in  Kwang-ketii  and
-other  Chinese  novels,  but  the  wild  cat's  transforma-
-tion is  more  wonderful  still,  and  something  that  I
+other  Chinese  novels,  but  the  wild  cat's  transformation is  more  wonderful  still,  and  something  that  I
 have  never  heard  of.  By  what  law  do  creatures
 like  foxes  and  wild  cats  so  change  ？  I  am  unable  to
 find  any  law  that  governs  it.  Some  say  that  the  fox
@@ -1946,8 +1323,7 @@ VII
 THE   ILL-FATED  PRIEST
 
 A  certain  scribe  of  Chung-chong  Province,  whose
-name  was  Kim  Kyong-jin,  once  told  me  the  follow-
-ing story.  Said  he:  "In  the  year  1640,  as  I  was
+name  was  Kim  Kyong-jin,  once  told  me  the  following story.  Said  he:  "In  the  year  1640,  as  I  was
 journeying  past  Big  Horn  Bridge  in  Ta-in  County,
 I  saw  a  scholar,  who,  with  his  four  or  five  servants,
 had  met  with  some  accident  and  all  were  reduced  to
@@ -1965,8 +1341,6 @@ rise  or  walk.  He  then  scolded  the  scholar,  saying,
 "You  did  not  reprimand  your  servants  for  their
 insult  to  me,  so  I，ll  have  to  take  it  out  of  you  as
 well."   The  Buddhist  gave  him  a  number  of  vicious
-
-44
 
 
 THE  ILL-FATED  PRIEST  45
@@ -1988,13 +1362,10 @@ me.，
 
 u  *  Indeed,'  said  the  stranger,  *  I  have  been  aware
 of  him  for  a  long  time,  and  have  decided  to  rid
-the  earth  of  him,  but  I  jiave  never  had  an  oppor-
-tunity before.  Now  that  I  have  at  last  come  on  him
-I  am  determined  to  have  satisfaction •，  So  he  dis-
-mounted from  his  horse,  tightened  his  girth,  took
+the  earth  of  him,  but  I  jiave  never  had  an  opportunity before.  Now  that  I  have  at  last  come  on  him
+I  am  determined  to  have  satisfaction •，  So  he  dismounted from  his  horse,  tightened  his  girth,  took
 his  bow,  and  an  arrow  that  had  a  *  fist '  head,  and
-made  off  at  a  gallop  after  the  priest.  Soon  he  over-
-took him.  Just  as  the  priest  looked  back  the  archer
+made  off  at  a  gallop  after  the  priest.  Soon  he  overtook him.  Just  as  the  priest  looked  back  the  archer
 let  fly  with  his  arrow,  which  entered  deep  into  the
 chest.  He  then  dismounted,  drew  his  sword,  pierced
 the  two  hands  of  the  priest  and  passed  a  string
@@ -2004,8 +1375,6 @@ said,  4  Now  do  with  this  fellow  as  you  please.  I
 am  going.'
 
 
-46    KOREAN  IMPS,  GHOSTS  AND  FAIRIES
-
 "The  scholar  bowed  before  the  archer,  thanked
 him,  asked  his  place  of  residence  and  name.  He
 replied,  *  My  home  is  in  the  County  of  Ko-chang, '
@@ -2014,8 +1383,7 @@ but  he  did  not  give  his  name.
 "The  scholar  looked  at  the  priest,  and  never
 before  had  he  seen  so  powerful  a  giant,  but  now,
 with  his  chest  shot  through  and  his  hands  pierced,
-he  was  unable  to  speak  ；  so  they  arose,  made  mince-
-meat of  him,  and  went  on  their  way  rejoicing."
+he  was  unable  to  speak  ；  so  they  arose,  made  mincemeat of  him,  and  went  on  their  way  rejoicing."
 
 Im  Bang.
 
@@ -2049,11 +1417,6 @@ many  parts  of  the  world.
 
 He  practised  fasting,  and  would  go  sometimes
 for  months  without  eating.    He  also  overcame
-
-47
-
-
-48    KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 thirst,  and  in  the  hot  days  of  summer  would  avoid
@@ -2109,8 +1472,7 @@ Korea's  Record  of  Famous  Men.
 
 The  Story
 
-Teacher  To-jong  was  once  upon  a  time  a  mer-
-chant, and  in  his  merchandising  went  as  far  as  the
+Teacher  To-jong  was  once  upon  a  time  a  merchant, and  in  his  merchandising  went  as  far  as  the
 East  Sea.  One  night  he  slept  in  a  fishing  village
 on  the  shore.  At  that  time  another  stranger  called
 who  was  said  to  be  an  i-in  or  "holy  man."  The
@@ -2126,15 +1488,11 @@ him  what  he  meant.  He  replied,  "In  two  hours
 or  so  there  will  be  a  tidal  wave  that  will  engulf  this
 
 
-50  KOREAN  IMPS,  GHOSTS  AND  FAIRIES
-
-
 whole  village,  utterly  destroying  everything.  If
 you  do  not  make  haste  to  escape  all  will  be  as  fish
 in  a  net."
 
-To-jong,  being  something  of  an  astrologer  him-
-self, thought  first  to  solve  the  mystery  of  this,  but
+To-jong,  being  something  of  an  astrologer  himself, thought  first  to  solve  the  mystery  of  this,  but
 could  arrive  at  no  explanation.
 
 The  owner  of  the  house  would  not  believe  it,  and
@@ -2198,11 +1556,9 @@ In  the  thirty-third  year  of  Mal-yok  of  the  Mings
 Son-jo,  in  the  seventh  moon,  a  great  rain  fell,  such
 a  rain  as  had  not  been  seen  since  the  founding  of
 the  dynasty.  Before  that  rain  came  on,  a  man  of
-Kang-won  Province  was  cutting  wood  on  the  hill-
-side. While  thus  engaged,  an  angel  in  golden
+Kang-won  Province  was  cutting  wood  on  the  hillside. While  thus  engaged,  an  angel  in  golden
 armour,  riding  on  a  white  horse  and  carrying  a
-spear,  came  down  to  him  from  heaven.  His  appear-
-ance was  most  dazzling,  and  the  woodman,  looking
+spear,  came  down  to  him  from  heaven.  His  appearance was  most  dazzling,  and  the  woodman,  looking
 at  him,  recognized  him  as  a  Man  of  God.  Also  a
 Buddhist  priest,  carrying  a  staff,  came  down  in
 his  train.  The  priest ，s  appearance,  too,  was  very
@@ -2214,10 +1570,7 @@ alarmed  by  the  great  sight,  hid  himself  among  the
 trees.
 
 The  Man  of  God  seemed  to  be  very  angry  for
-some  reason  or  other,  raised  his  spear,  and,  point-
-ing to  the  four  winds,  said,  "I  shall  flood  all  the
-
-52
+some  reason  or  other,  raised  his  spear,  and,  pointing to  the  four  winds,  said,  "I  shall  flood  all  the
 
 
 THE  VISIT  OF  THE  MAN  OF  GOD  53
@@ -2250,8 +1603,7 @@ said.
 
 He  went  home,  however,  in  great  haste,  and  with
 his  wife  and  family  made  his  escape,  and  from  that
-day  the  rain  began  to  fall.  In  it  Mount  Otai  col-
-lapsed, the  earth  beneath  it  sank  until  it  became  a
+day  the  rain  began  to  fall.  In  it  Mount  Otai  collapsed, the  earth  beneath  it  sank  until  it  became  a
 vast  lake,  all  the  inhabitants  were  destroyed,  and
 the  woodcutter  alone  made  his  escape.
 
@@ -2286,8 +1638,6 @@ catch  one  of  them?"  said  his  wife.  "Catch  one?"
 said  he.  "What  would  you  do  with  it ？， *  "Why,
 eat  it,  of  course."   So  on  the  second  day  Ha  went
 
-54
-
 
 THE  LITERARY  MAN  OF  IMSIL  55
 
@@ -2318,11 +1668,7 @@ the  pain  of  it  longer,  he  yielded,  and  then  the  master
 laughed  and  let  him  go.
 
 At  another  time  he  was  seated  with  a  friend,
-while  in  the  adjoining  village  a  witch  koot  (exorcis-
-ing ceremony)  was  in  progress,  with  drums  and
-
-
-56    KOREAN  IMPS,  GHOSTS  AND  FAIRIES
+while  in  the  adjoining  village  a  witch  koot  (exorcising ceremony)  was  in  progress,  with  drums  and
 
 
 gongs  banging  furiously.  The  master  suddenly
@@ -2332,8 +1678,7 @@ glaring  eyes,  he  shouted,  and  made  bare  his  arm
 as  if  to  drive  off  the  furies.  After  a  time  he  ceased.
 The  friend,  thinking  this  a  peculiar  performance,
 asked  what  it  meant.  His  reply  was,  "A  crowd  of
-devils  have  come  from  the  koot,  and  are  congregat-
-ing in  the  grove  of  bamboos  ；  if  I  do  not  drive
+devils  have  come  from  the  koot,  and  are  congregating in  the  grove  of  bamboos  ；  if  I  do  not  drive
 them  off  trouble  will  follow  in  the  town,  and  for
 that  cause  I  shouted."
 
@@ -2370,8 +1715,7 @@ time  came  to  life  again.  Said  she,  '  A  devil  caught
 me  and  carried  my  soul  off  down  the  main  roadway,
 where  we  met  a  man,  who  stopped  us,  and  in  fierce
 tones  drove  off  the  spirit,  who  let  me  go,  and  so
-I  returned  to  life.'  She  looked  out  on  your  Excel-
-lency through  the  chink  of  the  window,  and,  behold,
+I  returned  to  life.'  She  looked  out  on  your  Excellency through  the  chink  of  the  window,  and,  behold,
 you  are  the  man.  I  am  at  my  wits'  end  to  know
 what  to  say  to  you.  Are  you  a  genii  or  are  you
 a  Buddhist,  so  marvellously  to  bring  back  the  dead
@@ -2392,8 +1736,7 @@ XI
 THE  SOLDIER  OF  KANG-WHA
 
 [The  East  says  that  the  air  is  full  of  invisible
-constituents  that,  once  taken  in  hand  and  con-
-trolled, will  take  on  various  forms  of  life.  The  man
+constituents  that,  once  taken  in  hand  and  controlled, will  take  on  various  forms  of  life.  The  man
 of  Kang-wha  had  acquired  the  art  of  calling
 together  the  elements  necessary  for  the  butterfly.
 This,  too,  comes  from  Taoism,  and  is  called  son-sul，
@@ -2425,8 +1768,7 @@ THE  SOLDIER  OF  KANG-WHA  59
 
 them  into  his  palm,  closed  his  hand  upon  them,
 and  repeated  a  prayer,  after  which  he  threw  the
-handful  into  the  air.  Immediately  beautiful  butter-
-flies filled  the  room,  dazzling  the  eyes  and  shining
+handful  into  the  air.  Immediately  beautiful  butterflies filled  the  room,  dazzling  the  eyes  and  shining
 in  all  the  colours  of  the  silk  itself.
 
 The  wife,  mystified  by  the  wonder  of  it,  forgot
@@ -2457,8 +1799,7 @@ CURSED  BY  THE  SNAKE
 
 [Ha  Yon  graduated  in  the  year  1396,  and  became
 magistrate  of  Anak  County.  He  built  many
-pavilions  in  and  about  his  official  place  of  resid-
-ence, where  people  might  rest.  As  he  went  about
+pavilions  in  and  about  his  official  place  of  residence, where  people  might  rest.  As  he  went  about
 his  district,  seeing  the  farmers  busy,  he  wrote  many
 songs  and  verses  to  encourage  them  in  their  work.
 He  became  later  a  royal  censor,  and  King  Tai-jong
@@ -2471,15 +1812,12 @@ burn  incense,  sit  at  attention,  and  write  prayer
 verses  the  livelong  day.
 
 When  he  was  young,  once,  in  the  Court  of  the
-Crown  Prince,  he  wrote  a  verse  which  was  com-
-mented upon  thus :  "Beautiful  writing,  beautiful
+Crown  Prince,  he  wrote  a  verse  which  was  commented upon  thus :  "Beautiful  writing,  beautiful
 thought  ；  truly  a  treasure."  He  was  a  great  student
 and  a  great  inquirer,  and  grateful  and  lovable  as  a
 friend.    He  studied  as  a  boy  under  the  patriot
 
 Cheung  Mong-ju,  and  was  upright  and  pure  in  all
-
-60
 
 
 CURSED  BY  THE  SNAKE  61
@@ -2497,8 +1835,7 @@ The  Story
 
 The  old  family  seat  of  Prince  Ha  Yun  was  in
 the  County  of  Keum-chon.  He  was  a  famous
-Minister  of  State  in  the  days  of  peace  and  pros-
-perity, and  used  frequently  to  find  rest  and  leisure
+Minister  of  State  in  the  days  of  peace  and  prosperity, and  used  frequently  to  find  rest  and  leisure
 in  his  summer-house  in  this  same  county.  It  was  a
 large  and  well-ordered  mansion,  and  was  occupied
 by  his  children  for  many  years  after  his  death.
@@ -2515,9 +1852,6 @@ went  and  told  the  master  what  had  happened.  The
 master  sent  his  men-slaves  and  had  the  jar  brought
 down.  They  broke  it  open  and  let  out  a  huge,
 awful-looking  snake,  such  as  one  had  never  seen
-
-
-62    KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 before.  Several  of  the  servants  joined  in  with  clubs
@@ -2548,8 +1882,7 @@ of  the  enemy,  armed  and  mounted.  The  hills  and
 valleys  seemed  full  of  them,  and  there  was  no
 possible  way  of  escape.  What  to  do  they  knew
 not.  In  the  midst  of  their  perplexity  they  suddenly
-saw  some  one  sitting  peacefully  in  the  main  road-
-way just  in  front,  underneath  a  pine  tree,  quite
+saw  some  one  sitting  peacefully  in  the  main  roadway just  in  front,  underneath  a  pine  tree,  quite
 unconcerned.  He  had  dismounted  from  his  horse,
 which  a  servant  held,  standing  close  by.  A  screen
 of  several  yards  of  cotton  cloth  was  hanging  up  just
@@ -2566,8 +1899,6 @@ me  and  see  the  barbarians  go  by."
 
 63  ᅳ
 
-
-64    KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 The  people,  perceiving  his  mind  so  composed
 and  his  appearance  devoid  of  fear,  and  they  having
@@ -2588,8 +1919,7 @@ as  it  were.
 At  last  awaking  to  the  fact  that  he  was  possessor
 of  some  wonderful  magic,  they  all  with  one  accord
 came  and  bowed  before  him,  asking  his  name  and
-his  place  of  residence.  He  made  no  answer,  how-
-ever, but  mounted  his  beautiful  horse  and  rode
+his  place  of  residence.  He  made  no  answer,  however, but  mounted  his  beautiful  horse  and  rode
 swiftly  away,  no  one  being  able  to  overtake
 him.
 
@@ -2607,8 +1937,7 @@ THE  MAN  ON  THE  ROAD  65
 rocks,  against  which  no  one  could  move,  and  so
 we  passed  by."
 
-Thus  were  the  few  yards  of  cotton  cloth  meta-
-morphosed before  the  eyes  of  the  passers-by.
+Thus  were  the  few  yards  of  cotton  cloth  metamorphosed before  the  eyes  of  the  passers-by.
 
 Im  Bang.
 
@@ -2653,8 +1982,7 @@ THE  OLD  MAN  WHO  BECAME  A  FISH  67
 
 children  gathered  about  weeping,  thinking  that  the
 time  of  his  departure  had  surely  come.  But  he
-lived,  and  a  few  days  later  said  to  us,  '  I  am  bur-
-dened with  so  great  a  heat  in  this  sickness  that  I
+lived,  and  a  few  days  later  said  to  us,  '  I  am  burdened with  so  great  a  heat  in  this  sickness  that  I
 am  not  able  to  endure  it  longer.  I  would  like  to
 go  out  to  the  bank  of  the  river  that  runs  before  the
 house  and  see  the  water  flowing  by,  and  be  refreshed
@@ -2666,8 +1994,7 @@ to  do  so,  but  he  grew  very  angry,  and  said,  '  If
 you  do  not  as  I  command,  you  will  be  the  death
 of  me  ，  ；  and  so,  seeing  that  there  was  no  help  for
 it,  we  bore  him  out  and  placed  him  on  the  bank  of
-the  river.  He,  seeing  the  water,  was  greatly  de-
-lighted, and  said,  *  The  clear  flowing  water  cures
+the  river.  He,  seeing  the  water,  was  greatly  delighted, and  said,  *  The  clear  flowing  water  cures
 my  sickness.'  A  moment  later  he  said  further,
 '  rd  like  to  be  quite  alone  and  rid  of  you  all  for
 a  little.  Go  away  into  the  wood  and  wait  till  I  tell
@@ -2683,12 +2010,8 @@ place  where  he  had  been  seated.  We  hurried  back
 to  see  what  had  happened.    My  father  had  taken
 
 
-68    KOREAN  IMPS,  GHOSTS  AND  FAIRIES
-
-
 off  his  clothes  and  plunged  into  the  water,  which
-was  muddied.  His  body  was  already  half  meta-
-morphosed into  a  skate.  We  saw  its  transTormation
+was  muddied.  His  body  was  already  half  metamorphosed into  a  skate.  We  saw  its  transTormation
 in  terror,  and  did  not  dare  to  go  near  him,  when
 all  at  once  it  became  changed  into  a  great  flatfish,
 that  swam  and  plunged  and  disported  itself  in  the
@@ -2715,8 +2038,7 @@ THE  GEOMANCER
 [Yi  Eui-sin  was  a  specialist  in  Geomancy.  His
 craft  came  into  being  evidently  as  a  by-product  of
 Taoism,  but  has  had  mixed  in  it  elements  of  ancient
-Chinese  philosophy.  The  Positive  and  the  Nega-
-tive, the  Two  Primary  Principles  in  Nature,  play
+Chinese  philosophy.  The  Positive  and  the  Negative, the  Two  Primary  Principles  in  Nature,  play
 a  great  part  ；  also  the  Five  Elements,  Metal,  Wood,
 Water,  Fire  and  Earth.  In  the  selection  of  a  site,
 that  for  a  house  is  called  a  "male"  choice,  while
@@ -2724,8 +2046,7 @@ the  grave  is  denominated  the  "female"  choice.
 
 Millions  of  money  have  been  expended  in  Korea
 on  the  geomancer  and  his  associates  in  the  hope
-of  finding  lucky  homes  for  the  living  and  auspi-
-cious resting-places  for  the  dead,  the  Korean  idea
+of  finding  lucky  homes  for  the  living  and  auspicious resting-places  for  the  dead,  the  Korean  idea
 being  that,  in  some  mysterious  way,  all  our
 fortune  is  associated  with  Mother  Earth.]
 
@@ -2740,9 +2061,6 @@ the  Dragon  Ridge  in  North  Ham-kyong  Province,
 and  traced  it  as  far  as  Pine  Mountain  in  Yang-ju
 
 69  "
-
-
-70    KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 County,  where  it  stopped  in  a  beautifully  rounded
@@ -2762,8 +2080,7 @@ sad  and  disheartened  way.
 
 Yi  felt  sorry  for  him,  and  asked  the  reason.  "I
 wonder  if  it's  because  you  are  poor  that  you  have
-not  yet  made  the  necessary  arrangements,  or  per-
-haps you  have  not  yet  found  a  suitable  site  ！  I
+not  yet  made  the  necessary  arrangements,  or  perhaps you  have  not  yet  found  a  suitable  site  ！  I
 am  an  expert  in  reading  the  hills,  and  I'll  tell  you
 of  a  site  ；  would  you  care  to  see  it  ？  "
 
@@ -2781,21 +2098,16 @@ to  arrange  for  another  site.    When  that  comes  to
 THE  GEOMANCER
 
 
-71
-
-
 pass  please  call  me,  won't  you  ？  In  calling  for
 me  just  ask  for  Yi  So-pang,  who  lives  in  West
 School  Ward,  Seoul."
 
-The  mourner  did  as  directed,  and  as  the  geo-
-mancer  had  foretold,  all  his  affairs  prospered.  He
+The  mourner  did  as  directed,  and  as  the  geomancer  had  foretold,  all  his  affairs  prospered.  He
 built  a  large  tiled  house,  and  ornamented  the  grave
 with  great  stones  as  a  prosperous  and  high-minded
 country  gentleman  should  do.
 
-After  ten  years  a  guest  called  one  day,  and  salut-
-ing him  asked,  "Is  that  grave  yonder,  beyond  the
+After  ten  years  a  guest  called  one  day,  and  saluting him  asked,  "Is  that  grave  yonder,  beyond  the
 stream,  yours  ？  ，，  The  master  answered,  "  It  is
 mine."  Then  the  stranger  said,  "That  is  a  famous
 site,  but  ten  years  have  passed  since  you  have  come
@@ -2819,9 +2131,6 @@ to  change  the  site  ？  ，，
 The  guest  replied,  "This  hill  is  a  Kneeling
 
 
-72   KOREAN  IMPS,  GHOSTS  AND  FAIRIES
-
-
 Pheasant  formation.  If  the  pheasant  kneels  too
 long  it  cannot  endure  it,  so  that  within  a  limited
 time  it  must  fly.  Ten  years  is  the  time  ；  that's  why
@@ -2842,8 +2151,7 @@ The  guest  replied,  "Teacher,  surely  your  eyes
 are  enlightened,  and  see  further  than  those  of
 ordinary  men."
 
-From  that  day  forth  the  Yis  of  Pine  Hill  be-
-came a  great  and  noted  family.
+From  that  day  forth  the  Yis  of  Pine  Hill  became a  great  and  noted  family.
 
 Anon.
 
@@ -2862,8 +2170,7 @@ the  rank  of  Prince  and  became,  later,  Prime
 Minister.  In  the  year  1624,  when  Yi  Kwal  raised
 an  insurrection,  he  was  the  means  of  putting  it
 down  and  of  bringing  many  of  his  followers  to
-justice.  In  1648,  he  died  at  the  age  of  seventy-
-seven.
+justice.  In  1648,  he  died  at  the  age  of  seventyseven.
 
 In  the  last  year  of  Son-jo  the  King  called  his
 grandchildren  together  and  had  them  write  Chinese
@@ -2876,11 +2183,6 @@ and  hung  it  up  in  his  house  and  there  it  remained.
 
 Prince  In-jo  was  one  day  making  a  journey  out
 of  the  Palace  when  he  was  overtaken  by  rain,  and
-
-73
-
-
-74    KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 took  refuge  in  a  neighbouring  gate-quarters.  A
@@ -2906,8 +2208,7 @@ his  wife  why  she  had  sent  such  delicious  fare  in
 to  a  stranger.  The  wife  replied,  "  In  a  dream  last
 night,  I  saw  the  King  come  and  stand  in  front  of
 our  house.  I  was  just  thinking  it  over  when  the
-servant  came  in  and  said  that  some  one  was  stand-
-ing before  the  door.  I  looked  out,  and  lo,  it  was
+servant  came  in  and  said  that  some  one  was  standing before  the  door.  I  looked  out,  and  lo,  it  was
 the  man  I  had  seen  in  my  dream  ！  so  I  have  treated
 him  to  the  best  of  hospitality  that  I  was  able."
 Kim  Yu  soon  learned  who  his  caller  had  been,  and
@@ -2943,13 +2244,9 @@ The  Story
 A  certain  Minister  of  State,  called  Kim  Yu,
 living  in  the  County  of  Seung-pyong,  had  a  relative
 who  resided  in  a  far-distant  part  of  the  country,
-an  old  man  aged  nearly  one  hundred.  On  a  cer-
-tain day  a  son  of  this  patriarch  came  to  the  office
+an  old  man  aged  nearly  one  hundred.  On  a  certain day  a  son  of  this  patriarch  came  to  the  office
 of  the  Minister  and  asked  to  see  him.  Kim
 ordered  him  to  be  admitted,  and  inquired  as  to
-
-
-76    KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 why  he  had  come.  Said  he,  "I  have  something
@@ -2980,8 +2277,7 @@ closed  the  door  again  and  held  a  consultation.
 
 "Some  said,  4  Let's  keep  the  pig  just  as  it  is,
 within  doors,  and  care  for  it.'  Some  said,  4  Let's
-have  a  funeral  and  bury  it.，  We  ignorant  country-
-folk not  knowing  just  what  to  do  under  such  pecu-
+have  a  funeral  and  bury  it.，  We  ignorant  countryfolk not  knowing  just  what  to  do  under  such  pecu-
 liar circumstances,  I  have  come  to  ask  counsel  of
 
 
@@ -3009,8 +2305,7 @@ ever  trod,"
 
 The  son 'accepted  this  wise  counsel,  and  did  as
 the  Minister  advised,  took  it  away  into  the  deep
-mountains  and  let  it  go.  Then  he  donned  sack-
-cloth, mourned,  buried  his  father's  clothes  for  a
+mountains  and  let  it  go.  Then  he  donned  sackcloth, mourned,  buried  his  father's  clothes  for  a
 funeral,  and  observed  the  day  of  metamorphosis
 as  the  day  of  sacrificial  ceremony.
 
@@ -3027,8 +2322,7 @@ There  was  a  Confucian  scholar  once  who  lived
 in  the  southern  part  of  Seoul.  It  is  said  that  he
 went  out  for  a  walk  one  day  while  his  wife  remained
 alone  at  home.  When  he  was  absent  there  came
-by  begging  an  old  woman  who  looked  like  a  Bud-
-dhist priestess,  for  while  very  old  her  face  was
+by  begging  an  old  woman  who  looked  like  a  Buddhist priestess,  for  while  very  old  her  face  was
 not  wrinkled.  The  scholar's  wife  asked  her  if  she
 knew  how  to  sew.  She  said  she  did,  and  so  the
 wife  made  this  proposition,  "If  you  will  stay  and
@@ -3039,16 +2333,13 @@ will  you  agree  ？  "
 She  replied,  "Oh，  thank  you  so  much,  I'll  be
 delighted."
 
-The  scholar's  wife,  well  satisfied  with  her  bar-
-gain, took  her  in  and  set  her  to  picking  cotton,  and
+The  scholar's  wife,  well  satisfied  with  her  bargain, took  her  in  and  set  her  to  picking  cotton,  and
 making  and  spinning  thread.  In  one  day  she  did
 more  than  eight  ordinary  women,  and  yet  had,
 seemingly,  plenty  of  time  to  spare.  The  wife,
 delighted  above  measure,  treated  her  to  a  great
 
 feast.    After  five  or  six  days,  however,  the  feeling
-
-78
 
 
 THE  OLD  WOMAN  GOBLIN  79
@@ -3064,8 +2355,7 @@ who  looked  like  a  Buddhist  beggar.
 
 These  two  came  boldly  into  the  room  and  took
 possession,  cleared  out  the  things  that  were  in  the
-ancient  tablet-box  on  the  wall-shelf,  and  both  dis-
-appeared into  it,  so  that  they  were  not  seen  at  all,
+ancient  tablet-box  on  the  wall-shelf,  and  both  disappeared into  it,  so  that  they  were  not  seen  at  all,
 but  only  their  voices  heard.  According  to  the
 whim  that  took  them  they  now  ordered  eatables
 and  other  things.  When  the  scholar's  wife  failed
@@ -3076,8 +2366,7 @@ came  to  see,  but  they  also  caught  the  plague,  fell
 ill  and  died.  Little  by  little  no  one  dared  come
 near  the  place,  and  it  became  known  at  last  that
 the  wife  was  held  as  a  prisoner  by  these  two  goblin
-creatures.  For  a  time  smoke  was  seen  by  the  town-
-folk  coming  out  of  the  chimney  daily,  and  they
+creatures.  For  a  time  smoke  was  seen  by  the  townfolk  coming  out  of  the  chimney  daily,  and  they
 knew  that  the  wife  still  lived,  but  after  five  or  six
 days  the  smoke  ceased,  and  they  knew  then  that
 the  woman ,s  end  had  come.  No  one  dared  even
@@ -3105,8 +2394,7 @@ and  it  seemed  to  come  from  the  roots  of  the  creeper
 close  beside  him,  so  he  ordered  his  servant  to  dig
 round  it  and  see.  He  dug  and  found  a  dead  man's
 skull.  It  was  full  of  earth,  and  the  roots  of  the
-creeper  had  passed  through  the  nostrils.  The  sneez-
-ing was  caused  by  the  annoyance  felt  by  the  spirit
+creeper  had  passed  through  the  nostrils.  The  sneezing was  caused  by  the  annoyance  felt  by  the  spirit
 from  having  the  nose  so  discommoded.
 
 The  candidate  felt  sorry,  washed  the  skull  in  clean
@@ -3114,8 +2402,6 @@ The  candidate  felt  sorry,  washed  the  skull  in  clean
 water,  wrapped  it  in  paper  and  reburied  it  in  its
 
 former  place  on  the  hill-side.    He  also  brought  a
-
-80
 
 
 THE  GRATEFUL  GHOST  81
@@ -3152,9 +2438,6 @@ will  undoubtedly  win  you  the  first  place.  It  is
 this—
 
 G
-
-
-82    KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 '  The  white  sun  rode  high  up  in  the  heavens,
@@ -3194,10 +2477,8 @@ THE  PLUCKY  MAIDEN
 
 [Han  Myong-hoi. ― We  are  told  in  the  YoUryok
 Keui-sul  that  when  Han  was  a  boy  he  had  for
-protector  and  friend  a  tiger,  who  used  to  accom-
-pany him  as  a  dog  does  his  master.  One  evening,
-when  he  started  off  into  the  hills,  he  heard  the  dis-
-tant tramp  of  the  great  beast,  who  had  got  scent
+protector  and  friend  a  tiger,  who  used  to  accompany him  as  a  dog  does  his  master.  One  evening,
+when  he  started  off  into  the  hills,  he  heard  the  distant tramp  of  the  great  beast,  who  had  got  scent
 of  his  going,  and  had  come  rushing  after  him.
 When  Han  saw  him  he  turned,  and  said,  "Good
 old  chap,  you  come  all  this  distance  to  be  my  friend  ；
@@ -3213,12 +2494,8 @@ King  Se-jo.]
 The  Story
 
 Han  Myong-hoi  was  a  renowned  Minister  of  the
-Reign  of  Se-jo  (a.d.  1455-1468).   The  King  appre-
-ciated and  enjoyed  him  greatly,  and  there  was  no
+Reign  of  Se-jo  (a.d.  1455-1468).   The  King  appreciated and  enjoyed  him  greatly,  and  there  was  no
 '  83
-
-
-84    KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 one  of  the  Court  who  could  surpass  him  for  influence
@@ -3242,8 +2519,7 @@ like  to  make  my  concubine.  When  I  am  on  my
 official  rounds  shortly,  I  shall  expect  to  stop  at
 your  town  and  take  her.    So  be  ready  for  me."
 
-The  Deputy,  alarmed,  said,  "How  can  your  Ex-
-cellency say  that  your  servant's  contemptible
+The  Deputy,  alarmed,  said,  "How  can  your  Excellency say  that  your  servant's  contemptible
 daughter  is  beautiful  ？  Some  one  has  reported  her
 wrongly.  But  since  you  so  command,  how  can  I
 do  but  accede  gladly?"  So  he  bowed,  said  his
@@ -3259,8 +2535,7 @@ THE  PLUCKY  MAIDEN  85
 
 
 me,  please."  At  first,  fearing  that  she  would  be
-disturbed,  he  did  not  reply,  but  her  repeated  ques-
-tions forced  him,  so  that  he  said,  "  I  am  in  trouble
+disturbed,  he  did  not  reply,  but  her  repeated  questions forced  him,  so  that  he  said,  "  I  am  in  trouble
 on  your  account,"  and  then  told  of  how  the
 Governor  wanted  her  for  his  concubine.  "If  I  had
 refused  I  would  have  been  killed,  so  I  yielded  ；  but
@@ -3290,9 +2565,6 @@ distress.  The  girl  alone  seemed  perfectly  unmoved,
 not  showing  the  slightest  sign  of   fear.  She
 
 
-86  KOREAN  IMPS,  GHOSTS  AND  FAIRIES
-
-
 laughed  as  usual,  her  light  and  happy  laugh,  and
 her  actions  seemed  wonderfully  free.
 
@@ -3312,8 +2584,7 @@ house  of  the  Deputy.  He  was  not  dressed  in  his
 official  robes,  but  came  simply  in  the  dress  and  hat
 of  a  commoner.  When  he  went  into  the  inner
 quarters  he  met  the  daughter  ；  she  stood  straight
-before  him.  Her  two  hands  were  lifted  in  cere-
-monial form,  but  instead  of  holding  a  fan  to  hide
+before  him.  Her  two  hands  were  lifted  in  ceremonial form,  but  instead  of  holding  a  fan  to  hide
 her  face  she  held  a  sword  before  her.  She  was  very
 pretty.  He  gave  a  great  start  of  surprise,  and
 asked  the  meaning  of  the  knife  that  she  held.  She
@@ -3362,12 +2633,8 @@ note  of  it,  and  praised  her  as  a  true  and  wonderful
 woman.   She  counted  herself  the  real  wife,  but  the
 
 
-88  KOREAN  IMPS,  GHOSTS  AND  FAIRIES
-
-
 first  wife  treated  her  as  a  concubine,  and  all  the
-relatives  said  likewise  that  she  could  never  be  con-
-sidered a  real  wife.  At  that  time  King  Se-jo  fre-
+relatives  said  likewise  that  she  could  never  be  considered a  real  wife.  At  that  time  King  Se-jo  fre-
 quently, in  the  dress  of  a  commoner,  used  to  visit
 Han's  house.  Han  entertained  him  royally  with
 refreshments,  which  his  wife  used  to  bring  and
@@ -3382,8 +2649,7 @@ brought  to  Seoul.  She  wept  while  she  said,
 "Though  I  am  from  a  far-distant  part  of  the
 country  I  am  of  the  gentry  by  ancestry,  and  my
 husband  took  me  with  all  the  required  ceremonies
-of  a  wife,  so  that  I  oug"ht  not  to  be  counted  a  con-
-cubine. But  there  is  no  law  in  this  land  by  which
+of  a  wife,  so  that  I  oug"ht  not  to  be  counted  a  concubine. But  there  is  no  law  in  this  land  by  which
 a  second  real  wife  may  be  taken  after  a  first  real
 wife  exists,  so  they  call  me  a  concubine,  a  matter
 of  deepest  disgrace.  Please,  your  Majesty,  take
@@ -3442,8 +2708,6 @@ of  a  certain  minister,  who  was  very  beautiful  in
 
 form  and  face.   One  day  it  fell  about  that  she  was
 
-90
-
 
 THE  RESOURCEFUL  WIFE  91
 
@@ -3480,31 +2744,25 @@ XXI
 
 THE  BOXED-UP  GOVERNOR
 
-A  certain  literary  official  was  at  one  time  Gover-
-nor of  the  city  of  Kyong-ju.  Whenever  he  visited
-the  Mayor  of  the  place,  it  was  his  custom,  on  see-
-ing dancing-girls,  to  tap  them  on  the  head  with
+A  certain  literary  official  was  at  one  time  Governor of  the  city  of  Kyong-ju.  Whenever  he  visited
+the  Mayor  of  the  place,  it  was  his  custom,  on  seeing dancing-girls,  to  tap  them  on  the  head  with
 his  pipe,  and  say,  "These  girls  are  devils,  ogres,
 goblins.  How  can  you  tolerate  them  in  your
 presence?"
 
 Naturally,  those  who  heard  this  disliked  him,
 and  the  Mayor  himself  detested  his  behaviour  and
-manners.  He  sent  a  secret  message  to  the  dancing-
-girls,  saying,  "If  any  of  you,  by  any  means  what-
+manners.  He  sent  a  secret  message  to  the  dancinggirls,  saying,  "If  any  of  you,  by  any  means  what-
 ever, can  deceive  this  governor,  and  put  him  to
 shame,  I，ll  reward  you  richly."  Among  them  there
 was  one  girl,  a  mere  child,  who  said  she  could.
 
 The  Governor  resided  in  the  quarter  of  the  city
 where  the  Confucian  Temple  was,  and  he  had  but
-one  servant  with  him,  a  young  lad.  The  dancing-
-girl  who  had  decided  to  ensnare  him,  in  the  dress
+one  servant  with  him,  a  young  lad.  The  dancinggirl  who  had  decided  to  ensnare  him,  in  the  dress
 of  a  common  woman  of  the  town,  used  frequently
 
 to  go  by  the  main  gateway  of  the  Temple,  and  in
-
-92
 
 
 THE  BOXED-UP  GOVERNOR  93
@@ -3544,9 +2802,6 @@ down  too,  and  smoke  a  little,  won't  you  ？  "
 
 She  replied,  "How  could  I  dare  do  such  a
 thing?"
-
-
-94    KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 He  said,  "There  is  no  one  else  here  now;  never
@@ -3606,23 +2861,17 @@ I  shall  do  as  you  suggest-  Now  you  be  sure
 to  be  on  hand."  He  repeated  this  two  or  three
 times.
 
-The  woman  went  and  entered  the  house  indi-
-cated. When  evening  came  she  sent  the  hat  by  the
+The  woman  went  and  entered  the  house  indicated. When  evening  came  she  sent  the  hat  by  the
 boy.  The  Governor  arrived  as  agreed,  and  she
-received  him,  lit  the  lamp,  and  brought  him  re-
-freshments and  drink.  They  talked  and  drank
+received  him,  lit  the  lamp,  and  brought  him  refreshments and  drink.  They  talked  and  drank
 together,  and  he  called  her  to  come  to  him.  The
 woman  hesitated  for  a  moment,  when  suddenly
 there  was  a  call  heard  from  the  outside,  and  a  great
 disturbance  took  place.  She  bent  her  head  to  listen
 and  then  gave  a  cry  of  alarm,  saying,  "That's  the
-voice  of  my  husband,  who  has  come.  I  was  un-
-fortunate, and  so  had  this  miserable  wretch
+voice  of  my  husband,  who  has  come.  I  was  unfortunate, and  so  had  this  miserable  wretch
 apportioned  to  my  lot.  He  is  the  most  despicable
 among  mortals.    For  murder  and  arson  he  has  no
-
-
-96  KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 equal.  Three  years  ago  he  left  me  and  I  took
@@ -3701,9 +2950,6 @@ presented  their  case  concerning  the  box.
 H
 
 
-98    KOREAN  IMPS,  GHOSTS  AND  FAIRIES
-
-
 The  Mayor,  after  hearing,  decided  thus  :  "Since
 you  each  have  a  half-share  in  its  purchase,  there  is
 nothing  for  me  to  do  but  to  divide  it  between  you.
@@ -3744,8 +2990,7 @@ THE  BOXED-UP  GOVERNOR  99
 
 and  made  a  dash  for  his  quarters  in  the  Confucian
 Temple.  That  day  he  left  the  place  never  to
-return,  and  even  to  the  present  time  in  Kyong-
-ju  they  laugh  and  tell  the  story  of  the  Boxed-up
+return,  and  even  to  the  present  time  in  Kyongju  they  laugh  and  tell  the  story  of  the  Boxed-up
 Governor.
 
 Im  Bang.
@@ -3764,8 +3009,7 @@ nearer,  and  at  last  took  hold  of  the  side  with  both
 his  hands  and  jumped  in.
 
 "When  I  looked  at  him,"  said  the  merchant,  "I
-found  he  was  an  old  man  without  any  legs.  As-
-tonished, I  asked,  saying,  i  How  is  it,  old  man,  that
+found  he  was  an  old  man  without  any  legs.  Astonished, I  asked,  saying,  i  How  is  it,  old  man,  that
 you  have  lost  your  legs  ？  ，
 
 "  He  said  in  reply,  '  I  lost  my  legs  on  a  trip  once
@@ -3817,9 +3061,6 @@ were  a  hundred  and  fifty  feet  high,  and  so  we  could
 do  nothing  with  them.  We  were  like  fish  in  a  pot ᅳ
 
 
-102   KOREAN  IMPS,  GHOSTS  AND  FAIRIES
-
-
 beyond  all  possible  way  of  escape.  We  held  each
 other's  hands,  and  cried.
 
@@ -3860,8 +3101,7 @@ held  it,  and  so  got  free  at  last  and  out  to  the  open
 sea.
 
 "Again  a  great  wind  arose,  and  we  ran  on  to  the
-rocks  and  were  all  destroyed.  Every  one  was  en-
-gulfed in  the  sea  and  drowned  ；  I  alone  got  hold  of
+rocks  and  were  all  destroyed.  Every  one  was  engulfed in  the  sea  and  drowned  ；  I  alone  got  hold  of
 a  piece  of  boat-timber  and  lived.  Then  there  was  a
 horrible  fish  from  the  sea  that  came  swimming  after
 me  and  bit  off  my  legs.  At  last  I  drifted  back  home
@@ -3883,13 +3123,11 @@ TEN  THOUSAND  DEVILS
 secretary.  He  matriculated  in  the  year  1579  and
 graduated  in  1586.  He  received  the  last  wishes  of
 King  Son-jo,  and  sat  by  his  side  taking  notes  for
-seven  hours.  From  1608  to  1623  he  was  generalis-
-simo of  the  army,  and  later  was  raised  to  the  rank
+seven  hours.  From  1608  to  1623  he  was  generalissimo of  the  army,  and  later  was  raised  to  the  rank
 of  Prince.]
 
 A  certain  Prince  Han  of  Choong-chong  Province
-had  a  distant  relative  who  was  an  uncouth  country-
-man living  in  extreme  poverty.  This  relative  came
+had  a  distant  relative  who  was  an  uncouth  countryman living  in  extreme  poverty.  This  relative  came
 to  visit  him  from  time  to  time.  Han  pitied  his  cold
 and  hungry  condition,  gave  him  clothes  to  wear
 and  shared  his  food,  urging  him  to  stay  and  to
@@ -3905,14 +3143,11 @@ the  New  Year's  season  was  just  at  hand.  Han
 
 urged  him  to  remain,  saying,  "It  would  be  better
 
-104
-
 
 TEN  THOUSAND  DEVILS  105
 
 
-for  you  to  be  comfortably  housed  at  my  home,  eat-
-ing cake  and  soup  and  enjoying  quiet  sleep  rather
+for  you  to  be  comfortably  housed  at  my  home,  eating cake  and  soup  and  enjoying  quiet  sleep  rather
 than  riding  through  wind  and  weather  at  this  season
 of  the  year."
 
@@ -3928,8 +3163,7 @@ should  lose  control  altogether,  and  there  would
 follow  no  end  of  trouble  among  mortals.  It  is  a
 matter  of  no  small  moment,  and  that  is  why  I
 wished  to  go.  Since,  however,  you  have  detained
-me,  I  shall  have  to  call  them  up  in  your  Excel-
-lency's house  and  look  them  over.  I  hope  you  will
+me,  I  shall  have  to  call  them  up  in  your  Excellency's house  and  look  them  over.  I  hope  you  will
 not  object."
 
 Han  was  greatly  astonished  and  alarmed,  but
@@ -3944,11 +3178,7 @@ relation  also  sat  himself  with  all  dignity  facing
 the  south,  while  Prince  Han  took  up  his  station  on
 
 
-106   KOREAN  IMPS,  GHOSTS  AND  FAIRIES
-
-
-the  outside  prepared  to  spy.  Soon  he  saw  a  start-
-ling variety  of  demons  crushing  in  at  the  door,
+the  outside  prepared  to  spy.  Soon  he  saw  a  startling variety  of  demons  crushing  in  at  the  door,
 horrible  in  appearance  and  awesome  of  manner.
 They  lined  up  one  after  another,  and  still  another,
 and  another,  till  they  filled  the  entire  court,
@@ -3956,8 +3186,7 @@ each  bowing  as  he  came  before  the  master,  who,  at
 this  point,  drew  out  a  book,  opened  it  before  him,
 and  began  calling  off  the  names.  Demon  guards
 who  stood  by  the  threshold  repeated  the  call  and
-checked  off  the  names  just  as  they  do  in  a  govern-
-ment yamen.  From  the  second  watch  it  went  on
+checked  off  the  names  just  as  they  do  in  a  government yamen.  From  the  second  watch  it  went  on
 till  the  fifth  of  the  morning.  Han  remarked,  "It
 was  indeed  no  lie  when  he  told  me  *  ten  thousand
 devils.  ，  "
@@ -4012,15 +3241,11 @@ young  I  studied  in  a  monastery  in  the  mountains.
 In  that  monastery  was  an  old  priest  who  had  a
 
 
-108   KOREAN  IMPS,  GHOSTS  AND  FAIRIES
-
-
 most  peculiar  countenance.  A  man  feeble  and
 ready  to  die,  he  seemed.  All  the  priests  made
 sport  of  him  and  treated  him  with  contempt.  I
 alone  had  pity  on  his  age,  and  often  gave  him  of
-my  food  and  always  treated  him  kindly.  One  even-
-ing, when  the  moon  was  bright,  the  old  priest  said
+my  food  and  always  treated  him  kindly.  One  evening, when  the  moon  was  bright,  the  old  priest  said
 to  me,  '  There  is  a  cave  behind  this  monastery  from
 which  a  beautiful  view  may  be  had;  will  you  not
 come  with  me  and  share  it?  J
@@ -4069,8 +3294,7 @@ Han  was  astonished  beyond  measure,  and  asked,
 wonderful  gift  ？  "
 
 The  man  replied,  "Your  Excellency  has  great
-ability,  and  can  do  wonderful  things  ；  but  the  pos-
-sessor of  this  craft  must  be  one  poor  and  despised,
+ability,  and  can  do  wonderful  things  ；  but  the  possessor of  this  craft  must  be  one  poor  and  despised,
 and  of  no  account.  For  you,  a  minister,  it  would
 never  do."
 
@@ -4081,9 +3305,6 @@ alone  among  a  thousand  mountain  peaks,  living  in
 a  little  straw  hut  no  bigger  than  a  cockle  shell.
 No  neighbours. were  there,  nor  any  one  beside.  He
 called  him,  but  he  refused  to  come.    He  sent
-
-
-110  KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 another  messenger  to  invite  him,,  but  he  had  moved
@@ -4106,8 +3327,7 @@ He  was  still  a  young  man  and  unmarried.  His
 education  had  not  been  extensive,  for  he  had  read
 only  a  little  in  the  way  of  history  and  literature.
 For  some  reason  or  other  he  left  his  home  and  went
-into  Kang-won  Province.  Travelling  on  horse-
-back, and  with  a  servant,  he  reached  a  mountain,
+into  Kang-won  Province.  Travelling  on  horseback, and  with  a  servant,  he  reached  a  mountain,
 where  he  was  overtaken  by  rain  that  wet  him
 through.  Mysteriously,  from  some  unknown  cause,
 his  servant  suddenly  died,  and  the  man,  in  fear  and
@@ -4124,9 +3344,6 @@ there  met  him  an  old  man  with  very  wonderful
 eyes,  and  hair  as  white  as  snow.    He  asked  the
 
 in
-
-
-112   KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 young  man  why  he  wept,  and  the  reply  was  that
@@ -4148,13 +3365,11 @@ drew  near  he  saw  a  grove  of  pines,  huge  trees  they
 were,  a  whole  forest  of  them.  Bamboos  appeared,
 too,  in  countless  numbers,  with  a  wide  stream  of
 water  flowing  by.  Underneath  the  water  there
-seemed  to  be  a  marble  flooring  like  a  great  pave-
-ment, white  and  pure.  As  he  went  along  he  saw
+seemed  to  be  a  marble  flooring  like  a  great  pavement, white  and  pure.  As  he  went  along  he  saw
 that  the  water  was  all  of  an  even  depth,  such  as  one
 could  cross  easily.  A  mile  or  so  farther  on  he  saw
 a  beautifully  decorated  house.  The  pillars  and
-entrance  approaches  were  perfect  in  form.  He  con-
-tinued his  way,  wet  as  he  was,  carrying  his  thorn
+entrance  approaches  were  perfect  in  form.  He  continued his  way,  wet  as  he  was,  carrying  his  thorn
 staff,  and  entered  the  gate  and  sat  down  to  rest.
 It  was  paved,  too,  with  marble,  and  smooth  as
 
@@ -4188,39 +3403,30 @@ and  made  a  low  obeisance.
 The  old  man  received  him  kindly,  and  said,  "I
 am  the  master  and  have  long  waited  for  you."  He
 took  him  by  the  hand  and  led  him  away.  As  they
-went  along,  the  hills  grew  more  and  more  enchant-
-ing, while  the  soft  breezes  and  the  light  touched
+went  along,  the  hills  grew  more  and  more  enchanting, while  the  soft  breezes  and  the  light  touched
 him  with  mystifying  favour.    Suddenly,  as  he
 
 
-114   KOREAN  IMPS,  GHOSTS  AND  FAIRIES
-
-
-looked  the  man  was  gone,  so  he  went  on  by  him-
-self, and  arrived  soon  at  another  palace  built  like-
+looked  the  man  was  gone,  so  he  went  on  by  himself, and  arrived  soon  at  another  palace  built  like-
 wise of  precious  stones.  It  was  a  great  hall,
 stretching  on  into  the  distance  as  far  as  the  eye
 could  see.
 
-The  young  man  had  seen  the  Royal  Palace  fre-
-quently when  in  Seoul  attending  examinations,  but
+The  young  man  had  seen  the  Royal  Palace  frequently when  in  Seoul  attending  examinations,  but
 compared  with  this,  the  Royal  Palace  was  as  a  mud
 hut  thatched  with  straw.
 
 As  he  reached  the  gate  a  man  in  ceremonial
 robes  received  him  and  led  him  in.  He  passed
 two  or  three  pavilions,  and  at  last  reached  a  special
-one  and  went  up  to  the  upper  storey.  There,  reclin-
-ing at  a  table,  he  saw  the  ancient  sage  whom  he
+one  and  went  up  to  the  upper  storey.  There,  reclining at  a  table,  he  saw  the  ancient  sage  whom  he
 had  met  before.    Again  he  bowed.
 
 This  young  man,  brought  up  poorly  in  the
 country,  was  never  accustomed  to  seeing  or  dealing
 with  the  great.  In  fear,  he  did  not  dare  to  lift  his
-eyes.  The  ancient  master,  however,  again  wel-
-comed him  and  asked  him  to  be  seated,  saying,
-"This  is  not  the  dusty  world  that  you  are  accus-
-tomed to,  but  the  abode  of  the  genii.  I  knew  you
+eyes.  The  ancient  master,  however,  again  welcomed him  and  asked  him  to  be  seated,  saying,
+"This  is  not  the  dusty  world  that  you  are  accustomed to,  but  the  abode  of  the  genii.  I  knew  you
 were  coming,  and  so  was  waiting  to  receive  you."
 He  turned  and  called,  saying,  "Bring  something
 for  the  guest  to  eat."
@@ -4237,8 +3443,7 @@ hungry  as  he  was,  ate  heartily  of  these  strange
 viands.  Then  the  dishes  were  carried  away  and
 the  old  man  said,  UI  have  a  daughter  who  has
 arrived  at  a  marriageable  age,  and  I  have  been
-trying  to  find  a  son-in-law,  but  as  yet  have  not  suc-
-ceeded. Your  coming  accords  with  this  need.  Live
+trying  to  find  a  son-in-law,  but  as  yet  have  not  succeeded. Your  coming  accords  with  this  need.  Live
 here,  then,  and  become  my  son-in-law."  The  young
 man,  not  knowing  what  to  think,  bowed  and  was
 silent.  Then  the  host  turned  and  gave  an  order,
@@ -4255,16 +3460,12 @@ wedding?  Choose  you  a  lucky  day  and  let  me
 know."
 
 The  two  boys  reckoned  over  the  days  on  their
-fingers,  and  then  together  said,  "The  day  after  to-
-morrow is  a  lucky  day."
+fingers,  and  then  together  said,  "The  day  after  tomorrow is  a  lucky  day."
 
 The  old  man,  turning  to  the  stranger,  said,  "That
 decides  as  to  the  wedding,  and  now  you  must  wait
 in  the  guest-chamber  till  the  time  arrives."  He  then
 gave  a  command  to  call  So  and  So.    In  a  little  an
-
-
-116  KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 official  of  the  genii  came  forward,  dressed  in  light
@@ -4318,8 +3519,7 @@ Palace.  He  took  his  stand  before  her,  though  her
 face  was  hidden  from  him  by  a  fan  of  pearls.  When
 he  saw  her  at  last,  so  beautiful  was  she  that  his  eyes
 were  dazzled.  The  other  women,  compared  with
-her,  were  as  the  magpie  to  the  phoenix.  So  be-
-wildered was  he  that  he  dared  not  look  up.  The
+her,  were  as  the  magpie  to  the  phoenix.  So  bewildered was  he  that  he  dared  not  look  up.  The
 friend  accompanying  assisted  him  to  bow  and  to
 go  through  the  necessary  forms.  The  ceremony
 was  much  the  same  as  that  observed  among  men.
@@ -4332,8 +3532,6 @@ ever  see.
 On  the  second  day  his  mother-in-law  called  him
 to  her.    Her  age  would  be  about  thirty,  and  her
 
-
-118   KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 face  was  like  a  freshly-blown  lotus  flower.  Here
 a  great  feast  was  spread,  with  many  guests  invited.
@@ -4348,8 +3546,7 @@ broke  up.
 
 A  young  man,  brought  up  in  a  country  hut,  had
 all  of  a  sudden  met  the  chief  of  the  genii,  and  had
-become  a  sharer  in  his  glory  and  the  accompani-
-ments of  his  life.  His  mind  was  dazed  and  his
+become  a  sharer  in  his  glory  and  the  accompaniments of  his  life.  His  mind  was  dazed  and  his
 thoughts  overcame  him.  Doubts  were  mixed  with
 fears.    He  knew  not  what  to  do.
 
@@ -4390,8 +3587,7 @@ happy  souls,  some  riding  on  cranes,  some  on  the
 phoenix,  some  on  the  unicorn  ；  some  were  sitting
 on  the  clouds,  some  sailing  by  on  the  wind,  some
 walking  on  the  air,  some  gliding  gently  up  the
-streams,  some  descending  from  above,  some  ascend-
-ing, some  moving  west,  some  north,  some  gather-
+streams,  some  descending  from  above,  some  ascending, some  moving  west,  some  north,  some  gather-
 ing in  groups.  Flutes  and  harps  sounded  sweetly.
 So  many  and  so  startling  were  the  things  seen  that
 he  could  never  tell  the  tale  of  them.  After  the  day
@@ -4402,9 +3598,6 @@ had  gone  by  she  bore  him  two  sons.
 
 Time  moved  on,  when  one  day,  unexpectedly,  as
 he  was  seated  with  his  wife,  he  began  to  cry  and
-
-
-120  KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 tears  soiled  his  face.  She  asked  in  amazement  for
@@ -4459,23 +3652,17 @@ The  genie  servant  said  to  him  when  he  saw  him
 weeping,  "You  have  been  for  several  years  in  the
 abode  of  the  immortals,  but  you  have  not  yet
 attained  thereto,  for  you  have  not  yet  forgotten  the
-seven  things  of  earth :  anger,  sorrow,  fear,  am-
-bition, hate  and  selfishness.  If  you  once  get  rid  of
+seven  things  of  earth :  anger,  sorrow,  fear,  ambition, hate  and  selfishness.  If  you  once  get  rid  of
 these  there  will  be  no  tears  for  you."  On  hearing
 this  he  stopped  his  crying,  wiped  his  cheeks,  and
 asked  pardon.
 
-When  he  had  gone  a  mile  farther  he  found  him-
-self on  the  main  road.  The  servant  said  to  him,
+When  he  had  gone  a  mile  farther  he  found  himself on  the  main  road.  The  servant  said  to  him,
 "You  know  the  way  from  this  point  on,  so  I  shall
 go  back,"  and  thus  at  last  the  young  man  reached
 his  home.
 
-He  found  there  an  exorcising  ceremony  in  pro-
-gress.   Witches  and  spirit  worshippers  had  been
-
-
-122   KOREAN  IMPS,  GHOSTS  AND  FAIRIES
+He  found  there  an  exorcising  ceremony  in  progress.   Witches  and  spirit  worshippers  had  been
 
 
 called  and  were  saying  their  prayers.  The  family,
@@ -4483,8 +3670,7 @@ seeing  the  young  man  come  home  thus,  were  all
 aghast.  "  It  is  his  ghost,"  said  they.  However,  they
 saw  in  a  little  that  it  was  really  he  himself.  The
 mother  asked  why  he  had  not  come  home  in  all  that
-time.  She  being  a  very  violent  woman  in  dis-
-position, he  did  not  dare  to  tell  her  the  truth,  so  he
+time.  She  being  a  very  violent  woman  in  disposition, he  did  not  dare  to  tell  her  the  truth,  so  he
 made  up  something  else.  The  day  of  his  return
 was  the  anniversary  of  his  supposed  death,  and  so
 they  had  called  the  witches  for  a  prayer  ceremony.
@@ -4543,8 +3729,6 @@ of  the  town,  and  then  bade  farewell.  This  was  the
 year  1635.  They  left  and  were  never  heard  of  again.
 
 
-124  KOREAN  IMPS,  GHOSTS  AND  FAIRIES
-
 The  year  following  was  the  Manchu  invasion,
 when  the  village  where  the  young  man  had  lived
 was  all  destroyed.  To  this  day  young  and  old  in
@@ -4573,16 +3757,10 @@ whose  mind  was  upright  and  whose  spirit  was  true
 He  hated  witches  with  all  his  might,  and  regarded
 them  as  deceivers  of  the  people.  "  By  their  so-called
 prayers,"  said  he,  "they  devour  the  people's  goods.
-There  is  no  limit  to  the  foolishness  and  extrava-
-gance that  accompanies  them.  This  doctrine  of
+There  is  no  limit  to  the  foolishness  and  extravagance that  accompanies  them.  This  doctrine  of
 theirs  is  all  nonsense.  Would  that  I  could  rid
 the  earth  of  them  and  wipe  out  their  names  for
 ever."
-
-125
-
-
-126   KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 Some  time  later  Song  was  appointed  magistrate
@@ -4590,8 +3768,7 @@ of  Nam  Won  County  in  Chulla  Province.  On  his
 arrival  he  issued  the  following  order  :  "  If  any  witch
 is  found  in  this  county,  let  her  be  beaten  to  death."
 The  whole  place  was  so  thoroughly  spied  upon  that
-all  the  witches  made  their  escape  to  other  prefec-
-tures. The  magistrate  thought,  "Now  we  are  rid
+all  the  witches  made  their  escape  to  other  prefectures. The  magistrate  thought,  "Now  we  are  rid
 of  them,  and  that  ends  the  matter  for  this  county
 at  any  rate."
 
@@ -4661,13 +3838,10 @@ or  not,  and  then  decide."  So  he  had  the  food
 brought.
 
 
-128    KOREAN  IMPS,  GHOSTS  AND  FAIRIES
-
 The  mutang  said  also,  "I  want  a  suit  of  your
 clothes,  too,  please."  This  was  brought,  and  she
 spread  her  mat  in  the  courtyard,  placed  the  food
-in  order,  donned  the  dress,  and  so  made  all  pre-
-liminary arrangements.  She  then  lifted  her  eyes
+in  order,  donned  the  dress,  and  so  made  all  preliminary arrangements.  She  then  lifted  her  eyes
 toward  heaven  and  uttered  the  strange  magic
 sounds  by  which  spirits  are  called,  meanwhile
 shaking  a  tinkling  bell.  In  a  little  she  turned  and
@@ -4718,8 +3892,7 @@ Confucian  College  were  having  a  picnic  to  celebrate
 the  Spring  Festival.  They  met  in  a  wood  to  the
 north  of  the  college,  near  a  beautiful  spring  of
 water,  and  were  drinking  and  feasting  the  night
-through.  While  they  were  thus  enjoying  them-
-selves the  rooms  of  the  college  were  left  deserted.
+through.  While  they  were  thus  enjoying  themselves the  rooms  of  the  college  were  left  deserted.
 One  student  from  the  country,  a  backwoodsman  in
 his  way,  who  was  of  no  account  to  others,  thought
 that  while  the  rest  went  away  to  enjoy  themselves
@@ -4729,15 +3902,12 @@ forgo  the  pleasures  of  the  picnic,  stay  behind  and
 watch.
 
 The  King  at  that  time  sent  a  eunuch  to  the
-college  to  see  how  many  of  the  students  had  re-
-mained on  guard.  The  eunuch  returned,  saying
+college  to  see  how  many  of  the  students  had  remained on  guard.  The  eunuch  returned,  saying
 that  all  had  gone  off  on  the  picnic,  except  one
 man,  a  raw  countryman,  who  was  in  sole  charge.
 The  King  at  once  sent  for  the  man,  asking  him  to
 
 come  just  as  he  was  in  his  common  clothes.
-
-130
 
 
 WHOM  THE  KING  HONOURS  131
@@ -4770,16 +3940,11 @@ The  King,  delighted,  praised  him  for  his  skill
 and  made  him  a  special  graduate  on  the  spot,  gave
 him  his  diploma,  flowers  for  his  hat,  and  issued  a
 proclamation  saying  that  he  had  passed  the  Alsong
-Examination.  At  once  he  ordered  for  him  the  head-
-gear, the  red  coat,  a  horse  to  ride  on,  two  boys  to
+Examination.  At  once  he  ordered  for  him  the  headgear, the  red  coat,  a  horse  to  ride  on,  two  boys  to
 go  before,  flute-players  and  harpers,  saying,  "Go
 now  to  the  picnic-party  and  show  yourself."
 
-While  the  picnickers  were  thus  engaged,  sud-
-denly they  heard  the  sound  of  flutes  and  harps,  and
-
-
-132   KOREAN  IMPS,  GHOSTS  AND  FAIRIES
+While  the  picnickers  were  thus  engaged,  suddenly they  heard  the  sound  of  flutes  and  harps,  and
 
 
 they  questioned  as  to  what  it  could  mean.  This
@@ -4821,19 +3986,13 @@ There  was  a  palace  secretary  who  knew  this
 countryman,  and  who  went  to  say  good-bye  to  him
 before  he  left.
 
-Taking  advantage  of  the  opportunity,  the  country-
-man said,  "I  have  long  been  in  Seoul,  but  have
+Taking  advantage  of  the  opportunity,  the  countryman said,  "I  have  long  been  in  Seoul,  but  have
 never  yet  seen  the  royal  office  of  the  secretaries.
 Might  I  accompany  you  some  day  when  you  take
 your  turn  ？
 
 The  secretary  said,  "In  the  daytime  there  is
 always  a  crowd  of  people  who  gather  there  for
-
-133
-
-
-134   KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 business,  and  no  one  is  allowed  in  without  a  special
@@ -4876,8 +4035,7 @@ in  the  royal  quarters.  It  was  a  beautiful  park,  with
 trees,  and  lakes,  and  walks.  "Whose  house  is
 this,"  thought  Yoo,  "with  its  beautiful  garden?"
 Suddenly  a  man  appeared,  with  a  nice  new  cap  on
-his  head,  carrying  a  staff  in  his  hand,  and  accom-
-panied by  a  servant,  walking  slowly  towards  him.
+his  head,  carrying  a  staff  in  his  hand,  and  accompanied by  a  servant,  walking  slowly  towards  him.
 It  was  no  other  than  King  Se-jong,  taking  a  stroll
 in  the  moonlight  with  one  of  his  eunuchs.
 
@@ -4899,13 +4057,9 @@ him  sit  down  on  a  mat  beside  him.  So  they  talked
 and  chatted  together.  The  King  learned  that  he
 had  passed  special  examinations  in  the  classics,  and
 inquiring  how  it  was  that  Yoo  had  had  no  better
-office,  Yoo  replied  that  he  was  an  unknown  country-
-man, that  his  family  had  no  influence,  and  that,
+office,  Yoo  replied  that  he  was  an  unknown  countryman, that  his  family  had  no  influence,  and  that,
 while  he  desired  office,  he  was  forestalled  by  the
 powerful  families  of  the  capital.    "Who  is  there,"
-
-
-136  KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 he  asked,  "that  would  bother  himself  about  me?
@@ -4965,8 +4119,7 @@ His  Majesty,  however,  said,  "If  you  are  so
 opposed  to  it,  Fll  desist."
 
 But  the  day  following  he  appointed  him  to  an
-office  one  degree  still  higher.  Again  they  all  pro-
-tested, and  his  Majesty  said,  "Really,  if  you  so
+office  one  degree  still  higher.  Again  they  all  protested, and  his  Majesty  said,  "Really,  if  you  so
 object,  Fll  drop  the  matter."
 
 The  day  following  he  appointed  him  to  an  office
@@ -4977,9 +4130,6 @@ the  protests  poured  in,  so  much  so  that  his  Majesty
 seemed  to  yield.  On  the  day  following  this  the
 King  wrote  out  for  him  the  office  of  Vice-President
 of  all  the  Literati.
-
-
-138   KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 The  high  officials  gathered  again  and  inquired
@@ -5004,8 +4154,7 @@ The  King  made  no  reply,  but  ordered  a  eunuch
 to  bring  the  Book  of  Changes.  He  opened  it  at
 the  place  of  special  difficulty,  and  inquired  as  to
 its  meaning.  Even  among  the  highest  ministers
-not  one  could  give  an  answer.  He  inquired  by-
-name of  this  one  and  that,  but  all  were  silent.  The
+not  one  could  give  an  answer.  He  inquired  byname of  this  one  and  that,  but  all  were  silent.  The
 King  then  said,  "I  am  greatly  interested  in  the
 reading  of  the  Book  of  Changes  ；  it  is  the  great
 book  of  the  sages.  Any  one  who  understands  it
@@ -5028,8 +4177,7 @@ mention  it.
 Yoo  from  that  time  on  became  the  royal  teacher
 of  the  Choo-yuk  (Book  of  Changes),  and  rose
 higher  and  higher  in  rank,  till  he  became  Head  of
-the  Confucian  College  and  first  in  influence,  sur-
-passing all.
+the  Confucian  College  and  first  in  influence,  surpassing all.
 
 Note. — Many  people  of  ability  have  no  chance
 for  promotion.  It  is  difficult  to  have  one's  gifts
@@ -5047,9 +4195,6 @@ another's  path  was  opened  to  high  promotion.
 
 If  Se-jong  had  not  been  a  great  and  enlightened
 king,  how  could  it  have  happened  ？   Very  rare  are
-
-
-140   KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 such  happenings,  indeed  ！  So  all  men  wondered
@@ -5074,8 +4219,7 @@ was  involved  in  it  and  locked  up  as  well.  We
 often  met  in  prison  and  whiled  away  the  hours
 talking  together.  On  a  certain  day  the  talk  turned
 on  goblins,  when  Captain  Choi  said,  "When  I  was
-young  I  met  with  a  hobgoblin,  which,  by  the  frac-
-tion of  a  hair,  almost  cost  me  my  life.  A  strange
+young  I  met  with  a  hobgoblin,  which,  by  the  fraction of  a  hair,  almost  cost  me  my  life.  A  strange
 case  indeed  ！  "
 
 I  asked  him  to  tell  me  of  it,  when  he  replied,  "I
@@ -5095,17 +4239,11 @@ that  she  was  from  the  home  of  a  scholar  friend,  for
 
 I  had  seen  her  before  and  had  been  greatly  attracted
 
-141
-
-
-142  KOREAN  IMPS,  GHOSTS  AND  FAIRIES
-
 
 by  her  beauty,  but  had  never  had  a  chance  to  meet
 her.  Now,  seeing  her  enter  the  room  thus,  I  greeted
 her  gladly,  but  she  made  no  reply.  I  arose  to  take
-her  by  the  hand,  when  she  began  walking  back-
-wards, so  that  my  hand  never  reached  her.  I
+her  by  the  hand,  when  she  began  walking  backwards, so  that  my  hand  never  reached  her.  I
 rushed  towards  her,  but  she  hastened  her  backward
 pace,  so  that  she  eluded  me.  We  reached  the  gate,
 which  she  opened  with  a  rear  kick,  and  I  followed
@@ -5117,16 +4255,14 @@ dreamed  of  anything  else.
 "On  the  next  night  she  came  again  and  stood
 before  the  lamp  just  as  she  had  done  the  night
 previous.  I  got  up  and  again  tried  to  take  hold
-of  her,  but  again  she  began  her  peculiar  pace  back-
-wards, till  she  passed  out  at  the  gate  and  disappeared
+of  her,  but  again  she  began  her  peculiar  pace  backwards, till  she  passed  out  at  the  gate  and  disappeared
 just  as  she  had  done  the  day  before.  I  was  once
 more  surprised  and  disappointed,  but  did  not  think
 of  her  being  a  hobgoblin.
 
 "A  few  days  later,  at  night,  I  had  lain  down,
 when  suddenly  there  was  a  sound  of  crackling
-paper  overhead  from  above  the  ceiling.  A  for-
-bidding, creepy  sound  it  seemed  in  the  midnight.
+paper  overhead  from  above  the  ceiling.  A  forbidding, creepy  sound  it  seemed  in  the  midnight.
 A  moment  later  a  curtain  was  let  down  that  divided
 the  room  into  two  parts.  Again,  later,  a  large  fire
 of  coals  descended  right  in  front  of  me,  while  an
@@ -5168,12 +4304,8 @@ reply,  '  It's  none  of  your  business,  none  of  your
 business  ，；  but  they  still  kept  up  the  cry,  '  Don't
 
 
-144  KOREAN  IMPS,  GHOSTS  AND  FAIRIES
-
-
 hurt  him,  don't  hurt  him  ，  ；  and  he,  on  the  other
-hand,  cried,  '  Never  you  mind  ；  none  of  your  busi-
-ness.' They  shouted,  *  The  man  is  a  gentleman  of
+hand,  cried,  '  Never  you  mind  ；  none  of  your  business.' They  shouted,  *  The  man  is  a  gentleman  of
 the  military  class  ；  do  not  hurt  him.,
 
 "The  fellow  merely  said  in  reply,  i  Even  though
@@ -5185,8 +4317,7 @@ Choong-chong,  and  at  last  fell  to  the  ground  in
 Chulla.  In  my  flight  through  space  I  saw  all  the
 county  towns  of  the  three  provinces  as  clear  as  day.
 Again  in  Chulla  he  tossed  me  up  once  more.  Again
-I  went  shooting  up  into  the  sky  and  falling  north-
-ward, till  I  found  myself  at  home,  lying  stupefied
+I  went  shooting  up  into  the  sky  and  falling  northward, till  I  found  myself  at  home,  lying  stupefied
 below  the  verandah  terrace.  Once  more  I  could
 hear  the  voices  of  the  group  in  the  garden  shouting,
 *  Don't  hurt  him ᅳ hurt  him.'  But  the  man  said,
@@ -5263,8 +4394,6 @@ of  its  father,  and  when  it  saw  him  it  used  to  cry
 
 and  seem  greatly  frightened.    As  it  grew  it  hated
 
-146
-
 
 THE  SNAKE'S  REVENGE  147
 
@@ -5299,9 +4428,6 @@ scar  mark  of  the  arrow  that  he  had  shot.  He  said
 to  the  snake,  "You  and  I  were  originally  not
 enemies,  I  therefore  did  wrong  in  shooting  you  as
 I  did;  but  your  intention  to  take  revenge  through
-
-
-148   KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 becoming  my  son  was  a  horrible  deed.  Such  a
@@ -5353,11 +4479,9 @@ THE  BRAVE  MAGISTRATE
 
 In  olden  times  in  one  of  the  counties  of  North
 Ham-kyong  Province,  there  was  an  evil-smelling
-goblin  that  caused  great  destruction  to  life.  Suc-
-cessive magistrates  appeared,  but  in  ten  days  or  so
+goblin  that  caused  great  destruction  to  life.  Successive magistrates  appeared,  but  in  ten  days  or  so
 after  arrival,  in  each  case  they  died  in  great  agony,
-so  that  no  man  wished  to  have  the  billet  or  any-
-thing to  do  with  the  place.  A  hundred  or  more
+so  that  no  man  wished  to  have  the  billet  or  anything to  do  with  the  place.  A  hundred  or  more
 were  asked  to  take  the  post,  but  they  all  refused.
 At  last  one  brave  soldier,  who  was  without  any
 influence  socially  or  politically,  accepted.  He  was
@@ -5373,8 +4497,6 @@ stinking  odour,  that  grew  gradually  more  and  more
 marked.
 
 After  five  or  six  days  he  took  note,  too,  that  what
-
-150
 
 
 THE  BRAVE  MAGISTRATE  151
@@ -5409,9 +4531,6 @@ saw  him  fallen  to  the  earth,  but  they  remarked  that
 the  bodies  of  others  who  had  died  from  this  evil
 had  all  been  left  on  the  verandah,  but  his  was  in
 the  lower  court.    They  raised  him  up  in  order  to
-
-
-152    KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 prepare  him  for  burial,  when  suddenly  he  came  to
@@ -5457,10 +4576,6 @@ In  the  tents  of  the  Turk  the  music  thrills
 And  the  wine-cups  chink  for  joy,
 'Mid  the  noise  of  the  dancer's  savage  tread
 And  the  lilt  of  the  wild  hautboy."
-153
-
-
-154  KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 At  twelve  years  of  age  he  was  proud,  we  are  told,
@@ -5474,8 +4589,7 @@ but  he  replied,  saying,  "Mother,  when  others
 wanted  it  so,  how  could  I  refuse  giving?"  His
 mother  pondered  these  things  in  her  heart.
 
-When  he  was  fifteen  he  was  strong  and  well-
-built,  and  liked  vigorous  exercise,  so  that  he  was
+When  he  was  fifteen  he  was  strong  and  wellbuilt,  and  liked  vigorous  exercise,  so  that  he  was
 a  noted  wrestler  and  skilful  at  shuttlecock.  His
 mother,  however,  frowned  upon  these  things,
 saying  that  they  were  not  dignified,  so  that  he
@@ -5521,8 +4635,7 @@ said  he,  "you  ought  not  to  continue  without
 temples  in  which  to  express  your  gratitude  to  him."
 So  they  built  him  houses  of  worship  and  offered
 him  sacrifice.  The  Temples  built  were  one  to  the
-south  and  one  to  the  east  of  the  city.  In  examin-
-ing sites  for  these  they  could  not  agree  on  the  one
+south  and  one  to  the  east  of  the  city.  In  examining sites  for  these  they  could  not  agree  on  the  one
 to  the  south.  Some  wanted  it  nearer  the  wall  and
 some  farther  away.  At  that  time  an  official,  called
 Yi  Hang-bok,  was  in  charge  of  the  conference.
@@ -5530,9 +4643,6 @@ On  a  certain  day  when  Yi  was  at  home  a  military
 officer  called  and  wished  to  see  him.  Ordering
 him  in  he  found  him  a  great  strapping  fellow,
 splendidly  built.    His  request  was  that  Yi  should
-
-
-156   KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 send  out  all  his  retainers  till  he  talked  to  him
@@ -5576,8 +4686,7 @@ A  VISIT  FROM  THE  SHADES
 mother's  ghost  is  reported  to  be  of  this  man.)
 
 Choi  Yu-won  matriculated  in  1579  and  graduated
-in  1602,  becoming  Chief  Justice  and  having  con-
-ferred on  him  the  rank  of  prince.  When  he  was
+in  1602,  becoming  Chief  Justice  and  having  conferred on  him  the  rank  of  prince.  When  he  was
 a  boy  his  great-aunt  once  gave  him  cloth  for  a
 suit  of  clothes,  but  he  refused  to  accept  of  it,  and
 from  this  his  aunt  prophesied  that  he  would  yet
@@ -5594,11 +4703,6 @@ be  truly  transformed  will  the  soul  change  as  well
 as  the  body,  or  the  body  only  ？  Chang  replied,
 "  Both  are  changed,  for  how  could  the  body  change
 without  the  soul  ？  ，，    Yu-won  asked  Yul-gok  con-
-
-157
-
-
-158   KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 cerning  this  also,  and  Yul-gok  replied  that  Chang's
@@ -5645,8 +4749,7 @@ The  Story
 
 There  was  a  minister  in  olden  days  who  once,
 when  he  was  Palace  Secretary,  was  getting  ready
-for  office  in  the  morning.  He  had  on  his  cere-
-monial dress.  It  was  rather  early,  and  as  he  leaned
+for  office  in  the  morning.  He  had  on  his  ceremonial dress.  It  was  rather  early,  and  as  he  leaned
 on  his  arm-rest  for  a  moment,  sleep  overcame  him.
 He  dreamt,  and  in  the  dream  he  thought  he  was
 mounted  and  on  his  journey.  He  was  crossing  the
@@ -5663,16 +4766,12 @@ are,  and  so  I  walk."
 The  secretary  asked,  "Where  are  you  going,
 please  ？  ，，
 
-She  replied,  "  We  have  a  servant  living  at  Yong-
-san,  and  they  are  having  a  witches'  prayer  service
+She  replied,  "  We  have  a  servant  living  at  Yongsan,  and  they  are  having  a  witches'  prayer  service
 there  just  now,  so  I  am  going  to  partake  of  the
 sacrifice."
 
 "But,"  said  the  secretary,  "we  have  sacrificial
 days,  many  of  them,  at  our  own  home,  those  of  the
-
-
-160  KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 four  seasons,  also  on  the  first  and  fifteenth  of  each
@@ -5702,10 +4801,8 @@ first  into  the  kitchen  to  warm  his  hands  before  the
 fire.  There  was  a  fellow-servant  there  who  asked
 him,  "  Have  you  had  something  to  drink  ？  "
 
-He  replied,  "They  are  having  a  big  witch  busi-
-ness on  at  Yong-san,  and  while  the  mutang  (witch)
-was  performing,  she  said  that  the  spirit  that  pos-
-sessed her  was  the  mother  of  the  master  here.  On
+He  replied,  "They  are  having  a  big  witch  business on  at  Yong-san,  and  while  the  mutang  (witch)
+was  performing,  she  said  that  the  spirit  that  possessed her  was  the  mother  of  the  master  here.  On
 my  appearance  she  called  out  my  name  and  said,
 4  This  is  a  servant  from  our  house.'    Then  she
 
@@ -5721,11 +4818,9 @@ The  secretary,  overhearing  this  talk  from  the
 room  where  he  was  waiting,  broke  down  and
 began  to  cry.  He  called  in  the  servant  and  made
 fuller  inquiry,  and  more  than  ever  he  felt  assured
-that  his  mother's  spirit  had  really  gone  that  morn-
-ing to  share  in  the  koot  (witches'  sacrificial  cere-
+that  his  mother's  spirit  had  really  gone  that  morning to  share  in  the  koot  (witches'  sacrificial  cere-
 mony). He  then  called  the  mutang,  and  in  behalf
-of  the  spirit  of  his  mother  made  her  a  great  offer-
-ing. Ever  afterwards  he  sacrificed  to  her  four
+of  the  spirit  of  his  mother  made  her  a  great  offering. Ever  afterwards  he  sacrificed  to  her  four
 times  a  year  at  each  returning  season.
 
 Im  Bang.
@@ -5741,8 +4836,7 @@ THE  FEARLESS  CAPTAIN
 
 There  was  formerly  a  soldier,  Yee  Man-ji  of
 Yong-nam,  a  strong  and  muscular  fellow,  and  brave
-as  a  lion.  He  had  green  eyes  and  a  terrible  coun-
-tenance. Frequently  he  said,  "Fear!  What  is
+as  a  lion.  He  had  green  eyes  and  a  terrible  countenance. Frequently  he  said,  "Fear!  What  is
 fear  ？  "  On  a  certain  day  when  he  was  in  his  house
 a  sudden  storm  of  rain  came  on,  when  there  were
 flashes  of  lightning  and  heavy  claps  of  thunder.
@@ -5754,16 +4848,13 @@ Several  times  it  went  and  came  bouncing  about.  Its
 blazing  light  and  the  accompanying  noise  made  it  a
 thing  of  terror.
 
-Yee  sat  in  the  outer  verandah,  wholly  undis-
-turbed. He  thought  to  himself,  "I  have  done  no
+Yee  sat  in  the  outer  verandah,  wholly  undisturbed. He  thought  to  himself,  "I  have  done  no
 wrong,  therefore  why  need  I  fear  the  lightning  ？  "
 A  moment  later  a  flash  struck  the  large  elm  tree  in
 front  of  the  house  and  smashed  it  to  pieces.  The
 rain  then  ceased  and  the  thunder  likewise.
 
 Yee  turned  to  see  how  it  fared  with  his  family,
-
-162
 
 
 THE  FEARLESS  CAPTAIN  163
@@ -5773,20 +4864,17 @@ and  found  them  all  fallen  senseless.  With  the
 greatest  of  difficulty  he  had  them  restored  to  life.
 During  that  year  they  all  fell  ill  and  died,  and  Yee
 came  to  Seoul  and  became  a  Captain  of  the  Right
-Guard.  Shortly  after  he  went  to  North  Ham-
-kyong  Province.  There  he  took  a  second  wife  and
+Guard.  Shortly  after  he  went  to  North  Hamkyong  Province.  There  he  took  a  second  wife  and
 settled  down.  All  his  predecessors  had  died  of
 goblin  influences,  and  the  fact  that  calamity  had
 overtaken  them  while  in  the  official  quarters  had
 caused  them  to  use  one  of  the  village  houses  instead.
 
 Yee,  however,  determined  to  live  down  all  fear
-and  go  back  to  the  old  quarters,  which  he  exten-
-sively repaired.
+and  go  back  to  the  old  quarters,  which  he  extensively repaired.
 
 One  night  his  wife  was  in  the  inner  room  while
-he  was  alone  in  the  public  office  with  a  light  burn-
-ing before  him.  In  the  second  watch  or  thereabout,
+he  was  alone  in  the  public  office  with  a  light  burning before  him.  In  the  second  watch  or  thereabout,
 a  strange-looking  object  came  out  of  the  inner
 quarters.  It  looked  like  the  stump  of  a  tree  wrapped
 in  black  sackcloth.  There  was  no  outline  or  definite
@@ -5799,9 +4887,6 @@ to  him.  Yee  moved  away  till  he  had  backed  up
 against  the  wall  and  could  go  no  farther.  Then  he
 said,  u  Who  are  you,  anyhow  ；  what  kind  of  devil,
 pray,  that  you  dare  to  push  towards  me  so  in  my
-
-
-164   KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 office  ？  If  you  have  any  complaint  or  matter  to  set
@@ -5871,9 +4956,6 @@ Glancing  up  he  saw  what  looked  like  a  king  seated
 165  "
 
 
-166   KOREAN  IMPS,  GHOSTS  AND  FAIRIES
-
-
 on  a  throne  ；  grouped  about  him  on  each  side  were
 attendant  officers.  There  were  also  scores  of
 secretaries  and  soldiers  going  and  coming  on
@@ -5888,8 +4970,7 @@ How  old  are  you  ？  What  do  you  do  for  a  living  ？
 Tell  me  the  truth  now,  and  no  dissembling."
 
 The  scholar,  frightened  to  death,  replied,  "My
-clan  name  is  So-and-so,  and  my  given  name  is  So-
-and-so.  I  am  so  old,  and  I  have  lived  for  several
+clan  name  is  So-and-so,  and  my  given  name  is  Soand-so.  I  am  so  old,  and  I  have  lived  for  several
 generations  at  Yon-nan,  Whang-hai  Province.  I
 am  stupid  and  ill-equipped  by  nature,  so  have  not
 done  anything  special.  I  have  heard  all  my  life
@@ -5913,8 +4994,7 @@ The  scholar  joined  his  hands  and  made  a  deep
 bow.  Again  the  secretary  transmitted  a  message
 from  the  King,  saying,  "My  house,  when  on  earth,
 was  in  such  a  place  in  such  and  such  a  ward  of
-Seoul.  When  you  go  back  I  want  to  send  a  mes-
-sage by  you.  My  coming  here  is  long,  and  the
+Seoul.  When  you  go  back  I  want  to  send  a  message by  you.  My  coming  here  is  long,  and  the
 outer  coat  I  wear  is  worn  to  shreds.  Ask  my  people
 to  send  me  a  new  outer  coat.  If  you  do  so  I  shall
 be  greatly  obliged,  so  see  that  you  do  not  forget."
@@ -5942,9 +5022,6 @@ coat ？  "
 
 1  The  head  button  is  the  insignia  of  rank,  and  is  consequently
 a  valuable  heirloom  in  a  Korean  home. ― J.  S.  G.
-
-
-168   KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 The  reply  was,  "  Prepare  a  sacrifice,  offer  the  coat
@@ -6019,9 +5096,6 @@ scholar  and  asked  him  specially  of  what  he  had
 seen .  So  they  made  the  outer  coat,  chose  a  day,  and
 
 
-170   KOREAN  IMPS,  GHOSTS  AND  FAIRIES
-
-
 offered  it  by  fire  before  the  ancestral  altar.  Three
 days  after  the  sacrifice  the  scholar  dreamed,  and  the
 fam'ily  of  Pak  dreamed  too,  that  the  King  of  Hades
@@ -6069,13 +5143,7 @@ On  receiving  it  he  said,  "This  year  I  shall  die,"
 and  a  little  later  he  died.
 
 In  the  year  1594,  Hong  fell  ill  of  typhus  fever,
-and  after  ten  days  of  suffering,  died.  They  pre-
-pared his  body  for  burial,  ^nd  placed  it  in  a  coffin.
-
-171
-
-
-172   KOREAN  IMPS,  GHOSTS  AND  FAIRIES
+and  after  ten  days  of  suffering,  died.  They  prepared his  body  for  burial,  ^nd  placed  it  in  a  coffin.
 
 
 Then  the  friends  and  relatives  left,  and  his  wife
@@ -6093,8 +5161,7 @@ wearing  bulls'  heads,  and  some  with  faces  of  wild
 beasts.  They  crowded  about  and  jumped  and
 pounced  toward  me  in  all  directions.  A  scribe
 robed  in  black  sat  on  a  platform  and  addressed  me,
-saying,  4  There  are  three  religions  on  earth,  Con-
-fucianism, Buddhism  and  Taoism.  According  to
+saying,  4  There  are  three  religions  on  earth,  Confucianism, Buddhism  and  Taoism.  According  to
 Buddhism,  you  know  that  heaven  and  hell  are
 places  that  decide  between  man's  good  and  evil
 deeds.  You  have  ever  been  a  blasphemer  of  the
@@ -6145,9 +5212,6 @@ great  stones  placed  before  it.  The  offenders  were
 called  up,  and  made  to  kneel  before  the  pillar.
 
 
-174   KOREAN  IMPS,  GHOSTS  AND  FAIRIES
-
-
 Then  I  saw  an  executioner  take  a  knife  and  drive
 a  hole  through  the  tongues  of  the  offenders,  pass
 an  iron  chain  through  each,  and  hang  them  to  the
@@ -6172,8 +5236,7 @@ them  ；  then  metal  snakes  and  copper  dogs  crowded
 in  to  bite  them  and  suck  their  blood.  Their
 screams  of  pain  made  the  earth  to  tremble.  The
 guides  said  to  me,  4  When  these  offenders  were  on
-earth  they  held  high  office,  and  while  they  pre-
-tended to  be  true  and  good  they  received  bribes  in
+earth  they  held  high  office,  and  while  they  pretended to  be  true  and  good  they  received  bribes  in
 secret  and  were  doers  of  all  evil.  As  Ministers  of
 State  they  ate  the  fat  of  the  land  and  sucked  the
 blood  of  the  people,  and  yet  advertised  themselves
@@ -6215,9 +5278,6 @@ of  heaven  and  hell.   What  do  you  think  of  it?  '
 "Then  the  black-coated  scribe  said,  '  I  am
 sending  this  man  away  ；  see  him  safely  off.'  The
 spirit  soldiers  took  me  with  them,  and  while  on  the
-
-
-176   KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 way  I  awakened  with  a  start,  and  found  that  I  had
@@ -6274,9 +5334,6 @@ chink,  there  was  seen  to  be  in  the  room  a  tablet
 thair  and  a  stand  for  it;  also  there  was  an  old  harp
 without  any  strings,  a  pair  of  worn  shoes,  and  some
 n  177
-
-
-178   KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 sticks  and  bits  of  wood.  Nothing  else  was  in  the
@@ -6345,17 +5402,12 @@ burned.  The  dogs  lay  as  they  were  all  day  long,
 and  neither  ate  nor  moved.    Some  of  the  party
 
 
-180   KOREAN  IMPS,  GHOSTS  AND  FAIRIES
-
-
-wished  to  kill  the  brutes,  but  were  afraid,  so  fear-
-some was  their  appearance.
+wished  to  kill  the  brutes,  but  were  afraid,  so  fearsome was  their  appearance.
 
 This  night  again  they  remained,  desiring  to  see
 if  the  same  phenomena  would  appear.  Again  at
 midnight  the  two  dogs  got  down  into  the  court  and
-began  barking  up  at  the  sky.  The  man  in  cere-
-monial robes  again  came,  and  the  devils,  just  as  the
+began  barking  up  at  the  sky.  The  man  in  ceremonial robes  again  came,  and  the  devils,  just  as  the
 day  before.
 
 The  company,  in  fear  and  disgust,  left  the
@@ -6379,8 +5431,7 @@ out  the  fire,  restored  the  things  and  left  the  house.
 Again  there  was  another  homeless  man  who  tried
 it.  In  the  night  a  woman  in  a  blue  skirt  came  down
 from  the  loft,  and  acted  in  a  peculiar  and  uncanny
-way.  The  man,  seeing  this,  picked  up  his  belong-
-ings and  left.
+way.  The  man,  seeing  this,  picked  up  his  belongings and  left.
 
 
 HAUNTED  HOUSES  181
@@ -6437,19 +5488,13 @@ was  and  how  he  ought  to  go.    The  woodman
 
 directed  him  to  a  cliff  opposite,  "where,"  said  he,
 
-182
-
 
 IM，  THE  HUNTER
 
 
-183
-
-
 "there  is  a  house."  Im  heard  this  and  crossed  over
 to  the  farther  ridge.  On  approaching  more  nearly
-he  found  a  great  tiled  mansion  standing  alone  with-
-out a  single  house  about  it.  He  went  in  by  the
+he  found  a  great  tiled  mansion  standing  alone  without a  single  house  about  it.  He  went  in  by  the
 main  gateway,  but  found  all  quiet  and  dark  and  no
 one  in  sight.  It  was  a  vacant  house,  evidently
 deserted.  After  travelling  all  day  in  the  hills  Im
@@ -6457,29 +5502,23 @@ was  full  of  fears  and  creepy  feelings.  So  he  viewed
 the  place  with  mistrust,  fearing  that  there  might
 be  hill  goblins  in  it  or  tree  devils,  but  a  moment
 later  some  one  opened  the  room  door  and  shouted
-out,  "Do  you  sleep  here ？  Have  you  had  some-
-thing to  eat ？  "
+out,  "Do  you  sleep  here ？  Have  you  had  something to  eat ？  "
 
 Im  looked  and  discovered  that  it  was  the  same
 person  that  had  directed  him  on  his  way.  He  said
 in  reply,  "I  have  not  eaten  anything  and  am
 hungry."  So  the  man  opened  the  wall  box  and
-brought  him  out  wine  and  meat.  He,  being  exceed-
-ingly hungry,  ate  all.  Then  they  sat  down  to  talk
+brought  him  out  wine  and  meat.  He,  being  exceedingly hungry,  ate  all.  Then  they  sat  down  to  talk
 together,  and  after  a  little  the  woodman  got  up,
 opened  the  box  once  more,  and  took  from  it  a  great
 sword.  Im  asked,  "What  is  this  you  have ；  do  you
 intend  to  kill  me  ？  ，，
 
 The  woodman  laughed  and  said,  "No,  no,  but
-to-night  there  is  something  on  hand  worth  the  see-
-ing.   Will  you  come  with  me  and  not  be  afraid  ？  "
+to-night  there  is  something  on  hand  worth  the  seeing.   Will  you  come  with  me  and  not  be  afraid  ？  "
 
 Im  said,  "Of  course  I  am  not  afraid  ；  I  want  to
 see."
-
-
-184   KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 It  was  then  about  midnight,  and  the  woodman,
@@ -6497,18 +5536,14 @@ of  the  lake  and  a  large  tree  near  it,  up  which  the
 woodman  told  Im  to  climb.
 
 "When  you  get  well  up,"  said  he,  "take  your
-belt,  tie  yourself  fast  to  the  trunk  and  keep  per-
-fectly still."
+belt,  tie  yourself  fast  to  the  trunk  and  keep  perfectly still."
 
-Im  climbed  the  tree  as  directed,  and  made  him-
-self secure.  From  this  point  of  vantage  he  looked
-intently,  and  the  first  thing  he  saw  was  the  wood-
-man give  a  leap  that  cleared  the  lake  and  landed
+Im  climbed  the  tree  as  directed,  and  made  himself secure.  From  this  point  of  vantage  he  looked
+intently,  and  the  first  thing  he  saw  was  the  woodman give  a  leap  that  cleared  the  lake  and  landed
 him  in  the  pavilion.  At  once  he  ascended  to  the
 upper  storey,  and  now  Im  could  distinguish  three
 persons  sitting  talking  and  laughing.  He  heard
-the  woodman,  after  drinking,  say  to  his  neigh-
-bour, "We  have  made  our  wager,  now  let's  see
+the  woodman,  after  drinking,  say  to  his  neighbour, "We  have  made  our  wager,  now  let's  see
 it  out."  The  man  replied,  u  Let's  do  so."  Then
 both  arose,  came  down  to  the  entrance,  and  vaulted
 off  into  mid-air,  where  they  disappeared  from  sight.
@@ -6517,11 +5552,7 @@ off  into  mid-air,  where  they  disappeared  from  sight.
 IM，  THE  HUNTER
 
 
-185
-
-
-Nothing  could  be  distinguished  now  but  the  clash-
-ing of  steel  and  flashes  of  fire,  which  kept  up  for
+Nothing  could  be  distinguished  now  but  the  clashing of  steel  and  flashes  of  fire,  which  kept  up  for
 a  long  time.
 
 In  beholding  this  from  the  tree  top,  where  he
@@ -6529,8 +5560,7 @@ was  stationed,  his  bones  grew  cold  and  his  hair
 stood  stiff  on  end.  He  knew  not  what  to  do.
 Then  a  moment  later  he  heard  something  fall  to
 the  ground  with  a  great  thud.  A  cry  of  victory
-arose  too,  and  he  recognized  that  it  was  the  wood-
-man's voice.  Chills  ran  all  over  him,  and  goose-
+arose  too,  and  he  recognized  that  it  was  the  woodman's voice.  Chills  ran  all  over  him,  and  goose-
 flesh  covered  his  skin  ；  only,  after  a  long  time  could
 he  gain  control  of  himself.  He  came  down  from
 the  tree  and  the  woodman  met  him,  took  him
@@ -6542,8 +5572,7 @@ now  she  was  overcome  with  grief  and  tears.
 
 The  woodman  spoke  roughly  to  her,  saying,  "  Do
 you  not  know  that  you,  a  wicked  woman,  have
-caused  the  death  of  a  great  man  ？  "  The  wood-
-man said  also  to  Im,  "You  have  courage  and  valour
+caused  the  death  of  a  great  man  ？  "  The  woodman said  also  to  Im,  "You  have  courage  and  valour
 in  your  way,  but  it  is  not  sufficient  to  meet  a  world
 like  this.  I  will  now  give  you  this  woman,  and
 this  house,  so  you  can  bid  farewell  to  the  dusty
@@ -6551,9 +5580,6 @@ world  and  live  here  in  peace  and  quiet  for  the  rest
 of  your  days."
 
 Im  replied,  "What  I  have  seen  to-night  I  am  at
-
-
-186  KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 a  loss  to  understand.  I'd  like  to  know  the  meaning
@@ -6576,8 +5602,7 @@ then,  off  my  hands,  will  you,  and  the  woman  too  ？  "
 But  Im  asked,  "Who  was  the  man,  and  where
 did  he  live  ？  "
 
-"There  were,"  said  the  woodman,  "mighty  possi-
-bilities in  him,  though  he  lived  humbly  inside  the
+"There  were,"  said  the  woodman,  "mighty  possibilities in  him,  though  he  lived  humbly  inside  the
 South  Gate  of  Seoul  and  sold  cut  tobacco.  He
 came  here  frequently,  and  I  knew  it,  though  I
 winked  at  it  all  until  they  attempted  to  kill  me,  and
@@ -6590,9 +5615,6 @@ make  any  mark  in  the  world.    You  will  fail  half-
 
 
 IM，  THE  HUNTER
-
-
-187
 
 
 way,  the  Fates  have  so  decided.  Cease  from  any
@@ -6609,8 +5631,7 @@ death,  so  here  I，ll  have  done  with  it,"  and  he
 struck  her  with  his  sword  and  cut  off  her  head.
 
 The  day  following  he  said  to  Im,  "Since  you
-are  determined  to  go  forth  and  do  valiantly,  I  can-
-not stop  you,  but  if  a  man  goes  forth  thus  and
+are  determined  to  go  forth  and  do  valiantly,  I  cannot stop  you,  but  if  a  man  goes  forth  thus  and
 does  not  know  the  use  of  the  sword  he  is  helpless,
 and  at  the  mercy  of  the  foe.  Stay  with  me  a  little
 and  learn.    I'll  teach  you."
@@ -6629,8 +5650,7 @@ THE  MAGIC  INVASION  OF  SEOUL
 A  gentleman  of  Seoul  was  one  day  crossing  the
 Han  River  in  a  boat.  In  the  crossing,  he  nodded
 for  a  moment,  fell  asleep  and  dreamed  a  dream.
-In  his  dream  he  met  a  man  who  had  Gothic  eye-
-brows and  almond  eyes,  whose  face  was  red  as
+In  his  dream  he  met  a  man  who  had  Gothic  eyebrows and  almond  eyes,  whose  face  was  red  as
 ripened  dates,  and  whose  height  was  eight  cubits
 and  a  span.  He  was  dressed  in  green  and  had  a
 long  beard  that  came  down  to  his  belt-string.  A
@@ -6638,8 +5658,7 @@ man  of  majestic  appearance  he  was,  with  a  great
 sword  at  his  side  and  he  rode  on  a  red  horse.
 
 He  asked  the  gentleman  to  open  his  hand,  which
-he  did,  and  then  the  august  stranger  dashed  a  pen-
-mark  on  it  as  the  sign  of  the  God  of  War.  Said
+he  did,  and  then  the  august  stranger  dashed  a  penmark  on  it  as  the  sign  of  the  God  of  War.  Said
 he,  "When  you  cross  the  river,  do  not  go  direct
 to  Seoul,  but  wait  at  the  landing.  Seven  horses
 will  shortly  appear,  loaded  with  network  hampers,
@@ -6665,30 +5684,23 @@ The  gentleman  gave  a  great  start  of  terror  and
 awoke.  He  looked  at  his  hand  and  there,  indeed,
 was  the  strange  mark.  Not  only  so,  but  the  ink
 had  not  yet  dried  upon  it.  He  was  astonished
-beyond  measure,  but  did  as  the  dream  had  indi-
-cated, and  waited  on  the  river's  bank.  In  a  little
+beyond  measure,  but  did  as  the  dream  had  indicated, and  waited  on  the  river's  bank.  In  a  little
 there  came,  as  he  was  advised,  the  seven  loads  on
 seven  horses,  coming  from  the  far-distant  South.
 There  were  attendants  in  charge,  and  one  man
 wearing  an  official  coat  came  along  behind.  When
 they  had  crossed  the  river  the  gentleman  called
 them  to  him  and  said,  "I  have  something  to  say
-to  you  ；  come  close  to  me."  These  men,  unsuspect-
-ing, though  with  somewhat  of  a  frightened  look,
+to  you  ；  come  close  to  me."  These  men,  unsuspecting, though  with  somewhat  of  a  frightened  look,
 closed  up.  He  then  showed  them  his  hand  with
 the  mark,  and  asked  them  if  they  knew  what  it  was.
 When  they  saw  it,  first  of  all,  the  man  in  the  official
 coat  turned  and  with  one  bound  jumped  over  the
-cliff  into  the  river.  The  eight  or  nine  who  accom-
-panied the  loads  likewise  all  rushed  after  him  and
+cliff  into  the  river.  The  eight  or  nine  who  accompanied the  loads  likewise  all  rushed  after  him  and
 'dashed  into  the  water.
 
-The  scholar  then  called  the  boatmen,  and  ex-
-plained to  them  that  the  things  in  the  hampers
+The  scholar  then  called  the  boatmen,  and  explained to  them  that  the  things  in  the  hampers
 were  dangerous,  that  he  would  have  to  make  it
-
-
-190   KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 known  to  the  Palace,  and  that  in  the  meantime  they
@@ -6699,10 +5711,8 @@ He  hurried  as  fast  as  possible,  and  reported  the
 matter  to  the  Board  of  War.  The  Board  sent  an
 official,  and  had  the  loads  brought  into  Seoul,  and
 then,  as  had  been  directed,  they  were  piled  high
-with  wood  and  set  on  fire.  When  the  fire  deve-
-loped, the  baskets  broke  open,  and  little  figures  of
-men  and  horses,  each  an  inch  or  so  long,  in  count-
-less numbers,  came  tumbling  out.
+with  wood  and  set  on  fire.  When  the  fire  developed, the  baskets  broke  open,  and  little  figures  of
+men  and  horses,  each  an  inch  or  so  long,  in  countless numbers,  came  tumbling  out.
 
 When  the  officials  saw  this  they  were  frozen  with
 fear  ；  their  hearts  ceased  beating  and  their  tongues
@@ -6737,8 +5747,7 @@ of  some  visitor,  did  not  ask  specially  concerning
 him,  but  one  of  the  women  guests,  seeing  him  in
 the  inner  quarters,  sent  a  servant  to  reprimand  him
 and  put  him  out.  The  boy,  however,  did  not  move,
-so  the  servant  said  to  him,  "Who  are  you,  any-
-way, and  with  whom  did  you  come,  that  you  enter
+so  the  servant  said  to  him,  "Who  are  you,  anyway, and  with  whom  did  you  come,  that  you  enter
 the  women's  quarters,  and  even  when  told  to  go
 out  do  not  go?  "
 
@@ -6749,24 +5758,17 @@ The  company  looked  at  him  in  doubt,  and  began
 
 to  ask  one  another  whose  he  was  and  with  whom
 
-191
-
-
-192  KOREAN  IMPS,  GHOSTS  AND  FAIRIES
-
 
 he  had  come.  Again  they  had  the  servant  make
 inquiry,  but  still  there  was  no  reply.  The  women
 then  grew  very  angry,  and  ordered  him  to  be  put
 out.  Several  took  hold  of  him  and  tried  to  pull
 him,  but  he  was  like  a  fixed  rock,  fast  in  the  earth,
-absolutely  immovable.  In  helpless  rage  they  in-
-formed the  men.
+absolutely  immovable.  In  helpless  rage  they  informed the  men.
 
 The  men,  hearing  this,  sent  several  strong
 servants,  who  took  hold  all  at  once,  but  he  did  not
-budge  a  hair.  They  asked,  "Who  are  you,  any-
-way?" but  he  gave  no  reply.  The  crowd,  then
+budge  a  hair.  They  asked,  "Who  are  you,  anyway?" but  he  gave  no  reply.  The  crowd,  then
 enraged,  sent  ten  strong  men  with  ropes  to  bind
 him,  but  like  a  giant  mountain  he  remained  fast,
 so  that  they  recognized  that  he  could  not  be  moved
@@ -6777,13 +5779,11 @@ why  cannot  he  be  moved  ？  "  They  then  sent  five  or
 six  giant  fellows  with  clubs  to  smash  him  to  pieces,
 and  they  laid  on  with  all  their  might.  It  looked
 as  though  he  would  be  crushed  like  an  egg-shell,
-while  the  sound  of  their  pounding  was  like  rever-
-berating thunder.  But  just  as  before,  not  a  hair
+while  the  sound  of  their  pounding  was  like  reverberating thunder.  But  just  as  before,  not  a  hair
 did  he  turn,  not  a  wink  did  he  give.
 
 Then  the  crowd  began  to  fear,  saying,  "This
-is  not  a  man,  but  a  god,"  so  they  entered  the  court-
-yard, one  and  all,  and  began  to  bow  before  him,
+is  not  a  man,  but  a  god,"  so  they  entered  the  courtyard, one  and  all,  and  began  to  bow  before  him,
 joining  their  hands  and  supplicating  earnestly.
 They  kept  this  up  for  a  long  time.
 
@@ -6799,18 +5799,15 @@ off  the  feast.  From  that  day  on,  the  people  of
 that  house  were  taken  ill,  including  host  and  guests.
 Those  who  scolded  him,  those  who  tied  him  with
 ropes,  those  who  pounded  him,  all  died  in  a  few
-days.  Other  members  of  the  company,  too,  con-
-tracted typhus  and  the  like,  and  died  also.
+days.  Other  members  of  the  company,  too,  contracted typhus  and  the  like,  and  died  also.
 
 It  was  commonly  held  that  the  boy  was  the
 Too-uk  Spirit,  but  we  cannot  definitely  say.
 Strange,  indeed  ！
 
-Note. ― When  the  time  comes  for  a  clan  to  dis-
-appear from  the  earth,  calamity  befalls  it.  Even
+Note. ― When  the  time  comes  for  a  clan  to  disappear from  the  earth,  calamity  befalls  it.  Even
 though  a  great  spirit  should  come  in  at  the  door
-at  such  a  feast  time,  if  the  guests  had  done  as  Con-
-fucius suggests,  "Be  reverent  and  distant,"  instead
+at  such  a  feast  time,  if  the  guests  had  done  as  Confucius suggests,  "Be  reverent  and  distant,"  instead
 of  insulting  him  and  making  him  more  malignant
 than  ever,  they  would  have  escaped.  Still,  devils
 and  men  were  never  intended  to  dwell  together.
@@ -6836,8 +5833,7 @@ mother  ？  "
 The  beating  over,  the  son  thrust  his  sickle
 through  his  belt  and  went  slowly  off  to  the  fields
 where  he  was  engaged  by  a  neighbour  in  reaping
-buckwheat.  The  day  was  fine,  and  the  sky  beauti-
-fully clear.  Suddenly  a  dark  fleck  of  cloud
+buckwheat.  The  day  was  fine,  and  the  sky  beautifully clear.  Suddenly  a  dark  fleck  of  cloud
 appeared  in  mid-heaven,  and  a  little  later  all  the
 sky  became  black.  Furious  thunder  followed,  and
 rain  came  on.  The  village  people  looked  out
@@ -6847,13 +5843,8 @@ there  a  man  with  lifted  sickle  trying  to  ward  them
 off.  When  the  storm  had  cleared  away,  they
 went  to  see,  and  lo，  they  found  the  man  who
 
-194
-
 
 GOD'S  WAY
-
-
-195
 
 
 had  beaten  his  mother  struck  dead  and  riven  to
@@ -6880,19 +5871,15 @@ Hong  wishes  to  kill  off  me  and  all  my  posterity.
 Please  save  me,  won，t  you?"
 
 Kwon  asked,  "  How  can  I  save  you  ？  ，，  The  old
-man  replied,  "Hong  will  assuredly  ask  Your  Excel-
-lency to  help  him.  Desist  from  it,  please,  for  if  you
+man  replied,  "Hong  will  assuredly  ask  Your  Excellency to  help  him.  Desist  from  it,  please,  for  if  you
 ^o,  Hong  will  give  it  up  and  I  shall  live  and  all
 mine."
 
 A  little  later  there  came  a  rap  at  the  door,  when
 Kwon  awakened  and  asked,  "  Who  is  there  ？  ，,
-It  was  Hong,  who  that  day  had  planned  an  excur-
-sion to  Lotus  Lake  to  fish  for  turtles,  and  now
+It  was  Hong,  who  that  day  had  planned  an  excursion to  Lotus  Lake  to  fish  for  turtles,  and  now
 had  come  specially  to  invite  Kwon  to  go  with
 him.
-
-196
 
 
 THE  OLD  MAN  IN  THE  DREAM  197
@@ -6916,8 +5903,7 @@ Whenever  he  had  clothing  of  his  own  he  would
 willingly  undress  and  give  it  to  those  who  were
 cold.  His  spirit  was  gentle  with  no  creases  or
 corners  in  it.  Everybody,  high  and  low,  rich  and
-poor,  called  him  by  the  nickname  of  Softy.  When-
-ever he  saw  any  one  sentenced  to  a  flogging  in  the
+poor,  called  him  by  the  nickname  of  Softy.  Whenever he  saw  any  one  sentenced  to  a  flogging  in  the
 temple  or  official  yamen,  Namnu  invariably  begged
 that  he  might  take  the  culprit's  place.  Once,  when
 there  was  a  great  function  in  progress  at  Pagoda
@@ -6938,22 +5924,18 @@ hurts  ！  it  hurts  ！  "
 
 Later  I  was  in  the  train  of  Prince  Yi  of  Yun-
 
-198
-
 
 THE  PERFECT  PRIEST  199
 
 song,  and  other  high  officials  were  present,  when
 we  stopped  for  a  little  before  the  Temple.  Softy
 was  there,  and  he  looked  at  Yi  and  said,  "I  know
-your  face,  but  I  have  forgotten  your  name."  After-
-wards he  said,  "Oh，  I  remember  now,  you  are  Yi
+your  face,  but  I  have  forgotten  your  name."  Afterwards he  said,  "Oh，  I  remember  now,  you  are  Yi
 Sok-hyong."  The  priests  of  the  monastery  who
 heard  this  familiarity  were  scandalized,  and  hurried
 to  make  no  end  of  apology  to  the  Prince,  saying,
 "Softy  was  born  so,  God  made  him  so.  Please,
-Your  Excellency,  forgive  him."  The  Prince  for-
-gave him  and  so  he  was  not  disturbed.
+Your  Excellency,  forgive  him."  The  Prince  forgave him  and  so  he  was  not  disturbed.
 
 Yi  Ryuk.
 
@@ -6968,8 +5950,7 @@ directly  south  of  a  home  that  the  master  of  the
 house  will  be  promoted  in  office.  King  T'ai-jong
 had  a  friend  once  who  was  very  poor  and  had  failed
 in  all  his  projects.  After  various  fruitless  attempts
-he  decided  to  wait  till  the  King  went  out  on  pro-
-cession and  then  to  send  a  servant  to  build  an  imita-
+he  decided  to  wait  till  the  King  went  out  on  procession and  then  to  send  a  servant  to  build  an  imita-
 tion magpie's  nest  in  some  propitious  place  before
 him.  The  King  saw  it  and  asked  the  man  what  he
 was  doing.  He  said  in  reply  that  when  a  magpie
@@ -6985,8 +5966,6 @@ before  our  home,  but  I,  along  with  other  boys,  cut
 off  the  branch  so  that  the  whole  nest  fell  to  the
 ground,  and  there  were  the  young  with  their  pitiful
 yellow  mouths.    I  felt  sorry  and  afraid  that  they
-
-200
 
 
 THE  PROPITIOUS  MAGPIE  201
@@ -7004,8 +5983,7 @@ built  a  nest  in  a  date  tree.  I  had  a  woman  slave,
 and  she  pulled  it  down  and  used  the  nest  for  fuel,
 but  they  came  again  the  next  year  and  built  once
 more.  The  year  following  was  1469  when  Ye-jong
-came  to  the  throne.  That  year  again  I  was  pro-
-moted. In  the  spring  of  147 1  magpies  came  and
+came  to  the  throne.  That  year  again  I  was  promoted. In  the  spring  of  147 1  magpies  came  and
 built  their  nest  in  a  tree  just  south  of  my  office.
 I  laughed  and  said,  "There  is  a  spiritual  power  in
 the  magpie  surely,  as  men  have  said  from  olden
@@ -7019,12 +5997,10 @@ XLIV
 
 THE  "OLD  BUDDHA"
 
-Prime  Minister  Choi  Yun-tok  was  in  mourn-
-ing once  for  his  mother.  With  a  single  horse  and
+Prime  Minister  Choi  Yun-tok  was  in  mourning once  for  his  mother.  With  a  single  horse  and
 one  servant  he  made  a  journey  to  the  south  where
 the  road  led  through  the  county  of  Kai-ryong.  At
-that  very  time  two  or  three  of  the  district  magis-
-trates had  pitched  a  tent  on  the  bank  of  the  river
+that  very  time  two  or  three  of  the  district  magistrates had  pitched  a  tent  on  the  bank  of  the  river
 and  were  having  refreshments.  They  said  to  one
 another,  "  Who  is  that  mourner  that  goes  riding  by
 without  dismounting  ？  It  must  be  some  country
@@ -7046,16 +6022,13 @@ and  you  offend  in  concealing  his  name.  Both  slave
 and  master  are  equally  ill-mannered."  And  so  they
 beat  him  over  the  head.
 
-202
-
 
 THE  BUDDHA '  203
 
 
 Then  the  servant  said  slowly,  "  He  is  called  Choi
 the  Buddha,  but  his  real  name  is  Yun-tok,  and  he
-is  now  on  his  way  to  his  country  home  in  Chang-
-won."  At  once  they  recognized  that  it  was  no  other
+is  now  on  his  way  to  his  country  home  in  Changwon."  At  once  they  recognized  that  it  was  no  other
 than  the  Prime  Minister,  and  great  fear  overcame
 them.  They  struck  their  tent,  cleared  away  the
 eatables,  and  ran  to  make  their  deepest  salaam  and
@@ -7086,16 +6059,13 @@ hat  from  his  head  and  crumpled  it  up.  They  threw
 stones,  too,  and  kept  on  throwing  them  so  that  all
 the  court  was  reduced  to  confusion.  Prince  Cheung
 made  his  escape  and  went  to  live  in  another  house,
-where  he  prepared  a  special  medicine  called  sal-
-kwi-whan  (kill-devil-pills),  which  he  offered  in
+where  he  prepared  a  special  medicine  called  salkwi-whan  (kill-devil-pills),  which  he  offered  in
 prayer.  From  that  time  the  goblins  departed,  and
 now  after  five  or  six  years  no  sign  of  them  has
 reappeared.  Prince  Cheung,  too,  is  well  and  strong
 and  free  from  sickness.
 
 Yi  Ryuk.
-
-204
 
 
 XLVI
@@ -7127,18 +6097,12 @@ underlings  to  arrest  her  again  and  carry  her  off.
 
 After  this  all  trace  of  her  was  lost  till  Mo  was  dis-
 
-205
-
-
-206  KOREAN  IMPS,  GHOSTS  AND  FAIRIES
-
 
 covered  one  day  in  a  room  hanging  by  the  neck
 dead.
 
 Months  of  sorrow  passed  over  An  till  once,  under
-cover  of  the  night,  he  was  returning  from  the  Con-
-fucian Temple  to  his  house  over  the  ridge  of  Camel
+cover  of  the  night,  he  was  returning  from  the  Confucian Temple  to  his  house  over  the  ridge  of  Camel
 Mountain.  It  was  early  autumn  and  the  wooded
 tops  were  shimmering  in  the  moonlight.  All  the
 world  had  sunk  softly  to  rest  and  no  passers  were
@@ -7160,15 +6124,11 @@ broken  heart.
 Kim  Champan,  who  was  of  the  same  age  as  I,
 and  my  special  friend,  was  also  a  cousin  of  An,  and
 he  frequently  spoke  of  this.  Yu  Hyo-jang,  also,
-An's  nephew  by  marriage,  told  the  story  many-
-times.  Said  he,  "Faithful  unto  death  was  she.
+An's  nephew  by  marriage,  told  the  story  manytimes.  Said  he,  "Faithful  unto  death  was  she.
 For  even  a  woman  of  the  literati,  who  has  been  born
 
 
 FAITHFUL  MO
-
-
-207
 
 
 and  brought  up  at  the  gates  of  ceremonial  form,
@@ -7207,12 +6167,9 @@ expect  him  to  know?  Please  tell  me  the
 meaning. "
 
 Whang  said,  "These  verses  were  written  by  the
-great  men  of  the  past.  What  they  saw  and  experi-
-enced they  wrote  down  to  inspire  the  souls  of  those
+great  men  of  the  past.  What  they  saw  and  experienced they  wrote  down  to  inspire  the  souls  of  those
 
 who  were  to  come  after  them.    They  are  like  pic-
-
-208
 
 
 THE  RENOWNED  MAING  209
@@ -7275,9 +6232,6 @@ hearing  you  cannot  hear."
 Yi  Ryuk.
 
 
-210
-
-
 XLIX
 
 
@@ -7298,20 +6252,13 @@ ever  coming  to  an  agreement.
 
 The  King,  overhearing  what  was  said,  wrote  a
 secret  despatch,  saying,  "Raise  the  Bearer  of  this
-letter  one  degree  in  rank."  He  sealed  it  and  com-
-manded A  to  take  it  to  Se-jong,  who  was  then  in
-charge  of  this  office.  A  made  his  bow  and  de-
-parted, but  just  when  he  was  about  to  leave  the
+letter  one  degree  in  rank."  He  sealed  it  and  commanded A  to  take  it  to  Se-jong,  who  was  then  in
+charge  of  this  office.  A  made  his  bow  and  departed, but  just  when  he  was  about  to  leave  the
 palace  enclosure  a  furious  pain  took  him  in  the
 stomach,  so  that  he  begged  B  to  take  his  place  and
 go  into  the  city.
 
 The  next  day,  when  the  record  of  promotions
-
-211
-
-
-212  KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 was  placed  before  the  King,  he  read  how  B  had
@@ -7338,8 +6285,7 @@ man."
 
 His  home  was  outside  the  South  Gate,  and  every
 morning  he  was  seen  kneeling  on  the  sill  of  his
-front  door  beating  his  hands  upwards  and  down-
-wards on  his  knees,  and  this  practice  he  carried  on
+front  door  beating  his  hands  upwards  and  downwards on  his  knees,  and  this  practice  he  carried  on
 for  three  years.  People  could  not  imagine  what
 he  meant  by  it,  but  thought  him  mad.  Thus  he
 learned  the  motions  required  for  the  harp.
@@ -7356,15 +6302,9 @@ at  riding  and  at  archery.    He  often  sighed  over
 
 this  defect,  and  said,  "Though  I  am  weak  and
 
-213
-
-
-214  KOREAN  IMPS,  GHOSTS  AND  FAIRIES
-
 
 stupid  and  not  able  to  shoot  a  long  distance,  I  shall
-yet  know  how  to  hit  the  target  and  make  the  bull's-
-eye.  This  also  must  be  acquired  by  practice."
+yet  know  how  to  hit  the  target  and  make  the  bull'seye.  This  also  must  be  acquired  by  practice."
 So  every  morning  he  took  his  bow  and  arrows  and
 went  off  into  the  hills.  There  he  shot  all  day  long,
 keeping  it  up  for  three  years,  till  he  became  a
@@ -7421,10 +6361,6 @@ him,  he  is  dead.'  "    The  husband  and  wife  in  fear
 
 and  wonder  talked  over  it  together,
 
-215
-
-
-216  KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 When  morning  came  the  friend  went  to  General
 Kim's  former  home  to  make  inquiry.  He  learned
@@ -7444,8 +6380,7 @@ THE  MYSTERIOUS  HOI  TREE
 
 Prince  Pa-song's  house  was  situated  just  inside
 of  the  great  East  Gate,  and  before  it  was  a  large
-Hoi  tree.  On  a  certain  night  the  Prince's  son-in-
-law  was  passing  by  the  roadway  that  led  in  front
+Hoi  tree.  On  a  certain  night  the  Prince's  son-inlaw  was  passing  by  the  roadway  that  led  in  front
 of  the  archers'  pavilion.  There  he  saw  a  great
 company  of  bowmen,  more  than  he  could  number,
 all  shooting  together  at  the  target.  A  moment
@@ -7464,11 +6399,6 @@ him  so?"  He  undid  his  bonds,  took  him  by  the
 arm  and  led  him  home.     When  the  son-in-law
 
 reached  the  gate  he  looked  back  and  saw  the  man
-
-217
-
-
-218  KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 walk  under  the  Hoi  tree  and  disappear.  He  then
@@ -7489,8 +6419,7 @@ TA-HONG
 of  No  Su-sin,  who  was  sent  as  an  exile  to  a  distant
 island  in  the  sea.  Thither  he  followed  his  master
 and  worked  at  the  Sacred  Books.  He  matriculated
-in  1570  and  graduated  in  1572.  In  1589  he  remon-
-strated with  King  Son-jo  over  the  disorders  of  his
+in  1570  and  graduated  in  1572.  In  1589  he  remonstrated with  King  Son-jo  over  the  disorders  of  his
 reign,  and  was  the  means  of  quelling  a  great
 national  disturbance  ；  but  he  made  a  faux  pas  one
 day  when  he  said  laughingly  to  a  friend ―
@@ -7499,26 +6428,18 @@ day  when  he  said  laughingly  to  a  friend ―
 Who  can  tame  them  ？ "
 
 Those  who  heard  caught  at  this,  and  it  became
-a  source  of  unpopularity,  as  it  indicated  an  un-
-favourable opinion  of  the  Court.
+a  source  of  unpopularity,  as  it  indicated  an  unfavourable opinion  of  the  Court.
 
 In  1592,  when  the  King  made  his  escape  to
 Eui-ju,  before  the  invading  Japanese  army,  he  was
 the  State's  Chief  Secretary,  and  after  the  return  of
 the  King  he  became  Chief  Justice.  He  resigned
-office,  but  the  King  refused  to  accept  his  resigna-
-tion, saying,  "I  cannot  do  without  you."  He
-
-219
-
-
-220  KOREAN  IMPS,  GHOSTS  AND  FAIRIES
+office,  but  the  King  refused  to  accept  his  resignation, saying,  "I  cannot  do  without  you."  He
 
 
 became  chief  of  the  literati  and  Special  Adviser.
 Afterwards  he  became  Minister  of  the  Right,  then
-of  the  Left,  at  which  time  he  wrote  out  ten  sugges-
-tions for  His  Majesty  to  follow.  He  saw  the
+of  the  Left,  at  which  time  he  wrote  out  ten  suggestions for  His  Majesty  to  follow.  He  saw  the
 wrongs  done  around  the  King,  and  resigned  office
 again  and  again,  but  was  constantly  recalled.
 
@@ -7529,8 +6450,7 @@ the  young  man  under  his  protection.  The  King,
 reading  the  essay,  was  furiously  angry,  and  ordered
 the  degradation  of  Im,  but  Sim  said,  "He  is  with
 me  ；  I  am  behind  what  he  wrote  and  approve  ；
-degrade  me  and  not  him,"  and  so  the  King  with-
-drew his  displeasure.  He  was  faithful  of  the
+degrade  me  and  not  him,"  and  so  the  King  withdrew his  displeasure.  He  was  faithful  of  the
 faithful.
 
 When  he  was  old  he  went  and  lived  in  Tun-san
@@ -7544,15 +6464,11 @@ is  recorded  as  one  of  Korea's  great  patriots.]
 
 The  Story
 
-Minister  Sim  Heui-su  was,  when  young,  hand-
-some as  polished  marble,  and  white  as  the  snow,
+Minister  Sim  Heui-su  was,  when  young,  handsome as  polished  marble,  and  white  as  the  snow,
 rarely  and  beautifully  formed.    When  eight  years
 
 
 TA-HONG
-
-
-221
 
 
 of  age  he  was  already  an  adept  at  the  character,
@@ -7568,8 +6484,7 @@ about  him,  "To-day  is  my  last  on  earth,  and  my
 farewell  wishes  to  you  all  are  that  you  may  prosper
 and  do  bravely  and  well."
 
-His  associates  replied  in  wonder,  "Your  Excel-
-lency is  still  strong  and  hearty,  and  able  for  many
+His  associates  replied  in  wonder,  "Your  Excellency is  still  strong  and  hearty,  and  able  for  many
 years  of  work  ；  why  do  you  speak  so  ？  ，，
 
 Sim  laughingly  made  answer,  "Our  span  of  life
@@ -7580,16 +6495,12 @@ and  make  grateful  acknowledgment  of  his  many
 favours."
 
 Thus  he  exhorted  them,  and  took  his  departure.
-Every  one  wondered  over  this  strange  announce-
-ment. From  that  day  on  he  returned  no  more,  it
+Every  one  wondered  over  this  strange  announcement. From  that  day  on  he  returned  no  more,  it
 being  said  that  be  was  ailing.
 
 There  was  at  that  time  attached  to  the  War  Office
 a  young  secretary  directly  under  Sim.  Hearing
 that  his  master  was  ill,  the  young  man  went  to  pay
-
-
-222  KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 his  respects  and  to  make  inquiry.  Sim  called  him
@@ -7609,26 +6520,20 @@ ask  the  reason."
 Sim  smiled  and  said,  "I  have  never  told  any
 person,  but  since  you  ask  and  there  is  no  longer
 cause  for  concealment,  I  shall  tell  you  the  whole
-story.  When  I  was  young  certain  things  hap-
-pened in  my  life  that  may  make  you  smile.
+story.  When  I  was  young  certain  things  happened in  my  life  that  may  make  you  smile.
 
 "At  about  sixteen  years  of  age  I  was  said  to  be  a
 handsome  boy  and  fair  to  see.  Once  in  Seoul,
-when  a  banquet  was  in  progress  and  many  danc-
-ing-girls and  other  representatives  of  good  cheer
+when  a  banquet  was  in  progress  and  many  dancing-girls and  other  representatives  of  good  cheer
 were  called,  I  went  too,  with  a  half-dozen  comrades,
 to  see.  There  was  among  the  dancing-girls  a
 young  woman  whose  face  was  very  beautiful.  She
 was  not  like  an  earthly  person,  but  like  some
 angelic  being.  Inquiring  as  to  her  name,  some
-of  those  seated  near  said  it  was  Ta-hong  (Flower-
-bud).
+of  those  seated  near  said  it  was  Ta-hong  (Flowerbud).
 
 
 TA-HONG
-
-
-223
 
 
 u  When  all  was  over  and  the  guests  had  separated,
@@ -7662,9 +6567,6 @@ were,  and  they  said  your  family  name  was  Sim
 and  your  given-name   Heui-su,   and  that  your
 
 
-224  KOREAN  IMPS,  GHOSTS  AND  FAIRIES
-
-
 character  and  gifts  were  very  superior.  From  that
 day  on  I  longed  to  meet  you,  but  as  there  was
 no  possibility  of  this  I  could  only  think  of  you.
@@ -7677,10 +6579,8 @@ towards  you.'
 let's  go  to  my  aunt's  home  in  the  next  ward,  where
 it's  quiet,  and  talk  there/  We  went  to  the  aunt's
 home.  It  was  neat  and  clean  and  somewhat
-isolated,  and  apparently  the  aunt  loved  Flower-
-bud  with  all  the  devotion  of  a  mother.  From  that
-day  forth  we  plighted  our  troth  together.  Flower-
-bud  had  never  had  a  lover  ；  I  was  her  first  and  only
+isolated,  and  apparently  the  aunt  loved  Flowerbud  with  all  the  devotion  of  a  mother.  From  that
+day  forth  we  plighted  our  troth  together.  Flowerbud  had  never  had  a  lover  ；  I  was  her  first  and  only
 choice.  She  said,  however,  6  This  plan  of  ours
 cannot  be  consummated  to-day  ；  let  us  separate  for
 the  present  and  make  plans  for  our  union  in  the
@@ -7700,9 +6600,6 @@ the  first  place  at  the  Examination  and  have  your
 TA-HONG
 
 
-225
-
-
 three  days  of  public  rejoicing.  Then  we'll  meet
 once  more.  Let  us  make  a  compact  never  to  be
 broken.  So  then,  until  you  have  won  your
@@ -7712,8 +6609,7 @@ for  I  have  a  plan  by  which  to  hide  myself  away
 in  safety.  Know  that  on  the  day  when  you  win
 your  honours  we  shall  meet  again.'
 
-"On  this  we  clasped  hands  and  spoke  our  fare-
-wells as  though  we  parted  easily.  Where  she  was
+"On  this  we  clasped  hands  and  spoke  our  farewells as  though  we  parted  easily.  Where  she  was
 going  I  did  not  ask,  but  simply  came  home  with  a
 distressed  and  burdened  heart,  feeling  that  I  had
 lost  everything.  On  my  return  I  found  that  my
@@ -7738,15 +6634,10 @@ but  had  no  heart  in  it,  and  no  joy  in  their  choice.
 Q
 
 
-226  KOREAN  IMPS,  GHOSTS  AND  FAIRIES
-
-
-diligence  I  grew  to  be  superior  to  all  my  com-
-petitors. It  was  five  years  after  my  farewell  to
+diligence  I  grew  to  be  superior  to  all  my  competitors. It  was  five  years  after  my  farewell  to
 Ta-hong  that  I  won  my  honours.  I  was  still  but
 a  youngster,  and  all  the  world  rejoiced  in  my
-success.  But  my  joy  was  in  the  secret  under-
-standing that  the  time  had  come  for  me  to  meet
+success.  But  my  joy  was  in  the  secret  understanding that  the  time  had  come  for  me  to  meet
 Ta-hong.  On  the  first  day  of  my  graduation
 honours  I  expected  to  meet  her,  but  did  not.  The
 second  day  passed,  but  I  saw  nothing  of  her,  and
@@ -7773,9 +6664,6 @@ of  a  new  graduate  to  haze  or  honour,  as  they  please.
 
 
 TA-HONG
-
-
-227
 
 
 to  me  very  kindly,  and  entertained  me  with  all
@@ -7815,9 +6703,6 @@ yielded  and  let  her  stay,  appointed  her  work  to  do,
 '      Q  2  ―
 
 
-228  KOREAN  IMPS,  GHOSTS  AND  FAIRIES
-
-
 and  watched  her  behaviour.  She  became  a  slave
 of  her  own  accord,  and  simply  lived  to  please  us,
 preparing  our  meals  during  the  day,  and  caring
@@ -7840,8 +6725,7 @@ an  old  woman  of  the  village  had  taken  her  in  and
 brought  her  up.  "Being  so  young,"  said  she,  "I
 was  safe  from  harm.  At  last  I  met  a  young  master
 with  whom  I  plighted  a  hundred  years  of  troth,  a
-beautiful  boy,  none  was  ever  like  him.  I  deter-
-mined to  meet  him  again,  but  only  after  he  had
+beautiful  boy,  none  was  ever  like  him.  I  determined to  meet  him  again,  but  only  after  he  had
 won  his  honours  in  the  arena.  If  I  had  remained
 at  the  home  of  the  old  mother  I  could  not  have
 kept  myself  safe,  and  preserved  my  honour  ；  I
@@ -7849,9 +6733,6 @@ would  have  been  helpless  ；  so  I  came  here  for  safety
 
 
 TA-HONG
-
-
-229
 
 
 and  to  serve  you.  It  is  a  plan  by  which  to  hide
@@ -7873,20 +6754,15 @@ time  on  looking  over  the  list  I  found  your  name,
 and  told  her.  She  heard  it  without  any  special
 manifestation  of  joy,  saying  she  knew  it  would
 come.  She  also  said,  "When  we  parted  I  promised
-to  meet  him  before  the  three  days  of  public  celebra-
-tion were  over,  and  now  I  must  make  good  my
+to  meet  him  before  the  three  days  of  public  celebration were  over,  and  now  I  must  make  good  my
 promise."  So  she  climbed  to  the  upper  pavilion
 to  watch  the  public  way.  But  this  ward  being
 somewhat  remote  she  did  not  see  you  going  by  on
 the  first  day,  nor  on  the  second.  This  morning
-she  went  again,  saying,  "He  will  surely  pass  to-
-day "  ；  and  so  it  came  about.  She  said,  "  He  is
+she  went  again,  saying,  "He  will  surely  pass  today "  ；  and  so  it  came  about.  She  said,  "  He  is
 coming  ；  call  him  in."
 
 " (  I  am  an  old  man  and  have  read  much  history,
-
-
-230  KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 and  have  heard  of  many  famous  women.  There
@@ -7894,8 +6770,7 @@ are  many  examples  of  devotion  that  move  the  heart,
 but  I  never  saw  so  faithful  a  life  nor  one  so  devoted
 to  another.  God  taking  note  of  this  has  brought
 all  her  purposes  to  pass.  And  now,  not  to  let  this
-moment  of  joy  go  by,  you  must  stay  with  me  to-
-night.'
+moment  of  joy  go  by,  you  must  stay  with  me  tonight.'
 
 "When  I  met  Ta-hong  I  was  most  happy,
 especially  as  I  heard  of  her  years  of  faithfulness.
@@ -7925,9 +6800,6 @@ and  what  had  happened.    They  gave  consent  that
 TA-HONG
 
 
-231
-
-
 I  should  have  her,  and  she  was  brought  and  made
 a  member  of  our  family,  really  my  only  wife.
 
@@ -7955,13 +6827,9 @@ not  think  it  true,  and  asked  her  how  she  could  tell
 beforehand  that  she  was  going  to  die.  She  said,
 '  I  know,  there  is  no  mistake  about  it.'
 
-"In  four  or  five  days  she  fell  ill,  but  not  seri-
-ously, and  yet  a  day  or  two  later  she  died.  She
+"In  four  or  five  days  she  fell  ill,  but  not  seriously, and  yet  a  day  or  two  later  she  died.  She
 said  to  me  when  dying,  *  Our  life  is  ordered,  God
 decides  it  all.    While  I  lived  I  gave  myself  to  you,
-
-
-282  KOREAN  IMPS,  GHOSTS  AND  FAIRIES
 
 
 and  you  most  kindly  responded  in  return.  I  have
@@ -8001,16 +6869,11 @@ your  departure  has  come,  and  we  are  to  meet  again.
 TA-HONG
 
 
-233
-
-
-I  am  now  making  ready  for  your  glad  recep-
-tion.'
+I  am  now  making  ready  for  your  glad  reception.'
 
 "  For  this  reason  I  have  bidden  all  my  associates
 farewell.  Last  night  she  came  once  more  and  said
-to  me,  4  To-morrow  is  your  day/  We  wept  to-
-gether in  the  dream  as  we  met  and  talked.  In  the
+to  me,  4  To-morrow  is  your  day/  We  wept  together in  the  dream  as  we  met  and  talked.  In  the
 morning,  when  I  awoke,  marks  of  tears  were  still
 upon  my  cheeks.  This  is  not  because  I  fear  to  die,
 but  because  I  have  seen  my  Ta-hong.  Now  that
@@ -8019,82 +6882,3 @@ no  one."  So  Sim  died,  as  was  foretold,  on  the
 day  following.    Strange,  indeed  ！
 
 Im  Bang.
-
-
-THE  END
-
-
-Richard  Clay  &  Sons,  Limited,
-brunswick  street,  stamford  street,  s.  e.
-and  bungay,  suffolk.
-
-
-SOME  ROMANTIC  VOLUMES  IN
-
-EVERYMAN'S  LIBRARY
-
-
-Le  Morte  D'Arthur  (2  Vols.)
-
-Introduction  by  Sir  John  Rhys
-
-The  Mabinogion
-
-Translated  by  Lady  Charlotte  Guest
-
-Kalevala,  or  the  Land  of  Heroes
-
-(2  Vols.)
-
-Newly  Translated  from  the  Finnish  by  W.  F.
-
-KlRBY
-
-The  Fall  of  the  Nibelungs
-
-Translated  by  Margaret  Armour
-
-The  Story  of  Burnt  Njal
-
-The  High  History  of  the  Holy
-Grail
-
-Translated  by  Dr.  Sebastian  Evans
-
-
-SEND  FOR  FREE  ANNOTATED
-CATALOGUE  OF  640  VOLUMES,  COVEBING
-IS  DEPABTMENTS  of  literature
-
-
-J.  M.  DENT  &  SONS,  Ltd.
-Aldine  House,  Bedford  Street,  W.C.
-
-
-JOLLY  GALLE
-AND  OTHER  SWEDISH
-FAIRY  TALES
-
-By  HELENA  NYBLOM
-
-With  Illustrations  in  Colour
-by  GHABLES  FOLKAED
-
-Square  Crown  8vo.
-
-
-Outlook. ᅳ "This  volume  of  Swedish  fairy  tales  is
-marked  with  a  great  simplicity  and  a  very  real
-literary  skill.  All  lovers  of  Fairy-lore  will  welcome
-the  pretty  stories ᄎ  and  will  realise  that  in  introduc-
-ing us  to  r  Jolly  Calle,'  e  Rolf  of  Orkanas  *  and  the
-( Bubbly-boy, '  they  have  introduced  us  to  near
-friends.  Some  of  them  are  glad,  some  very  sad，
-but  all  charming.    The  illustrations  are  excellent."
-
-
-J.  M.  DENT  &  SONS,  Ltd.
-Aldina  House,  Bedford  Street,  W.G.
-
-
-t

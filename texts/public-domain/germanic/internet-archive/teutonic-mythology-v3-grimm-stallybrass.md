@@ -70,6 +70,49 @@ figures:
 
 # Teutonic Mythology, Volume 3
 
+OF  THE
+UNIVERSITY
+Of  ILLINOIS
+
+293
+
+v.  3
+
+modern  iimwm
+
+^  UBSftflY.
+
+
+The  person  charging  this  material  is  re-
+spons.b  e  for  its  return  to  the  library  from
+which  it  was  withdrawn  on  or  before  the
+latest  Date  stamped  below.
+
+£  ^.r,'"0"0"'  W"""li"i"9        books  .re  re„.„,
+
+Z  oc,ton  -  —  ~*  '»  *J
+
+To  renew  coll  Telephone  Center,  333-8400
+
+UN.VEHSITY  OF  ,tUNo,t  hbrary  AT  URBANA-CHAMPANSN
+
+
+SEP  23
+FEB  2  5
+
+
+3  1995
+
+
+m
+
+OCT  1
+
+1986  ftpr  „
+987  DEC  1
+
+081191987
+
 MM  0  6
 JUL  (
 
@@ -100,6 +143,9 @@ L161— O-1096
 
 Digitized  by  the  Internet  Archive
 in  2015
+
+
+https://archive.org/details/teutonicmytholog03grim_0
 
 
 TEUTONIC  MYTHOLOGY
@@ -2605,7 +2651,7 @@ SCOP.     SKALD.     GLEOMAN.     GLEOCBiEFT.  901
 
 Song,  music  and  dance  make  glad  (repTrovai)  the  heart  of  man,
 lend  grace  to  the  banquet  (avadrj/jLara  &hto?,  Od.  1,  152.  21,
-430),  lulling  and  charming  our  griefs  (ISpoT ov  OeX/cTrjpia,  Od.  1,
+430),  lulling  and  charming  our  griefs  (ISpoT<ov  OeX/cTrjpia,  Od.  1,
 337).  God  himself,  when  ailing,  comes  down  from  heaven,  to
 get  cheered  by  the  minstrel's  lay  (p.  331).  Hence  poetry  is
 called  the  joyous  art,  and  song  joy  and  bliss.  We  know  the  gai
@@ -2883,7 +2929,7 @@ iy/cw/jLiov  in  Oratt.  Att.  ed.  Bekker  2,  245.
 Bacchus  revealed  himself  to  Aeschylus  :  efa  Be  ^4tV%uXo?  fieipd-
 kiov  wv  /cadevBeiv  ev  aypw  fyvXaaawv  ara^vXa^  Kal  oi  Aibvvaov
 iirio-Tavra  KeXevaat  rpaypBiav  iroielv.  m  Be  rjv  rj/xepa  (irelOeaOaL
- yap  eOeXeiv)  paara  tjBtj  ireipwpLevo^  iroielv.  ouro?  p,ev  ravra  eXe-
+<yap  eOeXeiv)  paara  tjBtj  ireipwpLevo^  iroielv.  ouro?  p,ev  ravra  eXe-
 ryev  [Aesch.  said,  that  when  a  boy  he  fell  asleep  in  the  field  while
 watching  grapes,  and  Dionysus  appeared  to  him  and  bade  him
 write  tragedy.  In  the  morning,  wishing  to  obey,  he  composed
@@ -3274,7 +3320,7 @@ of  confession  dealt  much  with  devilish  suggestion  and  entice-
 ment, 1  men  came  to  use  it  habitually  of  ghostly  delusion  and
 illusion.  Boner  94,  54  has  fdiu  gespenst9  (why  not  gespanst?)
 for  phantom,  apparition.  The  neuter  is  found  in  the  MBere  vom
-schretel  und  wazzerber  92  quite  in  the  above  connexion:   des
+schretel  und  wazzerber  92  quite  in  the  above  connexion:  <des
 tiuvels  valant  und  sin  gespenste9 ;  even  earlier,  Herbort  3500
 couples  gespenste  and  getwas.  Keisersperg  (Omeiss  39)  has
 des  teufels  gespenst  (praestigium)  :  not  till  recent  centuries  did
@@ -3331,7 +3377,7 @@ Other  glosses  have  flattie,  and  scraz,  scrat  (p.  478).  Mummel  is
 both  larva  and  kobold  (p.  506).  Anything  uncanny  and  alarm-
 ing, monstrum,  prodigium,  portentum,  praestigium,  acquires  the
 meaning  of  spectre  too.  Again,  getwds  (p.  464),  Herbort  842.
-12856.   ein  bose  getwds,  Vom  gelouben  530;  the  M.Nethl.
+12856.  <ein  bose  getwds,  Vom  gelouben  530;  the  M.Nethl.
 ghedwaes,  Hor.  belg.*  6,  249  agrees  with  the  Lith.  dwase,  spectre
 [v.  the  LS.  verb  dwetern  above].    In  Martina  10  we  read  '  daz
 
@@ -4418,7 +4464,7 @@ The  two  interpretations  admit  of  being  harmonized.  Knecht
 Ruprecht  makes  his  appearance  beside  frau  Berhta,  as  her  ser-
 vant and  companion  (p.  514-5),  sometimes  her  substitute,  and  like
 
-from  all  hope  so  in  Swed.  tradition  the  priest  says  to  the  nmsical   neck  :  '
+from  all  hope  so  in  Swed.  tradition  the  priest  says  to  the  nmsical  <neck  :  '
 Af S  156  But  this  myth  of  Tanhauser  accords  with  many  others,  esp_  Celtic
 £ trTll Xt,  it  is  told  in  Sweden  of  the
 
@@ -5178,8 +5224,8 @@ and  deep  be-delve  you.  Much  of  this  language  is  Biblical  (Isa.  2,  19
 Tmke  23  30-  Rev.  6,  15,  16),  but  the  sentiment  of  many  nations  will  run  alike  m
 wrh  matter's  Nib.  867,  2 :  '  mir  troumte,  wie  obe  dir  ze  tal  vielen  zwene  berge,  I
 dreamt  two  mts  fell  on  thee.  That  jumping  out  of  one's  skin,  like  a  snake  casting
-Ss  sTough,  may  also  come  of  joy  and  anger,  O.Fr.   a  poi  n»  ist  de  sa  pel,'  is  well
-nigh  out  of  his  skin,  Ogier  6688.  Nethl.   het  is  om  uitzijn  vel  te  spnngen.  So
+Ss  sTough,  may  also  come  of  joy  and  anger,  O.Fr.  <a  poi  n»  ist  de  sa  pel,'  is  well
+nigh  out  of  his  skin,  Ogier  6688.  Nethl.  <het  is  om  uitzijn  vel  te  spnngen.  So
 tn  our  EHs.  von  Orleans,  ed.  Schiitz  p.  223;  'for  joy,'  Ettn.'s  Unw.  doctor  856.
 Not  unlike  is  that  jumping  into  stone  spoken  of  on  p.  552;  as  early  as  Alb.  von
 Halb  143b  •  '  at  one  leap  he  turned  into  stone.'
@@ -5322,7 +5368,7 @@ fase  t  HalCd  (Ueborg  1818)  2  p.  801:
 
 hum  deVulle  efterkomma  den  gamle  blinde  FfT^X^tJ^^ i  en
 spanna  bfeltet  omkring  en  bjork,  och  bjarken  for  i  luften  och  at  satta  asfam p&^  en
-Lie  (grajye-mound),  oeh  straxt  .idr  Wlm.   Hman  The
+Lie  (grajye-mound),  oeh  straxt  .idr  Wlm.  <Hman  The
 bygd  der  ^len  blinde  mannen  hade  sitt  gethus  har  hen  f&tt  nf™^?'luB°'  g^f
 •  Mind  giint '  banished  to  the  island  is  a  spec  ral  heathen  god  (conf  Orion  p.  a«b
 the '  white  woman  '  a  christian  church  or  an  image  of  Mary  ;  had  they  fastened  the
@@ -5372,7 +5418,7 @@ together,  saying  there  was  no  great  strength  there  (Faye  p.  17).  A  s
 man's  Bahuslan  153-4  has  similar  variations :  A  ship's  crew,  driven  ouf;  of  their
 course  to  an  out-of-the-way  coast,  see  a  fire  burning  at  night,  and  go  on  sfyiore.  By
 the  fire  sits  only  one  old  man,  who  asks  a  sailor  :  '  Whence  be  ye  ? '  Fro;  m  Hisin-
-gen  in  Safve  pastorate.  '  Ken  ye  Thorsby  too  ? '  Ay,  that  I  do.  '  W ht  ye  the
+gen  in  Safve  pastorate.  '  Ken  ye  Thorsby  too  ? '  Ay,  that  I  do.  '  W<ht  ye  the
 whereabout  of  Ulfveberg  ?  '  Ay,  it's  many  a  time  I've  passed  it,  going  froijn  Gothe-
 borg  to  Marstrand  by  way  of  Hisingen.  '  Stand  the  great  stones  and  bar  rows  there
 yet  unremoved  ? '  Ay,  but  one  stone  leans  and  is  like  to  fall.  '  Wot  j  ye  where
@@ -5808,7 +5854,7 @@ A  fisherman  in  the  neighbourhood  of  the  Highwayman's  hill
 near  Feeben  was  throwing  out  his  nets,  when*  he  suddenly  saw
 the  white  woman  stand  on  the  bank  before  him  with  a  bunch  of
 leys.  She  said,  <  thy  wife  at  home  is  just  delivered  a  of  a  boy,  go
-fetch  me  the  babe,  that  I  may  kiss  him«and be  saved/  The
+fetch  me  the  babe,  that  I  may  kiss  him«and<be  saved/  The
 fisherman  drove  home,  and  found  everything  as  she  had  said,  but
 he  durst  not  take  his  child  out  at  once,  the  clergyman  advised
 him  to  have  it  christened  first ;  after  which,  when  he  repaired  to
@@ -7130,7 +7176,7 @@ planation of  '  Muotes  her'  suggested  on  p.  931n.
 One  name,  which  I  have  held  back  till  now,  is  of  frequent
 occurrence  in  MHG.  poets  of  the  12-13th  cent.  :  '  der  volant,'  S.
 Uolrich  54a.  69b.  74a.  Anegeuge  218b.  219a,  220b.  Tundal  56,
-31;   diu  vdlantinne  Herodia '  (see  p.  283),  Fundgr.  i.  139,  6;
+31;  <diu  vdlantinne  Herodia '  (see  p.  283),  Fundgr.  i.  139,  6;
 fder  volant,'  ii.  109,  42.  Eoth.  3106;  '  valandes  man,'  Roth.
 3227.  3366;  volant,  Eol.  289,  7;  1  vdlantes  man'  111,  5.  189,  16;
 '  der  iibel  volant;  Nib.  1334,  1  ;  valandinne  (she-devil)  1686,  4;
@@ -7812,7 +7858,7 @@ MIXED  UP  WITH  OLD  GODS.
 
 188,  { troll  taki  hann  ! '  Orvarrodss.  cap.  9,  '  fara  i  trblla  hendr  ! '
 Laxd.  p.  230,  it  answers  exactly  to  our  Devil,  yet  also  to  the
-older  and  more  pagan  one  :  (  eigi  \' k  gramir 3  or  '  iotnar  ! '
+older  and  more  pagan  one  :  (  eigi  \'<k  gramir 3  or  '  iotnar  ! '
 (p.  990-1).  In  Saem.  39  we  read  :  c  farjm  nu  )?ar  pmyl  hafi  j?ic  ! 3
 It  seems  that  Scandinavian  sorceresses  call  the  Devil  urdar  mdni
 (luna  saxeti,  Biorn  sub  v.) ,  which  I  know  of  nothing  to  compare
@@ -8420,7 +8466,7 @@ dacium)  and  logi  (blaze,  blast)  ?  Wind  means  to  us  a  false
 allegation,  windbag  a  humbug,  liar.  A  Dan.  proverb  says :
 'logn  er  et  skadeligt  uveir '  (mendacium  est  tempestas  nociva),
 Saxo  Gram.,  ed.  Mull.  p.  200.  A  liar  is  also  a  mocker,  hence
- des  tievels  spot/  Nib.  2182,  2.  f  daz  sinen  spot  der  tuvel  mit
+<des  tievels  spot/  Nib.  2182,  2.  f  daz  sinen  spot  der  tuvel  mit
 den  sinen  habe,'  Gr.  Rud.  1,  9.  In  Mod.  Nethl.  '  de  vyand  heeft
 my  beet  gehad/  hostis  me  ludibrio  habuit  (see  Suppl.) .
 
@@ -9115,7 +9161,7 @@ cated when,  upon  the  introduction  of  Christianity,  all  heathen
 
 dem  wonder,  daz  der  wundSLe  JZl^?«f '  Says"  Ms'  2-  I5*b  :  '  ™>1
 
-Ms.  2,  17lb TrSf  lnmTlt    ^  ,fn  d VJ  sUezen-'   God  is  the
+Ms.  2,  17lb TrSf  lnmTlt    ^  ,fn  d<VJ  sUezen-'   God  is  the
 mirabilis  Deus,  Helbl  7  12    *„♦  ? '  "*?  °f  ^U.w011^rS  hath  control,  Parz.  43,  9  ;
 
 the  name  of  w'unZrll)  in  Etels  tlLhnl  T?  "°dBto  ^  e'g"  Erek-  ea™
@@ -9660,7 +9706,7 @@ in  Harald  Mrf.  saga"  cap.  36,  king  Eirikr  causes  his  brother
 Eoo-nvald  and  80  serSmenn  to  be  burnt.    The  vala  or  volva  is  a
 prophetess,  priestess,  norn,  a  most  holy  being  of  the  olden  time
 (pp  97  408),  and  at  the  same  time  a  sei&kona.    Even  of  the
-Eddie  vala  it  is  said  :   sei3  hon  kunni/  Sa3m.  4b.    Such  magic
+Eddie  vala  it  is  said  :  <sei3  hon  kunni/  Sa3m.  4b.    Such  magic
 women  are  Eei&r,  Eamqlom,  Skuld,  etc.,  all  originally  air-riding
 valkyrs  (p.  421)  ;  in  Seem.  154b  volva,  skass,  valkyrja  stand
 side  by  side.    Weighty  evidence  shall  be  brought  by  and  by  of
@@ -9869,7 +9915,7 @@ se  elementis,  igne  atque  aquis,  concretum.' 2    Burgundians  and
 i  Leo  now  explains  from  the  Celtic,  that  burgius  is  th%tr^^a^^
 attendant,  and  chervio  wise-woman,  from  gear  ?^d>
 
- sagae  minister.'    Also,  that  strioportius  may  be  the  Welsh  ystryws  wise,  and
+<sagae  minister.'    Also,  that  strioportius  may  be  the  Welsh  ystryws  wise,  and
 
 sam  aciem  Marti  ac  Mercurio  sac£vere :  quo  veto  equi,  vm,  ^«
 
@@ -10262,7 +10308,7 @@ ignibus,  Aegipanum  Satyrorumque  lascivia  impleri,  tibiarum  ac  fistularum 
 tympanorum  et  cymbalorum  sonitu  strepere.'
 
 
-1054  MA na
+1054  MA<na
 
 143",  and  myrk-riffa  77%  by  which  monstrous  mischievous  giant-
 women  are  meant,  wild  women,  waldminnes,  iarnviSjur  (p.  483),
@@ -10457,7 +10503,7 @@ a  goddess  of  magic.
 
 1058  MAGIC.
 
-them  from  earlier  than  the  13th  century,  as  Wh.  1,  82":   wil
+them  from  earlier  than  the  13th  century,  as  Wh.  1,  82":  <wil
 der  (Machmet)  helfe  sparn,  so  helfen  in  die  naht-varn ;  daz  sint
 alter  wlbe  troume/  if  M.  grudge  help,  the  night-farers  help  them.
 Ls  3   10  •  '  ez  konde  niemen  bewarn,  ich  miles  eine  (alone)  uz
@@ -10548,7 +10594,7 @@ h?  SW+\6t  b.reath.'  laid  Mm  in  the  fire  at  ^  to  consume  all  that  w
 Wi  ,  m  +im'  b°?  thf0ve'  tm  his  mother  watched  and  saw  and  burst  into  a
 w  7  I '  •  Gf  ??  ^racle  Was  inter™pted,  Hym.  to  Ceres  236-63.  So  Thetis
 anoints  her  mf  ant  Achilles  and  hides  him  in  the  fire.  Conf.  however  the  vapa^pTv
-ra  pPe pv  dia  rVs  cpXoyos,  and  ponerejuxta  ignem,  p.  625.
+ra  pPe<pv  dia  rVs  cpXoyos,  and  ponerejuxta  ignem,  p.  625.
 
 Guotiu  wihtir,  p.  442  ;  conf.  unrighteous  things,  p.  1031,  sorcery.
 VOL.  III.  J  ^
@@ -11622,7 +11668,7 @@ straw,  p.  273 ;  out  of  the  goddess  was  made  the  hideous  bugbear.
 In  many  villages,  we  are  told,  there  are  wicked  wives  that  have
 a  white  liver,  whose  husbands  waste  away  and  die.  Passages  in
 the  Codes  prove  that  the  same  delusion  prevailed  among  the
-ancient  Germans :  Lex.  Sal.  67,   si  stria  hominem  comederit/
+ancient  Germans :  Lex.  Sal.  67,  <si  stria  hominem  comederit/
 and  what  was  quoted  p.  1068  from  the  Lex  Roth.  379  and  the
 
 1  Pliny  7,  2  notices  a  similar  test  for  magicians  :  « in  altero  oculo  gemmam
@@ -12346,7 +12392,7 @@ find  a  man's  name  Zflfhedinn,  and  OHG.  Wolfhetan,  MB.  28,  nos.
 
 1  Among  the  iEsopian  Fables  is  a  merry  gest  (Cor.  425.  Fur.  423) :  A  thief
 pretends  to  his  host,  that  when  he  has  yawned  three  times,  he  becomes  a  werewolf
-(otclv  odi>  xa TyU,?7#c3  rpeis  /SoXds,  yivofxcu  Xvkos  eadiwv  avdp&Tovs)  ;  the  timid  host  runs
+(otclv  odi>  xa<TyU,?7#c3  rpeis  /SoXds,  yivofxcu  Xvkos  eadiwv  avdp&Tovs)  ;  the  timid  host  runs
 away,  and  the  rogue  gets  possession  of  his  garment.  Petronius  in  Sat.  62  mentions
 a  peculiar  method  of  metamorphosis :  1  i^le  circumminxit  vestimenta  sua,  et  subito
 lupus  factus  est ;  vestimenta  lapidea  fact^  sunt.'  Conf.  cap.  57  :  '  si  circumminxero
@@ -12706,7 +12752,7 @@ Arvidsson  2,  179.  282,  where  the  miner  makes  the  maiden  drink
 of  the  glomshans  horn  and  forget  father  and  mother,  heaven  and
 earth,  sun  and  moon.  Now,  seeing  that  minna  in  the  Swed.
 folksongs  and  minde  in  the  Dan.  signify  to  kiss  (minna  uppa
-munnen,  Sv.  vis.  3,  123-4.  D.  vis.  1,  256.  298),  as  (j)i\elv  is
+munnen,  Sv.  vis.  3,  123-4.  D.  vis.  1,  256.  298),  as  ‹j›i\elv  is
 amare  and  osculari,  and  with  us  in  the  16th  cent.  fto  set  the  seal
 
 
@@ -12747,7 +12793,7 @@ promptly  reply  with  railing,  reviling,  wishing  f  the  same  to  you  I
 vati  noceat  mala  lingua  futuro/  Virg,  Eel.  7,  27;  hence  in  prais-
 ing oneself  a  '  praefiscini '  (prae  fascino  ?)  was  added,  Plaut.  Asin.
 ii.  4,  84.  Insult  and  imprecation  the  ancients  turned  aside  with
-the  words :  eh  Ke(j)a\rjv  aoi,  on  thy  head  may  it  fall ! — The  Mod.
+the  words :  eh  Ke‹j›a\rjv  aoi,  on  thy  head  may  it  fall ! — The  Mod.
 Greeks  and  Slavs  are  shy  of  praise,  and  try  to  save  themselves
 by  spitting  :  a  B/Ussian  nurse  directly  spits  in  the  face  of  one  who
 cracks  up  her  baby  without  putting  in  the  precautionary  '  God
@@ -12766,7 +12812,7 @@ no3
 
 
 (Swed.  40) ;  the  Greeks  at  sight  of  a  madman  spat  thrice  into
-their  bosom,  Theocr.  6, 39.  21,  11.    f   cr  dictis  despue  carminibus/
+their  bosom,  Theocr.  6, 39.  21,  11.    f  <cr  dictis  despue  carminibus/
 Tibull.  i.  2,  55.    Home-sprites  cannot  bear  spitting  (p.  514)  ;  conf.
 Sup.  I,  317.  453.    To  the  same  effect,  and  worth  reading,  is  what
 Pliny  28,  4  says  on  despuere,  adspuere,  inspuere,  exspuere. — In
@@ -13687,7 +13733,7 @@ swie  vil  der  musdre  umbe  geflouc  (how  the  m.  flew  round),
 der  ungeioube  in  niht  betrouc  (deluded)  :
 
 1  Conf.  Chrysostom  (b.  354  d.  407)  ad  popul.  Antioch.  homil.  21  (Opp.  Etonae
-1612.  6,  610)  :  IIoAAd/as  e£e\diov  tls  tt]v  oltiav  ry\v  eavrov  eWev  avBpwirov  €rep6 pda\p.ov
+1612.  6,  610)  :  IIoAAd/as  e£e\diov  tls  tt]v  oltiav  ry\v  eavrov  eWev  avBpwirov  €rep6<pda\p.ov
 i)  x^Xe^ra,  Kai  oiuvLtjaro  .  .  .  iav  diravTrjarj  irapdevos,  (prjaiv,  airpaKros  rj  rj/xepa
 yiyverac.    cow  de  diravT-Qay  irbpviq,  detjea  Kai  XPV^tt}  Kai  ttoAAtjs  ifX7ropias  ye/xovaa.
 
@@ -13838,7 +13884,7 @@ pp.  269.  274.
 And  it  becomes  to  my  mind  doubly  clear  by  the  clergyman
 
 1  Not  true  of  Theodora  at  any  rate,  a  bird  who  boded  ill  to  the  Byzantines :
-fp>  yap  rots  6pQ rt.i>  aXXws  re  /cat  apxo/J-eprjs  i]/xepas  j3\da(p7)pLos  oiuvos,  Procop.  Hist,
+fp>  yap  rots  6pQ‹rt.i›  aXXws  re  /cat  apxo/J-eprjs  i]/xepas  j3\da(p7)pLos  oiuvos,  Procop.  Hist,
 arc.  9  (ed.  Bonn,  p.  63).
 
 
@@ -15294,8 +15340,8 @@ death  or  destiny  (p.  406),  pestilence  carries  off :  •  suht  farnam/
 
 1154  SICKNESSES.
 
-Hel  125,  20  ;  in  the  Swed.  oath   tra  mig!'  we  must  supply
- ta^e'  take:  ita  me  morbus  auferat  !  In  the  Cod.  Yindob.  th.
+Hel  125,  20  ;  in  the  Swed.  oath  <tra  mig!'  we  must  supply
+<ta^e'  take:  ita  me  morbus  auferat  !  In  the  Cod.  Yindob.  th.
 49 8° no  94  I  find  the  phrase  'eine  suht  ligen,  zwo  suht  ligen/  to
 lie  one  sickness,  two  s. ;  <  sich  in  die  suht  legen/  lay  oneself  (he
 down)  into,  Reinh.  302.  320.
@@ -15400,14 +15446,14 @@ the  shooting,  twisting  and  tugging  of  pain  in  the  body ;  and  a
 derivative  corresp.  to  the  Goth,  gahts  (innagahts,  Gramm.  3,
 518) .  M.  Nethl.  jicht,  Icel.  %H,  Bw.  gikt,  Dan.  gigt.  The  Gothic
 renders  irapaXvTiKos  by  us-UJ>.a,  as  if  beside  one's  limbs,  having
-no  use  of  them;  an  OHG.  urlido  is  not  found.   Ein  siechtuom
+no  use  of  them;  an  OHG.  urlido  is  not  found.  <Ein  siechtuom
 heizet  pogrdt'  =  leme,  a  lame  palsied  state,  Parz.  501,  26  is  a
 corruption  of  podagra,  which  was  also  twisted  into  podagram.
 More  Teut.  are  fuoz-suht,  AS.  fot-ddl  (podagra);  zipperlein  I
 do  not  find  before  the  16th  cent.  M.  Nethl.  fledersin,  fledercine
-(arthritis),  Leven  van  Jesus  p.  52,  and   fl.  in  vote  ende  in  lede/
+(arthritis),  Leven  van  Jesus  p.  52,  and  <fl.  in  vote  ende  in  lede/
 Doctrinale  3,  1030;  in  D'Arsy's  Woordenboeck,  Amst.  1699,
- fiedecvjn,flerecijn,  la  goutte  (chiragra)' ;  did  the  word  mean  a
+<fiedecvjn,flerecijn,  la  goutte  (chiragra)' ;  did  the  word  mean  a
 moth  or  butterfly  that  brought  on  the  disease  ?  (see  Suppl.) .
 
 The  flying  gout  that  shifts  from  one  part  to  another  (arthritis
@@ -15452,7 +15498,7 @@ We  apply  the  term  fluss  (rheuma)  to  several  morbid  affections,
 some  slight,  others  dangerous  to  life,  as  stichfluss  catarrh,  schlag-
 fluss  apoplexy.  The  latter  is  said  to  touch,  hit,  strike ;  MHG.
 der  Gotes  slac  (stroke) ;  later,  die  geivalt  (might)  Gottes,  die  hand
-Gottes,  Ettn.  unw.  doct.  224.   traf  mich  Gottes  gewaW =  1  had  a
+Gottes,  Ettn.  unw.  doct.  224.  <traf  mich  Gottes  gewaW =  1  had  a
 stroke,  Brunsw.  anz.  1745.  p.  2022  (from  Life  of  Mat.  Schwarz,
 an.  1547)  ;  conf.  supra  p.  19n.  Yet  the  <  stroke  of  God'1  ex-
 presses also  the  quickness  and  ease  of  this  mode  of  death  (mors
@@ -15464,7 +15510,7 @@ might)  epilepsy,  from  Bozj  ruka  (God's  hand)  apoplexy  (see
 Suppl.).
 
 The  term  falling  sickness  for  epilepsy  occurs  as  early  as  Diut.
-2,  193b,    'valjandia  suht  (caducum  morbum)';    daz  fallende
+2,  193b,    'valjandia  suht  (caducum  morbum)';   <daz  fallende
 ubei;  Fundgr.  325  ;  <  fallender  siechtag/  Hutten  5,  171.  Other-
 wise :  the  sorrow,  the  misery,  the  sore  trouble,  the  evil  being,  the
 scourge,  the  weed  (Jul.  Schmidt  p.  136).    M.  Nethl.  vallende  evel
@@ -15503,7 +15549,7 @@ conjured  into  a  withered  tree.    A  severer,  longer  ailment  than
 hiccough  seems  to  be  meant ;  Mone  connects  nosch  with  nesso
 in  the  OS.  spell,  but  a  LG.  ss  answers  to  a  HG.  hs,  not  to  sk
 sch;  to  me  the  connexion  of  the  word  with  naschen,  explain  it
-how  you  will,  seems  indisputable:   s6  dich  din  suht  benascbe
+how  you  will,  seems  indisputable:  <s6  dich  din  suht  benascbe
 (nibble  at),  daz  dir  hut  und  Mr  abe  ge  !'  skin  and  hair  come  off
 
 (see  Suppl.).  .  .
@@ -15524,7 +15570,7 @@ also  means  colic  acc.  to  Hoffm.  Ruhr  (dysentery),  durchlauj,
 
 darmgicht  (acc.  to  Gloss.  Flor.  984*)  uzsuht,  Gl.  Flor.  984'  zuzsuht;
 further,  in  Staid,  aussncht  (diarrh.).  Bothe  ruhr  (bloody  flux),
- der  rothe  schaden'  (Aushelm  3,  236).
+<der  rothe  schaden'  (Aushelm  3,  236).
 
 Lungensueht,  AS.  lungenadl  (pneumonia);  ' schwt-nge.  odep
 luno-e-sucht '  in  Schweinichen  2,  256  is  surely  for  schwmde-  ?  in
@@ -16288,7 +16334,7 @@ quadri^eSbus1''  ?5  (C°nf*  220)  dteS  a  ' tractatus  IdParti  fabulosus.' :
 K64  2  'Mlt  ^  belchen  (fulicae  atrae)*  fiiezen  wirt  dem  man  mazleide  buoz,'  Ls.  3,
 
 3  Herodptus  2,  111  speaks  of  a  blind  man  recovering  sight  yvmticbs  otpu
-viyanevos  rovs  o pda\p.ovs,  jjru  Trapd  rbv  iuvrijs  avbpa  ^ovvov  Tre poiTVKe,  &pdpu>v
+viyanevos  rovs  o<pda\p.ovs,  jjru  Trapd  rbv  iuvrijs  avbpa  ^ovvov  Tre‹poiTVKe,  &pdpu›v
 eovaa  aireipos.  r
 
 
@@ -17103,7 +17149,7 @@ gravity  of  our  present  students  of  nature,  who  never  waste  a
 glance  on  the  customs  of  their  country,  and  to  whom  all  the  force
 and  grace  of  Teutonic  idiom  is  but  small  beer  (see  SuppL).
 
- Er4t,  steine  unde  wort  Mnt  an  kreften  gr6zen  hort'  (herb  and
+<Er4t,  steine  unde  wort  Mnt  an  kreften  gr6zen  hort'  (herb  and
 stone  and  wholesome  word  have  of  healing  powers  rich  hoard)  ,
 says  our  Freidank  111,  6 ;  and  as  there  lies  in  dwarfs  a  special
 acquaintance  with  the  healing  virtues  hidden  in  herbs  (pp.
@@ -17127,7 +17173,7 @@ draught,  grew  healing  herbs  that  blessed  the  land  at  large  (Marie
 de  Fr.  1,  268).  Mountains  foster  what  is  rarest  in  the  realm  of
 plants.   Zeus  and  Hera  laid  them  down  on  Ida's  top  (II.  14,  347)  :
 
-T0ldL  8'  V7TO  %0O)V  Sid   pV€V  V€O07]Xea  TTOlV,
+T0ldL  8'  V7TO  %0O)V  Sid  <pV€V  V€O07]Xea  TTOlV,
 
 Xcotov  6'  epcr^evra  ISe  icpoicov  rj$'  vclklvOov,  ^
 TTV/cvbv  koI  jidkaicov,  o?  airb  X0ovb<;  vfoa'  eepye'
@@ -17210,7 +17256,7 @@ the  lappa  he  says,  24,  18  [116]  :  'medetur  et  suibus,  effossa  sine
 ferro ;  quidam  adjiciunt  et  fodientem  dicere  oportere,  Haec  est
 herba  argemon,  quam  Minerva  reperit,  suibus  remedium  qui  de
 ilia  gustaverint;'  apyefiov  =  albugo  in  the  eye.    Hermes  pulls
-out  of  the  ground  for  Odysseus  the  (j)dpfiaKov  mighty  against
+out  of  the  ground  for  Odysseus  the  ‹j›dpfiaKov  mighty  against
 magic:  ^Xv  Si  fitv  Ka\iovai  deoi,  Od.  10,  305  (p.  369).  Does
 the  Iris  owe  its  name  to  the  messenger  of  the  gods,  or  the  white
 hue  of  the  lily,  or  other  causes?    In  christian  times  an  angel
@@ -18422,7 +18468,7 @@ t  few  obscure  names  :  dweorges  dwostle,  dwosle,  dwysle  (pulegium,  penn
 was  quoted  p.  448,  and  if  conn,  with  ON.  '  dustl,'  levis  opera,  perh.  quisquihae,  and
 <  dustla  '  everrere,  it  is  dwarf's  sweepings  ;  collan-crog  is  achillea  or  nymphaea,  and
 as  '  collen-ferhS '  in  the  poems  is  proud-hearted,  so  proud  crocus  (OHG.  kruogo)  or
-crock,  pitcher,  whichever  we  take  cr6g  to  mean  ;  (zlf-J)one,  OHG.  alb-dono,  our  alp-
+crock,  pitcher,  whichever  we  take  cr6g  to  mean  ;  ‹zlf-J›one,  OHG.  alb-dono,  our  alp-
 ranke  (bittersweet?) ;  wulfes  comb,  chamaelea  ;  foxes  gWfa,  buglossa,  OHG.  hrmdes-
 zunga,  ox-tongue  [or,  digitalis?]  ;  hind-hele&e,  paeoma,  Engl,  hind  hele,  appar.
 'cervam  celans,  defendens,'  conf.  'heletfe,  heolatf  '  (it  is  spelt  both  ways)  with
@@ -18723,7 +18769,7 @@ from  carmen].
 
 Opposed  to  blessing  is  cursing,  to  the  wholesome  the  hurtful.
 For  the  former  the  Goth  still  nsed  his  native  word  Jnupeins
-€v\o yia,  from  ]?ru)?jan  evXoyelv;  the  OHG.  segan  dicatio,  dedicatio,
+€v\o<yia,  from  ]?ru)?jan  evXoyelv;  the  OHG.  segan  dicatio,  dedicatio,
 benedictio,  comes  from  Lat.  signum,  the  AS.  segen  meant  merely
 signum  in  the  sense  of  flag ;  MHG.  segen,  like  our  own,  stands
 for  magic  as  well.  Ka/coXoyelv  is  in  Ulph.  ubil-qi)?an  maledicere,
@@ -20456,7 +20502,7 @@ barlebaen,  barli-bak,  -break  (devil)  1003,
 barn -building  252  n.
 Barthel  (goblin)  515  n.
 barzdukkai,  berstuhki  (dwarf)  448  n.
-(3a ricatvoj,  fascino  1100.
+(3a<ricatvoj,  fascino  1100.
 Baugi  903.
 Bavo's  pillar  394.
 Bayard  392.  656.
@@ -20821,3 +20867,5992 @@ Cerberus  814  n.
 Ceres  254.  309.  941.
 
 Ceridwen's  chair  (rainbow)  733.
+
+chair  of  God  136.  733.
+
+changeling  468.
+
+chaos  558.
+
+charadrius  853  n.
+
+Charis  143.  436.
+
+Charles,  see  Carl.
+
+charm,  carmino  1035.
+
+Charon  831.  840-5.
+
+Charos  845-6.
+
+chela  (arm  hoop)  939.
+
+chelidonisma  (swallow  song)  763.
+
+Cherusci  204.
+
+chervioburgus  (witches'  porter)  1045
+
+childbirth  1159.  1175-7.
+
+child's  caul  874.
+
+Chimken  503-4.
+
+chirihha,  cyrice  (kirk)  86.
+
+Chiron  1148.
+
+Chlungere  (tangler)  274.
+
+Chochilaichus,  Hygelac  vii.
+
+choirs,  nine  795  re.
+
+chrene-crud  (pura  herba)  642-3.
+
+chrismation  3w.
+
+Christ  xl.  182.  1247-8.
+
+Christopher  529  n.  540-2.
+
+Chrodo  206  n.  248-9.
+
+Cinderel  388.
+
+Cisa,  Zisa  298.
+
+Claus,  Clobes  505.  515.
+
+Clotho  414-5.
+
+cloud  332-3  ;  cloud-ship  638-9.
+cluricaun  (homesprite)  508.  513  n.
+Cnivida  372.
+
+coboldus  (homesprite)  501.
+
+cock,  the  red  (fire)  601.  670.
+
+cock-crowing  670.  952  note3.
+
+cock's  bones!  15  n.
+
+coibhi,  coifi  (priest)  92  n.  642  n.
+
+complices,  consentes  (gods)  26.
+
+concubinae  929.
+
+Constantine  85  n.
+
+Copia  889.
+
+cornucopia  869.  870.
+
+corn- wife  (fieldsprite)  477.
+
+corpse-bird,  -dove  828.  1134.
+
+cotinc  (man  of  God)  88.
+
+cow,  black  665 re.,  miraculous  871.
+
+Crescentia  1061.  1152.
+
+crossbill  183  n.
+
+cross-roads  1074.  1113-5.
+
+Ctitel  (planet  Venus)  130  re.
+
+cuckoo  675-682.  1135  n.
+
+cuckoo- spittle  (woodsave)  682.
+
+cudgel  jump  out  870.
+
+Cura  879  n.
+
+cursing  1227.
+
+cwis  (hell)  807.
+
+Cybele's  bath  254-5.
+
+
+INDEX.
+
+
+1255
+
+
+cyclop  516  n.  527.  547.
+cyclopean  walls  534.
+Cypripedium  (lady's  slipper)  1194.
+
+dad-sisas  (adjuring  the  dead)  1227.
+
+Daedalus  378.
+
+Dseg-hrefn  (dawn)  743.
+
+dseg-red,  dags-bran  (dawn)  747.
+
+daemones  (spirits)  439.
+
+Dagr  (day)  735-7.
+
+Dainn  453.
+
+Dank-rat  267  n.
+
+Danpr,  Danr  266  n.  368  n.
+
+Daphne  827.
+
+dase  (goblin,  witch?)  1061.
+Datanus  137  n.
+daumling  (thumbling)  450-1.
+Davy,  Old  989.  1004.
+day  and  dies  735  n.
+day-choosing  1138-9.
+daylight,  dwarfs  shy  of  466  n.
+days  of  the  week  122-130.
+dead,  feeding  the  913  n.
+Death  842.  888.  1181.
+
+  carried  out  766-8.
+
+ ,  dance  of  848.  851.
+
+ ,  Gossip  xvi.  853.
+
+Decius  (dice)  887.
+decumanus  fluctus  600.
+dehait,  souhait  951  n.
+Dehkla  416  n.  877.
+
+dehsel-rite  (witch's  ride)  1048-9.  1070.
+Dellingr  735.
+Deluge  576-581.  983.
+Demar-hilt  422  n.
+
+Demeter  (Ceres)  xxxix.  22.  212.  250-4.
+
+310.  331.  1059  n.
+deofol-gild  (idolatry)  82  n.  102.  1005.
+Depeghoz  554.  1028.
+Derk  214.  268.
+Deucalion  573-6-7.  580.
+deus,  debs  194.  339.
+devil  984.
+devil's  bit  1213.
+
+ bride  1009.  1029.  1073  n.
+
+ carl,  child  (demoniac)  1013.
+
+ cat  (caterpillar)  1029.  1073  n.
+
+ dike  1022-3.
+
+ hand  241.
+
+ mill  1021.
+
+ mother,  grandmother  1007-9.
+
+devin  (divine,  diviner)  471.
+dew-draggle  387.  786.
+clew-striker,  -skimmer  1073.
+Dhor,  Dor  812.
+DhruS  423.
+
+Diana  110 n.   195.  283-5-3.  933.  949.
+
+1055-7.  1161-2.
+Diana,  the  black  313  n.
+diar  (gods)  195  n.
+dice  150.  887.  1007.
+diena  (day)  195.
+
+
+Diespiter  195.
+Dieterle  717  n.
+
+Dietrich  (Theoderic)  373.  531.
+
+Dietrich-bern  213-4.  373.  936.
+
+Dietrich's  haus  1183.
+
+dievas,  dievaitis  (god)  168.  194.
+
+dille-stein  (lid  of  hell)  806.
+
+ding  (thing,  sprite)  442.  1073.
+
+Dionysus  (Bacchus)  306.
+
+Dios-curi  (Castor  and  Pollux)  120..  343.
+
+391.  463.  560rc.  916rc.
+Dirp,  Drip,  Trip  958  n.
+dis  (wise- woman)  97.  402.
+Disbargum  198.
+Disen-dach  (Tuesday)  125.
+Dissunapiter  22  n.  225.  1234.
+dives  (rich)  194.
+Divyaratna  872.
+Dobra-srichia  (fortune)  877  n.
+Dobro-pan  (planet  Mercury)  130  n.  150>.
+dock-alfar  (dark  elves)  443-4.
+dodola  (rain-maker)  593-4.
+dogor,  dcegr  (half-day)  757.
+dogs  named  after  gods  In.
+dog's  saddle  (cankerworm)  1074  nr
+Dold  581.  983.
+dolgr  (spectre)  916.
+domes-dag,  tuomis-tac  815  n.
+Don  150  nr.
+
+Donanadel  490 n.  1029.
+Donar  (-Thorr)  xviii.  122-3.  166.  812.
+donner  (thunder)  11  n.  15  n.
+donner-aas  (cat)  304.
+
+ bart,  -besen,  -kraut  183.  1191.
+
+ gueg  (beetle)  183.
+
+Donners-berg  170.  186.  955.
+Donner-schwee,  Doners-we  185.
+donner-ziege  (snipe)  184.
+dorant  (snapdragon?)  1214.
+Dorn-roschen  (sleeping  beauty)  xvi.  1204.
+dorper  (giant)  535.  556  n.
+DorruSr  426.
+
+doste  (wild  marjoram)  1029  n.  1214.
+
+dove  148.  848.  1135  n.
+
+dragon  978.  980.  998.  1019.
+
+dragonfly  1029.
+
+draugr  (spectre)  915.
+
+Draupnir  561.  871.
+
+dream  (dream,  bliss)  795.  901.  1145.
+
+dream-interpretation  1145-7.
+
+Drebkulls  817.
+
+Drei-eich  75.
+
+Drifa  631.  641.  883.  890.
+
+dros,  drost  (giant)  521-2  n.  1003.
+
+drottinn,  dryhten,  truhtin .  (lord)  22.
+
+drugi  thing  (spectre)  464  n.
+
+druid,  drf  1036  n.  1205-6.
+
+drut  (goblin)  423.  464.  1041-5.
+
+druten-zopf  (plica  Polon.)  464.  1247.
+
+dryad  (tree-nymph)  480.  653.
+
+Dualism  lii.  984.
+
+duck's  foot  450-1  n.
+
+
+1256
+
+
+INDEX.
+
+
+duende  (goblin)  500.
+
+duesse,  divesse  (fay)  410  n.
+
+duga  (help)  34.
+
+duga,  raduga  (rainbow)  733.
+
+dumbr  (stupid)  528.  543.
+
+dumeke,  duming  (dwarf)  726.
+
+durihil  stein  (thirl  stone)  1166.
+
+Durinn  561.
+
+durs  (giant)  521.  920.
+
+durva  (turf)  642.
+
+dusius,  duz,  duzik  (incubus)  481.
+dutten  (lubbers)  544.
+Dvapara  887.
+dverg-mal  (echo)  452.
+dvergr  (dwarf)  443-7.
+dverg-slagr  (palsy)  1157.
+dvergs-nat  (cobweb)  471.
+dwarfs  447-472.
+dwolma  (cbaos)  558  n.
+Dwyvan  581.
+Dyaus  193.
+dyrka  (worship)  31.
+
+Dziewanna,  Dziewica  478  n.  933  n.  1162.
+Dzuma  1186.
+
+ea,  aue,  ouwe  225.  600.
+eagle  633-4  ;  — 's  shadow  1133.
+ear,  ringing  in  the  1117.
+Ear,  Eor  202.
+Earendel  375.
+
+Earth  250-6 ;  cutting  out  earth  1093.
+
+earth-chicken  691.
+
+earth-fire  603.
+
+earth-mannikin  450  n.  454.
+
+earthquake  816.
+
+earth-worm  540.  561.
+
+east,  looking  to  the  34.
+
+Easter  cakes,  eggs,  games  780-1.
+
+ fires  43.  615-7.
+
+Eastre  289-291.  616.
+eblis  (devil)  574.
+
+ebur-J?rung    (Orion)    359.    727.  949
+
+(Hyades?)  730.
+echo  452.
+Ecke  238.  636.
+Eckhart  934-6.
+Ecki-sax  238.
+eclipses  705-7.
+Eersel  154.
+
+ege  (awe),  egesa,  eges-grime  237-8.
+
+egg  origin  560  n.
+
+eggrund  (hell)  806  n.
+
+egg-shells  469.
+
+Egi-dora,  Eider  239.
+
+Egi-helm  238.
+
+Eigil  374-6.  380.  424.
+
+Eikjjyrnir  818.
+
+Eileithyia  1176.
+
+Eim,  Lake  559.
+
+EindrrSi  381.
+
+einheri  (hero  in  heaven)  817.
+Eir  1148.  1161.
+
+
+Eisen,Frau  265.  297  n.
+Eisen-berta  277.  477.
+Eisen-hutel  505  n.  508.
+Eis-here  557.
+
+El  (tempest,  a  witch)  1089.
+ElbeE.  444  n.
+elbe  (elf)  442.  1073.
+Elbe-gast,  Ele-gast  465.
+Elben-drotsch  443. 461.  931.
+Elbe -rich  xlvi.  453.
+eld-borg  (fire)  628-9.  •
+elder,  ellen,  ell-horn  651-2.
+electrum  1218  n.
+
+elf-,  see  self-,  alb-,  alf-,  alp-,  elle-.
+
+elf -bore  (knot-hole)  461.
+
+elf-licht  (will  o'  wisp)  917.
+
+elf-queen  934  n.
+
+elf-shot  180-7.  460.
+
+elf-trad  (-tree)  653.
+
+elf -worship  448.
+
+Elias  173-4.  811.
+
+EliuSnir  802.
+
+Elivagar  558.
+
+elle-folk,    -koner,  -kong,  -skudt,  -vi
+
+443.  460  n.  461.  940 n.
+Elmo's  fire  906.
+Elohim  576-7.
+elves  442.
+elysium  821-2.
+Em-bach  599  n.  674.
+Embla  560.  572.
+enchant,  canto  1035.
+endil-meri  (ocean)  601.
+Endymion  952  n.
+eniautos,  etos  (year)  754-5.
+Enoch  174.  811.
+enpanez,  diables  998.
+ent  (giant),  entisk  524.  534.
+entsehen  (evil  eye)  461.  1035.  1099.
+Enyo  208.  435.
+Enze-mann,  Enzen-berc  524.
+EowSen  161w.  812.
+eofor-cumbol  (boar's  figure)  214.
+Eor  201-2.
+
+eorcnan-stan  (orphanus,  opal  ?)  1217.
+
+eoten  (giant)  519.
+
+ephialtes  (nightmare)  1155.
+
+epiphania  281.
+
+epur-helm  (boar  helmet)  215.
+
+Era,  Ere  (honour)  414  n.  891-5.
+
+Erce  253. 1238.
+
+Erc-tac  (Tuesday)  124.
+
+Erculus  161n.  212.
+
+ere  (honour,  worship)  29  n.  760 n.
+
+Erebus  575.
+
+Eres-berg  198-9.  201.
+
+Eres-burg  116  n.  199.201.
+
+Erichthonius  378.  726.
+
+Erik,  Old  989.  1004.
+
+Eriks-gata  (-road)  235.  360-1.
+
+Eris  208.  435.
+
+Eri-tac,  Er-tag  (Tuesday)  124.  201-2.
+
+
+INDEX.
+
+
+1257
+
+
+Ermen-rich  372.  982.
+
+Erming-strete  356.
+
+Ero  (Sansk.  ira,  earth)  250.
+
+esa  gescot  (gods'  shot)  25. 1244.
+
+Escio  349.
+
+Eskja  572.
+
+Essel  520  it.
+
+eteninne  (giantess)  519.
+Eticho  372-3.  394.
+Etzel  169.
+Eugel  471.
+eumenides  1086.
+Euring  358-9.
+Europa  338.  343.  666.
+Eve  574-5.
+evil  eye  1099.
+Ewald  454.
+
+e-warto  (priest,  judge)  89.
+exercitus  antiquus  941,  feralis  950.
+eyes,  quivering  of  the  1117.
+Ey-limi  979  n.
+
+fseece  (fetch,  fye?  )  464n.
+Fafnir  371-2.  688.  978.
+Fairguneis  xxii.  172.  256.
+fairguni  (mountain)  172.  644.
+fairhvus  (world)  793-5.  826  n.
+fairy-rings  187  n.  470.
+Falada  659.
+Falant  (devil)  992.
+Fama  897-8.
+Famars  84. 198.
+familiaris  514  n.
+fanatici  83-5.
+
+fani-golt  (fen  gold)  531.  978.
+
+fantasma  482.  498-9.
+
+fanum  (temple)  84-5.
+
+Far-bauti  246.
+
+farfadet  (ignis  fatuus)  917.
+
+farhuazan,  verwazen  (curse)  951.  1223.
+
+Farma-t^r  (OSinn)  196.
+
+Fasat  232  n.
+
+Fasolt  232  n.  239.  527.  636.  748.  943.
+
+Faste,  Frau  782.  933.
+
+fata,  fada,  fee  405-6  n.  410-3.
+
+fatalism  861.
+
+father  22. 168-9.
+
+faunus  481-2.  673.
+
+faura-tani  (portent)  1105  n.
+
+Faxi  656-7.
+
+fays,  fees  410-3.  551  n.
+
+feig,  fey  (marked  to  die)  856.  861.
+
+Felicia  869.  961.
+
+femurc  (devil)  1003.
+
+Fe  Murgan  412  n.  820  n.
+
+f engari  (luminary)  701  n.
+
+Fenja  531.  864.
+
+Fenrir,  Fenris-ulfr  244-6.  667.  814.
+fern-seed  1209-1211.
+Feruina  1234.
+
+fetch,  fye  (double,  wraith)  877  n.
+feuer-mann  (ignis  fatuus)  916  n.
+
+
+feverfew  1243-4.
+
+fiaftr-hamr  (wing-coat)  329.
+
+Fialar  the  cock  670.
+
+Fialar  the  dwarf  453.  468  n.  902.
+
+Fichte,  Frau  (pine)  653. 1171.
+
+fiefs  proclaimed  and  bid  for  787  n.
+
+field-spinster  1088. 1099. 1124.
+
+Fifel-dor  (E.  Eider)  239.
+
+fimbul  816.  825  w.
+
+Finn  219.  380.  454.  548-9.  1025.
+
+Fiolnir  348.  696.
+
+Fiorgyn  172.  256.
+
+fir-tree  653.
+
+fire,  perpetual  611.
+
+fire-beetle,  fur-boter  183.
+
+firgin-bucca,  firgen-gaet  (wild  goat)  184.
+
+fitchers-vogel  468  n.
+
+fiur-sehen  (pyro-mantia)  1111.
+
+flag  of  victory  1112.
+
+Fleder-wisch  (devil)  1063.
+
+flehen  (soothe,  implore)  30.
+
+flihtare  (guardian  angel)  875.
+
+Flore  429  n.
+
+Flosi  831.
+
+flower-offerings  57-8.
+fly  (devil)  998-9.
+foal's  tooth,  fiili-zant  658  n.
+Folc-wald  165.  219.
+Fold,  Fuld  (devil)  992  n.
+Folk-vangr  305.
+
+Folia  (copia)  224.  288.  308.  889.  1232.
+
+follet  (follis)  508.  917.
+
+fol-mani  (full  moon)  709.
+
+folter  (torture)  1076.
+
+Folz  227.
+
+Fonn  631.  641.
+
+footprint,  cutting  out  the  1093.
+fordsefta  (witch)  1032.
+forget-me-not  972.  1201.
+forn  (sacrifice)  40-1.
+Fornax  256.  629.
+
+Forneotes-folme  (a  plant)  240.  532. 1191.
+
+Forniotr  240.  529-  631-6.
+
+fors  (waterfall)  592.
+
+Forseti  229-232.
+
+forst  (hurst,  grove)  68.
+
+Fortuna  863-6-9.  877.
+
+Fortunatus  869.
+
+Fosete,  Fosetes-land  84.  229-231.  600.
+fosse-grim  (watersprite)  232  n.  493.  592.
+Frank  (dog's  name)  7  n.
+fraua-chueli  (ladycow)  303.  694-5.
+frauen-milch  (a  choice  wine)  1194.
+frauen-schlussel  (cowslip)  1194.
+frauja,  frea,  frdho  (lord)  22.  209.
+Frea  (  =  Frigg)  128.  134.  301.
+Frea  (AS.  for  Freyr)  209.
+Frea-laf  165.  219.  313  n.
+Frea-wine  viii.  93.  165.  211.  367.
+Frecken-horst,  Frsecing-hyrst  304.
+Freke,  Fru  304.
+Freki  147.  668.
+
+
+1258
+
+
+INDEX.
+
+
+Frene,  Fru  306  n:
+
+fres  (cat,  bear)  669.
+
+Frey-faxi  213.  655-6.
+
+Freyja  (sister  of  Freyr)liv.  212.  299.  417.
+
+547.  838.  1054.  1101.
+Freyju-har     (capillus    Veneris)  303.
+
+1191-4.
+Freyju-hoena  (ladybird)  695.
+Freyr  97.  114.  161-2.  530.  656-7.  790.
+
+960.
+
+Freys-vinr  93.  211.
+Frey-vrSr  188.
+
+Fricca  (  =  Frigg,  Odin's  wife)  xv.  301.
+947-9.
+
+Fricco  (  =  Freyr)  113.  161.
+
+FritS  (mild)  1149.
+
+frifl-hof  (asylum,  sanctuary)  85  n.
+
+Friday  123-8.  301-2.
+
+FrrSu-wulf  165.  219.
+
+Friedrich  Eedbeard  (Barbarossa)  955-9.
+
+friend  of  God  viii.  93.
+
+Frigg  (Odin's  wife)  xx.  270.  300.  647  n.
+
+860  ??.  873-4.  939.  1232.
+Frigge-rock  (Orion's  belt)  270.  302.  726.
+Friggjar-gras  (berba  conjugalis)  302-4.
+frl-murc  (devil)  1003.
+friscing  (pig,  lamb)  50-1.
+Fro  (  =  Freyr)  209.  478.  637.
+Fro  (  =  Freyr)  209.  211 ;  Fro-blot  348.
+Fro-berge  (Frey's  sword?)  216  n.
+Frdfta-mioll  (gold)  xliv.
+FroSi  xliv.  347-8.  368.  531.  864.  871.
+Froger  367-8.
+Fro-belm  215.
+Froho  (  =  Freyr)  xix.  210.
+Froja  (  =  Freyja)  302.
+fromm  (pius)  88.
+Fr6-muot  (mirtb)  891.
+Fro-win,  Frea-wine  (F.'s  friend)  211.
+Frua  (  =  Freyja)  xx.  224.  299.  1232.
+Fruike,  Fru  304  n.
+Fruma  (gain)  889.
+Fruote  (=Fr6£i)  xliii.
+Fuld  (devil)  992  n.
+Fulla  (copia)  288.  308.  871.  889.
+fulla-fahjan  (worship)  38.
+fullibs  (full  moon)  709.
+funken-tag  (Shrove  Tuesday)  628.
+Fuoge,  Fro  (fitness)  311  n.
+furious  host  918-950.
+f  utter-mannchen     (homesprite)   510  n.
+
+513  n.
+
+fylgja  (guardian  spirit)  874-877.
+
+gade-basse  (May  king)  776.  785.
+gade-ild  (May  fire)  622.
+gade-lam  (May  queen)  776.
+Gaia  250-4.  575.
+
+galadrot,  caladrio  (a  bird)  853  n.  1181.
+Galar  453.  468  w.  902.
+galdr  (magic  spell)  1035.  1223.
+galiug  (false  god,  idol)  15.
+
+
+gallicena  (prophetess)  425  n.
+gallows-mannikin  513  n.
+Gallus  671.
+
+gamban-teinn  (wishing-rod  ?)  976.
+Gambara  362.
+
+gand-rerS  (witch's  jaunt)  1052.
+Ganges  600.
+Gang-lati  843.
+
+Gang-leri,  -raSr  (OSinn)  163  n.  325.
+
+Ganna  95-6.  403.
+
+gap  ginnunga  (chaos)  558.
+
+Gargantua  542.  554.
+
+Garmr  (hell-hound)  814.
+
+garsecg  (sea)  601.
+
+Garuda  633-4.
+
+Gauchs-berg  680.
+
+Gauden,  Fru  xx.  925-7.
+
+Gaue,  Fru  xx.  252.
+
+Gauta-tyr  (OSinn)  196.
+
+Gautr  164.  368.
+
+Gauts  23.  354  n.  367-8.  372.  888.
+
+gavalrbi  (peace)  17  n.
+
+Geat  164-5.  372.
+
+Geban  239.  600.
+
+Gefjon  239.  311.  530.  861  n.
+
+Gefn  (Freyja)  311.
+
+Gefuoge  (fitness)  311  n.
+
+gehenna  (hell)  800.
+
+Geilat  739.
+
+Geir-nidrSr  217.
+
+Geir-r63r  529.  531.
+
+geist,  ghost,  gust  439.  461.
+
+Gelder  220.
+
+gelmir  (boisterous  ?)  563.
+gelstar  (sacrifice)  38-9.
+gemein-woche  (public  week)  43.  298.
+genesen  (get  well)  1244.
+Geofon  239.  600.  565  n.
+George's  shirt  1099.
+geormen-leaf  (mallow)  1216.
+gepanta  (a  ship)  877  n.
+GerSr  212.  309.  530.
+Geri  147.  668.
+Ger-not  371.
+Gersimi  886.
+
+Gertrude  xxxviii.  60.  270  n.  305.  423  n.
+838.
+
+Gertrude's  fowl  (woodpecker)  673.
+
+gespenst  (spectre)  914.
+
+Gestr  (OSinn)  326.
+
+getroc,  getwas  (spectre)  464.  915.
+
+Gevis  354  n.
+
+Giallar-horn  234.
+
+Gibicho  137.  370.  888.
+
+gid  (song)  900-5.
+
+giess-vogel  (rainfowl)  674.
+
+giezen  (cast,  mould)  23.  105  n.  142.
+
+gifr  (giantess)  526.
+
+gigant  (giant)  525.
+
+gildan  (sacrifice)  38-9.
+
+Giltine  (plague)  1185.
+
+Gimill  (new  heaven)  823.
+
+
+INDEX.
+
+
+1259
+
+
+ginnan  (yawn,  gape)  320. 403.  558  n.  748.
+ginnunga-gap  (chaos)  558.  562.
+gin-regin  (gods)  320.
+Gioll  (river  of  hell)  802-3.
+girregar  (ignis  fatuus)  917.
+Gisla-hari  371.
+Giuki  370.
+
+GlaSs-heimr  (site  of  Valholl)  820.
+Glasis-lundr  (-grove)  76.
+glass-castle,  -house  820  n.
+glass-mountain  820  n.  836  n.
+Glaucus  696.
+
+gleo,  gleo-man,  gleo-crgeft  901.
+Gler  658.
+
+Glis-born  (-burn)  938.
+
+Glitnir  (Baldr's  hall)  229.
+
+Gloggen-sahs,  Mount  444.
+
+gluck-henne  (Pleiades)  728.
+
+gliicks-haube  (child's  caul)  874.
+
+Gna  884.  896-7.
+
+gnid-eld  (need-fire)  607.
+
+go,  go  about,  walk  (haunt)  915.
+
+goat  184-5.  995.  1076.
+
+goat -hallowing  52.  996.
+
+gobelin  (homesprite)  502.
+
+God,  go«,  gu«,  got  13.
+
+God  and  me,  welcome  to  16.
+
+God's  joy  17,  industry  17  n.,  anger  18,
+hatred  19,  goodness  20,  power  20-1,
+fatherhood  22,  chair  136.  733,  eye
+146  ».,  judgment  1108.
+
+goddess  250.
+
+Gode,  Fru  253.  927  n.
+
+god-forgotten  (horehound)  1192.
+
+goft-ga  (blasphemy)  liii.  7  n.  20.
+
+god-gubbe  (Thor)  167.
+
+go$i  (priest)  88.  93.
+
+GoS-mundr  823  n.  393.
+
+Goftormr,  '  Dana  go$  '  161.
+
+gods  99  ;  not  immortal  316-320.
+
+gods'  images  63-4.  105-119.
+
+gods'  language  331-4.
+
+gods'  vehicles  107.  327-9.
+
+God-wulf  165.  219.
+
+gofar,  gaffer  (Thor)  167.
+
+Goi  253.
+
+gold-burg  (palace)  820.
+Goldemar  453.  466.  509. 1190.
+gold-ferch  (-hog)  51.  213.
+golden  dame  130  n.
+gold-horned  cows  55.  665.
+gold-sele  (palace)  820.
+Gondul  420-1.
+Gontzol  725-6.
+good-fellow  (goblin)  500.
+good- man  (priest)  89.
+good  people,  good  neighbours  456.
+good-woman  89  n.  429.  430  n.  1059.
+goose  1098.
+
+goose-foot  281.  429.  450-1  n.
+gorninga-veftr  (magic  wind)  640.
+gossamer  783-4.
+
+
+gota-betti  (altar)  68  n.
+
+gotes  friunt  (friend)  viii.  93  n.
+
+gotes  ouwe  (ea)  225  n.
+
+gotewuoto,  godow6de  (tyrant)  132.
+
+gotinne  (goddess)  250  n.
+
+got-man  (man  of  God)  174  n.
+
+gotze  (false  god,  idol)  15.
+
+Goz  (  =  Gauts)  23.  368.
+
+Grail,  the  holy  872.
+
+graman,  gramir  (devils)  990-1.
+
+Grampus  (goblin)  515.
+
+grandfather,  Atli  xlvii.  169.
+
+Grani  (OSinn)  147.  392.  944.  978.
+
+Grant  243.  994.
+
+Gratiae  143.
+
+green  meadow,  vale  822.  830  n.  960  n.
+
+Grendel  243.  496.  1000.  1016.
+
+grey  man  (devil)  993.  1025.
+
+grey  mannikin  449.
+
+Grey-mantle  146  n.
+
+grifta-mark  (token  of  peace)  902.
+
+gri'Sa-sta'Sr  (sanctuary)  85  n.
+
+grrSr  (giantess)  526.
+
+griffin  998,  griffin's  gold  980.
+
+grima  (mask)  238.  1045.
+
+Grim-hildr,  Krim-hilt  238.  423.
+
+Grimme  556.
+
+Grimming  171.
+
+Grimnir  (0«inn)  xv.  146.  637.  667.
+Grimr  Oegir  1017.
+grindel  (bolt,  bar)  243.
+Gripir  94.  861  n.  979  n.
+Groa  373-5.  1249.
+
+grom,  grummel  (thunder)   178.  184.
+
+883.
+Gronjette  944.
+
+Grotti  (wishing-mill)  531.  871.
+Grzmilas  (dog's  name)  7  n.
+guardian  angel  874-7.
+Giibich  453.  480.
+Gucken-berg  953.
+Gudens-berg  152.  938.
+gudja  (priest)  88.
+giiete  (lovingkindness)  760.
+giietel  (goblin)  481.
+Gull-faxi  655-7.
+Gullin-bursti  213-4.  871.
+Gullin-tanni  234.
+Gull-toppr234.658.
+Gull-veig  403.
+Giilpe,  Blut-giilpe  1248.
+Gumir  237  n.
+
+Gunda-hari,  Gunnarr  371.  877n.
+gunde-rebe  (ground  ivy)  1212.
+Gundia,  Gunnr,  Guft  422.  890.
+Gungnir  147.  846.  870.
+GunnloS  367.  530.  902. 1133.
+Guogo  943  n.
+
+guot,  vil  guot  (right  gracious)  1202  n.
+Guro-rysse  945-6.
+Gustr  461.  630.
+Gustrat  743  n.
+
+
+1260
+
+
+INDEX.
+
+
+gute  holde  (elf)  266.  456.  462.  1067  re.
+
+1074. 1156.
+gute  Lubbe  526.
+Gwodan  134.
+
+Gwydion  xxix.  150  re.  357 re.  412 re.
+gvgr  (giant)  525.  551.
+Gyllir  658.
+Gymir  237  n.
+
+Habonde  286-7.
+
+Hadburc  428.  434.
+
+Haddingr  342-7.
+
+Hades  313.  335.  804  re.  854-5.
+
+Hading  146.
+
+Hadu  196.  207.  223.  888.
+haeften  gold  689.
+
+haegesse,  haegtesse  (witch)  1040.  1244.
+hsern  1244  n.
+
+haf-gygr,  hafs-fruu  (watersprite)  488.
+
+494-7.  652.  869.
+Hagano,  Hagene  371. 424-8.  434.
+hagazusa,  hagetisse  (witch)  1040.
+HagbarSr  393  n.
+hagebart  (mask)  1045  n.
+hag-ridden,  hag-rode  464.
+hail!  16.
+
+hail-making  1086-7.
+hainal  (dawn)  749.
+Hakel  593.
+
+Hakel-berend  146.  921-3.
+Hakel-berg  921-2.  1001-2.
+Hakel-block  921.
+
+hakula-bairands  (cloak-wearing)  147.
+hale-wsege  (holy  water)  1246.
+Half  dan  the  old  393.
+half-risi  (half-giant)  533  n.
+Halja  (  =  Hel)  312.  800.  839.
+halla  (temple)  85.
+Hall-biorn  667.
+Halle  1047  n.  1048.
+hall-feuer  (Shrove  Tuesday)  628.
+Hallin-skrSi  234.
+halp-ful  (half-grown  boar)  996.
+Hamadio,  Hamdir  196.
+hamadryads  653.
+Hamar  181.  883-5  re.
+Ham-glom  637.  1042.
+naming]  a  (guardian -spirit)  874-7.
+hammer  11  re.  180-2. 188.  505.  999. 1221.
+hampelmann  (goblin)  502-8.
+hands,  bear  on  the  (make  much  of)  891.
+Hanga-tf  r  (OSinn)  146. 196.
+Hans,  Jack  515re.  552.
+-hans,  -hansel  in  goblins'  names  506  re.
+511.
+
+Hans  aftens  bluss  (Mids.  fire)  622.
+
+hant  (fashion) :  alte,  niuwe  1130.
+
+hapt  (god)  26.
+
+Har  (high)  162.
+
+HarbarSr  147.
+
+Harke,  Fran  253.
+
+Harlunge  golt  982.
+
+
+Harthgrepa  555.
+haruc  (temple)  68.
+harugari  (priest)  88.
+hasehart  (chance)  887.
+haspel-holz  (spindle-wood)  652.
+hatching- dollar  871.
+Hati  244.  705.
+
+Haule-mannikins  (dwarfs)  456.
+
+Haule-mutter  (Holle)  456.
+
+hawthorn  183  re.
+
+Hazel,  Dame  ;  hazel-rod  651-9.
+
+head-uncovering  32. 155.  652.
+
+HeaSo,  Hadu  223.
+
+Heardingas  342-7.
+
+heart-worm  1159.
+
+hearth-gods  500.
+
+heathen  Ire.
+
+heathen-pelting  191.
+
+heaven- scaling,  -storming  530.
+
+heben-wang  (paradise)  821.
+
+Hecate  949.  1042.
+
+heck-mannchen  (homesprite)  513.
+
+HeSinn  424.  1095.
+
+HerSi  637.
+
+HerSr  98.  403.  1042.
+
+HerS-run  818.
+
+heila-wac  (holy  wave)  585-6.
+heil-brunnen  (healing  springs)  587.
+heiligen-forst,  -holt,  -loh  74-5.
+Heiling  453.
+
+heilisari  (augur),  heilisod  (omen)  1106.
+heimchen  (elf)  275-6.  446.  459  it.  851.
+Heimdallar-vatn  235.
+HeimSallr  xl.  22.  233.  361.  571-4.
+Heimdalls-houg  235.
+Heimo  387.  527.  689.  851.
+Hein,  Friend  (death)  446.  851.
+hein  (hone,  stone  wedge)  373.  533-D
+903  re.
+
+heinchen  (elf)  459  re.  851.
+heinen-kleed  (shroud)  446.
+Heinz,  Heinzelman  503-9.
+heiss-hunger  (dog-hunger)  1159.
+Hekel-berg,  -velde  1001-2.
+Hekla,  Heklu-fiall  923.  1002.  1052.
+heklu-maSr  (OSinn)  146.  223.  246.  31
+800.
+
+Hel  839.  844.  1183.
+Hel-blindi  246.
+
+hel-grind  (-grating,  -rail)  802.
+
+hel-hest  (-horse)  844.
+
+hel-kappe  (cloak  of  darkness)  462.
+
+Hel-rerS  (-ride)  802.
+
+hel-sko  (death-shoe)  835.
+
+hel-viti  (-torment)  313.  805.
+
+Hel-voet  (-foot)  315  n.  804.  834.
+
+held  (hero)  341.
+
+Helena  560 re.  906.  974.  1194.
+
+Helga-fell  645.
+
+Helgi  388.  818.
+
+Helias  370.
+
+Heligo-land  230.
+
+
+INDEX.
+
+
+1261
+
+
+Helium  315  n.  834.
+
+hell-bar  243.  1000.
+
+hell-constable  1001.
+
+hell-gate  802-3.
+
+hell-goat  995.
+
+hell-hound  996-7.  814  n.
+
+hell-jager  (-hunter)  155.  930.  1006.
+
+hell-raven  997.
+
+hell-wagen  (death-car)  802.
+
+hell-weg  (death -way)  801.
+
+hella-fiur,  -wizi  (gehenna)  800-5.
+
+helle-grave  (devil)  993.
+
+helle-kruke  (witch)  I064w.
+
+Helle-put  (-pit,  -well)  804-7.
+
+helle-warc,  -wolf  (devil)  996.
+
+helle-warte,  -wirt  (devil)  1001-2.
+
+Hellenes  534.
+
+Hellequin,  mesnie  de  941.
+
+helli-runa  (necromancy)  1225-8.
+
+helot-helm  (cap  of  darkness)  463.  870.
+
+Hemmerlin  181.  1004.
+
+Hemming  Wolf  381.
+
+hen  and  chickens  (Pleiades)  728.
+
+henbane,  see  bilse.
+
+Hennil  (dawn)  749.
+
+Henricus,  bonus  (chenopodium)  1213.
+
+Heofon-feld  in  Northumbria  234.
+
+Hephsestus  (Vulcan)  241.  308.  378.  472.
+
+571.  984.
+Hera  (earth  ?)  254.
+Hera  (Juno)  306-8.  321-2-6.  680.
+Herbout  888.
+
+Hercules  103.  111-9.  121.  161  n.  227  n.
+
+353.  363-4.  516  n.  547  n.  1148.
+Hercules  Saxanus  365.
+Heremod  164-5.  224.
+her-faSir  (father  of  hosts)  22.  133.
+Herfiotr  401.  422.
+
+Herimuot  224.
+
+Herja-foSr,  Herjan  (OSinn)  22.  817.
+
+Herkja  253.
+
+Herlaugr  394.
+
+Hermen  sla  dermen  355.
+
+hermae  (pillars  of  Hermes)  118.
+
+Hermes  xxviii.  111.  149.  150.  321-7.  343.
+
+354.  516??.  841-3.  869.  906.  976.  1125.
+Hermino  345.  351.
+
+HermoSr  224.  802.
+
+Hermunduri  118.  359.
+
+Heme  the  hunter  942.
+
+Herodias  283.  632.  883.  933.  1055-7-8.
+
+heros,  hero  341.
+
+herra-waga  (Charles-wain)  724.
+
+herre  (not  her,  for  God)  22.
+
+Hertha  256  n.
+
+hertinga  (heroes)  342.
+
+Heru  204.  885  n.
+
+Her-vor  424-5.
+
+her-wagen  (Charles-wain)  151.
+Hestia  611.
+Hesus  xxix.  204.  663.
+hevan  698.
+
+
+heven-ring  (rainbow)  359  n.
+hexe  (witch)  1039.
+hexen-tusch  (witches'  rout)  279??.
+HiaSningar  940.  1095.
+hialm-mey  (valkyr)  418.
+Hickenild  356  n.
+Hidimbas  (a  giant)  555.
+Hilde  285.  422??.  632.
+Hilde-grim,  Grim-hildr  238.
+Hilden-straet  (milky  way)  285.  357  n.
+Hildr,  Hiltia  422-4.
+Hille  1247.
+
+Hille-snee  (Holle-sne?)  268 n.  304.
+Hillegers-berg  537.
+
+Hilta  208.  1247.  *
+Himeles-berg,  Himin-biorg  233.  669w.
+himel-wagen  (Charles-wain)  151.  701??.
+himmel-tatl  (-daddy)  168.
+hinke-bein  (devil)  993.
+Hinze,  Hinzelman  503.
+hiona-gras  (conjugalis)  302-4.
+hirrlig-spor  (devious  track)  916.
+Hisi  552.
+
+Hiuki  and  Bil  (man  in  moon)  717.
+
+hiuri,  geheuer  (snug,  safe)  914.
+
+HlaS-guSr  424-5.
+
+Hladolet  (planet  Saturn)  130??.
+
+hlaut-bollar  (blood-bowls)  55.
+
+Hler  240-1.  631.  883.
+
+H16s-ey  240.
+
+HlrS-skialf  135-6.  817  n.
+
+Hlif,  Hlif-bursa  1149.
+
+Hlin  874.  884-9.
+
+Hlock  401.  422.  887.
+
+HloSr  76.  389.  874  n.
+
+HloSyn  167  n.  256.
+
+H16r-ri«i,  Eind-rrSi  (Th6rr)  167??.  187.
+257.
+
+Hludana  256.  266  n.  883.  •
+
+Hnikarr,  HnikuSr  (QSinn)  489.  908.
+
+Hnoss  886.
+
+hoard-lifting  970.
+
+hobgoblin  503??.  504  n.
+
+Hodeken  463.  508,  conf.  641.
+
+HoSr  220-3.  823.
+
+Hoenir  xl.  151.  162.  241-2.  823.
+
+hof  (temple)  85..
+
+Hof-varpnir  896-7.
+
+hogbergs-gubbe  (giant)  189.  536-7.
+
+Hogni  (Hagano)  424.
+
+hoho  !  928.
+
+Holda  xv.  xx.  265-272.  285.  456.  487.
+
+596.  883.  911-2.  933-4.  946-7-9.  968.
+
+1055.  1162.
+holden  272.  487.  1073-4.
+Holgi,  Holga-bruSr  637.
+Holle,  Erau  267-8??.  273  n.  456.  840.
+
+934-5.  1088.
+Holle-frau  269??.
+Holle-peter,  -popel  269.  506.  515.
+Hollen-zopf  (plica  Polon.)  464.  1156.
+Holle's  pond  268  n.
+
+
+1262
+
+
+INDEX.
+
+
+holta-t>6rr  (fox)  177.
+Holywell  587.
+Holywood  74.
+
+holz-frowe  (wood-wife)  433.  483.
+holz-muoja,    -runa    (wood- wife)  433.
+1135.
+
+home-sprite  499-515.
+Honour,  Dame  891.
+Hood,  Eobin  504.
+hoop-trundling  628.
+hoopoo  681-2.
+Hopfen-Mtel  505  n.  508.
+hopt  (gods)  26.
+Horant  908.
+
+horga-brfrSr,  -troll  (giantess)  114.  637.
+
+horn-blase,  -buta  (witch)  1061.
+
+horn  of  plenty  869-872.
+
+horn-troll  (beetle)  183.  692.
+
+horse  392.  655-664.
+
+horse-flesh  47.  1049.
+
+horse-footed  994.  1050.
+
+horse's  head  47-8.  618.    659.  660-1.
+
+787n.  841-4-9.  850.  1050.
+horses'  heads  on  gables  xxix.  660-1.
+horses  sacrificed  47-8.
+Horsel-berg  935.  959.  1052.
+hors-gok  (snipe)  184.
+Hotherus  180.  220.  431.
+Hottr  (OSinn)  146.  1025  n.
+household  gods  500.
+houseleek,  stonecrop  183.
+Hrffi-svelgr  633-5.
+hraiva-dubo  (corpse-dove)  1134.
+HreSa  206.  290.
+Hrede  289.  885-6.
+Hrede-monaS  (March)  206.  248.
+Hregg-mimir  (heaven)  700.
+Hrim-faxi  328.  330.  641.  655-6.
+Hrim-gerftr,  Hrimnir  532.
+hrim-burs  (giant)  532.
+Hrodo  206.  248-9.
+HroS-vitnir  244.
+Hromolan  171.
+
+Hropta-tyr,  Hroptr  (OSinn)  196.
+
+hrossa-gaukr,  horse-gowk  (snipe)  184.
+
+Hross-hars-grani  (OSinn)  858.
+
+Hmngnir  321.  527.  533.
+
+Hruoda  290.
+
+Hruodo  206.  248-9.
+
+Hug-dietrich  393.
+
+Huginn  147.  671.
+
+Hugleich,  Hygelac  vii.
+
+Huldana  xi.  xx.  266  n.
+
+huldi  (favour,  grace)  18.
+
+Huldra  271.  452-3.  946.
+
+Huldre-slat  (-lay)  271.  470.
+
+Huldu-folk  272.  452.
+
+human  sacrifices  44.
+
+Hunding  696.
+
+hiine  (giant)  522-4.  529  n.
+
+Hunger  888.
+
+hunger-spring  590-1.
+
+
+Huns  523.
+
+hunsl,  husel,  housel  39.  40.
+
+hunter,  the  wild,  furious  (devil)  1006.
+
+huorco  (ogre)  486.
+
+husing  (homesprite)  500.
+
+Hutchen  (  =  Hodeke)  508.
+
+Hutt,  Frau  533.
+
+huzd  (hoard)  970.
+
+Hvergelmir  558.  563.  796.  803.
+
+hvita  qvinna  (white  woman)  955  n.
+
+Hyfja-berg  1149.
+
+Hfmir  529.
+
+Hyndla  98.  813  n.  1054.
+Hyrieus  xxxix.
+
+Hyrrokin  (a  giantess)  542.  1054.
+
+Iafn-har  (co-equal)  162.
+Ialkr  366.
+
+IarSar-megin  (earth's  might)  642.
+
+Iar$ar-men  (sward)  307.  643.
+
+iarkna-steinn  (orphanus,  opal  ?)  1217.
+
+iarn-greipr  (Thor's  gloves)  1094  n.
+
+Iarn-haus  528.  533.
+
+Iarn-saxa  321.  530-3.
+
+iarn-vr5ja  (wood-wife)  483.
+
+Ibor  362.
+
+Ida  336.
+
+ISavollr  822.
+
+Idisia-viso  401.
+
+idol-pelting  190-1.  782-3.
+
+Kunn  236.  319.  871.
+
+Iliya  (Elijah)  166.  173-4.
+
+illumination  630.
+
+Dmarinen  xxxi.
+
+image  104-5  n.
+
+images  of  gods  104-119.
+
+Imeldt  385  n.
+
+Imelunge  hort  (hoard)  982.
+incarnation  336-8.
+incense  57.
+
+incubo,  incubus  481.  511.
+Indra  xxxiii.  145.  733.  1221.
+ineihan  (vow  an  offering)  37-8.
+infern,  'fern  (hades)  802.
+in-geside  (house-god)  500.
+Ingo  345-9.
+
+in-goumo  (homesprite)  500.
+
+Ino  374.  496n.
+
+insaken  (sacrifice)  37.
+
+inveitan  (worsbip)  29.
+
+Io  338.  343.  666.
+
+Iofur,  Ibor  362.
+
+iohdi  (ghosts)  940.
+
+iol  (yule)  702.
+
+Ior«  (earth)  251.
+
+Iormun-gandr  118.  182.  246.  794.
+
+Iormun-grund  118.
+
+iotull  (giant)  520.
+
+lotun-heimr  375.  530.
+
+iotun-mo'Sr  (giant's  rage)  530.
+
+iotun-ox  (beetle)  692.
+
+iotunn  (giant)  519.
+
+
+INDEX.
+
+
+1263
+
+
+Iring  234-5.  358-362.  1148.
+Iris  733.  1192.
+
+Irman-sul  101.  115-9.  353.  799.
+
+Irmenfried,  Irnvrit  358-9.
+
+irmin  118.  353  n.
+
+Irmino  351-362.
+
+Irpa  98.  113-4.  445.  637.  1088-9.
+
+irprottan  (tranced)  1083.
+
+Irre-gang  917.
+
+irr-kraut  (fern)  1210.
+
+irr-licht,  irr-wisch  (ignis  fatuus)  916.
+
+Isan-grin  (wolf)  238.
+
+Isarna  372.
+
+Isarno-dori  80.
+
+Isco  345-9.  571.
+
+Isis  103.  120.  257-265.
+
+Iskrzycki  513  n.  917.
+
+ispolm  527.
+
+Issi  (self)  1027.
+
+Istaevones  350-1.
+
+Istio  351.
+
+Itermon  165.
+
+itis,  ides,  dis  (nymph)  97.  400-1.
+Iuwaring  358-9  n.
+I-valdi  454.
+
+i-vi#r  (grove,  firmament)  483.  795.
+i-vil5ja  (wood-wife)  483.
+
+Jack  giant-killer  531  n.
+
+ o' lantern  917.
+
+ player  xvi.  xli.  818.  1007.
+
+ pudding,  Hans-wurst  515.
+
+James's  road  (milky  way)  357  n.
+
+ staff  (Orion's  belt)  727.
+
+Janus  22  n.
+
+Jemshid  872.
+
+Jesus  1248.
+
+Jettha  96  n.  520  n.
+
+John  (Baptist)  284.  1209.  1210-1-3.
+
+John's  eve  588-590.
+
+ fires  43.  604.  612.  617-624.
+
+ ■  girdle  (mugwort)  1211.
+
+ head  285.  631.
+
+ minne  60-1-2.  628.
+
+ wort  (hypericum)  1214.
+
+jiidel  (goblin)  481.
+Judgment  day  815-6.
+juger  (witch's  worm)  1074  n.
+juggler,  gaukler  1038.
+ju-glans  (acorn)  172.
+Jugula  (Orion)  726.
+jul  (yule)  702.
+jul-bock  (goblin)  516.
+Julius  Caesar  85  n.
+jumping  into  55  n.,  j.  out  952  n.
+jung-brunne  (fount  of  youth)  433.  588.
+Juniper,  Dame  652.
+Juno  306.  637.  961.  1176.
+Jupiter  22.  44  n.  72.  107.  121-2.  168-9.
+175.  189.  190-1.  859.  1101.
+
+ Apenninus  169.
+
+ ardens  110.
+
+
+Jupiter  dapalis  1236.
+
+ geld  (-money)  190.
+
+ niger  993.
+
+Juterbock,  smith  of,  xli.
+Jutes,  Jutland  519.
+
+kabout  (goblin)  502.
+kaiser,  the  old  958-9  n.
+Kalewa  552.
+Kali  315.  773w.
+Kalis  1015.
+
+kalledos  (Christmas)  627  n.
+Kallewepoeg  553.
+Kamaduh  871.
+
+kamban  (human  sacrifice  ?)  44.
+
+kapel-trete  (hypocrite)  35  n.
+
+Kara  423-4-7.
+
+Kari  240.  631-6.  883.
+
+karo,  karawi  (sacrifice)  41.
+
+kater-man  (goblin)  503.
+
+Katzen-veit  (wood-sprite)  480.  503.
+
+kelkropf,  kielkropf  (changeling)  468.
+
+K^p  (fate)  426.  435.
+
+KTjpvKetov  (Hermes'  staff)  976.
+
+Kettil  Eunske  1226.
+
+key-turning  1109.
+
+khoda  (god)  14.
+
+kidnapping  466-8.  1059.  1073.
+
+kiesen  (choose,  divine)  1037.
+
+Kifhauser  955.
+
+kilchen,  vor  (outside  of  church)  1227-8.
+kinan  (yawn,  gape)  320.  558  n.
+kirke-grim  493  n.
+kirkonwaki  (dwarfs)  457  n.
+Kirt  248-9.
+kissing  1101.
+
+klag-mutter  (owl,  woodwife,  witch)  432.
+1135.
+
+Klaubauf  (goblin)  515.
+Klinte-konig  940  n.
+klopfer,  knocker  (homesprite)  505.
+kl6-sigi  (claw-sinking)  633.
+klucke,  kluck-henne  (Pleiades)  728-9.
+kobolt  (homesprite)  500-1.
+koleda  (midwinter)  628.
+koltki  (homesprites)  480  n.
+korr,  korred,  korrigan  (elf)  447.  455.
+469  n.
+
+Kotar  (man  in  moon)  719  n.
+
+kotz  !  (for  Gottes)  15.
+
+Kralemoc  (planet  Jupiter)  130  n.
+
+Krampus  (goblin)  515.
+
+kres  (midsummer)  623.
+
+Krimhilt  238.
+
+Krishna  384.
+
+Krodo  206  n.  248-9.
+
+Kronos  (Saturn)  219.  318.  833  n.
+
+Kuga  1188.
+
+kukavitsa  (cuckoo)  682.
+Kullervo  552.
+kumir  (idol)  105  n.
+
+kupalnitsa,  kupoles  (John's  wort)  624.
+
+
+1264
+
+
+INDEX.
+
+
+Kupalo  (Midsummer  fire)  624.
+
+Kurt  913  n.
+
+kuu  (moon)  725-9.
+
+Kuvera  (god  of  wealth)  322.
+
+Kvasir  xxxix.  319.  902-5.
+
+kveld-ri$a  (witch)  1053-4-7.
+
+Kveld-ulfr  1054  n.
+
+lac  (sacrifice)  39.
+
+laces,  tying  the  1073.  1175.
+
+Lachesis  414-5.
+
+Lada  130  n.
+
+Lady-,  see  frauen-,  Freyju  ,  Mary's.
+
+ladybird,  ladycow  303.  694.
+
+LseraSr  818.
+
+Laertes  365-6.
+
+Laima  416«.  877.
+
+lake-herd,  see-hirt  480.
+
+Lakshmi  303.  664  n.  1196.
+
+Lamia  500  n.  514.
+
+land-as  (national  god)  188.  217.
+
+land-vsett  (guardian  spirit)  877.
+
+Lang-barftr  (OSinn)  953;
+
+Lang-bein  (giant)  533.  556.
+
+lar  (house-god)  500.  913.
+
+larva  (mask,  spectre)  500  n.  913.
+
+Lauf-ey  246.  483  n.
+
+laughing  1101.
+
+Lauma's  girdle  (rainbow)  733.
+
+Laurin  448-9  n.  453.  465-6.  470.
+
+lea,  leigh  69  n.
+
+lead,  pouring  melted  1118-9.
+
+league-boots  871.
+
+leber-mer  (liver-sea)  363.
+
+Leda  338.  343.  666.
+
+Leiptr  600.
+
+lekeis,  leech  1150.
+
+Lei  366.  783.
+
+Lemminkainien  185  n.
+
+Lent,  Lenz  754.
+
+Leto  (summer)  754.  770-1.
+
+Leucothea  496  n.  747-8.
+
+Leviathan  182.  998.
+
+Liber  212.  306.
+
+Libes,  priest  of  the  Catti  91.
+
+Liebinc,  Modus  561.  902  n.
+
+liezen  (cast  lots,  divine)  1110.
+
+life  restored  184-5  n.
+
+ligaturae  1173-5.
+
+Lilith  575.
+
+lind-wurm  (dragon)  688.
+lios-alfar  (light  elves)  444.
+liuflingar  (elves)  456.  471.
+Liumending,  Liumet  (fame)  898.
+lock,  fastening  the  1073.  1175.
+LoS-fafnir  372.
+Lotfr  162.  241-2.
+log  pelting  190.  783.
+Logi  240-3.  631.  883.  1017.
+Loka-daun  (ignis  fatuus)  242.  916.
+Loki  xl.  xli.  162.  241-6.  308.  327.  338.
+547.  883.  1011-7.
+
+
+Loptr  246.  632.  882.
+
+lot-casting,  -drawing  1037.  1110.
+
+love-apple,  -cake,  -drink  1102.
+
+loving-cup  60  n.
+
+lubbe,  lubber  525-6-9.
+
+lubi,  lyf  (drugs)  1151.
+
+Lucifer  723  n.  985.
+
+Lucina  1176.
+
+lucus,  loh,  leah  69  n.
+
+ludara,  hiSr  (ark)  559  n.  580.  983.
+
+ludegheer  (man  in  moon)  720.
+
+ludki  (elves)  452-5.
+
+Luna  103  n.  119.  705.
+
+luoti  (changeling)  469  n.
+
+Lupus,  St  175  n.
+
+Lurlen-berg  982.
+
+rutin  (homesprite)  508.
+
+Lutter-born  591  n.
+
+Lutz,  Frau  (St  Lucy)  274  n.
+
+lyncurius  (lynx  stone)  1219.
+
+lyng-ormr,  lyngvi  (dragon)  689.
+
+Macabre,  danse  851.
+
+rnachandel-boom  (juniper)  652.
+
+Macbaon  1148.
+
+Madalger  387.  434.  1209.
+'Maere  (fame)  897.
+-  magan-wetar  (whirlwind)  332.  632.
+
+magic,  magician  1031.  1106.
+
+Magila  (plague)  1185.
+
+Maglore  412-3  n.  1203.
+
+Magni  189.  321.  823.
+
+Magonia  638-9.
+
+magpie  675.
+
+mahte,  mahmina  (mother)  22.
+maiden-summer,  prop.  Mattchen-som-
+
+mer  (gossamer)  784.
+mai-kafer  (cockchafer)  693.
+maira  nocturna  1246.
+majalis  sacrivus  50.
+majority,  going  to  the  847.  ■
+Malagis,  Maugis  xlvii.
+malannus  (boil ;  plant)  1160.  1235.
+mal-feu  (hell-fire  ?)  602.
+malleus  (devil)  999.
+Mallina  (sun)  703.  716.
+mammelainen  (dragoness)  691.
+Mamurienda  (death)  771.
+man  in  tbe  moon  716-720.
+man,  mannisko  344-5.
+Mana-garmr  (moon  dog)  244.  705.
+Mana-golt  531.  1209.
+Manala  (hades)  806  n.  855.
+mana-se>s  (world)  793-5.
+mandragora  1202-4.
+manducus  (ogre)  514.  1082.
+manes  (ghost)  913.
+man-ezze  (ogre)  520 n.
+Man-hart  (moon  wood)  708.
+mani,  men  (necklace)  306-8.
+Mani  (moon)  705.  716.
+Manin-seo  (moon  lake)  708.
+
+
+INDEX.
+
+
+1265
+
+
+man-leika  (image)  104  n.
+mann-aeta  (man-eater,  witch)  1081.
+Mannus  vii.  xi.  344-5.  579.
+manon  (adjure)  1228.
+mano-ratha  870-2.
+Mansuetus,  St  175  n.
+mantel-fahre  (witch)  1071.
+Manus  345.  571-8.
+
+mara,   meara,  maere  (nightmare)  464.
+
+1154.  1246.
+Marena  (death)  771.  841.
+mar-gygr  (watersprite)  488.  492.
+mari-greoz,  mer-griez  (pearl)  1219.
+Mari-rok  (Orion's  belt)  270.  303.  726.
+mari-saivs  (ocean)  601.
+Marko  392-3.  436.
+Markolfus  (spectre)  944.
+mar-mennill  (watersprite)  434.  487.
+Marpalie  1026  n.  1098.
+Mars  84. 103-7.  111-9.  133.  196-9.  204-7.
+
+260.  353.  650.  673.  939  n.  1006.  1046-7.
+
+1193.
+Marso  362.
+Marspiter  196.
+
+Martin,  St.,  cattle's  guardian  1241.
+Martin's  fowl  (martin)  1131-2.
+Martis  fanum,  Fa-mars  84.  198.
+Mary  xxxvii.  174.  182.  268  n.  270.  303-6.
+
+416  n.  883.  1148.  1192-4.
+Mary's  chafer  (ladybird)  694.
+
+ grass  (maidenhair)  303.
+
+ image  76 n.  114  n.  313  n.  595.
+
+ shoe  (lady's  slipper)  1194.
+
+ snow  268  n.
+
+■  thread,  yarn  (gossamer)  471.  784.
+
+Marzana  (death)  771.  841.
+masca  (witch)  1082.
+mater  deum  (Cybele)  254.
+mathematici  (magicians)  1031.
+matres,  matronae  417.  1246.
+Matuta  496  n.
+mau-fez  (devil)  988.
+May  759-762.
+
+ drink  778n.
+
+ fires  43.  612-4.  628.
+
+ grave,  -king  775-7.
+
+ pole  614  n.  778.
+
+ riding  774-9.
+
+measuring  the  sick  1163-5.
+
+megin-giarSar  (Thor's  belt)  1094 n.
+
+megir  Heim'Sallar  (created  beings)  234.
+
+mein-weke  (common  week)  298.
+
+meisa  (titmouse)  683.  897.
+
+Melde,  Frau  (fame)  898.
+
+mel-dropi,  mele-deaw,  mil-tou  641.
+
+Meleager  415.  853-4.
+
+mella  (giantess)  526.
+
+Mellonia  697.
+
+Melusina  434.
+
+Memerolt  526.
+
+Memnon  742.
+
+Mendel-berg  170  n.  820.
+
+
+Menelaos  822.
+
+Men-gldS  96 n.  212n.  307 n.  423-4.  1149.
+Menja  531.  864.
+Mennor  345.
+
+Mercurius  103-7.  111.  120-2.  128.  132-3.
+
+149.  150-1. 164.  353-4.  385  n.  976.  997.
+
+1046-7.
+mer-fei  (sea  fay)  434.
+meridianus  daemon  478  n.  1162.
+meri-minni  (mermaid)  433-5.  487.
+Merlin  469.  507  n.  1207.
+Mer-meut  686.
+Merovings  391.
+Mers-berg,  -burg  198-9.  205.
+Merseburg  Lays  224.  1231.
+mer-wip,  mer-wunder  433.  488.
+merza-folli  (woodpecker)  673  n.  678.1131.
+Mesitch  215.
+
+metamorphosis,  metempsychosis  951.
+metod,  meotod,  miotuSr  (creator)  22.
+26-7.
+
+metten  (fate)  408  n.
+meume-loch  (nix's  lake)  490.
+mezzen  (to  sbape)  22-3.  105 n.  142.
+Michael  836-8.  859.  876.  1029.  1235.
+Mr3-gar$r  (abode  of  man)  560.  794.
+MiftgarSs-ormr  (world-snake)  182. 244  n.
+
+601.  794.
+midjun-gards  (world)  794.
+Midsummer,  Midwinter  757.
+
+ fires  43.  617-624.
+
+milk-mother  (snake)  687.
+milk-stealer  (witch)  1072.
+Milky  way  356-8.
+millwheel  water  592-3.
+milzinas  (giant)  526.
+Mima-merSr  (-tree)  76.  379.  670.
+Mime  380.
+Miming  379.
+
+Mimir  94.  378-9.  700-2.  1148.
+Mimis-brunnr  (-fount)  379.  587.  796.
+Mimminc,  376  n.
+Minerva  1192.
+Minne  (love)  893.
+minne-drinking  59-63.
+minni  (nymph)  433-5.
+minnis-veig  (loving-cup)  60.
+Mioll  631.  641.
+
+Miolnir  180.  238 n.  813.  870.  1221.
+missere  (half-year)  756.
+Mist  (a  valkyr)  421.  883.
+mistil-teinn,  mistletoe  220.  1205.
+Mith-othin  163  n.
+Mithras  323.
+mock-piety  35  n.
+mock-sun  708.
+
+modra-necht  (Christmas  night)  753.
+mo'Sur-sett  (lap  of  earth)  642.
+moirai  (fates)  414.  435.
+molken-toversche  (witch)  1072.
+molniya  (lightning)  1221.
+moly  1192.
+
+
+1266
+
+
+INDEX.
+
+
+monks-hood  1193.
+month  708.
+
+mont-joie,  munt-giow  170  n.  820.
+moon  700-720.
+moon's  spots  716-720.
+mora,  mura  (elf)  464  n.
+morbleu!  15  n.
+Morena  (death)  771.  841.
+morgan,  morwen  748.
+Morgana  xlvi.  412 n.  641.  820  n.
+Morgue  412.
+Mormo  500  n.
+moss-folk  483-4.  929.
+mother  earth  253-4.  642.  1238.
+mother  of  gods  254-5.
+mountain-wights  454-5.
+mouse-maker  1090.
+mud-spelli  (fire)  808-9.
+muemlein,  aunty  (cat)  1128.
+mugwort  624.  1211-2.
+mumhart  (goblin)  506.
+Mumling  E.  490.
+
+mummel  (water-lily)  489.  506.  654.  915.
+
+Mummel-see  490.  597.
+
+Mundil-fori  703.
+
+Muninn  147.  671.
+
+munion  (adjure)  1228.
+
+Munn-harpa,  -rifta  1052.
+
+Munya  178 n.  883.  1221.
+
+muome  (aunt)  490.
+
+Muotes  her  (furious  host)  15  n.  931.
+
+Musa  902.  910.
+
+Muspell,  Muspilli  11.  558.  601.  807-8.
+myrk-rrSa  (witch)  1054-7.
+myrk-vrSr  (-wood)  430.
+
+nack-ros,  -blad  (water-dock)  489.
+Nadala  246.  887.
+nafn-festi  (naming  feast)  135  n.
+Nagl-far  (nail-ship)  814.
+Nagl-fari  735.
+
+naht,  niht,  n6tt  (night)  736.
+
+naht-fara,  -frowa  (witch)  1057-8.
+
+Naht-olf  1054  ??.
+
+nahwe  (death)  841.
+
+naiad  (fountain-sprite)  435  n.
+
+Nainn  (a  dwarf)  453.  841.
+
+nair  (elves)  445.
+
+m\  246.  1029.
+
+Nanna  220.  232  n.  310.  490.
+
+Napf-hans  (goblin)  511.
+
+nappel-fang  (mating  method)  1117  8.
+
+Nari  246.
+
+Narren-berg  (fool's  hill)  681  n.
+Nascentia  858.
+nature-worship  243  n.
+Nauft  (necessity)  410.
+navel-stone,  omphalos  806.
+nebel-kappe  (cloak  of  darkness)  462.
+Neckar  11.  490.
+nectar  317.
+need-fire  603-612.
+
+
+Nehjea,  Nehalennia  257.  419  w.  489.
+neiges,  notre  dame  aux  268 n.
+neighing  of  horses  658.  1113.
+Nemesis  866.  890.
+nennir  (water sprite)  490.
+Nentiger  232  n.
+
+neorxena-wong  (paradise)  405  v.  821.
+Neptunus  110.  121-2.  148.  260.  489.
+
+497.
+Neri  408.
+Nertereani  252  n.
+
+Nerthus  (Sansk.  Nritus)  xi.  xx.  217.
+
+251-256.  487.  596.
+nesso  (worm)  1162.  1235.
+Niarftar-vottr  (spongia  marina)  218. 1191.
+Nibelot  385  n.
+Nibelunge  564.  979.
+Nibelung's  hoard  371-2.  979.
+Nibling  979.
+
+nichus,  nicker,  nicor  (watersprite)  148.
+488.
+
+Nick,  Old  488.  989.  1004.
+nickelmann  (watersprite)  488.
+Nicolaus,  Niclas  (goblin)  505.  514-5.
+ni$  (old  moon)  710.
+Nideck  castle  538.
+Ni$-h6ggr  796.  800.
+Ni$i  454.  710.
+
+ni'S-staung  (spite-stake)  659.  660.
+Nielsen  504-5.
+
+Nifl-heimr  558.  564.  800-3-6.
+Nifl-hel  313.  803.
+night  736.
+
+night-folk  (elves)  470 ;  (spectres)  921-3.
+night-mare,    naht-mar    464.    1058  n.
+
+1246-7.
+night-riding  1053-4.
+nigromancy  1036  n.  1111  n.
+nikuz,  nix  (watersprite)  148.  489.
+nimbus  323.
+nimidas  (groves  ?)  648.
+nines  48.  421.  602.   641.   795.  1157.
+
+1161-2.  1214.
+NidrSr  216-9.  252-6.  347.  530.
+Nissen  504-8.  511.
+niujibs,  niu-mani  (new  moon)  709.
+nix,  nixe  (watersprite)  488.
+nix-blume  (waterdock)  488.
+Noah's  flood  576.
+Noa-tun  217.
+
+nobis-  kratten,  -krug  (hell)  805-6.  1002.
+nod-fyr,  not-fiur  (need  fire)  603-4.
+nonnor  OSins  (valkyrs)  418.
+Norna-gest  409.  853-4.
+norns  (fates)  405-417.
+north  34.  493.  802.  1001.
+Norvi  735.
+
+'  Nott  (night)  656.  735-7.
+novem  capita  53.
+nundinae  (week)  123.
+n^  (new  moon)  710.
+N>ji,  N£r  454.  710.
+
+
+INDEX.
+
+
+nymphae  415-6.  431-6.  480.
+
+oaks,  holy  72-7.  171-2.  651.
+Ober-land  180.
+
+Oberon,  Auberon  xlvi.  453.  872.
+
+obor  (giant)  526.
+
+Oceanus  237.
+
+October  equus  1050  n.
+
+O-dains-akr  823  n.
+
+Odas-hemi  (paradise)  821.
+
+Oddiner  15  n.
+
+Oddrun  1150.  1176.
+
+odebero  (stork)  672.
+
+Oden  (a  giant)  543.
+
+Oden-berg  953.
+
+Oden-wald  159  n.
+
+Odens-fors  (-fall)  159.
+
+Odens-kalla  (-spring)  158.
+
+OS-hrcerir  319.  902-4.
+
+OSinn  xl.  131.  318.  320.  347-9.  417-9.
+
+489.  840.  858-9.  873-4.  902-4.  988.
+
+1018-9.  1112-3.  1133/1226:  1232.
+OSins-ey  (-isle)  158.
+
+ flisor  (-flints)  154ra.
+
+ hani  (-hen,  a  waterfowl)  159.
+
+ salr  (-hall)  158-9.  817.  1133.
+
+ sten  155  n.
+
+ ve  (-temple)  158-9.
+
+Odoacer  373.
+
+odolian  (valerian)  1208.
+
+OSr  305.  905.
+
+Oegir  237-240.  311-2.  529.  531.  636.  883.
+Oegis-dyr  (E.  Eider)  239.
+Oegis-hialmr  (-helmet)  237-8.  870.
+Oesc,  Oescingas  350.  572.
+Offa  388.
+Ofnir  685.
+
+0-f6ti  (unfoot)  1043-4.
+Ogautan  640.
+Oggewedel  (devil)  1003.
+Ogier,  Otger  936  n.  961.
+ogre  486.  554-5.
+Ogyges  578.
+Okkupeernis  637.
+Oku-J>6rr  166.  243  n.
+Olaf  531.  548-9.
+Olafs-kalla  (-spring)  588  n.
+olbrzym  (giant)  526.
+old,  the  21-2.  529.  989.
+01da271.
+Oleg  949  n.
+olgotze  (idol)  15.
+Ollerus  163  n.  228  n.
+olp  (elf)  443.
+
+Olrun  380.  404.  424-5.  1226.
+-olt  in  giants'  names  502.  527.
+Olympus  336.
+Omacmica  500  n.  514.
+omaya  (millwheel  water)  593.
+Omi  144-5.  208.  237.
+6minnis-61  (oblivion's  ale)  1101.
+On  46.  1153.
+
+
+Onar,  Anar  735.
+ondur-dis  (wise  woman)  402.
+Ons-angar  (Oftin's  ings)  156.
+on-secgan  (devote,  vow)  37.
+Onsike  159.
+
+opfer  (sacrifice)  35.  41.
+Ops  mater  254.
+OrboSa  1149.
+
+orcne,  orken  (woodsprite)  486  n.
+Orcus  314.  463.  486.
+ordeal  1108.
+Orentel  xxviii.  374.
+Orgelmir  529.  532.  559.  563.
+Orion  xxxix.  726.  730.  948-9.
+6r-l6g,  ur-lac  (destiny)  410.  857.
+ormr  i  auga  (basilisk  glance)  238.
+Ormuzd  984.
+Orpheus  908.
+
+Orvandils-ta  (-toe)  375.  723.
+Os-beorn,  Os-pirin  25  n.  668.
+oscillum  (mask,  head?)  78 n.
+Osen-berg  420.
+Oska-byr  (fair  wind)  144-9.
+Oska-steinn  (philosopher's  stone)  1
+1222.
+
+Oski  138.  144.  419.  888.
+
+Osk-meyjar  (valkyrs)  144.  419.
+
+Osk-opnir  144.
+
+Osna-bruck  117  n.
+
+Osning  117.
+
+Ossa  (rumour)  896.
+
+Ostacia  1055.
+
+Ostara,  Eastre  290-1.  616.  780-1.  968.
+oster-sahs,  -spil,  -stuopha  780-1.
+otawa  (bear,  Ursa  major)  725-9.
+Othar  305.
+
+Othin  113.  337.  939.  1031  n.
+Oti-geba,  Ead-gifu  890 n.
+otter-kraut  (fern)  1210-1.
+ouwe,  ea  140.  225.  600.
+Ovelgunne  (hell)  1001.
+oven  629.  883.
+Ovida  372.
+owl  1135.
+
+oxen  664,  sacrificed  49.
+
+Paeon,  pasony  1148.  1193.
+
+paiwa  (sun)  725-9.
+
+Pakuls  (devil)  1014  n.
+
+Pales,  palilia  227.  625.
+
+Pallas  (Athena)  173.
+
+Pallor  207-8.  436.
+
+Palna-toki  381.  944.
+
+Paltar  (=Baldr)  xix.  220.  738.  996.
+
+Pandora  571-5.
+
+Papa-luga  593  n.
+
+par  son  l'aube  (dawn)  745-6.
+
+paradise  821.
+
+parawari  (priest)  88.
+
+parbleu !  15  n.
+
+parcae  (fates)  406.  858.  990.  1148.
+Parjanyas  171  n.
+
+
+VOL.  III.
+
+
+B  B
+
+
+1268
+
+
+INDEX.
+
+
+paro  (temple)  69.
+
+Paron  (dog's  name)  In.
+
+parstuk,  perstuk  (dwarf)  448??.  450.
+
+Parthenium  1192.
+
+path-crossing,  etc.  1119-1133.
+
+path  of  birds  (milky  way)  357 n.  828.
+
+path  of  clouds  (sky)  701.
+
+Pavor  207-8.  436.
+
+peacock-tail  (comet)  722.
+
+pearl  1218.
+
+Pedauque,  la  reine  281.
+Pegasus  897  n.
+
+pehrkones  (ground  ivy)  184.  1212.
+
+peklo  (pitch,  hell)  805.
+
+penas  (house  god)  500.
+
+Peninus  169.
+
+Perahta,  Berhta  272-282.
+
+Perendan  130.
+
+Perhten-naht,  -tac  281.
+
+Perkunas  xxii.  xxxix.  171-5.  184.
+
+Perleih  at  Augsburg  293-5.
+
+perpetual  fire  611.
+
+persona  880.
+
+Perun  xx.  xxx.  In.  130 n.  171.  773.  1006.
+
+perunika  (iris)  183-4.  1191.
+
+pesadilla  (nightmare)  464.
+
+petasus  (Mercury's  hat)  463.  869.
+
+Peter  xl.  151.  667.  1235.
+
+Peterle,  Peterken  1004.
+
+Peter-mannchen  510  n.
+
+Peter's  dog  667.
+
+Peter's  staff  (Orion's  belt)  727.
+
+peukalo  (thumbling)  450  n.
+
+pfal-graben  (-dike)  229  n.  1023.
+
+phallus-worship  213  n.
+
+Pharaildis  xx.  284-5.  357  n.
+
+Philemon  and  Baucis  580.
+
+Phoebus  (Apollo)  121.
+
+Phol  xix.  224-8-9.  285  n.  614.632.  882-3.
+
+992-6.  1023.  1231-2.
+Pholes-ouwa  (-ea)  225.
+Pholes-piunt  (-enclosure)  225-6.
+Pholes-prunno  (-spring)  226.
+Pholidi  227.
+
+Phol's  day  614,  Phol's  month  788.
+phylacteria  1173.
+Picker  (thunder)  176.
+Picus  (Jupiter)  249.  369.  673.
+pifelahan  (sacrifice)  38.
+Pikullis  (devil)  805.  1014??.
+piladi,  bild  (image)  105  n.
+pileati  (priests)  91.
+pilma-schnitt  (crop-lifting)  475.
+Pilnitis  308.
+
+pilosus  (woodsprite)  478-482.
+
+pilwiz  (spectre,  witch)  472.
+
+pina  til  sagna  (compel  to  prophesy)  1043.
+
+pipping  a  loaf  484-5.
+
+Pitkainen  176.
+
+plague  1181-9.
+
+playing  sickness  away  331.
+
+plechir  (phylacteries)  1173.
+
+
+Pleiades  728.
+
+plica  Polonica  464-5.  474.  1156.
+plompe  (waterdock,  sea-lily)  654.
+plough  carried  about  263-4.
+plover,  pluvier  674.
+pluostrari  (priest)  89.
+Pluto  801.  993w.
+Poghoda  (weather)  637.
+Pohjola  873.
+polar  star  723.
+Polel  366.  783.
+pol-graben  (-dike)  1023.
+Pollux  119.  366.  783.
+polter-geist  (noisy  sprite)  505.  514.
+poludnice  (noon-spirit)  478  n.  1162.
+Polyphemus  529.  554.  1028.  '
+pompe,  see  plompe.
+
+popel,  pop-hans,  pop-hart  (bogie)  505-6??.
+Poseidon  (Neptune)  219.  321-6.  335.345.
+
+592.  817.
+possessed  1015.
+Posterli  933.
+potz  !  (for  Gottes)  15.
+Powietrze  (plague)  1186.
+Pramzimas  580.
+prayer  29-35.
+Precht  (  =  Berhta)  277.
+Prechtolterli  279.  932.
+prein-scheuhe  (goblin)  477.
+Priapus  213  n.
+priest  li.  88,  priestess  94.
+Prithivi  (earth)  303.  642.
+Priye  218.  303.
+
+Prometheus  245-6.  317.  1011.  1148.
+proof  against  shot,  steel  1099.
+proper  names  given  to  elves  504.  917.
+Proserpina  313  n.  314.  840  n.
+proserpinaca  (waybread)  1192-8.
+prosopon  (person)  880.
+Protestantism,  germ  of  xlix.  1.
+Proteus  434??.  516.
+przipolnica  (noon-spirit)  478  n.  1162.
+Puck,  puck,  puki  500.  512.
+Pulletag  614.
+Pulloineke  229  n.  285  n.
+Puncher  382.
+pura  herba  643.
+
+pusilin,  pyssling  (dwarf?)  449 n.
+Puss  in  boots  503-9.
+Putraka  xxx  hi.
+pygmaei  450.
+
+Pyrperuna  (rain-maker)  594.
+
+quail-bone  (decoy-whistle)  997  n.
+quec-prunno  (-spring)  588  n.
+querlich  (dwarf)  455.
+queste  (garland)  58.
+quiet  folk  (elves)  452-6.
+qveld-rroa  (witch)  1053-4-7.
+
+rS  (sprite)  496.
+
+racketing  sprites  505.  514.
+
+
+INDEX.
+
+
+1269
+
+
+Kadbod  230.
+
+Eadigast  xxx.  liv.  130 to.  248-9.  663.  844.
+radur  (sky)  699.
+ragin  (deity)  26.
+
+ragna-rokr  (twilight  of  gods)  813.
+Eahana  (=Ean)  311.  496.
+rahus  (demon)  706.
+rai  (paradise)  821.
+rain-bird  674.
+rain-bow  731-4.
+rain-making  593-5.  175.
+rakshasa  (giant)  527.  555.
+rakud,  reced  (temple)  85.
+Eama-priya  (lotus)  303.  1196.
+rams  sacrificed  52.
+Ean  311.  496.
+Eata-toskr  796.
+Eati  903.
+
+EauS-grani  (OSinn,  Thorr  ?)  147.
+
+rauft-skeggjaftr  (red-bearded)  177.
+
+Eauhe  Els,  Eauch-els  xxviii.  433.  588.
+
+Eausch,  Friar  Eush  517  to.  994.
+
+raven  147-8 to.  576. 671-2.  997. 1112. 1140.
+
+Eedbeard  177.  550-1.  959.  961.
+
+redbreast,  redstart  183  to.  682.
+
+red  etin  (giant)  528.
+
+regano-giscapu  (decreta  fati)  26-7.  857.
+
+regin  (gods)  26.
+
+peia  (easily)  320.
+
+Eer3ar-tyr  (Thorr)  196.
+
+Eeisarova  945.
+
+relics  li.  1177-9.
+
+renn-pfad  (spirit's  track,  beat)  508-9.
+Eerir  367.
+
+Eet-monat  (March)  289.
+Eeuker  Uder  779  to.
+
+reynir,  ronn  (service-tree)  1215.  1224-5.
+
+Ehea's  bath  254.
+
+Eheda,  rhedo  289.  885.
+
+Ehine  600.
+
+rib  561-2.
+
+Eicen  291  to.
+
+rich  God  20.
+
+riese,  risi  (giant)  525.
+
+Eigr  234.  361.
+
+Eiks-gata  (-road)  361.
+
+Einda,  Eindr  251.  665-6.
+
+road,  bowing  to  the  31  to.
+
+Eobigo  477.
+
+Eobin  goodfellow  504.
+
+Eocken-stul  939.
+
+Eockert  477  to.
+
+Eoden-stein,  Eoden-thaler  939.
+rodor  (sky),  roflull  (sun)  699.
+roggen-mome  (corn  spectre)  477.
+rognir  (gods)  26.
+rok  (darkness)  813.
+rokindusta  7  to.
+Eoland  119.  394.  942.
+Eomove  77.
+
+roof,  sitting  on  1078 to.  1086.  1116.  1166.
+rose-garden  653.  465.
+
+
+rose-laughing  1101.
+
+rowan-tree  (rune?)  651.  1215.  1224-5.
+
+Eoydach,  Eoysel  154.  248  to.
+
+Eiibe-zahl,  Eube-zagil  (woodsprite)  480
+
+Eulla  1085.
+
+Eumor  898.
+
+rumpel-geist  (noisy  sprite)  505.
+Eumpel-stilt  505  to.  548  to.
+runes  149. 150.
+
+Euprecht  (goblin)  504.  514-5.  936-7.
+rusalka  (water-nymph)  492.
+Eiitze  556.
+
+ruwwe,  de  (the  shaggy)  495  to.
+
+sacrifice  35-63  ;  idea  of  41-2.
+
+sacrificial  vessels  55-6.  62-3.
+
+SaSr  (OSinn)  248.
+
+Sge-fugel  165.  367.
+
+Sae-hrimnir  185  w.  386.
+
+Sselde  (fortune)  863-9.  943.  1202 to.
+
+Saelde's  child,  messenger,  hat,  horn  869.
+
+Sae-lundr,  Zealand  76.
+
+Saemingr  368.  1061.
+
+Saetere,  Sasteres-byrig  247.
+
+Saga  310.  902.  910.
+
+Sago-nes  (-cape)  910.
+
+Sahs-not  161-4.  203-7.  216.  365.  885.
+
+saint-eaters  35  to.
+
+saint's  glory,  halo  323.
+
+saints,  worship  of  xxxvii.  341.
+
+saivala,  seola,  sawl  826.
+
+sal  (temple)  85.
+
+Salida  (fortune)  865-9.
+
+saljan,  sellan  (to  present)  38.
+
+salt  1046-9.
+
+samo-diva,  samo-vila  (elfin)  436  to.  1150.
+samolus  (anemone)  1207.
+Sampo  873.
+
+Samr  (dog's  name)  7 to.
+sapaude  (wise  woman)  410  to.
+Sarakka  xxxi.
+saribant  (serpent)  685.
+Satan  985-7.
+Satjar  248  to.
+
+Saturnus  107.  121-3.  125-6-8.  246-9.
+Satya-vrata  249.  579.
+satyrus  480.
+sauftr  (wether)  52.
+
+sau-zagel,  sow-tail  (devil)  285  to.  632.  996.
+
+sauil  (sun)  701.
+
+sau>s  (victima)  40.  52-6.
+
+saver  (chafer)  693  to.
+
+Sax-neat  164-5.  203.  365-7,  see  Sahsnot.
+'sblood!  15  to.
+Scamander  600.
+
+scate  baren  (eagle's  shadow)  1133.
+sceafta  (devil)  989.  990.
+Sceaf  165.  369.  370.  429.
+sceld-byrig  700.  818-9,  see  skialdborg.
+Sceldwa  165.  369.  370.
+Schalks-berg  (rogue's  hill)  681.
+schandle-bach  (intermittent  spring)591  to
+
+
+1270
+
+
+INDEX.
+
+
+Scharmae  542.
+schelme  (plague)  1181.
+schembart  (mask)  1045  m.
+Schenzerlein  (devil)  1007.
+schepfe  (shaper,  fate)  407  n.  413.
+Schilbunc,  Schiltunc  370.  979.
+Schlemihl  1024  n.
+schmagostern  (sousing)  590  n.
+Schmutzli  515.
+Schnellerts  939  n.
+schrat  (woodsprite)  915.
+schrat-weg  (-track,  -beat)  479.  508-9.
+schrawaz  (woodsprite  ?)  479  n.
+schrudel,  geschrudel  (spectre)  916.
+Scilfingas  188.  370.
+scin-leih  (apparition)  482.  915.
+scocca,  sceocca  (demon)  1003.
+scop  (shaper,  poet)  407-8  n.  900.
+scrat,  scraz  (woodsprite)  478-9.  915.
+seamless  coat  792  n.
+
+sedal-ganc,    setel-gong    (setting)  701.
+
+739.
+Sefa-fioU  363.
+Segemon  xxix.  371.
+segil  (sun)  701.
+serSr  (magic)  1036.  1042-4.
+Seifrieds-burg  979  n.
+selago  1207.
+
+self  done,  self  have  451  n.  1027.
+self -trust  6.
+
+selken-stert,    sellen-tost    (plica  -Pol.)
+
+464-5.
+semi-deus  340.
+Semper  (goblin)  515.
+Sess-rymnir  305.
+seven-league  boots  871.
+seven-sleepers  952  n.
+Sevo  mons  363.
+shadow  lost  1024.
+shamir  (rock-blasting  plant)  973  n.
+shaved  by  a  ghost  891.
+Shelly-coat  (goblin)  512.
+shield-burg,  -maid,  see  sceld-,  skiald-.
+ship  carried  about  258-265.
+ship  of  fools  ?  258.  638.
+shooting  star  722.  917  n.
+shoulder-blade  inspected  1113.
+shrew-ash  1168.
+Shrove-fire  627.
+Sibilja  665.
+
+SrS-grani,  -skeggr  (OS inn)  147.  953.
+
+SrS-hottr  (OSinn)  146.
+
+Siegfried  xlviii.  371.  552.  688.  955.  979.
+
+sieve-turning  1108.
+
+Sif  liv.  244 n.  309.  322.  569.
+
+Sifjar-haddr  (maidenhair)  309.
+
+Sige-berg  198.
+
+Sige-fugel,  -gar,  -geat  165.  367.
+Sige-her  393.
+
+ lint  393.  428.  431-4.  490.
+
+ minne  393.  433-4.
+
+sige-wif  (wise  woman)  431.
+
+
+Sig-f63r  (OSinn)  134.
+
+sigh-brog  (fa'erie)  410  n.
+
+sigh-gaoithe  (whirlwind)  633.
+
+sighe,  ban-sighe  (fay)  444  n.  614.
+
+Sigi  367.  888.
+
+Sig-mundr  371.  830-1.
+
+signs  (zeichen)  200.  847.  1105.
+
+Sigovesus  614.
+
+Sigr-diifa  423-5.  890.
+
+Sigr-lami  368.
+
+Sigr-linn,  Sigrun  423-4.
+
+Siguier  387.  372  n.  425  n.  672.  978-9.
+
+Sig-tyr  (OSinn)  134.  152.  196.
+
+Sigyn  246.
+
+sihle  (titmouse)  683. 1134.
+sihora  (domine)  27.  134.
+Silfrin-toppr  658.
+silvanus  376-9.  480-2.
+simulacrum  104-5.
+Sind-gund  224.  308.  705.  1232.
+Sindri  917.
+Sin-fiotli  830-1.
+sin-flut  (Deluge)  576  n.
+singing  match  909.  910.
+sinista  (elder,  priest)  88.
+Sinnels  453.
+Sintar-fizilo  371.
+Sippia  (=  Sif)  309.
+Sisuthros  577.
+Sitivrat  130  n.  249.
+Siva  (=  Sif?)  309.
+Sivard  Snarensvend  775.
+sjo-ra  (watersprite)  496.
+Sjur  989.
+
+SkaSi  331.  348.  368.  530.  675.  723.
+
+skald  (poet)  94.  900.
+
+skapa  (shape,  destine)  407.  861.
+
+skass,  skessa  (giantess,  witch)  526.  1003.
+
+1041.
+Skelkingr  1043.
+skiald-borg  423,  see  sceldbyrig.
+skiald-mey  (valkyr)  418.  424.
+SkrS-blaSnir  216.  870-1.
+skin,  jump  out  of  my  952 n.
+Skln-faxi  328.  655-7.  738.
+Skioldr  161.  368-9.  370.
+Skirnir  309.  335.  341  n.
+skog-snerte  (woodsprite)  487.
+skogs-ra  (woodsprite)  496.  633.
+skohsl  (demon)  487.  1003.
+Skoll  705.  244.
+skorungr  (valkyr)  418  n.
+skratti  (demon,  giant)  479.
+Skrymir  541.
+
+Skuld  (the  norn)  405.  421-2.  1042-4.
+skurd-goS  (idol)  112-3.
+skur-goS  (homesprite)  113.  500.
+Slag-fiSr  380.  424-5.
+Slavs,  gods  of  the  130  n.
+sleep  331.
+sleep-thorn  1204.
+slegel  (cudgel)  137  n.
+
+
+INDEX.
+
+
+1271
+
+
+Sleipnir  154.  655-6.
+
+smela  (hell)  805.
+
+Smertis  (death)  846.
+
+Smertnitsa  (plague)  1189.
+
+Smrt,  Smierc  (death)  770-1.  841.
+
+Smrto-nos  (planet  Mars)  130  n.
+
+smyl  (devil)  1005.
+
+snackr  (milk- stealer)  1091.
+
+Snser,  the  old  393.  631.
+
+snake  684-8.  978.  998.
+
+snake-stone  1219.  1220.
+
+snakes,  queen  of  686.
+
+sneezing  1116-7.
+
+snipe  184.
+
+Snotra  889.
+
+snow  268.  304.
+
+snow-child  902  n.
+
+sobotka  (Midsummer  fire)  623.
+
+soe-drouen  (sea-sprite)  491.
+
+Soini  552.
+
+Sokqva-bekkr  910.
+
+Sol  (Latin)  103 n.  119.  602.  705.
+
+Sol  (ON.)  308.  701-5.
+
+Solomon  247  n.  973  n.
+
+solstice  617.  720.
+
+solstitial  fires  43.  617-624.
+
+Sompar  71  n.  515  n.
+
+Son  902-4.
+
+sonar-goltr  (atonement  boar)  51.
+
+soothsayer  1034.
+
+sorcerer  1032,  sorceress  1038.
+
+sortiarius,  sortilegus  1037.
+
+souche  de  noel  (yule-log)  627.
+
+souhait,  dehait  951  n.
+
+soul  as  flower  826-8;   bird,  butterfly
+
+828-9 ;  mouse,  snake,  weasel  (chap.
+
+34) ;  will  o'  wisp  918 ;  spectre  918-950.
+sowthistle  1208.
+spae-wife  400.
+
+spa-kona  (prophetess)  94.  409.  1034.
+Spali  527.
+
+spsL-maftr  (prophet)  94.  1034.
+Spange  (bracelet)  886-7.
+sparrowhawk  675.
+Spehtes-hart  1192.
+spirit,  ghost  439.  461.
+spitting  514.  1102-3.
+Sporkel  (February)  789.
+sprain-spells  1231-4.
+spring-wurzel  (key  to  hidden  treasure)
+973.
+
+spuk  (spectre)  914.
+squirrel  616.  796.
+Sretia  (fortune)  877.
+Sri  664  n.  1196.
+Sri-bhratri  (horse)  664  n.
+stabs  (stuff,  element)  liii.
+stag-beetle  183.
+Stalo  554-5.
+
+stan-weor$ung  (stone-worship)  645.
+StarkaSr  387-8.  393.  531.  858-9.
+stars  700.  721-731.
+
+
+Staufenberger  419.  429  n.
+stein-alt  (old  as  the  hills)  533.
+stelbom  (evening  star)  723.
+Stempe  278.  1246.
+Stempfel  (Jack  Ketch)  910.  1004.
+Stepchen  (devil)  1003-4.
+Stephanus  1235.
+steti-got  (genius  loci)  500.
+stilles  volk  (elves)  452-6.
+stollen-wurm  (snake)  685.
+stoma  (element)  liii.
+stone,  creation  out  of  572-3.
+stone,  turning  into  548.  551-2.
+Stonehenge  552.
+stopke  (devil)  1003.
+stork  672.
+
+storm-raising  1086-8.
+Straggeli  (spectre)  934.  1039  n.
+Strakh  (terror)  208.
+straszydlo  (homesprite)  508.
+Strecke-fuss  (death)  852.
+Stribogh  631.
+
+striga,  strix  (owl,  witch)  1039  n.  1045.
+
+strom-karl  (watersprite)  488.  492-3.  907.
+
+stuffala  (Bootes)  725  n.
+
+Suap,  Suapo  354 n.  363.
+
+Suardones  885.
+
+submersion  981.
+
+subterraneans  (dwarfs)  454.
+
+Suculae  (Hyades)  730  n.
+
+su^-nautar  (sacrificers)  56.  1045.
+
+Suevo  mons  363.
+
+Sumar  758.
+
+sumer-late  (same  year's  shoot)  975.
+
+sun  701-8.  720-1.
+
+sun-rise,  sun-set  738-743.
+
+sun's  hatred  19.
+
+sun's  wheel  620.  701.
+
+sune-wende,  sun-giht  (solstice)  617.
+
+Sunia  (justice?)  310.  889.
+
+Sunna  224.  308.  705.  1232.
+
+Sunnen-froh  741.
+
+superstitio  1105.
+
+superventa  (omen)  1119.
+
+Suptungr  522.
+
+Suryas  liv.
+
+Surta-logi  (burning  of  the  world)  815.
+Surtar-brand  (coal-stone)  809.  1222.
+Surtr  808-815.  824.  960.  1182.
+susl  (torment)  807.
+su-stert  (devil)  632.  996.
+Suttungr  367.  522.  902.
+sva-datta  (self-made)  14.
+SvaSil-fari  547.
+Svafnir  363.  685.
+Svan-hvita  425.
+Svantewit  591.  662.  844.
+Svart-alfa-heimr  445-6.
+svart-alfar  (black  elves)  444-5.
+Svart-hofSi  1042.
+SvasuSr  758.
+Svatopolk  961.
+
+
+1272
+
+
+INDEX.
+
+
+Svatovit  xxx.  liv.  130 n.  663  //.
+Svava  363.  423-4.
+Svend  Falling  372  n.  420.
+Svi'Sr,  SviSur  133.
+Svin-fylkja  133.
+swallow  672.
+swan  427-9.
+swan-garb  391.  427.
+swan-knight  370.
+swan-maiden  281.  426-430.
+swan-ring  428-9.  _
+Swan-witchen  xvi.
+swanne-blomme  (water-lily)  654.
+swarth  (wraith,  double)  877.
+Swefdseg,  Svipdagr  165.  222.  744.
+swine  sacrificed  50.
+swine-tail  (devil)  285  n.
+sword-dance  780-1.
+Syn  (truth)  310.  889.
+Syr  305.
+
+Syrinx  827.  *
+Syritha  305.
+
+tacen  (sign)  200.  847.
+Tsetwa  165.
+
+Taga-rod  (dawn)  747-8.  889.
+
+talamasca  (mask,  spectre)  915.
+
+tall  (deal,  pine)  652.
+
+tamanito  (goblin's  hat)  512.
+
+Tamfana,   Tanfana  xi.  80.  257.  278.
+
+1109  n.
+Tamlane  936  n.
+
+tams-vondr  (taming  wand)  976.
+Tanaqvisl  218.
+Tanfa  266  n.
+Tanhauser  935.
+
+Taranis,  Tarnodurum  xxix.  168.
+
+tarn-kappe  (cloak  of  darkness)  462.  870.
+
+Tartarus  804  n.
+
+taterman  (goblin)  501-2.
+
+Taunasis  384.
+
+Tcherni-bogh  985  n.
+
+Tchud  527.
+
+Tell  xxxiv.  380-2.
+
+tempel-trete  (hypocrite)  35  n.
+
+temperie  (medicine)  1151  n.
+
+tempestarii  (wind-raisers)  638.  1086.
+
+temples  xlix.  66.
+
+tempus  790-1.
+
+Termagant  150.
+
+Ters  (Priapus)  213  n.
+
+Thanatos  810-1.
+
+Tharapila  77.  669.  326.
+
+thegathon  (highest  god)  74.
+
+beihs  (time)  790.
+
+beihvo  (thunder)  178.
+
+theophania  281.
+
+Theophilus  vicedominus  1017.
+
+Thetis  344.  496  n.  626.  1059  n.
+
+Theuth  149.
+
+Thiassi  531-2.  723-4.
+
+thief's  thumb  1073  ?u
+
+
+ThioS-varta  1149.
+Thiota  96.  813  n.
+
+Msl  (thill  of  Charles-wain)  151.  724.
+Tbor  biota  (heathenism)  188.
+Thor-dis,  -biorg  97-8.
+Thor-gerSr  98.  113-471.  637.  1043.  1088-
+9.
+
+Thor-hialm  (monks-hood)  1193.
+Thor-ketill  63.
+Th6r-vi$r  188.
+
+Thorr  xl.  In.  113-5.  160-2.  166.  318.
+
+320-1.    530-1-6.   541-5.   554.  858-9.
+
+1031  n.  1215.
+Thors-bru  (bridge),  -mork  (wood),  -nes
+
+(cape)  186.
+Thor's  pillars  119.
+Thors-vinr  (friend)  93.
+ThrlSi  (third)  162.
+Thronax  680.
+ThruSgelmir  559.  563.
+bruts-fill  (leprosy)  1160.
+ThruSr,  ThryS  421-3.
+Thrymr  529.  531-3.  882.
+thumbkin  448  n.  450-1.
+Thunar,  Thunor  161-6.  813.
+thunder,  see  donner-.
+thunder-bolt,  -stone  168  n.  179.  1221.
+Thundr  162  n.
+
+Thunres-daeg,  Thurs-daeg  126.
+
+Thuro  longus  394.
+
+thurs  (giant)  520.
+
+byrel  stan  (thirl  stone)  1166.
+
+tibr  (sacrifice)  40.
+
+Tils  928.
+
+time,  timi,  tempus  791.
+
+Tina  (Jupiter)  168  n.  195.  736.
+
+tin-egin  (needfire)  609.
+
+tir  (glory)  195.
+
+Tise,  Tisen-dach  (-day)  298.
+
+Tis-velde  (-well)  198.
+
+Tityos  321.
+
+Tius,  Tiw  193.  200.
+
+tiuvel-winnic  (possessed)  1016.
+
+tivar  (gods)  194.
+
+Tivisco  195.  344.
+
+tivor  (god)  195.
+
+Tiw,  Tiwes-daeg  126.  193.
+
+tjusa  (conjure)  1037.
+
+Toki,  Toko  380-1.
+
+Toledo  1037  n.
+
+tomte,  tomte-karl,  tomt-ia  (homesprite)
+
+496.  500.  512.
+Tonans  168.
+torch-procession  629.
+Torden-veir  189.
+tor-don  (thunder)  166.
+tord-wifel  (dung-beetle)  693.
+trami,  tremil  (devil)  243.
+trance  1083.
+transformation  1094-6.
+transmigration  655.  826.
+Tras  (tremor)  208.
+
+
+INDEX.
+
+
+1273
+
+
+trefue  (yule-log)  627.
+Trempe  278.
+
+tremse-mutter  (com  bogie)  477.
+
+trick,  triegen  464.
+
+Trip  (the  blasted  tree)  958??.
+
+Tris-megistos  150.
+
+Trito-geneia  162  n.
+
+Triuwe  (rides)  892.
+
+trold,  troll  (elf,  witch)  526.  552.  1054-6.
+
+troll  (spectre)  526. 1004.  1036.  1041.
+
+troll-tram  (devil)  243.
+
+trotsch  (elf)  443.
+
+trua  &  matt  sinn  (self -trust)  6.
+
+truge-tievel  (spectre)  464  n.
+
+truhtin,  dryhten  (ruler)  22.
+
+truone  e  lampe  182.
+
+trute  (witch,  goblin)  423.
+
+Truth  892.
+
+Tuesday  123-6.  193-9.
+Tuisco  vii.  xi.  195.  344.
+Tumbo,  the  holy  528-9.
+Tumme  543.
+tungol  (star)  700.
+tunkel-sterne  (evening  star)  723.
+Tuonela  (hades)  855.
+tuonen-koira  (dragonfly)  1074  n.
+Turisas  940.
+Turris  176.
+
+turse,  tiirse  (giant,  devil)  521.
+turtle-dove  1134.
+Tutela  889.
+
+Tut-osel  (night  owl,  witch)  922.  1061.
+
+Tveggi  (second)  162.
+
+twelves  li.  26.
+
+tylwyth  t§g  (fairies)  452.
+
+Typhon  637.
+
+Tyr,  Tiw,  Zio  liv.  193.
+
+-t*yr  in  gods'  names  196.  339.
+
+Tyr-hialm  (monks-hood)  1193.
+
+Tyrrheni  522.
+
+Ty-vi$r  (daphne  mezer.)  188.  199.  1193.
+
+udde-hat  (cap  of  darkness)  458 n.  463.
+ufar-skafts  (firstfruit)  39.
+Ugarthi-locus  244.  1020.
+uht-scea'Sa  (dragon)  688.
+uhta  (early  dawn)  747.
+Ukko  xxxi.  62  n.  169  n.  176.  793  n.
+Ukon-kivi  (thunderbolt)  1221.
+Ukon-koira  (butterfly)  1073  n.
+ulf,  iilve,  iilfen  (elf  ?)  442  n.
+ulf-heSinn  (wolf-belted)  1094.
+Ullr228w.
+Ulysses  365.
+
+unbaptized  271.  288.  918.  920.  1070  n.
+unborn  388.
+Un-falo  (devil)  992.
+Un-fuoge  (indecorum)  311  n.
+un-gezibel  40  n,
+
+un-hiuri,  un-gehiure  (uncanny)  914.
+un-holda  (demon)  266.  990-1.  1007.
+unholdaere  (sorcerer)  1048-9.
+
+
+unke  (frog,  snake)  686  n.
+unnar-steinn  (holy  stone)  645.
+un-quethand  (dumb  nature)  647.
+Un-saelde  (misfortune)  878.
+Uogo  237.
+
+Uoke-sahs  (-sword)  238.
+Uoke-wedel  (devil)  1003-4.
+Uote,  Frau  371.  889.
+upp-regin  (gods)  26.
+Uranus  194.  249  n.  575.  700.
+Urban  20.  453  n.
+
+UrSar-brunnr   (-fount)  407.  427.  587.
+796.
+
+UrSr,  Wurd,  Wyrd  (the  norn)  405.
+ur-fol  (full-grown  boar)  996.
+ur-lac,  6r-log  (destiny)  410.  857.
+Ursa  major  151.  724.
+UtgarSa-loki  243-4.
+utter-bock  1096.
+
+Vadi,  Wada,  Wate  376.
+
+vsett,  vasttr  (wight,  elf)  441.
+
+vafr-logi  (quivering  flame)  423-4.  602.
+
+Vaf-bruSnir  529.
+
+vaggs,  wang  (paradise)  821.
+
+Vagn-h6f3i  533.
+
+vaihts  (wight,  whit)  440.
+
+Vala  98.  403.  813  n.  1042.
+
+Valadamarca,   Waladericus  (Falada  ? )
+
+95  n.  403  w.
+valant,  valantinne  (devil,  she-devil)  991.
+Vala-skialf  817  n.
+valditoyes  (fates)  416  n.
+vale  of  tears  795.
+valerian  1207-8.
+val-faSir  (OSinn)  133.  817.
+Val-freyja  305.  420.
+Val-holl  145.  802-3.  817.  840.
+Vali  the  avenger  163.  321.  823.
+Valis  371.
+
+val-kyrja  145.  400.  417-426.  817.  840.
+val-ravn  (demon  bird)  997.  1025 n.
+Val-tamr  314  n.
+Vana-dis  (Freyja)  402.
+Vaningi  218.
+
+Vanir  218.  233 n.  443-4 n.  902.
+vanishing  951.
+Varunas  249  n.
+VasaSr  758.
+
+vatni  ausa*(pagan  baptism)  592.
+vatte-lys  (ignis  fatuus)  917.
+ve,  vi  (temple)  67-8.  159.
+Ve  162-3.
+Ve-biorg  424.
+
+veftr-belgr  (weather-bag)  640.
+VeSr-folnir  796.
+veftr-hattr  (windy  hat)  641,
+Ve-freyja  300  n.
+Veg-tamr  (OSinn)  163  n.  314.
+veiha  (priest)  89.
+
+Velands-urt  (valerian)  1194.  1208.
+Veleda  xi.  95.  403.
+
+
+1274
+
+
+INDEX.
+
+
+Veneris  capillus  (maidenhair?)  1194.
+Venus  114 n.  255 n.  260.  302 n.  306.  326.
+
+344.  444  n.  455.  935.  953.
+Venus-berg  935.  1056.
+Veorr  (Thorr)  187.
+VerSandi  (the  norn)  405.
+Ver-elde  (Hilda,  Holda)  285.
+Vergiliae  (Pleiades)  728.
+Ver-goden-deel-struss  (reaper's  offering)
+
+253.
+
+Versiera  (devil)  988  n.
+
+verwazen,  verwiinschen   (curse,  ban)
+
+951.  1223.
+veshtitsa  (witch)  1077-8.
+Vesna  (spring)  773.  781.
+Vesta  232  n.  611.  1236.
+Vestri  461.
+vet-mimir  (sky)  700.
+Vetr  (winter)  758.
+vetr-liSi  (bear)  668.
+vettar  (wights,  elves)  457  n.
+vezha  (ignis  fatuus)  917.  1056  ??.
+Victoria  435.  890.
+victory,  stone  of  1220.
+VrSar  the  avenger  823.
+Vr3-blainn  808  n.
+Vr8-fdrull  163  n.
+VrS-olfr  1042.
+
+VrSrir  (OSinn)  637.  667.  882.
+Vidugauja  376-9.
+Viga-guS  (Tyr,  Zio)  198.
+viko,  week  126  n.
+
+Vila  (fairy  sister)  436.  470  n.  1150.
+
+Vilanders  207  n.
+
+Vil-biorg  864.
+
+vilcodlac  (woodsprite)  480.
+
+Vili  162-3.
+
+Vilkinus  376.
+
+Vil-mer5r  1042.
+
+vince  Luna  !  (win  Moon)  706.
+
+Vind-alfr  461.
+
+vind-flot  (cloud)  639.
+
+vind-hialmr  (wind-hat)  641.
+
+Vind-loni,  Vind-svalr  758^-9.
+
+•Vingnir  187.
+
+Vin-golf  (hall  of  goddesses)  820.
+
+Vmg->6rr  187.  910.
+
+Vinland  640.
+
+Virgunt  (Fiorgyn  ?)  172.
+
+vis-gassar  (devil's  boys)  1078?
+
+Vishnu  xxxix.  249.  325.  384.  579.  630.
+
+vita  (to  bow)  29.
+
+vitod  (law)  39.
+
+vola,  volva  (prophetess)  97-8.  403.  1042.
+
+Volant,  Volland  (devil)  992.
+
+Volker  908.
+
+Volmar  509.
+
+Volos  625  n.  1156.
+
+Volot  1081  n.
+
+Volsungs,  the  371.
+
+Volundr  377-8.  403.  424.  444.
+
+Volu-spa  97-8.
+
+
+Vor  (faith)  310.  889.
+vor-kiekers  (foreseers)  1107.
+vrag,  vorog  (devil)  996.
+Vrene  306  n.
+vrid-eld  (needfire)  607.
+Vron-elde  (Hilda,  Holda)  285.  357 n.
+Vulcanus  103  n.  119.  602.  705  see  He-
+phaestus,
+vultur  and  vulturnus  634.
+Vut  (false  god,  Wuot)  131.
+
+Wac-hilt  376.  434.  496.
+
+Wada,  Wate  376.  1148.
+
+wadel  (lunar  phases)  711-2.
+
+wasnes  Jrfsl  (Charles-wain)  151.
+
+Waetlinga-strset  356-7.
+
+waidelot  (priest,  magician?)  1185 n.
+
+Wainambinen  xxxi.  902-7.
+
+Waizganthos  1241.
+
+waking,  watching  584.  863-4.
+
+waking  a  hedge- stick  1085.
+
+waking  one's  luck  864.
+
+Walburgis-kraut  (fern)  1211.
+
+ nacht  (Mayday  eve)  1050.
+
+wald-bauer,  -gebure  (giant)  533.
+Waldemar's  way  943.
+waldes  tore  (elf)  483,  (giant)  533.
+waldin,  walledein  (witch)  403  n.
+wallala  (nightmare)  1247.
+wal-rider,  waal-riiter  418  n.  1152.
+waltant,  wealdend  (mighty)  21.
+wait-man  (wild  man)  483.
+walt-minne  (wood-wife)  434-5.  482-3.
+Wandel-muot,    Wankel-muot.    (fickle  -
+
+ness)  895.
+Wandu  (water)  579.
+Wans-borough,  -dike,  etc.  153.
+Wara  (faith)  310.  889.
+warg  (wolf)  996.
+Warheit  (truth)  892.
+Warns  131  n.
+
+Wartburg  war  of  poets  (a.d.  1207)  910.
+wasch-weiberl  (wood- wife)  485??.
+wasser-liiss  (watersprite)  488  n.
+Wate,  Wada  376.  1148.
+water-bird  595.  785.
+water-kelpie  491.
+water-kind  (-child)  495  n.
+water-lily  654.
+
+water-mom  (-sprite)  489.  490.
+
+Waude,  Wauden  156  n.  157.
+
+wax-figures  1091-3.
+
+Wayland  smith,  see  Wielant,  Volundr.
+
+waywarden  407.
+
+wazzer-holde  (nymph)  266-8.
+
+weasel  1127-8.
+
+Weather  548.  630.
+
+weather-bird  184.
+
+ cock  670.
+
+  -witch  1088.
+
+Weckolter,  Frau  (juniper)  652.
+Wedekind  954.
+
+
+INDEX.
+
+
+1275
+
+
+wedel  (lunar  phases)  711-2.
+Wednes-bury,  -ham,  etc.  158.
+week  126  n.
+
+week,  days  of  the  122-130.
+weg-breite  (waybread)  1215.
+Weg-dseg  165.
+
+wege-warte  (plantain)  828.  1215.
+
+weichsel-zopf  (plica  Pol.)  464.  474.
+
+weird-lady,  -sisters  407.  412.
+
+weise  (orphanus,  opal  ?)  1217.
+
+Wela,  Welo  (weal)  163.  862-3.
+
+Welan-ao  (-owa  ?)  862-3.
+
+Weletabi  1081  n.
+
+Welf  (whelp)  373.
+
+Welisunc,  Volsungr  371.
+
+Welnas,  Wels  854.
+
+wel-recke  418  n.  1152.
+
+Wendel  (devil,  etc.)  375  n.
+
+wendil-meri  (ocean)  601.
+
+wer-alt,  wer-old,  world  792.
+
+were-wolf  1093-7.
+
+werpeya  (fate)  416  n.
+
+Werra  273  n.  288.  1012.
+
+Wester-falcna  165.  367.
+
+Wester-gibel  739.
+
+Wester-wald  469.
+
+wester-wat  (child's  caul)  874 n.
+
+wetter-aas  (cat)  304.
+
+Weyas  (wind)  579.  630.
+
+wheel  of  fortune  866-9.  871.
+
+while  790.
+
+whirlpool  592.
+
+whirlwind  229  n.  285  n.  632.
+
+whit,  wight  440  n.
+
+white  lady  279.  280.  962-8.
+
+Whitsun  fowl  674.
+
+ king  595,  queen  787.
+
+ sleeper  785.
+
+Wich,  wig  (war)  liv.  203.  888.
+wichtel-zopf  (plica  Pol.)  464.  474.  1156.
+Widolt  556.
+
+Widu-kind  (wood-child  ?)  432.
+widu-minna  (wood- wife)  434-5.
+Wiegles-dor  (R.  Eider)  239.
+Wielant  376-8.  428.  552.  1148.
+wiesen-hiipfer  (will  o'  wisp,  ghost)  829.
+916.
+
+wig-weorfting  (idolatry)  67.
+wights  439.
+
+wih,  weoh,  ve  (temple)  67.  159.
+
+wihseling  (changeling)  468.
+
+wiht,  wight,  whit  440.
+
+wihtel,  wihtelm  441.  459 n.  464.  474.
+
+wild  fire  179.  603-5.
+
+wild  host,  hunt  xv.  918-950.
+
+wild  man  486.  929.
+
+wildiu  wip  431.  483.  929.  1148.
+
+Will  o'  the  wisp  916-8.
+
+William  of  Cloudesle  382.
+
+wil-salda,  huil-salida  (fortune)  857.  863.
+
+wil-weorSunge  (well-worship)  584.
+
+Wind-and-weather  548.  630.  1024.
+
+
+Wind-helm  641.
+
+Windis-prut,  wind's   bride  (whirlw.)
+632.
+
+winds,  four  dwarfs  461.
+wind-selliri  g  640.
+wing- coat  329.
+Wintar,  Wintarolf  759.
+Wippeo  300  n.
+Wipune  xxxi.
+Wish,  see  Wunsch.
+wish-wife  419;  429.
+wish-wind  149.
+wishing-gear  870.
+
+ hat  463.  869.  870.
+
+ mill,  -cloth  871.
+
+ rod  419.  870-1.  974-7.
+
+Wislau  785.
+witch,  wicce  1033.
+witches  1038-1104.
+witches'  dance  1056.
+witches'  offspring  1073.
+
+Wittich,  Witugouwo  376.  482.
+
+wizago,  witega  (prophet)  94.  1034.
+
+wizards  1032.
+
+wiz6d,  vitdd  39.
+
+Wod  132.  156  n.  924-8.
+
+Wodan  xv.  56.  131.  224.  301.  924-8.
+1231-2.
+
+W6danes-dag  125.
+
+Wode  155-6.  937.
+
+Wodel-beer  156.
+
+W6del-geat  367.  372.
+
+Woden  110.  121-8.  131,  see  Wuotan.
+
+Woden-diivel  155.
+
+Wodenes-weg  151-2-9.
+
+Wodens-torp  154.
+
+Wodesterne  (a  plant)  159.
+
+Wodnes-beorg,  -feld  152-3.
+
+Woeden-spanne,  Woens-let  154.  160.
+
+Woens-drecht,  Woen-sel  153-4-8.
+
+Wohhanda  176  n.  598.
+
+woit!  928  n.
+
+Wolchan-drut  423.  1088.
+Wold  156.
+Woldar  699.
+
+wolf  147-8  n.  244-5.  668.  705-6.  814.  996.
+
+1140 ;  she- wolf  807.
+Wolf-bizo,  Wolf-gang  1140  n.  1241.
+Wolf-dietrich  xxii.  xxviii.  393.
+Wolf-hetan  1094-5.
+wolf-riding  1054.
+wolfs-bane  1193.
+Wol-gemut  1063.
+Wolmar's  street  943.
+Wolterken,  Wouterken  504.  510.
+Woma  144-5.  208.  237.  745.
+woman  reverenced  397.
+wonder-flower  871.  971.
+Wons-beke,  Won-stock  154.
+wood-hound  1241.
+wood-mower  (death)  852.
+wood-pecker  673.  683  n.  973.
+
+
+C  C
+
+
+1276
+
+
+INDEX.
+
+
+wood-wife  (wald-frau)  430-5.
+
+wood-wives,  little  (holz-weibel)  483.  929.
+
+world  790.  850.
+
+world,  burning  of  the  815.
+
+world-tree  796-800.
+
+Woudan  13?.
+
+wraith  877  n.
+
+Wris-berg,  wrisilic  525.  534.
+wudu-£elfen  (dryad)  480.  653  n.
+wiieterich  (tyrant)  132.
+"Wuetunges  her  (host)  132.
+wunder-burg  (enchanted  castle)  981.
+wunderer  (wonder-worker)  943.  1031  n.
+wunni-garto  (paradise)  821.
+Wunsch  (wish)  xii.  xviii.  xxxi.  xlvm.
+In.  138-144.  419.  869-873.  888.  977.
+
+wunsch-wint  (fair  wind)  149.
+
+Wuotan  xvii.  62.  124.  131,  160.  636-7.
+882.  918-9.  931.  960-1.  1047 n>
+
+Wuotans-berg  152.  1024.
+
+Wuotans-wagan  (Charles-wam)  151.
+
+Wuotil-goz  367  n.
+
+Wuotunc  132.  1006.
+
+Wurd,  Wurt,  Wyrd  (fate)  26.  405-6??.
+415.
+
+wurdh-giscapu  (fate's  decrees)  408??.
+Wusc-frea  144.  165.  211.  367.
+
+Yama-priya  (ficus  indica)  303.
+
+Tgg-drasili  (world-tree)  li.  76.  796-800.
+Tggr  (0«inn)  144.  208.  888.
+ylfa-gescot  (elves'  shot)  460. 1244.
+Ymir  532.  559.  561.
+
+
+Yngvi  346.
+
+youth,  fountain  of  433.  588.
+yule  702.
+
+yule-boar  51.  215.  1240.
+yule-fire,  -log  627-8.
+Yumala  xxxi.  176  n. .
+Yutri-bogh  749.
+
+Zalmoxis  145.
+
+zart-garto  (paradise)  821.
+
+zauber,  tover,  teafor  (magic)  1032-3
+
+zeit,  tid  (time)  791.
+
+Zemenyle  253  n.
+
+zepar,  tifer  (sacrifice)  40.
+
+Zephyr  461  n.  631.
+
+Zeus  (Jupiter)  22.  136.  168-9.  173-6.
+
+193-4.  316-8.  321.  335.  636.  680.  859.
+
+901.  1133.
+ziefer  (sacrifice)  40.  693  n.
+Zies-berg  198.  201.
+Zies-tac  (Tuesday)  123-4.
+Ziewonia  773.
+
+Zige-linta  (daphne  mezereum)  1193.
+Zio,  Tins,  Tiw  xix.  123-4.  193.  882-3.
+
+1047  n.  1193.
+Zio-wari  (-worshippers)  199.  201.
+Zisa,  Ziza  265.  291-8.
+Zisen-berc  296-8.
+zit-vogel  (time-bird)  678.
+ziu  (turbines)  203.  285??.  632.
+zounds !  15  n.
+zunder  (snake)  685.
+Zuti-bure,  Swiety-bor  76.
+Zyvie  (god  of  life),  zywiec  (cuckoo)  679.
+
+
+Butler  &  Tanner,  The  Selwood  Printing  Works,  Frome,  and  London.
+
+
+October  1890.
+
+k  CLASSIFIED  LIST
+
+OF
+
+EDUCATIONAL  WORKS
+
+PUBLISHED  BY
+
+GEORGE  BELL  &  SONS.
+
+
+Cambridge  Calendar.  Published  Annually  [August).  6s.  %d.
+Student's  Guide  to  the  University  of  Cambridge.
+Oxford  :  Its  Life  and  Schools.    5s.  [6j.  6d.
+
+The  School  Calendar.    Published  Annually  (December).  Is.
+
+
+BIBLIOTHECA  CLASSICA.
+
+A  Series  ef  Greek  and  Latin  Authors,  with  English  Notes,  edited  by
+eminent  Scholars.  Qvo.
+
+***  The  Works  with,  an  asterisk  (*)  prefixed  can  only  be  had  in  the  Sets  «f  26  Vols.
+
+Aeschylus.   By  F.  A.  Paley,  M.A.,  LLJ).  8s.
+Cicero's  Orations.   By  G.  Long,  M.A.   4  vols.  32s.
+Demosthenes.   By  B.  Whist  on,  M.A.   2  vols.  10s.
+Euripides.   By  F.  A.  Paley,  M.A.,  LL.D.   3  vols.  24s.
+Homer.   By  F.  A.  Paley,  M.A.,  LL.D.    The  Iliad,  2  vols.  14s.
+Herodotus.   By  Bev.  J.  W.  Blakesley,  B.D.   2  vols.  12s.
+Hesiod.   By  F.  A.  Paley,  M.A.,  LL.D.  5s.
+Horace.   By  Kev.  A.  J.  Macleane,  M.A.  8s.
+Juvenal  and  Persius.   By  Bev.  A.  J.  Macleane,  M.A.  6s.
+Plato.   By  W.  H.  Thompson,  D.D.   2  vols.   5s.  each.
+Sophocles.  Vol.  I.    By  Bev.  F.  H.  Blaydes,  M.A.  8s.
+
+ Vol.11.   F.  A.  Paley,  M.A.,  LL.D.  6s.
+
+♦Tacitus :  The  Annals.    By  the  Bev.  P.  Frost.  8s.
+♦Terence.   By  E.  St.  J.  Parry,  M.A.  8*.
+
+Virgil.  By  J.  Conington,  M.A.  Bevised  by  Professor  H.  Nettleship.
+
+3  vols.   10s.  6d.  each.
+
+An  Atlas  of  Classical  Geography ;  24  Maps  with  coloiflted  Out-
+lines. Imp.  8vo.  6s.
+
+
+2
+
+
+George  Bell  and  Sons'
+
+
+GRAMMAR-SCHOOL  CLASSICS.
+
+A  Series  of  Greek  and  Latin  Authors,  with  English  Notes.
+Fcap.  Svo.
+
+0»sar :  De  Bello  Gallico.   By  George  Long,  M.A.  4s.
+
+ Books  I.-III.  For  Junior  Classes.  By  G.  Long,  M.A.  1*.  64.
+
+  Books  IV.  and  V.  Is.  6<L   Books  VI.  and  VII.,  1*.  6d.
+
+Catullus,  Tibullus,  and  Propertius.    Selected  Poems.  With  Life.
+
+By  Rev.  A.  H.  Wratislaw.   2s.  6d.
+
+Cicero:  De  Senectute,  De  Amicitia,  and  Select  Epistles.  By
+
+George  Long,  M.A.  3s.
+
+Cornelius  Nepos.   By  Rev.  J.  F.  Macmichael.  2*.
+
+Homer:  Biad.    Books  I.-XII.    By  F.  A.  Paley,  M.A.,  LL.D.
+
+4s.  6d.   Also  in  2  parts,  2s.  6d.  each.
+
+Horace  ■    With  Life.   By  A.  J.  Macleane,  M.A.   3s.  6d.  In
+
+2  parts,  2s.  each.
+Juvenal:  Sixteen  Satires.   By  H.  Prior,  M.A.   3s.  6d.
+Martial :  Select  Epigrams.  With  Life.  By  F.  A.  Paley,  M.A.,  LL.D.
+
+4s.  6d.  _  „    ,  T
+
+Ovid:  the  Fasti.   By  F.  A.  Paley,  M. A.,  LL.D.   3s.  6<L   Books  L
+
+and  II. ,  Is.  6d.   Books  III.  and  IV.,  Is.  6d.
+SaUust:  Catilina  and  Jugurtha.   With  Life.   By  G.  Long,  M.A.
+
+and  J.  G.  Frazer.   3s.  6d.,  or  separately,  2s.  each.
+Tacitus :  Germania  and  Agricola.   By  Bev.  P.  Frost.   2s.  Qd.
+Virgil:  Bucolics,  Georgics,  and  iEneid,  Books  I.-IV.  Abridged
+
+Mneidi,  XI.  and  XII.
+
+Xenophon:  The  Anabasis.  With  Life.  By  Rev.  J.  F.  Macmichael.
+
+—VI.  and  VII.  '
+ The  Cyropsedia.  By  G.  M.  Gorham,  M.A.  3s.  6d.  Books
+
+I.  and  II.,  Is.  6*.— Books  V.  and  VI.,  Is.  6d.
+
+,   Memorabilia.   By  Percival  Frost,  M.A.  3s.
+
+A  Grammar-School  Atlas  of  Classical  Geography,  containing
+
+Ten  selected  Maps.   Imperial  8vo.  3s.
+
+Uniform  with  the  Series.
+
+*The  New  Testament,  in  Greek.   With  English  Notes,  &o.  By
+
+%£, IZb  MfSiichael.  4s.  6d.  In  5  parts,  The  I  our  Gospels  and  the  Acta.
+Sewed,  6d.  each.
+
+
+Educational  Works.
+
+
+3
+
+
+CAMBRIDGE  GREEK  AND  LATIN  TEXTS.
+
+Aeschylus.   By  P.  A.  Paley,  M.A.,  LL.D.  2«.
+
+Caesar :  De  Bello  G-allico.   By  G.  Long,  M.A.   Is.  Qd.
+
+Cicero:  De  Senectute  et  De  Amicitia,  et  Epistolae  Select®.
+
+By  G.  Long,  M.A.   Is.  6d.
+
+Ciceronis  Orationes.   In  Verrem.  By  G.  Long,  "M.A.  2*.6d.
+
+Euripides.   By  F.  A.  Paley,  M.A.,  LL.D.   3  vols.  2s.  each.
+
+Herodotus.  By  J.  G.  Blakesley,  B.D.   2  vols.  5s.
+
+Homeri  Ilias.   I.-XII.   By  F.  A.  Paley,  M.A.,  LL.D.   Is.  Qd.
+
+Horatius.   By  A.  J.  Macleane,  M.A.   Is.  Qd.
+
+Juvenal  et  Persius.  By  A.  J.  Macleane,  M.A.   Is.  Qd.
+
+Lucretius.   By  H.  A.  J.  Munro,  M.A.  2s.
+
+SaUusti  Crlspi  Catilina  et  Jugurtha.  By  G.  Long,  M.A.  Is.  Qd,
+
+Sophocles.   By  F.  A.  Paley,  M.A.,  LL.D.    2s.  Qd.
+
+Terenti  GomcBdi®.  By  W.  Wagner,  Ph.D.  2s.
+
+Thucydldes.  By  J.  G.  Donaldson,  D.D.  2  vols.  4*.
+
+Virgilius.  By  J.  Conington,  M.A.  2s.
+
+Xenophontis  Ezpeditio  Cyri.  By  J.  F.  Macmichael,  B.A.  Is.  Qd.
+Novum  Testamentum  Grasce.   By  F.  H.  Scrivener,  M.A.,  D.C.L.
+
+4s.  6d.  An  edition  with  wide  margin  for  notes,  half  bound,  12s.  Emtio
+Major,  with  additional  Readings  and  References.  7s.  6d.    (See  page  14.)
+
+
+CAMBRIDGE  TEXTS  WITH  NOTES.
+
+A  Selection  of  the  most  usually  read  of  the  Greek  and  Latin  Authors,  Annotated  for
+Schools.  Edited  by  well-known  Classical  Scholars.  Fcap.  8vo.  Is.  6d.  each,
+with  exceptions.
+
+'  Dr.  Paley' s  vast  learning  and  keen  appreciation  of  the  difficulties  of
+beginners  make  his  school  editions  as  valuable  as  they  are  popular.  In
+many  respects  he  sets  a  brilliant  example  to  younger  scholars.'— Athenaum.
+
+'  We  hold  in  high  value  these  handy  Cambridge  texts  with  Notes.'—
+
+Saturday  Review.
+
+Aeschylus.  Prometheus  Vinctus. — Septem  contra  Thebas. — Aga-
+memnon.— Persae.— Eumenides.— Ohoephoroe.  By  F. A.  Paley,  M. A.,  LL.D.
+
+Euripides.  Alcestis.— Medea.— Hippolytus.— Hecuba.— Bacchae,
+—Ion.  2s.—  Orestes.—  Phoenissae.— Troades.— Hercules  Parens.— Andro-
+mache.—Iphigenia  in  Tauris.— Supplices.   By  F.  A.  Paley,  M.A.,  LL.D.
+
+Homer.   Iliad.   Book  I.   By  F.  A.  Paley,  M. A.,  LL.D.  1*.
+Sophocles.    Oedipus  Tyrannus.— Oedipus  Coloneus. — Antigone.
+
+— Blectra— Ajax.   By  P.  A.  Paley,  M. A.,  LL.D.
+
+Xenophon.   Anabasis.   In  6  vols.    By  J.  E.  Melhuish,  M.A.,
+
+Assistant  Classical  Master  at  St.  Paul's  School.
+
+  Hellenics.    Book  I.    By  L.  D.  Dowdall,  M.A.,  B.D.  2s.
+
+  Hellenics,  Book  II.   By  L.  D.  Dowdall,  M.A.,  B.D.  2s.
+
+Cicero.    De  Senectute,  De  Amicitia  and  Epistolro  Selectse.  By
+
+Or.  Long,  M.A.
+
+Ovid:   Fasti.   By  F.  A.  Paley,  M.A.  LL.D.   In  3  vols.,  2  books
+
+in  each,   2s.  each  vol.
+
+
+4
+
+
+George  Bell  and  Sons'
+
+
+Ovid.    Selections.    Amores,  Tristia,  Heroides,  Metamorphoses.
+
+Br  A.  J.  Macleane,  M.A.  .  ,
+
+Terence.  Andria.— Hauton  Timorumenos.— Phormio.— Adelphoe.
+
+By  Professor  Wagner,  Ph.D.  ^
+Virgil.   Professor  Conington's  edition,  abridged  in  12  vols.
+
+♦  The  handiest  as  well  as  the  soundest  of  modern  editions.'  ;
+
+Saturday  Review.
+
+
+PUBLIC  SCHOOL  SERIES.
+
+A  Series  of  Classical  Texts,  annotated  by  well-known  Scholars.  Or.  8w.
+Aristophanes.  The  Peace.  By  F.  A.  Paley,  M.A.,LL.D.   is.  6d.
+
+  The  Acharnians.   By  F.  A.  Paley,  M.A.,  LL.D.   is.  6d.
+
+  The  Frogs.  By  F.  A.  Paley,  M.A.,  LL.D.   is.  6d.
+
+CHcero.  The  Letters  to  Atticus.  Bk.  I.  By  A.  Pretor,  M.A.  is.  6d.
+Demosthenes  de  Falsa  Legatione.   By  R.  Shilleto,  M.A.  6s.
+
+  The  Law  of  Leptines.    By  B.  W.  Beatson,  M.A.   3s.  6d.
+
+IAvj.   Book  XXI.   Edited,  with  Introduction,  Notes,  and  Maps,
+
+by  the  Rev.  L.  D.  Bowdall,  M.A.,  B.D.    3s.  6d.
+ Book  XXII.   Edited,  &c,  by  Rev.  L.  D.  Dowdall,  M.A.,
+
+PlatoD  The  Apology  of  Socrates  and  Crito.  By  W.  Wagner,  Ph.D.
+10th  Edition.   3s.  6d.   Cheap  Edition,  limp  cloth,  2s.  6d.
+
+  The  Phffido.   9th  Edition.  By  W.  Wagner,  Ph.D.   5s.  6d.
+
+  The  Protagoras.  4th  Edition.  By  W.  Wayte,  M.A.  is.  6d.
+
+  The  Euthyphro.  3rd  Edition.    By  G.  H.  Wells,  M.A.  3*.
+
+  The  Euthydemus.   By  G.  H.  Wells,  M.A.  is.
+
+  The  Republic.  Books  I.  &  II.   By  G.  H.Wells,  M.A.  3rd
+
+Plautos!\heAulularia.  By  W.  Wagner,  Ph.D.  3rd  Edition,  is.  6d.
+
+  TheTrinummus.  ByW.  Wagner, Ph.D.  3rd  Edition.  4s.  6d.
+
+  The  Menaechmei.  By  W.  Wagner,  Ph.D.  2nd;Edit.  4s.  6d.
+
+  The  Mostellaria.  By  Prof.  E.  A.  Sonnenschein.  5s.
+
+  Ike  Rudens.   Edited  by  Prof.  E.  A.  Sonnenschein.
+
+[In  the  press.
+
+Sophocles.   The  Trachiniae.   By  A.  Pretor,  M.A.   4s.  6d.
+Sophocles.  The  Oedipus  Tyrannus.  By  B.  H.  Kennedy,  D.D.  5s.
+Terence.   By  W.  Wagner,  Ph.D.   2nd  Edition.    7s.  Qd.
+Theocritus.   By  F.  A.  Paley,  M.A.,  LL.D.    2nd  Edition.   4s.  6d.
+Thucydides.   Book  VI.   By  T.  W.  Dougan,  M.A.,  Fellow  of  St.
+John's  College,  Cambridge.    3s.  6d.
+
+Others  in  preparation.
+
+
+CRITICAL  AND  ANNOTATED  EDITIONS.
+
+Aristophanis  Comoediae.  By  H.  A.  Holden,  LL.D.  8vo.  2  vols
+
+Notes,  Illustrations,  and  Maps.   23s.  6d.   Plays  Bold  separately.
+Csesar's  Seventh  Campaign  in  Gaul,  B.C.  52.   By  Rev.  W. £
+Compton,  M.A.,  Assistant  Master,  Uppingham  School.   Crown  8vo.  4*.
+
+
+Educational  Works.
+
+
+5
+
+
+Calpurnius  Sioulus.    By  C.  H.  Keene,  M.A.   Crown  8vo.  6«.
+Catullus.    A  New  Text,  with  Critical  Notes  and  Introductiom
+
+by  Dr.  J.  P.  Postgate.   Japanese  vellum.   Foolscap  8vo.  3s.
+Corpus  Poetarum  Latinorum.  Edited  by  Walker.  1  vol.  8vo.  18a.
+Livy.   The  first  five  Books.   By  J.  Prendeville.   12mo.  roan,  5#.
+
+Or  Books  I.-IIL,  8s.  6d.  IV.  and  V.,  3s.  6d.  Or  the  5ve  Books  in  separate
+vols.  Is.  6d.  each.
+
+Luean.   The  Pharsalia.    By  C.  E.  Haskins,  M.A.,  and  W.  E.
+
+Heitland,  M.A.   Demy  8vo.    14s.  _
+Lucretius.   With  Commentary  by  H.  A.  J.  Munro.  4th  Edition.
+
+Vols.  I.  and  II.  Introduction,  Text,  and  Notes.    18s.   Vol.  III.  Trans.
+
+lation.  6s.
+
+Ovid.  P.  OvidiiNasonisHeroidesXIV.  By  A.  Palmer,  M.A.  8vo.fo.
+ P.  Ovidii  Nasonis  Ars  Amatoria  et  Amores.   By  the  Eev.
+
+H.  Williams,  M.A.   3s.  6d.         _  _  "
+
+  Metamorphoses.  Book  XIII.  By  Chas.  Haines  Keene,  M.A.
+
+2s.  6d.
+
+ Epistolarum  ex  Ponto  Liber  Primus.  ByC.H.Keene,M.A.  3*.
+
+Propertius.   Sex  Aurelii  Propertii  Carmina.   By  F.  A.  Paley,  M.A.,
+
+LL.D.   8vo.  01oth,5s.
+
+  Sex  Propertii  Elegiarum.   Libri  IV.  Becensuit  A.  Palmer,
+
+Collegii  Sacrosancta3  et  Individuse  Trinitatis  juxta  Dublinum  Socius.
+Fcap.  8vo.  3s.  6d.
+
+Sophocles.  The  Oedipus  Tyrannus.   By  B.  H.  Kennedy,  D.D.
+
+Crown  8vo.  8s.
+
+Thucydides.  The  ffistory  of  the  Peloponnesian  War.  By  Richard
+Shilleto,  M.A.   Book  I.  8vo.  6s.  6d.  Book  II.  8vo.  5s.  6d.
+
+
+LOWER  FORM  SERIES.
+
+With  Notes  and  Vocabularies.
+Eologae  Latinas ;  or,  First  Latin  Reading-Book,  with  English  Notes
+
+and  a  Dictionary.  By  the  late  Rev.  P.  Frost,  M.A.  New  Edition.  Fcan.
+8vo.   Is.  6d.  r
+
+Latin  Vocabularies  for  Repetition.  By  A.  M.  M.  Stedman,  M.A.
+
+2nd  Edition,  revised.   Fcap.  8vo.   Is.  6d.
+
+Easy  Latin  Passages  for  Unseen  Translation.   By  A.  M.  M.
+
+Stedman,  M.A.   Fcap.  8vo.   Is.  6d.
+Virgil's  .ffiineid.   Book  I.   Abridged  from  Conmgton's  Edition.
+
+With  Vocabulary  by  W.  F.  R.  Shilleto.   Is.  6d.
+Caesar  de  BeUo  G-allico.   Books  I.,  II.,  and  III.   With  Notes  by
+
+George  Long,  M.A.,  and  Vocabulary  byW.  F.  R.  Shilleto.   Is.  6d.  each.
+Horace's  Odes.   Book  I.   With  Notes  by  A.  J.  Maeleane,  M.A.,
+
+and  Vocabulary  by  A.  H.  Dennis,  M.A.   Is.  6d.
+
+Tales  for  Latin  Prose  Composition.  With  Notes  and  Vocabu-
+lary.  By  G.  H.  Wells,  M.A.  2s.
+
+A  Latin  Verse-Book.  An  Introductory  Work  on  Hexameters  and
+Pentameters.  By  the  late  Rev.  P.  Frost,  M.A.  New  Edition.  Fcap.  8vo.
+2s.   Key  (for  Tutors  only),  5s.
+
+Analeeta  Grseca  Minora,  with  Introductory  Sentences,  English
+Notes,  and  a  Dictionary.  By  the  late  Rev.  P.  Frost,  M.A.  New  Edition.
+Fcap.  8vo.  2s.
+
+Greek  Testament  Selections.  2nd  Edition,  enlarged,  with  Notes
+and  Vocabulary.   By  A  M.  M.  Stedman,  M.A.   Fcap.  8vo.  2s.  6d.
+
+
+6  George  Bell  and  Sons'
+
+LATIN  AND  GREEK  CLASS-BOOKS.
+
+(See  also  Lower  Form  Series.)
+Faciliora    An  Elementary  Latin  Book  on  a  new  principle.  By
+Firs&J  LeS^By  A.'m.M.  Stedman.   Second  Edition,
+
+iWLatta  Reader.   By  A.  M.  M.  Stedman,  M.A.    1*.  6d.
+Easy  Latin"  Exercises.   By  A.  M.  M.  Stedman,  M.A.  Crown  8vo.
+
+Notanda  Qusedam.   Miscellaneous  Latin  Exercises.   By  A.
+
+M.  Stedman,  M.A.   Feap.  8vo.  Is.  6d.  .
+A  Latin  Primer.   By  Rev.  A.  C.  Clapin,  M.A.  Is.
+Anxilia  Latina.    A  Series  of  Progressive  Latm  Exercises.  By
+AUT?.B  laSeley,M.A.  Fcap.  8vo  Parti ^.Accidence.  5th  Edition.  2s.
+
+Part  II.   5th  Edition.   2s.   Key  to  Part  II.,  2s.  6d.
+ScalaLatina.    Elementary  Latm  Exercises.    By  Rev.  J.  W.
+
+Davis,  M.A.   New  Edition,  with  Vocabulary.   Fcap-Svo.  2s.  6d.
+
+Passages  for  Translation  into  Latin  Prose.   By  Prof.  H.  Nettle-
+
+8*^eA^  every  teacher  of  Latirn^
+
+Latin  Prose  Lessons.  By  Prof.  Church,  M.A.  9th  Edition.
+Aj^caTLatoExeroises.   By  C.  P.  Mason,  B.A.    4th  Edit.
+
+Part  I.,  Is.  6d.  Part  II.,  2s.  6d.
+By  T  Collins,  M.A.,  H.  M.  of  the  Latin  School,  Newport,  Salop.
+Latin  Exercises  and  Grammar  Papers  6th  Edit. Feap. too. ,*M
+Unseen  Papers  in  Latin  Prose  and  Verse.  With  Examination
+^t^^X:  With  Examination  Questions.
+jS^S&iffi  toW*  Caesar,  Cioero,  Livy,  &c,  for
+
+Ketranslation  into  Latin.  With  Notes.  2s.
+Bv  A.  M.  M.  Stedman,  M.A.,  Wadham  College,  Oxford.
+Latin  Examination  Papers  in  Grammar  and  Idiom.  2nd
+
+^^ition  CrownSvo.  2s.6d.  Key  (for  Tntors  and  Private  Stodents  only),  6s.
+
+Greek  Examination  Papers  in  Grammar  and  Idiom;  ^  2s.  6d.
+
+By  theERxv.  P.  Fbost,  M.A.,  St.  John's  College,  Cambridge.
+■Materials  for  Latin  Prose  Composition.   By  the  late  Rev.  P.
+
+iSSllJ Edition.  Fcap  Sro    *.   Key  «or Tutors  ejW.  *u
+Materials  for  Oreek  Prose  Composition.  New  Edit.  reap.  8vo.
+
+Flortiegium^oeUoum,8  °E legiac  Extracts  hem  Ovid  and  TibuUns.
+
+New  Edition.  With  Notes.  Fcap.  8vo.  2s.
+By  H.  A.  Holden,  LL.D.,  formerly  Fellow  of  Trinity  Coll.,  Camb.
+Foliorum  Silvula.   Part  I.   Passages  for  Translation  mto  Latin
+
+Elegiac  and  Heroic  Verse.  11th  Edition.   Post  8vo.  7s.  6d.
+
+fgfpart  H.   Select  Passages  for  Translation  mto  Latm  Lyric
+
+and  Comic  Iambic  Verse.  3rd  Edition.  Post8vo.  5s.
+Folia  Silvulffi,  sive  Eclogffi  Poetarum  Anghcorum  m  Latmum  et
+
+Grsecnm  converses.  8vo.  Vol.  II.  4s.  6d.
+
+
+Educational  Works.
+
+
+7
+
+
+Follorum  Centuries.  Select  Passages  for  Translation  into  Latin
+
+and  Greek  Prose.  10th  Edition.  Post  8vo.  8s.  .
+Soala  Grseca :  a  Series  of  Elementary  Greek  Exercises.  By  Rev.  J .  W .
+
+Davis,  M.A.,  and  R.  W.  Baddeley,  M.A.  3rd  Edition.  Fcap.  8vo.  2s.  6d.
+Greek  Verse  Composition.  By  G.  Preston,  M.A.   5th  Edition.
+
+Crown 8vo.   4s.  6d.  .      .  ,.    '       .  ...  TT
+
+Greek  Particles  and  their  Combmations  accordmg  to  Attic  Usage.
+
+A  Short  Treatise.   By  F.  A.  Paley,  M. A.,  LL.D.  2s.  6d.
+Rudiments  of  Attic  Oonstruotion  and  Idiom.    By  the  Rev.
+
+W.  C.  Compton,  M.A.,  Assistant  Master  at  Uppingham  School.  3s.
+Anthologia  Grseoa.  A  Selection  of  Choice  Greek  Poetry,  with  Notes.
+
+By  F  St  John  Thackeray.  4ih  and  Cheaper  Edition.  16mo.  4s.  Gd.
+Anthologia  Latina.    A  Selection  of  Choice  Latin  Poetry,  from
+
+Nsevins  to  Bocthius,  with  Notes.  By  Rev.  F.  St.  J.  Thackeray.  5th  Edition.
+
+16mo.   4s.  6d.
+
+TRANSLATIONS,  SELECTIONS,  &<v
+
+*  *  Many  of  the  following  books  are  well  adapted  for  School  Prizes.
+Aesehylus.   Translated  into  English  Prose  by  F.  A.  Paley,  M.A.9
+
+LL.D.  2nd  Edition.  8vo.  7s.  6d.  .
+ Translated  into  English  Verse  by  Anna  Swanwick.  4th
+
+Edition.   Post  8vo.  5s.  _
+
+Horace.   The  Odes  and  Carmen  Saeculare.   In  English  Verse  by
+
+J.  Conington,  M.A.  10th  edition.   Fcap.  8vo.   5s.  6d.  .
+
+  The  Satires  and  Epistles.  In  English  Verse  by  J.  Coning-
+
+ton,  M.A.  7th  edition.  6s.  6d.  •     .        n   .  _  -  _
+
+Plato.  Gorgias.  Translated  by  E.  M.  Cope,  M.A.  8vo.  2nd  Ed.  7s.
+
+  Philebus.  Trans,  by  F.  A.  Paley,  M. A.,  LL.D.  Sm.8vo.  4s.
+
+ —  Thesetetus.  Trans,  by F.  A.  Paley, M. A.,  LL.D.  Sm.8vo.  4s.
+
+,  Analysis  andlndexof  the  Dialogues.  ByDr.Day.  Post8vo.  5s.
+
+Sophocles.    Oedipus  Tyrannus.    By  Dr.  Kennedy.  Is.
+
+  The  Dramas  of.    Rendered  into  English  Verse  by  Sir
+
+George  Young,  Bart.,  M.A.   8vo.   12s.  6d.
+Theocritus.   In  English  Verse,  by  C.  S.  Calverley,  M.A.  New
+
+Edition,  revised.   Crown  8vo.   7s.  6d.  ^
+
+Translations  into  English  and  Latin.   By  C.  S.  Calverley,  M.A.
+
+TrarSlationsintoEnglish,  Latin,  and  Greek.  By  B.C.  Jebb,Litt.D.>
+
+H.  Jackson,  Litt.D.,  and  W.  B.Cnrrey,  M.A.   Second  Edition.  8s
+Extracts  for  Translation.   By  R.  C.  Jebb,  Litt.  D.,  H.  Jackson,
+
+Litt.D.,  and  W.  E.  Carrey,  M.A.   4s.  6d.
+
+Between  Whiles.    Translations  by  Rev.  B.  H.  Kennedy,  D.l),
+
+2nd  Edition,  revised.   Crown  8vo.   5s.  «  ,
+
+Sabrinae  Corolla  in  Hortulis  Regiae  Scholae  Salopiensis
+
+Contexuerunt  Tres  Viri  Floribus  Legendis.  Fourth  Edition,  thoroughly-
+Revised  and  Rearranged.   Large  post  8vo.   10s.  6d.
+
+REFERENCE  VOLUMES.
+A  Latin  Grammar.   By  Albert  Harkness.   Post  8vo.  6s.
+
+ By  T.  H.  Key,  M.A.  6th  Thousand.  Post  8vo.  8s.
+
+A  Short  Latin  Grammar  for  Schools.    By  T.  H.  Key,  M.A.
+
+F.R.S.  16th  Edition.  Post  8vo.  3s.  6d.  n/r  a
+
+A  Guide  to  the  Choice  of  Classical  Books.  By  J.B.  Mayor,  M.A,
+3rd  Edition,  Crown  8vo.  4s.  6d.
+
+
+8
+
+
+George  Bell  and.  Son*'
+
+
+A  H&tory  of  Roman  Literature.    By  Prof.  Teuffel.  Revised
+
+by  Prof.  Dr.  Schwabe,  and  translated  by  Prof.  Warr,  of  King's  College.
+2  vols.  _  [Immediately.
+
+The  Theatre  of  the  Greeks.   By  J.  W.  Donaldson,  D.D.  10th
+
+Edition.   Post  8vo.  5s.
+
+Keightley's  Mythology  of  Greece  and  Italy.   4th  Edition.  5s.
+
+
+CLASSICAL  TABLES.
+
+Latin  Accidence.   By  the  Bev.  P.  Frost,  M.A.  1«.
+Latin  Versification,  Is.
+
+Notabilia  Qusedam ;  or  the  Principal  Tenses  of  most  of  the
+
+Irregular  Greek  Verbs  and  Elementary  Greek,  Latin,  and  French  Con-
+struction.  New  Edition.  Is.
+
+Richmond  Rules  for  the  ©vidian  Distich,  &c.  By  J.  Tate,  M.A.  Is,
+The  Principles  of  Latin  Syntax.  1*.
+
+Greek  Verbs.  A  Catalogue  of  Verbs,  Irregular  and  Defective.  By
+
+3.  S.  Baird,  T.C.D.   8th  Edition.   2s.  6d.
+
+Greek  Accents  (Notes  on).  By  A.  Barry,  D.D.  New  Edition.  Is.
+Homeric  Dialect.   Its  Leading  Forms  and  Peculiarities.   By  J.  S.
+Bakd,  T.C.D.   New  Edition,  by  W.  G.  Rutherford,  LL.D.  Is.
+
+Greek  Accidence.  By  the  Rev.  P.  Frost,  M.A.  New  Edition.  1*.
+
+
+CAMBRIDGE   MATHEMATICAL  SERIES.
+
+Arithmetic  for  Schools.    By  C.  Pendlebury,  M.A.    4th  Edition,
+
+stereotyped,  with  or  without  answers,  4s.  6d.  Or  in  two  parts,  with  or
+without  answers,  2s.  6d.  each.  Part  2  contains  the  Commercial  Arithmetic
+
+Examples  (nearly  8000),  without  answers,  in  a  separate  voL  3s.
+In  use  at  St.  Paul's,  Winchester,  Wellington,  Charterhouse,  Merchant
+Taylors',  Christ's  Hospital,  Sherborne,  Shrewsbury,  &c.  &c.
+
+Algebra.   Choice  and  Chance.   By  W.  A.  Whitworth,  M.A  4th
+
+Edition.  6s.
+
+Euclid.    Books  I. -VI.  and  part  of  Books  XI.  and  XII.   By  H.
+
+Deighton.  4s.  6d.    Key  (for  Tutors  only),  5s.    Book  I.,  revised,  Is.
+
+Books  I.  and  II.,  Is.  6&.   Books  I.-IIL,  3s.
+Euclid.    Exercises  on  Euclid  and  in  Modern  Geometry.  By
+
+J.  McDowell,  M.A.   3rd  Edition.  6s.
+Trigonometry.    By  J.  M.  Dyer,  M.  A.,  and  Bev.  E.  H.  Whitcombe,
+
+M.A.,  Assistant  Masters,  Eton  College.  [In  the  press.
+
+Trigonometry.  Plane.  By  Bev.  T.  Vyvyan,M.A.  3rd  Edit.  3s.  Gd.
+Geometrical  Conic  Sections.    By  H.  G.  Willis,  M.A.  5s.
+Conies.    The  Elementary  Geometry  of.    6th  Edition,  revised  and
+
+enlarged.    By  C.  Taylor,  D.D.   4s.  6d.
+Solid  Geometry-    By  W.  S.  Aldis,  M.A.    4th  Edit,  revised.  6s.
+Geometrical  Optics.    By  W.  S.  Aldis,  M.A.    3rd  Edition.  4s.
+Rigid  Dynamics.   By  W.  S.  Aldis,  M.A.  4s.
+Elementary  Dynamics.  By  W.Garnett,  M.A.,D.C.L.  5th  Ed.  6s.
+Dynamics.  A  Treatise  on.  By  W.  H.  Besant,  Sc.D.,  F.B.S.  7s.  6d.
+Heat.  An  Elementary  Treatise.  By  W.  Garnett,  M.A.,  D.C.L.  5th
+
+Edition,  revised  and  enlarged.    4s.  6d.
+Elementary  Physics.    Examples  in.   By  W.  Gallatly,  M.A.  4s.
+Hydromechanics.   By  W.  H.  Besant,  Sc.D.,  F.B.S.   5th Edition.
+
+Part  I.   Hydrostatics.  5s.
+
+
+Educational  Works.
+
+
+9
+
+
+Mathematical  Examples.   By  J.  M.  Dyer,  M.A.,  Eton  College,
+
+and  R.  Prowde  Smith,  M.A.,  Cheltenham  College.  6s.
+
+Mechanics.   Problems  in  Elementary.   By  W.  Walton,  M.A.  6s.
+
+
+CAMBRIDGE  SCHOOL  AND  COLLEGE
+TEXT-BOOKS.
+
+A  Series  of  Elementary  Treatises  for  the  use  of  Students,
+Arithmetic.   By  Kev.C.Elsee,  M.A.  Fcap.  8vo.  14th  Edit.  3s.  6tZ.
+ By  A.  Wrigley,  M.A.   3s.  6d.
+
+ A  Progressive  Course  of  Examples.   With  Answers.  By
+
+J.  Watson,  M.A.   7th  Edition,  revised.   By  W.  P.  Goudie,  B.A.   2s.  6ct.
+Algebra.   By  the  Bev.  C.  Elsee,  M.A.    8th  Edit.  4s.
+ Progressive  v  Course    of  Examples.      By  Kev.  W.  E.
+
+M'Michael,M.A.,  and  R.  Prowde  Smith,  M.A.  4th  Edition.    3s.  6d.  With
+
+Answers.  4s.  6d.
+
+Plane  Astronomy.  An  Introduction  to.   By  P.  T.  Main,  M.A.
+
+6th  Edition,  revised.  4s.
+
+Oonic  Sections  treated  Geometrically.   By  W.  H.  Besaat,  Sc.D.
+
+7th  Edition.    4s.  6d.    Solution  to  the  Examples.  4s.
+
+ Enunciations  and  Figures  Separately.    Is.  6d.
+
+Statics,  Elementary.   By  Bev.  H.  Goodwin,  D.D.   2nd  Edit.  3s.
+
+Hydrostatics,  Elementary.  By  W.  H.  Besant,  Sc.D.  14th  Edit.  4s.
+
+ Solutions  to  the  Problems.  [In  the  press.
+
+Mensuration,  An  Elementary  Treatise  on.  By  B.T.Moore,  M.A.  Ss.Qd.
+
+Newton's  Principia,  The  First  Three  Sections  of,  with  an  Appen-
+dix; and  the  Ninth  and  Eleventh  Sections.  By  J.  H.  Evans,  M.A.  5th
+Edition,  by  P.  T.  Main,  M.A.  4s.
+
+Analytical  Geometry  for  Schools.  ByT.G.Vyvyan.  5th  Edit.  4s.  6d.
+
+Greek  Testament,  Companion  to  the.  By  A.  C.  Barrett,  M.A.
+5th  Edition,  revised.   Fcap.  8vo.  5s.
+
+Book  of  Common  Prayer,  An  Historical  and  Explanatory  Treatise
+on  the.   By  W.  G-.  Humphry,  B.D.   6th  Edition.   Fcap.  8vo.   2s.  6d.
+
+Music,  Text-book  of.   By  Professor  H.  C.  Banister.   14th  Edition,
+
+revised.  5s.
+
+ —  Concise  History  of.    By  Kev.  H.  G.  Bonavia  Hunt,
+
+Mus.  Doc.  Dublin.   11th  Edition,  revised.   3s.  6d.
+
+
+ARITHMETIC  AND  ALGEBRA.
+
+See  also  the  two  foregoing  Series.
+Elementary  Arithmetic.   By  C.  Pendlebury,  M.A.,  and  W.  S.
+
+Beard.  Crown  8vo.  Is.  6d.
+Arithmetic,  Examination  Papers  in.  Consisting  of  140  papers,
+each  containing1  7  questions.  357  more  difficult  problems  follow.  A  col-
+lection of  recent  Public  Examination  Papers  are  appended.  By  C.
+Pendlebury,  M.A.  2s.  6d.  Key,  for  Masters  only,  5s.
+Graduated  Exercises  in  Addition  (Simple  and  Compound).  By
+W.  S.  Beard,  Assistant  Master,  Christ's  Hospital.  Is.
+
+The  Answers  sent  free  to  Masters  only
+a2
+
+
+10
+
+
+George  Bell  and  Sons'
+
+
+BOOK-KEEPING.
+
+Book-keeping   Papers,  set  at  various  Public  Examinations.
+
+Collected  and  Written  by  J.  T.  Medhurst,  Lecturer  on  Book-keeping  m
+the  City  of  London  College.  3s.
+
+
+GEOMETRY  AND  EUCLID.
+
+Euclid.  Books  I.-VL  and  part  of  XI.  and  XII.  A  New  Trans-
+lation.  By  H.  Deighton.   (See  p.  8.)
+
+,   The  Definitions  of,  with  Explanations  and  Exercises,
+
+and  an  Appendix  of  Exercises  on  the  First  Book.  By  R.  Webb,  M.A.
+Crown  8vo.  Is.  6cl.
+
+  Book  I.    With  Notes  and  Exercises  for  the  use  of  Pre-
+paratory Schools,  &c.   By  Braithwaite  Arnett,  M.A.  8vo.  4s.  6<L
+~      The  First  Two  Books  explained  to  Beginners.    By  C.  P.
+Mason,  B.A.  2nd  Edition.   Fcap.  8vo.  2s.  6d.
+
+"Phe  Enunciations  and  Figures  to  Euclid's  Elements.  By  Rev.
+
+J.  Brasse,  D.D.  New  Edition.  Fcap.  8vo.  Is.  Without  the  Figures,  6d.
+Exercises  on  Euclid.  By  J.  McDowell,  M.A.  (See  p.  8.)
+Geometrical  Conic  Sections.  By  H.  G.  Willis,  M.A.  (See  p.  8.)
+Geometrical  Conic  Sections.  By  W.  H.  Besant,  D.Sc.  (See  p.  9.)
+Elementary  Geometry  of  Conies.  By  C.  Taylor,  D.D.  (See  p.  8.)
+An  Introduction  to  Ancient  and  Modern  Geometry  of  Conies.
+
+ByC.  Taylor,  D.D.,  Master  of  St.  John's  Coll.,  Camb.   8vo.  15s.
+
+Solutions  of  Geometrical  Problems,  proposed  at  St.  John's
+
+College  from  1830  to  1846.   By  T.  Gaskin,  M.A.   8vo.  12s.
+
+
+TRIGONOMETRY.
+
+Trigonometry,  Examination  Papers  in.  By  G.  H.  Ward,  M.A.,
+Assistant  Master  at  St.  Paul's  School.    Crown  8vo.   2s.  6d.
+
+Trigonometry.  By  J.  M.  Dyer,  M.A.,  and  Eev.  R.  H.  Whit-
+combe,  M.A.    (See  p.  8.)
+
+Trigonometry.    By  Rev.  T.  G.  Vyvyan.    3s.  Qd.    (See  p.  8.)
+
+Mensuration.   By  B.  T.  Moore,  M.A.    3s.  6<Z.    (See  p.  9.)
+
+
+ANALYTICAL  GEOMETRY
+AND  DIFFERENTIAL  CALCULUS.
+
+An  Introduction  to  Analytical  Plane  Geometry.  By  W.  P.
+
+Turnbull,  M.A.   8vo.   12s.  ■
+
+Problems  on  the  Principles  of  Plane  Co-ordinate  Geometry.
+
+Bv  W.  Walton,  M.A.   8vo.   16s.  „
+
+Trilinear  Co-ordinates,  and  Modern  Analytical  Geometry  of
+
+Two  Dimensions.   By  W.  A.  Whitworth,  M.A.  8vo.  16s.
+An  Elementary  Treatise  on  Solid  Geometry.   By  W.  S.  Alois,
+
+M.A.   4th  Edition  revised.   Cr.  8vo.  6s.
+
+Elliptic  Functions,  Elementary  Treatise  on.  By  A.  Cayley,  Sc.J*.
+
+Professor  of  Pure  Mathematics  at  Cambridge  University.  Demy8vo.  15s.
+
+
+Educational  Works,
+
+
+11
+
+
+MECHANICS  &  NATURAL  PHILOSOPHY.
+
+Statics,  Elementary.   By  H.  Goodwin,  D.D.    Fcap.  8vo.  2nd
+
+Edition.  3s.
+
+Dynamics,  A  Treatise  on  Elementary.   By  W.  Garnett,  M.A.,
+
+D.C.L.   5th  Edition.   Crown  8vo.  6s.
+Dynamics.   Kigid.   By  W.  S.  Aldis,  M.A.  4s.
+Dynamics.  A  Treatise  on.  By  W.  H.  Besant,  Sc.D.,F.B.S.  7s.  Qd.
+Elementary  Mechanics,  Problems  in.  By  W.  Walton,  M.A.  New
+
+Edition.   Crown  8vo.  6s.
+Theoretical  Mechanics,  Problems  in.   By  W.  Walton,  M.A.  3rd
+
+Edition.    Demy  8vo.  16s.
+
+Hydrostatics.  By  W.H.  Besant,  Sc.D.  Fcap.8vo.  14th Edition.  4s.
+Hydromechanics ,  A  Treatise  on.   By  W.  H.  Besant,  Sc.D.,  F.B.S.
+
+8vo.   5th  Edition,  revised.   Part  I.   Hydrostatics.  5s.
+Hydrodynamics,  A  Treatise  on.  Vol.  I.,  10s.  6d. ;  Vol.  II.,  12s.  6d.
+
+A.  B.  Basset,  M.A.
+
+Optics,  Geometrical.  By  W.  S.  Aldis,  M.A.  Crown  8vo.  3rd
+Edition.  4s.
+
+Double  Refraction,  A  Chapter  on  Fresnel's  Theory  of.   By  W.  S.
+
+Aldis,  M.A.   8vo.  2s.
+
+Notes  on  Roulettes  and  Glissettes.    By  W.  H.  Besant,  D.Sc,
+
+F.B.S.   Crown  8vo.  5s.
+
+Heat,  An  Elementary  Treatise  on.   By  W.  Garnett,  M.A.,  D.C.L.
+
+Crown  8vo.   5th  Edition.   4s.  6<J.
+Elementary  Physics.    By  W.  Gailatly,  M.A.,  Assistant  Examiner
+at  London  University.  4s.
+
+Newton's  Principia,  The  First  Three  Sections  of,  with  an  Appen-
+dix ;  and  the  Ninth  and  Eleventh  Sections.  By  J.  H.  Evans,  M.A.  5th
+Edition.   Edited  by  P.  T.  Main,  M.A.  4s.
+
+Astronomy,  An  Introduction  to  Plane.    By  P.  T.  Main,  M.A.
+
+Ecap.  8vo.  cloth.   6th  Edition.  4s.
+
+  Practical  and  Spherical.   By  B.  Main,  M.A.   8vo.  14*.
+
+Mathematical  Examples.  Pure  and  Mixed.  By  J.  M.  Dyer,  M.  A. ,
+
+and  R.  Prowde  Smith,  M.A.  6s.
+
+Pure  Mathematics  and  Natural  Philosophy,  A  Compendium  of
+
+Eacts  and  Eormnlse  in.  By  G.  R.  Smalley.  2nd  Edition,  revised  by
+J.  McDowell,  M.A.   Ecap.  8vo.   3s.  6d.
+
+Elementary  Course  of  Mathematics.    By  H.  Goodwin,  D.D.
+
+6th  Edition.  8vo.  16s.
+
+Problems  and  Examples,  adapted  to  the  « Elementary  Course  of
+
+Mathematics.'   3rd  Edition.   8vo.  5s.
+
+Solutions  of  Goodwin's  Collection  of  Problems  and  Examples.
+
+By  W.  W.  Hutt,  M.A.  3rd  Edition,  revised  and  enlarged.   8vo.  9s.
+A  Collection  of  Examples  and  Problems  in  Arithmetic,
+
+Algebra,  Geometry,  Logarithms,  Trigonometry,  Conic  Sections,  Mechanics,
+&c,  with  Answers.  By  Rev.  A.  Wrigley.  20th  Thonsand.  8s.  6d.
+Kev.   10s.  6d.
+
+Science  Examination  Papers.  Part  I.  Inorganic  Chemistry.
+Part  II.  Physics.  By  R.  E.  Steel,  M.A.,  F.C.S.,  Bradford  Grammar
+School.    Crown  8vo.   2s.  6d.  each.
+
+
+12
+
+
+George  Bell  and  Sons*
+
+
+FOREIGN  CLASSICS.
+
+i  Series  for  use  in  Schools,  with  English  Notes,  grammatical  and
+explanatory,  and  renderings  of  difficult  idiomatic  expressions.
+Feap.  Svo.
+
+Schiller's  Wallenstein.  By  Dr.  A.  Bnchheim.  5th  Edit.  5*.
+
+Or  the  Lager  and  Piccolomini,&.6d.   Wallenstein  s  Tod,  2s  .  6d.
+
+ Maid  of  Orleans.  By  Dr.  W.  Wagner.  2nd  Edit.  ls.Gd.
+
+ Maria  Stuart.   By  V.  Kastner.   2nd  Edition.   1*.  6d.
+
+Goethe's  Hermann  and  Dorothea.    By  E.  Bell,  M.A.,  and
+B.  Wolfel.  Is.  6d.
+
+German  Ballads,  from  Uhland,  Goethe,  and  Schiller.   By  C.  L.
+
+Bielefeld.   4th  Edition.   Is.  6d.  ,
+
+Charles  XII.,  par  Voltaire.  By  L.  Direy.   7th  Edition.   Is.  bd.
+Aventures  de  Telemaque,  par  Fenelon.  By  C.  J.  Delille.  4th
+
+Edition.   2s.  6d.  -  ,
+
+SeleetPables  of  La  Fontaine.  By  F.E.  A.Gasc.  18th  Edit.  ls.6d.
+Ficciola,  by  X.B.  Saintine.  By  Dr.Dubuc.  16th  Thousand.  1*.  6d.
+Lamartine's  Le  TaiUeur  de  Pierres  de  Saint-Point.  By
+
+J.  Boielle,  6th  Thousand.    Foap.  8yo.   Is.  6d.
+
+ItaUan  Primer.   By  Rev.  A.  C.  Clapin,  M.A.   Fcap.  8vo.  Is.
+
+
+FRENCH  CLASS-BOOKS.
+French  Grammar  for  Public  Schools.  By  Rev.  A.  0.  Clapin,  M.A.
+
+Fcap.  8vo.   12th  Edition,  revised.  2s.  6d.
+French  Primer.  By  Rev.  A.  C.  Clapin,  M.A.  Fcap.  Svo.  8th  Ed.  Is.
+Primer  of  French  Philology.   By  Rev.  A.  C.  Clapin.   Fcap.  8vo.
+
+4th  Edit.   Is.  .  _
+
+Le  Nouveau  Tresor;  or,  French  Student's  Companion.  By
+
+M.  E.  S.   18th  Edition.   Fcap.  8vo.   Is.  6d.
+French  Papers  for  the  Prelim.  Army  Exams.  Co^cted^y
+
+J.  F.  Davis,  D.Lit.  L  *
+
+French  Examination  Papers  in  Miscellaneous  Grammar  and
+ToSL "  Compiled  by  A.  ft.  M.  Stedman^M  A.  m l  Editoon.  Crown
+8vo  2s.  6d.   Key.   5s.    (For  Teachers  or  Private  Students  only.)
+
+Manual  of  French  Prosody.  By  Arthur  Gosset,  M.A.  Crown
+Lexicon' of  Conversational  French.    By  A.  Holloway.  3rd
+
+Edition.   Crown  8vo.   3s.  6d.
+
+PROF.  A.  BARRERE'S  FRENCH  COURSE.
+Junior  Graduated  French  Course.    Crown  8vo.    Is.  6d.
+Elements  of  French  Grammar  and  First  Steps  m  Idiom.
+
+Crown  Svo.    2s.  »  « %a  3.x-  n
+
+Precis  of  Comparative  French  Grammar.  2nd  Edition.  Crown
+
+8vo.   3s.  6d.
+
+
+Educational  Works,
+
+
+F.  B.  A.  GASO'S  FRENCH  COURSE.
+First  French  Book.  Fcap.  8vo.   106th  Thousand.  II.
+Second  French  Book.   52nd  Thousand.   Fcap.  8vo.   Is.  6d.
+Key  to  First  and  Second  French  Books.  5th  Edit.  Fcp.8vo.  3s.  Qd.
+French  Fables  for  Beginners,  in  Prose,  with  Index.  16th  Thousand.
+
+12mo.   Is.  6d.
+
+Select  Fables  of  La  Fontaine.  18th  Thousand.  Fcap.Svo.  ls.&d.
+
+Histoires  Amusantes  et  Instruetives.  With  Notes.  16th  Thou-
+sand. Fcap.  8vo.  2s.
+
+Practical  Guide  to  Modern  French  Conversation.  18th  Thou-
+sand. Fcap.  8vo.  Is.  6d.
+
+French  Poetry  for  the  Young.  With  Notes.  5th  Ed.  Fcp.  8vo.  8s.
+
+Materials  for  French  Prose  Composition;  or,  Selections  from
+the  best  English  Prose  Writers.    19th  Thons.    Fcap.  8vo.  3s.  Key,  6s.
+
+Prosateurs  Contemporains.  With  Notes.  11th  Edition,  re-
+vised.   12mo.  3s.  6d.
+
+Le  Petit  Compagnon;  a  French  Talk-Book  for  Little  Children.
+
+12th  Thousand.   16mo.  Is.  6d.
+
+An  Improved  Modern  Pocket  Dictionary  of  the  French  and
+
+English  Languages.  45th  Thousand.  16mo.   2s.  6d.
+
+Modern  French -English  and  English-French  Dictionary.  4th
+
+Edition,  revised,  with  new  supplements.  10s.  6d.  In  use  at  Harrow,
+Rugby,  Westminster,  Shrewsbury,  Radley,  &c.
+
+The  ABC  Tourist's  French  Interpreter  of  all  Immediate
+Wants.   By  F.  E.  A.  Gasc.  Is.
+
+MODEEN  FRENCH  AUTHORS.
+
+Edited,  with  Introductions  and  Notes,  by  James  BoIellb,  Senior
+French  Master  at  Dulwich  College.
+
+Daudet's  La  Belle  Nivernaise.    2s.  6d.    For  Beginners.
+Hugo's  Bug  Jargal.    3s.    For  Advanced  Students.
+Balzac's  Ursule  Mirouet.    3s.   For  Advanced  Students.
+
+
+GOMBERT'S  FRENCH  DRAMA.
+Being  a  Selection  of  the  best  Tragedies  and  Comedies  of  Moliere,
+
+Racine,  Corneille,  and  Voltaire.  With  Arguments  and  Notes  by  A.
+Gombert.  New  Edition,  revised  by  F.  E.  A.  Gasc.  Fcap.  8vo.  Is.  each;
+sewed,  6d.  Contents.
+
+Moliebe  : — Le  Misanthrope.  L'Avare.  Le  Bourgeois  Gentilhomme.  Le
+Tartuffe.  Le  Malade  Imaginaire.  Les  Femmes  Savantes.  Les  Fourberiea
+de  Scapin.  Les  Precieuses  Ridicules.  L'Ecole  des  Femmes.  L'Ecole  des
+Maris.   Le  M^decin  malgr^  Ltd.
+
+Racine  :— Pheare.  Esther.  Athalie.  Iphigenie.  Les  Plaideurs.  La
+TMbaide;  ou,  Leg  Frdres  Ennemis.  Andromaque.  Britannicua.
+
+P.  OobnhiliiE:— Le  Cid.   Horace.  Cinna.  Polyeucte.
+
+Voltaire  :— Zaire.
+
+
+14
+
+
+George  Bell  and  Sons'
+
+
+GERMAN  CLASS-BOOKS.
+
+Materials  for  German  Prose  Composition.  By  Dr.  Bucbheim.
+
+13th  Edition,  thoroughly  revised.  Fcap.  4s.  6d.  Key,  Parts  I.  and  II.,  3s.
+Parts  III.  and  IV.,  4s.
+Goethe's  Faust.   Text,  Translation,  and  Notes.    Edited  by
+
+Dr.  Buchheim.   5s.  [In  the  press.
+
+German.   The  Candidate's  Vade  Meeum.   Five  Hundred  Easy
+
+Sentences  and  Idioms.   By  an  Army  Tutor.  Cloth,  Is.  For  Army  Exams.
+
+Wortfolge,  or  Kules  and  Exercises  on  the  Order  of  Words  in
+
+German  Sentences.   By  Dr.  F.  Stock.   Is.  6d.
+
+A  German  Grammar  lor  Public  Schools.    By  the  Rev.  A.  0.
+
+ClapinandF.  HollMuller.  5thBdition.  Fcap.  2s.  6d.
+A  German  Primer,  with  Exercises.   By  Rev.  A.  C.  Clapin.
+
+2nd  Edition.  Is.
+
+Kotzebue's  Der  Gefangene.  With  Notes  by  Dr.  W.  Stromberg.  Is.
+German  Examination  Papers  in  Grammar  and  Idiom.  By
+
+B.  J.  Morich.  2nd  Edition.   2s.  6d.   Key  for  Tutors  only,  5s.
+
+By  Fez.  Lange,  Ph.D.,  Professor  R.M.A.,  Woolwich,  Examiner
+in  German  to  the  Coll.  of  Preceptors,  and  also  at  the
+Victoria  University,  Manchester.
+A  Concise  German  Grammar.   In  Three  Parts.    Part  I.,  Ele-
+mentary, 2s.   Part  II.,  Intermediate,  2s.   Part  III.,  Advanced,3s.  6d.
+German  Examination  Course.  Elementary,  2s.  Intermediate,  2s.
+
+Advanced,  Is.  6d.
+German  Reader.   Elementary,  Is.  6d.   Advanced,  3s.
+
+
+MODERN  GERMAN  SCHOOL  CLASSICS.
+Small  Crown  8vo.
+Hey's  Fabeln  Fur  Kinder.   Edited,  with  Vocabulary,  by  Prof.
+
+F.  Lange,  Ph.D.    Printed  in  Rvman  characters.   Is.  6d.
+
+_  The  same  with  Phonetic  Transcription  of  Text,  &c.  2s.
+
+Benedix's  Dr.  Wespe.   Edited  by  F.  Lange,  Ph.D.   2s.  6d.
+Hoffman's  Meister  Martin,  der  Kufner.    By  Prof.  F.  Lange,  Ph.D.
+
+Is  6d  _
+
+Heyse's  Hans  Lange.   By  A.  A.  Macdonell,  M.A.,  Ph.D.  2s.
+
+Auerbach's  Auf  Wache,  and  Roquette's  Der  Gefrorene  Kuss.
+By  A.  A.  Macdonell,  M.A.  2s.
+
+Moser's  Der  Bibliothekar.  By  Prof.  F.  Lange,  Ph.D.  3rd  Edi-
+tion. 2s.
+
+Ebers'  Eine  Frage.    By  F.  Storr,  B.A.  2s.
+Freytag's  Die  Journalisten.  By  Prof.  F.  Lange,  Ph.D.  2nd  Edi-
+tion, revised.  2s.  6d.
+Gutzkow's  Zopf  und  Schwert.    By  Prof.  F.  Lange,  Ph.D.  2s.
+German  Epic  Tales.   Edited  by  Karl  Neuhaus,  Ph.D.   2s.  6d.
+Seheffel's  Ekkehard.   Edited  by  Dr.  Herman  Hager.  [Shortly.
+
+
+Educational  Works.
+
+
+15
+
+
+DIVINITY,  MORAL  PHILOSOPHY,  &c.
+
+By  the  Rev.  F.  H.  Scrivener,  A.M.,  LL.D.,  D.C.L.
+Novum  Testamentum  Greece.  Editio  major.  Being  an  enlarged
+
+Son,  coXning  the  Readings  of  Bishop  Westcott  and  Dr.  Hort.  and
+^^SS^^-^nimu.^.   7s.  6d.  (For  otfcer  Editwns  see  page  3.)
+
+A  Plain  Introduction  to  the  Criticism  of  the  New  Testament.
+
+With  Forty  Facsimiles  from  Ancient  Manuscripts.  3rd  Edition.  8vo.l8s.
+Six  Lectures  on  the  Text  of  the  New  Testament.  For  English
+
+Readers.  Crown  8vo.  6s.
+Codex  Bezse  Oantabrigiensis.  4to.   10a.  6d.
+
+The  New  Testament  for  English  Readers  By  thelate H.  AUord,
+
+T>  D    Vol  I  Part  I.  3rd  Edit.  12s.    Vol.  I.  Part  II.  2nd  Edit.  10s.  M.
+Vol/lLPart  1. 2nd  Edit.  16s.  Vol.  II.  Part  II.  2nd  Edit.  16s.
+The  Greek  Testament.  By  the  late  H.  Alford,  D.D.   Vol.  I.  7th
+
+Edit.  11.  8s.  Vol.  II.  8th  Edit.  H.  4s    Vol.  III.  10th  Edit 1&    Vol  IV.
+Part  I.  5th  Edit.  18s.  Vol.  IV.  Part  II.  10th  Edit.  14s.  Vol.  IV.  II.  12s.
+Companion  to  the  Greek  Testament.  By  A.  C.  Barrett,  M.A.
+
+5th  Edition,  revised.  Fcap.  8vo.  5s.
+
+Guide  to  the  Textual  Criticism  of  the  New  Testament,  By
+
+Rev.  E.  Miller,  M.A.   Crown  8vo.  4s.
+
+The  Book  of  Psalms.  A  New  Translation,  with  Introductions, ,  &e.
+
+BytheVeryRev.J.J.StewartPerowne,D.D.  8vo.  Vol.  I.  7th  Edition,
+
+18s.  Vol.  II.  6th  Edit.  16s.
+
+ Abridged  for  Schools.   7th  Edition.   Crown  8vo.   10s.  6<L
+
+History  of  the  Articles  of  Religion.  By  C.  H.  Hardwick.  3rd
+
+Edition.  Post8vo.  5s.
+History  of  the  Creeds.   By  J.  R.  Lumby,  DD.   3rd  Edition.
+
+CroTn8vo.  7s.  6d.
+
+Pearson  on  the  Creed.   Carefully  printed  from  an  early  edition.
+
+With  Analysis  and  Index  by  E.  Waif ord,  M.A.  Post8vo.  5s.
+Liturgies  and  Offices  of  the  Church,  for  the  Use  of  English
+
+Readers,  in  Illustration  of  the  Book  of  Common  Prayer.   By  the  Rev.
+
+Edward  Burbidge,  M.A.   Crown  8vo.  9s.
+
+An  Historical  and  Explanatory  Treatise  on  the  Book  of
+
+Common  Prayer.  By  Rev.  W.  €h  Humphry,  B.D.  6th  Edition,  enlarged.
+Small  Post  8vo.  2s.  6d. ;  Cheap  Edition,  Is.
+
+A  Commentary  on  the  Gospels,  Epistles,  and  Acts  of  the
+Apostles.  By  Rev.  W.  Denton,  A.M.  New  Edition.  7vols.8vo.  9s.  each.
+Notes  on  the  Catechism.  By  Rt.  Rev.  Bishop  Barry.  9th  Edit.
+
+Fcap.  2s.
+
+The  Winton  Church  Catechist.  Questions  and  Answers  on  the
+Teaching  of  the  Church  Catechism.  By  the  late  Rev.  J.  S.  B.  Monseli,
+LL.D.  4th  Edition.  Cloth,  3s. ;  or  in  Four  Parts,  sewed.
+
+The  Church  Teacher's  Manual  of  Christian  Instruction.  By
+
+Rev.  M.  F.  Sadler.  39th  Thousand.  2e.  6d.
+
+
+16
+
+
+George  Bell  and  Son*'
+
+
+TECHNOLOGICAL  HANDBOOKS.
+
+Edited  by  Sir  H.  Tbubman  Wood,  Secretary  of  the  Society  of  Arts.
+Dyeing  and  Tissue  Printing.    By  W.  Crookes,  F.R.S.  5s.
+
+Glass  Manufacture.  By  Henry  Chance,  M.A.;  H.  J.  Powell,  B.A.;
+
+and  H.  G-.  Harris.   3s.  6d.
+
+Cotton  Spinning.    By  Richard  Marsden,  of  Manchester.  3rd
+
+Edition,  revised.  6s.  6d.
+
+Chemistry  of  Coal-Tar  Colours.    By  Prof.  Benedikt,  and  Dr.
+
+Knecht  of  Bradford  Technical  College.   2nd  Edition,  enlarged.   6s.  6d.
+
+Woollen  and  Worsted  Cloth  Manufacture.     By  Professor
+
+Roberts  Beaumont,  The  Yorkshire  College,  Leeds.   2nd  Edition.   7s.  6d.
+
+Printing.    By  C.  T.  Jacobi,  with  numerous  illustrations.  5*.
+
+Bookbinding.    By  Zaehnsdorf,  with  eight  plates  and  many  illus-
+trations. 5  s.
+
+Colour  in  Woven  Design.  By  Roberts  Beaumont.  [Immediately.
+Cotton  Weaving.    By  R.  Marsden.  [In  the  press.
+
+
+BELL'S  AGRICULTURAL  SERIES.
+
+The  Farm  and  the  Dairy.   By  Prof.  Sheldon.    2s.  Qd.
+Soils  and  their  Properties.   By  Dr.  Fream.    2s.  6d.
+The  Diseases  of  Crops.    By  Dr.  Griffiths.    2s.  6d.
+Manures  and  their  Uses.    By  Dr.  Griffiths.    2s.  Gd.
+
+
+HISTORY,  TOPOGRAPHY,  See.
+
+Modern  Europe.   By  Dr.  T.  H.  Dyer.   2nd  Edition,  revised  and
+continued.   5  vols.  Demy  8vo.   21. 12s.  6d.
+
+The  History  of  Pompeii:  its  Buildings  and  Antiquities.  By
+
+T.  H.  Dyer.  3rd  Edition,  brought  down  to  1874.   Post  8vo.   7s.  6d.
+
+The  City  of  Rome :  its  History  and  Monuments.  2nd  Edition,
+
+revised  by  T.  H.  Dyer.  5s.
+
+Ancient  Athens:  its  History,  Topography,  and  Remains.  By
+T.  H.  Dyer.   Super-royal  8vo.   Cloth.   7s.  6d.
+
+The  Decline  of  the  Roman  Republic.    By  G.  Long.    5  vols.
+
+8vo.   5s.  each.
+
+Historical  Maps  of  England.   By  C.  H.  Pearson.   Folio.  3rd
+
+Edition  revised,   31s.  6d.
+
+England  in  the  Fifteenth  Century.   By  the  late  Rev.  W.
+Denton,  M.A.   Demy  8vo.  12s.
+
+Feudalism:  Its  Rise,  Progress,  and  Consequences.    By  Judge
+
+Abdy.    7s.  6d.
+
+
+Educational  Works.
+
+
+17
+
+
+History  of  England,  1800-46.  By  Harriet  Martinean,  with  new
+and  copious  Index.  5  vols.  3s.  6d.  each.
+
+A  Practical  Synopsis  of  English  History.  By  A.  Bowes.  9th
+
+Edition,  revised.   8vo.  Is.
+
+Lives  of  the  Queens  of  England.   By  A.  Strickland.  Library
+
+Edition,  8  vols.  7s.  6d.  each.  Cheaper  Edition,  6  vols.  6s.  each.  Abridged
+Edition,  1  vol.  6s.  6d.  Mary  Queen  of  Scots,  2  vols.  5s.  each.  Tudor  and
+Stuart  Princesses*  5s.
+
+The  Elements  of  General  History.    By  Prof.  Tytler.  New
+Edition,  brought  down  to  1874.   Small  Post  8vo.  36.  6d.
+
+History  and  Geography  Examination  Papers.   Compiled  bj
+
+C.  H.  Spence,  M.A.,  Clifton  College.   Crown  8vo.  2s.  6d.
+The  Schoolmaster  and  the  Law.   By  Williams  and  Markwick.
+is.  6d.
+
+
+PHILOLOGY.
+
+WEBSTER'S  DICTIONARY  OF  THE  ENGLISH  LAN-
+GUAGE. With  Dr.  Mahn's  Etymology.    1  vol.  1628  pages,  3000  Illus.
+trations.   21s. ;  half  calf,  80s. ;  calf  or  half  russia,  31s.  6d.  j  russia,  21.
+With  Appendices  and  70  additional  pages  of  Illustrations,  1919  pages,
+31s.  6d. ;  half  calf,  21. ;  calf  or  half  russia,  21.  2s.;  russia,  21. 10s.
+•  The  best peactical  English  Dictionaby  extant.' — Quarterly  Review,  1873.
+Prospectuses,  with  specimen  pages,  post  free  on  application.
+Brief  History  of  the  English  Language.  By  Prof.  James  Hadley,
+
+LL.D.,  Yale  College.   Fcap.  8vo.  Is.
+
+The  Elements  of  the  English  Language.   By  E.  Adams,  Ph.D.
+
+24th  Edition,  revised  and  enlarged  by  J.  F.  Davis,  D.Lit.   Post  8vo.
+
+Synonyms  and  Antonyms  of  the  English  Language.  By  Arch-
+deacon Smith.  2nd  Edition.  Post  8vo.  5s.
+
+Synonyms  Discriminated.   By  Archdeacon  Smith.  Demy  8vo
+
+4th  Edition.  14*.
+
+Bible  English.   Chapters  on  Words  and  Phrases  in  the  Bible  and
+Prayer-book.  By  Rev.  T.  L.  O.  Davies.  2nd  Edition  revised,  in  the  press.
+
+The  Queen's  English.   A  Manual  of  Idiom  and  Usage.  By  the
+
+late  Dean  Alf  ord.   6th  Edition.   Fcap.  8vo.   Is.  sewed.   Is.  6d.  cloth.
+
+A  History  of  English  Rhythms.    By  Edwin  Guest,  M.  A. ,  D.  C. L. ,
+LL.D.   New  Edition,  by  Professor  W.  W.  Skeat.   Demy  8vo.  18s.
+
+Elements  of  Comparative  Grammar  and  Philology.  For  Use
+
+in  Schools.  By  A.  C.  Price,  M.A.,  Assistant  Master  at  Leeds  Grammar
+School.   Crown  8vo.  2s.  6d.
+
+Questions  for  Examination  in  English  Literature.    By  Prof.
+
+W.  W.  Skeat.   3rd  Edition.   2s.  6d.
+Kluge's   Etymological  German  Dictionary.     Translated  by
+
+J.  F.  Davis,  D.Lit.  [In  the  press.
+
+Gasc's  Concise  Dictionary.    10s.  6d.    (See  p.  13.)
+
+A  Syriao  Grammar.  By  G.  Phillips,  D.D.  3rd  Edition,  enlarged.
+8vo.  7«.6d.
+
+
+George  Bell  and  80m1
+
+
+ENGLISH  CLASS-BOOKS.
+
+Comparative  Grammar  and  Philology.   By  A.  C.  Price,  M.A.,
+
+Assistant  Master  at  Leeds  Grammar  School.   2s.  6d.
+
+The  Elements  of  the  English  Language.  By  B.  Adams,  Ph.D.
+
+24th  Edition,  revised  and  enlarged  by  J.  F.  Davis,  D.Lit.  Post  8vo.  4s.  6d.
+
+The  Rudiments  of  English  Grammar  and  Analysis.  By
+
+JBJ.  Adams,  Ph.D.   17th  Thousand.   Fcap.  8vo.  Is.
+A  Concise  System  of  Parsing.  By  L.  E.  Adams,  B.A.    Is.  M.
+General   Knowledge    Examination   Papers.    Compiled  by
+
+A.  M.  M.  Stedman,  M.A.    2s.  6d.
+
+Examples  for  Grammatical  Analysis  (Verse  and  Prose).  Se-
+lected, &c,  by  F.  Edwards.   New  edition.   Cloth,  Is.
+
+Notes  on  Shakespeare's  Plays.  By  T.  Duff  Barnett,  B.A.
+Midsummer  Night's  Dream,  Is.;  Julius  Cesar,  Is.;  Henry  V.,  Is.;
+Tempest,  Is. ;  Macbeth,  Is.;  Merchant  op  Venice,  Is.;  Hamlet,  Is.;
+Richard  II.,  Is. ;  King  John,  Is.
+
+By  C.  P.  Mason,  Fellow  of  Univ.  Coll.  London.
+
+First  Notions  of  Grammar  for  Young  Learners.    Fcap.  8vo.
+
+57th  Thousand.   Cloth.   9d.  •
+
+First  Steps  in  English  Grammar  for  Junior  Classes.  Demy
+
+18mo.  49th  Thousand.  Is.
+
+Outlines  of  English  Grammar  for  the  Use  of  Junior  Classes.
+
+77th  Thousand.  Crown  8vo.  2s.
+English  Grammar,  including  the  Principles  of  Grammatical
+
+Analysis.   32nd  Edition.   131st  to  136th  Thousand.  Crown  8vo.   3s.  6d.
+Practice  and  Help  in  the  Analysis  of  Sentences.  2s.
+A  Shorter  English  Grammar,  with  copious  Exercises.  34th
+
+to  38th  Thousand.    Crown  8vo.   3s.  6d.
+
+English  Grammar  Practice,  being  the  Exercises  separately.  1«.
+Code  Standard  Grammars.  Parts  I.  and  II.,  2d.  each.  Parts  HI.,
+
+IV.,  and  V.,  3d.  each.
+
+Elementary  Mechanics.    By  J.  C.  Horobin,  B.A.,  Principal  of
+
+Homerton  Training  College.   In  Three  Parts.  [>  the  press.
+
+Notes  of  Lessons,  their  Preparation,  &c.  By  Jose  Rickard,
+Park  Lane  Board  School,  Leeds,  and  A.  H.  Taylor,  Rodley  Board
+School,  Leeds.   2nd  Edition.   Crown  8vo.  2s.  6d.
+
+A  Syllabic  System  of  Teaching  to  Read,  combining  the  advan-
+tages of  the  '  Phonic'  and  the  4  Look-and-Say'  Systems.  Crown  8vo.  Is.
+
+Practical  Hints  on  Teaching.  By  Eev.  J.  Menet,  M.A.  6th  Edit.
+
+revised.   Crown  8vo.  paper,  2s.
+Test  Lessons  in  Dictation.   4th  Edition.   Paper  cover,  It,  6d.
+Picture  School-Books.    In  Simple  Language,  with  numerous
+
+Illustrations.  Royal  16mo.
+The  Infant's  Primer.  3d.-School  Primer.  6d.— School  Reader.  ByJ.
+Tilleard.  Is.— Poetry  Book  for  Schools.  ls.-The  Life  of  Joseph.  Is— The
+Scripture  Parables.  By  the  Rev.  J.  E.  Clarke.  ls.-The  Scripture  Miracles.
+By  the  Rev.  J.  E.  Clarke.  ls.-The  New  Testament  History.  By  the  Rev.
+J.  G.  Wood,  M.A.  ls.-The  Old  Testament  History.  By  the  Rev.  J.  ».
+Wood,  M.A.    Is.— The  Life  of  Martin  Luther.    By  Sarah  Crompton.  Is.
+
+
+Educational  Works,
+
+
+19
+
+
+BOOKS  FOR  YOUNG  READERS.
+
+A  Series  of  Heading  Books  designed  to  facilitate  the  acquisition  of  the  power
+
+of  Reading  by  very  young  Children.  In  11  vols,  limp  cloth,  6d.  each.
+Those  with  an  asterisk  have  a  Frontispiece  or  other  Illustrations.
+*The  Old  Boathouse.  Bell  and  Pan;  or,  A  Cold  Dip.
+*Tot  and  the  Cat.   A  Bit  of  Cake.   The  Jay.  The
+
+Black  Hen's  Nest.  Tom  and  Ned.  Mrs.  Bee.  I  SuMablt
+
+*The  Cat  and  the  Hen.  Sam  and  his  Dog  Redleg.  /  -
+
+Bob  and  Tom  Lee.    A  Wreck.  ^  {
+
+*The  New-born  Lamb.   The  Rosewood  Box.  Poor
+
+Fan.   Sheep  Dog.
+
+*The  Two  Parrots.   A  Tale  of  the  Jubilee.    By  M.  E.
+
+Wintle.  9  Illustrations.
+
+*The  Story  of  Three  Monkeys.
+
+*Story  of  a  Cat.   Told  by  Herself.  ,  g  ^
+
+The  Blind  Boy.   The  Mute  Girl.    A  New  Tale  of  )  for
+
+
+Standards
+I.  &  II.
+
+
+Babes  in  a  Wood.
+
+The  Dey  and  the  Knight.    The  New  Bank  Note.
+
+The  Royal  Visit.  A  King's  Walk  on  a  Winter's  Day.
+
+*Queen  Bee  and  Busy  Bee.
+
+*GulTs  Crag.  /
+Syllabic  Spelling.   By  0.  Barton.   In  Two  Parts.    Infants,  3d.
+
+Standard  I.,  3d.
+
+Helps'  Course  of  Poetry,  for  Schools.   A  New  Selection  from
+
+the  English  Poets,  carefully  compiled  and  adapted  to  the  several  standards
+by  E.  A.  Helps,  one  of  H.M.  Inspectors  of  Schools.
+
+Book    I.   Infants  and  Standards  I.  and  II.   134  pp.  small  8vo.  9d.
+
+Book  II.   Standards  III.  and  IV.   224  pp.  crown  8vo.  Is.  6d.
+
+Book  III.   Standards  V.,  VI.,  and  VII.   352  pp.  post  8vo.  2s.
+
+Or  in  PARTS.    Infants,  2d. ;  Standard  I.,  2d.  j  Standard  II.,  2cL
+Standard  III.,  4d.
+
+
+GEOGRAPHICAL  SERIES.    By  M.  J.  Baeeington  Waed,  M.A.
+
+With  Illustrations.
+The  Map  and  the  Compass.   A  Reading-Book  of  Geography.
+
+For  Standard  I.   New  Edition,  revised.   8d.  cloth.
+The  Round  World.     A  Reading-Book  of  Geography.  For
+
+Standard  II.   Revised  and  enlarged.  lOd.
+About  England.    A  Reading-Book  of  Geography  for  Standard
+
+III.  [In  the  press.
+
+The  Child's  Geography.   For  the  Use  of  Schools  and  for  Home
+
+Tuition.  6d.
+
+The  Child's  Geography  of  England.   With  Introductory  Exer-
+
+cises  on  the  British  Isles  and  Empire,  with  Questions.  2s.  6d.  Without
+Questions,  2s.
+
+Geography  Examination  Papers.   (See  History  and  Geography
+
+Papers,  p.  12.)
+
+
+20      George  Bell  and  Sons'  Educational  Works.
+
+
+BELL'S  READING-BOOKS.
+
+FOB   SCHOOLS  AND   PAROCHIAL  LIBRARIES.
+
+Now  Beady.  Post8vo,  Strongly  bound  in  cloth,  1*.  each.
+♦Life  of  Columbus.  \
+
+*  Grimm's  German  Tales.  (Selected.)
+♦Andersen's  Danish  Tales.  Illustrated.  (Selected.)
+
+Great  Englishmen.   Short  Lives  for  Young  Children
+Great  Englishwomen.   Short  Lives  of.
+Great  Scotsmen.   Short  Lives  of.
+Parables  from  Nature.  (Selected.)  By  Mrs.  Gatty.
+Edgeworth's  Tales.   (A  Selection.)
+♦Poor  Jack.   By  Capt.  Marryat,  R.N.   (Abridged.)  /
+
+*Scott's  Talisman.    (Abridged.)  \
+
+*  Friends  in  Pur  and  Feathers.  By  Gwynfryn.
+*Poor  Jack.    By  Captain  Marryat,  B.N.  Abgd.
+*Masterman  Ready.  By  Capt.  Marryat.  Illus.  (Abgd.)
+
+Lamb's  Tales  from  Shakespeare.  (Selected.)
+♦Gulliver's  Travels.  (Abridged.)
+♦Robinson  Crusoe.  Illustrated.
+♦Arabian  Nights.  (A  Selection  Rewritten.)
+
+♦Dickens's  Little  Nell.  Abridged  from  the  «  The  Old  \
+
+Curiosity  Shop.'
+♦The  Vicar  of  Wakefield.
+
+♦Settlers  in  Canada.   By  Capt.  Marryat.  (Abridged.)
+Poetry  for  Boys.   Selected  by  D.  Munro.
+♦Southey's  Life  of  Nelson.  (Abridged.)
+♦Life  of  the  Duke  of  Wellington,  withMaps  andPIans.
+♦Sir  Roger  de  Coverley  and  other  Essays  from  the
+
+Spectator.
+
+Tales  of  the  Coast.  By  J.  Bunciman.
+
+*  These  Volumes  are  Illustrated.
+
+
+Suitable
+
+for
+Standards
+
+m.  t  iv.
+
+
+Standards
+IV.  &  V.
+
+
+Standards
+V.,  VI.,  t
+VII.
+
+
+Uniform  with  the  Series,  in  limp  cloth,  Gd.  each.
+
+Shakespeare's  Plays.    Kemble's  Reading  Edition.   With  Ex-
+planatory Notes  for  School  Use.
+JULIUS  C.2ESAR.     THE  MERCHANT  OF  VENICE.     KING  JOHN.
+HENRY  THE  FIFTH.      MACBETH.      AS  YOU  LIKE  IT.
+
+
+London :  GEORGE  BELL  &  SONS,  York  Street,  Corent  Garden.
+
+
+m
+
+
+m
+
+
+3  0112  003039085
+

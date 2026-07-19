@@ -66,6 +66,29 @@ figures:
 
 # Tales from Old Fiji
 
+I
+
+
+3S^
+
+
+TALES  FROM
+OLD  FIJI
+
+
+(
+
+
+SAMOAN  GIRLS  DRESSED  FOR  DANCING.
+
+
+TALES    FROM
+
+OLD  FIJI
+
+BY    LORIMER    FISON
+
+
 ALEXANDER  MORING  LTD  THE  DE
 LA  MORE  PRESS  32  GEORGE  STREET
 HANOVER  SQUARE  LONDON  W  1904
@@ -8940,3 +8963,155 @@ the  Island  of,    118,   129.     Tonga-
 tabu  =  "  Sacred  Tonga,"  xiv.
 
 men   of,    19,    120.      Tongan«   are
+
+of  lighter    colour    than     Fijians,    and
+otherwise  different  in  look.
+
+Tooth  of  wind  (iuti  kangi),  a  sudden
+blast  of  wind,  99.
+
+Tribes.  Every  town  or  district  i«  divided
+into  a  number  of  tribes,  each  having
+its  own  chief  or  chiefs  (all  of  whom,
+however,  are  subject  to  the  king),  and
+each  having  its  own  feuds  with  all  the
+rest,  106.
+
+Tuapiko,  the  "Hunchback,"  a  Tongan
+name,   50.
+
+Tui  Langi,  the  "  Sky-King,"   20,  49.
+
+Tui  Naiau,  27,  49,  57.
+
+Tumbou,  the  name  of  what  is  now  the
+chief  town  in  Lakemba,   55.
+
+Turtle-shell  fish-hooks  used  in  Tonga,  23.
+
+Turtle,  xvii.     The  story  of  the,  20-23.
+
+Turukawa,  the  name  of  Dengei's  dove,
+killed  by  the  "  Mataisau,"  87.
+
+Tuvana,  a  small  island,  16  f,
+
+Tuwara,  the  wise  god  of  Kambara.
+Both  Tuwara  and  Wa  -  kuli  -  kuli
+belonged  to  the  class  of  gods  called
+Tupua,  and  were  by  no  means  of  such
+exalted  dignity  as  Dengei  and  Tui
+Lakemba,  88  j^
+
+Umij'i,  xHt.
+
+Vai-ola,  the  Water  of  Life,  140.
+
+Vaka,  derivatives  of  the  word,  xv,  xvi,
+xvii,  xxi,  xxiv,  xxix^
+
+Vakano,  the  name  of  a  town  in  Lakemba,
+56.
+
+Valu,  xxiii.
+
+Vampire-bat  [beka,  pronounced  mbeka),
+the  familiar  spirit  of  the  man-eating
+giant  slain  by  Matandua,  122.
+
+Vanua  Levu,  or  Balevu,  "  Long  Is-
+land," the  name  of  the  largest  island
+
+
+in   Fiji,   with   the   sole  exception  of
+
+Navitilevu,  xli,  7.
+Vatoa,  the  name  of  an  island,  1 2.
+Vatulele,  the  name  of  an  island ;  native
+
+tradition  of  its  origin,  31.
+Vau,  and  its  compounds,  xli.
+Vaulolo,  xli.
+Vavau,  an  island  of  the  Tongan  group,
+
+129,  145.
+Vave  of  Kolonga,  138.
+Veinadui,  xxx.
+f^eisaungone,  xliv.
+yia  and  its  compounds,  xli.
+Fisa,  xxi.
+Vonu,  xvii.
+Vuaka.      See  Pig.
+Vuang-gava,  an  inland  lake  near  Kambara,
+
+88.
+
+Wakuli-kuli,  the  name  of  a  god  of
+Oneata,  87.
+
+Waloloi,  xli.
+
+IVangka,  xxi.
+
+Wangka-talatha,  the  name  of  a  town,
+8,   II.
+
+War-king,  the,  66.
+
+Wathi-wathi,  formerly  the  chief  town
+of  Lakemba,  $$f.
+
+Weather-half,  or  thama,  of  a  (double)
+canoe  ;  the  part  assigned  to  the  women,
+100.  See  Appendix  on  the  Double
+Canoe.
+
+Whale's  tooth  (Vatu-nl-balawa),  put  into
+a  dead  man's  hand  to  throw  at  the
+pandanus  tree  on  his  way  to  the  Land
+of  Spirits,  42.
+
+White  unpainted  Samoan  cloth  (called
+mast),  42.
+
+Wind  (from  the  N.E.),  called  Tokalau
+in  Tonga,  66,  99.
+
+Wot  !  •wot  !  an  expression  of  astonish-
+ment, 10.
+
+Yango-levu,  the  "  Big-bodied,"  a  son  of
+
+the  Chief  of  Ono,  106.
+Tara-ni-nduru,  xvi.
+Yasawa,  the  name  of  a  small  group  of
+
+islands  beyond  Vanua  Levu,  9.
+Tavita,  xxi.
+
+
+-V
+
+
+Printed  by  Ballantyne,  Hanson  &•  Co.
+Edinburgh  &-■  London
+
+
+I
+
+
+PLEASE  DO  NOT  REMOVE
+CARDS  OR  SLIPS  FROM  THIS  POCKET
+
+UNIVERSITY  OF  TORONTO  LIBRARY
+
+
+GR  Fison,   Lorimer
+
+385  Tales  from  old  Fill
+
+F5F5
+
+
+^
+

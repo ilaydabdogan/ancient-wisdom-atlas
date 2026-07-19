@@ -1681,6 +1681,3389 @@ LOGICAL  CHURCH  FATHERS  AND  THEIR
 ENGLISH  TRANSLATIONS  ...  ...  631 — 633
 
 
+INDEX.
+
+
+Abdias,  418.
+
+Aberamentho,  514,  519.
+
+Abiram,  226.
+
+Abortion,  225,  269,  329,  340,
+356.
+
+Aboulfatah,  162,  163.
+
+Abrasax,  280,  281,  282,  283.
+
+Abyss,  188,  308,  312.
+
+Accretions,  276.
+
+Acembes,  208.
+
+Achamoth,  334.
+
+Acts,  Gnostic,  153,  415.
+
+Acts,  Leucian,  417.
+
+Acts  of  Apostles,  128,  568.
+
+Acts  of  Andrew,  445.
+
+Acts  of  John,  426,  434,  443,  445.
+
+Acts  of  Peter,  152,  417,  580.
+
+Acts  of  Thomas,  403,  419,  422,
+424.
+
+Adam,  189,  190,  247,  299,  446,
+447,  551  ;  sons  of,  599.
+
+Adam,  Book  of,  126.
+
+Adamant,  277,  406,  413.
+
+Adamas,  465,  474,  510,  512;
+Sabaoth,  521,  527.
+
+Adembes,  208.
+
+Adityas,  327.
+
+Mon,  207  ;  divine,  390 ;  four
+teenth,  532 ;  incorruptible,
+191  ;  living,  311,  329,  344,
+365  ;  perfect,  218  ;  of  seons,
+203;  of  night,  208;  thir
+teenth,  325,  466,  468,  476,
+511,  515,  520,  522,  528,  531,
+532,  539.
+
+
+^Eons,  173,  218,  313  ;  names  of,
+338;  parents  of,  336;  seat
+of,  440 ;  ten,  337  ;  treasures
+of,  192  ;  triacontad  of,  341  ;
+twelve,  337,  465,  511,  531.
+
+^Eon- world,  313.
+
+^Etherial,  creation,  263  ;  Jesus,
+565.
+
+^Ethers,  208.
+
+After-death  state,  490,  497,  516.
+
+Agape,  235,  423.
+
+Agathopus,  302.
+
+Agrapha,  412,  593.
+
+"  Agree  with  thine  adversary,"
+231,  499.
+
+Agrippa  Castor,  147,  278.
+
+Ahuramazda,  177.
+
+Akasha,  204.
+
+Akhmim  Codex,  152,  579.
+
+Alexander,  39,  97,  99,  279,  357.
+
+Alexandria,  24,  53,  60,  69,  91,
+95  295
+
+All-Father,  41,  385,  549,  583.
+
+All-Mother,  334,  375.
+
+"  All  things  depending,"  307.
+
+Allegories,  71,  79.
+
+Alone-begotten,  218,  341,  388,
+390,  553,  554,  555,  586.
+
+Alone-born,  551.
+
+Alpha,  530.
+
+Anagamin,  370.
+
+Ananias,  580.
+
+Anatolic,  287,  288,  354.
+
+Anaxagoras,  68.
+
+Anaximander,  37.
+
+Ancestral  heart,  301.
+
+
+XXXIV.         FRAGMENTS    OF    A    FAITH    FORGOTTEN.
+
+
+Ancient,  of  days,  348  ;  of  eter
+nity,  397.
+
+Andrew,  445,  487,  581.
+
+Ani,  393.
+
+Announcement,  Great,  165,  167,
+170,  173,  174.
+
+Antioch,  175,  178,  288.
+
+Antitheses,  226.
+
+Ambrose,  64.
+
+Amen,  365,  431  ;   first,  527.
+
+Amens,  seven,  529  ;  three,  523,
+528.
+
+Amru,  106.
+
+Amshaspends,  177,  339.
+
+Apelles,  250.
+
+Aphredon,  551.
+
+Aphrodite,  511,  512.
+
+Apocalypse,  untitled,  547.
+
+Apocalypses,  94.
+
+Apocrypha,  94.
+
+Apollonius  of  Tyana,  55.
+
+Apology,  381,  439,  483,  486,
+499,  527,  600.
+
+Appendages,  276,  277,  301.
+
+Appended  Soul,  On  an,  277.
+
+Apostle,  The,  245.
+
+Arahat,  371.
+
+Ararad,  505.
+
+Archimedes,  108.
+
+Ardesianes,  355.
+
+Ares,  510.
+
+Arian,  261.
+
+Arithmetic,  223,  335,  375.
+
+Aristobulus,  117.
+
+Aristophanes,  109.
+
+Aristotle,  53,  104,  107.
+
+Arrogant,  468,  469,  470.
+
+Ascension  of  pleroma,  478.
+
+Asceticism,  178,  184,  248,  274.
+
+Askew  Codex,  151,  343,  423,
+453,  529.
+
+As  Others  saw  Him,  412,  594.
+
+Astrology,  207,  209,  283,  397.
+
+Athos,  Mount,  212,  273.
+
+Atlantic  Island,  39,  40.
+
+Atom,  222,  223,  316,  318,  319,
+320,  331,  554.
+
+
+At-one-ment,  389,  556.
+Attains,  104.
+Augustine,  251.
+Augustus,  birthday  of,  3.
+Authentic,   304,   365,  504,  509,
+
+512,  541,  542.
+Axionicus,  288,  355.
+
+
+B
+
+
+Babe,  274,  307.
+
+Babel,  407,  410,  411.
+
+Babylon,  86,  89,  204.
+
+Bacchi,  10.
+
+Bacchic  mysteries,  67,  81.
+
+Bacchus,  534.
+
+Balance,  512.
+
+Baptism,  176,  238,  377 ;  my
+steries  of,  499,  533,  (vision  of)
+514,  (fires  of)  500;  myth  of
+dove,  371  ;  of  fire,  522,  526  ;
+of  incense,  515 ;  of  Jesus,
+278  ;  of  Holy  Spirit,  515,  522,
+526  ;  of  midst,  511  ;  of  right,
+511  ;  of  water,  515,  522,  (of
+life)  524.
+
+Baptismal  consecration,   380.
+
+Barbelo,  178,  334,  514,  515,  531,
+583,  584,  585,  586.
+
+Barbelo-Gnostics,  167,  568,  583,
+589.
+
+Barcabbas  and  Barcoph,  278.
+
+Bardesanes,  288,  355,  392,-414,
+420.
+
+Bardesanites,  395.
+
+Bar-Manu,  393.
+
+Baruch,  Book  of,  193,  196.
+
+Basilides,  253.
+
+Basilisk,  474.
+
+Baur,  166.
+
+Beelzeboul,  349,  350.
+
+Beloved,  people  of,  305.
+
+Be-with-us,  day,  343.
+
+Bird,  great,  473.
+
+Birth,  new,  203  ;  of  Horus,  60  ;
+second,  191,  519  ;  of  spiritual
+man,  60.
+
+
+INDEX.
+
+
+XXXV.
+
+
+Births  of  joy,  550  ;    of  matter,
+
+563.
+
+Bitter,  215,  598.
+Blossoms,  442.
+Body,  496.
+Book  of  Adam,  126.
+Book  of  Baruch,  193.
+Book  of  the  Dead,  301,  343.
+Book  of  Gnoses  of  Invisible  God,
+
+518.
+Book  of  Great  Logos  according  to
+
+the  Mystery,  152,  455,  457,  567.
+Book  of  Laws  of  Countries,  394,
+
+398.
+Books  of  leou,  455,  487,  505,  533,
+
+569.
+Books  of  the  Saviour,  151,  374,
+
+507,  546,  567,  573.
+Bosom,  Abraham's,  351.
+Boundary  (see  Limit)  307,  342,
+
+343;    great,  313,  379;    high
+est,  313.
+
+Brahmarandhra,  205.
+Brain,  211.
+Breath,    great,    330 ;     of    their
+
+mouths,  467.
+
+Bridal  chamber,  419,  421.
+Brooke,  391.
+Brothel,  169.
+Brother,  Jesus  my,  475  ;    Paul
+
+our,  568.
+
+Bruchion,  98,  100,  103,  105.
+Bubastis,  512.
+Buddha,  7,  37.
+Bugs,   story  of  John  and  the,
+
+443.
+
+Burton,  145.
+Bythus,  312,  321,  323,  325,  327.
+
+
+Caduceus,  185.
+Cain,  190,  224,  226.
+Cainites,  198,  224.
+Called,  47,  199.
+Calligraphists,  103.
+Callimachus,  109.
+
+
+Canon,  121,  241,  243.
+
+Canopus,  97,  103.
+
+Capernaum,  244.
+
+Capparatea,  175.
+
+Caracalla,  393.
+
+Caravanserai  (see  Inn),  301,  443.
+
+Carpocrates,  229.
+
+Cave,  435.
+
+"  Cease  not  to  seek,"  489.
+
+Cecrops,  41.
+
+Celbes,  208.
+
+Celsus,  150,  183,  233,  589.
+
+Cerdo,  240.
+
+Cerebellum,  211.
+
+Cerinthus,  237.
+
+Chaldsean,  influence  on  Jewry,
+93  ;  logia,  172 ;  mysteries,
+51,  58,  89  ;  star-cult,  206 ;
+tradition,  43,  94.
+
+Chaos,  188,  208,  328,  469,  470,
+471,  497  ;  child  of,  189.
+
+Charinus,  Lucius,  417.
+
+Chads,  588,  595.
+
+Charismatic,  124.
+
+Chassidim,  93,  94.
+
+Child,  little,  406  ;  of  chaos,  189  ;
+of  the  child,  523,  528.
+
+Children,  little,  598;  of  life,
+303  ;  of  the  fulness,  524  ;  of
+light,  521  ;  of  true  mind,  519.
+
+Chiliasm,  124.
+
+Choiic,  199.
+
+Chorizantes,  104.
+
+Chosen,  of  God,  90/92  ;  people,
+87,  128.
+
+Chrestos,  249.
+
+Chrism,  205,  382,  515,  522.
+
+Christ,  227,  273,  327,  378,  448,
+542,  556,  586,  587  ;  a,  484 ;
+above,  190  ;  and  Holy  Spirit,
+341 ;  distinguished  from  Jesus,
+427  ;  historic  gnosis  of,
+508  ;  invocation  to,  380  ;  is
+the  word,  448  ;  Jesus,  368  ;
+mystic  body  of,  354  ;  name
+of,  422;  the,  507,  555;  the
+great  master,  430.
+
+
+XXXVI.          FRAGMENTS    OF    A    FAITH    FORGOTTEN.
+
+
+Christliche  Welt,  Die,  4.
+Christs,  176,  343,  595,  599.
+Circuits  (Tours),  446.
+City,  419,  421,   547,   557,  566,
+
+602.
+
+Citizens  of  heaven,  82.
+Claps  of  hands,  79.
+Claudius,  109.
+Clay,  208,  351.
+Clement  of  Alexandria,  119,  148,
+
+418.
+Clementine    literature,   pseudo,
+
+162,  164,  166.
+Cleobius,  164.
+
+Cleopatra,  98,  99,  106,  110.
+Closet,  70.
+Coats  of  skin,  190.
+Codex,     Akhmim,     152,     579;
+
+Askew,    151,    343,    423,    453,
+
+529;     Brucianus,    151,    192,
+
+213,  303,  312,  374,  382,  421,
+
+454,  515,  529,  591.
+"Come    unto    us,"    409,    462;
+
+day  of,  343.
+
+Commandments,  good,  522.
+Commodus,  250.
+Common   fruit,    331,    345,    346,
+
+349,  351,  352.
+Communism,  234.
+Communities,  30  ;    mystic,  60  ;
+
+Orphic,      50  ;       variety      of,
+
+85.
+Community,   Mareotic,   85 ;     of
+
+friends,  305.
+Compendium,  148  ;   of  Hippoly-
+
+tus,  14,  149  ;    of  Justin,  178  ;
+
+of  Theodoret,  150.
+Conception,  169,  173.
+Concerning  Fate,  394.
+Concerning     the     Offspring     of
+
+Mary,  198.
+Confucius,  37.
+Conglomeration  of  seed-mixture,
+
+262,  265,  272,  276.
+Consummation,    final,   270 ;     of
+
+first  mystery,   503 ;     gnostic,
+
+405.
+
+
+Conversion,  448,  449 ;  of
+spheres,  465,  466,  467.
+
+Conybeare,  61.
+
+Goran,  226.
+
+Corners,  four,  525,  542.
+
+Corybantic  mysteries,  67.
+
+Counterfeit  spirit,  276,  471,  496,
+498,  499,  500,  504,  505.
+
+Couch,  433  ;  couches,  76.
+
+Cratylus,  200.
+
+Critias,  39.
+
+Cross,  221,  330,  342,  343,  352,
+371,  445,  446,  447,  548,  550,
+559  ;  address  to,  445  ;  bush
+of,  435 ;  initiation  of  the,
+438 ;  mystery  of,  435 ;  of
+light,  435 ;  redemption  of,
+447  ;  of  wood,  436 ;  salva
+tion  of,  229  ;  supernal,  548.
+
+Crotona,  50.
+
+Crucified  in  space,  330.
+
+Crucifixion,  227.
+
+Crucify  the  world,  303,  518.
+
+Cube,  222,  317,  324.
+
+Cumont,  279.
+
+Cup,  of  life-giving  water,  215  ;
+of  wisdom,  516.
+
+Cureton,  394.
+
+Cyprus,  296.
+
+Cyrus,  89.
+
+
+Daemonian     hierarchies,      512 ;
+
+powers,  190.
+Dsemons,  59,  301.
+Daevos,  59.
+Daisan,  392.
+Dance,  80,  433,  437  ;    circular,
+
+195  ;    of  initiation,  431.
+Daniel,  Book  of,  25.
+Darkness,  188,  390  ;   dragon  of,
+
+490,    492,    503;     outer,    490,
+
+503,  546.
+
+Darkness,  The  Light  and  the,  394.
+Dathan,  226.
+Daveithe,  588.
+
+
+INDEX.
+
+
+XXXV11.
+
+
+David,  588.
+
+Day    Be-with-us,    343 ;     great,
+
+462  ;  of  light,  487  ;  of  perfect
+
+forms,  349  ;   sixth,  371.
+Dead,    203  ;     prayers    for,    381,
+
+494 ;      resurrection    of,    494,
+
+495  ;    raised  him  from,  354  ;
+
+rise  from,  176.
+Death,  face  of,  304.
+Decad,  82,  323,  324,  326,  378,
+
+551,  586.
+Decans,  510,  539.
+Deficiency,  225,  265,  328,  343,
+
+379.
+
+De  Legatione,  65.
+Delights  of  world,  496.
+Demiurge  (see  Workman),   180,
+
+262,  264,  307,  348,  349,  355,
+
+372,  381,  533.
+Democritus,  68.
+Depth,  313,  352,  547  ;  beyond
+
+being,  312  ;   unutterable,  188.
+Depths,  twelve,  548.
+Desert,  186.
+Destiny,  496,  497,  498.
+Destruction   of   False   Doctrines,
+
+246.
+
+Deucalion,  flood  of,  40.
+Devas,  59,  363.
+Devi,  363.
+
+Diabolus,  232,  349,  350,  384.
+Diagram  of  man  of  truth,  367  ;
+
+of  Ophites,  589.
+Diagrams,  536,  537.
+Dialogues  against  the  Marcion-
+
+ites,  394.
+Diaspora  or  Dispersion,  91,  135,
+
+361.
+
+Didascaleion,  119,  120.
+Dionysus,  42,  49.
+Docetism,   217,   302,   328,   426,
+
+427.
+Dodecad,    323,    324,    432,    536,
+
+551.
+Dodecahedron,    209,    222,    317,
+
+325  ;   rhombic,  325.
+Dollinger,  64.
+
+
+Door,  433,  436.
+
+Dositheus,  162.
+
+Dove,  377,  423,  424,  459;
+baptism-myth  of,  371  ;  father
+in  form  of,  238,  278,  354,  515.
+
+Dragon,  great,  490 ;  of  dark
+ness,  490,  492,  503,  510.
+
+Dry,  shame  of,  424.
+
+Dwarf,  439,  598.
+
+
+Eagle,  262,  410.
+
+Earth,  most  beautiful,  194.
+
+Ebion,  127,  237.
+
+Ebionism,  126,  165,  226,  237.
+
+Echo,  365,  373.
+
+Economy,  373,  378.
+
+Eden,  194,  204,  334.
+
+Edessa,  392.
+
+Egg,  185,  214,  320,  331.
+
+Egypt,  407,  466  ;  before  flood,
+40,  569 ;  Persian  conquest
+of,  59  ;  plagues  of,  222  ;  the
+body,  186;  wisdom  of,  38,
+57.
+
+Egyptian,  discipline,  237  ;  my
+steries,  51,  58.
+
+Elect,  93,  199,  275,  303,  365,
+468.
+
+Eleleth,  588.
+
+Element,  scheme  of  the  one,
+367.
+
+Eleven  years,  459.
+
+Eleusinia,  49,  50,  51,  202.
+
+Eleutherus,  296.
+
+Elias,  soul  of,  461  ;  to  come,
+220.
+
+Elkesai,  127.
+
+Elohim,  189,  190,  194.
+
+Embryology,  281,  505,  536.
+
+Encratism,  178.
+
+Energies,  436.
+
+Enformation  according  to  sub
+stance,  329,  376;  to  know
+ledge,  329,  376.
+
+Ennads,  551.
+
+
+XXXV111.      FRAGMENTS    OF    A    FAITH    FORGOTTEN.
+
+
+Enncea,  321,  323,  325.
+
+Enoch,  487,  505,  569.
+
+Ephemereuts,  75.
+
+Ephraim,  395.
+
+Epiphanes,  127,  233.
+
+Epiphanius,  150,  589.
+
+Epiphany,  234.
+
+Epopteia,  355.
+
+Erani,  50.
+
+Eratosthenes,  108.
+
+Erectheus,  41.
+
+Esau,  226.
+
+Essenes,    66,    84,    93,    94,    101,
+
+131,  162,  227,  279.
+Eta,  532.
+Euclid,  108,  314.
+Eucharist,  248,  423,  515,  526.
+Eudsemonistic  eschatology,  142.
+Eulogius,  306.
+Eumenes,  104.
+Euphrates,  204,  208.
+Eusebius,  61,  62,  64,  150.
+Eve,  189,  190,  247,  351.
+"  Except    a    man    be    born    of
+
+water,"  221.
+
+Excommunication,  241,  295.
+Exegetica,  254,  255,  274.
+Ex  Nihilo,  259.
+Exodus  (see  Going-forth)  myth,
+
+186.
+
+Exterior  of  exteriors,  462,  506.
+Excerpts   from    Theodotus,    287,
+
+292,  332,  356.
+Ezekiel,  vision  of,  94.
+Eznik,  246.
+
+
+Face,  176,  303,  304,  422,  548.
+
+Faces,  authentic,  504.
+
+Fall,     into     matter,     470 ;     of
+
+Sophia,    305 ;     of    the    soul,
+
+334.
+
+Fate,  395,  397.
+Fate,  Concerning,  394.
+Fate-sphere,  209,  465,  477,  498,
+
+505,  510.
+
+
+Father,  alone  good,  301  ;  "he
+who  shall  leave,"  504,  509;
+language  of  my,  533  ;  -mother,
+336,  337,  338.
+
+Fatherhood,  368.
+
+Fatherhoods,  sixty,  544.
+
+Fear,  361  ;  mystery  of  their,
+546  ;  of  the  Lord,  267,  348.
+
+Fifteenth  year  of  Caesar,  278.
+
+Fiftieth  day,  74,  75.
+
+Fifty,  82.
+
+Fig-tree,  218.
+
+Filioque,  261.
+
+Fire,  171,  468,  490;  at  Alex
+andria,  105,  109 ;  baptism
+of,  522,  526  ;  finger  of,  329  ;
+flower  of,  172  ;  hidden,  171  ;
+life-giving,  219  ;  mist,  185  ;
+tree,  172.
+
+Firmament,  262,  263,  266,  311,
+464.
+
+First,  born,  560,  (sons  of  Satan),
+13,  32,  174;  last  shall  be,
+478;  man,  188,  190,  191,
+371,  447,  448,  498,  584,  585  ;
+statute,  463,  465 ;  woman,
+188.
+
+Fish,  261,  270.
+
+Five,  books,  385  ;  impressions,
+529  ;  limbs,  422,  423  ;  sup
+porters,  529  ;  trees,  523,  529,
+544  ;  years'  silence,  278,  282.
+
+Flesh,  of  ignorance,  520 ;  per
+fect,  582  ;  of  rulers,  468  ;  of
+unrighteousness,  519  ;  tongue
+of,  438,  552,  578;  word
+made,  390.
+
+Flood,  40,  505,  569.
+
+Flora,  Letter  to,  383.
+
+Foreknowledge,  585.
+
+Forethought,  550,  585.
+
+Forgiveness  of  sins,  501,  523,
+527,  530,  531,  533.
+
+Formlessness,  268,  270,  329.
+
+"  For  this  cause  I  bow  my
+knees,"  352.
+
+Fortune.  398,  399,  400.
+
+
+INDEX.
+
+
+XXXIX.
+
+
+Forty-nine,  464,  465,  471,  506,
+
+523.
+Four,  374 ;    great    lights,   588  ;
+
+holy  ones,  377  ;   quarters,  509,
+
+525,    542 ;     primal    passions,
+
+346  ;    supernal,  363.
+Four    Quarters    of     the    World,
+
+167.
+Four    and     twenty     invisibles,
+
+476.
+Four    and    twentieth    mystery,
+
+462.
+
+Fourteenth  aeon,  532.
+Fourth,  dimension,  318  ;  gospel,
+
+260,  388,  391.
+Freewill,  399.
+Fruits  of  spirit,  338.
+
+
+Gabriel,  377,  473.
+
+Galileans,  306.
+
+Galilee,  524,  582;  mount  of,
+515.
+
+Garment,  one,  425 ;  wedding,
+405.
+
+Gate,  Canopic,  103 ;  "  I  am
+the  true,"  202 ;  of  the
+heavens,  203 ;  of  the  lord,
+202  ;  of  truth,  204.
+
+Gates,  538  ;  of  light,  502,  503  ;
+of  the  powerful,  333  ;  of  the
+treasure,  474.
+
+Gazzah,  406.
+
+Gennesaret,  430.
+
+"  Geometrizes,  God,"  314.
+
+Gifts  of  spirit,  441.
+
+Gitta,  164.
+
+Glad  tidings,  243,  256,  517.
+
+Glaucias,  254.
+
+Glorified  of  Logos,  556.
+
+Glory,  hymn  of  the  robe  of,
+406,  419  ;  king  of,  421  ;  robe
+of,  460,  461,  464,  520  ;  ves
+tures  of,  472.
+
+Gnosis,  266,  446 ;  Basilidian,  254,
+577,  (ethical  side  of),  273;
+
+
+definition  of,  32;  glories  of,
+480;  Jewish,  118;  monadic,
+236 ;  outlines  of  background
+of,  94 ;  pre- Christian,  163,
+183  ;  supreme,  480  ;  synthes
+izing  of,  289,  295;  Syrian,
+177  ;  of  all  the  gnoses,  484  ;
+of  Christ,  508  ;  of  gnosis  of
+ineffable,  508  ;  of  Jesus,  479  ;
+of  mystery  of  ineffable,  480 ;
+of  pleroma,  481,  484,  503  ;  of
+things  that  are,  32,  52.
+
+"Gods,  Ye  are,"  487.
+
+Going-forth,  myth  of  the,  185,
+210.
+
+Good,  67,  201  ;  commandments,
+522;  deity,  195;  God,  203,
+243,  247,  441  ;  land,  340 ;
+"Why  callest  thou  me,"
+201.
+
+Gorthaeus,  164.
+
+Gospel,  266,  268.
+
+Gospel  according  to  Egyptians,
+198,  200,  233,  249.
+
+Gospel  according  to  Hebrews,  126.
+
+Gospel  according  to  Mary,  580.
+
+Gosyel  according  to  Thomas,  198,
+201.
+
+Gospel  of  Eve,  198,  439.
+
+Gospel  of  Judas,  226,  228.
+
+Gospel  of  Mary,  152,  165,  199,
+423.
+
+Gospel  of  Paul,  244.
+
+Gospel  of  Perfection,  198.
+
+Gospel  of  Philip,  198,  439,
+540.
+
+Governors,  399,  401.
+
+Grace,  390,  432,  434,  436,  440,
+554,  555,  558.
+
+Grasshoppers,  73.
+
+Gratz,  342.
+
+Great,  bird,  473 ;  body,  366 ;
+boundary,  313,  379;  breath,
+330  ;  consummation,  421  ;
+day,  462;  deep,  312  ;  dragon,
+490  ;  elements,  188  ;  firma
+ment,  263,  311  ;  harvest,
+
+
+xl.
+
+
+FRAGMENTS    OF    A    FAITH    FORGOTTEN.
+
+
+308 ;  lao,  529 ;  ignorance,
+270,  271  ;  invisible,  532 ;
+invisible  forefather,  469 ;
+Jordan,  202  ;  just  one,  532  ;
+king,  529 ;  light,  474,  523,
+529,  587  ;  lights,  188  ;  limit,
+270,  272  ;  logoi  according  to
+the  mystery,  544 ;  logos,
+544 ;  man  himself,  529  ;
+master,  430  ;  mercy,  270  ;
+mind,  205 ;  mother,  191  ;
+name,  363,  514,  523,  542,
+599 ;  one,  378,  420 ;  peace,
+142 ;  power,  164,  171,  173,
+185,  543 ;  receiver,  467  ;
+ruler,  262,  266,  267,  272;
+Sabaoth,  513,  529  ;  sea,  40  ;
+silence,  311  ;  soul,  467  ;  sup
+porters,  479  ;  teacher,  5  ;
+thought,  173  ;  unknown,  309  ;
+wedding  feast,  397.
+
+Greatness,  352,  363,  372,  423,
+424,  440.
+
+Greatnesses,  368,  537.
+
+Grief,  346.
+
+"  Greeks  are  but  children,"  111.
+
+Grenfell  and  Hunt,  600,  602.
+
+Guardians,  523,  528,  538.
+
+H
+
+Hades,  447.
+
+Hair  of  his  head,  548.
+
+Hanging  on  the  tree,  343.
+
+Harmogen,  588.
+
+Harmony,  365,  436.
+
+Harmozel,  588.
+
+Harnack,  4,  144,  589.
+
+Harpocratians,  233.
+
+Harvest,  great,  308.
+
+Healers,  61,  442.
+
+Heart,  ancestral,  301  ;  of
+eternities,  317  ;  pure  in,
+300.
+
+Heaven,  citizens  of,  82  ;  jour
+ney,  468  ;  kingdom  of,  201,
+202,  203,  514,  602;  man
+
+
+from,    371  ;     wars    in,    208 ;
+
+world,  347.
+Heavens,  seven,  396.
+Heavenly  man,  201,  202,   222,
+
+300,  329,  330,  344,  423,  439,
+
+566.
+Hebdomad,  264,  266,  268,  269,
+
+271,  272,  273,  280,  307,  323,
+
+333,  348,  349,  371.
+Hegesippus,  164.
+Hell,  247.
+
+Helen,  43  :    myth  of,  168.
+Helena,  163,  168.
+Hellenists,  117.
+Hephaestus,  40.
+Heracleon,  288,  391.
+Hercules,  194,  196.
+Heresies,  On,  251.
+Hermes,    57,    201,    222,    511  ;
+
+first,     570 ;       thrice-greatest,
+
+440  ;    shepherd  of,  438.
+Hermetic  schools,  57.
+Herodotus,  40.
+Hesiod,  38,  43.
+Hesychius,  388.
+Higher   criticism,    14,   25,   242,
+
+385  ;     ego,    471  ;     self,    433  ;
+
+selves,  421.
+Hipparchus,  108,  211.
+Hippolytus,  149,  212,  293,  590.
+Hiranya-garbha,  320.
+Historicized    legends    of   initia
+tion,  278.
+
+Historicizing  of  mythology,  88.
+Hittites,  101.
+Holiness,  degrees  of,  133.
+Holy,     holy,     holy,     554 ;      of
+
+holies,   374,   551  ;    one,   434  ;
+
+ones,  377  ;   "  Spirit  shall  come
+
+upon  thee,"  269  ;    table,  80  ;
+
+women,  251.
+Homer,  44.
+Honestas,  55.
+Hormuz,  339.
+Horn,  of  plenty,  205,  222  ;  one,
+
+222.
+Horos  (Boundary),  308.
+
+
+INDEX.
+
+
+xli.
+
+
+Horus,  233  ;   birth  of,  60.
+
+Hort,  144,  250.
+
+"  Hour  hath  not  yet  come,
+My,"  271.
+
+"How  hath  the  lord  of  the
+pleroma  changed  us,"  464.
+
+"  How  long  shall  I  bear  with
+you,"  487.
+
+Hyksos,  58,  213.
+
+Hyle,  139,  210,  246,  466,  471,
+472,  474.
+
+Hylics,  193.
+
+Hymn,  431  ;  Naassene,  205  ;
+of  Jesus,  431  ;  of  praise,  462  ;
+of  the  powers,  464  ;  of  the
+robe  of  glory,  406,  419  ;  of
+the  soul,  403  ;  of  welcome
+"  Come  unto  us,"  462 ;  to
+light,  566  ;  to  first  mystery,
+539,  545  ;  to  logos,  555  ;  to
+unapproachable  god,  543  ;  to
+wisdom,  419.
+
+Hymns,  394  ;  against  heresies,
+395  ;  of  Bardaisan,  414,  420  ;
+of  Ephraim,  395 ;  Orphic,
+45  ;  penitential,  471  ;  sing
+ing  of,  79.
+
+Hypatia,  96,  100.
+
+Hyrcania,  412.
+
+Hystera,  225.
+
+Hysterema,  225.
+
+Hyssop,  73,  77,  80,  342.
+
+
+I
+
+
+I  am  a  wanderer,"  220.
+
+I  am  that  man,"  483.
+
+I  am  that  mystery,"  502.
+
+I  am  the  god  of  Abraham,"
+
+266.
+
+I  am  the  true  gate,"  202.
+
+I  am  thou,"  439,  598.
+
+I  become  what  I  will,"  201.
+
+I     came     not     to     call     the
+
+righteous,"  490.
+
+I    have    recognised    myself,"
+
+540  ;    "  my  sin,"  268.
+
+
+"  I  have  torn  myself  asunder,"
+488.
+
+"  I  know  myself,"  382.
+
+"  I  know  thee  who  thou  art,"
+440.
+
+"  I  recognised  myself,"  600.
+
+"  I  will  go  into  that  region,"
+470.
+
+labe  (lave),  534.
+
+labraoth,  510,  527,  540.
+
+lacchus  (Yach),  534.
+
+laldabaoth,  189,  191,  192,  470.
+
+lao,  381,  509,  534;  great,
+529.
+
+Ice,  490.
+
+Icosahedron,  222,  317.
+
+Idea,  little,  537,  541,  543,  545.
+
+Ideas,  334 ;  greatnesses  or,
+537.
+
+Idolatry,  247.
+
+Idols,  things  sacrificed  to,  239.
+
+Idol-worship,  300.
+
+leou,  465,  504,  505,  510,  512,
+513,  524,  529,  533,  534,  535,
+540,  544  ;  books  of,  455,  487,
+505,  533,  569  ;  seal  on  fore
+head  of,  537,  538  ;  first  man,
+498  ;  type  of  true  god,  535.
+
+leous,  537,  544.
+
+lesssei,  126.
+
+"If  ye  drink  not  my  blood,"
+202.
+
+"If  ye  make  not  right  like  as
+left,"  448.
+
+Ignorance,  377,  472  ;  flesh  of,
+520  ;  great,  270,  271  ;  nature
+of,  520.
+
+Illumination,  377.
+
+Illusionists,  217.
+
+Illusory,  427.
+
+Image,  180,  304,  313,  349,  387,
+424,  471,  547,  584;  images,
+305,  328.
+
+Imaging  forth,  172.
+
+Immovables,  529.
+
+Impassables,  529,  545,  555.
+
+Impressions,  five,  529.
+
+
+xlii.
+
+
+FRAGMENTS    OF    A    FAITH    FORGOTTEN.
+
+
+"  In  the  place  where  I  shall  be,"
+484.
+
+Incense,  baptism  of,  515.
+
+Incorruptible  aeon,  191  ;  trea
+sure  of,  192 ;  mystery-names,
+511.
+
+Incorruptibility,  440,  585.
+
+India,  55.
+
+Indian  religion,  393.
+
+Individuitatis,  principium,  344.
+
+Indivisible,  552,  554.
+
+Indweller  of  light,  478.
+
+Ineffable,  462,  463,  464,  486;
+chrism,  205  ;  first  mystery  of,
+479  ;  gnosis  of  gnosis  of,  508  ;
+limbs  of  the,  483,  485,  507  ;
+mysteries  of  vestures  of,  501  ;
+mystery  of,  481,  482,  494,
+500,  507  ;  name,  543 ;  one
+word  of,  481  ;  space  of,  477,
+479 ;  tongue  of,  482 ;  ves
+ture,  557.
+
+Ineffables,  566.
+
+Infancy,  story  of,  412,  474.
+
+Inheritance  of  light,  477,  478,
+479,  483,  487.
+
+Iniquity,  seed  of,  504  ;  wrath
+of  their,  512.
+
+Initiation,  355,  370,  375,  380,
+411,  423,  427,  462;  cere
+monies,  358  ;  dance  of,  431  ;
+grades  of,  182 ;  historicized
+legends  of,  278 ;  mountain
+of,  598  ;  of  the  cross,  438  ;
+of  the  disciples,  508  ;  robe  of,
+405.
+
+Initiations,  382.
+Inn,  352.
+
+Intercourse,    mystery    of,    469,
+
+510  ;   with  males,  501.
+Interior  of  interiors,   460,  462,
+
+464,  506.
+Investiture,  462.
+Ion,  41,  43.
+Iota,  222.
+
+Irenaeus,  147,  291,  582 ;  unre
+liability  of,  280.
+
+
+Isidorus,  273,  277,  301,  306.
+Isis,  201,  323.
+Italic,  287,  354.
+Ithye,  403.
+
+
+Jacob,  202,  225.
+
+Jamblichus,  57,  58.
+
+James,  580.
+
+Jehovah,  534.
+
+Jerome,  150.
+
+Jerusalem,  557 ;  above,  349,
+351,  396,  421  ;  below,  435,
+447  ;  celestial,  340  ;  church
+of,  119  ;  destruction  of,  92.
+
+Jesus,  186,  199,  204,  221,  272,
+302,  375,  353,  368,  376,  378,
+472,  543,  565;  a  shepherd
+boy,  197  ;  the  name  a  sub
+stitute,  368  ;  baptism  of,  278  ;
+Christ  distinguished  from,  427,
+cosmic,  345  ;  Ebionite  tradi
+tion  of,  128  ;  hymn  of,  431  ;
+Mary,  mother  of,  474 ;  my
+brother,  475 ;  mysteries  of,
+532  ;  our  God,  442  ;  person
+of,  140 ;  portrait  of,  233 ;
+son  of  Mary,  269  ;  stories  of,
+428;  the  master,  376;
+mystery  of  gnosis  of,  479 ;
+six-lettered  name,  369  ;  twin
+of,  424.
+
+Jeu  (see  leou),  534.
+
+John,  237,  580,  581  ;  Apocry-
+phon  of,  152,  580;  farewell
+address,  441  ;  last  prayer  of,
+442 ;  the  virgin,  484 ;  the
+baptist,  162,  461.
+
+Jonah  myth,  447.
+
+Jordan,  185,  186,  202,  204,
+221.
+
+Joseph,  475.
+
+Josephus,  118.
+
+Joshua,  186.
+
+Joy,  419  ;   births  of,  550.
+
+Judas,  224,  226.
+
+
+INDEX.
+
+
+xliii.
+
+
+Judas  Thomas,  419,  424  ;    Acts
+
+of,  403.
+Julian,  97.
+Just,  god,  243,  384 ;  one,  great,
+
+532
+
+Justin  Martyr,  148,  178,  590.
+Justinus,  193,  246.
+
+K
+
+Kabalism,  94,  133,  361.
+
+Kalapatauroth,  505.
+
+Karman,  232,  265,  274,  394,
+397,  399.
+
+Kenoma,  307,  313.
+
+Kingdom,  of  heaven,  201,  602  ;
+of  light,  481,  506  ;  of  heavens,
+202,  203,  (keys  of),  514  ;  of
+midst,  308 ;  of  mysteries,
+491.
+
+"  Kin  to  me,"  437.
+
+"  Knees,  For  this  cause  I  bow
+my,"  352.
+
+Knowledge,  "  falsely  so  called,"
+384 ;  motions  of,  413 ;  of
+supermundane  things,  254,
+255  ;  tree  of,  487,  505.
+
+Knowledges,  413.
+
+Kolarbasus,  127.
+
+Kostlin,  574.
+
+Krishna,  7.
+
+Kronos,  510.
+
+Kundalim,  204.
+
+Kushan,  406.
+
+
+Lake  Maroea,  69,  97.
+
+Lamp,  433.
+
+Land,    milk    and    honey,    340 ;
+
+god-bearing,  555  ;   good,  340  ;
+
+promised,  186  ;    Siriadic,  58.
+Laotze,  37.
+
+"  Last  shall  be  first,"  478.
+Left,   334,   348,   436,   447,   448,
+
+449,  465,  466,  477,  513,  515,
+
+523,  528,  548.
+
+
+Leibnitz,  320.
+
+"  Let  there  be  light,"  259.
+
+Leucian  Acts,  417,  426.
+
+Levi,  581.
+
+Library,  of  Alexandria,  96,  98,
+102  ;  of  Aristotle,  104 ;  of
+Persepolis,  279.
+
+Life,  389,  564;  breath,  320;
+children  of,  303  ;  divine,  372  ;
+everlasting,  585 ;  face  of,
+304  ;  father  of,  404  ;  giving
+fire,  219  ;  giving  water,  197  ;
+of  the  father,  518 ;  spark,
+180  ;  tree  of,  446,  487,  505  ;
+virgin  of,  526  ;  water  of,  201,
+565  ;  word  and,  374.
+
+Light  and  the  Darkness,  394.
+
+Light,  320,  380,  387,  434,  446,
+564  ;  atmosphere  of,  514 ;
+beams,  75 ;  boundless,  509,
+525  ;  children  of,  521  ;  col
+lector  of,  467  ;  cross  of,  435  ;
+crown,  473  ;  flames,  504 ;
+day  of,  487  ;  fluid,  189 ;
+gates  of,  502,  503;  great,
+474,  523,  529,  587 ;  hymn
+to,  566;  image  of,  471,  544;
+indweller  of,  478 ;  inherit
+ance  of,  477,  478,  479,  483,
+487  ;  kingdom  of,  481,  484,
+506  ;  maiden,  397  ;  mysteries
+479  ;  of  the  treasure,  512  ;
+overseer  of,  465  ;  power,  470,
+473,  496,  505;  ray,  216;
+realm,  460 ;  receivers  of,
+491  ;  robe,  382,  404,  460 ;
+seven  virgins  of,  525  ;  sons
+of,  371,  511  ;  spark,  179,  180,
+189,  190,  303,  305,  329,  465,
+548,  554,  562,  584,  586,  599  ;
+sparks,  214,  461,  600  ;  sphere,
+322  ;  spirit,  586 ;  stream,
+473,  483;  streams  of,  504;
+three  spaces  of  the,  478 ;
+third  of  their,  465  ;  treasure,
+466,  468,  523,  530;  treasure
+of,  477,  478,  509,  511,  514,
+
+
+xliv.
+
+
+FRAGMENTS    OF    A    FAITH    FORGOTTEN.
+
+
+520,  522,  525,  527  ;  vesture,
+191,  468,  559;  vesture  of,
+460,  463,  483,  499  ;  virgin  of,
+
+476,  491,  497,  498,  499,  517  ;
+water  of  pure,   584 ;     world,
+195,  311,  320,  322,  421,  459,
+
+477,  540.
+
+Lights,  great,  188,  512,  588.
+
+Limbs,  366,  437,  439,  445,  462,
+482,  540,  547,  556,  600  ;  five,
+422,  423  ;  of  heavenly  man,
+566;  of  ineffable,  483,  485,
+507.
+
+Limit  (see  Boundary),  great,
+267,  270,  272,  343,  462,  463.
+
+Limitary  spirit,  262,  266,  267,
+269,  272,  343.
+
+Linus,  418,  446.
+
+Lipsius,  150,  291,  415.
+
+Little,  child,  406 ;  children,  598  ;
+idea,  537,  541,  543,  545;
+man,  439  ;  midst,  531  ;  one,
+306  ;  Sabaoth,  512,  516.
+
+Liturgi,  539.
+
+Living  one,  380,  381,  382,  518,
+520,  534,  554,  602.
+
+Logia,  Chaldaean,  172.
+
+Logoi,  or  logia,  294,  484,  507,
+508,  593  ;  rejected,  593.
+
+Logos  (see  Word),  56,  201,  207,
+216,  330,  344,  368,  372,  373,
+384,  388,  412,  433,  445,  535,
+537,  544;  creator,  553,  556;
+doctrine  of,  58  ;  glorified  of,
+556 ;  great,  544 ;  hymn  to
+the,  555  ;  mind- born,  566  ;
+Osiris  the,  59 ;  perfect  man
+or,  215 ;  second  aspect  of,
+261.
+
+Lot,  225.
+
+Luminaries,  588.
+
+M
+
+Magdalene,  466,  484.
+
+Magi,  271,  279.
+
+Magic,  167,  175,  318,  466.
+
+
+Magna  Vorago,  331.
+
+Magus,  167.
+
+Maha-pralaya,  270.
+
+Maiden,  419,  421.
+
+Maimonides,  143.
+
+Mainandros,  177.
+
+Maishan,  407,  411.
+
+Male-female,  173,  174,  199,  200,
+218.
+
+Malice,  mystery  of,  522.
+
+Man,  273,  422,  433,  438,  439,
+446,  547,  548,  550,  559,  562,
+566 ;  Adam  the,  551  ;  and
+church,  323,  337,  374;  con
+stitution  of,  496  ;  descent  of,
+446 ;  doctrine,  188 ;  first,
+188,  190,  191,  371,  498,  584,
+585  ;  from  heaven,  371  ;
+heavenly,  201,  202,  222,  300,
+329,  330,  344,  423,  439  (limbs
+of),  586  ;  himself,  great,  529  ;
+"  I  am  that,"  483 ;  inner,
+351,  352 ;  last,  371  ;  little
+and  great,  439  ;  new,  353 ;
+of  truth,  366,  367;  perfect,
+427  ;  perfected,  354  ;  powers
+of,  302  ;  second,  188 ;  son
+of,  189,  199,  202,  378,  M  ;
+son  of  this,  222 ;  sons  of,
+372 ;  spiritual,  271  ;  thy,
+440;  way  of  the  first,  448;
+woman,  334,  584.
+
+Mandaites,  126.
+
+Manetho,  40,  569.
+
+Manichaeism,  392,  395,  416.
+
+Mansel,  145.
+
+Many,  "  called,  few  chosen,"  47
+"members,  one  body,"  507
+"thyrsus-bearers,  few  bacchi,'
+10.
+
+Marcians,  177,  288.
+
+Marcion,  25,  175,  240,  241.
+
+Marcionite,  antitheses,  226 ;
+churches  242 ;  movement,
+240.
+
+Marcionites,  Dialogues  against
+the,  394.
+
+
+INDEX.
+
+
+xlv.
+
+
+Marcellina,  233.
+
+Marcosian  ritual,  380.
+
+Marcosians,  288.
+
+Marcus,  287,  590 ;  number-
+symbolism  of,  358.
+
+Mareotic  community,  69,  85 ;
+lake,  69,  97.
+
+Mariamne,  199.
+
+Marriage,  273  ;    sacred,  420.
+
+Marsanes,  553.
+
+Martha,  589.
+
+Martyrdom,  275 ;  pains  of,
+494.
+
+Martyrs,  249,  274;  of  Lyons,
+292.
+
+Mary,  Concerning  the  Offspring
+of,  198.
+
+Mary,  Genealogy  of,  589.
+
+Mary,  Gospel  of,  152,  165,  199,
+423.
+
+Mary,  Gospel  according  to,  580.
+
+Mary,  Questions  of,  198,  454,
+466.
+
+Mary,  Greater  and  Lesser  Ques
+tions  of,  199,  589.
+
+Mary,  353,  461,  506,  511,  581,
+589  ;  the  body,  269  ;  Jesus,
+son  of,  269  ;  Magdalene,  466,
+484  ;  mother  of  Jesus,  474.
+
+Masbotheus,  164.
+
+Mathematicians,  207,  361.
+
+Mathesis,  294,  315.
+
+Matrix,  334.
+
+Matter,  466,  471,  554,  557,  558,
+560,  576;  births  of,  563;
+fall  into,  470  ;  devour  their
+own,  467 ;  purgations  of,
+489  ;  virgin  of,  564.
+
+Matthias,  254.
+
+Max  Miiller,  8.
+
+Maya-vadins,  217.
+
+Mayavi-rupa,  428.
+
+Medulla,  211.
+
+Melchizedec,  467,  512,  513,  526.
+
+Members,  539,  550.
+
+Memoirs  of  the  Apostles,  162.
+
+Menander,  175.
+
+
+Mercury,  rod  of,  185  .
+
+Mercy,  great,  270  ;  perfect,  422,
+
+423.
+
+Merinthians,  237.
+Metempsychosis,  219.
+Metensomatosis,  220.
+Metropolis    of    Alone-begotten,
+
+553.
+
+Michael,  473.
+Middle  space,  173,  188,  334,  348,
+
+540.
+Midst,     308,     333,     488,     516;
+
+baptism  of,   511  ;    earth  be-
+
+cometh,     519 ;      little,     531  ;
+
+way  of,  490,  510,  511,  513,
+
+514,  546.
+Miltiades,  291.
+Mind,  173,  185,  205,  334,  388,
+
+518,  519,  551,  561.
+Mind  and  truth,  323,  336.
+Mineral  nature  of  soul,  277.
+Miriam,  81.
+Mirror,  433.
+Miscellanies,  The,  287.
+Mithras,  55,  56,  279.
+Mixture,  488,  496.
+Moist  essence,  204,  208.
+Mohammed,  7.
+Monad,  67,  222,  318,  335,  373,
+
+548,  549,  550,  551,  555,  557.
+Monadic  gnosis,  236.
+Monadity,  374.
+Monadology,  320.
+Monastery,  70,  71.
+Money-changers,  596.
+Monoiimus,  222.
+Montanist,  251.
+Moon,  263,  473,.  510.
+Moses,  81,   185,   196,  222,  225,
+
+266,  387  ;   of  Chorene,  393.
+Mosheim,  234.
+Mother,   above,    191,  396,  561  ;
+
+breath,     330 ;      mysteries    of
+
+great,  203  ;    of  all,  169,  185  ;
+
+of  compassion,  422  ;    of  many
+
+names,  334  ;    of  living,  334  ;
+
+of    thirty    names,    379 ;      of
+
+
+xlvi.
+
+
+FRAGMENTS    OF    A    FAITH    FORGOTTEN.
+
+
+your   mother,    382 ;     shining,
+334  ;    virgin,  58.
+
+Mount,  370,  429,  430,  435,  439,
+508,  598;  Athos,  212,  273;
+of  Galilee,  515;  of  Olives,
+435,  459.
+
+Mountain,  Secret  Sermon  on  the,
+440.
+
+Mysteries,  46,  411,  431,  4:^3;
+Assyrian,  200  ;  Bacchic  and
+Corybantic,  67  ;  boundary
+marks  of,  490  ;  Chaldsean,  51,
+58  ;  degrees  of,  484  ;  Egyp
+tian,  51,  58,  201  ;  Eleusinian,
+51  ;  greater,  203,  522  ;  Greek,
+201  ;  keys  of,  506  ;  kingdom
+of,  491  ;  lesser,  203,  215,  522,
+527  ;  mimics  of,  493  ;  Mith-
+riac,  55,  56,  279  ;  of  baptism,
+499,  514,  533  ;  of  embryology,
+281  ;  of  Jesus,  532  ;  of  Seth,
+58 ;  of  sex,  184 ;  of  great
+mother,  203;  Orphic,  51,
+216 ;  philosophic,  50,  51  ;
+Phrygian,  201,  202  ;  preach
+ing  of,  489  ;  private,  49  ;
+political,  49 ;  ritual  from,
+431  ;  Samothracian,  202 ;
+state,  49;  Thracian,  202;
+twelve,  485.
+
+Mystery,  356,  437 ;  according
+to  the,  152,  455,  457,  544,
+567 ;  cultus,  49  ;  drama,
+433  ;  fires  of  baptism,  500  ;
+first,  459,  460,  461,  462,  463,
+464,  465,  472,  473,  474,  477,
+478,  479,  482,  493,  500,  502,
+503,  506,  507,  (hymn  to)  539,
+545,  (mystery  of)  479,  (outer
+space  of),  479 ;  four-and-
+twentieth,  462  ;  "  I  am  that, ' '
+502  ;  kept  secret,  495  ;  last,
+462,  463;  looking  within,
+486 ;  myths,  191  ;  names,
+511  ;  of  breaking  of  seals,
+498  ;  of  every  nature,  447  ;
+of  intercourse,  469,  510;  of
+
+
+cross,  435  ;  of  forgiveness  of
+sins,  523,  527,  530,  531,  533  ;
+of  ineffable,  479,  480,  481,
+482,  494,  500,  507  ;  of  light
+of  thy  father,  515  ;  of  resur
+rection  of  dead,  494,  495  ;  of
+spiritual  chrism,  522 ;  of
+twelve  aeons,  531  ;  of  their
+fear,  546  ;  of  withdrawing  evil,
+522,  527 ;  relative  of  the,
+552  ;  that  was  unknown,  269,
+353 ;  type  of  race,  471  ;
+world  beyond,  462 ;  'twixt
+heaven  and  earth,  439 ;
+wisdom  declared  in,  268.
+
+Myrrh,  420.
+
+Myrtle,  420.
+
+Mysticse  voces,  365.
+
+Myth,  Exodus,  185,  186,  210;
+Jonah,  447  ;  of  Helen,  168  ;
+of  Pistis  Sophia,  469 ;  of
+Valentinus,  306.
+
+Mythologizing  of  history,  88.
+
+Mythology,  332.
+
+Muesis,  355.
+
+Mulaprakriti,  258.
+
+N
+
+Naas,  196.
+
+Naasseni,  198.
+
+Naassene, document,  198 ;  hymn,
+205.
+
+Nadi's,  597.
+
+Nahashirama,  392.
+
+Nail  of  discipline,  449.
+
+Name,  300,  304,  377,  381,  440,
+462,  516,  565  ;  authentic,  541,
+542 ;  echo  of,  365 ;  great,
+363,  514,  523,  542,  599;
+ineffable,  543  ;  "  Jesus  "  a
+substitute,  369;  of  Christ,
+422 ;  of  great  power,  542  ;
+of  power,  282  ;  of  the  father,
+509;  of  truth,  380;  six-
+lettered,  368.
+
+Names,    374,    550;     authentic,
+
+
+INDEX.
+
+
+xlvii.
+
+
+365,  509,  512;  imperishable,
+545,  546  ;  mother  of  many,
+334,  (of  thirty),  379;  of
+ssons,  338.
+
+Narrow  place,  560,  564.
+
+Nativity,  400,  402.
+
+Nature,  399,  400  ;  seven-robed,
+210  ;  upper,  437.
+
+"  Naught  was,"  257.
+
+Nazaraean,  580.
+
+Nazaraeans,  126.
+
+Neander,  144,  236.
+
+Net,  440.
+
+"  Never  grow  old,"  176.
+
+Nicolaitans,  213,  239.
+
+Nicopolis,  100.
+
+Nicotheus,  553.
+
+Night,  208.
+
+Nile,  heavenly,  204.
+
+Nine  times  greater,  476.
+
+Ninefold,  548,  559.
+
+Nineveh,  447.
+
+Nirvana,  142,  236,  474.
+
+Nirvanic,  atom,  319  ;  ocean,  330.
+
+Nitrian  valley,  101.
+
+Noah,  190.
+
+Nochaitse,  198.
+
+Noetic  world,  320.
+
+Nomina  barbara,  339.
+
+No-number,  373,  374.
+
+Norton,  145.
+
+Noughtness,  373.
+
+Nuhama,  392.
+
+Number,  letters,  359  ;  nuptial,
+83  ;  of  perfect  souls,  467,  486,
+502,  503  ;  permutations,  375  ;
+symbolism,  358 ;  theories,
+222.
+
+Numbers,  82,  516.
+
+
+Oaths  of  secrecy,  416.
+Oblivion,  496  ;   draught  of,  504,
+
+516.
+Ocean,  186,  202,  326,  330,  509,
+
+545.
+
+
+Octahedron,  222,  317,  324.
+
+Ode  to  Sophia,  419.
+
+Odes,  of  Basilides,  255;  of
+Solomon,  470,  572.
+
+Ogdoad,  266,  268,  269,  271,  280,
+307,  322,  323,  324,  333,  344,
+345,  349,  350,  376,  396,  432,
+587.
+
+Omar,  106.
+
+Omega,  530,  532.
+
+Omphale,  197.
+
+On  an  Appended  Soul,  277.
+
+On  Heresies,  251.
+
+On  Justice,  234.
+
+On  the  Soul,  251.
+
+One,  67,  374 ;  and  all,  321  ;
+and  only  one,  486,  531,  556,
+561,  562,  565;  word,  482;
+garment,  425 ;  great,  378,
+(just),  532  ;  holy,  434  ;  horn,
+222;  in  a  thousand,  282,
+506  ;  little,  306  ;  living,  380,
+381,  382,  518,  520,  534,  554,
+602  ;  virgin,  218  ;  word,
+481.
+
+Oneness,  373.
+
+Only-begotten,  341.
+
+Onamacritus,  38.
+
+"  Open  unto  us,"  503.
+
+Ophiani,  183.
+
+Ophites,  181,  193  ;  diagram  of,
+589.
+
+Ophitism,  158.
+
+Orgeones,  50.
+
+Origen,  149.
+
+Oroiael,  588.
+
+Orpheus,  42,  44,  331.
+
+Orphic,  49,  192  ;  communities,
+50,  54  ;  hymns,  45  ;  life,  50  ;
+line,  42  ;  mysteries,  51,  216,
+411  ;  poems,  38  ;  songs,  45  ;
+tradition,  39.
+
+Osiris,  59,  201,  323,  438.
+
+Osirified,  600.
+
+Osymandyas,  103.
+
+Outline  of  face,  548.
+
+Outlines,  The,  292.
+
+
+xlviii.          FRAGMENTS    OF    A    FAITH    FORGOTTEN.
+
+
+Overseer,    547,    551  ;     of   light,
+
+465.
+
+Ovum,  331,  536.
+Oxyrhynchus,  600.
+
+
+Pallas  Athene,  41.
+
+Pantaenus,  294.
+
+Paradise,    189,    190,    247,    334,
+
+396,  487,  505.
+Paraphrase  of  Seth,  213.
+Paraplex,  513.
+Parchment,  104.
+Parents,  of  seons,  336  ;  we  are
+
+to  leave,  504.
+Parentless,  337,  524,  529.
+Passion,  371,  378,  390,  434,  438,
+
+446.
+
+Passions,  346,  347.
+"  Pass-not,"  ring,  311.
+Pastes,  421.
+Paul,     176,     248,     252,     499;
+
+Ascent  of,  226  ;  Apocalypse  of,
+
+227  ;  churches  of,  165  ;  gospel
+
+of,  244  ;   letters  of,  123  ;  our
+
+brother,  568  ;   Vision  of,  227.
+Pearl,  407,  440.
+Pelasgi,  40.
+Pentad,  423,  551,  584.
+Pentateuch,  388.
+Peratse,  186,  198,  206.
+Perfect,  seon,  218 ;  deity,  387  ;
+
+flesh,    582 ;      freedom,     557 ;
+
+man,    215,    302,    354,    427;
+
+mercy,  422,  423  ;   mind,  551  ;
+
+number    of,    467,    486,    502,
+
+503  ;   triangle,  74,  82.
+Perfection,  god  of,  495  ;    Gospel
+
+of,  198  ;   seal  of,  423.
+Pergamus,  105,  239.
+Persepolis,  279.
+Person,  210  ;  of  Jesus,  140.
+Peter,  176,  501,  581  ;    Acts  of,
+
+152,    417,    580;     Circuits   of,
+
+164,  166  ;  interpreter  of,  254  ;
+
+Martyrdom  of,  446.
+
+
+Petro-Pauline  controversy,  128,
+166,  245.
+
+Petro-Simonian  controversy,  166.
+
+Pharisaism,  92,  93.
+
+Pharos,  97.
+
+Pherecydes,  37.
+
+Philaster,  150.
+
+Philip,  466  ;  Gospel  of,  198,  439,
+540.
+
+Philo,  55,  117 ;  and  wisdom-
+lovers,  60,  84 ;  autobiography,
+84  ;  On  the  Contemplative  Life,
+61  ;  pseudo,  62.
+
+Philosophumena,  273.
+
+Philoxenus,  397.
+
+Philumene,  250.
+
+Phlium,  216.
+
+Phosilampes,  553.
+
+Phronesis,  588.
+
+Phrygian  mysteries,  201,  202.
+
+Pineal  gland,  211.
+
+Pistis  Sophia  (Faith-Wisdom),
+339,  468,  470,  565 ;  myth  of,
+469.
+
+Pistis  Sophia,  151,  199,  208,
+281,  283,  290,  297,  303,  312,
+343,  374,  382,  397,  398,  405,
+409,  412,  449,  454,  529,  538,
+567,  571,  578,  591  ;  system
+of,  192,  574  ;  translation  of,
+456  ;  treatise,  original,  572.
+
+Plagiarism  by  anticipation,  117.
+
+Plagues  of  Egypt,  222.
+
+Plain,  cities  of,  226;  of  truth,  230.
+
+Plato,  39,  45,  49,  51,  53,  314.
+
+Plato,  Nuptial  Number  of,  83.
+
+Platonic  solids,  222,  314.
+
+Pleroma,  207,  225,  311,  389,
+461,  547,  550,  566  ;  ascension
+of,  478  ;  boundary  of,  342 ;
+common  fruit  of,  331,  345,
+346,  349,  351,  352  ;  configura
+tion  of,  551  ;  drama,  327  ;
+emanation  of,  499,  505 ;
+gnosis  of,  481,  484,  503;
+lord  of,  464  ;  lords  of,  501  ;
+seed  of,  377  ;  sons  of,  511.
+
+
+INDEX.
+
+
+xlix.
+
+
+Pleromata,  305,  365.
+
+Plough,  440.
+
+Plutarch,  55,  56,  57.
+
+Pneumatics,  139,  421,  468.
+
+Point,  218.
+
+Polarity,  321.
+
+Polyhedra,  314.
+
+Polyhedric  origin  of  species,
+322.
+
+Poor  men,  126,  127,  166,  227,
+427.
+
+Porphyry,  25,  393.
+
+Portrait  of  Jesus,  233.
+
+Poseidon,  40,  99.
+
+Power,  547  ;  above,  334,  447  ;
+boundless,  173 ;  daemonian,
+190;  demiurgic,  349,  372;
+great,  164,  171,  173,  185,  542,
+543  ;  name  of,  282  ;  of  high
+est,  269,  353,  377  ;  robe  of,
+343,  344  ;  super-celestial,  381.
+
+Powers,  462 ;  cruel,  crafty,
+474;  forty-nine,  516,  523;
+of  perfect  man,  302  ;  song  of
+the,  409,  464;  triple,  468,
+469.
+
+Pralaya,  344.
+
+Prayer,  John's  last,  442  ;  morn
+ing,  82 ;  of  the  earth-born,
+564.
+
+Prayers  of  Therapeuts,  70  ;  for
+dead,  381,  494  ;  sacramental,
+422.
+
+Pre-Christian  gnosis,  163,  183.
+
+Preuschen,  567.
+
+Principalities,  436.
+
+Proasteioi  up  to  Mfher,  209,  280.
+
+Proclus,  314.
+
+Proculus,  291.
+
+Prodigal  son,  parable  of,  405.
+
+Prophets,  schools  of  the,  86,  94.
+
+Prouneikos,  334.
+
+Providence,  274,  275.
+
+"  Providentissimus  Deus,"  14.
+
+Pseudepigraphs,  85,  94.
+
+Pseudo -Clementines,  162,  164,
+166.
+
+
+Ptolemseus,  288,  590  ;    to  Flora,
+
+293.
+
+Ptolemies,  57.
+Ptolemy,  108,  383;     I.  (Soter),
+
+98,     102,     104;      II.     (Phila-
+
+delphus),      104,      116;       III.
+
+(Euergetes),  105.
+Pullulation,  259.
+Puranas,  204.
+Purgations  of  matter,  468,  488,
+
+489.
+
+Purgatorial  spheres,  381.
+Purification,    degrees    of,    472 ;
+
+ladder  of,  565.
+Purusha,  301.
+"  Put  not  off,"  502.
+Pythagoras,     37,     39,    45,    51,
+
+314.
+Pythagorsean   communities,  50,
+
+54  ;   triangle,  82.
+Pythagorseans,  51,  82,  84.
+
+
+Queen  of  East,  405,  411
+Questions    of    Mary,    198,    199,
+454,  466,  589.
+
+R
+
+Rabbis  of  south,  94.
+
+Race,  69,  437,  447,  564  ;    elect,
+
+303  ;    mystery  type  of,  471  ;
+
+of     mind,     518 ;      righteous,
+
+519.
+
+Ragadouah,  99.
+Raguel,  588.
+Reasonings,  250.
+Rebirth,  205,  220,  230,  354,  371,
+
+381,  407,  504,  548.
+Receiver,  great,  467.
+Receivers,  486,  498,  499,  511,
+
+521  ;   of  light,  491  ;  of  wrath,
+
+491,  497.
+"  Recognised  myself,   I  have,"
+
+540,  600.
+Red  Sea,  81,  186.
+
+
+L
+
+
+FRAGMENTS    OF    A    FAITH    FORGOTTEN.
+
+
+Redemption,     265,     381,     471  ;
+
+angelic,  380  ;   of  Sophia,  334  ;
+
+of  cross,  447.
+
+Reflections,  self-born,  565.
+Refutatorii  Sermones,  167.
+Regeneration,     371,    372,    376,
+
+445.
+
+Reign  of  1000  years,  92.
+Reincarnating  entity,  301.
+Reincarnation,    167,    192,    231,
+
+232,  274,  276,  404,  516.
+Relative  of  mystery,  552.
+"  Remedy  of  Soul,"  103.
+Reminiscence,  230,  236,  474.
+Renunciation  of  world,  481,  485,
+
+489.
+
+"Repent,  Delay  not  to,"  502.
+Repentance,  446,  449,  471  ;
+
+place  of,  565  ;    songs  of,  470.
+Repentances,  470,  471.
+Resch,  412,  593.
+Restitution  of  all  things,  364.
+Restoration,  265,  268,  270,  271,
+
+273,  380.
+Resurrection,     254,     404,     440,
+
+548  ;    of  body,  176  ;    of  dead,
+
+494,  495.
+
+Rhacotis,  99,  100.
+Rhapsodists,  38.
+Rheinhardt,  579.
+Rhodon,  250,  251.
+Right,  264,  334,  348,  357,  401,
+
+411,  436,  447,  448,  449,  465,
+
+466,  477,  478,  483,  488,  511,
+
+512,  548,  563.
+
+"  Right  like  as  the  left,"  448.
+Righteous,  490,  498,  519,  551.
+Ritual,  from  mysteries,  431  ;
+
+Marcosian,  380.
+Rivers  of  Eden,  194.
+Robe,  of  glory,  460,   461,  464,
+
+520,  (hymn  of),  406,  419  ;    of
+
+initiation,     405 ;      of    power,
+
+343,  344.
+Rod,    201,    222;     Moses'    222;
+
+of  Mercury,  185.
+Root,   aeons,   218 ;   lower,   436 ;
+
+
+of  deathlessness,  440 ;  uni
+versal,  171.
+
+Rudras,  327.
+
+Ruler,  264,  439,  498;  great,
+262,  266,  267,  272.
+
+Rulers,  230,  467,  469,  497,  498  ;
+evil  of  526 ;  flesh  of  the,
+468  ;  seventy-two  evil,  522  ;
+three  great,  532.
+
+
+Sabaoth,  Adamas,  521,  527  ;
+great,  513,  529;  little,  512,
+516.
+
+Sacrifices,  93.
+
+Sadducees,  163.
+
+Sais,  39.
+
+Sakadagamin,  370.
+
+Salmon,  236,  246,  424,  443.
+
+Salome,  233,  598.
+
+Salt,  73,  77,  80,  440;  bread
+and,  80  ;  with,  425.
+
+Samaritan  Chronicle,  162.
+
+Same,  234.
+
+Samothracian  mysteries,  202.
+
+Samsara,  197,  303,  381.
+
+Sarbug,  407,  410.
+
+Satan,  436  ;   sons  of,  13,  32,  174.
+
+Saturninus,  177.
+
+Saviour,  58,  207,  271,  273,  505  ;
+Books  of  the,  374,  454,  507,
+546,  567,  573;  first,  485;
+of  truth,  381  ;  words  of,  385.
+
+Saviours,  176  ;  of  souls,  492  ;
+twelve,  461  ;  twin,  529.
+
+Schmidt  (Carl),  159,  538,  545,
+552,  567,  574,  577,  579,  588.
+
+Schwartze,  146,  281.
+
+Seals,  214,  219,  317,  423,  498,
+499,  537,  538.
+
+Secularizing  of  Christianity,  136.
+
+Secundus,  287,  357.
+
+Seed-mixture,  263  ;  conglomera
+tion  of  the,  262,  265  ;  of  all
+universes,  258 ;  of  iniquity,
+504  ;  of  pleroma,  377.
+
+
+INDEX.
+
+
+li.
+
+
+Selene,  163,  168.
+
+Seniority,  75.
+
+Septuagint,  104.
+
+"  Sepulchres,  Ye  are  whitened,"
+203.
+
+Serapeum,  97,  99,  105,  106.
+
+Sermon  on  the,  Mountain,  Secret,
+440.
+
+Serpent,  189,  206,  215 ;  and
+egg,  185,  331  ;  flying,  331  ;
+formed,  189,  190 ;  legend,
+167  ;  rod,  185  ;  symbol,  183.
+
+Serpentine  force,  185,  222.
+
+Servant,  dress  of  a,  215,  216  ;
+form  of  a,  247.
+
+Servers,  76.
+
+Seth  (or  Set),  58,  59,  213  ;  my
+steries  of,  58,  59 ;  Para
+phrase  of,  213.
+
+Setheus,  213,  551,  553.
+
+Sethians,  213.
+
+Seven,  74,  82,  323,  422  ;  amens,
+529;  Elohim,  190;  heads,
+474 ;  heavens,  396 ;  num
+bered  greatness,  372  ;  pillars,
+333;  robed  Isis,  323,
+(nature),  201  ;  spheres,  379,
+396 ;  stars,  398 ;  times,
+491  ;  virgins  of  light,  525  ;
+voices,  516,  523,  524,  526,
+529  ;  women  disciples,  582  ;
+years,  201.
+
+Seventh  day  common  meal,  73.
+
+Seventy,  116,  375,  522.
+
+Severians,  251.
+
+Shakti,  363,  432,  595.
+
+Shame,  of  the  dry,  424  ;  ves
+ture  of,  598.
+
+Sheep,  270  ;    lost,  169.
+
+Sheol,  447.
+
+Shepherd  boy,  Jesus  a,  197.
+
+Sibylline  Oracles,  126.
+
+Siddhis,  302.
+
+Sige,  327.  *
+
+Silence,  173,  313,  336,  341,  377,
+378,  423,  548,  564;  great,
+311  ;  of  five  years,  278,  282.
+
+
+Silences,  524,  529.
+
+Simon,  583  ;  Magus,  168,  164  ;
+of  Cyrene,  283.
+
+Simonian  literature,  167.
+
+Simonians,  160,  423.
+
+"  Sinned,  He  has  not,"  275.
+
+Sinope,  241.
+
+Sins  on  souls,  stamping  of,  499.
+
+Siriadic  land,  58.
+
+Sirius,  58.
+
+Sithians,  198.
+
+Sixty,  fatherhoods,  544 ;  trea
+sures,  540.
+
+Skemmut,  505.
+
+Skin,  coats  of,  190.
+
+Slime,  abysmal,  208.
+
+Smith  and  Wace,  144.
+
+Solomon,  557 ;  odes  of,  470 ;
+seal  of,  317 ;  Wisdom  of,
+298.
+
+Solon,  39,  40.
+
+Son,  alone-begotten,  390 ;  of
+God,  269,  565;  of  man,
+189,  191,  199,  202,  378,  581  ;
+of  father,  60  ;  of  living,  404  ;
+
+Sons,  of  Adam,  599 ;  God,  5,
+266,  268,  303,  353,  354;
+light,  371,  511;  Satan,  174;
+the  man,  372  ;  the  pleroma,
+511.
+
+Sonship,  259,  260,  264,  354,
+555 ;  saviour  of  the,  262  ;
+second,  261  ;  third,  262,  263,
+265,  272,  303.
+
+Sophia,  188,  189,  298,  304,  339,
+561  ;  fall  of,  305  ;  grief  of,
+346;  mythus,  306,  333,  335,
+469  ;  ode  to,  419  ;  redemp
+tion  of,  334.
+
+Soria  y  Mata,  314,  322.
+
+Soteriology,  355  ;  of  Basilides,
+265.
+
+Sothis,  58.
+
+Soul,  277,  387,  496;  clothed
+with  a  proper,  272  ;  descent
+of,  334,  471  ;  great,  467 ;
+hymn  of  the,  403  ;  of  Elias,
+
+
+lii.
+
+
+FRAGMENTS    OF    A    FAITH    FORGOTTEN.
+
+
+461  ;  On  an  Appended,  277  ;
+On  the,  251  ;  plantal  nature
+of,  277  ;  mineral  nature  of,
+277.
+
+Souls,  breathed  out,  219  ;  classes
+of,  139 ;  coming  and  going
+of,  26;  frenzied,  495;  in
+incarnation,  488  ;  return  of,
+23  ;  saviours  of,  492.
+Space,  blessed,  261  ;  crucified
+in,  330;  first,  492;  limit,
+267  ;  middle,  173,  334,  348  ;
+of  first  mystery,  inner,  478,
+479  ;  of  ineffable,  477,  479  ;
+of  twelve  aeons,  465  ;  sun,  263.
+Spaces,  of  light,  three  supernal,
+478  ;  three,  529  ;  three-faced
+and  two-faced,  551  ;  twin,
+463,  477  ;  sublunary,  264,
+268.
+
+Spermatozoon,  331,  536.
+Sphere,    fate,   209;     first,   464;
+
+second,  465.
+
+Spheres,     conversion     of,     465,
+466,   467  ;    purgatorial,   381  ;
+seven,  379,  396.
+Spider,  259.
+Spiral,  331.
+
+Spirit,  434,  475  ;  baptism,  515,
+522;  counterfeit,  276,  496,
+498,  499,  500,  504,  505;
+excellent,  305 ;  fruits  of,
+338;  gifts  of  the,  441;
+holy,  260,  261,  262,  278,  327,
+353,  377,  378,  397,  422,  526 ;
+like  a  dove,  354 ;  limitary,
+266,  267,  269,  272,  343;
+living,  420;  "shall  come
+upon  thee,"  269 ;  virginal,
+203,  531,  583,  584.
+Spirits,  276  ;  mind-born,  563  ;
+
+mundane,  236.
+Splendour,  lord  of,  562.
+Srotapanna,  370.
+Standing  one,  163.
+Statute,   440,   564,    565;     first,
+463,  465.
+
+
+Sublunary  regions,  263  ;  spaces,
+264,  268.
+
+Sun,  473 ;  disk  of,  510 ;  in
+its  true  form,  476  ;  light  of,
+498,  510  ;  space,  263  ;  wor
+ship  of  the,  55.
+
+Superfluity  of  naughtiness,  524.
+
+Supersubstantial,  566.
+
+Supplementary  development,
+259.
+
+Suppliant,  65.
+
+Supplication,  346.
+
+Supporters,  525  ;  five,  529 ;
+great,  479.
+
+Synesis,  588.
+
+Syrian  gnosis,  177.
+
+Syzygy,  305,  423,  468,  472;
+law  of,  321.
+
+Sweat  of  bodies,  467.
+
+
+Tabor,  597.
+
+"  Take  courage,"  460.
+
+Tantra,  367.
+
+Tau,  438.
+
+Tears  of  their  eyes,  467.
+
+Tehuti  (Thoth),  57.
+
+Teii,   323 ;    asons,   337 ;    tribes,
+89.
+
+Tertullian,      149,      293,      590;
+pseudo,  149.
+
+Tetrad,  323,  375,  377.
+
+Tetrads,  357,  378.
+
+Tetragrammaton,  132,  534.
+
+Tetrahedron,  222,  317.
+
+Tetraktys,  350,  373,  390.
+
+Thalatth  (Tiamat),  209.
+
+Thales,  37.
+
+That-which-is,  553.
+
+Thebaid,  101.
+
+Thebes,  103.
+
+Thelesis,  588.
+
+Theocritus,  109.
+
+Theodas,  294.
+
+Theodoret,  150.
+
+Theodotus,  288,  292,  294,  357  ;
+
+
+INDEX.
+
+
+liii.
+
+
+Extracts  from,  287,  292,  332,
+356.
+
+Theophrastus,  104,  223.
+
+Theos,  329.
+
+Therapeut,  name,  66 ;  order,
+62.
+
+Therapeutse,  62,  66,  101.
+
+Therapeutrides,  66.
+
+Therapeuts,  60,  63,  64;  books
+of  the,  71  ;  lay-pupils  of  the,
+84  ;  Philo's  connection  with,
+84  ;  prayers,  of  70  ;  rule,  72.
+
+Theudas,  294.
+
+Thiasi,  50.
+
+Thieves  and  robbers,  353.
+
+Third,  of  their  light,  465  ;  ven
+tricle,  211.
+
+Thirteenth  seon,  325,  466,  468,
+476,  511,  515,  520,  522,  528,
+531,  532,  539.
+
+Thirty  hours,  460  ;  two,  419  ;
+aeons,  421.
+
+Thirtyfold,  328.
+
+Thomas,  602  ;  Acts  of,  419,  422,
+424  ;  palace  of,  424  ;  Gospel
+according  to,  198,  201  ;  Judas,
+419,  424.
+
+Thoth,  57.
+
+Thousand,  one  in  a,  506  ;  years
+of  light,  486.
+
+Thrace,  42.
+
+Thracian  mysteries,  202.
+
+Three  times  accomplished,  474.
+
+Thrice -spiritual,  524,  529.
+
+Thrones,  484.
+
+Thyrsus,  185  ;  bearers,  10.
+
+Timceus,  39,  299.
+
+Titus,  92.
+
+Tobe  (see  Tybi),  278.
+
+Tone,  547.
+
+Tongue,  of  flesh,  438,  552,  578  ;
+of  the  ineffable,  482 ;  wis
+dom's,  421.
+
+Torments,  504.
+
+"  Torn  myself  asunder,"  488,
+505.
+
+Transcendentalists,  186,  209.
+
+
+Transfiguration,      459 ;      story,
+
+370.
+Transmigration,   169,  276,  488,
+
+499,  498,  503.
+Treasure,  267  ;    gates  of,  474 ;
+
+house,  172  ;  light  of  the,  512  ;
+
+of  light,  477,  478,  509,  511,
+
+514,  520,  522,  525;    veil  of,
+
+468,  469  ;  purgations  of,  488  ;
+
+second  light,  530.
+Treasurers,  412.
+Treasures,  172  ;    of  light,  527  ;
+
+of  incorruptible,  192 ;    sixty,
+
+540  ;   type  of,  535.
+Treasury,  406.
+Tree,  221  ;    fig,  218  ;    fire,  172  ;
+
+hanging  on,  342  ;    life-giving,
+
+446  ;  of  knowledge,  487,  505  ;
+
+of  life,  487,  505.
+Trees,  172,  194,  196  ;   five,  523,
+
+529,  544.
+
+Triangle,  207  ;   perfect,  74,  82.
+Trismegistic   literature,   57,   58,
+
+223,  441.
+
+Trismegistus,   Hermes,  58,  440.
+Trojan  war,  43,  44,  168.
+True  God,  530,  533,  534,  535,
+
+537,  542,    559,    587 ;     gods,
+543.
+
+True  Word,  150,  183.
+
+Truth,  419,  549  ;  body  of,  366  ;
+diagram  of,  367  ;  father  of,
+377  ;  gate  of,  204  ;  god  of,
+304,  367,  485,  486,  508;
+name  of,  380  ;  plain  of,  230  ;
+saviour  of,  381.
+
+Twelve,  323,  420,  422,  461,
+500;  aeons,  337,  465,  511,
+531  ;  depths,  548  ;  incarna
+tion  of  the,  460  ;  mysteries,
+485 ;  saviours,  461  ;  the,
+
+538,  542  ;   tribes,  202  ;  years,
+523.
+
+Twin,  of  Jesus,  424  ;  saviours,
+
+529  ;    spaces,  463,  477.
+Twins,  423.
+Tybi,  278,  459.
+
+
+liv.
+
+
+FRAGMENTS    OF    A    FAITH    FORGOTTEN.
+
+
+Typhon,  59.
+Tyrants,  474,  465,  468.
+Tubingen  school,  166.
+Turmoil,  276.
+
+u
+
+Unapproachable,  543,  544  ;  god,
+521,  528  ;  god,  hymn  to  the,
+543  ;  one  and  only,  531.
+
+Uncontainables,  521,  529,  530,
+545,  555,  566.
+
+Under-meaning,  71,  79.
+
+Unguent,  261,  262.
+
+Unknowable,  invisible,  565.
+
+Unknown,  great,  309.
+
+Universality  beyond  being,  257.
+
+Unstainables,  529,  564.
+
+Untitled  Apocalypse,  547.
+
+Unutterable  depth,  188.
+
+Upanishads,  204,  301,  302,  307,
+320,  439.
+
+
+Valentinianism,        285,        286 ;
+
+schools  of,  287.
+Valentinus,  284,  289,  290,  294,
+
+570,    578  ;     gospel    of,    298 ;
+
+myth    of,    306;     "they    of,"
+
+285,   571  ;     Wisdom  of,  298  ;
+
+writings  of,  297.
+Vasus,  327.
+Veil,  322  ;    first,  509.
+Veils,  538  ;    of  thirteenth  aeon,
+
+468  ;    of  treasure,  468,  469.
+Ventricle,  third,  211.
+Vesture,    547,    566 ;     ineffable,
+
+557  ;    of  light,  460,  483,  499  ;
+
+of    shame,    598 ;     of    power,
+
+558.
+Vestures,   562;    of  glory,  472;
+
+of    light,    463 ;     of   ineffable,
+
+501.
+
+Vine,  true,  446.
+Vineyard,  475.
+Virgin,    191,    377,    558;     John
+
+
+the,  484  ;    made  body,  221  ;
+
+mother,    58 ;     of    life,    526 ;
+
+of  light,  476,  491,   497,  517,
+
+(the  judge),  498,  499  ;  matter,
+
+564;    one,  218;    with  child,
+
+203  ;    womb,  215,  225.
+Virginal   spirit,   203,    531,    583,
+
+584.
+
+Virginity,  75,  520.
+Virgins,   251  ;     of   light,    seven,
+
+525.
+Vision,    328 ;     of    Ezekiel,    94 ;
+
+of  Jacob,  202  ;    of  Paul,  227  ;
+
+of  baptism  mysteries,  514.
+Voice,  435,  448  ;  and  name,  171.
+Voices,    seven,    516,    523,    524,
+
+526,  529  ;   three,  536,  541.
+Volkmar,  234.
+Vortex,  329,  331.
+
+w
+
+"  Wake  thou  that  sleepest,"  201.
+
+"  Wanderer,  I  am  a,"  220.
+
+Water,  210  ;  above,  living,  200  ;
+baptism  of,  515,  522  ;  "  Ex
+cept  a  man  be  born  of,"  221  ;
+image  of,  424 ;  life-giving,
+197,  216,  515;  of  life,  201,
+565,  (baptism  of),  524 ;  of
+pure  light,  584  ;  whirl,  323.
+
+Waters  of  Jordan,  185,  204.
+
+Way,  433,  448  ;  of  error,  448  ;
+of  the  first  man,  448  ;  of  midst,
+498,  510,  511,  513,  514,  546;
+to  god,  3,  32,  223.
+
+Wedding,  feast,  great,  397 ;  gar
+ment,  405.
+
+"  When  two  shall  be  one,"  595.
+
+"  Where  is  he  ?  "  475.
+
+"  Where,  then,  O  Egypt,"  466.
+
+"  Which  things  I  hate,"  239.
+
+Whirlpool,  vast,  331.
+
+Whirlwind,  mighty,  185.
+
+"  Why  callest  thou  me  Good,"
+201.
+
+Wiedemann,  301.
+
+
+INDEX.
+
+
+Iv.
+
+
+Wine,  jars  of,  524.
+
+"  Wing  or  thought,"  260.
+
+Winged  globe,  473.
+
+Wings,  260.
+
+Wisdom,  27,  37,  169,  226,  331,
+333  ;  above,  375,  396  ;  below,
+376,  396  ;  Chaldsean,  89,  94  ;
+cup  of,  516  ;  declared  in  a
+mystery,  268  ;  god  of,  57  ;
+goddess  of,  41  ;  harmony  of,
+436  ;  hymn  to,  419  ;  lovers,
+60;  of  deity,  9;  of  Egypt,
+38,  57  ;  of  Jesus  Christ,  152,
+580,  582,  589  ;  of  Solomon,
+298  ;  of  Valentinus,  298  ;
+
+Within,  looking,  473,  474,  486.
+
+Womb,  impure,  215 ;  virgin,
+215,  225  ;  world,  225.
+
+Women  disciples,  75,  251,  582.
+
+Word  (see  Logos),  363,  368,  434,
+435,  438,  448,  587  ;  and  life,
+323,  336,  374  ;  Christ  is  the,
+448  ;  made  flesh,  390  ;  one
+and  only,  482.
+
+Words,  354,  442,  507,  508;  of
+the  Lord,  138 ;  of  Saviour,
+385  ;  of  truth,  485  ;  or  angels,
+352 ;  or  minds,  351  ;  un
+speakable,  269.
+
+Workman  (see  Demiurge),  349,
+350,  351,  353.
+
+Worm,  180,  189.
+
+Wrath,  436  ;  of  their  iniquity,
+512  ;  receivers  of,  491,  497  ;
+workmen  of,  497.
+
+
+Wreath,  442,  555,  557.
+Wreaths,  556.
+
+
+X
+
+
+Xerxes,  38.
+
+
+Yahoo,  534.
+
+Yahweh,    92,    138,    179,    534;
+
+friends   of   God,    enemies   of,
+
+225.
+
+Yantras,  367.
+Yhvh,  534.
+Yoga,  302.
+Yogins,  429.
+Yod,  222.
+
+
+Zahn,  417.
+
+Zama,  zama,  462.
+
+Zealot,  94.
+
+Zealotism,  91,  92,  97.
+
+Zeus,  511,  512  ;    all-father,  41.
+
+Zodiac,  signs  of,  209,  325,  379,
+448.
+
+Zoroaster,  7.
+
+Zoroasters,  last  of  the,  37.
+
+Zoroastrian  logia,  172 ;  tradi
+tion,  87.
+
+Zoroastrianisrn,  91,  177,  278.
+
+Zorokothora  (Melchizedec),  512,
+525,  526.
+
+
+INTRODUCTION.
+
+
+The  whole  creation  groaneth  and  travaileth  together
+waiting  for  the  manifestation  of  the  Sons  of  God.
+
+PAUL  (according  to  Gnostic  tradition.)
+
+
+PROLEGOMENA.
+
+
+MYSTERIOUS  Time  is  once  more  big  with  child  and
+labouring  to  bring  forth  her  twentieth  babe,  as  the  The  Creed  of
+Western  world  counts  her  progeny ;  for,  according
+to  the  books,  just  nineteen  children  of  her  centen
+arian  brood  have  lived  and  died  since  He  appeared
+to  whom  all  Christians  look  as  Teacher  of  the  Way
+to  God.  The  common  conscience  of  the  General
+Church  flows  not  only  from  the  fact  that  all
+believe  He  is  the  Teacher  of  the  Way,  but  from
+the  faith,  He  is  that  Way  itself.  This  is  the
+common  bond  of  Christians  the  world  over,  and
+this  has  been  the  symbol  of  their  union  through
+out  the  centuries.  Some  nineteen  hundred  years
+ago  the  Illuminator  appeared  and  light  streamed
+forth  into  the  world — such  is  the  common  creed
+of  the  adherents  of  the  great  religion  of  the
+Western  world.
+
+As  the  honorific  inscriptions  said  of  the  birth
+day  of  the  Roman  Emperor  Augustus,  so  said
+after  them  all  Christians  of  the  natal  day  of
+Jesus :
+
+3
+
+
+4  FRAGMENTS   OF   A    FAITH    FORGOTTEN.
+
+"  This  day  has  given  the  earth  an  entirely  new
+aspect.  The  world  would  have  gone  to  destruction
+had  there  not  streamed  forth  from  him  who  is
+now  born  a  common  blessing.
+
+"  Rightly  does  he  judge  who  recognises  in  this
+birth-day  the  beginning  of  life  and  of  all  the
+powers  of  life ;  now  is  that  time  ended  when  men
 pitied  themselves  for  being  born.
 
 "  From  no  other  day  does  the  individual  or  the
@@ -13549,7 +16932,7 @@ of    Friends.
 "  Many  of  these  things  which  are  written  in
 the  public  volumes,  are  found  written  in  the  Church  Concerning
 
-*     j»i    -j'         n  1 1  i   •  i  •    i  tne  Pe°Ple  °
+*     j»i    -j'        <n  1 1  i   •  i  •    i  tne  Pe°Ple  °
 
 01  God.     For    those  teachings  which    are    common,  the  Beloved.
 are   the   words  which   proceed    from  the  heart,   the
@@ -14806,7 +18189,7 @@ The  emanated    and    generated    Mind -and -Truth,    that    is
 
 Parents  ot
 
-the  . Eons.  to  say,  the  dyad,  which  is  Lady  and  Beginning,
+the  .<Eons.  to  say,  the  dyad,  which  is  Lady  and  Beginning,
 and  Mother  of  all  the  aeons  they  reckon  in  the
 Pleroma.  And  Mind -and -Truth,  having  been
 emanated  from  the  Father,  possessing  the  power
@@ -16180,7 +19563,7 @@ is  the  Alpha  and  Omega  (1  and  800)  of  the  diagram,
 the  first  and  last  of  the  numbers,  representing  the
 head.  Moreover  the  word  for  "dove"  in  Greek  is
 Trepia-repd,  and  80  (TT)  +  5  (e)  +  100  (/o)  +  10  (i)  +
-200  ( r)  -f  300  (r)  +  5  (e)  +  100  (p)  +  1  (a)  =  801.
+200  (<r)  -f  300  (r)  +  5  (e)  +  100  (p)  +  1  (a)  =  801.
 
 Again,  it  was  on  the  "  sixth  day,"  the  "  prepara
 tion,"  that  the  divine  economy,  or  order  of  things,
@@ -16282,7 +19665,7 @@ speech  gives  the  name  of  Monad  (or  Nought).
 374  FRAGMENTS  OF   A    FAITH   FORGOTTEN.
 
 With  this  Monad  consubsists  a  power  of  equal  sub
-stance  (6^ooJ T(o?)  with  it,  which  I  call  One.  These
+stance  (6^ooJ<T(o?)  with  it,  which  I  call  One.  These
 powers,  Noughtness,  Oneness,  Nought  and  One,  send
 forth  the  rest  of  the  emanations  of  the  aeons.
 
@@ -16706,7 +20089,7 @@ the  world-process  cannot  be  the  work  of  an  unjust
 power,  for  the  Saviour  Himself  declared  that  a  house
 divided  against  itself  cannot  stand  ;  and  the  "Apostle"
 long  ago  robbed  of  its  sting  the  "  baseless  wisdom  "
-(awTTOG-TGLTov  (ro(j)iav)  of  such  liars,  in  the  words,  "  all
+(awTTOG-TGLTov  ‹ro<j›iav)  of  such  liars,  in  the  words,  "  all
 things  were  made  by  Him,"  the  Logos,  and  not  by  a
 god  of  destruction.
 
@@ -20703,7 +24086,7 @@ possess  all  its  Gnosis.
 
 The  Master  then  continues  His  description  of  the
 Gnosis  of  the  Mystery  of  the  Ineffable,  resuming  it  at  Concerning
-the    point    where    He    had    broken    off,    and    leading  Word   rf  the
+the    point    where    He    had    broken    off,    and    leading  Word  <rf  the
 them    higher   and   higher  into   the   supernal  heights  Ineffable-
 through     space     after    space,    and     hierarchy    after
 hierarchy,   of   stupendous   being   and    its  emanation,
@@ -23127,7 +26510,7 @@ the  Realm  of  Light.
 
 He  first  shows  them  leou  in  his  own  nature,  as  a
 simple  emanation  from  the  Ineffablo  Treasures  of  the
-Father,  before  he  has  in  his  turn   ent  forth  emana
+Father,  before  he  has  in  his  turn  <ent  forth  emana
 tions  by  the  command  of  the  Father.  A  strange
 combination  of  letters  and  signs  is  said  to  be  the
 
@@ -27509,3 +30892,474 @@ say  whether  his  attempt  to  get  back  to  the  real  Apollonius  has  been 
 
 
 THE  THEOSOPHICAL  PUBLISHING  SOCIETY,  LONDON  AND  BENARES.
+
+
+WORKS    BY   THE   SAME   AUTHOR.
+
+
+respects  his  account  is  plausible,  and  quite  possibly  may  represent  the  facts At
+
+any  rate,  impartial  students  will  be  grateful  for  his  sympathetic  vindication  of  Apollonius
+from  the  too  frequent  charge  that  he  was  nothing  better  than  a  charlatan.  He  thinks  that
+Apollonius  must  surely  have  visited  some  of  the  Christian  societies,  and  have  met  with  Paul,
+if  not  earlier,  at  least  at  Rome  in  66.  It  seems  to  us  very  problematical  that  he  should  have
+taken  any  interest  in  the  Christians,  though  the  probability  would  be  much  ennanced  if  Mr.
+Mead's  view  of  primitive  Christianity  could  be  substantiated." — The  Primitive  Methodis
+Quarterly  Review.
+
+"  Students  of  the  religious  history  of  the  earlier  centuries  of  the  Christian  era  are  already
+indebted  to  Mr.  Mead  for  his  elucidations  of  more  than  one  obscure  document  of  that  remote
+age.  His  account  of  Apollonius  of  Tyana  will  be  all  the  more  welcome  because,  treating  its
+subject  without  theological  or  denominational  prepossessions,  it  reveals  the  ancient  philo
+sopher  in  a  new  light,  which  may  very  well  be  also  a  true  one.  .  .  .  Mr.  Mead  gives
+a  readable  and  well-studied  account  of  him,  reviewing  what  little  remains  known  of  his  life,
+and  inquiring,  without  controversy,  what  must  have  been  the  character  of  one  who  had  so
+real  an  influence  on  the  religious  life  of  his  time The  book  is  rich  in  sugges
+tions  of  the  actualities  of  the  religious  life  of  the  ancient  world  when  Christianity  was  still
+in  its  infancy.  It  is  well  worthy  of  the  attention  of  all  who  are  interested  in  the  subject." —
+The  Scotsman.
+
+"  This  little  book  is  an  attempt  to  tell  us  all  that  is  definitely  known  of  one  of  the  most
+extraordinary  figures  in  history.  .  .  .  It  is  done  in  the  main  with  absolute  impartiality,
+and  with  considerable  learning.  It  is  not  a  satisfactory  book,  but  it  is  useful  and  interesting,
+and,  in  default  of  anything  better,  it  may  be  recommended." — Saturday  Review.
+
+"  The  task  Mr.  Mead  has  set  himself  is  to  recover  from  Philostratus'  highly  romantic
+narrative  the  few  facts  which  can  be  really  known,  and  to  present  to  the  public  a  plain  and
+simple  story  which  shall  accord  with  the  plain  and  simple  life  of  the  humble  Tyanean  ;  and
+he  has  achieved  no  little  success.  His  book  is  thoroughly  readable,  the  manner  of  writing
+
+most  attractive,  and  his  enthusiasm  evidently  sincere Mr.  Mead's  last  work  is
+
+a  thoroughly  scholarly  one,  and  he  has  contributed  a  very  valuable  page  to  philosophical
+history." — Chatham  and  Rochester  Observer.
+
+"  Mr.  Mead's  works  are  always  worth  reading.  They  are  characterised  by  clearness,
+sanity,  and  moderation  ;  they  are  scholarly,  and  are  always  conceived  in  a  profoundly
+religious  spirit.  The  bibliographies  are  excellent.  With  Mr.  Mead's  workmanship  we  have
+only  one  fault  to  find.  In  order  to  give  elevation  to  the  utterances  of  his  hero,  he  not  only
+affects  poetical  expressions — which  is  permissible — and  poetical  inversions  of  speech — which
+are  not  permissible — but  he  indulges  in  a  whole  page  of  irregular  blank  verse.  Mr.  Mead  is
+master  of  an  excellent  prose  style,  and  Pegasus  is  a  sorry  hack  when  Pegasus  goes  lame."—
+Journal  of  the  Royal  Asiatic  Society.
+
+"  This  well -written  volume  afford?  a  critical  study  of  the  only  existing  record  of  the
+
+life  of  Apollonius  of  Tyana His  principles,  his  mode  oi  teacning.  his  travels  in
+
+the  east  and  in  the  south  and  west,  his  mode  of  life,  his  sayings,  letters,  and  writings  and
+bibliographical  notes,  are  all  set  forth  in  a  clear  and  interesting  style.'' — Asiatic  Quarterly
+Review.
+
+"  Verfasser  will  auf  Grund  der  philoetratischen  Biographic  ein  Bild  vom  Leben  and
+Wirken  des  Apollonius  geben.  Es  fehlt  ihm  dazu  nich  an  besonnenen  Urteil,  eben  so  wenig
+
+an  der  notigen  Belesenheit  in  der  einschlagigen  Litteratur Verf .  halt  sich  auch,
+
+obwohl  offenbar  selbst  Theologe,  frei  von  der  theologischen  Voreingenommenneit,  die  bei
+der  Beurteilung  des  Apollonius  so  fruh  und  so  lange  Unheil  gestiitet  hat."— Wochenschrift
+fur  klassische  Philologie.
+
+
+'O    x..    Mead   >yp%^£A    Atav   yXa^Upw?,    TrpayjutaTEfsrai    dt    TO    Ofp-a   TOV
+fljcova   TOU    a-v^po?. — Erevna.
+
+THE  THEOSOPHICAL  PUBLISHING  SOCIETY,  LONDON  AND  BENAEES.
+
+
+WORKS    BY   THE   SAME    AUTHOR.
+
+
+THE  GOSPELS  AND  THE  GOSPEL  :
+
+A   STUDY   IN   THE   MOST    RECENT    RESULTS    OF   THE
+LOWER    AND    THE    HIGHER    CRITICISM.
+
+SYNOPSIS     OF    CONTENTS.
+
+Preamble — A  Glimpse  at  the  History  of  the  Evolution  of  Biblical  Criti
+cism — The  "  Word  of  God  "  and  the  "  Lower  Criticism  " — The  Nature  of
+the  Tradition  of  the  Gospel  Autographs — Autobiographical  Traces  in  the
+Existing  Documents — An  Examination  of  the  Earliest  Outer  Evidence —
+The  Present  Position  of  the  Synoptical  Problem — The  Credibility  of  the
+Synoptists — The  Johannine  Problem — Summary  of  the  Evidence  from  all
+Sources — The  Life-side  of  Christianity — The  Gospel  of  the  Living  Christ.
+
+200  pp.      Large  octavo.     Cloth,  4s.   6d.   net.
+
+SOME    PRESS    NOTICES.
+
+"  A  clear,  intelligent,  and  interesting  account  of  the  history  of  the  development  of
+Biblical  criticism  ....  a  thoughtful  and  learned,  yet  readable  book,  which  well  deserves
+the  attention  of  readers  interested  in  its  subject." — The  Scotsman.
+
+"  Mr.  Mead  begins  with  a  sketch  of  the  recent  progress  of  Biblical  criticism.  The  tone
+is  not  altogether  what  one  would  wish — the  '  Conservatives  '  were,  after  all,  fighting  for  what
+they  held  to  be  very  precious — but  it  is  substantially  true." — Spectator.
+
+"  Mr.  Mead  describes  his  book  as  '  a  study  in  the  most  recent  results  of  the  higher  and
+the  lower  criticism.'  The  description  is  incomplete  rather  than  inadequate,  for  the  study
+is  made  from  a  neo-Gnpstic  point  of  view,  and  under  neo-Gnqstic  prepossessions.
+Mr.  Mead  has  shown,  in  previous  volumes,  how  the  fascinating  glamour  of  their  writings
+has  attracted  him,  and,  though  they  are  mainly  represented  by  imperfect  but  suggestive
+fragments,  he  has  done  his  best  to  reconstruct  them  and  to  revive,  where  possible,  their  lin
+gering  vitality.  His  work,  on  these  lines,  has  met  with  due  appreciation He
+
+regards  Gnosticism  as  a  suppressed  religion  which  may  yet  result  in  an  all-embracing  creed,
+which  will  combine  and  focus  the  scattered  rays  now  dispersed  abroad  among  divergent
+faiths."— Sheffield  Daily  Telegraph.
+
+"  In  his  modest  preamble  the  author  describes  himself  as  neither  scientist  nor  theologian,
+but  as  '  a  friendly  spectator,  who,  as  a  devoted  lover  of  both  science  and  religion,  has  no
+partisan  interest  to  serve,  and,  as  a  believer  in  the  blessings  of  that  true  tolerance  which  per
+mits  perfect  liberty  in  all  matters  of  opinion  and  belief,  has  no  desire  to  dictate  to  others
+what  their  decision  should  be  on  any  one  of  the  many  controversial  points  touched  upon.'
+Further  on  he  strongly  advises  the  '  disturbed  '  reader,  '  who  fears  to  plunge  deeper  into
+the  free  waters  of  criticism,'  to  '  leave  the  matter  alone,  and  content  himself  with  the  creeds
+and  cults  of  the  churches.'  We,  therefore,  cannot  complain  if  in  the  sequel  he  puts  forth
+conclusions  widely  different  from  those  generally  held,  even  in  this  '  advanced  '  age,  by  the
+average  thoughtful  student.  He  claims  to  treat  the  subject  '  without  fear  or  favour,'  and,
+while  disclaiming  the  '  ultra-rationalism  '  of  the  '  extreme  school '  of  criticism,  he  neverthe
+less  '  feels  himself  compelled  largely  to  accept  the  proofs  brought  forward  of  the  unhistorical
+nature  of  much  in  the  Gospel  narratives,  and  also  the  main  positions  in  all  subjects  of  Gospel
+criticism  which  do  not  involve  a  mystical  or  practical  religious  element.'  As  a  theosophist,
+he  seems  to  have  a  peculiar  affection,  on  mystical  grounds,  for  the  fourth  Gospel,  which,
+however,  he  sees  fit  to  class  with  Hermes  Trismegistus.  It  would  be  far  too  elaborate  a  task
+to  attempt  to  deal  with  the  details  of  his  argument  here.  Its  results  claim  to  be  based  on
+Nestle's  deservedly  popular  work.  Anyone  who  wishes  to  see  Nestle  theosophically  inter
+preted  may  well  read  Mr.  Mead's  lucid  and  interesting  pages  for  himself There
+
+are  many  other  points  we  should  criticise  if  we  had  space.  But  there  are  many  points,  on
+the  other  hand,  which  call  for  hearty  commendation  ;  not  least,  Mr.  Mead's  crusade  against
+book- worship." — The  Guardian.
+
+"  This  work  consists  of  various  chapters  which  have  appeared  from  time  to  time  iu  a
+Review  devoted  to  the  study  of  religion  from  an  entirely  independent  point  of  view,  and
+perused  by  a  class  of  readers  belonging  to  many  Churches  of  Christendom,  to  schools  or  sects
+of  Brahmanism,  Buddhism,  Mohammedanism,  Zoroastrianism,  and  others  wno  follow  no
+religion.  The  author  considers  that  the  controversies  which  have  been  waged  under  the  term
+of  the  '  Higher  Criticism  '  have  almost  exclusively  been  that  of  progressive  knowledge  of
+physical  facts  (natural,  historical,  and  literary)  and  the  conservatism  of  theological  tradi
+tional  views,  and  never,  at  any  time,  between  Science  and  Religion  in  their  true  meaning."
+— Asiatic  Quarterly  Review.
+
+"  While  Mr.  Mead  is  thus  in  general  agreement  with  the  extreme  left  wing  in  criticism,
+
+he  is  very  far  from  adopting  their  rationalistic  point  of  view As  to  dates,  the
+
+author  assigns  all  the  Gospels  to  the  reign  of  Hadrian.     The  phenomena  of  the  Synoptic
+
+
+THE  THEOSOPHICAL  PUBLISHING  SOCIETY,  LONDON  AND  BENARES.
+
+
+WORKS    BY    THE    SAME    AUTHOR.
+
+
+Gospels,  he  thinks,  point  to  concerted  effort,  and  he  believes  that  they  were  written  in  Egypt.
+It  is  not  surprising  that  he  lays  much  stress  on  Gnosticism,  but  he  has  no  wish  to  revive  it.
+He  rather  pleads  that  we  should  study  it  with  a  view  to  recovering  precious  truths  that  have
+been  lost.  The  book  is  written  in  a  pleasant  style,  and  we  have  read  it  with  interest,  but
+we  cannot  regard  it  as  Mr.  Mead's  most  successful  effort."  —  The  Primitive  Methodist
+Quarterly.
+
+"  This  anlysis  of  the  '  Gospels,'  however,  is  preliminary  to  a  vindication  of  that  eterna
+'  Gospel  '  which  lies  beneath  all  such  literature.  Mr.  Mead  contends  that  this  Gospel  may  be
+discovered  in  Gnostic  writings  which  were  condemned  by  the  early  Christian  Church  as
+heresies.  He  admits  freely  that  the  forms  of  the  ancient  '  Gnosis  '  cannot  now  be  revived,
+but  he  finds  in  the  popular  Evangelical  doctrine  of  the  living  Christ  an  adumbration  of  the
+ancient  wisdom  of  the  condemned  Gnostics.  But  the  Christ  of  Mr.  Mead's  teaching  is  one
+of  a  sacred  brotherhood,  including  Buddha,  Krishna,  Zoroaster,  and  other  great  enlighteners
+of  the  race.  These  are  all  living  spiritual  energies,  inspiring  and  guiding  mankind  in  its  toil
+some  quest  for  truth  and  righteousness.  Readers  will  find  in  Mr.  Mead's  thoughtful  and
+scholarly  pages  much  that  will  help  in  that  rational  and  spiritual  reconstruction  which  ia
+the  great  religious  task  of  the  hour."  —  Yorkshire  Daily  Observer.
+
+
+TOJV  &p%u>v  rov  ;£pi£rTtavi‹y]u,o›j  x.  G.  K..  >S.  Mead  \
+
+ivirtv  apri  JU-?XET»!V  Trspi  r-nc  ^pto-rtavtJt^r  ^UXotfo^tac  Ifo^w;  did'ajcTtJtnv.  .      O
+
+K.    Mea<l    fivs    sis    TWV    KQfVQetun   <7x.a7ravEOJv    rns    Ipivwiriyjric   roe,i/rric    spyacr*a£    nai
+Trav    o  ,    TI    ypa<£>?t    Kfivit)    *ota.£bi/<7»K    TTpOiro^rs     aftov.       .       .      .       'E/x7rv?0|UHv&c    tTro
+Trie    vyiovc    rocvrvic    ap^r,^    o    x.    Mead    <7Vv?T5?iE(Tsv    lo-^arwr    Qau^acnov    "pyov."-
+Erevna.
+
+
+DID   JESUS    LIVE   100    B.C.  ?
+
+An  Enquiry  into  the  Talmud  Jesus  Stories,  the  Toldoth  Jeschu,  and
+some  Curious  Statements  of  Epiphanius — Being  a  Contribution  to  the
+Study  of  Christian  Origins.
+
+440,  xvi.   pp.     Large  octavo.     Cloth,  9s.  net.
+
+SOME    PRESS     NOTICES.
+
+"  A  close  and  learned  investigation Mr.  Mead  is  a  theosophical  scholar
+
+whose  previous  works  dealing  with  Gnosticism  and  Gospel  criticism  are  of  some  value  not
+only  to  theosophists,  but  to  theologians." — The  Times.
+
+"  On  the  examination  of  these  little  known  tales  Mr.  Mead  expends  an  amount  of
+patience,  labour,  and  learning  which  the  ordinary  man  ....  would  deem  ridiculous.
+Happily,  however,  the  world  is  not  yet  peopled  exclusively  with  fat,  plump,  commonplace
+people,  and  those  who  follow  Mr.  Mead  can  be  sure  of  reward  in  matter  which  will  set  them
+thinking.  .  .  .  These  researches  are  contributions  to  the  study  of  the  origins  of  Chris
+tianity,  and  their  uniqueness  lies  in  the  fact  that  very  few  writers  ever  enter  the  fields  where
+Mr.  Mead  works  with  such  praiseworthy  diligence.  The  ordinary  reader  trusts  too  implicitly,
+in  these  matters,  to  his  Geikie  and  his  Farrar,  and  even  the  student  who  has  the  dash  of  the
+heretic  in  him  is  too  easily  contented  with  his  Zienan.  For  both  these  classes  of  readers  Mr.
+Mead's  chapters  will  open  up  new  fields  of  thought.  The  reader  will  find  himself  in  the  midst
+of  those  fierce  fanaticisms,  and  weird,  occult  theosophies  which  were  part  of  the  atmosphere
+in  which  infant  Christianity  grew.  Without  an  adequate  acquaintance  with  these,  Christian
+origins  cannot  be  understood.  This  knowledge  Mr.  Mead's  readers  will  obtain  if  they  follow
+him  closely,  and  their  view  of  the  beginnings  of  Christianity  will  be  correspondingly  full  and
+true." — The  Yorkshire  Daily  Observer.
+
+"  Mr.  Mead's  previous  wanderings  in  historic  by-ways  have  resulted  in  much  curious
+lore  associated  with  Gnosticism  and  the  Neo-Platonists,  and  he  seems  to  have  been
+
+attracted  to  this  adjacent  field  as  one  likely  to  contain  hidden  treasure For
+
+those  who  desire  an  introduction  to  this  branch  of  literature,  Mr.  Mead  has  made  it  easily
+accessible."— Tie  Sheffield  Daily  Telegraph.
+
+"  Written  by  a  professed  theosophist,  this  work  is  yet  entirely  free  from  the  taint  of
+dogmatism  of  any  kind.  It  is  indeed  a  valuable  contribution  to  the  literature  on  the  subject,
+which  is  as  abundant  as  it  is  chaotic.  The  author  has  collected  and  reviewed  this  mass,  and
+has  summarised  and  criticised  it  until  he  has  shaped  it  into  something  of  a  coherent  whole.
+The  Rabbinical  and  other  Hebrew  legendary  and  historical  matter  dealing  with  the  reputed
+origin  and  life  of  the  Messiah  is  carefully  sifted,  and  the  subject  is  approached  with  befitting
+
+reverence That  the  book  is  most  valuable  from  a  suggestive  point  of  view
+
+cannot  be  denied.     It  merits  the  attention  of  all  interested  in  Christian  criticism." — The
+Scotsman.
+
+
+THE  THEOSOPHICAL  PUBLISHING  SOCIETY,  LONDON  AND  BENARES.
+
+
+WORKS    BY   THE    SAME    AUTHOR.
+
+
+"  This  book,  with  its  remarkable  title,  deals  in  a  very  critical  spirit  with  the  origins  of
+Christianity.  .  .  .  Although  critical  in  the  highest  degree,  the  author  does  not  dogmatise
+and  preserves  a  philosophical  calm  thought." — The  Chatham  and  Rochester  Observer.
+
+"  The  author  of  this  learned  work  is  not  propounding  a  mere  theological  riddle,  nor  can
+he  be  said  to  be  coming  forward  wantonly  merely  to  increase  the  number  of  puzzles  that
+
+confront  the  student  of  Christian  origins The  author  has  been  a  very  diligent
+
+student  of  the  Talmud,  and  perhaps  his  lengthened  account  of  that  extraordinary  body  of
+
+traditions  is  one  of  the  best  in  our  language The  argument  throughout  is  marked
+
+by  great  erudition  and  remarkable  modesty." — The  Glasgow  Herald.
+
+"  The  question  is  not  a  fool's  question.  It  is  serious,  and  Mr.  Mead  takes  it  seriously."
+— The  Expository  Times.
+
+"  Mr.  Mead  has  done  much  first-rate  work,  on  un traditional  lines,  in  early  Church  his
+tory,  and  has  propounded  theorems  of  which  a  good  deal  more  will  be  heard.  He  always
+writes  as  a  scholar,  with  complete  avoidance  of  infelicities  of  theological  utterance  such  as
+too  often  have  handicapped  suggestive  heterodoxies." — The  Literary  World.
+
+"  The  materials  for  the  further  pursuit  of  the  inquiry  are  all  brought  together  in  this
+volume,  and  the  author  is  at  very  evident  pains  to  hold  the  balance  carefully  as  between
+the  different  authorities  whom  he  quotes.  He  has  read  everything  of  any  importance  that
+has  been  published  relating  to  the  subject  of  which  he  treats.  He  is  evidently  a  very  widely
+read  man,  and  is  possessed  of  much  critical  acumen,  as  also  of  all  the  best  qualifications  of
+historical  inquiry  and  original  research.  The  work  will,  we  doubt  not,  be  largely  read  by
+Christian  theologians." — The  Asiatic  Quarterly  Review.
+
+"  This  is  the  fifth  book  by  Mr.  Mead  that  we  have  had  the  pleasure  of  bringing  before
+our  readers.    In  our  notices  of  his  earlier  volumes  we  have  been  glad  to  recognise,  whether
+we  agreed  with  him  or  not,  the  learning,  the  earnestness,  the  scientific  method,  and  the  deep
+religious  spirit  by  which  they  have  been  animated.     The  title  of  the  present  volume  will,
+we  anticipate,  cause  many  readers  to  regard  it  as  a  piece  of  cranky  speculation.     .     .     .
+It  is  not,  however,  a  work  to  be  dismissed  with  a  mere  shrug  of  the  shoulders.     .     .     .
+Mr.  Mead  has  brought  out  not  simply  an  interesting  but  a  valuable  work,  even  apart  from
+the  special  thesis  which  he  investigates." — The  Primitive  Methodist  Quarterly  Review.
+
+"  I  would  direct  the  attention  of  educated  scholarly  men  to  a  very  remarkable  book
+
+.    written  by   G.   R.   S.  Mead I  invite  our  educated  and  serious-
+
+rninded  Protestant  clergymen  everywhere  to  read  this  book  and  tell  me,  privately,  what
+they  think  about  it." — Standish  O'  Grady,  in  The  All  Ireland  Review.
+
+"  A  much  more  remarkable  collection  of  apocrypha  is  the  subject  of  a  curious  book  by
+Mr.  Mead,  known  to  the  small  public  who  are  interested  in  such  things  as  learned  in  the  fan
+tasies  of  Gnosticism We  have  not  often  read  a  learned  book  from  which  we
+
+dissent  so  widely  with  more  genuine  interest,  and  we  are  bound  to  recognise  the  dignified
+and  scholarly  fashion  in  which  Mr.  Mead  puts  forward  his  theses,  strange  and  impossible  as
+some  of  them  seem  to  us  to  be. — The  Pilot.
+
+
+PISTIS   SOPHIA:     A  Gnostic   Gospel.
+
+(With  Extracts  from  the  Books  of  the  Saviour  appended.)  Originally
+translated  from  Greek  into  Coptic,  and  now  for  the  first  time
+Englished  from  Schwartze's  Latin  Version  of  the  only  known  Coptic
+MS.,  and  checked  by  Amelineau's  French  version.  With  an  Intro
+duction  and  Bibliography.  394,  xliv.  pp.  large  octavo.  Cloth.
+7s.  6d.  net.
+
+(Out  of  Print.     A  Revised  Edition  is  contemplated.)
+
+SOME    PRESS    OPINIONS.
+
+"  The  '  Pistis  Sophia  '  has  long  been  recognised  as  one  of  the  most  important  Gnostic
+documents  we  possess,  and  Mr.  Mead  deserves  the  gratitude  of  students  of  Church  History
+and  of  the  History  of  Christian  Thought,  for  his  admirable  translation  and  edition  of  this
+curious  Gospel." — Glasgow  Herald.
+
+"  Mr.  Mead  has  done  a  service  to  other  than  Theosophists  by  his  translation  of  the
+
+'  Pistis  Sophia.'    This  curious  work  has  not  till  lately  received  the  attention  which  it  deserves
+
+.     .     .     .     He  has  prefixed  a  short  Introduction,  which  includes  an  excellent  bibliography.
+
+Thus,  the  English  reader  is  now  in  a  position  to  judge  for  himself  of  the  scientific  value  of
+
+the  only  Gnostic  treatise  of  any  considerable  length  which  has  come  down  to  us." — Guardian
+
+"  From  a  scholar's  point  of  view  the  work  is  of  value  as  illustrating  the  philosophico-
+mystical  tendencies  of  the  second  century." — Record.
+
+"  Mr.  Mead  deserves  thanks  for  putting  in  an  English  dress  this  curious  document  from
+the  early  ages  of  Christian  philosophy." — Manchester  Guardian.
+
+THE  THEOSOPHICAL  PUBLISHING  SOCIETY,  LONDON  AND  BENARES
+
+
+WORKS   BY   THE   SAME   AUTHOR.
+
+
+THE    THEOSOPHY    OF    THE    GREEKS,
+
+
+PLOTINUS.
+
+With   Bibliography.     Octavo.     Cloth,   Is.  net.
+
+
+THE  THEOSOPHY  OF  THE  VEDAS.
+
+
+THE  UPANISHADS  :   2  Volumes.
+
+Half   Octavo.      Cloth,    Is.    6d.   each  net.
+
+VOLUME   I.
+
+Contains  a  Translation  of  the  Isha,  Kena,  Katha,  Prashna,  Munclaka,  and
+Mandukya  Upanishads,  with  a  General  Preamble,  Arguments,  and
+Notes  by  G.  R.  S.  Mead  and  J.  C.  Chattopadhyaya  (Roy  Choudhuri).
+
+VOLUME  II.
+
+Coit-ains    a    Translation    of    the    Taittirlya,    Aitareya,    and    Shvetashvatara
+Upanishads,    with    Arguments    and    Notes.
+
+FRENCH  TRANSLATION.
+LA    THEOSOPHIE    DES    VEDAS  :     NEUF    UPANISHADS.
+
+Traduction  fra^aise,  de  E.  Marcault.  Paris  :  Librairie  de  1'Art  Independant,
+10  rue  Saint- Lazare.
+
+
+SIMON  MAGUS  :   An  Essay.
+
+Quarto.     Wrappers,   5s.  net.     (Out  of  print.)
+
+
+THE  WORLD  MYSTERY :   Four  Essays.
+
+Contents  :  The  World-Soul  ;  The  Vestures  of  the  Soul  ;  The  Web  of
+Destiny;  True  Self-reliance.  Octavo.  Cloth,  3s.  6d.  net.  (Out
+of  print.)
+
+
+Orpheus.
+
+
+With  three  Charts  and  Bibliography.  Will  serve  as  an  Introduction
+to  Hellenic  Theology.  Octavo,  Cloth,  4s.  6d.  net.  (Out  of
+print.)
+
+
+THE  THEOSOPHICAL  PUBLISHING  SOCIETY,  LONDON  AND  BENARES.
+
+
+WORKS    BY    THE   SAME   AUTHOR.
+
+
+THRICE=QREATE5T    HERMES.
+
+Studies  in  Hellenistic  Theosophy  and  Gnosis.  Being  a  Translation  of
+the  Extant  Sermons  and  Fragments  of  the  Trismegistic  Literature,  with
+Prolegomena,  Commentaries,  'and  Notes.
+
+Vol.   I. — Prolegomena. — pp.  xvi.,  481.
+
+Vol.    II.— Sermons.  — pp.  xi.,  403.
+
+Vol.   III. — Excerpts  and  Fragments. — pp.  xii.,  371.
+
+Vol.  I. — i.  The  Remains  of  the  Trismegistic  Literature  ;  ii.  The  History
+of  the  Evolution  of  Opinion  ;  iii.  Thoth  the  Master  of  Wisdom  ;
+iv.  The  Popular  Theurgic  Hermes-Cult  in  the  Greek  Magic  Papyri  ;
+v.  The  Main  Source  of  the  Trismegistic  Literature — Manetho  High
+Priest  of  Egypt  ;  vi.  An  Egyptian  Prototype  of  the  Main  Features
+of  the  Pcemandres'  Cosmogony  ;  vii.  The  Myth  of  Man  in  the
+Mysteries  ;  viii.  Philo  of  Alexandria  and  the  Hellenistic  Theology  ;
+ix.  Plutarch  Concerning  the  Mysteries  of  Isis  and  Osiris  ;  x.
+"  Hernias  "  and  "  Hermes  "  ;  xi.  Concerning  the  /Eon-Doctrine  ;
+xii.  The  Seven  Zones  and  their  Characteristics  ;  xiii.  Plato  Con
+cerning  Metempsychosis  ;  xiv.  The  Vision  of  Er  ;  xv.  Concerning
+the  Crater  or  Cup  ;  xvi.  The  Disciples  of  Thrice-greatest  Hermes.
+
+Vol.   II. — i.   The  Corpus  Hermeticum  ;    ii.   The  Perfect  Sermon.
+
+Vol.  III. — i.  Excerpts  by  Stobseus  ;  ii.  References  and  Fragments  in
+the  Fathers — Justin  Martyr,  Athenagoras,  Clement  of  Alexandria,
+Tertullian,  Cyprian,  Arnobius,  Lactantius,  Augustine,  Cyril  of
+Alexandria,  Suidas  ;  iii.  References  and  Fragments  in  the  Philoso
+phers — Zosimus,  Jamblichus,  Julian  the  Emperor,  Fulgentius  the
+Mythographer  ;  iv.  Conclusion  ;  v.  Index.
+
+Large  8vo,  cloth  ;    30s.  net.
+
+
+TRANSLATIONS.
+
+Apollonius  de  Tyane
+
+Chez  Bailly,  rue  Saint- La zare,  11,  Paris.
+
+Apoionio  de  Tyana
+
+Bihlinteca  Orientalista,  Tapineria,  24,  Barcelona.
+
+
+THE  THEOSOPHICAL  PUBLISHING  SOCIETY,  LONDON  AND  BINARM.
+
+
+o
+
+
+PLEASE  DO  NOT  REMOVE
+CARDS  OR  SLIPS  FROM  THIS  POCKET
+
+UNIVERSITY  OF  TORONTO  LIBRARY
+
+
+Mead,  George  Robert  Stowe
+Fragments  of  faith  for
+gotten
+

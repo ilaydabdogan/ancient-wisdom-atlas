@@ -1,299 +1,3 @@
-# Buddhist Suttas (Sacred Books of the East, Vol. 11)
-
-Google
-
-
-This is a digital copy of a book that was preserved for generations on library shelves before it was carefully scanned by Google as part of a project
-to make the world's books discoverable online.
-
-It has survived long enough for the copyright to expire and the book to enter the public domain. A public domain book is one that was never subject
-to copyright or whose legal copyright term has expired. Whether a book is in the public domain may vary country to country. Public domain books
-are our gateways to the past, representing a wealth of history, culture and knowledge that's often difficult to discover.
-
-Marks, notations and other marginalia present in the original volume will appear in this file - a reminder of this book's long journey from the
-publisher to a library and finally to you.
-
-Usage guidelines
-
-Google is proud to partner with libraries to digitize public domain materials and make them widely accessible. Public domain books belong to the
-public and we are merely their custodians. Nevertheless, this work is expensive, so in order to keep providing this resource, we have taken steps to
-prevent abuse by commercial parties, including placing technical restrictions on automated querying.
-
-We also ask that you:
-
-+ Make non- commercial use of the files We designed Google Book Search for use by individuals, and we request that you use these files for
-personal, non-commercial purposes.
-
-+ Refrain from automated querying Do not send automated queries of any sort to Google's system: If you are conducting research on machine
-translation, optical character recognition or other areas where access to a large amount of text is helpful, please contact us. We encourage the
-use of public domain materials for these purposes and may be able to help.
-
-+ Maintain attribution The Google "watermark" you see on each file is essential for informing people about this project and helping them find
-additional materials through Google Book Search. Please do not remove it.
-
-+ Keep it legal Whatever your use, remember that you are responsible for ensuring that what you are doing is legal. Do not assume that just
-because we believe a book is in the public domain for users in the United States, that the work is also in the public domain for users in other
-countries. Whether a book is still in copyright varies from country to country, and we can't offer guidance on whether any specific use of
-any specific book is allowed. Please do not assume that a book's appearance in Google Book Search means it can be used in any manner
-anywhere in the world. Copyright infringement liability can be quite severe.
-
-About Google Book Search
-
-
-Google's mission is to organize the world's information and to make it universally accessible and useful. Google Book Search helps readers
-discover the world's books while helping authors and publishers reach new audiences. You can search through the full text of this book on the web
-
-at http : / /books . qooqle . com/
-
-
-.BUDDHIST SUTTAS,
-
-
-TRANSLATED FROM PALI
-BY
-
-T. W. RHYS DAVIDS
-
-
-THE
-
-
-mahA-parinibbAna suttanta
-
-
-THE
-
-
-DHAMMA-A'AKKA-PPAVATTANA SUTTA
-
-
-THE
-
-
-TEVIGGA SUTTANTA
-
-
-THE
-
-
-AKANKHEYYA SUTTA
-
-
-05.
-
-
-THE
-
-
-£ETOKHILA SUTTA
-
-
-e6.
-
-
-THE
-
-
-MAHA-SUDASSANA SUTTANTA
-
-
-fe7.
-
-
-THE
-
-
-jSABBASAVA SUTTA
-
-
-AT THE CLARENDON PRESS
-
-[All rights reserved}
-
-
-: L
-
-
-HARVARD
-COLLEGE
-LIBRARY
-
-
-THE
-
-
-SACRED BOOKS OF THE EAST
-
-TRANSLATED
-
-BY VARIOUS ORIENTAL SCHOLARS
-
-AND EDITED BY
-
-F. MAX MOLLER
-VOL. XI
-
-AT THE CLARENDON PRESS
-1900
-
-[All rights reserved]
-
-
--r, ! fi «
-
-
-;
-
-
-JUN 7 1904
-
-
-Oxford
-
-PRINTED AT THE CLARENDON PRESS
-
-BY HORACE HART, M.A.
-PRINTER TO THE UNIVERSITY
-
-
-THE
-
-SACRED BOOKS OF THE EAST
-
-
-[»]
-
-
-HENRY FROWDE, M.A.
-
-PUBLISHER TO THE UNIVERSITY OF OXFORD
-
-
-LONDON, EDINBURGH, AND NEW YORK
-
-
-THE
-
-
-SACRED BOOKS OF THE EAST
-
-
-TRANSLATED
-
-
-BY VARIOUS ORIENTAL SCHOLARS
-
-
-AND EDITED BY
-
-
-F. MAX MOLLER
-
-
-VOL. XI
-
-
-AT THE CLARENDON PRESS
-1 900
-
-[All rights reserved]
-
-
-X BUDDHIST SUTTAS
-
-
-TRANSLATED FROM PALI
-BY
-
-T. W. RHYS DAVIDS
-
-
-O 1. THE mahA-parinibbAna suttanta
-
-o ',! THE DHAMMA-A'AKKA-PPAVATTANA SUTTA
-
-THE TEVIGGA SUTTANTA
-
-& i. THE AKANKHEYYA SUTTA
-
-ofj. THE £ETOKHILA SUTTA
-
-C«. THE MAHA-SUDASSANA SUTTANTA
-
-5,7. THE SABBASAVA SUTTA
-
-
-AT THE CLARENDON PRESS
-
-[All rights reserved]
-
-
-CONTENTS
-
-
-PAGE
-
-General Introduction to the Buddhist Suttas . . ix
-
-1. The Book of the Great Decease (Maha-parinibbana
-
-Suttanta) . xxix
-
-Introduction xxxi
-
-Translation i
-
-2. The Foundation of the Kingdom of Righteousness
-
-(DHAMMA-ZirAKKA-PPAVATTANA SuTTa) . . . 1 37
-
-Introduction 139
-
-Translation 146
-
-3. On Knowledge of the Vedas (Tevigga Suttanta) . 157
-
-Introduction 1 59
-
-Translation 167
-
-(The Silas, pp. 189-200.)
-
-4. If he should desire (Akankheyya Sutta) . . 205
-
-Introduction 207
-
-Translation . . . . . . .210
-
-5. Barrenness and Bondage (A!etokhila Sutta) . . 219
-
-Introduction .221
-
-Translation 223
-
-6. Legend of the Great King of Glory (Maha-Sudas-
-
-sana Suttanta) 235
-
-Introduction 237
-
-(MaM-Sudassana (rataka, pp. 238-241.)
-Translation .247
-
-7. All the Asavas (Sabbasava Sutta) . . . .291
-
-Introduction 293
-
-Translation ........ 296
-
-Index 309
-
-
-Transliteration of Oriental Alphabets adopted for the
-
-Translations of the Sacred Books of the East . -317
-
-
 GENERAL INTRODUCTION
 
 TO THE
@@ -310,8 +14,7 @@ but of wealth. I have endeavoured to make such a choice
 as would enable me to bring together into one volume a
 collection of texts which should be as complete a sample as
 one volume could afford of what the Buddhist scriptures,
-on the whole, contain. With this object in view I have re-
-frained from confining myself to the most interesting books
+on the whole, contain. With this object in view I have refrained from confining myself to the most interesting books
 — those, namely, which deal with the Noble Eightfold Path,
 the most essential, the most original, and the most attractive
 part of Gotama's teaching ; and I have chosen accordingly,
@@ -325,13 +28,10 @@ value.
 These are —
 
 1. The Book of the Great Decease (the Mah£-
-parinibbdna-Suttanta), which is the Buddhist repre-
-sentative of what, among the Christians, is called a Gospel.
+parinibbdna-Suttanta), which is the Buddhist representative of what, among the Christians, is called a Gospel.
 
-2. The Foundation of the Kingdom of Righte-
-ousness (the Dhamma-^akka-ppavattana- Sutta),
-containing the Four Noble Truths, and the Noble Eight-
-fold Path which ends in Arahatship.
+2. The Foundation of the Kingdom of Righteousness (the Dhamma-^akka-ppavattana- Sutta),
+containing the Four Noble Truths, and the Noble Eightfold Path which ends in Arahatship.
 
 
 X
@@ -345,8 +45,7 @@ Vedas (the Tevi^a - Suttanta), which is a controversial
 dialogue on the right method of attaining to a state of
 union with Brahmd.
 
-4. The Sutta entitled 4 If he should desire— '(Akah-
-kheyya-Sutta), which shows in the course of a very
+4. The Sutta entitled 4 If he should desire— '(Akahkheyya-Sutta), which shows in the course of a very
 beautiful argument some curious sides of early Buddhist
 mysticism and of curiously unjustified belief.
 
@@ -360,10 +59,8 @@ Mahd-sudassana-Suttanta), which is an example of
 the way in which previously existing legends were dealt
 with by the early Buddhists.
 
-7. The Sutta entitled « All the Asavas' (the Sabbd-
-sava -Sutta), which explains the signification of a con-
-stantly recurring technical term, and lays down the essen-
-tial principles of Buddhist Agnosticism.
+7. The Sutta entitled « All the Asavas' (the Sabbdsava -Sutta), which explains the signification of a con-
+stantly recurring technical term, and lays down the essential principles of Buddhist Agnosticism.
 
 The Discipline of the Buddhist Mendicants, the Rules
 of their Order — probably the most influential, as it is the
@@ -373,10 +70,8 @@ which will appropriately form a subsequent part of this
 Series of Translations of the Sacred Books of the East.
 There was therefore no need to include any Sutta on this
 subject in the present volume : but of the rest of the matters
-discussed in the Buddhist Sacred Books — of Buddhist le-
-gend, gospel, controversial theology, and ethics — the works
-selected will I trust give a correct and adequate, if necessa-
-rily a somewhat fragmentary, idea.
+discussed in the Buddhist Sacred Books — of Buddhist legend, gospel, controversial theology, and ethics — the works
+selected will I trust give a correct and adequate, if necessarily a somewhat fragmentary, idea.
 
 The age of these writings can be fixed, without much
 uncertainty, at about the latter end of the fourth or the
@@ -412,16 +107,14 @@ Introduction to his edition of the text of the Mah&-vagga.
 * The Tradition regarding the Councils takes up the
 thread of the story where the accounts of the life and work
 of Buddha, given in the Sutta Pi/aka, end. After the death
-of the Master — so it is related in the A'ulla-vagga — Su-
-bhadda, the last disciple converted by Buddha shortly
+of the Master — so it is related in the A'ulla-vagga — Subhadda, the last disciple converted by Buddha shortly
 before his death 2 , proclaimed views which threatened the
 dissolution of the community.
 
 4 " Do not grieve, do not lament," he is said to have said
 to the believers. " It is well that we have been relieved of
 the Great Master's presence. We were oppressed by him
-when he said, 'This is permitted to you, this is not per-
-mitted.' In future we can do as we like, and not do as we
+when he said, 'This is permitted to you, this is not permitted.' In future we can do as we like, and not do as we
 do not like."
 
 4 In opposition to Subhadda, — the tradition goes on to
@@ -446,8 +139,7 @@ THE BUDDHIST SUTTAS.
 
 
 the assembly, Kassapa as president fixed the Vinaya with
-the assistance of Updli, and the Dhamma with the assist-
-ance of Ananda.
+the assistance of Updli, and the Dhamma with the assistance of Ananda.
 
 * This is the story as it has come down to us. What we
 have here before us is not history, but pure invention ; and,
@@ -461,8 +153,7 @@ Buddha, and the Pdli text of which has recently been
 printed by Professor Childers. This Sutta gives 1 the
 story — in long passages word for word the same, as in
 the jfifulla-vagga — of the irreverent conduct of Subhadda,
-which Kassapa opposes by briefly pointing to the true con-
-solation that should support the disciples in their separation
+which Kassapa opposes by briefly pointing to the true consolation that should support the disciples in their separation
 from the Master. Then follows the account of the burning
 of Buddha's corpse, of the distribution of his relics among
 the various princes and cities, and of the festivals which
@@ -498,11 +189,9 @@ XUl
 
 
 the treatment of such cases when he should no longer be
-with them. If anywhere, we should certainly have ex-
-pected to find here some allusion to the great authentic
+with them. If anywhere, we should certainly have expected to find here some allusion to the great authentic
 depositions of Dhamma and Vinaya after Buddha's death,
-which, according to the general belief of Buddhists, esta-
-blished a firm standard according to which differences could
+which, according to the general belief of Buddhists, established a firm standard according to which differences could
 be judged and have been judged through many centuries.
 There is not the slightest trace of any such allusion to the
 Council. This silence is as valuable as the most direct
@@ -527,8 +216,7 @@ of the Mahd-parinibbana-Sutta did not know that account
 of the First Council which we find in the ATulla- vagga.
 
 We do not know for certain the time at which that part
-of the A\illa-vagga, in which that account occurs, was com-
-posed. I think it quite possible that it was as late as the
+of the A\illa-vagga, in which that account occurs, was composed. I think it quite possible that it was as late as the
 Council of Patna (b. C. 250), though Dr. Oldenberg places
 it somewhat earlier 1 . But even if we put the conclusion of
 the ATulla-vagga as late as the year I have mentioned, it
@@ -553,17 +241,14 @@ certain. It is just possible that the author of the Book of
 the Great Decease omitted all mention of the First Council
 at R&^agaha, not because he did not know of it, but because
 he considered it unnecessary to mention an event which
-had no bearing on the subject of his work. He was de-
-scribing the death of the Buddha, and not the history of
+had no bearing on the subject of his work. He was describing the death of the Buddha, and not the history of
 the Canon or of the Order.
 
 I must confess however that I only mention this as a
-possibility from a desire rather to understate than to over-
-state my case. For, firstly, it should be remembered that
+possibility from a desire rather to understate than to overstate my case. For, firstly, it should be remembered that
 the writer does not merely omit to mention an occurrence
 subsequent to and unconnected with the Great Decease.
-He does more : he gives an account of the Subhadda in-
-cident which is inconsistent and irreconcilable with the
+He does more : he gives an account of the Subhadda incident which is inconsistent and irreconcilable with the
 legend or narrative of the R^agaha Council as related in
 the ATulla-vagga. Had that narrative, as we now have it,
 been received in his time among the Brethren, he would
@@ -574,10 +259,8 @@ might well have done, with the Great Decease itself. It
 will be seen from the translation below 1 that there was a
 point in his narrative, the exclamations of sorrow at the
 death of the Buddha, which would have formed, had he
-desired to omit all unnecessary details, a very fitting con-
-clusion to his narrative. The Book of the Great King of
-Glory, the Mahd-sudassana-Sutta K closes with the very ex-
-clamation our author puts, at this point, into the mouth of
+desired to omit all unnecessary details, a very fitting conclusion to his narrative. The Book of the Great King of
+Glory, the Mahd-sudassana-Sutta K closes with the very exclamation our author puts, at this point, into the mouth of
 Sakka. The Mahd-parinibbana was then over, and the
 Mahci-parinibbcina-Sutta might have then been closed.
 But he goes on and describes in detail the cremation, the
@@ -585,8 +268,7 @@ distribution of the relics, and the feasts celebrated in their
 honour. It is not necessary for my point to show that it
 was in the least degree unnatural to do so. It is sufficient
 to be able to point out that the author having done so, —
-having gone on to the arrival of Kassapa, who was after-
-wards (in the A^ulla-vagga) said to have held the Council ;
+having gone on to the arrival of Kassapa, who was afterwards (in the A^ulla-vagga) said to have held the Council ;
 having mentioned the very incident which, according to the
 
 
@@ -610,8 +292,7 @@ referred to below 1 , the account of the Council of Rd^agaha
 has, in fact, been included in the story, it is difficult to
 withhold our assent to the very great probability of the
 hypothesis, that it would have been included also in the
-P&li Book of the Great Decease had the belief in the tradi-
-tion of the Council been commonly held at the time when
+P&li Book of the Great Decease had the belief in the tradition of the Council been commonly held at the time when
 that book was put into its present shape. At the same
 time we must hold ourselves quite prepared to learn that
 some other explanation may turn out to be possible. The
@@ -620,22 +301,18 @@ would be conclusive. But we know too little about the
 mode in which the Pali Pi/akas were composed to presume
 at present to be quite certain.
 
-The Mah£-parinibb£na-Sutta was then probably com-
-posed before the account of the First Council of Rd^a-
+The Mah£-parinibb£na-Sutta was then probably composed before the account of the First Council of Rd^a-
 gaha in the concluding part of the ATulla-vagga. It was
 also almost certainly composed after Pd/aliputta, the
-modern Patna, had become the capital city of the king-
-dom of Magadha ; after the worship of relics had become
+modern Patna, had become the capital city of the kingdom of Magadha ; after the worship of relics had become
 common in the Buddhist church ; and after the rise of a
 general belief in the Afakkavatti theory, in the ideal of a
 sacred king, a supreme overlord in India.
 
 The first of these last three arguments depends on the
-prophecy placed in Gotama's mouth as to the future great-
-ness of Pa/aliputta — a prophecy found in the Mahd-vagga
+prophecy placed in Gotama's mouth as to the future greatness of Pa/aliputta — a prophecy found in the Mahd-vagga
 as well as in the Mahci-parinibb&na-Sutta. It is true that
-the guess may actually have been made, and that it re-
-quired no great boldness to hazard a conjecture so vaguely
+the guess may actually have been made, and that it required no great boldness to hazard a conjecture so vaguely
 expressed. The words simply are —
 
 'And among famous places of residence and haunts of
@@ -731,19 +408,16 @@ We have next to consider the reference to the relics in
 the concluding sections of Chapter VI as a possible basis for
 chronological argument These sections are almost certainly
 older than the time when especial sanctity was claimed for
-Buddhist d&gabas on the ground that they contained par-
-ticular relics of the Blessed One (such as a tooth, or the
+Buddhist d&gabas on the ground that they contained particular relics of the Blessed One (such as a tooth, or the
 bowl, or the neck bone) ; for if such special relics were
 accepted as objects of worship when the Book of the Great
 Decease was put together, they would naturally have been
 mentioned in the course of Chapter VI.
 
 It is even almost certain that when the sections were put
-into their present form no Buddhist d&gaba was in exist-
-ence except at the eight places mentioned in them ; and
+into their present form no Buddhist d&gaba was in existence except at the eight places mentioned in them ; and
 the words are quite consistent with the belief that those
-eight had themselves then ceased to have any very wide-
-spread and acknowledged sanctity. So in Chapter V, § 13,
+eight had themselves then ceased to have any very widespread and acknowledged sanctity. So in Chapter V, § 13,
 where four places are spoken of * which the believing man
 should visit with feelings of reverence and of awe,' there is
 no mention of d&gabas at all ; and in Chapter V, § 16, it is
@@ -790,15 +464,13 @@ belief to spring up, and be received without question.
 
 In a similar way a considerable interval must have elapsed
 before the beautiful parable in the last section of Chapter I
-could have given rise to the belief in the miracle (the soli-
-tary miracle ascribed to the Buddha, so far as I know, in
+could have given rise to the belief in the miracle (the solitary miracle ascribed to the Buddha, so far as I know, in
 the Sutta Pi/aka) recorded in the previous section.
 
 So also the comparison drawn between the Buddha and
 a ATakkavatti R^a or King of Kings in Chapter V, § 37,
 and Chapter VI, § 33, can scarcely have arisen till the rise
-of a lord paramount in the valley of the Ganges had fami-
-liarised the people with the idea of a Universal Monarch.
+of a lord paramount in the valley of the Ganges had familiarised the people with the idea of a Universal Monarch.
 Now it was either just before or just after the well-known
 Councils at Vesdli, of which mention has been made above,
 that that important revolution took place which raised a
@@ -820,8 +492,7 @@ Augustus, or like Greeks adding the glow of the sun-myth
 to the glory of Alexander, the Indians should have formed
 an ideal of their -Sfakkavatti, and have transferred to this
 new ideal many of the dimly sacred and half-understood
-traits of the Vedic heroes ? Is it surprising that the Bud-
-dhists should have found it edifying to recognise in their
+traits of the Vedic heroes ? Is it surprising that the Buddhists should have found it edifying to recognise in their
 hero "the ATakkavatti of Righteousness;" and that the
 story of the Buddha should have become tinged with the
 colouring of these Afakkavatti myths ? '
@@ -829,8 +500,7 @@ colouring of these Afakkavatti myths ? '
 In point of fact we know that in later works the attraction
 of this poetic ideal led to the almost complete disregard of
 the simpler narrative which seemed so poor and meagre in
-comparison ; and M. Senart has shown how large a pro-
-portion of the later poem called the Lalita Vistara is inspired
+comparison ; and M. Senart has shown how large a proportion of the later poem called the Lalita Vistara is inspired
 by it. When, in isolated passages of the Book of the Great
 Decease, we find the earliest germs of this fruitful train of
 thought, we are I think safe in concluding that it assumed
@@ -846,8 +516,7 @@ in this volume in their form, in their views of life, and in
 
 1 I have ventured in my 'Ancient Coins and Measures of Ceylon,* p. 51, to
 point out that the Councils of Vesali were very possibly held just at the time
-when Nanda was defeated by ATandragupta. Taranatha, the Tibetan histo-
-rian, while placing the Councils, like all the later authorities, under an As ok a
+when Nanda was defeated by ATandragupta. Taranatha, the Tibetan historian, while placing the Councils, like all the later authorities, under an As ok a
 (probably Aandragupta), says (p. 41 of Wassiliefs German translation) that the
 assembled brethren were fed by Nanda.
 
@@ -882,16 +551,14 @@ occasionally he is here described. On the other hand, the
 history of similar religious movements teaches us how
 quickly such notions spring up concerning the omniscience
 and sinlessness of the founder of the movement ; and it
-would be better to reserve our judgment as to the impos-
-sibility, on this account alone, of those Suttas having been
+would be better to reserve our judgment as to the impossibility, on this account alone, of those Suttas having been
 composed even by the very earliest disciples.
 
 It would be of less importance who composed the Suttas
 if we could be sure that they gave an accurate account of
 the teachings of the great thinker and reformer whose words
 they purport to preserve. But though, like all other writings
-of a similar character, they are doubtless based upon tradi-
-tions older than the time of their authors or final redactors,
+of a similar character, they are doubtless based upon traditions older than the time of their authors or final redactors,
 they cannot unfortunately be depended upon as entirely
 authentic. And it will be always difficult, even when the
 whole of the Suttas have been published, to attempt to
@@ -916,11 +583,9 @@ and most essential part of it. I am aware that no method
 can be more misleading, or more uncritical, than first to
 form a theory regarding the personal character of the author
 of a new religious movement — as some later critics of the
-Gospel History have done — and then to adopt those pas-
-sages in the sacred books which fit in with that character,
+Gospel History have done — and then to adopt those passages in the sacred books which fit in with that character,
 and to reject those which oppose it. We cannot begin by
-postulating that Gotama was a man of high moral earnest-
-ness, and of great intellectual acuteness ; and then disregard
+postulating that Gotama was a man of high moral earnestness, and of great intellectual acuteness ; and then disregard
 all the passages in which erroneous, and even puerile, opinions
 or sayings are placed in his mouth. But it does not follow
 that we are obliged either altogether to reject the evidence
@@ -977,25 +642,21 @@ it was considered a desecration to make use of it for the
 preservation of the sacred books. This feeling naturally
 passed away much sooner among the adherents of the
 popular religious faith of Buddhism, than it did among their
-conservative opponents. With the latter it is by no means ex-
-tinct even now, and the first record we have of the Buddhist
+conservative opponents. With the latter it is by no means extinct even now, and the first record we have of the Buddhist
 Scriptures being reduced into writing is the well-known
 passage in the Dipavawsa, which speaks of their being
 recorded in books in Ceylon towards the beginning of the
 first century before the commencement of our era. And
 as all our copies of the Buddhist Pi/akas are, at present,
 derived from those then in use in Ceylon, we are practically
-concerned only with those thus referred to in the Dipa-
-vawsa 3 .
+concerned only with those thus referred to in the Dipavawsa 3 .
 
-The date of the Dipava^sa may be placed approxi-
-mately in the fourth century of our era ; but its author
+The date of the Dipava^sa may be placed approximately in the fourth century of our era ; but its author
 reproduces the continued tradition of the monasteries in
 
 1 They will be found enumerated, and shortly described, in a note below
 (pp. 62, 63). I am glad to learn that my friend Dr. Morris is preparing a rail
-account of them, drawn from various parts of the Sutta Pi/aka, for his forth-
-coming work to be accordingly entitled ' The Seven Jewels of the Law.'
+account of them, drawn from various parts of the Sutta Pi/aka, for his forthcoming work to be accordingly entitled ' The Seven Jewels of the Law.'
 
 2 See my ' Ancient Coins and Measures of Ceylon ' (Part VI of Numismata
 Orientalia), p. 13.
@@ -1023,8 +684,7 @@ Two methods were adopted in India to aid this power
 of memory. One, adopted chiefly by the grammarians,
 was to clothe the rules to be remembered in very short
 enigmatical phrases (called sutras or threads), which taxed
-the memory but little, while they required elaborate com-
-mentaries to render them intelligible. The other, the
+the memory but little, while they required elaborate commentaries to render them intelligible. The other, the
 method adopted in the Buddhist writings (both Sutta and
 V in ay a), was, firstly, the use of stock phrases, of which
 the commencement once given, the remainder followed as
@@ -1082,16 +742,14 @@ nun, and a lay-disciple of either sex, should do, or be, such
 and such things.
 
 But every case of repetition is not so simple as this ;
-such curtailing destroys at least the form and the em-
-phasis of the originals ; and it seemed more in accordance
+such curtailing destroys at least the form and the emphasis of the originals ; and it seemed more in accordance
 with the rules laid down in the prospectus to the Series
 of Translations from the Sacred Books of the East, of
 which this volume forms a part, to adhere in all cases
 strictly to the text. With the exception of the earlier
 chapters in the Book of the Great Decease, in which a
 few such contractions will be found mentioned in the
-notes, I have therefore reproduced almost all the repeti-
-tions. The result will not, I trust, be embarrassing to the
+notes, I have therefore reproduced almost all the repetitions. The result will not, I trust, be embarrassing to the
 reader who keeps constantly in mind the aim and origin of
 these stock phrases and repetitions, and does not allow
 the wearisome form in which they are presented to shut
@@ -1124,14 +782,11 @@ the subject in an entirely new light; and has turned the
 flank, so to speak, of most of the existing literature on
 Buddhism. I use the term ' discovery ' advisedly, for
 though the PSli texts have existed for many years in our
-public libraries, they are only now beginning to be under-
-stood ; and the Buddhism of the P&li Pi/akas is not only
-a quite different thing from Buddhism as hitherto com-
-monly received, but is antagonistic to it. I cannot hope
+public libraries, they are only now beginning to be understood ; and the Buddhism of the P&li Pi/akas is not only
+a quite different thing from Buddhism as hitherto commonly received, but is antagonistic to it. I cannot hope
 that the renderings of the many technical terms, now for
 the first time submitted to the judgment of students of
-early Buddhism, will all stand the test of time. So per-
-fectly dovetailed is the old Buddhist system, so utterly
+early Buddhism, will all stand the test of time. So perfectly dovetailed is the old Buddhist system, so utterly
 different from European Christianity are the ideas involved,
 so pregnant are the expressions used with deep and earnest
 religious feelings resting on a foundation completely apart
@@ -1147,8 +802,7 @@ Great Decease — which have cost me more time and
 trouble than the reader of the few words they contain
 will easily believe ; and it would be impossible to add
 a note to every word justifying the rendering which was
-finally adopted to convey the Buddhist idea, without in-
-volving at the same time some misleading implication.
+finally adopted to convey the Buddhist idea, without involving at the same time some misleading implication.
 
 
 xxvi
@@ -1186,8 +840,7 @@ doggrel, there are also one or two passages (such as I, 34 ;
 IV, 56 ; VI, 15-18, and 63) where the rhythm of the Pali
 verses is exceedingly beautiful, and the thoughts expressed
 not devoid of fancy. The translation of such passages
-has been beset with difficulty; and I am only too con-
-scious how small has been the success attained. But I
+has been beset with difficulty; and I am only too conscious how small has been the success attained. But I
 must ask the reader constantly to bear in mind that words,
 dull and bare to us, are full of meaning to the Buddhist.
 * The Blessed Master came to the Mango-grove ' is a very
@@ -1226,26 +879,20 @@ MAHA-PARINIBBANA-
 SUTTANTA.
 
 
-INTRODUCTION
-
 TO THE
 
 BOOK OF THE GREAT DECEASE.
 
 
-In translating this Sutta I have followed the text pub-
-lished by my friend the late Mr. Childers, first in the
-Journal of the Royal Asiatic Society, and afterwards sepa-
-rately. In the former the text appeared in two instalments,
-the first two sheets, with many various readings in the foot-
-notes, in the volume for 1874; and the remainder, with
+In translating this Sutta I have followed the text published by my friend the late Mr. Childers, first in the
+Journal of the Royal Asiatic Society, and afterwards separately. In the former the text appeared in two instalments,
+the first two sheets, with many various readings in the footnotes, in the volume for 1874; and the remainder, with
 much fewer various readings, in the volume for 1876. The
 reprinted text omits most of the various readings in the
 first two sheets, and differs therefore slightly in the paging.
 The letters D, S, Y, and Z, mentioned in the notes, refer to
 MSS. sent to Mr. Childers from Ceylon by myself, Subhtiti
-Unndnse, Y&tramulle Unn&nse, and Mud liar de Zoysa re-
-spectively. The MS. mentioned as P (in the first two sheets
+Unndnse, Y&tramulle Unn&nse, and Mud liar de Zoysa respectively. The MS. mentioned as P (in the first two sheets
 quoted only in the separate edition) is, no doubt, the Dtgha
 Nik&ya MS. of the Phayre collection in the India Office
 Library. The other four are now I believe in the British
@@ -1258,8 +905,7 @@ skips, or only summarises, most of the difficult passages, his
 work, though a most valuable contribution for the time,
 now more than half a century ago, has not been of much
 service for the present purpose. Of much greater value
-was Buddhaghosa's commentary contained in the Su-
-mangala Vil&sini 1 ; but the great fifth-century commen-
+was Buddhaghosa's commentary contained in the Sumangala Vil&sini 1 ; but the great fifth-century commen-
 
 
 1 I have used the copy made for Tumour, and now in the India Office
@@ -1270,13 +916,11 @@ XXxii THE BOOK OF THE GREAT DECEASE.
 
 
 tator wrote of course for Buddhists, and not for foreign
-scholars ; and his edifying notes and long exegetical ex-
-pansions of the text (quite in the style of Matthew Henry)
+scholars ; and his edifying notes and long exegetical expansions of the text (quite in the style of Matthew Henry)
 often fail to throw light on the very points which are most
 interesting, and most doubtful, to European readers.
 
-The Mdl&lank&ra-vatthu, a late P&li work by a Bur-
-mese author of the eighteenth century \ is based, in that
+The Mdl&lank&ra-vatthu, a late P&li work by a Burmese author of the eighteenth century \ is based, in that
 part of it relating to the last days of the Buddha, almost
 exclusively on the Book of the Great Decease, and on
 Buddhaghosa's commentary upon it. Bishop Bigandet's
@@ -1317,9 +961,6 @@ Sutta in the Ma^Aima.
 * Childers seems to have been of the same opinion, vide Diet. I, 268.
 
 
-INTRODUCTION.
-
-
 xxxiii
 
 
@@ -1340,8 +981,7 @@ state of our knowledge, or rather ignorance, of the P&li
 Pi/akas, this question cannot as yet be answered with any
 certainty. But a few observations may even now be made.
 
-Generally speaking the third of the above possible ex-
-planations is not only more probable in itself, but is confirmed
+Generally speaking the third of the above possible explanations is not only more probable in itself, but is confirmed
 by parallel instances in literatures developed under similar
 conditions, both in the valley of the Ganges and in the basin
 of the Mediterranean.
@@ -1361,10 +1001,8 @@ took place, and as to the subjects of his various discourses,
 on the Buddha's last journey. He had then been a public
 Teacher for forty-five years ; and his system of doctrine,
 which is really, on the whole, a very simple one, had already
-been long ago elaborated, and applied in numerous dis-
-courses to almost every conceivable variety of circumstances.
-What he then said would most naturally be, as it is repre-
-sented to have been, a final recapitulation of the most
+been long ago elaborated, and applied in numerous discourses to almost every conceivable variety of circumstances.
+What he then said would most naturally be, as it is represented to have been, a final recapitulation of the most
 [11] c
 
 
@@ -1377,8 +1015,7 @@ fully and most frequently dealt with in other parts of the
 P&li Pi/iakas* No record of his actual words could have
 been preserved. It is quite evident that the speeches placed
 in the Teacher's mouth, though formulated in the first
-person, in direct narrative, are only intended to be sum-
-maries, and very short summaries, of what was said on
+person, in direct narrative, are only intended to be summaries, and very short summaries, of what was said on
 these occasions. Now if corresponding summaries of his
 previous teaching had been handed down in the Order, and
 were in constant use among them, at the time when the
@@ -1404,17 +1041,13 @@ second chapter (I, 20-II, 3, and again II, 16-II, 24), which
 is found also in the Mah&-vagga. The words are
 (nearly 1 ) identical in both places, but in the Book of the
 Great Decease the account occurs in its proper place in
-the middle of a connected narrative, whereas in the Mahft-
-vagga, a treatise on the Rules and Regulations of the
+the middle of a connected narrative, whereas in the Mahftvagga, a treatise on the Rules and Regulations of the
 Order, it seems strangely out of place. So the passage,
 also a long one, with which the Book of the Great
 
 
 1 On the difference see the note at II, 16. It affects only a few localising
 phrases in a narrative occupying (in the translation) thirteen pages.
-
-
-INTRODUCTION.
 
 
 XXXV
@@ -1425,8 +1058,7 @@ seems to have been actually borrowed by the Anguttara
 Nik4ya from our work.
 
 The question of these summaries and parallel passages
-cannot be adequately treated by a discussion of the in-
-stances found in any one particular book. It must be
+cannot be adequately treated by a discussion of the instances found in any one particular book. It must be
 considered as a whole, and quite apart from the allied
 question of the 1 stock phrases ' above alluded to, in a
 discussion of all the instances that can be found in the
@@ -1610,8 +1242,7 @@ No Sanskrit work has yet been discovered giving an
 account of the last days of Gotama ; but there are several
 Chinese works which seem to be related to ours. Of one
 especially, named the Fo Pan-ni-pan King (apparently
-Buddha-Parinibb&na-Sutta, but such an expression is un-
-known in Pali), Mr. Beal says 2 :
+Buddha-Parinibb&na-Sutta, but such an expression is unknown in Pali), Mr. Beal says 2 :
 
 'This appears to be the same as the SAtra known in
 the South. ... It was translated into Chinese by a Shaman
@@ -1629,16 +1260,12 @@ as the Mah4 Parinibbana Sutta of Ceylon/ but it is quite
 evident from the extracts which he gives that it is an
 entirely different and much later work.
 
-On this book there would seem further to be a trans-
-lated commentary, Ta Pan-ni-pan King Lo, mentioned
+On this book there would seem further to be a translated commentary, Ta Pan-ni-pan King Lo, mentioned
 
 
 1 Omitted by Po-fa-tsu. See below, p. xxxviii.
 
 2 Catalogue of Buddhist Chinese Books in the India Office Library, p. 95.
-
-
-INTRODUCTION.
 
 
 xxxvii
@@ -1650,8 +1277,7 @@ Chang-an of the Tsin dynasty (589-619 A.D.).
 At pp. 12-13 of the same Catalogue we find no less than
 seven other works, and an eighth on p. 77, not indeed
 identified with the Book of the Great Decease, but bearing
-titles which Mr. Beal represents in Sanskrit as Mah&pari-
-nirvdtf a Stitra. They purport to be translated respectively —
+titles which Mr. Beal represents in Sanskrit as Mah&parinirvdtf a Stitra. They purport to be translated respectively —
 
 A. D.
 
@@ -1713,8 +1339,7 @@ translated below ; though each particular item of the
 summary is really in contradiction with the corresponding
 part of the P&li book. There is perhaps another Chinese
 work on the death of Buddha, of the existence of which
-I have been informed, through the kind intervention of Pro-
-fessor Max Miiller, by Mr. Kasawara. It was translated by
+I have been informed, through the kind intervention of Professor Max Miiller, by Mr. Kasawara. It was translated by
 Po-fa-tsu between 290 and 306 a.D. It sefcms to be the
 same as the first mentioned above, but it contains a good
 deal of matter not found in the Mah&-parinibbAna-Sutta
@@ -1739,8 +1364,7 @@ similar titles are said to have been made in a certain
 period. But the above-mentioned works on the Great
 Decease will, when published, throw valuable light on the
 traditions of different, though no doubt later, schools of
-Buddhist thought ; and a detailed comparison would pro-
-bably throw a very interesting light on the way in which
+Buddhist thought ; and a detailed comparison would probably throw a very interesting light on the way in which
 
 
 1 st Chapter
@@ -1766,9 +1390,6 @@ bably throw a very interesting light on the way in which
 1 On p. xxxvi.
 
 
-INTRODUCTION.
-
-
 xxxix
 
 
@@ -1779,8 +1400,7 @@ Sanskrit work on the same subject 1 .
 
 The cremation ceremonies described in the sixth chapter
 are not without interest. It would be natural enough that
-Gotama should have been buried without any of those ritual-
-istic forms the usefulness of which he denied, and without
+Gotama should have been buried without any of those ritualistic forms the usefulness of which he denied, and without
 any appeal to gods whose power over men he ignored.
 But the tone of the narrative makes it at least possible
 that there was not really anything unusual in the method
@@ -1799,8 +1419,7 @@ cases bodies are buried without any ceremony.
 So in Ceylon, Robert Knox — whose rare and curious
 work, one of the most trustworthy books of travels extant,
 deserves more notice than it has received, and who was a
-captive there for many years before the natives were influ-
-enced by any contact with Europeans — says s ,
+captive there for many years before the natives were influenced by any contact with Europeans — says s ,
 
 c It may not be unacceptable to relate how they burn
 their dead. As for persons of inferior quality, they are
@@ -1819,9 +1438,6 @@ in Mr. Edkins's ' Chinese Buddhism.'
 
 
 xl
-
-
-THE BOOK OF THE GREAT DECEASE.
 
 
 ' But persons of greater quality are burned, and that with
@@ -1858,16 +1474,12 @@ lying thus on the bedstead or in the trough. Over all they
 have a kind of canopy built (if he be a person of very high
 quality), covered at top, hung about with painted cloth,
 and bunches of cocoa-nuts, and green boughs ; and so fire
-is put to it. After all is burnt to ashes, they sweep to-
-gether the ashes into the manner of a sugar-loaf, and hedge
+is put to it. After all is burnt to ashes, they sweep together the ashes into the manner of a sugar-loaf, and hedge
 the place round from wild beasts breaking in, and they will
 sow herbs there. Thus I saw the king's uncle, the chief
 tirinanx 1 (who was, as it were, the chief primate of all the
 
 1 Knox's way of spelling Temnnanse, that is, Thera.
-
-
-INTRODUCTION.
 
 
 xli
@@ -1879,8 +1491,7 @@ seen a great way V
 I myself saw an Unn&ns6 burned very much in this
 way near the Weyangoda Court-house ; and there is a long
 account in the native newspaper, the Lak-riwi-kirana
-(Ceylon Sunbeam), of the 12th March, 1870, of the crema-
-tion of a Weda-r&la, or native doctor. Bishop Bigandet
+(Ceylon Sunbeam), of the 12th March, 1870, of the cremation of a Weda-r&la, or native doctor. Bishop Bigandet
 relates in a note in his ' Life or Legend of Gautama ' the
 corresponding ceremonies still in use in Burma, of which he
 has been a witness 2 ; but cremation is apparently as seldom
@@ -1927,17 +1538,12 @@ thus burnt.
 xlii
 
 
-THE BOOK OF THE GREAT DECEASE.
-
-
 sound of their instruments of music is appropriate enough.
-Then follow some Buddhist mendicants, in number accord-
-ing to the wealth or influence of the deceased, and walking
+Then follow some Buddhist mendicants, in number according to the wealth or influence of the deceased, and walking
 under a portable canopy of white cloth. Then the coffin is
 carried by the nearest male relatives, and followed by other
 male relatives and relations — no females, even the widowed
-mother of an only son, taking part in this last sad pro-
-cession.
+mother of an only son, taking part in this last sad procession.
 
 Three times the coffin is carried round the grave : then
 it is placed on two sticks placed across the mouth of the
@@ -1978,9 +1584,6 @@ Uppa£gitv& nirqggvianti tes&m vfipasamo sukho.
 See ' Book of the Great Decease,* VI, 16, and the * Legend of the Great King
 of Glory,' II, 42.
 3 This ceremony is called Fxm wadanawa.
-
-
-INTRODUCTION.
 
 
 xliii
@@ -2040,9 +1643,6 @@ These verses occur in the Tiroku<&a-Sutta of the Khuddaka-Pa/Aa, but in
 xliv
 
 
-THE BOOK OF THE GREAT DECEASE.
-
-
 This ceremony is called Mataka D&naya (Gift for
 the Dead), and the previous feast is called Mataka
 Bhatta (Feast in honour of the Dead) : the two combined
@@ -2050,8 +1650,7 @@ taking the place of an ancient rite observed in pagan,
 pre-Buddhistic, times, and then also called Mataka Bhatta,
 in which offerings were made to the Petas ; that is, to
 the manes, or departed ghosts, of ancestors and near
-relations. Such offerings are of course forbidden to Bud-
-dhists \ and it is a very instructive instance of a survival in
+relations. Such offerings are of course forbidden to Buddhists \ and it is a very instructive instance of a survival in
 belief, of the effect of the natural reluctance to make much
 change in the mode of paying the customary funeral respect
 to deceased friends, that the kind of food supposed to be
@@ -2061,8 +1660,7 @@ Buddhist funeral rites.
 Another part of the ceremony, that part where one end
 of a roll of cloth is placed on the coffin while the other end
 is held by all the assembled Unn&ns£s 2 , is a fragment of
-ritualistic symbolism which deserves attention. The mem-
-bers of the Buddhist Order of Mendicants were enjoined to
+ritualistic symbolism which deserves attention. The members of the Buddhist Order of Mendicants were enjoined to
 avoid all personal decoration of any kind ; and to attire
 themselves in cloths of no value, such as might be gathered
 from a dust heap (Pa^su-kula), or even from a cemetery.
@@ -2088,9 +1686,6 @@ Birth Stories,' vol. i. pp. 226 and following.
 2 See p. xlii.
 
 
-INTRODUCTION.
-
-
 xlv
 
 
@@ -2110,11 +1705,9 @@ ceremony \
 
 
 The date of the Great Decease is not quite certain.
-The dwellers in the valley of the Ganges, for many genera-
-tions after Gotama's death, were a happy people, who had
+The dwellers in the valley of the Ganges, for many generations after Gotama's death, were a happy people, who had
 no need of dates ; and it was only long afterwards, and in
-Ceylon, that the great event became used as the starting-
-point for chronological calculations, as the Buddhist era.
+Ceylon, that the great event became used as the startingpoint for chronological calculations, as the Buddhist era.
 
 The earliest use of the Buddha's Parinibbdna as such
 an era is in an Inscription of King Nissanka Malla's, of the
@@ -2123,8 +1716,7 @@ the Royal Asiatic Society for 1875. Both in the historical
 records of Ceylon, and in those passages of the Pur&zsas
 which are the nearest approach to historical records in
 India, the chronology is usually based on the lists of kings,
-just as it is in the Old Testament. Only by adding to-
-gether the lengths of the reigns of the intermediate kings
+just as it is in the Old Testament. Only by adding together the lengths of the reigns of the intermediate kings
 is it possible to calculate the length of the time that is said
 to have elapsed between any two given events.
 
@@ -2133,8 +1725,7 @@ If these lists of kings had been accurately kept from
 
 1 Compare Mahavaw/sa, pp. 4, 125, 129, 199, 223-225, and Chap. 39, verse 28 ;
 <7ataka I, 166, 181, 402; II, 6; Dasaratha 6&taka, pp. 1, 21, 22, 26, &c;
-Dhammapada Commentary, pp. 94, 205, 206, 222, 359; Hatthavana-galla-
-vihara-vawsa, Chap. IX; Hardy, ' Eastern Monachism,' pp. 322-324.
+Dhammapada Commentary, pp. 94, 205, 206, 222, 359; Hatthavana-gallavihara-vawsa, Chap. IX; Hardy, ' Eastern Monachism,' pp. 322-324.
 
 The words Saddhaw, Uddhadehikazw, and Niv&po, given in Childers,
 refer to pagan rites.
@@ -2191,9 +1782,6 @@ would it be wise to place upon the total, apart from the
 details, when we find it mentioned for the first time in
 
 
-INTRODUCTION.
-
-
 xlvii
 
 
@@ -2202,8 +1790,7 @@ date it is proposed to fix ?
 
 If further proof were needed, we have it in the fact that
 the Dipavawsa actually contains the details of another
-calculation — based not on the lists of kings (Rd^a-param-
-par&), but on a list of Theras (Thera-paramparA)
+calculation — based not on the lists of kings (Rd^a-parampar&), but on a list of Theras (Thera-paramparA)
 stretching back from Asoka's time to the time of the
 great Teacher — which contradicts this calculation of
 236 years.
@@ -2212,8 +1799,7 @@ The Thera-parampard gives the name of the member
 of the Buddhist Order of Mendicants, that is, the Thera,
 who ordained Mahinda (the son of Asoka), then the name
 of the Thera who ordained that Thera, and so on. There
-are only five of them from UpSli, who was ordained six-
-teen years after Buddha's death, down to Mahinda in-
+are only five of them from UpSli, who was ordained sixteen years after Buddha's death, down to Mahinda in-
 clusive. This would account not for 2136, but only for
 about 150 years.
 
@@ -2231,17 +1817,14 @@ the period of 236 years is wrong by being too long.
 The shorter period of 1 50 years between Asoka and the
 Great Decease agrees much better with what we know
 of the literary history of Buddhism during that interval.
-And it also agrees with the tradition of the northern Bud-
-dhists as preserved by Hiouen Thsang, and in Kashmir
+And it also agrees with the tradition of the northern Buddhists as preserved by Hiouen Thsang, and in Kashmir
 and Tibet 1 . In the 'Questions of Milinda' also — a work
 of unknown date, preserved only in its P&li form, but
 
 
-1 Julien's translation of Hiouen Thsang, ' M^moires stir les contrees occi-
-dentales,' vol. i. p. 172 ; Kahlaaa's Ra^a-taranginl, Book I ; and Csoma Korosi
+1 Julien's translation of Hiouen Thsang, ' M^moires stir les contrees occidentales,' vol. i. p. 172 ; Kahlaaa's Ra^a-taranginl, Book I ; and Csoma Korosi
 in * Asiatic Researches,' vol. xx. pp. 92, 297. They place the Great Decease
-400 years before Kanishka, whose Council was held shortly after the commence-
-ment of our era.
+400 years before Kanishka, whose Council was held shortly after the commencement of our era.
 
 
 xlviii THE BOOK OF THE GREAT DECEASE.
@@ -2260,13 +1843,11 @@ date of Gotama's birth therefore eighty years earlier, or in
 round numbers about 500 B. C.
 
 I have discussed the whole question at full length in my
-'Ancient Coins and Measures of Ceylon/ written in ampli-
-fication of a paper read in 1874 before the Royal Asiatic
+'Ancient Coins and Measures of Ceylon/ written in amplification of a paper read in 1874 before the Royal Asiatic
 Society ; and to that work I must refer any reader, who
 may take interest in these chronological discussions, for
 ampler details. I have been able here to present only a
-summary of an argument which is in so far of little im-
-portance, inasmuch as the rectification which I have ven-
+summary of an argument which is in so far of little importance, inasmuch as the rectification which I have ven-
 tured to propose only differs by a little more than half a
 century from the earliest date which can in any case be
 suggested as approximately correct (that is about 485 B.C.).
@@ -2311,8 +1892,7 @@ incorrect version of § 3 in the Fa Kheu Pi Hu, translated from
 the Chinese by Mr. Beal, under the title of ' The Dhammapada
 from the Buddhist Canon,' pp. 165, 166.
 
-2 A^atasattu Vedehiputto. The first word is not a per-
-sonal name, but an official epithet, ' he against whom there has
+2 A^atasattu Vedehiputto. The first word is not a personal name, but an official epithet, ' he against whom there has
 arisen no (worthy or equal) foe ; ' the second gives us the maiden
 family, or tribal (not personal) name of his mother. Persons of
 distinction are scarcely ever mentioned by name in Indian Buddhist
@@ -2320,16 +1900,12 @@ books, a rule applying more especially to kings, but extended
 n °t unfrequently to private persons. Thus Upatissa, the earnest
 ai *d thoughtful disciple whom the Buddha himself declared to be
 ' l he second founder of the kingdom of righteousness/ is referred
-t0 either as Dhamma-senapati or as Sariputta ; epithets of cor-
-responding origin to those in the text. By the Gains A^-atasattu
+t0 either as Dhamma-senapati or as Sariputta ; epithets of corresponding origin to those in the text. By the Gains A^-atasattu
 ls called Ku«ika or Kowika, which again is probably not the name
 S lv en to him at the rice-eating (the ceremony corresponding to
 ln fant baptism), but a nickname acquired in after life.
 
 [II] B
-
-
-2
 
 
 THE BOOK OF THE GREAT DECEASE. C
@@ -2383,9 +1959,6 @@ I.
 MAHA-PARINIBBANA-SUTTA.
 
 
-3
-
-
 Wages, and then alighting and proceeding on foot
 to the place where the Blessed One was. On
 arriving there he exchanged with the Blessed One
@@ -2428,12 +2001,6 @@ hearken to their words — so long as no women or girls
 clause.
 
 B 2
-
-
-4
-
-
-THE BOOK OF THE GREAT DECEASE. CH.
 
 
 belonging to their clans are detained among them
@@ -2484,12 +2051,8 @@ I.
 maha-parinibbAna sutta.
 
 
-5
-
-
 'Whatever you think most fitting, O Brahman,'
-was the reply. And the Brdhman Vassaldira, de-
-lighted and pleased with the words of the Blessed
+was the reply. And the Brdhman Vassaldira, delighted and pleased with the words of the Blessed
 One, rose from his seat, and went his way.
 
 
@@ -2501,8 +2064,7 @@ RS^agaha/
 
 
 in colloquial English. The Sum. Vil. (fol. /i) says akarawryji,
-akatabba agahetabbd: yadidah, nip&ta-mattan : yudd'has-
-sati, karawatthe sami-va£anan, abhimukhena yuddhena
+akatabba agahetabbd: yadidah, nip&ta-mattan : yudd'hassati, karawatthe sami-va£anan, abhimukhena yuddhena
 gahetuh na sakka* ti attho. Upalapana, which I have only
 met with here, must mean ' humbug, cajolery, diplomacy ; ' see the
 use of the verb upa-l&peti, at Mah& VaggaV, 2, 21 ; Gat. II, 266,
@@ -2515,12 +2077,10 @@ bhikkhu, a word most difficult to render adequately by any word
 which would not, to Christians and in Europe, connote something
 different from the Buddhist idea. A bhikkhu, literally 'beggar,'
 was a disciple who had joined Gotama's order ; but the word refers
-to their renunciation of worldly things, rather than to their conse-
-quent mendicancy; and they did not really beg in our modem
+to their renunciation of worldly things, rather than to their consequent mendicancy; and they did not really beg in our modem
 sense of the word. Hardy has 'priests;' I have elsewhere used
 4 monks ' and sometimes ' beggars ' and ' members of the order/
-This last is, I think, the best rendering ; but it is too long for con-
-stant repetition, as in this passage, and too complex to be a really
+This last is, I think, the best rendering ; but it is too long for constant repetition, as in this passage, and too complex to be a really
 good version of bhikkhu. The members of the order were not
 priests, for they had no priestly powers. They were not monks, for
 they took no vow of obedience, and could, leave the order (and
@@ -2531,14 +2091,10 @@ the position in which they stood to one another ; but I wish there
 were a better word to use in rendering bhikkhu.
 
 
-6 THE BOOK OF THE GREAT DECEASE. CH.
-
-
 And he did so ; and returned to the Blessed One,
 and informed him, saying :
 
-'The company of the Brethren, Lord, is assem-
-bled, let the Blessed One do as seemeth to him fit/
+'The company of the Brethren, Lord, is assembled, let the Blessed One do as seemeth to him fit/
 
 And the Blessed One arose, and went to the
 Service Hall ; and when he was seated, he addressed
@@ -2553,39 +2109,31 @@ the Blessed One ; and he spake as follows :
 
 'So long, O mendicants, as the brethren meet
 together in full and frequent assemblies — so long
-as they meet together in concord, and rise in con-
-cord, and carry out in concord the duties of the
+as they meet together in concord, and rise in concord, and carry out in concord the duties of the
 order — so long as the brethren shall establish
 nothing that has not been already prescribed, and
 abrogate nothing that has been already established,
 and act in accordance with the rules of the order as
 now laid down — so long as the brethren honour and
-esteem and revere and support the elders of expe-
-rience and long standing, the fathers and leaders
+esteem and revere and support the elders of experience and long standing, the fathers and leaders
 of the order, and hold it a point of duty to hearken
 to their words — so long as the brethren fall not
 under the influence of that craving which, springing"
-up within them, would give rise to renewed exist-
-ence 1 — so long as the brethren delight in a life
+up within them, would give rise to renewed existence 1 — so long as the brethren delight in a life
 of solitude — so long as the brethren so train their
 minds 2 that good and holy men shall come to
 them, and those who have come shall dwell at ease
 
 1 ' Ponobhavika' punabbhava-d&yika. (S. V. fol. /ti.)
 
-2 'Pa££attaw yeva satiw upa/Mapessanti ' ti attano ab-
-bhantare satiw upa/Mapessanti. (S. V. fol. /ft.)
+2 'Pa££attaw yeva satiw upa/Mapessanti ' ti attano abbhantare satiw upa/Mapessanti. (S. V. fol. /ft.)
 
 
 mahA-parinibbana-sutta.
 
 
-7
-
-
 — so long may the brethren be expected, not to
-decline, but to prosper. So long as these seven con-
-ditions shall continue to exist among the brethren, so
+decline, but to prosper. So long as these seven conditions shall continue to exist among the brethren, so
 long as they are well-instructed in these conditions,
 so long may the brethren be expected not to decline,
 but to prosper/
@@ -2618,28 +2166,19 @@ to a stop on their way [to Nirv&^a 1 ] because they
 
 tara' ti arahattaw appatva'va etth* antare. 'Vos&nan' ti
 
-osakkanam ida/» vuttaw hotL Y&va sila-parisuddhi-mat-
-tena va vipassana-mattena vd sotapanna-bhava-mattena va
+osakkanam ida/» vuttaw hotL Y&va sila-parisuddhi-mattena va vipassana-mattena vd sotapanna-bhava-mattena va
 sakadagdmi-bh&va-mattena va anag&mi-bh&va-mattena va
-'vosanara' na 'apa^issanti' nama 1 vuddhi yeva bhikkhft-
-naw paVikawkha no parih&ni.' S. V. (fol. trt). This is an inter-
+'vosanara' na 'apa^issanti' nama 1 vuddhi yeva bhikkhftnaw paVikawkha no parih&ni.' S. V. (fol. trt). This is an inter-
 esting analogue to Philippians iii. 13 : ' I count not myself to have
 apprehended : but this one thing I do, forgetting those things which
 are behind, and reaching forth unto those things which are before,
 I press toward the mark/ &c. See also below, Chap. V, § 68.
 
 
-8
-
-
-THE BOOK OF THE GREAT DECEASE. CH.
-
-
 have attained to any lesser thing — so long may the
 brethren be expected not to decline, but to prosper
 'So long as these conditions shall continue to
-exist among the brethren, so long as they are in-
-structed in these conditions, so long may the brethren
+exist among the brethren, so long as they are instructed in these conditions, so long may the brethren
 be expected not to decline, but to prosper/
 
 8. 4 Other seven conditions of welfare will I teach
@@ -2656,8 +2195,7 @@ long may the brethren be expected not to decline,
 but to prosper.
 
 ' So long as these conditions shall continue to
-exist among the brethren, so long as they are in-
-structed in these conditions, so long may the brethren
+exist among the brethren, so long as they are instructed in these conditions, so long may the brethren
 be expected not to decline, but to prosper/
 
 9. ' Other seven conditions of welfare will I teach
@@ -2668,16 +2206,13 @@ And on their expressing their assent, he spake
 as follows :
 
 
-1 The exact distinction between hiri and ottappa is here ex-
-plained by Buddhaghosa as follows :
+1 The exact distinction between hiri and ottappa is here explained by Buddhaghosa as follows :
 
-'Hirimana' ti papa-^igu^^ana-lakkhatfaya hiriyd yut-
-ta£itt&. 'Ottapi'ti papato bhaya-lakkhawena ottappena sa-
+'Hirimana' ti papa-^igu^^ana-lakkhatfaya hiriyd yutta£itt&. 'Ottapi'ti papato bhaya-lakkhawena ottappena sa-
 manndgatd: that is, loathing sin as contrasted with fear of sin.
 But this is rather a gloss than an exact and exclusive definition.
 Ahirikd is shamelessness, anotappazra frowardness. At Gat. I,
-207 we find hiri described as subjective, and ottappa as objec-
-tive, modesty of heart as contrasted with decency in outward
+207 we find hiri described as subjective, and ottappa as objective, modesty of heart as contrasted with decency in outward
 behaviour.
 
 
@@ -2685,9 +2220,6 @@ I.
 
 
 maha-parinibbAna-sutta.
-
-
-9
 
 
 ' So long as the brethren shall exercise themselves
@@ -2698,8 +2230,7 @@ long may the brethren be expected not to decline,
 but to prosper.
 
 'So long as these conditions shall continue to
-exist among the brethren, so long as they are in-
-structed in these conditions, so long may the brethren
+exist among the brethren, so long as they are instructed in these conditions, so long may the brethren
 be expected not to decline, but to prosper.'
 
 10. ' Other seven conditions of welfare will I teach
@@ -2737,11 +2268,7 @@ seven perceptions.
 IO
 
 
-THE BOOK OF THE GREAT DECEASE. CH.
-
-
-4 So long as the brethren shall persevere in kind-
-ness of action, speech, and thought amongst the
+4 So long as the brethren shall persevere in kindness of action, speech, and thought amongst the
 saints, both in public and in private— so long as
 they shall divide without partiality, and share in
 common with the upright and the holy, all such
@@ -2749,8 +2276,7 @@ things as they receive in accordance with the
 just provisions of the order, down even to the mere
 contents of a begging bowl — so long as the brethren
 shall live among the saints in the practice, both
-in public and in private, of those virtues which (un-
-broken, intact, unspotted, unblemished) are produc-
+in public and in private, of those virtues which (unbroken, intact, unspotted, unblemished) are produc-
 tive of freedom x , and praised by the wise ; which are
 untarnished by the desire of future life, or by the
 belief in the efficacy of outward acts 2 ; and which
@@ -2766,15 +2292,12 @@ to prosper.
 
 1 Buddhaghosa takes this in a spiritual sense, 't&ni pan' et&ni
 (silani) tawha-dasavyato mo£etv& bhu^issa-bhdva-kara-
-«ato bhu^iss&ni : ' that is, ' These virtues are bhu^is's&ni be-
-cause they bring one to the state of a free man by delivering him
+«ato bhu^iss&ni : ' that is, ' These virtues are bhu^is's&ni because they bring one to the state of a free man by delivering him
 from the slavery of craving/
 
-2 Ta»ha-di/Mihi apar&ma/Matt&, idam nama tvaw apan-
-napubbo ti kena^i parama/Mutfz asakku# eyyattd £a, 'apa-
+2 Ta»ha-di/Mihi apar&ma/Matt&, idam nama tvaw apannapubbo ti kena^i parama/Mutfz asakku# eyyattd £a, 'apa-
 rama/Mani' (S. V. fol. //u), that is, 'These virtues are called
-aparama/Mani ' because they are untarnished by craving or de-
-lusion, and because no one can say of him who practises them,
+aparama/Mani ' because they are untarnished by craving or delusion, and because no one can say of him who practises them,
 " you have been already guilty of such and such a sin:'' ' Craving
 is here the hope of a future life in heaven, and delusion the
 belief in the efficacy of rites and ceremonies (the two nissayas)
@@ -2787,15 +2310,12 @@ I.
 MA H A-P ARINTBB AN A-SUTTA .
 
 
-exist among the brethren, so long as they are in-
-structed in these six conditions, so long may the
+exist among the brethren, so long as they are instructed in these six conditions, so long may the
 brethren be expected not to decline, but to prosper.'
 
 12. And whilst the Blessed One stayed there at
-Ra£agaha on the Vultures Peak he held that com-
-prehensive religious talk with the brethren on the
-nature of upright conduct, and of earnest contem-
-plation, and of intelligence. * Great is the fruit,
+Ra£agaha on the Vultures Peak he held that comprehensive religious talk with the brethren on the
+nature of upright conduct, and of earnest contemplation, and of intelligence. * Great is the fruit,
 great the advantage of earnest contemplation when
 set round with upright conduct. Great is the fruit,
 great the advantage of intellect when set round with
@@ -2804,12 +2324,10 @@ intelligence is freed from the great evils, that is
 to say, from sensuality, from individuality, from
 delusion, and from ignorance 1 /
 
-1 This paragraph is spoken of as if it were a well-known sum-
-mary, and it is constantly repeated below. The word I have
+1 This paragraph is spoken of as if it were a well-known summary, and it is constantly repeated below. The word I have
 rendered 1 earnest contemplation' is samadhi, which occupies in
 the Pali Pi/akas very much the same position as faith does in the
-New Testament ; and this section shows that the relative import-
-ance of sam&dhi, pa«»a, and sila played a part in early Bud- *
+New Testament ; and this section shows that the relative importance of sam&dhi, pa«»a, and sila played a part in early Bud- *
 dhism just as the distinction between faith, reason, and works
 did afterwards in Western theology. It would be difficult to find
 a passage in which the Buddhist view of the relation of these
@@ -2827,12 +2345,6 @@ so tena stlena paribhivito. 'The samddhi belonging to
 the (Noble Eightfold) Path is said to be paribh&vito by that
 virtue, in which they (that is, the converted) are steadfast whilst
 they practise the samadhi/
-
-
-12
-
-
-THE BOOK OF THE GREAT DECEASE. CH.
 
 
 13. Now when the Blessed One had sojourned
@@ -2857,8 +2369,7 @@ great evils, that is to say, from sensuality, from
 individuality, from delusion, and from ignorance/
 
 15. Now when the Blessed One had stayed as
-long as was convenient at Ambala#^ik&, he ad-
-dressed the venerable Ananda, and said : ' Come,
+long as was convenient at Ambala#^ik&, he addressed the venerable Ananda, and said : ' Come,
 Ananda, let us go on to NdlandA/
 
 ' So be it, Lord ! ' said Ananda, in assent, to the
@@ -2882,9 +2393,6 @@ I.
 
 
 MAHA-PARINIBBANA-SUTTA.
-
-
-13
 
 
 place where the Blessed One was, and having
@@ -2914,8 +2422,7 @@ same manner their whole minds with yours] ?'
 c Not so, O Lord!'
 
 * But at least then, O Sdriputta, thou knowest me
-a s the Arahat Buddha now alive, and hast pene-
-trated my mind [in the manner I have mentioned]! '
+a s the Arahat Buddha now alive, and hast penetrated my mind [in the manner I have mentioned]! '
 
 ' Not even that, O Lord ! '
 
@@ -2930,13 +2437,10 @@ hearts of the Arahat Buddhas that have been, and
 are to come, and now are. I only know the lineage
 
 
-14 THE BOOK OF THE GREAT DECEASE. CH.
-
 of the faith. Just, Lord, as a king might have a
 border city, strong in its foundations, strong in its
 ramparts and tora^as, and with one gate alone ; and
-the king might have a watchman there, clever, ex-
-pert, and wise, to stop all strangers and admit only
+the king might have a watchman there, clever, expert, and wise, to stop all strangers and admit only
 friends. And he, on going over the approaches all
 round the city, might not so observe all the joints
 and crevices in the ramparts of that city as to know
@@ -2967,17 +2471,13 @@ Buddha — he admits that his knowledge does not reach. But he
 maintains that he does know that which is, to him, after all the
 main thing, namely, that all the Buddhas must have passed through
 the process here laid down as leading up to Buddhahood. The
-Pali of 'the full fruition of Enlightenment ' is anuttara/0 sammd-
-sambodhi/rc, which might be rendered ' Supreme Buddhahood/
+Pali of 'the full fruition of Enlightenment ' is anuttara/0 sammdsambodhi/rc, which might be rendered ' Supreme Buddhahood/
 
 
 I.
 
 
 MAHA-PARINIBBAN A-SUTTA .
-
-
-15
 
 
 with the brethren on the nature of upright conduct,
@@ -3023,9 +2523,6 @@ Europe a similar custom is carried still further, persons leaving the
 royal presence being expected to go out backwards.
 
 
-1 6 THE BOOK OF THE GREAT DECEASE. CH.
-
-
 house fit in every way for occupation \ placed seats
 in it, set up a water-pot, and fixed an oil lamp.
 Then they returned to the Blessed One, and bowing,
@@ -3040,13 +2537,11 @@ and took his seat against the centre pillar, with his
 face towards the east. And the brethren also, after
 washing their feet, entered the hall, and took their
 seats round the Blessed One, against the western
-wall, and facing the east. And the Pi/alig&ma disci-
-ples too, after washing their feet, entered the hall,
+wall, and facing the east. And the Pi/alig&ma disciples too, after washing their feet, entered the hall,
 and took their seats opposite the Blessed One, against
 the eastern wall, and facing towards the west.
 
-23. 2 Then the Blessed One addressed the Pa/ali-
-g£ma disciples, and said : ' Fivefold, O householders,
+23. 2 Then the Blessed One addressed the Pa/alig£ma disciples, and said : ' Fivefold, O householders,
 is the loss of the wrong-doer through his want of
 rectitude. In the first place the wrong-doer, devoid
 of rectitude, falls into great poverty through sloth ;
@@ -3055,8 +2550,7 @@ thirdly, whatever society he enters — whether of
 Br&hmans, nobles, heads of houses, or Samaras —
 
 1 With reference to Oldenberg's note at Mah& Vagga, p. 384, it
-may be mentioned that Buddhaghosa says here, 'sabba-santha-
-rin' ti yathd sabbazra santhata/ra yeva. (S. V. fol. /e.)
+may be mentioned that Buddhaghosa says here, 'sabba-santharin' ti yathd sabbazra santhata/ra yeva. (S. V. fol. /e.)
 
 2 The following sentences contain a synopsis of what was merely
 the elementary righteousness, the Adi-brahma-^ariyaw, quite
@@ -3073,12 +2567,8 @@ I.
 maha-parinibbAna-sutta.
 
 
-17
-
-
 he enters shyly and confused ; fourthly, he is full
-of anxiety when he dies ; and lastly, on the dis-
-solution of the body, after death, he is reborn into
+of anxiety when he dies ; and lastly, on the dissolution of the body, after death, he is reborn into
 some unhappy state of suffering or woe 1 . This, O
 householders, is the fivefold loss of the evil-doer ! '
 
@@ -3087,8 +2577,7 @@ well-doer through his practice of rectitude. In the
 first place the well-doer, strong in rectitude, acquires
 great wealth through his industry ; in the next place,
 good reports of him are spread abroad ; thirdly,
-whatever society he enters — whether of nobles, BrAh-
-mans, heads of houses, or members of the order —
+whatever society he enters — whether of nobles, BrAhmans, heads of houses, or members of the order —
 he enters confident and self-possessed ; fourthly, he
 dies without anxiety ; and lastly, on the dissolution
 of the body, after death, he is reborn into some
@@ -3121,8 +2610,6 @@ u pon any judgment, it cannot accurately be so rendered.
 I
 
 
-1 8 THE BOOK OF THE GREAT DECEASE. CH.
-
 of Pi/aligdma had departed thence, entered into his
 private chamber.
 
@@ -3142,11 +2629,9 @@ of middling or inferior kings and ministers.
 clear vision, surpassing that of ordinary men, saw
 thousands of those fairies haunting Pd/aligima.
 And he rose up very early in the morning, and said
-to Ananda : 1 Who is it then, Ananda, who is build-
-ing a fortress at Pi/alig&ma ? '
+to Ananda : 1 Who is it then, Ananda, who is building a fortress at Pi/alig&ma ? '
 
-'Sunidha and VassakAra, Lord, the chief minis-
-ters of Magadha, are building a fortress there to keep
+'Sunidha and VassakAra, Lord, the chief ministers of Magadha, are building a fortress there to keep
 back the Va^ians.'
 
 28. They act, Ananda, as if they had consulted
@@ -3171,9 +2656,6 @@ I.
 
 
 maha-parinibbAna-sutta.
-
-
-19
 
 
 29. Now Sunldha and Vassakara, the chief
@@ -3205,8 +2687,7 @@ be applied to its full extent, as the time at which Pa/ali-gama
 had grown into the great and important city of Pa/ali-putta is not
 as yet known with sufficient certainty. The late Burmese tradition
 on this point given in Bigandet's Legend of the Burmese Buddha,
-vol. ii, p. 183, can scarcely be depended upon, though it doubt-
-less rests on older documents, and is mentioned also by Hiouen
+vol. ii, p. 183, can scarcely be depended upon, though it doubtless rests on older documents, and is mentioned also by Hiouen
 Thsang.
 
 The curious popular belief as to good and bad fairies haunting
@@ -3217,12 +2698,6 @@ Pi/akas. See, for instance, § 1 of the Maha-sila/w, translated
 below in the Tevi^a Sutta. The belief is turned to ridicule
 in the edifying legend, No. 40, in my 'Buddhist Birth Stories/
 pp. 326-334.
-
-
-20
-
-
-THE BOOK OF THE GREAT DECEASE.
 
 
 CH.
@@ -3281,9 +2756,6 @@ I.
 MAHA-PARINIBBANA-SUTTA.
 
 
-21
-
-
 32. And when he had thanked the ministers in
 these verses he rose from his seat and departed
 thence. And they followed him as he went, saying,
@@ -3319,18 +2791,11 @@ The verses were perhaps originally non-Buddhistic.
 1 Samatittika kakapeyyd. See the note on Tevi^a Sutta
 I, 19, translated below, where the same expression occurs.
 
-2 Ulumpan ti p&ra/rc gamanatthaya awiyo ko//etva ka-
-tam; kullan ti valli-ddihi bandhitva katabbaw, says
+2 Ulumpan ti p&ra/rc gamanatthaya awiyo ko//etva katam; kullan ti valli-ddihi bandhitva katabbaw, says
 Buddhaghosa. The spelling u/umpaw would correspond better
 to the Sanskrit form u</upa, and has been chosen by Childers in
 his dictionary, and by Oldenberg in his transliteration of this
 passage (Maha Vagga VI, 28 : 11, 12).
-
-
-22
-
-
-THE BOOK OF THE GREAT DECEASE.
 
 
 CH.
@@ -3346,8 +2811,7 @@ End of the First Portion for Recitation.
 1 That is, those who cross the 'ocean drear' of ta«h£, or
 craving; avoiding, by means of the 'dyke* or causeway of the
 Noble Path, the ' pools ' or shallows of lust, and ignorance, and
-delusion (comp. Dhp. v. 91), whilst the vain world looks for sal-
-vation from rites, and ceremonies, and gods, — ' these are the wise,
+delusion (comp. Dhp. v. 91), whilst the vain world looks for salvation from rites, and ceremonies, and gods, — ' these are the wise,
 these are the saved indeed ! '
 
 How the metre of the verses in the text fell into the confusion
@@ -3364,12 +2828,10 @@ had found the words ye visa^a pallalani setum katvana
 taranti a««avaw saraw, he might have corrected, as he thought,
 the order of the words so as to avoid any possibility of the words
 being taken to mean that the setu, the solid causeway, was made
-over the awwavaw sara/ra, the vastly deep, which would be pal-
-pably absurd. Buddhaghosa found setuw katv&na in the text,
+over the awwavaw sara/ra, the vastly deep, which would be palpably absurd. Buddhaghosa found setuw katv&na in the text,
 but it is not possible to tell in what order he found the words. The
 Tumour MS. of the Sumangala Vilasint has pabandhati, but a
-Ceylon copy of the Samanta Pasadikd confirms the Burmese read-
-ing bandhati at Mahd Vagga VI, 28, 13. I need scarcely say
+Ceylon copy of the Samanta Pasadikd confirms the Burmese reading bandhati at Mahd Vagga VI, 28, 13. I need scarcely say
 that the translation follows the printed text. We know too little
 about the history of the Pali Suttas to be able to do more than
 make a passing note of such curiosities.
@@ -3383,13 +2845,9 @@ II.
 MA HA-PARIN IBBAN A-SUTTA.
 
 
-23
-
-
 Chapter II.
 
-1. Now the Blessed One addressed the venera-
-ble Ananda, and said : ' Come, Ananda, let us go
+1. Now the Blessed One addressed the venerable Ananda, and said : ' Come, Ananda, let us go
 on to Kotfg&ma/
 
 ' So be it, Lord ! ' said Ananda, in assent, to the
@@ -3400,8 +2858,7 @@ of the brethren to Ko/ig&ma ; and there he stayed
 in the village itself 1 .
 
 2. And at that place the Blessed One addressed
-the brethren, and said : c It is through not under-
-standing and grasping four Noble Truths, O brethren,
+the brethren, and said : c It is through not understanding and grasping four Noble Truths, O brethren,
 that we have had to run so long, to wander so
 long in this weary path of transmigration, both you
 and IT
@@ -3429,9 +2886,6 @@ this and one or two other cases) inserted with due regularity even
 when it adds nothing positive to the sense.
 
 
-24 THE BOOK OF THE GREAT DECEASE.
-
-
 CH.
 
 
@@ -3449,10 +2903,8 @@ The root of sorrow rooted out, and there is no
 more birth/
 
 4. There too, while staying at Korig&ma, the
-Blessed One held that comprehensive religious dis-
-course with the brethren on the nature of upright
-conduct, and of earnest contemplation, and of in-
-telligence. ' Great is the fruit, great the advan-
+Blessed One held that comprehensive religious discourse with the brethren on the nature of upright
+conduct, and of earnest contemplation, and of intelligence. ' Great is the fruit, great the advan-
 tage of earnest contemplation when set round with
 upright conduct. Great is the fruit, great the
 advantage of intellect when set round with earnest
@@ -3498,8 +2950,7 @@ Bhadda, and Subhadda.
 
 7. * The brother named S£L/>£a, Ananda, by the
 destruction of the great evils has by himself, and in
-this world, known and realised and attained to Ara-
-hatship, and to emancipation of heart and to emanci-
+this world, known and realised and attained to Arahatship, and to emancipation of heart and to emanci-
 pation of mind. The sister named Nandi, Ananda,
 has, by the complete destruction of the five bonds
 that bind people to this world, become an inheritor
@@ -3520,10 +2971,7 @@ resting-place for travellers, which in this instance bore the proud
 title of Brick Hall, see ' Buddhist Birth Stories/ pp. 280-285.
 
 
-26 THE BOOK OF THE GREAT DECEASE. CH.
-
-tion \ The devout Kakudha, Ananda, by the com-
-plete destruction of the five bonds that bind people
+tion \ The devout Kakudha, Ananda, by the complete destruction of the five bonds that bind people
 to these lower worlds of lust, has become an inheritor
 of the highest heavens, there to pass entirely away,
 thence never to return. So also is the case with
@@ -3532,8 +2980,7 @@ Bhadda, and Subhadda, and with more than fifty
 devout men of N&dika. More than ninety devout
 men of N&dika, who have died, Ananda, have by
 the complete destruction of the three bonds, and
-by the reduction of lust, hatred, and delusion, be-
-come Sakadagamins, who on their first return to
+by the reduction of lust, hatred, and delusion, become Sakadagamins, who on their first return to
 this w T orld will make an end of sorrow. More than
 five hundred devout men of N&dika who have died,
 Ananda, have by the complete destruction of the
@@ -3543,12 +2990,10 @@ of final salvation.
 
 8. * Now there is nothing strange in this, Ananda,
 that a human being should die, but that as each one
-does so you should come to the Buddha, and en-
-quire about them in this manner, that is wearisome
+does so you should come to the Buddha, and enquire about them in this manner, that is wearisome
 to the Buddha. I will, therefore, teach you a way
 of truth, called the Mirror of Truth, which if an
-elect disciple possess he may himself predict of him-
-self, " Hell is destroyed for me, and rebirth as an
+elect disciple possess he may himself predict of himself, " Hell is destroyed for me, and rebirth as an
 animal, or a ghost, or in any place of woe. I am
 converted, I am no longer liable to be reborn in a
 state of suffering, and am assured of final salvation."
@@ -3567,18 +3012,13 @@ II.
 MAHA-PARINIBBANA-SUTTA.
 
 
-27
-
-
 believing the Blessed One to be the Holy One,
 the Fully-enlightened One, Wise, Upright, Happy,
-World-knowing, Supreme, the Bridler of mens way-
-ward hearts, the Teacher of gods and men, the
+World-knowing, Supreme, the Bridler of mens wayward hearts, the Teacher of gods and men, the
 Blessed Buddha. And that he (the disciple) is
 possessed of faith in the Truth — believing the truth
 to have been proclaimed by the Blessed One, of
-advantage in this world, passing not away, wel-
-coming all, leading to salvation, and to be attained
+advantage in this world, passing not away, welcoming all, leading to salvation, and to be attained
 to by the wise, each one for himself. And that he
 (the disciple) is possessed of faith in the Order —
 believing the multitude of the disciples of the Blessed
@@ -3609,17 +3049,10 @@ salvation/' '
 1 See above, § I, 11.
 
 
-28
-
-
-THE BOOK OF THE GREAT DECEASE.
-
-
 CH.
 
 
-Blessed One addressed to the brethren that com-
-prehensive religious discourse on the nature of up-
+Blessed One addressed to the brethren that comprehensive religious discourse on the nature of up-
 right conduct, and of earnest contemplation, and of
 intelligence.
 
@@ -3667,9 +3100,6 @@ II.
 M AH A-PARINIBB AN A-S U TTA .
 
 
-29
-
-
 as he thinks or reasons or feels let him overcome
 the grief which arises from the craving due to ideas,
 or reasoning, or feeling/
@@ -3688,23 +3118,19 @@ or waking, in talking and in being silent.
 and thoughtful ; this is our instruction to you V
 
 
-1 This doctri ne of being ' mindful and thoughtful ' — s a t o s a m p a-
-gzno — is one of the lessons most frequently inculcated in the
+1 This doctri ne of being ' mindful and thoughtful ' — s a t o s a m p agzno — is one of the lessons most frequently inculcated in the
 Pali Pi/akas, and is one of the ' Seven Jewels of the Law.' It is
 fully treated of in each of the Nikayas, forming the subject of the
 Maha Satippa//Mna Sutta in the Digha Nikdya, and the Satipa//Mna
 Sutta of the Ma^g^ima Nikaya, and the Satippa/Mana Vaggo of
 the Sazrayutta Nikaya, as well as of various passages in the
-Anguttara Nikaya and of the work called Vibhahga in the Abhi-
-dhamma Pi/aka. I am glad to learn that Dr. Morris intends to
+Anguttara Nikaya and of the work called Vibhahga in the Abhidhamma Pi/aka. I am glad to learn that Dr. Morris intends to
 collect and compare all these passages in his forthcoming work
-on the ' Seven Jewels of the Law.' These sections of the Maha-
-parinibbina Sutta and the treatment in the Vibhahga have pre-
+on the ' Seven Jewels of the Law.' These sections of the Mahaparinibbina Sutta and the treatment in the Vibhahga have pre-
 served, in Dr. Morris's opinion, the oldest form of the doctrine.
 Compare Chap. II, § 34.
 
-Buddhaghosa has no comment here on the subject itself, re-
-serving what he has to say for the comment on the Suttas devoted
+Buddhaghosa has no comment here on the subject itself, reserving what he has to say for the comment on the Suttas devoted
 entirely to it ; but he observes in passing that the reason why the
 Blessed One laid stress, at this particular time and place, on the
 necessity of being 'mindful and thoughtful/ was because of the
@@ -3714,8 +3140,6 @@ Wow, Chap. V, § 13 (text. p. 51), in reference to the way in
 which women should be treated, is quite in accordance with this
 explanation. But see the next note.
 
-
-30 THE BOOK OF THE GREAT DECEASE. CH.
 
 1 6. 1 Now the courtezan Ambap&li heard that the
 Blessed One had arrived at Ves&li, and was staying
@@ -3765,9 +3189,6 @@ II.
 M AH A-PARINIBBANA-SU TTA.
 
 
-31
-
-
 18. Now the Li^^avis of Ves&li heard that the
 Blessed One had arrived at Vesali, and was staying
 at Ambap&li's grove. And ordering a number of
@@ -3797,8 +3218,7 @@ thousand/ said they.
 subject territory 1 , I would not give up so honourable
 a feast !'
 
-Then the Li^Mavis cast up their hands * exclaim-
-ing, 'We are outdone by this mango girl! we are
+Then the Li^Mavis cast up their hands * exclaiming, 'We are outdone by this mango girl! we are
 out-reached by this mango girl 3 ! ' and they went on
 to Ambap&li's grove.
 
@@ -3814,12 +3234,6 @@ angul! poMesun ti ahguli Mlesu/w. (S. V. /au.)
 * Ambapali means mango grower, one who looks after mangoes.
 
 
-32
-
-
-THE BOOK OF THE GREAT DECEASE.
-
-
 CH.
 
 
@@ -3829,8 +3243,7 @@ brethren, and said :
 * O brethren, let those of the brethren who have
 never seen the Tavatiwsa gods, gaze upon this
 company of the Li£££avis, behold this company of
-the LL&£^avis, compare this company of the Li^Aa-
-vis — even as a company of Tivatiwsa gods 1 .'
+the LL&£^avis, compare this company of the Li^Aavis — even as a company of Tivatiwsa gods 1 .'
 
 21. And when they had ridden as far as the
 ground was passable for carriages, the \Akkkaxis
@@ -3838,8 +3251,7 @@ alighted there, and then went on on foot to the
 place where the Blessed One was, and took their
 seats respectfully by his side. And when they
 were thus seated the Blessed One instructed and
-roused and incited and gladdened them with reli-
-gious discourse 2 .
+roused and incited and gladdened them with religious discourse 2 .
 
 22. Then they instructed and roused and incited
 and gladdened with his words, addressed the Blessed
@@ -3873,12 +3285,8 @@ II.
 mahA-parinibbana-sutta.
 
 
-33
-
-
 Then the LL&6^avis cast up their hands, exclaiming,
-' We are outdone by this mango girl ! we are out-
-reached by this mango girl ! ' And expressing their
+' We are outdone by this mango girl ! we are outreached by this mango girl ! ' And expressing their
 thanks and approval of the words of the Blessed
 One, they rose from their seats and bowed down
 before the Blessed One, and keeping him on their
@@ -3892,8 +3300,7 @@ meal is ready!'
 
 And the Blessed One robed himself early in the
 morning, and took his bowl, and went with the
-brethren to the place where Ambapili's dwelling-
-house was : and when he had come there he seated
+brethren to the place where Ambapili's dwellinghouse was : and when he had come there he seated
 himself on the seat prepared for him. And Ambap&li
 the courtezan set the sweet rice and cakes before the
 order, with the Buddha at their head, and waited
@@ -3905,8 +3312,7 @@ sat down at his side, and addressed the Blessed One,
 and said : ' Lord, I present this mansion to the order
 of mendicants, of which the Buddha is the chief.'
 And the Blessed One accepted the gift; and after
-instructing, and rousing, and inciting, and gladden-
-ing her with religious discourse, he rose from his
+instructing, and rousing, and inciting, and gladdening her with religious discourse, he rose from his
 seat and departed thence 1 .
 
 1 Bishop Bigandet says: 'In recording the conversion of a
@@ -3915,9 +3321,6 @@ his disciples, and the preference designedly given to her over
 princes and nobles, who, humanely speaking, seemed in every
 respect better entitled to attentions — one is almost reminded of
 [Ilj D
-
-
-34 THE BOOK OF THE GREAT DECEASE. CH.
 
 
 25. While at Ambapilis mango grove the Blessed
@@ -3958,8 +3361,7 @@ I shall enter upon the rainy season here at Beluva/
 the conversion of " a woman that was a sinner," mentioned in the
 Gospels' (Legend of the Burmese Budha, 2nd ed. p. 258).
 
-1 Beluva-g&mako ti Vesali-samtpe p&da-g&mako, 'avil-
-lage on a slope at the foot of a hill near Vesali/ says Buddhaghosa,
+1 Beluva-g&mako ti Vesali-samtpe p&da-g&mako, 'avillage on a slope at the foot of a hill near Vesali/ says Buddhaghosa,
 (S. V. /au.)
 
 
@@ -3967,9 +3369,6 @@ II.
 
 
 mahA-parinibbAna-sutta.
-
-
-35
 
 
 * So be it, Lord ! ' said those brethren, in assent,
@@ -3982,8 +3381,7 @@ even there at Beluva.
 28. Now when the Blessed One had thus entered
 upon the rainy season, there fell upon him a dire
 sickness, and sharp pains came upon him, even unto
-death. But the Blessed One, mindful and self-
-possessed, bore them without complaint.
+death. But the Blessed One, mindful and selfpossessed, bore them without complaint.
 
 29. Then this thought occurred to the Blessed
 One, i It would not be right for me to pass away
@@ -3999,21 +3397,16 @@ his hold on life till the time he fixed upon should
 come. And the sickness abated upon him.
 
 31. Now very soon after the Blessed One began
-to recover ; when he had quite got rid of the sick-
-ness, he went out from the monastery, and sat down
+to recover ; when he had quite got rid of the sickness, he went out from the monastery, and sat down
 behind the monastery on a seat spread out there.
 And the venerable Ananda went to the place where
 the Blessed One was, and saluted him, and took
 a seat respectfully on one side, and addressed the
 
-1 The commentary on ^fvita-sankh&ra/w adhitthsiya viha-
-reyyan is not quite clear, but the general meaning of the words
+1 The commentary on ^fvita-sankh&ra/w adhitthsiya vihareyyan is not quite clear, but the general meaning of the words
 cannot be very different from the version given in the text.
 
 D 2
-
-
-36
 
 
 THE BOOK OF THE GREAT DECEASE. Ctt.
@@ -4030,10 +3423,8 @@ from the thought that the Blessed One would not
 pass away from existence until at least he had left
 instructions as touching the order/
 
-32. 'What, then, Ananda? Does the order ex-
-pect that of me ? I have preached the truth without
-making any distinction between exoteric and esote-
-ric doctrine : for in respect of the truths, Ananda, the
+32. 'What, then, Ananda? Does the order expect that of me ? I have preached the truth without
+making any distinction between exoteric and esoteric doctrine : for in respect of the truths, Ananda, the
 Tath&gata has no such thing as the closed fist of
 a teacher, who keeps some things back 2 . Surely,
 Ananda, should there be any one who harbours the
@@ -4041,22 +3432,16 @@ thought, "It is I who will lead the brotherhood,"
 or, " The order is dependent upon me," it is he who
 
 
-1 Madhuraka-^ato viyd ti saw^ata-garubhdvo sa^i-
-ta/Mabh&vo (sic) sule utt&sita-sadiso : na pakkh&yantl
+1 Madhuraka-^ato viyd ti saw^ata-garubhdvo sa^ita/Mabh&vo (sic) sule utt&sita-sadiso : na pakkh&yantl
 ti na pakdsenti nanakarawa na upa/Mahanti: Dhammi
-pi ma/rc na ppa/ibhanti ti sati-ppa//Mna dhamma may-
-ha.m paka/a na honti. (S. V. fol. /am.) As the first clause is
+pi ma/rc na ppa/ibhanti ti sati-ppa//Mna dhamma mayha.m paka/a na honti. (S. V. fol. /am.) As the first clause is
 corrupt, I have translated madhuraka-^&to independently of it.
 Childers's reading na/rc na ppa/ibhanti is clearly incorrect. My
-own MS. of the Dtgha Nildya and the Tumour MS. of the Sam-
-yutta Nikaya agree with Buddhaghosa.
+own MS. of the Dtgha Nildya and the Tumour MS. of the Samyutta Nikaya agree with Buddhaghosa.
 
-2 Na tatth' Ananda Tath&gatassa dhammesu a£ariya-
-mu/Mi; on which Buddhaghosa say s, A k a r i y a - m u tth \ (M S . vuMl)
-ti yath& bdhirak&naw &£ariya-mu/Mi nama hoti: dahara-
-kdle kassa^i akathetvd pa££^ima-k&le mara»a-ma^e
-nipanni piya-manapassa antevasikassa kathenti: evam Ta-
-thagatassa idaw mahallaka-kale pa^ima-ZMane kathes-
+2 Na tatth' Ananda Tath&gatassa dhammesu a£ariyamu/Mi; on which Buddhaghosa say s, A k a r i y a - m u tth \ (M S . vuMl)
+ti yath& bdhirak&naw &£ariya-mu/Mi nama hoti: daharakdle kassa^i akathetvd pa££^ima-k&le mara»a-ma^e
+nipanni piya-manapassa antevasikassa kathenti: evam Tathagatassa idaw mahallaka-kale pa^ima-ZMane kathes-
 sami ti mu/Mitf* (MS. vuilhim) katvd pariharitvd Mapitaw
 ki«£i n'atthi ti. (S. V. /am.) Comp. Gataka II, 221, 250.
 
@@ -4067,15 +3452,10 @@ II.
 MA H A-PARINIBB AN A-S U TTA.
 
 
-37
-
-
-should lay down instructions in any matter concern-
-ing the order. Now the Tathdgata, Ananda, thinks
+should lay down instructions in any matter concerning the order. Now the Tathdgata, Ananda, thinks
 not that it is he who should lead the brotherhood, or
 that the order is dependent upon him. Why then
-should he leave instructions in any matter concern-
-ing the order ? I too, O Ananda, am now grown
+should he leave instructions in any matter concerning the order ? I too, O Ananda, am now grown
 old, and full of years, my journey is drawing to
 its close, I have reached my sum of days, I am
 turning eighty years of age ; and just as a worn-out
@@ -4097,24 +3477,16 @@ there reads vekhamissakena, as the Burmese MS. does here.
 My Digha Nikaya confirms Childers's reading, which no doubt
 correctly represents the uniform tradition of the Ceylon MSS.
 The Sumangala Vil&sini goes on, maHe ti ^ara-saka/aw
-viya meghamissakena ma##e yapeti arahatta-phala-
-veghanena ^atu-iriya patha-kappanaaz Tathigatassa
+viya meghamissakena ma##e yapeti arahatta-phalaveghanena ^atu-iriya patha-kappanaaz Tathigatassa
 hoti nidasseti. Here the reading megha of the Tumour MS-
 must be a copyist's slip of the pen for vegha, and veghanena
 is no clearer than veghamissakena. On the use of the
 word missaka at the end of a compound see G&taka II, 8,
-420, 433. I have translated on what seems to me the only solu-
-tion at present possible, namely, that an initial a has been dropt,
+420, 433. I have translated on what seems to me the only solution at present possible, namely, that an initial a has been dropt,
 and that vegha or vekhd=aveksha, 'attention, foresight, care.'
 In the same way though avala/z^eti does occur (Gataka I, 111),
 the more usual form in Pali, and the only one given by Childers,
 is vala^eti.
-
-
-38
-
-
-THE BOOK OF THE GREAT DECEASE.
 
 
 CH.
@@ -4126,8 +3498,7 @@ plunged in that devout meditation of heart which is
 concerned with no material object — it is only then
 that the body of the Tath&gata is at ease.
 
-33. ' Therefore, O Ananda, be ye lamps unto your-
-selves. Be ye a refuge to yourselves. Betake
+33. ' Therefore, O Ananda, be ye lamps unto yourselves. Be ye a refuge to yourselves. Betake
 yourselves to no external refuge. Hold fast to the
 truth as a lamp. Hold fast as a refuge to the truth.
 Look not for refuge to any one besides yourselves.
@@ -4165,9 +3536,6 @@ II.
 mahA-parinibbana-sutta.
 
 
-39
-
-
 bhikkhus, who shall reach the very topmost
 Height ! — but they must be anxious to learn V
 
@@ -4179,12 +3547,9 @@ End of the Second Portion for Recitation.
 sikkh&kdma\ The Burmese MSS. for me te read p'ete, which
 is a little easier. Buddhaghosa says, Tamatagge ti tamagge.
 Maggfte takdro padasandhivasena vutto. Idaw vuttazra
-hoti ime aggatama ime aggama ti : evaza sabbaoz taraa-
-yog&m i^inditva 4 ativiya agge uttama-bh&ve te Ananda
-mamam bhikkhu bhavissanti. Kesaw ati-agge bhavis-
-santi? Ye ke£i sikkhak&md sabbesa^ te £atu-sati-ppa/-
-/Mna-go£ar& kz. bhikkhu agge bhavissanti ti. Arahatta-
-tiku/ena desawam gawhati, * Tamatagge is for tamagge.
+hoti ime aggatama ime aggama ti : evaza sabbaoz taraayog&m i^inditva 4 ativiya agge uttama-bh&ve te Ananda
+mamam bhikkhu bhavissanti. Kesaw ati-agge bhavissanti? Ye ke£i sikkhak&md sabbesa^ te £atu-sati-ppa/-
+/Mna-go£ar& kz. bhikkhu agge bhavissanti ti. Arahattatiku/ena desawam gawhati, * Tamatagge is for tamagge.
 The t in the middle is used for euphony. This word means,
 "these are the most pre-eminent, the very chief." Having, as
 above stated, broken every bond of darkness (tama) those bhikkhus
@@ -4195,8 +3560,7 @@ ways of being mindful and thoughtful, they shall be at the top of
 all (the rest). Thus does he make Arahatship the three-peaked
 height of his discourse' (compare on this last phrase Nibb&nena
 desanaku/a^ gawhati, Gataka I, 275, 393, 401 ; and see also
-I, 114). Uttama, the highest (scil. bhava, condition), is used abso-
-lutely of Arahatship or Nirvawa at G&taka I, 96; Aggaphala
+I, 114). Uttama, the highest (scil. bhava, condition), is used absolutely of Arahatship or Nirvawa at G&taka I, 96; Aggaphala
 occurs in the same sense at Gataka I, 114; and even Phalagga
 at Mah. 102. The last words, 'but they must be anxious to learn,'
 seem to me to be an after thought. It is only those who are
@@ -4210,12 +3574,6 @@ For a gg am & in the comment we must read aggatamd. If one
 could read amatagge in the text, all difficulty would vanish ; but
 this would be too bold, and neither do I see how the use of
 anamatagge can help us.
-
-
-40
-
-
-THE BOOK OF THE GREAT DECEASE.
 
 
 CH,
@@ -4247,8 +3605,7 @@ and the Sattambaka Ajetiya, and the Bahuputta
 Aetiya, and the Sdrandada Ajetiya, and the ATipila
 ATetiya.
 
-3. 'Ananda! whosoever has thought out, deve-
-loped, practised, accumulated, and ascended to the
+3. 'Ananda! whosoever has thought out, developed, practised, accumulated, and ascended to the
 very heights of the four paths to Iddhi 2 , and so
 
 1 The whole of this passage down to the end of § 10 recurs in
@@ -4267,9 +3624,6 @@ III.
 MAHA-PARINIBBANA-SUTTA.
 
 
-41
-
-
 mastered them as to be able to use them as a
 means of (mental) advancement, and as a basis for
 edification, he, should he desire it, could remain in
@@ -4283,12 +3637,10 @@ kalpa which has yet to run/
 
 4. But even though a suggestion so evident and
 a hint so clear were thus given by the Blessed One,
-the venerable Ananda was incapable of comprehend-
-ing them ; and he besought not the Blessed One,
+the venerable Ananda was incapable of comprehending them ; and he besought not the Blessed One,
 saying, * Vouchsafe, Lord, to remain during the
 kalpa ! Live on through the kalpa, O Blessed One !
-for the good and the happiness of the great multi-
-tudes, out of pity for the world, for the good and
+for the good and the happiness of the great multitudes, out of pity for the world, for the good and
 the gain and the weal of gods and men ! ' So far
 was his heart possessed by the Evil One \
 
@@ -4312,15 +3664,11 @@ MS. of the Digha Nikaya and the Tumour MS. of the Sumangala
 Vilasini read pariz/u/Mita, and either spelling is correct. The
 
 
-42 THE BOOK OF THE GREAT DECEASE. CH.
-
-
 5. A second and a third time did the Blessed One
 [say the same thing, and a second and a third time
 was Ananda's heart thus hardened}
 
-6. Now the Blessed One addressed the venera-
-ble Ananda, and said : ' You may leave me, Ananda,
+6. Now the Blessed One addressed the venerable Ananda, and said : ' You may leave me, Ananda,
 awhile, and do whatever seemeth to thee fit/
 
 ' So be it, Lord ! ' said the venerable Ananda, in
@@ -4333,8 +3681,7 @@ A
 
 7. Now not long after the venerable Ananda
 had been gone, M&ra, the Evil One, approafched the
-Blessed One, and stood beside him. And so stand-
-ing there, he addressed the Blessed One in these
+Blessed One, and stood beside him. And so standing there, he addressed the Blessed One in these
 words :
 
 ' Pass away now, Lord, from existence ; let the
@@ -4352,12 +3699,10 @@ writers of Pali, in those cases in which the second vowel begins a
 word, use without hesitation the initial sign ; but in the middle of
 the word this would be so ungainly that they naturally prefer to
 insert a consonantal sign to carry the vowel sign. The varying
-readings I have pointed out are a strong confirmation of the cor-
-rectness of the pronunciation of modern native scholars ; and we
+readings I have pointed out are a strong confirmation of the correctness of the pronunciation of modern native scholars ; and we
 may the more readily adopt it as the question is not really one
 concerning the pronunciation of Pali, but concerning the use which
-modern native copyists make of their own alphabet. I would pro-
-nounce therefore pari-u/Mita-^itto.
+modern native copyists make of their own alphabet. I would pronounce therefore pari-u/Mita-^itto.
 
 
 III.
@@ -4366,27 +3711,20 @@ III.
 M AH A-P ARINIBBAN A-SU TTA.
 
 
-43
-
-
 word which the Blessed One spoke when he said 1 :
 " I shall not die, O Evil One ! until the brethren
 and sisters of the order, and until the lay-disciples
 of either sex 2 shall have become true hearers, wise
 and well-trained, ready and learned, versed in the
 Scriptures, fulfilling all the greater and the lesser
-duties, correct in life, walking according to the pre-
-cepts — until they, having thus themselves learned
+duties, correct in life, walking according to the precepts — until they, having thus themselves learned
 the doctrine, shall be able to tell others of it, preach
-it, make it known, establish it, open it, minutely ex-
-plain it and make it clear — until they, when others
+it, make it known, establish it, open it, minutely explain it and make it clear — until they, when others
 start vain doctrine, shall be able by the truth to
-vanquish and refute it, and so to spread the wonder-
-working truth abroad ! " '
+vanquish and refute it, and so to spread the wonderworking truth abroad ! " '
 
 8. * And now, Lord, the brethren and sisters of the
-order and the lay-disciples of either sex have be-
-come [all this], are able to do [all this]. Pass away
+order and the lay-disciples of either sex have become [all this], are able to do [all this]. Pass away
 now therefore, Lord, from existence ; let the Blessed
 One now die ! The time has come for the Blessed
 One to pass away — even according to the word
@@ -4408,8 +3746,6 @@ Evil One then also tempted him to die (see below, paragraph III,
 2 The whole paragraph is repeated, here and below, for each of
 these classes of persons.
 
-
-44 THE BOOK OF THE GREAT DECEASE. CH.
 
 existence; let the Blessed One now die! The time
 has come for the Blessed One to pass away ! '
@@ -4436,8 +3772,7 @@ Like coat of mail, his life's own cause ! '
 
 
 11. Now the following thought occurred to the
-venerable Ananda : ' Wonderful indeed and marvel-
-lous is it that this mighty earthquake should arise,
+venerable Ananda : ' Wonderful indeed and marvellous is it that this mighty earthquake should arise,
 awful and terrible, and that the thunders of heaven
 should burst forth ! What may be the proximate,
 what the remote cause of the appearance of this
@@ -4446,8 +3781,7 @@ earthquake ? '
 12. Then the venerable Ananda went up to the
 place where the Blessed One was, and did obeisance
 to the Blessed One, and seated himself respectfully
-at one side, and said : * Wonderful indeed and mar-
-vellous is it that this mighty earthquake should
+at one side, and said : * Wonderful indeed and marvellous is it that this mighty earthquake should
 arise, awful and terrible, and that the thunders of
 
 
@@ -4455,9 +3789,6 @@ III.
 
 
 mahA-parinibbana-sutta.
-
-
-45
 
 
 heaven should burst forth! What may be the
@@ -4491,26 +3822,21 @@ renunciation, the temptation, and the death of the Buddha; the
 guardian angels who watch over men, and towns, and countries ;
 and many other similar beings. ' Celestial being ' would be wholly
 inapplicable, for instance, to the creatures referred to in the curious
-passage above (§ I, 26). * Superhuman being ' would be an inaccu-
-rate rendering ; for all these light and airy shapes come below, and
+passage above (§ I, 26). * Superhuman being ' would be an inaccurate rendering ; for all these light and airy shapes come below, and
 after, man in the Buddhist order of precedence. 'Spirit' being
 used of the soul inside the human body, and of the human soul
 after it has left the body, and figuratively of mental faculties — none
-of which are included under devatd — would suggest ideas incon-
-sistent with that of the Pali word. As there is therefore no appro-
+of which are included under devatd — would suggest ideas inconsistent with that of the Pali word. As there is therefore no appro-
 priate general word I have chosen, for each passage where the
 expression occurs, the word used in English of the special class
 
-
-46 THE BOOK OF THE GREAT DECEASE. CH,
 
 one by intense meditation of the finite idea of earth
 or the infinite idea of water (has succeeded in
 realising the comparative value of things 1 ) he can
 make this earth move and tremble and be shaken
 violently. These are the second causes, proximate
-or remote, of the appearance of a mighty earth-
-quake.
+or remote, of the appearance of a mighty earthquake.
 
 1 5. 'Again, Ananda, when a Bodhisatta consciously
 and deliberately leaves his temporary form in the
@@ -4526,8 +3852,7 @@ English for them all, I have ventured to put the word devata* into
 my version, and to trouble the reader with this note.
 
 1 Yassa paritt& paMavi-sawwd bhavit& hoti appam£»£
-&posa#M, on which Buddhaghosa says simply, Paritta* ti dub-
-bald: appama^d ti balav&, and then goes on, as a note to
+&posa#M, on which Buddhaghosa says simply, Paritta* ti dubbald: appama^d ti balav&, and then goes on, as a note to
 kampeti, to tell a long story how Sangharakkhita S&ma«era, the
 nephew of Naga Thera, attained Arahatship on the day of his
 admission to the order; and at once proceeded to heaven, and
@@ -4539,8 +3864,7 @@ universe, and make the palaces of the gods to tremble, just as faith
 is said in Matthew xxi. 21 to be able to remove mountains, and
 cause them to be cast into the sea. But these figurative expressions
 have, in Buddhism, become a fruitful soil for the outgrowth of
-superstitions and misunderstandings ; and the train of early Bud-
-dhist speculation in this field has yet to be elucidated. There is
+superstitions and misunderstandings ; and the train of early Buddhist speculation in this field has yet to be elucidated. There is
 much about it in the Maha* Padh&na Sutta of the Digha Nik£ya,
 where Chap. Ill, §§ 1 1-20 recur.
 
@@ -4552,9 +3876,6 @@ III.
 
 
 mahA-parinibbAna-sutta.
-
-
-47
 
 
 1 6. * Again, Ananda, when a Bodhisatta deliberately
@@ -4574,8 +3895,7 @@ account will be found at length in my ' Buddhist Birth Stories ' (pp.
 with those in the text. The sacred event is also one of those
 represented on the ancient bas-reliefs round the Bharhut Thupa, a
 full description of which will be found in General Cunningham's
-most interesting work, ' The Stupa of Bharhut.' General Cunning-
-ham says of the description placed above this sculpture : * Above it
+most interesting work, ' The Stupa of Bharhut.' General Cunningham says of the description placed above this sculpture : * Above it
 in large characters is inscribed Bhagavatorukdanta, which may
 perhaps be translated, " Buddha as the sounding elephant," from ru,
 to sound, to make a particular sort of sound.' Now the first word
@@ -4585,8 +3905,7 @@ elephant.' But the characters which General Cunningham reads
 rukdanta are, I venture to suggest, okkanti (? ukkanti) ; and the
 inscription simply says, ' The descent of the blessed One.' As
 I have pointed out in 'Buddhism' (p. 184), the white elephant
-legend is one of those hallowed sun stories by which half-con-
-verted Hindus have striven to embellish the life story of the
+legend is one of those hallowed sun stories by which half-converted Hindus have striven to embellish the life story of the
 Teacher whose followers they had become. In the Lalita Vistara
 (Calc. ed. p. 63) the entrance of the elephant into Maya* precedes
 the dream ; but though the ignorant may have therefore accepted
@@ -4598,9 +3917,6 @@ In the earliest of the Apocryphal Gospels, the Gospel according to
 the Hebrews, the incarnation of the divine gentleness and love is
 expressed by saying that a dove from heaven 'entered into' the
 human form.
-
-
-48 THE BOOK OF THE GREAT DECEASE. CH.
 
 
 This is the fifth cause, proximate and remote, of the
@@ -4625,8 +3941,7 @@ earth quakes and trembles and is shaken violently.
 This is the eighth cause, proximate and remote, of
 the appearance of a mighty earthquake.
 
-21. ' Now of eight kinds, Ananda, are these as-
-semblies. Which are the eight 1 ? Assemblies of
+21. ' Now of eight kinds, Ananda, are these assemblies. Which are the eight 1 ? Assemblies of
 nobles, Brahma/zas, householders, and Samaras, and
 the angel hosts of the Guardian Angels, the Great
 Thirty-Three, Mara, and Brahma.
@@ -4650,22 +3965,17 @@ III.
 mahA-parinibbAna-sutta.
 
 
-49
-
-
 I used to instruct, incite, and quicken them, and fill
 them with gladness. 1 But they knew me not when
 I spoke, and would say, " Who may this be who thus
 speaks ? a man or a god ? " Then having instructed,
-incited, quickened, and gladdened them with reli-
-gious discourse, I would vanish away. But they
+incited, quickened, and gladdened them with religious discourse, I would vanish away. But they
 knew me not even when I vanished away; and
 would say, " Who may this be who has thus vanished
 away ? a man or a god ? " '
 
 23. [And in the same words the Blessed One
-spake of how he had been used to enter into assem-
-blies of each of the other of the eight kinds, and of
+spake of how he had been used to enter into assemblies of each of the other of the eight kinds, and of
 how he had not been made known to them either in
 speaking or in vanishing away.] ' Now these, Ananda,
 are the eight assemblies/
@@ -4677,8 +3987,7 @@ apparent permanence of external things *]. What
 are the eight?
 
 
-1 Abhibh&yatant ti abhibhavanakdra«&ni. Kim abhi-
-bhavanti? Pa££anika-dharame pi &rammaw£ni pi: tani
+1 Abhibh&yatant ti abhibhavanakdra«&ni. Kim abhibhavanti? Pa££anika-dharame pi &rammaw£ni pi: tani
 hi pa/ipakkha-bhdvena pa££antka-dhamme abhibhavanti
 puggalassa «anuttaritaya aramma«£ni, says Buddhaghosa.
 (Sum. Vil. th\.)
@@ -4692,31 +4001,24 @@ great necessity is to get rid of the delusion that what one sees
 and feels is real and permanent. Nothing is real and permanent
 but character.
 
-The so-called eight Positions of Mastery are merely an expan-
-sion of the first two of the following eight Stages of Deliverance,
+The so-called eight Positions of Mastery are merely an expansion of the first two of the following eight Stages of Deliverance,
 and the whole argument is also expressed in another form in the
 
 [II] E
 
 
-50 THE BOOK OF THE GREAT DECEASE. CH.
-
-
 25. 4 When a man having subjectively the idea of
 form sees externally forms which are finite, and
-pleasant or unpleasant to the sight, and having mas-
-tered them, is conscious that he knows and sees —
+pleasant or unpleasant to the sight, and having mastered them, is conscious that he knows and sees —
 this is the first position of mastery.
 
 26. ' When a man having subjectively the idea of
 form sees externally forms which are boundless, and
-pleasant or unpleasant to the sight, and having mas-
-tered them, is conscious that he knows and sees —
+pleasant or unpleasant to the sight, and having mastered them, is conscious that he knows and sees —
 this is the second position of mastery.
 
 27. 'When a man without the subjective idea of
-form sees externally forms which are finite, and plea-
-sant or unpleasant to the sight, and having mastered
+form sees externally forms which are finite, and pleasant or unpleasant to the sight, and having mastered
 them, is conscious that he knows and sees — this .is
 the third position of mastery.
 
@@ -4752,9 +4054,6 @@ III.
 mahA-parinibbana-sutta.
 
 
-51
-
-
 instance, as the Umm& flower is blue in colour, blue
 in appearance, and reflecting blue ; or, again, as that
 fine muslin of Benares which, on whichever side you
@@ -4771,8 +4070,7 @@ of mastery are explained in words identical with
 those used to explain the fifth ; save that yellow, red,
 and white are respectively substituted throughout for
 blue ; and the Ka/zik&ra flower, the Bandhu-^lvaka
-flower, and the morning star are respectively substi-
-tuted for the Umm& flower, as the first of the two
+flower, and the morning star are respectively substituted for the Umm& flower, as the first of the two
 objects given as examples.]
 
 33. 'Now these stages of deliverance, Ananda
@@ -4784,21 +4082,15 @@ eight in number. Which are the eight ?
 forms — this is the first stage of deliverance.
 
 35. 'Without the subjective idea of form, he sees
-forms externally — this is the second stage of deli-
-verance.
+forms externally — this is the second stage of deliverance.
 
-1 These are the A/Ma Vimokkhd. Buddhaghosa has no com-
-ment upon them ; merely saying, * The passage on the Vimokkhas
-is easy to understand' — which is tantalizing. The last five Vi-
-mokkhas occur again below, in Chap. VI, §§11-13, where it is clear
+1 These are the A/Ma Vimokkhd. Buddhaghosa has no comment upon them ; merely saying, * The passage on the Vimokkhas
+is easy to understand' — which is tantalizing. The last five Vimokkhas occur again below, in Chap. VI, §§11-13, where it is clear
 that they are used to express the progress through deep meditation,
 into absent-mindedness, abstraction, and being sunk in thought,
 until finally the thinker falls into actual trance.
 
 E 2
-
-
-52 THE BOOK OF THE GREAT DECEASE. CH.
 
 
 36. ' With the thought " it is well," he becomes
@@ -4808,8 +4100,7 @@ of deliverance.
 37. * By passing quite beyond all idea of form, by
 putting an end to all idea of resistance, by paying
 no attention to the idea of distinction, he, thinking
-" it is all infinite space," reaches (mentally) and re-
-mains in the state of mind in which the idea of the
+" it is all infinite space," reaches (mentally) and remains in the state of mind in which the idea of the
 infinity of space is the only idea that is present —
 this is the fourth stage of deliverance.
 
@@ -4819,21 +4110,18 @@ reason," reaches (mentally) and remains in the state
 of mind to which the infinity of reason is alone
 present — this is the fifth stage of deliverance.
 
-39. ' By passing quite beyond the mere conscious-
-ness of the infinity of reason, he, thinking " nothing
+39. ' By passing quite beyond the mere consciousness of the infinity of reason, he, thinking " nothing
 at all exists," reaches (mentally) and remains in the
 state of mind to which nothing at all is specially
 present — this is the sixth stage of deliverance.
 
-40. * By passing quite beyond all idea of nothing-
-ness he reaches (mentally) and remains in the state
+40. * By passing quite beyond all idea of nothingness he reaches (mentally) and remains in the state
 of mind to which neither ideas nor the absence of
 ideas are specially present — this is the seventh stage
 of deliverance.
 
 41. 'By passing quite beyond the state of " neither
-ideas nor the absence of ideas" he reaches (men-
-tally) and remains in the state of mind in which
+ideas nor the absence of ideas" he reaches (mentally) and remains in the state of mind in which
 both sensations and ideas have ceased to be — this
 is the eighth stage of deliverance.
 
@@ -4848,9 +4136,6 @@ III.
 
 
 maha-parinibbAna-sutta.
-
-
-53
 
 
 river Nera%ar£ immediately after having reached
@@ -4868,14 +4153,11 @@ and sisters of the order, but also the lay-disciples
 of either sex shall have become true hearers, wise
 and well-trained, ready and learned, versed in the
 Scriptures, fulfilling all the greater and the lesser
-duties, correct in life, walking according to the pre-
-cepts — until they, having thus themselves learned
+duties, correct in life, walking according to the precepts — until they, having thus themselves learned
 the doctrine, shall be able to tell others of it, preach
-it, make it known, establish it, open it, minutely ex-
-plain it and make it clear— until they, when others
+it, make it known, establish it, open it, minutely explain it and make it clear— until they, when others
 start vain doctrine, shall be able by the truth to
-vanquish and refute it, and so to spread the wonder-
-working truth abroad !
+vanquish and refute it, and so to spread the wonderworking truth abroad !
 
 45. * " I shall not die until this pure religion of
 mine shall have become successful, prosperous,
@@ -4893,12 +4175,6 @@ I answered him and said : " Make thyself happy, the
 final extinction of the Tathigata shall take place
 
 
-54
-
-
-THE BOOK OF THE GREAT DECEASE.
-
-
 CH.
 
 
@@ -4906,20 +4182,17 @@ before long. At the end of three months from this
 time the Tath&gata will die ! "
 
 48. ' Thus, Ananda, the Tath&gata has now
-to-day at the AT&p&la A^etiya consciously and deli-
-berately rejected the rest of his allotted term of
+to-day at the AT&p&la A^etiya consciously and deliberately rejected the rest of his allotted term of
 life. 1
 
-49. And when he had thus spoken the venera-
-ble Ananda addressed the Blessed One, and said :
+49. And when he had thus spoken the venerable Ananda addressed the Blessed One, and said :
 ' Vouchsafe, Lord, to remain during the kalpa !
 live on through the kalpa, O Blessed One ! for the
 good and the happiness of the great multitudes, out
 of pity for the world, for the good and the gain and
 the weal of gods and men ! '
 
-50. ' Enough now, Ananda, beseech not the Ta-
-th&gata!' was the reply. 'The time for making
+50. ' Enough now, Ananda, beseech not the Tath&gata!' was the reply. 'The time for making
 such request is past/
 
 51. And again, the second time, the venerable
@@ -4953,9 +4226,6 @@ III.
 maha-parinibbAna-sutta.
 
 
-55
-
-
 a means of (mental) advancement, and as a basis for
 edification — he, should he desire it, could remain in
 the same birth for a kalpa, or for that portion of a
@@ -4972,36 +4242,29 @@ that portion of a kalpa which has yet to run/
 offence — in that when a suggestion so evident and a
 hint so clear were thus given thee by the Tathagata,
 thou wast yet incapable of comprehending them, and
-thou besoughtest not the TathSgata, saying, " Vouch-
-safe, Lord, to remain during the kalpa. Live on, O
+thou besoughtest not the TathSgata, saying, " Vouchsafe, Lord, to remain during the kalpa. Live on, O
 Blessed One ! through the kalpa for the good and
 the happiness of the great multitudes, out of pity
 for the world, for the good and the gain and the
 weal of gods and men." If thou shouldst then have so
 besought the Tath&gata, the Tath&gata might have
 rejected the appeal even to the second time, but the
-third time he would have granted it. Thine, there-
-fore, O Ananda, is the fault, thine is the offence ! '
+third time he would have granted it. Thine, therefore, O Ananda, is the fault, thine is the offence ! '
 
 56. ' On one occasion, Ananda, I was dwelling at
 Ri^agaha, on the hill called the Vulture's Peak.
 Now there, Ananda, I spoke to thee, and said:
 " How pleasant a spot, Ananda, is Ri^iagaha ; how
 pleasant is this Vulture's Peak. Whosoever has
-thought out, Ananda, and developed, practised, accu-
-mulated, and ascended to the very heights of the
+thought out, Ananda, and developed, practised, accumulated, and ascended to the very heights of the
 four paths to saintship, and so mastered them as to
-be able to use them as a means of (mental) advance-
-ment, and as a basis for edification — he, should he
+be able to use them as a means of (mental) advancement, and as a basis for edification — he, should he
 
-
-56 THE BOOK OF THE GREAT DECEASE. CH.
 
 desire it, could remain in the same birth for a
 kalpa, or for that portion of a kalpa which has yet
 to run. But even when a suggestion so evident and
-a hint so clear were thus given thee by the Tathi-
-gata, thou wast yet incapable of comprehending
+a hint so clear were thus given thee by the Tathigata, thou wast yet incapable of comprehending
 them, and thou besoughtest not the Tathigata,
 saying, ' Vouchsafe, Lord, to remain during the
 kalpa. Live on, O Blessed One ! through the
@@ -5017,8 +4280,7 @@ the fault, thine is the offence !"
 57. 'On one occasion, Ananda, I was dwelling at
 that same Ra^agaha in the Banyan Grove — on one
 occasion at that same RcL^agaha at the Robbers' Cliff
-— on one occasion at that same RS^agaha in the Satta-
-panni cave on the slope of Mount Vebhira — on one
+— on one occasion at that same RS^agaha in the Sattapanni cave on the slope of Mount Vebhira — on one
 occasion at that same Rfi^agaha at the Black Rock
 on the slope of Mount Isigili — on one occasion at
 that same Ri^agaha in the Sltavana Grove in the
@@ -5041,16 +4303,12 @@ HI.
 MAHA-PARINIBBANA-SUTTA.
 
 
-57
-
-
 Banyan tree of Gotama ; how pleasant the Robbers'
 Cliff ; how pleasant the Sattapa»/zi cave on the
 slope of Mount Vebhira ; how pleasant the Black
 Rock on the slope of Mount Isigili ; how pleasant
 the mountain cave Sappasotfdfika in" the Sitavana
-Grove ; how pleasant the Tapoda Grove ; how plea-
-sant the Squirrels' Feeding Ground in the Bambu
+Grove ; how pleasant the Tapoda Grove ; how pleasant the Squirrels' Feeding Ground in the Bambu
 Grove ; how pleasant (^ivaka's Mango Grove ; how
 pleasant the Deer Forest at Maddaku^i^i !
 
@@ -5090,8 +4348,7 @@ kalpa, or for that portion of a kalpa which has yet
 to run/
 
 61. ' On one occasion, Ananda, I was dwelling
-here at Ves&li at the Gotamaka A^etiya — on one occa-
-sion here at Ves&li at the Sattamba Ajetiya — on one
+here at Ves&li at the Gotamaka A^etiya — on one occasion here at Ves&li at the Sattamba Ajetiya — on one
 occasion here at Ves&li at the Bahuputta Afetiya —
 on one occasion here at Ves&li at the Sirandada
 A'ietiya [and on each occasion I spoke to thee,
@@ -5102,11 +4359,9 @@ Aetiya, I spoke to thee, and said : " How pleasant,
 Ananda, is Ves&li ; how pleasant the Udena Afetiya ;
 how pleasant the Gotamaka Ajetiya ; how pleasant
 the Sattamba Aetiya ; how pleasant the Bahuputta
-A'etiya ; how pleasant the Sarandada A'etiya. Who-
-soever, Ananda, has thought out and developed,
+A'etiya ; how pleasant the Sarandada A'etiya. Whosoever, Ananda, has thought out and developed,
 practised, accumulated, and ascended to the very
-heights of the four paths to saintship, and so mas-
-tered them as to be able to use them as a means of
+heights of the four paths to saintship, and so mastered them as to be able to use them as a means of
 (mental) advancement, and as a basis for edification —
 he, should he desire it, could remain in the same
 birth for a kalpa, or for that portion of a kalpa
@@ -5129,24 +4384,18 @@ III.
 MAHA-PARINIBBANA-SUTTA.
 
 
-59
-
-
 clared to you that it is in the very nature of all
 things, near and dear unto us, that we must divide
 ourselves from them, leave them, sever ourselves
-from them ? How then, Ananda, can this be pos-
-sible — whereas anything whatever born, brought
+from them ? How then, Ananda, can this be possible — whereas anything whatever born, brought
 into being, and organised, contains within itself the
 inherent necessity of dissolution — how then can this
-be possible that such a being should not be dis-
-solved ? No such condition can exist ! And this
+be possible that such a being should not be dissolved ? No such condition can exist ! And this
 mortal being, Ananda, has been relinquished, cast
 away, renounced, rejected, and abandoned by the
 Tath&gata. The remaining sum of life has been
 surrendered by him. Verily, the word has gone
-forth from the Tath£gata, saying, " The final extinc-
-tion of the Tathigata shall take place before long.
+forth from the Tath£gata, saying, " The final extinction of the Tathigata shall take place before long.
 At the end of three months from this time the
 Tath&gata will die!" That the Tathigata for the^
 sake of living should repent him again of that
@@ -5182,12 +4431,10 @@ and when he had arrived there he addressed the
 venerable Ananda, and said :
 
 ' Go now, Ananda, and assemble in the Service
-Hall such of the brethren as reside in the neigh-
-bourhood of Ves&li/
+Hall such of the brethren as reside in the neighbourhood of Ves&li/
 
 6 Even so, Lord/ said the venerable Ananda, in
-assent, to the Blessed One. And when he had as-
-sembled in the Service Hall such of the brethren as
+assent, to the Blessed One. And when he had assembled in the Service Hall such of the brethren as
 resided in the neighbourhood of Ves&li, he went to
 the Blessed One and saluted him and stood beside
 him. And standing beside him, he addressed the
@@ -5207,8 +4454,7 @@ I have perceived have been made known by me —
 having thoroughly made yourselves masters of
 them, practise them, meditate upon them, and spread
 them abroad ; in order that pure religion may last
-long and be perpetuated, in order that it may con-
-tinue to be for the good and happiness of the great
+long and be perpetuated, in order that it may continue to be for the good and happiness of the great
 multitudes, out of pity for the world, to the good
 and the gain and the weal of gods and men !
 
@@ -5264,20 +4510,13 @@ and said :
 " All component things must grow old. Work out
 your salvation with diligence. The final extinction
 of the Tath&gata will take place before long. At
-the end of three months from this time the Tatha-
-gata will die ! "
+the end of three months from this time the Tathagata will die ! "
 4 My age is now full ripe, my life draws to its close :
 
 I leave you, I depart, relying on myself alone !
 
 Be earnest then, O brethren ! holy, full of
 thought !
-
-
-62
-
-
-THE BOOK OF THE GREAT DECEASE.
 
 
 CH.
@@ -5306,8 +4545,7 @@ address, and, as it would seem from its commencement, only the
 closing fragment. This, however; is in the form of a summary,
 consisting of an enumeration of certain aggregates, the details
 of which must have been as familiar to the early Buddhists as the
-details of similar numerical terms — such as the ten command-
-ments, the twelve tribes, the seven deadly sins, the four gospels,
+details of similar numerical terms — such as the ten commandments, the twelve tribes, the seven deadly sins, the four gospels,
 and so on — afterwards were to the Christians. This summary of
 the Buddha's last address may fairly be taken as a summary of
 Buddhism, which thus appears to be simply a system of earnest
@@ -5341,9 +4579,6 @@ III.
 maha-parinibbAna-sutta.
 
 
-63
-
-
 The fourfold Great Struggle against sin is divided into £att£ro
 Samappadhana, which are —
 
@@ -5374,8 +4609,7 @@ against sin.
 The five moral powers (pa#£a Balani) are said to be the
 same as the next class, called organs (Indriyani). It is no doubt
 most remarkable that, in a summary like this, two classes out of
-seven should be absolutely identical except in name. The differ-
-ence of name is altogether too unimportant to account, by itself, for
+seven should be absolutely identical except in name. The difference of name is altogether too unimportant to account, by itself, for
 the distinction made. Either the currently accepted explanation of
 one of the two aggregate terms must be incorrect, or we must look
 for some explanation of the repetition other than the mere desire
@@ -5391,8 +4625,7 @@ The details of both classes are —
 
 The seven kinds of Wisdom (satta Bo^^anga) are —
 
-1. Energy. 2. Thought. 3. Contemplation. , 4. Investiga-
-tion (of scripture). 5. Joy. 6. Repose. 7. Serenity.
+1. Energy. 2. Thought. 3. Contemplation. , 4. Investigation (of scripture). 5. Joy. 6. Repose. 7. Serenity.
 
 The Noble Eightfold Path (ariyo a/Man giko Maggo) forms
 the subject of the Dhamma-^akka-ppavattana-sutta, translated in this
@@ -5404,9 +4637,6 @@ conduct. 5. A harmless livelihood. 6. Perseverance in well-doing.
 
 
 6 4
-
-
-THE BOOK OF THE GREAT DECEASE.
 
 
 CH.
@@ -5431,8 +4661,7 @@ And the Blessed One proceeded with a great
 company of the brethren to Bha«^a-gima ; and
 there the Blessed One stayed in the village itself.
 
-2. There the Blessed One addressed the bre-
-thren, and said : ' It is through not understanding
+2. There the Blessed One addressed the brethren, and said : ' It is through not understanding
 and grasping four truths 2 , O brethren, that we have
 had to run so long, to wander so long in this weary
 path of transmigration — both you and 1/
@@ -5450,8 +4679,7 @@ were accustomed, says Buddhaghosa, on looking backwards to turn
 the whole body round as an elephant does ; because the bones in
 their neck were firmly fixed, more so than those of ordinary men !
 
-2 Or Conditions (Dhammd). They must, of course, be care-
-fully distinguished from the better known Four Noble Truths
+2 Or Conditions (Dhammd). They must, of course, be carefully distinguished from the better known Four Noble Truths
 (Sa^dni) above, Chap. II, § 2.
 
 
@@ -5464,12 +4692,8 @@ IV.
 mahA-parinibbAna-sutta.
 
 
-65
-
-
 freedom is realised and known — then is the craving
-for existence rooted out, that which leads to re-
-newed existence is destroyed, and there is no more
+for existence rooted out, that which leads to renewed existence is destroyed, and there is no more
 birth/
 
 3. Thus spake the Blessed One ; and when the
@@ -5479,8 +4703,7 @@ teacher said 1 :
 ' Righteousness, earnest thought, wisdom, and
 
 freedom sublime —
-These are the truths realised by Gotama, far-
-renowned.
+These are the truths realised by Gotama, farrenowned.
 
 Knowing. them, he, the knower, proclaimed the
 
@@ -5490,10 +4713,8 @@ The master with eye divine, the quencher of
 griefs, must die!'
 
 4. There too, while staying at Bha#a?a-gfima, the
-Blessed One held that comprehensive religious dis-
-course with the brethren on the nature of upright
-conduct, and of earnest contemplation, and of intel-
-ligence. ' Great is the fruit, great the advantage of
+Blessed One held that comprehensive religious discourse with the brethren on the nature of upright
+conduct, and of earnest contemplation, and of intelligence. ' Great is the fruit, great the advantage of
 earnest contemplation when set round with upright
 conduct. Great is the fruit, great the advantage of
 intellect when set round with earnest contemplation.
@@ -5503,8 +4724,7 @@ repeat the idea of the preceding phrase (see above, paragraph 32).
 It is an instructive sign of the state of mind in which such records
 are put together, that these verses could be ascribed to Gotama
 himself without any feeling of the incongruity involved. The last
-word means, completely gone out; and here refers to the ex-
-tinction of kilesa and ta»h£, which will bring about, inevitably,
+word means, completely gone out; and here refers to the extinction of kilesa and ta»h£, which will bring about, inevitably,
 the extinction of being. Compare the passage quoted by
 Burnouf in Lotus de la Bonne Loi, p. 376. Probably the whole
 stanza formerly stood in some other connection, where the word
@@ -5515,12 +4735,6 @@ note on IV, 23.
 
 
 I
-
-
-66
-
-
-THE BOOK OF THE GREAT DECEASE. CH.
 
 
 The mind set round with intelligence is freed from
@@ -5540,8 +4754,7 @@ Then the Blessed One proceeded with a great
 company of the brethren to Hatthi-gfima.
 
 6. [And in similar words it is then related how
-the Blessed One went on to Amba-gima, to Gambu-
-gima, and to Bhoga-nagara.]
+the Blessed One went on to Amba-gima, to Gambugima, and to Bhoga-nagara.]
 
 
 7. Now there at Bhoga-nagara the Blessed One
@@ -5555,16 +4768,13 @@ heed, and I will speak.'
 ' Even so, Lord ! ' said the brethren, in assent 2 , to
 
 1 The meaning of mahapadesa is not quite clear. Perhaps
-it should be rendered true authorities. I have followed Buddha-
-ghosa in taking apadesa as the last part of the compound. He
-says, mahdpadesd ti mahi-okise mahd-apadese vL Bud-
-dh&dayo mahante mahante apadisitva* vutt&ni mah&-
+it should be rendered true authorities. I have followed Buddhaghosa in taking apadesa as the last part of the compound. He
+says, mahdpadesd ti mahi-okise mahd-apadese vL Buddh&dayo mahante mahante apadisitva* vutt&ni mah&-
 k&ra«£ni ti attho, 'the causes (authorities) alleged when
 referring to Buddha and other great men/
 
 2 I ought perhaps to have explained why I have ventured to
-differ from Childers in the rendering of the common word pa/i-
-suwati. The root sru seems to have meant 'to sound' before it
+differ from Childers in the rendering of the common word pa/isuwati. The root sru seems to have meant 'to sound' before it
 meant 'to hear;' and, whether this be so or not, pa/i-su*&ti
 means not simply 'to consent/ but 'to answer (assentingly).' It
 
@@ -5575,9 +4785,6 @@ IV.
 mahA-parinibbAna-sutta.
 
 
-67
-
-
 the Blessed One, and the Blessed One spoke as
 follows :
 
@@ -5585,16 +4792,13 @@ follows :
 say thus : " From the mouth of the Blessed One
 himself have I heard, from his own mouth have I
 received it. This is the truth, this the law, this the
-teaching of the Master." The word spoken, bre-
-thren, by that brother should neither be received
+teaching of the Master." The word spoken, brethren, by that brother should neither be received
 with praise nor treated with scorn. Without praise
 and without scorn every word and syllable should
 be carefully understood, and then put beside the
 scripture and compared with the rules of the
-order 1 . If when so compared they do not har-
-monise with the scripture, and do not fit in with the
-rules of the order, then you may come to the con-
-clusion, " Verily, this is not the word of the Blessed
+order 1 . If when so compared they do not harmonise with the scripture, and do not fit in with the
+rules of the order, then you may come to the conclusion, " Verily, this is not the word of the Blessed
 One, and has been wrongly grasped by that
 brother?" Therefore, brethren, you should reject
 it. But if they harmonise with the scripture and
@@ -5605,13 +4809,11 @@ that brother." This, brethren, you should receive
 as the first Great Reference.
 
 9. * Again, brethren, a brother may say thus :
-"In such and such a dwelling-place there is a com-
-pany of the brethren with their elders and leaders.
+"In such and such a dwelling-place there is a company of the brethren with their elders and leaders.
 From the mouth of that company have I heard,
 
 
-has been pointed out to me that answer was formerly 'and-
-swerian/ where swerian is probably not unrelated to the root
+has been pointed out to me that answer was formerly 'andswerian/ where swerian is probably not unrelated to the root
 svar, * to sound/
 
 1 Sutte otaretabbani vinaye sandassetabba'ni, where one
@@ -5619,9 +4821,6 @@ would expect to find the word Pi/aka if it had been in use when
 this passage was first written or composed.
 
 F 2
-
-
-68 THE BOOK OF THE GREAT DECEASE. CH.
 
 
 face to face have I received it. This is the truth,
@@ -5636,11 +4835,9 @@ they do not harmonise with the scripture, and do
 not fit in with the rules of the order, then you may
 come to the conclusion, "Verily, this is not the
 word of the Blessed One, and has been wrongly
-grasped by that company of the brethren." There-
-fore, brethren, you should reject it. But if they
+grasped by that company of the brethren." Therefore, brethren, you should reject it. But if they
 harmonise with the scripture and fit in with the
-rules of the order, then you may come to the con-
-clusion, "Verily, this is the word of the Blessed One,
+rules of the order, then you may come to the conclusion, "Verily, this is the word of the Blessed One,
 and has been well grasped by that company of the
 brethren." This, brethren, you should receive as
 the second Great Reference.
@@ -5672,8 +4869,7 @@ compared they do not harmonise with the scripture,
 and do not fit in with the rules of the order, then
 you may come to the conclusion, "Verily, this is
 not the word of the Blessed One, and has been
-wrongly grasped by those elders." Therefore, bre-
-thren, you should reject it. But if they harmonise
+wrongly grasped by those elders." Therefore, brethren, you should reject it. But if they harmonise
 with the scripture and fit in with the rules of the
 order, then you may come to the conclusion,
 "Verily, this is the word of the Blessed One, and
@@ -5685,8 +4881,7 @@ ii. 'Again, brethren, a brother may say, "In
 such and such a dwelling-place there is there living
 a brother, deeply read, holding the faith as handed
 down by tradition, versed in the truths, versed in
-the regulations of the order, versed in the sum-
-maries of the doctrines and the law. From the
+the regulations of the order, versed in the summaries of the doctrines and the law. From the
 mouth of that elder have I heard, from his mouth
 have I received it. This is the truth, this the law,
 this the teaching of the Master." The word spoken,
@@ -5695,16 +4890,13 @@ with praise nor treated with scorn. Without praise
 and without scorn every word and syllable should
 be carefully understood, and then put beside the
 scripture and compared with the rules of the
-order. If when so compared they do not har-
-monise with the scripture, and do not fit in with the
+order. If when so compared they do not harmonise with the scripture, and do not fit in with the
 rules of the order, then you may come to the
 conclusion, "Verily, this is not the word of the
 Blessed One, and has been wrongly grasped
 by that brother." Therefore, brethren, you should
 reject it. But if they harmonise with the scripture
 
-
-70 THE BOOK OF THE GREAT DECEASE. CH.
 
 and fit in with the rules of the order, then you
 may come to the conclusion, "Verily, this is the word
@@ -5715,10 +4907,8 @@ as the fourth Great Reference/
 ' These, brethren, are the Four Great References.'
 
 
-12. There, too, the Blessed One held that com-
-prehensive religious talk with the brethren on the
-nature of upright conduct, and of earnest contem-
-plation, and of intelligence. 'Great is the fruit,
+12. There, too, the Blessed One held that comprehensive religious talk with the brethren on the
+nature of upright conduct, and of earnest contemplation, and of intelligence. 'Great is the fruit,
 great the advantage of earnest contemplation when
 set round with upright conduct. Great is the fruit,
 great the advantage of intellect when set round with
@@ -5753,9 +4943,6 @@ IV.
 mahA-parinibbAna-sutta.
 
 
-71
-
-
 And Aunda, the worker in metals, went to the
 place where the Blessed One was, and saluting him
 took his seat respectfully on one side. And when
@@ -5772,8 +4959,7 @@ brethren, at my house to-morrow/
 And the Blessed One signified, by silence, his
 consent.
 
-16. Then seeing that the Blessed One had con-
-sented, Aunda, the worker in metals, rose from his
+16. Then seeing that the Blessed One had consented, Aunda, the worker in metals, rose from his
 seat and bowed down before the Blessed One, and
 keeping him on his right hand as he past him,
 departed thence.
@@ -5786,10 +4972,8 @@ One, saying, ' The hour, Lord, has come, and the
 meal is ready.'
 
 18. And the Blessed One robed himself early in
-the morning, and taking his bowl, went with the bre-
-thren to the dwelling-place of jfifunda, the worker in
-metals. When he had come thither he seated him-
-self on the seat prepared for him. And when he
+the morning, and taking his bowl, went with the brethren to the dwelling-place of jfifunda, the worker in
+metals. When he had come thither he seated himself on the seat prepared for him. And when he
 was seated he addressed Aunda, the worker in
 metals, and said : ' As to the dried boars flesh you
 have made ready, serve me with it, jfifunda ; and as
@@ -5817,8 +5001,7 @@ when he has eaten it, that food can be assimilated,
 save by the Tath&gata/
 
 * Even so, Lord ! ' said iSfunda, the worker in
-metals, in assent, to the Blessed One. And what-
-ever dried boars flesh remained over, that he buried
+metals, in assent, to the Blessed One. And whatever dried boars flesh remained over, that he buried
 in a hole.
 
 20. And he went to the place where the Blessed
@@ -5831,10 +5014,8 @@ One then rose from his seat and departed thence.
 
 21. Now when the Blessed One had eaten the
 food prepared by iSfunda, the worker in metal, there
-fell upon him a dire sickness, the disease of dysen-
-tery, and sharp pain came upon him, even unto
-death. But the Blessed One, mindful and self-
-possessed, bore it without complaint.
+fell upon him a dire sickness, the disease of dysentery, and sharp pain came upon him, even unto
+death. But the Blessed One, mindful and selfpossessed, bore it without complaint.
 
 22. And the Blessed One addressed the venerable
 Ananda, and said : ' Come, Ananda, let us go on to
@@ -5845,9 +5026,6 @@ IV.
 
 
 mahA-parinibbAna-sutta.
-
-
-73
 
 
 ' Even so, Lord ! ' said the venerable Ananda, in
@@ -5893,12 +5071,6 @@ verses by the Theras who held the council/ And he repeats this
 at §§ 52, 56.
 
 
-74
-
-
-THE BOOK OF THE GREAT DECEASE. CH.
-
-
 Lord, about five hundred carts have gone over. That
 water stirred up by the wheels has become shallow
 and flows fouled and turbid. This river KakuttM,
@@ -5922,8 +5094,7 @@ transparent, easy to get down into, and delightful.
 There the Blessed One may both drink the water,
 and cool his limbs/
 
-29. Again the third time the Blessed One ad-
-dressed the venerable Ananda, and said: ' Fetch me,
+29. Again the third time the Blessed One addressed the venerable Ananda, and said: ' Fetch me,
 I pray you, Ananda, some water. I am thirsty,
 Ananda, and would drink/
 
@@ -5944,9 +5115,6 @@ IV,
 
 
 mahA-parinibbAna-sutta.
-
-
-75
 
 
 31. Then Ananda thought: 1 How wonderful,
@@ -5978,12 +5146,10 @@ passing along the high road from Kusin&ri to Pdvd.
 Blessed One seated at the foot of a tree. On
 seeing him, he went up to the place where the
 Blessed One was, and when he had come there he
-saluted the Blessed One, and took his rest respect-
-fully on one side. And when he was seated
+saluted the Blessed One, and took his rest respectfully on one side. And when he was seated
 
 1 The Pukkusa caste was one of the lower castes of Sudras.
-Compare Assalayana Sutta (Pischel), pp. 13, 35; Burnoufs 'In-
-troduction/ &c, pp. 144, 208 ; Lalita Vistara XXI, 17. But Bud-
+Compare Assalayana Sutta (Pischel), pp. 13, 35; Burnoufs 'Introduction/ &c, pp. 144, 208 ; Lalita Vistara XXI, 17. But Bud-
 dhaghosa says Pukkusa must here be simply a name, as the Mallas
 were of the Khattiya caste. He adds that this Pukkusa was the
 owner of the five hundred carts that had just passed by ; and that
@@ -5992,9 +5158,6 @@ Kalama being his family name.
 
 
 7 6
-
-
-THE BOOK OF THE GREAT DECEASE.
 
 
 CH.
@@ -6009,10 +5172,8 @@ mind so calm ! '
 35. 4 Formerly, Lord, A/dra K&l&ma was once
 walking along the high road ; and leaving the road
 he sat himself down under a certain tree to rest
-during the heat of the day. Now, Lord, five hun-
-dred carts passed by one after the other, each close
-to A/ara Kal&ma. And a certain man, who was fol-
-lowing close behind that caravan of carts, went up to
+during the heat of the day. Now, Lord, five hundred carts passed by one after the other, each close
+to A/ara Kal&ma. And a certain man, who was following close behind that caravan of carts, went up to
 the place where A/ara Kalima was, and when he was
 come there he spake as follows to A/ira Kilima :
 
@@ -6031,8 +5192,7 @@ go by ? "
 
 * 44 Yes, I was conscious, sir."
 
-4 " So that you, Lord, though you were both con-
-scious and awake, neither saw, nor heard the sound
+4 " So that you, Lord, though you were both conscious and awake, neither saw, nor heard the sound
 of five hundred carts passing by, one after the other,
 and each close to you. Why, Lord, even your robe
 was sprinkled over with the dust of them ! "
@@ -6050,9 +5210,6 @@ IV.
 
 
 mahA-parinibbAna-sutta.
-
-
-77
 
 
 neither sees, nor hears the sound of five hundred
@@ -6096,13 +5253,9 @@ brothers, and the four oxen, lay killed.
 1 Bhusagare ti kha/u-sal&ya/ra. (S. V. thrt)
 
 
-78 THE BOOK OF THE GREAT DECEASE. CH.
-
-
 40. * Now at that time, Pukkusa, I had gone forth
 from the Threshing-floor, and was walking up and
-down thinking at the entrance to the Threshing-
-floor. And a certain man came, Pukkusa, out of
+down thinking at the entrance to the Threshingfloor. And a certain man came, Pukkusa, out of
 that great multitude of people, up to the place
 where I was ; and when he came up he saluted me,
 and took his place respectfully on one side.
@@ -6115,8 +5268,7 @@ assembled together ? "
 
 4 " But just now, the falling rain began to beat
 and to splash, and the lightnings to flash forth, and
-the thunderbolts to crash ; and two peasants, bro-
-thers, were killed, and four oxen. Therefore is this
+the thunderbolts to crash ; and two peasants, brothers, were killed, and four oxen. Therefore is this
 great multitude of people gathered together. But
 where, Lord, were you ? "
 
@@ -6153,9 +5305,6 @@ man :
 mahA-parinibbana-sutta.
 
 
-79
-
-
 4 " How wonderful a thing is it, and marvellous,
 that those who have gone forth out of the world
 should pass their time in a state of mind so calm ! —
@@ -6164,8 +5313,7 @@ sees nor hears the sound thereof when the falling
 rain is beating and splashing, and the lightnings are
 flashing forth, and the thunderbolts are crashing."
 And after giving utterance to his deep faith in me,
-he departed from me with the customary demonstra-
-tions of respect/
+he departed from me with the customary demonstrations of respect/
 
 43. And when he had thus spoken Pukkusa,
 the young Mallian, addressed the Blessed One in
@@ -6223,13 +5371,11 @@ Blessed One ; and in one he robed the Blessed One,
 and in one, Ananda.
 
 46. Then the Blessed One instructed and aroused
-and incited and gladdened Pukkusa, the young Mal-
-lian, with religious discourse. And Pukkusa, the
+and incited and gladdened Pukkusa, the young Mallian, with religious discourse. And Pukkusa, the
 young Mallian, when he had been instructed and
 aroused and incited and gladdened by the Blessed
 One with religious discourse, arose from his seat,
-and bowed down before the Blessed One ; and keep-
-ing him on his right hand as he past him, departed
+and bowed down before the Blessed One ; and keeping him on his right hand as he past him, departed
 thence.
 
 
@@ -6245,9 +5391,6 @@ IV,
 maha-parinibbAna-sutta.
 
 
-81
-
-
 placed on the body of the Blessed One it appeared
 to have lost its splendour 1 !
 
@@ -6261,12 +5404,10 @@ Blessed One, lo! it seemed as if it had lost its
 splendour ! '
 
 49. 4 It is even so, Ananda. Ananda, there are two
-occasions on which the colour of the skin of a Tathi-
-gata becomes clear and exceeding bright. What
+occasions on which the colour of the skin of a Tathigata becomes clear and exceeding bright. What
 are the two ? '
 
-50. 'On the night, Ananda, on which a Tathd-
-gata attains to the supreme and perfect insight, and
+50. 'On the night, Ananda, on which a Tathdgata attains to the supreme and perfect insight, and
 on the night in which he passes finally away in that
 utter passing away which leaves nothing whatever
 to remain — on these two occasions the colour of the
@@ -6291,9 +5432,6 @@ smoldering/ Vita£££ik&, 'an eruption on the skin/ belongs
 to the root £ar£.
 
 [11] G
-
-
-82 THE BOOK OF THE GREAT DECEASE. CH.
 
 
 trees, the utter passing away of the Tath&gata will
@@ -6324,13 +5462,11 @@ weary, A'undaka, and would lie down/
 assent, to the Blessed One. And he folded a robe
 in four, and spread it out.
 
-1 We have here the commencement of the legend which after-
-wards grew into an account of an actual ' transfiguration ' of the
+1 We have here the commencement of the legend which afterwards grew into an account of an actual ' transfiguration ' of the
 Buddha. It is very curious that it should have taken place soon
 after the Buddha had announced to Ananda his approaching death,
 and that in the Buddhist Sutta it should be connected so closely
-with that event; for a similar remark applies also to the Trans-
-figuration mentioned in the Gospels. The M&lilankdra-vatthu,
+with that event; for a similar remark applies also to the Transfiguration mentioned in the Gospels. The M&lilankdra-vatthu,
 for instance, says, ' His body appeared shining like a flame. Ananda
 was exceedingly surprised. Nothing of this kind had, as yet,
 happened. " Your exterior appearance/' said he to Budha, " is all
@@ -6344,9 +5480,6 @@ IV.
 
 
 mahA-parinibbAna-sutta.
-
-
-83
 
 
 55. And the Blessed One laid himself down on
@@ -6380,8 +5513,7 @@ The fourfold robe in order on the ground.
 The Master laid him down, wearied and worn;
 And there, before him, A\inda took his seat.
 
-57. And the Blessed One addressed the vener-
-able Ananda, and said : * Now it may happen,
+57. And the Blessed One addressed the venerable Ananda, and said : * Now it may happen,
 Ananda, that some one should stir up remorse in
 -ffunda the smith, by saying, " This is evil to thee,
 -ffunda, and loss to thee in that when the Tathagata
@@ -6391,9 +5523,6 @@ the smith should be checked by saying, " This is
 good to thee, A^unda, and gain to thee, in that when
 
 G 2
-
-
-84 THE BOOK OF THE GREAT DECEASE. CH.
 
 
 the Tathfigata had eaten his last meal from thy^w
@@ -6417,8 +5546,7 @@ equal profit, and of much greater fruit and much
 greater profit than any others. There has been laid
 up by isfunda the smith a karma redounding to
 length of life, redounding to good birth, redounding
-to good fortune, redounding to good fame, redound-
-ing to the inheritance of heaven, and of sovereign
+to good fortune, redounding to good fame, redounding to the inheritance of heaven, and of sovereign
 power/" In this way, Ananda, should be checked
 any remorse in A\inda the smith/
 
@@ -6443,16 +5571,11 @@ V.
 maha-parinibbAna-sutta.
 
 
-85
-
-
 Chapter V.
 
-1. Now the Blessed One addressed the vener-
-able Ananda, and said : * Come, Ananda, let us go
+1. Now the Blessed One addressed the venerable Ananda, and said : * Come, Ananda, let us go
 on to the Sfila Grove of the M alias, the Upavattana
-of Kusin&rd, on the further side of the river Hira-
-nyavati/
+of Kusin&rd, on the further side of the river Hiranyavati/
 
 1 Even so, Lord ! ' said the venerable Ananda, in
 assent, to the Blessed One.
@@ -6487,45 +5610,36 @@ leaders of the neighbouring republic, but available at other times
 for passers by.
 
 
-86 THE BOOK OF THE GREAT DECEASE. CH.
-
-
 covering over the couch with its head to the north,
 between the twin Sella trees. And the Blessed One
 laid himself down on his right side, with one leg
-resting on the other ; and he was mindful and self-
-possessed.
+resting on the other ; and he was mindful and selfpossessed.
 
 4. Now at that time the twin Sala trees were
 all one mass of bloom with flowers out of season 1 ;
 and all over the body of the Tath&gata these dropped
 and sprinkled and scattered themselves, out of
 reverence for the successor of the Buddhas of old.
-And heavenly Mandirava flowers, too, and hea-
-venly sandal -wood powder came falling from
+And heavenly Mandirava flowers, too, and heavenly sandal -wood powder came falling from
 the sky, and all over the body of the Tathcigata
-they descended and sprinkled and scattered them-
-selves, out of reverence for the successor of the
+they descended and sprinkled and scattered themselves, out of reverence for the successor of the
 Buddhas of old. And heavenly music was sounded
 in the sky, out of reverence for the successor of the
 Buddhas of old. And heavenly songs came wafted
 from the skies, out of reverence for the successor of
 the Buddhas of old !
 
-5. Then the Blessed One addressed the vener-
-able Ananda, and said : ' The twin Sella trees are
+5. Then the Blessed One addressed the venerable Ananda, and said : ' The twin Sella trees are
 all one mass of bloom with flowers out of season ;
 all over the body of the Tathcigata these drop
-and sprinkle and scatter themselves, out of rever-
-ence for the successor of the Buddhas of old. And
+and sprinkle and scatter themselves, out of reverence for the successor of the Buddhas of old. And
 heavenly Mand&rava flowers, too, and heavenly
 sandal-wood powder come falling from the sky,
 and all over the body of the Tathcigata they descend
 and sprinkle and scatter themselves, out of rever-
 
 1 Sabbaphaliphulld ti sabbe samantato pupphita" m&lato
-pa//Mya yiva agga eka££^annd ahesu/w. (S.V. thlu.) Com-
-pare ekaphdliphullaw vanaw at (r&taka I, 52.
+pa//Mya yiva agga eka££^annd ahesu/w. (S.V. thlu.) Compare ekaphdliphullaw vanaw at (r&taka I, 52.
 
 
 V.
@@ -6534,17 +5648,12 @@ V.
 mahA-parinibbana-sutta.
 
 
-87
-
-
 ence for the successor of the Buddhas of old. And
 heavenly music sounds in the sky, out of reverence
-for the successor of the Buddhas of old. And hea-
-venly songs come wafted from the skies, out of rever-
+for the successor of the Buddhas of old. And heavenly songs come wafted from the skies, out of rever-
 ence for the successor of the Buddhas of old ! '
 
-6. ' Now it is not thus, Ananda, that the Tathd-
-gata is rightly honoured, reverenced, venerated, held
+6. ' Now it is not thus, Ananda, that the Tathdgata is rightly honoured, reverenced, venerated, held
 sacred or revered. But the brother or the sister, the
 devout man or the devout woman, who continually
 fulfils all the greater and the lesser duties, who is
@@ -6564,8 +5673,7 @@ brother, stand not in front of me ! 9
 
 8. Then this thought sprung up in the mind of
 the venerable Ananda : * The venerable Up£va#a
-has long been in close personal attendance and ser-
-vice on the Blessed One. And now, at the last
+has long been in close personal attendance and service on the Blessed One. And now, at the last
 moment, the Blessed One is not pleased with Up£-
 vazza, and has said to him, " Stand aside, O brother,
 stand not in front of me ! " What may be the cause
@@ -6574,9 +5682,6 @@ pleased with Up&va^a, and speaks thus with him ?'
 
 9. And the venerable Ananda said to the
 Blessed One : * The venerable Up&va^a has long
-
-
-88 THE BOOK OF THE GREAT DECEASE.
 
 
 CH.
@@ -6591,8 +5696,7 @@ the reason that the Blessed One is not pleased with
 Up&va/za, and speaks thus with him ?'
 
 10. ' In great numbers, Ananda, are the gods of
-the ten world-systems assembled together to be-
-hold the Tath&gata. For twelve leagues, Ananda,
+the ten world-systems assembled together to behold the Tath&gata. For twelve leagues, Ananda,
 around the Sala Grove of the Mallas, the Upavattana
 of Kusin£ra, there is no spot in size even as the
 pricking of the point of the tip of a hair which is
@@ -6606,14 +5710,12 @@ will take place ; and this eminent brother stands in
 
 
 1 Buddhaghosa explains that even twenty to sixty angels or gods
-(devat&yo) could stand £ragga-ko/i-nittudana- (MS. nittad-
-dana-) matte pi, 'on a point pricked by the extreme point of
+(devat&yo) could stand £ragga-ko/i-nittudana- (MS. nittaddana-) matte pi, 'on a point pricked by the extreme point of
 a gimlet,' without inconveniencing one another (Am dSffidjn
 avyab&dhenti). It is most curious to find this exact analogy to the
 notorious discussion as to how many angels could stand on the
 point of a needle in a commentary written at just that period of
-Buddhist history which corresponds to the Middle Ages of Christen-
-dom. The passage in the text does not really imply or suggest
+Buddhist history which corresponds to the Middle Ages of Christendom. The passage in the text does not really imply or suggest
 any such doctrine, though the whole episode is so absurd that the
 author of the text could not have hesitated to say so, had such
 an idea been the common belief of the early Buddhists. With
@@ -6628,9 +5730,6 @@ v.
 
 
 mahA-parinibbAna-sutta.
-
-
-89
 
 
 front of the Tathigata, concealing him, and in his
@@ -6650,20 +5749,17 @@ will the Light of the world vanish away 1 ! " '
 
 13. ' There are spirits, too, Ananda, on the earth,
 and of worldly mind, who tear their hair and weep,
-who stretch forth their arms and weep, who fall pros-
-trate on the ground, and roll to and fro in anguish
+who stretch forth their arms and weep, who fall prostrate on the ground, and roll to and fro in anguish
 at the thought : " Too soon will the Blessed One die !
 Too soon will the Happy One pass away! Full soon
 will the Eye of the world disappear from sight !"
 
 14. 'But the spirits who are free from passion bear
 it, calm and self-possessed, mindful of the saying
-which begins, 4< Impermanent indeed are all compo-
-nent things. How then is it possible [whereas any-
+which begins, 4< Impermanent indeed are all component things. How then is it possible [whereas any-
 thing whatever, when born, brought into being, and
 
-1 JZakkum loke antaradh&yissati, on which there is no com-
-ment. It is literally, ' the Eye in the world will vanish away/ where
+1 JZakkum loke antaradh&yissati, on which there is no comment. It is literally, ' the Eye in the world will vanish away/ where
 Eye is of course used figuratively of that by the aid of which
 spiritual truths can be perceived, corresponding exactly to the
 similar use in Europe of the word Light. The Master is often
@@ -6676,11 +5772,7 @@ this is, it will be noticed, only the lament of the foolish and
 ignorant.
 
 
-90 THE BOOK OF THE GREAT DECEASE. CH.
-
-
-organised, contains within itself the inherent neces-
-sity of dissolution — how then is it possible that such
+organised, contains within itself the inherent necessity of dissolution — how then is it possible that such
 a being should not be dissolved ? No such condition
 can exist ! "] 1
 
@@ -6694,8 +5786,7 @@ receive those very reverend brethren to audience,
 and to wait upon the Blessed One/
 
 1 6. ' There are these four places, Ananda, which
-the believing man should visit with feelings of rever-
-ence and awe. Which are the four ?
+the believing man should visit with feelings of reverence and awe. Which are the four ?
 
 1 7. ' The place, Ananda, at which the believing
 man can say, " Here the Tath&gata was born ! " is a
@@ -6707,8 +5798,7 @@ supreme and perfect insight ! 99 is a spot to be visited
 with feelings of reverence and awe.
 
 19. 'The place, Ananda, at which the believing
-man can say, " Here was the kingdom of righteous-
-ness set on foot by the Tathagata ! " is a spot to be
+man can say, " Here was the kingdom of righteousness set on foot by the Tathagata ! " is a spot to be
 visited with feelings of reverence and awe.
 
 20. ' The place, Ananda, at which the believing"
@@ -6728,9 +5818,6 @@ V.
 mahA-parinibbana-sutta.
 
 
-91
-
-
 21. * And there will come, Ananda, to such spots,
 believers, brethren and sisters of the order, or devout
 men and devout women, and will say, " Here was
@@ -6742,8 +5829,7 @@ in that utter passing away which leaves nothing
 whatever to remain behind!"
 
 22. 'And they, Ananda, who shall die while they,
-with believing heart, are journeying on such pilgrim-
-age, shall be reborn after death, when the body shall
+with believing heart, are journeying on such pilgrimage, shall be reborn after death, when the body shall
 dissolve, in the happy realms of heaven.'
 
 23. ' How are we to conduct ourselves, Lord,
@@ -6762,16 +5848,12 @@ of the Tath&gata ?'
 
 ' Hinder not yourselves, Ananda, by honouring
 the remains of the Tath&gata. Be zealous, I beseech
-you, Ananda, in your own behalf! Devote your-
-selves to your own good! Be earnest, be zealous,
+you, Ananda, in your own behalf! Devote yourselves to your own good! Be earnest, be zealous,
 be intent on your own good ! There are wise men,
 Ananda, among the nobles, among the Brdhmans,
 among the heads of houses, who are firm believers
 in the TathSgata ; and they will do due honour to
 the remains of the Tathdgata/
-
-
-92 THE BOOK OF THE GREAT DECEASE. CH.
 
 
 25. lf What should be done, Lord, with the
@@ -6802,8 +5884,7 @@ existed before Aandragupta, the first Aakravarti, had raised himself
 to power. This passage, therefore, is a guide to the date at which
 the Maha-parinibMna Sutta assumed its present form.
 
-8 Vihatenakappdsen^tisupho/itenakapp^sena:K&sika-
-vatthaw hi sukhumatta tela/rc na gawhati, tasma* vihatena
+8 Vihatenakappdsen^tisupho/itenakapp^sena:K&sikavatthaw hi sukhumatta tela/rc na gawhati, tasma* vihatena
 kappasen&ti&ha. 'As Ben&res cloth, by reason of its fineness
 of texture, does not take the oil, he therefore says, "with vihata
 cotton wool," that is, with cotton wool that has been well forced
@@ -6815,8 +5896,7 @@ this passage. It usually means ' torn with grief.'
 
 4 Ayasaya tela-do«iy&, where one would expect £yas£ya, but
 my MS. of the Dfgha Nikaya confirms twice over here, and twice
-again below, § VI, 33, 35, the reading given by Childers. Buddha-
-ghosa says, Ayasan ti suvawwaw, suvawwamhi idha &yasan
+again below, § VI, 33, 35, the reading given by Childers. Buddhaghosa says, Ayasan ti suvawwaw, suvawwamhi idha &yasan
 ti adhippeto, but here again we should expect the second time
 to find ayo or ayasa/rc. The meaning of the word is also not
 
@@ -6825,9 +5905,6 @@ V.
 
 
 maha-parinibbAna-sutta.
-
-
-93
 
 
 oil vessel of iron \ They then build a funeral pile
@@ -6872,8 +5949,7 @@ ashes are to be placed. The dome of St. Paul's as seen from the
 Thames Embankment gives a very good idea of one of the later
 Buddhist dagabas. The Pali word here and below is Thupa.
 
-8 A Pa^eka-Buddha, who has attained to the supreme and per-
-fect insight; but dies without proclaiming the truth to the world.
+8 A Pa^eka-Buddha, who has attained to the supreme and perfect insight; but dies without proclaiming the truth to the world.
 
 
 94 TH E BOOK OF THE GREAT DECEASE.
@@ -6930,9 +6006,6 @@ V.
 MAHA-PARINIBBANA-SUTTA.
 
 
-95
-
-
 hearer of the Blessed One, the Arahat-Buddha, is
 worthy of a d&gaba.
 
@@ -6963,8 +6036,7 @@ and said : * Where, then, brethren, is Ananda ?
 
 The venerable Ananda, Lord, has gone into the
 
-1 Kapisisaw. Buddhaghosa says, Kapisisakan ti dv&ra-
-baha-ko/iyaw Mitam aggala-rukkhaw, 'apiece of wood fixed
+1 Kapisisaw. Buddhaghosa says, Kapisisakan ti dv&rabaha-ko/iyaw Mitam aggala-rukkhaw, 'apiece of wood fixed
 as a bolt at the top of the door posts.' The Sanskrit lexicographers
 give kapi-jirsha in the sense of ' coping of a wall/ Compare
 Patimokkha, Pa&ttiya, No. 19.
@@ -6980,9 +6052,6 @@ the end of it. He had not attained to Nirvana.
 
 
 9 6
-
-
-THE BOOK OF THE GREAT DECEASE.
 
 
 CH.
@@ -7020,8 +6089,7 @@ near and dear unto us that we must divide ourselves
 from them, leave them, sever ourselves from them ?
 How, then, Ananda, can this be possible — whereas
 anything whatever born, brought into being, and
-organised, contains within itself the inherent neces-
-sity of dissolution — how, then, can this be possible,
+organised, contains within itself the inherent necessity of dissolution — how, then, can this be possible,
 that such a being should not be dissolved ? No
 such condition can exist ! For a long time, Ananda,
 have you been very near to me by acts of love,
@@ -7032,9 +6100,6 @@ v.
 
 
 MAHA-PARINIBBANA-SUTTA.
-
-
-97
 
 
 measure. For a long time, Ananda, have you been
@@ -7048,8 +6113,7 @@ you too shall soon be free from the great evils — from
 sensuality, from individuality, from delusion, and
 from ignorance 2 !'
 
-36. 3 Then the Blessed One addressed the bre-
-thren, and said : 1 Whosoever, brethren, have been
+36. 3 Then the Blessed One addressed the brethren, and said : 1 Whosoever, brethren, have been
 Arahat-Buddhas through the long ages of the past,
 there were servitors just as devoted to those Blessed
 Ones as Ananda has been to me. And whosoever,
@@ -7063,8 +6127,7 @@ to those Blessed Ones as Ananda has been to me.
 1 A dv ay en a, which Buddhaghosa explains as not being that
 kind of love which is now one thing and now another, or which
 varies in the presence or the absence of the object loved. When
-the Buddha is called in the Amara Kosha I, 1, 1, 9, advaya-
-v&din, that must mean in a similar way, ' One whose teaching does
+the Buddha is called in the Amara Kosha I, 1, 1, 9, advayav&din, that must mean in a similar way, ' One whose teaching does
 not vary/
 
 * Literally, thou shalt become an Anasava, that is, one who is
@@ -7079,9 +6142,6 @@ word Nirvawa.
 Sa/wyutta Nikaya ; but in regard to Sariputta (Upatissa) and
 Moggallana, and reading savaka-yugaw for upa/Mako.
 [II] H
-
-
-98 THE BOOK OF THE GREAT DECEASE. CH.
 
 
 He knows when it is the right time for him to come
@@ -7115,8 +6175,7 @@ are the four ?
 
 ' If, brethren, a number of nobles, or Brahman, or
 heads of houses, or Samaras should come to visit
-a king of kings, they are filled with joy on behold-
-ing him ; and if the king of kings should then speak,
+a king of kings, they are filled with joy on beholding him ; and if the king of kings should then speak,
 they are filled with joy at what is said ; while they
 are ill at ease, brethren, when the king of kings is
 silent.
@@ -7131,9 +6190,6 @@ V.
 
 
 MAHA-PARINIBBANA-SUTTA.
-
-
-99
 
 
 order, or of the sisters of the order, or of devout
@@ -7164,8 +6220,7 @@ honour to the remains of the Tath&gata V
 word for word, in the beginning of the MahH-Sudassana Sutta,
 translated below ; compare also MaM-Sudassana Gdtaka, No. 95.
 
-* Ku^a-nagarake ti pa/irupake samb&dhe khuddaka-
-nagare: U^angala-nagarake ti visama-nagarake. (S.V.fol.
+* Ku^a-nagarake ti pa/irupake samb&dhe khuddakanagare: U^angala-nagarake ti visama-nagarake. (S.V.fol.
 Mau.) Kuto, if this explanation be right, seems to be merely an
 old and unusual form for kshudra, and the Burmese correction
 into khudda to be unnecessary : but I venture to think it is more
@@ -7175,8 +6230,7 @@ explains u^angala as 'lawless/ he is expressing his view that
 a town in the jungle is likely to be a heathen, pagan sort of
 place.
 
-3 With reference to Childers's note in his Dictionary on maha-
-sald, with which every one must entirely agree, Buddhaghosa's
+3 With reference to Childers's note in his Dictionary on mahasald, with which every one must entirely agree, Buddhaghosa's
 
 H 2
 
@@ -7187,8 +6241,7 @@ IOO THE BOOK OF THE GREAT DECEASE. CH.
 42. 4 Say not so, Ananda ! Say not so, Ananda, that
 this is but a small wattel and daub town, a town in
 the midst of the jungle, a branch township. Long
-ago, Ananda, there was a king, by name Mahi-Sudas-
-sana, a king of kings, a righteous man who ruled in
+ago, Ananda, there was a king, by name Mahi-Sudassana, a king of kings, a righteous man who ruled in
 righteousness, Lord of the four quarters of the earth,
 conqueror, the protector of his people, possessor of
 the seven royal treasures. This Kusin&rd, Ananda,
@@ -7215,8 +6268,7 @@ horses, and the noise of chariots ; the sounds of the
 
 explanation of the word will be interesting as a proof (if proof
 be needed) that the Ceylon scholars are not always trustworthy.
-He says, Khattiya-mah&sdla ti kbattiya-mah&s&r& sfira-
-pattd mahd-khattiyd. Eso nayo sabbattha.
+He says, Khattiya-mah&sdla ti kbattiya-mah&s&r& sfirapattd mahd-khattiyd. Eso nayo sabbattha.
 
 1 The first three of these adjectives are applied at G&taka I, 29
 (v. 212) to the religion of the Buddhas; and I think the right
@@ -7247,8 +6299,7 @@ final passing away of the TathAgata will take place.
 Be favourable herein, O V&se///&as, be favourable.
 Give no occasion to reproach yourselves hereafter,
 saying, * In our own village did the death of our
-TathSgata take place, and we took not the opportu-
-nity of visiting the Tath£gata in his last hours/ " '
+TathSgata take place, and we took not the opportunity of visiting the Tath£gata in his last hours/ " '
 
 ' Even so, Lord/ said the venerable Ananda, in
 assent, to the Blessed One ; and he robed himself,
@@ -7261,23 +6312,16 @@ cries eleven. The Mahd-Sudassana Sutta has in the corresponding
 passage, like the Burmese MS. noted here by Childers, conch
 instead of cymbal. My MS. reads cymbal here.
 
-2 Niv&setva patta-£ivara#z dd&ya atta-dutiyo. Buddha-
-ghosa has, naturally enough, no comment on this oft-recurring
-phrase. It cannot be meant that he put on only his under-gar-
-ments, and carried his upper robe with him ; for then his shoulders
+2 Niv&setva patta-£ivara#z dd&ya atta-dutiyo. Buddhaghosa has, naturally enough, no comment on this oft-recurring
+phrase. It cannot be meant that he put on only his under-garments, and carried his upper robe with him ; for then his shoulders
 would have been bare ; and it is quite against the rules to go into
-a village without all the robes having been put carefully on (Pati-
-mokkha, Sekhiya 1-3). I do not even understand how Ananda,
+a village without all the robes having been put carefully on (Patimokkha, Sekhiya 1-3). I do not even understand how Ananda,
 with due regard to the rules of the brotherhood (see Pfoimokkha,
 Nisaggiya 21-29), could have had a spare robe then with him.
-And patta-^fvarazrc can scarcely mean simply 'bowl-robe/ refer-
-ring to the length of cotton cloth in which the bowl was carried
+And patta-^fvarazrc can scarcely mean simply 'bowl-robe/ referring to the length of cotton cloth in which the bowl was carried
 over the shoulder ('Buddhist Birth Stories/ p. 71). 'With both
 his under-garments on, he entered Kusinard duly bowled and robed '
 may be impossible English, but it probably correctly catches the
-
-
-102 THE BOOK OF THE GREAT DECEASE.
 
 
 CH.
@@ -7293,8 +6337,7 @@ arrived there, he informed them, saying, ' This
 day, O V^se/Mas, in the last watch of the night,
 the final passing away of the Tath&gata will take
 place. Be favourable herein, O V&se/Mas, be
-favourable. Give no occasion to reproach your-
-selves hereafter, saying, " In our own village did
+favourable. Give no occasion to reproach yourselves hereafter, saying, " In our own village did
 the death of our Tathigata take place, and we took
 not the opportunity of visiting the Tathigata in his
 last hours."'
@@ -7302,8 +6345,7 @@ last hours."'
 47. And when they had heard this saying of the
 venerable Ananda, the Mallas with their young men
 and maidens and their wives were grieved, and sad,
-and afflicted at heart. And some of them wept, dis-
-hevelling their hair, and stretched forth their arms
+and afflicted at heart. And some of them wept, dishevelling their hair, and stretched forth their arms
 and wept, fell prostrate on the ground, and rolled
 to and fro in anguish at the thought : ' Too soon
 will the Blessed One die ! Too soon will the Happy
@@ -7318,8 +6360,7 @@ had been put on long before. See p. 122. AThera never goes
 about in public alone, he is always accompanied by a S£ma#era.
 
 1 Kena^id eva karawiyena. Professor Pischel, in his edition
-of the Assalayana Sutta (p. 1), prints this expression kena£i deva-
-kara/nyena, and translates it (p. 28), 'for some religious pur-
+of the Assalayana Sutta (p. 1), prints this expression kena£i devakara/nyena, and translates it (p. 28), 'for some religious pur-
 poses.' It seems to me that he has been misled by the commentary,
 which really presupposes the more correct division adopted by
 Childers.
@@ -7329,9 +6370,6 @@ V.
 
 
 maha-parinibbAna-sutta.
-
-
-103
 
 
 maidens and their wives, being grieved and sad
@@ -7362,8 +6400,7 @@ humbly bows down at the feet of the Blessed One/
 presented all the Mallas of Kusinari to the Blessed
 One in the first watch of the night.
 
-52. Now at that time a mendicant named Su-
-bhadda, who was not a believer, was dwelling at
+52. Now at that time a mendicant named Subhadda, who was not a believer, was dwelling at
 Kusindrd. And the mendicant Subhadda heard
 the news: 'This very day, they say, in the third
 watch of the night, will take place the final passing
@@ -7374,21 +6411,17 @@ away of the Samara Gotama.'
 mine, old and well stricken in years, teachers and
 
 
-104 THE BOOK OF THE GREAT DECEASE. CH.
-
 disciples, when they said: "Sometimes and full
 seldom do Tathigatas appear in the world, the
 Arahat Buddha s." Yet this day, in the last watch
 of the night, the final passing away of the Samaoa
 Gotama will take place. Now a certain feeling of
 uncertainty has sprung up in my mind; and this
-faith have I in the Samara Gotama, that he, me-
-thinks, is able so to present the truth that I may
+faith have I in the Samara Gotama, that he, methinks, is able so to present the truth that I may
 get rid of this feeling of uncertainty/
 
 54. Then the mendicant Subhadda went to the
-Sila Grove of the Mallas, to the Upavattana of Kusi-
-nara, to the place where the venerable Ananda was.
+Sila Grove of the Mallas, to the Upavattana of Kusinara, to the place where the venerable Ananda was.
 
 55. And when he had come there he said to the
 venerable Ananda : * Thus have I heard from fellow
@@ -7404,8 +6437,7 @@ able so to present the truth that I may get rid of this
 feeling of uncertainty. O that I, even I, Ananda,
 might be allowed to see the Samara Gotama ! '
 
-56. And when he had thus spoken the vener-
-able Ananda said to the mendicant Subhadda:
+56. And when he had thus spoken the venerable Ananda said to the mendicant Subhadda:
 ' Enough ! friend Subhadda. Trouble not the TathA-
 gata. The Blessed One is weary/
 
@@ -7422,11 +6454,7 @@ V.
 mahA-parinibbAna-sutta.
 
 
-105
-
-
-58. Now the Blessed One overheard this con-
-versation of the venerable Ananda with the men-
+58. Now the Blessed One overheard this conversation of the venerable Ananda with the men-
 dicant Subhadda. And the Blessed One called
 the venerable Ananda, and said : 'It is enough,
 Ananda ! Do not keep out Subhadda. Subhadda,
@@ -7452,19 +6480,16 @@ Subhadda, the mendicant, said to the Blessed One :
 1 Samawa-br&hmaw£, which compound may possibly mean
 Samaras and Brahmans as it has usually been rendered, but I think
 not necessarily. Not one of those here specified were Brdhmans
-by caste, as is apparent from the Sumangala Vilasint on the Sa-
-mara Phala Sutta, p. 114. Compare the use of Kshatriya-
+by caste, as is apparent from the Sumangala Vilasint on the Samara Phala Sutta, p. 114. Compare the use of Kshatriya-
 brahma;*o, 'a soldier priest/ a Kshatriya who offered sacrifice;
 and of Brdhmawo, absolutely, as an epithet of an Arahat. In
 the use of the word samara there seems to me to be a hopeless
 confusion between, a complete mingling of the meanings of, the
 two roots s ram and jam (which, in Pali, would both become sam).
 It connotes both asceticism and inward peace, and might best be
-rendered 'devotee,' were it not for the intellectual inferiority im-
-plied by that word in our language. A Samara Brahman should
+rendered 'devotee,' were it not for the intellectual inferiority implied by that word in our language. A Samara Brahman should
 therefore mean a man of any caste, who by his saintliness of life,
-by his renunciation of the world, and by his reputation as a reli-
-gious thinker, had acquired the position of a quasi Brahman, and
+by his renunciation of the world, and by his reputation as a religious thinker, had acquired the position of a quasi Brahman, and
 
 
 I06 THE BOOK OF THE GREAT DECEASE. CH.
@@ -7493,8 +6518,7 @@ ear attentively, and I will speak/
 ' Even so, Lord ! ' said the mendicant Subhadda,
 in assent, to the Blessed One.
 
-62. And the Blessed One spake : ' In whatso-
-ever doctrine and discipline, Subhadda, the noble
+62. And the Blessed One spake : ' In whatsoever doctrine and discipline, Subhadda, the noble
 eightfold path is not found, neither in it is there
 found a man of true saintliness of the first or of
 the second or of the third or of the fourth degree 2 .
@@ -7523,14 +6547,12 @@ MAHA-PARINIBBANA-SUTTA.
 I07
 
 
-And in whatsoever doctrine and discipline, Su-
-bhadda, the noble eightfold path is found, is found
+And in whatsoever doctrine and discipline, Subhadda, the noble eightfold path is found, is found
 the man of true saintliness of the first and the
 second and the third and the fourth degree. Now
 in this doctrine and discipline, Subhadda, is found
 the noble eightfold path, and in it alone, Subhadda,
-is the man of true saintliness. Void are the sys-
-tems of other teachers — void of true saints. And
+is the man of true saintliness. Void are the systems of other teachers — void of true saints. And
 in this one, Subhadda, may the brethren live the
 Life that's Right, so that the world be not bereft of
 Arahats \
@@ -7558,8 +6580,7 @@ Buddhist Dhamma.
 
 Buddhaghosa says that that bhikkhu sammd viharati, who,
 having himself entered the Noble Path, leads his brother into it,
-and this is, no doubt, good Buddhism. But it is a practical appli-
-cation of the text, a theological exegesis, and not a philological
+and this is, no doubt, good Buddhism. But it is a practical application of the text, a theological exegesis, and not a philological
 explanation. Even so it seems to lay the stress too much on
 'bereft/ and too little on 'Arahats.'
 
@@ -7603,10 +6624,8 @@ day forth, as long as life endures !'
 
 Ime £a samma vihareyyu bhikkhu,
 Asu##o loko 'rahatehi assa.
-1 I have followed, though with some doubt, Childers's punctua-
-tion. Buddhaghosa refers padesa-vatti to samawo; and ito,
-not to padesa, but to magga, understood; and it is quite pos-
-sible that this is the correct explanation. On sam£dhikani see
+1 I have followed, though with some doubt, Childers's punctuation. Buddhaghosa refers padesa-vatti to samawo; and ito,
+not to padesa, but to magga, understood; and it is quite possible that this is the correct explanation. On sam£dhikani see
 the comment at G&taka II, 383.
 
 
@@ -7614,9 +6633,6 @@ V.
 
 
 maha-parinibbAna-sutta.
-
-
-109
 
 
 64. ' Whosoever, Subhadda, that has formerly been
@@ -7644,19 +6660,16 @@ me into the lower or into the higher grade of the
 order!'
 
 66. But the Blessed One called the venerable
--Ananda, and said: 4 As it is, Ananda, receive ^Su-
-thadda into the order!'
+-Ananda, and said: 4 As it is, Ananda, receive ^Suthadda into the order!'
 
 A
 
 4 Even so, Lord!' said the venerable Ananda, in
 assent, to the Blessed One.
 
-67. And Subhadda, the mendicant, said to the vene-
-rable Ananda : ' Great is your gain, friend Ananda,
+67. And Subhadda, the mendicant, said to the venerable Ananda : ' Great is your gain, friend Ananda,
 great is your good fortune, friend Ananda, that you
-all have been sprinkled with the sprinkling of dis-
-cipleship in this brotherhood at the hands of the
+all have been sprinkled with the sprinkling of discipleship in this brotherhood at the hands of the
 Master himself!'
 
 68. So Subhadda, the mendicant, was received
@@ -7672,8 +6685,7 @@ earnest, zealous, and resolved. And e'er long he
 attained to that supreme goal of the higher life 1 for
 the sake of which men go out from all and every
 household gain and comfort to become houseless
-wanderers — yea, that supreme goal did he, by him-
-self, and while yet in this visible world, bring him-
+wanderers — yea, that supreme goal did he, by himself, and while yet in this visible world, bring him-
 self to the knowledge of, and continue to realise, and
 to see face to face ! And he became conscious that
 birth was at an end, that the higher life had been
@@ -7719,17 +6731,12 @@ Ill
 Birth Stories," p. 147). He accepted this, and walking up and
 down in a quiet part of the grove, he thought and meditated upon
 it, till overcoming the Evil Spirit, he had acquired Arahatship, and
-with it the discriminating knowledge of all the Scriptures (Pa/i-
-sambhida). Then, returning, he came and took his seat beside
+with it the discriminating knowledge of all the Scriptures (Pa/isambhida). Then, returning, he came and took his seat beside
 the Blessed One/
 
-According to this, no set ceremony for ordination (Sarigha-
-kamma/rc), as laid down in the Vinaya, took place ; and it is other-
+According to this, no set ceremony for ordination (Sarighakamma/rc), as laid down in the Vinaya, took place ; and it is other-
 wise probable that no such ceremony was usual in the earliest days
 of Buddhism.
-
-
-112 THE BOOK OF THE GREAT DECEASE.
 
 
 CH.
@@ -7768,8 +6775,7 @@ penalty be imposed on brother KkaxmaJ
 1 In ^Tulla Vagga XI, 1, 9, 10, is related how the brotherhood
 formally considered the permission thus accorded to them, and
 resolved to adhere to all the precepts as laid down in the Buddha's
-lifetime. In his comment on this passage Buddhaghosa incident-
-ally refers to a conversation on the subject between Nagasena and
+lifetime. In his comment on this passage Buddhaghosa incidentally refers to a conversation on the subject between Nagasena and
 Milinda Ra^a, but makes no mention of the work known as Milinda
 Pa«ha. Compare Trenckner's edition of that work, p. 142.
 
@@ -7802,11 +6808,9 @@ silent.
 
 6. And again the second and the third time the
 Blessed One addressed the brethren, and said : ' It
-may be, brethren, that there may be doubt or mis-
-giving in the mind of some brother as to the Buddha,
+may be, brethren, that there may be doubt or misgiving in the mind of some brother as to the Buddha,
 or the truth, or the path, or the way. Enquire,
-brethren, freely. Do not have to reproach your-
-selves afterwards with the thought, " Our teacher
+brethren, freely. Do not have to reproach yourselves afterwards with the thought, " Our teacher
 was face to face with us, and we could not bring
 ourselves to enquire of the Blessed One when we
 were face to face with him." '
@@ -7818,16 +6822,12 @@ And even the third time the brethren were silent.
 .fftanna is represented as an obstinate, perverse man ; so destitute
 of the proper 'esprit de corps' that he dared to take part with
 the sisterhood, and against the brotherhood, in a dispute which
-had arisen between them. But after the social penalty here re-
-ferred to had been duly imposed upon him, even his proud and
+had arisen between them. But after the social penalty here referred to had been duly imposed upon him, even his proud and
 independent spirit was tamed ; he became humble : his eyes were
 opened; and he, also, attained to the 'supreme goal 1 of the
 CBuddhist faith.
 
 [11] I
-
-
-114 THE BOOK OF THE GREAT DECEASE. CH.
 
 
 7. Then the Blessed One addressed the brethren,
@@ -7853,8 +6853,7 @@ spoken, Ananda! But, Ananda, the TatMgata
 knows for certain that in this whole assembly of the
 brethren there is not one brother who has any
 doubt or misgiving as to the Buddha, or the truth,
-or the path, or the way ! For even the most back-
-ward, Ananda, of all these five hundred brethren
+or the path, or the way ! For even the most backward, Ananda, of all these five hundred brethren
 has become converted, and is no longer liable to be
 born in a state of suffering, and is assured of final
 salvation V
@@ -7884,11 +6883,9 @@ rising out of the third stage he passed into the
 fourth. And rising out of the fourth stage of
 deep meditation he entered into the state of mind
 to which the infinity of space is alone present 2 . And
-passing out of the mere consciousness of the in-
-finity of space he entered into the state of mind to
+passing out of the mere consciousness of the infinity of space he entered into the state of mind to
 which the infinity of thought is alone present. And
-passing out of the mere consciousness of the infi-
-nity of thought he entered into a state of mind to
+passing out of the mere consciousness of the infinity of thought he entered into a state of mind to
 which nothing at all was specially present. And
 passing out of the consciousness of no special object
 he fell into a state between consciousness and
@@ -7907,10 +6904,8 @@ sensations and ideas have ceased to be ! '
 
 13. Then the Blessed One passing out of the
 state in which both sensations and ideas have
-ceased to be, entered into the state between con-
-sciousness and unconsciousness. And passing out
-of the state between consciousness and uncon-
-sciousness he entered into the state of mind to
+ceased to be, entered into the state between consciousness and unconsciousness. And passing out
+of the state between consciousness and unconsciousness he entered into the state of mind to
 
 1 CrMna, the full text and an explanation of which will be found
 in the translator's 'Buddhism,' pp. 174-176.
@@ -7927,8 +6922,7 @@ which nothing at all is specially present. And
 passing out of the consciousness of no special
 object he entered into the state of mind to which
 the infinity of thought is alone present And
-passing out of the mere consciousness of the infi-
-nity of thought he entered into the state of mind
+passing out of the mere consciousness of the infinity of thought he entered into the state of mind
 to which the infinity of space is alone present.
 And passing out of the mere consciousness of the
 infinity of space he entered into the fourth stage of
@@ -7941,16 +6935,14 @@ entered into the second. And passing out of the
 second stage he entered into the third. And passing
 out of the third stage he entered into the fourth
 stage of deep meditation. And passing out of the
-last stage of deep meditation he immediately ex-
-pired.
+last stage of deep meditation he immediately expired.
 
 14. When the Blessed One died there arose, at the
 moment of his passing out of existence, a mighty
 earthquake, terrible and awe-inspiring : and the
 thunders of heaven burst forth.
 
-15. When the Blessed One died, Brahm& Saham-
-pati, at the moment of his passing away from exist-
+15. When the Blessed One died, Brahm& Sahampati, at the moment of his passing away from exist-
 ence, uttered this stanza :
 
 ' They all, all beings that have life, shall lay
@@ -7965,9 +6957,6 @@ VI.
 
 
 mahA-parinibbAna-sutta.
-
-
-117
 
 
 Unequalled among all the men that are,
@@ -7989,8 +6978,7 @@ They are produced, they are dissolved again :
 And then is best, when they have sunk to rest 2 ! '
 
 
-1 Brahmd, the first cause, the highest result of Indian theo-
-logical speculation, the one God of the Indian Pantheists, is repre-
+1 Brahmd, the first cause, the highest result of Indian theological speculation, the one God of the Indian Pantheists, is repre-
 sented as using expressions full of deep allusions to the most
 characteristic Buddhist doctrines. The Samussaya is the result
 of the temporary collocation of the 'aggregations' (khandha) of
@@ -8014,11 +7002,9 @@ A man is born, and then he dies.
 
 Oh, the happiness of escaping from this condition!'
 The very meaning which is here the most essential connotation of
-sahkhari is lost in the phrase 'whatever exists/ By a misap-
-prehension of the, no doubt, difficult word D ha mm a, which,
+sahkhari is lost in the phrase 'whatever exists/ By a misapprehension of the, no doubt, difficult word D ha mm a, which,
 however, never means 4 term/ the second clause has lost its point.
-And by a grammatical blunder the third clause in the Chinese con-
-fines the doctrine, erroneously, to man. In a Chinese tale, called
+And by a grammatical blunder the third clause in the Chinese confines the doctrine, erroneously, to man. In a Chinese tale, called
 
 
 Il8 THE BOOK OF THE GREAT DECEASE. CH.
@@ -8060,12 +7046,10 @@ Though joined together, there must be separation;
 
 Where there is life there must be death.'
 
-1 Aetaso Vimokho. Kena£i dhammena an£vara»a-vimo-
-kho sabbaso apa##atti-bha*vupagamo, says Buddhaghosa;
+1 Aetaso Vimokho. Kena£i dhammena an£vara»a-vimokho sabbaso apa##atti-bha*vupagamo, says Buddhaghosa;
 that is, 'the deliverance which is free from the restraint of each
 and every mental quality completely vanishing away* (dhamm£
-being here = sa««a and vedana and sankhdra 4 ; see 'Bud-
-dhism/ pp. 91, 92). See also below, p. 153.
+being here = sa««a and vedana and sankhdra 4 ; see 'Buddhism/ pp. 91, 92). See also below, p. 153.
 
 2 In these four stanzas we seem to have the way in which the
 death of the Buddha would be regarded, as the early Buddhist
@@ -8077,9 +7061,6 @@ VI.
 
 
 mahA-parinibbAna-sutta.
-
-
-119
 
 
 19 \ When the Blessed One died, of those of the
@@ -8111,20 +7092,15 @@ then can this be possible that such a being should
 not be dissolved ? No such condition can exist !
 Even the spirits, brethren, will reproach us 2 .
 
-each of these for the change in character resulting from their con-
-version to Buddhism) ; the holy, thoughtful Arahat ; and the loving,
+each of these for the change in character resulting from their conversion to Buddhism) ; the holy, thoughtful Arahat ; and the loving,
 childlike disciple.
 
 1 Nearly = V, 11-14; and below, VI, 39.
 
 2 U^Myanti. I have followed the reading of my own MS.,
-which is confirmed by the Sumangala Vilstsinf and the Mald-
-lahkdra-vatthu. V\ggkd.ya.nt\ 9 which Childers reads, would be
+which is confirmed by the Sumangala Vilstsinf and the Maldlahkdra-vatthu. V\ggkd.ya.nt\ 9 which Childers reads, would be
 questionable Buddhism. The spirits do not become extinct ; that
 is, not as a general rule, as would be implied by the absolute state-
-
-
-120 THE BOOK OF THE GREAT DECEASE. CH.
 
 
 ' But of what kind of spirits is the Lord, the
@@ -8139,13 +7115,11 @@ in anguish at the thought : " Too soon has the
 
 ment, ' Even the spirits, brethren, become extinct/ It is no doubt
 true that all spirits, from the lowest to the highest, from the most
-insignificant fairy to the God of theological speculation, are re-
-garded as temporary. But when they cease to exist as gods or
+insignificant fairy to the God of theological speculation, are regarded as temporary. But when they cease to exist as gods or
 spirits (devata), they do not go out, they are not extinguished
 (vi^^dyanti); they continue to exist in some other form. And
 though that other form would, from the European point of view,
-be a different being, as there would be no continuity of conscious-
-ness, no passage of a ' soul ' from the one to the other ; it would, "
+be a different being, as there would be no continuity of consciousness, no passage of a ' soul ' from the one to the other ; it would, "
 from the Buddhist point of view, be the same being, as it would be
 the resultant effect of the same Karma. There would follow on
 the death of a devati, not extinction, but a transmutation of force,
@@ -8197,8 +7171,7 @@ things. How then is it possible [that such a being
 should not be dissolved] ? " '
 
 
-22. Now the venerable Anuruddha and the vener-
-able Ananda spent the rest of that night in religious
+22. Now the venerable Anuruddha and the venerable Ananda spent the rest of that night in religious
 discourse. Then the venerable Anuruddha said to
 the venerable Ananda : * Go now, brother Ananda,
 into Kusinira and inform the Mallas of Kusin£r£,
@@ -8220,11 +7193,7 @@ hall of the Mallas of Kusiniri ; and when he had
 arrived there, he informed them, saying, 'The
 
 
-122 THE BOOK OF THE GREAT DECEASE. CH.
-
-
-Blessed One, O V£se////as, is dead ; do, then, what-
-ever seemeth to you fit!'
+Blessed One, O V£se////as, is dead ; do, then, whatever seemeth to you fit!'
 
 24. And when they had heard this saying of the
 venerable Ananda, the Mallas, with their young men
@@ -8242,16 +7211,14 @@ Too soon has the Light gone out in the world ! '
 their attendants, saying, 4 Gather together perfumes
 and garlands, and all the music in Kusin&ri ! '
 
-26. And the Mallas of Kusiniri took the per-
-fumes and garlands, and all the musical instruments,
+26. And the Mallas of Kusiniri took the perfumes and garlands, and all the musical instruments,
 and five hundred suits of apparel, and went to the
 Upavattana, to the S&la Grove of the Mallas, where
 the body of the Blessed One lay. There they past
 the day in paying honour, reverence, respect, and
 homage to the remains of the Blessed One with
 dancing, and hymns, and music, and with garlands
-and perfumes ; and in making canopies of their gar-
-ments, and preparing decoration wreaths to hang
+and perfumes ; and in making canopies of their garments, and preparing decoration wreaths to hang
 thereon \
 
 
@@ -8259,8 +7226,7 @@ thereon \
 muslin or cotton cloth ; and a suit of apparel consisted of two or,
 at the outside, of three of these — one to wrap round the loins, one
 to throw over the shoulders, and one to use as a turban. To make
-a canopy on occasions of state they would join such pieces to-
-gether; to make the canopy into a tent they would simply add
+a canopy on occasions of state they would join such pieces together; to make the canopy into a tent they would simply add
 walls of the same material ; and the only decoration, as simple as it
 
 
@@ -8270,14 +7236,10 @@ VI.
 mahA-parinibbAna-sutta.
 
 
-123
-
-
 2 7. Then the Mallas of Kusiniri thought :
 * It is much too late to burn the body of the
 Blessed One to-day. Let us now perform the
-cremation to-morrow/ And in paying honour, re-
-verence, respect, and homage to the remains of the
+cremation to-morrow/ And in paying honour, reverence, respect, and homage to the remains of the
 Blessed One with dancing, and hymns, and music,
 and with garlands and perfumes; and in making
 canopies of their garments, and preparing decoration
@@ -8314,23 +7276,17 @@ is beautiful, would be wreaths of flowers, or single lotuses, hanging
 from the roof, or stretched along the sides.
 
 
-124 THE BOOK OF THE GREAT DECEASE. CH.
-
-
 of bearing the body of the Blessed One, are unable
 to lift it up?'
 
-' It is because you, O V£se#^as, have one pur-
-pose, and the spirits have another purpose/
+' It is because you, O V£se#^as, have one purpose, and the spirits have another purpose/
 
 31. ' But what, Lord, is the purpose of the spirits?'
 ' Your purpose, O Vfise/Afcas, is this, Let us carry
 
-the body of the Blessed One, by the south and out-
-side, to a spot on the south, and outside of the city, —
+the body of the Blessed One, by the south and outside, to a spot on the south, and outside of the city, —
 paying it honour, and reverence, and respect, and
-homage, with dance and song and music, with gar-
-lands and perfumes, — and there, to the south of the
+homage, with dance and song and music, with garlands and perfumes, — and there, to the south of the
 city, let us perform the cremation ceremony. But
 the purpose of the spirits, Vise^as, is this, Let us
 carry the body of the Blessed One by the north to the
@@ -8342,8 +7298,7 @@ respect, and homage to the body of the Blessed
 One, with heavenly dance, and song, and music,
 and garlands, and perfumes, — let us carry it to the
 shrine of the Mallas called Maku/a-bandhana, to the
-east of the city, and there let us perform the crema-
-tion ceremony/
+east of the city, and there let us perform the cremation ceremony/
 
 ' Even according to the purpose of the spirits, so,
 Lord, let it be!'
@@ -8362,9 +7317,6 @@ VI.
 
 
 mahA-parinibbAna-sutta.
-
-
-125
 
 
 body by the north to the north of the city ; and
@@ -8404,15 +7356,11 @@ which they treat the remains of a king of kings.
 so, Vcise/Mas, should they treat the remains of the
 
 1 The point of this interesting legend is that the inhabitants of
-an Indian village of that time would have considered it a desecra-
-tion or pollution to bring a dead body into or through their village.
+an Indian village of that time would have considered it a desecration or pollution to bring a dead body into or through their village.
 
 2 Compare Chap. V, §§ 25-30.
 
 i
-
-
-126 THE BOOK OF THE GREAT DECEASE. CH.
 
 
 Tathigata. At the four cross roads a digaba should
@@ -8439,8 +7387,7 @@ of all kinds of perfumes, and upon it they placed
 the body of the Blessed One.
 
 
-36. Now at that time the venerable Mah& Kas-
-sapa was journeying along the high road from Pkvk
+36. Now at that time the venerable Mah& Kassapa was journeying along the high road from Pkvk
 to KusinirS. with a great company of the brethren,
 with about five hundred of the brethren. And the
 venerable Mahd Kassapa left the high road, and sat
@@ -8461,9 +7408,6 @@ VI.
 
 
 mahA-parinibbana-sutta.
-
-
-127
 
 
 4 Yea, friend ! I know him. This day the Samara
@@ -8508,9 +7452,6 @@ supposed to be younger brother to Anns. Konda##a, the first
 convert ; this Subhadda had been a barber in the village Atuma.
 
 
-128 THE BOOK OF THE GREAT DECEASE. CH.
-
-
 41. But the venerable Mahi Kassapa addressed
 the brethren, and said : ' Enough, my brethren !
 Weep not, neither lament! Has not the Blessed
@@ -8518,8 +7459,7 @@ One formerly declared this to us, that it is in
 the very nature of all things, near and dear unto
 us, that we must divide ourselves from them,
 leave them, sever ourselves from them ? How then,
-brethren, can this be possible — that whereas any-
-thing whatever born, brought into being, and or-
+brethren, can this be possible — that whereas anything whatever born, brought into being, and or-
 ganised contains within itself the inherent necessity
 of dissolution — how then can this be possible that
 such a being should not be dissolved ? No such
@@ -8547,8 +7487,7 @@ and the spirits have another purpose.'
 * The purpose of the spirits, O V&se//^as, is this :
 
 That venerable brother Mahi Kassapa is now
-journeying along the high road from Pivi to Kusi-
-n&rk with a great company of the brethren, with
+journeying along the high road from Pivi to Kusin&rk with a great company of the brethren, with
 five hundred of the brethren. The funeral pile of
 
 
@@ -8558,11 +7497,7 @@ vr.
 mahA-parinibbAna-sutta.
 
 
-129
-
-
-the Blessed One shall not catch fire, until the venera-
-ble Mah£ Kassapa shall have been able reverently
+the Blessed One shall not catch fire, until the venerable Mah£ Kassapa shall have been able reverently
 to salute the sacred feet of the Blessed One.'
 
 * Even according to the purpose of the spirits, so,
@@ -8615,8 +7550,7 @@ remained behind.
 
 Just as one sees no soot or ash when glue or
 oil is burned ; so, as the body of the Blessed One
-burned itself away, from the skin and the integu-
-ment, and the flesh, and the nerves, and the fluid
+burned itself away, from the skin and the integument, and the flesh, and the nerves, and the fluid
 of the joints, neither soot nor ash was seen : and
 only the bones remained behind. And of those five
 hundred pieces of raiment the very innermost and
@@ -8629,11 +7563,9 @@ the Blessed One ; and there burst forth streams of
 water from the storehouse of the waters (beneath
 the earth), and extinguished the funeral pile of the
 Blessed One. The M alias of Kusin£r& also brought
-water scented with all kinds of perfumes, and ex-
-tinguished the funeral pile of the Blessed One \
+water scented with all kinds of perfumes, and extinguished the funeral pile of the Blessed One \
 
-in Burma, and those in Ceylon who belong to the Amara-pura-
-s a ma gam a, are more in accordance with ancient custom in
+in Burma, and those in Ceylon who belong to the Amara-puras a ma gam a, are more in accordance with ancient custom in
 wearing the robe ordinarily over both shoulders.
 
 1 There is something very quaint in the way in which the
@@ -8664,8 +7596,7 @@ son of the queen of the Videha clan, heard the
 news that the Blessed One had died at KusindrA.
 
 Then the king of Magadha, A^atasattu, the
-son of the queen of the Videha clan, sent a mes-
-senger to the Mallas, saying, ' The Blessed One
+son of the queen of the Videha clan, sent a messenger to the Mallas, saying, ' The Blessed One
 belonged to the soldier caste, and I too am of the
 soldier caste. I am worthy to receive a portion
 of the relics of the Blessed One. Over the remains
@@ -8689,13 +7620,10 @@ that sala means an open hall rather than a storehouse, and that
 the belief in a ' storehouse of water ' has not, as yet, been found
 elsewhere.
 
-1 The commentator gives a long account of A^tasattu's pro-
-ceedings on this occasion.
+1 The commentator gives a long account of A^tasattu's proceedings on this occasion.
 
 K 2
 
-
-132 THE BOOK OF THE GREAT DECEASE. CH.
 
 news that the Blessed One had died at Kusin&ri.
 And the S&kiyas of Kapila-vatthu sent a messenger
@@ -8742,9 +7670,6 @@ VI.
 mahA-parinibbAna-su tta.
 
 
-133
-
-
 57. And the Mallas of P£v& heard the news that
 the Blessed One had died at Kusindri.
 
@@ -8763,8 +7688,7 @@ Kusinari spoke to the assembled brethren, saying,
 We will not give away any part of the remains of
 the Blessed One ! '
 
-59. When they had thus spoken, Dona, the Brah-
-man addressed the assembled brethren, and said :
+59. When they had thus spoken, Dona, the Brahman addressed the assembled brethren, and said :
 
 4 Hear, reverend sirs, one single word from me.
 Forbearance was our Buddha wont to teach.
@@ -8789,11 +7713,7 @@ parts, with fair division V
 * Be it so, sir ! ' said Do#a, in assent, to the assem-
 
 
-1 Here again the commentator expands and adds to the com-
-paratively simple version of the text.
-
-
-134 THE BOOK OF THE GREAT DECEASE.
+1 Here again the commentator expands and adds to the comparatively simple version of the text.
 
 
 CH.
@@ -8811,8 +7731,7 @@ And they gave the vessel to Do#a the Br&hman.
 61. And the Moriyas of Pipphalivana heard the
 news that the Blessed One had died at KusinArA.
 
-Then the Moriyas of Pipphalivana sent a mes-
-senger to the Mallas, saying, 1 The Blessed One
+Then the Moriyas of Pipphalivana sent a messenger to the Mallas, saying, 1 The Blessed One
 belonged to the soldier caste, and we too are of the
 soldier caste. We are worthy to receive a portion of
 the relics of the Blessed One. Over the remains of
@@ -8821,8 +7740,7 @@ in their honour will we celebrate a feast ! '
 
 And when they heard the answer, saying, 1 There
 is no portion of the remains of the Blessed One left
-over. The remains of the Blessed One are all dis-
-tributed/ then they took away the embers.
+over. The remains of the Blessed One are all distributed/ then they took away the embers.
 
 62. Then the king of Magadha, A^tasattu, the
 son of the queen of the Videha clan, made a mound
@@ -8923,8 +7841,6 @@ D H AM M AA'AK KAPPA VAT-
 TANA-SUTTA.
 
 
-INTRODUCTION
-
 TO THE
 
 FOUNDATION OF THE KINGDOM
@@ -8941,11 +7857,9 @@ Thus the first sentence is given as follows : —
 
 Evaw me sutam. Rkam samayaw Bhagava
 B&ra//asiyaw viharati Isipatane Migaddye. Me
-evaw sutaw. Ekaw samayaw BhagavS, B&r£#asi-
-ydLtn Isipatane Migad&ye viharati.
+evaw sutaw. Ekaw samayaw BhagavS, B&r£#asiydLtn Isipatane Migad&ye viharati.
 
-As this repetition is merely carried out for the further se-
-curity of the text it has not been followed in the translation.
+As this repetition is merely carried out for the further security of the text it has not been followed in the translation.
 
 This text belongs to the Ahguttara Nik&ya. M. L&m
 Feer has lithographed the Sawyutta treatment in his
@@ -8985,8 +7899,7 @@ value of this Sutta. There can be no reasonable doubt that
 the very ancient tradition accepted by all Buddhists as
 to the substance of the discourse is correct, and that we
 really have in it a summary of the words in which the
-great Indian thinker and reformer for the first time suc-
-cessfully promulgated his new ideas. And it presents
+great Indian thinker and reformer for the first time successfully promulgated his new ideas. And it presents
 to us in a few short and pithy sentences the very essence
 of that remarkable system which has had so profound
 an influence on the religious history of so large a portion
@@ -8996,8 +7909,7 @@ The name given to it by the early Buddhists — the
 setting in motion onwards of the royal chariot-wheel of
 the supreme dominion of the Dhamma — means, as I have
 shown elsewhere *, not ' the turning of the wheel of the
-law/ as it has been usually rendered ; but c the inaugura-
-tion, or foundation, of the Kingdom of Righteousness.'
+law/ as it has been usually rendered ; but c the inauguration, or foundation, of the Kingdom of Righteousness.'
 
 Is it possible that the praying wheels of Thibet have led
 to the misapprehension and mistranslation now so common ?
@@ -9016,24 +7928,18 @@ guided wholly by the previous use of the word at the
 1 ' Buddhism/ p. 45. 2 ' Memoir on the Tooth Relic,' &c, p. 15.
 
 
-INTRODUCTION.
-
-
 time when it was first used in a figurative sense : and
 that previous use allows only of the interpretation given
 above. Perhaps, however, Mr. Da Cunha is only copying
 (not very exactly) Mr. Alabaster, who has said, ' Buddha,
 as I have tried to show in other parts of this book, did
-not attempt to teach the beginning of existence, but as-
-sumed it as a rolling circle of causes or effects. This was
+not attempt to teach the beginning of existence, but assumed it as a rolling circle of causes or effects. This was
 his circle or wheel of the law V
 
 Mr. Alabaster therefore calls his very useful book on
-Siamese Buddhism, c The Wheel of the Law ; ' — an ex-
-pression which he on the first page of his preface takes to
+Siamese Buddhism, c The Wheel of the Law ; ' — an expression which he on the first page of his preface takes to
 be about equivalent to Buddhism. But his theory of the
-meaning of the term seems to be based upon a misunder-
-standing of a passage in the Siamese ' Life of Buddha/ which
+meaning of the term seems to be based upon a misunderstanding of a passage in the Siamese ' Life of Buddha/ which
 he there translates. At page 78 he renders his text, i The
 Holy Wheel which the Law taught is plenteous in twelve
 ways/ and he explains this on p. 169 as referring to the
@@ -9106,14 +8012,10 @@ so simple in its nature, so free from any superhuman
 agency, so independent of, so even antagonistic to the
 belief in a soul, the belief in God, and the hope for
 a future life. And we must not allow our estimate of
-the importance of the event to be influenced by our dis-
-agreement from the opinions put forth. Whether these
+the importance of the event to be influenced by our disagreement from the opinions put forth. Whether these
 be right or wrong, it was a turning-point in the religious
 history of man when a reformer, full of the most earnest
 moral purpose, and trained in all the intellectual culture
-
-
-INTRODUCTION.
 
 
 H3
@@ -9137,8 +8039,7 @@ a different derivation, and connotes a set of ideas not
 alluded to by samml If used as an adjective this
 word — signifying literally 'going with* — means either
 ' general, common/ or ' corresponding, mutual/ and as an
-adverb, ' commonly, usually, normally/ or ' fittingly, pro-
-perly, correctly ; ' and hence, in a secondary sense, and
+adverb, ' commonly, usually, normally/ or ' fittingly, properly, correctly ; ' and hence, in a secondary sense, and
 with allusion to both these ideas, ' round, fit, and perfect,
 normal and complete/ When used to characterise such
 widely different things as language, livelihood, and belief,
@@ -9205,8 +8106,7 @@ ing a) livelihood.
 The varying expressions in these two lists are intended in all
 cases, (except perhaps the second,) to convey the same idea.
 The second division (samma-sankappo) is not really
-open to any doubt. Sankappois will, volition, determina-
-tion, desire ; that exertion of the will in the various affairs
+open to any doubt. Sankappois will, volition, determination, desire ; that exertion of the will in the various affairs
 of life which results from the feeling that a certain result
 will be desirable. The only variation in the meaning is
 that sometimes more stress is laid upon the implied exertion
@@ -9241,12 +8141,6 @@ Mental tranquillity.
 2 Ibid. 1865.
 
 
-INTRODUCTION.
-
-
-145
-
-
 which calls it into action. ' Motive' would be somewhat
 too impersonal, * volition 1 too metaphysical a rendering ;
 ' aims ' or ' aspirations ' seems to me to best express
@@ -9270,12 +8164,10 @@ This Buddhist ideal of the perfect life has an analogy
 most instructive from a historical point of view with the
 ideals of the last pagan thinkers in Europe before the
 rise of Christianity, and of the modern exponents of what
-has been called fervent atheism. When after many cen-
-turies of thought a pantheistic or monotheistic unity has
+has been called fervent atheism. When after many centuries of thought a pantheistic or monotheistic unity has
 been evolved out of the chaos of polytheism, — which is
 itself a modified animism or animistic polydaemonism, —
-there has always arisen at last a school to whom theo-
-logical discussions have lost their interest, and who have
+there has always arisen at last a school to whom theological discussions have lost their interest, and who have
 sought for a new solution of the questions to which the
 theologies have given inconsistent answers, in a new system
 in which man was to work out here, on earth, his own
@@ -9317,8 +8209,7 @@ the man who has given up the world 2 ought not
 to follow — the habitual practice, on the one hand,
 of those things whose attraction depends upon the
 passions, and especially of sensuality — a low and
-pagan 3 way (of seeking satisfaction) unworthy, un-
-profitable, and fit only for the worldly-minded —
+pagan 3 way (of seeking satisfaction) unworthy, unprofitable, and fit only for the worldly-minded —
 
 
 1 These are the five mendicants who had waited on the Bodisat
@@ -9345,8 +8236,7 @@ unworthy, and unprofitable.
 
 3. 6 There is a middle path, O Bhikkhus, avoiding
 these two extremes, discovered by the Tathdgata 1
-— a path which opens the eyes, and bestows under-
-standing, which leads to peace of mind, to the
+— a path which opens the eyes, and bestows understanding, which leads to peace of mind, to the
 higher wisdom, to full enlightenment, to Nirv£#a !
 
 4. 'What is that middle path, O Bhikkhus,
@@ -9401,15 +8291,13 @@ that too is painful. In brief, the five aggregates
 which spring from attachment (the conditions of
 individuality and their cause) 3 are painful.
 
-' This then, O Bhikkhus, is the noble truth con-
-cerning suffering.
+' This then, O Bhikkhus, is the noble truth concerning suffering.
 
 6. ' Now this, O Bhikkhus, is the noble truth
 concerning the origin of suffering.
 
 * Verily, it is that thirst (or craving), causing the
-renewal of existence, accompanied by sensual de-
-light, seeking satisfaction now here, now there —
+renewal of existence, accompanied by sensual delight, seeking satisfaction now here, now there —
 that is to say, the craving for the gratification of the
 passions, or the craving for (a future) life, or the
 craving for success (in this present life) 4 .
@@ -9419,8 +8307,7 @@ craving for success (in this present life) 4 .
 
 2 Or ' is painful.'
 
-8 Pa£# upadanakkhandha. On the Khandhft, or the mate-
-rial and mental aggregates which go to make up an individual, see
+8 Pa£# upadanakkhandha. On the Khandhft, or the material and mental aggregates which go to make up an individual, see
 my 'Buddhism/ Chap. III. Upddina, or * grasping' is their
 source, and the uprooting of this up id in a from the mind is
 Arahatship.
@@ -9428,8 +8315,7 @@ Arahatship.
 One might express the central thought of this First Noble
 Truth in the language of the nineteenth century by saying that
 pain results from existence as an individual. It is the struggle to
-maintain one's individuality which produces pain — a most preg-
-nant and far-reaching suggestion. See for a fuller exposition the
+maintain one's individuality which produces pain — a most pregnant and far-reaching suggestion. See for a fuller exposition the
 Fortnightly Review for December, 1879.
 
 4 ' The lust of the flesh, the lust of the eye, and the pride of life 9
@@ -9437,8 +8323,7 @@ Fortnightly Review for December, 1879.
 
 DH AMMA-1TAKK A-PP AVATTANA-SUTTA. 1 49
 
-' This then, O Bhikkhus, is the noble truth con-
-cerning the origin of suffering.
+' This then, O Bhikkhus, is the noble truth concerning the origin of suffering.
 
 7. 'Now this, O Bhikkhus, is the noble truth
 concerning the destruction of suffering.
@@ -9448,8 +8333,7 @@ remains, of this very thirst ; the laying aside of, the
 getting rid of, the being free from, the harbouring
 no longer of this thirst.
 
-' This then, O Bhikkhus, is the noble truth con-
-cerning the destruction of suffering.
+' This then, O Bhikkhus, is the noble truth concerning the destruction of suffering.
 
 8. 'Now this, O Bhikkhus, is the noble truth
 concerning the way 1 which leads to the destruction
@@ -9467,12 +8351,10 @@ former applies to the sassata-di/Mi, and means a desire for an
 eternity of existence; the latter applies to the u£££eda-di/Mi,
 and means a desire for annihilation in the very first (the present)
 form of existence/ Sassata-di/Mi may be called the ' everlasting
-life heresy/ and u£££eda-di/Mi the Met-us-eat-and-drink-for-
-to-morrow-we-die heresy.' These two heresies, thus implicitly
+life heresy/ and u£££eda-di/Mi the Met-us-eat-and-drink-forto-morrow-we-die heresy.' These two heresies, thus implicitly
 condemned, have very close analogies to theism and materialism.
 
-Spence Hardy says (' Manual of Buddhism/ p. 496) : 'Bhawa-
-ta»h& signifies the pertinacious love of existence induced by the
+Spence Hardy says (' Manual of Buddhism/ p. 496) : 'Bhawata»h& signifies the pertinacious love of existence induced by the
 supposition that transmigratory existence is not only eternal, but
 felicitous and desirable. Wibhawa-ta»h£ is the love of the
 present life, under the notion that existence will cease therewith,
@@ -9499,8 +8381,7 @@ Right effort;
 Right mindfulness; and
 Right contemplation.
 
-' This then, O Bhikkhus, is the noble truth con-
-cerning the destruction of sorrow.
+' This then, O Bhikkhus, is the noble truth concerning the destruction of sorrow.
 
 
 9. ' That this was the noble truth concerning
@@ -9512,21 +8393,18 @@ there arose the wisdom (to guide in the path of
 tranquillity), there arose the light (to dispel darkness
 from it) \
 
-10. ' And again, O Bhikkhus, that I should com-
-prehend that this was the noble truth concerning
+10. ' And again, O Bhikkhus, that I should comprehend that this was the noble truth concerning
 sorrow, though it was not among the doctrines
 handed down, there arose within me the eye, there
 arose the knowledge, there arose the understanding,
 there arose the wisdom, there arose the light.
 
-11. * And again, O Bhikkhus, that I had compre-
-hended that this was the noble truth concerning
+11. * And again, O Bhikkhus, that I had comprehended that this was the noble truth concerning
 sorrow, though it was not among the doctrines
 handed down, there arose within me the eye, there
 
 
-1 The words in parentheses have been added by Gogerly, doubt-
-less from some comment not accessible to me ; and I have included
+1 The words in parentheses have been added by Gogerly, doubtless from some comment not accessible to me ; and I have included
 them also, but in parentheses, as they seem to complete the ideas
 actually involved in the text.
 
@@ -9562,8 +8440,7 @@ arose the wisdom, there arose the light.
 concerning the destruction of sorrow, though it was
 not among the doctrines handed down; but there
 arose within me the eye, there arose the knowledge,
-there arose the understanding, there arose the wis-
-dom, there arose the light.
+there arose the understanding, there arose the wisdom, there arose the light.
 
 16. 'And again, O Bhikkhus, that I should fully
 realise the destruction of sorrow, though the noble
@@ -9591,16 +8468,14 @@ but there arose within me the eye, there arose the
 knowledge, there arose the understanding, there
 arose the wisdom, there arose the light.
 
-19. * And again, O Bhikkhus, that I should be-
-come versed in the way which leads to the destruc-
+19. * And again, O Bhikkhus, that I should become versed in the way which leads to the destruc-
 tion of sorrow, though the noble truth concerning it
 was not among the doctrines handed down, there
 arose within me the eye, there arose the knowledge,
 there arose the understanding, there arose the
 wisdom, there arose the light.
 
-20. * And again, O Bhikkhus, that I had be-
-come versed in the way which leads to the destruc-
+20. * And again, O Bhikkhus, that I had become versed in the way which leads to the destruc-
 tion of sorrow, though the noble truth concerning it
 was not among the doctrines handed down, there
 arose within me the eye, there arose the knowledge,
@@ -9696,8 +8571,7 @@ not by any Samara or Brahman, not by any god,
 not by any Brahma or M£ra, not by any one in the
 universe, can ever be turned back 2 ! '
 
-1 Their names are given in the Mahi Samaya Sutta in Grim-
-blot's ' Sept Suttas Palis/
+1 Their names are given in the Mahi Samaya Sutta in Grimblot's ' Sept Suttas Palis/
 
 2 The text repeats § 26 for each of the heavens; and the gods
 thus enumerated are as follows, beginning with Bhummi Devi
@@ -9723,9 +8597,6 @@ See the Mahi Samaya Sutia in Grimblot's ' Sept Suttas Palis/ and
 DHAMMA-KAKKA-PPAVATTANA-SUTTA.
 
 
-155
-
-
 28. And thus, in an instant, a second, a moment,
 the sound went up even to the world of BrahrM :
 and this great ten-thousand-world-system quaked
@@ -9735,8 +8606,7 @@ beyond even the power of the gods !
 
 29. Then did the Blessed One give utterance to
 this exclamatioii of joy : * Konda##a hath realised
-it. Konda#/za hath realised it ! ' And so the vener-
-able Konda##a acquired the name of A##ata-
+it. Konda#/za hath realised it ! ' And so the venerable Konda##a acquired the name of A##ata-
 Konda/ma (' the Konda##a who realised ') \
 
 
@@ -9776,8 +8646,6 @@ converted simultaneously with Kondanya/
 TEVIGGA-SUTTANTA.
 
 
-INTRODUCTION
-
 TO
 
 THE TEVIGGA SUTTA.
@@ -9797,8 +8665,7 @@ Gotama is there described by the complimentary title
 of Tevi^a, 'Wise in the Vedas;' and its full name is
 the Tevigga-va&fc^agotta-sutta 1 .
 
-I have made the present translation from a text con-
-stituted from three MSS., — my own MS. of the Digha
+I have made the present translation from a text constituted from three MSS., — my own MS. of the Digha
 Nikdya, referred to as D ; the Turnour MS. of the same
 in the Indian Office, referred to as T ; both in Sinhalese
 characters: and the Phayre MS. in the same place, in
@@ -9814,29 +8681,23 @@ They ask which is the true path to a state of union
 of Socratic dialogue, that on their own showing, on the
 
 
-1 It may be noted, in passing, that the substance of it recurs as the Va£Ma-
-gotta Sa#?yutta in the Sa#?yutta Nikaya.
+1 It may be noted, in passing, that the substance of it recurs as the Va£Magotta Sa#?yutta in the Sa#?yutta Nikaya.
 
 
 i6o
-
-
-TEVIGGA SUTTA.
 
 
 basis of facts they themselves admitted, the Br&hmans
 could have no real knowledge of their God, Gotama
 maintains that union with a God whom they admitted
 to be pure and holy must be unattainable by men impure
-and sinful and self-righteous, however great their know-
-ledge of the Vedas. And he then lays down, not without
+and sinful and self-righteous, however great their knowledge of the Vedas. And he then lays down, not without
 occasional beauty of language, that system of Right
 Conduct, which must be the only direct way to a real
 union with God.
 
 One would think perhaps that such a Sutta might be
-adapted, without very great difficulty, for use as a mis-
-sionary tract, so closely does it remind us of the argument
+adapted, without very great difficulty, for use as a missionary tract, so closely does it remind us of the argument
 of many a sermon on the text, ' Except your righteousness
 shall exceed the righteousness of the Scribes and Pharisees,
 ye shall in no wise enter the kingdom of heaven ! ' And
@@ -9845,21 +8706,18 @@ in the three Vedas — correspond exactly in most essential
 particulars with the Scribes and Pharisees of the New
 Testament. They were the official preservers by repeating,
 as the Scribes were by copying, the sacred books ; and
-they were the recognised interpreters, and the sole cus-
-todians of the traditional interpretation — which too often
+they were the recognised interpreters, and the sole custodians of the traditional interpretation — which too often
 explained away the real meaning — of those books. It
 follows that as the law in both cases was included in the
 sacred books, it was they who, in both cases, were the
 real lawgivers, and practically the only lawyers. And
-as almost all learning was confined to, or in close con-
-nection with the sacred books, the Teviggk were the chief
+as almost all learning was confined to, or in close connection with the sacred books, the Teviggk were the chief
 Pandits, as the Scribes were the ' Doctors of the Law.'
 Like the Pharisees, too, the Brdhmans laid claim to
 peculiar sanctity ; and many of them in the pride of their
 education, their birth, and their wealth, looked down with
 self-righteous scorn on the masses of the people. And
-while, on the other hand, the Brdhmans further resem-
-bled the Scribes and Pharisees in that many of them
+while, on the other hand, the Brdhmans further resembled the Scribes and Pharisees in that many of them
 were justly deserving of the respect in which they were
 held ; it is only the undeserving who, in both cases, arc
 intended to be condemned.
@@ -9867,28 +8725,19 @@ intended to be condemned.
 But whatever interpretation of the ' kingdom of heaven 9
 
 
-INTRODUCTION.
-
-
-161
-
-
-the reader may adopt, it must be very different from any-
-thing the Sutta can mean by 'a state of union with
+the reader may adopt, it must be very different from anything the Sutta can mean by 'a state of union with
 BrahmA.' It is not easy to say what opinion is really
 imputed to the young Brihmans before their conversion.
 It is probably meant that they were seeking a way by
 which their Self should become identified, after death,
 with Brahman ; a way by which they could escape from
-the immortality of transmigration, from existence alto-
-gether as separate individuals 1 . And in holding out a
+the immortality of transmigration, from existence altogether as separate individuals 1 . And in holding out a
 hope of union with BrahmS as a result of the practice
 of universal love 2 , the Buddha is most probably intended
 to mean * a union with Brahmi ' in the Buddhist sense —
 that is to say, a temporary companionship as a separate
 being with the Buddhist Brahm&, to be enjoyed by a
-new individual not consciously identical with its pre-
-decessor. It is just possible that the argumentum ad
+new individual not consciously identical with its predecessor. It is just possible that the argumentum ad
 hominem should be extended to this part of the Sutta;
 and that the statement in III, 1 should be taken to mean,
 ' This (universal love) is the only way to that kind of
@@ -9923,20 +8772,14 @@ vol. i. p. xxx.
 l62
 
 
-TEVIGGA SUTTA.
-
-
 as is described in the first sections of our Sutta. As there
 were many Br&hmans who had not that knowledge, the
 word naturally came to imply a person worthy of the
-respect due to special learning, and was used as a compli-
-mentary title, not very different from our Doctor. It is
+respect due to special learning, and was used as a complimentary title, not very different from our Doctor. It is
 preserved as an epithet of Arahats in the Buddhist writings,
-but as meaning one possessed of the knowledge of a funda-
-mental threefold doctrine of Buddhism, the doctrine of the
+but as meaning one possessed of the knowledge of a fundamental threefold doctrine of Buddhism, the doctrine of the
 impermanency, the inherent pain, and the absence of any
-abiding principle (any Self) in the confections or compo-
-nent things \ That is to say, the knowledge of the Vedas
+abiding principle (any Self) in the confections or component things \ That is to say, the knowledge of the Vedas
 was replaced by a knowledge of the real character of the
 deceptive and evanescent phenomena by which we are
 encircled, and of which we form a part.
@@ -9946,8 +8789,7 @@ but the idea was entirely changed. The course of religious
 belief had passed among the Indian section of the Aryan
 tribes through the usual stages of animism and polytheism
 to a kind of pantheism peculiar to India, in which Brahman
-was held to be a first cause, the highest self, emotion-
-less, infinite, absolute. As the Buddhist system was
+was held to be a first cause, the highest self, emotionless, infinite, absolute. As the Buddhist system was
 constructed without any use of the previous idea of a
 separate soul, or self, or ghost, or spirit, supposed to exist
 inside the human body, this woven chain of previous
@@ -9968,12 +8810,6 @@ they were patronized as a kind of fairies, usually beneficent,
 1 See J£u\\a. Vagga VI, 6, a.^GStaka, vol. i. p. 217; Mahivaaisa, p. 79;
 Dipavawsa XV, 80 (where the Arahats are women) ; and on 'confections' below,
 in the Introduction to the ' Book of the Great King of Glory.'
-
-
-INTRODUCTION.
-
-
-163
 
 
 though always more or less foolish and ignorant. They
@@ -9999,13 +8835,11 @@ grown great, and beyond measure.
 
 No exception was made in the case of Brahmi. He,
 like every other creature that had life, was evanescent,
-was bound by the chain of existence, the result of ignor-
-ance, and could only find salvation by walking along the
+was bound by the chain of existence, the result of ignorance, and could only find salvation by walking along the
 Noble Eightfold Path. It must be remembered that the
 Brahmd of modern times, the God of the ardent theism
 of some of the best of the later Hindus, had not then come
-into existence : that conception was one effect of the in-
-fluence of Mohammadan and Christian thought upon
+into existence : that conception was one effect of the influence of Mohammadan and Christian thought upon
 Hindu minds. And it would be useless to conjecture
 how the Buddhist theory might have been modified by
 contact with that ideal.
@@ -10021,12 +8855,8 @@ his virtue in a previous birth as a Bhikkhu named Sahaka
 M 2
 
 
-TEVIGGA SUTTA.
-
-
 in the time when Kassapa Buddha's religion flourished
-upon earth 1 . According to the author of the G&taka com-
-mentary, he assisted at the future Buddha's birth 2 ; and
+upon earth 1 . According to the author of the G&taka commentary, he assisted at the future Buddha's birth 2 ; and
 twice afterwards he rendered service to the Bodisat just
 before the great conflict with M&ra 8 . And when after the
 victory the Blessed One hesitated whether it would be
@@ -10041,17 +8871,14 @@ Thera Si/^a, to confirm his wavering faith 6 .
 
 These instances will show the high character ascribed
 to the BrahmA of the world system in which we live;
-and in each of the infinite world systems which are scat-
-tered through space there is supposed to be a like finite,
+and in each of the infinite world systems which are scattered through space there is supposed to be a like finite,
 temporary, virtuous Brahmi sitting as king over the most
 exalted of the angel hosts.
 
-It must be evident that it follows, without the possi-
-bility of question, that the early Buddhists cannot with
+It must be evident that it follows, without the possibility of question, that the early Buddhists cannot with
 any accuracy be described as ' monotheists,' and it is much
 to be regretted that even cultured and scholarly writers
-still speak of them as such, and can suggest that the in-
-dependent monotheism of the later Jews can be paralleled
+still speak of them as such, and can suggest that the independent monotheism of the later Jews can be paralleled
 by a supposed monotheism among the Buddhists 7 .
 
 And even if the idea of BrahmA were at all the same
@@ -10075,18 +8902,11 @@ Buddhists at least showed a contemporary monotheism.' Mr. Huth, in * life
 &c. of Buckle/ p. 238.
 
 
-INTRODUCTION.
-
-
-165
-
-
 of the noble life and noble thoughts of the Great King
 of Glory. But this was not the supreme goal of the
 Buddhist faith ; and the angel, though the same person
 as the king, from the Buddhist point of view (as resulting
-from, and carrying on, the same Karma), would be a dif-
-ferent person from the king, according to the Christian
+from, and carrying on, the same Karma), would be a different person from the king, according to the Christian
 point of view ; for there is no mention of the passage of
 a soul from the earth to heaven, no conscious identity, no
 continuing memory.
@@ -10102,8 +8922,7 @@ without careful investigation, on a resemblance — however
 close at first sight — between a passage in the Pdli Pi/akas
 and a passage in the New Testament.
 
-It is true that many passages in these two litera-
-tures can be easily shown to have a similar tendency.
+It is true that many passages in these two literatures can be easily shown to have a similar tendency.
 But when some writers on the basis of such similarities
 proceed to argue that there must have been some historical
 connection between the two, and that the New Testament,
@@ -10123,9 +8942,6 @@ the very great value and interest of the parallels which
 may be adduced from the earlier books. If we wish to
 understand what it was that gave such life and force to
 the stupendous movement which is called Buddhism, we
-
-
-TEVIGGA SUTTA,
 
 
 cannot refrain from comparing it — not only in the points
@@ -10159,8 +8975,7 @@ Chapter I.
 1. This have I heard. At one time when the
 Blessed One was journeying through Kosala with
 a great company of the brethren, with about five
-hundred brethren, he came to the Brihman vil-
-lage in Kosala which is called Mana$cLka/a. And
+hundred brethren, he came to the Brihman village in Kosala which is called Mana$cLka/a. And
 there at Manasaka/a the Blessed One stayed in the
 mango grove, on the bank of the river A^iravati, to
 the south of Manas&ka/a \
@@ -10168,17 +8983,14 @@ the south of Manas&ka/a \
 2. Now at that time many very distinguished and
 wealthy Br&hmans were staying at Manasika/a —
 to wit, A^ankl the Brahman, Tirukkha the Brihman,
-Pokkharasati the Br&hman, 6&/msso#i the Brah-
-man, Todeyya the Brihman, and other very distin-
+Pokkharasati the Br&hman, 6&/msso#i the Brahman, Todeyya the Brihman, and other very distin-
 guished and wealthy Br&hmans 2 .
 
 1 Burnouf, in a long note at 'Lotus/ &c, p. 491, already
 attempted to show that the river Akir avati is the same as the
 modern Rapti, which he supposed to be a corruption of the latter
-part of the longer name. Hiouen Thsang mentions a river A-chi-
-lo-fa-ti, which is doubtless the same. It is evidently the river on
-which stood the town of S&vatthi, and near to which lay the Geta-
-vana monastery (see ' Buddhist Birth Stories,' p. 331); and it must
+part of the longer name. Hiouen Thsang mentions a river A-chilo-fa-ti, which is doubtless the same. It is evidently the river on
+which stood the town of S&vatthi, and near to which lay the Getavana monastery (see ' Buddhist Birth Stories,' p. 331); and it must
 therefore, in accordance with Burnouf s conjecture, be the Rapti,
 which is the Sanskrit Iravati. The Phayre Burmese MS. has
 almost always A^iravati.
@@ -10221,8 +9033,7 @@ G&nussoni lived at Sdvatthi, and
 Todeyya lived at Tudigdma.
 There is some difference in the MSS. as to the spelling of these
 names : T. reads ATanki ; P. T. and D. Pokkharasdti (Sanskrit
-Paushkarasadi) ; P. Ganuyoni, T. G&nusoni, D. G&nusoni ; P. To-
-reyya, and Burnouf Nodeyya (which is possibly merely a misread-
+Paushkarasadi) ; P. Ganuyoni, T. G&nusoni, D. G&nusoni ; P. Toreyya, and Burnouf Nodeyya (which is possibly merely a misread-
 ing). Ganusoni was converted by the Bhaya-bherava Sutta ; and
 I think it very probable that the other names are also those of
 subsequent converts.
@@ -10233,8 +9044,7 @@ and fenced them in, and used to go and stay there from time to
 time to repeat their mantras.
 
 1 £rahgh£vihara#; anu^ahkamantanaw anuvi^arantanaw.
-On the first word see Gataka II, 272 (and comp. II, 240). ^Tan-
-kamati is to walk up and down thinking. I have added ' after their
+On the first word see Gataka II, 272 (and comp. II, 240). ^Tankamati is to walk up and down thinking. I have added ' after their
 bath ' from Buddhaghosa, who says that this must be understood
 to have taken place when, after learning by heart and repeating all
 day, they went down in the evening to the river-side to bathe, and
@@ -10249,9 +9059,6 @@ part of an entirely different system of thought.
 
 
 I.
-
-
-TEVIGGA SUTTA.
 
 
 'This is the straight path, this the direct way
@@ -10271,8 +9078,7 @@ young Brihman BhAradvS^a :
 clan, who left the Sakya tribe to adopt the religious
 life, is now staying at Manas&ka/a, in the mango
 grove, on the bank of the river A/§iravati, to the
-south of Manas&ka/a. Now regarding that vener-
-able Gotama, such is the high reputation that has
+south of Manas&ka/a. Now regarding that venerable Gotama, such is the high reputation that has
 been noised abroad, that he is said to be " a fully
 enlightened one, blessed and worthy, abounding in
 wisdom and goodness, happy, with knowledge of
@@ -10280,8 +9086,7 @@ the world, unsurpassed as a guide to erring mortals,
 a teacher of gods and men, a blessed Buddha 1 ."
 Come, then, Bhdradvfi^a, let us go to the place
 where the Samara Gotama is ; and when we have
-come there, let us ask the Samara Gotama touch-
-ing this matter. What the Samara Gotama shall
+come there, let us ask the Samara Gotama touching this matter. What the Samara Gotama shall
 declare unto us, that let us bear in mind/
 
 * Very well, my friend ! ' said the young Br&hman
@@ -10299,16 +9104,14 @@ where the Blessed One was.
 170 ON KNOWLEDGE OF THE VEDAS. CH-
 
 And when they had come there, they exchanged
-with the Blessed One the greetings and compli-
-ments of friendship and civility, and sat down
+with the Blessed One the greetings and compliments of friendship and civility, and sat down
 beside him.
 
 And while they were thus seated the young
 Br&hman V&seM6a said to the Blessed One :
 
 'As we, Gotama, were taking exercise and
-walking up and down, there sprung up a con-
-versation between us on which was the true path
+walking up and down, there sprung up a conversation between us on which was the true path
 and which the false. I said thus :
 
 * " This is the straight path, this the direct way
@@ -10345,17 +9148,10 @@ been announced by the Br&hman T&rukkha."
 I.
 
 
-TEVIGGA SUTTA.
-
-
-171
-
-
 ' Wherein, then, O Vise/Ma, is there a strife, a
 dispute, a difference of opinion between you 1 ?'
 
-10. 'Concerning the true path and the false, Go-
-tama. Various Brahmans, Gotama, teach various
+10. 'Concerning the true path and the false, Gotama. Various Brahmans, Gotama, teach various
 paths — the Addhariya Brahmans, the Tittiriya
 Br&hmans, the A^andoka Brihmans, the A^andava
 Br&hmans, the Brahma^ariya Brahmans 2 . Are all
@@ -10388,15 +9184,10 @@ Vase/Ma to confess still more directly the fact that the different
 theologians held inconsistent opinions.
 
 2 P. here Atthariyd, but below Addhariyd (Sans. Adhvaryu);
-D. Titittiriyd, T. Tattiriy&, P. apparently Titthiriyd (Sans. Taitti-
-riya) ; D. ^anddva, T. P. omit (? Sans. -Oandasa) ; all three MSS.
-Af^andoka (Sans, .Oandoga) ; P. Bavhadi^d here and below ^av-
-hadi^d for Brahma^ariyi (? Sans. BrahmaHri). See ' Lotus/ p. 493-
+D. Titittiriyd, T. Tattiriy&, P. apparently Titthiriyd (Sans. Taittiriya) ; D. ^anddva, T. P. omit (? Sans. -Oandasa) ; all three MSS.
+Af^andoka (Sans, .Oandoga) ; P. Bavhadi^d here and below ^avhadi^d for Brahma^ariyi (? Sans. BrahmaHri). See ' Lotus/ p. 493-
 
 s Maggani, which is noteworthy as a curious change of gender.
-
-
-172
 
 
 ON KNOWLEDGE OF THE VEDAS.
@@ -10436,8 +9227,7 @@ whose ancient form of words so chaunted, uttered,
 or composed, the Br&hmans of to-day chaunt over
 again or repeat ; intoning or reciting exactly as has
 been intoned or recited — to wit, A/Maka, V&maka,
-Vimadeva, Vess&mitta, Yamataggi, Angirasa, Bhfi-
-radvi^a, V&se/Ma, Kassapa, and Bhagu 1 — did even
+Vimadeva, Vess&mitta, Yamataggi, Angirasa, Bhfiradvi^a, V&se/Ma, Kassapa, and Bhagu 1 — did even
 they speak thus, saying : " We know it, we have
 seen it, where Brahmfi is, whence BrahmA is, whither
 Brahma is?"'
@@ -10454,12 +9244,6 @@ Brahmcl face to face. And that even the Tfoshis of
 
 
 I.
-
-
-TEVIGGA SUTTA.
-
-
-173
 
 
 old, the authors and utterers of the verses, of the
@@ -10495,8 +9279,7 @@ clinging one to the other 2 , neither can the foremost
 1 In the text §§ 12, 13 are repeated word for word.
 
 2 Andhavefli paramparazB sawsattl The Phayre MS. has
-replaced ve«i by pavewi, after the constant custom of the Bur-
-mese MSS. to improve away unusual or difficult expressions.
+replaced ve«i by pavewi, after the constant custom of the Burmese MSS. to improve away unusual or difficult expressions.
 Buddhaghosa explains andhavewi by andhapavewi, and tells
 a tale of a wicked wight, who meeting a company of blind men,
 told them of a certain village wherein plenty of good food was to
@@ -10504,9 +9287,6 @@ be had. When they besought him for hire to lead them there, he
 took the money, made one blind man catch hold of his stick, the
 next of that one, and so on, and then led them on till they came
 to a wilderness. There he deserted them, and they all — still
-
-
-174
 
 
 OX KNOWLEDGE OF THE VEDAS.
@@ -10523,8 +9303,7 @@ nor can the latest see. The talk then of these
 Brihmans versed in the Three Vedas turns out to
 be ridiculous, mere words, a vain and empty thing ! '
 
-1 6. 'Now what think you, Vdse/Ma? CantheBr&h-
-mans versed in the Three Vedas — like other, ordinary,
+1 6. 'Now what think you, Vdse/Ma? CantheBr&hmans versed in the Three Vedas — like other, ordinary,
 folk — see the sun and the moon as they pray to,
 and praise, and worship them, turning round with
 clasped hands towards the place whence they rise
@@ -10532,8 +9311,7 @@ and where they set ? '
 
 ' Certainly, Gotama, they [can] V
 
-1 7. ' Now what think you, Vksetifa. ? The Br&h-
-mans versed in the Three Vedas, who can very
+1 7. ' Now what think you, Vksetifa. ? The Br&hmans versed in the Three Vedas, who can very
 well — like other, ordinary, folk — see the sun and
 the moon as they pray to, and praise, and worship
 them, turning round with clasped hands to the place
@@ -10559,12 +9337,6 @@ that the sun and moon were Gods just as much as BrahmS,
 
 
 i.
-
-
-TEVIGGA SUTTA.
-
-
-175
 
 
 which they have seen], and you further say that
@@ -10610,9 +9382,6 @@ woman, or of the trader class, or a .Sildra ? "
 1 The text repeats at length the words of §§ 12, 13, 14.
 
 
-176
-
-
 ON KNOWLEDGE OF THE VEDAS.
 
 
@@ -10650,8 +9419,7 @@ pupils, nor of their predecessors even to the seventh
 generation has .ever seen Brahmd]. And you further
 say that even the i?/shis of old, [whose words they
 hold in such deep respect, did not pretend to know,
-or to have seen where, or whence, or whither Brah-
-m£ is. Yet these Brihmans versed in the Three
+or to have seen where, or whence, or whither Brahm£ is. Yet these Brihmans versed in the Three
 Vedas say, forsooth, that they can point out the
 way to union with that which they know not,
 neither have seen !] Now what think you, Vfise/Ma ?
@@ -10665,12 +9433,6 @@ Vedas, is foolish talk ? '
 I.
 
 
-TEVIGGA SUTTA.
-
-
-177
-
-
 the talk of the Brdhmans versed in the Three Vedas
 is foolish talk ! '
 
@@ -10681,8 +9443,7 @@ that which they do not know, neither have seen —
 such a condition of things has no existence/
 
 
-21. 1 Just, V&se/A£a, as if a man should make a stair-
-case in the place where four roads cross, to mount
+21. 1 Just, V&se/A£a, as if a man should make a staircase in the place where four roads cross, to mount
 up into a mansion. And people should say to him,
 " Well, good friend, this mansion, to mount up into
 which you are making this staircase, do you know
@@ -10715,9 +9476,6 @@ you further say that even the ^"shis of old, [whose
 [11] N
 
 
-178
-
-
 ON KNOWLEDGE OF THE VEDAS.
 
 
@@ -10745,8 +9503,7 @@ that which they do not know, neither have seen —
 such condition of things has no existence/
 
 24. 'Again, V£se//^a, if this river A&ravati
-were full of water even to the brim, and over-
-flowing 1 . And a man with business on the other
+were full of water even to the brim, and overflowing 1 . And a man with business on the other
 
 1 Samatittika k&kapeyy&, a stock phrase used of a river in
 flood time. Buddhaghosa says, Samatittika* ti samaharita*
@@ -10768,12 +9525,6 @@ When talking of rivers the mention of titthas seems so appro-
 I.
 
 
-TEVIGGA SUTTA.
-
-
-179
-
-
 side, bound for the other side, should come up, and
 want to cross over. And he, standing on this bank,
 should invoke the further bank, and say, " Come
@@ -10785,8 +9536,7 @@ Burmese MSS. spell this word with tth (which is by no means
 certain), very little reliance should be placed upon the fact. On
 the other hand, the distinction in Sinhalese between tt and tth is
 very marked and d(3), and the Sinhalese MSS. all read tt.
-I think therefore that Childers was right in finally adopting sama-
-tittika as the correct Pali form. In the numerous words in
+I think therefore that Childers was right in finally adopting samatittika as the correct Pali form. In the numerous words in
 which Buddhist Sanskrit has a form differing in a way which sets
 philological rules at defiance from the corresponding Pali form,
 Childers thought (see Diet. p. xi, where the list of words might be
@@ -10810,8 +9560,7 @@ spoken of a river? Comp. Samatittikaw* bh\i%g&m\ (Mil. 213,
 and Samatittiko telapatto (ibid. 393, text c iyo, but see p. 400).
 The root perhaps is trip.
 
-Kikapeyya, according to Buddhaghosa, would mean 'crow-
-drinkable/ Crows do not drink on the wing ; and they could stand
+Kikapeyya, according to Buddhaghosa, would mean 'crowdrinkable/ Crows do not drink on the wing ; and they could stand
 to drink either when a river actually overflowed its banks and
 formed shallows on the adjoining land ; or when in the hot season
 it had formed shallows in its own bed. ' Crow-drinkable ' might
@@ -10844,8 +9593,7 @@ that those Br&hmans versed in the Three Vedas,
 but omitting the practice of those qualities which
 really make a man a Brdhman, and adopting the
 practice of those qualities which really make men
-not Br&hmans — that they, by reason of their in-
-voking and praying and hoping and praising, should,
+not Br&hmans — that they, by reason of their invoking and praying and hoping and praising, should,
 after death and when the body is dissolved, become
 united with BrahmA — verily such a condition of
 things has no existence!'
@@ -10878,8 +9626,7 @@ Discipline of the Noble One a " chain" and a a
 
 'What are the five?'
 
-' Forms perceptible to the eye ; desirable, agree-
-able, pleasant, attractive forms, that are accom-
+' Forms perceptible to the eye ; desirable, agreeable, pleasant, attractive forms, that are accom-
 panied by lust and cause delight. Sounds of the
 same kind perceptible to the ear. Odours of the
 same kind perceptible to the nose. Tastes of the
@@ -10895,8 +9642,7 @@ not how unreliable they are, and so enjoy them.
 
 28. ' And verily, Vdse//^a, that Brahmans versed
 in the Three Vedas, but omitting the practice of
-those qualities which really make a man a Br&h-
-man, and adopting the practice of those qualities
+those qualities which really make a man a Br&hman, and adopting the practice of those qualities
 which really make men non-Brclhmans — clinging to
 these five things predisposing to passion, infatuated
 by them, guilty of them, seeing not their danger,
@@ -10904,9 +9650,6 @@ knowing not their unreliability, and so enjoying
 them — that these Brahmans should after death, on
 the dissolution of the body, become united to Brahm&
 — such a condition of things has no existence/
-
-
-182
 
 
 ON KNOWLEDGE OF THE VEDAS.
@@ -10930,8 +9673,7 @@ A^iravati to the further bank ? '
 
 30. 'And in the same way, Vise//^a, there are
 these five hindrances, in the Discipline of the Noble
-One, which are called " veils 1 " and are called " hin-
-drances 2 ," arid are called " obstacles 3 ," and are callecL
+One, which are called " veils 1 " and are called " hindrances 2 ," arid are called " obstacles 3 ," and are callecL
 " entanglements 4 ."
 
 ' Which are the five ? '
@@ -10965,12 +9707,6 @@ the text, and explains it by par iy onaha.
 I.
 
 
-TEVIGGA SUTTA.
-
-
-183
-
-
 in the Three Vedas, but omitting the practice of
 those qualities which really make a man a Brdhman,
 and adopting the practice of those qualities which
@@ -10981,8 +9717,7 @@ dissolution of the body, become united to Brahma —
 such a condition of things has no existence/
 
 33. ' Now what think you, VAse//^a 3 and what
-have you heard from the Brahmans aged and well-
-stricken in years, when the learners and teachers
+have you heard from the Brahmans aged and wellstricken in years, when the learners and teachers
 are talking together ? Is BrahmS. in possession of
 wives and wealth, or is he not 1 ? '
 
@@ -11004,8 +9739,7 @@ wives and wealth, or is he not 1 ? '
 34. 1 Now what think you, V£se#/fca, are the
 
 1 Sapariggaho v& Brahm& apariggaho v£ ti. Buddhaghosa
-says on Vase/Ma's reply, ' Kdma^^andassa abh&vato itthi-
-pariggaheno apariggaho/ thus restricting the 'possession* to
+says on Vase/Ma's reply, ' Kdma^^andassa abh&vato itthipariggaheno apariggaho/ thus restricting the 'possession* to
 women, with especial reference to the first ' hindrance ; ' but the
 word in the text, though doubtless alluding to possession of women
 in particular, includes more. Compare, on the general idea of the
@@ -11014,8 +9748,7 @@ passage, the English expression ' no encumbrances/
 2 Asahkili/Ma-£itto. That is, says Buddhaghosa, 'free from
 mental sloth and idleness, self-righteousness, and pride/
 
-8 Vasavattt va avasavatti vL Buddhaghosa says, in expla-
-nation of the answer : ' By the absence of doubt he has his mind
+8 Vasavattt va avasavatti vL Buddhaghosa says, in explanation of the answer : ' By the absence of doubt he has his mind
 under control* (vase vatteti).
 
 
@@ -11040,25 +9773,21 @@ wives and wealth, or are they not ? '
 35. 'Then you say, Vase//^a, that the Brfihmans are
 in possession of wives and wealth, and that Brahm&
 is not. Can there, then, be agreement and likeness
-between the Brahmans with their wives and pro-
-perty, and BrahmcL, who has none of these things ? '
+between the Brahmans with their wives and property, and BrahmcL, who has none of these things ? '
 
 ' Certainly not, Gotama ! '
 
 36. 'Very good, V4se//^a. But, verily, that these
 Brahmans versed in the Vedas, who live married
-and wealthy should after death, when the body is dis-
-solved, become united with BrahmS, who has none
+and wealthy should after death, when the body is dissolved, become united with BrahmS, who has none
 of these things — such a condition of things has no
 existence/
 
 
-37. 'Then you say, too, VAse//^a, that the Br&h-
-mans bear anger and malice in their hearts, and are
+37. 'Then you say, too, VAse//^a, that the Br&hmans bear anger and malice in their hearts, and are
 sinful and uncontrolled, whilst Brahma is free from
 anger and malice, and sinless, and has self-mastery.
-Now can there, then, be concord and likeness be-
-tween the Br&hmans and Brahmi ? '
+Now can there, then, be concord and likeness between the Br&hmans and Brahmi ? '
 
 ' Certainly not, Gotama ! '
 
@@ -11068,12 +9797,6 @@ malice in their hearts, sinful, and uncontrolled,
 
 
 I.
-
-
-TEVIGGA SUTTA.
-
-
-185
 
 
 should after death, when the body is dissolved,
@@ -11096,15 +9819,13 @@ pathless jungle, their threefold wisdom is called
 destruction ! '
 
 
-40. When he had thus spoken, the young Brdh-
-man Vase//^a said to the Blessed One :
+40. When he had thus spoken, the young Brdhman Vase//^a said to the Blessed One :
 
 * It has been told me, Gotama, that the Samara
 Gotama knows the way to the state of union with
 Brahma.
 
-41. ' What do you think, Vdse//^a, is not Manasi-
-ka/a near to this spot, not distant from this spot ? 9
+41. ' What do you think, Vdse//^a, is not Manasika/a near to this spot, not distant from this spot ? 9
 
 c Just so, Gotama. Manasdka/a is near to, is not
 far from here/
@@ -11113,8 +9834,7 @@ far from here/
 were a man born in Manas&ka/a, and people should
 
 1 Asiditva sa/rcsidanti. I have no doubt the commentator
-is right in his explanation of these figurative expressions. Confi-
-dent in their knowledge of the Vedas, and in their practice of Vedic
+is right in his explanation of these figurative expressions. Confident in their knowledge of the Vedas, and in their practice of Vedic
 ceremonies, they neglect higher things ; and so, sinking into sin and
 superstition, ' they are arriving only at despair, thinking the while
 that they are crossing over into some happier land.'
@@ -11155,8 +9875,7 @@ be pleased to show us the way to a state of union
 with Brahmi, let the venerable Gotama save the
 Brahman race ! '
 
-45. ' Listen then, V£se/Ma, and give ear atten-
-tively, and I will speak ! '
+45. ' Listen then, V£se/Ma, and give ear attentively, and I will speak ! '
 
 'So be it, Lord!' said the young Br&hman
 V&se#/£a, in assent, to the Blessed One.
@@ -11172,22 +9891,16 @@ V&se#/£a, in assent, to the Blessed One.
 I.
 
 
-TEVIGGA SUTTA.
-
-
 I8 7
 
 
-Tathdgata is born into the world, a fully Enlight-
-ened One, blessed and worthy, abounding in wisdom
+Tathdgata is born into the world, a fully Enlightened One, blessed and worthy, abounding in wisdom
 and goodness, happy, with knowledge of the world,
 unsurpassed as a guide to erring mortals, a teacher
-of gods and men, a Blessed Buddha 1 . He, by him-
-self, thoroughly understands, and sees, as it were,
+of gods and men, a Blessed Buddha 1 . He, by himself, thoroughly understands, and sees, as it were,
 face to face this universe — the world below with all
 its spirits, and the worlds above, of M4ra and of
-Brahma — and all creatures, Samaras and Brah-
-mans, gods and men, and he then makes his
+Brahma — and all creatures, Samaras and Brahmans, gods and men, and he then makes his
 knowledge known to others. The truth doth he
 proclaim both in its letter and in its spirit, lovely
 in its origin, lovely in its progress, lovely in its
@@ -11202,8 +9915,7 @@ that faith he thus considers with himself:
 
 ' " Full of hindrances is household life, a path
 defiled by passion : free as the air is the life of
-him who has renounced all worldly things. How-
-difficult is it for the man who dwells at home to live
+him who has renounced all worldly things. Howdifficult is it for the man who dwells at home to live
 the higher life in all its fulness, in all its purity,
 in all its bright perfection! Let me then cut off
 my hair and beard, let me clothe myself in the
@@ -11243,8 +9955,7 @@ he sustains his life by means that are quite pure;
 good is his conduct, guarded the door of his senses ;
 mindful and self-possessed, he is altogether happy 1 !'
 
-1 The argument is resumed after the Three Silas, or Descrip-
-tions of Conduct — a text, doubtless older than the Suttas in which
+1 The argument is resumed after the Three Silas, or Descriptions of Conduct — a text, doubtless older than the Suttas in which
 it occurs, setting forth the distinguishing moral characteristics of
 a member of the Order.
 
@@ -11265,9 +9976,6 @@ and beliefs.
 II.
 
 
-TEVIGGA SUTTA.
-
-
 Chapter II.
 The Short Paragraphs on Conduct.
 
@@ -11277,8 +9985,7 @@ THE ZtfLA SlLA^ 1 .
 
 1. ' Now wherein, Vase//^a, is his conduct good ?'
 
-' Herein, O V£se/Ma, that putting away the mur-
-der of that which lives, he abstains from destroying
+' Herein, O V£se/Ma, that putting away the murder of that which lives, he abstains from destroying
 life. The cudgel and the sword he lays aside ; and,
 full of modesty and pity, he is compassionate and
 kind to all creatures that have life !
@@ -11287,8 +9994,7 @@ kind to all creatures that have life !
 
 2. ' Putting away the theft of that which is not
 his, he abstains from taking anything not given.
-He takes only what is given, therewith is he con-
-tent, and he passes his life in honesty and in purity
+He takes only what is given, therewith is he content, and he passes his life in honesty and in purity
 of heart !
 
 ' This, too, is the kind of goodness that he has.
@@ -11297,11 +10003,9 @@ of heart !
 chastity and purity, averse to the low habit of
 sexual intercourse.
 
-' This, too, (&c, see § II, 2.) 2
 
 1 There is no division into actual chapters in the original, but it
-is convenient to arrange the following enumeration of moral pre-
-cepts separately, as they occur in various suttas in the same order;
+is convenient to arrange the following enumeration of moral precepts separately, as they occur in various suttas in the same order;
 and are always divided into the three divisions of Lower, Medium,
 and Higher Morality.
 
@@ -11317,19 +10021,15 @@ falsehood; He speaks truth, from the truth he
 never swerves ; faithful and trustworthy, he injures
 not his fellow man by deceit.
 
-' This, too, (&c, see § II, 2.)
 
-5. ' Putting away slander, he abstains from ca-
-lumny. What he hears here he repeats not else-
+5. ' Putting away slander, he abstains from calumny. What he hears here he repeats not else-
 where to raise a quarrel against the people here:
 what he hears elsewhere he repeats not here to
 raise a quarrel against the people there. Thus he
 lives as a binder together of those who are divided,
-an encourager of those who are friends, a peace-
-maker, a lover of peace, impassioned for peace, a
+an encourager of those who are friends, a peacemaker, a lover of peace, impassioned for peace, a
 speaker of words that make for peace.
 
-'This, too, (&c, see § II, 2.)
 
 6. ' Putting away bitterness of speech, he abstains
 from harsh language. Whatever word is humane,
@@ -11337,30 +10037,22 @@ pleasant to the ear, lovely, reaching to the heart,
 urbane, pleasing to the people, beloved of the
 people — such are the words he speaks.
 
-'This, too, (&c, see § II, 2.)
 
 7. ' Putting away foolish talk, he abstains from
 vain conversation. In season he speaks ; he speaks
-that which is ; he speaks fact ; he utters good doc-
-trine ; he utters good discipline; he speaks, and at the
-right time, that which redounds to profit, is well-
-grounded, is well-defined, and is full of wisdom.
+that which is ; he speaks fact ; he utters good doctrine ; he utters good discipline; he speaks, and at the
+right time, that which redounds to profit, is wellgrounded, is well-defined, and is full of wisdom.
 
-'This, too, (&c, see § II, 2.)
 
 8. ' He refrains from injuring any herb or any
 creature. He takes but one meal a day ; abstaining
 
 in the different suttas in which this enumeration of Buddhist
 morality is found, is distinct from the enumeration itself, and, like
-the opening reference to V£se//£a, characteristic only of the par-
-ticular Sutta.
+the opening reference to V£se//£a, characteristic only of the particular Sutta.
 
 
 II.
-
-
-TEVIGGA SUTTA.
 
 
 IQI
@@ -11371,11 +10063,9 @@ abstains from dancing, singing, music, and theatrical
 shows. He abstains from wearing, using, or adorning
 himself with garlands, and scents, and unguents, and
 he abstains from lofty couches and large beds.
-1 This, too, (&c, see § II, 2.)
 
 9. ' He abstains from the getting of silver or
-gold. He abstains from the getting of grain un-
-cooked. He abstains from the getting of flesh that
+gold. He abstains from the getting of grain uncooked. He abstains from the getting of flesh that
 is raw. He abstains from the getting of any woman
 or girl. He abstains from the getting of bondmen
 or bondwomen. He abstains from the getting of
@@ -11384,28 +10074,19 @@ fowls or swine. He abstains from the getting of
 elephants, cattle, horses, and mares. He abstains
 from the getting of fields or lands.
 
-'This, too, (&c, see § II, 2.)
 
-10. ' He refrains from carrying out those com-
-missions on which messengers can be sent. He
+10. ' He refrains from carrying out those commissions on which messengers can be sent. He
 refrains from buying and selling. He abstains from
 tricks with false weights, alloyed metals, or false
 measures. He abstains from bribery, cheating,
 fraud, and crooked ways.
 
-'This, too, (&c, see § II, 2.)
 
-11. 'He refrains from maiming, killing, im-
-prisoning, highway robbery, plundering villages, or
+11. 'He refrains from maiming, killing, imprisoning, highway robbery, plundering villages, or
 obtaining money by threats of violence.
-
-' This, too, (&c, see § II, 2.) 9
 
 
 End of the Short Paragraphs on Conduct.
-
-
-192
 
 
 ON KNOWLEDGE OF THE VEDAS.
@@ -11429,7 +10110,6 @@ the germs arising from buds, or the germs arising
 from seeds. He, on the other hand, refrains from
 injuring such plants or animals.
 
-' This, too, (&c, see § II, 2.)
 
 2. ' Or whereas some Sama^a-Brihmans, who
 live on the food provided by the faithful, continue
@@ -11438,13 +10118,11 @@ drink, clothes, equipages, beds, perfumes, and grain.
 He, on the other hand, refrains from storing up
 such property.
 
-' This, too, (&c, see § II, 2.)
 
 3. ' Or whereas some Samara- Br&hmans, who
 live on the food provided by the faithful, continue
 addicted to witnessing public spectacles : that is to
-say, dancing, singing, concerts, theatrical representa-
-tions, recitations, instrumental music, funeral cere-
+say, dancing, singing, concerts, theatrical representations, recitations, instrumental music, funeral cere-
 monies, drummings, balls, gymnastics, tumblings,
 feasts in honour of the dead, combats between
 elephants, horses, buffaloes, bulls, goats, rams, cocks,
@@ -11456,23 +10134,12 @@ the other hand, refrains from such public spectacles.
 II*
 
 
-TEVIGGA SUTTA.
-
-
-193
-
-
-' This, too, (&c, see § II, 2.)
-
 4* 1 Or whereas some Sama#a-Brihmans, who
 live on the food provided by the faithful, continue
-addicted to occupying their time with games detri-
-mental to their progress in virtue : that is to say,
-with a board of sixty-four squares, or of one hun-
-dred squares; tossing up; hopping over diagrams
+addicted to occupying their time with games detrimental to their progress in virtue : that is to say,
+with a board of sixty-four squares, or of one hundred squares; tossing up; hopping over diagrams
 formed on the ground ; removing substances from a
-heap without shaking the remainder ; dicing ; trap-
-ball ; sketching rude figures ; tossing balls ; blowing
+heap without shaking the remainder ; dicing ; trapball ; sketching rude figures ; tossing balls ; blowing
 trumpets ; ploughing matches ; tumbling ; forming
 mimic windmills ; guessing at measures ; chariot
 races ; archery ; shooting marbles from the fingers ;
@@ -11491,19 +10158,13 @@ long fleece ; embroidered counterpanes ; woollen
 coverlets, plain or worked with thick flowers ; cotton
 coverlets, worked with knots, or dyed with figures
 of animals ; fleecy carpets ; carpets inwrought with
-gold or with silk ; far-spreading carpets ; rich ele-
-phant housings, trappings, or harness ; rugs for
+gold or with silk ; far-spreading carpets ; rich elephant housings, trappings, or harness ; rugs for
 chariots ; skins of the tiger or antelope ; and pillows
-or cushions ornamented with gold lace or embroi-
-dery. He, on the other hand, refrains from the use
+or cushions ornamented with gold lace or embroidery. He, on the other hand, refrains from the use
 of such elevated or ornamented couches or things
 to recline upon.
 
-4 This, too, (&c, see § II, 2.)
 [11] o
-
-
-194
 
 
 ON KNOWLEDGE OF THE VEDAS.
@@ -11516,24 +10177,20 @@ CH.
 live on the food provided by the faithful, continue
 addicted to the use of articles for the adornment
 of their persons : that is to say, unguents ; fragrant
-oils ; perfumed baths ; shampooings ; mirrors ; anti-
-mony for the eyebrows and eyelashes ; flowers ;
-cosmetics ; dentifrices ; bracelets ; diadems ; hand-
-some walking-sticks; tiaras; swords; umbrellas;
+oils ; perfumed baths ; shampooings ; mirrors ; antimony for the eyebrows and eyelashes ; flowers ;
+cosmetics ; dentifrices ; bracelets ; diadems ; handsome walking-sticks; tiaras; swords; umbrellas;
 embroidered slippers; fillets; jewelry; fans of the
 buffalo tail ; and long white garments. He, on the
 other hand, refrains from the use of such articles for
 the adornment of the person.
 
-'This, too, (&c, see § II, 2.)
 
 7. ' Or whereas some Sama#a-Brahmans, who
 live on the food provided by the faithful, continue
 addicted to mean talk : that is to say, tales of kings,
 of robbers, or of ministers of state ; tales of arms,
 of war, of terror; conversation respecting meats,
-drinks, clothes, couches, garlands, perfumes, relation-
-ships, equipages, streets, villages, towns, cities, pro-
+drinks, clothes, couches, garlands, perfumes, relationships, equipages, streets, villages, towns, cities, pro-
 vinces, women, warriors, demigods; fortune- telling ;
 hidden treasures in jars; ghost stories ; empty tales;
 disasters by sea ; accidents on shore ; things which
@@ -11555,9 +10212,6 @@ yours is worthless ! " " That which you should speak
 II.
 
 
-TEVIGGA SUTTA.
-
-
 *95
 
 
@@ -11568,12 +10222,10 @@ made quite plain ! " " You are disgraced ! " " Go
 away and escape from this disputation ; or if not,
 extricate yourself from your difficulties ! " He, on
 the other hand, refrains from such wrangling,
-' This, too, (&c, see § II, 2.)
 
 9. ' Or whereas some Sama#a-Br£hmans, who
 live on the food provided by the faithful, continue
-addicted to performing the servile duties of a go-
-between : that is to say, between kings, ministers of
+addicted to performing the servile duties of a gobetween : that is to say, between kings, ministers of
 state, soldiers, Br&hmans, people of property, or
 young men, who say, " Come here ! " " Go there ! "
 
@@ -11581,7 +10233,6 @@ Take this to such a place ! " " Bring that here ! "
 But he refrains from such servile duties of a
 messenger.
 
-' This, too, (&c, see § II, 2.)
 
 10. ' Or whereas some Sama^a-Brihmans, who
 live on the food provided by the faithful, continue
@@ -11597,9 +10248,6 @@ End of the Middle Paragraphs on Conduct.
 
 
 o 2
-
-
-196
 
 
 ON KNOWLEDGE OF THE VEDAS.
@@ -11618,8 +10266,7 @@ THE MAHA StLAJJ/.
 live on the food provided by the faithful, continue
 to gain a livelihood by such low arts, by such lying
 practices as these : that is to say, by divination from
-marks on the body ; by auguries ; by the interpreta-
-tion of prognostics, of dreams, and of omens, good or
+marks on the body ; by auguries ; by the interpretation of prognostics, of dreams, and of omens, good or
 bad ; by divinations from the manner in which cloth
 and other such things have been bitten by rats ; by
 sacrifices to the god of fire, offerings of Dabba
@@ -11634,8 +10281,7 @@ serve as antidotes for poison, and to cure bites of
 scorpions or rats; by divination, by the flight of
 hawks, or by the croaking of ravens ; by guessing
 at length of life ; by teaching spells to ward off
-wounds ; and by pretended knowledge of the lan-
-guage of beasts. —
+wounds ; and by pretended knowledge of the language of beasts. —
 
 'He, on the other hand, refrains from seeking a
 livelihood by such low arts, by such lying practices.
@@ -11647,12 +10293,6 @@ to gain a livelihood by such low arts, by such lying
 
 
 ir.
-
-
-TEVIGGA SUTTA.
-
-
-197
 
 
 practices as these : that is to say, by explaining the
@@ -11679,8 +10319,7 @@ the city will attack." "The king outside the city
 will retreat." " The king within the city will gain
 the victory." " The king outside the city will be
 defeated." " The king outside the city will be the
-conqueror." " The king inside the city will be van-
-quished." Thus prophesying to this one victory and
+conqueror." " The king inside the city will be vanquished." Thus prophesying to this one victory and
 to that one defeat. —
 
 4 He, on the other hand, refrains from seeking a
@@ -11703,8 +10342,7 @@ I98 ON KNOWLEDGE OF THE VEDAS. CH.
 
 opposition." 44 The planets will be in conjunction."
 " The planets will be in opposition." " There will be
-falling meteors, and fiery coruscations in the atmo-
-sphere." " There will be earthquakes, thunderbolts,
+falling meteors, and fiery coruscations in the atmosphere." " There will be earthquakes, thunderbolts,
 and forked lightnings." " The rising and setting of
 the sun, moon, or planets will be cloudy or clear."
 And then : " The eclipse of the moon will have such
@@ -11718,8 +10356,7 @@ in opposition will have such and such a result"
 such a result." 44 The planets being in opposition
 will have such and such a result." " The falling
 meteors and fiery coruscations in the atmosphere
-will have such and such a result." 44 The earth-
-quakes, thunderbolts, and forked lightnings will
+will have such and such a result." 44 The earthquakes, thunderbolts, and forked lightnings will
 have such and such a result." 44 The rising and
 setting of the sun, moon, or planets, cloudy or clear,
 will have such and such a result."
@@ -11744,19 +10381,12 @@ season will be sickly." 44 The season will be healthy."
 II.
 
 
-TEVIGGA SUTTA.
-
-
-199
-
-
 Or by drawing deeds, making up accounts,
 giving pills, making verses, or arguing points of
 casuistry. —
 
 * He, on the other hand, refrains from seeking a
 livelihood by such low arts, by such lying practices.
-' This, too, (&c, see § II, 2.)
 
 6. ' Or whereas some Sama^a-Brahmans, who
 live on the food provided by the faithful, continue
@@ -11776,7 +10406,6 @@ hands on people's heads. —
 
 4 He, on the other hand, refrains from seeking a
 livelihood by such low arts, by such lying practices.
-' This, too, (&c, see § II, 2.)
 
 7. ' Or whereas some Sama#a-Br&hmans, who
 live on the food provided by the faithful, continue
@@ -11797,8 +10426,7 @@ fire. By prescribing medicines to produce vomiting
 or purging, or to remove obstructions in the higher
 or lower intestines, or to relieve head-ache. By
 preparing oils for the ear, collyriums, catholicons,
-antimony, and cooling drinks. By practising cau-
-tery, midwifery, or the use of root decoctions or
+antimony, and cooling drinks. By practising cautery, midwifery, or the use of root decoctions or
 salves. —
 
 6 He, on the other hand, refrains from seeking a
@@ -11812,9 +10440,6 @@ End of the Long Paragraphs on Conduct.
 ni.
 
 
-TEVIGGA SUTTA.
-
-
 20 1
 
 
@@ -11823,8 +10448,7 @@ Chapter III.
 1. 11 And he lets his mind pervade one quarter of
 the world with thoughts of Love, and so the second,
 and so the third, and so the fourth. And thus the
-whole wide world, above, below, around, and every-
-where, does he continue to pervade with heart of
+whole wide world, above, below, around, and everywhere, does he continue to pervade with heart of
 Love, far-reaching, grown great, and beyond measure.
 
 2. ' Just, V£se#>fca, as a mighty trumpeter makes
@@ -11838,13 +10462,11 @@ free, and deep-felt love.
 union with Brahma.
 
 3. * And he lets his mind pervade one quarter of
-the world with thoughts of pity, sympathy, and equa-
-nimity, and so the second, and so the third, and so
+the world with thoughts of pity, sympathy, and equanimity, and so the second, and so the third, and so
 the fourth. And thus the whole wide world,
 above, below, around, and everywhere, does he
 continue to pervade with heart of pity, sympathy,
-and equanimity, far-reaching, grown great, and be-
-yond measure.
+and equanimity, far-reaching, grown great, and beyond measure.
 
 4. * Just, Vdse/Ma, as a mighty trumpeter makes
 himself heard — and that without difficulty — in all
@@ -11855,8 +10477,7 @@ Mah&-Sudassana Sutta II, 8. It will be seen from 'Buddhism/
 pp. 170, 171, that these meditations play a great part in later
 Buddhism, and occupy very much the place that prayer takes in
 Christianity. A fifth, the meditation on Impurity, has been added,
-at what time I do not know, before the last. All five are prac-
-tised in Siam (Alabaster, ' Wheel of the Law,' p. 168).
+at what time I do not know, before the last. All five are practised in Siam (Alabaster, ' Wheel of the Law,' p. 168).
 
 
 202 ON KNOWLEDGE OF THE VEDAS. CH.
@@ -11909,17 +10530,10 @@ is free from anger, and free from malice, pure in
 mind, and master of himself; and that Brahmi is
 
 
-1 Or 4 Member of our Order/ See the note on MaMparinib-
-bana Sutta I, 6.
+1 Or 4 Member of our Order/ See the note on MaMparinibbana Sutta I, 6.
 
 
 III.
-
-
-TEVIGGA SUTTA.
-
-
-203
 
 
 free from anger, and free from malice, pure in mind,
@@ -11958,8 +10572,6 @@ o
 AK AN K H EY YA-S UTTA.
 
 
-INTRODUCTION
-
 TO THE
 
 Akankheyya sutta.
@@ -11968,36 +10580,27 @@ Akankheyya sutta.
 Just as the Tevi^fa Sutta is an argumentum ad
 hominem to the man wise in the Vedas, and seeking
 through that knowledge for union with the Deity, urging
-him to adopt rather the Buddhist method of a life of right-
-eousness here on earth ; so the present Sutta is a similar
+him to adopt rather the Buddhist method of a life of righteousness here on earth ; so the present Sutta is a similar
 argument addressed to the seeker after the various things
 specified in its different sections. If he should desire any
 of these things then let him live the life of uprightness
-as set out in the opening section, and cultivate the intel-
-ligent earnestness and spiritual insight described in the
+as set out in the opening section, and cultivate the intelligent earnestness and spiritual insight described in the
 refrain.
 
-The two combined amount, as would naturally be ex-
-pected, to the Nirvi/za of a perfect life in Arahatship —
+The two combined amount, as would naturally be expected, to the Nirvi/za of a perfect life in Arahatship —
 the supreme goal not only of every good Buddhist, but
 of every good Buddhist argument. As applied in the
-earlier sections it is only a re-statement of a familiar doc-
-trine ; as applied in the later sections it has the additional
+earlier sections it is only a re-statement of a familiar doctrine ; as applied in the later sections it has the additional
 interest of showing us the answer of early Buddhism to
 the mystics, as the Tevi^a shows us its answer to
 the theologians. And in the answer we find the details
-of some curious beliefs which existed in India when Bud-
-dhism arose, and which in after times, and especially in
+of some curious beliefs which existed in India when Buddhism arose, and which in after times, and especially in
 the northern church, had so disastrous an effect upon it.
 
 With regard to the reality of these mystical powers
 our Sutta gives an uncertain sound ; leaving, however, an
 impression rather in its favour. The argument is equally
-good either way, but the author of the Sutta is so en-
-grossed with Arahatship that he does not stay to say
-
-
-208
+good either way, but the author of the Sutta is so engrossed with Arahatship that he does not stay to say
 
 
 IF HE SHOULD DESIRE .
@@ -12017,16 +10620,14 @@ attached to them a practical importance. There is a useful
 analogy between the expressions used in i Samuel xxviii,
 and those in the latter part of our Suttas ; and between
 the general position of witchcraft in the history of
-Christianity, and of these beliefs in the history of Bud-
-dhism ; but it would take too long to carry out the com-
+Christianity, and of these beliefs in the history of Buddhism ; but it would take too long to carry out the com-
 parison and contrast in detail here, and with due regard
 to the necessary limitations under which the comparison
 should be made. The analogy only reaches to their
 history, and to their relative importance in the religious
 systems with which they were connected ; the two sets
 of belief themselves are fundamentally different, the Indian
-beliefs being much more nearly allied to modern spiritual-
-ism and mesmerism.
+beliefs being much more nearly allied to modern spiritualism and mesmerism.
 
 We have a curious instance of the way in which such
 legends grow in a parallel passage of the earlier and
@@ -12046,12 +10647,6 @@ simplicity of this account is improved away by saying that
 1 I, I, 2-6.
 
 2 Gdtaka I, 75, translated in « Buddhist Birth Stories,* p. 102.
-
-
-INTRODUCTION.
-
-
-209
 
 
 in the first watch he acquired the knowledge of Past Births
@@ -12075,8 +10670,7 @@ acquired these particular powers. It is clear that even in
 the time when the Pi/akas were put into their present form
 it was considered that the Buddha had acquired them 2 ,
 and that they could be acquired by less exalted persons 3 .
-In the later literature several instances are given of par-
-ticular persons who possessed one or other of them in a
+In the later literature several instances are given of particular persons who possessed one or other of them in a
 greater or less degree ; but it is instructive to notice that
 these are always persons who lived long before the time
 of the writer who records the instances.
@@ -12120,8 +10714,7 @@ yourselves according to the Precepts 4 , taking them
 upon you in the sense of the danger in the least
 offence.
 
-3. * If a Bhikkhu should desire, Brethren, to be-
-come beloved, popular, respected among his fellow-
+3. * If a Bhikkhu should desire, Brethren, to become beloved, popular, respected among his fellow-
 disciples, let him then fulfil all righteousness, let
 him be devoted to that quietude of heart which
 springs from within 6 , let him not drive back the
@@ -12132,8 +10725,7 @@ things 7 , let him be much alone ! '
 
 8 AMrago^arl Comp. Tevi^g-a Sutta I, 49.
 
-4 Sikkh&padesu. The Buddhist Decalogue (given in 'Bud-
-dhism/ p. 160).
+4 Sikkh&padesu. The Buddhist Decalogue (given in 'Buddhism/ p. 160).
 
 5 Agghattam keto samatha/w. 6 Gh&nz.
 
@@ -12141,9 +10733,6 @@ dhism/ p. 160).
 
 
 Akankheyya sutta.
-
-
-211
 
 
 4. * If a Bhikkhu should desire, Brethren, to receive
@@ -12169,16 +10758,13 @@ alone ! 9
 those relatives of his, of one blood with him, dead
 and gone, who think of him with believing heart
 should find therein great fruit and great advantage \
-let him then fulfil all righteousness, let him be de-
-voted to that quietude of heart which springs from
-within, let him not drive back the ecstasy of con-
-templation, let him look through things, let him be
+let him then fulfil all righteousness, let him be devoted to that quietude of heart which springs from
+within, let him not drive back the ecstasy of contemplation, let him look through things, let him be
 much alone ! '
 
 7. * If a Bhikkhu should desire, Brethren, that he
 
-(note 5), of insight into objective phenomena. These three quali-
-ties are constantly referred to as parts of Arahatship. The Rev.
+(note 5), of insight into objective phenomena. These three qualities are constantly referred to as parts of Arahatship. The Rev.
 David da Silva makes vipassand identical with the sevenfold
 perception (sa##&, mentioned as conditions of the welfare of a
 community in the Book of the Great Decease, Chap. I, § 10).
@@ -12188,9 +10774,6 @@ or the Order with believing heart can reap spiritual advantage.
 Compare the Dhammapada commentary, p. 97.
 
 P 2
-
-
-212
 
 
 IF HE SHOULD DESIRE — .
@@ -12233,14 +10816,10 @@ deliverance which are incorporeal, and pass beyond
 duties of a Samawa, discontent with the restrictions of the Order.
 
 2 The bliss here referred to, and described in detail below,
-Maha-Sudassana Sutta, Chap. Ill, is the 'ecstasy of contem-
-plation ' referred to in the refrain.
+Maha-Sudassana Sutta, Chap. Ill, is the 'ecstasy of contemplation ' referred to in the refrain.
 
 
 Akankheyya sutta.
-
-
-213
 
 
 phenomena \ let him then fulfil all righteousness, let
@@ -12252,8 +10831,7 @@ things, let him be much alone ! '
 11. * If a Bhikkhu should desire, Brethren, by the
 complete destruction of the three Bonds to become
 converted, to be no longer liable to be reborn in
-a state of suffering, and to be assured of final salva-
-tion 2 , let him then fulfil all righteousness, let him
+a state of suffering, and to be assured of final salvation 2 , let him then fulfil all righteousness, let him
 be devoted to that quietude of heart which springs
 from within, let him not drive back the ecstasy of
 contemplation, let him look through things, let him
@@ -12277,16 +10855,12 @@ highest heavens 3 , there to pass entirely away, thence
 1 These are the eight Vimokkhd, a list of which occurs in
 the Great Decease, Chap. Ill, §§ 33-42.
 
-2 On this and the two following sections compare Mah£pari-
-nibbana Sutta II, 7, and on the Bonds or Fetters below, p. 222.
+2 On this and the two following sections compare Mah£parinibbana Sutta II, 7, and on the Bonds or Fetters below, p. 222.
 
 3 Opapatika. This is another of those words which, from
 their connoting Buddhist ideas unknown in Europe, are really
 untranslatable. It means a being who springs into existence
 without the intervention of parents, and therefore, as it were,
-
-
-214
 
 
 IF HE SHOULD DESIRE — .
@@ -12301,8 +10875,7 @@ things, let him be much alone ! *
 14. 1 * If a Bhikkhu should desire, Brethren, to
 exercise one by one each of the different Iddhis,
 being one to become multiform, being multiform to
-become one; to become visible, or to become in-
-visible ; to go without being stopped to the further
+become one; to become visible, or to become invisible ; to go without being stopped to the further
 side of a wall, or a fence, or a mountain, as if
 through air ; to penetrate up and down through
 solid ground, as if through water ; to walk on the
@@ -12319,11 +10892,9 @@ devas (angels or gods) are opapatika, there being no sex or
 birth in the highest heavens ; and it is with especial allusion to
 this that the word is here used. There is of course from the
 Buddhist point of view (which admits of nothing without a cause)
-a very sufficient cause for the sudden appearance of an opapa-
-tika in heaven, viz. the karma of a being who has past away
+a very sufficient cause for the sudden appearance of an opapatika in heaven, viz. the karma of a being who has past away
 somewhere else ; but the Buddhist theory necessitated the choice
-of an expression which would give no countenance to the (here-
-tical) idea of a soul flying away after the death of its body from
+of an expression which would give no countenance to the (heretical) idea of a soul flying away after the death of its body from
 one world to another.
 
 In the expression * which bind people to this world,' by world
@@ -12336,9 +10907,6 @@ and S£ma/7«a Phala Sutta, p. 145.
 
 
 AKANKHEYYA SUTTA.
-
-
-215
 
 
 ness, let him be devoted to that quietude of heart
@@ -12355,16 +10923,14 @@ springs from within, let him not drive back the
 ecstasy of contemplation, let him look through
 things, let him be much alone ! '
 
-16. 2 * If a Bhikkhu should desire, Brethren, to com-
-prehend by his own heart the hearts of other beings
+16. 2 * If a Bhikkhu should desire, Brethren, to comprehend by his own heart the hearts of other beings
 and of other men ; to discern the passionate mind to
 be passionate, and the calm mind calm ; the angry
 mind to be angry, and the peaceable peaceable ;
 the deluded mind to be deluded, and the wise mind
 wise ; the concentrated thoughts to be concentrated,
 and the scattered to be scattered; the lofty mind
-to be lofty, and the narrow mind narrow ; the sub-
-lime thoughts to be sublime, and the mean to be
+to be lofty, and the narrow mind narrow ; the sublime thoughts to be sublime, and the mean to be
 mean; the steadfast mind to be steadfast, and the
 wavering to be wavering ; the free mind to be free,
 and the enslaved mind to be enslaved ; let him then
@@ -12405,8 +10971,7 @@ when I fell from thence, I took form in such and
 such a place 4 ; " — should he desire thus to call to
 mind his temporary states in days gone by in all
 their modes and all their details let him then fulfil
-all righteousness, let him be devoted to that quie-
-tude of heart which springs from within, let him
+all righteousness, let him be devoted to that quietude of heart which springs from within, let him
 not drive back the ecstasy of contemplation, let him
 look through things, let him be much alone ! 9
 
@@ -12414,12 +10979,10 @@ i8. 6 ' If a Bhikkhu should desire, Brethren, to see
 with pure and heavenly vision, surpassing that of
 
 
-1 The Lalita Vistara (p. 442) characteristically carries this enu-
-meration further up into innumerable ko/is and niyutas of
+1 The Lalita Vistara (p. 442) characteristically carries this enumeration further up into innumerable ko/is and niyutas of
 births.
 
-2 This is based on the Buddhist theory of the periodical destruc-
-tion and renovation of the universe, each of which takes countless
+2 This is based on the Buddhist theory of the periodical destruction and renovation of the universe, each of which takes countless
 years to be accomplished.
 
 3 Va»»a, colour.
@@ -12433,9 +10996,6 @@ and in nearly the same words in the Lalita Vistara, Chap. XXII.
 
 
 Akankheyya sutta.
-
-
-217
 
 
 men, beings as they pass from one state of existence
@@ -12457,8 +11017,7 @@ Ones, by their adhesion to right doctrine, by their
 acquiring the karma of right doctrine, have been
 reborn, on the dissolution of the body after death,
 into some happy state in heaven ; " — should he desire
-thus to see with pure and heavenly vision, sur-
-passing that of men, beings as they thus pass from
+thus to see with pure and heavenly vision, surpassing that of men, beings as they thus pass from
 one state of existence and take form in others;
 beings base or noble, good-looking or ill-favoured,
 happy or miserable, according to the karma they
@@ -12470,8 +11029,7 @@ be devoted to that quietude of heart which springs
 Arahats, An&gamins, Sakaddg&mins, and Sotdpannas; that is, those
 who are walking in the Noble Eightfold Path.
 
-2 The Pali is mi&kha.- (and below sammd-) di/Mi-kamma-
-samadana; the Lalita Vistara, whose other expressions are
+2 The Pali is mi&kha.- (and below sammd-) di/Mi-kammasamadana; the Lalita Vistara, whose other expressions are
 identical with the Pali, has, very strangely, mithyd- (and below
 samyag-) di/Mi-karma-dharma-sam£d£na.
 
@@ -12486,11 +11044,9 @@ contemplation, let him look through things, let him
 be much alone ! '
 
 19. 1 * If a Bhikkhu should desire, Brethren, by
-the destruction of the great evils (Asavas 2 ), by him-
-self, and even in this very world, to know and realise
+the destruction of the great evils (Asavas 2 ), by himself, and even in this very world, to know and realise
 and attain to Arahatship, to emancipation of heart,
-and emancipation of mind, let him then fulfil all right-
-eousness, let him be devoted to that quietude of
+and emancipation of mind, let him then fulfil all righteousness, let him be devoted to that quietude of
 heart which springs from within, let him not drive
 back the ecstasy of contemplation, let him look
 through things, let him be much alone ! '
@@ -12521,8 +11077,6 @@ Sutta II, 7 ; and Lalita Vistara, Chap. XXII, p. 442.
 ATETO KH ILA-SUTTA.
 
 
-INTRODUCTION
-
 TO THE
 
 ICE T O K H I LA SUTTA.
@@ -12531,10 +11085,8 @@ ICE T O K H I LA SUTTA.
 The following translation has been made from a text,
 based on the Tumour and Phayre MSS. in the India Office,
 of which Dr. Morris was kind enough to allow me the use.
-The Suttas in the MsggAima. Nikdya are usually distin-
-guished by the way in which a single thought or one or
-two allied thoughts are stated shortly at the commence-
-ment, and are then elaborated and repeated through a
+The Suttas in the MsggAima. Nikdya are usually distinguished by the way in which a single thought or one or
+two allied thoughts are stated shortly at the commencement, and are then elaborated and repeated through a
 number of consecutive and carefully-balanced paragraphs
 arranged in a literary form that would now be considered
 monotonous and tiresome in the extreme. The repetitions
@@ -12547,8 +11099,7 @@ flagging interest.
 The argument of this Sutta may be shortly stated thus.
 The means by which freedom from barrenness and bondage
 of heart can be reached are zeal and determined effort.
-But that zeal will be crippled in its struggle against barren-
-ness by want of confidence in the teacher, his doctrine, his
+But that zeal will be crippled in its struggle against barrenness by want of confidence in the teacher, his doctrine, his
 order, or his system of self-culture, and by want of concord
 with the brethren. And that zeal will be crippled in its
 struggle against bondage by sensuality, by sloth, or by
@@ -12559,11 +11110,7 @@ but will assuredly reach even to the supreme security of
 Arahatship.
 
 When I first read this Sutta I was irresistibly reminded
-of that passage in the New Testament where the exhorta-
-tion to the disciple, ' giving all diligence ' to add to his faith
-
-
-222
+of that passage in the New Testament where the exhortation to the disciple, ' giving all diligence ' to add to his faith
 
 
 BARRENNESS AND BONDAGE.
@@ -12668,14 +11215,10 @@ taken itasTatpurusha; and it would be hazardous to say that
 it is never used as such. Here I think it is a Dvandva.
 
 
-224
-
-
 BARRENNESS AND BONDAGE.
 
 
-doubts in the Teacher (Satth&), is uncertain re-
-garding him, has not confidence in him, and has not
+doubts in the Teacher (Satth&), is uncertain regarding him, has not confidence in him, and has not
 faith in him ; then is his mind not inclined towards
 zeal, exertion, perseverance, and struggle.
 
@@ -12691,12 +11234,10 @@ zeal, exertion, perseverance, and struggle.
 
 ' But whosesoever mind inclineth not towards
 zeal, exertion, perseverance, and struggle, he has
-not become free from this second spiritual barren-
-ness.
+not become free from this second spiritual barrenness.
 
 5. 4 And further, O Bhikkhus, when a brother
-has doubt in the Brotherhood (Sangha), is. un-
-certain about it, has no confidence in it, has no faith
+has doubt in the Brotherhood (Sangha), is. uncertain about it, has no confidence in it, has no faith
 in it; then is his mind not inclined towards zeal,
 exertion, perseverance, and struggle.
 
@@ -12705,8 +11246,7 @@ zeal, exertion, perseverance, and struggle, he has not
 become free from this third spiritual barrenness.
 
 6. 'And further, O Bhikkhus, when a brother
-has doubt in the System of Self-culture (Sik-
-kh&), is uncertain about it, has no confidence in it,
+has doubt in the System of Self-culture (Sikkh&), is uncertain about it, has no confidence in it,
 has no faith in it; then is his mind not inclined
 towards zeal, exertion, perseverance, and struggle.
 
@@ -12719,9 +11259,6 @@ is angry with his fellow-disciples, discontented with
 
 
 JSTETOKHILA SUTTA.
-
-
-225
 
 
 them, excited against them, barren towards them,
@@ -12768,9 +11305,6 @@ has not got rid of the passion for a body 1 (k&ye),
 as the group or aggregate of qualities, apart from form, which go
 
 [»] Q
-
-
-226
 
 
 BARRENNESS AND BONDAGE.
@@ -12821,11 +11355,7 @@ to the 7th Sawyo^ana.
 JOETOKHILA SUTTA.
 
 
-227
-
-
-11. 'And further, O Bhikkhus, a brother may-
-have eaten enough and to satiety, and begins to
+11. 'And further, O Bhikkhus, a brother mayhave eaten enough and to satiety, and begins to
 follow after the ease of sleep, the ease of softness,
 the ease of sloth.
 
@@ -12848,11 +11378,9 @@ this religious life, I shall become an angel, or one
 of the angels !" —
 
 'Whatsoever brother, O Bhikkhus, may have
-adopted the religious life in the aspiration of be-
-longing to some one or other of the angel hosts,
+adopted the religious life in the aspiration of belonging to some one or other of the angel hosts,
 and thinking to himself : " By this morality, or by
-this observance, or by this austerity, or by this reli-
-gious life, I shall become an angel, or one of the
+this observance, or by this austerity, or by this religious life, I shall become an angel, or one of the
 angels!" his mind does not incline to zeal, exertion,
 perseverance, and struggle.
 
@@ -12867,9 +11395,6 @@ broken through the five kinds of mental bondage.
 Sutta, Chap. I, § 1 1, Chap. II, § 9.
 
 Q 2
-
-
-228
 
 
 BARRENNESS AND BONDAGE.
@@ -12920,9 +11445,6 @@ free from this second spiritual barrenness,
 tfETOKHILA SUTTA.
 
 
-229
-
-
 does not doubt in the Brotherhood (Sangha), is not
 uncertain about it, has confidence in it, and has faith
 in it; then his mind does incline to zeal, exertion,
@@ -12933,8 +11455,7 @@ exertion, perseverance, and struggle, he has become
 free from this third spiritual barrenness.
 
 18. 'And further, O Bhikkhus, when a brother
-does not doubt in the System of Self-culture (Sik-
-khi), is not uncertain about it, has confidence in it,
+does not doubt in the System of Self-culture (Sikkhi), is not uncertain about it, has confidence in it,
 and has faith in it; then his mind does incline to
 zeal, exertion, perseverance, and struggle.
 
@@ -12943,11 +11464,9 @@ exertion, perseverance, and struggle, he has become
 free from this fourth spiritual barrenness.
 
 19. 'And further, O Bhikkhus, when a brother
-is not angry with his fellow-disciples, is not discon-
-tented with them, is not excited against them, is not
+is not angry with his fellow-disciples, is not discontented with them, is not excited against them, is not
 barren towards them, the mind of the brother, O
-Bhikkhus, who is thus not angry with his fellow-
-disciples, not discontented with them, not excited
+Bhikkhus, who is thus not angry with his fellowdisciples, not discontented with them, not excited
 against them, not barren towards them, does incline
 toward zeal, exertion, perseverance, and struggle.
 
@@ -12963,9 +11482,6 @@ of spiritual bondage?'
 has got rid of the passion after lusts (kime), has
 got rid of the desire after lusts, has got rid of
 the attraction to lusts, has got rid of the thirst for
-
-
-1
 
 
 23O BARRENNESS AND BONDAGE.
@@ -12997,8 +11513,7 @@ of the passion after a body, has got rid of the desire
 after a body, has got rid of the attraction to a body,
 has got rid of the thirst for a body, has got rid of
 the fever of a body, has got rid of the craving after
-a body, his mind does incline to zeal, exertion, per-
-severance, and struggle.
+a body, his mind does incline to zeal, exertion, perseverance, and struggle.
 
 ' But whosesoever mind inclineth towards zeal,
 exertion, perseverance, and struggle, he has become
@@ -13013,9 +11528,6 @@ rid of the craving after a form. —
 
 
 tfETOKHILA SUTTA.
-
-
-231
 
 
 * Whatsoever brother, O Bhikkhus, has got rid
@@ -13061,14 +11573,10 @@ ease, and not by happiness, as I think the former is always its
 more exact meaning in such passages.
 
 
-232
-
-
 BARRENNESS AND BONDAGE.
 
 
-adopted the religious life in the aspiration of be-
-longing to some one or other of the angel hosts,
+adopted the religious life in the aspiration of belonging to some one or other of the angel hosts,
 thinking to himself : " By this morality, or by this
 observance, or by this austerity, or by this religious
 life, I shall become an angel, or one of the angels ! "
@@ -13082,8 +11590,7 @@ free from this fifth spiritual bondage.
 ' It is such a one, O Bhikkhus, who has broken
 through the five kinds of spiritual bondage.
 
-25. 4 Whatsoever brother, O Bhikkhus, has be-
-come quite free from the five kinds of mental
+25. 4 Whatsoever brother, O Bhikkhus, has become quite free from the five kinds of mental
 barrenness, has altogether broken through the five
 kinds of spiritual bondage — that such a one should
 reach up to the full advantage of, should attain to
@@ -13111,9 +11618,6 @@ by the union of investigation with earnest con-
 JSTETOKHILA SUTTA.
 
 
-233
-
-
 templation and the struggle against sin 1 , — and strong
 determination too as a fifth.
 
@@ -13123,12 +11627,10 @@ to come forth into the light, capable of the higher
 wisdom, sure of attaining to the supreme security 3 .
 
 28. 'Just, O Bhikkhus, as when a hen has
-eight or ten or twelve eggs, and the hen has pro-
-perly brooded over them, properly sat upon them,
+eight or ten or twelve eggs, and the hen has properly brooded over them, properly sat upon them,
 properly sat herself round them, however much such
 a wish may arise on her heart as this, " O would
-that my little chickens should break open the egg-
-shell with the points of their claws, or with their
+that my little chickens should break open the eggshell with the points of their claws, or with their
 beaks, and come forth into the light in safety ! " yet
 all the while those little chickens are sure to break the
 egg-shell with the points of their claws, or with their
@@ -13145,8 +11647,7 @@ dictionary, sub voce Iddhip&do.
 2 That is, the four Iddhipadas, and Usso/^i, each multiplied
 by three.
 
-3 Anuttarassa Yogakkhemassa ; that is, Nirvawa. Com-
-pare Dhammapada, ver. 23 and p. 180.
+3 Anuttarassa Yogakkhemassa ; that is, Nirvawa. Compare Dhammapada, ver. 23 and p. 180.
 
 4 The tertium quid of the parable is the absolute certainty of
 the event which will follow on the hen having duly and diligently
@@ -13154,8 +11655,7 @@ followed the law of her instinct, even though she, meanwhile, in
 her ignorance, be full of doubt and desire. The certainty of the
 delivery of a woman with child is not unfrequently used as a
 symbol of what can be absolutely depended upon. So of 'the
-word of the glorious Buddhas/ which endureth for ever, in ' Bud-
-dhist Birth Stories/ p. 18. I have attempted to imitate the play in
+word of the glorious Buddhas/ which endureth for ever, in ' Buddhist Birth Stories/ p. 18. I have attempted to imitate the play in
 the text upon the two words for the c coming forth into the light/
 
 
@@ -13188,8 +11688,6 @@ T
 
 SUTTA.
 
-
-INTRODUCTION
 
 TO THE
 
@@ -13226,20 +11724,14 @@ have ventured to introduce such serious changes into what
 he regarded as sacred writ.
 
 
-238
-
-
 MAHA-SUDASSANA SUTTA.
 
 
 MAHA-SUDASSANA GATAKA.
 
 
-THE GREAT KING OF GLORY.
-
 ['How transient are all component things/
-This the Master told when lying on his death-couch, con-
-cerning that word of Ananda the Thera, when he said, ' Do
+This the Master told when lying on his death-couch, concerning that word of Ananda the Thera, when he said, ' Do
 not, O Blessed One, die in this little town/ and so on.
 
 When the Tathdgata was at the <7etavana 1 he thought
@@ -13247,21 +11739,18 @@ When the Tathdgata was at the <7etavana 1 he thought
 on the day of the full moon in the month of Kattika, in
 that very village 2 ; and Mahd Moggall&na in the latter, the
 dark half of that same month. As my two chief disciples
-are thus dead, I too will pass away at Kusin&rA/ There-
-upon he proceeded straight on to that place, and lay down
+are thus dead, I too will pass away at Kusin&rA/ Thereupon he proceeded straight on to that place, and lay down
 on the Uttara-sisaka couch, between the twin SAla trees,
 never to rise again.
 
 Then the venerable Ananda besought him, saying, * Let
 
 
-1 It is not easy with cur present materials to reconcile the apparently con-
-flicting statements with regard to the Buddha's last journey. According to
+1 It is not easy with cur present materials to reconcile the apparently conflicting statements with regard to the Buddha's last journey. According to
 the Malalankara-vatthu this refers here to a residence at the Gfetavana, which
 took place between the end of § 30 in Chap. II, in the Book of the Great
 Decease, and the beginning of § 31. It will be noticed that § 31 speaks of
-* the monastery/ which is apparently an undesigned confirmation of this tra-
-dition. (Such undesigned circumstances, however really undesigned, are very
+* the monastery/ which is apparently an undesigned confirmation of this tradition. (Such undesigned circumstances, however really undesigned, are very
 far, of course, from proving the actual truth of the tradition. They would only
 show that it was older than the time when the works in which they occur were
 put into their present shape.)
@@ -13272,19 +11761,12 @@ at which the thought is supposed to have arisen.
 
 2 Or perhaps 'at Varaka.' I do not understand the word varaka, which
 has puzzled Mr. Fausboll. The modern name of the village, afterwards the
-site of the famous Buddhist university of Nalanda, is Baragaon. The full-
-moon day in Kattika is the 1st of December. An account of the death of
+site of the famous Buddhist university of Nalanda, is Baragaon. The fullmoon day in Kattika is the 1st of December. An account of the death of
 Sariputta will be found in the Malalankara-vatthu (Bigandet, ' Legend,' &c,
 3rd ed., II, 1-25), and of the murder of Moggallana by the NigaoMas in the
 Dhammapada commentary (Fausboll, p. 298 seq.), of which Spence Hardy's
 account (' Manual of Buddhism,' p. 338) is nearly a translation ; and Bigandet's
 account (loc. cit. pp. 25-27) is an abridgment.
-
-
-INTRODUCTION.
-
-
-239
 
 
 not the Blessed One die in this little township 1 , in this
@@ -13293,8 +11775,7 @@ Blessed One die in one of the other great cities, such as
 Ra^agaha, and the rest ! '
 
 But the Master answered, ' Say not, Ananda, that this is
-a little township, a little town in the jungle, a branch town-
-ship. I was dwelling formerly in this town at the time
+a little township, a little town in the jungle, a branch township. I was dwelling formerly in this town at the time
 when I was Sudassana, the king of kings ; and then it was
 a great city, surrounded by a jewelled rampart, twelve
 leagues in length ! '
@@ -13317,8 +11798,7 @@ long not after them 2 ! " '
 And when she asked, ' Why so, O king ? ' ' To-day my
 time is come, and I shall die ! ' was his reply 3 .
 
-Then the weeping queen, wiping her eyes, brought her-
-self with difficulty and distress to address him accordingly.
+Then the weeping queen, wiping her eyes, brought herself with difficulty and distress to address him accordingly.
 And having spoken, she wept, and lamented ; and the
 other four and eighty thousand women wept too, and
 lamented ; and of the attendant courtiers not one could
@@ -13338,14 +11818,10 @@ in the Sutta below.
 * This question and answer are not in the Sutta.
 
 
-240
-
-
 MAHA-SUDASSANA SUTTA.
 
 
-thing as a compound which is permanent I All are tran-
-sient, all have the inherent quality of dissolution ! '
+thing as a compound which is permanent I All are transient, all have the inherent quality of dissolution ! '
 
 And when he had so said, he further uttered this stanza :
 
@@ -13355,20 +11831,16 @@ They are produced, they are dissolved again :
 And then is best, — when they have sunk to rest 1 ! 1
 
 [In these verses the words 'How transient are all
-component things ! ' mean ' Dear lady, SubhaddA, where-
-soever and by whatsoever causes made or come together,
+component things ! ' mean ' Dear lady, SubhaddA, wheresoever and by whatsoever causes made or come together,
 compounds 2 , — that is, all those things which possess the
-essential constituents (whether material or mental) of exist-
-ing things 3 , — all these compounds are impermanence itself.
-For of these form 4 is impermanent, reason 6 is imperma-
-nent, the (mental) eye 6 is impermanent, and qualities 7
+essential constituents (whether material or mental) of existing things 3 , — all these compounds are impermanence itself.
+For of these form 4 is impermanent, reason 6 is impermanent, the (mental) eye 6 is impermanent, and qualities 7
 are impermanent. And whatever treasure there be, whether
 conscious or unconscious, that is transitory. Understand
 therefore " How transient are all component things ! "
 
 'And why? "Growth is their nature and decay."
-These, all, have the inherent quality of coming into (indi-
-vidual) existence, and have also the inherent quality of
+These, all, have the inherent quality of coming into (individual) existence, and have also the inherent quality of
 growing old ; or (in other words) their very nature is to
 come into existence and to be broken up. Therefore should
 it be understood that they are impermanent.
@@ -13396,23 +11868,14 @@ a Sahkhara. 1 Khandayatanadayo. * Rupa**.
 5 Vitfflanaw. 6 A'akkhuw. 7 Dhamma. 8 Thiti.
 
 
-INTRODUCTION.
-
-
-241
-
-
 disintegration 1 . For to the unborn there is no such
 thing as state, and there is no such thing as a state which
 is without disintegration. Thus are all compounds, having
-attained to the three characteristic marks (of imperma-
-nency, pain, and want of any abiding principle 2 ), subject,
+attained to the three characteristic marks (of impermanency, pain, and want of any abiding principle 2 ), subject,
 in this way and in that way, to dissolution. All these
-component things therefore, without exception, are imper-
-manent, momentary 3 , despicable, unstable, disintegrating,
+component things therefore, without exception, are impermanent, momentary 3 , despicable, unstable, disintegrating,
 trembling, quaking, unlasting, sure to depart 4 , only for a
-time 6 , and without substance as temporary 5 . as a phan-
-tom, as the mirage, or as foam !
+time 6 , and without substance as temporary 5 . as a phantom, as the mirage, or as foam !
 
 ' How then in these, dear lady Subhadd&, is there any
 sign of ease? Understand rather that "then is best,
@@ -13422,8 +11885,7 @@ round (of life), and is the same as Nirvd«a. That and
 this are one 6 . And hence there is no such thing as ease.']
 
 
-And when Mah& Sudassana had thus brought his dis-
-course to a point with the ambrosial great Nirv&#a, he
+And when Mah& Sudassana had thus brought his discourse to a point with the ambrosial great Nirv&#a, he
 made exhortation also to the rest of the great multitude,
 saying, c Give gifts ! Observe the precepts ! Keep the
 sacred days 7 ! ' and became an inheritor of the world of
@@ -13432,8 +11894,7 @@ the gods.
 [When the Master had concluded this lesson in the
 truth, he summed up the G&taka, saying, 'She who was
 then Subhaddi the queen was the mother of R&hula, the
-great adviser was R&hula, the rest of the retinue the Bud-
-dha's retinue, and Mahd Sudassana I myself.']
+great adviser was R&hula, the rest of the retinue the Buddha's retinue, and Mahd Sudassana I myself.']
 
 
 1 Bhango.
@@ -13455,32 +11916,25 @@ out on hire for a time only.
 [..] K
 
 
-242
-
-
 mahA-sudassana sutta.
 
 
 The word translated ' component things ' or 'compounds'
 in this G&taka is sankhdrd, literally confections, from
-kar, * to do/ and sam, 'together/ It is a word very fre-
-quently used in Buddhist writings, and a word consequently
+kar, * to do/ and sam, 'together/ It is a word very frequently used in Buddhist writings, and a word consequently
 of many different connotations ; and there is, of course, no
 exactly corresponding word in English. 'Production' would
 often be very nearly correct, although it fails entirely to
-give the force of the preposition sam ; but a greater objec-
-tion to that word is the fact that it is generally used, not
+give the force of the preposition sam ; but a greater objection to that word is the fact that it is generally used, not
 of things that have come into being of themselves, but of
 things that have been produced by some one else. It
-suggests, if it does not imply, a producer ; which is con-
-trary to the whole spirit of the Buddhist passages in which
+suggests, if it does not imply, a producer ; which is contrary to the whole spirit of the Buddhist passages in which
 the word sahkh&r& occurs. In this important respect the
 word ' compound ' is a much more accurate translation,
 though it lays somewhat too much stress on the sam.
 
 The term Confections (to coin a rendering) is sometimes
-used, as in the first line of these verses (as used in this con-
-nection), to denote all things which have been brought
+used, as in the first line of these verses (as used in this connection), to denote all things which have been brought
 together, made up, by pre-existing causes ; and in this
 sense it includes, as the commentator here points out, all
 those material or mental qualities which unite to form
@@ -13489,8 +11943,7 @@ or unconscious.
 
 It is more usually used, with special reference to their
 origin from pre-existing causes, and with allusion to the
-wider class denoted by the same word, of the mental con-
-fections only, of all sentient beings generally, or of man
+wider class denoted by the same word, of the mental confections only, of all sentient beings generally, or of man
 alone. In this sense it forms by itself one of the five
 classes or aggregates (khandhi) into which the material
 and mental qualities of each separate individual are divided
@@ -13502,12 +11955,6 @@ as now acknowledged by orthodox Buddhists, will be found
 in my manual 'Buddhism.' At the time when the P41i
 Pi/akas reached their present form, no such elaborate list
 of Confections in detail seems to have been made ; but the
-
-
-INTRODUCTION.
-
-
-243
 
 
 general sense of the word was, as is quite clear from the
@@ -13526,8 +11973,7 @@ Whether it is entitled to do so is open to serious question.
 The Buddhist salvation was held to consist in a change of
 heart, a modification of personal character, to be attained
 to in this world, and forming the subject of Gotama's first
-discourse, ' The Foundation of the Kingdom of Righteous-
-ness V When looked at from different points of view this
+discourse, ' The Foundation of the Kingdom of Righteousness V When looked at from different points of view this
 state of mind was denoted, in the very numerous passages
 in which it is mentioned or referred to, under a great variety
 of different names or epithets, suggestive of the different
@@ -13538,23 +11984,18 @@ attention, that it is an epithet comparatively very seldom
 employed in the Pdli Pi/akas themselves. It is to the state
 of mind itself, the salvation which every Arahat has reached
 while yet alive, in a word, to Arahatship, that importance
-ought to be attached, rather than to that particular conno-
-tation of it suggested by the word Nirv&wa.
+ought to be attached, rather than to that particular connotation of it suggested by the word Nirv&wa.
 
 One of the many ideas involved in Arahatship was the
 absolute dissolution of individuality. Gotama, whether
 rightly or wrongly is here of no importance, held that
-freedom from pain, absolute ease, happiness, was incom-
-patible with existence as a distinct individual (whether
+freedom from pain, absolute ease, happiness, was incompatible with existence as a distinct individual (whether
 animal, god, or man). The cessation of the Confections,
 so far from being a thing to be dreaded, was the inevitable
 result of the emancipation of heart and mind in Arahatship.
 
 
 1 The Dhamma-£akka-ppavattana Sutta, translated below.
-
-
-244
 
 
 mahA-sudassana sutta.
@@ -13569,8 +12010,7 @@ same thing as if he had said ' Nirvdtf a is blessed V
 
 Turning now to the Sutta itself, we find that the portion
 of the legend omitted in the G&taka throws an unexpected
-light upon the tale ; for it commences with a long descrip-
-tion of the riches and glory of MahA Sudassana, and reveals
+light upon the tale ; for it commences with a long description of the riches and glory of MahA Sudassana, and reveals
 in its details the instructive fact that the legend is nothing
 more nor less than a spiritualist's sun-myth.
 
@@ -13591,32 +12031,22 @@ should always be applied.
 It must at once be admitted that whether the whole
 story is based on a sun-story, or whether certain parts or
 details of it are derived from things first spoken about the
-sun, or not, it is still essentially Buddhistic. A large pro-
-portion of its contents has nothing at all to do with the
+sun, or not, it is still essentially Buddhistic. A large proportion of its contents has nothing at all to do with the
 worship of the sun ; and even that which has, had not, in
 
 
-1 In this respect it should be noticed that the very word here used for cessa-
-tion, upasamo, is used as one among a string of epithets of Arahatship at
-Dhamma-£akka-ppavattana Sutta, § 3, = Cataka I, 97, and again in Dharama-
-pada, verses 368, 381. In this last passage the whole of the phrase in the last
+1 In this respect it should be noticed that the very word here used for cessation, upasamo, is used as one among a string of epithets of Arahatship at
+Dhamma-£akka-ppavattana Sutta, § 3, = Cataka I, 97, and again in Dharamapada, verses 368, 381. In this last passage the whole of the phrase in the last
 verse in our stanza recurs in the accusative case as an equivalent to Arahatship,
 and the comma inserted by Mr. Fausboll between sankharupasamanf and
 sukhaw is, in both verses, unnecessary.
-
-
-INTRODUCTION.
-
-
-245
 
 
 the mind of the author, when the book was put fogether.
 Whether indebted to a sun-myth or not, it is therefore
 perfectly true and valid evidence of the religious belief of
 the people among whom it was current ; and no more
-shows that the Buddhists were unconscious sun worship-
-pers than the story of Samson, under any theory of its
+shows that the Buddhists were unconscious sun worshippers than the story of Samson, under any theory of its
 possible origin, would prove the same of the Jews.
 
 What we really have is a kind of wonderful fairy tale, a
@@ -13648,14 +12078,10 @@ centuries afterwards, described the heavenly Jerusalem.
 
 When the Northern Buddhists, long afterwards, had
 smothered the simple teaching of the founder of their
-religion under the subtleties of theological and metaphy-
-sical speculation, and had forgotten all about the Noble
+religion under the subtleties of theological and metaphysical speculation, and had forgotten all about the Noble
 Path, their goal was no longer a change of heart in the
 Arahatship to be reached on earth, but a life of happiness,
 under a change of outward condition, in a heaven of bliss
-
-
-246
 
 
 MAHA-SUDASSANA SUTTA.
@@ -13671,9 +12097,6 @@ for the present year. It is instructive to find that several
 of the expressions used are word for word the same as the
 corresponding phrases in the ' Book of the Great King of
 Glory/
-
-
-THE GREAT KING OF GLORY 1 .
 
 
 MAHA-SUDASSANA - SUTTA.
@@ -13707,19 +12130,12 @@ due honour to the remains of the Tath&gata/
 
 3. 'Say not so, Ananda! Say not so, Ananda,
 
-1 Sudassana means ' beautiful to see, having a glorious appear-
-ance/ and is the name of many kings and heroes in Indian
+1 Sudassana means ' beautiful to see, having a glorious appearance/ and is the name of many kings and heroes in Indian
 legend.
 
 2 From here down to the end of the next section is found also,
 nearly word for word, in the Mah&parinibb&na Sutta, above, pp. 99,
 100. Compare also Maha-Sudassana Gataka, No. 95.
-
-
-248
-
-
-THE GREAT KING OF GLORY.
 
 
 CH.
@@ -13737,8 +12153,7 @@ royal city of king Mahi-Sudassana, under the name
 of Kusivati 2 , and on the east and on the west it was
 twelve leagues in length, and on the north and on
 the south it was seven leagues in breadth. That
-royal city Kusivati, Ananda, was mighty, and pros-
-perous, and full of people, crowded with men, and
+royal city Kusivati, Ananda, was mighty, and prosperous, and full of people, crowded with men, and
 provided with all things for food. Just, Ananda,
 as the royal city of the gods, A/akamand£ by name,
 is mighty, prosperous, and full of people, crowded
@@ -13750,10 +12165,8 @@ by night, Ananda, the royal city Kusivatl resounded
 
 1 Khattiyo muddhavasitto, which does not occur in the
 Mahaparinibbana Sutta, the Mahapadhana Sutta, the Lakkhana
-Sutta, and other places where this stock description of a JTakka-
-vatti is found. It is omitted also in the Lalita Vistara. The
-Burmese Phayre MS. of the India Office reads here mudddbhi-
-sitto, but this is an unnecessary correction. So the name of the
+Sutta, and other places where this stock description of a JTakkavatti is found. It is omitted also in the Lalita Vistara. The
+Burmese Phayre MS. of the India Office reads here mudddbhisitto, but this is an unnecessary correction. So the name of the
 Hindu caste mentioned in the Sahyddri Kha»</a of the Skanda
 Purawa is spelt both ways. The epithet is probably inserted here
 from § 12 below.
@@ -13771,18 +12184,13 @@ I.
 MAHA-SUDASSANA SUTTA.
 
 
-249
-
-
-with the ten cries ; that is to say, the noise of ele-
-phants, and the noise of horses, and the noise of
+with the ten cries ; that is to say, the noise of elephants, and the noise of horses, and the noise of
 chariots ; the sounds of the drum, of the tabor, and
 of the lute ; the sound of singing, and the sounds of
 the cymbal and of the gong; and lastly, with the
 cry, " Eat, drink, and be merry 1 ! "
 
-4. 'The royal city Kus&vati, Ananda, was sur-
-rounded by Seven Ramparts. Of these, one
+4. 'The royal city Kus&vati, Ananda, was surrounded by Seven Ramparts. Of these, one
 rampart was of gold, and one of silver, and one of
 beryl, and one of crystal, and one of agate, and one
 of coral, and one of all kinds of gems 2 ! '
@@ -13792,8 +12200,7 @@ chank is added there — wrongly, for that makes the number of
 cries eleven.
 
 8 Beryl, agate, and coral are doubtful renderings of Pali names
-of precious substances, the exact meaning of which has been dis-
-cussed on the very slender evidence available (and hence, it seems
+of precious substances, the exact meaning of which has been discussed on the very slender evidence available (and hence, it seems
 to me, with very little certain result) by Burnouf in the ' Lotus de
 la Bonne Loi/ pp. 3 1 9-321 ; and Professor Max Mtiller has a further
 note in the Journal of the Royal Asiatic Society, 1880, p. 178.
@@ -13824,9 +12231,6 @@ jewel two distinct names (Pa#£* indriy&ni = pa#£a baldni).
 At -Afulla Vagga IX, 1, 4 we find the following enumeration of
 
 
-THE GREAT KING OF GLORY.
-
-
 CH.
 
 
@@ -13841,8 +12245,7 @@ And one pillar was of gold, and one of silver, and
 one of beryl, and one of crystal, and one of agate,
 and one of coral, and one of all kinds of gems.
 
-6. 'The royal city Kus£vatf, Ananda, was sur-
-rounded by Seven Rows of Palm Trees. One
+6. 'The royal city Kus£vatf, Ananda, was surrounded by Seven Rows of Palm Trees. One
 row was of palms of gold, and one of silver, and one
 of beryl, and one of crystal, and one of agate, and
 one of coral, and one of all kinds of gems.
@@ -13887,24 +12290,19 @@ I.
 MAHA-SUDASSANA SUTTA.
 
 
-251
-
-
 were shaken by the wind, there arose a sound sweet,
 and pleasant, and charming, and intoxicating.
 
 4 Just, Ananda, as the seven kind of instruments
 yield, when well played upon, to the skilful man, a
-sound sweet, and pleasant, and charming, and in-
-toxicating — just even so, Ananda, when those rows
+sound sweet, and pleasant, and charming, and intoxicating — just even so, Ananda, when those rows
 of palm trees were shaken by the wind, there arose
 a sound sweet, and pleasant, and charming, and
 intoxicating.
 
 9. 'And whoever, Ananda, in the royal city
 Kusfivatl were at that time gamblers, drunkards,
-and given to drink, they used to dance round to-
-gether to the sound of those palms when shaken
+and given to drink, they used to dance round together to the sound of those palms when shaken
 by the wind.
 
 10. 4 The Great King of Glory, Ananda, was the a
@@ -13917,8 +12315,7 @@ gifted with Four Marvellous Powers/
 King of Glory, on the Sabbath day 2 , on the day of
 
 strings of bells in that Buddha country are moved by the wind,
-a sweet and enrapturing sound proceeds from them. Yes, O «S3ri-
-putra, as from a heavenly musical instrument consisting of a hun-
+a sweet and enrapturing sound proceeds from them. Yes, O «S3riputra, as from a heavenly musical instrument consisting of a hun-
 dred thousand ko/is of sounds, when played by Aryas, a sweet
 and enrapturing sound proceeds ; a sweet and enrapturing sound
 proceeds from those rows of palm trees and strings of bells moved
@@ -13934,8 +12331,7 @@ Compare also below, § 81, and G&taka I, 32.
 other Pali Suttas, and occurs also, in almost identical terms, in the
 Lalita Vistara (Calcutta edition, pp. 14-19).
 
-8 Uposatha, a weekly sacred day; being full-moon day, new-
-moon day, and the two equidistant intermediate days. Comp. § 21.
+8 Uposatha, a weekly sacred day; being full-moon day, newmoon day, and the two equidistant intermediate days. Comp. § 21.
 
 
 252 THE GREAT KING OF GLORY. CH.
@@ -13991,9 +12387,6 @@ I.
 mahA-sudassana sutta.
 
 
-253
-
-
 army, horses, and chariots, and elephants, and men.
 And in whatever place, Ananda, the Wheel stopped,
 there the Great King of Glory took up his abode,
@@ -14044,12 +12437,6 @@ of Glory disregards the teaching of the Amagandha Sutta, quoted
 in 'Buddhism,' p. 131.
 
 
-254
-
-
-THE GREAT KING OF GLORY.
-
-
 CH.
 
 
@@ -14062,8 +12449,7 @@ region of the East].
 19. ' Now when the wondrous Wheel, Ananda,
 had gone forth conquering and to conquer o'er the
 whole earth to its very ocean boundary, it returned
-back again to the royal city of Kus£vatt and re-
-mained fixed on the open terrace in front of the
+back again to the royal city of Kus£vatt and remained fixed on the open terrace in front of the
 entrance to the inner apartments of the Great King
 of Glory, as a glorious adornment to the inner
 apartments of the Great King of Glory.
@@ -14084,8 +12470,7 @@ was pleased at heart at the thought :
 1 Hatthi-ratana.
 
 2 Satta-ppatittho, that is, perhaps, in regard to its four legs,
-two tusks, and trunk. The expression is curious, and Buddha-
-ghosa has no note upon it. It is quite possible that it merely sig-
+two tusks, and trunk. The expression is curious, and Buddhaghosa has no note upon it. It is quite possible that it merely sig-
 nifies ' exceeding firm/ the number seven being used without any
 hard and fast interpretation.
 
@@ -14101,9 +12486,6 @@ I.
 
 
 MAHA-SUDASSANA SUTTA.
-
-
-255
 
 
 * " Auspicious were it to ride upon that Elephant,
@@ -14153,12 +12535,6 @@ Vassa- valahaka Deva, that is, the cloud-spirits of cold, heat,
 air, wind, and rain respectively.
 
 
-256
-
-
-THE GREAT KING OF GLORY.
-
-
 CH.
 
 
@@ -14180,8 +12556,7 @@ A
 31. 'Now further, Ananda, there appeared to the
 Great King of Glory the Gem-Treasure 1 . That
 Gem was the Ve/uriya, bright, of the finest species,
-with eight facets, excellently wrought, clear, trans-
-parent, perfect in every way.
+with eight facets, excellently wrought, clear, transparent, perfect in every way.
 
 32. ' The splendour, Ananda, of that wondrous
 Gem spread round about a league on every side.
@@ -14217,12 +12592,8 @@ I.
 MAHA-SUDASSANA SUTTA.
 
 
-257
-
-
 very tall, nor very short; neither very stout, nor
-very slim ; neither very dark, nor very fair ; sur-
-passing human beauty, she had attained unto the
+very slim ; neither very dark, nor very fair ; surpassing human beauty, she had attained unto the
 beauty of the gods \
 
 37. 1 The touch too, Ananda, of the skin of that
@@ -14247,8 +12618,7 @@ the body !
 who appeared to the Great King of Glory.
 
 41. * Now further, Ananda, there appeared unto
-the Great King of Glory a Wonderful Trea-
-surer 2 , possessed, through good deeds done in a
+the Great King of Glory a Wonderful Treasurer 2 , possessed, through good deeds done in a
 
 1 The above description of an ideally beautiful woman is of
 frequent occurrence.
@@ -14260,8 +12630,7 @@ word in English which is an adequate rendering of the term, for
 it connotes a social condition now no longer known among us.
 The gahapati was the head of a family, the representative in a
 village community of a family, the pater familias. So the god
-of fire, with allusion to the sacred fire maintained in each house-
-hold, is called in the Rig-veda the gri hap ati, the pater familias,
+of fire, with allusion to the sacred fire maintained in each household, is called in the Rig-veda the gri hap ati, the pater familias,
 
 [11] S
 
@@ -14297,8 +12666,7 @@ yellow gold."
 to the water with both his hands, and drew up a jar
 
 
-of the human race. Thence it is often used in opposition to br4h-
-ma«a very much as we might use 'yeoman' in opposition to 'clerk'
+of the human race. Thence it is often used in opposition to br4hma«a very much as we might use 'yeoman' in opposition to 'clerk'
 (G&taka I, 83, and below, § 53) ; and the two combined are used
 in opposition to people of other ranks and callings held to be
 less honourable than that of clerk or yeoman (G&taka I, 218). In
@@ -14307,12 +12675,10 @@ a different point of view, to the Kshatriyas and Vauyas of the
 Hindu caste division; but the compound brahma«a-gahapatik£
 as a collective term comes to be about equivalent to ' priests and
 laymen ' (see, for instance, below, § 53, and Maha* Vagga I, 2% ;
-3, 4, &c). Then again the gahapati is distinct from the subor-
-dinate members of the family, who had not the control and
+3, 4, &c). Then again the gahapati is distinct from the subordinate members of the family, who had not the control and
 management of the common property (Samaflfca Phala Sutta,
 i33,=Tevi ! ^ r a Sutta I, 47); and it is this implication of the term
-that is emphasised in the text. Buddhaghosa uses, as an expla-
-natory phrase, the words se/Mi-gahapati. See further the
+that is emphasised in the text. Buddhaghosa uses, as an explanatory phrase, the words se/Mi-gahapati. See further the
 passages quoted in the index to the jSTulla Vagga (p. 354).
 
 
@@ -14320,9 +12686,6 @@ I.
 
 
 mahA-sudassana sutta.
-
-
-259
 
 
 full of yellow gold, and said to the Great King of
@@ -14381,15 +12744,11 @@ S 2
 26o
 
 
-THE GREAT KING OF GLORY.
-
-
 CH.
 
 
 50. ' In the first place, Ananda, the Great King
-of Glory was graceful in figure, handsome in ap-
-pearance, pleasing in manner, and of most beautiful
+of Glory was graceful in figure, handsome in appearance, pleasing in manner, and of most beautiful
 complexion, beyond what other men are.
 
 ' The Great King of Glory, Ananda, was endowed
@@ -14423,8 +12782,7 @@ gahaai is a supposed particular organ or function situate at the
 junction of the stomach and intestines. MoggaMna explains it,
 udare tu tathd pa£analasmi/rc gahawi (Abhidhina-ppadtpiki,
 972), where Subhuti's Sinhalese version is 'kukshi, p&k&gni/
-and his English version, * the belly, the internal fire which pro-
-motes digestion/ Buddhaghosa explains samavipdkiyd kam-
+and his English version, * the belly, the internal fire which promotes digestion/ Buddhaghosa explains samavipdkiyd kam-
 ma^d-te^o-dhdtuyi, and adds, 4 If a man's food is dissolved
 the moment he has eaten it, or if it remains like a lump, be has not
 the samavepdkini gaha/n, but he who has appetite (bhatta*-
@@ -14483,21 +12841,13 @@ there occurred the thought :
 1 Brdhmawa-gahapatiMnaw. See the note on § 41.
 
 
-262
-
-
-THE GREAT KING OF GLORY.
-
-
 CH.
 
 
-in the spaces between these palms, at every hun-
-dred bow lengths."
+in the spaces between these palms, at every hundred bow lengths."
 
 ' Then, Ananda, the Great King of Glory, in the
-spaces between those palms, at distances of a hun-
-dred bow lengths, made Lotus-ponds.
+spaces between those palms, at distances of a hundred bow lengths, made Lotus-ponds.
 
 58. 1 And those Lotus-ponds, Ananda, were faced
 with tiles of four kinds. One kind of tile was of
@@ -14540,9 +12890,6 @@ I.
 MAHA-SUDASSANA SUTTA.
 
 
-263
-
-
 61. ' Now, to the Great King of Glory, Ananda,
 there occurred the thought :
 
@@ -14552,8 +12899,7 @@ all the people— to wit, blue water lilies and blue
 lotuses, white lotuses and white water lilies."
 
 * Then, Ananda, the Great King of Glory had
-flowers of every season planted in those Lotus-
-ponds for the use of all the people — to wit, blue
+flowers of every season planted in those Lotusponds for the use of all the people — to wit, blue
 water lilies and blue lotuses, white lotuses and
 white water lilies.
 
@@ -14582,18 +12928,11 @@ have need of it, couches for the tired, wives for
 
 of the Lotus-lakes in Sukhavati. General Cunningham says that
 the cross bars of the Buddhist railings are called su^iyo in the
-inscriptions at Bharhut (The Stupa of Bharhut, p. 127). Buddha-
-ghosa, who is good enough to tell us the exact number of the
+inscriptions at Bharhut (The Stupa of Bharhut, p. 127). Buddhaghosa, who is good enough to tell us the exact number of the
 ponds — to wit, 84,000, has no explanation of these words, merely
 saying that of the two vedikas one was at the limit of the tiles
 and one at the limit of the parivewa. The phrases in the text
 are repeated below, §§ 73-87, of the Palace of Righteousness.
-
-
-264
-
-
-THE GREAT KING OF GLORY.
 
 
 CH.
@@ -14602,11 +12941,9 @@ CH.
 those who want wives, gold for the poor, and money
 for those who are in want."
 
-4 Then, Ananda, the Great King of Glory esta-
-blished a perpetual grant by the banks of those
+4 Then, Ananda, the Great King of Glory established a perpetual grant by the banks of those
 Lotus-ponds — to wit, food for the hungry, drink for
-the thirsty, raiment for the naked, means of con-
-veyance for those who needed it, couches for the
+the thirsty, raiment for the naked, means of conveyance for those who needed it, couches for the
 tired, wives for those who wanted wives, gold for the
 poor, and money for those who were in want.
 
@@ -14637,8 +12974,7 @@ Glory. ,,
 and said :
 
 '"A mansion would we build for thee, O King!"'
-* 44 Then, Ananda, the Great King of Glory signi-
-fied, by silence, his consent.
+* 44 Then, Ananda, the Great King of Glory signified, by silence, his consent.
 
 A
 
@@ -14650,9 +12986,6 @@ I.
 
 
 MAH A-SUDASS ANA SUTTA.
-
-
-265
 
 
 were in the heart of the Great King of Glory, he
@@ -14676,8 +13009,7 @@ the Great King of Glory:
 ' " I would create for thee, O King, a mansion —
 a palace which shall be called ' Righteousness ! ' "
 
-* Then, Ananda, the Great King of Glory signi-
-fied, by silence, his consent.
+* Then, Ananda, the Great King of Glory signified, by silence, his consent.
 
 70. ' So Vissakamma the god, Ananda, created
 for the Great King of Glory a mansion — a palace to
@@ -14700,12 +13032,6 @@ one of silver, and one of beryl, and one of crystal.
 2 D ham maw nama Pasadaw.
 
 3 Dhammassa pasadassa vatthu/ra.
-
-
-266
-
-
-THE GREAT KING OF GLORY.
 
 
 CH.
@@ -14741,8 +13067,7 @@ of silver, and one of beryl, and one of crystal.
 
 * In the golden chamber a silver couch was spread ;
 in the silver chamber a golden couch ; in the beryl
-chamber a couch of ivory ; and in the crystal cham-
-ber a couch of coral.
+chamber a couch of ivory ; and in the crystal chamber a couch of coral.
 
 * At the door of the golden chamber there stood
 a palm tree of silver ; and its trunk was of silver, and
@@ -14757,9 +13082,6 @@ I.
 
 
 mahA-sudassana sutta.
-
-
-267
 
 
 ' At the door of the beryl chamber there stood a
@@ -14791,25 +13113,16 @@ of silver. The silver railing had its posts of silver,
 and its cross bars and its figure head of gold 2 .
 
 79. ' The Palace of Righteousness, Ananda, was
-hung round with two networks of bells. One net-
-work of bells was of gold, and one was of silver.
+hung round with two networks of bells. One network of bells was of gold, and one was of silver.
 
 
-1 Mahavyuhassa ku/agarassa dvdre. The 'Great Com-
-plex ' contains a double allusion, in the same spirit in which the
+1 Mahavyuhassa ku/agarassa dvdre. The 'Great Complex ' contains a double allusion, in the same spirit in which the
 whole legend has been worked out: 1. To the Great Complex as
-a name of the Sun-God regarded as a unity of the four mytho-
-logical deities, Vasudeva, Sahkarshawa, Pra^umna, and Aniruddha;
+a name of the Sun-God regarded as a unity of the four mythological deities, Vasudeva, Sahkarshawa, Pra^umna, and Aniruddha;
 and 2. To the Great Complex as a name of a particular kind of
 deep religious meditation or speculation.
 
 2 See above, § 60, and the note on § 54.
-
-
-268
-
-
-THE GREAT KING OF GLORY.
 
 
 CH.
@@ -14832,8 +13145,7 @@ and intoxicating.
 
 81. 'And whoever, Ananda, in the royal city
 KusAvatt were at that time gamblers, drunkards,
-and given to drink, they used to dance round toge-
-ther to the sound of those networks of bells when
+and given to drink, they used to dance round together to the sound of those networks of bells when
 shaken by the wind.
 
 82. 'When the Palace of Righteousness, Ananda,
@@ -14849,8 +13161,7 @@ to look at, and destructive to the eyes.
 83. ' Now there occurred, Ananda, to the Great
 King of Glory this thought :
 
-' " Suppose, now, in front of the Palace of Right-
-eousness, I were to make a Lotus-lake to bear the
+' " Suppose, now, in front of the Palace of Righteousness, I were to make a Lotus-lake to bear the
 name of ' Righteousness.' "
 
 ' Then, Ananda, the Great King of Glory made a
@@ -14861,9 +13172,6 @@ I.
 
 
 mahA-sudassana sutta.
-
-
-269
 
 
 84. * The Lake of Righteousness, Ananda, was on
@@ -14923,8 +13231,7 @@ and pleasant, and charming, and intoxicating.
 
 * Just, Ananda, as the seven kind of instruments
 yield, when well played upon, to the skilful man, a.
-sound sweet, and pleasant, and charming, and intoxicat-
-ing, — just even so, Ananda, when those rows of palm
+sound sweet, and pleasant, and charming, and intoxicating, — just even so, Ananda, when those rows of palm
 
 trees were shaken by the wind, there arose a sound
 
@@ -14979,8 +13286,7 @@ so great, — that is to say, of giving, of self-conquest,
 and of self-control \"
 
 
-3. ' Now the Great King of Glory, Ananda, as-
-cended up into the chamber of the Great Complex ;
+3. ' Now the Great King of Glory, Ananda, ascended up into the chamber of the Great Complex ;
 and when he had come there he stood at the door,
 and there he broke out into a cry of intense
 emotion :
@@ -14997,15 +13303,8 @@ had entered the chamber of the Great Complex,
 
 
 1 I have here translated kamma by previous character' and
-by ' quality.' The easiest plan would, no doubt, have been, to pre-
-serve in the translation the technical term karma, which is explained
+by ' quality.' The easiest plan would, no doubt, have been, to preserve in the translation the technical term karma, which is explained
 at some length in ' Buddhism/ pp. 99-106.
-
-
-272
-
-
-THE GREAT KING OF GLORY.
 
 
 CH.
@@ -15023,18 +13322,15 @@ he entered into, and remained in, the Second G^&na,
 reflection, without investigation, a state of elevation
 of mind, of internal calm.
 
-6. * By absence of the longing after joy, he re-
-mained indifferent, conscious, self-possessed, expert
+6. * By absence of the longing after joy, he remained indifferent, conscious, self-possessed, expert
 encing in his body that ease which the noble ones
-announce, saying, " The man indifferent and self-
-possessed is well at ease," and thus he entered into,
+announce, saying, " The man indifferent and selfpossessed is well at ease," and thus he entered into,
 and remained in, the Third GASlusl.
 
 7. ' By putting away ease, by putting away pain,
 by the previous dying away both of gladness and of
 sorrow, he entered into, and remained in, the Fourth
-Ghkudi, — a state of purified self-possession and equa-
-nimity, without ease, and without pain l .
+Ghkudi, — a state of purified self-possession and equanimity, without ease, and without pain l .
 
 
 8. ' Then, Ananda, the Great King of Glory went
@@ -15057,9 +13353,6 @@ II.
 
 
 mahA-sudassana sutta.
-
-
-273
 
 
 one quarter of the world with thoughts of Love; and
@@ -15103,9 +13396,6 @@ are here very appropriately represented to follow immediately after
 [II] T
 
 
-274 THE GREAT KING OF GLORY.
-
-
 CH.
 
 
@@ -15128,8 +13418,7 @@ purple cushions :
 
 ' Four and eighty thousand state elephants, with
 trappings of gold, and gilded flags, and golden
-coverings of network, — of which the king of ele-
-phants, called "the Changes of the Moon," was
+coverings of network, — of which the king of elephants, called "the Changes of the Moon," was
 chief :
 
 'Four and eighty thousand state horses, with
@@ -15137,8 +13426,7 @@ trappings of gold, and gilded flags, and golden
 coverings of network, — of which " Thunder-cloud,"
 the king of horses, was the chief :
 
-' Four and eighty thousand chariots, with cover-
-ings of the skins of lions, and of tigers, and of pan-
+' Four and eighty thousand chariots, with coverings of the skins of lions, and of tigers, and of pan-
 thers, — of which the chariot called "the Flag of
 Victory" was the chief :
 
@@ -15160,17 +13448,13 @@ II.
 mahA-sudassana sutta.
 
 
-275
-
-
 ' Four and eighty thousand yeomen, of whom the
 Wonderful Steward was the chief:
 
 * Four and eighty thousand nobles, of whom the
 Wonderful Adviser was the chief :
 
-i Four and eighty thousand cows, with jute trap-
-pings, and horns tipped with bronze :
+i Four and eighty thousand cows, with jute trappings, and horns tipped with bronze :
 
 ' Four and eighty thousand myriads of garments,
 of delicate textures, of flax, and cotton, and silk, and
@@ -15264,11 +13548,7 @@ II.
 *mahA-sudassana sutta.
 
 
-277
-
-
-21. '"Even so, O Queen !" said the Great Ad-
-viser, Ananda, in assent, to the Queen of Glory.
+21. '"Even so, O Queen !" said the Great Adviser, Ananda, in assent, to the Queen of Glory.
 And he set the fourfold army in array, and had the
 fact announced to the Queen of Glory in the words :
 
@@ -15286,12 +13566,10 @@ she stopped and leant against the side of the door.
 23. 'When, Ananda, the Great King of Glory
 heard the noise he thought:
 
-' " What, now, may this noise, as of a great multi-
-tude of people, mean ? "
+' " What, now, may this noise, as of a great multitude of people, mean ? "
 
 24. 'And going out from the chamber of the
-Great Complex, he beheld the Queen of Glory stand-
-ing leaning up against the side of the door. And
+Great Complex, he beheld the Queen of Glory standing leaning up against the side of the door. And
 when he beheld her, he said to the Queen of Glory :
 
 "'Stop there, O Queen! Enter not!"
@@ -15311,47 +13589,35 @@ and made it ready under that grove of palm trees
 which was all of gold.
 
 
-278
-
-
-THE GREAT KING OF GLORY.
-
-
 CH.
 
 
 27. ' Then, Ananda, the Great King of Glory laid
 himself down in the dignified way a lion does ; and
-lay with one leg resting on the other, calm and self-
-possessed.
+lay with one leg resting on the other, calm and selfpossessed.
 
 28. 'Then, Ananda, there occurred to the Queen
 of Glory this thought :
 
 ' " How calm are all the limbs of the Great King
-of Glory! How clear and bright is his appear-
-ance! O may it not be that the Great King of
+of Glory! How clear and bright is his appearance! O may it not be that the Great King of
 Glory is dead 1 ! "
 
 29. ' And she said to the Great King of Glory :
 
-' " Thine, O King, are those four and eighty thou-
-sand cities, the chief of which is the royal city of
+' " Thine, O King, are those four and eighty thousand cities, the chief of which is the royal city of
 Kusivatt. Arise, O King, re-awaken thy desire for
 these ! quicken thy longing after life !
 
-* " Thine, O King, are those four and eighty thou-
-sand palaces, the chief of which is the Palace of
+* " Thine, O King, are those four and eighty thousand palaces, the chief of which is the Palace of
 Righteousness. Arise, O King, re-awaken thy desire
 for these ! quicken thy longing after life !
 
-' " Thine, O King, are those four and eighty thou-
-sand chambers, the chief of which is the chamber
+' " Thine, O King, are those four and eighty thousand chambers, the chief of which is the chamber
 of the Great Complex. Arise, O King, re-awaken thy
 desire for these ! quicken thy longing after life !
 
-* " Thine, O King, are those four and eighty thou-
-sand divans, of gold, and silver, and ivory, and
+* " Thine, O King, are those four and eighty thousand divans, of gold, and silver, and ivory, and
 sandal wood, spread with long-haired rugs, and
 cloths embroidered with flowers, and magnificent
 antelope skins; covered with lofty canopies; and
@@ -15375,47 +13641,37 @@ MAHA-SUDASSANA SUTTA.
 O King, re-awaken thy desire for these! quicken
 thy longing after life !
 
-' " Thine, O King, are those four and eighty thou-
-sand state elephants, with trappings of gold, and
+' " Thine, O King, are those four and eighty thousand state elephants, with trappings of gold, and
 gilded flags, and golden coverings of network, — of
 which the king of elephants, called 'the Changes
 of the Moon/ is chief. Arise, O King, re-awaken
 thy desire for these ! quicken thy longing after life !
 
-' " Thine, O King, are those four and eighty thou-
-sand state horses, with trappings of gold, and
+' " Thine, O King, are those four and eighty thousand state horses, with trappings of gold, and
 gilded flags, and golden coverings of network, —
 of which ' Thunder-cloud/ the king of horses, is the
 chief. Arise, O King, re-awaken thy desire for these !
 quicken thy longing after life !
 
-' " Thine, O King, are those four and eighty thou-
-sand chariots, with coverings of the skins of lions,
+' " Thine, O King, are those four and eighty thousand chariots, with coverings of the skins of lions,
 and of tigers, and of panthers, — of which the chariot
 called 'the Flag of Victory* is the chief. Arise,
 O King, re-awaken thy desire for these! quicken
 thy longing after life !
 
-' " Thine, O King, are those four and eighty thou-
-sand gems, of which the Wondrous Gem is the
+' " Thine, O King, are those four and eighty thousand gems, of which the Wondrous Gem is the
 chief. Arise, O King, re-awaken thy desire for these!
 quicken thy longing after life !
 
-' " Thine, O King, are those four and eighty thou-
-sand wives, of whom the Queen of Glory is the
+' " Thine, O King, are those four and eighty thousand wives, of whom the Queen of Glory is the
 chief. Arise, O King, re-awaken thy desire for these!
 quicken thy longing after life !
 
-' " Thine, O King, are those four and eighty thou-
-sand yeomen, of whom the Wonderful Steward is
+' " Thine, O King, are those four and eighty thousand yeomen, of whom the Wonderful Steward is
 the chief. Arise, O King, re-awaken thy desire for
 these ! quicken thy longing after life !
 
-' " Thine, O King, are those four and eighty thou-
-sand nobles, of whom the Wonderful Adviser is the
-
-
-280 THE GREAT KING OF GLORY.
+' " Thine, O King, are those four and eighty thousand nobles, of whom the Wonderful Adviser is the
 
 
 CH.
@@ -15424,19 +13680,15 @@ CH.
 chief. Arise, O King, re-awaken thy desire for these!
 quicken thy longing after life !
 
-1 " Thine, O King, are those four and eighty thou-
-sand cows, with jute trappings, and horns tipped
+1 " Thine, O King, are those four and eighty thousand cows, with jute trappings, and horns tipped
 with bronze. Arise, O King, re-awaken thy desire
 for these ! quicken thy longing after life !
 
-* " Thine, O King, are those four and eighty thou-
-sand myriads of garments, of delicate textures, of
+* " Thine, O King, are those four and eighty thousand myriads of garments, of delicate textures, of
 flax, and cotton, and silk, and wool. Arise, O King,
-re-awaken thy desire for these! quicken thy long-
-ing after life !
+re-awaken thy desire for these! quicken thy longing after life !
 
-4 " Thine, O King, are those four and eighty thou-
-sand dishes, in which, in the evening and in the
+4 " Thine, O King, are those four and eighty thousand dishes, in which, in the evening and in the
 morning, rice is served. Arise, O King, re-awaken
 thy desire for these ! quicken thy longing after life !"
 
@@ -15471,46 +13723,37 @@ II.
 mahA-sudassana sutta.
 
 
-281
-
-
 four and eighty thousand cities, the chief of which
 is the royal city of Kusivatl. Cast away desire for
 these ! long not after life !
 
-* " Thine, O King, are these four and eighty thou-
-sand palaces, the chief of which is the Palace of
+* " Thine, O King, are these four and eighty thousand palaces, the chief of which is the Palace of
 Righteousness. Cast away desire for these! long
 not after life !
 
-' " Thine, O King, are these four and eighty thou-
-sand chambers, the chief of which is the chamber
+' " Thine, O King, are these four and eighty thousand chambers, the chief of which is the chamber
 of the Great Complex. Cast away desire for these !
 long not after life !
 
-4 44 Thine, O King, are these four and eighty thou-
-sand divans, of gold, and silver, and ivory, and
+4 44 Thine, O King, are these four and eighty thousand divans, of gold, and silver, and ivory, and
 sandal wood, spread with long-haired rugs, and
 cloths embroidered with flowers, and magnificent
 antelope skins; covered with lofty canopies; and
 provided at both ends with purple cushions. Cast
 away desire for these ! long not after life !
 
-4 44 Thine, O King, are these four and eighty thou-
-sand state elephants, with trappings of gold, and
+4 44 Thine, O King, are these four and eighty thousand state elephants, with trappings of gold, and
 gilded flags, and golden coverings of network, — of
 which the king of elephants, called 4 the Changes
 of the Moon/ is chief. Cast away desire for these !
 long not after life!
 
-4 44 Thine, O King, are these four and eighty thou-
-sand state horses, with trappings of gold, and
+4 44 Thine, O King, are these four and eighty thousand state horses, with trappings of gold, and
 gilded flags, and golden coverings of network, —
 of which 4 Thunder-cloud/ the king of horses, is the
 chief. Cast away desire for these ! long not after life!
 
-4 44 Thine, O King, are these four and eighty thou-
-sand chariots, with coverings of the skins of lions,
+4 44 Thine, O King, are these four and eighty thousand chariots, with coverings of the skins of lions,
 and of tigers, and of panthers, — of which the chariot
 called 4 the Flag of Victory* is the chief. Cast away
 desire for these ! long not after life !
@@ -15519,36 +13762,29 @@ desire for these ! long not after life !
 282 THE GREAT KING OF GLORY. CH.
 
 
-* " Thine, O King, are these four and eighty thou-
-sand gems, of which the Wondrous Gem is the chief.
+* " Thine, O King, are these four and eighty thousand gems, of which the Wondrous Gem is the chief.
 Cast away desire for these ! long not after life !
 
-* " Thine, O King, are these four and eighty thou-
-sand wives, of whom the Queen of Glory is the chief.
+* " Thine, O King, are these four and eighty thousand wives, of whom the Queen of Glory is the chief.
 Cast away desire for these ! long not after life !
 
-' " Thine, O King, are these four and eighty thou-
-sand yeomen, of whom the Wonderful Steward is
+' " Thine, O King, are these four and eighty thousand yeomen, of whom the Wonderful Steward is
 the chief. Cast away desire for these! long not
 after life!
 
-* " Thine, O King, are these four and eighty thou-
-sand nobles, of whom the Wonderful Adviser is
+* " Thine, O King, are these four and eighty thousand nobles, of whom the Wonderful Adviser is
 the chief. Cast away desire for these! long not
 after life!
 
-' " Thine, O King, are these four and eighty thou-
-sand cows, with jute trappings, and horns tipped
+' " Thine, O King, are these four and eighty thousand cows, with jute trappings, and horns tipped
 with bronze. Cast away desire for these ! long not
 after life!
 
-' " Thine, O King, are these four and eighty thou-
-sand myriads of garments, of delicate textures, of
+' " Thine, O King, are these four and eighty thousand myriads of garments, of delicate textures, of
 flax, and cotton, and silk, and wool. Cast away
 desire for these ! long not after life !
 
-' " Thine, O King, are these four and eighty thou-
-sand dishes, in which, in the evening and in the
+' " Thine, O King, are these four and eighty thousand dishes, in which, in the evening and in the
 morning, rice is served. Cast away desire for these!
 long not after life ! "
 
@@ -15573,33 +13809,28 @@ four and eighty thousand cities, the chief of which
 is the royal city of Kusivatl. Cast away desire for
 these ! long not after life !
 
-'"Thine, O King, are these four and eighty thou-
-sand palaces, the chief of which is the Palace of
+'"Thine, O King, are these four and eighty thousand palaces, the chief of which is the Palace of
 Righteousness. Cast away desire for these! long
 not after life !
 
-' " Thine, O King, are these four and eighty thou-
-sand chambers, the chief of which is the chamber
+' " Thine, O King, are these four and eighty thousand chambers, the chief of which is the chamber
 of the Great Complex. Cast away desire for these !
 long not after life!
 
-' " Thine, O King, are these four and eighty thou-
-sand divans, of gold, and silver, and ivory, and
+' " Thine, O King, are these four and eighty thousand divans, of gold, and silver, and ivory, and
 sandal wood, spread with long-haired rugs, and
 cloths embroidered with flowers, and magnificent
 antelope skins ; covered with lofty canopies ; and
 provided at both ends with purple cushions. Cast
 away desire for these ! long not after life !
 
-4 " Thine, O King, are these four and eighty thou-
-sand state elephants, with trappings of gold, and
+4 " Thine, O King, are these four and eighty thousand state elephants, with trappings of gold, and
 gilded flags, and golden coverings of network, — of
 which the king of elephants, called 'the Changes
 of the Moon/ is chief. Cast away desire for these !
 long not after life !
 
-' " Thine, O King, are these four and eighty thou-
-sand state horses, with trappings of gold, and gilded
+' " Thine, O King, are these four and eighty thousand state horses, with trappings of gold, and gilded
 flags, and golden coverings of network, — of which
 * Thunder-cloud/ the king of horses, is the chief.
 Cast away desire for these ! long not after life !
@@ -15614,36 +13845,29 @@ and of tigers, and of panthers, — of which the chariot
 called ' the Flag of Victory ' is the chief. Cast away
 desire for these ! long not after life !
 
-' " Thine, O King, are these four and eighty thou-
-sand gems, of which the Wondrous Gem is the chief.
+' " Thine, O King, are these four and eighty thousand gems, of which the Wondrous Gem is the chief.
 Cast away desire for these ! long not after life !
 
-' " Thine, O King, are these four and eighty thou-
-sand wives, of whom the Queen of Glory is the chief.
+' " Thine, O King, are these four and eighty thousand wives, of whom the Queen of Glory is the chief.
 Cast away desire for these ! long not after life !
 
-1 " Thine, O King, are these four and eighty thou-
-sand yeomen, of whom the Wonderful Steward is
+1 " Thine, O King, are these four and eighty thousand yeomen, of whom the Wonderful Steward is
 the chief. Cast away desire for these! long not
 after life!
 
-* " Thine, O King, are these four and eighty thou-
-sand nobles, of whom the Wonderful Adviser is
+* " Thine, O King, are these four and eighty thousand nobles, of whom the Wonderful Adviser is
 the chief. Cast away desire for these! long not
 after life !
 
-' " Thine, O King, are these four and eighty thou-
-sand cows, with jute trappings, and horns tipped
+' " Thine, O King, are these four and eighty thousand cows, with jute trappings, and horns tipped
 with bronze. Cast away desire for these ! long not
 after life!
 
-* " Thine, O King, are these four and eighty thou-
-sand myriads of garments, of delicate textures, of
+* " Thine, O King, are these four and eighty thousand myriads of garments, of delicate textures, of
 flax, and cotton, and silk, and wool. Cast away
 desire for these ! long not after life !
 
-* " Thine, O King, are these four and eighty thou-
-sand dishes, in which, in the evening and in the
+* " Thine, O King, are these four and eighty thousand dishes, in which, in the evening and in the
 morning, rice is served. Cast away desire for these!
 long not after life ! "
 
@@ -15658,9 +13882,6 @@ II.
 mahA-sudassana sutta.
 
 
-285
-
-
 just so were the feelings he experienced, Ananda,
 as death came upon the Great King of Glory.
 
@@ -15670,13 +13891,11 @@ of Brahm&.
 
 36. ' For eight and forty thousand years, Ananda,
 the Great King of Glory lived the happy life of a
-prince; for eight and forty thousand years he was vice-
-roy and heir-apparent ; for eight and forty thousand
+prince; for eight and forty thousand years he was viceroy and heir-apparent ; for eight and forty thousand
 years he ruled the kingdom ; and for eight and forty
 thousand years he lived, as a layman, the noble life
 in the Palace of Righteousness. And then, when full
-of noble thoughts, he died ; he entered, after the dis-
-solution of the body, the noble world of Brahma 1 .
+of noble thoughts, he died ; he entered, after the dissolution of the body, the noble world of Brahma 1 .
 
 37. ' Now it may be, Ananda, that you may think
 (i The Great King of Glory of that time was another
@@ -15691,8 +13910,7 @@ of Kus&vatl.
 ' Mine were the four and eighty thousand palaces,
 of which the chief was the Palace of Righteousness.
 
-* Mine were the four and eighty thousand cham-
-bers, of which the chief was the chamber of the
+* Mine were the four and eighty thousand chambers, of which the chief was the chamber of the
 Great Complex.
 
 ' Mine were the four and eighty thousand divans,
@@ -15700,15 +13918,8 @@ Great Complex.
 
 The 'noble thoughts' are the Brahma-vih&ras, described
 above, Chap. II, §§ 8-1 1. The 'noble life' is the Brahma^ariyaw,
-which does not mean the same as it does in Sanskrit. The adjec-
-tive Brahma may have reference here also to the subsequent (and
+which does not mean the same as it does in Sanskrit. The adjective Brahma may have reference here also to the subsequent (and
 consequent?) rebirth in the Brahma-loka.
-
-
-286
-
-
-THE GREAT KING OF GLORY.
 
 
 CH.
@@ -15728,8 +13939,7 @@ was chief.
 
 'Mine were the four and eighty thousand state
 horses, with trappings, of gold, and gilded flags,
-and golden coverings of network, — of which " Thun-
-der-cloud," the king of horses, was the chief.
+and golden coverings of network, — of which " Thunder-cloud," the king of horses, was the chief.
 
 * Mine were the four and eighty thousand chariots,
 with coverings of the skins of lions, and of tigers,
@@ -15766,9 +13976,6 @@ II.
 mahA-sudassana sutta.
 
 
-287
-
-
 38, ' Of those four and eighty thousand cities,
 Ananda, one was that city in which, at that time, I
 used to dwell — to wit, the royal city of Kus&vati.
@@ -15787,8 +13994,7 @@ Ananda, one was that divan which, at that time,
 I used to occupy — to wit, one of gold, or one of
 silver, or one of ivory, or one of sandal wood.
 
-' Of those four and eighty thousand state ele-
-phants too, Ananda, one was that elephant which,
+' Of those four and eighty thousand state elephants too, Ananda, one was that elephant which,
 at that time, I used to ride — to wit, the king of
 elephants, " the Changes of the Moon."
 
@@ -15813,9 +14019,6 @@ apparel which, at that time, I wore— to wit, one of
 delicate texture, of linen, or cotton, or silk, or wool.
 
 
-288 THE GREAT KING OF GLORY.
-
-
 CH.
 
 
@@ -15825,11 +14028,9 @@ I ate a measure of rice and the curry suitable thereto.
 
 
 39. ' See, Ananda, how all these things are now
-past, are ended, have vanished away. Thus im-
-permanent, Ananda, are component things; thus
+past, are ended, have vanished away. Thus impermanent, Ananda, are component things; thus
 transitory, Ananda, are component things; thus
-untrustworthy, Ananda, are component things. In-
-somuch, Ananda, is it meet to be weary of, is it meet
+untrustworthy, Ananda, are component things. Insomuch, Ananda, is it meet to be weary of, is it meet
 to be estranged from, is it meet to be set quite free
 from the bondage of all component things !
 
@@ -15838,8 +14039,7 @@ spot my body had been six times buried. And
 when I was dwelling here as the righteous king
 who ruled in righteousness, the lord of the four
 regions of the earth, the conqueror, the protector
-of his people, the possessor of the seven royal trea-
-sures — that was the seventh time.
+of his people, the possessor of the seven royal treasures — that was the seventh time.
 
 41. 'But I behold not any spot, Ananda, in the
 world of men and gods, nor in the world of M&ra,
@@ -15863,9 +14063,6 @@ II.
 
 
 mahA-sudassana sutta.
-
-
-289
 
 
 42. Thus spake the Blessed One ; and when
@@ -15906,15 +14103,11 @@ of the gods, and the discussion in the Introduction to this Sutta.
 U
 
 
-9
-
 SABBASAVA-SUTTA.
 
 
 U 2
 
-
-INTRODUCTION
 
 TO THE
 
@@ -15930,8 +14123,7 @@ I had hoped from the Rev. David da Silva's analysis
 of the Sutta in the Ceylon Friend for 1873, that it would
 determine the exact meaning of the difficult word Asava
 as used in the theory of Arahatship, and in the important
-passage (the Faith, Reason, and Works paragraph) re-
-peated so often in the Mahaparinibbina Sutta. It will
+passage (the Faith, Reason, and Works paragraph) repeated so often in the Mahaparinibbina Sutta. It will
 be seen that this is scarcely the case, but as it does throw
 light on the ideas wrapped up in the word, and contains
 a very interesting passage 1 on the especial value attached
@@ -15940,30 +14132,23 @@ agnosticism, I have adhered to the intention of including
 it in this volume.
 
 The word Asava seems in this Sutta to be used in a
-general sense, — not confined only to the Asavas of sen-
-suality, individuality, delusion, and ignorance, but including
+general sense, — not confined only to the Asavas of sensuality, individuality, delusion, and ignorance, but including
 the more various defilements or imperfections of mind, out
 of which those especial defilements will proceed.
 
-Incidentally reference is made to the well-known Bud-
-dhist doctrine, that the right thing is to seek after the
+Incidentally reference is made to the well-known Buddhist doctrine, that the right thing is to seek after the
 Nirvana of a perfect life in Arahatship, and not to trouble
-and confuse oneself by the discussion of speculative ques-
-tions as to past or future existence, or even as to the
+and confuse oneself by the discussion of speculative questions as to past or future existence, or even as to the
 
 
 1 §§ 9» *<>•
-
-
-294
 
 
 sabbAsava sutta.
 
 
 presence within the body of a soul. Buddhism is not only
-independent of the theory of soul, but regards the con-
-sideration of that theory as worse than profitless, as the
+independent of the theory of soul, but regards the consideration of that theory as worse than profitless, as the
 source of manifold delusions and superstitions. Practically
 this comes, however, to much the same thing as the denial
 of the existence of the soul ; just as agnosticism is, at
@@ -15984,14 +14169,12 @@ from the fact that elsewhere the knowledge of them, of their
 origin, of their cessation, and of the way that leads to their
 cessation is placed on the road to Arahatship immediately
 after, and parallel to, the knowledge of Suffering, of its
-origin, of its cessation, and of the way that leads to its ces-
-sation — the knowledge, that is, of the four Noble Truths 3 .
+origin, of its cessation, and of the way that leads to its cessation — the knowledge, that is, of the four Noble Truths 3 .
 
 The Asavas there meant are sensuality, individuality
 (or life), and ignorance ; and the expressions c to him who
 knows, to him who sees' (^inato passato) are used
-there much in the same way as they are in our § 3. Per-
-haps this was the passage which Burnouf had in his mind
+there much in the same way as they are in our § 3. Perhaps this was the passage which Burnouf had in his mind
 when he wrongly said 4 that he had found in the Mah&-
 parinibbclna Sutta an enumeration of three classes of
 Asavas, whereas that Sutta always divides them into four
@@ -16010,12 +14193,6 @@ or flowing/ or (thence) ' a leak ; ' but as that figure is not
 2 See above, p. 9.
 
 4 Lotus de la Bonne Loi, p. 823.
-
-
-INTRODUCTION.
-
-
-295
 
 
 used in English in a spiritual sense, it is necessary to
@@ -16076,9 +14253,6 @@ who considers wisely, Asavas which have not arisen
 SABBASAVA SUTTA.
 
 
-297
-
-
 spring not up, and Asavas which have arisen do
 not increase.
 
@@ -16088,15 +14262,13 @@ be abandoned by subjugation, there are Asavas
 which should be abandoned by right use, there are
 Asavas which should be abandoned by endurance,
 there are Asavas which should be abandoned by
-avoidance, there are Asavas which should be aban-
-doned by removal, there are Asavas which should
+avoidance, there are Asavas which should be abandoned by removal, there are Asavas which should
 be abandoned by cultivation.
 
 5. 4 And which, brethren, are the Asavas which
 should be abandoned by insight 1 ?
 
-' In the first place, brethren, the ignorant uncon-
-verted man, who perceives not the Noble Ones, who
+' In the first place, brethren, the ignorant unconverted man, who perceives not the Noble Ones, who
 comprehends not, nor is trained according to the
 doctrine of the noble ones ; who perceives not good
 men, who comprehends not, nor is trained according
@@ -16108,8 +14280,7 @@ things that ought to be considered, those he does
 not consider.
 
 6. * And which, brethren, are those things which
-he should not consider, which he nevertheless con-
-siders ?
+he should not consider, which he nevertheless considers ?
 
 * There are things which, when a man considers
 them, the Asava of Lust springs up within him, which
@@ -16118,9 +14289,6 @@ which had sprung up, grows great; the Asava of
 
 
 1 Dassand.
-
-
-298
 
 
 ALL THE ASAVAS.
@@ -16151,12 +14319,10 @@ Ignorance, if it had not sprung up before, springs
 not up within him; and the Asava of Ignorance,
 which had sprung up, is put away.
 
-' These are the things which ought to be con-
-sidered, things which he does not consider.
+' These are the things which ought to be considered, things which he does not consider.
 
 8. ' It is by his consideration of those things,
-which ought not to be considered ; and by his non-
-consideration of those things, which ought to be
+which ought not to be considered ; and by his nonconsideration of those things, which ought to be
 considered, that Asavas arise within him which had
 not sprung up ; and Asavas which had sprung up,
 grow great/
@@ -16169,9 +14335,6 @@ are past? How was I during the ages that are
 
 
 SABBASAVA SUTTA-
-
-
-299
 
 
 past ? Having been what, what did I become in the
@@ -16208,8 +14371,7 @@ now this soul of mine is permanent, lasting, eternal,
 has the inherent quality of never changing, and
 will continue for ever and ever ! "
 
-11. 4 This, brethren, is called the walking in delu-
-sion, the jungle of delusion 2 , the wilderness of de-
+11. 4 This, brethren, is called the walking in delusion, the jungle of delusion 2 , the wilderness of de-
 lusion, the puppet show of delusion, the writhing of
 delusion, the fetter of delusion.
 
@@ -16221,15 +14383,11 @@ delusion, the fetter of delusion.
 correct, to gaha«a/w.
 
 
-300
-
-
 ALL THE ASAVAS.
 
 
 the ignorant unconverted man becomes not freed
-from birth, decay, and death, from sorrows, lamenta-
-tions, pains, and griefs, and from expedients 1 — he
+from birth, decay, and death, from sorrows, lamentations, pains, and griefs, and from expedients 1 — he
 does not become free, I say, from pain.
 
 
@@ -16240,8 +14398,7 @@ the doctrine of the Noble Ones ; who perceives good
 men, who comprehends, and is trained according to,
 the doctrine of good men ; he understands both
 what things ought to be considered, and what things
-ought not to be considered — and thus understand-
-ing, the things that ought to be considered those he
+ought not to be considered — and thus understanding, the things that ought to be considered those he
 considers ; and the things that ought not to be
 considered, those he does not consider.
 
@@ -16260,8 +14417,7 @@ springs up within him, which had not sprung up
 before ; and the Asava of Ignorance, which had
 sprung up, grows great.
 
-4 These are the things which ought not to be con-
-sidered, things which he considers.
+4 These are the things which ought not to be considered, things which he considers.
 
 
 1 That is, the practice of rites and ceremonies and the worship
@@ -16269,9 +14425,6 @@ of Gods.
 
 
 sabbAsava sutta.
-
-
-301
 
 
 1 5. ' And which, brethren, are those things which
@@ -16288,24 +14441,19 @@ Ignorance, if it had not sprung up before, springs not
 up within him ; and the Asava of Ignorance, which
 had sprung up, is put away.
 
-* These are the things which ought to be con-
-sidered, things which he does not consider.
+* These are the things which ought to be considered, things which he does not consider.
 
 16. * It is by his not considering those things
-which ought to be considered, and by his con-
-sidering those things which ought not to be con-
+which ought to be considered, and by his considering those things which ought not to be con-
 sidered, that Asavas which had not sprung up within
 him spring not up, and Asavas which had sprung up
 are put away.
 
-17. 4 He considers, "This is suffering." He con-
-siders, " This is the origin of suffering." He con-
+17. 4 He considers, "This is suffering." He considers, " This is the origin of suffering." He con-
 siders, "This is the cessation of suffering." He
-considers, " This is the way which leads to the cessa-
-tion of suffering." And from him, thus considering,
+considers, " This is the way which leads to the cessation of suffering." And from him, thus considering,
 the three fetters fall away — the delusion of self,
-hesitation, and the dependence on rites and cere-
-monies.
+hesitation, and the dependence on rites and ceremonies.
 
 ' These are the Asavas, brethren, which are to be
 abandoned by insight.
@@ -16314,9 +14462,6 @@ abandoned by insight.
 by subjugation (samvari) ?
 
 * Herein, brethren, a Bhikkhu, wisely reflecting/
-
-
-302
 
 
 ALL THE ASAVAS.
@@ -16340,8 +14485,7 @@ and distress, are not.
 20. * Wisely reflecting, he remains shut in by the
 subjugation of the organ of Smell. For whereas to
 the man not shut in by the subjugation of the organ
-of smell Asavas may arise, full of vexation and dis-
-tress, to the man shut in by the subjugation of the
+of smell Asavas may arise, full of vexation and distress, to the man shut in by the subjugation of the
 organ of smell the Asavas, full of vexation and
 distress, are not.
 
@@ -16365,14 +14509,10 @@ distress, are not.
 sabbAsava sutta.
 
 
-303
-
-
 23. ' Wisely reflecting, he remains shut in by the
 subjugation of the organ of Mind. For whereas to
 the man not shut in by the subjugation of the organ
-of mind Asavas may arise, full of vexation and dis-
-tress, to the man shut in by the subjugation of
+of mind Asavas may arise, full of vexation and distress, to the man shut in by the subjugation of
 the organ of mind the Asavas, full of vexation and
 distress, are not.
 
@@ -16410,9 +14550,6 @@ climate, and to secure the delight of privacy.
 however, is wrong.
 
 
-1
-
-
 304 ALL THE ASAVAS.
 
 27. 'Wisely reflecting, he makes use of medicine
@@ -16432,14 +14569,11 @@ abandoned by endurance 1 ?
 
 ' Herein, brethren, a Bhikkhu, wisely reflecting, is
 patient under cold and heat, under hunger and
-thirst, under the contact of gad-flies and mosqui-
-toes, of wind and sun, and snakes ; he is enduring
+thirst, under the contact of gad-flies and mosquitoes, of wind and sun, and snakes ; he is enduring
 under abusive words, under bodily suffering, under
-pains however sharp, rough, severe, unpleasant, dis-
-agreeable, and destructive even to life.
+pains however sharp, rough, severe, unpleasant, disagreeable, and destructive even to life.
 
-30. ' For whereas, brethren, to the man who en-
-dureth not, Asavas may arise, full of vexation and
+30. ' For whereas, brethren, to the man who endureth not, Asavas may arise, full of vexation and
 distress ; to him who endures, the Asavas, full of
 vexation and distress, are not.
 
@@ -16465,16 +14599,11 @@ precipice, a dirty tank or pool. When tempted to
 SABBASAVA SUTTA.
 
 
-305
-
-
 sit in a place where one should not sit, or to walk
-where one should not walk, or to cultivate the ac-
-quaintance of bad companions, he is skilled to shun
+where one should not walk, or to cultivate the acquaintance of bad companions, he is skilled to shun
 the evil: and wisely reflecting he avoids that, as
 a place whereon one should not sit, that, as a place
-wherein one should not walk, those men, as com-
-panions that are bad.
+wherein one should not walk, those men, as companions that are bad.
 
 32. 'For whereas, brethren, to the man who
 avoideth not, Asavas may arise, full of vexation
@@ -16492,12 +14621,10 @@ when there has sprung up within him a lustful
 thought, that he endureth not, he puts it away, he
 removes it, he destroys it, he makes it not to be ;
 when there has sprung up within him an angry
-thought, a malicious thought, some sinful, wrong dis-
-position, that he endureth not, he puts it away, he
+thought, a malicious thought, some sinful, wrong disposition, that he endureth not, he puts it away, he
 removes it, he destroys it, he makes it not to be.
 
-34. ' For whereas, brethren, to the man who re-
-moveth not, Asavas may arise, full of vexation and
+34. ' For whereas, brethren, to the man who removeth not, Asavas may arise, full of vexation and
 distress; to him who removes, the Asavas, full of
 vexation and distress, are not.
 
@@ -16538,8 +14665,7 @@ on seclusion, dependent on passionlessness, dependent
 on the utter ecstasy of contemplation, resulting in
 the passing off of thoughtlessness.
 
-37. * For whereas, brethren, to the man who cul-
-tivated not, Asavas may arise, full of vexation and
+37. * For whereas, brethren, to the man who cultivated not, Asavas may arise, full of vexation and
 distress ; to him who cultivates, the Asavas, full of
 vexation and distress, are not.
 
@@ -16562,14 +14688,10 @@ away the Asavas to be abandoned by avoidance,
 sabbAsava sutta.
 
 
-307
-
-
 and by removal has put away the Asavas to be
 abandoned by removal, and by cultivation has put
 away the Asavas to be abandoned by cultivation —
-that Bhikkhu, brethren, remains shut in by the sub-
-jugation of the Asavas, he has destroyed that
+that Bhikkhu, brethren, remains shut in by the subjugation of the Asavas, he has destroyed that
 Craving Thirst, by thorough penetration of mind he
 has rolled away every Fetter, and he has made an
 end of Pain/
@@ -16581,1601 +14703,3 @@ Blessed One.
 
 
 End of the Sabbisava Sutta.
-
-
-x 2
-
-
-INDEX.
-
-
-Abhibhayatanani, the eight, pages 49,
-50.
-
-Addhariya Brahmans, 171.
-Age of the Suttas, x.
-A^atasattu, king of Magadha, 1,
-131.
-
-A^ita,one of the Six Teachers, 106.
-A&ravati river, 167, 178.
-Alabaster, Mr., 141.
-Allakappa, name of a place, 13a.
-AVara Kalama, teacher, 75-77.
-Ambagama, near Vesali, 66.
-Ambala///6ika, near Ra^agaha, 12.
-Ambapali, the courtezan, 28.
-
-— entertains the Buddha, 30-32.
-Ananda's sorrow and imperfection,
-
-95, 96.
-
-— his character, 97, 98, 118, 119.
-Ananda iTetiya, 66.
-
-Angels. See Tavatiaasa.
-
-— called devatS, 45.
-
-— on the point of a needle, 88.
-
-— desire to become an, is spiritual
-
-bondage, 227.
-Angirasa, a Vedic poet, 172.
-Apadesa, 66.
-
-Appama««as, the four, 201, 273.
-Arahat Buddhas, 13, 104.
-Arahats, who are, &c, 107, 119.
-Arahatship and the Ten Fetters,
-222.
-
-Arahatship and Nirvaaa, 243.
-Asavas, 293-307.
-
-— translation of, 295.
-Assemblies, the eight, 48, 49.
-Astrology, 197, 198.
-Atuma, name of a village, 77.
-Atthaka, Vedic poet, 172.
-
-Bahuputta Xetiya, 40.
-Baptism, 1.
-
-Beal, the Rev. Samuel, 118, 255.
-Beluva, near Vesali, 34.
-
-
-Benares, 99.
-Benares muslin, 54, 92.
-Bhadda, convert at Nadika, 25, 26.
-Bhagu, a Vedic poet, 172.
-Bha^Ja-gama, near Vesali, 64, 66.
-Bharadvi^a, a young Brahman, 168-
-170.
-
-— a Vedic poet, 17a.
-Bhikkhu, meaning of, 5.
-Bhoga-nagara, near Vesali, 66.
-Bible, texts in, referred to —
-
-1 Samuel xxviii, 208.
-
-2 Kings vi. 17, 19.
-Matthew v. 20, 160.
-Matthew xi. 21, 46.
-Matthew xv. 14, xxii. 26, 173.
-Matthew xvii. 31, 207.
-Mark ix. 29, 207.
-
-Luke vii. 37-39, 34-
-Acts ii. 6, 142.
-Philippians ii. 12, 114.
-Philippians iii. 13, 7.
-2 Peter i. 10, 114.
-Revelation xxi. 19-21, S45, 349.
-Bigandet's Legend of Gaudama, xxxii.
-
-— quoted, xvi, 32, 33, 34, 8a.
-Bodisat, the, 339.
-Bogg^anga, 9, 14.
-
-Bonds, the five, 181.
-
-— the ten, 222.
-
-Brahma, the supreme deity, 116,
-
-162-165.
-Brahmaiariya Brahmans, 171.
-Brahmans, 160, 180-185.
-
-— different schools of, 171.
-Brahma-viharas, the four, 201, 273.
-Brick Hall, the, at Nadika, 24.
-Buddha, the, description of character
-
-of, 27, 169.
-
-— his relation to the Order, 37.
-
-— his last illness, 35.
-
-— date of death of the, xlviii.
-Buddhahood, how reached, 14.
-
-
-3io
-
-
-THE BUDDHIST SUTTAS.
-
-
-Buddhas, past and future, 13, 97,
-104.
-
-— description of character of, 186.
-Buddhism, ancient summary of, 62,
-
-63.
-
-— another, 65.
-
-— central doctrine of, 143, 144.
-Buddhist era, date of, xlv-xlviii.
-Buddhists, modern sects of, 129.
-Bulis of Allakappa, a clan, 132.
-Burial rites, xl-xlv, 92.
-Burnouf, Eugene, 50, 65, 75, 167.
-
-Cats, 14.
-
-Causation, chain of, 208.
-Cave dwellings, 56.
-Chetiyas, 4, 66. See tfetiya.
-
-— the seven at Vesali, 40, 58.
-Chinese works on the Great De-
-cease, xxxvi-xxxix.
-
-Christianity, is it indebted to Bud-
-
-• dhism? 165, 166.
-Clans, customs of, 3, 4.
-Cloth of gold, 80-82.
-
-— of Benares, 92.
-
-Conditions of the welfare of a com-
-munity, 6-1 1.
-
-— the Four Noble, 64, 65.
-Confections (Sawkhlra), 242, 243.
-Council of Ra^agaha, xii, xiii, xv.
-
-— of Patna, xiii.
-
-— of Vesali, xvii, xix.
-Cremation ceremonies, xl.
-Cunningham, General, 47, 263.
-
-Da Cunha, Mr., 140.
-Da Silva, the Rev. David, 211, 293.
-Dagaba, or tope, 93, 1 31-135.
-Dagabas, date of earliest, xvii.
-Dawn, as the Woman-Treasure of
-
-the King of Glory, 257.
-Deliverance, eight stages of, 51, 52.
-Delusion. See Dittb'u
-Destiny, result of actions, 25, 26.
-Devati, note on meaning of, 45.
-Dhamma, 62, 64, 117, 118.
-Dhamma-yfcakkhu, 82, 96, 119, 127,
-
-153.
-
-Dibba-£akkbu, 209, 218.
-Dipavawsa, xxii.
-Vutbi. See Asava.
-
-— six kinds of, in detail, 297.
-Divinations condemned, 196.
-Dona, a BrUthman, 133, 134.
-
-
-Earthquake, occurrence of, 44.
-
-— eight causes of, 45-48.
-Elephant look, curious belief as to,
-
-64.
-
-Era, date of the Buddhist, xlv-xlviii.
-Esoteric doctrine, none in Bud-
-dhism, 36.
-Existence, cause of renewed, 6.
-Eye, epithet of the Buddha, 84.
-EyeofTruth. See Dhamma-iakkhii.
-
-Fairies of the earth, 18, 19, 45.
-Faith, reason, and works, it.
-Fa Kheu Pi Hu, a Chinese work,
-117.
-
-Fausboll, Professor, 100.
-Feer, M. Leon, 139, 140.
-Fetters, the ten, 222, 307.
-
-— the first three, 299.
-
-Final perseverance of the saints, 26,
-
-27, "4.
-Fortune-telling, 197, 199.
-Foucaux, M., 139.
-Funeral ceremonies, xl-xlv.
-
-Gahaai, curious belief as to, 260.
-Gahapati, pater familias, 257, 258.
-Games of chance and skill, 193.
-Gandhara, a city, 135.
-Gods, good men so called, 20, 21.
-Gogerly, the Rev. Samuel, 139, 144,
-
-150, 260.
-Gotama, name of the Buddha, 103,
-
-104, 169.
-Gotama's gate, 21.
-
-— own teaching, xx-xxiL
-Gotamaka Jfetiya, 40.
-
-Great Decease, meaning of, xxxil
-Grimblot's ' Sept Suttas Palis/ 50.
-
-Gains (and see Niga*f£a), 1.
-Gambugama, near Vesali, 66.
-Gamisso;zi, a Brahman, 167.
-GMna, 115, 210, 212.
-
-— the four, in detail, 272.
-
-Hardy, the Rev. Spence, 129, nh
-149.
-
-Hattbi-gama, near Vesali, 66.
-Hell, corresponding belief to, among
-
-the Buddhists, 17.
-Hindrances, the five, 182.
-Huth's 'Life of Buckle/ quoted,
-
-164.
-
-
-Earth rests on water, 45.
-
-
-Iddhi, 2, 40, 259.
-
-
-INDEX.
-
-
-Idealists, European and Buddhist,
-49-
-
-I£££agala, in Kosala, 167.
-Incarnation of the Buddha, 46, 47.
-Infinite feelings, the four, incumbent
-
-on the Buddhist, 201, 273.
-Isigili, Mount at Ra^agaha, 56.
-
-Kakudha, convert at Nadika, 16, 25.
-Kakuttha river, 74.
-Ka^Syana, one of the Six Teachers,
-106.
-
-Kalandaka-nivapa, 56.
-Kalinga, convert at Nadika, 25,
-26.
-
-Kalpa, an aeon, 41.
-Ka/isoka, xvi.
-
-Karma, 84, 165, 214, 217, 271.
-Kassapa. See Pfira«a-Kassapa and
-MahS-Kassapa.
-
-— a Vedic poet, 172.
-Ka/issabha, convert at Nadika, 25,
-
-26.
-
-Koliyas of Ramagama, a clan, 132.
-Ko»ika=A < gatasattu, 1.
-Kosambi, a great city, 99.
-Kofigama, near Patna, 23.
-Ku»ika=A 4 gatasattu, 1.
-Kusavati, former name of KusinarS,
-100, 248.
-
-Kusinarl, where the Buddha died,
-
-73, 100, 248.
-KMgara Hall at Vesali, 59,
-
-Afakkavatti, ideal of, xviii-xx.
-Afampi, a city, 99.
-ATandragupta, xix.
-ATanki, a Brahman of Kosala, 167.
-ATapala Afetiya, 40, 58.
-AT^andava Brahmans, 171.
-AT^andoka Brahmans, 171.
-ATAanna, the penalty imposed upon,
-112.
-
-— attains Nirvawa, 1 1 3.
-
-ATunda, the smith, of Pava, 70-73,
-83, 84.
-
-Afundaka, a mendicant, 82, 83.
-
-Lalita Vistara, quoted, 47, 75, 139,
-
-209, 216, 218, 251.
-Life, future, virtue inspired by hope
-
-of is impure, 10, 222.
-Light of the world, 89.
-LUi^avis, of Vesali, 31, 131.
-Lineage of the Buddhist faith, 14.
-Love, duty of universal, 163.
-
-
-Love, the true path to union with
-God, 161.
-
-— how a Buddhist should love the
-
-world, 201, 273.
-
-Maddaku^i at Ra^agaha, 56.
-Mahl-Kassapa, the great disciple,
-
-126-129.
-MahtpadesS, the four, 66-69.
-Mahavana, at Vesali, 59, 60.
-Makkhali, one of the Six Teachers,
-
-106.
-
-Maku/a-bandhana, shrine of the Mal-
-las, 124.
-
-Malilankara-vatthu, the, xvi, xxxii.
-Mallas ofKusinirS, 121-135.
-
-— of PavS, 133, 135.
-Manasaka/a, in Kosala, 167, 168.
-Mandarava flowers from heaven, 124.
-Mara, 41, 53-
-
-Max Miiller, Professor, 105, 180,
-246.
-
-Milinda, king, xlviii.
-
-Mindful and thoughtful, doctrine
-
-of, 29, 38.
-Mirror of Truth, the so-called, 27.
-Monotheism, 164*
-Moriyas of Pipphalavana, a clan, 134,
-
-135.
-
-Morris, Dr. Richard, 29, 221, 293.
-Muhammadanism, 163.
-
-Nadika, near Patna, 24.
-
-Nlga Thera, 46.
-
-Nigas, the race of, 135, 136.
-
-Nalanda, near Ragagaha, 12.
-
-Names (family, tribal, &c), 1.
-
-Nanda, king of Magadha, xix.
-
-Nature of things, doctrine of, 59.
-
-Nera%ara, river, 53.
-
-Niga«/Aa, founder of the Gains, 106.
-
-Nika/a, convert at Nadika, 25, 26.
-
-Nirva«a, the Brethren not to be
-
-satisfied till they have attained,
-
-7.
-
-— perception of, due to earnest
-
-thought, 9.
-
-— attainment of, dependent on one-
-
-self, 38.
-
-— consists of the seven jewels of
-
-the Law, 62.
-
-— is the rooting out of lust, bitter-
-
-ness, and delusion, 84.
-
-— the Supreme Goal of the higher
-
-life, 110.
-
-— how the gods can attain to it, 163.
-
-
-312
-
-
-THE BUDDHIST SUTTAS.
-
-
-Nirv&ra, emancipation of heart and
-mind, 218.
-
-— is the cessation of the Samkharas,
-
-241.
-
-— is one side of Arahatship, 243.
-Nissahka Malla, xlv.
-Nivarana, hindrances, 182.
-
-Noble Ones, the, 182, 272, 295, 298.
-Nymphs included under devata, 45.
-
-Oldenberg, Dr., xi, 1 39.
-Opasada in Kosala, 167.
-Order, the Buddhist, description of,
-27.
-
-Parables : —
-
-The city guard and the cat, 14.
-
-Blind leading the blind, 173.
-
-The man in love, 175.
-
-The staircase up to nothing, 177.
-
-Praying to the further bank, 179.
-
-The man bound on the bank, 180.
-
-The man veiled on the bank, 182.
-
-The skilful musician, 201, 270.
-
-The hen and her chickens, 233.
-Pati^a-samuppada, 209.
-Patimokkha, quoted, 101.
-
-— referred to, 188, 210.
-Patna. See PS/aliputta.
-Pa/aligima, on the Ganges, 15-22.
-P&aliputta, prophecy concerning,
-
-xv, 18.
-
-Piv&, last journey of the Buddha to,
-70.
-
-P&varika, grove at N&landa, 12.
-Penetrability of matter, 214.
-Pentecost, day of, 141.
-Pilgrimage, the four places of, 90.
-Pipphalavana, name of a place, 134.
-Pischel, Professor, 75, 102.
-Pi/aka, lateness of the word, 67.
-Pi/akas and the New Testament,
-
-165, 166.
-Pokkharasati, a Bnlhman, 167.
-Positions of mastery, the eight, 49,50.
-Probation before entering the Order,
-
-109.
-
-Pubbe-nivasa-fl&na, 209, 215.
-Public assemblies of a clan, 3.
-Pukkusa, the young Mallian, 75-82.
-
-— name of a caste, 75.
-PGrawa-Kassapa, one of the Six
-
-Teachers, 106.
-
-Ra^agaha, 1-12, 56, 99.
-Ramagama, 132, 135.
-
-
-Rapti river, 167.
-
-Realists, European and Buddhist, 49.
-Rebirth, four kinds of, 25, 26.
-Rest house, public, in a village, 15,25.
-Ritualism condemned, 10.
-
-— various kinds of, 199.
-Robbers' Cliff, 56.
-
-Sabbath day, the Buddhist, 251.
-
-Sahaka, a Bhikkhu, 163.
-
-Sakadagamin, 25, 26.
-
-Saketa, a town, 99.
-
-Sakka, king of the gods, 113, 142,264.
-
-Sikyas, the clan, 131.
-
-Sala trees, the twin, 85.
-
-Sa7£a, native of NIdika, 25.
-
-— the Thera, 164.
-Samadhi, 11, 145.
-Samawa-braVhmans, 105.
-Samson and sun-myths, 245.
-Sawgharakkhita Thera, story of, 46.
-Samkh&ras, the Confections, 242.
-Sawya^nas, the ten, 222.
-Santuttha, convert at N&dika, 25.
-Sa^gaya, one of the Six Teachers,
-
-106.
-
-Sa»»a, sevenfold, 9.
-Sappaso/fcrika Cave at Ra^agaha, 56.
-Sarandada, name of a shrine, 4, 40.
-Sariputta, 1, 12-14.
-Satippa//i>ana, 14, 29, 38.
-Sattambaka £etiya, 40.
-Sattapa/zm Cave at Ra^agaha, 56.
-S&vatthi, on the Rapti, 99, 167, 168.
-Senart's ' L6gende du Bouddha,' six,
-245.
-
-Service Hall, 5, 60.
-
-Service, religious, how conducted
-
-among Buddhists, 16-18.
-Seven classes of gods, 154.
-Seven conditions of welfare, 2-7,
-Seven jewels of the Law, 29, 61-63.
-Seven sacred places at Ra^agaha,
-
-5*, 57.
-
-Seven sacred places at Vesili, 40, 58.
-Seven Treasures of a king of kings,
-
-63, 251.
-Seven wondrous gems, 249.
-Sevenfold higher wisdom, 9, 14, 211.
-Shows of various kinds, 192.
-Silas, the three, 188-200.
-Sitavana, grove, 56.
-Sorrow, cause of, &c., 23, 24.
-Soul, early Buddhist doctrine as to,
-
-162, 165, 299.
-Spells, 196, 199.
-
-
-INDEX.
-
-
-313
-
-
-Spirits. See Devati.
-Spiritualism, 208.
-
-Storehouse of waters beneath the
-
-earth, 130.
-Subhadda, the barber, xi, 127.
-
-— the last convert, 10 3-1 1 1.
-
-— convert at Nidika, 25, 26.
-SubhaddS, the Queen of Glory, 240,
-
-241, 276.
-Subhuti Unnans§, xxxi.
-Sudatta, convert at N&dika, 25.
-Su^ti, convert at Nadika, 25.
-Sukhavativyfiha, quoted, 246, 249.
-Sunidha, minister, 18, 19, 21.
-Sun-myths, 244, 245.
-Susunaga, xvi.
-
-Tapoda, grove at Ra^agaha, 56.
-Taranatha, quoted, xix.
-Tarukkha, a Brihman, 167.
-Tavatiwsa angels, 18, 32.
-Tevi^ga-vayWAagotta Sutta, 1 59, 209.
-Textile fabrics of various kinds, 193.
-Theism, 163.
-
-Thirst, or craving. See the Noble
-Truths.
-
-Thirty- Three, the Great. See Ta-
-vatiwsa.
-
-Thunder-cloud, name of the sun-
-horse, 255, 274.
-
-Thupa. See D&gaba.
-
-Tittiriya Brahmins, 171.
-
-Todeyya, a Brahman, 167.
-
-Tope. See Digaba.
-
-Transfiguration of the Buddha, 82.
-
-Truth, nature of the Buddhist, 27.
-
-Truths, the Four Noble, 23, 24,
-148-150.
-
-Tudigama, in Kosala, 168.
-
-Tuttha, convert at Nadika, 25, 26.
-
-Udena Afetiya, 40.
-Ukkatt^a, in Kosala, 168.
-Upatissa=Sariputta, 1.
-Up&vawa, a mendicant, 87.
-Upavattana, at Kusinanl, 85.
-
-
-Uposatha, the Sabbath day, 251.
-
-— name of the solar elephant, 254.
-Uttara-sisakaw, 85.
-
-Va^ians, 1-4.
-
-Valihaka, name of the sun-horse,
-
-255, 274.
-Vamadeva, Vedic poet, 172.
-Vimaka, Vedic poet, 172.
-Vanishing away, 21, 22, 118.
-VaseM&a, a young Brahman, 168-
-
-203.
-
-— a Vedic poet, 172.
-
-Vasetf&ts, epithet of the Mallas, 121.
-Vassa, season of, 34.
-Vassakara, Brihman, 2-4, 18, 19, 21.
-Vebhira Mount, at Ra^agaha, 56.
-Vedehi-putto, 1.
-
-Vedic images adopted by the Bud-
-dhists, 141, 245.
-Vedic poets, 172.
-Ve/uriya, a kind of gem, 256.
-Vesali, xvi, 28, 40, 58, 64.
-Vessamitta, a Vedic poet, 172.
-Ve/Aadipa, a Brahman village, 132.
-Videha, 1.
-
-Vimokkhi, the eight, 51, 52, 213.
-Virtue, description of Buddhist, 10.
-Vissakamma, the god (Vulcan), 265.
-Vulture's Peak, 1, 55.
-
-Wheel of the Law, 140, 141, 153.
-Wisdom, the sevenfold higher, 9.
-
-— its details, 306.
-
-— possessed by the Buddhas, 14.
-Witchcraft, 208.
-
-Women, 43, 53, 91, 98, 103, 257.
-Word of the Buddhas enduring for
-
-ever, 233.
-Writing, introduction of into India,
-
-xxii.
-
-Yamataggi, a Vedic poet, 172.
-Yatramulld Unnlnse, xxxi.
-
-Zoysa, Mudaliyar de, xxxi.
-
-
-ADDENDA ET CORRIGENDA.
-
-
-Maha-parinibbana Sutta I, 23, 24. The 'nobles' (khattiyas)
-should come before the 'Brahmans,' as in III, 21, and in the
-Tevigga Sutta I, 19. The sentiment of I, 24 recurs in a passage
-given by Mr. Beal from the Chinese in the ' Indian Antiquary,'
-IV, 96.
-
-— II, 31. 'Went out from the monastery* (vihara). There is no
-
-mention of a vihara in the previous sections. The following con-
-versation seems therefore to have been originally recorded in
-some other connection.
-
-— Ill, 20. Add at the end, 'These, Ananda, are the eight causes,
-
-proximate and remote, of the appearance of a mighty earth-
-quake.'
-
-— V, 10 (note p. 88). The passage here quoted from Buddhaghosa,
-
-about angels on the point of a gimlet, recurs in the Anguttara
-Nikaya, Duka Nip&ta.
-
-— V, 52. The words ' who was not a believer* should be in brackets.
-
-They are inserted to give the full force of the word paribba^ako,
-as the translation * mendicant ' might convey the impression that
-Subhadda was a Buddhist mendicant.
-
-— VI, 26. Compare G&taka I, 60, line 17.
-
-
-TRANSLITERATION OF ORIENTAL ALPHABETS. 317
-
-
-Chinese.
-
-
-s • • •
-
-
-: -s [ : : : : :
-^3 * • « • *
-
-
-Hebrew.
-
-
-m n ^ *n n.
-
-
-• •
-
-
-. . .
-
-
-Arabic
-
-
-D • • • '0
-
-
-• •
-
-
-Persian.
-
-
-D • I t>
-
-
-: - - tjoj-u *
-
-
-fehlevi.
-
-
-*\ q «) Osf "
-
-
-• 31
-
-
-4 ;
-
-
-»: ;
-
-
-■d
-e
-
-N
-
-
--a-?! : : : : :
-
-
-Qs ;
-
-
-^ : :
-
-
-X
-
-*tn
-C
-
-
-If IP P pr
-
-
-IT IP
-
-
-I* - ir
-
-
-3 1 8 TRANSLITERATION OF ORIENTAL ALPHABETS
-
-
-CMCMCMCMCMCaCOCO
-
-
-C* CO
-eo CO
-
-
-10
-
-
-FOR THE SACRED BOOKS OF THE EAST. 319
-
-
-m pi n
-
-
-1
-
-
-3f
-
-
-•o I© H9 K? £ M
-
-
-* I* W X
-
-
-J3 J3
-so ea
-
-
-s * S >
-
-
-o
-
-3
-
-
-I
-
-
-e9
-
-"S
-
-'a.
-Si
-
-
-1 8
-
-
-.2
-
-
-a. *S
-
-8 J
-
-
-00
-
-i
-■§
-
-Hi
-
-
-•I
-
-3
-
-
-2
-
-^3
-
-
-i §
-
-
-00 O) o
-co co ^
-
-
-.£3
-
-Z, CQ CO
-
-•h N CO ^ IO CO
-t}< t}< ^J* t}< ^J*
-
-
-'-3 .6 & . *
-
-
-CO
-
-
-X
-
-a.
-
-QQ
-
-
-„ 08
-
-i f
-
-
-320 TRANSLITERATION OF ORIENTAL ALPHABETS*
-
-
-1
-
-u
-
-
-Hebrew.
-
-
-1- : : |. i» ; ': * : * : \*~ i- l« • • j ::::::
-
-
-i
-
-
-: : : ,| I, lj, : : : :.|^ : '.^ : : : : : : : :
-
-
-: : : «i ^ i % : : : : : : : : : : : :
-
-• •• * • • ••••
-
-
-• • • • ••••• • •••• ••••••
-
-. . <§ .2 S| • <o ^ _
-
-• , ^» *^ • ••••• • •••• ••••••
-
-
-i
-
-
-: : : * * - -* : : : : - ^§2 : : : : : : :
-• .... ... g,
-
-
-Sanskrit
-
-
-MISSIONARY ALPHABET. |
-
-
-'J
-
-
-• ••••••• •••••••••••••••• • «
-
-• ••••• • • • 1
-
-• •••••••••••■••••••••••A
-
-• • ••••«••••••■•••••••••• • «
-
-
-J
-
-U
-
-
-■ • ••••• a ••• • • • • «
-
-• • • • 3 • S 2 • 3 '6 • •
-
-
-1
-
-u
-
-
-«• -S -s o g g
-
-
-VOWELS.
-
-
-09
-
-| • • 1
-
-.2*8. * ' A
-
-::::::::::::: t s> § * , -g & 1 * * ;
-
-p,^ <2 -° - ^ oo £ 5 <r . c * c .a
-
-
-1
-
-•0
-
-
-i
-
-
-Sacred Books of the East
-
-TRANSLATED BY VARIOUS ORIENTAL SCHOLARS
-AND EDITED BY
-
-THE RIGHT HON. F. MAX MOLLER.
-
-This Series is published with the sanction and co-operation of the Secretary of
-State for India in Council.
-
-REPORT presented to the ACADEMIC DES INSCRIPTIONS, May 11,
-1883, by M. ERNEST RENAN.
-
-'M. Renan presente trois nouveaux une seconde, dont l'interet historique et
-volumes de la grande collection des religieux ne sera pas moindre. M. Max
-"Livres sacres de l'Orient" (Sacred Miiller a su se procurer la collaboration
-Books of the East), que dirige a Oxford, des savans les plus e'minens d'Europe et
-avec une si vaste Erudition et une critique d'Asie. L'Universite d'Oxford, que cette
-si sure, le savant associe* de l'Academie grande publication honore au plus haut
-des Inscriptions, M. Max Miiller. ... La degre, doit tenir a continuer dans les plus
-premiere serie de ce beau recueil, com- larges proportions une ceuvre aussi philo-
-posee de 24 volumes, est presque acheve'e. sophiquement con cue que savamment
-M. Max Miiller se propose d'en publier execute^.'
-
-EXTRACT from the QUARTERLY REVIEW.
-
-' We rejoice to notice that a second great edition of the Rig- Veda, can com-
-
-series of these translations has been an- pare in importance of in usefulness with
-
-nounced and has actually begun to appear, this English translation of the Sacred
-
-The stones, at least, out of which a stately Books of the East, which has been devised
-
-edifice may hereafter arise, are here being by his foresight, successfully brought so
-
-brought together. Prof. Max Miiller has far by his persuasive and organising
-
-deserved well of scientific history. Not power, and will, we trust, by the assist-
-
-a few minds owe to his enticing words ance of the distinguished scholars he has
-
-their first attraction to this branch of gathered round him, be carried in due
-
-study. But no work of his, not even the time to a happy completion.*
-
-Professor E. HARDY, Inaugural Lecture in the University of Freiburg, 1887.
-
-' Die allgemeine vergleichende Reli- internationalen Orientalistencongress in
-gionswissenschaft datirt von jenem gross- London der Grundstein gelegt word en
-artigen, in seiner Art einzig dastehenden war, die Ubersetzung der heiligen Biicher
-Unternehmen, zu welchem auf Anregung des Ostens ' {the Sacred Books of the
-Max Mullers im Jahre 1874 auf dem East).
-
-The Hon. ALBERT S. G. CANNING, ' Words on Existing- Religions.'
-
-' The recent publication of the " Sacred a great event in the annals of theological
-Books of the East" in English is surely literature.'
-
-
-OXFORD
-AT THE CLARENDON PRESS
-LONDON: HENRY FROWDE
-
-OXFORD UNIVERSITY PRESS WAREHOUSE, AMEN CORNER, E.C.
-
-
-A IOOO
-
-
-2
-
-
-SACRED BOOKS OF THE EAST:
-
-
-FIRST SERIES.
-
-Vol. I. The Upanishads.
-
-Translated by F. Max MUllbr. Part I. The JK&ndogya-
-upanishad, The Talavakara-upanishad, The Aitareya-£ra*yaka,
-The Kaushitaki-brahmawa-upanishad, and The Va^asaneyi-
-sawhita-upanishad. Second Edition. 8vo, cloth, 10s. 6d.
-
-The Upanishads contain the philosophy of the Veda. They have
-become the foundation of the later Veddnta doctrines, and indirectly
-of Buddhism. Schopenhauer, speaking of the Upanishads, says :
-€ In the whole world there is no study so beneficial and so elevating
-as that of the Upanishads. It has been the solace of my life, it will
-be the solace of my death!
-
-[See also Vol. XV.]
-
-Vol. II. The Sacred Laws of the Aryas,
-
-As taught in the Schools of Apastamba, GaMama, Vfisish/fta,
-and BaudMyana. Translated by Georg BOhlkr. Part I.
-Apastamba and Gautama. Second Edition. 8vo, cloth, ios. 6d.
-
-The Sacred Laws of the Aryas contain, the original treatises on
-which the Laws of Manu and other lawgivers were founded.
-
-[See also Vol. XIV.]
-
-Vol. III. The Sacred Books of China.
-
-The Texts of Confucianism. Translated by Tames Legos.
-Part I. The Shu King, The Religious Portions of the Shih
-King, and The Hsiao King. Second Edition. 8vo, cloth, 1 2S. 6d.
-
-Confucius was a collector of ancient traditions, not the founder of
-a new religion. As he lived in the sixth and fifth centuries B. C.
-his works are of unique interest for the study of Ethology.
-[See also Vols. XVI, XXVII, £XVIII, XXXIX, and XL.]
-
-Vol. IV. The Zend-Avesta.
-
-Translated by James Darmesteter. Part I. The VendldSd.
-
-Second Edition. 8vo, cloth, 14s.
-
-The Zend-Avesta contains the relics of what was the religion of
-
-
-EDITED BY F. MAX MOLLER.
-
-
-3
-
-
-Cyrus, Darius , and Xerxes. It forms to the present day the sacred
-book of the Par sis, the so-called fire-worshippers.
-
-[See also Vols. XXIII and XXXI.]
-
-Vol. V. Pahlavi Texts.
-
-Translated by E. W. West. Part I. The Bundahif, Bahman
-Yart, and Shdyast ld-sh&yast. 8vo, cloth, 12s. 6d.
-
-The Pahlavi Texts comprise the theological literature of the revival
-of Zoroaster s religion, beginning with the Sassanian dynasty. They
-are important for a study of Gnosticism.
-
-[See also Vols. XVIII, XXIV, XXXVII, and XLVIL]
-
-Vols. VI and IX. The Qurdn.
-
-Parts I and II. Translated by E. H. Palmer. Second Edition.
-8vo, cloth, 2 is.
-
-This translation, carried out according to his own peculiar views
-of the origin of the Qur'dn, was the last great work ofE. H. Palmer,
-before he was murdered in Egypt.
-
-Vol. VII. The Institutes of Vishmi.
-
-Translated by Julius Jolly. 8vo, cloth, 10s. 6d.
-
-A collection of legal aphorisms, closely connected with one of the
-oldest Vedic schools, the Ka/^as, but considerably added to in later
-time. Of importance for a critical study of the Laws of Manu.
-
-Vol. VIII. The Bhagavadgit&,with The Sanatsu^&tiya,
-and The Anugit&.
-
-Translated by Kashinath Trimbak Telang. Second Edition.
-8vo, cloth, 10s. 6d.
-
-The earliest philosophical and religious poem of India. It has been
-paraphrased in Arnold's 'Song Celestial.'
-
-Vol. X. The Dhammapada,
-
-Translated from Pali by F. Max Muller ; and
-
-The Sutta-Nipita,
-Translated from Pali by V. FausbSll ; being Canonical Books
-of the Buddhists. Second Edition. 8vo, cloth, 10s. 6d.
-
-The Dhammapada contains the quintessence of Buddhist morality.
-The Sutta-Nipdta gives the authentic teaching of Buddha on some
-of the fundamental principles of religion.
-
-
-4
-
-
-SACRED BOOKS OF THE EAST;
-
-
-Vol. XI. Buddhist Suttas.
-
-Translated from Pili by T. W. Rhys Davids, i. The Mata-
-parinibMna Suttanta; 2. The Dhamma-iakka-ppavattana
-Sutta. 3. The Tevi^-a Suttanta; 4. The Akankheyya Sutta;
-5. The Aetokhila Sutta; 6. The MaM-sudassana Suttanta;
-7. The Sabb&sava Sutta. 8vo, cloth, ioj. 6d.
-
-A collection of the most important religious \ moral, and philosophical
-discourses taken from the sacred canon of the Buddhists.
-
-Vol. XII. The 6atapatha-Br&hma«a, according to the
-Text of the Midhyandina School.
-
-Translated by Julius Eggeling. Part I. Books I and II.
-8vo, cloth, 1 2s, 6d.
-
-A minute account of the sacrificial ceremonies of the Vedic -age.
-It contains the earliest account of the Deluge in India.
-
-[See also Vols. XXVI, XLI, XL1II, and XLIV.]
-
-Vol. XIII. Vinaya Texts.
-
-Translated from the Pdli by T. W. Rhys Davids and Hermann
-Oldenberg. Parti. The Pdtimokkha. The Mah&vagga, I-IV.
-8vo, cloth, 10s. 6d.
-The Vinaya Texts give for the first time a translation of the moral
-code of the Buddhist religion as settled in the third century B. C.
-[See also Vols. XVII and XX.]
-
-Vol. XIV. The Sacred Laws of the Aryas,
-
-As taught in the Schools of Apastamba, Gautama, V£sish/Aa,
-and Baudhayana. Translated by Georg Buhler. Part II.
-VasishMa and Baudhayana. 8vo, cloth, ioj. 6d.
-
-Vol. XV. The Upanishads.
-
-Translated by F. Max Muller. Part II. The KaMa-upanishad,
-The Mu/zdaka-upanishad, The Taittiriyaka-upanishad, The
-Br/hadira«yaka-upanishad, The Svet&rvatara-upanishad, The
-Prajwa-upanishad, and The Maitr&ya«a-brShma«a-upani$had.
-Second Edition. 8vo, cloth, 10s. 6d.
-
-Vol. XVI. The Sacred Books of China.
-
-The Texts of Confucianism. Translated by James Leggk.
-Part II. The Yl King. 8vo, cloth, 10s. 6d.
-
-[See also Vols. XXVII, XXVIII.]
-
-Vol. XVII. Vinaya Texts.
-
-Translated from the Pdli by T. W. Rhys Davids and Hermann
-Oldenberg. Part II. The Mah£vagga, V-X. The ATullavagga,
-I— III. 8vo, cloth, 1 or. 6d t
-
-
-EDITED BY F. MAX MULLER.
-
-
-5
-
-
-Vol. XVIII. Pahlavi Texts.
-
-Translated by E. W. West. Part II. The DMstan-i Dirrfk
-and The Epistles of Mdnu^thar. 8vo, cloth, 1 2 s. 6d.
-
-Vol. XIX. The Fo-sho-hing-tsan-king.
-
-A Life of Buddha by A^vaghosha Bodhisattva, translated from
-Sanskrit into Chinese by Dharmaraksha, a.d. 420, and from
-Chinese into English by Samuel Beal. 8vo, cloth, 10s. 6d.
-
-This life of Buddha was translated from Sanskrit into Chinese,
-A.D. 420. // contains many legends , some of which show a certain
-similarity to the Evangelium infant iae } $c.
-
-Vol. XX. Vinaya Texts.
-
-Translated from the Pali by T. W. Rhys Davids and Hermann
-Oldenberg. Part III. The ^ullavagga, IV-XII. 8vo, cloth,
-10s. 6a\
-
-Vol. XXI. The Saddharma-pu#darlka ; or, The Lotus
-of the True Law.
-
-Translated by H. Kern. 8vo, cloth, 12s. 6d.
-6 The Lotus of the True Law* a canonical book of the Northern
-Buddhists, translated from Sanskrit. There is a Chinese transla-
-tion of this book which was finished as early as the year 286 A.D,
-
-Vol. XXII. Gaina-Stitras.
-
-Translated from Prakrit by Hermann Jacobi. Part I. The
-AMrariga-Sutra and The Kalpa-Sutra. 8vo, cloth, ioj. 6d.
-
-The religion of the (7ainas was founded by a contemporary of Buddha.
-It still counts numerous adherents in India, while there are no
-Buddhists left in India proper.
-
-[See Vol. XLV.]
-
-Vol. XXIII. The Zend-Avesta.
-
-Translated by James Darmesteter. Part II. The Strdzahs,
-Yajts, and Nyayir. 8vo, cloth, 10s. 6d.
-
-Vol. XXIV. Pahlavi Texts.
-
-Translated by E. W. West. Part III. Dfnd-f Maindg-
-Khira*/, Sikand-gum&nlk Vig&r, and Sad Dar. 8vo, cloth,
-10s. 6d. -
-
-
-6
-
-
-SACRED BOOKS OF THE EAST :
-
-
-SECOND SERIES.
-
-Vol. XXV. Manu.
-
-Translated by Georg Buhler. 8vo, cloth, 2 is.
-This translation is founded on that of Sir William Jones, which
-has been carefully revised and corrected with the help of seven native
-Commentaries. An Appendix contains all the quotations from Manu
-which are found in the Hindu Law-books, translated for the use of
-the Law Courts in India, Another Appendix gives a synopsis of
-parallel passages from the six Dharma-sHlras t the other Smrilis,
-the Upanishads, the Mahdbhdrata, Sfc.
-
-Vol. XXVI. The 6atapatha-Brihma^a.
-
-Translated by Julius Eggeling. Part II. Books III and IV.
-8vo, cloth, 1 2s. 6d.
-
-vols, xxvii and xxviii. The Sacred Books of China.
-
-The Texts of Confucianism. Translated by James Legge. Parts
-III and IV. The Li K\ } or Collection of Treatises on the Rules
-of Propriety, or Ceremonial Usages. 8vo, cloth, 25J.
-
-Vol. xxix. The G^zhya-Sfitras, Rules of Vedic
-Domestic Ceremonies.
-
-Part I. *Stnkhayana, Awalayana, Piraskara, Kh&dira. Trans-
-lated by Hermann Oldenberg. 8vo, cloth, 1 2 s. 6d.
-
-Vol. xxx. The GWhya-Stitras, Rules of Vedic
-Domestic Ceremonies.
-
-Part II. Gobhila, Hirawyakejin, Apastamba. Translated by
-Hermann Oldenberg. Apastamba, Ya^a-paribMshS-sfttras.
-Translated by F. Max Muller. 8vo, cloth, 12s. 6a\
-These rides of Domestic Ceremonies describe the home life of the
-ancient Aryas with a completeness and accuracy unmatched in any
-other literature. Some of these rules have been incorporated in the
-ancient Law-books.
-
-Vol. xxxi. The Zend-Avesta.
-
-Part III. The Yasna, Visparad, Afrfnagdn, G&hs, and
-
-Miscellaneous Fragments'. Translated by L. H. Mills. 8vo,
-cloth, 12s. 6d.
-
-Vol. XXXII. Vedic Hymns.
-
-Translated by F. Max Muller. Part I. 8vo, cloth, i8j. 6d.
-
-[See also Vol. XLVL]
-
-Vol. XXXIII. The Minor Law-books.
-
-Translated by Julius Jolly. Part I. Ndrada, BrthaspatL
-8vo, cloth, 1 os» 6d.
-
-
-EDITED BY F. MAX M&LLER.
-
-
-1
-
-
-Vol. XXXIV. The Vedinta-S6tras, with the Com-
-mentary by .Sankar&^&rya. Part I.
-
-Translated by G. Thibaut. 8vo, cloth, 1 2 s. 6d.
-[See also Vols. XXXVIII and XLVIIL]
-
-Vols, xxxv and xxxvi. The Questions of King
-Milinda.
-
-Translated from the Pali by T. W. Rhys Davids.
-Part I. 8vo, cloth, 10s. 6d. Part II. 8vo, cloth, 12s. 6d.
-
-Vol. XXXVII. Pahlavi Texts.
-
-Translated by E. W. West. Part IV. The Contents of the
-Nasks, as stated in the Eighth and Ninth Books of the
-Dmkard. 1 5 s.
-
-vol. XXXVIII. The Vedanta-Stitras. Part II. 8vo,
-cloth, with full Index to both Parts, 1 2 s. 6d.
-
-vols, xxxix and XL. The Sacred Books of China.
-The Texts of Taoism. Translated by James Legge. 8vo,
-cloth, 2 is.
-
-Vol. XLI. The .Satapatha - Br&hma#a. Part III.
-Translated by Julius Eggeling. 8vo, cloth, 12s. 6d.
-
-Vol. XLII. Hymns of the Atharva-veda.
-
-Translated by M. Bloomfield. 8vo, cloth, 21s.
-
-VOL. XLIII. The .Satapatha-Brahma«a.
-
-. Translated by Julius Eggeling. Part IV. Books VIII,
-IX, and X, 12s. 6d.
-
-Vol. XLIV. The 6atapatha-Br&hma«a.
-
-Translated by Julius Eggeling. Part V. Books XI, XII,
-XIII, and XIV. 18s. 6d.
-
-Vol. XLV.' The Gaina-Sfttras.
-
-Translated from Prakr/t, by Hermann Jacobi. Part II. The
-Uttaradhyayana Sutra, The Sutrakr/t&nga Sutra. 8vo, cloth,
-12s. 6d.
-
-Vol. XL VI. Vedic Hymns. Part II. 8vo> cloth, 14s.
-
-Vol. XLVII. Pahlavi Texts.
-
-Translated by E. W. West. Part V. Marvels of Zoroas-
-trianism. 8s. 6d.
-
-Vol. XL VIII. The Vedinta-Stitras, Part III, with
-Rlmanu^as 6ribhishya. 4
-
-Translated by G. Thibaut. [In the Press.]
-
-Vol. XLIX. Buddhist Mahiyina Texts. Buddha-
-
-£arita, translated by E. B. Cowell. Sukhavatt-vyuha,Va^ra^e-
-dika, &c, translated by F. Max Muller. Amitdyur-DhySna-
-Sulra, translated by J. Takakusu. 8vo, cloth, 12J. 6d.
-
-
-8
-
-
-RECENT ORIENTAL WORKS.
-
-
-ANECDOTA OXONIENSIA.
-
-ARYAN SERIES.
-
-Buddhist Texts from Japan. I. Va^raiMedikS. ; The
-Diamond-Cutter.
-
-Edited by F. Max Muller, M.A. Small 4to, 3J. 6d.
-One of the most famous metaphysical treatises of the Mahayana Buddhists.
-
-Buddhist Texts from Japan. II. Sukhivati-Vytiha :
-Description of Sukhavati, the Land of Bliss.
-
-Edited by F. Max Muller, M.A., and Bunyiu Nanjio. With
-two Appendices : (1) Text and Translation of Sanghavarman's
-Chinese Version of the Poetical Portions of the Sukhdvatf-
-Vyuha ; (2) Sanskrit Text of the Smaller Sukhdvati-Vyuha.
-Small 4 to, 7 s. 6d.
-The editio princeps of the Sacred Book of one of the largest and most
-influential sects of Buddhism, numbering more than ten millions of followers
-in Japan alone.
-
-Buddhist Texts from Japan. III. The A ncient Palm-
-Leaves containing the Pra^#a-Paramit&-H^claya-
-Stitra and the Ush^lsha-Vi^aya-Dhira^.
-
-Edited by F. Max Muller, M.A., and Bunyiu Nanjio, M.A.
-With an Appendix by G. Buhler, CLE. With many Plates/
-Small 4to, 10s.
-Contains facsimiles of the oldest Sanskrit MS. at present known.
-
-Dharma-Sa^graha, an Ancient Collection of Buddhist
-Technical Terms.
-
-Prepared for publication by Kenjiu Kasawara, a Buddhist
-Priest from Japan, and, after his death, edited by F. Max
-Muller and H. Wenzel. Small 4to, *js. 6d.
-
-Katyay ana's Sarvinukrama^l of the 7?zgveda.
-
-With Extracts from Sha^guru^ishya's Commentary entitled"
-Vedarthadipika. Edited by A. A. Macdonell, M.A., Ph.D. 16s.
-
-The Buddha-A^arita of Asvaghosha.
-
-Edited, from three MSS., by E. B. Cowell, M.A. 12s. 6d.
-
-The Mantrapatha, or the Prayer Book of the Apa-
-stambins.
-
-Edited, together with the Commentary of Haradatta, and
-translated by M. Winternitz, Ph.D. First Part. Introduce
-tion, Sanskrit Text, Varietas Lectionis, and . Appendices.
-Small quarto, \os. 6d.
-
-OXFORD
-AT THE CLARENDON PRESS
-LONDON : HENRY FROWDE
-OXFORD UNIVERSITY PRESS WAREHOUSE, AMEN CORNER, E.C.
-
-
-f 4 -t 3 ^

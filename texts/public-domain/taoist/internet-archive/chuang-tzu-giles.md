@@ -305,7 +305,7 @@ L^
 viii  CJuuDi^r  Tzit
 
 
- b
+<b
 
 
 7  Keep    behind,    and    you  shall    be   put    In    front.
@@ -2281,7 +2281,7 @@ up,  he  would  not  feel  hot.     Were  the  Milky  Way
 28  Chuang-  Tzil
 
 
- b
+<b
 
 
 frozen  hard,  he  would  not  feel  cold.  Were  the
@@ -2331,7 +2331,7 @@ separated  by  a  chasm  of  some  two  thousand  years.
 Confucius  is  here  evidently  dealing  with  the  actual
 doctrines  of  Lao  Tzu.
 
-You   are   going    too    fast.      You    see    your   ^ g^,^
+You   are   going    too    fast.      You    see    your   ^<g^,^
 and  expect  to   hear  it  crow.     You   look   at   your
 cross-bow,  and  expect  to  have  broiled  duck  before
 you.     I  will  say  a  few  words  to  you  at  random,  and
@@ -21211,3 +21211,135 @@ Yiieh  State,  The,  8,  9,  16,  313,  451
 Yung  Ch'eng,  116
 Yung  Ch'eng  Shih,  338
 Yung,  The  philosopher,  4
+
+
+2  H
+
+
+466
+
+
+ERRA  TA  AND  ADDENDA
+
+Page      I,  line  3  (from  bottom),  insert  comma  after  "  sunbeam."
+„       49,  line  2,  Prince  Ling  is  the  same  individual  as  the  Duke  Ling
+of  pp.  65,  250,  346.
+[All  such  terms  are,  of  course,  arbitrary,  being  used
+merely  as  convenient  equivalents  of  the  Chinese
+titles  in  the  text.]
+60,    „  13,  For  "  Hou  I  "  read  "  Hou  Yi."     [This  for  the  sake
+of  uniformity.     &<?  pp.  255,  308,  &c.]
+„        65,    ,,  16,  For  "too  short"  read  "too  scraggy."
+,,       65,     „  20,  For  "too  thin"  read  "too  scraggy."
+
+72,    „    4,  For  "  Chi  Tzii  Hsii  Yii  "  read  "  Chi  Tzu,  Hsii  Yii.'
+,,      170,    ,,    3  (from  bottom),  After  "Duke Huan."  omit  the  full  stop.
+„      228,    ,,14,  For  "glow-worm  "  read  "  fire-fly."
+,,      230,    ,,  22,  For  "  to  the  minister"  read  "to  be  the  minister,"
+„      262,    „  22,  For  "Wen  Po"  read  "Wen  Poh."
+„      270,    „    6,  For  "  Po  Li  Ch'i  "  read  "  Poh  Li  Ch'i."
+,,      272,    ,,    3  (from  bottom),  For  "  Po  Hun  "  read  "  Poh  Hun."
+„     309,    „  12  For  "Duke  Mu "  read  "Duke  Muh."
+„      309,    „  12  For  "  Po  Li  Ch'i  "  read  "  Poh  Li  Ch'i."
+,,      314,  last  line,  "  Love  for  the  people,"  &c.    Compare  p.  329,  lines
+17  and  18,  "  There  is  no  difficulty,"  <S:c.     The  con-
+flict between  the  meanings  of  these  two  passages
+has  not  been  pointed   out.     The   first   passage  is
+rendered  by  some  commentators,  "  Not  to  be  able
+to  love  the  people  is  the,"  &:c.     Neither  rendering
+is    quite    satisfactory ;    for   reasons   which    would
+require  quotations  from  the  Chinese  text.
+
+
+Errata  and  Addenda  467
+
+Page  324,  lines  15  and  26,  For  "Tzu  Chi"  read  "Tzu  Ch'i."
+„     327,    „      18  and  28,  For  "Tzu  Chi"  read  "Tzu  Ch'i."
+„     328,  line      7,  For  "Tzu  Chi  "  read  "  Tzii  Ch'i."
+„     346,    „         5,  After  "Duke  Ling,"  add  "of  Wei."
+„     371,    „       17,  For  "Shih  Hu"read  "Shih-hu."
+,»     373>    n        3,  For  "Tan  Hsueh"read  "Tan-hsiieh."
+„     394,    „        8,  For  "YinLi"read  "Yin-li."
+
+[These  last  three  corrections  mean  that  I  have
+written  names  of  places  with  a  hyphen  between
+the  transliteration  of  the  component  Chinese
+characters,  the  names  of  meti  with  a  capital  letter
+to  the  transliteration  of  each  of  the  Chinese  cha-
+racters which  go  to  make  up  the  surname  and
+personal  name.]
+
+
+THE    END.
+
+
+WVMAN    AND   SONS,    PRINTERS     GREAT   QUEEN     STREET,    LONDON,    W.C.
+
+
+in'    THE    SAME    AUTHOR.
+
+
+Chinese    Sketches.       Pcath  of  an  Emperor — l^liiiuctte — ^Cambling-
+Feng-shui — Opium —  Pawnbrokers — Slang — Inquests,  &c.  &c.
+
+
+Strange  Stories  from  a  Chinese  Studio.       Translation  of  the
+
+Liao  Choi.     2  vols.     Svo.
+
+
+Historic  China,  and  other  Sketches.
+
+
+Gems    of   Chinese    Literature.       Containing    Extracts    from    various
+Authors,  tVom  n.c.  500  to  A.n.  1600.
+
+
+A  Short  History  of  Koolangsu.
+
+
+On    Some    Translations    and    Mistranslations    in    Williams'
+Syllabic  Dictionary.
+
+
+Dictionary    of   Colloquial  Idioms    in  the    Mandarin    Dialect.
+
+
+Chinese  without  a  Teacher:  Being  a  Collection  of  Easy  and
+Useful  Sentences  in  the  Mandarin  Dialect.  With  a  ^'ocabulary.
+2nd  Edition.
+
+Synoptical  Studies  in  Chinese  Character.
+
+
+Handbook  of  the  Swatow  Dialect.
+
+
+Record  of  the  Buddhistic  Kingdoms.     Translated  from  the  Chinese.
+With  copious  Notes.
+
+
+Two  Chinese   Poems :  The  San  Tzii   Ching,  or  the   Trimctrisal
+
+Classic ;    and    the    Ch'ien    TZU   Wen,    or     Thousand    Character
+Essay.     Metrically  translated.
+
+
+From  Swatow   to   Canton  :   An  Overland  Journey.
+
+
+A  Glossary  of  Reference,  on  Subjects  connected  with  the  Far  East.
+2nd  Edition.
+
+The  Remains  of  Lao  Tzii.     lions:  Kong:  1SS6.
+
+
+BL1900.C5G46
+
+Chuang  Tzu,  mystic,  moralist,  and  socral
+
+Princeton  Theological  Seminary-Speer  Library
+
+
+1    1012  00009  8840
+

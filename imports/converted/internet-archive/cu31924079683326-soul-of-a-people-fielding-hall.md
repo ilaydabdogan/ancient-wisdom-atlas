@@ -1,175 +1,3 @@
-# The Soul of a People
-
-S«»PW«-:
-
-
-""■""'■"■"■■wiimBiitrrfiimiMfiimiiiii
-
-
-Cornell University
-Library
-
-
-The original of tiiis book is in
-tine Cornell University Library.
-
-There are no known copyright restrictions in
-the United States on the use of the text.
-
-
-http://www.archive.org/details/cu31924079683326
-
-
-CORNELL UNIVERSITY LIBRARY
-
-
-924 079 683 326
-
-
-THE SOUL OF A PEOPLE
-
-
-THE
-
-
-SOUL OF A PEOPLE
-
-
-H. FIELDING
-
-
-' For to see things in their beauty is to see them in their truth '
-
-Matthew Akhold
-
-
-Kantian
-
-MACMILLAN AND CO., Limited
-
-NEW YORK : THE MACMILLAN COMPANY
-1898
-
-
-First Edition, 1 898
-Second Edition, 1898
-
-
-DEDICATION TO SECOND EDITION
-
-/ DBDICA TE this book to you about whom it is written. It
-has been made a reproach to me by the critics that I have
-only spoken •well of you, that I have forgotten your faults
-and remembered only your virtues. If it is wrong to have
-done this, I must admit the wrong. I have written of you
-as a friend does of a friend. Where I could say kind things
-of you I have done so, where I could not I have been silent.
-You will find plenty of people who can see only your faults,
-and who like to tell you of them. You will find in the
-inexorable sequence of events a corrector of these faults more
-potent tfian any critics can be. But I am Tiot your critic,
-but your friend. If many of you had not admitted me, a
-stranger, into your friendship during my many very solitary
-years, of what sort should I be now f How could I have
-lived those years alone? You kept alive tny sympathies, and
-so saved m.e from many things. Do you think I could now
-turn round and criticise you ? No; but this book is my
-tribute of gratitude for many kindnesses.
-
-
-PREFACE
-
-In most of the quotations from Burmese books con-
-taining the life of the Buddha I am indebted, if not
-for the exact words, yet for the sense, to Bishop
-Bigandet's translation.
-
-I do not think I am indebted to anyone else. I
-have, indeed, purposely avoided quoting from any
-other book and using material collected by anyone
-else.
-
-The story of Ma Pa Da has appeared often
-before, but my version is taken entirely from the
-Burmese song. It is, as I have said, known to
-nearly every Burman.
-
-I wanted to write only what the Burmese them-
-selves thought ; whether I have succeeded or not,
-the reader can judge.
-
-I am indebted to Messrs. William Blackwood and
-Sons for permission to use parts of my article on
-' Burmese Women ' — Black-mood' s Magazine, May,
-1895 — in the present work.
-
-
-CONTENTS
-
-CHAPTER PAGE
-
-I. LIVING BELIEFS - I
-
-n. HE WHO FOUND THE LIGHT — I. 17
-
-III. HE WHO FOUND THE LIGHT — II. 34
-
-IV. THE WAY TO THE GREAT PEACE 46
-V. WAR — I. - 56
-
-
-VI. WAR — II.
-
-
-77
-
-
-VII. GOVERNMENT S/
-
-VIII. CRIME AND PUNISHMENT lOZ
-
-IX. HAPPINESS ' 116
-
-X. THE MONKHOOD — I. 12 7
-
-XL THE MONKHOOD — II. 1 53
-
-XII. PRAYER 158
-
-XIII. FESTIVALS - 166
-
-XIV. WOMEN — I. - 185
-XV. WOMEN — II. - 205
-
-XVI. WOMEN — HI. - 224
-
-XVII. DIVORCE - 228
-
-XVIII. DRINK 242
-
-
-CONTENTS
-
-
-CHAPTER PAGE
-
-XIX. MANNERS 249
-
-XX. 'noblesse oblige' 257
-
-XXI. ALL LIFE IS ONE 278
-
-XXII. DEATH, THE DELIVERER 304
-
-XXIII. THE potter's WHEEL 324
-
-XXIV. THE FOREST OF TIME 344
-XXV. CONCLUSION 35°
-
-
-THE SOUL OF A PEOPLE
-
-
 CHAPTER I
 
 LIVING BELIEFS
@@ -193,9 +21,6 @@ peaceful enough by the end of 1889 ; but as the
 central parts quieted down, I was sent to the frontier,
 first on the North and then on the East by the Chin
 mountains ; so that it was not until 1 890 that a
-
-
-THE SOUL OF A PEOPLE
 
 
 transfer to a more settled part gave me quiet and
@@ -235,8 +60,7 @@ LIVING BELIEFS
 
 
 And in looking over these memories it seemed to
-me that there were many things I did not under-
-stand, acts of theirs and customs, which I had seen
+me that there were many things I did not understand, acts of theirs and customs, which I had seen
 and noted, but of which I did not know the reason.
 We all know how hard it is to see into the heart
 even of our own people, those of our flesh and blood
@@ -269,9 +93,6 @@ of that mainspring of many actions, which seemed
 I — 2
 
 
-THE SOUL OF A PEOPLE
-
-
 sometimes admirable, sometimes the reverse, and
 nearly always foreign to my ideas. It is true that I
 knew they were Buddhists, that I recognized the
@@ -300,8 +121,7 @@ actions, the evil effect, for good is merely negative,
 and that this is what causes pain and trouble to the
 next life. Everything changes, say the sacred books,
 nothing lasts even for a moment. It will be, and it
-has been, is the life of man. The life that lives to-
-morrow in the next incarnation is no more the life
+has been, is the life of man. The life that lives tomorrow in the next incarnation is no more the life
 that died in the last than the flame we light in the
 
 
@@ -336,14 +156,10 @@ there were, spirits of great power like angels, and
 there was the Buddha (the just man made perfect),
 who had worked out for all men the way to reach
 surcease from evil ; but of God I saw nothing.
-And because the Buddha had reached heaven (Nir-
-vana), it would be useless to pray to him. For,
+And because the Buddha had reached heaven (Nirvana), it would be useless to pray to him. For,
 having entered into his perfect rest, he could not be
 disturbed by the sharp cry of those suffering below ;
 and if he heard, still he could not help ; for each
-
-
-THE SOUL OF A PEOPLE
 
 
 man must through pain and sorrow work out for
@@ -365,17 +181,14 @@ the guiding influence of their lives, yet I was unable
 to trust to them altogether, and I was in doubt
 where to seek for the real beliefs of these people.
 If I went to their monks, their holy men, the
-followers of the great teacher, Gaudama, they re-
-ferred me to their books as containing all that a
+followers of the great teacher, Gaudama, they referred me to their books as containing all that a
 Buddhist believed; and when I pointed out the
 discrepancies, they only shook their heads, and said
-that the people were an ignorant people and con-
-fused their beliefs in that way.
+that the people were an ignorant people and confused their beliefs in that way.
 
 And when I asked what was a Buddhist, I was
 told that, to be a Buddhist, a man must be accepted
-into the religion with certain rites, certain cere-
-monies, he must become for a time a member of the
+into the religion with certain rites, certain ceremonies, he must become for a time a member of the
 community of the monks of the Buddha, and that a
 Buddhist was he who was so accepted, and who
 thereafter held by the teachings of the Buddha.
@@ -420,9 +233,6 @@ them which despitefuUy use you,
 cheek offer also the other ; and him that taketh
 away thy cloke forbid him not to take thy coat
 also.
-
-
-THE SOUL OF A PEOPLE
 
 
 ' 30. Give to every man that asketh of thee ; and
@@ -485,8 +295,7 @@ to himself, that these people believe that riches are
 an evil thing ? Whence, then, come their acts, for
 their acts seem to show that they hold riches to
 be a good thing ? What is to be accepted as their
-belief : the Book they say they believe, which con-
-demns riches, or their acts, by which they show that
+belief : the Book they say they believe, which condemns riches, or their acts, by which they show that
 they hold that wealth is a good thing — ay, and if
 used according to their ideas of right, a very good
 thing indeed .■*
@@ -500,8 +309,7 @@ matter out. How were the beliefs of a people
 
 lo THE SOUL OF A PEOPLE
 
-to be known, and why should there be such dififi-
-culties in the way ? If I could understand how it
+to be known, and why should there be such difificulties in the way ? If I could understand how it
 was with us, it might help me to know how it was
 with them.
 
@@ -523,8 +331,7 @@ come direct from where alone truth can live. They
 believe that in their religion alone lies safety for
 man from the troubles of this world and from the
 terrors and threats of the next, and that those alone
-who follow its teaching will reach happiness here-
-after, if not here. They believe, too, that this truth
+who follow its teaching will reach happiness hereafter, if not here. They believe, too, that this truth
 only requires to be known to be understood and
 accepted of all men ; that as the sun requires no
 witness of its own warmth, so the truth requires no
@@ -555,8 +362,7 @@ is that its believers attain salvation hereafter. But
 as that is in the next world, if the unbeliever ask
 what is the manifestation in this, the believers will
 answer him that the true mark and sign whereby a
-man may be known to hold the truth is the ob-
-servance of certain forms, the performance of certain
+man may be known to hold the truth is the observance of certain forms, the performance of certain
 ceremonies, more or less mystical, more or less
 symbolical, of some esoteric meaning. That a man
 should be baptized, should wear certain marks on
@@ -570,9 +376,6 @@ make the acts and deeds of its followers the test of
 their belief. And for these reasons : that it is a test
 no one could apply, and that if anyone were to
 attempt to apply it, there would soon be no Church
-
-
-THE SOUL OF A PEOPLE
 
 
 at all. For to no one is it given to be able to
@@ -603,21 +406,18 @@ acceptance of the belief, that has been held to hallow
 the life and excuse and palliate its errors.
 
 Thus of every religion is this true, that its
-essence is a belief that certain doctrines are revela-
-tions of eternal truth, and that the fruit of this truth
+essence is a belief that certain doctrines are revelations of eternal truth, and that the fruit of this truth
 is the observance of certain forms. Morality and
 
 
 LIVING BELIEFS 13
 
-lirorks may or may not follow, but they are im-
-material compared with the other. This, put shortly,
+lirorks may or may not follow, but they are immaterial compared with the other. This, put shortly,
 
 the view of every believer.
 t But to him who does not believe in a faith, who
 riews it from without, from the standpoint of another
-kith, the whole view is changed, the whole perspec-
-re altered. Those landmarks which to one within
+kith, the whole view is changed, the whole perspecre altered. Those landmarks which to one within
 
 ''the circle seem to stand out and overtop the world
 are to the eyes of him without dwarfed often into
@@ -646,8 +446,6 @@ that there is only one guide to a man's faith, to his
 soul, and that is not any book or system he may
 
 
-14 THE SOUL OF A PEOPLE
-
 profess to believe, but the real system that he follows
 — that is to say, that a man's beliefs can be known
 even to himself from his acts only. For it is futile
@@ -670,10 +468,8 @@ runs through every fathom of it, from the time that
 it is first twisted among the others till the time when
 that life shall end And as it is thus impossible for
 the onlooker to accept from adherents of a creed a
-definition of what they really believe, so it is im-
-possible for him to acknowledge the forms and
-ceremonies of which they speak as the real mani-
-festations of their creed.
+definition of what they really believe, so it is impossible for him to acknowledge the forms and
+ceremonies of which they speak as the real manifestations of their creed.
 
 It seems to the onlooker indifferent that men
 should be dipped in water or not, that they should
@@ -768,8 +564,7 @@ ago, has been told in English many times. It has
 been told in translations from the Pali, from Burmese,
 and from Chinese, and now everyone has read it.
 The writers, too, of these books have been men of
-great attainments, of untiring industry in search-
-ing out all that can be known of this life, of gifts
+great attainments, of untiring industry in searching out all that can be known of this life, of gifts
 such as I cannot aspire to. So that there is now
 nothing new to learn of those long past days,
 nothing fresh for me to tell, no discovery that can
@@ -780,8 +575,6 @@ the Buddha, I must rewrite this ten-times-told tale,
 of which I know nothing new. And the reason is
 this : that although I know nothing that previous
 writers have not known, although I cannot bring
-
-2
 
 
 i8 THE SOUL OF A PEOPLE
@@ -815,8 +608,7 @@ of his teaching, every act of his ministry, is sought
 out and compared and considered. Legend is
 compared with legend, and tradition with tradition,
 that out of many authorities some clue to the actual
-fact may be found. But to the Buddhist the im-
-portant parts, in the great teacher's life are those
+fact may be found. But to the Buddhist the important parts, in the great teacher's life are those
 
 
 HE WHO FOUND THE LIGHT 19
@@ -824,8 +616,7 @@ HE WHO FOUND THE LIGHT 19
 acts, those words, that appeal directly to him, that
 stand out bravely, lit with the light of his own
 experiences and feelings, that assist him in living
-his own life. His Buddha is the Buddha he under-
-stands, and who understood and sympathized with
+his own life. His Buddha is the Buddha he understands, and who understood and sympathized with
 such as him. Other things may be true, but they
 are matters of indifference.
 
@@ -856,16 +647,12 @@ breathes from the nature about you — the same
 2 — 2
 
 
-THE SOUL OF A PEOPLE
-
-
 nature that the teacher saw — from the whispering
 fig-trees and the scented champaks, and the dimly
 seen statues in the shadows of the shrines, that
 you can never gain elsewhere. And as they tell
 you the story of that great life, they bring it home
-to you with reflection and comment, with applica-
-tion to your everyday existence, till you forget
+to you with reflection and comment, with application to your everyday existence, till you forget
 that he of whom they speak lived so long ago, so
 very long ago, and your heart is filled with sorrow
 when you remember that he is dead, that he is
@@ -931,15 +718,11 @@ to whisper into his ear the secrets of eternity, and
 to show him where truth lived. In no trance, in
 
 
-THE SOUL OF A PEOPLE
-
-
 no vision, did he enter into the presence of the
 Unknown, and return from thence full of the
 wisdom of another world ; neither did he teach the
 worship of any god, of any power. He breathed no
-threatenings of revenge for disobedience, of forgive-
-ness for the penitent. He held out no everlasting
+threatenings of revenge for disobedience, of forgiveness for the penitent. He held out no everlasting
 hell to those who refused to follow him, no easily
 gained heaven to his believers.
 
@@ -990,8 +773,7 @@ Newton discovered gravitation he was obliged to
 stop, for his knowledge of that did not lead him at
 once to the knowledge of the infinite, so when he
 had attained the laws of righteousness, Gaudama
-the Buddha also stopped, because here his standing-
-ground failed. It is not true, that which has been
+the Buddha also stopped, because here his standingground failed. It is not true, that which has been
 imputed to the Buddha by those who have never
 tried to understand him — that he denied some power
 greater than ourselves ; that because he never tried
@@ -1000,11 +782,8 @@ the corners of a phrase, therefore his creed was
 materialistic. We do not say of Newton that
 he was an atheist because when he taught us of
 gravity he did not go further and define to us in
-equations Him who made gravity ; and as we under-
-stand more of the Buddha, as we search into life
+equations Him who made gravity ; and as we understand more of the Buddha, as we search into life
 
-
-24 THE SOUL OF A PEOPLE
 
 and consider his teaching, as we try to think as he
 thought, and to see as he saw, we understand that
@@ -1018,8 +797,7 @@ than Gaudama the Buddha ever lived to be an
 example to us through all time. He tells us of what
 he knows ; of what he knows not he is silent. Of the
 laws that he can see, the great sequences of life and
-death, of evil and sorrow, of goodness and happi-
-ness, he tells in burning words. Of the beginning
+death, of evil and sorrow, of goodness and happiness, he tells in burning words. Of the beginning
 and the end of the world, of the intentions and the
 ways of the great Unknown, he tells us nothing at
 all. He is no prophet, as we understand the word,
@@ -1033,8 +811,7 @@ than to call the Buddha a philosopher and Buddhism
 a philosophy. Whatever he was, he was no
 philosopher. Although he knew not any god,
 although he rested his claims to be heard upon the
-fact that his teachings were clear and understand-
-able, that you were not required to believe, but only
+fact that his teachings were clear and understandable, that you were not required to believe, but only
 to open your eyes and see, and 'his delight was in
 the contemplation of unclouded truth,' yet he was
 far from a philosopher. His was not an appeal to
@@ -1049,17 +826,14 @@ counters of his thought. He appealed to the heart,
 not to the brain ; to our feelings, not to our power
 of arranging these feelings. He drew men to him
 by love and reverence, and held them so for ever.
-Love and charity and compassion, endless com-
-passion, are the foundations of his teachings ; and
+Love and charity and compassion, endless compassion, are the foundations of his teachings ; and
 his followers believe in him because they have seen
 in him the just man made perfect, and because he
 has shown to them the way in which all men may
 become even as he is.
 
-He was a prince in a little kingdom in the North-
-east of India, the son of King Thudoodana and his
-wife Maia. He was strong, we are told, and hand-
-some, famous in athletic exercises, and his father
+He was a prince in a little kingdom in the Northeast of India, the son of King Thudoodana and his
+wife Maia. He was strong, we are told, and handsome, famous in athletic exercises, and his father
 looked forward to the time when he should be grown
 a great man, and a leader of armies. His father's
 ambition for him was that he should be a great
@@ -1073,9 +847,6 @@ and always at war. And the king, as fathers are,
 was full of dreams that this son of his should
 subdue all India to himself, and be the glory of his
 dynasty, and the founder of a great race.
-
-
-THE SOUL OF A PEOPLE
 
 
 Everything seemed to fall in with the desire of
@@ -1104,8 +875,7 @@ and glorified, so the soul of man is but a higher
 stage of the soul of beasts. Life is a great ladder.
 At the bottom are the lower forms of animals, and
 some way up is man ; but all are climbing upwards
-for ever, and sometimes, alas ! falling back. Exist-
-ence is for each man a great struggle, punctuated
+for ever, and sometimes, alas ! falling back. Existence is for each man a great struggle, punctuated
 with many deaths ; and each death ends one period
 but to allow another to begin, to give us a new
 chance of working up and gaining heaven.
@@ -1136,23 +906,17 @@ not lose, and where he was to find happiness.
 All the pomp and glory of the palace, all its
 luxury and ease, appealed to him very little. Even
 in his early youth he found but little pleasure in it,
-and he listened more to those who spoke of holi-
-ness than to those who spoke of war. He desired,
+and he listened more to those who spoke of holiness than to those who spoke of war. He desired,
 we are told, to become a hermit, to cast off from
 him his state and dignity, and to put on the yellow
-garments of a mendicant, and beg his bread wander-
-ing up and down upon the world, seeking for peace.
+garments of a mendicant, and beg his bread wandering up and down upon the world, seeking for peace.
 
 This disposition of the prince grieved his parents
 very much. That their son, who was so full of
 promise, so brave and so strong, so wise and so
 
 
-28 THE SOUL OF A PEOPLE
-
-
-much beloved by everyone, should become a mendi-
-cant clad in unclean garments, begging his daily
+much beloved by everyone, should become a mendicant clad in unclean garments, begging his daily
 food from house to house, seemed to them a horrible
 thing. It could never be permitted that a prince
 should disgrace himself in this way. Every effort
@@ -1218,8 +982,6 @@ there came to him the news that his wife had borne
 to him a son. Wife and child, his cup of desire
 was now full. But his resolve was unshaken.
 
-
-30 THE SOUL OF A PEOPLE
 
 ' See, here is another tie, alas ! a new and stronger
 tie that I must break,' he said ; but he never
@@ -1296,8 +1058,6 @@ would have ?
 All the story of Yathodaya and her dealings with
 
 
-32 THE SOUL OF A PEOPLE
-
 her husband is full of the deepest pathos, full of
 passionate protest against her loss, even in order
 that her husband and all the world should gain.
@@ -1344,9 +1104,6 @@ that there is no room. But some day it will be
 written, I trust, this old message to a new world.
 
 
-[34]
-
-
 CHAPTER III
 
 HE WHO FOUND THE LIGHT — II
@@ -1379,11 +1136,7 @@ a silver dream behind him. He set his face upon
 HE WHO FOUND THE LIGHT
 
 
-35
-
-
-his way, trampling beneath him every worldly con-
-sideration, despising a power that was but vanity
+his way, trampling beneath him every worldly consideration, despising a power that was but vanity
 and illusion ; he went on into the dark.
 
 Presently he came to a river, the boundary of his
@@ -1418,8 +1171,6 @@ a recluse, and lived as they did.
 
 3—2
 
-
-36 THE SOUL OF A PEOPLE
 
 He sought his bread as they did, going fron
 house to house for the broken victuals, which h
@@ -1457,8 +1208,7 @@ the world held good was surely evil too. Wisdon-
 
 HE WHO FOUND THE LIGHT 37
 
-was to be sought in the very opposites of the con-
-ventions of men.
+was to be sought in the very opposites of the conventions of men.
 
 The prince took on him their garments, and went
 to them to learn from all that which they had learnt.
@@ -1477,8 +1227,7 @@ young prince studied all their teaching, and essayed
 to follow their example, and he found it was all of
 no use. Here he could find no way to happiness,
 no raising of the soul to higher planes, but, rather, a
-degradation towards the beasts. For self-punish-
-ment is just as much a submission to the flesh as
+degradation towards the beasts. For self-punishment is just as much a submission to the flesh as
 luxury and self-indulgence. How can you forget
 the body, and turn the soul to better thoughts, if
 you are for ever torturing that body, and thereby
@@ -1489,8 +1238,6 @@ mind to meditation and thought if your body is in
 suffering .'' So the prince soon saw that here was
 not the way he wanted. His soul revolted from
 
-
-38 THE SOUL OF A PEOPLE
 
 them and their austerities, and he left them. As he
 fathomed the emptiness of his counsellors of the
@@ -1510,8 +1257,7 @@ forest to look for truth there. In the great forest
 where no one comes, where the deer feed and the
 tiger creeps, he would seek what man could not give
 him. They would know, those great trees that had
-seen a thousand rains, and outlived thirty genera-
-tions of men ; they would know, those streams that
+seen a thousand rains, and outlived thirty generations of men ; they would know, those streams that
 flashed from the far snow summits ; surely the forest
 and the hills, the dawn and the night, would have
 something to tell him of the secrets of the world.
@@ -1561,8 +1307,6 @@ fainted from sheer exhaustion and starvation.
 And when he came to himself he recognised that
 
 
-40 THE SOUL OF A PEOPLE
-
 he had failed again. No light had shone upon his
 dimmed eyes, no revelation had come to him in his
 senselessness. All was as before, and the truth —
@@ -1602,8 +1346,7 @@ that we seek.'
 
 HE WHO FOUND THE LIGHT 41
 
-They departed, leaving him to bear his disap-
-pointment alone, and they went into the solitude far
+They departed, leaving him to bear his disappointment alone, and they went into the solitude far
 away, to continue in their own way and pursue their
 search after their own method. He who was to be
 the Buddha had failed, and was alone.
@@ -1635,8 +1378,6 @@ failure of him who found the light. That he should
 have won — ah, well, that is beautiful ; but that he
 should have failed and failed, that is what comes
 
-
-42 THE SOUL OF A PEOPLE
 
 home to us, because we too have failed many
 times. Can you wonder that his followers love
@@ -1711,8 +1452,6 @@ him.
 He saw again Yathodaya, she who had been his
 wife ; he saw his son. Now, when passion was dead
 
-
-44 THE SOUL OF A PEOPLE
 
 in him, he could do these things. And Yathodaya
 was full of despair, for if all the world had gained a
@@ -1839,8 +1578,6 @@ next, maybe, or the next.
 Man is not made perfect all of a sudden, but
 
 
-48 THE SOUL OF A PEOPLE
-
 takes time to grow, like all valuable things. You
 might as well expect to raise a teak-tree in your
 garden in a night as to make a righteous man in a
@@ -1851,8 +1588,7 @@ what sort of man he shall be. Every act, evefy
 thought, has its effect, not only upon the outer
 world, but upon the inner soul. If you follow after
 evil, it becomes in time a habit of your soul. If
-you follow after good, every good act is a beauti-
-fying touch to your own soul.
+you follow after good, every good act is a beautifying touch to your own soul.
 
 Man is as he has made himself; man will be
 as he makes himself. This is a very simple theory,
@@ -1886,8 +1622,7 @@ was really a capital place, and that it was worth
 while doing well in order to enjoy it. But most
 other faiths thought very differently. Indeed, the
 very meaning of most religions and philosophies has
-been that they should be refuges from the wicked-
-ness and unhappiness of the world. According to
+been that they should be refuges from the wickedness and unhappiness of the world. According to
 them the world has been a very weary world, full of
 wickedness and of deceit, of war and strife, of
 untruth and of hate, of all sorts of evil.
@@ -1902,27 +1637,21 @@ think, by all faiths over the world. Indeed, it is
 the belief that has been, one thinks, the cause of
 faiths. Had the world been happy, surely there
 had been no need of religions. In a summer sea,
-where is the need of havens? It is a generally-
-accepted fact, accepted, as I have said, without
-explanation. But the Buddhist has not been con-
-tented to leave it so. He has thought that it is in
+where is the need of havens? It is a generallyaccepted fact, accepted, as I have said, without
+explanation. But the Buddhist has not been contented to leave it so. He has thought that it is in
 the right explanation of this cardinal fact that lies
 all truth. Life suffers from a disease called misery.
 He would be free from it. Let us, then, says the
 Buddhist, first discover the cause of this misery, and
 so only can we understand how to cure it'
 
-4
-
 
 so THE SOUL OF A PEOPLE
 
-And it is this explanation which is really the dis-
-tinguishing tenet of Buddhism, which differentiates
+And it is this explanation which is really the distinguishing tenet of Buddhism, which differentiates
 it from all other faiths and all philosophies.
 
-The reason, says Buddhism, why men are un-
-happy is that they are alive. Life and sorrow
+The reason, says Buddhism, why men are unhappy is that they are alive. Life and sorrow
 are inseparable — nay, they are one and the same
 thing. The mere fact of being alive is a misery.
 When you have clear eyes and discern the truth,
@@ -1933,14 +1662,12 @@ now am would I like to remain for ever and for
 ever without change ? No man has ever done so.
 What men desire is change. They weary of the
 present, and desire the future ; and when the future
-comes they find it no better than the past. Happi-
-ness lies in yesterday and in to-morrow, but never
+comes they find it no better than the past. Happiness lies in yesterday and in to-morrow, but never
 in to-day. In youth we look forward, in age we
 look back. What is change but the death of the
 present.'* Life is change, and change is death, so
 says the Buddhist. Men shudder at and fear death,
-and yet death and life are the same thing — in-
-separable, indistinguishable, and one with sorrow.
+and yet death and life are the same thing — inseparable, indistinguishable, and one with sorrow.
 We men who desire life are as men athirst and
 drinking of the sea. Every drop we drink of the
 poisoned sea of existence urges on men surely to
@@ -1974,8 +1701,7 @@ all life evil, and happiness can live but in peace,
 in surcease from the troubles of this weary world.
 If, then, a man desire happiness — and in all faiths
 that is the desired end — he must strive to attain
-peace. This, again, is not a difficult idea to under-
-stand. It seems to me so simple that, when once
+peace. This, again, is not a difficult idea to understand. It seems to me so simple that, when once
 it has been listened to, it may be understood by
 a child. I do not say believed and followed, but
 understood. Belief is a dififerent matter. ' The
@@ -1990,8 +1716,6 @@ taught, to believe that life and death are antagonistic,
 
 4—2
 
-
-52 THE SOUL OF A PEOPLE
 
 that life in the world to come is beautiful, that deat
 is a horror, it seems to us terrible to think that it
@@ -2023,8 +1747,7 @@ not in order that they may do good to you, bu(
 because, by doing so, you do good to your own soul,
 Give alms, and be charitable, for these things are
 necessary to a man. Above all, learn love and
-sympathy. Try to feel as others feel, try to under-
-stand them, try to sympathize with them, and love
+sympathy. Try to feel as others feel, try to understand them, try to sympathize with them, and love
 
 
 THE WAY TO THE GREAT PEACE 53
@@ -2090,10 +1813,7 @@ Herein lies no salvation from the troubles of the
 world. Far more is required of a man than to be
 
 
-54 THE SOUL OF A PEOPLE
-
-righteous. Holiness alone is not the gate to happi-
-ness, and all that have tried have found it so. It
+righteous. Holiness alone is not the gate to happiness, and all that have tried have found it so. It
 alone will not give man surcease from pain. When
 a man has so purified his heart by love, has so
 weaned himself from wickedness by good acts and
@@ -2130,8 +1850,7 @@ THE WAY TO THE GREAT PEACE 55
 
 This is Nirvana, the end to which we must all
 strive, the only end that there can be to the trouble
-of the world. Each man must realize this for him-
-self, each man will do so surely in time, and all will
+of the world. Each man must realize this for himself, each man will do so surely in time, and all will
 come into the haven of rest. Surely this is a simple
 faith, the only belief that the world has known that
 is free from mystery and dogma, from ceremony and
@@ -2152,11 +1871,7 @@ Buddhism. It is such a simple faith that all may be
 said in a very few words. It would be, of course,
 possible to refine on and gloze over certain points of
 the teaching. The real proof of the faith is in the
-results, in the deeds that men do in its name. Dis-
-cussion will not alter these one way or another.
-
-
-[56]
+results, in the deeds that men do in its name. Discussion will not alter these one way or another.
 
 
 CHAPTER V
@@ -2176,8 +1891,7 @@ every action of their life the influence of Buddhism
 is visible more or less strongly. Therefore I propose
 to describe shortly the ideas of the Burmese people
 upon the main objects of life ; and to show how
-much or how little Buddhism has affected their con-
-ceptions. I will begin with courage.
+much or how little Buddhism has affected their conceptions. I will begin with courage.
 
 I think it will be evident that there is no quality
 upon which the success of a nation so much depends
@@ -2197,8 +1911,7 @@ situation with regard to other nations, its climate, its
 occupations. It is a great subject that I cannot go
 into. I wish to take all such things as I find them,
 and to discuss only the effect of the religion upon
-the courage of the people, upon its fighting capa-
-bilities. That religion may have a very serious
+the courage of the people, upon its fighting capabilities. That religion may have a very serious
 effect one way or the other, no one can doubt. I
 went through the war of annexation, from 1885 to
 1889, and from it I will draw my examples.
@@ -2218,15 +1931,11 @@ repel the invaders ; the rulers looked to the people.
 There was no common intelligence or will between
 them. Everything was wanting ; nothing was as it
 should be. And so Mandalay fell without a shot,
-and King Thibaw, the young, incapable, kind-
-hearted king, was taken into captivity.
+and King Thibaw, the young, incapable, kindhearted king, was taken into captivity.
 
-That was the end of the first act, brief and blood-
-less. For a time the people were stupefied. They
+That was the end of the first act, brief and bloodless. For a time the people were stupefied. They
 could not understand what had happened ; they
 
-
-58 THE SOUL OF A PEOPLE
 
 could not guess what was going to happen. They
 expected that the English would soon retire, and
@@ -2282,8 +1991,7 @@ presence of a governor, there was but little to
 attach them to the central government. There
 was, and is, absolutely no aristocracy of any kind at
 all. The Burmese are a community of equals, in a
-sense that has probably never been known else-
-where. All their institutions are the very opposite
+sense that has probably never been known elsewhere. All their institutions are the very opposite
 to feudalism. Now, feudalism was instituted to be
 useful in war. The Burmese customs were instituted
 that men should live in comfort and ease during
@@ -2292,8 +2000,7 @@ leaders of a people, as in other countries, were
 absent. There were no local great men ; the
 governors were men appointed from time to time
 from Mandalay, and usually knew nothing of their
-charges ; there were no rich men, no large land-
-holders — not one. There still remained, however,
+charges ; there were no rich men, no large landholders — not one. There still remained, however,
 
 
 6o THE SOUL OF A PEOPLE
@@ -2316,8 +2023,7 @@ We know what religion can do. We have seen
 how it can preach war and resistance, and can
 organize that war and resistance. We know what
 ten thousand priests preaching in ten thousand
-hamlets can effect in making a people almost un-
-conquerable, in directing their armies, in strengthen-
+hamlets can effect in making a people almost unconquerable, in directing their armies, in strengthen-
 ing their determination. We remember La Vendee,
 we remember our Puritans, and we have had
 recent experience in the Soudan. We know what
@@ -2367,20 +2073,16 @@ They could not understand it. I remember a friend
 of mine with whom I went through many experiences
 
 
-62 THE SOUL OF A PEOPLE
-
 speaking of it with scorn. He was a cavalry officer,
 ' the model of a light cavalry officer ' ; he had with
 him a squadron of his regiment, and we were trying
 to subdue a very troubled part of the country.
 
-We were camping in a monastery, as we fre-
-quently did — a monastery on a hill near a high
+We were camping in a monastery, as we frequently did — a monastery on a hill near a high
 golden pagoda. The country all round was under
 the sway of a brigand leader, and sorely the villagers
 suffered at his hands now that he had leapt into
-unexpected power. The villages were half aban-
-doned, the fields untilled, the people full of unrest ;
+unexpected power. The villages were half abandoned, the fields untilled, the people full of unrest ;
 but the monasteries were as full of monks as ever ;
 the gongs rang, as they ever did, their message
 through the quiet evening air ; the little boys were
@@ -2407,8 +2109,7 @@ WAR 63
 
 organizes better than an ecclesiastic. We should
 have had them leading their men into action with
-sacred banners, and promising them heaven here-
-after when they died. They would have made
+sacred banners, and promising them heaven hereafter when they died. They would have made
 Ghazis of them. Any one of these is a religion
 worth having. But what is the use of Buddhism ?
 What do these monks do ? I never see them in
@@ -2438,8 +2139,6 @@ any value, should assist them. It should urge them
 to battle, and promise them peace and happiness
 if dying in a good cause. His faith would do this
 
-
-64 THE SOUL OF A PEOPLE
 
 for him. What was Buddhism doing ? What help
 did it give to its believers in their extremity ? It
@@ -2498,8 +2197,7 @@ to popular opinion, never made itself a tool in the
 hands of worldly passion. It could not. You might
 as well say to gravity, ' I want to lift this stone ;
 please don't act on it for a time,' as expect Buddhism
-to assist you to make war. Buddhism is the un-
-alterable law of righteousness, and cannot ally itself
+to assist you to make war. Buddhism is the unalterable law of righteousness, and cannot ally itself
 with evil, cannot ever be persuaded that under any
 circumstances evil can be good.
 
@@ -2509,16 +2207,11 @@ government broken up, he had no leaders. He had
 no god to stand beside him when he fired at the
 foreign invaders ; and when he lay a-dying, with a
 
-5
-
-
-66 THE SOUL OF A PEOPLE
 
 bullet in his throat, he had no one to open to him
 the gates of heaven.
 
-And yet he fought — with every possible dis-
-couragement he fought, and sometimes he fought
+And yet he fought — with every possible discouragement he fought, and sometimes he fought
 well. It has been thrown against him as a reproach
 that he did not do better. Those who have said
 this have never thought, never counted up the odds
@@ -2587,8 +2280,6 @@ could, as I have said, raise five or six times as many
 5—2
 
 
-68 THE SOUL OF A PEOPLE
-
 for any particular service, and keep them together
 for a few days. He very soon discovered that he
 and his men were absolutely no match for our
@@ -2609,8 +2300,7 @@ Shemmaga. He further issued a notice that the
 inhabitants of Shemmaga itself should leave the town.
 They could not move the garrison, therefore the
 people must move themselves. No assistance must
-be given to the enemy. The villagers of Shem-
-maga, mostly small traders in salt and rice, were
+be given to the enemy. The villagers of Shemmaga, mostly small traders in salt and rice, were
 naturally averse to leaving. This trade was their
 only means of livelihood, the houses their only
 homes, and they did not like the idea of going out
@@ -2623,16 +2313,14 @@ garrison in the town, so that they could trade in peace.
 
 WAR 69
 
-Some few left, but most did not, and though they col-
-lected money, and sent it to Maung Yaing, they at
+Some few left, but most did not, and though they collected money, and sent it to Maung Yaing, they at
 the same time told the English officer in command of
 Maung Yaing's threats, and begged that great care
 should be taken of the town, for Maung Yaing was
 very angry. When he found he could not cause the
 abandonment of the town, he sent in word to say
 that he would burn it. Not three hundred foreigners,
-nor three thousand, should protect these lazy, un-
-patriotic folk from his vengeance. He gave them
+nor three thousand, should protect these lazy, unpatriotic folk from his vengeance. He gave them
 till the new moon of a certain month, and if the town
 were not evacuated by that time he declared that he
 would destroy it. He would burn it down, and kill
@@ -2656,8 +2344,6 @@ his word. He was as good as his threat.
 One night, at midnight, the face of the fort where
 the Ghurkas lived on the hill was suddenly attacked.
 
-
-70 THE SOUL OF A PEOPLE
 
 Out of the brushwood near by a heavy fire was
 opened upon the breastwork, and there was shouting
@@ -2712,8 +2398,7 @@ whither, into the night.
 
 Such a scene of desolation as that village was
 next day ! It was all destroyed — every house. All
-the food was gone, all furniture, all clothes, every-
-thing, and here and there was a corpse in among
+the food was gone, all furniture, all clothes, everything, and here and there was a corpse in among
 the blackened cinders. The whole countryside was
 terror-stricken at this failure to defend those who
 had depended on us.
@@ -2730,8 +2415,6 @@ not a soldier.
 But there was no want of courage. If these men,
 
 
-72 THE SOUL OF A PEOPLE
-
 inferior in number, in arms, in everything, could do
 this under the lead of a robber chief, what would
 they not have done if well led, if well trained, if well
@@ -2742,8 +2425,7 @@ and the insurgents I could tell many a story. I
 have myself seen such fights. They nearly always
 ended in our favour — how could it be otherwise ?
 
-There was Ta Te, who occupied a pagoda en-
-closure with some eighty men, and was attacked by
+There was Ta Te, who occupied a pagoda enclosure with some eighty men, and was attacked by
 our mounted infantry. There was a long fight in
 that hot afternoon, and very soon the insurgents'
 ammunition began to fail, and the pagoda was
@@ -2770,9 +2452,6 @@ It is probable that most of the best men of the
 WAR
 
 
-73
-
-
 country were against us. It is certain, I think, that
 of those who openly joined us and accompanied us
 in our expedition, very, very few were other than
@@ -2780,8 +2459,7 @@ men who had some private grudge to avenge, or
 some purpose to gain, by opposing their own people.
 Of such as these you cannot expect very much.
 And yet there were exceptions — men who showed
-up all the more brilliantly because they were excep-
-tions — men whom I shall always honour. There
+up all the more brilliantly because they were exceptions — men whom I shall always honour. There
 were two I remember best of all. They are both
 dead now.
 
@@ -2805,8 +2483,6 @@ and so, perhaps, they could hardly be called traitors,
 as many of those who joined us were. The father
 was a useless old man, but his son, he of whom I
 
-
-74 THE SOUL OF A PEOPLE
 
 speak, was brave and honourable, good tempered
 and courteous, beyond most men whom I have met.
@@ -2855,10 +2531,8 @@ the camp. Nothing could be seen except the
 dazzling flashes from their guns as they fired here
 and there, and the darkness was all the darker for
 those flashes of flame, that cut it like swords. It
-was very cold. I had left my blanket in the monas-
-tery, and no one was allowed to ascend, because
-there, of all places, the bullets flew thickest, crush-
-ing through the mat walls, and going into the teak
+was very cold. I had left my blanket in the monastery, and no one was allowed to ascend, because
+there, of all places, the bullets flew thickest, crushing through the mat walls, and going into the teak
 posts with a thud. There was nothing we could do.
 The men, placed in due order about the camp, fired
 back at the flashes of the enemy's guns. That was
@@ -2875,8 +2549,6 @@ dense dark the doctor tried to find out what injuries
 the men had received, and dress them as well as he
 could. No light dare be lit. The night seemed
 
-
-76 THE SOUL OF A PEOPLE
 
 interminable. There were no stars, for a dense mist
 hung above the trees. After an hour or two the
@@ -2901,9 +2573,6 @@ and ravine, and had every villager for a spy. So
 we moved back a march into a more open country,
 where we hoped for better news, and two days later
 that news came.
-
-
-[77]
 
 
 CHAPTER VI
@@ -2934,8 +2603,6 @@ sahib,' he said. The commandant had no time to
 talk, no time even to look at what it could be.
 He just crammed it into his breast-pocket, and
 
-
-78 THE SOUL OF A PEOPLE
 
 we rode on. The governor's son was our guide,
 and he led us through winding lanes into a pass
@@ -2971,8 +2638,7 @@ The village was soon cleared, and then we had
 
 WAR 79
 
-to return. It was no good to wait. The valley-
-was very narrow, and was commanded from both
+to return. It was no good to wait. The valleywas very narrow, and was commanded from both
 its sides, which were very steep and dense with
 forest. Beyond the village there was only forest
 again. We had done what we could : we had
@@ -3045,8 +2711,7 @@ WAR 8i
 
 son (our guide of the fight at Laka) of the prospects
 of the future, and of the intentions of the Prince
-of Wuntho, in whose country Laka lay. I re-
-marked to him how the Burmans of Wuntho
+of Wuntho, in whose country Laka lay. I remarked to him how the Burmans of Wuntho
 seemed to hate him, of how they had cursed him
 from the hills, and he admitted that it was true.
 'All except my friends,' he said, 'hate me. x'\nd
@@ -3077,10 +2742,6 @@ you against being hit, and there were certain
 medicines you could drink. There were also
 charms made out of stone, such as a little tortoise
 
-6
-
-
-82 THE SOUL OF A PEOPLE
 
 he had once seen that was said to protect its wearer.
 There were mysterious writings on palm-Ieaves.
@@ -3121,8 +2782,7 @@ charms, by making the fighter bullet-proof. And I
 thought then of the little prayer and the cross that
 were so certain a defence against hurt.
 
-We talked for a long time in the waning moon-
-light by the ruddy fire, and at last we broke up to
+We talked for a long time in the waning moonlight by the ruddy fire, and at last we broke up to
 go to bed. As we rose a voice called to us across
 the water from the little promontory. In the still
 night every word was as clear as the note of a
@@ -3160,8 +2820,6 @@ even tigers. They take their frail little canoes
 
 6—2
 
-
-84 THE SOUL OF A PEOPLE
 
 across the Irrawaddy in flood in a most daring way.
 They in no way want for physical courage, but they
@@ -3212,17 +2870,14 @@ of the enemy. And such is Buddhism.
 
 But it must never be forgotten that, if this faith
 does not assist the believer in defence, neither does
-it in offence. What is so terrible as a war of re-
-ligion ? There can never be a war of Buddhism.
+it in offence. What is so terrible as a war of religion ? There can never be a war of Buddhism.
 
 No ravished country has ever borne witness to the
 prowess of the followers of the Buddha ; no murdered
-men have poured out their blood on their hearth-
-stones, killed in his name ; no ruined women have
+men have poured out their blood on their hearthstones, killed in his name ; no ruined women have
 cursed his name to high Heaven. He and his faith
 are clean of the stain of blood. He was the preacher
-of the Great Peace, of love, of charity, of compas-
-sion, and so clear is his teaching that it can never be
+of the Great Peace, of love, of charity, of compassion, and so clear is his teaching that it can never be
 misunderstood. Wars of invasion the Burmese have
 waged, that is true, in Siam, in Assam, and in Pegu.
 They are but men, and men will fight. If they were
@@ -3232,8 +2887,6 @@ fought in the name of their faith. They have never
 been able to prostitute its teachings to their own
 wants. Whatever the Burmans have done, they
 
-
-86 THE SOUL OF A PEOPLE
 
 have kept their faith pure. When they have
 offended against the laws of the Buddha they have
@@ -3274,22 +2927,18 @@ as not men who had no experience beyond the
 narrow limits of a village.
 
 
-88 THE SOUL OF A PEOPLE
-
 The breadth of view, the knowledge of other
 countries, of other thoughts, that comes to those who
 have wealth and leisure, were wanting to these
 ministers of the king. Natural capacity many of
 them had, but that is not of much value until it is
-cultivated. You cannot learn in the narrow pre-
-cincts of a village the knowledge necessary to the
+cultivated. You cannot learn in the narrow precincts of a village the knowledge necessary to the
 management of great affairs ; and therefore in affairs
 of state this want of any noble or leisured class was
 a very serious loss to the government of Burma.
 It had great and countervailing advantages, of which
 I will speak when I come to local government, but
-that it was a heavy loss as far as the central govern-
-ment goes no one can doubt. There was none of
+that it was a heavy loss as far as the central government goes no one can doubt. There was none of
 that check upon the power of the king which a
 powerful nobility will give ; there was no trained
 talent at his disposal. The king remained absolutely
@@ -3344,13 +2993,10 @@ some matters useful, but in others not so. If a
 governor sentenced a man to death — all governors
 
 
-90 THE SOUL OF A PEOPLE
-
 had power of life and death — he would bie executed
 long before an appeal could reach the council.
 Practically no check was possible by the palace over
-distant governors, and they did as they liked. Any-
-thing more disastrous and fatal to any kind of good
+distant governors, and they did as they liked. Anything more disastrous and fatal to any kind of good
 government than this it is impossible to imagine.
 The governors did what they considered right in
 their own eyes, and made as much money as they
@@ -3360,8 +3006,7 @@ administered the laws of Manu in civil and criminal
 affairs, except when tempted to deviate therefrom
 by good reasons ; they carried out orders received
 from Mandalay, when these orders fell in with their
-own desires, or when they considered that dis-
-obedience might be dangerous. It is a Burmese
+own desires, or when they considered that disobedience might be dangerous. It is a Burmese
 proverb that officials are one of the five great
 enemies of mankind, and there was, I think (at all
 events in the latter days of the kingdom) good
@@ -3375,8 +3020,7 @@ was rotten to the core.
 It may be asked why the Burmese people
 remained quiet under such a rule as this ; why
 they did not rise and destroy it, raising a new one
-in its place ; how it was that such a state of corrup-
-tion lasted for a year, let alone for many years.
+in its place ; how it was that such a state of corruption lasted for a year, let alone for many years.
 
 
 GOVERNMENT 91
@@ -3397,8 +3041,7 @@ trees clipped into curious shapes of bird and beast,
 tortured out of all knowledge, and many of the
 flowers mown down. The Burmese government
 left its people alone ; that was one great virtue.
-And, again, any government, however good, how-
-ever bad, is but a small factor in the life of a
+And, again, any government, however good, however bad, is but a small factor in the life of a
 people ; it comes far below many other things
 in importance. A short rainfall for a year is more
 disastrous than a mad king ; a plague is worse
@@ -3406,16 +3049,13 @@ than fifty grasping governors ; social rottenness is
 incomparably more dangerous than the rottenest
 government.
 
-And in Burma it was only the supreme govern-
-ment, the high officials, that were very bad. It was
+And in Burma it was only the supreme government, the high officials, that were very bad. It was
 only the management of state affairs that was feeble
 and corrupt ; all the rest was very good. The
 land laws, the self-government, the social condition
 of the people, were admirable. It was so good that
 the rotten central government made but little dif-
 
-
-92 THE SOUL OF A PEOPLE
 
 ference to the people, and it would probably have
 lasted for a long while if not attacked from outside.
@@ -3468,27 +3108,22 @@ people do not. However that may be, there is no
 doubt of the fact. Religion had nothing whatever
 — absolutely nothing in any way at all — to do with
 government. There are no exceptions. What has
-led people to think sometimes that there were excep-
-tions is the fact that the king confirmed the That-
+led people to think sometimes that there were exceptions is the fact that the king confirmed the That-
 hanabaing — the head of the community of monks —
 after he had been elected by his fellow-monks. The
 reason of this was as follows : All ecclesiastical
 matters — I use the word ' ecclesiastical ' because I
 can find no other — were outside the jurisdiction of
 civil limits. By ' ecclesiastical ' I mean such matters
-as referred to the ownership and habitation of monas-
-teries, the building of pagodas and places of prayer,
+as referred to the ownership and habitation of monasteries, the building of pagodas and places of prayer,
 the discipline of the monkhood. Such questions
-were decided by ecclesiastical courts under the That-
-hanabaing.
+were decided by ecclesiastical courts under the Thathanabaing.
 
 Now, it was necessary sometimes, as may be
 understood, to enforce these decrees, and for that
 reason to apply to civil power. Therefore there
 must be a head of the monks acknowledged by the
 
-
-94 THE SOUL OF A PEOPLE
 
 civil power as head, to make such applications as
 might be necessary in this, and perhaps some other
@@ -3562,10 +3197,7 @@ ecclesiastical power wielding authority over the
 people.
 
 
-96 THE SOUL OF A PEOPLE
-
-Each village was to a very great extent a self-
-governing community composed of men free in
+Each village was to a very great extent a selfgoverning community composed of men free in
 every way. The whole country was divided into
 villages, sometimes containing one or two hamlets
 at a little distance from each other — offshoots from
@@ -3576,8 +3208,7 @@ king as a matter of form, but they were chosen by
 their fellow-villagers as a matter of fact. Partly
 this headship was hereditary, not from father to
 son, but it might be from brother to brother, and
-so on. It was not usually a very coveted appoint-
-ment, for the responsibility and trouble were con-
+so on. It was not usually a very coveted appointment, for the responsibility and trouble were con-
 siderable, and the pay small. It was lo per cent,
 on the tax collections. And with this official as
 their head, the villagers managed nearly all their
@@ -3590,8 +3221,7 @@ and decided how much each household should pay.
 Thus a coolie might pay but four rupees, and a
 rice - merchant as much as fifty or sixty. The
 assessment was levied according to the means of
-the villagers. So well was this done, that com-
-plaints against the decisions of the assessors were
+the villagers. So well was this done, that complaints against the decisions of the assessors were
 almost unknown — I might, I think, safely say were
 absolutely unknown. The assessment was made
 
@@ -3599,8 +3229,7 @@ absolutely unknown. The assessment was made
 GOVERNMENT 97
 
 publicly, and each man was heard in his own
-defence before being assessed. Then the money-
-was collected. If by any chance, such as death,
+defence before being assessed. Then the moneywas collected. If by any chance, such as death,
 any family could not pay, the deficiency was made
 good by the other villagers in proportion. When
 the money was got in it was paid to the governor.
@@ -3619,8 +3248,7 @@ a nuisance to a village, he was expelled. I have
 often heard old Burmans talking about this, and
 comparing these times with those. In those times
 all crimes were unpunished, and there was but
-little petty crime. Now all big criminals are relent-
-lessly hunted down by the police ; and the inevitable
+little petty crime. Now all big criminals are relentlessly hunted down by the police ; and the inevitable
 weakening of the village system has led to a large
 increase of petty crime, and certain breaches of
 morality and good conduct. I remember talking
@@ -3631,13 +3259,8 @@ me he had no children ; they were dead.
 
 'When were you married?' I asked, just for
 
-7
 
-
-98 THE SOUL OF A PEOPLE
-
-something to say, and he said when he was thirty-
-two.
+something to say, and he said when he was thirtytwo.
 
 ' Isn't that rather old to be just married ?' I
 asked. ' I thought you Burmans often married at
@@ -3690,8 +3313,7 @@ the monastery without the gate was strong upon
 the people.
 
 Yet the monks never interfered with village
-affairs. As they abstained from state govern-
-ment, so they did from local government. You
+affairs. As they abstained from state government, so they did from local government. You
 never could imagine a Buddhist monk being a
 magistrate for his village, taking any part at all
 in municipal affairs. The same reasons that held
@@ -3705,8 +3327,7 @@ asked monks for their opinion to aid me in deciding
 little village disputes, I have never got an answer
 out of them. ' These are not our affairs,' they will
 answer always. ' Go to the people ; they will tell
-you what you want.' Their influence is by ex-
-ample and precept, by teaching the laws of the
+you what you want.' Their influence is by example and precept, by teaching the laws of the
 great teacher, by living a life blameless before
 men, by preparing their souls for rest. It is a
 general influence, never a particular one. If anyone
@@ -3720,8 +3341,7 @@ came to the monk for counsel, the monk would
 only repeat to him the sacred teaching, and leave
 him to apply it.
 
-So each village managed its own affairs, un-
-troubled by squire or priest, very little troubled by
+So each village managed its own affairs, untroubled by squire or priest, very little troubled by
 the state. That within their little means they did
 it well, no one can doubt. They taxed themselves
 without friction, they built their own monastery
@@ -3732,8 +3352,7 @@ own initiative.
 All this has passed, or is passing away. The
 king has gone to a banishment far across the sea,
 the ministers are either banished or powerless for
-good or evil. It will never rise again, this govern-
-ment of the king, which was so bad in all it did,
+good or evil. It will never rise again, this government of the king, which was so bad in all it did,
 and only good in what it left alone. It will never
 rise again. The people are now part of the British
 Empire, subjects of the Queen. What may be in
@@ -3780,8 +3399,7 @@ And as Buddhism was, so it is, so it will remain.
 By its very nature it abhors all semblance of
 authority. It has proved that, under temptation
 such as no other religion has felt, and resisted ; it
-is a religion of each man's own soul, not of govern-
-ments and powers.
+is a religion of each man's own soul, not of governments and powers.
 
 
 [ 102 ]
@@ -3803,8 +3421,7 @@ if I remember rightly, thirty rupees ; but the loss
 annoyed him, and as all search and inquiry proved
 futile, he put the matter in the hands of the police.
 
-And before long — the very next day — the posses-
-sion of the notes was traced to the officer's Burman
+And before long — the very next day — the possession of the notes was traced to the officer's Burman
 servant, who looked after his clothes and attended
 on him at table. The boy was caught in the act
 of trying to change one of the notes. He was
@@ -3821,14 +3438,12 @@ CRIME AND PUNISHMENT 103
 temptation, and he fell. When the officer learnt
 all this, he would, I think, have withdrawn from
 the prosecution and forgiven the boy ; but it was
-too late. In our English law theft is not com-
-poundable. A complaint of theft once made must
+too late. In our English law theft is not compoundable. A complaint of theft once made must
 be proved or disproved ; the accused must be tried
 before a magistrate. There is no alternative. Sq
 the lad — he was only a lad — was sent up before
 the magistrate, and he again pleaded guilty, and!
-his master asked that the punishment might be-
-light. The boy, he said, was an honest boy, and had
+his master asked that the punishment might belight. The boy, he said, was an honest boy, and had
 yielded to a sudden temptation. He, the master,
 had no desire to press the charge, but the reverse.
 He would never have come to court at all if he
@@ -3937,8 +3552,7 @@ io6 THE SOUL OF A PEOPLE
 English officer and his Burman servant failed to
 understand each other.
 
-For to the Englishman punishment was a degra-
-dation. It seemed to him far more disgraceful that
+For to the Englishman punishment was a degradation. It seemed to him far more disgraceful that
 his servant should have been in gaol than that he
 should have committed theft. The theft he was
 ready to forgive, the punishment he could not.
@@ -3959,8 +3573,7 @@ We are sure they are the worse. It is a deterrent
 for others, not a healing process for the man
 himself. We punish A. that B. may be afraid,
 and not do likewise. Our thoughts are bent on
-B., not really on A. at all. As far as he is con-
-cerned, the process is very similar to pouring boiling
+B., not really on A. at all. As far as he is concerned, the process is very similar to pouring boiling
 lead into a wound. We do not wish or intend to
 improve him, but simply and purely to make him
 suffer. After we have dealt with him, he is never
@@ -3975,8 +3588,7 @@ servant.
 Now see the boy's idea.
 
 Punishment is an atonement, a purifying of the
-soul from the stain of sin. That is the only justifi-
-cation for, and meaning of, suffering. If a man
+soul from the stain of sin. That is the only justification for, and meaning of, suffering. If a man
 breaks the everlasting laws of righteousness and
 stains his soul with the stain of sin, he must be
 purified, and the only method of purification is
@@ -3984,8 +3596,7 @@ by suffering. Each sin is followed by suffering,
 lasting just so long as to cleanse the soul— not a
 moment less, or the soul would not be white ; not
 a moment more, or it would be useless and cruel.
-That is the law of righteousness, the eternal in-
-evitable sequence that leads us in the end to
+That is the law of righteousness, the eternal inevitable sequence that leads us in the end to
 wisdom and peace. And as it is with the greater
 laws, so it should, the Buddhist thinks, be with the
 lesser laws.
@@ -4026,8 +3637,7 @@ he had never been in prison, his master would have
 forgiven his theft and taken him back, but now
 he would not. The boy was proud of having
 atoned in full, very full, measure for his sin ; the
-master looked upon the punishment as incon-
-ceivably worse than the crime.
+master looked upon the punishment as inconceivably worse than the crime.
 
 So the officer went about and told the story
 of his boy coming back, and expecting to be taken
@@ -4093,15 +3703,13 @@ in the districts of the delta, long under our rule,
 than in the newly-annexed province in the north.
 Under like conditions the Burman is probably no
 more criminal and no less criminal than other people
-in the same state of civilization. Crime is a con-
-dition caused by opportunity, not by an inherent
+in the same state of civilization. Crime is a condition caused by opportunity, not by an inherent
 state of mind, except with the very, very few, the
 exceptional individuals ; and in Upper Burma there
 is, now that the turmoil of the annexation is past,
 very little crime comparatively. There is less
 money there, and the village system — the control
-of the community over the individual — the restrain-
-ing influence of public opinion is greater. But
+of the community over the individual — the restraining influence of public opinion is greater. But
 even during the years of trouble, the years from
 1885 till 1890, when, in the words of the Burmese
 proverb, ' the forest was on fire and the wild-cat
@@ -4126,28 +3734,22 @@ but the others would be far different. They would
 be boys or young men led away by the idea of
 a frolic, allured by the romance of being a free-lance
 for a night, very sorry now, and ready to confess
-and do all in their power to atone for their mis-
-deeds.
+and do all in their power to atone for their misdeeds.
 
 Nothing, I think, was more striking than the
 universal confession of criminals on their arrest.
 Even now, despite the spread of lawyers and notions
-of law, in country districts accused men always con-
-fess, sometimes even they surrender themselves. I
+of law, in country districts accused men always confess, sometimes even they surrender themselves. I
 have known many such cases. Here is one that
 happened to myself only the other day.
 
 A man was arrested in another jurisdiction for
 cattle theft ; he was tried there and sentenced to
-two years' rigorous imprisonment. Shortly after-
-wards it was discovered that he was suspected of
+two years' rigorous imprisonment. Shortly afterwards it was discovered that he was suspected of
 being concerned in a robbery in my jurisdiction,
 committed before his arrest. He was therefore
 transferred to the gaol near my court, and I inquired
 into the case, and committed him and four others
-
-
-THE SOUL OF A PEOPLE
 
 
 for trial before the sessions judge for the robbery,
@@ -4219,10 +3821,6 @@ by punishment, by that punishment which some
 consider is intended to uplift them, but which
 never does aught but degrade them. Instead of
 
-8
-
-
-114 THE SOUL OF A PEOPLE
 
 cleansing the garment, it tears it, and rerlders it
 useless for this life.
@@ -4232,8 +3830,7 @@ punishment. I have not written all this because
 I have any suggestion to make to improve it. I
 have not written it because I think that the laws
 of Manu, which obtained under the Burmese kings,
-and their methods of punishment, were any im-
-provement on ours. On the contrary, I think they
+and their methods of punishment, were any improvement on ours. On the contrary, I think they
 were much worse. Their laws and their methods
 of enforcing the law were those of a very young
 people. But, notwithstanding this, there was a spirit
@@ -4249,8 +3846,7 @@ very different from ours. As in our religion, so
 in our laws : we believe in mercy at one time and
 in vengeance at another. We believe in vicarious
 punishment and vicarious salvation ; they believe in
-absolute justice — always the same, eternal and un-
-changeable as the laws of the stars. We purposely
+absolute justice — always the same, eternal and unchangeable as the laws of the stars. We purposely
 make punishment degrading ; they think it should
 be elevating, that in its purifying power lies its sole
 use and justification. We believe in tearing a soiled
@@ -4267,8 +3863,7 @@ before them, to a conception of justice, to a method
 of dealing with crime, very different from what we
 know ourselves. They are now very much as we
 were sixteen centuries ago, when the Romans ruled
-us. Now we are a greater people, our justice is-
-better, our prisons are better, our morality is incon-
+us. Now we are a greater people, our justice isbetter, our prisons are better, our morality is incon-
 ceivably better than Imperial Rome ever dreamt
 of And so with these people, when their time
 shall come, when they shall have grown out of
@@ -4297,16 +3892,14 @@ Burmese saying.
 As I have said, there was this very remarkable
 fact in Burma — that when you left the king, you
 dropped at once to the villager. There were no
-intermediate classes. There were no nobles, heredi-
-tary officers, great landowners, wealthy bankers or
+intermediate classes. There were no nobles, hereditary officers, great landowners, wealthy bankers or
 merchants.
 
 Then there is no caste ; there are no guilds of
 trade, or art, or science. If a man discovered a
 method of working silver, say, he never hid it,
 but made it common property. It is very curious
-how absolutely devoid Burma is of the exclusive-
-ness of caste so universal in India, and which
+how absolutely devoid Burma is of the exclusiveness of caste so universal in India, and which
 survives to a great extent in Europe. The Burman
 is so absolutely enamoured of freedom, that he
 cannot abide the bonds which caste demands.
@@ -4329,8 +3922,7 @@ And so all the people are on the same level.
 Richer and poorer there are, of course, but there
 are no very rich ; there is none so poor that he
 cannot get plenty to eat and drink. All eat much
-the same food, all dress much alike. The amuse-
-ments of all are the same, for entertainments are
+the same food, all dress much alike. The amusements of all are the same, for entertainments are
 always free. So the Burman does not care to
 be rich. It is not in his nature to desire wealth,
 it is not in his nature to care to keep it when it
@@ -4345,8 +3937,7 @@ a Burman : he will spend it. And after his own
 little wants are satisfied, after he has bought himself
 a new silk, after he has given his wife a gold
 bangle, after he has called all his village together
-and entertained them with a dramatic entertain-
-ment — sometimes even before all this — he will
+and entertained them with a dramatic entertainment — sometimes even before all this — he will
 spend the rest on charity.
 
 
@@ -4374,8 +3965,7 @@ meaning ! Near villages and towns there are
 clusters of them, great and small. The great pagoda
 in Rangoon is as tall as St. Paul's ; I have seen
 many a one not three feet high — the offering of
-some poor old man to the Great Name, and every-
-where there are monasteries. Every village has
+some poor old man to the Great Name, and everywhere there are monasteries. Every village has
 one, at least ; most have two or three. A large
 village will have many. More would be built if
 there was anyone to live in them, so anxious is
@@ -4389,9 +3979,6 @@ in the dense forests by the mountain-side you will
 HAPPINESS
 
 
-119
-
-
 find them, built in some little hollow by the roadside
 by someone who remembered his fellow-traveller.
 You cannot go five miles along any road without
@@ -4401,8 +3988,7 @@ are required.
 
 And in Burmese times such roads and bridges
 as were made were made in the same way by
-private charity. Nowadays, the British Govern-
-ment takes that in hand, and consequently there
+private charity. Nowadays, the British Government takes that in hand, and consequently there
 is probably more money for rest-house building
 than is required. As time goes on, the charity
 will flow into other lines, no doubt, in addition.
@@ -4420,13 +4006,9 @@ material progress.
 
 The inclination to charity is very strong. The
 Burmans give in charity far more in proportion to
-their wealth than any other people. It is extra-
-ordinary how much they give, and you must re-
+their wealth than any other people. It is extraordinary how much they give, and you must re-
 member that all of this is quite voluntary. With,
 I think, two or three exceptions, such as gilding
-
-
-THE SOUL OF A PEOPLE
 
 
 the Shwe Dagon pagoda, collections are never made
@@ -4469,23 +4051,19 @@ his, the new rest-house on the mountain road far
 up in the hills was his. He supported many monks,
 he gave largely to the gilding of the pagoda. If a
 theatrical company came that way, he subscribed
-freely. Soon he thought he would retire from con-
-tracting altogether, for he had enough to live on
+freely. Soon he thought he would retire from contracting altogether, for he had enough to live on
 quietly for the rest of his life.
 
 His action is no exception, but the rule. You
 will find that every well-to-do man has built his
-pagoda or his monastery, and is called 'school-
-builder' or 'pagoda- builder.' These are the only
+pagoda or his monastery, and is called 'schoolbuilder' or 'pagoda- builder.' These are the only
 titles the Burman knows, and they always are given
 most scrupulously. The builder of a bridge, a well,
-or a rest-house may also receive the title of ' well-
-builder,' and so on, but such titles are rarely used in
+or a rest-house may also receive the title of ' wellbuilder,' and so on, but such titles are rarely used in
 common speech. Even the builder of a long shed
 for water-jars may call himself after it if he likes,
 but it is only big builders who receive any title from
-their fellows. But the satisfaction to the man him-
-self, the knowledge that he has done a good deed,
+their fellows. But the satisfaction to the man himself, the knowledge that he has done a good deed,
 is much the same, I think.
 
 A Burman's wants are very few, such wants as
@@ -4499,9 +4077,6 @@ now their desires are easily satisfied.
 
 The Burman does not care for a big house, for
 there are always the great trees and the open spaces
-
-
-THE SOUL OF A PEOPLE
 
 
 by the village. It is far pleasanter to sit out of
@@ -4526,8 +4101,7 @@ should think, that is a great thing. Very, very few
 great readers are great thinkers. And he who can
 live his life, what cares he for reading of the lives of
 other people ? To have loved once is more than to
-have read all the poets that ever sang. So a Bur-
-man thinks. To see the moon rise on the river as
+have read all the poets that ever sang. So a Burman thinks. To see the moon rise on the river as
 you float along, while the boat rocks to and fro and
 someone talks to you — is not that better than any
 tale?
@@ -4572,8 +4146,6 @@ cannot think, and see, and understand. ' Work is a
 means to leisure,' Aristotle told us long ago, and
 leisure, adds the Burman, is needed that you may
 
-
-124 THE SOUL OF A PEOPLE
 
 compose your own soul. Work, no doubt, Is a
 necessity, too, but not excess of it.
@@ -4646,8 +4218,6 @@ a conqueror of other peoples, either with the sword,
 with trade, or with religion. He will never care
 
 
-126 THE SOUL OF A PEOPLE
-
 to have a great voice in the management of the
 world. He does not care to interfere with other
 people : he never believes interference can do other
@@ -4667,7 +4237,6 @@ happiest.
 
 CHAPTER X
 
-THE MONKHOOD 1
 
 ' Let his life be kindness, his conduct righteousness ; then in the
 fulness of gladness he will make an end of grief.' — Dammapada.
@@ -4703,8 +4272,7 @@ for by a priest we understand one who has received
 from above some power, who is, as it were, a
 representative on earth of God. Priests, to our
 thinking, are those who have delegated to them
-some of that authority of which God is the fountain-
-head. They can absolve from sin, we think ; they
+some of that authority of which God is the fountainhead. They can absolve from sin, we think ; they
 can accept into the faith ; they can eject from it ;
 they can exhort with authority ; they can administer
 the sacraments of religion ; they can speed the
@@ -4717,18 +4285,14 @@ anything of all this. The God who lies far beyond
 our ken has delegated His authority to no one.
 He works through everlasting laws. His will is
 manifested by unchangeable sequences. There is
-nothing hidden about His laws that requires exposi-
-tion by His agents, nor any ceremonies necessary
+nothing hidden about His laws that requires exposition by His agents, nor any ceremonies necessary
 for acceptance into the faith. Buddhism is a free
-religion. No one holds the keys of a man's salva-
-tion but himself Buddhism never dreams that
+religion. No one holds the keys of a man's salvation but himself Buddhism never dreams that
 anyone can save or damn you but yourself, and
 so a Buddhist monk is as far away from our ideas
 of a priest as can be. Nothing could be more
 abhorrent to Buddhism than any claim of authority.
 
-
-THE MONKHOOD 129
 
 of power, from above, of holiness acquired except
 by the earnest effort of a man's own soul.
@@ -4748,12 +4312,10 @@ a priesthood would be repugnant to Buddhism.
 
 It is a wonderful thing to contemplate how this
 brotherhood has existed all these many centuries,
-how it has always gained the respect and admira-
-tion of the people, how it has always held in its
+how it has always gained the respect and admiration of the people, how it has always held in its
 hands the education of the children, and yet has
 never aspired to sacerdotalism. Think of the
-temptation resisted here. The temptation to inter-
-fere in government was great, the temptation to
+temptation resisted here. The temptation to interfere in government was great, the temptation to
 arrogate to themselves priestly powers is far, far
 greater. And yet it has been always resisted.
 This brotherhood of monks is to-day as it was
@@ -4765,10 +4327,6 @@ dismiss from our minds any idea of priesthood,
 any idea of extra human sanctity, of extra human
 authority. We must never liken them in any way
 
-9
-
-
-130 THE SOUL OF A PEOPLE
 
 to our priests, or even to our friars. I use the
 word monk, because it is the nearest of any English
@@ -4803,18 +4361,14 @@ governed by stringent regulations — the regulations
 laid down in the Wini for observance by all monks.
 
 
-THE MONKHOOD 131
-
 When a man enters the monkhood, he makes four
 vows — that he will be pure from lust, from desire
 of property, from the taking of any life, from the
 assumption of any supernatural powers. Consider
 this last, how it disposes once and for all of any
-desire a monk may have toward mysticism, for this-
-is what he is taught :
+desire a monk may have toward mysticism, for thisis what he is taught :
 
-' No member of our community may ever arro-
-gate to himself extraordinary gifts or supernatural
+' No member of our community may ever arrogate to himself extraordinary gifts or supernatural
 perfection, or through vainglory give himself out
 to be a holy man ; such, for instance, as to withdraw
 into solitary places on pretence of enjoying ecstasies
@@ -4830,8 +4384,7 @@ Is not this teaching the very reverse of that of
 all other peoples and religions ? Can you imagine
 the religious teachers of any other religion being
 warned to keep themselves free from visions ?
-Are not visions and trances, dreams and imagina-
-tions, the very proof of holiness ? But here it is
+Are not visions and trances, dreams and imaginations, the very proof of holiness ? But here it is
 not so. These are vain things, foolish imaginations,
 and he who would lead the pure life must put behind
 him all such things as mere dram-drinking of the
@@ -4842,13 +4395,10 @@ This is a most wonderful thing, a religion that
 9—2
 
 
-132 THE SOUL OF A PEOPLE
-
 condemns all mysticisms. It stands alone here
 amongst all religions, pure from the tinsel of miracle,
 either past, or present, or to come. And yet this
-people is, like all young nations, given to super-
-stition : its young men dream dreams, its girls see
+people is, like all young nations, given to superstition : its young men dream dreams, its girls see
 visions. There are interpreters of dreams, many
 of them, soothsayers of all kinds, people who will
 give you charms, and foretell events for you. Just
@@ -4877,9 +4427,6 @@ other gifts, heavenly ones ; they will be endued
 with power from above ; they will have authority
 
 
-THE MONKHOOD 133
-
-
 from on high ; they will become the chosen
 messengers of God ; they may even in their
 trances enter into His heaven, and see Him face
@@ -4904,8 +4451,7 @@ of life. Hysteric dreams, the childishness of the
 mysterious, the insanity of the miraculous, are no
 part of that.
 
-And so a monk has to put behind him every-
-thing that is called good in this life, and govern
+And so a monk has to put behind him everything that is called good in this life, and govern
 his body and his soul in strict temperance.
 
 He must wear but yellow garments, ample and
@@ -4917,8 +4463,6 @@ and never after noon ; he must take no interest in
 worldly affairs; he must own no property, must
 
 
-134 THE SOUL OF A PEOPLE
-
 attend no plays or performances ; ' he must eat,
 not to satisfy his appetite, but to keep his body
 alive ; he must wear clothes, not from vanity, but
@@ -4929,8 +4473,7 @@ strictest poverty and purity.
 
 You see that there is no austerity. A monk may
 not over-eat, but he must eat enough ; he must not
-wear fine clothes, but he must be decent and com-
-fortable ; he must not have proud dwellings, but he
+wear fine clothes, but he must be decent and comfortable ; he must not have proud dwellings, but he
 should be sheltered from the weather.
 
 There is no self-punishment in Buddhism. Did
@@ -4954,11 +4497,8 @@ and women. He may talk to them — he is no recluse ;
 but he must not talk too much about worldly matters.
 
 
-THE MONKHOOD 135
-
 He must be careful of his thoughts, that they do not
-lead him into wrong paths. His life is a life of self-
-culture.
+lead him into wrong paths. His life is a life of selfculture.
 
 Being no priest, he has few duties to others to
 perform ; he is not called upon to interfere in the
@@ -4982,14 +4522,11 @@ their yellow robes, their faces cast upon the ground,
 and the begging-bowls in their hands, follow the
 monks. Very slowly they pass along the streets,
 amid the girls hurrying to their stalls in the bazaar
-with baskets of fruit upon their heads, the house-
-wives out to buy their day's requirements, the work-
+with baskets of fruit upon their heads, the housewives out to buy their day's requirements, the work-
 man going to his work, the children running and
 laughing and falling in the dust. Everyone makes
 room for them as they go in slow and solemn pro-
 
-
-136 THE SOUL OF A PEOPLE
 
 cession, and from this house and that come forth
 women and children with a little rice that they have
@@ -5023,8 +4560,6 @@ do not want it, there are the poor, there are the
 schoolboys, sons of the poorest of the people, who
 may often be in need of a meal ; and if not, then
 
-
-THE MONKHOOD 137
 
 there are the birds and the beasts. It is a good
 thing to give alms — good for yourself, I mean. So
@@ -5061,11 +4596,8 @@ to the monks of the Buddha to live under the shade
 of lofty trees, and this command they always keep.
 
 
-138 THE SOUL OF A PEOPLE
-
 They are most beautiful, many of these monasteries
-— great buildings of dark - brown teak, weather-
-stained, with two or three roofs one above the
+— great buildings of dark - brown teak, weatherstained, with two or three roofs one above the
 other, and at one end a spire tapering up until
 it ends in a gilded ' tee.' Many of the monasteries
 are covered with carving along the fagades and
@@ -5095,8 +4627,6 @@ books.
 
 At one end there will be sure to be the image
 
-
-THE MONKHOOD 139
 
 of the teacher, wrought in alabaster. These are
 always one of three stereotyped designs ; they are
@@ -5145,8 +4675,7 @@ moves, the cooing of the pigeons in the eaves, the
 voices of the schoolboys. Monastery land is sacred.
 No life may be taken there, no loud sounds, no
 noisy merriment, no abuse is permitted anywhere
-within the fence. Monasteries are places of medita-
-tion and peace.
+within the fence. Monasteries are places of meditation and peace.
 
 Of course, all monasteries are not great and
 beautiful buildings ; many are but huts of bamboo
@@ -5169,8 +4698,6 @@ dinners there, where all life is protected ; we treat
 these monks, these who are the honoured of the
 
 
-THE MONKHOOD 141
-
 nation, much in the offhand, unceremonious way
 that we treat all Orientals ; we often openly laugh
 at their religion. And yet they always receive us ;
@@ -5178,8 +4705,7 @@ they are often even glad to see us and talk to
 us. Very, very seldom do you meet with any
 return in kind for your contempt of their faith and
 habits. I have heard it said sometimes that some
-monks stand aloof, that they like to keep to them-
-selves. If they should do so, can you wonder ?
+monks stand aloof, that they like to keep to themselves. If they should do so, can you wonder ?
 Would any people, not firmly bound by their
 religion, put up with it all for a moment.'* If you
 went into a Mahommedan mosque in Delhi with
@@ -5203,14 +4729,11 @@ enforce upon strangers the respect and reverence
 due to purity, to courage, to the better things.
 
 
-142 THE SOUL OF A PEOPLE
-
 Each man is responsible for himself, the foreigner
 no less than the Burman. If a foreigner have no
 respect for what is good, that is his own business.
 It can hurt no one but himself if he is blatant,
-ignorant, contemptuous. No one is insulted by-
-it, or requires revenge for it. You might as well
+ignorant, contemptuous. No one is insulted byit, or requires revenge for it. You might as well
 try and insult gravity by jeering at Newton and
 his pupils, as injure the laws of righteousness by
 jeering at the Buddha or his monks. And so you
@@ -5229,21 +4752,17 @@ will interfere with you. Nay, if you even show a
 little courtesy to the monks, your hosts, they will
 be glad to talk to you and tell you of their lives
 and their desires. It is very seldom that a pleasant
-word or a jest will not bring the monks into for-
-getting all your offences, and talking to you freely
+word or a jest will not bring the monks into forgetting all your offences, and talking to you freely
 and openly. I have had, I have still, many friends
 among the monkhood ; I have been beholden to
 them for many kindnesses ; I have found them
 always, peasants as they are, courteous and well-
 
 
-THE MONKHOOD 143
-
 mannered. Nay, there are greater things than
 these.
 
-When my dear friend was murdered at the out-
-break of the war, wantonly murdered by the soldiers
+When my dear friend was murdered at the outbreak of the war, wantonly murdered by the soldiers
 of a brutal official, and his body drifted down the
 river, everyone afraid to bury it, for fear of the
 wrath of government, was it not at last tenderly
@@ -5274,8 +4793,6 @@ self-conceit and sheer vanity, for all sorts of things,
 of value and of no value. Death proves nothing.
 
 
-144 THE SOUL OF A PEOPLE
-
 Even a coward can die well. But a pure life is the
 outcome only of the purest religion, of the greatest
 belief, of the most magnificent courage. Those
@@ -5289,13 +4806,11 @@ think a good death hallows an evil life ; no Buddhist
 would hear of this for a moment.
 
 The reverence in which a monk — ay, even the
-monk to-day who was but an ordinary man yester-
-day — is held by the people is very great. All those
+monk to-day who was but an ordinary man yesterday — is held by the people is very great. All those
 who address him do so kneeling. Even the king
 himself was lower than a monk, took a lower
 seat than a monk in the palace. He is addressed
-as ' Lord,' and those who address him are his dis-
-ciples. Poor as he is, living on daily charity, without
+as ' Lord,' and those who address him are his disciples. Poor as he is, living on daily charity, without
 any power or authority of any kind, the greatest in
 the land would dismount and yield the road that he
 should pass. Such is the people's reverence for a
@@ -5311,21 +4826,17 @@ alms is a degradation, where the ideal is power, to
 see here all this reversed. The monks are the
 
 
-THE MONKHOOD 145
-
 poorest of the poor, they are dependent on the
 people for their daily bread ; for although lands
 may be given to a monastery — as a matter of fact,
-very few have any at all, and those only a few palm-
-trees — they have no power at all, either temporal or
+very few have any at all, and those only a few palmtrees — they have no power at all, either temporal or
 eternal ; they are not very learned, and yet they are
 the most honoured of all people. Without any of
 the attributes which in our experience gather the
 love and honour of mankind, they are honoured
 above all men.
 
-The Burman demands from the monk no assist-
-ance in heavenly affairs, no interference in worldly,
+The Burman demands from the monk no assistance in heavenly affairs, no interference in worldly,
 only this, that he should live as becomes a follower
 of the great teacher. And because he does so live
 the Burman reverences him beyond all others. The
@@ -5335,8 +4846,7 @@ and loved. There is no one beside him in the heart
 of the people. If you would know what a Burman
 would be, see what a monk is : that is his ideal. But
 it is a very difficult ideal. The Burman is very fond
-of life, very full of life, delighting in the joy of exist-
-ence, brimming over with vitality, with humour, with
+of life, very full of life, delighting in the joy of existence, brimming over with vitality, with humour, with
 merriment. They are a young people, in the full
 flush of early nationhood. To them of all people
 the restraints of a monk's life must be terrible and
@@ -5345,10 +4855,6 @@ they all know how hard it is to do right, and
 because the monks do right, they honour them, and
 they know they deserve honour. Remember that
 
-10
-
-
-146 THE SOUL OF A PEOPLE
 
 all these people have been monks themselves at one
 time or other ; they know how hard the rules are,
@@ -5358,12 +4864,10 @@ have seen their monkhood from the inside ; their
 reverence is the outcome of a very real knowledge.
 
 Of the internal management of the monkhood
-I have but little to say. There is the Thathana-
-baing, who is the head of the community ; there are
+I have but little to say. There is the Thathanabaing, who is the head of the community ; there are
 under him Gaing-oks, who each have charge of a
 district; each Gaing-ok has an assistant, 'a prop,'
-called Gaing-dauk; and there are the heads of monas-
-teries. The Thathanabaing is chosen by the heads
+called Gaing-dauk; and there are the heads of monasteries. The Thathanabaing is chosen by the heads
 of the monasteries, and appoints his Gaing-oks and
 Gaing-dauks. There is no complication about it.
 Usually any serious dispute is decided by a court
@@ -5383,8 +4887,6 @@ liked, that irregularities could creep in, and that,
 in fact, there is nothing to prevent a monastery
 becoming a disgrace. This would be a great
 
-
-THE MONKHOOD 147
 
 mistake. It must never be forgotten that monks
 are dependent on their village for everything —
@@ -5420,15 +4922,12 @@ he finds that he cannot live up to the standard
 10 — 2
 
 
-148 THE SOUL OF A PEOPLE
-
 required, he is free to go. There is no compulsion
 to stay, no stigma on going. As a matter of fact,
 very few monks there are but have left the
 monastery at one time or another. It is impossible
 to over-estimate the value of this safety-valve.
-What with the certainty of detection and punish-
-ment from his people, and the knowledge that he
+What with the certainty of detection and punishment from his people, and the knowledge that he
 can leave the monastery if he will at the end of
 his time without any reproach, a monk is almost
 always able to keep within his rules.
@@ -5455,8 +4954,6 @@ understood that anyone can enter a monastery —
 thieves and robbers, murderers and sinners of every
 
 
-THE MONKHOOD 149
-
 description, can enter, are even urged to enter
 monasteries, and try to live the holy life ; and many
 of them do, either as a refuge against pursuit,
@@ -5475,8 +4972,7 @@ is honoured alike by all ; it is kept in the straight
 way, not only from the inherent righteousness of
 its teaching, but from the determination of the
 people to allow no stain to rest upon what they
-consider as their ' great glory.' This whole monk-
-hood is founded on freedom. It is held together
+consider as their ' great glory.' This whole monkhood is founded on freedom. It is held together
 not by a strong organization, but by general consent.
 There is no mystery about it, there are no dark
 places here where the sunlight of inquiry may not
@@ -5489,8 +4985,6 @@ restrained by no rigid discipline. It is simply the
 free outcome of the free beliefs of the people, as
 much a part of them as the fruit is of the tree.
 
-
-150 THE SOUL OF A PEOPLE
 
 You could no more imagine grapes without a vine
 than a Buddhist monkhood that did not spring
@@ -5518,26 +5012,19 @@ but a 'pretended saviour,' his teachings based on
 ' capital and revolting errors,' and marked with an
 ' inexplicable and deplorable eccentricity.' Bishop
 Bigandet was in no sympathy with Buddhism, but
-its avowed foe, desirous of undermining and destroy-
-ing its influence over the hearts of men, and yet
+its avowed foe, desirous of undermining and destroying its influence over the hearts of men, and yet
 this is the way he ends his chapter :
 
 ' There is in that religious body — the monks — a
 
 
-THE MONKHOOD 151
-
-
-latent principle of vitality that keeps it up and com-
-municates to it an amount of strength and energy
+latent principle of vitality that keeps it up and communicates to it an amount of strength and energy
 that has hitherto maintained it in the midst of wars,
-revolutionary and political, convulsions of all descrip-
-tions. Whether supported or not by the ruling
+revolutionary and political, convulsions of all descriptions. Whether supported or not by the ruling
 power, it has remained always firm and unchanged.
 It is impossible to account satisfactorily for such a
 phenomenon, unless we find a clear and evident
-cause of such extraordinary vitality, a cause inde-
-pendent of ordinary occurrences of time and circum-
+cause of such extraordinary vitality, a cause independent of ordinary occurrences of time and circum-
 stances, a cause deeply rooted in the very soul of
 the populations that exhibit before the observer this
 great and striking religious feature.
@@ -5558,12 +5045,9 @@ powerful religious connection.
 ' The members of the order preserve, at least
 exteriorly, the decorum of their profession. The
 rules and regulations are tolerably well observed ;
-the grades of hierarchy are maintained with scru-
-pulous exactitude. The life of the religious is one
+the grades of hierarchy are maintained with scrupulous exactitude. The life of the religious is one
 of restraint and perpetual control. He is denied all
 
-
-152 THE SOUL OF A PEOPLE
 
 sorts of pleasures and diversions. How could such
 a system of self-denial ever be maintained, were it
@@ -5612,21 +5096,15 @@ learn religion in their childhood, the fact that the
 wisest and most honoured men entered the monk-
 
 
-154 THE SOUL OF A PEOPLE
-
-hood, the leisure of the monks giving them oppor-
-tunity for such occupation.
+hood, the leisure of the monks giving them opportunity for such occupation.
 
 Every man all through Burma has gone to a
 monastery school as a lad, has lived there with the
-monks, has learnt from them the elements of educa-
-tion and a knowledge of his faith. It is an exception
-to find a Burman who cannot read and write. Some-
-times from lack of practice the art is lost in later
+monks, has learnt from them the elements of education and a knowledge of his faith. It is an exception
+to find a Burman who cannot read and write. Sometimes from lack of practice the art is lost in later
 manhood, but it has always been acquired. The
 education is not very deep — reading Burmese and
-writing ; simple, very simple, arithmetic ; a know-
-ledge of the days and months, and a little geography,
+writing ; simple, very simple, arithmetic ; a knowledge of the days and months, and a little geography,
 perhaps, and history— that is all. But of their religion
 they learn a great deal. They have to get by heart
 great portions of the sacred books, stories and
@@ -5646,8 +5124,6 @@ tomb of the great teacher, saying his laws. The
 light comes rapidly in this country : the sky reddens,
 the stars die quickly overhead, the first long beams
 
-
-THE MONKHOOD 155
 
 of sunrise are trembling on the dewy bamboo
 feathers ere they have finished. It is one of the
@@ -5721,8 +5197,6 @@ with, every attraction to, science. Buddhism will
 never try and block the progress of the truth, of
 
 
-THE MONKHOOD '157
-
 light, secular or religious ; but whether the monks
 will find it within their vows to provide that science,
 only tinne can prove. However it may be, it will
@@ -5731,8 +5205,7 @@ the monks are held. They are not honoured for
 their wisdom — they often have but little ; nor for
 their learning — they often have none at all ; nor for
 their industry — they are never industrious ; but
-because they are men trying to live — nay, suc-
-ceeding in living — a life void of sin. Up till now
+because they are men trying to live — nay, succeeding in living — a life void of sin. Up till now
 the education given by the monks has met the
 wants of the people ; in future it will do so less
 and less. But a community that has lived through
@@ -5763,15 +5236,13 @@ was plainly built. It might have held, perhaps,
 twenty people ; and here, as I strolled past in the
 evening when the sun was setting, I would see two
 or three old men sitting with beads in their hands.
-They were making their devotions, saying to them-
-selves that the world was all trouble, all weariness",
+They were making their devotions, saying to themselves that the world was all trouble, all weariness",
 and that there was no rest anywhere except in
 observing the laws of righteousness. It was very
 pathetic, I thought, to see them there, saying this
 over and over again, as they told their beads
 through their withered fingers, for surely there was
-no necessity for them to learn it. Has not every-
-one learnt it, this, the first truth of Buddhism, long
+no necessity for them to learn it. Has not everyone learnt it, this, the first truth of Buddhism, long
 before his hair is gray, before his hands are shaking,
 before his teeth are gone ? But there they would
 
@@ -5780,8 +5251,7 @@ PRAYER 159
 
 
 sit, evening after evening, thinking of the change
-about to come upon them soon, realizing the empti-
-ness of life, wishing for the Great Peace.
+about to come upon them soon, realizing the emptiness of life, wishing for the Great Peace.
 
 On Sundays the rest-house, like many others
 round the village, was crowded. Old men there
@@ -5825,8 +5295,7 @@ but to be merciful and kind. We ask Him to
 protect us from our enemies, not to allow them to
 triumph over us, but to give us triumph over them.
 But the Buddhist has far other thoughts than
-these. He believes that the world is ruled by ever-
-lasting, unchangeable laws of righteousness. The
+these. He believes that the world is ruled by everlasting, unchangeable laws of righteousness. The
 great God lives far behind His laws, and they are
 for ever and ever. You cannot change the laws of
 righteousness by praising them, or by crying against
@@ -5838,8 +5307,7 @@ should be altered. The Buddhist believes that the
 sequences are founded on righteousness, are the
 path to righteousness, and he does not believe he
 could alter them for the better, even if he had the
-power by prayer to do so. He believes in the ever-
-lasting righteousness, that all things work for good in
+power by prayer to do so. He believes in the everlasting righteousness, that all things work for good in
 the end ; he has no need for prayer or praise ; he
 thinks that the world is governed with far greater
 wisdom than any of his — perfect wisdom, that is too
@@ -5850,23 +5318,19 @@ PRAYER i6i
 
 
 God lives far behind His laws ; think not He has
-made them so badly as to require continual rectifi-
-cation at the prayer of man. Think not that God is
+made them so badly as to require continual rectification at the prayer of man. Think not that God is
 not bound by His own laws. The Buddhist will
 never believe that God can break His own laws ;
 that He is like an earthly king who imagines one
 code of morality for his subjects and another for
 himself. Not so ; the great laws are founded in
-righteousness, so the Buddhist believes, in ever-
-lasting righteousness ; they are perfect, far beyond
-our comprehension ; they are the eternal, unchange-
-able, marvellous will of God, and it is our duty not
+righteousness, so the Buddhist believes, in everlasting righteousness ; they are perfect, far beyond
+our comprehension ; they are the eternal, unchangeable, marvellous will of God, and it is our duty not
 to be for ever fretfully trying to change them, but to
 be trying to understand them. That is the Buddhist
 belief in the meaning of religion, and in the laws of
 righteousness ; that is, he believes the duty of him
-who would follow religion to be to try to under-
-stand these laws, to bring them home to the heart,
+who would follow religion to be to try to understand these laws, to bring them home to the heart,
 so to order life as to bring it into harmony with
 righteousness.
 
@@ -5879,8 +5343,7 @@ better.
 We believe, really, that we know a great deal
 better than God what is good, not only for us, but
 for others ; we do not believe His will is always
-righteous — not at all : God has wrath to be depre-
-cated ; He has mercy to be aroused ; He has
+righteous — not at all : God has wrath to be deprecated ; He has mercy to be aroused ; He has
 
 1 1
 
@@ -5899,13 +5362,11 @@ to see these laws, and to order our life in accordance
 with them.
 
 And so it will be understood, I think, why there
-is no prayer, no gathering together for any cere-
-monial, in Buddhism ; why there is no praise, no
+is no prayer, no gathering together for any ceremonial, in Buddhism ; why there is no praise, no
 thanksgiving of any kind ; why it is so very different
 in this way from our faith. Buddhism is a wisdom,
 a seeking of the light, a following of the light, each
-man as best he can, and it has very little to corre-
-spond with our prayer, our services of praise, our
+man as best he can, and it has very little to correspond with our prayer, our services of praise, our
 meetings together in the name of Christ.
 
 Therefore, when you see a man kneeling before a
@@ -5965,8 +5426,6 @@ towards thanksgiving. It considers them an im-
 II — 2
 
 
-1 64 THE SOUL OF A PEOPLE
-
 pertinence and a foolishness, born of ignorance,
 akin to the action of him who would daily desire
 Atlas not to allow the heavens to drop upon the
@@ -5980,8 +5439,7 @@ And yet, and yet.
 I remember standing once on the platform of
 a famous pagoda, the golden spire rising before us,
 and carved shrines around us, and seeing a woman
-lying there, her face to the pagoda. She was pray-
-ing fervently, so fervently that her words could be
+lying there, her face to the pagoda. She was praying fervently, so fervently that her words could be
 heard, for she had no care for anyone about, in such
 trouble was she ; and what she was asking was this,
 that her child, her baby, might not die. She held
@@ -5999,10 +5457,8 @@ woman cried, again and again.
 Whom was she beseeching ? I do not know.
 
 ' Thakin, there will be Someone, Someone. A
-Spirit may hear. Who can tell ? Surely some-
-one will help me ? Men would help me if they
-could, but they cannot ; surely there will be some-
-one ?'
+Spirit may hear. Who can tell ? Surely someone will help me ? Men would help me if they
+could, but they cannot ; surely there will be someone ?'
 
 
 PRAYER 165
@@ -6026,15 +5482,13 @@ strong. That is what women pray for. Do you
 think a queen would pray differently to any other
 woman ?'
 
-' Women,' say the Buddhist monks, ' never under-
-stand. They will not understand ; they cannot
+' Women,' say the Buddhist monks, ' never understand. They will not understand ; they cannot
 learn. And so we say that most women must be
 born again, as men, before they can see the light
 and understand the laws of righteousness.'
 
 What do women care for laws of righteousness ?
-What do they care for justice? What for the ever-
-lasting sequences that govern the world ? Would
+What do they care for justice? What for the everlasting sequences that govern the world ? Would
 not they involve all other men, all earth and heaven,
 in bottomless chaos, to save one heart they loved ?
 That is woman's religion.
@@ -6087,8 +5541,7 @@ as the monks live, will eat but before mid-day, will
 abstain from tobacco. There are no plays during
 Lent, and there are no marriages. It is the time
 for preparing the land for the crop ; it is the time
-for preparing the soul for eternity. The congrega-
-tions on the Sundays will be far greater at this time
+for preparing the soul for eternity. The congregations on the Sundays will be far greater at this time
 than at any other ; there will be more thought of
 the serious things of life.
 
@@ -6106,8 +5559,6 @@ long ; there is a new feeling in the wind, a laughter
 in the sunshine, a flush of blossom along the fields
 like the awakening of a new joy. The rains are
 
-
-1 68 THE SOUL OF A PEOPLE
 
 ^ »
 
@@ -6198,8 +5649,7 @@ used to be. There it is now, and you may hear it
 when you go, giving out a long, deep note, the beat
 of the pagoda's heart.
 
-There are many trees, too, about the pagoda plat-
-form — so many, that seen far off you can only see
+There are many trees, too, about the pagoda platform — so many, that seen far off you can only see
 the trees and the pagoda towering above them.
 Have not trees been always sacred things ? Have
 not all religions been glad to give their fanes the
@@ -6244,20 +5694,16 @@ understand whither they should lead her. ' Sorrow,
 misery, trouble' — ah! surely she must know what
 they mean, or she would not be a nun. And then
 comes a young man, and after a reverence to the
-pagoda he goes wandering round, looking for some-
-one, maybe; and then comes an old man with his
+pagoda he goes wandering round, looking for someone, maybe; and then comes an old man with his
 son. They stop at the little stalls on the stairs, and
 they have bought there each a candle. The old
 
-
-172 THE SOUL OF A PEOPLE
 
 man has a plain taper, but the little lad must have
 one with his emblem on it. Each day has its own
 sign, a tiger for Monday, and so on, and the lad
 buys a candle like a little rat, for his birthday is
-Friday, and the father and son go on to the plat-
-form. And there they kneel down side by side, the
+Friday, and the father and son go on to the platform. And there they kneel down side by side, the
 old man and the little chubby lad, and they, too, say
 that all is misery and delusion. And then they rise
 and advance to the pagoda's golden base, and put
@@ -6275,8 +5721,7 @@ of religion. But at last they rise, and they light
 their little candles near by where the old man and
 the boy have lit theirs, and then they go away.
 They are so sad, they keep their faces so turned
-upon the ground, that you fear there has been some-
-thing, some trouble come upon them. You feel so
+upon the ground, that you fear there has been something, some trouble come upon them. You feel so
 sorry for them, you would like to ask them what it
 all is ; you would like to help them if you could.
 But you can do nothing. They go away down
@@ -6294,8 +5739,7 @@ for tens there are hundreds — all come to do reverence
 to the great teacher at this his great holy place.
 There is no especial ceremony, no great service,
 such as we are accustomed to on our festivals. Only
-there will be many offerings ; there will be a pro-
-cession, maybe, with offerings to the pagoda, with
+there will be many offerings ; there will be a procession, maybe, with offerings to the pagoda, with
 offerings to the monks ; there will be much gold-leaf
 spread upon the pagoda sides ; there will be many
 people kneeling there^ — that is all. For, you see,
@@ -6316,17 +5760,13 @@ laughing and talking to each other, very happy,
 very merry, glad to see each other, to see so many
 people, calling pleasant greetings to their friends
 as they pass. They are all so gaily dressed, with
-beautiful silks and white jackets and gay satin head-
-clothes, tied with a little end sticking up as a plume.
+beautiful silks and white jackets and gay satin headclothes, tied with a little end sticking up as a plume.
 
 And the girls, how shall I describe them, so sweet
 they are, so pretty in their fresh dresses, with down-
 
 
-174 THE SOUL OF A PEOPLE
-
-cast eyes of modesty, tempered with little side-
-glances. They laugh, too, as they go, and they
+cast eyes of modesty, tempered with little sideglances. They laugh, too, as they go, and they
 talk, never forgetting the sacredness of the place,
 never forgetting the reverences due, kneeling always
 first as they come up to the great pagoda, but being
@@ -6346,8 +5786,7 @@ Pinks and reds are the prevailing colours, in checks,
 in stripes, mixed usually with white. These colours
 go best with their brown skins, and they are fondest
 of them. But there are other colours, too : there
-is silver and green embroidery, and there are shot-
-silks in purple and orange, and there is dark blue.
+is silver and green embroidery, and there are shotsilks in purple and orange, and there is dark blue.
 All the jackets, or nearly all the jackets, are white
 with wide sleeves, showing the arm nearly up to the
 elbow. Each man has his turban very gay, while
@@ -6396,16 +5835,13 @@ whiles there are sugar-cakes and vermicelli, and
 other little cakes.
 
 
-176 THE SOUL OF A PEOPLE
-
 The crowd going up and down the steps is like
 a gorgeous-coloured flood, crested with white foam,
 flowing between the dragons of the gate ; and on
 the platform the crowd is thicker than ever. All
 day the festival goes on — the praying, the offering
 of gifts, the burning of little candles before the
-shrines — until the sun sets across the open country-
-far beyond in gold and crimson glory. But even
+shrines — until the sun sets across the open countryfar beyond in gold and crimson glory. But even
 then there is no pause, no darkness, for hardly has
 the sun's last bright shaft faded from the pagoda
 spire far above, while his streamers are still bright
@@ -6441,13 +5877,11 @@ are lined with them — and there are little pagodas
 and ships curiously designed in flame.
 
 All the people come out to see the illuminations,
-just as they do with us at Christmas to see the shop-
-windows, and the streets are crowded with people
+just as they do with us at Christmas to see the shopwindows, and the streets are crowded with people
 going to and fro, laughing and talking. And there
 are dramatic entertainments going on, dances and
 marionette shows, all in the open air. The people
-are all so happy, they take their pleasure so plea-
-santly, that it is a delight to see them. You cannot
+are all so happy, they take their pleasure so pleasantly, that it is a delight to see them. You cannot
 help but be happy, too. The men joke and laugh,
 and you laugh, too ; the children smile at you as
 they pass, and you must smile, too ; can you help
@@ -6468,10 +5902,6 @@ at rest.
 
 Such is a great feast at a great pagoda.
 
-12
-
-
-178 THE SOUL OF A PEOPLE
 
 But whenever I think of a great feast, whenever
 the growing autumn moon tells me that the end of
@@ -6594,8 +6024,7 @@ Oh, I see, old U Hman.' ' I wonder what's in that
 tin box ?' remarked one as he passed my biscuits.
 ' I hope it's coming to our monastery, any way.'
 
-Thus the monks passed, paying no sort of atten-
-tion, while the people knelt to them ; and when the
+Thus the monks passed, paying no sort of attention, while the people knelt to them ; and when the
 procession reached the end of the line of offerings,
 it went on without stopping, across the fields, the
 monks of each monastery going to their own place ;
@@ -6606,8 +6035,7 @@ lost to sight.
 
 That was all the ceremony for the day, but at
 dusk the illuminations began. The little pagoda in
-the fields was lighted up nearly to its top with con-
-centric rings of lamps till it blazed like a pyramid of
+the fields was lighted up nearly to its top with concentric rings of lamps till it blazed like a pyramid of
 flame, seen far across the night. All the people
 came there, and placed little offerings of flowers at
 the foot of the pagoda, or added each his candle to
@@ -6616,8 +6044,6 @@ the big illumination.
 The house of the headman of the village was lit
 up with a few rows of lamps, and all the monasteries,
 
-
-1 82 THE SOUL OF A PEOPLE
 
 too, were lit. There were no restaurants— everyone
 was at home, you see — but there were one or two
@@ -6628,8 +6054,7 @@ taught, partly by their own mothers, partly by an
 old man, who knew something of the business.
 They did not dance very well, perhaps ; they were
 none of them very beautiful ; but what matter .'' We
-knew them all ; they were our neighbours, the kins-
-women of half the village ; everyone liked to see
+knew them all ; they were our neighbours, the kinswomen of half the village ; everyone liked to see
 them dance, to hear them sing ; they were all
 young, and are not all young girls pretty ? And
 amongst the audience were there not the girls'
@@ -6678,8 +6103,7 @@ so long ago, only that they are very fond of light
 and colour and laughter and all beautiful things.
 
 But although these festivals often become also
-fairs, although they are the great centres for amuse-
-ment, although the people look to them as their
+fairs, although they are the great centres for amusement, although the people look to them as their
 great pleasure of the year, it must not be forgotten
 that they are essentially religious feasts, holy days.
 Though there be no great ceremony of prayer, or
@@ -6687,8 +6111,6 @@ of thanksgiving, no public joining in any religious
 ceremony, save, perhaps, the giving of alms to the
 monks, yet religion is the heart and soul of them.
 
-
-1 84 THE SOUL OF A PEOPLE
 
 Their centre is the pagoda, their meaning is a
 religious meaning.
@@ -6709,7 +6131,6 @@ eye of day, to be rejoiced in.
 
 CHAPTER XIV
 
-WOMEN 1
 
 ' Her cheek is more beautiful than the dawn, her eyes are
 deeper than the river pools ; when she loosens her hair upon her
@@ -6741,8 +6162,7 @@ than religion. In the eye of the law both are alike.
 for a woman ?' he asks.
 
 In the life of the Buddha nothing is said upon the
-subject. The great teacher never committed him-
-self to an opinion as to whether men or women
+subject. The great teacher never committed himself to an opinion as to whether men or women
 were the highest. He had men disciples, he had
 women disciples ; he honoured both. Nowhere in
 any of his sayings can anything be found to show
@@ -6756,8 +6176,7 @@ attraction is man does not show that man is a devil.
 Wickedness is a thing of your own heart. If he
 could be sure that his desire towards women was
 dead, a monk might see them as much as he liked?
-The desire is the enemy, not the woman ; there-
-fore a woman is not damned because by her man
+The desire is the enemy, not the woman ; therefore a woman is not damned because by her man
 is often tempted to evil ; therefore a woman is not
 praised because by her a man may be led to better
 thoughts. She is but the outer and unconscious
@@ -6768,9 +6187,6 @@ wishing to throw yourself down, you blame not the
 precipice, but your giddiness ; and if you are wise
 you avoid precipices in future. You do not rail
 against steep places because you have a bad circula-
-
-
-WOMEN 187
 
 
 tion. So it is with women : you should not contemn
@@ -6800,8 +6216,7 @@ this once.
 law discriminate ?'
 
 ' It isn't the law,' he said, ' it is a fact. A woman
-is worth less than a man in that way. A maid-
-servant can be hired for less than a manservant, a
+is worth less than a man in that way. A maidservant can be hired for less than a manservant, a
 daughter can claim less than a son. They cannot
 do so much work ; they are not so strong. If they
 had been worth more, the law would have been the
@@ -6830,8 +6245,7 @@ Consequently, as women were not such good fighters
 as men, they went to the wall. But feudalism never
 obtained at all in Burma. What fighting they did
 was far less severe than that of our ancestors, was
-not the dominant factor in the position, and conse-
-quently woman did not suffer.
+not the dominant factor in the position, and consequently woman did not suffer.
 
 She has thus been given the inestimable boon of
 freedom. Freedom from sacerdotal dogma, from
@@ -6847,9 +6261,6 @@ And yet the Burman man has a confirmed opinion
 that he is better than a woman, that men are on the
 whole superior as a sex to women. ' We may be
 inferior in some ways,' he will tell you. ' A woman
-
-
-WOMEN 189
 
 
 may steal a march on us here and there, but in the
@@ -6887,8 +6298,6 @@ laws that made woman lower than man in Europe
 compensated her to a certain extent by protection
 
 
-190 THE SOUL OF A PEOPLE
-
 and guidance. In Burma she has been neither
 confined nor guided. In Europe and India for
 very long the idea was to make woman a hot-house
@@ -6902,8 +6311,7 @@ one without the other. The Burmese woman has
 had both. Ideals act for good as well as for evil ;
 if they cramp all progress, they nevertheless tend to
 the sustentation of a certain level of thought. She
-has had none. Whatever she is, she has made her-
-self, finding under the varying circumstances of life
+has had none. Whatever she is, she has made herself, finding under the varying circumstances of life
 what is the best for her ; and as her surroundings
 change, so will she. What she was a thousand
 years ago I do not care, what she may be a thousand
@@ -6922,11 +6330,7 @@ crying. Boys and girls when they are babies grow
 up together, but with the schooldays comes a
 
 
-WOMEN 191
-
-
-division. All the boys go to school at the monas-
-tery without the walls, and there learn in noisy
+division. All the boys go to school at the monastery without the walls, and there learn in noisy
 fashion their arithmetic, letters, and other useful
 knowledge. But little girls have nowhere to go.
 They cannot go to the monasteries, these are for
@@ -6958,8 +6362,6 @@ The daughters of better-class people, such as
 merchants, and clerks, and advocates, do not, of
 
 
-192 THE SOUL OF A PEOPLE
-
 course, work at field labour. They usually learn
 to read and write at home, and they weave, and
 many will draw water. For to draw water is to go
@@ -6984,8 +6386,7 @@ her parents. Almost every girl will do something,
 if only to pass the time.
 
 You see, they have no accomplishments. They do
-not sing, nor play, nor paint. It must never be for-
-gotten that their civilization is relatively a thousand
+not sing, nor play, nor paint. It must never be forgotten that their civilization is relatively a thousand
 years behind ours. Accomplishments are part of the
 polish that a civilization gives, and this they have
 not yet reached. Accomplishments are also the
@@ -6994,24 +6395,19 @@ few Burmese girls have any time on their hands.
 There is no leisured class, and there are very few
 
 
-WOMEN 193
-
-
 girls who have not to help, in one way or another,
 at the upkeep of the household.
 
 Mr. Rudyard Kipling tells of a young lady who
 played the banjo. He has been more fortunate
 than myself, for I have never had such good luck.
-They have no accomplishments at all. House-
-keeping they have not very much of. You see,
+They have no accomplishments at all. Housekeeping they have not very much of. You see,
 houses are small, and households also are small ;
 and there is very little furniture ; and as the cooking
 is all the same, there is not much to learn in that
 way. I fear, too, that their houses could not
 compete as models of neatness with any other
-nation. Tidiness is one of the last gifts of civiliza-
-tion. We now pride ourselves on our order ; we
+nation. Tidiness is one of the last gifts of civilization. We now pride ourselves on our order ; we
 forget how very recent an accomplishment it is.
 To them it will come with the other gifts of age,
 for it must never be forgotten that they are a
@@ -7030,10 +6426,6 @@ ear-boring, and, according to the wealth of the
 parents, it is accompanied by pwes and other
 rejoicings.
 
-13
-
-
-194 THE SOUL OF A PEOPLE
 
 A little girl, the daughter of a shopkeeper here
 in this town, had her ears bored the other day,
@@ -7041,8 +6433,7 @@ and there were great rejoicings. There was a pwe
 open to all for three nights, and there were great
 quantities of food, and sweets, and many presents
 given away, and on the last night the river was
-illuminated. There was a boat anchored in mid-
-stream, and from this were launched myriads of
+illuminated. There was a boat anchored in midstream, and from this were launched myriads of
 tiny rafts, each with a little lamp on board. The
 lamps gleamed bright with golden light as they
 drifted on the bosom of the great water, a moving
@@ -7108,19 +6499,15 @@ be many young men come, one by one, if they mean
 13—2
 
 
-196 THE SOUL OF A PEOPLE
-
 business, with a friend if it be merely a visit of
 courtesy. And the girl will receive them all, and
 will talk to them all ; will laugh with a little humorous
 knowledge of each man's peculiarities ; and she may
 give them cheroots, of her own making ; and, for
-one perhaps, for one, she will light the cheroot her-
-self first, and thus kiss him by proxy.
+one perhaps, for one, she will light the cheroot herself first, and thus kiss him by proxy.
 
 And is the girl alone ? Well, yes. To all intents
-and purposes she is alone ; but there is always some-
-one near, someone within call, for the veranda is free
+and purposes she is alone ; but there is always someone near, someone within call, for the veranda is free
 to all. She cannot tell who may come, and some
 men, as we know, are but wolves in sheep's clothing.
 Usually marriages are arranged by the parents.
@@ -7129,8 +6516,7 @@ are very biddable, and ready to do what their mothers
 tell them, ready to believe that it is the best. And
 so if a lad comes wooing, and can gain the mother's
 ear, he can usually win the girl's affection, too ; but
-I think there are more exceptions here than else-
-where. Girls are freer; they fall in love of their
+I think there are more exceptions here than elsewhere. Girls are freer; they fall in love of their
 own accord oftener than elsewhere ; they are very
 impulsive, full of passion. Love is a very serious
 matter, and they are not trained in self-restraint.
@@ -7142,9 +6528,6 @@ river shore — romances that end sometimes well,
 sometimes in terrible tragedies. For they are a
 very passionate people ; the language is full of little
 love-songs, songs of a man to a girl, of a girl to a
-
-
-WOMEN 197
 
 
 man. 'No girl,' a woman once told me, 'no good,
@@ -7166,8 +6549,7 @@ is easily overcome. I have often known servants in
 a house marry the daughters, and be taken into the
 family ; but, of course, sometimes things do not go
 so smoothly. And then ? Well, then there is usually
-an elopement, and a ten days' scandal ; and some-
-times, too, there is an elopement for no reason at
+an elopement, and a ten days' scandal ; and sometimes, too, there is an elopement for no reason at
 all save that hot youth cannot abide the necessary
 delay.
 
@@ -7179,8 +6561,6 @@ wood-cutters' huts in the ravines where the water
 falls, soft beds of torn bracken and fragrant grasses
 where great trees make a shelter from the heat : and
 
-
-198 THE SOUL OF A PEOPLE
 
 for food, that is easily arranged. A basket of rice
 with a little salt-fish and spices is easily hidden in a
@@ -7194,8 +6574,7 @@ her hair, scarlet dak blossoms and orchid sprays and
 jasmine stars ; and for occupation through the hours
 each has a new world to explore full of wonderful
 undreamt-of discoveries, lit with new light and
-mysterious with roseate shadows, a world of ' beau-
-tiful things made new' for those forest children.
+mysterious with roseate shadows, a world of ' beautiful things made new' for those forest children.
 So that when the confidante, an aunt maybe or a
 sister, meets them by the sacred fig-tree on the hill,
 and tells them that all difficulties are removed, and
@@ -7215,9 +6594,6 @@ grasped the idea that electro-plate should not be
 cleaned with monkey-brand soap, and he could be
 trusted not to put up rifle cartridges for use with a
 double-barrelled gun ; and he chose this time to fall
-
-
-WOMEN 199
 
 
 in love with the daughter of the headman of a certain
@@ -7256,9 +6632,6 @@ nothing. At last one evening, as I sat under the
 great fig-tree by my tent, there came to me the
 
 
-THE SOUL OF A PEOPLE
-
-
 mother of the girl, and she sat down before me,
 and said she had something of great importance to
 impart : and this was that all had been arranged
@@ -7293,18 +6666,13 @@ say — if you imagine all that, you will understand
 how it was that I lost my servant.
 
 
-WOMEN 201
-
-
 They both came to see me later on in the day
 after the marriage, and there was no bashfulness
-about either of them then. They came hand-in-
-hand, with the girl's father and mother and some
+about either of them then. They came hand-inhand, with the girl's father and mother and some
 friends, and she told me it was all her fault : she
 could not wait.
 
-' Perhaps,' she said, with a little laugh and a side-
-glance at her husband — 'perhaps, if he had gone
+' Perhaps,' she said, with a little laugh and a sideglance at her husband — 'perhaps, if he had gone
 with the thakin to Rangoon, he might have fallen in
 love with someone there and forgotten me ; for I
 know they are very pretty, those Rangoon ladies, and
@@ -7332,16 +6700,12 @@ woman has ever felt. It seems to me here that
 woman has something of the passions of man, not
 
 
-THE SOUL OF A PEOPLE
-
-
 only the enduring affection of a woman, but the hot
 love and daring of a man. It is part of their
 heritage, perhaps, as a people in their youth. One
 sees so much of it, hears so much of it, here. I have
 seen a girl in man's attire killed in a surprise attack
-upon an insurgent camp. She had followed her out-
-lawed lover there, and in the m^lde she caught up
+upon an insurgent camp. She had followed her outlawed lover there, and in the m^lde she caught up
 sword and gun to fight by his side, and was cut
 down through neck and shoulder ; for no one could
 tell in the early dawn that it was a girl.
@@ -7362,15 +6726,11 @@ he lost, and paid ; but the girl .■*
 
 I have seen and heard so much of this love of
 women and of its tragedies. Perhaps it is that to
-us it is usually the tragedies that are best remem-
-bered. Happiness is void of interest. And this
+us it is usually the tragedies that are best remembered. Happiness is void of interest. And this
 love may be, after all, a good thing. But I do not
 know. Sometimes I think they would be happier
 if they could love less, if they could take love more
 quietly, more as a matter of course, as something
-
-
-WOMEN 203
 
 
 that has to be gone through, as part of a life's train-'
@@ -7409,8 +6769,6 @@ Her dress is of gold, even of silk and gold, and
 her bracelets are of fine gold. She hath precious
 
 
-204 THE SOUL OF A PEOPLE
-
 stones in her ears, but her eyes, what jewels can
 compare unto them ?
 
@@ -7428,17 +6786,13 @@ can compare unto her.
 CHAPTER XV
 
 
-WOMEN — 11
-
-
 ' The husband is lord of the wife.'
 
 Laws of Manu.
 
 Marriage is not a religious ceremony among the
 Burmese. Religion has no part in it at all ; as
-religion has refrained from interfering with Govern-
-ment, so does it in the relations of man and wife.
+religion has refrained from interfering with Government, so does it in the relations of man and wife.
 Marriage is purely a worldly business, like entering
 into partnership ; and religion, the Buddhist religion,
 has nothing to do with such things. Those who
@@ -7464,8 +6818,7 @@ is stretched round the couple, and then their hands
 are clasped ; they also eat out of the same dish.
 All this is very pretty, but not at all necessary.
 
-It is, indeed, not a settled point in law what con-
-stitutes a marriage, but there are certain things that
+It is, indeed, not a settled point in law what constitutes a marriage, but there are certain things that
 will render it void. For instance, no marriage can
 be a marriage without the consent of the girl's
 parents if she be under age, and there are certain
@@ -7474,8 +6827,7 @@ other conditions which must be fulfilled.
 But although there be this doubt about the actual
 ceremony of marriage, there is none at all about the
 status. There is no confusion between a woman
-who is married and a woman who is not. The con-
-dition of marriage is well known, and it brings the
+who is married and a woman who is not. The condition of marriage is well known, and it brings the
 parties under the laws that pertain to husband and
 wife. A woman not married does not, of course,
 obtain these privileges ; there is a very strict line
@@ -7494,9 +6846,6 @@ heart, her love, her marriage, should be so public.
 The young men come at night and throw stones
 
 
-WOMEN 207
-
-
 upon the house roof, and demand presents from the
 bridegroom. He does not mind giving the presents ;
 but he, too, does not Hke the publicity. And so
@@ -7510,11 +6859,9 @@ they will separate again, and not for several days, or
 even weeks perhaps, will it be known that they are
 married ; for it is seldom that they can set up house
 for themselves just at once. Often they will marry
-and live apart for a time with their parents. Some-
-times they will go and live together with the man's
+and live apart for a time with their parents. Sometimes they will go and live together with the man's
 parents, but more usually with the girl's mother.
-Then after a time, when they have by their exer-
-tions made a little money, they build a house and
+Then after a time, when they have by their exertions made a little money, they build a house and
 go to live there ; but sometimes they will live on
 with the girl's parents for years.
 
@@ -7536,19 +6883,16 @@ usually property acquired after marriage is held
 jointly. You will inquire, for instance, who is the
 owner of this garden, and be told Maung Han, Ma
 Shwe, the former being the husband's name and the
-latter the wife's. Both names are used very fre-
-quently in business and in legal proceedings, and
+latter the wife's. Both names are used very frequently in business and in legal proceedings, and
 indeed it is usual for both husband and wife to sign
-all deeds they may have occasion to execute. No-
-thing more free than a woman's position in the
+all deeds they may have occasion to execute. Nothing more free than a woman's position in the
 marriage state can be imagined. By law she is
 absolutely the mistress of her own property and her
 own self ; and if it usually happens that the husband
 is the head of the house, that is because his nature
 gives him that position, not any law.
 
-With us marriage means to a girl an utter break-
-ing of her old ties, the beginning of a new life, of
+With us marriage means to a girl an utter breaking of her old ties, the beginning of a new life, of
 new duties, of new responsibilities. She goes out
 into a new and unknown world, full of strange facts,
 leaving one dependence for another, the shelter of a
@@ -7564,9 +6908,6 @@ down some of the requisite qualities for a perfect
 wife. There are seven kinds of wife, say the Laws
 of Manu : a wife like a thief, like an enemy, like a
 master, like a friend, like a sister, like a mother, like
-
-
-WOMEN 209-
 
 
 a slave. The last four of these are good, but the
@@ -7603,11 +6944,6 @@ woman. She has a very keen idea of what things
 she can do best, and what things she should leave
 to her husband. Long experience has taught her
 
-14
-
-
-THE SOUL OF A PEOPLE
-
 
 that there are many things she should not interfere
 with ; and she knows it is experience that has proved
@@ -7625,8 +6961,7 @@ strength and her own weakness. Can there be a
 more valuable knowledge for anyone than this ?
 
 In many ways she will act for her husband with
-vigour and address, and she is not afraid of appear-
-ing in his name or her own in law courts, for instance,
+vigour and address, and she is not afraid of appearing in his name or her own in law courts, for instance,
 or in transacting certain kinds of business. She
 knows that she can do certain business as well as or
 better than her husband, and she does it. There is
@@ -7643,9 +6978,6 @@ joint security, lend money repayable to them jointly.
 But in public affairs she will never allow her name
 
 
-WOMEN
-
-
 to appear at all. Not that she does not take a keen
 interest in such things. She lives in no world
 apart ; all that affects her husband interests her as
@@ -7659,8 +6991,7 @@ women are never openly concerned in any political
 matters. How strong their feeling is can better be
 illustrated by a story than in any other way.
 
-In 1889 I was stationed far away on the north-
-west frontier of Burma, in charge of some four
+In 1889 I was stationed far away on the northwest frontier of Burma, in charge of some four
 thousand square miles of territory which had been
 newly incorporated. I went up there with the first
 column that ever penetrated that country, and I
@@ -7675,13 +7006,9 @@ armed men, who seemed to rise out of the very
 ground — so hard was it to follow their movements
 — attack anywhere they saw fit, and disappear as
 suddenly. There was, of course, a considerable
-force of troops and police to suppress these in-
-surgents, but the whole country was so roadless, so
+force of troops and police to suppress these insurgents, but the whole country was so roadless, so
 
 14—2
-
-
-THE SOUL OF A PEOPLE
 
 
 unexplored, such a tangled labyrinth of hill and
@@ -7694,8 +7021,7 @@ peace to the country.
 The villages were arranged in groups, and over
 each group there was a headman with certain
 powers and certain duties, the principal of the latter
-being to keep his people quiet, and, if possible, pro-
-tect them from insurgents.
+being to keep his people quiet, and, if possible, protect them from insurgents.
 
 Now, it happened that among these headmen was
 one named Saw Ka, who had been a free-lance in
@@ -7709,19 +7035,14 @@ armed robbers, who had tried to lift some of the
 village cattle. The letter came to me when I was in
 my court-house, a tent ten feet by eight, trying a case.
 So, saying I would see Saw Ka's people later, and
-giving orders for the prisoners to be put in the lock-
-up, I went on with my work. When my case was
+giving orders for the prisoners to be put in the lockup, I went on with my work. When my case was
 finished, I happened to notice that among those
 sitting and waiting without my tent-door was Saw
-Ka himself, so I sent to call him in, and I compli-
-mented him upon his success. ' It shall be re-
+Ka himself, so I sent to call him in, and I complimented him upon his success. ' It shall be re-
 ported,' I said, ' to the Commissioner, who will, no
 
 
 / I
-
-
-WOMEN 213
 
 
 doubt, reward you for your care and diligence in the
@@ -7762,8 +7083,6 @@ and went out shooting. After dinner, as we sat
 round a great bonfire before the mess, for the nights
 
 
-214 THE SOUL OF A PEOPLE
-
 were cold, Saw Ka and his brother came to me,
 and they sat down beside the fire and told me all
 about it.
@@ -7800,9 +7119,6 @@ But in her own line she has no objection to
 publicity. I have said that nearly all women work.
 
 
-WOMEN 215
-
-
 and that is so. Married or unmarried, from the age
 of sixteen or seventeen, almost every woman has
 some occupation besides her own duties. In the
@@ -7814,8 +7130,7 @@ they may work, and others tabooed to them. As
 there is no caste for the men, so there is none for
 the women. They have been free to try their
 hands at anything they thought they could excel in,
-without any fear of public opinion. But neverthe-
-less, as is inevitable, it has been found that there
+without any fear of public opinion. But nevertheless, as is inevitable, it has been found that there
 are certain trades in which women can compete
 successfully with men, and certain others in which
 they cannot. And these are not quite the same as
@@ -7823,8 +7138,7 @@ in the West. We usually consider sewing to be a
 feminine occupation. In Burma, there being no
 elaborately cut and trimmed garments, the amount
 of sewing done is small, but that is usually done by
-men. Women often own and use small hand-
-machines, but the treadles are always used by men
+men. Women often own and use small handmachines, but the treadles are always used by men
 only. As I am writing, my Burmese orderly is
 sitting in the garden sewing his jacket. He is
 usually sewing when not sent on messages. He
@@ -7835,8 +7149,6 @@ nearly every house there will be a loom, where the
 wife or daughter weaves for herself or for sale. But
 many men weave also, and the finest silks are all
 
-
-.2 1 6 THE SOUL OF A PEOPLE
 
 woven by men. I once asked a woman why they
 did not weave the best silks, instead of leaving them
@@ -7875,9 +7187,6 @@ bazaar will be held on one day at one village and on
 another at a neighbouring one. It depends on the
 
 
-WOMEN 217
-
-
 density of population, the means of communication,
 and other matters. But a bazaar within reach there
 must always be, for it is only there that most articles
@@ -7897,8 +7206,7 @@ to itself. There is a place for rice-sellers, for butchers,
 for vegetable-sellers, for the vendors of silks, of
 cottons, of sugars and spices, of firewood, of jars, of
 fish. The butchers are all natives of India. I have
-explained elsewhere why this should be. The fire-
-wood-sellers will mostly be men, as will also the large
+explained elsewhere why this should be. The firewood-sellers will mostly be men, as will also the large
 rice-merchants, but nearly all the rest are women.
 
 You will find the sellers of spices, fruit, vegetables,
@@ -7908,14 +7216,12 @@ of space allotted, perhaps six feet square, and there
 she will sit with her merchandise in a basket or
 baskets before her. For each square they will pay
 the lessee a halfpenny for the day, which is only
-three hours or so. The time to go is in the morn-
-ing from six till eight, for that is the busy time.
+three hours or so. The time to go is in the morning from six till eight, for that is the busy time.
 
 
 2i8 THE SOUL OF A PEOPLE
 
-Later on all the stalls will be closed, but in the early-
-morning the market is thronged. Every house-
+Later on all the stalls will be closed, but in the earlymorning the market is thronged. Every house-
 holder is then buying his or her provisions for the
 day, and the people crowd in thousands round the
 sellers. Everyone is bargaining and chaffing and
@@ -7934,8 +7240,7 @@ level with the seller sitting in the stall. The stall
 will be about eight feet by ten, and each has at the
 back a strong lock-up cupboard or wardrobe, where
 the wares are shut at night ; but in the day they will
-be taken out and arranged daintily about the girl-
-seller. Home-made silks are the staple — silks in
+be taken out and arranged daintily about the girlseller. Home-made silks are the staple — silks in
 checks of pink and white, of yellow and orange, of
 indigo and dark red. Some are embroidered in silk,
 in silver, or in gold ; some are plain. All are thick
@@ -7945,9 +7250,6 @@ of two colours — purple shot with red, and orange
 shot with red, both very beautiful. All the silks
 are woven the size of the dress : for men, about
 twenty-eight feet long and twenty inches broad ;
-
-
-WOMEN 219
 
 
 and for women, about five feet long and much
@@ -7984,9 +7286,6 @@ the men farm their own land, the women own their
 businesses. They are not saleswomen for others,
 
 
-THE SOUL OF A PEOPLE
-
-
 but traders on their own account ; and with the
 exception of the silk and cloth branches of the trade,
 it does not interfere with home-life. The bazaar
@@ -8003,12 +7302,10 @@ having a little business of her own has a great
 influence on her life. It broadens her views ; it
 teaches her things she could not learn in the narrow
 circle of home duties ; it gives her that tolerance
-and understanding which so forcibly strikes every-
-one who knows her. It teaches her to know her
+and understanding which so forcibly strikes everyone who knows her. It teaches her to know her
 own strength and weakness, and how to make the
 best of each. Above all, by showing her the real
-life about her, and how much beauty there is every-
-where, to those whose eyes are not shut by conven-
+life about her, and how much beauty there is everywhere, to those whose eyes are not shut by conven-
 tions, it saves her from that dreary, weary pessimism
 that seeks its relief in fancied idealism, in art, in
 literature, and in religion, and which is the curse of
@@ -8021,9 +7318,6 @@ go about alone except on very frequented roads. I
 suppose there are certain limits in all countries to
 
 
-WOMEN 221
-
-
 the freedom a woman allows herself, that is to say,
 if she is wise. For she knows that she cannot
 always trust herself; she knows that she is weak
@@ -8031,10 +7325,8 @@ sometimes, and she protects herself accordingly.
 She is timid, with a delightful timidity that fears,
 because it half understands ; she is brave, with the
 bravery of a girl who knows that as long as she
-keeps within certain limits she is safe. Do not sup-
-pose that they ever do, or ever can, allow themselves
-that freedom of action that men have ; it is an im-
-possibility. Girls are very carefully looked after by
+keeps within certain limits she is safe. Do not suppose that they ever do, or ever can, allow themselves
+that freedom of action that men have ; it is an impossibility. Girls are very carefully looked after by
 their mothers, and wives by their husbands ; and
 they delight in observing the limits which experience
 has indicated to them. There is a funny story
@@ -8047,8 +7339,7 @@ obliged him to go very frequently on tour far away
 from his home, and he would be absent ten days at
 a time or more. So when it came for the first time
 that he was obliged to go out and leave his wife
-behind him alone in the house, he gave his head-
-servant very careful directions. This servant was a
+behind him alone in the house, he gave his headservant very careful directions. This servant was a
 Burman who had been with him for many years,
 who knew all his ways, and who was a very good
 servant. He did not speak English ; and my friend
@@ -8056,8 +7347,6 @@ gave him strict orders.
 
 ' The mistress,' he said, ' has only just come here
 
-
-222 THE SOUL OF A PEOPLE
 
 to Burma, and she does not know the ways of the
 country, nor what to do. So you must see that no
@@ -8084,8 +7373,7 @@ it was.
 
 ' Didn't anyone come to call ?' he asked.
 
-' Oh yes,' the servant answered ; ' many gentle-
-men came to call — the officers of the regiment and
+' Oh yes,' the servant answered ; ' many gentlemen came to call — the officers of the regiment and
 others. But I told them the thakin was out, and
 that the thakinma could not see anyone. I sent
 them all away.'
@@ -8098,11 +7386,7 @@ all at the careful observances of Burmese etiquette
 by the servant ; for it is the Burmese custom for a
 
 
-WOMEN 223
-
-
-wife not to receive in her husband's absence. Any-
-one who wants to see her must stay outside or in
+wife not to receive in her husband's absence. Anyone who wants to see her must stay outside or in
 the veranda, and she will come out and speak to
 him. It would be a grave breach of decorum to
 receive visitors while her husband is out.
@@ -8114,8 +7398,7 @@ man, can ever free herself or himself from the
 bonds that even a young civilization demands. A
 freedom from all restraint would be a return, not
 only to savagery, but to the condition of animals —
-nay, even animals are bound by certain conven-
-tions.
+nay, even animals are bound by certain conventions.
 
 The higher a civilization, the more conventions
 are required ; and freedom does not mean an
@@ -8159,15 +7442,11 @@ What makes you think that ?'
 
 And he explained it in this way : ' Before a soul
 can attain deliverance it must renounce the world,
-it must have purified itself by wisdom and medi-
-tation from all the lust of the flesh. Only those
+it must have purified itself by wisdom and meditation from all the lust of the flesh. Only those
 who have done this can enter into the Great Peace.
 And many men do this. The country is full of
 monks, men who have left the world, and are trying
 to follow in the path of the great teacher. Not all
-
-
-WOMEN 225
 
 
 these will immediately attain to heaven, for purifica •
@@ -8203,22 +7482,16 @@ pagoda on the hilltop and count the people kneeling
 there doing honour to the teacher, you will find
 they are nearly all women. If you go to the rest-
 
-15
-
-
-226 THE SOUL OF A PEOPLE
 
 houses by the monastery, where the monks recite
-the law on Sundays, you will find that the congre-
-gations are nearly all women. If you visit the
+the law on Sundays, you will find that the congregations are nearly all women. If you visit the
 monastery without the gate, you will see many
 visitors bringing little presents, and they will be
 women.
 
 ' Thakin, many men do not care for religion at
 all, but when a man does do so, he takes it very
-seriously. He follows it out to the end. He be-
-comes a monk, and surrenders the whole world.
+seriously. He follows it out to the end. He becomes a monk, and surrenders the whole world.
 But with women it is different. Many women,
 nearly all women, will like religion, and none will
 take it seriously. We mix it up with our home-life,
@@ -8239,9 +7512,6 @@ so it is now. But when religion calls them and
 says, ' Come away from the world, leave all that you
 love, all that your heart holds good, for it is naught ;
 see the light, and prepare your soul for peace,' they
-
-
-WOMEN 227
 
 
 hold back. This they cannot do ; it is far beyond
@@ -8283,8 +7553,7 @@ hot weather, and I was out in camp with my friend
 the police-ofificer. It was past sunset, and the air
 beneath the trees was full of luminous gloom, though
 overhead a flush still lingered on the cheek of the
-night. We were sitting in the veranda of a Govern-
-ment rest-house, enjoying the first coolness of the
+night. We were sitting in the veranda of a Government rest-house, enjoying the first coolness of the
 coming night, and talking in disjointed sentences of
 many things ; and there came up the steps of the
 house into the veranda a woman. She came forward
@@ -8334,8 +7603,6 @@ the best, always for the best.'
 It was very pitiable to hear her opening her whole
 heart, such a sore troubled heart, like this. Her
 
-
-230 THE SOUL OF A PEOPLE
 
 words were full of pathos ; her uncomely face was
 not beautified by the sorrow in it. And at last her
@@ -8415,8 +7682,6 @@ was a man's side to the question, a strong one.
 The wife had a terrible temper, a peevish, nagging.
 
 
-232 THE SOUL OF A PEOPLE
-
 maddening fashion of talking. She wa,s a woman
 very hard for a man to live with.
 
@@ -8457,8 +7722,7 @@ DIVORCE 233
 
 
 for a time they were very happy. And then trouble
-came. The husband took to bad ways. The know-
-ledge that he could get money for nothing was too
+came. The husband took to bad ways. The knowledge that he could get money for nothing was too
 much for him. He drank and he wasted her money,
 and he neglected his work, and at last he was
 dismissed from Government employ. And his wife
@@ -8487,8 +7751,6 @@ that had united them was dissolved, as the love had
 been dissolved long before, and they parted. The
 man went away to Lower Burma. They tell me he
 
-
-234 THE SOUL OF A PEOPLE
 
 has become a cultivator and has reformed, and is
 doing well ; and the girl is ready to marry again.
@@ -8562,8 +7824,6 @@ liquor shops are free to Burmans. In Upper Burma
 no liquor can be sold to them. He did not drink
 
 
-236 THE SOUL OF A PEOPLE
-
 often. He was a teetotaler generally ; but once a
 month, or once in two months, he would meet some
 friends, and they would drink in good fellowship,
@@ -8600,8 +7860,7 @@ she passed all bounds in her anger, using words
 DIVORCE 237
 
 
-that could never be forgiven ; and when she de-
-clared as usual that she must have a divorce, her
+that could never be forgiven ; and when she declared as usual that she must have a divorce, her
 husband said : ' Yes, we will divorce. Let there be
 an end of it.' And so next day they went to the
 elders both of them, and as both demanded the
@@ -8610,8 +7869,7 @@ few days' delay they made, but the man was firm,
 and at last it was done. They were divorced. I
 think the woman would have drawn back at the last
 moment, but she could not, for very shame, and the
-man never wavered. He was offended past forgive-
-ness.
+man never wavered. He was offended past forgiveness.
 
 So the divorce was given, and the man left the
 house and went to live elsewhere.
@@ -8636,11 +7894,8 @@ you." Now it is done. Let it remain.'
 
 The woman was struck with grief
 
-' But I did not know,' she said ; ' I was hot-
-tempered. I was foolish. But now I know. Ah !
+' But I did not know,' she said ; ' I was hottempered. I was foolish. But now I know. Ah !
 
-
-238 THE SOUL OF A PEOPLE
 
 the house is so lonely ! I have but two ears, I have
 but two eyes, and the house is so large.'
@@ -8671,8 +7926,7 @@ of hangers-on to our Administration, the clerks and
 policemen, and so on. I fear there is little that is
 good to be said of many of them. It is terrible to
 see how demoralizing our contact is to all sorts and
-conditions of men. To be attached to our Adminis-
-tration is almost a stigma of disreputableness. I
+conditions of men. To be attached to our Administration is almost a stigma of disreputableness. I
 remember remarking once to a headman that a
 certain official seemed to be quite regardless of
 public opinion in his life, and asked him if the
@@ -8711,17 +7965,13 @@ king, so she would allow no taking of other wives,
 no abuse of divorce among her subjects. Whatever
 her influence may have been in other ways, here it
 was all for good. But the queen has gone, and
-there is no one left at all. No one but the hangers-
-on of whom I have spoken, examples not to be
+there is no one left at all. No one but the hangerson of whom I have spoken, examples not to be
 followed, but to be shunned.
 
 
-240 THE SOUL OF A PEOPLE
-
 But of this there is no manner of doubt, that this
 freedom of marriage and divorce leads to no license.
-There is no confusion between marriage or non-
-marriage, and even yet public opinion is a very-
+There is no confusion between marriage or nonmarriage, and even yet public opinion is a very-
 great check upon divorce. It is considered not
 right to divorce your husband or your wife without
 good — very good and sufficient cause. And what is
@@ -8748,8 +7998,7 @@ and Americans. And after a time, for fear of
 attempts at escape, these prisoners were chained
 together two and two. And he tells you, this
 Englishman, how terrible this was, and of the hate
-and repulsion that arose in your heart to your co-
-bondsman. Before they were chained together they
+and repulsion that arose in your heart to your cobondsman. Before they were chained together they
 
 
 DIVORCE 241
@@ -8762,16 +8011,12 @@ to hate each other.
 And this is the Burmese idea of marriage, that it
 is a partnership of love and affection, and that when
 these die, all should be over. An unbreakable
-marriage appears to them as a fetter, a bond, some-
-thing hateful and hate inspiring. You see, they are
+marriage appears to them as a fetter, a bond, something hateful and hate inspiring. You see, they are
 a people who love to be free : they hate bonds and
 dogmas of every description. It is always religion
 that has made a bond of marriage, and here religion
 has not interfered. Theirs is a religion of free men
 and free women.
-
-
-16
 
 
 [ 242 ]
@@ -8784,8 +8029,7 @@ DRINK
 ' The ignorant commit sins in consequence of drunkenness, and
 also make others drunk.' — Acceptance into the Monkhood.
 
-The Buddhist religion forbids the use of all stimu-
-lants, including opium and other drugs ; and in the
+The Buddhist religion forbids the use of all stimulants, including opium and other drugs ; and in the
 times of the Burmese rule this law was stringently
 kept. No one was allowed to make, to sell, or to
 consume, liquors of any description. That this law
@@ -8794,8 +8038,7 @@ vigilance of the officials, but to the general feeling
 of the people. It was a law springing from within,
 and therefore effectual ; not imposed from without,
 and useless. That there were breaches and evasions
-of the law is only natural. The craving for some stimu-
-lant amongst all people is very great — so great as to
+of the law is only natural. The craving for some stimulant amongst all people is very great — so great as to
 have forced itself to be acknowledged and regulated
 by most states, and made a great source of revenue.
 Amongst the Burmans the craving is, I should say,
@@ -8843,8 +8086,6 @@ The governor was in session, seated on a little dais,
 16 — 2
 
 
-244 THE SOUL OF A PEOPLE
-
 and the merchant ran in and knelt down, as is the
 custom, in front of the dais. He began to hurriedly
 address the governor :
@@ -8864,13 +8105,11 @@ head, and whispered :
 
 The merchant gave a sigh of relief.
 
-'A case newly arrived is at your honour's dis-
-posal,' he answered quickly. ' I will give orders for
+'A case newly arrived is at your honour's disposal,' he answered quickly. ' I will give orders for
 it to be sent over at once. No, two cases — I have
 two. And this charge is all a mistake.'
 
-The governor waved his hand as if all explana-
-tion were superfluous. Then he drew himself up,
+The governor waved his hand as if all explanation were superfluous. Then he drew himself up,
 and, addressing the officials and crowd before him,
 said :
 
@@ -8911,11 +8150,9 @@ a little forbidden drink, under the encouragement of
 the great English soldier or official, was too much
 for them. Besides, it would have been a discourtesy
 to refuse. And so it was generally accepted. I do
-not think it did much harm to anyone, or to any-
-thing, except, perhaps, to our reputation.
+not think it did much harm to anyone, or to anything, except, perhaps, to our reputation.
 
-I remember in 1887 that I went up into a semi-
-independent state to see the prince. I travelled up
+I remember in 1887 that I went up into a semiindependent state to see the prince. I travelled up
 with two of his officials, men whom I had seen
 a good deal of for some months before, as his
 messengers and spokesmen, about affairs on the
@@ -8928,10 +8165,8 @@ last to where he had pitched his camp in the forest.
 He had built me a house, too, next to his camp,
 where I put up. I had a long interview with him
 about official matters — I need not tell of that here —
-and after our business was over we talked of many-
-things, and at last I got up to take my leave. I
-had seen towards the end that the prince had some-
-thing on his mind, something he wanted to say, but
+and after our business was over we talked of manythings, and at last I got up to take my leave. I
+had seen towards the end that the prince had something on his mind, something he wanted to say, but
 was afraid, or too shy, to mention ; and when I got
 up, instead of moving away, I laughed and said :
 
@@ -8980,8 +8215,7 @@ offender before — I have never offered a Burman
 liquor since.
 
 This is a people that believes its religion without
-a doubt, believes that it is not good to drink stimu-
-lants, to smoke opium. There used to be tales told
+a doubt, believes that it is not good to drink stimulants, to smoke opium. There used to be tales told
 long ago of King Thibaw, how he was a drunkard,
 and had orgies in the palace. We know now that
 there was not a word of truth in those reports, that
@@ -8996,8 +8230,6 @@ them. He was much in the palace in the old days,
 knew most of the officials well ; he knows more of
 the Burmans than any non-Burman I ever met, and
 
-
-248 THE SOUL OF A PEOPLE
 
 he says that there was not one word of truth in the
 English reports that the king drank. From the
@@ -9037,8 +8269,6 @@ tolerance towards all his neighbours, not thinking
 it necessary to disapprove of his neighbours' acts
 because they may not be the same as his own.
 
-
-250 THE SOUL OF A PEOPLE
 
 never thinking it necessary to interfere with his
 neighbours as long as the laws are not broken. Our
@@ -9092,8 +8322,7 @@ But the Buddhist does not believe this at all.
 Each man, each nation, has, he thinks, enough to do
 managing his or its own affairs. Interference, any
 sort of interference, he is sure can do nothing but
-harm. Vou cannot save a man. He can save him-
-self ; you can do nothing for him. You may force
+harm. Vou cannot save a man. He can save himself ; you can do nothing for him. You may force
 or persuade him into an outer agreement with you,
 but what is the value of that ? All dispositions that
 are good, that are of any value at all, must come
@@ -9109,8 +8338,6 @@ Even under the rule of the Burmese kings there
 was the very widest tolerance. You never heard
 of a foreigner being molested in any way, being
 
-
-252 THE SOUL OF A PEOPLE
 
 forbidden to live as he liked, being forbidden to
 erect his own places of worship. He had the widest
@@ -9179,13 +8406,10 @@ would stop you. 'It is your own look-out,' they
 would say ; ' if you want to die why should we
 prevent you ? What business is it of ours ?'
 
-Never believe for a moment that this is cold-
-heartedness. Nowhere is there any man so kind-
+Never believe for a moment that this is coldheartedness. Nowhere is there any man so kind-
 hearted as a Burman, so ready to help you, so
 hospitable, so charitable both in act and thought.
 
-
-254 THE SOUL OF A PEOPLE
 
 It is only that he has another way of seeing these
 things to what we have. He would resent as the
@@ -9216,8 +8440,7 @@ be ? you should be courteous to him, not because he
 deserves it, but because you deserve it. Courtesy
 is measured by the giver, not by the receiver. We
 are apt sometimes to think that this continual care
-of self is selfishness ; it is the very reverse. Self-
-reverence is the antipode of self-conceit, of selfish-
+of self is selfishness ; it is the very reverse. Selfreverence is the antipode of self-conceit, of selfish-
 
 
 MANNERS 255
@@ -9232,8 +8455,7 @@ And so dignity of manner is very marked amongst
 this people. It is cultivated as a gift, as the outward
 sign of a good heart.
 
-' A rough diamond ;' no Burman would under-
-stand this saying. The value of a diamond is that
+' A rough diamond ;' no Burman would understand this saying. The value of a diamond is that
 it can be polished. As long as it remains in the
 rough, it has no more beauty than a lump of mud.
 If your heart be good, so, too, will be your manners.
@@ -9246,11 +8468,9 @@ goodness. You cannot have one without the other.
 Outward appearances are not deceptive, but are
 true.
 
-Therefore they strive after even temper. Hot-
-tempered as they are, easily aroused to wrath, easily
+Therefore they strive after even temper. Hottempered as they are, easily aroused to wrath, easily
 awakened to pleasure, men with the passions of a
-child, they have very great command over them-
-selves. They are ashamed of losing their temper ;
+child, they have very great command over themselves. They are ashamed of losing their temper ;
 they look upon it as a disgrace. We are often
 proud of it ; we think sometimes we do well to be
 angry.
@@ -9259,14 +8479,11 @@ And so they are very patient, very long-suffering,
 accepting with resignation the troubles of this world,
 
 
-256 THE SOUL OF A PEOPLE
-
 the kicks and spurns of fortune, secure in this, that
 each man's self is in his own keeping. If there be
 trouble for to-day, what can it matter if you do but
 command yourself? If others be discourteous to
-you, that cannot hurt you, if you do not allow your-
-self to be discourteous in return. Take care of your
+you, that cannot hurt you, if you do not allow yourself to be discourteous in return. Take care of your
 own soul, sure that in the end you will win, either
 in this life or in some other, that which you deserve.
 What you have made your soul fit for, that you will
@@ -9299,10 +8516,8 @@ with pork and fowls. Burmans may sometimes be
 found selling these ; and fish are almost invariably
 sold by the wives of the fishermen. During the
 king's time, any man who was even found in
-possession of beef was liable to very severe punish-
-ment. The only exception, as I have explained
-elsewhere, was in the case of the queen when ex-
-pecting an addition to her family, and it was neces-
+possession of beef was liable to very severe punishment. The only exception, as I have explained
+elsewhere, was in the case of the queen when expecting an addition to her family, and it was neces-
 sary that she should be strengthened in all ways.
 None, not even foreigners, were allowed to kill beef,
 and this law was very stringently observed. Other
@@ -9310,10 +8525,6 @@ flesh and fish might, as far as the law of the country
 went, be sold with impunity. You could not be
 fined for killing and eating goats, or fowls, or pigs,
 
-17
-
-
-258 THE SOUL OF A PEOPLE
 
 and these were sold occasionally. It is now ten
 years since King Thibaw was overthrown, and there
@@ -9354,8 +8565,7 @@ affection to spare upon fishes. They cannot be, or
 at all events they never are, domesticated, and most
 of them are not beautiful. I am not aware that they
 have ever been known to display any attachment to
-anyone, which accounts, perhaps, for the compara-
-tively lenient eye with which their destruction is
+anyone, which accounts, perhaps, for the comparatively lenient eye with which their destruction is
 contemplated.
 
 For with warm-blooded animals it is very different.
@@ -9397,8 +8607,7 @@ which they are kept — of this I am sure.
 You would not suppose that fowls were capable
 of exciting much affection, yet I suppose they are.
 Certainly in one case ducks were. There is a
-Burman lady I know who is married to an English-
-man. He kept ducks. He bought a number of
+Burman lady I know who is married to an Englishman. He kept ducks. He bought a number of
 ducklings, and had them fed up so that they might
 be fat and succulent when the time came for them
 to be served at table. They became very fine ducks,
@@ -9457,11 +8666,8 @@ they are disgraced men. They are worse than
 fishermen, and they will have a terrible penalty to
 pay for it all. It will take much suffering to wash
 from their souls the cruelty, the blood-thirstiness,
-the carelessness to suffering, the absence of com-
-passion, that hunting must produce. ' Is there no
+the carelessness to suffering, the absence of compassion, that hunting must produce. ' Is there no
 
-
-262 THE SOUL OF A PEOPLE
 
 food in the bazaar, that you must go and take the
 lives of animals ?' has been said to me many a time.
@@ -9477,8 +8683,7 @@ shot them.' There are many sparrow-cotes to be
 seen in the villages.
 
 I might give example after example of this sort,
-for they happen every day. We who are meat-
-eaters, who delight in shooting, who have a horror
+for they happen every day. We who are meateaters, who delight in shooting, who have a horror
 of insects and reptiles, are continually coming into
 collision with the principles of our neighbours ; for
 even harmful reptiles they do not care to kill.
@@ -9533,11 +8738,8 @@ kill him.'
 In this district no Burman hesitates a moment in
 
 
-264 THE SOUL OF A PEOPLE '
-
 killing a viper when he has the chance. Usually he
-has to do it in self-defence. This viper is terribly-
-feared, as over a hundred persons a year die here
+has to do it in self-defence. This viper is terriblyfeared, as over a hundred persons a year die here
 by his bite. He is so hated and feared that he
 has become an outcast from the law that protects
 all life.
@@ -9549,8 +8751,7 @@ that will attack you first. He is said always to do
 so, certainly he often does. One attacked me once
 when out quail-shooting. He put up his great neck
 and head suddenly at a distance of only five or six
-feet, and was just preparing to strike, when I liter-
-ally blew his head off with two charges of shot.
+feet, and was just preparing to strike, when I literally blew his head off with two charges of shot.
 
 You would suppose he was vicious enough to be
 included with the Russell's viper in the category of
@@ -9579,19 +8780,16 @@ We asked the boys what they intended to do with
 the snakes, and they answered that they would
 show them to their friends in the village. 'And
 then ?' we asked. And then they would let them
-go in the water. My friend killed all the hama-
-dryads on the spot, and gave the boys some coppers,
+go in the water. My friend killed all the hamadryads on the spot, and gave the boys some coppers,
 and we went on. Can you imagine this happening
-anywhere else ? Can you think of any other school-
-boys sparing any animal they caught, much less
+anywhere else ? Can you think of any other schoolboys sparing any animal they caught, much less
 poisonous snakes .'' The extraordinary hold that
 this tenet of their religion has upon the Burmese
 must be seen to be understood. What I write will
 sound like some fairy story, I fear, to my people at
 home. It is far beneath the truth. The belief that
 it is wrong to take life is a belief with them as
-strong as any belief could be. I do not know any-
-where any command, earthly or heavenly, that is
+strong as any belief could be. I do not know anywhere any command, earthly or heavenly, that is
 •acted up to with such earnestness as this command
 is amongst the Burmese. It is an abiding principle
 of their daily life.
@@ -9603,9 +8801,6 @@ seems to me that it is older even than he. It has
 been derived both by the Burmese Buddhists and
 the Hindus from a faith whose origin is hidden
 in the mists of long ago. It is part of that far
-
-
-266 THE SOUL OF A PEOPLE
 
 
 older faith on which Buddhism was built, as was
@@ -9620,11 +8815,9 @@ is all in accordance ; there are no exceptions.
 
 I have heard amongst Europeans a very curious
 explanation of this refusal of Buddhists to take life.
-' Buddhists,' they say, ' believe in the transmi-
-gration of souls. They believe that when a man
+' Buddhists,' they say, ' believe in the transmigration of souls. They believe that when a man
 dies his soul may go into a beast. You could not
-expect him to kill a bull, when perchance his grand-
-father's soul might inhabit there.' This is their
+expect him to kill a bull, when perchance his grandfather's soul might inhabit there.' This is their
 explanation, this is the way they put two and two
 together to make five. They know that Buddhists
 believe in transmigration, they know that Buddhists
@@ -9678,15 +8871,12 @@ more, and he has the same horror of taking life that
 the Hindu has.
 
 
-268 THE SOUL OF A PEOPLE
-
 Coming from half- starved, over-driven India, it is
 a revelation to see the animals in Burma. The
 village ponies and cattle and dogs in India are
 enough to make the heart bleed for their sordid
 misery, but in Burma they are a delight to the eye.
-They are all fat, every one of them — fat and com-
-fortable and impertinent ; even the ownerless dogs
+They are all fat, every one of them — fat and comfortable and impertinent ; even the ownerless dogs
 are well fed. I suppose the indifference of the
 ordinary native of India to animal suffering comes
 from the evil of his own lot. He is so very poor,
@@ -9696,8 +8886,7 @@ He has none to spare. He is driven into a dumb
 heartlessness, for I do not think he is actually cruel.
 
 The Burman is full of the greatest sympathy
-towards animals of all kinds, of the greatest under-
-standing of their ways, of the most humorously
+towards animals of all kinds, of the greatest understanding of their ways, of the most humorously
 good-natured attitude towards them. Looking at
 them from his manhood, he has no contempt for
 them ; but the gentle toleration of a father to very
@@ -9728,20 +8917,16 @@ and he very soon gave it up. He said that the work
 was too heavy either for a pony or a man. I think,
 perhaps, it was for the safety of the public that he
 resigned, for his ponies were the very reverse of
-meek — which a native of India says a hackney-
-carriage pony should be — and he drove entirely by
+meek — which a native of India says a hackneycarriage pony should be — and he drove entirely by
 the light of Nature.
 
 So all the drivers of gharries, as we call them, are
 natives of India or half-breeds, and it is amongst
-them that the work of the Society for the Preven-
-tion of Cruelty to Animals principally lies. While
-I was in Rangoon I tried a number of cases of over-
-driving, of using ponies with sore withers and the
+them that the work of the Society for the Prevention of Cruelty to Animals principally lies. While
+I was in Rangoon I tried a number of cases of overdriving, of using ponies with sore withers and the
 like. I never tried a Burman. Even in Rangoon,
 which has become almost Indianized, his natural
-humanity never left the Burman. As far as Bur-
-mans are concerned, the Society for the Prevention
+humanity never left the Burman. As far as Burmans are concerned, the Society for the Prevention
 of Cruelty to Animals need not exist. They are
 kinder to their animals than even the members of
 the Society could be. Instances occur every day ;
@@ -9749,8 +8934,6 @@ here is one of the most striking that I remember.
 
 There is a town in Burma where there are some
 
-
-270 THE SOUL OF A PEOPLE
 
 troops stationed, and which is the headquarters of
 the civil administration of the district. It is, or was
@@ -9789,8 +8972,7 @@ and the contractor was approached on the subject.
 He said he was willing to continue the contract for
 another year if the mail subsidy was largely increased.
 He said he had lost money on that year's working.
-When asked how he could possibly have lost con-
-sidering the large number of people who were always
+When asked how he could possibly have lost considering the large number of people who were always
 passing up and down, he said that they did not ride
 in his coach. Only the European soldiers and a
 few natives of India came with him. Officers had
@@ -9813,17 +8995,13 @@ ribs, and when they come to the end of a stage they
 are fit to fall down and die. They should be turned
 out to graze.'
 
-The opinion was universal. The Burmans pre-
-ferred to spend twice or thrice the money and hire
+The opinion was universal. The Burmans preferred to spend twice or thrice the money and hire
 a bullock-cart and go slowly, while the coach flashed
 past them in a whirl of dust, or they preferred to
 walk. Many and many times have I seen the road-
 
 
-2 72 THE SOUL OF A PEOPLE
-
-side rest-houses full of travellers halting for a few-
-minutes' rest. They walked while the coach came
+side rest-houses full of travellers halting for a fewminutes' rest. They walked while the coach came
 by empty ; and nearly all of them could have afforded
 the fare. It was a very striking instance of what
 pure kind-heartedness will do, for there would have
@@ -9883,18 +9061,12 @@ heard them bark all night at nothing.
 But when a Burman sees a fox-terrier or any
 English dog his delight is unfeigned. When we
 first took Upper Burma, and such sights were rare,
-half a village would turn out to see the little ' tail-
-less ' dog trotting along after its master. And if the
+half a village would turn out to see the little ' tailless ' dog trotting along after its master. And if the
 terrier would ' beg,' then he would win all hearts.
 I am not only referring to children, but to grown
-men and women ; and then there is always some-
-thing peculiarly childlike and frank in these children
+men and women ; and then there is always something peculiarly childlike and frank in these children
 of the great river.
 
-18
-
-
-274 THE SOUL OF A PEOPLE
 
 Only to-day, as I was walking up the bank of
 the river in the early dawn, I heard some Burman
@@ -9951,8 +9123,7 @@ position to an animal justifies you in torturing it,
 so it would do with men. If you are in a better
 position than another man, richer, stronger, higher
 in rank, that would — that does often in our minds —
-justify ill-treatment and contempt. Our innate feel-
-ing towards all that we consider inferior to ourselves
+justify ill-treatment and contempt. Our innate feeling towards all that we consider inferior to ourselves
 is scorn ; the Burman's is compassion. You can
 see this spirit coming out in every action of their
 daily life, in their dealings with each other, in their
@@ -9963,13 +9134,10 @@ heard this from a Burman's lips ! How often have
 I seen him act up to it! It seems to them the
 necessary corollary of strength that the strong man
 should be sympathetic and kind. It seems to them
-an unconscious confession of weakness to be scorn-
-ful, revengeful, inconsiderate. Courtesy, they say,
+an unconscious confession of weakness to be scornful, revengeful, inconsiderate. Courtesy, they say,
 
 18—2
 
-
-276 THE SOUL OF A PEOPLE
 
 is the mark of a great man, discourtesy of a little
 one. No one who feels his position secure will lose
@@ -10043,8 +9211,7 @@ Of sunward-sailing cranes.'
 Tegner's JDrapa.
 
 All romance has died out of our woods and hills in
-England, all our fairies are dead long ago. Know-
-ledge so far has brought us only death. Later on it
+England, all our fairies are dead long ago. Knowledge so far has brought us only death. Later on it
 will bring us a new life. It is even now showing us
 how this may be, and is bringing us face to face
 again with Nature, and teaching us to know and
@@ -10053,8 +9220,7 @@ is teaching us again what we knew long ago and
 forgot, that our life is not apart from the life about
 us, but of it. Everything is akin to us, and when
 we are more accustomed to this knowledge, when
-we have ceased to regard it as a new, strange teach-
-ing, and know that we are seeing again with clearer
+we have ceased to regard it as a new, strange teaching, and know that we are seeing again with clearer
 eyes what a half-knowledge blinded us to, then the
 
 
@@ -10104,14 +9270,12 @@ silent villages, and then say if there be no life in
 the waters, if they, too, are dead things. There is
 no consolation like the consolation of Nature, no
 sympathy like the sympathy of the hills and streams ;
-and sympathy comes from life. There is no sym-
-pathy with the dead.
+and sympathy comes from life. There is no sympathy with the dead.
 
 When you are alone in the forest all this life will
 come and talk to you, if you are quiet and understand.
 There is love deep down in the passionate heart of
-the flower, as there is in the little quivering honey-
-sucker flitting after his mate, as there was in Romeo
+the flower, as there is in the little quivering honeysucker flitting after his mate, as there was in Romeo
 long ago. There is majesty in the huge brown
 precipice greater than ever looked from the face of
 a king. All life is one. The soul that moves
@@ -10139,15 +9303,13 @@ Burmans call Nats. There are all kinds of Nats,
 good and bad, great and little, male and female,
 now living round about us. Some of them live in
 the trees, especially in the huge fir-tree that shades
-half an acre without the village ; or among the fern-
-like fronds of the tamarind ; and you will often see
+half an acre without the village ; or among the fernlike fronds of the tamarind ; and you will often see
 beneath such a tree, raised upon poles or nestled in
 the branches, a little house built of bamboo and
 thatch, perhaps two feet square. You will be told
 when you ask that this is the house of the Tree-
 Nat. Flowers will be offered sometimes, and a
-little water or rice maybe, to the Nat, never sup-
-posing that he is in need of such things, but as a
+little water or rice maybe, to the Nat, never supposing that he is in need of such things, but as a
 courteous and graceful thing to do ; for it is not
 safe to offend these Nats, and many of them are
 very powerful. There is a Nat of whom I know,
@@ -10162,9 +9324,6 @@ the advice of his Burmese companions and did
 not dismount, and a few days later he was taken
 deadly sick of fever. He very nearly died, and had
 to go away to the Straits for a sea-trip to take the
-
-
-THE SOUL OF A PEOPLE
 
 
 fever out of his veins. It was a very near thing
@@ -10232,12 +9391,9 @@ But the Nat has gone now, alas ! The tree is
 still there, but the Nat has fled away these many
 years.
 
-' I suppose he didn't care to stay,' said the head-
-man. ' You see that the English Government
+' I suppose he didn't care to stay,' said the headman. ' You see that the English Government
 officials came and camped here, and didn't fear the
 
-
-284 THE SOUL OF A PEOPLE
 
 Nats. They had fowls killed here for their dinner,
 and they sang and shouted ; and they shot the green
@@ -10252,8 +9408,7 @@ So the Nat went away. The headman did not
 know where he was gone, but there are plenty of
 trees.
 
-' He has gone somewhere to get peace,' the head-
-man said. ' Somewhere in the jungle, where no one
+' He has gone somewhere to get peace,' the headman said. ' Somewhere in the jungle, where no one
 ever comes save the herd-boy and the deer, he will
 be living in a tree, though I do not think he will
 easily find a tree so beautiful as this.'
@@ -10306,12 +9461,8 @@ is always a breeze in this great tree ; the leaves are
 always moving, and there is a continuous rustle and
 murmur up there. A mango-tree and tamarind near
 by are quite still. Not a breath shakes their leaves ;
-they are as still as stone, but the shadow of the fig-
-tree is chequered with ever-changing lights. Is the
+they are as still as stone, but the shadow of the figtree is chequered with ever-changing lights. Is the
 Nat really gone ? Perhaps not ; perhaps he is still
-
-
-THE SOUL OF A PEOPLE
 
 
 there, still caring for his tree, only shy now and
@@ -10386,8 +9537,6 @@ A Nat is much like a human being ; if you treat
 him well he will treat you well, and conversely.
 
 
-288 THE SOUL OF A PEOPLE
-
 Courtesy is never wasted on men or Nats, at least,
 so a Burman tells me.
 
@@ -10402,8 +9551,7 @@ strange noises came from the hill. High up on his
 mighty side was heard the sound of great guns
 firing slowly and continuously ; there was the thunder
 of falling rocks, cries as of someone bewailing a
-terrible calamity, and voices calling from the preci-
-pices. The people living in their little hamlets
+terrible calamity, and voices calling from the precipices. The people living in their little hamlets
 about his feet were terrified. Something they knew
 had happened of most dire import to them, some
 catastrophe which they were powerless to prevent,
@@ -10411,8 +9559,7 @@ which they could not even guess. But when a few
 weeks later there came even into those remote
 villages the news of the fall of Mandalay, of the
 surrender of the king, of the 'great treachery,' they
-knew that this was what the Nats had been sorrow-
-ing over. All the Nats everywhere seem to have
+knew that this was what the Nats had been sorrowing over. All the Nats everywhere seem to have
 been distressed at our arrival, to hate our presence,
 and to earnestly desire our absence. They are the
 spirits of the country and of the people, and they
@@ -10450,18 +9597,12 @@ very dangerous thing to offend the Popa Nats ; for
 they are still there in the mountain, and everyone
 who goes there must do them reverence.
 
-A friend of mine, a police officer, who was en-
-gaged in trying to catch the last of the robber chiefs
+A friend of mine, a police officer, who was engaged in trying to catch the last of the robber chiefs
 who hid near Popa, told me that when he went up
-the mountain shooting he, too, had to make offer-
-ings. Some way up there is a little valley dark
+the mountain shooting he, too, had to make offerings. Some way up there is a little valley dark
 with overhanging trees, and a stream flows slowly
 along it. It is an enchanted valley, and if you look
 
-19
-
-
-290 THE SOUL OF A PEOPLE
 
 closely you will see that the stream is not as other
 streams, for it flows uphill. It comes rushing into
@@ -10533,8 +9674,6 @@ The old king died, and a new king came to
 19 — 2
 
 
-292 THE SOUL OF A PEOPLE
-
 the throne, and orders were sent about to all the
 governors of provinces and other officials that the
 most beautiful maidens were to be sent down to the
@@ -10598,12 +9737,9 @@ and in her pleasure she forgot her discretion, and
 said that her brother was wise as well as strong,
 and that all the people loved him. Never was there
 such a man as he. The king did not seem very
-pleased with it all, but he said only that the black-
-smith was a great man, and that the queen must
+pleased with it all, but he said only that the blacksmith was a great man, and that the queen must
 write to him to come down to the city, that the
 
-
-294 THE SOUL OF A PEOPLE
 
 king might see him of whom there was such great
 report.
@@ -10611,8 +9747,7 @@ report.
 Then the king got up and went away, and the
 queen began to doubt ; and the more she thought
 the more she feared she had not been acting wisely
-in talking as she did, for it is not wise to praise any-
-one to a king. She went away to her own room
+in talking as she did, for it is not wise to praise anyone to a king. She went away to her own room
 to consider, and to try if she could hear of any
 reason why the king should act as he had done,
 and desire her brother to come to him to the city ;
@@ -10658,8 +9793,7 @@ king would forget, and she determined that she
 would send no order to her brother to come. But
 the next day the king came back to the subject,
 and asked her if she had yet sent the letter, and she
-said ' No !' The king was very angry at this dis-
-obedience to his orders, and he asked her how it
+said ' No !' The king was very angry at this disobedience to his orders, and he asked her how it
 came that she had not done as he had commanded,
 and sent a letter to her brother to call him to the
 palace.
@@ -10675,8 +9809,6 @@ The king was rather abashed that his design had
 been discovered, but he was firm in his purpose.
 He assured the queen that the blacksmith should
 
-
-2 96 THE SOUL OF A PEOPLE
 
 come to no harm, but rather good ; and he ordered
 the queen to obey him, threatening her that if she
@@ -10749,8 +9881,6 @@ the king left her to herself, and went away to his
 own chambers.
 
 
-298 THE SOUL OF A PEOPLE
-
 Very early in the morning, ere the crimson flush
 upon the mountains had faded in the light of day,
 a vast crowd was gathered below the city, by the
@@ -10820,13 +9950,10 @@ magnificent tree, that travellers coming from the
 boats, or waiting for a boat to arrive, would rest in
 
 
-300 THE SOUL OF A PEOPLE
-
 numbers under its shade. But the report said
 that something had happened there. To travellers
 sleeping beneath the tree at night it was stated
-that two Nats had appeared, very large and very-
-beautiful, a man Nat and a woman Nat, and had
+that two Nats had appeared, very large and verybeautiful, a man Nat and a woman Nat, and had
 frightened them very much indeed. Noises were
 heard in the tree, voices and cries, and a strange
 terror came upon those who approached it. Nay, it
@@ -10891,11 +10018,8 @@ it is doubtful if even then anyone would have dared
 to steal them, so greatly are the Nats feared. And
 the hunters and the travellers there must offer to
 the Nats little offerings, if they would be safe in these
-forests, and even the young man must obtain per-
-mission from the Nats before he marry.
+forests, and even the young man must obtain permission from the Nats before he marry.
 
-
-302 THE SOUL OF A PEOPLE
 
 I think these stories that I have told, stories
 selected from very many that I have heard, will
@@ -11014,8 +10138,6 @@ rapidly and in great fear, and did not rest till they
 came to a city far away where the merchant would
 never, they thought, think of searching for them.
 
-20
-
 
 3o6 THE SOUL OF A PEOPLE
 
@@ -11037,8 +10159,7 @@ them another little son.
 
 The mother recovered rapidly, and in a little time
 she was well enough to go on. They were to start
-next morning on their way again ; and in the even-
-ing the husband went out, as was his custom, to cut
+next morning on their way again ; and in the evening the husband went out, as was his custom, to cut
 firewood, for the nights were cold and damp.
 
 Ma Pa Da waited and waited for him, but he
@@ -11154,8 +10275,7 @@ she could bear. She threw off all her clothes, and
 let down her long hair and wrapped it about her
 naked body, and walked about raving.
 
-At last she came to where the Buddha was teach-
-ing, seated under a fig-tree. She came up to the
+At last she came to where the Buddha was teaching, seated under a fig-tree. She came up to the
 Buddha, and told him of her losses, and how she
 had no one left ; and she demanded of the Buddha
 that he should restore to her those that she had lost.
@@ -11173,9 +10293,6 @@ our very existence here, sorrow and trouble withoQt
 any end.'
 
 But she would not be comforted, but demanded
-
-
-THE SOUL OF A PEOPLE
 
 
 her dead of the Buddha. Then, because he saw it
@@ -11208,8 +10325,7 @@ asked, looking round wistfully.
 The man answered ' Yes,' that death had been
 with them but recently. Who could this woman
 be, he thought, to ask such a question ? And the
-woman went forth, the seed dropping from her care-
-less fingers, for it was of no value. So she would
+woman went forth, the seed dropping from her careless fingers, for it was of no value. So she would
 try again and again, but it was always the same.
 Death had taken his tribute from all. Father or
 
@@ -11225,8 +10341,7 @@ believed from the Buddha, that death and life are
 one.
 
 So she returned, and she became a nun, poor
-soul ! taking on her the two hundred and twenty-
-seven vows, which are so hard to keep that now-
+soul ! taking on her the two hundred and twentyseven vows, which are so hard to keep that now-
 adays nuns keep but five of them.*
 
 This is the teaching of the Buddha, that death is
@@ -11257,13 +10372,10 @@ and over again to his disciples when they sorrowed
 5. Chastity.
 
 
-312 THE SOUL OF A PEOPLE
-
 for the death of Thariputra, when they were in
 despair at the swift-approaching end of the great
 teacher himself Hear what he says to Ananda,
-the beloved disciple, who is mourning over Thari-
-putra.
+the beloved disciple, who is mourning over Thariputra.
 
 ' Ananda,' he said, ' often and often have I sought
 to bring shelter to your soul from the misery caused
@@ -11278,8 +10390,7 @@ wilderness ?
 
 ' And yet what would I have gained by wailing
 and lamenting either for myself or for others ? Would
-it have brought to me any solace from my loneli-
-ness ? would it have been any help to those whom
+it have brought to me any solace from my loneliness ? would it have been any help to those whom
 I had left ? There is nothing that can happen to
 us, however terrible, however miserable, that can
 justify tears and lamentations and make them aught
@@ -11297,8 +10408,7 @@ of grief
 
 DEATH, THE DELIVERER 313
 
-There is no meeting again with the dead. No-
-where in the recurring centuries shall we meet again
+There is no meeting again with the dead. Nowhere in the recurring centuries shall we meet again
 those whom we have loved, whom we love, who
 seem to us to be parts of our very soul. That
 which survives of us, the part which is incarnated
@@ -11333,8 +10443,6 @@ men everywhere.'
 answered.
 
 
-314 THE SOUL OF A PEOPLE
-
 He was not surprised.
 
 •As it is true,' he said, ' I suppose all great men
@@ -11365,8 +10473,7 @@ lust of life, white souls steeped in the Great Peace,
 all living things will attain rest at last.
 
 There is this remarkable fact in Buddhism, that
-nowhere is any fear expressed of death itself, no-
-where any apprehension of what may happen to the
+nowhere is any fear expressed of death itself, nowhere any apprehension of what may happen to the
 dead. It is the sorrow of separation, the terror of
 death to the survivors, that is always dwelt upon
 
@@ -11389,8 +10496,7 @@ It is true that to all Orientals death is a less
 fearful thing than it is to us. I do not know what
 may be the cause of this, courage certainly has little
 to do with it ; but it is certain that the purely
-physical fear of death, that horror and utter re-
-vulsion that seizes the majority of us at the idea of
+physical fear of death, that horror and utter revulsion that seizes the majority of us at the idea of
 death, is absent from most Orientals. And yet this
 cannot explain it all. For fear of death, though
 less, is still there, is still a strong influence upon
@@ -11402,8 +10508,7 @@ Religion is made for man, to fit his necessities,
 not man for religion, and yet the faith of Buddhism
 is not concerned with death.
 
-Consider our faith, how much of its teaching con-
-sists of how to avoid the fear of death, how much of
+Consider our faith, how much of its teaching consists of how to avoid the fear of death, how much of
 its consolation is for the death-bed. How we are
 taught all our lives that we should live so as not to
 fear death ; how we have priests and sacraments to
@@ -11442,8 +10547,7 @@ great and final test of that creed.
 
 And now think of Buddhism ; it is a creed of life.
 In life you must win your way to salvation by urgent
-effort, by suffering, by endurance. On your death-
-bed you can do nothing. If you have done well,
+effort, by suffering, by endurance. On your deathbed you can do nothing. If you have done well,
 then it is well ; if ill, then you must in future life
 try again and again till you succeed. A life is not
 
@@ -11467,8 +10571,7 @@ that a sinner can at the last moment make good to
 his own soul all the injuries caused to that soul by
 the wickedness of his life.
 
-Or suppose a man who has destroyed his consti-
-tution by excess to be by the very fact of acknow-
+Or suppose a man who has destroyed his constitution by excess to be by the very fact of acknow-
 ledging that excess restored to health.
 
 The Buddhist will not have that at all. A man
@@ -11493,8 +10596,7 @@ have learnt, through suffering, the wisdom the
 Buddha has shown to us, that only by a just life can
 men reach the Great Peace even as he did.
 
-So you see that if Buddhism has none of the con-
-solation for the dying man that Christianity holds
+So you see that if Buddhism has none of the consolation for the dying man that Christianity holds
 out, in the hope of heaven, so it has none of the
 threats and terrors of our faith. There is no fear
 of an angry Judge — of a Judge who is angry.
@@ -11509,8 +10611,7 @@ that therefore the creed of the people had ignored it.
 A living creed must, I was sure, provide for this
 somehow.
 
-So I went to a friend of mine, a Burman magis-
-trate, and I asked him :
+So I went to a friend of mine, a Burman magistrate, and I asked him :
 
 ' When a man is dying, what does he try to think
 of ? What do you say to comfort him that his last
@@ -11565,8 +10666,6 @@ of children playing, grunts of cattle, voices of men
 and women clearly heard through the still clear air
 
 
-320 THE SOUL OF A PEOPLE
-
 of the afternoon. There is a woman pounding rice
 near by with a steady thud, thud of the lever, and
 there is a clink of a loom where a girl is weaving
@@ -11596,8 +10695,7 @@ deeds.'
 
 And as the sick man turns wearily, trying to move
 his thoughts as he is bidden, trying to direct the
-wheels of memory, the old man helps him to re-
-member.
+wheels of memory, the old man helps him to remember.
 
 ' Think,' he says, ' of your good deeds, of how
 you have given charity to the monks, of how you
@@ -11627,8 +10725,7 @@ how it seemed as if no man could live alone in such
 waves, and yet how you clung to and saved the boy
 who was with you, swimming through the water that
 splashed over your head and very nearly drowned
-you. The boy's father and mother have never for-
-gotten that, and they are even now mourning without
+you. The boy's father and mother have never forgotten that, and they are even now mourning without
 in the veranda. It is all due to you that their lives
 have not been full of misery and despair. Remember
 their faces when you brought their little son to them
@@ -11639,10 +10736,6 @@ her, and kept faithful to her before all the world.
 You have been a good husband to her, and you
 have honoured her. She loves you, and you have
 
-21
-
-
-322 THE SOUL OF A PEOPLE
 
 loved her all your long life together. Surely that is
 a pleasant thing.'
@@ -11666,8 +10759,7 @@ remember one good deed that he has done.
 
 ' All a man's life comes before him at the hour of
 death,' said my informant; 'all, from the earliest
-memory to the latest breath. Like a whole land-
-scape called by a flash of lightning out of the dark
+memory to the latest breath. Like a whole landscape called by a flash of lightning out of the dark
 night. It is all there, every bit of it, good and evil,
 pleasure and pain, sin and righteousness.'
 
@@ -11757,8 +10849,7 @@ ordered that many can remember something of
 these former lives of theirs. This belief is not to a
 Burman a mere theory, but is as true as anything
 he can see. For does he not daily see people who
-know of their former lives ? Nay, does he not him-
-self, often vaguely, have glimpses of that former
+know of their former lives ? Nay, does he not himself, often vaguely, have glimpses of that former
 life of his ? No man seems to be quite without it,
 but of course it is clearer to some than others. Just
 as we tell stories in the dusk of ghosts and second
@@ -11769,8 +10860,6 @@ believe in them far more than we do in ghosts.
 A friend of mine put up for the night once at
 a monastery far away in the forest near a small
 
-
-326 THE SOUL OF A PEOPLE
 
 village. He was travelling with an escort of mounted
 police, and there was no place else to sleep but in
@@ -11835,14 +10924,11 @@ Then at last one evening, when the girls were all
 out at the well drawing water, they were surprised
 by the arrival of a monk walking in from the forest,
 weary with a long journey, footsore and hungry.
-The villagers received him with enthusiasm, fear-
-ing, however, that he was but passing through, and
+The villagers received him with enthusiasm, fearing, however, that he was but passing through, and
 they furbished up the old monastery in a hurry for
 him to sleep in. But the curious thing was that
 the monk seemed to know it all. He knew the
 
-
-328 THE SOUL OF A PEOPLE
 
 monastery and the path to it, and the ways about
 the village, and the names of the hills and the
@@ -11884,8 +10970,7 @@ had arrived, as they saw. So the villagers were
 convinced, and they set to work and cut down the
 great boles, and built the monastery such as my
 friend saw. And the monk lived there all his life,
-and taught the children, and preached the marvel-
-lous teaching of the great Buddha, till at length his
+and taught the children, and preached the marvellous teaching of the great Buddha, till at length his
 time came again and he returned ; for of monks it
 is not said that they die, but that they return.
 
@@ -11898,32 +10983,26 @@ to inn, till at length it is ended in heaven. But not
 till he has attained heaven in his heart will he attain
 heaven in reality.
 
-Many children, the Burmese will tell you, re-
-member their former lives. As they grow older the
+Many children, the Burmese will tell you, remember their former lives. As they grow older the
 memories die away and they forget, but to the
 young children they are very clear. I have seen
 many such.
 
-About fifty years ago in a village named Okshit-
-gon were born two children, a boy and a girl. They
+About fifty years ago in a village named Okshitgon were born two children, a boy and a girl. They
 were born on the same day in neighbouring houses,
 and they grew up together, and played together,
 and loved each other. And in due course they
-married and started a family, and maintained them-
-selves by cultivating their dry, barren fields about
+married and started a family, and maintained themselves by cultivating their dry, barren fields about
 the village. They were always known as devoted
 to each other, and they died as they had lived —
 
-
-330 THE SOUL OF A PEOPLE
 
 together. The same death took them on the same
 day ; so they were buried without the village and
 were forgotten ; for the times were serious.
 
 It was the year after the English army had taken
-Mandalay, and all Burma was in a fury of insur-
-rection. The country was full of armed men, the
+Mandalay, and all Burma was in a fury of insurrection. The country was full of armed men, the
 roads were unsafe, and the nights were lighted with
 the flames of burning villages. It was a bad time
 for peace-loving men, and many such, fleeing from
@@ -11964,8 +11043,7 @@ was no doubt about it. One of them, the younger,
 remembered, too, how she had borrowed two rupees
 once of a woman. Ma Thet, unknown to her
 husband, and left the debt unpaid. Ma Thet was
-still living, and so they asked her, and she recol-
-lected that it was true she had lent the money long
+still living, and so they asked her, and she recollected that it was true she had lent the money long
 ago. I did not hear that the children's father repaid
 the two rupees.
 
@@ -11987,8 +11065,6 @@ remember as I used to do.'
 Of children such as this you may find any number.
 Only you have to look for them, as they are not
 
-
-332 THE SOUL OF A PEOPLE
 
 brought forward spontaneously. The Burmese, like
 other people, hate to have their beliefs and ideas
@@ -12019,8 +11095,7 @@ Sometimes this belief leads to lawsuits of a
 peculiarly difficult nature. In 1883, two years
 before the annexation of Upper Burma, there was
 a case that came into the local Court of the oil
-district, which depended upon this theory of trans-
-migration.
+district, which depended upon this theory of transmigration.
 
 Opposite Yenangyaung there are many large
 
@@ -12032,8 +11107,7 @@ water months are joined to the mainland, and are
 covered with a dense high grass in which many
 deer live.
 
-When the river rises, it rises rapidly, communica-
-tion with the mainland is cut off, and the islands are
+When the river rises, it rises rapidly, communication with the mainland is cut off, and the islands are
 for a time, in the higher rises, entirely submerged.
 During the progress of the first rise some hunters
 went to one of these islands where many deer were
@@ -12060,21 +11134,17 @@ threatened to take the deer by force, but the woman
 was quite firm. She would never give him up
 
 
-334 THE SOUL OF A PEOPLE
-
 except with her life. 'You can see,' she said, 'that
 it is true that he is my son. He came running
 straight to me, as he always did in his trouble when
-he was a boy, and he is now quite quiet and con-
-tented, instead of being afraid of me as an ordinary
+he was a boy, and he is now quite quiet and contented, instead of being afraid of me as an ordinary
 deer would be.' And it was quite true that the
 deer took to her at once, and remained with her
 willingly. So the hunters went off to the court of
 the governor and filed a suit for the deer.
 
 The case was tried in open court, and the deer
-was produced with a ribbon round its neck. Evi-
-dence there was naturally but little. The hunters
+was produced with a ribbon round its neck. Evidence there was naturally but little. The hunters
 claimed the deer because they had driven it out of
 the island by their fire. The woman resisted the
 claim on the ground that it was her son.
@@ -12101,8 +11171,7 @@ it and ate it. Surely it is true that officials are of
 
 THE POTTER'S WHEEL 335
 
-all the five evils the greatest.' Then my friend re-
-membered that I was myself an official, and he
+all the five evils the greatest.' Then my friend remembered that I was myself an official, and he
 looked foolish, and began to make complimentary
 remarks about English officials, that they would
 never give such an iniquitous decision. I turned it
@@ -12115,8 +11184,7 @@ It is very easy to laugh at such beliefs ; nothing
 is, indeed, easier than to be witty at the expense of
 any belief It is also very easy to say that it is all
 self-deception, that the children merely imagine that
-they remember their former lives, or are citing con-
-versation of their elders.
+they remember their former lives, or are citing conversation of their elders.
 
 How this may be I do not know. What is the
 explanation of this, perhaps the only belief of which
@@ -12128,15 +11196,11 @@ in the far older faith of Brahmanism, of which
 Buddhism was but an offshoot, as was Christianity
 of Judaism.
 
-I have not, indeed, attempted to reach the ex-
-planation of things I have seen. When I have
+I have not, indeed, attempted to reach the explanation of things I have seen. When I have
 satisfied myself that a belief is really held by the
-people, that I am not the subject of conscious de-
-ception, either by myself or others, I have conceived
+people, that I am not the subject of conscious deception, either by myself or others, I have conceived
 that my work was ended.
 
-
-336 THE SOUL OF A PEOPLE
 
 There are those who, in investigating any foreign
 customs and strange beliefs, can put their finger
@@ -12147,8 +11211,7 @@ writers. I have no such confident belief in my own
 infallibility of judgment as to be able to sit on high
 and say, ' Here is truth, and here is error.'
 
-I will leave my readers to make their own judg-
-ment, if they desire to do so ; only asking them (as
+I will leave my readers to make their own judgment, if they desire to do so ; only asking them (as
 they would not like their own beliefs to be scoffed
 and sneered at) that they will treat with respect the
 sincere beliefs of others, even if they cannot accept
@@ -12186,8 +11249,7 @@ the one I told about the man and wife being reborn
 twins. It was this : A man dies and leaves behind
 children, let us say, to whom he is devoutly
 attached. He is reborn in another family in the
-same village, maybe. It would be natural to sup-
-pose that he would love his former family as much
+same village, maybe. It would be natural to suppose that he would love his former family as much
 as, or even more than, his new one. Complications
 might arise in this way which it is easy to conceive
 would cause great and frequent difficulties.
@@ -12203,16 +11265,11 @@ with his father, of course loves him ; but as his
 present flesh has no sort of connection with his
 former one, he does not love those to whom he was
 related in his other lives. These affections are as
-much a part of the body as the hand or the eye-
-sight ; with one you put off" the other.'
+much a part of the body as the hand or the eyesight ; with one you put off" the other.'
 
 Thus all love, to the learned, even the purest
 affection of daughter to mother, of man to his friend,
 
-22
-
-
-338 THE SOUL OF A PEOPLE
 
 is in theory a function of the body — with the one
 we put off the other ; and this may explain, perhaps,
@@ -12221,16 +11278,14 @@ make quite clear, that in the hereafter* of Buddhism
 there is no affection.
 
 When we have put off all bodies, when we have
-attained Nirvana, love and hate, desire and re-
-pulsion, will have fallen from us for ever.
+attained Nirvana, love and hate, desire and repulsion, will have fallen from us for ever.
 
 Meanwhile, in each life, we are obliged to endure
 the affections of the body into which we may be
 born. It is the first duty of a monk, of him who is
 trying to lead the purer life, to kill all these
 affections, or rather to blend them into one great
-compassion to c^ll the world alike. ' Gayuna,' com-
-passion, that is the only passion that will be left to
+compassion to c^ll the world alike. ' Gayuna,' compassion, that is the only passion that will be left to
 us. So say the learned.
 
 I met a little girl not long ago, a wee little maiden
@@ -12243,8 +11298,7 @@ that it was first suspected, her parents told me,
 whom she had been in her former life. She could
 even as a sucking-child manipulate the strings of a
 marionette -doll. But the actual discovery came
-when she was about four years old, and she recog-
-nised a certain marionette booth and dolls as her
+when she was about four years old, and she recognised a certain marionette booth and dolls as her
 
 * The hereafter = the, state to which we attain when we have
 done with earthly things.
@@ -12286,13 +11340,10 @@ The last life was like a dream. Broken memories
 of it still remained, but the loves and hates, the
 passions and impulses, were all dead.
 
-Another little boy told me once that the way re-
-membrance came to him was by seeing the silk he
+Another little boy told me once that the way remembrance came to him was by seeing the silk he
 
 22 — 2
 
-
-340 THE SOUL OF A PEOPLE
 
 used to wear made into curtains, which are given to
 the monks and used as partitions in their monasteries,
@@ -12304,8 +11355,7 @@ the curtain walling in part of the bamboo building
 his old dress. He pointed it out at once.
 
 This same little fellow told me that he passed
-three months between his death and his next incar-
-nation without a body. This was because he had
+three months between his death and his next incarnation without a body. This was because he had
 once accidentally killed a fowl. Had he killed it on
 purpose, he would have been punished very much
 more severely. Most of this three months he spent
@@ -12313,20 +11363,17 @@ dwelling in the hollow shell of a palm-fruit. The
 nuisance was, he explained, that this shell was close
 to the cattle-path, and that the lads as they drove the
 cattle afield in the early morning would bang with a
-stick against the shell. This made things very un-
-comfortable for him inside.
+stick against the shell. This made things very uncomfortable for him inside.
 
 It is not an uncommon thing for a woman when
 about to be delivered of a baby to have a dream,
-and to see in that dream the spirit of someone ask-
-ing for permission to enter the unborn child ; for, to
+and to see in that dream the spirit of someone asking for permission to enter the unborn child ; for, to
 a certain extent, it lies within a woman's power to
 say who is to be the life of her child.
 
 There was a woman once who loved a young
 man, not of her village, very dearly. And he loved
-her, too, as dearly as she loved him, and he de-
-manded her in marriage from her parents ; but they
+her, too, as dearly as she loved him, and he demanded her in marriage from her parents ; but they
 
 
 THE POTTER'S WHEEL 34i
@@ -12354,8 +11401,7 @@ and he was, moreover, very ill.
 
 He was so ill that very soon he died, without
 ever seeing again the girl he was so fond of ; and
-when she heard of his death she was greatly dis-
-tressed, so that the desire of life passed away from
+when she heard of his death she was greatly distressed, so that the desire of life passed away from
 her. It so happened that at this very time she found
 herself enceinte with her first child, and not long
 before the due time came for the child to be born
@@ -12366,8 +11412,6 @@ out into space and met there the soul of her lover
 who had died. She was rejoiced to meet him again,
 full of delight, so that the return of her soul to her
 
-
-342 THE SOUL OF A PEOPLE
 
 body, her awakening to a world in which he was not,
 filled her with despair. So she prayed her lover,
@@ -12429,14 +11473,12 @@ very cry of the agony of humanity.
 ' Love is strong as death ; many waters cannot
 quench love ;' ay, and love is stronger than death.
 Not any dogmas of any religion, not any philosophy,
-nothing in this world, nothing in the next, shall pre-
-vent him who loves from the certainty of rejoining
+nothing in this world, nothing in the next, shall prevent him who loves from the certainty of rejoining
 some time the soul he loves.
 
 Nothing can kill this hope. It comes up and up,
 twisting theories of life, scorning the wisdom of the
-wise and the folly of the foolish, sweeping every-
-thing aside, until it reaches its unquenchable desire,
+wise and the folly of the foolish, sweeping everything aside, until it reaches its unquenchable desire,
 reunion of lover with lover. It is unconquerable,
 eternal as God Himself. But no Buddhist would
 admit this for a moment.
@@ -12461,8 +11503,7 @@ were smaller creepers full of thorns, that tore the
 wayfarer and barred his progress. The forest, too,
 was full of snakes that crept along the ground, so
 like in their gray and yellow skins to the earth they
-travelled on that the traveller trod upon them un-
-awares and was bitten ; and some so beautiful with
+travelled on that the traveller trod upon them unawares and was bitten ; and some so beautiful with
 coral red and golden bars that men would pick them
 up as some dainty jewel till the snake turned upon
 them.
@@ -12494,8 +11535,7 @@ glades that lined it, the quicker did it turn.
 One road there was that went straight, but it was
 far from the others. It led among the rocks and
 cliffs that bounded one side of the valley. It was
-very rough, very far from all the glades in the low-
-lands. No flowers grew beside it, there was no
+very rough, very far from all the glades in the lowlands. No flowers grew beside it, there was no
 moss or grass upon it, only hard sharp rocks. It
 was very narrow, bordered with precipices.
 
@@ -12511,8 +11551,6 @@ and fro. The wood was full of them.
 They did not know whither they went ; they did
 not know whither they wished to go. Only this
 
-
-346 THE SOUL OF A PEOPLE
 
 they knew, that they could never keep still ; for the
 keeper of this wood was Time. He was armed with
@@ -12587,13 +11625,10 @@ be driven ever forward by the whip of Time — what
 of them ? Surely they will learn. The kindly
 
 
-348 THE SOUL OF A PEOPLE
-
 whip of Time is behind : he will never let them rest
 in such a deadly forest ; they must go ever forward ;
 and as they go they grow more and more weary,
-the glades are more and more distasteful, the heavy-
-scented blossoms more and more repulsive. They
+the glades are more and more distasteful, the heavyscented blossoms more and more repulsive. They
 will find out the thorns too. At first they forgot the
 thorns in the flowers. 'The blossoms are beautiful,'
 they said ; ' what care we for the thorns .-* Nay, the
@@ -12682,8 +11717,7 @@ thought, and not the innumerable divergencies,
 because only so can a great or strange thought be
 made clear. Later, when the thought is known,
 then it is easy to stray into the bywa.ys of thought,
-always remembering that they are byways, wander-
-ing from a great centre.
+always remembering that they are byways, wandering from a great centre.
 
 For the Burman's life and belief is one great whole.
 
@@ -12693,8 +11727,7 @@ CONCLUSION 351
 
 I thought before I began to write, and I have
 become more and more certain of it as I have taken
-up subject after subject, that to all the great differ-
-ences of thought between them and us there is one
+up subject after subject, that to all the great differences of thought between them and us there is one
 key. And this key is that they believe the world is
 governed by eternal laws, that have never changed,
 that will never change, that are founded on absolute
@@ -12729,11 +11762,8 @@ An irresponsible spirit playing with the world as
 his toy killed all science.
 
 
-352 THE SOUL OF A PEOPLE
-
 But now science has learned a new wisdom, to
-look only at what it can see, to leave vain imagin-
-ings to children and idealists, certain always that
+look only at what it can see, to leave vain imaginings to children and idealists, certain always that
 the truth is inconceivably more beautiful than any
 dream.
 
@@ -12766,490 +11796,3 @@ Let each man but open his eyes and see, and his
 own soul shall teach him marvellous things.
 
 THE END.
-
-BILLING AND SONS, PRINTERS, GUILDFORD.
-
-
-NEW AND CHEAPER EDITION IN ONE VOL.
-
-
-THIRTIETH EDITION.
-
-FORTY-ONE YEARS IN INDIA
-
-3from Subaltern to Commant>er*in=Cblef.
-
-BY
-
-FIELD-MARSHAL LORD ROBERTS, V.C.
-
-With numerous Portraits, Maps, and Plans.
-
-
-Extra Crown Zvo. \qs. Net.
-
-
-THE TIMES. — 'A vivid and simple narrative of things actually seen by a
-fighting-man who during forty- one years of Indian service saw more hard fighting
-than almost any other Englishman of our time.'
-
-THE A THENM UM.—'- The story of Lord Roberts's life should be studied by
-every young soldier. The peculiar charm of the book is the modest and generous
-spirit which, hke a golden thread, runs through it.'
-
-THE MORNING POST.— ' An authentic and authoritative contribution to
-the history of India, happily combining the fascination of romance with the enduring
-interest of truth.'
-
-THE PALL MALL GAZETTE.—' To those who love records of daring and
-adventure, or who have not yet learnt what the British soldier is, this thrilling story
-may be commended as second to none.'
-
-THE WORLD. — 'A book at once intensely interesting and exciting, and at
-the same time supplying a vast quantity of first-hand knowledge invaluable alike
-to the statesman and to the political student.'
-
-THE SPECTA TOR. — ' Lord Roberls'snarrative traverses all the critical periods
-of Indian war and politics during the last forty years. He writes of them as an
-eye-witness, as an expert, and latterly as the chief actor in the closing scenes pf
-an eventful drama. His story produces the vivid impression which comes out of
-accurate knowledge and strange personal experiences.'
-
-THE GUARDIAN. — ' It is not everyone who can be trusted to write his own
-life ; but some great men have successfully accomplished the feat, and to their
-number must be added Lord Roberts. Nothing could well improve upon these
-volumes. The story is told with the modesty which is a part of the author's
-nature. It is of the highest interest from the first page to the last, and the style is
-admirably clear.'
-
-
-MACMILLAN AND CO., Ltd., LONDON.
-
-
-FIFTH EOmON, REVISED THROUGHOUT AND SLIGHTLY ENUR6ED.
-
-
-A HISTORY OF
-
-THE INDIAN MUTINY
-
-AND OF THE DISTURBANCES WHICH
-
-ACCOMPANIED IT AMONG THE
-
-CIVIL POPULATION.
-
-By T. RICE HOLMES.
-
-With Four Maps and Six Plans.
-
-
-Extra Crown Svo. 12s. 6d.
-
-
-■ T. p. ' in the WEEKL Y S UN, says : — ' It is but a poor and an insufficient compli-
-ment to say that the book is more interesting than any work of fiction. For myself, I
-have read it as breathlessly as though it were an exciting novel ; with that added sense
-
-that I was reading of reality and not of fiction Impartiality, profound
-
-knowledge, a charming style, unassailable accuracy — these are qualities that are not
-often found in combination ; they are found in this noteworthy volume.'
-
-THE ATHEN^UM. — ' He has thrown new light on many debated subjects
-.... and he has shown with much exactitude the precise relation of each part of
-the drama to the whole. .... The account of the military operations is clear, and
-
-the description of the principal episodes graphic We cannot refrain from
-
-again expressing our admiration of the judicial temperament of the author
-
-His work is in every sense of the word a history, and deserves to be read.'
-
-HARPER'S MAGAZINE.—'- A narrative of thrilling interest.'
-
-THE ST. JAMES'S GAZETTE.— '■'Veils is a history in the true sense of the
-
-word His work abounds in lessons that can never lose their value
-
-Mr. Holmes's narrative is as interesting as it is instructive, and we might quote
-
-passage after passage as specimens of his quietly effective style Mr. Holmes
-
-is splendidly impartial,'
-
-THE r.^^i.fir.—' Taking it all in all, this is the best history of the Mutiny
-which has appeared.'
-
-THE SPECTA TOR.—' The style throughout is good.'
-
-THE BRITISH QUARTERLY REVIEW.— 'Mr. Holmes has approved
-himself a writer of rare qualities He has produced a series of most admir-
-able portraits of the leading heroes.'
-
-THE ARMY AND NA VY GAZETTE.—' A work of exceptional merit in
-
-every respect The pages in which the author describes the desperate efforts
-
-of Tayler to preserve law and order read like those of some startling romance.'
-
-THE ARMY AND NA VY MAGAZINE.— ' In every page there is abundant
-
-proof that Mr. Holmes has gone to original sources for his information One
-
-great merit of the book is its completeness .... full of fire .... all is clear,
-vivid, and life-like. ... It is difficult to overpraise the manner in which the story
-of these interesting events is told.'
-
-
-MACMILLAN AND CO., LTD., LONDON.
-
-
-THE
-
-CAMPAIGN IN TIRAH,
-
-1897-1898.
-
-Hn Hccouttt Of tbe lEjpe&ition against tbc
-
-©raftsais anb Hfr(&is unber (Beneral Sir
-
-Milliam Xocftbart (5.C.B., IR.C.S.J.
-
-BASED (BY PERMISSION) ON LETTERS CONTRIBUTED TO THE 'TIMES.'
-
-
-Colonel H. D. HUTCHINSON,
-
-Director of Military Education in India.
-
-With Maps, Plans, Portraits, and Illustrations.
-
-
-8w. 85. 6d. net.
-
-
-THE MORNING /"O^T:— 'Scientific, lucid, and up-to-date descriptions,
-which, with the aid of an excellent sectional map, a number of carefully pre-
-pared plans, and many pictorial illustrations, enable the reader to realize the
-difficulties our soldiers had to encounter and overcome in those few eventful
-months.'
-
-TBE DAILY CHRONICLE.— ''We are not sure that his very carefully
-compiled and very well written work will not ultimately rank as the best account
-of this our finest instance of mountain warfare. . . . Must be a real pleasure to
-all students of military history.'
-
-THE DAILY NEWS.— 'It is a readable and reliable history of the
-campaign from a military point of view. . . . Colonel Hutchinson concludes
-the volume with valuable tactical lessons which the events of the operations
-brought into prominence with reference to fighting on the North-West Frontier.
-. . . Furnished with many useful plans and an excellent map of the Tirah
-country.'
-
-THE DAIL Y MAIL. — ' A spirited and thoroughly soldierly account. . . .
-The daring actions at Dargai and the glorious charge of the Gordon High-
-landers have never been more vividly described than they are described in this
-authoritative record.'
-
-THE DAILY GRAPHIC— 'WVCa. the aid of some excellent maps and
-numerous illustrations he traces the general scheme of operations in a way
-which few readers can fail to follow. All the principal incidents are described
-with the same lucidity and often with picturesque vigour as well.'
-
-
-MACMILLAN AND CO., Ltd., LONDON.
-
-
-MACMILLUN & CO.'S BOOKS RELATING TO INDIA.
-
-
-REMINISCENCES OF THE GREAT MUTINY, 1857-1859.
-
-Including the Relief, Siege, and Capture of Luclcnow, and the Campaigns in
-Rohilcund and Oude. By William Forbes-Mitchell, late Sergeant
-93rd Sutherland Highlanders. Crown 8vo. 3s. 6d.
-THE SPECTA TOR.—' One of the very best soldiers' books ever written. There is not
-
-a dull page in it, and exciting yarns of all descriptions follow each other without intermission.
-
-. . , No one who wants to be amused and to be made to feel proud of our army should fail
-
-to read it.'
-
-THE RELIEF OF CHITRAL. By Captain G. J. Younghusband,
-Queen's Own Corps of Guides, author of ' Eighteen Hundred Miles on a
-Burmese Tat,' 'Frays and Forays,' 'The Queen's Commission,' etc., and
-Captain Frank E. Younghusband, C.I.E., Indian Staff Corps (late Political
-Officer in Chitral). With Map and Illustrations. 8vo. 8s. 6d. net.
-THE BROAD ARROW.— 'VTiW probably be accepted as the standard work on the
-
-brilliant little campaign which has illustrated the history of the British Army in 1895.'
-
-CAWNPORE. By the Right Hon. Sir G. O. Trevblyan, Bart., author
-
-of 'The Competition Wallah." Third Edition. Crown 8vo. 6s.
-THE LITERARY WORLD.— "S:heKis3.tasa.m.l\oa about it which few will be able
-to resist if once the book cdmes within their reach.'
-
-BEAST AND MAN IN INDIA. A popular sketch of Indian Animals
-in their Relations with the People. By John Lockwood Kipling, CLE.
-With Illustrations by the Author. Extra Crown 8vo. 7s. 6d.
-
-LORD ELLENBOROXJGH'S ADMINISTRATION IN INDIA.
-
-Containing his Letters to Her Majesty the Queen, and Letters to and from
-the Duke of Wellington. Demy 8vo. i8s.
-
-SELECTIONS FROM OFFICIAL WRITINGS OF THE RIGHT
-HON. MOUNTSTUAET ELPHINSTONE. Edited, with a Memoir, by Pro-
-fessor G. W. Forrest. Demy 8vo. 21s.
-
-THE PROTECTED PRINCES OF INDIA. By Sir William Lee-
-Warner, K.C.S.I. 8vo. los. 6d.
-THE TIMES. — ' To students of Anglo-Indian constitutional history his work is of great
-value.'
-
-THE SOXXL OF A PEOPLE : An Account of the Life and Belief
-M tlie Burmese. By H. Fielding. Demy 8vo. 14s.
-
-THE ATHENjEUM. — 'This is in several ways a noteworthy book. It is all too un-
-common_ to find_ a European official displaying appreciative, even admirable, sympathy with
-the religious belief and life of an Oriental people whom he has to govern.'
-
-MY THREE YEARS IN MANIPTJR. By Ethel St. Clair
-Grimwood (Mrs. Miller). Fourth Edition. Demy 8vo. With a Plan, two
-Portraits, and other Illustrations. 155.
-
-TRAVELS IN INDIA. By Jean Baptists Tavernier, Baron of
-Aubonne. Translated from the original French Edition of 1676, with a Bio-
-graphical Sketch of the Author, Notes, Appendices, etc., by V. Ball, LL.D.,
-F.R.S., F.G.S., Director of the Science and Art Museum, Dublin ; Author of
-' Jungle Life in India,' ' The Economic Geology of India,' etc. With Illustra-
-tions and Maps, In 2 vols. Med. 8vo. 42s.
-THE SPEAKER.— ' It is with a feeling of reluctance that we rise from the study of this
-
-most fascinating book. Dr. Ball deserves high praise as a translator and editor. But it is
-
-rather for the picture, at once comprehensive and exact, of an India which has passed away
-
-that we chiefly owe him gratitude.
-
-
-MACMILLAN AND CO., Ltd., LONDON.
-
-
-MACMILLAN & CO.'S BOORS RELATING TO INDIA.
-
-FOLK TALES OF BENGAL. By the Rev. LAl Behari Day.
-Crown 8vo. 4s. 6d.
-
-BENGAL PEASANT LIFE. By the Rev. LAl Behari Day, Chinsurah,
-Bengal. Crown 8vo. 6s.
-
-A SHORT MANUAL OF THE HISTORY OF INDIA. With an
-account of India as it is ; the soil, climate, and productions ; the people, their
-races, religions, public works, and industries ; the civil services, and system of
-administration. By Sir RoPKR Lethbridge, K.C.I.E. With Maps.
-Crown 8vo. ss.
-
-A SHORT HISTORY OF INDIA, and of the Frontier States of
-Afghanistan, Nipal, and Burma. By J. Talboys Wheeler, late Assistant-
-Secretary to the Government of India, Foreign Department, and late Secretary
-to the Government of British Burma. With Maps and Tables. Crown Svo. 12s.
-
-COLLEGE HISTORY OF INDIA, ASIATIC AND EUROPEAN.
-By J. Talboys Wheeler. With Maps. Crown Svo. as, 6d. ; sewed, 2S.
-
-INDIA UNDER BRITISH RULE, FROM THE FOUNDATION
-OF THE EAST INDIA COMPANY. By J. Talboys Wheeler. Svo. 12s. 6d.
-
-INDIAN HISTORY, ASIATIC AND EUROPEAN. By J. Talboys
-Wheeler. Post Svo. is. {^History Primers.
-
-ENGLISH MEN OF ACTION.
-With Portrait. Crown Svo. 2S. 6d. each.
-
-
-CLIVE. By Colonel Sir Charles Wil-
-son,
-
-COLIN CAMPBELL (Lord Clyde). By
-
-Archibald Forbes.
-EAVELOCE (Sir Henry). By Archibald
-
-Forbes.
-WELLINGTON. By George Hooper.
-
-
-WARREN HASTINGS. By Sir Alfred
-
-Lyall, K.CB. With a Portrait and
-
-Map.
-NAPIER (Sir Charles). By Colonel Sir
-
-William Butler.
-LAWRENCE (Lord). By Sir Richard
-
-Temple.
-
-
-By RUDYARD KIPLING.
-
-
-PLAIN TALES FROm THE HILLS.
-
-Third Edition. Crown Svo. 6s.
-
-THE LIGHT THAT FAILED. Re-written
-and considerably enlarged. Crown Svo
-6s. '
-
-LIFE'S HANDICAP. Being Stories of Mine
-Own People. Crown Svo. 6s.
-
-MANY INVENTIONS. Crown Svo. 6s.
-
-SOLDIERS THREE : THE STORY OF
-THE GADSBYS ; IN BLACK AND
-WHITE. Crown Svo. 6s.
-
-
-WEE WILLIE WINKIE; UNDER THE
-DEODARS; THE PHANTOM 'RICK-
-SHAW; and Other Stories. Crown
-Svo. 6s.
-
-THE JUNGLE BOOK. With Illustrations
-by J. L. Kipling, C.I.E.jW.H. Drake,
-and P. Frenzeny. Crown Svo. 6s.
-
-THE SECOND JUNGLE BOOK. With
-Illustrations by J. Lockwood Kipling,
-CLE. Crown Svo. 6s.
-
-SOLDIER TALES. With Illustrations by
-A. S. Hartrick. Crown Svo. 6s.
-
-
-THE DAY'S WORK. Crown Svo. 6s.
-By flora ANNIE STEEL.
-
-Author of ' On the Face of the Waters.'
-
-TALES OF THE PUNJAB, TOLD BY THE PEOPLE. Illustrated
-by J. Lockwood Kipling C.I.E. Crown Svo. 6s. Also with uncut edges,
-paper label. 6s. [Cranford Series.
-
-THE FLOWER OF FORGIVENESS. Also contains : Harvest— For
-the Faith — The Bhut Baby — Rimchunderji — Heera Nund — Feroza — In the
-House of a Coppersmith — FaizuUah — The Footstep of Death — Habitual
-Criminals — Mussumlt Kirpo's Doll — ' London ' — LSi — A Debt of Honour —
-The Village Legacy. Crown Svo. 3s. 6d.
-
-MISS STUART'S LEGACY. 3s. 6d.
-
-
-MACMILLAN AND CO., Ltd., LONDON.
-
-
-EGYPTIAN SOUDAN:
-
-5ts 3L0SS anb IRecover)?.
-
-Including a Sketch of the History of the Soudan ; a Personal
-Narrative of the Dongola Expedition, 1896 ; a full account of
-the Nile Expeditions, 1897-98. By Henry S. L. Alford, Lieut.
-Royal Scots Fusiliers, and W. Dennistoun Sword, Lieut. North
-Staiford Regiment.
-
-With numerous Illustrations, Portraits, and Maps. 8ro. 10s. net.
-
-
-CONTENTS.
-
-PREFACE.
-
-PART I.
-THE SOUDAN PRIOR TO ITS RECAPTURE.
-
-
-Early History.
-The Madhi.
-
-
-The Khalifa.
-England and Egypt.
-
-
-PART 11.
-THE DONGOLA EXPEDITION, 1896.
-
-
-The Start, Cairo to Wady Halfa.
-
-Preliminary Skirmishes.
-
-Around Suakin.
-
-Wady Halfa.
-
-The Battle of Ferket.
-
-The Cholera.
-
-
-The Cataracts.
-The Advance to Sadek.
-The Battle of Hafir.
-The Capture of Dongola.
-The Close of the Dongola
-Campaign.
-
-
-PART III.
-THE OPERATIONS OF 1897.
-
-
-The Capture of Abu Hamed.
-
-The Reconnaissance of Metemmeh.
-
-The Acquisition of Kassala.
-
-
-PART IV.
-THE NILE EXPEDITION, i£
-
-
-British Regiments to the Front.
-The Advance to Mutrus.
-
-
-The Battle of the Atbara.
-After the Battle.
-
-
-APPENDICES.
-
-I. — Organization of the Dongola Expeditionary Force, 1896, and
-the Nile Expeditionary Force, 1898.*
-
-II. — Roll of British Officers, Warrant Officers, Non-Commissioned
-Officers, and Men who Lost their Lives in the Campaign
-ON THE Nile (1896-8).
-
-♦ With the names of the Officers serving, the Honours subsequently conferred
-on them, etc.
-
-
-MACMILLAN AND CO., Ltd., LONDON.
-
-
-•W^JW V.W'*n*X''
-
-
-1 U ! ' Vi V V y rf W tf UM WUW^/J i i^iJ yi ^ \> \i

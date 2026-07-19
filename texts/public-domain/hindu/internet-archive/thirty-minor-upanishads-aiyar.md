@@ -296,7 +296,7 @@ nishad  called  Maifrayani.  Of  the  rest,  95  in  number,  two  or  three
 Upanishada  have  appeared  in  English  up  to  now,  but  never  so
 many  as  are  here  presented  to  the  public,  so  far  as  I  am  aware.
 
-Many  years  ago,  the  late  Sun Jara  Sfas^ri,  a  good  Sanscrit
+Many  years  ago,  the  late  Sun<Jara  Sfas^ri,  a  good  Sanscrit
 Scholar  and  myself  worked  together  to  put  into  English  garb
 the  Upanishads  that  had  not  been  attempted  before,  and
 
@@ -356,7 +356,7 @@ represented  the  letter  ^r  by  S'  and  not  by  Sh,  since  I  con-
 sider the  latter  to  be  a  mistake.  Other  transliterations
 are : —
 
-•It  (  v   t  v.*'?  s  v  *  IT  a  v  3  *  &
+•It  (  v  <t  v.*'?  s  v  *  IT  a  v  3  *  &
 
 It  would  be  well  if  our
 a     I    u  R  N  frTThDDhN  TThDDhL
@@ -5202,7 +5202,7 @@ kshatriyas  and  others  well  versed  in  the  cognition  of  divine
 Truth,  therefore  jnana  is  not  the  brahmana.
 
 Then  is  karma  the  brahmana?  No.  Since  the  prarab-
- Jhaa,  safichita3,  and  agami*  karmas  are  the  same  for  all  beings,
+<Jhaa,  safichita3,  and  agami*  karmas  are  the  same  for  all  beings,
 and  since  all  people  perform  their  actions  as  impelled  by  karma,
 therefore  karma  is  not  the  brahmana.
 
@@ -5680,7 +5680,7 @@ of  urine  and  fa9ces,  and  undergoes  in  this  body  the  sufferings
 of  hell.  Therefore  knowing  all  this,  one  should  be  averse  to
 worldly  objects.  Thus  ends  the  moksha-s'astra  of  Pippalada —
 thus  ends  the  moksha-s'astra  of  Pippalada.  Thus  ends  the
-Upanisha J.
+Upanisha<J.
 
 
 Eight  palams  are  8/«  °f  a  N>.  (avdp.)
@@ -6390,7 +6390,7 @@ even  though  near.  He  should  never  observe  the  following  six —
 the  scenes  of  dancing,  etc.,  gambling,  lovely  women,  eatables,
 enjoyables,  and  women  in  their  monthly  course.
 
- c  The  ascetic  should  never  in  thought  even  think  of  others
+<c  The  ascetic  should  never  in  thought  even  think  of  others
 with  the  six  (viz.,)  love,  hate,  pride,  deceit,  treachery,  and  the
 illusion  (of  confounding  them).  To  the  ascetics,  the  following
 six  are  sinful :  cot,  white  cloth,  the  stories  of  women,  love  towards
@@ -6761,7 +6761,7 @@ him,  after  sipping  the  water  and  uttering  the  mantra  prescribed
 for  the  purpose.  Then  the  bowl  should  be  taken  up,  after  utter-
 ing the  mantra  with  the  Pranava  preceding  it  :  —  aff  sfJisffaq-
 
-^t^rPTR^T  *TRfa  *TT  *P5RFT   ER^r  tft  ^N  II  Then  after  first
+^t^rPTR^T  *TRfa  *TT  *P5RFT  <ER^r  tft  ^N  II  Then  after  first
 uttering  (the  mantra)  ^I-^I^H  ifrfti  3TT  I
 
 
@@ -11969,3 +11969,2390 @@ Thus  ends  the  Upanisha(J.
 
 1  It  is  the  consciousness  that   becomes  distorted  and  is  unable  to  cognise
 itself  through  the  bodies.
+
+
+INDEX  OF  PROPER  NAMES
+
+
+PAGE
+
+ABHIMANA  ...     157
+
+Achyuta  ...       37
+
+Adhibhautika  ...     265
+
+Adhibhuta  ...       64
+
+Adhidaivika  ...     265
+
+Adhyatma  ...       64
+
+Adhyatma-TJpanishad  ...       55
+
+Adityas  ...     128
+
+Adityaloka  ...     243
+
+Advaita  ...       27
+
+Agneya-sacrifice  . . .     143
+
+Agni       46,  61,  62,  75,  113,
+
+116,  121,  187,  197,  237
+
+Agnihotra  ...     138
+
+Agrahya  ...       22
+
+Agamin  ...     221
+
+Ahambrahmasmi  ...       49
+Ahankara                27,  44,  55, 116
+
+Ahavaniya  ...     121
+
+Ahimsa  ...     173
+
+Aindrl  ...     255
+
+Ajapa-Gayatri  ...     213
+
+Ajfiana  ...       20
+
+Ajfia  212, 270
+
+Akara  232,  254
+
+Akarma  ...       20
+
+Akas'      46,  61,  62,  75,  113,
+
+116,  197,  237
+
+Akshata  ...     248
+
+Alainbusa                  176,  206,  239
+
+Amanaska  245,  251
+
+Amaroll  ...     200
+
+Anirtaiiada-Upanishad  ...     216
+
+Amrtabindu-Upanishad  ...       34
+
+Amurti  . . .     245
+
+Ananda  ...       17
+
+Anandamaya  14,  47
+
+Anahata    '  212,  253
+
+a  ...       16
+
+85
+
+
+Anganyasas
+
+Anna
+
+Annamaya
+
+Antahkarana
+
+Antarlakshya
+
+Autarvedi
+
+Antaryamin
+
+Apana
+
+Apantaratama
+
+Apara
+
+
+PAGE
+
+...     214
+
+75,  260
+
+...       14
+
+44,46,  113
+
+...     244
+
+...     122
+
+...       15
+
+177,  206,  219
+
+60,69
+
+57
+
+
+Apas       46,  61,  62,  75,  113,
+
+116,  197,  236
+
+Apoha  ...     249
+
+Apsaraa  ...     134
+
+Apyayana  . . .     242
+
+Arambha  193, 242
+
+Arani  ...     203
+
+Aranyakas  ...          i
+
+Ardhamatra  203,  232,  254
+
+Arghya  ...     248
+
+Arjava  ...     173
+
+Aruudhati  ...     261
+
+Aruni  ...     132
+
+As'abdhabrahman  ...       38
+
+Asamsak^i  ...     232
+
+Asana  238,  243,  248
+
+Asamprajnata-Samadhi     ...       10
+Asat  ...17,61
+
+Asmat  ...       58
+
+Ashtakshara  124,  128
+
+Asipa^ravanas'reni  ...     141
+
+Asuras  ...       19
+
+Asteya  ...     173
+
+Asura  ...       22
+
+As'valayana  ...       31
+
+As'vattha  ...     177
+
+...       10
+...     187
+
+Atharvan  ...     172
+
+A^harvanaveda  ...  6,62
+
+
+274
+
+
+THIRTY  MINOE   UPANISHApS
+
+
+PAGE
+
+PAGE
+
+Ativahika                             ..     265
+
+Brahma  vit                          51,  233
+
+Atma                                   ..     208
+
+Brahmavidvara                          233
+
+Atmabodha-Upanishad       ..       37
+
+Brahmavidvarlya                       233
+
+Atmanishtha-Vidya            ..         4
+
+Brahmavidvarishtha                 233
+
+Atmajnana                           ..     256
+
+Brahmopanishad                        106
+
+Atma-Tattva                        ..     243
+
+Brhadratha                                    24
+
+A  tura  -S  anny  asa                  ..     137
+
+Brhaspati                           124,  125
+
+Avichchinna                         ..       47
+
+Buddhi                                ...       55
+
+Avadhuta                             .  .     153
+
+Avahana                                ..     248
+
+c
+
+Avarana-S'akti                     43,  130
+
+Avasthas                      47,  232,  249
+
+CHAKBA                 7,  117,  205,  238
+
+Avidya                                ...       13
+
+Chandra                               ...       19
+
+Avimukta                            ...     124
+
+Chandala                            ...       51
+
+Avyakta                       43,  47,  115
+
+Chandrayana                     ...     132
+
+Chhandas                             62,  128
+
+B
+
+Chidabhasa                          47,  272
+
+Chidananda                         ...       10
+
+BAHIRLAKSHYA                   ...    244
+
+Chinmatra                             10,  82
+
+Bahudaka                           132,  153
+
+Chit                                    ...     248
+
+Bandha                               ...13,21
+
+Chitta                                 7,  9,  55
+
+Bhadra                       174,  202,  217
+
+Colours,  Seven                  ...     117
+
+Bharata                               ...1,125
+
+Bharadvaja                        124,  132
+
+D
+
+Bhastri                                ...     261
+
+Bhasvati                            ...       73
+
+PAHABA                       63,  75,  272
+
+Bhiksha                              ...       27
+
+Dakshinagni                      ...     121
+
+Bhikshuka-Upanishad       ...     132
+
+Danti                                  ...     159
+
+Bhinnas                                ...     268
+
+Dars'anagni                         ...     121
+
+Bhuh                           74,  187,  254
+
+Dattatreya                132,  145,  190
+
+Bhutas'raddha                     ...     149
+
+Daya                                   ...     173
+
+Bhutadi                                ...       61
+
+Devas                                  ...       19
+
+Bhumika                             ...     232
+
+Devadatta                         177,  206
+
+Bhuvah                       74,  187,  254
+
+Devarshi                             ...     148
+
+Bija                                    ...     232
+
+Devas'raddha                      ...     148
+
+Bindu                         200,  202,  208
+
+Dhananjaya                       177,  206
+
+Bodha                                ...       57
+
+Dharana     173,  188,  216,  238,  243
+
+Boar-shaped                       ...     220
+
+Dharma                               ...     110
+
+Brahmi                               ...     255
+
+Dharma-megha                     50,  58
+
+Brahmanda                          44,  270
+
+Dharma-S'astras                ...       62
+
+Brahma  '                    19,  60,  62,  69
+
+Dhatus                               116,  121
+
+Brahmanya                         ...     129
+
+Dhrti                                  173,  255
+
+Brahmanas                       i,  62,  110
+
+Dhruva                              188,  255
+
+Brahman                                16,  18
+
+Dhupa                                 ...     248
+
+Brahmacharya                   135,  175
+
+Dhyana     26,  173,  189,  216,
+
+Brahmacharin                    ...     212
+
+238,  243,  248
+
+Brahmajnana                     ...     106
+
+Dhayanabindu-Upanishad        202
+
+Brahma-nada                      ...         2
+
+Dik                                    '  46,  221
+
+Brahmarandhra                  ...     238
+
+Diksha                               ...     121
+
+Brabmavidya              31,  212,  222
+
+Dipa                                  ...     248
+
+INDEX
+
+275
+
+PAGE
+
+PAGE
+
+Diseases
+
+...       264
+
+Hrdaya      117,  160,  201,
+
+204,  208
+
+Divyas'raddha
+
+...     149
+
+Hiim
+
+...     204
+
+Drk
+
+...     248
+
+Hrshikes'a
+
+...     192
+
+Duhkha
+
+...       20
+
+Dundubhi
+
+...     259
+
+I
+
+Durvasas
+
+...     145
+
+Dvadas'anta
+
+...     184
+
+ICHCHHA
+
+...       75
+
+Dvaparayuga
+
+...     130
+
+Ida                    122,  176,
+
+206,  239
+
+Pvai^a
+
+...       27
+
+Ikshana
+
+...     226
+
+E
+
+Ikshvaku
+
+...      24
+
+Indra                             19,
+
+187,  221
+
+EKADAND!
+
+...     156
+
+Ishana
+
+...       28
+
+Ekan^a
+
+...       27
+
+Ishtadevata
+
+...     179
+
+Is'vara
+
+...       19
+
+G
+
+Is'vara-chaitanya
+
+...       43
+
+Itihasas
+
+...       54
+
+GANDHARI
+
+174,  206
+
+Gan^harvas
+
+62,  64
+
+J
+
+Ganes'a
+
+...     179
+
+Garbha-Upanishad
+
+...     116
+
+JADABHARATA
+
+132,  145
+
+Garhapatya
+
+...     121
+
+Jagrata      '    13,  47,  113,
+
+232,  234
+
+Gautama
+
+132,  212
+
+Jalajyotis
+
+...     246
+
+Gayatri
+
+180,  190,  217
+
+Jalandhara                 194,
+
+207,  263
+
+Ghata
+
+193,  242
+
+Jalo4ara
+
+...     261
+
+Ghora-Angiras
+
+60,  69
+
+Jambavan
+
+...     125
+
+Ghoshiui
+
+...     255
+
+Janoloka
+
+187,  254
+
+Gomukha
+
+...     174
+
+Jati
+
+20
+
+Goraksha
+
+...     135
+
+Japa
+
+...      53
+
+Gotra
+
+...       12
+
+Jayan^a
+
+...       64
+
+Grahya
+
+...       22
+
+Jiva                                14,  19,  47
+
+Gran^hi
+
+56,  241,  266
+
+Jivanmukta             6,  88,
+
+232,  234
+
+Grhastha
+
+...     135
+
+Jivi^a
+
+122,  237
+
+Gudhasupti
+
+...     234
+
+Jnana                    16,  20,
+
+184,  193
+
+Gulma
+
+182,  261
+
+Jnanendriyas
+
+45,  113
+
+Guru
+
+93,  267
+
+Jvalan^i
+
+...     239
+
+Jvalakila
+
+...       75
+
+H
+
+Jyo^isha
+
+...      62
+
+HA
+
+198,  210
+
+K
+
+Hamsa   132,  147,  153,  161,
+
+206,  213,  254
+
+KAILAS
+
+...      25
+
+Harasa-Upanishad
+
+...    212
+
+Kaivalya-Upanishad
+
+...      31
+
+Hanuman
+
+1,125
+
+Kaivalya
+
+...     139
+
+Haradhvaja
+
+...     137
+
+Kala
+
+...     125
+
+Hari^aka
+
+...     132
+
+Kalatita
+
+125,  130
+
+Hastjihva
+
+176,  206,  239
+
+Kalahamsa
+
+...     202
+
+Hathayoga
+
+196,  238
+
+Kalavanchana
+
+...    239
+
+Havirats
+
+...       62
+
+Kalisantarapa-UpaniBhad...     130
+
+Hiranyagarbha
+
+...      44
+
+Kalasutra
+
+...     141
+
+Hi^a
+
+...       64
+
+Kalpa
+
+...      62
+
+276
+
+
+THIETY   MINOE   UPANISHApS
+
+
+PAGE
+
+PAGE
+
+Kanda
+
+...     238
+
+Lokas
+
+...       74
+
+Kantbata
+
+...     214
+
+Lokaloka
+
+...       77
+
+Kanthamudra
+
+...     241
+
+Karanyasa
+
+...     213
+
+M
+
+Karma
+
+20
+
+Karmendriyas
+
+44,  213
+
+MADHUSUDANA
+
+37
+
+Karkata
+
+...     107
+
+Madhyama
+
+...     122
+
+Karta
+
+..       14
+
+Madhyamalakshya
+
+...     245
+
+Kas'i
+
+...       42
+
+Mahabandha
+
+...     194
+
+Kaustubha
+
+...     204
+
+Mahadeva
+
+25,41
+
+Kaya-rupa
+
+...     188
+
+Mahamudra
+
+...     194
+
+Kaya-vyuba
+
+...     188
+
+Maharloka
+
+...     254
+
+Kevala
+
+56,  182,  261
+
+Maharaurava
+
+...     156
+
+Khaga
+
+...     107
+
+Mahat
+
+...       44
+
+Khanda-paras'u
+
+...       61
+
+Mahatala
+
+...     187
+
+Khecharimudra  183,
+
+194,  207,  266
+
+Maha-samvartaka
+
+...       75
+
+Kilaka
+
+...     213
+
+Mahavakyas
+
+...       49
+
+Kimpurusha
+
+...     134
+
+Maha-vichi-vagura
+
+...     141
+
+Kinnaras
+
+...     134
+
+Maitrdyani
+
+i
+
+Koka
+
+75
+
+Maitreya-Upanishad
+
+...       24
+
+Kos'a
+
+14,46
+
+Maitri
+
+...       10
+
+Kosbthagni
+
+...     121
+
+Makara
+
+...     232
+
+Krama-muk^a
+
+...     236
+
+Malas
+
+...     116
+
+Kravyadi
+
+...       75
+
+Manana
+
+...       49
+
+Kfcbcbbra
+
+...     148
+
+Manas
+
+34,  54
+
+Krkara
+
+177,  206
+
+Maudalabrahmana-Upanishad  243
+
+Krsb  na-  Yaj  urveda
+
+5
+
+Manipuraka               205,
+
+213,  270
+
+Ksbama
+
+173
+
+Manomaya
+
+...14,47
+
+Kshetrajfia
+
+15,  221
+
+Man^rayoga
+
+193,  238
+
+Ksbatriya
+
+62,  110
+
+Manushya-Rshi
+
+...     148
+
+Kudupa
+
+...     122
+
+Manushyas'raddha
+
+...     149
+
+Kuhuh
+
+176,  206,  239
+
+Manushyas
+
+...       19
+
+Kumbhaka
+
+10,  182,  241
+
+Mardala
+
+...     257
+
+Kuiidalini             vi,
+
+174,  185,  238
+
+Matr'as         179,  194,  216,
+
+218,  254
+
+Kurma
+
+177,  188
+
+Mathana
+
+...     261
+
+Kurmira
+
+...       72
+
+Maya
+
+...      17
+
+Kurukshetra
+
+...     124
+
+Mayura
+
+...     174
+
+Kus'a
+
+...     217
+
+Melana
+
+267,  270
+
+Kutas^ha
+
+...       15
+
+Mimamsa
+
+...      62
+
+Kuta
+
+...     268
+
+Mitabara
+
+...     173
+
+Kutlchaka
+
+132,  147,  153
+
+Mithya
+
+...      17
+
+Moksha
+
+...13,21
+
+L
+
+Mauna
+
+...  8,79
+
+Mudba
+
+...       27
+
+LA
+
+197,  210
+
+Muburta
+
+...       40
+
+Lakshml
+
+...     222
+
+Mukta
+
+...     174
+
+Lakshmana
+
+...     125
+
+M  ukt  ikopanishad
+
+1
+
+Layayoga
+
+193,  228,  238
+
+Mukhya
+
+...       71
+
+Linga
+
+...     216
+
+Mulakauda
+
+...     260
+
+LingI
+
+...     137
+
+Muladhara                  205,
+
+213,  270
+
+INDEX
+
+277
+
+PAGE
+
+PAGE
+
+Mulabandha                 79,  194,  263
+
+Panchavarga
+
+...       15
+
+Murchchha                           47,  228
+
+Para
+
+..      122
+
+Murti                                   ...     245
+
+Parakas'
+
+..      252
+
+Mftyu                                  ...     221
+
+Paramapada
+
+22
+
+Paramatma
+
+16
+
+N
+
+Paravak
+
+..      215
+
+Paramjyotis
+
+..      242
+
+Nip  A                         200,  202,  214
+
+Paramahamsa   132,
+
+147,  153,  212
+
+Nadabindu-Upanishad       .  .  .     254
+
+Parameshthi
+
+...       31
+
+Nadarupiiji                          ...     239
+
+Parames'vara
+
+...       31
+
+Nadis                       14,  68,  80,  176
+
+Pararandhra
+
+...     239
+
+Naga                                  177,  206
+
+Parthiva-Pranava
+
+...     218
+
+Naimis'a                                ...     134
+
+Parvati
+
+...     212
+
+Naivedya                             ...     248
+
+Parichaya
+
+193,  242
+
+Namadheya                         ...     255
+
+Parivrat
+
+...     172
+
+Namaskara                         .  .  .     248
+
+Parivrajaka
+
+...     134
+
+Narada                                130,  134
+
+Pas'yanti
+
+...     122
+
+Naradaparivrajaka-Upani-
+
+Patangini
+
+...     255
+
+shad                                 ...     134
+
+Patala
+
+...     187
+
+Naraka                                 21,  249
+
+Pathya
+
+...     268
+
+Narasimha                          ...       42
+
+Payasvini
+
+176,  239
+
+Narayana                       37,  67,  127
+
+Piiutkara
+
+...     244
+
+Narayana-Upanishad         ...     127
+
+Pindas
+
+...     149
+
+Nasinam                             ...       72
+
+Pindanda
+
+...     271
+
+Nidagha                      93,  145,  232
+
+PiAgala              122,
+
+176,  206,  239
+
+Nididhyasana                     ...       49
+
+Pippalada
+
+106,  123
+
+Nilakantha                         ...     246
+
+Pis'achas
+
+...       19
+
+Niralamba-Upanishad       ...       18
+
+Plu^amatras
+
+...     196
+
+Niruk$a                               ...       62
+
+Pitrs'raddha
+
+...     149
+
+Nirvikalpa  Samadhi          ...       56
+
+Pliha
+
+182,  261
+
+Nishadas                             ...       62
+
+Pradakshi^a
+
+...     248
+
+Nishkala                            ...     190
+
+Pradhana
+
+115,  171
+
+Nishpatti                          193,  242
+
+Prajapatis
+
+...       62
+
+Nivjtti                               ...       57
+
+Prajapatya
+
+...     138
+
+Niyama                        79,  174,  243
+
+Prakrti
+
+...       19
+
+Nyaya                                   ...       62
+
+Prajfia
+
+37,  168
+
+Prajna
+
+47,  169,  232
+
+0
+
+Prajnana
+
+...      37
+
+Pra^a          10,  177,
+
+206,  218,  219
+
+OM          124,   125,  128,  167,
+
+Praijamaya  14,  47,
+
+86,  173,
+
+180,  202,  254
+
+216,  238,  243
+
+Om-narao-Narayauaya    124,    128
+
+Prarabdha
+
+2,4,51,221
+
+Prastha
+
+...     123
+
+P
+
+Pratibhasika
+
+...      47
+
+Pratyahara  79,  173,
+
+188,  216,
+
+PADA                                 ...     216
+
+238,  243
+
+Pa(Jarthabhavana              ...     232
+
+Prthivi  45,  61,  62,
+
+75,  113,
+
+Padma                174,  205,  217,  260
+
+116,  197,  237
+
+Palain                                 ...     123
+
+Praves'a
+
+...     226
+
+Paihgala-UpaniBhad          ...       43
+
+Puja
+
+...     248
+
+278
+
+
+THIRTY   MINOR   UPANISHApS
+
+
+PAGE
+
+PAGE
+
+Punarbha.va
+
+75
+
+Sakala
+
+190
+
+Pundarikaksha
+
+...       37
+
+S'akti-chalana
+
+...     260
+
+Pur  an  as
+
+...       54
+
+Sakshi
+
+15,  232
+
+Puraka
+
+...     217
+
+Salokya
+
+2
+
+Purltati
+
+...     122
+
+SamadhilO,173,189,216
+
+,238,246
+
+Purva
+
+...     245
+
+Samaveda
+
+...  5,62
+
+Purushasukta
+
+...     136
+
+Samana                      177,
+
+206,  219
+
+Pusha                         176,
+
+206,  239
+
+S'ambhavimudra
+
+...     245
+
+Pushkara
+
+...     107
+
+Samipya
+
+3
+
+Samhita
+
+i
+
+R
+
+Samprajnata
+
+...       10
+
+Samprasada
+
+64
+
+RA
+
+198,  210
+
+Samputayoga
+
+240
+
+Raivataka
+
+...     145
+
+Samrat
+
+62
+
+Raikva                           60,  61,  69
+
+Samsara
+
+.'.!      24
+
+Rajas
+
+...     112
+
+Samskaras
+
+...     135
+
+Rajas-S'akfci
+
+...     265
+
+Samvar^aka
+
+132,  148
+
+Rajarshi
+
+...     148
+
+Sanaka
+
+...  1,82
+
+Rajayoga
+
+...     193
+
+Sanatkumara
+
+...     212
+
+Rakshasas
+
+62,  64
+
+Sanatsujata
+
+145
+
+Rama
+
+...       60
+
+Sanchita
+
+221
+
+Rama
+
+...       75
+
+Sandhya
+
+27
+
+Rambha
+
+...       64
+
+Sandhyavandana
+
+109
+
+Rasa^ala
+
+...     187
+
+S'an  dily  a-  Upanishad
+
+173
+
+Ratha-Mandala
+
+...     217
+
+Sankalpa
+
+...     225
+
+Rechaka
+
+...     217
+
+Sankalpa-Vikalpa
+
+...     113
+
+Re{as
+
+...     121
+
+S^ankhini                   176,
+
+206,  239
+
+Ruchira
+
+...     217
+
+S'ankari
+
+...     255
+
+Rudra                          62,
+
+124,  127
+
+Sannyasa                     13,
+
+151,  152
+
+Rudra-Man^ras
+
+...       54
+
+Sannyasin
+
+22,  151
+
+Rbhu                           93,
+
+145,  220
+
+S'anlji
+
+...     159
+
+Rgveda
+
+5,62
+
+Santosha
+
+...     138
+
+Rshabha
+
+...     145
+
+Sarasvati
+
+176,  180
+
+Rshis'raddha
+
+...     148
+
+Sarasvati-chalana
+
+261
+
+Rtu
+
+...     117
+
+S'arlraka-Upanishad
+
+...     113
+
+Sarupya
+
+3
+
+8
+
+Sat
+
+,..17,61
+
+Sat-asat
+
+...       61
+
+SA
+
+198
+
+Sattra
+
+...     134
+
+S'abdabrahman
+
+...      35
+
+Satya                   16,  138,
+
+173,  187
+
+Sachchidanand  a
+
+85,  244
+
+Satyaloka
+
+...     252
+
+Sadas'iva
+
+...       42
+
+Satyavasu
+
+...     148
+
+Sadhana-chatushtaya
+
+135,  235
+
+Sa^tva
+
+...     114
+
+Sadyomuktas
+
+...     236
+
+Sat^vapat^i
+
+...     232
+
+Sahasrara            vi,  246,
+
+254,  266
+
+S'aucha
+
+26,  173
+
+Sahajoli
+
+...     194
+
+Savitrl
+
+...     180
+
+Sahita
+
+...     182
+
+Schopenhauer
+
+i
+
+Saindhava
+
+...     268
+
+S'esha
+
+...       86
+
+S'akayanya
+
+...       24
+
+Shanmukhi
+
+...     246
+
+Sakha
+
+134,  269     Sitfdhaeana                 174,  205,  257
+
+INDEX
+
+
+279
+
+
+PAGE
+
+PAGE
+
+S'ikha
+
+108,  132,  144
+
+Svadhishthana          202,  212,  270
+
+S'iksha
+
+62,  110
+
+Svarupa-dhyana                ...         1
+
+Simha
+
+174,  205
+
+Syena                                ...       72
+
+Sirobandha
+
+...     268
+
+S'iro-vastra
+
+...     268
+
+T
+
+S'ishya
+
+...       22
+
+S'is'na
+
+...     213
+
+TAIJASA                        47,  168,  232
+
+Slta
+
+...1,125
+
+Talatala                              ...     187
+
+S'itali
+
+...     261
+
+Tamas                                 —     112
+
+S'iva
+
+...     187
+
+Tana                                    ...     263
+
+Skanda
+
+...       64
+
+Tanumanasi                        ...     232
+
+Skanda-Upanishad
+
+...      41
+
+Tanmatras                          ...       44
+
+Snana
+
+26,  248
+
+Tapa                          181,  187,  254
+
+Snuhl
+
+...     268
+
+Tapas                                  ...       22
+
+So'ham
+
+...26,55
+
+Taraka                   2,  124,  244,  245
+
+Soma
+
+...     187
+
+tarka                                  ...     216
+
+S'onita
+
+...     117
+
+Tarasara-Upanishad         ...     124
+
+Saumitri
+
+1
+
+Tat                                     ...       49
+
+Sounds,  Seven
+
+117,  134
+
+Tatastha                             ...     159
+
+S'ribija
+
+...     239
+
+Tattvas                                 27,  220
+
+SVi-Rama
+
+1
+
+Tattvajnana                      '...     256
+
+S'ri  S'ankaracharya
+
+i
+
+Tattvamasi                         ...       49
+
+S'raddha
+
+52,  148
+
+Tejobindu-Upanishad       ...       78
+
+S'raddiha
+
+...      31
+
+Triangle                               78,  210
+
+SVavana
+
+...       49
+
+Trimurti                              ...     148
+
+Sthandila
+
+...     133
+
+Triputi                                        249
+
+Sthavara
+
+...       19
+
+Trshna                                ...     244
+
+Sthita-Prajfia
+
+...       58
+
+tarya                                     14,  70
+
+Sthula
+
+...     232
+
+furyaka                               ...     239
+
+S  ubala  -  Upanish  ad
+
+...       61
+
+turiyatlta                            ...     153
+
+S'ubhechchha
+
+...     232
+
+Turiyatlta-Avadhuta-Upa-
+
+S'udras
+
+62,  110
+
+nishad  55
+
+S'ukla-dhyana
+
+...     133
+
+Tvam                                  ...     '  49
+
+S'ukla
+
+...     117
+
+Tvambrahmasi                   ...       49
+
+S'ukla-Yajurveda
+
+5
+
+Tvamtadasi                         ...       49
+
+S'uka                 1,  82,
+
+132,  155,  235
+
+tyaga                                ...       97
+
+Sukha
+
+...       20
+
+Suksnma
+
+...     232
+
+U
+
+Surya
+
+19,  261
+
+Suryakas'
+
+262
+
+UDANA                              177,  219
+
+Sushuinna         122,  176,  206,  239
+
+TJddiyana          194,  207,  237,  263
+
+Sushup^i                14,
+
+47,  113,  232
+
+Uddiyate                             ...     263
+
+Su^ala
+
+...     187
+
+Ujjayi                                 ...     261
+
+Sutra
+
+...     108
+
+Ukara                                 ...     232
+
+Suvar
+
+187,  254
+
+Uma                                    ...       31
+
+Svapna
+
+13,  47,  113
+
+Unmani                              ...     214
+
+Svara
+
+...      34
+
+Upanayana                         ...     134
+
+SVeta
+
+...       72
+
+Uparati                               ...       87
+
+S'vetaketu
+
+132,  145
+
+Upasya                               ...       21
+
+Svastika
+
+174,217
+
+Upavasa                            142,  225
+
+280
+
+
+THIRTY    MINOR   UPANISHApS
+
+
+Upendra
+
+Uragas
+
+Uttara
+
+
+VA
+
+Vaideha
+
+Vaikhauasa
+
+Vaikhari
+
+Vairagya
+
+Vaishnavi
+
+Vais'vanara
+
+Vais'yas
+
+Vajra
+
+Vajrasuchi-TJpanishad
+
+Vajroli
+
+Vak
+
+Vamadeva
+
+Vanaprastha
+
+Varaha-Upanishaijl
+
+Varna-hatya-doslia
+
+Varuna
+
+Varuni
+
+Vasanas
+
+Vasishtha
+
+Vatasiddha
+
+Vaushat
+
+Vayu      46,  61,  62,
+
+Vayuvegini
+
+Vedauta
+
+Veda-Vyasa
+
+Vicharai;a
+
+Videhamukta
+
+Vidhimuklia
+
+Vidvan
+
+
+PAGE
+
+PAGE
+
+125,  221
+
+Vidya
+
+4,  13,  35
+
+...     134
+
+Vidyunmali
+
+...     255
+
+...     245
+
+Vijnanamaya
+
+...       14
+
+Vikshepa-S'akti
+
+...       44
+
+Vina
+
+...     257
+
+Vipra
+
+...     108
+
+198,  210
+
+Vlra
+
+...     174
+
+...     145
+
+Virat-chaitanya
+
+...      45
+
+...     137
+
+Viratpurusha
+
+...     136
+
+...     122
+
+Visarjana
+
+...     248
+
+2,  57,  58
+
+Vishnu
+
+...       19
+
+255,  257
+
+Vishnu-Purdna
+
+viii
+
+...     62
+
+Vis'uddhi
+
+...     213
+
+62,  111
+
+Vis'va                            47,
+
+168,  232
+
+...     260
+
+Vis'vambhara
+
+...       62
+
+tad      ...     110
+
+Vis'vodhari
+
+76,  239
+
+...     200
+
+Vitala
+
+...     187
+
+...       93
+
+Vivarta-Upadana
+
+...     230
+
+132,  145,  235
+
+Vrata
+
+...     143
+
+...     135
+
+Vyahrti
+
+122,  190
+
+...     220
+
+Vyakarana
+
+...       62
+
+iii
+
+Vyana
+
+177,  206
+
+187,  221,  239
+
+...     176
+
+Y
+
+7,260
+
+...1,132
+
+YA
+
+198,  210
+
+...     145
+
+Yajnavalkya    43,  124,  125,
+
+...     213
+
+132,  243
+
+75,  113,  ,
+
+Yajnopavita               108,
+
+132,  144
+
+116,  187,  221
+
+Yajurveda
+
+5,62
+
+...     255
+
+Yakslias
+
+62,64
+
+i
+
+Yama          19,  79,  173,  187,
+
+viii
+
+238,  243
+
+...     232
+
+Yas'asvini                  176,
+
+206,  239
+
+6,  90,  272
+
+Yoga
+
+183,  193
+
+...       10
+
+Yogakundali-Upanishad
+
+...     260
+
+...       22
+
+Yogatattya-Upanishad
+
+...     192
+
+PRINTED  BY  ANNIE  BESANT  AT  THE  VASANTA  PRESS,  ADYAR,  MADRAS,
+
+
+UNIVERSITY  OF  CALIFORNIA  LIBRARY
+
+Los  Angeles
+This  book  is  DUE  on  the  last  date  stamped  below.
+
+
+Form  L9-Series  444
+
+
+A     000108086     o
+
+
+••B
+

@@ -69,6 +69,49 @@ figures:
 
 # The Sacred Books of China: The Texts of Taoism, Part I (Sacred Books of the East, Vol. 39)
 
+School of Theology
+
+
+i)
+
+
+iii
+
+
+‘gy
+
+
+_ The Library
+
+
+SCHOOL OF THEOLOGY
+AT CLAREMONT
+
+
+. WEST FOOTHILL AT COLLEGE AVENUE
+_ » CLAREMONT,. CALIFORNIA
+
+
+LIBRARY
+SOUTHERN CALIFORNIA SCHOOL
+
+
+OF THEOLOGY
+CLAREMONT, CALIF.
+
+
+THE
+
+
+SACRED BOOKS OF THE EAST
+
+
+[39]
+
+
+London
+HENRY FROWDE
+
 
 OXFORD UNIVERSITY PRESS WAREHOUSE
 
@@ -3298,7 +3341,7 @@ sages do not act from (any wish to be) benevolent ;
 they deal with the people as the dogs of se are
 dealt with.
 
-2. May not the space between heaven  n earth
+2. May not the space between heaven <n earth
 be compared to a bellows ?
 
 "Tis emptied, yet it loses not its power ;
@@ -13402,7 +13445,7 @@ another state. ‘Heedless’ and ‘Sudden’ did not do a bad work.
 
 
 BOOK. VIII.
-Pare ,LL SSEOTION  b
+Pare ,LL SSEOTION <b
 
 
 Phien MAu, or ‘Webbed Toes 1’
@@ -15343,7 +15386,7 @@ sub-surnames in the same clan, and the consequent division of
 clans under different ancestors ;—see the Li A1, Bk. XII, i, 10-14,
 and XIV, 8.
 
-2  Hwa’ is evidently intended for the name of a place, but
+2 <Hwa’ is evidently intended for the name of a place, but
 where it was can hardly be determined. The genuineness of the
 whole paragraph is called in question ; and I pass it by, merely
 calling attention to what the border-warden is made to say about
@@ -16237,7 +16280,7 @@ and when superiors and inferiors possess the same
 
 1 I suppose that from ‘It is said’ to this is all quotation, but
 from what book we do not know.
-2  The yirtue,’ or attribute ;=the way.
+2 <The yirtue,’ or attribute ;=the way.
 
 
 et! THE TEXTS OF TAOISM. BK. XIII.
@@ -18845,7 +18888,7 @@ eV{VOGIpom sopeinyyny
 SNOILVISNVY ], FHL YOM AALUOGV SLALVHATY IVINAIYO JO NOLLVYALIISNVY J,
 
 
-* sieoney sus]  s OL
+* sieoney sus] <s OL
 
 
 * steoney xodse See Gh
@@ -18873,7 +18916,7 @@ oeeeet @ 8 @ sInuoy, I
 ‘SLNVNOSNOOD
 
 
-30)  a!
+30) <a!
 
 
 9]
@@ -19049,9 +19092,9 @@ Co ey a aly (ae sieyered-omyyns snsuoyydiq 9T
 5 ee es eee eee (2) 3@)3 BaceO Vic acw crc | icmrece| ile: ‘+ * staoaq sipeyeped-omnyyny) FT
 v & md aa ( é we fees] (2) 0 se calene (scsi ateceonOp | sis el
 a BE | ate ei Ser < SB leeeefeee] nm [roses + © stasrg sqeIquy ZT
- i! ase IRR eae ea are Be diets ec tie’s ea) ag, es ete ees eet oT sd Il
+<i! ase IRR eae ea are Be diets ec tie’s ea) ag, es ete ees eet oT sd Il
 SH ous dou gaia ll eee Mh sual. esr etern| Bie’ Ale ace Te] ie Swntt | gyp at] SPOOF Ce 8 2 hl AI ern nEE sa
-Siete Werokcoll ine:  pce| rome collie Neirell| vector oho |uureole plies ene cea] Cements 199 Cae Cee he se > 8 VORAT OL | Mie ae 6
+Siete Werokcoll ine: <pce| rome collie Neirell| vector oho |uureole plies ene cea] Cements 199 Cae Cee he se > 8 VORAT OL | Mie ae 6
 PE saeeral G.Sea te euedl come [er sp intee| Ree ies wh ods eal gy. Less) en ek << RERS e IOC Og
 j a a -4 C ° : ehh ems (2) j Sait ie) niin. vo) a RETO “ 2
 1 Seige) dee Matern 5 S feweeleee] 2 ceo + ss + * SADIQ STTRIVIVT 9
@@ -19563,3 +19606,90 @@ Diamond-Cutter.
 Edited by F. Max Mirier, M.A. Small 4to, 3s. 6d.
 One of the most famous metaphysical treatises of the Mahayana Buddhists.
 Buddhist Texts from Fapan. 1, Sukhavati-Vytha:
+Description of Sukhivati, the Land of Bliss.
+Edited by F. Max Miixter, M.A., and Bunyru Nanyro. With
+two Appendices: (1) Text and Translation of Sanghavarman’s
+Chinese Version of the Poetical Portions of the Sukhavatt-
+Vytiha ; (2) Sanskrit Text of the Smaller Sukhavati-Vyfha.
+Small 4to, 7s. 6d.
+The editio princeps of the Sacred Book of one of the largest and most
+
+
+influential sects of Buddhism, numbering more than ten millions of followers
+in Japan alone.
+
+
+Buddhist Texts from Fapan. 1. The Ancient Palm-
+Leaves containing the Prag#a-Paramita-Hrzdaya-
+Stitra and the Ushuisha-Vigaya-Dharazi.
+
+Edited by F. Max Miier, M.A., and Bunyru Nanjro, M.A.
+With an Appendix by G. Biuter, C.I-E. With many Plates.
+Small 4to, ros.
+
+Contains facsimiles of the oldest Sanskrit MS. at present known.
+
+
+Dharma-Sameraha, an Ancient Collection of Buddhist
+Technical Terms.
+Prepared for publication by Kenjru Kasawara, a Buddhist
+Priest from Japan, and, after his death, edited by F. Max
+Mixrer and H. Wenzet. Small 4to, 7s. 6d.
+Katydyana’s Sarvanukramazi of the Azgveda.
+With Extracts from Shadgurusishya’s Commentary entitled
+Vedarthadipika. Edited by A. A. Macponett, M.A., Ph.D. 16s.
+The Mantrapatha, or the Prayer Book of the Apa-
+stambins.
+
+
+Edited, together with the Commentary of Haradatta, and
+translated by M. Winternitz, Ph.D. rst Part. Introduc-
+tion, Sanskrit Text, Varietas Lectionis, and Appendices.
+Small quarto, ros. 6d,
+
+
+Orford
+AT THE CLARENDON PRESS
+
+
+LONDON: HENRY FROWDE
+OXFORD UNIVERSITY PRESS WAREHOUSE, AMEN CORNER, E.C.
+
+
+QWaversicy or couthera Callison
+
+
+we
+
+
+BL The Sacred books of China;/®he texts of Taoism, translated |
+1010 by James Legge ... Oxtd fd, The Clarendon press, 1891.
+
+
+S28 2v. 23cm. (Added t.-p.: The Sacred books of the East... vol.
+
+
+v.39, XXXIX-XL)
+: CoNTENTS,—I. The Tio teh king. The writings of Kwang-tsze,
+books 1-xvu.—iI. The writings of Kwang-tsze, books xvIII-xxxin,
+The Th&l-shang, tractate of actions and their retributions, Appen-
+dixes 1-vimt. :
+
+
+1, Taoism—Sacred books. I, Lao-tzi. Tao té ching, m. Chuang-
+tzi. wz. T’al-shang kan-ying p‘ien, rv. Legge, James, 1815-1897, tr.
+
+
+V._Series: The $ ad book f the’ East e 39-40,
+31L1010.83 vol.39-40.) 999-5" © 38—0264
+
+
+i
+i
+¢
+}
+‘
+*
+t
+0
+

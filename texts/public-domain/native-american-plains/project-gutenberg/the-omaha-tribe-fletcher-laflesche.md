@@ -575,7 +575,7 @@ The  five  cognate  tribes — evidence  of  former  unity 37
 
 The  Ponca  tribe 41
 
-Rites  and  customs  of  th j  gentes 42
+Rites  and  customs  of  th<j  gentes 42
 
 Legendary  accounts 47
 
@@ -5277,7 +5277,7 @@ trade  with  them;  and  bring  great  quantities  of  Indian  corn,  to  ex-
 
 c  Ibid.,  186.
 
- J  Ibid.,  300.
+<J  Ibid.,  300.
 
 
 FLETCHER-LA  FLESCHB]    ENVIRONMENT;    RESULTANT    INFLUENCES  81
@@ -5705,7 +5705,7 @@ I    El  L.
 
 EXPLANATION.  —  The  extensive  shaded  area  represents  the  country  known  to  the
 Omaha;  the  included  area  of  darker  shading  (cross  hatched]  ,  the  country  occu-
-P*e(^  ky  *ke  Omana'-  an i  tne  small  rectangle  bounded  on  the  east  by  the  Mis-
+P*e(^  ky  *ke  Omana'-  an<i  tne  small  rectangle  bounded  on  the  east  by  the  Mis-
 souri  River,  the  Omaha  reservation
 
 
@@ -5783,7 +5783,7 @@ dition  of  the  ford  caused
 
 excitement  in  crossing).
 
- i  To  the  Omaha  ear  euphony  demands  that  in  composite  terms  but  one  accent  be  used,  that  given  in
+<i  To  the  Omaha  ear  euphony  demands  that  in  composite  terms  but  one  accent  be  used,  that  given  in
 the  first  word.
 
 
@@ -8636,7 +8636,7 @@ Naxthi"  ba  naxthi"  ba  ha
 Kuthe  gon  di  ingi  be  he
 
 Literal  translation:  Kuthe,  hasten;  gon,  suddenly;  di,  here,  hither;
-ingi,  to  ask  help,  assistance;  &e,  sign  of  the  plural;  naxthi11,  flame;  6 z,
+ingi,  to  ask  help,  assistance;  &e,  sign  of  the  plural;  naxthi11,  flame;  6<z,
 sign  of  the  plural;  Jia,  the  end  of  the  sentence;  pede,  fire;  zhide,  red;
 nakade,  hot.
 
@@ -9673,7 +9673,7 @@ Bincextigthe Binge',  sound  of  the  elk's  voice;  tigthe,  heard  at  a  dist
 Bthonti/ Bthon,  smell,  scent;  ti,  comes.  Scent  borne  by  wind,  dis
 covering  game.  (In  Nu'xe,  Ponca.)
 
-Qexconcnede pe'qon,  from   p'qaqa,  trot;  piede,  long.     Refers  to  elk.
+Qexconcnede pe'qon,  from  <p'qaqa,  trot;  piede,  long.     Refers  to  elk.
 
 Qin/dedonpa Qin'de,  tail;  donpa,  blunt,  short.  (In  Monkon/  subdivision,
 
@@ -11658,7 +11658,7 @@ Nonxtha/demonthin.  .  .  .  The  creeping  sensation  of  a  bug  crawling.
 
 Tagi'ha  .................   Old  name,  meaning  uncertain  .
 
-Tade/umonthi"  .........    Tad /,  wind;  u,  in;  monthin,  walking.     (See   ritual   of  hair
+Tade/umonthi"  .........    Tad</,  wind;  u,  in;  monthin,  walking.     (See   ritual   of  hair
 
 cutting.)     (In  Wazha'zhe  and  Ni'kapashna,  Ponca.)
 Thixthr'gazhi  .........    Thixthiga,  old;  zhi,  not  (abbreviated)  never  old.     Two  of
@@ -11781,7 +11781,7 @@ Xage'wathe One  who  causes  weeping.
 Zhega/nonba Zfiega,  legs;  nonba,  two.
 
 Female  iiamt*
-Tade'waha re Meaning  uncertain.
+Tade'waha<re Meaning  uncertain.
 
 INSHTA^'UKDA  DIVISION.  REPRESENTING  THE  SKY  PEOPLE  (A)
 
@@ -12405,7 +12405,7 @@ camped  on  the  left  of  the  Tecin/de  people;  next  was  the  group  under
 Pa'thingahige  (/>) ;  on  their  left  the  group  under  Zhinga'gahige  (<•) ;
 and  at  the  left  end  of  the  Tapa'  was  the  Xini'baton  subdivision  (d).
 
-PERSONAL    NAMES    IN    THE    TAPA'   i  ENS  (8)
+PERSONAL    NAMES    IN    THE    TAPA'  <i  ENS  (8)
 
 Group  under  r/n'r/f.ro"ro'i  <  Mike'nitha)  (a)
 Ni'kie  names
@@ -14214,7 +14214,7 @@ of  the  act.  All  must  accept  it  and  then  carry  it  through  as  one  ma
 This  unity  of  decision  was  regarded  as  having  a  supernatural  power
 and  authority.  Old  men  explained  to  the  writers  that  the  members
 of  the  council  had  been  made  chiefs  by  the  Sacred  Tribal  Pipes,  which
-were  from  Wakon/da;  therefore,  ? when  the  chiefs  had  deliberated  on
+were  from  Wakon/da;  therefore,  ?<when  the  chiefs  had  deliberated  on
 a  matter  and  had  smoked,  the  decision  was  as  the  word  of  Wakon'da."
 
 The  ceremonial  manner  of  smoking  the  Sacred  Pipes  was  as  follows :
@@ -17138,7 +17138,7 @@ FLETC1IEK-LA   FLESCHE]  THE     QUEST     OF     FOOD  263
 
 50  Wi  andonba  ga
 
-51  'Kite  he   Xton  ha  nonzhin  hi
+51  'Kite  he  <Xton  ha  nonzhin  hi
 
 52  Wi  andonba  ga
 
@@ -21692,7 +21692,7 @@ Xi
 
 1*
 
-(S)
+‹S›
 
 XI
 
@@ -21794,7 +21794,7 @@ oj  t*»          e3  G
 
 S  .2
 
->*       w  a   •^ D
+>*       w  a   •^<D
 
 03  ^
 
@@ -21856,7 +21856,7 @@ a
 
 log   ll
 
-X!  ^  O    X   S
+X!  ^  O    X  <S
 
 •+e  'j  »-i    •*?  ^3
 2  fc-0    £  "
@@ -21893,7 +21893,7 @@ OS
 
 0
 
-^              M'
+^             <M'
 
 CC                    *^
 
@@ -22523,7 +22523,7 @@ s>  ti  -A  x  J2
 
 i  3  -j!  «
 
-<£     D
+<£    <D
 .      >-
 
 a.  •  £
@@ -22557,7 +22557,7 @@ M  p  5  :  .  a
 
 .S"^
 
-(t)  *^
+‹t›  *^
 
 if
 
@@ -27586,7 +27586,7 @@ because  they  had  borne  their  part  in  the  hardships  of  the  journey.
 
 The  following  ini'lcapi  (wolf)  song  refers  to  this  custom :
 
-(Aria  as  snn j)     Harmonized  by  John  C.  Fillmore  for  interpretation  on  the  piano
+(Aria  as  snn<j)     Harmonized  by  John  C.  Fillmore  for  interpretation  on  the  piano
 
 fef^=^^^^Pa^^s
 
@@ -27803,7 +27803,7 @@ also  has  been  cut  off  and  a  thong  run  through  holes  made  in  the  ne
 FIG.  93.    Objects  from  Sacred  War  Pack.
 
 
-FIG.   J4.    Swallowtail  kite  from  Sncrod  War  Pack.
+FIG.  <J4.    Swallowtail  kite  from  Sncrod  War  Pack.
 
 
 to  which  is  fastened  a  feather,  the  quill  of  which  is  painted  in  red
@@ -28003,7 +28003,7 @@ he
 
 .-!_-* ^ ^ -=v-3 H— H 1|- H 1 j -^S-^t 1) 1 .
 
-—-j—-  * *~l~g=N~|-          * • * * — \-&-~          -\-(S)-±
+—-j—-  * *~l~g=N~|-          * • * * — \-&-~          -\-‹S›-±
 
 +:       f:  ?:t     t  TT
 
@@ -28960,7 +28960,7 @@ rji—  *-•:••=*— *—*:
 -o— K
 
 
- i ' 1™^— I
+<i ' 1™^— I
 
 
 Rhythm  of  the  drum  Con  Ped.
@@ -32303,7 +32303,7 @@ started  by  the  operator:
 
 (Sung  in  octave  unison)
 
-n  ft  n   Oi
+n  ft  n  <Oi
 
 
 —4-  —  f  f
@@ -40043,7 +40043,7 @@ enemies!"  In  this  fashion  the  Chippewa  replied  through  their  French  in
 native  word  into  Nadowissioux,  "snake-like,"  metaphorically  meaning  "enemies."  The  final  syllable,
 siouz,  caught  the  ear  of  the  French  and  became  fastened  as  a  common  name  on  the  neighboring  Dakota
 tribes.  It  was  finally  transferred  to  the  great  linguistic  group  to  which  the  Dakota  belong  by  Albert
-Gallat  in  in  his  monumental  work,  A  Synopsis  of  the  Indian  Tribes  in  North  America  (  Trans.  Am.   Antiq.
+Gallat  in  in  his  monumental  work,  A  Synopsis  of  the  Indian  Tribes  in  North  America  (  Trans.  Am.  <Antiq.
 Soc.,  Archxologia  Americana,  ir,  Worcester,  Mass.,  1830).
 
 6  See  Handbook  of  American  Indians,  Bull.  30,  Bur.  Am.  Ethnol.,  pt.  2,  579.
@@ -44004,7 +44004,7 @@ Agnes  Wells  281
 
 Bessie  Wells  645
 
-Be-za-tae- rrae  Wells  1277
+Be-za-tae-<rrae  Wells  1277
 
 Charles  Wei  Is  31 7
 
@@ -44511,7 +44511,7 @@ connection  with  origin  of  maize 7i'-78
 
 connection  with  Te' Ithaethe 487-488
 
-disappearance 29, 33, 244,   i!9.  (134-635
+disappearance 29, 33, 244,  <i!9.  (134-635
 
 origin 71, 147, 239
 
@@ -48817,3 +48817,32 @@ group  under 178, 181
 references 50. 40!>
 
 7.  \-% 1  INDIANS,  monograph  on 7
+
+
+o
+
+
+BORROWED
+
+
+This  DOO*  «  -  -     which  rene
+or  on  the  date  wr*  No  £42-
+
+KSSSSS-^
+
+
+LD  21-100m-12,'46(A2012sl6)4^29r'
+
+
+34
+
+
+BERKELEY  LIB   ARIE
+
+
+may  oe
+
+—
+
+^STAMPED  BELOW
+

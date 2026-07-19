@@ -1,707 +1,3 @@
-# Finno-Ugric, Siberian Mythology
-
-THE  UNIVERSITY
-OF  ILLINOIS
-LIBRARY
-
-
-291
-
-M939
-
-
-‘5
-
-
-The  person  charging  this  material  is  re¬
-sponsible  for  its  return  to  the  library  from
-which  it  was  withdrawn  on  or  before  the
-Latest  Date  stamped  below.
-
-Theft,  mutilation,  and  underlining  of  books  are  reasons
-for  disciplinary  action  and  may  result  in  dismissal  from
-the  University.
-
-To  renew  call  Telephone  Center,  333-8400
-
-UNIVERSITY  OF  ILLINOIS  LIBRARY  AT  URBANA-CHAMPAIGN
-
-
-DEC  2  2  1S8Q
-
-DEC  1 1  1980
-
-DEC  0  5  m
-
-
-OCT  18  1913
-
-m  i  o  m%
-
-^  15  1985
-
-
-L161— 0-1096
-
-
-.
-
-I  ft  '  -  .  ■
-
-
-I
-
-
-.
-
-
-V
-
-
-.
-
-
-*
-
-
-THE  MYTHOLOGY  OF  ALL  RACES
-
-
-Volume  IV
-
-FINNO-UGRIC
-
-SIBERIAN
-
-
-Volume  I.  Greek  and  Roman
-William  Sherwood  Fox,  Ph.D.,  Princeton  University.
-
-Volume  II.  Eddie
-
-Axel  Olrik,  Ph.D.,  University  of  Copenhagen.
-
-Volume  III.  Celtic ,  Slavic
-
-Canon  John  A.  MacCulloch,  D.D.,  Bridge  of  Allan,  Scotland.
-
-Jan  MAchal,  Ph.D.,  Bohemian  University,  Prague.
-
-Volume  IV.  Finno-Ugric,  Siberian
-Uno  Holmberg,  Ph.D.,  University  of  Finland,  Helsingfors.
-
-Volume  V.  Semitic
-
-R.  Campbell  Thompson,  M.A.,  F.S.A.,  F.R.G.S.,  Oxford.
-
-Volume  VI.  Indian,  Iranian
-A.  Berriedale  Keith,  D.C.L.,  Edinburgh  University.
-
-Albert  J.  Carnoy,  Ph.D.,  University  of  Louvain.
-
-Volume  VII.  Armenian,  African
-Mardiros  Ananikian,  B.D.,  Kennedy  School  of  Missions,  Hart¬
-ford,  Connecticut.
-
-Alice  Werner,  L.L.A.  (St.  Andrews);  School  of  Oriental  Studies,  London
-
-Volume  VIII.  Chinese,  Japanese
-
-John  Calvin  Ferguson,  Ph.D.,
-
-(Adviser  to  the  President  of  the  Republic  of  China)
-
-Masaharu  Anesaki,  Litt.D.,  University  of  Tokyo.
-
-(Japanese  Exchange  Professor  at  Harvard  University,  IQ13-1915)
-
-Volume  IX.  Oceanic
-
-Roland  Burrage  Dixon,  Ph.D.,  Harvard  University.
-
-Volume  X.  American  ( North  of  Mexico)
-
-Hartley  Burr  Alexander,  Ph.D.,  University  of  Nebraska.
-
-Volume  XI.  American  {Latin)
-
-Hartley  Burr  Alexander,  Ph.D.,  University  of  Nebraska.
-
-Volume  XII.  Egyptian,  Indo-Chinese
-W.  Max  Muller,  Ph.D.,  University  of  Pennsylvania.
-
-Sir  James  George  Scott,  K.C.I.E.,  London*
-
-
-Volume  XIII.  Index
-
-
-PLATE  I
-
-
-Grave-Houses  in  Russian  Karelia
-(See  page  32.)
-
-Water-colour  by  V.  Soldan-Brofeldt.
-
-
-*
-
-.
-
-
-‘
-
-
-i  3  rAJ‘i
-
-'  2: i, '  1  ?\  vn  fey
-
-'  ■
-
-
-THE  MYTHOLOGY
-OF  ALL  RACES
-
-IN  THIRTEEN  VOLUMES
-
-CANON  JOHN  ARNOTT  MacCULLOCH,  D.D.,  Editor
-
-GEORGE  FOOT  MOORE,  A.M.,  D.D.,  LL.D.,  Consulting  Editor
-
-
-FINNO-UGRIC,  SIBERIAN
-
-BY
-
-UNO  HOLMBERG,  PH.D.
-
-DOCENT  OF  THE  UNIVERSITY  OF  FINLAND,  HELSINGFORS
-
-
-VOLUME  IV
-
-
-ARCHAEOLOGICAL  INSTITUTE  OF  AMERICA
-MARSHALL  JONES  COMPANY  •  BOSTON
-M  DCCCC  XXVII
-
-
-Copyright,  1927
-By  Marshall  Jones  Company
-
-Copyrighted  in  Great  Britain
-All  rights  reserved
-Printed  January,  1927
-
-
-PRINTED  IN  THE  UNITED  STATES  OF  AMERICA  BY
-THE  PLIMPTON  PRESS  •  NORWOOD  •  MASSACHUSETTS
-
-
-BOUND  BY  THE  BOSTON  BOOKBINDING  COMPANY
-
-
-h'K  Lzi>(  .p^cr.Ls'^L
-
-
-v.  4
-
-
-EDITOR’S  NOTE
-
-IN  place  of  a  preface,  Dr.  Holmberg  has  asked  me  to  say
-that  much  in  his  account  of  Finno-Ugric  and  Siberian
-Mythology  is  the  result  of  personal  acquaintance  with  various
-tribes.  In  the  summer  of  1 9 1 1  he  lived  among  the  heathen
-Votiaks.  In  the  summer  of  1912  he  travelled  in  Siberia  (Dis¬
-trict  Turuchansk)  among  the  Siberian  Arctic  peoples.  And  in
-the  summer  of  1 9 1 3  he  lived  among  the  Cheremias.
-
-J.  A.  MacCULLOCH
-
-Editor
-
-
-)
-
-
-‘  .
-
-
-/
-
-
-■
-
-
-CONTENTS
-
-FINNO-UGRIC  PAGE
-
-Editor’s  Note .  v
-
-Introduction .  xv
-
-Chapter  I  The  Belief  in  Souls .  3
-
-II  Death  and  Burial .  17
-
-III  Memorial  Feasts  for  a  Particular  Dead
-
-Person .  37
-
-IV  General  Memorial  Feasts .  60
-
-V  The  Life  Beyond .  72
-
-VI  Animal  Worship .  83
-
-VII  The  Seides  of  the  Lapps . 100
-
-VIII  Family  Gods .  113
-
-IX  Heroes . 139
-
-X  Household  Spirits . 159
-
-XI  Forest  Spirits .  175
-
-XII  Water  Spirits . 191
-
-XIII  Gods  of  Sky  and  Air . 217
-
-XIV  Fire .  235
-
-XV  Deities  of  the  Earth  and  Vegetation  .  .  .  239
-
-XVI  Deities  of  Birth . 252
-
-XVII  Sacrifices  to  Nature  Gods  among  the  Volga
-
-Finns . 262
-
-XVIII  The  Shaman  . . 282
-
-SIBERIAN
-
-Introduction .  299
-
-Chapter  I  World  Pictures . 306
-
-II  The  Origin  of  the  Earth . 313
-
-III  The  Pillar  of  the  World . 333
-
-IV  The  World  Mountain . 341
-
-
-Vlll
-
-
-CONTENTS
-
-
-PAGE
-
-
-V  The  Tree  of  Life . 349
-
-VI  Destruction  of  the  World . 361
-
-VII  The  Creation  of  Man . 371
-
-VIII  The  Fall  of  Man . 381
-
-IX  The  Origin  of  the  Mosquito . 386
-
-X  The  Heaven  God . 390
-
-XI  The  Sons  of  God . 402
-
-XII  The  Great  Mother . 413
-
-XIII  The  Stars . 417
-
-XIV  Thunder . 439
-
-XV  Fire . 449
-
-XVI  The  Wind . 457
-
-XVII  The  Earth . 459
-
-XVIII  The  “Masters”  of  Nature . 463
-
-XIX  Dreams,  Sickness  and  Death . 472
-
-XX  The  Realm  of  the  Dead . 483
-
-XXI  Shamanism  and  Totemism . 496
-
-Notes,  Finno-Ugric . 7 . 527
-
-Notes,  Siberian . • . 545
-
-Bibliography,  Finno-Ugric . 563
-
-Bibliography,  Siberian . 581
-
-
-ILLUSTRATIONS
-
-
-FULL  PAGE  ILLUSTRATIONS
-
-LATE  FACING  PAGE
-
-I  Grave-houses  in  Russian  Karelia  —  Coloured  .  Frontispiece
-
-II  A  Karsikko  or  Memorial  Tree .  26
-
-III  1.  Lapp  Grave .  36
-
-2.  Graves  of  the  Northern  Ostiaks  Erected  over  the
-
-Ground .  36
-
-IV  At  the  Grave.  Ingermanland .  56
-
-V  Sacrificial  Tree  of  the  Dead  among  the  Eastern  Votiaks
-
-—  Coloured  .  58
-
-VI  Bear  Worship  of  the  Voguls .  84
-
-VII  Masker’s  Frolic  at  the  Vogul  Bear  Feast .  96
-
-VIII  The  Holy  Rastekaise  Mountain  in  Utsjoki  —  Coloured  1 04
-
-IX  1.  Lapp  Seides  Made  of  Tree-stumps  or  Posts,  roughly
-
-Carved  in  Human  Form .  110
-
-2.  The  Rastekaise  Mountain  with  two  Sacred  Stones  no
-X  1.  Samoyed  Stone  Family-god  Clothed  and  Lifted  on  a
-
-Tree  Trunk .  114
-
-2.  Family  Gods  of  the  Ostiaks . 114
-
-XI  Votiak  Kuala  or  Sanctuary  of  the  Family-gods  ....  118
-
-XII  1.  Votiak  Case  for  the  Vorsud  or  “  Luck-protector”  .  122
-
-2.  Votiak  Village  or  Great  Kuala .  122
-
-XIII  Vorsud  Case  Venerated  by  the  Votiaks — Coloured  .  .  126
-
-XIV  1.  Remains  of  an  old  Votiak  Sacrificial  Kuala  ....  130
-
-2.  Vorsud  Case  of  the  Votiaks,  with  other  Sacrificial
-
-Apparatus . 130
-
-XV.  1.  The  Little  Kudo  or  Dwelling  of  the  Kudo-spirit
-
-within  a  Cheremiss  Hut  or  “  Great  Kudo  ”  .  .  136
-
-2.  Cheremiss  Kudo .  136
-
-XVI  1.  Ostiak  Holy  Place  with  Images  of  Gods  or  Spirits  140
-
-2.  Ostiak  Place  of  Sacrifice .  140
-
-XVII  I.  Votiak  Sacred  Grove  or  Lud  with  Surrounding  Fence
-
-and  Gate .  146
-
-2.  Storehouse  of  the  Ostiak  Idols  near  Vasyagan  ...  146
-
-
-X
-
-
-ILLUSTRATIONS
-
-
-PLATE  FACING  PAGE
-
-
-XVIII  I.  Votiak  Lud-kuala,  formerly  a  Storeplace  for
-
-Offerings,  Sacrificial  Vessels,  etc .  150
-
-2.  Votiak  Lud-kuala,  Birsk  District . 150
-
-XIX  1.  The  Image  of  the  Samoyed  “  Master  of  the  For¬
-est”,  Carved  on  a  Tree-trunk . 156
-
-2.  Cheremiss  Horse-sacrifice  to  the  Keremet-spirit
-
-in  Time  of  Sickness .  156
-
-XX  The  Aino  Episode  in  Kalevala  —  Coloured  ...  192
-
-XXI  1.  Votiak  Sacrifice  to  the  River  Buj  after  the  Break¬
-ing-up  of  the  Ice . 200
-
-2.  Votiak  Sacrifice  to  the  River  Buj  after  the  Break¬
-ing-up  of  the  Ice . 200
-
-XXII  The  Eastern  Votiaks  Sacrifice  a  White  Goose  to  the
-
-Ilcaven  God . 204
-
-XXIII  Ostiak  Sacrifice  of  a  White  Animal  to  the  H  eaven-
-
-god . 208
-
-XXIV  The  “World-pillar”  of  the  Lapps . 212
-
-XXV  Sacrificial  Meal  among  the  Russian  Karelians  .  .  216
-
-XXVI  Old  Sacrificial  Grotto  of  the  Thunder-god  among
-
-the  Finnish  Lapps . 2  20
-
-XXVII  Drawings  on  a  Lapp  Drum . 224
-
-XXVIII  Drawings  on  a  Torne-Lapp  Drum . 228
-
-XXIX  Ostiak  Sacrifice . 232
-
-XXX  Cheremiss  Sacrifice  to  the  Field-gods . 242
-
-XXXI  The  “Feeding”  of  the  Sickle  among  the  Chere¬
-miss  —  Coloured . 248
-
-XXXII  The  Sacrifice-grove  among  the  Cheremiss  —  Col¬
-oured  . 262
-
-XXXIII  Cheremiss  Sacrificial  Loaves,  Bowls  and  Coins  at
-
-the  Festival  to  Nature-gods . 268
-
-XXXIV  Cheremiss  Sacrificial  Prayer . 272
-
-XXXV  A  Cheremiss  Priest  Praying  to  the  Accompaniment
-
-of  a  Stringed  Instrument  —  Coloured  .  .  .  276
-
-XXXVI  Cheremiss  Priests  at  the  Festival  to  Nature-gods  .  .  280
-
-XXXVII  1.  Lapp  Shaman’s  Bowl-drum.  Front,  Back  and
-
-Side  Views . 284
-
-2.  Lapp  Shaman’s  Sieve-drum.  Front,  Back  and
-
-Side  Views . 284
-
-XXXVIII  The  Living  Sacrifice-tree  Bound  with  the  Sacrifice
-
-Girdle  —  Coloured . 288
-
-
-ILLUSTRATIONS
-
-
-xi
-
-lGE
-
-XXXIX  Samoyed  Shaman . 294
-
-XL  An  old  Turkish  Image  and  Memorial  Stone  in
-
-North  Mongolia . 302
-
-XLI  Boat-gods  and  Boats  of  the  Yenisei  Ostiaks  .  .  .  308
-
-XLII  Tortoise-shell  Shaped  Stone  Representing  the
-
-World-bearing  Tortoise  ........  338
-
-XLIII  Old  Turkish  Memorial  Image  and  Landscape  in
-
-North  Mongolia . 352
-
-XLIV  Old  Turkish  Memorial  Image  in  North  Mongolia  372
-
-XLV  Phallus  before  a  Mongol  Monastery . 396
-
-XLVI  1.  Dolgan  Shaman  Pillars  Representing  the  Nine
-
-Storeys  of  Heaven . 400
-
-2.  Yakut  Trees  Representing  the  Storeys  of  Heaven  400
-
-XLVII  Hides  of  Buriat  Offerings . 410
-
-XLVIII  Shaman  Drums  from  the  Minusinsk  District  ...  432
-
-XLIX  Shaman  Drums  from  the  Minusinsk  District  .  .  .  444
-
-L  Mongol  Shaman  with  his  Drum . 452
-
-LI  Mongol  Stone  Heap  (oho) . 458
-
-LII  Dress  and  Drum  of  a  Mongol  Shaman . 462
-
-LIII  Shattered  Tomb  of  a  Yakut  Shaman . 466
-
-LIV  Mongol  Seer  Prophesying  from  a  Shoulder-blade  .  470
-
-LV  Yenisei  Ostiak  Shaman  with  Drum.  Front  and
-
-Back  Views  . 476
-
-LVI  Buriat  Shaman-tomb  and  Ongons  .  .  . 482
-
-LVII  1.  Buriat  Shaman  with  his  Hobby-horses  ....  488
-
-2.  Hides  of  Buriat  Shaman-animals . 488
-
-LVIII  Dress  of  a  Yakut  Shaman.  Back  View . 494
-
-LIX  1.  Breast  Cloth  of  a  Yakut  Shaman . 504
-
-2.  Lebed-Tatar  Shaman . 504
-
-3.  Drum  of  a  Lebed-Tatar  Shaman . 504
-
-LX  1.  Dress  of  a  Yakut  Shaman  (Bird  Type).  Front
-
-View . 508
-
-2.  Dress  of  a  Yakut  Shaman  (Bird  Type).  Back
-
-View  . 508
-
-LXI  Dress  of  a  Tungus  Shaman  (Bird  Type).  Front
-
-and  Back  Views . 512
-
-LXII  Dress  of  a  Yenisei  Ostiak  Shaman  (Animal  Type).
-
-Back  View . 518
-
-LXIII  Drum  of  a  Yakut  Shaman,  Showing  Inner  and
-
-Outer  Sides . 522
-
-
-ILLUSTRATIONS
-
-
-Xll
-
-
-ILLUSTRATIONS  IN  THE  TEXT
-
-FIGURE  PAGE
-
-1  Ostiak  Grave-house  with  Coffin  of  the  Deceased  ....  31
-
-2  Graveyard  in  Russian  Karelia .  33
-
-3  Lapp  Christmas  Custom .  67
-
-4  Lapp  Seide-stone . 101
-
-5  Lapp  Sacrificial  Posts .  108
-
-6  Sun  Ring . 225
-
-7  Moon  Ring . 227
-
-8  Lapp  Sacrificial  Board  of  the  Thunder  God . 230
-
-9  Drawing  of  Heaven  on  Shaman  Drums . 250
-
-10  Sacrificial  Bread . 267
-
-1 1  Sacrificial  Accessories . 274
-
-12  Shaman  Hammer . 289
-
-13  Dolgan  Shaman-pillars  with  Figures  of  Birds . 334
-
-14  Two-headed  Birds  of  Iron  which  Hang  on  the  Dress  and
-
-Drum  of  the  Yenisei-Ostiak  Shaman . 335
-
-15  A  Kalmuck  World-picture . 347
-
-16  Signs  of  a  Twelve-divisioned  Period . 437
-
-17  The  Tungus  Thunder-bird . 439
-
-18  North-Siberian  Tombs . 480
-
-19  Koori  and  Bucu,  Spirit-birds  of  a  Golde  Shaman  ....  509
-
-20  Dolgan  Shaman-attributes  and  the  World-tree  with  the
-
-Two-headed  Lord  of  the  World . 511
-
-21  Head-dress  of  a  Yenisei-Ostiak  Shaman  (Reindeer  or  Stag
-
-Type)  . _ . 513
-
-22  Head-dress  of  the  Soyot  Shaman  (Bird  Type) . 513
-
-23  Tungus  Shaman-boot  (Bird  Type) . 513
-
-24  Tatar  Shaman  (Bird  Type)  in  Minusinsk  District  ....  515
-
-25  Left  Boot  of  Yenisei-Ostiak  Shaman  (Bear  Type)  with  all
-
-the  Bones  of  the  Bear’s  Left  Legs . 517
-
-26  Shaman  Drum  with  Bird-shaped  Hand-grip . 520
-
-27  Hobby-horse  of  a  Buriat  Shaman . 521
-
-28  Relics  of  a  Buriat  Shaman  Found  in  the  Earth . 521
-
-
-MAP
-
-
-Finno-Ugrians,  Siberians
-
-
-FACING  PAGE
-.  .  2
-
-
-FINNO-UGRIC  MYTHOLOGY
-
-ft
-
-BY
-
-
-UNO  HOLM  BERG
-
-PH.D.
-
-
-DOCENT  OF  THE  UNIVERSITY  OF  FINLAND,  HELSINGFORS
-
-
-.
-
-
-.  .
-
-
-,
-
-
-INTRODUCTION
 
 
 IN  THE  course  of  thousands  of  years  the  Finno-Ugric  race,
@@ -739,9 +35,6 @@ mately  the  same  language.
 XVI
 
 
-INTRODUCTION
-
-
 From  many  borrowed  words  we  may  infer  that  at  an  early
 period  Finnish  influence  prevailed  among  the  Lapps,  who,
 about  30,000  in  number,  inhabit  a  wide  region  which  extends
@@ -777,11 +70,7 @@ termed  u  Eastern  Cheremiss.”
 
 Near  to  the  Volga  Finns  is  the  dwelling-place  of  the  Votiaks
 (about  450,000  in  number),  who,  with  their  kinsfolk,  the
-Siryans  (to  the  number  of  about  300,000),  constitute  the  so-
-called  Permian  linguistic  stock.  The  former  live  chiefly  in
-
-
-INTRODUCTION
+Siryans  (to  the  number  of  about  300,000),  constitute  the  socalled  Permian  linguistic  stock.  The  former  live  chiefly  in
 
 
 XVII
@@ -811,8 +100,7 @@ superior  degree  of  civilization.  Some  —  especially  the  Lapps,
 the  Ostiaks,  and  the  Voguls  —  who  live  principally  by  fishing
 and  the  chase,  or  else  are  nomads  wholly  dependent  on  the
 reindeer  for  food  and  raiment,  stand  on  the  humble  level  of
-primitive  folk.  The  same  statement  holds  true  of  the  Samo-
-yeds,  whose  vast  territory  lies  on  the  tundras  along  the  Arctic
+primitive  folk.  The  same  statement  holds  true  of  the  Samoyeds,  whose  vast  territory  lies  on  the  tundras  along  the  Arctic
 Ocean,  stretching  from  the  region  of  Archangel  in  the  west  to
 Cape  Chelyuskin,  the  northern-most  promontory  of  Siberia,  in
 the  east.  As  their  language  clearly  shows,  they  have  been  in
@@ -829,15 +117,11 @@ between  the  Ob  and  the  Yenisei,  as  well  as  the  forest  regions
 XV111
 
 
-INTRODUCTION
-
-
 in  the  northern  part  of  the  Government  of  Tomsk  and  the  ad¬
 joining  portions  of  the  Governments  of  Tobolsk  and  Yenisei,
 are  the  home  of  the  so-called  Ostiak  Samoyeds,  of  whom  there
 are  about  40005  and  the  northern  slopes  of  the  lofty  Sayan
-Mountains  are  the  habitat  of  the  scanty  remnants  of  the  Ka-
-mass  stock,  which,  though  once  so  numerous,  is  gradually  be¬
+Mountains  are  the  habitat  of  the  scanty  remnants  of  the  Kamass  stock,  which,  though  once  so  numerous,  is  gradually  be¬
 coming  either  extinct  or  Tatarized.
 
 Of  the  remaining  Finno-Ugric  peoples  only  the  northern
@@ -870,9 +154,6 @@ period  Russian  folk-belief  also  penetrated  everywhere  side
 by  side  with  Russian  colonization.
 
 The  Baltic  Finns  and  Lapps,  on  the  other  hand,  received
-
-
-INTRODUCTION
 
 
 xix
@@ -919,9 +200,6 @@ the  former)  cling  with  great  tenacity  to  the  beliefs  and  cus-
 XX
 
 
-INTRODUCTION
-
-
 toms  which  they  have  inherited  from  their  fathers.  Baptism
 of  the  Ostiaks,  Voguls  and  Samoyeds  began  in  the  eighteenth
 century.  Though  only  a  small  number  of  unbaptized  are  still
@@ -961,9 +239,6 @@ The  oldest  accounts  of  the  religion  of  the  Siryans  are  con¬
 tained  in  the  biography  of  their  apostle,  St.  Stephen,  who  died
 
 
-INTRODUCTION
-
-
 xxi
 
 
@@ -982,8 +257,7 @@ Votiaks,  the  kinsfolk  of  the  Siryans,  although  the  earliest
 sources  date  only  from  the  eighteenth  century.  During  re¬
 cent  decades  the  literature  on  this  subject  has  become  rela¬
 tively  abundant.  The  most  valuable  authorities  are  the  Finns
-T.  G.  AminofiF  and  Yrjo  Wichmann,  the  Russians  N.  Per-
-vuchin,  B.  G.  Gavrilov,  G.  Verescagin,  P.  Bogayevskij  and
+T.  G.  AminofiF  and  Yrjo  Wichmann,  the  Russians  N.  Pervuchin,  B.  G.  Gavrilov,  G.  Verescagin,  P.  Bogayevskij  and
 J.  Vasil jev,  the  work  of  the  scholar  last  named  having  also
 appeared  in  German,  the  language  in  which  Max  Buch  wrote
 his  ethnographical  account  of  the  Votiaks.
@@ -1005,9 +279,6 @@ Mainov  and  others;  Mainov^s  work,  which  was  also  published
 in  French,  has  been  used  by  scholars,  although  it  is  unreli¬
 able  to  the  highest  degree.  By  awakening  interest  among  the
 people  themselves,  the  Finnish  linguist  H.  Paasonen  has  en-
-
-
-INTRODUCTION
 
 
 xxii
@@ -1036,8 +307,7 @@ eighteenth  century  3  and  during  recent  years  all  the  chief
 sources  have  been  published  by  K.  B.  Viklund,  J.  Qvigstad,
 E.  Reuterskiold  and  I.  Fellmann.  Certain  earlier  investiga¬
 tors,  however,  had  already  gathered  accounts  of  this  heathen
-faith  for  their  descriptions,  the  first  being  J.  Schefferus’s  Lap-
-ponia  (1672),  which  was  translated  into  several  languages;
+faith  for  their  descriptions,  the  first  being  J.  Schefferus’s  Lapponia  (1672),  which  was  translated  into  several  languages;
 while  somewhat  later  E.  J.  Jessen  (1767)  and  Knud  Leem
 (1767)  issued  their  well-known  delineations.  The  abundance
 of  material  has  been  still  further  enriched  in  our  own  time,
@@ -1052,22 +322,17 @@ the  chief  later  sources  are  J.  GustlafPs  description  of  the  sanc¬
 tuary  at  Wohanda  (1644)  and  Joh.  Forselius’  collection  of
 
 
-INTRODUCTION
-
-
 xxm
 
 the  ancient  beliefs,  customs,  and  usages  of  the  Esthonians,
 published  in  German  by  J.  W.  Boeder  (1685),  the  language
-in  which  F.  J.  Wiedemann  issued  a  general  survey  of  Estho-
-nian  religion.  Very  recently  a  voluminous  and  important  col¬
+in  which  F.  J.  Wiedemann  issued  a  general  survey  of  Esthonian  religion.  Very  recently  a  voluminous  and  important  col¬
 lection  of  folklore  has  been  made  by  J.  Hurt,  M.  I.  Eisen,
 O.  Kallas,  and  others.
 
 The  very  oldest  reports  of  the  ancient  religion  of  the  Finns
 are  extremely  brief.  In  an  Old  Norse  saga  recounting  the
-expedition  of  certain  Vikings  to  conquer  the  land  of  the  B jar-
-mar  along  the  White  Sea  in  1026  we  find  the  first  occurrence
+expedition  of  certain  Vikings  to  conquer  the  land  of  the  B jarmar  along  the  White  Sea  in  1026  we  find  the  first  occurrence
 of  the  word  Jomali,  which  is  plainly  identical  with  the  Finnish
 Jumala  (“  God”);  but  the  earliest  record  of  real  value  con¬
 cerning  the  Finnish  heathen  pantheon  dates  only  from  the  be¬
@@ -1099,9 +364,6 @@ tion  of  the  ancient  religion  of  the  Finns  was  the  task  of  the
 XXIV
 
 
-INTRODUCTION
-
-
 famous  linguist,  Castren.  Before  the  completion  of  the  work
 which  he  had  planned,  Castren  had  travelled  extensively
 among  the  Lapps,  Samoyeds,  and  Siberians ;  and  during  this
@@ -1122,8 +384,7 @@ less  variants,  must  themselves  form  the  basis  of  all  investiga¬
 tion.  Yet  even  in  the  study  of  this  purely  popular  material
 due  account  must  be  taken  of  the  manner  in  which  it  devel¬
 oped  during  its  centuries  of  migration  and  extension,  whether
-from  western  Finland  or  from  Esthonia  (by  way  of  Ingerman-
-land)  to  eastern  Finland  and  the  Government  of  Archangel,
+from  western  Finland  or  from  Esthonia  (by  way  of  Ingermanland)  to  eastern  Finland  and  the  Government  of  Archangel,
 where  we  find  the  most  highly  evolved  and  the  most  com¬
 posite  variants.  In  the  utilization  of  this  material  the  geo¬
 graphical  method,  which  was  discovered  by  Julius  Krohn,  and
@@ -1141,9 +402,6 @@ divinities,  and  his  view  long  prevailed.  More  recently,  how¬
 ever,  the  historical  explanation  has  again  been  adopted.  For
 
 
-INTRODUCTION
-
-
 XXV
 
 
@@ -1153,8 +411,7 @@ heroes  mentioned  in  the  Kalevalay  may  also  be  used  to  desig¬
 nate  a  giant  or  a  divine  being ;  and  in  like  manner  the  smith
 Ilmarinen  presents  a  contamination  of  the  name  of  the  Finno-
 Ugric  air-god,  Ilmari  (Votiak  Inmar),  with  the  name  of  the
-hero  Ismaroinen,  who  figures  in  the  folk-songs  of  Ingerman-
-land  as  the  maker  of  the  Golden  Maid.
+hero  Ismaroinen,  who  figures  in  the  folk-songs  of  Ingermanland  as  the  maker  of  the  Golden  Maid.
 
 With  the  aid  of  newer  and  richer  sources  Julius  Krohn
 planned  the  preparation  of  a  comparative  presentation  of  all
@@ -1167,18 +424,15 @@ garian,  with  some  additional  material,  by  the  Magyar  scholar
 A.  Ban.  Among  later  comparative  presentations  mention
 should  be  made  of  M.  Varonen’s  Ancestor-Worship  among  the
 Ancient  Finns ,  published  only  in  Finnish,  H.  Paasonen’s  Uber
-die  urspriinglichen  Seelenvorstellungen  bei  den  finnisch-ugri-
-schen  V  olkem  und  die  Benennung  der  Seele  in  ihren  Spracheny
-and  the  present  writer’s  Die  W as sergo ttheiten  der  finnisch-
-ugrischen  V biker.
+die  urspriinglichen  Seelenvorstellungen  bei  den  finnisch-ugrischen  V  olkem  und  die  Benennung  der  Seele  in  ihren  Spracheny
+and  the  present  writer’s  Die  W as sergo ttheiten  der  finnischugrischen  V biker.
 
 During  the  last  few  years,  the  publication  of  complete  de¬
 scriptions  of  the  religions  of  the  different  Finnish  stocks  has
 begun  at  the  initiative  of  Kaarle  Krohn.  Under  the  collabora¬
 tion  of  several  specialists,  the  following  volumes  have  already
 appeared  in  Finnish:  Kaarle  Krohn’s  Religion  of  the  Finnish
-Songs  (19 14-15),  the  present  writer’s  Religion  of  the  Per-
-mians  (1914),  Religion  of  the  Cheremiss  (1914),  and  Reli¬
+Songs  (19 14-15),  the  present  writer’s  Religion  of  the  Permians  (1914),  Religion  of  the  Cheremiss  (1914),  and  Reli¬
 gion  of  the  Lapps  (1915),  and  K.  F.  Karjalainen’s  Religion
 of  the  Ugrians  (1918).
 
@@ -1223,8 +477,7 @@ THE  BELIEF  of  the  Finno-Ugric  people  regarding  the
 soul  presents  a  very  primitive  concept.  According  to
 the  Lapps,  life  does  not  cease  altogether  at  death,  but  in  some
 form  continues  as  long  as  the  skeleton  remains,  an  example
-of  this  conviction  being  afforded,  for  instance,  by  their  bear-
-feast  j  and  in  like  manner  they  hold  that  the  gods  let  new
+of  this  conviction  being  afforded,  for  instance,  by  their  bearfeast  j  and  in  like  manner  they  hold  that  the  gods  let  new
 flesh  grow  on  the  sacrificial  victim’s  bones,  all  of  which  are
 preserved  with  great  care.1  Ir  we  may  draw  inferences  from
 the  sacrificial  ceremonies,  this  belief  was  formerly  general
@@ -1240,15 +493,8 @@ This  concept  is  likewise  found  in  the  cult  of  the  dead.  In
 his  account  of  the  burial  rites  of  the  Pite  Lapps  the  missionary
 Graan  records  that  for  several  years  after  the  death  of  any  of
 their  number  they  crumbled  barley  bread  into  small  bits  and
-strewed  it  on  the  graves  “  until  the  sinking  of  the  grave-
-mound  showed  that  the  body  had  decayed.”  3  Among  the
+strewed  it  on  the  graves  “  until  the  sinking  of  the  gravemound  showed  that  the  body  had  decayed.”  3  Among  the
 Ostiaks,  in  like  manner,  the  belief  has  been  found  that  after
-
-
-4
-
-
-FINNO-UGRIC  MYTHOLOGY
 
 
 the  body  has  decayed  the  dead  no  longer  survive.4  Even  at
@@ -1292,9 +538,6 @@ acquire  them  for  his  own  by  devouring  the  organs  containing
 THE  BELIEF  IN  SOULS
 
 
-5
-
-
 the  soul-qualities  of  another.  Gondatti  states  that  the  ancient
 Vogul  heroes  ate  the  hearts  and  livers  of  their  slain  enemies
 “  that  their  strength  might  be  transferred  to  their  own  bodies
@@ -1302,8 +545,7 @@ and  that  the  foe  might  never  again  be  able  to  rise  from  the
 dead.”  8  Beliefs  regarding  the  potencies  hidden  in  the  heart
 recur  in  a  Chronicle  of  889,  which  states  that  the  Hungarians
 cut  the  captives’  hearts  in  pieces  and  ate  them  as  some  sort
-of  remedy  j  and  to  this  day  the  sacrificial  priest  of  the  Cher-
-emiss  prays  God  to  protect  men  against  “  those  who  cut  out
+of  remedy  j  and  to  this  day  the  sacrificial  priest  of  the  Cheremiss  prays  God  to  protect  men  against  “  those  who  cut  out
 the  heart  and  the  liver.”  The  same  belief  was  doubtless  held
 by  the  forefathers  of  the  Finns,  for  among  their  Esthonian
 kinsmen  it  was  still  flourishing  in  the  thirteenth  century,  since
@@ -1331,12 +573,6 @@ is  deduced  the  magical  theory  of  pars  pro  toto  which  finds
 application  likewise  in  rites  of  sacrifice.
 
 In  close  relation  to  the  remains  of  the  deceased  stands  his
-
-
-6
-
-
-FINNO-UGRIC  MYTHOLOGY
 
 
 shape,  or  shadow,  which  can  occasionally  free  itself  from  the
@@ -1419,12 +655,6 @@ because  men  are  then  awake;  they  appear  only  at  night,  when
 men  are  asleep.  If  a  bat  approaches  any  one,  it  is  a  sign
 
 
-8
-
-
-FINNO-UGRIC  MYTHOLOGY
-
-
 that  it  is  in  reality  the  soul  of  some  kinsman  or  acquaintance  j
 and  the  old  man  just  mentioned  even  related  a  tradition  that
 the  bat  is,  as  a  matter  of  fact,  a  soul-bird.  “  A  man  went  to
@@ -1475,8 +705,7 @@ Votiak  child’s  father,  its  mother  said  to  it:  “His  soul  has
 come  in  the  form  of  a  butterfly.”  It  is  also  believed  that  the
 souls  of  the  departed  may  find  concealment  in  the  guise  of
 other  sorts  of  insects,  this  explaining  the  Cheremiss  custom
-that  whenever  many  caterpillars  begin  to  appear  in  the  grain-
-fields,  sacrifice  is  made  to  such  of  the  departed  as  have  died
+that  whenever  many  caterpillars  begin  to  appear  in  the  grainfields,  sacrifice  is  made  to  such  of  the  departed  as  have  died
 without  leaving  kinsfolk.  A  belief  in  soul-mice  among  this
 same  people  is  implied  by  a  similar  offering  which  is  given  if
 many  mice  begin  to  be  found  in  the  yard.19  According  to
@@ -1505,12 +734,6 @@ his  knife  into  such  an  eddy,  which,  with  the  knife,  immedi¬
 ately  vanished.  The  man  continued  on  his  journey  till  evening
 
 
-10
-
-
-FINNO-UGRIC  MYTHOLOGY
-
-
 came,  when  he  was  about  to  pass  the  night  in  a  hut  along  the
 road.  There,  to  his  amazement,  an  old  man  sat  with  a  knife
 in  his  cheek  $  whereupon  the  traveller  forthwith  recognized
@@ -1519,8 +742,7 @@ was  the  old  man  who  had  wandered  about  as  an  eddy  of  wind.
 The  soul  of  the  living  as  well  as  of  the  dead  can  likewise  fly
 around  as  a  u  fire-serpent,”  in  other  words,  as  a  meteor.  Ac¬
 cording  to  the  Cheremiss  its  course  can  be  stayed  by  tearing
-off  the  wristband  of  one’s  shirt  or  the  band  of  one’s  lime-
-bark  shoes,  or  by  splitting  a  wooden  pitch-fork,  together  with
+off  the  wristband  of  one’s  shirt  or  the  band  of  one’s  limebark  shoes,  or  by  splitting  a  wooden  pitch-fork,  together  with
 which  the  meteor  falls  to  the  ground  and  is  changed  back
 into  the  man  who  flew  about  as  the  “  fire-snake.”  In  Siryan
 belief  the  soul  ( ort )  of  the  departed  may  even  manifest  itself
@@ -1593,12 +815,6 @@ death.  Like  the  Haltia  the  “  fortune  ”  precedes  the  man  and
 announces  his  coming.  When  any  mischance  happened  on
 
 
-12
-
-
-FINNO-UGRIC  MYTHOLOGY
-
-
 the  road,  the  “  fortune  ”  warned  its  owner  as  he  returned
 homeward,  his  ears  beginning  to  ring,  or  his  eyes  or  nose  to
 itch,  etc.  The  Haltia  of  the  Finns  has  its  analogue  in  the
@@ -1641,8 +857,6 @@ Lapps  believed  that  they  could  cause  their  foe  himself  to
 THE  BELIEF  IN  SOULS
 
 
-13
-
 feel  pain.  In  the  notes  of  the  missionary  Randulf  we  read
 the  following  account:  “When  the  Lapp  wishes  to  injure  a
 man  with  whom  he  is  angry,  whether  he  dwells  close  by  or
@@ -1680,9 +894,6 @@ bothie  is  no  longer  “  happy,”  and  “  life  is  heavy  there”;
 while  no  “  soul  ”  is  found  in  a  deserted,  uninhabited  house.
 In  the  fantasy  of  the  Cheremiss  the  “  bothie-soul  (port-or t)
 cannot  assume  any  shape  whatsoever.  When  asked  what  he
-
-
-FINNO-UGRIC  MYTHOLOGY
 
 
 H
@@ -1767,9 +978,6 @@ That  the  giving  of  the  name  was  a  custom  of  immemorial
 1 6
 
 
-FINNO-UGRIC  MYTHOLOGY
-
-
 antiquity  among  the  Finno-Ugric  peoples  is  shown  by  the
 fact  that  the  word  for  “  name  ”  is  common  to  them  all,  so
 that  the  Finnish  term  nimi>  is  actually  used  also  in  Samoyed
@@ -1795,8 +1003,7 @@ enter  the  other  world.
 Immediately  the  “  breath  had  departed,”  the  Finns  opened
 the  smoke-outlets,  in  Russian  Karelia  the  boards  forming  the
 roof  of  their  chimneyless  houses  even  being  lifted  three
-times,  so  that  the  soul  might  quicker  fly  away.  The  Estho-
-nian  custom  was  to  open  the  doors.  If  a  wind  arose  while
+times,  so  that  the  soul  might  quicker  fly  away.  The  Esthonian  custom  was  to  open  the  doors.  If  a  wind  arose  while
 someone  lay  dying,  it  was  called  “  the  wind  of  the  dead.”  1
 The  Permian  peoples  believed  that  on  the  death  of  a  shaman,
 a  storm  was  sure  to  arise.2
@@ -1818,9 +1025,6 @@ first  at  the  gate,  as  they  follow  the  dead  to  its  grave,  and  they
 i8
 
 
-FINNO-UGRIC  MYTHOLOGY
-
-
 observe  whether  the  hen  remains  within  the  courtyard  or  flies
 headless  out  into  the  road.  The  former  is  accounted  a  sign
 that  a  new  death  will  soon  occur  in  the  house.  At  the  spot
@@ -1832,8 +1036,7 @@ say  that  the  hen  gathers  together  in  the  other  world  the
 nails  of  the  departed,  which  have  been  scattered  about  in  this.
 In  other  places,  it  is  the  custom  to  say  to  the  dead  at  the
 slaughtering:  “  Save  with  this  blood  thine  own  blood  from
-death!  ”  With  the  first  drops  of  the  hen’s  blood,  the  Chere-
-miss  paint  the  eyebrows  of  the  dead.  The  fowl  is  not  pre¬
+death!  ”  With  the  first  drops  of  the  hen’s  blood,  the  Cheremiss  paint  the  eyebrows  of  the  dead.  The  fowl  is  not  pre¬
 pared  for  food,  but  is  left  lying  on  the  road  for  dogs  to  feast
 on.5  A  later  custom  is  the  preparing  of  the  flesh  of  the
 fowl,  slaughtered  at  the  moment  of  death,  for  the  funeral
@@ -1855,8 +1058,7 @@ body  remains  soft  and  plastic,  the  washers  are  all  agreeable
 to  the  dead.  The  corpse  must  be  clad  in  clean  garments,  even
 down  to  its  underclothing.  The  Volga  Finns,  like  the  Baltic
 Finns,  accoutre  their  dead  as  for  a  long  journey.  A  hat  is
-placed  on  the  head  of  the  corpse  of  a  male,  and  clean  foot-
-wrappings  are  wrapped  round  its  feet,  which  are  fitted  with
+placed  on  the  head  of  the  corpse  of  a  male,  and  clean  footwrappings  are  wrapped  round  its  feet,  which  are  fitted  with
 
 
 DEATH  AND  BURIAL
@@ -1886,8 +1088,7 @@ In  addition  to  clothing  or  protective  swathings,  the  dead
 had  to  be  supplied  with  provisions  for  the  journey,  and  with
 money,  weapons,  and  all  kinds  of  implements  and  household
 articles.  Among  the  objects  laid  with  the  dead  may  be  men¬
-tioned  fire-tools,  bow  and  arrows,  an  axe,  a  knife,  fishing-
-gear,  skis,  a  sickle,  pots,  dishes,  wooden  spoons,  boats  and
+tioned  fire-tools,  bow  and  arrows,  an  axe,  a  knife,  fishinggear,  skis,  a  sickle,  pots,  dishes,  wooden  spoons,  boats  and
 vehicles,  etc.  The  corpse  was  supplied  with  everything  it  was
 supposed  to  need.  With  women,  distaffs,  pieces  of  cloth,
 scissors  and  needles  were  laid  j  with  children,  toys.  The  lame
@@ -1900,12 +1101,6 @@ some  places  among  the  Cheremiss  it  was  further  deemed
 necessary  to  place  a  rod  in  each  hand  of  the  corpse,  so  that  in
 the  underworld  it  could  protect  itself  against  attacking  hounds,
 serpents,  or  evil  spirits.
-
-
-20
-
-
-FINNO-UGRIC  MYTHOLOGY
 
 
 Among  the  articles  and  coins  laid  in  the  dead  man’s  coffin
@@ -1950,9 +1145,6 @@ protection  is  to  cover,  immediately  death  occurs,  the  eyes  and
 DEATH  AND  BURIAL
 
 
-21
-
-
 mouth  of  the  deceased.  To  prevent  the  dead  from  doing
 harm  to  its  own  with  its  glance  during  the  time  the  corpse  lies
 in  the  house,  the  Samoyeds  cover  its  eyes  with  copper-coins  or
@@ -1992,12 +1184,6 @@ befall  him.”  15  In  Russian  Lapmark  the  coffin  and  the  grave
 of  the  deceased  are  prepared  by  such  men  whose  womenfolk
 
 
-22
-
-
-FINNO-UGRIC  MYTHOLOGY
-
-
 are  not  pregnant,  or  have  ceased  to  suckle  their  children;
 otherwise,  the  child  might  be  smitten  with  a  mortal  illness.16
 A  further  very  widely  spread  custom  was  that  no  one,  often
@@ -2007,8 +1193,7 @@ one  had  to  be  prepared,  if  necessary,  to  serve  the  dead.
 According  to  the  Samoyedic  idea,  it  is  extremely  reprehen¬
 sible  to  go  hunting  or  fishing  during  a  similar  period;  they
 forbid  even  the  crossing  of  a  stream.17  Among  the  Esto¬
-nians  it  is  strictly  forbidden  to  chop  wood,  to  heat  the  bath-
-house,  to  wash  clothes,  to  sweep  the  floor,  and  to  comb
+nians  it  is  strictly  forbidden  to  chop  wood,  to  heat  the  bathhouse,  to  wash  clothes,  to  sweep  the  floor,  and  to  comb
 one’s  hair  while  the  body  is  in  the  house.  Neither  is  it  suit¬
 able  to  visit  friends  or  to  receive  visitors.  Even  to  sell,  or
 give  away  anything  from  the  house  is  forbidden  during  this
@@ -2038,9 +1223,6 @@ might  be  expected  soon  after.20  The  Ostiaks  removed  their
 
 
 DEATH  AND  BURIAL
-
-
-23
 
 
 dead  through  the  windows.21  The  Votiaks  attempt  to  deceive
@@ -2080,11 +1262,6 @@ by  the  belief  that  the  relatives  of  the  dead  man  who  have  died
 earlier  come  to  take  him  away.  The  Lapps  declare  that  they
 have  actually  seen  these  with  their  own  eyes  in  the  twilight.
 
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-24
 
 Generally,  however,  these  spirits  of  dead  relatives  are  in¬
 visible  to  human  beings,  but  animals  can  see  them.30
@@ -2129,8 +1306,6 @@ The  sleigh,  or  carriage,  in  which  the  corpse  is  transported,
 DEATH  AND  BURIAL
 
 
-25
-
 is  either  left  at  the  cemetery,  or  must  stand  for  at  least  three
 days  in  the  village  street  before  it  can  be  used  again.38
 
@@ -2143,8 +1318,7 @@ realize  that  his  old  home  is  still  far  away,  and  so  return  to
 his  grave.”  39
 
 About  half-way  between  the  cemetery  and  a  village,  one
-sees  very  often  among  the  Volga  Finns,  a  place  by  the  way-
-side  where  all  kinds  of  objects,  clothes,  etc.,  have  been  placed
+sees  very  often  among  the  Volga  Finns,  a  place  by  the  wayside  where  all  kinds  of  objects,  clothes,  etc.,  have  been  placed
 on  the  ground  or  hung  up  in  the  trees.  To  this  place  the
 clothes  worn  by  the  deceased  at  his  death,  the  bark-sponge
 used  in  washing  him,  the  shavings  from  his  coffin,  and  ob¬
@@ -2154,8 +1328,7 @@ shavings  gathered  after  the  making  of  the  coffin  the  deceased
 would  break  out  in  blisters  or  an  eruption  on  his  face.  At
 these  widely-feared  places,  the  Votiaks  sacrifice  at  times  of
 serious  illness.  Also  after  certain  memorial-feasts  held  at
-home,  the  bones  of  the  sacrificed  animal  are  taken  to  the  above-
-mentioned  place,  where  they  are  hung  up  in  the  trees.  Thus,
+home,  the  bones  of  the  sacrificed  animal  are  taken  to  the  abovementioned  place,  where  they  are  hung  up  in  the  trees.  Thus,
 in  some  districts,  sacrificial  gifts  have  been  laid  down  at  this
 place  instead  of  at  the  cemetery,  where  they  really  should  be,
 and  in  many  places  even  to  this  day,  are  laid.  In  the  District
@@ -2172,9 +1345,6 @@ cross  would  be  carved  on  the  tree  together  with  the  initials  of
 
 
 2  6
-
-
-FINNO-UGRIC  MYTHOLOGY
 
 
 the  dead,  and  sometimes  also  the  year  of  death.  Or  these
@@ -2237,9 +1407,6 @@ p
 DEATH  AND  BURIAL
 
 
-27
-
-
 of  mourning.  The  Ostiaks  regard  it  as  not  correct  for  the
 relatives  to  go  barefooted  during  the  first  week  after  a  death.
 According  to  another  report,  Ostiak  women  wear  their  linen  and
@@ -2277,12 +1444,6 @@ general.  The  “  weeping  ”  at  the  grave  is,  however,  ap¬
 parently  of  older  origin.  In  an  old  source  it  is  written  of
 the  Voguls:  “They  wail  and  cry  greatly  after  the  dead.”
 The  Ostiaks  customarily  use  the  relatives  of  the  dead  as
-
-
-28
-
-
-FINNO-UGRIC  MYTHOLOGY
 
 
 “  weepers.”  The  dead  man  is  praised  very  greatly  at  the
@@ -2327,13 +1488,9 @@ of  boards ;  at  each  side  the  Karelians,  Volga  Finns,  etc.,  make
 DEATH  AND  BURIAL
 
 
-29
-
-
 a  little  square  hole,  the  “  window,”  “  through  which  light
 reaches  to  the  house  of  the  dead,”  and  “  through  which  they
-can  observe  what  happens  around  them.”  When  the  Chere-
-miss  makes  the  coffin,  he  says:  “  Now  do  I  make  thee  a
+can  observe  what  happens  around  them.”  When  the  Cheremiss  makes  the  coffin,  he  says:  “  Now  do  I  make  thee  a
 house,  be  not  angry  if  it  please  thee  not.”  53
 
 When  the  Cheremiss  lift  the  corpse  into  the  coffin,  they
@@ -2368,12 +1525,6 @@ of  the  coffin,  with  the  remark:  “  Take  not  the  house,  the
 cattle,  the  seed,  the  fortune  with  thee;  leave  thy  luck  with
 us!  55  56  The  Eastern  Votiaks  have  a  custom  according  to
 which  one  of  the  relatives  of  the  dead  tears  a  white  cloth,
-
-
-30
-
-
-FINNO-UGRIC  MYTHOLOGY
 
 
 which  he  has  brought  with  him  to  the  cemetery,  into  two
@@ -2438,13 +1589,11 @@ dead  is  intended  to  be  laid  on  its  back.  As  a  roof  to  this
 “  house,”  in  one  side-wall  of  which  a  window  is  introduced,
 two  boards  are  used.61  Formerly  and  in  many  places  at  the
 present  time,  especially  dur¬
-ing  the  winter,  the  Sam-
-oyeds  and  the  most  North¬
+ing  the  winter,  the  Samoyeds  and  the  most  North¬
 ern  Ostiaks  had  a  custom
 according  to  which  the  dead
 were  not  buried  in  the
-earth,  but  in  a  dwelling-
-place  erected  over  the
+earth,  but  in  a  dwellingplace  erected  over  the
 ground.  Among  the  Os¬
 tiaks  and  Voguls  a  tomb  of
 this  description  built  over
@@ -2453,8 +1602,7 @@ little  low  house.  The  roof,  sloping  on  both  sides,  is  made
 of  birch-bark  and  narrow  logs;  often  this  house  of  the  dead  is
 furnished  with  a  window.62  Among  the  Lapps  burial-houses
 are  also  found,  the  roofs  of  which  rise  above  the  ground;
-the  dead  being  bedded  in  them  on  a  layer  of  moss,  reindeer-
-hair,  etc.63
+the  dead  being  bedded  in  them  on  a  layer  of  moss,  reindeerhair,  etc.63
 
 A  further  relic  of  the  times  when  the  above-mentioned  cus-
 
@@ -2462,11 +1610,6 @@ A  further  relic  of  the  times  when  the  above-mentioned  cus-
 Fig.  i.  Ostiak  Grave-house  with
 Coffin  of  the  Deceased
 
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-32
 
 tom  of  burial  over  the  ground  was  prevalent  among  the  Finno-
 Ugric  peoples,  is  the  custom,  met  with  among  the  Finns  in  Ka¬
@@ -2510,9 +1653,6 @@ they  held  regarding  the  world  of  the  dead,  and  especially  of
 DEATH  AND  BURIAL
 
 
-33
-
-
 the  journey  there  over  water.  It  is  argued  against  this  by
 Karjalainen,  that  the  belief  in  a  land  of  the  dead  to  be  reached
 over  water  is  not  an  original  belief  of  the  Ugrians.  According
@@ -2535,8 +1675,6 @@ to  bury  their  dead  in  this  way:  laying  sods  of  earth  and
 stumps  of  trees  around  them,  as  a  protection  against  beasts  of
 prey.  It  is  even  related  that  the  dead,  on  occasion,  have  been
 
-
-34  FINNO-UGRIC  MYTHOLOGY
 
 buried  in  a  sitting  position  in  a  sleigh  to  which  a  reindeer  was
 harnessed.68
@@ -2581,9 +1719,6 @@ no  reliable  proofs  exist  concerning  the  cremation  of  the  dead
 DEATH  AND  BURIAL
 
 
-35
-
-
 among  the  Finno-Ugric  stocks,  except  in  those  branches,  which
 continuously,  and  for  the  longest  period,  have  been  under
 Germanic  influence,  we  may  conclude  that  the  burning  of
@@ -2592,8 +1727,7 @@ of  the  Finno-Ugrians,  and,  where  it  may  occasionally  be  found
 among  them,  is  merely  in  the  nature  of  a  temporary  loan  from
 other  peoples.”  71
 
-The  Finno-Ugric  peoples  bury  their  dead  in  certain  burial-
-areas,  which,  among  the  agricultural  tribes,  are  often  fenced
+The  Finno-Ugric  peoples  bury  their  dead  in  certain  burialareas,  which,  among  the  agricultural  tribes,  are  often  fenced
 in.  Every  village  has  its  own  cemetery,  or  several  villages
 lying  closely  together  may  have  a  common  one.  This  comes
 from  the  fact  that  from  the  original  mother-village,  newer
@@ -2602,8 +1736,7 @@ of  which  continue  to  use  the  burial-area  of  the  original  village.
 In  the  same  way  as  the  old  villages  were  family-villages,  the
 old  cemeteries  were  family-cemeteries.  That  it  was  not  the
 custom  to  bury  strangers  in  them  is  shown,  among  other  proofs,
-by  the  custom  of  the  Votiaks,  who  besides  their  village-
-cemetery,  sometimes  have  a  special  one,  often  situated  by  the
+by  the  custom  of  the  Votiaks,  who  besides  their  villagecemetery,  sometimes  have  a  special  one,  often  situated  by  the
 main  road,  for  the  burial  of  wandering  strangers,  stricken  by
 death  during  their  sojourn  in  the  village.72
 
@@ -2623,18 +1756,14 @@ longer  knows.  Some  say  the  cuckoo  sounds  its  note  for  the
 edification  of  the  dead.  Certain  Siberian  tribes  have  also  a
 
 
-36  FINNO-UGRIC  MYTHOLOGY
-
 custom  of  setting  up  figures  of  birds  on  the  graves  of  their
 dead.
 
 Whether  the  use  of  special  cemeteries  had  its  origin  already
 in  Finno-Ugric  times  is  doubtful.  According  to  tradition,  the
-Lapps,  in  their  earlier  periods,  did  not  possess  special  burial-
-places,  because  their  dead  were  buried  at  any  spot.  In  the
+Lapps,  in  their  earlier  periods,  did  not  possess  special  burialplaces,  because  their  dead  were  buried  at  any  spot.  In  the
 summer,  when  it  is  extremely  difficult,  and  even,  at  times,
-impossible,  to  transport  the  corpses  to  the  remote  burial-
-places,  the  Lapps  have  to  our  day  buried  their  dead  in  the
+impossible,  to  transport  the  corpses  to  the  remote  burialplaces,  the  Lapps  have  to  our  day  buried  their  dead  in  the
 forests  and  on  the  uplands,  wherever  they  happened  to  be
 dwelling,  and  then  with  the  arrival  of  winter  removed  them
 to  the  churchyard.75
@@ -2699,11 +1828,6 @@ intoxicated,  they  began  to  praise  the  dead  man,  saying  that  he
 was  shrewd  and  strong,  that  he  was  an  able  forester,  that  he
 
 
-FINNO-UGRIC  MYTHOLOGY
-
-
-38
-
 understood  well  his  wife  and  children,  that  he  was  a  mighty
 shaman,  etc.2  This  wetting  of  the  fingers  and  smearing  of
 the  face  can  be  traced  to  a  corresponding  custom  among  the
@@ -2747,9 +1871,6 @@ If  sacrifices  were  not  made  to  the  dead  man,  the  Lapps
 MEMORIAL  FEASTS
 
 
-39
-
-
 believed  that  they  would  be  punished  with  poverty.  Accord¬
 ing  to  Lundius,  the  Lapps  believe  that  their  reindeer,  be  they
 many  or  few  in  number,  “  will  die  after  their  master,  as  they
@@ -2791,12 +1912,6 @@ According  to  Pallas,  the  Ugrians  of  the  North  take  to  the
 graveyard  three  of  the  best  reindeer  of  the  deceased  on  the
 
 
-40
-
-
-FINNO-UGRIC  MYTHOLOGY
-
-
 sleighs  which  follow  that  on  which  the  corpse  lies.  Having
 placed  the  body  in  the  grave,  they  tie  a  strap  to  each  of  a
 reindeer’s  hindlegs,  two  men  seize  the  straps  and  four  others
@@ -2814,8 +1929,7 @@ custom  the  best-beloved  reindeer  of  the  deceased  is  killed,  the
 meat  being  eaten,  and  the  bones  and  horns,  together  with  the
 sleigh  and  harness,  are  placed  on  the  grave.14
 
-The  funeral  feast  of  the  North  Voguls  is  described  by  Gon-
-datti.  Immediately  after  burying  the  dead,  they  cook  some
+The  funeral  feast  of  the  North  Voguls  is  described  by  Gondatti.  Immediately  after  burying  the  dead,  they  cook  some
 kind  of  cereal  or  meat-dish,  which  they  then  pour  out  against
 the  coffin.  The  bottom  of  the  pan  is  knocked  out,  after  which
 it  is  left  by  the  grave.  If  the  deceased  has  been  conveyed  by
@@ -2826,8 +1940,7 @@ placed  by  the  dead  man.15
 Like  the  Lapps,  the  Ugrians  frequently  remember  their
 dead,  especially  during  the  first  period  of  their  life  in  Hades.
 In  most  districts,  however,  they  have  no  fixed  memorial  days,
-but  settle  these  according  to  agreement  with  relations.  Kar-
-jalainen  says  that  the  Northern  Ugrians  celebrate  memorial
+but  settle  these  according  to  agreement  with  relations.  Karjalainen  says  that  the  Northern  Ugrians  celebrate  memorial
 feasts  in  honour  of  a  dead  man  for  fifty  days,  and  of  a  dead
 woman,  for  forty.  The  ceremonies  are  very  simple:  —  they
 cook  some  food,  and,  having  kept  it  at  the  grave  for  a  while,
@@ -2881,12 +1994,6 @@ the  earth,  exhibiting  her  sorrow  by  weeping  and  wailing.”  19
 Castren  and  Pallas  relate  that  memorial  dolls  of  this  descrip-
 
 
-42
-
-
-FINNO-UGRIC  MYTHOLOGY
-
-
 tion  were  made  to  represent  persons  who  had  been  in  some
 way  important.  The  image  was  kept  in  the  tent  of  the  de¬
 ceased  and  was  shown  the  same  honours  as  its  precursor.  It
@@ -2910,8 +2017,7 @@ dolls  noticed  by  Finsch  were  plainly  such  as  had  been  taken
 to  the  graveyard  at  the  end  of  the  memorial-time  and  placed
 in  the  grave-house.21
 
-The  memorial  doll  is  also  to  be  found  among  some  Sa-
-moyed  tribes,  though  the  custom  of  making  images  of  shamans
+The  memorial  doll  is  also  to  be  found  among  some  Samoyed  tribes,  though  the  custom  of  making  images  of  shamans
 seems  here  to  be  more  widely  spread.  According  to  Lehtisalo,
 the  Yuraks  make  a  wooden  image  of  the  “shadow”  of  the
 shaman,  which  resembles  a  reindeer-bull.  This  image  is  kept
@@ -2928,8 +2034,6 @@ from  a  usage  retained  among  the  Southern  Ostiaks  and  Voguls.
 
 MEMORIAL  FEASTS
 
-
-43
 
 Among  the  latter,  the  linen  and  bed-clothes  of  the  deceased
 are  kept  unwashed  in  his  bed,  among  the  former  generally
@@ -2968,11 +2072,6 @@ Like  the  Chuvashes,  the  Volga  Finns  celebrate  memorial
 feasts  in  honour  of  some  particular  person  on  the  funeral
 day,  and  also  on  the  third,  the  seventh  and  the  fortieth  day
 
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-44
 
 after  death.  In  some  districts,  the  anniversary  is  also  cele¬
 brated.  These  memorial  feasts  are  often  celebrated  late  at.
@@ -3016,9 +2115,6 @@ the  trough  pieces  of  meat  are  thrown  and  some  gravy  poured
 MEMORIAL  FEASTS
 
 
-45
-
-
 when  the  names  of  the  dead  are  mentioned,  with  an  appeal  to
 them  to  eat  and  drink  and  to  receive  the  lately  deceased  with
 a  contented  mind  into  their  company.29  Such  customs  are
@@ -3057,9 +2153,6 @@ the  dead  do  not  agree  among  themselves.
 
 For  the  earlier  deceased  relations,  who  have  arrived  to  meet
 the  newly  deceased,  there  has  thus  been  placed  a  dish  of  food
-
-
-FINNO-UGRIC  MYTHOLOGY
 
 
 4  6
@@ -3107,8 +2200,6 @@ fee  for  the  burial  ceremony.  The  Esthonians  were  in  the
 MEMORIAL  FEASTS
 
 
-47
-
 habit  of  taking  an  ox  to  the  clergyman  after  the  death  of  the
 host,  and  a  cow  after  that  of  the  hostess.  Sometimes  the
 clergyman  was  expected  to  prepare  a  meal  of  these  for  the  fu¬
@@ -3148,11 +2239,6 @@ vessel,  everyone  utters  a  few  words  of  remembrance,  pointing
 out  that  it  is  now  the  seventh  day  of  the  memorial  feast.  In
 other  places  the  seventh  day  is  kept  almost  as  solemnly  as
 
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-48
 
 the  fortieth.  The  participants  in  the  ceremony  go  to  the  grave
 with  two  horses  to  invite  the  deceased ;  they  kill  a  hen  for
@@ -3197,8 +2283,6 @@ seem  to  have  borrowed  it.
 MEMORIAL  FEASTS
 
 
-49
-
 As  the  forty-days’  memorial  feast  is  at  the  same  time  a  fare¬
 well  feast,  it  has  attained  a  particular  significance  and  is  cele¬
 brated  more  solemnly  than  the  others.  Among  all  the  Volga
@@ -3235,11 +2319,6 @@ mothers  of  the  family ;  even  the  ruler  of  the  lower  world  is
 invited  to  the  feast.  When  about  to  start,  they  place  a  soft
 cushion  in  the  waggon  for  the  deceased  to  sit  on.  Having
 
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-50
 
 regaled  the  dead  man  in  every  way  and  tasted  of  the  food
 themselves,  they  ask  him  to  get  into  the  waggon.  The  de¬
@@ -3324,11 +2403,6 @@ him,  further,  to  make  the  corn  grow,  to  ward  off  insects  from
 the  fields,  mice  from  the  store-house,  etc.
 
 
-FINNO-UGRIC  MYTHOLOGY
-
-
-52
-
 At  midnight  the  living,  at  least,  begin  to  feel  that  they  have
 had  enough.  They  are  all  in*  good  humour,  the  gin-goblets
 have  been  emptied  every  now  and  then,  and  also  the  “  stoop  ”
@@ -3371,8 +2445,6 @@ languid  people  then  bestir  themselves,  as  before  sunrise  the
 MEMORIAL  FEASTS
 
 
-53
-
 dead  man  must  be  conveyed  with  all  honours  to  the  peace  of
 the  grave.  But  first  a  prayer  is  said,  all  kneeling  and  turning
 their  faces  in  the  direction  of  the  seat  of  the  deceased.  He
@@ -3385,8 +2457,7 @@ wishes:  “  May  you  have  bread  and  salt  over  there  in  abun¬
 dance,  do  not  go  away  from  us  hungry  and  thirsty,  be  rich
 and  happy,  walk  in  light,  help  us  too,  to  live,  do  not  frighten
 us,  do  not  forget  our  cattle  and  do  not  disperse  our  family.”
-Then  one  of  them  takes  the  taper-stand,  another  the  food-
-trough,  a  third  the  drinking-vessel,  and  the  others,  with  the
+Then  one  of  them  takes  the  taper-stand,  another  the  foodtrough,  a  third  the  drinking-vessel,  and  the  others,  with  the
 widow  at  their  head,  carry  the  dead  man’s  clothes,  and  thus
 they  go  out  into  the  yard,  the  “  representative  ”  being  the
 foremost.  From  the  yard  they  step  out  into  the  village
@@ -3409,12 +2480,6 @@ and  a  cow,  if  a  woman.  During  the  feast  all  the  meat  must
 be  consumed,  as  it  is  not  right  to  reserve  festival  food  for  the
 next  day.  The  vessels  and  tapers  of  the  deceased  are  here
 placed  by  the  threshold.  When  sacrificing  to  the  deceased,
-
-
-54
-
-
-FINNO-UGRIC  MYTHOLOGY
 
 
 his  own  people  say:  “  In  thy  memory  have  we  prepared  meat
@@ -3458,8 +2523,6 @@ hands,  slaughtering  it  at  once.  The  meat  of  the  horse  is  then
 MEMORIAL  FEASTS
 
 
-55
-
 boiled  and  eaten,  but  the  hide  is  hung  over  the  grave  of  the
 dead  man.45
 
@@ -3497,11 +2560,6 @@ the  feast,  and,  at  that  of  a  male,  a  man,  who,  at  the  close
 of  the  feast  is  the  first  to  go  out  of  the  hut,  attended  by  the
 others  with  candles  in  their  hands,  for,  according  to  their
 
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-56
 
 ideas,  the  deceased  withdraws  from  the  hut  in  the  person  of
 his  deputy.  In  some  places  the  latter  is  accompanied  as  far
@@ -3548,7 +2606,6 @@ PLATE  IV
 
 
 At  the  Grave.  Ingermanland
-(See  page  56.)
 
 After  photograph  by  J.  Lukkarinen.
 
@@ -3562,9 +2619,6 @@ L
 
 
 MEMORIAL  FEASTS
-
-
-57
 
 
 According  to  one  report  the  Votiaks  believe  that  if  they  do
@@ -3606,11 +2660,6 @@ animal  which  the  deceased  liked  best  and  which  he  used  in  his
 lifetime,  is  generally  sacrificed  to  him.  All  his  relations  are
 invited,  these  alone  partaking  of  the  sacrificial  meal,  as  it  is
 
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-58
 
 against  custom  to  invite  strangers.  The  most  important  per¬
 formance  consists  of  the  taking  of  the  animal’s  bones  in  the
@@ -3676,7 +2725,6 @@ the  Eastern  Votiaks
 
 (Government  Permission)
 
-(See  page  56.)
 
 Water-colour  by  V.  Soldan-Brodfeldt.
 
@@ -3688,8 +2736,6 @@ r-  ■■ . y  ■  <r
 
 MEMORIAL  FEASTS
 
-
-59
 
 man,  saying:  “  Make  me  well  again.  Here  are  pancakes  and
 a  candle,  eat  and  do  not  touch  me  any  more.”  58  The  customs
@@ -3707,8 +2753,7 @@ BESIDES  memorial  feasts  in  honour  of  some  particular
 person,  general  ones  are  also  celebrated,  on  which  occa¬
 sion  all  the  deceased  belonging  to  the  family  are  remembered.
 Such  feasts  are  called  by  the  Cheremiss  “  taper-feasts,”  be¬
-cause  then,  as  at  memorial  feasts  in  general,  a  number  of  wax-
-tapers  are  lighted.  The  Volga  Finns  seem  to  have  two  sepa¬
+cause  then,  as  at  memorial  feasts  in  general,  a  number  of  waxtapers  are  lighted.  The  Volga  Finns  seem  to  have  two  sepa¬
 rate  memorial  feasts  each  year,  namely,  one  in  spring  at
 Easter-time,  and  another  in  autumn,  at  the  end  of  field-labour.
 
@@ -3718,8 +2763,7 @@ itself,  or  that  related  families  assemble  at  the  house  of  the
 head  of  a  greater  family,  to  celebrate  in  common  the  memory
 of  their  mutual  dead  relations.  At  times  even  the  whole  village,
 which  in  that  case  is  a  so-called  family-village,  will  celebrate
-in  common  the  memory  of  its  dead.  Nowadays  the  first-
-named  way  would  seem  to  be  most  in  use,  but  in  many  places,
+in  common  the  memory  of  its  dead.  Nowadays  the  firstnamed  way  would  seem  to  be  most  in  use,  but  in  many  places,
 even  up  to  our  days,  remainders  of  the  last-named  also  have
 survived.
 
@@ -3781,9 +2825,6 @@ the  cattle,  at  least  not  with  their  hands,  the  food  being  pushed
 6  2
 
 
-FINNO-UGRIC  MYTHOLOGY
-
-
 before  the  animals  with  their  feet.  In  some  parts  the  young
 people  are  warned  not  to  take  even  a  stick  or  a  distaff  into
 their  hands,  as  the  one  who  does  this  will  be  bitten  by  a  snake
@@ -3792,8 +2833,7 @@ still.  Food  must  be  set  forth  on  every  table,  and  it  is  even
 carried  to  the  bath-house,  where  the  dead  go  to  have  baths.
 During  the  feast,  they  place  on  a  bench  by  the  door  pancakes,
 pies,  bread,  cheese,  eggs,  etc.,  for  the  dead,  and,  in  addition  two
-empty  vessels,  on  whose  brim  they  fix  a  little  home-made  wax-
-taper  for  each  of  the  dead  relations  retained  in  memory.  On
+empty  vessels,  on  whose  brim  they  fix  a  little  home-made  waxtaper  for  each  of  the  dead  relations  retained  in  memory.  On
 the  bench  spoons  are  also  placed  for  the  invisible  hands  of
 the  spirits.  When  throwing  food  and  pouring  drink  into  the
 vessels  set  forth  for  the  dead,  the  Cheremiss  say:  “  Dead
@@ -3825,12 +2865,9 @@ a  shovel  or  a  spade,  and  some  ashes  from  the  hearth  and  draw
 GENERAL  MEMORIAL  FEASTS
 
 
-63
-
 a  ring  round  their  houses  to  protect  them  from  evil  spirits,
 who  at  this  time  are  abroad  everywhere.  When  going  to  bed,
-they  burn  juniper  in  the  hut,  and  shut  the  windows,  the  smoke-
-hole  and  the  openings  under  the  floor,  lest  the  spirits  should
+they  burn  juniper  in  the  hut,  and  shut  the  windows,  the  smokehole  and  the  openings  under  the  floor,  lest  the  spirits  should
 get  in.  In  some  places  the  young  men  sit  armed  all  night  on
 the  roof  of  the  hut  or  the  store-house  to  watch  for  these.
 The  spirits  generally  appear  in  the  shape  of  a  cat  or  a  dog,
@@ -3865,9 +2902,6 @@ the  family  sat  down  to  eat.5
 
 According  to  a  general  belief  among  the  Baltic  Finns,  the
 dead  move  about  in  autumn.  The  month  of  October  is  called
-
-
-FINNO-UGRIC  MYTHOLOGY
 
 
 6  4
@@ -3913,8 +2947,6 @@ drink  had  also  been  placed  there.  The  host  waited  on  these
 GENERAL  MEMORIAL  FEASTS
 
 
-65
-
 guests  at  certain  fixed  times,  and  finally,  on  the  evening  of
 the  following  day,  All  Souls’  Day,  late  and  in  the  dark,  with
 bared  head,  and  pouring  on  the  ground  some  beer  and  brandy,
@@ -3952,12 +2984,6 @@ was  burnt  up  during  the  baking,  would  die  before  the  next
 Kekri-feast.  When  the  loaves  were  taken  out  of  the  oven,
 the  master  of  the  house  cut  a  piece  from  one  and  let  it
 fall  on  the  table.  If  the  piece  happened  to  fall  with  the
-
-
-66
-
-
-FINNO-UGRIC  MYTHOLOGY
 
 
 crust  downwards,  life  would  go  well  during  the  year;  other¬
@@ -4043,12 +3069,6 @@ was  made  to  a  spirit  called  Ruotta,  “  to  prevent  it  from  pierc¬
 ing  the  womb  of  the  women.”  12
 
 
-68
-
-
-FINNO-UGRIC  MYTHOLOGY
-
-
 This  sailing-boat  sacrifice  among  the  customs  of  the  Lapps,
 cannot  fail  to  attract  attention,  as  the  Lapps  themselves  did
 not  use  sailing-boats.  With  reason  does  Fritzner  therefore
@@ -4056,8 +3076,7 @@ compare  the  “  Christmas  people  ”  of  the  Lapps,  who  are  fur¬
 thermore  worshipped  in  connection  with  a  foreign  feast,  with
 the  Icelanders’  Jolasveinar,  who  were  also  believed  to  move
 about  at  Christmas.13  Remains  of  this  belief  are  met  with  still
-in  our  days  everywhere  in  Scandinavia.  In  Lapland  the  above-
-named  custom  of  sacrificing  is  limited  to  the  Lapps  of  Scan¬
+in  our  days  everywhere  in  Scandinavia.  In  Lapland  the  abovenamed  custom  of  sacrificing  is  limited  to  the  Lapps  of  Scan¬
 dinavia.
 
 A  common  feast  in  honour  of  the  deceased,  celebrated  at  a
@@ -4112,8 +3131,7 @@ time  the  old  people  have  started  for  the  burial-ground,  where
 a  black  ox  is  to  be  sacrificed  to  the  Utumo.  The  killing,  the
 cooking  of  the  sacrifice-meat,  and  the  eating  of  it  take  place
 by  the  burial-ground,  outside  its  enclosure.  Having  marched
-or  driven  round  all  the  corn-fields  of  the  village,  the  wedding-
-procession  also  arrives  at  the  graveyard.  Thinking  of  the
+or  driven  round  all  the  corn-fields  of  the  village,  the  weddingprocession  also  arrives  at  the  graveyard.  Thinking  of  the
 Utumo,  everyone  places  a  wax-taper  on  the  fence.  A  prayer
 noted  down  by  the  author  in  the  District  of  Birsk  runs  thus:
 “Utum  man,  Utum  woman,  protect  our  fields  from  larvae,
@@ -4128,20 +3146,13 @@ in  this  way:  —  a  bast-rope  is  wound  by  the  old  people  of  the
 village  round  the  tree  dedicated  to  the  Utumo  in  the  grave-
 
 
-FINNO-UGRIC  MYTHOLOGY
-
-
-70
-
 yard.  If  the  rope  is  wound  one,  three,  five  or  seven  times
 round  the  tree,  this  means  that  the  sacrifice  will  be  per¬
 formed  after  so  many  years.  The  number  must  always  be  an
 odd  one.  The  old  promise-rope  is  not  burnt  till  the  sacrifice
-is  performed.  On  account  of  its  similarity  with  the  wedding-
-ceremonies,  this  memorial  feast  is  called  “  Utum-wedding.”
+is  performed.  On  account  of  its  similarity  with  the  weddingceremonies,  this  memorial  feast  is  called  “  Utum-wedding.”
 
-At  times  a  single  family  must  also  perform  an  Utum-sacri-
-fice.  If  there  are  many  mice  in  the  store-house,  it  is,  accord¬
+At  times  a  single  family  must  also  perform  an  Utum-sacrifice.  If  there  are  many  mice  in  the  store-house,  it  is,  accord¬
 ing  to  the  Cheremiss,  a  sign  that  the  Utumo  claim  a  memorial
 feast.  It  is  generally  not  celebrated  at  once,  but  the  father
 of  the  family  goes  to  the  forest  and  hunts  up  as  large  a  piece
@@ -4192,8 +3203,7 @@ upon  the  shamans,  whose  duty  it  is  to  instruct  the  others  and
 educate  them  by  a  wise  discipline.  They  speak  the  Lapp
 tongue  with  them,  as  this  language  is  the  best  of  all,  and  warn
 them  not  to  speak  any  other  language  than  that  spoken  by
-their  gods,  which  was  created  by  their  first  shamans,  the  spirit-
-folk,  and  other  ancient  beings.  This  they  must  do,  if  they
+their  gods,  which  was  created  by  their  first  shamans,  the  spiritfolk,  and  other  ancient  beings.  This  they  must  do,  if  they
 wish  to  live  long  and  happily,  to  have  success  in  their  trades,
 and  to  keep  themselves  and  their  cattle  in  good  health.”  17
 
@@ -4236,8 +3246,6 @@ flow  in  opposite  directions.  The  tops  of  trees  there  grow
 THE  LIFE  BEYOND
 
 
-73
-
 downward  j  the  sun  rises  in  the  west  and  sets  in  the  east.  The
 life  of  those  over  there  runs  also  contrary  to  ours;  they  be¬
 come  younger  and  grow  smaller  with  the  years,  until  they
@@ -4276,11 +3284,6 @@ belief,  is  forced  to  dwell  where  the  body  lies,  or  at  any  rate
 in  its  immediate  neighbourhood,  and  is  therefore  prevented
 from  joining  its  relatives.  When  such  a  death  occurs,  certain
 
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-74
 
 tribes,  including  the  Voguls,  perform  a  mock  burial  to  entice
 the  dead  to  the  burial-place  of  its  home.10
@@ -4324,8 +3327,6 @@ idea  5  from  these  it  has  reached  the  Volga  Finns.  The  Chere-
 THE  LIFE  BEYOND
 
 
-75
-
 miss  believe  that  the  poor  dead,  in  order  to  reach  “  the  place
 of  light,”  must  travel  slowly  along  a  narrow  pole  over  “  the
 place  of  darkness,”  also  called  the  “  resin-cauldron,”  as  there
@@ -4340,20 +3341,17 @@ A  more  widely-spread  idea  in  Finnish  folk-poetry  is,  how¬
 ever,  that  the  dead  are  transported  over  the  river  of  Tuonela
 in  a  boat.  In  one  song,  it  is  related  that,  when  Wainamoinen
 was  on  his  way  to  the  underworld,  the  daughter  of  Tuoni  came
-with  a  boat  and  ferried  him,  over  the  river.  Among  the  folk-
-beliefs  the  view  is  expressed  that  the  evil  one  makes  a  boat
+with  a  boat  and  ferried  him,  over  the  river.  Among  the  folkbeliefs  the  view  is  expressed  that  the  evil  one  makes  a  boat
 out  of  finger-nails  clipped  on  Sundays,  in  which  he  carries
 the  dead  off  with  him  to  his  own  place.  An  identical  boat
 was  called  the  “  corpse-boat  ”  by  the  Icelanders.  Doubtless
 all  these  beliefs  about  the  crossing  of  a  river  of  death  in  a
-boat  are  derived  from  Greek  mythology.  The  furiously-
-barking  Manalan-rakki  (“the  underworld’s  hound”)  re¬
+boat  are  derived  from  Greek  mythology.  The  furiouslybarking  Manalan-rakki  (“the  underworld’s  hound”)  re¬
 minds  one  of  the  Greek  Cerberos.  To  the  mediaeval  ideas
 belong  also  Tuonen-portti  (“  the  underworld’s  gate  ”)  which
 corresponds  to  the  Helgrindr  in  Icelandic  poetry.
 
-The  common  dwelling-place  of  the  dead  is  called  Yabme-
-aimo  (“  the  home  of  the  dead  ”)  by  the  Scandinavian  Lapps,
+The  common  dwelling-place  of  the  dead  is  called  Yabmeaimo  (“  the  home  of  the  dead  ”)  by  the  Scandinavian  Lapps,
 and  is  governed  by  Yabme-akka  (“  Old  woman  of  the  dead  ”).
 The  Lapps  sacrifice  to  her,  and  to  the  dead  in  general,  black
 animals,  which  must  be  buried  alive  in  the  earth.  The  most
@@ -4364,11 +3362,6 @@ Heaven  (Radien-aimo,  the  “  Ruler’s  home  ”)  or  to  the
 “  gloomy  ”  Rut-aimo  or  Ruta-aimo,  where  the  evil  Rutu  or
 Rota  tortured  the  dead.  This  Rutu  was  not  originally  re-
 
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-76
 
 garded  as  a  devil,  as  it  was  often  the  custom  to  make  offerings
 to  him,  especially  during  epidemics.  The  sacrificial  animal
@@ -4411,8 +3404,6 @@ his  soul  was  at  the  moment  visiting.16  After  death,  the  Lapps
 THE  LIFE  BEYOND
 
 
-77
-
 hoped  they  would  be  received  into  the  mountain,  the  inmates
 of  which  had  protected  them  most  during  life.  “  There  they
 became  spirits  themselves,  and  could  keep  death  away  from
@@ -4446,16 +3437,10 @@ of  the  River  Ob  flow  into  the  sea.  Arrived  at  the  entrance,
 the  road  divides  itself  into  three  branches,  at  the  mouth  of
 each  of  which  are  signposts,  telling  which  way,  according  to
 the  deeds  done  in  life,  each  soul  must  take.  The  ruler  of
-the  land  of  the  dead,  who  is  greatly  feared,  is  called  Khul-
-ater  (“  the  Ruler  of  the  dead”).  In  the  same  place  is  situ¬
+the  land  of  the  dead,  who  is  greatly  feared,  is  called  Khulater  (“  the  Ruler  of  the  dead”).  In  the  same  place  is  situ¬
 ated  the  underworld  of  the  Northern  Ostiaks,  in  which  there
 are  three  storeys ;  in  the  lowest,  said  to  be  of  the  height  of  a
 
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-78
 
 dog’s  tail,  live  those  who  have  sinned  most.  The  journey
 to  the  “  world  of  the  dead”  appears  to  be  across  water j  songs
@@ -4485,8 +3470,7 @@ Lebermeer  of  the  mediaeval  German  sagas)  and  believed  it
 to  be  a  gathering-place  for  sorcerers,  witches,  etc.  As  in
 Tuonela,  so  also,  according  to  Finnish  folk-poetry,  in  Pohjola
 flowed  a  gloomy  river  ,  both  names  occurring  in  the  same  song,
-and  meaning,  obviously,  one  and  the  same  place.  This  death-
-river  is  also  envisaged  as  a  turbulent  rapid,  and  is  then  gen¬
+and  meaning,  obviously,  one  and  the  same  place.  This  deathriver  is  also  envisaged  as  a  turbulent  rapid,  and  is  then  gen¬
 erally  called  Rutja’s  or  Turja’s  rapids,  the  name  of  the  place
 denoting  a  mystic  neighbourhood  far  away  in  the  north.  From
 the  songs  themselves  it  would  appear  that  this  “  awful  stream,”
@@ -4496,9 +3480,6 @@ being  therefore  of  the  nature  of  a  vortex,  has  its  origin  in
 
 
 THE  LIFE  BEYOND
-
-
-79
 
 
 the  idea  of  the  Maelstrom.  Sometimes  these  “  rapids  55  are
@@ -4540,9 +3521,6 @@ After  that  come  very  wide  bubbling  marshes:  “Hadst  thou
 
 
 8o
-
-
-FINNO-UGRIC  MYTHOLOGY
 
 
 during  life  redeemed  ‘  the  guide  over  the  marsh  5  ?  ”  In  the
@@ -4587,9 +3565,6 @@ natural  death  at  home  go  downward.”  In  the  same  manner,
 THE  LIFE  BEYOND
 
 
-81
-
-
 Strahlenberg  relates:  “  those  who  meet  with  a  violent  death  or
 are  killed  in  a  fight  with  the  bear,  go  immediately  to  heaven,
 but  those  dying  a  natural  death  in  their  beds  or  elsewhere
@@ -4629,12 +3604,6 @@ killed  without  sickness  ”  and  where  the  inhabitants  are
 said  to  have  “  blood-dripping  garments.”  27  In  a  variation
 
 
-82
-
-
-FINNO-UGRIC  MYTHOLOGY
-
-
 on  the  “  song  of  the  Great  Oak  ”  that  grows  so  high  that
 neither  the  sun  nor  the  moon  could  shine  on  the  earth,  and
 was  therefore  chopped  down  “  with  its  crown  towards  the
@@ -4646,8 +3615,7 @@ we  meet  again  the  idea  of  the  Milky  Way,  regarded  by  some
 Arctic  tribes  as  being  the  trunk  of  a  great  tree,  along  which
 those  killed  in  battle  wander.  To  the  same  folk-belief  may
 ultimately  be  traced  the  Scandinavian  belief  in  Valhall,  where
-the  souls  of  the  dead  in  battle  dwell,  and,  according  to  Gyl-
-f  a  ginning,  “  take  on  their  accoutrements,  go  out  into  the  yard
+the  souls  of  the  dead  in  battle  dwell,  and,  according  to  Gylf  a  ginning,  “  take  on  their  accoutrements,  go  out  into  the  yard
 and  fight  and  kill  one  another.”  Other  Arctic  peoples  also
 have  had  similar  ideas  of  the  Aurora  Borealis.  The  Chukchee
 in  the  north-east  corner  of  Asia  believe  that  “  the  Northern
@@ -4688,8 +3656,7 @@ The  bear,  especially,  has  many  secret  names.  The  Lapps  call
 him  “  master  of  the  forest,”  “  the  old  man  of  the  mountains,”
 “  the  wise  man,”  “  the  holy  animal,”  “  the  dog  of  God.”
 The  Ostiaks  have  names  such  as  “  the  fur  man,”  “  the  dweller
-in  the  wilds,”  for  him;  the  Finns  speak  of  him  as  “  honey-
-paw,”  “  great  forest,”  etc.  They  believe  that  were  the  actual
+in  the  wilds,”  for  him;  the  Finns  speak  of  him  as  “  honeypaw,”  “  great  forest,”  etc.  They  believe  that  were  the  actual
 name  of  the  prey  to  be  used,  it  might  hear  it  and  become
 angry.  On  hunting  trips  and  at  bear  feasts  even  the  different
 parts  of  the  bear  and  the  hunting  gear  are  given  special  names.
@@ -4707,11 +3674,6 @@ in  water,  or  being  besprinkled  with  water.  The  opinion  of
 the  Siryans  that  hunting  is  a  “  pure  ”  occupation,  animals  lov¬
 ing  only  “  pure  ”  people,1  is  common  to  all  the  Finno-Ugric
 
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-84
 
 stocks.  The  Ostiaks  regard  it  as  improper  even  for  those  who
 stay  at  home  to  engage  in  any  dirty  work,  such  as  scrubbing
@@ -4747,8 +3709,7 @@ cial  ceremonies,  obviously  in  order  thus  to  avoid  dangerous
 contact.  This  was  especiplly  necessary  when  the  prey  was
 some  large  animal.  When  the  Lapp  brought  in  the  meat  of
 some  fallen  wild  reindeer  through  the  u  holy  ”  backdoor,  his
-wife  had  to  have  in  readiness  a  liquid  prepared  from  alder-
-bark,  with  which  the  Lapp  washed  his  face  while  being  be-
+wife  had  to  have  in  readiness  a  liquid  prepared  from  alderbark,  with  which  the  Lapp  washed  his  face  while  being  be-
 
 
 •f>-  iff
@@ -4784,8 +3745,6 @@ c
 
 ANIMAL  WORSHIP
 
-
-85
 
 sprinkled  by  his  wife,  believing  that  by  this  ceremony  he
 could  assure  himself  of  better  luck  among  the  wild  reindeer.8
@@ -4825,12 +3784,6 @@ I  now  bite  thee.”  11
 The  festival  ceremonies  of  the  “  holy  animal  ”  have  been
 preserved  in  their  most  original  form  among  the  Lapps ;  Pehr
 Fjellstrom  and  another  unknown  author  having  left  us  com-
-
-
-86
-
-
-FINNO-UGRIC  MYTHOLOGY
 
 
 plete  accounts.12  Both  descriptions  date  from  the  eighteenth
@@ -4875,8 +3828,6 @@ fastens  his  belt  and,  accompanied  by  the  merry  singing  of
 ANIMAL  WORSHIP
 
 
-87
-
 the  others,  drags  the  fallen  bear  a  little  way  from  its  place.
 The  Lapps  also  indicate  their  bravery  by  swinging  their  spears
 threateningly  against  the  dead  enemy  as  though  it  were  still
@@ -4887,8 +3838,7 @@ When  the  hunters  approach  their  home  after  a  successful
 hunt,  they  indicate  their  success  by  a  merry  traditional  singing
 at  the  first  sound  of  which  the  women  in  the  tent  begin  to  array
 themselves  in  festive  garments,  answering  meanwhile  the  sing¬
-ing  of  the  heroes  by  a  similar  singing.  According  to  Fjell-
-strom  the  leader  of  the  crowd  usually  plaits  a  twig  of  fir
+ing  of  the  heroes  by  a  similar  singing.  According  to  Fjellstrom  the  leader  of  the  crowd  usually  plaits  a  twig  of  fir
 (sdive-rise),  at  the  end  of  which  he  forms  a  little  ring.
 With  this  twig  he  strikes  three  times  at  the  backdoor  of  the
 tent,  saying :  “  Soive-olmai,”  if  the  prey  be  a  male  animal,
@@ -4911,15 +3861,8 @@ take  part  in  its  slaughtering,  have  now,  as  the  men  enter
 through  the  sacred  backdoor,  to  cover  their  faces  with  a  cloth.
 Should  they  wish  it,  they  are  allowed  to  cast  a  glance  through
 a  copper  ring  at  those  entering ;  but  at  the  same  time,  according
-to  an  old  custom,  they  must  spit  the  juice  of  chewed  alder-
-bark  in  the  faces  of  the  hunters,  from  which  the  men’s  faces
+to  an  old  custom,  they  must  spit  the  juice  of  chewed  alderbark  in  the  faces  of  the  hunters,  from  which  the  men’s  faces
 become  quite  red.  The  same  thing  is  done  to  the  dogs  which
-
-
-88
-
-
-FINNO-UGRIC  MYTHOLOGY
 
 
 have  taken  part  in  the  hunt.  Sometimes  both  men  and  women
@@ -4942,8 +3885,7 @@ wives  and  sleeping,  like  the  women,  with  their  own  sex  only.
 
 The  next  day  measures  are  taken  for  the  transport  of  the
 bear.  All  the  men  do  not  go  out  for  this  purpose,  some  of
-the  hunters  remaining  behind  to  prepare  a  temporary  dwelling-
-place  for  the  bear.  This  is  formed  of  hewn  boards  and  is
+the  hunters  remaining  behind  to  prepare  a  temporary  dwellingplace  for  the  bear.  This  is  formed  of  hewn  boards  and  is
 covered  with  branches  of  fir.  Rooms  of  this  description  for
 the  cutting-up  and  cooking  of  the  bear  are  built  where  the
 bear,  as,  for  example,  at  Jockmock,  is  not  carried  to  the  holy
@@ -4962,8 +3904,6 @@ period,  at  least,  of  the  ceremonies,  to  pass  over  the  track  left
 
 ANIMAL  WORSHIP
 
-
-89
 
 behind  by  the  bear,  and  even  the  use  of  the  reindeer  which
 has  dragged  in  the  bear  is  forbidden  to  women  for  a  whole
@@ -5005,11 +3945,6 @@ When  the  animal  has  been  skinned,  the  flesh  is  cut  up  very
 carefully  lest  even  the  smallest  bone  should  be  damaged,  or
 some  artery  or  muscle  be  broken.  The  whole  of  the  flesh  is
 
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-90
 
 cooked  at  once,  the  women’s  part  separately.  The  blood  is
 cooked  first  and  mixed  with  fat  5  this  is  devoured  at  once  as
@@ -5071,8 +4006,7 @@ or  pieces  of  wood  being  allowable.  Neither  may  one  save
 anything  for  another  occasion,  but  the  whole  of  the  meat  must
 be  eaten  at  one  sitting.20
 
-The  men  who  carry  over  the  women’s  share  to  the  dwelling-
-tent  are  received  by  the  women  with  showers  of  alder-bark
+The  men  who  carry  over  the  women’s  share  to  the  dwellingtent  are  received  by  the  women  with  showers  of  alder-bark
 juice  in  the  face  and  with  glances  through  a  brass  ring.  This
 is  also  done  by  the  women  to  the  children  coming  from  the
 cutting-up  place,  their  festival-portion  undergoing  the  same
@@ -5093,11 +4027,6 @@ any  way  disturbed  the  bear  feast.
 In  the  notes  of  the  unknown  author  of  the  eighteenth  century
 we  find  many  of  the  songs  sung  at  the  bear  feasts.  From  them
 
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-92
 
 it  would  appear  that  the  Lapps,  like  the  Voguls  and  Ostiaks,  had
 some  kind  of  dramatic  ceremonies  at  these  feasts,  in  which  the
@@ -5138,9 +4067,6 @@ Sometimes,  other  objects  also  were  laid  in  the  grave  of  a  bear
 
 
 ANIMAL  WORSHIP
-
-
-93
 
 
 After  having,  as  above,  ceremoniously  buried  the  bear,  the
@@ -5185,9 +4111,6 @@ allowed  to  look  at  the  magnificent  skin  of  the  bear,  but  even
 94-
 
 
-FINNO-UGRIC  MYTHOLOGY
-
-
 now,  only  through  a  ring  of  brass.  The  brass  ornaments  on
 the  skin  are  not  taken  away  at  this  conclusion  to  the  festival,
 but  are  left  on  until  the  skin  has  dried  and  is  ready  for  use.
@@ -5230,8 +4153,6 @@ round  which  they  sit  long  and  sing.  Now  and  then  they  rise
 ANIMAL  WORSHIP
 
 
-95
-
 and  bow  to  the  bear.  Finally  they  place  a  piece  of  salt  fish  in
 the  mouth  of  the  animal  and  say:  “  Thou  shalt  not  tell  at  home
 that  thou  paidst  a  visit  to  us  and  received  nothing,  the  others
@@ -5245,8 +4166,7 @@ very  common  custom  is  to  place  the  bear  or  its  head  or  its
 skin  for  the  period  of  the  feasting  in  the  sacred  back  part  of
 the  dwelling-place,  where  women  are  not  allowed  to  go.
 Somewhat  resembling  the  magic  protective  use  of  alder-bark
-by  the  Lapps  is  the  Finnish  custom  of  chewing  a  piece  of  alder-
-wood  before  the  skin  of  the  bear  is  brought  into  the  house
+by  the  Lapps  is  the  Finnish  custom  of  chewing  a  piece  of  alderwood  before  the  skin  of  the  bear  is  brought  into  the  house
 “  so  that  the  forest  shall  not  infect  anything.” 32  Thus,
 among  the  Ostiaks  it  is  the  fashion  when  the  huntsmen  re¬
 turn  to  the  village  with  the  bear-skin  for  the  men  and  women
@@ -5269,8 +4189,6 @@ sides  by  threads  behind  the  ears.  Thus  arrayed,  the  bearskin
 is  placed  in  the  sacred  back  part  on  a  low  table  with  the  head
 resting  on  the  forepaws.  A  many-coloured  cloth  is  spread
 
-
-9 6  FINNO-UGRIC  MYTHOLOGY
 
 over  the  back.  In  some  districts  a  hat  was  placed  on  the  head
 of  a  male  animal  and  a  muffler  round  its  neck,  while  a  female
@@ -5350,8 +4268,6 @@ CFBULH^'S
 ANIMAL  WORSHIP
 
 
-97
-
 At  sunrise  after  the  last  feast  night  the  skin  is  borne  out
 through  the  window  to  the  warehouse-shed  where  the  dish
 first  placed  on  the  table  before  it  in  the  house  is  placed  in
@@ -5391,11 +4307,6 @@ ensure  good  bear-luck  in  hunting,  appears  from  the  oldest
 account  of  their  bear  feast  ceremonies.  Bishop  Rothovius,  in
 his  speech  at  the  inauguration  of  the  University  of  Abo  in
 
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-98
 
 1640,  relates  the  following  concerning  the  customs  of  the
 Finns:  “  When  they  capture  a  bear,  they  must  hold  a  feast  in
@@ -5439,9 +4350,6 @@ but,  as  far  as  possible,  preserve  them.  The  Yuraks,  for
 
 
 ANIMAL  WORSHIP
-
-
-99
 
 
 example,  hang  up  the  bones  of  the  fox  and  the  skulls  of  many
@@ -5564,12 +4472,6 @@ these  are  met  with  in  Lapmark  even  today.
 The  fear  felt  for  these  holy  places  forced  the  Lapps  to
 
 
-102
-
-
-FINNO-UGRIC  MYTHOLOGY
-
-
 observe  great  caution.  According  to  Leem,  they  only  ap¬
 proached  them  clad  in  their  festival  clothes,  beginning  to  make
 genuflections  at  a  distance,  as  they  walked.  Every  year  they
@@ -5611,8 +4513,6 @@ mer-time,  one  must  be  careful  to  make  as  little  noise  as  possible,
 THE  SEIDES  OF  THE  LAPPS
 
 
-103
-
 wetting  the  rowlocks  lest  these  should  creak.  In  the  winter
 one  drives  by,  step  by  step.  One  may  not  glance  aside,
 but  must  look  straight  ahead.  Having  reached  a  spot  about
@@ -5651,12 +4551,6 @@ ensure  the  health  and  increase  of  his  reindeer,  but  especially
 when  sickness  or  other  misfortunes  befall  him.  At  first  prom¬
 ises  are  made  of  offerings,  the  promises  being  then  redeemed
 when  the  sick  become  well  again.  If,  in  addition,  one  re-
-
-
-104
-
-
-FINNO-UGRIC  MYTHOLOGY
 
 
 members  that  the  Seides  had  the  power  of  raising  storms,  one
@@ -5733,8 +4627,6 @@ G?  THE
 THE  SEIDES  OF  THE  LAPPS
 
 
-105
-
 shipped  by  the  Lapp  families  or  clans  as  guardian-spirits.
 That  also  in  the  Swedish  Lapmark  a  dim  idea  of  the  origin
 of  the  Seide-cult  has  remained  behind,  is  shown  by  the  follow¬
@@ -5773,8 +4665,6 @@ in  spite  of  these  precautions.  She  related  her  troubles  to  a
 shaman  who  happened  to  visit  her  house.  He  tried  to  soothe
 her,  promising  to  remain  overnight.  In  the  evening  he  tidied
 
-
-10 6  FINNO-UGRIC  MYTHOLOGY
 
 the  bothie,  placing  all  the  woman’s  belongings  on  one  side
 and  sweeping  the  other  side  clean ;  in  the  corner  he  placed  a
@@ -5818,13 +4708,9 @@ uncertain  as  to  the  origin  of  this  ancient  cult.  It  is  possible
 THE  SEIDES  OF  THE  LAPPS
 
 
-107
-
-
 that  some  of  these  Seide  places  were  former  dwelling  or
 burial  places,  but  that  this  is  not  always  the  case  appears,  for
-example,  from  the  following  account  from  the  Swedish  Lap-
-mark:  “  They  believe  that  the  Seide  spirits  live  in  some  places,
+example,  from  the  following  account  from  the  Swedish  Lapmark:  “  They  believe  that  the  Seide  spirits  live  in  some  places,
 to  which  on  account  of  the  height  of  the  mountain  they  can¬
 not  reach  j  they,  therefore,  smear  a  stone  with  the  blood  of  the
 reindeer  sacrificed  in  honour  of  the  Seide  and  throw  the  stone
@@ -5864,9 +4750,6 @@ found.  They  stood  in  a  line  one  after  another,  the  first  of  the
 io8
 
 
-FINNO-UGRIC  MYTHOLOGY
-
-
 height  of  a  man,  the  other  four  somewhat  smaller ;  each  had
 something  resembling  a  hat  on  its  head.30  Among  the  Finnish
 Lapps  the  method  of  preparing  Seides  of  wood  has  been  pre¬
@@ -5897,8 +4780,6 @@ been  able  to  ascertain.  However,  as  far  as  I  do  know,  they
 
 THE  SEIDES  OF  THE  LAPPS
 
-
-109
 
 worship  the  stone  gods  when  in  the  neighbourhood  of  these,
 but  otherwise  gods  of  wood.”  32  It  would  appear,  therefore,
@@ -5941,9 +4822,6 @@ The  Kemi  Lapps  had  a  custom  of  cutting  down  a  tree  near
 
 
 1 10
-
-
-FINNO-UGRIC  MYTHOLOGY
 
 
 the  Seide  stone,  calling  it  the  luete-muor  (“sacrifice  tree”).
@@ -6075,14 +4953,10 @@ livers.”  After  making  a  catch,  the  promise  was  fulfilled.
 1 1 2
 
 
-FINNO-UGRIC  MYTHOLOGY
-
-
 Even  as  late  as  the  middle  of  the  last  century,  the  Norwegian
 Lapps  are  said  to  have  sometimes  smeared  their  stones  in  secret.
 As  sacrifices  to  the  Seides  in  later  periods,  there  are  reports
-of  money  being  offered  up,  both  in  Finnish  and  Russian  Lap-
-mark  $  also  rings  of  brass,  tobacco,  etc.,  all  of  which  objects
+of  money  being  offered  up,  both  in  Finnish  and  Russian  Lapmark  $  also  rings  of  brass,  tobacco,  etc.,  all  of  which  objects
 were  placed  in  small  hollows  in  the  stones.40
 
 If  we  follow  the  development  of  religious  beliefs  and  cus¬
@@ -6129,11 +5003,6 @@ time,  though  these  are,  indeed,  very  often  of  little  value.
 On  the  occasion  of  sacrificing,  they  are  taken  out  of  their
 sleigh,  which  is  outside  the  holy  back  of  the  tent,  and  set  up
 
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-114
 
 on  a  dais  made  solely  for  the  occasion,  or  are  carried  into  the
 tent  and  placed  in  its  sacred  background.  When  sacrificing
@@ -6238,9 +5107,6 @@ of  another  family  in  order  to  perform  a  sacrifice.  How  par-
 ii  6
 
 
-FINNO-UGRIC  MYTHOLOGY
-
-
 ticular  the  Votiaks  are  in  this  respect  is  shown  by  the  fact  that
 if  the  family  has  a  foster-son  of  another  family,  he  must,
 during  the  kuala  sacrifice,  go  to  the  iprzymg-kuala  of  his
@@ -6282,8 +5148,6 @@ together  almost  as  one  family.  Some  time  ago,  in  a  village
 FAMILY  GODS
 
 
-117
-
 called  Norja,  sixteen  fathers  of  families  still  lived  in  such
 economic  nearness,  that  in  spite  of  their  inhabiting  different
 houses,  they  took  their  meals  in  common.  In  another  village,
@@ -6292,8 +5156,7 @@ mon  head.3
 
 Besides  by  means  of  the  family  name,  the  Votiaks  are  united
 by  the  stamp  with  which  they  mark  their  property.  This
-mark  is  generally  the  picture  of  some  object,  such  as  a  goose-
-foot,  an  axe,  etc.  (The  Ostiaks  at  an  earlier  time  used  also
+mark  is  generally  the  picture  of  some  object,  such  as  a  goosefoot,  an  axe,  etc.  (The  Ostiaks  at  an  earlier  time  used  also
 pictures  of  animals.)
 
 The  mark  of  the  father  is  left  to  the  eldest  son,  who  lives  on
@@ -6326,9 +5189,6 @@ the  family  sanctuary  is  called  “  the  little  kuala”  Of  little
 
 
 1 1 8
-
-
-FINNO-UGRIC  MYTHOLOGY
 
 
 kualas  there  are  many  to  be  found  in  a  village,  not  so  many,
@@ -6375,7 +5235,6 @@ PLATE  XI
 Votiak  Kuala  or  Sanctuary  of  the
 Family-Gods
 
-(See  page  1 14.)
 
 After  photograph  by  U.  Holmberg.
 
@@ -6387,8 +5246,6 @@ OF  Mfc
 
 FAMILY  GODS
 
-
-119
 
 near  it.  As  a  village  sanctuary,,  the  kuala  has  attained  an  ex¬
 clusively  religious  significance,  being  sometimes  considered  so
@@ -6427,12 +5284,6 @@ cases:  ancient  coins,  the  bones  of  birds,  gaily  coloured  feathers,
 squirrel  skins,  sheep’s  wool,  etc.  But  again,  could  these  trifles,
 possessing  obviously  more  the  nature  of  sacrifices  than  of  ob¬
 jects  of  worship,  have  been  venerated  by  the  Votiaks?  When
-
-
-120
-
-
-FINNO-UGRIC  MYTHOLOGY
 
 
 one  compares  the  sacred  background  of  the  kuala  with  the
@@ -6517,12 +5368,6 @@ lar  inaugural  ceremonies,  generally  performed  in  the  summer.
 On  a  day  fixed  beforehand,  the  person  who  intends  to  obtain
 for  himself  a  Vorsud  of  his  own,  invites  a  few  guests,  gen¬
 erally  two  men  and  two  women.  The  guests  having  arrived,
-
-
-122
-
-
-FINNO-UGRIC  MYTHOLOGY
 
 
 the  young  master  and  mistress,  with  their  guests,  proceed  to
@@ -6614,8 +5459,6 @@ After  photograph  by  U.  Holmberg.
 FAMILY  GODS
 
 
-123
-
 afterwards  handing  the  father’s  loaf  to  the  son,  and  the  son’s
 to  the  father.  When  the  son  who  has  separated  from  the
 home  of  his  father,  has  received  the  bread,  he  reverently
@@ -6654,12 +5497,6 @@ The  very  word  mudor ,  which  phonetically  corresponds  to
 the  Finnish  mantere  (“  earth  foundation  ”),  recalls  a  different
 kind  of  removing  ceremony,  described  by  Aminoff.  “  When
 leaving  his  father’s  home  to  found  a  household  of  his  own,
-
-
-124
-
-
-FINNO-UGRIC  MYTHOLOGY
 
 
 the  son  descends  under  the  floor  of  the  hut,  takes  a  little  earth
@@ -6703,9 +5540,6 @@ the  greater.”  To  receive  a  Vorsud  from  his  native  home  is
 FAMILY  GODS
 
 
-125
-
-
 of  such  great  importance  to  the  son  that  if  for  one  reason  or
 another  the  father  quarrels  with  his  son  and  refuses  to  give
 him  a  Vorsud,  the  son  must  procure  it  by  robbery.  If  the  son
@@ -6742,12 +5576,6 @@ that  the  whole  building  was  removed  there.13  If,  from  any
 cause,  people  are  obliged  to  destroy  a  kualay  the  sacrifice  case
 and  the  stones  of  the  hearth  may  not  on  any  account  be  lost.
 As  an  instance  of  the  superstition  of  the  Votiaks  the  following
-
-
-126
-
-
-FINNO-UGRIC  MYTHOLOGY
 
 
 legend  is  mentioned:  A  man  destroyed  his  kuala  and  built  in
@@ -6808,7 +5636,6 @@ PLATE  XIII
 
 Vorsud  Case  Venerated  by  the  Votiaks
 
-(See  page  1 1 9. )
 
 Water-colour  by  V.  Soldan-Brofeldt.
 
@@ -6987,8 +5814,6 @@ IF  THE
 FAMILY  GODS
 
 
-127
-
 there  were  several  family  spirits,  points  also  to  their  human
 origin.  According  to  the  belief  of  the  Votiaks,  the  kuala
 spirits  generally  appear  as  human  beings.  At  times,  however,
@@ -7025,12 +5850,6 @@ also  the  kuala  in  the  neighbouring  village  or  Staraya-Yumya,
 from  which  Ostorma-Yumya  and  certain  other  villages  were
 originally  formed.  The  “  great  kuala  ”  of  Staraya-Yumya  is
 visited,  not  only  by  its  own  villages,  but  by  the  seventy-three
-
-
-128
-
-
-FINNO-UGRIC  MYTHOLOGY
 
 
 families  of  Ostorma-Yumya,  and,  also,  by  all  the  persons  liv¬
@@ -7076,8 +5895,6 @@ that  has  been  retained  in  memory.
 FAMILY  GODS
 
 
-129
-
 General,  regular  kuala  sacrifices  are  performed  by  the
 Votiaks  at  somewhat  different  times  in  different  places,  but,
 according  to  the  most  widespread  custom,  three  times  a  year
@@ -7117,11 +5934,6 @@ On  the  shelf  above  the  table  some  fir-twigs  are  laid,  and  on
 these  he  puts  a  dish  with  morsels  from  the  sacrifice.  These
 he  takes  after  a  while,  together  with  the  drinking  vessel,  in
 
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-130
 
 his  hand,  asking  from  the  Vorsud  happiness,  health,  children,
 cattle,  bread,  honey,  etc.19
@@ -7199,8 +6011,6 @@ fl?  gj.f|Mt{g
 FAMILY  GODS
 
 
-131
-
 present  when  sacrificing  at  home.  At  times  they  have  a  rep¬
 resentative  of  their  own  even  at  the  kuala  festivals,  such
 representatives,  besides  the  ordinary  kuala  guardian,  being
@@ -7239,11 +6049,6 @@ tricts  it  is  customary  to  place  the  above  named  offerings  on
 the  shelf  only  as  long  as  the  prayer  is  being  said.  There  are
 circumstances,  however,  which  indicate  that  formerly  the  offer-
 
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-132
 
 ings  were  also  left  in  their  place  for  a  longer  time.  Thus,
 for  instance,  it  is  customary  in  the  District  of  Mamadysh,  when
@@ -7332,11 +6137,6 @@ therefore  bringing  an  offering  to  the  family  spirits  of  her  native
 home.  No  other  person  than  the  sacrificing  priest  and  the
 
 
-FINNO-UGRIC  MYTHOLOGY
-
-
-134
-
 sacrificer  herself  may  take  part  in  the  performance.  Only  after
 this  sacrifice  may  the  wife  perform  sacrifices  in  her  husband’s
 family  kuala.  In  case  of  illness,  however,  or  some  other  mis¬
@@ -7389,8 +6189,7 @@ name  common  among  all  the  tribes  of  these  peoples.  Remains
 of  the  kuala  cult,  have,  however,  been  preserved  among  the
 Cheremiss,  amongst  whom  we  may  still  see,  in  some  parts,  in
 the  background  of  the  hut  {kudo)  a  time-darkened  case  which
-these,  like  the  Votiaks,  regard  as  the  dwelling  of  the  kudo-
-spirit.  Nowadays  we  see  there,  besides  offerings,  only  dried
+these,  like  the  Votiaks,  regard  as  the  dwelling  of  the  kudospirit.  Nowadays  we  see  there,  besides  offerings,  only  dried
 birch  leaves  which  are  not  even  always  renewed  on  the  occasion
 of  sacrificing.  Most  frequently,  however,  we  no  longer  find
 a  sacrifice  case  in  a  Cheremiss  kudoy  but  in  its  former  place,
@@ -7508,8 +6307,6 @@ If  Tfit
 FAMILY  GODS
 
 
-137
-
 saying  good-bye  or  asking  his  neighbour  to  come  and  see  him.
 Also  among  the  Hill  Cheremiss,  amongst  whom  one  very  rarely
 comes  across  a  kudo>  the  belief  has  been  preserved  that  the
@@ -7549,11 +6346,6 @@ being  generally  a  sheep,  though  a  bull  is  sometimes  mentioned.
 At  nightfall,  the  Tonni  vakk  was  taken  from  its  recess,  candles
 were  lighted  on  the  rims  of  the  case,  and  it  was  carried  all
 
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-138
 
 round  the  dwelling  house,  the  cattle  sheds,  and  the  yard.
 From  each  part  of  the  carcase  of  the  sacrificial  animal  a  piece
@@ -7626,12 +6418,6 @@ eaten.2
 
 The  “  sacred  places”  of  the  Yuraks  are  not  fenced  in,
 neither  are  buildings  to  be  found  on  them,  the  idols  standing  al-
-
-
-140
-
-
-FINNO-UGRIC  MYTHOLOGY
 
 
 ways  under  the  open  sky.3  On  the  other  hand,  special  buildings
@@ -7720,8 +6506,6 @@ pif  bj.p,«$
 HEROES
 
 
-141
-
 their  boundaries,  for  fear  of  offending  the  gods.  Should  they
 be  obliged  to  traverse  these  waters  by  boat,  they  are  careful
 not  to  approach  too  closely  to  the  shores  or  to  touch  them
@@ -7760,16 +6544,9 @@ his  sword  on  the  grave,  and  consoling  him  by  saying:  “  In
 the  times  of  coming  daughters,  in  the  times  of  coming  sons,
 
 
-FINNO-UGRIC  MYTHOLOGY
+thou  shalt  be  called  to  life,  and  thou  shalt  become  an  offeringspirit  accepting  offerings.” 7
 
-
-142
-
-thou  shalt  be  called  to  life,  and  thou  shalt  become  an  offering-
-spirit  accepting  offerings.” 7
-
-At  times  one  may  see  many  images  in  the  same  offering-
-house.  Two  hundred  years  ago,  Novitskiy  visited  a  “  great  ”
+At  times  one  may  see  many  images  in  the  same  offeringhouse.  Two  hundred  years  ago,  Novitskiy  visited  a  “  great  ”
 god-house,  containing  five  wooden  images  resembling  human
 beings  wrapped  round  with  “  clothes.”  Around  this  chief
 building  were  smaller  square  store-rooms  on  posts  about  the
@@ -7807,8 +6584,6 @@ idols  to  whom  they  travel  long  distances,  bringing  them  gifts
 
 HEROES
 
-
-143
 
 from  afar,  even  from  districts  three  or  four  days’  or  a  week’s
 journey  away.”10
@@ -7850,12 +6625,6 @@ ance,  so  also  in  height,  do  they  vary  in  the  different  districts.
 A  little  gate  of  boards,  swinging  on  wooden  hinges,  generally
 
 
-144
-
-
-FINNO-UGRIC  MYTHOLOGY
-
-
 leads  to  the  sanctuary,  being  open  only  during  the  performance
 of  sacrifices.  The  direction  of  these  gates  varies  so  much  that
 it  is  impossible  to  conclude  that  they  have  been  placed  to  point
@@ -7883,8 +6652,7 @@ allow  of  a  freer  approach.13
 
 In  the  larger  and  much  visited  groves  there  was  also  a
 store-like  building,  without  a  fireplace,  called  the  lud-kuala
-by  the  Votiaks.14  One  of  these  the  author  saw  in  the  Mama-
-dysh  District.  It  was  a  small  hut,  unfitted  for  a  dwelling-
+by  the  Votiaks.14  One  of  these  the  author  saw  in  the  Mamadysh  District.  It  was  a  small  hut,  unfitted  for  a  dwelling-
 place,  with  a  roof  sloping  backwards,  and  a  small  door,  which,
 like  the  gate  of  the  grove,  opened  towards  the  west,  that  is
 to  say,  towards  the  village.  Nothing  was  to  be  seen  in  the  hut,
@@ -7896,9 +6664,6 @@ offerings,  sacrificial  vessels,  towels,  coins,  etc.
 
 
 HEROES
-
-
-145
 
 
 The  Votiaks  worship  in  families  at  the  lud;  the  members  of
@@ -7940,11 +6705,6 @@ that  the  grove  is  not  situated  too  far  from  the  village.10
 Sacrifices  are  not  offered  up  in  a  new  sacred  grove  until  the
 “  spirit  ”  has  been  brought  from  the  old  place.  The  “  bring-
 
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-146
 
 ing  of  the  spirit  ”  is  carried  out  in  the  same  manner  as  the
 mudor- wedding.  The  Eastern  Votiaks  relate  that  their  fore¬
@@ -8031,7 +6791,6 @@ fence  and  gate.  (See  page  143.)
 After  photograph  by  Y.  Wichmann.
 
 2.  Storehouse  of  the  Ostiak  idols  near  Vasyagan.
-(See  page  14 1.)
 
 After  photograph  by  Adrianov.
 
@@ -8087,11 +6846,6 @@ of  sacrifice-money  by  cutting  the  family-mark  of  each  family
 on  a  stick,  the  marked  lines  indicating  the  amount  given.20
 
 
-FINNO-UGRIC  MYTHOLOGY
-
-
-148
-
 The  lud- spirit  always  demanding  blood-offerings,  a  foal  is
 generally  used  as  the  victim,  but  also,  at  times,  a  black  sheep.
 
@@ -8108,18 +6862,15 @@ being  used  for  fuel.  Towels  for  the  wiping  of  hands  are
 brought  with  them  also  and  hung  up  in  the  branches  of  the
 tree.  On  the  altar-table,  decked  with  green  boughs  and
 white  cloths,  the  accompanying  loaves  and  pancakes  are  piled
-up.  When  the  number  of  worshippers  is  very  great,  the  food-
-offerings  are  placed  on  the  ground,  a  white  cloth  being  laid
+up.  When  the  number  of  worshippers  is  very  great,  the  foodofferings  are  placed  on  the  ground,  a  white  cloth  being  laid
 under  the  wooden  bowl  of  each  family.
 
 Before  commencing  the  sacrifice  it  must  be  ascertained
 whether  the  /^-spirit  will  accept  the  offering.  This  is  done
 by  pouring  fresh  spring-water  by  means  of  a  bundle  of  twigs,
 over  the  sacrificial  animal,  which  must  be  flawless  and  of  one
-colour.  This  ceremony  is  repeated  several  times,  the  lud-
-guardian  reading  softly  a  prayer  the  while,  until  the  animal
-shivers,  which,  according  to  the  Votiaks,  Chuvashes  and  Chere-
-miss,  is  a  sign  that  the  sacrifice  is  pleasing  to  the  god.
+colour.  This  ceremony  is  repeated  several  times,  the  ludguardian  reading  softly  a  prayer  the  while,  until  the  animal
+shivers,  which,  according  to  the  Votiaks,  Chuvashes  and  Cheremiss,  is  a  sign  that  the  sacrifice  is  pleasing  to  the  god.
 
 After  the  “  sign  ”  the  sacrificing  priests  begin  the  slaughter¬
 ing.  Its  feet  having  been  bound  together,  the  animal  is
@@ -8135,8 +6886,6 @@ killed,  the  hide  is  flayed  from  it  and  the  carcase  divided  in  a
 HEROES
 
 
-149
-
 particular  way.  The  chief  organs  of  the  body,  the  heart,
 lungs,  liver,  etc.,  are  cooked  separately  and  when  prepared
 are  set  in  a  special  dish.  Later,  two  small  fragments  are  cut
@@ -8145,8 +6894,7 @@ heart,  liver,  etc.,  one  of  which  is  placed  in  a  dish  on  the  table,
 the  other  thrown  into  the  fire.  During  an  earlier  period,  the
 pieces  now  set  on  the  altar-table  were  hung  up  in  the  tree
 itself,  and  in  some  places  it  is  still  said  to  be  usual  to  thread
-them  on  to  a  little  twig,  to  the  end  of  which  a  strip  of  lime-
-bark  is  bound,  probably  for  hanging  up  in  the  tree.21  As
+them  on  to  a  little  twig,  to  the  end  of  which  a  strip  of  limebark  is  bound,  probably  for  hanging  up  in  the  tree.21  As
 other  peoples  also,  including  the  Lapps,  have  been  in  the
 habit  of  cutting  small  slices  from  the  most  important  organs  of
 the  sacrificed  animal,  which  were  then  threaded  on  to  a  pole
@@ -8163,8 +6911,7 @@ the  lud-kuala,  as  being  so  sacred,  that  only  the  /^-guardian
 may  enter  it.
 
 From  the  Life  of  St.  Stephen  we  may  obtain  a  graphic  view
-of  the  ancient  lud-kuala  sacrifices.  Incidentally,  the  image-
-house  of  the  Siryans  is  mentioned,  which  was  also  watched  over
+of  the  ancient  lud-kuala  sacrifices.  Incidentally,  the  imagehouse  of  the  Siryans  is  mentioned,  which  was  also  watched  over
 by  a  special  “  guardian.”  The  actual  appearance  of  the  build¬
 ing  is  not  described  j  it  is  only  stated  that  within  were  images,
 sacrificing  tables  and  a  great  amount  of  valuables.  The  saint
@@ -8174,12 +6921,6 @@ themselves,  or  merely  as  gifts  of  sacrifice  —  skins  of  sable,
 ermine,  skunk,  beaver,  fox,  bear,  lynx,  and  squirrel  —  all  these
 he  gathered  together  into  a  pile,  and  burnt  them,  smote  the
 images  with  an  axe  on  their  foreheads  and  hewed  them  into
-
-
-150
-
-
-FINNO-UGRIC  MYTHOLOGY
 
 
 small  pieces,  throwing  these  on  the  fire,  and  burning  up  every¬
@@ -8266,8 +7007,6 @@ After  photograph  by  Y.  Wichmann.
 HEROES
 
 
-151
-
 asked  to  protect  human  beings  and  animals  against  sickness  and
 all  other  evils,  and  the  fields  from  hail  and  storms,  etc.  After
 each  prayer,  read  by  the  guardian,  the  kneeling  congregation
@@ -8307,12 +7046,6 @@ founder  of  their  line,  Mardan.  The  brave  Mardan  had  in
 bygone  times  come  from  the  north  and  chosen  this  village  as
 
 
-152
-
-
-FINNO-UGRIC  MYTHOLOGY
-
-
 his  dwelling-place.  Every  third  year  they  sacrifice  a  horse  to
 him  and  a  cow  to  his  wife,  and  annually,  in  addition,  a  sheep  is
 sacrificed.  The  words  of  thanksgiving  uttered  during  the  sacri¬
@@ -8332,8 +7065,7 @@ coniferous  trees  must  grow.  A  peculiar  feature  is  that  in  the
 keremet  no  foreign  tongue  may  be  spoken,  as  the  spirit  dwelling
 there  “  hates  foreign  tongues.”  They  often  give  to  their
 sanctuaries  names  such  as  “  the  keremet  of  our  clan.”  The
-same  person  may,  however,  belong  to  two  different  keremet-
-clans.  In  such  cases,  the  keremet  groves  are  generally  con¬
+same  person  may,  however,  belong  to  two  different  keremetclans.  In  such  cases,  the  keremet  groves  are  generally  con¬
 secrated  to  different  spirits.  At  Kurmanaeva  (Birsk  District)
 there  is  a  so-called  Sultzn-keremet,  in  the  sacrifices  of  which
 the  people  of  about  twenty-five  villages  take  part.  Some  vil¬
@@ -8355,8 +7087,6 @@ the  purpose,  but  where  any  single  member  also  may  make  offer-
 HEROES
 
 
-153
-
 ings  on  his  own  account.  The  Cheremiss  make  their  offerings
 late  in  the  evenings,  as  after  a  sacrifice  one  may  neither  go  out
 to  visit  anyone,  nor  receive  visitors.  On  the  way  to  the  grove,
@@ -8373,8 +7103,7 @@ sick  j  binding  himself  to  carry  out  the  offering  on  a  suitable
 occasion.  The  bundle  may  be  hung  up  either  at  home  on  the
 wall  of  the  storeroom,  or  in  the  keremet  on  the  branches  of  the
 sacrifice-tree  5  when  the  promise  is  redeemed,  the  bundle  is
-burned  up.  Often  the  promise  is  accompanied  by  the  hang-
-ing-up  of  the  garments  of  the  sick,  or  the  thrusting  in  of
+burned  up.  Often  the  promise  is  accompanied  by  the  hanging-up  of  the  garments  of  the  sick,  or  the  thrusting  in  of
 some  iron  implement,  an  axe,  a  sickle,  or  a  knife  in  the  wall
 of  the  storeroom,  from  which  they  are  removed  after  the
 promised  animal  has  been  sacrificed.  When  the  Cheremiss
@@ -8394,12 +7123,6 @@ need  not  wait  very  long  for  the  redemption  of  the  promise.29
 Where  a  poorer  Cheremiss  cannot  in  due  time  fulfil  his
 promise  of  sacrifice,  he  must  “  renew  ”  the  promise  by  sacri¬
 ficing  some  lesser  object.  Very  usual  is  the  sacrificing  of  a
-
-
-154
-
-
-FINNO-UGRIC  MYTHOLOGY
 
 
 goose,  a  duck,  or  a  hare,  in  the  place  of  a  horse.  In  the  Birsk
@@ -8426,8 +7149,7 @@ wait  until  the  autumn  for  the  promised  horse.  When  the
 flesh  of  the  duck  was  cooked  the  sacrificing  priest  carried  it
 to  the  tree,  where  he  cut  off  small  pieces  of  the  heart,  liver,
 windpipe,  neck,  breast,  back,  wings  and  feet  into  two  bowls,
-the  contents  of  one  being  given  through  the  fire  to  the  kere-
-met ,  of  the  other  to  the  medium  of  the  sacrifice,  “  the  Fire-
+the  contents  of  one  being  given  through  the  fire  to  the  keremet ,  of  the  other  to  the  medium  of  the  sacrifice,  “  the  Fire-
 mother.”  In  each  bowl  was  also  laid  one  of  the  cut-off
 “  noses  ”  of  the  sacrifice  bread.  Before  this  ceremony,  more
 prayers  had  been  read  before  the  tree,  accompanied  by  the
@@ -8486,11 +7208,6 @@ in  re-establishing  peace  on  earth,  he  called  together  the  Chere¬
 miss  to  a  stone,  and  proclaimed  the  peace  to  them.  He  then
 
 
-FINNO-UGRIC  MYTHOLOGY
-
-
-156
-
 lifted  up  the  stone,  and  placed  himself  under  it,  saying  to  his
 people:  ‘  Should  war  break  out  again,  some  one  must  bestride
 a  white  stallion,  and  ride  three  times  round  the  stone,  shout¬
@@ -8516,8 +7233,7 @@ cloak  and  his  red  head-dress.  He  is  specially  sacrificed  to  in
 times  of  war.
 
 Besides  the  widely-known  and  everywhere  highly  respected
-u  Nemda  Prince  ”  the  Cheremiss  have  other  local  keremet-
-spirits,  the  fame  of  which  is  not  so  widely  spread.  The  ma¬
+u  Nemda  Prince  ”  the  Cheremiss  have  other  local  keremetspirits,  the  fame  of  which  is  not  so  widely  spread.  The  ma¬
 jority  of  these  have  become  the  objects  of  worship  through
 their  heroic  deeds.  The  Cheremiss  remember  their  feats  even
 today.  There  are  many  local  heroes,  especially  in  the  old
@@ -8548,9 +7264,6 @@ rfi •  r- i  •  .  '  ;:j  ji. ; «!£<:"  n  .
 V
 
 
-4
-
-
 PLATE  XIX
 
 
@@ -8571,8 +7284,6 @@ mmm  of  iuj»ms
 HEROES
 
 
-157
-
 rected  by  the  dead  hero  himself  through  the  air,  whistled  in
 a  peculiar  manner  and  destroyed  the  enemy.  On  the  place
 where  the  hero  had  died,  a  keremet  was  established,  in  which
@@ -8589,8 +7300,7 @@ as  according  to  the  people’s  view,  he  cannot  be  worshipped  in
 the  same  place  as  a  Cheremiss  chief.  This  may  be  a  relic
 from  the  period  of  power  of  the  Bolgars,  when  the  independ¬
 ence  of  the  Cheremiss  first  began  to  waver.  In  any  case  the
-keremet  cult  already  described,  corresponding  with  the  lud-
-sacrifices  of  the  Votiaks,  proves  that  the  Finnish  stocks  on  the
+keremet  cult  already  described,  corresponding  with  the  ludsacrifices  of  the  Votiaks,  proves  that  the  Finnish  stocks  on  the
 Volga  have  had  their  own  princes  at  one  time  in  history,  the
 memory  of  whom  they  have  been  able  to  preserve  through
 the  centuries.
@@ -8612,11 +7322,6 @@ honoured  with  special  sacrifices,  and  entreated  not  to  launch
 parts,  a  divine  couple,  popularly  supposed  to  be  husband  and
 wife,  and  bearing  many  names  —  e.g.,  Onto  and  Bonto  —
 
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-158
 
 are  invoked  by  the  epithet  of  Staka  Pas,  while  elsewhere  the
 “  heavy  god  ”  is  addressed  in  sacrificial  prayers  as  Kan  Pas,
@@ -8735,9 +7440,6 @@ part  of  which  must  be  buried  under  the  floor.3
 HOUSEHOLD  SPIRITS
 
 
-161
-
-
 Above  all,  the  Votiaks  regard  it  as  a  duty  to  sacrifice  to  the
 “  House  man  ”  when  they  first  establish  themselves  in  a  new
 house.  We  find  Georgi  already  relating  that  the  Votiaks,  on
@@ -8779,9 +7481,6 @@ of  prey  and  sickness.  The  “  Cattleyard  man  ”  also  looks  after
 i62
 
 
-FINNO-UGRIC  MYTHOLOGY
-
-
 the  provender  of  the  cattle,  as  the  Votiaks  believe  that  he
 drives  away  strange  spirits  of  like  kind,  when  these  come  to
 their  neighbours’  sheds  to  steal  provender.  He  dwells  chiefly
@@ -8802,8 +7501,7 @@ however,  is  not  cooked,  but  burned  as  it  is  in  the  cattleyard.
 
 The  yearly  sacrifices  in  honour  of  the  “  Cattleyard  man  ”
 occur  both  in  the  spring,  when  the  cattle  are  let  loose  to  pas¬
-ture,  and  in  the  autumn,  when  they  are  shut  up  in  the  cattle-
-folds  again.  In  most  places,  it  has  now  become  the  rule  to
+ture,  and  in  the  autumn,  when  they  are  shut  up  in  the  cattlefolds  again.  In  most  places,  it  has  now  become  the  rule  to
 give  only  a  promise  of  sacrifice  together  with  bread  or  porridge
 in  the  spring,  the  promise  being  fulfilled  in  the  autumn  if  the
 cattle  have  been  healthy  out  in  the  pastures  and  have  in¬
@@ -8823,8 +7521,6 @@ The  bath-house  spirit  is  called  the  “  Bath-house  man  ”
 
 HOUSEHOLD  SPIRITS
 
-
-163
 
 (Munt'so-murt)  or  the  “  Bath-house  ruler  ”  (Munt'so-kuzo).
 He  lives  in  a  dark  corner  of  the  bath-house  and  resembles
@@ -8858,15 +7554,11 @@ ing  for  prayers,  the  food  being  also  brought  there.  In  the
 end,  the  remains  of  the  sacrifice  and  the  bones  are  buried  under
 the  threshing-barn.  Besides  blood-offerings  a  sheaf  of  grain
 is  often  left  on  the  beams  of  the  threshing-barn  after  the
-conclusion  of  the  threshing,  for  the  use  of  the  u  Threshing-
-barn  man.”  9
+conclusion  of  the  threshing,  for  the  use  of  the  u  Threshingbarn  man.”  9
 
 If  one  compares  the  household  spirits  of  the  Votiaks  with
 the  corresponding  ones  of  the  Russians,  one  cannot  detect  any
 difference  even  in  the  nature  of  the  sacrifices.  The  “  Korka-
-
-
-FINNO-UGRIC  MYTHOLOGY
 
 
 164.
@@ -8903,8 +7595,7 @@ to  be  found  for  their  “  Cattleyard  man,”  “  Bath-house  man  ”
 and  “  Threshing-barn  man  ”  among  the  Russians,  from  whom
 the  Siryans  also  here  have  borrowed  their  spirits.  The
 “  Threshing-barn  man  ”  of  the  Votiaks  corresponds  with  the
-Siryan  Rynys  olysa  (“  the  one  who  lives  in  the  threshing-
-barn  ”)  or  the  Rynys-aika  (“  Threshing-barn  man  ”  ),  the
+Siryan  Rynys  olysa  (“  the  one  who  lives  in  the  threshingbarn  ”)  or  the  Rynys-aika  (“  Threshing-barn  man  ”  ),  the
 “  Bath-house  man  ”  of  the  former  with  the  Pyvsan  olysa
 (“  The  one  who  dwells  in  the  bath-house  ”)  or  the  Pyvsan-
 
@@ -8912,12 +7603,9 @@ barn  ”)  or  the  Rynys-aika  (“  Threshing-barn  man  ”  ),  the
 HOUSEHOLD  SPIRITS
 
 
-165
-
 aika  (“  Bath-house  man  ”  )  of  the  latter.11  As  the  buildings
 themselves  inhabited  by  these  spirits  are  not  originally  Finno-
-Ugric,  the  spirits  also  must  be  of  later  origin.  The  dwelling-
-place  of  the  “  House  man  ”  under  the  floor  points  to  the
+Ugric,  the  spirits  also  must  be  of  later  origin.  The  dwellingplace  of  the  “  House  man  ”  under  the  floor  points  to  the
 assumption  that  the  Votiaks  cannot  have  worshipped  this  spirit
 at  the  time  when  they  still  lived  in  the  old  kuala-dwzlYmgs,
 where  there  was  no  floor.  It  is  worth  mentioning  in  this
@@ -8953,16 +7641,12 @@ Above  all,  the  “  House  man  ”  and  “  House  woman  ”  are
 worshipped  with  bread  and  pancakes  at  the  removal  into  a
 
 
-FINNO-UGRIC  MYTHOLOGY
-
-
 1 66
 
 new  house,  when  they  are  implored  to  make  the  new  house
 happy,  to  give  children,  and  to  bring  riches  and  other  good
 things.  They  are  also  often  prayed  to  for  happiness  when  the
-first  layer  of  logs  is  laid  in  its  place.  Even  at  the  grove-
-sacrifices,  when  all  the  gods  and  spirits  are  remembered,  a
+first  layer  of  logs  is  laid  in  its  place.  Even  at  the  grovesacrifices,  when  all  the  gods  and  spirits  are  remembered,  a
 drink-offering  is  presented  to  the  household  spirits.
 
 An  evil  household  spirit  of  Tatar  origin  is  the  Suksendal,
@@ -9000,8 +7684,6 @@ through,  so  that  these  appear  quite  worn-out  and  limp  in  the
 
 HOUSEHOLD  SPIRITS
 
-
-167
 
 morning,  is  called  by  the  Cheremiss  generally  Vit'sa-oza
 (“Cattleyard  ruler”).  The  name  is,  however,  never  men¬
@@ -9047,9 +7729,6 @@ ing  beliefs  of  the  Turco-Tatars  in  East  Europe.  Another
 1 68
 
 
-FINNO-UGRIC  MYTHOLOGY
-
-
 anthropomorphic  spirit  is  the  Kardas-sarko  (“  Yard-sarko  ”)  of
 the  Erza  Mordvins,  which  lives  beneath  a  stone  situated  in  the
 courtyard  and  is  generally  represented  as  a  male,  though  some¬
@@ -9061,8 +7740,7 @@ household  spirits.  These  peoples  had  animated  the  buildings
 themselves.  This  appears  plainly  in  Mordvinian  folklore  j
 while  the  parting  words  of  a  newly-married  girl  are :  “  Dear
 house,  I  have  sojourned  long  in  thy  warm  shelter.”  The
-household  spirit  Kud-ava  (“  House  mother  ”)  or  Kud-
-azerava  (“  House  mistress  ”)  is  originally  the  house  itself,
+household  spirit  Kud-ava  (“  House  mother  ”)  or  Kudazerava  (“  House  mistress  ”)  is  originally  the  house  itself,
 although  these  terms  may  at  times  be  also  used  with  a  similar
 meaning  to  that  of  the  Russian  Domovoy.  The  more  primitive
 meaning  is  discernible  in  the  following  examples:  In  a  Mok¬
@@ -9072,13 +7750,11 @@ of  a  similar  character  we  read:  “ House  mother,  above
 is  thy  lime-bark  (the  roof  is  thatched  with  this  material),
 beneath  are  thy  beams.”  The  dwelling-place  as  a  whole,  i.e.,
 with  the  adjoining  buildings,  designated  as  jurt  by  the  Mord¬
-vins,  has  a  special  spirit  of  its  own,  the  Jurt-ava  (“  Dwelling-
-place  mother  ”),  known  also  among  the  Moksha  as  Jurt-
+vins,  has  a  special  spirit  of  its  own,  the  Jurt-ava  (“  Dwellingplace  mother  ”),  known  also  among  the  Moksha  as  Jurt-
 azerava  (“Dwelling-place  mistress”).  In  addition,  they
 speak  of  the  “  Bath-house  mother,”  the  “  Mill  mother,”  etc.
 The  protectress  of  a  whole  village  is  the  Vel'-ava  (“  Village
-mother”).13  The  Cheremiss,  amongst  whom  the  dwelling-
-place  and  all  objects  connected  with  it  are  also  regarded  as
+mother”).13  The  Cheremiss,  amongst  whom  the  dwellingplace  and  all  objects  connected  with  it  are  also  regarded  as
 animated  beings,  impressionable  and  capable  of  feeling,  believe
 that  the  kudo ,  their  ancient  dwelling-house,  and  the  more
 modern  port ,  are  fitted  like  human  beings  with  a  “  soul  ”
@@ -9089,8 +7765,6 @@ place  untidy,  the  “  soul  ”  disappears.  “  You  drive  away  the
 
 HOUSEHOLD  SPIRITS
 
-
-169
 
 soul  from  my  house,”  say  the  Cheremiss  when  anyone  disturbs
 the  peace  of  their  homes.  Has  the  soul  departed,  then  the
@@ -9130,11 +7804,6 @@ one  must  do  honour  to  him  in  every  way.  When  settling  in
 a  new  dwelling,  and  even  when  staying  anywhere  for  the  night,
 permission  must  first  be  begged  of  this  “  Ruler.”  If  any
 
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-170
 
 rapping  sound  be  heard  in  the  house,  it  is  regarded  as  a  sign
 of  permission  to  do  so.  Similarly,  when  entering  a  room  for
@@ -9178,8 +7847,6 @@ was  intimately  connected  with  the  keel  of  the  vessel.  The
 HOUSEHOLD  SPIRITS
 
 
-171
-
 Haltia  of  a  church  was  sometimes  regarded  as  being  of  equal
 height  with  the  church.20
 
@@ -9220,12 +7887,6 @@ year.  At  times,  it  was  left  for  many  years;  and  “  during  this
 period  the  spirit  was  supposed  to  come  forth.”  When  it  was
 
 
-172
-
-
-FINNO-UGRIC  MYTHOLOGY
-
-
 desired  to  ask  on  Christmas  Eve  what  the  next  year’s  harvest
 would  be  like,  the  master  of  the  house  had  to  proceed  to  the
 threshing-barn  and  ask:  “  Good  Tonttu,  say  what  kind  of  year
@@ -9261,15 +7922,12 @@ empty  milk  and  butter  dishes  would  be  found  full  in  the
 morning.  The  Seed-Para  left  a  narrow  track  through  the
 fields  from  which  it  had  stolen  grain.26
 
-The  same  spirit  is  called  Puuk  by  the  Esthonians  (Platt-
-deutsch  Pukj  Latvian  Puhkis).  The  Money-Para  of  the
+The  same  spirit  is  called  Puuk  by  the  Esthonians  (Plattdeutsch  Pukj  Latvian  Puhkis).  The  Money-Para  of  the
 Ingrians,  which  flies  through  the  air  like  a  meteor,  is  identical
 
 
 HOUSEHOLD  SPIRITS
 
-
-173
 
 with  the  Esthonian’s  Tulihand  (“  fire-tail  ”),  or  Kratt  (ancient
 Scandinavian  skratti ,  “  ghost”).  The  Esthonian  Kratt,  which,
@@ -9313,11 +7971,6 @@ the  home  ”  (Kodojeza)  in  a  corner  of  their  orchards.  This
 holy  or  “  purified  ”  spot  could  be  entered  by  women  once
 
 
-FINNO-UGRIC  MYTHOLOGY
-
-
-174
-
 only  in  their  lives,  i.e.,  after  their  wedding  ceremony.  It
 was  the  duty  of  the  master  of  the  house  to  look  after  the  place
 and  offer  up  sacrifices  there,  choosing  as  assistant  a  “  pure  ”
@@ -9333,8 +7986,7 @@ among  peoples  related  to  them.  The  Votiaks,  who  no  longer
 possess  their  older  dwelling-house,  kuala>  have  the  same  sacri¬
 fices  in  a  corner  of  their  yards  as  the  other  Votiaks  in  their
 kuala.  The  site  of  the  old  kudo  is  also  regarded  as  “holy”
-by  the  Hill  Cheremiss.32  May  one  assume  that  the  family-
-sacrifice  of  the  Krasna  Esthonians  to  the  “  father  of  the
+by  the  Hill  Cheremiss.32  May  one  assume  that  the  familysacrifice  of  the  Krasna  Esthonians  to  the  “  father  of  the
 home  ”  (a  “  village  god,”  Kiilajumal,  is  also  known)  is
 identical  with  the  autumn  sacrifices  of  the  Volga  Finns  to  their
 family  gods?  In  that  case  one  could  understand  also  the  Finns’
@@ -9394,18 +8046,12 @@ on  the  hunters’  faces  at  the  bear-feasts,  was  carried  out  in
 Leib-olmai’s  honour.2  The  name  of  the  Forest  god,  “  the
 
 
-FINNO-UGRIC  MYTHOLOGY
-
-
-176
-
 Alder  man,”  has  probably  been  derived  from  this  magic  cus¬
 tom.  Judging  by  this,  “  Leib-olmai  ”  would  seem  to  be  neither
 more  nor  less  than  the  genius  or  race-soul  of  the  bear.
 
 According  to  Charuzin  the  Russian  Lapps  worship  a  Forest
-spirit  which  they  call  Luot-hozjik  (hozjik  =  Russian  choz-
-yaika ,  “hostess”).  She  looks  after  the  reindeer  when
+spirit  which  they  call  Luot-hozjik  (hozjik  =  Russian  chozyaika ,  “hostess”).  She  looks  after  the  reindeer  when
 they  wander  in  freedom  in  the  forests  in  the  summer,  keeping
 them  together,  showing  them  good  pastures,  and  protecting
 them  from  beasts  of  prey.  From  human  beings  she  cannot,
@@ -9427,8 +8073,7 @@ turned  into  a  human  being.4  OHginally  Mientus  meant
 “  wild  reindeer,”  and  is  probably  their  genius  as  Leib-olmai
 is  that  of  the  bear.  Their  reindeer  spirit  the  Russian  Lapps
 call  Pots-hozjin  (“  Reindeer-master  ”)  and  Pots-hozjik
-(“  Reindeer-mistress  ”),  who  have  the  same  duties  as  Luot-
-hozjik.5
+(“  Reindeer-mistress  ”),  who  have  the  same  duties  as  Luothozjik.5
 
 The  Russian  Lapps  also  speak  about  the  tutelary  genius  of
 the  wolf  3  by  treating  a  wolf  very  roughly,  one  could  scare
@@ -9443,15 +8088,11 @@ to  the  northern  countries  from  the  warm  south.  Further,  the
 FOREST  SPIRITS
 
 
-177
-
-protecting  spirit  of  birds  is  called  “  Loddis-edne  (“  Bird-
-mother  55).6
+protecting  spirit  of  birds  is  called  “  Loddis-edne  (“  Birdmother  55).6
 
 A  Forest  spirit  resembling  the  Russian  Lesiy  is  the  Eastern
 Lapps5  Miehts-hozjin  (“  the  Master  of  the  forest 55)  who
-according  to  Genetz  is  also  called  Vare-jielle  (“Forest-
-dweller  55 ).  He  is  a  black  being  with  a  tail,  and  does  not  do
+according  to  Genetz  is  also  called  Vare-jielle  (“Forestdweller  55 ).  He  is  a  black  being  with  a  tail,  and  does  not  do
 any  harm  to  human  beings  unless  provoked.  When  anyone
 shouts,  sings  or  makes  a  noise  in  the  forest,  he  becomes  of¬
 fended,  and  bewilders  the  culprit  so  that  he  cannot  find  his
@@ -9486,11 +8127,6 @@ corresponds  to  the  Norwegian  Go (d) vetter  (“  a  good  spirit 55).9
 The  Uldda  of  the  Scandinavian  Lapps  is  a  similar  un-
 
 
-FINNO-UGRIC  MYTHOLOGY
-
-
-178
-
 derground  being,  which  also  appears  on  the  earth  with  its
 cattle.  It  is  said  to  change  children  left  alone  and  in  va¬
 rious  ways  to  disturb  people  who  have  settled  on  its  ter¬
@@ -9507,8 +8143,7 @@ hand  the  Lapps  made  offerings  to  their  Seides  to  secure  good
 luck  in  hunting.
 
 All  the  Samoyed  stocks  also  know  of  a  Forest  spirit,  gen¬
-erally  called  “  the  Master  of  the  forest.”  According  to  Don-
-ner  the  Ostiak  Samoyeds  sacrifice,  among  other  things,
+erally  called  “  the  Master  of  the  forest.”  According  to  Donner  the  Ostiak  Samoyeds  sacrifice,  among  other  things,
 peculiarly  shaped  arrows  to  the  Forest  spirit.  A  human-like
 image,  often  carved  on  an  old  tree,  is  made  of  the  “  Master
 of  the  forest.”  When  an  offering  of  anything  eatable  is  made,
@@ -9533,8 +8168,6 @@ In  tales  the  family  and  daughters  of  the  Forest  spirit  are
 
 FOREST  SPIRITS
 
-
-179
 
 spoken  of,  the  latter  being  able  to  marry  human  beings.12  The
 Mis-khum  ( khum>  “man”)  of  the  Voguls  can  appear  as  tall
@@ -9578,9 +8211,6 @@ is  placed  on  the  branch  of  a  tree  for  the  “  Forest  man,”  16  A
 i8o
 
 
-FINNO-UGRIC  MYTHOLOGY
-
-
 prayer  to  the  Forest  spirit  discovered  by  Amino ff  runs:  “  Give
 me,  ‘  Forest  man,’  of  thy  forest-animals,  squirrels,  wolves,
 bears.  Give  also  of  thy  bees,  drive  them  into  my  bee-hives.
@@ -9602,8 +8232,7 @@ The  Forest  spirit  is  thanked  for  having  taken  such  good  care
 of  the  cattle  in  the  forest  during  the  summer.18
 
 Occasional  offerings  are  also  made  to  the  Forest  spirit,
-as  when  the  foresters  go  out  hunting.  In  the  district  of  Sara-
-pul,  offerings  are  sometimes  made  during  stormy  weather.
+as  when  the  foresters  go  out  hunting.  In  the  district  of  Sarapul,  offerings  are  sometimes  made  during  stormy  weather.
 At  these  times  the  offering  is  an  animal,  generally  a  duck.
 Offerings  are  further  made  in  cases  of  sudden  illness,  accord¬
 ing  to  the  directions  of  the  magicians.  This  last  reminds  one
@@ -9624,11 +8253,7 @@ shipped  by  the  Votiaks,  these  have  still  many  others  to  whom
 FOREST  SPIRITS
 
 
-181
-
-
-offerings  are  not  made.  One  of  this  latter  kind  is  the  Pales-
-murt  (“  Half-man  ”)  known  to  all  the  Votiaks.  It  resembles
+offerings  are  not  made.  One  of  this  latter  kind  is  the  Palesmurt  (“  Half-man  ”)  known  to  all  the  Votiaks.  It  resembles
 a  human  being,  but  has  only  half  of  a  human  body.  Thus,
 it  has  only  one  eye,  one  foot,  one  hand  and  one  breast,  which  is
 so  large  that  it  can  suffocate  people  with  it  by  pressing  it  into
@@ -9668,9 +8293,6 @@ dings,  in  great  companies.  On  the  whole  the  “  Forest  man  ”
 
 
 i82
-
-
-FINNO-UGRIC  MYTHOLOGY
 
 
 is  a  good  spirit,  being  often  of  great  use.  To  huntsmen,
@@ -9715,8 +8337,6 @@ When  lost  in  this  way  in  the  forest,  one  must  change  the  right
 FOREST  SPIRITS
 
 
-183
-
 boot  on  to  the  left  foot,  and  vice  versa ,  to  find  one’s  way
 home.  To  fall  into  the  power  of  the  Forest  spirit  is  danger¬
 ous,  as  he  tickles  people  to  death.  When  in  a  good  mood  he
@@ -9754,11 +8374,6 @@ times  mounting  a  horse  and  racing  it  nearly  to  death.  In  some
 places  the  people  say  that  Ovda  will  mount  a  horse  and  make
 the  poor  animal  run  backwards.  The  Cheremiss  call  this
 
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-184
 
 spirit  also  by  the  Tatar  name  Surali.  A  foreign  name  for  an
 evil  Forest  spirit  is  Alvasta.26
@@ -9803,8 +8418,6 @@ the  Forest  spirit  can  lengthen  his  body  so  that  his  head  is  on
 FOREST  SPIRITS
 
 
-185
-
 a  level  with  the  highest  tree.  When  seen,  he  is  of  the  height
 of  an  average  human  being  but  on  being  approached  he  be¬
 came  longer,  so  that  at  a  distance  of  nine  paces,  he  was  six
@@ -9819,8 +8432,7 @@ Sometimes  she  is  fitted  with  a  tail  like  an  animal.  The  Forest
 virgin  is  in  love  with  men,  and  entices  them  to  cohabit  with
 her.29
 
-The  Finnish  Metsanhaltia  has  its  counterpart  in  the  Skogs-
-radare  of  the  Swedish  Finns,  and  likewise  their  Metsanneitsyt
+The  Finnish  Metsanhaltia  has  its  counterpart  in  the  Skogsradare  of  the  Swedish  Finns,  and  likewise  their  Metsanneitsyt
 in  the  Skogsjungfru  of  the  latter.  The  Mets-haldijas
 (“  Forest  ruler  ”)  is  known  also  among  the  North  Esthonians,
 his  cry  in  the  forest  meaning  that  something  special  is  about
@@ -9847,9 +8459,6 @@ Sweden,  where  such  ant  spirits  are  called  Alv-myror.31  Un-
 
 
 1 86
-
-
-FINNO-UGRIC  MYTHOLOGY
 
 
 derground  people  and  Forest  spirits  often  play  similar  parts
@@ -9895,8 +8504,6 @@ habit  willingly  the  depths  of  the  forest.  And  further,  it  is
 FOREST  SPIRITS
 
 
-187
-
 only  natural  that  those  who  have  found  an  unknown  grave
 in  the  forest  should  remain  there  as  feared,  ghostly  beings.
 
@@ -9928,23 +8535,19 @@ forest  to  fell  trees,  he  strikes  the  trunks  first  with  the  back
 of  the  axe  before  beginning  to  chop  them  down,  or,  as  the
 Lapps  themselves  say,  “  kills  the  tree  first.”  Should  they
 omit  to  do  this,  they  believe  that  the  wood  from  these  trees
-will  crackle  and  throw  out  sparks  when  burning.36  Mrs.  De-
-mant-Hatt,  during  her  travels  among  the  Lapps,  observed
+will  crackle  and  throw  out  sparks  when  burning.36  Mrs.  Demant-Hatt,  during  her  travels  among  the  Lapps,  observed
 that  the  Lapp  girls,  when  returning  from  the  heights  to  the
 forest  districts,  hurried  to  embrace  and  greet  the  trees.  Ac¬
 cording  to  the  missionary  Lundius,  the  Lapps  also  worshipped
 trees,  as  when  they  had  shot  down  game  from  a  tree,  they
 
 
-1 88  FINNO-UGRIC  MYTHOLOGY
-
 laid  the  feet  of  the  animal  in  the  tree,  smearing  it  also  with
 the  blood.37
 
 In  the  same  way  the  Cheremiss  also  regard  the  forest  in
 animistic  fashion.  ‘When  they  go  into  it,  they  greet  the  trees,
-ask  them  the  way,  and  pray  to  them  for  a  peaceful  resting-
-place  for  the  night.  In  the  morning  they  give  thanks  and
+ask  them  the  way,  and  pray  to  them  for  a  peaceful  restingplace  for  the  night.  In  the  morning  they  give  thanks  and
 offer  their  hands  to  the  tree  under  which  they  have  spent
 the  night.  “  The  tree  understands  what  men  say,  and  the
 forest  listens  to  the  song  of  the  hunter.”  The  trees  are  afraid
@@ -9979,8 +8582,6 @@ played  a  prominent  part  in  the  beliefs  of  the  people.  Both
 
 FOREST  SPIRITS
 
-
-189
 
 the  Baltic  and  the  Volga  Finns  believed  in  its  protective
 powers,  though  offerings  were  not  made  to  this  tree.  Accord¬
@@ -10022,14 +8623,7 @@ from  a  front  view,  appears  from  behind  as  a  rotted  stump  or
 a  bushy  tree.  In  the  folk-poetry  of  the  Finns,  “  the  King
 
 
-190
-
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-or  Lord  or  Mistress  of  the  forest  ”  has  “  a  hat  of  pine-
-needles,”  a  “  blue  mantle,”  and  a  “  beard  of  leaves.”
+or  Lord  or  Mistress  of  the  forest  ”  has  “  a  hat  of  pineneedles,”  a  “  blue  mantle,”  and  a  “  beard  of  leaves.”
 
 An  extremely  wide-spread  belief  is  that  the  Forest  spirit,
 having  bewildered  human  beings  and  enticed  them  into  its
@@ -10069,18 +8663,11 @@ whilst  the  lower  body  was  fishlike.1
 
 Limited  also  to  Scandinavian  Lapland  is  the  Ravgga,
 which  lives  in  the  water  mostly  in  human  shape,  its  appearance
-or  voice  predicting  misfortune,  tempest  or  shipwreck.  Meri-
-lainen,  who  calls  it  in  Finnish,  Meriraukka,  tells  that  it  ap¬
+or  voice  predicting  misfortune,  tempest  or  shipwreck.  Merilainen,  who  calls  it  in  Finnish,  Meriraukka,  tells  that  it  ap¬
 pears  on  the  shore  examining  the  accessories  of  a  boat,  from
 which,  later,  somebody  will  be  drowned.  When  it  is  seen
 walking  on  the  shore,  the  duty  of  the  beholder  is  to  walk
 round  it  with  a  firesteel,  when  it  will  stop,  or,  if  it  disappears
-
-
-192
-
-
-FINNO-UGRIC  MYTHOLOGY
 
 
 on  approach,  to  wait  for  its  reappearance.  It  should  then
@@ -10144,7 +8731,6 @@ PLATE  XX
 
 The  Aino  Episode  in  Kalevala  (V.  45-133)
 
-(See  page  210.)
 
 Illustrated  by  Akseli  Gallen-Kallela.
 
@@ -10162,11 +8748,8 @@ o
 WATER  SPIRITS
 
 
-193
-
 completely  to  the  Vodyanoy  of  the  Russians,  whose  Water-
-Nymph,  the  Rusalka,  is  called  by  the  Kola-Lapps  Cacce-
-jienne  (“Water  mother”).  In  the  shape  of  a  naked  woman
+Nymph,  the  Rusalka,  is  called  by  the  Kola-Lapps  Caccejienne  (“Water  mother”).  In  the  shape  of  a  naked  woman
 she  emerges  from  the  water  at  dawn  to  comb  her  long  black
 hair.  When  frightened,  she  throws  herself  into  the  water
 so  quickly,  that  she  leaves  her  comb  on  the  shore  in  the
@@ -10203,11 +8786,6 @@ Like  the  Lapps,  the  Ostiaks  sacrificed  in  older  times  for
 luck  in  fishing  chiefly  to  the  spirits  of  the  dead,  which  are
 believed  to  live  in  certain  holy  places.  Karjalainen  points
 
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-194
 
 out  that  the  Forest  spirit  as  well  as  the  Water  spirit  is  sacri¬
 ficed  to  chiefly  in  such  districts  where  foreign  influences  may
@@ -10253,8 +8831,6 @@ glance  at  those  Water  spirits,  found  amongst  other  Finno-
 WATER  SPIRITS
 
 
-195
-
 Ugrian  tribes,  to  which  the  imagination  of  the  people  has
 given  distinct  features.
 
@@ -10295,11 +8871,6 @@ spirits  have  weddings,  during  which  they  move  in  the  water
 merrily  and  noisily,  causing  inundations,  so  that  the  mill
 sluices  break.  The  Northern  Votiaks  have,  further,  the  idea
 
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-196
 
 that  they  come  during  the  winter  before  Christmas  to  the  vil¬
 lages  and  occupy  the  bath-houses ;  one  may  sometimes  meet
@@ -10343,8 +8914,6 @@ man  55  is  prayed  to,  to  protect  the  geese  and  ducks,  and  to
 WATER  SPIRITS
 
 
-197
-
 increase  their  number.  The  blood  of  the  bird,  its  bones  and
 a  piece  of  the  meat  are  thrown  into  the  water,  along  with
 bread.  Sacrifices  are  made  in  addition  when  sickness  occurs,
@@ -10384,11 +8953,6 @@ Water  maid  came  to  claim  it  back.
 The  Water  spirit  may  also  appear  in  the  shape  of  a  small
 child,  according  to  the  Siryans.  The  children  of  the  Water
 
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-198
 
 spirit  are,  while  young,  hairy  and  of  a  peculiar  appearance,
 often  like  fishes,  but  become  later  more  human  in  shape.
@@ -10436,8 +9000,6 @@ a  Finno-Ugric  god  who  lived  under  the  earth,  the  cult  of
 WATER  SPIRITS
 
 
-199
-
 which  was  obviously  connected  with  the  cult  of  the  dead.17
 When  comparing  the  present  highly  developed  characteris¬
 tics  of  the  spirit  Kul,  which  the  similarly-named  spirit  of  the
@@ -10477,12 +9039,6 @@ man’s  fishing-tackle.  Once  some  fishers  found  a  great  being
 in  their  net,  which  dragged  it  here  and  there.  With  great
 
 
-200
-
-
-FINNO-UGRIC  MYTHOLOGY
-
-
 labour  they  managed  to  keep  hold  of  their  net,  and  when  they
 finally  succeeded  in  dragging  it  nearer  to  the  boat,  they  saw
 a  pretty  dark  maid,  who,  however,  disappeared  immediately
@@ -10494,8 +9050,7 @@ touch  her  with  their  hands,  as  then  the  water-maid  cannot
 move  an  inch.
 
 In  prayers,  the  Water  spirit  is  often  referred  to  as  “  Water
-old  man  ”  (Viit-kuguza)  and  “  Water  old  woman  ”  (Vut-
-kuva).  The  Cheremiss  worship  the  “Old  man”  and  the
+old  man  ”  (Viit-kuguza)  and  “  Water  old  woman  ”  (Vutkuva).  The  Cheremiss  worship  the  “Old  man”  and  the
 “  Old  woman  ”  of  the  water  when  they  go  swimming  or  fish¬
 ing.  The  fishermen  offer  up  to  these  spirits  bread  or  brandy,
 sometimes  even  a  duck,  a  goose,  or  a  hen,  as  they  are  supposed
@@ -10548,9 +9103,6 @@ wmm  Cf  |UP1$
 WATER  SPIRITS
 
 
-201
-
-
 less,  it  lives  in  the  imagination  of  the  people  mostly  as  a
 human  being.  In  this  shape,  according  to  the  idea  of  the
 Esthonians,  it  is  both  male  and  female,  and  may  appear  full
@@ -10588,12 +9140,6 @@ As  with  the  Nakk,  one  of  the  most  important  features  of
 the  Nakineitsi  is  her  song  and  her  music.  On  the  coasts  they
 speak  also  of  the  cattle  of  the  water-maid,  which  are  beautiful
 and  fat.  The  colour  of  the  animals  is  usually  grey,  like  the
-
-
-202
-
-
-FINNO-UGRIC  MYTHOLOGY
 
 
 sea.  Suddenly  emerging  from  the  sea,  the  cattle  come  ashore,
@@ -10638,8 +9184,6 @@ himself  doomed,  one  of  his  relatives  will  perish  in  the  water.
 WATER  SPIRITS
 
 
-203
-
 Some  people  believe  that  in  all  waters  where  a  Nakk  dwells,
 a  man  will  be  drowned  every  summer.  When  the  time  for
 this  approaches,  a  voice  is  heard  from  the  water:  “The  hour
@@ -10678,12 +9222,6 @@ immense,  long  and  stout  old  man  standing  over  the  water,
 so  that  one  foot  was  on  the  one  shore  and  the  other  foot  on
 the  other  shore  of  the  sea.  A  miller  saw  him  thus  standing
 over  a  waterfall,  like  an  unusually  big,  grey  man.  Probably
-
-
-204
-
-
-FINNO-UGRIC  MYTHOLOGY
 
 
 this  latter  type  of  the  Water  spirit  has  been  influenced  by  the
@@ -10819,9 +9357,6 @@ i
 WATER  SPIRITS
 
 
-205
-
-
 When  the  Water  spirit  disappears  with  his  cattle  at  sun¬
 rise,  it  may  happen  that  an  animal  is  left  on  the  shore.  Ac¬
 cording  to  the  general  belief  of  the  people,  this  can  be  seized
@@ -10866,9 +9401,6 @@ ened  by  words  such  as  “  Nakki  comes.”  A  usual  means  of
 20  6
 
 
-FINNO-UGRIC  MYTHOLOGY
-
-
 protection  against  Nakki  when  bathing  is  a  form  of  witch¬
 craft  in  connection  with  certain  words.  On  stepping  into  the
 water  the  bather  once,  thrice,  or  even  nine  times,  scoops  water
@@ -10911,9 +9443,6 @@ Water  spirit.  The  one  who  succeeds  in  passing  through  the
 WATER  SPIRITS
 
 
-207
-
-
 trial  becomes  a  great  player,  who  can  make  people  dance  even
 against  their  will.  Sometimes  his  violin  develops  the  wonder¬
 ful  quality  of  playing  by  itself  and  even  its  pieces  will  play
@@ -10953,12 +9482,6 @@ him  thus,  but  says  only  that  he  “  composed  songs.”  Both  Ahti
 and  Wainamoinen  appear  in  folk-poetry  as  mighty  heroes.
 
 Over  all  Finland  and  also  amongst  the  Finnish  Lapps  and
-
-
-208
-
-
-FINNO-UGRIC  MYTHOLOGY
 
 
 Northern  Esthonians  the  dark  Vedenhaltija  (a  Water  ruler  ”)
@@ -11015,9 +9538,6 @@ Im
 .
 
 
-4
-
-
 PLATE  XXIII
 
 
@@ -11031,13 +9551,8 @@ After  photograph  by  K.  F.  Karjalainen.
 \  '
 
 
-4
-
-
 WATER  SPIRITS
 
-
-209
 
 autumn,  before  the  beginning  of  the  fishing  season  5  the  latest
 of  the  deceased  receiving  a  cock,  while  to  those  transformed
@@ -11077,18 +9592,11 @@ body  and  a  fish-tail.  Even  when  a  spirit  appears  altogether
 as  a  human  being,  it  has  generally  some  fish-like  feature,
 
 
-210
-
-
-FINNO-UGRIC  MYTHOLOGY
-
-
 such  as  the  large  maw  of  a  fish,  fish-teeth  and  round  eyes.
 Another  significant  fact  is  that  it  moves  with  the  other  fish,
 taking  them  with  it  from  the  sea  to  the  rivers,  and  also  that  it
 wanders  into  the  fishers’  traps.  There  is  a  story  of  such  a  half¬
-fish,  half-female  being  in  the  Karelian  folk-songs  which  Lonn-
-rot  uses  in  the  Aino  episode  in  Kalevala  (viii.  45—133).
+fish,  half-female  being  in  the  Karelian  folk-songs  which  Lonnrot  uses  in  the  Aino  episode  in  Kalevala  (viii.  45—133).
 
 The  Finno-Ugric  peoples  also  envisage  the  water  itself
 animistically.  The  Cheremiss  say  that  the  “  water  lives,”  it
@@ -11101,8 +9609,7 @@ they  go  out  fishing,  sacrifice  bread  to  the  Vorikva  River  say¬
 ing:  “  Vorikva-mother,  carry  us  without  danger,  protect  us,
 and  give  us  a  whole  boatful  of  fish.”  32  The  Votiaks  and
 Mordvins,  when  praying,  use  also  the  name  “  Mother  ”  to
-their  rivers  and  brooks  as  the  Russians  speak  of  the  “  Volga-
-mother,”  etc.
+their  rivers  and  brooks  as  the  Russians  speak  of  the  “  Volgamother,”  etc.
 
 The  Volga  and  Baltic  Finns  have  the  same  belief,  i.e.,
 that  lakes  can  move  from  one  place  to  another.  This  may
@@ -11138,8 +9645,7 @@ the  people  around  sprinkled  water  on  one  another  from  the
 water  that  was  left  in  the  hole,  praying  to  the  “  Cherlak  girl  ”
 to  return  to  its  old  place.  The  heifer’s  bones  and  pieces  of
 its  flesh  were  wrapped  in  its  hide  and  hidden  in  the  water
-hole.  On  this  occasion  the  following  prayer  was  read:  “  Water-
-mother,  protect  the  water,  give  the  Cherlak  girl  good
+hole.  On  this  occasion  the  following  prayer  was  read:  “  Watermother,  protect  the  water,  give  the  Cherlak  girl  good
 health,  bring  her  and  all  kinds  of  fish  back  to  her  place,
 bring  her  with  all  kinds  of  sea-birds,  give  the  water  good
 health.  Make  Azelekel  and  Kandralekel  return  her  former
@@ -11168,12 +9674,6 @@ a  plait  decorated  with  silver  wire,  at  times  also  her  children
 and  family  are  mentioned.  One  finds,  however,  in  some
 
 
-212
-
-
-FINNO-UGRIC  MYTHOLOGY
-
-
 prayers  words  like  these:  “  Water  mother,  Boyar  mistress,  thou
 comest  from  the  sea  and  spreadest  thyself  over  the  whole
 country,  thou  wanderest  over  thine  own  land,  thou  floatest
@@ -11192,8 +9692,7 @@ health.”  36
 
 Smaller  offerings  are  also  made  to  the  water  when  going
 out  to  fish,  or  in  sickness,  i.e.,  ordinary  skin  diseases  which  are
-believed  to  come  from  the  offended  water.  The  real  water-
-cult  is,  however,  connected  with  agriculture.  Mutual  sacri¬
+believed  to  come  from  the  offended  water.  The  real  watercult  is,  however,  connected  with  agriculture.  Mutual  sacri¬
 fices  have  been  made  to  the  Water  mother,  chiefly  to  obtain
 fruitful  rains.  Like  the  earth,  the  water  is  given  a  black
 sacrificial  animal,  generally  a  bull  or  a  sheep.  The  Cheremiss
@@ -11208,10 +9707,8 @@ much  rain,  the  offerings  that  have  been  thrown  into  the  water
 must  be  taken  up  again,  and  buried  in  the  earth  to  make  the
 rain  cease.37
 
-A  water  cult  of  this  description  was  known  among  the  Vo-
-tiaks,  Mordvins  and  Baltic  Finns.  J.  Gutslaff  (1644)  relates
-about  the  Esthonians  that  they  worshipped  a  brook  (Woh-
-handa),  which  they  believed  could  produce  a  fertilising  rain,
+A  water  cult  of  this  description  was  known  among  the  Votiaks,  Mordvins  and  Baltic  Finns.  J.  Gutslaff  (1644)  relates
+about  the  Esthonians  that  they  worshipped  a  brook  (Wohhanda),  which  they  believed  could  produce  a  fertilising  rain,
 
 
 v sxx  :•  r/j-
@@ -11250,9 +9747,6 @@ According  to  Leenis.
 
 
 WATER  SPIRITS
-
-
-213
 
 
 or  when  the  brook  so  desired,  torrential  rains,  hail,  or  frost.
@@ -11296,12 +9790,6 @@ and  thread,  or  bread  and  cheese  to  the  “  mother  ”  river,  after
 which  she  washes  her  hands  and  face  in  the  water.  With
 
 
-214
-
-
-FINNO-UGRIC  MYTHOLOGY
-
-
 most  of  the  agricultural  Finnish  races  it  is  regarded  as  neces¬
 sary  to  drench  the  bride  completely  with  water.  If  weddings
 are  celebrated  in  the  winter,  when  it  is  of  course  too  cold  to
@@ -11324,8 +9812,7 @@ offended  thee  and  therefore  cannot  give  birth  to  children.”
 The  German  belief  that  children  come  from  the  water
 (“  Kinder-brunnen  ”)  is  also  explained  by  the  above.40
 
-Rivers  and  seas  were  also  prayed  to  for  an  increase  of  water-
-birds.  Aminoff  says  that  the  Votiaks  sacrificed  a  duck  to  the
+Rivers  and  seas  were  also  prayed  to  for  an  increase  of  waterbirds.  Aminoff  says  that  the  Votiaks  sacrificed  a  duck  to  the
 water,  so  that  it  might  richly  increase  their  geese  and  ducks.41
 Wichmann  has  discovered  the  following  prayer:  “To  Mother
 Ybyt  (a  river)  I  give  a  goose.  Produce  many  geese  when
@@ -11342,9 +9829,6 @@ After  a  young  foal  had  been  killed  and  cooked  on  the  shore
 
 
 WATER  SPIRITS
-
-
-215
 
 
 of  the  stream,  the  people  knelt  down  with  their  faces  towards
@@ -11389,13 +9873,9 @@ belief  that  by  thus  renewing  the  water  in  the  well,  a  new
 21 6
 
 
-FINNO-UGRIC  MYTHOLOGY
-
-
 Haltia  is  secured.  To  lakes  also  in  which  the  fishing  water
 is  spoilt  or  where  the  Haltia  is  not  good,  “  new  water  ”  and  a
-“  new  Haltia  ”  are  brought.  Considering  that  in  the  above-
-mentioned  proceeding,  which  is  also  known  among  other  tribes,
+“  new  Haltia  ”  are  brought.  Considering  that  in  the  abovementioned  proceeding,  which  is  also  known  among  other  tribes,
 e.g.,  among  the  Chuvashes,  the  water,  by  the  addition  of  new
 and  better  water,  is  provided  with  new  soul-power,  we  may
 assume  that  the  Haltia  here  is  to  be  understood  in  the  sense
@@ -11415,7 +9895,6 @@ Sacrificial  Meal  Among  the  Russian
 
 Karelians
 
-(See  page  229.)
 
 After  photograph  by  I.  K.  Inha.
 
@@ -11462,12 +9941,6 @@ found  among  the  Siryans,  Jen  (now  meaning  the  Christian
 God),  and  among  the  Ostiaks,  Hem  or  Item.  These  last-named
 
 
-218
-
-
-FINNO-UGRIC  MYTHOLOGY
-
-
 have  also  other  names  for  this  god,  such  as  Num-Turem
 (Turem  =  “  sky,”  “  air,”  “  world,”  etc.),  which  has  its
 counterpart  in  the  Vogul  Numi-Torem.  The  word  Turem
@@ -11488,8 +9961,7 @@ the  following  description  of  the  Samoyeds:  “  They  never
 make  images  of  Num,  therefore  they  do  not  know  how  to
 sculpture  him.”  1
 
-Only  in  folk-poetry  do  we  find  the  Sky  god  anthropo-
-morphised.  Here,  we  find  the  Cheremiss  relating  that  he  is
+Only  in  folk-poetry  do  we  find  the  Sky  god  anthropomorphised.  Here,  we  find  the  Cheremiss  relating  that  he  is
 a  man-like  being,  living  in  the  sky.  Like  the  people  down
 below,  he  practises  agriculture,  he  has  green  pastures  and  much
 excellent  cattle.  As  befits  a  good  Cheremiss  farmer,  he  even
@@ -11511,8 +9983,6 @@ the  whole  of  our  earthly  existence,  should  have  early  become
 GODS  OF  SKY  AND  AIR
 
 
-219
-
 the  object  of  the  curiosity  of  primitive  peoples.  It  would
 seem,  nevertheless,  that  however  animated  the  sky  was  re¬
 garded  as  being,  no  sacrifices  were  originally  offered  up  to  it.
@@ -11531,8 +10001,7 @@ tain  peoples,  his  period  of  worship  is  the  summer  months
 only;  as  the  Votiaks,  for  example,  believe  that  Inmar  may  be
 sacrificed  to,  like  the  “  Earth  mother,”  only  up  to  the  begin¬
 ning  of  winter,  after  which  it  is  regarded  as  unsuitable  to  do
-so.4  Quite  apparent  is  the  opinion  that  the  sky  is  a  pro-
-creative  power.  In  their  prayers,  the  Votiaks  call  Inmar,
+so.4  Quite  apparent  is  the  opinion  that  the  sky  is  a  procreative  power.  In  their  prayers,  the  Votiaks  call  Inmar,
 “  the  procreator  and  nourisher,”  the  Mordvins  address  their
 “  god  dwelling  on  high  ”  (Erza:  Vere-pas)  generally  by  the
 name  “procreator,”  Moksha:  Shkaj  or  Shka(j)-bavas,  Erza:
@@ -11550,12 +10019,6 @@ under  the  influence  of  Christianity  and  Islam,  become  a  much
 more  powerful  god,  to  be  worshipped  in  all  the  necessities
 imposed  by  life.  Even  now,  however,  he  is  turned  to  solely
 in  the  case  of  material  needs.  Extremely  characteristic  is  the
-
-
-220
-
-
-FINNO-UGRIC  MYTHOLOGY
 
 
 belief  of  the  Votiaks  as  described  by  an  unknown  author:
@@ -11657,9 +10120,6 @@ i
 GODS  OF  SKY  AND  AIR
 
 
-221
-
-
 ligion  it  is  stated  that  the  Yuraks  offered  up  white  reindeer
 to  Num  on  the  highest  mountains.  When  the  animal  was
 slaughtered,  it  was  held,  as  during  the  rest  of  the  ceremony,
@@ -11679,8 +10139,7 @@ heavens.  For  this  reason,  the  Samoyeds  (Turuhansk  District)
 call  the  North  Star  the  “  nail  of  the  sky,”  “  round  which  the
 heavens  revolve.”  11  The  ancient  Finns  had  also  a  correspond¬
 ing  but  now  forgotten  term,  as  proved  by  the  name  of  the
-North  Star,  borrowed  by  the  Lapps  from  the  Finns,  Bohi-
-navlle  (“  the  nail  of  the  north  ”)  j  its  counterpart  among  the
+North  Star,  borrowed  by  the  Lapps  from  the  Finns,  Bohinavlle  (“  the  nail  of  the  north  ”)  j  its  counterpart  among  the
 Esthonians  being  the  Pohjanael.  The  connection  of  these
 beliefs  with  the  sky  is  described  by  Holzmayer  in  the  follow¬
 ing  words:  “  In  the  middle  of  the  sky,  or  in  the  north,  the
@@ -11690,19 +10149,12 @@ movement  of  the  stars.  As  the  North  Star  is  situated  in  the
 very  centre,  it  is  called  the  c  nail  of  the  north.5  55 12  This  nail
 is,  at  the  same  time,  regarded  as  supporting  the  sky.  Turi
 relates  that  the  Lapps  believe  the  Boahje-naste  (“  north
-nail,”  “  north  star  55 )  to  support  the  sky,  and  that  when  Arc-
-turus,  supposed  to  be  an  archer,  shoots  down  the  Boahje-naste
+nail,”  “  north  star  55 )  to  support  the  sky,  and  that  when  Arcturus,  supposed  to  be  an  archer,  shoots  down  the  Boahje-naste
 with  his  arrow  on  the  last  day,  the  heavens  will  fall,  crushing
 the  earth  and  setting  fire  to  everything.13
 
 The  Lapps  believed  also,  however,  in  a  more  reliable  sup¬
 port  for  the  sky  than  a  nail.  Missionaries  relate  that  the
-
-
-222
-
-
-FINNO-UGRIC  MYTHOLOGY
 
 
 Lapps  sacrificed  to  their  highest  god  Veralden  rade  (“  Ruler
@@ -11722,8 +10174,7 @@ these  pillars  of  the  Lapps  had  a  heavenly  counterpart  is
 shown  by  the  fact  that  in  some  places,  the  name  of  the  North
 Star  is  “pillar  of  the  world”  (Veralden  tshuold).16  It  is
 probable  that  the  Lapps  obtained  both  their  ideas  and  their
-sacrificial  customs  from  the  Scandinavians  (Cf.  Teutonic  Ir-
-minsul,  “  world-pillar  ”)  ;  the  “  nail  ”  may  be  compared  with
+sacrificial  customs  from  the  Scandinavians  (Cf.  Teutonic  Irminsul,  “  world-pillar  ”)  ;  the  “  nail  ”  may  be  compared  with
 the  Scandinavian  Veraldar  nagli,  the  “  world-nail.”  17  The
 corresponding  belief  of  the  ancient  Finns  is  found  nowadays
 only  in  the  phrase,  known  also  to  the  Esthonians,  and  used
@@ -11745,8 +10196,6 @@ to  the  sun,  when  the  latter  had  caused  a  sudden  fainting  fit.19
 
 GODS  OF  SKY  AND  AIR
 
-
-223
 
 Among  the  Samoyeds,  only  the  Yuraks,  according  to  Lehtisalo,
 worship  the  sun,  “  the  kindly  eye  of  the  heavens,”  and  the
@@ -11786,11 +10235,6 @@ and  golden  horns  of  the  Moon  god  are  also  spoken  of.26  Ac¬
 cording  to  Agricola,  the  Finns  believed  that  at  eclipses,  the
 
 
-FINNO-UGRIC  MYTHOLOGY
-
-
-224
-
 “  animals  ”  ( kapeet )  “  ate  up  the  moon,”  and  lunar  markings
 were  explained  by  saying  that  Rahkoi  “  makes  the  moon  black
 in  parts.”  In  Northern  Finland  “  the  man  in  the  moon  ”  is
@@ -11812,11 +10256,9 @@ hung  up  on  a  high  sacrificial-board  behind  the  tent.  The
 Lapps  also  sacrificed  to  the  sun  by  taking  three  switches  of
 birch,  plaiting  them  together  up  to  about  half-way,  where
 they  bound  a  tape.  These  switches  they  besmeared  with  blood
-from  the  sacrifice.  Afterwards  a  ring  was  made  of  a  birch-
-bough  and  laid  in  the  middle  of  the  board  as  an  image  of  the
+from  the  sacrifice.  Afterwards  a  ring  was  made  of  a  birchbough  and  laid  in  the  middle  of  the  board  as  an  image  of  the
 sun,  and  inside  this  a  small  piece  of  the  lungs,  heart,  tongue
-and  lips  of  the  sacrifice.  On  the  ring  they  set  up  the  blood-
-smeared  switches.  The  bones  of  the  sacrifice  were  also  often
+and  lips  of  the  sacrifice.  On  the  ring  they  set  up  the  bloodsmeared  switches.  The  bones  of  the  sacrifice  were  also  often
 placed  within  a  ring  on  the  offering-board.26
 
 Like  the  Norwegian  peasants,  the  Lapps  living  in  Norway
@@ -11891,16 +10333,12 @@ iv.  c*  w
 GODS  OF  SKY  AND  AIR
 
 
-225
-
-
 eaten  by  the  men  together  with  their  wives,  the  Lapps  bowed
 their  knees  and  prayed  the  sun  to  “  pour  its  merciful  rays
 over  the  reindeer,  and  everything  else  they  needed  to  live  on.”
 After  the  meal,  they  did  the  same,  praying  for  “a  merry
 milking-summer  and  good  luck  for  the  reindeer  herds.” 28
-Besides  reindeer,  sheep  and  goats  could  be  used  for  sun-
-sacrifices.  At  times  even  a  spinning-wheel  and  flax  were  set
+Besides  reindeer,  sheep  and  goats  could  be  used  for  sunsacrifices.  At  times  even  a  spinning-wheel  and  flax  were  set
 up  on  the  altar  to  the  Sun  goddess.29
 
 Magic  acts  were  also  at  times  connected  with  the  prayers.
@@ -11939,12 +10377,6 @@ Fig.  6.
 Sun  Ring
 
 
-226
-
-
-FINNO-UGRIC  MYTHOLOGY
-
-
 up  a  ring  of  copper  tied  to  a  copper  chain  in  the  roofs  of  their
 tents  before  the  door,  in  such  a  manner  that  the  rays  of  the
 moon  can  fall  on  the  ring  of  copper ;  believing,  i.e.,  that  the
@@ -11953,8 +10385,7 @@ and  also  protect  them  from  all  injuries  during  the  time  they
 are  with  calf.”  32
 
 Besides  the  Christmas  new  moon,  the  Scandinavian  Lapps
-formerly  worshipped  with  special  ceremonies  the  February-
-moon  also,  which  they  called  Kuova-manno.  Hogstrom  re¬
+formerly  worshipped  with  special  ceremonies  the  Februarymoon  also,  which  they  called  Kuova-manno.  Hogstrom  re¬
 lates  how  he  heard  from  an  old  Lapp  woman  in  Swedish
 Lapmark  that  in  earlier  days  it  had  been  the  custom  at  a
 certain  time  in  February  (probably  the  time  of  the  new  moon)
@@ -11991,9 +10422,6 @@ i
 GODS  OF  SKY  AND  AIR
 
 
-227
-
-
 Fig.  7.
 Moon  Ring
 
@@ -12024,8 +10452,7 @@ but  call  it  also  “  the  winged  old  man,”  to  the  honour  of  whom,
 in  the  more  southern  districts,  they  devour  “  thunder-por¬
 ridge,”  when  the  first  thunder  is  heard,  bowing  in  the  direction
 in  which  the  thunder  travelled.38  We  know  also  the  Siryans
-to  have  greeted  the  first  thunder  of  the  Spring.39  The  Vo-
-tiaks  call  thunder  “  the  Thunder  mother,”  but  have  no  definite
+to  have  greeted  the  first  thunder  of  the  Spring.39  The  Votiaks  call  thunder  “  the  Thunder  mother,”  but  have  no  definite
 idea  of  its  form.  In  their  sacred  groves,  they  sacrifice  horses,
 as  the  Cheremiss  do,  in  order  that  the  Thunderer  may  spare
 their  fields  from  hail  and  give  fruitful  rains.  The  last-named
@@ -12036,8 +10463,6 @@ ripen  the  crops.  A  magic  means  of  stilling  a  thunderstorm  is
 used  by  the  Eastern  Cheremiss,  who,  during  the  storm,  throw
 an  axe  into  the  yard,  sacrificing  at  the  same  time  the  wool  of
 
-
-228  FINNO-UGRIC  MYTHOLOGY
 
 a  white  sheep  in  the  fire,  and  praying  that  the  thunder  should
 pass  by.40
@@ -12126,8 +10551,6 @@ The  devil  in  chains.  (See  page  232.)
 GODS  OF  SKY  AND  AIR
 
 
-229
-
 shipped  because  it  “  brought  thunder  showers  and  the  year’s
 harvest.”  Dating  from  Agricola’s  time  (c.  1550)  is  a  petition
 still  preserved,  written  in  Swedish  by  peasants  from  the  east
@@ -12165,8 +10588,6 @@ our  fields:  fine  straw  beneath,  fine  ears  above,  fine  grain
 within !  ” 45
 
 
-230  FINNO-UGRIC  MYTHOLOGY
-
 Agricola  mentions  also  the  wife  of  the  Thunder  god,
 Rauni,  whose  name  occurs  in  a  song  as  Roonikka,  and  was  also
 known  to  the  Finnish  Lapps  as  Ravdna.  In  the  same  manner
@@ -12199,8 +10620,6 @@ god  Tiermes,  who  had  a  “  bow  ”  ( tiermaz-juks ,  “  rainbow  ”)
 GODS  OF  SKY  AND  AIR
 
 
-231
-
 and  an  “  arrow  ”  as  arms.  With  either  his  hammer,  or  with
 his  bow  and  arrow,  the  Thunder  god  was  regarded  as  driving
 away  evil  spirits  who  everywhere  hide  themselves  at  his  ap¬
@@ -12210,8 +10629,7 @@ times,  Hora-galles  had  as  assistant  a  man-servant.48
 
 The  missionary  Rheen  describes  how  the  Swedish  Lapps
 sacrificed  to  the  Thunder  god :  “  When  the  magic  drum  has
-indicated  that  a  sacrifice  to  Thor  must  be  made,  the  reindeer-
-bull  chosen  as  a  sacrifice  is  bound  fast  behind  the  tent,  where
+indicated  that  a  sacrifice  to  Thor  must  be  made,  the  reindeerbull  chosen  as  a  sacrifice  is  bound  fast  behind  the  tent,  where
 the  women  are  not  allowed  to  go.  The  animal  is  killed  by
 being  stabbed  with  a  knife  in  its  heart.  The  blood  is  pre¬
 served  to  be  smeared  on  the  image  of  Thor.  As  many  rein¬
@@ -12240,8 +10658,6 @@ S.  Kildal  relates  that  such  hammers  were  laid  in  mountain
 grottoes.51  The  Finnish  Lapps  regarded  clefts  in  the  moun-
 
 
-232  FINNO-UGRIC  MYTHOLOGY
-
 tains  as  suitable  places  in  which  to  sacrifice  to  the  Thun¬
 derer.52
 
@@ -12259,8 +10675,7 @@ worshipped  at  times  in  the  stock-yards,  to  the  intent  that  the
 violent  autumn  storms  of  the  steppes  should  not  destroy
 the  straw-roofed  cattle-sheds  or  do  injury  to  the  cattle.53
 For  similar  purposes,  the  Cheremiss  and  the  Mordvins  sacri¬
-fice  to  the  “  Mother  wind  ”  or  “  Wind  mother.”  The  last-
-mentioned  say:  “  When  the  children  of  Wind  mother  are
+fice  to  the  “  Mother  wind  ”  or  “  Wind  mother.”  The  lastmentioned  say:  “  When  the  children  of  Wind  mother  are
 noisy,  the  storm  begins.”  54
 
 The  Esthonians  say  that  the  Wind  god  dwells  in  the  forest
@@ -12291,7 +10706,6 @@ PLATE  XXIX
 
 
 Ostiak  Sacrifice
-(See  page  233.)
 
 After  photograph  by  K.  F.  Karjalainen.
 
@@ -12303,9 +10717,6 @@ innfHMW  II44**^*6
 
 
 GODS  OF  SKY  AND  AIR
-
-
-233
 
 
 of  the  Lapps  as  follows:  “Their  third  great  god  the  Lapps
@@ -12342,17 +10753,10 @@ at  Vasyugan  a  small  piece  of  white  cloth  at  a  birch-tree,  to
 secure  good  luck  for  themselves  in  hunting.61
 
 The  agricultural  peoples  sacrifice  also  to  the  Frost  god.
-The  Votiaks  sacrifice  a  grey  lamb  or  a  duck  to  the  “  rime-
-frost,”  when  during  the  cold  spring  nights  the  rime  appears
+The  Votiaks  sacrifice  a  grey  lamb  or  a  duck  to  the  “  rimefrost,”  when  during  the  cold  spring  nights  the  rime  appears
 on  the  fields.  In  some  districts,  an  annual  sacrifice  is  even
 made  at  Easter-time.62  In  their  prayers,  the  Cheremiss  speak
 of  the  “  Frost  man  ”  and  the  “  Frost  woman.”  But  despite
-
-
-234
-
-
-FINNO-UGRIC  MYTHOLOGY
 
 
 these  names,  they  are  not  regarded  as  anthropomorphic  beings.
@@ -12410,8 +10814,7 @@ stick.  Further,  if  one  throws  the  wood  on  to  the  hearth,  or
 addresses  the  fire  with  evil  words,  it  may  become  vexed.
 Probably,  from  the  very  earliest  times,  fire  was  regarded  as
 something  pure  that  cannot  endure  defilement.  The  most
-common  punishment  to  befall  the  culprit  is  a  kind  of  skin-
-disease.  The  fire  must  then  be  appeased  by  small  sacrifices.
+common  punishment  to  befall  the  culprit  is  a  kind  of  skindisease.  The  fire  must  then  be  appeased  by  small  sacrifices.
 The  Cheremiss  use  the  following  words:  “  Forgive  me,  £  Fire
 mother,’  perhaps  I  have  spat  in  thee  or  wounded  or  defiled
 thee.  Make  me  well  again.”  The  worst  punishment  the  fire
@@ -12430,11 +10833,6 @@ red  or  a  fire-like  colour,  and  pieces  of  stuff.  Despite  these
 sacrifices,  intended  as  clothing  for  the  “  Fire  girl  ”  or  the
 “  Fire  mother,”  it  is  merely  the  animated  fire  itself  that  is
 
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-236
 
 the  object  of  worship.2  The  Mordvins  say:  “  the  Fire  mother
 c  flames,5  55  the  Ostiaks  speak  of  “  the  many-tongued  Fire
@@ -12479,9 +10877,6 @@ fire,55  by  rubbing  two  dry  sticks  against  one  another.  The
 FIRE
 
 
-237
-
-
 power.  For  this  reason,  the  Cheremiss  extinguish  all  their
 village  hearth  fires  on  an  agreed  date  in  the  hottest  part  of  the
 summer,  at  the  close  of  the  “  evil  time,”  draw  forth  a  “  new
@@ -12522,9 +10917,6 @@ Finno-Ugric  peoples,  of  foreign  origin,  probably  Iranian.  A
 
 
 23B
-
-
-FINNO-UGRIC  MYTHOLOGY
 
 
 more  original  custom  is  that  of  the  Lapps,  as  described  by
@@ -12595,12 +10987,6 @@ Cheremiss  worship  also  the  “  Yard  mother  ”  and  the  Mordvins
 the  “  Field  mother  ”  and  the  “  Meadow  mother.”  6
 
 
-240
-
-
-FINNO-UGRIC  MYTHOLOGY
-
-
 “  Earth-luck  or  field-luck  ”  can  be  stolen  from  another  by
 bearing  to  one’s  own  field  a  sod  or  a  little  earth  from  the  field
 of  some  one  more  fortunate.  When  the  Siryans  do  this,  they
@@ -12636,14 +11022,11 @@ Votiaks,  he  had  the  opportunity  of  hearing  how  the  vanished
 “  seer,”  six  other  persons  are  chosen  for  this  purpose,  three
 youths  and  three  maidens,  who,  clad  in  white,  ride  round  the
 village  fields  on  white  horses,  to  seek  the  above-mentioned
-butterfly.  Having  found  this,  the  whole  suite  returns  well-
-pleased,  singing  and  playing  a  song  special  to  this  occasion,  to
+butterfly.  Having  found  this,  the  whole  suite  returns  wellpleased,  singing  and  playing  a  song  special  to  this  occasion,  to
 
 
 DEITIES  OF  THE  EARTH
 
-
-241
 
 the  sacrificial  site  on  the  edge  of  the  field,  where  the  oldest
 men  in  the  village  have,  meanwhile,  slaughtered  a  white
@@ -12683,11 +11066,6 @@ Lucky  the  one  who  gathers  most  in  her  lap,  as  this  is  regarded
 as  a  good  omen.  Should  the  gatherers  of  the  eggs  often  trip
 or  fall,  it  is  regarded  as  a  sign  that  the  grain  will  also  bend
 
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-242
 
 over  during  the  summer  on  account  of  the  heaviness  of  the  ears.
 The  sowing  of  eggs  in  this  manner  is  an  old  custom  common  to
@@ -12765,8 +11143,6 @@ Pf?  1  '  rw  v-  ^W^JS^KM
 DEITIES  OF  THE  EARTH
 
 
-243
-
 is  supposed  to  be  of  the  size  of  a  child,  but  has  the  power,  like
 the  forest  spirit,  of  becoming  longer  or  shorter  according  to
 the  length  of  the  grass.  For  this  reason  it  is  difficult  to  see
@@ -12798,18 +11174,11 @@ veyed  from  an  island,  sleeping  upon  a  corn-ship,  with  his
 mother  as  his  wife.  These  ideas  seem  to  emanate  from  the
 Scandinavian  cult  of  Frey.  The  name  Sampsa  (a  Teutonic
 loan-word,  German  Simse  or  Semse ,  “bulrush”)  signifies  a
-species  of  fodder-grass  (*S 'cirfus  sylvaticus ,  the  wood  club-
-rush),  one  of  the  earliest  products  of  the  spring,  which  is
+species  of  fodder-grass  (*S 'cirfus  sylvaticus ,  the  wood  clubrush),  one  of  the  earliest  products  of  the  spring,  which  is
 gathered  for  the  cattle  when  the  snow  melts,  and  the  roots  of
 which  are  readily  eaten  by  children.20
 
 According  to  Agricola,  the  Karelians  worshipped  deities  of
-
-
-244
-
-
-FINNO-UGRIC  MYTHOLOGY
 
 
 the  different  kinds  of  grain:  Rongoteus  who  “  gave  rye  ”$
@@ -12854,9 +11223,6 @@ Esthonians  under  the  name  of  Peko,  his  image  being  prepared
 DEITIES  OF  THE  EARTH
 
 
-245
-
-
 in  wax  and  preserved  as  the  common  property  of  the  village,
 in  each  farm  in  turn  for  the  duration  of  a  year.  The  feast
 of  Peko  was  held  in  the  spring,  when  vegetation  awakes  to
@@ -12894,11 +11260,6 @@ shepherd  our  herds,  look  after  our  horses,  protect  also  our
 corn  from  snow,  from  hail!  ”  Leaving  Peko  in  the  room,
 they  then  went  on  to  wrestle.  The  one  receiving  the  first
 
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-246
 
 bruise  cried  out  with  a  loud  voice  that  blood  was  shed,  on
 which  all  hurried  to  acclaim  him  as  the  guardian  of  Peko  for
@@ -12943,27 +11304,22 @@ break  during  the  ceremony,  it  is  regarded  as  a  sign  of  hail.
 DEITIES  OF  THE  EARTH
 
 
-247
-
 The  more  Northern  Cheremiss  blow  these  horns  later  in
 the  autumn  after  the  conclusion  of  field-labour,  keeping  them
 for  the  next  year  in  a  secret  place.  During  the  “  dangerous
 time  ”  one  may  not  blow  them.  It  is  further  related  that  the
 members  of  a  wedding-procession,  when  escorting  the  bride
 to  the  village  of  the  bridegroom,  attempt  to  steal  these  horns
-from  her  home,  believing  that  they  carry  with  them  “  corn-
-luck.”  26
+from  her  home,  believing  that  they  carry  with  them  “  cornluck.”  26
 
 The  Mordvins  believe  that  if  absolute  silence  is  observed
-during  the  flowering  of  the  rye,  one  can  hear  from  the  “  corn-
-mother  ”  what  kind  of  a  harvest  to  expect.  One  has  only  to
+during  the  flowering  of  the  rye,  one  can  hear  from  the  “  cornmother  ”  what  kind  of  a  harvest  to  expect.  One  has  only  to
 go  out  in  the  stillness  of  the  night  and  listen ;  should  one  hear
 whistling  from  the  field,  then  a  good  year  may  be  expected,
 but  if  one  hears  weeping  and  wailing,  it  is  a  sign  of  a  year  of
 famine.27
 
-According  to  the  Siryans  a  female  spirit  dwells  in  the  rye-
-fields,  called  Poloznitsa  (from  Russian  Poludnitsa,  “  Mid¬
+According  to  the  Siryans  a  female  spirit  dwells  in  the  ryefields,  called  Poloznitsa  (from  Russian  Poludnitsa,  “  Mid¬
 day-goddess  ”)  and  punishes  all  who  in  any  way  harm  the
 rye  during  the  time  of  flowering.  A  blue  flower  (Centaur ea
 cyanus)  which  grows  among  the  corn,  is  called  “  Poloznitsa’s
@@ -12984,11 +11340,6 @@ of  the  threshing-shed  whence  it  was  brought  at  Christmas¬
 time  into  the  dwelling-house.  There  the  grain  was  separated
 from  the  ears  and  the  straw  thrown  up  to  the  ceiling,  where
 
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-248
 
 part  of  it  remained  clinging  to  the  rafters.  The  spring  sow¬
 ings  were  begun  with  the  grain  obtained  in  this  way  5  the
@@ -13048,7 +11399,6 @@ The  “  Feeding  ”  of  the  Sickle  Among  the
 
 Cheremiss
 
-(See  page  249.)
 
 Water-colour  by  V.  Soldan-Brofeldt.
 
@@ -13067,8 +11417,6 @@ I.  i
 
 DEITIES  OF  THE  EARTH
 
-
-249
 
 called  “  the  feeding  of  the  sickle.”  The  people  of  the  farm
 take  bread,  cheese,  etc.,  out  with  them  to  the  field,  and  kneel
@@ -13107,12 +11455,6 @@ sides  the  grass,  called  forth  also  the  leaves  in  the  spring,  is  a
 Scandinavian  goddess  (Frigg).39
 
 The  Norse  Frey  can  be  recognised  in  the  Scandinavian
-
-
-250
-
-
-FINNO-UGRIC  MYTHOLOGY
 
 
 Lapps’  Veralden-olmai  (“World’s  man”).  The  missionary
@@ -13156,9 +11498,6 @@ buried  in  the  earth;  erecting  thereafter  amongst  them  an
 DEITIES  OF  THE  EARTH
 
 
-251
-
-
 image  made  of  birch-wood,  also  sprinkled  with  blood,  on  the
 breast  of  which,  under  the  face,  the  membrum  genitaie  was
 attached.”  When  the  Lapps  were  asked  why  they  did  this,
@@ -13184,14 +11523,12 @@ CHAPTER  XVI
 DEITIES  OF  BIRTH
 
 
-THE  DEITIES  of  birth  among  the  Lapps  were  Madder-
-akka  and  her  three  daughters  Sarakka,  Juksakka  and
+THE  DEITIES  of  birth  among  the  Lapps  were  Madderakka  and  her  three  daughters  Sarakka,  Juksakka  and
 Uksakka.
 
 Madderakka  ( akka,  “  old  woman  ”)  although  called  the
 mother  of  other  deities,  seems  at  least  in  later  times  to  have
-been  regarded  as  of  less  importance  than  these  others.  Si-
-denius  says  that  the  Lapps  sacrificed  to  her  only  “  so  that  she
+been  regarded  as  of  less  importance  than  these  others.  Sidenius  says  that  the  Lapps  sacrificed  to  her  only  “  so  that  she
 would  allow  her  daughters  to  serve  women.”  He  points  out,
 however,  that  among  some  she  was  believed  to  help  her
 daughters  herself  in  their  duties.1  Jessen  relates  that  she
@@ -13220,8 +11557,6 @@ end  into  two  parts).6  Both  names  of  this  deity  remind  one  of
 
 DEITIES  OF  BIRTH
 
-
-253
 
 a  magic  method  of  assisting  childbirth  and  rendering  it  easier,
 a  method  palpably  touched  on  by  Forbus  when  he  puts  the
@@ -13264,12 +11599,6 @@ second  was  black,  and  the  third  white.  These  were  all  laid
 for  three  days  at  the  door  of  the  tent.  If  it  were  found  that
 
 
-254
-
-
-FINNO-UGRIC  MYTHOLOGY
-
-
 the  black  stick  had  disappeared,  it  was  believed  to  indicate  that
 either  the  mother  or  the  child  would  die.  If,  on  the  other
 hand,  the  white  one  was  lost,  both  would  live.10  S.  Kildal
@@ -13288,11 +11617,9 @@ thy  body?  ” 12
 
 Just  as  the  cleft  stick  seems  to  be  connected  with  the  name  of
 Sarakka,  the  bow  placed  in  the  porridge  is  connected  with  an¬
-other  name,  Juksakka  (“Bow  old  woman”).  Of  this  last-
-named  deity  Solander  says  that  she  helps  women  at  the  pro¬
+other  name,  Juksakka  (“Bow  old  woman”).  Of  this  lastnamed  deity  Solander  says  that  she  helps  women  at  the  pro¬
 duction  and  birth  of  children.  The  most  important  duty  of
-Juksakka  was  to  change  the  girl-child  in  the  womb  to  a  boy-
-child.13  To  gain  her  help  in  this,  sacrifices  had  to  be  offered
+Juksakka  was  to  change  the  girl-child  in  the  womb  to  a  boychild.13  To  gain  her  help  in  this,  sacrifices  had  to  be  offered
 up  to  her.  According  to  Leem  the  Lapps  sacrificed  contin¬
 ually  to  her  because  they  desired  boys  rather  than  girls,  as
 these  last  were  of  no  use  in  the  chase.  Juksakka,  who  is  some¬
@@ -13312,14 +11639,11 @@ hurting  itself.  The  Lapps  sacrificed  drink  to  her  in  the
 DEITIES  OF  BIRTH
 
 
-255
-
 ground  at  the  door  of  the  tent,  where  she  was  supposed  to
 dwell.15
 
 Jessen  adds  that  a  special,  consecrated  building  was  erected
-for  Madderakka  and  Sarakka.  On  some  magic  drums  Sar-
-akka’s  tent  can  be  seen.16  As  the  Lapps  do  not  customarily
+for  Madderakka  and  Sarakka.  On  some  magic  drums  Sarakka’s  tent  can  be  seen.16  As  the  Lapps  do  not  customarily
 erect  special  dwelling-houses  for  their  deities,  there  is  reason
 to  believe  that  the  so-called  “  tent  of  Sarakka  ”  is  a  relic  of
 the  times  when  a  woman  in  childbirth  was  not  allowed  to  stay
@@ -13352,11 +11676,6 @@ were  never  sacrificed  to  the  deities  of  birth.22  From  Randulf’s
 notes  it  appears  that  the  Lapps  also  sacrificed  spinning-wheels
 and  spindles  to  them.23
 
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-256
 
 Certain  customs  had  also  to  be  observed  after  the  calving
 of  a  cow.  According  to  Leem,  the  “  first  milk  ”  had  to  be
@@ -13399,8 +11718,6 @@ with  a  lighted  candle,  as  she  would  blow  it  out.26
 DEITIES  OF  BIRTH
 
 
-257
-
 More  widely  known  also  among  the  Finnish  Lapps,  is  the
 mother,  Madderakka.27  She  might  also  find  her  counterpart
 in  the  Swedish  Jordegumma  (“  Old  woman  of  the  earth  ”),
@@ -13417,8 +11734,7 @@ at  the  said  event.29
 
 Among  the  ancient  Finns  the  deities  of  birth  were  called
 Luonnotar  ( luonto ,  “  nature  ”)  or  Synnytar  ( synty ,  “  birth  ”),
-and  were  three  in  number,  corresponding  thus  with  the  Scandi-
-navic  Norns  and  the  Roman  Parcae.  In  a  magic  song  a  man
+and  were  three  in  number,  corresponding  thus  with  the  Scandinavic  Norns  and  the  Roman  Parcae.  In  a  magic  song  a  man
 says:  “  I  am  created  by  three  Luonnotars.”  These  three  deities
 appear  also  in  the  songs  on  the  origin  of  iron,  in  which  it  is
 described  how  their  milk  was  allowed  by  them  to  run  into
@@ -13439,11 +11755,6 @@ an  older  time,  and  how  much  from  the  Catholic  period  (“  the
 three  Maries”).  Both  the  origin  and  the  name  of  the
 
 
-FINNO-UGRIC  MYTHOLOGY
-
-
-258
-
 Esthonian  Rougutaja,  of  which  all  that  is  known  is  that  she
 was  believed  to  help  at  births,  are  uncertain.32
 
@@ -13462,8 +11773,7 @@ fulness,  the  Kildisin  of  the  earth,  of  the  corn,  and  of  children,
 who  receive  their  own  special  sacrifices.  Similarly,  the  Chere¬
 miss  worship  the  Shotshen  of  children,  animals,  corn,  bees,
 etc.,  as  separate  deities.  In  the  place  of  Shotshen  (=  Hill
-Cheremiss  Shatshektshe),  the  Turco-Tatar  loan-words  Puir-
-sho  (“  procreator  ”)  and  Perke  (Kazan  Tatar,  bar  a  gat,  “  suc¬
+Cheremiss  Shatshektshe),  the  Turco-Tatar  loan-words  Puirsho  (“  procreator  ”)  and  Perke  (Kazan  Tatar,  bar  a  gat,  “  suc¬
 cess  ”)  are  used  with  the  same  meaning.35
 
 From  the  sacrifice  of  the  white  sheep,  one  may  conclude
@@ -13484,8 +11794,6 @@ mother”),  probably  identical  with  the  little-known  Azer-ava
 
 DEITIES  OF  BIRTH
 
-
-259
 
 to  an  old  account,  a  “  corn-begetter  ”  and  “  a  dweller  in  the
 high  place,  in  the  upper  parts  of  the  atmosphere.”  38
@@ -13526,9 +11834,6 @@ fold  and  prayers  offered  up  to  the  “  Sheep-fructifier.”  The
 
 
 26o
-
-
-FINNO-UGRIC  MYTHOLOGY
 
 
 Cheremiss,  from  whom  the  author  took  down  the  above  ac¬
@@ -13573,8 +11878,6 @@ birth.  Possibly  an  idol  of  this  description,  worshipped  for
 DEITIES  OF  BIRTH
 
 
-261
-
 long  distances  around,  has  given  rise  to  many  exaggerated
 tales  of  the  “  Golden  old  woman,”  mentioned  for  the  first
 time  in  an  old  Russian  Chronicle,  and  afterwards,  often  under
@@ -13589,16 +11892,14 @@ child,  only  the  fact  that  special  consideration  is  attached  to
 the  placenta  need  be  mentioned.  We  find  Pallas  already  re¬
 lating  that  it  was  laid  in  a  basket  of  birch-bark,  together  with
 fish  and  meat,  as  a  sacrifice,  and  carried  to  the  forests  where
-it  was  hung  up  in  a  tree.  This  custom  survives  today.  Kar-
-jalainen  says  that  the  Ostiaks  around  Tremyugan  call  the  pla¬
+it  was  hung  up  in  a  tree.  This  custom  survives  today.  Karjalainen  says  that  the  Ostiaks  around  Tremyugan  call  the  pla¬
 centa,  in  which  they  believe  they  can  make  out  human  features,
 “  the  nourishing-mother  of  the  child,”  and,  before  the  birth,
 sew  a  little  shirt  for  it,  to  which  is  further  attached  a  kind  of
 belt  and  a  headdress,  the  whole  being  placed  together  with
 the  placenta  in  the  above  mentioned  basket.  Before  the  bas¬
 ket  is  carried  into  the  forest,  fish,  meat,  and  other  victuals  are
-set  before  it,  and  the  women  bow,  saying:  “  Nourishing-
-mother  of  the  child,  eat!  ”  The  food  used  at  this  ceremony
+set  before  it,  and  the  women  bow,  saying:  “  Nourishingmother  of  the  child,  eat!  ”  The  food  used  at  this  ceremony
 may  only  be  eaten  by  women.  At  Vasyugan,  if  the  newly-born
 is  a  boy,  a  little  bow  with  two  tiny  arrows  is  tied  to  the
 basket.42
@@ -13666,7 +11967,6 @@ The  Sacrifice-Grove  (Kus-Oto)  Among
 
 THE  CHEREMISS
 
-(See  page  263.)
 
 According  to  A.  Reinholm.
 
@@ -13719,11 +12019,6 @@ year.  Moreover,  they  must  be  “  untainted  ”  animals,  i.e.,
 animals  that  have  not  been  used  for  labour  or  for  procreation.
 
 
-FINNO-UGRIC  MYTHOLOGY
-
-
-264
-
 According  to  the  Cheremiss,  not  even  a  goose  or  duck  may  be
 used  that  has  sat  on  eggs.  Should  an  animal  shiver  when  it
 is  looked  at,  this  is  regarded  as  a  good  omen.  When  the
@@ -13775,8 +12070,7 @@ To  obtain  a  clear  and  complete  view  of  the  ceremonies  at
 a  great  festival  in  honour  of  the  Nature  gods  among  the  agri¬
 cultural  Volga  Finns,  we  should  follow  closely  the  programme
 of  one  of  these  festivals  at  any  one  place.  As  the  old  heathen
-customs  have  best  been  preserved  among  the  unbaptized  Chere-
-miss,  we  shall  consider  a  great  mer-izstw&l  among  these
+customs  have  best  been  preserved  among  the  unbaptized  Cheremiss,  we  shall  consider  a  great  mer-izstw&l  among  these
 (Birsk  District,  Tsherlak  village)  at  which  the  author  was
 present  in  1 9 1 3.1
 
@@ -13804,8 +12098,6 @@ in  a  row  a  few  paces  distant  from  each  other.  On  the  extreme
 east  is  the  tree  of  “the  great  Jumo,”  at  which  the  ceremonies
 are  begun.  As  the  ceremonies  at  each  tree  resemble  one  an-
 
-
-266  FINNO-UGRIC  MYTHOLOGY
 
 other  closely;,  we  shall  follow  only  the  one  at  the  tree  of  the
 Heaven  god.
@@ -13889,12 +12181,6 @@ fire,  about  ten  paces  away  from  this,  a  post  of  birch-wood  is
 driven  into  the  ground  and  to  this  the  sacrificial  horse  is
 
 
-268
-
-
-FINNO-UGRIC  MYTHOLOGY
-
-
 bound  fast  with  a  bridle  made  solely  of  lime-bark  (“  the
 silver  bridle  ”).  To  this  ceremony  belong  also  a  footsnare
 of  plaited  lime-bark  with  which  the  forefeet  of  the  sacrifice
@@ -13913,8 +12199,7 @@ the  former,  praying  as  he  did  so,  in  a  little  iron  ladle.  With
 great  curiosity,  the  priest  examines  the  shape  formed  by  the
 metal  as  it  fell  into  the  water.  Should  there  be  nothing  in
 its  shape  that  resembles  the  sacrifice  it  is  thrown  into  the  fire
-and  a  new  lot  melted;  but  if  there  is,  this  shows,  as  the  Chere-
-miss  believe,  that  the  god  is  willing  to  accept  the  animal.
+and  a  new  lot  melted;  but  if  there  is,  this  shows,  as  the  Cheremiss  believe,  that  the  god  is  willing  to  accept  the  animal.
 The  pewter  figure  which  is  called  the  “  picture  ”  or  “  shadow  ”
 of  the  sacrifice  is  set  for  the  while  on  the  “  large  ”  sacrificial
 loaf.
@@ -14002,12 +12287,6 @@ let  the  shaving  fall  right.”  The  third  shaving  also  is  laid  in
 the  porridge-pan.
 
 
-270
-
-
-FINNO-UGRIC  MYTHOLOGY
-
-
 The  assistant  of  the  sacrificing  priest  now  pours  fresh  water
 into  a  wooden  bowl,  takes  this  in  his  right  hand  and  green
 lime-branches  in  his  left  and  goes  to  the  foal,  after  having  en¬
@@ -14048,8 +12327,6 @@ all  present,  kneeling,  pray  half-aloud:  “  O  good,  great  god,
 SACRIFICES  TO  NATURE  GODS
 
 
-271
-
 let  the  sacrifice  shake  and  shiver!  ”  The  sprinkling  may  not,
 however,  be  repeated  an  unlimited  number  of  times,  but  the
 animal,  after  a  ninth  attempt,  is  taken  out  of  the  grove  and
@@ -14060,13 +12337,11 @@ diately.  The  animal’s  feet  are  bound  together  with  a  rope
 of  lime-bark,  and  it  is  then  thrown  over  on  to  its  left  side;  the
 head  must  also  now  be  in  the  direction  of  the  tree.  A  smaller
 hole  is  dug  in  the  ground  at  the  head,  and,  in  order  that  the
-blood  shall  not  flow  on  the  ground,  is  covered  with  lime-
-branches.  The  kart  now  places  himself  before  the  tree  and
+blood  shall  not  flow  on  the  ground,  is  covered  with  limebranches.  The  kart  now  places  himself  before  the  tree  and
 says:  a  We  on  our  side  have  brought  and  set  up  a  sacrifice  for
 thee,  accept  thou  it  on  thy  side  and  let  the  rising  c  soul  ’
 ( tson )  be  a  foal  with  shining  hair,  etc.”  Meanwhile  the
-slaughterer  cuts  the  veins  of  the  neck  open,  with  an  old-
-fashioned  knife  used  only  at  sacrifices,  so  that  the  blood
+slaughterer  cuts  the  veins  of  the  neck  open,  with  an  oldfashioned  knife  used  only  at  sacrifices,  so  that  the  blood
 streams  through  the  lime-branches  into  the  hole.  The  first
 warm  drops  are  taken  by  the  kart  in  a  little  wooden  spoon,
 after  which  he  goes  as  before  round  the  fire  to  the  tree  and
@@ -14075,8 +12350,7 @@ Send  peace  and  justice  to  all  peoples  living  under  the  sky!  ”
 Having  said  which,  he  throws  the  blood  up  into  the  tree,
 goes  again  to  the  foal  and  fills  the  spoon  with  blood  as  this
 continues  to  flow  out  of  the  wound.  This  time  he  steps  to
-the  left  of  the  fire  and  with  his  face  to  it  says:  “  Thou,  ‘  Fire-
-mother,’  with  fire  and  steam,  with  thy  sharp  tongue  carry
+the  left  of  the  fire  and  with  his  face  to  it  says:  “  Thou,  ‘  Firemother,’  with  fire  and  steam,  with  thy  sharp  tongue  carry
 up  the  sacrifice  to  the  great  god!  ”  At  the  same  time  he
 throws  the  blood  into  the  fire.  Afterwards,  the  offering-girdle,
 intended  later  to  be  placed  round  the  tree,  is  drenched  with
@@ -14086,11 +12360,6 @@ time  hung  up  on  the  post  to  which  the  foal  had  been  tied,
 and  the  flaying  of  the  foal,  in  which  four  men  take  part,
 begins.  Now  also,  the  head  of  the  victim  must  be  kept  towards
 
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-272
 
 the  tree.  The  candle  at  the  foot  of  the  tree  burns  all  this
 time,  a  new  one  being  used  to  replace  the  old  one  as  soon  as
@@ -14167,8 +12436,6 @@ After  photograph  by  U.  Holmberg.
 SACRIFICES  TO  NATURE  GODS
 
 
-273
-
 fast  to  another  post.  The  sacrifice  of  this  is  made  before  the
 same  tree  and  is  performed  by  the  same  kart .  The  ceremonies
 are  also  the  same  as  with  the  foal,  except  for  the  casting  of
@@ -14203,14 +12470,8 @@ the  breast,  the  heart,  the  aorta,  the  back  of  the  neck,  the
 throat,  the  tongue,  the  lips,  and  from  the  liver.  On  examining
 more  closely  the  order  of  these  twelve  parts  one  notices  that
 they  stand  towards  each  other  pretty  much  in  the  same  rela¬
-tion  as  in  the  body  of  the  animal.  This  stick  with  meat-
-slices,  called  sopsary  the  kart  places  in  the  sacrificial  girdle  with
+tion  as  in  the  body  of  the  animal.  This  stick  with  meatslices,  called  sopsary  the  kart  places  in  the  sacrificial  girdle  with
 
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-274
 
 these  words:  “  O,  bless  and  protect  us,  great  god!  The  shining
 sacrificial  horse,  etc.,  etc.  —  accept  it  with  good  feeling  $  with
@@ -14249,11 +12510,8 @@ with  the  great  c  tassel,’  and  with  the  c  great  pewter,’  we  ap-
 SACRIFICES  TO  NATURE  GODS
 
 
-275
-
 proach  thee;  grant  to  us  health,  happiness,  riches  and  peace.
-Give  family-happiness  in  the  house,  cattle-luck  in  the  stock-
-yards,  grain-luck  in  the  threshing-barn,  bee-luck  in  the  hives,
+Give  family-happiness  in  the  house,  cattle-luck  in  the  stockyards,  grain-luck  in  the  threshing-barn,  bee-luck  in  the  hives,
 money-luck  in  the  money-chest,  give  all  kinds  of  luck  and
 progress!  ”  After  which  he  throws  the  brand  into  the  fire
 and  seizing  the  lime-branch  which  he  had  earlier  whittled,
@@ -14289,11 +12547,6 @@ the  bough,  so  that  it  falls  into  the  fire.  Thereafter  he  splits
 both  branches  of  the  bough,  threading  on  them  (see  Fig.  1 1,  e)
 the  afore-mentioned  shavings  in  the  order  in  which  they  were
 
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-276
 
 whittled.  The  object  thus  obtained,  suldes ,  is  besmeared  with
 the  porridge  and  placed  in  the  girdle  next  to  the  meat  stick.
@@ -14361,8 +12614,6 @@ Water-colour  by  V.  Soldan-Brofeldt.
 SACRIFICES  TO  NATURE  GODS
 
 
-277
-
 many  kinds  of  protection.  Further,  he  thanks  the  god  for
 having  attended  the  sacrifices  with  fortune  and  accepted  the
 offerings  in  good  feeling.  Finally  he  prays  for  pardon,
@@ -14397,15 +12648,9 @@ turns  to  the  Fire  god  and  prays  that  the  last  drop  of  blood
 might  be  burned  up,  those  also  that  possibly  have  spattered
 further.
 
-The  kart  now  gives  to.  eight  assisting  persons  (“  goblet-
-bearers  ”)  each  his  bowl,  saying  in  which  god’s  honour  each
+The  kart  now  gives  to.  eight  assisting  persons  (“  gobletbearers  ”)  each  his  bowl,  saying  in  which  god’s  honour  each
 shall  cast  the  contents  into  the  fire.  The  “  goblet-bearers  ”
 
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-278
 
 pass  round  the  fire  in  the  direction  of  the  sun,  stopping  to  the
 left  of  the  same.  This  round  is  made  several  times,  the  sacri¬
@@ -14450,9 +12695,6 @@ empty  hide ;  a  great  resin-bowl  we  set  up  on  it.”  The  already
 SACRIFICES  TO  NATURE  GODS
 
 
-279
-
-
 mentioned  “  silver  bridle  ”  is  also  thrown  upon  the  burning
 skin.  Finally,  the  “  stand  ”  for  the  resin-bowls  is  also  burnt
 up.  The  sheep-skin  is  not  burnt  by  the  Cheremiss,  but  given
@@ -14482,8 +12724,7 @@ axe,  and  reminding  the  god  again  of  the  shining  sacrifice  foal.
 Having  encircled  the  fire  and  thrown  in  the  brand,  he  stands
 before  the  tree  and  reads  a  prayer  nearly  as  long  as  that  said
 on  the  preceding  day.  After  the  prayer  everyone  shakes  his
-hand  in  thanks.  The  priest  himself  now  sacrifices  the  drinking-
-bowl,  and  two  assistants  the  meat-bowls  as  on  the  day  before,
+hand  in  thanks.  The  priest  himself  now  sacrifices  the  drinkingbowl,  and  two  assistants  the  meat-bowls  as  on  the  day  before,
 the  prayers  also  being  the  same.  The  presenting  of  the  sacri¬
 ficial  objects  and  the  eating  of  the  orolek-^t sh  follows,  with
 the  former  expressions  of  good  wishes.  All  remains,  even  the
@@ -14493,9 +12734,6 @@ coins  have  been  added,  are  hidden  again  in  the  earth.  While
 
 
 28o
-
-
-FINNO-UGRIC  MYTHOLOGY
 
 
 doing  this,  the  kart  says:  u  Sacrifice  tree,  do  not  say  we  left
@@ -14560,9 +12798,6 @@ rf  »^'s
 SACRIFICES  TO  NATURE  GODS
 
 
-281
-
-
 stick  vary.  Why  the  piece  of  liver  should  be  placed  on  the
 point  of  the  stick,  while  the  others  are  placed  in  some  kind  of
 natural  order,  the  Cheremiss  could  not  explain.  Could  it  be
@@ -14611,8 +12846,6 @@ about  many  kinds  of  misfortune.1
 THE  SHAMAN
 
 
-283
-
 But  though  the  office  of  shaman  brought  thus  both  honour
 and  riches,  it  was  not  open  to  everybody  to  take  up  this  pro¬
 fession,  certain  psychic  qualities  being  necessary  in  its  service.
@@ -14650,11 +12883,6 @@ the  ground  in  some  lonely  place,  or  the  pupil  was  led  to  the
 underworld  to  imbibe  there  the  wisdom  of  former  shamans.
 At  the  first  call  of  the  spirits,  the  missionaries  relate  that  the
 
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-284
 
 Lapp  behaved  like  one  mentally  afflicted,  was  unable  to  bear
 his  wife,  his  children,  or  his  servants,  but  forsaking  these
@@ -14730,14 +12958,12 @@ divination.  (See  page  287.)
 
 THE  SHAMAN  285
 
-deer-bull  ”  emerged  from  the  contest  as  the  winner.  “  Sha-
-man-birds  ”  were  also  used  in  these  contests.8
+deer-bull  ”  emerged  from  the  contest  as  the  winner.  “  Shaman-birds  ”  were  also  used  in  these  contests.8
 
 The  spirit  of  the  shaman  was  called  sueje  (originally
 “  shadow  ”)  by  the  Scandinavian  Lapps.9  The  fact  that  this
 is  supposed  to  be  able  to  take  on  the  shape  of  a  reindeer,  a  fish,
-a  bird,  or  a  snake  shows  that  the  sue  j  e-animal  in  Northern  Lap-
-mark,  corresponds  with  the  shaman-animals  which,  according
+a  bird,  or  a  snake  shows  that  the  sue  j  e-animal  in  Northern  Lapmark,  corresponds  with  the  shaman-animals  which,  according
 to  the  Southern  Lapps,  assist  the  shaman  when,  during  a  period
 of  unconsciousness,  he  visits  the  underworld.  Such  animals
 were  the  “  j<m7o-reindeer-bull,”  the  “  salvo- bird,”  the  “  salvo -
@@ -14766,12 +12992,6 @@ it  occurs  also,  that  the  shamans  owning  the  c  reindeer  9  become
 as  tired  and  exhausted  as  their  £  reindeer.’  ”  The  same  author
 relates  also  that  when  the  shaman  falls  into  a  trance,  “  he
 journeyed  in  his  c  salvo- fish  ’  to  the  underworld,  and  when
-
-
-286
-
-
-FINNO-UGRIC  MYTHOLOGY
 
 
 he  wakes  from  his  trance,  the  ‘  fish  ’  has  brought  him  back
@@ -14818,8 +13038,6 @@ Of  flying  in  the  form  of  fire,  an  interesting  report  comes
 THE  SHAMAN
 
 
-287
-
 from  the  Norwegian  Lapp  territory.  When  two  Lapps  quar¬
 relled,  they  sat  down  on  the  ground  and  began  to  sing  that
 their  saivo  would  send  them  their  “  light,”  which  was  believed
@@ -14852,18 +13070,11 @@ more  widely  used  than  the  bowl-drum,  was  prepared  by
 stretching  the  skin  over  a  band  of  wood  of  about  the  width
 of  the  palm  of  the  hand.  The  wood  had,  if  possible,  to  be
 without  knots,  and  the  ends  were  bent  together  and  fastened
-with  wooden  plugs  or  twisted  twigs.  The  form  of  the  sieve-
-drum  was  generally  oval,  one  end  being  seldom  broader  than
+with  wooden  plugs  or  twisted  twigs.  The  form  of  the  sievedrum  was  generally  oval,  one  end  being  seldom  broader  than
 the  other.  The  handle  was  a  narrow  cross-piece  of  wood
 fastened  to  the  back.
 
 The  bowl-drum  was  fashioned  out  of  a  hollowed  piece  of
-
-
-288
-
-
-FINNO-UGRIC  MYTHOLOGY
 
 
 wood  so  that  this  formed  a  rounded  bowl,  over  the  open
@@ -14886,8 +13097,7 @@ being  the  Heaven  gods.  On  these  drums  the  sun  does  not
 take  a  dominating  position  as  it  does  on  the  sieve-drums.
 Mixed  forms  are  also  to  be  found.
 
-Further,  the  drums  vary  in  their  ornamentation.  The  sieve-
-drum,  which  resembles  the  Siberian  drums,  is,  like  the  latter,
+Further,  the  drums  vary  in  their  ornamentation.  The  sievedrum,  which  resembles  the  Siberian  drums,  is,  like  the  latter,
 often  furnished  with  small  metal-wire  belts  or  chains,  on
 which  various  silver,  brass,  and  iron  jingles  are  hung.  These
 belts  and  chains  are  fastened  to  the  back  of  the  drums  either
@@ -14932,8 +13142,6 @@ According  to  water-colour  by  A.  Reinholm.
 THE  SHAMAN
 
 
-289
-
 The  shaman  held  his  drum  in  great  respect ;  to  prevent  it
 being  looked  on  by  anybody,  it  was  often  kept  in  a  case  of  skin
 in  the  inner  part  of  the  tent.  According  to  the  Lapps,  the
@@ -14974,11 +13182,6 @@ When  a  Lapp  thus  wished  to  divine  the  future  in  some  mat¬
 ter  or  other,  he  clad  himself  as  for  a  feast.  He  washed,
 combed  his  hair,  and  put  on  his  best  clothes.  The  same  was
 
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-290
 
 done  also  by  the  others  taking  part  in  this  holy  act.  The
 neighbours  came  in  their  red  and  blue  jackets,  ornamented  with
@@ -15021,8 +13224,6 @@ the  ring  jumped  from  one  figure  to  another,  backwards  and
 THE  SHAMAN
 
 
-291
-
 forwards,  the  shaman  sang  a  peculiar  song  in  which  all  the
 other  Lapps  present,  male  or  female,  joined  in.  The  men
 had,  however,  to  sing  louder  than  the  women.  In  the  song,
@@ -15059,12 +13260,6 @@ only  could  visit  the  spirits  dwelling  under  the  earth,  from
 whom  sickness  and  misfortunes  in  general  were  supposed  to
 emanate.  The  cause  of  an  illness  was  either  the  desire  of
 some  earlier  departed  person  for  the  company  of  a  relative,
-
-
-292
-
-
-FINNO-UGRIC  MYTHOLOGY
 
 
 or  a  punishment  for  some  misdemeanour  or  the  omitting  of  a
@@ -15108,8 +13303,6 @@ song,  the  women  also  raised  their  voices  and  joined  in.  Fi-
 THE  SHAMAN
 
 
-293
-
 nally,  the  shaman  declared  the  cause  of  the  sickness,  and  the
 deity  to  whom  sacrifice  had  to  be  made,  and  informed  them
 of  the  nature  of  the  animal  and  the  place  for  the  sacrifice,
@@ -15149,11 +13342,6 @@ prophesying  coming  events,  of  following  events  in  distant
 places,  of  finding  hidden  treasures,  of  resisting  sickness  —
 even,  at  times,  death,  are  all  described.  The  following  in-
 
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-294
 
 cident  is  related  as  an  example.  Certain  Norwegian  merchants
 had  once  visited  the  Lapps  and  were  sitting  at  table  when  the
@@ -15299,8 +13487,6 @@ o?  m$m
 THE  SHAMAN
 
 
-295
-
 into  trances,  have  been  met  with  also  among  the  Ugrian
 peoples.  Here  also  the  shaman  possesses  a  special  protecting
 spirit,  “  head  spirit,”  said  to  protect  him  on  his  journeys  to
@@ -15328,8 +13514,7 @@ Stephen  ”  (d.  1396)  mentions  that  the  Siryan  magicians  could
 happening  in  a  distant  neighbourhood,  in  another  town,  in  the
 ninth  land.”  29  Most  probably,  this  happened  in  an  ecstatic
 state.  A  similar  condition  is  perhaps  intended  by  the  phrase
-in  a  Russian  Chronicle,  in  which  it  is  related  how  a  Nov-
-gorodian  visited  a  Chudic  magician  in  1071,  the  latter  “  lying
+in  a  Russian  Chronicle,  in  which  it  is  related  how  a  Novgorodian  visited  a  Chudic  magician  in  1071,  the  latter  “  lying
 dumb  ”  while  he  invoked  the  spirits  to  his  aid.30  For  the
 shaman’s  falling  into  a  trance,  the  Finns  have  to  this  day  a
 special  expression  ( langeta  loveen ,  “  fall  into  trance  ”)  which
@@ -15353,9 +13538,6 @@ pi  '-V  '■»
 ■
 
 
-SIBERIAN  MYTHOLOGY
-
-
 BY
 
 UNO  HOLM  BERG
@@ -15367,9 +13549,6 @@ DOCENT  OF  THE  UNIVERSITY  OF  FINLAND,  HELSINGFORS
 
 
 m  t«wu#v
-
-
-INTRODUCTION
 
 
 MOST  dominant  among  the  Siberian  peoples  is  the  great
@@ -15393,8 +13572,7 @@ tribes  up  to  south  of  the  Caspian  Sea,  the  Kirghis  in  Russia
 and  Turkestan,  the  Altai  Tatars  in  the  neighbourhood  of  the
 Altai,  where  they  form  a  number  of  smaller  groups  with  dif¬
 ferent  dialects,  —  Soyots,  Karagass,  the  Abakan,  Cholym,  and
-Baraba  Tatars,  —  the  Teleuts,  the  Lebed  Tatars  and  the  Ku-
-mandines,  and  also  the  Yakuts  by  the  River  Lena  in  North
+Baraba  Tatars,  —  the  Teleuts,  the  Lebed  Tatars  and  the  Kumandines,  and  also  the  Yakuts  by  the  River  Lena  in  North
 Siberia,  and  the  Chuvash  from  the  bend  of  the  Volga  in
 Russia.
 
@@ -15404,11 +13582,6 @@ different  Turkish  tribes,  which  have  appropriated  the  Mongo¬
 lian  language.  In  the  course  of  raids  of  conquest  the  Mon¬
 golians  have  also  overflowed  to  other  districts,  amongst  others,
 
-
-INTRODUCTION
-
-
-300
 
 to  Afghanistan,  where  they  are  now  termed  Moghols.  Closely
 related  to  the  Mongolians  are  the  Kalmucks  to  the  south  of
@@ -15449,11 +13622,6 @@ prosperity.  Their  chiefs  have  ruled  everywhere  in  Asia.
 An  important  centre  of  development  seems  to  have  existed
 
 
-INTRODUCTION
-
-
-301
-
 at  some  period  south  of  Lake  Baikal  on  the  Selenga  River  and
 its  tributary,  the  Orkhon,  where  a  number  of  ancient  Turkish
 inscriptions  on  the  gravestones  of  departed  chiefs  have  been
@@ -15491,11 +13659,6 @@ even  to  Europe.  After  the  Mongolian  conquest,  different
 Tatar  tribes  remained  behind  in  Russia,  represented  by  the
 Tatars  at  present  dwelling  there.  Jenghiz  Khan  himself  was
 
-
-INTRODUCTION
-
-
-302
 
 extremely  liberal  in  religious  matters,  tolerating  all  the  dif¬
 ferent  religious  sects.  His  successors,  notably  Kubilai  ( 1 260-
@@ -15542,18 +13705,12 @@ An  Old  Turkish  Image  and  Memorial
 Stone  with  Inscription  in  North
 Mongolia
 
-(See  page  30 1.)
 
 After  photograph  by  S.  Palsi.
 
 
 BMVJMff  W  WWW*
 
-
-INTRODUCTION
-
-
-303
 
 Traces  of  the  religion  conformed  to  at  one  time  by  the  whole
 of  the  Altaic  race,  shamanism,  have  adhered  to  many  of  the
@@ -15595,11 +13752,6 @@ south,  agriculture  has  recently  been  taken  up.
 The  oldest  information  concerning  the  Mongolian  and
 
 
-INTRODUCTION
-
-
-304
-
 Tatar  religions,  is  found  in  accounts  of  travels  by,  certain  Euro¬
 peans,  sent  out  in  the  thirteenth  century  to  Central  Asia.  One
 of  these  was  the  Franciscan  monk,  Johannes  de  Plano  Carpini,
@@ -15626,8 +13778,7 @@ ments  of  knowledge  concerning  Mongolian  religious  beliefs  are
 to  be  found  in  certain  Chinese,  Mohammedan,  and  Mongolian
 sources,  amongst  others,  in  the  Mongolian  Chronicle  of
 Ssanang  Ssetsen,  translated  into  German  by  the  Academician
-I.  J.  Schmidt  ( Geschichte  der  Ost-Mongolen  und  ihres  Fur-
-stenhausesy  1829).
+I.  J.  Schmidt  ( Geschichte  der  Ost-Mongolen  und  ihres  Furstenhausesy  1829).
 
 The  oldest  reports  are,  however,  so  few  and  insignificant,
 that  it  is  not  possible  to  build  up  any  clear  representation  of  the
@@ -15638,12 +13789,6 @@ day,  even  in  many  cases  right  on  to  our  time,  it  has  still  been
 possible  to  gather  together  an  imposing  mass  of  material  for
 
 
-INTRODUCTION
-
-
-305
-
-
 investigation.  The  foundation  of  these,  at  present  compara¬
 tively  large,  collections,  was  already,  laid  in  the  seventeenth
 century,  and  later,  after  the  Russian  migration  to  Siberia.
@@ -15652,9 +13797,6 @@ native  investigators  have  played  an  important  part  in  this  work.
 Some  of  the  northern  tribes,  in  particular  the  Tungus  living  in
 their  inaccessible  primeval  forests,  are,  however,  up  to  the
 present  day,  still  very  little  known.
-
-
-SIBERIAN  MYTHOLOGY
 
 
 CHAPTER  I
@@ -15688,11 +13830,6 @@ Heaven  and  how  he  returns  along  the  river  at  such  terrific
 speed  that  the  wind  whistles  through  him.2  It  may  be  diffi¬
 cult  for  us  to  understand  these  pictures,  but  to  the  Yenisei
 
-
-SIBERIAN  MYTHOLOGY
-
-
-308
 
 Ostiak  nothing  can  be  more  natural.  Do  they  not  know  from
 experience  that  the  earth  is  slanting,  that  the  rushing  river
@@ -15751,7 +13888,6 @@ Boat-Gods  and  Boats  of  the  Yenisei
 
 OsTIAKS
 
-(See  page  308.)
 
 After  photograph  by  U.  Holmberg.
 
@@ -15763,8 +13899,6 @@ rasstir  a  Aim
 
 WORLD  PICTURES
 
-
-309
 
 a  time  to  place  his  arrow  between  the  edge  of  the  earth  and
 the  rim  of  the  sky  was  enabled  thus  to  penetrate  outside  the
@@ -15805,11 +13939,6 @@ storeys  of  the  sky.  The  Moon  old  man  lives  in  the  sixth  and
 the  Sun  mother  in  the  seventh  Heaven.8  The  primitive
 peoples  of  Siberia  do  not,  however,  know  the  reasons  for  this
 
-
-SIBERIAN  MYTHOLOGY
-
-
-310
 
 division,  neither  can  they  explain  the  significance  of  any
 Heaven.  The  most  northern  peoples  place  in  the  different
@@ -15876,8 +14005,7 @@ its  position,  earthquakes  occur.12
 The  idea  of  one  or  more  giant  fish  as  supporters  of  the
 earth  is  general  also  in  East  European  legends,13  while  in
 Jewish  myths  the  fish-shaped  Leviathan  bears  the  foundations
-of  the  earth.  This  belief,  as  the  name  Mandishire  (  =  Man-
-jucri)  hints  at,  has  come  to  Central  Asia  from  India,  where  a
+of  the  earth.  This  belief,  as  the  name  Mandishire  (  =  Manjucri)  hints  at,  has  come  to  Central  Asia  from  India,  where  a
 similar  belief  has  prevailed  for  ages.
 
 Probably  with  a  current  of  civilization  from  India  through
@@ -15897,11 +14025,6 @@ is  found  among  the  Votiaks  of  the  Jelabuga  District.16  The
 world-bull  is  known  also  to  the  Votiaks  of  the  Sarapul  Dis¬
 trict,  who  believe  that  earthquakes  are  caused  by  the  bull  some-
 
-
-SIBERIAN  MYTHOLOGY
-
-
-312
 
 times  starting  to  move.  It  is  said  to  be  afraid  of  sunlight,  as
 the  light  rays  kill  it.17  The  Kirghis  relate  that  the  world-bull
@@ -15983,9 +14106,6 @@ as  opposites,  cannot  represent  the  original  beliefs  of  a  primitive
 people.  Clues  showing  which  way  to  turn  in  tracing  the  ori-
 
 
-SIBERIAN  MYTHOLOGY
-
-
 314-
 
 gin  of  this  myth  are  found  in  the  name  “  Satan  ”  and  in  the
@@ -16047,8 +14167,7 @@ met  with  among  the  Alarsk  Buriats.  When  Burkhan
 (=  Buddha)  came  down  from  Heaven  to  create  the  earth,
 the  devil  (Sholmo)  appeared  beside  him  to  give  advice  how
 the  earth  was  to  be  made  from  the  earth-matter  and  stones
-under  the  water,  offering  at  the  same  time  to  fetch  the  earth-
-matter.  God  scattered  the  earth-matter,  which  the  devil  had
+under  the  water,  offering  at  the  same  time  to  fetch  the  earthmatter.  God  scattered  the  earth-matter,  which  the  devil  had
 brought  him,  on  the  surface  of  the  ocean  and  said:  “Let  the
 world  be  born!  ”  As  a  reward  for  his  trouble  the  devil  begged
 for  a  part  of  the  land,  receiving  enough  to  plant  his  staff  on.
@@ -16071,11 +14190,6 @@ Later,  we  meet  with  the  same  antagonistic  original  beings  in
 the  teachings  of  the  Persian  Mani  and  in  the  legends  of  other
 semi-Christian  sects  which  have  made  their  influence  felt  in
 
-
-SIBERIAN  MYTHOLOGY
-
-
-316
 
 Northern  Syria,  Palestine  and  Caucasia,  and  in  which,  besides
 Iranian,  old  Babylonian  fancies  and  beliefs  are  also  mingled.
@@ -16162,9 +14276,6 @@ the  earth  which  the  devil  had  brought  him  beside  the  rest  on
 the  water,  and  the  world  at  once  began  to  expand  and  grow
 
 
-SIBERIAN  MYTHOLOGY
-
-
 3l8
 
 harder,  but  with  the  growing  of  the  world  the  piece  of  earth
@@ -16189,8 +14300,7 @@ people,  dresses  himself  for  the  occasion  in  water-fowl’s  garb.
 When  in  one  tale  the  devil  makes  three  unsuccessful  attempts
 to  reach  the  bottom  of  the  sea  in  a  duck’s  skin,  he  winds  a
 goose’s  skin  about  him  and  at  last  succeeds  in  bringing  earth.13
-The  Voguls,  like  the  East  Europeans,  often  imagine  the  earth-
-fetcher  to  be  a  real  water-fowl,  for  which  the  bringing  of  earth
+The  Voguls,  like  the  East  Europeans,  often  imagine  the  earthfetcher  to  be  a  real  water-fowl,  for  which  the  bringing  of  earth
 in  its  mouth  is  much  more  natural  than  for  a  human-like  being.
 But  mostly,  this  bird  is  the  antagonist  of  God,  Satanael,  who
 endeavours  to  deceive  God  by  hiding  a  part  of  the  earth  in
@@ -16228,8 +14338,7 @@ In  the  first  of  the  creation  tales  given,  it  is  said  that  the
 devil  intended  to  drown  God,  who  had  seated  himself  on  the
 little  earth-disc  just  formed  upon  the  surface  of  the  water.
 In  a  corresponding  Bulgarian  tale  the  devil  has  the  same  idea.
-He  tries  to  coax  God  to  lie  down  and  sleep  upon  the  earth-
-disc  in  order  to  be  able  to  push  him  into  the  sea,  and  to  become
+He  tries  to  coax  God  to  lie  down  and  sleep  upon  the  earthdisc  in  order  to  be  able  to  push  him  into  the  sea,  and  to  become
 supreme  in  the  world.  Although  God  well  knows  the  inten¬
 tions  of  his  enemy,  he  lays  himself  down  and  pretends  to  sleep.
 The  devil  then  seizes  him  and  begins  to  carry  him  to  the  edge
@@ -16251,11 +14360,6 @@ and  placed  it  on  its  back  on  the  water.  a  I  shall  sit  on  the
 stomach  of  the  frog,”  said  Otshirvani,  u  dive  thou  to  the
 bottom  and  bring  up  what  thy  hand  finds.”  Chagan-Shukuty
 
-
-SIBERIAN  MYTHOLOGY
-
-
-320
 
 dived  twice,  and  the  second  time  he  succeeded  in  bringing  up
 some  earth.  Then  Otshirvani  told  him  to  sprinkle  it  on  the
@@ -16299,13 +14403,9 @@ with  this  myth,  which  is  unknown  on  Roman  Catholic  territory.
 THE  ORIGIN  OF  THE  EARTH
 
 
-321
-
-
 In  the  Greek  Catholic  Church,  on  the  contrary,  and  especially
 among  certain  sects,  it  has  been  greatly  favoured.  This  fact
-can  also  be  proved  in  Finland,  which  has  been  a  meeting-
-point  for  the  currents  of  both  Western  and  Eastern  culture.
+can  also  be  proved  in  Finland,  which  has  been  a  meetingpoint  for  the  currents  of  both  Western  and  Eastern  culture.
 Tales  have  been  recorded  only  in  Eastern  Finland,  in  which
 the  devil,  sometimes  with  the  aid  of  a  diver-bird,  fetches  earth
 from  the  bottom  of  the  sea,  hides  a  part  of  it  in  his  mouth,
@@ -16340,11 +14440,6 @@ true  Kurbystan  ”  (=  Ahura  Mazda). 24  But  in  districts  where
 Buddhism  is  common,  names  derived  from  this  religion,  such
 
 
-SIBERIAN  MYTHOLOGY
-
-
-322
-
 as  Burkhan,  etc.,  are  also  met  with,  although  the  appearance
 of  the  devil  here  hints  at  Iranian  influence.  Might  it  therefore
 be  assumed,  as  Dahnhardt  also  supposes,  that  the  dualistic  tale
@@ -16372,8 +14467,7 @@ tales  the  fetching  of  the  piece  of  earth  is  spoken  of  in  con¬
 nection  with  the  story  of  the  flood.  The  Samoyeds  in  the
 District  of  Turukhansk  relate  the  following:  Seven  people  had
 been  saved  in  a  boat  and,  when  they  saw  that  the  water  rose
-and  rose  and  that  there  was  no  help,  they  begged  the  diver-
-bird  to  fly  into  the  water  and  seek  land  there.  After  seven
+and  rose  and  that  there  was  no  help,  they  begged  the  diverbird  to  fly  into  the  water  and  seek  land  there.  After  seven
 days  the  diver-bird  returned  bringing  a  grassy  piece  of  turf
 in  its  beak,  and  of  this  they  asked  God  to  create  for  them  an
 earth.25  Also  in  a  Russian  variant  God  sends  the  devil  to  bring
@@ -16388,17 +14482,13 @@ news  of  the  appearance  of  land  in  its  beak,  but  from  this  we
 THE  ORIGIN  OF  THE  EARTH
 
 
-323
-
-
 cannot  yet  be  certain  that  Noah’s  bird  has  been  the  original
 of  the  water-fowl  appearing  in  our  tales.  For  quite  simple
 reasons,  two  myths,  both  treating  of  great  floods  and  of  a  bird,
 may  have  become  confounded.
 
 In  a  Vogul  creation  tale,  which  mentions  several  birds,  these
-have  work  of  two  kinds  to  perform  The  red-  and  the  black-
-throated  diver  fetch  earth,  but  the  raven  is  sent  out  to  see  how
+have  work  of  two  kinds  to  perform  The  red-  and  the  blackthroated  diver  fetch  earth,  but  the  raven  is  sent  out  to  see  how
 large  the  earth  has  grown.  On  the  first  day  the  bird  is  away
 but  a  short  time,  on  the  second  it  returns  toward  midday,  on
 the  third  not  until  the  evening.  Every  day  its  journey  takes  a
@@ -16412,8 +14502,7 @@ It  is  to  be  noted,  in  addition,  that  stories  of  the  creation  and
 of  the  flood  are  often  met  with  separately  among  the  same
 people.
 
-Besides  the  preceding  versions,  in  which  God  and  the  earth-
-bringer  are  antagonists,  a  creation  tale  without  this  dualistic
+Besides  the  preceding  versions,  in  which  God  and  the  earthbringer  are  antagonists,  a  creation  tale  without  this  dualistic
 idea  is  met  with  in  Asia.  In  this  the  Creator  uses  quite  simply
 an  ordinary  water-fowl  in  order  to  bring  up  earth  from  the
 waters.
@@ -16431,9 +14520,6 @@ According  to  Buriat  tales,  at  the  bottom  of  the  shoreless
 primordial  ocean,  there  were  black  earth  and  red  clay.  When
 Burkhan  decided  to  create  an  earth  he  asked  the  white  diver
 to  fetch  him  earth-matter  from  under  the  water.  The  diver
-
-
-SIBERIAN  MYTHOLOGY
 
 
 3H
@@ -16523,14 +14609,11 @@ not  been  met  with  further  west,  may  have  been  added  later
 to  the  dualistic  creation  story  from  a  simpler  and  more  primi-
 
 
-326  SIBERIAN  MYTHOLOGY
-
 tive  creation  tale,  which  has  perhaps  been  known  also  among
 the  Votiaks.
 
 If  we  assume,  therefore,  that  the  tales  in  which  a  natural
-water-fowl  and  not  the  Satanael  of  the  Bogomils  acts  as  earth-
-fetcher,  are  more  primitive,  we  can  easily,  explain  the  bird-like
+water-fowl  and  not  the  Satanael  of  the  Bogomils  acts  as  earthfetcher,  are  more  primitive,  we  can  easily,  explain  the  bird-like
 features  of  the  devil,  often  appearing  even  in  stories  where
 the  devil  dives  into  the  water  in  human  shape.  In  this  way,  the
 problem  of  the  fetching  of  earth,  which  can  be  explained  in
@@ -16569,9 +14652,6 @@ two  years,  the  third  time  he  returned  no  more.35
 THE  ORIGIN  OF  THE  EARTH
 
 
-327
-
-
 Noticeable,  further,  is  the  part  played  by  the  turtle  in  the
 tales  of  the  North  American  Indians.  There  is  a  story  among
 the  Sioux  Indians  of  how  the  turtle  and  some  water-bird  swam
@@ -16596,7 +14676,6 @@ In  the  beginning  of  time,  so  say  the  Buriats,  there  was  noth¬
 ing  but  water,  and  a  great  turtle  who  looked  into  the  water.
 God  turned  this  animal  oh  its  back  and  built  the  world  on  its
 
-1
 
 stomach.  In  another  connection  we  have  already  mentioned
 how,  according  to  an  Altaic  story,  the  heavenly  Otshirvani  and
@@ -16614,11 +14693,6 @@ in  a  form  coloured  by  Buddhism.  As  is  known,  the  Creator
 appears  already  in  the  ancient  Indian  tales  in  the  shape  of  a
 turtle.  In  this  form  he  fetches  mud  from  the  bottom  of  the
 
-
-SIBERIAN  MYTHOLOGY
-
-
-328
 
 primordial  ocean  and  makes  of  it  a  rapidly  expanding  earth,
 which  he  supports  on  the  surface  of  the  vast  surrounding
@@ -16664,8 +14738,6 @@ one  of  the  seven  gods  of  Heaven  stirred  the  chaotic  waters
 THE  ORIGIN  OF  THE  EARTH
 
 
-329
-
 with  his  staff.  When  he  raised  his  staff,  muddy  foam  dripped
 from  it  and,  expanding  and  thickening,  formed  the  islands  of
 Japan.41
@@ -16706,11 +14778,6 @@ creation  of  the  world.  This  conception  appears  already  among
 the  syncretistic  Mandaean  sect,  the  influence  of  which  was  felt
 
 
-SIBERIAN  MYTHOLOGY
-
-
-330
-
 in  Mesopotamia  in  the  first  centuries  of  our  era.  Their  tale
 had  possibly  been  accepted  by  the  Manicheans.  It  tells  how
 fire  is  slung  into  the  water  and  how,  with  the  ensuing  steam,
@@ -16719,8 +14786,7 @@ water  forms  into  solid  land.43
 
 The  presence  of  oriental  learning  is  to  be  discerned  also
 in  a  conception  met  with  in  Central  Asia  of  a  primi¬
-tive  chaos  consisting  of  fire,  water  and  wind.  Burkhan-
-bakshi  (=  Buddha-master;  bakshi=  Mandshu  fakshi ,
+tive  chaos  consisting  of  fire,  water  and  wind.  Burkhanbakshi  (=  Buddha-master;  bakshi=  Mandshu  fakshi ,
 “  master,”  Chinese  fashi,  “  teacher  ”)  separated  them  and
 scattered  the  dust  thus  formed  on  the  surface  of  the  water,
 where  it  gradually  grew  into  an  earth  covered  with  grass  and
@@ -16796,11 +14862,6 @@ water,  gathering  into  these  depressions,  afterwards  formed  the
 lakes  and  rivers.  God  is  said  to  have  at  last  become  angry
 
 
-SIBERIAN  MYTHOLOGY
-
-
-332
-
 and  to  have  drowned  the  mammoth  in  a  lake  where  it  still  lives
 under  the  ground.49
 
@@ -16809,8 +14870,6 @@ of  mountains  and  valleys.  God  lived  in  Heaven  originally,
 but  settled  later  upon  the  earth.  When  he  then  travelled,
 moving  on  skis,  the  thin  earth  bent  under  him  like  new,  pliant
 ice.  That  is  the  reason  why  the  surface  of  the  earth  is
-
-50
 
 
 uneven.
@@ -16822,8 +14881,7 @@ CHAPTER  III
 THE  PILLAR  OF  THE  WORLD
 
 THE  REGULAR  diurnal  movement  of  the  stars  round
-an  axis  at  the  North  Star,  the  reasons  for  which  never-
-ending  rotation  were  earlier  unknown,  gave  birth  to  an  idea
+an  axis  at  the  North  Star,  the  reasons  for  which  neverending  rotation  were  earlier  unknown,  gave  birth  to  an  idea
 that  this  apparent  centre  of  the  universe  was  formed  by  some
 object  which  could  be  represented  in  concrete  form,  and  which
 was,  in  addition,  believed  to  support  the  roof  of  the  sky.  This
@@ -16851,11 +14909,6 @@ so  from  the  fact  that  several  of  the  more  northern  peoples
 have  kept  up  this  custom  even  to  our  days.  These  peoples
 were  under  Turco-Tatar  influence,  and  even  offered  up  blood-
 
-
-SIBERIAN  MYTHOLOGY
-
-
-334
 
 sacrifices  to  these  pillars.  The  Ostiaks  call  these  wooden
 images  of  the  pillar,  “  town-pillars  ”  or  “  the  strong  pillars  of
@@ -16889,8 +14942,6 @@ village  of  Irtysh,  resembling  greatly  the  afore-mentioned
 THE  PILLAR  OF  THE  WORLD
 
 
-335
-
 “  the  strong  pillar  of  the  town’s  centre  ”  of  the  Ostiaks,  which
 a  certain  tale  describes  as  “  the  tree  planted  by  God,”  cannot
 be,  as  Karjalainen  assumes,  intended  merely  for  the  tying  of
@@ -16912,8 +14963,7 @@ intended  to  represent,  the  people  themselves  do  not  know;  but
 it  is  probable  that  this  bird  has  flown  here  from  the  mythology
 of  the  ancient  peoples.  The  pillars,  on  which  these  birds  are
 placed  and  which  have  sometimes  cross-pieces  like  branches,
-are,  according  to  the  Dolgans,  a  symbol  of  the  “  never  falling-
-props  ”  before  the  dwelling  of  the  Supreme  God.  On  the
+are,  according  to  the  Dolgans,  a  symbol  of  the  “  never  fallingprops  ”  before  the  dwelling  of  the  Supreme  God.  On  the
 cross-pieces,  so  it  is  said,  dwell  the  sons  of  God.4
 
 It  would  be  interesting  to  know  what  the  sky,  which  this
@@ -16921,11 +14971,6 @@ wonderful  pillar  was  supposed  to  support,  was  originally  be¬
 lieved  to  be.  We  can  hardly  be  mistaken  if  we  suppose  it  to
 have  been  pictured  as  some  kind  of  a  roof,  the  purpose  of
 
-
-SIBERIAN  MYTHOLOGY
-
-
-336
 
 which  was  to  protect  the  earth  and  life  on  the  earth.  To  this
 points  also  the  view  still  prevalent  in  some  places,  viz.,  that
@@ -16969,9 +15014,6 @@ some  of  the  descriptions  in  the  Old  Testament  the  sky  appears
 THE  PILLAR  OF  THE  WORLD
 
 
-337
-
-
 tent-like,  e.g.,  in  the  40th  chapter  of  Isaiah,  in  which  God  is
 described  as:  “  He  who  stretcheth  out  the  heavens  as  a  curtain
 and  spreadeth  them  out  as  a  tent  to  dwell  in.”
@@ -16984,14 +15026,12 @@ to  be  eternally  revolving  round  the  sky-post,  awakened  the
 idea  of  bonds  attaching  these  to  one  another.  As  the  peoples
 related  to  the  Turks  sometimes  imagined  the  stars  to  be  a
 great  drove  of  horses,  we  can  understand  why,  in  the  tales  of
-these  people,  the  world-pillar  is  often  called  a  mighty  tether-
-ing-post  for  horses.  As  such  the  Yakuts  call  it  “  the  horse-
+these  people,  the  world-pillar  is  often  called  a  mighty  tethering-post  for  horses.  As  such  the  Yakuts  call  it  “  the  horse-
 post  ruler.”  10  The  Buriats  have  tales  of  the  nine  sons  of  a
 spirit  named  Boshintoi,  living  in  the  sky;  these  sons,  as  skilful
 blacksmiths,  taught  men  to  prepare  iron,  and  are  therefore
 worshipped  and  praised  in  the  following  words:  “  The  nine
-white  smiths  of  Boshintoi .  .  .  made  of  the  North  Star  a  horse-
-post  and  of  the  golden  lake  a  race  course.”  11  In  the  same
+white  smiths  of  Boshintoi .  .  .  made  of  the  North  Star  a  horsepost  and  of  the  golden  lake  a  race  course.”  11  In  the  same
 way  as  the  Nomads  of  Central  Asia  have  a  post  for  the  tether¬
 ing  of  their  steeds  before  their  buildings,  the  gods  are  said
 to  fasten  theirs  to  the  heaven-post.  Certain  Siberian  Tatar
@@ -17011,11 +15051,6 @@ a  “  stone  ”  pillar  is  also  mentioned.  A  strange,  rectangular,
 transparent  pillar  of  stone,  three  fathoms  in  height,  appears
 
 
-SIBERIAN  MYTHOLOGY
-
-
-338
-
 in  the  centre  of  an  area  of  iron  in  the  tales  of  the  Yakuts.14  .
 Probably  such  world-pillars  are  hidden  also  among
 the  stone  pillars  on  the  prairies  of  Central  Asia.  At  any
@@ -17028,8 +15063,7 @@ pillars  of  the  Ugrians  were  imagined  to  be  seven-storeyed.
 This  was  also  true  of  the  pillar  at  Tsingala,  as  although  the
 object  itself  had  no  signs  pointing  to  the  fact,  the  words  in  the
 prayer,  in  which  the  god  of  Heaven  is  closely  connected  with
-the  pillar  god,  run  as  follows:  “  My  seven-divided  high  man-
-father  thou  art,  a  six-divided  high  man  thou  art.  My  iron
+the  pillar  god,  run  as  follows:  “  My  seven-divided  high  manfather  thou  art,  a  six-divided  high  man  thou  art.  My  iron
 pillar  man-father,  to  the  foot  of  the  holy  tree,  my  metal
 pillar  man-father,  to  the  foot  of  the  holy  tree,  to  partake  of  a
 generous  dish  of  head-meat,  to  partake  of  a  generous  dish  of
@@ -17037,8 +15071,7 @@ breast-meat,  we  called  thee.”  The  word  u  six-divided  ”
 or  u  six-marked  ”  is  here  only  a  poetic  reiteration.  Another
 prayer  noted  down  in  which  a  Heaven  god  called  Sanke  is
 addressed  in  addition  to  the  post  runs:  “  Seven-divisioned  high
-man,  Sanke,  my  father,  my  in-three-directions-watching  man-
-father,  my  in-three-directions-protecting  man-father.  To  the
+man,  Sanke,  my  father,  my  in-three-directions-watching  manfather,  my  in-three-directions-protecting  man-father.  To  the
 holy  ground  of  my  iron  pillar  man-father,  to  the  innocent
 ground,  at  the  foot  of  the  holy  tree  erected  by  him,  I  stand  my
 blood-animal  blood-sacrifice.”  15
@@ -17096,9 +15129,6 @@ mtmsti  f'?
 THE  PILLAR  OF  THE  WORLD
 
 
-339
-
-
 bound  to  one  rope  and  tie  them  to  the  strong  town-pillar.”  16
 In  the  Yakut  tales  the  seven  reindeer  at  the  “  iron  tree  ”
 are  also  mentioned.17  Most  probably  these  “  seven  ani¬
@@ -17137,11 +15167,6 @@ not  be  separated  from  the  world-pillars.  In  any  case,  the
 seven-divisioned  “  iron  pillar  man  ”  has  a  heavenly  counter-
 
 
-SIBERIAN  MYTHOLOGY
-
-
-340
-
 part,  as  the  Vogul  tales  tell  of  a  “  seven-divided  pure  silver
 holy  pillar  ”  to  which  the  son  of  God  ties  his  steed  when
 visiting  his  father.20
@@ -17165,8 +15190,7 @@ When  he  places  his  foot  on  the  lowest  notch  he  has  reached
 the  first  Heaven,  and  so  on  until  he  rises  into  the  ninth.21
 
 The  tree,  along  which  the  Altai  shaman  rises  into  Heaven,
-though  furnished  with  divisions,  is  not  really  a  post,  but  a  leaf-
-crowned  birch-tree.  Thus,  we  find  here  an  intermediate  stage
+though  furnished  with  divisions,  is  not  really  a  post,  but  a  leafcrowned  birch-tree.  Thus,  we  find  here  an  intermediate  stage
 between  the  above  mentioned  world-pillars  and  the  branched
 world-tree  supposed  to  rise  from  the  centre  of  the  earth.  As
 the  holy  pillars  of  the  Ostiaks  had  either  seven  divisions  or
@@ -17202,22 +15226,15 @@ mountains,  but  came  from  abroad,  ready-shaped  to  a  particular
 cosmography.  It  is  worthy  of  note  that  this  mythical  mountain
 is  often  placed  in  Heaven  itself.  Thus,  the  Over-god  Bai-
 Ylgon  (“  rich-great  ”)  lives  in  Heaven  “  on  a  golden  moun¬
-tain.”  3  Similarly,  the  tales  of  the  Yakuts  tell  of  the  u  milky-
-white  stone  mountain  ”  of  Heaven.4  Often  this  mountain  is
+tain.”  3  Similarly,  the  tales  of  the  Yakuts  tell  of  the  u  milkywhite  stone  mountain  ”  of  Heaven.4  Often  this  mountain  is
 described  as  rising  in  storeys,  the  number  of  which  varies,  but
 is  generally  the  same  as  the  number  of  storeys  into  which
 Heaven  is  divided  among  that  particular  people.  A  certain
-Central  Asian  tale  describes  the  central  mountain  of  the  earth-
-disc  as  “  three-stepped.”  5  The  Ostiaks  speak  of  the  “  seven¬
+Central  Asian  tale  describes  the  central  mountain  of  the  earthdisc  as  “  three-stepped.”  5  The  Ostiaks  speak  of  the  “  seven¬
 storied  mountain  ”  of  Heaven.6  Even  Heaven  itself  is  some¬
 times  imagined  as  a  mountain  of  this  description ;  its  underside,
 which  we  mortals  see,  is  like  a  rounded  arch.  An  Altaic  crea-
 
-
-SIBERIAN  MYTHOLOGY
-
-
-342
 
 tion  tale  relates  how  Ulgen  when  creating  the  earth,  sat  on  a
 “  golden  mountain  ”  where  the  sun  and  the  moon  always  shine,
@@ -17262,8 +15279,6 @@ frog  (turtle),  which  gazed  into  the  water.  God  turned  this
 THE  WORLD-MOUNTAIN
 
 
-343
-
 animal  over  and  created  the  world  on  its  belly.  On  each  foot
 he  built  a  continent,  but  on  the  navel  of  the  frog  he  founded
 the  Sumbur-mountain.  On  the  summit  of  this  mountain  is  the
@@ -17304,11 +15319,6 @@ a  giant  mountain  in  the  centre  of  the  earth-disc  with  a  summit
 touching  the  sky,  another  in  which  the  mountain  itself  is  situ-
 
 
-SIBERIAN  MYTHOLOGY
-
-
-344
-
 ated  in  the  sky,  or  the  whole  of  the  sky  is  imagined  to  be  a
 mountain.  Unless  these  ideas  have  a  separate  origin,  the
 latter  has  in  all  probability  developed  from  the  former.  The
@@ -17326,8 +15336,7 @@ art,  where  this  rather  narrow  central  mountain  widens  at  meas¬
 ured  intervals  to  represent  the  different  storeys  of  Heaven.13
 In  this  shape  Sumeru  resembles  a  tree  rather  than  a  mountain,
 and  is  well  designed  to  throw  light  on  the  manner  in  which
-the  branched  world-tree  may  have  developed  from  the  world-
-pillar.
+the  branched  world-tree  may  have  developed  from  the  worldpillar.
 
 A  Central  Asian  tale  places  on  this  high,  three-stepped  cen¬
 tral  mountain  a  still  greater  world-tree.  That  this  mountain,
@@ -17352,9 +15361,6 @@ lamb.14
 
 
 THE  WORLD-MOUNTAIN
-
-
-345
 
 
 To  this  heaven-mountain  idea,  there  is  thus  also  connected
@@ -17397,11 +15403,6 @@ name  is  identifiable  with  that  of  the  Indian  bird  Garuda.  The
 hero  Otshirvani,  who  changes  himself  into  a  bird,  is  the  Bud-
 
 
-SIBERIAN  MYTHOLOGY
-
-
-346
-
 dhist  Bodhisattva  Vairapani,  and  is  only  an  addition,  taken
 from  legends,  to  this  ancient  tale.
 
@@ -17411,8 +15412,7 @@ ings  brought  by  Lamaism  into  Central  and  Eastern  Asia.  Ac¬
 cording  to  notes  made  among  the  Kalmucks  the  whole  of  the
 proportions  of  the  universe  is  strictly  fixed.  The  height  of
 the  central  mountain  is  80,000  leagues  above  the  surface  of  the
-ocean,  and  at  the  same  distance  is  its  foundation  in  the  world-
-ocean,  where  it  rests  on  a  stratum  of  gold,  borne  in  its  turn
+ocean,  and  at  the  same  distance  is  its  foundation  in  the  worldocean,  where  it  rests  on  a  stratum  of  gold,  borne  in  its  turn
 by  a  turtle.  Round  Sumeru  there  are  seven  circular  “  golden  ”
 mountain  chains,  divided  from  this  and  from  each  other  by
 seven  seas.  Naturally  these  seas  also  are  ring-shaped.  The
@@ -17442,9 +15442,6 @@ the  northern  yellow,  and  the  eastern  white.  These  different
 
 
 THE  WORLD-MOUNTAIN
-
-
-347
 
 
 colours  are  said  to  come  from  the  jewel  or  metal  coverings
@@ -17490,8 +15487,6 @@ prevails  in  Tibet  and  in  other  Buddhistic  districts,  has  its  roots
 in  the  mists  of  antiquity.  It  is  strange  to  find  this  colour  idea
 connected  with  the  four  cardinal  points  also  among  certain
 
-
-343  SIBERIAN  MYTHOLOGY
 
 North  American  Indian  tribes.  Naturally,  the  colours  of  the
 different  points  vary  among  different  peoples.  The  Chinese
@@ -17539,12 +15534,6 @@ Ostiaks,  which  contain  images  obviously  borrowed  from  the
 Tatars,  this  tree,  like  the  heavens  themselves,  is  said  to  be
 seven-storeyed.3  More  often,  however,  it  is  regarded  as  pierc¬
 ing  the  different  floors  of  the  sky,  thrusting  at  the  same  time,
-
-
-350
-
-
-SIBERIAN  MYTHOLOGY
 
 
 like  the  central  mountain  which  is  its  foundation,  its  roots  deep
@@ -17602,8 +15591,7 @@ THE  TREE  OF  LIFE
 
 On  the  yellow  navel  of  the  eight-edged  earth,  according  to
 one  of  their  tales,  there  is  a  dense,  eight-branched  tree.  Its
-bark  and  knots  are  silver,  its  sap  golden,  its  cones  like  nine-
-cornered  goblets,  and  its  leaves  wide  as  the  hide  of  a  horse.
+bark  and  knots  are  silver,  its  sap  golden,  its  cones  like  ninecornered  goblets,  and  its  leaves  wide  as  the  hide  of  a  horse.
 From  the  crown  of  the  tree  runs  foaming  a  heavenly,  yellowish
 liquid.  When  passers-by  drink  of  this,  the  tired  among  them
 are  refreshed  and  the  hungry  become  satisfied.7
@@ -17613,8 +15601,7 @@ dwelling-place  of  “  the  First  Man  ”$  and  therefore  some  sort
 of  paradise.  When  “  the  First  Man,”  on  appearing  on  the
 earth,  wished  to  know  why  he  had  been  created,  he  approached
 this  giant  tree,  the  crown  of  which  “  pierces  through  the  three¬
-storeyed  Heaven  ”  and  “  along  the  branches  of  which  a  light-
-coloured  liquid  flows  ”  bringing  blessedness  to  the  one  tasting
+storeyed  Heaven  ”  and  “  along  the  branches  of  which  a  lightcoloured  liquid  flows  ”  bringing  blessedness  to  the  one  tasting
 it,  and  saw  an  opening  appear  in  the  trunk,  from  which  opening
 a  female,  visible  only  to  the  waist,  informed  him  that  he  had
 been  created  to  become  the  father  of  the  human  race.8
@@ -17634,15 +15621,9 @@ sap  was  silvery,  its  leaves  never  withered  and  its  cones  were
 like  a  row  of  reversed  goblets.  The  crown  of  the  tree  rose
 over  the  seven  storeys  of  Heaven,  being  the  tethering-post  of
 the  Over-god  Yryn-ai-tojon,  and  its  roots  went  deep  down
-into  the  underground  depths  where  they  were  the  dwelling-
-pillars  of  the  strange  mythical  beings  there.  By  means  of  its
+into  the  underground  depths  where  they  were  the  dwellingpillars  of  the  strange  mythical  beings  there.  By  means  of  its
 leaves  the  tree  talked  with  the  dwellers  in  Heaven.
 
-
-SIBERIAN  MYTHOLOGY
-
-
-352
 
 Walking  southward  the  White  Youth  saw  a  calm  “lake  of
 milk  ”  in  the  centre  of  a  green,  grassy  plain,  which  lake  was
@@ -17698,7 +15679,6 @@ Old  Turkish  Memorial  Image  in  North
 
 Mongolia
 
-(See  page  30 1.)
 
 After  photograph  by  S.  Palsi.
 
@@ -17711,8 +15691,6 @@ antdMmr  esaum®
 
 THE  TREE  OF  LIFE
 
-
-353
 
 description  of  nature  in  the  tale,  in  which  the  mountains  with
 white  caps  resembling  rabbit-skin  appearing  in  the  north  are
@@ -17752,13 +15730,7 @@ and  overflowingness.”  It  is  further  related  that  when  the
 spirit  of  the  tree,  “  a  white-haired  aged  goddess,”  mottled  of
 
 
-SIBERIAN  MYTHOLOGY
-
-
-354
-
-body  like  a  woodcock  and  with  breasts  as  large  as  “  leather-
-bags,”  appears,  the  tree  creaks  and  groans,  growing  smaller,
+body  like  a  woodcock  and  with  breasts  as  large  as  “  leatherbags,”  appears,  the  tree  creaks  and  groans,  growing  smaller,
 until  with  the  re-entrance  of  the  goddess  it  regains  its  former
 size.  From  this  spirit  of  the  tree  the  Lonely  Man  receives
 the  knowledge  that  his  father  is  the  Heaven  god  Ar-tojon
@@ -17798,8 +15770,6 @@ the  tree  of  life  which  bare  twelve  manner  of  fruits  and  yielded
 THE  TREE  OF  LIFE
 
 
-355
-
 her  fruit  every,  month:  and  the  leaves  of  the  tree  were  for  the
 healing  of  the  nations.”  Here  we  find  also  the  health-giving
 properties  of  the  tree  of  life  mentioned.  It  is  thus  obvious
@@ -17838,8 +15808,6 @@ they  lost  and  were  vanquished.  The  gods  then  threw  down
 sand  from  the  mountain,  and  even  gold,  and  in  this  way
 the  earth  was  created,  on  to  which  two  gods,  male  and
 
-
-356  SIBERIAN  MYTHOLOGY
 
 female,  descended  in  order  to  people  the  earth  with  their
 descendants.”  11
@@ -17884,8 +15852,6 @@ for  the  Yakut  tale  mentioned.  Their  tree  of  life  resembles
 THE  TREE  OF  LIFE
 
 
-357
-
 more  the  ancient  Egyptian  pictures,  in  which  a  date-palm  de¬
 scribed  as  being  partly  a  tree  and  partly  a  woman,  gives  to  its
 ward  nourishment  producing  eternal  life.  Sometimes  this
@@ -17925,11 +15891,6 @@ The  precursors  of  the  Yakut  tales  have  probably  been  the
 paradise  ideas  of  the  ancient  Iranians,  like  the  beliefs  of
 the  West  Siberian  peoples,  who  place  this  mighty  tree  on  “  the
 
-
-SIBERIAN  MYTHOLOGY
-
-
-358
 
 iron  mountain  ”  rising  from  the  centre  of  the  earth-disc.  From
 ancient  Persian  literature  we  see  that  they;  also  called  the  cen¬
@@ -17972,8 +15933,6 @@ south  or  the  north,  from  the  east  or  the  west  of  the  central
 THE  TREE  OF  LIFE
 
 
-359
-
 place  (the  earth),  I  should  bear  marks  of  trees  and  grass  and
 I  should  give  out  the  scent  of  the  wind ;  if  I  had  risen  from  the
 bowels  of  the  earth,  I  should  have  the  dust  of  the  earth  on
@@ -18013,11 +15972,6 @@ itself  is  regarded  as  a  mountain-lake,  as  each  river  pierces  a
 rock,  said  to  resemble  some  animal.  The  rivers  flowing  towards
 the  east,  south,  west,  and  north  emerge  from  rocks  which  are
 
-
-SIBERIAN  MYTHOLOGY
-
-
-360
 
 respectively  like  the  mouths  of  an  elephant,  a  bull,  a  horse,
 and  a  lion.21  The  animals  in  this  tale  represent  the  points  of
@@ -18079,9 +16033,6 @@ Shitkur,  came  to  the  woman  explaining  that  her  husband  had
 deceived  her  and  that  he  was  building  a  great  ship  in  the  forest.
 And  in  the  end  the  devil  begged  the  woman  to  help  him,
 saying:  “The  ship  will  soon  be  ready  and  thy  husband  will
-
-
-SIBERIAN  MYTHOLOGY
 
 
 3<$2
@@ -18167,11 +16118,6 @@ the  astonished  Noah  asked  him  how  he  had  come  into  the
 ark:  “  I  came  at  thine  invitation,  there  being  among  the
 
 
-SIBERIAN  MYTHOLOGY
-
-
-364
-
 creations  of  God  none  accursed  but  I.”  b  There  are,  how¬
 ever,  no  indications  that  the  already  cited  tales  could  have
 spread  into  Siberia  from  Islam.
@@ -18245,15 +16191,9 @@ to  the  house-purification  ceremonies  forty  days  after  a  death,
 and  begged  to  return  the  domestic  animals,  which  the  dead,
 according  to  the  people,  sometimes  take  with  them.  In  the
 shaman  rites  also  he  is  often  spoken  with  and  desired  to  con¬
-vey  the  prayers  of  the  people  to  the  Over-god.8  His  dwelling-
-place  is  situated  in  the  third  heaven,  where  the  paradise  of  the
+vey  the  prayers  of  the  people  to  the  Over-god.8  His  dwellingplace  is  situated  in  the  third  heaven,  where  the  paradise  of  the
 blessed  is,  and  from  there,  at  suitable  times,  he  sends  his  mes-
 
-
-SIBERIAN  MYTHOLOGY
-
-
-366
 
 senger  with  a  soul  for  a  child  born  on  the  earth.  In  this
 capacity  he  is  called  Jajutshi  (“  the  Orderer  ”).9
@@ -18299,8 +16239,6 @@ among  the  Altaic  peoples?  Without  doubt,  the  beliefs  of  the
 DESTRUCTION  OF  THE  WORLD
 
 
-367
-
 Iranians  may,  be  regarded  as  having  brought  this  about.  Their
 “  First  Man,”  Yima,  who  was  worshipped  as  the  ruler  over
 souls,  was  at  the  same  time  the  hero  of  the  flood.  This  ruler
@@ -18341,11 +16279,6 @@ Far  away  in  the  north,  on  the  tundras  of  the  Samoyeds,
 a  flood  tale  has  also  been  recorded,  in  which,  as  in  the  ancient
 
 
-SIBERIAN  MYTHOLOGY
-
-
-368
-
 Indian  tales,  seven  persons  are  said  to  have  been  saved  in  a
 boat.  The  Samoyeds  go  on  to  relate  how,  after  the  flood,  a
 terrible  drought  followed,  so  that  these  survivors  were  nearly
@@ -18382,14 +16315,11 @@ telling  how  God  sent  a  sea  of  fire  upon  the  earth  in  order  to
 destroy  the  devil.  The  cause  of  the  fire  they  call  “  the  fire¬
 water.”  In  the  destruction  of  all  creation,  only  the  gods  and
 a  few  mortals  succeeded  in  saving  themselves.  The  former
-placed  themselves  on  an  u  iron  ship,”  the  latter  on  a  u  seven-
-bottomed  beech-raft,”  which  was  provided  in  addition  with
+placed  themselves  on  an  u  iron  ship,”  the  latter  on  a  u  sevenbottomed  beech-raft,”  which  was  provided  in  addition  with
 
 
 DESTRUCTION  OF  THE  WORLD
 
-
-369
 
 a  fireproof,  sevenfold  cover  of  sturgeon-skin.  The  tale
 gives  thus  the  same  means  of  escape  as  the  ordinary  flood
@@ -18410,8 +16340,7 @@ imagination  of  the  people,  the  white  streaks  appearing  among
 the  Northern  Lights  being  sometimes  called  “  The  track  of
 the  white  horse  of  the  Earth-watching  man,”  but  even  then
 this  tale  can  hardly  have  been  born  among  the  Ugrians.  A
-hero  riding  across  a  sea  of  fire  on  a  magic  steed  is  a  story-
-theme  met  with  over  a  wide  area.  Neither  can  the  steed  be
+hero  riding  across  a  sea  of  fire  on  a  magic  steed  is  a  storytheme  met  with  over  a  wide  area.  Neither  can  the  steed  be
 identified  with  the  eagle  of  the  Tungus  tale,  although  the  con¬
 flagration  tales  of  the  two  peoples  seem  to  have  much  in
 common.  As  mentioned  before,  the  fire  in  the  Tungus  tale
@@ -18430,11 +16359,6 @@ have  known  these  conflagration  tales.
 
 Quite  obvious  is  the  alien  influence  in  such  Central  Asian
 
-
-SIBERIAN  MYTHOLOGY
-
-
-370
 
 tales  which  tell  how  a  great  fire  will  occur  at  the  end  of  the
 world  and  burn  up  the  whole  earth.
@@ -18505,11 +16429,6 @@ warmth  of  fire.  According  to  another  tale  God  made  the  body
 of  earth,  the  bones  of  stone,  the  ligaments  of  roots,  the  blood
 
 
-SIBERIAN  MYTHOLOGY
-
-
-372
-
 of  water,  the  hair  of  grass,  the  thoughts  of  wind  (clouds)
 and  the  spirit  of  clouds  (wind).3
 
@@ -18525,8 +16444,7 @@ death.”
 But  this  relation  of  man  with  nature  appears  also  from  a
 contrary  conception,  according  to  which  the  macrocosmos  itself
 is  born  of  man,  the  microcosmos.  According  to  a  tale  of  the
-Kalmucks  the  world  was  formed  from  the  body  of  Manza-
-shiri  (=the  Buddhist  Bodhisattva  Manjucri),  the  trees  from
+Kalmucks  the  world  was  formed  from  the  body  of  Manzashiri  (=the  Buddhist  Bodhisattva  Manjucri),  the  trees  from
 his  blood-vessels,  fire  from  the  warmth  of  his  interior  organs,
 earth  from  his  body,  iron  from  his  bones,  water  from  his  blood,
 grass  from  his  hair,  the  sun  and  the  moon  from  his  eyes,
@@ -18559,7 +16477,6 @@ Old  Turkish  Memorial  Image  in  North
 
 Mongolia
 
-(See  page  301.)
 
 After  photograph  by  S.  Palsi.
 
@@ -18569,8 +16486,6 @@ jh'lijl.  i  1
 
 THE  CREATION  OF  MAN
 
-
-373
 
 In  the  tales  of  the  Central  and  North  Asian  peoples  the
 materials  of  which  the  first  man’s  body  was  made,  vary.  The
@@ -18610,12 +16525,6 @@ When  going  he  left  a  dog  to  guard  the  people.  While  he  was
 away  the  devil  Erlik  arrived  and  said  to  the  yet  naked  dog:
 “Thou  hast  no  fur-covering,  I  will  give  thee  golden  hairs,
 give  thou  to  me  those  soulless  people.”  The  dog  was  delighted
-
-
-374
-
-
-SIBERIAN  MYTHOLOGY
 
 
 with  Erlik’s  proposal  and  gave  the  people  whom  he  was  to
@@ -18661,8 +16570,6 @@ originally  some  covering,  hair  or  nail-matter.
 THE  CREATION  OF  MAN
 
 
-375
-
 The  Buriats  of  the  Balagan  District  tell  how  three  creators,
 Shibegeni-Burkhan,  Madari-Burkhan,  and  Esege-Burkhan
 made  the  first  pair  of  human  beings,  using  red  clay  for  the
@@ -18700,11 +16607,6 @@ bribed  the  dog  with  a  promise  of  hair  resembling  that  of
 mortals,  and  was  allowed  to  defile  them  by  spitting  on  them.
 When  Shibegeni-Burkhan  came  down  from  heaven  and  saw
 
-
-SIBERIAN  MYTHOLOGY
-
-
-376
 
 that  the  devil  had  succeeded  in  soiling  the  bodies  of  the  people,
 he  became  angry  and  cursed  the  dog  on  whose  body  he  saw  the
@@ -18750,8 +16652,6 @@ In  some  Central  Asian  creation  tales  in  which  the  dog  also
 THE  CREATION  OF  MAN
 
 
-377
-
 appears,  the  devil,  during  God’s  absence,  blows  a  spirit  into
 the  man  whom  God  has  created.
 
@@ -18791,11 +16691,6 @@ materialistic  conception,  dwelling  as  they  do  on  the  weaknesses
 of  the  human  body,  and  chiefly  on  the  filth  inside  it  and  the
 diseases  caused  by  this,  although  in  certain  East  European
 
-
-SIBERIAN  MYTHOLOGY
-
-
-378
 
 variants  wicked,  sinful  tendencies  also  are  the  result  of  the
 devil’s  touch.  The  latter  cycle  of  tales  endeavours  to  explain
@@ -18850,8 +16745,7 @@ longed.  The  strictly  dualistic  conception  of  this  original  root,
 a  conception  which  appears  early  in  the  religion  of  the  Iranians,
 where  also  the  dog,  that  originally,  sacred  animal,  the  expeller
 of  evil  beings,  and  the  creation  of  Ahura  Mazda,  had  a  very
-important  place,  raises  the  assumption  that  our  tale,  as  Dahn-
-hardt  has  indicated,  is  the  outcome  of  an  Iranian  mental  at¬
+important  place,  raises  the  assumption  that  our  tale,  as  Dahnhardt  has  indicated,  is  the  outcome  of  an  Iranian  mental  at¬
 mosphere,  originating  probably  among  the  Syrian  Christians,
 and  from  them  wandering  both  to  Eastern  Europe  and  to
 Central  and  North  Asia.  The  access  into  Western  Europe
@@ -18876,11 +16770,6 @@ They  complained  to  God  and,  as  he  took  no  notice,  adultery
 came  into  the  world.  These  three  got  wives  in  the  end  when
 the  daughters  of  the  first  four  women  grew  up.  One  of  the
 
-
-SIBERIAN  MYTHOLOGY
-
-
-380
 
 daughters,  however,  could  find  no  husband  and  became  there¬
 fore  a  prostitute.
@@ -18928,11 +16817,6 @@ comes,  bite  him.”  Further,  he  said  to  both  dog  and  snake:
 “If  man  comes  to  eat  of  the  fruit  towards  the  sunrise,  let  him
 
 
-SIBERIAN  MYTHOLOGY
-
-
-382
-
 approach  the  tree,  but  if  he  wishes  to  eat  of  the  fruit  of  the
 forbidden  branches,  do  not  let  him  come  near.”  Having  said
 which  God  returned  to  Heaven.
@@ -18977,8 +16861,6 @@ In  the  Central  Asian  tales,  our  attention  is  drawn  to  the
 THE  FALL  OF  MAN
 
 
-383
-
 fact  that  as  the  guardians  of  the  forbidden  fruit  both  the
 snake  and  the  dog  are  mentioned.  The  latter,  which  is  no
 longer  mentioned  in  the  punishments  following  on  the  dis¬
@@ -19018,14 +16900,8 @@ body  is  widely-spread  in  Central  and  Northern  Asia.  The
 Voguls  relate  that  in  the  beginning  God  created  human  beings
 
 
-SIBERIAN  MYTHOLOGY
-
-
-384
-
 covered  altogether  with  hair,  and  that  they  were  allowed  to
-move  everywhere  and  eat  of  everything  but  the  “  forest-
-spirit-berry  ”  (V actinium  uliginostmiy  growing  in  swamps).
+move  everywhere  and  eat  of  everything  but  the  “  forestspirit-berry  ”  (V actinium  uliginostmiy  growing  in  swamps).
 God  then  went  off  to  Heaven,  but  returning  to  look  at  his
 creatures,  he  had  great  difficulty  in  finding  these  at  all.  In
 the  end  God  found  them  hidden  beneath  some  bushes.  When
@@ -19066,8 +16942,6 @@ selves  to  be  naked  and  in  need  of  some  garment.
 
 THE  FALL  OF  MAN
 
-
-385
 
 The  Astrachan  Kalmucks  relate  further  that  during  the
 time  of  paradise  the  first  people  were  some  kind  of  illuminated
@@ -19180,11 +17054,6 @@ cut  the  body  into  little  pieces,  out  of  which  certain  insects,
 including  also  mosquitoes,  were  born.5
 
 
-SIBERIAN  MYTHOLOGY
-
-
-388
-
 According  to  a  Yakut  cannibal  myth,  the  man-eating  giant
 was  burnt  up,  and  from  the  fragments  of  his  bones  all  kinds
 of  destructive  insects,  and  also  frogs  and  snails  were  born.8
@@ -19195,8 +17064,7 @@ and  other  insects.7
 
 Far  away  to  the  east,  among  the  Goldes,  tales  of  a  similar
 character  are  met  with.  These  tell  of  two  sisters  who  lived
-in  the  same  hut.  While  one  of  them  was  away,  the  man-
-eater  came  to  the  other,  enticed  her  from  her  hiding-place  and
+in  the  same  hut.  While  one  of  them  was  away,  the  maneater  came  to  the  other,  enticed  her  from  her  hiding-place  and
 tricked  her  into  putting  out  her  tongue,  which  the  man-eater
 at  once  plucked  out  of  her  mouth.  When  the  other  sister
 came  home,  she  found  out  what  had  happened  in  her  absence
@@ -19279,8 +17147,7 @@ currents  of  civilization  have  long  before  their  time  exercised
 a  considerable  influence  on  them.  As  a  relic  of  Mazdaism
 we  find  in  the  folk-lore  of  both  the  Mongols  and  the  Tatars
 the  name  of  Ahura-Mazda  (Mongol  Hormusda;  Altaic
-Tatar  Khurbystan).  It  is  also  a  well-known  fact  that  Mani-
-cheism  and  Nestorianism  had  by  then  spread  their  doctrines
+Tatar  Khurbystan).  It  is  also  a  well-known  fact  that  Manicheism  and  Nestorianism  had  by  then  spread  their  doctrines
 into  this  territory ;  the  wife  of  Jenghiz  Khan  himself  would
 seem  to  have  been  a  Nestorian  Christian.  Matters  being  thus,
 we  have  no  reason  to  doubt  these  old  reports;  they  are  trust¬
@@ -19334,11 +17201,6 @@ Banzarov,  denote  two  different  stages  of  development.  The
 most  common  name,  “  Blue  Tengri,”  for  the  power  behind
 
 
-SIBERIAN  MYTHOLOGY
-
-
-392
-
 all  the  different  phenomena  of  the  sky,  which  gives  to  the
 earth  fruitfulness  and  productivity,  cannot,  according  to  this
 investigator,  apply  to  a  spiritual  being ;  but  the  “  Eternal
@@ -19381,8 +17243,6 @@ this  Providence  or  Fate,  the  decrees  of  which  were  unrecall-
 THE  HEAVEN  GOD
 
 
-393
-
 able,  was  always  connected  with  the  sky,  according  to  the
 ideas  of  the  Central  Asian  peoples.  In  a  similar  way  Fate
 was  regarded  by  the  Chinese,  who  call  Fate  Tien-ming  (“  the
@@ -19422,11 +17282,6 @@ As  the  fate  of  everything  is  thus  dependent  on  the  sky,
 it  is  natural  that  one  should  say,  like  the  Mongols:  “  The  sky
 decrees  ”  or  “  the  sky  commands.”  In  the  same  way  as  the
 
-
-SIBERIAN  MYTHOLOGY
-
-
-394
 
 Vedic  poems  speak  of  the  “  director  of  Rita,”  so  the  ruler  of
 Providence,  Dzajagatsi  (dzaja=u  to  decree,”  “allow,”
@@ -19470,16 +17325,13 @@ ruler  of  fate,  which  follows  him  faithfully  from  the  moment
 THE  HEAVEN  GOD
 
 
-395
-
 of  birth.  The  Mongols  call  this  spirit,  which  does  not  desert
 man  as  long  as  he  is  in  favour  with  the  heavens,  Dzol-  (“  hap¬
 piness”)  Dzajagatsi.4  It  is  said  to  watch  over  the  health  of
 its  ward,  his  property  and  his  prosperity  in  general,  protecting
 him  at  the  same  time  from  all  dangers.  Similarly,  each
 mortal  has,  according  to  the  Altai  Tatars,  his  own  Jajutsi,
-which,  having  received  orders  from  above,  brings  down  life-
-force  from  the  wonderful  “  lake  of  milk  ”  in  the  third  storey
+which,  having  received  orders  from  above,  brings  down  lifeforce  from  the  wonderful  “  lake  of  milk  ”  in  the  third  storey
 of  Heaven,  then  brings  the  embryo  alive  into  the  world,  and
 follows  the  man  thus  born  from  his  infancy  onward  as  a  kind
 of  good  spirit.  Besides  this,  each  mortal  is  supposed  to  have  a
@@ -19510,11 +17362,6 @@ actions  from  it.  In  taking  an  oath,  the  Mongols  say:  “  May
 Heaven  know!  ”  or  “  May  Heaven  judge!  ”  The  revenge  of
 the  heavens  has  not,  however,  been  regarded  as  something
 
-
-SIBERIAN  MYTHOLOGY
-
-
-396
 
 occurring  beyond  the  grave,  but  is  believed  to  fall  on  the
 guilty  already  in  this  life.  In  its  judgments  Heaven  is  com¬
@@ -19570,8 +17417,6 @@ ASTERY  TO  FRIGHTEN  AWAY  A  FEMALE
 Demon
 
 
-(See  page  398.)
-
 After  photograph  by  S.  Palsi.
 
 
@@ -19580,8 +17425,6 @@ I  u
 
 THE  HEAVEN  GOD
 
-
-397
 
 The  Heaven  god  of  the  Tungus,  Samoyeds  and  Yenisei
 Ostiaks  is  generally  regarded  as  a  being  so  apart,  that  he  in
@@ -19621,11 +17464,6 @@ Buriats  by  Khudinsk,  each  village  is  said  to  possess  a  smaller
 “  fallen  stone,”  kept  in  the  middle  of  the  village  in  a  trunk
 attached  to  a  post.  In  the  Balagansk  District,  where  these
 
-
-SIBERIAN  MYTHOLOGY
-
-
-398
 
 stones  are  larger,  they  are  generally  placed  on  a  platform  sup¬
 ported  by  four  posts.  In  the  hope  of  a  rainy  and  fruitful
@@ -19669,9 +17507,6 @@ names  may  be  used  for  the  Creator  of  the  Christian  teachings,
 THE  HEAVEN  GOD
 
 
-399
-
-
 the  ideas  in  question  cannot  be  said  to  have  arisen  from  these
 teachings.  By  the  side  of  Ajy-Tojon,  appears  a  special  deity
 of  birth,  Ajysit,  the  name,  like  Ajy,  being  derived  from  the
@@ -19709,12 +17544,6 @@ consecrate  some  live  domestic  animal,  a  horse  or  a  reindeer,
 which  is  then  never  worked  and  is  looked  after  well.  In
 older  times  a  consecrated  animal  of  this  description  was  driven
 far  to  the  eastward.
-
-
-400
-
-
-SIBERIAN  MYTHOLOGY
 
 
 A  curious  custom,  which  occurs  among  the  Yakuts,  is  that
@@ -19793,9 +17622,6 @@ Ki<  i  .unuflV
 THE  HEAVEN  GOD
 
 
-401
-
-
 ninth  storey  of  Heaven,  depending  on  the  number  of  storeys
 believed  to  be  in  the  sky.  The  Es  of  the  Yenisei  Ostiaks  lives
 in  a  transparent  palace  over  .the  seventh  Heaven,  and  accord¬
@@ -19844,8 +17670,7 @@ Tatars,  do  these  gods  play  an  important  part.  In  the  Altaic
 tales  mention  is  made  of  seven  beings  named  Kudai  (“  god  ”),
 situated  in  the  third  storey  of  Heaven  on  the  Siiro  (“  Maj¬
 esty  ”)  mountain.1  The  Yakuts  call  this  group  of  seven  gods,
-which  they  declare  forms  “  the  suite  of  the  Over-god  Ai-
-on,”  Satta-Kuro-Dzlisagai-Ai  ( satta ,  “  seven  ”) ;  they  are
+which  they  declare  forms  “  the  suite  of  the  Over-god  Aion,”  Satta-Kuro-Dzlisagai-Ai  ( satta ,  “  seven  ”) ;  they  are
 supposed  to  be  the  tutelary  genii  of  horses,  and  a  sacrifice  of
 kumiss  is  poured  into  the  fire  for  them  at  the  spring  festivals.2
 Often  these  grouped  spirits  are  called  the  sons  of  the  Over-god.
@@ -19868,8 +17693,6 @@ been  invented  by  the  Voguls  and  the  Ostiaks,  although  these
 
 THE  SONS  OF  GOD
 
-
-403
 
 are  for  the  most  part  the  names  of  their  own  district  gods.
 The  list  of  the  Voguls  comprises,  according  to  Gondatti,  the
@@ -19910,30 +17733,21 @@ of  the  Vasyugan  Ostiaks,  seen  by  the  “  eyes  of  the  soul  ”  of
 the  shamans,  and  described  by  them  in  songs.  From  these  we
 
 
-404
-
-
-SIBERIAN  MYTHOLOGY
-
-
 learn  that  the  heavens  are  seven-storeyed,  in  the  topmost  of
 which  the  Over-god  Num-Torem  himself  lives,  and  in  the
 lower  ones  his  sons.  The  dwellers  in  these  storeys  of  the  sky
 are  called  also  by  names  borrowed  from  the  Tatars,  Torem-
 Talmas  (“Heaven  interpreter  ”;  talmas  —  Tatar  tolmats )  or
-Torem-Karevel  (“  Heaven  watcher  ”;  karevel  =  Tatar  kara-
-vel ).  The  names  of  the  separate  “  Interpreters  ”  are  unknown
+Torem-Karevel  (“  Heaven  watcher  ”;  karevel  =  Tatar  karavel ).  The  names  of  the  separate  “  Interpreters  ”  are  unknown
 to  the  Vasyugans,  neither  can  their  activities  be  explained,  but
 they  are  believed  to  live  one  in  each  storey  of  the  heavens.
 Usually,  they  are  called  after  the  sacrifices  offered  up  to  each,
 i.  “The  arrow-sacrifice  Torem  ”  receives  arrows  shot  any¬
 where  into  the  sky;  2.  “  The  cloth-sacrifice  Torem,”  who  re¬
 ceives  a  cloak  of  white  cloth,  which  is  hung  up  on  forest
-expeditions  in  some  birch  in  a  primitive  forest;  3.  “  The  sable-
-sacrifice  Torem,”  who  is  given  a  sable-skin,  kept  in  a  box  taken
+expeditions  in  some  birch  in  a  primitive  forest;  3.  “  The  sablesacrifice  Torem,”  who  is  given  a  sable-skin,  kept  in  a  box  taken
 on  forest  expeditions;  4.  “  The  cup-sacrifice  Torem,”  for  whom
-a  special  tin  cup  is  kept  in  the  storeroom;  5’.  “The  horned-
-deer-sacrifice  Torem,”  for  whom  the  hide  of  a  deer  killed  in
+a  special  tin  cup  is  kept  in  the  storeroom;  5’.  “The  horneddeer-sacrifice  Torem,”  for  whom  the  hide  of  a  deer  killed  in
 the  forest  is  left,  with  horns  and  hoofs  attached,  hanging  on  a
 birch.  This  spirit  is  believed  to  let  down  game  and  fish  upon
 the  earth  for  men,  and  is  the  same  being  as  the  previously
@@ -19955,9 +17769,6 @@ Karevel  arrangement,  appearing  in  such  a  manner  that  each
 
 
 THE  SONS  OF  GOD
-
-
-405
 
 
 son  of  the  Over-god  is  given  a  different  storey  of  the  heavens
@@ -19999,17 +17810,11 @@ govern  two  sky-discs  situated  one  above  the  other.  In  the
 seventh  storey,  together  with  the  sun,  lives  an  omniscient
 
 
-SIBERIAN  MYTHOLOGY
-
-
-406
-
 Mergen-Tengere  (“  Sharpshooter-god  ”),  who  reminds  one  of
 the  Ostiak  “  Arrow-sacrifice  Torem.”  Dare  one  assume  this
 deity  to  reflect  an  ancient  god  of  lightning?
 
-As  the  spirit  of  the  ninth  Heaven,  Radloff  mentions  Kysa-
-gan-Tengere.  The  corresponding  Kisagan-Tengri  of  the
+As  the  spirit  of  the  ninth  Heaven,  Radloff  mentions  Kysagan-Tengere.  The  corresponding  Kisagan-Tengri  of  the
 Mongols  was  the  god  of  war,  believed  to  protect  the  army,  to
 direct  it  in  dangerous  and  difficult  places,  and  to  procure  victory
 for  it  by  vanquishing  the  enemy.  In  the  fifth  storey  lived
@@ -20045,8 +17850,6 @@ has  not  been  as  common  in  Asia  as  the  group  of  seven,  which  is
 
 THE  SONS  OF  GOD
 
-
-407
 
 known  also  in  Eastern  Asia.  In  ancient  times  the  Chinese
 worshipped  the  “  seven  rulers  ”  or  “  directors  ”  of  the  sky,  by
@@ -20087,11 +17890,6 @@ The  duties  of  these  heavenly  “  Interpreters  ”  is  thus  made
 clear  by  Diodorus.  According  to  the  Chaldeans  the  starry
 heavens  are  a  book  of  fate,  reflecting  the  path  of  life  on  earth,
 
-
-SIBERIAN  MYTHOLOGY
-
-
-408
 
 and  also  affording  to  the  wise  an  opportunity  of  reading  the
 future.  That  the  ancient  Babylonians  already  knew  the
@@ -20135,9 +17933,6 @@ Ostiak  districts  a  deity  of  this  name  is  unknown,  and  for  this
 THE  SONS  OF  GOD
 
 
-409
-
-
 reason  Karjalainen  assumes  him  to  be  of  late  origin  and  to
 have  sprung  from  the  Heaven  god  himself,  in  other  words,
 he  is  a  being  developed  from  one  of  the  Heaven  god’s  attri¬
@@ -20155,8 +17950,7 @@ spy  of  the  Over-god  he  has  been  given  the  attribute  “  the  Man
 of  many  lands,”  “  the  Travelling  man.”  According  to  the
 Ostiaks  these  journeys  are  often  made  in  the  shape  of  some
 animal,  occasionally  as  a  goose.  As  such  he  resembles  more  the
-“  younger  son  ”  of  God,  “  the  world-watching  man  ”  or  Ort-
-iki,  who  in  the  shape  of  a  goose  or  “  sitting  on  the  wings  of  a
+“  younger  son  ”  of  God,  “  the  world-watching  man  ”  or  Ortiki,  who  in  the  shape  of  a  goose  or  “  sitting  on  the  wings  of  a
 goose  goes  to  the  place  he  desires,”  and  who,  in  tales,  is  called
 the  “  goose  spirit.”  Further,  the  winged  steed  of  the  deity
 under  discussion,  on  which  as  the  mediator  between  God  and
@@ -20177,9 +17971,6 @@ matter  to  the  god  of  Fate.18  Possibly,  the  same  being  is  to  be
 
 
 4io
-
-
-SIBERIAN  MYTHOLOGY
 
 
 found  in  the  Cheremiss  “  Propounder  of  God,”  to  whom,  when
@@ -20237,7 +18028,6 @@ nv  r:<  :;iTA>p-:
 PLATE  XLVII
 
 Hides  of  Buriat  Offerings
-(See  page  404.)
 
 
 THE  SONS  OF  GOD
@@ -20284,12 +18074,6 @@ shall  work  evil  each  in  the  place  where  he  has  fallen  from
 Heaven,  and  trouble  men  up  to  their  death.”  Counting  Erlik
 
 
-412
-
-
-SIBERIAN  MYTHOLOGY
-
-
 himself  there  are  thus  forty-four  of  these  Altai  Tatar  evil
 spirits,  or  as  many  as  the  evilly-disposed  Tengeri  of  the  Buri¬
 ats.24  The  placing  of  the  evil  spirits  in  the  east  and  the  good
@@ -20306,8 +18090,7 @@ CHAPTER  XII
 THE  GREAT  MOTHER
 
 AMONG  the  eastern  Finno-Ugric  peoples  we  have  already
-met  with  a  mighty  goddess  of  birth,  called  by  the  Chere-
-miss  and  the  Mordvins  the  “  Great  birth-mother,”  whose
+met  with  a  mighty  goddess  of  birth,  called  by  the  Cheremiss  and  the  Mordvins  the  “  Great  birth-mother,”  whose
 dwelling-place  these  peoples,  like  the  Votiaks  and  the  Ugrians
 living  on  the  Ob,  believe  to  be  in  the  sky.  The  same  goddess
 is  known  to  certain  peoples  of  the  Altaic  race.  When  cele¬
@@ -20324,8 +18107,7 @@ this  mythical,  deified  lake  is  situated,  as  we  have  seen  earlier,
 beside  the  tree  of  life  in  the  centre  of  the  earth.  Certain
 Altaic  tribes,  who  believe  paradise  to  be  situated  in  the  third
 Heaven,  speak  of  the  cc  milk  lake  ”  to  be  found  there,  from
-which  the  god  of  birth,  Jajutsi  (“  the  decreer  ”),  takes  “  life-
-force  each  time  a  child  is  born  into  the  world.”  3
+which  the  god  of  birth,  Jajutsi  (“  the  decreer  ”),  takes  “  lifeforce  each  time  a  child  is  born  into  the  world.”  3
 
 A  Central  Asian  tale  would  also  seem  to  place  the  fabled
 lake  in  Heaven,  describing  as  it  does  how  a  certain  mighty  Khan
@@ -20335,11 +18117,6 @@ in  this  quest,  a  youth  joins  himself,  who  wishes  to  know  where
 this  mythical  bird  dwells.  When  the  heroes  have  arrived  at  a
 high  mountain,  they  notice  how  the  sky  above  them  begins  to
 
-
-SIBERIAN  MYTHOLOGY
-
-
-414
 
 grow  white.  The  youth  then  asks:  “  What  is  behind  that
 sky?  ”  The  others  explain  that  it  is  the  lake  of  milk.  .  .  .
@@ -20377,9 +18154,6 @@ that  drops  of  milk  were  scattered  over  the  sky.  From  this,
 the  name  met  with  in  many  European  languages  —  the  Milky
 Way  (cf.  ancient  Indian  Soma-Dhara,  “  Soma  Way  ”)  —  has
 obviously  been  derived.
-
-
-1
 
 
 THE  GREAT  MOTHER
@@ -20477,11 +18251,6 @@ setting  of  this  constellation  are  considered  as  signs  of  the  com¬
 ing  of  cold  or  warm  weather,  a  rainy  or  a  dry  period.  In  the
 
 
-SIBERIAN  MYTHOLOGY
-
-
-418
-
 beliefs  of  European  peoples  also,  the  influence  of  the  Pleiades
 on  the  climate  plays  a  certain  part.  In  the  question-forms
 which  were  used  by  Forbus  as  guides  in  gathering  Lapp  folk¬
@@ -20521,9 +18290,6 @@ heavenly  ocean.”  7
 THE  STARS
 
 
-419
-
-
 THE  SUN  AND  THE  MOON
 
 The  Altaic  peoples  speak  of  a  time  when  there  was  no  sun
@@ -20561,12 +18327,6 @@ fate  of  a  person  far  away.11  Possibly  the  Siberian  shaman’s
 custom  of  fixing  metal  objects  representing  the  sun  and  the
 moon  on  his  dress  originates  in  this  belief.  It  is  another  ques¬
 tion  whether  this  belief  and  this  custom  are  original  with  the
-
-
-420
-
-
-SIBERIAN  MYTHOLOGY
 
 
 Altaic  race,  or  whether  they  have  wandered  there  from  lands
@@ -20611,8 +18371,6 @@ the  bottomless  pit  given  to  the  devil  for  his  dwelling-place.13
 THE  STARS
 
 
-421
-
 The  following  Buriat  tale  gives  a  description  of  the  con¬
 fining  and  liberating  of  the  heavenly  lights,  a  theme  greatly
 favoured  in  the  stories  of  many  peoples.  When  Heaven  and
@@ -20653,12 +18411,6 @@ The  reason  why  daylight  is  burning  hot,  say  the  people,  is  that
 the  sun  is  made  of  fire,  whereas  moonlight  is  cold  because  this
 star  came  out  of  the  water.16  The  Dolgans  say  that  the  sun
 was  created  in  the  day,  the  moon  in  the  night.17
-
-
-422
-
-
-SIBERIAN  MYTHOLOGY
 
 
 Most  of  the  peoples  of  Turkish  origin  living  in  Siberia
@@ -20703,9 +18455,6 @@ latter,  have  always  been  interesting  themes  for  tales  among  all
 THE  STARS
 
 
-423
-
-
 peoples.  The  Yakuts  tell  of  a  poor  orphan  girl  for  whom  life
 was  so  hard  that  the  moon  pitied  her  and  determined  to  take
 her  to  him.  One  frosty  night  when  the  girl  had  gone  out  to
@@ -20744,12 +18493,6 @@ monster  were  not  my  heat  harmful  to  them.”  On  hearing  this
 the  moon  remarked  that  they  could  well  stand  his  coldness,
 and  he  descended  to  the  earth,  where  he  found  the  man-eater
 picking  berries  from  a  hawthorn.  The  moon  at  once  seized
-
-
-424
-
-
-SIBERIAN  MYTHOLOGY
 
 
 the  wretch  and  his  tree  and  returned  to  the  sky,  where  the
@@ -20798,8 +18541,6 @@ hurried  there  and  cut  him  in  two.  The  forepart,  having  thus
 THE  STARS
 
 
-425
-
 become  immortal,  pursues  the  moon.  Some  see  the  “  body  ”  of
 the  monster  in  the  moon-spots.29
 
@@ -20837,16 +18578,9 @@ When  once  all  the  bonds  are  broken  there  will  be  great  dis¬
 turbances  in  the  sky.  The  Tatars  by  Minusinsk  say  that  when
 the  “  seven  dogs  ”  are  let  loose  the  end  of  the  world  will
 
-32
-
 
 come.
 
-
-SIBERIAN  MYTHOLOGY
-
-
-426
 
 The  numerous  tales  about  the  one  or  more  bound  beasts,
 which  are  to  be  set  free  before  the  end  of  the  world,  were
@@ -20891,8 +18625,6 @@ pared  from  their  skulls  seven  cups,  out  of  which  he  gave  his
 THE  STARS
 
 
-427
-
 wife  to  drink  until  she  was  intoxicated.  When  she  had  drunk
 she  threw  the  cups  into  the  sky,  where  they  formed  the  seven
 stars  of  the  Great  Bear.  All  blacksmiths  are  said  to  be  under
@@ -20933,8 +18665,6 @@ Khan  who  had  long  lain  ill.  On  hearing  the  method  agreed
 upon  by  the  ravens,  he  at  once  hurried  to  the  Khan  and  healed
 
 
-428  SIBERIAN  MYTHOLOGY
-
 his  son.  Greatly  thankful,  the  Khan  presented  him  with  seven
 steeds.  On  his  homeward  journey  he  met  six  men,  each  of
 whom  attracted  his  attention  in  a  peculiar  way.  The  first  was
@@ -20959,8 +18689,7 @@ but  the  seven  heroes  escaped  with  their  booty.  In  the  end  God
 took  them  up  into  the  sky  where  they  were  changed  into  the
 Great  Bear.  The  little  star  Alcor  by  the  arch  is  the  maiden
 whom  they  won.44  The  same  story-motif  would  seem  to  have
-been  known  to  the  ancient  Greeks  also.  They  told  how  Elek-
-tra,  one  of  the  seven  Pleiades,  who  is  said  to  have  been  the  an¬
+been  known  to  the  ancient  Greeks  also.  They  told  how  Elektra,  one  of  the  seven  Pleiades,  who  is  said  to  have  been  the  an¬
 cestress  of  the  Trojans,  took  the  fall  of  Troy  so  much  to  heart
 that  she  left  her  original  place  in  the  Pleiades.  Hence,  ac¬
 cording  to  them,  this  constellation  now  has  only  six  stars.
@@ -20973,9 +18702,6 @@ period.
 
 
 THE  STARS
-
-
-429
 
 
 ORION
@@ -21018,11 +18744,6 @@ born  of  a  cow,  and  had  a  human  head  and  a  horse’s  body.49
 The  Kirghis  see  in  the  belt  of  Orion  three  deer,  the  sur¬
 rounding  stars  being  the  “  three  hunters  ”  and  their  “  arrow.”
 
-
-SIBERIAN  MYTHOLOGY
-
-
-430
 
 These  hunters  are  said  to  have  lived  on  the  earth  in  former
 times,  but  as  no  animal  could  escape  their  well-aimed  arrows
@@ -21112,11 +18833,6 @@ A  belief  that  the  Pleiades  originally  formed  one  star,  which
 afterwards  was  parted  into  many  pieces,  is  suggested  by  many
 
 
-SIBERIAN  MYTHOLOGY
-
-
-432
-
 of  the  tales  connected  with  this  constellation  from  different
 parts  of  the  globe,  in  which  some  creature  is  crushed  into
 pieces.  The  idea,  also,  that  the  Pleiades  formerly,  consisted
@@ -21136,8 +18852,7 @@ Buriats  consider  Solbon  to  be  the  patron-god  of  their  own
 horses,  and  for  this  reason  they  pray  to  and  worship  him.  In
 the  spring,  when  they  cut  the  manes  and  tails  of  their  horses
 and  set  the  mark  of  the  owner  on  the  colts,  they  prepare  a
-sacrifice  for  Solbon,  cooking  meat  and  cream-porridge  {sola-
-mat)  and  making  home-distilled  spirits  ( tarasun )  in  his
+sacrifice  for  Solbon,  cooking  meat  and  cream-porridge  {solamat)  and  making  home-distilled  spirits  ( tarasun )  in  his
 honour.  The  wine  they  throw  into  the  air  for  Solbon  and  his
 groom  Toklok,  but  the  meat  and  the  porridge  they  put  into
 the  fire.  They  then  begin  their  own  meal.  In  addition  they
@@ -21230,11 +18945,6 @@ the  maid  whom  he  carried  off  from  the  earth  bore  him  a  son.61
 With  the  Yakuts  Venus  is  feminine.  They  relate  that  she
 
 
-SIBERIAN  MYTHOLOGY
-
-
-434
-
 is  a  beautiful  maiden  whom  Urgel  (the  Pleiades)  loves.
 When  these  two  meet  in  the  sky  it  is  a  bad  omen,  foretelling
 storm  and  violent  weather.62
@@ -21280,8 +18990,6 @@ met  with.  Like  the  Japanese,  the  Koreans  tell  of  two  stars  who
 THE  STARS
 
 
-435
-
 loved  one  another  and  whom  God,  because  they  neglected  their
 duties  for  the  sake  of  their  love,  separated  by  placing  the  one
 in  the  uttermost  east,  the  other  in  the  uttermost  west.  In
@@ -21313,18 +19021,12 @@ it  was  not  easy  to  overtake  his  six-legged  prey.  When  at  last
 he  succeeded  in  killing  the  animal,  which  was  so  big  that  its
 body  “  reached  over  thirty  rivers,”  the  Forest  spirit  broke  off
 the  two  additional  feet,  saying  to  his  father  Numi-Torem:
-u  Change  this  animal  with  the  power  of  thy  word  into  a  four-
-footed  beast,  as,  seeing  that  the  work  of  chasing  and  killing  it
+u  Change  this  animal  with  the  power  of  thy  word  into  a  fourfooted  beast,  as,  seeing  that  the  work  of  chasing  and  killing  it
 has  been  difficult  even  for  me,  how  should  an  ordinary  human
 being  have  the  strength  necessary  for  it.”  This  hunt  was  re¬
 flected  in  the  sky.  The  stag  became  the  Great  Bear,  in  which
 are  to  be  seen  the  beast’s  head,  its  two  eyes,  its  forefeet  and
 
-
-SIBERIAN  MYTHOLOGY
-
-
-436
 
 hindfeet,  and  in  addition  the  chopped-off  stumps  of  the  other
 two  feet.  The  Milky,  Way  is  “  the  ski-track  of  the  Forest
@@ -21369,11 +19071,8 @@ Images  of  these  animals  in  relief  can  often  be  seen  decorating
 THE  STARS
 
 
-Signs  of  a  Twelve-Divi-
-sioned  Period
+Signs  of  a  Twelve-Divisioned  Period
 
-
-437
 
 the  edges  of  the  circular  metal  mirrors  ( toli )  hanging  with
 other  magic  objects  on  the  costume  of  the  shamans  and  used
@@ -21391,8 +19090,7 @@ same  as  those  of  the  Mongols.
 Only  the  sign  of  the  mouse  is
 called  a  rat  by  the  Chinese,  and
 that  of  the  hare  a  rabbit.  Al¬
-though  these  animal  signs  are  Fig-
-mainly  the  same  with  the  dif¬
+though  these  animal  signs  are  Figmainly  the  same  with  the  dif¬
 ferent  peoples  of  Central  Asia,  their  order  varies  somewhat.
 Thus  the  Eastern  Soyots  are  said  to  reckon  the  years  in  the
 following  order  —  dragon,  tiger,  cow,  sow,  monkey,  mouse,
@@ -21414,8 +19112,6 @@ the  reflection  of  its  rays  on  the  western  mountains.  For  this
 reason  the  first  year  and  also  the  first  month  of  the  year  are
 
 
-438  SIBERIAN  MYTHOLOGY
-
 called  after  the  mouse.  From  this  tale  the  Buriats  have  a
 proverb:  “  In  believing  himself  great  the  camel  lost  a  year.”  75
 Signs  of  animals  representing  a  period  of  time  divisible  by
@@ -21432,8 +19128,7 @@ like  the  twelve-divisioned  period  itself,  seem  to  have  spread
 into  East  Asia  from  the  west,  are  closely  connected  with  the
 corresponding  ideas  of  these  civilized  peoples.  Later  Greek
 texts  call  this  method  of  reckoning  time  “Chaldean,”  which
-points  to  Babylonian  astrology.  The  signs  of  the  twelve-
-divisioned  period  are  thus  most  probably  explained  by  the
+points  to  Babylonian  astrology.  The  signs  of  the  twelvedivisioned  period  are  thus  most  probably  explained  by  the
 twelve  signs  of  the  Zodiac.
 
 
@@ -21474,11 +19169,6 @@ goose,  fancy,  like  the  Tungus,  that  the  Thunder  bird  attends
 
 gus  Thunder-bird
 
-
-SIBERIAN  MYTHOLOGY
-
-
-440
 
 and  protects  the  soul  of  the  shaman.  A  certain  shaman  is  even
 said  to  have  wandered  two  or  three  years  in  the  air  accompanied
@@ -21524,9 +19214,6 @@ duced  in  an  exceedingly  mythological  shape,  is  not  an  original
 THUNDER
 
 
-441
-
-
 Altaic  one,  but,  as  its  geographical  area  already  denotes,  comes
 from  China.  As  we  know,  the  Chinese  and,  following  their
 example,  the  Japanese,  imagined  the  Thunder  god  to  have  the
@@ -21566,11 +19253,6 @@ returned  home  and  scolded  the  old  man  for  having  set  a  whole
 village  on  fire  because  of  one  wicked  man.  Still  later  on,
 
 
-SIBERIAN  MYTHOLOGY
-
-
-442
-
 the  old  man  conceived  a  desire  to  try  on  the  winged  clothes.
 When  he  had  dressed  himself  in  them  he  acquired  a  magic
 power  of  flying  and  thus  he  became  the  god  of  Thunder.11
@@ -21594,11 +19276,9 @@ remained  with  the  god  of  Heaven  and  served  him  as  the
 Thunderer.12
 
 Notwithstanding  all  these  tales,  which  evidently  belong  to
-a  world-wide  group  of  myths,  the  Buriats  have  no  clearly-
-defined,  anthropomorphic  god  of  Thunder.  They  often  call
+a  world-wide  group  of  myths,  the  Buriats  have  no  clearlydefined,  anthropomorphic  god  of  Thunder.  They  often  call
 the  rumble  of  thunder  “  the  song  of  heaven.”  13  As  they  have
-now,  as  mentioned  earlier,  a  great  number  of  different  Ten-
-geris,  they  cannot  tell  which  of  them  is  at  the  precise  time  the
+now,  as  mentioned  earlier,  a  great  number  of  different  Tengeris,  they  cannot  tell  which  of  them  is  at  the  precise  time  the
 Thunderer.  Therefore,  when  necessary,  they  consult  a  magi¬
 cian,  sometimes  even  nine  shamans,  who  endeavour  to  find  out
 which  god,  one  belonging  to  the  eastern  or  one  belonging  to  the
@@ -21612,9 +19292,6 @@ Tojon  (“  Lord  with  the  axe  ”).  Frequently  he  is  only  named
 
 
 THUNDER
-
-
-443
 
 
 “  the  Thunderer.”  According  to  one  source  “  the  Lord  with
@@ -21655,12 +19332,6 @@ have  probably  transmitted  this  idea  to  the  Yenisei  Ostiaks,
 who  call  the  rainbow:  “The  thunder  drinks  water.” 19
 What  this  animated  water-drinker,  as  the  Votiaks  also  call  it,
 really  is,  does  not  appear  from  the  beliefs  of  the  Turco-Tatar
-
-
-444
-
-
-SIBERIAN  MYTHOLOGY
 
 
 peoples.  On  the  other  hand  the  East  European  peoples,  ac¬
@@ -21725,9 +19396,6 @@ District
 THUNDER
 
 
-445
-
-
 winding  streak  of  light  across  the  sky,  to  be  a  fiery  snake  fall¬
 ing  down  from  Heaven.25  The  same  idea  has  been  earlier  met
 with  in  a  Finnish  poem  on  the  origin  of  fire.
@@ -21766,11 +19434,6 @@ round  the  dwelling  in  question,  stopping  before  the  door  at
 every  round.  The  magician  has  a  branch  of  a  silver-fir  in
 his  hand,  the  others  a  drinking-cup.  While  the  magician  re-
 
-
-SIBERIAN  MYTHOLOGY
-
-
-446
 
 peats  a  prayer  his  assistants  sprinkle  liquid  from  their  cups.
 The  most  important  of  these  rites  seems  to  be  the  raising  of  a
@@ -21814,8 +19477,6 @@ and  must  immediately  be  sacrificed  to  its  sender  again,  reminds
 THUNDER
 
 
-447
-
 one  of  the  Indo-Iranian  tales  about  Haoma  or  Soma  which  an
 eagle  brings  down  from  the  sky.  The  Soma,  sometimes  called
 “  first  milk  ”  in  the  Rgveda ,  was  originally  the  favourite  drink
@@ -21854,11 +19515,6 @@ persons  and  even  families,  whose  duty  it  is  to  bring  about  rain
 or  drought  as  necessary,  but  these  rainmakers  (Jadatshy.)  do
 not  seem  to  appeal  to  any  special  Thunder  god,  but  to  the  god
 
-
-SIBERIAN  MYTHOLOGY
-
-
-448
 
 of  Heaven  in  general  (Kaira-Khan),  or  to  sundry  gods  living
 at  the  springs  of  certain  rivers,  who  are  believed  to  cause  rain.
@@ -21908,12 +19564,6 @@ took  two  stones,  a  white  one  and  a  black  one,  and  struck  them
 together  so  that  the  spark  which  flew  from  the  sky  to  the  earth
 set  fire  to  the  dry  grass.  From  this  man  learned  to  strike
 fire.4  Through  the  mouth  of  the  Buriat  shaman,  fire  declares
-
-
-450
-
-
-SIBERIAN  MYTHOLOGY
 
 
 itself  to  be  “  the  middle  son  of  the  day-sky,  the  youngest  son
@@ -22000,11 +19650,6 @@ tom  at  the  time  when  the  Russians  paid  taxes  to  them.  All
 people,  animals,  or  objects  that  in  some  way,  e.g.,  by  touching
 some  dead  body,  had  become  unclean,  were  thus  purified.13
 
-
-SIBERIAN  MYTHOLOGY
-
-
-452
 
 Whatever  the  origin  of  these  customs  may  have  been,  the
 mystic,  and  more  especially  the  heavenly  birth  of  fire,  its
@@ -22099,8 +19744,6 @@ nwtfpft&vv  8f
 FIRE
 
 
-453
-
 from  parents  to  children.18  We  have  already  seen  that  the
 Finno-Ugric  peoples  on  the  Volga  observe  rites  akin  to  these.
 In  worshipping  the  fire  in  their  new  home,  a  young  Mongol
@@ -22120,8 +19763,7 @@ who  earnest  forth  from  the  foot-prints  of  Mother  Otygen
 (“  Mother  earth  ”),  thou  creation  of  Tengeri-Khan.  Mother
 Ut,  thy  father  is  the  hard  steel,  thy  mother  the  flint,  thy
 ancestors  the  elm-trees.  Thy  brightness  reaches  the  heavens
-and  spreads  over  the  earth.  Fire,  struck  by  the  Heaven-
-dweller,  nursed  by  the  Mistress  Uluken.  Goddess  Ut,  we
+and  spreads  over  the  earth.  Fire,  struck  by  the  Heavendweller,  nursed  by  the  Mistress  Uluken.  Goddess  Ut,  we
 offer  thee  yellow  butter  and  a  yellow-headed  white  sheep.
 Thine  are  this  brave  boy  and  the  beautiful  bride,  the  slender
 daughter.  To  thee,  Mother  Ut,  who  art  always  looking  up¬
@@ -22131,8 +19773,7 @@ ter  of  the  ruler  (the  bride)  and  all  the  wedding-folk.  For  this
 we  pray.”  18
 
 If  fire  is  treated  in  an  improper  manner  or  left  without  food
-it  is  believed  to  take  vengeance  by  sending  a  kind  of  skin-
-disease.  In  the  worst  case  it  burns  the  whole  building.
+it  is  believed  to  take  vengeance  by  sending  a  kind  of  skindisease.  In  the  worst  case  it  burns  the  whole  building.
 
 There  is  no  doubting  the  fact  that  the  peoples  of  the  Altaic
 race  worship  fire  in  itself.  u  Mother  ”  and  other  such  words
@@ -22141,17 +19782,10 @@ flames  the  Altaic  shaman  calls  it  the  “  Thirty-headed  mother,
 the  Forty-headed  virgin-mother.”  19  In  the  prayers  of  the
 
 
-454
-
-
-SIBERIAN  MYTHOLOGY
-
-
 Chuvash  there  appears  beside  the  “  Mother  fire  ”  a  “  Father
 fire.”  The  Yakuts  and  the  Buriats  also  worship  both  a  mascu¬
 line  and  a  feminine  Fire  god.  The  former  name  them  “  Old
-Man  Ulakhany  and  Mistress  Sabaga,”  the  latter  “  Lord  Sa-
-khadai  and  Mistress  Sakhala.”  Poetic  denominations  are  fur¬
+Man  Ulakhany  and  Mistress  Sabaga,”  the  latter  “  Lord  Sakhadai  and  Mistress  Sakhala.”  Poetic  denominations  are  fur¬
 ther  “  the  White-bearded  Lord  ”  and  “  White-haired  Lady  ”
 of  the  Yakuts.20
 
@@ -22188,8 +19822,6 @@ tales,  some  of  which  have  been  recorded  even  in  Eastern
 
 FIRE
 
-
-455
 
 Europe,  originate  from  the  conception  that  the  fire  on  the
 hearth  must  be  tended  and  fed  like  a  living  being.
@@ -22230,8 +19862,6 @@ richer  and  more  various  in  some  districts  than  in  others.  The
 Tungus  of  the  primeval  forests  of  North  Siberia  are  the  most
 backward  in  this  respect.  It  is  true  that  these  also  worship
 
-
-4 5 6  SIBERIAN  MYTHOLOGY
 
 fire  after  a  fashion,  keeping  it  clean  and  refraining  from  hurt¬
 ing  it,  but  the  offering  up  of  sacrifices  to  the  fire  is  not  deemed
@@ -22296,11 +19926,6 @@ idea,  the  wind  being  said  in  this  poem  to  have  been  born
 Among  the  Southern  Turkish  peoples  a  mythical  idea  of  a
 grey  bull  has  been  recorded,  the  breath  of  which  gives  birth
 
-
-SIBERIAN  MYTHOLOGY
-
-
-458
 
 to  the  wind.7  The  majority  of  peoples  believe  some  spirit
 to  wander  in  the  whirlwind.
@@ -22392,11 +20017,6 @@ The  Mongols  say  that  the  sky  gives  life  to  beings,  but  that  the
 earth  gives  them  their  form.6  Thus  the  Earth  mother  becomes
 
 
-SIBERIAN  MYTHOLOGY
-
-
-460
-
 also  the  deity  of  child-birth.  As  is  well  known,  the  ancient
 peoples  of  Asia  had  this  same  idea.
 
@@ -22477,11 +20097,6 @@ to  welcome  his  “  bride,”  saying:  “  Be  welcome,  my  dear  bride,
 I  love  thee  more  than  gold,  more,  even,  than  my  life.  For
 
 
-SIBERIAN  MYTHOLOGY
-
-
-462
-
 the  sake  of  my,  love,  spread  out  thy  property  on  our  fields  and
 pastures,  our  forests  and  rivers.”  Having  said  this,  he  takes
 earth  from  all  the  waggons  with  his  spade,  which  also  the
@@ -22489,8 +20104,7 @@ other  participants  in  the  ceremony  carry  to  their  patches  of
 field.13
 
 Relics  of  similar  weddings  for  the  amusement  and  the  en¬
-ticing  of  the  Earth  mother,  ceremonies  alien  to  the  nomad-
-culture  of  the  Altaic  peoples,  are  met  with  among  certain
+ticing  of  the  Earth  mother,  ceremonies  alien  to  the  nomadculture  of  the  Altaic  peoples,  are  met  with  among  certain
 other  agricultural  peoples.  The  “  bridegroom  ”  of  the  Earth
 mother  is  mentioned  also  in  old  Finnish  poems.
 
@@ -22592,11 +20206,6 @@ all  visible  nature,  in  a  position  of  power  resembling  that  of  a
 master  towards  his  property.”  2
 
 
-SIBERIAN  MYTHOLOGY
-
-
-464
-
 That  the  metaphor  “  Master  ”  used  by  Castren  is  correct,  is
 best  proved  by,  the  names  of  like  signification  given  by  the
 peoples  of  the  Altaic  race  to  the  invisible  Nature  gods.
@@ -22677,11 +20286,6 @@ helped  by  the  spirits  of  the  dead,  who  are  said  to  dwell  in
 these  places.  Often  the  dead  can  be  seen  to  have  become
 
 
-SIBERIAN  MYTHOLOGY
-
-
-466
-
 directly  assimilated  into  these  Masters.  Thus  the  Master  of
 the  Yakut  dwelling-place  (Balagan  Itshita)  sometimes  appears
 in  the  shape  of  former  dwellers  in  the  place.  Middendorff
@@ -22735,8 +20339,6 @@ PLATE  LI  1 1
 Shattered  Tomb  of  a  Yakut  Shaman  with
 Drum  Hanging  on  an  Adjacent  Tree
 
-(See  page  481.)
-
 
 Ml  i.tiltiH'*
 
@@ -22750,8 +20352,6 @@ flHVEisr v  s f  mJUBit
 
 THE  “  MASTERS  ”  OF  NATURE
 
-
-467
 
 have  two  sons,  one  living  in  the  depths  of  the  primeval  forests
 and  giving  valuable  game  to  the  hunter,  such  as  sable  foxes,
@@ -22793,11 +20393,6 @@ diminish  its  height,  has  exceedingly  large  nipples  on  its
 breasts,  and  kills  its  victims  by  tickling  them,  we  have  already
 met  with  among  the  Volga  Finns.17
 
-
-SIBERIAN  MYTHOLOGY
-
-
-468
 
 A  corresponding  evil  Forest  spirit  is  the  Chuvash  Obyda,
 which  wanders  in  the  forest  as  a  human  being,  but  naked,  long¬
@@ -22880,11 +20475,6 @@ small  children,  of  whom  the  Water  spirits  have  many.  While
 wandering  from  place  to  place  the  Water  spirits  make  different
 
 
-SIBERIAN  MYTHOLOGY
-
-
-470
-
 noises,  the  people  gathering  to  listen  to  these  at  cross-roads,
 openings  in  the  ice,  and  near  deserted  huts.  From  what  they
 hear,  they  decide  on  the  events  of  the  ensuing  year.26
@@ -22945,8 +20535,6 @@ PLATE  LIV
 
 Mongol  Seer  Prophesying  from  a
 Shoulder-blade
-
-(See  page  488.)
 
 
 |Ht  oiUliAHV
@@ -23053,11 +20641,6 @@ of  the  soul  from  the  body.  But  during  sickness,  the  soul  is
 believed  to  have  been  driven  out  of  the  body  against  its  will.
 
 
-SIBERIAN  MYTHOLOGY
-
-
-474
-
 Often  a  malicious  spirit,  for  some  reason  or  other,  generally
 to  obtain  a  sacrifice,  carries  off  the  soul.  This  may  happen  in
 different  circumstances,  and  the  soul  is  exposed  to  this  danger,
@@ -23095,9 +20678,6 @@ necessary.7
 
 At  times  a  sick  person  may  recover  his  soul  himself.  He
 must  recall  to  memory  the  place  where  his  soul  left  him,  dress
-
-
-475
 
 
 DREAMS,  SICKNESS  AND  DEATH
@@ -23140,11 +20720,6 @@ he  had  not  yet  learned  to  walk  silently  and  without  leaving  a
 track  as  a  spirit  should.  The  spirits  believed  this.  When
 they  arrived  at  the  rich  man’s  house,  one  of  the  spirits  placed
 
-
-SIBERIAN  MYTHOLOGY
-
-
-476
 
 itself  at  the  door,  the  other  at  the  chimney,  the  third  went  to
 the  unlucky,  son,  and  by  producing  an  irritation  in  his  nose,
@@ -23225,8 +20800,7 @@ tain  peoples,  the  Buriats  and  Altai  Tatars,  the  belief  prevails
 that  when  the  soul  of  a  sick  person  comes  into  the  hands  of  the
 Prince  of  Death,  fate  has  decreed  that  the  person  in  question
 shall  die,  and  then  even  the  shaman  can  no  longer  be  of  any
-assistance.  The  Buriats  relate  how  Erlen-Khan  (“  Death-
-kingdom’s  Prince  ”)  sends  out  his  servants  to  capture  wander¬
+assistance.  The  Buriats  relate  how  Erlen-Khan  (“  Deathkingdom’s  Prince  ”)  sends  out  his  servants  to  capture  wander¬
 ing  souls.  Without  caring  for  the  cries  for  help  and  the
 prayers  of  the  souls,  these  servants  put  them  into  sacks  and
 bear  them  to  their  hard  master,  who  places  the  souls  in  cap¬
@@ -23255,8 +20829,6 @@ was  empty  and  that  the  shaman,  sitting  on  the  drum  with  his
 prize,  was  already  sinking  towards  the  earth.  God  then  be¬
 came  very  angry  and  decreased  the  power  of  the  shamans,  and
 
-
-478  SIBERIAN  MYTHOLOGY
 
 now  no  shaman  can  save  a  soul  which  has  come  into  the  hands
 of  the  Prince  of  Death.12
@@ -23338,12 +20910,6 @@ power  of  seeing  spirits  kept  watch  while  the  spirits  gathered
 at  a  deserted  hut.  There  he  happened  to  see  also  the  ruler
 
 
-SIBERIAN  MYTHOLOGY
-
-
-480
-
-
 of  the  spirits.  This  was  a  roughly-built  big  man,  with  one
 eye  in  his  forehead.  The  ruler  seated  himself  in  the  place  of
 honour  and  now  and  then  announced  which  souls  should  be
@@ -23364,8 +20930,7 @@ Fig.  18.  North-Siberian  Tomb
 be  founded  on  the  hope  that  these  animals  can  preserve  their
 lives  as  long  as  the  skeleton  is  uninjured,  so  a  similar  belief
 was  applied  to  the  remains  of  human  beings.  In  earlier  times
-the  dead  were  buried  over  the  earth.  According  to  Strahlen-
-berg  the  Yakuts  often  left  the  body  in  the  hut,  removing
+the  dead  were  buried  over  the  earth.  According  to  Strahlenberg  the  Yakuts  often  left  the  body  in  the  hut,  removing
 themselves  elsewhere.23  Among  nearly  all  the  more  northern
 
 
@@ -23410,8 +20975,6 @@ be  confounded  with  that  according  to  which  the  souls  of  the
 dead  are  inclined  to  many  temporary  metamorphoses.  A  cer-
 
 
-482  SIBERIAN  MYTHOLOGY
-
 tain  groping  after  explanations  is  already  apparent  in  the  view
 laid  down  by  a  Buriat,  according  to  which  human  beings  have
 three  souls.  One  is  taken  captive  by  the  Prince  of  Death;
@@ -23425,8 +20988,6 @@ PLATE  LVI
 The  illustration  at  the  top  (left)  shows  the  tomb
 of  a  Buriat  shaman,  erected  on  posts.  The  others
 depict  ongons  or  images  of  Buriat  shamans.
-
-(See  page  499.)
 
 
 j.t'i  iiliiUHV
@@ -23475,11 +21036,6 @@ the  other  world.  In  general,  the  dead  are  regarded  as  going
 on  with  the  work  which  each  had  done  in  this  world.  The
 
 
-SIBERIAN  MYTHOLOGY
-
-
-484
-
 Buriat  “  manual  labourer  does  not  after  death  forget  his  skill,
 the  scribe  lives  by  his  pen,  and  a  woman  who  has  been  a
 skilful  sempstress  on  earth,  continues  to  work  with  her
@@ -23502,8 +21058,7 @@ again,  who  use  dogs,  travel  there  behind  dogs.
 The  shaman’s  business  is  to  know  the  difficult  path;  the  soul
 itself  finds  it  difficult  to  reach  its  goal.  Many  dangers  also
 threaten  it  on  the  way.  Evilly-disposed  spirits  are  often  in
-motion,  seeking  to  tempt  the  soul  from  its  path;  cannibal-
-spirits  lie  in  wait  to  devour  it.  The  Goldes  say  that  the  road
+motion,  seeking  to  tempt  the  soul  from  its  path;  cannibalspirits  lie  in  wait  to  devour  it.  The  Goldes  say  that  the  road
 to  the  underworld  goes  through  certain  particular  places,  which
 are  many  in  number.  At  the  commencement,  the  road  is  the
 same  for  all  the  dead,  but  later  a  point  is  reached  where  as
@@ -23521,8 +21076,6 @@ Life  in  the  underworld  is  said,  however,  to  be  better  and
 
 THE  REALM  OF  THE  DEAD
 
-
-485
 
 happier  than  here.  All  the  dangers  and  difficulties  of  the
 journey  end  at  the  village.  Should  the  soul  go  under  on  its
@@ -23563,11 +21116,6 @@ the  way  to  this  realm  is  described  as  exceedingly  difficult  to
 travel.  The  soul  has  to  go  in  at  the  throat  of  a  snake-like
 
 
-SIBERIAN  MYTHOLOGY
-
-
-486
-
 monster,  pass  through  its  body,  and  come  out  from  its  tail,
 thus  reaching  the  other  world.  The  way  is  both  painful  and
 dangerous,  as  the  gullet  and  the  intestines  of  the  monster  are
@@ -23583,8 +21131,7 @@ winds.” 6
 
 A  very  common  idea  among  the  Yakuts  is  that  “the  other
 world  ”  lies  beyond  the  “  death-sea.” 6  Most  of  the  peoples
-of  North  Siberia  consider  the  realm  of  the  dead  to  lie  some-
-where  in  the  north,  most  often  at  the  mouths  of  rivers  flowing
+of  North  Siberia  consider  the  realm  of  the  dead  to  lie  somewhere  in  the  north,  most  often  at  the  mouths  of  rivers  flowing
 into  the  Arctic  Ocean.  The  point  of  the  compass  of  the  dead
 is  said  to  be  “  towards  the  night  ”  or  “  downwards.”  Down
 in  the  north,  according  to  Yakut  tales,  lives  the  stern  ruler  over
@@ -23609,8 +21156,6 @@ or  seven  grottoes  under  one  another,  in  which  the  souls  of  the
 
 THE  REALM  OF  THE  DEAD
 
-
-487
 
 dead  dwell,  and  where  in  the  place  of  the  sun  and  moon,  only
 rotted  trees  give  out  a  dim  light.  Strange  fishes  live  in  the
@@ -23643,18 +21188,12 @@ Star.12  As  the  hole  leading  to  the  underworld,  which  is  often
 used  by  the  shaman,  is,  of  course,  also  in  the  centre  of  the
 earth,  one  may  often  see  among  his  magic  things  a  disc  repre¬
 senting  the  earth,  in  the  midst  of  which  is  a  round  hole.  In
-travelling  to  the  heavens,  the  Altai  shamans  use  also  a  world-
-tree  furnished  with  divisions,  the  Dolgans  explaining  that  the
+travelling  to  the  heavens,  the  Altai  shamans  use  also  a  worldtree  furnished  with  divisions,  the  Dolgans  explaining  that  the
 shamans  escort  the  souls  of  the  dead  to  the  tree  in  question,
 where  they  continue  their  life  in  the  shape  of  a  little  bird.13
 
 In  Heaven  also,  life  resembles  that  on  the  earth.  According
 
-
-SIBERIAN  MYTHOLOGY
-
-
-488
 
 to  certain  tribes  living  in  the  District  Turuhansk,  the  souls
 in  Heaven  resemble  little  people,  who  catch  little  fishes  in  the
@@ -23777,11 +21316,6 @@ named  Komdei-Mirgan  was  persuaded  to  hunt  the  fox,  which,
 however,  ambushed  him  so  that  his  leg  was  broken.  Shortly
 
 
-SIBERIAN  MYTHOLOGY
-
-
-490
-
 thereafter,  a  monster  (Yelbegen)  with  nine  heads  and  riding
 on  a  forty-horned  ox,  arose  out  of  the  earth.  This  monster
 cut  off  the  hero’s  head  and  carried  it  off  to  the  underworld.
@@ -23822,8 +21356,6 @@ ing  read  this  Kubaiko  entered  the  dwelling  of  the  Princes  of
 THE  REALM  OF  THE  DEAD
 
 
-491
-
 death  and  closed  the  door  after  her.  It  was  dark  inside  and
 Kubaiko  was  soon  lost  in  the  room.  She  felt  invisible  hands
 take  hold  of  her,  her  clothes  were  torn,  she  was  dragged  about
@@ -23860,11 +21392,6 @@ Finally,  she  entered  a  tenth  room,  large  as  a  steppe.  In  this
 room  sat  eight  Princes  of  death  and,  in  the  midst  of  these,
 their  Chief,  Irlek-Khan.  Kubaiko  bowed  to  them  and  asked
 
-
-SIBERIAN  MYTHOLOGY
-
-
-492
 
 why  their  servant  Yelbegen  had  cut  off  and  carried  away  her
 brother’s  head.  The  Princes  replied  that  this  had  been  done
@@ -23906,8 +21433,6 @@ man  can  keep  his  horse  in  condition  even  with  poor  fodder,
 THE  REALM  OF  THE  DEAD
 
 
-493
-
 while  the  thin  horse  on  the  rich  pasture  shows  that  cattle  can¬
 not  thrive  on  the  best  pastures  unless  well  cared  for.”  There¬
 after  Kubaiko  asked:  “  Who  were  the  beings  that  seized  me
@@ -23943,9 +21468,6 @@ be  more  than  enough  for  both.  The  married  people,  on  the
 other  hand,  in  the  ninth  room  are  there  only  as  an  example
 of  how  even  a  little  property  can  be  sufficient  for  a  family,  if
 there  is  harmony  between  the  married  couple.  They  are  not
-
-
-SIBERIAN  MYTHOLOGY
 
 
 494-
@@ -24012,9 +21534,6 @@ ommunv  if  1UWM*
 THE  REALM  OF  THE  DEAD
 
 
-495
-
-
 there  is  my  tree!  ”  It  then  sat  in  the  crown  of  the  tree  and
 slung  the  man  on  to  a  branch,  where  he  remained  hanging.
 Again  and  again  he  begged :  “  Kill  me  quickly,  do  not  torture
@@ -24037,8 +21556,6 @@ of  hysterical  persons.
 
 CHAPTER  XXI
 
-
-SHAMANISM  AND  TOTEMISM
 
 AMONG  nearly  all  primitive  peoples,  it  is  held  that  the
 chief  cause  of  sickness  is  a  temporary  absence  of  the  soul
@@ -24071,11 +21588,6 @@ that  the  preparation  for  the  office  of  shaman  forms  a  crisis  in
 the  life  of  the  chosen,  a  crisis  followed  by  extremely  compli¬
 cated  psychic  manifestations.  A  shaman  of  his  acquaintance
 
-
-SHAMANISM  AND  TOTEMISM
-
-
-497
 
 related  that  before  he  became  a  shaman  he  was  ill  for  over
 two  months,  lying  motionless  and  unconscious  for  this  period.
@@ -24116,11 +21628,6 @@ shamanize,  recovering  immediately.  Even  now,  if  I  refrain
 from  shamanizing  for  a  long  time,  I  become  indisposed  and
 
 
-SIBERIAN  MYTHOLOGY
-
-
-498
-
 fall  ill.”  The  spirit,  which  appears  to  the  chosen,  is  said  to
 be  the  soul  of  a  dead  shaman,  and  is  called  Amagat  by  the
 Yakuts.  The  Amagat  of  the  shaman,  which  advises  and  pro¬
@@ -24158,12 +21665,6 @@ The  Yakuts  sometimes  call  the  shaman-soul  sur>  which  in
 other  Turkish  languages  signifies  soul  in  general.  Its  seat  is
 said  to  be  in  the  head  of  the  shaman.  It  is  related  in  a  tale,
 how  a  great  shaman  received  his  head  “  in  the  Heaven  of
-
-
-SHAMANISM  AND  TOTEMISM
-
-
-499
 
 
 Manariks  ”  ( maridrik ,  “  nervy,”  “  insane  ”5  mandril  y  u  to  lose
@@ -24206,11 +21707,6 @@ hold  spirits  or  household  Ongons.  These  household  spirits,
 worshipped  by  the  members  of  the  family  and  preserved  in  the
 
 
-SIBERIAN  MYTHOLOGY
-
-
-500
-
 tent,  generally  consist  of  a  sheepskin  on  which  tinplate  figures
 of  human  beings  and  other  things  are  fastened,  or  these  figures
 may  also  be  painted  on  the  sheepskin  or  on  a  cloth.  These
@@ -24247,12 +21743,6 @@ angry  and  started  to  drive  away  the  bird  with  a  bough.  Shortly
 afterwards  he  became  seriously  ill,  and  received  the  knowledge
 in  a  dream  that  his  illness  had  been  caused  by  his  treatment
 of  the  eagle.  The  Buriats  throw  milk  or  kumiss  into  the  air
-
-
-SHAMANISM  AND  TOTEMISM
-
-
-501
 
 
 ♦
@@ -24295,12 +21785,6 @@ spring  and  autumn,  when  the  swans  fly  northward  and  return,
 ye  must  carry  out  certain  ceremonies  in  my  honour.”  She  then
 
 
-502
-
-
-SIBERIAN  MYTHOLOGY
-
-
 blessed  her  children,  hoping  that  they  would  live  happily  on
 the  earth,  and  disappeared  in  the  sky.  It  is  further  related
 how  one  of  the  swan-woman’s  daughters  tried  to  hinder  her
@@ -24340,12 +21824,6 @@ of  the  Baikal  lived  a  king,  Taizhi-Khan,  who  had  a  mottled
 bull.  This,  an  exceptionally  large  and  powerful  animal,  once
 
 
-SHAMANISM  AND  TOTEMISM
-
-
-503
-
-
 said  in  its  pride:  “Whoever  in  the  world  dares  to  measure
 his  strength  against  mine,  may  come  and  try.”  Then  Bukha-
 Nojon  was  changed  to  a  blue-grey  bull  and  went  to  the  king¬
@@ -24383,12 +21861,6 @@ from  “  two  old  manuscripts  ”  and  which  appeared  in  a  Russian
 book  published  in  1844,  A  Journey  to  Yakutsk ,  each  clan  has
 its  own  particular  protector  or  mediator,  represented  by  an
 image  of  a  stallion  with  white  lips,  a  raven,  a  swan,  etc.
-
-
-504
-
-
-SIBERIAN  MYTHOLOGY
 
 
 These  animals  were  never  used  as  food.19  According  to  a
@@ -24456,8 +21928,6 @@ Center .  Lebed-Tatar  shaman.
 
 Right.  Drum  of  Lebed-Tatar  shaman.
 
-(See  page  514.)
-
 
 t
 
@@ -24468,11 +21938,6 @@ tff  ITHE
 
 **mm  eiauNQit
 
-
-SHAMANISM  AND  TOTEMISM
-
-
-505
 
 from  certain  animals,  so  it  is  related  that  the  “  power  ”  of
 the  first  female  shamans  was  derived  from  an  animal  or  a  bird.
@@ -24512,11 +21977,6 @@ Among  the  Buriats  one  meets  thus  with  two  conceptions,
 which  might  possibly  throw  light  on  the  problem  of  totemism.
 
 
-SIBERIAN  MYTHOLOGY
-
-
-506
-
 One  is  that  the  forefather  of  a  clan  originated  from  an  animal ;
 the  other,  that  the  magic  powers  of  the  first  shaman  woman
 or  ancestress  of  the  clan  were  obtained  from  some  animal.
@@ -24555,11 +22015,6 @@ sent  out  on  a  journey.  It  may  happen,  sometimes,  that  the
 spirit-reindeer  of  two  shamans  engage  in  warfare  together
 
 
-SHAMANISM  AND  TOTEMISM
-
-
-507
-
 (cf.  the  bull-fighting  in  the  Buriat  myth).  Should  one  of
 the  reindeer  be  killed  in  the  conflict,  the  shaman  owning  the
 same  dies.26  That  the  “  reindeer  ”  is  here  a  transformation
@@ -24588,8 +22043,7 @@ Among  the  Dolgans  standing  under  the  influence  of  the
 Yakuts  the  same  shaman  spirit  is  met  with  under  the  same
 name.  Although  the  shamans  have  many  helping  spirits  in
 the  shapes  of  different  animals,  each  shaman  has  only  one
-ija-kyl  upon  which  his  life  and  death  depend.  This  spirit-
-animal  is  said  to  appear  to  the  shaman  at  the  most  three
+ija-kyl  upon  which  his  life  and  death  depend.  This  spiritanimal  is  said  to  appear  to  the  shaman  at  the  most  three
 times  in  his  life,  viz.,  at  his  call  to  the  office  of  shaman,  in
 the  middle  of  his  shaman  activity,  and  immediately  before  his
 death,  when  the  spirit  dies  also.  Should  the  animal  die  of
@@ -24597,12 +22051,6 @@ any  accidental  cause,  the  death  of  the  shaman  follows  soon
 after.  The  “  mother  animal  ”  keeps  always  to  the  same  place,
 for  which  reason  it  may  happen  that  a  strange  shaman  sees  it
 while  shamanizing.  If  the  latter  is  an  enemy  of  the  animal’s
-
-
-508
-
-
-SIBERIAN  MYTHOLOGY
 
 
 owner,  he  frightens  the  animal  so  that  it  dies,  with  fatal
@@ -24663,12 +22111,6 @@ back  views.  (See  page  514.)
 mvmn  of  auNQis
 
 
-SHAMANISM  AND  TOTEMISM
-
-
-509
-
-
 ing  a  shaman,  with  a  square  iron  plate  on  his  head,  over  which
 a  bird  surrounded  by  nine  small  human-like  objects  is  fastened.
 The  iron  chain,  to  which,  in  addition,  a  bird  and  a  reindeer
@@ -24697,9 +22139,6 @@ Even  if  the  shaman  could  reach  the  world  of  the  dead  with-
 
 
 5io
-
-
-SIBERIAN  MYTHOLOGY
 
 
 out  Koori,  it  would,  as  the  people  point  out,  be  impossible
@@ -24740,9 +22179,6 @@ who  is  to  lead  the  sacrificed  animal’s  soul  to  the  gods.  On
 the  graves  also  of  the  Tungus,  Dolgans  and  Yakuts,  one
 
 
-SHAMANISM  AND  TOTEMISM
-
-
 5ii
 
 
@@ -24750,11 +22186,6 @@ Fig.  20.  Dolgan  Shaman-attributes  and  the  World-tree  with  the
 
 TWO-HEADED  LORD  OF  THE  BIRDS
 
-
-SIBERIAN  MYTHOLOGY
-
-
-512
 
 may  see  images  of  birds,  looms,  etc.,  on  long  poles,  set  up,
 probably,  as  refuges  for  the  homeless  soul.33  It  is,  however,
@@ -24827,9 +22258,6 @@ OF  ME
 mmmv  ai  iuinqii
 
 
-SHAMANISM  AND  TOTEMISM
-
-
 5i3
 
 
@@ -24848,9 +22276,6 @@ man-boot  (Bird  type)
 
 
 5H
-
-
-SIBERIAN  MYTHOLOGY
 
 
 complete  costumes,  best  preserved  among  the  most  northern
@@ -24891,19 +22316,11 @@ back,  are  explained  to  be  “  bird’s  feathers.”  Naturally,  the
 head-dress  also  is  fringed  with  these.  In  the  head-dress  of
 
 
-SHAMANISM  AND  TOTEMISM
-
-
 5H
 
 
 Fig.  24.  Tatar  Shaman  (Bird  type)  in  Minusinsk  District
 
-
-SIBERIAN  MYTHOLOGY
-
-
-516
 
 this  type  in  the  Altai  district  one  may  at  times  even  see  the
 head  of  a  bird.  The  round  brass  buttons  on  the  front  of  the
@@ -24930,8 +22347,7 @@ belonging  here  are  sewn.  Naturally,  the  bird-type  costume  is
 fitted  with  “  bird’s  bones,”  the  deer  type  with  the  deer
 skeleton.
 
-More  difficult  is  the  question,  what  bird  the  different  bird-
-costumes  attempt  to  represent.  It  appears  probable  that  al¬
+More  difficult  is  the  question,  what  bird  the  different  birdcostumes  attempt  to  represent.  It  appears  probable  that  al¬
 though  the  dress  represents  an  invisible  spirit-bird,  the  people
 see  in  it  the  counterfeit  of  some  actual,  living  bird.  A  Yakut
 shaman  costume,  described  by  Priklonskiy,  is  said  to  repre¬
@@ -24946,9 +22362,6 @@ complete  “  bones  ”  of  the  bear.  This  would  seem  to  point  to
 a  shaman  costume  representing  a  bear.38  The  crowns,  how-
 
 
-SHAMANISM  AND  TOTEMISM
-
-
 5i7
 
 
@@ -24956,11 +22369,6 @@ Fig.  25.  Left  Boot  of  Yenisei-Ostiak  Shaman  (Bear  type)
 
 WITH  ALL  THE  BONES  OF  BEAR’S  LEFT  LEGS
 
-
-SIBERIAN  MYTHOLOGY
-
-
-518
 
 ever,  where  such  are  found,  are  generally  fitted  with  “  horns.”
 Are  we  to  assume  that  different  types  of  costume  have  be¬
@@ -25021,9 +22429,6 @@ OF  THE
 mw*m  of  iwiroii
 
 
-SHAMANISM  AND  TOTEMISM
-
-
 5i9
 
 
@@ -25046,8 +22451,7 @@ by  the  primitive  peoples  themselves.  The  Yakuts  say  that
 when  the  shaman  takes  on  his  bird-costume  he  himself  re¬
 ceives  the  power  of  flying  everywhere  in  the  world.  Accord¬
 ing  to  the  Tungus,  the  costume  of  the  shaman  is  his  “  shadow,”
-or  in  other  words,  in  this  shape  his  soul  travels  on  its  spirit-
-journeys.  Golde  myths  relate  how  a  great  bird  came  flying
+or  in  other  words,  in  this  shape  his  soul  travels  on  its  spiritjourneys.  Golde  myths  relate  how  a  great  bird  came  flying
 and  alighted  on  a  tree,  and  how  by  shaking  its  wings  these
 became  transformed  into  the  iron  feathers  of  the  shaman
 costume.41  The  Yenisei  Ostiaks  call  the  shaman  costume  and
@@ -25065,12 +22469,6 @@ Yakuts,  originally  represented  the  shaman’s  soul-animal  or  ij et¬
 hyl.
 
 In  his  songs  the  shaman  often  calls  his  drum  some  animal,
-
-
-520
-
-
-SIBERIAN  MYTHOLOGY
 
 
 on  which  he  says  he  is  travelling.  Some  call  it  their  “  horse  ”
@@ -25116,9 +22514,6 @@ Fig.  2 6.  Shaman-drum  with  Bird¬
 shaped  Hand-grip
 
 
-SHAMANISM  AND  TOTEMISM
-
-
 5  21
 
 
@@ -25127,9 +22522,6 @@ Shaman  man  found  in  the  earth
 
 
 5  22
-
-
-SIBERIAN  MYTHOLOGY
 
 
 shamans,  who  no  longer  use  drums,  make  use  of  two  sticks
@@ -25198,12 +22590,6 @@ W  iii
 mmm  w
 
 
-SHAMANISM  AND  TOTEMISM
-
-
-523
-
-
 tooth  in  trying.  This  made  her  angry  and  from  spite  she
 nailed  the  soul  by  its  hands  and  feet  to  a  tree,  making  it
 thus  impossible  for  it  to  return  to  the  shaman’s  body.46
@@ -25239,4797 +22625,3 @@ night  of  the  primeval  forest.  These  wild  ceremonies,  stimu¬
 lated  by  a  diseased  imagination,  form  the  most  characteristic,
 though  at  the  same  time  the  least  known  and  the  most  sub¬
 jective  part,  of  the  mythology  of  these  primitive  peoples.
-
-
-:-i  W  ji\*  a  i'C.  KB  '
-
-■  ,  '
-
-.
-
-
-*
-
-
-.
-
-
-NOTES
-
-
-FINNO-UGRIC
-
-
-Citation  by  author’s  name  or  by  title  of  a  work  refers  to  the  same
-in  the  various  sections  of  the  Bibliography.  Where  an  author  has
-written  several  works,  they  are  distinguished  as  [a],  [b],  etc.  Where
-Roman  numerals  precede  these  letters  they  refer  to  the  sections  of  the
-Bibliography.
-
-Chapter  I
-
-1.  Reuterskiold  [b],  pp.  36,  59.
-
-2.  Charuzin,  “  Medv.  prisyaga,”  pp.  32—3.
-
-3.  Graan,  p.  19.
-
-4.  Bartenev,  p.  86.
-
-5.  Lankela,  pp.  274-5.
-
-6.  Donner  [b],  pp.  140-1.
-
-7.  Holmberg  [v  b],  p.  11.
-
-8.  Gondatti  [b],  p.  64.
-
-9.  Paasonen,  “  Uber  die  urspr.  seelenvorst,”  pp.  2,  27.
-
-10.  Novitskiy,  p.  106;  Karjalainen  [c],  p.  323.
-
-1 1.  Lundius,  p.  7.
-
-12.  Holmberg  [vb],p.  11.
-
-13.  Holmberg  [vi  a],  pp.  14-15.
-
-14.  Patkanov,  i.  148-9;  ii.  32.
-
-15.  Munch,  pp.  4-5.
-
-16.  Holmberg  [ivb],p.  14.
-
-17.  Nalimov’s  Collections  in  the  Archives  of  the  Finno-Ugric
-Society.
-
-18.  Holmberg  [vi  a],  pp.  14—16;  cf.  Gavrilov  [b],  pp.  124-5.
-
-19.  Holmberg  [v  b],  pp.  29-30.
-
-20.  Turi,  p.  150.
-
-21.  Nalimov  [b],  pp.  4,  8,  13-14;  Popov,  “  Zyryane,”  p.  59;
-Kandinskiy,  “  Iz  materialov,”  p.  107-8;  Fuchs,  p.  239.
-
-22.  Paasonen,  “  Uber  die  urspr.  seelenvorst.,”  pp.  19— 20,  25.
-
-23.  Krohn  [iii  g],  pp.  164-6.
-
-24.  Qvigstad  [a],  i.  49-50.
-
-25.  Cf.  Wasiljev,  “  Ubersicht,”  p.  102.
-
-26.  Jessen,  pp.  34-9;  Leem,  p.  417;  Holmberg  [ivb],  pp.  19-20.
-
-27.  Karjalainen  [c],  pp.  45-6.
-
-28.  Mainov  [c],  pp.  12-4;  Wasiljev,  “  Ubers.,”  pp.  101-2;
-Patkanov,  i.  152.
-
-
-528
-
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-Chapter  II
-
-1.  Hayha,  p.  1 6 ;  Varonen,  V  ainaj ainfalv .,  p.  57;  Wiedemann,
-p.  309.
-
-2.  Nalimov’s  Collections.
-
-3.  Holmberg  [v  b],  pp.  12—13.
-
-4.  Lukkarinen  [c],  p.  i;  Nikolskiy,  p.  64.
-
-5.  Magnitskiy,  p.  159;  Nikolskiy,  p.  65;  Holmberg  [v  b],  p.  15.
-
-6.  Varonen,  V  ainaj .,  p.  77.
-
-7.  Holmberg  [v  b],  p.  14.
-
-8.  Varonen,  V ainaj p.  93;  Lukkarinen  [c],  p.  2.
-
-9.  Reuterskiold  [b],  p.  36.
-
-10.  Karjalainen  [c],  p.  64.
-
-11.  Nikolskiy,  p.  65.
-
-12.  Hogstrom,  p.  207.
-
-13.  Molyarov  [c],  p.  741.
-
-14.  Varonen,  Vainaj.y  pp.  59-60.
-
-15.  Rheen,  p.  46.
-
-16.  Charuzin  [iv  b],  p.  324.
-
-17.  According  to  T.  Lehtisalo.
-
-18.  Wiedemann,  p.  310;  Varonen,  V ainaj. ,  p.  68.
-
-19.  Holmberg  [vi  a],  p.  20,  [v  b],  p.  13;  Varonen,  V ainaj. ,  p.  68.
-
-20.  Turi,  p.  150.
-
-21.  Karjalainen  [c],  p.  77.
-
-22.  Holmberg  [vi  a],  p.  26.
-
-23.  Gavrilov  [b],  p.  184;  Holmberg  [vi  a],  p.  26;  Varonen,
-Vainaj.y  p.  93.
-
-24.  Helland  [a],  ii.  3 15;  Varonen,  V ainaj. ,  p.  90.
-
-25.  Varonen,  p.  96.
-
-26.  Smirnov  [v  b],  xi.  538;  Holmberg  [v  b],  p.  17;  Varonen,
-Vainaj.y  p.  93;  cf.  Karjalainen,  [c],  pp.  85-7.
-
-27.  Varonen,  Vainaj.y  pp.  92-3,  94.
-
-28.  Charuzin  [iv  b],  pp.  323-4;  Leem,  p.  499.
-
-29.  Karjalainen  [c],  pp.  84-6;  Holmberg  [vi  a],  p.  27.
-
-30.  Turi,  p.  195.
-
-31.  Kolmodin,  “  Folktro,”  in  Laffarney  iii.  16.
-
-32.  Karjalainen  [c],  p.  78.
-
-33.  Smirnov  [v  b],  xi.  541 ;  Varonen,  Vainaj.y  p.  94;  Holmberg
-[v  b],  pp.  15-16.
-
-34.  Holmberg  [v  b],  p.  16.
-
-35.  According  to  Lehtisalo’s  Collections.
-
-36.  Holmberg  [vi  a],  p.  27.
-
-37.  Smirnov  [v  b],  xi.  544;  Holmberg  [vi  a],  p.  27,  [v  b],  p.  17;
-Varonen,  Vainaj.y  pp.  88-9.
-
-
-NOTES
-
-
-529
-
-
-38.  Holmberg  [v  b],  p.  17.
-
-39.  Magnitskiy,  p.  166.
-
-40.  Holmberg  [vi  a],  pp.  25-6,  45.
-
-41.  Varonen,  V ainaj .,  pp.  97-101.
-
-42.  Holzmayer,  “  Osiliana,”  in  VGEG  vii.  82;  Varonen,  Vainaj. y
-pp.  10 1—2.  A  corresponding  custom  is  known  among  the  Swedes  (Nils
-Lithberg,  “  Allmogeforskningen  och  etnologin,”  Fataburen ,  1919,
-Stockholm).
-
-43.  Hornborg,  “  Karsikoita,”  in  Vir.y  ii.  93—7;  Holmberg  [iii  b],
-pp.  8-34.
-
-44.  Karjalainen  [c],  pp.  85,  89.
-
-45.  Gondatti  [b],  p.  67;  Karjalainen  [c],  pp.  89-90.
-
-46.  Novitskiy,  p.  45.
-
-47.  According  to  Prof.  H.  Paasonen.
-
-48.  Karjalainen  [c],  p.  65;  Patkanov,  i.  144.
-
-49.  Cf.  Molyarov  [c],  p.  744.
-
-50.  Varonen,  Vainaj. ,  p.  90.
-
-51.  ib.,  p.  94.
-
-52.  Karjalainen  [c],  pp.  70-1.
-
-53.  Varonen,  Vainaj. y  p.  61 ;  Holmberg  [v  b],  p.  13;  Smirnov
-[v  b],  xi.  538.
-
-54.  Holmberg  [v  b],  p.  14.
-
-55.  Molyarov  [c],  pp.  742-3;  Holmberg  [v  b],  p.  14.
-
-56.  Semenov,  p.  34.
-
-57.  Holmberg  [vi  a],  pp.  22-3.
-
-58.  Karjalainen  [c],  p.  65;  Yakovlev,  p.  66.
-
-59.  Folklore  Collections  in  the  Archives  of  the  Kalevala-Society.
-
-60.  Holmberg  [v  b],  p.  16.
-
-61.  ib.,  p.  16.
-
-62.  Karjalainen  [c],  pp.  74-6.
-
-63.  Holmberg  [ivb],p.  15.
-
-64.  Varonen,  V ainaj. ,  pp.  62-3.
-
-65.  Schwindt,  pp.  185—8.
-
-66.  Karjalainen  [c],  pp.  66-7;  104-6.
-
-67.  Varonen,  V ainaj. y  p.  64.
-
-68.  Turi,  p.  149;  Vahl,  p.  134.
-
-69.  Niurenius,  p.  27 ;  Tornaeus,  p.  40 ;  Aspelin,  Suom.-ugril .
-muinaist.  alkeitay  p.  242;  Patkanov,  i.  142.
-
-70.  Setala  [b],  p.  96.
-
-71.  Varonen,  V ainaj. y  pp.  103-7.
-
-72.  Holmberg  [vi  a],  p.  24.
-
-73.  Ryckov,  p.  90.
-
-74.  Holmberg  [vb],  p.  16.
-
-75.  Leem,  p.  407;  Tornaeus,  pp.  40-1 ;  Charuzin  [iv  b],  d.  323-
-
-
-530
-
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-Chapter  III
-
-1.  Holzmayer,  pp.  81-2;  Varonen,  V ainaj .y  pp.  34-5.
-
-2.  Lundius,  pp.  34-40.
-
-3.  Qvigstad  [a],  i.  56-7.
-
-4.  Rheen,  p.  47.
-
-5.  Graan,  pp.  72-3.
-
-6.  Rheen,  p.  47.
-
-7.  Lundius,  p.  21.
-
-8.  Reuterskiold  [b],  p.  91.
-
-9.  Qvigstad  [a],  i.  59.
-
-10.  Lundius,  p.  29.
-
-11.  According  to  Lehtisalo.
-
-12.  Muller,  Das  Leben ,  p.  203.
-
-13.  Pallas,  Reise y  iii*  55-
-
-14.  Karjalainen  [c],  p.  81.
-
-15.  Gondatti  [b],  p.  67.
-
-16.  Karjalainen  [c],  pp.  90—1.
-
-17.  Munkacsi  [vii  d],  p.  95.
-
-18.  Karjalainen  [c],  p.  92.
-
-19.  Novitskiy,  Kratk.  of  is .,  p.  46;  cf.  Muller,  Das  Lebeny  p.  204.
-
-20.  Castren,  Reiseny  i.  296;  Pallas,  Reisey  iii.  59-60.
-
-21.  Finsch,  p.  547;  Karjalainen  [c],  p.  92.
-
-2  2.  According  to  Lehtisalo.
-
-23.  Cf.  Chapter  xviii.
-
-24.  Karjalainen  [c],  pp.  1 1 6 — 8.
-
-25.  Rheen,  p.  47.
-
-26.  Varonen,  V ainaj. y  p.  100.
-
-27.  Holmberg  [vi  a],  p.  31.
-
-28.  Smirnov  [vii  b],  p.  181.
-
-29.  Wasiljev,  “  Ubersicht,”  p.  104.
-
-30.  Varonen,  V ainaj. y  pp.  81—2.
-
-31.  Nalimov’s  Collections.
-
-32.  Olearius,  pp.  344-5.
-
-33.  Muller,  S ammiung,  iii.  144.
-
-34.  Varonen,  V ainaj. y  pp.  77—81.
-
-35.  Georgi  [b],  p.  57.
-
-36.  Dobrotvorskiy,  pp.  577-^*
-
-37.  Holmberg  [vb],  p.  19.
-
-38.  Holmberg  [vi  a],  p.  34.
-
-39.  Nalimov’s  Collections.
-
-40.  Smirnov  [vb],xi.  545-6.
-
-41.  Groundstroem,  p.  318;  cf.  Varonen,  V ainaj. 9  pp.  109— II;
-Lukkarinen  [c],  p.  7.
-
-
-NOTES
-
-
-53i
-
-
-42.  Krohn  [iii  g],  P-  51-
-
-43.  Molyarov  [c],  pp.  745-7;  Yakovlev,  p.  72.
-
-44.  Holmberg  [v  b],  p.  25.
-
-45.  Gorodskoy,  p.  33-
-
-46.  Smirnov  [v  b],  xi.  545-8.
-
-47.  Smirnov  [vi  a],  pp.  243-4;  Nalimov  [b],  p.  6;  Rogov,  p.  127.
-
-48.  Lukkarinen  [c],  pp.  9-10.
-
-49.  Forstrom,  pp.  401—2.
-
-50.  Holmberg  [vi  a],  p.  36.
-
-51.  Wichmann  [a],  p.  42.
-
-52.  Holmberg  [v  b],  p.  26.
-
-53.  Wichmann  [a],  pp.  42-4;  Gavrilov  [a],  pp.  40—1.
-
-54.  Smirnov  [vb],xi.  550-1.
-
-55.  Nalimov  [b],  p.  5.
-
-56.  According  to  Paasonen.
-
-57.  Holmberg  [vi  a],  pp.  50,  53-4.
-
-58.  Holmberg  [v  b],  pp.  28-9.
-
-Chapter  IV
-
-1.  Holmberg  [vi  a],  pp.  32—3.
-
-2.  Gavrilov  [a],  pp.  42—6;  Holmberg  [vi  a],  pp.  46-7,  [v  b],
-pp.  26-7.
-
-3.  Pervuchin,  ii.  1 1 3 — 7.
-
-4.  Nurminskiy,  p.  269.
-
-5.  Kallas,  pp.  91-2.
-
-6.  Castren,  E.,  Beskrifning ,  p.  76.
-
-7.  Varonen,  V ainaj .,  pp.  140-167.
-
-8.  Fellman,  j-,  ;>'•  43. 113-
-
-9.  Turi,  pp.  134-5;  Helland  [a],  ii.  294;  Jessen,  p.  8 1.
-
-10.  Graan,  pp.  67—8;  cf.  Rheen,  pp.  27-8.
-
-11.  Fellman,  I.,  i.  404.
-
-12.  Hogstrom,  pp.  188-9;  Leem,  p.  482.
-
-13.  Fritzner,  p.  157.
-
-14.  Krohn  [>”  g],  P-  5 2-
-
-15.  Paasonen  [v  d],  p.  843.
-
-16.  Holmberg  [v  b],  pp.  29-30.
-
-17.  Qvigstad  [a],  ii.  27.
-
-
-Chapter  V
-
-1.  Charuzin  [iv  b],  p.  324.
-
-2.  Holmberg  [v  b],  p.  12.
-
-3.  Karjalainen  [c],  p.  124.
-
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-532
-
-4.  Paasonen  [vd],p.  843;  Smirnov  [v  a],  pp.  1 17-21.
-
-5.  Karjalainen  [c],  p.  123.
-
-6.  According  to  Lehtisalo.
-
-7.  Karjalainen  [c],  pp.  130-1.
-
-8.  Smirnov  [v  b],  xi.  550-1.
-
-9.  Paasonen  [v  d],  p.  843;  Holmberg  [vi  a],  p.  19.
-
-10.  Karjalainen  [c],  pp.  12 1-2.
-
-11.  Lukkarinen  [c],  p.  17.
-
-12.  Holmberg  [v  b],  p.  12.
-
-13.  Reuterskiold  [b],  pp.  35-6,  67  etc.;  Jessen,  pp.  29-30,  71;
-Leem,  p.  418.
-
-14.  Unwerth  [c],  pp.  29-36.
-
-15.  Reuterskiold  [b],  p.  37.
-
-16.  Leem,  p.  477.
-
-1 7.  Qvigstad  [a],  i.  49.
-
-18.  Wiklund,  “  Saivo,”  pp.  59-74.
-
-19.  Karjalainen  [c],  pp.  123-4.
-
-20.  Krohn  [iii  g],  pp.  273—5 ;  cf.  Eisen  [b],  pp.  34-5.
-
-21.  According  to  Collections  in  the  Archives  of  the  Kalevala
-Society.
-
-22.  Vasilyev  [b],  x.  16.
-
-23.  Strahlenberg,  p.  76.
-
-24.  Karjalainen  [c],  pp.  126-7.
-
-25.  Charuzin  [iv  b],  pp.  197-8.
-
-26.  Holzmayer,  pp.  48—9;  Eisen  [v  b],  pp.  32—3.
-
-27.  Brummer,  “  Uber  die  Bannungsorte,”  MSFOy  pp.  43,  44,
-45  ff-  and  “  Versverzeichnisse,”  ib.y  pp.  19—20,  22-3.
-
-28.  Suomen  kansan  vanhat  runoty  i.  4,  n.  870,  ( Bor .  ii.  37).
-
-29.  Stadling,  p.  26.
-
-30.  Veniaminov,  I.,  Zaftski  ob  atchinskich  Aleutach  i  Kolos  ach
-(1840),  iii.  56—60;  cf.  The  Mythology  of  All  Races y  x.  249.
-
-Chapter  VI
-
-1.  Nalimov  [c],  pp.  5,11
-
-2.  Karjalainen  [b],p.  83.
-
-3.  According  to  Lehtisalo’s  Collections.
-
-4.  Genetz,  Worterbuchy  p.  156.
-
-5.  Rheen,  p.  15;  Graan,  p.  40.
-
-6.  Karjalainen  [b],  pp.  85—6.
-
-7.  Krohn  [iii  g],  p.  147.
-
-8.  Tuderus,  p.  12.
-
-9.  Lundius,  p.  18.
-
-10.  Turi,  p.  138;  Kolmodin,  p.  3.
-
-
-NOTES
-
-
-533
-
-
-11.  Charuzin,  “  Medv.  prisyaga,”  pp.  30  ff.
-
-12.  Wiklund  [iv  a],  pp.  27-46.
-
-13.  Wiklund,  ib.,  p.  30.
-
-14.  Qvigstad  [a],  i.  28.
-
-15.  Reuterskiold  [b],  p.  37.
-
-16.  Wiklund  [iv  a],  p.  46.
-
-17.  Rheen,  p.  44.
-
-18.  Wiklund  [iv  a],  p.  45.
-
-19.  Hogstrom,  p.  208;  Wiklund  [iv  a],  p.  39.
-
-20.  Niurenius,  p.  18.
-
-21.  Reuterskiold  [b],  p.  36.
-
-22.  Wiklund  [iv  a],  p.  38.
-
-23.  ib.  pp.  31-2.
-
-24.  Hogstrom,  p.  210.
-
-25.  Wiklund  [iv  a],  p.  44.
-
-26.  Hogstrom,  p.  210.
-
-27.  Graan,  p.  67,  n.
-
-28.  Cf.  Wiklund  [iv  a],  p.  45.
-
-29.  Rheen,  p.  46.
-
-30.  Lundius,  p.  28.
-
-31.  Charuzin  [iv  b] ,  p.  204.
-
-32.  Krohn  [iii  g],  p.  163.
-
-33.  Karjalainen  [b],  pp.  85—7;  cf.  Patkanov,  i.  125  ff.
-
-34.  Gondatti  [a],  pp.  74-87;  Kannisto  [a],  pp.  213-37.
-
-35.  Karjalainen  [b],  pp.  86-7.
-
-36.  ib.  p.  86,  n.  2.
-
-37.  Krohn  [iii  g],  p.  149  ff.
-
-38.  According  to  Lehtisalo’s  Collections.
-
-39.  Karjalainen  [b],  p.  88.
-
-40.  Fellman,  I.,  i.  392.
-
-41.  Kolmodin,  p.  5.
-
-42.  Niurenius,  p.  19.
-
-43.  According  to  Lehtisalo’s  Collections.
-
-44.  Kolmodin,  p.  4.
-
-45.  Hogstrom,  p.  183.
-
-46.  Wiklund  [iv  a],  p.  37.
-
-Chapter  VII
-
-
-1.  Rosen,  pp.  177-9.
-
-2.  Andersson,  p.  31.
-
-3.  Tornaeus,  pp.  26-7;  Hogstrom,  p.  193;  Rheen,  p.  42.
-
-4.  Tuderus,  p.  14.
-
-5.  Graan,  p.  10.
-
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-6.  Leem,  p.  443.
-
-7.  Hogstrom,  p.  194.
-
-8.  Fellman,  I.,  i.  405—6.
-
-9.  Holmberg  [iv  b],  p.  32.
-
-10.  Andersson,  p.  44.
-
-1 1.  Yascenko,  p.  3 1.
-
-12.  Fellman,  j„  ii.  146.
-
-13.  Schefferus,  p.  100.
-
-14.  Hogstrom,  pp.  183,  197  n.
-
-15.  Tornaeus,  p.  26.
-
-16.  Kildal,  p.  455.
-
-17.  Jessen,  p.  48.
-
-18.  Rheen,  p.  39.
-
-19.  Holmberg  [iv  b],  p.  35.
-
-20.  Qvigstad  [a],  ii.  89.
-
-21.  Tornaeus,  p.  28.
-
-22.  Fellman,  J.,  ii.  66.
-
-23.  Andelin,  p.  274.
-
-24.  Yascenko,  pp.  31—2.
-
-25.  Charuzin  [iv  b],  pp.  186—8;  Yascenko,  p.  23.
-
-26.  Holmberg  [iv  b],  p.  36;  Graan,  p.  63.
-
-27.  Rheen,  p.  42.
-
-28.  Fellman,  J.,  ii.  19-20.
-
-29.  Andersson,  p.  44.
-
-30.  Tornaeus,  pp.  26-7.
-
-31.  Appelgren,  p.  50.
-
-32.  A  TPS,  xvii,  4:25;  Fellman,  I.,  i.  340,  342;  Hogstrom
-pp.  1 90-1.
-
-33.  Hogstrom,  p.  192.
-
-34.  Rheen,  pp.  39-40 ;  Niurenius,  p.  21.
-
-35.  Tuderus,  pp.  14-5.
-
-36.  Qvigstad  [a],  ii.  9,  12,  34,  88-9.
-
-37.  Genetz,  Worterbuch ,  pp.  xliv-xlv,  1 1 3.
-
-38.  Holmberg  [iv  b],  pp.  41-2.
-
-39.  Rheen,  p.  59;  Jessen,  p.  45;  Duben,  p.  260;  Kolmodin,  p.  27
-Qvigstad  [a],  ii.  8  n.;  Tuderus,  p.  17.
-
-40.  Leem  p.  441 ;  Holmberg  [iv  b],  pp.  42—3.
-
-Chapter  VIII
-
-1.  Donner  [b],  pp.  134-5.
-
-2.  Karjalainen  [c],  pp.  139-53;  Patkanov,  i.  106—8.
-
-3.  Charuzin,  “  Ocerki,”  p.  262.
-
-4.  Hamalainen,  “  Epif.  Viis.  tied.,”  pp.  39-40.
-
-
-NOTES
-
-
-535
-
-
-5.  Ryckov,  p.  158.
-
-6.  Gavrilov  [a],  pp.  61-2;  Wichmann  [a],  p.  25.
-
-7.  Aminoff,  “  Reseber.,”  p.  236.
-
-8.  Nalimov  [b],  pp.  4-5.
-
-9.  Lukkarinen  [a],  p.  6.
-
-10.  Wichmann  [a],  p.  25.
-
-11.  Bogayevskiy  [b],  p.  79.
-
-12.  Gavrilov,  [a],  p.  62.
-
-13.  Pervuchin,  ii.  7-9;  cf.  Verescagin  [d],  pp.  94-5.
-
-14.  Micheyev,  p.  899.
-
-15.  Wichmann  [a],  p.  25.
-
-16.  Verescagin  [c],  pp.  175-6.
-
-17.  Gavrilov  [b],  p.  152.
-
-18.  Ryckov,  p.  160.
-
-19.  Georgi  [b],  pp.  60-1.
-
-20.  Luppov  [b],  pp.  536-7.
-
-21.  Wasiljev,  pp.  52—3;  Bogayevskiy  [a],  p.  29.
-
-22.  Aminoff,  “  Reseber.,”  p.  236.
-
-23.  Bogayevskiy  [a],  p.  107.
-
-24.  Molyarov  [a],  p.  256.
-
-25.  Ryckov,  p.  160.
-
-26.  Ramstedt,  p.  206.
-
-27.  Vasilyev  [b],  pp.  5-6.
-
-28.  Georgi  [a],  ii.  846,  843.
-
-29.  Buch,  “  Uber  den  Tonnis-cultus,”  pp.  5—13;  Jurgens,  pp.  1—9.
-
-30.  Voionmaa,  p.  504.
-
-
-Chapter  IX
-
-1.  Veniamin,  [b],  pp.  1 1 6,  122—6.
-
-2.  Donner  [d] .
-
-3.  According  to  Lehtisalo.
-
-4.  Donner  [b],  pp.  61—3.
-
-5.  Pallas,  Reise ,  iii.  61.
-
-6.  Karjalainen  [c],  pp.  158—207.
-
-7.  ib.  p.  132.
-
-8.  Novitskiy,  pp.  51,  83—5.
-
-9.  Karialainen  [c],  pp.  214—36.
-
-10.  Hamalainen,  “  Epif.  Viis.  tied.,”  p.  40.
-
-11.  Muller,  iii.  345;  Pallas,  Reisey  iii.  480;  Georgi  fb],  p.  58.
-
-12.  Wichmann  [a],  p.  18.
-
-13.  Buch,  “  Die  Wotjaken,”  p.  588;  cf.  Bogayevskiy  [a],  p.  25.
-
-14.  Gavrilov  [a],  pp.  32—3.
-
-15.  Buch,  p.  588.
-
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-536
-
-16.  Bogay e vskiy,  Ocerki,  p.  16 1.
-
-17.  Miropolskiy,  p.  362.
-
-18.  Bogayevskiy,  Ocerki ,  p.  16 1.
-
-19.  Bechterev,  VE  ix.  158.
-
-20.  Wasiljev,  pp.  30-2.
-
-21.  ib.  pp.  24,  1 2 1.
-
-22.  Hamalainen,  “  Epif.  Viis.  tied.,”  p.  40.
-
-23.  Ostrovskiy,  p.  37.
-
-24.  Bechterev,  VE  ix.  157.
-
-25.  Georgi  [b],  p.  59.
-
-26.  Wasiljev,  p.  32.
-
-27.  Georgi  [b],  p.  59.
-
-28.  Wichmann  [a],  p.  16.
-
-29.  Cf.  Hamalainen,  “  Tser.  uhritap.,”  pp.  4-8.
-
-30.  Kuznecov  [e] .
-
-31.  Paasonen  [v  d],  p.  847.
-
-32.  ib.  pp.  843-4.
-
-33.  Krohn,  J.,  Suom.  suv.  fak.  jumalanf pp.  28-31.
-
-Chapter  X
-
-1.  Genetz,  Worterb.,  p.  xli;  Charuzin  [iv  b],  pp.  152,  240;
-Reuterskiold  [b],  pp.  25,  107-8.
-
-2.  Pervuchin  i.  89-91;  Wichmann  [a],  p.  32;  Miropolskiy,
-
-P-  353-
-
-3.  Holmberg  [vi  a],  pp.  146-8.
-
-4.  Georgi  [b],  p.  62;  cf.  Gavrilov  [a],  pp.  58-9.
-
-5.  Wasiljev,  pp.  77-80.
-
-6.  Pervuchin,  i.  92-4;  Wichmann  [a],  p.  32;  Miropolskiy,
-
-PP-  354)  36Jj
-
-7.  Verescagin  [c],  p.  85.
-
-8.  Gavrilov  [a],  p.  63 ;  Pervuchin,  i.  96.
-
-9.  Satrapinskiy,  p.  21 ;  Wichmann  [a],  pp.  29-30;  Holmberg
-[vi  a],  p.  150.
-
-10.  Kandinskiy,  pp.  108-9;  Yanovic,  pp.  54-5;  Rogov,  p.  102.
-
-11.  Fuchs,  p.  242;  Popov,  p.  59;  Smirnov  [vi  a],  p.  281.
-
-12.  Holmberg  [v  b],  pp.  34-6.
-
-13.  Paasonen  [v  d],  p.  845.
-
-14.  Holmberg  [v  b],  pp.  58—9.
-
-15.  Paasonen  [v  d],  p.  845.
-
-16.  Lukkarinen  [a],  p.  4.
-
-17.  ib.  pp.  1-2.
-
-18.  Krohn  [iii  gj,  pp.  86-7.
-
-19.  Lukkarinen  [a],  pp.  3-4.
-
-
-NOTES
-
-
-537
-
-
-20.  Krohn  [iii  g],  pp.  86-7.
-
-21.  ib.  p.  95.
-
-22.  ib.  pp.  95-6.
-
-23-  Holmberg  [vi  a],  p.  1 5 1.
-
-24.  Lukkarinen  [a],  pp.  19—23.
-
-25.  Helland  [a],  ii.  304;  Fellman,  J.,  ii.  158-9.
-
-26.  Krohn  [iii  g],  p.  97.
-
-27.  Eisen  [b],  pp.  133-43;  Holzmayer,  pp.  11-14,  16-17,  48.
-
-28.  Gavrilov  [a],  p.  45.
-
-29.  Krohn  [iii  g],  p.  100.
-
-30.  ib.  p.  99;  corresponding  beliefs  are  known  also  among  the
-Volga-Finns.
-
-31.  Kallas,  p.  82,  cf.  pp.  73,  80.
-
-32.  Ramstedt,  p.  206.
-
-33.  Butuzov  [b],  p.  486;  Yanovic,  p.  55.
-
-34.  Sachmatov,  p.  146.
-
-
-Chapter  XI
-
-1.  Reuterskiold  [b],  pp.  14,  33;  Qvigstad  [a],  p.  27.
-
-2.  Reuterskiold  [b],  pp.  89,  37.
-
-3.  Charuzin  [ivb],p.  152.
-
-4.  Genetz,  Worterb.y  pp.  xxxix-xl,  1 75.
-
-5.  Charuzin  [iv  b],  p.  152.
-
-6.  Friis  [c],  p.  95;  Reuterskiold  [b],  p.  99;  Helland  [a],
-ii.  230.
-
-7.  Charuzin  [iv  b],  p.  152;  Genetz,  Worterb.y  p.  xli.
-
-8.  Qvigstad  [a],  i.  46;  Wiklund,  “  Saivo,”  pp.  49-50,  51-3.
-
-9.  Helland  [a],  ii.  261,  318;  Wiklund,  “  Saivo, ”  pp.  50— I.
-
-10.  Turi,  pp.  210-2;  Wiklund,  “Saivo,”  pp.  51,  59.
-
-1 1.  Donner  [d] .
-
-12.  Karjalainen  [c],  pp.  282-3.
-
-13.  ib.  pp.  376-7.
-
-14.  ib.  pp.  373-6.
-
-15.  ib.  pp.  377-8.
-
-16.  Pervuchin,  i.  76-86;  Verescagin  [d],  p.  80,  [c],  p.  86.
-
-1 7.  Wichmann  [a],  p.  31.
-
-18.  Verescagin  [d],  p.  53  and  [a],  pp.  48-51.
-
-19.  ib.  pp.  45—7,  [d],  p.  80.
-
-20.  Pervuchin,  i.  88-9.
-
-21.  Wichmann  [a],  pp.  11— 2.
-
-22.  Pervuchin,  i.  88.
-
-23.  Smirnov  [vi  a],  pp.  268-272,  276-281 ;  Zakov,  pp.  70-I5
-Fuchs,  pp.  236-8;  Yanovic,  pp.  53-5.
-
-
-538
-
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-24.  Holmberg  [vi  a],  p.  157.
-
-25.  Vasilyev  [b],  pp.  16-18.
-
-26.  Holmberg  [v  b],  pp.  37-8.
-
-27.  ib.  pp.  38-9.
-
-28.  Sneznitskiy  [a],  p.  631.
-
-29.  Krohn  [iii  g],  pp.  72-4.
-
-30.  Eisen  [b],  pp.  78-80.
-
-31.  Holmberg  [ii  b],  p.  238  n.
-
-32.  Ramstedt,  “  Bergtscher.  Sprachst.,”  p.  206.
-
-33.  Holmberg  [v  b],  p.  39.
-
-34.  Aminoff,  “  Reseber.,”  p.  231.
-
-35.  Lukkarinen  [d],  p.  142-3.
-
-36.  Charuzin  [iv  b],  p.  208.
-
-37.  Lundius,  p.  18.
-
-38.  Holmberg  [v  b],  pp.  54,  57.
-
-39.  Krohn  [iii  g],  p.  130.
-
-40.  Milkovic,  “  Byt  i  verov.,”  p.  5.
-
-41.  Setala  [a],  pp.  46-7,  n.  I;  Yakovlev,  p.  48.
-
-42.  Genetz,  Worterb .>  p.  xl.
-
-Chapter  XII
-
-1.  Andelin,  p.  275;  Leem,  pp.  333-4;  Friis,  Lex.  lapp.9  p.  39,
-and  [b],  pp.  33-4.
-
-2.  Holmberg  [ii  b],  pp.  36-7;  Helland  [a],  ii.  291.
-
-3.  Fritzner,  p.  159.
-
-4.  Fellman,  J.,  ii.  125;  Lindahl-Ohrling,  p.  285.
-
-5.  Kildal,  p.  458;  Reuterskiold  [b],  pp.  57,  98.
-
-6.  Genetz,  Worterb. y  pp.  xli-xlii;  Holmberg  [iv  b],  pp.  88—9.
-
-7.  Charuzin  [ivb],p.  152;  Kildal,  p.  458.
-
-8.  Donner  [b],  p.  13°,  and  [d].
-
-9.  According  to  Lehtisalo’s  Collections.
-
-10.  Patkanov,  i.  ill;  Polyakov  [a],  p.  38.
-
-11.  Karjalainen  [c],  pp.  291-2.
-
-12.  ib.  pp.  290-1.
-
-13.  Gondatti  [b],  p.  63;  Holmberg  [ii  b],  p.  60.
-
-14.  ib.  pp.  58-9.
-
-15.  ib.  pp.  64-74;  Pervuchin,  i.  72-6.
-
-16.  Fuchs,  pp.  234—5;  2akov,  pp.  72-3;  Popov,  p.  58;  Yanovic,
-P-  55-
-
-17.  Setala  [a],  pp.  10-23.
-
-18.  Holmberg  [v  b],  pp.  39-42.
-
-19.  Smirnov  [v  b],  p.  278,  282.
-
-20.  Eisen  [g] ;  Holmberg  [ii  b],  160-73.
-
-
-NOTES
-
-
-539
-
-
-21.  Holmberg,  ib.  pp.  191-211;  217—8.
-
-22.  Castren,  Nord.  Reisen ,  iii.  85.
-
-23.  Lukkarinen  [b],  p.  49.
-
-24.  Krohn  [iii  e],  p.  132.
-
-25.  Wiedemann,  p.  419.
-
-26.  Holmberg  [v  b],  pp.  41—2.
-
-27.  Paasonen,  “  Uber  d.  urspr.  Seelenvorst.,”  p.  13.
-
-28.  Kolmodin,  p.  5.
-
-29.  Holmberg  [ii  b],  p.  99.
-
-30.  Kolmodin,  p.  32.
-
-31.  Donner  [b] ,  p.  95.
-
-V
-
-32.  Zakov,  p.  72.
-
-33.  Holmberg  [ii  b],  pp.  189-90.
-
-34.  Saarimaa,  p.  92.
-
-35.  Holmberg  [ii  b],  p.  196.
-
-36.  Melnikov  [c],  x.  41 1.
-
-37.  Holmberg  [v  b],  pp.  49-50.
-
-38.  Gutslaff,  pp.  24—6,  32  ff.
-
-39.  Smirnov  [v  b],  p.  322.
-
-40.  Holmberg  [ii  b],  pp.  112-3,  149-52,  230-2.
-
-41.  AminofF,  “  Reseb.,”  p.  234.
-
-42.  Wichmann,  [a],  p.  31.
-
-43.  Holmberg  [v  b],  pp.  41,  58.
-
-Chapter  XIII
-
-1.  Veniamin  [b],  p.  116  n.,  50.
-
-2.  Holmberg  [vb],  pp.  43-4;  Karjalainen  [vii  c],  pp.  296-306.
-
-3.  Donner  [vii  b],  p.  129;  Karjalainen  [vii  c],  pp.  315-21.
-
-4.  Holmberg  [vi  a],  p.  170.
-
-5.  Paasonen  [v  d],  p.  844.
-
-6.  Karjalainen  [c],  p.  299.
-
-7.  Holmberg  [vi  a],  p.  17 1.
-
-8.  Holmberg  [v  b],  p.  44;  Znamenskiy,  p.  44;  Karjalainen  [c],
-p.  306.
-
-9.  Holmberg  [vi  a],  p.  168,  and  [v  b],  pp.  43,  68;  Karjalainen
-[c],  p.  312.
-
-10.  Veniamin,  [b],  pp.  120-1.
-
-11.  Tretyakov,  p.  201.
-
-12.  Holzmayer,  p.  266.
-
-13.  Turi,  p.  266.
-
-14.  Reuterskiold  [b],  pp.  37,  94;  Kildal,  p.  471.
-
-15.  Leem,  pp.  437—8.
-
-16.  Reuterskiold  [b],  p.  112.
-
-
-540
-
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-17.  Olrik  [a],  pp.  1-9;  Holmberg  [ii  d],  pp.  15-18.
-
-18.  Holmberg  [ii  d],  pp.  9-21.
-
-19.  Karjalainen  [c],  p.  416.
-
-20.  According  to  Lehtisalo’s  Collections.
-
-21.  Holmberg  [vi  a],  pp.  172-3.
-
-22.  Holmberg  [v  b],  pp.  46-7.
-
-23.  Paasonen  [v  f],  p.  19,  cf.  pp.  157,  165,  and  [v  d],  p.  846.
-
-24.  Krohn  [iii  g],  p.  115.
-
-25.  According  to  Paasonen.
-
-26.  Jessen,  p.  47;  Reuterskiold  [b],  p.  23;  Rheen,  pp.  42-3.
-
-27.  Leem,  p.  506.
-
-28.  Jessen,  pp.  18-9;  Leem,  p.  41 1,  Kildal,  pp.  452-3.
-
-29.  Kildal,  p.  472;  Jessen,  p.  49.
-
-30*  Qvigstad  [a],  i.  51.
-
-31.  Jessen,  p.  8 1 ;  Kildal,  p.  452;  Fellman,  I.,  Hand .,  i.  394.
-
-32.  MO  (1912),  p.  43.
-
-33.  Hdgstrom,  pp.  179-80,  188.
-
-34.  Olrik,  “  Wettermachen  und  Neujahrsmond  im  Norden  ”
-( Zeitschrift  des  V  ere  ins  filr  V  olkskunde,  1910),  pp.  57—61.
-
-35.  Holmberg,  “  Pakkasen  synty,”  Vir .,  1919,  pp.  73-4.
-
-36.  Qvigstad  [a],  i.  51.
-
-37.  According  to  Lehtisalo’s  Collections.
-
-38.  Karjalainen  [c],  pp.  327-8.
-
-39.  Yanovic,  p.  123.
-
-40.  Holmberg  [vi  b],  pp.  175-7,  and  [v  b],  pp.  45-6.
-
-41.  Paasonen  [v  d],  p.  844.
-
-42.  Krohn  [iii  g],  pp.  117-8.
-
-43.  Salmelainen,  p.  130.
-
-44.  Lukkarinen  [b],  pp.  39-47-
-
-45.  Gutslaff,  pp.  362-4.
-
-46.  Fellman,  J.,  ii.  79,  147.
-
-47.  Setala  [a],  pp.  39-48.
-
-48.  Reuterskiold  [b],  pp.  23,  33,  8 1 5  Hdgstrom,  pp.  177-8;
-Qvigstad  [a],  i.  7;  Jessen,  pp.  19-20.
-
-49.  Rheen,  pp.  35-7.
-
-50.  Reuterskiold  [b],  p.  81.
-
-51.  Kildal,  p.  453.
-
-52.  Fellman,  J.,  ii.  84-5.
-
-53.  Holmberg  [vi  a],  pp.  186-7;  Aminoff,  “  Reseberatt.,”  p.  232.
-
-54.  According  to  Paasonen.
-
-55.  Eisen  [b],  pp.  109-10;  Boeder,  p.  146.
-
-56.  Rantasalo  [a],  iii.  48.
-
-57.  Qvigstad  [a],  i.  73.
-
-58.  ib.  i.  13;  Holmberg  [iv  b],  pp.  74-5.
-
-
-NOTES
-
-
-54i
-
-
-59-  Qvigstad  [a],  i.  36;  Reuterskiold  [b],  p.  33.
-
-60.  Qvigstad  [a],  i.  13;  Fritzner,  pp.  201-2.
-
-61.  Karjalainen  [c],  pp.  419-20.
-
-62.  Holmberg  [vi  a],  p.  187.
-
-63.  Holmberg  [v  b],  pp.  64-5;  Paasonen  [v  a],  pp.  201-2.
-
-64.  According  to  Paasonen.
-
-65.  Reuterskiold  [b],  pp.  23,  33,  1 1 3.
-
-66.  Holmberg  [v  b],  pp.  47-8.
-
-67.  Pervuchin,  i.  56;  Verescagin  [d],  p.  30.
-
-
-Chapter  XIV
-
-1.  Holmberg  [v  b],  pp.  53-4.
-
-2.  Karjalainen  [c],  pp.  420-2.
-
-3.  Paasonen  [v  d],  p.  846;  Karjalainen  [c],  p.  422;  Yakovlev,
-p.  38.
-
-4.  Holmberg  [v  b],  p.  58.
-
-5.  Krohn  [iii  g],  p.  88;  Eisen  [b],  p.  119.
-
-6.  Karjalainen  [c],  pp.  421—2.
-
-7.  Holmberg  [v  b],  p.  117,  and  [vi  a],  pp.  173-4;  Verescagin,
-[d],  p.  78.
-
-8.  Smirnov  [v  b],  p.  549.
-
-9.  Lukkarinen  [b],  p.  82.
-
-10.  Holmberg  [v  b],  pp.  85,  104,  128;  Karjalainen  [c],  p.  423.
-
-11.  Qvigstad  [a],i.  39.
-
-12.  Krohn  [iii  e],  pp.  10 1-2.
-
-13.  Holmberg,  “  Nykyaikainen  tutkimus  ja  kansamme  vanhat
-runot,”  Aikay  1918,  pp.  29-31.
-
-14.  See  The  Mythol.  of  All  Races ,  x.  256.
-
-Chapter  XV
-
-1.  Karjalainen  [c],  pp.  335-6.
-
-2.  Holmberg  [v  b],  pp.  48-9.
-
-3.  Satrapinskiy,  p.  30;  Holmberg  [vi  a],  pp.  177-8.
-
-4.  Paasonen  [v  d],  p.  846.
-
-5.  Znamenskiy,  p.  44;  Paasonen  [v  d],  p.  845.
-
-6.  Nalimov  [b],  p.  16;  Holmberg  [vi  a],  p.  179.
-
-7.  Holmberg  [v  b],  pp.  59-60.
-
-8.  Magnitskiy,  pp.  40-3.
-
-9.  Ostrovskiy,  pp.  37-8.
-
-10.  Paasonen,  “  Mika  on  jumala-sanan  alkumerkitys,”  Aika}  1907,
-p.  190.
-
-11.  Holmberg  [v  b],  p.  58.
-
-
-542
-
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-12.  Holmberg  [via],p.  180.
-
-13.  ib.  p.  180.
-
-14.  Paasonen  [v  d],  p.  846.
-
-15.  Holmberg  [vi  a],  p.  190;  Magnitskiy,  pp.  19,  25.
-
-16.  Holmberg  [v  b],  p.  116.
-
-17.  Pervuchin,  ii.  29—41.
-
-18.  ib.  i.  87;  cf.  Wichmann  [a],  pp.  25-6.
-
-19.  Ganander,  pp.  54,  97;  Krohn  [iii  g],  pp.  80—1,  139—40.
-
-20.  ib.  pp.  137—9;  Krohn,  “  Finns,”  ERE  vi.  25.
-
-21.  Suomen  k.  m.  loitsur .,  p.  165;  Hallstrom,  G.,  “  HalmstafFan,”
-Etnol.  Studier  tillagnade  N.  E.  Hammarstedt  (Stockholm,  1921),
-pp.  227-31.
-
-22.  Krohn  [iii  g],  pp.  136-7.
-
-23.  Gavrilov  [a],  p.  71.
-
-24.  Eisen  [h],  pp.  104-111,  [b] ,  pp.  128-32.
-
-25.  Krohn  [iii  g],  pp.  137,  138  n.
-
-26.  Holmberg  [vi  a],  p.  174,  [v  b],  pp.  116-8;  Magnitskiy,
-pp.  34-40.
-
-27.  According  to  Paasonen.
-
-28.  Nalimov  [c],  pp.  13-4;  Kandinskiy,  p.  no;  Holmberg
-[iii  c],  pp.  1-12.
-
-29.  Holzmayer,  pp.  19,  1 1 3.
-
-30.  Reinholm’s  Collections  (Nat.  Museum  at  Helsingfors).
-
-31.  Holzmayer,  p.  107.
-
-32.  Rantasalo  [a],  iii.  54,  cf.  p.  33.
-
-33.  Holzmayer,  pp.  73-4.
-
-34.  Nikander,  G.,  “  Fruktbarhetsriter,”  Skrifter  utg.  av  Sv.  Litte-
-r atur sails kafet  i  Finland ,  cxxviii.  Folkloristiska  och  etnografska
-studier ,  i.  220-2  (Helsingfors,  1916).
-
-35.  Varonen,  Vainaj.y  p.  165.
-
-36.  Rantasalo  [a],  iii.  86—109.
-
-37.  Eisen  [b],  pp.  12 1-2;  cf.  Holzmayer,  pp.  10-11.
-
-38.  Holmberg  [vb],  pp.  56-7.
-
-39.  Kildal,  p.  452;  Reuterskiold  [b],  pp.  32,  56,  78,  95,  97;
-Jessen,  p.  63.
-
-40.  Qvigstad  [a],  i.  10-1.
-
-41.  Graan,  pp.  65-6;  cf.  Schefferus,  p.  1 1 3.
-
-42.  Rheen,  pp.  39-40;  Qvigstad  [a],  i.  36.
-
-Chapter  XVI
-
-1.  Reuterskiold  [b],p.  57.
-
-2.  Jessen,  p.  14.
-
-3.  Qvigstad  [a],  i.  25.
-
-
-NOTES
-
-
-543
-
-
-4.  Jessen,  pp.  14,  19;  Reuterskiold  [b],  pp.  8,  12,  103.
-
-5.  ib.  p.  88;  Setala  [a],  pp.  49-50.
-
-6.  Reuterskiold  [b],  pp.  24-5,  33-4,  105.
-
-7.  ib.  p.  72.
-
-8.  Qvigstad  [a],  i.  24-5;  Jessen,  pp.  21-2;  Reuterskiold  [b],
-PP-  24,  34-
-
-9.  ib.  p.  72;  Leem,  pp.  493-5.
-
-10.  Jessen,  p.  22.
-
-1 1.  Kildal,  S.,  p.  470.
-
-12.  Reuterskiold  [b],  pp.  37,  72.
-
-13.  ib.  p.  25,  etc.;  Leem,  pp.  414-5.
-
-14.  Leem,  pp.  414-5;  Qvigstad  [a],  i.  23-4.
-
-15.  Reuterskiold  [b],  pp.  25,  27,  88-9;  Jessen,  p.  21.
-
-16.  Jessen,  p.  22.
-
-17.  Qvigstad  [a],  ii.  1 1—  3.
-
-18.  Reuterskiold  [b],  p.  96.
-
-19.  Qvigstad  [a],  ii.  12—3.
-
-20.  Jessen,  pp.  50—1.
-
-21.  Leem,  p.  429.
-
-22.  Jessen,  p.  48.
-
-23.  Qvigstad  [a],  p.  i.  36.
-
-24.  Leem,  p.  500.
-
-25.  Lund,  Troels,  Dagligt  liv  i  Nor  den  i  det  16  :  de  Aarhundredey
-viii  (Copenhagen,  1903),  pp.  38-9.
-
-26.  Samfundet  for  Nord.  Museets  framjandey  (Stockholm,  1889),
-p.  38.
-
-27.  Fellman,  J.,  ii.  1 1 9 — 21.
-
-28.  Reuterskiold  [b],  p.  114.
-
-29.  According  to  Lehtisalo’s  Collections.
-
-30.  Krohn  [iii  e],  p.  77.
-
-31.  Krohn  [iii  g],  pp.  221,  232.
-
-32.  Boeder,  p.  43;  Eisen  [b],  pp.  200-1.
-
-33.  Ryckov,  p.  157.
-
-34.  Georgi  [b],  p.  58.
-
-35.  Holmberg  [vi  a],  p.  165,  and  [v  b],  pp.  60-2;  Znamenskiy,
-
-pp.  13-14.
-
-36.  Holmberg  [vi  a],  p.  171.
-
-37.  Znamenskiy,  p.  44.
-
-38.  Paasonen  [v  e],  pp.  1-6,  [v  d],  p.  844.
-
-39.  Znamenskiy,  pp.  43—4.
-
-40.  Karjalainen  [c],  pp.  38,  248-9.
-
-41.  Krohn,  J.,  [ii],  pp.  72-3;  Karjalainen  [c],  pp.  243-7.
-
-42.  ib.  p.  43.
-
-
-544
-
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-Chapter  XVII
-
-
-I.  Cf.  Yakovlev,  p.  31  ff;  Paasonen  [v  a];  Kuznecov  [a];
-Filonenko  [b].
-
-
-Chapter  XVIII
-
-
-1.  Qvigstad  [a],  ii.  83,  89-90,  92-3.
-
-2.  Schefferus,  p.  121;  Tornaeus,  p.  31;  Hogstrom,  p.  156.
-
-3.  Lundius,  p.  14.
-
-4.  Qvigstad  [a],  ii.  29.
-
-5.  ib.  ii.  30-3;  i.  43-5;  Reuterskiold  [b],  p.  2;  Lundius,  p.  7.
-
-6.  Jessen,  p.  60;  Fellman,  J.,  ii.  27;  Tun,  p.  196.
-
-7.  Jessen,  p.  55;  Lundius,  p.  6;  Reuterskiold  [b],  p.  90;  Niure-
-nius,  p.  22.
-
-8.  Leem,  pp.  415-6;  Jessen,  p.  26:  Reuterskiold  [b] ,  pp.  92,  67.
-
-9.  Lundius,  pp.  6-9.
-
-10.  Leem,  pp.  416-7.
-
-11.  Reuterskiold  [b],  pp.  90-1.
-
-12.  ib.  p.  65.
-
-13.  ib.  pp.  92-3;  cf.  Leem,  p.  416.
-
-14.  Jessen,  p.  26.
-
-15.  Leem,  pp.  416-7;  Jessen,  pp.  31-2;  Lundius,  p.  7.
-
-16.  Reuterskiold  [b],  p.  35.
-
-17.  Qvigstad  [a],  i.  52.
-
-18.  Hallstrom  [b].
-
-19.  Jessen,  p.  21;  Rheen,  pp.  18,  35;  Lundius,  pp.  22,  26;  Fell-
-man,  I.,  i.  396.
-
-20.  Friis  [c],  p.  23;  Qvigstad  [a],  i.  29.
-
-21.  ib.  ii.  43;  Fellman,  I.,  i.  396;  Rheen,  pp.  31-2,  34;  Graan,
-p.  60;  Tornaeus,  pp.  30-1.
-
-22.  Graan,  pp.  59-60.
-
-23.  Lundius,  pp.  6-7.
-
-24.  Leem,  pp.  475-8.
-
-25.  Jessen,  p.  31.
-
-26.  Qvigstad  [a],  ii.  43-7*
-
-27.  Munch,  pp.  4-5.
-
-28.  Karjalainen  [c],  pp.  546-601.
-
-29.  Hamalainen,  “  Epif.  Viis.  tied.,”  p.  45.
-
-30.  Akiander,  p.  21.
-
-
-SIBERIAN
-
-
-Chapter  I
-
-1.  According  to  author’s  Collections.
-
-2.  Tretyakov,  pp.  200,  217^8.
-
-3.  Potanin  [b],  ii.  160.
-
-4.  Troscanskiy,  pp.  67—8.
-
-5.  Georgi,  Bemerkungerty  i.  276.
-
-6.  Chudyakov,  pp.  112,  132.
-
-7.  “  Skaz.  bur.,”  p.  18.
-
-8.  Verbitskiy,  pp.  73-4;  Radloff  [a],  ii.  6.
-
-9.  Tretyakov,  p.  200.
-
-10.  Bogoras,  pp.  307,  330-1.
-
-11.  Verbitskiy,  p.  90.
-
-12.  “  Bur.  skazki,”  p.  138;  Saskov,  p.  30.
-
-13.  Afanasyev,  Poeticeskiya  vozzreniya  slavyan  na  frirodu  (Mos¬
-cow,  1868),  ii.  162.
-
-14.  “  Skaz.  bur.,”  p.  72;  Potanin  [b],  iv.  208,  221;  Spasskiy,
-p.  36.
-
-15.  Potanin  [b],  iv.  799.
-
-16.  Holmberg  [vi  a],  p.  179.
-
-17.  ib.  pp.  179-80.
-
-18.  Potanin  [b] ,  ii.  153-4.  .
-
-19.  ib.  iv.  799;  Holmberg  [v  b],  p.  49  n.
-
-20.  Potanin  [b],  iv.  799;  cf.  Middendorff,  iv.  2:  1602.
-
-21.  Potanin  [b],  iv.  709-10 ;  Munkasci,  KSz}  ix.  3,  293.
-
-22.  Kraseninnikov,  ii.  106.
-
-Chapter  II
-
-1.  Troscanskiy,  pp.  22—3.
-
-2.  Priklonskiy  [a],  iv.  66.
-
-3.  Serosevskiy,  p.  653.
-
-4^  Potanin  [b],  iv.  218-9.
-
-5.  “  Skaz.  bur.,”  pp.  69-71.
-
-6.  Veselovskiy  [b],  v.  54,  65;  Munkasci,  KSz  ix.  3,  212  fF.;
-Dahnhardt,  i.  66.
-
-7.  Veselovskiy  [a],  pp.  34-5.
-
-
-SIBERIAN  MYTHOLOGY
-
-
-546
-
-8.  Dahnhardt,  i.  3,  32,  44.
-
-9.  ib.  pp.  10-1 1.
-
-10.  Potanin  [b],  iv.  219.
-
-11.  Radloff  [c],i.  175  ff.
-
-12.  Veselovskiy  [b],  v.  68.
-
-13.  Munkasci,  KSzy  ix.  3.  212  ff.
-
-14.  “  Skaz.  bur.,”  p.  69.
-
-15.  Veselovskiy  [b],v.  13.
-
-16.  MiddendorfF,  iv.  2  p.  1602.
-
-17.  Dahnhardt,  i.  2.
-
-18.  Potanin  [b],  iv.  221-2.
-
-19.  ib.  p.  219;  Munkasci  KSz y  ix.  3.  219.
-
-20.  Antero  Vifuneny  (Helsingfors,  1908),  pp.  25-6.
-
-21.  Dahnhardt,  i.  44.
-
-22.  Radloff  [c],  i,  Introd.  p.  x.
-
-23.  Sumcov,  p.  5.
-
-24.  Radloff  [c],  i.  177.
-
-25.  Tretyakov,  pp.  201-2.
-
-26.  Veselovskiy  [b],  v.  67.
-
-27.  Dahnhardt,  i.  63—4.
-
-28.  Cf.  Anucin,  p.  14.
-
-29.  Saskov,  p.  30.
-
-30.  “  Skaz.  bur.,”  pp.  65-6.
-
-31.  Tretyakov,  p.  207.
-
-32.  “  Skaz.  bur.,”  pp.  66— J.
-
-33.  Bogayevskiy,  EO  [1990]  iv.  143.
-
-34.  See  The  Mythology  of  All  Racesy  x.  279,  and  reff.  there.
-
-35.  Dahnhardt,  i.  74  ff.
-
-36.  ib.  pp.  79,  77—8.
-
-37.  Potanin  [b],  iv.  220  ff.
-
-38.  ib.  p.  224.
-
-39.  ib.  ii.  166.
-
-40.  Dahnhardt,  i.  19  n.,  30.
-
-41.  ib.  p.  19  n.
-
-42.  Spasskiy,  pp.  33-4.
-
-43.  Dahnhardt,  i.  23.
-
-44.  Potanin  [b],  iv.  268.
-
-45.  Troscanskiy,  p.  43.
-
-46.  Munkasci,  KSzy  ix.  3.  209.
-
-47.  Kraseninnikov,  ii.  100.
-
-48.  Potanin  [b],  ii.  153.
-
-49.  Tretyakov,  p.  202;  Munkasci,  KSzy  ix.  3.  293.
-
-50.  Kraseninnikov,  ii.  10 1.
-
-
-NOTES
-
-
-547
-
-
-Chapter  III
-
-1.  Potanin  [b],iv.  137—8,  734-5;  Vambery  [a],  p.  154.
-
-2.  Chudyakov,  p.  127.
-
-3.  Karjalainen  [c],  pp.  162  ff.
-
-4.  Vasilyev  [a],  pp.  285-7.
-
-5.  Gorochov  [a],  p.  37;  “  Skaz.  bur.,”  p.  6.
-
-6.  Magnitskiy,  p.  63  n.
-
-7.  Karjalainen  [c],p.  303.
-
-8.  Changalov  [a],  p.  18.
-
-9.  Gorochov  [a],  p.  36.
-
-10.  Chudyakov,  pp.  135,  153.
-
-11.  Changalov  [a],  p.  40.
-
-12.  Katanov,  “  Skaz.  i  leg.,”  p.  223  n.  6.
-
-13.  Karjalainen  [c],  p.  164.
-
-14.  Chudyakov,  p.  202.
-
-15.  Karjalainen  [c],  pp.  162  ff.
-
-16.  ib.  p.  163.
-
-17.  Chudyakov,  p.  127.
-
-18.  Karjalainen  [c],  p.  165.
-
-19.  ib.  p.  295.
-
-20.  ib.  p.  164.
-
-21.  Radloff  [a],  ii.  20  ff;  Verbitskiy,  pp.  46,  63  ff.
-
-22.  Radloff  [c],  ii.  602.
-
-
-Chapter  IV
-
-1.  “  Skaz.  bur.,”  p.  1.
-
-2.  Verbitskiy,  p.  168.
-
-3.  Radloff  [a],  ii.  6.
-
-4.  Chudyakov,  p.  84.
-
-5.  Potanin  [b],  iv.  555.
-
-6.  Karjalainen  [c],  p.  332.
-
-7.  Landysev,  p.  7;  Verbitskiy,  p.  90.
-
-8.  Kotvic,  p.  217.
-
-9.  “  Skaz.  bur.,”  p.  140.
-
-10.  Radloff  [a],  ii.  6.
-
-11.  Krohn  [iii  e],  p.  106.
-
-12.  Griinwedel,  Altbuddhistische  Kultstatten ,  (Berlin,  1912),  fig.
-243,482,590,604.
-
-13.  Smidt,  “  Der  Tamamushischrein,”  OZ,  1914,  p.  420*
-
-14.  Potanin  [b],  iv.  555—6.
-
-15.  ib.  pp.  223-4.
-
-16.  ib.  p.  228.
-
-
-SIBERIAN  MYTHOLOGY
-
-
-17.  2itetskiy,  pp.  65  ff.
-
-18.  The  Mythology  of  All  Races ,  x.  286,  and  reff.  there.
-
-Chapter  V
-
-1.  Radloff  [a],  ii.  7.
-
-2.  Potanin  [b],  iv.  226.
-
-3.  Karjalainen  [c],  p.  305.
-
-4.  ib.  p.  305
-
-5.  Schiefner,  pp.  62  ff.
-
-6.  Ahlqvist,  A.,  V ersuch  einer  mokscha-mordwinischen  Gram -
-matik  (Petrograd,  1861),  p.  133.
-
-7.  Chudyakov,  pp.  112  ff.
-
-8.  “  Skaz.  bur.,”  p.  149.
-
-9.  Gorochov  [b],  pp.  43  ff.
-
-10.  Middendorff,  iii.  79  ff.
-
-11.  Potanin  [b],iv.  223—4.
-
-12.  Schott  [c],  p.  9;  Griinwedel,  Myth.y  p.  50.
-
-13.  See  The  Mythology  of  All  Races ,  xii.  36,  fig.  23.
-
-14.  2itetskiy,  p.  66.
-
-15.  Changalov  [a],  p.  42.
-
-16.  Potanin  [b],  iv.  188.
-
-17.  See  The  Mythology  of  All  Races ,  vi.  298—9.
-
-18.  Middendorff,  iii.  1.  87-8;  Gorochov  [a],  p.  43.
-
-19.  Middendorff,  iii.  1.  87.
-
-20.  ib.  p.  87.
-
-21.  2itetskiy,  p.  66.
-
-22.  Potanin  [b],  iv.  217.
-
-Chapter  VI
-
-1.  “Skaz.  bur.,”  pp.  71-2.
-
-2.  ib.  p.  79.
-
-3.  ib.  pp.  1 40- 1.
-
-4.  Munkasci,  KSz ,  ix.  3.  262  f.;  Patkanov,  i.  134  f.
-
-5.  Dahnhardt,  i.  258  ff.
-
-6.  ib.  p.  266.
-
-7.  Verbitskiy,  pp.  1 02-3.
-
-8.  ib.  pp.  76,  103  n.
-
-9.  Radloff  [a],ii.  6,  II.
-
-10.  Potanin  [b],  iv.  208.
-
-1 1.  ib.  p.  208.
-
-12.  Radloff  [c],  i.  183.
-
-13.  Munkasci,  KSzy  ix.  3.  268.
-
-14.  Anucin,  pp.  14-5.
-
-
-NOTES
-
-
-549
-
-
-15.  Tretyakov,  pp.  201-2.
-
-16.  Steller,  p.  273.
-
-17.  Pekarskiy,  p.  114.
-
-18.  Munkasci,  KSzy  ix.  3.  258  ff.
-
-19.  ib.  p.  260.
-
-20.  Andree,  R.,  Die  Flutsagen ,  (Braunschweig,  1891),  pp.  25-6.
-
-21.  Verbitskiy,  pp.  113-4.
-
-22.  “  Skaz.  bur.,”  p.  78.
-
-
-Chapter  VII
-
-1.  Spasskiy,  p.  34.
-
-2.  Dahnhardt,  i.  1 1 1—3;  bin  Gorion,  M.  J.,  Die  Sagen  der  Juden .
-Die  Urzeity  (Frankfurt  a.M.  1913),  p*  IOI.
-
-3.  Saskov,  p.  33;  Dahnhardt,  i.  III.
-
-4.  2itetskiy,  p.  67.
-
-5.  Grube,  W.,  Religion  und  Kultus  der  Chine  sen  (Leipzig,
-1910),  p.  IOI.
-
-6.  Dahnhardt,  p.  1 1 1  n.
-
-7.  “  Skaz.  bur.,”  p.  67.
-
-8.  Verbitskiy,  p.  91.
-
-9.  Karjalainen,  p.  19;  Munkasci,  KSz}  ix.  3.  227-8.
-
-10.  Anucin,  p.  9.
-
-11.  Radloff  [c],  i.  285.
-
-12.  Middendorff,  iv.  2.  1602.
-
-13.  Veselovskiy  [b],  v.  10.
-
-14.  ib.  p.  18.
-
-15.  “  Skaz.  bur.,”  pp.  67-8.
-
-16.  ib.  pp.  68-9.
-
-17.  ib.  pp.  69-70.
-
-18.  Munkasci,  KSz ,  ix.  3.  228  ff.
-
-19.  Veselovskiy  [b],  v.  12.
-
-20.  Potanin  [b],iv.  219-220.
-
-21.  ib.  pp.  222-3.
-
-22.  Verbitskiy,  pp.  91-2.
-
-23.  ib.  p.  93.
-
-Chapter  VIII
-
-1.  Radloff  [c],  Prob.,  i.  177  ff.
-
-2.  Middendorff,  iv.  2.  1602.
-
-3.  Munkasci,  KSzy  ix.  3.  231  ff;  Karjalainen  [c],  p.  19.
-
-4.  Veselovskiy  [b],  v.  12;  bin  Gorion,  p.  95.
-
-5.  Zitetskiy,  p.  68;  cf.  bin  Gorion,  p.  105.
-
-6.  2itetskiy,  p.  68.
-
-
-550
-
-
-SIBERIAN  MYTHOLOGY
-
-
-Chapter  IX
-
-1.  Anucin,  p.  1 7.
-
-2.  Donner  [a],  pp.  6—7.
-
-3.  ib.  p.  8  n.  1.
-
-4.  ib.  p.  12.
-
-5.  Verbitskiy,  p.  10 1.
-
-6.  Chudyakov,  pp.  107,  124.
-
-7.  Potanin  [b],  iv.  373  IT.
-
-8.  Simkevic,  pp.  128-30.
-
-9.  ib.  pp.  1 26-7.
-
-10.  The  Mythology  of  All  Races ,  x.  254,  291.
-
-Chapter  X
-
-1.  Banzarov,  p.  6.
-
-2.  Magnitskiy,  pp.  64,  85.
-
-3.  Radioff  [a],  ii.  6.
-
-4.  Banzarov,  p.  27.
-
-5.  Radioff  [a] ,  ii.  1 1.
-
-6.  Magnitskiy,  p.  64  n.  I.
-
-7.  Saskov,  p.  18.
-
-8.  ib.  pp.  8,  10;  Banzarov,  p.  10.
-
-9.  Saskov,  p.  io;  Banzarov,  p.  10.
-
-10.  Troscanskiy,  pp.  32—3.
-
-11.  Changalov  [a],  pp.  45—6;  Saskov,  pp.  24-5;  Agapitov-Chan-
-galov,  p.  23.
-
-12.  Priklonskiy  [a],  iii.  65.
-
-13.  Saskov,  p.  9,  Banzarov,  p.  9.
-
-14.  Nikolskiy,  pp.  71—2.
-
-15.  Anucin,  p.  9.
-
-16.  Serosevskiy,  p.  645;  Vasilyev  [a],  pp.  279—82.
-
-17.  Katanov,  p.  233.
-
-18.  Saskov,  p.  1 1 ;  Tretyakov,  p.  200 ;  Anucin,  p.  3;  Karjalainen
-[<=] »  P-  3°3-
-
-19.  Cf.  Bogoras,  p.  319.
-
-
-Chapter  XI
-
-1.  Radioff  [a],  ii.  6.
-
-2.  Pripuzov  [a],  p.  48.
-
-3.  Potanin  [b],  iv.  218;  Radioff  [a],  i.  361—2.
-
-4.  Verbitskiy,  p.  103  n.
-
-5.  Karjalainen  [c],  p.  276  n.
-
-6.  ib.  p.  331.
-
-
-NOTES
-
-7.  Radio#  [a],  i.  361-2;  cf.  Holmberg  [a],  pp.  121-126.
-
-8.  ib.  ii.  6.
-
-9.  Banzarov,  pp.  14,  28  f.
-
-10.  ib.  p.  14.
-
-1 1.  Magnitskiy,  pp.  48,  62,  93  etc.
-
-12.  Holmberg  [v  b],  fig.  25.
-
-13.  Serosevskiy,  p.  647,  fig.  16 1.
-
-14.  Karjalainen  [c],  p.  304.
-
-15.  Katanov,  p.  223  n.  6.
-
-16.  Karjalainen  [c],  p.  326.
-
-17.  ib.  pp.  325,  251  ff.
-
-18.  Nikolskiy,  pp.  71,  72-3.
-
-19.  Holmberg  [v  b],  p.  86.
-
-20.  See  The  Mythology  of  All  Racesy  xii.  fig.  16  and  51.
-
-21.  Verbitskiy,  p.  91.
-
-22.  Changalov  [a],  pp.  1  fir.
-
-23.  Verbitskiy,  pp.  90-1.
-
-24.  ib.  p.  100.
-
-Chapter  XII
-
-1.  Potanin  [b],  iv.  70,  825;  “  Skaz.  bur.,”  p.  98.
-
-2.  Magnitskiy,  p.  91,  cf.  p.  64.
-
-3.  Radio#  [a],  ii.  1 1.
-
-4.  Potanin  [b],  iv.  389.
-
-5.  Middendorf,  iii.  1.  87.
-
-6.  “  Bur.  skazki,”  p.  127.
-
-7.  Troscanskiy,  pp.  83  ff.
-
-8.  Chudyakov,  pp.  194-5,  cf.  p.  202.
-
-9.  ib.  pp.  197-8.
-
-10.  ib.  p.  194.
-
-11.  Karjalainen  [c],pp.  38,  249.
-
-12.  Pripuzov  [b],  pp.  59-60;  Priklonskiy  [a],  iii.  63  ff.
-
-Chapter  XIII
-
-1.  Potanin  [b],  iv.  712.
-
-2.  Reuterskiold  [b],  p.  72.
-
-3.  Pripuzov  [b],  p.  63.
-
-4.  ib.  p.  63.
-
-5.  Gorochov  [a],  p.  36.
-
-6.  ib.  p.  36.
-
-7.  Serosevskiy,  p.  667.
-
-8.  Potanin  [b] ,  iv.  191.
-
-9.  2itetskiy,  p.  68.
-
-
-55 1
-
-
-552
-
-
-SIBERIAN  MYTHOLOGY
-
-
-10.  Katanov,  p.  227  n.  4.
-
-11.  Karjalainen  [c],  p.416.
-
-12.  “  Skaz.  bur.,”  p.  15  I;  cf.  Potanin  [b],  iv.  179.
-
-13.  Ivanovskiy,  p.  263;  cf.  Potanin  [b],  iv.  179.
-
-14.  Agapitov-Changalov,  p.  22  n.
-
-15.  Magnitskiy,  p.  18.
-
-16.  Potanin  [b],  iv.  225—6.
-
-17.  Tretyakov,  p.  209.
-
-18.  Saskov,  p.  12.
-
-19.  Georgi  [a],  i.  275.
-
-20.  Anucin,  p.  15;  Karjalainen  [c],  p.  415.
-
-21.  Serosevskiy,  p.  667;  Pripuzov  [b],  p.  62;  cf.  Tretyakov,
-p.  209.
-
-22.  Potanin  [b],  iv.  191;  Saskov,  pp.  14—5;  “  Bur.  skazki,”
-p.  128;  Gorochov  [a],  p.  39.
-
-23.  Potanin  [b],  iv.  190-1.
-
-24.  Tretyakov,  p.  201.
-
-25.  Verbitskiy,  pp.  73-4;  Bergmann,  iii.  40,  204;  Potanin  [b],
-iv.  270.
-
-26.  Serosevskiy,  p.  668.
-
-27.  “  Bur.  skazki,”  pp.  127—8.
-
-28.  Potanin  [b],  iv.  19 1-3.
-
-29.  ib.  pp.  209—10.
-
-30.  Afanasyev,  A.,  Poeticeskiya  vosczreniya  slavyan  na  frirodu
-(Moscow,  1865),  i.  609;  Vambery  [a],  p.  154.
-
-31.  Afanasyev,  of.  cit.y  i.  762.
-
-32.  Potanin  [b],  iv.  736.
-
-33.  Afanasyev,  of.  cit.y  i.  763.
-
-34.  Tretyakov,  p.  20 1.
-
-35.  Anucin,  p.  15.
-
-36.  Serosevskiy,  p.  660.
-
-37.  Cf.  The  Mythology  of  All  Races y  x.  278.
-
-38.  “  Bur.  skazki,”  pp.  126—7.
-
-39.  Banzarov,  p.  14;  cf.  Agapitov-Changalov,  p.  18.
-
-40.  Potanin  [b],  ii.  125;  iv.  193.
-
-41.  ib.  iv.  194.
-
-42.  ib.  p.  200.
-
-43.  Afanasyev,  of.  cit.y  i.  763.
-
-44.  Potanin  [b],  iv.  200-3.
-
-45.  “  Bur.  skazki,”  p.  126.
-
-46.  Potanin  [b],  iv.  204.
-
-47.  ib.  iv.  204  ff.
-
-48.  ib.  ii.  124.
-
-49.  ib.  iv.  206.
-
-
-NOTES
-
-
-553
-
-
-50.  ib.  ii.  124.
-
-51.  Anucin,  p.  16.
-
-52.  Potanin  [b],  iv.  203.
-
-53.  ib.  pp.  203-4.
-
-54.  ib.  ii.  125.
-
-55.  ib.  iv.  194.
-
-56.  “  Bur.  skazki,”  pp.  125-6.
-
-57.  Georgi  [a],  i.  321.
-
-58.  “  Bur.  skazki,”  p.  126.
-
-59.  “  Skaz.  bur.,”  pp.  122-3.
-
-60.  Anucin,  pp.  15—6.
-
-61.  Changalov  [a],  p.  7.
-
-62.  Serosevskiy,  p.  668.
-
-63.  Potanin  [b] ,  ii.  124-5.
-
-64.  Vambery  [a],pp.  55—6;  Potanin  [b],  iv.  740—1.
-
-65.  Serosevskiy,  p.  667;  Agapitov-Changalov,  p.  18;  Tretyakov,
-.  201.
-
-66.  Bogoras,  p.  309;  Jochelson  [b],  p.  123.
-
-67.  Dahnhardt,  iii.  1.  13.
-
-68.  Vambery  [a] ,  p.  156.
-
-69.  Serosevskiy,  p.  667.
-
-70.  Pripuzov  [b],  p.  62.
-
-71.  Munkasci,  KSxy  ix.  3.  251.
-
-72.  ib.  p.  253  f.
-
-73.  Potanin  [b],  iv.  143,  ii.  83.
-
-74.  Olsen,  p.  47.
-
-75.  Potanin  [b],  iv.  143-4.
-
-Chapter  XIV
-
-1.  According  to  author’s  Collections.
-
-2.  Bogoras,  p.  322;  Tretyakov,  p.  201.
-
-3.  According  to  T.  Lehtisalo.
-
-4.  Troscanskiy,  p.  26.
-
-5.  Karjalainen  [c],  p.  327.
-
-6.  Banzarov,  p.  15;  Potanin  [b],  iv.  138-42.
-
-7.  Potanin  [b],  iv.  141.
-
-8.  “  Skaz.  bur.,”  p.  76;  Potanin  [b],  iv.  139,  141— 2.
-
-9.  Simkevic,  p.  127.
-
-10.  Karjalainen  [c],  p.  327
-
-11.  Agapitov-Changalov,  p.  7.
-
-12.  “  Bur.  skazki,”  p.  129.
-
-13.  Agapitov-Changalov,  p.  6.
-
-14.  Changalov  [a],  p.  7.
-
-
-554
-
-
-SIBERIAN  MYTHOLOGY
-
-
-15.  Pripuzov  [b],  pp.  61-2;  Troscanskiy,  p.  48.
-
-16.  Simkevic,  p.  128.
-
-17.  Potanin  [b],  iv.  207.
-
-18.  Karjalainen  [c],  p.  327.
-
-19.  Anucin,  p.  16;  Potanin  [b],  iv.  742.
-
-20.  Holzmayer,  p.  50.
-
-21.  Gorochov  [a],  p.  39.
-
-22.  Pripuzov  [b],  p.  62.
-
-23.  Potanin  [b],ii.  172.
-
-24.  ib.  iv.  139.
-
-25.  Afanasyev,  Poeticeskiya  vox’z.reniya  slavyan  na  frirodu  (Mos¬
-cow,  1868),  ii.  5  1 1.
-
-26.  Troscanskiy,  p.  165;  Serosevskiy,  p.  655;  Banzarov,  p.  15;
-Saskov,  p.  94;  Potanin  [b],  ii.  91—2.
-
-27.  “Bur.  skazki,”  p.  130;  Zatoplyayev,  pp.  7-8;  Changalov  [a],
-
-p.  7*
-
-28.  Changalov,  pp.  3-5.
-
-29.  Chudyakov,  p.  213.
-
-30.  Saskov,  p.  27;  Radloff  [a],  ii.  7.
-
-31.  Agapitov-Changalov,  p.  8.
-
-Chapter  XV
-
-
-1.  Chudyakov,  p.  135.
-
-2.  Serosevskiy,  p.  655,  cf.  Potanin  [b],  iv.  332*
-
-3.  Changalov  [a],  p.  8.
-
-4.  Verbitskiy,  p.  97.
-
-5.  Agapitov-Changalov,  p.  5.
-
-6.  Anucin,  p.  16.
-
-7.  “  Bur.  skazki,”  pp.  130-1.
-
-8.  Potanin  [b],  iv.  220,  cf.  p.  33 1.
-
-9.  ib.  p.  262.
-
-10.  Saskov,  p.  37;  Troscanskiy,  p.  43.
-
-11.  Troscanskiy,  p.  51.
-
-12.  Magnitskiy,  pp.  136—7.
-
-13.  Saskov,  pp.  36—8;  Banzarov,  pp.  22,  24.
-
-14.  Serosevskiy,  p.  665;  Pripuzov  [b],  p.  61 ;  Olsen,  p.  14 1;
-Banzarov,  pp.  23-4;  Chudyakov,  p.  135.
-
-15.  Troscanskiy,  pp.  52,  178;  Serosevskiy,  p.  665;  Nikolskiy,
-pp.  73-4;  Agapitov-Changalov,  p.  6.
-
-16.  Magnitskiy,  p.  203.
-
-17.  Banzarov,  p.  23;  cf.  Saskov,  p.  37.
-
-18.  Banzarov,  p.  25.
-
-19.  Radloff  [a],  ii.  29.
-
-
-NOTES
-
-
-555
-
-
-20.  Chudyakov,  p.  135;  Agapitov-Changalov,  pp.  4,  29.
-
-21.  Troscanskiy,  p.  28.
-
-22.  Gorochov  [b],  p.  44.
-
-23-  Pripuzov  [b],  p.  61.
-
-24.  Agapitov-Changalov,  pp.  5-6.
-
-25.  Karjalainen,  [c],  p.  422.
-
-26.  Pripuzov  [b],  p.  61 ;  Priklonskiy  [a],  iv.  6 1.
-
-27.  Agapitov-Changalov,  p.  30.
-
-28.  ib.  pp.  29—30.
-
-29.  Banzarov,  pp.  22-3.
-
-Chapter  XVI
-
-1.  Chudyakov,  p.  213;  cf.  pp.  113,  198-9.
-
-2.  Serosevskiy,  p.  667.
-
-3.  Troscanskiy,  p.  4.
-
-4.  Simkevic,  p.  57.
-
-5.  According  to  Prof.  G.  J.  Ramstedt.
-
-6.  Krohn  [iii  e],  p.  138.
-
-7.  Ivanovskiy,  p.  263.
-
-8.  Changalov  [a],  p.  6.
-
-9.  Serosevskiy,  pp.  668-9;  Pripuzov  [b],  p.  62;  Potanin  [b],
-•  189-90, 773-4.
-
-
-Chapter  XVII
-
-
-1.  Olsen,  p.  143.
-
-2.  Potanin  [b],  ii.  98.
-
-3.  According  to  Prof.  Ramstedt.
-
-4.  Troscanskiy,  p.  47;  Pripuzov  [b],  p.  62.
-
-5.  Georgi  [a],  i.  276.
-
-6.  Banzarov,  p.  8.
-
-7.  ib.  p.  16.
-
-8.  Thomsen,  pp.  20,  152,  167.
-
-9.  Changalov  [a],  p.  44;  Saskov,  p.  20.
-
-10.  Troscanskiy,  p.  29.
-
-11.  Magnitskiy,  pp.  29,  48,  62  etc.
-
-12.  Changalov  [a],  p.  44.
-
-13.  Magnitskiy,  pp.  40—3.
-
-14.  Thomsen,  pp.  144,  150.
-
-15.  Radloff  [c],  i.  139.
-
-16.  Magnitskiy,  pp.  30,  48,  88.
-
-17.  Kannisto  [b].
-
-18.  Vambery  [b],  p.  36.
-
-
-556
-
-
-SIBERIAN  MYTHOLOGY
-
-
-Chapter  XVIII
-
-1.  Verbitskiy,  p.  78.
-
-2.  Castren,  Nord.  Reisen ,  iii.  160.
-
-3.  Serosevskiy,  pp.  651,  667;  Troscanskiy,  pp.  27  f.,  47,  53;
-Gorochov  [a],  p.  39;  V-skiy,  p.  36.
-
-4.  Troscanskiy,  p.  53.
-
-5.  Pripuzov  [b],  p.  62.
-
-6.  Changalov  [a],  pp.  38,  145.
-
-7.  “  Skaz.  bur.,”  p.  85.
-
-8.  ib.  pp.  83-4.
-
-9.  Jochelson  [b],  p.  1 1 9 ;  Bogoras,  pp.  285-6.
-
-10.  Middendorff,  iii.  1.  36.
-
-11.  “  Skaz.  bur.,”  p.  84;  cf.  Saskov,  p.  56.
-
-12.  Banzarov,  pp.  21-2.
-
-13.  “Skaz.  burjat.,”  p.  84.
-
-14.  Pripuzov  [b],  p.  63;  V-skiy,  pp.  38,  40.
-
-15.  Troscanskiy,  p.  53;  Pripuzov,  p.  63.
-
-16.  Serosevskiy,  pp.  669—70.
-
-17.  Koblov,  pp.  3,  11  fF;  Maksimov,  pp.  580-1,  607-9.
-
-18.  Magnitskiy,  pp.  112,  247.
-
-19.  Gorochov  [a],  p.  39.
-
-20.  Koblov,  pp.  18  ff. ;  Maksimov,  p.  615.
-
-21.  Poyarkov,  pp.  41—3.
-
-22.  Banzarov,  p.  30.
-
-23.  Stadling,  p.  18;  Pekarskiy-Cvetkov,  p.  1 1 3 ;  Jochelson  [a],
-pp.  120,  122-4;  Maak  [b],  p.  no;  Middendorf,  iv.  2.  1610;
-Pripuzov  [b],  p.  62;  Serosevskiy,  p.  658.
-
-24.  Troscanskiy,  p.  178.
-
-25.  According  to  author’s  Collections.
-
-26.  Serosevskiy,  pp.  670  f.
-
-27.  Gorochov  [a],  p.  39;  Potanin  [b],  ii.  98,  iv.  186.
-
-28.  Troscanskiy,  p.  178;  Jochelson  [a],  pp.  120—2,  124.
-
-29.  Troscanskiy,  p.  54,  cf.  Middendorf,  iv.  2.  1568-9.
-
-30.  Banzarov,  pp.  18-20;  Hilden,  p.  129;  Verbitskiy,  pp.  43-7.
-
-31.  Troscanskiy,  p.  54.
-
-
-Chapter  XIX
-
-1.  Serosevskiy,  p.  666;  Troscanskiy,  p.  75.
-
-2.  Anucin,  p.  10 ;  Podgorbunskiy,  p.  18.
-
-3.  Changalov  [b],  pp.  23—4.
-
-4.  Agapitov-Changalov,  p.  58;  Podgorbunskiy,  pp.  19-20.
-
-5.  Pripuzov  [b],  p.  64;  Agapitov-Changalov,  p.  58.
-
-
-NOTES
-
-
-55  7
-
-
-6.  Agapitov-Changalov,  p.  59.
-
-7.  Changalov  [a],  pp.  135-7.
-
-8.  ib.  p.  137.
-
-9.  Podgorbunskiy,  p.  20.
-
-10.  Anucin,  p.  1 1.
-
-11.  Podgorbunskiy,  p.  20.
-
-12.  “  Perv.  bur.  sam.,”  pp.  87  ff;  “  Perv.  sam.,”  pp.  89-90.
-
-13.  Potanin  [b],  iv.  134;  cf.  Podgorbunskiy,  p.  19.
-
-14.  Troscanskiy,  p.  2.
-
-15.  Pripuzov  [b],  p.  64.
-
-16.  Simkevic,  p.  36;  Banzarov,  pp.  30—  I ;  Potanin  [b],  iv.  699.
-
-17.  Serosevskiy,  p.  623;  Vasilyev  [b],  pp.  34—5;  Pripuzov  [b],
-p.  64;  Zatoplyayev,  p.  3;  Batarov,  pp.  10  ff.
-
-18.  Anucin,  p.  13.
-
-19.  Troscanskiy,  p.  85;  Batarov,  pp.  io  ff;  Castren,  Nord .  Reisen ,
-
-iii.  230;  Potanin  [b],  iv.  63.
-
-20.  Banzarov,  p.  32.
-
-21.  Agapitov-Changalov,  p.  61.
-
-2  2.  ib.  p.  61.
-
-23.  Strahlenberg,  p.  377.
-
-24.  Saskov,  pp.  58  ff;  Anucin,  p.  12;  Serosevskiy,  p.  619;  Prik-
-lonskiy  [a],  pp.  76  ff;  Troscanskiy,  pp.  88-92;  Potanin  [b],  ii.  88,
-
-iv.  36-8;  Pripuzov  [b],  p.  65;  cf.  Verbitskiy,  p.  86.
-
-25.  Georgi  [a] ,  i.  266.
-
-26.  Anucin,  pp.  1 1—2.
-
-27.  Saskov,  p.  59;  Stadling,  pp.  28  ff.;  Podgorbunskiy,  p.  27.
-
-28.  Anucin,  p.  12.
-
-29.  Batarov,  p.  13.
-
-Chapter  XX
-
-1.  Troscanskiy,  p.  3.
-
-2.  Potanin  [b],  iv.  133-4*
-
-3.  Agapitov-Changalov,  p.  60.
-
-4.  Simkevic,  pp.  15  ff.
-
-5.  Troscanskiy,  pp.  2—3,  63.
-
-6.  Pripuzov  [b],  p.  64.
-
-7.  Troscanskiy,  pp.  62—3,  68-9.
-
-8.  Anucin,  p.  12.
-
-9.  Radloff  [a],  ii.  3.
-
-10.  Hilden,  pp.  127—8.
-
-11.  Karjalainen  [c],p.  313.
-
-12.  Bogoras,  pp.  307,  331.
-
-13.  Vasilyev  [a],  p.  286.
-
-
-SIBERIAN  MYTHOLOGY
-
-
-558
-
-14.  Tretyakov,  p.  200.
-
-15.  Podgorbunskiy,  p.  27.
-
-16.  Stadling,  p.  25.
-
-17.  Bogoras,  p.  334.
-
-18.  Podgorbunskiy,  pp.  23  ff.
-
-19.  Castren,  iii.  148  ff.;  Saskov,  pp.  68—73;  Potanin  [b],  iv.
-287-8.
-
-20.  Spasskiy,  p.  35.
-
-21.  Simkevic,  pp.  62—3.
-
-Chapter  XXI
-
-
-1.  Stadling,  pp.  56-7.
-
-2.  Tretyakov,  p.  21 1.
-
-3.  Stadling,  p.  63;  Serosevskiy,  pp.  625  ff.
-
-4.  Troscanskiy,  pp.  76,  78,  119-20.
-
-5.  Agapitov-Changalov,  p.  45.
-
-6.  Troscanskiy,  pp.  66,  76.
-
-7.  Changalov  [a],  pp.  83  ff;  Agapitov-Changalov,  pp.  27  ff.
-
-8.  Changalov  [b],  p.  21 ;  Potanin  [b],  iv.  57  n.;  Batarov,  p.  10;
-Zatoplyayev,  p.  9.
-
-9.  Georgi  [a],  i.  314;  Agapitov-Changalov,  pp.  32-3;  Potanin
-[b],  iv.  93  ff;  Changalov  [a],  pp.  74-6,  cf.  p.  90.
-
-10.  “  Skaz.  bur.,”  pp.  80-1 ;  Changalov  [c],  pp.  15-6.
-
-11.  Serosevskiy,  pp.  656—8;  Troscanskiy,  p.  56.
-
-12.  “Skaz.  bur.,”  pp.  1 1 4 — 7 ,  125—6;  cf.  p.  81.
-
-13.  Potanin  [b],ii.  161.
-
-14.  ib.,  pp.  1 6 1-2.
-
-15.  ib.,  pp.  164-5.
-
-16.  “Skaz.  bur.,”  pp.  94  ff.;  Potanin  [b],  iv.  264  ff.;  O  frois -
-choZ,deniiy  pp.  187  ff.
-
-17.  “  Skaz.  bur.,”  pp.  97—8.
-
-18.  Strahlenberg,  p.  378.
-
-19.  Scukin,  p.  276.
-
-20.  Saskov,  p.  43.
-
-21.  Anucin,  p.  10.
-
-22.  Potanin  [b],ii.  15  I;  iv.  168,  183;  “Skaz.  bur.,”  pp.  80,  82;
-Changalov  [b],  p.  19;  “Bur.  skazki.,”  p.  119,  cf.  Pripuzov  [a],
-p.  50.
-
-23.  “Skaz.  bur.,”  pp.  123-4.
-
-24.  Agapitov-Changalov,  pp.  41-2.
-
-25.  “O  proischozdenii,”  p.  188;  cf.  Saskov,  pp.  42—3.
-
-26.  Tretyakov,  p.  212.
-
-27.  Serosevskiy,  p.  626,  Troscanskiy,  p.  138.
-
-
-NOTES
-
-
-559
-
-
-28.  Vasilyev  [a],  p.  277.
-
-29.  Simkevic,  p.  18.
-
-30.  Zatoplyayev,  p.  9.
-
-31.  Changalov  [a],  p.  95.
-
-32.  Simkevic,  pp.  15,  17.
-
-33.  Vasilyev  [a],  pp.  271  fF. ;  Priklonskiy  [a],  iv.  88-9;  Tro-
-scanskiy,  p.  14 1.
-
-34.  Potanin  [b],  iv.  54.
-
-35.  Agapitov-Changalov,  pp.  44  fF.
-
-36.  Priklonskiy  [a],  iv.  54;  cf.  Troscanskiy,  fig.  1—3;  Vasilyev
-[b],  pp.  1  fir. ;  Pekarskiy,  Plasc ,  pp.  93
-
-37.  Potanin  [b],  iv.  53;  cf.  Lankenau,  p.  279.
-
-38.  Cf.  Holmberg  [b],  pp.  12— 20;  Anucin,  pp.  44  fir.
-
-39.  Schrenk,  i.  408;  cf.  Kulikovskiy,  “O  kulte  medvedya,”  EO ,
-1890,  no.  I,  p.  1 10.
-
-40.  Tretyakov,  p.  214;  Mordvinov,  p.  64;  cf.  Sirokogorov,  p.  33,
-n.  2.
-
-41.  Simkevic,  p.  63.
-
-42.  Klemenc,  pp.  25  fF.
-
-43.  “  Perv.  bur.  sam.,”  p.  88  n.;  Agapitov-Changalov,  pp.  42—3.
-
-44.  Anucin,  pp.  60  ff.
-
-45.  Tretyakov,  p.  214;  Pekarskiy,  “  Plasc,”  p.  112.
-
-46.  Anucin,  pp.  7—8.
-
-
-■  ■}  '
-
-
-'
-
-N
-
-
-*
-
-
-BIBLIOGRAPHY
-
-
--
-
-
-FINNO-UGRIC
-
-
-I.  ABBREVIATIONS
-
-
-ASSF  .
-AASF
-A  TPS
-DNR  .
-EMU  .
-EO  .
-ERE  .
-ES  .  .
-FFC  .
-FUF  .
-GI  .  .
-IAOIRS
-
-IKE  .  .
-IO  .  .  .
-IOAIE  .
-
-IOLEAE
-
-
-IOORGO  .
-
-IRGO  .  .
-JSFO  .  .  .
-KGV  .  .  .
-KSz  .  .  .
-KV  ...  .
-MO  .  .  .
-MSFO  .  .
-NGV  .  .  .
-NS  ...  .
-PEV  .  .  .
-PS  ...  .
-RV  ...  .
-S  ...  .
-SEV  .  .  .
-
-
-Acta  Societatis  Scientiarum  Fennicae.
-
-Annales  Academiae  Scientiarum  Fennicae.
-
-Archives  des  Traditions  Populaires  Suedoises.
-Drevnaya  i  Novaya  Rossia.
-
-Ethnologische  Mitteilungen  aus  Ungarn.
-Etnograficeskoe  Obozrenie.
-
-Encyclopaedia  of  Religion  and  Ethics.
-Etnograficeskiy  Sbornik.
-
-Folklore  Fellow  Communications.
-Finnisch-Ugrische  Forschungen.
-
-Geograficeskiya  Izvestiya.
-
-Izvestiya  Archangelskago  Obscestva  Izucenie  Rus-
-skago  Severa.
-
-Izvestiya  no  Kazanskoy  Eparchii.
-
-Inorodceskoe  Obozrenie.
-
-Izvestiya  Obscestva  Archeologii,  Istorii  i  Etnograiii
-pri  Kazanskom  Universitete.
-
-Izvestiya  Obscestva  Lyubiteley  Estestvoznaniya,
-Antropologii  i  Etnografii  pri  Moskovskom  Uni¬
-versitete.
-
-Izvestiya  Orenburskago  Otdela  Russkago  Geogra-
-ficeskago  Obscestva.
-
-Izvestiya  Russkago  Geograficeskago  Obscestva.
-Journal  de  la  Societe  Finno-Ougrienne.
-
-Kazanskiya  Gubernskiya  Vedomosti.
-
-Keleti  Szemle.
-
-Kalevalaseuran  Vuosikirja.
-
-Le  Monde  Oriental.
-
-Memoires  de  la  Societe  Finno-Ougrienne.
-Nizegorodskiya  Gubernskiya  Vedomosti.
-
-Novoe  Slovo.
-
-Penzenskiya  Eparchialnyja  Vedomosti.
-
-Pravoslavnyj  Sobesenik.
-
-Russkiy  Vestnik.
-
-Suomi.
-
-Samarskiya  Eparchialnyja  Vedomosti.
-
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-564
-
-
-Schriften  der  Gelehrten  Estnischen  Gesellschaft.
-Simbirskiya  Gubernskiya  Vedomosti.
-
-Suomen  Museo.
-
-Suomen  Muinaismuistoyhdistyksen  Aikakauskirja.
-Suomen  Suvun  Uskonnot.
-
-Tambovskiya  Eparchialnyja  Vedomosti.
-
-Tomskiya  Eparchialnyja  Vedomosti.  o
-Trudy  Obscestva  Estestvoispytaleley  pri  Kazanskom
-Universitete.
-
-Vestnik  Europy.
-
-Vyatskiya  Eparchialnyja  Vedomosti.
-
-Verhandlungen  der  Gelehrten  Ehstnischen  Gesell¬
-schaft.
-
-Vologodskiya  Guberskiya  Vedomosti.
-
-Virittaja.
-
-Vestnik  Orenburskago  Ucebnago  Okruga.
-
-Vestnik  Russkago  Imperatorskago  Geograficeskago
-Obscestva.
-
-Zapiski  Akademii  Nauk.
-
-Zapiski  Russkago  Geograficeskago  Obscestva.
-Zurnal  Ministerstva  vnutrennich  del.
-
-Zivaya  Starina.
-
-Zapiski  Zevero-Sibirskago  Otdela  Russkago  Geo¬
-graficeskago  Obscestva.
-
-II.  GENERAL  SOURCES  AND  TREATISES
-
-Abercromby,  J.,  The  Pre-  and  Protohistoric  Finns  both  Eastern  and
-Western  with  the  Magic  Songs  of  the  West  Finns .  London,
-1898.
-
-Ahlqvist,  A.,  Muistelmia  matkoilta  V  end  j  alia  vuosina  1854—1858.
-Helsingfors,  1859.
-
-Akiander,  M.,  “  Utdrag  ur  ryska  annaler,”  in  S.y  1848.  Helsingfors.
-Aspelin,  J.  R.,  Suomalais-ugrilaisen  muinaistutkinnon  alkeita.  Hel¬
-singfors,  1875.
-
-Castren,  M.  A.,  Nordische  Reisen  und  Forschungeny  5  vols.  Petro-
-grad,  1853-1862.
-
-Erdmann,  J.  F.,  Beitrage  scur  Kenntmss  des  Innern  von  Rusdand .
-2  vols.  Riga,  1822—26.
-
-Erman,  G.  A.,  Reise  um  die  Erde  durch  Nord-Asien  und  die  beiden
-Oceane  in  den  J ahren  i828y  1829  und  i8goy  I.  Historischer
-Bericht.  3  vols.  Berlin,  1833.
-
-Georgi,  J.  G.,  [a]  Bemerkungen  auf  einer  Reise  im  Russischen
-Reiche  in  den  J ahren  1773  und  1774.  2  vols.  Petrograd,  1775.
-
-
-SGEG  .  .
-SGV  .  .  .
-SM  .  .  .
-SMA  .  .  .
-SSU  ....
-TEV  .  .  .
-TOEA  .  .
-TOEKU  .
-
-VE  ...  .
-VEV  .  .  .
-VGEG  .  .
-
-VGV  .  .  .
-Vir  ....
-
-vouo  .  .
-
-VRGO  .  .
-
-ZAN  .  .  .
-ZRGO  .  .
-2MVD  .  .
-1ST  .  .  .
-ZZ -SORGO
-
-
-BIBLIOGRAPHY  565
-
--  [b]  Beschreibung  alter  Nationen  des  Russischen  Reichs.
-
-Petrograd,  1776.
-
-Gmelin,  J.  G.,  Reise  durch  Sibirien  von  dem  Jahr  1733  bis  1743'.
-4  vols.  Gottingen,  1751—2.
-
-Guagnino,  A .,  Sarmatiae  Europeae  descriptio.  Spirae,  1581.  (Editio
-princeps.  Cracow,  1578.)
-
-Herberstein,  S.  von,  Moscowiter  wunderbare  Historien.  Basel,
-
-1567-
-
-Holmberg,  Uno,  [a]  Gudstrons  uppkomst.  Uppsala,  1917.
-
--  [b]  “  Die  Wassergottheiten  der  finnisch-ugrischen  Volker,”
-
-in  MSFO  xxxii,  Helsingfors,  1913.
-
-- [c]  “  Suomalais-ugrilaisten  kansain  pakanallinen  uskonto,”  in
-
-Tietosanakirjay  ix.  Helsingfors,  1917.
-
-- [d]  “  Der  Baum  des  Lebens,”  A  ASF  xvi.  Helsingfors,
-
-1922-23.
-
-Krohn,  Julius,  Suomen  suvun  pakanallinen  jumalanpalvelus.  Hel¬
-singfors,  1894.  (The  Hungarian  translation,  with  further
-additions  by  A.  Ban,  appeared  in  Budapest,  1908).
-
-Lepechin,  I.,  Tagebuch  ilber  seine  Reise  durch  verschiedene  Pro-
-vinzen  des  Russischen  Reichs  in  den  Jahren  1768  und  1769 .
-3  vols.  Translated  into  Germ,  by  C.  H.  Hase.  Altenburg,
-i774~83-
-
-Muller,  G.  F.,  Sammlung  Russischer  Geschichte.  5  vols.  Petro¬
-grad,  1732-60.
-
-Olearius,  A.,  Ausfuhrliche  Beschreibung  der  kundbaren  Reyse  nach
-Muscow  und  Persien.  Schleswig,  1646.
-
-Paasonen,  H.,  “  Uber  die  urspriinglichen  seelenvorstellungen  bei  den
-finnisch-ugrischen  volkern  und  die  benennungen  der  seele  in
-ihren  sprachen,”  in  JSFOy  xxvi.  4.  Helsingfors,  1909.
-
-Pallas,  P.  S.,  Reise  durch  verschiedene  Provinzen  des  Russischen
-Reichs.  3  vols.  Petrograd,  1771—6.
-
-Ryckov,  N.,  Eurnal  Hi  dnevnyja  zapiski  putestviya  po  raznym  pro-
-vinciyam  Rossiyskago  gosudarstva  1769  1  I770'  Petrograd,  177°*
-(Translated  into  German  by  C.  H.  Hase,  Riga,  1774.)
-
-Setala,  E.  N.,  [a]  “  Studien  aus  dem  gebiet  der  lehnbeziehungen,”
-off-print  of  FUF  xii.  Helsingfors,  1912.
-
-- [b]  “  Zur  frage  nach  der  verwandtschaft  der  finnisch-
-
-ugrischen  und  samojedischen  sprachen, ”  off-print  of  JFSO  xxx.
-Helsingfors,  1915.
-
-Strahlenberg,  Ph.  J.  von,  Das  Nord -  und  ostliche  Theil  von
-Europa  und  Asia.  Stockholm,  I73°*
-
-Varonen,  M.,  V ai najai npalvelus  muinaisilla  suomalaisilla.  Hel¬
-singfors,  1898.
-
-Witsen,  N.,  Noord  en  Oost  Tartarye .  2  vols.  Amsterdam,  1705.
-
-
-566
-
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-III.  BALTIC  FINNS
-
-Aspelin,  J.  R.,  “  Kalevalan  sankarikuvaston  aiheita,”  in  SM  xxiii.
-Helsingfors,  1916.
-
-Blomstedt,  Y.,  “  Venajan  Karjalan  kalmistoista  ja  hautapylvaista,”
-in  SM  ii.  Helsingfors,  1895.
-
-BoECLER,  J.  W.,  Der  Ehsten  aber  glaubische  Gebrduche ,  Weisen  und
-Gewohnheiten.  Mit  auf  die  gegenwart  bezuglichen  Anmer-
-kungen  beleuchtet  von  Fr.  R.  Kreutzwald.  Petrograd,  1854.
-(Editio  princeps,  1685).
-
-Boubrig,  J.  S.,  [a]  “  Volkssagen  und  Traditionen  aus  dem  eigent-
-lichen  Estlande,  besonders  aus  Harrien  und  der  Wieck,”  in
-VGEG,  ii.  3.  Dorpat,  1850.
-
-- [b]  “  Zur  nahern  Kenntniss  der  Volkssagen  und  des  Aber-
-
-glaubens*  der  Ehsten  aus  dem  Kirchspiele  Odenpa,”  in  VGEG,
-i.  2.  Dorpat,  1843.
-
-Brummer,  O.  J.,  “  Uber  die  Bannungsorte  der  finnischen  Zauber-
-lieder.”  Helsingfors.  (MSFO  xxviii.  1909.)
-
-Buch,  M.,  “  Ueber  den  Tonnis-cultus  und  andere  Opfer-gebrauche
-der  Esthen,”  in  JSFO  xv.  Helsingfors,  1897.
-
-Castren,  E.,  Beskrifning  ofver  Cajaneborgs  Ian.  Abo,  1754.
-
-Comparetti,  D.,  Der  Kalewala  oder  die  traditionelle  Poesie  der
-Finnen.  Halle,  1892.
-
-Eisen,  M.  I.,  [a]  Eesti  muistsed  jumalad  ja  wagimehed.  Dorpat,
-
-- [b]  Eesti  mutoloogia.  Reval,  1920.
-
--  [c]  Esivanemate  ohverdamised.  Dorpat,  1920.
-
--  [d]  “  Haldijad,”  in  Eesti  Ulioflaste  Seltsi  Album ,  in.
-
-Dorpat,  1895.
-
--  [e]  Kodukaijat.  Reval,  1897.
-
-- [f]  Krati  raamat.  Dorpat,  1895.
-
--  [g]  Ndki  raamat.  Reval,  1897.
-
--  [h]  “  Uber  den  Pekokultus  bei  den  Setukesen,,>  in  FUF  vi.
-
-Helsingfors,  1906.
-
-Fahlmann,  Dr.,  “  Wie  war  der  heidnische  Glaube  der  alten  Ehsten
-beschaffen?  ”  in  VGEG  ii.  2.  Dorpat,  1852.
-
-Forstrom,  O.  A.,  “  Kuvaelmia  Ita-Karjalasta,,,  in  Valvoja ,  1886.
-Helsingfors.
-
-Ganander,  Chr.,  Mythologia  fennica.  Abo,  1822.
-
-Groundstroem,  O.,  u  Berattelse  ofver  en  under  sommaren  1861
-gjord  runosamlingsvandring  inom  en  del  af  Ingermanland,”  in
-5  ii.  Helsingfors,  1866.
-
-Gutslaff,  J.,  Kurtzer  Bericht  und  Vnterricht  von  der  Falsch-heilig
-genandten  Bache  in  Lieffland  Wohhanda.  Dorpat,  1644.
-
-
-BIBLIOGRAPHY
-
-
-567
-
-Hayha,  J.,  Kuvaelmia  Ita-Suomalaisten  vanhoista  tavoistay  II.
-Maahanfaniaiset  ( Kansanvalistusseuran  toimituksia y  g8 ) .  Hel¬
-singfors,  1894.
-
-Henricus  Lettus,  Origines  Livoniae  (Serif tores  Rerum  Livoni-
-carumy  i).  Riga  and  Leipzig,  1853.
-
-Hertzberg,  R.,  Vidskefelsen  i  Finland  fa  1600—talet.  Helsingfors,
-1889.
-
-Holmberg,  Uno,  [a]  “  Suomalaisten  haltioista,”  in  KV  i.  Hel¬
-singfors,  1921.
-
--  [b]  “  Suomalaisten  karsikoista,”  in  KV  iv.  Helsingfors,
-
-1924.
-
--  [c]  “  Suomalaisten  muinaisuskosta,”  in  Tietosanakirjay  ix.
-
-Helsingfors,  1917.
-
-- [d]  “  Virolaisten  viljaneitsyet,”  in  MSFO  xxxv.  Helsing¬
-fors,  1914.
-
-Holzmayer,  J.  B.,  “  Osiliana,”  in  VGEG  vii.  Dorpat,  1873.
-
-Hornborg,  K.  H.  “Karsikoista,”  in  Virittaja,  ii.  Helsingfors,  1886.
-
-Hurt,  J-,  [a]  “  Beitrage  zur  Kenntnis  estnischer  Sagen  und  Uber-
-lieferungen,”  in  SGEG  ii.  Dorpat,  1863.
-
--  [b]  Uber  estnische  Himmelskunde.  Petrograd,  1900.
-
-Itkonen,  T.,  “  Suomalaisia  mytologisia  sanoja  Inarista,”  in  Virittajdy
-1912.  Helsingfors.
-
-Jurgens,  E.,  “  Ein  weiterer  beitrag  zum  Tonnis-cultus  der  Esten,”
-in  JSFO  xviii.  3.  Helsingfors,  1900.
-
-Kallas,  O.,  “  Kraasna  maarahvas,”  in  S  iv.  10.  Helsingfors,  1903.
-
-Kreutzwald,  Fr.  R.,  [a]  Eestirahwa  ennemuistsed  jutud.  Hel¬
-singfors,  1866.
-
-- [b]  “  Beitrag  zur  Mythologie  der  Esthen,”  in  Inland ,  1838,
-
-no.  9.  Dorpat.
-
--  [c]  “  Esthnische  Gebrauche  bei  Sterbenden  und  Todten,”
-
-ib.  1837,  no*  I^*
-
-- [d]  C£  Ueber  den  Character  der  Estnischen  Mythologie,”  in
-
-VGEG  ii.  3.  Dorpat,  1850.
-
-- [e]  “  Ueber  einige  festliche  Gebrauche  bei  den  Esthen,”  in
-
-lnlandy  1837,  nos.  12,  25  and  27.  Dorpat.
-
-Kreutzwald  und  Neus,  H.,  Mythische  und  magische  Lieder  der
-Ehsten.  Petrograd,  1854.
-
-Krohn,  Julius,  Suomalaisen  kirjallisuuden  historia  i.  2.  Kalevalan
-synty.  Helsingfors,  1884.
-
-Krohn,  Kaarle,  [a]  “  Finns,”  in  ERE  vi.  23  ff.  Edinburgh,
-I9I3-
-
-• - [b]  “  Kalevalankysymyksia,”  in  JSFO  xxxv-xxxvi.  Hel¬
-
-singfors,  1918.
-
--  [c]  Kalevalan  runojen  historia.  Helsingfors,  1902— 10.
-
-
-568
-
-
-FINNO-UGRIC  MYTHOLOGY
-
-
--  [d]  “  Kaleva  und  seine  sippe,”  in  JSFO  xxx.  35.  Helsing¬
-fors,  1915.
-
-- [e]  Suomalaiset  syntyloitsut.  Helsingfors,  1917*  Trans¬
-lated  into  Germ,  in  FFC  no.  51—52.  Helsingfors,  1923.
-
-- [f]  “  Suomalaisten  pakanalliset  jumalat,”  in  Oma  Maay  i.
-
-Borga,  1907  and  1920.
-
--  [g]  “Suomalaisten  runojen  uskonto,”  in  SUU  i.  Borga,
-
-I9I4.
-
-Kunder,  J.,  Eesti  muinasjutud.  Rakwere,  1885.
-
-Lankela,  J.,  “  Matkakertomus,”  in  S  i860.  Helsingfors.
-Lencqvist,  H.  G.,  De  super stiti one  veterum  fennorum  theoretica
-et  practica  (Porthan,  Opera  selectay  iv).  Helsingfors,  1870.
-Luce,  J.  W.  L.  von,  Wahrheit  und  Muthmassung.  Bernau,  1827.
-Lukkarinen,  J.,  [a]  “  Inkerilaisten  kotijumalista,”  in  SMA  xxvi.
-Helsingfors,  1912.
-
-- [b]  “Inkerilaisten  praasnikoista,”  in  S  iv.  11.  Helsingfors,
-
-1912.
-
-- [c]  “  Inkerilaisten  vainajainpalveluksesta,”  in  MSFO  xxxv.
-
-Helsingfors,  1914.
-
-- [d]  “  Tietoja  susi-ihmisista  Inkerissa,”  in  Virittdjd,  1914.
-
-Helsingfors.
-
-Mansikka,  V.  J.,  “  Taikojen  aarreaitasta,”  in  Virittajd,  1914.
-Helsingfors.
-
-Murman,  J.  W.,  “  Nagra  upplysningar  om  Finnarnes  fordna  vid-
-skepliga  bruk  och  trollkonster,”  in  S  1854.  Helsingfors.
-Rantasalo,  A.  V.,  [a]  “  Der  Ackerbau  im  Volksaberglauben  der
-Finnen  und  Esten  mit  entsprechenden  Gebrauchen  der  Ger-
-manen  verglichen,  I— III,”  in  FFCy  no.  30—32.  Helsingfors,
-1919-20.
-
--  [b]  Suomen  kansan  muinaisia  taiko)ay  in.  Maanviljely staikoja.
-
-Helsingfors,  1912.
-
-Russwurm,  C.,  Eibofolke  oder  die  Schweden  an  den  Kiisten  EhsU
-lands  und  auf  Runo.  2  vols.  Reval,  1855.
-
-Saarimaa,  E.  A.,  “  Liivilaisten  mytologisia  uskomuksia,”  in  Virit -
-taja,  1914.  Helsingfors.
-
-Salmelainen,  E.,  “  Vahanen  kertoelma  Muinois-Suomalaisten  pyhista
-menoista,”  in  S  1852.  Helsingfors.
-
-Saxen,  Ralf,  Finsk  guda -  och  hjaltetro.  Helsingfors,  1916.
-Schwindt,  Th.,  Tietoja  Karjalan  rautakaudesta.  Helsingfors,  1898.
-Setala,  E.  N.,  “  Wainamoinen  und  Joukahainen,”  in  MSFO  xxxv.
-Helsingfors,  1914.
-
-Skogman,  D.,  “  Kertomus  matkoiltani  Satakunnassa  muistojuttuja
-keraamassa,”  in  S  ii.  2.  Helsingfors,  1862.
-
-Suomen  kansan  muinaisia  loitsurunoja.  Helsingfors,  1880.
-
-
-BIBLIOGRAPHY
-
-
-569
-
-
-Suomenkansan  vanhat  runot.  Helsingfors,  1908  ff.
-
-Tunkelo,  E.  A.,  “  Eraista  vainajainpalvontaan  liitty vista  suomalai-
-sista  nimityksista,”  in  MSFO  xxxv.  Helsingfors,  1914.
-Varonen,  M.,  Suomen  kansan  muinaisia  taikoja .  2  vols.  Helsing¬
-
-fors,  1891-1892.
-
-Voionmaa,  V.,  Suomen  karjalaisen  heimon  historia.  Helsingfors,
-1915.
-
-Wiedemann,  F.  J.,  Aus  dem  inneren  und  ausseren  Leben  der  Ehsten .
-Petrograd,  1876.
-
-Wiklund,  K.  B.,  “  Mytologi  (Finsk),”  in  Nordisk  Familjebok ,  xix.
-Stockholm,  1913.
-
-
-IV.  LAPPS
-
-Acerbi,  J.,  Travels  through  Sweden,  Finland  and  Lapmark  to  the
-North-cape .  2  vols.  London,  1902.
-
-Aima,  Fr.,  “  Muutamia  muistotietoja  Inarin  lappalaisten  vanhoista
-uhrimenoista,”  in  Virittaja ,  1903.  Helsingfors.
-
-Andelin,  A.,  ££  Kertomus  Utsjoen  pitajasta,”  in  S  1858.  Hel¬
-singfors.
-
-Andersson,  G.  A.,  Tietoja  Sodankyldn  ja  Klttllan  pitdjien  aikaisem -
-mlsta  ja  myohemmlsta  vaiheista.  Kemi,  1914.
-
-Appelgren,  Hj.,  “  Muinaisjaannoksia  ja  tarinoita  Kemin  kihlakun-
-nan  itaisissa  osissa,”  in  SMA  v.  Helsingfors,  1882.
-
-B[  ergman],  E.  W.,  u  Anteckningar  om  Lappmarken,  sarskildt  med
-hanseende  till  kristendomens  inforande  darstades,’>  in  Hlstorisk
-Tidskrift,  xi.  Stockholm,  1891.
-
-Charuzin,  N.,  [a]  <£  O  noydach  u  drevnich  i  sovremennych  loparey,”
-in  EO  i.  1889.  Moscow.
-
-- [b]  ££  Russkie  lopari,”  in  IOLEAE  lxvi.  Moscow,  1890.
-
-Drake,  Sigrid,  ££  Vasterbottens-lapparna  under  forra  halften  av
-1800— talet,”  in  Lapparna  och  deras  land ,  vii.  Uppsala,  1918.
-
-Duben,  Gust,  von,  Om  Lappland  och  Lapparne.  Stockholm,  1873.
-
-Fellman,  Isak,  Handlingar  och  uppsattser  angaende  Finska  Lapp¬
-marken  och  Lapparne ,  i.  Helsingfors,  1910.
-
-Fellman,  Jacob,  Anteckningar  under  min  vistelse  i  Lappmarken .
-2  vols.  Helsingfors,  1903.
-
-Fjellstrom,  P.,  Berattelse  om  Lapparnes  bjornafange  samt  deras
-dervid  brukade  vidskepelser .  Stockholm,  1755.
-
-Friis,  J.  A.,  [a]  En  sommer  i  Finmarken y  Russisk  Lapland  og  Nord -
-Karelen .  Christiania,  1871.
-
-- [b]  Lappiske  Eventyr  og  Folkesagn.  Christiania,  1871.
-
-- [c]  Lappisk  Mythologi.  Christiania,  1871.
-
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-5  70
-
-Fritzner,  J.,  “  Lappernes  hedenskap  og  trolddomskunst  sammenholdt
-med  andre  folks  isaer  nordmaennenes  tro  och  overtro,”  in  His-
-torisk  Tidskrifty  i.  4.  Christiania,  1877.
-
-Genetz,  A.,  W orterbuch  der  ko la-la ffischen  Dialekte.  Helsingfors,
-1891.
-
-Graan,  O.,  c£  Relation  Eller  En  Fulkomblig  Beskrifning  om  Lap-
-parnas  Vrsprung,  sa  wahl  som  om  heela  dheras  Lefwernes
-Forehallande,”  in  A  TPS  xvii.  2.  Uppsala,  1899.
-
-Hallstrom,  G.,  [a]  “  Gravplatser  och  ofFerplatser  i  ryska  Lapp-
-marken,”  in  Etnologiska  studier  till’d gnade  N.  E.  Hammarstedt.
-Stockholm,  1921.
-
--  [b]  “  Lapptrumman,”  in  Fataburen ,  1910.  Stockholm.
-
-Hammond,  Hans,  Den  Nordiske  Missions-Historie.  Copenhagen,
-
-j787-
-
-Helland,  A.,  [a]  Norges  Land  og  Folk .  Tofografisk-statistisk
-
-beskrivelse  over  Finmarkens  amt .  2  vols.  Christiania,  1906.
-
--  [b]  Norges  Land  og  Folk.  Tofografisk-statistisk  beskrivelse
-
-over  Nordlands  amt.  2  vols.  Christiania,  1908.
-
-Hogstrom,  Pehr,  Beskrifning  ofver  de  til  Sweriges  Krona  lydande
-Lapmarker.  Stockholm  [1747].
-
-Holmberg,  Uno,  [a]  a  De  fornnordiska  nornorna  i  lapparnas  re¬
-ligion,”  in  Argus ,  1915.  Helsingfors.
-
-- [b]  “  Lappalaisten  uskonto,”  in  SSU}  ii.  Borga,  1915.
-
-- [c]  “  Lapps,”  in  EREy  vii.  797  ff.  Edinburgh.
-
-Jessen,  E.  J.,  A f handling  om  de  Norske  Finners  og  Laffers  Hedenske
-Religion.  (Printed  in  Leem’s  work)  Copenhagen,  1767.
-
-Kildal,  S.,  <c  Efterretning  om  Finners  og  Lappers  hedenske  religion,”
-in  Det  skandinaviske  Litter aturs els kabs  Skriftery  iii.  2.  Copen¬
-hagen,  1807.
-
-Kolmodin,  T.,  “  Folktro,  seder  och  sagner  fran  Pite  Lappmark,”
-in  Laffarne  och  deras  land y  iii.  Stockholm,  I9J4*
-
-Krohn,  Kaarle,  “  Lappische  beitrage  zur  germanischen  mythologie,”
-in  FUF  vi.  Helsingfors,  1906.
-
-Leem,  Knud,  Beskrivelse  over  Finmarkens  Laffer.  Copenhagen,
-
-i767-
-
-Lindahl,  E.,  and  Ohrling,  J.,  Lexicon  Laffonicum.  Stockholm,
-1780.
-
-Lundius,  N.,  ££  Descriptio  Lapponiae,”  in  A  TPS  xvii.  4.  Uppsala,
-
-Munch,  T\  A.,  Symbolae  ad  FListoriam  antiquiorem  rerum  Norvegi-
-carum.  Christiania,  1850.
-
-Niurenius,  O.,  ££  Lappland,”  in  ATPS  xvii.  4.  Uppsala,  1905.
-
-Olrik,  Axel,  [a]  ££  Irmensul  og  gudestdtter,”  in  Maal  og  minney
-1910.  Christiania.
-
-
-BIBLIOGRAPHY
-
-
-57i
-
-- [b]  “  Nordisk  og  lappisk  gudsdyrkelse,”  in  Danske  Studier>
-
-1905.  Copenhagen.
-
-- [c]  “  Tordenguden  og  hans  dreng,”  ib.  1905—6.
-
-- [d]  “The  sign  of  the  dead,”  in  FUF  xii.  Helsingfors,
-
-1912.
-
-Qvigstad,  J.,  [a]  “  Kildeskrifter  til  den  lappiske  mythologi,  i-ii,”  in
-Det  kgl.  Norske  V  idenskabers  Selskabs  Skriftery  nos.  I  and  4.
-Trondhjem,  1903  and  1910.
-
-- [b]  “  Lappischer  Aberglaube,”  in  Kristiania  Etnografiske
-
-Museums  Skriftery  i.  2.  Christiania,  1920.
-
-Reuterskiold,  E.,  [a]  “  De  nordiska  lapparnas  religion,”  in
-
-Populara  etnologiska  skriftery  8.  Stockholm,  1912.
-
--  [b]  “  Kallskrifter  till  lapparnas  mytologi,”  in  Bidrag  till
-
-var  odlings  hafder  utgifna  af  Nordiska  Museety  10.  Stockholm,
-1910.
-
-Reuterskiold,  E.,  and  Wiklund,  K.  B.,  “  Linnes  lappska  troll-
-trumma,”  in  Fatabureny  1912.  Stockholm.
-
-Rheen,  S.,  “  En  kortt  Relation  om  Lapparnes  Lefwarne  och  Sedher,
-wijdskiepellser,  sampt  i  manga  Stycken  Grofwe  wildfarellser,”
-in  A  TPS  xvii.  1.  Uppsala,  1897.
-
-Rosen,  Eric  von,  “  En  nyupptackt  lappsk  offerplats  vid  Vidjakuoika,”
-in  Ymery  1911.  Stockholm.
-
-Rosen,  Helge,  “  Om  lapparnas  dddsrikesforestallningar,”  in  Fata-
-bureny  1919.  Stockholm.
-
-Samzelius,  H.,  “  Sagor  och  sagner,  skrock  och  ofvertro  fran  finn-
-bygder  och  lappmarker,  i— ii,”  in  Meddelanden  fran  Nordiska
-Museety  1902—3.  Stockholm.
-
-Schefferus,  J.,  Lafponia.  Frankfurt,  1673.
-
-Tornaeus,  J.,  “  Berattelse  om  Lapmarckerna  och  Deras  Tillstand,”
-in  A  TPS  xvii.  3.  Uppsala,  1900.
-
-Tuderus,  G.,  “  En  kort  underrattelse  om  the  osterbothniske  lappar,
-som  under  Kiemi  gebit  lyda,”  in  A  TPS  xvii.  6.  Uppsala,  1905.
-
-Turi,  J.,  Muittalus  samid  birra.  Copenhagen,  1910.
-
-Unwerth,  W.  von,  [a]  N amensgebung  und  Wiedergeburtsglaube
-bei  N ordgermanen  und  Lapfen.  Off-print  of  Festschrift  fur
-Alfred  Hillebrandt.
-
--  [b]  “  Odinn  und  Rota.”  Off-print  of  Beitrdge  xur  Ge -
-
-schichte  der  deutschen  Sprache  und  Litteratur.  Published  by  W.
-Braune.  1913.
-
--  [c]  U ntersu chung en  iiber  Totenkult  und  Odinnverehrung
-
-bei  N ordgermanen  und  Lapfen.  Breslau,  1911.
-
-Vahl,  J.,  Lapperne  og  den  lapske  mission.  Copenhagen,  1866.
-
-Wiklund,  K.  B.,  [a]  “  En  nyfunnen  skildring  af  lapparnas  bjorn-
-fest,”  in  MO  19 1 2.  Uppsala.
-
-
-572
-
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-- [b]  “  Saivo.  Till  fragan  om  de  nordiska  bestandsdelarna  i
-
-lapparnas  religion,”  in  ib.  1916.  (Translated  into  Germ,  in
-Beitrage  zur  Religionswissenschaft ,  ii.  1918.)
-
--  [c]  “  Mytologi  (Lapsk),”  in  Nordisk  Familjeboky  xix.
-
-Stockholm,  1913.
-
-Yascenko,  A.,  “  Neskolko  slov  o  Russkoy  Laplandiy,”  in  EO  xii.
-Moscow,  1892.
-
-
-V.  VOLGA  FINNS
-
-Andrievskiy,  A.  A.,  “  Dela  o  soversenii  yazyceckich  obryadov  i
-zertvoprinoseniy  krescenymi  inorodcami  Vyatskoy  gubernii,”
-in  Stole  tie  Vyatskoy  guberni>  1780—1880.  ii.  Vyatka,
-1880.
-
-Aunovskiy,  V.,  “  Etnograficeskiy  ocerk  Mordvy  Moksi,”  in  Pamyat -
-nay  a  kniga  Simbirskoy  gubernii  na  1869.  Simbirsk.
-
-Bagin,  S.  A.,  “  Gadateli  i  znachari  u  carevokoksayskich  ceremis,”  in
-IO  A  IE  xxvi.  3.  Kazan,  1910.
-
-Benevolenskiy,  G.,  “  Mordovskiya  molyany,”  in  SEV  1868,  no.  21.
-Samara.
-
-Butuzov,  F.,  [a]  “  Iz  byta  mordvy  sela  Zivaykina  Zadovskoy  volosti,
-Karsunskago  uyezda  Simbirskoy  gubernii,”  in  IOAIE  xi.  5.
-Kazan,  1893.
-
-- [b]  “  Verovaniya  i  kult  mordvy  (Erzi)  sela  Sabanceyeva
-
-Alatyrskago  uyezda  Simbirskoy  gubernii,”  in  IOAIE  xi.  4.
-Kazan,  1893.
-
-Dubasov,  I.,  Ocerki  iz  istorii  Tambovskago  kray  a,  i.  Tambow,
-1890.
-
-Eruslanqv,  P.,  [a]  “  Ocerk  byta  i  predaniy  vostocnych  ceremis,”  in
-IOORGO  iv.  1894.  Orenburgh.
-
--  [b]  “  Zertvoprinoseniya  ceremis  Birskago  uyezda  po  slucayu
-
-neurozaya,”  in  ib.
-
-Evsevyev,  M.  E.,  “  Bracnyj  i  drugie  religioznye  obryady  mordvy
-Penzenskoy  gubernii,”  in  2S  xxiii.  Petrograd,  1914.
-
-Filimonov,  A.,  “  O  religii  nekrescennych  ceremis  i  votyakov  Vyatskoy
-gubernii,”  in  VEV  1868,  no.  8,  and  1869,  nos.  7—8  and  21.
-Vyatka.
-
-Filonenko,  V.,  [a]  “  Pogrebalnye  i  svadebnye  obryady  ceremis
-Ufimskoy  gubernii,”  in  VOUO  1912,  no.  2.  Ufa.
-
-- [b]  “  Prazdnik  £  Kyso  ’  u  vostocnych  ceremis,”  in  ib.  1912,
-
-nos.  7-8.
-
-Fuks,  Aleksandra,  Zafiski  o  cuvasach  i  ceremisach  Kazanskoy
-gubernii.  Kazan,  1840.
-
-Fuks,  K.,  £C  Poyezdka  iz  Kazani  k  Mordve  Kazanskoy  gubernii  v
-1839  godu,”  in  ZMVD  1839,  x.  Petrograd.
-
-
-BIBLIOGRAPHY
-
-
-573
-
-in  JSFO  vii.
-
-
-Genetz,  A.,  “  Ost-tscheremissische  sprachstudien,”
-
-Helsingfors,  1889.
-
-Gorodskoy,  G.,  “  O  ceremisach  prozivayuscich  v  Kransnoufimskom
-uyezde  Permskoy  gubernii,”  in  ES  1864,  vi.  Petrograd.
-
-Hamalainen,  A.,  “  Tseremissien  uhritapoja,,,  in  JSFO  xxv.  3.  Hel¬
-singfors,  1908.
-
-Holmberg,  Uno,  [a]  “  Tsheremissien  mytologia,”  in  Tietosanakirja ,
-ix.  Helsingfors,  1917.
-
-- [b]  “Tsheremissien  uskonto,”  in  SSU  v.  Borga,  1914.
-
-Illustrov,  N.,  “  Obryady  mordvy  pri  pogrebenii  i  pominovenii
-umersich  ”  in  PEV  1868,  no.  3.  Penza.
-
-Ivancev,  S.,  “  Iz  byta  mordvy  derevni  Dyurki  Paraneevskoy  volosti
-Alatyrskago  uyezda  Simbirskoy  gubernii,”  in  IOAIE  xi.  6.
-Kazan,  1894.
-
-Kuznecov,  S.  K.,  [a]  “  Cetyre  dnya  u  ceremis  vo  vremya  Surema,”
-in  1RGO  xv.  2—3.  Petrograd,  1879.
-
-- [b]  “  Kult  umersich  i  zagrobnyja  verovaniya  lugovych
-
-ceremis,”  in  EO  1904.  Moscow.
-
-- [c]  “  Ocerki  iz  byta  ceremis,  ii.  Ceremisskie  prazdniki,”  in
-
-DNR  ii.  Petrograd,  1879.
-
-- [d]  «  Ostatki  yazycestva  u  ceremis,”  in  IRGO  xxi.  6.
-
-Petrograd,  1885.
-
-- [e]  “Poyezdka  k  drevney  ceremisskoy  svyatyne,  izvyectnoy
-
-so  vremen  Oleariya,”  in  EO  liv.  Moscow,  1905.
-
-- [f]  Zagrobnyja  verovaniya  ceremis.  Kazan,  1884.
-
-Mainov,  W.,  [a]  “  Les  restes  de  la  mythologie  Mordvine,”  in
-JSFO  v.  Helsingfors,  1889.
-
-- [b]  “  Mordvankansan  haatapoja,”  in  S  ii.  16.  Helsingfors,
-
-1883.
-
-- [c]  “  Mordvankansan  lakitapoja,”  in  ib.  iii.  3.  Helsingfors,
-
-1888.
-
-Melnikov,  P.  J.,  [a]  “  Nizegorodskaya  Mordva,”  in  <SGT  1851,
-nos.  25—6.  Simbirsk.
-
-- m  “  Obscestvennoe  molenye  Erzyan,”  in  SGV  1851,  no.
-
-31.  Simbirsk.
-
-- [c]  “Ocerki  mordvy,”  in  RV  1867,  ix-x.  Moscow.
-
-Mendiarov,  V.,  “  O  ceremisach  Ufimskoy  gubernii,”  in  EO  xxii.
-Moscow,  1894.
-
-Milkovic,  “  Byt  i  verovaniya  mordvy  Simbirskoy  gubernii  v  konce
-xviii-stoletiya,”  SGT  1851,  no.  32.  Simbirsk.
-
-Minch,  A.,  “  Narodnye  obycay,  obryady,  sueverii  i  predrazsudki
-krestyan  Saratovskoy  gubernii,”  in  ZRGO  xix.  2.  Petrograd,
-1889-90.
-
-Mitropolskiy,  K.,  “  Mordva.  Religioznyja  vozzreniya  ich,  npavy
-i  obycay,”  in  TEV  1876,  nos.  12-13.  Tambow.
-
-
-574  FINNO-UGRIC  MYTHOLOGY
-
-Molyarov,  I.,  [a]  “  Besedy  k  ceremisam  Kuznecovskago  prichoda,”
-in  IKE  1873,  nos*  1~' 9*  Kazan.
-
--  [b]  “  Narodnyja  verovanya  lugovych  ceremis  Kazanskoy
-
-gubernii,”  in  ib.  1877,  no.  9.  Kazan.
-
-- [c]  “  Pochoronnye  obycay  i  poverya  gornych  ceremis,”  in
-
-ib.  1876,  pp.  740-747.
-
-Mozarovskiy,  A.,  “  Mordovskoe  selo  Kakino,  Sergacskago  uyezda
-Nizegorodskoy  eparchii,”  in  NEV  1890,  no.  24.  Nizni-
-Novgorod.
-
-Nurminskiy,  S.,  ££  Ocerk  religioznych  verovaniy  ceremis,”  in  PS
-1862.  Kazan.
-
-Obrazcy  mordovskoy  narodnoy  slovesnosti y  i.  Kazan,  1882.
-
-Paasonen,  H.,  [a]  ££  Beitrage  zur  Kenntnis  der  Religion  und  des
-Cultus  der  Tscheremissen,”  off-print  of  KSz  ii.  pp.  30-8,
-122-33  anc*  198-210.  Budapest,  1901.
-
--  [b]  ££  Matkakertomus  mordvalaisten  maalta,”  in  JSFO  viii.
-
-Helsingfors,  1890.
-
--  [c]  £c  Mordvalaisten  mytologia,”  in  Tietosanakirja }  vi.  Hel¬
-singfors,  1914.
-
--  [d]  ££  Mordvins,”  in  ERE  viii.  Edinburgh.
-
-- [e]  ££  Mythologisches,  etymologisches,”  in  MSFO  xxxv.
-
-Helsingfors,  1914.
-
-- [f]  “  Proben  der  mordwinischen  Volkslitteratur,”  in  JSFO
-
-ix  and  xii.  Helsingfors,  1891  and  1894.
-
-Petrov,  A.  A.,  ££  Zametki  po  etnografii  ceremis  Krasnoufimskago
-uyezda,  Permskoy  gubernii,”  in  IOORGO  1895,  V1*  Oren-
-burgh.
-
-Porkka,  V.,  ££  Tscheremissische  texte  mit  iibersetzung,”  in  JSFO
-xiii.  Helsingfors,  1895.
-
-Primerov,  A.,  ££  Religioznye  obryady  i  suevernyja  obycay  mord-
-vov  Krasnoslobodskago  uyezda,”  in  REV  1870,  no.  16.
-Penza.
-
-Ramstedt,  G.  J.,  ££  Bergtscheremissische  sprachstudien,”  in  MSFO
-xvii.  Helsingfors,  1902.
-
-Ryabinskiy,  K.,  ££  Ardinskiy  prichod  Kozmodemyanskago  uyezda,”
-in  IO  A  IE  xvi.  Kazan,  1900.
-
-Sachmatov,  A.,  Mordovskiy  etnograficeskiy  sbornik.  Petrograd,
-1910.
-
-Semenov,  T.,  ££  Ceremisy,”  in  Pravoslavniy  Blagovestnik y  1893.
-Moscow.
-
-Sestakov,  ££  Byt  ceremis  Urzumskago  uyezda,”  in  Cirkulyar  no
-Kazanskomu  JJcebnomu  Okrugu.  Kazan.  1866.
-
-Smirnov,  I.,  [a]  ££  Ceremisy,”  in  IOAIE  vii.  Kazan,  1889.
-
-- [b]  ££  Mordva,”  in  ib.  x-xii.  Kazan,  1892-5.
-
-
-BIBLIOGRAPHY
-
-
-515
-
-Smirnov,  N.,  Mordovskoe  naselenie  Penzenskoy  gubernii,”  in  PEV
-1874,  nos.  1—24.  Penza.
-
-Smolencov,  O.  I.,  “  Yazyceskiya  zertvoprinoseniya  i  obycai  u  pra-
-voslavnych  ceremisov,”  in  Ogoneky  1914,  no.  19.  Petrograd.
-
-Sneznitskiy,  I.,  [a]  “  Mordovskiy  prazdnik  £  Vermavy  ’  (Verbnoe
-voskresenie)  i  £  Viryavy,5  ”  in  PEV  1871,  nos.  19—20.
-
--  [b]  “  Prazdnik  c  Petrooskos  5  —  Petrov  molyan  v  dyen  sv.
-
-apostolov  Petra  i  Pavla  v.  Mordoyskom  sele  K-se,”  in  ib.  1870,
-no.  22.
-
-Troitskaya,  N.,  “  Ceremisy  Arbanskoy  volosti,5’  in  IOA1E  xi.  1
-Kazan,  1893.
-
-Troitskiy,  S.,  ££  Zametki  o  vetluzkich  ceremisach,”  in  NGV  1863,
-nos.  19—20.  Nizhni-Novgorod.
-
-Vasilyev,  V.  M.,  [a]  “  Ceremisy-yazycniki,”  off-print  of  70  xii.
-1915.  Kazan.
-
--  [b]  “  Materialy  dlya  izuceniya  verovaniy  i  obryadov  ceremis,”
-
-off-print  of  IO  x.  1915.  Kazan.
-
--  [c]  “  Materialy  dlya  izuceniya  verovaniy  i  obryadov  ceremis,”
-
-off-print  of  IO  v.  1915.  Kazan.
-
-Yakovlev,  G.,  Religioznye  obryady  Ceremis.  Kazan,  1887.
-
-Znamenskiy,  P.,  “  Gornye  ceremisy  Kazanskago  kraya,”  in  VE  iv.
-1867.  Petrograd.
-
-Zolotnickiy,  N.,  Nevidimyi  mir  fo  samanskim  vozreniyam  ceremis.
-Kazan,  1877.
-
-
-VI.  PERMIANS
-
-Aminoff,  T.  G.,  “  Reseberattelse,”  in  Ofversigt  af  Finska  Veten-
-skafssocietetens  F brhandli ngary  xxi.  Helsingfors,  1879.
-
-Aptiev,  G.  A.,  “  Iz  religioznych  obycaev  votyakov  Ufimskoy  gubernii
-Birskago  uyezda,”  in  IOAIE  ix.  3.  Kazan,  1891.
-
-Bechterev,  V.,  £C  Votyaki,  ich  istoriya  i  sovremennoe  sostoyanie,”  in
-VE  viii-ix.  Petrograd,  1880.
-
-Blinov,  N.,  Yazyceskii  kult  votyakov.  Vyatka,  1898.
-
-Bogayevskiy,  P.,  [a]  “  Ocerk  byta  Sarapulskich  votyakov,”  in
-
-Sbornik  materialov  fo  etnografii  izd.  fri  Daskovskom  etnograf.
-muzeey  iii.  Moscow,  1888.
-
-• - [b]  £c  Ocerki  religioznych  predstavleniy  votyakov,”  in  7s O,
-
-1890.  Moscow.
-
-Buch,  Max,  ££  Die  Wotjaken,”  in  ASSF  xii.  Helsingfors,  1883.
-
-Charuzin,  M.,  ££  Ocerki  yuridiceskago  byta  narodnostey  sarapul-
-skago  uyezda  Vyatskoy  gubernii,”  in  Yuridiceskii  Vestniky  1883.
-Petrograd.
-
-Charuzin  a,  Vera,  ££  K  voprosy  o  pocitanii  ognya,”  in  AO  lxx-lxxi.
-Moscow,  1906.
-
-
-576  FINNO-UGRIC  MYTHOLOGY
-
-Chlopin,  V.,  “  Neskolko  slov  o  Permyakach,”  in  GI.  Petrograd,
-1849.
-
-Dobrotvorskiy,  N.,  ££  Permyaki,”  in  VE  iv.  Petrograd,  1883.
-Drevnie  Akty  otnosyasciesya  k  istorii  V  yatskago  kray  a.  Vyatka,  1 88 1.
-Frolov,  A.,  “  Svadebnye  i  pochoronnye  obycay  ziteley  sela  Ustnem-
-skago,  Ustsysolskago  Uyezda,”  in  V GV  no.  21.  Vologda,  1885.
-Fuchs,  D.  R.,  “  Eine  Studienreise  zu  den  Syrjanen,”  in  KSz  xii.  3.
-Budapest,  19 11.
-
-Fuks,  A.  A.,  ££  Poyezdka  k  votyakam  Kazanskoy  gubernii,”  in  KGV
-no.  14!?.  Kazan,  1844.
-
-Gavrilov,  B.,  [a]  “  Poverya,  obryady  i  obycay  votyakov  Mamady-
-skago  uyezda,  Uryasucinskago  prichoda,”  in  Trydy  IV  archeo -
-logiceskago  sezda  v  Rossii ,  ii.  Kazan,  1891.
-
-■ -  [b]  Proizvedeniya  narodnoy  slovesnosti ,  obryady  i  poverya
-
-votyakov  Kazanskoy  i  Vyatskoy  gubernii.  Kazan,  1880.
-Hamalainen,  A.,  “  Epifanij  Viisaan  tiedot  Pyhasta  Tapanista  ja
-syrjaaneista,”  in  Vahalsid  kirjelmiay  xli.  Helsingfors,  1908.
-Holmberg,  Uno,  [a]  <£  Permalaisten  uskonto,”  in  SSU  iv.  Borga,
-
-- [b]  ££  Syrjaanien  muinaisuskonto,”  in  Tietosanakirjay  ix.
-
-Helsingfors,  1917.
-
--  [c]  ££  Votjaakkien  mytologia,”  in  ib.  x.  1919*
-
-Kandinskiy,  V.,  ££  Iz  materialov  po  ethnografii  sysolskich  i  vycegod-
-skich  zyryan,”  in  EOy  iii.  Moscow,  1889.
-
-Luppov,  P.  N.,  [a]  Christianstvo  u  votyakov  so  vremeni  fervych
-istoriceskich  izvestiy  o  nlch  do  XIX  veka.  Petrograd,  1899.
-
-- [b]  C hristianstvo  u  votyakov  v  fervoy  folovine  XIX  veka.
-
-Petrograd,  19 11.
-
-Lytkin,  G.,  "Lyr^anskiy  kray  fri  efiskofach  -permskich  i  zyryanskii
-yazyk.  Petrograd,  1889.
-
-Micheyev,  I.,  ££  Iz  religioznoy  zizni  kazanskich  votjakov,”  in  IKE
-1900.  Kazan.
-
-Miropolskiy,  A.,  n  Krescenye  votyaki  kazanskago  uyezda,  ich
-yazyceskie  poverya,  obryady  i  obycaiY>  in  PS  1876.  Kazan.
-Munkacsi,  B.,  [a]  Lexicon  linguae  votiacorum.  Budapest,  1896.
-
--  [b]  V otjak  nepkolteszeti  hagyomanyok.  Budapest,  1887*
-
-- [c]  ££  Votjak  nyelvtanulmanyok,’>  in  Nyelvtudomdnyi  Koz -
-
-lemenyeky  xviii.  Budapest,  1884.
-
-Nalimov,  V.,  [a]  ££  Nekotoryia  certi  iz  yazyceskago  mirosozercaniya
-zyryan,”  in  EO  lvii.  Moscow,  1903.
-
-- [b]  ££  Zagrobniy  mir  po  verovaniyam  zyryan,”  in  ib.  lxxii-
-
-lxxiii.  Moscow,  1907.
-
--  [c]  ££  Zur  Frage  nach  den  urspriinglichen  Beziehungen  der
-
-Geschlechter  bei  den  Syrjanen,”  in  JSFO  xxv.  4.  Helsingfors,
-1908.
-
-
-BIBLIOGRAPHY
-
-
-577
-
-Ostrovskiy,  D.,  “  Votyaki  Kazanskoy  gubernii,”  in  Trudy  Obscestva
-Estestvoisfytateley  fri  Kaxanskom  Universitete ,  iv.  Kazan,
-1874.
-
-Pervuchin,  N.,  Eskizy  fredanii  i  byta  inorodcev  Glazovskago  uyezda ,
-i— v.  Vyatka,  1888—90.
-
-Popov,  N.,  “  Zyryane  i  zyryanskiy  kray,”  in  IOLEAE  xiii.  2.
-Moscow,  1874.
-
-Potanin",  G.,  “  U  votyakov  Elabuzskago  uyezda,”  in  IOA1E  iii.
-Kazan,  1884.
-
-Rogov,  N.,  “  Materialy  dlya  opisaniya  byta  Permyakov,”  in  2MVD
-xxix.  Petrograd,  1858.
-
-Satrapinskiy,  K.  A.,  Votyaki  i  Besermane  (Manuscript  in  Archives
-of  Geogr.  Society  in  Petrograd.  x.  49).
-
-Smirnov,  I.,  [a]  “  Permyaki,”  in  IOA1E  ix.  2.  Kazan,  1891.
-
-- [b]  “  Votyaki,”  in  ib.  viii.  2.  Kazan,  1890.
-
-Tezyakov,  I.,  Prazdniki  i  zertvoprinoseniya  u  votyakov  yazycnikov,”
-in  NS  1896.  Petrograd.
-
-Verescagin,  Gr.,  [a]“Starye  obycai  i  verovaniya  votyakov,”  in  EO
-lxxxiii.  Moscow,  1910.
-
-- [b]  “  Votskie  bogi,”  in  IAOIRS  1911,  no.  7.  Archangelsk.
-
-- [c]  “  Votyaki  Sarapulskago  uyezda  Vyatskoy  gubernii,”  in
-
-ZRGO  xiv.  3.  Petrograd,  1889.
-
-- [d]  “  Votyaki  Sosnovskago  kraya,”  in  ib.  xiv.  2.  Petrograd,
-
-1886.
-
-Wasiljev,  J.,  ££  Ubersicht  liber  die  heidnischen  Gebrauche,  Aber-
-glauben  und  Religion  der  Wotjaken,”  in  MSFO  xviii.  Hel¬
-singfors,  1902.
-
-Wichmann,  Yrjo,  [a]  “  Tietoja  votjaakkien  mytologiiasta,”  in
-Vahaisia  Kirjelmia,  xvii.  Helsingfors,  1893.
-
-- [b]  <£  Wotjakische  sprachproben,”  i-ii,  in  JSFO  xi  and  xix.
-
-Helsingfors,  1893  anc^  1901.
-
-Zakov,  K.,  ££  Yazyceskoe  mirosozercanie  zyryan,”  in  Naucnoe
-
-Obozrenie ,  viii.  3.  Petrograd,  1901.
-
-Yanovic,  M.,  ££  Permyaki,”  in  ZSt  1903.  Petrograd.
-
-VII.  UGRIANS  AND  SAMOYEDS
-
-Abramov,  N.  A.,  ££  Opisanie  Berezovskago  kraya,”  in  ZRGO  xii.
-1857.  Petrograd.
-
-Ahlqvist,  A.,  ££  Unter  Wogulen  und  Ostjaken,”  in  ASSF  xiv.  Hel¬
-singfors,  1885.
-
-Barna,  F.,  Osvalldsunk  foistenei.  Budapest,  1 88 1.
-
-Bartenev,  V.,  Na  kraynem  sever o-zafade  Sibiri.  Ocerki  ob dor-
-ska  go  kraya.  Petrograd,  1896.
-
-Belyavskty,  F.,  Poyezdka  k  Ledovitomu  moryu.  Moscow,  1833.
-
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-578
-
-Broms,  P.,  De  religione  siberiensium.  Uppsala,  1728.
-
-Bucinskiy,  P.,  Krescenie  Ostyakov  i  Vogulov  fri  Petre  V elikom.
-Harkow,  1893.
-
-Charuzin,  N.,  “  Medvezya  prisyaga  i  totemiceskiya  osnovy  kulta
-medvedya  u  Ostyakov  i  Vogulov,”  in  EO  1898.  Moscow.
-
-Donner,  Kai,  [a]  “  A  Samoyede  epic,”  in  JSFO  xxx.  26.  Helsing¬
-fors,  1914.
-
-- [b]  Siberian  samojedien  keskuudessa  vuosina  19 1  1—191 3  ja
-
-1914.  Helsingfors,  1915.  (Publ.  also  in  Swed.  1915.)
-
--  [c]  “  Etelaisten  ostjakki-samojedien  luona,”  in  J oukahaineny
-
-xiv.  Helsingfors,  1913.
-
-- [d]  “Samojedien  mytologia,”  in  Tietosanakirjay  viii.  Hel¬
-singfors,  1916.
-
-Dunin-Gorgavic,  A.  A.,  Tobolskiy  sever.  Etnografceskiy  ocerk
-mestnych  inorodcev.  Tobolsk,  1904— 1 1.
-
-Finsch,  O.,  Reise  nach  West-Sibirien  im  Jahre  i8y6.  Berlin,  1879.
-
-Gluskov,  I.,  “  Cerdynskie  voguly,”  in  EO  xlv.  Moscow,  1900.
-
-Gondatti,  N.,  [a]  “  Kult  medvedya  u  inorodcev  severo-zapadnoy
-Sibiri,”  in  IOLEAE  xl viii.  2.  Moscow,  1888.
-
--  [b]  “  Sledy  yazyceskich  verovaniy  u  Mansov  ”  in  IOLEAE
-
-xlviii.  2.  Moscow,  1888.
-
-Gorodkov,  N.,  “  Religioznyja  yazyceskiya  vozzreniya  Ostyakov,”  in
-TOE  A  1890,  no.  2.  Tomsk.
-
-Grigorovski,  N.,  “  Opisanie  Vasyuganskoy  tundry,”  in  ZZ— SORGO
-vi.  Petrograd,  1884.
-
-Hofmann,  E.,  Der  nordliche  Ural  und  das  Kilstengebirge  Pae-Chot.
-Petrograd,  1853.
-
-Islavin,  V.,  Samoyedy  v  domasnem  i  obscestvennom  bytu.  Petro-
-grad,  1847.
-
-Jackson,  F.  J.,  “  Notes  on  the  Samoyeds  of  the  Great  Tundra,”  in
-Journal  of  the  Anthrof.  Institute  of  Great  Brit.  xxiv.  London,
-1908.
-
-Kandra,  K.,  Magyar  mythologia.  Eger,  1897.
-
-Kannisto,  A.,  [a]  “  Uber  die  wogulische  schauspielkunst,”  in  FUF
-vi.  Helsingfors,  1906.
-
-- [b]  “  Vogulien  mytologia,”  in  Tietosanakirja,  x.  Helsingfors,
-
-I9I9-
-
-Karjalainen,  K.  F.,  [a]  “  Alte  bilder  zur  Ob-ugrischen  mytho-
-logie,”  in  MSFO  xxxv.  Helsingfors,  1914.
-
--  [b]  “  Etelaostjakkien  karhumenoista,”  in  Virittajay  1914.
-
-Helsingfors.
-
-- [c]  “  Jugralaisten  uskonto,”  in  SUU  iii.  Borga,  1918.
-
-- [d]  “  Ostjaakkien  mytologia,”  in  Tietosanakirjay  vi.  Hel¬
-singfors,  1914.
-
-
-BIBLIOGRAPHY
-
-
-579
-
--  [e]  “  Ostjakkeja  oppimassa,”  in  JSFO  xvii.  Helsingfors,
-
-1900.
-
-Katona,  L.,  “  Allgemeine  Charakteristik  des  magyarischen  Folklore,”
-in  EMU  i.  Budapest,  1887—8.
-
-Kuselevskiy,  Y.  I.,  Severny j  folyus  i  zemlya  Y almal.  Petrograd,
-1868.
-
-Kuznecov,  N.  N.,  “  Priroda  i  ziteli  vostocnago  sklona  severnago
-Urala,”  in  IRGO  xxii.  6.  Petrograd,  1887.
-
-Lehtisalo,  T.,  “  Entwurf  einer  Mythologie  der  Jurak-Samojeden,”
-in  MSFO  liii.  Helsingfors,  1924.
-
-Lyadov,  V.,  ££  Zauralskie  finny,”  in  Razsvel ,  vii.  i860.  Petrograd.
-
-Miechov,  M.  von,  Descriftio  Sarmatiarum.  Krakow,  1521.
-
-Muller,  j.  B.,  Das  Leben  und  die  Gewohnheiten  der  Ostjacken .
-Berlin,  1720.
-
-Munkacsi,  B.,  [a]  <c  Altere  Berichte  iiber  das  Heidenthum
-
-der  Wogulen  and  Ostjaken,”  i— v,  in  KSz  iii — v.  Budapest,
-
-1902-4.
-
--  [b]  ££  Die  Weltgottheiten  der  wogulischen  Mythologie,”  in
-
-ib.  vii— x.  Budapest,  1906-9.
-
--  [c]  “  Gotzenbilder  und  Gotzengeister  im  Volksglauben  der
-
-Vogulen,”  in  ib.  vii.  Budapest,  1906.
-
--  [d]  ££  Seelenglaube  und  Totenkult  der  Wogulen,”  in  ib.  vi.
-
-Budapest,  1905.
-
-- [e]  “  Uber  die  heidnische  Religion  der  Wogulen,”  in  EMU
-
-iii.  Budapest,  1893.
-
-- [f]  Vogul  nepkoltesi  gyiijtemeny,  i-iv.  Budapest,  1892—
-
-1902.
-
-Novitskiy,  Gr.,  Kratkoe  ofisanie  0  narode  ostyatskom.  Petrograd,
-1884.
-
-Papay,  J.,  Osztjak  nefkoltesi  gyiijtemeny .  Badafesty  1905.
-
-Patkanov,  S.,  Die  Irtysch-Ostjaken  und  ihre  Volksfoesie.  2  vols.
-Petrograd,  1897  anc^  1 9°°-
-
-Pavlovskiy,  V.,  Voguly.  Kazan,  1906.
-
-Polyakov,  I.,  [a]  “  Ostyaki  i  rybopromyslennost  v  doline  r.  Obi,”
-in  Priroda  i  Ochotay  ii.  Petrograd,  1878.
-
--  [b]  u  Pisma  i  otcety  o  putesestvii  v  dolinu  r.  Obi,”  in  ZAN
-
-xxx.  2.  Petrograd,  1877.
-
-Ramsay,  W.,  “  Ein  Besuch  bei  den  Samojeden  auf  der  Halbinsel
-Kanin,”  in  JSFO  xxiii.  Helsingfors,  1906.
-
-Savrov,  V.,  “  O  samanach  ostyatskich,”  in  Moskvitanin}  1844.
-Moscow.
-
-Schrenck,  A.  G.,  Reise  nach  dem  Nordosten  des  eurofaischen  Russ-
-landsimJahre  18 37.  2  vols.  Dorpat,  1848  and  1854.
-
-Sirelius,  U.  T.,  ££  Ostjakkien  ja  vogulien  hautaustavoista  ja  heidan
-
-
-580
-
-
-FINNO-UGRIC  MYTHOLOGY
-
-
-kasityksestaan  elamasta  kuoleman  jalkeen,”  in  SM  1902—3.
-Helsingfors.
-
-SoMMIER,  S.,  Un y  estate  in  Siberia.  Firenze,  1885.
-
-Sorokin,  N.,  “  Putesestvie  k  vogulam,”  in  TOEKU  iii.  4.  Kazan,
-
-i873-
-
-Trubetskoy,  N.,  <c  K  voprosu  o  zolotoy  babe,”  in  EO  lxviii — lxix.
-Moscow,  1906.
-
-Veniamin,  [a]  “  O  obrascenii  v  christianstvo  mesenskich  samojedov,”
-in  Christianskoe  Ctenie.  Petrograd,  1850.
-
--  [b]  <£  Samoyedy  Mezenskie,”  in  VRGO  xiv.  Petrograd,
-
-l855-
-
-Wlislocki,  H.  von,  [a]  Aus  dem  V olksleben  der  Magyaren.  Miin-
-chen,  1893.
-
-- [b]  V oiks glaube  und  religioser  Branch  der  Magyaren.  Mun¬
-ster,  1896.
-
-2itkov,  B.  M.,  “  Poluostrov  Yamal,”  in  ZRGO  fo  Obscey  Geo-
-grafiiy  xlix.  Petrograd,  1913.
-
-
-SIBERIAN
-
-
-I.  ABBREVIATIONS
-
-
-(See  also  Abbreviations  under  Finno-Ugric)
-
-
-1V-SORGO  .
-
-MER  .  .  .  .
-
-OZ  .  .  .  .
-
-SMAEAN  .  .
-
-SS .
-
-sv .
-
-TIVAS  .  .  .
-VO  .  .  .  .
-
-ZAO  .  .  .  .
-
-2MNP  .  .  .
-ZPORGO  .  .
-
-ZRAO  .  .  .
-ZVORAO  .  .
-
-ZV-SORGO  .
-
-
-Izvestiya  Vostocno-Sibirskago  Otdela  Russkago
-Geograficeskago  Obscestva.
-
-Materialy  po  Etnografii  Rossii.
-
-Ostasiatische  Zeitschrift.
-
-Sbornik  Muzeya  po  Antropologii  i  Etnografii  pri
-Akademii  Nauk.
-
-Sibirskiy  Sbornik.
-
-Sibirskiy  Vestnik.
-
-Trudy  IV  Archeologiceskago  Sezda  v  Rossii.
-
-Vostocnoe  Obozrenie.
-
-Zapiski  Archeologiceskago  Obscestva.
-
-Zurnal  Ministerstva  Narodnago  Prosvesceniya.
-
-Zapiski  Priamurskago  Otdela  Russkago  Geo¬
-graficeskago  Obscestva.
-
-Zapiski  Russkago  Archeologiceskago  Obscestva.
-
-Zapiski  Vostocnago  Otdeleniya  Russkago  Archeo¬
-logiceskago  Obscestva.
-
-Zapiski  Vostocno-Sibirskago  Otdela  Russkago
-Geograficeskago  Obscestva.
-
-
-II.  BIBLIOGRAPHY
-
-Agapitov,  N.  N.,  and  Changalov,  M.  N.,  “Samanstvo  u  buryat
-Irkutskoy  gubernii,”  in  IV— SORGO  xiv.  1-2.  Irkutsk,  1883.
-
-Altayskaya  cerkovnaya  mis  sty  a.  Petrograd,  1865.
-
-Anucin,  V.  I.,  “  Ocerk  samanstva  u  yeniseyskich  ostyakov,”  in
-SMAEAN  ii.  2.  Petrograd,  1914.
-
-Banzarov,  D.,  Cernaya  vera  Hi  samanstvo  u  mongolov.  Petrograd,
-1891.
-
-Batarov,  P.  P.,  “  Buryatskiya  poverya  o  bocholdoyach  i  anachayach,”
-in  ZV— SORGO  ii.  2.  Irkutsk,  1890.
-
-Bergeron-,  Pierre,  Voyages  fails  frincifalement  en  Asie  dans  les
-XII ,  XIIIy  XIV  et  XV  siecles  far  Benjamin  de  Tudeley  Jean  du
-Plan-Carfiny  N.  Asceliny  Guillaume  de  Rubruquisy  Marc  Paul
-V enitieny  Haitony  Jean  de  Mandeville  et  Ambroise  Contarini.
-2  vols.  La  Haye,  1735.
-
-
-582  SIBERIAN  MYTHOLOGY
-
-Bergmann,  B.,  N  omadische  Streifereien  unter  den  Kalmiicken.  Riga,
-1804-5.
-
-Bogoras,  W.,  The  Chukchee.  (The  Jesup  North  Pacific  Expeditiony
-vii.)  New  York,  1904.
-
-Braig,  C.,  “  Eine  mongolische  Kosmologie,”  in  Philosoph.  Jahrbuch ,
-ii.  1890.
-
-u  Buryatskiya  skazki  i  poverya,”  in  ZV-SORGO ,  i.  1.  Irkutsk,
-1889.
-
-Changalov,  M.  N.,  [a]  “  Novye  materialy  o  samanstve  u  buryat,”
-in  ZV— SORGO  ii.  1.  Irkutsk,  1890.
-
--  [b]  “  Predaniya  i  poverya  unginskich  buryat,”  in  ZV-
-
-SORGO  ii.  2.  Irkutsk,  1890.
-
-- [c]  “  Sud  zayanov  nad  lyudmi,”  in  ZV-SORGO  ii.  2.
-
-Irkutsk,  1890.
-
-Chudyakov,  I.  A.,  “  Verchoyanskiy  sbornik,”  in  ZV— SORGO  i.  3.
-Irkutsk,  1890.
-
-Dahnhardt,  O.,  Natursagen.  3  vols.  Leipzig  and  Berlin,  1907— 10.
-
-Fraehn,  Ch.  M.,  “  Die  altesten  arabischen  Nachrichten  uber  die
-Wolga-Bulgaren,  aus  Ibn  Foszlan’s  Reiseberichten,”  in  Me-
-moires  de  P  A  cademie  Imp.  dcs  Sciences y  vi.  Sc.  politiques,  his-
-toire  et  philologie,  i.  St.  Petersburg,  1832.
-
-Galsan-Gomboyev,  “  O  drevnich  mongolskich  obycayach  i  sueveri-
-yach,”  in  ZAO  xiii.  Petrograd,  1859.
-
-Gilmour,  J.,  Among  the  Mongols.  London,  1883.
-
-Gorochov,  N.,  [a]  “  Materialy  dlya  isuceniya  samanstva  v  Sibiri,”
-in  IV— SORGO  xiii.  3.  Irkutsk,  1882.
-
--  [b]  “  Yuryung-Uolan.  Jakutskaya  skazka,”  in  IV-SORGO
-
-xv.  5-6.  Irkutsk,  1885.
-
-Grunwedel,  A.,  Mythologie  des  Buddhismus  in  Tibet  und  der
-Mongolei.  Leipzig,  1900.
-
-Harlez  de,  Ch.,  La  Religion  nationale  des  Tartares  orientaux :
-Mandchous  et  Mongols.  Paris,  1887.
-
-Helmersen,  G.  von,  Reise  nach  dem  Altai  im  Jahre  1834  ausge~
-fiihrt.  Petrograd,  1848.
-
-Hilden,  Kaarlo,  “  Om  shamanismen  i  Altai,  speciellt  bland  lebed-
-tatarerna,”  in  Terra ,  1916.  Helsingfors,  1916.
-
-Historia  Orientalis  Haythoni  Armenii :  et  hvis  svbiectvm  Marci  Pavli
-veneti  Itinerarium.  Helmaestadii,  1635.
-
-Holmberg,  Uno,  [a]  “  Der  Baum  des  Lebens,”  in  A  ASF  xvi.
-Helsingfors,  1922-1923.
-
--  [b]  “The  shaman  costume  and  its  significance,”  in  Annales
-
-Universitatis  F ennicae  Aboensis ,  i.  no.  2.  Turku,  1922.
-
-Hue,  E.  R.,  Souvenirs  dyun  voyage  dans  la  Tartariey  le  Thibet  et  la
-Chine.  Paris,  1850.
-
-
-1
-
-
-BIBLIOGRAPHY  583
-
-Ionov,  V.  M.,  “  Duch-chozyain  lesa  u  yakutov,”  in  SMAEAN  iv.  i.
-Petrograd,  1916.
-
-Ivanovskiy,  A.,  “  Dyavol-tvorec  solnca,”  in  EO  no.  4.  Moscow,
-1890.
-
-Jochelson,  W.,  [a]  Materialy  po  izuceniyu  yukagirskago  yazyka  i
-folklora ,  i.  ( Trudy  Yakutskoy  Ekspeditsiiy  iii.  9.  3).  Petrograd,
-1900.
-
--  [b]  The  Koryak .  ( The  Jesup  North  Pacific  Expeditiony  vi.)
-
-New  York,  1905.
-
-Kamenskiy,  N.,  Sovremennyja  ostatki  yazyceskich  ohryadov  i  reli -
-gioznych  verovaniy  u  cuvas.  Kazan,  1869.
-
-Katanov,  N.,  “  Skazaniya  i  legendy  minusinskich  tatar,”  in  SS  1887.
-Petrograd.
-
-Klemenc,  D.,  “  Neskolko  obrazcov  bubnov  minusinskich  inorodcev,”
-in  ZV— SORGO  ii.  2.  Irkutsk,  1890.
-
-Koblov,  Y.,  “  Mifologia  kazanskich  tatar,”  in  IOIAE  xxvi.  5.
-Kazan,  1910.
-
-- Religioznye  obryady  i  obycai  tatar  magometan.  Kazan,
-
-1908.
-
-Kotvic,  V.,  “  Materialy  dlya  izuceniya  tungusskich  nareciy,”  in  Z St
-
-1909,  ii— iii.  Petrograd.
-
-Kraseninnikov,  S.,  Opisanie  Zemli  Kamcatki.  Petrograd,  1819.
-Landysev,  S.,  “  Kosmologiya  i  Feogoniya  altaycev  yazycnikov,”  in
-PS  1886.  Kazan.
-
-Lankenau,  H.  v.  “  Die  Schamanen  und  das  Schamanenwesen,”  in
-Globusy  xxii.  Braunschweig,  1872.
-
-Lassy,  Ivar,  The  Muharram  mysteries  among  the  Azerbeijan  Turks
-of  Caucasia.  Helsingfors,  1916.
-
-Ledebour,  C.  F.  von,  Reise  durch  das  Altai-Gebirge  und  Soongo ->
-rische  Kir gi sen-Steppe y  2  vols.  Berlin,  1829—30.
-
-Maak,  R.,  [a]  Putesestvie  na  Amur.  Petrograd,  1889.
-
-■ -  [b]  Vilyujskiy  okrug  yakutskoy  oblasti.  Petrograd,  1887.
-
-Magnitskiy,  V.,  Materialy  k  obyasneniyu  staroy  cuvasskoy  very.
-Kazan,  1881.
-
-Maynagasev,  S.  D.,  <£  2ertvoprinosenie  nebu  u  beltirov,”  in
-
-SMAEAN  iii.  Petrograd,  1916.
-
-Maksimov,  S.,  “  Ostatki  drevnich  narodno  tatarskich  (yazyceskich)
-verovaniy  u  nynesnich  krescenych  tatar  Kazanskoy  gubernii,”  in
-IKE  1876.  Kazan.
-
-Meszaros,  Gyula,  A  csuvas  osvallas  emlekei.  Budapest,  1909.
-Meszaros,  J.,  “  Osmanisch-tiirkischer  Volksglaube,,,  in  KSz  vii.
-Budapest,  1906.
-
-Michailov,  V.  I.,  “  Obryady  i  obycai  cuvas,”  in  ZRGO  xvii.  2.
-Petrograd,  1891.
-
-
-584  SIBERIAN  MYTHOLOGY
-
-Michaylovskiy,  V.  M.,  “  Samanstvo,”  in  lOLEAE  lxxv.  Trudy
-etnograficeskago  otdela ,  xii.  Moscow,  1892.
-
-Middendorff,  A.  Th.  v.,  Reise  in  den  aussersten  N orden  und  Osten
-SibirienSy  iii.  1  and  iv.  2.  Petrograd,  1851  and  1875.
-
-Milkovic,  “  Byt  i  verovaniya  cyvas  Simbirskoy  gubernii  v  1783
-godu,”  in  <SGF  1851,  no.  42.  Simbirsk.
-
-Mordvinov,  A.,  “  Inorodcy  obytayuscie  v  Turuchanskom  krae,”  in
-VRGO  i860,  ii.  Petrograd.
-
-Nansen,  F.,  Gjennem  Sibirien.  Copenhagen,  1915.
-
-Nasyrov,  K.,  “  Poverya  i  primety  kazanskich  tatar,”  in  ZRGO  vi.
-Petrograd,  1880.
-
-Nikolskiy,  N.,  Kratkii  konsfekt  fo  etnografii  cuvas.  Kazan,
-
-1 9 1 1  •
-
-Nordenskiold,  A.  E.,  Vegas  fard  kring  Asien  och  Eurofa.  Stock¬
-holm,  1880-81.
-
-Olsen,  0rjan,  Et  frimitivt  folk.  De  mongolske  rennomader.
-Christiania,  1915.
-
-“  O  proischosdenii  severo-baykalskich  buryat.”  Pamyatnaya  knizka
-Irkutskoy  gubernii  “za  1881  g.  Irkutsk,  1881.
-
-Pallas,  P.  S.,  Scmvmlungen  historischer  N achrichten  uber  die  mongo -
-lischen  V bikers chaf ten.  2  vols.  Petrograd,  1776—1801.
-Parker,  E.  H.,  “  Mongols,”  in  ERE  viii.  806  f.
-
-Pekarskiy,  E.,  “  Plasc  i  buben  yakutskago  samana,”  in  MER  i.
-Petrograd,  1910.
-
-Pekarskiy,  E.  K.  and  Cvetkov,  V.  P.,  “  Ocerki  byta  priayanskich
-tungusov,”  in  SMAEAN  ii.  1.  Petrograd,  1913.
-
-“  Pervyi  buryatskiy  saman  c  Morgan  Chara,’  ”  in  IV— SORGO  xi.  1—2.
-Irkutsk,  1880.
-
-“  Pervyj  saman  Bocholi-Chara,”  in  IV-SORGO  xi.  1-2.  Irkutsk,
-1880.
-
-P odgorbunskiy,  S.  I.,  “  Idei  buryat  samanistov  o  duse,  smerti,
-zagrobnom  mire  i  zagrobnoy  zizni,”  in  IV-SORGO  xxii.  no.  1.
-Irkutsk,  1891.
-
-Potanin,  G.  N.,  [a]  “  Gromovnik  po  poveriyam  yuznoy  Sibiri  i
-severnoy  Mongolii,”  in  ZMNP  1882,  no.  1.  Petrograd.
-
-- [b]  Ocerki  severo-zafadnoy  Mongoliiy  vols.  ii  and  iv.
-
-Petrograd,  1881  and  1883.
-
-P oyarkov,  F.,  “  Iz  oblasti  kirgizskich  verovaniy,”  in  EO  1891,  no.  4.
-Moscow.
-
-Pozdneyev,  A.,  [a]  “  Kalmytskiya  skazki,”  in  ZVORAO  vols.  iii,
-iv,  vi,  vii,  ix  and  x.  Petrograd,  1889-1897.
-
--  [b]  Mongoliya  i  mongoly .  Petrograd,  1896.
-
-Priklonskiy,  V.  L.,  [a]  “Tri  goda  v  Yakutskoy  oblasti,”  in  2St
-1891,  iii-iv.  Petrograd.
-
-
-BIBLIOGRAPHY  585
-
-- [b]  “  Yakutskiya  narodnyja  poverya  i  skazki,”  in  rZSt  1891.
-
-Petrograd.
-
-Pripuzov,  N.  P.,  [a]  c<  Melkiya  zametki  o  yakutach,”  in  ZV-
-SORGO  ii.  2.  Irkutsk,  1890.
-
--  [b]  “  Svedeniya  dlya  izuceniya  samanstva  u  yakutov  Yakut-
-
-skago  okruga,”  in  IV— SORGO  xv.  3-4.  Irkutsk,  1885.
-
-Prokopyev,  K.,  “  Pochorony  i  pominki  u  cuvas,”  in  IOAEI  xix.  5.
-Kazan,  1903.
-
-Radloff,  W.,  [a]  A  us  Sibirien.  2  vols.  Leipzig,  1884.
-
--  [b]  “  Mifologia  i  mirosozercanie  ziteley  Altaya,”  in  VO
-
-1882,  no.  7.
-
--  [c]  Proben  der  V olkslitteratur  der  tilrkischen  Stamme  Sud-
-
-Sibiriens.  3  vols.  Petrograd,  1866,  1868  and  1870.
-
-Recueil  de  Voyages  et  de  Memoiresy  publ.  par  la  Societe  de  Geog¬
-raphic,  i— iv.  Paris,  1824—1836.
-
-Saskov,  S.,  “  Samanstvo  v  Sibiri,”  in  ZRGO  1864,  2.  Petrograd,
-1864.
-
-Sboyev,  V.,  Cuvasi  v  bytovomy  istoriceskom  i  religioznom  otnoseni -
-yach.  Moscow,  1865.
-
-Schiefner,  A.,  Heldensagen  der  mlnusinskischen  Tatar en.  Petro¬
-grad,  1859.
-
-Schmidt,  I.  J.,  [a]  Forschungen  im  Gebiete  der  dlteren  religioseny
-politischen  und  liter  arischen  Bildungsgeschichte  der  V  biker
-Mittel-Asiensy  vorzuglich  der  Mongolen  und  Tibeter.  Petro¬
-grad  and  Leipzig,  1824.
-
-- [b]  Geschichte  der  Ost-Mongolen  und  Hires  Furstenhausesy
-
-von  Ssanang  Ssetsen.  Petrograd,  1829.
-
-Schott,  W.,  [a]  Altaische  Studien.  Berlin,  i860.
-
-- [b]  Alteste  Nachrichten  von  Mongolen  und  Tatar  en.
-
-Berlin,  1845.
-
-- [c]  Uber  den  Buddhaismus  in  Hochasien  und  in  China.
-
-Berlin,  1846.
-
-Schrenk,  L.  v.,  Die  V biker  des  Amur-Landes.  ( Reisen  und  For -
-,  schungen  im  Amur-Landey  iii.  2,  3.)  Petrograd,  1891—95.
-
-Scukin,  N.,  Poyezdka  v  Jakutsk.  Petrograd,  1844.
-
-Serosevskiy,  V.  L.,  Yakuty.  Petrograd,  1896.
-
-Simkevic,  P.  P.,  “  Materialy  dlya  izuceniya  samanstva  u  goldov,”  in
-ZPORGO  i.  2.  Chabarovsk,  1896.
-
-Sirokogorov,  S.  M.,  Opyt  izsledovaniya  osnov  samanstva  u  tungusov.
-Vladivostok,  1919.
-
-“  Skazaniya  buryat,  zapisannyja  raznymi  sobiratelyami,”  in  ZV—
-SORGO y  i.  2.  Irkutsk,  1890.
-
-Sofiyskiy,  1.  M.y  “  O  kiremetyach  krescenych  tatar,”  in  T1VAS.
-Kazan,  1891.
-
-
-586  SIBERIAN  MYTHOLOGY
-
-Solovyev,  F.,  “  Ostatki  yazycestva  u  yakutov,”  in  Sbornik  gazety
-“  Sibir”  i.  Petrograd,  1876.
-
-Spasskiy,  G.,  “  Zabaykalskie  tungusy,”  in  SF  xix— xx.  1822.  Petro¬
-grad.
-
-Spicyn,  A.  A.,  “  Samanizm  v  otnosenii  k  russkoi  archeologii,”  in
-ZRAO  xi.  Petrograd,  1899.
-
-Stadling,  J.,  “  Shamanismen  i  norra  Asien,”  in  Populara  etnologiska
-skriftery  7.  Stockholm,  1912.
-
-Steller,  G.  W.,  Beschreibung  von  Kamtschatka.  Frankfurt  and
-Leipzig,  1774.
-
-Sumcov ,  N.  F.,  “  Otgoloski  christianskich  predaniy  v  mongolskich
-skazkach,”  in  EO  no.  3.  Moscow,  1890.
-
-7  CHIHATCHEFF,  Pierre  DE,  Voyage  scientifique  dans  P Altai  oriental
-et  les  'parties  adjacentes  de  la  frontier e  de  Chine .  Paris,  1845.
-
-Thomsen,  Vilh.,  “  Inscriptions  de  l’Orkon,”  in  MSFO.  Helsing¬
-fors,  1896.
-
-Tretyakov,  P.  I.,  Turuchanskiy  kray y  ego  priroda  i  ziteli.  Petro¬
-grad,  1871.
-
-Troscanskiy,  V.  F.,  Evolutsiya  cernoy  very  u  yakutov.  Kazan,
-1902.
-
-Vambery,  H.,  [a]  Die  primitive  Cultur  des  turko-tatarischen  Volkes.
-Leipzig,  1879.
-
-■ - [b]  “  Noten  zu  den  alttiirkischen  Inschriften  der  Mongolei
-
-und  Sibiriens,”  in  MSFO  xii.  Helsingfors,  1899.
-
-Vasilyev,  V.  N.,  [a]  “  Izobrazeniya  dolgano-yakutskich  duchov  kak
-atributy  samanstva,”  in  ZSt  1909.  Petrograd.
-
--  [b]  “  Samanskiy  kostyum  i  buben  u  yakutov,”  in  SMAEAN
-
-viii.  Petrograd,  1910.
-
-Verbitskiy,  V.  I.,  Altayskie  inorodcy.  Sbornik  etnografceskich
-statey  i  izsledovaniy.  Moscow,  1893.
-
-Veselovskiy,  A.,  [a]  “  K  voprosu  o  dualisticeskich  kosmogoniyach,”
-in  EO  1890,  no.  2.  Moscow,  1890.
-
--  [b]  Razyskaniya  v  oblasti  russkago  duchovnago  sticha  (xi—
-
-xvii),  v.  Petrograd,  1889.
-
-V-skiy,  N.,  “  Materialy  dlya  izuceniya  samanstva  u  yakutov,”  in
-ZV— SORGO  ii.  2.  Irkutsk,  1890.
-
-Zatoplyayev,  N.,  <c  Nekotoryja  poverya  alarskich  buryat,”  in  ZV—
-SORGO  ii.  2.  Irkutsk,  1890.
-
-Zitetskiy,  I.  A.,  “  Ocerki  byta  Astrachanskich  Kalmykov,”  in
-IOLEAE  lxxvii.  1.  Trudy  etnograficeskago  otdelay  xiii.  1.
-Moscow,  1893.
-
-Zolotnitskiy,  N.  I.,  Kornevoy  cuvassko-russkiy  slovar.  Kazan,
-1875.
-
-
-BIBLIOGRAPHY
-
-
-587
-
-
-PRINCIPAL  ARTICLES  ON  FINNO-UGRIANS  AND  SI¬
-BERIANS  IN  THE  ENCYCLOPEDIA  OF  RELIGION
-AND  ETHICS
-
-Beveridge,  J.,  “  Kalevala,”  vii.  641—2.
-
-Billson,  C.  J.,  “  Names  (Lapp),”  ix.  270-1.
-
-- “Prayer  (Finns  and  Lapps),”  x.  181-2.
-
-Czaplicka,  M.  A.,  “  Ostyaks,”  ix.  575-81.
-
-- “  Samoyed,”  xi.  172-7.
-
-- “  Siberia,  Sibiriaks,  Siberians,”  xi.  488-96.
-
-- “  Tungus,”  xii.  473-6.
-
-- “Turks,”  xii.  476-83.
-
-- “Yakut,”  xii.  826-9.
-
-Holmberg,  U.,  “  Lapps,”  vii.  797-800.
-
-- “Priest,  Priesthood  (Ugro-Finnish),”  x.  335-6.
-
-Klementz,  D.,  “  Buriats,”  iii.  1— 1 7.
-
-Krohn,  K.,  “Ancestor-Worship  and  Cult  of  the  Dead  (Ugro-
-Finnish),”  i.  467.
-
-- “  Birth  (Finns  and  Lapps),”  ii.  647-8.
-
-- “  Finno-Ugrians,”  vi.  22—3.
-
-- “Finns  (Ancient),”  vi.  23—6.
-
-- “  Kalevala,”  vii.  639—41.
-
-MacCulloch,  J.  A.,  “Shaman,”  xi.  441-6.
-
-MacRitchie,  D.,  “  Images  and  Idols  (Lapps  and  Samoyeds),”  vii.
-148-50.
-
-Paasonen,  H.,  “  Mordvins,”  viii.  842-7.
-
-
-.
-
-
--
-
-
--
-
-
-,
-
-
-1
-
-
-I
-
-
-!
-
-
-:

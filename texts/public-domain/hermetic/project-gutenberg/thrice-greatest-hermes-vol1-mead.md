@@ -65,6 +65,64 @@ figures:
 
 # Thrice-Greatest Hermes, Vol. I: Prolegomena
 
+This is a digital copy of a book that was preserved for generations on library shelves before it was carefully scanned by Google as part of a project
+to make the world's books discoverable online.
+
+It has survived long enough for the copyright to expire and the book to enter the public domain. A public domain book is one that was never subject
+to copyright or whose legal copyright term has expired. Whether a book is in the public domain may vary country to country. Public domain books
+are our gateways to the past, representing a wealth of history, culture and knowledge that's often difficult to discover.
+
+Marks, notations and other marginalia present in the original volume will appear in this file - a reminder of this book's long journey from the
+publisher to a library and finally to you.
+
+Usage guidelines
+
+Google is proud to partner with libraries to digitize public domain materials and make them widely accessible. Public domain books belong to the
+public and we are merely their custodians. Nevertheless, this work is expensive, so in order to keep providing this resource, we have taken steps to
+prevent abuse by commercial parties, including placing technical restrictions on automated querying.
+
+We also ask that you:
+
++ Make non-commercial use of the files We designed Google Book Search for use by individuals, and we request that you use these files for
+personal, non-commercial purposes.
+
++ Refrain from automated querying Do not send automated queries of any sort to Google's system: If you are conducting research on machine
+translation, optical character recognition or other areas where access to a large amount of text is helpful, please contact us. We encourage the
+use of public domain materials for these purposes and may be able to help.
+
++ Maintain attribution The Google "watermark" you see on each file is essential for informing people about this project and helping them find
+additional materials through Google Book Search. Please do not remove it.
+
++ Keep it legal Whatever your use, remember that you are responsible for ensuring that what you are doing is legal. Do not assume that just
+because we believe a book is in the public domain for users in the United States, that the work is also in the public domain for users in other
+countries. Whether a book is still in copyright varies from country to country, and we can't offer guidance on whether any specific use of
+any specific book is allowed. Please do not assume that a book's appearance in Google Book Search means it can be used in any manner
+anywhere in the world. Copyright infringement liability can be quite severe.
+
+About Google Book Search
+
+Google's mission is to organize the world's information and to make it universally accessible and useful. Google Book Search helps readers
+discover the world's books while helping authors and publishers reach new audiences. You can search through the full text of this book on the web
+
+
+at |http : //books . google . com/
+
+
+Thrice-Greatest Hermes
+
+
+Hosted by
+
+
+Google
+
+
+Hosted by
+
+
+Google
+
+
 Thrice-Greatest Hermes
 
 Studies in Hellenistic Theosophy
@@ -512,7 +570,7 @@ V Ptah-Thoth the Wise One . . . .132
 
 Egyptian Syncretism 1000 B.C. . . . 135
 
-The Doctrine of " P emandres " Compared with that
+The Doctrine of " P<emandres " Compared with that
 
 of its Prototype . . , . .136
 
@@ -1583,7 +1641,7 @@ irt^s-nmples commentaires,'^ ^ all of which is followed by
 i\m full name and titles of Plussas, to wit, " TranQois
 Monsieur de Foix, de la famille de Candalle, Captal
 d«i liuchs, etc., Evesque d'Ayre, etc.,*' the whole being
-tl H Heated to "Marguerite de France, Eoine de Navarre."
+tl<H Heated to "Marguerite de France, Eoine de Navarre."
 
 'twelve years later Franciscus Patricius (Cardinal
 Francesco Patrizzi) printed an edition of the text of
@@ -4078,7 +4136,7 @@ venerated,'' as Budge lamely surmises.
 
 1 See my Orpheus (London, 1896), pp. 39 and 44 ff.
 
-2 Of, Philo, De Som., i. (v. 92— Pfeiff}— rb tra^iroiKiKoy t,4>a TtJL x.
+2 Of, Philo, De Som., i. (v. 92— Pfeiff}— rb tra^iroiKiKoy t,4>a<TtJL<x.
 rovrovl rhv KScfxoy.
 
 3 Eschenbach (A. C), Epigems de Foesi OrpMca (Niirnberg,
@@ -5007,6 +5065,8 @@ interpretation I
 
 VOL. 1. 6
 
+Hosted by Google
+
 
 IV
 
@@ -5753,7 +5813,7 @@ and strength in fire, who hast thy throne within the
 
 seven poles.^
 
-^ ws KvpoK4(f)a\os. Can it be possible that behind this strange
+^ ws KvpoK4‹f›a\os. Can it be possible that behind this strange
 symbolism tbere may once have been some such idea as this — that
 as the ape is to man, so was this great elemental to the God ?
 
@@ -5837,7 +5897,7 @@ spiritual sun, might have the epithet Memnonian applied to it.
 But in our present lack of information, this interpretation
 seems very strained.
 
-"■* 5 f|ai — here meaning powers.
+"■* 5<f|ai — here meaning powers.
 
 
 Hosted by
@@ -6870,7 +6930,7 @@ s See Pietschmann, op. sup. cit., p. 35.
 6 In Greek not only is the term rpitrfxaKap (thrice-blessed)
 applied to Hermes in the inscriptions of Pselcis (see Letronne's
 Recueil, i. 206 n.), but also in a Magical Prayer (Wessely, 1893—
-p. 38, 11. 550 ff, ; Kenyon, p. 102) he is addressed as rpi rix4yas, or
+p. 38, 11. 550 ff, ; Kenyon, p. 102) he is addressed as rpi<rix4yas, or
 "thrice-great" simply.
 
 
@@ -6959,7 +7019,7 @@ appears for the first time in Egyptian literature, is the
 equivalent of Tpia-jULeyLcrrog [thrice - greatest], a late
 epithet first used about the date of this MS.^ 6 is
 fjiiyag [great], which we may represent algebraically by
-a; 6 6 (2 x), a common title of Thoth in late hiero-
+a; 6 6 (2<x), a common title of Thoth in late hiero-
 glyphic, is /x€ya9 koI fxeyag [great and great] on the
 Eosetta Stone, but probably represents juLeytcrTog
 [greatest], and So is therefore rpio-jUieyiaTo? [thrice-
@@ -9227,6 +9287,8 @@ Luke XX. 17 ; Acts iv. 11.
 
 VOL. L 11
 
+Hosted by Google
+
 
 162 THRICE-GREATEST HERMES
 
@@ -9706,7 +9768,7 @@ else.
 Roscher, ii. 1587-1628.
 
 3 Kopvfias, the Lord of the Corybantes, or frenzied priests of
-Cybele, is thus feigned by mystical word-play to be 6 aTrh-Kopv p7js'
+Cybele, is thus feigned by mystical word-play to be 6 aTrh-Kopv<p7js'
 ^as, " he who descends from the head."
 
 ' Cf, C, § 14.
@@ -10105,7 +10167,7 @@ of G.
 
 7 A simple form of Matt. vii. 6. Is it by any means possible
 an underlying mystical word-play on the Eleusinian logos *' 06
-Kue " ; hence Is (pig) — a synonym of xo*po^ — and Kv av (dog) ?
+Kue " ; hence Is (pig) — a synonym of xo*po^ — and Kv<av (dog) ?
 
 8 This section seems to be misplaced, and § 25 probably
 followed § 23 immediately in the original ; the antithesis of Fruit-
@@ -11044,7 +11106,7 @@ to which we must assign the sources of J.
 
 3 Or, of the Whole.
 
-* The Codex has €\a povt which, with Miller, we correct into
+* The Codex has €\a<povt which, with Miller, we correct into
 ihd(t>ov. Is this a parallel with the " lost sheep " idea ? Can it
 l^ossibly connect with the conception underlying the ^Dhrases on
 the golden tablets found in tombs of " Orphic " initiates, on the
@@ -11126,7 +11188,7 @@ comments following Hermes-Prayer v., p. 92.
 Forms of all the Powers.
 
 ^ Is it, however, possible that the original Hymn had Naas
-(Mdau) and not Gnosis (Tyw rty) ?
+(Mdau) and not Gnosis (Tyw<rty) ?
 
 
 Hosted by
@@ -13666,7 +13728,7 @@ medicine for ail the wounds and passions of the soul,
 which [Word], the lawgiver declares, we should restore
 * before the sun's going down'^ — that is, before the
 
-1 Ps. xxvii. 1. A.V. "salvation." LXX. reads  p(aTia-fx6s,
+1 Ps. xxvii. 1. A.V. "salvation." LXX. reads <p(aTia-fx6s,
 "illumination" — a technical term among the mystics of Early
 Christendom for baptism — instead of the 0«s of Philo.
 
@@ -13992,7 +14054,7 @@ The Logos is the Pupil of God's Eye
 
 Philo also likens the Divine Eeason to the pupil of
 the eye — a figure that will meet us later in considering
-the meaning of the Kopn K6 riuLov ("Virgin of the
+the meaning of the Kopn K6<riuLov ("Virgin of the
 World") treatise — for he writes:
 
 1 The grain of mustard seed of the Gospels and of the " Gnostics."
@@ -14771,7 +14833,7 @@ Pythagorean term for gnosis.
 
 3 Cf. Ix. 2. The Egyptian of Isis is Ast.
 
-* r€rv pwfx4uos — a play on rvfpcov — lit., "wrapped in smoke
+* r€rv<pwfx4uos — a play on rvfpcov — lit., "wrapped in smoke
 (tD0os)j" and because one so wrapped in smoke or clouds has his
 intelligence darkened, hence " puffed up with conceit," crazy and
 demented. Typhon is the dark or hidden side of the Father.
@@ -14948,8 +15010,8 @@ Cut dry from green with flashing blade ^ —
 3 Tr^pliTcrcafia — also probably here a play on that which is " round
 the body " (-n-epl o-w/ta) — namely, the hair.
 
-4 epefXfxdTay — lit., "things nourished" (from rp4 p&>)y presum-
-ably a play on the " nourishment" {rpo(l)ii) above.
+4 epefXfxdTay — lit., "things nourished" (from rp4‹p&›)y presum-
+ably a play on the " nourishment" {rpo‹l›ii) above.
 
 ^ Of. et Dies, 741 f. This scrap of ancient gnomic wisdom
 Hesiod has preserved, I believe, from the "Orphic" fragments
@@ -15001,10 +15063,10 @@ or mystery logos. The "moist nature" is the feminine side of the
 season " is the common translation ; the " hour," however, is a
 technical astrological term.
 
-3 Vulg,, "lice-producing" — but  pe^ip also means a special kind
+3 Vulg,, "lice-producing" — but <pe^ip also means a special kind
 of pine producing small cones ; and the great cone was a symbol
 of the Logos, and the small cone of physical generation. It is
-also connected with  pe^ip a, meaning to corrupt, and so to breed
+also connected with <pe^ip<a, meaning to corrupt, and so to breed
 corruption.
 
 
@@ -15173,11 +15235,11 @@ crux ansata.
 7 If we read avr^ for avr^ it would suggest a mystic meaning,
 namely, " falls into his own snare."
 
-8 (paypov — Vulg., sea-bream ; but Hesychius spells it  pdywpos,
-connecting it with  paye7v, to devour.
+8 (paypov — Vulg., sea-bream ; but Hesychius spells it <pdywpos,
+connecting it with <paye7v, to devour.
 
 9 Or " his " (the Nile's) ; but the " self - sent messenger "
-(aifT iyy€\o$) seems to demand " their," and so suggests a mystical
+(aifT<iyy€\o$) seems to demand " their," and so suggests a mystical
 sense.
 
 
@@ -15501,7 +15563,7 @@ but move in the unimmeasurable."
 " date palm " (as opposed to a " pine "), and a " phoenix " ; in
 colour this was " purple red," " purple," or " crimson." The
 phoenix loro^per rose again from its ashes ; its colour was golden.
- pvT{f€iv means " plant," but also " engender," " beget."
+<pvT{f€iv means " plant," but also " engender," " beget."
 
 ^ fidxaipa was, in Homeric times, the technical term for the
 sacred sacrificial knife — the knife that kills and divides the
@@ -16326,7 +16388,7 @@ from Hippolytus concerning the " Gnostics."
 
 2 Presumably of the fourteen sacred ones.
 
-^ XeiridwrSv. ^  pdypoy, ^ 6^{>pvyxov.
+^ XeiridwrSv. ^ ‹pdypoy, ^ 6^{›pvyxov.
 
 ^ Anthropologically, " taboo."
 
@@ -16541,7 +16603,7 @@ and pouring of pourings, because many of the mystery-
 can make nothing out of it, I suggest vncrlriha. or vtiffiZdvnv {'t6\iv).
 
 3 ^fidih-ns — apparently an error ; Bernardakis suggests ixivBris
-(Lat. mentha\ " mint.'' Can the right reading be m^ikyis (ir Jas) ?
+(Lat. mentha\ " mint.'' Can the right reading be m^ikyis (ir<Jas) ?
 The herha medica was, however, the sainfoin or lucerne, which,
 though reminding us of the melilote of xiv., is hardly capable of
 overshadowing a tomb even in the most intricate symbolical sense.
@@ -16885,7 +16947,7 @@ beneficent daimones; but that there are natures in
 
 " Pythagorean technical terms.
 
-8 Ttt apri p(ava — the meaning seeming to be rather that of
+8 Ttt apri<p(ava — the meaning seeming to be rather that of
 " concord " than of " discord."
 '•^ An immediate pupil of Plato's,
 
@@ -17151,7 +17213,7 @@ XXX. 1. Osiris and Isis have, then, changed from
 good daimones into gods. While as for the dimmed
 and shattered power of Typhon, though it is at the last
 
-1 A contracted form of the former — from \/ TFe or \/ r€Tj with
+1 A contracted form of the former — from \/<TFe or \/<r€Tj with
 idea of " swiftness." (?) Serapis — sev-a-this — sevesthai,
 
 2 ado^/ffiop — unknown to the lexicons. I suggest that it may
@@ -17719,7 +17781,7 @@ what the Nile covers, sowing [her] with seed and
 mingling with her; and from this intercourse they
 give birth to Horus.
 
-3. And Horus is the season ( Spa) and [fair] blend of
+3. And Horus is the season (<Spa) and [fair] blend of
 air that keeps and nourishes all in the atmosphere —
 who, they say, was nursed by Leto in the marshes
 round Buto ; for the watery and soaked-through earth
@@ -17904,7 +17966,7 @@ the Sun, with untempered and harsh fire, burns and
 
 1 J7., iv. 365.
 
-2 A play on the "day's sail" (SpJ/Aov) and ava-^pafxod ray.
+2 A play on the "day's sail" (SpJ/Aov) and ava-^pafxod<ray.
 
 3 It is, of course, a very poor interpretation of the myth to talk
 only about floods and desert, sea and rain, etc. These are all
@@ -17963,7 +18025,7 @@ cepts and divorces them from one another, and divides
 2 Cf, the Stoic attributes of Heracles in xl. 7.
 
 3 If this is intended for the Great Sea of Space, it would be
-credible. ^ aPTi ppa^iy.
+credible. ^ aPTi<ppa^iy.
 
 ^ Square and Oblong were two of the fundamental " pairs of
 opposites " among the Pythagoreans. Cf, xlviii. 6.
@@ -20401,7 +20463,7 @@ falls asleep ^^ and loosens the distressing strain of the
 day's anxieties, as though they were knots, [and yet]
 without any intoxication.
 
-1 a TiraXdeovj — a prickly shrub yielding a fragrant oil ;
+1 a<TiraXdeovj — a prickly shrub yielding a fragrant oil ;
 mentioned in the Apocrypha and in some old herbalists. Cf^
 "I gave a sweet smell like cinnamon and aspalathus" — Ecclus.
 xxiv. 15. It was not the Genista acanthoclada,
@@ -20415,7 +20477,7 @@ English also " cicely."
 
 ^ Lit., juniper-berries.
 
-7 K i\afjLovy — probably A corns calamus (of. Ex. xxx. 23 et aL).
+7 K<i\afjLovy — probably A corns calamus (of. Ex. xxx. 23 et aL).
 It is to be noticed that the ingredients are arranged in four sets of
 four each.
 
@@ -21565,9 +21627,9 @@ Fourfold Root of Ever-flowing Nature."
 
 ^ Thus forming the Vortex Atom of the Cosmos.
 
-^ The text reads : koX oIJtws ^| h.KOv rrov rSov irdifirtav rh
+^ The text reads : koX oIJtws ^| h.KOv<rrov rSov irdifirtav rh
 vocrrifxdraTop. As i^ aKovcrrov has hitherto proved insoluble for
-all editors, I would suggest e| aKovo-lov, As to vo(Trtfi(l)rarop, L.
+all editors, I would suggest e| aKovo-lov, As to vo(Trtfi‹l›rarop, L.
 and S. are of little assistance unless it is taken in the sense of
 " ripest." Sophocles gives " essential, valuable, perfect, the best
 part of any thing."
@@ -21836,7 +21898,7 @@ Splendour, in order that it may make a slave of the
 
 1 d0ai/€s — the opposite of Phanes.
 
-2 Have we here any further clue to the title K Jpi) K6 TfjLov 1
+2 Have we here any further clue to the title K<Jpi) K6<TfjLov 1
 
 
 Hosted by
@@ -23141,7 +23203,7 @@ V quce sentiantur.
 Moon
 
 
-TO  pVTlKOV
+TO <pVTlKOV
 
 
 f natura plantandi
@@ -23765,7 +23827,7 @@ second life, whatever it may choose.^
 "And now is it that a Soul that once had had a
 man's life doth pass into a brute's life,^ and from a
 
-^ ^ iraid^panrriia-ayros /JUrh (t)i\ofro(pias — Stewart, "or loved his
+^ ^ iraid^panrriia-ayros /JUrh ‹t›i\ofro<pias — Stewart, "or loved his
 comrade in the bonds of wisdom " ; Jowett, " or a lover who is not
 devoid of philosophy " ; Taylor, " or together with philosophy has
 loved beautiful forms." I fancy that Plato has used this graphic
@@ -24385,7 +24447,7 @@ did not make their choice off-hand.
 1 A literary embellislimeiit from the Tragic Muse of Greece,
 and the mythical recitals of Thyestian banquets.
 
-2 €0€t ^Viv 4*i\oa'o pias,
+2 €0€t ^Viv 4*i\oa'o<pias,
 
 
 Hosted by
@@ -26108,3 +26170,4 @@ Hosted by
 
 
 Google
+

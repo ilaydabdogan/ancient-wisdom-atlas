@@ -1,0 +1,70 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_cu31924023520681
+  work_id: korean.corea_the_hermit_nation.griffis_archive
+  title: Corea, the Hermit Nation
+  source_url: https://archive.org/details/cu31924023520681
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/internet-archive/cu31924023520681-corea-the-hermit-nation-griffis.txt
+    checksum:
+      algorithm: sha256
+      value: 6cb3112b2096e438422dfa2798400e00827bb20d78dfcf7e1dcc264079656a72
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/internet-archive/cu31924023520681-corea-the-hermit-nation-griffis.md
+    checksum:
+      algorithm: sha256
+      value: 2fb942f10b54ba7390a1a4f76b33aa67c6dd60c2f588901df1f70c66a46d1fea
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+    checksum:
+      algorithm: sha256
+      value: 1859565df6c0efa6ca4b6ff4a9889914a9fd52d2fca29d357bcbcd570f838834
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids korean.corea_the_hermit_nation.griffis_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1889 (pre-1930), US public domain. Griffis's survey of Korean
+      history, religion, mythology, and folklore; author-prose ethnography with retold
+      myths and legends (paraphrase, with some quoted material). OCR of a scan; expect
+      OCR noise.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

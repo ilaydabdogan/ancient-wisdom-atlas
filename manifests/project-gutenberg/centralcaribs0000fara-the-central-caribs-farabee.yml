@@ -1,0 +1,70 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_centralcaribs0000fara
+  work_id: amazonian.the_central_caribs.farabee_archive
+  title: The Central Caribs
+  source_url: https://archive.org/details/centralcaribs0000fara
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/project-gutenberg/centralcaribs0000fara-the-central-caribs-farabee.txt
+    checksum:
+      algorithm: sha256
+      value: b10055cffab5a28ffba8d33beb177a2d1e442eda3fc63f1f50d193f54a4fbaf9
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/centralcaribs0000fara-the-central-caribs-farabee.md
+    checksum:
+      algorithm: sha256
+      value: 682c6c40d16c33512ebb90d0b8b34e36423cd226222387bdbd80b50a76f536a6
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/guiana-amerindian/project-gutenberg/the-central-caribs-farabee.md
+    checksum:
+      algorithm: sha256
+      value: 43aba05a2b45d12a425ea0ec5e060bc6e3e92bd13e79c6b20dd3ecd61cc90d99
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids amazonian.the_central_caribs.farabee_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1924, US public domain. Mixed verbatim/paraphrase - expedition
+      ethnography of Cariban groups of the Guiana highlands and upper Amazon watershed,
+      with recorded myths, cosmology, and rites of passage. Isolated lowland Carib
+      lineage; treat initiation and shamanic content as sensitive.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

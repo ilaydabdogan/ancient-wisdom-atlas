@@ -1,7 +1,5 @@
 # The Four Books: Confucian Analects, The Great Learning, The Doctrine of the Mean, and The Works of Mencius
 
-CONFUCIAN ANALECTS
-
 
 BOOK I. HSIO R
 
@@ -79,9 +77,6 @@ philosopher," "the scholar," "the
 officer," etc. Often, however, it is
 better to leave it untranslated.
 When it precedes the surname, it
-
-
-CONFUCIAN ANALECTS
 
 
 ffii A
@@ -170,9 +165,6 @@ thus: — "The occasions for pleasure
 are many, is this not also ont?" But
 
 
-CONFUCIAN ANALECTS
-
-
 lIL ?E
 
 
@@ -238,19 +230,14 @@ of all that is intended by ^ ( =ff )
 £;, below. The particles -& %
 resume the discourse about ^ 5$,
 and introduce some further description of them. See Premare, p. 158.
-^| , in the second tone, is hali intftrrogative, an answer in the affirma-
-tive being implied. (£l is explained
+^| , in the second tone, is hali intftrrogative, an answer in the affirmative being implied. (£l is explained
 here as "the principle of love," "the
 virtue of the heart." Mencius says
-— f- -til 4? A -tfe- " •£ is man," in accortiance with which, Julien trans-
-lates it by fwmanitas. Benevolence
+— f- -til 4? A -tfe- " •£ is man," in accortiance with which, Julien translates it by fwmanitas. Benevolence
 often comes near it, but, as has been
 said before of ^ =f-, we cannot
 give a uniform rendering oi the
 term.
-
-
-CONFUCIAN ANALECTS
 
 
 Ifl) Jh 0
@@ -263,21 +250,18 @@ insinuating appearance are seldom associated with true
 virtue."
 
 CHAPTER IV. The philosopher Tsang said, "I daily
-examine myself on three points: — whether, in transacting business for others, I may have been not faith-
-ful;— whether, in intercourse with friends, I may have
+examine myself on three points: — whether, in transacting business for others, I may have been not faithful;— whether, in intercourse with friends, I may have
 been not sincere; — whether I may have not mastered
 and practiced the instructions of my teacher. "
 
 
 '3. FAIR APPEARANCES ARE SUS-
-PICIOUS. 35 Q" •$• •(&, — see Shuching, II, iii, 2. jP;, "skill in work-
-manship"; then, "skill," "cleverness,"
+PICIOUS. 35 Q" •$• •(&, — see Shuching, II, iii, 2. jP;, "skill in workmanship"; then, "skill," "cleverness,"
 generally, and sometimes with a
 bad meaning, as here, =" artful,"
 "hypocritical." •(§-, "a law,", "an
 order," also "good," and hero like
-)£5') with a bad meaning, = " pretending tK) be good." •(&, "the mani-
-festation of the feelings made in the
+)£5') with a bad meaning, = " pretending tK) be good." •(&, "the manifestation of the feelings made in the
 color of the countenance," is hero
 used for the appearance generally.
 
@@ -307,8 +291,7 @@ place on the west, has. precedence
 of that of Mencius. ft, read hsing,
 "to examine." H ^ is naturally
 understood of "three times," but
-tho context and consent of commentators make us assent to the in-
-terpretation— "on three points." j|,
+tho context and consent of commentators make us assent to the interpretation— "on three points." j|,
 "tho body," "one's personality"; ft
 &= myself, ffi is in the fourth
 tone, = " for." So, frequently, below.
@@ -317,8 +300,7 @@ and ifr, "the heart, " = loyalty, faithfulness, action with and from the
 heart. Jffl, see chap. i. $C, "two
 hands joined," denoting union, ffl t
 ^, = whon together, "friends." f$ ^
-=»| is very enigmatical. The translation follows Chu Hsi. ffj § ex-
-plained quite differently: "whether
+=»| is very enigmatical. The translation follows Chu Hsi. ffj § explained quite differently: "whether
 I have given instruction in what I
 had not studied arid practiced?" It
 does seem more correct to take fg
@@ -326,9 +308,6 @@ actively, "to give instruction,"
 rather then passi%fely, "to receive
 instruction." See Mao Hsi-ho's pu,
 & & *fj, XV, article 17.
-
-
-CONFUCIAN ANALECTS
 
 
 Ifii M.
@@ -393,9 +372,6 @@ archery, horsemanship, writing, and
 numbers.
 
 
-CONFUCIAN ANALECTS
-
-
 CHAPTER VII. Tsze-hsia said, " If a man withdraws
 his mind from the love of beauty, and applies it as
 sincerely to the love of the virtuous ; if, in serving his
@@ -456,9 +432,6 @@ Jfc here=gj, "to give to," "to
 devote."
 
 
-CONFUCIAN ANALECTS
-
-
 CHAPTER VIII. 1. The Master said, "If the scholar
 be not grave, he will not call forth any veneration,
 and his learning will not be solid.
@@ -511,13 +484,9 @@ into error." The received interpretation, as in the transl., is better.
 2. 3fe, as a verb, "to hold to be
 chief." It is often used thus. 3. The
 object of friendship, with Chinese
-moralists, is to improve one's knowledge and virtue; — hence* this seem-
-ingly, but not really, selfish maxim.
+moralists, is to improve one's knowledge and virtue; — hence* this seemingly, but not really, selfish maxim.
 . 9. THE GOOD EFFECT OF ATTEN-
 TION CN THE PABT OF SUPELBIOBS
-
-
-CONFUCIAN ANALECTS
 
 
 -fft
@@ -551,8 +520,7 @@ and. steward should themselves submit to the immolation, which made
 them stop the matter. Tsze-kung,
 with the double surname ff§ jfc, and
 named |^, occupies a higher place in
-the Confucian ranks. He is conspicuous in this work for his steadi-
-ness and smartness in reply, and displayed on several occasions practical
+the Confucian ranks. He is conspicuous in this work for his steadiness and smartness in reply, and displayed on several occasions practical
 and political ability. ^, "a general
 designation for males," =a man. ^
 
@@ -577,9 +545,6 @@ to be understood that the way of the
 father had not been very bad. An
 old interpretation, that the three
 years are to be understood of the
-
-
-CONFUCIAN ANALECTS
 
 
 ilk ft
@@ -643,9 +608,6 @@ is taken jpy Ho Yen. It illustrates,
 ucc'crdmg to hiin) the difference
 
 
-CONFUCIAN ANALECTS
-
-
 Sfi.
 
 
@@ -704,11 +666,7 @@ SUCCESSIVB STEPS IN SELF-CULTIVA-
 TION. 1. Tsze-kung had been poor,
 and then did not cringe. He became
 rich and was not proud. He asked
-Confucius about the style of character to which he had attained, Con-
-fucius allowed its worth, but sent
-
-
-CONFUCIAN ANALECTS
+Confucius about the style of character to which he had attained, Confucius allowed its worth, but sent
 
 
 Jin ^ ^
@@ -772,9 +730,6 @@ chap, x, is a particle, a mere |& j$j,
 as it is called, "a helping or supporting word.''
 
 
-CONFUCIAN ANALECTS
-
-
 CHAPTER XVL The Master said, "I will not be
 afflicted at men's not knowing me; I will be afflicted
 that I do not know men."
@@ -833,8 +788,7 @@ which virtue in a ruler exercises
 without his using any effort. This
 is extravagant. His opponents say
 that virtue is the polar etar, and
-the various departments of government the other stare. This is far-
-fetched. We must be content to
+the various departments of government the other stare. This is farfetched. We must be content to
 accept the vague utterance without
 minutely determining its meaning,
 ^b ^ is, no doubt, " tho north polar
@@ -843,9 +797,6 @@ exactly with the place of the real
 pole. :&. in the third tone, used for
 ^, "to fold the hands in saluting,"
 here = "to turn respectfully towards."
-
-
-CONFUCIAN ANALECTS
 
 
 ffij
@@ -905,17 +856,13 @@ breaking the laws through fear of
 the punishment. 2. JJ& has the signification of "to como to," and "to
 correct," from either of which the
 text may be explained. — "will come
-to good,'* or "will correet themselves." Observe the different appli-
-cation of _§. and flj) in pars. 1 and
+to good,'* or "will correet themselves." Observe the different application of _§. and flj) in pars. 1 and
 2, i. i|jj="but"; It = " moreover."
 4. CONFUCIUS'S OWJM ACCOUNT OF
 HIS OBADUAI, PROGRESS AND ATTAIN-
 MENTS. Commentators are perplexed with this chapter. Holding
 of Confucius that £ jffj $n £, &
 jffj ^7- ;£, "he was porn with knowledge, and did what was right with
-
-
-CONFUCIAN ANALECTS
 
 
 •» t*PB ATiO
@@ -998,9 +945,6 @@ by the prsenomena of -ft. $L) and:p.
 To these was subsequently added
 
 
-CONFUCIAN ANALECTS
-
-
 , Jil
 
 
@@ -1049,8 +993,7 @@ parents. Cor"~p, the whole of Confucius's explanation with I, ix.
 6. THE ANXIETY or PABENTS
 
 ABOUT THEIR CHILDREN — AN ARGU-
-MENT FOR FILIAL PIETY. This enigmatical sentence has been inter-
-preted in two ways. Chu Hsi takes
+MENT FOR FILIAL PIETY. This enigmatical sentence has been interpreted in two ways. Chu Hsi takes
 "^ ( = tf)not'n the sense of "only,"
 but of "thinking anxiously. "—
 "Parents have the sorrow of thinking anxiously about their— i. e., their
@@ -1069,9 +1012,6 @@ son.
 
 
 jsi
-
-
-CONFUCIAN ANALECTS
 
 
 CHAPTER VII. Tsze-yu asked what filial piety was.
@@ -1099,8 +1039,7 @@ among "the wise ones." §| ia in the
 the act of an inferior to a superior.
 Chu Hsi gives a different turn to (ihe
 sentiment. — "But dogs and horses
-likewise manage to get their support." The other and older inter-
-pretation is better. §g ]fe, "Coming
+likewise manage to get their support." The other and older interpretation is better. §g ]fe, "Coming
 to," = as to, quoad. JJ'J = ".to discriminate," "distinguish."
 
 8. THE DUTIES OF FILIAL PIETY
@@ -1251,9 +1190,6 @@ Jt, here in 4th tone, =:" partial,"
 the reverse "
 
 
-CONFUCIAN ANALECTS
-
-
 ffii ffii
 
 
@@ -1320,9 +1256,6 @@ to be," "to consider," "to allow."
 for $c, "you "
 
 
-CONFUCIAN ANALECTS
-
-
 ffi
 
 
@@ -1386,9 +1319,6 @@ respectful and benevolent, early cut
 off.'' ^ 4^ = "The to-bo-iamented
 
 
-CONFUCIAN ANALECTS
-
-
 ffii St -T
 
 
@@ -1438,8 +1368,7 @@ influence. In y f/, ^ is said to =
 §fj, "to advise," "to teach," has also
 in the dictionary the meaning — -"to
 rejoice to follow," which is its force
-here, ^ ^, "the practice of goodness," being understood. Wang Yin-
-chth (on the Particles) says that in
+here, ^ ^, "the practice of goodness," being understood. Wang Yinchth (on the Particles) says that in
 this (and similar passages) £). unites
 the meanings of pi and fffj ; and this
 is the view which I have myself long
@@ -1452,9 +1381,6 @@ S& |^ ^L 3~) — the surname indicates
 that the questioner was not a disciple. Confucius had his reason for
 not being in office at the time bui it
 was not expedient to tell it. He
-
-
-CONFUCIAN ANALECTS
 
 
 saying, "Sir, wh3r-are you not engaged in the government?"
@@ -1568,9 +1494,6 @@ heaven, of the earth, of men." This
 chapter is not to be extended to all
 the three. It has reference only to
 the manes of departed men.
-
-
-CONFUCIAN ANALECTS
 
 
 •ffl,.
@@ -1707,9 +1630,6 @@ here is not $J ^, "the radical idea,"
 "the essence"; but = $r/, "the beginning" (opposed to ^), "the first
 
 
-CONFUCIAN ANALECTS
-
-
 fTfJ^
 
 
@@ -1775,9 +1695,6 @@ department city of T'ai-an (^ 5Jc), in
 Shantung. According to the ritual
 of China, sacrifice could only be
 offered to those mountains by the
-
-
-CONFUCIAN ANALECTS
 
 
 •til
@@ -1853,9 +1770,6 @@ sentences quoted by Tsze-hsiu are, it
 ia Huppo^oct, from a jj| j$, one of tho
 
 
-CONFUCIAN ANALECTS
-
-
 -til, fig
 
 is the meaning of the passage — 'The pretty dimples
@@ -1916,9 +1830,6 @@ a part also. of Honan. But the }£,
 countries, and their jgfc (=^, so in
 
 
-CONFUCIAN ANALECTS
-
-
 sufficiently attest my words. (They cannot do so)
 because of the insufficiency of their records and wise
 men. If those were sufficient, I could adduce them in
@@ -1969,12 +1880,8 @@ is akin to II, xxi. Confucius evades
 replying to his questioner, it being
 contrary to Chinese propriety to
 speak in a country of the faulty of
-its government or rulers !ft, "explanation, "^meaning. The anteced-
-ent to the second 2t- is the whole of
+its government or rulers !ft, "explanation, "^meaning. The antecedent to the second 2t- is the whole of
 the preceding clause:— "The relation
-
-
-CONFUCIAN ANALECTS
 
 
 jft #B
@@ -2051,9 +1958,6 @@ reference to sacrifice is simpler Ao
 might be tho more retired and
 honorable place, .but the tsdo was
 the moro important for the support
-
-
-CONFUCIAN ANALECTS
 
 
 2. The Master said, "Not so. He who offends
@@ -2200,9 +2104,6 @@ of restoring the whole. ^, in the
 away." It is disputed whether f&,
 
 
-CONFUCIAN ANALECTS
-
-
 I I I J P • * "*» i • * ^ /I-JUC* 1
 
 
@@ -2259,9 +2160,6 @@ OF THE LAND, AND LAMENT OF CON-
 FUCIUS THEREON. 1. ^ ^, 866 II,
 
 xix. Tsai Wo, by name -y-, and
-
-
-CONFUCIAN ANALECTS
 
 
 replied, "The Hsia sovereign planted the pine tree
@@ -2330,9 +2228,6 @@ than those sages, no hero worshipers, would allow. ^, see II, xii,
 but its significance here is different,
 
 
-CONFUCIAN ANALECTS
-
-
 o Jflfl)
 
 
@@ -2375,9 +2270,6 @@ being as regardless of prescribed
 forms, as in par. 2 of expense, and
 he came far short therefore of the
 Confucian idea of the Chiin-tsze.
-
-
-CONFUCIAN ANALECTS
 
 
 -tiL
@@ -2442,9 +2334,6 @@ metal bell with a wooden tongue,
 shaken in making announcements,
 
 
-CONFUCIAN ANALECTS
-
-
 nlw
 
 
@@ -2464,8 +2353,7 @@ said of the Wu that it was perfectly beautiful but not
 .perfectly good.
 
 CHAPTER XXVI. The Master said, "High station
-filled without indulgent generosity; ceremonies performed without reverence; mourning conducted with-
-out sorrow; — wherewith should I contemplate such
+filled without indulgent generosity; ceremonies performed without reverence; mourning conducted without sorrow; — wherewith should I contemplate such
 ways?"
 
 
@@ -2567,9 +2455,6 @@ moral. See nj in Index VII.
 -flL 0t
 
 
-CONFUCIAN ANALECTS
-
-
 CHAPTER III. The Master said, "It is only the
 (truly) virtuous man, who can love, or who can hate,
 others."
@@ -2614,9 +2499,6 @@ in," nor "go away from," riches and
 honors. 2. M, read wu, the 1st
 
 
-CONFUCIAN ANALECTS
-
-
 2. "If a superior man abandon virtue, how can he
 fulfill the requirements of that name ?
 
@@ -2634,8 +2516,7 @@ allow anything that is not virtuous to approach his
 person.
 
 
-tone, ' ' how. " % , " name , " not reputation, but the name of a chun-
-tsze, which he bears. 3. & ^£ £. [Ml,
+tone, ' ' how. " % , " name , " not reputation, but the name of a chuntsze, which he bears. 3. & ^£ £. [Ml,
 "The space in which a meal can be
 finished;" meaning a short time, jfi
 #: (interchangeable with Ipl #;) and
@@ -2664,9 +2545,6 @@ or those who," but sometimes also =
 "that or those things which." f^ =
 Jn) "to add to." Morrison, character
 fiaj, translates the sentence wrongly —
-
-
-CONFUCIAN ANALECTS
 
 
 2. "Is any one -able for one day to apply his
@@ -2737,9 +2615,6 @@ evening! " Other views of the mean-
 IHL; have been proposed.
 
 
-CONFUCIAN ANALECTS
-
-
 %l J TJi^o )J ^H- JO
 
 AIL—*-* - -y»~
@@ -2792,9 +2667,6 @@ and plans about." .-h. "earth,"
 dwells amidst." May it not be used
 somewhat in our sense of earthly?
 — "thinks of what is earthly."
-
-
-CONFUCIAN ANALECTS
 
 
 It IRJ
@@ -2852,9 +2724,6 @@ sf\ not being imperative, we must
 supply a nominative, fft, "place,"
 i. e., an official situation. Jj/f £1 j£ is
 to be completed ffi $ jfc ^ Jl: tt-
-
-
-CONFUCIAN ANALECTS
 
 
 art nB
@@ -2936,9 +2805,6 @@ to be dwelt on, and may be compared with the Hebrew eth.
 sat s£
 
 mi liffl
-
-
-CONFUCIAN ANALECTS
 
 
 CHAPTER XVII. The Master said, "When we see
@@ -3048,9 +2914,6 @@ neuter verb renders the expression
 best in English.
 
 
-CONFUCIAN ANALECTS
-
-
 ffii
 
 
@@ -3092,9 +2955,6 @@ reproving. 8?f = "this," "this leads
 to," or "thereon is."
 
 
-CONFUCIAN ANALECTS
-
-
 BOOK V. KUNG-YE CH'ANG
 
 
@@ -3110,13 +2970,11 @@ brother to wife.
 
 
 HEADING OF THIS BOOK.— -£» }£ J^
-^ H- Kung-ye Ch'ang, the surname and name of the first indi-
-vidual spoken of in it, heads this
+^ H- Kung-ye Ch'ang, the surname and name of the first individual spoken of in it, heads this
 Book, which is chiefly occupied with
 the judgment of the sage on the
 character of several of his disciples
-and others. As the decision frequently turns on their being pos-
-sessed of that zan, or perfect virtue,
+and others. As the decision frequently turns on their being possessed of that zan, or perfect virtue,
 which is so conspicuous in the last
 Book, this is the reason, it is said,
 why the one immediately follows the
@@ -3158,9 +3016,6 @@ We cannot tell whether Confucius
 is giving his impression of Yung's
 character, or referring to events that
 had taken place.
-
-
-CONFUCIAN ANALECTS
 
 
 mfm
@@ -3227,9 +3082,6 @@ grant that Yung was {l, but his not
 being -g was in his favor rattier
 
 
-CONFUCIAN ANALECTS
-
-
 2. The Master said, "What is the good of being
 ready with the tongue? They who encounter men
 with smartnesses of speech for the most part procure
@@ -3293,9 +3145,6 @@ leave the world, and the idea of
 floating along the coasts pleased his
 
 
-CONFUCIAN ANALECTS
-
-
 Iff
 
 
@@ -3355,9 +3204,6 @@ to =?• 3$ £. \$, was the secondary
 JBl
 
 
-CONFUCIAN ANALECTS
-
-
 -K; S Jfc I
 
 
@@ -3409,9 +3255,6 @@ TSZE-KUNG. 2. ?g, "to look to,"
 of numbers, and ''ten" the completion; hence the meaning of §jj — PJ,
 
 
-CONFUCIAN ANALECTS
-
-
 3. The Master said, "You are not equal to him. I
 grant you, you are not equal to him."
 
@@ -3448,9 +3291,6 @@ head another chapter. Tsai Yii, —
 the same as Tsai Wo in III, xxi.
 
 
-CONFUCIAN ANALECTS
-
-
 -tiL
 
 
@@ -3469,8 +3309,7 @@ that."
 10. UNBENDING VIRTUE CANNOT
 COEXIST WITH INDULGENCE OF THE
 PASSIONS. Shan Ch'ang (there are
-several abases, but they are disputed) was one of the minor disci-
-ples, of whom little or nothing is
+several abases, but they are disputed) was one of the minor disciples, of whom little or nothing is
 known. He was styled -J- J?D, and
 his place is 31st, east, in the outer
 ranges, (fllj is to be understood with
@@ -3504,17 +3343,13 @@ should do unto you." tfi" = 1£; in
 "i& or JB J5", "to add upon," "to do
 
 
-CONFUCIAN ANALECTS
-
-
 ffii
 
 
 -tiL IL
 
 
-CHAPTER XII. Tsze-kung said, "The Master's personal displays of his principles and ordinary descrip-
-tions of them may be heard. His discourses about
+CHAPTER XII. Tsze-kung said, "The Master's personal displays of his principles and ordinary descriptions of them may be heard. His discourses about
 man's nature, and the way of Heaven, cannot be
 heard."
 
@@ -3534,8 +3369,7 @@ chapter i8 summed up but there is
 hardly another more perplexing to
 a translator. 3t Ip: is the common
 name for essays, elegant literary
-compositions. Of course that meaning is out of the question. What-
-ever is figured and brilliant is ^C;
+compositions. Of course that meaning is out of the question. Whatever is figured and brilliant is ^C;
 whatever is orderly and defined is
 Hfs.. The comm., accordingly, make
 }JC to be the deportment and manners of the sage, and ^. his ordinary
@@ -3566,9 +3400,6 @@ HUMOUS TITLES WERE CONFERRED.
 
 3$t, corresponding nearly to our
 " accomplished," was the posthumous title given to -J- g, an officer
-
-
-CONFUCIAN ANALECTS
 
 
 iir
@@ -3621,8 +3452,7 @@ more, and = ' ' ordering, " " regulating."
 
 16. . HOW TO MAINTAIN FRIEND-
 
-SHIP. "Familiarity breeds contempt," and with contempt friend-
-ship ends. It was not so with Yen
+SHIP. "Familiarity breeds contempt," and with contempt friendship ends. It was not so with Yen
 P'ing, another of the worthies of
 Confucius's time. He was a principal
 minister of Ch'i (^) by name ||.
@@ -3630,9 +3460,6 @@ P'ing (=" Ruling and averting calamity") was his posthumous title.
 , If we were to render \fy, the name
 would be "Yen P'ing, aecundue,"
 The antecedent to ^ is A-
-
-
-CONFUCIAN ANALECTS
 
 
 too It
@@ -3687,9 +3514,6 @@ TUE IS NOT TO BE LIGHTLY ACCORDED.
 was the name given to the chief
 minister of Ch'u (^). ^ is still
 applied to officers: e. g., the prefect
-
-
-CONFUCIAN ANALECTS
 
 
 lira
@@ -3795,15 +3619,10 @@ Mencius, VII, ii, ch. 37. ^ ^ £. /h
 J-, an affectionate way of speaking
 of the disciples. ;££, "mad," also
 "extravagant," "high-minded." The
-%£ are naturally fjfj, hasty and careless of minutiae. ^ $$, "accom-
-plished-] ike," ^, see chap. xii. Jife
+%£ are naturally fjfj, hasty and careless of minutiae. ^ $$, "accomplished-] ike," ^, see chap. xii. Jife
 i^, "something complete." ^, see
 chap, vi, but its application here
-is somewhat different. The antecedent to £. is all the preceding de-
-scription.
-
-
-CONFUCIAN ANALECTS
+is somewhat different. The antecedent to £. is all the preceding description.
 
 
 , ffii
@@ -3876,9 +3695,6 @@ of the "feet" to indicate respect.
 The discussions about Tso Ch'iuming are endless. See |ft $fe fft, I,
 
 
-CONFUCIAN ANALECTS
-
-
 Tso Ch'iu-ming was ashamed of them. I also am
 ashamed of them. To conceal resentment against a
 person, and appear friendly with him; — Tso Ch'iu-ming
@@ -3928,9 +3744,6 @@ Ho Yen's compilation jjf£ ^ is
 interpreted, not to impose troublesome affairs on others. Chu Hsi's
 
 
-CONFUCIAN ANALECTS
-
-
 Iff S. ±
 
 
@@ -3956,8 +3769,7 @@ sincere as I am, but not so fond of learning."
 
 
 view is better. 4. f=f ,£=|B| ^ $
-•f=, "To be with them with sincerity."— The Master and the dis-
-ciples, it is said, agreed in being
+•f=, "To be with them with sincerity."— The Master and the disciples, it is said, agreed in being
 devoid of selfishness. Hui's, however, was seen in a higher style of
 mind and object than Yu's. In the
 sage there was an unconsciousness
@@ -3987,9 +3799,6 @@ Jft, "honorable," "substantial." Confucius thus did not claim higher
 natural and moral qualities than
 others, but sought to perfect himself
 by learning.
-
-
-CONFUCIAN ANALECTS
 
 
 BOOK VI. YUNG YEY
@@ -4058,9 +3867,6 @@ Tsze-sang Po-tsze we know nothing
 certain but what is here stated.
 Chu Hsi seems to be wrong in
 approving the identification of him
-
-
-CONFUCIAN ANALECTS
 
 
 Iff
@@ -4157,9 +3963,6 @@ death of Confucius, he withdrew into
 retirement in Wei. It is related bv
 
 
-CONFUCIAN ANALECTS
-
-
 ill ± m)
 
 4. Tlie Master said, "Do not decline them. May
@@ -4212,9 +4015,6 @@ young. %, the 3rd tone,=», "to
 lay aside," "to put away." it ^
 
 
-CONFUCIAN ANALECTS
-
-
 -tfe
 
 
@@ -4245,8 +4045,7 @@ of various ability."
 
 
 5. THE SUPEBIOBITY OF H(Ji TO
-THE OTHER DISCIPLES. It is impossible to say whether we should trans-
-late here about Hui in the past or
+THE OTHER DISCIPLES. It is impossible to say whether we should translate here about Hui in the past or
 present tense. ^ is not jgt ^f, "to
 oppose," but gt ^, "to depart
 from." 0 JJ §?, "come to it," i. e.,
@@ -4267,9 +4066,6 @@ and -ffij /£f are set, the one expression
 against the other, the former indicating a doubt of the competency of the
 disciples, the latter affirming their
 more than competency.
-
-
-CONFUCIAN ANALECTS
 
 
 (CHAPTER VII. The chief of the Chi family sent to
@@ -4334,9 +4130,6 @@ of the apartment; but \\licn tlm
 prince vn'sited them, in order that Jiu
 
 
-CONFUCIAN ANALECTS
-
-
 have such a sickness! That such a man should have
 such a sickness!"
 
@@ -4387,9 +4180,6 @@ than he did. "Give over in the
 middle of the way," i. e., they go as
 long and as far as they can, and aro
 pursuing when th«y stop.
-
-
-CONFUCIAN ANALECTS
 
 
 -flic
@@ -4507,9 +4297,6 @@ of t'i3 age all turn on its fondness for
 specious talk. This cannot be right.
 
 
-CONFUCIAN ANALECTS
-
-
 Him
 
 
@@ -4589,9 +4376,6 @@ his preservation in such case is not
 merely a fortunate accident.
 
 
-CONFUCIAN ANALECTS
-
-
 if -tit,
 A JSl
 
@@ -4646,9 +4430,6 @@ clause that Fan Ch'ih was striving
 after what was uncommon and superhuman. For a full exhibition of the
 
 
-CONFUCIAN ANALECTS
-
-
 may be called wisdom." He asked about perfect
 virtue. The Master said, "The man of virtue makes
 the difficulty to be overcome his first business, and
@@ -4701,9 +4482,6 @@ iviid do, 4th tone,=^f $f, "to find
 pleasure in." The wise or knowing
 are active and restless, like the
 waters of a stream, ceaselessly flowing and advancing. The virtuous
-
-
-CONFUCIAN ANALECTS
 
 
 change, would come to the State of Lu. Lu, by one
@@ -4761,9 +4539,6 @@ of the text is due to a contemporary
 and teacher of Chu Hsi whom he
 calls Liu P'ing-chiin. it ... -fa indicate some doubt in Wo's mind.
 Observe the hophal force of jgr and
-
-
-CONFUCIAN ANALECTS
 
 
 j.i. Jfcfc _-
@@ -4840,8 +4615,6 @@ T11H PEOI'J.K IX CONFTCIUS'S TIME.
 1. thinking an interview with i See the Chung Yuny.
 
 
-CONFUCIAN ANALECTS
-
 Tfit iz£ §0 Ff /fnf
 liu trHo ^ PK IHJ
 
@@ -4868,8 +4641,7 @@ OF VIRTUE. There are no higher
 sayings in the Analects than we have
 here. 1. |{g, the 4th tone, "to confer
 benefits." 5i ^» — ^ i3 said to be
-"a particle of doubt and uncertainty," but it is rather the inter-
-rogative affirmation of opinion.
+"a particle of doubt and uncertainty," but it is rather the interrogative affirmation of opinion.
 Tsze-kung appears to have thought
 that great doings were necessary to
 virtue, and propounds a case which
@@ -4880,8 +4652,7 @@ of the ancient model sovereigns Yao
 and Shun. From such extravagant
 views the Master recalls him. 2.
 This is the description of fn ^f £. ifr
-f|, "the mind of the perfectly virtuous man," as void of all selfish-
-ness. 3. It is to be wished that the
+f|, "the mind of the perfectly virtuous man," as void of all selfishness. 3. It is to be wished that the
 idea intended by f| j£ Ifc iff had
 been morei clearly expressed. Still
 we seem to have here a near approach to a positive enunciation of
@@ -4968,9 +4739,6 @@ exposition of $f» |j| J& (about A. D.
 these things, I only have them. "
 
 
-CONFUCIAN ANALECTS
-
-
 ffi fi
 
 
@@ -5029,9 +4797,6 @@ son J3, (Tan) and the minister ^|
 brother, the first sovereign, Wu, was
 in arms. Confucius had longed to
 bring the principles and institutions
-
-
-CONFUCIAN ANALECTS
 
 
 Iff
@@ -5114,9 +4879,6 @@ TO IMPART INSTRUCTION. It Was the
 rule anciently that when one party
 
 
-CONFUCIAN ANALECTS
-
-
 upwards, I have never refused instruction to any
 one."
 
@@ -5179,9 +4941,6 @@ his condolences to a mourner, which
 was "a rule of propriety."
 
 
-CONFUCIAN ANALECTS
-
-
 Sfi.
 
 
@@ -5226,9 +4985,6 @@ appear, was jealous of the praise
 conferred on Hui, and, pluming himself on his bravery, put in for a share
 of the Master's approbation. But he
 only brought on himself this rebuke.
-
-
-CONFUCIAN ANALECTS
 
 
 H ffi
@@ -5297,8 +5053,7 @@ CONFUCIUS. The shdo, see III, xxv.
 This incident must have happened in
 the thirty-sixth year of Confucius,
 when he followed Duke Chao in
-his flight from Lu to Ch'i. As related in the Jfe. fE» "Historical Rec-
-ords, " before the characters 3i ^ )
+his flight from Lu to Ch'i. As related in the Jfe. fE» "Historical Records, " before the characters 3i ^ )
 * we have -l £, "he learned it three
 
 
@@ -5382,9 +5137,6 @@ and they got virtue;" i. e., such was
 the character of their conduct.
 
 
-CONFUCIAN ANALECTS
-
-
 IfB
 
 
@@ -5451,9 +5203,6 @@ followers do for him, to be a perfect
 man.
 
 
-CONFUCIAN ANALECTS
-
-
 ^ -fcc
 
 
@@ -5509,9 +5258,6 @@ medial, and again final.
 
 
 riit. =»
-
-
-CONFUCIAN ANALECTS
 
 
 ffii
@@ -5581,9 +5327,6 @@ I "change them," i. e., correct them in
 ! myself, avoid them.
 
 
-CONFUCIAN ANALECTS
-
-
 CHAPTER XXII. The Master said, "Heaven produced the virtue that is in me. Hwan T'ui— what can
 
 CHAPTER XXIII. The Master said, "Do you think,
@@ -5650,8 +5393,6 @@ vaguely the two latter subjects as
 distinguished from the second.
 
 
-CONFUCIAN ANALECTS
-
 ffii rffi
 
 
@@ -5667,8 +5408,7 @@ see; could I see a man possessed of constancy, that
 would satisfy me.
 
 3. "Having not and yet affecting to have, empty
-and yet affecting to be full, straitened and yet affecting to be at ease: — it is difficult with such character-
-istics to have constancy,"
+and yet affecting to be full, straitened and yet affecting to be at ease: — it is difficult with such characteristics to have constancy,"
 
 CHAPTER XXVI. The Master angled, — but did not
 use a net. He shot, — but not at birds perching.
@@ -5706,9 +5446,6 @@ and in taking that he would not take
 advantage of the inferior creatures.
 This chapter is said to be descriptive
 of him in his early life.
-
-
-CONFUCIAN ANALECTS
 
 
 -tiL
@@ -5759,9 +5496,6 @@ supposes some characters lost in the
 sentence p£ f3j ^. This is hardly
 necessary. *&, as in V, vii, 3,=jHs
 "to allow," "to concede to."
-
-
-CONFUCIAN ANALECTS
 
 
 fiB JL= M $•'&
@@ -5825,9 +5559,6 @@ called his wife by the surname Tsze
 (^-)t as if she had belonged to the
 
 
-CONFUCIAN ANALECTS
-
-
 Wu.' If the prince knew propriety, who does not
 
 know it?" ,
@@ -5879,9 +5610,6 @@ formed for the occasion. |^ If
 "an in -person-acting ckun-tsze."
 
 
-CONFUCIAN ANALECTS
-
-
 •nto m m
 
 
@@ -5921,8 +5649,7 @@ and confer the posthumous honorary
 title"; also, "to eulogize in prayer,"
 i. e., to recite one's excellences as the
 ground of supplication. Lei is a
-special form of composition corresponding to the French iloge, speci-
-mens of which are to be found in the
+special form of composition corresponding to the French iloge, specimens of which are to be found in the
 Wan Hsiian ( ^C H ). °^ prince Hsiiio
 T'ung. Wylie, "Notes on Chinese
 Literature," p. 192, calls them
@@ -5931,9 +5658,6 @@ been referring to some well-known
 collection of such compositions. In
 %a W. f$ may be taken as the pronoun. _h ~F= heaven and earth, jfff
 being the appropriate designation of
-
-
-CONFUCIAN ANALECTS
 
 
 ifti fln
@@ -5989,9 +5713,6 @@ This is its force here. .^ = $f; B^p,
 37. HOW VARIOUS ELEMENTS MODI-
 FIED ONE ANOTHER IN THE CHARAC-
 TER OF CONFUCIUS.
-
-
-CONFUCIAN ANALECTS
 
 
 BOOK VIII. T'AI-PO
@@ -6062,9 +5783,6 @@ the preceding declaration ; - — compare
 I xiv.
 
 
-CONFUCIAN ANALECTS
-
-
 -SJL
 
 PFJ
@@ -6077,8 +5795,7 @@ CHAPTER II. I. The Master said, "Respectfulness,
 without the rules of propriety, becomes laborious
 bustle; carefulness, without the rules of propriety,
 becomes timidity; boldness, without the rules of
-propriety, becomes insubordination; straightforwardness, without the rules of propriety, becomes rude-
-ness.
+propriety, becomes insubordination; straightforwardness, without the rules of propriety, becomes rudeness.
 
 2. "When those who are in high stations perform
 well all their duties to their relations, the people are
@@ -6117,15 +5834,11 @@ Ufa, often a verb, "to steal"; here
 an adjective, "mean."
 
 
-CONFUCIAN ANALECTS
-
-
 CHAPTER III. The philosopher Tsang being ill, he
 called to him the disciples of his school, and said,
 "Uncover my feet, uncover my hands. It is said in
 the Book of Poetry, 'We should be apprehensive and
-cautious, as if on the brink of a deep gulf, as if treading on thin ice,' and so have / been. Now and here-
-after, I know my escape from all injury to my person.
+cautious, as if on the brink of a deep gulf, as if treading on thin ice,' and so have / been. Now and hereafter, I know my escape from all injury to my person.
 O ye, my little children."
 
 CHAPTER IV. 1. The philosopher Tsang being ill.
@@ -6167,9 +5880,6 @@ matters Lelow his rank. £. refers to
 g%. 2. fj% in -^ ^ JH H, intimates
 that Tsang commenced the conversation. 3. SgJ;, jH, u-nd {li are all =
 verbs governing the nouns following.
-
-
-CONFUCIAN ANALECTS
 
 
 -ffi,
@@ -6221,9 +5931,6 @@ This friend is supposed to have been
 Yen Yiian. ij^., "imprisonment by
 means of wood," "stocks." The
 dictionary, after the old writers,
-
-
-CONFUCIAN ANALECTS
 
 
 -ifc.
@@ -6281,9 +5988,6 @@ OF COMPASS AND VIGOR OF MIND.
 
 1. tfc) a learned man, "a scholar";
 but in all ages learning has been the
-
-
-CONFUCIAN ANALECTS
 
 
 si T?L a fffi
@@ -6354,9 +6058,6 @@ need not be required from the
 people, — ;f SJ^± ^.
 
 
-CONFUCIAN ANALECTS
-
-
 I -tit
 
 
@@ -6387,8 +6088,7 @@ RULERS.
 11. THE WORTHLESSNESS OF TAL-
 ENT WITHOUT VIRTUE. "The dvike
 of Chau;"— see VII, v. it $%, "the
-overplus," "the superfluity," referring to the "talents," and indicat-
-ing that ability is not the ;£, or root
+overplus," "the superfluity," referring to the "talents," and indicating that ability is not the ;£, or root
 of character, not what is essential.
 •& B) &s in chap. i.
 
@@ -6399,8 +6099,7 @@ MAKES MEN GOOD. This is the interpretation of K'ung An-kwo, who
 takes |5 in the sense of |fe. Chu Hsi
 takes the term in the sense of jjjffc,
 "emolument," and would change §?
-into !&, making the whole a lamentation over the rarity of the dis-
-interested pursuit of learning. But
+into !&, making the whole a lamentation over the rarity of the disinterested pursuit of learning. But
 we are not at liberty to admit alterations of the text, unless, as received,
 it be absolutely unintelligible.
 
@@ -6515,9 +6214,6 @@ nothing for them.
 17. WITH WHAT EARNESTNESS ANB
 CONTINUOUSNESS LEARNING SHOULD
 BE PURSUED.
-
-
-CONFUCIAN ANALECTS
 
 
 CHAPTER XVIII. The Master said, " How majestic
@@ -6639,9 +6335,6 @@ as in the translation, while the old
 writers take exactly the opposite
 
 
-CONFUCIAN ANALECTS
-
-
 rfff
 
 
@@ -6686,8 +6379,7 @@ was a sort of cap or crown, flat on
 the top, and projecting before and
 behind, with a long fringe on which
 gems and pearls were strung, exactly
-like the Christ-Church cap of Oxford. They were both used in sacri-
-ficing. $| JjjJL, generally the water
+like the Christ-Church cap of Oxford. They were both used in sacrificing. $| JjjJL, generally the water
 channels by which the boundaries of
 the fields were determined, and
 provision made for their iriigation,
@@ -6698,9 +6390,6 @@ the JJ5L, which were double the size.
 
 
 fg- iir
-
-
-CONFUCIAN ANALECTS
 
 
 BOOK IX. TSZE HAN
@@ -6775,9 +6464,6 @@ was a prominent topic in Confucius's
 teachings, -jifr- is not = our fate, unless in the primary meaning of that
 
 
-CONFUCIAN ANALECTS
-
-
 -til, IP
 
 
@@ -6834,9 +6520,6 @@ be singular in adhering to the
 rule.
 
 
-CONFUCIAN ANALECTS
-
-
 CHAPTER IV. There were four things from which
 the Master was entirely free. He had no foregone
 conclusions, no arbitrary predeterminations, no obstinacy, and no egoism.
@@ -6885,8 +6568,7 @@ that Confucius was their old enemy,
 so they attacked him, and kept him
 prisoner for five days. The accounts
 of his escape vary, some of them
-being evidently fabulous. The disciples were in fear. ^ would in-
-dicate that Confucius himself was so,
+being evidently fabulous. The disciples were in fear. ^ would indicate that Confucius himself was so,
 but this is denied 2. The wan I
 render by "the cause of truth."
 More exactly, it is the truth embodied in literature, ceremonies, etc.,
@@ -6898,9 +6580,6 @@ here identifies himself with the line
 of the great sages, to whom Heaven
 has intrusted the instruction of men.
 In all the six centuries between
-
-
-CONFUCIAN ANALECTS
 
 
 ffi B*
@@ -6956,9 +6635,6 @@ possession of various ability, and
 repudiates its being essential to tbo
 
 
-CONFUCIAN ANALECTS
-
-
 ability in many things, but they were mean matters.
 Must the superior man have such variety of ability?
 He does not need variety of ability."
@@ -6982,8 +6658,7 @@ Tsze-chang (^f- Jg). It is supposed
 that when these conversations were
 being digested into their present
 form, some one remembered that
-Lao had been in the habit of mentioning the remark given, and ac-
-cordingly it was appended to the
+Lao had been in the habit of mentioning the remark given, and accordingly it was appended to the
 chipter. ^f- -3$ indicates that it was
 a frequent saying of Confucius.
 
@@ -6994,8 +6669,7 @@ TEACHING. The first sentence here
 was probably an exclamation with
 
 
-reference to some remark upon himself as having extraordinary knowl-
-edge. D|J:H: m .«S, "exhibit ( PfJ = # ifijj,
+reference to some remark upon himself as having extraordinary knowledge. D|J:H: m .«S, "exhibit ( PfJ = # ifijj,
 'to agitate') its two ends," i. e., discuss it from beginning to end.
 
 8. FOB, WANT OF AUSPICIOUS
@@ -7124,9 +6798,6 @@ with the illusions of his former state,
 and brought on himself this rebuke.
 
 
-CONFUCIAN ANALECTS
-
-
 !=)_ -ll_l *rJ'v •*** ViT
 
 
@@ -7242,9 +6913,6 @@ in the sage's mind, suggested by the
 ceaseless movement of the water.
 
 
-CONFUCIAN ANALECTS
-
-
 ftl
 
 
@@ -7302,9 +6970,6 @@ much, and that the learner is never
 to give over.
 
 
-CONFUCIAN ANALECTS
-
-
 CHAPTER XIX. The Master said, "Never flagging
 when I set forth anything to him;- — ^ah! that is Hui."
 
@@ -7347,9 +7012,6 @@ John Trebonius, Luther's schoolmaster at Eisenach, who used to
 raise his cap to his pupils on entering the schoolroom, and gave as the
 reason — "There are among these
 boys men of whom God will one day
-
-
-CONFUCIAN ANALECTS
 
 
 in irri Hb
@@ -7408,9 +7070,6 @@ our strict syntactical apparatus. 5^
 as in chap. x.
 
 
-CONFUCIAN ANALECTS
-
-
 Jfl?
 
 
@@ -7461,9 +7120,6 @@ not altogether inapplicable to the
 badger. See the # ]£ ft £R. 2. See
 
 
-CONFUCIAN ANALECTS
-
-
 3. Tsze-lu kept continually repeating these words
 of the ode, when the Master said, "Those things are by
 no means sufficient to constitute (perfect) excellence."
@@ -7486,8 +7142,7 @@ a man of impulse, with many fine
 points, but not sufficiently reflective.
 
 27. MEN ARE KNOWN IN TIMES OF
-ADVERSITY. & $£, "the after-withering," a meiosis for their being ever-
-greens.
+ADVERSITY. & $£, "the after-withering," a meiosis for their being evergreens.
 
 28. THE SEQUENCES OF WISDOM,
 
@@ -7513,8 +7168,6 @@ plication of principles to them. In.
 the old commentaries, tH is used hero
 in opposition to %£, the latter being
 
-
-CONFUCIAN ANALECTS
 
 ffiK
 
@@ -7556,8 +7209,7 @@ Tsin (=|f ) dynasty, of J^ for |U, and
 changing ^j into Jg,, he makes out
 the meaning in the translation. The
 old commentators keep the text, and
-interpret, — "How perversely contrary are the flowers of the T'ang-
-tai!" saying that those flowers are
+interpret, — "How perversely contrary are the flowers of the T'angtai!" saying that those flowers are
 first open and then shut. This view
 made them take ^| in the last chapter, as we have noticed. Who or
 what is meant by ffi in ^ ,©, we
@@ -7571,7 +7223,6 @@ its being an addition by another
 hand to the original compilation.
 
 
-CONFUCIAN ANALECTS
 BOOK X. HEANG TANG
 
 
@@ -7645,9 +7296,6 @@ government, it became the sage,
 it is said, to be precise and particular. Compare III, xv.
 
 
-CONFUCIAN ANALECTS
-
-
 -ffc,
 
 
@@ -7660,8 +7308,7 @@ spoke freely, but in a straightforward manner; in
 speaking with those of the higher grade, he did so
 blandly, but precisely.
 
-2. When the ruler was present, his manner displayed respectful uneasiness; it was grave, but self-
-possessed.
+2. When the ruler was present, his manner displayed respectful uneasiness; it was grave, but selfpossessed.
 
 CHAPTER III. 1. When the prince called him to
 employ him in the reception of a visitor, his countenance appeared to change, and his legs to move
@@ -7806,9 +7453,6 @@ royal court consisted of five divisions,
 each having its peculiar gate. That
 
 
-CONFUCIAN ANALECTS
-
-
 he seemed to bend his body, as if it were not sufficient
 to admit him.
 
@@ -7914,9 +7558,6 @@ different from the other. 0, 1st
 tone, "to be equal to," "able for."
 
 
-CONFUCIAN ANALECTS
-
-
 Itt
 
 
@@ -7957,8 +7598,7 @@ duties referred to in them ought to
 be discharged.
 (j. RIXLES OF CONFUCIUS IN
 
-REGABD TO HIS DRESS. The discussions about the colors here men-
-tioned are lengthy and tedious. I
+REGABD TO HIS DRESS. The discussions about the colors here mentioned are lengthy and tedious. I
 
 
 am not confident that I have given
@@ -7984,9 +7624,6 @@ carnation, white, and black"; others,
 among which are Jj&C and ^, go by
 the name of |§J, or "intermediate."
 See the H !??, in loc. Confucius
-
-
-CONFUCIAN ANALECTS
 
 
 4. Over lamb's fur he wore a garment of black;
@@ -8121,9 +7758,6 @@ to bring it to the state of j^ rice. 2.
 f£ in the dictionary is "overdone,"
 
 
-CONFUCIAN ANALECTS
-
-
 /PMJ o
 
 •fci
@@ -8148,9 +7782,6 @@ himself to be confused by it.
 
 5. He did not partake of wine and dried meat
 bought in the market.
-
-
-CONFUCIAN ANALECTS
 
 
 1=1 o VVo M-l
@@ -8200,15 +7831,11 @@ Buddhist priests in their monasteries
 have a custom of this kind, and on
 public occasions, as when Ch'i-ying
 gave an entertainment in Hongkong
-in 1845, something like it is sometimes observed, but any such cere-
-mony is unknown among the common habits of the people. However
+in 1845, something like it is sometimes observed, but any such ceremony is unknown among the common habits of the people. However
 poor might be bis fa.-e, Confucius
 always observed it. y§ ((-hdi) = *j&,
 the grave demeanor appropriate to
 fasting.
-
-
-CONFUCIAN ANALECTS
 
 
 J7: m, rffi A
@@ -8278,9 +7905,6 @@ could not, for the present at least,
 avail himself of it.
 
 
-CONFUCIAN ANALECTS
-
-
 =ffB
 
 
@@ -8331,9 +7955,6 @@ his prince, held that the prince
 sacrificed for all. He tasted everything, as if he had been a cook, it
 being the cook's duty to taste every
 dish, before the prince partook of it.
-
-
-CONFUCIAN ANALECTS
 
 
 3. When he was ill and the prince came to visit
@@ -8393,9 +8014,6 @@ spirits of his parents or ancestors,
 hey demanded acknowledgment
 
 
-CONFUCIAN ANALECTS
-
-
 CHAPTER XVI. 1. In bed, he did not lie like a
 corpse. At home, he did not put on any formal
 deportment.
@@ -8433,8 +8051,6 @@ forward to this bar. 4. He showed
 these signs, with reference to the
 generosity of the provider.
 
-
-CONFUCIAN ANALECTS
 
 tlo
 
@@ -8481,9 +8097,6 @@ turn his head quite round. See the
 . IS. A fragment, which seemingly
 
 
-CONFUCIAN ANALECTS
-
-
 BOOK XL HSIEN TSIN
 
 
@@ -8514,8 +8127,7 @@ the style of a peculiar hand.
 THE SIMPLER WAYS OF FORMER TIMES.
 
 1- ft P. & it are said by Chu Hsi
-to = ;Jk ?£, f£ H. Literally, the expressions are, — "those who first ad-
-vanced," "those who afterwards
+to = ;Jk ?£, f£ H. Literally, the expressions are, — "those who first advanced," "those who afterwards
 advanced," i, e., on the stage of tho
 
 
@@ -8540,9 +8152,6 @@ business of government, whatever
 indicates respect is here included in
 a )•'• monies, and whatever is expressive of harmony is here included in
 mimic,"
-
-
-CONFUCIAN ANALECTS
 
 
 CHAPTER II. 1. The Master said, "Of those who
@@ -8608,9 +8217,6 @@ jjft for f& as in I, i, 1, but K'ung
 An-kwo takes it in its usual pronunciation = ^|, "to explain."
 
 
-CONFUCIAN ANALECTS
-
-
 CHAPTER IV. The Master said, "Filial indeed is
 Min Tsze-ch'ien! Other people say nothing of him
 different from the report of his parents and brothers."
@@ -8628,10 +8234,8 @@ Now there is no one who loves to learn, as he
 TSZE-CH'IEN. Ofl, as in VIII, xxi,
 "could pick out no crevice or flaw in
 the words, etc. " $£ !j[ (about A. D.
-200-250, as given in Ho Yen, explains— "Men had no words of dis-
-paragement for his conduct in reference to his parents and brothers."
-This is the only instance where Confucius calls a disciple by his designa-
-tion. The use of -J- ^ is supposed,
+200-250, as given in Ho Yen, explains— "Men had no words of disparagement for his conduct in reference to his parents and brothers."
+This is the only instance where Confucius calls a disciple by his designation. The use of -J- ^ is supposed,
 in the & ?$, to be a mistake of
 the compilers. "Brothers"' includes
 cousins, indeed = kindred.
@@ -8741,9 +8345,6 @@ an outer shell without a
 •'oiu, Mh,,.h was called m. 2. *
 
 
-CONFUCIAN ANALECTS
-
-
 CHAPTER IX. 1. When Yen Yuan died, the Master
 bewailed him exceedingly, and the disciples who were
 with him said, "Master, your grief is excessive!"
@@ -8792,9 +8393,6 @@ next clause. ^, as in the last chapter. This passage, indeed, is cited
 in the dictionary, in illustration of
 that use of the term. ^ H -f-, see
 III, xxiv.
-
-
-CONFUCIAN ANALECTS
 
 
 CHAPTER XI. Chi Lu asked about serving the
@@ -8859,9 +8457,6 @@ DISCIPLES ABOUT HIM. HE WAKNS
 ISZE-LU, \ ffl 3., like ft -gp, VI,
 
 
-CONFUCIAN ANALECTS
-
-
 •flu
 
 
@@ -8907,8 +8502,7 @@ was the name of the one in question.
 We read of it in the Tso Chwan
 under the 25th year of Duke Chao
 (par. 5), as being then the duke's
-residence. 2. The use of J{ ia perplexing. Chu Hsi adopts the ex-
-planation of it by the old commentators as=^l, "affair," but with what
+residence. 2. The use of J{ ia perplexing. Chu Hsi adopts the explanation of it by the old commentators as=^l, "affair," but with what
 propriety I do not see. The character means "a string of cowries, or
 cash," then "to thread together,"
 "to connect." May not its force be
@@ -8916,9 +8510,6 @@ here,— "suppose it were to be carried on — continued — as before?"
 3. ^ as in chapter ix. tft, 4th tone,
 a verb, "to hit the mark," as in
 shooting.
-
-
-CONFUCIAN ANALECTS
 
 
 •flL
@@ -9051,9 +8642,6 @@ dictionary, — "practicing airs with
 little sincerity." — Confucius certainly does not here flatter his followers.
 
 
-CONFUCIAN ANALECTS
-
-
 CHAPTER XVIII. 1. The Master said, "There is
 Hull He has nearly attained to perfect virtue. He is
 often in want."
@@ -9108,9 +8696,6 @@ be limited. The text is rather enigmatical. X =1?, compare chap. xiv.
 2. Tsze-chang wag the Shih of chap.
 
 
-CONFUCIAN ANALECTS
-
-
 CHAPTER XX. The Master said, "If, because a
 man's discourse appears solid and sincere, we allow
 him to be a good man, is he really a superior man ? or is
@@ -9154,9 +8739,6 @@ is explained by Chu Hsi with 0,
 "to overcome," "to be superior to,"
 
 
-CONFUCIAN ANALECTS
-
-
 -til
 
 
@@ -9198,8 +8780,7 @@ the best pure gold is called ££ '&.
 
 : i IL.s, AND CONFIDENCE IN HTS
 
-See IX, v. If Hui's answer was anything more than pleas-
-antry, \vc) must pronounce it foolish.
+See IX, v. If Hui's answer was anything more than pleasantry, \vc) must pronounce it foolish.
 The commentators, however, expand
 
 
@@ -9211,9 +8792,6 @@ benefit of your instructions. " If we
 inquire how Hui knew that Confucius would not perish, we are
 informed that he shared his master's
 assurance that he had a divine mission.—See VII, xii; IX, v.
-
-
-CONFUCIAN ANALECTS
 
 
 Jho ^
@@ -9270,9 +8848,6 @@ what is merely "official." J^ 3JC,
 officials." 5. £ supposes an antecedent, such as =fe, "their master."
 
 
-CONFUCIAN ANALECTS
-
-
 i/V -JTo 5ttp /«vv j ^) ^
 
 
@@ -9327,8 +8902,7 @@ absurd defense of Tsze-lu. It is to |
 this effect: "The whole duty of
 man is in treating other men right,
 and rendering what is due to spiritual
-beings, and it may be learned practically without the study you re-
-quire." 4. jq^.i$r., "on this account,"
+beings, and it may be learned practically without the study you require." 4. jq^.i$r., "on this account,"
 with reference to Tsze-lu 's reply.
 
 25. THE AIMS OF TSZE-LU, TSANO
@@ -9345,9 +8919,6 @@ four are mentioned in the order of
 their age, and Tien would have
 answered immediately after Tsze-lu,
 but that Confucius passed him by,
-
-
-CONFUCIAN ANALECTS
 
 
 -tfc
@@ -9383,8 +8954,7 @@ indicate the importance which the
 di&ciples attached to the seniority of
 their Master, and his wish that they
 should attach no importance to it.
-In fy ff 0. -til we have a not uncommon inversion; — "do not con-
-sider me to be your senior." 3. Jg =
+In fy ff 0. -til we have a not uncommon inversion; — "do not consider me to be your senior." 3. Jg =
 •^ fij? ^ ^F, "the level, ordinary
 course of your lives." jpj H ^ = fnj
 
@@ -9392,8 +8962,7 @@ course of your lives." jpj H ^ = fnj
 &• 1$ J% sfe. "what would you consider to be your use?" i. e., what
 course of action would you pursue ?
 4. ^ ^, an adverb, = " hastily." Jg,
-according to Chu Hsi, = ;]f: ^i; according to Pao Hsien, =i{|, "strait-
-ened," " urged." In the Chau Li, 500
+according to Chu Hsi, = ;]f: ^i; according to Pao Hsien, =i{|, "straitened," " urged." In the Chau Li, 500
 men make a J[t) and 5 ^, or 2,500
 men, make a jjiji. The two terms
 together have here the meaning
@@ -9402,9 +8971,6 @@ given in the translation. ^ ;£,
 its force with the following J£. ~fj =
 jpj, "towards." fa ~}j, "know the
 quarter to which to turn, the way in
-
-
-CONFUCIAN ANALECTS
 
 
 .^8 IIP Jfc
@@ -9453,9 +9019,6 @@ the name of a cap of ceremony.
 It had different names under different dynasties. )f| means a MAN,
 
 
-CONFUCIAN ANALECTS
-
-
 iff.
 
 
@@ -9500,9 +9063,6 @@ influences. 91 was the name of the
 summer sacrifice for rain, Li Chi, IV,
 
 
-CONFUCIAN ANALECTS
-
-
 nfi
 
 
@@ -9540,9 +9100,6 @@ does not appear whether Hsi, even
 at the last, understood why Confucius had laughed at Tsze-lu, and
 not at the others. "It was not," say
 the commentators, "because Tszelu was extravagant in his aims.
-
-
-CONFUCIAN ANALECTS
 
 
 -ft ffi
@@ -9593,9 +9150,6 @@ chapters, conveying lessons on perfect virtue, government, and other
 questions of morality and policy,
 addressed in conversation by Confucius chiefly to his disciples. The
 different answers, given about thesame subject to different questioners,
-
-
-CONFUCIAN ANALECTS
 
 
 hravcn will ascribe perfect virtue to him. Is ^
@@ -9662,9 +9216,6 @@ on the impulse of selfishness, but
 there is an ideal of it as proper to
 
 
-CONFUCIAN ANALECTS
-
-
 make no movement which is contrary to propriety."
 Yen Yuan then said, "Though I am deficient in
 intelligence and vigor, I will make it my business to
@@ -9716,9 +9267,6 @@ V, xi. ;£ ?[?, ;fe Sfc, SB "abroad, "at
 home." I'do Hsien, in Ho Yen,
 
 
-CONFUCIAN. ANALECTS
-
-
 Chung-kung said, "Though I am deficient in intelligence and vigor, I will make it my business to
 practice this lesson."
 
@@ -9765,9 +9313,6 @@ Niu's surname. 2. ^] = n H &'
 (£ in the note on VII, x, et al. —
 "Doing being difficult, can speaking
 be without difficulty of utterance?"
-
-
-CONFUCIAN ANALECTS
 
 
 CHAPTER IV. 1. Sze-ma Niu asked about the
@@ -9818,7 +9363,6 @@ have their brothers," — i. e., all can
 rest quietly without anxiety in their
 
 
-CONFUCIAN ANALECTS
 -Bio
 
 
@@ -9933,9 +9477,6 @@ taken here, as = " military equipment," "preparation for war." fa
 £, — Z. refers to ^£ _h, "their ruler."
 
 
-CONFUCIAN ANALECTS
-
-
 Sfi.
 
 tin
@@ -9996,9 +9537,6 @@ merely external, made this not sufficiently well-considered remark, to
 which Tsze-kung replied, in, according to Chu Hsi, an equally one-sided
 
 
-CONFUCIAN ANALECTS
-
-
 2. Tsze-kung said, "Alas! Your words, sir, show
 you to be a superior man, but four horses cannot
 overtake the tongue.
@@ -10028,8 +9566,7 @@ on, without any comma, to -til, in
 which case the paragraph would be
 — "Alas! sir, for the way in which
 you speak of the superior man!"
-And this is the most natural construction. 3. The modern commen-
-tators seem hypercritical in condemning Tsze-kung's language here.
+And this is the most natural construction. 3. The modern commentators seem hypercritical in condemning Tsze-kung's language here.
 He shows the desirableness of the
 ornamental accomplishments, but
 
@@ -10109,9 +9646,6 @@ a tor a man either the one or
 the other, therefore, is one delusion.
 
 
-CONFUCIAN ANALECTS
-
-
 JtU
 
 
@@ -10157,9 +9691,6 @@ overshadowed by his ministers, and
 thinking of setting aside his eldest
 son from the succession, he shaped
 his answer to the question about
-
-
-CONFUCIAN ANALECTS
 
 
 3. "Good!" said the duke; "if, indeed, the prince
@@ -10220,9 +9751,6 @@ stress is to be laid on the "I"; much
 on $», as = "to influence to."
 
 
-CONFUCIAN ANALECTS
-
-
 srf 4-ifif
 
 
@@ -10277,9 +9805,6 @@ THE MEAN MAN.
 
 17. GOVERNMENT MORAL IN ITS
 END AND EFFICIENT BY EXAMPLE.
-
-
-CONFUCIAN ANALECTS
 
 
 Z MU ffii
@@ -10340,9 +9865,6 @@ having the wind upon it."
 Sfi.
 
 
-CONFUCIAN ANALECTS
-
-
 fin
 
 
@@ -10392,9 +9914,6 @@ dictionary explains it by "to descend. From being on high to become
 low." But it is here rather more
 
 
-CONFUCIAN ANALECTS
-
-
 6. "As to the man of notoriety, he assumes the
 appearance of virtue, but his actions are opposed to
 it, and he rests in this character without any doubts
@@ -10435,9 +9954,6 @@ be reference to the trees growing
 about the altars. ||t formed from
 "heart" and "to conceal ,"= secret
 vice. 3. ^ $; t£ ^, — compare with
-
-
-CONFUCIAN ANALECTS
 
 
 wickedness and not assail that of others; — is not this
@@ -10484,9 +10000,6 @@ Compare II, xix. 4. Jig, 4th tone,
 in the dictionary defined by ^,
 
 
-CONFUCIAN ANALECTS
-
-
 ofc fe
 
 IJA^ I-J-.
@@ -10503,8 +10016,7 @@ upright.' What did he mean?''
 6. "Shun, being in possession of the kingdom,
 selected from among all the people, and employed
 Kao-yao, on which all who were devoid of virtue
-disappeared. T'ang, being in possession of the kingdom, selected from among all the people, and em-
-ployed I Yin, and all who were devoid of virtue
+disappeared. T'ang, being in possession of the kingdom, selected from among all the people, and employed I Yin, and all who were devoid of virtue
 disappeared."
 
 
@@ -10521,8 +10033,6 @@ therefore all devoid of virtue disappeared. That was their making
 the crooked upright; — and so their
 love reached to all.
 
-
-CONFUCIAN ANALECTS
 
 Jt.H \3M S 10 ±)rfii E
 
@@ -10560,8 +10070,7 @@ HEADING OF THIS BOOK. — J- j?£ ^
 •f- H, "Tsze-lu, No. 13." Here, as in
 the last Book, we have a number of
 subjects touched upon, all bearing
-more or less directly on the government of the state, and the cultiva-
-tion of the person. The Book extends to thirty chapters.
+more or less directly on the government of the state, and the cultivation of the person. The Book extends to thirty chapters.
 
 •1. THE SECRET OF SUCCESS IN
 GOVERNING IS THE UNWEARIED EX-
@@ -10578,9 +10087,6 @@ the second clause bring «£ (=,K) in
 the same way under the regimen of
 ^. # £ = ® fib m »,. "to be
 laborious for them;" that is, to set
-
-
-CONFUCIAN ANALECTS
 
 
 He requested further instruction, and was
@@ -10638,9 +10144,6 @@ neglected. Compare what is said on
 
 
 iiwf
-
-
-CONFUCIAN ANALECTS
 
 
 jTT
@@ -10714,9 +10217,6 @@ follows, though its successive steps
 are still not without difficulty. IS %)
 
 
-CONFUCIAN ANALECTS
-
-
 jfn
 
 
@@ -10753,9 +10253,6 @@ and does not rashly speak. 6. "Proprieties" here are not ceremonial
 rules, but = " order," what such rules
 are designed to display and secure.
 So, "music" is equivalent to "harmony." qi, 4th tone, is the verb.
-
-
-CONFUCIAN ANALECTS
 
 
 Uffi
@@ -10812,9 +10309,6 @@ Confucius intended that it should be
 repeated to Fan Ch'ih.
 
 
-CONFUCIAN ANALECTS
-
-
 •fee EK
 
 
@@ -10822,8 +10316,7 @@ CHAPTER V. The Master said, "Though a man
 may be able to recite the three hundred odes, yet if,
 when intrusted with a governmental charge, he knows
 not how to act, or if, when sent to any quarter on
-a mission, he cannot give his replies unassisted, notwithstanding the extent of his learning, of what prac-
-tical use is it?"
+a mission, he cannot give his replies unassisted, notwithstanding the extent of his learning, of what practical use is it?"
 
 CHAPTER VI. The Master said, "When a prince's
 personal conduct is correct, his government is effective
@@ -10873,9 +10366,6 @@ degeneracy. That portion of the
 present Honan, which runs up and
 lies between Shansi and Peichili,
 was the bxilk of Wei.
-
-
-CONFUCIAN ANALECTS
 
 
 CHAPTER VIII. The Master said of Ching, a scion
@@ -10929,9 +10419,6 @@ indeed, is the second meaning of the
 character given in the dictionary.
 
 
-CONFUCIAN ANALECTS
-
-
 ffiJ
 
 
@@ -10980,9 +10467,6 @@ with capital punishments, xmneceasary with a transformed people.
 
 
 -tile
-
-
-CONFUCIAN ANALECTS
 
 
 ) ffi)
@@ -11048,9 +10532,6 @@ CIES OF THE CH! FAMILY. The point
 of the chapter turns on the opposition of the plirases %j jfcjf and ^ iff
 
 
-CONFUCIAN ANALECTS
-
-
 ffi
 
 
@@ -11068,8 +10549,7 @@ not easy.'
 
 
 ife,; — at the court of the Chi family,
-that is, they had really been discussing matters of government, affect-
-it iir the state, and proper only for
+that is, they had really been discussing matters of government, affectit iir the state, and proper only for
 t IK- prince's court. Confucius affects
 not to believe it, and says that at
 the chief's court they could only
@@ -11084,8 +10564,7 @@ on such, though the general rule was
 to allow them to retire at 70. See
 the Li Chi, I, i, Pt. i, 28. The tf.
 after ^ makes a double subject, and
-= an emphatic I; a stvle more common in the Shu than in these Ana-
-lects.
+= an emphatic I; a stvle more common in the Shu than in these Analects.
 
 15. HOW THE PROSPERITY AND
 RUIN OF A COUNTRY MAY DEPEND ON
@@ -11106,9 +10585,6 @@ fi=— -fe], as in II, ii. 2. It is only
 the first part of the saying on which
 Confucius dwells. That is called £.,
 the principal sentence; the other is
-
-
-CONFUCIAN ANALECTS
 
 
 t ito rfii
@@ -11150,9 +10626,6 @@ only ^ fft, "an accessory." 3. Some from this one word, etc.?" Simiput a comma a
 better to take that ^p- as a preposi- of tke orders, rules, etc., which a
 
 tion; — "May it not be expected that ruler may issue.
-
-
-CONFUCIAN ANALECTS
 
 
 iae 3£
@@ -11320,9 +10793,6 @@ sound of stones." Jg? @ jfc, "stonelike." The dictionary, with reference
 nn" fiW
 
 
-CONFUCIAN ANALECTS
-
-
 -tit
 
 
@@ -11374,8 +10844,6 @@ what thev will not do."
 
 irri
 
-
-CONFUCIAN ANALECTS
 
 -r^ --P- III Jl
 
@@ -11437,8 +10905,6 @@ private intercourse with others. [?fj,
 "agreeing with," = flattering.
 
 
-CONFUCIAN ANALECTS
-
 ff i, ffi
 
 
@@ -11483,9 +10949,6 @@ SUPERIOR AND THE MEAN MAN IN
 THEIR RELATION TO THOSE EMPLOYED
 
 BY THEM. g $ ffi ft i% (=1ft),—
-
-
-CONFUCIAN ANALECTS
 
 
 -tiL
@@ -11534,9 +10997,6 @@ our "wooden." It= ^^, "simple,"
 gloss on it here is — y| |$, " slow and
 blunt." "Modest" seems to be the
 idea.
-
-
-CONFUCIAN ANALECTS
 
 
 Jgl
@@ -11590,7 +11050,6 @@ how Confucius valued education for
 all classes.
 
 
-CONFUCIAN ANALECTS
 BOOK XIV. HSIEN WAN
 
 
@@ -11614,8 +11073,7 @@ and great officers, the practice of
 virtue, the knowledge of what is
 shameful, personal cultivation, and
 the tranquilizing of the people; — all
-subjects of great importance in government. They are therefore col-
-lected together, and arranged after
+subjects of great importance in government. They are therefore collected together, and arranged after
 the last Book, which commences
 with an inquiry about government."
 Some writers are of opinion that the
@@ -11656,9 +11114,6 @@ Ho Yen, this chapter is joined to the
 preceding, and Chu Hsi also takes
 
 
-CONFUCIAN ANALECTS
-
-
 2. The Master said, "This may be regarded as the
 achievement of what is difficult. But I do not know
 that it is to be deemed perfect virtue."
@@ -11673,8 +11128,7 @@ the language may be with some reserve."
 
 
 the first paragraph to be a question
-of Yuan Hsien. 1. ]£, "overcoming," i. e., here = " the love of supe-
-riority." •$;, as in V, xxv, 3. ^ %f,
+of Yuan Hsien. 1. ]£, "overcoming," i. e., here = " the love of superiority." •$;, as in V, xxv, 3. ^ %f,
 "do not go," i. e., are not allowed to
 have their way, = are repressed. 2.
 J§, "difficult,"^ — the doing what is
@@ -11704,9 +11158,6 @@ good sense, meaning "lofty, and
 what may seem to be, or really be,
 dangerous," under a . bad government, where good principles do uot
 prevail.
-
-
-CONFUCIAN ANALECTS
 
 
 -Jrj ^H.
@@ -11762,9 +11213,6 @@ the emperor . Hau-hsiang (jg ft]),
 2145 B. c. I was afterwards slain
 by his minister, Han Cho (^ $£),
 who then married his wife, and one
-
-
-CONFUCIAN ANALECTS
 
 
 wrought at the toils of husbandry, and they became
@@ -11824,9 +11272,6 @@ of "to soothe," "comfort," in the
 parallelism.
 
 
-CONFUCIAN ANALECTS
-
-
 •ffi.
 
 
@@ -11884,9 +11329,6 @@ AND KWAN CHUNG. 1. See V, xv.
 2. Tsze-hsi was the chief minister of
 Ch' u. He had refused to accept tha
 •nomination to the sovereignty of. the
-
-
-CONFUCIAN ANALECTS
 
 
 r) ffij
@@ -11951,9 +11393,6 @@ with greater states, to which function Kung-ch'o's abilities were not
 equal. - -
 
 
-CONFUCIAN ANALECTS
-
-
 *~ 9 JrttJ
 
 A jft p B, £
@@ -12010,9 +11449,6 @@ suppose that Tsze-lu is the speaker.
 3g, 1st tone, = $j, "an agreement,"
 
 
-CONFUCIAN ANALECTS
-
-
 agreement however far back it extends: — such a man
 may be reckoned a COMPLETE man."
 
@@ -12061,9 +11497,6 @@ himself going beyond the truth.
 
 
 ffi
-
-
-CONFUCIAN ANALECTS
 
 
 CHAPTER XV. The Master said, " Tsang Wu-chung,
@@ -12145,9 +11578,6 @@ taken absolutely, but as respectively
 .predominating .in the two chiefs.
 
 
-CONFUCIAN ANALECTS
-
-
 CHAPTER XVII. 1. Tsze-lu said, "The duke Hwan
 caused his brother Chiu to be killed, when Shao Hu
 died with his master., but Kwan Chung did not die.
@@ -12174,8 +11604,7 @@ which 'he rendered, using ^ in" a
 different acceptation from that intended by the disciple. ^L, 1st tono,
 explained in the dictionary by §5,
 synonymous with -0s though the f$
-gjj makes out more than nine assemblages of" princes under the presi-
-dency of Duke Hwari. ,\\\ -.it fn=2il
+gjj makes out more than nine assemblages of" princes under the presidency of Duke Hwari. ,\\\ -.it fn=2il
 #l JC- rf ~ft, »« in tlK;"1:fiin.slation.
 
 
@@ -12199,9 +11628,6 @@ he required the duke of Lu to put
 his brother to death, and to deliver
 up the two ministers, .when Shao
 (£5 here = 315) Hu chose to dash His
-
-
-CONFUCIAN ANALECTS
 
 
 CHAPTER XVIII. 1. Tsze-kung said, "Kwan Chung,
@@ -12320,9 +11746,6 @@ The name Hsien generally appears in
 the form &..
 
 
-CONFUCIAN ANALECTS
-
-
 -tSL ¥
 
 
@@ -12367,9 +11790,6 @@ TO BE MADE GOOD. Compare IV,
 xxii.
 
 
-CONFUCIAN ANALECTS
-
-
 Jfc
 
 
@@ -12400,8 +11820,7 @@ in a single virtue," and "tranquil,
 not speaking unadvisedly," are the
 meanings attached to ftg, as an honorary epithet, while J?)c (the honorary
 epithet of Chan Hang indicates,
-" tranquil izer of the people, and establisher of government." The mur-
-der of the duke Chiert by his minister, Chan Hang (ff), took place 481
+" tranquil izer of the people, and establisher of government." The murder of the duke Chiert by his minister, Chan Hang (ff), took place 481
 B. c., barely two years before Confucius's death. 2." ft %$ implies all
 the fasting arid all the solemn preparation, as for a sacrifice or other
 great occasion. Properly, ^ft is to
@@ -12427,9 +11846,6 @@ of Confucius, or his colloquy with
 himself, when he had gone out from
 the duke. & ^ fl£ ^c Vc ± ft , —see
 XI, vii. The :$ leaves the sentence
-
-
-CONFUCIAN ANALECTS
 
 
 5. He went to the chiefs, and informed them, but
@@ -12475,9 +11891,6 @@ jf| in the sense of Rj?|, "to understand." The modern view seema
 better.
 
 
-CONFUCIAN ANALECTS
-
-
 CHAPTER XXV. The Master said, "In ancient
 times, men learned with a view to their own improvement. Nowadays, men learn with a view to the
 approbation of others."
@@ -12512,9 +11925,6 @@ court of the temples. Confucius had
 lodged with him when in Wei, and it
 was after his return to Lu that
 Po-yii sent to inquire for him.
-
-
-CONFUCIAN ANALECTS
 
 
 Sfe
@@ -12586,9 +11996,6 @@ the superior man takes to be his
 path." 2. -t=g-, "to say."
 
 
-CONFUCIAN ANALECTS
-
-
 -til
 
 
@@ -12642,15 +12049,11 @@ J}J is adversative, and =" but." -fa
 yfc ;§ is used in opposition to &
 ^ ^, and = "a quick apprehender,
 one who understands things before
-others." So, Chfl Hsi. K'ung Ankwo, however, takes #jj as conjunc-
-tive, and 5fe % in apposition with
+others." So, Chfl Hsi. K'ung Ankwo, however, takes #jj as conjunctive, and 5fe % in apposition with
 the two preceding characteristics,
 and interprets the conclusion — "Is
 such a man of superior worth ?" On
 Chu Hsi's view, the ^ is exclamatory.
-
-
-CONFUCIAN ANALECTS
 
 
 ,;£ fnSr
@@ -12721,9 +12124,6 @@ with justice.- — How far the ethics
 of Confucius fall below our Christian
 
 
-CONFUCIAN ANALECTS
-
-
 •ffc
 
 
@@ -12785,9 +12185,6 @@ but from those he rose to understand
 the high principles involved in them,
 
 
-CONFUCIAN ANALECTS
-
-
 ffiJ
 
 
@@ -12795,8 +12192,7 @@ penetration rises high. But there is Heaven; -—that
 knows me!"
 
 CHAPTER XXXVIII. 1. The Kung-po Liao, having
-slandered Tsze-lu to Chi-sun, Tsze-fu Ching-po informed Confucius of it, saying, " Our master is cer-
-tainly being led astray by the Kung-po Liao, but I
+slandered Tsze-lu to Chi-sun, Tsze-fu Ching-po informed Confucius of it, saying, " Our master is certainly being led astray by the Kung-po Liao, but I
 have still power enough left to cut Lido off, and
 expose his corpse in the market and in the court."
 
@@ -12839,9 +12235,6 @@ tie court, and those of meaner
 criminals in the market place. 7jj
 j^ came to be employed together,
 though, the exposure could take piace
-
-
-CONFUCIAN ANALECTS
 
 
 ground, it is so ordered. What can the Kung-po Liao
@@ -12893,9 +12286,6 @@ arisen." Others explain it by ^$,
 "have done this." They also give
 the names of the seven men, which
 Chu -calls j||, "chiseling.*
-
-
-CONFUCIAN ANALECTS
 
 
 flB
@@ -12951,7 +12341,6 @@ and understood as if there were a £,
 after the ffc. 2. M @ ^,— see
 
 
-CONFUCIAN ANALECTS
 ffl m
 
 
@@ -13012,9 +12401,6 @@ bracea the sovereigns, and subordinate princes who had their own
 petty courts. !& B»— in the ft g
 
 
-CONFUCIAN ANALECTS
-
-
 so. When the sovereign died, the officers all attended
 to their several duties, taking instructions from the
 prime minister for three years."
@@ -13042,8 +12428,7 @@ surnames of the Chinese now amount
 to several hundreds. The small work
 W $$ ft t&, made in the Sung
 dynasty, contains nearly 450. The
-number of them given in an appendix to Williams's Syllabic Diction-
-ary, as compiled by the Rev. Dr.
+number of them given in an appendix to Williams's Syllabic Dictionary, as compiled by the Rev. Dr.
 
 
 said,— H, m&,.
@@ -13065,9 +12450,6 @@ of the Chun-tsze in cultivating himself, but as the chief thing which he
 
 •* before him in the process. I
 translate £1, therefore, by in, but in
-
-
-CONFUCIAN ANALECTS
 
 
 ffii
@@ -13133,9 +12515,6 @@ Confucius might be translated in the
 to keep to the 3rd, leaving the
 
 
-CONFUCIAN ANALECTS
-
-
 JSt
 
 
@@ -13192,9 +12571,6 @@ was to teach him the courtesies
 required by his years.
 
 
-CONFUCIAN ANALECTS
-
-
 BOOK XV. WEI LING RUNG
 
 
@@ -13221,8 +12597,7 @@ $t -f1 3£, "Ihe duke Ling of Wei,
 No. 15." The contents of the Book,
 contained in forty chapters, are as
 miscellaneous as those of the former.
-Rather they are more so, some chaptors bearing on the public adminis-
-tration of government, several being
+Rather they are more so, some chaptors bearing on the public administration of government, several being
 occupied with the superior man, and
 others containing lessons of practical
 wisdom. "All the subjects," says
@@ -13255,9 +12630,6 @@ when a boy, he was fond of playing
 at £g. and j@[. He wished, by his
 reply and departure, to teach the
 duke that the rules of propriety, and
-
-
-CONFUCIAN ANALECTS
 
 
 EK rfff
@@ -13359,8 +12731,7 @@ affected by distress.
 GOVERN WITHOUT PERSONAL EFFORT.
 
 |J5f gi, "made himself reverent." jE
-|^ ]fif» "correctly adjusted his southwards face;" see VI, i. Shun suc-
-ceeding Yao, there were many ministers of great virtue and ability to
+|^ ]fif» "correctly adjusted his southwards face;" see VI, i. Shun succeeding Yao, there were many ministers of great virtue and ability to
 
 
 occupy all the offices of the government. All that Shun did was by his
@@ -13377,9 +12748,6 @@ that other of Tsze-chang about tho
 scholar who may be called ^; see
 XII, xx. 2. fjf may be regarded as
 another name for the ;Jfo $;, the rude
-
-
-CONFUCIAN ANALECTS
 
 
 -flu
@@ -13434,9 +12802,6 @@ i. e., straight and decided. 2. Chii
 1'o-yii. — see XIV, xxvi. pj^qfe. &
 ilii 1§l £.) — ^1 is to be understood as
 referring to "his principles," or perhaps the clause = " he could roll
-
-
-CONFUCIAN ANALECTS
 
 
 JEl
@@ -13557,13 +12922,9 @@ naturally proceeds from the spring,
 and Confucius approved the rule of
 the Hsia dynasty. His decision has
 been the law of all dynasties since
-the Ch'in. See the " Discours Preliminaire, Chap. I," in Gaubil's Shu-
-ching. 3. The state carriage of the
+the Ch'in. See the " Discours Preliminaire, Chap. I," in Gaubil's Shuching. 3. The state carriage of the
 Yin dynasty was plain and substantial, which Confucius preferred
 to the more ornamented one of Chau,
-
-
-CONFUCIAN ANALECTS
 
 
 6. "Banish the songs of Chang, and keep far from
@@ -13669,9 +13030,6 @@ ground from which to become virtuous, and they will meet with
 calamity." Ho Yen gives Chanp'f
 explanation, "they will never complete anything." Our nearly literal
 translation appears to convey the
-
-
-CONFUCIAN ANALECTS
 
 
 JRS
@@ -13781,9 +13139,6 @@ CRIMINATING IN HIS EMPLOYMENT OF
 MEN AND JUDGING OF STATEMENTS.
 
 
-CONFUCIAN ANALECTS
-
-
 JEl
 
 
@@ -13843,9 +13198,6 @@ the principles which they inaugurated.— The truth-approving nature
 of the people was a rtile even to
 those sages. It was the same to
 Confucius.
-
-
-CONFUCIAN ANALECTS
 
 
 CHAPTER XXV. The Master said, "Even in my
@@ -13909,9 +13261,6 @@ Compare XIII, xxiv.
 iff Mr
 
 
-CONFUCIAN ANALECTS
-
-
 CHAPTER XXVIII. The Master said, "A man can
 enlarge the principles which he follows; those principles
 do not enlarge the man."
@@ -13947,8 +13296,7 @@ energizing multitudes, who had
 previously been uncognizant of it.
 The first clause of the chapter may
 be granted, but the second is not
-in accordance with truth. Generally, however, man may be con-
-sidered as the measure of the truth
+in accordance with truth. Generally, however, man may be considered as the measure of the truth
 
 
 in morals and metaphysics which he
@@ -13977,9 +13325,6 @@ transfers the things which he here
 mentions to himself for the sake of
 others, not that it ever was really
 thus with himself.
-
-
-CONFUCIAN ANALECTS
 
 
 CHAPTER XXXI. The Master said, "The object of
@@ -14030,9 +13375,6 @@ but if he have not virtue which can
 hold it fast, though he get it, he will
 lose it." 2. In flfc ±, and ffc ±
 b«low, %_ m J£ -y , "the 2. have jfc
-
-
-CONFUCIAN ANALECTS
 
 
 ffi
@@ -14087,9 +13429,6 @@ of the hm'do-zan is shallow and near.
 Ho will let his knowledge be small,
 and he may not be trusted with
 \vli.it is great."
-
-
-CONFUCIAN ANALECTS
 
 
 JiL
@@ -14180,8 +13519,7 @@ of good, and there is no necessity
 
 
 ^g) of speaking any more of the
-badness of some. This is extravagant. Teaching is not so omnipo-
-tent.— The old interpretation is
+badness of some. This is extravagant. Teaching is not so omnipotent.— The old interpretation is
 simply that in teach' ng there should
 be no distinction of ( lasses.
 
@@ -14194,9 +13532,6 @@ read in its usual 2nd tone.
 40. PERSPICUITY THE CHIEF VER-
 TTTK OF LANGUAGE. $j*. may be used
 both of spee. h and of style.
-
-
-CONFUCIAN ANALECTS
 
 
 •ffi,,
@@ -14235,9 +13570,6 @@ him, and undertook the care of him
 himself. 2. ;£ is governed by ff,
 and refers to the words of Confucius
 to Mien in the preceding paragraph.
-
-
-CONFUCIAN ANALECTS
 
 
 BOOK XVI. KE SHE
@@ -14310,9 +13642,6 @@ time of the transaction to 483, or
 482 B. c. jjf ~M ^1,— -literally, "is
 
 
-CONFUCIAN ANALECTS
-
-
 flj
 
 
@@ -14376,9 +13705,6 @@ quotes this text (2nd chapter of his
 treatise on th« J'iivtioles). 5. ^ J-,
 
 
-CONFUCIAN ANALECTS
-
-
 flij
 F Bfi
 
@@ -14427,9 +13753,6 @@ kept in a flj, or "coffer," like a gem.
 Perhaps the character is, by mistake,
 
 
-CONFUCIAN ANALECTS
-
-
 ifr
 
 
@@ -14469,9 +13792,6 @@ management of the three families
 and especially of the Chi. By iH X
 
 
-CONFUCIAN ANALECTS
-
-
 Ifii
 
 
@@ -14509,9 +13829,6 @@ the dictionary, after Ho Yen, hsido
 in this passage=JiS, "reverent,"
 
 
-CONFUCIAN ANALECTS
-
-
 ffi,
 
 
@@ -14547,12 +13864,8 @@ THE VIOLATION OF THIS KULE ALWAYS
 LEADS TO RUIN, WHICH IS SPEEDIER
 AS THE RANK OF THE VIOLATOR IS
 
-LOWER. In these utterances, Confucius had reference to the dis-
-organized state of the kingdom,
+LOWER. In these utterances, Confucius had reference to the disorganized state of the kingdom,
 when "the son of Heaven" was fast
-
-
-CONFUCIAN ANALECTS
 
 
 When the subsidiary ministers of the great officers hold
@@ -14581,8 +13894,7 @@ together, as in the translation. We
 read of four ^j£, i. e., expeditions, —
 east, west, north, and south; and of
 nine /fj£, i. e., nine grounds on which
-the sovereign might order such expeditions. On the royal preroga-
-tives, see the t|i jjfi, XXVII L. jg is
+the sovereign might order such expeditions. On the royal prerogatives, see the t|i jjfi, XXVII L. jg is
 here = ^c $J, "generally speaking,"
 "as a rule." pg- gi = ^ J5, "family
 ministers." |iij •f-r are the same as
@@ -14607,9 +13919,6 @@ the annals as Duke Hsiian (*a)» and
 after him came Ch'ang, Hsiang,
 Ch'ao, and Ting, in whose time this
 must have been spoken. These
-
-
-CONFUCIAN ANALECTS
 
 
 ifc
@@ -14662,9 +13971,6 @@ in being bland."
 
 
 in" nfifr
-
-
-CONFUCIAN ANALECTS
 
 
 fcA "713
@@ -14720,9 +14026,6 @@ both of rank and virtue." "Without
 
 
 jfii »K ft
-
-
-CONFUCIAN ANALECTS
 
 
 fln
@@ -14781,9 +14084,6 @@ meant that he teaches that they are
 to be guarded against
 
 
-CONFUCIAN ANALECTS
-
-
 ifi! ifn
 
 
@@ -14835,9 +14135,6 @@ ranked in the first of the classes here
 mentioned. The modern commentators say that men are differenced
 
 
-CONFUCIAN ANALECTS
-
-
 MiSSrS ____A - — ^ | .
 
 
@@ -14885,9 +14182,6 @@ REGULATES HIMSELF. The concisenessof the text contrasts here with
 the verbosity of the translation, and
 yet the many words of the latter
 seem necessary.
-
-
-CONFUCIAN ANALECTS
 
 
 TTn
@@ -14943,9 +14237,6 @@ implies a reference to something
 which has been lost. Under XII, x,
 
 
-CONFUCIAN ANALECTS
-
-
 xlo Tif
 
 
@@ -14988,9 +14279,6 @@ Tsze-ch'in of I, x. When Confucius's
 eldest son was born, the duke of Lii
 
 
-CONFUCIAN ANALECTS
-
-
 3. *' Another day, he was in the same way standing
 alone, when I passed by below the hall with hasty
 steps, and said to me, ' Have you learned the rules of
@@ -15024,9 +14312,6 @@ make the whole = " what I have heard
 from him are only these two remarks." 5. Confucius is, no doubt,
 intended by fj- -^f-, but it is best to
 translate it generally.
-
-
-CONFUCIAN ANALECTS
 
 
 CHAPTER XIV. The wife of the prince of a state is
@@ -15070,9 +14355,6 @@ states had no reason to imitate her
 subjects in that, and so they styled
 her — "your prince's helpmeet," or
 "the domestic helpmeet."
-
-
-CONFUCIAN ANALECTS
 
 
 BOOK XVII. YANG HO
@@ -15134,9 +14416,6 @@ is in the sense of fifj;, "to present
 food," properly "before a superior."
 
 
-CONFUCIAN ANALECTS
-
-
 ffif
 
 
@@ -15159,8 +14438,7 @@ Confucius, however, was not to be
 entrapped. He also timed (B£, as a
 verb) Hit's being away from home
 ("£)) and went to call on him. 2. j§
-Jt ?[?, "deludes, confuses, his country," but the meaning is only nega-
-tive, = "leaves his country to confusion.'' 3ji, read A-'i, in 4th tone,
+Jt ?[?, "deludes, confuses, his country," but the meaning is only negative, = "leaves his country to confusion.'' 3ji, read A-'i, in 4th tone,
 
 
 "frequently." ftfi — ffc|? — all this
@@ -15170,9 +14448,6 @@ Ho, and a Q supplied before 0 . ?£
 old interpreters, is here explained, as
 in the translation, by ffi, "to wait
 for."
-
-
-CONFUCIAN ANALECTS 255
 
 
 CHAPTER II. The Master said, "By nature, men
@@ -15241,9 +14516,6 @@ SHOULD BE EMPLOYED. 1. Wu-ch'ang
 
 was in the district of Pi. Tsze-yu
 appears as the commandant of it, in
-
-
-CONFUCIAN ANALECTS
 
 
 iH ffi
@@ -15358,9 +14630,6 @@ not go to Pi.
 WHICH CONSTITUTES PERFECT VIRTUE.
 
 
-CONFUCIAN ANALECTS
-
-
 were, and was told, "Gravity, generosity of soul,
 sincerity, earnestness, and kindness. If you are grave,
 you will not be treated with disrespect. If you are
@@ -15408,9 +14677,6 @@ There were two places of the name
 of Chung-mau, one belonging to the
 state of Chang, and the other to the
 stato of Tsin (-), which is that
-
-
-CONFUCIAN ANALECTS
 
 
 TTn If?
@@ -15477,8 +14743,6 @@ CLOUDED. 1. ^ 'g' 3^ -ft ^, "The
 six ^ are six characters"; see the
 
 
-CONFUCIAN ANALECTS
-
 Iff tf «t
 
 
@@ -15533,8 +14797,7 @@ men ought carefully to study, till
 they have thoroughly examined and
 apprehended it. Then their actions
 will be without error, and their
-virtue may be perfected. For instance, loving is what rules in be-
-nevolence. It is certainly a beautiful
+virtue may be perfected. For instance, loving is what rules in benevolence. It is certainly a beautiful
 virtue, but if you only set yourself to
 love men, and do not care to study
 to understand the principle of benevolence, then your mind will be
@@ -15572,8 +14835,7 @@ the names of birds, beasts, and plants."
 
 9. BENEFITS DERIVED FROM STUDY-
 ING THE BOOK OF POETRY. 1. /]•»
-•J-; — see V, xxi; VIII, iii. I translate |f here by the "Book of Po-
-etry," because the lesson is supposed
+•J-; — see V, xxi; VIII, iii. I translate |f here by the "Book of Poetry," because the lesson is supposed
 to have been given with reference to
 the compilation of the Odes. The
 $; is that, as in XI, ix, 1, et al. 2.
@@ -15591,9 +14853,6 @@ with reproofs may teach how to
 regulate our resentments. 7. ^1 ^fc»
 "grasses and trees," = plants gener
 ally.
-
-
-CONFUCIAN ANALECTS
 
 
 fltj it
@@ -15650,9 +14909,6 @@ i)r. In such a situation, one cannot
 advance a step, nor see anything. I
 
 
-CONFUCIAN ANALECTS
-
-
 •fee
 
 
@@ -15686,8 +14942,7 @@ constant fear of being detected.
 
 13. CONTENTMENT WITH VULGAR
 WAYS AND VIEWS INJURIOUS TO VIR-
-TUE. See the sentiment of this chapter explained and expanded by Men-
-cius, VII, Pt. II, xxxvii, 7, 8. Jg,
+TUE. See the sentiment of this chapter explained and expanded by Mencius, VII, Pt. II, xxxvii, 7, 8. Jg,
 4th tone, the same as 5§. See the
 dictionary, character fig. g#, as in
 
@@ -15708,9 +14963,6 @@ on. — The glossarist on Ho Yen's
 work explains @; ^2 J^ as meaning —
 "is what the virtuous do not do."
 But this is evidently incorrect.
-
-
-CONFUCIAN ANALECTS
 
 
 -ffi,
@@ -15769,9 +15021,6 @@ them." The next paragraph shows
 that worse things had taken their
 
 
-CONFUCIAN ANALECTS
-
-
 The stern dignity of antiquity showed itself in grave
 reserve; the stern dignity of the present day shows
 itself in quarrelsome perverseness. The stupidity of
@@ -15791,8 +15040,7 @@ who with their sharp mouths overthrow kingdoms and
 families "
 
 
-place. 2. That |j£ is only "a disregard of smaller matters," or con-
-ventionalisms, appears from its opposition to |g, which has a more
+place. 2. That |j£ is only "a disregard of smaller matters," or conventionalisms, appears from its opposition to |g, which has a more
 intense signification than in chap,
 viii. 5f^-, as in XV, xxi, also with an
 intenser meaning. |fj?, "an angular
@@ -15822,9 +15070,6 @@ designation for "a state," the |$], or
 kingdom of the prince, embracing
 the ^, "families or clans," of his
 great officers. For [s£j wo here have
-
-
-CONFUCIAN ANALECTS
 
 
 CHAPTER XIX. 1. The Master said, "I would
@@ -15883,9 +15128,6 @@ fault was in trying to see the Master
 without using the services of an
 
 
-CONFUCIAN ANALECTS
-
-
 at the door, (the Master) took his lute and sang to it,
 in order that Pei might hear him.
 
@@ -15941,9 +15183,6 @@ employed for tins purpose, the elm
 and willow, for instance, to spring,
 
 
-CONFUCIAN ANALECTS
-
-
 jfc
 
 
@@ -15978,9 +15217,6 @@ mourning. Tsze-wo is strangely insensible to the home-put argument
 of the Master, jfg is to be understood here as ^ £. ^ ^', "the most
 excellent grain." The ^ are demonstrative. G. ^ ;£ 3f» £l -di
 responds to all that has gone hefore,
-
-
-CONFUCIAN ANALECTS
 
 
 arms of its parents. And the three years' mourning
@@ -16025,9 +15261,6 @@ borrowed from India. ^ £., — £.
 refers to tf K£. K for 0' as in XI»
 
 
-CONFUCIAN ANALECTS
-
-
 fill £g
 
 
@@ -16067,9 +15300,6 @@ Confucius himself by "the superior
 man." $£ is here in the sense of
 "class." T $&— ~F -{ft £ A)
 of low station." In jj% ^- ,
-
-
-CONFUCIAN ANALECTS
 
 
 propriety. He hates those who are forward and
@@ -16112,9 +15342,6 @@ an utterance, though correct in itself,
 from Confucius.
 
 
-CONFUCIAN ANALECTS
-
-
 CHAPTER XXVI. The Master said, "When a man
 at forty is the object of dislike, he will always continue what he is."
 
@@ -16147,8 +15374,7 @@ Mo. 18." This Book, consisting of
 only eleven chapters, treats of various individuals famous in Chinese
 history, as eminent for the way in
 which they discharged their duties
-to their sovereign, or for their retireinout from public service. It com-
-memorates also some of the worthies
+to their sovereign, or for their retireinout from public service. It commemorates also some of the worthies
 of Confucius's days, who lived in
 retirement rather than be in office in
 so degenerate times. The object of
@@ -16178,9 +15404,6 @@ last sovereign of the Yin dynasty,
 1154-1122 B. c. The chief of Chi,
 
 
-CONFUCIAN ANALECTS
-
-
 SHU
 
 
@@ -16206,8 +15429,7 @@ the country of my parents?"
 
 
 and Pi-kan, were both uncles of the
-tyrant. The first, seeing that remonstrances availed nothing, with-
-drew from court, wishing to preserve
+tyrant. The first, seeing that remonstrances availed nothing, withdrew from court, wishing to preserve
 the sacrifices of their family amid
 the ruin which he saw was impending. The second was thrown into
 prison, and, to escape death, feigned
@@ -16244,14 +15466,10 @@ ought to be another paragraph, giving Con fucius's judgment upon flui's
 conduct, but it has been lost.
 
 
-CONFUCIAN ANALECTS
-
-
 •til,
 
 
-CHAPTER III. The duke Ching of Ch'i, with reference to the manner in which he should treat Con-
-fucius, said, "I cannot treat him as I would the chief
+CHAPTER III. The duke Ching of Ch'i, with reference to the manner in which he should treat Confucius, said, "I cannot treat him as I would the chief
 of the Chi family. I will treat him in a manner
 between that accorded to the chief of the Chi, and
 that given to the chief of the Mang family." He also
@@ -16305,7 +15523,6 @@ Confucius, indignant and sorrowful,
 withdrew from office, and for a time,
 
 
-CONFUCIAN ANALECTS
 ffiK
 
 
@@ -16346,8 +15563,7 @@ him in the ^ H£, in loc. It must
 have been about the year 489 B. c.
 
 
-that the incident in the text occurred. By the Jang, which we com-
-monly translate by phoenix, his
+that the incident in the text occurred. By the Jang, which we commonly translate by phoenix, his
 satirizer or adviser intended Confucius ; see IX, viii. The tliree jfjj in
 the song are simply expletives, pauses
 for the voice to help o it the rhythm.
@@ -16362,9 +15578,6 @@ to provide against.
 
 rfa
 ftlo
-
-
-CONFUCIAN ANALECTS
 
 
 iTri
@@ -16413,9 +15626,6 @@ ought to know the ford. 3. vS V^
 pointed to the surging waters before
 
 
-CONFUCIAN ANALECTS
-
-
 and then Cfiieh-ni said to him, "Disorder, like a swelling flood, spreads over the whole empire, and who is
 he that will change its state /or you? Than follow
 one who merely withdraws from this one and that
@@ -16449,9 +15659,6 @@ associate with birds and beasts." j£
 "there would be no use." Literally, " I should not have for whom to
 change the state oj the empire."-
 The use of ^c ^- in this paragraph is
-
-
-CONFUCIAN ANALECTS
 
 
 fin $1
@@ -16508,9 +15715,6 @@ with his arms across his breast,
 indicated his respect, and won upon
 
 
-CONFUCIAN ANALECTS
-
-
 ffii W
 
 
@@ -16548,9 +15752,6 @@ evening before, and to all the orderly
 intercourse between old and young,
 
 
-CONFUCIAN ANALECTS
-
-
 Ttr
 
 
@@ -16563,8 +15764,7 @@ failure of right principles to make progress, he is
 aware of that."
 
 CHAPTER VIII. 1. The men who have retired to
-privacy from the world have been Po-i, Shu-ch'i, Yiichung, I-yi, Chu-chang, Hui of Liu-hsia, and Shao-
-lien.
+privacy from the world have been Po-i, Shu-ch'i, Yiichung, I-yi, Chu-chang, Hui of Liu-hsia, and Shaolien.
 
 2. The Master said, "Refusing to surrender their
 wills, or to submit to any taint in their persons; —
@@ -16573,8 +15773,7 @@ such, I think, were Po-i and Shu-ch'i.
 
 which he had probably seen in the
 family, fpj :£ Jg ;£, — :Hl refers to
-the old man, but there is an indefiniteness about the Chinese con-
-struction, which does not make it so
+the old man, but there is an indefiniteness about the Chinese construction, which does not make it so
 personal as our "he." So Confucius
 is intended by ;§• J-, though that
 phrase may be taken in its general
@@ -16601,9 +15800,6 @@ They may display it also in the
 manner of their discharge of office."
 The phrase is guarded in this way, I
 suppose, because of its applicatiou
-
-
-CONFUCIAN ANALECTS
 
 
 ffii
@@ -16659,9 +15855,6 @@ best of it I could. fa = $ it ± 3C
 ^, "the order and series of righteousness and principles." ]lt = A '£•
 
 
-CONFUCIAN ANALECTS
-
-
 5. "I am different from all these. I have no
 course for which I am predetermined, and no course
 against which I am predetermined."
@@ -16695,8 +15888,7 @@ once Confucius had rectified the
 music of Lu ( IX, xiv), the musicians
 would no longer be assisting in the
 prostitution of their art; and so, as
-the disorganization and decay proceeded, the chief among them with-
-drew to other states, or from society
+the disorganization and decay proceeded, the chief among them withdrew to other states, or from society
 altogether. 1. ^=^, as opposed to
 
 
@@ -16722,9 +15914,6 @@ the m ^ ^ HL article LVII, the
 expressions X 'fc ?Sf) A jfc $1 are to
 be taken as meaning simply, — "lived
 on the banks of the Ho, the Han."
-
-
-CONFUCIAN ANALECTS
 
 
 4. Wii, the master of the hand drum, withdrew to
@@ -16785,9 +15974,6 @@ his own relatives." 0,, — here = ^3,
 XIII, xxv.
 
 
-CONFUCIAN ANALECTS
-
-
 CHAPTER XI. To Chau belonged the eight officers,
 Po-ta, Po-kwo, Chung-tu, Chung-hwu, Shu-ya, Shulisia, Chi-sui, and Chi-kwa.
 
@@ -16827,8 +16013,7 @@ Confucius does not appear personally
 in this Book at all. Chu Hsi says:
 "This Book records the words of
 the disciples, Tsze-hsia being the
-most frequent speaker, and Tszekuug next to him. For in the Con-
-fucian school, after Yen Yuan there
+most frequent speaker, and Tszekuug next to him. For in the Confucian school, after Yen Yuan there
 was no one of such discriminating
 •understanding as Tsze-kung, and
 after Tsang Shan no one of such
@@ -16847,9 +16032,6 @@ SCHOLAR, i, — see note on XII, xx,
 about the scholar-officer, j^ ^,-^
 the danger is to be understood as
 threatening his country. Hsing Ping,
-
-
-CONFUCIAN ANALECTS
 
 
 presented to him, he thinks of righteousness. In
@@ -16902,9 +16084,6 @@ OUR, INTERCOI KSK WITH OTHERS. On
 the disciples of Tsze-hsia, see the ^|
 
 
-CONFUCIAN ANALECTS
-
-
 does Tsze-hsia say on the subject?" They replied,
 "Tsze-hsia says: 'Associate with those who can
 advantage you* Put away from you those who cannot
@@ -16939,11 +16118,7 @@ merely carrying out Confucius's rule,
 I, viii, 3. Chu Hsi, however, approves of Tsze-chang's censure of it,
 while he thinks also that Tszechang's own view is defective. — Pao
 Hsien says, "Our intercouise with
-friends should be according to Tszehsia's rule; general intercourse ac-
-cording to Tsze-chang}s.:)
-
-
-CONFUCIAN ANALECTS
+friends should be according to Tszehsia's rule; general intercourse according to Tsze-chang}s.:)
 
 
 $„ iSc
@@ -16988,15 +16163,11 @@ principles."
 LOVE OF LEARNING: — ^BY TSZE-HSIA.
 
 
-CONFUCIAN ANALECTS
-
-
 JBl
 
 
 CHAPTER VI. Tsze-hsia said, "There are learning
-extensively, and having a firm and sincere aim; inquiring with earnestness, and reflecting with self-
-application: — virtue is in such a course."
+extensively, and having a firm and sincere aim; inquiring with earnestness, and reflecting with selfapplication: — virtue is in such a course."
 
 CHAPTER VII. Tsze-hsia said, "Mechanics have
 their shops to dwell in, in order to accomplish their
@@ -17052,9 +16223,6 @@ he, is sure to gloss. Wan, in thia
 sense, a verb, in the 4th tone.
 
 
-CONFUCIAN ANALECTS
-
-
 -ife
 
 
@@ -17097,9 +16265,6 @@ force of the term, but it requires the
 possession of the former quality.
 
 
-CONFUCIAN ANALECTS
-
-
 fci
 
 
@@ -17120,8 +16285,7 @@ CHAPTER XII. 1. Tsze-yu said, "The disciples and
 followers of Tsze-hsia, in sprinkling and sweeping the
 ground, in answering and replying, in advancing and
 receding, are sufficiently accomplished. But these are
-only the branches of learning., and they are left ignorant of what is essential. — How can they be acknowl-
-edged as sufficiently taught ? "
+only the branches of learning., and they are left ignorant of what is essential. — How can they be acknowledged as sufficiently taught ? "
 
 2. Tsze-hsia heard of the remark and said, "Alas!
 Yen- Yu is wrong. According to the way of the
@@ -17156,8 +16320,6 @@ of speaking of the disciples. The
 sprinkling, etc., are the things which
 boys were supposed anciently to be
 
-
-CONFUCIAN ANALECTS
 
 P d^vff
 
@@ -17200,8 +16362,7 @@ abrupt and enigmatical, jiu £. juj =
 
 #D ;£ fBJ ^ "SJ iijfc, in opposition to
 the JJIJ pj ^ above. 2. The general
-scope of Tsze-hsia's reply is sufficiently plain, but the old inter-
-preters and new differ in explaining
+scope of Tsze-hsia's reply is sufficiently plain, but the old interpreters and new differ in explaining
 the several sentences. After dwelling
 long on it, I have agreed generally
 with the new school, and followed
@@ -17216,9 +16377,6 @@ STANCE:— BY TSZE-HSIA. •g5 = ^f g£
 •Jj, in I, vi. — The saying needs to be
 much supplemented in translating,
 in order to bring out its meaning.
-
-
-CONFUCIAN ANALECTS
 
 
 rfi"t
@@ -17278,9 +16436,6 @@ g is said to indicate the ideas both
 °* S S« "one's self," and fi ££,
 
 
-CONFUCIAN ANALECTS
-
-
 niL
 
 
@@ -17334,9 +16489,6 @@ SHOULD CHERISH COMPASSION IN HIS
 ADMINISTRATION OF JUSTICE: — B^
 
 
-CONFUCIAN ANALECTS
-
-
 flu
 
 
@@ -17383,9 +16535,6 @@ bad reputation, which gets the credit
 of every vice.
 
 
-CONFUCIAN ANALECTS
-
-
 -jfc,
 
 
@@ -17420,8 +16569,7 @@ TIONS AND TRADITIONS OF THE PBIN-
 
 CIPLES OF WAN AND Wu :- — BY TSZE-
 KUNG. 1. Of the questioner here we
-have no other memorial. His surname indicates that he was a descend-
-ant of some of the dukes of Wei.
+have no other memorial. His surname indicates that he was a descendant of some of the dukes of Wei.
 Observe how he calls Confucius by
 his designation of $f f& or "Ni
 secundus." (There was an elder
@@ -17429,9 +16577,6 @@ brother, a concubine's son, who was
 called f£ Jg.) ft f£ M ®, "How did
 Chung-ni learn?" but the "how" =
 "from whom?" The expression,
-
-
-CONFUCIAN ANALECTS
 
 
 Ifff i
@@ -17459,8 +16604,7 @@ however, in par. 2, — ^ -J- jg ;?;
 quarter?" rather than "from what
 person?" as the proper rendering.
 The last clause is tauen by modern
-commentators, as asserting Confucius's connate knowledge, but An-
-kwo finds in it only a repetition of
+commentators, as asserting Confucius's connate knowledge, but Ankwo finds in it only a repetition of
 the statement that the sage found
 teachers everywhere.
 
@@ -17535,9 +16679,6 @@ be understood, according to the $j
 gf, as embracing all other sages. ^J
 
 
-CONFUCIAN ANALECTS
-
-
 -tfc, H
 
 
@@ -17593,9 +16734,6 @@ about the character of their Master.
 modest." 2. ;§• ^- has here its lightest meaning. The f|- H makes it =
 
 
-CONFUCIAN ANALECTS
-
-
 4. "Were our Master in the position of the ruler
 of a state or the chief of a family, we should find
 verified the description which has been given of a sagtfs
@@ -17623,7 +16761,6 @@ xxxii, 3. 2, them, "the people"
 being' always understood.
 
 
-CONFUCIAN ANALECTS
 BOOK XX. YAO Yt)EH
 
 
@@ -17682,9 +16819,6 @@ he gave the substance of the
 original in his quotations, without
 seeking to observe a verbal accuracy,
 or, possibly, the Shu-ching, as it was
-
-
-CONFUCIAN ANALECTS
 
 
 Vfc
@@ -17747,9 +16881,6 @@ the dictionary, it is said that £1 and
 &Q are interchanged. This is a case
 
 
-CONFUCIAN ANALECTS
-
-
 rrjr
 
 
@@ -17792,9 +16923,6 @@ the sense of ^=, "to blame." The
 people found fault with him, because
 he did not come to save them from
 their sufferings by destroying their
-
-
-CONFUCIAN ANALECTS
 
 
 JEl ?L
@@ -17848,9 +16976,6 @@ describing principles to be observed
 by all in authority, and which will
 find in the highest their noblest embodiment. The 0 |g favors this
 view. See its paraphrase in loc, I
-
-
-CONFUCIAN ANALECTS
 
 
 aat s£)
@@ -17913,9 +17038,6 @@ for what is not proper is covetousness, but if, while the wish to have
 the kingdom overshadowed by his
 
 
-CONFUCIAN ANALECTS
-
-
 m fin" A
 
 
@@ -17940,8 +17062,7 @@ warning; — this is called oppression. To issue orders
 
 
 benevolence has not reached to universal advantaging, his desire does
-not cease, then, with a heart impatient of people's evils, he ad-
-ministers a government impatient
+not cease, then, with a heart impatient of people's evils, he administers a government impatient
 of those evils. What he desires is
 benevolence; and what ho gets is the
 game; — how can he be regarded as
@@ -17953,9 +17074,6 @@ get that meaning out of the character, which = "to examine," "to look
 for." A good deal has to be supplied,
 here and in the sentences below,
 to bring out tho meaning as in the
-
-
-CONFUCIAN ANALECTS
 
 
 -tiL -tile
@@ -17979,8 +17097,7 @@ established.
 
 translation, ijg ;£ is explained by £3
 £,and seems to me to be nearly =
-our "on the whole." ft £|i}, — "giving out," i. e., from this, and "pre-
-senting," i. e., to thaf. The whole is
+our "on the whole." ft £|i}, — "giving out," i. e., from this, and "presenting," i. e., to thaf. The whole is
 understood to refer to rewarding
 ' men for their services, and doing it
 in aii unwilling and stingy manner.
@@ -18006,13 +17123,7 @@ we must attend well to what and
 how he thinks.
 
 
-THE GREAT LEARNING
-
-
 SOI
-
-
-THE GREAT LEARNING
 
 
 .My master, the philosopher Ch'ang, says : "The Great Learning is a Book
@@ -18085,9 +17196,6 @@ The Ch'ang here is the second of the
 two brothers, to whom reference is
 jnai'o in the prolegomena. JL JS)
 " Confucius," =the K'ung, as 2fr j£ is
-
-
-THE GREAT LEARNING
 
 
 ancients pursued their learning is solely owing to the preservation of this
@@ -18189,8 +17297,7 @@ simpler, ^f, is there not the nature,
 but simply virtue, or virtuous conduct, and the first object in the
 Great Learning is the making of
 one's self more and more illustrious
-in virtue, or the practice of benevolence, reverence, filial piety, kind-
-ness, and sincerity. See the £fe /$. ~fc
+in virtue, or the practice of benevolence, reverence, filial piety, kindness, and sincerity. See the £fe /$. ~fc
 & St $£) in l°c- — There is nothing,
 of course, of the renovating of the
 people, in this interpretation. The
@@ -18228,9 +17335,6 @@ above. But if this be known in the
 outset, where is the necessity for the
 $£, or "careful deliberation." which
 issues in its attainment? The para-
-
-
-THE GREAT LEARNING
 
 
 -» lies
@@ -18280,8 +17384,7 @@ end. The root and the beginning
 are what is first. The completion
 and end are what is last." — The
 adherents of the old commentators
-say, on the contrary, that this paragraph is introductory to the succeed-
-ing ones. They contend that the
+say, on the contrary, that this paragraph is introductory to the succeeding ones. They contend that the
 illustration of virtue and renovation
 of the people are doings (ijil), and not
 things ($)). According to them, the
@@ -18302,9 +17405,6 @@ as embracing the two first objects of
 the Great Learning;, the illustration.
 
 
-THE GREAT LEARNING
-
-
 ^fcfc
 
 
@@ -18322,8 +17422,7 @@ simply — 5^ f 2p, "the whole kingdom was made tranquil." — Ying-ta's
 comment is— ^ $J g, £ W ft & £
 "Jfc 5^ ~fT, "to display illustriously
 their own illustrious virtue (or virtues), making them reach through
-the whole kingdom." But the influence must be very much trans-
-formative. Of the several steps
+the whole kingdom." But the influence must be very much transformative. Of the several steps
 described, tne central one is fg- j| ,
 "the cultivation of the person,"
 which, indeed, is called ;£, "the
@@ -18355,8 +17454,7 @@ carrying our knowledge to its utmost
 extent, with the desire that there
 may be nothing which it shall not
 embrace." This knowledge, finally,
-is realized ^ jfe tfyj. The same authority takes 4%, "things," as em-
-bracing, ^, "affairs," as well. $}•
+is realized ^ jfe tfyj. The same authority takes 4%, "things," as embracing, ^, "affairs," as well. $}•
 sometimes = ^, "to come or extend
 to," and assuming that the "coming
 to" here is by study, he makes it =
@@ -18415,8 +17513,7 @@ first do the other. Bather it seems
 to me that the Ifc $%} is a consequence
 °f S5C £fl. that in it is seen the other.
 Now, 5^1, "a rule or pattern," and
-]E "to correct," are accepted meanings of $}•, and $fy being taken gener-
-ally and loosely as=things, ^ /jig- !j%
+]E "to correct," are accepted meanings of $}•, and $fy being taken generally and loosely as=things, ^ /jig- !j%
 will tell us that, when his selfknowledge is complete, a man is a
 law to himself , measuring, and measuring correctly, all. things with
 which he has to do, not led astray
@@ -18435,8 +17532,6 @@ it, and I leave the vexed questions,
 regretting my own inability to clear
 them up.
 
-
-THE GREAT LEARNING
 
 Fii ^ to M
 
@@ -18485,9 +17580,6 @@ tjf, "all." Chang K'ang-ch'ang,
 however, says: ^ ^, |J ff J§- -tfc,^
 "§t? ^ means that they tinifonnly
 do this."
-
-
-THE GREAT LEARNING
 
 
 7. It cannot be, when the root is neglected, that
@@ -18547,9 +17639,6 @@ is a question vehemently disputed.
 on the right "; ^n fa, "on the left";
 
 
-THE GREAT LEARNING
-
-
 (&e oW copies of the work, there appeared considerable confusion in these,
 from the disarrangement of the tablets. But now, availing myself of the
 decisions of the philosopher Ch'ang, and having examined anew the classical
@@ -18579,8 +17668,7 @@ do well to refer here to the text of
 in the Li Chi. He will then see how
 a considerable portion of it has been
 broken up, and transposed to form
-this and the five succeeding chapters. It was, no doubt, the occur-
-rence of |^, in the four paragraphs
+this and the five succeeding chapters. It was, no doubt, the occurrence of |^, in the four paragraphs
 here, and of the phrase tJJj ^, which
 determined Chu Hsi to form them
 into ono chapter, and refer them to
@@ -18611,9 +17699,6 @@ the address of the premier, I Yin, to
 T'ai-chia, the second emperor of the
 Shang dynasty, 1753-1719 B. c.
 The subject of Kg is T'ai-chia's
-
-
-THE GREAT LEARNING
 
 
 flj
@@ -18673,9 +17758,6 @@ is exhorted to assist the king "to
 settle the decree of Heaven, and f^
 $ft B;." which may mean to make
 the bad people of Yin into good
-
-
-THE GREAT LEARNING
 
 
 3. In the Book of Poetry, it is said, "Although
@@ -18743,9 +17825,6 @@ it, really contains the words of Confucius, we might have expected it to
 be headed by these characters. J£
 
 
-THE GREAT LEARNING
-
-
 jh isc
 
 
@@ -18772,9 +17851,6 @@ Jk» which does not appear to
 have any force at all in the original,
 Chu Hsi himself saying there that it
 is |fj fjij, "a mere supplemental partif le." In ft; %$, ^ is read u)&, and
-
-
-THE GREAT LEARNING
 
 
 -til,
@@ -18814,7 +17890,6 @@ r"oes seem unhappy. It ought evi-
 J dently to come in connection with
 
 
-THE GREAT LEARNING
 & Tfii ffil W\
 
 -tHo
@@ -18858,9 +17933,6 @@ to effect that there should not be a
 single thing but got its proper place.
 
 
-THE GREAT LEARNING
-
-
 •flL
 
 
@@ -18883,8 +17955,7 @@ this is the conclusion of the chapter
 on having the thoughts made sincere,
 
 
-and that ^ Jfc ^ is the root. Butaccording to Chix, it is the illustra-
-tion of illustrious virtue which is the
+and that ^ Jfc ^ is the root. Butaccording to Chix, it is the illustration of illustrious virtue which is the
 root, while the renovation of the
 people is the result therefrom. Looking at the words of Confucius, we
 must conclude that sincerity was tho
@@ -18926,9 +17997,6 @@ of the work from the time of the
 Sung scholars, and the manner in
 which Chu Hsi has supplied this
 supposed missing chapter.
-
-
-THE GREAT LEARNING
 
 
 -flL,
@@ -19013,9 +18081,6 @@ Compare ^- ^ £. |fc & flg ft J£ in
 the Shu-ching, IV, vii, Sect. Ill, 3.
 
 
-THE GREAT LEARNING
-
-
 ASt
 
 
@@ -19077,9 +18142,6 @@ unconscious of this pinch of the
 difficulty.
 
 
-THE GREAT LEARNING
-
-
 CHAPTER VII. 1. What is meant by, "The cultivation of the person depends on rectifying the mind,"
 may be thus illustrated:— If a man be under the
 influence of passion, he will be incorrect in his conduct. He will be the same, if he is under the influence
@@ -19121,9 +18183,6 @@ in point, to prove that we cannot
 tie ..fr in this Work to any very
 
 
-THE GREAT LEARNING
-
-
 ITii ££
 
 
@@ -19156,8 +18215,7 @@ lesson here is evidently that men
 are continually falling into error, in
 consequence of the partiality of their
 feelings and affections. How this
-error affects their personal cultivation, and interferes with the regulat-
-ing of their families, is not specially
+error affects their personal cultivation, and interferes with the regulating of their families, is not specially
 
 
 indicated. 1. The old interpreters
@@ -19176,9 +18234,6 @@ round and compare him with myself.
 Sinoe he is virtuous and I love him,
 then, if I cultivate myself and be
 virtuous, I shall so be able in like
-
-
-THE GREAT LEARNING
 
 
 0, ^) TTri 3£ Zr
@@ -19209,8 +18264,7 @@ regulating the family.
 manner to make all men feel affection for, and love me." In a similar
 way the other clauses are dealt with.
 Chu Hsi takes £. ap=;J$-, "in regard
-t«," and J$ (read p'i) as = fig, "partial," "one-sided." Even his op-
-ponent, Lo Chung-fan, interprets
+t«," and J$ (read p'i) as = fig, "partial," "one-sided." Even his opponent, Lo Chung-fan, interprets
 here in the same way. But j£ is
 evidently the common sign of possession, the clause that follows it
 being construed as the regent after
@@ -19221,9 +18275,6 @@ of his growing crop." Farmers were
 noted, it would appear, in China, so
 long ago, for grumbling about their
 crops.
-
-
-THE GREAT LEARNING
 
 
 •flu
@@ -19272,9 +18323,6 @@ taught is just my inability to teach."
 Jfe
 
 
-THE GREAT LEARNING
-
-
 -til
 
 
@@ -19318,9 +18366,6 @@ which the sovereign speaks of himself; see Analects, XX, i, 5. — • W =
 i£, — X /£ ffi) — compare Analects,
 
 
-THE GREAT LEARNING
-
-
 fln
 
 
@@ -19358,9 +18403,6 @@ example. fff = ;&. ffiffi3?-^, "what
 is kept in one's own person/' i. e., his
 character and mind, ^f,, — see Analects, V, xi; XV, xxiii. Ying-tu
 seems to take xjS Sft as simply =
-
-
-THE GREAT LEARNING
 
 
 dIP
@@ -19403,9 +18445,6 @@ Ode VI, st. 3. The ode was sung at
 entertainments, when the king feasted the princes. It celebrates their
 
 
-THE GREAT LEARNING
-
-
 people of the state." Yes; when the ruler, as a
 father, a son, and a brother, is a model, then the
 people imitate him.
@@ -19444,8 +18483,7 @@ the state, and the tranquilization of
 the kingdom. The greatest stress is
 
 
-to be laid on the phrase — the measuring square. That, and the ex-
-pression in the general commentary
+to be laid on the phrase — the measuring square. That, and the expression in the general commentary
 - — loving and hating what the people
 love and hate, and not thinking only of
 the profit, exhaust the teaching of
@@ -19467,9 +18505,6 @@ that the decree of Heaven goes or
 remains, according as the people's
 hearts are lost or gained. The third
 part embraces eight paragraphs, and
-
-
-THE GREAT LEARNING
 
 
 It fin
@@ -19538,9 +18573,6 @@ t&- 5U, — properly, "fatherless"; here
 = "the young and helpless." \$,
 
 
-THE GREAT LEARNING
-
-
 lib
 
 
@@ -19583,9 +18615,6 @@ mind, and measure therewith the
 minds of others. If he act accordingly, the grand result — the kingdom
 tranquil and happy — will ensue. 2.
 A lengthened description of the principle of reciprocity. $fc, — 4th tone,
-
-
-THE GREAT LEARNING
 
 
 jfc
@@ -19782,9 +18811,6 @@ of his life, he was a fugitive, and
 suffered many vicissitudes of fortune.
 
 
-THE GREAT LEARNING
-
-
 JEl
 
 
@@ -19819,9 +18845,6 @@ Ch'in" is the last book in the Shuching. It was made by one of the
 dukes of Ch'in to his officers, after he
 had sustained a great disaster, in
 consequence of neglecting tlie advice
-
-
-THE GREAT LEARNING
 
 
 lit
@@ -19866,9 +18889,6 @@ Middle Kingdom." China is evidently so denominated, from its
 being thought to be surrounded by
 barbarous tribes. ^ fc A $£ S 5$,
 — see Analects, IV, iii. 10. 1 have
-
-
-THE GREAT LEARNING
 
 
 ffii &
@@ -19924,9 +18944,6 @@ others." Ying-ta says it is — "the
 course by which he practices filial
 
 
-THE GREAT LEARNING
-
-
 iff
 
 
@@ -19953,8 +18970,7 @@ accumulates wealth, at the expense of his life.
 piety, fraternal duty, benevolence,
 and righteousness." |g and ^ are
 here qualities of the same nature.
-They are not contrasted as in the Analects, XIII, xxvi. 19. This is under-
-stood by K'ang-ch'ang as requiring
+They are not contrasted as in the Analects, XIII, xxvi. 19. This is understood by K'ang-ch'ang as requiring
 the promotion of agriculture, and
 that is included, but does not exhaust the meaning. The consumers
 are the salaried officers of the government. The sentiment of the whole
@@ -19975,9 +18991,6 @@ and that benevolence, even to the
 scattering of his wealth on the part
 
 
-THE GREAT LEARNING
-
-
 loving benevolence, and the. people not loving righteousness. Never has there been a case where the
 people have loved righteousness, and the affairs of the
 sovereign have not been carried to completion. And
@@ -19988,8 +19001,7 @@ not continue in the sovereign's possession.
 22. The officer Mang Hsien said, "He who keeps
 horses and a carriage does not look after fowls and
 pigs. The family which keeps its stores of ice does
-not rear cattle or sheep. So, the house which possesses a hundred chariots should not keep a minis-
-ter to look out for imposts that he may lay them
+not rear cattle or sheep. So, the house which possesses a hundred chariots should not keep a minister to look out for imposts that he may lay them
 on the people. Than to have such a minister, it were
 
 
@@ -20006,9 +19018,6 @@ Work which is now lost. ^ (read
 ch'u) j$ ,^, — on a scholar's being
 
 
-THE GREAT LEARNING
-
-
 JEl
 
 
@@ -20016,8 +19025,7 @@ JEl
 
 
 better for that house to have one who should rob it of
-its revenues." This is in accordance whith the saying:— "In a state, pecuniary gain is not to be con-
-sidered to be prosperity, but its prosperity will be
+its revenues." This is in accordance whith the saying:— "In a state, pecuniary gain is not to be considered to be prosperity, but its prosperity will be
 found in righteousness."
 
 23. When he who presides over a state or a family
@@ -20051,9 +19059,6 @@ a verb, = £), ^ |£-, "considers to be
 good.» # a % ij ft jpj. w a ft m,
 
 — see Mencius, 1, Pt. I, i, et passim.
-
-
-THE GREAT LEARNING
 
 
 Jit
@@ -20118,8 +19123,7 @@ the accepted meaning of Jff in this
 
 combination, till Ch'ang 1 introduced
 that of ?f» $,, "unchanging," as in
-the introductory note, which, however, the dictionary does not ac-
-knowledge. Chu Hsi himself says —
+the introductory note, which, however, the dictionary does not acknowledge. Chu Hsi himself says —
 
 
 /lf) ^P & •&» "Chung is the name for
@@ -20132,9 +19136,6 @@ made to X'ang-ch'ang's words given
 above, the compilers not having
 observed that he immediately subjoins — /|f, f\] ill, showing that he
 takes Yung in the sense of "to
-
-
-348 THE DOCTRINE OF THE MEAN
 
 
 ffii if
@@ -20246,8 +19247,7 @@ in a gloss on a passage from the
 Yi-cliing, quoted in the dictionary. —
 & % A #f M S. "Ming is what
 men are endowed with." Chu also
-says that ffe is just if, the "principle," characteristic of any par-
-ticular nature. But this only involves the subject in mystery. His
+says that ffe is just if, the "principle," characteristic of any particular nature. But this only involves the subject in mystery. His
 explanation of j|£ by g£, "a path,"
 seems to be correct, though some
 modern writers object to it. — What
@@ -20379,15 +19379,11 @@ quce adversantur et infestce stint homini, et ipsius naturae humance ad
 deleriora tarn pronce, longo usu et
 contemplatione didicisse videtur, non
 posse hoc universum, quod homo
-vitiatus quodam modo vitiarat, connaturali suce integritati et ordini re-
-stitui, nisi prius ipse homo per
+vitiatus quodam modo vitiarat, connaturali suce integritati et ordini restitui, nisi prius ipse homo per
 victoriam sui ipsius, cam, quam
 amiseratt integrilatem et ordinem recuperaret." I fancied something of
 the same kind, before reading their
 note. According to Chii Hsi, thr
-
-
-352 THE DOCTRINE OF THE MEAN
 
 
 ffl
@@ -20433,9 +19429,6 @@ nourished and fostered."
 CONCLUDING NOTE. The writer
 Yang, A. D. 1053-11315, quoted here,
 was a distinguished scholar and
-
-
-THE DOCTRINE OF THE MEAN
 
 
 -tiL
@@ -20494,9 +19487,6 @@ Chu Hsi quotes from the scholar Yu
 (5J|), to the effect that tfj $J is said
 with the nature and feelings in view,
 and »£ Jjj , with reference to virtue
-
-
-354 THE DOCTRINE OF THE MEAN
 
 
 -tiL ffii
@@ -20586,8 +19576,7 @@ for their practice. ff , — "as," "like."
 
 ^S 1^ following K) indicates individuals of a different character,
 not equal to them. 2. We have here
-not a comparison, but an illustration, which may help to an under-
-standing of the former paragraph,
+not a comparison, but an illustration, which may help to an understanding of the former paragraph,
 though it does not seem very apt.
 People do not know the true flavor
 of what they eat and drink, but they
@@ -20596,9 +19585,6 @@ So the Mean belongs to all the
 actions of ordinary life, and might
 be discerned and practiced in them,
 without looking for it in extraordinary things.
-
-
-356 THE DOCTRINE OF THE MEAN
 
 
 iffi
@@ -20715,9 +19701,6 @@ any one. ^ is "the closed fist" ; J^
 firm.'.'
 
 
-358 THE DOCTRINE OF THE MEAN
-
-
 •ffi,,
 
 
@@ -20768,8 +19751,7 @@ chap, viii, he wanted to know
 whether Confucius would not allow
 that he also could, with his forceful
 character, seize and hold fast the
-Mean. 1. For 5$ I have been disposed to coin the term "forceful-
-ness." Chu defines it correctly — -ft
+Mean. 1. For 5$ I have been disposed to coin the term "forcefulness." Chu defines it correctly — -ft
 JS. JS 0 A £ &) "the name of
 strength sufficient to overcome
 others." 2. jfjj ( =$c) §£ must be —
@@ -20800,8 +19782,7 @@ JIB
 *Jfc? H
 
 
-3. "To show forbearance and gentleness in teaching others; and not to revenge unreasonable con-
-duct:— this is the energy of southern regions, and the
+3. "To show forbearance and gentleness in teaching others; and not to revenge unreasonable conduct:— this is the energy of southern regions, and the
 good man makes it his study.
 
 4. "To lie under arms; and meet death without
@@ -20813,8 +19794,7 @@ friendly harmony, without being weak. — How firm is
 he in his energy! He stands erect in the middle,
 
 
-allowable. 3. That climate and situation have an influence on char-
-acter is not to be denied, and the
+allowable. 3. That climate and situation have an influence on character is not to be denied, and the
 Chinese notions on the subject may
 be seen in the amplification of the
 9fch of the K'ang-hsi celebrated Precepts ( lg Ink j$j gjll). But to speak of
@@ -20845,9 +19825,6 @@ beginning of par. 5, " therefore," =
 thus respectively in defect and excess." ^ is §$ |JJ, "the appearance
 of beinc energetic." This illustrates
 the energy which is in exact accord
-
-
-360 THE DOCTRINE OF THE MEAN
 
 
 fin
@@ -20902,8 +19879,6 @@ well with the older view. 2. ^ ^f- is
 here the same as in the last chapter,
 par. 3. A distinction is made between
 
-
-THE DOCTRINE OF THE MEAN 361
 
 \ & Ji, •? tb rfii fig
 
@@ -21132,9 +20107,6 @@ of the Mean, is nearer to us than the
 one ax is to the other. The branch
 
 
-THE DOCTRINE OF THE MEAN
-
-
 iti?
 
 
@@ -21174,9 +20146,6 @@ must be allowed that the cases, as
 put by him, are in a measure hypothetical, his father having died when
 
 
-366 THE DOCTRINE OF THE MEAN
-
-
 this I have not attained; to serve my elder brother, as
 I would require my younger brother to serve me: to
 this I have not attained; to set the example in
@@ -21211,9 +20180,6 @@ $?, — as a final particle, = JJ., "simply," "just."
 
 
 Jft
-
-
-THE DOCTRINE OF THE MEAN 367
 
 
 CHAPTER XIV. 1. The superior man does what is
@@ -21265,9 +20231,6 @@ himself to his position." I consider
 it equivalent to what is said in chap.
 
 
-368 THE DOCTRINE OF THE MEAN
-
-
 ffi
 
 
@@ -21291,8 +20254,7 @@ seeks for the cause of his failure in himself."
 3. $£ is explained in the dictionary,
 after K'ang-ch'ang, by ^ }$, "to
 drag and cling to." The opposition
-of the two clauses makes the meaning plain. 4. U , according to K'ang-
-ch'ang, |£ 2p tg, «ia equivalent to
+of the two clauses makes the meaning plain. 4. U , according to K'angch'ang, |£ 2p tg, «ia equivalent to
 peaceful and tranquil." Chu Hsi
 says,— %, 2p i£ ^, «^ means level
 ground." This is most correct, but
@@ -21362,9 +20324,6 @@ From wife, and children, and brothers, parents at last are reached,
 illustrating how from what is low we
 ascend to what is high.— But all this
 is far-fetched and obscure.
-
-
-370 THE DOCTRINE OF THE MEAN
 
 
 fig
@@ -21447,9 +20406,6 @@ precise meaning of what is said of
 jfjj ^ pj jg; cannon b0
 
 
-THE DOCTRINE OF THE MEAN 371
-
-
 3. "They cause all the people in the kingdom to
 fast and purify themselves, and array themselves in
 their richest dresses, in order to attend at their sacrifices. Then, like overflowing water, they seem to be
@@ -21511,9 +20467,6 @@ text we have the term ^ instead of
 yj[, because the latter is the name of
 the absolute as embodied in Heaven,
 and the former denotes the same not
-
-
-THE DOCTRINE OF THE MEAN
 
 
 5. "Such is the manifestness of what is minute!
@@ -21586,9 +20539,6 @@ The two together mean the place
 where the figures of one'e ancestors
 
 
-THE DOCTRINE OF THE MEAN 373
-
-
 temple, and his descendants preserved the sacrifices to
 himself.
 
@@ -21608,8 +20558,7 @@ the views of some who thought that
 Shun sacrificed merely in the ancestral temple of Yao. But it is capable
 of proof that he erected one of his
 own, and ascended to Hwang-ti, as
-his great progenitor. See Mao Hsiho's tfi J|f fft, in loc. gp,— "to enter-
-tain a guest"; and sometimes for IjL,
+his great progenitor. See Mao Hsiho's tfi J|f fft, in loc. gp,— "to entertain a guest"; and sometimes for IjL,
 "to enjoy." So we must take it
 here, — "enjoyed him"; that is, his
 sacrifices. As Shun resigned the
@@ -21638,9 +20587,6 @@ application. This may be said of ^t,
 but not of Ti,, and the /fe in ^ £
 /J£ 4% would seem to determine the
 meaning of both to be only good«
-
-
-374 THE DOCTRINE OF THE MEAN
 
 
 iSr A,
@@ -21684,9 +20630,6 @@ virtue is not favorable to morality.
 The case of Confucius himself, who
 attained neither to power nor to
 long life, may be adduced as inconsistent with these teachings.
-
-
-THE DOCTRINE OF THE MEAN
 
 
 CHAPTER XVIII. 1. The Master said, "It is only
@@ -21790,9 +20733,6 @@ are at first inclined to translate in
 the present tense, but the past witb
 
 
-THE DOCTRINE OF THE MEAN 377
-
-
 a scholar. If the father were a scholar arid the son
 a great officer, then the burial was that due to a
 scholar, and the sacrifice that due to a great officer.
@@ -21839,9 +20779,6 @@ of parents and parents' parents. \
 English idiorn seems to require the
 
 
-378 THE DOCTRINE OF THE MEAN
-
-
 3. "In spring and autumn, they repaired and
 beautified the temple halls of their fathers, set forth
 their ancestral vessels, displayed their various robes,
@@ -21861,8 +20798,7 @@ have been — jjifl, jjjj-j or f(J, ^, and $&.
 Others, however, give the names as
 $}' &) W) 3&» while some affirm that
 the spring sacrifice was ff. Though
-spring and autumn only are mentioned in the text, we are to under-
-stand that what is said of the
+spring and autumn only are mentioned in the text, we are to understand that what is said of the
 sacrifices in those seasons applies
 to all the others, ift Jfj, — "halls or
 temples of ancestors," of which the
@@ -21906,9 +20842,6 @@ the jf$ lj|j, yet so that one in the B$
 line displaced the topmost \jg, and
 so with the f§. At the sacrifices,
 the royal kindred arranged themselves as they were descended from
-
-
-* THE DOCTRINE OF THE MEAN 379
 
 
 -fll,
@@ -21975,8 +20908,7 @@ and Earth they served God, and by the ceremonies of
 
 
 "honored" are intended their ancestors, and by "those whom they
-loved," their descendants, and indeed all the people of their govern-
-ment. The two concluding sentences
+loved," their descendants, and indeed all the people of their government. The two concluding sentences
 are important, as the Jesuits mainly
 liascd on them the defense of their
 practice in permitting their converts
@@ -21989,8 +20921,7 @@ have made frequent reference: —
 Sinicis probari potest, legitimum
 prcedicti axiomatis sensum esse, quod
 eadem intentione et formali motivo
-Sinenses naturalem pietatem et politteum obsequium erga defunctos exer-
-ceant, sicuti erga eosdem adhuc superstites exercebant, ex quibus et ex infra
+Sinenses naturalem pietatem et politteum obsequium erga defunctos exerceant, sicuti erga eosdem adhuc superstites exercebant, ex quibus et ex infra
 \dieprudens lector facile deducet,
 'o.s- ritus circa defunctos fuisse mere
 chiles, institutes dmntaxat in honorem
@@ -22098,8 +21029,7 @@ XV) liLo rbv •''UJ ^lLt»o x \ s*'-t
 
 2. The Master said, "The government of Wan and
 Wu is displayed in the records, — the tablets of wood
-and bamboo. Let there be the men and the government will nourish ; but without the men, their govern-
-ment decays and ceases.
+and bamboo. Let there be the men and the government will nourish ; but without the men, their government decays and ceases.
 
 3. "With the right men the growth of government
 is rapid, just as vegetation is rapid in the earth; and,
@@ -22124,8 +21054,7 @@ i:-clf to produce and to nurture-''
 (& = *£)• Cim Hsi takes $jfas=ii,
 "hasty," "to make haste." A £1 $t
 jEi, — -"man's way hastens government"; but the A. must be taken
-with special reference to the preceding paragraph, as in the transla-
-tion. The old commentators took |$f
+with special reference to the preceding paragraph, as in the translation. The old commentators took |$f
 
 
 ^ as the name of an insect (so it is
@@ -22146,9 +21075,6 @@ if it were J^ = ^, whioh, as well as
 Iffi, is the name of various rushes or
 sedges. 4. In the ^ |£, for ^£ A)
 we have ^ Jf^ ^ A» which is, no
-
-
-THE DOCTRINE OF THE MEAN
 
 
 -flu JH
@@ -22201,9 +21127,6 @@ the text here by mistake. It belongs
 to par. 17, below. We do not find
 
 
-384 THE DOCTRINE OF THE MEAN
-
-
 •flu
 
 -tik-
@@ -22252,9 +21175,6 @@ government is exhibited in paragraphs 12-15. 5c T (£ »i st,— "the
 paths proper to be trodden by all
 
 
-THE DOCTRINE OF THE MEAN
-
-
 rffi
 
 
@@ -22289,8 +21209,7 @@ the various kings ("g" 31) downwards,
 in the practicing of these five duties
 and three virtues there has been but
 one method. There has been no
-change in modern times and ancient." This, however, is not satis-
-factory. We want a substantive
+change in modern times and ancient." This, however, is not satisfactory. We want a substantive
 meaning for — . This Chu Hsi gives
 us. He says:— fllj g& jfn E, " —
 is simply sincerity;" the sincerity,
@@ -22304,9 +21223,6 @@ practice of the duties dt the Mean,
 which is attained to by watchfulness
 over one's self, when alone. %f £. I
 understand as in the second clause
-
-
-THE DOCTRINE OF THE MEAN
 
 
 same thing. Some practice them with a natural ease ;
@@ -22323,8 +21239,7 @@ is to be near to energy.
 to cultivate his own character. Knowing how to
 
 
-of the paragraph. 9. Compare Analects, XVI, ix. 5flJ, — compare Ana-
-lects, XX, ii. $£, 2nd tone, "to
+of the paragraph. 9. Compare Analects, XVI, ix. 5flJ, — compare Analects, XX, ii. $£, 2nd tone, "to
 force," "to employ violent efforts."
 Chu Hsi Bays: "The £ in fcj £,
 and ft Z.) refers to the duties of
@@ -22348,16 +21263,11 @@ we have in the ^ j|f, or some other.
 Confucius's words were intended to
 encourage and stimulate the duke,
 telling him that the three grand
-virtues might be nearly, if not absolutely, attained to $0 g(fr, — "know-
-ing to be ashamed," i. e., being
+virtues might be nearly, if not absolutely, attained to $0 g(fr, — "knowing to be ashamed," i. e., being
 ashamed at being below others,
 leading to the determination not to
 be so. 11. "These three things" are
-the three things in the last paragraph, which makes an approxima-
-tion at least, to the three virtues
-
-
-THE DOCTRINE OF THE MEAN 387
+the three things in the last paragraph, which makes an approximation at least, to the three virtues
 
 
 ic it ftl A, ft
@@ -22419,9 +21329,6 @@ way:-f* ft) & H j| A £ & ifii ft
 3£ tti) -til. "fHt means that he places
 himself in their place, and so examines their feelings." ^J- J$; &, —
 ~p ia a verb, "to make children of,"
-
-
-388 THE DOCTRINE OF THE MEAN
 
 
 as children; encouraging the resort of all classes of
@@ -22518,8 +21425,7 @@ and stimulate one another to serve
 their ruler." On ftf ft] J£, Chu Hsi
 (says: "The resort of all classes of
 artisans being encouraged, there is
-au intercommunication of the productions of labor, and an inter-
-change of men's services, and the
+au intercommunication of the productions of labor, and an interchange of men's services, and the
 husbandman and the trafficker" (it
 is this class which is designed by ^),
 " are aiding to one another. Hence
@@ -22532,9 +21438,6 @@ ffl = &i&. See the t|i $ ft, in loc.
 Compare also ^ ^ ffi, x. 19. K'angch'ang understands pg ~Jj as meaning
 f§ 19, "frontier kingdoms," but the
 usage vf the phrase is against such
-
-
-390 THE DOCTRINE OF THE MEAN
 
 
 -flu
@@ -22575,8 +21478,7 @@ second the verb. The use of Jg» in
 reference to the prince's treatment
 of the officers is strange, but the
 translation gives what appears to be
-the meaning K'ang-ch'ang explained:— "Making large the emolu-
-ment of the loyal and sincere;" but,
+the meaning K'ang-ch'ang explained:— "Making large the emolument of the loyal and sincere;" but,
 according to the analogy of all the
 other clauses, & and fff must be
 
@@ -22624,9 +21526,6 @@ one state to another, there were
 anciently regulations, which may be
 
 
-392 THE DOCTRINE OF THE MEAN
-
-
 JEl
 
 
@@ -22641,8 +21540,7 @@ to revive states that have been extinguished; to
 reduce to order states that are in confusion, and
 support those which are in peril; to have fixed times
 for their own reception at court, and the reception of
-their envoys; to send them away after liberal treatment, and welcome their coming with small contribu-
-tions:-— -this is the way to cherish the princes of the
+their envoys; to send them away after liberal treatment, and welcome their coming with small contributions:-— -this is the way to cherish the princes of the
 states.
 
 15. "All who have the government of the kingdom
@@ -22670,9 +21568,6 @@ is the interpretation of K'ang-ch'ang
 and Ying-ta, who take the two paragraphs together. But according to
 Chu, "the one thing" is sincerity, as
 in par. 8 . 16. The "all things" has
-
-
-THE DOCTRINE OF THE MEAN
 
 
 fir
@@ -22769,9 +21664,6 @@ interpretation, extravagant as it is.
 ^ |g ceases to be the same with that
 
 
-THE DOCTRINE OF THE MEAN 395
-
-
 fa fflf %! S -to
 
 
@@ -22805,8 +21697,6 @@ Analects, simply intensifies the
 meaning of the different verbs,
 whose regimen it is. 20. Here we
 
-
-396 THE DOCTRINE OF THE MEAN
 
 gFEF3 jbM* 11*. «£»l2 *^»l2 rftl
 
@@ -22941,9 +21831,6 @@ sincerity," this is not dealing fairly
 with his text.
 
 
-398 THE DOCTRINE OF THE MEAN
-
-
 fig
 
 
@@ -22991,8 +21878,7 @@ Heaven has conferred on him is
 displayed without shortcoming or
 let." The "giving its development
 to the nature of other men" indicates
-the Sage's helping them, by his example and lessons, to perfect them-
-selves. "His exhausting the nature
+the Sage's helping them, by his example and lessons, to perfect themselves. "His exhausting the nature
 of things," i. e., of all other beings,
 animate and inanimate, is, according
 to Chu, "knowing them completely,
@@ -23011,9 +21897,6 @@ Kao, that "a dog's nature is the
 same as a man's." Mao himself
 
 
-THE DOCTRINE OF THE MEAN
-
-
 JBl
 
 
@@ -23029,8 +21912,7 @@ Earth, he may with Heaven and Earth form a ternion.
 illustrates the "exhausting the nature of things," by reference to the
 Shu-ching, IV, iii, 2, where we are
 told that under the first sovereigns
-of the Hsia dynasty, "the mountains and rivers all enjoyed tran-
-quillity, and the birds and beasts,
+of the Hsia dynasty, "the mountains and rivers all enjoyed tranquillity, and the birds and beasts,
 the fishes and tortoises, all realized
 the happiness of their nature." It
 is thus that the sage "assists Heaven
@@ -23067,9 +21949,6 @@ extravagance thus to file man with
 the supreme Power?
 
 
-400 THE DOCTRINE OF THE MEAN
-
-
 CHAPTER XXIII. Next to the above is he who
 cultivates to the utmost the shoots of goodness in him.
 From those he can attain to the possession of sincerity.
@@ -23100,20 +21979,15 @@ about the term. It properly means
 tion from what is straight and right."
 Yet it cannot have a bad meaning
 here, for if it have, the phrase, Jj( ^,
-will be, in the connection, unintelligible. One writer uses this compari-
-son: "Put a stone on a bamboo
+will be, in the connection, unintelligible. One writer uses this comparison: "Put a stone on a bamboo
 shoot, or where the shoot would
 show itself, and it will travel round
 the stone, and come out crookedly at
 its side." So it is with the good
 nature, whose free development is
 repressed. ' It shows itself in shoots,
-but if they be cultivated and improved, a moral condition and influ-
-ence may be attained, equal to that
+but if they be cultivated and improved, a moral condition and influence may be attained, equal to that
 of the Sage.
-
-
-THE DOCTRINE OF THE MEAN 401
 
 
 CHAPTER XXIV. It is characteristic of the most
@@ -23223,9 +22097,6 @@ if there be not sincerity, then every
 movement of it is vain and false.
 
 
-THE DOCTRINE OF THE MEAN 403
-
-
 -tHo -flL
 
 
@@ -23251,13 +22122,11 @@ How COD. an unreal mind accomplish
 real things? Although it may do
 something, that is simply equivalent
 to nothing. Therefore the superior
-man searches out the source of sincerity, and examines the evil of in-
-sincerity, chooses what is good, and
+man searches out the source of sincerity, and examines the evil of insincerity, chooses what is good, and
 firmly holds it fast, so seeking to
 arrive at the place of tmth and
 reality." Mao's explanation is: —
-"Now, since the reason why the sincerity of spiritual beings is so in-
-capable of being repressed, p.nd why
+"Now, since the reason why the sincerity of spiritual beings is so incapable of being repressed, p.nd why
 they foreknow, is because they enter
 into things, and there is nothing
 without them: — shall there be
@@ -23280,9 +22149,6 @@ bestowment to Heaven; — what distiaction is there in them of external
 aud internal?'' — All this, so far as
 I can see, is but veiling ignorance
 by words without knowledge.
-
-
-104 THE DOCTRINE OF THE MEAN
 
 
 CHAPTER XXVI. 1. Hence to entire sincerity there
@@ -23329,9 +22195,6 @@ The gloss in the ^ Hf says that it
 indicates a conclusion from all the
 preceding predicates about sincerity,
 understood, now in the
-
-
-THE DOCTRINE OF THE MEAN 405
 
 
 iff!
@@ -23451,8 +22314,7 @@ iguanodons, dragons, fishes, and turtles, are produced
 in them, articles of value and sources of wealth abound
 in them.
 
-10. It is said in the Book of Poetry, "The ordinances of Heaven, how profound are they and unceas-
-ing !" The meaning is, that it is thus that Heaven is
+10. It is said in the Book of Poetry, "The ordinances of Heaven, how profound are they and unceasing !" The meaning is, that it is thus that Heaven is
 
 
 taken generally. «% read ch'uan, the
@@ -23522,8 +22384,7 @@ m the Work (see the || &, in loc.),
 "the path which is in accordance with
 the nature." The student tries to
 believe so, and goes on to par. 2,
-when the predicate about the nourishing of all things puzzles and con-
-founds him. 2. ifsjj is not here the
+when the predicate about the nourishing of all things puzzles and confounds him. 2. ifsjj is not here the
 adverb, but = 3?, "reaching to." 3.
 By BJ§ iH we are to understand the
 greater and more general principles of
@@ -23538,9 +22399,6 @@ are round numbers. Reference is
 made to these rules and their minutiae, to show how, in every one of
 them, as proceeding from the Sage,
 there is a principle, to be referred to
-
-
-THE DOCTRINE OF THE MEAN 409
 
 
 4. It waits for the proper man, and then it is
@@ -23577,9 +22435,6 @@ said correctly, that •£ 'ft & — ffi 6fl
 §}, "the first sentence,— f£ ^. ft ffii
 SI F«1 ;% is the brains of the whole
 paragraph." jft #fc M & $T» — 8eo
-
-
-410 THE DOCTRINE OF THE MEAN
 
 
 fin
@@ -23691,9 +22546,6 @@ for Conf ucius's not giving law to the
 kingdom. It was not the time. $jj[,
 
 
-412 THE DOCTRINE OF THE MEAN
-
-
 4. One may occupy the throne, but if he have not
 the proper virtue, he may not dare to make ceremonies
 or music. One may have the virtue, but if he do not
@@ -23717,12 +22569,8 @@ Analects, III, ix, xiv, which chapters
 
 
 are quoted here; but in regard to
-what is said of Sung, with an important variation. The paragraph illus-
-trates how Confucius himself ^ ~f*
+what is said of Sung, with an important variation. The paragraph illustrates how Confucius himself ^ ~f*
 ^ $3, "occupied a low station, without being insubordinate."
-
-
-THE DOCTRINE OF THE MEAN
 
 
 CHAPTER XXIX. 1. He who attains to the sovereignty of the kingdom, having those three important
@@ -23769,8 +22617,7 @@ ia used as a verb, "to make few." —
 shall be few errors," i. e., few errors
 among his officers and people. 2. By
 _h M % and ~fT 2| 4f | , K'ang-ch'ang
-understands "sovereign and minister," in which, again, we must pro-
-nounce him wrong. The translation
+understands "sovereign and minister," in which, again, we must pronounce him wrong. The translation
 follows the interpretation of Chu
 Hsi, it being understood that the
 subject of the paragraph is the regulations to be followed by the
@@ -23806,8 +22653,7 @@ n par. 1, —
 
 his eulogium. 3. By
 tended the 3£ ^ ~JC ;
-the ruling-sage. By p must be intended all his institutions and regu-
-lations. "Attestation of them is
+the ruling-sage. By p must be intended all his institutions and regulations. "Attestation of them is
 given by the masses of the people;"
 i. a., the people believe in such a
 ruler, and follow his regulations, thus
@@ -23834,9 +22680,6 @@ in them contradictory to right reason." This, of course, is explaining
 the text away. But -who can do
 anything better with it? I interpret
 K IS & ^ (the ft is unfortunately
-
-
-THE DOCTRINE OF THE MEAN 415
 
 
 BIJ T
@@ -23979,9 +22822,6 @@ to illustrate the previous comparison
 of Confucius.
 
 
-418 THE DOCTRINE OF THE MEAN
-
-
 CHAPTER XXXI. 1. It is only he, possessed of all
 sagely qualities that can exist under heaven, who
 shows himself quick in apprehension, clear in discernment, of far-reaching intelligence, and all-embracing
@@ -23996,8 +22836,7 @@ chapter is an expansion of the clause
 in the last paragraph of the preceding. — "The smaller energies are
 like river currents." Even if it be
 so, it will still have reference to
-Confucius, the subject of the preceding chapter. K'ang-cb'ang's ac-
-count of the first paragraph is: — ff°
+Confucius, the subject of the preceding chapter. K'ang-cb'ang's account of the first paragraph is: — ff°
 
 
 describes how no one, who has not
@@ -24042,17 +22881,13 @@ life to the mind and will of God.
 The Chinese idea of the §| A ™ ^ar
 
 
-THE DOCTRINE OF THE MEAN 419
-
-
 W JHI
 
 
 fig
 
 
-swerving from the Mean, and correct, fitted to command reverence; accomplished, distinctive, concentra-
-tive, and searching, fitted to exercise discrimination.
+swerving from the Mean, and correct, fitted to command reverence; accomplished, distinctive, concentrative, and searching, fitted to exercise discrimination.
 
 2. All-embracing is he and vast, deep and active
 as a fountain, sending forth in their due season his
@@ -24139,9 +22974,6 @@ chap, xx, 8, 12. 5c T £ * #,—
 "the great root of the world"; evidently with reference to the same
 
 
-THE DOCTRINE OF THE MEAN
-
-
 virtues of humanity, and know the transforming and
 nurturing operations of Heaven and Earth; — shall
 this individual have any being or anything beyond
@@ -24169,8 +23001,7 @@ Hsi more correctly, as it seems to
 me, takes it as = |^^, "to depend
 on." T. translate the expansion of the
 clause which is given in "Confucius
-Sinaruni Philosophus:" — "The perfectly holy man of this kind there-
-fore, since he is such and so great,
+Sinaruni Philosophus:" — "The perfectly holy man of this kind therefore, since he is such and so great,
 how can it in any way be, that there
 is anything in the whole universe,
 on which he leans, or in which he
@@ -24255,8 +23086,7 @@ Book of Poetry, but to make the
 passages suit his purpose, the author
 allegorizes them, or alters their
 meaning, at his pleasure. Origen
-took no more license with the Scriptures of the Old and New Testa-
-ments than Tsze-sze and even Confuciua himself do with the Book of
+took no more license with the Scriptures of the Old and New Testaments than Tsze-sze and even Confuciua himself do with the Book of
 Poetry. 1. The first requisite in the
 pursuit of virtue is, that the learner
 think of his own improvement, and do
@@ -24275,9 +23105,6 @@ of her husband. 3* j- ^L H, /h A
 exactly to our English way, as in the
 
 
-THE DOCTRINE OF THE MEAN 423
-
-
 TTFt
 
 fltt
@@ -24287,8 +23114,7 @@ is the way of the mean man to seek notoriety,
 while he daily goes more and more to ruin. It is
 characteristic of the superior man, appearing insipid,
 yet never to produce satiety; while showing a simple
-negligence, yet to have his accomplishments recognized; while seemingly plain, yet to be discriminat-
-ing. He knows how what is distant lies in what is
+negligence, yet to have his accomplishments recognized; while seemingly plain, yet to be discriminating. He knows how what is distant lies in what is
 near. He knows where the wind proceeds from. He
 knows how what is minute becomes manifested. Such
 a one, we may be sure, will enter into virtue.
@@ -24333,9 +23159,6 @@ the self. 3. We have here substantially the same subject as in the
 last paragraph. The ode is the same
 which is quoted in chap, xvi, 4, and
 the citation is from the same stanza
-
-
-424 THE DOCTRINE OF THE MEAN
 
 
 iffi
@@ -24455,8 +23278,7 @@ The above is the thirty-third chapter. Tsze-sze having carried his descriptions 
 the extremest point in the preceding chapters, turns back in this, and
 examines the source of his subject; and then again from the work of the
 learner, free from att selfishness, and watchful over himself when he is alone,
-he carries out his description, till by easy steps he brings it to the consummation of the whole kingdom tranquilized by simple and sincere reverential-
-ness. He further eulogizes its mysteriousness, till he speaks of it at last as
+he carries out his description, till by easy steps he brings it to the consummation of the whole kingdom tranquilized by simple and sincere reverentialness. He further eulogizes its mysteriousness, till he speaks of it at last as
 
 
 Ode VII, st. 7. The "/" is God,
@@ -24483,9 +23305,6 @@ highest conception of the nature and
 power of virtue.
 
 
-THE DOCTRINE OF THE MEAN
-
-
 _1JIK
 
 
@@ -24493,9 +23312,6 @@ without sound or smell. He here takes up the sum of his whole Work, and
 speaks of it in a compendious manner. Most deep and earnest was he in
 thus going again over his ground, admonishing and instructing men: — shall
 the learner not do his utmost in the study of the Work?
-
-
-THE WORKS OF MENCIUS
 
 
 THE WORKS OF MENGIUS
@@ -24519,8 +23335,7 @@ Leang.
 
 TITLE OF THE WOBK. j£ J-, —
 " The philosopher Mang." The Work
-thus simply bears the name, or surname rather, of him whose conversa-
-tions and opinions it relates, and ia
+thus simply bears the name, or surname rather, of him whose conversations and opinions it relates, and ia
 said to have been compiled in its
 present form by the author himself.
 On the use of -J-, after the surname,
@@ -24574,9 +23389,6 @@ themselves. The emperor Wei Lee
 conferred on the chief of each family
 the title of prince ($|). Wei, called
 likewise, from the name of its capital,
-
-
-THE WORKS OF MENCIUS
 
 
 not counted it far to come here, a distance of a thousand li, may I presume that you are likewise provided
@@ -24646,8 +23458,6 @@ words spoken. It is not "to speak of."
 jfj] ]3 $& mark very decidedly Mencius' purpose to converse only of fc
 
 
-THE WORKS OF MENCIUS
-
 tast t^t
 
 
@@ -24681,9 +23491,6 @@ was that of a how, or prince. He is
 here called "gf ^ '£. ^, instead of 'gf
 M? ^ %i) because the emperor has
 just been denominated by that term.
-
-
-THE WORKS OF MENCIUS
 
 
 fin
@@ -24741,9 +23548,6 @@ means "large geese,'' and H| is the
 name for a large kind of deer, but
 
 
-THE WORKS OF MENCIUS
-
-
 jig,
 
 
@@ -24792,9 +23596,6 @@ III, i, Ode VIII, stt. 1, 2, The ode
 tells how his people delighted in King
 
 
-THE WORKS OF MENCIUS
-
-
 The does reposed about,
 
 The does so sleek and fat;
@@ -24836,9 +23637,6 @@ him to life under him. J^ = ^. ^|
 read hea. $£, up. 3rd tone. Chaou
 
 
-THE WORKS OF MENCIUS
-
-
 when wilt thou expire? We will die together with
 thee.' The people wished for Ke&s death, though
 they should die with him. Although he had towers,
@@ -24874,8 +23672,7 @@ emphasis to the king's profession of
 
 
 his own devotedness to his kingdom.
-JC A "^ft8 the designation of themselves used by the princes hi speak-
-ing to their people, = "g. '&. £. \, "I,
+JC A "^ft8 the designation of themselves used by the princes hi speaking to their people, = "g. '&. £. \, "I,
 the man of small virtue." I shall
 hereafter simply render it by "I."
 Leang was on the south of the river,
@@ -24926,9 +23723,6 @@ Z_, gj is used as a verb, and ;£ refers
 to ±, or soldiers. It was the rule
 
 
-THE WORKS OF MENCIUS
-
-
 BIJ
 
 
@@ -24974,9 +23768,6 @@ bear," "to be adequate to." |$ ^f»
 pj Jj^ jj£:=" there is no eating power
 adequate to eat the grain." $J£, here
 read ts'uh, "close-meshed." The
-
-
-THE WORKS OF MENCIUS
 
 
 -til,
@@ -25033,9 +23824,6 @@ And to have the ground all for
 growing grain, they were required
 
 
-THE WORKS OF MENCIUS
-
-
 JEl
 
 
@@ -25066,9 +23854,6 @@ feeding a varying number of mouths.
 To this the expression alludes. ^
 Jf., See on Book III, Pt. I, iii, 10. ^
 '•low. 3rd tone, to come to reign,"
-
-
-THE WORKS OF MENCIUS
 
 
 iffi
@@ -25104,9 +23889,6 @@ upon the king. j£Al£) — the second
 1S nOt eaSy' The translatlon given
 accords with the views of most of
 the commentators.
-
-
-THE WORKS OF MENCIUS
 
 
 Tin
@@ -25150,9 +23932,6 @@ whereby they are different?" 4. jgf,
 suburbs, but without buildings; outside the keaou were the 44 (muh),
 pasture-grounds; arid outside the
 muh were the §f (yay), wild-t. 5.
-
-
-THE WORKS OP MENCIUS
 
 
 •fee
@@ -25270,9 +24049,6 @@ a better antecedent for the ,£ in ffi
 movement. gg=$fc. JE low. 3rd tone,
 
 
-THE WORKS OF MENCIUS
-
-
 H, H, n ^ in rfn
 
 ft ftt $, €
@@ -25333,9 +24109,6 @@ said to be $_•. Translators have
 rendered it here by "tho yo\mg,"
 
 
-THE WORKS OF MENCIUS
-
-
 JSl
 
 
@@ -25377,9 +24150,6 @@ i. e., the rulers of Ts'in and Ts'oo.
 the case of children supporting their
 parents, and inferiors their superior.
 See in Ana. II, vii. 5. ^, low. 1st
-
-
-THE WORKS OF MENCIUS
 
 
 iin
@@ -25435,9 +24205,6 @@ he soon left the country. 2. |S, — low.
 3rd tone. The _\_ probably refers to
 
 
-THE WORKS OF MENCIUS
-
-
 Sir
 
 
@@ -25449,8 +24216,7 @@ men can so unite it.'
 5. " 'Who can give it to him ? '
 
 6. "I replied, 'All the people of the empire will
-unanimously give it to him. Does Your Majesty understand the way of the growing grain ? During the sev-
-enth and eighth months, when drought prevails, the
+unanimously give it to him. Does Your Majesty understand the way of the growing grain ? During the seventh and eighth months, when drought prevails, the
 plants become dry. Then the clouds collect densely
 in the heavens, they send down torrents of rain,
 and the grain erects itself, as if by a shoot. When it
@@ -25474,9 +24240,6 @@ surely going beyond the text. 6.
 
 
 Ana. XIX", 14. Cbaou K'e makes | The ^ is here explained, by Choo
-
-
-THE WORKS OF MENCIUS
 
 
 who does not find pleasure in killing men. If there
@@ -25596,14 +24359,10 @@ than if we were to use the term
 "royal." 3. Here the nominatives
 of "king" and "Mencius" are dropped
 before JEJ, as frequently afterwards.
-The 0 Just serves the purpose of outpoints of quotation. {£, — "to pre-
-serve," "to protect." I translate it,
+The 0 Just serves the purpose of outpoints of quotation. {£, — "to preserve," "to protect." I translate it,
 according to Choo He's account, as =
 (§£ ffj. A pause is to be made at !§,
 and jfi) 3i joined to the remainder of
-
-
-THE WORKS OF MENCIUS
 
 
 rfn
@@ -25648,9 +24407,6 @@ temples, and the vessels in them.
 See the Le-ke, XXI, ii, Pt, II, 32,
 
 
-THE WORKS OF MENCIUS
-
-
 -tils
 
 
@@ -25685,9 +24441,6 @@ runs it on to the next clause. |$ ^"
 W & Hi ia elliptical, and the particle
 
 
-THE WORKS OF MENCIUS
-
-
 -tit, m,
 
 
@@ -25710,16 +24463,12 @@ expense of it, and changed it for a sheep! — There was
 reason in the people's saying that I grudged it."
 
 
-:# denotes this, requiring the supplement which 1 have given. |p ac-
-knowledges the truth of Mencius's
+:# denotes this, requiring the supplement which 1 have given. |p acknowledges the truth of Mencius's
 
 
 explanation. 7. B|=^. ^ WL M )b
 flfc expresses the king's quandary.
 He is now quite perplexed by the
-
-
-THE WORKS OF MENCIUS
 
 
 8. "There is no harm in their saying so," said
@@ -25750,8 +24499,6 @@ II, iv, Ode IV, st. 4, where the ftl A
 has a special reference. :fc.-f- £,W
 ifj, — lit., "This was a speaking about
 
-
-454 THE WORKS OF MENCIUS
 
 ffi) £
 
@@ -25827,9 +24574,6 @@ and "physical" ability. 11. Jfc, —
 " the form," " ur figure" ; — lit. , "How
 
 
-THE WORKS OF MENCIUS
-
-
 people — *I am not able to do it,' that is a real case of
 not being able. In such a matter as breaking off a
 branch from a tree at the order of a superior, if you
@@ -25855,9 +24599,6 @@ i-(; A, rifV- low. 3rd tone,=-g-. 12.
 "Treat as their age requires your
 own old (Eng. idiom seems to require
 the 2nd person), and treat the old of
-
-
-THE WORKS OF MENCIUS
 
 
 ?& IFB
@@ -25910,9 +24651,6 @@ out of this heart." All may have
 the heart, but oil may not be gifted,
 
 
-THE WORKS OF MENCIUS
-
-
 others, what they themselves did. Now your kindness
 is sufficient to reach to animals, and no benefits are
 extended from it to reach the people. — How is this ?
@@ -25953,9 +24691,6 @@ helps the king to measure his mind,
 fflj, — about the same as our "come?
 
 
-THE WORKS OP MENCIUS
-
-
 JtU
 
 
@@ -25982,9 +24717,6 @@ are all interrog., low. 1st tone, and
 
 the ^$ are all low. 3rd tone. $i, read
 p'een, low. 1st tone, joined with the
-
-
-THE WORKS OF MENCIUS
 
 
 -tiL M
@@ -26018,8 +24750,6 @@ simply is — "from a tree." 17. The
 Jj§, an introduct. part., = " yes, and."
 
 
-THE WORKS OF MENCIUS
-
 /MTo tl )
 
 
@@ -26038,8 +24768,6 @@ seas embraces nine divisions, each of a thousand li
 square. All Ts'e together is but one of them. If
 with one part you try to subdue the other eight,
 
-
-462 THE WORKS OF MENCIUS
 
 - I ^ 'Jirl/ -{)y •TT*
 
@@ -26086,9 +24814,6 @@ to the root of success." 18. §f, —
 jftL
 
 
-THE WORKS OF MENCIUS
-
-
 era
 
 
@@ -26119,8 +24844,6 @@ their own states into yours, ^/v. f^, —
 , — restrain their feelings." 20. JB$, read
 as, and =fl$. |??J, — "en-net," i. e., to
 
-
-THE WORKS OF MENCIUS
 
 ffij
 
@@ -26167,9 +24890,6 @@ livelihood. Similarly, below.
 the verb, = £, g £ fl£ ±
 5, — Julien censures Noel here for
 rendering ^ ;£ by ipsi (principi)
-
-
-THE WORKS OF MENCIUS
 
 
 EEI ffil
@@ -26232,9 +24952,6 @@ being that, for ^ p j£ ^ there, we the number which 100 mow of
 have 7V tl g. %fc, eight mouths being medium land were computed to feed.
 
 
-THE WORKS OF MENCIUS
-
-
 BOOK I
 KING HWUY OF LEANG. PART II
 
@@ -26280,9 +24997,6 @@ the text of the chap., but Meiiciun
 proceeds to substitute $g lr)h for |j$
 
 
-THE WORKS OF MENCIUS
-
-
 2. Another day, Mencius, having an audience of
 the king, said, "Your Majesty, / have heard, told the
 officer Chwang that you love music; — ^was it so?"
@@ -26311,9 +25025,6 @@ a better translation of $j 3E that
 
 final 3J1 adds to the force of "only." "former kings." 3. gj=£f. 4. nj
 "Ancient sovereigns," i. e., Yaou, j ^ggga,asin prec. ch. }g ^ 58,-^
-
-
-THE WORKS OF MENCIUS
 
 
 ffi
@@ -26398,9 +25109,6 @@ these were adorned. Of ^ J^ Choo
 He simply says that they were j^§ j^,
 
 
-THE WORKS OF MENCIUS
-
-
 llL
 
 
@@ -26463,8 +25171,7 @@ CH. 2. How A 'BULEB MUST NOT
 INDULGE HIS LOVE FOB PABKS AND
 HUNTING TO THE DISCOMFOBT OF THE
 
-PEOPLE. 1 . fij, low. 3rd tone, "a r^cord," an historical narration hand-
-ing down events to futurity (f^ j&
+PEOPLE. 1 . fij, low. 3rd tone, "a r^cord," an historical narration handing down events to futurity (f^ j&
 '& A)- Jj -b ~\T 3L) must be understood— "containing seventy square
 li," not "seventy li square." In the
 
@@ -26476,9 +25183,6 @@ K'e explains it by 'ft PJ, which, I
 think, confirms the meaning 1 have
 given. The book or books giving
 account of this park of King Wan
-
-
-THE WORKS OF MENCIUS
 
 
 JSl 7;
@@ -26512,8 +25216,7 @@ the fodderers, the pheasanters, etc.
 3. #p is used here in the sense simply
 of "borders," and on the borders
 of the various states there were
-"passes" or "gates," for the taxation of merchandise, the examina-
-tion of strangers, etc. §| J&, see Pt.
+"passes" or "gates," for the taxation of merchandise, the examination of strangers, etc. §| J&, see Pt.
 I, ii. These forest laws of Ts'e were
 hardly worse than those enacted by
 the first Norman sovereigns of England, when whoever killed a deer, a
@@ -26521,9 +25224,6 @@ boar, or even a hare, was punished
 with the loss of his eyes, and with
 death if the statutes were repeatedly
 violated.
-
-
-THE WORKS OF MENCIUS
 
 
 JSl
@@ -26578,9 +25278,6 @@ fa and fa, "therefore," introducing
 illustrations of what has been said,
 
 
-THE WORKS OF MENCIUS
-
-
 JBl
 
 
@@ -26605,8 +25302,7 @@ good instance of the way in which
 he and others often try to expunge
 the idea of a governing Power and
 a personal God from their classics.
-Heaven is here evidently the superintending, loving Power of the uni-
-verse Chaou K'e says on the whole
+Heaven is here evidently the superintending, loving Power of the universe Chaou K'e says on the whole
 paragraph: "The sage delights to
 pursue the way of Heaven, just as
 Heaven overspreads every thing; —
@@ -26630,9 +25326,6 @@ IV, i, Bk. I, Ode VII, st. 3. (£, "to
 preserve," "to keep." ^ is here
 taken=J^; not so in the ode. The
 final £. refers to the decree or favor
-
-
-THE WORKS OF MENCIUS
 
 
 ^ ffl
@@ -26693,8 +25386,7 @@ empire.
 
 
 7. See the Shoo-king, V, i, Sect. I, 7,
-but the passage aa quoted by Mencius is very different from the origi-
-nal text, fg {EJ 3t- $) _h *,— Ht.,
+but the passage aa quoted by Mencius is very different from the original text, fg {EJ 3t- $) _h *,— Ht.,
 "just saying, They shall be aiding
 
 
@@ -26703,9 +25395,6 @@ Paul, in Rom. 13:1-4. "The
 powers ordained of God are the
 ministers of God." In ^ ~f •& tfc 4 1"
 an allusion to the
-
-
-THE WORKS OF MENCIUS
 
 
 8. "Let now Your Majesty also, in one burst of
@@ -26794,9 +25483,6 @@ as if we read — ^ PI — ^, # PJl 5^
 the whole empire." ££» low. 3rd tone.
 
 
-THE WORKS OF MENCIUS
-
-
 EU Til
 
 
@@ -26870,9 +25556,6 @@ different subject for the clause before. g« ^ ^,— m &, by Choo He
 and others, is explained as in the
 
 
-482 THE WORKS OF MENCIUS
-
-
 flu ffc* ft 2f HB ft
 
 
@@ -26889,8 +25572,7 @@ they urge their way against it; they are wild; they are
 utterly lost: — these things proceed to the grief o£
 their subordinate governors.
 
-7. "'Descending along with the current, and forgetting to return, is what I call yielding to it. Press-
-ing up against it, and forgetting to return, is what I
+7. "'Descending along with the current, and forgetting to return, is what I call yielding to it. Pressing up against it, and forgetting to return, is what I
 call urging their way against it. Pursuing the chase
 
 
@@ -26904,9 +25586,6 @@ are with him the subject in the
 clause Pf Bj|) but how can it be said
 that these things in which they
 delighted were a "grief" to them?
-
-
-THE WORKS OF MENCIUS
 
 
 ffi
@@ -26951,8 +25630,7 @@ restrain one's prince?' He who restrains his prince
 loves his prince."
 
 CHAPTER V. 1. The king Seuen of T'se said,
-" People all tell me to pull down and remove the Brilliant palace. Shall I pull it down, or stop the move-
-ment for that object?"
+" People all tell me to pull down and remove the Brilliant palace. Shall I pull it down, or stop the movement for that object?"
 
 2. Mencius replied, "The Brilliant palace is a palace
 
@@ -27008,9 +25686,6 @@ quite differ from the 2nd, which is
 merely the style of King Seuen. I
 
 
-THE WORKS OF MENCIUS 485
-
-
 appropriate to the emperors. If Your Majesty wishes
 to practice the true royal government, then do not
 pull it down."
@@ -27059,9 +25734,6 @@ officers, if men of ability, recci\rd
 office, and, even if they were not,
 
 
-THE WORKS OF MENCIUS
-
-
 rfff
 
 
@@ -27095,9 +25767,6 @@ merit of their fathers. "Ponds and ,, 0, , • TT • C\A ATTTT
 weirs,"— it is not to be understood 8ee the She-kmS) "• 1V' Ode ^ II1'
 
 that the ponds were artificial, ^fc Sf 1 st. 13, where for $£ we find tfl.
-
-
-THE WORKS OF MENCIUS
 
 
 -ffc
@@ -27221,9 +25890,6 @@ be. The replies suggest the renderings of #{J £ H» which I have given.
 verbs. It is better to prefix "sup-
 
 
-THE WORKS OF MENCIUS
-
-
 ffio
 
 
@@ -27267,9 +25933,6 @@ saying of — it has hereditary ministers." The n in ft Ifl might be
 omitted, and yet it adds something
 
 
-THE WORKS OF MENCIUS
-
-
 generations. Your Majesty has no intimate ministers
 even. Those whom you advanced yesterday are gone
 to-day, and you do not know it."
@@ -27304,9 +25967,6 @@ cannot stop." Comp. the Chung
 Yung, xx, 13. 4. 3fc Sj, "you may
 
 
-THE WORKS OF MENCIUS
-
-
 is a man of talents and virtue,' neither may you for
 that believe it. When all the people say, — ' This is
 a man of talents and virtue,' then examine into the
@@ -27331,9 +25991,6 @@ Compare the Great Learning, Comm.
 x, 3. We may use the second person
 in translating, or more indefinitely,
 the third.
-
-
-THE WORKS OF MENCIUS
 
 
 ilk
@@ -27368,9 +26025,6 @@ of Kce, see the Shoe-king, IV, ii,
 iii; and of the smiting of Chow, see
 the same, V, i. 2. j^ is the word
 appropriated to regicide, which Mencius in his reply exchanges for g$.
-
-
-THE WORKS OF MENCIUS
 
 
 ife
@@ -27462,9 +26116,6 @@ another the polishing of it:— -why
 would he not do BO with the state?
 
 
-THE WORKS OF MENCIUS
-
-
 TIB t^
 £ tfc MU
 
@@ -27528,9 +26179,6 @@ the appearance of the troops of Ts'e,
 and made no resistance to them. 2.
 
 
-THE WORKS OF MENCIUS
-
-
 fig
 
 
@@ -27555,8 +26203,7 @@ it, then do not do so. — Among the ancients there was
 one who acted on this principle, namely, King Wan.
 
 
-I$i ,£ is explained as = j$ ;£, "to conquer it"; but 1^ has not this signifi-
-cation. Lit., we might render "and
+I$i ,£ is explained as = j$ ;£, "to conquer it"; but 1^ has not this signification. Lit., we might render "and
 up with it." 3. The common saying
 is that King Wan H ft 5(c T % & ^)
 "had possession of two of the three
@@ -27565,9 +26212,6 @@ is that King Wan H ft 5(c T % & ^)
 parts of the empire." Still he did
 not think that the people were prepared for the entire extinction of the
 Yin dynasty, and left the completion of the fortunes of his house to
-
-
-THE WORKS OF MENCIUS
 
 
 fin
@@ -27610,9 +26254,6 @@ LIE IN A BENEVOLENT GOVERNMENT.
 future. ; in |£ .... makes the
 
 
-THE WORKS OF MENCIUS
-
-
 rfn
 
 
@@ -27643,9 +26284,6 @@ introduced the clause 5S T 0* «£»
 and there are some other differences
 from the orig. text. K6 was a small
 territory, which is referred to the
-
-
-THE WORKS OF MENCIUS
 
 
 Bi ffi
@@ -27687,9 +26325,6 @@ see it." The second quotation is
 from the same paragraph of the
 
 
-THE WORKS OF MENCIUS
-
-
 Majesty's host. But you have slain their fathers
 and elder brothers and put their sons and younger
 brothers in chains. You have pulled down the ancestral temple of the state, and are removing to Ts'e its
@@ -27719,9 +26354,6 @@ kingdom's or the prince's, not their,
 the people's. 4. J£, low. 3rd tone,
 used for I|R, "people of 80 and 90."
 The clauses after the first are to be
-
-
-THE WORKS OF MENCIUS
 
 
 -ffc0
@@ -27773,8 +26405,6 @@ look angrily on, etc."; the reference
 is to the crime that had taken place.
 
 
-THE WORKS OF MENCIUS
-
 rfn
 
 
@@ -27786,8 +26416,7 @@ to the four quarters, have amounted to several thousands. All the while, your gr
 been stored with grain, and your treasuries and
 arsenals have been full, and not one of your officers
 has told you of the distress. Thus negligent have the
-superiors in your state been, and cruel to their inferiors. The philosopher Tsang said, * Beware, be-
-ware. What proceeds from you will return to you
+superiors in your state been, and cruel to their inferiors. The philosopher Tsang said, * Beware, beware. What proceeds from you will return to you
 again.' Now at length the people have returned
 their conduct to the officers. Do not you, 0 prince,
 blame them.
@@ -27805,9 +26434,6 @@ the ^f §]. 3. J£
 
 
 flb
-
-
-THE WORKS OF MENCIUS
 
 
 3. "If you will put in practice a benevolent
@@ -27922,9 +26548,6 @@ ix, 3, et al.: "as to this — the accomplishing," etc. =55, low. 2nd tone,
 the verb.
 
 
-THE WORKS OF MENCIUS
-
-
 JJl
 
 
@@ -27952,9 +26575,6 @@ HI, — read chuh, up. 4th tone, "to will go and preserve your ruler for
 assemble," "meet with." =ff, — "a you." So, the paraphrast in the •fist
 
 sexagenarian." Zl H •?) — see Ana. g. The 0 j$, however, says: — "My
-
-
-THE WORKS OF MENCIUS
 
 
 -ttu
@@ -28042,9 +26662,6 @@ him as a professor of moral and
 political science, by visiting him and
 asking his services. The author of
 the £!j £ Jft t$ Ift approves of the
-
-
-THE WORKS OF MENCIUS
 
 
 jih.
@@ -28155,8 +26772,6 @@ flesh. 3. ;f* ^ jfc, — ££, low. 3rd tone, both with the same meaning,
 tone, = " therefore," i. e., in conse- =_lh» "to stop." ^ |^ @ %$ is not
 
 
-THE WORKS OF MENCIUS 513
-
 qgg. t£
 
 offiff JA^
@@ -28176,9 +26791,6 @@ that may seem. With this reference
 of Mencius to Heaven, compare the
 language of Confucius, Ana., VII,
 xxi; IX, v; XIV, xxxviii.
-
-
-THE WORKS OF MENCIUS
 
 
 BOOK II
@@ -28233,9 +26845,6 @@ Con. Ana., Ill, xxii; XIV, x, xrii,
 xviii. ^ zf-, — see Con. Ana., V, xvi;
 
 
-THE WORKS OF MENCIUS
-
-
 tft
 
 
@@ -28272,9 +26881,6 @@ For more than 40 years Kwan Chung
 the entire confidence of
 
 
-THE WORKS OF MENCIUS
-
-
 4. "Thus," concluded Mencius, "Tsang Se would
 not play Kwan Chung, and is it what you desire for
 me, that I should do so?"
@@ -28303,9 +26909,6 @@ interpretation. 5. ^ -f)}) ^ ^f- Wi 'ft
 JEg. ^ H, — lit., "and are Kwan
 Chung and Gan still not sufficient to
 be played?" 7. jgf &~ "in thi8
-
-
-THE WORKS OF MENCIUS
 
 
 was King Wan, with all the virtue which belonged to
@@ -28339,9 +26942,6 @@ themselves, and from Woo-ting to
 Chow (1323-1 163) seven. $}, ch'aou,
 
 
-THE WORKS OF MENCIUS
-
-
 •til,
 ffl
 
@@ -28352,8 +26952,7 @@ as if it had been a thing which he moved round in his
 palm. Then, Chow was removed from Woo-ting by
 no great interval of time. There were still remaining
 some of the ancient families and of the old manners,
-of the influence also which had emanated from the earlier sovereigns, and of their good government. More-
-over, there were the viscount of Wei and his second son,
+of the influence also which had emanated from the earlier sovereigns, and of their good government. Moreover, there were the viscount of Wei and his second son,
 their Royal Highnesses Pe-kan and the viscount of
 Ke, and Kaou-kih, all, men of ability and virtue, who
 gave their joint assistance to Chow in his government.
@@ -28375,9 +26974,6 @@ whose worth was first discovered by
 King Wan, but who continued loyal
 to the house of Yin. ftjj ft|) — +H, up.
 3rd tone. ±, — ± refers to the
-
-
-THE WORKS OF MENCIUS
 
 
 -til,
@@ -28463,9 +27059,6 @@ the ^. Perhaps the expressions =
 jfc
 
 
-THE WORKS OF MENCIUS
-
-
 12. "Confucius said, *The flowing progress of virtue
 is more rapid than the transmission of imperial orders
 by stages and couriers.'
@@ -28481,8 +27074,7 @@ time that such could be the case."
 
 12. The distinction between ^ and
 §5 is much disputed. Some make the
-former a foot post, but that is unlikely. It denotes the slower con-
-veyance of dispatches, and the other
+former a foot post, but that is unlikely. It denotes the slower conveyance of dispatches, and the other
 the more rapid. So much seems
 
 
@@ -28492,9 +27084,6 @@ $J !K (& W &) " f0J !K expresses bitter
 suffering." Lit., it is — "as if they
 were loosed from being turned upsido
 down and suspended."
-
-
-THE WORKS OF MENCIUS
 
 
 CHAPTER II. 1. Rung-sun Ch'ow asked Mencius,
@@ -28598,8 +27187,7 @@ See on /£• ^U, Ana., IX, xv. Ch'ow's
 meaning ic that, with so great an
 office and heavy a charge, the mind
 might well be perturbed: — would it
-be so with his master? With Mencius'a reply, comp. Confucius's ac-
-count of himself, Ana., II, iv, 3. 2.
+be so with his master? With Mencius'a reply, comp. Confucius's account of himself, Ana., II, iv, 3. 2.
 Mang Pun was a celebrated bravo,
 probably of Ts'e, who could pull the
 
@@ -28658,9 +27246,6 @@ comp. Ana., XIV, xxxviii, 1. ??j j£
 1f =38 Ht 15 ± 3c (or JS). 5. There
 
 
-THE WORKS OF MENCIUS
-
-
 ffii
 
 
@@ -28702,9 +27287,6 @@ characters. Tsang Sin was reflective,
 and dealt with himself. Tsze-hea
 
 
-THE WORKS OF MENCIUS
-
-
 ^lo rfn
 
 
@@ -28720,8 +27302,7 @@ thousands and tens of thousands."
 merely physical energy, was after all inferior to what
 
 
-was ambitious, and would not willingly be inferior to others. 7. Tsze-
-seang was a disciple of Tsang. $&,
+was ambitious, and would not willingly be inferior to others. 7. Tszeseang was a disciple of Tsang. $&,
 — properly, the straight seams, from
 the top to the edge, with which an
 ancient cap was made, metaphorically used for "straight," "upright."
@@ -28751,9 +27332,6 @@ portion of man's constitution; and
 in this paragraph, that lower part
 in its lowest sense, — animal vigor
 or courage. Observe the force of
-
-
-THE WORKS OF MENCIUS
 
 
 Hfec
@@ -28812,9 +27390,6 @@ Mencius goes on to show win-rein
 he considered it as defective. From
 
 
-THE WORKS OF MENCIUS
-
-
 not to seek in the mind for what is not attained in
 words cannot be conceded. The will is the leader of
 the passion nature. The passion nature pervades and
@@ -28852,9 +27427,6 @@ the mind, and is acted on by it, and
 may not be disregarded. ^ — ^—~ •
 
 
-THE WORKS OF MENCIUS
-
-
 the passion nature. When it is the passion nature
 alone which is active, it moves the will. For instance
 now, in the case of a man falling or running; — that is
@@ -28887,9 +27459,6 @@ has before his mind the ideal of a
 perfect man, complete in all the
 parts of his constitution. It is this
 which gives its elevation to his
-
-
-THE WORKS OF MENCIUS
 
 
 /'^j IIIJ
@@ -28933,9 +27502,6 @@ after the ^, which refers to the ^
 *& £ M.- fS refers to g*, in f* ;£ 5fc,
 
 
-THE WORKS OF MENCIUS
-
-
 16. "There must be the constant practice of this
 righteousness, but without the object of thereby nourishing the passion nature. Let not the mind forget its
 work, but let there be no assisting the growth of that
@@ -28970,9 +27536,6 @@ of the chapter. I have supplied the
 lacume after Choo He, who himself
 follows Lin Che-k'e (i^t '£. iSf), a
 scholar, who died A. D. 1176. Chaou
-
-
-THE WORKS OF MENCIUS
 
 
 ffi
@@ -29020,9 +27583,6 @@ Ch'ing uses this illustration : — " Mencius with his knowledge of words
 was like a man seated aloft on the
 
 
-THE WORKS OF MENCIUS
-
-
 principle. When words are evasive, I know how the
 mind is at its wit's end. These evils growing in the
 mind, do injury to government, and, displayed in
@@ -29064,9 +27624,6 @@ point of Ch'ow's inquiry lies in Confucius's remark, found nowhere else,
 and obscure enough. He thinks
 
 
-THE WORKS OF MENCIUS
-
-
 rtb
 
 
@@ -29093,9 +27650,6 @@ than Confucius did. Chaou K'e, how- not interrogative. This convers. with
 ever, takes fij fa j$$ :3 ^, as a re- Tsze-kung is not found in the Anamark of Mencius, but it is quite lects. Compare Ana., VII, ii; xxxiii,
 unnatural to do so. Observe the which latter chapter may possibly be
 force of the $£, — yoii have come to be. | another version of what Mencius
-
-
-THE WORKS OF MENCIUS
 
 
 illr
@@ -29136,9 +27690,6 @@ Jg RiJ ?|f . M M # ilii # ?* tt( # K
 H"J ffi, M Ft « jfii # He ft- 1 have
 
 
-THE WORKS OF MENCIUS
-
-
 JKl
 
 
@@ -29171,9 +27722,6 @@ that of the second was office — JJl {-£
 the time required — &. B£ ^ #- H.."
 
 
-THE WORKS OF MENCIUS
-
-
 liil
 
 
@@ -29200,9 +27748,6 @@ connective. 25. ^f, — woo, or wa,
 
 "low-lying water," used here simply
 for "low," with reference to the
-
-
-THE WORKS OF MENCIUS
 
 
 JBl
@@ -29239,9 +27784,6 @@ quicken himself to any corresponding
 appreciation of Confucius. We look
 for the being his disciples describe,
 as vainly as we do for the fabulous
-
-
-THE WORKS OF MENCIUS
 
 
 llj
@@ -29294,9 +27836,6 @@ He, who says— fl # *B. A. 1*1 ft £
 fr * A. « ife # in ?L ? 2. & .-«•
 
 
-THE WORKS OF MENCIUS
-
-
 IMP
 
 
@@ -29343,9 +27882,6 @@ may have sanctioned such an interpretation, but it has nowhere come
 under my potice. The "seventy
 
 
-THE WORKS OP MENCIUS
-
-
 jib
 
 
@@ -29383,8 +27919,7 @@ says on this chapter: "He who
 subdues men by force has the intention of subduing them, and they
 dare not but submit. He who subdues men by virtue, has no intention
 to subdue them, and they cannot
-but submit. From antiquity downwards, there have been many disser-
-tations on the leaders of the princes,
+but submit. From antiquity downwards, there have been many dissertations on the leaders of the princes,
 and the true sovereign, but none so
 deep, incisive, and perspicuous as
 this chapter."
@@ -29394,9 +27929,6 @@ CH. 4. GLORY is THE SURE RESULT
 OF BENEVOLENT OOVKRNMENT. CA-
 LAMITY AND HAIM'INKSS AUK MKN';
 OWN SEEKING. 1. % ^ •£, lit., "tO
-
-
-THE WORKS OF MENCIUS
 
 
 ffil
@@ -29439,9 +27971,6 @@ JflJ, — not punishments, but penal
 laws. 3. See the She-king, I, xv,
 
 
-THE WORKS OF MENCIUS
-
-
 -ffi,,
 
 
@@ -29481,9 +28010,6 @@ words, is made to represent a wise
 prince taking all precautionary measures. 4. $J, — read p'u-an, low. 1st
 lone, nearly synonymous with the
 next character.— *j*, to/i. 6. I'o. ih1'
-
-
-THE WORKS OF MENCIUS
 
 
 6. "This is illustrated by what is said in the 'Book
@@ -29533,9 +28059,6 @@ the terms here. ^ "f £. :1: ii i»- ~
 Jfil.
 
 
-THE WORKS OF MENCIUS
-
-
 TtJ
 
 
@@ -29562,8 +28085,7 @@ of the division of the land, after
 the figure of the character ^. The
 middle square behind was the rff;
 the center one was occupied by the
-palace; the front one by the ancestral and other temples, govt. treas-
-uries, arsenals, etc.; and the three
+palace; the front one by the ancestral and other temples, govt. treasuries, arsenals, etc.; and the three
 squares on each side were occupied
 by the people. He adds that, when
 traders became too ninny, a ground
@@ -29585,9 +28107,6 @@ lesson was only for the emergency
 of the time. To avoid that, conclusion, the author of the W £ Jft f& tft
 contends that the Chow-le haa been
 interpolated in the place, — rightly,
-
-
-THE WORKS OF MENCIUS
 
 
 ffi
@@ -29696,8 +28215,7 @@ CH. 6. THAT BENEVOLENCE, KIGHT-
 EO'USNESS, PROPRIETY, AND KNOWL-
 EDGE, BELONG TO MAN AS NATURALLY
 AS HIS »OTJR LIMBS, AND MAY AS
-EASILY BE EXERCISED. The assertions made in this chapter are uni-
-versally true, but they are to be
+EASILY BE EXERCISED. The assertions made in this chapter are universally true, but they are to be
 understood as spoken here with
 special reference to the oppressive
 ways and government of the princes
@@ -29727,9 +28245,6 @@ to be preferred. See the p? ^ B£ $|
 $&, in loc. The whole is to be
 'translated in the past sense, being
 descriptive of the ancient kings.
-
-
-THE WORKS OF MENCIUS
 
 
 ffii
@@ -29780,9 +28295,6 @@ make the strongest possible affirmation. Lit., "Wiihout; the feeling of
 commiseration there would not be
 man," etc., or "if a person be without this, lie is not a man," etc. fd1!
 |g, "pain and distress," but as it ig
-
-
-THE WORKS OF MENCIUS
 
 
 feeling of shame and dislike is essential to man, that
@@ -29836,9 +28348,6 @@ It will be seen how to ^, "knowledge," "wisdom," he gives a moral
 sense. Comp. Gen. 2:17; 3:5, 6;
 
 
-THE WORKS OF MENCIUS
-
-
 ffi •&
 
 
@@ -29865,9 +28374,6 @@ primitive meaning in the translation.
 
 have," etc., but "all having," etc.,
 ^ &,—quasi dicat, "in their egoity." ft ^,— -g1 belongs to the $j
-
-
-THE WORKS OF MENCIUS
 
 
 to love and protect all within the four seas. Let
@@ -29914,9 +28420,6 @@ of men, it indicates one who prays
 for men's life and prosperity. But
 Mencius pursues his illustration too
 far. An arrow maker need not be
-
-
-THE WORKS OF MENCIUS
 
 
 •flL
@@ -29996,9 +28499,6 @@ excellent words." 3. -^ &i \ |g,is
 explained by Choo He fe ^ "p ;£ H
 
 
-THE WORKS OF MENCIUS
-
-
 way to follow that of others, and delighting to learn
 from others to practice what was good.
 
@@ -30041,9 +28541,6 @@ the sense of Jtf), "to help." The
 meaning is that others, seeing their
 virtue so imitated, would be stimulated to greater diligence in the
 doing of it.
-
-
-THE WORKS OF MENCIUS
 
 
 CHAPTER IX. 1. Mencius said, "Pih-c would not
@@ -30110,9 +28607,6 @@ makes it ''the appearance of being
 ashamed;" — not so well. The final Hwuy of Lew-hea, *().- *'()n. Ana.,
 
 
-THE WORKS OF MENCIUS
-
-
 ji tfii
 
 
@@ -30152,9 +28646,6 @@ for those who wish to do the right
 thing at the right time."
 
 
-THE WORKS OF MENCIUS
-
-
 BOOK II
 KUNG-SUN CH'OW. PART II
 
@@ -30178,8 +28669,7 @@ WITH HIS GETTING THE HEARTS OF
 MEN. Because of this chapter Mencius has got a place i n China among
 the writers on the art of war, which
 surely he would not have wished to
-claim for himself, his design evidently being to supersede the neces-
-sity of war,- -the recourse to arms
+claim for himself, his design evidently being to supersede the necessity of war,- -the recourse to arms
 altogether. 1. In tlie ^, idh X, we
 have the doctrine of the £1 ^» or
 "Three Powers," which is brought
@@ -30200,9 +28690,6 @@ here supposed, with its double circlo
 of fortification, is a wnall ono, the
 better to illustrate the superiority
 of advantage of situation, just as
-
-
-THE WORKS OF MENCIUS
 
 
 ffl
@@ -30275,9 +28762,6 @@ stream in it"; here, in opposition to
 style of government, — benevolence
 and righteousness, — which will secure the "union of men." $J HR, —
 relatives by blood and by affinity.
-
-
-THE WORKS OF MENCIUS
 
 
 5. "When one to whom the whole empire is prepared to be obedient, attacks those from whom their
@@ -30371,9 +28855,6 @@ foigiied sickness, to show his sense
 of the disrespect done to hirn in
 
 
-THE WORKS OF MENCIUS
-
-
 May this not be regarded as improper?" "Yesterday," said Mencius, "I was unwell; to-day, I am
 better: — why should I not pay this visit?"
 
@@ -30449,9 +28930,6 @@ Chaou K'e appends a note, — "when
 he told htm all the previous incidents." No doubt, he did so. jg, up.
 
 
-THE WORKS OF MENCIUS
-
-
 •ffi,.
 
 
@@ -30476,9 +28954,6 @@ Ts'e who respects the king so much as I do. "
 following for an explanation of it,
 as if there were a j)Jf ijj, after \. i§
 flf, — see Con. Ana., VII, xvii. 5.
-
-
-THE WORKS OP MENCIUS
 
 
 •flu
@@ -30512,9 +28987,6 @@ $§ is found substantially in Bl(.
 XIII, iii, 2. ^, low. 1st tone, = £lf,
 as in Ana., XI, ix, 3, et al. G. ££ |^
 & ffii (low. 1st tone), — lit., "how
-
-
-THE WORKS OF MENCIUS
 
 
 -firt *^*
@@ -30632,9 +29104,6 @@ ft IE) on Ana., Ill, xxii. 9. |£, —
 used as a verb. 10. Comp. Pi(
 
 
-THE WORKS OF MENCIUS
-
-
 rfn
 
 
@@ -30673,9 +29142,6 @@ Pt. II, ix, 2, I estimate at 24 taels.
 Sung, — the present Kweitih in Hunan, See, — see Bk. I, Pt. II, x, iv.
 
 
-THE WORKS OF MENCIUS
-
-
 gift in the first case was right, your accepting it in
 the latter cases was wrong. If your accepting it
 in the latter cases was right, your declining to do
@@ -30710,9 +29176,6 @@ I consider the whole clause to be
 written as from the point of view of
 the prince of Sung; — in regard to
 travelers, ho considered it was requisite to use the ceremony of jj$.
-
-
-THE WORKS OF MENCIUS
 
 
 ill.
@@ -30753,9 +29216,6 @@ i t is the verb in tho 2nd, = "to manage," "to dispose of." ^ 4\ T& — ^
 ± -ifcs
 
 
-THE WORKS OF MENCIUS
-
-
 flu
 
 
@@ -30794,9 +29254,6 @@ in the meaning given in the translation. 2. \*\ tf. ;g ~S, — comp. Bk.
 I, Pt. II, xii, 2. Julien finds a difficulty in the "several thousand," as
 not applicable to the population of
 P'ingluh. But it was Mencius's way
-
-
-THE WORKS OF MENCIUS
 
 
 ifc IN rfn
@@ -30841,9 +29298,6 @@ the force of the ^ is — "or — here is
 another supposition — will he, etc.?"
 Mencius means that Keu-sin should
 not hold office in such circumstances
-
-
-THE WORKS OF MENCIUS
 
 
 -tfc,
@@ -30923,8 +29377,7 @@ he might be near the king, tt 6?) —
 see Bk. I, Pt. II, vi, 2. ^ £ ; pj V.
 fJ5, — lit., "because of the possibility
 .to speak." As criminal judge, Ch'e
-Wa would be often in communication with the king, and could remon-
-strate on any failures in the administration of justice that came under
+Wa would be often in communication with the king, and could remonstrate on any failures in the administration of justice that came under
 his notice. 2. Jfc, "to resign," "give
 up," as in Con. Ana., I, vii, et al. 3.
 g/f gH ^ (low. 3rd tone), lit., "whereby
@@ -30972,9 +29425,6 @@ AN UNWORTHY ASSOCIATE. 1. "Occupied the position of a high digiii-
 his character to the mission.
 
 
-THE WORKS OF MENCIUS
-
-
 Hwan, the governor of Ka, as assistant commissioner.
 Wang Hwan, morning and evening, waited upon
 Mencius, who, during all the way to T'ang and back,
@@ -31012,9 +29462,6 @@ them, and never put any questions
 to me; but the v)cw adopted is more
 natural, and gives more point to
 Menciue'e explanation of lus conduct.
-
-
-THE WORKS OF MENCIUS
 
 
 CHAPTER VII. 1. Mencius went from Ts'e to Loo
@@ -31071,9 +29518,6 @@ I should render, — "In the gravity
 of your sorrow." |j|, — see Pt. I,
 
 
-THE WORKS OF MENCIUS
-
-
 2. Mencius replied, "Anciently, there was no rule
 for the size of either the inner or the outer coffin. In
 middle antiquity, the inner coffin was made seven
@@ -31108,9 +29552,6 @@ of the present day. 3. /£ ^, being
 opposed to ^ flt) requires to be
 
 
-THE WORKS OF MENCIUS
-
-
 to make them., in this way, they cannot have the
 feeling of pleasure. When they were not prevented,
 and had the money, the ancients all used this style.
@@ -31128,8 +29569,7 @@ For ^ ^f J$, some would give jfjj /£f
 It- The |fff reads better, but the
 meaning is the same. 4. J£{low. 3rd
 tone), -ft ^» — the same as J£ $fc %
-in I, Pt. I, v, 1. 4fcis used appropriately with reference to the dis-
-solution of the bodies of the dead.
+in I, Pt. I, v, 1. 4fcis used appropriately with reference to the dissolution of the bodies of the dead.
 Iff, "skin" =the bodies. •)£, low. 3rd
 
 
@@ -31140,9 +29580,6 @@ interprets this: — "will not deny
 anything in all the world which he
 can command to his parents." So,
 substantially, the modern paraphrasts.
-
-
-THE WORKS OF MENCIUS
 
 
 ffi &
@@ -31190,9 +29627,6 @@ T'ung, but wo can't translate it
 literally in English. ^ _t -rft &,,—
 
 
-THE WORKS OF MENCIUS
-
-
 tfc
 
 
@@ -31221,9 +29655,6 @@ see Pt. I, v, 6. The one Yen is of
 course Ts'e, as oppressive as Yen
 
 itself.
-
-
-THE WORKS OF MENCIUS
 
 
 fill
@@ -31272,8 +29703,6 @@ him the small state of Yin from
 which the dynasty had taken its
 name, but placed him under the
 
-
-THE WORKS OF MENCIUS
 
 ffil $
 
@@ -31457,14 +29886,10 @@ with his complimentary expressions
 
 
 is really bidding him adieu, and
-answers, accordingly, in as complimentary a way, intimating his pur-
-pose to be gone. 3. The king after
+answers, accordingly, in as complimentary a way, intimating his purpose to be gone. 3. The king after
 all does not like the idea of Mencius's
 going, and thinks of this plan i()
 retain him, which was in reality
-
-
-THE WORKS OF MENCIUS
 
 
 IUL
@@ -31508,9 +29933,6 @@ remark with a view to induce Mencius to push forward his disciples
 into the employment which he could
 
 
-THE WORKS OF MENCIUS
-
-
 xii
 
 
@@ -31547,9 +29969,6 @@ H, low. 2nd tone, read as and=5|,
 "abrupt," "well defined." (5. $J,
 low. 1st tone. Observe the force of
 J^., "only," which also belongs to it
-
-
-THE WORKS OF MENCIUS
 
 
 3t rfn
@@ -31607,9 +30026,6 @@ Jjfi, — upper 3rd tone. Rfj;, Cupper 3rd
 tone, "to lean upon." The /L was
 
 
-THE WORKS OF MENCIUS
-
-
 2. A person who wished to detain him on behalf
 of the king, came and sat down, and began to speak
 to him. Mencius gave him no answer, but leaned upon
@@ -31624,8 +30040,7 @@ and I will explain the case clearly to you. Formerly,
 if the duke Muh had not kept a person by the side of
 
 
-a Btool or bench, on which individuals might lean forward, or other-
-wise, as they sat upon their mats.
+a Btool or bench, on which individuals might lean forward, or otherwise, as they sat upon their mats.
 It could be carried in the hand. Soe
 the Le-ke, I, Pt. I, i, 1,— $& Jfc g %,
 (& *fe Jl *t £1 '(& ±- 3. #, chae,
@@ -31687,9 +30102,6 @@ the king; and his thinking that he
 could detain him by such a visit
 showed the little store he set by
 him; — was, in fact, a cutting him.
-
-
-THE WORKS OF MENCIUS
 
 
 —P •» TF^ p:nlf
@@ -31787,9 +30199,6 @@ as simply = H;- -" the king is after
 all competent to do good," but $
 
 
-THE WORKS OF MENCIUS
-
-
 Mil m,
 
 
@@ -31829,9 +30238,6 @@ fication of Mencius's thoughts before
 ho quit Chow. 5. Compare with
 this par. Confucius's defense of Kwao
 Chung, Ana., XIV, 18.
-
-
-THE WORKS OP MENCIUS
 
 
 ffii %
@@ -31922,9 +30328,6 @@ able to assist him. & •& = # or ^
 examining it, then may," i. e., such
 
 
-THE WORKS OF MENCIUS
-
-
 •flL
 
 
@@ -31998,9 +30401,6 @@ of the glossarist of Chaou K'e, and
 is perhaps preferable to the former.
 
 
-THE WORKS OF MENCIUS
-
-
 BOOK III
 T'ANG WAN KUNG. PART I
 
@@ -32063,9 +30463,6 @@ to." This is supported by par. 3,
 but the word itself lias only the
 meaning in the translation, with
 which, moreover, Chaou K'e agrees.
-
-
-THE WORKS OF MENCIUS
 
 
 ftp
@@ -32135,8 +30532,7 @@ its various services."
 
 
 and vindicates on that high authority- 5. $g -g, 3£ M,— "cutting the
-long to supplement the short." Observe the force of ffi, as in the trans-
-lation. j§ — implying — " It is small,
+long to supplement the short." Observe the force of ffi, as in the translation. j§ — implying — " It is small,
 butstill." H US, comp. ch. iii — "a
 good kingdom" is such an one as is
 there described. ^ Sg ^ 55, — see
@@ -32155,9 +30551,6 @@ Yen Yew had been the prince's
 grand tutor (^ -f*|); I suppose that
 jfe is the surname. ^C ftfe is a phrase
 applied to the funeral of, and mourning for, parents; — "the great cause,
-
-
-THE WORKS OF MENCIUS 605
 
 
 •ffi,.
@@ -32198,8 +30591,6 @@ more likely, Mencius here makes a
 slip of memory, jgf, up. 1st tone,
 read tsze. See Con. Ana., IX, ix. ff ,
 
-
-606 THE WORKS OF MENCIUS
 
 Hfc) fi\ 1? 3£ R JESs
 
@@ -32246,9 +30637,6 @@ Loo. That Chow-kung and the first
 rulers of T'ang had not observed
 
 
-THE WORKS OF MENCIUS
-
-
 to their example is not proper. Moreover, the History says, — 'In the observances of mourning and
 sacrifice, ancestors are to be followed,' meaning that
 they received those things from a proper source to
@@ -32282,9 +30670,6 @@ tho not being able, etc." It is the
 sentiment of the prince himself, .-in. I
 $» must be translated in tho first
 f.erson, and not in tho third, oa
-
-
-THE WORKS OF MENCIUS
 
 
 JSl
@@ -32342,9 +30727,6 @@ during the five months that elapsed
 between tho death and interment.
 
 
-THE WORKS OF MENCIUS
-
-
 bend, when the wind blows upon it.' The business
 depends on the prince."
 
@@ -32394,9 +30776,6 @@ desired, ho turned inwards to reprove himself, and lamented his
 former conduct which made him not
 be believed in his present course,
 not presuming to blame his officers
-
-
-THE WORKS OF MENCIUS
 
 
 state, they came to witness it. Those who had come
@@ -32452,9 +30831,6 @@ impress the emperor Ching with a
 sense of the importance and toils of
 
 
-THE "WORKS OF MENCIUS
-
-
 ffi)
 
 
@@ -32488,9 +30864,6 @@ character of the people is as follows.
 would be inconsistent with the J£,
 
 
-THE WORKS OF MENCIUS
-
-
 ffi
 
 
@@ -32517,8 +30890,7 @@ next clause, though all are of course
 Hoo is the Yang Ho, of the Con.
 Ana., XVII, i. To accord with hia
 unworthy character, the observation
-is taken in a bad sense, as a dissuasive against the practice of be-
-nevolence, while Mencius quotes it to
+is taken in a bad sense, as a dissuasive against the practice of benevolence, while Mencius quotes it to
 show the incompatibility of the two
 aims. Great stress is laid on the
 ®- ft 1£, & i::,— "He who makes
@@ -32529,8 +30901,7 @@ the observation a good meaning. 6.
 Iff Jn ft, Wt A, 18 A —see Con. Ana.,
 Ill, xx. By the Hea statutes, every
 husbandman, — head of a family, —
-received 50 mow, and paid the produce of five of them to the govern-
-ment. This payment waa the J|.
+received 50 mow, and paid the produce of five of them to the government. This payment waa the J|.
 By those of Yin, 630 mow were
 divided into 9 equal allotments of
 70 mow each, the central one being
@@ -32582,9 +30953,6 @@ confusion." I can't find any signification of J^, "crooked, perverse,
 etc.," from which, as joined to &j,
 
 
-THE WORKS OF MENCIUS
-
-
 ffl
 
 tfn
@@ -32623,9 +30991,6 @@ tone, -ffr jf^,— see I, Pt. II, v, 3. 9.
 See the She-king, II, vi, Ode VIII,
 st. 3, a description of husbandry
 under the Chow dynasty, jig, — the
-
-
-THE WORKS OF MENCIUS
 
 
 • jfc
@@ -32675,8 +31040,6 @@ different times, and in the schools,
 as an example to the young of the
 
 
-THE WORKS OF MENCIUS
-
 ^ ITl 'Hn
 
 
@@ -32705,15 +31068,11 @@ of virtue and skill. A "^ M ^ _h, —
 this can hardly mean, "when the
 human relations have been illustrated
 by the example of superiors," but
-must have reference to the inculcation of those relations by the institu-
-tion of schools. The pith of Mencius's advice is — " Provide the means
+must have reference to the inculcation of those relations by the institution of schools. The pith of Mencius's advice is — " Provide the means
 of education for all, the poor as well
 as the rich." 12. See the She-king,
 III, i, Ode I, st. 1. Jt ft-,— "the
 appointment," i. e., which lighted on
-
-
-THE WORKS OF MENCIUS
 
 
 13. The duke afterwards sent Peih Chen to consult
@@ -32744,8 +31103,6 @@ the surface would be one great
 obstacle. And we find below the
 
 
-THE WORKS OF MENCIUS
-
 )) fin
 
 
@@ -32775,8 +31132,7 @@ requiring new arrangement of the
 boundaries. 14. ~g ^f-, — here, generally, for officers, men not earning
 their bread by the sweat of their
 brow, and the toil of their hands;
-see next chapter, ff _\, — " countrymen," = by their toil self-support-
-ing people generally. ffi=?& ; ffi fc
+see next chapter, ff _\, — " countrymen," = by their toil self-supporting people generally. ffi=?& ; ffi fc
 
 
 = 9& & ^H- 15. Here the systems of
@@ -32788,9 +31144,6 @@ in the translation, =" the country,"
 "the remoter districts." The A
 refers to £• Ffl in par. 1 3, and the —
 to f I] i&. The former would be the
-
-
-THE WORKS OF MENCIUS
 
 
 ffl
@@ -32846,9 +31199,6 @@ This is Choo He's account, of thin
 paragraph. IS. The moral benefits
 
 
-THE WORKS OF MENCIUS
-
-
 BIJ
 
 
@@ -32883,9 +31233,6 @@ support of a superior by an inferior.
 20. ^ ^c (low. 1st tone), = M J5-- $1
 '$?, "the softening and moistening,"
 i. e., the modifying and adapting.
-
-
-THE WORKS OF MENCIUS
 
 
 ffii It A,
@@ -32954,9 +31301,6 @@ II, v, 5, but the meaning of [
 is different, denoting tlio ground
 
 
-THE WORKS OF MENCIUS
-
-
 -tiL
 
 
@@ -33007,9 +31351,6 @@ had come to bo made of iron; see
 rfn
 
 
-THE WORKS OF MENCIUS
-
-
 ffl
 
 
@@ -33035,9 +31376,6 @@ meals, but must be taken here aa
 verbs, signifying the preparation of
 those meals. Jf fa and J$? are to be
 distinguished, the latter is a granary
-
-
-THE WORKS OF MENCIUS
 
 
 So ^o 'fa ffil
@@ -33079,9 +31417,6 @@ is plain," i.e., undyed and unadorned.
 The distinction given by Choo He
 
 
-THE WORKS OF MENCIUS
-
-
 X ffii
 
 
@@ -33121,9 +31456,6 @@ construes it with what follows. This
 is better than to join it, in the sense
 of house or shop, with RV }fi. Seang
 is here forced to make an admission,
-
-
-THE WORKS OF MENCIUS
 
 
 Ifil
@@ -33173,9 +31505,6 @@ parents." This gives a good enough
 meaning in the connection, but the
 signification attached to •fiji is hardly
 otherwise authorized, jfjj j?ft, — "and
-
-
-THE WORKS OF MENCIUS
 
 
 vll T
@@ -33245,16 +31574,12 @@ disordered ^, — low. 3rd tone, "disobedient," "unreasonable." £. jjg,
 panicled millet, wheat, and pulse,"
 but each of these terms must be
 taken as comprehending several
-varieties under it. tji |j|j, in opposition to 3^ ~F) is the portion of coun-
-try which was first settled, and
+varieties under it. tji |j|j, in opposition to 3^ ~F) is the portion of country which was first settled, and
 regarded as a center to all surrounding territories. §H 3KJ J§ «£) — the
 3fj seems to refer to Yaou's position
 as emperor, in which it belonged to
 him to feel this anxiety. For the
 labors of Shun, Yih, and Yu, see
-
-
-THE WORKS OF MENCIUS
 
 
 VlL
@@ -33296,11 +31621,7 @@ received as a proper name, is properly the official title of Slum's
 minister of agriculture, K'e (31). i5|,
 (read See) was the name of his
 minister of instruction. For these
-men and their works, see the Shooking, Pt. II. -A. — used synony-
-mously with iK,=fi, "to plant," or
-
-
-THE WORKS OP MENCIUS
+men and their works, see the Shooking, Pt. II. -A. — used synonymously with iK,=fi, "to plant," or
 
 
 A ffi
@@ -33344,9 +31665,6 @@ sages." This, however, cannot be,
 as the -($» immediately following must
 be understood with reference to Shun
 only. What has made 5i A ^e taken
-
-
-THE WORKS OF MENCIUS
 
 
 & jib, &
@@ -33492,9 +31810,6 @@ wearing the mourning dress. Jn ££,
 their burdens." Tsze-kung had acted
 
 
-THE WORKS OF MENCIUS
-
-
 ftjtj
 
 
@@ -33525,9 +31840,6 @@ I, iii, 4. 3g, — low. 2nd tone. (&, —
 low. 4th tone, pub. 6J,— read boon,
 low. 2nd tone, or k (/()". ii|). 2nd. $f —
 Jfl. Comp. ^ tl &£' Ana., I V, vii, 1.
-
-
-THE WORKS OF MENCIUS
 
 
 juj
@@ -33567,9 +31879,6 @@ IV, st. 6. The two clauses quoted
 refer to the achievements of the
 duke He. Mencius uses them as if
 they expressed the approbation of
-
-
-THE WORKS OF MENCIUS
 
 
 Ill
@@ -33622,9 +31931,6 @@ is to floss of an inferior quality. 18.
 
 
 fln
-
-
-THE WORKS OF MENCIUS
 
 
 -til, ft ffi
@@ -33685,9 +31991,6 @@ Peih or P'eih) was a disciple of
 Mencius. The philosopher, ace. to
 
 
-THE WORKS OF MENCIUS
-
-
 EK ife
 
 
@@ -33741,9 +32044,6 @@ him. We are to suppose that, after
 the acknowledgment in the concl.
 
 
-THE WORKS OP MENCIUS
-
-
 jib ^
 
 
@@ -33791,9 +32091,6 @@ interment of his parents; — he says
 » not knowing what to
 
 
-THE WORKS OF MENCIUS
-
-
 reported this reply to Mencius, who said, "Now, does
 E really think that a man's affection for the child of
 his brother is merely like his affection for the infant of
@@ -33837,8 +32134,6 @@ is quite enigmatic, but it is explained
 as I have done. 4. jg, not exactly
 "for," but as a more general continuative. Julien translates the first
 
-
-THE WORKS OF MENCIUS
 
 ffii ift
 ife,
@@ -33987,9 +32282,6 @@ a 3£ ^ 38- £»— low. 3rd tone.
 that might be done" is Mencius'a
 
 
-THE WORKS OF MENCIUS
-
-
 , JSl
 
 
@@ -34028,8 +32320,7 @@ would not answer to a summons
 
 
 with a flag. See the incident in the
-)fe fiS» B& •&, — -f* *¥-, where the details however, and Confucius' judg-
-ment on it, are different. It is there
+)fe fiS» B& •&, — -f* *¥-, where the details however, and Confucius' judgment on it, are different. It is there
 said: — "The prince of Ts'e was
 hunting in P'ei and summoned the
 forester with a bow. As the forester
@@ -34039,8 +32330,7 @@ saying, In the huntings of former
 princes, -fc ^ have been summoned
 with a banner; ±, with a bow; and.
 the forester with a fur cap. Aa I iliil
-not see the fur cap, I did not vent unto approach. The duke on this dis-
-missed the man. Chung-ne said, He
+not see the fur cap, I did not vent unto approach. The duke on this dismissed the man. Chung-ne said, He
 observed the law of his office, rutlnr
 than the ordinary rule of ansvi-rhni
 the summons. Superior men u-ill
@@ -34048,9 +32338,6 @@ approve of his act." fH, — used for
 B& or •fffl. The observations \vhi(h
 must be taken as made by Con fin HIM
 are found nowhere else. TC, — here
-
-
-THE WORKS OF MENCIUS
 
 
 s K. rfn
@@ -34104,9 +32391,6 @@ the m * & & E. in loc. H = g,
 "for," and |{| (low. 3rd tone), "a
 
 
-THE WORKS OF MENCIUS
-
-
 the course of a whole day, they did not get a single
 bird. The favorite He reported this result, saying,
 'He is the poorest charioteer in the world.' Some
@@ -34134,9 +32418,6 @@ It ia not common in Chinese to
 separate, as here, the verb and its
 object. £4 ^\ nj, " Leang might not,"
 i. e., might not be induced to taku
-
-
-THE WORKS OF MENCIUS
 
 
 for driving, and in the whole day he did not get one
@@ -34226,9 +32507,6 @@ here. 2. ^, — referring to Yen and
 E with what is said about them
 
 
-THE WORKS OF MENCIUS
-
-
 -tiL )H
 
 
@@ -34280,9 +32558,6 @@ benevolence or love, the chief and
 home of all the virtues; "the correct
 
 
-THE WORKS OF MENCIUS
-
-
 JTOL
 
 
@@ -34304,8 +32579,7 @@ Mencius replied, "They did. The Record says, •' If
 
 seat" is propriety; and "the great
 path" is righteousness. $& Jjj ft £.
-(the £, refers to the virtues so metaphorically indicated), — "walks ac-
-cording to them, along with the
+(the £, refers to the virtues so metaphorically indicated), — "walks according to them, along with the
 people." The paraphrase in the B
 lH says: "Getr.ing his desire, and
 being employed in the world, he
@@ -34331,9 +32605,6 @@ princes. Mencius does not evade
 any of his questions, and very wit is -
 factorily vindicates himself. 1. f$,
 — low. 3rd tone, the "Re-cord";
-
-
-THE WORKS OF MENCIUS
 
 
 Confucius was three months without being employed
@@ -34371,8 +32642,7 @@ lose any opportunity of getting to
 be in office again. Kung-ming E,
 we are told by Chaou K'e, was "a
 worthy," but of what time and what
-state, we do not know. An individual of the same surname is men-
-tioned, Ana., XIV, xiv. Julien translates ^S *U incorrectly by — "tune in
+state, we do not know. An individual of the same surname is mentioned, Ana., XIV, xiv. Julien translates ^S *U incorrectly by — "tune in
 luctu erant." The paraphrase of the
 0 HI says: — "Then people all came
 to condole with and to comfort
@@ -34435,9 +32705,6 @@ to the former kings and dukes." Jg,
 — low. 1st tone, "the millet placed
 
 
-THE WORKS OF MENCIUS
-
-
 JDU
 
 
@@ -34471,9 +32738,6 @@ was a proper subject for grief and
 condolence, but the consequences of
 it, especially in nofc being able to
 continue his proper sacrifices, as here
-
-
-THE WORKS OF MENCIUS
 
 
 ifn1
@@ -34518,8 +32782,6 @@ low. 3rd tone. A man marrying is
 said /ff ^, "to have an apartment.,"
 and a woman marrying # (jfc, "to
 
-
-THE WORKS OF MENCIUS
 
 * -Hto 3t •& J8 it
 
@@ -34568,9 +32830,6 @@ low. 3rd tone, following ffi, as a
 numeral or classifier. $; ^) — if£
 
 
-THE WORKS OF MENCIUS
-
-
 •ffc.
 
 
@@ -34602,8 +32861,7 @@ one. Sun Shih explains it thus: —
 princes, and his chariots and disciples got their support from . Men-
 
 
-cius. It came to this that the support of all was from the contribu-
-tions of the princes, and hence it is
+cius. It came to this that the support of all was from the contributions of the princes, and hence it is
 said that by their mutual connection
 they all lived on the princes." 1J[
 ^ — Jf, tsze, low. 3rd tone, "rim
@@ -34611,8 +32869,6 @@ cooked." Comp. Ana., VI, ix. £| ;£
 375 "p, "Yaou's empire," i. e., the
 empire from Yaou. $jr may be runstrued very well as the nominative
 
-
-658 THE WORKS OF MENCIUS
 
 §" & ft & •?, fill
 •JHI
@@ -34647,16 +32903,12 @@ carriage; the Jj^ A) the other parts.
 
 
 £. ^ %~, — the paraphrase in the -g)
-|g is: — "He firmly guards the principles of benevolence and righteous-
-ness transmitted by the ancient
+|g is: — "He firmly guards the principles of benevolence and righteousness transmitted by the ancient
 kings, so that they do not get obscured or obstructed by perverse
 discourses, but hereby await future
 learners, and secure their having
 matter of instruction and models of
 imitation, whereby they may enter
-
-
-THE WORKS OF MENCIUS
 
 
 jfc,
@@ -34693,9 +32945,6 @@ or passive), "to give rice to." 5. £
 take fj£ in a bad sense, to correspond
 to the §JJ. A inan wishes to mend
 the roof, but he only breaks it ; to
-
-
-THE WORKS OF MENCIUS
 
 
 -tiL
@@ -34741,14 +32990,10 @@ we know that the duke of Sung (its
 capital was in the pres. district of
 Shanghew [fgj £|$], in the Kweitih
 department of Honan), or king, as
-he styled himself, was entirely worthless and oppressive. See the "His-
-torical Records," Book XXXVI.1I,
+he styled himself, was entirely worthless and oppressive. See the "Historical Records," Book XXXVI.1I,
 5lc ^ -J- 1H: 3$?» towards the end. 2.
 Comp. I, Tt. II, iii, 1, and xi, 2. P6,
 the capital of T'ang (though there
-
-
-THE WORKS OF MENCIUS
 
 
 ffi
@@ -34782,9 +33027,6 @@ K6. fjft iil {&, — "no means of supplying," i. e., of obtaining, jg, !()\v.
 tone, ffi &, — HS tszc, low. 3rd tone.
 ?£., up. 1st tone. We find it defined
 in the diet., by "to meet with," "to
-
-
-THE WORKS OF MENCIUS
 
 
 -til,
@@ -34856,11 +33098,7 @@ the end is from a different part of
 
 
 the Shoo-king. See IV, v, Section
-II, 6. The eleven punitive expeditions of T'ang cannot all be deter-
-mined. From the She-king and
-
-
-THE WORKS OF MENCIUS
+II, 6. The eleven punitive expeditions of T'ang cannot all be determined. From the She-king and
 
 
 the people were delighted. It is said in the * Book of
@@ -34913,9 +33151,6 @@ irregular phrase. From J$ ;g- ^ to
 fit
 
 
-THE WORKS OF MENCIUS
-
-
 with baskets of rice and vessels of congee. Woo
 saved the people from the midst of fire and water,
 seizing only their oppressors, and destroying them.
@@ -34934,17 +33169,13 @@ have him for their sovereign. Great as Ts'e and
 Ts'oo are, what wculd there be to fear from them?"
 
 
-the end, Me.icius explains the meaning of the Shoo-king. 6. This quota-
-tion from the Shoo-king, V, i, Sect.
+the end, Me.icius explains the meaning of the Shoo-king. 6. This quotation from the Shoo-king, V, i, Sect.
 II, 8, is to illustrate the last clause
 of the preceding par. 7. g flf, — see
 Confucian Ana., VII, xviii. 55, however, does not here simply act as a
 particle closing the sentence, tmt
 also refers to the whole of Wan
 Chang's statement at the commencement of the conversation.
-
-
-THE WORKS OF MENCIUS
 
 
 A A A jib,
@@ -34987,9 +33218,6 @@ being the name of a- street, and the
 -tik
 
 
-THE WORKS OP MENCIUS
-
-
 -flu
 
 
@@ -35027,9 +33255,6 @@ so I prefer to take ffi as = "supposed," "believed," not "said." Ji,
 —up. 2nd tone. ® ^ f£ 0f,— "to
 dwell in the king's place," i. e., to be
 about him.
-
-
-THE WORKS OF MENCIUS
 
 
 with? And suppose that all in attendance on the
@@ -35074,9 +33299,6 @@ the front bar of his carriage. Jgf =
 ;|£, low. 3rd tone. £. refers to the
 
 
-THE WORKS OF MENCIUS
-
-
 -tik
 
 
@@ -35114,9 +33336,6 @@ up. 3rd tone, ^c %. & Al ^ *,—
 see the Le-ke, XIII, iii, 20. Mencius,
 however, does not quote the exact
 words. t = te. and so read- 4- ft
-
-
-THE WORKS OF MENCIUS
 
 
 4. "The philosopher Tsang said, 'They who shrug
@@ -35240,9 +33459,6 @@ commencement he places a period
 not of good order (fe, low. 3rd tone),
 
 
-THE WORKS OF MENCIUS
-
-
 3. "In the time of Yaou, the waters, flowing out
 of their channels, inundated the Middle Kingdom.
 Snakes and dragons occupied it, and the people had
@@ -35280,9 +33496,6 @@ jjfe, — "dug the oarth," but with tlio
 meaning in the translation, jft is
 
 
-THE WORKS OF MENCIUS
-
-
 marshes. 0^ ^is, the waters pursued their course
 through the country, even the waters of the Keang,
 the Hwae, the Ho, and the Han, and the dangers and
@@ -35313,9 +33526,6 @@ not so much the idea, as that the
 through the land, instead of being
 spread over its surface. 5. In describing this period of confusion,
 Mencius seems to ignore the sageship
-
-
-THE WORKS OF MENCIUS
 
 
 that the people could not get clothes and food. Afterwards, corrupt speakings and oppressive deeds became
@@ -35400,9 +33610,6 @@ and = X- 8. "Spring and Autumn,"
 to express a correct judgment on
 
 
-THE WORKS OF MENCIUS
-
-
 and Autumn.' What the 'Spring and Autumn' contains are matters proper to the emperor. On this
 account Confucius said, 'Yes! It is the "Spring and
 Autumn ' ' which will make men know me, and it is the
@@ -35436,8 +33643,7 @@ the Shoo -king, II, iii, 7.) It was by
 
 the study of this book, therefore,
 that Confucius wished himself to be
-known, though he knew that he exposed himself to presumption on ac-
-count of the imperial point of view
+known, though he knew that he exposed himself to presumption on account of the imperial point of view
 from which he looked at everything
 in it. This is the meaning of ?$ f£ %
 £- 1^ ^ ^ ¥) and not — "Those who
@@ -35446,8 +33652,7 @@ prince) will do so on account of my
 condemnations of them in it," which
 is the view of Chaou K'e I have
 dropped the interrogations in I ho
-translation. !). Jig. up. 2nd tonr. ;qplied to a virgin dwelling in the seclu-
-sion of her apartments, .-mil hero to n
+translation. !). Jig. up. 2nd tonr. ;qplied to a virgin dwelling in the seclusion of her apartments, .-mil hero to n
 scholar without public employment.
 Yang Choo, called also Yung Shoo
 ($) and Yang Tsze-kou ( f J5), v;wj
@@ -35458,8 +33663,7 @@ Yang Choo, called also Yung Shoo
 
 the empire. // ?/ow Z?'s/e7i to people's discourses
 throughout it, you will find that they have adopted the
-views either of Yang or of Mih. Now, Yang's principle is — 'each one for himself,' which does not ac-
-knowledge the claims of the sovereign. Mill's principle
+views either of Yang or of Mih. Now, Yang's principle is — 'each one for himself,' which does not acknowledge the claims of the sovereign. Mill's principle
 is — 'to love all equally,' which does not acknowledge
 the peculiar affection due to a father. But to acknowledge neither king nor father is to be in the state
 of a beast. Kung-ming E said, *In their kitchens,
@@ -35486,8 +33690,6 @@ HtLfa -S:
 see I, Pt. I, iv, 4.
 
 
-THE WORKS OF MENCIUS
-
 & . ffi t"
 
 
@@ -35506,14 +33708,10 @@ another.
 myself to the defense of the doctrines of the former
 sages, and to oppose Yang and Mih. I drive away
 their licentious expressions, so that such perverse
-speakers may not be able to show themselves. T/ic itdelusions spring up in men's minds, and do in jun-
-to their practice of affairs. Shown in their praHirr
+speakers may not be able to show themselves. T/ic itdelusions spring up in men's minds, and do in junto their practice of affairs. Shown in their praHirr
 
 
 10. ^,— low. 3rd tone.
-
-
-THE WORKS OF MENCIUS
 
 
 ^r gab
@@ -35548,9 +33746,6 @@ states referred to above. =-,
 
 — the parricides, mentioned in par.
 1. 12. See Pt. 1, iv, 13. The remark in the note there is equally
-
-
-THE WORKS OF MENCIUS
 
 
 •\ IAJRI Vit
@@ -35601,9 +33796,6 @@ this chapter, belonging to ar ()|(1
 and noble family of the «tate. Hia
 
 
-THE WORKS OF MENCIUS
-
-
 -tit, 0
 
 
@@ -35647,9 +33839,6 @@ which Chung was reduced by his
 self-denial. B@, read yen, up. 3rd
 tone, ==§:, "to swallow." 2. Vc = $fe
 jfii J$l £.) "to carry out fully." 3.
-
-
-THE WORKS OF MENCIUS 083
 
 
 i &, Fr &, -fec
@@ -35757,9 +33946,6 @@ He, — 0. BJ: ,£ ^ ^$ ^ ^ jfii [ ^ jj£, clauses. The glossarist of Chaou
 him to eat not to be righteous, and K'e t™ia * more loosely, aa in tl
 
 would not eat it. Similarly he brings translation.
-
-
-THE WORKS OF MENCIUS
 
 
 BOOK IV
@@ -35954,8 +34140,6 @@ fc, "to conform to," i. o., licn) to
 |= take advantage of. Tho Hnyiu^ is
 
 
-THE WORKS OF MENCIUS
-
 •flu &
 
 
@@ -35986,8 +34170,7 @@ low. 1st tone, "the court," and X.
 
 
 as opposed to it, the various officers,
-as having their "work" to do. JJ :fand /)•» A., — with reference to sta-
-tion. The -tfj, at the end of the two
+as having their "work" to do. JJ :fand /)•» A., — with reference to station. The -tfj, at the end of the two
 clauses shows that they are both
 equally assertive, though the prince,
 governed and governing by principles
@@ -36078,9 +34261,6 @@ CONSEQUENCES OF NOT IMITATING
 THEM. 1. "The compass and square
 
 
-THE WORKS OP MENCIUS
-
-
 *^5" ;rSS
 
 P^l III!.
@@ -36134,9 +34314,6 @@ Shun ; by its opposite, the neglect of
 jib
 
 
-THE WORKS OP MENCIUS
-
-
 which can be pursued, that of virtue and its opposite.'
 
 4. "^4 sovereign who carries the oppression of his
@@ -36177,9 +34354,6 @@ Kcc, and by Yin is intended the
 tyrant Chow, by whoso fate, neglecting the lesson furnished him by that
 of Kee, it is suggested that Le should
 be admonished.
-
-
-THE WORKS OF MENCIUS
 
 
 -tiL T
@@ -36227,9 +34401,6 @@ spirits of the Innd and the grain,"
 i. e., the spirits Heruriuu (ho stability
 and prosperity of a particular state,
 which it was the prerogative of tho
-
-
-THE WORKS OF MENCIUS
 
 
 Bin
@@ -36288,9 +34459,6 @@ I'd-., are very concise. The paraphrase in the f[(H fif thus expands; — •
 ifc,
 
 
-THE WORKS OF MENCIUS
-
-
 W rfS -g1
 
 
@@ -36337,9 +34505,6 @@ Comp. "The superior Learning," t(-\t
 of Conf., par. 4. The common saying
 
 
-THE WORKS OF MENCIUS
-
-
 ^ JIIL
 
 
@@ -36353,8 +34518,7 @@ affect, will be affected by the whole state, and he
 
 
 repeated by all probably means: —
-the empire is made up of its component states, and of their com-
-ponent families; — i. e., the families
+the empire is made up of its component states, and of their component families; — i. e., the families
 of the great officers. But Mencius
 takes its meaning more generally,
 and carries it out a step further.
@@ -36390,8 +34554,7 @@ minister against his sovereign. But
 how can a sovereign offend against
 his ministers?" The old man replied,
 "An offending son may get forgiveness through the intercessions of
-aunts and uncles. An offending minister may bo forgiven by the interces-
-sion of the sovereign's favorites and
+aunts and uncles. An offending minister may bo forgiven by the intercession of the sovereign's favorites and
 attendants. But when Koo offended
 against T'ang, and Chow offended
 against Woo; — those wore cases in
@@ -36441,9 +34604,6 @@ powers of the contrasted states" ($fc
 the idea of a Providential government which is implied in "Heaven"?
 
 
-THE WORKS OF MENCIUS
-
-
 2. "Duke King of Ts'e said, 'Not to be able
 to command others, and at the same time to refuse
 to receive their commands, is to cut one's self off
@@ -36458,8 +34618,7 @@ like a scholar's being ashamed to receive the commands of his master.
 
 2. ;Sfc .&, — see Con. Ana., XII, xi.
 SS *$!» — 4& is taken as used for J^,
-"men," but the phrase is a contracted one, and=|Bl A $£ £§) "sepa-
-rated from other men," or ^g may
+"men," but the phrase is a contracted one, and=|Bl A $£ £§) "separated from other men," or ^g may
 be taken actively, which I prefer,
 and similarly supplemented, ^c, —
 lower 3rd tone, " to give a daughter
@@ -36479,8 +34638,7 @@ Ts'e, and was followed to the grave
 by her husband. The old king of
 Woo, barbarian as he was, showed
 much sympathy for his young
-daughter-in-law. 3. ($, — "to imitate," "to make a master of." Men-
-cius's meaning is that the smaller
+daughter-in-law. 3. ($, — "to imitate," "to make a master of." Mencius's meaning is that the smaller
 states followed the example of the
 larger ones in what was evil, and yet
 did not like to submit to them, ffa
@@ -36521,9 +34679,6 @@ be understood as a remark of ('(mfucius on reading the portion of the
 She-king just quoted; — "against a
 
 
-THE WORKS OP MENCIUS
-
-
 fl Ifij
 
 
@@ -36539,8 +34694,7 @@ hands. It is said in the ' Book of Poetry,'
 ' Who can take up a heated substance,
 Without wetting ftis hands?' "
 
-CHAPTER VIII. 1. Mencius said, "How is it possible to speak with those princes who are not be-
-nevolent? Their perils they count safety, their calamities they count profitable, and they have pleasure in
+CHAPTER VIII. 1. Mencius said, "How is it possible to speak with those princes who are not benevolent? Their perils they count safety, their calamities they count profitable, and they have pleasure in
 
 
 benevolent prince, like King Wan,
@@ -36565,9 +34719,6 @@ VICIOUS WAYS AND REFUSING TO BE
 
 COUNSELED. 1. Stress must be laid
 always on the ^ in ^ (tl. The expression does not denote the want of
-
-
-THE WORKS OF MENCIUS
 
 
 /lie
@@ -36604,9 +34755,6 @@ text \v.i ; pruliiilily in Miiint unj;. .3.
 theeong. Bf,»"thi«,0 ind-nsivc. «n-
 \vc may tuko it iulvi-rbiully : "when
 clear, then it serves to wash the cap
-
-
-THE WORKS OF MENCIUS
 
 
 Ifn
@@ -36681,9 +34829,6 @@ waters." The ftfl is tlu) otter. For
 a curious particular about it, see the
 
 
-THE WORKS OF MENCIUS
-
-
 thickets, driving the little birds to them, so Ke'e and
 Chow aided T'ang and Woo, driving the people to
 them.
@@ -36703,9 +34848,6 @@ Le-ke, IV ( $ ^), i, 8. H is given
 in the dictionary as fi, &, "the name
 of a bird." Choo He takes it, however, as=Jjf, a general name for
 small birds. 4. ^£,,- low. 3rd tone,
-
-
-THE WORKS OF MENCIUS
 
 
 Jsl
@@ -36759,8 +34901,7 @@ ffi -tiL A
 fin -a,
 
 
-With those who throw themselves away, it is impossible to do anything. To disown in his conversa-
-tion propriety and righteousness, is what we mean by
+With those who throw themselves away, it is impossible to do anything. To disown in his conversation propriety and righteousness, is what we mean by
 doing violence to one's self. To say — ' I am not able
 to dwell in benevolence or pursue the path of righteousness,' is what we mean by throwing one's self
 away.
@@ -36784,9 +34925,6 @@ to man, but he extirpates them
 up. 2nd tone. The lamentation is to , . ,, T, .
 be understood as for the @ £ £ and himself- Profound is the admomthe f\ ^ ;§. — It is observed that | tlon» and learners should give most
 " this chapter shows that what is ; earnest heed to it."
-
-
-THE WORKS OF MENCIUS
 
 
 CHAPTER XI. Mencius said, " The path of duty lies
@@ -36821,9 +34959,6 @@ it was anciently interchanged. &,— , PERFECT SINCERITY. See the Chung
 up. 2nd tone. It comprehends ciders | Yung, xx, 17, 18, which are here
 
 
-THE WORKS OF MENCIUS
-
-
 -fll
 
 
@@ -36850,9 +34985,6 @@ chapter of the Chung Yung, however, Confucius, from which it is compiled,
 
 is found also in the "Family Say- before him, and not the Chung-yung.
 ings," Meucius may have had that,
-
-
-THE WORKS OF MENCIUS
 
 
 CHAPTER XIII. 1. Mencius said, "Pih-e, that he
@@ -36941,9 +35073,6 @@ vii, 4. Comp. Analects, XIII, v-vii.
 Confucius thought he could have
 accomplished a similar result in
 shorter time.
-
-
-THE WORKS OF MENCIUS
 
 
 •fit.
@@ -37121,8 +35250,7 @@ a native of Ts'e, a famous sophist,
 and otherwise a man of note in his
 day; see the "Historical Records,"
 Bk. CXXVI, #] fg, Ixvi. He here
-tries to entrap Mencius into a confession that he did not well in main-
-taining his dignity of reserve. For
+tries to entrap Mencius into a confession that he did not well in maintaining his dignity of reserve. For
 the rule of propriety referred to, see
 the Le Ke, I, ii, 31. ^^ = ^&.^-
 til n *£• It, — see Con. Ana., IX,
@@ -37184,9 +35312,6 @@ what is s;iid HI the .'{nl p;ir. of I lie*
 custom of the ancients, 1 have
 
 
-THE WORKS OF MENCIUS
-
-
 •ffi,,
 
 III
@@ -37230,9 +35355,6 @@ the son, whose feeling is strongly
 indicated by the use of ^ ^-, "my
 
 
-THE WORKS OF MENCIUS
-
-
 rfii
 
 
@@ -37272,9 +35394,6 @@ others — which is great V" *j', —
 chai'ges, what a man has to
 
 
-THE WORKS OF MENCIUS
-
-
 what I have heard. But I have never heard of any,
 who, having failed to keep themselves, were able
 notwithstanding to serve their parents.
@@ -37307,9 +35426,6 @@ par. 3. Seih was Tsang Sin's father;
 see Con. Ana., XI, xxv. §|, — low.
 3rd tone. "Nourishing the will,"
 i.e., gratifying and carrying out the
-
-
-THE WORKS OF MENCIUS
 
 
 III
@@ -37355,15 +35471,11 @@ nourishes his parents. How can 1 be
 deemed filial?"
 
 
-THE WORKS OF MENCIUS
-
-
 Ifii IE,
 
 
 CHAPTER XX. Mencius said, "It is not enough to
-remonstrate with a sovereign on account of the malemployment of ministers, nor to blame errors' of govern-
-ment. It is only the great man who can rectify what
+remonstrate with a sovereign on account of the malemployment of ministers, nor to blame errors' of government. It is only the great man who can rectify what
 is wrong in the sovereign's mind. Let the prince be
 benevolent, and all his acts will be benevolent. Let
 the prince be righteous, and all his acts will be
@@ -37401,9 +35513,6 @@ about the errors of his government,
 his disciples were surprised, but ho
 simply said, '/ must first correct his
 evil heart,' "
-
-
-THE WORKS OP MENCIUS
 
 
 CHAPTER XXI. Mencius said, "There are cases ot
@@ -37475,8 +35584,7 @@ II, vi. From that chapter we may
 understand that Mencius would not
 be pleased with one of his disciples
 associating with such a person. ;£,
-— the verb, = $l. 2. The name is repeated at the beginning of this para-
-graph, the former being narrative,
+— the verb, = $l. 2. The name is repeated at the beginning of this paragraph, the former being narrative,
 and introductory merely. ^ 5)5, —
 the ^fl;, "also" is directed against
 Tsze-gaou. Choo He explains ^ ;§
@@ -37614,8 +35722,7 @@ of music are really a branch of
 propriety, and when the ordering
 and adorning, which belong to that,
 are perfect, then harmony and pleasure spring up as a matter of course.
-In this way we have propriety mentioned first, and then music. More-
-over, the fervency of benevolence,
+In this way we have propriety mentioned first, and then music. Moreover, the fervency of benevolence,
 the exactness of righteousness, the
 clearness of knowledge, and the
 firmness of maintenance must all
@@ -37675,9 +35782,6 @@ also, — "we do not know." & «£ Jg
 next clause.
 
 
-THE WORKS OF MENCIUS
-
-
 ffil
 
 
@@ -37719,9 +35823,6 @@ accord with them." 2. Shun's father
 is known by the name of Koo-sow,
 but both the characters denote
 "blind," and lie was so pl.yled, it is
-
-
-THE WORKS OF MENCIUS
 
 
 Jfi
@@ -37778,8 +35879,7 @@ that Shun was a native of K'eohow,
 corresponding to the modern Shansi, to which all the places in the text
 are according! y referred. Some, however, and especially Tsang Tsze-koo
 ( g" -/- 1*1), of the Sung dynasty, find
-his birthplace in Ts'inan in Shantung, and this would seem to be sup-
-ported by Mencius in this passage.
+his birthplace in Ts'inan in Shantung, and this would seem to be supported by Mencius in this passage.
 There is considerable diffic. with
 Mingt'eaou, as we read in the "Historical Racords," that in the 39th
 year of his reign, Shun died, v hile on
@@ -37858,9 +35958,6 @@ sages. rJt -J5J. -"their niimlmpH,"
 tho principles \\hieh they cherished.
 
 
-THE WORKS OF MENCIUS
-
-
 CHAPTER II. 1. When Tsze-cn an was chief minister
 of the state of Ch'ing, he would convey people across
 the Tsin and Wei in his own carriage.
@@ -37891,8 +35988,7 @@ chief minister. fj|, — low. 3rd tone.
 Choo He explains ^ .Ift ^ ^ by a &
 ffi 3fc £. Jl|, but ^ so used is low *8l,
 tone. He so expands, however,
-probably from rememnering a conversation on Tsze-ch'an betn-een Con-
-fucius and Tsze-yew, related in the
+probably from rememnering a conversation on Tsze-ch'an betn-een Confucius and Tsze-yew, related in the
 Kea-yu, Bk. IV, iv, near the end,
 
 
@@ -37917,9 +36013,6 @@ Kea division of the year; — see Ana.,
 XV x. Mencius refers to a rule for
 the repair of the bridges, on the
 termination of agricultural labors.
-
-
-THE WORKS OF MENCIUS
 
 
 flU it E
@@ -37974,9 +36067,6 @@ them. "As any other man," — lit.,
 \\ itliout anv distinction or rever n( • .
 
 
-THE WORKS OF MENCIUS
-
-
 when lie regards them as the ground or as grass, they
 regard him as a robber and an enemy."
 
@@ -38011,9 +36101,6 @@ jfl (£, "mentions and commends his
 worth, wishing him to be received
 
 
-THE WORKS OF MENCIUS
-
-
 When he has been gone three years and does not
 return, only then at length does he take back his
 fields and residence. This treatment is what is called
@@ -38037,15 +36124,12 @@ a protection from danger; 2nd, to
 the anticipatory recommendations ;
 
 
-and 3rd, to the long continued emoluments, in expectation of the minis-
-ter's return. 4. Here and above, %
+and 3rd, to the long continued emoluments, in expectation of the minister's return. 4. Here and above, %
 $t is not to lie taken as ;fc $fc, in III,
 I't. 1, ii, 1. We must understand
 "wishes to," or "tries to," before
 «£, for if the minister were
 
-
-THE WORKS OF MENCIUS
 
 lit
 
@@ -38146,9 +36230,6 @@ TIIK YOUNG ANI) K;NO|{ \vr. 1(1 (I).
 abilities." i|i. the mean, the rightly
 ordered course of conduct. 13()th il
 and * must be taken liciv in tin-
-
-
-THE WORKS OF MENCIUS
 
 
 ffii
@@ -38272,9 +36353,6 @@ speaks of it as a thing not to U)
 lost. With Christ, to licromo as
 
 
-THE WORKS OF MENCIUS
-
-
 JSt
 
 CHAPTER XIII. Mencius said, "The nourishment
@@ -38288,8 +36366,7 @@ earnestness and by the proper course, wishing to get
 hold of it as in himself. Having got hold of it in
 
 
-children is to display certain characteristics of children. With Men-
-cius, "the child's-heart" is the ideal
+children is to display certain characteristics of children. With Mencius, "the child's-heart" is the ideal
 moral condition of humanity. Choo
 He says: — "The mind of the great
 man comprehends all changes of
@@ -38392,9 +36469,6 @@ substance and essence of things. #j
 conveys the two ideas of condensation and importance.
 
 
-THE WORKS OF MENCIUS
-
-
 JHL
 
 
@@ -38486,9 +36560,6 @@ this way— ^ £ £ ftfc ffi jfc £ #.
 of Chow, corresponding to the present 3rd and 6th. 83 ft, -"the
 
 
-THE WORKS OF MENCIUS
-
-
 JEl
 
 
@@ -38535,8 +36606,7 @@ Chaou K'e says: ft ?§•, & g$ •& £fl
 
 
 not much. It is simply the interval
-between the knowledge of righteousness, and the want of that knowl-
-edge." This is so far correct, but the
+between the knowledge of righteousness, and the want of that knowledge." This is so far correct, but the
 difference which it indicates cannot
 be said to be "not great." — But is
 it not the object of Mencius to
@@ -38552,9 +36622,6 @@ err, in distinction from the iff '(X
 
 
 Jflu
-
-
-THE WORKS OF MENCIUS
 
 
 Iff
@@ -38607,9 +36674,6 @@ be understood with reference to class
 or place. Coinp. the Shoo-king, IV,
 
 
-THE WORKS OF MENCIUS
-
-
 fio 0,
 
 
@@ -38652,9 +36716,6 @@ it," i. e., understood the matter in
 its principles, so as to be able to bring
 into his own practice the spirit of
 those ancient sages.
-
-
-THE WORKS OF MENCIUS
 
 
 -ife
@@ -38710,9 +36771,6 @@ Autumn," two seasons for the whole.
 3. 3£ refers only to the annals of
 Loo. They did not contain only the
 affairs of Hwiin and Wan, but these
-
-
-THE WORKS OF MENCIUS
 
 
 tfij M
@@ -38813,9 +36871,6 @@ E, see Con. Ana., XIV, xiv.
 is said both by Ghaou K'o and OHIO
 
 
-THE WORKS OF MENCIUS
-
-
 -^y ^ISCT 31^
 
 
@@ -38878,9 +36933,6 @@ if. ff, under the 14th year of Duke is hardly possible, however, to sup
 |j, we have a narrative bearing some pose *hat the two accounts are of
 
 
-THE WORKS OF MENCIUS
-
-
 rfn
 
 
@@ -38938,9 +36990,6 @@ shows the virtue he attached to
 penitent purification.
 
 
-THE WORKS OF MENCIUS
-
-
 fill
 
 
@@ -38991,9 +37040,6 @@ natural, 5fiJ = (®, "following easily,"
 "unconstrained." 2. |J 4f is tho
 would-bo wis« = "yoiir \vi)t) int(n."
 •Jt U. "their chiseling," or "borini:."
-
-
-754 THE WORKS OF MENCIUS
 
 
 -tfc,
@@ -39049,8 +37095,6 @@ Choo He, explained it as meaning,
 # A -f- (£ 5§) "had the funeral duty
 
 
-THE WORKS OF MENCIUS
-
 f^ ^ /£j gjji
 
 
@@ -39097,9 +37141,6 @@ explanation of Mencius's conduct.
 of the court; see the Chow Le, XXII,
 
 
-THE WORKS OF MENCIUS
-
-
 JSl
 
 
@@ -39133,9 +37174,6 @@ heart." The first definition of ^ in
 K'ang-he's dictionary is ^£, "to be
 
 
-THE WORKS OF MENCIUS 757
-
-
 •Titff J
 
 ££ ffii H 4&
@@ -39159,9 +37197,6 @@ verb, "to preserve," as = "to preserve
 in." 4. igg (low. 3rd tone) i# presuppose the exercise of love and
 respect, which are done despite to.
 Jifc 4& = dfc J£. 5. & is used for $g,
-
-
-THE WORKS OF MENCIUS
 
 
 ^ llf
@@ -39219,9 +37254,6 @@ understood from the expressions
 below. There may be calamity, but
 
 
-THE WORKS OF MENCIUS
-
-
 III
 
 
@@ -39251,9 +37283,6 @@ tone. £ = &.
 
 
 low. 1st
-
-
-THE WORKS OF MENCIUS
 
 
 tft,
@@ -39296,9 +37325,6 @@ ix. ^p •}£ and %[, •{£ are contrasted,
 but a tranquil age was not a characteristic of Yu and Tseih's time.
 It was an age of tranquilization.
 3- m at,— it = 3ft £ '£ B, "what
-
-
-THE WORKS OF MENCIUS
 
 
 JSJ
@@ -39363,8 +37389,7 @@ politeness. I venture to ask why you do so."
 
 Tseih, in their relation to their times,
 while that in the next par. is supposed to illustrate the case of Yen
-Hwuy in relation to his. But Mencius's illustrations are generally hap-
-pier than these.
+Hwuy in relation to his. But Mencius's illustrations are generally happier than these.
 CH. 30. How MKNCIUS EXPLAINED
 
 HIS FRIENDLY INTERCOURSE WITH A
@@ -39387,9 +37412,6 @@ our Mr. & £. jg, — " ramble with
 him,j; i. e., as commonly understood, "allow him to come about
 your gate, your school." ^ $£, —
 "and moreover from that," i. e.,
-
-
-THE WORKS OF MENCIUS
 
 
 Jsl
@@ -39433,9 +37455,6 @@ of moaning from f£ to fc shows that
 
 
 partially putting them out of their | the former is to bo tnkrn in tin'
-
-
-764 THE WORKS OF MENCIUS
 
 
 -ffi,
@@ -39546,17 +37565,13 @@ we should rather expect J|f !)§. If ffi
 be translated actively, we must
 
 
-supply as a nominative — "the governor of the city." Shin- (J^fc is pro-
-nounced as ^f. So, commonly. But
+supply as a nominative — "the governor of the city." Shin- (J^fc is pronounced as ^f. So, commonly. But
 the point is doubtful. See the ^|
 f£, in loc.) yew Hing is supposed to
 have been a disciple of Ts'ang's, a
 native of Wooshing. The Shin-yew
 whom he mentions below was another person of the same surname
 with whom Tsang and his disciplea
-
-
-THE WORKS OP MENCIUS
 
 
 -fir,
@@ -39676,9 +37691,6 @@ below, and in £ Jfc, £ fife, jffi ft,
 — %&) read e) i. e.f either 1()\\. IM. inlow. 3rd tone. H, — plainly used
 
 
-THE WORKS OF MENCIUS
-
-
 Hill
 
 
@@ -39705,9 +37717,6 @@ himself proudly to his wife and concubine.
 for "city/' |fl,— see II, Pt. II, i, 2. | 2l fife, "went to another place,":
 
 
-THE WORKS OF MENCIUS
-
-
 -tiL ^
 
 
@@ -39722,9 +37731,6 @@ six, 1, but it is here an adjective,
 
 
 • few.'
-
-
-THE WORKS OF MENCIUS
 
 
 BOOK V
@@ -39749,8 +37755,7 @@ III, Pt. II, v). The tradition is that
 it was in company with Wan Chang's
 disciples, that Mencius baffled in his
 hopes of doing public service, and
-having retired into privacy, composed the seven Books, which con-
-stitute his Works. The first part of
+having retired into privacy, composed the seven Books, which constitute his Works. The first part of
 this Book is occupied with discussions about Shun, and other ancient
 worthies.
 
@@ -39834,9 +37839,6 @@ frain from \vrrping anil i-rying out.
 posed to pass through .Shim's miml.
 
 
-THE WORKS OF MENCIUS
-
-
 flB
 
 
@@ -39881,9 +37883,6 @@ are mentioned, however, in the "Historical Records," g| & fE. -fr flf W
 55 T = JKF H £ W ( = ffl) *g ^ T- ifii
 
 
-THE WORKS OF MENCIUS
-
-
 IIIJ
 
 
@@ -39915,9 +37914,6 @@ tho force of ft, leading on to wlmt.
 follows as the explanation of tho
 
 
-776 THE WORKS OP MENCIUS
-
-
 riches, and honors, were not sufficient to remove his
 sorrow, was that it could be removed only by his
 getting his parents to be in accord with him.
@@ -39942,9 +37938,6 @@ fe,-the term has a different accept^' *»™ way. 3t.-»i the sense of £,
 tion from that in the prec. par., "beautiful."
 
 
-THE WORKS OF MENCIUS
-
-
 ffj
 
 
@@ -39959,8 +37952,7 @@ He must inform his parents.'
 
 If the rule be indeed as here expressed, no man ought
 to have illustrated it so well as Shun. How was
-it that Shun's marriage took place without his informing his parents?" Mencius replied, "If he had in-
-formed them, he would not have been able to marry.
+it that Shun's marriage took place without his informing his parents?" Mencius replied, "If he had informed them, he would not have been able to marry.
 That male and female should dwell together, is the
 greatest of human relations. If Shun had informed
 his parents, he must have made void this greatest of
@@ -39986,14 +37978,10 @@ line of the family to terminate.
 This seems to be the meaning of
 
 
-THE WORKS OF MENCIUS
-
-
 afc
 
 
-2. Wan Chang said, "As to Shun's marrying without informing his parents, I h&ve heard your instruc-
-tions; but how was it that the emperor gave him
+2. Wan Chang said, "As to Shun's marrying without informing his parents, I h&ve heard your instructions; but how was it that the emperor gave him
 his daughters as wives without informing Shun's
 parents?'" Mencius said, "The emperor also knew
 that if he informed them, he could not marry his
@@ -40144,15 +38132,11 @@ when he saw him joyful, he was
 
 
 joyful. The case was that liis
-brotherly feeling could not be repressed. Whether the tilings men-
-tioned by Wan Chang really occurred
+brotherly feeling could not be repressed. Whether the tilings mentioned by Wan Chang really occurred
 or not, we do not know. But .Mencms was able to know and doscril)»»
 the mind of Slum, and that is the
 only thing here worth
 about."
-
-
-THE WORKS OF MENCIUS
 
 
 •ffi.
@@ -40276,9 +38260,6 @@ X as a verb) £ *ft. jg jg,— "the
 uninterrupted flowing of a stream."
 
 
-THE WORKS OF MENCIUS
-
-
 ffij
 
 
@@ -40337,9 +38318,6 @@ had resided. The saying which Mung
 adduces extends to ^ $ V- Two
 
 
-THE WORKS OF MENCIUS
-
-
 ± jfc jfe -tfL
 
 
@@ -40385,9 +38363,6 @@ jjjg, — upper 2nd tone, "a year." Jfc
 (upper 2nd tone; see III, Pt. I,
 
 
-THE WORKS OF MENCIUS
-
-
 ffl
 
 
@@ -40411,8 +38386,7 @@ instructions. But it is said in the 'Book of Poetry,'
 (=81) $£) — Choo He makes 81 = 7t"»
 ' ' to ascend. " The animus ascends at
 death, and the anima $£ , "descends":
-— hence the combination- "dissolution," "decease." The diet., how-
-ever, makes Jg, simply =$-, and the
+— hence the combination- "dissolution," "decease." The diet., however, makes Jg, simply =$-, and the
 phrase = " vanish away." "gf j|^ is the
 people within the imperial domain;
 the pq $£ denotes the rest of the empire, beyond that. Some, however,
@@ -40432,9 +38406,6 @@ and, therefore. Y;n)n ne\ir (-onM
 have appeared before him in the
 position of a subject. 2. £• £. f* IV.
 is not to be taken with reference
-
-
-THE WORKS OF MENCIUS
 
 
 ffij
@@ -40465,12 +38436,8 @@ may not insist on one term so as to do violence
 to the phrase jft ^ £§ Iff) &) but to j and especially to Mencius's explanathe general scope of the prec. par., ) tion. The restricting it to the
 
 
-THE WORKS OF MENCIUS
-
-
 to a sentence, nor on a sentence so as to do violence
-to the general scope. They must try with thenthoughts to meet that scope, and then we shall ap-
-prehend it. If we simply take single sentences, there
+to the general scope. They must try with thenthoughts to meet that scope, and then we shall apprehend it. If we simply take single sentences, there
 is that in the ode called 'The Milky Way,'—
 
 'Of the black-haired people of the remnant of Chow,
@@ -40549,9 +38516,6 @@ by the father."
 ifc
 
 
-THE WORKS OF MENCIUS 791
-
-
 ilc;
 
 
@@ -40619,9 +38583,6 @@ hccaiiso to •ft- vould rmpiiro t)n) u-n
 of language, whereas ^ is
 
 
-THE WORKS OF MENCIUS
-
-
 rfn ^§
 
 5. "'It showed its will by his personal conduct
@@ -40632,8 +38593,7 @@ emperor, but he cannot cause the emperor to make
 that man a prince. A great officer can present a
 man to his prince, but he cannot cause the prince
 to make that man a great officer. Yaou presented
-Shun to Heaven, and the people accepted him. Therefore I say, 'Heaven does not speak. It simply in-
-dicated its will by his personal conduct and his conduct of affairs.' "
+Shun to Heaven, and the people accepted him. Therefore I say, 'Heaven does not speak. It simply indicated its will by his personal conduct and his conduct of affairs.' "
 
 
 iudicutiou of tho will. 5. ,$ -^ is
@@ -40642,9 +38602,6 @@ very plainly in the singular notwithstanding the ||f, = "one of the
 
 princes." I leave the ^ ^.-—"formerly," out of the translation. ^,
 — read puh, "to manifest," "to
-
-
-THE WORKS OF MENCIUS
 
 
 £ ffB
@@ -40747,9 +38704,6 @@ these two terms must be taken
 together, jjjfc is the more general
 
 
-THE WORKS OF MENCIUS
-
-
 •flL
 
 
@@ -40795,9 +38749,6 @@ YAOU AND SHUN. 1. 3? jfct— -"•
 ing to" ; we must understand, "Fnnu
 Yaou and Slum," or transhitn s.mir
 ho\v as I have done. Smno say that
-
-
-796 THE WORKS OF MENCIUS
 
 
 ITS
@@ -40883,8 +38834,6 @@ Shang (ftj). In ;£ ftl, the ftj is up.
 longer sentence than is commonly
 
 
-798 THE WORKS OF MENCIUS
-
 .-iA li ^J£ jvap
 
 
@@ -40919,9 +38868,6 @@ active ; implying the purpose of man,
 the second is passive; so, aa is indicated by the terms, with Uc and 3?
 
 
-THE WORKS OF MENCIUS 799
-
-
 , T) ;£ ffii US
 
 
@@ -40953,9 +38899,6 @@ the chief minister of T'ang (see Con. 5. $H, — up. 3rd tone. 3£, l(-\v. :inl
 Ana., XII, xxii, 6), and Chow-kung tone, jk T • • • W *f-»~ -1 J"ut'
 
 or the duke of Chow, the well-known translated hero according to Chium
-
-
-THE WORKS OF MENCIUS
 
 
 fll
@@ -41001,8 +38944,7 @@ And moreover, on this view Ohungyin was the elder brother, and
 Mencius would have mentioned him
 first. But there is a solution which
 meets all the difficulties of the case.
-First, we assume, with the old explanation, that Wae-ping andChung-
-jin were both dead, when T'ae-kea
+First, we assume, with the old explanation, that Wae-ping andChungjin were both dead, when T'ae-kea
 succeeded to the throne. Then, with
 Ch'ing, we take &£• in the sense of
 Hi, years of life, and not of reign; — .
@@ -41122,9 +39064,6 @@ one explanatory of the other, fl^
 5|, "to ask," often used for "to ask
 
 
-THE WORKS OF MENCIUS
-
-
 vUS ±r, MI
 m* PJA y\
 
@@ -41161,9 +39100,6 @@ the hu-;t s^iiti IK r, mid have therefore
 simply translated the phruao literally.
 
 
-THE WORKS OP MENCIUS
-
-
 flB tfc
 
 
@@ -41197,9 +39133,6 @@ also that it is used actively three
 times, =" to instruct." In /£ jlfc jj;,
 the jftg, "this people," = "mankind."
 6. j*J, — read as, and=$j. Ut — read
-
-
-THE WORKS OF MENCIUS
 
 
 JEl
@@ -41262,9 +39195,6 @@ persuade." $t Z. £)., "advised him gf, — as in par. I. 9. See flu- Slio..-
 about." 7. Comp. Ill, Pt. II, i, 1,5. king, IV, iv, '2, but the rlii-sic ami
 
 f§ = 3g |f, "if we seek where they this text arc so different thtit many
-
-
-THE WORKS OF MENCIUS
 
 
 -tit
@@ -41361,9 +39291,6 @@ unworthy favorite of the duke Ling.
 ia tlio II waii T'uy there, 3c, upper
 
 
-THE WORKS OF MENCIUS
-
-
 rfn
 
 
@@ -41413,9 +39340,6 @@ virtue, and maintainer of integrity"),
 found interestingly detailed in the
 25th and some subsequent books of
 the "History of the Divided States"
-
-
-THE WORKS OF MENCIUS
 
 
 soo
@@ -41525,9 +39449,6 @@ remained himself to be with the I approaching. % '$& are to be taken
 duke in tho evil day which he saw I together.
 
 
-THE WORKS OF MENCIUS
-
-
 BOOK V
 WAN CHANG. PART II
 
@@ -41595,9 +39516,6 @@ and to alter that of ({. wit
 gloss in the f|t ft— *fl * fe *P ft.
 
 
-THE WORKS OF MENCIUS
-
-
 JSl if
 
 
@@ -41640,9 +39558,6 @@ not have part in the enjoyment,"
 etc. 3. Com. II, Pt. I, ix, 2. The
 
 
-THE WORKS OF MENCIUS
-
-
 $& rfii
 
 
@@ -41674,9 +39589,6 @@ put off all the upper garment." %£
 naked." Here and in par. 1, J& is
 expressed more nearly by "( •huracter," than by any other Kn^lish
 term. 4. *f, — "to rinse or wash
-
-
-THE WORKS OF MENCIUS
 
 
 rfii
@@ -41711,8 +39623,7 @@ washed." The latter is the sense
 here. jH j|| j?f %f, was the answer
 given by Confucius to Tsze-loo, who
 wished to hurry him away. 5. I
-have invented the adjective "timeous" to translate the $£ here, mean-
-ing that Confucius did at every
+have invented the adjective "timeous" to translate the $£ here, meaning that Confucius did at every
 time what the circumstances of it
 required, possessing the qualities of
 
@@ -41726,9 +39637,6 @@ musical instruments are united. One
 instrument would make a /J) jfc,
 "small performance." Joined, they
 make a jj| ;fc ;£, " a collected great
-
-
-THE WORKS OF MENCIUS
 
 
 oroclaims the commencement of the music, and the
@@ -41814,9 +39722,6 @@ marquis, earl, viscount, and baron,"
 and also "duke, prince, count,
 
 
-THE WORKS OF MENCIUS
-
-
 making five degrees of dignity. The SOVEREIGN again
 constituted one dignity; the CHIEF MINISTER one; the
 
@@ -41872,9 +39777,6 @@ five king, of the present dynasty:
 ('J})t we are not to think of an exact
 square, but simply that, on a calculation, the amount of territory is
 equal to so many square li. For
-
-
-THE WORKS OF MENCIUS
 
 
 a Tsze and a Nan had each fifty li. The assignments
@@ -41964,9 +39866,6 @@ clerks, and other subordnaton, \\hk-h
 in I ho Chow Lo. HH
 
 
-822 THE WORKS OF MENCIUS
-
-
 Afc rfc. W |)| -I-.
 
 lnJ
@@ -41999,9 +39898,6 @@ liis opinion, that, from the sovereign | received their incomes from them, as
 downwards, all who had lands j cultivated on the system of mutual
 
 
-THE WORKS OF MENCIUS
-
-
 JEl
 
 
@@ -42030,9 +39926,6 @@ to the income from the land. 9.^-, FRIEND. TttBBB MAY BB WO ABSUMP-
 even," "different." ADVANTAGES. 1. J!fl fc = |!d ^ /(! •£
 
 
-THE WORKS OF MENCIUS
-
-
 itb
 
 
@@ -42052,8 +39945,7 @@ family, he would not have maintained his friendship
 with them.
 
 
-;if . J|, — up. 2nd tone, having reference to age. 5L ?&) — "one's breth-
-ron,'; in the widest acceptation of
+;if . J|, — up. 2nd tone, having reference to age. 5L ?&) — "one's brethron,'; in the widest acceptation of
 that term. Observe how ^ % takes
 up the preceding ~fc, and goes on
 to its explanation. JU refers to the
@@ -42068,9 +39960,6 @@ second most readily comes into
 collision with friendship, it alone
 is dwelt upon in the sequel. 2.
 Mang Heen, — see "Great Learning,"
-
-
-THE WORKS OF MENCIUS
 
 
 fill
@@ -42112,9 +40001,6 @@ sage's favorite disciple. -I. l''ing
 epithet of the duko rti, f)r)()-.r)3l n. «'.
 Hae T'ang was a ftunmis worthy »i
 his state. A -£,— "enter being said."
-
-
-THE WORKS OF MENCIUS
 
 
 •feo *
@@ -42203,16 +40089,12 @@ PRINCES, OPPRESSORS OF THE PEOPLE.
 term is noc to be taken in the sense
 of "to receive," but as a synonym of
 $*. If we distinguish the two words,
-we may take 5fc as=the $£ of flulast chapter, and fl£, the gift, ex-
-pressive of the friendship. 2. Choo
+we may take 5fc as=the $£ of flulast chapter, and fl£, the gift, expressive of the friendship. 2. Choo
 He says he does not understand tiie
 repetition of jp £.. It has probably
 crept into the text through tho
 sight of a transcriber, unless we
 suppose, with the -^ }g, that the
-
-
-THE WORKS OF MENCIUS
 
 
 ffij
@@ -42297,9 +40179,6 @@ which takes its place in the next " for the sake of ," i. e., to tuko. ffc
 par. 4. |$] P*J £. ^f» — fe9 t*8 m IV, ... ^1) is a passage of which the
 
 
-THE WORKS OF MENCIUS
-
-
 fin
 
 
@@ -42333,9 +40212,6 @@ seemed the most likely translation.
 the gift is offered, and £., the fruit
 of robbery. 5. $7f, — as above. By
 ^ J- Chang alludes to Mencius himself, ib, — lower 3rd tone, "to take
-
-
-THE WORKS OF MENCIUS
 
 
 -til,
@@ -42383,9 +40259,6 @@ man, acting on the way of expediency. How far that way may
 !)«• pursued will always depend on circ MI instances. 6. ^ £ i£ £'J (l»\v. 1st
 tone, intem)K.) = ^ X) If itt ft (t 91-
 $• lit )& !ft f£ is evidently a question
-
-
-THE WORKS OF MENCIUS
 
 
 JL ir ffii
@@ -42529,9 +40402,6 @@ in this sense. Here again the history
 has £ If] f& (yih = ffi) %.. These
 
 
-THE WORKS OF MENCIUS
-
-
 JIIL
 
 
@@ -42564,8 +40434,7 @@ ought to develop and carry out his
 principles. It is said that this par.
 gives the reasons why he who takes
 office for poverty must be content
-with a low situation and small emolument, but the connection is some-
-what difficult to trace. The J?t] •$ i$(
+with a low situation and small emolument, but the connection is somewhat difficult to trace. The J?t] •$ i$(
 ^ ||| says: "Why did Conf. confine
 himself to having his calculations
 exact, and his cattle sleek and fat ?
@@ -42595,9 +40464,6 @@ A SCHOLAR .MI'ST BE MADK. I. |;
 
 i.s here the scholar, the candidate
 for public office and mo, still unemployed. ^ If, — "docs not depend
-
-
-THE WORKS OF MENCIUS
 
 
 presume to do so. When a prince loses his state, and
@@ -42665,8 +40531,7 @@ motioned to the messenger to go outside the great
 
 brings out all the meaning that is
 in It- fll ft -h» — JS is passive, or =
-"to receive pay." ^ %$, "disrespectful," is to be taken in its im-
-plication 'of a want of humility in
+"to receive pay." ^ %$, "disrespectful," is to be taken in its implication 'of a want of humility in
 
 
 content to take pay, as if ho li.nl.
@@ -42679,9 +40544,6 @@ IJ11UO.1.1UI4 VAt*»» .i»*.jj
 the scholar, who is only one of the peaou, up. If
 
 people having no office, and yet is the hand." {£ r?. — (£• "!'• :{nl
-
-
-THE WORKS OF MENCIUS
 
 
 nfe
@@ -42739,8 +40601,7 @@ Jffl
 the present must be offered with the prince's commission, and the scholar making obeisance twice with
 his head bowed to the ground will receive it. But
 after this the storekeeper will continue to send grain,
-and the master of the kitchen to send meat, presenting it as if without the prince's express com-
-mission. Tsze-sze considered that the meat from the
+and the master of the kitchen to send meat, presenting it as if without the prince's express commission. Tsze-sze considered that the meat from the
 prince's caldron, giving him the annoyance of constantly doing obeisance, was not the way to support
 a superior man.
 
@@ -42761,9 +40622,6 @@ scholar of his obligation. $| ^ ftf,
 being troubled." 6. See J't, I, i, :$.
 Zl if i( .''»» — tno second -$( is read
 joo, low. 3rd tone.
-
-
-THE WORKS OF MENCIUS
 
 
 Til
@@ -42811,8 +40669,7 @@ in TJJ #, ^ $£ ± g. is difft. from
 
 
 the 3$ g, below. Every individual
-may be called a gi, as being a subject, and bound to serve the sov-
-ereign, and this is the meaning of
+may be called a gi, as being a subject, and bound to serve the sovereign, and this is the meaning of
 the term in those two phrases. In
 the other case it denotes one who
 is officially "a minister." f^, =M
@@ -42853,9 +40710,6 @@ are all low. 3rd tone. It must be
 borne in mind that the conver
 
 
-THE WORKS OF MENCIUS
-
-
 fill
 
 
@@ -42890,9 +40744,6 @@ but the second sp-also responds to
 ^. The paraphrase in the 0 H£
 
 
-THE WORKS OF MENCIUS
-
-
 With regard to our virtue, you ought to make me
 your master. How may you be on terms of friendship with me ? ' Thus, when a prince of a thousand
 chariots sought to be on terms of friendship with
@@ -42914,9 +40765,6 @@ by the article which was not appropriate to him."
 
 5. See III, Pt. II, i, 2. C. The j is from Choo He, after tho Cho\\
 explanation of the various flags here j The diet, may bo consulted alwufc
-
-
-THE WORKS OF MENCIUS
 
 
 tit. JKl
@@ -42956,9 +40804,6 @@ called at all. The prince ought to
 go to him, 8. pg & ?*\, — this is
 
 
-THE WORKS OF MENCIUS
-
-
 #p -ffi,,
 
 
@@ -42988,8 +40833,7 @@ the pronoun and another objective;
 st. 1. Julien condemns the translating J$ j|| "the way to Chow," but
 that is the meaning of the terms
 in the ode; and, as the imperial
-highway, it is used to indicate figuratively the great way of righteous-
-ness. |gi, — in the ode •$£, chc, upper
+highway, it is used to indicate figuratively the great way of righteousness. |gi, — in the ode •$£, chc, upper
 
 
 2nd tone. The ode is attributed to
@@ -43048,9 +40892,6 @@ X ffif) — "ne proceeds and ascends."
 JflL
 
 
-THE WORKS OF MENCIUS
-
-
 , 0) • -fto £
 
 
@@ -43092,9 +40933,6 @@ FERKNT CLASSKS OK C'lilKK Ml M) Tl :!(-;.
 overlook small faults. To animadvert on them would be inroiiMstrnt
 with their consanguinity. No distinriion is made of faults, RS great
 or small, when the other class of
-
-
-THE WORKS OF MENCIUS
 
 
 ffij
@@ -43147,9 +40985,6 @@ able to do it in the case of the king
 of Ch'arig-yih (J| ^ ££), whom he
 dethroned. This last event took
 place, 73 B. c.
-
-
-THE WORKS OF MENCIUS
 
 
 BOOK VI
@@ -43206,8 +41041,7 @@ BIGHTEOUSNESS ABE NO UNNATURAL
 TBODUCT OF HUMAN NATUBE. There
 
 underlies the words of Kaou hero,
-says Choo He, the view of tho philosopher Seun (^f) that human na-
-ture is evil (fife Jjg). This is putting
+says Choo He, the view of tho philosopher Seun (^f) that human nature is evil (fife Jjg). This is putting
 the case too strongly. It is an induction from his words, which Kaou
 would probably have disallowed.
 Seun (see the prolegomena, and
@@ -43269,9 +41103,6 @@ virtues from it, men would certainly
 account them to be calamities.
 
 
-THE WORKS OP MENCIUS
-
-
 -tiL
 
 
@@ -43283,8 +41114,7 @@ flow to the west. Man's nature is indifferent to good
 and evil, just as the water is indifferent to the east
 and west."
 
-2. Mencius replied, "Water indeed will flow indifferently to the east or west, but will it flow in-
-differently up or down? The tendency of man's
+2. Mencius replied, "Water indeed will flow indifferently to the east or west, but will it flow indifferently up or down? The tendency of man's
 nature to good is like the tendency of water to flow
 
 
@@ -43321,9 +41151,6 @@ better adapted to the passage. 2.
 fi=f» — as an adverb, "truly." \ ffe £.
 ^£-, — lit., "the goodness of man's
 nature," but we must take $fc as =
-
-
-THE WORKS OF MENCIUS
 
 
 tt ' ftf ffli
@@ -43379,9 +41206,6 @@ the nature of the subjects must be
 the same. At any rate, Mencius
 
 
-THE WORKS OF MENCIUS
-
-
 A flu
 
 
@@ -43404,8 +41228,7 @@ enjoy food and delight in colors is nature. Benevolence
 
 
 here makes him allow this. 2, .3.
-The |^, low. 3rd tone, all interrogative, and="you allow this, I sup-
-pose."— We find it difficult to place
+The |^, low. 3rd tone, all interrogative, and="you allow this, I suppose."— We find it difficult to place
 ourselves in sympathy with Kaou in
 this conversation, or to follow Mencius in passing from the second par.
 to the third. His questions in par.
@@ -43425,9 +41248,6 @@ commentator j& KJ observes: "
 infant knows to drink the breast,
 and to look at fire, which illustrates
 the text & -g, tt" It is important
-
-
-THE WORKS OF MENCIUS
 
 
 , a ffij t ft -fll,
@@ -43475,9 +41295,6 @@ also a verb. 3. ^ J^, at the commencement, have crept by some
 oversight into the text. They must
 
 
-THE WORKS OF MENCIUS
-
-
 JJT ^
 
 
@@ -43517,9 +41334,6 @@ from our recognition of the ago of
 ahorse." 4. $ A»$l A, = '"(lt
 people, strangers. J£J. flj ft tft) J '• Ti
 ,— the meaning is no doubt, ua
-
-
-THE WORKS OF MENCIUS
 
 
 -ffi,.
@@ -43571,8 +41385,7 @@ THE WORKS OF MKNCIU8
 -tile
 
 
-CHAPTER V. 1. The disciple Mang Ke asked Kungtoo, saying, " On what ground is it said that righteous-
-ness is internal?"
+CHAPTER V. 1. The disciple Mang Ke asked Kungtoo, saying, " On what ground is it said that righteousness is internal?"
 
 2. Kung-too replied, "We therein act out our
 feeling of respect, and therefore it is said to be
@@ -43646,8 +41459,6 @@ to receive the worship. ^ ^ 3£ €fc)
 ^ ^F; comp. the "Doctrine of the
 
 
-THE WORKS OF MENCIUS
-
 * ffc ft g
 
 
@@ -43688,9 +41499,6 @@ Tung-po (i|f $) and 11..,., siylr.i
 Wan-ting Kung (#J £ # £), i)-
 
 his own tinirw. :'. This is th.i \\-.\\
-
-
-THE WORKS OF MENCIUS
 
 
 iff %
@@ -43898,9 +41706,6 @@ GOOD. 1. Bf j&, — "rich years," =9
 ff-, "plentiful years." fj{ IH
 
 
-THE WORKS OF MENCIUS
-
-
 & i$ fln
 
 while in bad years the most of them abandon themselves to evil. It is not owing to their natural powers
@@ -43936,8 +41741,7 @@ its proper pronominal meaning, as if
 Mencius in a lively manner turned
 to the young. — "It is not from the
 powers conferred by Heaven that
-you are different." $5, "so," referring specially to the self-abandon-
-ment. 2. |S$ ||£ go together = "barley." ^ ff (up. 2nd tone, the
+you are different." $5, "so," referring specially to the self-abandonment. 2. |S$ ||£ go together = "barley." ^ ff (up. 2nd tone, the
 noun), — "sow the seeds." j^S, — prop,
 "a kind of harrow." Q 5j£, not "the
 solstice," but "the days (i. e., the
@@ -44026,9 +41830,6 @@ but, from botan, the connective particle, though it often corresponds to
 our other but, a disjunctive, or exceptive, = "only." ftp tyj|, see IV7, Ft.
 
 
-THE WORKS OF MENCIUS
-
-
 & IB) zt -tik
 
 
@@ -44063,9 +41864,6 @@ much as "I say" in the translat n)n.
 
 tioii," the moral nature, and ^ = »t»
 ± }\], "that constitution or nature,
-
-
-THE WORKS OF MENCIUS
 
 
 determinations of righteousness agreeable to my mind,
@@ -44106,8 +41904,6 @@ beauty?" ^ Jt H £ £ fff &,_
 the ^ is difficult; — "there is what
 they grow day and night," the ^
 
-
-THE WORKS OF MENCIUS
 
 g -flu ' *
 
@@ -44153,9 +41949,6 @@ mind or nature, which has I n
 allowed to run to waste. !'.-. "hi-,"
 = ••« man." M=*. R •£'• "*•
 good mental constitution m nature."
-
-
-THE WORKS OF MENCIUS
 
 
 flu
@@ -44206,9 +41999,6 @@ that which I have given. ^ ^, —
 see IV, Pt. II, xix, 1. B. t= H IS1-
 
 
-THE WORKS OF MENCIUS
-
-
 see, they think that it never had those powers which I
 assert. But does this condition represent the feelings
 proper to humanity ?
@@ -44255,9 +42045,6 @@ nature, as in the culm of tin- mnriiiiu:.
 then will the rnind al \vnyn Inserved, and every where imd in all
 circumstances its iiHiiiilVMiitions will
 be those of beuevoleuce and righteousness."
-
-
-THE WORKS OF MENCIUS
 
 
 •ffi,, 0 ±
@@ -44351,9 +42138,6 @@ of Ilia (natural)' int. 'lii .•!...• :" V
 and the following \v(.rdH V'"
 
 apposition.
-
-
-THE WORKS OF MENCIUS
 
 
 -til,
@@ -44537,9 +42321,6 @@ ftfc *H4 1% nays: "The thinki'
 tJie ixior would soein to IM? r. thmi^lit
 
 
-THE WORKS OF MENCIUS
-
-
 JtU
 
 
@@ -44577,8 +42358,6 @@ from dying. ^ /ff. ^ pj $ Q ^, —
 an example in point to illustrate par.
 G, see the Lc-ke, II, Pt. II, iii, 17.
 
-
-THE WORKS OF MENCIUS
 
 Z 3f As fit A
 
@@ -44735,9 +42514,6 @@ more special reference to the b(xl\.
 3fc Wl St. — "unites what he !()•
 
 
-THE WORKS OF MENCIUS
-
-
 loves all, so he must nourish all. There is not an
 inch of skin which he does not love, and so there
 is not an inch of skin which he will not nourish. For
@@ -44770,9 +42546,6 @@ Ana., vi, 28. 2. ff , — ^"the members
 of the body," but the character, like
 J|, is to be understood with a tacit
 reference to the mental part of our
-
-
-THE WORKS OF MENCIUS
 
 
 3. "Here is a plantation keeper, who neglects his
@@ -44814,9 +42587,6 @@ famous. 6. The meaning is that the
 parts considered small and ignoMf
 may have their due share of attention, if the more important parts are
 first cared for, as they ought to be.
-
-
-THE WORKS OP MENCIUS
 
 
 A, -tit,
@@ -44866,9 +42636,6 @@ Choo He, as in the translation, is
 preferable. It is very evident how
 
 
-THE WORKS OF MENCIUS
-
-
 things. When one thing comes into contact with
 another, as a matter of, course it leads it away. To
 the mind belongs the office of thinking. By thinking,
@@ -44912,9 +42679,6 @@ views of human nature as a whole
 aro open to the tlifi- objections
 stated in tho note to the -1st di.
 of tho ('liui/ij Yung.
-
-
-THE WORKS OF MENCIUS
 
 
 ffij JSl ±
@@ -44967,9 +42731,6 @@ it away; — showing the existence of
 delusion. Then when the nobility of
 man has been got, to throw away
 the nobility of Heaven, exhibits
-
-
-THE WORKS OF MENCIUS
 
 
 a ini
@@ -45035,9 +42796,6 @@ sway in Tsin. They were a 8«)rt of
 time of Mcncius, the title Iiml Income associated with the numo of
 
 
-THE WORKS OF MENCIUS
-
-
 ' IXIIII
 
 
@@ -45064,8 +42822,7 @@ the house. 3. g$ ;zi, — see the Shokiiig, III, ii, Ode III, st. 1. The ode
 is one responsive from "his fathers
 
 
-has entertained them. Mencius's application here is a mere accommo-
-dation.
+has entertained them. Mencius's application here is a mere accommodation.
 
 CH. 18. IT is NECESSARY TO
 
@@ -45133,9 +42890,6 @@ guiirdcid statements, of whu-h HIM
 seems to be one.
 
 
-THE WORKS OP MENCIUS
-
-
 CHAPTER XX. 1. Mencius said, "E, in teaching
 men to shoot, made it a rule to draw the bow to
 the full, and his pupils also did the same.
@@ -45162,9 +42916,6 @@ these, he cannot teach, and if a pupil
 neglect these, he cannot learn. In
 small arts it is so : — how much more
 with the principles of the sages!"
-
-
-THE WORKS OF MENCIUS
 
 
 BOOK VI
@@ -45239,9 +42990,6 @@ it an exclamation — "oh!" 5. %fa, —
 " to measure, or feel with the hwid."
 
 
-THE WORKS OF MENCIUS
-
-
 6. "Gold is heavier than feathers; — but does that
 saying have reference, on the one hand, to a single
 clasp of gold, and, on the other, to a wagonload
@@ -45277,9 +43025,6 @@ some explanation of it. £ M • • •
 the saying (meaning) of the gold of
 one hook, and the feathers of one
 wagon?" Comp. I, Pt. II, vii,
-
-
-THE WORKS OF MENCIUS
 
 
 J * JnL
@@ -45386,9 +43131,6 @@ numeral or olusHifior, and — pC W =
 "a chicken." Woo Hw6 was a man
 
 
-THE WORKS OF MENCIUS
-
-
 rfn m
 
 
@@ -45471,9 +43213,6 @@ how Keaou was presuming on his
 nobility. 7. ^ &, — "Now, the
 
 
-THE WORKS OF MENCIUS
-
-
 JUL
 
 
@@ -45501,8 +43240,7 @@ NECESSARILY UNFILIAL. 1. Kaou appears to have been a disciple of
 Tsze-hea, and lived to Mencius's
 time. From the expression ^ ^
 in par. 2, it is plain, he is not to be
-confounded with Mencius'a own disciple of the Bame surname, men-
-tioned II, Pt. IT, xii, 2. /J'* #, — see
+confounded with Mencius'a own disciple of the Bame surname, mentioned II, Pt. IT, xii, 2. /J'* #, — see
 the She-king, II, v, Ode III, 3. The
 
 
@@ -45518,9 +43256,6 @@ feel in such circumstances. Chaou
 K'e, however, assigns it another
 authorship, but on this and other
 questions, connected with it, see the
-
-
-THE WORKS OF MENCIUS
 
 
 3| & ±, It fife, z, A
@@ -45571,9 +43306,6 @@ P'wan. When native scholars can
 construe a passage so differently, we
 
 
-THE WORKS OF MENCIUS
-
-
 -tiL
 
 
@@ -45609,8 +43341,7 @@ indeed, many commentators say that
 
 the received account of the subject
 of the K'ae Fung must be wrong, or
-that Mencius's decision on it is absurd. But here again, see the She-
-king, in loc. -j$£ g£,- — "morea [if
+that Mencius's decision on it is absurd. But here again, see the Sheking, in loc. -j$£ g£,- — "morea [if
 we had such a verb] the distance."
 The father's act was unkind; if the
 son responded to it with indifference,
@@ -45737,9 +43468,6 @@ kings of Ts'in and Ts'oo, and if those kings are
 — "the multitudes of the three | armies"; uee Con. Ana., VII, x. ±
 
 
-THE WORKS OF MENCIUS
-
-
 -UL ffi B, * •? g ±,
 
 
@@ -45774,8 +43502,6 @@ embraces both "officers and soldiers."
 ^ ?f!f, — here the translation needs to
 be supplemented considerably.
 
-
-THE WORKS OF MENCIUS
 
 ) ffii •? ifij
 
@@ -45864,8 +43590,6 @@ reason, however, why Ch'oo should
 not have paid his respects to Mencius in person.
 
 
-THE WORKS OF MENCIUS
-
 ifc T\ ±
 
 
@@ -45919,9 +43643,6 @@ selfishness, than of benevolence. •_'.
 Pih-o, etc., sco V, I't. II, i, witli i Inother references there given. That
 
 
-THE WORKS OF MENCIUS
-
-
 -tiL
 
 
@@ -45963,8 +43684,6 @@ is the See Lew of II, Pt. II, xi; comp.
 that ch. with this. Kung-e (named
 
 
-THE WORKS OF MENCIUS
-
 ffi & m
 
 
@@ -46000,9 +43719,6 @@ stand ;K, "If you seek for
 bcrmont merely, as the ronsequi
 etc. ;"}. Thr« individuals niinn-d hi-n«
 all belonged to 'J's'e, excepting the
-
-
-THE WORKS OF MENCIUS
 
 
 fill
@@ -46047,9 +43763,6 @@ a pretender, for that wherever ability
 was, it was sure to come out. 6.
 
 
-THE WORKS OF MENCIUS
-
-
 , Un fin
 
 
@@ -46084,9 +43797,6 @@ found it in the matter mentioned.
 The % in the £|S *&. $,— used for
 8ft, ^ ^ -£,— "to do a disorderly
 going away."
-
-
-THE WORKS OF MENCIUS
 
 
 -tile
@@ -46151,9 +43861,6 @@ men." Down to jij| is explicatory of
 j§ y$. What follows belongs to ji $&•
 
 
-THE WORKS OF MENCIUS 913
-
-
 m ffii
 
 
@@ -46174,8 +43881,6 @@ at court, he was punished by degradation of
 rank; if he did so a second time, he was deprived
 of a portion of his territory; if he did so a third
 
-
-THE WORKS OF MENCIUS
 
 ffi)
 
@@ -46198,8 +43903,7 @@ x- & 4fc = "in harmony with these
 things," all power being lodged
 with the emperor, and the princes
 being dependent on him. fj-=#j,
-"to superintend, or order, punishment"; fie, "to inflict the punish-
-ment." 3. The duke Hwan nine
+"to superintend, or order, punishment"; fie, "to inflict the punishment." 3. The duke Hwan nine
 times brought together an assembly
 of the princes, the chief gathering
 being at K'wei-k'ew, 650 B. c. At
@@ -46246,8 +43950,7 @@ policy in making embankments. Impose no restrictions on the sale of grain. Let t
 
 
 the occasion in the text, Hwnn
-dispensed with some of those ceremonies, fir was the term appro-
-priated to the articles of agreement
+dispensed with some of those ceremonies, fir was the term appropriated to the articles of agreement
 at such solemn assemblies, indicating
 that they were enjoined by the
 emperor, i^ ^-, — "the son who has
@@ -46263,8 +43966,6 @@ to take the water from others, or
 to inundate them. $ft & ft. — "do
 not repress the sale of grain," i. e.,
 
-
-THE WORKS OF MENCIUS
 
 iTL U%*
 
@@ -46330,8 +44031,7 @@ wanted to take advantage of difficulties in Ts'e and get possession
 of Nan-yang. That was the name
 of the region on the south of Mount
 T'ae, which had originally belonged
-to Loo. On the north of the mountain* was the territory of Ts'e. Be-
-tween the two states there had been
+to Loo. On the north of the mountain* was the territory of Ts'e. Between the two states there had been
 frequent struggles for the district,
 which the duke P'ing of Loo (f- £)
 now hoped to recover. Shin, below,
@@ -46352,9 +44052,6 @@ Mencius's time. In the text it =
 Con. Ana., XIII, xxx.— Wr
 infer from this par. that Shin had
 himself been the adviser of tho
-
-
-918 THE WORKS OF MENCIUS
 
 
 ffi
@@ -46497,9 +44194,6 @@ described as above, on the am In .my
 of the "Historical Records," ft\ ff,
 
 
-THE WORKS OF MENCIUS
-
-
 jgj
 
 JlP
@@ -46539,9 +44233,6 @@ together as synonymous, and also f$
 ££, — -"the evening meal" : together =
 
 
-3: THE WORKS OF MENCIUS 923
-
-
 these accounts a tax of one twentieth of the produce
 is sufficient there.
 
@@ -46568,9 +44259,6 @@ moaning is, that, under such synlcnis of its stuto under MID tyrant Kw.
 
 
 China would become in the one case
-
-
-THE WORKS OF MENCIUS
 
 
 CHAPTER XL 1. Pih Kwei said, "My management
@@ -46604,9 +44292,6 @@ them by turning the waters into
 other states, saving one at the expense of injuring others. 2. ?Jc. ;£ 3^
 4. See III, Pt. II,
 as there a particular
-
-
-THE WORKS OF MENCIUS
 
 
 TTI)
@@ -46653,9 +44338,6 @@ sun Ch'ow knowing yo-rliint: to lie
 deficient in them, put his quest ionn
 
 
-THE WORKS OF MENCIUS
-
-
 III
 
 
@@ -46688,8 +44370,7 @@ flatterers, and sycophants will make their appearance.
 
 
 accordingly. 4. On this par. it is
-Baid in the 0 fj|: "In the administration of govt., the most ex-
-cellent quality ia without prejudice
+Baid in the 0 fj|: "In the administration of govt., the most excellent quality ia without prejudice
 and dispassionately (j,^ tfi) to receive
 what is good. Now in regard to all
 good words and good actions, Yoching in hia heart sincerely loves
@@ -46846,8 +44527,6 @@ in \\hich the walls urn furim-d. Sft
 j^f J- is tho oflieor who \viis in
 
 
-THE WORKS OF MENCIUS
-
 rfn B tt,
 
 fb dot
@@ -46929,9 +44608,6 @@ clause for an explanation of what has
 been said.
 
 
-THE WORKS OF MENCIUS
-
-
 BOOK VII
 TSIN SIN. PABT I
 
@@ -46993,12 +44669,8 @@ of the Confucian chapter in the
 their view of it; that all the labor
 is in £n 1ft %£, which is the' % t&
 of that chapter. If this bo correct,
-we should translate: "He who completely develops his mental consti-
-tution, has known (come to know)
+we should translate: "He who completely develops his mental constitution, has known (come to know)
 his nature," but I cannot construe
-
-
-THE WORKS OF MENCIUS
 
 
 2. "To preserve one's mental constitution, and
@@ -47077,9 +44749,6 @@ on the study of the text moro than
 on tho commentaries.
 
 
-934 THE WORKS OF MENCIUS
-
-
 ^§\ -In Sap
 
 
@@ -47149,9 +44818,6 @@ to fall. 4. The fetters are understood to be those of an evildoer.
 those for the feet.
 
 
-THE WORKS OF MENCIUS
-
-
 CHAPTER III. 1. Mencius said, "When we get by
 our seeking and lose by our neglecting; — in that case
 seeking is of use to getting, and the things sought
@@ -47199,9 +44865,6 @@ are only the relation* of so(-iot\. l»
 we extend them farther, wo ouly get
 
 
-THE WORKS OF MENCIUS
-
-
 jnL
 
 
@@ -47215,8 +44878,7 @@ reciprocity, when he seeks for the realization of perfect
 virtue, nothing can be closer than his approximation
 
 CHAPTER V. 1. Mencius said, "To act without
-understanding, and to do so habitually without examination, pursuing the proper path all the life with-
-out knowing its nature; — this is the way of multitudes."
+understanding, and to do so habitually without examination, pursuing the proper path all the life without knowing its nature; — this is the way of multitudes."
 
 CHAPTER VI. Mencius said, "A man may not be
 without shame. When one is ashamed of having
@@ -47248,8 +44910,6 @@ This use of ^ is not common.
 CH. 6. THE VALUE OF THE FEEL-
 ING OF SHAME. The last flit — shameful conduct.
 
-
-THE WORKS OF MENCIUS
 
 ffi Jl A
 
@@ -47295,9 +44955,6 @@ in tho scholars iinmrly. *,) i* 'h-'ir
 own "power." As applied to th(-
 
 
-THE WORKS OF MENCIUS
-
-
 MIJ
 
 
@@ -47340,9 +44997,6 @@ K'e, explains jg If as "the appearance of self-possession and freedom
 from desire." "Perfectly satisfied"
 
 
-THE WORKS OF MENCIUS
-
-
 QBiit
 
 
@@ -47376,9 +45030,6 @@ has in himself, and the "righteousness'' is the course which he pursues.
 i. e., has what lie chiefly loves and
 seeks. «. -# £ A.— A=d:.- ('l'""
 He observes: "This rhnpti-r shown
-
-
-THE WORKS OF MENCIUS
 
 
 3E -tfc,
@@ -47431,9 +45082,6 @@ of those families, pff, used for ^jf,
 "to increase," indicates the externality of the additions. gft $£ is
 defined — ^ g ffi J£ ;&, "not being
 full of and satisfied with one's self."
-
-
-THE WORKS OF MENCIUS
 
 
 CHAPTER XII. Mencms said, "Let the people be
@@ -47495,9 +45143,6 @@ we cultivate our fields and oat. —
 What is the. strength of the
 
 
-THE WORKS OF MENCIUS
-
-
 tfil
 
 
@@ -47523,8 +45168,7 @@ used here in its highest application,
 = "the sage." $f ®, ffi $£, — the
 latter phrase is interpreted morally,
 being = " when he has fixed his mind
-to produce a result." This is unnecessary. jjj$, — "spiritual," "mys-
-terious":— the effects are sure and
+to produce a result." This is unnecessary. jjj$, — "spiritual," "mysterious":— the effects are sure and
 visible, but the operation is hidden.
 In the influence of Shun in the time
 
@@ -47542,9 +45186,6 @@ object for ;£, I supply "society."
 It is understood that a leader of the
 princes only helps the people in a
 small way.
-
-
-THE WORKS OF MENCIUS
 
 
 ^ rfn :§)
@@ -47566,8 +45207,7 @@ people so much as good instructions.
 while good instructions are loved by them. Good
 government gets the people's wealth, while good instructions get their hearts."
 
-CHAPTER XV. 1. Mencius said, "The ability possessed by men without having been acquired by learn-
-ing is intuitive ability, and the knowledge possessed
+CHAPTER XV. 1. Mencius said, "The ability possessed by men without having been acquired by learning is intuitive ability, and the knowledge possessed
 by them without the exercise of thought is tln-ir
 intuitive knowledge.
 
@@ -47591,9 +45231,6 @@ TARTS OF HIS CONSTITUTION. \. I
 translate ^ by "intuitive," but it
 serves also to denoto tho "goodness" of the nature of num. ( hoo
 He so defines it : & «#**£*
-
-
-THE WORKS OF MENCIUS
 
 
 4ffl* JrJ
@@ -47692,8 +45329,6 @@ AND AFFLICTION. Conip. V I , I 't . II.
 
 xv. & and ft, ft and *tf (»P- :!"l
 
-
-946 THE WORKS OF MENCIUS
 
 flij
 
@@ -47845,9 +45480,6 @@ MENT. 1. This describes the condition of the prince of a large state,
 who has thereby many opportunities
 
 
-THE WORKS OF MENCIUS
-
-
 ffii
 
 
@@ -47928,9 +45560,6 @@ WAN BY WHICH THE AGED WERE
 1. Cornp. IV, Pt. 1,
 
 
-THE WORKS OF MENCIUS
-
-
 flu
 
 
@@ -47970,9 +45599,6 @@ first taught the peopl«- t" kr.-p mlkworms, and to manage their nilk, in
 order to provide clothes. Fiiim •
 ages sacrifice to her as the #j B-"
 Meucius haa not mentioned before
-
-
-THE WORKS OF MENCIUS
 
 
 jib
@@ -48056,9 +45682,6 @@ Tim t inui of the iv(|. i'|""'
 tun"', and the rnannor of ii n»t
 
 
-THE WORKS OF MENCIUS
-
-
 jfiu
 
 
@@ -48103,11 +45726,7 @@ hill, called Fang ( $;), in the district of
 K'euhfow (ft JJL)) at the foot of which
 Confucius's parents were buried;
 others with a hill named Mung (?ft),
-in the district of Pe in the department of Echow. The T'ae Moun-
-tain is the chief of the five great
-
-
-THE WORKS OF MENCIUS
+in the district of Pe in the department of Echow. The T'ae Mountain is the chief of the five great
 
 
 iUfi
@@ -48158,9 +45777,6 @@ THE LOVE OF GAIN LEAD. 1. "Adi--
 cipleof Shun,"— i.e., ultl.
 
 a man may not himself attain t() !)«•
-
-
-THE WORKS OF MENCIUS
 
 
 -til,
@@ -48278,9 +45894,6 @@ the whole circumstances of •
 case and time.
 
 
-THE WORKS OF MENCIUS
-
-
 CHAPTER XXVII. 1. Mencius said, "The hungry
 think any food sweet, and the thirsty think the same
 of any drink, and thus they do not get the right taste
@@ -48371,9 +45984,6 @@ BEN»:vni.r:\( i: AM« KH:HTI;HI -M -s.
 "benevolence and rights niMirsa,''
 
 
-THE WORKS OF MENCIUS
-
-
 Jfc A
 
 
@@ -48419,9 +46029,6 @@ MIT in: KASII.V AITJ^IKD. Comp. V,
 Pt . 1, vi, f). ffi yr I -J,— see the Shocking, Pt. IV, v, Bk. I, 9. The words
 are taken somewhat differently in
 the comm. on the king, but I have
-
-
-THE WORKS OF MENCIUS
 
 
 flu
@@ -48475,9 +46082,6 @@ SUggOHted from tho oilo, \\lioccurs, fft £,— "use him," i. e., hi*
 counsels, not ae a minister.
 
 
-THE WORKS OF MENCIUS
-
-
 ) M -tiL
 
 
@@ -48513,8 +46117,7 @@ CH. 33. HOW A SCHOLAR PKEPARES
 HIMSELF FOR THE DUTIES TO WHICH
 
 HE ASPIRES. 1. Teen was the son of
-the king of Ts'e. His question probably had reference to the wander-
-ing scholars of the time, whose ways
+the king of Ts'e. His question probably had reference to the wandering scholars of the time, whose ways
 he disliked. They were no favorites
 with Mencius., but he prefers to reply
 to the prince according to his ideal
@@ -48674,9 +46277,6 @@ etc. But I prefer to un(lrr)tuu(l with
 Chaou K'o, & A !$ :£ %-) tlM(1 '"
 
 
-THE WORKS OF MENCIUS
-
-
 •fllo
 
 
@@ -48708,9 +46308,6 @@ superfluous. ^ ~fT ;£ Jjj| g, — see III,
 Pt. II, iii, 3. i£ •$, "ant-hill marsh,"
 was simply the name of a gate in
 the capital of Sung.
-
-
-THE WORKS OF MENCIUS
 
 
 JDL
@@ -48760,9 +46357,6 @@ Organs. tin' v.\ ^, ry( ••;. hiu( I
 otc.; und Q for their in.mii
 
 
-THE WORKS OF MENCIUS
-
-
 conferred nature. But a man must oe a sage before
 he can satisfy the design of his bodily organization."
 
@@ -48798,9 +46392,6 @@ CH'OW FOB ASSENTING TO THE PBO
 POSAL TO SHORTEN THE PERIOD OF
 MOURNING. Comp. Con. Ana., XVII,
 xxi. 1. The mourning is to be understood as that of three years for a
-
-
-THE WORKS OF MENCIUS
 
 
 -flL
@@ -48839,9 +46430,6 @@ wife, seems to be incorrect. S(-(- tli)-
 alive, a son Hhortenod iln- (H-iind of
 mourning for his mother. 1. „''! &, —
 .fc has a pronominal force.
-
-
-THE WORKS OF MENCIUS
 
 
 -tii,
@@ -48884,13 +46472,9 @@ Sin. 3. fo '& = }& ~£ '& • So a
 Min. 4. So was it with Mencius and
 Wan Chang. 5. This is a class, who
 never come into actual contact with
-their teacher, but hear of his doctrines, and learn them. His teach-
-ings, though not delivered by himself
+their teacher, but hear of his doctrines, and learn them. His teachings, though not delivered by himself
 in person, do notwithstanding reach,
 to them.
-
-
-THE WORKS OF MENCIUS
 
 
 •ffio @
@@ -48995,9 +46579,6 @@ T'ang. His rank made Kung-tao
 think that more than ordinary
 
 
-THE WORKS OF MENCIUS
-
-
 -jfi Iff
 
 
@@ -49045,9 +46626,6 @@ The first pur., it is said, hn
 to errors of defect (fC Jfc ft •'
 
 and the second to. thono ()t
-
-
-THE WORKS OF MENCIUS
 
 
 rfB
@@ -49123,8 +46701,7 @@ things which it is most important to
 know," and tf£ & ^ || K ± ^ ffi)
 "but only are they earnest about
 what is most important, the cultivating affection for the virtuous."
-The teaching of the chapter is substantially the same as that of Con-
-fucius, Ana., XII, xxii. 2. jjgj., —
+The teaching of the chapter is substantially the same as that of Confucius, Ana., XII, xxii. 2. jjgj., —
 "coarse, unbleached, hempen cloth,"
 worn in mourning the period of three
 
@@ -49139,9 +46716,6 @@ what is insisted on in the previous
 paragraph; — the folly of attending
 to what is comparatively trivial,
 while overlooking what is important.
-
-
-THE WORKS OF MENCIUS
 
 
 BOOK VII
@@ -49249,17 +46823,12 @@ specified in it also "invasions" ({£);
 " extinguishes" (JjJ); "del-
 (jft); "takings" (Jft); "surprises"
 (g); "pursuits" (M); aiul "tjl
-fenses" (;£); all of which may likewise be comprehended under tin-
-term fg. 3. Explains the assertion
+fenses" (;£); all of which may likewise be comprehended under tinterm fg. 3. Explains the assertion
 in the first. In the wars rec«)r(l.(l
 by Confucius, one state or chief was
 said to Q£ another, which couM n"i
-be according to the meanin- "t" tinterm. By _h is intended the em-
-peror; by f the prince*. Conip. \'l.
+be according to the meanin- "t" tinterm. By _h is intended the emperor; by f the prince*. Conip. \'l.
 Pt. II, vii, 2.
-
-
-THE WORKS OF MENCIUS
 
 
 ffi
@@ -49373,9 +46942,6 @@ his opponent. (4»j used for ^. low.
 f/t ft (pun) — theso appear to have
 
 
-THE WORKS OF MENCIUS
-
-
 JiuL
 
 
@@ -49418,9 +46984,6 @@ SELF. Comp. Pt. I, iv, 41.
 J& see III, Pt. II, 3.
 
 
-THE WORKS OF MENCIUS
-
-
 JDL
 
 
@@ -49459,9 +47022,6 @@ reference, — ^f ^ ifij f|. It is a
 maxim of ( 'hint-so Hocinty, that "a
 man may not live umli-r fluheaven with the slayer of his father,
 nor in the same state with tho sluyr
-
-
-THE WORKS OF MENCIUS
 
 
 another's elder brother, that other will kill his elder
@@ -49513,9 +47073,6 @@ are to suppose ^ as the nominative,
 while the third is like a verb in the
 
 
-THE WORKS OF MENCIUS
-
-
 JIIL
 
 
@@ -49565,9 +47122,6 @@ wliii-li ivi|in,c .-in ftlurt.
 \\lndi ho mightdespise. l!\ Ix-unng tliis in iinnd
 when wo otiM-rvo him, wo can see
 what ho real I v rests in."
-
-
-THE WORKS OF MENCIUS
 
 
 ffii
@@ -49634,8 +47188,6 @@ and jj£ is the various business that
 jnk
 
 
-THE WORKS OF MENCIUS
-
 ffi] ;fe
 
 
@@ -49676,8 +47228,7 @@ forests (Ji| ifcfc), rivers and marshes
 
 (Jll j$), mounds (£ |&fc), places of
 tombs (Jj£ ff), and plains (/# jU).
-But it would be easy to make another division, just as we havi-
-eight, and other ways of speaking
+But it would be easy to make another division, just as we havieight, and other ways of speaking
 about the kinds of grain. The regular sacrifices to these tutelary spirits
 were three: one in spring to pray
 for a good harvest; one in an tin mi.
@@ -49701,9 +47252,6 @@ is yet' e-inivali-nt !i. "I In- people. '
 Mr'n-'iu-; uses ii . I '
 
 of the spirits of tho land and
-
-
-THE WORKS OF MENCIUS
 
 
 i^iti
@@ -49810,9 +47358,6 @@ after A-tii» tnere ^ollow °*'( "":
 that was the original re»ulin-. illfinal clause would V)e: "These, all
 united and named, are the path of
 reason."
-
-
-THE WORKS OF MENCIUS
 
 
 jib.
@@ -49941,9 +47486,6 @@ T'ae, though applied to V
 in the sense of flf, "report," "roputution."
 
 
-THE WORKS OF MENCIUS
-
-
 ffij tu
 
 $ ffi § Hg
@@ -49973,8 +47515,7 @@ of example; the latter is the application of pains and penalties.
 
 CH. 21. THAT THE CULTIVATION OF
 THE MIND MAY NOT BE INTERMITTED.
-£§ !nl) — "spaces for the foot,"=footpaths; lU ^ 2. Jj§ |?H,— the "foot-
-paths of the hill ways." ^ (read heu,
+£§ !nl) — "spaces for the foot,"=footpaths; lU ^ 2. Jj§ |?H,— the "footpaths of the hill ways." ^ (read heu,
 
 
 according to Choo He, though the
@@ -50091,9 +47632,6 @@ emphatically. £ jgf,— £=$. It
 did not belong to Fung Foo, now au
 
 
-THE WORKS OF MENCIUS
-
-
 -tlL
 
 
@@ -50193,9 +47731,6 @@ and that the individual was a man
 of Ts'e. This is all we know of him.
 
 
-THE WORKS OP MENCIUS
-
-
 Jno
 
 
@@ -50242,9 +47777,6 @@ tin- triiiislution. x. Jfc KIJ Y; pj *n )
 Me. MI, -f« jfc fy| |f, "tho individual
 possessed lit' tin' iiin)t 4-()mp]t't« sincerity is like a spirit." In the critical
 remarks in the PH X- £) ft, it i*
-
-
-THE WORKS OF MENCIUS
 
 
 Ajvpf -^*)
@@ -50298,9 +47830,6 @@ who had been Yangists and Mihists.
 This sense of $B, "to tie the legs." is
 found in the diet, with reference to
 this passage.
-
-
-THE WORKS OF MENCIUS
 
 
 Bfe itt
@@ -50361,9 +47890,6 @@ the terma are nd fco !••• l»k«
 . S.' i.l' i!if 'll: •-'•'• elu xn.
 
 
-THE WORKS OF MENCIUS
-
-
 fto ft
 
 
@@ -50411,9 +47937,6 @@ ILrst -|if{ is a verb, "was lod^od."
 The second makes a compound noun
 
 
-THE WORKS OF MENCIUS
-
-
 process of making had been placed there in a window,
 and when the keeper of the place came to look for it,
 he could not find it.
@@ -50449,9 +47972,6 @@ the speaker. CIioo He is probably
 em-reef. ,£ |f- is better tlmn ,,^ ft,
 |f. conveying t lie idea of "oxen
 suited to different capacities. _J£
-
-
-THE WORKS OF MENCIUS
 
 
 Tfff
@@ -50490,9 +48010,6 @@ much more power over himself than
 he really has. 2. §^ = ^ ^, "to
 make a hole through." 3$ = !$ Jjft,
 "to jump over a wall." The two
-
-
-THE WORKS OF MENCIUS
 
 
 -tHo IS H iffi
@@ -50551,9 +48068,6 @@ above tlint tni^ht bo cui
 = ", "words wlii(-li an- n.-ai .
 
 
-THE WORKS OP MENCIUS
-
-
 ffii
 rfif A T
 
@@ -50578,8 +48092,7 @@ what they lay upon themselves is light."
 
 on common subjects, simple, plain.
 So, Choo He; but the passage in the
-Le-ke is not so general as hia commentary. It gives the rule for look-
-ing at the emperor. A minister is
+Le-ke is not so general as hia commentary. It gives the rule for looking at the emperor. A minister is
 not to raise his eyes above the emperor's collar, nor lower them below
 the gridle." Chaou K'e teies to explain
 
@@ -50643,9 +48156,6 @@ proper course indicated by Heavenly
 principles."
 
 
-THE WORKS OF MENCIUS
-
-
 * -flu
 
 
@@ -50684,13 +48194,9 @@ are under the government of some
 words like ^5 ^C A ?£f» — "those great
 men have," to which f£ «$} ||, — "I
 would not do," respond. $g Jgj, —
-these may be seen in the more important temples and public build-
-ings throughout China, projecting all
+these may be seen in the more important temples and public buildings throughout China, projecting all
 round, beneath the eaves,
 see II, Pt. I, iv. 4. |B gg ffl
-
-
-THE WORKS OP MENCIUS
 
 
 -til,
@@ -50733,7 +48239,6 @@ Sft ~(il ?f» /j^ 2»» — "although there are"
 "\\liich are not preserved."
 
 
-THE WORKS OF MENCIUS
 PI ffij I
 
 
@@ -50929,9 +48434,6 @@ tive, making the whole par. down to enough for them. g|| |g, — -"the apiit % t
 follows. =fe $Jf pj ^, — "to be good is acting peculiarly. 11. fiU fS- is literenough," i. e., to be accounted good ally our "current customs," but ffi,
 
 
-THE WORKS OF MENCIUS
-
-
 g% 3S Jft a£
 
 'I-** *i»j) Lli^o jnc
@@ -50969,9 +48471,6 @@ thorn is not in tlio sago's H( \ If. /£ !'.
 = lxj (:onf()iiinli'«l with it. So in tinother phrases. t& V,— «» '
 
 
-THE WORKS OF MENCIUS
-
-
 rfn
 
 
@@ -50995,8 +48494,7 @@ more. As to Yu and Kaou-yaou, they saw those earliest
 
 XV, x. ^, — see Con. Ana., X, vi, 2.
 13. This par. explains the rest of the
-chap. The $5 or "unchanging standard," is the t|J ill, "the right medi-
-um," which the sage himself pursues,
+chap. The $5 or "unchanging standard," is the t|J ill, "the right medium," which the sage himself pursues,
 and to which ho seeks to recall others.
 CH. 38. ON THE TRANSMISSION OF
 THE LINE OF DOCTRINE FROM YAOU
@@ -51066,9 +48564,6 @@ CDllc-llllllllL '.ilflfully M-\ i-niiiiiM-ii'.sioi . In tho
 ,;| ) .iro fnillid (i\ '• uiti-r-
 
 {. ivt.it ions of tlicm. Hut all I
-
-
-THE WORKS OF MENCIUS
 
 
 iTri

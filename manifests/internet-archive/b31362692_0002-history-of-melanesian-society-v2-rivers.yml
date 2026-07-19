@@ -1,0 +1,69 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_b31362692_0002
+  work_id: melanesian.history_of_melanesian_society.rivers_vol2_archive
+  title: The History of Melanesian Society, Volume 2
+  source_url: https://archive.org/details/b31362692_0002
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/internet-archive/b31362692_0002-history-of-melanesian-society-v2-rivers.txt
+    checksum:
+      algorithm: sha256
+      value: 6d7e844d968b324a7a26f457a0141e32a6a5c0e85f3e70d21faff0b4b7b8da4d
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/internet-archive/b31362692_0002-history-of-melanesian-society-v2-rivers.md
+    checksum:
+      algorithm: sha256
+      value: 37f96411be455333825a5d975d471488294eaf63b2a1dfdf69a71813a2d51215
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/melanesian/internet-archive/history-of-melanesian-society-v2-rivers.md
+    checksum:
+      algorithm: sha256
+      value: 1c7ce8f7faee21c57a3ad0324619405c3873936d55918fb28a667d0247475c37
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids melanesian.history_of_melanesian_society.rivers_vol2_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1914 (pre-1930), US public domain. Volume 2 is Rivers's comparative/theoretical
+      analysis of Melanesian institutions, incl. religion, the cult of the dead, and
+      totemism; author-analysis prose. OCR of a scan; expect OCR noise.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

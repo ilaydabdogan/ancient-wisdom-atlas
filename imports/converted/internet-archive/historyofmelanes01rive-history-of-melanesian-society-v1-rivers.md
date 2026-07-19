@@ -1,608 +1,3 @@
-# The History of Melanesian Society, Volume 1
-
-.CD
-
-=  LO
-I  CD
-
-ico
-
-
-,   ■•  ;-o  ■■■'■>- 1 '  -'»iji  ■■.■, .
-
-
-;.,.-'.iJ-y';^;,';^:-:;
-
-
-;h!:^::{1':;-
-
-
-Digitized  by  the  Internet  Archive
-
-in  2010  with  funding  from
-
-University  of  Toronto
-
-
-http://www.archive.org/details/historyofmelanes01rive
-
-
-''>3
-
-
-THE    HISTORY    OF
-MELANESIAN    SOCIETY
-
-
-IN    TWO   VOLUMES
-Volume    I
-
-
-CAMBRIDGE    UNIVERSITY    PRESS
-
-C.  F.  CLAY,  Manager
-
-ILonticn:    FETTER    LANE,  E.G.
-
-(Etiinburglj :    ^oo   PRINCES   STREET
-
-
-i  *  t:
-
-
-I  ill
-
-
-11.onton:    H.  K.  LEWIS,  136  GOWER  STREET,  W.C.
-
-^tto   Igrrh:    G.  P.  PUTNAM'S  SONS
-
-ISombafi  anti  craktittB:    MACMILLAN  AND  CO.,   Ltd.
-
-Toronto :  J.  M.  DENT  AND  SONS,  Ltd.
-
-STDfego :  THE  MARUZEN-KABUSHIKI-KAISHA
-
-
-////  rie/ifs  resenni
-
-
-Percy  Sladen  Trust  Expedition  to  Melanesia
-
-THE    HISTORY    OF
-MELANESIAN    SOCIETY
-
-
-<{<^  BY
-
-W.    H."  R.    RIVERS,    F.R.S.
-
-FELLOW    OF    ST    JOHN's    COLLFGE,    CAMBRIDGE
-
-
-IN   TWO   VOLUMES
-Volume    I
-
-
-Cambridge  :
-
-at  the  University   Press
-1914
-
-
-Rss-
-
-
-585444
-
-
-Cambridge :
-
-PRINTED   BY  JOHN   CLAY,    M.A.
-AT  THE    UNIVERSITY   PRESS
-
-
-TO   THE   SOCIETY
-
-OF
-
-ST   JOHN'S   COLLEGE
-
-CAMBRIDGE
-
-TO   WHOSE   FELLOWSHIP
-
-THIS   BOOK   IS   LARGELY    DUE
-
-
-«3
-
-
-PREFACE
-
-AN  earlier  book  of  mine,  The  Todas,  was  intended  to  be
-jr\.  a  sample  of  scientific  method  as  applied  to  the  collec-
-tion and  recording  of  ethnographical  facts.  The  present
-book  is  a  demonstration  of  ethnological,  rather  than  of  ethno-
-graphical, method.
-
-When  The  Todas  was  written,  I  had  fully  realised  the
-insufficiency  of  current  methods  of  collecting  the  facts  of
-ethnography,  but  I  was  then  under  the  sway  of  the  crude
-evolutionary  doctrine  of  the  time,  and  did  not  see  that  the
-need  for  sound  method  was  equally  great  in  the  theoretical
-treatment  of  these  facts.  It  was  only  in  the  act  of  writing
-this  book  that  I  came  gradually  to  realise  the  unsatisfactory
-character  of  current  ethnological  methods.  From  that  time,
-method  again  became  my  chief  interest,  and  it  is  primarily  as
-a  study  in  method  that  this  book  is  put  forward.
-
-The  methods  I  have  used  have  led  to  the  formulation  of
-a  scheme  of  Melanesian  history  so  complicated  that  it  may
-seem  at  first  sight  to  go  far  beyond  the  conclusions  warranted
-by  the  facts  now  at  our  disposal.  I  may  say  at  once  that  I
-do  not  anticipate  that  this  scheme  will  be  fully  confirmed  by
-future  research  ;  it  may  even  have  to  suffer  radical  change  as
-new  facts  come  to  our  knowledge,  but  it  is  my  hope  that  such
-modification,  or  even  destruction  if  it  come,  will  be  due,  not
-to  faults  of  method,  but  to  the  insufficiency  of  the  facts  to
-which  these  methods  have  been  applied.  Our  present  store
-of  the  facts  of  Melanesian  culture  is  so  insignificant  beside
-that   which    still    remains    to    be    garnered    that   we    cannot
-
-
-Preface  vii
-
-expect  this  book  to  give  more  than  a  shadowy  picture  of
-the  real  course  of  Melanesian  history.  The  scheme  which
-I  put  forward  will,  however,  receive  its  full  justification  if
-it  arouses  such  interest  in  Melanesia  as  will  lead  to  some
-organised  attempt  to  rescue  its  culture  from  oblivion.  Such
-an  attempt  must  be  made  within  the  next  few  years  if  it  is  to
-be  of  any  avail.  During  the  last  year  a  vast  volcanic  cata-
-strophe has  swept  away  a  large  proportion  of  the  population,
-and  altered  the  configuration,  of  one  of  the  most  interesting
-islands  of  Melanesia,  but  this  destruction  is  trivial  in  extent
-and  importance  beside  that  which  is  being  brought  upon  the
-same  region  every  year  by  the  devastating  effects  of  our
-'civilisation.'
-
-It  is  a  pleasant  relief  to  turn  from  these  depressing  facts
-to  thank  those  who  have  helped  me  in  my  work  both  at  home
-and  abroad.  This  book  forms  the  first  instalment  of  the
-work  of  the  Percy  Sladen  Trust  Expedition  to  Melanesia,
-and  I  am  glad  to  acknowledge  here  the  generous  assistance
-of  the  Trustees  and  to  thank  them  for  the  patience  with
-which  they  have  awaited  the  publication  of  the  work.  It  is
-also  pleasant  to  mention  here  the  unfailing  interest  in  my
-work  and  the  support  I  have  had  from  Dr  A.  C.  H addon,
-not  only  while  this  book  has  been  in  progress,  but  ever  since
-he  first  introduced  me  to  the  study  of  ethnology.
-
-I  am  gready  indebted  to  Dr  A.  S.  Lea,  Mr  S.  H.  Ray
-and  Mr  W.  J.  Perry  for  their  help  in  reading  the  proofs  of
-the  book  and  for  many  valuable  suggestions,  and  I  owe  much
-to  Mr  Perry  for  help  in  other  ways.
-
-To  Mr  A.  M.  Hocart  I  owe  many  thanks  for  allowing
-me  to  use  some  of  the  results  of  our  joint  work  in  the  Western
-Solomons,  as  well  as  for  several  corrections  in  my  chapter  on
-Fiji.  Mr  G.  C.  Wheeler  also  helped  me  greatly  by  allowing
-me  to  see  his  papers  on  the  Shortland  Islands  before  their
-publication.
-
-For  many  of  the  illustrations  I  am  indebted  to  the
-Rev.  W.  J.  Durrad  and  Mr  J.  C.  Palmer  of  the  Melanesian
-
-
-viii  Preface
-
-Mission,  while  others  have  been  taken  by  his  kind  permission
-from  the  valuable  collection  of  Melanesian  photographs  by
-Mr  J.  W.   Beattie  of  Hobart,   Tasmania.
-
-By  the  kind  permission  of  the  Royal  Geographical  Society
-I  am  able  to  reproduce  (with  some  alteration)  the  map  at  the
-end  of  the  first  volume  which  had  appeared  in  the  Geographical
-Journal.
-
-I  am  glad  of  this  opportunity  of  expressing  my  thanks  for
-help  and  hospitality  to  Sir  Everard  im  Thurn  and  Mr  A.  B.
-Joske  in  Fiji,  to  Mr  C.  M.  Woodford  in  the  Solomons,  and
-to  the  Bishop  and  staff  of  the  Melanesian  Mission  upon
-whose  vessel,  the  Southern  Cross  I  obtained  much  of  my
-material.
-
-I  have  expressed  my  indebtedness  in  the  text  to  many
-individual  members  of  the  Melanesian  Mission  as  well  as
-to  others,  but  I  owe  so  much  to  one  that  I  cannot  pass
-over  his  name  in  silence.  No  one  who  studies  the  part
-taken  in  my  theoretical  scheme  by  the  facts  collected  from
-the  Banks  Islands  and  Tikopia  can  fail  to  recognise  how
-this  scheme  would  have  suffered  if  this  part  of  my  work
-had  not  been  done,  or  had  been  done  less  fully.  Not  only
-would  the  collection  of  this  material  have  been  impossible
-without  the  help  of  the  Rev.  W.  J.  Durrad,  but  large
-sections  of  the  evidence  consist  of  information,  collected
-by  Mr  Durrad  after  I  had  left  the  islands,  which  he  allows
-me  to  record  side  by  side  with  that  we  obtained  when
-working  together  on  the  Southern  Cross.
-
-Lastly,  I  must  recall  with  gratitude  the  aid  of  two  men,
-one  Melanesian  and  the  other  Polynesian,  who  have  died
-since  my  visit  to  their  islands.  Nearly  the  whole  of  my
-account  of  the  Banks  Islands  and  Tikopia  was  obtained  from
-John  Pantutun  and  John  Maresere.  These  two  men  were
-not  merely  passive  witnesses,  but  they  entered  heartily  into
-the  work  of  trying  to  make  me  understand  the  customs  and
-beliefs  with  which  they  were  familiar.  They  showed  such
-interest  and  intelligence  in  the  task   that  it  was  clear  how
-
-
-Preface  ix
-
-great  might  be  our  hopes  for  the  future  of  Melanesia  and
-Polynesia  if  their  peoples  were  given  a  fair  chance.  These
-two  men  were  doubtless  above  the  average  of  their  fellows,
-but  their  capacity  shows  how  much  might  be  done  by  the
-encouragement  of  independent  industry  and  the  preservation
-of  such  features  of  native  culture  as  do  not  conflict  with  the
-better  aspects  of  our  civilisation.
-
-W.   H.   R.   RIVERS.
-
-
-St  John's  College,  Cambridge,
-Ju7te  9,  19 1 4.
-
-
-CONTENTS
-
-
-CHAP.
-
-I.
-
-Introduction    .
-
-II.
-
-Banks  Islands
-
-III.
-
-Banks  Islands
-
-IV.
-
-Banks  Islands
-
-V.
-
-Banks  Islands
-
-VI.
-
-Banks  Islands
-
-VII.
-
-The  Torres  Islands
-
-VIII.
-
-The  New  Hebrides
-
-IX.
-
-The  Santa  Cruz  Islands
-
-X.
-
-The  Solomon  Islands
-
-XL
-
-Fiji          ....
-
-XII.
-
-Tikopia  ....
-
-XIII.
-
-Tonga,  Samoa  and  Niue
-
-XIV.
-
-The  Hawaian  Islands     .
-
-Comparative  Tables  of  Term
-
-s  of  Relationship
-
-
-PAGE
-
-I
-20
-61
-
-87
-130
-144
-176
-189
-217
-232
-262.
-298
-363
-374
-389
-
-
-LIST    OF    ILLUSTRATIONS
-
-
-Fig.   I.  Plan  of  Land
-
-2.  The  iheretang
-
-3.  Plan  of  Vatrata     .
-
-4.  Kava-cup  from  Mota
-
-5.  Shapes  of  hats
-
-6.  Shell-money  of  Banks  Islands
-
-7.  Kava-cups  from  Torres  Islands
-
-8.  Shell  to  scrape  kava
-
-
-PAGE
-
-56
-
-65
-69
-
-83
-
-91
-
-166
-
-186
-
-187
-
-
-LIST   OF    PLATES
-
-
-I.
-II.
-III.
-
-IV.
-
-V.
-
-VI.
-
-VII.
-
-VIII.
-
-IX.
-
-X.
-
-XL
-XII.
-
-XIII.
-
-XIV.
-
-
-The  island  of  Mota.     (J.  W.  Beattie)
-
-Gamal  at  Ra  in  Saddle  Island.     (J.  W.   Beattie)
-
-Fig.   I.     Front  of  Gamal  in  Santa  Maria.     (J.  C.   Palmer)
-
-Fig.  2.     Charles  Wunau.     (W.  J.   Durrad)  .
-
-Dance  at  Vatrata.     (W.  J.   Durrad)      ....
-
-Pudding-Knives     ........
-
-
-To  face  page
-22
-
-
-Malo-saru  from  Ureparapara
-Drawings  of  Tamate  liwoa  and  viov.
-The  wis  mask  of  Tamate  liwoa
-Tamate  belts         ....
-
-
-(J.  W.  Beattie)
-
-
-Fig-
-Fig.
-Fig.
-Fig.
-Fig-
-Fig.
-
-
-Village  on  Temotu.     (J.  W.  Beattie)
-Round  house  at  Temotu.     (J.  W.  Beattie)    .
-Fale  atua  of  Reef  Islands.               „                 .    .
-Interior  oi  fale  atua.                         ,,
-Tikopian  man.     (W.  J.  Durrad)
-Tikopian   men,  showing  methods  of  wearing  hair,
-(W.  J.  Durrad)
-
-
-63
-
-63
-
-63
-
-74
-
-82
-
-82
-
-82
-
-82
-
-89
-
-92
-
-132
-
-223
-
-223
-
-230
-
-230
-
-302
-
-302
-
-
-Xll
-
-
-List  of  Plates
-
-
-XV.  Fig.   I.  A  village  in  Tikopia.     (W.  J.  Durrad)
-Fig.   2.  A  Tikopian  hut.                          »
-
-XVI.  Fig.   I.  Method  of  carrying.                    „
-Fig.   2.  Group  of  children.                      ,.
-
-XVII.  Fig.   I.  Tikopian  canoe.                           v
-Fig.   2.  Method  of  paddling  canoe.       „
-
-XVIII.  Fig.    I.  Canoe  and  canoe-shed.              „
-Fig.   2.  Group  of  canoe-sheds.               „
-
-XIX.  Clubs  from  Tikopia  and  Tonga  .
-
-XX.  Fig.   I.  Filling  water-vessels.     (W.  J.   Durrad)
-Fig.   2.  Mother  and  children.
-
-XXI.  Fig.   I.  Making  coconut-cream.
-Fig.   2.  Tikopian  women.
-
-XXII.  View  in  Tikopia.
-
-XXIII.  Fig.   I.
-Fig.  2.
-
-XXIV.  Fig.   I.
-Fig.   2.
-
-XXV.       Fig.   I.
-Fig.  2.
-
-
-Sacred  house  of  Fangarere.
-
-Shooting  fish.
-
-Making  bark-cloth.
-
-Digging  taro-garden.
-
-Women  wearing  loin-cloths  and  fillets.  ( VV
-
-Boys  showing  method  of  cutting  hair.
-
-
-To  face  page
-302
-302
-324
-324
-326
-326
-326
-326
-330
-333
-333
-333
-333
-334
-339
-339
-348
-348
-348
-348
-
-
-J.  Durrad)
-
-
-LIST    OF    MAPS
-
-Banks  and  Torres  Islands  and  New  Hebrides  .
-
-Santa  Cruz  Islands  and  Tikopia
-
-Solomon  Islands
-
-Viti  Levu   .....
-
-Tikopia
-
-Melanesia
-
-
-PAGE
-
-21
-
-218
-
-233
-263
-
-335
-at  end  of  first  volume
-
-
-Abbreviations.
-
-M.  Codrington's  Melanesians.
-
-M.  L.     Codrington's  Melanesia >i  Languages.
-
-
-Phonetic  System.
-See  vol.  I,  p.   18.
-
-
 CHAPTER   I
 
 INTRODUCTION
@@ -618,8 +13,7 @@ low  forms  of  culture  which  makes  these  two  kinds  of  work
 essentially  different.  In  civilised  culture  we  are  accustomed
 to  distinguish  certain  definite  departments  of  social  life  which
 can  to  a  large  extent  be  kept  apart,  but  among  those  people
-we  usually  speak  of  as  primitive,  these  departments  are  inex-
-tricably interwoven  and  interdependent  so  that  it  is  hopeless
+we  usually  speak  of  as  primitive,  these  departments  are  inextricably interwoven  and  interdependent  so  that  it  is  hopeless
 to  expect  to  obtain  a  complete  account  of  any  one  department
 without  covering  the  whole  field.  In  consequence,  however
 deeply  one  may  attempt  to  go  in  survey- work,  the  information
@@ -632,17 +26,13 @@ impossible.
 The  work  of  the  Percy  Sladen  Trust  Expedition  to  the
 Solomon  Islands  falls  into  two  distinct  parts;  intensive  work
 done  by  Mr  A.  M.  Hocart  and  myself  in  the  Western  Solomon
-Islands  and  by  Mr  G.  C.  Wheeler  in  the  islands  of  Bougain-
-ville Straits,  to  be  recorded  in  other  volumes ;  and  survey- work,
+Islands  and  by  Mr  G.  C.  Wheeler  in  the  islands  of  Bougainville Straits,  to  be  recorded  in  other  volumes ;  and  survey- work,
 done  by  myself  during  the  journey  to  and  from  the  Solomon
 Islands,  which  is  the  subject  of  the  present  book.  I  have  begun
-by  mentioning  the  difference  between  intensive  and  survey-
-work  because  I  wish  at  the  outset  to  indicate  most  emphatically
+by  mentioning  the  difference  between  intensive  and  surveywork  because  I  wish  at  the  outset  to  indicate  most  emphatically
 
 R.  M.  S,  I
 
-
-2  Melanesian  Society
 
 that  the  work  to  be  recorded  in  this  book  belongs  to  the  second
 kind.  It  labours  not  only  under  the  general  disadvantages  of
@@ -671,8 +61,7 @@ Islands  to  the  Solomons,  the  same  groups  being  revisited
 six  months  later  in  the  reverse  order  on  the  way  back.  Brief
 visits  were  also  paid  to  Tikopia  and  Bellona.  In  the  Eastern
 Solomon  Islands  only  survey-work  was  done  which  will  be
-recorded  in  this  volume  and  I  have  also  added  a  short  pre-
-liminary account  of  certain  results  of  the  intensive  work  of
+recorded  in  this  volume  and  I  have  also  added  a  short  preliminary account  of  certain  results  of  the  intensive  work  of
 Mr  Hocart  and  myself  in  the  Western  British  Solomons
 which  bear  most  closely  on  the  chief  topics  of  the  book.
 
@@ -680,8 +69,7 @@ The  information  obtained  in  the  various  islands  visited
 by  the  Southern  Cross  was  supplemented  by  work  with
 natives  who  were  travelling  from  one  island  to  another  and
 such  information  forms  a  large  proportion  of  the  evidence  to  be
-recorded  in  this  volume.  It  follows  that  most  of  my  informa-
-tion was  obtained  from  natives  professing  Christianity,  much
+recorded  in  this  volume.  It  follows  that  most  of  my  information was  obtained  from  natives  professing  Christianity,  much
 of  it  indeed  from  native  teachers  of  the  Melanesian  Mission.
 I  am  perfectly  confident,  however,  that  their  new  religion  has
 had  little  or  no  influence  on  most  of  the  facts  I  have  recorded.
@@ -732,20 +120,15 @@ their  investigation  far  more  fruitful  than  my  utmost  hopes
 had  led  me  to  anticipate.  I  mention  this  here  because  there
 is  an  undoubted  danger  in  thus  going  into  the  field  with
 a  dominant  belief.  To  those  who  fear  this  possibility  I  should
-like  to  point  out  two  things.  One  is  that  systems  of  relation-
-ship are  bodies  of  dry  fact  the  accuracy  of  which,  especially
+like  to  point  out  two  things.  One  is  that  systems  of  relationship are  bodies  of  dry  fact  the  accuracy  of  which,  especially
 when  collected  by  the  genealogical  method  \  is  about  as
 *  See  Sociological  Review.,  1910,  iii,  i.
 
 
-4  Melanesian  Society
-
-incapable  of  being  influenced  by  bias,  conscious  or  un-
-conscious, as  any  subject  that  can  be  imagined.  The  other
+incapable  of  being  influenced  by  bias,  conscious  or  unconscious, as  any  subject  that  can  be  imagined.  The  other
 fact  is  that  nearly  all  the  conclusions  which  have  been  reached
 have  been  the  result  of  a  comparative  study  undertaken  only
-after  my  return  to  England,  and  of  many  of  my  most  im-
-portant conclusions,  conclusions  upon  which  the  whole  of  my
+after  my  return  to  England,  and  of  many  of  my  most  important conclusions,  conclusions  upon  which  the  whole  of  my
 theoretical  construction  rests,  I  had  not  the  faintest  idea  till
 more  than  a  year  after  my  return,  so  that  any  bias  from  this
 source  in  the  collection  of  the  data  can  be  absolutely  excluded.
@@ -766,8 +149,7 @@ questions  or  requests  for  further  information  were  translated
 into  Mota.  A  large  proportion  of  the  information  from  the
 Banks  Islands  was  obtained  from  only  one  man,  John  Pantutun,
 but  his  acute  intelligence  and  his  readiness  to  acknowledge
-when  he  was  ignorant  gave  us  great  confidence  in  his  trust-
-worthiness. In  Pentecost  Island  the  information  was  obtained
+when  he  was  ignorant  gave  us  great  confidence  in  his  trustworthiness. In  Pentecost  Island  the  information  was  obtained
 both  in  the  Mota  language  and  in  that  of  the  northern  part  of
 the  island,  Miss  E.  Wilson  kindly  acting  as  interpreter  in  the
 latter  case.  The  only  native  witness  who  was  available  for
@@ -812,8 +194,7 @@ Nearly  all  the  systems  of  relationship  and  certain  other
 data,  such  as  those  concerning  property  in  the  Banks  Islands,
 were  obtained  by  the  genealogical  method,  though  I  have
 only  recorded  the  pedigrees  upon  which  my  account  is  based
-in  a  few  cases,  chiefly  in  order  to  illustrate  especially  com-
-plex relationships.  Without  this  method,  it  would  have  been
+in  a  few  cases,  chiefly  in  order  to  illustrate  especially  complex relationships.  Without  this  method,  it  would  have  been
 quite  impossible  to  have  collected  the  material,  not  merely  on
 account  of  the  short  time  at  my  disposal  but  also  because  of
 the  many  difficulties,  linguistic  and  otherwise,  which  are
@@ -825,8 +206,7 @@ As  I  have  already  said,  my  chief  object  in  making  the
 survey  was  to  obtain  systems  of  relationship  together  with
 such  other  facts  concerning  marriage,  descent  and  other  social
 institutions  as  would  assist  the  interpretation  of  the  systems.
-While  on  my  journey,  however,  I  did  not  neglect  any  oppor-
-tunities of  acquiring  knowledge  on  other  topics  that  came  in
+While  on  my  journey,  however,  I  did  not  neglect  any  opportunities of  acquiring  knowledge  on  other  topics  that  came  in
 my  way  and  two  such  subjects  seemed  to  me  so  important
 that  I  devoted  much  time  to  their  study,  even  in  some  cases
 at  the  expense  of  my  primary  object.
@@ -836,8 +216,6 @@ on  the  Southern  Cross  of  John  Maresere,  a  native  of  Wallis
 
 *  The  Todas^  London,  1906.
 
-
-6  Melanesian  Society
 
 Island,  who  had  lived  for  twenty  years  on  Tikopia.  A  few
 inquiries  showed  that  his  knowledge  of  the  customs  of  this
@@ -875,8 +253,7 @@ designations  of  the  system  carry  with  them  all  kinds  of
 duties,  privileges  and  restrictions  and  are  evidently  of  the
 utmost  social  importance  and  significance.  Nevertheless,  the
 former  depreciation  of  the  importance  of  these  systems  is  still
-having  its  consequences,  shown  by  the  fact  that  anthropo-
-logists of  repute  still  give  the  most  elaborate  accounts  of
+having  its  consequences,  shown  by  the  fact  that  anthropologists of  repute  still  give  the  most  elaborate  accounts  of
 social  institutions  without  recording  or  even  mentioning  the
 system  of  relationship  and  among  those  of  less  repute  this
 neglect  is  almost  universal.
@@ -935,29 +312,24 @@ by  a  common  tie.  In  general,  this  tie  is  either  a  behef  in  common  
 some  ancestor,  real  or  mythical,  or  the  common  possession  of  a  totem.
 
 
-8  Melanesian  Society
-
 organisation  which  has  produced  it  has  passed  away.  In
 such  cases,  however,  the  terms  are  usually  limited  to  those
 with  whom  some  genealogical  connection  can  be  traced  or
 with  whom  the  tradition  of  such  a  connection  persists.
 
 The  first  and  essential  character  of  the  classificatory
-system  is,  then,  this  grouping  together  under  one  denomina-
-tion of  a  large  body  of  relatives  whom  we  distinguish  ;  but
+system  is,  then,  this  grouping  together  under  one  denomination of  a  large  body  of  relatives  whom  we  distinguish  ;  but
 this  is  far  from  exhausting  its  characteristic  features.  The
 classificatory  system  usually  distinguishes  certain  relatives
 whom  we  group  together ;  thus,  there  is  in  general  a  definite
 distinction  between  the  brother  of  the  father  and  the  brother
 of  the  mother  to  both  of  whom  we  apply  the  same  term  and
-usually,  though  less  frequently,  there  is  a  corresponding  dis-
-tinction between  the  sister  of  the  father  and  the  sister  of  the
+usually,  though  less  frequently,  there  is  a  corresponding  distinction between  the  sister  of  the  father  and  the  sister  of  the
 mother,  both  of  whom  we  call  "aunt."
 
 The  distinctions  between  the  father's  brother  and  the
 mother's  brother,  between  the  father's  sister  and  the  mother's
-sister  and  between  the  children  of  these  relatives  are  them-
-selves the  natural  consequences  of  the  origin  of  the  system
+sister  and  between  the  children  of  these  relatives  are  themselves the  natural  consequences  of  the  origin  of  the  system
 in  a  clan-organisation,  for  owing  to  the  practice  of  exogamy,
 the  brothers  of  the  father  must  always  belong  to  a  clan
 different  from  that  of  the  brothers  of  the  mother  and  so
@@ -976,8 +348,7 @@ of,  one  another.  Thus,  we  shall  see  that  in  Melanesia  it
 frequently  happens  that  a  man  will  address  or  speak  of  his
 grandson  by  the  same  term  which  the  latter  uses  when  he
 addresses  or  speaks  of  his  grandfather.  We  may  say  that
-there  is  only  one,  and  that  a  reciprocal  term  for  both  grand-
-father and  grandson  instead  of  the  two  terms  which  we
+there  is  only  one,  and  that  a  reciprocal  term  for  both  grandfather and  grandson  instead  of  the  two  terms  which  we
 employ.
 
 This  very  frequent  feature  of  classificatory  systems  may
@@ -988,13 +359,11 @@ the  terms  of  these  systems  denote  relationships  rather  than
 The  Classificatory  System  g
 
 relatives.  Thus,  in  the  example  just  given,  we  may  say
-that  there  is  one  term  for  the  grandparent-grandchild  re-
-lationship in  the  place  of  our  two  terms,  grandparent  and
+that  there  is  one  term  for  the  grandparent-grandchild  relationship in  the  place  of  our  two  terms,  grandparent  and
 grandchild.
 
 Another  widespread  feature  of  the  classificatory  system,
-which  is  probably  to  be  brought  into  relation  with  the  prin-
-ciple of  reciprocity,  is  a  very  characteristic  and,  to  us,  most
+which  is  probably  to  be  brought  into  relation  with  the  principle of  reciprocity,  is  a  very  characteristic  and,  to  us,  most
 peculiar  manner  of  using  the  terms  for  brother  and  sister.
 In  many  systems,  including  most  of  those  to  be  recorded
 in  this  volume,  two  brothers  have  a  term  or  terms  which
@@ -1033,8 +402,6 @@ a  younger  brother  apply  different  terms  to  one  another  and
 use  these  also  in  speaking  of  one  another,  and  the  same  or
 
 
-10  Melanesian  Society
-
 corresponding  terms  are  often  used  by  two  sisters.  Such
 distinction  accordinof  to  asfe  is,  on  the  other  hand,  rare,  if
 not  unknown,  in  the  case  of  the  brother-sister  relationship.
@@ -1055,8 +422,7 @@ the  brothers  of  the  father,  usually  by  means  of  words  meaning
 "great"  and  "little"  respectively,  and  this  may  be  carried  so
 far  that  the  actual  father,  if  a  cadet  of  his  family,  will  be  only
 a  "little  father"  while  his  elder  brother,  the  uncle  of  the
-speaker,  will  be  "great  father,"  and  this  superiority  of  de-
-signation may  even  carry  with  it  a  higher  degree  of  respect
+speaker,  will  be  "great  father,"  and  this  superiority  of  designation may  even  carry  with  it  a  higher  degree  of  respect
 and  honour ;  the  "  great  father "  or  uncle  will  be  honoured
 more  than  the  real  father.
 
@@ -1083,14 +449,12 @@ chief  end,  viz.,  the  demonstration  of  the  vast  importance  of
 
 Terminology  1 1
 
-these  systems  and  the  urgent  need  for  their  systematic  collec-
-tion throughout  the  world.  We  must  wait  till  the  subject
+these  systems  and  the  urgent  need  for  their  systematic  collection throughout  the  world.  We  must  wait  till  the  subject
 has  become  far  more  familiar  than  it  is  at  present,  even  to
 professed  anthropologists,  before  such  symbolic  representation
 will  become  advisable.
 
-It  is  clear  that,  in  a  book  such  as  this  which  deals  exclu-
-sively with  classificatory  systems  of  various  kinds,  our  familiar
+It  is  clear  that,  in  a  book  such  as  this  which  deals  exclusively with  classificatory  systems  of  various  kinds,  our  familiar
 English  terms  will  have  to  be  used  in  an  unfamiliar  way  and
 it  therefore  becomes  necessary  to  define  as  closely  as  possible
 the  sense  in  which  they  will  be  used.  It  will  hardly  be
@@ -1128,8 +492,6 @@ settled,  English  terms  of  relationship  are  to  be  used  in  this
 book,  it  might  seem  necessary  for  purposes  of  accuracy  to
 use   only  the   first   group   of  terms  which   have   clear   and
 
-
-12  Melanesian  Society
 
 unambiguous  meanings,  and  in  referring  to  grandparents  or
 cousins  to  speak  always  of  the  father's  father  or  mother's  father;
@@ -1196,28 +558,24 @@ social  groups.  It  will  often  be  convenient  to  have  a  term
 by  means  of  which  cousins,  the  children  of  brother  and  sister,
 may  be  distinguished  from  cousins,  the  children  of  two
 brothers  or  of  two  sisters,  and  I  propose  to  call  the  former
-"cross-cousins,"  adopting  this  from  the  expression  "cross-
-cousin  marriage "  introduced  by  Professor  Tylor.  This  re-
+"cross-cousins,"  adopting  this  from  the  expression  "crosscousin  marriage "  introduced  by  Professor  Tylor.  This  re-
 lationship is  so  important  and  often  so  fundamental  and  will
 have  to  be  so  often  considered  in  Melanesia  that  it  will  be
 convenient  to  have  some  simple  term  to  denote  it.
 
-Parents-in-law.  There  are  four  possible  kinds  of  parent-
-in-law  ;  the  wife's  father  and  mother  and  the  husband's  father
+Parents-in-law.  There  are  four  possible  kinds  of  parentin-law  ;  the  wife's  father  and  mother  and  the  husband's  father
 and  mother,  and  in  some  forms  of  the  classificatory  system
 each  is  denoted  by  a  separate  term.  Whenever  I  use  the
 term  "  parent-in-law "  all  four  kinds  will  be  understood  to
 be  included  and  when  the  father-  or  mother-in-law  is
-mentioned,  it  will  be  understood  that  both  wife's  and  hus-
-band's father  in  the  one  case  and  wife's  and  husband's  mother
+mentioned,  it  will  be  understood  that  both  wife's  and  husband's father  in  the  one  case  and  wife's  and  husband's  mother
 in  the  other  case  are  included,  except  when  the  context  makes
 it  clear  that  only  one  of  these  relatives  is  intended.
 
 Brother-  and  sister-in-law.  I  do  not  know  whether  it  is
 generally  recognised  that  these  terms,  even  when  used  in
 their  more  limited  sense,  denote  no  less  than  eight  different
-relatives  who  are  not  only  often  distinguished  in  the  classifi-
-catory system  but  also  differ  in  very  important  social  functions.
+relatives  who  are  not  only  often  distinguished  in  the  classificatory system  but  also  differ  in  very  important  social  functions.
 In  addition  to  the  more  strict  usage,  the  terms  in  question
 are  also  often  used  in  English  for  other  relationships  such  as
 that  set  up  between  men  who  have  married  sisters  or  women
@@ -1227,12 +585,9 @@ by  quite  distinct  terms  in  classificatory  systems.
 It  may  assist  in  the  understanding  of  the  subject  if  I  point
 
 
-14  Melanesian  Society
-
 out  that  the  eight  relatives  called  brother-  or  sister-in-law  in
 the  more  strict  English  sense  may  be  grouped  together  in
-four  relationships ;  one  existing  between  men,  a  second  be-
-tween women,  and  the  other  two  between  men  and  women.
+four  relationships ;  one  existing  between  men,  a  second  between women,  and  the  other  two  between  men  and  women.
 The  first  relationship  is  that  between  a  man  and  his  wife's
 brother,  or  reciprocally  between  a  man  and  his  sister's  husband.
 The  second  relationship  is  that  between  a  woman  and  her
@@ -1240,8 +595,7 @@ husband's  sister,  or  reciprocally  between  a  woman  and  her
 brother's  wife.  The  third  relationship  is  between  a  man  and
 his  wife's  sister,  which  is  reciprocally  that  between  a  woman
 and  her  sister's  husband.  The  fourth  and  last  relationship
-is  that  between  a  man  and  his  brother's  wife,  which  is  recipro-
-cally that  between  a  woman  and  her  husband's  brother.  It
+is  that  between  a  man  and  his  brother's  wife,  which  is  reciprocally that  between  a  woman  and  her  husband's  brother.  It
 may  be  mentioned  here  that  in  many  classificatory  systems
 these  relationships  are  denoted  in  a  manner  closely  analogous
 to  that  used  for  brothers  and  sisters,  i.e.  there  is  a  term  to
@@ -1271,8 +625,7 @@ or  (w.  s.),  (man  speaking)  and  (woman  speaking)  respectively.
 In  Melanesia  terms  of  relationship  are  generally  used
 together  with  a  possessive  pronoun,  often  in  the  form  of  an
 inseparable  suffix.  Further,  in  some  cases  the  form  of  the
-possessive  is  different  in  different  relationships  and  it  is  pro-
-bable that  these  differences  are  of  considerable  significance.
+possessive  is  different  in  different  relationships  and  it  is  probable that  these  differences  are  of  considerable  significance.
 
 
 Definitions  1 5
@@ -1327,13 +680,9 @@ by  a  committee  consisting  of  Miss  Burne,  Miss  Freire-Marreco,  Mr  Maret
 myself.
 
 
-1 6  Melanesian  Society
-
-I  shall  mean  that  the  rank  of  chief  or  other  special  posi-
-tion in  society  is  transmitted  to  a  man  from  his  father.
+I  shall  mean  that  the  rank  of  chief  or  other  special  position in  society  is  transmitted  to  a  man  from  his  father.
 "Inheritance"  will  apply  solely  to  property.  In  Melanesia
-matrilineal  descent  may  be  associated  with  patrilineal  succes-
-sion and  inheritance,  or  succession  may  be  patrilineal  while
+matrilineal  descent  may  be  associated  with  patrilineal  succession and  inheritance,  or  succession  may  be  patrilineal  while
 both  descent  and  inheritance  are  matrilineal.  In  this  part  of
 the  world  the  special  form  taken  by  matrilineal  inheritance
 and  succession  is  that  property  and  rank  are  transmitted  to
@@ -1346,15 +695,13 @@ marriage,  which  can  be  demonstrated  genealogically.
 
 In  recording  systems  of  relationship,  and  still  more  in
 considering  them  theoretically,  I  shall  have  frequently  to
-refer  to  certain  features  which  I  propose  to  call  "  corre-
-spondences." I  use  this  term  when  two  or  more  relationships
+refer  to  certain  features  which  I  propose  to  call  "  correspondences." I  use  this  term  when  two  or  more  relationships
 are  included  together  under  one  term.  A  typical  and  frequent
 example  of  such  a  correspondence  is  that  a  person  applies  the
 same  term  to  his  mother's  brother,  to  the  husband  of  his
 father's  sister  and  to  his  wife's  father.  Another  example  is
 that  the  father's  father  and  the  elder  brother  are  denoted  by
-the  same  term.  When  in  future  I  use  the  term  "corre-
-spondence" I  shall  mean  such  classing  together  of  different
+the  same  term.  When  in  future  I  use  the  term  "correspondence" I  shall  mean  such  classing  together  of  different
 relationships  in  nomenclature.
 
 Of  geographical  terms  I  shall  in  general  use  "region"
@@ -1372,8 +719,7 @@ a  discrete  group  definitely  separated  from  other  similar  groups
 of  buildings  in  the  same  district.
 
 Several  of  the  communities  to  be  described  in  this  book
-possess  a  special  form  of  social  grouping,  the  dual  organisa-
-tion, and  this  opportunity  may  be  taken  to  point  out
+possess  a  special  form  of  social  grouping,  the  dual  organisation, and  this  opportunity  may  be  taken  to  point  out
 certain  peculiar  features  possessed  by  this  form  of  society.
 
 
@@ -1406,12 +752,10 @@ those  of  ordinary  type  females.  This  diagram  makes  it  clear
 that  a  man  and  his  own  children  must  necessarily  belong  to
 different  moieties  and  a  man  and  his  sister's  children  to  the
 same,  while  of  the  two  kinds  of  grandchildren  one  kind,  the
-son's  children  of  a  man,  belongs  to  the  same  moiety  as  him-
-self while  the  other  kind,  his  daughter's  children,  belongs  to
+son's  children  of  a  man,  belongs  to  the  same  moiety  as  himself while  the  other  kind,  his  daughter's  children,  belongs  to
 the  opposite  moiety.  Further,  as  a  result  of  the  classificatory
 principle  which  is  always  found  coexisting  with  the  dual
-organisation,  the  whole  community  of  the  generation  im-
-mediately succeeding  that  of  a  man  will  fall  into  two
+organisation,  the  whole  community  of  the  generation  immediately succeeding  that  of  a  man  will  fall  into  two
 categories,  (i)  those  classed  with  his  own  children,  including
 his  brother's  children  ;  and  (ii)  those  classed  with  his  sister's
 children.  If,  as  usual,  a  man  applies  one  term  to  a  son  and
@@ -1422,8 +766,7 @@ either  his  son  or  his  sister's  son,  using  these  terms  in  the
 classificatory  sense.  Similarly,  in  the  next  generation,  all
 persons  will  again  fall  into  two  categories,  (i)  those  classed
 with  his  son's  children,  and  (ii)  those  classed  with  his
-daughter's  children,  for  the  children  of  his  sister  will  neces-
-sarily have  married  persons  classed  with  his  own  children  so
+daughter's  children,  for  the  children  of  his  sister  will  necessarily have  married  persons  classed  with  his  own  children  so
 that  the  children  of  his  sister's  son  will  necessarily  be  also
 the  children  of  his  daughter,  using  the  terms  son  and
 daughter  in  the  classificatory  sense,  while  the  children  of  his
@@ -1431,8 +774,6 @@ sister's  daughter  must  be  also  the  children  of  his  son.
 
 This  character  of  the  dual  organisation  of  society  will
 have  certain  consequences  concerning  marriage.     So  long  as
-
-R.  M.  s.  2
 
 
 1 8  Melanesian  Society  \
@@ -1498,8 +839,7 @@ missionaries  and  others  in  Melanesia  is  that  they  do  not
 indicate  whether  the  b  and  d  sounds  are  strengthened  by  m
 and  n  respectively,  so  that  the  letter  b  is  used  both  for  the
 b  and  mb  sounds  and  the  letter  d  for  both  d  and  nd.  Here
-again  the  differences  may  have  definite  ethnological  signifi-
-cance, and  wherever  I  heard  mb  or  nd  these  sounds  are  so
+again  the  differences  may  have  definite  ethnological  significance, and  wherever  I  heard  mb  or  nd  these  sounds  are  so
 expressed.
 
 There  are  in  Melanesia  two  kinds  of  m,  that  for  which  I
@@ -1516,14 +856,12 @@ The  simple  letter  g  (apart  from  ng  and  ngg)  when  used  in
 native  words  will  generally  signify  a  special  guttural  consonant
 which  is  known  as  the  Melanesian  g.  It  resembles  the
 Arabic  Ghen  and  though  it  varies  much  in  character  in
-different  islands,  it  might  often  be  more  correctly  trans-
-literated ghr  and  to  the  untrained  ear  the  resemblance  to  r  is
+different  islands,  it  might  often  be  more  correctly  transliterated ghr  and  to  the  untrained  ear  the  resemblance  to  r  is
 so  close  that  in  place-names  in  Melanesia  the  letter  r  has
 sometimes  been  used  by  mistake  for  the  Melanesian  g.
 
 In  the  case  of  the  vowel  sounds  I  have  followed  as  nearly
-as  practicable  the  spelling  of  Codrington^  and  other  mission-
-aries who  have  reduced  Melanesian  languages  to  writing.
+as  practicable  the  spelling  of  Codrington^  and  other  missionaries who  have  reduced  Melanesian  languages  to  writing.
 The  exact  value  of  the  letters  differs  in  different  islands  and
 in  the  short  time  at  my  disposal  it  was  not  possible  to  attend
 closely  to  such  variations.  The  only  sign  which  need  be
@@ -1533,8 +871,7 @@ French  le.
 *  This  simplification  of  the  proper  sound  is  probably  one  of  the  many  results
 of  the  use  of  Mota  as  a  lingua  franca.
 
-2  For  the  exact  values  of  other  Melanesian  consonants  see  Codrington,  Melane-
-sian Languages,  p.  198.     This  book  will  be  quoted  hereafter  as  M.L.
+2  For  the  exact  values  of  other  Melanesian  consonants  see  Codrington,  Melanesian Languages,  p.  198.     This  book  will  be  quoted  hereafter  as  M.L.
 
 3  M.L.,  197;  see  also  Codrington  and  Palmer,  Dictionary  of  the  Language  of
 Mota,  i8g6.
@@ -1563,10 +900,8 @@ inhabiting  a  raised  coral  base  surrounding  the  central  volcanic
 cone.
 
 Dr  Codrington's  account^  has  made  anthropologists  familiar
-with  the  Banks  Islands  as  an  example  of  the  dual  organisa-
-tion of  society  and  as  the  seat  of  a  highly  developed  secret
-organisation.  The  following  account  is  intended  to  supple-
-ment that  of  Dr  Codrington  by  describing  in  greater  detail
+with  the  Banks  Islands  as  an  example  of  the  dual  organisation of  society  and  as  the  seat  of  a  highly  developed  secret
+organisation.  The  following  account  is  intended  to  supplement that  of  Dr  Codrington  by  describing  in  greater  detail
 certain  customs  and  institutions  of  the  islands.
 
 The  Social  Organisation.
@@ -1585,9 +920,6 @@ established  that  I  do  not  venture  to  alter  it.
 1 89 1,  quoted  hereafter  as  M.
 
 
-21
-
-
 17  O"
 
 
@@ -1604,9 +936,6 @@ OMerlavI.
 
 
 IS*
-
-
-15
 
 
 Espiritu  Santo  I
@@ -1679,8 +1008,6 @@ JL
 Map  oj  Banks  and  Torres  Islands  and  Neiv  Hebrides.
 
 
-22  Melanesian  Society
-
 names\  but  people  are  spoken  of  as  belonging  to  the  same
 side  or  to  the  other  side  of  the  house.  The  only  exceptions
 of  which  I  could  learn  were  that  in  the  Lakon  district  of
@@ -1692,8 +1019,7 @@ to  one  informant  the  other  moiety  of  Mota  is  called  Tatalai,
 talai  being  the  name  of  the  giant  clam-shell.  It  is  doubtful
 whether  this  name  is  in  general  use,  the  Takwong  people
 usually  referring  to  the  members  of  the  other  division  as
-tavala  ima,  the  other  side  of  the  house,  but  it  will  be  con-
-venient to  use  it  in  the  following  description.  In  Mota  the
+tavala  ima,  the  other  side  of  the  house,  but  it  will  be  convenient to  use  it  in  the  following  description.  In  Mota  the
 people  of  the  two  moieties  are  said  to  have  different
 characters  ;  the  Takwong  are  reputed  to  be  ignorant  and
 unimportant^  always  quarrelling  and  unable  to  manage  their
@@ -1707,8 +1033,7 @@ or  club-house  (see  Chap.  Ill),  one  end  of  which  was  inhabited
 by  the  Takwong  and  the  other  end  by  the  members  of  the
 other  moiety.  Sometimes  a  man  changed  his  division  by
 crossing  from  one  end  of  the  gamal  to  the  other  and  in  doing
-so  changed  his  disposition,  a  man  of  the  Takwong  thus  becom-
-ing a  peaceable  member  of  society.  It  was  rarely  that  a  man
+so  changed  his  disposition,  a  man  of  the  Takwong  thus  becoming a  peaceable  member  of  society.  It  was  rarely  that  a  man
 of  the  Tatalai  crossed  over  to  the  side  of  the  Takwong,  for  he
 ran  the  risk  of  being  killed  by  those  he  was  attempting  to  join.
 The  site  of  this  ancient  building  can  still  be  seen  and  so
@@ -1765,8 +1090,7 @@ rocks  and  in  one  or  two  cases  certainly,  and  probably  in  all,
 these  rocks  are  regarded  as  sacred  and  as  inhabited  by  spirits
 (vui).  Two  divisions,  the  Tasalaima  and  the  Maligo  possess
 rocks  called  O  pagoa  (the  shark)  and  at  the  rock  of  the
-Maligo  a  sacred  owl  inhabits  a  banyan  tree.  The  Talogap-
-marus have  as  a  sign  or  mark  the  talai  or  giant  clam-shell,
+Maligo  a  sacred  owl  inhabits  a  banyan  tree.  The  Talogapmarus have  as  a  sign  or  mark  the  talai  or  giant  clam-shell,
 and  the  Lisaveve  have  a  creeper  sacred  to  their  division
 which  they  must  not  cut  or  break.  The  members  of  some  of
 these  lesser  divisions  are  said  to  have  special  characters,  thus
@@ -1790,8 +1114,6 @@ to   sing   songs.     The    Talosara   division    of   the    Takwong
 
 ^  I  am  indebted  for  the  following  account  of  these  subdivisions  to  Mr  Durrad.
 
-
-24  Melanesian  Society
 
 perform    definite    rites   at   their   sacred    rock    or   rocks  (see
 
@@ -1891,13 +1213,10 @@ child  in  a  nut  tree  (ngai).  The  woman  looked  after  the  girl
 and  also  had  children  of  her  own.     One  of  these  children
 
 
-26  Melanesian  Society
-
 came  to  Merlav  and  went  to  the  village  of  Vanmisi  where  she
 married.  One  of  her  sows  went  one  day  to  a  place  called
 Ronalung  and  there  gave  birth  to  a  girl  who  is  the  ancestress
-of  the  Ronalung  division.  Though  the  people  are  thus  con-
-nected with  Merig  it  is  not  from  the  woman  of  that  island
+of  the  Ronalung  division.  Though  the  people  are  thus  connected with  Merig  it  is  not  from  the  woman  of  that  island
 but  from  the  pig  that  they  are  believed  to  be  descended.
 The  Luwe  and  Bule  are  descended  from  women  of  the  island
 of  Santa  Maria  but  no  stories  connected  with  them  were
@@ -1921,15 +1240,13 @@ of  which  became  the  starting  point  of  a  social  group.
 Systems  of  Relationship.
 
 The  different  islands  of  the  Banks  group  differ  from  one
-another  very  considerably  in  their  mode  of  naming  relation-
-ships, these  differences  being  not  merely  in  the  forms  of  the
+another  very  considerably  in  their  mode  of  naming  relationships, these  differences  being  not  merely  in  the  forms  of  the
 words  but  in  the  way  in  which  they  are  employed.  The
 leading  features  of  the  system  have  been  already  recorded
 by  Dr  Codrington\  the  island  of  Mota  having  been  taken
 as  an  example.  My  most  complete  information  was  also
 obtained  from  that  island  and  agrees  in  all  essentials  with
-that  given  by  Dr  Codrington,  though  I  give  a  few  amplifica-
-tions and  modifications  in  detail.  The  accompanying  pedigree
+that  given  by  Dr  Codrington,  though  I  give  a  few  amplifications and  modifications  in  detail.  The  accompanying  pedigree
 will  illustrate  several  points  in  this  and  succeeding  sections.
 It  may  be  noted  that  it  gives  the  genealogy  of  the  same
 family  as  was  used  by  Dr  Codrington  i^M.,  38).  In  neither
@@ -1937,9 +1254,6 @@ case  is  the  pedigree  complete,  only  such  persons  being
 included  as  are  needed   for  the  purpose  of  illustration.
 
 '  M.,  3S-
-
-
-27
 
 
 r^D —
@@ -1955,19 +1269,16 @@ I
 
 s
 
-0
 
 -H
 
 <
 
-3
 
 h]
 
 rt
 
-13
 
 g
 
@@ -1987,14 +1298,10 @@ W
 
 (=<              §
 
-5
-
 
 >
 
 >
-
-5
 
 
 o
@@ -2010,8 +1317,6 @@ o
 o
 
 s
-
-2
 
 
 T3
@@ -2073,8 +1378,6 @@ i2
 ^•^
 
 
-28  Melanesian  Society
-
 Mota.
 
 The  following  are  the  Mota  terms' :
@@ -2087,16 +1390,14 @@ to  a  first  cousin  according  to  our  method  of  nomenclature,
 i.e.  John  will  give  this  name  to  Dudley.
 
 Veve.  Mother,  mother's  sister  and  the  wife  of  the  father's
-brother.  The  father's  sister  is  also  called  veve  but  is  dis-
-tinguished as  raveve,  ra  being  an  honorific  prefix  which  is
+brother.  The  father's  sister  is  also  called  veve  but  is  distinguished as  raveve,  ra  being  an  honorific  prefix  which  is
 used  for  anyone  who  is  highly  thought  of  and  is  thus  often
 applied  to  all  who  are  closely  related,  in  distinction  from  those
 more  distantly  connected.  The  father's  sister  whose  full
 designation  is  veve  vus  rawe  would  always  receive  this  prefix.
 The  father's  sister  may  be  called  vevegae  to  distinguish  her
 from  the  mother  and  mother's  sister  who  would  be  veve  sogoi ;
-she  would  not  be  of  the  same  veve  as  her  nephew  and  there-
-fore not  one  of  his  sogoi.  Corresponding  to  the  exceptional
+she  would  not  be  of  the  same  veve  as  her  nephew  and  therefore not  one  of  his  sogoi.  Corresponding  to  the  exceptional
 use  of  tamai,  the  daughter  of  the  father's  sister  is  called
 veve.
 
@@ -2130,11 +1431,8 @@ with  the  usual  termination  of  independent  substantives.
 I
 
 
-Relationship  29
-
 brother  and  the  mother's  sister  and  in  general  for  all  those  of
-the  same  moiety  or  veve  who  are  of  the  corresponding  genera-
-tion. It  is  in  the  case  of  these  more  distant  relationships  that
+the  same  moiety  or  veve  who  are  of  the  corresponding  generation. It  is  in  the  case  of  these  more  distant  relationships  that
 the  term  tasiu  is  especially  used  in  its  wider  sense,  and  in
 these  cases  the  terms  which  connote  difference  of  age  or  sex
 seem  to  be  rarely  used.
@@ -2184,9 +1482,6 @@ sister  and  other  near  relatives  called  veve.
 
 Itata  (in  address  tata).  I  only  heard  of  this  term  as
 applied  to  the  husband's  father  but   I  am   not  sure  that  it
-
-
-30
 
 
 Melanesian  Society  %
@@ -2250,11 +1545,6 @@ other  parts  of  the  island.
 I
 
 
-4
-
-
-Relationship  3 1
-
 in  their  application.  The  only  system  obtained  from  this
 island  which  is  at  all  complete  is  that  of  the  district  of  Pek.
 Here  the  word  for  father  is  imam  (emek^  in  address),  and  this
@@ -2272,8 +1562,7 @@ widely  from  the  Mota  form.  The  child  is  nenik.  The  four
 grandparents  are  popo,  this  word  resembling  the  vocative  form
 of  Mota  and  Motlav.
 
-The  parents  of  husband  and  wife  and  reciprocally  the  con-
-sorts of  son  or  daughter  are  kwelgek,  and  wulus  and  wuluk  are
+The  parents  of  husband  and  wife  and  reciprocally  the  consorts of  son  or  daughter  are  kwelgek,  and  wulus  and  wuluk  are
 used  in  the  same  sense  as  the  wulus  and  zvalui  of  Mota.  It
 is  in  the  other  terms  for  relatives  by  marriage  that  the  most
 peculiar  feature  of  this  system  is  to  be  found.  The  wife  is
@@ -2320,8 +1609,7 @@ wife  and  reciprocally  the  consorts  of  son  and  daughter  are
 kwilia,  but  according  to  another  the  wife's  mother  and  the
 husband's  father  with  their  reciprocals  are  distinguished  as
 kwalgak.  The  wife's  brother  is  wulus  and  the  husband's
-sister  wuluk  and  these  terms,  as  elsewhere,  are  used  recipro-
-cally. The  wife's  sister  and  the  husband's  brother,  on  the
+sister  wuluk  and  these  terms,  as  elsewhere,  are  used  reciprocally. The  wife's  sister  and  the  husband's  brother,  on  the
 other  hand,  are  addressed  by  name,  this  being  reciprocated.
 The  husband  is  called  tamanrok  and  the  wife  ligenrok.
 
@@ -2329,8 +1617,7 @@ Merlav.
 
 In  this  island,  the  social  organisation  of  which  departs
 widely  from  the  general  type  of  the  Banks  Islands,  there
-are  also  decided  differences  in  the  nomenclature  of  relation-
-ship. The  father  is  imama  or  in  address  mam  and  the  mother
+are  also  decided  differences  in  the  nomenclature  of  relationship. The  father  is  imama  or  in  address  mam  and  the  mother
 correspondingly  ivev  or  vev.  The  child  is  natuk,  the  elder
 brother  tugak,  the  younger  tasik  and  the  brother-sister  relation
 tatak.  The  father's  sister  is  ivev  and  her  husband  moruk.
@@ -2345,8 +1632,7 @@ a  point  about  which  my  informant,  a  very  intelligent  man,
 was  quite  positive  and  he  gave  a  reason  for  it,  saying  that
 the  child  of  the  father's  sister  is  called  natuk  because  he  is
 the  child  of  a  morui,  i.e.,  it  would  appear  that  this  method
-of  nomenclature  has  come  about  through  a  process  of  general-
-isation. The  mother's  brother's  son  is  called  natuk  and  he
+of  nomenclature  has  come  about  through  a  process  of  generalisation. The  mother's  brother's  son  is  called  natuk  and  he
 is  the  son  of  a  morui  and  it  would  seem  that  the  same  name
 has  come  to  be  applied  to  the  son  of  the  father's  sister  whose
 husband  is  also  a  7norui,  thus  obscuring  the  nature  of  the
@@ -2356,8 +1642,6 @@ sister  found  elsewhere  in  the  group.
 
 I
 
-
-Relationship  33
 
 The  terms  for  the  grandparent-grandchild  relationship  also
 differ  from  those  of  other  islands.  The  four  grandparents  are
@@ -2394,20 +1678,14 @@ and  sister.
 
 Attention  may  here  be  called  to  a  few  of  the  special
 features  of  these  systems  though  their  full  discussion  must
-be  left  for  the  theoretical  portion  of  the  book.  The  charac-
-teristic feature  of  the  systems  of  most  of  the  islands  is
+be  left  for  the  theoretical  portion  of  the  book.  The  characteristic feature  of  the  systems  of  most  of  the  islands  is
 the  use  of  terms  ordinarily  denoting  the  relationship  of  parent
-and  child  by  persons  of  the  same  generation,  viz.,  by  cross-
-cousins,  the  children  of  brother  and  sister.  This  peculiar
+and  child  by  persons  of  the  same  generation,  viz.,  by  crosscousins,  the  children  of  brother  and  sister.  This  peculiar
 feature  was  recorded  by  Dr  Codrington  who  pointed  out
 that  it  forms  the  starting-point  of  other  anomalous  features  ;
 thus,  the  child  of  the  daughter  of  the  mother's  brother  may
 be  regarded  as  a  tupuiy  i.e.,  a  person  one  generation  younger
 
-R.  M.  S.  3
-
-
-34  Melanesian  Society
 
 than  the  speaker  may  be  addressed  in  the  same  way  as  a
 grandchild.  The  reason  for  this  is  that  the  daughter  of  the
@@ -2447,8 +1725,7 @@ while  in  Rowa  these  relatives  are  always  addressed  by  name.
 We  thus  find  four  different  ways  of  designating  relatives  by
 marriage  of  the  same  generation  but  of  different  sex  ;  by
 name,  as  wives,  as  potential  wives  and  as  sisters.  It  may
-be  noted  here  that  the  island  of  Vanua  Lava,  where  sisters-in-
-law  are  classed  with  the  wife,  probably  stands  lowest  in  the
+be  noted  here  that  the  island  of  Vanua  Lava,  where  sisters-inlaw  are  classed  with  the  wife,  probably  stands  lowest  in  the
 scale  of  culture  of  those  islands  from  which  material  is  available.
 It  must  be  sufficient  here  to  point  out  these  special  features  ;
 their  discussion  must  be  left  till  later.
@@ -2473,8 +1750,7 @@ the  woman.  The  fact  of  belonging  to  the  same  or  the  opposite
 veve  will  not,  however,  account  altogether  for  the  distinction,
 for  the  husband's  mother  and  the  wives  of  the  grandmother's
 brothers,  though  of  the  opposite  veve,  use  the  term  but  it  is
-probable  that  they  do  this  by  right  of  their  husband's  relation-
-ship and  that  with  this  exception  the  use  of  the  term  is  limited
+probable  that  they  do  this  by  right  of  their  husband's  relationship and  that  with  this  exception  the  use  of  the  term  is  limited
 to  those  of  the  same  veve  as  the  woman.
 
 The  terms  for  the  grandparent-grandchild  relationship  are
@@ -2505,8 +1781,6 @@ Parent  and  child.     At  the   present   time  the  behaviour
 3—2
 
 
-36  Melanesian  Society
-
 towards  one  another  of  parents  and  children  has  at  least  one
 feature  which  seems  to  us  very  unnatural ;  a  man  and  his
 father  do  not  eat  together,  it  being  thought  that  by  so  doing
@@ -2535,8 +1809,7 @@ relationship,  the  avoidance  between  these  relatives  found  in
 other  parts  of  Melanesia  not  being  present  in  the  Banks
 Islands.  There  is,  however,  one  indication  that  the  relation
 between  brother  and  sister  is  not  of  that  familiar  kind  customary
-in  civilised  society,  and  that  is  the  fact  that  they  do  not  poro-
-poro  or  chaff  one  another.  This  practice  is  especially  frequent
+in  civilised  society,  and  that  is  the  fact  that  they  do  not  poroporo  or  chaff  one  another.  This  practice  is  especially  frequent
 between  members  of  the  same  veve  and,  as  we  shall  see  later,
 the  custom  has  much  significance  in  the  eyes  of  the  people.
 It  is  therefore  a  fact  of  some  importance  that  the  prohibition
@@ -2570,8 +1843,7 @@ Islands.  In  the  old  days  there  is  no  doubt  that  the  sister's
 son  would  have  been  the  heir  of  his  uncle  and  would  have
 taken  all  his  property,  including  any  objects  of  magical  value,
 but  at  the  present  time  this  has  been  much  modified.  There
-are  even  now  complicated  regulations  enjoining  certain  pay-
-ments from  the  children  of  a  dead  man  to  his  sister's  children,
+are  even  now  complicated  regulations  enjoining  certain  payments from  the  children  of  a  dead  man  to  his  sister's  children,
 but  at  the  present  time  when  these  payments  have  once  been
 made,  the  sister's  children  have  no  further  right  to  the  property
 of  their  uncle.  In  addition  to  this  potential  right  to  the
@@ -2631,8 +1903,7 @@ for  the  whole  group  though  the  connection  is  perhaps  less
 close  than  elsewhere  in  Merlav,  where  I  was  told  that  the
 relation  between  a  man  and  his  walus  (wife's  brother)  is  closer
 than  that  with  the  morui  (mother's  brother).  In  this  island
-a  man  and  his  sister's  son  help  one  another  and  do  not  poro-
-poro.  A  man  will  not  take  anything  belonging  to  his  mother's
+a  man  and  his  sister's  son  help  one  another  and  do  not  poroporo.  A  man  will  not  take  anything  belonging  to  his  mother's
 brother  without  permission,  and  if  given  anything  it  was  said
 that  something  would  be  given  in  return.  A  man,  however,
 must  obey  his  mother's  brother.
@@ -2694,8 +1965,7 @@ be  taken  without  his  permission.
 
 This  account  applies  to  Mota.  In  Motlav  a  definite
 contrast  was  pointed  out  in  the  behaviour  towards  mother  and
-father's  sister.  The  mother  may  be  spoken  to  strongly  {mare-
-mare,  i.e.,  emphatically  and  with  assurance),  but  this  is  not
+father's  sister.  The  mother  may  be  spoken  to  strongly  {maremare,  i.e.,  emphatically  and  with  assurance),  but  this  is  not
 permissible  in  addressing  the  father's  sister.  In  Rowa  it  was
 said  that  the  father's  sister  would  not  choose  a  wife  for  her
 nephew  but  would  forbid  a  match  of  which  she  did  not  approve
@@ -2708,8 +1978,6 @@ be  a  sign  of  respect.  In  Merlav  the  father's  sister  arranges
 her  nephew's  marriage  or  forbids  one  arranged  by  himself.
 It  was  especially  said  here  that  a  man  would  not poroporo  his
 
-
-40  Melanesian  Society
 
 father's  sister  and  that  if  he  does  so,  she  has  to  give  a  feast,
 all  the  expenses  of  which  have  to  be  paid  by  her  nephew.
@@ -2742,8 +2010,7 @@ go  too,  rush  up  to  his  uncle  and  threaten  him  with  a  club ;
 he  will  seize  him  and  will  only  relax  his  hold  when  he  has
 been  given  money,  which  Virsal  will  have  brought  with  him,
 knowing  quite  well  what  is  about  to  happen.  According  to
-our  informant  the  idea  of  all  this  is  to  emphasize  the  im-
-portance of  the  father's  sister.  Before  Virsal  married,  John
+our  informant  the  idea  of  all  this  is  to  emphasize  the  importance of  the  father's  sister.  Before  Virsal  married,  John
 would  have  heaped  all  sorts  of  opprobrious  epithets  on  him
 because  he  would  not  think  him  good  enough  to  marry  his
 father's  sister,  and  John  thought  that  the  chaff  and  usur-gae
@@ -2765,8 +2032,7 @@ but  should  speak  of  her  husband  as  /  gene  if  he  has  no
 children,  or  as  the  father  of  his  child  "  Taman  X''  if  there
 have  been  children  of  the  marriage.  For  a  wife  to  address
 her  husband  by  name  shows  a  great  want  of  respect,  and  it
-would  seem  as  if  at  the  present  time  this  custom  is  used  by-
-women  to  flout  their  husbands.  I  was  told  that  there  are  no
+would  seem  as  if  at  the  present  time  this  custom  is  used  bywomen  to  flout  their  husbands.  I  was  told  that  there  are  no
 less  than  three  women  in  the  district  of  Veverau  alone  who
 address  their  husbands  by  name,  thus  showing  that  they  do
 not  respect  them.  There  is  little  doubt  that  this  is  the  result
@@ -2781,8 +2047,7 @@ of  speaking  of  a  wife  is  as  if  she  were  equivalent  to  her
 children.  The  explanation  given  by  my  informant  was  that
 the  usage  showed  the  superiority  of  the  husband,  the  wife
 standing  in  a  relation  to  her  husband  similar  to  that  of  his
-children,  she  being  subject  to  his  command  while  he  is  re-
-sponsible for  her  behaviour.  It  was  clear  that  a  distinction  is
+children,  she  being  subject  to  his  command  while  he  is  responsible for  her  behaviour.  It  was  clear  that  a  distinction  is
 made  between  irananatuk  and  iranatuk^  and  that  it  would
 not  be  right  to  apply  the  latter  term  to  the  wife.  People
 often  speak  of  a  woman  as  amen  followed  by  the  name  of
@@ -2794,8 +2059,7 @@ or  (v)  as  the  wife  of  her  husband.
 Parents-  and  children-in-law.  In  Mota  the  suffix  k  used
 in  address  is  only  applied  to  those  nearly  related  to  the
 husband  or  wife,  as  the  actual  father  of  the  wife,  one  whom
-the  wife  would  call  father  through  a  more  distant  relation-
-ship being  addressed  simply  as  kwaliga.  The  wife's  mother
+the  wife  would  call  father  through  a  more  distant  relationship being  addressed  simply  as  kwaliga.  The  wife's  mother
 may  have  the  prefix  ro  and  be  addressed  as  ro  kwaligak.
 In  Motlav  the  wife's  mother  is  addressed  as  ro  kwaliga  and
 spoken  of  as  kwaligak.  Neither  a  kwaliga  nor  an  itata
@@ -2833,12 +2097,10 @@ other  hand  he  has  climbed  up  a  tree,  his  mother-in-law  must
 turn  out  of  her  way  to  pass  him.  She  may  not  drink  the
 water  from  any  bamboo  that  he  has  carried  and  if  she  wants
 him  to  help  with  any  work  she  will  speak  first  to  her  daughter
-who  in  her  turn  will  speak  to  her  husband.  Any  infringe-
-ments of  these  rules  can  only  be  condoned  by  payments  of
+who  in  her  turn  will  speak  to  her  husband.  Any  infringements of  these  rules  can  only  be  condoned  by  payments  of
 money.
 
-One  regulation  of  interest  in  connection  with  the  prohibi-
-tion on  the  name  of  a  kwaliga  is  that  if  the  name  is  uttered,
+One  regulation  of  interest  in  connection  with  the  prohibition on  the  name  of  a  kwaliga  is  that  if  the  name  is  uttered,
 the  money  which  has  to  be  paid  by  the  offender  is  not  kept  by
 the  injured  recipient  but  is  divided  between  his  brothers  and
 sisters.
@@ -2859,8 +2121,7 @@ is  my  head,"  and  the  object  cannot  be  eaten  by  the  woman.
 
 Relatives  by  Marriage  43
 
-The  itata  in  his  turn  may  not  say  the  name  of  his  daughter-
-in-law  but  must  call  her  ratawarig,  and  here  again  if  this  rule
+The  itata  in  his  turn  may  not  say  the  name  of  his  daughterin-law  but  must  call  her  ratawarig,  and  here  again  if  this  rule
 is  infringed  by  either  party  money  has  to  be  paid  which  is
 divided  between  the  brothers  and  sisters  of  the  recipient.
 
@@ -2879,11 +2140,9 @@ them  might  be  eaten.  It  is  probable  that  these  rules  also
 apply  to  other  islands.
 
 The  wulus  and  walui  or  wuluk  relationships.  These  are
-terms  for  relatives  by  marriage  belonging  to  the  same  genera-
-tion, the  former  being  used  between  two  men  and  the  latter
+terms  for  relatives  by  marriage  belonging  to  the  same  generation, the  former  being  used  between  two  men  and  the  latter
 between  two  women.  They  do  not  say  each  other's  names  nor
-poroporo  one  another,  and  people  object  to  hearing  others  poro-
-poro  their  kwaliga  or  wulus.  These  relatives  have  regard  to
+poroporo  one  another,  and  people  object  to  hearing  others  poroporo  their  kwaliga  or  wulus.  These  relatives  have  regard  to
 one  another's  heads  but  the  avoidance  of  the  use  of  their
 names  when  these  correspond  with  those  of  natural  objects
 is  not  important,  i.e.,  un  words  are  not  necessary.  (This  is
@@ -2891,24 +2150,19 @@ certainly  so  in  Rowa  and  probably  throughout  the  group.)
 
 In  Merlav  the  customs  concerning  a  man  and  his  wife's
 brother  differ  from  those  of  Mota.  These  relatives  may  say
-each  other's  names  and  to  a  large  extent  they  have  their  pos-
-sessions in  common.  One  will  always  help  the  other  and  if  a
+each  other's  names  and  to  a  large  extent  they  have  their  possessions in  common.  One  will  always  help  the  other  and  if  a
 man  is  in  danger  it  is  the  duty  of  his  walus  to  warn  him  and  if
 necessary  to  die  with  him.  If  a  man  wants  his  walus  to  go  in
 his  canoe  with  him  the  latter  would  always  go.  When  a  man
 dies,  his  wife's  brother  gives  money  and  pigs  to  the  relatives
 of  the  dead  man  and  helps  to  support  his  widow.  He  fasts
-from  certain  foods  and  a  man  who  has  lost  his  walus  is  care-
-fully watched  and  if  he  is  seen  to  eat  everything  he  would  fall
+from  certain  foods  and  a  man  who  has  lost  his  walus  is  carefully watched  and  if  he  is  seen  to  eat  everything  he  would  fall
 greatly  in  the  estimation  of  the  community.
 
-The  reference  to  the  head  plays  the  same  part  in  connec-
-tion with  the  wului  or  walui  relation  as  in  the  case  of  the
+The  reference  to  the  head  plays  the  same  part  in  connection with  the  wului  or  walui  relation  as  in  the  case  of  the
 relationships  of  kwaliga  and  itata  and  I  am  indebted  to
 Mr    Durrad    for   a    very    instructive    example    from    Modav
 
-
-44  Melanesian  Society
 
 which    illustrates  the  great   influence  which  this   belief   and
 custom  may  have  in  the  lives  of  the  people.
@@ -2923,8 +2177,7 @@ and  dirty  state  so  that  they  were  not  fit  to  put  on  the  mat.
 Either  this  or  the  fact  that  Georgina  had  made  use  of  him  to
 compel  her  husband  to  obey  made  Charles  angry  and  he  said,
 "If  you  go  on  making  that  mat,  it  is  the  head  of  Mabel,"  and
-she  could  then  only  finish  the  mat,  after  she  had  paid  com-
-pensation to  Mabel.  It  will  be  noticed  here  that  the  reference
+she  could  then  only  finish  the  mat,  after  she  had  paid  compensation to  Mabel.  It  will  be  noticed  here  that  the  reference
 to  his  wului  made  Katlavi  obey,  though  Charles  was  only  a
 distant  relative,  a  second  cousin  of  his  wife  according  to  our
 nomenclature,  while  the  relationship  between  Georgina  and
@@ -2987,11 +2240,9 @@ sharing  a  name  mateima  in  common  with  another  potential
 wife,  the  wife  of  the  maternal  uncle,  while  the  women  have  a
 reciprocal  term,  welag,  for  their  potential  husbands.  In  some
 of  the  other  islands  these  persons  address  each  other  by  name
-only  and  do  not  appear  to  have  any  definite  terms  of  relation-
-ship to  use  when  speaking  of  or  to  one  another.  In  Vanua
+only  and  do  not  appear  to  have  any  definite  terms  of  relationship to  use  when  speaking  of  or  to  one  another.  In  Vanua
 Lava,  on  the  other  hand,  they  call  each  other  by  the  same
-names  as  a  real  husband  and  wife.  There  is  a  definite  differ-
-ence in  the  various  islands  of  the  group  in  the  attitude  towards
+names  as  a  real  husband  and  wife.  There  is  a  definite  difference in  the  various  islands  of  the  group  in  the  attitude  towards
 these  relatives  as  shown  by  \\\^ poroporo  custom.  In  Rowa  a
 man  would  never  poroporo  his  wife's  sister  or  his  brother's
 wife  but  in  Mota  he  might  do  so,  though  in  the  case  of  the
@@ -3019,8 +2270,6 @@ two  sit  here  a  little  while,"  and  he  runs  to  get  an  old  stinking
 leaf-mat  which  had  been  used  as  a  covering  for  an  oven.     He
 
 
-46  Melanesian  Society
-
 comes  back  with  it  and  Charles's  arms  are  seized  by  his
 maraui  while  Walter  (also  one  of  his  maraui)  jams  the  mat
 on  his  head  and  all  the  people  laugh  uproariously.  The  wife
@@ -3031,8 +2280,7 @@ you  two"  (Charles  and  Nicholas);  but  they  answer,  "O  yes.
 We  have  plenty  of  food."  This  again  makes  the  people
 laugh  and  Charles's  sister  then  stops  the  joking  by  saying,
 ''Atogo  !''  a  word  equivalent  to  our  "Shut  up  !  "  There  is  no
-doubt  that  this  joking  and  horseplay  which  seem  very  point-
-less to  us  have  a  very  definite  meaning  to  those  who  indulge  in
+doubt  that  this  joking  and  horseplay  which  seem  very  pointless to  us  have  a  very  definite  meaning  to  those  who  indulge  in
 it  and  it  seemed  to  Mr  Durrad  that  the  gist  of  the  whole  joke
 lay  in  the  original  reference  to  the  wife  of  Nicholas  as  also  the
 wife  of  Charles.  The  point  of  the  whole  business  lies  in  the
@@ -3048,16 +2296,14 @@ difference  in  the  way  of  regarding  the  custom  according  as
 those  of  the  same  or  different  moieties  are  concerned,  the
 custom  in  the  latter  case  being  called  poroporo  tavale  ima.
 
-1  was  told  that  a  person  should  not  poroporo  one  of  the  op-
-posite veve  and  the  relative  in  whose  case  the  custom  reaches  its
+1  was  told  that  a  person  should  not  poroporo  one  of  the  opposite veve  and  the  relative  in  whose  case  the  custom  reaches  its
 highest  pitch,  the  husband  of  the  father's  sister,  is  of  the  same
 moiety  as  his  tormentor.  Even  among  those  of  the  same  veve
 there  are,  however,  restrictions,  for  it  is  not  right  for  brother
 and  sister  to  poroporo  one  another.  Although  it  was  thus  said
 that  a  man  should  on\y  poroporo  his  own  sogoi,  it  is  clear  that
 there  is  a  definite  variety  of  the  custom,  the  poroporo  tavale
-ima,  in  which  those  of  opposite  moieties  are  especially  con-
-cerned. The  case  oi poroporo  which  was  recorded  in  the  last
+ima,  in  which  those  of  opposite  moieties  are  especially  concerned. The  case  oi poroporo  which  was  recorded  in  the  last
 section  is  one  in  which  people  of  both  veve  were  concerned  and
 I  was  given  a  definite  instance  in  which  a  man  had  mocked  the
 children  of  his  mother's  brother  and  of  one  who  was  his  maraui
@@ -3081,8 +2327,7 @@ Islands  is  the  most  obvious  means  of  regulating  marriage,  but
 the  simple  rule  that  a  man  of  one  moiety  must  marry  a  woman
 of  the  other  moiety  is  very  far  from  exhausting  the  marriage
 regulations.  There  are  other  prohibitions  or  ordinances  based
-on  relationship;  there  are  certain  women  who,  though  belong-
-ing to  "the  other  side  of  the  house,"  are  yet  ineligible  as
+on  relationship;  there  are  certain  women  who,  though  belonging to  "the  other  side  of  the  house,"  are  yet  ineligible  as
 wives,  while  there  are  others  whom  it  is  more  or  less  the  duty
 of  a  man  to  marry.  A  man  and  his  father's  sister  belong  to
 different  moieties  and  therefore  the  dual  organisation  alone
@@ -3115,8 +2360,6 @@ contract  them.
 
 The  cross-cousin  marriage  appears  to  be  unknown  in  most
 
-
-48  Melanesian  Society
 
 of  the  islands  and  this  is  to  be  expected,  since  according  to
 the  usual  Banks  system  of  relationship  cross-cousins  stand  to
@@ -3187,8 +2430,7 @@ are  subject  to  the  same  restrictions  as  those  between  natives
 of  the  same  island,  a  man  being  limited  in  his  choice
 to  the  women  of  the  moiety  corresponding  to  that  from
 which  he  would  have  taken  a  wife  in  his  own  island.  It
-seemed  that  there  were  certain  customs,  if  not  positive  regu-
-lations, concerning  these  marriages  between  different  islands.
+seemed  that  there  were  certain  customs,  if  not  positive  regulations, concerning  these  marriages  between  different  islands.
 Thus,  it  was  said  that  Mota  and  Motlav  intermarried  in
 general,  but  while  men  of  Vanua  Lava  and  Ureparapara  took
 wives  from  Motlav,  the  men  of  Motlav  did  not  marry  women
@@ -3197,8 +2439,7 @@ genealogical  data  on  this  point.
 
 I  did  not  go  fully  into  the  mode  of  arrangement  of
 marriage  nor  obtain  an  account  of  any  ceremonial  connected
-with  its  but  this  appears  to  be  almost  completely  ab-
-sent. A  marriage  is  usually  negotiated  by  a  third  party
+with  its  but  this  appears  to  be  almost  completely  absent. A  marriage  is  usually  negotiated  by  a  third  party
 who  arranges  the  amount  which  shall  be  paid  by  the
 bridegroom  to  the  relatives  of  the  bride.  In  one  case  of
 which  I  was  told  in  Rowa  the  amount  so  paid  was  sixty
@@ -3216,10 +2457,6 @@ live  with  her  husband.
 
 »  See  Codrington,  M.^  239.
 
-R.  M.  s.  4
-
-
-50  Melanesian  Society
 
 When  in  the  old  days  a  man  married  a  woman  of  his  own
 veve  the  offending  couple  were  killed  in  public  by  their
@@ -3252,8 +2489,7 @@ he  will  usually  be  on  the  spot,  he  has  thus  two  advantages  in
 the  contest  for  being  the  first  to  claim  his  child,  but  if  he  has
 not  the  necessary  money  or  if  he  is  away,  it  may  happen,
 and  frequently  does  happen,  that  another  may  step  in  before
-him  and  become  the  "  father  "  of  the  child.  Two  definite  in-
-stances may  be  given.  My  informant,  John  Pantutun,  before
+him  and  become  the  "  father  "  of  the  child.  Two  definite  instances may  be  given.  My  informant,  John  Pantutun,  before
 his  wife  had  given  him  a  family,  wished  very  much  for
 offspring.  He  heard  that  the  wife  of  a  man  named  Matthew
 had  just  had  a  child  and  he  knew  that  Matthew  had  no
@@ -3282,8 +2518,7 @@ The  relations  between  the  real  and  adoptive  parents  do
 not  cease  with  the  payment  which  has  been  mentioned.
 When  the  real  father  takes  his  next  step  in  the  Sukwe  he
 receives  a  further  payment  which  is  known  as  "the  money  of
-the  hand  of  the  child."  Further,  the  transaction  is  not  abso-
-lutely final  till  a  further  payment  has  been  made  which  is
+the  hand  of  the  child."  Further,  the  transaction  is  not  absolutely final  till  a  further  payment  has  been  made  which  is
 called  vat  ngorag  sasai,  or  "name  concealment."  The  fact  of
 the  change  of  parentage  is  very  carefully  kept  from  the  child
 and  this  concealment  becomes  imperative  on  the  part  of  the
@@ -3317,16 +2552,13 @@ of  initiation  into  the  Sukwe,  it  may  be  mentioned  that  the
 4—2
 
 
-52  Melanesian  Society
-
 father  would  not  only  have  to  repay  the  sum  expended  by  the
 adopting  father  but  also  the  contributions  made  by  relatives
 of  the  child  in  its  new  relationship  and  any  payments  made
 on  behalf  of  the  child  during  the  initiation  of  others.  Even
 supposing  that  all  the  money  could  be  repaid  with  cent
 per  cent  interest,  further  difficulties  would  be  raised.  If  land
-had  been  planted  for  the  child,  this  would  have  to  be  re-
-deemed or  compensation  of  some  kind  given  and  a  return
+had  been  planted  for  the  child,  this  would  have  to  be  redeemed or  compensation  of  some  kind  given  and  a  return
 would  have  to  be  made  for  all  the  food  consumed  by  the  child
 or  at  feasts  connected  with  the  child.
 
@@ -3349,8 +2581,7 @@ return  to  the  real  father.
 As  I  have  already  indicated,  the  fact  of  his  real  parentage
 is  carefully  kept  from  the  adopted  child  and  any  approach
 of  the  real  father  to  his  child  is  resented  on  account  of  the
-fear  that  the  true  parentage  may  be  revealed.  The  cere-
-mony of  vat  ngorag  sasai  should  properly  take  place  when
+fear  that  the  true  parentage  may  be  revealed.  The  ceremony of  vat  ngorag  sasai  should  properly  take  place  when
 the  child  has  grown  up  but  it  is  sometimes  performed  when
 it  is  quite  young  in  order  to  remove  all  possibility  of  such
 revelation,  for  the  true  father  regards  his  lips  as  absolutely
@@ -3378,8 +2609,7 @@ and  the  child  has  not  to  change  his  division  on  adoption.  In
 the  other  form  a  man  adopts  a  child  of  his  own  division  and
 consequently  the  child  has  to  change  its  veve.  An  adopted
 man  is  thus  compelled  to  marry  a  woman  of  the  same  division
-as  that  in  which  he  had  been  born  and  the  possible  awkward-
-ness of  this  makes  this  second  form  of  adoption  very  unpopular.
+as  that  in  which  he  had  been  born  and  the  possible  awkwardness of  this  makes  this  second  form  of  adoption  very  unpopular.
 In  the  first  form  there  can  be  no  danger  of  a  consanguineous
 marriage.  In  the  second  there  may  be  such  danger  and  if
 a  marriage  of  this  kind  is  projected  the  relatives  of  the  girl
@@ -3414,8 +2644,6 @@ sleep  and  got  up  in  the  middle  of  the  night  to  recover  their
 child.  The  father  went  to  the  house  to  which  his  child  had
 been  taken,  found  the  new  mother  sound  asleep  and  carried
 
-
-54  Melanesian  Society
 
 off  the  child.  The  loss  was  first  discovered  by  the  adoptive
 father  who  woke  up  and,  finding  the  child  had  gone,  went  to
@@ -3458,8 +2686,7 @@ boy  to  come  back  to  them.  Recently  the  sister  of  the  father
 has  been  accused  of  telling  the  boy  his  real  parentage  and  the
 people  concerned  are  continually  at  loggerheads  about  the
 matter.  In  this  case  the  following  difficulties  stand  in  the  way
-of  recovering  the  child.  The  adopting  father  has  been  respon-
-sible for  the  initiation  of  the  boy  into  the  Stikive  and  when
+of  recovering  the  child.  The  adopting  father  has  been  responsible for  the  initiation  of  the  boy  into  the  Stikive  and  when
 some  of  the  boy's  sogoi  were  initiated  the  adopting  father  gave
 money  to  the  boy  to  contribute  {tnaiegae)  for  them.     Further,
 
@@ -3495,8 +2722,7 @@ Property  and  Inheritance.
 The  mode  of  inheritance  of  land  in  the  Banks  Islands
 has  been  briefly  described  by  Dr  Codrington^  who  brings  out
 clearly  the  distinction  between  ancient  hereditary  cultivated
-ground  which  goes  to  the  sister's  son  and  land  recently  re-
-claimed from  the  bush  which  is  inherited  by  the  children  of
+ground  which  goes  to  the  sister's  son  and  land  recently  reclaimed from  the  bush  which  is  inherited  by  the  children  of
 the  man  who  has  cleared  it.  He  also  points  out  that  the
 property  in  trees,  which  may  be  distinct  from  that  in  the  land
 on  which  they  stand,  also  goes  to  the  children  of  the  planter.
@@ -3508,15 +2734,11 @@ by  taking  concrete  examples  of  what  had  happened  in  the  cases
 of  certain  plots  of  land,  but  I  was  unfortunately  only  able  to
 work  out  one  such  example  and  that  not  completely.  Since,
 however,  that  single  instance  brought  out  several  features  of
-interest,  I  propose  to  record  it  here  in  spite  of  its  imperfec-
-tions, especially  because  it  seems  to  me  to  furnish  an  excellent
+interest,  I  propose  to  record  it  here  in  spite  of  its  imperfections, especially  because  it  seems  to  me  to  furnish  an  excellent
 example  of  the  genealogical  method.  The  land  in  question
 was  cleared  by  Takwale  (see  pedigree  I  on  p.   27)  and  his
 
 1  M.,  63.
-
-
-56
 
 
 Melanesian  Society
@@ -3528,8 +2750,7 @@ follow  out  the  fate  of  the  portion  which  was  taken  by  Takwale,
 and  my  account  will  deal  only  with  this.  As  the  children  of
 Takwale  were  born  the  land  was  portioned  out,  a  plot  being
 planted  for  each.  This  in  accordance  with  the  usual  custom
-was  done  by  the  father  who,  as  he  planted  the  plot  he  pro-
-posed to  assign  to  the  child,  carried  the  latter  on  his  left
+was  done  by  the  father  who,  as  he  planted  the  plot  he  proposed to  assign  to  the  child,  carried  the  latter  on  his  left
 shoulder.  If  it  is  wished  to  plant  land  for  a  son  who  is
 grown  up,  the  father  will  plant  with  his  son  walking  behind
 him  and  putting  his  right  hand  on  his  father's  left  shoulder.
@@ -3547,8 +2768,7 @@ planted  when  he  was  young  so  that
 he  was  carried  on  the  shoulder  of
 Takwale  and  his  portion  was  in  one
 corner  as  shown  in  Fig.  i.  When
-the  next  child  was  born  the  adjoin-
-ing plot  was  planted  for  him  ;  his
+the  next  child  was  born  the  adjoining plot  was  planted  for  him  ;  his
 portion  was  large,  larger  than  that
 of  any  of  the  rest  and  therefore  he
 was  called  Rivlava  {I'iv,  plant  and
@@ -3556,8 +2776,7 @@ lava,  large).  The  rest  of  this  strip
 was  planted  for  the  next  child,  a  girl
 named  Tapermaro.  The  next  strip
 was  planted  in  three  plots  for  three
-children  whose  names  were  not  ob-
-tained. The  first  part  of  a  third
+children  whose  names  were  not  obtained. The  first  part  of  a  third
 strip  was  planted  for  the  youngest
 son,  Matthias,  who  is  still  alive  and
 the  rest  was  left  common  to  the
@@ -3575,11 +2794,6 @@ Rivlava
 Taper-
 -maro
 
-9
-
-9
-
-9
 
 Matthias
 
@@ -3600,8 +2814,7 @@ I
 Inheritance  of  Land  57
 
 the  answer  would  be,  "It  belongs  to  Leveveg  with  his
-father,"  while  if  the  question  was  about  the  unallotted  por-
-tion they  would  say,  "It  is  the  property  of  our  father,"
+father,"  while  if  the  question  was  about  the  unallotted  portion they  would  say,  "It  is  the  property  of  our  father,"
 and  when  the  further  question,  "In  common  with  whom?"
 received  the  answer,  "In  common  with  no  one,"  the  status
 of  the  land  would  be  clear  to  the  questioner.  When  Takwale
@@ -3644,8 +2857,6 @@ from  his  adoptive  father  and  if  they  wanted  part  of  it  for  a
 yam-garden,  they  could  have  it.     John's  son  could  also  take
 
 
-58  Melanesian  Society
-
 coconuts  from  the  garden  but  his  wife  would  not  be  allowed
 to  do  so.
 
@@ -3658,8 +2869,7 @@ he  returns  to  Mota,  he  will  take  three-quarters  of  the  plot,
 Robert  keeping  the  remainder.  The  fourth  plot  now  belongs
 to  Mary,  the  granddaughter  of  Takwale,  but  as  she  is  very  old
 and  her  daughter  Bessie  far  away,  the  plot  is  used  by  Robert.
-Most  of  the  fifth  plot  now  belongs  to  Patteson,  the  great-
-grandson  of  Takwale,  but  part  of  it  is  owned  by  Robert,  this
+Most  of  the  fifth  plot  now  belongs  to  Patteson,  the  greatgrandson  of  Takwale,  but  part  of  it  is  owned  by  Robert,  this
 land  having  been  taken  as  a  return  for  certain  money  given
 to  Patteson  to  enable  him  to  pay  money  to  the  surviving
 relatives  of  his  mother  when  the  latter  died,  the  claim  of  the
@@ -3680,8 +2890,7 @@ regard  as  a  distant  relative  on  account  of  a  relationship  of  a
 peculiar  kind  set  up  between  his  father  and  the  relative  in
 question.  We  have  here  a  striking  example  showing  that
 even  these  anomalous  terms  of  relationship  are  not  merely
-titles  but  carry  with  them  very  definite  duties  and  responsi-
-bilities.
+titles  but  carry  with  them  very  definite  duties  and  responsibilities.
 
 The  common  patch  left  after  the  children  of  Takwale  had
 received  their  portions  is  still  common  and  is  used  by  all  the
@@ -3695,8 +2904,7 @@ on  the  land  of  a  man  to  whom  he  is  unrelated.     In  such  a  case
 
 Inheritance  59
 
-the  planter  uses  the  produce  of  the  tree  but  he  can  only  trans-
-mit his  rights  in  the  tree  to  his  son  if  the  latter  pays  money  to
+the  planter  uses  the  produce  of  the  tree  but  he  can  only  transmit his  rights  in  the  tree  to  his  son  if  the  latter  pays  money  to
 the  owner  of  the  land  when  his  father  dies.  If  he  does  not  do
 so,  the  tree  becomes  the  property  of  the  owner  of  the  land  on
 which  it  stands.  Sometimes  a  man  pays  this  money  during
@@ -3753,8 +2961,7 @@ be  performed  by  the  sister's  son  in  case  he  inherited.
 The  gamal  or  club-house  of  a  village  usually  or  often  has
 an  individual  owner  and  this  is  certainly  so  when  the  man  by
 whom  a  village  has  been  founded  is  known,  the  gamal  then
-belonging  to  one  of  the  descendants.  In  this  case  the  inheri-
-tance is  to  brother  or  sister's  son  rather  than  to  child  and  in  the
+belonging  to  one  of  the  descendants.  In  this  case  the  inheritance is  to  brother  or  sister's  son  rather  than  to  child  and  in  the
 only  case  of  which  I  have  a  record  the  gamal  was  inherited
 by  a  brother.  A  gamal  belonging  to  Rivlava  was  inherited
 at  his  death  by  Matthias,  his  only  surviving  brother,  and  not
@@ -3779,11 +2986,9 @@ societies  which  meet  in  the  bush  and  are  sometimes  known  as
 "the  Sukwe  of  the  bush."
 
 Dr  Codrington  has  given  an  account^  of  these  two  branches
-of  the  organisation  considering  them  as  two  separate  institu-
-tions, the  club  and  the  secret  society.  The  description  which
+of  the  organisation  considering  them  as  two  separate  institutions, the  club  and  the  secret  society.  The  description  which
 follows  must  be  taken  as  an  expansion  of  his  account  in  which
-certain  features  are  treated  in  greater  detail.  The  most  im-
-portant modification  is  that  a  definite  connection  will  be
+certain  features  are  treated  in  greater  detail.  The  most  important modification  is  that  a  definite  connection  will  be
 shown  to  exist  between  the  two  organisations  which  were
 supposed  by  Dr  Codrington  to  be  separate  institutions.
 
@@ -3791,12 +2996,10 @@ Before  considering  these  organisations  in  detail,  a  short
 general  account  of  them  may  be  given.
 
 In  every  village  of  the  Banks  Islands  there  is  a  building
-called  the  gamal,  which  is  used  (except  on  very  special  occa-
-sions) by  men  only,  and  it  is  in  this  building  only  that  men
+called  the  gamal,  which  is  used  (except  on  very  special  occasions) by  men  only,  and  it  is  in  this  building  only  that  men
 sleep  and  take  their  food.  In  the  last  chapter  I  have  spoken
 of  it  as  a  club-house,  the  Sukwe  being  regarded  as  a  man's
-club.  Within,  each  gamal  is  divided  into  a  number  of  com-
-partments, often  only  separated  by  logs  on  the  ground,  and
+club.  Within,  each  gamal  is  divided  into  a  number  of  compartments, often  only  separated  by  logs  on  the  ground,  and
 each  of  these  compartments  is  connected  with  a  division  or
 rank  of  the  organisation  of  the  Sukwe.  These  divisions  vary
 in  number,  chiefly  owing  to  the  fact  that  in  many  villages  there
@@ -3806,8 +3009,7 @@ in  number,  chiefly  owing  to  the  fact  that  in  many  villages  there
 
 62  Afelanesian  Society
 
-is  no  one  who  has  attained  the  higher  ranks  of  the  organisa-
-tion. Each  compartment  of  the  gamal  possesses  an  oven  and
+is  no  one  who  has  attained  the  higher  ranks  of  the  organisation. Each  compartment  of  the  gamal  possesses  an  oven  and
 it  is  at  the  fires  of  these  ovens  that  the  food  of  the  men  is
 prepared  on  important  occasions.
 
@@ -3849,8 +3051,7 @@ these  images  being  called  in  general  tamate.
 
 Dr  Codrington  gives  Rurzvon  as  the  lowest  rank,  but  this
 is  said  to  have  long  disappeared  everywhere.  He  also  gives
-four  ranks  above  Wometeloa,  viz.  Welgan,  Wesukut,  IVetaur-
-o-meligo  and  Tikivangivono,  but  these  seem  also  to  have
+four  ranks  above  Wometeloa,  viz.  Welgan,  Wesukut,  IVetauro-meligo  and  Tikivangivono,  but  these  seem  also  to  have
 disappeared,  at  any  rate  in  Mota.
 
 
@@ -3901,15 +3102,12 @@ introducer,  knowing  that  he  will  thereby  have  to  spend  a  large
 sum  of  money.  Even  in  cases  where  the  initiate  and  his  family
 are  rich,  it  was  said  to  be  usual  for  the  introducer  to  be  the
 loser  by  his  good  offices.  It  is  not  necessary  to  pass  through
-all  the  ranks  of  the  Sukwe,  beginning  at  the  lowest,  but,  pro-
-vided certain  conditions  are  observed,  initiation  may  take  place
+all  the  ranks  of  the  Sukwe,  beginning  at  the  lowest,  but,  provided certain  conditions  are  observed,  initiation  may  take  place
 into  any  rank  directly.  These  conditions  are,  hovi^ever,  so
 difficult  of  fulfilment  and  the  expense  would  be  so  great  that
 it  is  customary  for  the  initiate  to  enter  low  down,  though  the
 lowest  or  the  two  lowest  ranks  are  probably  so  often  passed
 
-
-64  Melanesian  Society
 
 over  that  in  many  villages  these  ranks  are  not  represented  in
 the  gantal.
@@ -3917,14 +3115,12 @@ the  gantal.
 There  is  one  most  important  limitation  on  entrance  into
 the  higher  ranks.  No  one  can  pass  beyond  the  rank  of
 Ta7natsiria  without  having  first  been  initiated  into  the  Tamate
-society  called  Tamate  Izwoa,  this  being  one  of  the  most  de-
-finite indications  of  the  connection  between  the  Sukwe  of  the
+society  called  Tamate  Izwoa,  this  being  one  of  the  most  definite indications  of  the  connection  between  the  Sukwe  of  the
 gamal  and  these  societies.
 
 The  Ceremony  of  Initiation.
 
-In  passing  on  to  describe  the  process  of  initiation,  I  pro-
-pose to  take  a  real  case  as  the  basis  of  my  account,  viz.,  that
+In  passing  on  to  describe  the  process  of  initiation,  I  propose to  take  a  real  case  as  the  basis  of  my  account,  viz.,  that
 of  my  informant  John  Pantutun  introducing  his  sister's  son,
 Mark\  to  the  rank  of  Kwatagiav.  One  day  John  would  say
 to  Mark,  "I  will  now  make  you  stikwe,"  the  last  word  being
@@ -3941,8 +3137,7 @@ smack  {wusulie)  the  pig  on  the  back,  a  man  standing  by  saying,
 "Let  Mark  now  smack  the  pig  for  Kwatagiav.''  The  pig  then
 becomes  the  property  of  John.  If  Mark  has  plenty  of  money
 the  initiation  may  proceed  at  once,  but  more  usually  there  is
-now  a  long  interval  to  allow  the  initiate  to  collect  the  neces-
-sary sum.
+now  a  long  interval  to  allow  the  initiate  to  collect  the  necessary sum.
 
 For  initiation  into  Kwatagiav  it  was  said  that  the  sum
 which  the  candidate  himself  should  produce  is  60  fathoms,
@@ -3990,13 +3185,11 @@ this  is  done.  Later  in  the  night  when  the  fires
 are  no  longer  blazing,  the  men  will  make  a  noise
 with  the  instrument  called  iiteretang,  consisting  of  a
 leaf  acting  as  a  reed  between  the  two  parts  of  a  bent
-piece  of  wood.  A  piece  of  wood  so  used  is  illus-
-trated in  Fig.  2,  the  two  ends  being  tied  together  with
+piece  of  wood.  A  piece  of  wood  so  used  is  illustrated in  Fig.  2,  the  two  ends  being  tied  together  with
 a  piece  of  grass.  All  those  initiated  in  the  ikeretang^
 go  to  a  place  by  themselves  in  one  part  of  the
 gamal  in  order  to  make  the  noise  and  at  the  same
-time  others  will  blow  conch-shells  and  make  a  whist-
-ling sound  with  dracaena  leaves.  After  a  time  this
+time  others  will  blow  conch-shells  and  make  a  whistling sound  with  dracaena  leaves.  After  a  time  this
 noise  ceases  and  there  is  perfect  silence;  no  one  will
 move  about  except  those  belonging  to  Kwatagiav
 who  will  sit  down  by  the  cycas  tree  at  the  door  of  ,  ^.•'
@@ -4011,10 +3204,7 @@ R.  M.  s.  S
 1'
 
 
-66  Melanesian  Society
-
-takes  up  the  end  of  one  piece  of  money  and  John,  his  in-
-troducer, says  to  the  first  man,  "X,  Mark  eats  Kwatagiav
+takes  up  the  end  of  one  piece  of  money  and  John,  his  introducer, says  to  the  first  man,  "X,  Mark  eats  Kwatagiav
 to  you,"  and  gives  to  him  his  half-fathom,  and  this  is
 repeated  with  the  other  men,  each  man  receiving  his  piece
 of  money.  The  special  pudding  is  now  brought  which  so  far
@@ -4051,8 +3241,7 @@ if  he  is  not  married,  his  mother  would  take  her  place.  The
 relatives  of  the  wife  would  give  her  at  least  forty  fathoms,  the
 first  four  fathoms  would  be  stretched  on  the  ground  and  the
 rest  wound  round  it  and  then  Mark  would  take  up  the  money
-and  bring  it  into  the  gamal.  Then  would  begin  the  distribu-
-tion to  the  members.  Mark  would  put  two  sticks  in  the  ground
+and  bring  it  into  the  gamal.  Then  would  begin  the  distribution to  the  members.  Mark  would  put  two  sticks  in  the  ground
 six  fathoms  apart  and  would  wind  ten  coils  round  these,  thus
 making  1 20  fathoms.    While  the  money  is  lying  on  the  ground
 
@@ -4060,8 +3249,7 @@ making  1 20  fathoms.    While  the  money  is  lying  on  the  ground
 Initiation  67
 
 a  man  important  in  the  Sukwe  stands  within  the  gamal  and
-blows  a  conch-shell  as  before,  three  continuous  and  two  inter-
-rupted blasts,  and  at  this  signal  Mark  takes  up  the  end  of  the
+blows  a  conch-shell  as  before,  three  continuous  and  two  interrupted blasts,  and  at  this  signal  Mark  takes  up  the  end  of  the
 money  and  another  important  member  of  the  Sukwe  says  to
 John,  "John,  let  Mark  now  give  you  your  money."  Mark
 puts  the  end  down  and  John  takes  the  money  which  is  now
@@ -4077,8 +3265,7 @@ general  population  is  cooked  in  this  but  the  food  for  the  men
 who  are  members  of  the  Sukwe  is  cooked  in  the  ovens  of  the
 gamal.  In  the  case  of  an  initiation  into  one  division  the  ovens
 of  the  divisions  below  this  are  not  used.  It  was  found  very
-difficult  to  understand  the  exact  nature  of  the  financial  trans-
-actions. It  was  said  that  the  introducer  usually  lost  money,
+difficult  to  understand  the  exact  nature  of  the  financial  transactions. It  was  said  that  the  introducer  usually  lost  money,
 but  from  the  foregoing  account  it  would  seem  that  he  has
 only  to  pay  as  many  fathoms  as  there  are  people  present.  On
 the  other  hand  he  was  said  to  have  received  in  this  special
@@ -4107,8 +3294,6 @@ is  far  from  exhausting  the  financial  transactions  connected  with  initia
 5—2
 
 
-68  Melanesian  Society
-
 For  Tamatsiria  each  man  puts  down  two  fathoms  and  has
 another  two  fathoms  added  to  it.
 
@@ -4129,11 +3314,9 @@ that  each  man  receives  seven  fathoms  from  the  introducer.
 The  distribution  to  the  whole  island  is  called  sar\  the  first
 giving  of  five  fathoms  to  the  people  of  the  initiate's  own
 village  is  called  ul  lokwamal\  the  second  distribution  of
-one  fathom  is  maniligoligo  and  the  third  distribution  is  rkani-
-ganga7i.
+one  fathom  is  maniligoligo  and  the  third  distribution  is  rkaniganga7i.
 
-The  special  feature  of  all  these  distributions  is  that  some-
-thing is  given  to  be  received  back  with  addition.  The  giving
+The  special  feature  of  all  these  distributions  is  that  something is  given  to  be  received  back  with  addition.  The  giving
 is  called  veni  and  it  is  the  receiving  back  which  is  sar.
 
 The  introducer  is  usually  of  the  same  veve  as  the  initiate
@@ -4144,11 +3327,9 @@ The  foregoing  account,  given  to  me  by  John  Pantutun,
 applies  to  the  island  of  Mota.  It  is  not  based  on  actual
 observation.
 
-I  am  indebted  to  Mr  Durrad  for  the  account  of  the  cere-
-monial attending  the  taking  of  a  step  to  one  of  the  higher  ranks
+I  am  indebted  to  Mr  Durrad  for  the  account  of  the  ceremonial attending  the  taking  of  a  step  to  one  of  the  higher  ranks
 of  the  Sukwe,  viz.  the  passing  of  a  "chief"  of  Vanua  Lava,
-Charles  Wunau  (see  PI.  Ill,  Fig.  2),  from  the  rank  oi Kworo-
-kworolava  to  Wometeloa,  which  took  place  at  the  village  of
+Charles  Wunau  (see  PI.  Ill,  Fig.  2),  from  the  rank  oi Kworokworolava  to  Wometeloa,  which  took  place  at  the  village  of
 Vatrata.  At  the  time  Charles  was  the  person  of  highest  rank
 in  the  village  and  as  there  had  been  no  one  there  belonging  to
 any  rank  above  Kworokworolava,  the  upper  end  of  the  gamal
@@ -4158,9 +3339,6 @@ at  present  in  this  gamal  is  Avtagataga  and  the  other  ranks
 present  are  shown  in  the  plan  of  Fig.  3.     Vatrata  is  a  small
 
 
-69
-
-
 IVo/v/i
 
 
@@ -4168,7 +3346,6 @@ M
 
 
 X
-5
 
 
 V
@@ -4184,7 +3361,6 @@ s
 X
 
 
-7
 X
 
 
@@ -4243,8 +3419,6 @@ came  through  the  wood  into  the  village.  The  gamal  is  on  a  larger  sc
 the  rest  of  the  figure  and  shows  the  ranks  now  in  existence  at  Vatrata.
 
 
-70  Melanesian  Society
-
 village  which  only  possesses  one  house  belonging  to  Charles
 Wunau  in  addition  to  the  gamal.  The  whole  village  lies  in  a
 hollow  of  the  hills,  sloping  down  to  the  shore.  The  gamal  is
@@ -4257,10 +3431,8 @@ side  of  this,  as  shown  in  the  figure,  was  a  large  drum  laid  on
 the  ground.
 
 The  man  who  was  acting  as  introducer  or  was  "making
-the  Sukwe  "  was  Abraham,  an  old  man  of  the  rank  of  Wome-
-teloa, who  came  from  another  village.  When  Mr  Durrad
-arrived  the  pigs  had  already  been  handed  over  and  the  pay-
-ments of  money  were  being  made.  Many  people  were
+the  Sukwe  "  was  Abraham,  an  old  man  of  the  rank  of  Wometeloa, who  came  from  another  village.  When  Mr  Durrad
+arrived  the  pigs  had  already  been  handed  over  and  the  payments of  money  were  being  made.  Many  people  were
 assembled  and  were  watching  the  money  being  given  to
 Charles  Wunau,  who  was  standing  in  the  centre  of  the  open
 space  m  front  of  his  house.  As  people  gave  the  strings  of
@@ -4271,8 +3443,7 @@ that  the  payment  was  being  made  as  a  return  for  food  which
 Charles  had  given  on  some  previous  occasion,  the  leaves  being
 either  of  the  yam  or  coconut  according  to  the  nature  of  the
 gift.  The  last  person  to  present  money,  a  man  named  Jimmie,
-whom  Charles  called  mak  (father),  stood  for  some  time  explain-
-ing the  nature  of  his  payment.  He  was  giving  five  fathoms
+whom  Charles  called  mak  (father),  stood  for  some  time  explaining the  nature  of  his  payment.  He  was  giving  five  fathoms
 on  his  own  account  and  another  five  on  behalf  of  his  daughter
 who  was  dead.  When  the  payments  were  finished  the  basket
 containing  the  money  was  taken  into  the  house.  About  sunset
@@ -4281,8 +3452,7 @@ some  other  men  in  his  house,  in  other  parts  of  which  women
 were  grating  nuts  for  puddings.  Two  pegs  a  fathom  apart
 were  stuck  in  the  ground  forming  the  floor  of  the  house,  the
 distance  being  carefully  measured  by  a  measuring  stick  that
-lay  handy.  The  basket  of  money  was  brought  and  the  dif-
-ferent lengths  of  money  were  strung  together.  Starting  from
+lay  handy.  The  basket  of  money  was  brought  and  the  different lengths  of  money  were  strung  together.  Starting  from
 one  peg  the  whole  string  was  wound  round  and  round  the  two
 pegs  till  twenty  fathoms  had  been  measured  off.  The  string
 was  then  cut  and  the  end  fastened  with  a  knot  to  prevent  the
@@ -4292,8 +3462,7 @@ laid  in  a  basket.      It  was  found  that  144  fathoms  had  been
 
 Contributions  71
 
-presented  during  the  afternoon.  Charles  Wunau  then  pro-
-duced 46  fathoms  of  his  own  money  which  was  added  to  what
+presented  during  the  afternoon.  Charles  Wunau  then  produced 46  fathoms  of  his  own  money  which  was  added  to  what
 remained  of  the  contributed  money  and  measured  off.  Ten
 more  fathoms  were  still  wanted,  for  Abraham,  the  old  man
 who  was  "  making  the  Sukwe"  required  two  hundred.  When
@@ -4337,14 +3506,11 @@ wife's  mother's  sister  (one  fathom)  and  the  husband  of  the
 daughter  (12  fathoms).     It  is  thus  seen  that  most  of  the  near
 
 
-72  Melanesian  Society
-
 relatives  who  contributed  did  not  belong  to  the  veve  of  Charles
 but  to  that  of  his  father.  So  far  as  can  be  judged  from  this
 example  the  contributions  come  chiefly  from  distant  relatives
 and  from  those  of  the  opposite  veve  and  it  is  probable  that
-every  contribution  is  a  return  for  money  or  food,  etc.,  pre-
-viously given  by  Charles  to  the  donors  or  their  families.
+every  contribution  is  a  return  for  money  or  food,  etc.,  previously given  by  Charles  to  the  donors  or  their  families.
 Thus  the  duty  of  supplying  money  does  not  seem  to  fall  to
 the  sogoi  of  an  initiate  but  to  those  who  have  previously  been
 indebted  to  him,  and  this  example  seems  to  indicate  that  these
@@ -4355,8 +3521,7 @@ people  who  contributed  the  last  ten  fathoms  required  to  make  ]
 
 up  the  amount  only  three  were  near  relatives,  the  father,  the
 sister's  husband  and  the  daughter's  husband,  so  that  even  in
-these  payments  which  were  apparently  not  in  return  for  pre-
-vious benefits,  the  supply  came  from  persons  of  the  other  veve.
+these  payments  which  were  apparently  not  in  return  for  previous benefits,  the  supply  came  from  persons  of  the  other  veve.
 None  of  the  men  who  assisted  in  other  parts  of  the  ceremony  |
 
 were  nearly  related  to  Charles.  i
@@ -4377,8 +3542,7 @@ lighted  in  the  Tavatsukwe  division  and  was  heating  the  oven
 of  stones.  At  midnight  when  the  dance  was  finished,  the  fire
 was  raked  out  and  the  oven  filled  with  a  large  pile  of  food,  and
 all  went  to  sleep,  Mr  Durrad  occupying  the  new  division  of
-Wometeloa  while  Charles  Wunau  slept  in  the  adjoining  divi-
-sion of  Kworokworolava  separated  from  Wometeloa  by  a  row
+Wometeloa  while  Charles  Wunau  slept  in  the  adjoining  division of  Kworokworolava  separated  from  Wometeloa  by  a  row
 of  stones.
 
 On  the  following  morning  at  six  o'clock  the  oven  was
@@ -4405,10 +3569,8 @@ had  assisted  in  making  the  decorations.
 
 About  9  a.m.  the  dancing  ground  was  swept  clean  by  some
 women  and  an  hour  later  the  arrival  of  a  dancing  party  from
-a  neighbouring  village,  twenty  or  thirty  in  number,  was  an-
-nounced. The  people  were  said  to  be  "  bringing  the  drum,"
-which  meant  that  they  were  coming  to  dance  to  the  accompani-
-ment of  the  large  drum  already  mentioned,  not  that  they  were
+a  neighbouring  village,  twenty  or  thirty  in  number,  was  announced. The  people  were  said  to  be  "  bringing  the  drum,"
+which  meant  that  they  were  coming  to  dance  to  the  accompaniment of  the  large  drum  already  mentioned,  not  that  they  were
 actually  bringing  a  drum  with  them.  Amid  perfect  silence  on
 the  part  of  the  Vatrata  people  the  party  approached  in  single
 file  from  the  wood  below  the  village,  three  men  who  were  "the
@@ -4417,15 +3579,13 @@ at  the  drum  and  the  rest  of  the  party  ranged  themselves  in
 front  of  and  around  the  drum,  squatting  in  a  crouching  posture
 (see  PI.  IV).  Each  man  carried  in  his  right  hand  a  bow  and
 arrow  and  in  his  left  a  handful  of  broken  leaves.  Some  of  the
-men  had  their  hair  dressed  flat  on  either  side  and  all  were  de-
-corated with  hibiscus  blossoms,  with  sprigs  of  scented  leaves
+men  had  their  hair  dressed  flat  on  either  side  and  all  were  decorated with  hibiscus  blossoms,  with  sprigs  of  scented  leaves
 in  their  armlets  while  some  had  fillets  round  their  heads.  At
 a  signal  the  drum  began  and  every  man  rose  at  the  instant,
 threw  up  the  broken  leaves  which  rained  down  upon  them  and
 brandishing  aloft  their  bows  and  arrows,  the  men  gave  a  shout
 and  began  to  sing,  stamping  rapidly  with  the  feet  in  rhythm
-with  the  song.  Beyond  the  stamping  which  somewhat  re-
-sembled "marking  time"  there  was  little  movement,  but  now
+with  the  song.  Beyond  the  stamping  which  somewhat  resembled "marking  time"  there  was  little  movement,  but  now
 and  then  they  would  open  out  and  then  close  up  again.  Two
 singers  sang  together  one  part  of  the  song  in  an  alto,  then  the
 rest  sang  in  a  rather  lower  key,  the  spreading  out  taking  place
@@ -4434,8 +3594,6 @@ paused  to  rest  and  after  several  periods  of  dancing,  seven
 men  with  conch-shells  assembled  in  the  Wometeloa  division
 of  the  ga?nal  and  blew  together,  two  long  and  two  short  blasts.
 
-
-74  Melanesian  Society
 
 As  they  blew  Charles  Wunau,  who  had  painted  his  legs  red,
 ran  leaping  out  of  his  house  to  the  dancing  ground.  In  his
@@ -4447,13 +3605,11 @@ in  various  leaves,  which  is  supposed  to  possess  virtue  for
 increasing  wealth.  Mr  Durrad  writes,  "it  would  be  difficult
 to  exaggerate  the  dramatic  effect  of  the  scene.  The  sun  now
 high  up  shone  upon  the  gaily  decorated  dancers  grouped  in
-close  formation  round  the  drum  whose  booming  roll  accom-
-panied the  shouted  chorus  and  the  trumpet  blasts,  while  in
+close  formation  round  the  drum  whose  booming  roll  accompanied the  shouted  chorus  and  the  trumpet  blasts,  while  in
 the  open  space  was  the  tall  athletic  figure  of  Charles  Wunau
 dancing  by  himself."
 
-After  dancing  for  about  five  minutes  Charles  put  the  mea-
-suring rods  against  the  thatch  of  the  house  and  went  to  bring
+After  dancing  for  about  five  minutes  Charles  put  the  measuring rods  against  the  thatch  of  the  house  and  went  to  bring
 three  stout  pointed  posts  (nos.  i,  2,  3  in  the  plan  of  the  village.
 Fig.  3),  which  he  stuck  in  the  ground  in  a  row  on  one  side  of
 the  dancing  ground,  the  posts  being  about  four  feet  apart.
@@ -4486,9 +3642,6 @@ Charles  again  took  the  measuring  rods  and  danced.     A  man
 Plate  IV
 
 
-3
-
-
 Dance  75
 
 then  brought  out  three  more  pigs  and  tied  two  to  the  stakes
@@ -4508,8 +3661,7 @@ them  two  fathoms  and  he  received  the  other  two  fathoms  as
 interest  on  his  outlay.  Then  Charles  took  up  the  measuring
 rods  and  danced  again.
 
-While  this  was  going  on  the  dancers  had  also  been  per-
-forming and  they  now  called  for  water  which  was  brought  to
+While  this  was  going  on  the  dancers  had  also  been  performing and  they  now  called  for  water  which  was  brought  to
 them  and  two  women  appeared  at  the  door  of  the  house
 carrying  a  large  pudding  on  a  dish.  Some  of  the  party  danced
 up  and  down  and  took  the  dish  from  them  and  returned  with
@@ -4537,8 +3689,6 @@ on  the  back,  speaking  to  Charles  as  he  did  so,  and  then  both
 1  For  an  account  of  a  speech  made  on  a  similar  occasion,  see  Codrington's
 M.,  109.
 
-
-76  Melanesian  Society
 
 danced  again.  Then  Abraham  fitted  his  arrow  to  the  string
 of  his  bow  and  drew  his  bow  to  shoot  the  pig  no.  9,  but  Charles
@@ -4569,8 +3719,7 @@ the  backs  of  the  pigs  in  succession  one  after  the  other.  Then
 there  was  a  pause  in  the  dance  and  when  it  began  once  more
 the  conch-shells  were  blown  again,  and  Charles  and  Alfred
 touched  the  baskets  of  money  and  Charles  laid  down  the
-measuring  rods  upon  the  baskets.  At  this  stage  the  conch-
-shells  were  handed  into  the  gamal,  but  probably  by  mistake,
+measuring  rods  upon  the  baskets.  At  this  stage  the  conchshells  were  handed  into  the  gamal,  but  probably  by  mistake,
 for  they  were  at  once  passed  out  again  and  blown  while
 Charles  brought  out  another  pig  and  handed  it  by  the  thong
 to  Abraham  and  then  danced  again  with  the  jawbone  in  his
@@ -4594,8 +3743,7 @@ the  village  and  those  of  the  dancing  party  sat  about  the  village
 near  the  lower  end  of  the  gamal  and  ate  the  food  which  had
 been  cooked  in  the  Tavatsukwe  division.
 
-On  the  evening  of  this  day  the  trees  which  had  been  pre-
-pared and  painted  red  in  the  morning  would  be  set  up.  When
+On  the  evening  of  this  day  the  trees  which  had  been  prepared and  painted  red  in  the  morning  would  be  set  up.  When
 this  is  done  all  the  women  leave  the  village  and  the  men  play
 the  meretang  and  six  conch-shells  are  blown,  with  two  short
 and  two  long  blasts.  The  cycas  trees  are  planted  near  the
@@ -4649,9 +3797,6 @@ every  land.
 '  This  refers  to  the  man  and  his  son.
 
 
-78
-
-
 Melanesian  Society
 
 
@@ -4685,8 +3830,7 @@ iuwali.
 Iroteme  ve  tu  ler  na.
 Nau  rembi  gar  tur;   na  voluk  vasi.
 
-Navoluk  Wegamal  niik ;  nike  ve  tang-
-tang  rit  goro  na  me  le  ti.
+Navoluk  Wegamal  niik ;  nike  ve  tangtang  rit  goro  na  me  le  ti.
 
 Vetameni  nasak
 
@@ -4747,8 +3891,7 @@ Has  disputed  the  law  to  me,
 Has  disputed  over  the  land  that  has
 
 fallen  to  my  lot.
-I  am  a  floating  cloud;  I  have  wan-
-dered hither  to  you.
+I  am  a  floating  cloud;  I  have  wandered hither  to  you.
 Howl.     My   voice   has   reached   the
 
 shore.
@@ -4789,8 +3932,7 @@ time  to  its  owner.  It  was  said  that  every  man  must  have  a
 song,  for  the  nature  of  his  reception  after  death  by  the  ghosts
 of  the  dead  will  depend  on  whether  he  has  a  song  or  not.
 
-While  singing  at  a  dance  there  is  a  good  deal  of  gesticula-
-tion. At  every  mention  of  money  the  singers  touch  the  left
+While  singing  at  a  dance  there  is  a  good  deal  of  gesticulation. At  every  mention  of  money  the  singers  touch  the  left
 forearm  with  the  right  forefinger ;  when  clouds,  rain  or  sun  are
 mentioned  the  right  hand  is  lifted  above  the  head ;  at  any
 mention  of  shooting  the  people  bend  the  arms  as  if  drawing
@@ -4804,18 +3946,15 @@ Mota  I  was  told  that  the  ceremony  of  eating  by  the  side
 of  a  cycas  tree  took  place  for  every  step  in  the  Sukwe.  It  is
 probable  that  the  ceremony  by  the  side  of  the  cycas  tree  had
 already  taken  place  before  Mr  Durrad  arrived,  having  been
-performed  as  in  Mota  during  the  night  preceding  the  distri-
-bution of  money.
+performed  as  in  Mota  during  the  night  preceding  the  distribution of  money.
 
 In  Saddle  Island  or  Motlav  I  was  told  of  a  special  feature
 of  the  initiation  into  Avtagataga,  and  this  probably  also  happens
-in  Mota  and  other  islands  of  the  Banks  group.  In  the  follow-
-ing account  the  terms  given  are  those  of  Motlav.  The  cere-
+in  Mota  and  other  islands  of  the  Banks  group.  In  the  following account  the  terms  given  are  those  of  Motlav.  The  cere-
 mony is  performed  in  the  village  when  the  sun  is  setting.  The
 people  gather  in  the  open  space  of  the  village  where  mats  are
 spread.  In  the  old  days  the  initiation  and  these  ceremonies
-would  always  take  place  during  childhood  and  I  therefore  as-
-sume that  this  is  so  in  the  following  description.  The  child
+would  always  take  place  during  childhood  and  I  therefore  assume that  this  is  so  in  the  following  description.  The  child
 is  seated  on  one  of  the  mats  and  numerous  women,  it  may  be
 as  many  as  twenty,  who  are  to  take  part,  sit  round  him  on
 
@@ -4840,8 +3979,7 @@ into  the  lower  divisions  up  to  Kwatagiav.  The  child,  now
 called  nat  vuhe  rau,  is  left  in  the  gamal  for  five  days,  being
 given  mats  on  which  to  sleep  and  at  the  end  of  this  time  he
 would  kole^.  The  child  would  be  painted  on  face  and  body
-with  red  and  black  stripes,  the  person  who  paints  him  re-
-ceiving a  fathom  of  money.  When  the  child  comes  out  of
+with  red  and  black  stripes,  the  person  who  paints  him  receiving a  fathom  of  money.  When  the  child  comes  out  of
 the  gamal  the  chief  men  beat  drums.  Twenty  men  take
 the  boy  to  the  drums  and  each  receives  from  him  a  short
 piece  of  money  called  leme  gambak.  All  the  women  who
@@ -4853,8 +3991,7 @@ The  men  then  go  to  the  gamal  to  make  their  feast  while  the
 women  return  to  feast  in  their  houses.
 
 At  the  present  time  there  are  two  modifications;  it  is  no
-longer  customary  to  be  initiated  in  childhood  and  in  conse-
-quence the  father's  sister  leads  the  initiate  into  the  gamal
+longer  customary  to  be  initiated  in  childhood  and  in  consequence the  father's  sister  leads  the  initiate  into  the  gamal
 instead  of  carrying  him  on  her  back  and  it  is  now  the  custom
 to  stay  only  one  day  in  the  gamal,  this  innovation  being  due
 to  missionary  influence  which  has  been  directed  to  cut  down
@@ -4863,16 +4000,14 @@ possible.
 
 All  the  women  who  have  taken  part  in  this  ceremony  call
 the  child  (or  man)  nat  or  natui,  child,  while  he  calls  them  vev
-or  vev  vuhe  rau  (Motlav)  or  veve  vus  rawe  (Mota),  this  mean-
-ing "mother  strike  (or  kill)  hermaphrodite  pig."     The  child
+or  vev  vuhe  rau  (Motlav)  or  veve  vus  rawe  (Mota),  this  meaning "mother  strike  (or  kill)  hermaphrodite  pig."     The  child
 
 *  See  p.  131.
 
 
 Masks  mtd  Knives  8i
 
-or  man  may  not  marry  any  of  these  women  and  sexual  rela-
-tions between  them  would  be  regarded  very  severely.  It  is
+or  man  may  not  marry  any  of  these  women  and  sexual  relations between  them  would  be  regarded  very  severely.  It  is
 the  duty  of  the  women  to  help  the  man  in  every  way  and  give
 him  food  while  in  return  he  would  respect  and  obey  the  women
 and  would  help  them  in  their  gardens.  The  father's  sister
@@ -4910,23 +4045,16 @@ exists  at  the  present  time.
 
 In  some  islands  knives  of  a  special  form  called  igot  are
 used  to  cut  the  puddings  made  from  breadfruit  or  other
-materials.  These  knives  seem  to  have  been  especially  de-
-veloped in  the  island  of  Ureparapara  and,  with  two  exceptions,
+materials.  These  knives  seem  to  have  been  especially  developed in  the  island  of  Ureparapara  and,  with  two  exceptions,
 all  those  shown  in  PI.  V,  VI  and  VII  come  from  this  island.
 The  exceptions  are  PI.  V,  B  9,  which  is  from  Santa  Maria,  and
-PL  VI,  C  6,  shown  both  in  full  face  and  profile,  the  exact  pro-
-venance of  which  is  unknown.     These  knives,  most  of  which
+PL  VI,  C  6,  shown  both  in  full  face  and  profile,  the  exact  provenance of  which  is  unknown.     These  knives,  most  of  which
 
-R.  M.  S.  "
-
-
-82  Melanesian  Society
 
 were  presented  by  Mr  J.  C.  Palmer  to  the  Cambridge
 Museum,  are  of  two  kinds.  The  upper  part  or  handle  of
 most  of  them  represents  the  human  figure  in  various  degrees
-of  conventionalisation,  while  two,  PI.  VII,  D  i  and  2,  are  de-
-rived from  the  til  or  sword-fish.  Other  examples  illustrated
+of  conventionalisation,  while  two,  PI.  VII,  D  i  and  2,  are  derived from  the  til  or  sword-fish.  Other  examples  illustrated
 by  Mr  Edge-Partington'  are  shown  in  PI.  VII,  E  i — 4.
 
 These  knives,  or  at  any  rate  some  of  them,  are  used
@@ -4936,8 +4064,7 @@ higher  ranks  than  this  ;  B  7,  C  i  and  C  2  and  also  the  larger
 knife  of  the  fish  motive,  D  i,  are  used  by  the  Lano  division
 and  those  of  higher  rank  ;  and  B  i  to  B  5,  A  6  and  C  3  are
 used  by  the  Mwele  rank  and  above.  The  knives  of  the
-Mwele  division  are  said  to  be  distinguished  by  the  fine  serra-
-tions of  the  handle,  and  if  this  is  correct,  A  4  and  A  5  may
+Mwele  division  are  said  to  be  distinguished  by  the  fine  serrations of  the  handle,  and  if  this  is  correct,  A  4  and  A  5  may
 also  be  assigned  to  this  rank.  It  will  be  noticed,  however,
 that  these  serrations  are  also  present  in  C  i  and  in  D  i,
 ascribed  to  the  Lano  rank,  and  round  the  heads  of  A  i,  2
@@ -4958,8 +4085,7 @@ men,  and  at  one  time  only  those  high  in  the  Sukwe,  of  the
 rank  of  Tavatsukive  and  above,  were  allowed  to  drink  it  and
 even  now  those  below  the  rank  of  Tavatsukwe  may  not  drink
 kava  in  the  gamal,  though  they  may  do  so  in  the  salagoro  of
-a  Tamate  society,  where  at  the  present  time  all  ranks  partici-
-pate. When  used  at  the  ga7nal,  it  is  made  and  drunk  either
+a  Tamate  society,  where  at  the  present  time  all  ranks  participate. When  used  at  the  ga7nal,  it  is  made  and  drunk  either
 within  the  building  or  in  its  immediate  neighbourhood.
 
 Women  should  never  drink  kava  or  take  any  part  in  the
@@ -5013,9 +4139,6 @@ Pl.itc    I'll  I
 Malo-sarii.  from  Ureparapara.
 
 
-4
-
-
 I
 
 
@@ -5034,8 +4157,7 @@ the  circle  in  turn.  In  the  island  of  Mota  four  vessels  are  used,
 all  small  cups  called  lasa  (see  Fig.  4),  made  of  coconut  or
 wood.  Names  were  given  for  these
 four  vessels,  but  it  was  not  clear  that
-they  are  in  general  use.  As,  how-
-ever, they  will  make  the  following
+they  are  in  general  use.  As,  however, they  will  make  the  following
 description  clearer,  I  propose  to  use
 them.  The  first  is  called  the  lasa
 woroworo,  the  cup  into  which  the  Fjg-  4-
@@ -5070,8 +4192,6 @@ a  man  present  of  higher  rank  in  the  Sukwe  than  the  oldest
 
 6—2
 
-
-84  Melanesian  Society
 
 man,  the  latter  will  hand  him  the  cup,  but  it  will  usually  be
 returned  so  that  the  oldest  man  will  drink  first.  The  cup  is
@@ -5176,8 +4296,6 @@ it  and  it  is  possibly  an  error  of  transcription.
 3   Woana  is  the  name  for  the  act  of  kava- drinking.
 
 
-86  Melanesian  Society
-
 exactly  as  is  done  in  the  Torres  Islands  (see  Chap.  VII).  The
 motive  of  this  was  said  to  be  merely  to  clear  the  teeth  of
 fragments  of  kava  root  which  might  be  sticking  between  them.
@@ -5235,14 +4353,12 @@ The  Tamate  Societies.
 These  societies  which  take  their  collective  name  from  the
 word  for  ghost  or  dead  man  are  very  numerous.  In  the
 following  pages  I  give  some  account  of  77  societies  from  the
-island  of  Mota  alone ;  many  of  these  have  numerous  sub-
-divisions and  there  are  probably  many  more  in  other  islands.
+island  of  Mota  alone ;  many  of  these  have  numerous  subdivisions and  there  are  probably  many  more  in  other  islands.
 
 The  societies  are  of  several  kinds.  Some  can  be  entered
 by  boys  who  have  not  yet  been  initiated  into  the  Sukwe,  who
 cannot  therefore  eat  in  the  gamal,  while  in  one  case  at  least  a
-girl  has  become  a  member.  They  are  called  Tamate  mata-
-wonowono,  meaning  'Hamate  with  their  eyes  closed,"  and  the
+girl  has  become  a  member.  They  are  called  Tamate  matawonowono,  meaning  'Hamate  with  their  eyes  closed,"  and  the
 ceremonial  connected  with  them  is  extremely  simple.
 
 The  nature  of  a  second  group  of  societies  is  doubtful.
@@ -5264,8 +4380,6 @@ liwoa  of  which  a  man  must  be  a  member  before  he  can  be
 initiated  into  the  others,  called  collectively  the  wangarai  (or
 branching)   Tamate.
 
-
-88  Melanesian  Society
 
 A  further  distinction  is  that  some  societies  are  regarded  as
 male  and  others  as  female,  but  it  is  a  question  whether  this
@@ -5300,8 +4414,7 @@ the  pig.  If  a  hat  or  mask  is  made  the  initiation  has  to  be
 followed  by  a  period  of  seclusion  ;  the  candidate  has  to  goto.
 
 In  some  societies  a  number  of  men  maybe  initiated  at  one
-time,  the  necessary  money  being  made  up  by  equal  contribu-
-tions from  all,  so  that  the  expense  is  divided  among  many.
+time,  the  necessary  money  being  made  up  by  equal  contributions from  all,  so  that  the  expense  is  divided  among  many.
 A  society  which  can  be  entered  in  this  way  is  called  a  Tamate
 ninganifiga,  the  latter  word  being  used  for  any  purchase  to
 which  several  persons  contribute.  Other  societies,  including
@@ -5332,8 +4445,7 @@ denotes  the  societies  themselves,  the  individual  members  of
 the  societies,  the  hats  or  masks  worn  by  the  members  and  the
 beings,  probably  in  all  cases  ghosts,  they  are  supposed  to
 represent.  Uninitiated  persons  will  speak  of  meeting  or  seeing
-the  tamate,  meaning  the  members  of  the  society  in  their  dis-
-guises, in  which  case  no  distinction  is  supposed  to  exist,
+the  tamate,  meaning  the  members  of  the  society  in  their  disguises, in  which  case  no  distinction  is  supposed  to  exist,
 theoretically  at  any  rate,  between  the  members,  the  masks
 they  are  wearing  and  the  beings  they  are  representing.  In
 addition  to  these  uses,  the  term  tamate  is  also  given  to  the
@@ -5371,8 +4483,6 @@ in  addition  to  the  gamal,  being  used  even  when  there  is  no
 1  In  the  following  record  I  distinguish  the  sense  in  which  Tamate  is  used  for
 a  society  by  writing  it  with  a  capital  letter.
 
-
-90  Melanesian  Society
 
 especial  ceremonial  in  preparation  or  actual  progress.  It  is
 in  the  salagoro  that  the  special  objects  connected  with  the
@@ -5433,10 +4543,8 @@ male  hats  being  lozenge-shaped,  tall,  or  oblong,  while  female
 hats  are  rounded  (see  Fig.  5).  The  Banks  islanders  regard
 everything  large  or  long  as  male,  thus  a  long  soma  fish  is
 regarded  as  male  and  a  short  one  as  female,  and  it  is  possible
-that  the  difference  of  sex  ascribed  to  the  masks  merely  indi-
-cates their  shape  and  is  not  a  point  of  great  importance.  It
-may  be  noticed  that  the  lozenge  forms  the  orthodox  repre-
-sentation of  the  face  of  a  tamate.
+that  the  difference  of  sex  ascribed  to  the  masks  merely  indicates their  shape  and  is  not  a  point  of  great  importance.  It
+may  be  noticed  that  the  lozenge  forms  the  orthodox  representation of  the  face  of  a  tamate.
 
 Another  object  connected  with  a  Tamate  society  is  the
 saka  stick  used  to  frighten  women  and  children.  In  order  to
@@ -5507,8 +4615,7 @@ of  this  society  of  very  little  service,  for  it  would  still  leave  his
 property  at  the  mercy  of  all  the  members  of  the  society.  A
 man  always  belongs,  however,  to  more  than  one,  often  to  many
 societies  and  by  combining  their  badges  he  may  be  able  to
-protect  his  property  against  the  whole  of  the  rest  of  the  popu-
-lation. At  the  present  time  there  are  some  societies  which
+protect  his  property  against  the  whole  of  the  rest  of  the  population. At  the  present  time  there  are  some  societies  which
 only  have  three  or  four  members.  If  a  member  of  such  a
 small  society  contrived  to  join  another  society  to  which  the
 
@@ -5565,13 +4672,10 @@ A  man  must  not  cut  or  use  in  any  way  a  plant  which  is
 the  badge  of  a  society  to  which  he  does  not  belong,  the
 penalty  being  the  fine  of  a  pig  to  the  members  of  the  society
 whose  badge  he  has  used.  Thus,  recently  a  man  of  the  Viov
-society  tabooed  some  bananas  with  the  croton  of  the-  Tamat-
-pilagi  society  thinking  it  to  be  the  croton  of  the  Viov.  Both
+society  tabooed  some  bananas  with  the  croton  of  the-  Tamatpilagi  society  thinking  it  to  be  the  croton  of  the  Viov.  Both
 kinds  of  croton  are  white  but  the  leaf  of  the  Tamatpilagi  has
 a  spot  of  red  at  the  base  which  he  did  not  notice.     A  man
 
-
-94  Melanesian  Society
 
 saw  the  leaf  in  use  as  a  soloi  and  asked  who  had  put  it  there.
 The  man  of  the  Viov  society  said  he  had  done  it,  and  when  it
@@ -5580,15 +4684,13 @@ was  told  he  would  have  to  pay  the  usual  fine.
 
 One  way  of  avoiding  the  fine  is  to  be  initiated  into  the
 society  whose  badge  has  been  wrongly  used  and  in  this  case
-the  man  joined  the  society  instead  of  paying  the  fine.  Some-
-times men  will  adopt  this  device  in  order  to  get  into  a  society.
+the  man  joined  the  society  instead  of  paying  the  fine.  Sometimes men  will  adopt  this  device  in  order  to  get  into  a  society.
 They  will  decorate  themselves  with  a  croton  to  which  they
 are  not  entitled  and  when  discovered  will  join  the  society.  It
 seems  as  if  they  take  advantage  of  the  pity  of  the  members
 who  will  allow  a  man  to  join  the  society  rather  than  submit
 him  to  the  heavy  penalty  to  which  he  is  otherwise  liable.
-The  members  of  the  society  have  the  right  to  refuse  admit-
-tance to  a  man  who  has  transgressed,  for  it  was  said  that
+The  members  of  the  society  have  the  right  to  refuse  admittance to  a  man  who  has  transgressed,  for  it  was  said  that
 a  man  could  not  force  himself  in  this  way  into  a  society  whose
 members  did  not  want  him.
 
@@ -5632,8 +4734,7 @@ another  society.  A  man  thus  warned  off  a  garden  may  ask  a
 friend  who  belongs  to  the  same  society  as  his  opponent  to
 remove  the  sign  but  in  such  case  there  is  nothing  to  prevent
 its  being  reimposed  so  that  the  advantage  is  only  temporary.
-I  obtained  one  piece  of  evidence,  doubtless  only  a  frag-
-ment of  the  whole,  which  shows  that  these  societies  have
+I  obtained  one  piece  of  evidence,  doubtless  only  a  fragment of  the  whole,  which  shows  that  these  societies  have
 certain  functions  in  connection  with  the  growth  of  crops.
 When  the  yam  crop  in  Mota  is  ready  for  digging  a  great  feast
 is  held  by  the  Tamate  liwoa.  Its  members  collect  food,  seeking
@@ -5662,8 +4763,7 @@ initiation  is  necessary  for  progress  in  the  Sukwe  beyond  the
 rank  of  Tamatsiria  (see  p.  64).  In  the  Veverau  district  of
 Mota  the  salagoro  of  this  Ta7?tate  is  a  fine  house  constructed
 in  the  same  manner  as  the  ordinary  house  of  the  village,
-except  that  the  door  is  in  this,  as  in  all  salagoro,  diamond-
-shaped  so  as  to  resemble  the  face  of  a  tamate.  In  front  of
+except  that  the  door  is  in  this,  as  in  all  salagoro,  diamondshaped  so  as  to  resemble  the  face  of  a  tamate.  In  front  of
 the  building  is  an  open  space  with  a  platform  or  kwer  on
 which  there  is  room  for  two  men  to  sit  and  make  the  werewere
 
@@ -5742,32 +4842,25 @@ wokwasa.  The  stick  is  rubbed  on  the  stone  at  definite
 rates  and  with  varying  rhythm,  the  stone  lying  between  the
 outstretched  legs  of  the  performer.  On  ordinary  occasions
 each  performer  works  independently  ;  the  stick  is  first  moved
-slowly  to  and  fro  and  then  quicker  and  quicker,  the  move-
-ments decreasing  again  in  rapidity  after  a  time.  The  rhythm
+slowly  to  and  fro  and  then  quicker  and  quicker,  the  movements decreasing  again  in  rapidity  after  a  time.  The  rhythm
 of  the  movements  varies  greatly  in  complexity.
 
 On  special  occasions,  such  as  the  talasa  feast  (see  p.  104),
 two  men  make  the  werewere  sound  together,  sitting  on  the
-platform  (kwer)  outside  the  salagoro  building.  The  per-
-formance begins  with  ten  movements,  each  more  complex  in
+platform  (kwer)  outside  the  salagoro  building.  The  performance begins  with  ten  movements,  each  more  complex  in
 rhythm  than  the  preceding  and  then  ten  more  which  are  the
 same  as  the  first  but  in  reverse  order,  so  that  the  rhythm
 becomes  less  complex  with  each  movement.  Up  to  this
 point  the  two  performers  work  in  harmony ;  then  begins  a
 far  more  complicated  series  of  movements  in  which,  so  far  as
 could  be  gathered,  one  performer  carries  out  a  comparatively
-regular  series  while  the  other  makes  sounds  which  are  varia-
-tions of  this.  John  Pantutun  spoke  of  the  latter  series^  of
+regular  series  while  the  other  makes  sounds  which  are  variations of  this.  John  Pantutun  spoke  of  the  latter  series^  of
 sounds  as  decorating  the  regular  series  which  it  accompanies.
 It  takes  very  long  to  learn  these  complex  rhythms  and  still
 longer  to  execute  them  properly,  and  at  the  present  time  there
 are  only  two  elderly  men  in  Mota  who  know  how  to  perform
 properly  in  concert,  none  of  the  younger  men  having  succeeded
 
-R.  M.  s.  7    '
-
-
-98  Melanesian  Society
 
 in  learning,  and  there  seems  a  prospect  that  the  more  complex
 performance  will  soon  be  lost.  A  man  who  knows  how  to
@@ -5790,16 +4883,14 @@ sound  is  visited  very  severely  on  the  performer.  He  has  to
 pay  a  tusked  pig,  and  if  he  cannot  provide  it  himself,  his
 relatives  have  to  do  so  for  him.  We  were  told  that  in  the
 old  days  a  man  who  could  not  expiate  the  offence  with  a  pig
-was  hanged,  the  regular  method  of  inflicting  the  death  punish-
-ment in  the  salagoro.
+was  hanged,  the  regular  method  of  inflicting  the  death  punishment in  the  salagoro.
 
 Initiation  into  the   Tamate  liwoa.
 
 A  man  cannot  progress  beyond  the  rank  of  Tamatsiria
 in  the  gamal  till  he  has  been  initiated  into  the  chief  of  the
 Tamate  societies,  Tamate  liwoa  or  werewere.  He  cannot
-enter  Tavatsukwe  till  this  has  been  done  and  the  feast  con-
-nected with  entrance  into  this  rank  takes  place  in  the  salagoro
+enter  Tavatsukwe  till  this  has  been  done  and  the  feast  connected with  entrance  into  this  rank  takes  place  in  the  salagoro
 and  not  in  the  gamal,  although  it  is  primarily  a  step  in  the
 latter  institution.  A  man  wishing  to  join  the  society  gives  a
 pig  {I'awe)  to  some  one  already  initiated,  and  in  doing  so  would
@@ -5921,8 +5012,7 @@ six  stakes  are  put  up  in  a  direction  from  east  to  west  and  are
 called  mategawoso.  Some  one  is  then  sent  to  fetch  the
 candidate,  and  when  he  leaves  his  mother  and  sisters  and
 other  female  relatives,  they  cry  as  if  he  were  leaving  them  for
-a  long  time,  and  we  were  told  that  in  the  old  days  it  not  in-
-frequently happened  that  they  never  saw  him  again  (see  p.  io6).
+a  long  time,  and  we  were  told  that  in  the  old  days  it  not  infrequently happened  that  they  never  saw  him  again  (see  p.  io6).
 The  candidate  is  taken  into  the  bush  and  decorated  with
 flowers  and  leaves  ;  one  hibiscus  flower  is  stuck  on  the  top
 of  his  head,  another  upright  at  the  back,  and  a  third  upside
@@ -5945,8 +5035,7 @@ his  right  arm,  more  round  his  neck  and  a  large  amount  is  put
 into  a  bag  hung  over  his  right  shoulder,  while  two  fathoms
 are  hung  on  his  outstretched  left  hand.  The  candidate  and
 the  assembled  members  then  form  a  procession  in  which  the
-senior  member  goes  first,  immediately  followed  by  the  candi-
-date. The  procession  passes  round  the  stakes  five  times,  and
+senior  member  goes  first,  immediately  followed  by  the  candidate. The  procession  passes  round  the  stakes  five  times,  and
 then  the  candidate  goes  to  the  door  of  the  gamal,  and  hangs
 on  the  end  of  the  stick  projecting  from  the  door  the  two
 fathoms  of  money  which  he  has  been  carrying  on  his  left
@@ -5957,8 +5046,6 @@ you,"  and  this  man  takes  the  money  put  on  the  stick  which  now
 belongs  to  him.  The  neophyte  then  goes  to  the  stake  nearest
 the  gamal,  and  stands  close  to  it  clasping  it  with  his  hand,
 
-
-102  Melanesian  Society
 
 and  the  man  inside  the  gamal  draws  in  the  werewere  stick
 which  had  been  in  the  door.  Some  one  then  says  to  the  first
@@ -6088,8 +5175,7 @@ talasa  feast  or  on  the  day  after ;  if  on  the  same  day,  he
 becomes  free  after  the  feast  has  taken  place.  He  is  elaborately
 decorated  ;  a  white  powder  is  put  in  his  hair,  being  puffed  on
 his  head  from  the  mouth  of  the  man  who  is  decorating  him.
-Young  unopened  leaves  of  the  coconut  are  obtained,  lozenge-
-shaped  holes  are  cut  in  them,  and  they  are  placed  on  a  special
+Young  unopened  leaves  of  the  coconut  are  obtained,  lozengeshaped  holes  are  cut  in  them,  and  they  are  placed  on  a  special
 kind  of  banana  leaf  which  is  glistening  black,  so  that  the
 black  shows  through  the  holes,  and  the  leaf  with  its  covering
 is  bound  on  the  head  of  the  neophyte  as  a  fillet.  His  head  is
@@ -6108,13 +5194,11 @@ single  croton  leaves  are  put  in  the  fillet  round  the  head,  one
 at  each  side  of  the  forehead,  and  two  behind.  Those  already
 initiated  decorate  themselves  in  a  similar  manner  but  less
 elaborately.  Two  men  then  sit  on  the  kwer  or  platform
-outside  the  salagoro  and  prepare  to  wereivere  while  a  pro-
-cession is  formed.  Each  man  in  the  procession  carries  a
+outside  the  salagoro  and  prepare  to  wereivere  while  a  procession is  formed.  Each  man  in  the  procession  carries  a
 bamboo  on  his  left  shoulder,  and  in  his  right  hand  a  stick
 of  hibiscus  wood,  stripped  of  its  bark  so  that  it  is  glistening
 white.  The  order  of  the  procession  is  very  remarkable.  The
-neophyte  is  in  the  middle  with  the  last  initiated  man  im-
-mediately before  him.  The  man  who  has  been  longest  a
+neophyte  is  in  the  middle  with  the  last  initiated  man  immediately before  him.  The  man  who  has  been  longest  a
 member  heads  the  procession  and  is  followed  by  the  third
 in  order  of  seniority.  At  the  tail  of  the  procession  comes  the
 member  second  in  order  of  seniority  preceded  by  the  fourth
@@ -6521,8 +5605,6 @@ Badge. — A  croton  from  Vanua  Lava.
 '^  It  is  doubtful  whether  they  left  the  village;  presumably  they  did  so.
 
 
-1 1 2  Melanesian  Society
-
 15.  Tasia — female  of  the  Kwatman  bird.  Initiation  fees  and  ceremony
 exactly  as  for  the  Roropei  and  Kwatman.
 
@@ -6550,8 +5632,7 @@ the  village  as  is  the  roropei.
 
 Badge. — A  short  broad  red  leaf  (from  Vanua  Lava).
 
-19.  Teremawora.  Bought  with  a  short  piece  of  money,  about  three-
-quarters  of  a  fathom.  The  proceedings  of  initiation  are  the  same  as  for  the
+19.  Teremawora.  Bought  with  a  short  piece  of  money,  about  threequarters  of  a  fathom.  The  proceedings  of  initiation  are  the  same  as  for  the
 Roropei.     There  is  no  badge,  but  a  hat  the  nature  of  which  was  unknown.
 
 20.  Wurene.  Those  initiated  beat  the  uninitiated,  both  men  and  women.
@@ -6641,8 +5722,7 @@ I.  O  uwa  (the  turtle) :  2.  O  ihae  (the  sea-snake),  called  both  O  ma
 salagoro  and  O  mae  talo  kwat :  3.  0  lele  (a  flat-fish) :  4.  0  pagoa  (shark) :
 5.  O  wumeto  (bowl) :  6.  O  kwat  maremare  (a  fish) :  7.  O  takwalekwoe
 (a  large  fish  with  a  big  mouth) :  8.  O  ut  (a  long  fish  that  lives  in  the  deep
-sea).  Of  these  the  shark  {O  pagoa)  is  the  most  important  but  not  pre-
-eminently so.  It  has  no  special  sanctity  and  anyone  can  mention  its  name,
+sea).  Of  these  the  shark  {O  pagoa)  is  the  most  important  but  not  preeminently so.  It  has  no  special  sanctity  and  anyone  can  mention  its  name,
 but  he  would  speak  respectfully  and  not  shout  it  out  loud.
 
 When  the  initiating  ceremony  takes  place,  which  can  happen  at  any
@@ -6660,10 +5740,6 @@ people  out  of  the  way.  But  in  the  garden-ground  they  will  creep  by  
 through  the  bush,  and  if  they  find  anyone,  will  seize,  bind  and  beat  him.
 When  he  is  bound  one  of  the  party  sings  a  chant.     If  the  man  who  is  caught
 
-R.  M.  s.  8
-
-
-1 1 4  Melanesian  Society
 
 is  submissive,  they  will  deal  gently  with  him,  but  not  if  he  struggles  to  escape.
 John  says  he  helped  to  catch  his  brother  Henry.  John  went  ahead  of  the
@@ -6673,8 +5749,7 @@ bound  him.
 
 When  the  new  members  go  out,  they  do  not  organise  a  separate  dance  for
 themselves,  but  go  to  a  kolekole  and  dance  there.  On  the  first  occasion
-they  all  wear  very  tall  black  hats  of  the  same  pattern  and  no  other  deco-
-rations. At  a  second  kolekole  they  dance  again  but  without  any  hats  or
+they  all  wear  very  tall  black  hats  of  the  same  pattern  and  no  other  decorations. At  a  second  kolekole  they  dance  again  but  without  any  hats  or
 decorations.  At  a  third  kolekole  they  dance  and  wear  their  special  hats.
 Each  man  can  choose  the  hat  of  any  one  of  the  subsidiary  divisions,  and
 of  these  the  pagoa  (shark)  is  perhaps  the  most  popular.  The  hats  are
@@ -6734,8 +5809,7 @@ any   rate    more   than   four,   are   spitted   on  a  reed   which   is   s
 
 The  Viov  and  Pir  Societies  1 1 5
 
-ground  as  a  soloi ;  the  wowarwar,  another  red  fruit ;  the  skin  of  the  bread-
-fruit ;  a  stem  of  hibiscus  with  branches  left  on  but  stripped  of  its  bark ;  the
+ground  as  a  soloi ;  the  wowarwar,  another  red  fruit ;  the  skin  of  the  breadfruit ;  a  stem  of  hibiscus  with  branches  left  on  but  stripped  of  its  bark ;  the
 leaves  of  the  mamaota,  wura  and  noto  trees,  the  kalato  or  nettle-tree  and  the
 las,  a  plant  even  more  irritating  and  poisonous  than  the  nettle.
 
@@ -6859,8 +5933,7 @@ I  have  already  referred  (p.  89).  The  association  between  the  four  is 
 shown  by  the  fact  that  members  may  eat  at  each  others'  ovens  with  the
 exception  of  Tamate  pepe,  the  members  of  which  can  only  eat  at  their
 own.  These  four  Tamate  have  different  dispositions ;  Menmenule  is  always
-fighting,  and  never  appears  without  a  bow  and  arrow  in  his  hand ;  Kwatgatota-
-panoi chases  and  eats  people,  while  lYovnau  and  Pepe  are  always  gentle.
+fighting,  and  never  appears  without  a  bow  and  arrow  in  his  hand ;  Kwatgatotapanoi chases  and  eats  people,  while  lYovnau  and  Pepe  are  always  gentle.
 There  are  special  customs  connected  with  the  fish  from  which  the  Tamate
 pepe  takes  its  name.  If  a  party  of  people  including  a  member  or  members  of
 this  society  are  fishing  and  one  of  the  party  catches  Sipepe  fish,  the  people  will
@@ -6873,11 +5946,9 @@ Tamate  of  the  Salagoro  1 1 7
 feel  embarrassed,  and  if  it  has  been  caught  by  others,  the  fish  will  be  given  to
 the  member  or  members  of  Tamate  pepe  and  they  will  eat  it.  If  no  members
 of  this  society  are  present,  there  would  be  no  embarrassment  and  the  fish
-would  be  eaten  by  those  who  caught  it.  All  four  societies  have  the  mara-
-kwarakwa  fruit  as  a  badge  but  used  in  different  ways,  Menmetiule  people  using
+would  be  eaten  by  those  who  caught  it.  All  four  societies  have  the  marakwarakwa  fruit  as  a  badge  but  used  in  different  ways,  Menmetiule  people  using
 it  unripe.  The  following  story  gives  the  origin  of  this  custom  (it  was  all  that
-could  be  remembered  of  a  long  tale) :  Three  women  were  decorating  them-
-selves with  the  marakwarakwa  fruit  when  Menmenule  arrived  from  an
+could  be  remembered  of  a  long  tale) :  Three  women  were  decorating  themselves with  the  marakwarakwa  fruit  when  Menmenule  arrived  from  an
 expedition.  He  asked  for  some  of  the  fruit  with  which  to  decorate  himself,
 but  the  women  had  used  all  those  brightly  coloured,  and  so  he  had  to  use
 the  green  unripe  fruits  which  are  now  his  badge.  He  also  wished  to  adorn
@@ -7169,8 +6240,7 @@ from  elsewhere,  though  it  may  be  only  that  special  features
 have  been  borrowed.  Thus  the  Tamate  liwoa  is  said  to  have
 come  from  Ureparapara'  while  the  black  pigment  which
 adorns  the  hats  and  is  so  much  admired  is  called  pei  ta  Vava
-or  "water  of  the  Torres  Islands"  and  may  have  been  intro-
-duced from  these  islands.
+or  "water  of  the  Torres  Islands"  and  may  have  been  introduced from  these  islands.
 
 The  feature  common  to  all  the  societies  is  that  they  are
 entered  by  a  ceremony  of  initiation  which  may,  as  we  have
@@ -7178,8 +6248,7 @@ seen,  vary  from  the  mere  giving  of  a  pipeful  of  tobacco  and
 the  making  of  a  hat  or  other  object  to  the  highly  complex
 and  prolonged  ceremonial  which  has  been  described  in  the
 case  of  Tamate  liwoa.  There  seem  to  be  many  gradations
-between  these  two  extremes.  Of  the  details  of  these  cere-
-monies of  initiation  into  the  different  societies  other  than
+between  these  two  extremes.  Of  the  details  of  these  ceremonies of  initiation  into  the  different  societies  other  than
 Tamate  liwoa  we  at  present  know  next  to  nothing  but  the
 few  notes  which  have  been  given  show  that  there  are  variations
 in  detail.
@@ -7188,18 +6257,14 @@ in  detail.
 not  of  much  importance  in  Ureparapara.
 
 
-122  Melanesian  Society
-
 Another  feature  common  to  nearly  all  the  societies,  is  the
 possession  of  a  badge  or  badges  and  apparently  all  have  the
 same  degree  of  efficacy  in  the  protection  of  property.
 
-A  feature  common  to  most  of  the  societies  is  the  posses-
-sion of  an  object  called  a  iamate,  either  a  mask,  hat  or  other
+A  feature  common  to  most  of  the  societies  is  the  possession of  an  object  called  a  iamate,  either  a  mask,  hat  or  other
 object,  and  it  is  probable  that  it  is  this  possession  of  a  tamate
 which  is  in  the  minds  of  the  natives  a  most  important  feature
-of  a  Tatnate  society.  As  will  be  seen  later  there  are,  how-
-ever, other  objects  called  tamate  which  may  be  worn  by
+of  a  Tatnate  society.  As  will  be  seen  later  there  are,  however, other  objects  called  tamate  which  may  be  worn  by
 women  and  in  order  to  wear  these  a  person  has  to  go  through
 a  process  of  initiation,  and  yet  these  tainate  seem  to  be
 definitely  distinguished  from  those  of  the  Tamate  societies.
@@ -7213,16 +6278,14 @@ that  it  is  in  the  interest  of  the  members  of  a  society  to  keep
 out  new  members,  but  on  the  other  hand  the  payments  made
 by  the  initiated  as  well  as  the  interest  and  honour  derived
 from  the  initiation  of  a  new  member  act  in  the  opposite
-direction.  When  the  obstacles  to  initiation  have  been  over-
-come and  a  member  is  about  to  be  initiated,  other  men  will  at
+direction.  When  the  obstacles  to  initiation  have  been  overcome and  a  member  is  about  to  be  initiated,  other  men  will  at
 once  apply  to  be  initiated  at  the  same  time,  except  of  course
 in  the  case  of  those  societies  in  which  only  one  man  can  be
 initiated  at  a  time.  Once  an  initiation  has  been  set  on  foot
 it  is  for  the  immediate  interest  of  a  candidate  to  have  as
 many  companions  as  possible  for  it  diminishes  the  amount
 which  he  will  have  to  pay,  but  on  the  other  hand  a  later
-consequence  of  the  entrance  of  many  others  will  be  the  dis-
-advantage of  sharing  with  them  the  protective  power  of  the
+consequence  of  the  entrance  of  many  others  will  be  the  disadvantage of  sharing  with  them  the  protective  power  of  the
 badge.
 
 There  are  other  conditions  which  influence  the  act  of
@@ -7250,19 +6313,15 @@ he  wants.
 It  was  said  that  difficulties  owing  to  mistakes,  as  in  using
 a  badge  wrongly,  may  also  form  an  obstacle  to  initiation,  and
 if  the  fine  is  exacted  this  is  evidently  the  case,  but,  as  we  have
-seen,  one  of  the  results  of  such  a  mistake  is  that  a  man  some-
-times enters  the  society  whose  badge  he  has  used  wrongfully,
+seen,  one  of  the  results  of  such  a  mistake  is  that  a  man  sometimes enters  the  society  whose  badge  he  has  used  wrongfully,
 so  that  this  may  assist  as  well  as  hinder  initiation.
 
 A  very  efficient  obstacle  is  the  difficulty  of  getting  anyone
-already  a  member  to  undertake  the  duty  of  acting  as  intro-
-ducer. When  a  man  enters  a  society  he  has  to  obtain  the
-services  of  a  member  to  whom  he  gives  money,  the  native  ex-
-pression being  that  he  has  to  ''tiro  mun"  this  man.  Though
+already  a  member  to  undertake  the  duty  of  acting  as  introducer. When  a  man  enters  a  society  he  has  to  obtain  the
+services  of  a  member  to  whom  he  gives  money,  the  native  expression being  that  he  has  to  ''tiro  mun"  this  man.  Though
 the  introducer  receives  money  from  the  initiate  he  has  to  give
 a  pig,  or  pigs  if  more  than  one  man  is  initiated.  If  a  man
-has  only  one  good  pig,  he  will  not  consent  to  act  as  intro-
-ducer because  a  consequence  would  be  the  loss  of  this  pig.
+has  only  one  good  pig,  he  will  not  consent  to  act  as  introducer because  a  consequence  would  be  the  loss  of  this  pig.
 This  is  so  well  recognised  that  a  man  who  is  known  to  be  so
 situated  will  not  be  asked  to  act.  If,  on  the  other  hand,  a
 man  has  a  pig  which  is  a  fence-jumper,  yam-eater,  or  a  public
@@ -7276,18 +6335,14 @@ tiu  tatas  may  be  set  in  action,  and  members  may  decide  to
 join  the  societies  which  are  called  upon  in  the  course  of  this
 tiu  tatas.
 
-Tiu  tatas  is  a  process  arising  in  connection  with  quar-
-rels which  leads  to  men  joining  new  societies.  If  two  men
+Tiu  tatas  is  a  process  arising  in  connection  with  quarrels which  leads  to  men  joining  new  societies.  If  two  men
 quarrel  about  anything  and  one  belongs  to,  say  the  Ta^nate
 mantelet,  and  the  other  does  not,  he  will  say  to  the  other
-"  Tiu  tatas  goro  ko  mun  0  Mantelel."  The  literal  trans-
-lation of  this  is  doubtful  but  the  general  sense  is  "You  are
+"  Tiu  tatas  goro  ko  mun  0  Mantelel."  The  literal  translation of  this  is  doubtful  but  the  general  sense  is  "You  are
 bound  under  the  curse  of  the  Mantelel  society."  If  the  other
 man  is  afraid,  he  will  at  once  end  the  dispute,  but  if  angry
 and  defiant,  he  will  call  down  a  counter-curse,   naming  some
 
-
-124  Melanesian  Society
 
 society  to  which  he  belongs  and  his  opponent  does  not,  and
 the  first  man  may  retort  with  a  third  curse,  naming  a  third
@@ -7317,8 +6372,7 @@ breadfruit  belonged  to  the  Viov  he  would  say  "  Tiu  tatas  0
 patau,''  thus  assigning  the  patau  or  breadfruit  to  the  Viov
 society,  i.e.  to  be  the  property  of  the  members  of  that  society
 only.  I  do  not  know  whether  this  is  an  alternative  to  the
-ordinary  soloi  or  whether  it  is  merely  another  way  of  express-
-ing the  prohibition,  but  in  either  case  it  shows  the  importance
+ordinary  soloi  or  whether  it  is  merely  another  way  of  expressing the  prohibition,  but  in  either  case  it  shows  the  importance
 of  the  Tamate  societies  in  such  disputes.
 
 In  the  case  just  cited  the  owner  of  the  fruit  may  take
@@ -7329,8 +6383,7 @@ This  is  taken  as  an  insult  which  will  make  the  offender  wish
 to  join  the  Tamate  viov  in  order  that  he  may  be  on  an
 equality  with  his  adversary.  An  alternative  procedure  is  for
 the  owner  of  the  breadfruit  to  curse  the  offender  to  his  face,
-saying,  ''Iniko  i  0  Viov,"  i.e.  "You  are  a  man  of  Viov,"  where-
-upon the  pair  would  draw  their  bows  to  fight,  and  the
+saying,  ''Iniko  i  0  Viov,"  i.e.  "You  are  a  man  of  Viov,"  whereupon the  pair  would  draw  their  bows  to  fight,  and  the
 bystanders  would  hurl  themselves  upon  the  pair  to  prevent
 them  from  killing  one  another.  Should  they  fight  and  one  be
 killed,  the  whole  community  would  be  involved  in  the  fight.
@@ -7358,14 +6411,12 @@ that  the  function  of  the  badges  in  the  protection  of  property
 must  lead  to  a  kind  of  up  and  down  progress.  A  small
 society  will  become  popular  because  it  is  small  and  when
 through  this  popularity  it  becomes  large,  its  size  will  make  it
-unpopular  and  no  new  members  will  join  till  it  almost  dis-
-appears, as  in  the  case  of  so  many  Mota  societies  at  the
+unpopular  and  no  new  members  will  join  till  it  almost  disappears, as  in  the  case  of  so  many  Mota  societies  at  the
 present  time.  With  the  more  important  societies  the  case  is
 different,  for  here  the  motives  for  joining  are  of  a  different
 kind.  The  special  obstacles  connected  with  expense  or  the
 loss  of  pigs  only  apply  to  these  more  important  societies,  and
-the  chief  motives  for  joining  them  are  the  honour  of  belong-
-ing to  them  and  the  right  of  taking  part  in  certain  portions
+the  chief  motives  for  joining  them  are  the  honour  of  belonging to  them  and  the  right  of  taking  part  in  certain  portions
 of  the  kolekole  performances.  In  one  case  at  least,  that  of
 the  Tamate  liwoa,  the  fact  that  membership  is  essential  to
 progress  in  the  Sukwe  certainly  forms  a  most  important
@@ -7386,8 +6437,6 @@ phrase   means    "to   be    initiated    into   the   property   of    the
 
 1  M.,  75.
 
-
-126  Melanesian  Society
 
 deceased."  It  is  noteworthy  that  the  right  should  fall  to  the
 son  and  not  to  the  sister's  son  of  the  deceased  ;  it  seems
@@ -7411,8 +6460,7 @@ which  has  been  described  in  the  preceding  pages  is  the  exact
 nature  of  the  relation  between  the  Sukwe  (in  the  narrow  sense)
 and  the  Tamate  societies.  Dr  Codrington  has  stated^  that
 the  Sukwe  is  not  connected  with  the  secret  societies  of  the
-ghosts  but  it  seems  clear  that  this  statement  needs  modifica-
-tion. Though  in  general  the  two  institutions  seem  to  be
+ghosts  but  it  seems  clear  that  this  statement  needs  modification. Though  in  general  the  two  institutions  seem  to  be
 largely  independent,  it  is  quite  certain  that  admission  into  one
 Tamate  society,  the  Tamate  liwoa,  is  necessary  for  progress
 to  the  higher  ranks  of  the  Sukwe.  It  is  very  unlikely  that
@@ -7423,14 +6471,11 @@ progressing  in  the  village  organisation,  but  the  information  as
 given  to  me  was  too  explicit  to  be  interpreted  in  this  way;  it
 was  not  that  progress  to  the  higher  ranks  in  general  was
 barred  but  the  line  was  definitely  drawn  at  the  Tavatsukwe
-division  as  that  which  could  not  be  entered  without  member-
-ship of  the  Tamate  liwoa.  On  the  other  hand,  it  is  possible
-that  this  limitation  is  connected  with  the  fact  that  the  were-
-were  sound  forms  a  necessary  part  of  the  ritual  of  the  divisions
+division  as  that  which  could  not  be  entered  without  membership of  the  Tamate  liwoa.  On  the  other  hand,  it  is  possible
+that  this  limitation  is  connected  with  the  fact  that  the  werewere  sound  forms  a  necessary  part  of  the  ritual  of  the  divisions
 of  the  Sukwe  above  Tamatsiria  and  that  this  is  the  real  link
 between  the  two  organisations.  I  may  point  out  here  that
-previous  admission  to  Tamate  liwoa  is  not  the  only  distin-
-guishing feature  of  the  Tavatsukwe  rank.  It  is  only  people
+previous  admission  to  Tamate  liwoa  is  not  the  only  distinguishing feature  of  the  Tavatsukwe  rank.  It  is  only  people
 of  this  rank  and  above  who  in  the  old  days  were  allowed  to
 
 iJ/.,  1 02.
@@ -7442,8 +6487,7 @@ drink  kava  at  all  and  even  now  it  is  only  they  who  may  drink
 it  in  the  gamal.  It  is  clear  that  there  is  a  distinct
 line  of  cleavage  at  this  point  in  the  ranks  of  the  Sukwe  and
 this  increases  the  probability  that  the  connection  between
-Tavatsukwe  and  the  Tamate  tiwoa  indicates  some  funda-
-mental relation  between  the  two  organisations.
+Tavatsukwe  and  the  Tamate  tiwoa  indicates  some  fundamental relation  between  the  two  organisations.
 
 Mr  Durrad  was  told  by  John  Pantutun  of  a  special  relation
 existing  between  a  division  of  the  Sukwe  and  a  Tamate
@@ -7458,8 +6502,7 @@ When  he  inquired  about  this,  Mr  Durrad  was  told  that  ''Lano
 belongs  to  Viov!'  I  cannot  help  suspecting  that  a  thorough
 inquiry  would  reveal  many  more  connections  between  the  two
 organisations.  It  is  difficult  to  understand  the  possession  of
-hats  by  different  ranks  of  the  Sukwe  without  some  such  con-
-nection.
+hats  by  different  ranks  of  the  Sukwe  without  some  such  connection.
 
 It  is  quite  clear  that  ideas  concerning  death  are  closely
 associated  with  the  Tamate  societies.  Not  only  does  the
@@ -7480,11 +6523,8 @@ feast  every  five  or  ten  days  after  death  up  till  the  hundredth
 day.  Just  as  the  feast  after  a  hundred  days  of  seclusion  is
 especially  important,  so  often  is  the  feast  on  the  hundredth
 day  after  death.  The  absence  of  washing  and  the  taboo  on
-touching  the  sleeping-place  of  the  initiate  may  also  be  inter-
-preted in  this  way.     It  seems  as  if  there  is  during  his  seclusion
+touching  the  sleeping-place  of  the  initiate  may  also  be  interpreted in  this  way.     It  seems  as  if  there  is  during  his  seclusion
 
-
-128  Melanesian  Society
 
 a  kind  of  ceremonial  make-believe  that  the  initiate  is  dead,
 though  at  the  same  time  he  has  to  carry  out  the  duties  of
@@ -7504,8 +6544,7 @@ tamate.  We  seem  here  to  have  a  representation  of  birth,
 life  and  death.  I  do  not  know  how  far  this  burning  or
 destruction  of  a  tamate  is  general.  We  know  very  little
 of  any  ceremonial  connected  with  the  Tamate  societies
-beyond  that  of  initiation  and  it  is  possible  that  this  ac-
-count of  the  Tamate  roropei  is  only  one  instance  of  cere-
+beyond  that  of  initiation  and  it  is  possible  that  this  account of  the  Tamate  roropei  is  only  one  instance  of  cere-
 monial which  plays  an  important  part  in  the  ritual  of  the
 societies.
 
@@ -7574,8 +6613,7 @@ belong  to  one  or  other  of  these  organisations.
 After  considering  the  kolekole  performances  I  shall  consider
 briefly  certain  other  aspects  of  the  Sukwe  and  Tamate
 societies  in  their  bearing  on  the  general  life  of  the  people
-and  especially  on  the  determination  of  social  rank  and  im-
-portance, the  distribution  of  wealth,  and  the  protection  of
+and  especially  on  the  determination  of  social  rank  and  importance, the  distribution  of  wealth,  and  the  protection  of
 property.
 
 The  Kolekole  Performances.
@@ -7639,8 +6677,6 @@ entering  or  even  approaching  a  house  of  this  kind.     A  more
 
 9—2
 
-
-132  Melanesian  Society
 
 elaborate  kolekole  ceremony  gives  a  house  the  name  of  tamate
 woroworo  and  here  again  such  a  house  may  only  be  approached
@@ -7751,13 +6787,10 @@ the  leaf\  This  manufacture  is  carried  out  by  women  who
 must  fast  while  so  occupied.
 
 ^  The  transverse  lines  due  to  this  binding  are  also  to  be  seen  in  the  other  leaf
-belts  and  on  one  of  thenar/  or  plaited  belts.  In  the  other  plaited  belt,  the^a/rt-
-gapa,  such  unstained  portions  are  only  to  be  seen  here  and  there,  especially  at  the
+belts  and  on  one  of  thenar/  or  plaited  belts.  In  the  other  plaited  belt,  the^a/rtgapa,  such  unstained  portions  are  only  to  be  seen  here  and  there,  especially  at  the
 edge  of  the  belt,  and  the  procedure  in  dyeing  this  belt  must  have  differed  from
 that  used  for  the  others.
 
-
-134  Melanesian  Society
 
 In  the  case  of  the  tamate  worawora  only  part  of  the
 design,  viz,  the  body  of  the  tamate,  is  on  the  belt.  The  rest
@@ -7852,8 +6885,6 @@ bladders  against  a  tree  making  a  great  report.  When  they
 meet,  all  stand  in  a  row  and  dance.     When  this  dance  is  over,
 
 
-136  Melanesian  Society
-
 all  go  to  their  respective  salagoro  to  rid  themselves  of  their
 decorations  except  those  decorated  in  white  who  go  to  the
 sea-shore  to  wash  off  the  powder  with  which  they  have  covered
@@ -7895,8 +6926,7 @@ remove  the  tapu  on  receipt  of  a  payment  of  money.
 The  kolekole  proceedings  for  the  different  hats  of  the
 Sukwe  seem  to  have  the  same  general  character  and  differ
 chiefly  in  the  nature  of  the  decorations  and  the  sound  which  is
-made.  For  the  hats  of  Lano  and  of  all  ranks  above  it,  the  were-
-were  sound  must  be  made  ;  for  Kerepue,  Mzvele  and  Tetug  they
+made.  For  the  hats  of  Lano  and  of  all  ranks  above  it,  the  werewere  sound  must  be  made  ;  for  Kerepue,  Mzvele  and  Tetug  they
 may  have  either  werewere  or  iheretang ;  for  Tavatsukwelava
 
 
@@ -7911,13 +6941,11 @@ Decoration  of  the  Head.
 In  the  preceding  account  I  have  mentioned  that  the  heads
 of  those  taking  part  in  the  kolekole  dance  are  elaborately
 decorated,  and  these  decorations  play  a  large  part  in  the
-interest  and  occupation  provided  by  the  kolekole.  The  know-
-ledge of  each  kind  of  decoration  is  the  possession  of  certain
+interest  and  occupation  provided  by  the  kolekole.  The  knowledge of  each  kind  of  decoration  is  the  possession  of  certain
 people,  and  anyone  wishing  to  learn  any  part  of  the  procedure
 has  to  go  through  a  ceremony  for  which  the  term  tiro  is  used,
 which  also  denotes  the  processes  of  initiation  into  the  Sukwe
-and  Tamate  societies.  No  woman  can  ever  obtain  any  know-
-ledge of  this  kind.
+and  Tamate  societies.  No  woman  can  ever  obtain  any  knowledge of  this  kind.
 
 One  of  the  most  popular  pigments  called  urai  kwat  is  red
 in  colour  and  is  prepared  from  a  plant  called  tatamera,  the
@@ -7934,8 +6962,7 @@ so  as  to  avoid  bruising  the  inner  bark,  and  this  inner  bark  is
 scraped  off  in  very  fine  fragments.  These  are  mixed  with
 the  red  juice  and  smeared  over  the  head.  When  this  pigment
 is  used  part  of  the  head  is  usually  left  untouched  on  each  side,
-the  unadorned  region  having  the  form  of  a  bird  called  gapa-
-gapa  {Collocalia  urupygialis).
+the  unadorned  region  having  the  form  of  a  bird  called  gapagapa  {Collocalia  urupygialis).
 
 Another  pigment  called  urai  salagoro  has  a  colour  which
 was  compared  by  my  informant  to  dull  gold.  It  is  prepared
@@ -7943,14 +6970,11 @@ from  the  husk  of  the  unripe  fruit  of  the  cycas  which  is  spread
 out,  dried  and  powdered,  and  the  powder  is  blown  into  the
 closely  interwoven  texture  of  the  hair.
 
-Another  yellow  pigment  is  called  urai  ango,  which  unin-
-itiated people  suppose  to  be  turmeric.  This  is  not  so,  but
+Another  yellow  pigment  is  called  urai  ango,  which  uninitiated people  suppose  to  be  turmeric.  This  is  not  so,  but
 our  informant  did  not  know  the  method  of  preparation.
 
 A   green   pigment   called    urai  mantap    is   prepared    by
 
-
-138  Melanesian  Society
 
 mixing  the  bark  of  a  green  bamboo  with  coconut  cream,
 i.e.  with  the  expressed  juice  of  the  white  of  the  coconut
@@ -7958,8 +6982,7 @@ heated  to  boiHng  point  by  means  of  hot  stones.  The  mixture
 does  not  look  well  at  first  but  becomes  a  brilliant  green  as  it
 dries.
 
-A  white  pigment  called  urai  gara  is  made  on  the  sea-
-shore, all  the  others  being  prepared  in  the  salagoro.  Pig-
+A  white  pigment  called  urai  gara  is  made  on  the  seashore, all  the  others  being  prepared  in  the  salagoro.  Pig-
 ments not  made  in  the  salagoro  may  only  be  taken  into  it  by
 a  man  who  can  werewere.
 
@@ -7983,18 +7006,15 @@ the  place  where  the  pigment  has  been  prepared.
 
 The  hair  is  not  only  coloured  but  made  to  assume  various
 shapes,  partly  by  cutting,  partly  by  pressing.  This  is  done
-by  those  who  are  skilled  but  no  especial  initiation  is  neces-
-sary.
+by  those  who  are  skilled  but  no  especial  initiation  is  necessary.
 
 It  is  doubtful  how  far  the  kolekole  performances  form  an
 integral  part  of  the  organisation  of  the  Stikwe  and  Tamate
-societies,  and  it  is  possible  that  they  form  a  separate  institu-
-tion which  has  only  become  connected  with  that  organisation
+societies,  and  it  is  possible  that  they  form  a  separate  institution which  has  only  become  connected  with  that  organisation
 owing  to  the  custom  of  associating  with  the  performances
 certain  features  of  the  secret  ritual.  It  is  probable,  however,
 that  the  association  with  the  Sukwe  and  Tamate  societies  is
-very  close  and  deeply  seated,  and  that  the  kolekole  perfor-
-mances are  means  whereby  the  general  population  is  allowed
+very  close  and  deeply  seated,  and  that  the  kolekole  performances are  means  whereby  the  general  population  is  allowed
 to  participate  to  some  extent  in  the  ceremonial  of  these
 bodies.      Further,  the   foregoing  account  has  included  many
 
@@ -8002,8 +7022,7 @@ bodies.      Further,  the   foregoing  account  has  included  many
 Social  Importance  of  Sukwe  139
 
 features  of  ritual  in  which  women  are  especially  concerned.
-In  several  of  these  cases  the  objects  round  which  the  cere-
-monial centres  are  called  tamate  and  it  would  seem  possible
+In  several  of  these  cases  the  objects  round  which  the  ceremonial centres  are  called  tamate  and  it  would  seem  possible
 that  these  are  occasions  on  which  women  are  allowed  or
 encouraged  to  imitate  features  of  the  men's  organisation  in
 what  seems  to  the  men  to  be  a  harmless  way.  It  is  a  question
@@ -8029,8 +7048,7 @@ Tamate  societies  is  that  the  determination  of  social  rank  and
 importance  is  largely  dependent  on  them.  It  is  not  merely
 that  a  man  can  acquire  increase  of  rank  and  general  social
 importance  in  the  eyes  of  the  community  in  general  by  rising
-in  the  Sukwe,  but  also  that  such  a  high  place  in  social  esti-
-mation can  be  acquired  by  the  possession  of  certain  special
+in  the  Sukwe,  but  also  that  such  a  high  place  in  social  estimation can  be  acquired  by  the  possession  of  certain  special
 accomplishments,  such  as  that  of  being  able  to  make  the
 werewere  sounds  in  all  their  completeness.  Further,  as  has
 just  been  seen,  a  man  can  rise  in  social  estimation  merely  by
@@ -8048,8 +7066,6 @@ It  was  said  that  the  dignity  of  etvusmel  descended  from  father
 
 »  M.,  1 10.  2  j/_^  54,
 
-
-140  Melanesian  Society
 
 to  son,  but  it  was  doubtful  whether  this  meant  anything  more
 than  that  the  father  put  his  son  in  the  way  to  rise  high  in  the
@@ -8076,8 +7092,7 @@ members  already  initiated,  such  as  the  introducer,  to  other
 persons.  Further,  the  account  of  the  initiation  into  the
 Wometeloa  rank  in  Vanua  Lava  (see  p.  68)  shows  that
 the  contributions  made  towards  the  price  of  initiation  are
-largely  if  not  altogether  in  return  for  previous  gifts  or  pay-
-ments. It  is  evident  that  there  has  thus  come  into  existence
+largely  if  not  altogether  in  return  for  previous  gifts  or  payments. It  is  evident  that  there  has  thus  come  into  existence
 an  immense  body  of  vested  interests.  A  man  who  has  spent
 large  sums  of  money  in  order  to  rise  high  in  the  Sukwe  has
 partly  done  so  in  order  that  by  receiving  money  from  those
@@ -8129,12 +7144,10 @@ has  removed  a  social  danger  to  which  the  organisation  of  the
 Sukwe  standing  alone  would  have  exposed  them.
 
 Though  there  are  thus  social  factors  which  have  prevented
-the  Sukwe  and  Tamate  societies  from  becoming  too  exclu-
-sively the  means  for  the  acquisition  of  wealth,  there  can  be  no
+the  Sukwe  and  Tamate  societies  from  becoming  too  exclusively the  means  for  the  acquisition  of  wealth,  there  can  be  no
 doubt  that  the  high  degree  of  development  of  these  bodies  has
 brought  in  its  train  so  complicated  a  mass  of  vested  interests
-that  their  disappearance  would  produce  very  great  con-
-fusion in  social  values.  It  may  be  noted  that  the  whole  of
+that  their  disappearance  would  produce  very  great  confusion in  social  values.  It  may  be  noted  that  the  whole  of
 the  monetary  transactions  of  the  Sukwe  take  place  in  the
 native  currency  of  shell-money  and  it  has  been  suggested  that
 with  the  increasing  use  of  European  money  these  vested
@@ -8145,8 +7158,6 @@ The  part  played  by  the  Tamate  societies  in  the  protection
 of  property  has  already  been  fully  considered.  Their  influence
 is  of  two  opposed  kinds.      It  is  by  means  of  the  badges  of  the
 
-
-142  Melanesian  Society
 
 societies  that  property  is  normally  protected,  these  serving
 as  taboo-marks  analogous  to  those  which  act  as  the  protectors
@@ -8206,8 +7217,7 @@ man  of  business  and  so  maintain  the  vigour  of  the  community.
 To  be  a  successful  Melanesian  citizen  [i.e.  one  high  in  the
 Suqe\  means  that  a  man  must  have  unlimited  patience,
 indomitable  perseverance,  excellent  health,  and  a  strong
-physique  to  enable  him  to  recover  from  the  perpetual  succes-
-sion of  losses  of  which  he  runs  the  risk."
+physique  to  enable  him  to  recover  from  the  perpetual  succession of  losses  of  which  he  runs  the  risk."
 
 
 CHAPTER   VI
@@ -8247,8 +7257,7 @@ house  till  strong,  the  idea  being  that  the  afterbirth  which  is
 part  of  him  is  in  the  house,  and  if  the  child  is  taken  to
 another  village  before  he  is  strong  he  will  be  sulky  and  cross
 because  part  of  him  remains  in  the  house ;  he  has  been  taken
-away  from  his  nigina  (or  nest)  which  is  a  name  for  the  fire-
-place and  the  part  of  the  house  surrounding  it.  The  after-
+away  from  his  nigina  (or  nest)  which  is  a  name  for  the  fireplace and  the  part  of  the  house  surrounding  it.  The  after-
 birth is  regarded  as  the  house  of  the  child  before  it  is  born.
 
 
@@ -8300,10 +7309,6 @@ as  in  the  net  or  on  the  hook  and  will  not  come  forth  freely*.
 ^  I  was  told  of  these  customs  in  connection  with  the  birth  of  a  first-born  child
 but  they  are  probably  practised  before  any  birth.
 
-R.  M.  S.  10
-
-
-146  Melanesian  Society
 
 The  parents  must  remain  in  the  house  for  some  time  after
 the  child  is  born.  The  father  must  not  do  any  work  for  five
@@ -8390,8 +7395,7 @@ turned  out  to  be  incorrect.  Whether  the  naming  is  done
 before  or  after  birth  there  is  no  special  ceremony  or  feast.
 
 In  all  cases  there  is  a  feast  ten  days  after  birth,  when
-those  who  have  been  present  at  the  birth  receive  their  pay-
-ment. The  women  paid  on  this  occasion  give  coconut  oil
+those  who  have  been  present  at  the  birth  receive  their  payment. The  women  paid  on  this  occasion  give  coconut  oil
 which  is  drunk  by  the  parents  of  the  child.
 
 The  foregoing  account  applies  to  the  island  of  Mota  and
@@ -8403,8 +7407,6 @@ They  bring  their  mats  and  sleep  there,  the  gathering  being
 
 10 — 2
 
-
-148  Melanesian  Society
 
 called  lengvisi.  On  the  fifth  day  after  birth  there  is  a  feast,
 the  men  eating  in  the  gamal  food  which  has  been  cooked  in
@@ -8475,8 +7477,7 @@ path  he  will  know  that  there  has  been  a  tarak^.  After  this
 ceremony  the  mother  will  go  to  work.
 
 In  Motlav  they  have  a  custom  called  virep  virep  similar
-to  that  called  kalo  vagalo  in  Mota,  but  there  are  many  differ-
-ences. The  child  has  no  bow  in  its  hand  and  remains  in  the
+to  that  called  kalo  vagalo  in  Mota,  but  there  are  many  differences. The  child  has  no  bow  in  its  hand  and  remains  in  the
 house,  the  father  only  standing  at  the  door,  when  he  is  pelted
 with  fruit  and  not  shot  at  with  bows  and  arrows.  When  the
 uncles  are  paid  by  the  father  each  is  given  a  small  piece  of
@@ -8502,15 +7503,12 @@ Another  ceremony  called  hirmarmartok  takes  place  shortly
 of  money  given  in  the  earlier  rite.
 
 
-150  Melanesian  Society
-
 before  delivery  is  expected  when  the  husband  gives  to  the
 wife's  brother  two  fathoms  of  money,  the  idea  being  that  the
 woman's  womb  may  be  large  and  the  child  strong.  This
 again  is  only  done  for  the  first-born.
 
-If  the  husband  catches  an  octopus  during  his  wife's  preg-
-nancy neither  he  nor  his  wife  will  eat  it,  the  idea  being  that
+If  the  husband  catches  an  octopus  during  his  wife's  pregnancy neither  he  nor  his  wife  will  eat  it,  the  idea  being  that
 the  child  will  cling  to  the  womb  and  not  come  out.  As  in
 Mota  the  mother  must  not  eat  fish  caught  with  a  hook,  it
 being  believed  the  child  would  be  held  back  as  with  a  hook.
@@ -8588,8 +7586,7 @@ this  way  was  regarded  as  more  or  less  supernatural,  a  spirit
 animal  and  not  one  material,  from  the  beginning.
 
 It  has  happened  in  the  memory  of  an  old  man  now
-living  on  Mota  that  a  woman  found  an  animal  in  her  loin-
-cloth and  carried  it  carefully  in  her  closed  hands  to  the  village,
+living  on  Mota  that  a  woman  found  an  animal  in  her  loincloth and  carried  it  carefully  in  her  closed  hands  to  the  village,
 but  that  when  she  opened  her  hands  to  show  it  to  the
 people,  the  animal  had  gone,  and  in  this  case  it  was  believed
 that  the  entry  had  taken  place  while  the  woman  was  on  her
@@ -8601,8 +7598,6 @@ this  did  not  seem  to  be  regarded  as  a  matter  of  importance.
 It  seemed  clear  that  the  people  are  now  aware  of  a  relation
 between   sexual   intercourse  and  pregnancy,  and  that  cases
 
-
-152  Melanesian  Society
 
 of  childbirth  which  follow  the  appearance  of  an  animal  or
 plant  are  not  regarded  as  exceptional  in  this  respect.
@@ -8653,13 +7648,10 @@ you  come  from  the  malmalagaviga  ?  "     Again,  if  the  fruit  is
 
 Animals  and  Childbirth  153
 
-one  called  womarakarakwat  the  child  will  have  a  good  dis-
-position\
+one  called  womarakarakwat  the  child  will  have  a  good  disposition\
 
-The  animal  or  plant  nature  believed  to  be  possessed  by-
-certain  persons  has  no  influence  in  the  regulation  of  marriage.
-There  is  nothing  to  prevent  an  eel-man  marrying  an  eel-
-woman  if  they  are  otherwise  suitable  mates.
+The  animal  or  plant  nature  believed  to  be  possessed  bycertain  persons  has  no  influence  in  the  regulation  of  marriage.
+There  is  nothing  to  prevent  an  eel-man  marrying  an  eelwoman  if  they  are  otherwise  suitable  mates.
 
 In  the  island  of  Motlav  there  is  a  similar  belief  that  if  a
 mother  has  found  an  animal  before  childbirth,  the  child  will
@@ -8687,8 +7679,7 @@ persons  abstain  from  the  use  of  certain  kinds  of  food  ;  thus,  a
 Motlav  man  who  has  certain  powers  of  a  medical  or  magical
 kind  may  abstain  from  eating  some  animal,  believing  that  his
 rites  would  otherwise  lose  their  efficacy.  Again,  it  is  habitual
-in  mourning  to  abstain  from  certain  kinds  of  food.  Some-
-times the  mourner  will  himself  or  herself  decide  to  naro  or
+in  mourning  to  abstain  from  certain  kinds  of  food.  Sometimes the  mourner  will  himself  or  herself  decide  to  naro  or
 prohibit  certain  kinds  of  food,  and  this  custom  is  so  definite  in
 the  case  of  a  widow  or  widower  that  the  term  naro  is  used  for
 the  condition  of  these  persons.  When  a  man  dies  his  sister's
@@ -8702,11 +7693,8 @@ purpose  to  another,  while  one  boy  now  on  Mota  is  fond  of  playing  be
 man  dreamed  shortly  before  his  birth  of  children  playing  round  a  pool.
 
 
-154  Melanesian  Society
-
 custom  and  are  never  forbidden  as  food.  I  could  not  find
-that  these  prohibitions  are  ever  transmitted  to  a  later  genera-
-tion.
+that  these  prohibitions  are  ever  transmitted  to  a  later  generation.
 
 The  Tamaniu.
 
@@ -8801,8 +7789,6 @@ and  the  creature  nodded  its  head  and  returned  into  the
 roots  of  the  banyan  tree.     They  went  back  and  told  the  blind
 
 
-156  Melanesian  Society
-
 man  that  he  was  ill,  and  not  long  after  he  died.  At  the  same
 time  the  banyan  tree  fell  and  is  still  lying  on  the  ground
 across  the  pathway,  and  this  was  taken  as  a  sign  that  the
@@ -8830,8 +7816,7 @@ practices  which  a  full  investigation  would  reveal  in  these
 islands.  The  amount  of  material  which  I  was  able  to  collect
 in  the  short  time  at  my  disposal  is  sufficient  to  show  that  the
 magic  of  the  Banks  Islands  presents  much  of  interest  and  one
-feature  which,  so  far  as  I  know,  has  not  been  described  else-
-where, viz.  the  existence  of  special  associations,  bodies  of  men
+feature  which,  so  far  as  I  know,  has  not  been  described  elsewhere, viz.  the  existence  of  special  associations,  bodies  of  men
 who,  while  learning  a  magical  method,  at  the  same  time  protect
 themselves  against  the  magic  of  others.
 
@@ -8847,8 +7832,7 @@ death  on  the  other.
 Mota.  The  more  beneficent  forms  of  magic  are  the
 appanage  of  certain  men  who  have  usually  inherited  their
 powers  from  the  maternal  uncle  and  only  exceptionally  from
-the  father  even  now  when,  so  far  as  other  property  is  con-
-cerned, inheritance  from  the  father  is  becoming  frequent.    The
+the  father  even  now  when,  so  far  as  other  property  is  concerned, inheritance  from  the  father  is  becoming  frequent.    The
 
 
 Magic  157
@@ -8928,16 +7912,14 @@ him  produced  an  epidemic  which  affected  a  large  proportion
 of  the  population.  The  man  put  together  a  number  of  objects
 including  leaves  of  a  certain  tree,  a  lizard,  the  bones  of  a  man
 and  something  from  the  sea.  He  mixed  these  by  crushing
-them  together  and  put  them  in  a  piece  of  bamboo  and  climb-
-ing into  a  tree  he  held  the  bamboo  so  that  the  wind  blowing
+them  together  and  put  them  in  a  piece  of  bamboo  and  climbing into  a  tree  he  held  the  bamboo  so  that  the  wind  blowing
 from  the  island  of  Merlav  would  reach  it  and  pass  on  to  the
 village  where  his  enemy  was  living.  Soon  after  the  sickness
 began,  and  after  a  time  he  was  entreated  to  stop  the  epidemic.
 In  order  to  do  so,  he  prepared  a  number  of  young  coconuts,
 so  young  that  they  could  be  torn  off  with  the  hand,  and  by
 some  means  imparted  mana  to  these.  He  then  called  his
-sister's  son  and  told  him  to  pour  some  juice  from  the  coco-
-nuts in  the  middle  of  the  village  and  at  the  door  of  every
+sister's  son  and  told  him  to  pour  some  juice  from  the  coconuts in  the  middle  of  the  village  and  at  the  door  of  every
 house  in  which  there  was  a  sick  person  while  other  juice  was
 to  be  blown  into  the  air.
 
@@ -9005,8 +7987,7 @@ i6o  Melanesian  Society
 taken  to  the  head  man  and  is  given  to  drink  the  milk  of  a
 young  coconut  in  the  stage  called  ihal,  the  head  man  or
 someone  else  already  a  member  drinking  of  the  same  coconut.
-If  several  men  join  at  once,  they  all  drink  of  the  same  coco-
-nut, the  common  drinking  being  called  oloolo.  The  initiates
+If  several  men  join  at  once,  they  all  drink  of  the  same  coconut, the  common  drinking  being  called  oloolo.  The  initiates
 learn  the  magical  method  which  is  the  special  property  of  the
 association,  such  as  garatai  or  talamatai,  and  have  in  future
 the  power  of  putting  it  into  effect,  but  they  may  only  do  so
@@ -9101,8 +8082,6 @@ and  breaking  it  in  half  he  gives  one  half  to  the  man  who  is  to
 R.  M.  S.  II
 
 
-1 62  Melanesian  Society
-
 be  injured  while  he  eats  another  piece  of  yam  himself  which
 the  victim  is  led  to  believe  is  the  other  half  of  his  own.  As
 a  matter  of  fact  the  piece  of  yam  which  is  eaten  has
@@ -9192,12 +8171,9 @@ formulas  are  said.
 The  method  for  making  rain  was  described  much  more
 fully  than  in  Mota.  Here  the  rite  is  done  in  the  house  in  the
 middle  of  which  a  great  clam-shell  called  nabeng  is  placed,
-and  on  either  side  of  this  shell  large  stones  are  put  to  repre-
-sent the  big  clouds  rising  from  the  horizon  which  are  called
+and  on  either  side  of  this  shell  large  stones  are  put  to  represent the  big  clouds  rising  from  the  horizon  which  are  called
 gerger.     Other  stones  are  then  added  to  support  these  so  as
 
-
-164  Melanesian  Society
 
 to  make  the  clouds  thicker  and  thicker.  Between  the  stones
 and  the  shell  umbrella-palm  leaves  are  put  to  represent  the
@@ -9380,11 +8356,8 @@ aspect  is  found  to  be  made  up  of  strong  fibres  which  are  used
 without  further  preparation.
 
 I  saw  the  latter  part  of  the  process  of  manufacture  at
-Rowa  and  nothing  could  have  been  simpler  and  more  ex-
-peditious than  the  conversion  of  the  fragments  of  shell  into
+Rowa  and  nothing  could  have  been  simpler  and  more  expeditious than  the  conversion  of  the  fragments  of  shell  into
 
-
-1 68  Melanesian  Society
 
 the  discs,  advantage  being  taken  of  the  natural  hollowing  of
 one  side  to  rub  down  only  the  other  side  of  the  fragment.
@@ -9437,8 +8410,7 @@ complexities  in  the  native  table  of  measures  which  I  was  not
 
 Money  1 69
 
-able  to  understand  satisfactorily.  When  describing  trans-
-actions of  the  Sukwe,  it  was  continually  stated  that  so  many
+able  to  understand  satisfactorily.  When  describing  transactions of  the  Sukwe,  it  was  continually  stated  that  so  many
 rova  or  fathoms  would  be  given,  but  in  some  islands,  not
 apparently  in  all,  this  meant  that  double  the  number  were
 really  given,  a  man  giving  twice  the  amount  which  had  been
@@ -9483,8 +8455,6 @@ same  whatever  the  interval  which  elapses  between  the  loan
 and  its  repayment.      Here  again  we  have  a  doubling  of  an
 
 
-170  Melanesian  Society
-
 amount  of  money  which  has  a  suggestive  resemblance  to  the
 doubling  of  the  rova  in  the  Stikwe  ceremonial.
 
@@ -9498,8 +8468,7 @@ Motlav  letnovivhe.  Another  shorter  measure  is  that  which  in
 Motlav  is  called  tarak,  probably  the  length  from  the  wrist  to
 the  ends  of  the  fingers.
 
-In  a  ceremony  after  death  (see  p.  59)  strings  of  shell-
-money  are  drawn  away  from  the  corpse  and  the  name  of  this
+In  a  ceremony  after  death  (see  p.  59)  strings  of  shellmoney  are  drawn  away  from  the  corpse  and  the  name  of  this
 ceremony,  rave  epa  or  "  draw  mat "  suggests  a  survival  of  the
 time  when  mats  were  money  in  the  Banks  Islands  as  they
 still  are  in  the  northern  New  Hebrides.
@@ -9524,8 +8493,7 @@ water  reaches  their  waists.  After  turning  the  canoe  round
 three  times,  the  men  stand  in  two  rows,  one  on  each  side  of
 the  canoe,  and  those  on  one  side  push  the  canoe  towards
 those  on  the  other  side  who  push  it  back  towards  the  former,
-and  this  is  done  three  times.  (It  may  be  noted  that  the  com-
-position of  these  two  rows  of  men  has  no  relation  to  the  two
+and  this  is  done  three  times.  (It  may  be  noted  that  the  composition of  these  two  rows  of  men  has  no  relation  to  the  two
 moieties  of  the  community,  each  row  being  composed  of  men
 of  both  veve.)     Then  all  the  men  stand  round  the  canoe  and
 
@@ -9534,8 +8502,7 @@ of  both  veve.)     Then  all  the  men  stand  round  the  canoe  and
 
 Canoes  lyi
 
-each  in  turn  puts  his  hand  on  it  and  passes  it  on  to  his  neigh-
-bour till  it  has  passed  round  the  whole  circle,  and  this  again
+each  in  turn  puts  his  hand  on  it  and  passes  it  on  to  his  neighbour till  it  has  passed  round  the  whole  circle,  and  this  again
 happens  three  times,  the  ceremony  having  a  striking  similarity
 to  that  of  handing  round  a  newly  born  child  in  Motlav
 (see  p.  148).  Then  the  people  put  sand  on  leaves  and  place
@@ -9582,8 +8549,6 @@ sinks  at  sea  and  some  one  in  a  canoe  which  remains  afloat  says,
 He  is  not  a  'big  man'  when  he  is  out  at  sea."
 
 
-172  Melanesian  Society
-
 A  man  who  is  going  for  a  voyage  of  any  length  will  take
 only  his  own  sogoi  with  him,  for  if  he  took  members  of  the
 other  veve  and  anything  happened  to  one  of  them  while  away
@@ -9603,8 +8568,7 @@ old  days  no  very  long  journeys  were  made  by  canoe.  Thus
 the  people  of  Mota  would  go  as  far  as  Santa  Maria  or
 Ureparapara  but  not  to  Merlav  or  other  distant  islands  in
 that  direction.  The  people  never  travel  by  night  and  in
-consequence  never  use  the  stars  in  navigation  and  in  corres-
-pondence with  this  I  could  obtain  no  definite  information
+consequence  never  use  the  stars  in  navigation  and  in  correspondence with  this  I  could  obtain  no  definite  information
 about  the  names  of  stars  or  constellations  :  a  few  names  were
 given  but  my  informant  could  not  point  out  the  stars  which
 they  were  said  to  denote.
@@ -9613,17 +8577,14 @@ they  were  said  to  denote.
 Decorative  Art.
 
 In  the  account  of  the  Sukwe  and  Tamate  societies  I  have
-given  illustrations  in  several  places  of  patterns  and  orna-
-mentation which  may  now  be  considered  as  examples  of
+given  illustrations  in  several  places  of  patterns  and  ornamentation which  may  now  be  considered  as  examples  of
 decorative  art.
 
 The  pudding-knives  shown  in  PI.  V,  VI  and  VII  give  a  very
-good  example  of  transition  between  geometrical  and  anthropo-
-morphic or  zoomorphic  figures.  The  designs  of  most  of  the
+good  example  of  transition  between  geometrical  and  anthropomorphic or  zoomorphic  figures.  The  designs  of  most  of  the
 knives  are  evidently  based  on  the  human  figure,  and  those
 marked  A  i  to  A  6  appear  to  furnish  a  fairly  continuous  series.
-A  4  would  seem  to  be  most  naturally  explained  by  the  disap-
-pearance of  the  head,  and  if  this  transition  be  accepted  the
+A  4  would  seem  to  be  most  naturally  explained  by  the  disappearance of  the  head,  and  if  this  transition  be  accepted  the
 other  two  knives  would  show  still  further  conventionalisation*.
 The  fact,  however,  that  these  knives  belong  to  different  ranks
 of  the  Sukwe  makes  one  hesitate  in  supposing  A  4,  5,  and  6  to
@@ -9645,8 +8606,7 @@ has  been  blended  a  different  pattern.
 The  knives  numbered  B  7  and  8  and  C  i  to  5  show
 sufficient  resemblance  to  one  another  to  make  it  probable  that
 they  also  have  been  based  on  the  human  figure,  though  there
-must  be  doubt  about  C  i  which  possibly  belongs  to  an  alto-
-gether different  series.  Of  the  others  C  2  perhaps  departs
+must  be  doubt  about  C  i  which  possibly  belongs  to  an  altogether different  series.  Of  the  others  C  2  perhaps  departs
 most  widely  from  the  human  pattern,  but  its  anthropomorphic
 nature  is  rendered  probable  by  a  study  of  the  belts  D  and  E
 in  PI.  XI.  There  is  a  fairly  definite  resemblance  between
@@ -9655,8 +8615,7 @@ the  knife.
 
 Four  knives  figured  by  Mr  Edge-Partington^  are  shown
 in  PI.  VII,  E.  The  knife  E  3  has  a  general  resemblance
-to  A  I  and  A  2,  but  the  very  different  shape  of  the  head-
-covering  makes  it  probable  that  it  belongs  to  a  different
+to  A  I  and  A  2,  but  the  very  different  shape  of  the  headcovering  makes  it  probable  that  it  belongs  to  a  different
 series.  E  2  almost  certainly  belongs  to  the  same  series
 as  B  8.  E  I  probably  goes  with  A  4  to  6,  while  E  4
 cannot  be  definitely  linked  with  any  of  the  others.  Taking
@@ -9673,15 +8632,12 @@ and  legs,  would  be  found  also  to  be  connected  with  the
 different  kinds  of  head-covering.
 
 One  or  two  more  points  may  be  mentioned.  A  comparison
-of  A  2  and  3  shows  very  clearly  the  transition  from  the  out-
-turned  hands  in  A  2  to  the  condition  in  A  3  which  might  be
+of  A  2  and  3  shows  very  clearly  the  transition  from  the  outturned  hands  in  A  2  to  the  condition  in  A  3  which  might  be
 taken  merely  for  a  ridge  designed  to  separate  the  handle  from
 the  blade  of  the  knife.    B  6  shows  a  condition  which  approaches
 
 ^  Man,  1 909?  IX,  182.
 
-
-174  Melanesian  Society
 
 very  nearly  to  the  out-turned  hands  of  A  2,  and  in  B  5  traces
 of  the  hands  or  feet  still  remain  above  the  ridge.  Similarly,
@@ -9771,8 +8727,7 @@ sun,  and  all  the  people  of  the  southern  part  of  the  island  had
 their  gardens  scorched  and,  in  consequence,  drove  out  the
 people  of  the  north  to  Tegua,  where  they  have  since  lived.
 The  hostility  between  those  who  remained  on  Loh  and  those
-who  were  driven  out  has  continued  ever  since  and  is  con-
-stantly breaking  out  in  warfare.  Till  recently  no  intermarriage
+who  were  driven  out  has  continued  ever  since  and  is  constantly breaking  out  in  warfare.  Till  recently  no  intermarriage
 took  place  between  the  people  of  Loh  and  Hiw,  but  since
 the  return  of  labourers  from  Queensland  this  rule  has  been
 breaking  down.
@@ -9840,8 +8795,6 @@ corresponding  to  the  use  of  ma.  It  is  also  used  for  the  father's
 sister,  and  for  the  wife  of  the  mother's  brother.  Like  ma,  it  is
 used  in  the  usual  classificatory  sense.
 
-R.  M.  s.  12
-
 
 lyS  Melanesian  Society
 
@@ -9899,8 +8852,6 @@ Recha  or  reja.  This  is  a  reciprocal  term  for  husband's
 mother  and  son's  wife,  i.e.   it  is  applied  to  women  by  one
 
 
-Relationship  1 79
-
 another.  This  term  is  also  used  between  husband's  sister  and
 brother's  wife,  woman  speaking.  The  husband's  mother  may,
 however,  also  be  called  kwiliga.  The  term  recha  or  reja  is
@@ -9916,8 +8867,7 @@ sister  and  the  wife  of  the  brother  of  a  woman.  Thus,  it  is
 applied  by  women  to  women  just  as  wuluk  is  applied  by  men
 to  men.  These  relatives  also  call  one  another  recha  or  reja.
 The  husband's  brother  and  the  wife  of  the  brother  of  a  man
-are  addressed  by  name,  and  personal  names  may  be  used  be-
-tween the  wife's  sister  and  the  sister's  husband,  who  also  call
+are  addressed  by  name,  and  personal  names  may  be  used  between the  wife's  sister  and  the  sister's  husband,  who  also  call
 one  another  chiochiok  and  tigik  (sister  and  brother).  The
 wife  of  the  sister's  son  is  also  addressed  by  name  by  a  man.
 
@@ -9963,8 +8913,7 @@ The  following  are  the  terms  of  this  island  : —
 
 Mamakia.  This  term,  meaning  father  or  rather  "my
 father,"  is  also  applied  to  the  father's  brother,  and  to  those
-whom  the  father  would  call  brother  according  to  the  classifi-
-catory  principle.
+whom  the  father  would  call  brother  according  to  the  classificatory  principle.
 
 Tatakia.  Mother,  mother's  sister,  wife  of  the  father's
 brother  and  others  in  the  ordinary  classificatory  way.
@@ -10012,8 +8961,6 @@ sister's  husband.  If  this  be  so,  the  difficult  point  to  understand
 is  that  in  the  case  of  relatives  by  marriage  the  term  would  be
 
 
-Relationship  1 8 1
-
 used  only  between  persons  of  the  same  sex,  whereas  in  the
 case  of  cousins,  it  is  also  used  between  those  of  different  sex.
 
@@ -10032,8 +8979,7 @@ for  brother  and  sister  according  to  the  sex  of  the  speaker
 seems  to  be  habitual  in  this  island,  and  there  is  definitely
 present  the  distinction  of  the  children  of  mother's  brother  and
 father's  sister  from  other  cousins  which  is  absent  in  Loh.  On
-the  other  hand,  no  distinction  is  made  in  Hiw  between  grand-
-parents of  different  sexes,  nor  between  parents-  and  children-
+the  other  hand,  no  distinction  is  made  in  Hiw  between  grandparents of  different  sexes,  nor  between  parents-  and  children-
 in-law  of  different  sexes.  The  application  of  the  usual  term
 for  parent-in-law  to  the  wife  of  the  mother's  brother  is
 evidently  a  consequence  of  the  cross-cousin  marriage,  and
@@ -10045,11 +8991,9 @@ term  as  is  used  for  cross-cousins.
 
 The  foregoing  terms  were  obtained  by  the  genealogical
 method  and  with  less  ample  pedigrees  than  I  should  have  liked.
-Though  they  are  doubtless  correct  in  essentials,  they  will  pro-
-bably require  some  modification  in  detail  for  there  is  one
+Though  they  are  doubtless  correct  in  essentials,  they  will  probably require  some  modification  in  detail  for  there  is  one
 feature  of  Torres  sociology  which  introduces  a  difficulty  in
-the  use  of  pedigrees  as  a  means  of  collecting  terms  of  relation-
-ship. In  these  islands  marriages  between  relatives  are  very
+the  use  of  pedigrees  as  a  means  of  collecting  terms  of  relationship. In  these  islands  marriages  between  relatives  are  very
 frequent  (see  p.  185),  and  in  consequence  two  persons  are
 often  related  in  more  than  one  way.  Thus,  if  a  man  marries
 the  daughter  of  his  mother's  brother,  his  uncle  becomes  kwiliga
@@ -10060,9 +9004,6 @@ become  kwiiga  by  the  marriage  of  a  woman  with  her  brother's
 son.  These  double  relationships  make  it  necessary  to  use
 many  pedigrees  in  order  to  obtain  the  exact  connotation  of
 the  terms.
-
-
-1 82  Melanesian  Society
 
 
 Functions  of  Relatives.
@@ -10076,8 +9017,7 @@ Hiw  marriage  may,  and  in  the  old  days  used  frequently  to,
 take  place  between  these  two  relatives.  This  marriage  is  not
 now  allowed  in  Loh.
 
-Numerous  regulations  concerning  behaviour  towards  rela-
-tives by  marriage  were  recorded  in  Loh.  In  this  island  a  man
+Numerous  regulations  concerning  behaviour  towards  relatives by  marriage  were  recorded  in  Loh.  In  this  island  a  man
 has  a  special  regard  for  his  wife's  father.  If  the  father  of  the
 wife  passes  by,  the  son-in-law  need  not  stand  up  unless  the
 father-in-law  speaks  to  him  but  in  general  if  a  man  is  sitting
@@ -10098,8 +9038,7 @@ son-in-law  goes  by.  The  behaviour  towards  the  wife's  mother
 is  of  the  same  kind.  A  man  must  not  go  near  this  relative
 nor  say  her  name  and  he  may  only  talk  to  her  from  a  distance
 of  five  or  six  yards.  If  for  any  reason  he  has  to  pass  her  at
-a  smaller  distance  than  this  he  will  do  so  in  a  crouching  atti-
-tude and  in  no  case  will  he  pass  her  if  she  is  sitting.  If,  on
+a  smaller  distance  than  this  he  will  do  so  in  a  crouching  attitude and  in  no  case  will  he  pass  her  if  she  is  sitting.  If,  on
 the  other  hand,  the  wife's  mother  has  to  pass  her  son-in-law
 even  at  a  greater  distance,  she  will  go  down  on  her  hands  and
 knees  and  will  not  pass  him  at  all  if  he  is  sitting.  It  was
@@ -10136,11 +9075,9 @@ speaking  to  his  wife.  It  has  the  same  significance  as  the  use  of
 the  personal  name.  On  the  other  hand,  a  man  may  call  his
 brother's  wife  by  name  though  he  will  not  speak  to  her
 familiarly  nor  use  the  word  cha,  but  in  this  case  it  did  not
-appear  that  the  use  of  the  personal  name  implied  sexual  rela-
-tions. It  is  probable  that  this  approach  to  polyandry  is  now
+appear  that  the  use  of  the  personal  name  implied  sexual  relations. It  is  probable  that  this  approach  to  polyandry  is  now
 so  foreign  to  the  ideas  of  the  people  that  the  use  of  the
-personal  name  is  not  regarded  as  important  while  the  relation-
-ship with  the  wife's  sister  is  one  which  is  still  often  associated
+personal  name  is  not  regarded  as  important  while  the  relationship with  the  wife's  sister  is  one  which  is  still  often  associated
 with  sexual  relations.
 
 Those  who  call  one  another  wuluk  are  allowed  to  say
@@ -10157,8 +9094,6 @@ calls  them  magola  mino  or  child.  If  the  widow  marries  the
 brother  of  her  husband  who  comes  next  to  him  in  order  of
 age,  she  calls  his  younger  brothers  magola  mino.
 
-
-184  Melanesian  Society
 
 A  woman  must  not  take  a  basket  from  the  head  of  her
 husband's  sister  whom  she  calls  r'eja  or  rewoluk.  Either  of
@@ -10177,8 +9112,7 @@ another  gasala,  but  exists  between  persons  one  generation
 farther  back.
 
 In  Hiw  a  man  does  not  say  the  name  of  anyone  he  calls
-kiviiga.  If  a  man  wishes  to  pass  a  kwiiga  he  asks  for  permis-
-sion and  after  giving  it  the  kwiiga  will  turn  aside  his  or  her
+kiviiga.  If  a  man  wishes  to  pass  a  kwiiga  he  asks  for  permission and  after  giving  it  the  kwiiga  will  turn  aside  his  or  her
 head  as  the  son-in-law  goes  by.  Any  infringement  of  these
 rules  is  punished  by  a  fine  of  arrows,  pigs'  jawbones  and  kava.
 The  mother  of  the  wife  will  not  eat  anything  which  has  been
@@ -10189,8 +9123,7 @@ head  of  his  kwiiga  is  sacred.
 
 Regulation  of  Marriage.
 
-The  three  main  social  divisions  of  the  islands  are  exoga-
-mous ;  a  man  of  the  Teriiar  is  not  allowed  to  marry  a  woman
+The  three  main  social  divisions  of  the  islands  are  exogamous ;  a  man  of  the  Teriiar  is  not  allowed  to  marry  a  woman
 of  that  group  and  so  with  the  Gameljat  and  the  Gameltemata.
 I  have  no  evidence  that  the  metaviv  are  concerned  in  any
 way  with  the  regulation  of  marriage.  The  Torres  Islands,
@@ -10231,12 +9164,10 @@ and  similar  restrictions  apply  to  him.
 In  the  island  of  Loh  a  man  is  not  now  allowed  to  marry
 his  father's  sister  though  there  seems  to  be  no  doubt  that  this
 form  of  marriage  was  once  practised,  and  the  marriage  with
-the  daughter  of  the  brother  appears  to  be  unknown  now,  what-
-ever may  have  been  the  case  in  the  past.
+the  daughter  of  the  brother  appears  to  be  unknown  now,  whatever may  have  been  the  case  in  the  past.
 
 I  n  Loh  the  cross-cousin  marriage  exists  but  is  probably  far
-less  habitual  than  in  Hiw,  and  it  was  subject  to  certain  re-
-strictions. It  was  said  that  a  man  would  only  marry  the
+less  habitual  than  in  Hiw,  and  it  was  subject  to  certain  restrictions. It  was  said  that  a  man  would  only  marry  the
 daughter  of  his  mother's  brother  or  father's  sister  if  she  had
 two  elder  sisters.  In  other  words,  if  a  man  has  two  daughters
 only,  they  will  not  marry  their  cross-cousins  but  if  he  has
@@ -10271,8 +9202,7 @@ polished  and  cut  thin  round  the  lip;  another  called  la  tutu
 raina,  the  cup  standing  above,  or  la  kemhem  raina,  the  cup
 hanging  above,  consists  of  a  narrow  and  long  coconut-shell
 (see  Fig.  7  d)  cut  off  at  the  top,  also  polished  and  cut  thin
-round  the  lip;  the  third  bowl  called  rung  is  a  shallow  un-
-polished cup  which  is  used  to  hold  water.  These  cups  are
+round  the  lip;  the  third  bowl  called  rung  is  a  shallow  unpolished cup  which  is  used  to  hold  water.  These  cups  are
 placed  on  stands  consisting  of  rings  of  coconut-shell  and  they
 should  never  be  allowed  to  touch  the  ground.  The  men  of
 each  rank  of  the  Hukwa  prepare  and  drink  kava  in  their  own
@@ -10304,9 +9234,6 @@ intervals  a  little  water  into  his  mouth.     When  he  has  chewed
 Kava
 
 
-187
-
-
 sufficiently,  each  man  washes  his  hands  and  taking  the  chewed
 root  on  the  palm  of  his  hand,  he  places  it  in  the  shallow  cup
 which  he  fills  with  water,  and  squeezes  the  mass  thoroughly
@@ -10328,8 +9255,7 @@ Fig.  8.     Shell  [koh)  used  to  scrape  kava.
 you,  ye  ghosts  of  the  dead,  take  care  of  me,"  and  drinks  off
 the  kava  at  one  draught.  The  cup  is  not  drained  completely
 but  the  dregs  are  thrown  on  the  ground  with  the  word  ''tuf'
-while  either  on  this  occasion  or  when  throwing  away  the  sedi-
-ment left  during  the  pouring,  the  man  may  say,  "  Tut  vita  ne
+while  either  on  this  occasion  or  when  throwing  away  the  sediment left  during  the  pouring,  the  man  may  say,  "  Tut  vita  ne
 nanaria  da  no,''  "May  evil  things  depart  from  me,"  thus
 throwing  away  from  him  any  malignant  influence  due  to  his
 having  visited  some  forbidden  place  or  offended  in  any  other
@@ -10342,8 +9268,6 @@ will  approach  the  ganiel  while  kava  is  being  made  and  will  tap
 on  the  roof  as  a  signal  that  he  wishes  to  drink  and  a  cup  of  kava
 
 
-1 88  Melanesian  Society
-
 will  be  passed  out  to  him  in  return  for  an  arrow,  mat,  or  other
 object  used  in  native  business  transactions.
 
@@ -10353,8 +9277,7 @@ childbirth  the  husband  will  drink  kava  while  he  prays  to  some
 departed  ancestor  to  aid  his  wife  and  in  throwing  away  the
 dregs  the  cry  of  "  Tuf  will  indicate  an  appeal  that  harm  may
 be  averted  from  her.  When  the  child  is  one  hundred  days
-old  a  ceremony  is  performed  as  one  incident  of  which  kava-
-cups  are  placed  in  a  miniature  gamel.  When  the  boy  is  first
+old  a  ceremony  is  performed  as  one  incident  of  which  kavacups  are  placed  in  a  miniature  gamel.  When  the  boy  is  first
 introduced  into  the  gamel,  he  sits  beside  his  father  and  is
 given  a  little  water  to  sip  from  the  rung  or  water-bowl,  and
 when  he  is  fully  grown,  every  important  act  of  his  life  is
@@ -10392,8 +9315,7 @@ Pentecost  Island.
 
 The  system  of  Pentecost  is  the  most  complicated  and
 extraordinary  of  all  those  recorded  in  this  volume.  It  was
-obtained  during  a  brief  stay  at  the  island,  but  the  little  in-
-formation on  other  topics  which  I  was  able  to  obtain  is
+obtained  during  a  brief  stay  at  the  island,  but  the  little  information on  other  topics  which  I  was  able  to  obtain  is
 derived  either  from  a  native  who  was  on  the  Southern  Cross,
 or  from  John  Pantutun  of  Mota  who  had  lived  for  some  time
 in  the  island.  Any  general  information  I  can  give  about  the
@@ -10403,8 +9325,7 @@ endeavour  to  make  clear  the  probable  value  of  each  item.
 The  natives  of  Pentecost  from  whom  my  information
 was  obtained  came  from  the  neighbourhood  of  Lamalanga  at
 the  north  end  of  the  island.  At  least  two  different  languages
-are  spoken,  and  the  system  of  relationship  and  other  in-
-formation to  be  recorded  belong  to  the  people  occupying
+are  spoken,  and  the  system  of  relationship  and  other  information to  be  recorded  belong  to  the  people  occupying
 the  northern  end  of  the  island.  It  seemed  that  these  people
 call  themselves  and  their  language  Tahau.  I  was  told  that
 formerly  all  the  people  lived  in  two  districts,  one  at  each
@@ -10418,8 +9339,6 @@ The  social  structure  is  that  of  the  dual  organisation  with
 matrilineal  descent.  The  two  exogamous  moieties  are  called
 Tagaro  and  Malau,  the  latter  being   sometimes  also  called
 
-
-190  Melanesian  Society
 
 Subwe.  Each  moiety  is  called  a  tavalui,  and  a  man  calls
 a  person  of  his  own  moiety,  his  ataluna  or  havana.  There
@@ -10460,8 +9379,7 @@ moieties  and  that  this  secondary  grouping  has  the  effect
 of  preventing  marriage  with  certain  kin,  even  though  these
 belong  to  the  moiety  into  which  a  man  has  to  marry.
 The  exact  nature  of  this  secondary  grouping  must  be  left
-for  future  investigation.  Taken  in  conjunction  with  the  in-
-dependent evidence  of  John  Pantutun  it  would  seem  to  point
+for  future  investigation.  Taken  in  conjunction  with  the  independent evidence  of  John  Pantutun  it  would  seem  to  point
 to  some  very  important  modification  of  the  dual  organisation.
 
 1  In  this  pedigree  the  moieties  of  its  members  are  given  in  italics  below  their
@@ -10547,8 +9465,6 @@ tavalui  is  unknown  is  called  mutan  gai  halhala  or  floating
 stick.
 
 
-192  Melanesian  Society
-
 The  greater  part  of  the  system  of  relationship  to  be  now
 recorded  was  obtained  by  the  genealogical  method  during
 a  brief  visit  to  the  island  supplemented  by  information  given
@@ -10563,8 +9479,7 @@ list  of  terms  which  he  had  compiled  and,  with  one  or  two
 exceptions  which  will  be  recorded,  his  list  agrees  so  closely
 with  mine,  that  there  can  be  no  doubt  that  the  system  about
 to  be  recorded,  extraordinary  as  it  is,  is  accurate  in  all
-essentials.  The  following  are  the  terms  with  their  appli-
-cations. They  were  usually  obtained  with  the  third  person
+essentials.  The  following  are  the  terms  with  their  applications. They  were  usually  obtained  with  the  third  person
 possessive,  and  I  therefore  give  them  in  this  form,  adding
 occasionally  that  for  the  first  person  also.  In  the  cases  of
 the  more  anomalous  relationships,  I  have  added  instances
@@ -10576,11 +9491,9 @@ mother's  sister,  elder  brothers  of  the  father  being  tamana
 lalaboa  or  great  fathers  and  younger  brothers  tamana  terigi
 or  little  fathers.  In  addition  to  these  uses,  the  term  is  also
 applied  to  the  son  of  the  father's  sister  as  in  the  Banks
-Islands ;  thus  John  would  call  Allan  tamana,  i.e.  a  cross-
-cousin  is  called  by  the  same  term  as  the  father.  Other
+Islands ;  thus  John  would  call  Allan  tamana,  i.e.  a  crosscousin  is  called  by  the  same  term  as  the  father.  Other
 relatives  who  are  called  tama  by  a  woman  are  the  daughter's
-husband  and  the  husband  of  the  sister's  daughter,  thus  Meita-
-laveveana  would  apply  the  term  to  both  Viravaga  and  Molkalo
+husband  and  the  husband  of  the  sister's  daughter,  thus  Meitalaveveana  would  apply  the  term  to  both  Viravaga  and  Molkalo
 as  well  as  to  Molbwoitu,  relatives  two  generations  apart
 being  addressed  by  the  same  term,  so  that  men  whom  we
 should  regard  as  the  sons-in-law  of  a  woman  are  classed  by
@@ -10594,8 +9507,6 @@ though  according  to  Mr  Drummond  she  may  also  be  called
 bilan  barai.  This  term  does  not  resemble  in  form  the  other
 terms  of  relationship,  and  may  possibly  be  a   term  for  the
 
-
-Relationship  193
 
 status  of  this  relative,  or  may  belong  to  a  more  ancient  system.
 In  addition,  ratahi  is  used  in  a  sense  corresponding  to  one  of
@@ -10635,21 +9546,15 @@ same  generation  and  the  same  sex.
 
 Tihina.  The  younger  brother  of  a  man  or  sister  of  a
 woman,  and  thus  the  reciprocal  of  tuaga.  It  is  used  by
-a  woman  of  her  daughter's  child,  being  applied  by  Meitalave-
-veana to  Allan  and  Catharine.  A  woman  also  calls  her
+a  woman  of  her  daughter's  child,  being  applied  by  Meitalaveveana to  Allan  and  Catharine.  A  woman  also  calls  her
 sister's  daughter's  child  tihina,  Mesaldali  calling  Allan  and
 Catharine  by  this  name.
 
 Tuana.    This  is  a  term  including  both  tuagana  and  tihina.
 
-Hogosina  (hogosikuy.  A  reciprocal  term  for  the  brother-
-sister  relationship,  being  given  by  a  man  to  his  sister  and  by
+Hogosina  (hogosikuy.  A  reciprocal  term  for  the  brothersister  relationship,  being  given  by  a  man  to  his  sister  and  by
 ^  I  was  also  given  this  term  in  the  form  gorosina.
 
-R.  M.  s.  *3
-
-
-194  Melanesian  Society
 
 a  woman  to  her  brother.  It  is  used  in  the  customary  way  for
 the  child  of  the  father's  brother  and  of  the  mother's  sister.
@@ -10700,8 +9605,6 @@ I  have  adopted  Mr  Drummond's  spelling  as  probably  representing  the  mor
 form.
 
 
-Relationship  195
-
 addressed  as  atalaveraku,  i.e.  man  of  my  verana.  It  will
 be  remembered  that  one  informant  classed  this  relative  with
 the  mother's  brother  so  that  for  this  relationship  there  is
@@ -10722,8 +9625,7 @@ reciprocal  to  the  last  it  was  said  that  sibi  is  not  used,  but
 that  the  husband's  sister's  son  is  addressed  by  his  personal
 name.
 
-Bulenana,  bulenanggu.  The  wife's  brother ;  also  some-
-times, as  we  have  seen,  called  mabi.  This  term  is  not  used
+Bulenana,  bulenanggu.  The  wife's  brother ;  also  sometimes, as  we  have  seen,  called  mabi.  This  term  is  not  used
 reciprocally  but  a  man  calls  his  sister's  husband  sibi.
 
 Habwena.  A  reciprocal  term  for  husband's  sister  and
@@ -10736,8 +9638,7 @@ Ahoana.  Husband  ;  a  woman  will  speak  of  her  husband
 as  "the  man."
 
 Tasalana.  Wife.  A  man  often  speaks  of  his  wife  as  a
-ghost  (atmate)  or  as  rubbish  or  excrement,  and  this  de-
-preciatory usage  may  also  be  used  by  others  so  that  people
+ghost  (atmate)  or  as  rubbish  or  excrement,  and  this  depreciatory usage  may  also  be  used  by  others  so  that  people
 who  have  seen  the  wife  of  a  man  will  say  to  him  "  I  have  met
 your  atmate''  or  "  I  have  met  your  rubbish."
 
@@ -10751,8 +9652,7 @@ son.
 Havana.  A  term  for  all  those  of  the  same  tavalui  or
 moiety.
 
-1  I  usually  heard  this  word  as  mambina^  both  the  pure  b  and  mb  being  inter-
-changed according  to  Dr  Codrington,
+1  I  usually  heard  this  word  as  mambina^  both  the  pure  b  and  mb  being  interchanged according  to  Dr  Codrington,
 
 13—2
 
@@ -10790,8 +9690,7 @@ wife.
 
 Some  of  the  anomalous  features  of  the  Pentecost  system
 are  the  same  as  those  of  the  Banks  Islands  and  are  probably
-to  be  explained  in  the  same  way.  Thus,  the  fact  that  cross-
-cousins  are  regarded  as  standing  to  one  another  in  the  relation
+to  be  explained  in  the  same  way.  Thus,  the  fact  that  crosscousins  are  regarded  as  standing  to  one  another  in  the  relation
 of  parent  and  child,  the  child  of  the  father's  sister  being  the
 parent,  and  the  child  of  the  mother's  brother  the  child  in  this
 relationship,  corresponds  exactly  with  the  Banks  condition,
@@ -10850,8 +9749,7 @@ the  new  marriage  the  husband's  father  of  b,  i.e.  her  husband's
 father  is  at  the  same  time  her  kogosi.  The  use  of  the  term
 sibi  for  this  relative  and  also  for  the  husband's  mother  is  less
 straightforward.  In  the  one  case  a  person  of  the  same  moiety
-is  called  sibi,  while  in  the  other  case  a  term  which  should  pro-
-bably be  applied  by  a  woman  to  a  man  is  here  used  between
+is  called  sibi,  while  in  the  other  case  a  term  which  should  probably be  applied  by  a  woman  to  a  man  is  here  used  between
 women.  The  use  of  the  term  sibi  for  one  of  the  same  moiety
 is  so  unlikely  that  we  may  be  fairly  confident  that  this  item  of
 information  is  wrong.  It  is  possible  that  the  use  of  the  term
@@ -10859,8 +9757,6 @@ for  the  husband's  mother  is  the  result  of  a  woman  calling  her
 brother's  wife  mabi  (see  p.  195),  for  a  would  normally  call  b
 mabi  as  the  wife  of  her  brother  A,  and  when  b  becomes  the
 
-
-198  Melanesian  Society
 
 wife  of  A\  i.e.  the  son's  wife  of  a,  she  will  continue  to  be  called
 mabi,  and  reciprocally  she  will  call  her  husband's  mother  sibi.
@@ -10874,12 +9770,10 @@ about  through  marriage  with  the  wife  of  the  mother's  brother.
 
 There  still  remains  a  group  of  anomalies  of  the  Pentecost
 system  wholly  different  from  those  present  in  the  Banks
-Islands.  These  anomalies  differ  from  those  already  con-
-sidered in  that  persons  two  generations  apart  apply  to  one
+Islands.  These  anomalies  differ  from  those  already  considered in  that  persons  two  generations  apart  apply  to  one
 another  terms  also  used  for  those  of  the  same  generation.
 The  following  is  a  list  of  these  terms  : — A  person  and  his  or
-her  mother's  mother  address  one  another  by  terms  used  other-
-wise between  brothers  and  sisters  ;  both  men  and  women  call
+her  mother's  mother  address  one  another  by  terms  used  otherwise between  brothers  and  sisters  ;  both  men  and  women  call
 their  mother's  mother  tuaga,  which  is  the  term  given  to  the
 elder  brother  of  a  man  or  the  elder  sister  of  a  woman,  and
 reciprocally  she  calls  them  tiki,  used  otherwise  for  younger
@@ -10888,8 +9782,7 @@ a  woman  calls  the  brother  of  her  mother's  mother  kogosi,  a
 term  which  she  would  otherwise  apply  to  her  brother.  Next,
 the  other  three  kinds  of  grandparent,  the  father's  father,  the
 father's  mother  and  the  mother's  father  are  all  called  sibi,
-a.  word  which,  as  we  have  already  seen,  is  otherwise  em-
-ployed for  brothers-  or  sisters-in-law,  the  use  of  the  term
+a.  word  which,  as  we  have  already  seen,  is  otherwise  employed for  brothers-  or  sisters-in-law,  the  use  of  the  term
 for  the  father's  father  being,  however,  doubtfully  correct.
 Further,  the  mother  of  the  wife  is  called  nitu  or  child,
 while  reciprocally  she  calls  her  daughter's  husband  tama  or
@@ -10913,12 +9806,10 @@ Marriage  with  Granddaughter  199
 
 of  the  same  order  as  certain  anomalies  I  had  found  a  few
 months  earlier  in  the  systems  of  some  inland  Fijian  tribes
-(see  Chap.  XI).  While  in  Pentecost  I  heard  of  no  social  insti-
-tution of  the  island  which  seemed  to  throw  any  light  on  their
+(see  Chap.  XI).  While  in  Pentecost  I  heard  of  no  social  institution of  the  island  which  seemed  to  throw  any  light  on  their
 origin,  but  a  clue  was  given  later  by  a  chance  remark  thrown
 out  by  a  native  of  the  Banks  Islands.  John  Pantutun,  from
-whom  I  learnt  most  of  what  I  have  had  to  say  about  relation-
-ship in  the  Banks  Islands,  had  lived  for  some  time  in
+whom  I  learnt  most  of  what  I  have  had  to  say  about  relationship in  the  Banks  Islands,  had  lived  for  some  time  in
 Pentecost  and  frequently  compared  the  customs  of  this  and
 his  own  island  in  a  very  instructive  manner.  One  day  when
 speaking  of  Pentecost  he  said  more  or  less  in  scorn  that  it
@@ -10945,10 +9836,8 @@ remark  I  had  forgotten  the  details  of  the  Pentecost  system,
 and  it  occurred  to  me  that  before  refreshing  my  memory  it
 would  be  interesting  to  construct  a  theoretical  system  founded
 on  marriage  with  a  daughter's  daughter  and  then  see  how  far
-the  constructed  system  agreed  with  that  I  had  actually  ob-
-tained. The  following  would  seem  to  be  the  natural  results
-of  such  a  union  so  far  as  relatives  by  marriage  and  grand-
-parents are  concerned.
+the  constructed  system  agreed  with  that  I  had  actually  obtained. The  following  would  seem  to  be  the  natural  results
+of  such  a  union  so  far  as  relatives  by  marriage  and  grandparents are  concerned.
 
 It  is  probable  that  in  the  marriage  in  question  a  man  would
 not  marry  his  own  granddaughter  but  the  granddaughter  of
@@ -10957,8 +9846,6 @@ the  purpose  of  simplicity,  however,  I  will  assume  at  first  that
 a  man  marries  his  own  daughter's  daughter  and  consider  the
 relationships  set  up  by  such  a   marriage.      Thus,  if  in  the
 
-
-200  Melanesian  Society
 
 schematic  pedigree  A^  marries  b^  the  daughter  of  his  daughter,
 one  result  will  be  that  his  wife's  father  (A*)  will  be  the  husband
@@ -10972,8 +9859,7 @@ denoted  by  the  same  term,  and  as  a  matter  of  fact  both  are
 called  mabi\  lastly,  his  wife's  brother  (B^)  will  be  his  daughter's
 son,  and,  as  a  matter  of  fact,  both  are  called  mabi,  though
 there  is  a  second  term,  bulena,  for  the  wife's  brother  which  is
-not  used  for  the  daughter's  son.  Thus,  the  four  chief  relation-
-ships of  a  man  set  up  by  his  marriage  with  his  daughter's
+not  used  for  the  daughter's  son.  Thus,  the  four  chief  relationships of  a  man  set  up  by  his  marriage  with  his  daughter's
 daughter  are  denoted  by  terms  agreeing  exactly  with  those
 
 B2=a2  Ai  =  bi  A2  B3  =  ai
@@ -10997,12 +9883,10 @@ person,  but  it  is  hardly  necessary  to  point  out  that  by  the
 classificatory  principle,  marriage  with  the  granddaughter  of  the
 brother  would  have  exactly  the  same  effect  on  nomenclature.
 
-The  terms  used  by  the  wife  (b^)  in  the  marriage  in  ques-
-tion are  not  so  straightforward.  The  result  of  the  marriage
+The  terms  used  by  the  wife  (b^)  in  the  marriage  in  question are  not  so  straightforward.  The  result  of  the  marriage
 of  b'  with  her  mother's  father  (A')  will  be  that  her  husband's
 father  and  mother  will  be  her  great-grandparents,  while  as  a
-matter  of  fact  they  are  actually  called  hogosi  and  sibi  re-
-spectively, but,  as  we  have  seen,  the  terms  for  these  two
+matter  of  fact  they  are  actually  called  hogosi  and  sibi  respectively, but,  as  we  have  seen,  the  terms  for  these  two
 relationships  would  be  the  natural  result  of  another  form  of
 marriage  which  is  practised  on  the  island,  viz.  that  with  the
 wife  of  the  mother's  brother.
@@ -11013,8 +9897,6 @@ The  husband's  brother  (A')  will  be  one  and  the  same  person
 as  the  mother's  father's  brother,  and  the  husband's  sister  (a')
 as  the  mother's  father's  sister.     The  brother  and  sister  of  the
 
-
-1
 
 I
 
@@ -11027,8 +9909,7 @@ husband  are  both  called  sibi,  though  the  husband's  sister  may
 also  be  called  habwe,  and  it  is  almost  certain  that  the  relatives
 with  whom  they  would  be  identified  by  the  marriage  in  question
 are  also  called  sibi  though  the  terms  for  these  relationships
-were  not  actually  obtained.  If,  on  the  other  hand,  it  be  as-
-sumed that  the  marriage  takes  place  with  the  brother  of  the
+were  not  actually  obtained.  If,  on  the  other  hand,  it  be  assumed that  the  marriage  takes  place  with  the  brother  of  the
 mother's  father,  the  agreement  is  more  definite,  for  then  the
 husband's  brother  will  be  the  mother's  father,  and  he  is
 certainly  called  sibi.
@@ -11069,10 +9950,7 @@ possible  that  he  would  merely  receive  the  name  applied  to  a
 man  of  the  same  moiety.     It  is  interesting  to  find  that  this
 
 
-202  Melanesian  Society
-
-relationship,  the  right  nomenclature  for  which  is  theoreti-
-cally doubtful,  is  one  about  which  there  was  much  uncertainty
+relationship,  the  right  nomenclature  for  which  is  theoretically doubtful,  is  one  about  which  there  was  much  uncertainty
 among  our  informants ;  according  to  Mr  Drummond  the
 father's  father  is  sibi,  which  would  agree  with  one  theoretical
 deduction,  while  I  was  told  that  he  is  called  atalaveraku,
@@ -11121,8 +9999,7 @@ There  still  remains  one  correspondence  to  be  considered.
 Marriage  with  Granddaughter  203
 
 In  Pentecost  a  woman  and  the  brother  of  her  mother's  mother
-call  one  another  hogosi,  the  term  for  the  brother-sister  relation-
-ship. I  have  already  suggested  that  theoretically  we  might
+call  one  another  hogosi,  the  term  for  the  brother-sister  relationship. I  have  already  suggested  that  theoretically  we  might
 expect  that  the  brother  of  the  mother's  mother  would  be
 classed  with  the  father's  father,  being  of  the  same  moiety  and
 generation,  but  this  does  not  help  us,  since  the  proper  term
@@ -11139,8 +10016,7 @@ only  and  may  be  an  error.
 
 In  this  demonstration  I  have  assumed  that  a  man  married
 his  own  granddaughter  but  the  correspondences  would  by  the
-classificatory  system  be  the  same  if  a  man  married  the  grand-
-daughter of  his  brother  and,  as  we  have  seen,  there  is  one
+classificatory  system  be  the  same  if  a  man  married  the  granddaughter of  his  brother  and,  as  we  have  seen,  there  is  one
 correspondence,  that  of  husband's  brother  and  mother's  father,
 not  altogether  straightforward  on  the  hypothesis  of  marriage
 with  the  granddaughter,  which  is  readily  explicable  if  a  man
@@ -11167,8 +10043,6 @@ John  Pantutun  was  certain  of  the  existence  of  marriage  with
 a  granddaughter  in  the  classificatory  sense  and  was  able  to
 
 
-204  Melanesian  Society
-
 illustrate  from  his  own  pedigree  the  kind  of  marriage  that
 takes  place.  Mr  Drummond,  on  the  other  hand,  could  not
 find  that  these  marriages  take  place  at  the  present  time,  and
@@ -11187,8 +10061,7 @@ Only  a  very  fragmentary  account  of  these  could  be  obtained.
 A  complete  account  would  perhaps  show  that  they  are  as
 numerous  and  elaborate  as  those  of  the  Banks  Islands.
 
-Mothers  brother.  The  functions  of  this  relative  are  proba-
-bly of  much  the  same  nature  as  in  the  Banks  Islands  but  few
+Mothers  brother.  The  functions  of  this  relative  are  probably of  much  the  same  nature  as  in  the  Banks  Islands  but  few
 details  were  obtained.  It  was  clear  that  the  normal  inheritance
 is  by  the  sister's  son  who  takes  any  individual  property
 (see  p.  209).  If  a  man  dies  while  his  children  are  young  they
@@ -11199,8 +10072,7 @@ this  kind  of  food  may  not  be  eaten  for  a  time,  either  by  the
 sister's  son  himself  or  by  the  brother  of  the  dead  man,  and  this
 restriction  may  also  be  observed  by  other  persons  of  the  moiety
 if  they  like.  The  duration  of  the  prohibition  is  connected  with
-some  observance  of  the  organisation  called  Loli  which  corre-
-sponds to  the  Banks  Sukive\  it  probably  comes  to  an  end
+some  observance  of  the  organisation  called  Loli  which  corresponds to  the  Banks  Sukive\  it  probably  comes  to  an  end
 when  the  sister's  son  takes  his  next  step  in  this  body,  but  the
 exact  conditions  could  not  be  obtained.
 
@@ -11276,8 +10148,7 @@ is  going  to  take  her  as  his  wife.
 Marriage.
 
 I  have  already  had  to  consider  certain  kinds  of  marriage
-which  are  prohibited  or  allowed  in  Pentecost.  There  is  evi-
-dence that  the  ordinary  restrictions  depending  on  the  dual
+which  are  prohibited  or  allowed  in  Pentecost.  There  is  evidence that  the  ordinary  restrictions  depending  on  the  dual
 division  are  supplemented  by  a  secondary  mechanism  which
 prohibits  marriage  with  a  number  of  women  of  the  opposite
 moiety,  though  the  exact  nature  of  this  mechanism  could  not
@@ -11304,8 +10175,7 @@ There  remains  to  be  described  the  ceremonial  connected
 with  marriage.  The  following  account  was  obtained  from
 John  Pantutun,  a  native  of  Mota  in  the  Banks  Islands.  He
 had  been  for  some  time  on  Pentecost  and  had  witnessed  the
-proceedings  he  described.  He  is  certainly  an  acute  and  trust-
-worthy observer  but  it  must  be  remembered  that  his  account
+proceedings  he  described.  He  is  certainly  an  acute  and  trustworthy observer  but  it  must  be  remembered  that  his  account
 is  that  of  a  stranger  and  that  there  was  no  possibility  of
 corroboration  or  of  inquiry  into  special  points  from  natives
 of  the  islands
@@ -11337,8 +10207,7 @@ girl's  mother  hides  in  the  house  so  that  her  daughter  cannot
 see  it.  On  the  next  morning  the  father  keeps  the  girl  in  the
 house  on  some  pretext,  such  as  roasting  breadfruit  or  playing
 some  game,  and  the  future  husband  comes  with  his  people  to
-fetch  her.  Some  man  is  chosen  to  go  into  the  house,  pretend-
-ing that  he  has  come  to  fetch  fire,  and  he  goes  quietly  to  the
+fetch  her.  Some  man  is  chosen  to  go  into  the  house,  pretending that  he  has  come  to  fetch  fire,  and  he  goes  quietly  to  the
 girl  and,  seizing  her  by  the  wrists,  says  "Marry."  The  girl  is
 very  much  astonished  and  begins  to  cry  and  before  she  knows
 what  is  happening  she  is  wrapped  up  in  the  new  mat  brought
@@ -11355,8 +10224,7 @@ father  of  the  girl.  This  man  has  a  club  with  thick  thorns
 on  it  with  which  he  strikes  at  the  man  who  comes  out,  it
 may  be  so  severe  a  blow  as  to  break  his  arm.  It  was  said
 that  he  does  this  to  show  that  only  the  brothers  and  the
-sister's  son  of  the  father  are  to  get  the  pigs  which  the  bride-
-groom is  about  to  present.  As  soon  as  the  blow  is  struck  all
+sister's  son  of  the  father  are  to  get  the  pigs  which  the  bridegroom is  about  to  present.  As  soon  as  the  blow  is  struck  all
 the  men  of  the  village  produce  sticks  prepared  the  night  before
 and  begin  to  fight  with  the  party  which  has  come  to  fetch  the
 girl.    While  this  is  going  on  the  sister  of  the  bridegroom  takes
@@ -11365,8 +10233,7 @@ girl.    While  this  is  going  on  the  sister  of  the  bridegroom  takes
 2o8  Melanesia^  Society
 
 the  girl  out  of  the  house,  the  latter  being  so  completely  wrapped
-up  in  the  mat  that  she  can  see  nothing.  The  girl  is  then  un-
-wrapped and  her  father  gives  her  one  of  his  own  pigs  to  kill
+up  in  the  mat  that  she  can  see  nothing.  The  girl  is  then  unwrapped and  her  father  gives  her  one  of  his  own  pigs  to  kill
 as  a  sign  that  it  is  the  last  of  his  property  with  which  she  will
 have  anything  to  do.  She  kills  the  pig  with  a  club  and  is  then
 again  wrapped  up  in  her  mat.  One  of  the  husband's  party  is
@@ -11380,13 +10247,11 @@ of  his  own  party.  The  man  who  is  given  the  head  in  this
 manner  may  not  marry  a  widow  but  must  marry  a  girl  not
 previously  married  and  there  is  now  great  unwillingness  to
 receive  the  offering  on  this  account  because  of  the  greater
-expense  connected  with  the  latter  kind  of  marriage.  In  con-
-sequence the  young  unmarried  men  will  hide  themselves  and
+expense  connected  with  the  latter  kind  of  marriage.  In  consequence the  young  unmarried  men  will  hide  themselves  and
 the  father  of  the  man  who  receives  the  head  will  be  very  angry
 and  will  threaten  to  have  his  revenge  on  the  morrow.
 
-As  soon  as  the  pig's  head  has  been  given,  the  bag  contain-
-ing the  property  for  the  girl  is  put  down  in  the  midst  of
+As  soon  as  the  pig's  head  has  been  given,  the  bag  containing the  property  for  the  girl  is  put  down  in  the  midst  of
 the  people  with  a  yam  beside  it  and  the  bridegroom  walks
 round  the  bag  four  times,  puts  his  hand  on  the  bag  and  takes
 up  the  yam  to  give  to  his  sister  who  takes  it  away.  Some  of  the
@@ -11396,15 +10261,13 @@ The  girl  is  then  taken  to  her  future  home,  the  people  of  her
 own  village  standing  in  the  way  and  resisting  her  removal,  and
 anyone  who  offers  much  resistance  is  appeased  with  a  present.
 When  the  husband's  village  is  reached  the  girl,  still  wrapped
-up,  is  put  down  in  the  open  space  of  the  village  and  the  hus-
-band presents  pigs  to  the  girl's  father,  at  least  four  being  given,
+up,  is  put  down  in  the  open  space  of  the  village  and  the  husband presents  pigs  to  the  girl's  father,  at  least  four  being  given,
 and  if  the  husband  is  an  important  man  more  than  this  number,
 and  mats  are  also  given  at  the  same  time.  The  sister  of  the
 husband  who  had  wrapped  up  the  girl  now  unwraps  her  and
 the  bride  then  opens  the  bag  containing  her  property  and  after
 giving  some  to  her  father's  sister,  hands  the  rest  to  her  husband.
-Then  the  father  of  the  girl  distributes  the  four  pigs  he  had  re-
-ceived to  his  brothers  and  to  his  sister's  son,  the  latter  being
+Then  the  father  of  the  girl  distributes  the  four  pigs  he  had  received to  his  brothers  and  to  his  sister's  son,  the  latter  being
 regarded  as  the  chief  recipient,  and  the  girl  then  takes  up  her
 abode  in  the  house  of  her  husband's  mother.
 
@@ -11412,8 +10275,7 @@ abode  in  the  house  of  her  husband's  mother.
 Property  209
 
 When  she  first  goes  to  live  in  the  house  of  her  husband's
-mother,  and  if  she  is  young  it  may  be  for  several  years  after-
-wards, the  girl  will  not  speak  to  her  husband  who  does  not  live  in
+mother,  and  if  she  is  young  it  may  be  for  several  years  afterwards, the  girl  will  not  speak  to  her  husband  who  does  not  live  in
 the  house  but  continues  to  spend  all  his  time  in  the  club-house.
 The  man  may  sometimes  come  into  the  house  to  give  food  to
 his  mother  but  even  this  would  be  exceptional.  When  the  girl
@@ -11432,8 +10294,7 @@ Property,
 It  was  said  that  formerly  all  property  belonged  to  the  verana,
 viz.  the  subdivision  of  the  moiety  the  exact  nature  of  which  is
 uncertain  (see  p.  190),  and  it  was  said  that  even  if  property
-belonged  to  individual  persons  it  was  not  inherited  by  indi-
-viduals but  by  the  verana  as  a  whole.  Canoes  are  in  no  case
+belonged  to  individual  persons  it  was  not  inherited  by  individuals but  by  the  verana  as  a  whole.  Canoes  are  in  no  case
 individual  property  even  now,  but  always  belong  to  the  verana
 as  a  whole.
 
@@ -11454,8 +10315,6 @@ should  properly  inherit  the  house.  At  the  present  time  if  a
 man  expresses  the  wish  that  his  children  shall  remain  in  the
 house,  the  sister's  son  always  allows  them  to  stay,  but  if  he
 lives    in    the   house   with    them    he    is   the   more    important
-
-R.  M.  s.  14
 
 
 2IO  Melanesian  Society
@@ -11519,8 +10378,7 @@ other  pedigrees  which  were  collected,  so  that  it  would  seem
 as  if  women  were  preserving  these  distinctions  more  completely
 than  the  men.
 
-In  Pentecost  as  in  the  Banks  all  differences  of  rank  dis-
-appear when  at  sea.
+In  Pentecost  as  in  the  Banks  all  differences  of  rank  disappear when  at  sea.
 
 Kava-drinking.
 
@@ -11535,8 +10393,7 @@ kava  should  only  be  drunk  in  the  men's  house,  though  the
 people  are  now  beginning  to  drink  it  elsewhere.
 
 Two  deep  cups  are  used;  one  into  which  the  juice  of  the
-scraped  root  is  squeezed  and  the  other  used  as  the  drinking-
-vessel.  The  scraped  root  is  put  in  dampened  coconut  fibre
+scraped  root  is  squeezed  and  the  other  used  as  the  drinkingvessel.  The  scraped  root  is  put  in  dampened  coconut  fibre
 which  acts  as  a  strainer  and  the  mass  is  squeezed  so  that  the
 juice  falls  into  one  of  the  two  vessels.  The  scrapings  are  then
 put  back  into  the  wooden  bowl  in  which  the  coral  has  been
@@ -11546,8 +10403,7 @@ cup  which  will  perhaps  now  be  filled  with  liquid.  The  scraped
 root  is  then  thrown  on  a  heap,  often  several  feet  high,  which
 has  accumulated  from  previous  drinkings.  The  strainer  is
 then  washed  with  some  more  water  and  folded  so  as  to  form
-a  kind  of  bag,  sometimes  in  the  shape  of  a  flying  fox,  some-
-times in  the  shape  of  the  head  of  a  bird.  The  cup  which  is
+a  kind  of  bag,  sometimes  in  the  shape  of  a  flying  fox,  sometimes in  the  shape  of  the  head  of  a  bird.  The  cup  which  is
 full  of  kava  is  then  passed  round  the  strainer  and  the  contents
 poured  into  it  so  that  they  fall  into  the  other  cup  which  had
 so  far  been  used  to  hold  water.  As  the  kava  is  poured  into
@@ -11555,8 +10411,6 @@ the  strainer  this  is  lifted  higher  and  higher  so  that  the  liquid
 
 14 — 2
 
-
-212  Melanesian  Society
 
 falls  Into  the  drinking-cup  from  a  height  and  forms  a  froth
 which  stands  well  above  the  top  of  the  cup  when  it  is  filled.
@@ -11574,8 +10428,7 @@ Both  maker  and  drinker  sit  squatting  but  not  cross-legged
 as  in  the  Banks,  and  after  drinking  both  men  continue  to  sit
 in  the  same  position  for  a  minute  or  two,  when  the  drinker
 may  clean  his  mouth  by  chewing  a  little  sugar-cane.  Before
-drinking  a  man  will  take  off  anything  tight  that  he  may  be  wear-
-ing and  will  stand  up  and  stretch  himself  till  his  joints  crack.
+drinking  a  man  will  take  off  anything  tight  that  he  may  be  wearing and  will  stand  up  and  stretch  himself  till  his  joints  crack.
 
 A  man  must  not  eat  before  drinking  kava.  If  an  oven  is
 opened  when  he  is  about  to  drink,  he  will  keep  his  share  till
@@ -11588,8 +10441,7 @@ the  other,  and  if  there  are  many  people  present,  they  will  form
 pairs,  each  of  a  pair  making  for  the  other,  though  sometimes
 the  contents  of  the  cup  will  be  divided  among  two  or  more.
 When  a  company  fall  into  pairs  in  this  way  it  is  called  a  fight,
-the  idea  being  that  each  man  shall  make  his  companion  in-
-capable and  unable  to  eat.  It  was  stated  that  the  kava  made  in
+the  idea  being  that  each  man  shall  make  his  companion  incapable and  unable  to  eat.  It  was  stated  that  the  kava  made  in
 this  island  is  much  stronger  than  in  the  Banks  or  Torres  Islands.
 
 A  rich  man  after  drinking  will  take  sugar-cane  in  his
@@ -11605,8 +10457,7 @@ on  the  tenth  and  hundredth  days  after  death.
 A  story  is  told  in  Pentecost  that  a  man  once  saw  a  rat
 nibbling  a  root  of  kava  and  watched  it  fall  down  and  presently
 come  to  life  again.  He  saw  this  happen  several  times  and
-then  tried  the  root  himself,  this  being  the  beginning  of  kava-
-drinking.
+then  tried  the  root  himself,  this  being  the  beginning  of  kavadrinking.
 
 
 Brother  and  Sister  Avoidance  213
@@ -11626,8 +10477,7 @@ another  after  the  girl  is  tattooed  about  the  time  of  puberty.
 It  is  the  girl  who  leaves  the  house  of  her  parents  and  goes  to
 live  with  her  mother's  brother.  She  will  only  do  so,  however,
 if  she  has  a  brother,  and  if  there  are  only  girls  in  the  family
-they  continue  to  live  with  their  parents.  If  after  the  separa-
-tion brother  and  sister  meet  on  a  path  the  girl  will  get  out  of  the
+they  continue  to  live  with  their  parents.  If  after  the  separation brother  and  sister  meet  on  a  path  the  girl  will  get  out  of  the
 way  and  both  will  look  down  so  as  to  avoid  seeing  one  another.
 They  will  never  say  each  other's  names  nor  will  they  speak
 of  one  another.  When  a  woman  has  married  and  had  children
@@ -11645,8 +10495,7 @@ the  scene  the  man  at  once  leaves  off  laughing  and  becomes
 quiet.
 
 John  said  that  he  had  asked  the  people  why  brother  and
-sister  avoided  one  another  but  without  result.  He  was  in-
-clined himself  to  think  that  its  object  was  to  avoid  the  possi-
+sister  avoided  one  another  but  without  result.  He  was  inclined himself  to  think  that  its  object  was  to  avoid  the  possi-
 bility of  sexual  relations,  being  no  doubt  influenced  by  the
 undoubted  relation  between  avoidance  and  sexual  relations  in
 other  parts  of  Melanesia  including  his  own  island.
@@ -11659,8 +10508,6 @@ custom  for  a  woman  who  wished  to  have  illicit  intercourse
 with  a  man  first  to  approach  the  paternal  aunt  of  the  man
 and  obtain  her  consent  and  it  is  probable  that  this  practice
 
-
-214  Melanesian  Society
 
 is  also  followed  elsewhere  in  this  part  of  Melanesia;  that  the
 father's  sister  not  only  chooses  a  wife  for  her  nephew  but  also
@@ -11677,13 +10524,11 @@ very  difficult  and  to  my  ear  quite  different  from  those  of
 Pentecost  or  the  Banks  Islands  with  which  I  had  become
 fairly  familiar.  The  terms  for  several  of  the  relationships
 have  been  given  by  Inglis^  and  the  two  sets  of  terms  agree
-though  our  ways  of  spelling  the  words  often  differ  consider-
-ably. I  have  thought  it  best  to  give  the  words  as  I  heard
+though  our  ways  of  spelling  the  words  often  differ  considerably. I  have  thought  it  best  to  give  the  words  as  I  heard
 them,  but  I  have  added  in  brackets  the  forms  as  given  by
 Inglis.
 
-The  terms  were  obtained  by  means  of  incomplete  pedi-
-grees, and  are  given  with  the  first  person  possessive.
+The  terms  were  obtained  by  means  of  incomplete  pedigrees, and  are  given  with  the  first  person  possessive.
 
 Etmak.  Father  and  father's  brother.  Probably  also
 mother's  sister's  husband.
@@ -11717,11 +10562,8 @@ mother's  brother's  daughter  and  father's  sister's  daughter  (m.s.).
 *  Dictionary  of  Aneityumese  Language,  London,  1882.
 
 
-Relationship  2 1 5
-
 Nenga-unjak  {nehgak).  Wife's  brother  and  reciprocally
-sister's  husband  (m.s.).  Inglis  gives  natmetpok  as  an  alterna-
-tive term  for  this  relationship.
+sister's  husband  (m.s.).  Inglis  gives  natmetpok  as  an  alternative term  for  this  relationship.
 
 Hudhnak  (hudnak).  Husband's  sister  and  brother's  wife
 (w.s.).
@@ -11743,8 +10585,7 @@ so  frequently  in  Melanesia,  the  terms  for  these  relationships
 are  in  a  state  of  transition.
 
 The  special  interest  of  this  system  is  in  the  terms  which
-are  brought  into  connection  with  one  another  by  the  cross-
-cousin  marriage.  The  mother's  brother,  the  father's  sister's
+are  brought  into  connection  with  one  another  by  the  crosscousin  marriage.  The  mother's  brother,  the  father's  sister's
 husband,  the  wife's  father  and  the  husband's  father  are  all
 classed  together  and  are  denoted  by  the  same  term.  Next,
 the  father's  sister,  the  mother's  brother's  wife,  the  wife's
@@ -11752,8 +10593,7 @@ mother  and  the  husband's  mother  are  all  also  classed  together,
 but  with  the  anomalous  feature  that  they  receive  the  same
 term  as  the  mother  and  the  mother's  sister.  Also,  a  man  calls
 his  daughter's  husband  or  his  son's  wife  by  the  same  term  as
-his  sister's  child  and  a  woman  classes  her  son-  or  daughter-
-in-law  with  her  brother's  child.  Lastly,  the  female  cross-cousin
+his  sister's  child  and  a  woman  classes  her  son-  or  daughterin-law  with  her  brother's  child.  Lastly,  the  female  cross-cousin
 has  the  same  name  as  the  wife  while  the  male  cross-cousin
 is  classed  with  the  husband.  All  these  correspondences  are
 exactly  what  is  to  be  expected  as  a  result  of  the  cross-cousin
@@ -11810,8 +10650,7 @@ notes  collected  by  myself,  an  account  sent  to  me  by  Mr  Durrad,
 and  the  notes  of  Wilhelm  Joest  published  after  his  death  by
 Baessler\
 
-I  obtained  an  unsatisfactory  account  of  the  social  organi-
-sation from  two  young  natives  who  came  from  the  island  of
+I  obtained  an  unsatisfactory  account  of  the  social  organisation from  two  young  natives  who  came  from  the  island  of
 Temotu  at  the  north-west  corner  of  the  large  island.  These
 boys  said  that  there  are  four  social  groups  called  nau  which
 take  their  names  respectively  from  the  Tnbu,  a  fish  (the  goltogoa
@@ -11852,8 +10691,7 @@ People  of  the  same  nau  are  not  allowed  to  marry,  but  a
 man  of  one  nau  may  marry  a  woman  of  any  of  the  others.
 I  was  unable  to  obtain  from  these  boys  even  such  brief
 pedigrees  as  would  allow  me  to  obtain  satisfactorily  the  mode
-of  descent,  there  being  evidently  some  strong  inhibitory  influ-
-ence, probably  an  objection  to  say  the  names  of  their  relatives.
+of  descent,  there  being  evidently  some  strong  inhibitory  influence, probably  an  objection  to  say  the  names  of  their  relatives.
 They  said,  however,  that  a  man  belonged  to  the  same  nau  as
 his  father.
 
@@ -11887,8 +10725,6 @@ nau  always  marrying  a  woman  of  another.  These  nau  are
 named  after  animals  and  plants;    several  after  sea  animals
 
 
-220  Melanesian  Society
-
 including  the  mbua  or  shark,  the  natu  or  dolphin,  the  betila
 or  whale  and  fishes  called  nioda,  mbu  and  mbilla;  three  after
 land  animals,  viz.  the  kuli  or  dog,  the  mbo  or  pigeon,  and  the
@@ -11916,10 +10752,8 @@ Of  these  differences  the  most  important  concerns  the  mode
 of  descent.  Joest  is  quite  clear  about  the  fact  of  male  descent
 and,  though  my  evidence  on  this  point  was  not  satisfactory,
 I  was  also  told  that  a  man  belongs  to  the  group  of  his  father.
-Mr  Durrad's  evidence,  on  the  other  hand,  shows  definite  matri-
-lineal  descent.  The  divergencies  in  the  lists  of  animals  and
-plants  from  which  the  groups  take  their  names,  though  pro-
-bably due  in  part  to  defective  information,  are  also  such  as
+Mr  Durrad's  evidence,  on  the  other  hand,  shows  definite  matrilineal  descent.  The  divergencies  in  the  lists  of  animals  and
+plants  from  which  the  groups  take  their  names,  though  probably due  in  part  to  defective  information,  are  also  such  as
 might  be  expected  to  depend  on  local  differences.  The  only
 name  which  occurs  in  the  same  form  in  all  three  lists  is  that  of
 the  fish  called  mbu  but  the  mbilla  of  Joest  is  evidently  the
@@ -11935,16 +10769,12 @@ Mr  Durrad'.
 *  See  also  0'Ferrall,yi7«r«.  Anth.  Inst.  1904,  xxxiv,  224.
 
 
-Relationship  221
-
 System  of  Relationship.
 
-Mr  Durrad  obtained  this  account  by  means  of  the  genea-
-logical method  from  the  same  boy  who  gave  him  the  account
+Mr  Durrad  obtained  this  account  by  means  of  the  genealogical method  from  the  same  boy  who  gave  him  the  account
 of  the  social  groups.     The  terms  are  as  follows : —
 
-Derde.  Father,  father's  brother,  mother's  sister's  hus-
-band.
+Derde.  Father,  father's  brother,  mother's  sister's  husband.
 
 Lainge,  vocative  form  ida.  Mother,  mother's  sister,
 father's  brother's  wife.
@@ -11999,8 +10829,6 @@ another  by  their  personal  names.
 
 Kandongi.    The  wife's  father  and  mother  and  reciprocally
 
-
-222  Melanesian  Society
 
 the  daughter's  husband.  The  term  is  used  for  the  husband's
 elder  brother  and  reciprocally  for  the  younger  brother's  wife
@@ -12087,8 +10915,7 @@ former  kind  of  marriage  regulation  is  that  the  man  and  woman
 who  may  marry  address  one  another  by  terms  which  are  said
 to  mean  child  and  mother.
 
-It  is  clear  that  those  relatives  of  the  categories  just  con-
-sidered who  may  not  marry  call  one  another  kandongi,  so  that
+It  is  clear  that  those  relatives  of  the  categories  just  considered who  may  not  marry  call  one  another  kandongi,  so  that
 this  term  may  be  taken  to  connote  prohibition  on  marriage.
 It  is  therefore  interesting  that  it  is  also  applied  both  to  the
 wife's  mother  and  to  the  wife  of  the  mother's  brother,  though
@@ -12115,19 +10942,14 @@ So  far  as  I  could  discover  kava  is  not  used  in  this  island.
 1904,  XXXIV,  p.  223.
 
 
-224  Melanesian  Society
-
 Vanikolo.
 
 In  this  island,  often  called  Vanikoro,  a  brief  account  of
-the  social  organisation  was  obtained.  There  are  ten  exoga-
-mous  groups,  taking  their  names  from  the  following  objects: —
+the  social  organisation  was  obtained.  There  are  ten  exogamous  groups,  taking  their  names  from  the  following  objects: —
 
 The  mere,  a  fish  called  susu  at  Rowa  in  the  Banks
-Islands  ;  the  vesenamaka,  a  hermit-crab  ;  the  vera  or  sting-
-ray ;  the  nomerue,  a  fish  (the  iga  tnatur  or  sleeping  fish  of
-Mota,  so  called  because  it  is  only  caught  at  night  and  is  sup-
-posed to  sleep  during  the  day) ;  the  ive  (the  kwonglau  of
+Islands  ;  the  vesenamaka,  a  hermit-crab  ;  the  vera  or  stingray ;  the  nomerue,  a  fish  (the  iga  tnatur  or  sleeping  fish  of
+Mota,  so  called  because  it  is  only  caught  at  night  and  is  supposed to  sleep  during  the  day) ;  the  ive  (the  kwonglau  of
 Mota),  a  sea-lion  (?) ;  the  wanue  (the  gaiiase  of  Mota),  a
 mullet ;  ambumi,  grass  ;  wire,  water ;  nepie,  fire  ;  and  tegniete,
 a  bowl.
@@ -12169,8 +10991,6 @@ wife.
 Nisili.      Child.      According    to    Reuben    the    mother's
 
 
-Relationship  225
-
 brother's  son  is  also  nisili,  which,  if  correct,  would  be  in
 agreement  with  the  Banks  Island  practice,  but  on  this  point
 the  evidence  of  a  Banks  Islander  must  be  received  with
@@ -12179,11 +10999,9 @@ statement  that  Reuben  said  there  was  no  term  for  the  father's
 sister's  child,  so  that  in  this  case  it  is  evident  that  he  was  not
 confusing  the  practice  of  his  own  island  with  that  of  Vanikolo.
 
-Aluanga.  Brother  (m.s.)  and  sister  (w.s.).  No  distinc-
-tion between  elder  and  younger.
+Aluanga.  Brother  (m.s.)  and  sister  (w.s.).  No  distinction between  elder  and  younger.
 
-Menenge  {menenge  ?).  Term  for  the  brother-sister  rela-
-tionship.
+Menenge  {menenge  ?).  Term  for  the  brother-sister  relationship.
 
 Nggeanga.     Mother's  brother.
 
@@ -12204,8 +11022,7 @@ higher  value.  There  is  no  difference  between  Vanikolo  and
 the  Banks  in  the  relations  between  a  man  and  his  mother's
 brother  or  nggeanga  who  helps  his  nephew  to  buy  his  wife,
 while  uncle  and  nephew  help  each  other  with  their  gardens.
-If  either  kills  a  man,  the  other  contributes  towards  the  com-
-pensation-money, and  they  help  each  other  in  fighting,  canoe-
+If  either  kills  a  man,  the  other  contributes  towards  the  compensation-money, and  they  help  each  other  in  fighting,  canoe-
 making  and  fishing.  A  man  always  accompanies  his  mother's
 brother  when  the  latter  goes  in  his  canoe,  and  the  nephew
 will  obey  his  uncle  more  strictly  than  he  will  obey  his  father.
@@ -12223,10 +11040,6 @@ the  same  extent.
 When  asked  about  the  relations  with  the  grandparents  in
 Vanikolo  Reuben  said  that  "you  mould  your  life  on  that  of
 
-R.  M.  S.  15
-
-
-226  Melanesian  Society
 
 your  mother's  parents,  you  do  all  the  things  that  they  did,
 sacrificing  and  planting  gardens  where  they  did."  In  Vanikolo
@@ -12261,8 +11074,7 @@ the  "  worshippers  "  the  right  direction  to  their  future  home.
 
 The  house  is  built  by  one  of  the  chiefs,  who  are  now  four
 in  number,  and  he  is  the  first  to  "worship"  and  then  other
-people  enter.  The  chief  prays  standing  in  front  of  the  plat-
-form, underneath  which  there  are  three  round  stones.  In
+people  enter.  The  chief  prays  standing  in  front  of  the  platform, underneath  which  there  are  three  round  stones.  In
 front  of  these  stones  are  two  rows  of  skulls,  ten  in  each  row,
 and  offerings  of  cold  food  are  placed  in  front  of  each  skull.
 It  is  when  this  food  has  been  put  out  that  the  people  begin  to
@@ -12333,12 +11145,9 @@ far  as  I  could  observe,  much  more  to  the  Melanesian  than  to
 15—2
 
 
-228  Melanesian  Society
-
 the  Polynesian  type.  I  received  the  impression  that  the
 women  had  a  more  Polynesian  appearance  than  the  men,
-while  some  of  them  seemed  to  me  to  have  a  definitely  Mon-
-goloid appearance  suggesting  Micronesian  influence.
+while  some  of  them  seemed  to  me  to  have  a  definitely  Mongoloid appearance  suggesting  Micronesian  influence.
 
 In  these  islands  there  are  definite  exogamous  social  groups
 called  mata.  I  heard  of  eight  altogether  in  the  islands,  but
@@ -12375,12 +11184,10 @@ latter  being  the  takwale  of  Mota.
 
 On  Pileni  the  Pelewe  may  not  eat  the  flying  fox  (peke),
 the  sting-ray  (fae)  nor  a  fish  called  awau  said  to  resemble  a
-Scorpaena.  My  informant  was  of  this  mata  and  was  uncer-
-tain about  the  animals  of  the  other  groups  but  he  knew  that
+Scorpaena.  My  informant  was  of  this  mata  and  was  uncertain about  the  animals  of  the  other  groups  but  he  knew  that
 the  Pelembo  might  not  eat  the  fishes  called  fangafuea  and
 ngadala,  the  latter  being  the  same  as  the  nef  of  Nukapu.
-These  people  do  not  eat  the  sea-eel  while  some  eat  the  land-
-eel  {tuna)  and  others  not,  it  being  a  matter  of  dispute  whether
+These  people  do  not  eat  the  sea-eel  while  some  eat  the  landeel  {tuna)  and  others  not,  it  being  a  matter  of  dispute  whether
 
 
 Reef  Islands  229
@@ -12443,8 +11250,6 @@ Grandparents  collectively  are  called  ngoku  tupuna.
 Makupuku.  All  kinds  of  grandchild  and  also  the  brother's
 child  (w.s.).
 
-
-230  Melanesian  Society
 
 Fungoku.  Reciprocal  term  used  between  a  man  and  his
 wife's  parents.  The  father  of  a  consort  may  also  be  called
@@ -12512,8 +11317,7 @@ Interior  o'i  falc  alita  showing  the  stocks.
 
 Ahta  231
 
-the  biggest  one  seen  in  a  house  on  Pileni  being  called  Tang-
-teala  {tang,  cry,  te  ala,  the  path,  i.e.  crying  in  the  pathway).
+the  biggest  one  seen  in  a  house  on  Pileni  being  called  Tangteala  {tang,  cry,  te  ala,  the  path,  i.e.  crying  in  the  pathway).
 A  stock  is  made  and  painted  and  then  borne  on  the  shoulders
 of  a  man  along  the  beach  to  the  village  where  it  is  to  be  kept,
 the  bearer  running  with  it  into  the  fale  atua  and  putting  it  in
@@ -12574,17 +11378,13 @@ its  north-western  half).  The  island  of  Savo  may  be  included
 in  this  district  though  differing  from  the  others  in  language  and
 some  other  respects.  A  third  region  which  may  be  spoken  of  as
 the  Western  British  Solomons  comprises  the  islands  or  groups
-of  islands  called  New  Georgia  including  Ruviana;  Kulamban-
-gara  or  Nduke  ;  Eddystone  Island  also  called  Simbo,  Narovo
+of  islands  called  New  Georgia  including  Ruviana;  Kulambangara  or  Nduke  ;  Eddystone  Island  also  called  Simbo,  Narovo
 and  Mandegusu  ;  Ganongga  (usually  hitherto  called  Ranongo)
 and  Vella  Lavella.  The  Shortland  Islands,  Treasury  Island
 and  the  islands  of  the  Bougainville  Straits  form  another  region
 which  will  not  be  included  in  this  survey  since  it  will  be
 independently  dealt  with  by  Mr  G.  C.  Wheeler.  There
 remains  in  the  British  part  of  the  group  the  island  of  Choiseul
-
-
-233
 
 
 "o
@@ -12622,8 +11422,7 @@ I
 
 about  which  we  know  at  present  too  little  to  enable  us  to
 assign  it  to  any  of  the  cultures  which  have  just  been  mentioned,
-but  it  is  probably  most  nearly  allied  to  the  islands  of  Bougain-
-ville Straits.  The  island  of  Bougainville^  is  also  included  in
+but  it  is  probably  most  nearly  allied  to  the  islands  of  Bougainville Straits.  The  island  of  Bougainville^  is  also  included  in
 the  Solomon  Islands.  Though  I  did  not  myself  visit  it,  I  am
 able  to  give  the  system  of  relationship  of  one  district  (see
 p.   258).
@@ -12656,8 +11455,7 @@ The  following  are  the  terms  of  the  system  : —
 
 Ainaku  (with  the  first  person  possessive),  in  direct  address
 mamau.  Father,  father's  brother,  father's  sister's  husband
-and  mother's  sister's  husband,  in  all  cases  in  the  usual  classifi-
-catory  sense.
+and  mother's  sister's  husband,  in  all  cases  in  the  usual  classificatory  sense.
 
 Nikeku,  in  address  teitei.  Mother,  mother's  sister,  father's
 sister  and  the  wives  of  the  father's  brother  and  the  mother's
@@ -12669,8 +11467,6 @@ its  geographical  connection  with  the  Solomons.  It  is  not  only  one  wit
 politically,  but  its  general  culture  falls  more  into  line  with  that  of  the  Bismarck
 Archipelago  than  of  the  Solomons.
 
-
-Relationship  235
 
 Kaleku.    Child,  used  as  the  reciprocal  of  amaku  and  nikeku.
 
@@ -12686,8 +11482,7 @@ of  different  sex.
 Uweliku.  A  reciprocal  term  for  the  mother's  brother  and
 the  sister's  child.
 
-Wauwaku.  The  reciprocal  term  used  between  the  grand-
-father and  grandchild,  being  applied  to  the  father  of  both
+Wauwaku.  The  reciprocal  term  used  between  the  grandfather and  grandchild,  being  applied  to  the  father  of  both
 father  and  mother  and  reciprocally  to  the  child  of  either  son
 or  daughter  when  a  man  is  speaking.
 
@@ -12704,28 +11499,23 @@ sister-in-law.
 The  special  interest  of  this  system  is  its  exceptional
 simplicity.  All  relatives  of  the  generation  above,  other  than
 those  related  by  marriage,  are  a^naku  or  nikeku  except  the
-mother's  brother  and  corresponding  relatives  in  the  classi-
-ficatory  sense,  and  all  of  the  same  generation  call  one  another
+mother's  brother  and  corresponding  relatives  in  the  classificatory  sense,  and  all  of  the  same  generation  call  one  another
 either  ulaku  or  iniaku  according  to  sex.  Similarly,  all  the
 relatives  of  the  husband  or  wife  of  his  or  her  generation  are
 iheku  while  all  of  the  preceding  generation  are  hungoku.  The
 feature  of  reciprocity  is  very  decided,  applying  both  to  the
-relationship  of  parent-  and  child-in-law  and  to  that  of  grand-
-parent and  grandchild,  and  only  in  the  case  of  the  grandparent
+relationship  of  parent-  and  child-in-law  and  to  that  of  grandparent and  grandchild,  and  only  in  the  case  of  the  grandparent
 is  there  a  distinction  according  to  sex.
 
 I  am  indebted  to  Mr  Ivens  for  the  information  that  the
 system  in  use  at  Saa  on  the  west  coast  of  the  southern
 end  of  Malaita  is  the  same  except  that  the  distinction  of
 brother  and  sister  according  to  the  sex  of  the  speaker  is  not
-present,  both  brothers  and  sisters  being  called  asiku,  indepen-
-dently of  age.  There  is  also  here  a  term  given  by  the  parents
+present,  both  brothers  and  sisters  being  called  asiku,  independently of  age.  There  is  also  here  a  term  given  by  the  parents
 of  a  man  to  the  parents  of  the  man's  wife  and  reciprocated,
 viz.  akaro,  but  this  is  also  a  general  term  for  relatives  by
 marriage,  the  term  for  a  marriage  feast  being  aharota.
 
-
-236  Melanesian  Society
 
 In  Ulawa  relatives  are  spoken  of  collectively  by  adding
 the  prefix  rohai  (ro,  two  and  Aat,  the  reciprocal  prefix),  thus,
@@ -12747,8 +11537,7 @@ A.  J.  Hopkins  of  the  Melanesian  Mission.  The  following
 are  the  Lau  terms : —
 
 Maa  nau  [nau  being  the  first  person  possessive).  Father,
-father's  brother  and  mother's  sister's  husband  in  the  classifica-
-tory  sense.
+father's  brother  and  mother's  sister's  husband  in  the  classificatory  sense.
 
 Tei  nau.  Mother,  mother's  sister,  and  father's  brother's
 wife.
@@ -12777,13 +11566,10 @@ sister  and  used  by  her  of  and  to  her  brother's  child.
 
 Ko  nau.  The  mother's  brother,  the  wife  of  the  mother's
 brother,  the  husband  of  the  father's  sister*  and  also  the  four
-kinds  of  grandparent,  the  term  being  in  all  these  cases  reci-
-procated, so  that  it  is  applied  to  all  kinds  of  grandchild  as
+kinds  of  grandparent,  the  term  being  in  all  these  cases  reciprocated, so  that  it  is  applied  to  all  kinds  of  grandchild  as
 
 *  According  to  one  informant  this  relative  is  called  maga.
 
-
-Relationship  237
 
 well  as  to  the  sister's  son,  the  husband's  sister's  child  and  the
 wife's  brother's  child.
@@ -12795,16 +11581,13 @@ Arai  nau.     Husband.
 
 Afe  nau.     Wife.
 
-Fungo  nau.  A  reciprocal  term  for  parent-  and  child-in-
-law,  including  father  or  mother  of  husband  or  wife  and  the
+Fungo  nau.  A  reciprocal  term  for  parent-  and  child-inlaw,  including  father  or  mother  of  husband  or  wife  and  the
 husband  or  wife  of  son  or  daughter.  Also  used  as  a  general
 term  for  relatives  by  marriage.
 
-Luma  aa  nau.  The  sister's  son's  wife  and  sister's  daugh-
-ter's husband  (m.s.)  and  probably  other  relatives  by  marriage.
+Luma  aa  nau.  The  sister's  son's  wife  and  sister's  daughter's husband  (m.s.)  and  probably  other  relatives  by  marriage.
 
-Bara  nau.  I  was  given  this  term  for  all  kinds  of  brother-
-and  sister-in-law,  irrespective  of  sex  of  speaker,  but  Mr
+Bara  nau.  I  was  given  this  term  for  all  kinds  of  brotherand  sister-in-law,  irrespective  of  sex  of  speaker,  but  Mr
 Hopkins  heard  that  it  is  a  general  term  for  relatives  by  blood,
 bara  being  the  fence  which  marks  off  the  group  {J.  village).
 
@@ -12822,8 +11605,7 @@ distinguishing  cross-cousins  from  the  children  of  two  brothers
 and  two  sisters.  In  connection  with  the  latter  distinction  it
 is  noteworthy  that  the  husband  of  the  father's  sister  has  the
 same  name  as  the  mother's  brother.  An  exceptional  feature
-of  the  system  is  that  the  grandparents,  or  rather  the  grand-
-parent-grandchild relationships,  are  denoted  by  the  same  term
+of  the  system  is  that  the  grandparents,  or  rather  the  grandparent-grandchild relationships,  are  denoted  by  the  same  term
 as  is  used  for  mother's  brother  and  his  sister's  child  and  other
 relationships  of  persons  only  one  generation  apart.
 
@@ -12841,8 +11623,6 @@ and  husband  of  the  mother's  sister.
 
 1  I  do  not  know  the  exact  nature  of  the  institution  here  spoken  of  as  a  village.
 
-
-238  Melanesian  Society
 
 Tea  nau.  Mother,  mother's  sister  and  father's  brother's
 wife.  The  mother's  sister  is  also  called  tea  fo/o  nau,  fofo
@@ -12866,8 +11646,7 @@ Mwae  nau.    Mother's  brother  and  father's  sister's  husband.
 
 Di  nau.     Cross-cousin.
 
-Kdo  nau.  A  reciprocal  term  for  the  grandparent-grand-
-child relationship.
+Kdo  nau.  A  reciprocal  term  for  the  grandparent-grandchild relationship.
 
 Arai  nau.     Husband.
 
@@ -12902,8 +11681,6 @@ taken  by  a  break.
 Another  important  point  is  that  the  father's  sister  and  the
 wife  of  the  mother's  brother  are  denoted  by  the  same  term
 
-
-Relationship  239
 
 in  Fiu  and  that  there  is  only  one  term  for  mother's  brother
 and  father's  sister's  husband  in  both  systems.  Aai  nau  is
@@ -12946,15 +11723,12 @@ is  doubtful  whether  there  is  a  special  term  for  cross-cousins.
 The  term  for  the  grandfather-grandchild  relationship  is
 uwaiagu  and  this  term  may  also  be  used  for  the  father's
 brother.  The  grandmother-grandchild  relationship  is  waeagu
-(?).  The  reciprocal  term  for  parents-in-law  and  children-in-
-law  is  hungogu.  Several  of  the  terms  are  the  samie  as  in
+(?).  The  reciprocal  term  for  parents-in-law  and  children-inlaw  is  hungogu.  Several  of  the  terms  are  the  samie  as  in
 Ulawa,  the  Heuru  system  thus  appearing  to  be  a  more
 complex  form  of  the  Ulawa  system.
 
 The  Rafurafu  system,  for  which  I  am  indebted  to  Mr  Drew,
 
-
-240  Melanesian  Society
 
 is  very  different  and  has  a  character  which  I  did  not  find
 elsewhere  in  Melanesia,  viz.  the  presence  of  two  prefixes,
@@ -12983,8 +11757,7 @@ brother  according  to  sex  and  age.
 
 Mamau.     Mother's  brother  and,  reciprocally,  sister's  son.
 
-Wauwa.  Father's  father  and  mother's  father  and  recipro-
-cally grandson.  A  grandson  may  also  be  called  wasiku  kare,
+Wauwa.  Father's  father  and  mother's  father  and  reciprocally grandson.  A  grandson  may  also  be  called  wasiku  kare,
 apparently  a  descriptive  term,  son  of  my  younger  brother.
 
 Kakaku.     Father's  mother  and  mother's  mother.
@@ -13004,8 +11777,7 @@ and  (w.s.),  and  husband's  brother.
 
 Kaforoku.  Wife's  sister,  brother's  wife  (m.s.),  husband's
 sister  and  its  reciprocal,  brother's  wife  (w.s.).  In  idiCi,  foroku
-is  a  general  term  for  all  the  eight  kinds  of  brother-  and  sister-
-in-law,  males  and  females  being  distinguished  by  the  appropriate
+is  a  general  term  for  all  the  eight  kinds  of  brother-  and  sisterin-law,  males  and  females  being  distinguished  by  the  appropriate
 prefix.
 
 The  terms  for  the  grandparents  are  particularly  interesting
@@ -13035,8 +11807,7 @@ Guadalcanar  to  two  only  in  one  part  of  Ysabel.  With  each
 clan  there  are  associated  a  number  of  objects ;  animals,  plants,
 material  objects  or  human  beings,  which  may  be  regarded  as
 sacred,  the  name  for  these  objects  in  most  of  the  islands  being
-some  variant  of  the  word  tindalo.  The  systems  of  relation-
-ship of  three  of  the  islands  are  very  similar  to  one  another,
+some  variant  of  the  word  tindalo.  The  systems  of  relationship of  three  of  the  islands  are  very  similar  to  one  another,
 though  there  are  important  differences  in  detail.  But  that  of
 the  fourth,  Savo,  differs  greatly,  especially  from  the  linguistic
 point  of  view.
@@ -13071,8 +11842,6 @@ father's  brother's  wife  and  father's  sister.
 R.  M.  S.  I<5
 
 
-242  Melanesian  Society
-
 Dalenggu.  Child,  the  reciprocal  of  the  two  preceding
 terms  in  all  their  senses.
 
@@ -13085,8 +11854,7 @@ the  children  of  the  father's  brothers,  although  these  may  be  of
 different  clans.
 
 Tahinggu.  The  corresponding  term  for  the  younger
-brother  of  a  man  and  younger  sister  of  a  woman ;  it  is  the  recipro-
-cal of  tuganggu  and  is  used  in  the  same  wide  sense  as  this  term.
+brother  of  a  man  and  younger  sister  of  a  woman ;  it  is  the  reciprocal of  tuganggu  and  is  used  in  the  same  wide  sense  as  this  term.
 
 Vavinenggu.  The  reciprocal  term  for  the  brother-sister
 relationship,  used  in  the  same  wide  sense  as  the  terms  applied
@@ -13109,8 +11877,7 @@ from  cousins  of  other  kinds.
 Kukuanggu.  A  reciprocal  term  for  all  four  kinds  of
 grandparent  and  four  corresponding  kinds  of  grandchild.
 
-Vunonggu.  A  reciprocal  term  for  the  four  kinds  of  parent-
-in-law  and  the  corresponding  four  kinds  of  child-in-law.  It  is
+Vunonggu.  A  reciprocal  term  for  the  four  kinds  of  parentin-law  and  the  corresponding  four  kinds  of  child-in-law.  It  is
 also  used  for  the  wife  of  the  mother's  brother  who  in  her  turn
 uses  it  for  the  sister's  son  of  her  husband.
 
@@ -13150,8 +11917,7 @@ The  Haumbata  have  also  their  first  men,  a  shark  called
 baheanapombo  and  the  naroka,  a  pigeon,  neither  shark  nor
 pigeon  being  eaten.  About  the  other  groups  the  information
 was  less  definite,  but  it  seemed  that  neither  the  Kakau  nor
-Kiki  could  eat  the  shark,  while  the  Simbo  people  were  for-
-bidden the  monitor  lizard.
+Kiki  could  eat  the  shark,  while  the  Simbo  people  were  forbidden the  monitor  lizard.
 
 In  Guadalcanar  the  tindao  are  much  reverenced,  and  my
 informant,  a  Christian,  said  that  they  were  worshipped.  If
@@ -13232,8 +11998,7 @@ Kukuanggu.  A  reciprocal  term  for  grandparents  and
 grandchildren.
 
 Ivanggu.  A  term  including  not  only  brothers-  and
-sister-in-law  as  in  Florida  and  Ysabel  but  also  the  cross-
-cousins.
+sister-in-law  as  in  Florida  and  Ysabel  but  also  the  crosscousins.
 
 
 Ysabel  245
@@ -13285,13 +12050,10 @@ bivalve  Unio ;  the  paike  or  cuscus ;  the  kopi  or  boatbill
 heron ;  the  memeha  sondu  or  toucan,  and  the  vavalu,  a  fish.
 
 
-246  Melanesian  Society
-
 The  last  two  divisions  are  now  extinct,  one  having  disappeared
 during  the  last  five  years  and  the  other  within  fifteen  years.
 
-The  Posomogo  have  twelve  divisions,  the  kusa,  (?)  king-
-fish  ;  the  tengge  or  turtle  ;  the  posa,  a  black  banana,  wild  and
+The  Posomogo  have  twelve  divisions,  the  kusa,  (?)  kingfish  ;  the  tengge  or  turtle  ;  the  posa,  a  black  banana,  wild  and
 inedible ;  the  ronggisi,  a  shell-fish,  Pteroceras  lambis ;  the
 kikituru,  a  night-bird,  resembling  a  picture  of  the  gerfalcon  ;
 the  mbulau  or  Conus  genei^alis  ;  the  etieti  or  large  areca  nut ;
@@ -13301,8 +12063,7 @@ and  the  pakehana,   (?)  a  small  sword-fish.
 
 I  give  two  systems  from  Ysabel,  from  the  districts  of
 Bugotu  and  Nggao.  The  former  was  collected  by  myself
-but  has  been  confirmed  in  its  general  features  and  supple-
-mented by  the  help  of  Mr  Edmond  Bourne  of  the  Melanesian
+but  has  been  confirmed  in  its  general  features  and  supplemented by  the  help  of  Mr  Edmond  Bourne  of  the  Melanesian
 Mission.  For  the  Nggao  terms  I  am  wholly  indebted  to
 Mr  Bourne,
 
@@ -13359,13 +12120,11 @@ Tauunggu.  A  reciprocal  term  for  husband  and  wife,  but
 it  is  not  used  now,  the  term  kulanggu,  meaning  "my  friend,"
 taking  its  place.
 
-Vungaonggu  or  vunonggu.  A  reciprocal  term  for  parents-
-and  children-in-law.  It  is  also  applied  to  the  sister's  son's
+Vungaonggu  or  vunonggu.  A  reciprocal  term  for  parentsand  children-in-law.  It  is  also  applied  to  the  sister's  son's
 wife  and  the  sister's  daughter's  husband  and  is  used  reciprocally
 by  them  for  the  mother's  brother  of  the  consort.
 
-Ivanggu.  The  term  for  all  kinds  of  brother-  and  sister-
-in-law.
+Ivanggu.  The  term  for  all  kinds  of  brother-  and  sisterin-law.
 
 The  following  are  terms  of  the  Nggao  district  of  Ysabel: —
 
@@ -13410,10 +12169,7 @@ its  general  features  that  of  the  other  three  islands  of  this
 *  This  word  was  given  to  me  in  the  ioxva  panjanggu.
 
 
-248  Melanesian  Society
-
-region,  the  resemblance  being  especially  close  with  Guadal-
-canar,  as  might  be  expected  from  the  geographical  position  of
+region,  the  resemblance  being  especially  close  with  Guadalcanar,  as  might  be  expected  from  the  geographical  position  of
 the  island.  I  was  told  of  five  matrilineal  clans,  here  called
 ravu,  VIZ.  the  Lakwili,  Gaumbata,  Dhonggo,  Kakauga  and
 Kikiga,
@@ -13444,8 +12200,7 @@ of  relationship  which  differs  widely  from  the  other  systems  of
 this  region,  not  only  in  vocabulary,  but  still  more  strikingly  in
 the  nature  of  its  possessive  pronouns.  As  we  have  seen,  in
 most  other  parts  of  the  Solomons  these  take  the  form  of
-suffixes  so  intimately  blended  with  the  actual  terms  of  relation-
-ship that  the  two  are  never  heard  separately.  In  Savo,  on
+suffixes  so  intimately  blended  with  the  actual  terms  of  relationship that  the  two  are  never  heard  separately.  In  Savo,  on
 the  other  hand,  the  possessives  are  separable  prefixes  which
 vary  with  the  sex  of  the  person  addressed.
 
@@ -13467,8 +12222,7 @@ Savo  249
 Aiva  zumba.  Son,  when  a  woman  is  speaking,  i.e.  the
 reciprocal  of  mama.
 
-Daughters  are  aima  nyumba  and  aima  zumba  respec-
-tively.
+Daughters  are  aima  nyumba  and  aima  zumba  respectively.
 
 Aiva  toni.     Elder  brother  when  a  man  is  speaking.
 
@@ -13501,8 +12255,7 @@ Aiva  kukua.     Grandfather  and  grandson.
 
 Aima  kukua.     Grandmother  and  granddaughter.
 
-Aiva  vungau.  Wife's  father,  husband's  father,  and  daugh-
-ter's husband.
+Aiva  vungau.  Wife's  father,  husband's  father,  and  daughter's husband.
 
 Aima  vungau.  Wife's  mother,  husband's  mother  and
 son's  wife.
@@ -13510,8 +12263,7 @@ son's  wife.
 Ai  manggu.  Wife's  brother  and  reciprocally  sister's
 husband  (m.s.).
 
-Aima  manggu.  Wife's  sister,  husband's  sister  and  bro-
-ther's wife  (w.s.).
+Aima  manggu.  Wife's  sister,  husband's  sister  and  brother's wife  (w.s.).
 
 Aiva  manggu.     Sister's  husband  (w.s.).
 
@@ -13528,10 +12280,7 @@ his  mother ;  ko  mama,  her  mother ;  mai  mama,  our  mother
 your  mother  ;  zei  or  dhei  mama,  their  mother.
 
 
-250  Melanesian  Society
-
-Elder  and  younger  brothers  of  the  father  may  be  distin-
-guished as  aiva  nduzi  7nau,  my  great  father,  and  aiva  nyart
+Elder  and  younger  brothers  of  the  father  may  be  distinguished as  aiva  nduzi  7nau,  my  great  father,  and  aiva  nyart
 mau,  my  little  father.
 
 The  three  systems  of  Florida,  Guadalcanar  and  the  Bugotu
@@ -13557,16 +12306,14 @@ approaching  in  character  such  extremely  simple  systems  as
 those  of  Ulawa  and  Saa.
 
 The  Savo  system  is  also  simple,  its  only  exceptional
-feature,  so  far  as  structure  is  concerned,  being  in  the  nomen-
-clature for  brothers  and  sisters,  the  words  toka  and  totoa  used
+feature,  so  far  as  structure  is  concerned,  being  in  the  nomenclature for  brothers  and  sisters,  the  words  toka  and  totoa  used
 between  a  brother  and  sister  being  also  used  between  two
 sisters,  while  two  brothers  use  different  terms  toni  and  toi.  It
 is  when  we  turn  to  its  linguistic  side,  and  especially  to  its
 possessive  pronouns,  that  we  discover  its  very  exceptional
 character,  so  exceptional  that  to  one  like  myself,  who  had
 been  spending  several  months  collecting  Melanesian  and
-Polynesian  systems,  it  produced  the  effect  of  a  most  start-
-ling novelty.  There  was  not  only  the  use  of  prefixes  instead
+Polynesian  systems,  it  produced  the  effect  of  a  most  startling novelty.  There  was  not  only  the  use  of  prefixes  instead
 of  the  more  usual  suffixed  pronouns  of  Melanesia,  but  there
 was  the  very  striking  fact  that  these  varied  with  the  sex  of
 the  person  addressed.  Usually  in  Melanesia  when  terms
@@ -13586,16 +12333,14 @@ region  show  a  general  agreement  in  the  names  of  their  clans,
 and  even  when  the  names  differ,  there  is  still  a  correspondence
 in  function  ;  thus,  not  only  may  the  Dhonggokama  of  Ysabel,
 the  Honggokama  of  Florida  and  the  Dhonggo  of  Savo  not
-intermarry,  but  there  is  also  associated  with  them  the  Kinda-
-palei  of  Guadalcanar.  A  Guadalcanar  man  belonging  to  the
+intermarry,  but  there  is  also  associated  with  them  the  Kindapalei  of  Guadalcanar.  A  Guadalcanar  man  belonging  to  the
 Kindapalei  would  not  be  allowed  to  marry  a  Dhonggokama
 woman  if  he  went  to  live  on  Ysabel,  but  would  have  to  choose
 from  one  of  the  other  two  vinahuhu.
 
 The  clans  of  Florida,  Guadalcanar  and  Savo  correspond
 so  closely  that  the  regulation  of  marriage  between  inhabitants
-of  the  three  islands  presents  no  difficulty,  but  the  correspon-
-dence of  the  three  of  Ysabel  with  the  others  is  less  simple.
+of  the  three  islands  presents  no  difficulty,  but  the  correspondence of  the  three  of  Ysabel  with  the  others  is  less  simple.
 The  Dhonggokama  of  this  island  correspond  to  both  the
 Honggokama  and  Honggokiki  of  Florida ;  the  Vihuvunagi
 to  the  Lakwili  of  Guadalcanar  or  Savo ;  and  the  Posomogo
@@ -13631,8 +12376,7 @@ relationship.     The  systems  of  relationship  in    the  different
 islands  of  the  group  show  a  general  resemblance  in  form,
 being  all  of  a  simple  kind,  but  the  system  of  Vella  Lavella
 differs  greatly  from  the  rest,  not  only  in  the  nature  of  the
-terms,  but  also  in  its  possessives  which  take  the  form  of  pre-
-fixes, Vella  Lavella  being,  like  Savo,  a  place  where  the
+terms,  but  also  in  its  possessives  which  take  the  form  of  prefixes, Vella  Lavella  being,  like  Savo,  a  place  where  the
 language  departs  from  the  usual   Melanesian  type.
 
 The  following  is  the  system  of  Eddystone  Island  or
@@ -13682,8 +12426,6 @@ Roanggu.  Parents-in-law  and  children-in-law,  and  also
 '  See  Geographical  J ourn.,  191 2,  xxxix,  459.
 
 
-Relationship  253
-
 wife's  sister  and  sister's  husband  (w.s.) ;  also  used  for  the
 elder  brother  of  the  husband  and  the  wife  of  the  younger
 brother.
@@ -13708,8 +12450,7 @@ another  are  denoted  by  the  terms  given  above  preceded  by
 tama.  Thus,  tamatasi  is  a  term  for  brothers  ;  a  man  will  say
 that  two  or  more  persons  are  tamatasi.  Similarly,  tamaluluna
 is  used  for  a  brother  and  sister  or  for  a  group  of  persons  who
-stand  in  this  relation  to  one  another,  though  the  term  tama-
-tasi is  also  used  for  this  purpose.  Again,  tamaivana  is  a
+stand  in  this  relation  to  one  another,  though  the  term  tamatasi is  also  used  for  this  purpose.  Again,  tamaivana  is  a
 collective  term  for  persons  who  are  iva  to  one  another  and
 another  name  for  this  group  is  tamatasi  roroto,  meaning
 brothers  or  sisters  by  marriage.  Other  terms  of  this  kind  are
@@ -13736,8 +12477,6 @@ father's  sister  and  father's  brother's  wife  ;  also  the  wife  of  the
 brother,  perhaps  only  of  the  elder,  and  the  wife's  sister.
 
 
-254  Melanesian  Society
-
 Menggora.  The  reciprocal  of  the  two  preceding  terms,
 used  for  the  children  of  the  speaker  and  also  for  the  children
 of  brothers  by  both  men  and  women  and  for  the  children  of
@@ -13750,8 +12489,7 @@ used  for  the  elder  brother  and  sister  by  both  men  and  women.
 Visi.  Younger  brother  and  sister,  both  men  and  women
 speaking.
 
-Sanggi.  A  term  used  in  some  districts  for  the  brother-
-sister  relationship  ;  probably  the  correct  term  for  it,  though
+Sanggi.  A  term  used  in  some  districts  for  the  brothersister  relationship  ;  probably  the  correct  term  for  it,  though
 those  of  different  sex  usually  now  address  one  another  as
 anggaka  or  avisi  according  to  age.
 
@@ -13763,13 +12501,11 @@ brother.
 
 Pakora.     The  sister's  son  of  a  man.
 
-Taite  (with  possessive  andaite).  All  four  kinds  of  grand-
-parent.
+Taite  (with  possessive  andaite).  All  four  kinds  of  grandparent.
 
 Mambuzhu.     Grandchild.
 
-Ravaja.  A  reciprocal  term  for  parents-  and  children-in-
-law.
+Ravaja.  A  reciprocal  term  for  parents-  and  children-inlaw.
 
 Mani.  Wife's  brother,  sister's  husband  (m.s.);  husband's
 sister  and  brother's  wife  (w.s.).
@@ -13797,13 +12533,11 @@ preceding  generation  have  the  same  name  as  the  father  or
 Functions  of  Relatives  255
 
 mother  except  the  mother's  brother.  The  Vella  Lavella
-system  also  possesses  terms  for  grandparents  and  grand-
-children.
+system  also  possesses  terms  for  grandparents  and  grandchildren.
 
 While  the  system  of  Vella  Lavella  thus  resembles  that  of
 Eddystone  in  its  general  structure,  it  differs  from  it  absolutely
-in  the  nature  of  the  words  used  and  in  its  possessive  pro-
-nouns. Instead  of  the  usual  possessive  suffix,  we  have  a
+in  the  nature  of  the  words  used  and  in  its  possessive  pronouns. Instead  of  the  usual  possessive  suffix,  we  have  a
 prefix  so  closely  blended  with  the  term  of  relationship  that
 the  initial  consonant  of  the  latter  is  often  altered.  This  prefix
 is  simply  a  and  does  not,  as  in  Savo,  vary  with  the  sex  of  the
@@ -13823,8 +12557,7 @@ In  the  Malaita  and  San  Cristoval  region  I  was  unable  to
 obtain  any  account  of  social  functions  associated  with  different
 relationships  but  according  to  Dr  Codrington^  the  mother's
 brother  has  a  particularly  close  relation  to  his  nephew.  It
-is  probable  that  there  are  special  duties  or  restrictions  con-
-nected with  relationships  in  some  parts  of  the  region,  but
+is  probable  that  there  are  special  duties  or  restrictions  connected with  relationships  in  some  parts  of  the  region,  but
 I  do  not  think  they  can  be  numerous  or  important,  at  any
 rate  in  Ulawa.
 
@@ -13842,8 +12575,6 @@ not  touch  one  another.
 
 1  yj/.,  50,  note  2.
 
-
-256  Melanesian  Society
 
 In  Ysabel  a  man  must  not  say  the  name  of  his  wife's
 mother  or  a  woman  that  of  her  husband's  father.  These
@@ -13873,8 +12604,7 @@ a  sufficient  number  of  pedigrees  to  put  the  matter  to  a
 complete  test.
 
 In  the  matrilineal  region  there  were  or  had  been  certain
-other  regulations  in  addition  to  those  dependent  on  clan-
-exogamy.  In  Guadalcanar  it  seemed  almost  certain  that
+other  regulations  in  addition  to  those  dependent  on  clanexogamy.  In  Guadalcanar  it  seemed  almost  certain  that
 the  cross-cousin  marriage  is  still  practised,  but  the  matter
 could  not  be  tested  genealogically.
 
@@ -13889,8 +12619,7 @@ of  this  island  is  that  a  man  may  not  marry  a  woman  from
 whom  he  has  received  food.
 
 In  Florida  I  could  discover  neither  the  actual  presence
-nor  a  tradition  of  the  cross-cousin  marriage,  but  my  informa-
-tion was  much  less  satisfactory  than  in  the  other  two  islands
+nor  a  tradition  of  the  cross-cousin  marriage,  but  my  information was  much  less  satisfactory  than  in  the  other  two  islands
 
 >  M.  43.
 
@@ -13901,8 +12630,7 @@ of  this  region.  In  Savo  it  was  stated  definitely  that  the
 cross-cousin  marriage  does  not  take  place.
 
 In  the  Western  Solomons  (Eddystone,  Ruviana,  Vella
-Lavella)  marriage  is  regulated  entirely  by  kinship,  two  per-
-sons between  whom  any  genealogical  relationship  can  be
+Lavella)  marriage  is  regulated  entirely  by  kinship,  two  persons between  whom  any  genealogical  relationship  can  be
 traced  not  being  allowed  to  marry.
 
 It  is  the  existence  of  the  cross-cousin  marriage  in  the
@@ -13915,26 +12643,22 @@ practised,  there  is  a  common  term  for  the  mother's  brother
 and  the  wife's  father,  another  common  term  for  the  father's
 sister,  the  wife  of  the  mother's  brother  and  the  wife's  mother,
 and  still  another  term  which  includes  in  its  connotation  both
-cross-cousin  and  brother-  or  sister-in-law.  All  these  corre-
-spondences are  the  natural  result  of  the  cross-cousin  marriage.
+cross-cousin  and  brother-  or  sister-in-law.  All  these  correspondences are  the  natural  result  of  the  cross-cousin  marriage.
 In  Ysabel  where  it  is  clear  that  the  cross-cousin  marriage  has
-existed  in  the  past,  cross-cousins  and  brothers-  and  sisters-in-
-law  are  distinguished  in  nomenclature,  but  it  was  also  clear  that
+existed  in  the  past,  cross-cousins  and  brothers-  and  sisters-inlaw  are  distinguished  in  nomenclature,  but  it  was  also  clear  that
 the  Bugotu  term  for  cross-cousins,/^'^,  was  not  in  universal
 use,  and  it  would  seem  probable  that  it  is  an  innovation^  and
 possible  even  that  its  introduction  may  have  been  associated
 with  the  disappearance  of  the  cross-cousin  marriage.  In
 Florida  also  the  term  for  cross-cousin,  mavu,  would  appear
-to  be  relatively  modern^  and  never  firmly  established,  cross-
-cousins  being  now  often  classed  with  brothers  and  sisters.
+to  be  relatively  modern^  and  never  firmly  established,  crosscousins  being  now  often  classed  with  brothers  and  sisters.
 
 In  Florida  it  may  be  noted  that  the  term  vunonggu  is
 used  both  for  parents-in-law  and  for  the  wife  of  the  mother's
 brother,  a  feature  which  would  again  be  the  natural  result  of
 the  cross-cousin  marriage.
 
-The  social  organisation  of  Florida,  Ysabel  and  Guadal-
-canar presents  such  uniformity  that  when  we  find  a  form  of
+The  social  organisation  of  Florida,  Ysabel  and  Guadalcanar presents  such  uniformity  that  when  we  find  a  form  of
 marriage  still  present  in  one  island,  and  a  tradition  of  its
 presence  in  another,  we  may  safely  conclude  that  it  was  also
 once  present  in  the  third,  and  we  thus  have  an  excellent
@@ -13947,15 +12671,10 @@ The  systems  of  Fiu  and  Lau  in  Malaita  also  present  the
 
 2  See  Codrington,  M.^  41,  note.
 
-R.  M.  S.  17
-
-
-258  Melanesian  Society
 
 correspondence  between  mother's  brother  and  husband  of
 father's  sister,  and  that  of  Fiu  between  father's  sister  and
-mother's  brother's  wife  which  would  follow  from  the  cross-
-cousin  marriage.
+mother's  brother's  wife  which  would  follow  from  the  crosscousin  marriage.
 
 One  of  the  systems  of  San  Cristoval,  that  of  Rafurafu,
 stands  in  a  still  closer  relation  to  this  form  of  marriage  in
@@ -14011,12 +12730,10 @@ are  given  in  slightly  different  form.
 
 Buin  Relationship  259
 
-Nonoi.  Reciprocal  term  for  the  brother-sister  relation-
-ship;  also  father's  father  (w.s.)  and  its  reciprocal  the  son's
+Nonoi.  Reciprocal  term  for  the  brother-sister  relationship;  also  father's  father  (w.s.)  and  its  reciprocal  the  son's
 daughter  (m.s.).
 
-The  above  terms  are  used  according  to  the  usual  classi-
-ficatory  rules  between  the  children  of  two  brothers  or  of  two
+The  above  terms  are  used  according  to  the  usual  classificatory  rules  between  the  children  of  two  brothers  or  of  two
 sisters.     Thus,  a  man  would  call  his  father's  brother's  son  if
 
 older  than  himself  tdita  ;  if  younger  roromoru.     A  man  and
@@ -14061,8 +12778,7 @@ Iru  or  moru.     Husband.
 
 Ina.     Wife.
 
-This  system  has  several  remarkable  features.  The  nomen-
-clature for  the  mother's  brother  and  the  father's  sister  is  clearly
+This  system  has  several  remarkable  features.  The  nomenclature for  the  mother's  brother  and  the  father's  sister  is  clearly
 such  as  would  arise  through  the  cross-cousin  marriage,  and
 this  form  of  marriage  will  also  explain  the  application  of  the
 terms  for  cross-cousins  to  brothers-  and  sisters-in-law.  So
@@ -14082,11 +12798,9 @@ daughter  (m.s.)  and  g^muroi  of  the  mother's  brother's  son
 (w.s.)  and  no  terms  are  given  for  the  father's  sister's  son  (w.s.)
 and  the  mother's  brother's  daughter  (m.s.).  It  is  probable,
 however,  that  they  would  be  gdmuroi  and  dbure  respectively,
-in  which  case  g^muroi  would  be  a  term  for  a  male  cross-
-cousin  used  by  a  woman  and  dbure  a  term  for  a  female  cross-
+in  which  case  g^muroi  would  be  a  term  for  a  male  crosscousin  used  by  a  woman  and  dbure  a  term  for  a  female  cross-
 cousin  used  by  a  man.  If  this  is  so,  the  terms  would  fall  into
-line  with  the  customary  mode  of  nomenclature  for  brothers-
-and  sisters-in-law.  There  would  be  one  term  used  between
+line  with  the  customary  mode  of  nomenclature  for  brothersand  sisters-in-law.  There  would  be  one  term  used  between
 two  men  and  another  between  two  women  while  those  of
 different  sex  employ  two  terms.  In  this  system  the  terms
 used  between  cross-cousins  of  the  same  sex  are  also  used
@@ -14145,12 +12859,10 @@ Levu.  The  only  Fijian  systems  hitherto  recorded^  are  of
 the  classificatory  kind,  comparatively  simple  in  character,  their
 special  feature  being  the  clear  dependence  of  many  of  the
 terms  on  the  cross-cousin  marriage  which  is  known  to  be
-practised  in  the  island.  Among  several  tribes  in  the  moun-
-tainous region  in  the  north-eastern  part  of  Viti  Levu  I
+practised  in  the  island.  Among  several  tribes  in  the  mountainous region  in  the  north-eastern  part  of  Viti  Levu  I
 found  systems  fundamentally  different  from  those  previously
 recorded,  possessing  some  very  unusual  features.  I  found
-also  that  the  systems  of  the  coastal  peoples  had  many  modifi-
-cations in  different  parts  of  the  island,  and  one  of  the  most
+also  that  the  systems  of  the  coastal  peoples  had  many  modifications in  different  parts  of  the  island,  and  one  of  the  most
 interesting  features  of  the  work  to  be  now  recorded  is  the
 demonstration  of  the  great  variations  which  may  exist  in  the
 systems  of  relationship  used  by  people  who  live  close  to  one
@@ -14177,18 +12889,12 @@ The  Fijiansy  London,  1908,  p.   182.
 Social  Organisation
 
 
-263
-
-
 to  discover  its  features,  but  with  very  imperfect  success  owing
 to  the  short  time  at  my  disposal,  and  the  following  description
 
 
-must  only  be  taken  as  a  tentative  and  certainly  very  incom-
-plete account.
+must  only  be  taken  as  a  tentative  and  certainly  very  incomplete account.
 
-
-264  Melanesian  Society
 
 The  people  of  the  mountainous  region  of  the  interior  are
 
@@ -14199,16 +12905,14 @@ the  Navatusila  and  the  Dhawanisa  while  something  was  learnt
 about  the  organisation  of  some  others.
 
 Each  of  these  bodies  of  people  is  divided  into  a  number
-of  groups  called  matanggali  and  in  some  cases  these  matang-
-gali  are  again  divided  into  smaller  groups  called  itokatoka^.
+of  groups  called  matanggali  and  in  some  cases  these  matanggali  are  again  divided  into  smaller  groups  called  itokatoka^.
 Each  primary  body  has  a  chief  or  chiefs  and  its  members  are
 bound  together  by  the  common  possession  of  a  more  or  less
 sacred  object,  usually  an  animal,  often  a  bird,  which  its
 members  may  not  eat.  These  primary  bodies  are  to  a  large
 extent  endogamous,  marriages  usually  taking  place  between
 members  of  the  same  group,  though  marriages  with  persons
-of  other  groups  are  not  excluded  and  certainly  occur  occa-
-sionally at  the  present  time.  Further,  each  of  these  bodies
+of  other  groups  are  not  excluded  and  certainly  occur  occasionally at  the  present  time.  Further,  each  of  these  bodies
 seems  to  have  its  own  dialect,  while  in  the  past  warfare
 between  them  was  more  or  less  habitual,  and  these  primary
 bodies  may  thus  be  regarded  as  tribes  and  in  the  remainder
@@ -14241,8 +12945,6 @@ the  districts  is  probably  recent.
 certainly  occur  in  some  of  the  people  of  the  coast.
 
 
-Relationship  265
-
 had  different  functions  ;  there  was  not  only  the  definite  and
 apparently  universal  distinction  between  the  matanggali  of
 chiefs  and  ordinary  people,  but  the  matanggali  of  the  ordinary
@@ -14261,8 +12963,7 @@ which  I  had  to  deal.  I  met  with  no  special  difficulties  in  the
 collection  of  the  pedigrees.  The  old  taboo  on  the  names  of
 brother  and  sister  had  either  entirely  disappeared  or  had
 become  so  little  effective  as  to  present  no  obstacle,  and  there
-did  not  seem  to  be  any  source  of  confusion  arising  from  adop-
-tion or  from  customs  connected  with  names.  My  chief  diffi-
+did  not  seem  to  be  any  source  of  confusion  arising  from  adoption or  from  customs  connected  with  names.  My  chief  diffi-
 culty arose  in  the  collection  of  the  terms  themselves  owing  to
 the  spread  of  the  Mbau  dialect  of  the  Fijian  language
 throughout  the  population.  It  seemed  clear  that,  at  any  rate
@@ -14288,8 +12989,6 @@ actually  employed  by  the  natives  in  their  natural  intercourse
 *  The  Todas,  1906,  p.  15.
 
 
-266  Melanesian  Society
-
 with  one  another,  i.e.  they  gave  me  the  terms  they  were
 accustomed  to  use  in  talking  to  Europeans.
 
@@ -14301,8 +13000,7 @@ The  specimens  collected,  of  which  one  example  is  recorded  on
 p.  274,  show  that  the  Fijians,  at  any  rate  in  the  mountains,
 preserve  their  pedigrees  as  fully  as  other  Melanesians.  In
 one  feature  the  pedigrees  were  exceptional.  I  was  not  only
-given  all  the  descendants  of  a  grandfather  or  great-grand-
-father, but  in  some  cases  my  informants  were  able  to  give  me
+given  all  the  descendants  of  a  grandfather  or  great-grandfather, but  in  some  cases  my  informants  were  able  to  give  me
 the  names  of  their  ancestors  in  the  direct  line  for  eight  or
 nine  generations,  though  they  did  not  know  the  collateral
 lines  so  far  back.  Their  pedigrees  were  thus  a  combination
@@ -14339,8 +13037,6 @@ the  true  possessive  pronoun  is  suffixed  to  a  particle  which  is  now  g
 represent  a  noun.
 
 
-Relationship  267
-
 system.  An  elder  brother  of  the  father  is  tamanggu  levu  or
 great  father,  and  a  younger  tamanggu  lailai  or  little  father.
 
@@ -14359,14 +13055,12 @@ sister  of  a  woman.
 Nganenggu.     Brother  (w.s.),  and  sister  (m.s.).
 
 The  three  preceding  terms  are  also  used  for  the  children
-of  all  those  who  are  called  tama  and  tina,  according  to  rela-
-tive age  and  sex.
+of  all  those  who  are  called  tama  and  tina,  according  to  relative age  and  sex.
 
 Ngandinanggu,  ngandi,  momo  and  vungonggu.  All  these
 were  given  as  terms  for  the  mother's  brother  and  others  whom
 the  mother  would  call  ngane,  and  also  for  the  husband  of  the
-father's  sister.  Momo  is  only  used  in  direct  address  and  vun-
-gonggu only  when  speaking  of  these  relatives.  Ngandinanggu
+father's  sister.  Momo  is  only  used  in  direct  address  and  vungonggu only  when  speaking  of  these  relatives.  Ngandinanggu
 and  its  contraction  ngandi  are  also  used  for  the  father  of
 husband  or  wife  while  vungonggu,  an  alternative  term  for
 these  relatives,  is  used  reciprocally  between  a  man  and  the
@@ -14391,16 +13085,13 @@ Makumbunggu.  Grandson  and  granddaughter,  whether
 child  of  son  or  daughter.
 
 Tavalen^gu.  Son  of  mother's  brother  or  father's  sister,
-when  a  man  is  speaking  ;  also  wife's  brother  and  sister's  hus-
-band (m.s.).
+when  a  man  is  speaking  ;  also  wife's  brother  and  sister's  husband (m.s.).
 
 Ndavolanggu.     Child  of  father's  sister  or  mother's  brother
 
 ^  Koya  is  probably  the  pronoun  "he."    If  so,  I  know  of  no  reason  why  it  should
 have  been  given  with  this  term  of  relationship.
 
-
-268  Melanesian  Society
 
 whose  sex  is  different  from  that  of  the  speaker ;  also  the  wife's
 sister  and  brother's  wife  (m.s.);  the  husband's  brother  and  the
@@ -14434,8 +13125,7 @@ Variants  of  the  Mbau  system  were  obtained  in  other
 villages  of  the  coast.  The  system  just  recorded  was  obtained
 in  the  village  of  Mata  Levu  on  the  Wainimbokasi,  a  branch
 of  the  Rewa.  In  the  village  of  Tokatoka,  not  more  than
-two  miles  distant,  the  term  for  the  father's  father  is  tum-
-bunggu  instead  of  tukanggu.  The  mother's  father  is  called
+two  miles  distant,  the  term  for  the  father's  father  is  tumbunggu  instead  of  tukanggu.  The  mother's  father  is  called
 tukanggu ;  the  mother  is  nggei  and  it  was  said  that  the
 father  is  nau,  a  term  applied  elsewhere  to  the  mother.
 Similarly,  in  the  village  of  Nausori,  higher  up  the  Rewa  than
@@ -14451,8 +13141,6 @@ this  term  is  reciprocated  by  the  woman.  The  wife's  sister
 and  the  husband's  brother  and  their  reciprocals  are  also  called
 watinggu.     A  woman,  on  the  other  hand,  calls  the  daughter
 
-
-Relationship  269
 
 of  the  mother's  brother  or  father's  sister  raivanggu^^  this  being
 the  equivalent  of  the  Mbauans'  ndauvenggu.  The  husbands
@@ -14483,29 +13171,23 @@ similarly  the  father's  sister  and  wife  of  the  mother's  brother
 are  only  nganeitamanggu^  or  nganei ;  the  sister's  son  (m.s.)  is
 natunggu^  and  his  wife  vunonggu.  A  sister  would  be  spoken
 of  in  conversation  as  nganenggu  but  would  be  addressed  as
-tuakanggu  or  tadhinggu'^  according  to  age.  All  four  grand-
-parents are  unibunggu  and  grandchildren  vakumbunggu.  The
+tuakanggu  or  tadhinggu'^  according  to  age.  All  four  grandparents are  unibunggu  and  grandchildren  vakumbunggu.  The
 child  of  mother's  brother  or  father's  sister  is  either  karua  or
-kdamanggu,  a  corruption  of  katamanggu,  and  the  term  ava-
-lenggu,  used  in  Mbau  for  the  cross-cousin,  is  limited  to  relatives
+kdamanggu,  a  corruption  of  katamanggu,  and  the  term  avalenggu,  used  in  Mbau  for  the  cross-cousin,  is  limited  to  relatives
 by  marriage,  but  is  used  for  the  sister  of  the  wife  as  well  as
-for  her  brother.  The  husbands  of  two  sisters  are  also  ava-
-lenggu  while  the  wives  of  two  brothers  are  ndauvenggu.
+for  her  brother.  The  husbands  of  two  sisters  are  also  avalenggu  while  the  wives  of  two  brothers  are  ndauvenggu.
 
 Still  another  variant  was  obtained  from  a  member  of  the
 Narambula  tribe  which  lives  on  the  north  coast  of  the  island.
 Here  the  term  for  father  is  manggu ;  the  mother  is  nau,  the
 mother's  brother  ngandi  and  the  father's  sister  nganei.  A  man
 calls  the  children  of  his  sister  vunonggu  and  applies  the  same
-term  to  their  husbands  or  wives.  The  grandparents  are  tum-
-bunggu  and  the  grandchildren  makumbunggu.     The  sons  of
+term  to  their  husbands  or  wives.  The  grandparents  are  tumbunggu  and  the  grandchildren  makumbunggu.     The  sons  of
 
 *  Ra-ivanggu.
 
 ^  In  these  words  the  /  is  retained.
 
-
-270  Melanesian  Society
 
 the  mother's  brother  or  father's  sister  are  karuanggu  and
 their  daughters  ivatinggu.  The  term  tavalenggu  is  Hmited,  as
@@ -14556,8 +13238,6 @@ terms  for  three  categories  of  cross-cousin  and  brother-in-law
 
 3  Op.  cit.  p.  581.
 
-
-Relationship  27 1
 
 and  sister-in-law;  one  used  between  men,  another  between
 women  and  the  third  between  those  of  different  sex.  One
@@ -14634,8 +13314,7 @@ special  functions;  thus,  the  Naurodha  made  gates  in  time  of
 war;  the  Nakoro,  Naindundu  and  Nasei  planted  food;  the
 Wailevu  also  planted  food  and  had  in  addition  the  special
 privilege  of  eating  the  pig's  head,  usually  the  perquisite  of  the
-warriors;  the  Nabarimai  furnished  the  priests.  The  ov\y  ma-
-tanggali va7uia  is  called  Nakorowaiwai  and,  in  addition  to
+warriors;  the  Nabarimai  furnished  the  priests.  The  ov\y  matanggali va7uia  is  called  Nakorowaiwai  and,  in  addition  to
 supplying  the  assistants  of  the  chiefs,  its  members  planted
 food.
 
@@ -14673,16 +13352,14 @@ Nasalia  were  not  allowed  to  eat  human  flesh  but,  when  they
 killed  a  man,  had  to  take  the  body  to  the  Nambouvesi.  Since
 the  latter  was  the  division  of  the  chiefs,  it  is  possible  that  this
 is  a  restriction  of  a  different  kind;  that  the  Dhauravou  were
-merely  forbidden  to  eat  man  because  his  flesh  was  the  per-
-quisite of  the  chiefs.
+merely  forbidden  to  eat  man  because  his  flesh  was  the  perquisite of  the  chiefs.
 
 In  addition,  several  divisions  of  Nandrau  were  subject  to
 restrictions  on  the  use  of  certain  plants  as  food.  Thus,  the
 Nasalia  people  might  not  eat  the  via  or  giant  caladium,  nor
 could  they  eat  the  soanga  or  wild  banana^  The  Nandrau
 people  also  as  a  whole  might  not  eat  yams  during  the  two
-months  called  Uluvatu  and  Vunangumu  corresponding  ap-
-proximately to  January  and  February,  i.e.  beginning  with  the
+months  called  Uluvatu  and  Vunangumu  corresponding  approximately to  January  and  February,  i.e.  beginning  with  the
 new  moon  In  January,  but  it  was  said  that  this  practice  used
 to  be  common  to  all  the  Fijian  people.
 
@@ -14691,8 +13368,7 @@ animal  of  his  mother  as  well  as  that  of  his  father.  The  way
 in  which  the  matter  was  put  to  me  was  that  a  man  will  not
 eat  the  tambu  animal  of  a  tribe  to  which  he  is  vasu  (see  p.  292).
 
-I  was  told  an  interesting  instance  of  the  evil  effects  be-
-lieved to  follow  non-observance  of  these  restrictions.  A  man
+I  was  told  an  interesting  instance  of  the  evil  effects  believed to  follow  non-observance  of  these  restrictions.  A  man
 whose  people  had  always  eaten  snakes  married  a  woman  to
 whom  these  animals  were  tambu.  He  did  not  give  snakes  to
 his  children  but  their  food  was  cooked  in  pots  which  had  been
@@ -14715,9 +13391,6 @@ fruits  (see  Guppy,  Observations  of  a  Naturalist  in  the  Pacific,  Vol.  
 R.  M.  S.  l8
 
 
-274
-
-
 Melanesian  Society
 
 
@@ -14725,7 +13398,6 @@ rt
 
 ^
 
-3
 
 E
 
@@ -14735,14 +13407,11 @@ E
 
 '5
 
-3
 
 ■5
 
 >
-11
 
-0
 
 II
 
@@ -14759,7 +13428,6 @@ O
 
 —  H
 
-0
 
 <
 
@@ -14821,7 +13489,6 @@ tL,
 
 <
 
-0
 
 S',
 
@@ -14851,13 +13518,11 @@ cu
 
 w
 
-0
 
 c/}
 
 ■s
 
-0
 
 w
 
@@ -14872,8 +13537,6 @@ w
 Vh
 
 w
-
-2
 
 
 -S  c
@@ -14901,11 +13564,9 @@ c
 
 II-
 
-3
 
 [x]
 
-0
 
 bd
 
@@ -14948,8 +13609,7 @@ the  first  person  being  nonggu.  The  following  are  the  terms
 with  the  senses  in  which  they  are  used.
 
 Kam  {kamu  or  ikamu  when  used  in  direct  address).
-This  is  primarily  a  term  for  father  and  it  is  also  used  accord-
-ing to  the  ordinary  principles  of  the  classificatory  system  for
+This  is  primarily  a  term  for  father  and  it  is  also  used  according to  the  ordinary  principles  of  the  classificatory  system  for
 the  father's  brother  and  for  others  of  his  generation  whom  the
 father  would  have  called  brother.  Ordinarily,  however,  this
 term  when  used  for  the  elder  brother  of  the  father  is  qualified
@@ -14988,8 +13648,6 @@ and  this  term  is  also  applied  to  the  wife  of  the  sister's  son
 18—2
 
 
-276  Melanesian  Society
-
 Simoni  gave  this  name  to  Eta  and  Latileta,  the  wives  of
 Ovini  and  Apele  (Abel)  and  to  Vadhisevu,  the  wife  of
 Avisalomi  (Absalom),  Thus,  women  of  the  generation
@@ -15003,8 +13661,7 @@ It  is  also  applied  by  a  woman  and  her  husband  to  the  child  of
 the  woman's  sister  and  also  apparently  by  a  woman  to  the  son
 of  the  husband's  sister,  these,  with  the  exception  of  the  last,
 being  according  to  the  customary  usage  of  the  classificatory
-system.  It  would  probably  also  be  applied  to  the  great-
-grandson,  but  naturally  opportunities  for  this  would  not  often
+system.  It  would  probably  also  be  applied  to  the  greatgrandson,  but  naturally  opportunities  for  this  would  not  often
 occur.
 
 Ttiiua,  tuakanggu  and  tadhinggu.  Tutua  is  probably  the
@@ -15095,8 +13752,6 @@ ndiva  is  the  reciprocal  of  tatai,  and  tangi  is  reciprocal  to  both
 1  This  word  is  the  Fijian  form  of  Barnabas.
 
 
-278  Melanesian  Society
-
 taitai  and  bunggu,  although  once  or  twice  makumbunggu  was
 used  as  the  reciprocal  of  bunggu.
 
@@ -15104,8 +13759,7 @@ Tavale\  This  term  is  applied  to  one  another  by  the
 children  of  brother  and  sister.  Thus,  it  is  used  by  both  men
 and  women  for  the  children  of  the  mother's  brother  and  of  the
 father's  sister.  It  is  also  used  for  various  relationships  by
-marriage  otherwise  called  veidhakavi  and  veilavi.  No  dis-
-tinction  is  made  according  to  sex,  the  term  thus  mcludmg
+marriage  otherwise  called  veidhakavi  and  veilavi.  No  distinction  is  made  according  to  sex,  the  term  thus  mcludmg
 those  who  would  be  distinguished  as  tavale,  ndavola  and  ndauve
 in  the  Mbau  system.  According  to  one  informant  the  child  of
 a  vasu  would  also  be  tavale.
@@ -15131,8 +13785,7 @@ Veidhakavi,  veilavi  and  tavale.  These  are  terms  for
 marriage  relationships,  the  exact  meaning  of  which  I  failed
 to  discover.  Veidhakavi  is  applied  by  a  man  to  his  wife's
 brother  and  reciprocally  to  the  sister's  husband,  but  it  was  not
-used  in  other  cases  when,  so  far  as  I  could  see,  the  relation-
-ship was  the  same.  Again,  the  term  veilavi  was  also  used  for
+used  in  other  cases  when,  so  far  as  I  could  see,  the  relationship was  the  same.  Again,  the  term  veilavi  was  also  used  for
 this  relationship,  but  it  was  used  as  well  for  a  relationship
 between  man  and  woman,  i.e.  for  the  wife's  sister  and  for  the
 husband  of  the  sister  (w.s.).  In  one  case  veilavi  was  used  as
@@ -15206,16 +13859,13 @@ The  Navatusila.
 
 This  tribe  occupies  a  district  not  far  from  Nandrau\
 The  missionary  Baker  was  killed  by  these  people  who  were
-among  those  who  practised  the  Nanga  cult.  My  infor-
-mation was  obtained  in  only  one  interview  from  an  old  man
+among  those  who  practised  the  Nanga  cult.  My  information was  obtained  in  only  one  interview  from  an  old  man
 who  had  just  been  discharged  from  the  prison  at  Nandarivatu
-and  there  are  many  omissions  and  doubtless  more  inaccu-
-racies. I  should  not  have  ventured  to  publish  information  so
+and  there  are  many  omissions  and  doubtless  more  inaccuracies. I  should  not  have  ventured  to  publish  information  so
 gained  if  it  had  not  been  that  the  system  shows  a  very  close
 correspondence  with  that  of  Nandrau  in  its  general  structure.
 I  need  hardly  say  that  it  would  have  been  quite  impossible  to
-obtain  even  this  information  without  the  use  of  the  genea-
-logical method.
+obtain  even  this  information  without  the  use  of  the  genealogical method.
 
 My  account  of  the  matanggali  is  very  fragmentary.  The
 sacred  animal  of  the  whole  Navatusila  people  is  the  nganivatu,
@@ -15285,8 +13935,7 @@ of  her  brother.
 The  Dhawanisa.
 
 I  obtained  the  names  of  the  following  matanggali  of  this
-tribe' : — the  Leiekumba,  Nakorosovivi,  Votualevu,  Nambe-
-tongondrongondro,  Nambelanga,  Nandala,  Numbu  and  Keti^
+tribe' : — the  Leiekumba,  Nakorosovivi,  Votualevu,  Nambetongondrongondro,  Nambelanga,  Nandala,  Numbu  and  Keti^
 The  whole  tribe  traces  its  descent  from  a  small  aquatic
 animal  of  some  kind  called  the  ndravindravi  which  they  may
 not  eat  but  I  could  not  discover  that  the  different  matanggali
@@ -15299,8 +13948,6 @@ district  north-west  of  Nandrau.
 2  These  names  were  usually  given  the  prefix  kai.,  as  Kainumbu,  and  Kaiketi,
 kai  meaning  apparently  "  people  of"
 
-
-282  Melanesian  Society
 
 when  it  was  not  fully  ripe  but  it  was  very  doubtful  whether
 this  was  on  account  of  any  sacred  character.
@@ -15343,8 +13990,7 @@ grandson  is  called  viangonggu.  It  thus  seemed  as  if  there
 were  present  a  tendency  to  call  grandparents  tatai  (or  the
 corresponding  term  nggu  tai)  and  grandchildren  viangonggu,
 except  in  the  relationship  between  a  man  and  his  son's  son,
-and  it  would  seem  as  if  we  had  here  a  case  of  the  disappear-
-ance of  distinctions  which  are  perfectly  definite  in  the  other
+and  it  would  seem  as  if  we  had  here  a  case  of  the  disappearance of  distinctions  which  are  perfectly  definite  in  the  other
 two  mountain  systems.
 
 *  Nggu  =  my.
@@ -15369,15 +14015,12 @@ terms  used  for  these  ancestors  differed  somewhat  from  those
 of  Nandrau,  The  great-grandfather  was  called  momo,  the
 same  term  as  was  applied  to  the  father  (my  informant  was  a
 chief)  but  with  the  addition  of  the  word  vakarua,  meaning
-second,  and  this  momo  vakarua  would  have  called  his  great-
-grandson  luvenggu  vakarua.  So  far  this  is  in  accordance  with
+second,  and  this  momo  vakarua  would  have  called  his  greatgrandson  luvenggu  vakarua.  So  far  this  is  in  accordance  with
 Nandrau  usage,  but  all  ancestors  beyond  this  were  called
 tumbunggu,  the  great-great-grandfather  being  tumbunggu
-vakarua  and  his  father  tumbunggu  vakatolu  (third  grand-
-father).
+vakarua  and  his  father  tumbunggu  vakatolu  (third  grandfather).
 
-The  three  systems  of  the  Nandrau,  Navatusila  and  Dha-
-wanisa peoples,  which  are  essentially  on  the  same  plan,  present
+The  three  systems  of  the  Nandrau,  Navatusila  and  Dhawanisa peoples,  which  are  essentially  on  the  same  plan,  present
 many  features  of  great  interest.  My  data  from  the  Navatusila
 and  Dhawanisa  are  scanty  and  if  they  stood  alone  I  should
 hesitate  to  lay  much  stress  on  their  special  features,  but  their
@@ -15393,19 +14036,15 @@ grandson  gives  to  his  grandfather  the  same  term  as  that  he
 uses  for  his  elder  brother.  Among  the  Nandrau  people
 the  son's  wife  is  called  nau,  the  same  term  as  is  applied  to  the
 mother,  and  the  son's  wife  and  the  mother  are  probably  also
-classed  together  in  the  other  two  systems.  In  another  relation-
-ship among  the   Nandrau  people,  there   is  a  corresponding
+classed  together  in  the  other  two  systems.  In  another  relationship among  the   Nandrau  people,  there   is  a  corresponding
 
-
-284  Melanesian  Society
 
 usage,  the  son  of  a  vasu  (i.e.  sister's  son's  son)  being  classed  in
 nomenclature  with  a  brother.  A  third  character  which  places
 members  of  alternate  generations  on  the  same  footing  among
 the  Nandrau  and  Dhawanisa  people  (and  probably  also  among
 the  Navatusila)  is  that  the  grandfather  of  the  father  receives
-the  same  name  as  the  father  while  the  grandfather  of  the  grand-
-father and  the  grandfather  himself  are  also  similarly  designated.
+the  same  name  as  the  father  while  the  grandfather  of  the  grandfather and  the  grandfather  himself  are  also  similarly  designated.
 Lastly,  among  the  Dhawanisa  the  husband  of  the  father's  sister
 and  the  husband  of  the  sister's  daughter^  receive  the  same
 name,  which  again  involves  bringing  under  the  same  head
@@ -15417,8 +14056,7 @@ what  this  purpose  may  have  been  must  be  left  for  later
 consideration.
 
 Another  unusual  feature  of  the  Nandrau  and  its  allied
-systems  is  the  wealth  of  terms  for  grandparents  and  grand-
-children. In  many  forms  of  the  classificatory  system,  at  any
+systems  is  the  wealth  of  terms  for  grandparents  and  grandchildren. In  many  forms  of  the  classificatory  system,  at  any
 rate  in  Oceania,  the  parents  of  the  father  receive  the  same
 designation  as  the  parents  of  the  mother  and  often  no
 distinction  corresponding  to  sex  exists,  so  that  there  is  only
@@ -15427,8 +14065,7 @@ system,  on  the  other  hand,  there  are  four  distinct  terms  for
 the  four  grandparents  and  also  four  terms  for  the  reciprocals
 of  these,  i.e.  each  of  the  four  kinds  of  grandparent  has  his  or
 her  appropriate  term  for  the  child  of  son  or  daughter.  The
-distinction  is  not  as  with  us  between  a  grandson  and  a  grand-
-daughter but  between  the  child  of  a  son  or  of  a  daughter
+distinction  is  not  as  with  us  between  a  grandson  and  a  granddaughter but  between  the  child  of  a  son  or  of  a  daughter
 irrespective  of  sex,  and  each  male  grandparent  uses  a  term
 different  from   that  employed  by  his  wife.
 
@@ -15482,8 +14119,7 @@ husband  (m.s.)  and  for  the  wife's  brother  while  the  husband's
 brother  and  the  brother's  wife  (m.s.)  are  called  ndaku,  the
 term  used  for  these  relationships  by  the  other  mountain  tribes.
 The  wife's  father  and  mother  are  vunonggu  but  nganeitamanggu
-was  also  used  once  for  the  latter  relationship.  Here  as  else-
-where people  are  spoken  of  as  the  parents  of  their  children
+was  also  used  once  for  the  latter  relationship.  Here  as  elsewhere people  are  spoken  of  as  the  parents  of  their  children
 and  a  man  whose  daughter  has  had  a  child  will  call  this
 daughter  nanairau,  or  our  mother.  There  can  be  little  doubt
 that  this  system  must  have  been  at  one  time  of  the  same  kind
@@ -15493,8 +14129,6 @@ inland  and  coastal  systems.
 
 1  Mr  Hocart  tells  me  that  this  word  is  also  used  for  a  step-father.
 
-
-286  Melanesian  Society
 
 An  account  was  obtained  of  the  tambu  objects  of  several
 niata7iggali  of  Nasonggo.  The  Nodhavondu  beHeved  in  their
@@ -15516,8 +14150,7 @@ the  northern  coast  of  Viti  Levu.  There  are  four  mata7tgga/i :
 the  Kainavauvau,  Kainambuna,  Kaivanuakula  and  Kaimbila.
 The  last  was  said  to  be  different  from  the  rest ;  its  people  had
 lived  elsewhere,  it  was  said  in  the  Yasawa  Islands,  and  after
-having  been  burnt  out  of  their  homes  in  warfare  with  a  con-
-federation of  tribes,  they  had  come  to  join  the  Tavua  people.
+having  been  burnt  out  of  their  homes  in  warfare  with  a  confederation of  tribes,  they  had  come  to  join  the  Tavua  people.
 Their  language  differs  from  that  of  the  rest  of  the  Tavua
 people,  though  it  is  gradually  becoming  more  like  it.  Each
 of  the  four  matanggali  has  its  own  chief,  but  in  the  time  of  the
@@ -15529,8 +14162,7 @@ also  mata  ni  mbure  or  "face  of  the  mbure,''  each  itokatoka
 having  its  own  men's  sleeping  house.
 
 The  following  are  the  itokatoka  of  the  Kainavauvau
-matanggali;  the  Nambulou,  Kainggavindi,  Kaindingi,  Kai-
-naimburu,  Wandai  and  Yavusambalavu,  the  last  word  meaning
+matanggali;  the  Nambulou,  Kainggavindi,  Kaindingi,  Kainaimburu,  Wandai  and  Yavusambalavu,  the  last  word  meaning
 the  great  house.  The  Wandai  furnished  the  mata  ni  vanua
 or  messengers  of  the  chief.
 
@@ -15554,8 +14186,7 @@ Nggaudhia  and  Namara.
 The  Kaimbila  have  as  itokatoka  the  Nandula  or  group  of
 the  chiefs,  the  Vinangonasau,  Vinangoiratu,  Lova,  Tavasi,
 Naiavusambalavu,  meaning  the  long  group,  and  the  last
-again  had  six  subdivisions  called  Oimua,  Nasariti,  Natoko-
-raki,  Vunikura,  Tavasi  and  Mondelau.  Each  of  these  itoka-
+again  had  six  subdivisions  called  Oimua,  Nasariti,  Natokoraki,  Vunikura,  Tavasi  and  Mondelau.  Each  of  these  itoka-
 toka as  well  as  each  subdivision  of  the  Naiavusambalavu  had
 its  own  mbure^.
 
@@ -15587,8 +14218,7 @@ banana  they  frequent,  he  would  say  "Is  that  you,  Vakawali  ?
 Come  along ! "  and  the  snake  would  crawl  along  the  man's
 arm,  climb  on  his  shoulder  and  twine  itself  round  his  neck.
 
-1  I  did  not  learn  of  any  special  differentiation  of  function  among  these  jnatang-
-gali  and  itokatoka  with  one  exception  which  I  owe  to  Mr  Joske.  Sometimes
+1  I  did  not  learn  of  any  special  differentiation  of  function  among  these  jnatanggali  and  itokatoka  with  one  exception  which  I  owe  to  Mr  Joske.  Sometimes
 certain  families  or  other  social  groups  have  a  special  reputation  as  jokers.  An
 example  from  Mbau  is  that  a  certain  people  told  to  thatch  a  house  will  beat  it
 with  small  clubs  instead,  the  point  of  the  joke  being  that  the  word  for  "thatch"  is
@@ -15599,8 +14229,6 @@ Naiavusambalavu  itokatoka  had  this  kind  of  reputation.
 confirms  the  other  evidence  that  their  relation  to  one  another  is  closer  than  with
 the  other  matanggali.
 
-
-288  Melanesian  Society
 
 The  following  are  the  terms  of  relationship  of  the  Tavua
 people  : —
@@ -15621,8 +14249,7 @@ system  is  in  the  nomenclature  of  the  children  of  the  mother's
 brother  and  father's  sister,  these  being  called  tuakanggu  or
 tadhinggu  according  to  age,  these  being  as  in  other  systems
 also  terms  for  brother  and  sister.  Thus,  cross-cousins  who
-in  all  the  other  recorded  systems  of  Fiji  have  special  designa-
-tions are  here  classed  with  brothers  and  sisters.  The  terms
+in  all  the  other  recorded  systems  of  Fiji  have  special  designations are  here  classed  with  brothers  and  sisters.  The  terms
 tuakanggu  and  tadhinggu  are  used  in  address  between  men
 and  women,  i.e.  they  are  in  use  not  only  between  brothers
 and  between  sisters  but  also  between  those  of  different  sex,
@@ -15680,8 +14307,7 @@ in  the  terms  for  grandparents  and  grandchildren.  The  Mbau
 system  of  the  coast,  on  the  other  hand,  shows  its  richness  in
 the  nomenclature  for  the  cousins  who  are  either  the  potential
 spouses  of  the  speaker  or  of  his  brothers  or  sisters,  a  feature
-which  is  readily  intelligible  in  connection  with  the  cross-
-cousin  marriage.  Another  feature  of  the  inland  systems  is
+which  is  readily  intelligible  in  connection  with  the  crosscousin  marriage.  Another  feature  of  the  inland  systems  is
 that  they  distinguish  between  the  parents-in-law  and  the
 mother's  brother  or  father's  sister,  and  in  addition  there  are
 special  terms  for  the  wife  of  the  mother's  brother  and  for  the
@@ -15697,10 +14323,6 @@ such  a  feature.  One  of  the  coastal  words  for  the  grandfather
 is  tukanggu,  which  bears  a  close  resemblance  to  tuakanggu,
 the  term  for  elder  brother,  and  this  similarity  suggests  that  we
 
-R.  M.  s.  19
-
-
-290  Melanesian  Society
 
 have  a  relic  of  a  time  when  a  man  gave  the  same  term  to
 these  two  relatives  as  he  still  does  in  the  mountains  at  the
@@ -15724,8 +14346,7 @@ is  often  used  in  the  interior  for  the  elder  brother,  but  this
 relative  is  also  frequently  called  tutua  and  there  was  little
 doubt  that  this  is  the  term  proper  to  the  three  systems
 which  were  studied.  Similarly,  there  are  alternative  terms
-for  the  relatives  by  marriage  who  are  usually  called  tavale-
-nggii.  On  the  other  hand,  it  must  be  pointed  out  that  no
+for  the  relatives  by  marriage  who  are  usually  called  tavalenggii.  On  the  other  hand,  it  must  be  pointed  out  that  no
 alternative  was  ever  used  for  tad/iinggu,  and  yet  this  term
 was  used  in  a  very  special  sense  to  include  the  son's  son  and
 the  younger  brother,  a  sense  limited  to  the  mountains.
@@ -15741,8 +14362,7 @@ Fiji  is  noted  for  two  especially  striking  cases  of  special
 functions  pertaining  to  certain  relatives.
 
 The  special  relation  of  a  sister's  son  to  his  uncle  has
-reached  its  highest  known  manifestation  in  the  vasu  institu-
-tion of  Fiji  while  these  islands  also  furnish  a  most  pro-
+reached  its  highest  known  manifestation  in  the  vasu  institution of  Fiji  while  these  islands  also  furnish  a  most  pro-
 nounced example  of  the  avoidance  between  brother  and  sister.
 I  was  not  able  to  collect  a  sufficient  number  of  concrete
 examples  to  allow  me  to  reach  any  very  definite  conclusions
@@ -15767,8 +14387,7 @@ If  a  man  wished  to  communicate  with  his  sister  he  employed
 some  intermediary.  He  would  never  utter  the  personal  name
 of  his  sister  but  would  address  her  as  0  iratou  na  lewa,  i.e.
 "  those  women  "  in  the  plural,  and  this  method  of  denoting
-the  sister  would  also  be  employed  when  speaking  of  her  to  any-
-one else.  In  the  Tavua  district  it  was  said  that  a  man  would
+the  sister  would  also  be  employed  when  speaking  of  her  to  anyone else.  In  the  Tavua  district  it  was  said  that  a  man  would
 communicate  with  his  sister  through  his  mother.  If  these
 restrictions  were  not  observed,  a  man  would  be  regarded  as  mad
 and  would  be  killed  either  with  a  club  or  by  strangling  {kuna).
@@ -15796,13 +14415,10 @@ once  also  true  of  the  inland  tribes.
 I  could  not  discover  that  the  uncle  had  any  special  power
 of  stopping  his  nephew  when  he  was  fighting ;  if  he  did  so,
 
-^  This  item  of  information  was  given  to  me  while  I  was  staying  with  a  magis-
-trate and  must  be  accepted  with  reserve.
+^  This  item  of  information  was  given  to  me  while  I  was  staying  with  a  magistrate and  must  be  accepted  with  reserve.
 
 19 — 2
 
-
-292  Melanesian  Society
 
 it  was  only  looked  on  as  part  of  his  general  right  to  exact
 obedience.  On  the  other  hand,  it  was  said  that  a  man  would
@@ -15823,8 +14439,7 @@ in  nomenclature  with  the  mother's  brother,  had  the  same
 duties  and  privileges  and  was  liable  to  have  any  of  his
 possessions  taken  by  the  son  of  his  wife's  brother.
 
-The  mother's  brother  takes  a  leading  part  in  the  cere-
-monial connected  with  incision \  The  feast  on  this  occasion
+The  mother's  brother  takes  a  leading  part  in  the  ceremonial connected  with  incision \  The  feast  on  this  occasion
 is  given  by  the  boy's  father  but  the  boy  takes  one  of  his
 uncle's  pigs  and  gives  it  to  his  father^  It  may  be  noted  that
 a  boy  may  take  his  uncle's  possessions  before  incision.
@@ -15838,8 +14453,7 @@ could  not  fully  understand,  was  certainly  connected  in  some
 way  with  the  distinction  between  a  vasu  to  his  own  people
 and  one  of  the  ordinary  kind.
 
-Another  interesting  feature  connected  with  this  relation-
-ship is  that  a  man  will  not  eat  the  tambu  animal  of  the  tribe
+Another  interesting  feature  connected  with  this  relationship is  that  a  man  will  not  eat  the  tambu  animal  of  the  tribe
 to  which  he  is  vasu.  The  result  of  this  is  that  a  man  respects
 the  animal  of  his  mother  as  well  as  that  of  his  father,  but  it  is
 
@@ -15908,9 +14522,6 @@ together  for  the  sake  of  talking,  though  they  might  speak  to  one  ano
 It  may  be  that  this  is  all  that  is  meant  in  other  cases  of  this  form  of  restriction.
 
 
-294  Melanesian  Society
-
-
 Marriage.
 
 The  system  of  Mbau  and  those  allied  to  it  which  are
@@ -15924,8 +14535,7 @@ are  evidently  the  direct  results  of  the  regulation  which  makes
 a  union  between  the  children  of  brother  and  sister  the  natural
 marriage  of  these  people.  To  this  origin  is  also  due  the  use
 of  the  same  term  to  denote  the  wife's  brother  and  the  son  of
-the  mother's  brother  or  father's  sister.  In  fact,  anyone  con-
-versant with  systems  of  relationship  could  at  once  diagnose
+the  mother's  brother  or  father's  sister.  In  fact,  anyone  conversant with  systems  of  relationship  could  at  once  diagnose
 the  existence  of  the  cross-cousin  marriage  in  the  present  or
 the  past  from  the  nature  of  the  systems  of  the  Mbau  and
 Rewa  districts.
@@ -15934,24 +14544,18 @@ When  we  turn  to  the  mountain  tribes,  the  evidence
 afforded  by  the  terms  of  relationship  for  the  existence  of  the
 cross-cousin  marriage  is  far  less  definite  and  indeed  the  only
 direct  evidence  is  in  the  use  of  the  term  tavale  to  denote  both
-the  children  of  brother  and  sister  and  certain  marriage  rela-
-tionships.
+the  children  of  brother  and  sister  and  certain  marriage  relationships.
 
-A  piece  of  evidence  against  the  existence  of  the  cross-
-cousin  marriage  among  the  mountain  tribes  is  to  be  found  in
+A  piece  of  evidence  against  the  existence  of  the  crosscousin  marriage  among  the  mountain  tribes  is  to  be  found  in
 the  distinctive  terms  for  the  parents  of  father  and  mother.
 One  of  the  consequences  of  the  marriage  of  the  children  of
-own  brother  and  sister  is  that  a  person  has  only  two  grand-
-parents and  it  is  therefore  natural  that  in  the  Mbau  system
-there  should  be  only  two  terms  for  the  relatives  of  this  gene-
-ration. In  the  mountain  systems,  on  the  other  hand,  there
+own  brother  and  sister  is  that  a  person  has  only  two  grandparents and  it  is  therefore  natural  that  in  the  Mbau  system
+there  should  be  only  two  terms  for  the  relatives  of  this  generation. In  the  mountain  systems,  on  the  other  hand,  there
 are  four  distinct  terms  for  the  four  kinds  of  grandparent,  a
-condition  which  is  incompatible  with  the  fully  developed  cross-
-cousin  marriage,  i.e.  with  the  marriage  of  children  of  own
+condition  which  is  incompatible  with  the  fully  developed  crosscousin  marriage,  i.e.  with  the  marriage  of  children  of  own
 brother  and  sister.
 
-The  evidence  in  favour  of  the  existence  of  the  cross-
-cousin  marriage  derived  from  the  nature  of  the  systems  of
+The  evidence  in  favour  of  the  existence  of  the  crosscousin  marriage  derived  from  the  nature  of  the  systems  of
 relationship  of  the  mountain  tribes  is  therefore  of  very  doubtful
 value,  and  I  failed  to  obtain  any  direct  evidence  of  its  existence
 at  the  present  time  or  in  the  near  past  from  the   pedigrees
@@ -15963,8 +14567,7 @@ collected  from  the  members  of  three  mountain  tribes.  If  the
 cross-cousin  marriage  had  existed  among  these  people  with
 any  frequency,  it  must  have  shown  itself  in  the  seven  or  eight
 fairly  extensive  pedigrees  collected  from  the  three  tribes,  and
-yet  in  none  of  them  was  there  a  single  example  of  a  cross-
-cousin  marriage.  Further,  there  was  an  absence  of  knowledge
+yet  in  none  of  them  was  there  a  single  example  of  a  crosscousin  marriage.  Further,  there  was  an  absence  of  knowledge
 of,  and  apparently  of  interest  in,  the  pedigrees  of  mother  and
 wife  as  compared  with  that  of  the  father,  which  is  difficult
 to  understand  if  the  cross-cousin  marriage  were  extensively
@@ -15973,11 +14576,9 @@ in  vogue.
 When  we  turn  to  the  system  used  by  the  people  of  Tavua
 we  are  met  by  a  state  of  affairs  very  difficult  to  understand.
 It  may  be  said  that  the  essential  feature  of  the  mode  of
-relationship  set  up  by  the  presence  of  the  cross-cousin  mar-
-riage is  that  it  divides  relatives  of  the  same  generation  into
+relationship  set  up  by  the  presence  of  the  cross-cousin  marriage is  that  it  divides  relatives  of  the  same  generation  into
 two  very  clearly  separated  classes,  one  class  consisting  of
-persons  whose  intermarriage  when  of  different  sexes  is  abso-
-lutely prohibited  and  another  class  in  which  persons  of  different
+persons  whose  intermarriage  when  of  different  sexes  is  absolutely prohibited  and  another  class  in  which  persons  of  different
 sex  are  natural  if  not  obligatory  spouses,  and  in  Mbau  and
 other  places  where  the  cross-cousin  marriage  exists  these
 two  classes  are  definitely  distinguished  in  the  nomenclature  of
@@ -15995,8 +14596,7 @@ in  an  extensive  pedigree  obtained  in  this  district,  and  when
 I  asked  for  other  cases  few  could  be  given,  and  most  of  these
 were  not  examples  of  the  marriage  of  the  children  of  own
 brother  and  sister  but  of  more  distant  relatives.  The  exact
-condition  can  only  be  discovered  by  more  extensive  genea-
-logical inquiry,  but  my  impression  is  that  the  cross-cousin
+condition  can  only  be  discovered  by  more  extensive  genealogical inquiry,  but  my  impression  is  that  the  cross-cousin
 marriage  has  almost  disappeared  in  this  district,  though  the
 system  gives  clear  evidence  of  its  existence  in  the  past.  It  is
 even  possible  that  the  few  recent  instances  I  obtained  are  due
@@ -16026,8 +14626,7 @@ any  conclusions  as  to  the  actual  frequency  of  the  cross-cousin
 marriage  in  those  parts  of  the  island  where  it  undoubtedly
 exists.  The  presence  or  absence  of  this  institution  and  its
 relative  prevalence  in  those  parts  where  it  exists  can  only  be
-satisfactorily  studied  by  means  of  a  far  more  extended  appli-
-cation of  the  genealogical  method.  Only  in  this  way  can  we
+satisfactorily  studied  by  means  of  a  far  more  extended  application of  the  genealogical  method.  Only  in  this  way  can  we
 learn  how  far  cases  of  the  cross-cousin  marriage  have  been
 between  the  children  of  own  brother  and  sister,  and  how  far
 they  are  the  marriages  of  more  distant  relatives  who  stand  to
@@ -16076,8 +14675,7 @@ TiKOPiA,  sometimes  known  as  Barwell  Island,  has  become
 well  known  as  the  place  where  Dillon  first  learnt  the  probable
 fate  of  La  Perouse  on  Vanikolo.  It  is  a  tiny  volcanic  island,
 not  more  than  seven  miles  in  circumference,  situated  in  latitude
-12°  17'  S.  and  in  longitude  168°  58'  E.  The  nearest  in-
-habited islands  are  Anudha  or  Cherry  Island,  60  miles  to
+12°  17'  S.  and  in  longitude  168°  58'  E.  The  nearest  inhabited islands  are  Anudha  or  Cherry  Island,  60  miles  to
 the  north-east,  and  Vanikolo,    118  miles  to  the  north-west.
 
 According  to  Dillon  Tikopia  was  first  visited  in  181 3  by
@@ -16124,8 +14722,7 @@ I  found  this  man  on  board,  as  he  had  taken  the  opportunity
 of  the  visit  of  the  ship  to  leave  the  island.  I  began  to  ask
 him  questions  and  it  soon  appeared  that  he  had  so  much
 knowledge  of  the  manners  and  customs  of  the  inhabitants  and
-seemed  so  trustworthy  a  witness  that  Mr  Durrad  and  I  ob-
-tained as  full  an  account  as  possible  of  those  features  of
+seemed  so  trustworthy  a  witness  that  Mr  Durrad  and  I  obtained as  full  an  account  as  possible  of  those  features  of
 Tikopian  culture  of  which  he  had  knowledge.  The  account
 which  follows  is  thus  given  by  one  witness  only  who  was  not
 a  native  of  the  island,  and  as  the  value  of  the  account  turns
@@ -16154,12 +14751,9 @@ Tikopia  a  native  of  Wallis  Island  (Howvea)  who  had  been  driven  to  th
 similar  manner.
 
 
-300  Melanesian  Society
-
 There  is  still  another  of  his  fellow  castaways,  John  Patita
 or  Virikeka  of  Wallis  Island,  on  Tikopia,  and  Mr  Durrad
-obtained  from  him  an  account  of  their  journey.  The  cast-
-aways were  John  Maresere,  John  Patita  and  Moses  Tongare
+obtained  from  him  an  account  of  their  journey.  The  castaways were  John  Maresere,  John  Patita  and  Moses  Tongare
 of  Wallis  Island  and  Pongi,  Zephaniah,  Muri  and  Antonio  of
 Tonga.  The  three  men  last  named  had  killed  a  man  in
 Tonga  and  had  fled  to  Wallis  Island.  They  heard  that
@@ -16173,8 +14767,7 @@ Fiji,  Futuna,  Rotuma,  and  Panapa  (?  Paanopa)\  and  finally
 reached  Tikopia,  where  the  cutter  was  wrecked  in  the  surf.
 They  were  first  received  by  a  man  named  Paefakofe  (see
 pedigree  X),  who  adopted  Muri,  Antonio  and  John  Patita,
-while  John  Maresere  was  adopted  by  Paerangifure  (see  pedi-
-gree IX),  Zephaniah  by  the  chief  of  the  Tafua,  Pongi  by  the
+while  John  Maresere  was  adopted  by  Paerangifure  (see  pedigree IX),  Zephaniah  by  the  chief  of  the  Tafua,  Pongi  by  the
 chief  of  the  Fangarere,  and  Moses  Tongare  by  the  chief  of
 the  Kafika.  Six  or  seven  years  ago  a  ketch  belonging  to  a
 planter  of  Epi  came  to  the  island  and  took  away  Zephaniah,
@@ -16191,8 +14784,7 @@ was  able  to  point  out  men  who  were  little  children  when  he
 landed  and  a  large  coconut  tree  which  he  had  planted  soon
 after  his  arrival.
 
-The  fact  that  the  information  we  obtained  came  exclu-
-sively from  one  man  made  us  very  attentive  to  any  indications
+The  fact  that  the  information  we  obtained  came  exclusively from  one  man  made  us  very  attentive  to  any  indications
 by  means  of  which  we  might  gauge  his  trustworthiness  and
 I  can  only  say  that  we  became  more  and  more  impressed
 with  his  merits  as  a  faithful  observer  as  we  proceeded.    There
@@ -16206,10 +14798,8 @@ carried  southwards  from  the  beginning.
 
 Value  of  Evidence  301
 
-were  certain  departments  of  knowledge  on  which  to  our  dis-
-appointment he  could  tell  us  nothing  ;  thus,  he  had  paid  no
-attention  to  any  folk-tales  for  lack  of  interest  in,  or  even  con-
-tempt for,  them,  and  he  knew  none  of  the  prayers  or  other
+were  certain  departments  of  knowledge  on  which  to  our  disappointment he  could  tell  us  nothing  ;  thus,  he  had  paid  no
+attention  to  any  folk-tales  for  lack  of  interest  in,  or  even  contempt for,  them,  and  he  knew  none  of  the  prayers  or  other
 formulas  because  these  are  always  uttered  in  too  low  a  voice
 to  be  heard  by  those  present.  In  such  cases,  however,  he
 was  always  ready  to  acknowledge  his  ignorance  and  could
@@ -16241,8 +14831,7 @@ the  information  given  in  it.  It  is  the  account  of  one  belonging
 to  an  alien  though  allied  culture,  who  had  spent  many  years  on
 the  island.  It  shows  how  far  such  alien  visitors  are  permitted
 to  enter  into  the  inner  lives  of  the  people  among  whom  they
-settle,  and  it  illustrates  the  powers  of  observation  and  infer-
-ence possessed  by  a  man  who  was  probably  an  average  Poly-
+settle,  and  it  illustrates  the  powers  of  observation  and  inference possessed  by  a  man  who  was  probably  an  average  Poly-
 nesian. Further,  it  has  still  another  interest.  As  time  goes
 on,  anthropology  will  have  to  rely  more  and  more  on  such
 narratives  as  those  of  John  Maresere.  There  are  many  parts
@@ -16273,8 +14862,7 @@ ways  John  Maresere  had  certain  advantages  over  Mariner,
 for  the  latter  was  living  among  people  wholly  alien  to  himself
 in  mode  of  life  and  thought,  while  John  was  a  Polynesian
 among  Polynesians.  Further,  Mr  Durrad  and  I  who  took
-down  his  record  had,  for  purposes  of  comparison,  John's  know-
-ledge of  Banks  custom  acquired  during  his  later  stay  on
+down  his  record  had,  for  purposes  of  comparison,  John's  knowledge of  Banks  custom  acquired  during  his  later  stay  on
 Motlav,  and  some  of  the  points  of  greatest  interest  were
 brought  out  by  an  inquiry  into  the  comparison  of  Motlav  and
 Tikopian  procedure.  While  his  knowledge  of  Melanesian
@@ -16289,8 +14877,7 @@ he  may  sometimes  have  been  giving  us  the  customs  of  Uvea
 in  place  of  those  of  Tikopia  there  must  be  more  doubt.  Here
 again,  however,  he  was  able  in  some  cases  to  compare  the
 customs  of  the  two  places,  especially  in  medical  practice,  and
-though  this  source  of  confusion  cannot  be  excluded  with  cer-
-tainty, it  is  improbable  that  it  has  had  any  influence  on  the
+though  this  source  of  confusion  cannot  be  excluded  with  certainty, it  is  improbable  that  it  has  had  any  influence  on  the
 value  of  the  Tikopian  record.
 
 Before  I  pass  on  to  consider  this  record  a  few  words  may
@@ -16340,8 +14927,7 @@ tresses,  or  bound  up  so  as  to  keep  it  from  covering  their  faces
 those  of  Polynesians  though  we  saw  some  persons  whose
 appearance  strongly  suggested  an  admixture  of  Melanesian
 blood,  and  Mr  Durrad's  photographs  well  illustrate  the
-diversity  of  physical  type.  The  people  appear  to  be  ex-
-ceptionally tall  and  are  probably  considerably  above  the
+diversity  of  physical  type.  The  people  appear  to  be  exceptionally tall  and  are  probably  considerably  above  the
 usual  height  of  either  Polynesian  or  Melanesian.  There
 was  much  variety  in  the  colour  of  the  skin  in  various
 shades  of  brown,  again  suggesting  some  Melanesian  mixture,
@@ -16360,8 +14946,7 @@ section  of  the  community.  There  is  no  direct  relation  between
 the  divisions  and  the  regulation  of  marriage  which  depends
 wholly  on  kinship.  Each  of  the  divisions  has  associated  with
 it  certain  animals  or  plants  called  atua,  a  word  also  used  for
-ancestors,  and  while  most  of  these  atua  belong  to  special  divi-
-sions, some  are  common  to  the  whole  community.  The
+ancestors,  and  while  most  of  these  atua  belong  to  special  divisions, some  are  common  to  the  whole  community.  The
 Kafika  have  as  atua  the  feke  or  octopus  which  they  may  not
 eat,  a  prohibition  which  they  share  with  the  whole  population
 of  the  island,  though  the  animal  is  regarded  as  especially
@@ -16420,8 +15005,7 @@ the  moko  bird.
 In  addition  to  the  prohibitions  connected  with  these  atua,
 three  of  the  divisions  are  prohibited  from  eating  certain  plants,
 the  yam,  the  taro  and  the  coconut,  and  these  were  also  called
-atua,  but  the  consideration  of  these  prohibitions  may  be  de-
-ferred till  later,  when  certain  ceremonies  connected  with  them
+atua,  but  the  consideration  of  these  prohibitions  may  be  deferred till  later,  when  certain  ceremonies  connected  with  them
 will  be  described.
 
 
@@ -16429,8 +15013,7 @@ Chieftainship  305
 
 The  Chiefs.
 
-The  distinction  between  the  chiefs  or  ariki  and  the  ordi-
-nary people  is  very  definite,  this  being  perhaps  most  clearly
+The  distinction  between  the  chiefs  or  ariki  and  the  ordinary people  is  very  definite,  this  being  perhaps  most  clearly
 shown  by  the  marriage  regulations.  Marriage  is  not  allowed
 between  the  two  classes  and  if  it  is  found  that  a  youth  of  the
 ordinary  people  has  had  an  intrigue  with  the  daughter  of  a
@@ -16449,15 +15032,13 @@ The  respect  felt  for  the  chiefs  is  shown  very  definitely  in  the
 behaviour  of  the  people.  If  the  chief  is  in  his  house  a  visitor
 who  enters  will  kneel  at  the  door  and  will  move  towards  his
 superior  on  his  hands  and  knees  till  he  reaches  him,  when  the
-pair  touch  noses  in  the  customary  manner.  He  then  with-
-draws a  pace  or  two  and  sits  down  cross-legged,  no  other
+pair  touch  noses  in  the  customary  manner.  He  then  withdraws a  pace  or  two  and  sits  down  cross-legged,  no  other
 position  being  allowed  in  the  presence  of  a  chief.  The  chief
 would  then  call  out  to  his  wife  for  food  and  the  pair  would
 talk  while  eating.  When  the  talk  is  finished  the  visitor  will
 ask  permission  to  go  and  will  leave  on  his  hands  and  knees  as
 he  came  without  turning  his  back  to  his  superior.  If  the
-chief  is  out  of  doors  when  he  is  visited  the  man  who  ap-
-proaches him  will  kneel  down  at  a  few  paces'  distance  and
+chief  is  out  of  doors  when  he  is  visited  the  man  who  approaches him  will  kneel  down  at  a  few  paces'  distance  and
 move  towards  him  on  hands  and  knees  to  salute  him.
 
 If  a  man  wishes  to  pass  a  chief,  he  will  say  "(9  mata  pa'
@@ -16474,14 +15055,11 @@ go  in  his  canoe  which  is  known  as  a  tapu  canoe.  The  only
 special  privilege  of  the  chief  is  that  he  receives  certain  highly
 prized  fish  or  the  first  caught  if  there  are  several.
 
-R.  M.  S.  30
-
 
 3o6  Melanesian  Society
 
 A  chief  is  succeeded  by  his  son  or,  if  he  has  no  son,  by  his
-younger  brother  or  by  his  brother's  son.  Under  no  circum-
-stances would  he  be  succeeded  by  his  sister's  son.
+younger  brother  or  by  his  brother's  son.  Under  no  circumstances would  he  be  succeeded  by  his  sister's  son.
 
 It  seemed  that  the  chiefs  are  definitely  the  rulers  of  the
 island,  and  that  they  have  the  deciding  voice  in  social
@@ -16495,8 +15073,7 @@ they  settle  the  nature  of  the  punishment  inflicted  for  any
 breach  of  the  customs  of  the  island.
 
 For  severe  offences  the  penalty  is  death,  occasionally  by
-hanging  or  possibly  strangling,  but  more  commonly  by  send-
-ing the  offender  out  to  sea  ;  if  a  man,  in  a  canoe  ;  if  a  woman,
+hanging  or  possibly  strangling,  but  more  commonly  by  sending the  offender  out  to  sea  ;  if  a  man,  in  a  canoe  ;  if  a  woman,
 by  making  her  swim  from  the  shore.  The  chief  offence  for
 which  men  are  sent  away  is  that  already  mentioned  in  which
 a  man  of  the  ordinary  people  is  discovered  in  an  intrigue
@@ -16516,16 +15093,13 @@ same  rules  of  mourning  as  if  the  man  had  died  a  natural  death
 on  the  island.  When  John  was  sent  adrift  he  was  given  a
 mat-sail  and  having  no  wish  to  follow  the  orthodox  Tikopian
 custom  of  dying  when  he  had  lost  sight  of  land,  he  set  sail
-and  reached  Vanikolo  in  three  days,  nourishing  himself  mean-
-time on  twelve  coconuts  which  had  been  given  him  for  food.
+and  reached  Vanikolo  in  three  days,  nourishing  himself  meantime on  twelve  coconuts  which  had  been  given  him  for  food.
 Usually  only  two  or  three  coconuts  are  given  because  it  is
 understood  that  there  will  be  no  need  for  their  use.  The
 procedure  in  John's  case  differed  from  that  customary  in
 another  respect  in  that  he  was  sent  off  at  midday  instead  of
 at  night.
 
-
-Relationship  307
 
 Looseness  in  sexual  relations  appears  to  be  the  chief
 reason  for  sending  away  a  woman  who  is  driven  to  the  sea
@@ -16561,8 +15135,7 @@ sister.  The  mother's  brother  is  called  tuatina,  and  he  calls
 his  sister's  son  iramutu.  The  father's  sister  is  masikitanga,
 with  tama  as  its  reciprocal.
 
-All  four  grandparents  are  called  tupuna  and  all  grand-
-children makupuna,  both  terms  being  used  in  the  classificatory
+All  four  grandparents  are  called  tupuna  and  all  grandchildren makupuna,  both  terms  being  used  in  the  classificatory
 sense.
 
 The  husband  is  matua,  the  customary  Polynesian  word
@@ -16595,8 +15168,7 @@ her  nephew's  marriage  ;  she  usually  chooses  his  wife  and  if  he
 chooses  his  own  and  she  forbids  the  match,  it  would  be  given
 up.  The  masikitanga  will  give  bark -cloth,  mats  and  food  to
 her  nephew,  but  he  may  neither  take  them  without  leave  nor
-ask  her  for  them.  Similarly,  he  will  give  things  to  his  masiki-
-tanga, but  she  will  neither  take  them  nor  ask  for  them.  The
+ask  her  for  them.  Similarly,  he  will  give  things  to  his  masikitanga, but  she  will  neither  take  them  nor  ask  for  them.  The
 nephew  may  go  to  his  aunt's  house  and  both  talk  and  eat
 with  her.
 
@@ -16636,8 +15208,7 @@ nothing  may  be  taken  from  above  her  head  when  she  is  sitting,
 and  a  wide  sweep  must  be  made  round  her  when  passing.
 The  same  rules  apply  to  passing  the  wife's  father  but  are  not
 regarded  as  so  important.  It  seemed  that  the  ddtour  made
-in  passing  him  is  not  so  great  as  in  the  case  of  the  mother-
-in-law.
+in  passing  him  is  not  so  great  as  in  the  case  of  the  motherin-law.
 
 Husband  and  wife  address  one  another  by  name  and  the
 terms  matua  and  nojine  are  only  used  in  speaking  of  the
@@ -16669,18 +15240,14 @@ this  also  is  no  longer  practised.
 When  a  man  is  old  enough  to  marry,  a  wife  is  chosen  for
 him  by  his  father's  sister,  or  if  he  himself  chooses,  the  choice
 is  ratified  by  her.  His  relatives  then  decide  on  a  day  to  sally
-out  and  seize  the  woman  who  has  been  chosen,  the  bride-
-groom remaining  in  the  house.  The  seizure  of  the  woman  is
+out  and  seize  the  woman  who  has  been  chosen,  the  bridegroom remaining  in  the  house.  The  seizure  of  the  woman  is
 resisted,  and  a  fight  takes  place  with  clubs  and  bows  and
 arrows  in  which  no  one  is  ever  killed  though  some  are  often
 badly  wounded.  At  the  end  of  the  fight  the  father  and
 maternal  uncle  of  the  woman  are  given  presents  of  mats  and
 cloth,  and  the  woman  is  taken  to  the  house  of  her  future
-husband.  That  night  the  pair  sleep  together  but  the  mar-
-riage is  not    consummated.     On  the   next  day  the  husband
+husband.  That  night  the  pair  sleep  together  but  the  marriage is  not    consummated.     On  the   next  day  the  husband
 
-
-310  Melanesian  Society
 
 makes  presents  to  his  tangata,  the  brother  of  his  wife,  and  on
 that  and  succeeding  nights  the  pair  again  sleep  together
@@ -16705,8 +15272,7 @@ between  the  two  divisions,  or  there  would  be  a  fight  but  only
 do  the  different  divisions  fight  with  one  another.
 
 Before  marriage  cases  of  sexual  laxity  are  probably  not
-infrequent,  though  it  did  not  appear  that  there  was  any  pros-
-titution or  habitual  freedom  of  intercourse,  A  girl  found
+infrequent,  though  it  did  not  appear  that  there  was  any  prostitution or  habitual  freedom  of  intercourse,  A  girl  found
 to  be  a  frequent  offender  in  this  respect  would  be  killed  by
 being  made  to  swim  out  to  sea  till  she  drowned.  John  was
 most  emphatic  in  his  statements  that  a  married  man  would
@@ -16769,14 +15335,11 @@ sea  and  then  in  fresh-water,  after  which  she  puts  on  clean
 clothes  and  goes  to  the  house.  Both  she  and  the  child  are
 then  smeared  with  turmeric,  the  child  having  been  previously
 washed,  and  this  smearing  of  the  child  with  turmeric  continues
-till  it  can  run  about.  The  woman  bathes  in  this  way  imme-
-diately after  the  birth  of  the  child  even  if  delivery  has  taken
+till  it  can  run  about.  The  woman  bathes  in  this  way  immediately after  the  birth  of  the  child  even  if  delivery  has  taken
 place  in  the  house.  The  cord  is  cut  with  a  bamboo  knife.
 The  afterbirth  is  buried  anywhere  and  there  do  not  appear  to
 be  any  special  beliefs  connected  with  it.
 
-
-312  Melanesian  Society
 
 In  the  case  of  a  first-born  child  the  mother  will  not  work
 for  a  month,  but  after  the  birth  of  later  children  she  will  return
@@ -16792,8 +15355,7 @@ days,  at  the  end  of  which  time  the  husband  fetches  back  his
 wife  and  child.
 
 The  next  event  is  the  assumption  of  the  maromaro  or
-perineal  cloth  when  there  is  a  feast  and  an  exchange  of  pre-
-sents between  the  father  and  the  maternal  uncle  of  the  child.
+perineal  cloth  when  there  is  a  feast  and  an  exchange  of  presents between  the  father  and  the  maternal  uncle  of  the  child.
 The  ears  are  bored  at  any  time  and  by  anyone.
 
 Incision  takes  place  when  a  boy  is  about  twelve  years  of
@@ -16815,8 +15377,7 @@ day  there  is  a  big  feast  at  which  presents  are  made  to  the
 uncle  for  performing  the  operation  and  to  the  chief  for  having
 made  the  offering  of  kava.  It  does  not  seem  that  the  boy  has
 to  go  through  any  ordeal  beyond  that  of  seeing  his  relatives
-with  the  blood  streaming  down  their  faces.  After  the  in-
-cision the  boy  is  smeared  with  turmeric  mixed  with  coconut
+with  the  blood  streaming  down  their  faces.  After  the  incision the  boy  is  smeared  with  turmeric  mixed  with  coconut
 cream\  This  is  done  by  his  mother  or  her  brother  and  it
 is  put  on  the  shoulders  and  breast,  the  cheeks,  chin  and  neck,
 but  not  on  the  back,  forehead,  lips  or  nose.  When  mixed
@@ -16832,8 +15393,7 @@ on  the  occasion  of  our  visit  was  thought  to  be  covered  with
 a  red  pigment.
 
 Up  to  the  age  of  puberty  the  ceremonies  for  a  girl  are
-the  same  as  for  a  boy  but  in  her  case  there  is  no  rite  corre-
-sponding to  incision.  John  did  not  know  of  any  custom
+the  same  as  for  a  boy  but  in  her  case  there  is  no  rite  corresponding to  incision.  John  did  not  know  of  any  custom
 connected  with  the  first  menstruation  and  it  seemed  certain
 that  there  is  no  seclusion  at  this  time.  The  tattooing  of  a
 boy  is  done  soon  after  incision  and  of  a  girl  soon  after  the
@@ -16866,15 +15426,12 @@ erected  over  his  grave.  The  burial  takes  place  on  the  day
 after  death,  the  relatives  in  the  meantime  crying  and  gashing
 themselves  with  stones  and  bamboo  knives.  The  grave  is
 dug  by  the  maternal  uncle  and  other  relatives  of  the  dead
-man  ;  it  is  made  very  deep  and  the  body  is  wrapped  in  bark-
-cloth  and  mats  and  laid  on  its  back  fully  extended,  this  also
+man  ;  it  is  made  very  deep  and  the  body  is  wrapped  in  barkcloth  and  mats  and  laid  on  its  back  fully  extended,  this  also
 being  done  by  the  uncle  and  other  relatives.  At  the  death  of
 a  chief  another  chief  comes  to  make  an  offering  of  kava  before
 burial  takes  place  and  it  is  probable  that  this  offering  is  also
 made  in  the  case  of  ordinary  people.
 
-
-314  Melanesian  Society
 
 The  period  of  mourning  is  long.  All  the  relatives  drink
 only  water  and  eat  only  mammy  apples  (Papaia)  for  four  or
@@ -16960,8 +15517,7 @@ are  the  most  important.
 The  animal  atua  of  the  social  divisions  are  clearly  sacred
 beings.  Atua  are  said  to  enter  into  fishes,  suggesting  that
 an  animal  may  be  only  the  embodiment  of  an  atua,  but  the
-fish  in  one  such  case  (see  p.  319)  was  not  one  of  those  espe-
-cially connected  with  a  social  division.  When  the  people  go
+fish  in  one  such  case  (see  p.  319)  was  not  one  of  those  especially connected  with  a  social  division.  When  the  people  go
 for  journeys  in  their  canoes  they  throw  food  as  an  offering
 into  the  sea  continually  but  it  was  said  that  these  offerings
 are  made  to  ancestral  atua  which  enter  into  fish,  especially
@@ -16985,8 +15541,7 @@ the  chief  who  first  bends  down,  then  lifts  the  kava  bowl  above
 his  head  and  pours  its  contents  over  the  grave,  uttering  a
 prayer  in  a  low  voice  as  he  does  so.  John  had  often  witnessed
 such  a  scene  but  the  prayers  or  other  formulas  had  always
-been  said  so  softly  that  neither  he  nor  other  young  men  pre-
-sent were  able  to  distinguish  the  words.  The  kava  is  poured
+been  said  so  softly  that  neither  he  nor  other  young  men  present were  able  to  distinguish  the  words.  The  kava  is  poured
 twice  over  the  grave  which  is  the  especial  occasion  of  the
 celebration  and  then  the  man  who  has  made  the  kava  will
 pour  it  over  any  other  graves  in  the  same  house  saying  **  la
@@ -17016,14 +15571,10 @@ ceremony  was  said  to  act  {inamaui)  through  the  kava.  Kava
 is  also  offered  when  a  chief  attempts  to  cure  a  sick  man  and
 before  any  Tikopian  undertakes  a  journey.  It  is  also,  as  we
 shall  see,  offered  when  a  new  garden  is  made,  at  the  time
-when  the  yam-crop  is  ready  for  digging,  and  on  other  occa-
-sions in  connection  with  agriculture.     It  is  also  offered  before
+when  the  yam-crop  is  ready  for  digging,  and  on  other  occasions in  connection  with  agriculture.     It  is  also  offered  before
 
 
 The  Attta
-
-
-317
 
 
 cutting  down  the  tree  which  is  to  be  used  to  make  the  new
@@ -17065,8 +15616,7 @@ Plant  atua.  In  connection  with  the  sacred  animals  of  the
 different  divisions  it  was  mentioned  that  these  groups  had
 associated  with  them  certain  plants  called  atua.
 
-All  yams  are  sacred  to  the  Kafika  who  eat  these  vege-
-tables though  they  do  not  like  to  see  anyone  cutting  them
+All  yams  are  sacred  to  the  Kafika  who  eat  these  vegetables though  they  do  not  like  to  see  anyone  cutting  them
 with  a  knife.  It  is  the  top  of  the  yam  which  is  especially
 regarded  as  an  atua.  When  a  yam  is  being  prepared  for
 eatingjthe  skin  is  always  removed  with  a  shell.  Similarly,
@@ -17134,8 +15684,7 @@ food  and  coconuts  to  the  other  chiefs,  a  hundred  coconuts  to
 each,  the  food  being  distributed  in  the  form  of  puddings.  A
 tapu  is  only  imposed  when  the  trees  are  not  bearing  well  and
 is  usually  maintained  till  the  nuts  which  have  dropped  from
-the  trees  have  begun  to  sprout  and  are  ready  to  be  trans-
-planted.
+the  trees  have  begun  to  sprout  and  are  ready  to  be  transplanted.
 
 The  general  tapu  imposed  by  the  chief  of  the  Tafua  on
 coconuts  is  but  one  example  of  a  widespread  practice  among
@@ -17158,8 +15707,7 @@ of  an  ancestor  to  whom  he  will  pray.  When  the  sick  man
 gets  well,  he  will  make  presents  to  the  man  to  whom  he
 ascribes  his  recovery.
 
-While  a  man  who  infringes  a  tapu  thus  receives  punish-
-ment by  sickness,  one  who  steals  goods  not  protected  by  a
+While  a  man  who  infringes  a  tapu  thus  receives  punishment by  sickness,  one  who  steals  goods  not  protected  by  a
 tapu  is  also  punished  by  the  direct  action  of  the  atua.  If
 a  man  loses  his  coconuts  and  thinks  that  some  one  has
 stolen  them,  he  spreads  the  news  of  his  loss  among  the
@@ -17173,8 +15721,6 @@ will  pierce  with  its  snout  the  leg  of  the  culprit.  If  this
 happens  the  other  people  in  the  canoe  at  once  call  out  ''Moana
 ifo  toto"  "  Blood  down  in  the  sea,"  and  the  whole  fleet  of
 
-
-320  Melanesian  Society
 
 canoes  will  at  once  make  for  the  shore.  The  injured  man
 will  cry  out  with  the  pain  and  this  together  with  the  general
@@ -17244,8 +15790,7 @@ they  had  all  been  killed  on  an  island  called  Taumako.
 
 The  chief  of  the  Tafua  is  now  frequently  possessed  by  the
 ghost  of  a  man  who  is  believed  to  have  perished  in  the  Reef
-Islands,  either  on  Pileni  or  Nukapu.  Some  time  after  the  dis-
-appearance of  this  man  and  his  companions,  the  chief  of  the
+Islands,  either  on  Pileni  or  Nukapu.  Some  time  after  the  disappearance of  this  man  and  his  companions,  the  chief  of  the
 Taumako  became  possessed  and  the  people  then  learnt  from  the
 atua  that  their  friends  had  been  slaughtered  and  that  their
 murderers  were  at  that  moment  on  their  way  to  Tikopia.  The
@@ -17274,10 +15819,6 @@ Vanikolo."
 
 "Yes."
 
-R.  M.  S.  21
-
-
-322  Melanesian  Society
 
 "  What  did  they  wrap  you  in  ?  "
 
@@ -17384,8 +15925,6 @@ therapeutical    measures   of  the    people   seem    to   be   of   the
 21 — 2
 
 
-324  Melanesian  Society
-
 simplest  character.  When  a  man  is  ill,  his  father  or  other
 relative  goes  to  the  chief  who  comes  to  lay  the  leaves  of
 certain  trees  i^rauti  and  tantmi)  on  the  breast  of  the  patient
@@ -17399,8 +15938,7 @@ been  successful.
 
 There  are  a  few  simple  remedies  which  do  not  involve  the
 presence  of  a  chief  or  of  special  offerings.  Cuts  are  bathed
-in  hot  water  and  leaves  of  the  kavakava  shrub,  a  plant  re-
-sembling the  kava,  are  bound  on  the  wound.  They  are
+in  hot  water  and  leaves  of  the  kavakava  shrub,  a  plant  resembling the  kava,  are  bound  on  the  wound.  They  are
 changed  the  next  day  when  the  wound  is  bathed  with  hot
 water  and  leaves  are  then  put  on  again  and  the  wound  is  thus
 dressed  daily  till  it  is  healed  {inafy  heal).  For  a  pain  in  the
@@ -17408,8 +15946,7 @@ back  a  hot  stone  is  applied  locally.
 
 Little  information  could  be  obtained  about  the  nature  of
 the  diseases  prevalent  on  the  land.  Many  people  covered
-with  ringworm  were  seen  when  we  visited  the  island.  Accord-
-ing to  John  there  is  no  venereal  disease.  After  the  return  of
+with  ringworm  were  seen  when  we  visited  the  island.  According to  John  there  is  no  venereal  disease.  After  the  return  of
 five  men  who  had  been  away  in  a  labour-vessel,  many  people
 had  catarrh  and  shortness  of  breath  and  there  were  many
 deaths.  There  are  plenty  of  mosquitos  on  the  island  and
@@ -17480,8 +16017,7 @@ mats.  Most  of  the  garden-work  is  done  by  women,  the  men
 only  performing  the  more  arduous  operations,  such  as  cutting
 down  trees  when  preparing  a  new  garden,  and  the  women
 carry  most  of  the  garden-produce  to  the  home  though  men
-may  help  in  this  work.  It  is  also  women's  work  to  get  fire-
-wood. These  and  other  objects  are  carried  on  the  shoulder
+may  help  in  this  work.  It  is  also  women's  work  to  get  firewood. These  and  other  objects  are  carried  on  the  shoulder
 as  shown  in  PL  XVI,  Fig.  i,  and  neither  men  nor  women  ever
 carry  anything  on  the  head.  House-building  is  the  business
 of  men  and  they  catch  all  the  fish  except  certain  small  kinds
@@ -17489,8 +16025,6 @@ which  are  caught  with  hand-nets  by  women.  Certain  male
 occupations  are  not  followed  by  all  the  men  of  the  island
 but  belong  to  certain  limited  groups.     The  crafts  so  limited
 
-
-326  Melanesian  Society
 
 are  those  of  canoe-building,  turmeric-making  and  tattooing,
 the  special  craftsmen  being  in  each  case  called  tufunga.
@@ -17614,8 +16148,6 @@ found  that  some  one  has  eaten  a  mammy  apple  or  cold  food
 *  See  note  on  p.  312.
 
 
-328  Melanesian  Society
-
 and  then  again  the  turmeric  will  have  to  be  re-made.  We
 were  told  that  there  can  be  no  mistake  ;  "if  anyone  has  done
 what  he  should  not,  the  turmeric  will  turn  out  badly."  If  it
@@ -17631,8 +16163,7 @@ with  canoe-making  and  dyeing  or  may  be  practised  separately.
 The  substance  which  is  used  is  made  from  the  fruit  called
 fua.  This  is  gathered  when  it  has  dropped  on  the  ground  and
 burnt  in  a  kind  of  oven  consisting  of  a  flat  stone,  one  side
-of  which  rests  on  the  ground  while  the  opposite  side  is  sup-
-ported by  two  pieces  of  wood,  all  except  one  side  being  covered
+of  which  rests  on  the  ground  while  the  opposite  side  is  supported by  two  pieces  of  wood,  all  except  one  side  being  covered
 with  leaves  to  keep  in  the  smoke.  The  fruit  when  it  is  burnt
 makes  a  soot  which  collects  on  the  stone  so  that  it  can  be
 scraped  off  and  wrapped  in  leaves.  The  powder  thus  obtained
@@ -17657,8 +16188,7 @@ The  Tikopians  never  tattoo  the  thighs  and  hips.  The
 pattern  on  the  forearm  was  said  always  to  be  the  same,
 consisting  of  a  very  conventionalised  mango  tree  with  lines
 supposed  to  represent  the  urunga  or  wooden  pillow.  John
-Maresere  had  on  the  chest  what  looked  like  a  very  conven-
-tionalised pattern  surrounded  by  fish  but  it  turned  out  that  this
+Maresere  had  on  the  chest  what  looked  like  a  very  conventionalised pattern  surrounded  by  fish  but  it  turned  out  that  this
 was  an  imitation  of  an  iron  saw  which  some  one  had  brought
 to  the  island.     In  the  old  days  there  would  have  been  the
 
@@ -17677,8 +16207,7 @@ also  simple  lines  drawn  from  the  ears  along  the  jaws  and  a
 median  line  from  the  lower  lip  to  the  navel.
 
 Cloth-  and  string -making.  Other  occupations  are  those  of
-cloth-  and  string-making.  The  bark-cloth  used  by  the  Tiko-
-pians  is  of  one  kind  only  and  is  made  from  the  bark  of  a
+cloth-  and  string-making.  The  bark-cloth  used  by  the  Tikopians  is  of  one  kind  only  and  is  made  from  the  bark  of  a
 tree  called  mdmi  and  the  name  of  this  tree  is  also  used  for
 the  cloth.  It  is  made,  usually  by  women,  by  beating  it  out
 with  a  hammer  after  it  has  been  put  in  the  sun  to  dry  for  two
@@ -17712,8 +16241,6 @@ more  or  less  ceremonial  fighting  which  accompanies  a  marriage,
 ^  In  addition  to  the  pattern  already  mentioned  John  had  on  the  chest  two  stars
 which  had  been  tattooed  in  Motlav.
 
-
-330  Melanesian  Society
 
 clubs  and  bows  and  arrows  are  used  and  these  weapons  are
 also  put  in  the  canoe  of  a  man  who  is  being  sent  adrift  as  a
@@ -17792,15 +16319,12 @@ that  it  bites  it  and  then  kill  the  animal  by  clubbing.
 
 Two  other  large  fish,  the  varu  and  the  fangomea,  are  also
 caught  with  a  hook.  John  was  very  emphatic  when  he  told
-us  that  these  big  fish  could  only  be  caught  because  the  Tiko-
-pian  canoes  are  large  and  strong.  He  said  it  would  be  quite
+us  that  these  big  fish  could  only  be  caught  because  the  Tikopian  canoes  are  large  and  strong.  He  said  it  would  be  quite
 impossible  to  catch  them  with  such  canoes  as  those  of  the
 Banks  Islands.  At  present  iron  hooks  are  used  and  John
-could  not  say  what  kinds  were  used  before  these  were  intro-
-duced. One  of  the  most  highly  prized  fish  of  the  Tikopians
+could  not  say  what  kinds  were  used  before  these  were  introduced. One  of  the  most  highly  prized  fish  of  the  Tikopians
 is  the  atu  or  bonito  which  is  caught  with  a  turtle-shell  hook
-baited  with  a  white  feather.  They  put  a  bamboo  rod  carry-
-ing line  and  hook  in  the  stern  of  the  canoe  so  that  the  feather
+baited  with  a  white  feather.  They  put  a  bamboo  rod  carrying line  and  hook  in  the  stern  of  the  canoe  so  that  the  feather
 floats  on  the  surface  of  the  water.  When  they  come  near  the
 shoals  of  bonito  the  man  in  the  stern  moves  the  rod  so  as  to
 draw  the  feather  to  and  fro  on  the  water.  The  bonito  only
@@ -17821,8 +16345,6 @@ Prawns  called  ika  viki  Idki  and  small  fish  are  caught  by
 women  with  little  nets  called  Mti.    The  women  lift  stones  and
 
 
-332  Melanesian  Society
-
 catch  the  prawns  as  they  dart  out.  These  are  cooked  after
 being  wrapped  in  the  leaves  of  a  tree  called  teti.
 
@@ -17837,8 +16359,7 @@ Thus,  those  who  have  caught  a  shark  go  to  sleep  as  soon  as
 they  reach  the  shore  while  others  cook  the  fish  and  food  is
 collected  for  a  big  feast.  When  the  feast  is  ready  the  sleepers
 are  awakened  and  usually  kava  is  offered  by  a  chief.  The
-man  who  has  caught  the  shark  then  asks  the  chief  to  dis-
-tribute the  flesh  of  the  animal  and  this  is  done  but  only  to  the
+man  who  has  caught  the  shark  then  asks  the  chief  to  distribute the  flesh  of  the  animal  and  this  is  done  but  only  to  the
 members  of  the  division  of  the  successful  fisherman,  the  other
 people  having  to  be  content  with  the  rest  of  the  feast.
 
@@ -17898,8 +16419,7 @@ of  a  coconut  and  drops  the  lighted  dust  on  it  {furi)  and
 blows  {iri)  into  flame.  "He  blows  the  fire  into  flame"  is
 '' Iri  koteafi  keeka!'  This  is  the  only  method  of  making  fire
 which  the  Tikopians  possess  and  they  do  not  seem  to  share
-the  desire  for  matches  almost  universal  in  the  Pacific,  doubt-
-less because  any  obtained  from  passing  vessels  have  been  so
+the  desire  for  matches  almost  universal  in  the  Pacific,  doubtless because  any  obtained  from  passing  vessels  have  been  so
 soon  exhausted  that  they  have  never  come  to  look  on  them
 as  objects  of  importance.
 
@@ -17938,8 +16458,6 @@ the  kava  which  is  used  so  extensively  in  ceremonial  is  never
 drunk.
 
 
-334  Melanesian  Society
-
 Mr  Durrad's  Account.
 
 The  following  is  an  account  based  on  material  sent  to  me
@@ -17950,23 +16468,20 @@ At  the  north-east  end  of  the  island  there  is  a  large  lake
 surrounded  by  hills  from  600  to  1000  feet  in  height,  and  the
 region  in  the  central  part  of  the  island  south-west  of  the  lake
 consists  of  level  and  swampy  ground.  The  whole  island
-both  on  the  level  ground  and  the  hills  is  more  or  less  culti-
-vated, the  fruit  and  coconut  trees  numbering  thousands,  and
+both  on  the  level  ground  and  the  hills  is  more  or  less  cultivated, the  fruit  and  coconut  trees  numbering  thousands,  and
 there  is  no  uncleared  forest.
 
 The  island  is  divided  into  two  districts,  called  respectively
 Faea  and  Ravenga,  and  between  the  people  of  these  two
 districts  there  seems  to  be  an  inveterate  feud.  At  Tufenua
 there  is  a  big  rock  which  marks  the  division  between  the  two
-districts.  The  villages  are  close  to  the  shore,  with  the  excep-
-tion of  three  which  stand  a  little  way  back,  two  of  these  being
+districts.  The  villages  are  close  to  the  shore,  with  the  exception of  three  which  stand  a  little  way  back,  two  of  these  being
 situated  near  gaps  in  the  hills  surrounding  the  lake.  The
 names  of  these  villages  are  given  on  the  sketch-map  on  p.  335
 made  by  Mr  Durrad.  On  this  map  are  given  the  names  of
 the  social  groups  which  inhabit  these  villages  and  it  will  be
 observed  that  there  seems  to  be  no  obvious  connection  of
-these  groups  with  the  two  districts.  The  Taumako  predomi-
-nate largely  in  the  Ravenga  district  but  they  also  inhabit
+these  groups  with  the  two  districts.  The  Taumako  predominate largely  in  the  Ravenga  district  but  they  also  inhabit
 most  of  the  villages  on  the  other  side  of  the  island.  That
 there  is  no  connection  at  present,  whatever  may  have  been
 the  case  in  the  past,  seems  to  be  indicated  by  the  fact  that
@@ -17991,9 +16506,6 @@ Plate  XXII
 
 
 View  from  the  hills  looking  to  the  south-east.
-
-
-335
 
 
 "^  t«
@@ -18026,8 +16538,6 @@ e
 
 V
 
-
-336  Melanesian  Society
 
 The  atua  of  the  Kafika  are  : —
 
@@ -18143,10 +16653,6 @@ Te  iofa,  a  fish  with  a  large  head  which  moves  like  a  flying
 fox  flapping.  It  is  a  very  important  atua.  Whenever  the
 chief  wishes    to   invoke  its  help  he  lays  down   a  piece  of
 
-R.  M.  S.  22
-
-
-338  Melanesian  Society
 
 bark-cloth  on  the  floor  of  one  side  of  the  house,  this  cloth  being
 spoken  of  as  the  property  of  the  atua.  It  remains  there  for
@@ -18159,8 +16665,7 @@ The  offering  is  made  to  induce  the  atua  to  give  back  the
 health  of  a  sick  man  whose  life  is  supposed  to  have  been
 taken  away.      Health  and  life  are  synonymous  ideas.
 
-The  chief  power  of  the  Kafika  people  lies  in  the  posses-
-sion of  a  sacrificial  stone  of  great  virtue  which  lies  at  Potima-
+The  chief  power  of  the  Kafika  people  lies  in  the  possession of  a  sacrificial  stone  of  great  virtue  which  lies  at  Potima-
 tuang  (see  map).  It  is  buried  in  the  ground  and  stones  are
 put  round  and  over  it  to  protect  it.  Offerings  are  made
 to  it  on  important  occasions  when  women  and  children
@@ -18192,8 +16697,7 @@ that  the  chiefs  have  brought^
 
 *   Te  patio  ariki  (see  p.  340).
 
-2  Mr  Durrad's  informant,  Ernest  Wirit,  had  not  seen  the  ceremony  of  offer-
-ing to  the  stone.  It  was  described  to  him  in  the  middle  of  the  night  by  a  man
+2  Mr  Durrad's  informant,  Ernest  Wirit,  had  not  seen  the  ceremony  of  offering to  the  stone.  It  was  described  to  him  in  the  middle  of  the  night  by  a  man
 who  put  his  hand  over  his  mouth  in  case  anyone  should  overhear  him.
 
 
@@ -18209,8 +16713,7 @@ Fi.Lj'.  2.      SliDolinL;    lisli.
 Sacred  Stones  339
 
 The  name  of  this  stone,  which  is  regarded  as  male,  is  Te
-atua  takaretoa.  It  is  spoken  of  and  treated  with  great  rever-
-ence as  a  Hving  being.  There  is  also  a  female  stone,  called
+atua  takaretoa.  It  is  spoken  of  and  treated  with  great  reverence as  a  Hving  being.  There  is  also  a  female  stone,  called
 Te  vatu  mai'u,  at  Ravenga,  the  district  on  the  other  side  of
 the  island.  The  Tikopia  legend  of  creation  is  that  two  atua
 named  Tafiki  and  Metikitiki  were  fishing  from  a  canoe.
@@ -18227,14 +16730,11 @@ beneath  the  floor  of  his  hut.  The  method  of  offering  is
 the  same  in  both  cases.
 
 The  two  atua  (the  stones)  wanted  an  axe  with  which  to
-make  a  canoe.  They  went  to  the  beach  and  found  four  clam-
-shells, two  of  which  they  made  into  axes  and  the  other  two
+make  a  canoe.  They  went  to  the  beach  and  found  four  clamshells, two  of  which  they  made  into  axes  and  the  other  two
 they  put  in  a  house.  With  the  axes  they  made  two  canoes.
-They  prepared  food  and  consecrated  the  canoes  to  them-
-selves. The  canoes  were  called  te  vaka  tapu  (the  sacred
+They  prepared  food  and  consecrated  the  canoes  to  themselves. The  canoes  were  called  te  vaka  tapu  (the  sacred
 canoes).  The  sacred  axes  are  still  in  possession  of  the  chiefs
-who  pass  them  on  to  each  other  when  they  wish  to  make  offer-
-ings. The  two  other  shells  are  said  to  be  in  the  sacred  house
+who  pass  them  on  to  each  other  when  they  wish  to  make  offerings. The  two  other  shells  are  said  to  be  in  the  sacred  house
 of  the  Kafika  chief,  but  may  be  taken  by  another  chief  if  he
 wants  them  for  ceremonial  purposes.  The  two  atua  (the
 stones)  also  gave  birth  to  a  boy  and  a  girl  who  married  and
@@ -18245,8 +16745,7 @@ Fangarere  situated  in  the  most  sacred  part  of  Tikopia.  It
 contains  some  mounds  where  chiefs  have  been  buried  and  a
 few  strips  of  bark-cloth  suspended  from  the  roof  The  chief
 of  the  Fangarere  "  sacrifices "  in  this  house  first  and  then
-does  so  again  in  a  larger  house  near  by.  Mr  Durrad  sug-
-gests that  the  carving  on  the  roof  represents  the  iofa,  the
+does  so  again  in  a  larger  house  near  by.  Mr  Durrad  suggests that  the  carving  on  the  roof  represents  the  iofa,  the
 most  important  animal  atua  of  the  division,  which  is  described
 as  moving  like  a  flying  fox.
 
@@ -18254,8 +16753,6 @@ as  moving  like  a  flying  fox.
 in  the  ceremonial  described  above  but  this  would  seem  to  be  the  case.
 2  It  may  be  noted  that  the  man  takes  the  name  of  the  stone.
 
-
-340  Melanesian  Society
 
 Chiefs  and  other  ranks'^.
 
@@ -18308,8 +16805,6 @@ all  the  crew  of  a  vessel  which  came  to  the  island  and  was
 '  For  the  sense  in  which  this  term  is  used,  see  p.  344.
 
 
-Relationship  34 1
-
 therefore  recognised  to  be  an  exceptional  man.  He  acts  as
 a  kind  of  judge  in  the  island.  In  the  matter  of  putting
 strangers  to  death  he  can  veto  the  decision  of  the  four  chiefs
@@ -18360,8 +16855,6 @@ kinds,  i.e.  for  all  those  of  the  same  generation  with  whom
 
 *  This  is  the  vocative  formed  by  the  addition  of  e  to  the  word  pa.
 
-
-342  Melanesian  Society
 
 kinship  can  be  traced,  including  both  categories  of  cousin.
 A  distinction  is  made,  however,  between  these  two  categories  ;
@@ -18417,8 +16910,6 @@ used  by  the  husbands  of  two  sisters  and  probably  by  the
 wives  of  two  brothers.
 
 
-Relationship  343
-
 All  these  terms  are  used  very  widely  ;  Mr  Durrad  obtained
 the  terms  applied  by  a  man  to  the  members  of  several
 pedigrees  with  whom  no  direct  connections  were  traced  and
@@ -18426,12 +16917,10 @@ found  that  in  most  cases  definite  terms  of  relationship  were
 employed.  The  classificatory  principle  evidently  applies  very
 widely  in  this  island.
 
-There  are  certain  interesting  relations  between  cross-
-cousins  who  call  one  another  taina  fakapariki.  They  may
+There  are  certain  interesting  relations  between  crosscousins  who  call  one  another  taina  fakapariki.  They  may
 not  strike,  injure,  or  speak  evil  of  one  another  though  those
 who  call  one  another  taina  fakalau  may  do  so.  A  child  will
-be  told  by  his  father's  sister  never  to  strike  his  taina  faka-
-pariki, i.e.  the  child  of  the  father's  sister,  and  if  he  does  so,
+be  told  by  his  father's  sister  never  to  strike  his  taina  fakapariki, i.e.  the  child  of  the  father's  sister,  and  if  he  does  so,
 the  father's  sister  will  call  on  her  atua  to  injure  the  hand  of
 the  child.  A  sore  will  form  and  when  it  gets  large  the  father
 of  the  child  will  pray  to  the  atua  to  desist  from  injuring
@@ -18455,17 +16944,13 @@ asks.
 
 If  the  child  dies,  there  will  ensue  a  quarrel  between  the
 father  of  the  dead  child  and  his  sister.  The  father  will  curse
-his  sister  and  forbid  her  to  come  to  his  house  or  garden-
-ground.  If  the  quarrel  continues  till  the  death  of  the  father's
+his  sister  and  forbid  her  to  come  to  his  house  or  gardenground.  If  the  quarrel  continues  till  the  death  of  the  father's
 sister,  her  ghost  will  kill  all  the  remaining  children  of  her
-brother,  or  she  may  spare  one  so  that  the  family  may  be  con-
-tinued. When,  however,  the  child  of  the  father's  sister  dies,
+brother,  or  she  may  spare  one  so  that  the  family  may  be  continued. When,  however,  the  child  of  the  father's  sister  dies,
 i.e.  the  cousin  who  was  originally  struck,  his  ghost  will  want
 to  kill  even  this  remaining  child,  but  he  will  meet  the  ghosts
 of  his  father  and  mother  and  of  his  grandparents  who  will
 
-
-344  Melanesian  Society
 
 embrace  him  and  kiss  him  in  the  Tikopian  fashion  and  beg
 him  to  desist  from  revenge,  and  he  will  respect  their  wishes.
@@ -18489,8 +16974,7 @@ ideas  regarding  the  conduct  to  be  observed  towards  these
 relatives.
 
 Cousins,  whether  of  the  fakalau  or  fakapariki  kind,  are
-not  allowed  to  marry ;  they  are  considered  tapu  to  one  an-
-other.
+not  allowed  to  marry ;  they  are  considered  tapu  to  one  another.
 
 The  family  as  a  whole  is  called  te  ganua  paito,  but  by  this
 is  meant  the  family  in  the  extended,  not  in  the  narrow,  sense.
@@ -18529,8 +17013,7 @@ children  being  boys.
 Adoption.
 
 Children  are  certainly  adopted  but  probably  not  very
-frequently.  The  adoption  of  John  Maresere  and  his  com-
-panions has  been  already  mentioned  but  this  is  obviously  an
+frequently.  The  adoption  of  John  Maresere  and  his  companions has  been  already  mentioned  but  this  is  obviously  an
 exceptional  occurrence.  The  only  other  case  of  which  a
 record  is  given  is  that  of  the  girl  Tarangarua  (8)\  The
 wife  of  Paemarinua  is  a  lunatic  and  unable  to  look  after  her
@@ -18543,8 +17026,7 @@ Mr  Durrad  and  in  this  case  there  was  a  definite  motive.
 
 Marriage.
 
-The  pedigrees  collected  by  Mr  Durrad  give  much  informa-
-tion concerning  marriage.  Their  analysis  shows  that  people
+The  pedigrees  collected  by  Mr  Durrad  give  much  information concerning  marriage.  Their  analysis  shows  that  people
 very  frequently  marry  within  the  group ;  thus,  there  are  five
 marriages  between  members  of  the  Kafika,  five  within  the
 Tafua  and  four  within  the  Taumako,  while  there  are  seven
@@ -18565,8 +17047,6 @@ Fangarere  form  a  more  or  less  strictly  endogamous  group.
 *  The  numbers  in  brackets  following  the  names  of  persons  refer  to  the  pedigrees
 on  pp.  358 — 62  in  which  the  names  occur.
 
-
-346  Melanesian  Society
 
 On  looking,  however,  at  Mr  Durrad's  map  it  will  be  noted
 that  in  no  case  does  he  give  the  Fangarere  as  inhabitants  of
@@ -18592,8 +17072,7 @@ Divorce  is  sometimes  practised  in  cases  of  sterility.
 In  Pedigrees  VIII  and  IX  there  is  a  case  in  which  a
 brother  and  sister  have  married  a  sister  and  brother,  and  in
 Pedigree  XIII  a  man  has  married  a  woman  who,  as  the
-daughter  of  his  father's  father's  brother,  would  be  his  mesakz-
-tanga.
+daughter  of  his  father's  father's  brother,  would  be  his  mesakztanga.
 
 Death.
 
@@ -18639,21 +17118,17 @@ prefixes  to  distinguish  man  and  wife,  the  former  having  the
 prefix  pae,  the  word  for  father,  while  the  woman  takes  the
 prefix  nau,  the  word  for  mother.  The  common  element  in
 their  names  is  that  of  the  house  in  which  they  live,  thus  the
-house  inhabited  by  a  couple  called  Paeraroakau  and  Naura-
-roakau  is  Raroakau.
+house  inhabited  by  a  couple  called  Paeraroakau  and  Nauraroakau  is  Raroakau.
 
 When  a  chief  succeeds  he  takes  the  name  of  his  division,
-such  as  Paetearikitafua  ;  thus,  Paerangifure  (9)  became  Paetea-
-rikitafua  when  his  father  died,  and  at  the  same  time  his  son
+such  as  Paetearikitafua  ;  thus,  Paerangifure  (9)  became  Paetearikitafua  when  his  father  died,  and  at  the  same  time  his  son
 Paenokofure  took  the  old  name  of  his  father,  becoming
-Paerangifure.  The  adopted  son  of  the  present  Paeteariki-
-tafua, John  Maresere,  married  during  his  second  stay  in
+Paerangifure.  The  adopted  son  of  the  present  Paetearikitafua, John  Maresere,  married  during  his  second  stay  in
 Tikopia  and  was  then  called  Paerongore,  but  now  that  he  is
 dead  he  is  again  known  by  his  bachelor  name  and  his  widow
 is  no  longer  known  as  Naurongore.  The  second  son  of  the
 present  Paetearikitafua  used  to  be  called  Taumua,  and  in  the
-ordinary  course  of  events  he  would  have  become  Paerangi-
-takai,  probably  after  the  name  of  the  house  or  place  where  the
+ordinary  course  of  events  he  would  have  become  Paerangitakai,  probably  after  the  name  of  the  house  or  place  where  the
 second  son  of  the  chief  would  naturally  live.  It  is  evident
 that  names  may  be  given  by  a  chief,  for  this  man  who
 would  naturally  have  become  Paerangitakai  was  called
@@ -18661,8 +17136,7 @@ Paerongore  by  the  wish  of  his  father  after  the  death  of
 John  Maresere.
 
 This  case  seems  also  to  show  that  a  widow  is  no  longer
-denoted  by  the  name  she  assumed  on  marriage,  for  Nauron-
-gore is  no  longer  so  called  now  that  her  husband  is  dead.
+denoted  by  the  name  she  assumed  on  marriage,  for  Naurongore is  no  longer  so  called  now  that  her  husband  is  dead.
 
 Another  example  of  change  of  name  is  that  one  of  the
 
@@ -18670,8 +17144,6 @@ pure  matua  of  the  Tafua  named  Paesau  has  died  recently.
 
 His  son  is  too  young  to  succeed  to  the  dignity,  so  the  brother
 
-
-348  Melanesian  Society
 
 of  Paesau,  named   Paenotoa,  will   succeed  and  will  take  his
 brother's  name.
@@ -18687,8 +17159,7 @@ while  others  such  as  Sereman,  Mistere  and  Misiroos  suggest
 such  an  origin.  It  will  be  noted,  however,  that  such  names
 occur  in  the  present  generation,  and  there  is  no  obvious
 evidence  that  the  Europeans  who  were  settled  on  the  island
-a  century  ago  (see  p.  353)  have  influenced  personal  nomen-
-clature.
+a  century  ago  (see  p.  353)  have  influenced  personal  nomenclature.
 
 Dress.
 
@@ -18744,9 +17215,6 @@ Fisj-.  2.     Bovs  showing  method  of  cutting  hair.
 Games
 
 
-349
-
-
 so  short  that  the  head  seems  to  be  shaved,  but  their  hair  is
 not  kept.
 
@@ -18797,8 +17265,6 @@ with  a  bow  and  arrow,  a  method  which  was  not  mentioned
 by  John  Maresere.
 
 
-350  Melanesian  Society
-
 Comparison  of  the  two  accounts.
 
 It  is  evident  that  Mr  Durrad's  notes  confirm  the  general
@@ -18808,8 +17274,7 @@ relationship  and  with  the  atua  especially  associated  with  the
 social  divisions.  The  difference  between  the  accounts  of
 relationship  probably  gives  us  a  good  indication  of  the  extent
 to  which  John's  record  is  faithful.  There  is  not  a  single
-statement  in  his  account  which  is  contradicted  by  the  infor-
-mation obtained  genealogically  by  Mr  Durrad.  The  difference
+statement  in  his  account  which  is  contradicted  by  the  information obtained  genealogically  by  Mr  Durrad.  The  difference
 between  the  two  records  is  that,  where  John  gives  only  one
 simple  term,  Mr  Durrad  is  often  able  to  give  alternative
 terms  or  qualifications  which  distinguish  certain  relatives  who
@@ -18835,8 +17300,7 @@ The  discrepancy  between  the  accounts  of  the  animal  atua
 of  the  four  social  groups  is  more  serious,  but  here  again  we
 probably  have  to  do  with  defect  of  information  rather  than
 with  actual  error.  Mr  Durrad's  account  is  the  more  detailed
-but  in  three  cases,  those  of  the  Taumako,  Tafua  and  Fanga-
-rere,  most  of  the  atua  given  by  John  are  included  in  the  list
+but  in  three  cases,  those  of  the  Taumako,  Tafua  and  Fangarere,  most  of  the  atua  given  by  John  are  included  in  the  list
 given  by  Mr  Durrad.  Thus,  to  take  the  Tafua  as  an  example,
 John  gives  the  fresh -water  eel,  the  flying  fox  and  the  turtle.
 Mr  Durrad  gives  a  very  large  eel  of  the  lake  and  the
@@ -18865,14 +17329,11 @@ the  lake  {see  PI.  XXIII,  Fig.  2).  Further,  according  to  John
 the  bark  of  the  mami  tree  is  put  in  the  sun  to  dry  before  being
 stripped  off  to  make  cloth,  while  Mr  Durrad's  photograph
 (PI.  XXIV,  Fig.  i)  shows  the  trees  being  heated  over  a  fire
-before  being  stripped.  In  other  cases  where  there  is  disagree-
-ment it  is  probable  that  we  have  to  do  with  changing  conditions
+before  being  stripped.  In  other  cases  where  there  is  disagreement it  is  probable  that  we  have  to  do  with  changing  conditions
 (see  below).  Where  the  two  accounts  cover  the  same  ground
-the  agreement  is  sufficiently  close  to  indicate  the  general  trust-
-worthiness of  John's  record,  though  there  can  be  no  doubt
+the  agreement  is  sufficiently  close  to  indicate  the  general  trustworthiness of  John's  record,  though  there  can  be  no  doubt
 that  it  is  little  more  than  a  skeleton  compared  with  the  full
-body  of  fact  which  would  be  obtained  by  a  thorough  investi-
-gation.
+body  of  fact  which  would  be  obtained  by  a  thorough  investigation.
 
 Two  previous  accounts  of  Tikopia  have  been  given  by
 Peter  Dillon^  and  by  Dumont  d'Urville  and  Gaimard^  and  a
@@ -18883,8 +17344,7 @@ the  century  which  has  elapsed  since  these  accounts  were
 written.
 
 One  important  difference  between  the  present  day  accounts
-and  those  of  the  early  writers  is  almost  certainly  due  to  modi-
-fication in  custom.      Both   Dillon*  and  Gaimard^  stated  that
+and  those  of  the  early  writers  is  almost  certainly  due  to  modification in  custom.      Both   Dillon*  and  Gaimard^  stated  that
 
 *  Narrative  of  Voyage  in  the  South  Seas  to  ascertain  the  fate  of  La  Pdrouse^s
 expedition^  London,  1829,  Vol.  11,  pp.  112  et  seq.
@@ -18895,8 +17355,6 @@ volume,  pp.  304 — 312.
 
 3  op.  cit.  p.  134.  *  op.  cit.  p.  308.
 
-
-352  Melanesian  Society
 
 women  were  more  numerous  than  men,  Dillon  going  so  far  as
 to  estimate  the  number  of  the  women  as  treble  that  of  the
@@ -18927,8 +17385,7 @@ the  women  and  Dillon  agrees  with  John  Maresere  as  to  the
 existence  of  infanticide,  though  from  the  account  of  the  latter
 it  would  appear  that,  with  one  exception,  boys  and  girls  are
 equally  the  victims  of  the  practice.  The  actual  genealogical
-evidence  would  seem  to  indicate  the  disappearance  of  infanti-
-cide if  it  were  not  for  the  great  excess  of  males,  which  may
+evidence  would  seem  to  indicate  the  disappearance  of  infanticide if  it  were  not  for  the  great  excess  of  males,  which  may
 even  be  taken  to  indicate  that  female  infanticide  has  taken  the
 place  of  the  ancient  killing  of  male  children,  but  we  know
 so  little  about  the  possibilities  of  disproportion  of  the  sexes
@@ -18965,8 +17422,7 @@ d'Urville'  who  are,  however,  able  to  tell  us  that  this  was  not
 always  so.  They  state  that  the  people  at  one  time  had  pigs
 and  fowls  but  had  destroyed  them  on  account  of  the  harm
 done  to  their  gardens.  According  to  John  Maresere  there
-are  now  fowls  on  the  island,  perhaps  due  to  recent  introduc-
-tion. There  is  incidental  confirmation  of  John's  statement
+are  now  fowls  on  the  island,  perhaps  due  to  recent  introduction. There  is  incidental  confirmation  of  John's  statement
 that  formerly  the  turtle  was  not  eaten,  for  Dillon*  records  that
 a  German  named  Martin  Bushart  spent  many  years  on  the
 island  without  tasting  animal  food  except  now  and  then  a
@@ -18988,8 +17444,7 @@ dwelling-place  of  the  four  chiefs  given  in  the  next  paragraph
 of  his  account  suggests  that  some  mistake  has  been  made  in  the
 order,  for  the  chief  of  Namo  is  made  to  live  in  a  village  of  Faea.
 
-Gaimard's  account  is  interesting  in  relation  to  a  discre-
-pancy between  the  two  accounts  of  the  island  I  have  recorded.
+Gaimard's  account  is  interesting  in  relation  to  a  discrepancy between  the  two  accounts  of  the  island  I  have  recorded.
 John  Maresere  stated  that  each  division  has  its  own  district
 
 ^  See  p.  309.  2  op.  cit.  p.  134.
@@ -19001,11 +17456,6 @@ John  Maresere  stated  that  each  division  has  its  own  district
 ^  It  may  be  noted  that  Mr  Durrad  records  that  the  late  chief  of  the  Tafua
 lived  at  Namu.
 
-R.  M.  S.  23
-
-
-354  Melanesian  Society
-
 
 while  Mr  Durrad's  map  shows  clearly  that  there  is  no  such  se
 gregation  so  far  as  houses  are  concerned.  It  would  seem  that
@@ -19013,11 +17463,9 @@ formerly  each  division  occupied  a  separate  district  and  John's
 account  indicates  that  this  localisation  still  persists  in  some
 respects  although  the  people  live  scattered  all  over  the  island.
 
-According  to  John  Maresere  the  chiefs  differ  in  import-
-ance. He  gave  Kafika  as  the  most  important  and  Fangarere
+According  to  John  Maresere  the  chiefs  differ  in  importance. He  gave  Kafika  as  the  most  important  and  Fangarere
 as  the  least,  Tafua  and  Taumako  lying  between.  The  order
-of  Dumont  d'Urville  is  Kafeka,  Tafoua,  Fan-harere  and  Taou-
-mako,  but,  as  already  indicated,  the  succeeding  paragraph  of
+of  Dumont  d'Urville  is  Kafeka,  Tafoua,  Fan-harere  and  Taoumako,  but,  as  already  indicated,  the  succeeding  paragraph  of
 his  account  suggests  that  a  mistake  may  have  been  made  in
 the  order  of  the  latter  three  names.  The  point  on  which
 there  is  definite  agreement  is  the  priority  of  Kafika,  and  there
@@ -19046,18 +17494,13 @@ which  was  unknown.
 
 Further,  an  incident  is  recorded*  which  illustrates  the
 attitude  of  the  people  towards  these  atua.  Some  Tikopians
-coming  on  board  the  Astrolabe  with  flying  fish  fled  (secar-
-terent  avec  une  sorte  de  terreur  religieuse)  when  they  saw  a
+coming  on  board  the  Astrolabe  with  flying  fish  fled  (secarterent  avec  une  sorte  de  terreur  religieuse)  when  they  saw  a
 sea-eel  on  the  capstan.
 
-The  accounts  of  Dillon  and  Dumont  d'Urville  are  espe-
-cially valuable  for  their  record  of  the  influence  of  Europeans
+The  accounts  of  Dillon  and  Dumont  d'Urville  are  especially valuable  for  their  record  of  the  influence  of  Europeans
 and   other  people  in  Tikopia.      When    Dillon    first  went  to
 
 '  op.  cit.  p.  122.  -  Op.  cit.  p.  307.  3  op.  cit.  p.  119.
-
-
-1
 
 
 External  Influence  355
@@ -19066,8 +17509,7 @@ the  island  in  1 8 1 3  it  seems  improbable  that  it  had  ever  been
 visited  by  Europeans.  On  this  occasion  a  Prussian  refugee
 from  Fiji,  Martin  Bushart,  already  mentioned,  and  a  "Lascar"
 were  landed  there  to  be  found  again  by  Dillon  thirteen  years
-later.  On  Dillon's  third  visit  in  1827  he  found  five  English-
-men on  the  island  who  had  landed  there  shortly  before.  It  is
+later.  On  Dillon's  third  visit  in  1827  he  found  five  Englishmen on  the  island  who  had  landed  there  shortly  before.  It  is
 therefore  clear  that  Europeans  have  settled  in  small  numbers
 on  the  island  at  various  times.
 
@@ -19083,12 +17525,10 @@ was  told  of  an  invasion  from  Tonga  which  probably  refers  to
 the  same  occurrence,  and  he  states  that  there  are  still  certain
 people  on  the  island  who  are  regarded  as  Tongans  and  these
 are  possibly  the  survivors  of  these  visitors.  Dillon  also  records*
-the  drifting  of  a  canoe  and  four  men  from  Rotuma  and  doubt-
-less there  have  been  many  such  additions  to  the  population.
+the  drifting  of  a  canoe  and  four  men  from  Rotuma  and  doubtless there  have  been  many  such  additions  to  the  population.
 
 The  fact  that  Dillon  found  on  Tikopia  relics  of  La  Perouse
-who  had  been  wrecked  on  Vanikolo  is  evidence  of  the  inter-
-course with  this  island.  The  accounts  of  both  Dillon  and
+who  had  been  wrecked  on  Vanikolo  is  evidence  of  the  intercourse with  this  island.  The  accounts  of  both  Dillon  and
 Dumont  d'Urville  as  well  as  that  given  by  John  Maresere
 show  that  there  has  been  extensive  intercourse  between
 Tikopia  and  Vanikolo  and  other  islands  of  the  Santa  Cruz
@@ -19110,8 +17550,6 @@ used  to  go  freely  to  Anudha  but  do  so  no  longer.     Not  long
 
 23—2
 
-
-356  Melanesian  Society
 
 ago  some  people  of  Anudha  were  going  in  their  canoes  to
 Tikopia  but  drifted  away  and  finally  reached  Motlav.  They
@@ -19138,8 +17576,7 @@ to  another.
 Methods  of  Treatment.
 
 For  pain  in  the  head.  The  leaves  of  a  tree,  called  in
-Tikopia  maire,  are  chewed  and  wrapped  in  a  piece  of  bark-
-cloth,  the  whole  is  squeezed,  and  the  liquid  which  exudes
+Tikopia  maire,  are  chewed  and  wrapped  in  a  piece  of  barkcloth,  the  whole  is  squeezed,  and  the  liquid  which  exudes
 is  dropped  into  the  ears  of  the  patient.  The  forehead  and
 upper  part  of  the  nose  are  pressed  tightly  (massaged  '^)  and
 some  of  the  same  kind  of  leaves  are  bound  on  the  forehead  of
@@ -19163,14 +17600,12 @@ Medical  Remedies  357
 
 from  that  for  headache  in  that  the  patient  is  not  allowed  to
 eat  coconut,  banana,  Papaia  or  red  yams.  Roasted  fish  is  also
-forbidden  though  boiled  fish  may  be  eaten,  all  these  restric-
-tions on  diet  being  derived  from  Tonga.
+forbidden  though  boiled  fish  may  be  eaten,  all  these  restrictions on  diet  being  derived  from  Tonga.
 
 Procedure  for  a  man  injured  by  falling  from  a  tree.
 First  there  is  prepared  some  coconut-cream  (sinu)  which
 is  added  to  some  boiling  sea-water.  The  patient  is  then
-asked  where  he  feels  the  pain  and  it  is  noticed  that  some-
-thing is  out  of  place  which  is  put  into  its  proper  position.
+asked  where  he  feels  the  pain  and  it  is  noticed  that  something is  out  of  place  which  is  put  into  its  proper  position.
 Then  some  leaves  of  the  orange  (lime  ?)  tree  are  procured
 and  wrapped  in  coconut  fibre.  The  whole  is  beaten  to  a
 pulp,  dipped  in  the  mixture  of  coconut-cream  and  sea-water
@@ -19205,12 +17640,8 @@ a  hibiscus  (kaute)  are  pounded  ;  the  juice  is  squeezed  into
 a  cup  of  water  and  then  drunk  by  the  woman.  The  liquid
 should  be  drunk  as  quickly  as  possible.
 
-^  In  connection  with  this  treatment  I  may  call  attention  to  the  ^Uocolosi"  treat-
-ment of  Tonga  (Mariner's  Tonga,  first  edition,  ll,  254).  It  is  possible  that  we
+^  In  connection  with  this  treatment  I  may  call  attention  to  the  ^Uocolosi"  treatment of  Tonga  (Mariner's  Tonga,  first  edition,  ll,  254).  It  is  possible  that  we
 have  here  ideas  concerning  pathology  which  may  explain  this  mode  of  treatment.
-
-
-359
 
 
 I
@@ -19294,9 +17725,6 @@ b  ^
 
 1^
 
-2
-
-3
 
 3  v2-
 
@@ -19310,7 +17738,6 @@ II
 
 II
 
-2
 
 II
 
@@ -19324,14 +17751,10 @@ o
 
 <
 
-1
-
-1
 
 rangarua      F
 adopted
 
-5
 
 ^.
 
@@ -19373,9 +17796,6 @@ ft;
 
 II
 
-1
-
-11
 
 <
 
@@ -19395,7 +17815,6 @@ s
 
 <
 
-1
 
 o           ^
 
@@ -19421,7 +17840,6 @@ H        1
 
 J
 
-5
 
 ^    11
 
@@ -19439,7 +17857,6 @@ r^
 
 ■^
 
-1
 
 <
 
@@ -19489,7 +17906,6 @@ a
 
 C
 
-4
 
 a
 
@@ -19515,7 +17931,6 @@ g     2
 
 11-
 
-1
 
 II  —  %
 3       3
@@ -19526,7 +17941,6 @@ Paetearik
 
 d.  May  i6
 
-1
 Paevenutap^
 {Tafua)
 
@@ -19538,9 +17952,6 @@ Q
 
 ft;
 
-1
-
-5
 
 !'«
 
@@ -19552,7 +17963,6 @@ ft;
 
 ^
 
-1
 
 -1
 
@@ -19570,13 +17980,9 @@ II
 
 V
 
-5
-
-1
 
 >
 
-1
 
 ^
 
@@ -19616,7 +18022,6 @@ S
 
 5;
 
-1
 
 k
 ^
@@ -19645,9 +18050,7 @@ i;^
 
 II '
 
-1
 
-9
 St
 
 mrangifur
@@ -19712,11 +18115,9 @@ II
 
 o  a
 
-3
 
 z
 
-3
 
 II
 
@@ -19774,9 +18175,6 @@ I
 
 
 r
-
-
-8
 
 
 is;
@@ -19870,9 +18268,6 @@ Si
 ft.
 
 
-362
-
-
 Melaitesian  Society
 
 
@@ -19922,7 +18317,6 @@ K
 
 f--^
 
-1
 
 K
 
@@ -19956,13 +18350,11 @@ f^
 
 ti
 
-1
 
 S  O-
 
 £<,
 
-1
 
 =5
 •<
@@ -19971,7 +18363,6 @@ S  O-
 
 ^
 
-0
 
 -«
 
@@ -20013,7 +18404,6 @@ kj  Si
 
 \^
 
-05
 
 rt  ^
 
@@ -20057,13 +18447,11 @@ recorded  are  also  correct.
 Tonga.
 
 The  information  which  follows  was  collected  during  a
-short  stay  of  two  days  at  Nukualofa  on  the  island  of  Tonga-
-tabu.  Through  the  kindness  of  Dr  Maguire  I  was  able  to
+short  stay  of  two  days  at  Nukualofa  on  the  island  of  Tongatabu.  Through  the  kindness  of  Dr  Maguire  I  was  able  to
 avail  myself  of  the  services  of  a  very  intelligent  Tongan
 named  Uga  with  a  good  knowledge  of  English,  and  with  him
 and  an  older  native  of  the  island  I  was  able  to  go  into  matters
-connected  with  relationship  fairly  thoroughly,  though  doubt-
-less I  obtained  only  a  small  fraction  of  the  information  which
+connected  with  relationship  fairly  thoroughly,  though  doubtless I  obtained  only  a  small  fraction  of  the  information  which
 a  longer  stay  would  have  brought  to  light.  I  did  not  make
 any  extended  inquiry  into  the  details  of  social  grouping  but
 was  told  that  each  "family''"  has  connected  with  it  a  sacred
@@ -20075,8 +18463,6 @@ the  strict  sense,  but  I  was  not  able  to  define  the  social  groups  wi
 are  connected.
 
 
-364  Melanesian  Society
-
 object  called  an  otua.  Some  otua  are  animals,  examples  being
 the  octopus,  flying  fox  and  pigeon,  while  others  are  stones.
 No  example  was  known  of  a  "family"  which  had  a  plant  as
@@ -20087,8 +18473,7 @@ The  following  are  the  terms  of  relationship  with  their
 meanings : —
 
 Tamai.  Father  and  father's  brother  and  other  men  of
-their  generation  according  to  the  usual  rules  of  the  classifica-
-tory  system.  Also  the  husbands  of  the  mother's  sister  and  of
+their  generation  according  to  the  usual  rules  of  the  classificatory  system.  Also  the  husbands  of  the  mother's  sister  and  of
 the  father's  sister.  It  is  also  applied  by  a  man  to  the  father
 of  his  wife  and  by  a  woman  to  the  father  of  her  husband.
 The  real  father  may  be  distinguished  from  other  relatives  to
@@ -20174,8 +18559,7 @@ Mokopuna.  Grandchild,  the  child  of  either  son  or
 daughter.
 
 Unoho.  This  is  the  old  term  for  either  husband  or  wife,
-but  owing  to  its  also  being  the  term  denoting  sexual  inter-
-course, it  is  not  now  used.  There  is  another  ancient  term
+but  owing  to  its  also  being  the  term  denoting  sexual  intercourse, it  is  not  now  used.  There  is  another  ancient  term
 hoa,  meaning  partner,  but  this  also  is  not  used  at  the  present
 time  and  the  customary  term  is  maliy  which  is  the  Tongan
 form  of  the  English  word  "marry."  The  wife's  sister,  the
@@ -20187,17 +18571,13 @@ Matapuli.     The  wife's  brother  and  sister's  husband  (m.s.).
 Maa.      Husband's     sister    and    brother's     wife     (w.s.).
 
 
-366  Melanesian  Society
-
 Properly  matapuli  should  only  be  used  between  men  and  maa
-between  women,  but  this  distinction  is  not  always  now  pre-
-served.
+between  women,  but  this  distinction  is  not  always  now  preserved.
 
 As  already  mentioned,  the  wives  of  two  brothers  and  the
 husbands  of  two  sisters,  call  one  another  tokoua.
 
-I  could  not  find  that  there  was  any  term  for  the  relation-
-ship between  the  parents  of  a  husband  and  wife.
+I  could  not  find  that  there  was  any  term  for  the  relationship between  the  parents  of  a  husband  and  wife.
 
 When  a  man  had  several  wives,  they  were  collectively
 sinifu  and  the  chief  wife  was  mataki.
@@ -20249,8 +18629,7 @@ name  in  address.  I  could  not  discover  that  the  tuasina
 would  take  any  special  part  in  ceremonial  connected  with
 his  nephew  either  in  connection  with  naming,  incision  or
 marriage.  Though  he  might  assist  in  providing  the  feasts
-on  such  occasions,  his  part  did  not  appear  to  be  more  pro-
-minent or  even  as  prominent  as  that  of  the  father  or  father's
+on  such  occasions,  his  part  did  not  appear  to  be  more  prominent or  even  as  prominent  as  that  of  the  father  or  father's
 brothers.
 
 A  woman  can  also  take  anything  from  the  house  of  her
@@ -20343,8 +18722,7 @@ growth.
 
 Relationship  in  Samoa  369
 
-so  little  into  line  with  our  knowledge  of  the  mode  of  ex-
-pressing relationships  found  elsewhere  in  Polynesia.  I  am
+so  little  into  line  with  our  knowledge  of  the  mode  of  expressing relationships  found  elsewhere  in  Polynesia.  I  am
 uncertain  about  the  correctness  of  many  details  and  record
 the  system  only  in  the  hope  that  my  mistakes  may  induce
 others  to  carry  out  a  full  investigation  of  the  very  exceptional
@@ -20362,8 +18740,7 @@ not  only  for  the  father's  brother  and  for  others  of  his
 generation,  but  also  for  the  grandparents  and  others  of  their
 generation.
 
-Tina.  This  term  was  said  to  be  limited  to  the  relation-
-ship of  mother  but  it  was  probably  also  generally  used  in  the
+Tina.  This  term  was  said  to  be  limited  to  the  relationship of  mother  but  it  was  probably  also  generally  used  in  the
 same  wide  sense  as  tama.
 
 Matua.  This  was  said  by  some  to  be  limited  to  the
@@ -20379,8 +18756,7 @@ brother.
 
 Tama.  Another  term  for  child  which  probably  should
 only  be  properly  used  by  a  woman  of  her  children.  Atalii
-and  tama,  certainly  the  latter,  appear  to  be  used  for  grand-
-children. So  far  as  I  could  discover,  there  is  no  special  term
+and  tama,  certainly  the  latter,  appear  to  be  used  for  grandchildren. So  far  as  I  could  discover,  there  is  no  special  term
 for  grandchild.
 
 Afajine  is  the  word  for  daughter.
@@ -20397,10 +18773,6 @@ Tuafafine.  This  is  applied  by  a  man  to  his  sister,  both
 tuangane  and  tuafafine  being  used  in  the  same  wide  sense
 as  uso.
 
-R.  M.  s.  24
-
-
-370  Melanesian  Society
 
 I  could  learn  of  very  few  terms  for  relatives  by  marriage.
 A  wife  was  called  ava  and  there  were  also  distinctive  terms
@@ -20507,8 +18879,6 @@ to  his  sister.
 24 — 2
 
 
-372  Melanesian  Society
-
 Matua  tupuna.  A  general  term  for  the  grandparents  and
 for  other  relatives  of  their  generation.  Those  of  the  female
 sex  are  distinguished  as  matua  tupuna  fifine.
@@ -20524,8 +18894,7 @@ Thus,  I  was  first  given  matakainanga  as  the  term  for  the
 mother's  brother  and  mangafaua  as  that  for  the  child  of  the
 father's  sister  and  thought  that  they  were  special  terms  for
 these  relatives,  but  it  became  clear  that  they  were  properly
-matua  and  taukesi  respectively  and  that  the  terms  mata-
-kainanga and  mangafaua  had  only  been  used  of  them  as  they
+matua  and  taukesi  respectively  and  that  the  terms  matakainanga and  mangafaua  had  only  been  used  of  them  as  they
 might  be  used  of  many  other  relatives.  It  seemed  that  it
 was  only  customary  to  use  these  terms  of  relatives  other  than
 those  of  the  speaker's  own  family  in  the  restricted  sense\
@@ -20608,8 +18977,7 @@ the  Lunalilo  Home  for  old  and  infirm  Hawaians,  and  I  am
 much  indebted  to  Mr  Joseph  Emerson  for  introducing  me  to
 this  sphere  of  work  and  to  Mrs  Ellen  Armstrong  Weaver,  in
 charge  of  the  Home,  who  did  everything  in  her  power  to  help
-me.  Among  Hawaians  who  helped  me  I  am  particularly  in-
-debted to  Mr  J.  M.  Poepoe  who  has  a  genuine  interest  in  the
+me.  Among  Hawaians  who  helped  me  I  am  particularly  indebted to  Mr  J.  M.  Poepoe  who  has  a  genuine  interest  in  the
 history  of  his  people,  though  his  information  has  necessarily
 to  be  derived  from  written  documents  rather  than  from  direct
 knowledge  of  Hawaian  custom.  I  am  also  greatly  indebted
@@ -20618,14 +18986,11 @@ their  condition  was  very  different  from  that  of  the  present
 time.
 
 
-Relationship  375
-
 Genealogies.
 
 Most  of  the  old  men  in  the  LunaHlo  Home  were  able  to
 give  me  extensive  pedigrees  similar  to  those  generally  to  be
-obtained  in  Oceania.  The  most  extensive  included  six  gene-
-rations, the  oldest  being  that  of  the  grandfather  of  my  in-
+obtained  in  Oceania.  The  most  extensive  included  six  generations, the  oldest  being  that  of  the  grandfather  of  my  in-
 formant, who  was  himself  over  eighty  years  of  age.
 
 The  inmates  of  the  Home  come  from  all  parts  of  the
@@ -20635,11 +19000,9 @@ relationship,  and  I  have  not  therefore  thought  it  necessary  to
 publish  them.
 
 One  general  point  of  interest  is  that  the  pedigrees  of  both
-father  and  mother  were  well  known,  and  I  gained  the  impres-
-sion that  the  relatives  of  the  mother  were  known  somewhat
+father  and  mother  were  well  known,  and  I  gained  the  impression that  the  relatives  of  the  mother  were  known  somewhat
 more  fully  than  those  of  the  father ;  certainly  there  was  no
-inferiority  in  the  knowledge  of  the  mother's  pedigree.  Cer-
-tain other  features  of  interest  will  be  mentioned  later.
+inferiority  in  the  knowledge  of  the  mother's  pedigree.  Certain other  features  of  interest  will  be  mentioned  later.
 
 The  System  of  Relationship.
 
@@ -20654,11 +19017,9 @@ of  their  generation  with  whom  direct  relationship  can  be
 traced,  i.e.  father's  brothers  and  sisters  and  mother's  brothers
 and  sisters,  both  in  the  classificatory  sense.  It  may  often  be
 used  figuratively,  but  the  distinction  is  quite  clear  between
-the  usages  in  this  and  in  the  more  direct  sense.  Sex  is  distin-
-guished by  adding  the  words  ka^ie  or  wahine.
+the  usages  in  this  and  in  the  more  direct  sense.  Sex  is  distinguished by  adding  the  words  ka^ie  or  wahine.
 
-Luaui.  A  term  used  only  for  the  real  parents  in  distinc-
-tion from  those  whom  we  should  call  uncles  or  aunts.  There
+Luaui.  A  term  used  only  for  the  real  parents  in  distinction from  those  whom  we  should  call  uncles  or  aunts.  There
 seems  to  be  no  doubt  that  it  is  an  old  word  which  is  now
 rarely  used  and  I  found  some  Hawaians  hardly  knew  of  its
 existence.  There  was  a  question  whether  it  should  not
@@ -20675,8 +19036,7 @@ and  523,  and  Aticieftt  Society^  p.  419.
 was  used  for  both  parents  who  were  distinguished,  as  in  other
 cases,  by  the  terms  kane  and  wahine.
 
-Step-parents  are  now  distinguished  as  makua-kolea.  Ac-
-cording to  Hyde,  kolea  originally  meant  real  parent  and  its
+Step-parents  are  now  distinguished  as  makua-kolea.  According to  Hyde,  kolea  originally  meant  real  parent  and  its
 use  for  step-parent  is  recent.
 
 Kaiki.  The  term  for  child,  sex  being  distinguished  by
@@ -20701,8 +19061,7 @@ call  his  elder  brother  kaikua-ana  and  his  younger  kaikaina.
 
 Kaikunane  and  kaikuhine.  These  are  terms  used  between
 those  of  opposite  sex.  A  woman  calls  her  brother  kaikunane^
-and  gives  this  name  also  to  all  those  men  of  her  own  genera-
-tion with  whom  she  can  trace  relationship.  Kaikuhine  is  the
+and  gives  this  name  also  to  all  those  men  of  her  own  generation with  whom  she  can  trace  relationship.  Kaikuhine  is  the
 corresponding  term  applied  by  a  man  to  his  sister  or  other
 female  relative  of  his  own  generation.
 
@@ -20716,16 +19075,13 @@ generation,  corresponding  to  our  great-grandfathers  and
 great-grandmothers  are  also  kupuna,  but  are  distinguished
 as  kupu7ia-kua-kahi.  Similarly,  there  are  terms  for  still  older
 generations,  kupuna- kua-lua  for  great-great-grandparents  and
-kupuna- kua-kolu,  kupuna- kua- ha,  etc.,  for  still  older  genera-
-tions [kahi,  lua,  kolu,  ha  are  i,  2,  3,  4).
+kupuna- kua-kolu,  kupuna- kua- ha,  etc.,  for  still  older  generations [kahi,  lua,  kolu,  ha  are  i,  2,  3,  4).
 
 The  grandfather  and  grandmother  are  distinguished  from
 one  another  by  means  of  the  additions  kane  and  wahine  or
 
 '  According  lo  Mr  Poepoe,  this  term  is  a  euphonic  form  oi kaikuakane.
 
-
-Relationship  377
 
 hine,  and  sex  was  distinguished  in  this  manner  only  in  all
 cases  in  which  the  term  was  used,
@@ -20742,8 +19098,7 @@ the  people  of  each  generation  older  or  younger  than  a  person,
 while  for  relatives  of  the  same  generation  there  are  four  terms
 the  use  of  which  depends  on  sex  and  seniority.
 
-There  are  several  terms  expressing  relationship  by  mar-
-riage : —
+There  are  several  terms  expressing  relationship  by  marriage : —
 
 Kane.  Husband,  also  applied  by  a  woman  to  the  brothers
 of  her  husband.  It  was  probably  used  by  a  woman  for  all
@@ -20755,8 +19110,7 @@ Wahine,  The  term  for  wife  and  for  the  sisters  of  the
 wife,  probably  using  sister  in  the  wide  sense.  The  wife  of
 the  brother  is  also  wahine.
 
-Hunoai  or  makua  hunoai.  Parent-in-law,  sex  being  dis-
-tinguished as  in  other  cases  by  means  of  kane  and  wahine.
+Hunoai  or  makua  hunoai.  Parent-in-law,  sex  being  distinguished as  in  other  cases  by  means  of  kane  and  wahine.
 The  terms  are  not  limited  to  the  real  parents  of  the  husband
 or  wife  but  are  applied  to  all  who  would  be  called  makua,
 
@@ -20780,19 +19134,14 @@ sense.  Similarly,  the  kaikoeke  of  a  woman  are  her  brother's
 wife  and  her  husband's  sister.
 
 
-378  Melanesian  Society
-
 Punalua  and  kaikoeke  are  thus  terms  only  applied  to  one
 another  by  persons  of  the  same  sex,  while  kane  and  wahine
 are  only  used  between  persons  of  opposite  sex.
 
-On  Oahu  brothers-in-law  and  sisters-in-law  are  often  dis-
-tinguished as  makua  or  opio  according  to  the  age  of  their
+On  Oahu  brothers-in-law  and  sisters-in-law  are  often  distinguished as  makua  or  opio  according  to  the  age  of  their
 consorts  ;  thus,  a  man  will  call  the  husband  of  his  elder  sister
-kaikoeke  makua  and  the  husband  of  his  younger  sister  kai-
-koeke opio,  while  a  woman  will  call  the  husband  of  her  elder
-sister  kane  makua  and  of  her  younger  sister  kane  opio.  Simi-
-larly, the  husband  of  an  elder  sister  is  called  by  a  woman  kane
+kaikoeke  makua  and  the  husband  of  his  younger  sister  kaikoeke opio,  while  a  woman  will  call  the  husband  of  her  elder
+sister  kane  makua  and  of  her  younger  sister  kane  opio.  Similarly, the  husband  of  an  elder  sister  is  called  by  a  woman  kane
 makua  while  the  husband  of  the  younger  sister  is  kane  opio.
 In  Kauai  the  term  nui  is  used  in  place  of  makua.
 
@@ -20813,8 +19162,7 @@ idea  of  distinction.
 Pokii  seems  to  mean  properly  the  youngest  of  a  family
 but  is  sometimes  used  in  the  same  sense  as  kaikaina.
 
-I  endeavoured  to  find  out  if  there  were  any  means  of  dis-
-tinguishing in  nomenclature  between  own  fathers,  brothers,
+I  endeavoured  to  find  out  if  there  were  any  means  of  distinguishing in  nomenclature  between  own  fathers,  brothers,
 and  sisters,  etc.,  and  those  more  distant  relatives  to  whom
 the  same  kinship  terms  are  applied.  It  seemed  that  the
 nearer  relatives,  i.e.,  those  whom  we  should  call  father,
@@ -20829,16 +19177,11 @@ used  for  an  own  brother,  but  it  was  doubtful  whether  this
 usage  is  not  also  recent.
 
 In  the  foregfoinpf  account  the  extension  of  the  terms  has
-been  described  as  limited  by  the  power  of  tracing  relation-
-ship.    The  degree  of  extension  of  the  terms  is  a  point  which
+been  described  as  limited  by  the  power  of  tracing  relationship.    The  degree  of  extension  of  the  terms  is  a  point  which
 
 
-Relationship  379
-
-both  Morgan  and  Hyde  left  uncertain  and  I  had  much  diffi-
-culty in  obtaining  satisfactory  evidence  on  this  question.
-Owing  to  there  being  no  clan-organisation  among  the  Ha-
-waians,  there  is  an  absence  of  the  machinery  for  the  limitation
+both  Morgan  and  Hyde  left  uncertain  and  I  had  much  difficulty in  obtaining  satisfactory  evidence  on  this  question.
+Owing  to  there  being  no  clan-organisation  among  the  Hawaians,  there  is  an  absence  of  the  machinery  for  the  limitation
 of  the  use  of  the  relationship  terms  which  is  found  among
 many  peoples  who  use  the  classificatory  system,  and  the
 account  given  by  Morgan  would  seem  to  imply  that  every
@@ -20846,15 +19189,13 @@ Hawaian  is  either  the  kupuna,  inakua,  kaikzta-ana,  etc.,  keikt
 or  mdopmta  of  every  other  Hawaian.  In  my  earliest  inquiries
 it  almost  seemed  as  if  this  was  the  case,  but  it  soon  became
 clear  that  this  impression  was  only  due  to  the  widespread
-practices  of  adoption  and  of  forming  bonds  of  artificial  brother-
-hood together  with  the  frequent  use  of  terms  of  relationship
+practices  of  adoption  and  of  forming  bonds  of  artificial  brotherhood together  with  the  frequent  use  of  terms  of  relationship
 in  a  figurative  sense.  With  these  exceptions,  the  use  of  the
 terms  is  limited  to  those  with  whom  direct  relationship  can
 be  traced.  I  think  it  probable  that,  at  any  rate  in  the  case  of
 especially  important  people,  it  was  not  necessary  that  this
 relationship  should  be  capable  of  being  traced  out  in  full
-detail.  The  Hawaians  are  great  genealogists  and  it  is  pro-
-bable that  two  men  meeting  and  finding  that  they  had  a
+detail.  The  Hawaians  are  great  genealogists  and  it  is  probable that  two  men  meeting  and  finding  that  they  had  a
 common  ancestor  would  apply  the  suitable  designation  to  one
 another,  but  this  use  was  probably  distinguished  from  that  in
 which  a  definite  near  relationship  could  be  traced.
@@ -20880,13 +19221,10 @@ the  ordinary  people  or  makaainana.  The  two  will  therefore
 be  considered  separately.
 
 
-380  Melanesian  Society
-
 Marriage  among  the  chiefs.  It  seems  to  be  quite  clear
 that  among  the  chiefs,  and  certainly  among  the  higher  chiefs,
 there  existed  the  institution  of  individual  marriage,  in  which
-the  union  of  two  persons  was  accompanied  by  definite  cere-
-monial. Of  this  marriage  to  which  the  term  ho-ao  was
+the  union  of  two  persons  was  accompanied  by  definite  ceremonial. Of  this  marriage  to  which  the  term  ho-ao  was
 applied,  there  were  several  grades,  depending  on  the  relation
 to  one  another  of  the  pair  to  be  united.  According  to  an
 account  given  to  me  by  Mr  J.  M.  Poepoe,  there  were,  at  any
@@ -20900,16 +19238,14 @@ were  so  sacred  that  all  had  to  prostrate  themselves  in  their
 presence  and  they  were  not  allowed  to  take  off  their  clothes
 in  the  presence  of  others.  As  examples  of  this  grade  of
 marriage  Mr  Poepoe  gave  me  the  following :  Kamahanu,  a
-chief  of  the  highest  rank  or  alii  niau-pto,  married  Lonuka-
-hikini,  a  chiefess  also  of  the  highest  rank  or  niau-pto.  They
+chief  of  the  highest  rank  or  alii  niau-pto,  married  Lonukahikini,  a  chiefess  also  of  the  highest  rank  or  niau-pto.  They
 had  a  son,  Kaneoneo,  and  a  daughter,  Kapueo-kalani,  who
 married  one  another.  Another  example  of  the  pto  marriage
 was  that  of  Kamehameha-nui  of  Maui  who  married  his
 sister,  Kalola,  and  their  daughter  Kalani-kauio-kikilo  was  a
 niau-pio.
 
-Naha.  This  name  was  given  to  the  next  grade  of  mar-
-riage in  which  the  husband  and  wife  were  half  brother  and
+Naha.  This  name  was  given  to  the  next  grade  of  marriage in  which  the  husband  and  wife  were  half  brother  and
 sister.  The  usual  case  was  that  a  woman  had  two  husbands  ;
 the  first  child  would  be  regarded  as  the  offspring  of  the  first
 husband  and  the  second  child  as  belonging  to  the  second
@@ -20985,8 +19321,6 @@ details.
 ^  See  David  Malo,  p.  179.
 
 
-382  Melanesian  Society
-
 might  also  occur.     How  far  such  marriages  occurred  among
 chiefs  of  low  rank,  it  is  now  impossible  to  ascertain.
 
@@ -20998,8 +19332,7 @@ in  marriage  and  it  seems  that  even  in  the  case  of  the  highest
 chiefs  marriage  was  only  an  institution  to  obtain  offspring
 and  as  soon  as  two  children  of  different  sex  were  obtained,
 the  union  had  no  further  motive  and  might  be  dissolved.
-The  chiefs  of  the  Hawaian  Islands  only  maintained  the  insti-
-tution of  marriage  to  an  extent  just  sufficient  to  ensure  sue
+The  chiefs  of  the  Hawaian  Islands  only  maintained  the  institution of  marriage  to  an  extent  just  sufficient  to  ensure  sue
 cessors  to  those  of  the  highest  rank  whose  purity  of  descent
 could  be  guaranteed.
 
@@ -21027,8 +19360,7 @@ The  Hawaian  commoners  appear  thus  to  have  had  exactly
 the  same  kind  of  restriction  on  marriage  as  is  found  among
 other  Polynesians,  and  I  was  told  that  the  fact  that  the  first
 Christian  teachers  allowed  marriage  between  cousins  was  a
-distinct  stumbling-block  when  the  new  religion  was  intro-
-duced.
+distinct  stumbling-block  when  the  new  religion  was  introduced.
 
 It  seems  to  be  quite  certain  that  there  is  no  trace  of  a
 clan-organisation  among  the  Hawaians  but  I  endeavoured  to
@@ -21038,21 +19370,17 @@ ascertain  if  there  was  any  indication  of  restriction  on  marriage
 Marriage  383
 
 dependent  on  locality  which  might  possibly  be  the  vestige  of
-such  an  organisation.  It  was  said  that  the  people  of  a  dis-
-trict acted  together  in  certain  circumstances,  as  in  warfare,
+such  an  organisation.  It  was  said  that  the  people  of  a  district acted  together  in  certain  circumstances,  as  in  warfare,
 but  I  could  not  discover  that  the  locality  of  a  person  in  any
 way  influenced  the  choice  of  a  wife.  In  collecting  pedigrees
 I  usually  obtained  the  name  of  the  district  and  place  to  which
-each  person  belonged.  Every  person  was  given  as  the  in-
-habitant of  a  district  such  as  Ewa  or  Waialua  on  Oahu,  and
+each  person  belonged.  Every  person  was  given  as  the  inhabitant of  a  district  such  as  Ewa  or  Waialua  on  Oahu,  and
 his  locality  could  also  be  given  more  precisely  within  such
-districts  so  that  the  exact  place  to  which  every  person  be-
-longed was  known.  It  was  quite  clear  that  marriages  might
+districts  so  that  the  exact  place  to  which  every  person  belonged was  known.  It  was  quite  clear  that  marriages  might
 occur  between  inhabitants  of  the  same  district,  but  I  cannot
 speak  definitely  about  the  influence  of  the  smaller  divisions
 of  a  district,  and  it  is  possible  that  they  may  have  played
-some  part  in  the  regulation  of  marriage.  It  is  perhaps  signi-
-ficant that  the  place  to  which  everyone  belonged  should  have
+some  part  in  the  regulation  of  marriage.  It  is  perhaps  significant that  the  place  to  which  everyone  belonged  should  have
 been  preserved,  even  although  their  descendants  might  have
 moved  to  other  islands.
 
@@ -21089,8 +19417,6 @@ been  secluded,  which  gave  its  name  to  the  ceremony.  (See  David  Malo, 
 p.  179.)  Mr  Ray  suggests  that  according  to  this  derivation  the  word  should  be
 hci'o-ao.
 
-
-384  Melanesian  Society
 
 used\  Among  the  chiefs  it  seems  that  royal  succession  was
 counted  in  both  lines  and,  as  we  have  seen,  chieftainship  of
@@ -21150,8 +19476,7 @@ the  chiefs,  but  I  failed  wholly  to  discover  what  was  done  in
 such  case.
 
 The  evidence  thus  shows  clearly  that  in  Hawaian  society
-in  its  ancient  condition  there  existed  the  institution  of  indi-
-vidual marriage,  though  undoubtedly  accompanied  by  much
+in  its  ancient  condition  there  existed  the  institution  of  individual marriage,  though  undoubtedly  accompanied  by  much
 sexual  laxity  and  with  the  possession  of  marital  rights  by
 others  than  the  husband.  This  conclusion  is  supported  by
 several  other  features  of  the  social  order.  There  is  the  great
@@ -21167,8 +19492,7 @@ any  other  state  of  society  than  one  in  which  there  was  a  very
 definite  union  between  a  man  and  a  woman.
 
 This  incident  was  related  to  me  by  an  old  man  named
-Naonohielua.  The  mother  of  this  man,  Kekaula,  was  re-
-garded as  the  daughter  of  Kikipani  and  Malai  and  was  so
+Naonohielua.  The  mother  of  this  man,  Kekaula,  was  regarded as  the  daughter  of  Kikipani  and  Malai  and  was  so
 described  in  the  pedigree  as  it  was  given  to  me.
 
 
@@ -21191,10 +19515,6 @@ thus  the  record  of  an  incident  which  occurred  a  hundred
 years  ago  and  the  fact  that  another  man  was  expressly  called
 in  to  beget  a  child  for  a  couple  without  issue  seems  to  show
 
-R.  M.  S.  25
-
-
-386  Melanesian  Society
 
 that  sexual  relations  external  to  marriage  cannot  have  been
 so  constant  a  feature  of  Hawaian  marriage  as  is  usually
@@ -21203,8 +19523,7 @@ failing  to  some  extent  and  in  order  to  get  a  clear  idea  of  the
 exact  relations  of  the  five  persons  concerned  he  arranged  five
 sandals,  two  pairs  representing  Kikipani  and  his  wife  on  the
 one  hand  and  Maluai  and  his  wife  on  the  other,  while  the  fifth
-sandal  represented  Kekaula.  His  relation  of  the  whole  in-
-cident was  quite  spontaneous  and  he  was  obviously  much
+sandal  represented  Kekaula.  His  relation  of  the  whole  incident was  quite  spontaneous  and  he  was  obviously  much
 interested  in  this  story  of  the  old  days.
 
 I  refer  to  this  matter  at  some  length  because  it  has  been
@@ -21260,2869 +19579,4 @@ rights  of  a  punalua  are  still  sometimes  recognised,  and  give
 rise  to  cases  which  come  before  the  law  courts  where  they  are
 treated  as  cases  of  adultery.  In  addition  to  these  punalua
 who  had  a  recognised  status  owing  to  their  relationship  to
-the  married  couple,  there  were  often  other  paramours  appa-
-rently chosen  freely  at  the  will  of  husband  or  wife.
-
-
-25 2
-
-
-I
-
-f
-
-I
-
-
-COMPARATIVE   TABLES   OF   TERMS
-OF    RELATIONSHIP
-
-The  terms  given  in  the  following  tables  are  those  which
-will  be  especially  used  in  the  theoretical  discussion  of  the
-second  volume.  They  do  not  include  the  terms  for  relatives,
-such  as  the  father's  brother  or  mother's  sister,  which  are
-only  of  importance  in  illustrating  the  general  classificatory
-character  of  Oceanic  systems  of  relationship.  The  terms
-chosen  for  record  in  this  form  illustrate  the  varieties  of  the
-classificatory  system  which  will  form  the  basis  of  the
-theoretical  construction  of  the  second  volume.
-
-The  text  should  be  consulted  for  variations  in  spelling  or
-grammatical  form,  and,  with  some  exceptions,  the  words  are
-printed  here  without  the  possessive  particles,  and  in  some
-cases  without  the  accents,  which  have  been  given  in  the  text.
-These  terms  are  never  heard  in  the  abbreviated  form  in
-which  they  are  here  given,  but  are  always  accompanied  by  a
-suffix  or  prefix.
-
-In  addition  to  the  terms  taken  from  the  text  of  this
-volume,  others  are  recorded  from  Aniwa  and  two  districts  of
-Tanna\  from  the  Shortlands  Islands^  and  from  the  Namatanai
-district  of  New  Ireland^
-
-1  W.  Gray,  Rep.  Austral.  Ass.,  1892,  IV,  672  ;  see  also  Ray,  Int.  Arch.f.  Ethnog.,
-1894,  VII,  238.
-
-2  Wheeler,  Arch.f.  Religionswiss.,  1912,  XV,  27.
-^  Peekel,  Anthropos,  1908,  in,  456.
-
-
-390
-
-
-Melanesian  Society
-
-
-Father
-
-Banks  Islands
-
-I.
-
-MOTA
-
-Tamai
-
-Vanua  Lava
-(Pek)
-
-Imam  (emek)
-
-ROWA
-
-Imam
-
-2.
-
-Mother
-
-Veve
-
-Imu  (emu)
-
-Ivev
-
-3-
-
-Child
-
-Natui
-
-Neni
-
-Chingmeru  or
-werwer
-
-4.
-5-
-6.
-
-Elder  Brother  (m.s.)
-Younger  Brother  (m.s.)  ...
-Brother-Sister
-
-Tugui
-Tasiu
-Tutuai
-
-Oga
-
-Isi
-
-Ehwe
-
-Chisi
-Chiochio
-
-7-
-
-Father's  Sister
-
-Veve  vus  rawe
-
-Imu
-
-Vev  wuswus  rawe
-
-8.
-
-„        Sister's  Husband
-
-Usur  or  maraui
-
-9-
-
-„              „        Child  ...
-
-Tamai  or  veve
-
-Imam  or  imu
-
-Imam  or  ivev
-
-10.
-
-Mother's  Brother
-
-Maraui
-
-Maru
-
-II.
-
-„         Brother's  Wife
-
-Mateima
-
-Wunu  mumdal
-
-12.
-
-„              „            Child
-
-Natui
-
-Chingmeru  or
-weriver
-
-13-
-
-Sister's  Son  (m.s.)
-
-Vanangoi
-
-Van-ngu
-
-14.
-
-Brother's  Son  (w.s.)
-
-Werwer
-
-15-
-
-Grandfather
-
-Tupui  (pupua)
-
-Popo
-
-Popo
-
-16.
-
-Grandmother
-
-5>                       »
-
-»
-
-»
-
-17.
-
-Grandchild
-
-It                      11
-
-»
-
-18.
-
-Father-in-Law
-
-Kwaliga  or  itata
-
-Kwelge
-
-Kwilia  or  kwalga
-
-19.
-
-Mother-in-Law
-
-Ra-kwaliga
-
-»
-
-H
-
-20.
-
-Son-in-Law
-
-Kwaliga
-
-j»
-
-n
-
-21.  Daughter-in-Law  ...
-
-22.  Husband
-
-23.  Wife
-
-24.  Wife's  Brother
-
-
-Kwaliga  or  tawarig
-
-
-25-
-
-
-Sister
-
-
-26.  Husband's  Brother
-
-27.  „  Sister   ...
-
-
-Rasoai
-
-Amanma
-
-Tamanro
-
-»
-
-Rengoma
-
-Ligenro
-
-Wulus
-
-Wulus
-
-Wulus
-
-Mateima
-
-Rengoma
-
-By  name
-
-Welag
-
-Amanma
-
->»
-
-Walui
-
-Wulu
-
-Wulu
-
-a.
-
-1
-
-
-Terms  of  Relationship
-
-
-391
-
-
-Banks  Islands
-
-f
-
-Merlav
-
-Imama  (mam)       Ma
-
-
-Torres  Islands
-
-
-New  Hebrides
-
-
-Ivev  (vev)
-Natu
-
-Tuga
-
-Tasi
-
-Tata
-
-Ivev
-
-Moru
-Natu
-
-Moru
-
-Ivev
-
-Natu
-
-Natu
-Tumbu
-
-
-LOH
-
-
-Reme
-
-Magola  n
-netu
-
-Tigi
-
-»
-Chiochio
-
-Reme
-
-Wulu
-
-Tigi  or  chiochio    Weiu  or
-
-
-Hiw            Pentecost
-
-Anaiteum
-
-Mama
-
-Tama    (tata)
-
-Etma
-
-Tata
-
-Ratahi  (mua)
-
-Resi
-
-or    Megoia
-
-Nitu
-
-Ngalo
-
-Teii
-
-Tuaga
-
-Etua
-
-»
-
-Tihi
-
-»
-
-Tutua
-
-Hogosi
-
-Ratahi  or  bilan  Resi
-barai
-
-Huri  Mata
-
-Tama  or  ratahi  Engaornatamng
-
-
-by  name
-
-Meru
-
-Maru
-
-Tarabe
-
-Mata
-
-Reme
-
-Kwiiga  or
-by  name
-
-Mabi  or
-
-lalagi
-
-Resi
-
-Tigi  or
-
-chiochio
-
-Weiu  or
-by  name
-
-Nitu
-
-Engaornatamng
-
-Meru
-
-Maru
-
-Aloa
-
-Ngawani
-
-Magola
-netu
-
-mino  or
-
-Megoia
-
-Nitu
-
-Ngalo
-
-Tukwu
-
-Pupu
-
-Sibi
-
-Etpo
-
-Repu
-
-»»
-
-„    or  tuaga
-
-5)
-
-Tukwada
-
-»
-
-Mabi  or
-
-tihi
-
-Mapo
-
-Kwaleg  Kwiliga
-
-Rombu
-
-Welag
-
-
-Tivina,  recha  or
-
-kwiliga
-Kwiliga
-
-
-Kwiiga  Bwaliga,  sibi  or  Mata
-
-hogosi
-
-„  Nitu  or  sibi  Resi
-
-„  Tama  or  bwaliga  N  gwani  or  ngalo
-
-
-21.      Tawarig
-22.
-
-23-
-
-24.      Wulu
-
-
-Tivina  or  recha
-
-
-Wulu
-
-
-25.  Tata  or  by  name    Chiochio  or
-
-by  name
-
-26.  „  „  By  name
-
-27.  Walu  or  nawal      Rewolu
-
-
-„  Hogosi  or  mabi  „
-
-Tauwena  or  Ahoa  Natamng
-takwena
-
-Tukwinne  Tasala  Enga
-
-Weiu  Mabi  or  bulena  Nenga
-
-By  name  Mabi  or  lalagi  Enga
-
-
-Woiu
-
-
-Sibi  Natamng
-
-Sibi  or  habwe        Hudhna
-
-
-392
-
-
-1.  Father
-
-2.  Mother
-
-3.  Child
-
-4.  Elder  Brother  (m.s.)
-
-5.  Younger  Brother  (m.s.)
-
-6.  Brother-Sister
-
-7.  Father's  Sister
-
-
-Sister's  Husband
-Child  ...
-
-
-10.  Mother's  Brother
-
-11.  „  Brother's  Wife
-
-12.  „  Child
-
-13.  Sister's  Son  (m.s.)  ..
-
-14.  Brother's  Son  (w.s.)
-
-15.  Grandfather
-
-16.  Grandmother
-
-17.  Grandchild
-
-18.  Father-in-Law
-
-19.  Mother-in-Law
-
-20.  Son-in-Law
-
-21.  Daughter-in-Law  ...
-
-22.  Husband
-
-23.  Wife
-
-24.  Wife's  Brother
-
-25.  „       Sister
-
-26.  Husband's  Brother
-
-27.  „  Sister    ...
-
-
-Melanesian  Society
-
-
-New  Hebrides
-
-
-Tanna
-Weasisi
-
-Timin
-
-I  ten
-
-Netin
-
-Noatun
-
-Noatahan
-
-Nomanin  (w.s.) ;
-Nauvenin  (m.s.)
-
-Uhun
-
-Un
-
-Ra'neauwa'li  or
-nuwein
-
-Un
-
-Uhun
-
-Ra'neauwa'li  or
-nuwein
-
-Ra'niauanien
-Nau'wein
-Tupun  (kaha)
-
-
-Numwipun
-
-Un
-
-Uhun
-
-Ra'niauanien  (m.s.);
-Nau'wein  (w.s.)
-
-Ra'neauwa'li
-
-Nuwein
-Nevin
-
-Nuwein
-
-Ra'neauwa'li
-Neauvvun
-
-
-Tanna
-Kwamera
-
-Rimini
-
-Ri'ni
-Tini
-
-Breiani
-
-Brasini
-
-Pomani  (w.s.);
-Pivini  (m.s.)
-
-Gusuii
-
-Merani
-
-Kunsuaru  or
-rakweini
-
-Merani
-
-Gusuii
-
-Kunsuaru  or
-rukweini
-
-Kunkwanien
-Brasini
-Rupuni  (kaha)
-
-
-Aniwa
-
-Tamana
-
-Nana
-Tentama
-
-Nosoatasore
-
-Nokave
-Nanfangavai
-
-To'mana
-
-Nenuane  or
-tafoinafune
-
-To'mana
-
-Nanfangavai
-
-Nenuane  or
-tafoinafune
-
-Novaimutu
-
-Nosoatasise
-Tupuna  (pua)
-
-
-Miponi
-
-Tampupuna
-
-Merani
-
-To'mana
-
-Gusuii
-
-Nanfangavai
-
-Kunkwanien
-(m.s.) ;     Bra-
-sini (w.s.)
-
-Novaimutu  (m.s.);
-Nosoatasisi(w.s.)
-
-»>
-
-))
-
-Kunsuaru
-
-Nenuane               ,
-
-Rukweini
-
-Tafoinafune
-
-Yafuni
-
-Nosafe
-
-Rukweini
-
-Tafoinafune
-
-Kunsuaru
-
-Nenuane               J
-
-Purkumani
-
-Rufeima              J
-
-Terms  of  Relationship
-
-
-393
-
-
-Santa  Cruz
-
-Vanikolo
-
-Reef  Islands
-
-PiLENI
-
-British  Solomon  Islands
-
-X
-
-Ulawa
-
-Malaita
-
-Saa
-
-I.
-
-Derde
-
-Aia
-
-Opa
-
-Ama  (mamau)
-
-Ama
-
-2.
-
-Lainge  (ida)
-
-Papa
-
-Itei
-
-Nike  (teitei)
-
-Nike
-
-3-
-
-Malangi
-
-Nisili
-
-Aleliki  (m.s.);
-Tama  (w.s.)
-
-Kale
-
-Kale
-
-4-
-
-Kalengi
-
-Alua
-
-Toga  or  toka
-
-Ula
-
-Asi
-
-5-
-
-»
-
->)
-
-»
-
-5>
-
-«
-
-6.
-
-Malwengi  (w.s.) ;
-Inwengi  (m.s.)
-
-Mene
-
-Tungani  (w.s.) ;
-Tuahine  (m.s.)
-
-Inia
-
-»
-
-7-
-
-Inwerderde
-
-Papa
-
-Tupu,  pu  or  apu
-
-Nike
-
-Nike
-
-8.
-
-Lomaingi
-
-Ama
-
-Ama
-
-9-
-
-Kave
-
-Toga,  etc.
-
-Ula  or  inia
-
-Ula  or  inia
-
-lO.
-
-Kambungi
-
-Nggea
-
-Ingoa
-
-Uweli
-
-Uweli
-
-II.
-
-Kandongi
-
-Papa
-
-Nike
-
-Nike
-
-12.
-
-Kave
-
-Nisili  (?)
-
-Toga,  etc.
-
-Ula  or  inia
-
-Ula  or  inia
-
-13-
-
-Kambungi
-
-Ilamotu
-
-Uweli
-
-Uweli
-
-14.
-
-Malamalwengi
-
-Makupu
-
-Kale
-
-Kale
-
-15-
-
-Derdende  derde  or
-derdendelai
-
-Tupu  (apu  or  pu)
-
-Wauwa
-
-Wauwa
-
-16.
-
-Laiderde  or
-laindelai
-
-»
-
-Pwapwaa
-
-Pwapwaa
-
-17-
-
-Malemalenge  or
-malainiangi
-
-Makupu
-
-Wauwa  or
-pwapwaa
-
-Wauwa  or
-pwapwaa
-
-18.
-
-Imbungi  or
-kandongi
-
-Tamana  fungovai
-or  fungo
-
-Hungao
-
-Hungoa
-
-19-
-
-Kandongi  or
-lambungi
-
-Fungo
-
-»
-
-»
-
-20.
-
-Kandongi
-
-n
-
-j»
-
-»
-
-21.
-
-Imbungi  or
-lambungi
-
-•
-
-»»
-
-»
-
-»
-
-22.
-
-Kanalangi
-
-Lamokanwani
-
-23-
-
-»
-
-Venimingani
-
-24,
-
-Mulia
-
-Ngane
-
-Ihe
-
-Ihe
-
-25.
-
-Kandongi  or
-iniengi
-
-»
-
->»
-
-26.
-
-Kandongi  or  malangi     „
-
->>
-
-u
-
-27.
-
-Lambungi
-
-»
-
-»
-
-394
-
-
-Melanesian  Society
-
-
-British  Solomon  Islands
-
-
-/^  -  ■
-Malaita
-
-Malaita
-
-San  Cristoval
-
-Lau
-
-Fiu
-
-Heuru
-
-Father
-
-.     Maa
-
-Maa
-
-Ama
-
-Mother
-
-.    Tei
-
-Tea
-
-Ina
-
-Child
-
-.     Mwela
-
-Mwela
-
-Gare
-
-Elder  Brother  (m.s.)
-
-.     Auwa
-
-Ai
-
-Doora
-
-Younger  Brother  (m.s.)  .
-
-.     Sasi
-
-Ai  or  sasi
-
-»
-
-Brother-Sister
-
-.     Mwaina
-
-Mwaimwane
-
-Asi
-
-7.  Father's  Sister      Aiya
-
-8.  „         Sister's  Husband  Ko
-
-9.  „  „       Child  ...  Di
-
-10.  Mother's  Brother  ...  Ko
-
-11.  „         Brother's  Wife  „
-
-12.  „  „         Child  Di
-
-13.  Sister's  Son  (m.s.) Ko
-
-14.  Brother's  Son  (w.s.)         ...  Aiya
-
-15.  Grandfather  Ko
-
-16.  Grandmother         „
-
-17.  Grandchild „
-
-18.  Father-in-Law       Fungo
-
-19.  Mother-in- Law      „
-
-20.  Son-in-Law ...         „
-
-
-A'ai
-
-Mwae
-Di
-
-Mwae
-
-A'ai
-
-Di
-
-Maa
-
-
-Maua
-
-
-Ko'o
-
-Uwaia
-
-M
-
-Waea
-
-J»
-
-Uwaia  or  waea
-
-Hunga  or
-funga
-
-Hungo
-
-21.  Daughter-in-Law
-
-22.  Husband
-
-23.  Wife
-
-24.  Wife's  Brother
-
-
-25.
-
-
-Sister
-
-
-26.  Husband's  Brother
-
-27.  „  Sister    ..
-
-
-Arai
-
-Afe
-Bara
-
-
-Arai
-
-Afe
-Luma
-
-
-Luma
-Sai
-
-
-I
-
-
-Terms  of  Relationship
-
-
-British  Solomon  Islands
-
-
-395
-
-
-San  Cristoval
-Rafurafu
-
-Wama
-
-Keina  (katita)
-Kare
-
-Waoga
-Wasi
-
-
-Keina
-Fongo
-
-Mamau
-
-Kafongo
-
-Waoga,  etc.
-
-Mamau
-
-Kare
-
-Wauwa
-
-Kaka
-
-Wauwa
-
-Fongo
-
-Kafongo
-
-Fongo
-
-
-Florida       Guadalcanar       Ysabel
-
-Bugotu
-
-Tama  (mama)       Tama  (mama)   Tama  (mama)
-
-
-Tina  (ino)
-Dale
-
-
-Tina  (koni)        I  do
-
-
-Dale
-
-
-Tuga  or  hoga       Tasi
-Tahi  „
-
-Vavine  ,,
-
-
-Tina
-
-
-Tarunga
-
-
-Tama  or  tumbu    Nia
-Mavu  Iva
-
-Tumbu  or  tama    Nia
-
-
-Vunu
-
-Mavu
-
-Tumbu
-
-Dale
-
-Kukua
-
-
-Vuno
-
-
-Tarunga
-
-Iva
-
-Nia
-
-Kukua
-
-
-Nia
-
-Tarunga
-
-
-Dadhe
-
-Toga  (kaka)
-Tahi  (iku)
-Vavine
-
-Ido
-
-Tama
-Paja
-
-Tumbu
-
-Ido
-
-Paja
-
-Tumbu
-
-Dadhe
-
-Kue
-
-Kave
-
-Kukua
-
-Tama  or
-vungao
-
-Ido  or  vungao
-Vungao
-
-
-Ysabel
-Nggao
-
-Ma  (mage)
-
-Do  (doge)
-Tu
-
-Tiga
-Tahi
-Karudu
-
-
-Faka'rai
-
-Nimbu
-
-Mama
-
-Faka'rai
-
-Nimbu
-
-
-Kave
-
-
-'Nogu
-
-
-21.
-
-22.  Fifanea
-
-23.  Mwanea
-
-24.  Waforo
-
-25.  Kaforo
-
-26.  Waforo
-
-27.  Kaforo
-
-
-Tau
-
-
-Iva
-
-
-Iva
-
-
-Tauu  or  kula     Keto  or
-kerague
-
-
-Iva
-
-
-Notifaie
-(vave)
-
-
-39^
-
-
-Melanesian  Society
-
-
-British  Solomon  Islands
-
-
-Savo
-
-Eddystone
-
-Vella
-Lavella
-
-Short-
-lands
-
-I.
-
-Father
-
-Mau
-
-Tama
-
-Mama
-
-Apa
-
-2.
-
-Mother
-
-Mama
-
-Tina
-
-Niania
-
-'Nka
-
-3-
-
-Child
-
-Nyumba  or
-zumba
-
-Tu
-
-Menggora
-
-Natu
-
-4-
-
-Elder  Brother  (m.s.)
-
-Toni
-
-Tuga
-
-Kaka
-
-Kai
-
-5-
-
-Younger  Brother  (m.s.)  ...
-
-Toi
-
-Tasi
-
-Visi
-
-»
-
-6.
-
-Brother-Sister
-
-Totoa  or
-toka
-
-Lulu
-
-Sanggi
-
-Fafine
-
-7-
-
-Father's  Sister
-
-Mama
-
-Tina
-
-Niania
-
-'Nka
-
-8.
-
-„        Sister's  Husband
-
-Tama
-
-Mama
-
-Manai
-
-9-
-
-„              „       Child  ...
-
-Tu
-
-Piala,kai
-or  fafine
-
-lO.
-
-Mother's  Brother
-
-Kulaga
-
-Tama
-
-Papa
-
-Manai
-
-II.
-
-„         Brother's  Wife
-
-Mama
-
-Tina
-
-Niania
-
-'Nka
-
-12.
-
-Child
-
-Tu
-
-Piala,kai
-or  fafine
-
-13-
-
-Sister's  Son  (m.s.)  ...  "     ...
-
-Kulaga
-
-Tuor
-gamburu
-
-Pakora
-
-Natu
-
-14.
-
-Brother's  Son  (w.s.)
-
-Zumba
-
-Tu
-
-Menggora
-
-»
-
-15-
-
-Grandfather
-
-Kukua
-
-Tama
-
-Taite
-
-Tua
-
-16.
-
-Grandmother
-
-)>
-
-Tina
-
-»
-
-Tete
-
-17-
-
-Grandchild
-
-))
-
-Tu
-
-Mambuzhu
-
-Fabiu
-
-18.
-
-Father-in-Law
-
-Vungau
-
-Roa
-
-Ravaja
-
-Loa  or
-
-tua
-
-19-
-
-Mother-in-Law
-
-»
-
->>
-
-»
-
-Loa  or
-tete
-
-20.
-
-Son-in-Law ■.
-
-»
-
-»i
-
-i»
-
-Loa
-
-21.
-
-Daughter-in-Law
-
-»
-
-»
-
-»»
-
-Fabiu
-
-22.
-
-Husband
-
-Marene
-
-Kanega
-
-23-
-
-Wife
-
-Manggota
-
-Batafa
-
-24.
-
-Wife's  Brother
-
-Ma
-
-Iva
-
-Mani
-
-I  fa
-
-25.
-
-„       Sister
-
-)>
-
-Roa
-
-Niania
-
-Kai
-
-26.
-
-Husband's  Brother
-
-Mbasa
-
-Tu  or  roa
-
-Menggora
-
-Kai
-
-27.
-
-„          Sister
-
-Ma
-
-Iva
-
-Mani
-
-Ifa
-
-Terms  of  Relationship
-
-
-391
-
-
-Fiji
-
-
-Bougainville
-Buin
-
-New  Ireland
-Namatanai  (Peekel)
-
-Mbau
-
-NOKANOKA
-
-I.
-
-Momo  (m.s.);  Moka
-(ana)  (w.s.)
-
-Tama
-
-Tama
-
-Ama
-
-2.
-
-Moka  (ana)
-
-Etna  (makai)
-
-Tina  (nau)
-
-Ina
-
-3-
-
-Rum  or  ruro
-
-Nati,  bulu,  hinasi
-
-Luve
-
-4-
-
-Taitanu
-
-Tasi,  sahi
-
-Tuaka
-
-5-
-
-Roromoru
-
-»
-
-Tadhi
-
-6.
-
-Nonoi
-
-Hine
-
-Ngane
-
-Ngane
-
-7-
-
-Agu
-
-Hintama,  rahat  or  tau
-
-Nganei  or  vungo
-
-Nganeitama
-
-8.
-
-Tama
-
-Vungo  or  ngandina
-
-Ngandina
-
-9-
-
-Boboi  or  abure
-
-Lapu  or  hine-kokup
-
-Tavale,  ndavola  or
-ndauve
-
-Karua  or
-ka'ama
-
-lO.
-
-Papa
-
-Matua
-
-Vungo  or  ngandina
-
-Ngandina
-
-II.
-
-Hihi
-
-Nganei  or  vungo
-
-Nganeitama
-
-12.
-
-Boboi  or  gemuroi
-
-Lapu  or  hine-kokup
-
-Tavale,  ndavola  or
-ndauve
-
-Karua  or
-ka'ama
-
-13-
-
-Roguru
-
-Laua
-
-Vasu  or  ngonia
-
-Natu
-
-14.
-
-Mipo  or  momo
-
-Tama,  rahat  or  tau
-
-Vungo
-
-15.
-
-Nana,  tete,  taitanu
-(m.s.);  Nonoi  (w.s.)
-
-Tubu  or  pupu
-
-)
-
-Tuka
-
-Umbu
-
-16.
-
-Mamai  or  tete
-
-»
-
-Mbu
-
-n
-
-17-
-
-Ruge,  rorumoru  or
-nonoi  (m.s.)
-
-»
-
-Makumbu
-
-Vakumbu
-
-18.
-
-Papa
-
-Numu(m.s.);Tubu(w.s.
-
-.)  Ngandina
-
-19-
-
-Agu
-
-Numu  (m.s.);  Ena  (w.s
-
-.)  Nganei  or  vungo
-
-20.
-
-»                »>
-
-Vungo
-
-Tubu  (m.s.) ;  Ena  (w.s.)
-
-
-22.      Iru  or  mom
-
-
-Lale
-
-
-Wati
-
-
-23-
-
-Ina
-
-»
-
-)>
-
-24.
-
-Boboi
-
-Hari  or  makus
-
-Tavale
-
-25.
-
-Mamai  or  rorokei
-
-Harnama
-
-Ndavola
-
-Avale
-
-
-I
-
-
-26.  Taitanu  or  roromoru  „
-
-27.  Mats  Jahe
-
-
-Ndauve
-
-
-398
-
-
-Melanesian  Society
-
-
-1.  Father
-
-2.  Mother
-
-3.  Child
-
-4.  Elder  Brother  (m.s.)
-
-5.  Younger  Brother  (m.s.)
-
-6.  Brother-Sister
-
-7.  Father's  Sister
-
-
-Fiji
-
-
-Narambula
-
-Nandrau
-
-Navatusila
-
-Ma
-
-Kam
-
-Momo
-
-Nau
-
-Nau
-
-Nene
-
-Luve
-
-Luve
-
-Tutua  or  tuaka
-
-Tutua  or  tuaka
-
-Tadhi
-
-Tadhi
-
-Ngane
-
-Ngane
-
-Nganei
-
-
-Tukai
-
-
-Ngwanita
-
-
-8.
-
-„         Sister's  Husband
-
-Vuno
-
-9-
-
-Child  ...
-
-Karua  or  wati
-
-Tavale
-
-Tavale
-
-10.
-
-Mother's  Brother
-
-Ngandi
-
-Momo
-
-Koko
-
-II.
-
-„          Brother's  Wife
-
-Sawai  or  nau
-
-Tambani  or  nene
-
-12.
-
-Child
-
-Karua  or  wati
-
-Tavale
-
-Tavale
-
-13.
-
-Sister's  Son  (m.s.)
-
-Vuno
-
-Vasu
-
-Vasu
-
-14.
-
-Brother's  Son  (w.s.)
-
-Luve
-
-Luve  or  vuno
-
-15-
-
-Grandfather
-
-Tumbu
-
-Tutua,  tuaka,
-tumbu  or  taitai
-
-Tutua
-
-16.
-
-Grandmother
-
-5)
-
-Tatai  or  mbu
-
-Tatai
-
-17-
-
-Grandchild
-
-Makumbu
-
-Makumbu,  tangi,
-tadhi  or  ndiva
-
-Viango  or  tadhi
-
-18.
-
-Father-in-Law
-
-Vuno
-
-Vuno
-
-Vuno
-
-19-
-
-Mother-in-Law
-
-M
-
-»
-
-))
-
-20.
-
-Son-in-Law
-
-»
-
-M
-
-21.  Daughter-in-Law  ...
-
-22.  Husband
-
-23.  Wife
-
-24.  Wife's  Brother
-
-
-25.
-
-
-Sister
-
-
-26.  Husband's  Brother
-
-27.  „  Sister   ...
-
-
-1>
-
-Vuno  or  nau
-
-Mani
-
-Mangua
-
-Nene
-
-Tavale
-
-Tavale,  etc.
-
-Tavale  or  vikila
-
-Wati
-
-»>
-
-Tavale
-
-Ndaku
-
-Vitambui
-
-Raiva
-
-Terms  of  Relationship
-
-
-399
-
-
-Fiji
-
-
-Dhawanisa
-
-Nambombuoho
-
-Tavua
-
-Tikopia
-
-Tonga
-
-I.
-
-Vava  or  momo
-
-Tama
-
-Ta
-
-Pa  or  toku  tamana
-
-Tamai
-
-2.
-
-Nene  or  nenei
-
-Tina
-
-Nau
-
-Nau
-
-Fae
-
-3-
-
-Luve
-
-Luve
-
-Luve
-
-Tama
-
-Foha,  fa  nau,  tama
-or  ofefine
-
-4-
-
-Tutua  or  tuaka
-
-Tuaka
-
-Taina
-
-Tokoua  or  taukete
-
-5-
-
-Tadhi
-
-Tadhi
-
-Taina
-
-Tokoua  or  tehina
-
-6.
-
-Ngane
-
-Ngane
-
-Kave
-
-Tungaane  (w.s.) ;
-Tuafafine  (m.s.)
-
-7-
-
-Ngwanita
-
-Nganeitama
-
-Ngwandi
-
-Mesakitanga
-
-Mehikitanga
-
-8.
-
-Dhawai
-
-Vunga
-
-Pae  or  tuatina
-
-Tamai
-
-9-
-
-Tavale
-
-Tavale  or  ivola
-
-Tuaka  or
-
-tadhi
-
-Taina  or  kave
-
-Tokoua
-
-lO.
-
-Momo
-
-Momo,  vuno  or
-ngandina
-
-Ngwandi
-
-Tuatina
-
-Tuasina  or  fae
-
-II.
-
-Nenei
-
-Vunga
-
-»
-
-Naue
-
-Fae
-
-12.
-
-Tavale
-
-Tavale  or  ivola
-
-Tadhi  or
-
-tuaka
-
-Taina  or  kave
-
-Tokoua
-
-13-
-
-Vasu
-
-Vatuvu
-
-Ngguva
-
-Iramutu
-
-Ilamutu
-
-14.
-
-Luve
-
-j>
-
-Tama
-
-Fakafotu
-
-IS-
-
-Tumbu,  tutua
-or  tatai
-
-Tumbu  or
-makumbu
-
-Tai
-
-Tupuna  or  pu
-
-Kui
-
-16.
-
-Tatai  or  mbu
-
-Ndama
-
->>
-
-»
-
->»
-
-17-
-
-Viango  or  tadhi
-
-Makumbu,  itangi  Viango
-or  ndiva
-
-Makupuna
-
-Mokopuna
-
-18.
-
-Vuno
-
-Ngwandi
-
-or  vunga
-
-Pa  or  tamana
-fongoai
-
-Tamai
-
-19.
-
-Vuno  or  nganei-
-tama
-
-))
-
->»
-
-Nau  or
-
-nana  fongoai
-
-Fae
-
-20.
-
-Vunga  or
-
-ngguva
-
-Pa  or  fongoana
-
-21.
-
-)9
-
-i>
-
-Nau  or  fongoana
-
-22.
-
-Yatangane
-
-Matua
-
-Unoho
-
-23-
-
-Alewa
-
-Nofine
-
->»
-
-24.
-
-Tavale
-
-Tavale
-
-Tangata
-
-Matapuli
-
-25-
-
->5
-
-Taina
-
-Unoho
-
-26.
-
-Vitambui
-
-Ndaku
-
-j>
-
-»
-
-27.
-
-Fine  or  ma
-
-Maa
-
-400
-
-
-I.  Father
-
-
-Melanesian  Society
-
-
-Mother
-
-Child
-
-Elder  Brother  (m.s.)
-Younger  Brother  (m.s.)  ...
-Brother-Sister
-
-
-7.  Father's  Sister
-
-
-13-
-14.
-
-15-
-16.
-
-17-
-18.
-19.
-20.
-
-
-„        Sister's  Husband
-„  „        Child  ...
-
-Mother's  Brother
-
-„  Brother's  Wife
-
-Child
-
-Sister's  Son  (m.s.)
-
-Brother's  Son  (w.s.)
-
-Grandfather
-
-Grandmother
-
-Grandchild
-
-Father-in-Law
-
-Mother-in-Law
-
-Son-in-Law
-
-
-Samoa
-Tama  or  matua
-
-Tina  or  matua
-
-Atalii,  tama  or
-afafine
-
-Uso
-
-Tuangane  (w.s.) ;
-Tuafifine  (m.s.)
-
-Tina  or  matua
-
-Matua  or  tama
-Uso,  etc.
-
-Matua  or  tama
-
-Tina  or  matua
-
-Uso,  etc.
-
-
-NlUE
-
-Matua  kane
-
-Matua  fifine
-Fanau  or  tama
-
-Tuakesi
-
-Seihina
-
-Tungaane  (w.s.) ;
-Mahakitanga  (m.s.)
-
-Matua  fifine
-
-Matua  kane
-Taukesi,  etc.
-
-Matua  kane
-
-Matua  fifine
-
-Tuakesi,  etc.
-
-Fanau  or  tama
-
-
-21.  Daughter-in-Law
-
-22.  Husband
-
-23.  Wife
-
-24.  Wife's  Brother
-
-
-Ava
-
-
-25.
-
-
-Sister
-
-
-Fingona
-
->»
-Kane
-Hoana
-
-Maa
-
-
-26.  Husband's  Brother
-
-27.  „  SISTIlR    ..
-
-
-Hawaii
-Makua  or  luaui
-
->»
-Kaiki
-
-Kaikuaana
-
-Kaikaina
-
-Kaikunane  (w.s.)  ~
-Kaikuhine  (m.s.'
-
-Makua
-
-Kaikua-ana,  etc.
-Makua
-
-
-Kaikua-ana,  etc.    -
-Kaiki
-
-
-Matua,  tama  or
-
-Matua  tupuna
-
-Kupuna
-
-tupunga
-
-»            >»
-
-»>
-
-»
-
-Tama
-
-Mokopuna
-
-Mo'opuna
-
-Faletua
-
-Matua  vungavai
-
-Makua  hunoai
-
-Hunona
-
-
-Kane
-
-Wahine
-Kaikoeke
-
-Wahine
-
-Kane
-Kaikoeke
-
-
-\
-
-
-CAMBRIDGE:    PRINTED   BY  JOHN   CLAY,  M.A.  AT  THE  UNIVERSITY  PRESS
-
-
->^
-
-CAMBRIDGE:    PRINTED  BY  JOHN  CLAY,  M.A.  AT  THE  UNIVERSITY  PRESS
-
-
-¥
-
-
-PLEASE  DO  NOT  REMOVE
-CARDS  OR  SLIPS  FROM  THIS  POCKET
-
-UNIVERSITY  OF  TORONTO  LIBRARY
-
-
-GN
-668
-
-R55
-v.l
-cop.  2
-
-Wallace
-Room
-
-
-Rivers,  William  Halse
-Rivers
-
-The  history  of  Melanesian
-society
-
-
-SIGMUND  SAMUEL  LIBRARY
+the  married  couple,  there  were  often  other  paramours  apparently chosen  freely  at  the  will  of  husband  or  wife.

@@ -1,0 +1,69 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_godsofegyptianso00budg
+  work_id: egyptian.budge.gods_of_the_egyptians.archive_v1
+  title: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume I
+  source_url: https://archive.org/details/godsofegyptianso00budg
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/project-gutenberg/godsofegyptianso00budg-gods-of-the-egyptians-budge-vol1.txt
+    checksum:
+      algorithm: sha256
+      value: c5072a851d5601cd5d68c4fbf85fe867717ed92a25fd7680badd84b01323f34c
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/project-gutenberg/godsofegyptianso00budg-gods-of-the-egyptians-budge-vol1.md
+    checksum:
+      algorithm: sha256
+      value: ec7319871a82bd62dec459ab12f90b813a8864f8cdd868f0d1f628b1ceebb9cb
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+    checksum:
+      algorithm: sha256
+      value: 1aa1e489322ab5bafc3f71ffe29c1e2f73a96de67220b0afd1be509062b3bb50
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids egyptian.budge.gods_of_the_egyptians.archive_v1
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1904, US public domain. OCR text renders interspersed hieroglyphic
+      transcriptions as noise; the English discussion and hymn translations remain
+      readable and should be extracted during conversion.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

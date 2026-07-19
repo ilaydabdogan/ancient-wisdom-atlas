@@ -1,0 +1,72 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_fourbooksconfuci00leggiala
+  work_id: confucian.four_books.legge_archive
+  title: 'The Four Books: Confucian Analects, The Great Learning, The Doctrine of
+    the Mean, and The Works of Mencius'
+  source_url: https://archive.org/details/fourbooksconfuci00leggiala
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/internet-archive/fourbooksconfuci00leggiala-four-books-confucian-legge.txt
+    checksum:
+      algorithm: sha256
+      value: 36c89167956c9ad23d10e02f7ef60056f5246e20f0d701948eb4f53cd29597ed
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/internet-archive/fourbooksconfuci00leggiala-four-books-confucian-legge.md
+    checksum:
+      algorithm: sha256
+      value: cd65532f7b23693b30d52550a20a7d2624ea1b46bf4dea4382ff80ab4f2579ac
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+    checksum:
+      algorithm: sha256
+      value: 68447343544a3998703459afd40969b4917406174a06abedb206ca00efd4ed7e
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids confucian.four_books.legge_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    full_text: allowed
+    training_use: allowed
+    notes: Bilingual reprint (c. 1900, pre-1930) of James Legge's translations first
+      published 1861-1893; Legge died 1897, so the translation is long out of copyright
+      and the reprint is US public domain. Hosted file is OCR text of a library scan;
+      contains Chinese characters interleaved with English - expect OCR noise needing
+      cleanup during conversion.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

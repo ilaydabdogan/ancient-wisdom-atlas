@@ -1,526 +1,3 @@
-# The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume I
-
-PREFACE
-
-AMONG the various branches of Egyptology which have been
-^closely studied during the last twenty-five years, there are
-none which are more interesting to inquire into, or more difficult
-to understand fully, than the religion and mythology of the inhabitants of the Valley of the Nile. When we consider the number
-of works on these subjects which have been written and published,
-both by expert Egyptologists and by competent exponents of the
-science of religion during that period, such a statement may appear
-at first sight to be paradoxical, and many may think when reading
-it that some excuse must certainly be made for the philosopher
-who asked an eminent professor of Egyptology the somewhat
-caustic question, "Is it true that the more the subjects of Egyptian
-religion and mythology are studied the less is known about them ? "
-The question is, however, thoroughly justified, and every honest
-worker will admit that there are at the present time scores of
-passages, even in such a comparatively well-known religious compilation as the Booh of the Bead, which are inexplicable, and
-scores of allusions of a fundamentally important mythological
-character of which the meanings are still unknown. The reasons
-for this state of things are many, and the chief of them may be
-briefly recalled here.
-
-The custom of relying absolutely upon the information about
-the ancient Egyptian religion and mythology, which is reported by
-Greek historians, was abandoned by Egyptologists long ago, for
-as soon as the native Egyptian religious texts could be read, it
-
-
-viii PREFACE
-
-became evident that no Greek or Latin writer had any exact
-first-hand knowledge of these subjects, and that none of them
-succeeded wholly in reproducing accurately in their works the facts
-concerning them which they derived from Egyptian books or from
-Egyptian priests. This is hardly to be wondered at, for the
-cultured Greek writers must have, and did, as we know, look
-with mingled pity, and contempt, and ridicule, upon the
-animal cults of the Egyptians, and they had no sympathy with
-the materialistic beliefs and with the still more materialistic
-funeral customs and ceremonies, which have been, from time
-immemorial, so dear to certain Hamitic peoples, and so greatly
-prized by them. The only beliefs of the Egyptian religion which
-the educated Greek or Roman truly understood were those which
-characterized the various forms of Aryan religion, namely, the
-polytheistic and the solar ; for the forms of the cults of the dead,
-and for all the religious ceremonies and observances, which presupposed a belief in the resurrection of the dead and in everlasting
-life, and which had been in existence among the indigenous inhabitants of north-east Africa from predynastic times, he had no regard
-whatsoever. The evidence on the subject now available indicates
-that he was racially incapable of appreciating the importance of
-such beliefs to those who held them, and that although, as in the
-case of the Ptolemies, he was ready to tolerate, and even, for state
-purposes, to adopt them, it was impossible for him to absorb them
-into his life. It is important to remember this fact when dealing
-with the evidence of Greek and Roman writers on the Egyptian
-religion and mythology, for it shows the futility of trying to prove
-an absolute identity in the indigenous religions of the Aryans and
-Egyptians.
-
-Now, although a true decipherment of the ancient Egyptian
-hieratic and hieroglyphic texts has enabled us to draw our in-
-
-
-PREFACE ix
-
-formation on the religion and mythology of Egypt from native
-sources, we have still to contend against the ignorance of Egyptian
-scribes and the mistakes of careless copyists, and it must never be
-forgotten that the theologians at the court of the Pharaohs under the
-XVIIIth and XlXth Dynasties were just as ignorant of many facts
-connected with their religion and mythology as we ourselves are.
-In proof of this it is sufficient to refer to the different explanations
-of certain passages which are given along with the text in the
-xviith Chapter of the Booh of the Dead, and to the childish
-punning etymologies of the names of gods and of many mythological explanations which are set down in the texts inscribed on
-the walls of some chambers in the tomb of Seti I. at Thebes, and
-on the walls of the temple of Horus of Behutet at Edfu. It is
-satisfactory to be able to say that many of the absurd etymologies
-and trivial explanations which are products of the scribes of old
-can now be corrected. Recent researches have shown that the
-royal scribes under the ISTew Empire (b.c. 1700-700) were unable
-to read correctly the hieratic characters which formed the names of
-some of the kings of the early Archaic Period, and this being so,
-little surprise need be felt at the difficulties in religious texts
-which are due to their ignorance or blunders. Apart from such
-considerations, however, the subjects of Egyptian religion and
-mythology themselves are full of inherent difficulties, which have,
-unfortunately, not been lessened by the manner in which some
-Egyptologists have treated them.
-
-The number of the gods, even under the IVth Dynasty, about
-B.C. 3600, was very great, and as time went on it multiplied
-greatly. The Pyramid Texts, which were written under the IVth,
-Vth and YIth Dynasties, supply the names of about two hundred
-gods and mythological beings, but in the Booh of the Dead
-according to the Theban Eecension (b.c. 1700-1200) over five
-
-
-X PREFACE
-
-hundred gods are mentioned. If to these be added the names of
-all the mythological beings which occur in the various Books of the
-Underworld, we shall find that the number of the gods who were
-recognized by the theologians of the XlXth Dynast}?- at Thebes
-was about twelve hundred. If all the religious texts of this period
-from all the religious centres of Egypt were available for study,
-we should certainly find that the names of hundreds of additional
-local gods, goddesses, and mythological beings could be collected
-from them. With such a number of gods to consider, it was
-impossible for confusion not to arise in the mind of the Egyptian
-when dealing with them, and the texts prove that he found the
-gods as difficult to group and classify as the modern investigator.
-The attributes of hundreds of them were vague and shadowy, and
-the greater number of them were merely provincial gods, to whom
-circumstances had given some transient importance, which resulted
-in their names being recorded in writing. In fact, the theologian
-of ancient Egypt found it impossible to form a system of gods
-which should be consistent in all its parts, and should assign to
-earth gods, water gods, air gods, village gods, city gods, nome
-gods, national gods, and foreign gods, the exact position and
-attributes which were their due in it. From one point of view
-the modem investigator is more fortunate than the Egyptian
-theologian, for he has more materials upon which to work, and, as
-a rule, he is better equipped for his inquiry. The Egyptian knew
-nothing about the study of comparative religion, and he was sadly
-hampered by his own methods.
-
-Modern scientific study of the Egyptian religion and mythology may be said to have begun with the publication in full of the
-texts, both hieratic and hieroglyphic, of the Heliopolitan, Theban,
-and Saite Recensions of the Book of the Dead (Per-em-hru), and of
-the cognate funeral texts, such as "The Book of what is in the
-
-
-PREFACE xi
-
-Underworld," "The Book of Breathings," "The Book of Transformations," the " Lamentations," and the " Festival Songs of Isis
-and Nephthys," &c. The first to attempt to build up on a large
-scale a system of Egyptian theology and mythology from ancient
-native works was the late De. Heineich Beugsch, who collected
-and published in his Religion unci Mythologie der alien ^gypter,
-Leipzig, 1885-1888, a mass of facts of the greatest importance, and
-a summary of the conclusions which he deduced from them. In
-the same year in which the first section of Dr. Brugsch's work
-appeared, M. Maspero published in the Revue des Religions (tom.
-xii., p. 123 f.) a masterly article, entitled La Religion Egyptienne
-d'apres les pyramides de la V et de la FP dynastie, in which he
-gave to the world some of the results of his study of the " Pyramid
-Texts," which contain the oldest known Recension, i.e., the
-Heliopolitan, of the Booh of the Dead. In 1887, Signor
-Lanzone published the last part of his Bizionario di Mitologia
-Bgizia, which is one of the most valuable contributions to the study
-of Egyptian mythology ever made, and which contains the names
-of a large number of gods, demons, spirits, etc., arranged alphabetically, and a series of drawings of many of them printed in
-outline in red ink. In 1888 and 1889, M. Maspero, in two
-admirable articles in the Revue des Religions (La Mythologie
-Egyptienne, tom. xviii., p. 253 f., and tom. xix., p. 1 f.), discussed
-and criticized both the works of Beugsch and Lanzone, and shed a
-great deal of new light upon the facts collected in both.
-
-To M. Maspero belongs the credit of being the first to
-consider the Egyptian religion and mythology from the anthropological point of view, and all the evidence on these subjects which
-has since become available goes to prove the general correctness of
-the opinion which he stated some fifteen or sixteen years ago.
-Beugsch, it must be admitted, regarded the origin of Egyptian
-
-
-xii PREFACE
-
-religion from too lofty a metaphysical and philosophical standpoint,
-and appealed for proofs of his contentions to Egyptian texts
-belonging to too late a period to be entirely free from the influence
-of Greek culture and thought; in fact, he read into certain
-Egyptian texts, ideas, doctrines, and beliefs which the primitive
-and indigenous Egyptians could never have possessed. On the
-other hand, it seems to me that M. Maspero has somewhat
-underrated the character of the spiritual conceptions of the
-dynastic Egyptians, and that he has done so because, when he
-wrote his great article, La Mythologie Egyjptienne, Egyptologists
-had not thoroughly realized the distinction which exists between
-the primitive or predynastic element in the Egyptian religion and
-the Asiatic element. This element was of a solar character
-undoubtedly, and was introduced into Egypt by the " Followers of
-Horus," or the "Blacksmiths," who invaded the country, and
-conquered the natives, and settling down there, built up the great
-dynastic civilization which we call Egyptian. This seems to be
-the correct explanation of the diversity of view of two such
-eminent experts, and the opposite character of their conclusions
-appears to be due chiefly to the difference of the standpoints from
-which they viewed the subject.
-
-A prolonged study of the religious and mythological texts of
-ancient Egypt has convinced me of the futility of attempting to
-reconcile the conflicting beliefs and to harmonize the contradictory
-statements which are found in them, so long as we regard the
-Egyptian religion as "one in its extension and principle." It
-must first of all be resolved into its constituent elements, and when
-this has been done, it will probably be possible to classify, and
-arrange, and assign to their proper sources the various material
-and spiritual conceptions and beliefs which the Egyptians heaped
-up in their minds and flung together in their religious writings.
-
-
-PREFACE xiii
-
-It must, moreover, be studied by the light which the science of
-comparative religion has given us, and due regard must be paid
-to the important evidence on the subject that may be deduced
-from the remains and monuments of the Predynastic and Archaic
-Periods which have been unearthed during the last few years.
-
-The primitive dwellers in Egypt undoubtedly belonged to a
-large and important section of the inhabitants of North-East
-Africa, and possessed physical and mental characteristics which
-were peculiar to themselves. In the earliest times they were
-savages, and lived and died like savages in other parts of the
-world ; religious belief of any kind, in the modern sense of the
-term, they had none, and they probably regarded the animate and
-inanimate objects which they saw about them as akin to themselves. At a much later period they peopled the earth, air, sky,
-and water with beings of various kinds, and they paid a sort of
-homage or worship to certain stones, trees, and living creatures, in
-which they assumed that they lived. Some beings were held to
-be friendly and others unfriendly ; and it was thought that gifts or
-offerings would secure the continuance of the friendship of the
-former and avert the hostility of the latter. Friendly beings
-gradually became gods, and unfriendly ones were classed as devils,
-and in the ceremonies which the Egyptian savage performed in
-their honour, and in the incantations which he recited, the magic
-of Egypt, the forerunner of her religion, had its origin. The chief
-object of the savage Egyptian was self-preservation, and selfinterest was the mainspring of his actions, all of which were
-undertaken with a view to material benefits. When he first
-becomes known to us in the late Neolithic Period we find that he
-possessed a belief in an existence beyond the grave, and that it was
-of a material character is proved by the fact that he placed offerings
-of food in the graves of the dead. To prevent their return to this
-
-
-xiv PREFACE
-
-world, and their consequent claim for food and other material
-things, the heads of the dead were often severed from their bodies,
-and their feet cut off; thus the living made themselves secure in
-the possession of their homes, and wives, and goods. Nothing is
-known of the Egyptian religion and its ceremonies at this period,
-but whatever they were, it is pretty certain that the object of
-them all was to secure for themselves after death a renewal of life
-which should be full of carnal delights and pleasures, and there is
-no doubt that the ideas of a resurrection from the dead and
-immortality on these lines were firmly implanted in the native
-mind long before the Dynasty Period began.
-
-The cult of Osiris, the dead man deified, and the earliest
-forms of his worship, were, no doubt, wholly of African origin ;
-these are certainly the oldest elements in the religion of the
-Dynastic Period, and the most persistent, for Osiris maintained his
-position as the god and judge of the dead from the Predynastic
-to the Ptolemaic Period. The Followers of Horus, who brought a
-solar religion with them into Egypt from the East, never succeeded
-in dislodging Osiris from his exalted position, and his cult survived
-undiminished notwithstanding the powerful influence which the
-priests of Pa, and the worshippers of Amen, and the votaries of
-Aten respectively exercised throughout the country. The heaven
-of Osiris was believed to exist in a place where the fields were
-fertile and well stocked with cattle, and where meat and drink
-were abundant ; the abodes of the blessed were thought to be
-constructed after the model of the comfortable Egyptian homesteads in which they had lived during life, and the ordinary
-Egyptian hoped to live in one of these with his wives and parents.
-On the other hand, the followers of Ra, the sun-god, believed in a
-heaven of a more spiritual character, and their great hope was to
-occupy a seat in the boat of the god, and, arrayed in light, to travel
-
-
-PREFACE
-
-
-XV
-
-
-whithersoever he went. They wished to become bright and
-shining spirits, and to live upon the celestial meat and drink upon
-which he lived ; as he was so they hoped to be in every respect.
-The materialistic heaven of Osiris appealed to the masses in Egypt,
-and the heaven where Ra lived to the priests of Ea and other solar
-gods, and to royal and aristocratic families, and to the members of
-the foreign section of the community who were of Eastern
-origin.
-
-The various waves of religious thought and feeling, which
-swept over Egypt during the five thousand years of her history
-which are known to us, did not seriously disturb the cult of
-Osiris, for it held out to the people hopes of resurrection and
-immortality of a character which no other form of religion could
-give. Secure in these hopes the people regarded the various
-changes and developments of religious ideas in their country with
-equanimity, and modifications in the public worship of the gods,
-provided that the religious feasts and processions were not interrupted, moved them but little. Kings and priests from time to
-time made attempts to absorb the cult of Osiris into religious
-systems of a solar character, but they failed, and Osiris, the mangod, always triumphed, and at the last, when his cult disappeared
-before the religion of the Man Christ, the Egyptians who embraced Christianity found that the moral system of the old cult
-and that of the new religion were so similar, and the promises of
-resurrection and immortality in each so much alike, that they
-transferred their allegiance from Osiris to Jesus of Nazareth
-without difficulty. Moreover, Isis and the child Horus were
-straightway identified with Maey the Virgin and her Son, and in
-the apocryphal literature of the first few centuries which followed
-the evangelization of Egypt, several of the legends about Isis and
-her sorrowful wanderings were made to centre round the Mother
-
-
-xvi PREFACE
-
-of Cheist. Certain of the attributes of the sister goddesses of
-Isis were also ascribed to her, and, like the goddess Neith of Sais,
-she was declared to possess perpetual virginity. Certain of the
-Egyptian Christian Fathers gave to the Virgin the title "Theotokos," or "Mother of God," forgetting, apparently, that it was an
-of Isis. Interesting, however, as such an investigation would be,
-no attem|)t has been made in this work to trace out the influence of ancient Egyptian religious beliefs and mythology on
-Christianity, for such an undertaking would fill a comparatively
-large volume.
-
-From what has been said in the preceding pages the plan
-followed in the preparation of the present volumes will be evident.
-In the opening chapter an attempt has been made to describe the
-religious beliefs of the primitive Egyptians, and to explain how
-their later ideas about the " gods " and God grew up, and how they
-influenced the religious writings and paintings of the Dynastic
-Period. The region which is commonly called Heaven, or the
-" Underworld," and its denizens are next considered at some length,
-and this section is followed by chapters on the ancient myths of
-Ra, the legend of Ra and Isis, and the legend of the destruction of
-mankind. The hieroglyphic texts of the myths and legends are
-given with interlinear transliteration and translation, so that the
-student may verify my statements for himself. Of the minor gods
-and demons, of which nothing but the names are known, lists only
-are printed. The great gods of Egypt have been grouped as far as
-possible, and they are discussed in connection with the various
-religious centres to which they belong, e.g., Ptah, Sekhet, and
-I-em-hetep with Memphis, Amen, Mut, and Khensu with Thebes,
-and the " Great Company " of the gods with Heliopolis. Speaking
-generally, the first volume of this work treats of the oldest and
-
-
-PREFACE xvii
-
-greatest gods and triads of gods of Egypt, and the second, of the
-gods of Heliopolis, among whom are included Osiris and the deities
-of his funeral cycle. The hymns to the gods have been freely
-quoted, because they illustrate so clearly the views which the
-Egyptians held concerning them, and the manner in which they
-sought to praise them. In a chapter entitled "Miscellaneous
-Gods" will be found several lists of gods of the hours, days,
-months, winds, Dekans, etc., which I have collected from Dr.
-Brugsch's Thesaurus of astronomical and other texts ; for the main
-facts given in these volumes the authorities, both ancient and
-modern, will be found at the foot of the pages wherein they are
-first mentioned.
-
-Most of the portraits of the gods which appear in the coloured
-plates have been reproduced from papyri, coffins, etc., but for the
-outlines of a few I am indebted to Signor Lanzone's Dizionario
-Mitologia Egizia, the value of which has been already mentioned.
-It has been thought advisable to print the portraits of the gods
-which are not taken from papyri upon a papyrus-coloured ground,
-and to enclose each within a coloured border, for the effect is
-better, and the plan is consistent with that followed by the
-ancient Egyptian artists at aU periods.
-
-My thanks are due to Reginald Lake, Esq., of Messrs.
-Gilbert & Rivington, and to Mr. G. E. Hay and Mr. F. Rainer, of
-his staff, for the care and attention which they have taken in
-printing this work.
-
-E. A. WALLIS BUDGE.
-
-London, September 5th, 1903.
-
-
-CONTENTS
-
-
-CHAP. PAGE
-
-I. The Gods of Egypt 1
-
-Appendix : Unas, the Slayer and Eater of the Gods —
-Hieroglyphic text with interlinear transliteration
-
-AND translation 45
-
-II. Conception of God and the "Gods" 57
-
-III. Primitive Gods and Nome-Gods . . . . .95
-
-IV. The Companions of the Gods in Heaven .... 156
-V. The Underworld 170
-
-VI. Hell and the Damned 263
-
-VII. The oldest Company of the Gods and the Creation . . 282
-
-VIII. History of the Creation of the Gods and of the World —
-
-Hieroglyphic text with interlinear transliteration t
-
-and translation 308
-
-IX. Ea, the Sun-God, and his forms 322
-
-X. The Myths of Ea . .359
-
-XI. The Legend of Ea and Isis — Hieroglyphic text with interlinear transliteration and translation .... 372
-
-XII. The Destruction op Mankind — Hieroglyphic text with
-
-interlinear transliteration and translation . . . 388
-
-XIII. Thoth, and Maat and the other Goddesses who were
-
-associated with him . 400
-
-XIV. Hathor and the Hathor-Goddesses 428
-
-XV. The Horus Gods 466
-
-XVI. The Great Triad op Memphis, Ptah, Sekhet, and I-em-hetep 500
-
-
-LIST OF ILLUSTRATIONS
-
-
-1. Usertsen II. receiving " life " from the god Sept
-
-2. The serekh of Barneses II.
-
-3. The serpent-headed leopard Setcha
-
-4. The eagle-headed lion Sefer
-
-5. The fabulous beast Sak
-
-6. A fabulous leopard
-
-7. The animal Sha
-
-8. The First Hour of the Night
-
-9. The Second Hour of the Night
-
-10. The Third Hour of the Night
-
-11. The Fourth Hour of the Night
-
-12. The Fifth Hour of the Night
-
-13. The god on the top of the Steps
-
-14. The Eighth Hour of the Night
-
-15. The Ninth Hour of the Night
-
-16. The Tenth Hour of the Night
-
-17. The Eleventh Hour of the Night
-
-18. The gate of the Twelfth Hour of the Night
-
-19. Sunrise ......
-
-20. Book of the Underworld — First Hour
-
-21. Book of the Underworld — Second Hour
-
-22. Book of the Underworld — Third Hour
-
-23. Book of the Underworld — Fourth Hour
-
-24. Book of the Underworld — Fifth Hour
-
-25. Book of the Underworld — Sixth Hour
-
-26. Book of the Underworld — Seventh Hour
-
-27. Book of the Underworld — Eighth Hour
-
-28. Book of the Underworld — Ninth Hour
-
-29. Book of the Underworld — Tenth Hour
-
-30. Book of the Underworld — Eleventh Hour
-
-31. The Oldest Company of the Gods
-
-32. The Cow-goddess Nut
-
-33. Thothmes IV. making offerings to the Sphinx
-
-34. Horus of Behutet armed with a bow and arrows
-
-35. The double god Horus- Set
-
-36. Seker-Asar
-
-37. Ptolemy Euergetes and the Hennu-Boat
-
-38. Asar-Hapi (Serapis) ....
-
-
-and
-
-
-FAQE
-
-
-club . . 474
-
-
-r
-
-
-THE
-
-GODS OF THE EOYPTIANS
-
 CHAPTER I
 THE GODS OF EGYPT
 
@@ -939,8 +416,7 @@ shine was more powerful than the one that governed the moon,
 and the spirit of a great tree was mightier than the one that
 animated an ear of corn or a blade of grass. The difference
 between the supposed powers of such spirits must have been
-distinguished at a very early period, and the half-savage inhabitants of Egypt must at the same time have made a sharp distinc-
-tion between those whose operations Avere beneficial to them, and
+distinguished at a very early period, and the half-savage inhabitants of Egypt must at the same time have made a sharp distinction between those whose operations Avere beneficial to them, and
 those whose actions brought upon them injury, loss, or death. It
 is easy to see how they might imagine that certain great natural
 objects were under the dominion of spirits who Avere capable of
@@ -2078,7 +1554,6 @@ the example of wild and savage beasts and ate the foes they had
 
 
 A/^AAA^
-1
 
 
 line 629.
@@ -2459,9 +1934,6 @@ die Icau Unds ha -f du hemu set-fi?)
 Are the doubles of Unas behind him, the conquered [are]
 
 
-I I I
-
-
 kher retui-f du neteru-f tep-f du dart - t
 
 beneath his two feet. His gods are on him. His uraei are
@@ -2765,12 +2237,8 @@ my Chapters of Coming Forth hy Day, Text, p. 259, 1. 41
 1 veJ
 
 
-AAAAAA
-
 E
 
-
-8
 
 i?^-^ wanting.
 
@@ -2891,13 +2359,7 @@ em khepeshu nu semsu - sen du Perer - dmu - pet
 with the thighs of the eldest ones. Perer-amu-pet
 
 
-1
-
-
 -Ro'
-
-
-0
 
 
 o
@@ -3106,9 +2568,6 @@ are in his belly, not is turned back the sahu of Unas
 
 
 H
-
-
-1
 
 
 ma-f du dm - nej sda en neter neb
@@ -3387,8 +2846,7 @@ the Setcha which
 united within itself
 the strength of the
 leopard with the
-cunnino; of the serpent, and the name-
-less leopard with a man's winged head, or to the ignorance of
+cunnino; of the serpent, and the nameless leopard with a man's winged head, or to the ignorance of
 the ancients of natural history. The human head on an animal
 represented the intelligence of a man, and the wings the swift
 flight of the bird, and the body of the leopard the strength and
@@ -3397,8 +2855,7 @@ such creatures the imagination may have been assisted in its
 fabrication of fabulous monsters by legends or stories of predynastic animals which were current in certain parts of Egypt
 during the dynastic period.
 Thus, as we have said before,
-the monster serpents of Egyptian mythology have their pro-
-totypes in the huge serpents
+the monster serpents of Egyptian mythology have their prototypes in the huge serpents
 which lived in the country in
 primeval times, and there is
 no doubt that Apep was,
@@ -3910,9 +3367,6 @@ tchel - tu re pen her
 Shall be said this chapter over
 
 
-1
-
-
 neter - hid
 I have become neter.
 
@@ -3932,14 +3386,8 @@ I have risen up
 n
 
 
-1
-
-
 w
 em &(i^ Tze^rz
-
-
-1
 
 
 Hefe?' - hud
@@ -3965,9 +3413,6 @@ unen-f neter md neteru em Neter -hhertet
 
 His being neter with the gods in the Neter-khertet.
 (or, he shall be)
-
-
-1
 
 
 du - /
@@ -3999,9 +3444,6 @@ They make neter thy soul in the house of Sebut.
 netri - / })a - h md neteru
 
 He makes neter thy soul like the gods.
-
-
-0
 
 
 neter netri Icheper tchesef paut
@@ -4586,8 +4028,6 @@ The Afu (Pepi II. 951), —
 The Utennu (Pepi II. 951),
 
 
-AAAAAA
-
 ODD
 
 
@@ -5048,11 +4488,9 @@ must have been twenty-seven in number, i.e., ten in Upper Egypt,
 ten in Lower Egypt, and seven in the Heptanomis. On the other
 hand, Herodotus says ^ that the Labyrinth contained twelve halls.
 Pliny (Bk. v., chap. 9) enumerates the nomes as follows: —
-Ombites, Apollopolites, Hermonthites, Thinites, Phaturites, CoptiteSjTentyrites, Diopolites, Antaeopolites, Aphroditopolites, Lycopo-
-lites, Pharbaethites, Bubastites, Sethroites, Tanites, the Arabian
+Ombites, Apollopolites, Hermonthites, Thinites, Phaturites, CoptiteSjTentyrites, Diopolites, Antaeopolites, Aphroditopolites, Lycopolites, Pharbaethites, Bubastites, Sethroites, Tanites, the Arabian
 nome, the Hammonian nome, Oxyrynchites, Leontopolites, Athribites, Cynopolites, Hermopolites, Xoites, Mendesium, Sebennytes,
-Cabasites, Latopolites, Heliopolites, Prosopites, Panopolites, Busirites, Onuphites, Saites, Ptenethu, Phthemphu, Naucratites, Mete-
-lites, Grynaeopolites, Menelaites, Maraeotis, Heracleopolites, Arsinoites, Memphites, and the two nomes of Oasites. Diodorus Siculus
+Cabasites, Latopolites, Heliopolites, Prosopites, Panopolites, Busirites, Onuphites, Saites, Ptenethu, Phthemphu, Naucratites, Metelites, Grynaeopolites, Menelaites, Maraeotis, Heracleopolites, Arsinoites, Memphites, and the two nomes of Oasites. Diodorus Siculus
 (i. 54) gives the number of the nomes as thirty-six ; ^ Herodotus
 (ii. 164) tells us that the country of Egypt was divided into
 districts ^ or nomes, but he does not say how many of them there
@@ -5170,9 +4608,6 @@ Shashetep
 
 
 Khnemu
-
-
-5
 
 
 (Hypsele)
@@ -5383,13 +4818,7 @@ accounts of the temple were kept by the "scribe of the temple,"
 'Of
 
 
-1
-
-
 102 NOME-GODS
-
-
-1
 
 
 , and, in large temples, one or more scribes kept a
@@ -5711,14 +5140,6 @@ the . . . . ; he cometh forth and raiseth himself up in heaven.
 1 See Teta, 1. 209. 3 See Unas {Becueil), torn, iii , pp. 209-211.
 
 
-3
-
-4
-
-
-5
-
-
 DEIFICATION OF THE DEAD
 
 
@@ -5751,14 +5172,9 @@ the following exhibit variant readings which appear to indicate
 changes of belief.
 
 
-AAAAAA
-
-
 D
 
 A,WVNA
-
-5
 
 
 minim
@@ -5953,9 +5369,6 @@ Gods, indeed the name "Khemennu," 5, means ''the city of the
 Eight Gods." The names of these gods Avere : — 1. Nu,
 
 
-AAAAAA
-
-
 5. Kekdi, ^W^-T"^- 6. Kekuit, ^W^-j^'^. 7.
 
 leader Tehuti, or Thoth, they formed one of the oldest of the
@@ -6093,9 +5506,6 @@ Tem produced the two gods that issued from himself, i.e., Shu and
 Tefnut, by masturbation,^ and there is little doubt that in making
 this declaration they were repeating what the half savage and
 primitive Egyptians may really have believed; but it would be
-
-
-1
 
 
 NOTION OF DIVINE UNITY 117
@@ -6363,12 +5773,6 @@ i.e., the things which will come to pass by God's agency cannot be
 known, that is to say, God's ways are inscrutable.
 
 
-I I I
-
-
-1
-
-
 du dm tail Jcher sehher neter
 
 The eating of bread is according to the plan of God,
@@ -6441,9 +5845,6 @@ A
 sehet&p dqu - h em Ihepert-neh l-Jiejyert
 
 Satisfy thy dependants by thy actions ; it should be done
-
-
-1
 
 
 (5??. //esesu neter
@@ -6587,8 +5988,6 @@ pa
 The
 
 
-1
-
 netei
 
 
@@ -6616,9 +6015,6 @@ the canon.
 
 du tdii
 Giveth
-
-
-1
 
 
 neter-hu
@@ -6658,8 +6054,6 @@ pa
 the
 
 
-1
-
 neter emtuf setemu sebhu-set
 
 God [and] he hearken unto her prayers "
@@ -6677,8 +6071,6 @@ pa
 the
 
 
-1
-
 neter
 God,
 
@@ -6691,8 +6083,6 @@ PRECEPTS OF KHENSU-HETEP
 
 I
 
-
-1
 
 saim - Jc sn em-ment en pa neter
 
@@ -6768,9 +6158,6 @@ utemm-tuh
 thine offerings.
 
 
-1
-
-
 e
 
 
@@ -6825,9 +6212,6 @@ plans.
 qenteb emtuh senenti-tu
 
 Devote thyself to the adoration
-
-
-1
 
 
 lit I
@@ -6994,9 +6378,6 @@ AAftAAA
 H
 
 
-I I I
-
-
 Pfli
 
 
@@ -7040,8 +6421,6 @@ Icheper
 
 " came into being
 
-
-1
 
 nete7
 ofod
@@ -7182,12 +6561,6 @@ that the manner in which the beings and things produced by the
 Paut came into being is unknown, and that he appears under many
 forms. We may here refer to the passage in the XVIIth Chapter
 of the Booh of the Dead (line 9), wherein it is said : —
-
-
-0
-
-
-1
 
 
 ODD
@@ -8017,8 +7390,7 @@ of Osiris. The god Thoth was the personification of the intelligence
 of the whole company of the gods, and thus the words Avhich he
 taught Isis were divine, and they were, presumably, names by the
 utterance of which the gods themselves maintained their existence.
-Now when Osiris had been raised from the dead he did not continue his life upon earth, but passed into the region of the Under-
-world, where he became the judge and god of the dead and, as we
+Now when Osiris had been raised from the dead he did not continue his life upon earth, but passed into the region of the Underworld, where he became the judge and god of the dead and, as we
 have seen, was made the possessor of all the attributes of the Sungod Ra and of the great One God. But, the Egyptians in the
 early ages thought. Since Osiris was raised to life by the words and
 ceremonies which Thoth taught Isis, and since Osiris has gained
@@ -8272,9 +7644,6 @@ sceptres the four pillars of heaven, which eventually became the
 ^m^m F=^'J^f' — ^ — Clj] — ^ il^-^JL
 
 - See Brugsch, Worterbuch, p, 1351.
-
-
-I I I
 
 
 158 THE FOLLOAVERS OF HORUS
@@ -8590,8 +7959,6 @@ beatified. The bread upon which the blessed fed themselves was
 that bread which the Eye of Horus shed upon the branches of the
 
 
-0
-
 Finally, the blessed were arrayed in apparel similar to that which
 was worn by the gods, but they also had white linen garments on
 their bodies, and white sandals on their feet.
@@ -8685,9 +8052,6 @@ to have needed a ladder, and to have been helped to ascend it by
 Ra and Horus, or by Horus and Set. The idea of the need of a
 ladder was deeply seated in the Egyptian mind, for when the
 custom of placing models of ladders in the tombs ceased, they drew
-
-
-AAAAAA
 
 
 rO % 0 "^ , Unas, 1. 181.
@@ -9034,9 +8398,6 @@ Arret V. 1. Ankh - em - fentu.
 f
 
 
-I I I
-
-
 Ashebii,
 
 
@@ -9095,9 +8456,6 @@ Aarrn,
 
 
 V
-
-
-I I I
 
 
 or Sekhet-Aanre,
@@ -9480,9 +8838,6 @@ magnified
 the forms of God,
 
 
-I I I
-
-
 (S
 
 
@@ -9815,9 +9170,6 @@ Horus. 3. Three star gods, who tow a small boat in which are
 called Besi, J I [In, pouring flame upon a standard surmounted
 
 
-1
-
-
 i
 
 
@@ -9904,8 +9256,6 @@ but they " tore their hair in grief before the great god in Amentet,
 
 Sharpe, op. cit., pi. 10.
 
-
-4
 
 AAA/V^A
 
@@ -11370,9 +10720,6 @@ the emblem of desert; their names are Pesi, (1(1, Rekhit,
 Her-sha-s, f=^ a—*-, and Sait, ^00^. Each
 
 
-I I I
-
-
 name has a meaning something like " fiery," and refers to the
 goddesses in their character of mistresses of the blazing desert.
 Finally, behind these comes the god Her-ut-f, p=q J^ , who
@@ -11708,8 +11055,7 @@ dissatisfied Avith and unconvinced of the accuracy of the theory of
 
 HELL AND THE DAMNED 265
 
-the annihilation of the wicked, assigned to evil souls dwellingplaces with the personifications of the powers of nature already-
-mentioned in the Tuat. The spears which pierced the enemies of
+the annihilation of the wicked, assigned to evil souls dwellingplaces with the personifications of the powers of nature alreadymentioned in the Tuat. The spears which pierced the enemies of
 Ra were the fiery rays of the sun, and the knives which hacked
 their bodies in pieces were his flames of fire ; and the lakes and
 pits of fire were suggested to the minds of the primitive Egyptians
@@ -12446,8 +11792,6 @@ CHAFPER VII
 
 THE OLDEST COMPANY OF THE GODS AND
 
-THE CREATION
-
 
 IN the earlier chapters of this work mention has been made
 of three companies of gods, the existence of which was
@@ -12456,8 +11800,7 @@ a company of gods usually consisted of four pairs of deities, four
 gods and four goddesses, and a president or chief of the same.
 We have also shown that a jmiit or company of gods did not
 necessarily contain nine deities only, and that it as often as not
-was supposed to include more than nine gods. Originally, however, the Helio-
-politan priests, or
+was supposed to include more than nine gods. Originally, however, the Heliopolitan priests, or
 the authors of the
 theological system
 exhibited in the
@@ -12643,9 +11986,6 @@ The characteristics of the fourth pair of gods, Kekh,
 
 and the texts in some places give quite different names where we
 should expect to find theirs ; thus we have Ni, () [) Jj HHL , or
-
-
-AAAAAA
 
 
 /V)AAAA
@@ -12955,8 +12295,6 @@ made for reciting it there. Be this as it may, our present interest
 in the papyrus centres in the fact that it contains two copies of
 
 
-294 THE CREATION
-
 the story ^ of the Creation which are of the greatest interest.
 Curiously enough, each copy is inserted among the Chapters in the
 main body of the work, and it seems as if they represent two
@@ -12995,8 +12333,6 @@ step farther, and imagined that it must be pushed across the sky
 
 ^ The first copy is in column xxvi. and the second in column xxviii.
 
-
-THE CREATION 295
 
 by a gigantic beetle just as the dung ball was rolled over the
 ground by a beetle on earth, and in pictures of the sunrise we
@@ -13203,7 +12539,6 @@ one after the other at one birth, and these deities multiplied
 
 J I
 
-1
 
 Q. I
 
@@ -13290,8 +12625,6 @@ certain stone, and inscribed with a name, by and through and in
 which its owner would enjoy life and happiness.
 
 
-302 THE CREATION
-
 Returning to our narrative we find that the god continues,
 " I came into being from primeval matter, and I appeared under
 " the form of multitudes of things from the beginning. Nothing
@@ -13350,8 +12683,6 @@ idea which is wholly wanting in the first. We next read, " I
 ' unto me from out of my hand. The seed fell into my mouth,
 ' and I sent forth from myself the gods Shu and Tefnut, and from
 
-
-THE CREATION 303
 
 '' being one god (or, the one god) I became three, that is to say,
 " the two other gods who came into being, m
@@ -13429,8 +12760,6 @@ black-skinned races of Nubia who lived on the banks of the Nile
 
 1 See Bonomi and Sharpe, Sarcophagus of Oimeuejjthah, pll. 7 and 6d.
 
-
-THE CREATION 305
 
 so far south as the Sixth Cataract, and, as we have ah-eady said,
 the legend as to the origin of the gods Shu and Tefnut is far more
@@ -13613,9 +12942,6 @@ the creator of what came into all; after my coming into many
 being being
 
 
-THE CREATION
-
-
 hheperu em ])er em re-d an
 
 [were] the things which coming forth from my mouth. Not
@@ -13623,9 +12949,6 @@ came into being
 
 
 s:
-
-
-1
 
 
 hhe'per pet an Ichejper ta an qemam
@@ -13646,9 +12969,6 @@ the things of the earth, and creeping
 
 
 bet
-
-
-I I I
 
 
 em
@@ -13730,9 +13050,6 @@ I was alone, [for] not had I spit in the form of Shu,
 
 an
 not
-
-
-THE CREATION
 
 
 tef-nd
@@ -13848,9 +13165,6 @@ mesu-sen
 dnuJi
 
 
-0
-
-
 ra
 
 
@@ -13920,9 +13234,6 @@ my own,
 of Shu, nor the moisture which took the form of Tefnut.
 
 
-THE CREATION
-
-
 i
 
 
@@ -13966,15 +13277,9 @@ henhenti
 uaii-sen
 
 
-I I I
-
-
 my eye behind them, because for double henti they proceeded
 
 periods
-
-
-1
 
 
 er-d em-hhet Jcheper-d em neter ud neter hhemt
@@ -14026,7 +13331,6 @@ Tdfnut
 [and] Tefnut
 
 
-AAAAAA
 fJW'.AA
 
 
@@ -14073,9 +13377,6 @@ After
 dref sam-nd dt-d
 
 therefore I had united my members
-
-
-312 THE CREATION
 
 
 ^AAAA/^A
@@ -14144,9 +13445,6 @@ with what it hath in it. I came forth from (or, in the plants,
 taken possession of the form of)
 
 
-THE CREATION 313
-
-
 tchetfet neht hheper nebt dm-sen
 
 creeping things all, [and] things which all [are] in them.
@@ -14200,9 +13498,6 @@ sekher Apep tchettu Neb-er-icher tchet-f
 
 [and] of over- Apep. The words of Neb-er-tcher. He says : —
 throwing
-
-
-THE CREATION
 
 
 kheper-d hheper kheperu
@@ -14298,9 +13593,6 @@ em /5a pen usekht-nd dm - / thes-nd
 in earth this, [and] I have spread abroad in it ; I raised up
 
 
-THE CREATION 315
-
-
 tet-d udu-hud an mes-sen an
 
 my hand. I was alone ; not born [were] they. Not
@@ -14343,9 +13635,6 @@ I ^ _Mi^ I S AAAAAA i! W 1 1
 hheperu neht em ta pen dri-nd dri
 
 created things any in land this ; I made whatsoever was made
-
-
-THE CREATION
 
 
 M
@@ -14401,7 +13690,6 @@ therein by means of divine soul that [which] I raised up
 w
 
 
-AAAAAA
 AA/VUVN
 
 
@@ -14479,8 +13767,6 @@ was made
 
 I
 
-0
-
 
 all. I was alone, I laid a foundation in my heart,
 
@@ -14490,9 +13776,6 @@ I
 
 (jemam-na
 I made
-
-
-0
 
 
 Jci Jiheperu dsht hlieperu nu
@@ -14510,13 +13793,7 @@ Khepera
 which came into being
 
 
-THE CREATION 317
-
-
 rtiPiP.T, k ^TMi ? m^
-
-
-I I I
 
 
 hheper an mesu-sen em Jcheperu nu mesu-sen
@@ -14563,9 +13840,6 @@ sam-nd em dt-d per-sen dmi tches-d em-hhet
 I collected my members, they came forth from myself after
 
 
-THE CREATION
-
-
 ra
 
 
@@ -14603,9 +13877,6 @@ r-rr-il
 my mouth, I spat
 
 
-0
-
-
 Col. xxix. 1. ^ R (3
 
 em Shu
@@ -14615,12 +13886,6 @@ tdf-nd
 
 
 in the form of Shu, I emitted water
-
-
-1
-
-
-1
 
 
 e??i Tdfnut hhefer-nd em neter ud neteru
@@ -14692,19 +13957,11 @@ Saith
 is repeated, apparently by inadvertence, in the papyrus.
 
 
-I I I
-
-
-THE CREATION
-
-
 dtef-d
 my father
 
 uahu
 
-
-(3 AAAAAA
 
 Nu
 
@@ -14752,9 +14009,6 @@ I endowed it with power. It raged at me
 w
 
 
-0
-
-
 em-Jchet
 after
 
@@ -14784,9 +14038,6 @@ the bushes [which] I placed there to make adornment in it.
 
 
 se-ndd dm-s
-
-
-THE CREATION
 
 
 S'
@@ -14865,9 +14116,6 @@ I I
 fi
 
 
-I I I
-
-
 mesu-sen
 their children.
 
@@ -14884,17 +14132,11 @@ ren-a
 my name.
 
 
-0
-
-
 hheperu nu
 the beings of
 
 seJcher-sen
 they overthrow
-
-
-I I I
 
 
 U
@@ -14942,9 +14184,6 @@ sau her
 the overthrow of Apep, who is to be bound by the two hands
 
 
-THE CREATION
-
-
 671 AJcer an un ddui - f an im retui -/
 
 of Aker, not may be his two hands, not may be his two feet,
@@ -14954,9 +14193,6 @@ i
 
 
 ^ l^oJl'
-
-
-I I I
 
 
 satet - f en dst ud md Jm Rd setchebu-f
@@ -16676,8 +15912,6 @@ Thom-pson, The Devils and Evil Spirits of Babylonia, vol. i., Introduction, attl
 i. i
 
 
-360 RA AND ISIS
-
 " * and that I may tear asunder the flesh of the gums. In this wise
 " ' I shall have power over the bolt of the door ' (i.e., the mouth of a
 " man). Therefore, 0 sick man, shaltthou say the following words,
@@ -17157,9 +16391,6 @@ menmen
 of cattle.
 
 
-I I I
-
-
 apt
 
 
@@ -17199,9 +16430,6 @@ Idler ud henti er renput dslti renu
 
 form one, [to whom] periods [are] as years, of many names,
 of 120 years
-
-
-RA AND ISIS
 
 
 w
@@ -17282,9 +16510,6 @@ ta ma Ba dri kert
 [and] earth like Ra [and] make herself mistress of the earth
 
 
-1
-
-
 netert
 
 
@@ -17300,14 +16525,9 @@ er rekh
 by knowing
 
 
-1
-
 ren neter shepsi
 
 the name of the god holy ? "
-
-
-RA AND ISIS
 
 
 A
@@ -17353,16 +16573,10 @@ hhuti
 of the two horizons.
 
 
-1
-
-
 w
 
 
 T
-
-
-AAAAAA
 
 
 he poured out
@@ -17421,9 +16635,6 @@ sacred, [and] she made [it] in
 A
 
 
-AAAAAA
-
-
 qad
 
 heti
@@ -17445,8 +16656,6 @@ did it move along
 dnhli-thd
 alive
 
-
-RA AND ISIS
 
 er hheft-set khad-set
 
@@ -17546,9 +16755,6 @@ w
 dm - f tchesef ter-nes dmi na dshu
 
 from him himself, it destroyed the dweller in the cedars.
-
-
-RA AND ISIS
 
 
 neter netri
@@ -17682,9 +16888,6 @@ smen-nef db -f
 stablished his heart.
 
 
-RA AND ISIS
-
-
 Ijnds'] - f er
 he [cried] out to
 
@@ -17727,7 +16930,6 @@ A □
 
 
 AAAAA^
-I I I
 
 
 khejperd-set
@@ -17780,8 +16982,6 @@ dn teptu-d ment mdtet-set dn meru
 
 not have I tasted pain like it, never was deadly [anything]
 
-0
-
 
 er-s
 more than it.
@@ -17798,9 +16998,6 @@ a prince,
 sa ser
 
 the son of a prince,
-
-
-RA AND ISIS
 
 
 e
@@ -17880,9 +17077,6 @@ hehau-d en heJcai er-d
 him Avho would enchant me by enchantments over me.
 
 
-RA AND ISIS
-
-
 peru-h er
 
 1 had come forth from
@@ -17932,8 +17126,6 @@ dstiti
 fire, my limbs [are] trembling, [my] members contain
 
 
-I I I
-
 mesu hesiu
 
 the children of quakings.
@@ -17957,9 +17149,6 @@ khui
 mighty
 
 
-I I I
-
-
 metet
 of words,
 
@@ -17980,9 +17169,6 @@ their powers,
 peh-sen her
 
 they reach to heaven.
-
-
-RA AND ISIS
 
 
 A
@@ -18060,8 +17246,6 @@ e III
 ism.
 
 
-1
-
 tchet-set md pu-u dtef neter petrd tchetji
 
 She said, What is this, 0 father god ? What is it ? A snake
@@ -18113,11 +17297,6 @@ I will make it to depart from
 sati-h
 
 
-RA AND ISIS
-
-
-1
-
 netei
 
 
@@ -18130,9 +17309,6 @@ X
 
 dpu~nef re - /
 opened his mouth :
-
-
-0
 
 
 D
@@ -18230,9 +17406,6 @@ qehehh-kiid
 I am colder
 
 
-AAAAAA
-
-
 than water.
 
 
@@ -18290,9 +17463,6 @@ I
 maat-d dn smen dn qemhu-d
 
 my eye is without stability, I cannot see
-
-
-RA AND ISIS
 
 
 /VWVW
@@ -18363,9 +17533,6 @@ who hath declared
 
 ren - f
 his name.
-
-
-0
 
 
 s
@@ -18441,9 +17608,6 @@ sesheta
 netchem netcltemiu nuk dri pet
 
 of the joys of love. I am the maker of heaven and have covered over
-
-
-RA AND ISIS
 
 
 ? mil -
@@ -18576,9 +17740,6 @@ khet dnkhet er sekhejperu kat en amu
 of flame of life making to be performed works in the houses.
 
 
-RA AND ISIS
-
-
 hiauu
 
 
@@ -18642,14 +17803,11 @@ en
 to
 
 
-0
 I
 
 Rd
 Ra
 
-
-1
 
 an netchem neter da
 
@@ -18671,7 +17829,6 @@ said to me ;
 
 
 a
-0
 
 
 tchet-k
@@ -18749,9 +17906,6 @@ than the flame
 of
 
 
-RA AND ISIS
-
-
 art tchet dn hen en
 
 fire. Said the majesty of
@@ -18770,8 +17924,6 @@ A
 per em ren-a
 shall come forth my name
 
-
-0
 
 Rd tdt-nd
 
@@ -18849,21 +18001,13 @@ Q AAAAAA
 em dnkh
 
 
-1
-
 netef
-
-
-1
 
 
 w
 ertdt 7ieter maati-f
 
 sworn by the life of the god that the god will give his tAvo eyes.
-
-
-1
 
 
 e
@@ -18886,9 +18030,6 @@ of power [said]: —
 
 
 c c
-
-
-RA AND ISIS
 
 
 Run out,
@@ -19043,9 +18184,6 @@ em ren - f tchesef
 by his name his own.
 
 
-RA AND ISIS
-
-
 tchet
 
 
@@ -19067,9 +18205,6 @@ hend
 and
 
 
-AAAAAA
-
-
 Ileru-Tiekennu
 Heru-hekennu,
 
@@ -19083,9 +18218,6 @@ CHAPTER XII
 THE DESTRUCTION OF MANKIND
 
 EGYPTIAN TEXT WITH TRANSLITERATION AND TRANSLATION
-
-
-1
 
 
 netev khefer tchesef em-kliet un-nef em
@@ -19111,7 +18243,6 @@ m
 neteru
 
 
-I I I
 em khet
 and of gods, and of creation,
 
@@ -19218,11 +18349,7 @@ uneniu hend-d dstu-d em Nu liena kher
 who lived Avith me when behold I was in Nu, together with
 
 
-1
-
-
 ^7^7^ AA^AAA
-AAAAAA
 
 
 i 1
@@ -19242,9 +18369,6 @@ Nu.
 dn-nef shenthi - f
 
 Let him bring his ministers
-
-
-1
 
 
 dn-nek set em
@@ -19278,13 +18402,7 @@ dh-sen
 their hearts.
 
 
-I I I
-
-
 Ld
-
-
-I I I
 
 
 liend - f
@@ -19407,9 +18525,6 @@ of rational beings.
 n
 
 
-I I I
-
-
 tchet dn sen kheft
 
 They said before
@@ -19428,9 +18543,6 @@ metu-en-n
 Speak to us,
 
 
-I I I
-
-
 er setem-en-set
 
 
@@ -19444,9 +18556,6 @@ Ra
 
 
 DDO
-
-
-AAAAAA
 
 
 en
@@ -19474,7 +18583,6 @@ DESTRUCTION OF MANKIND
 inii?--^
 
 
-AAAAAA
 J] I I I
 
 
@@ -19507,7 +18615,6 @@ f::^ AAAAAA
 I I I I I I
 
 
-AAAAAA
 J] I I I
 
 
@@ -19531,14 +18638,7 @@ hehi'd dn sma-nd set er setemu-d
 seek out a plan for me. Not will I slay them until I hear
 
 
-AAAAAA
-I I I
-
-
 I AAAAAA
-
-
-AAAAAA
 
 
 tchet-thd ten er-s tchet dn hen en
@@ -19560,8 +18660,6 @@ I
 Rd
 of Ra
 
-
-1
 
 neter da er dri su
 
@@ -19641,9 +18739,6 @@ er set dh-sen
 into the mountain, their hearts
 
 
-I I I
-
-
 sentu
 are afraid
 
@@ -19652,8 +18747,6 @@ her tcJief e7i sen
 
 because of what they have said.
 
-
-I I I
 
 tcliet dn-sen
 They said
@@ -19677,9 +18770,6 @@ Let go forth thine Eye, let it destroy for thee
 ill
 set
 those
-
-
-I I I
 
 
 navii
@@ -19726,9 +18816,6 @@ set has
 [when] it goeth down
 
 
-1
-
-
 iu dn eref
 Went forth then
 
@@ -19761,9 +18848,6 @@ Said
 
 
 DESTRUCTION OF MANKIND
-
-
-1
 
 
 □
@@ -19825,9 +18909,6 @@ du-d er sekhem
 I will be master
 
 
-I I I
-
-
 }
 
 
@@ -19842,7 +18923,6 @@ destroying them. It came to pass that
 
 
 izsz: ^ X
-I I I
 
 Sekhet pu shehebet
 
@@ -19875,14 +18955,7 @@ er rehet her
 waded about in
 
 
-AAAAAA
-AAAAAA
-
-
 w
-
-
-0
 
 
 shad
@@ -19921,9 +18994,6 @@ seklisekhsen
 they shall run
 
 
-I I I
-
-
 shut en
 
 [like] the wind of
@@ -19943,8 +19013,6 @@ messengers
 
 D
 
-AAAAAA
-
 
 w
 
@@ -19954,12 +19022,7 @@ d'pen her dui
 these straightway.
 
 
-1
-
-
 D
-
-AAAAAA
 
 
 I I
@@ -19983,9 +19046,6 @@ to
 
 
 I
-
-
-I I I
 
 
 III
@@ -20352,10 +19412,6 @@ enen
 this [heaven]
 
 
-AAAAAA
-AAAAAA
-
-
 flooded.
 
 
@@ -20488,8 +19544,6 @@ W
 
 o
 
-1
-
 
 fepi tchet an hen en
 
@@ -20610,9 +19664,6 @@ sekhem-thd
 mighty
 
 
-1
-
-
 em
 according to
 
@@ -20632,9 +19683,6 @@ en
 ivoiu viv neter fen
 
 the majesty ol this god
-
-
-AAAAAA
 
 
 e?e
@@ -20698,8 +19746,6 @@ of Thoth, and from these we learn that he was called, '' Lord of
 '' of the earth ; " and the " heart of Rii which cometh forth in the
 
 
-THOTH 401
-
 "form of the god Thoth."^ The chief shrine of the god was
 in Khemennu, zz©, called Hermopolis by the Greeks, and
 Eshmunen by the Ai-abs, but he also had shrines in Abydos,
@@ -20737,8 +19783,6 @@ appears as an ibis. When in human form he holds in his hands
 1 See Lanzone, op. cit, p. 1265.
 D d
 
-
-402 THOTH
 
 the sceptre and emblem of "life" common to all gods, but his
 headdress varies according to the particular form of the god in
@@ -20799,8 +19843,6 @@ given to Thoth were,^ A, (] J , and Sheps, lord of Khemennu,
 3 Op. cit., p. 1265. ■* See Brugsch, Beligion, p. 441.
 
 
-THOTH 403
-
 " ibis," a Avord which finds its equivalent in the Coptic giRcui,
 and one of his commonest forms is the dog-headed ape, rzS^,
 
@@ -20816,7 +19858,6 @@ The ape dan is also connected with the moon, for he is often seen
 with the lunar crescent and disk, Q, upon his head ; but there is
 no doubt that he represented Thoth in his character of " lord of
 divine words and the scribe [of the gods]," for in a scene re-
-404 THOTH
 
 the four pairs of deities formed the oldest example of the ogdoad,
 while M. Maspero is of opinion that we must join the four pairs to
@@ -20856,8 +19897,6 @@ One of the most interesting titles of Thoth is " Judge of the
 1 La Mythologie ]Sgyptienue, p. 257.
 
 
-THOTH 405
-
 *' ReheliTii, the pacifier of the gods, who dwelleth in Unnu
 '' (Hermopolis), the great god in the Temple of Abtiti." ^ A veryearly Egyptian tradition made a great fight to take place between
 the god of light and the god of darkness, and in later days Ra
@@ -20892,8 +19931,6 @@ chief sanctuaries of the god, and was situated in Hermopolis.
 The hieroglyphics with which the name " Het Abtit" are
 written prove that they mean the " House of the Net," i.e., the
 
-
-406 THOTH
 
 temple where a net was preserved and venerated, but the questions
 naturally arise, what was this net, and what was its signification ?
@@ -20935,8 +19972,6 @@ and the monster Tiamat and her fiends, for it is said in tliem,
 1 See L. W. King, Babylonian Beliijion, p. 71.
 
 
-THOTH 407
-
 " He (i.e., Marduk) set the lightning in front of him, with burning
 " fire he filled his body. He made a net to enclose the inward
 " parts of Tiamat, the Four Winds he set so that nothing of her
@@ -20975,8 +20010,6 @@ and power kept the forces in heaven and in earth in equilibrium ;
 it was his great skill in celestial mathematics which made proper
 
 
-408 THOTH
-
 maintenance of the universe restedj^it was he who directed the
 potions of the heavenly bodies and their times and seasons ; and
 without his words the gods, whose existence depended upon them,
@@ -21013,8 +20046,6 @@ which mean " he Avhose word is mad,'^ that is to say, he v/hose
 
 1 See the passages enumerated in my Vocabulary to the Boole of the Dead,
 
-
-THOTH 409
 
 words possess such power that whenever they are uttered by him
 the effects which he wished them to produce unfaihngly come to
@@ -21055,8 +20086,6 @@ From many passages in the Booh of the Dead we learn of the
 1 Chapters of Coming Forth by Day (Translation), p. cscvii.
 
 
-410 THOTH
-
 services which Thoth performed for Osiris, and which he was to
 repeat for the benefit of every man who was acquitted in the
 Judgment. In the xviiith Chapter is a list of calamities which
@@ -21094,8 +20123,6 @@ gracious unto thee, and the two lands to be at peace before thee ;
 he hath put away the wrath which was in their hearts, and each
 hath become reconciled unto his brother."
 
-
-THOTH 411
 
 In the xcivth Chapter the deceased addresses the '' guardian
 of the book of Thoth," and says, " I am endowed with glory, I am
@@ -21137,8 +20164,6 @@ without water, that " it hath not air, it is depth unfathomable, it
 1 Brugscli, BeUgion, p. 451.
 
 
-412 THOTH
-
 " In it a man may not live in quietness of heart ; nor may the
 " longings of love be satisfied therein." A little further on in the
 Chapter he asks the lord Tern, i.e., Thoth, " How long have I to
@@ -21179,8 +20204,6 @@ branch which symbolizes "years," ^. In the narrowest sense
 
 1 For the figures see Lanzone, op. cit., pll, 36 ff.
 
-
-THOTH 413
 
 Aah-Tehuti symbolizes the new moon, and this is only natural,
 for, as is well known, all calculations made by the moon in the
@@ -21224,8 +20247,6 @@ Beligion, incorrect.
 I
 
 
-414 THOTH
-
 is, of course, the sun. Thus we see that Thoth not only brought
 the Eye of Rfi to the god, as we have already said, but that he also
 established the Eye of the Moon-god, who was indeed only a form
@@ -21266,8 +20287,6 @@ Beligion und Mythologie, pp. 448 S. ; this distinguished Egyptologist thought he
 had discovered the original hieroglyphic titles of many of these inscribed on the
 walls of the temple of Edfil.
 
-
-THOTH 415
 
 the priests ; books xi.-xx. treated of the services of the gods, i.e.,
 sacrifices, offerings, forms of worship, etc. ; books xxi.-xxx. related
@@ -21365,8 +20384,6 @@ and " it hath never been broken since the time of Osiris " ; finally,
 the exact equivalent of the English words " God will judge the
 right " is found in the Egyptian pa neter dpu pa madt,
 
-
-1
 
 The goddess Maat was, then, the personification of physical
 and moral law, and order and truth. In connexion with the Sungod Ra she indicated the regularity with which he rose and set in
@@ -21476,9 +20493,6 @@ I .
 11. Qerti,
 
 
-I I I
-
-
 12. Hetch-abehu, ^-f^ o
 
 13. Am-senf, -[]- ^ ^ '
@@ -21536,9 +20550,6 @@ I
 
 
 An-a-f,
-
-
-1
 
 
 420 ASSESSORS OF MAAT
@@ -21968,8 +20979,7 @@ by a tiara formed of uraei, and above these is a pylon set among a
 mass of lotus flowers and buds. As the " lady of the Holy Land,"
 
 i.e., the Underworld, and Amentet, If ^ "^j she appears in the form
-of a cow Avalking out from the funeral mountain, and she is sometimes reiDresented in the form of a cow standing in a boat sur-
-rounded by papyrus plants which are growing up to a considerable
+of a cow Avalking out from the funeral mountain, and she is sometimes reiDresented in the form of a cow standing in a boat surrounded by papyrus plants which are growing up to a considerable
 height above her body. As the cow-goddess of the Underworld,
 however, she wears a long, pendent collar, and on the back of her
 neck is the Mendt, (w , an emblem of joy and pleasure. On her
@@ -22753,13 +21763,10 @@ writer says ^ (ii. 137, 138) : — " The noble city of Bubastis seemeth
 G g
 
 
-450 NET OR NEITH
-
 According to Brugsch,^ the great triad of the city of Bubastis
 consisted of Osiris, Bast, and their offspring, who was called Heruin Heliopolis were Tern, lusaaset, and Nefer-Tem ; in Memphis,
 Ptah-Sekhet, and Nefer-Tem ; in Thebes, Amen-Ra-Heru-khuti,
-and Mut-Bast, and Khensu, or Horus, or Neb-aut-ab ; in Aphroditopolis, Osiris- An, and Bast-Temt, and 'Ari-lies. In the Bu-
-bastite nome were many temples and localities in which the
+and Mut-Bast, and Khensu, or Horus, or Neb-aut-ab ; in Aphroditopolis, Osiris- An, and Bast-Temt, and 'Ari-lies. In the Bubastite nome were many temples and localities in which the
 worship of Bast was paramount, and among such may be
 
 
@@ -22790,8 +21797,6 @@ and plumes, ^y , upon his head. The cow stands in a boat, the
 
 3 Op. cit., pi. 175 ff.
 
-
-NET OR NEITH 451
 
 prow of which terminates in a lion's head with a disk upon it, and
 is provided with wings ; the stern of the boat terminates in a
@@ -22876,8 +21881,6 @@ After describing the place in the temple of Sais where Apries
 '^ B. R.'s translation, fol. SQh.
 
 
-NET OR NEITH 453
-
 was buried, and mentioning the " fayre Chamber builte of stone,
 " beauty fied with sundry Pyllers ingrauen like unto Palme- trees,
 " being other wyse very sumptuously and royally garnished," and
@@ -22919,8 +21922,6 @@ he and Sma flourished about the beginning of the period of the
 * See Petrie, Boyal Tombs, ii., pp. 4-20, and pi. ii.
 
 
-454 NET OR NEITH
-
 1st Dynasty, and this being so the name of the goddess which
 forms part of the name of the queen Net-hetep must also be as
 old. Thus it is clear that even in the 1st Dynasty the cult of Net
@@ -22961,8 +21962,6 @@ of the deceased, and that Isis is identified with Neith. This piece
 * Memoire snv qvelqiies Papyrus du Louvre, p. 90.
 
 
-NET OR NEITH 455
-
 of linen was intended to serve as an amulet, and to bring to the
 mummy the protection of Net, who is referred to under the name
 of Isis. In the text of Unas (line 597) we have the following
@@ -22988,8 +21987,6 @@ another reference to Net and her son Sebek in these words, " Unas
 " eateth with his mouth, he voideth water," etc. In the text
 of Teta (line 204) Net is mentioned in connection with Isis,
 
-
-456 NET OR NEITH
 
 when he was seated on his throne.
 
@@ -23031,8 +22028,6 @@ birth to him. In Chapter Ixxi. 15, we read, " Behold, the god of
 ^ For the texts see my Miiiiimy, p. 199 ff.
 
 
-NET OR NEITH 457
-
 " ground, and the goddess Net hath, stood up within her planta-
 "tion"; and elsewhere (cxiv. 5; cxvi. 2) we read that she
 shineth in the city of Matchat, or Mentchat. In Chapter cxvi. 4,
@@ -23072,8 +22067,6 @@ gave birth to Ra ; " and she is called ^' the great goddess, the mother
 
 1 See Mallet, Le Cidte de Nelt, p. 140.
 
-
-458 NET OR NEITH
 
 " of all the gods," and " Rat (i.e., the female Sun), the lady of
 " heaven, the mistress of all the gods, who came into being in the
@@ -23115,9 +22108,6 @@ renders, " I am everything which hath been, and which is, and
 Eyw ei'/xt TTtti^ TO ycyovo?, Kal ov, Kal iaofxevov, Kol toi/ ifJLOv Tri-rrXov ouSet's ttoj
 
 
-NET OR NEITH
-
-
 says that the Egyptians often called Isis by the name Athene,
 which signifies, " I have come from myself." ^
 
@@ -23141,8 +22131,7 @@ upon her name Net and the word ent , or entet , i.e., a
 person or thing which is, or which exists, or which has being.
 In other words, the Egyptians regarded Net as the " Being " j;a7^
 excellence, i.e., the Being who was eternal and infinite, and was
-the creative and ruling power of heaven, earth, and the underworld, and of every creature and thing in them. Plutarch, how-
-ever, was not without authority when he made Net say, koL tov
+the creative and ruling power of heaven, earth, and the underworld, and of every creature and thing in them. Plutarch, however, was not without authority when he made Net say, koL tov
 by Pierret^ under the title of "lady of the sycamore house,"
 
 the goddess Net is addressed in the following
@@ -23186,12 +22175,6 @@ Net urt mut mes Rd,
 3 Op. cit., p. 191.
 
 * Etudes lEgyptologiques, etc., Paris, 1873, p. 45 ff.
-
-
-NET OR NEITH
-
-
-1
 
 
 o
@@ -23255,9 +22238,6 @@ sefehh-tu qerds-s
 hath been unloosed thy garment
 
 
-0
-
-
 sefehh
 unloose
 
@@ -23291,8 +22271,6 @@ hidden underworld, and whilst the deceased declares that none has
 ever penetrated the cloak wherewith she is shrouded, he beseeches
 her to unloose it for him. Two words are used to express " cloak,"
 
-
-NET OR NEITH 461
 
 to mind the two words TreVXo? and -x^ltcov which are used by
 Plutarch and Proclus respectively to express the same word. It
@@ -23332,16 +22310,13 @@ Egyptian philosophers were constantly engaged in thinking out the
 ^ ovTOL yap fiovoL 6ewv Trap' atirots, dptrevo^TjAeis VTr6.p-)^ov(Ti (ed. Leemans, p. 19).
 
 
-462 NET OR NEITH
-
 problems which are connected with cosmogony and theogony.
 The reason why they did not advance as a nation further in
 such matters is that they allowed themselves to be hampered by
 traditional opinions and beliefs, and by the rituals and ceremonies
 which the people in general demanded should be integral portions
 of the public worship of the gods. The statements of Greek
-writers, taken together with the evidence derived from the hieroglyphic texts, prove that in very early times Net was the personi-
-fication of the eternal female principle of life which was selfsustaining and self-existent, and was secret, and unknown, and
+writers, taken together with the evidence derived from the hieroglyphic texts, prove that in very early times Net was the personification of the eternal female principle of life which was selfsustaining and self-existent, and was secret, and unknown, and
 all-pervading ; the more material thinkers, whilst admitting that
 she brought forth her son Ra without the aid of a husband, were
 unable to divorce from their minds the idea that a male germ was
@@ -23370,8 +22345,6 @@ which the unguents which were employed in public worship were
 
 ' See Brugscli, Beligion, p. 340.
 
-
-NET OR NEITH 463
 
 compounded. The unguents which she mixed for Osiris proved to
 be the means by which the body of the god was preserved from
@@ -23417,8 +22390,6 @@ r
 3 Or, "^ LI D ^ Her-Jca-p-khart.
 
 
-464 NET OR NEITH
-
 of a young man ^ wearing on his head the crown of the North, and
 the Atef crown with uraei and disks ; the forefinger of his right
 hand is raised to his mouth, which suggests that he had something
@@ -23456,8 +22427,6 @@ with his seed,* and he is said to come to the town of Sapi,
 
 5 See Brug-sch, Beise nacli der grossen Oaae, pi. xxvi., 1. 28 f.
 
-
-NET OR NEITH 465
 
 " upon the hands of the two crocodile gods," 1^1' ^=^ "^
 
@@ -24164,8 +23133,7 @@ and then made a final attack upon them in the neighbourhood of
 
 
 made their escape and succeeded in getting away to the mountains, and others threw themselves into the sea. Horus changed
-himself into the form of a lion, with the head of a man surmounted by the triple crown, and grasping in his hand his keen-
-edged knife he pursued them, and brought back 142 of the enemy,
+himself into the form of a lion, with the head of a man surmounted by the triple crown, and grasping in his hand his keenedged knife he pursued them, and brought back 142 of the enemy,
 whom he slew, and he tore out their tongues, and their blood
 
 
@@ -24326,8 +23294,7 @@ better informed on such subjects than we are.
 12. Heru-thema, ^. j^ a, i.e., " Horus the piercer."
 
 This form of Horus is that in which the god attacked Set, the
-murderer of his father Osiris, with his long spear Avith a sharppointed iron head ; he is represented in the form of a hawk-
-headed man in the act of driving his long spear into sonie unseen
+murderer of his father Osiris, with his long spear Avith a sharppointed iron head ; he is represented in the form of a hawkheaded man in the act of driving his long spear into sonie unseen
 foe on or below the "'round.
 
 13. Heru-Hebenu, V^ k 5- i.e., Horus of Hebenu, or
@@ -24718,9 +23685,6 @@ already mentioned above, and Maa-atef-f, .^
 , and Heru-khenti-maati,
 
 
-1
-
-
 but another authority gives the names of the
 
 
@@ -24734,9 +23698,6 @@ Maa-em-kerli-an-nef-em-hru.^ In connexion Avith these must be
 
 
 o
-
-
-0
 
 
 ra tk o
@@ -25129,11 +24090,9 @@ position of god of
 that portion of the
 Underworld which
 was allotted to the
-souls of the inhabitants of Mem-
-phis and the neighbourhood, and it
+souls of the inhabitants of Memphis and the neighbourhood, and it
 is tolerably certain
-that he was regarded as the tute-
-lary deity of the
+that he was regarded as the tutelary deity of the
 necropolis of Sak-
 
 
@@ -25342,9 +24301,6 @@ and titles : — " Homage to thee, 0 Ptah-Tenen, thou great god,
 It
 
 
-AAAAAA
-
-
 I IIIIIIIII
 
 
@@ -25404,9 +24360,6 @@ D
 " waters had not come forth," ffi (=) ^ W (=) '"
 
 
-AAAAAA
-
-
 " Thou didst knit tos^ether the
 
 
@@ -25432,9 +24385,6 @@ own hands. . . . The upper part of thee is heaven and the lower
 
 
 part of thee is the Tuat." (^ (^
-
-
-I I I
 
 
 i^rii
@@ -25719,8 +24669,7 @@ Religion, p. 522.
 
 SEKHET, BAST, PAKHT 517
 
-this need cause no surprise, because Tlioth was only the Hermopolitan form of Shu, and Tefnut was therefore his female counter-
-part, and as Ptah absorbed Thoth, that is to say, Shu, the female
+this need cause no surprise, because Tlioth was only the Hermopolitan form of Shu, and Tefnut was therefore his female counterpart, and as Ptah absorbed Thoth, that is to say, Shu, the female
 counterpart of Ptah (i.e., Sekhet) absorbed the female counterpart
 of Thoth, or Shu (i.e., Tefnut). In many texts Sekhet is called
 the " Eye of Ra," ^ , and in a scene reproduced by Lanzone ^ we
@@ -26060,12 +25009,3 @@ at Memphis immediately before and during the Ptolemaic period
 as that of Amen-hetep, the son of Hapu, the famous sage who
 had seen and conversed with the gods, was at Thebes about the
 same time.
-
-
-END OF VOL. I.
-
-
-LONDON
-PRINTED BY GILBERT AND RIVINGTON, LD.
-
-ST. John's house, clebkenwell, e.c.

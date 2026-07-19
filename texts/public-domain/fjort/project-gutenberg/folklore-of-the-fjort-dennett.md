@@ -66,6 +66,99 @@ figures:
 
 # Notes on the Folklore of the Fjort (French Congo)
 
+H'H*N*I-NM>I«I
+
+
+1
+
+
+FOR  COLLECTING  AND  FEINTING
+
+
+RELICS  OF  POPULAR  ANTIQUITIES,  &c.,
+
+
+ESTABLISHED  IN
+
+
+THE  YEAR  MDCCCLXXVII1.
+
+
+Alter  et  Idem.
+
+
+PUBLICATIONS
+
+OP
+THE  FOLK-LORE  SOCIETY.
+
+
+XLI.
+
+[1897.]
+
+
+The  Folk-Lore  Society.
+
+(1898.)
+
+
+C.  J.  BILLSON,  M.A.
+
+DR.  KARL  BLIND.
+
+MISS  M.  ROALFE  COX.
+
+W.  CROOKE,  B.A.
+
+LELAND  L.  DUNCAN,  F.S.A.
+
+J.  P.  EMSLIE.
+
+DR.  M.  GASTER.
+
+T.  GOWLAND.
+
+E.  SIDNEY  HARTLAND,  F.S.A.
+
+T.  W.  E.  HIGGENS.
+
+
+ALFRED  NUTT.
+
+Vice^resilrents.
+
+THE  HON.  JOHN  ABERCROMBY.
+
+MISS  C.  S.  BURNE.
+
+EDWARD   CLODD.
+
+.G.  LAURENCE  GOMME,  F.S.A.
+
+PROF.  A.  C.  HADDON,  M.A.,  D.Sc.,  M.R.I.A.
+
+ANDREW  LANG,  M.A.,  LL.D,
+
+THE   RIGHT    HON.  SIR    JOHN  LUBBOCK,  BART.,  M.P.,  D.C.L.
+
+LL.D.,  F.R.S.,  F.S.A.
+
+LT.-GEN.  PITT-RIVERS,  D.C.L.,  F.R.S.,  F.S.A.
+PROFESSOR  F.  YORK  POWELL,  M.A.,  F.S.A.
+PROFESSOR  J.  RHYS,  M.A.,  LL.D.,  F.S.A.
+THE  REV.  PROFESSOR  A.  H.  SAYCE,  M.A.,  LL.D.,  D.D.
+PROFESSOR  EDWARD   B.  TYLOR,  LL.D.,  F.R.S.
+
+Council.
+
+JOSEPH  JACOBS,  B.A.
+
+F.  B.  JEVONS,  M.A.,  Litt.D.
+
+PROF.  W.  P.  KER,  M.A.
+
+W.  F.  KIRBY,  F.L.S.,  F.E.S.
 
 J.  T.  NAAKE.
 
@@ -7670,3 +7763,2330 @@ Heaven,  journey  to,  74,  133
 Hell,  descent  into,  ii. ,  and  see  Brothers
 
 Hen,  see  Crocodile
+
+Hospitality,  want  of,   punished,   121,
+
+122
+
+Hunger,  song  of,  150,  161
+Hunters  and  hunting,  18,  19
+Husband,  story  of  the  Wicked,  54,  and
+
+see  Wife
+
+Ibet,  see  Kazila
+
+Images,  2,  4,  9,  112,  113, 135, 136,  138,
+146
+
+Imbuiri,  see  Ombuiri
+
+Industries,  see  Agriculture,  Fish,  Hun-
+ters, Iron,  Manufactures,  Pottery
+
+Iron  and  other  smiths'  work,  xx.,  18,
+19
+
+Italian  missionaries,  xiii.
+
+Ivili,  see  Bavili
+
+Ivory  coast,  xxi.
+
+Jesuits,  xx.,  xxiii.
+
+Joao  II.,  King  of  Portugal,  xxii.
+
+Johnston,  Sir  H.  H.,  xiii.
+
+Justice,  administration  of  native,  xi.,
+
+141,  and  see  Crimes  ;  in  tales,  48, 55,
+
+59,  126, 141,  144
+
+
+Kabinda,  see  Cabinda
+
+Ka-Congo,  family  of,  108
+
+King  of,  xv.,  xvi.,  xvii.,  2,
+
+21,  22,  and  see  Fumu  Kongo
+
+province  und  people  of,  viii.,
+
+xii.,  xiii.,  xiv.,  xvi.,  xvii.,  xviii.,
+xix.,  xx.,  xxi.,  xxiii.,  1,  7,  94,  114,
+139
+
+Karkola  River,  iii.
+
+Kazila,  explained,  xxvi.,  137,  147
+
+instances  of,  xxix.,  10,  122,  148
+
+Merolla's    account    of,    xxv.,
+
+xxviii.
+
+Kengi  lost  her  child,  story  of  How,  58
+
+King  of  Congo,  xxi.,  and  see  Fumu
+Kongo,  Alfonso  I.
+
+Kingsley,  Miss,  adventure  on  the  Kar-
+kola River,  iii.
+
+Kinsembo,  1
+
+Kongo,  see  Congo
+
+Lake  formed  to  punish  want  of  hospi-
+tality, 121,  122  .
+
+Languages,  necessity  of  studying  Afri-
+can, v.
+
+Law,  Doctrine  of  Native,  that  igno-
+rance is  not  to  be  punished  unless
+culpable  ignorance,  xxviii.
+
+Examples  of  Native  :    how  an
+
+injured  man  obtains  help  against
+his  enemies,  iii.  ;  in  tales,  48,  55,
+59,  and  see  Crimes,  Justice
+
+Lemba,  or  Lembe,  form  of  marriage,
+20,  72,  162
+
+Leopard  and  the  Crocodile,  story  of
+the,  98
+
+killing  a,  80
+
+punished  the  turtle,  How  the,
+
+
+77
+the,  71
+82
+
+
+story  of  the  Antelope  and
+story  of  the  Gazelle  and  the,
+
+
+the  royal  animal,  beliefs  and
+
+practices  as  to  the,  9,  80
+Life,  restoration  to,  folktale  incident,
+
+33,64
+
+song  of,  151
+
+•  story  of  How  the  wives  restored
+
+their  husband  to,  33
+Lightning,  superstition  as  to,  7,  and
+
+see  Funzi
+Lion  in  love,  folktale  incident  of  the,
+
+71
+
+Literature,  branches  of  native  oral,  ix.
+Loanda,  xx.
+
+
+INDEX.
+
+
+167
+
+
+Loango,  province  and  kingdom  of,  xii.,
+xiii.,  xiv.,  xvi.,  xvii.,  xviii.,  xix.,
+xx.,  xxi.,  xxiii.,  1,  2,  11,  22, 114, 162
+
+population,  xxxi.
+
+women,  song  of,  160
+
+
+Loango  Luz,  River,  21
+
+Locusts,  11
+
+Loge,  River,  1
+
+Lulondo,  River  and  spirit,  6
+
+Mafumu,  title  of  under-kings  of  pro-
+vinces, xxxi. ,  2
+
+Makongo,  king  of  Congo,  xvii.,  xxxii.
+Malandu,  fruit,  use  of,  154
+Maloango,  21,  163
+Man,  story  of  the  turtle  and  the,  77
+Manifumu,  see  Mafumu
+Manufactures,  xx.,  19
+Marriage  customs  and  superstitions,  20,
+
+72
+
+forms  of,  20  72
+
+Mayumba  district,  151
+
+Mbosi,  Lake,  10,  122
+
+Mbuiri,  god  or  spirit  of  the  Mpongwe,
+
+119
+
+Mbunzi,  the  south-west  wind,  10,  11
+Medicine  and  medical  practice,  4,  9
+Medicines,  see  Amulets,  Charms,
+
+Spells
+Medusa-witch,    folktale    incident    of
+
+the,  60
+Men,    difference   in    colour    of,    how
+
+caused,  18,  101
+
+Merolla,  quoted,  xv.,  xxiii.,  xxv.
+statement  of,  on  Chegilla,  dis-
+cussed, xxviii.,  147
+Mfuzi,  the  blacksmith,  7,  18
+Milk  of  animals,  not  drunk,  xxix.
+Missionaries  as  authorities  on  African
+
+folklore,  Hi.,  v.
+•  influence    of,   on    native
+
+religion,  xxi.,  119
+
+reports  of,  xiii.,  and  see
+
+
+native
+
+
+Roman  Catholic
+Mlomvu,  River  and  spirit,  6
+Mohammedan    influences    in
+
+religion,  xxi.
+Mongo,  mountain,  xix.
+
+legends  of,  5
+
+Monkey  Island,  5
+Monteiro,  J.  J.,  quoted,  xx.
+Month,  division  of  the,  8
+Moon,  legend  of  the,  6
+
+new,  ceremony,  7
+
+Mpongwe-speaking  tribes,  xix.,  135
+gods  of,  119
+
+
+Mpungu,  meaning  of,  3
+Mungo,  see  Mongo
+Musurongo,  xxxii.,  137
+Nkissi  of  the,  138
+
+
+Names,  of  natives  after  animals,  9
+secret,  35
+
+
+Nassau,  Rev.  Dr.,  v.,  x.,  xxix.
+
+Nature-spirits,  see  Deities
+
+Ncanlam,  chief  of  the  Musurongo,
+xxxii.
+
+Ndotchi,  poisoner  and  witch,  16,  112,
+114,  131,  and  see  Witch,  Witch-
+craft
+
+Negro  religion,  xiii.,  xiv..  xxv.,  xxvi.
+
+Ngangas,  xii.,  xiv.,  xviii.,  xx.,  2,  9, 12,
+16,  17,  23,  111,  112,  135,  136,  138,
+139,  140,  146
+
+classes  of,  2,  4
+
+
+Ngoio,  a  rain-doctor,  xxxii.,  2
+
+native  embassies  to,  2,  11
+
+
+Ngomba's  balloon,  story  of,  49
+
+Ngunie  River,  xix.
+
+Niari  River,  xxii.
+
+Niger  Coast  Protectorate,  vii.
+
+Company,  Royal,  vii.
+
+River,  vii.,  xxi.
+
+
+Nkissi  and  Nkissism,  xii.,  xiii.,  xiv.,
+xviii.,  xx.,  1,  2,  4,  9,  18,  112,  115,
+117,  119,  131,  134,  136,  137,  138,
+146
+
+Nkissi  nsi,  spirit  of  the  earth,  1,  2,  3,
+133,  135,  136
+
+Ntandu  dialect,  3
+
+Nzambi,  ii.,  117
+
+cult  of,  3
+
+drum  of,  story  of  the,  123,  124
+
+footsteps  of,  130
+
+in  stories,  2.  7,  18,  60,  74,  106,
+
+120,  121,  122,  123,  128
+
+introduction  of  the  cult  of,  xii,
+meaning  of  name,  2,  118,  131.
+
+
+133
+
+
+stories  of,  their  value,  ix.
+
+
+Nzambi  Mpungu,  the  Creator,  2,  3,  18,
+120,  124,  131,  132,  133
+
+causes  tides,  9
+
+his  fire  stolen,  7
+
+in  stories,  74, 103,  105
+
+
+Nzambi  Mpungu's  ambassador,  story
+
+of,  105
+Nzambi's  daughter,  stoiy  of  How  the
+
+spider  won  and  lost,  74
+marriage     of,     60,
+
+128
+
+
+168
+
+
+INDEX.
+
+
+Offerings,  see  Sacrifices
+
+Ogowe,  River  and  district,  xiii.,  xix.
+
+Ogre,  in  tales.  50,  and  see  Bimbindi
+
+Oil  rivers,  xiii.
+
+Okanda  River,  xix.
+
+Ombuiri,  supernatural  being  of  Mpo»-
+
+gwe  tribes,  xix.,  xx.,  119
+Omens,  8
+Ordeals,  17,  23,  48,  92,  112,  114,  139,
+
+140,  145
+
+Oroungou  country,  iii.
+Orunda,  see  Kazila
+Otherworld,  journey  to,  133,  and  see
+
+Heaven,  Hell
+
+Paint-house,  4,  20,  22,  50
+
+Palavers,  see  Justice
+
+Partnership,  the  story  of  a,  143
+
+Pelican,  162
+
+Philtres,  17
+
+Pillars  of  clay,  human  beings  trans-
+formed into,  5
+
+Pleading,  see  Justice
+
+Poisoning,  crime  of,  xxviii.,  16,  17,
+and  see  Ndotchi
+
+Polygamy,  see  Marriage
+
+Ponta  da  Lenha,  4
+
+Pottery,  19
+
+Protuguese,  discovery  of  Congo  by  the,
+xiii.,  xvii.
+
+missionaries,  xiii.,  xvii
+
+navagators,  early,  xiii.
+
+political  power  and  in-
+fluence of  the,  xvi.,  xvii.,  xx.,  xxi.
+xxii.,  xxiii.,  xxx.
+
+Priesthood,  135,  and  see  Ngangas
+
+Prohibitions,  see  Kazila ;  in  tales,  40,
+43,62
+
+Prometheus,  see  Fire
+
+Proverbs,  Native  African,  examples
+of,  27,  142
+
+importance  of,  ix.
+
+Proyart.  Abbe,  quoted,  xvi.
+
+Puberty,  rites  of,  4,  20,  22,  128
+
+Purification,  rites  of,  137,  158
+
+Quillo,  province  of,  162
+River,  1
+
+Rabbit  and  the  Antelope,  story  of  the,
+
+90
+
+Rainbow,  superstition  as  to,  6
+Rainfall,  belief  as  to,  163
+Rain-doctor,  xxxii.,  2
+Rain-giving  god  and  his  rites,   138,
+
+139
+
+
+Religion,  xii.,  and  see  Bantu,  Deities,
+Fetish,  Images,  Ngangas,  Negro,
+Nkissism
+
+Resurrection,  see  Life
+
+Riddles,  native  African,  ix.
+
+Rivers,  spirits  of,  5,  88,  109,  118,  119
+
+Rocks,  superstitions  as  to,  4
+
+Roman  Catholic  missionaries,  xiii.,
+xxiii.
+
+Influ-
+ence of,  on  the  Fjort  religion,  xxii.,
+xxx.
+
+Sacrifices,  3,  8,  9,  96
+
+St.  James,  miracle  of,  xxiii.
+
+San  Salvador,  throne-town  of  Congo,
+
+xviii.,  xx.,  xxi.,  1,  2
+Schlieden,  Hubbe,  iii.
+Sea  and   lakes,  towns  under  the,   9,
+
+89
+superstitions    as    to
+
+the,  8
+symbolized      by      a
+
+crab,  9
+
+Sexual  relations,  20,  21,  145
+Shekiani  tribe,  x.
+Sierra  Leone,  xvii.,  xxi.
+Sister,  folktale  incident  of  the  Despised,
+
+49
+
+Sky,  beliefs  about  the,  7
+Slavery  and  slaves,  xxvi.,  8,  22
+Smart  Man  and  the  Fool,  story  of  the,
+
+25
+
+Snake,  song  of  the,  159
+Sogno,  Count  of,  xiv.,  138
+
+province  of,  xvi.
+
+Song  of  Burial  of  Fjort  prince,  155
+
+of  Hunger,  150, 161
+
+of  Life,  151
+
+of  Loango  Women,  160
+
+of  the  Snake,  159
+
+Songs,   native    African,    difficulty   of
+
+interpreting,  ix.
+
+Fjort,  150
+
+how  sung,  153
+
+Souls,  Catching,  xxix.
+
+doctrine  of,  116
+
+transferring  soul  of  deceased,
+
+115,  159
+Spells,     17,    18,    and     see    Amulets
+
+Charms
+Spider     won     and      lost      Nzambi'
+
+Daughter,  story  of  How  the,  ii.,  7
+
+74
+
+Stanley  Pool,  i.
+Stars,  7
+
+
+INDEX.
+
+
+169
+
+
+Stories,  classes  of,  ix.
+
+historical,  rare,  ix.
+
+how  told,  25
+
+legal,  their  use  and  value,  x.
+
+play-stories,  xii.
+
+position  of,  in  native  culture,
+
+ix.
+
+Sun,  legend  of  the,  6
+
+Sunga  punished  my  great-uncle's  twin-
+brother,  Basa,  story  of  How  the
+fetish,  6,  88
+
+Sunken  towns,  see  Hospitality,  Lake
+
+Symbols  of  native  song,  string  of,  150,
+151
+
+how  used,  153
+
+Taboo,  see  Kazila,  Prohibitions
+Tar-baby,  folktale  incident  of  the,  92
+Tekklifumu,  title  of  subordinate  chief,
+
+xxxi.,  xxxii.
+
+Thunder,  superstitions  as  to,  7
+Totems,  animal,  unknown,  xxvii.
+Traders  as  authorities  on  African  folk-
+lore, iii.,  vi.
+
+lend  money  to  native  princes
+
+and  traders,  22
+
+Transformation,  belief  in  the  power
+
+of,  10
+in  tales,  5,  42,  52,  57.
+
+105
+Travellers    often    untrustworthy     on
+
+African  folklore,  iii.
+Tshi-speakiug  peoples,  ix.,  x.
+Turtle  and  the  man,  story  of  the.  77
+Twin  brother,  Basa,  story  of  How  the
+
+fetish,   Sunga,   punished    my  great
+
+uncle's,  6,  88
+
+brothers,  story  of  the,  60
+
+Twins,  superstitions  as  to,  8
+
+Unclean,  means  prohibited  in  Mr.
+Dennett's  phraseology,  xxix.
+
+
+Vanishing  wife,  story  of  the,  see  Wife
+
+
+Waddell,  Rev.  H.  M.,  v.
+
+Waterspouts,  8
+
+Week,  days  of  the,  8,  137
+
+White,  others  black,  story  of  Why
+some  men  are,  18,  1C1
+
+iVhitford,  J.,  vi.
+
+Wife,  folktale  incident  of  the  Super-
+natural, 39,  42
+
+stealing,  iv.
+
+story  of  the  ill-used,  saved  by
+
+her  son,  28
+
+story  of  the  jealous,  46
+
+story  of  the  vanishing,  i.,  39,  42
+
+Wilson,  Rev.  J.  L.,  v.,  xxx.
+
+Witchcraft,  xxiii.,  112,  114
+
+Witch-doctors,  16
+
+Witches  dwell  in  forests,  9
+
+fear  of  being  considered,  1£&
+
+treatment  of  dead,  6,  1 12^aud
+
+see  Ndotchi
+
+Wives  restored  their  husband  to  life,
+story  of  How  the,  33
+
+Wizards,  xiv.,  and  see  Ndotchi,  Witch-
+craft, Witches
+
+Woman  overreaches  herself,  story  of
+the,  86
+
+Woodpecker,  see  Animals,  Helpful
+
+Xina,  see  Kazila
+
+Year,  division  of  the,  8
+Yoruba-speaking  peoples,  ix.
+
+Zaire,  see  Congo  river
+
+Zimini,  supernatural  being  under  the
+
+sea,  9
+Zinganga,  see  Ngangas
+
+
+PRINTED  BY  J.  B.  NICHOLS  AND  SONS,  PARLIAMENT  MANSIONS,  VICTORIA  STREET,  S.W.
+
+
+The  Folk-Lore  Society.
+
+(1898.)
+
+
+ALFRED   NUTT.
+
+
+THE  HON.  JOHN  ABERCROMBY.
+
+MISS  C.  S.  BURNE.
+
+EDWARD   CLODD.
+
+G.  LAURENCE  GOMME,  F.S.A.
+
+PROF.  A.  C.  HADDON,  M.A.,  D.Sc.,  M.R.I.  A.
+
+ANDREW  LANG,  M.A.,  LL.D.
+
+THE    RIGHT    HON.   SIR    JOHN  LUBBOCK,   BART.,  M.P.,   D.C.L.
+
+LL.D.,  F.R.S.,  F.S.A.
+
+LT.-GEN.  PITT-RIVERS,  D.C.L.,  F.R.S.,  F.S.A.
+PROFESSOR  F.  YORK  POWELL,  M.A.,  F.S.A.
+PROFESSOR  J.  RHYS,  M.A.,  LL.D.,  F.S.A.
+THE  REV.  PROFESSOR  A.  H.  SAYCE,  M.A.,  LL.D.,  D.D.
+PROFESSOR  EDWARD   B.  TYLOR,  LL.D.,  F.R.S.
+
+
+Council.
+
+
+C.  J.  BILLSON,  M.A.
+
+DR.  KARL  BLIND.
+
+MISS  M    ROALFE  COX.
+
+W.  CROOKE,  B.A.
+
+LELAND  L.  DUNCAN,  F.S.A.
+
+J.  P.  EMS  LIE.
+
+DR.  M.  GASTER.
+
+T.  GOWLAND.
+
+E.  SIDNEY  HARTLAND,  F.S.A.
+
+T.  W.  E.  HIGGENS.
+
+
+JOSEPH  JACOBS,  B.A.
+
+F.  B.  JEVONS,  M.A.,  Litt.D.
+
+PROF.  W.  P.  KER,  M.A.
+
+W.  F.  KIRBY,  F.L.S.,  F.E.S.
+
+J.  T.  NAAKE.
+
+T.  FAIRMAN  ORDISH,  F.S.A.
+
+W.  H.  D.  ROUSE,  M.A.
+
+M.  J.  WALHOUSE.
+
+HENRY  B.  WHEATLEY,  F.S.A.
+
+A.  R.  WRIGHT.
+
+t.  Creaaurer.
+
+E.  W.  BRABROOK,  C.B.,  F.S.A.,  178,  Bedford  Hill,  Balham,  S.W.
+
+P^on.  auMtor.
+
+F.  G.  GREEN.
+
+S»ecretarg.
+F.  A.  MILNE,  M.A.,  11,  Old  Square,  Lincoln's  Inn,  London,  W.C.
+
+publications  Committee.
+
+E.  SIDNEY  HARTLAND  (Chairman)  ;  G.  L.  GOMME  (Vice-Chairman)  ;
+MISS  ROALFE  COX;  W.  CROOKE;  J.  JACOBS;  W.  F.  KIRBY  ;  PRO-
+FESSOR W.  P.  KER.
+
+ISibliograpIjB  Committee.
+
+G.  L.  GOMME  (Chairman)  ;  L.  L.  DUNCAN  ;  J.  JACOBS  ;  W.  F.  KIRBY  ;
+J.  T.  NAAKE.
+
+Museum  Committee.
+
+G.  L.  GOMME  ;  J.  P.  EMSLIE  ;  ARTHUR  J.  EVANS  ;  T.  GOWLAND  ;
+MISS  M.  C.  FFENNELL  ;  A.  R.  WRIGHT.
+
+jfinance  anlr  (Srneral  purposes  Committee.
+
+E.  W.  BRABROOK  (Chairman)  ;  G.  L.  GOMME ;  DR.  GASTER  ;
+T.  W.  E.  HIGGENS  ;  REV.  H.  N.  HUTCHINSON ;  T.  F.  ORDISH;
+F.  G.  GREEN;  H.  RAYNBIRD;  W.  H.  D.  ROUSE:  M.  J.  WALHOUSE.
+
+The  President  and  Treasurer  are  cx-officio  members  of  all  Committees.
+
+
+ii  Officers  and  Members.
+
+
+MEMBERS  (corrected  to  February,  1898).
+
+The  Utter  c.  placed  before  a  Member's  name  indicates  that  he  or  she  has
+compounded.
+
+Abercromby,  'Hon.  J.,  62,  Palmerston  Place,  Edinburgh  (  Vice- President}.
+
+Aberdeen  Public  Library.
+
+Aberdeen  University  Library,  per  P.  J.  Anderson,  Esq.,  Librarian.
+
+Addy,  S.  O.,  Esq.,  M.A.,  George  Street,  Sheffield.
+
+Aldenham,  Eight  Hon.  Lord,  St.  Dunstan's,  Regent's  Park,  N.W.
+
+Allsopp,  Hon.  A.  Percy,  Battenhall  Mount,  near  Worcester.
+
+Amsterdam,  the  Univ.  Library  of,  per  Kirberger  &  Kesper,  Booksellers,
+
+Amsterdam.
+C.  Andre,  J.  Lewis,  Esq.,  Sarcelles,  Horsham.
+
+Andrews,  J.  B.,  Esq.,  Reform  Club,  Pall  Mall,  S.W.
+
+Anichkov,  Professor  E.,  Idani  Borovitchy,  Novgorod.
+
+Antiquaries,  the  Society  of,  Burlington  House,  W.
+
+Arnold,  Professor  E.  V.,  10,  Bryn  Seiriol,  Bangor.
+
+Asher,  S.  G.,  Esq.,  89,  Wigmore  Street,  W.
+
+Aston,  G.  F.,  Esq.,  52,  Tregunter  Road,  South  Kensington,  S.W.
+
+Astor  Library,  New  York,  per  B.  F*.  Stevens,  4,  Trafalgar  Square,  W.C.
+
+Backhouse,  Jonathan  E.,  Esq.,  Bank,  Darlington.
+
+Balfour,  C.  B.,  Esq.,  Newton  Don,  Kelso,  N.B.
+
+Balfour,  Mrs.  M.  C.,  St.  Villa  du  Calvaire,  St.  Servan,  France.
+
+Ballantyne,  W.,  Esq.,  2298,  South  43rd  Court,  Chicago,  111.,  U.S.A.
+
+Barnett,   J.  Davies,  Esq.,  Grand    Trunk    Railway,   Stratford,   Ontario,
+
+Canada.
+
+Barwell,  J.  W.,  Esq.,  Wankegan,  Ills.,  U.S.A.
+Basset,  Mons.  Rene,  L'Agha,  77,  Rue  Michelet,  Algiers.
+Beard,  J.  T.,  Esq.,  Royston  House,  Upper  Richmond  Road,  Putney,  S.W.
+Beauchamp,  Right  Hon.  the  Earl,  Madresfield  Court,  Great  Malvern.
+Beer,  W.,  Esq.,  Howard  Memorial  Library,  New  Orleans,  U.S.A.
+Bell,  Sir  J.,  101,  Vincent  Street,  Glasgow.
+Berlin  Royal  Library,  per  Asher  and  Co.,  13,  Bedford  Street,  Covent
+
+Garden,  W.C.
+
+Besant,  Sir  Walter,  Frognal  End,  Hampstead,  N.W
+Billson,  C.  J.,  Esq.,  M.A.,  St.   John's  Lodge,   Clarendon   Park  Road,
+
+Leicester.
+Birmingham  Free  Library,  care  of  J.  D.  Mullins,  Esq.,  Ratcliffe  Place,
+
+Birmingham.
+Birmingham  Library,  care  of  C.  E.  Scarse,  Esq.,  Librarian,  Union  Street,
+
+Birmingham.
+
+
+Officers  and  Members.  iii
+
+Black,  G.  F.,  Esq.,  New  York  Public  Library,  Lafayette  Place,  N.Y.,  U.S.A.
+Blind,  Dr.  Karl,  3,  Winchester  Road,  South  Hampstead,  N.W.
+Bolitho,  J.  R.,  Esq.,  Trengwainton,  Hea  Moor,  R.S.O.  Cornwall.
+Bonaparte,  Prince  Roland,  Bibliotheque,  10,  Avenue  d'lena,  Paris.
+Boston  Athenasum,  The,  Boston,  U.S.A.,  per  Kegan  Paul,  Trench,  Trubner,
+
+&  Co.,  Ld.,  Charing  Cross  Road,  W.C.
+Boston  Public  Library  (Mass.),  U.S.A.,  per  G.  E.  Stechert,  2,  Star  Yard,
+
+Carey  Street,  W.C.
+
+Bourdillon,  F.  W.,  Esq.,  M.A.,  Melton  Lodge,  Malvern.
+Bowditch,  C.  P.,  Esq.,  28,  State  Street,  Boston,  Mass.,  U.S.A.
+Bowen,  H.  Courthope,  Esq.,  M.A.,  3,  York  Street,  Portman  Square,  W.
+Bower,  H.  M.,  Esq.,  Elmcrofts,  Ripon.
+Brabrook,  E.  W.,  Esq.,  C.B.,  F.S.A.,  178,  Bedford  Hill,  Balham,  S.W.
+
+{Treasurer).
+
+Brighton  Town  Council,  per  the  Town  Clerk,  Town  Hall,  Brighton.
+Brinton,  Professor  D.  G.,  A.M.,  M.D.,LL.D.,  D.Sc.,  2041,  Chestnut  Street,
+
+Philadelphia.  U.S.A.
+
+Britten,  James,  Esq.,  18,  West  Square,  Southwark,  S.E.
+Brix,  M.  Camille  de,  13,  Rue  Victor  Hugo,  Douai,  France.
+Broadwood,  Miss  Lucy  E.,  52,  St.  George's  Square,  S.W.
+Brockhaus,  F.  A.,  Esq.,  Leipzig,  per  H.  Williams,  48,  Old  Bailey,  E.G.
+Brooke,  Rev.  Stopford  A.,  1,  Manchester  Square,  W.
+Brough,  Mrs.  C.  S.,  Rosendale  Hall,  West  Dulwich,  S.E.
+Brown,  Henry  Thomas,  Esq.,  Roodeye  House,  Chester.
+Browne,  John,  Esq.,  Chertsey  House,  Park  Hill  Rise,  Croydon.
+Brushfield,  Dr.  T.  N..  The  Cliff,  Budleigh-Salterton,  Devonshire.
+Burne,  Miss,  Chichester  Lodge,  Long  Ditton,  Surrey  {Vice- President).
+
+Caddick,  E.,  Esq.,  Wellington  Road,  Edgbaston,  Birmingham.
+
+Campbell,  Lord  Archibald,  Coombe  Hill  Farm,   Kingston-on-Thames.
+
+Carpenter,  Professor  J.  Estlin,  109,  Banbury  Road,  Oxford.
+
+Carson,  Miss  K.,  6,  Granville  Square,  W.C.
+
+Charencey,  Comte  de,  24,  Rue  de  la  Chaise,  Paris.
+
+Charrington,  H.  S.,  Esq.,  Dove  Cliff,  Burton-on-Trent.
+
+Chicago  Public  Library,  Illinois,  U.S.A.,  per  B.  F.  Stevens,  4,  Trafalgar
+
+Square,  W.C.
+Chicago  University  Library,  Illinois,  U.S.A.,  per  G.  E.  Stechert,  2,  Star
+
+Yard,  Carey  Street,  W.C
+
+Chorlton,  Thomas,  Esq.,  32,  Brazennose  Street,  Manchester.
+Cincinnati  Public  Library,  per  B.  F.  Stevens,  4,  Trafalgar  Square,  W.C.
+Clark,  Oscar  W.,  Esq.,  M.A.,  M.B.,  Rahere,  Brunswick  Road,  Gloucester.
+Clark,  Mrs.,  Wentworth  House,  John  Street,  Hampstead,  N.W.
+Clarke,   Rev.  E.   Wrangles,   Ch.   Ch.   Vicarage,    Faraday    Road,   North
+
+Kensington,  W.
+Clodd,  Edward, Esq.,  19,  Carleton Road,  Tufnell  Park,  N.  (  Vice- President).
+
+
+iv  Officers  and  Members.
+
+
+Cobb,  Rev.  Dr.,  35,  Wellington  Street,  Strand,  W.C.
+
+Columbia  College,  New  York,  per  G.  E.  Stechert,  2,    Star   Yard,   Carey
+
+Street,  W.C.
+Congress,  The  Library  of,  Washington,  U.S.A.,  per  E.  G.  Allen,  Esq.,  28,
+
+Henrietta  Street,  Covent  Garden,  W.C.
+Conybeare,  F.  C.,  Esq.,  M.A.,  13,  Norham  Gardens,  Oxford.
+Cornell  University  Library,  per  E.  G.  Allen,  Esq.,  28,  Henrietta  Street,  W.C.'
+Cosqnin,  M.  Emanuel,  Vitry-le-Fran9ois,  Marne,  France.
+Cox,  Miss  Marian  Roalfe,  107,  Earl's  Court  Road,  W.
+Craigie,  W.  A.,  Esq.,  M.A.,  Damemead,  226,  Iffley  Road,  Oxford.
+Crombie,  James  E.,  Esq.,  Balgownie  Lodge,  Aberdeen.
+Crombie,  John  W.,  Esq.,  M.P.,  91,  Onslow  Square,  S.W.
+Crooke,  W.,  Esq.,  B.A.,  West  Leigh,  Arterberry  Road,  Wimbledon,  S.W.
+
+Dabis,  Miss  A.,  care  of  Miss  Sim,  43,  Mall  Chambers,  Kensington,  W.
+Dames,  M.  Longworth,  Esq.,  Deputy  Commandant,  Ferozepore,  Punjab,
+
+per  H.  S.  King  &  Co.,  45,  Pall  Mall,  S.W.
+
+Dampier,  G.  R.,  Esq.,  care  of  Messrs.  Grindley,  Groom  and  Co.,  Bombay.
+Davis,  Lieut.-Col.  John,  Byfrons,  Famborough.
+Debenham,  Miss  Amy,  Cheshunt  Park,  Herts.
+Debenham,  Miss  Mary  H.,  Cheshunt  Park,  Herts.
+Defries,  Wolf,  Esq.,  B.A.,  4,  Danes  Inn,  W.C.
+Dennett,   R.    E.,  Esq.,    Loango,   Congo    Fran9ais,   S.W.   Coast    Africa.
+
+(Parcels  via  Lisbon,  St.  Thome,  and  Gaboon.)
+Detroit  Public  Library,  Michigan,  U.S.A.,  per  B.  F.  Stevens,  Esq.
+Diack,  A.  H.,  Esq.,  Lahore,  Punjab,  India  (East  India  United  Service
+
+Club,  St.  James's  Square,  S.W.).  per  T.  R.  Gillies,  181,  Union  Street,
+
+Aberdeen.
+Duncan,  Leland  L.,  Esq ,  F.S.A.,  Rosslair,   Lingard  Road,  Lewisham,
+
+S.E.
+
+Eagleston.  A.  J.,  Esq.,  M.A.,  24,  Heslop  Road,  Balham.
+
+Edinburgh  Public  Library,  per  R.  Adam  Esq.,  City  Chambers,  Edinburgh.
+
+Edmonds,  Miss  Sophy  G.,  Wiscombe  Park,  Colyton.
+
+Edwards,  F.,  Esq.,  88,  High  Street,  Marylebone,  W.
+
+Eggers  and  Co.,  Messrs.,  St.  Petersburg,  per  Sampson  Low  and  Co.,  Fetter
+
+Lane,  E.C.
+
+Elton,  O.,  Esq. ,  B.A.,  6,  Heaton  Road,  Withington,  Manchester.
+Emerson,  P.  H.,  Esq.,  The  Nook,  Oulton  Broad,  Lowestoft.
+Empson,  C.  W.,  Esq.,  11,  Palace  Court,  W.
+Emslie,  J  P.,  Esq.,  50,  Kestrel  Avenue,  Herne  Hill,  S.E.
+Enoch  Pratt  Library,  Baltimore  City,  U.S.A.,  per  E.  G.  Allen,  Esq.,  28,
+
+Henrietta  Street,  W.C.
+Eraut,  A.,  Esq.,  Grammar  School,  Galway.
+
+
+Officers  and  Members.  v
+
+Erlangen  University   Library,  per   Sampson  Low    &    Co.,  Fetter  Lane
+
+E.G.
+
+Evans,  Arthur  J.,  Esq.,  M.A.,  F.S.A.,  Ashmolean  Library,  Oxford.
+Evans,  Miss  E.  M.,  St.  Mary's,  Ely.
+Evans,  Sir  John,  K.C.B.,   D.C.L  ,  LL.D.,   D.Sc.,  F.R.S.,  E.S.A.,  Nash
+
+Mills,  Hemel  Hempstead.
+Eyre,  Miss,  The  Hudnalls,  St.  Briavels,  Gloucestershire.
+
+C.  Fahie,  J.  J.,  Esq.,  Claremont  Court,  Claremont  Hill,  Jersey.
+Fawcett,  F.,  Esq.,  care  of  Messrs.  Arbuthnot  &  Co.,  Madras.
+Feilberg,  Rev.  H.  F.,  Askov,  Vejen.  Denmark.
+Ferryman,  Major  A.  F.  Mockler,  F.R.G.S.,  F.Z.S.,  Oak  Grove  House,  Royal
+
+Military  College,  Camberley,  Surrey.
+
+Ffennell,  Miss  Margaret  C.,  172,  The  Grove,  Hammersmith,  W.
+Fitzgerald,  I).,   Esq.,  care  of  J.  Fitzgerald,  Esq.,  2,  Cambridge  Villa?,
+
+Lower  Teddington.
+
+Forlong,  Major-Gen.  J.  G.  R.,  F.R.S.,  11,  Douglas  Crescent,  Edinburgh.
+Fraser,  D.  C.,  Esq.,  M.A.,  3,  Buckingham  Road,  Wallasey.
+Frazer,  J.  G.,  Esq.,  M.A.,  Trinity  College,  Cambridge.
+Freer,  Miss  Goodrich,  27,  Cleveland  Gardens,  Hyde  Park,  W .
+Freer,  Wm.  J.,  Esq.,  Stoneygate,  near  Leicester.
+Freshfield,  W.  D.,  Esq.,  The  Wilderness,  Reigate.
+
+Gardner,  F.  L.,  Esq.,  14,  Marlboro'  Road,  Gunnersbury,  W.
+
+Gaster,  Dr.  M.,  37,  Maida  Vale,  W.
+
+George,  Charles  W.,  Esq.,  51,  Hampton  Road,  Clifton,  Bristol.
+
+Gerish,  W.  B.,  Esq.,  Ivy  Lodge,  Hoddesdon,  Herts.
+
+Gladstone,  Dr.  J.  H.,  F.R.S.,  F.C.S.,  17,  Pembridge  Square,  W.
+
+Gladstone,  The  Right  Hon.  W.  E.,  Hawarden,  Flintshire.
+
+Glasgow  University  Library,  per  Messrs.  Maclehose,  61,  St.  Vincent  Street,
+
+Glasgow.
+
+Godden,  Miss  Gertrude  M.,  Ridgfield,  Wimbledon.
+Goldmerstein,  L.,  Esq.,  4,  Walton  Well  Road,  Oxford.
+Gollanc'z,  I.,  Esq.,  M.A.,  Christ's  College,  Cambridge.
+Gomme,  G.  L.,  Esq.,  F.S.A.,  24,  Dorset  Square,  N.W.  (  Vice- President).
+Gomme,  J.  F.,  Esq.,  City  Bank,  Oxford  Street,  W.
+Gottingen  University  Library,  per  Asher  and  Co.,  13,  Bedford  Street,
+
+Covent  Garden,  W.C.
+
+Gow,  Horace  K.,  Esq.,  36,  Leadenhall  Street,  E.G.
+Gow,  Dr.  James,  High  School,  Nottingham.
+Gowland,  T.,  Esq.,  12,  Tavistock  Road,  Harlesden,  N.W.
+Granger,Prof.  F..  D.  Lit.,  Winterley  Cottage, Lenton Boulevard, Nottingham.
+Green,  Frank,  Esq.,  St.  Valentine's,  Prince  of  Wales's  Road,  Carshalton
+
+(Auditor}.
+
+
+vi  Officers  and  Members.
+
+
+Greeven,  K.,  Esq.,  B.C.S.,  164,  Camberwell  Grove,  Denmark  Hill,  S.E.
+
+Gregory,  H.  E.,  Esq.,  Boarzell,  Hawkhurst,  Sussex.
+
+Greig,  Andrew,  Esq.,  36,  Belmont  Gardens,  Billhead,  Glasgow.
+
+Grierson,  Geo.  A.,  Esq.,  Bankipur,  Patna,  Bengal.
+
+Grimsey,  Miss  Grace,  Stoke  Lodge,  Ipswich.
+
+Grove,  Miss  Florence,  10,  Milton  Chambers,  Cheyne  Walk,  S.W.
+
+Guildhall  Library,  E.G.
+
+Gutch,  Mrs.,  Holgate  Lodge,  York.
+
+Gwynne,  James  E.  A.,  Esq.,  F.S.A.,  97,  Harley  Street,  W.
+
+Haddon,  Prof.,  A.  C.,  M.A.,  D.Sc.,  Inisfail,  Hills  Road,  Cambridge  (  Vice-
+President).
+
+Hannah,  R.,  Esq.,  82,  Addison  Road,  Kensington,  W.
+
+Hardy,  G.  F.,  Esq.,  12,  Waterloo  Place,  S.W.
+
+Harris,  Miss  Emily,  23,  Clifton  Gardens,  W.
+
+Harrison  and  Sons,  Messrs.,  59,  Pall  Mall,  S.W.
+
+Hartland,  E.  Sidney,  Esq.,  F.S.A.,  Highgarth,  Gloucester.
+
+Hartland,  J.  Cole,  Esq.,  care  of  Messrs.  Hunt  and  Co.,  Yokohama,  Japan.
+
+Harvard  College  Library,  per  Kegan  Paul  and  Co.,  Ld.,  Charing  Cross
+Road,  W.C.
+
+Harvey,  F.  O.,  Esq.,  Larnaca,  Cyprus.
+
+Henderson,  Miss  A.  B.,  Ormlie  Lodge,  Thurso.
+
+Hensman,  W.  M.,  Esq.,  32,  Derngate,  Northampton.
+
+Herbertson,  John  T.,  Esq.,  Port  Dundas,  Glasgow.
+
+Hervey,  Hon.  D.  F.  A.,  C.M.G.,  The  Residency,   Malacca,  per    H.   S.
+King  &  Co.
+
+Hewitt,  J.  F.,  Esq.,  Devoke  Lodge,  Walton-on-Thames.
+
+Higgens,  T.  W.  E.,  Esq.,  1,  Edith  Terrace,  Chelsea,  S.W.
+
+Hinuber,  Miss,  34,  Linden  Road,  Bedford.
+C.  Hodgkin,  John,  Esq.,  12,  Dynevor  Road,  Richmond,  S.W.
+
+Holland,  Clive,  Esq.,  Bergen,  Branksome  Wood  Road,  Bournemouth.
+
+Howard,  David,  Esq.,  Devon  House,  Buckhurst  Hill,  Essex.
+
+Hurlburt,  Theodore  D.,  Esq.,  104,  Hicks  Street,  Brooklyn,  New  York,
+U.S.A.
+
+Hussey,  A.,  Esq.,  Wingeham,  near  Dover.
+
+Hutchinson,  Rev.  H.  N.,  F.G.S.,  7,  Cowley  Street,  Westminster,  S.W.
+
+Hutchinson,  Dr.  Jonathan,  F.R.S.,  15,  Cavendish  Square,  W.
+
+India  Office  Library,  Whitehall,  S.W.,  per  C.  H.  Tawney,  Esq.
+
+Jackson,  A.  M.  J.,  Esq.,  Bycullah  Club,  Bombay  (Assistant  Collector,
+
+Nasik,  Bombay).
+
+Jacob,  H.  F.,  Esq.,  Assistant  Resident,  Aden.
+Jacobs,  Joseph,  Esq.,  B.A.,  Merodelia,  Grafton  Road,  Acton,  W.
+Jerons,  F.  B.,  Esq.,  M.A.,  Litt.D.,  The  Bailey,  Durham.
+
+
+Officers  and  Members.  vii
+
+Johns  Hopkins  University  Library,  Baltimore,  per  E.  G.  Allen,  28,  Hen-
+rietta Street,  Covent  Garden,  W.C.
+Jones,  Bryan  J.,  Esq.,  Lionawilly,  Dundalk.
+
+Jones,  D.  Brynmor,  Esq.,  Q.C.,  M.P.,  LL.B.,  22,  Bryanston  Square,  W.
+Jones,  William,  Esq.,  Abberly  Hall,  Stourport.
+
+Karlowicz,  Dr.  John,  Jasna,  10,  Warsaw,  Poland.
+
+Kegan    Paul,  Trench,  Triibner,  &  Co.,  Ld.,  Messrs.  (American  Dept.),
+
+Charing  Cross  Eoad,  W.C.
+
+Kennedy,  Miss  L.,  Fairacre,  Concord,  Mass.,  U.S.A.
+Ker,  C.,  Esq.,  1,  Windsor  Terrace,  West  Glasgow.
+Ker,  Professor  W.  P.,  M.A.,  95,  Gower  Street,  W.C.
+Kermack,  John,  Esq.,  9,  Hill  Street,  Edinburgh.
+Kinahan,  G.  H.,  Esq.,  M.R.I.A.,  Woodlands,  Fairview,  co.  Dublin.
+Kincaid,  General  W.,  per  A.  Fletcher,  2,  St.  Helen's  Place,  E.G.
+Kirby,  W.  F.,  Esq.,  F.L.S.,  F.E.S.,  Hilden,  Sutton  Court  Koad,  Chiswick.
+Kitts,  E.  J.,  Esq.,  Bareilly,  N.W.P.,  India.
+
+Klincksieck,  C.,  Paris,  per  Th.  Wohlleben,  46,  Gt.  Eussell  Street,  W.C.
+Knowles,  W.  J.,  Esq.,  Flixton  Place,  Ballymena,  Ireland.
+
+Ladbury,  Miss  E.  J.,  Goldness,  Hartlebury,  Kidderminster.
+
+Lang,  A.,  Esq.,  M.A.,  1,  Marloes  Road,  Kensington,  W.  (Vice-President*).
+
+Layton,  C.  Miller,  Esq.,  F.S.A.,  Shortlands,  Folkestone.
+
+Leathes,  F.  de  M.,  Esq.,  18,  Radnor  Park  Road,  Folkestone.
+
+Leicester  Literary  and  Philosophical  Society,  per  G.  Hull,  Esq.,  Church
+
+Hill  House,  Clarendon  Park  Road,  Leicester.     .
+
+Leland,  C.  G.,  Esq.,  Hotel  Victoria,  44,  Lung'  Arno  Vespucci,  Florence.
+Lemcke  &  Buechner,  Messrs.,  812,  Broadway,  New  York,  U.S.A.
+Letts,  C.,  Esq.,  24,  Bartlett's  Buildings,  E.C.
+Levy,  C.  E.,  Esq.,  Boundstone  Lodge,  Farnham,  Surrey.
+Library  of  the  Supreme  Council  of   the  33rd  Degree,  etc.,  for  England
+
+&  Wales,  and  the  Colonies,  33,  Golden  Square,  W.
+Lindsay,  Lady,  41,  Hans  Place,  W.
+Lockhart,   J.   H.    Stewart,  Esq.,  Registrar-General    of    the   Legislative
+
+Council,  Hong  Kong.
+
+London  Institution,  Finsbury  Circus,  E.C.
+London  Library,  St.  James's  Square,  S»W.
+Lubbock,  Right  Hon.  Sir  John,  Bart.,  M.P.,  D.C.L.,  F.R.S.,  F.S.A.,  High
+
+Elms,  Farnborough,  R.S.O  (Vice-President).
+Lyall,  Sir  Alfred,  K.C.S.I.,  18,  Queen's  Gate,  S.W.
+Lynn  Linton,  Mrs.  E.,  Brougham  House,  Malvern.
+
+Macauliffe,  His  Honour  Judge,  Sialkot,  Punjab,  India.
+Macbean,  E.,  Esq.,  Fullarton  House,  by  Tollcross,  Lanarkshire.
+Macgregor,  A.,  Esq.,  Stamford  Brook  House,  Hammersmith,  W.
+Mackenzie,  W.,  Esq.,  Crofters  Commission,  6,  Parliament  Square,  Edin-
+burgh.
+
+
+viii  Officers  and  Members.
+
+c.  Mackinlay,  Dr.,  6,  Great  Western  Terrace,  Kelvinside,  Glasgow.
+Maclagan,  R.  Craig,  Esq.,  M.D.  5,  Coates  Crescent,  Edinburgh.
+McNair,  Major  ,  C.M.G.,  F.L.S.,  F.R.G.S.,  Scotia,  Preston   Park,
+
+Brighton.
+
+Maitland,  Mrs.  J.  A.  Fuller,  39,  Phillimore  Gardens,  Kensington,  W.
+Major,  A.  F.,  Esq.,  17,  Grosvenor  Road,  Westminster.
+Man,  E.  H.,  Esq.,  care  of  A.  F.  Man,  Esq.,  2,  Palace  Road,  Surbiton.
+Manning,  P.,  Esq.,  M.A..  F.S.A.,  6,  St.  Aldate's,    Oxford  (Beechfield,
+
+Watford).
+
+Manchester  Free  Library,  King  Street,  Manchester.
+Marsh,  R.  H.,  Esq.,  Ingleside,  Epping,  Essex.
+Marshall,  W.  Gore,  Esq.,  Hambleton  Hall,  Oakham.
+Marston,  E.,  Esq.,  St.  Dunstan's  House,  E.G.
+Masson,  D.  P.,  Esq ,  Managing  Director,  The  Punjab  Bank,  Lahore,  per
+
+H.  S.  King  and  Co.,  65,  Cornhill,  E.C.
+Matthews,  Miss  Elizabeth,  The  Hollies,  Swaffham,  Norfolk.
+Max,  J.,  and  Co.,  21,  Schweideritzenstrasse,  Breslau.
+Mendham,  Miss  Edith,  Shepscombe  House,  Stroud,  Gloucestershire.
+Mercantile  Library,  Philadelphia,  U.S.A.,  per  G.  E.  Stechert,  2,  Star  Yard,
+
+Carey  Street,  W.C.
+
+Merrick,  W.  P.,  Esq.,  Manor  Farhi,  Shepperton.
+
+Metropolitan  Museum  of  Art,  N.Y.,  U.S.A.,  per  G.  E.  Stechert  30,  Welling-
+ton Street,  Strand,  W.C.
+Meyrick    Library,   Jesus    College,    Oxford,  per    W.   M.  Lindsay,    Esq.,
+
+Librarian.
+
+Middlesborough  Free  Library,  per  Baker  Hudson,  Esq.,  Middlesborough.
+Milne,  F.  A.  Esq.,  M.A.,  11,  Old  Square,  Lincoln's  Inn,  W.C.  {Secretary).
+Minet,  Miss  J.,  care  of  Miss  Julia  Dyke,  Glovers,  Sittingbourne,  Kent.
+Minnesota,  University  of,  Minneapolis,  U.S.A.,  per  G.  E.  Stechert,  2,  Star
+
+Yard,  Carey  Street,  W.C.
+Mitchell  Library,  21,  Miller  Street,  Glasgow,  care  of  F.  T.  Barrett,  Esq.
+
+Librarian.
+
+C.  Mocatta,  F.  D.,  Esq.,  F.S.A.,  9,  Connaugbt  Place,  W.
+Mond,  Mrs.  Frida,  20,  Avenue  Road,  Regent's  Park,  N.W.
+Moore,  C.  H.,  Esq.,  Clinton,  111.,  U.S.A.
+
+Morison,  Miss  C.  I.,  49,  Bullingham  Mansions,  Kensington,  W.
+Morison,  Theodore,  Esq.,  Aligarh,  N.W.P.,  India.
+Morris,  Mrs.  M.  E.,  Uxbridge  House,  Uxbridge  Road,  Baling.
+Munich  Royal  Library,  per  Asher  and  Co.,  13,  Bedford  Street,  W.C.
+Murray- Ay nsley,  Mrs.  J.  C.,  Great  Brampton,  Hereford.
+c.Myres,  J.  L.,  Esq.,  M.A.,  F.S.A.,  Christ  Church,  Oxford.
+
+Naake,  J.  T.,  Esq.,  Library,  British  Museum,  W.C.
+
+National  Library  of   Ireland,  per  Hodges,  Figgis,  and  Co.,  104,  Graf  ton
+Street,  Dublin.
+
+
+Officers  and  Members.  ix
+
+C.  Nesfield,  J.  P.,  Esq.,  Stratton  House,  2,  Madley  Road,  Baling.
+
+Newberry  Library,  Chicago,  per  B.  F.  Stevens,  4,  Trafalgar  Square,  W.C.
+
+Newcastle  Literary  and  Philosophical  Society,  Newcastle-on-Tyne.
+
+New  Jersey,  The  College  of,  Princeton,  N.  J.,  U.S.A.,  per  E.  C.  Osbo
+
+Esq. ,  Treasurer.
+New  York,  College  of    the  City  of,  per  G.  E.  Stechert,  2,  Star  Yard,
+
+Carey  Street,  W.C.
+
+New  York  State  Library,  per  G.  E.  Stechert,  2,  Star  Yard,  Carey  St.,  W.C.
+Nicholson,  C.  N.,  Esq.,  35,  Harrington  Gardens,  S.W.
+Ninnis,  Belgrave,  Esq.,  M.D.,  F.S.A.,  F.R.A.S.,  F.R.G.S.,  Brockenhurst,
+
+Aldrington  Road,  Streatham,  S.W.
+Nottingham  Free  Public  Library.
+Nutt,  Alfred,  Esq.,  270,  Strand  (President}.
+
+Oelsner,  H.,  Esq.,  Springfield,  Honor  Oak  Park,  S.E.
+
+Oldfield,  Capt.  F.  H.,  R.E.,  Scottish  Conservative  Club,  Edinburgh.
+
+Olrik,  Dr.  Axel,  Martinsvej,  9,  Copenhagen,  Denmark.
+
+Ordish,  T.  F.,  Esq.,  F.S.A.,  Warwick  House,  Warwick  Court,  Gray's  Inn,
+
+W.C.
+
+Owen,  Rev.  Elias,  M.A.,  F.S.A.,  Llanyblodwel  Vicarage,  Oswestry.
+Owen,  Miss  Mary  A.,  306,  North   Ninth  Street,   St.   Joseph,  Missouri
+
+U.S.A.
+
+Paget,  Lady,  Litchfield  Lodge,  Bodenham  Road,  Hereford.
+C.  Paris,  M.  Gaston,  Membre  de  PInstitut,  2,  Rue  Pommereu,  Passy,  Paris.
+
+Parker,  Mrs.  K.  Langloh,  Banyate,  Walgett,  New  South  Wales.
+
+Paton,  W.  R.,  Esq.,  Vathy,  Samos,  Turkey,  via,  Smyrna.
+
+Payne,  Mrs.  George,  The  Precincts,  Rochester.
+
+Peabody  Institute,  Baltimore,  U.S.A.,  per  E.  G.  Allen,  Esq.,  28,  Henrietta
+Street,  W.C.
+
+Peacock,  E.,  Esq.,  F.S.A.,  Dunstan  House,  Kirton-in-Lindsey,  Lincolnshire.
+
+Peorio,  Public  Library  of,  per  G.  E.  Stechert,  Esq.,  2,  Star  Yard,  Carey
+Street,  W.C.
+
+Philadelphia,  The  Library  Company  of,  U.S.A.,  per  E.  G.  Allen,  Esq.,  28,
+Henrietta  Street,  W.C.
+
+Philpot,  Mrs.  J.  H.,  61,  Chester  Square,  S.W.
+
+Phipson,  Miss,  5,  Park  Place,  Upper  Baker  Street,  N.W.
+
+Pineau,  Mons.  Leon,  60,  Boulevard  Beranger,  Tours,  France.
+
+Pitt-Rivers,  Lieut.-General,  D.C.L.,  F.R.S.,  F.S.A.,  Rushmore,  Salisbury
+(  Vice-President).
+
+Plymouth  Institution  and  Devon  and  Cornwall  Natural  History  Society,
+per  C.  S.  Jago,  Esq.,  Plymouth  Public  School.
+
+Pocklington-Coltman,  Mrs.,  Hagnaby  Priory,  Spilsby,  Lincolnshire.
+
+Powell,  Professor  F.  York,  M. A.,  F.S.A.,  Christ  Church,  Oxford  ( Vice-
+President}.
+
+
+x  Officers  and  Members.
+
+c.  Power,  D'Arcy,  Esq.,  M.A.,  M.B.,  F.S.A.,  10A,  Chandos  Street,  Cavendish
+
+Square,  W.
+
+Price,  F.  G.  Hilton,  Esq.,  F.S.A.,  F.G.S.,  17,  Collingham  Gardens,  S.  Ken-
+sington, S.W.
+
+Providence  Public  Library,  per  G.E.  Stechert,  2,  Star  Yard,  Carey  St..  W.C.
+Pulling,  Alexander,  Esq.,  20,  Stanford  Koad,  Kensington,  W.
+Pusey,  S.  E.  Bouverie,  Esq.,  F.R.G.S.,  18,  Bryanston  St.,  Portman  Sq.,  W.
+
+Raynbird,  H.,  junr.,  Esq.,  Garrison  Gateway  Cottage,  Old  Basing,
+Basingstoke.
+
+Reade,  John,  Esq.,  270,  Laval  Avenue,  Montreal,  Canada.
+
+Reichel,  H.  R.,  Esq.,  Penrallt,  Bangor,  N.  Wales.
+
+Reynolds,  Llywarch,  Esq.,  B.A.,  Old  Church  Place,  Merthyr  Tydvil.
+
+Rhys,  Professor  John,  M.A.,  LL.D.,  Jesus  College,  Oxford  (Vice-
+President).
+
+Risley,  H.  H.,  Esq.,  M.A.,  C.I.E.,  care  of  Messrs.  Thacker,  2,  Creed  Lane,
+Ludgate  Hill,  E.G.
+
+Rohrscheid  and  Ebbecke,  Messrs.,  Buchhandlung,  Am  Hof,  28,  Bonn.
+
+Rossall,  J.  H.,  Esq.,  Charleville,  Roscrea,  Ireland.
+
+Rouse,  W.  H.  D.,  Esq.,  M.A.,  4,  Bilton  Road,  Rugby.
+
+Royal  Irish  Academy,  per  Hodges,  Figgis,  and  Co.,  104,  Graf  ton  Street,
+Dublin.
+
+Rndmose-Brown,  T.  B.,  Esq.,  52,  Beaconsfield  Place,  Aberdeen.
+
+Ry lands,  Mrs.,  Langford  Hall,  Stretford,  Manchester,  per  Arnold  Green,
+66,  Paternoster  Row,  E.C.
+
+Salisbury,  J.,  Esq.,  48,  Fleet  Lane,  E.C.
+
+Saunders,  J.  E.  Esq.,  F.S.A.,  F.G.S.,  9,  Finsbury  Circus,  E.C.
+
+Saussaye,  Professor  P.  D.  C,  Beek,  near  Nymegen,  Holland.
+
+Savage,  Rev.  E.  B.,  M.A.,  F.S.A.,  St.  Thomas'  Vicarage,  Douglas,  Isle
+
+of  Man.
+Sayce    Rev.  Prof.  A.  H.,  M.A.,  LL.D.,  Queen's   College,    Oxford  (23,
+
+Chepstow  Villas,  W.)  (Vice-President").
+
+Scott,  J.  G.,  Esq.,  per  R.  F.  Scott,  Esq.,  St.  John  s  College,  Cambridge.
+Sebillot,  Mons.  Paul,  80,  Boulevard  St.  Marcel,  Paris.
+Seebohm,  F.,  Esq.,  LL.D.,  F.S.A.,  The  Hermitage,  Hitchin,  Herts.
+Seligmann,    C.   G.,   Esq.,   care   of    A.   Solomon,   Esq.,  Portland   House,
+
+Basinghall  Street,  E.C.
+
+Sessions,  F.,  Esq.,  Monkleighton,  Alexandra  Road,  Gloucester.
+Sidgwick,  Mrs.  C.,  The  Manor  House,  Kingston,  Taunton.
+Signet  Library,  Edinburgh.
+
+Sikes,  E.E.,  Esq.,  St.  John's  College,  Cambridge.
+Simpkins,  J.  E.,  Esq.,  Museum  of  Antiquities,  Edinburgh.
+Singer,  Professor,  9,  Falkesplatz,  Bern,  Switzerland.
+Sinkinson,  Mrs.,  Gayton  Road,  Harrow-on-the-HU'.
+
+
+Officers  and  Members.  xi
+
+Skilbeck,  J,  H.,  Esq.,  1,  Portman  Mansions,  Baker  Street,  W.
+
+Skipwith,  G.  H.,  Esq.,  3,  Tanza  Road,  Hampstead,  N.W.
+
+Skrine,  H.  D.,  Esq.,  Claverton  Manor,  Bath.
+
+Southam,  S.  Clement,  Esq.,  Elmhurst,  Shrewsbury.
+
+Speakman,  Mrs.  J.  G.,  4,  Rue  Royer  Collard,  Paris.
+
+Stanbery,  Miss  K.  S.,  Adair  Avenue,  Zanesville,  Ohio,  U.S.A.
+
+Stephens,  The  Very  Rev.  W.  R.  W.,  M.A.,  E.S.A.,  Dean  of  Winchester,
+The  Deanery,  Winchester.
+
+Stephenson,  C.  H.,  Esq.,  64,  Kew  Road,  Birkdale,  Lancashire.
+
+St.  Helen's  Corporation  Eree  Library,  per  A.  Lancaster,  Esq.,  Librarian,
+Town  Hall,  St.  Helen's.
+
+Stockholm,  Royal  Library  of,  per  Sampson,  Low  and  Co.,  St.  Dunstan's
+House,  Eetter  Lane.  E.G.
+
+Stokes,  Whitley,  Esq.,  C.S.I.,  C.I.E.,  D.C.L.,  LL.D.,  F.S.A.,  15,  Grenville
+Place,  S.  Kensington,  W.
+
+Storr,  Rayner,  Esq.,  Haslemere,  Surrey.
+
+Strafford,  Right  Hon.  the  Earl  of,  Wrotham  Park,  Barnet.
+
+Struben,  Mrs.  E.,  4,  Albert  Hall  Mansions,  Kensington  Gore,  S.W.
+
+Stuart,  Mrs.  Alexander,  Crear  Cottage,  Morningside  Drive,  Edinburgh.
+
+Surgeon-General's  Office,  Washington,  U.S.A.,  per  Kegan  Paul,  Trench
+Triibner,  and  Co.,  Ld.,  Charing  Cross  Road,  S.W.
+
+Swainson,  Rev.  C.,  The  Rectory,  Old  Charlton.
+
+Swansea  Public  Library,  per  S.  E.  Thompson,  Esq.,  Librarian.
+
+Sydney  Free  Public  Library,  per  J.  Pentland  Young,  38,  West  Smith-
+field,  E.G.
+
+
+Tabor,  C.,  Esq.,  The  White  House.  Knotts  Green,  Leyton.
+
+Tate  Library,  University  College,  Liverpool,  care  of  J.  Sampson,  Esq.
+
+Tayler,  Miss  Constance,  29,  Kensington  Gate,  W.
+
+Taylor  Institution,  Oxford,  per  Parker  and  Co.,  6,  Southampton    Street,
+
+Strand,  W.C,
+
+Taylor,  Miss  Helen,  Avignon,  France.
+Temple,  Lieut.- Colonel  R.    C.,  C.I.E.,   Government   House,  Port  Blair,
+
+Andaman  Islands.
+
+Terry,  F.  C.  Birkbeck,  Esq.,  The  Paddocks,  Palgrave,  Diss,  Norfolk.
+Thomas,  N.  W.,  Esq.,  64,  Church  Street,  Oswestry.
+Thompson,  Miss  Skeffington,  Glenelly,  Chislehurst  Common,  Kent.
+Todhunter,  Dr.  J.,  Orchardcroft,  Bedford  Park,  W.
+Tolhurst,  J.,  Esq.,  F.S.A.,  Glenbrook,  Beckenham,  Kent.
+Torquay  Natural  History  Society,  care  of  A.  Somervail,  Esq.
+Townshend,  Mrs.  R.  B.,  80,  Woodstock  Road,  Oxford.
+Traherne,  G.  G.,  Esq.,  Coedarhydyglyn,  Cardiff.
+Traherne,  L.  E,,  Esq..  Coedriglan  Park,  Cardiff.
+
+
+xii  Officers  and  Members.
+
+Travancore,  His  Highness  the  Maharajah  of,  Huzier,  Cutcherry,  Trevan-
+
+drum,   per  P.  Macfadyen  and   Co.,   Winchester  House,    Old  Broad
+
+Street,  E.G.
+Tnrnbnll,  A.  H.,  Esq.,  Elibank,  Wellington,  New  Zealand,  per  A.  L.  Elder
+
+and  Co.,  7,  St.  Helen's  Place,  E.C.
+Tylor,  Professor  E.  B.,  LL.D.,  D.C.L-,  F.R.S.,  The  Museum  House,  Oxford
+
+(  Vice-President}.
+Udal,  The  Hon.  J.  S.,  Attorney-General,  Fiji  Islands,  per  Messrs.  Lovell,
+
+Son,  and  Pitfield,  3,  Gray's  Inn  Square,  W.C.
+
+Van  Stockum,  W.  P.,  and  Son,  36,  Buitenhof,  The  Hague,  Holland.
+Voss'  Sortiment  (G.  Haessler),  Leipzig.
+
+Walhouse,  M.  J.,  Esq.,  28,  Hamilton  Terrace,  St.  John's  Wood,  N.W.
+Walker,  J.  S.  E.,  Esq.,  Persownie,  Nawada,  Bara,  I.S.  Territory, Chumparun,
+
+Bengal.
+Walker,  Dr.  Robert,  Budleigh-Salterton,  Devon,  per  E.  W.  Watson,  Esq.,
+
+22,  Highbury  New  Park,  N.
+Walpole,  H.,  Esq.,  India  Office,  Whitehall,  S.W.
+
+Wardrop,  Miss  Marjory,  British  Vice-Consulate,  Kertch,  Crimea,  Russia.
+Warner,  S.  G.,  Esq.,  Elmside,  Bolingbroke  Grove,  S.W.
+Waters,  W.  G.,  Esq.,  7,  Mansfield  Street,  Portland  Place,  W.
+Watkinson  Library,  Hartford,  Connecticut,  U.S.A.,  per  E.  G.  Allen,  28,
+
+Henrietta  Street,  Covent  Garden,  W.C.
+
+Weston,  Miss  J.  L.,  Barnavie,  Lansdowne  Road,  Bournemouth.
+Wheatley,  Henry  B.,  Esq.,  F.S.A.,  2,  Oppidans  Road,  Primrose  Hill,  N.W.
+White,  Miss  Diana,  Old  Priory,  Sydenham.
+White,  George,  Esq.,  Ashley  House,  Epsom.
+Williamson,  Rev.  Charles  A.,  14,  Upper  Mount  St.,  Dublin.
+Wills,  Miss  M.  M.  Evelyn,  Heathfield,  Swansea.
+Wilson,  R.  H.,  Esq.,  23,  Cromwell  Crescent,  S.W.
+Wiudle, Professor  B.  C.  A.,  M.A.,  M.D.,  D.Sc.,  Dean  of  Queen's  Faculty  of
+
+Medicine,  Mason  College,  Birmingham.
+C.  Wissendorff,  H.,  19,  Nadeschkinskara,  St.  Petersburg,  Russia.
+
+Woman's  Anthropological  Society,  Washington,  D.C.,  U.S.A.,  care  of  Mrs.
+
+M.  P.  Seaman,  1424,  Eleventh  Street,  N.W.,  Washington,  D.C.,  U.S.A.
+Wood,  Alexander,  Esq.,  Thornly,  Saltcoats,  N.B.
+Woodall,  E.,  Esq.,  Wingthorpe,  Oswestry.
+Worcester  Free  Public  Library,  Mass.,  U.S.A.,  per  Kegan  Paul,  Trench,
+
+Triibner,  and  Co.,  Ld.
+Wright,   A.  R.,  Esq ,  H.M.  Patent   Office,  25,  Southampton   Buildings,
+
+Chancery  Lane,  W.C.
+
+Wright,  W.  Aldis,  Esq.,  M.A.,  Trinity  College,  Cambridge.
+Wurtzburg,  J.  H.,  Esq.,  Clavering,  2,  De  Greys  Road,  Leeds
+Wyndham,  George,  Esq.,  M.P.,  35,  Park  Lane,  W.
+
+
+The  Folk-Lore  Society
+
+
+PROSPECTUS  AND  LIST  OF  PUBLICATIONS.
+
+JANUARY,    1898.
+
+
+ALFRED    NUTT.
+
+
+THE  HON.  J.  ABERCROMBY.
+MISS  C.  S.  BURNE.
+EDWARD  CLODD.
+G.  LAURENCE  GOMME,  F.S.A.
+PROFESSOR  A.  C.  HADDON,
+
+M.A.,  D.Sc.
+
+ANDREW  LANG,  M.A.
+THE    RIGHT    HON.    SIR    JOHN
+
+LUBBOCK,  BART.,  M.P.,  D.C.L.
+
+LL.D.,  F.R.S.
+
+
+C.  J.  BILLSON,  M.A.
+
+DR.  KARL  BLIND.
+
+MISS  M.  ROALFE  COX.
+
+W.  CROOKE,  B.A.
+
+LELAND  L.  DUNCAN,  F.S.A.
+
+J.  P.  EMSLIE.
+
+DR.  M.  GASTER.
+
+T.  GOWLAND.
+
+E.   SIDNEY  HARTLAND,  F.S.A.
+
+T.  W.  E.  HIGGENS.
+
+ilufclttattong  Committee.
+
+
+LT.-GEN.    PITT-RIVERS,    D.C.L.
+
+F.R.S.,  F.S.A.
+PROFESSOR  F.  YORK   POWELL,
+
+M.A.,  F.S.A.
+
+PROFESSOR;.  RHYS,  M.A.,  LL.D.,
+
+F.S.A.
+THE  REV.  PROFESSOR  A.  H.
+
+SAYCE,   M.A.
+
+PROFESSOR  EDWARD  B.  TYLOR,
+LL.D.,  F.R.S.
+
+CotwriL
+
+JOSEPH  JACOBS,  B.A.
+
+F.  B.  JEVONS,  M.A.,  LiTT.D.
+
+PROFESSOR  W.  P.  KER,  M.A.
+
+W.  F.   KIRBY,  F.L.S.   F.E.S.
+
+J.  T.  NAAKE.
+
+T.  FAIRMAN  ORDISH,  F.S.A.
+
+W.  H.  D.  ROUSE,  M.A.
+
+M.  J.  WALHOUSE.
+
+HENRY  B.  WHEATLEY,  F.S.A.
+
+A.   R.  WRIGHT.
+
+
+MISS  M.  ROALFE  COX.
+
+W.  CROOKE,  B.A.
+
+G.  LAURENCE  GOMME,  F.S.A.
+
+E.  S .  HARTLAND,  F.  S. A.,  Chairman .
+
+WITH  THE  PRESIDENT  AND  HON.  TREASURER.
+
+
+JOSEPH  JACOBS,  B.A.
+PROFESSOR  W.  P.  KER,  M.A.
+W.  F.  KIRBY,  F.L.S.,  F.E.S
+
+
+Vrtatfum*
+
+E.  W.  BRABROOK,  F.S.A.,   178,  Bedford  Hill,  Balham,  S.W.
+
+
+F.  G.  GREEN.
+
+
+F.  A    MILNE,  M.A.,   n,   Old  Square,   Lincoln's  Inn,  W.C.
+
+
+The  Folk-Lore  Society.
+
+
+Objects  of  the  Society.
+
+This  Society  was  established  in  1878  for  the  purpose  of  collecting
+and  preserving  the  fast-perishing  relics  of  Folklore.  Under  this
+general  term  are  included  Folk-tales ;  Hero-tales ;  Traditional  Ballads
+and  Songs ;  Place  Legends  and  Traditions ;  Goblindom  ;  Witch-
+craft; Leechcraft;  Superstitions  connected  with  material  things;
+Local  Customs ;  Festival  Customs  ;  Ceremonial  Customs  ;  Games  ;
+Jingles,  Nursery  Rhymes,  Riddles,  etc. ;  Proverbs ;  Old  Saws,
+rhymed  and  unrhymed ;  Nick-names,  Place-rhymes  and  Sayings ;
+Folk-Etymology.
+
+Foreign  countries  have  followed  the  example  of  Great  Britain,
+and  are  steadily  collecting  and  classifying  their  Folklore.*  It  is
+most  gratifying  to  this  Society  to  observe  that  one  great  result  of  its
+work  has  been  to  draw  attention  to  the  subject  in  all  parts  of  the
+world ;  and  it  is  particularly  noticeable  that  the  word  "  Folklore  "
+has  been  adopted  as  the  name  of  the  subject  in  foreign  countries.
+
+Scope  of  the  Society.
+
+Since  the  establishment  of  the  Society  great  impetus  has  been
+given  to  the  study  and  scientific  treatment  of  those  crude  philoso-
+phies which  Folklore  embodies.  Hence  the  place  now  accorded  to
+it  as  a  science,  to  be  approached  in  the  historic  spirit  and  treated  on
+scientific  methods.  The  meaning  for  a  long  time  given  to  the  term
+Folklore  has  thus  been  greatly  enlarged,  and  the  definition  which
+the  Society  has  adopted  will  illustrate  the  importance  of  the  new
+departure  :—The  science  of  Folklore  is  the  comparison  and  identification
+of  the  survivals  of  archaic  beliefs,  customs,  and  traditions  in  modern
+ages.
+
+*  The  French  Socittt  des  Traditions  populaires  was  founded  in  1885,  and  an
+additional  French  Folk- Lore  Society,  the  Societe  des  Traditionnistes,  in  1886 ;
+the  American  Folk-Lore  Society  in  1888  ;  the  German  Verein  fur  Volkskunde
+in  i8go  ;  the  Swiss  Gesellschaft  fur  Volkskunde  in  1896.
+
+
+Characteristics  of  Folklore.
+
+It  may  be  well  to  point  out  the  essential  characteristics  of
+Folklore  under  the  terms  of  this  definition.  It  was  found  by
+observation  that  there  exists,  or  has  existed,  among  the  least  cultured
+of  the  inhabitants  of  all  the  countries  of  modern  Europe,  a  vast  body
+of  curious  beliefs,  customs,  and  story-narratives  which  are  handed
+down  by  tradition  from  generation  to  generation,  and  the  origin  of
+which  is  unknown.  They  are  not  supported  or  recognised  by  the
+prevailing  religion,  nor  by  the  established  law,  nor  by  the  recorded
+history  of  the  several  countries.  They  are  essentially  the  property
+of  the  unlearned  and  least  advanced  portion  of  the  community.
+
+Then  it  was  noted  that,  wherever  any  body  of  individuals,
+entirely  ignorant  of  the  results  of  science  and  philosophy  to  which  the
+advanced  portion  of  the  community  have  attained,  habitually  believe
+what  their  ancestors  have  taught  them,  and  habitually  practise  the
+customs  which  previous  generations  have  practised,  a  state  of  mind
+exists  which  is  capable  of  generating  fresh  beliefs  in  explanation  of
+newly  observed  phenomena,  and  is  peculiarly  open  to  receive  any
+fanciful  explanations  offered  by  any  particular  section  of  the
+community.  Thus,  in  addition  to  the  traditional  belief  or  custom,
+there  is  the  acquired  belief  or  custom  arising  from  a  mythic  inter-
+pretation of  known  historical  or  natural  events.
+
+From  these  potent  influences  in  the  uncultured  life  of  a  people
+— traditional  sanctity  and  pre-scientific  mental  activity — and  from
+the  many  modifications  produced  by  their  active  continuance,  it  is
+seen  that  the  subjects  which  constitute  Folklore  principally  consist
+of  the  relics  of  an  unrecorded  past  in  man's  mental  and  social  history.
+
+Thus  it  will  be  seen  that  the  subjects  dealt  with  by  the  Folk-
+lorist  are  very  wide  in  range  and  of  absorbing  interest.  Customs,
+beliefs,  folk-tales,  institutions,  and  whatever  has  been  kept  alive  by
+the  acts  of  the  Folk  are  Folklore.  Other  studies  which  illustrate
+Folklore,  whether  it  be  archaeology,  geology,  or  anthropology,  must
+be  brought  to  bear  upon  it,  so  that  no  item  may  be  left  without  some
+attempt  to  determine  its  place  in  man's  history.  As  Edmund
+Spenser  wrote,  nearly  three  hundred  years  ago,  "By  these  old
+
+
+customes  and  other  like  conjectural!  circumstances  the  descents  of
+nations  can  only  be  proved  where  other  monuments  of  writings  are
+not  remayning."
+
+Work  of  the  Society.
+
+The  work  of  the  Society  is  divided  into  two  branches.  First,
+there  is  the  collection  of  the  remains  of  Folklore  still  extant.  Much
+remains  to  be  done  in  our  country,  especially  in  the  outlying  parts
+of  England  and  Scotland,  the  mountains  of  Wales,  and  the  rural
+parts  of  Ireland,  and  the  publications  of  the  Society  bear
+witness  to  the  fact  that  in  all  parts  of  our  land  the  mine  has
+abundant  rich  ore  remaining  unworked.  In  European  countries
+for  the  most  part  there  are  native  workers  who  are  busy  upon
+the  collection  of  Folklore ;  but  in  India  and  in  other  states  under
+English  dominion,  besides  savage  lands  not  politically  attached
+to  this  country,  there  is  an  enormous  field  where  the  labourers  are
+few.  No  one  who  has  opportunities  of  knowing  the  folk  in  his  own
+neighbourhood  should  be  deterred  from  recording  the  lore  gathered
+from  them  by  the  fear  that  his  information  may  not  be  worth  it.
+What  is  an  everyday  occurrence,  seemingly  of  no  import,  in  one's
+own  neighbourhood,  may  be  a  new  revelation  to  the  student  seeking
+for  links  to  complete  his  investigations.  And  should  the  same  item
+have  been  already  noted  elsewhere,  the  addition  of  a  hitherto
+unrecorded  habitat  will  have  a  definite  value,  when  accompanied  by
+particulars  of  the  date  when  the  custom  was  observed,  the  occasion
+on  which  the  superstitious  notion  was  revealed,  the  person  by
+whom  the  story  was  related.  Full  instruction  for  the  guidance  of
+collectors  will  be  found  in  the  Society's  Handbook*
+
+Secondly,  there  is  the  very  important  duty  of  classifying  and
+comparing  the  various  items  of  Folklore  as  they  are  gathered  from
+the  people  and  put  permanently  on  record.  The  section  of
+Folklore  devoted  to  Folktales  has  been  taken  in  hand,  and
+a  scheme  of  tabulation  which  is  being  extensively  used  both  by
+
+*  See  List  of  Publications  under  1889.
+
+
+workers  in  the  Society  and  by  other  students  has  been  prepared.
+A  large  number  of  variants  of  one  tale,  namely,  Cinderella,  have  been
+collected  and  printed.  Printed  Forms  are  prepared  for  those  willing
+to  assist  in  these  important  labours.
+
+Ancillary  tasks  to  the  collection  of  oral  and  to  the  classification  of
+recorded  material,  are  the  preservation  in  a  form  convenient  for  Folk-
+lore students  of  the  vast  number  of  facts  and  notices  of  a  Folklore
+character  scattered  in  various  books  and  periodical  publications,  and
+the  compilation  of  a  fully  detailed  bibliography  covering  all  fields  of
+Folklore  research.  A  promising  start  towards  the  accomplishment  of
+the  first  task  has  been  made  in  the  initiation  of  the  series  entitled
+"County  Folk-Lore,  Printed  Extracts,"  in  which  numberless  items  of
+Folklore  interest  are  rescued  from  the  pages  of  county  histories,  disser-
+tations of  the  older  antiquaries,  local  archaeological  associations,  &c.,
+and  classified,  upon  a  definite  plan,  by  counties  (see  List  of  Publica-
+tions, No.  37).  The  second  task,  the  compilation  of  an  adequate
+Folklore  bibliography,  has  been  and  still  is  delayed  alike  by  the  lack
+of  funds  and  the  insufficiency  of  workers,  and  the  Council  address  an
+earnest  appeal  to  all  Members  of  the  Society  to  come  forward  and  aid-
+in  its  achievement.
+
+By  such  means  the  Society  feel  convinced  they  will  be  able  to
+show  how  much  knowledge  of  early  man  has  been  lying  hidden  for
+centuries  in  popular  traditions  and  customs,  and  this  object  will  be
+quickened  by  the  addition  to  its  roll  of  all  students  interested  in
+primitive  culture.  Those  who  cannot  collect  can  help  in  the  work
+of  classification  and  comparison,  and  much  might  be  thus  accom-
+plished by  a  few  years  of  hearty  co-operation.
+
+The  Society  further  needs  more  ample  funds  to  publish  its
+results  and  its  materials  in  hand,  as  well  as  to  extend  the  area  of  its
+labours.  Increased  membership  would  make  it  possible  to  establish
+a  library  and  a  museum  of  Folklore  objects.  Meanwhile  the  nucleus
+of  both  already  exists  ;  the  former  at  the  Secretary's  chambers,  and
+the  latter  in  a  case  in  the  Cambridge  University  Museum,  for  which
+space  has  for  the  present  been  kindly  found  by  the  authorities  of
+the  Museum.  Contributions  to  both  are  invited.
+
+
+Publications.
+
+All  the  publications  of  the  Society  are  issued  to  Members,  and
+those  volumes  that  are  priced  in  the  following  list  may  be  obtained
+by  non-members  of  the  publisher,  Mr.  David  Nutt,  270,  Strand.
+
+Besides  the  volumes  prepared  for  the  Society,  Members  receive
+a  copy  of  the  quarterly  journal,  Folk-Lore ',  published  by  Mr.  Nutt.
+This  journal  is  the  official  organ  of  the  Society,  in  which  all  necessary
+notices  to  Members  are  published,  and  to  which  Members  of  the
+Society  are  invited  to  contribute  all  unrecorded  items  of  Folk-
+lore which  become  known  to  them  from  time  to  time,  or  any  studies
+on  Folklore  or  kindred  subjects  which  they  may  have  prepared  for
+the  purpose.
+
+Subscription.
+
+The  Annual  Subscription  to  the  Society  is  One  Guinea,  and  is
+payable  in  advance  on  the  first  of  January  in  each  year.  This  will
+entitle  Members  to  receive  the  publications  of  the  Society  for  such
+year.  Members  joining  during  the  current  year,  and  desirous
+of  obtaining  the  publications  of  the  Society  already  issued,  several  of
+which  are  becoming  scarce,  may  do  so  by  paying  the  subscriptions
+for  the  back  years.  Post-office  orders  and  cheques  should  be  sent
+to  the  Secretary*
+
+C  o  m  m  u  n  icat  ion  s.
+
+All  communications  relating  to  literary  matters,  to  contributions
+to  the  Journal,  to  the  wofk  of  collection,  to  the  tabulation  of  Folk-
+tales, &c.,  and  to  the  general  aims  of  the  Society,  should  be  made
+to  the  Secretary.  All  communications  respecting  the  delivery  or
+purchase  of  publications  to  the  Publisher.
+
+Persons  desirous  of  joining  the  Society  are  requested  to  send  in
+their  names  to  the  Secretary,  Mr.  F.  A,  MILNE,  it,  Old  Square,
+Lincoln's  Inn,  W.C.
+
+
+THE  PUBLICATIONS   OF  THE   FOLK-LORE   SOCIETY
+are  as  follows  (all  prices  are  net  for  cash)  :
+
+1878.
+
+1.  The  Folk-Lore  Eecord,  Vol.  I.    8vo,  pp.  xvi.,  252.
+
+[Issued  to  Members  only.]
+
+Mrs.  Latham  :  West  Sussex  Superstitions.  W.  R.  S.  Ralston  :
+Notes  on  Folktales.  A.  Lang  :  The  Folklore  of  France.  C.
+Pfoundes :  Some  Japan  Folktales.  W.  J.  Thorns :  Chaucer's
+Night-Spell ;  &c.,  &c.
+
+1879.
+
+2.  Notes  on  the  Folk-Lore  of  the  Northern  Counties  of
+
+England  and  the  Borders,  by  William  Henderson.  A
+new  edition,  with  considerable  additions  by  the  Author.  8vo,
+pp.  xvii.,  391.  [Published  at  i6s.]
+
+3.  The  Folk-Lore  Record,  Vol.  II.    8vo,  pp.  viiL,  250;  Ap-
+
+pendix, pp.  21.  [Issued  to  Members  only.]
+
+H.  C.  Coote  :  The  Neo-Latin  Fay.  J.  Sibree  :  Malagasy  Folk-
+lore. J.  Hardy:  Popular  History  of  the  Cuckoo.  J.  Napier:
+Old  Ballad  Folklore.  F.  G.  Fleay  :  Some  Folklore  from
+Chaucer.  The  Story  of  Conn-Eda  ;  &c.,  &c.
+
+1880.
+
+4.  Aubrey's  Eemaines  of  Gentilisme  and  Judaisme,  with
+
+the  additions  by  Dr.  White  Kennet.  Edited  by  James
+Britten,  F.L.S.  8vo,  pp.  vii.,  273.  [Published  at  135.  6d.]
+
+'  5.  The  Folk-Lore  Eecord,  Vol.  Ill,  Part  I.    8vo,  pp.  152.
+
+[Issued  to  Members  only.]
+
+H.  C.  Coote  :  Catskin.  J.  Fenton  :  Biographical  Myths  ;
+illustrated  from  the  Lives  of  Buddha  and  Muhammad.  J.  B.
+Andrews  :  Stories  from  Mentone  ;  Ananci  Stories.  J.  Long :
+Proverbs,  English  and  Celtic.  J.  S.  tidal  :  Dorsetshire
+Mummers.  H.  C.  Coote:  Indian  Mother-Worship;  &c.,  &c.
+
+6.  The  Folk-Lore  Record,  Vol.  III.,  Part  II.  8vo,  pp.  153-318 ;
+
+Appendix,  pp.  20.  [Issued  to  Members  only.]
+
+G.   Stephens  :    Two   English  Folktales.     W.  S.  Lach-Szyrma :
+
+Folklore  Traditions  of  Historical  Events.    Evelyn  Carrington  :
+
+
+8
+
+Singing  Games.  H.  C.  Coote  :  Folklore  the  Source  of  some
+of  M.  Galland's  tales  ;  &c.,  &c.
+
+1881.
+
+7.  Notes  on  the  Folk-Lore  of  the  North-east  of  Scotland,
+
+By  the  Rev.  Walter  Gregor.     8vo,  pp.  xii.,  288.        [135.  6d.]
+
+8.  Tne  Folk-Lore  Record,  Vol.  IV.  8vo,  pp.  2 39.  [Members  only.]
+
+Alfred  Nutt :  The  Aryan  Expulsion -and-Return  Formula  in  the
+Folk-  and  Hero-Tales  of  the  Celts.  J.  Sibree:  Additional
+Folklore  from  Madagascar.  W.  S.  Lach-Szyrma :  Slavonic
+Folklore.  H.  Friend:  Euphemism  and  Tabu  in  China.
+W.  Crooke :  Notes  on  Indian  Folklore ;  &c.,  &c.
+
+1882.
+
+9.  Researches  respecting  the  Book  of  Sindibad.    By  Pro-
+
+fessor Domenico  Comparetti  pp.  viii.,  167. — Portuguese
+Folk-Tales.  By  Professor  Z.  Consiglieri  Pedroso,  of  Lisbon ;
+with  an  Introduction  by  W.  R.  S.  Ralston,  M.A.  pp.  ix.,  124.
+In  one  vol.,  8vo.  [Published  at  155.]
+
+10.  The  Folk-Lore  Record,  Vol.  V.  8vo,pp.  229.  [Members  only.]
+
+Alfred  Nutt :  Mabinogion  Studies,  I.  Branwen,  the  daughter
+of  Llyr.  R.  C.  Temple:  Agricultural  Folklore  Notes  (India).
+Mrs.  Mawer  :  Roumanian  Folklore  Notes.  G.  L.  Gomme  ;
+Bibliography  of  English  Folklore  Publications  (A — B).  R.
+Clark :  Wexford  Folklore.  North  American  Indian  Legends
+and  Fables  ;  &c.,  &c.
+
+1883.
+
+11.  Folk-Lore  Journal,  Vol.  I.  (Monthly.)  [Not  sold  separately.]
+W.  G.  Black:  The  Hare  in  Folklore.     D.  G.  Brinton:  Folklore
+
+of  Yucatan.  J  Britten  :  Irish  Folktales.  A.  Lang :  Anthro-
+pology and  the  Vedas.  F.  E.  Sawyer:  St.  Swithin  and
+Rainmakers.  Professor  Sayce :  Babylonian  Folklore.  J.  Sibree :
+On  the  Oratory,  Songs,  Legends,  and  Folktales  of  the
+Malagasy.  C.  Swinnerton :  Four  Legends  of  King  Rasalu.
+R.  C.  Temple :  Panjabi  Proverbs.  C.  S.  Wake :  Ananci
+Stories.
+
+12.  Folk  Medicine.    By  W.G.  Black.    8vo,pp.  ii.,  227.    [135.  6d.]
+
+
+1884.
+
+14.  Folk-Lore  Journal,  Vol.  II.  (Monthly.)  [Not  sold  separately.]
+J.  Abercromby:  Irish  Stories;  Irish  Bird-Lore.    J.  Britten  :  Irish
+
+Folktales.  Ed.  Clodd:  The  Philosophy  of  Punchkin.  H.  C.
+Coote:  Sicilian  Children's  Games.  The  Folklore  of  Drayton.
+W.  Gregor  :  Folktales  from  Aberdeenshire.  W.  H.  Jones  and
+L.  Kropf  :  Szekely  Folk-Medicine.  G.  A.  Kinahan  :  Conne-
+mara  Folklore.  Countess  Martinengo-Cesaresco  :  American
+Games  and  Songs.  Rich.  Morris  :  Folktales  of  India.  Alf.
+Nutt  :  Irish  Mythology  according  to  a  recent  Writer.  F.  E.
+Sawyer  :  Sussex  Tipteerer's  Play  ;  Old  Clem  Celebrations.
+J.  Sibree  :  Malagasy  Folktales.  R.  C.  Temple  :  Burmese
+Ordeals.
+
+15.  The  Religious  System  of  the  Amazulu.    By  the  Bishop
+
+of  St.  John's,  Kaffraria,  [Out  of  print.
+
+
+16.  jMk-Lore  Journal,  VoflIL  (Quarterly.)  {Published  at  203.]
+Ch.  S.  Burne  :  The  Science  of  Folklore.     H.  C.  Coote  :  Origin
+
+of  the  Robin  Hood  Epos,  The  Folklore  of  Drayton.  G.  L.
+Gomme  :  The  Science  of  Folklore.  W.  Gregor  :  Some  Folk-
+lore of  the  Sea.  E.  S.  Hartland  :  The  Science  of  Folklore  ;
+The  Forbidden  Chamber.  T.  H.  Moore  :  Chilian  Popular
+Tales.  Rich.  Morris  :  Folktales  of  India  (Jatakas).  R.  C.
+Temple  :  North  Indian  Proverbs.
+
+17.  Folk-Lore  and  Provincial   Names   of  British   Birds.
+
+By  the  Rev.  C.  Swainson.  [Not  sold  separately.]
+
+1886.
+
+18.  Folk-Lore  Journal,  Vol.  IV.  (Quarterly.)  [Published  at  203.]
+Ch.  S.  Burne:    Classification  of  Folklore;  Staffordshire  Guiser's
+
+Play.  M.  A.  Courtney:  Cornish  Feasts  and  Feasten  Custom.
+W.  Gregor  :  Folklore  of  the  Sea  ;  Children's  Amusements.
+E.  S.  Hartland:  The  Outcast  Child.  G.  H.  Kinahan
+Donegal  Superstitions.  Rich.  Morris  :  Folktales  of  India
+J.  S.  Stuart-Glennie  :  Classification  of  Folklore.  R.  C
+Temple  :  The  Science  of  Folklore.
+
+
+10
+
+[13.]  Magyar    Folk-Tales.      By   the   Rev.   W.    H.   Jones   and
+Lewis  H.  Kropf.  [Published  at  153.]
+
+1887.
+
+19.  Folk-Lore  Journal,  Vol.  V.  (Quarterly.)  [Published  at  205.]
+W.  H.  Babcock  :  American  Song-Games.  W.  G.  Black  :  North
+Friesland  Folktales.  C.  P.  Bowditch :  Negro  Songs  from
+Barbados.  A.  Colles:  A  Witch's  Ladder.  M.  A.  Courtney:
+Cornish  Folklore.  J.  G.  Frazer :  A  Witch's  Ladder.  M.  Gaster :
+The  Modern  Origin  of  Fairy  Tales.  J.  S.  King  :  Folklore  of
+the  Western  Somali  Tribes.  W.  F.  Kirby  :  The  Forbidden
+Doors  of  the  Thousand  and  One  Nights.  C.  G.  Leland  :  The
+Witch's  Ladder.  N.  G.  Mitchell  Innes  :  Chinese  Birth,
+Marriage,  and  Death  Rites.  Mrs.  Murray- Aynsley  ;  Secular
+and  Religious  Dances  of  Primitive  Peoples.  G.  Taylor :
+Folklore  of  Aboriginal  Formosa.
+
+1888.
+
+21.  Folk-Lore  Journal,  Vol.  VI.  (Quarterly.)  [Not  sold  separately.]
+R.  Abercromby  :   Cloud-Land  in  Folklore.     W.   H.  Babcock  :
+
+Folktales  collected  near  Washington.  J.  Batchelor  i  Some
+Specimens  of  Aino  Folklore.  B.  H.  Chamberlain  :  Aino
+Folktales.  Miss  Dempster :  Folklore  of  Sutherlahdshire.  J.  J.
+Foster  :  Dorset  Folklore.  J.  G.  Frazer  :  Folklore  at  Bal-
+quhidder.  D.  F.  A.  Hervey  :  Traditions  of  the  Aborigines
+of  Malacca.  J.  S.  King  :  Folklore  and  Social  Customs  of  the
+Western  Somali  Tribes.  Rajah  Donan :  A  Malay  Fairy
+Tale ;  &c.,  &c.
+
+22.  Aino  Folk-Tales.     By  Basil  Hall  Chamberlain,  with  Intro-
+
+duction by  Edward  B.  Tylor.  (Privately  printed  and  sold  to
+Members  of  the  Society  only,  price  55.  Not  included  in  the
+Annual  Subscription.)
+
+23.  Studies  in  the  Legend  of  the  Holy  Grail,  with  especial
+
+reference  to  the  Hypothesis  of  its  Celtic  Origin.    By
+
+Alfred  Nutt.  [ios.  6d.]
+
+1889.
+
+24.  Folk-Lore  Journal,  Vol.  VII.    (Quarterly.)
+
+[Not  sold  separately,  only  in  set.]
+J.   Abercromby :   The   Beliefs  and   Religious   Superstitions    of
+
+
+II
+
+
+the  Mordvins.  Ch.  S.  Burne  :  Derbyshire  and  Staffordshire
+Sayings.  Ed.  Clodd :  The  Philosophy  of  Rumpelstiltskin
+J.  G.  Frazer  :  Notes  on  Harvest  Customs ;  A  South  African
+Red  Riding  Hood.  G.  L.  Gomme :  Coorg  Folklore.
+W.  Gregor  :  Aberdeenshire  Folktales.  Rich.  Morris  :  Death's
+Messengers.  T.  F.  Ordish :  Morris  Dance  at  Revesby.
+R.  F.  St.  A.  St.  John  :  Indo-Burmese  Folklore.  Prof.  Sayce  :
+Cairene  Folklore.  J.  S.  Udal :  Dorsetshire  Children's  Games.
+
+25.  Gaelic  Folk-Tales.     Edited  and  translated  by  the  Rev.  D.
+
+Mclnnes,  with  notes  by  Alfred  Nutt.
+
+[Not  sold  separately  in  Society  binding,  but  copies  may  be
+had  from  D.  Nutt  at  153.  net.]
+
+[20.]  The  Handbook  of  Folk-Lore.          [Published  at  25.  6d.]
+
+1890.
+
+26.  The  Exempla  of  Jacques  de  Vitry.    with  Introduction,
+
+Analysis,  and  Notes.     Edited  by  Professor  T.  F.  Crane.
+
+[Not  sold  separately ;  only  in  set,]
+
+27.  Folk-Lore,  Vol.  I.     (Issued  quarterly.)       [Published  at  155.]
+A.  Lang :    Presidential   Address ;    English   and   Scotch   Fairy
+
+Tales.  J.  Abercromby:  Magic  Songs  of  the  Finns;  Marriage
+Customs  of  the  Mordvins.  A.  C.  Haddon  :  Legends  from
+Torres  Straits.  W.  Ridgeway :  Greek  Trade  Routes  to
+Britain.  E.  S.  Hartland  :  Recent  Research  on  Folktales  j
+Peeping  Tom  •  and  Lady  Godiva.  F.  York  Powell :  Recent
+Research  on  Teutonic  Mythology.  J.  G;  Frazer:  Some
+Popular  Superstitions  of  the  Ancients,  G.  L.  Gomme :  A
+Highland  Folktale  and  its  Foundation  in  Usage.  James
+Darmesteter  and  A.  Barth :  "  How  they  met  themselves."
+A.  Nutt:  Reports  on  Celtic  Myth  and  Saga,  1888-89,  an<3
+on  the  Campbell  MSS.  at  Edinburgh.  R.  H,  Busk  :  Report
+on  Italian  Folksongs.  C.  S.  Burne :  The  Collection  of
+English  Folklore.  S.  Schechter :  The  Riddles  of  Solomon
+in  Rabbinic  Literature.  J.  H.  S.  Lockhart:  Notes  on
+Chinese  Folklore ;  The  Marriage  Ceremonies  of  the  Manchus.
+J.  Jacobs :  Recent  Research  in  Comparative  Religion ;
+P.  Kowalewsky:  Marriage  among  the  Early  Slavs.  W.  A
+Clouston  :  The  Story  of  The  Frog  Prince.
+
+
+12
+
+
+28.  Folk-Lore,  Vol.  II.     (Issued  quarterly.)     [Published  at  155.]
+G.  L.  Gomme :  Annual  Address  ;  Recent  Research  on  Institu-
+tions.  J.  Abercromby :  Magic  Songs  of  the  Finns.    M.  Gaster:
+The  Legend  of  the  Grail.   Col.  G.  Maxwell:  Slava.  W.  Gregor:
+The  Scotch  Fisher  Child;    Weather   Folklore   of  the   Sea.
+A.  Nutt    An  Early  Irish  Version  of  The  Jealous  Stepmother
+and  the  Exposed  Child.     R.  F.  St.  A.  St.  John,  Bhuridatta.
+E.  S.  Hartland  :  Report  on  Folktale  Research,  1890.      Mrs.
+M.  C.  Balfour :  Legends  of  the  Lincolnshire  Cars.     J.  Aber-
+cromby: An  Amazonian  Custom  in  the  Caucasus*.   J.  Jacobs:
+Childe  Rowland.    F.  B.  Jevons  :  Report  on  Greek  Mythology.
+J.  Rhys  :  Manx  Folklore  and  Superstitions.     T.  F.  Ordish :
+Folkdrama.     J.  Sibree :    The  Folklore  of  Malagasy   Birds
+J.  G.  Bourke :    Notes   upon   the   Religion   of  the   Apache
+Indians.     Alfred  Nutt :    Les  derniers  travaux  allemands  et
+la  legende  du  Saint-Graal.
+
+29.  The    Denham    Tracts.      Vol.    I.      Edited   by   Dr.   James
+
+Hardy.  [Published  at  135.  6d.]
+
+1892.
+
+30.  Folk-Lore,  Vol.  III.     (Issued  quarterly.)    [Published  at  153.]
+G.  L.  Gornme :  Presidential  Address.     A.   Nutt :    The  Lai  of
+
+Eliduc  and  the  Marchen  of  Little  Snow-white ;  Celtic  Myth
+and  Saga,  1890-91.  J.  Abercromby:  Magic  Songs  of  the
+Finns ;  Samoan  Tales ;  An  Analysis  of  certain  Finnish  Myths
+of  Origin.  W.  Gregor  :  Guardian  Spirits  of  Wells  and  Lochs.
+J.  Rhys  :  Manx  Folklore  and  Superstitions ;  ' '  First  Foot "  in
+the  British  Isles.  D.  Elmslie  :  Folklore  Tales  of  Central
+Africa.  E.  S.  Hartland :  Folktale  Research,  1890-91  ;
+The  Sin-Eater.  A.  Tille  :  German  Christmas  and  Christmas
+Tree.  A.  MacBain :  The  Baker  of  Beauly.  J.  Sibree :
+Divination  among  the  Malagasy.  Mrs.  E.  Gutch :  The  Pied
+Piper  of  Hamelin.  J.  S.  Stuart-Glennie  :  Dr.  Tylor's  Views
+on  Animism.  J.  Macdonald  :  Bantu  Customs  and  Legends.
+M.  Wilmotte:  Importance  du  Folklore  pour  les  etudes  de
+1'ancien  Francois.  C.  J.  Billson  :  The  Easter  Hare.  Whitley
+Stokes :  The  Bodleian  Dinnschenchas,  edited  and  translated.
+
+
+13
+
+M.  L.  Dames  :  Balochi  Tales.     Cecil  Smith  :  Recent  Greek
+Archaeology  in  its  relation  to  Folklore.
+
+31.  Cinderella.      Three  hundred  and  forty-five  variants.      Edited
+by  Miss  M.  Roalfe  Cox.  [Published  at  155.]
+
+1893.
+
+32  Folk-Lore,  Vol.  IV.  (Issued  quarterly.)  [Published  at  153.]
+G.  L.  Gomme  :  Presidential  Address.  J.  Abercromby  :  Magic
+Songs  of  the  Finns.  W.  H.  D.  Rouse :  May  Day  in
+Cheltenham.  J.  Rhys :  Sacred  Wells  in  Wales.  E.  S.
+Hartland:  Folktale  Research,  1892;  Pin-Wells  and  Rag-
+Bushes.  A.  Nutt .  Cinderella  and  Britain ;  Some  Recent
+Utterances  of  Mr.  Newell  and  Mr.  Jacobs,  a  Criticism.
+G.  M.  Godden:  The  False  Bride;  The  Sanctuary  of
+Mourie.  T.  F.  Ordish  :  English  Folk-drama.  L.  L.
+Duncan :  Folklore  Gleanings  from  County  Leitrim.  M.  L.
+Dames:  Balochi  Tales.  May  Robinson  and  M.  J.  Wai-
+house  :  Obeah  Worship  in  East  and  West  Indies.  W.  A.
+Craigie :  The  Oldest  Icelandic  Folklore.  J.  Jacobs  :  Cin-
+derella in  Britain.  E.  Peacock  :  The  Cow-Mass.  G.  Hastie,
+Jas.  E.  Crombie  :  First  Footing.  P.  Gave  :  Szekely  Tales.
+A.  C.  Haddon  :  A  Batch  of  Irish  Folklore.  A.  Nutt :  Celtic
+Myth  and  Saga,  1892-93.  A.  Lang  :  Cinderella  and  the
+Diffusion  of  Tales.  W.  Stokes  :  The  Edinburgh  Dinnschen-
+chas.  R.  H.  Codrington  :  Melanesian  Folklore.
+
+33.  SaxO-GrrammaticilS.     Books  I.-IX.     Translated  by  Oliver
+
+Elton,  with  introduction  by  Professor  York  Powell.
+
+[Not  sold  separately  in  Society  binding,  but  copies  may  be
+had  from  D.  Nutt  at  155.  net.]
+1894.
+
+34.  Folk-Lore,  Vol.  V.     (Issued  quarterly. ,      [Published  at  203.]
+G.    L.    Gomme :   Presidential   Address.      W.    H.    D.    Rouse :
+
+Religious  Tableaux  in  Italian  Churches.  F.  Fawcett :  Early
+Races  of  South  India.  C.  S.  Burne  :  Guy  Fawkes  on  the
+South  Coast.  F.  York  Powell:  Saga-Growth.  E.  Anichkof:
+St.  Nicolas  and  Artemis..  W.  P.  Ker :  The  Roman  van
+Wakwein.  J.  Jacobs,  A.  Nutt :  The  Problem  of  Diffusion.
+
+
+14
+
+L.  L  Duncan  :  Further  Notes  from  County  Leitrim.  A.  W.
+Moore :  Water  and  Well-Worship  in  Man  G.  W.  Wood  :
+On  the  Classification  of  Proverbs  and  Sayings  in  Manx  and
+English.  M.  J.  Walhouse:  Ghostly  Lights.  K.  Meyer:
+The  Irish  Mirabilia  in  the  Norse  Speculum  Regale.  A.  C.
+Haddon  :  Legends  from  the  Woodlarks,  British  New  Guinea.
+
+35.  Denham  Tracts,  Vol.  II.  [Published  at  133.  6d,]
+
+1895.
+
+36.  Folk-Lore,  Vol.  VI.     (Issued  quarterly.)  [Published  at  205.]
+E.  Clodd:  Presidential  Address.     A,  J.  Evans  :  The  Rollright
+
+Stones  and  their  Folklore.  T.  Walters  :  Some  Corean
+Customs  and  Notions.  W.  W.  Groome :  Suffolk  Leech-
+craft.  A.  E.  Crawl ey :  Taboos  of  Commensality.  R.  C.
+Maclagan  :  Notes  on  Folklore  Objects  collected  in  Argyle-
+shire.  M.  MacPhail :  Traditions,  Customs,  and  Super-
+stitions of  the  Lewis.  W.  H.  P.  Rouse  :  Notes  from  Syria.
+J.  P.  Lewis  :  Folklore  from  North  Ceylon.  G.  M,  Godden  :
+The  Sacred  Marriage.  A.  Lang :  Protest  of  a  Psycho-
+Folklorist.  J.  E.  Crornbie :  Shoe-throwing  at  Weddings.
+C.  J.  Billson  :  Folksongs  in  the  Kalevala.  W.  A.  Craigie  :
+Donald  Ban  and  the  B6can.  H.  F.  Feilberg:  Hopscotch-
+as  played  in  Denmark.  The  "  Witch-burning  "  at  Clonmel.
+
+37.  County  Folk-Lore.  Printed  Extracts.  Vol.  I.  Gloucester-
+
+shire, Suffolk,  Leicester  and  (Rutland.
+
+[Published  at  155.]
+1896.
+
+38.  Folk-Lore,  Vol.  VII.    (Issued  quarterly.)  [Published  at  203.]
+E.  Clodd :    Presidential   Address.      B.    G.    Corney :    Leprosy
+
+Stones  in  Fiji.  F.  C.  Conybeare  :  The  Barlaam  and  Josaphat
+Legend  in  the  Ancient  Georgian  and  Armenian  Literatures.
+W.  H.  D.  Rouse :  Folklore  Firstfruits  from  Lesbos.  L.  L.
+Duncan  :  Fairy  Beliefs,  &c.,  from  County  Leitrim ;  The
+Quicken -Tree  of  Dubhross.  M.  Gaster :  Fairy  Tales  from
+inedited  Hebrew  MSS..  of  the  Ninth  and  Twelth  Centuries.
+F.  W.  Bourdillon :  The  Genesis  of  a  Romance-hero,  as  illus-
+trated by  the  development  of  Taillefer  de  Ldon.  M.  Peacock
+
+
+Executed  Criminals  and  Folk-Medicine ;  The  Hood- Game
+at  Haxey,  Lincolnshire.  J.  Abercromby  :  Funeral  Masks  in
+Europe.  C.  S.  Burne  :  Staffordshire  Folk  and  their  Lore.
+
+39.  The  Procession  and  Elevation  of  the  Ceri  at  Gubbio.
+
+By  H.  M.  Bower.  [Published  at  75.  6d  ]
+
+1897.
+
+40.  Folk-Lore,  Vol.  VIII.  (Issued  quarterly.)    [Published  at  205
+A.    Nutt :    Presidential     Address,     the    Fairy    Mythology    of
+
+English  Literature,  its  Origin  and  Nature.  J.  B.  Andrews :
+Neapolitan  Witchcraft.  T.  Doherty :  Notes  on  the  Peasantry  of
+Innishowen,  Co.  Donegal.  H.  Gollancz :  The  History  of  Sind-
+ban  and  the  Seven  Wise  Masters,  translated  from  the  Syriac.
+R.  E.  Dennett :  Death  and  Burial  of  the  Fiote.  Mary  H.
+Kingsley ;  The  Fetish  View  of  the  Human  Soul.  M.  J.
+Walhouse :  Folklore  Parallels  and  Coincidences.  R.  C.
+Maclagan  :  Ghost  Lights  of  the  West  Highlands.  W.  P.  Ker  :
+Notes  on  Orendel  and  other  Stories.  P.  Manning :  Some
+Oxfordshire  Seasonal  Festivals.  W.  Crooke  :  The  Binding
+of  a  God  :  a  Study  of  the  Basis  of  Idolatry.
+
+41.  The  Folk-Lore  of  the  Fiote  (French  Congo),  by  R.  M.
+
+Dennett.  [In  the  Press.]
+
+The  Society  also  has  the  very  small  remainder  stock  of  the  late
+Bishop  Callaway's  "Nursery  Tales  and  Traditions  of  the  Zulus."
+Price,  to  Members  only,  2 is.
+
+The  Society  also  issues  "The  Transactions  of  the  Second
+International  Folk-Lore  Congress"  (London,  1891),  edited  by
+J.  Jacobs  and  Alfred  Nutt.  155.
+
+
+••V':"'
+
+
+GR
+360
+
+B18D4
+
+
+Dennett,   Hichard  Edward
+
+Notes  on  the  folklore  of
+the  rjort
+
+
+PLEASE  DO  NOT  REMOVE
+CARDS  OR  SLIPS  FROM  THIS  POCKET
+
+UNIVERSITY  OF  TORONTO  LIBRARY
+

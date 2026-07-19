@@ -68,6 +68,65 @@ figures:
 
 # Mythology of the Blackfoot Indians
 
+This is a digital copy of a book that was preserved for generations on library shelves before it was carefully scanned by Google as part of a project
+to make the world's books discoverable online.
+
+It has survived long enough for the copyright to expire and the book to enter the public domain. A public domain book is one that was never subject
+to copyright or whose legal copyright term has expired. Whether a book is in the public domain may vary country to country. Public domain books
+are our gateways to the past, representing a wealth of history, culture and knowledge that's often difficult to discover.
+
+Marks, notations and other marginalia present in the original volume will appear in this file - a reminder of this book's long journey from the
+publisher to a library and finally to you.
+
+Usage guidelines
+
+Google is proud to partner with libraries to digitize public domain materials and make them widely accessible. Public domain books belong to the
+public and we are merely their custodians. Nevertheless, this work is expensive, so in order to keep providing this resource, we have taken steps to
+prevent abuse by commercial parties, including placing technical restrictions on automated querying.
+
+We also ask that you:
+
++ Make non-commercial use of the files We designed Google Book Search for use by individuals, and we request that you use these files for
+personal, non-commercial purposes.
+
++ Refrain from automated querying Do not send automated queries of any sort to Google's system: If you are conducting research on machine
+translation, optical character recognition or other areas where access to a large amount of text is helpful, please contact us. We encourage the
+use of public domain materials for these purposes and may be able to help.
+
++ Maintain attribution The Google "watermark" you see on each file is essential for informing people about this project and helping them find
+additional materials through Google Book Search. Please do not remove it.
+
++ Keep it legal Whatever your use, remember that you are responsible for ensuring that what you are doing is legal. Do not assume that just
+because we believe a book is in the public domain for users in the United States, that the work is also in the public domain for users in other
+countries. Whether a book is still in copyright varies from country to country, and we can't offer guidance on whether any specific use of
+any specific book is allowed. Please do not assume that a book's appearance in Google Book Search means it can be used in any manner
+anywhere in the world. Copyright infringement liability can be quite severe.
+
+About Google Book Search
+
+Google's mission is to organize the world's information and to make it universally accessible and useful. Google Book Search helps readers
+discover the world's books while helping authors and publishers reach new audiences. You can search through the full text of this book on the web
+
+
+at |http : //books . google . com/
+
+
+HARVARD UNIVERSITY
+
+
+VEHRI
+
+
+TOZZER LIBRARY
+
+{Gift ofl
+
+George Grant MacCurdy
+
+
+n-.G. Mii'tJurdy
+
+
 ANTHROPOLOGICAL PAPERS
 
 
@@ -739,7 +798,7 @@ or spider-like qualities attributed to Nih*a"<^a"," ^ applies equally well to
 
 » Thompson River Indian Traditions, p. 7.
 
-2 George A. Dorsey an l Alfred L. Kroeber Traditions of the Arapaho. (Field Columbian
+2 George A. Dorsey an<l Alfred L. Kroeber Traditions of the Arapaho. (Field Columbian
 Museum Publication 81. 1903. footnote, p. 7).
 
 
@@ -1818,7 +1877,7 @@ When the women came back they said, "We cannot find the meat. The
 eaten it."
 
 "Oh," said Old Man, "while you were gone, I got an antelope. It is
- x)oking in the pot. Now be careful; don't wake the babies. I shall go
+<x)oking in the pot. Now be careful; don't wake the babies. I shall go
 after some wood." So Old Man went out, gathered a pile of wood, and
 blocked the door with it. Then he called out to the women, "Your babies
 are cooking in the pot."
@@ -1834,7 +1893,7 @@ While they were crying. Old Man came out of another hole, disguised
 
 1 Similar tales are known to the Arapaho (Dorsey and Kroeber, op. cit., pp. 107-111).
 The Gros Ventre version is similar only in the main incident of the mice dancing in the skull
- Kroeber, op. cit., p. 68). The Arikara have a similar tale (Dorsey, op. cit., p. 137).
+<Kroeber, op. cit., p. 68). The Arikara have a similar tale (Dorsey, op. cit., p. 137).
 
 > This incident is found among the Gros Ventre (Kroeber, op. cit., p. 71).
 
@@ -3887,7 +3946,7 @@ He said nothing. As time went on he became very fond of the young
 beaver and played with him every evening.
 
 
-1 He orded by Dr. R. H. Lowie.
+1 He<orded by Dr. R. H. Lowie.
 
 
 76 Anthropologiccd Papers American Museum of Natural History. [VoL II,
@@ -6006,7 +6065,7 @@ up one leg, and he thought to himself, "He is doing some fancy dancing."
 So he, also, danced in the same way. Now the father observed that there
 were two calves giving the sign, and realized that he must make a guess,
 lie did so, but the guess was wrong. Immediately the herd nished upon
-the man and tram])le l him into the dust. Then they all ran away except
+the man and tram])le<l him into the dust. Then they all ran away except
 the calf-bov, his mother, and an old bull.
 
 
@@ -7598,7 +7657,7 @@ hard.
 
 
 > A part of this tale appears in a conglomerate Sun and Moon Myth recorded by Grinnell
- Journal of American Folk-I.ore, Vol. VI, p. 46). There is also a slight resemblance to an
+<Journal of American Folk-I.ore, Vol. VI, p. 46). There is also a slight resemblance to an
 Arapaho narrative, Dorsej' and Kroeber, op. cit., p. 441.
 
 
@@ -8164,3 +8223,12208 @@ informant expresses the same opinion as to the origin of this myth as attributed
 Fl^che, an Omaha, J. O. Dorsey, op. cit., p. 126.
 
 2 See Grinnell, op. cit., pp. 125, 132.
+
+
+ANTHROPOLOGICAL PAPERS
+
+OF THE
+
+American Museum of Natural History
+
+Vol. II, Part II.
+
+
+THE NORTHERN SHOSHONE.
+
+By Robert H. Lowie.
+
+CONTENTS.
+
+Page.
+
+Introduction 169
+
+I. Ethnology '171
+
+History and Geography 171
+
+Material Culture 173
+
+Stone, Bone and Shell Implements 173
+
+Preparation of Hides . " 175
+
+Pottery ,. . 177
+
+Embroidery and Weaving 177
+
+Clothing and Personal Decoration 179
+
+Dwellings 182
+
+Economic Life 184
+
+Hunting 185
+
+Fishing 185
+
+Food 187
+
+Transportation and Trade 189
+
+Warfare 191
+
+Games 195
+
+Art 199
+
+Decorative Art 200
+
+Music 206
+
+Social Organization 206
+
+Terms of Relationship 209
+
+Marriage 210
+
+Various Customs 211
+
+Names 211
+
+Salutiition 211
+
+Smoking 212
+
+Menstrual Lodge 214
+
+Burial 214
+
+Dances 216-
+
+165
+
+
+166 Anthropological Papers American Museum of Natural HieUyry, [Vol. II,
+
+Page
+
+Religion ; .• . 223
+
+The Soul 226
+
+Ghosts 227
+
+Medicine 227
+
+Charms 229
+
+Conceptions of the Universe 230
+
+Miscellaneous 232
+
+II. Mythology 233
+
+1. The Creation of the Shoshone 236
+
+2. Wolf and Coyote 239
+
+3. The Theft of Fire 244
+
+4. The Theft of Pine-nuts 246
+
+5. The Flood 247
+
+6. Coyote and his Dau^ters 248
+
+7. Iron-Man 251
+
+8. The Sun 252
+
+9. The Bear and the Deer 253
+
+10. The Weasels and the Giants 254
+
+11. Dzoavits and the Weasels 257
+
+12. Dzoavits and Mosquito 259
+
+13. The Weasel Brothers 260
+
+14. Dzoavits and the old Woman 261
+
+15. Dzoavits 262
+
+16. Coyote and the Rock 262
+
+17. The Bungling Host 265
+
+18. Porcupine and Coyote 267
+
+19. Skunk 268
+
+20. Skunk and Coyote 270
+
+21. Skunk and the Mountain-Lion 271
+
+22. The Bull-frog and the Elk 271
+
+23. Coyote Tales 272
+
+24. Lodge-Boy and Thrown-Away 280
+
+25. The Boy's Travels and the Water- Youths 283
+
+26. The Boy who visited his Grandfathers 285
+
+27. The Disobedient Brother 287
+
+28. The Sheep-Woman 288
+
+29. Thunder 290
+
+30. The Bad Medicine-Man 290
+
+31. Cannibal Stories 291
+
+32. The Buffalo who Stole an Indian Girl 293
+
+33. The Stolen Wife 293
+
+34. The Horse- Woman 294
+
+35. The White Man and the Monster-Bu-d 294
+
+36. The Poor Boy and his Horse 295
+
+37. The Bear's Son 298
+
+38. Ghost Stories 299
+
+39. Enga-g\^'acu's Experiences in the Underworld .... 301
+
+BiBUOGRAPHY 303
+
+
+1909.] Lovne, The Northern Shoshone. 167
+
+ILLUSTRATIONS.
+
+Plates.
+
+I. Moccasins. Fig. 1 (Museum No. 50-6403 B), length 25 cm.; Fig. 2 (50-1141 A),
+
+length 14 cm.; Fig. 3 (50-6402 B), length 25 cm.; Fig. 4 (50-6409 A), length
+25 cm.
+
+Text Fiqures.
+
+Page
+
+1. Steatite Cup 174
+
+2. Hide tied to a Frame for Tanning . . 175
+
+3. Arrangement for Smoking a Tanned Hide 176
+
+4. Loom for Bead-weaving 177
+
+5. Outlines of Shoshone Basket-forms 178
+
+6. Pattern of a Shoshone Moccasin 180
+
+7. Bead Necklace 182
+
+8. Sahnon-gig 186
+
+9. Lemhi Hearth and Drill. Wind River Drill 189
+
+10. Cradle-board 190
+
+II. Set of Dice 197
+
+12. Buckskin Ball 198
+
+13. "Spreading Design" on Moccasins 201
+
+14. Beaded Strip on Dance-legging 202
+
+15. Beaded Strip on Dance-legging 202
+
+16. Parfleche Decoration 203
+
+17. Parfleche Decoration . 204
+
+18. Parfleche Decoration 205
+
+19. Designs on a Wind River Drum 207
+
+20. Musical Instrument 219
+
+
+INTRODUCTION.
+
+In the spring of 1906, the writer left New York on a Museum expedition
+to the Shoshone of Lemhi Agency, Idaho. As there were rumors that the
+Lemhi people had already been removed to Fort Hall in the southeastern
+part of the state, it was necessary to stop ofif on that reservation in order to
+obtain authentic information on this point. After a few days* delay at
+Inkom, Pocatello and Ross Fork, I proceeded to Lemhi and remained there
+for the remainder of the summer, the removal of the Indians having been
+postponed until the following spring. While at Lemhi, I enjoyed the kind
+hospitaUty of Mr. Eugene Duclos, the superintendent of the reservation.
+To Dr. Murphy, the government physician, to Mr. J. P. Sherman of Owyhee,
+Nevada, and to Mr. Faukner, a half-breed Shoshone from Fort Hall, whom
+I met in New York, I am indebted for a few details. Some facts of com-
+parative interest were revealed in a conversation with Mr. H. H. St. Clair,
+who had visited the Wind River Reservation in Wyoming, and I have also
+drawn on the notes obtained by Mr. St. Clair in connection with specimens
+collected for the Museum. Professor Franz Boas kindly offered me the use
+of the Shoshone texts recorded by Mr. St. Clair; it merely proved practica-
+ble, however, to call attention to some points of comparative interest re-
+vealed by this additional material. As much of the material culture of the
+Shoshone has disappeared, it seemed advisable to utilize the information
+buried in older Uterature and to weld it, together with my field-notes, into
+a somewhat systematic, though necessarily brief, account of the Northern
+Shoshone. Mr. Herbert J. Spinden's paper on The Nez Perci Indians
+(Memoirs of the American Anthropological Association, Volume II, Part 3,
+pp. 165-274) appeared too late to be adequately used for comparative pur-
+poses.
+
+The majority of the myths were told by old informants and taken down
+from the translation of my interpreters. Several stories were told in the
+Shoshone-English jargon of a middle-aged Indian sufficiently conversant
+with English to make himself understood. The tales of Iron-Man, the
+Bear and the Deer, and some of the Dzo'avits and minor Coyote stories
+were recorded as texts. The footnotes to the myths are not exhaustive,
+calUng attention only to striking similarities and to homologies of compara-
+
+169
+
+
+170 AfUkropological Papers American Museum of Natural History, [Vol, II,
+
+tive interest. In order to facilitate both comparative studies and a survey
+of the incidents of each story, every paragraph has been furnished with
+head-lines in marginal indentations. Though the representation of tales
+by such skeletal outlines as suggested by Mr. Joseph Jacobs at the Inter-
+national Folk-Lore Congress of 1891 did not prove practicable in the present
+stage of the catchword movement, the superiority of even the headlines
+here presented over the conventional abstracts appended to collections of
+North American tales will, I think, be conceded.
+
+As the time at my disposal permitted but a very superficial consideration
+of linguistic questions, no attempt is made in the following paper to render
+with more than approximate accuracy the intricacies of Shoshone phonetics.
+A constant error, which, however, it was not deemed advisable to remedy
+by wholesale correction, is the substitution of surds for sonants pronounced
+with surd force. Thus, p in pi'a does not represent the English sound,
+but a medial, and the same applies to t and k.
+
+a, e, i, o, u have their continental sounds.
+
+a, 6, ii, are approximately the modified German vowels.
+
+E an obscure vowel.
+
+^ whispered final vowel.
+
+V Spanish b.
+
+r ''Shoshone r,'' related to d.
+
+dz intermediate between English dz and j in judge.
+
+X Grerman ch in ach.
+
+c English sh.
+
+Robert H. Lowie.
+New York,
+December, 1908.
+
+
+1909.] Lotvie, The Northern Shoshone, 171
+
+
+I. ETHNOLOGY.
+
+HISTORY AND GEOGRAPHY.
+
+The Shoshone, or Snakes, constitute the northernmast division of the
+Shoshonean family. They occupied western Wyoming and Montana, central
+and southern Idaho, northern Utah and Nevada, and all but the western-
+most part of Oregon. Offshoots of the tribe fished on the Des Chutes
+every spring,^ and were even found on the upper Willamette (Multnomah);'
+so that the boundaries customarily assigned to Shoshone territory must be
+extended rather considerably towards the west. In Utah, most of the
+settlements were north of Great Salt Lake in Weber, Bear and Cache
+Valleys and in the neighborhood of Goose Creek Mountains. In Nevada,
+several bands roamed from Humboldt River to a hundred miles south, the
+chief of one of them living near Honey Lake, California.' In Wyoming,
+the special territory of the Shoshone was on Green and Sweetwater Rivers;
+and they are said to have extended eastward as far as the North Platte.*
+
+The earliest notice of a meeting with the tribe is due to Lewis and Clark,
+who sighted the first Shoshone in southwestern Montana, and, after crossing
+the divide, visited the village on Lemhi River in August, 1805. From ex-
+plicit statements on the part of natives as well as from their riding-gear,
+they gathered that there had already been intercourse with Spanish traders.*
+From early accounts it is clear that the only constant allies of the Snakes
+were the Datcl'ba (Tushepaws), a subdivision of the Flathead, who joined
+their fishing-parties and accompanied them on their hunting excursions
+into the Plains.* The Bannock, though never hostile, do not seem to have
+afforded their congeners any protection against their eastern foes in the
+early days. Largely on account of their comparative lack of firearms,
+perhaps partly on account of their natural timidity, the Shoshone were
+warred upon and despoiled of their possessions by the majority of Plains
+tribes. Thus, in the summer of 1805, the Atsina had deprived them of
+their skin-lodges and stolen many of their horses.^ On their westward trip
+Lewis and Clark met a number of tribes which were in the habit of harassing
+the Snakes. The Mandans were preparing an expedition against them.
+
+
+1 Lewis and Clark, III, 147; IV. 366.
+
+2 Ibid., IV, 280.
+
+« Burton, 474; Schoolcraft, V, 201.
+
+* Schoolcraft. V, 199.
+
+« Lewis and Clark, IV, 74, 77.
+
+Ibid., Ill, 27; Irving, (b) I. 274.
+
+7 Lewis and Clark, II, 383; III. 38.
+
+
+172 Anthropological Papers American Museum of Natural History. [Vol. II,
+
+the Hidatsa had captured Shoshone women, the Arikara professed to have
+learned the bead-making industry from Shoshone prisoners,* the Blackfoot
+and Crows were dreaded enemies,^ though the former were occasionally
+repelled by both Bannock and Shoshone.* The Wyoming Shoshone had
+to suffer from the depredations of the Cheyenne and Arapaho.* In the
+south the Shoshone had to contend against the Ute until a treaty of peace
+was concluded under the influence of Brigham Young.^ Practically all
+the Columbian tribes, such as the Nez Perc6, Cayuse and Walla Walla,
+were hostile;' but against some of these the Shoshone seem to have held
+their own.^ Some of the western bands were at war with the Klamath.^
+Of course, practically none of these statements as to tribal relations applies
+rigorously to all the local Shoshone groups, or to any one group at all periods.
+In some cases friendship and hostiUty alternated irregularly. Thus, the
+Crow in 1806 were temporarily at peace with the Snakes,* ousted them from
+the upper Missouri region in 1822,*® were allies in 1842 against the Gros
+Ventres, Ogallala and Cheyenne," and in still later times formed a confedera-
+tion with Snakes, Bannock and Nez Perc6 against the Blackfoot, Sioux,
+Cheyenne and Arapaho." Similarly, the Ute, who in 1834 were reported
+as at war with the Shoshone,** were found at other times at peaceable rendez-
+vous on Green River with Shoshone, Nez Perc6, and Flathead Indians."
+
+While the Bannock have occasionally given the government cause for
+forcible intervention, the relations of the Shoshone to the whites, with the
+exception of local disturbances,** have been almost uniformly amicable.
+The friendship of the Lemhi was tested in 1877, when they remained neutral,
+refusing to join the Nez Perc6 under Chief Joseph. The Shoshone are now
+confined to three reservations. Fort Hall, Idaho; Wind River Reservation,
+Wyoming; and Western Shoshone Reserv^ation, Nevada. The Lemhi
+were moved to Fort Hall in 1907. The total population is probably about
+3300, corresponding to an estimated total of 4000 in 1847 for Shoshone and
+
+
+1 Lewis and Clark, I, 210, 220, 249. 272, 283.
+
+a Ibid.. II, 252; V. 270. Wyeth, 206-7. Irving, (b) II, 159.
+
+3 Ross. I, 226. Townsend, 242.
+
+* Fremont, 127.
+
+* Remy, I, 291.
+
+« Lewis and Clark, IV, 280, 331. 362; V. 6. 24. 106. Ross. I. 223, et passim.
+
+7 Lewis and Clark, III, 145, 149. 168.
+• 8 Gatschet. 28.
+
+» Lewis and Clark. V. 273.
+»o Schoolcraft. V. 198.
+" Fremont. 41. 59, 146.
+« Clark, 14.
+18 Ibid., 338.
+" Parker, 80, 83.
+ifi Bancroft, 247, 259-60, 433. 515-16.
+
+
+1909.] Lovne, The Northern Shoshone. 173
+
+Bannock combined.^ Lewis and Clark's estimate of over 13,000* and
+Ross's of 36,000 ' are of course purely conjectural.
+
+While by community of habitat and frequent intermarriage the Shoshone
+are most closely affiliated with the Bannock, they belong linguistically to
+the same subdivision as the Comanche, who are commonly regarded as a
+rather recent offshoot from the Wyoming Shoshones.*
+
+The theory has been put forward that the Shoshone formerly occupied
+the Plains country and were driven westward by the attacks of Prairie
+tribes. According to Brinton,* all the Shoshoneans once inhabited the area
+between the Great Lakes and Rocky Mountains. In a recent paper,
+Professor Kroeber finds this view "highly improbable on account of the
+general* distribution of dialectic groups" and "without support on Unguistic
+grounds."* This conclusion is corroborated by the complete absence of
+migration legends among the Lemhi and Nevada Shoshoneans, and by a num-
+ber of cultural traits. The old type of Shoshone dwelUng, the development
+of fishing, the chase for small game, the weaving of sage-brush bark and of
+rabbit-skin blankets, the extreme simpUcity of their social organization, the
+virtual absence of buffalo tales and the mythological importance of the
+coyote and the wolf, all bear out the supposition of a long occupancy of the
+Plateau region. The historically recorded westward movements of Sho-
+shone bands driven by Plains tribes thus shrink into purely local migrations
+not affecting the tribe as a whole. The influence of Prairie culture is, of
+course, undeniable, but its operation belongs to a relatively late period.
+
+
+MATERIAL CULTURE.
+
+Objects of Stone, Bone and Shell. The Shoshone made knives by break-
+ing pieces of obsidian,^ which was common in their country, and selecting
+suitable, sharp-edged fragments, often of irregular shape. A piece an
+inch or two long was not rejected so long as it would cut. The edge was
+renewed by means of an elk or deer horn. Sometimes a wooden or horn
+handle was attached, but this was frequently lacking.' In fashioning arrow
+points, similar pieces of obsidian were broken off, laid upon a hard stone,
+
+
+> Schoolcraft. VI. 697.
+» Ibid.. VI, 118-119.
+« Ross, I, 251; II, 150.
+
+• Mooney, (a) 1043. Kroeber. (d) 111.
+« Brinton. 121.
+
+• Kroeber, (d) 165.
+
+^ Obsidian (du'pi) is still favorably compared with iron, because it is nfi'rOyunt (powerful,
+strong), which iron is not.
+
+• Lewis and Clark, III, 19; Wyeth. 213.
+
+
+174 Anthropological Papers American Museum of Natural History. [Vol. II,
+
+and struck with another stone or finished with a deer or elk horn. The
+points were about three-quarters of an inch long, half an inch wide and
+rather thin. According to Wyeth, those intended for hunting were widened,
+so that the head might be withdrawn with the shaft, while arrows for war
+lacked this feature.^ The Shoshone had no axes; smaller branches were
+seized and broken with the hands, for larger trunks they had to depend on
+windfalb. Wood was split by means of a sharpened antler.'
+
+Lewis noted pots of white soft stone which became black and very hard
+by burning.* According to information obtained by the writer, the stone
+formerly employed* by the Shoshone was called to'sa-tak (white + ?) or
+ba'mu-tak (tobacco + ?). As it is known that the Shoshone made steatite
+pipe-bowls,* there can be little doubt that the vesseb seen by Lewis were
+
+
+Fig. 1 (50-1166). Steatite Cup. Diameter, 12 cm.
+
+
+of the same material. Wyeth pictures a "stone cooking pot and mortar"
+of pure lava, truncate, but curved at the bottom, widening towards the open-
+ing and recuned at the top. In his text, he states that these pots, which
+had a capacity of about two quarts, were very rare, and that he never saw
+them used either as mortars or pots, though he believes they could have
+stood fire as a boiling- vessel.* The Museum contains a (probably unfin-
+ished) flat-bottomed steatite cup with handle from Wind River; the out-
+side bears the marks of a picking instrument (Fig. 1). Stone mortars and
+pestles were seen by Culin among the Washakie Shoshone and Fort Hall
+
+
+1 Wyeth. 212; Lewis and Clark, III, 12. 19.
+
+2 Lewis and Clark, III. 9, 19.
+» Ibid., Ill, 19.
+
+* Wyeth. 214.
+« Ibid., 211.
+
+
+1909.] Lowie, The Northern Shoshone, 175
+
+Bannock.^ Stone scrapers consisting of thin segments of quartzite, made
+by striking the rock a smart blow, were found by Leidy both in actual use
+and in an old grave.^ They were circular or oval, sharp-edged, convex on
+one side and flat on the other.
+
+Awls, salmon-gigs, and sometimes the caches in the hand-game, were
+of bone. Besides antlers, sharpened ribs were used as scrapers in the
+preparation of hides. Drinking cups and spoons ^ were made of mountain-
+sheep or buffalo horn. In the manufacture of bows, the horns of mountain-
+sheep and elk were used, after being molded by heating and wetting; they
+were worked smooth by scraping with sharp stones and drawing between
+two rough stones.* Shells were used for personal decoration only. Abalone
+ornaments were obtained in trade from the coast Indians.'
+
+Preparation of Hides. Buffalo, elk, and, in recent times, cowskins.
+
+
+Fig. 2. Hide tied to a Frame for Tanning.
+
+were stretched out on the ground and pegged down; whereas deerskins
+were hung up (Fig. 2). The hair is removed either by means of the elk-
+horn scraper having an iron blade secured by a buckskin thong, or with a
+horse's rib. The flesh is removed with the typical serrate Prairie fleshing
+tool. The brains of a deer were formerly dried for a length of time varying
+from a few days to several weeks, then boiled with deer-bones, and the mix-
+ture was rubbed in to soften the hide. The hide is put in cold water, wrung
+
+
+1 Culin, 13. 89.
+« Leidj% 653.
+
+• Spoons were sometimes made of wood (Townsend, 260).
+
+* Wyeth, 212.
+
+» Lewis and Clark, II, 372, 378.
+
+
+176 Anthropological Papers American Museum of Natural History [Vol. II,
+
+out, suspended from a cross-beam and scraped. The scraper is either the
+elk-hom adze of the Plains, or a small elliptical sharp-edged stone. The
+scraping is continued until one side is perfectly white and smooth. The
+skin is repeatedly immersed in water, wrung and scraped in this fashion.
+In wringing, the left hand seizes one part of the hide from below, and the
+right twists the portion directly beneath, while the worker sits on the ground.
+The wringing operation is continued ad infinitum, the main worker being
+relieved from time to time by other women of the family or by visitors. In-
+stead of sitting on the ground, the worker will sometimes tie the hide to a
+frame; standing before it, she twists and untwists every section of the hide
+
+in succession about a wringing stick. In
+smoothing the skin, it is often placed
+across a sinew cord stretched between
+two supports, and vigorously moved back
+and forth. This method is said to have
+been used regularly with buffalo hides.
+Once I saw the cord stretched vertically
+instead of transversely, one end being
+attached to a tree near the ground and
+the other several feet above. The fibres
+are carefully removed on one side and
+remain on the other. Now-
+adays, as a rule, but one side
+is smoked, especially in mak-
+ing gauntlets for trade; for-
+merly both sides were usually
+smoked.
+
+Two smoking - frames
+
+Fig. 3. Arrangement for Smoking a Tanned HideT ^^'^ observed by the writer.
+
+One consisted of a cross
+beam connecting the stump of a branch with the fork of two poles tied
+together so as to rest on the ground as the sides of an isosceles triangle.
+On one side quite near the tree, a hole was made, perhaps 45 cm. deep, and
+a fire built. On the one occasion when the process of smoking itself was
+witnessed, the deerskin was sewed together so that the side to be smoked
+formed the inner surface of a hollow cylinder. The lower end of the hide
+was staked down with wooden pegs to the perimeter of the firehole, the
+upper part was tied to the crotch of a tripod frame (Fig. 3). The woman
+built a fire of wooden shavings in a one-foot excavation. The smoke played
+on the inner half of the skin for from ten to fifteen minutes, turning it yellow.
+
+
+1909.] Louie, The Northern Shoshone. 177
+
+According to Mason,^ the Shoshone employed three kinds of buckskin,
+— white, yellow and brown. The hair was often removed by rolling up the
+hide in ashes wet with warm water for a few days. **The hair was then
+removed by means of a wooden knife, a rib, or in later times with an old
+case-knife or bit of hoop-iron. The yellow and the brown skins received
+their tint by drying them over a smoldering fire of dry willow for the former
+and green willow for the latter color. The skins were vigorously pulled
+and stretched in every direction while the drying and smoking were going
+on." Mason's account is probably derived from descriptions of the method
+of Paiute and Ute tanners, whose implements are reproduced in his paper
+(Plates XC and XCII).
+
+Pottery, "Co'go-wi'towE," earthen pots, were referred to by several
+of my informants, and an old woman professed to have seen some in her
+youth. The existence of pottery is affirmed by Lewis,^ who speaks of "pots
+in the form of a jar made either of earth, or of a white soft stone." Still
+
+
+Fig. 4 (50-6404.) Loom for Bead-weaving. Length, 55 era.
+
+more explicit is a statement by Ross, who pronounces the Shoshone the best
+of western potters. **The clays to be found all over their native soil are of
+excellent quality, and have not been overlooked by them." Reference is
+made to cylindrical kettles and water-jars with stoppers, which were also
+used for holding fish, oil and grease.^
+
+Embroidery and Weaving. The designs produced with quills and in
+beadwork will be considered later. Nowadays, in beading, the women
+frequently employ a bow-shaped loom notched at both ends for the recep-
+tion of the single strings (Fig. 4). The use of looms in modem beadwork is
+rather common on Indian reservations, especially in the schools. The frame
+is, however, generally rectangular,* instead of being arched as among the
+Shoshone. The process of embroidering resembles the second variety of
+Menomini beadwork as illustrated by Hoffman.* Where beads are sewed
+directly on cloth or buckskin, the Shoshone, as a rule, have no definite system
+
+
+1 Mason (a) 572.
+
+2 I^wis and Clark. III. 19.
+
+3 Ross. I. 273-4.
+
+* Hoffman. 269. fig. 45.
+« Ibid.. 271. fig. 47.
+
+
+178 Anthropological Papers American Museum of Natural History, [Vol. II,
+
+of stitching. In this respect, however, two Museum specimens form an
+exception. A number of beads are strung together and sewed on, the stitch
+passing down to the next row, where an equal number is strung in the oppo-
+site direction. 'Vertical bands result, producing the ridged effect character-
+istic of Dakota beadwork, while on the other side of the fabric the stitches
+run in straight parallel lines marking the borders of the bands.
+
+Sage-brush bark (wa'dzipi) was used for weaving baskets, bags (wa'-
+
+
+Fig. 5: a (50-2333), height, 27 cm.; b (50-6418), height, 33 cm.; c (50-6429), diameter
+50 cm.; d, from Schoolcraft. Outlines of Shoshone Basket-forms.
+
+dzi-mo'gots) and blankets. For the latter purpose, the skins of cottontail
+and jack-rabbits, ground-hogs and other small animals were also employed.
+Mats were manufactured from rushes. The forms of Shoshone baskets,
+so far as known to the writer, are illustrated in Fig. 5. The technique of
+the basketry was either coiled or twined. Basket hats, roasting trays (Fig. 5,
+c), gathering baskets (Fig. 5, b), and fans were twined; water-bottles (Fig.
+
+
+1909.] Lowie, The Northern Shoshone, 179
+
+5, a), gambling trays, berrying baskets, and cooking vessek (Fig. 5, d)
+were coiled. The latter were made of long tough roots wound in plies
+around a center. The plies were held together by a small root passed
+through a space made by forcing an awl between the two last pUes, and
+winding the root under the last and over the one to be added in the progress
+of formation.^ This vessel was abo used for a drinking cup, and was worn
+as a hat by women on the march. Dice trays were of a three or four-rod
+vertical foundation. Water bottles were rendered tight by pitching. Sev-
+eral Museum specimens are round-bottomed and suppUed with inwoven
+horsehair braids for handles. Some have a two-rod foundation, changing to
+one-rod near the rim. The gathering baskets are of twilled openwork twine.
+Professor Mason notes the peculiar twisting of the warp elements, which,
+instead of rising vertically, make about one-fourth of a turn from the per-
+pendicular. Both these baskets and the other weavings in diagonal twined
+work are furnished with a coiled border.^ The manufacture of cordage
+will be discussed later in connection with fishing.
+
+Clothing and Personal Decoration, Lewis and Clark found the Sho-
+shone rather well dressed, in the typical Plains fashion.^ The blanket robe
+was the same for both sexes, except that the women's was smaller. It con-
+sisted of buffalo, or more commonly of antelope, deer or bighorn skin,
+dressed with the hair. It was thrown loosely over the shoulders, and drawn
+together by the hands, or confined with a girdle in cold weather. Some robes
+were of beaver, wolf and ground-hog skin, and there is testimony for the
+former use of woven rabbit skins. In the summer, elk skins dressed without
+the hair were commonly employed.
+
+The moccasins were of deer, elk, or buffalo skin dressed without the
+hair; but, in winter, moccasins of buffalo skin had the hair inside. There
+was one seam on the outer edge of the foot. According to my informants,
+moccasins were stuffed with sage-brush bark in the cold season.* Some
+young men ornamented the tops of their moccasins with polecat skins, trail-
+ing the tail at their heels. Nowadays practically none of the women's
+moccasins are beaded, and many of the men's are likewise undecorated.
+The Shoshone and Bannock made their moccasins in one piece.* In manu-
+facturing the footgear for her family, the housewife cuts off a number of
+
+
+1 Wyeth, 211.
+
+2 Cf. Mason, (b) 489-496.
+
+8 Lewis and Clark, II, 372. 377-9; III, 4-6.
+* Cf. Dixon, (a) 156.
+» Clark, 258.
+
+
+180
+
+
+Anthropological Papers American Museum of Natural History. [Vol. II,
+
+
+pieces of tanned buckskin, about ten inches wide for adults. One edge of
+these strips is incised, so as to leave two adjoining semi-circular pro-
+jections from the uncut portion; the point of intersection of these projec-
+tions marks the beginning of the seam in the finished product (Fig. 6). One
+of the two symmetrical halves is then folded over the other, and sewed to
+it with awl and sinew. Before the folding over, the part designed for the
+upper receives a short horizontal incision and a much longer one perpen-
+dicular to it, marking the place for the insertion of the tongue and for the
+turning up at the back; holes are pierced for the sinew lace. This method
+agrees with that anciently employed by the Blackfoot, but varies from that
+in recent use among Plains tribes wearing hard-soled moccasins. I noted
+a single instance of a moccasin of Algonquin style with a seam in the middle
+of the upper. There were usually several triangular or rectangular trailers.
+
+At home, men and women were
+often barefoot.
+
+The women's leggings were
+of antelope skin, reaching to the
+knee and secured by a garter
+below. They are often united
+with the moccasin. The men's
+leggings were of the same mate-
+rial ; but very long and full, each
+legging being formed of almost
+an entire skin. 'The tail was
+worn upwards, while the deeply
+fringed neck trailed behind. The
+upper part was left open, so as
+to permit the legs of the skin to
+be drawn beneath a girdle both
+before and behind; while the wide part of the skin covered the buttocks and
+extended in front so as to render a breechcloth unnecessary. Townsend,
+however, notes square clouts fastened with a thong, which were worn by
+both men and women.^ The leggings had deeply fringed flaps at the sides,
+which were sometimes ornamented with bunches of hair taken from a slain
+enemy. Long beaded strips commonly decorated the sides.
+
+The men's shirt was of deer, antelope, bighorn, or, more rarely, elk skin,
+dressed without the hair; it reached nearly half way down the thigh. The
+sides were sewed, fringed and ornamented from the bottom upwards to
+within six or eight inches of the sleeve. The sleeves were fringed below and
+
+
+Fig. 6. Pattern of a Shoshone Moccasin.
+
+
+Townsend, 246. 252-4, 261.
+
+
+1909.] Lowicy The Northern Shoshone, 181
+
+on the sides above the elbow, being plain from elbow to wrist and fitting
+the arm tightly. There were wide, richly quilled or beaded shoulder straps,
+lacking in the women's chemise. The chemises were closed at the sides;
+except for women nursing children, in which case there was an opening as
+low as the waist. The breast was generally ornamented with porcupine
+quill embroidery. The women wore a girdle of dressed leather. In dis-
+engaging their arm from a sleeve, men and women drew it out by means of
+the opening underneath the arm and threw the sleeve behind the body.
+Women sometimes attached an awl-case to the front of their shirts.
+
+The tippet of the Shoshone is described by Lewis as the most elegant
+Indian garment ever seen by him, its collar being a strip of otter fur about
+four or five inches wide, cut out of the back of the skin, the eyes and nose
+forming one extremity and the tail the other. Beginning a little behind
+the ear at one edge of the collar and proceeding towards the tail, the Indians
+attached from one hundred to two hundred and fifty little rolls of ermine
+skin. The ermine skin was first dressed with the fur and a narrow strip
+cut out of the back from the nose to the tail. This was sewed around a
+small cord of silk-grass (Yucca filamerUosa), twisted and tapering so as to
+give a just proportion to the tail which is to form the lower extremity of the
+strand. Thus arranged, the skins are confined in bundles of two or three,
+which are attached to the collar. To conceal the connection, a broad
+ermine skin fringe was attached to the collar, and little bundles of fine fringe
+were fastened to th^ taib in order to show off their black extremities. The
+center of the otter-skin collar was ornamented with abalone (?) shells.
+The collar was confined around the neck, and little rolls of ermine skin
+covered the shoulders and body nearly to the waist, thus giving the appear-
+ance of a short cloak. The men often wore headbands of fox or otter skin.
+Remy mentions a cap of rabbit skins, to which were attached several rabbit-
+taib.^
+
+In Lewis and Clark's time, only children wore beads about their necks.
+To-day necklaces of long, cyUndrical beads (Fig. 7) are very popular among
+men and women. These were preceded by ornaments of strung salmon-
+vertebrae, separated at a later period by intervening beads, or of small
+sea-shells obtained from neighboring tribes. Braided sweet-grass and em-
+broidered collars of leather or silk-grass were used for the same purpose.
+Elk-tooth necklaces were worn by women and children; while bear-claw
+necklaces were the prerogative of men who had killed a grizzly, thus serving
+as a badge of distinction.^ Fans are still made of long eagle feathers wrapped
+with red cloth at the bottom and sometimes provided with an attachment
+of little bells.
+
+
+» Remy, I, 146.
+
+2 Lewis and Clark, III, 6. Townsend, 253-4.
+
+
+182 Antkropological Papers American Museum of Natural History. [\''ol. II,
+
+The nose was never pierced for the insertion of ornaments. Beads were
+worn suspended from the ear in little bunches, sometimes being intermixed
+with triangular pieces of shell. Nowadays, men and women have one or
+two perforations in either ear, and wear earplugs or rings. Frequently
+the plug is perforated to admit a brass ring. The ears are pierced at a very
+early age; sometimes as many as five holes are made.
+
+The explorers found both sexes wearing their hair **in a loose lank flow
+over the shoulders and face*'; only a few men had two equal cues hanging
+over each ear and drawn in front of the body. The men tied on eagle feath-
+ers and sometimes attached beads to the front of the crown. At present
+the men usually have two cues in front, with an occasional third in the rear;
+the cues are decorated with strips of weasel or otter skin and feathers. The
+women part their hair in the middle and, with a little piece of wood, put red
+paint on the dividing line; braids are very rare with them. The old-style
+brush (nfi'tuye) consisted of a bunch of dried pi'a co'nip (spear ?-grass).
+
+
+Fig. 7 (50-6412). Bead Necklace. Length, 32 cm.
+
+The hair of the beard is pulled out with iron, formerly brass, tweezers. I
+saw only two men with moustaches; one was a medicine-man who derived
+his name Tumodzo, Black-Moustache, from this pecuUarity. The fingei>
+nails were filed with a small, rough, flat stone.
+
+Tattooing was not practised, except that women sometimes punctured
+a small circle on their forehead, nose or cheeks, and introduced soot or
+grease, or some other black substance which left an indelible stain. ^ The
+men paint their face with a mixture of grease and bi'cap, red paint. The
+women also employ bi'cap, which is kept in small buckskin pouches tied
+at the top with a buckskin thong. Young girls sometimes painted with
+white clay. Black and &'k-hwi (bluish ?) paint were abo in use. The
+ways of painting for a dance wdll be described later. In washing, the mouth
+is filled with water, which is squirted in a stream at the hands, which then
+wet the hair and face.
+
+Dwellings, The majority of the Lemhi lived in log-cabins at the time
+
+» Lewis and Clark, II, 373.
+
+
+1909.] Lotvie, The Northern Shoshone. 183
+
+of my visit. These face the entrance to the summer-shades, hfi'gii-gan*
+(shade-lodge), where the greater part of the day is spent during the warm
+season. The hfi'gii-gan* has a rectangular ground-plan, about twelve feet
+by ten, bounded by four forked posts rarely more than six feet high, which,
+with beams passing from crotch to crotch, support the flat roof of brush and
+twigs. The walls are also formed of brush; sometimes there is a partial
+covering of canvas. As food is prepared in this shelter, a fireplace may be
+maintained in the center. Smaller shades for temporary use were made
+by arranging a few willows or cottonwoods in the arc of a circle. For feasts
+and some dances, a circular enclosure is similarly constructed. At a dis-
+tance of about twenty feet from the main habitation, there is often a rude
+conical structure of unexcoriated branches or trunks, much lower than a
+tipi and walled with brush or canvas. This serves as the menstrual hut
+(hu'na-gan*). Sometimes the menstrual hut is dome-shaped, after the
+fashion of the sweat-lodges (na'bacoko-gan*) ; but still lower and smaller,
+just large enough for a single person to crawl in.
+
+I saw very few (canvas-covered) tipis, one of which was used exclusively
+for the storage of dance-regalia. Skin-lodges were, however, the common
+dwellings of all bands in contact with the Prairie tribes during the last
+century.^ The Lemhi visited by Lewis possessed a single ''leather" lodge;
+but this was due to the recent loss of their tipis in a fight with the Atsina,^
+which obliged them to construct small conical lodges of willow branches
+an,d brush .^ The crudity of this style of dwelling led to the designation of
+the Snakes as Bad Lodges in the sign-language of the Plains.* According
+to the Lemhi themselves, supported by the testimony of their myths, the
+habitation preceding the skin tipi was small and of conical shape, resembling
+the modem menstrual hut. In summer it was simply walled with brush;
+but in the winter there was a thatching of sage-brush, or more commonly
+of dry pi'a co'nip, (spear-grass) whence the name coni-gan^ grass-lodges.
+The Kiowa still remember the Shoshone as formerly dwelling in lodges of
+interwoven rushes or grass, and have named them accordingly.^ Bonne-
+ville described huts shaped like a hay-stack and constructed of willow
+branches covered with long grass; these were sometimes surrounded^by a
+small enclosure of wormwood, about three feet high.' Semi-circular straw-
+thatched dwellings were found by Fremont.^ The Western Shoshone of
+
+
+J Townsend, 257.
+
+a L€\Nis and Clark, II, 343.
+
+8 Ibid., II, 300. 343, 352.
+
+4 Clark. 337.
+
+8 Mooney. (b) 160.
+
+« Irving, (a) 255.
+
+^ Fremont, 170.
+
+
+184 Anthropological Papers American Museum of Natural History. [Vol. II,
+
+Nevada have kept wikiups of straw or tule reeds until quite recent times.^
+In this respect they resemble their congeners, the Paiute, whose ordinary
+habitation is described as a "small rounded hut of tul6 rushes over a frame-
+work of poles, with the ground for a floor and the fire in the center and al-
+most entirely open at the top."^ There is absolutely no evidence that the
+Shoshone ever constructed semi-subterranean earth-lodges. On the other
+hand, they and kindred tribes are sometimes mentioned by early travellers
+as cave-dwellers.'
+
+The flooring was of pi'a c5'nip, foliage and brush. Antelope and other
+skins served for seats and beds. Mats made from large (tule ?) rushes
+were also used to sleep on. They were about four feet wide and, when
+carried, were rolled up like a scroll.* For storage, parfleches and other raw-
+hide bags were employed; berries were kept in bags of silk- grass bark.*
+Within recent times, Nez Perc6 bags (cai'mogots) of various sizes have
+become very popular, sometimes as many as h^lf a dozen being used in a
+single dwelling; they are all obtained by trading.
+
+When on the warpath, the Shoshone erected a shelter by simply insert-
+ing half a dozen willow branches in the earth, making a semi-cylindrical
+framework, over which blankets were spread.*
+
+ECONOMIC LIFE.
+
+The economic life of the Northern Shoshone differed fundamentally
+in the summer and winter. From the middle of May to September, they
+dwelt on the tributaries of the Columbia, subsisting mainly on salmon.
+\Vhen the fish perished, or returned, the Lemhi Shoshone united with other
+Snake bands and, joining the Flathead, descended east of the Rocky Moun-
+tains in quest of buffalo. The people met by Lewis and Clark in August,
+1805, were on the point of beginning their hunting expedition; they were
+already seriously suffering from want and were only able to entertain their
+visitors with an odd salmon and dried choke- cherries. Lewis states that
+they greatly dreaded their eastern neighbors and, accordingly, returned
+speedily to the salmon country as soon as they had obtained a sufficient stock
+of dried meat.^ Other bands of Shoshone are described as typical Plains
+peoples, permanently engaged in the pursuit of the buffalo. This is explic-
+
+J Report 1890, 385. Of. Wyeth, 214.
+
+2 Mooney. (a) 1050.
+
+« Domenech. II. 256-7. Remy, I, 129.
+
+* Wyeth, 214.
+
+» Lewis and Clark, III, 12.
+
+« Bourke, 340.
+
+» Lewis and Clark, II, 373-4, 385; III. 23 Domenech. II. 61.
+
+
+1909.] Lowie, The Northern Shoshone. 185
+
+itly stated of the Shiny-dikas (Ca'ro-rika = Dog-eaters) by Ross * and
+of the Green River Snakes by Wyeth.^
+
+Hunting, Buffalo were hunted on horseback in typical Prairie fashion.
+The Blackfoot method of driving a herd down a ledge is said to have been
+unknown. Antelopes were also hunted on horseback. As it was found
+impossible to overtake them with a single horse, the Shoshone would sepa-
+rate to the distance of five or six miles around a herd, generally selecting an
+eminence for a stand. One or two men pursued the herd at full speed and,
+after several miles, were relieved by other hunters on fresh horses. This
+relay chase was continued until the exhausted animals could be dispatched
+with arrows. It would sometimes take forty or fifty hunters half a day to
+kill two or three antelopes by this method. During Lewis's visit, twenty
+men set out after a herd of ten head and were unable to capture a single
+animal in a two hours' run.' Irving records that the surrounded antelopes
+were killed by men, women and boys with clubs.* Another method, called
+oro'ongEn, was to stalk the game dressed in an antelope skin and with a
+headgear of antelope horns, and to shoot the approaching animals.* This
+method was sometimes used to lure mountain sheep. The customary way
+was to pursue them with several dogs until they were driven to a high rock
+where they could be easily shot. The arrow-points were sometimes tipped
+with a mixture of blood and a poisonous root called i'zai.
+
+Elk and deer are said to have been relatively rare in the countr}'^ of the
+Lemhi people.' According to one of my informants, deer were sometimes
+killed in winter by planting poisoned spears in the ground. Smaller game,
+such as groundhogs, jack-rabbits, cottontails and prairie-dogs were hunted
+by the boys with the aid of their dogs.^ Sage-hens were driven into an en-
+closure, or trapped with nooses. Wolves and foxes were snared.* Owing
+to the scarcity of food, the customary distribution of the game among all the
+members of a band seems to have been suspended at times, each hunter
+preserving his booty for himself and his immediate family.®
+
+Fishing. Salmon constituted the principal means of subsistence dur-
+ing the fishing season, but sturgeon and trout were also caught. They
+were speared, caught in nets, or trapped by means of weirs. The spears
+consisted of a long pole with a bone gig about two and a half inches long,^®
+
+1 Ross. I. 249-51.
+
+2 Wyeth. 219. 227.
+
+3 Lewis and Clark. II. 346.
+* Irving, (a) 401-2.
+
+6 Remy, I. 128.
+
+« Lewis and Clark. II. 346.
+
+7 Irving, (a) 259.
+
+8 Lewis and Clark, II, 373.
+» Ibid.. Ill, 18.
+
+'" Lewis and Clark give the length as from four to six inches; III, 9.
+
+
+186
+
+
+Anthropological Papers American Museum of Natural History. [Vol. II,
+
+
+to which a small strong line was attached near the middle, connecting it
+with the shaft about two feet from the point. Towards the forward end of
+this head there was a small hole, which entered it ranging acutely toward
+the point of the head; it was quite shallow. In this hole, the front end of
+the shaft was placed. The shaft was about ten feet long. When a salmon
+or sturgeon was struck, the head became detached from the shaft and turned
+crosswise to its direction while entering. If the fish was strong, the staff
+was relinquished and acted as a buoy until the
+exhausted fish could be secured. A modem salmon-
+gig, consisting of an iron nail and a piece of bone is
+illustrated in Fig. 8.
+
+The Shoshone were in the habit of constructmg
+barriers of stones or brush on small streams to force
+the fish into certain places, where they watched for
+them, often at night, with a torch.^ These barriers
+sometimes consisted of nets of closely-woven willows,
+stretched vertically and extending several feet above
+the surface. They were generally constructed in slues
+and creeks rather than in wdde and deep parts of the
+river. **A number of Indians enter the water about a
+hundred yards above the net, and, walking closely,
+drive the fish in a body against the wickerwork.
+Here they frequently become entangled and are always
+checked; the spear is then used dexterously, and they
+are thrown out, one by one, upon the shore."^
+
+Ross describes a Wararika fishing scene, where from
+fifty to a hundred men were busily engaged, some
+wading into the water to their waists and spearing the
+fish with fourteen-foot shafts ; while many erected scaf-
+folds, and others stood on projecting rocks with scoop-
+nets or stretched their netting in the narrow channels.
+The youngsters carried the fish home for the women to
+clean and prepare .^ Bourke saw the Shoshone construct
+a dam of rocks and a wattle-work of willows, which allowed the water to
+pass, but retained solids, 'the spot was guarded by two or three watch-
+men. The rest of the party mounted their ponies, started down-stream to
+a favorable place, entered, and began to ascend the current, lashing the
+surface of the water in front with long poles, while joining in a medicine
+song. **The frightened trout, having no other mode of escape, would dart
+
+
+Fig. 8 (50-6426)
+Salmon-gig. Length,
+XI cm.
+
+
+1 Wyeth, 213.
+« Townsend, 265.
+3 Ross. 269.
+
+
+1909.] Lotme, The Northern Shoshone. 187
+
+up-stream only to be held in the dam, from which the Indians would calmly
+proceed to take them in gunnysacks."*
+
+Wyeth speaks of scoop-nets and seines, both resembling those used by
+whites; the knots used in netting also seemed to be of exactly the same
+character. The leaded line was formed by attaching oblong rounded
+stones which had a sunken groove near the middle in which to wind the
+attaching ligature. Reeds were used for floats. The nets were made with
+the outer bark of a weed, which made a stronger line than any of Wyeth's
+own. "The twine b formed by laying the fibre doubled across the knee,
+the bight towards the left, and held between the thumb and finger of that
+hand, with the two parts which are to form the twine toward the right and a
+little separated; rolling these two parts between the knee and right hand
+outwardly from the operator, and twisting the bight between the thumb and
+finger of the left hand fonns the thread. More fibre is added as that first
+commenced on diminishes in size, so as to make a continuous and equal
+line. In this way excellent twine is made much more rapidly than could
+be expected."^
+
+The method of trapping fish by the aid of weirs and baskets combined,
+is best described and illustrated by Lewis and Clark. The weir, observed
+by them, extended across four channels, three of which were narrow and
+stopped by tree trunks. These supported the willow-stakes which were
+driven down closely enough to prevent the passage of the salmon. About
+the center of each, a basket eighteen or twenty feet long, cylindrical at the
+top and tapering towards the bottom, was opposed to a small aperture in
+the weir with its mouth up-stream. The basket was so narrow at its lower
+extremity that the fish, when once inside, could not turn about; they were
+taken out by unt}ing the small ends of the longitudinal willows. The weir
+in the main channel was somewhat diflPerently contrived, inasmuch as there
+were two distinct weirs, each furnished with two baskets. The one was
+designed to take the salmon in ascending, the other in descending.'
+
+Food. To a considerable extent, the Shoshone depended on vegetable
+food, and to this fact is due the name of "Diggers" occasionally applied to
+portions of the tribe. The seeds of Pinus Ttumophyllus were gathered and
+stored for the winter.* Sunflower seeds were knocked into gathering-baskets
+with woven trays. By pounding and friction between smooth stones, they
+were reduced to flour. A mixture of sunflower seeds, lambs-quarter and
+service-berries was pounded and made into a kind of bread.^ Often the
+
+
+» Bourke. 341.
+
+2 Wyeth. 213-4.
+
+3 Lewis and Clark, III, 6-7; figure, page 7.
+« Remy. I, 135.
+
+» Lewis and Clark, III, 42. Gass, 118, 121.
+
+
+188 Anthropological Papers American Museum of Natural History. [Vol. II,
+
+pounded mass of seeds was roasted in a long, flat willow-tray. Choke-cher-
+ries were mashed with stones and dried in the sun. Service-berries were
+prepared in the same way, sometimes on scaflFolds, made into cakes, and
+stored in bags.^
+
+In gathering roots, the women observed by Wyeth employed crooked
+sticks with curved ends sharpened by firing and rubbing against a rough
+stone. Sometimes the implement consisted of an elk or deer horn attached
+to a stick. ^ I saw three digging-sticks, varying from two to three feet in
+length. All were of iron and pointed at the bottom. Two had an iron
+knob at the top; the third was provided with a horizontal piece of wood for
+a handle, which was clasped with the left hand palm-up, and in reverse
+fashion by the right. Yampa {Anethum graveolens) was a favorite article
+of food. It was sometimes eaten green, or dried, without any preparation
+or pounded to a mealy substance which thickened with boiling water.'
+Valeriana edulis was baked in the ground for two days to deprive it of its
+strong poisonous qualities.* Camass roots were placed in pits underground,
+into which hot stones had been placed. Here they were kept for several
+days until "of a dark-brown color and sweet as molasses." Often they
+were made into cakes by washing, pressing and baking sUghtly in the sun.*
+At present, camass is boiled to a gelatinous consistency in modern kettles.
+Lewis and Clark mention a kind of artichoke (prairie-turnip) which was
+hardened by dr}dng and boiled, and an unidentified white root which was
+always boiled .•
+
+A basket served for a boiling-pot. Stones were heated and deposited
+in the basket with the food, "producing a mesg mixed with soot, ashes and
+dirt." ^ Domenech states that the baskets were covered with buffalo skins
+and placed in an excavation when used for cooking.' Both fish and game,
+as well as pulverized bones,* were boiled. Fish were dried with berries,
+often on scaffolds. The red salmon-eggs were also eaten ; dried and pounded
+they made a good soup.^° Serpents, lizards, grasshoppers, mice, crickets,
+and pismires were thrown into a large tray with burning cinders and tossed
+to and fro until roasted. Roasted ants were kept in bags for future use.
+
+In making fire the Shoshone twirled a blunt drill in the cavity of a soft
+
+
+» Lewis and Clark, III, 12, 15; II. 342. Townsend. 268.
+
+3 Wyeth, 213.
+
+3 Fremont, 124. Lewis and Clark, III, 13.
+
+* Fremont, 136.
+
+» Townsend, 247.
+
+« Lewis and Clark, III, 13.
+
+1 Wyeth, 211.
+
+8 Domenech, II, 244.
+
+• Wyeth, 217.
+»o Gass. 121.
+
+
+1909.] Lovde, The Northern Shoshone. 189
+
+spongy hearth (Fig. 9, a), so that the particles of wood separated by the fric-
+tion were heaped up in a little pile. In rolling the drill between the palms,
+it was pressed downwards; and when the hands had descended to the bot-
+tom, they were rapidly brought back to the top and repeated the work until
+the dust ignited. Dry grass and rotten wood were employed as tinder.
+Lewis was surprised to find that fire could thus be obtained in less than a
+minute.^ Wyeth describes the hearth as dry and hard, the shaft as about
+two feet in length and three-eighths of an inch in diameter. According to
+Wyeth, when the hands of the manipulator had approached the lower end,
+they were relieved by those of a second operator.' The drill of all Sho-
+shonean tribes is unique in being spliced, — a characteristic shared only by
+the firestick of the Klamath.* A specimen from Wind River (Fig. 9, c) has
+a sage-wood head; thinned towards the upper end so as to fit into the split.
+
+
+*^^^^^'°»=g
+
+
+doiiiS
+
+
+Fig. 9 (a, 50-6408-A; b, 5D-6408-B). Lemhi Hearth and Drill. Lengths, 20 cm., 37 cm.
+(c, 60-2329 B). Wind River Drill. Length, 75 era.
+
+which is wrapped with buckskin; each head can be easily removed and
+re-inserted. The shaft is of service- berry wood. In a Lemhi model (Fig.
+9, b), the head cannot be extricated, being securely lashed with sinew both
+at its tapering extremity and at the lower end of the shaft. Long ropes were
+twisted from the bark of wormwood and carried about lighted as a slow-
+match, which would be used to ignite suitable dry wood.* Sage-brush was
+also used for torches. I saw a willow fire-drill split at the lower end to
+receive the blunt point.
+
+Transportation and Trade, As has often been pointed out, the intro-
+duction of the horse effected momentous changes in Indian modes of life.
+The Lemhi Shoshone have no historical tradition as to the way horses were
+first obtained by them. Clark states that their first ponies were secured
+
+
+1 Lewis and Clark. III. 21. Gass, 121.
+
+2 Wyeth, 214.
+
+3 Hough, 536. 538-540.
+* Irving, (a) 259.
+
+
+190 Anthropological Papers American Museum of Natural History. [Vol. II,
+
+from the Comanche.^ At the time of Lewis and Clark's visit, they had just
+suflPered defeat at the hands of the Atsina; nevertheless the number of horses
+in the tribe was at first estimated at 400, and later at 700. Each warrior
+kept one or more horses tied to a stake near his lodge, both day and night.
+The horses bore Spanish brands, and there were some mules said to have
+been derived from the same source. Bridle-bits and stirrups were also
+obtained from the Spaniards. The Shoshone ranked as expert equestrians.^
+
+Streams were sometimes crossed in rafts, which were about eight feet
+long. Small bundles of reeds, with the butt-ends lashed together, were
+placed with their small ends outwards. Several bundles were united so as
+to form a cavity on top. There was no attempt to render the craft tight;
+the navigator depended largely on the buoyancy of the material. The raft
+was propelled by punting.^
+
+There are two types of cradle- boards. One form consists of a board
+
+
+Fig. 10 (60-2365). Cradle-board. Length. 104 cm.
+
+
+about one meter long, curved convexly above and concavely below, and
+tapering towards the bottom. There is a covering of white buckskin, fringed
+in the back, and provided with a hooded pocket in front, for the insertion
+of the infant, which is tightly laced with strings. From a bent stick, which
+may be raised and lowered, there is suspended an awning that serves as a
+sunshade. The child's back rested against the board, and the cradle wa5
+carried like a knapsack by means of a shoulder-strap.* This type is char-
+acteristic of the Sahaptin.^ The form illustrated in Fig. 10 does not differ
+in general shape ; but the frame consists of a hoop and a series of transverse
+willow-sticks lashed down to the rim on both sides, from a distance of twenty-
+five centimeters from the top to within eight centimeters from the lower
+
+» Clark. 338.
+
+2 Lewis and Clark. II, 348, 372; III. 19, 31-2.
+
+3 Wyeth, 214. Fremont. 168. Ross, I, 274. Irving, (b) II. 21.
+* Cf. Remy. I. 127.
+
+6 Mason, (c) 186-7.
+
+
+1909.] Lovde, The Northern Shoshone. 191
+
+end of the cradle. The gradually shortened willow-sticks are closely united
+by three strings passing through perforations made near the extremities and
+centre of each. In the middle, the sticks are braced by a perpendicular
+rod nailed to the uppermost transverse bar and the lower extremity of the
+hoop.
+
+Trade was carried on especially with the Flathead, Nez Perc6 and
+Cayuse. The Nez Perc6 would pay a horse for four bags of salmon. Ten
+sheep, or two bearskins, were considered the equal of a horse. Buffalo
+meat and various kinds of peltry were traded to and fro. Lewis and Clark
+found metal arrow-points, which had been secured from the Crow on the
+Yellowstone in exchange for ponies.* Lewis purchased horses of the Snakes,
+giving an axe, a knife, a handkerchief, and paint for each. Mules had to be
+bought at approximately twice the amount of property; and some mules
+were considered worth three or four horses.' The cessation of hostiUties
+with other tribes naturally promoted trading, so that articles of foreign make,
+Blackfoot tobacco pouches, and especially Nez Perc6 bags, are at present
+extremely common. In 1834, the normal price of a dried salmon was a
+straight awl and a small fish-hook, valued at one cent; ten fish were given
+for a common butcher knife worth eight cents. Individual tribesmen
+preferred to get beads and paint. A beaver skin, then valued at from
+eight to ten dollars in Boston, was sold for twelve and a half cents' worth of
+goods.^ Of course, the supply regulated the price; in time of dearth,
+excessive prices were asked for salmon, or even exorbitant offers might be
+rejected.* In Fremont's day, clothing was eagerly sought, and a few gar-
+ments were gladly purchased with a disproportionate amount of food.*
+
+
+WARFARE.
+
+The military equipment of the Shoshone consisted of bows and arrows,
+poggamoggans, shields and skin armor. IVo types of bows occurred.
+The characteristically Shoshonean bow, shared by the Canadian Atha-
+bascans, Apache, Navajo, and Pueblo tribes, is described by Mason as nar-
+row, ovate in section, and sinew-lined. The occurrence of sinew lining on
+bows from the Plains is attributed by Mason to contact with the Great Basin
+tribes.* Lewis and Clark found bows of cedar and pine with their backs
+
+
+» Lewis and Clark, III. 19.
+
+2 Ibid.. Ill, 28; II. 374.
+
+« Townsend, 261. Of. Ross. I. 257-8; II, 98.
+
+* Ibid, 252. 263
+
+* Fremont, 169.
+
+« Mason, (d) 643, explanation to Plate LXII.
+
+
+192 Anthropological Papers American Museum of Natural History, [Vol. II,
+
+covered with sinew and glue.^ Elk-hom bows of similar construction,
+made of a single piece and sinew-backed, occurred; they were often
+ornamented with porcupine quills wrapped for sonle distance at both
+extremities. Of a different type were the compound bighorn bows, con-
+sisting of two parts spliced in the center with sturgeon-glue and with
+deer-sinews wound around the splice. At the center, two deer-sinews were
+strongly glued before winding the splice and secured by their butt-ends, the
+small ends bending outward at the ends of the bow. Sometimes the sin-
+ews covered the whole width of the back. For ornament, the skin of a
+snake was glued to the bow. The string was of twisted sinew and used
+loose; the archer made use of a wrist-guard.^ The arrow-shaft was about
+two and a half feet long and generally made of a shrub called "grease-
+bush"; it was steamed,, wetted, and immersed in hot sand and ashes.
+For smoothing, it was drawn between two rough slightiy-grooved stones,
+coarse sand being used to increase the friction. The arrow was unnotched,
+and was feathered for about five inches near its rear end, leaving just
+enough space for the marksman to pull it in drawing the bow.^
+
+Several writers refer to the use of poison. To Wyeth, the arrows seemed
+to have been dipped in some dark-colored fluid, which had dried on them.*
+Clark was told that the arrows were dipped into a compound made of pul-
+verized ants and the spleen of an animal. The mixture was placed in the
+sun and allowed to decay. **The result was such a deadly poison that if
+the arrow broke the skin in touching a person, it was sure to produce death." *
+Another source mentions the use of rattlesnake poison both for the chase
+and in war.'
+
+The quiver, whiqh contained the fire-drill as well as the arrows, was
+formed of various skins, preferably of otter skin. It was narrow, sufficientiy
+long to protect its contents from the weather, and was worn on the back by
+means of a strap passing over the left shoulder and under the right arm.^
+The poggamoggan consisted of a wooden handle about two feet long, cov-
+ered with dressed skin, and a round stone weighing two pounds, also covered
+with leather and strongly united to the handle-cover by a thong; a wrist-
+loop was attached to the handle.^
+
+The armor consisted of many folds of dressed antelope skin, united with
+
+
+1 I^wis and Clark, III, 19.
+
+a Ibid., 20. Wyeth, '1\2, plate 76.
+
+3 Wyeth, 212-3.
+
+-• Ibid., 212.
+
+fi Clark, 47.
+
+• Report 1890, 386.
+
+7 I^wis and Clark, III, 21.
+
+8 I.e\vis and Clark, III. 21.
+
+
+1909.] Lomie, The Northern Shoshone, 193
+
+glue and sand. This served to protect the bodies of both men and horses.^
+The shield, made from the skin of a buflPalo bull's neck, was cut a little
+larger than the desired size to allow for shrinkage, pegged down tight on
+the ground, and covered with a thin layer of clay. Upon this were heaped
+burning coals, which hardened the skin so that it could turn the point of a
+lance or a round bullet.' Lewis gives an account of the ceremony of shield-
+making, to which the protective power of the shield was largely attributed.
+The entire skin of a buffalo bull two years old was fiiist provided; then a
+feast was prepared in which all the warriors, old men, and medicine-men took
+part. A hole of the same diameter as the shield was sunk in the ground
+to the depth of eighteen inches. Several stones were heated red and thrown
+in, then water was poured on them. The green skin, which must not have
+been dried before, was spread over the steaming stones. The flesh side is
+laid next to the ground, and the workmen seize its edges and extend it in
+every direction. As the skin becomes heated, the hair separates and is
+taken off with the fingers, and the skin contracts until the whole is of the
+required diameter. It is then taken off, laid on a rawhide, and trampled on
+with unmoccasined feet. This trampling continues for several days, when
+the shield is handed to its owner and declared arrow-proof by the per-
+formers. There was an implicit belief in the efficacy of such a shield in
+protecting from arrows and bullets.' The cloth cover of a modem Shoshone
+shield, in the Museum, is decorated with a crescent-shaped representation
+of the moon, around which nine circular patches denoting stars are ranged
+in a circle. The circumference of the shield is decorated with hawk and
+eagle feathers.
+
+The Shoshone practised the war-customs of the Prairie tribes, though
+the time of their adoption is uncertain. Signal-fires were lit on the moun-
+tains to indicate the position of a hostile body.* Lewis and Clark, as well
+as Ross, noted the occurrence of scalping; killing an enemy without scalping
+him was not considered meritorious. To touch the corpse first, and to
+lead a successful war-party constituted equal claims to distinction.* Bourke
+mentions coup-sticks made of willow branches, twelve feet long, and each
+having some distinctive mark, such as feathers, paint, or furs. The owner
+of a coup-stick claimed the horse first struck with it.' The face was painted
+before going to war. In a skirmish, the chief appeared naked to the waist,
+wearing a gorgeous bonnet of eagle feathers trailing along the ground behind
+
+
+» Ibid.
+
+2 Bourke, 335.
+
+3 Lewis and Clark, III, 20.
+
+* Remy, I, 97.
+
+« Lewis and Clark, III. 29.
+
+• Bourke. 305-6.
+
+
+194 Anthropological Papers American Museum of Natural History. [Vol. II,
+
+the pony's tail.^ In a drill-ride, a standard of eagle feathers attached to a
+twelve-foot lance was borae alongside of the chief .^
+
+The scalp-dance was celebrated in the customary way. The scalp was
+borne to the village, and elevated on a pole in the center. The dance fol-
+lowed; then the scalp was given to the women and boys, who paraded it up
+and down, occasionally insulting it with taunts.^ In 1876, the Shoshone
+contingent left the United States troops for their reservation to celebrate the
+scalp-dance.* My informants gave two names for the scalp-dance-, na'-
+rupinoa and wQ'tabEn, or ta-wu'tabEn. It is not quite clear whether
+these terms are strictly sjnonymous. Only the women were said to have
+taken part in the dance, which was performed in a circle around the cen-
+tral pole or tree from which the scalps were suspended. The men sang
+and beat a small hand-drum in accompaniment. The women wore head-
+bands ornamented with eagle feathers and profusely beaded capes. Ac-
+cording to another account, the men were seated and three or four women
+alternately approached and receded from them. It is perhaps worth noting
+that the scalp-dance plays a prominent part in one of the important myths,
+where Coyote, disguised as an old woman, enters the enemy's camp to
+recover his brother's scalp (page 242). While the men were alwa)^ killed
+and scalped, women were sometimes taken captive. At times they are said
+to have been maltreated and butchered by the Shoshone women.*
+
+Bourke mentions the mutilation of enemies' corpses in revenge of a young
+warrior's death.® , So far as I know, the Ute custom ^ of eating the heart of a
+brave enemy for acquiring courage, or of eating any part of a slain warrior,
+has not been established among the Shoshone proper.
+
+Just before one of the social evening dances of the Shoshone, I obser\'ed
+what was explained as the imitation of an old custom called wupa'rEk.
+A number of men, perhaps as many as fifteen, held the edge of a blanket
+and vigorously beat it with wooden sticks. At the same time, they sang a
+song without changing their positions; there was no drum. I was told that
+formerly, when a man had decided on undertaking the leadership of a war-
+party or horse-raid, he and his companions started out with a buffalo-hide,
+stopped before every lodge in the camp, held up the blanket as described,
+and began their song. Any one who held and beat the hide was obliged to
+join the expedition. This custom was shared by the Nez Perc^.*
+
+
+Ibid., 316.
+
+Ibid., 337.
+
+Irving, (a) 249.
+
+Bourke, 318.
+
+De Smet. 220.
+
+Bourke. 317.
+
+Burton, 580.
+
+Spinden, The Nez Perc€ Indians, p. 265.
+
+
+1909.] Lowie, The Northern Shoshone. 195
+
+In 1840, De Smet witnessed preparations for an expedition against the
+Blackfoot. After the chief's announcement, the young men prepared their
+arms, moccasins and rations. The evening before their departure, the chief,
+at the head of his followers, performed a farewell dance at every lodge, re-
+ceiving everywhere a piece of tobacco or some other present.^ In 1876,
+a somewhat similar custom was noted by Bourke. In the night one of the
+Shoshone, mounted on a pony and stripped almost naked, passed from
+lodge to lodge, stopping in front of each, and praying for the capture of
+plenty of Sioux scalps and ponies. **The inmates would respond with, if
+possible, increased vehemence."^
+
+The ratification of a treaty of peace was generally marked by ceremonial
+smoking.' Horses were sometimes demanded of the enemy as an indemnity
+for the loss of slain tribesmen.* Tobacco, blankets, cloth and knives could
+also be offered to the bereaved family at the conclusion of a love-feast; but
+the recipients would distribute the gifts among their companions. Accord-
+ing to De Smet, the surrender of scalps taken by the foe and the assurance
+that the scalp-dance had not been performed also preceded the formal
+reconciliation, which was followed by the exchange of presents and reciprocal
+adoption of children.'
+
+GAMES.
+
+The most popular games of the Shoshone were dice-throwing (do'pedi)
+and the hand-game (na'yahwina). The latter is mentioned by Lewis and
+Clark.' It is played both by men and women; but, as far as my experi-
+ence goes, all the players are of the same sex. There are one or two players
+on each side, who kneel opposite to each other at a distance of several feet.
+Two small bones, or sticks (tindzo'mo), about three and a half inches long and
+tapering towards both extremities are used; one of them (pi'gap no'toma)
+has sinew or a string wound about its thickened section, the other (do'cabit)
+is plain. The player places the two tindzo'mo under his blanket, hiding
+one in each hand. Then, exposing his hands, he begins to sing and move
+his arms in front of his body and on a level with his shoulder, occasionally
+stopping to re-adjust the caches behind his back or under the blanket. His
+opponent carefully watches the singer's hands, sometimes beating his breast
+with one hand, and points out the hand supposed to hide the plain button.
+
+
+» De Smet, 220.
+
+2 Bourke. 304.
+
+8 Ross, II, 93-96.
+
+* Rept. Comm. Ind. Affairs, 1852, 437-8.
+
+» De Smet, 679.
+
+8 Lewis and Clark, IV, 37-8. Remy, I, 130.
+
+
+196 Anthropological Papers American Museum of Natural History, [Vol. II,
+
+If he guesses correctly, it is then his chance to play; if he has mistaken the
+hand, he must surrender one of the ten tally-sticks (dCl mo) with which each
+side starts at the beginning. A spectator may be seated next to one of the
+performers, hitting a piece of tin with a stick as an accompaniment to the
+chant. When there are two opposing pairs, each side plays with two sets.
+Both plain tindzo'mo must then be guessed before the guessers get their
+inning. When neither is guessed, two counters are relinquished. If both
+are guessed, the players continue mo^^ng their arms until they have finished
+their song, when they finally give up two tally-sticks. If but one do'cabit is
+correctly indicated, only one set of tindzo'mo is given up and the players
+receive one counter. The game is concluded as soon as one side has lost all
+its counters. In playing, the women swing both arms in the same direction,
+keeping the closed hands, as far as possible, at a uniform distance. The
+men move the hands from in front of the shoulders towards and past each
+other, then back again to the initial point. Spectators sitting in a row with
+the players sometimes join swinging their arms and singing. Formerly,
+beaver testicles and excrements are said to have been used as charms to
+ensure success at the game.
+
+The dice of the Lemhi people are of two kinds, both called do'pedi.
+In one form of the game four long, thin willow-sticks, convex on one side
+and flattened on the other, with a groove in the center, are thrown on a flat
+stone. Two of the sticks have a burnt mark on either side of the groove,
+midway between the top and bottom. These dice count a tally-stick each,
+when they turn up on the marked side. The other two sticks have four
+marks on either side of the groove, one pair near each extremity, and count
+four points each. The convex side does not count in any case. The second
+type of dice is similar in general appearance; but the groove is painted red,
+and the marks are different (Fig. 11). Two sticks have, one a short, the
+other a longer, central burn on the convex side. The former is also marked
+on both sides of the groove. The sticks are thrown on a flat stone and the
+throws counted by means of tally-sticks. In betting, a player wagers so
+many counters that he will equal a certain number of points. If successful,
+he receives a number of tally-sticks corresponding to his throw. Then the
+opponent throws. Unless he equals or surpasses the former throw, he must
+pay the number of sticks wagered; but receives the staked amount if he
+outdoes the first gambler. The following list indicates the manner of
+counting the various throws:
+
+All convex sides up, 10
+
+Three convex sides and the groove with marks, 10
+
+(The maximum throw, made either way, is called do'ca, white.)
+
+
+1909.]
+
+
+Lowie, The Northern Shoshone
+
+
+197
+
+
+The convex side with the elongated mark, the other sticks
+
+on the grooved side, 9
+
+(This throw is called tQ'tai, which is not the usual word for nine.)
+
+The convex side with the short mark, other sticks flat, 5
+
+All sticks on grooved side, 5
+
+Long mark, other sticks on the flat side, 4
+
+In other cases, any convex side, 1
+
+E. g. Short mark -h long mark -f flat -f flat, 2
+
+-H " '* -f " + convex, 3 ,
+
+One stick with plain convex side, others flat, 1
+
+(Scoring only one point is called dzCl'na.)
+
+From the specimens of dice collected by St. Clair and Culin,^ it appears
+that the marking of the four sticks is slightly different at Ft. Hall and Wind
+
+
+mmmmsma^^^^^m
+
+
+^
+
+
+^
+
+
+^
+
+
+Fig. 11 (50-6417). Set of Dice. Length. 25 cm.
+
+River; the mode of counting also differs. These observers also report the
+use of a tray with bone dice, which has never been seen at Lemhi by old
+white residents.
+
+Do'pedi and na'yahwina are the gambling-games par excellence. At
+present the sums wagered sometimes amount to ten or fifteen dollars.
+
+Athletic games were common. Foot-races (dana'ronon, c6'go-na'-
+ronon) between two contestants and horse-races persist to the present
+day. In the latter the riders often returned to the starting-point after
+going around a stick marking the half-goal. Nacft'gwuthun (kicking)
+was a game in which betting was wholly absent. The players were mostly
+boys and young men, sometimes ten on each side, who tried to kick their
+opponents' legs and bodies. Occasionally players were knocked down,
+but never seriously injured. NacS'gwuthun was simply a form of physical
+
+
+» Culin, (b) 159. 168-9.
+
+
+198
+
+
+Anthropological Papers American Museum of Natural History. [Vol. II,
+
+
+exercise, for there was no goal and neither side "won." Wrestling and
+putting the shot were also favorite pastimes; in the latter, bets were made
+on the result.
+
+Three games are still played by the boys in the beginning of spring:
+football (dknacoto'En) ; arrow-shooting; and the hoop-game (wu'raka).
+Dknacoto'En is really a football race. There are two balls, one for each
+side. All the contestants, sometimes as many as forty on a side, run in the
+same direction, each party kicking its own ball towards a previously
+determined goal without interfering with its opponent. The players
+do not all take an active part simultaneously. As the goal was formerly
+several miles from the starting-point, many would
+get tired and drop out before the completion of
+the game. It was proper for a player to rest
+when exhausted and to have a partner take his
+place. If the ball happens to fall into the brush
+whence it cannot be easily extricated by kicking,
+the players are under no conditions allowed to use
+their hands, though the use of a stick is permissi-
+ble. Of course, the side that first reaches the
+goal wins. In an arrow-game called ho'bak-wu-
+kun' at Lemhi, two competitors shot two feathered
+arrows each at a target in the shape of a stick,
+betting blankets on the result. This game has,
+according to St. Clair, a more complicated ana-
+logue at Wind River, called doroVokftna. Wu'-
+raka was played with a willow hoop and dart
+(no'notsak-bag) ; it is also found at Fort Hall and
+in Wyoming.^ As elsewhere, the women played
+shinny. A considerable number of players faced
+each other and attempted to carry the ball to
+their antagonists' goal. At Wind River, women
+also played with a dumb-bell shaped buckskin ball (Fig. 12). The ball
+was picked up with forked sticks and carried or thrown to the opposing
+goal.
+
+Horse-parades (na'mana'ki) formed a favorite mode of entertainment.
+The men would retire some distance from the camp, don breechclouts and
+war-bonnets, mount, gallop towards the camp, and ride around it. Such
+drill-rides were witnessed by Bourke ^ and De Smet.^ According to De Smet,
+
+
+Fig. 12 (50 -2362 -A).
+Buckskin Ball. Length, 37
+cm.
+
+
+» Culin, (b) 495, 499.
+2 Bourke, 337-40.
+« DeSmet, 217.
+
+
+1909.] Lowie, The Northern Shoshone. 199
+
+the equestrians ostentatiously displayed their sears, and waved scalps of
+slain enemies at the ends of poles, uttering exclamations of joy. Sham
+battles on horseback were fought at Lemhi within recent times.
+
+Dr. Dorsey discovered a game at Wind River called nawa'tapi.^ Several
+women approach a goal, juggling from two to four balls of mud or gypsum.
+The one who arrives first without dropping any, wins. This game is found
+also among the Bannock, Ute and Paiute. The occurrence of the cup and
+ball game, tops and stilts is also vouched for by Culin and Dorsey.' Cat's-
+cradle is known to Lemhi boys and girls, and names are given to the figures.
+The most popular were called **boy," ** woman," "tipi," "rabbit-snare,"
+"fish-trap," and "antelope." In the last of the figures, the string is alter-
+nately loosened and tightened to represent the animal in motion. The native
+name of the game is dii'mabana-nai^duit wonder-making; but it seems to
+have no ceremonial significance. The individual figures receive analogous
+names, e. g. gwa'are-naidui, antelope-making; du'a-nai*dui, boy-making.
+
+The children have the usual games: the girls play with buckskin dolls
+and model cradle-boards, and construct small lodges; while the boys shoot
+arrows, and race in imitation of their elders. The Lemhi boys of to-day
+are fond of playing with slingshots (u'gwuti), using a crotched stick spanned
+by a rubber-band.
+
+ART.
+
+Of the realistic art of the Shoshone very little is known. Petroglyphs of
+largely realistic character have been reported from Idaho, Utah and the
+Wind River country and reproduced by Mallery.^ A pictographic drawing
+published by the same writer* is in the Plains style, and Irving mentions
+"fantastically painted" lodges,* probably referring to semi-realistic motives
+of similar character. The Museum contains a pair of moccasins from Wind
+River, which are rather unique in being decorated with realistic representa-
+tions rather than with the customary geometrical patterns. One moccasin
+is painted with the roughly sketched figure of a woman, the sun above her,
+a flower at her right, and a rainbow at her left. Its mate bears the figure
+of a horse (in red) on the corresponding portion of the upper; while on the
+sides there are representations of a tipi, a snake (green) and a bear (blue).
+A large drum is decorated on one side with the painting of a bird (Fig.
+19, a).
+
+
+» Dorsey, (a) 24-25. Culin, (b) 712-4.
+
+2 Culin, ibid.. 554, 732.
+
+3 MaUery, 228-29; (b) 128-29, 680-681.
+* Mallery, (a) 215.
+
+« Irving, (b) I, 283.
+
+
+200 Anthropological Papers American Museum of Natural History, [Vol. II,
+
+Decorative Art. So far as the general features of their decorative art are
+concerned, the Shoshone are a typical Plains people, painting parfleches,
+rawhide envelopes and scabbards, and embroidering with quill and bead-
+work such objects as leggings, moccasins, soft bags, and pouches. On the
+Wind River Reservation, Mr. St. Clair succeeded in getting interpretations
+for some of the decorative designs. These were usually designated as
+representing geographical features, such as hills, creeks, or roads. A few
+examples, also indicating the occurrence of color symbolism, may be quoted
+from his notes. On a parfleche ^ the obtuse triangles in the central rectangle
+and the smaller triangles in the longitudinal border-strips represent moun-
+tains, the red line in the center stands for a river, and the right-angled tri-
+angles are tipis. On a second parfleche, ' the green rectangle in the center
+represents trees, its red frame the ground, the blue halves of the diamond a
+lake, the yellow transverse line in the diamond an inlet. The smaller obtuse
+triangles at the sides represent mountains, the larger ones (dark blue) timber
+on the mountains. Above and below the central field, there are mountains.
+The yellow isosceles triangle approaching the frame b the sun shining on the
+mountains; the green obtuse triangle denotes grass, and the two red triangu-
+lar spaces represent the ground. In the comer squares the triangles are
+lodges, the external yellow strip is sunlight, the green strip represents grass.
+While largely geographical, the interpretations obtained by Mr. St. Clair
+are not exclusively so; prongs are designated as rays of the sun, two mutually
+I)erpendicular stripes on a moccasin represent the horned-toad, and a cross
+is said to convey the idea of exchange. Other symbolical ideas connected
+with decorative patterns have been described by Professor Boas.'
+
+At Lemhi, all efforts to secure interpretations proved futile. A single
+parfleche design was, after persistent inquiry, called mando'towa; but this
+term proved to mean simply ''corners." It is therefore necessary to treat
+Shoshone art from a strictly objective point of view. As a thorough dis-
+cussion of Plains art, including that of the Shoshone, has been undertaken
+by Professor Kroeber,* it is best not only to follow his treatment in the matter
+of nomenclature, but also to refrain from a detailed re-consideration, except
+so far as to add some supplementary notes.
+
+In considering embroidered work, Kroeber finds it desirable to give
+separate treatment to the types of moccasin decoration. He distinguishes
+three principal types: the stripe-border type; the type with a single geo-
+metric pattern covering the entire front of the moccasin ; and the form with a
+
+
+^ Kroeber, (g). Plate X, figure 1
+
+2 Ibid., Plate X. figure 2.
+
+3 Boas, (a) 489 et seq.
+
+* Kroeber, (g), 151-179.
+
+
+1909.]
+
+
+LotnCf The Northern Shoshone.
+
+
+201
+
+
+figure on the front of the moccasin in the middle of the decorative field, the
+figure neither filling the entire space nor bearing an exact relation to its
+outline.^ The third class comprises various central figures, such as the
+crossing angle, circle, U-figure, and transverse zigzag. While the Ute show
+a high development of the stripe-border pattern, the Shoshone, according
+to Kroeber, rarely employ this type; their characteristic forms are the round-
+head and angle-across. The second type is used less frequently, and of
+the U-figure there are but a few scattering examples. This would ally the
+moccasin-decoration of the Shoshone most closely with that of the Gros
+Ventres (Atsina).
+
+So far as the Lemhi people are concerned, this statement of the case
+requires modification. With them three styles of decoration are especially
+popular. One is characterized by the circu-
+lar design (Plate i. Fig. 4), which Kroeber
+recognizes as typically Shoshone. The
+Blackfoot U-pattem (Plate i, Fig. 3) consti-
+tutes the second type. It was generally
+joined with a transverse bar at the instep
+and small isosceles triangles, which, in a
+single Museum specimen, are superseded
+by the feather-design. The third style is
+marked by a simple longitudinal stripe
+perpendicular to a horizontal bar (Plate i,
+Fig. 2). From the extremities of the bar
+and of the toe-end of the stripe, there often
+extend isosceles triangles. In some cases,
+the stripe slightly tapers towards the instep.
+A single triangle in the center of the toe-end
+of the stripe may replace two such triangles
+at the extremities. These facts are of some
+
+importance, because they lead to a revision of Kroeber's scheme of tribal
+relationships in the matter of moccasin decoration. If the Shoshone angle
+and circle designs are shared by the Gros Ventres, the frequency of U-pat-
+tems indicates an equally close relation with Blackfoot art; while the
+presence of stripe-patterns no longer warrants a sharp separation from the
+decorative type of the Ute.
+
+In discussing the distribution of embroidered designs generally, Kroeber
+finds considerable similarity between Ute and Shoshone art.* Both, espe-
+cially the former, employ the ''spreading design" (Fig. 13), as well as the
+
+
+Fig. 13 (5(>-2382-A). Spreading
+Design on Moccasin. Length, 23 cm.
+
+
+1 Kroeber, (g) 157, figure 2.
+
+2 Kroeber, (g) 156.
+
+
+202 Anthropological Papers American Museum of Natural History. [Vol. II,
+
+
+^*
+
+
+!
+
+
+forked, pronged, diamond, triangle, and slanting bar design.^ The Sho-
+shone, according to Kroeber, occasionally use the diagonal checker^row;
+but otherwise lack the characteristic Blackfoot patterns, i, e. the checker
+or step triangle, and the stripe, as well as the rectangular cross, feather-
+design and box-square of the Sioux.
+
+Again an inspection of Lemhi beadwork tends
+to establish a closer relationship with the Black-
+foot. The Blackfoot mountain-design, a check-
+ered or plain step triangle, occurs rather frequently.
+It is found on dance-leggings (Fig. 14), moccasins
+(Plate I, Fig. 1), belts, and hat-bands. Sometimes
+the union of two such triangles results in the stepped
+iw^ ^L rhombus; in other cases, the approaching bases
+
+BIf; '^ are separated, and the line joining them may be
+
+interrupted in the middle by a rectangular or
+narrow hexagonal figure. The rectangular cross,
+though not so frequent, is not wholly absent. It
+is found on a small amulet, an armlet, dance leg-
+gings (Fig. 15), hatbands, and appears very
+clearly as the central design within a stepped
+rhombus (Plate i, Fig. 3). It is also worth men-
+tioning the occurrence of the angular horseshoe
+design (Fig. 15) common among the Blackfoot
+and Crow. A further point of similarity with the
+A A A irTi i Blackfoot is noticeable in the general color effects
+
+™** * ■ ' of Shoshone, and more particularly Lemhi, head-
+
+work. While the majority of the Plains tribes
+show a predilection for white backgrounds, the
+Blackfoot and Shoshone use white less frequently
+and are inclined to employ greenish and bluish
+colors.
+
+Gauntlets made for trade, and sometimes
+moccasins as well, are frequently decorated with
+floral designs. A number of native informants
+agree in considering this style quite recent.
+Somewhat similar designs occur on Nez Perc^ pouches.
+
+In Shoshone parfleche painting, Kroeber recognizes a distinct style
+constituting the second of his three types of rawhide decoration in the
+
+
+^
+
+
+in
+
+
+i
+
+
+Fig. 14 (60-2302).
+Strip on Dance
+Length, 73 cm.
+
+Fig. 15 (60-6419).
+Strip on Dance
+Length, 69 cm.
+
+
+Beaded
+legging.
+
+Beaded
+legging.
+
+
+1 In the illustrations, colors are represented as follows: light blue, by diagonal shading;
+dark blue, by heavier diagonal shading; green, by horizontal shading; red, by vertical shading:
+yellow, by dotting. The drawings were made by R. Weber.
+
+
+1909.]
+
+
+Lowie, The Northern Shoshone.
+
+
+203
+
+
+Plains. Its characteristic feature is the partial substitution of combinations
+of square and triangular elements for the exclusively triangular designs of
+other tribes. While there are many triangular figures, the square-and-
+triangular type is so characteristic, according to Kroeber, that very. few
+
+
+c. d.
+
+Fig. 16 (a. 50-1163: b, 50-1126; c, 50-I166;Id, 50-1138). Parfleche Decoration.
+
+Shoshone parfleches are wholly without rectangular motives; i. e. without
+either a central rectangle, corner squares in combination with triangles, or a
+heavy square-containing border-stripe. A briefer reference to these features
+was also made by Professor Boas some years ago.^
+
+
+Boas, (a) 487-8.
+
+
+204 Anthropological Papers American Museum of Natural History. [Vol. II,
+
+
+Fig. 17 (60-643(>-B). Parfleche
+Decoration. Length, 69 cm.
+
+
+It does not seem to me that Shoshone parfleches are adequately defined
+in this characterization. It is true, as Kroeber points out, that there is a
+strong tendency to develop longitudinal border-stripes, often consisting of
+comer squares connected by obtuse triangles. Such borders, occasionally
+filled with purely triangular designs, occur in sixteen out of twenty-two
+parfleches examined. Of these, five represent the characteristic sub-type
+wdth a central rectangle touched above and below by the apex of an isosceles
+
+triangle and enclosing a lozenge (Fig. 16, c).
+Four have the section between the border-
+stripes bisected by a blank or varicolored
+stripe separating two symmetrical patterns in
+each of which an obtuse triangle is flanked
+by two right-angled ones (Fig. 17). One
+specimen produces a similar effect, though
+the bisecting stripe disappears. The re-
+maining bordered parfleches present individ-
+ual features in the center field. There may
+be a lozenge, split (Fig. 16, d) or unsplit;
+a pair of s}Tnmetrical isosceles triangles
+with nearly touching apices separated by a narrow oblong (Fig. 16, b), or
+two homogeneous triangles, with their apices directed downward, the point
+of one resting on the base of the other (Fig. 18, c); or a longitudinal central
+strip bisecting two diamonds of which the split components contain smaller
+triangles (Fig. 18, d). The parfleches without square-triangular borders
+are sometimes decorated in Arapaho fashion, — long, narrow patterns
+being disposed in longitudinal stripes (Fig. 16, a). In a Lemhi specimen
+of this sort, the center of the decorative field is occupied by an elongated
+hourglass with its halves containing smaller parallel triangles, and by large
+diamonds on either side enclosing a series of successively smaller diamonds.
+Irrespective of the presence of border-stripes, a rather different aesthetic
+effect from those previously mentioned results, I think, from the division*
+of the decorative field into three portions by two transverse lines. In one
+specimen (Fig. 18, b), the upper and lower sections produced in this way are
+occupied by triangles; while the middle portion has a diamond in the center,
+with two hourglass figures at the sides, and obtuse triangles at the edges of
+the flap.
+
+From the foregoing enumeration of decorative motives, it appears that
+border-stripes are very common among the Shoshone. The development
+of certain *'square-and-triangular" patterns, coupled with their rarity
+among other tribes, merits emphasis, and the diagnostic value of such de-
+signs in determining the provenience of a given parfleche is considerable.
+
+
+1909.]
+
+
+LowiCf The Northern Shoshone.
+
+
+205
+
+
+On the other hand, it cannot be maintained that the bulk of Shoshone par-
+fleche decoration conforms to the square-triangular, or any other single type.
+There is undoubtedly a relatively large number of parfleches of purely
+triangular type; and the question may be raised whether the several "square-
+triangular" motives themselves are not diverse in their aesthetic effects
+
+
+c. d.
+
+Fig. 18 (a, 50-6430-A; b, 50-2295; c, 50-1127; d, 50-1189). Parfleche Decoration.
+
+
+and should not be grouped in several distinct classes. A classification,
+moreover, which would wholly separate a parfleche such as is pictured in
+Fig. 17, from that in Fig. 18, a, however useful it may be in bringing out
+tribal peculiarities, no longer holds when the art of a tribe is considered
+per se.
+
+
+206 Anthropological Papers American Museum of Natural History. [Vol. II,
+
+Music. Two kinds of drums (wi'towE) are in common use among the
+Shoshone of to-day. The small hand-drum of the Plains is about thirty-
+five centimetres in diameter, covered on one side with horse or cowhide,
+and on the other side is provided with intersecting or netted thongs. The
+large drum (Fig. 19) is hollowed out of a section of a cottonwood tree and
+covered with strips of elk-hide above and below. These are perforated
+along the circumference of the drum, and united by a thong passing in an
+alternately vertical and diagonal direction from the hole in one drum-skin
+to the corresponding hole in the other. Both covers are decorated, one
+side bearing the realistic representation of a bird. Usually there are four
+loops, allowing the suspension of the drum from pegs driven into the ground.
+Willow drumsticks have their ends wrapped with buckskin or cloth. The
+flute was formerly used, but has disappeared among the Lemhi. As else-
+where, it was employed in courtship. It was made of the wood of a berry-
+bearing shrub, had from four to six holes, and was about sixty centimetres
+in length. The Museum contains two whistles. One, used in the sun-dance
+is of eagle wing-bone, to which an eagle plume is attached. The other is
+of wood, about thirty-five centimetres long, and ornamented with ribbons,
+a feather and plumes. A notched board used as a musical instrument will
+be described in connection with dances.
+
+
+SOCIAL ORGANIZATION.
+
+The social organization of the Shoshone was marked by extreme sim-
+plicity. No trace of a totemic or other clan division has ever been found
+among them. As stated by Kroeber,^ all the Shoshone proper were desig-
+nated as n^'mo, people; while practically all the local groups had names
+consisting of the word "eater," to which the kind of food was prefixed. I
+obtained the following list of bands at Ross Fork, Idaho: A'gai-dika (Sal-
+mon-eaters) at Lemhi; Tuku-rika (Sheep-eaters) in the Lemhi district,
+now practically extinct; KG'embe-rika (Squirrel-eaters) in southern Idaho;
+Wa'ra-rika (Eaters of an unidentified species of seeds); Ya'han-dika
+(Groundhog-eaters) ; To'sa-wi'h* (White-Knives) in Nevada.^ To these a
+Lemhi informant added the Tfl'ba-dika (Pine-nut eaters) of Nevada. The
+Bannock are distinguished as Ba'naite. The Wind River people as a whole
+are called Ko'gohue (Guts), and those of Fort Hall Po'hogwe (Sage-brush
+people). Clark gives the Wah-ra-ree-ca as a subdivision of the Bannock.*
+
+
+1 Kroeber, (d) 102.
+
+2 Simpson, 47, places tlieni along the Humboldt River.
+« Clark, 60.
+
+
+1909.]
+
+
+Lowie, The Northern Shoshone.
+
+
+207
+
+
+Fig. 19 (50-2446). Designs on a Wind River Drum. Diameter, 56 cm.
+
+
+208 Anthropological Papers American Museum of Natural History. [Vol. II,
+
+Ross recognizes three divisions: the Shirry-dikas (Ca'ro-ri^ka = dog-
+eaters), War-are-ree-kas (wrongly translated fish-eaters), and Ban-at-tees,
+"robbers," whose name is remarkably like the Shoshone **Ba'naite" for the
+Bannock.^ He describes the Shirry-dika as superior to the other two groups,
+predominating in a common council and subsisting to a considerable extent
+on the buffalo. In camping together, each division remained distinct, the
+Shirry-dikas occup}ang the central space and being flanked on either side
+by the War-are-ree-kas or Ban-at-tees. It is rather curious to note in this
+connection that the Shoshone are reported as abstaining from dog-flesh and
+that Ca'ro-ri' ka is undoubtedly the Shoshone name for the Arapaho.'
+
+The Shoshone sometimes gathered in villages; but isolated families,
+or small bands of families, were frequently encountered by the early explor-
+ers. The camp was pitched and broken according to exigency; the village
+visited by Lewis in August, 1805, had removed two miles higher up the river
+when sighted by Clark a few days later.^ It consisted of about twenty-five
+lodges; the population was estimated at about one hundred warriors and
+three hundred women and children.^ Larger villages of about one hundred
+and fifty lodges were found in the thirties among the Green River and Bear
+River people.^ The formation of a camp-circle was remembered by some
+of my informants. As in the- Plains, it was used for councils and dances,
+in times of war, and while engaged in a tribal chase; the horses were kept
+inside. It opened towards the east, as did the individual lodges. It is
+uncertain when the Shoshone adopted the camp-circle and to which of the
+local groups it was known.
+
+From the accounts of early travelers, it is quite clear that the powers of
+the chiefs were advisory rather than dictatorial.® "Little" chiefs attained
+their dignity by the performance of warlike deeds, and there were sometimes
+as many as ten in a single community. The head-chief was general director
+of the camp, presided at councils, received visitors from o.ther tribes, and
+conducted hunting and fishing^ excursions; but beyond this his power
+rested simply on his personal influence. To the authority of such men as
+Tendoy of Lemhi, and Washakie of the Wind River country, governmental
+recognition doubtless lent additional weight. The chief seems to have
+enjoyed no privileges of any kind. At a dance or hunt, he was assisted by
+di'rakone, policemen, armed wuth quirts. At Fort Hall, at least, a camp
+
+> Ross, I, 249-51 253.
+
+2 Domenech, II, 61. Mooney, (a) 954.
+
+3 Lewis and Clark, II, 379.
+< Ibid., II, 370.
+
+5 Wyeth, 219. Schoolcraft, V, 198.
+
+6 Lewis and Clark, 370. Remy, I, 128.
+
+7 Wyeth, 207.
+
+
+1909.] Lovne, The Northern Shoshone. 209
+
+crier announced important occurrences. The head-chieftaincy was not
+hereditary. Sometimes a chief was succeeded by his son; but this was not
+by any means necessary, nor was it necessarily the oldest son that fell heir
+to the position. In 1906, Tu'pambe was generally recognized as Tendoy's
+heir-apparent, though there were several older sons. It was noticeable that
+at councils he played a very insignificant part, hardly ever speaking. This
+was probably due to his comparative youth. However, it should be re-
+marked that there was obviously a limit to the deference paid to old age.
+Tendoy was certainly losing in prestige during the last years of his life, and
+the opposing faction contended he was getting too old. Similariy, a sick
+Indian declared he could no longer have confidence in the efficiency of the
+older medicine-man of the reservation, because he was getting too weak.
+Ability as an orator seems to have counted for something in the estimation
+of a chief; nowadays, in the absence of war-raids, probably more so than
+formerly.
+
+Neither the chief nor any other member of the tribe exercised judicial
+functions. Murderers were regarded as irresponsible (ke'-cuant), and were
+dealt with by the individual family and friends of the victim. In cases of
+adultery, the husband sometimes shot one of the offender's horses. This
+mode of punishment does not, however, seem to have been popular at Lemhi
+within recent times. Several years ago, Mo'bi, the physically most powerful
+man on the reservation, suspected his wife of infidelity, and shot one of her
+lover's horses. The people were indignant, but were afraid to oppose Mo'bi.
+At last, several of the strongest united, attacked and bound him while gam-
+bling, and had him sentenced to prison by the Indian judges appointed by
+the government.
+
+Terms of Relationship. The following terms of relationship were ob-
+tained :
+
+A'p5, Father, father's brother.
+
+Bi'a a'p5, Father's older brother (big father).
+
+Na'gahai a'p6, Father's younger brother.
+
+Bl'a, Mother.
+
+G5'nu, Paternal grandfather, (also used for reciprocal relationship).
+
+Do'go, Maternal '' ( " '' " " " )
+
+Hu'tsi, Paternal grandmother ( " " " " '' )
+
+Ga'gu, Maternal " ( " " " " " )
+
+Dz6, Grea1>grandparent.
+
+A'rabe, Maternal uncle, sister's son
+
+A'ra,
+
+Ba'ha, Aunt.
+
+Ba'vi, Older brother, cousin.
+
+Da'me, Younger " "
+
+Ba'dzi, Older sister, "
+
+
+210 Anthropological Papers American Museum of Natural History. [Vo. II,
+
+Na'mi, Younger sister, cousin.
+
+Du'a, Son.
+
+Ba'di, Daughter.
+
+Gwu'ahd, Wife. Never used in direct address.
+
+GwQ'apd, Husband. " " " "
+
+N6 m5nd6'gotsi, My father-in-law.
+
+N6 mdgfi'gutsi, My motter-in-law.
+
+N5 hu'tsdmbia, My son's wife.
+
+N6 mil'nap6, My daughter's husband.
+
+N5 dedz, My brother-in-law.
+
+Marriage. — No information could be obtained as to any restrictions of
+marriage. It was expressly denied by several informants that first cousins
+were barred from matrimony. Childhood betrothals were common a hun-
+dred years ago, and still occur. The father of the girl received horses or
+mules in payment at the time of the contract. The girl remained with her
+parents until puberty, when she was surrendered to her fianc^ with gifts
+equalling, at times, those originally paid for her.^ That gifts to the parents
+were essential was, however, strongly denied by some of my informants.
+Sometimes a young man proposed by wrapping a blanket about the girl;
+acceptance of the garment indicated consent. In case of a rebuff, the pro-
+posal was sometimes repeated several times. Formerly girls were married
+at a very early age, and some Shoshone express misgivings as to the post-
+ponement of matrimony caused by modem conditions. A case where a girl
+was wedded at twelve was, however, brought to my notice. Under modem
+conditions it has been customary for a young man to live with his wife's
+relatives and work for her family if he had no land of his own. Polygamy
+was fairly common, but the wives were not usually sisters. Tendoy once
+had five wives at a time; in 1906 he had three, but lived with only one, the
+other two staying with their adult sons. The practice of the levirate is
+reported from the Wind River Reservation.^ Though a man could freely
+dispose of his wife, irregular intercourse without his consent was resented.
+The offended husband could demand a horse as indemnity or, in case of
+refusal, shoot one of the lover's horses.^ Divorce was easily consummated,
+and involved no restrictions as to future unions. "Grover Cleveland"
+divorced his wife in order to marry another woman; his wife also re-
+married. After the death of his younger brother's wife, Kobitsak gave
+him his own (according to a white informant, in exchange for two horses),
+and wedded another woman. They continued to be next-door neighbors,
+and the women visited each other practically every day. Elopements also
+
+
+» Lewis and Clark, II, 370-1.
+
+a Report 1890, 632.
+
+3 Report 1890, 631. But cf. page 209 of this paper.
+
+
+1909.] Lotoie, The Northern Shoshone, 211
+
+occurred. Some years ago a man fled to Wyoming with another man's
+wife, and returned after several years' absence, when the husband's anger
+had passed away.
+
+Husband and wife do not address each other by the specific relationship
+terms employed in the third person, because "they are afraid to do so."
+Instead, they use the generic terms for man (do'napo) and woman (wai*pe).
+The mother-in-law taboo is strictly observed. Only crazy (ke'cuant) men
+would venture to speak to their mothers-in-law.
+
+
+VARIOUS CUSTOMS.
+
+Names. — Clark gives some notes on the naming of Bannock children,
+which presumably apply to the Shoshone as well. Children were named
+by their parents about the age of ten or twelve, but sometimes an old man
+would bestow his name on a young one. Many girls were called after
+different species of frogs. Children were not named after a dog, wolf,
+coyote, or fox.^ Individual peculiarities were often referred to, and a new
+name was assumed after some notable achievement.' T^ndoy (Climber)
+was so called, because in his childhood his mother had once refused to grant
+him a request, whereupon he flew into a passion and began to climb a tree.
+The chief visited by Lewis and Clark had two names. Black Gun and He-
+does-not-walk (Ke mi'awE). In token of his friendship for the whites, he
+bestowed his second name on Clark, who was thereafter called Ke mi'awE.'
+The Lemhi people still show great reluctance in divulging their native names;
+a middle-aged man who had lived with the whites for many years obstinately
+denied having a Shoshone name, though it was subsequently discovered by
+chance.
+
+The following men's names were noted: To'sa-wu'ra, White-Bear,
+O'ho-wu'ra, Yellow-Bear; Tu'modzo, Black-Moustache; Tu'dzomon-
+do'mi, Master-of-Black-Beads; K^'bi-tsak, Little Jack; YE-hu', Poor-
+Man; Ka'nu-kwac, Grouse-Tail; Ti'carimip, Charger; Gwl'na-mo'bi,
+Eagle-Nose; Wi'hitEmbo'gona, Iron-Ball; Ku'bui, Squinting-Eye; Gwi'd-
+am-ba'bi, Ani Frater; E'nga-gwacu, Red-Shirt; Tu'pambe, Black-Hair;
+Wu'ra-yo'go, Cum-ursis-copulat. The following are women's names:
+Toma', Cloudy; Da'bEntcotc, Little-Sun; Tsi'dzi, Baby; Ya'mpatsi, Wild-
+Carrot; Na'soai, Not- Ashamed; To'kaidzo, Black-Forehead.
+
+Salutation. In recent times, the handshake has become the symbol of
+
+
+> Ctark, 61, 267.
+
+2 Lewis and Clark, III, 29.
+
+3 Ibid.. II, 367: III. 29.
+
+
+212 Anthropological Papers American Museum of Natural History. [Vol. II,
+
+a friendly welcome, both in receiving white and Indian visitors. A hundred
+years ago an embrace was customary. The left arm was put over the guest's
+right shoulder, clasping the back, while the left cheek touched his. At the
+same time, the host repeatedly shouted **Ah-hi'-e," which Lewis inteq^rets
+as an expression of great joy.*
+
+Smoking, — The most common type of pipe nowadays employed by the
+Lemhi Shoshone consists of a narrow stem of currant or rose-brier (dzl'ampi
+wood), about twenty-five centimeters in length, with a small red-stone
+bowl. One pipe had a willow stem, only fifteen or eighteen centimeters
+long, inserted in the middle of the red-stone bowl, which was not cylindrical,
+but globular, with a very marked flattening at both sides. The manufacture
+of these pipes seemed to be the monopoly of a few men. Large catlinite
+pipes, such as are commonly found on the Plains, were rare. The pouches
+containing the few specimens seen were said to have been obtained from
+the Blackfeet. I saw a single tomahawk pipe. The old straight-pipe
+(tu'na rowe) of the Shoshone as described by Lewis in 1805 ^ consisted of a
+dense, semi-transparent green stone about seven centimeters long, of an
+oval figure, and very highly polished, the bowl and stem being in the same
+direction. A small piece of burnt clay was placed in the bottom of the bowl
+to separate the tobacco from the end of the stem; it is of an irregularly
+rounded figure, fitting the tube imperfectly in order that the smoke might
+pass. From Lewis's drawing, it appears that the stem was about three
+times as long as the bowl. This does not tally with my informant, who,
+in a crude sketch, made the bowl slightly longer than the stem, somewhat
+like the Califomian specimen pictured by McGuire.^ Ross describes the
+bowls as of stone with large heavy stems of ash-wood almost a meter long,*
+Clark speaks of a soft greenish stone forming the small bowl ; ^ while, ac-
+cording to Wyeth, the stems were about sixty centimeters long and the bowl
+was made of fuller's earth or steatite.*
+
+The Shoshone never cultivated tobacco. Lewis found that the Lemhi
+used the same tobacco as the Miiinitarees, Mandans and Arikaras; and
+states that they obtained it from their eastern neighbors and from Shoshone
+bands living to the south. ^ Ross describes their tobacco as a low, brownish
+plant, thriving particularly in sandy or barren soil, having the same aromatic
+flavor and narcotic effect as ours, though weaker. It was dried, rubbed
+
+
+» I^wis and Clark, II, 340.
+
+2 I^wis and Clark, II. 341-2.
+
+3 McGuire, 390.
+* Ross. II, 109.
+
+« Clark. 303. 353.
+
+Wyeth, 214.
+
+7 Lewis and Clark, II. 342.
+
+
+1909.] Lowie, The Northern Shoshone. 213
+
+between the hands, or pounded with stone, until it was quite fine. It left
+a gummy taste in the mouth.^ According to my informants, the Shoshone
+employed kinikkinik (ti'mayiha) obtained by drying the leaves of the
+dzi'ampi (wild-rose bush ?) ; they knew that their Cree friends use the bark
+of e'ngabit ho'pi (lit. red-tree). The Shoshone, however, also use red-
+willow bark. Remy relates that the kinikkinik of the Utah Snakes was
+derived either from the dried inner bark of a species of Comus, or from the
+dried leaves of Vaccinium and another (unidentified) shrub.'
+
+In smoking, the fumes are expelled from the nostrils;^ sometimes they
+were swallowed on ceremonial occasions.* Though nowadays the pipe is
+sometimes passed from left to right, the proper method, observed at councils
+or meetings with visitors, is for the chief, or host, to take a few whiffs, pass
+it to the left, until the last visitor has smoked, and then to have the pipe
+handed back unsmoked to the chief, who cleans the bowl with a tamper
+and sends it on the second round. I never saw the pipe offered to the six
+directions in a ceremonial way, and the chief expressly stated that this was
+a Sioux custom not practised by his tribe. Lewis's account, however, is
+conclusive on this point. At his reception, Ke-ml'awE had a fire kindled
+in a two-foot circle cleared of grass in the center of the lodge, lit his pipe,
+rose from his seat, and after a brief address pointed the stem towards the
+four cardinal points beginning with the east and ending with the north.
+Next he presented the pipe to Lewis, but drew it back three times; then
+offered it to the sky and the fire-place, smoked three whiffs, held it for
+Lewis and his companions to smoke, and finally passed it to his own men.*
+
+. A similar account is given for the Green River Snakes by De Smet ®
+who adds that each smoker had a different way of taking the pipe, one
+turning it around, another describing a semicircle before accepting it, the
+next holding the bowl in the air, and so forth. De Smet connects these
+peculiarities with the specific directions of each man's manitou. Ross saw
+the pipe held first east, then west, south and north; but it was not offered to
+the sky. A forked stick taken from a medicine bag was employed to place
+in the bowl the bit of burning horse-dung used for lighting the pipe.'
+
+Lewis notes the queer custom that the Shoshone, before smoking, re-
+moved their moccasins, and, on one occasion, requested their white visitors
+to do likewise. This act, he states, involves a sacred obligation of sincerity
+
+
+» Ross. I, 272.
+
+a Remy, I, 130.
+
+3 Ibid.. 131.
+
+* Ross, II, 93-6.
+
+« Lewis and Clark, II, 342.
+
+« De Smet, 217-8.
+
+7 Ross. II, 93-6.
+
+
+214 Anthropological Papers American Museum of Natural History. [Vol. II,
+
+of friendship, and the wish that if the smoker is disloyal, he may always go
+bare-foot.^ Of this custom I found absolutely no recollection, except that
+one old man stated that the medicine-men were formerly wont to remove
+their moccasins when smoking during the treatment of their patients.
+Though Clark regards the Shoshone as less addicted to smoking than the
+Plains tribes,^ Lewis and Clark, as well as Ross, found them excessively
+fond of tobacco.^ According to Ross, they even claimed to have been the
+first smokers in the beginning of the world, and to have instructed all the
+other Indians in the art.*
+
+Menstrual Lodge. — During the menses, the women retire to a special
+lodge (hu'na-g^n*), where they stay by themselves, abstaining from meat
+and fish. This custom is rigorously obsen^ed at the present day. Formerly,
+the woman's sole sustenance during this period consisted of seeds and roots,
+nowadays bread is also allowed her. It is believed that if a woman were to
+eat meat, the flow of blood would continue indefinitely. No one is supposed
+to go into the lodge of a menstruating woman. Long ago, a squaw infringed
+this law; she began to vomit, and died. Men approaching catamenial blood
+would also vomit and die. During the latter part of pregnancy, a woman
+retires to the same lodge. No man comes near her, but her women friends
+may sit at some distance outside and talk to her. For several days before
+the expected birth of the child, both husband and wife abstain from meat
+and fish.^ The institution of the hu'na-g^n*, like the origin of menstruation
+itself, is attributed to Coyote.
+
+Burial. — In the old days, when a Lemhi died, his body was wrapped in
+blankets, tied up, and deposited in the clefts in the rocks. The tribal grave-
+yard was formerly in the gullies several miles beyond the reservation on the
+Lemhi River, a site of rather difficult access strewn with the bones of horses.
+Nowadays the corpses are buried in the ground. Tree-burial is known as a
+practice of other tribes, but was never resorted to by these Indians. Cre-
+mation has been cited as an occasional custom of the Nevada Snakes; but
+among them also concealment among rocks was the usual method.® Some-
+times the corpse was simply abandoned, and rubbish, or the remains of the
+wikiup, thrown on top. In Nevada, Hoffmann once discovered the body of
+a young boy, which had been disposed of in this fashion.'
+
+The relatives and friends present gifts to the deceased, and a woman
+
+
+» Lewis and Clark, II, 340, 363, 365.
+
+2 aark, 303, 353.
+
+3 Lewis, II. 351; Ross, I, 257.
+* Ross, I, 272.
+
+» Remy, I, 126-7.
+Yarrow, 143.
+7 Ibid.. 153-4.
+
+
+1909.] Lowie, The Northern Shoshone. 215
+
+kneeling beside the corpse shouts into its ears the names of the donors and
+the character of their offerings. A missionary at Ross Fork is said to have
+ingratiated herself with the Fort Hall people by regularly appearing at
+funerals with a gaudy handkerchief, or some similar gift, for the departed.
+According to two informants, the following words are addressed to the
+dead:^ —
+
+*'0'n6 mi'aiy". Dza'Ent co'gopE pi'dehunk.
+You are going. A good land reach.
+
+O'yogE n^'mo ma-bu'i, dza'Ent n^'mo, dza-na^buin.
+
+All Indians see, good Indians, good-looking (ones).
+
+Ke ko'oi. Ik ke dza'Ent co'gopE; dzu'guputsi.
+
+Don't return. This not good land (is) ; it is old.
+
+Dza'Ent o mi'agwain."
+
+It is good for you to go.
+
+After the death of a Lemhi medicine-man in 1906, Dr. Murphy informs
+me, the Indians lamented his loss for four or five days. Three horses were
+covered with ribbons, mirrors, feathers and tawdry blankets, and Tcept on
+exhibition. When the corpse had been deposited in the ground, the finery
+was also buried, and the horses were killed. De Smet gives the following
+account.^ After the hair of the dead man's relatives is cut and the manes
+and tails of all his horses have been docked, all his possessions are piled up
+in the middle of the lodge, the tent-poles are cut into little pieces, and the
+property is burnt. Then the corpse is tied upon the man's favorite horse,
+which is led to the edge of a neighboring river. There the warriors chase
+the animal, surround him, and with yells force him to leap into the current
+with his master's body. Then, yelling louder, they tell him to transport his
+master without delay to the land of souls. Remy saw a chief's best-looking
+wife killed with the horses. "After two horses had been sacrificed, the unfor-
+tunate young woman stepped without flinching on the tomb of her husband,
+whose brother forthwith cut off her hair, and then shot her through the
+heart. — Earth was heaped over the two bodies, the horses were buried
+beside them, and, after hiding the victim's hair at some distance, all was
+over." The mother of the deceased prostrated herself every evening at the
+grave, singing a mourning song.^
+
+The mourning women gashed their legs above and below the knee and
+had their hair cropped. Sometimes the arms and ears were also scarified.
+The men, as a rule, only clipped the hair in the back of the neck; but Lewis
+and Clark's host had cut all his hair quite short .^ The personal property
+
+
+1 De Smet, 219.
+
+2 Remy, I, 131-2.
+« Ibid.. II, 372.
+
+
+216 Anthropological Papers American Museum of Natural History, [Vol. II,
+
+of the deceased was either distributed among the friends of the natural heirs,
+or burnt. It is reported from Nevada that during mourning the survivors
+follow the paths traveled by the lost relative when alive, — a custom called
+** hunting the dead." * The lodge of the deceased is abandoned. At Inkom,
+Idaho, my interpreter had just deserted a comfortable log-cabin to live in a
+tent on account of his uncle's death. In order to avoid this necessity, a
+hopelessly sick person was sometimes removed to a solitary xidkiup at some
+distance from the general camping-ground.'
+
+
+|2
+
+
+DANCES.
+
+The ceremonial organization of the Shoshone, so far as they were not
+directly influenced by their neighbors, was extremely simple. I could find
+no trace of age-societies; and, while Mr. St. Clair discovered a wolf-dance at
+Wind River, I gather from his oral description, as well as that furnished by
+Culin,^ that it had nothing to do with a grouping on the basis of supernatural
+experiences, but corresponds to the Lemhi ta'cayuge, with apparently
+much greater development of body-painting. The sun-dance (da'gu-wo no)
+is performed at Wind River and Fort Hall; it was, of course, known to the
+Lemhi by hearsay, and had been witnessed by some on other reservations.
+However, the older men agreed that it had never been celebrated among
+them. As the chief remarked, they "were afraid" of the ceremony because
+of the several days' abstention from food and drink. The lack of the sun-
+dance among the Lemhi, taken with an informant's statement that the
+Fort Hall people derived the ceremony from their kinsmen in Wyoming,
+indicates a relatively recent introduction of the dance among the Shoshone
+groups practising it. That the Wind River Shoshone have adopted cere-
+monial features from the Arapaho appears from a description of a *' Sho-
+shone buflPalo-dance." * The dancers congregate in a tipi. A middle-aged
+and a very young woman are brought to the center of the circle, where an
+old attendant removes their clothing, replacing it with a sage-brush apron.
+The girl is covered with white clay and decorated with black spots. She is
+handed a staff, stretches out her arm, and plants the stick firmly in the
+ground. All the dancers pass a given number of times under her arm, then
+rush at her with a yell, raise her on their shoulders and carry her around,
+the by-standers touching her with their hands and coup-sticks for good
+medicine. V She is returned to her place in the circle. Then a number of
+
+» Report 1890. 386-7.
+
+2 Yarrow. 153-4. Report 1890, 387. Cf. Enga-gwacu's personal narrative, p. 301.
+
+3 Culin. (a) 14.
+
+* Report 1890. 634.
+
+
+1909.] Lovne, The Northern Shoshone. 217
+
+women impersonating buffaloes run off into the bush, pursued by the men,
+who capture and bring them back. Some of the features, at least, of this
+ceremony may have been adopted from the women's dance of the Arapaho.*
+It is probable that other cultural elements were similarly borrowed, and
+this conjecture would account for the somewhat greater complexity encoun-
+tered among the Wyoming Shoshone, as compared with those here espe-
+cially dealt with.
+
+Of the dances formerly in vogue at Lemhi, the nu'akin or ta-nu'in,
+seems to have been the most important. Some informants identified it
+\\ath the na'dzangai, or na'dzangEn; but others denied any connection
+between the two, and insisted that the latter was a squaw-dance recently
+derived from the Nez Perc6, though some similarity in the step was admitted.
+The nu'akin was celebrated for several days, either towards the end of
+winter or in the beginning of spring. Its object was to ensure a plentiful
+supply of food, especially of salmon and berries. A camp-circle was formed,
+but no special lodge was erected. The main circle of dancers consisted
+of men and women, the normal arrangement being that each participant
+stood between members of the opposite sex. A woman might, however,
+refuse to stand between two men if she disliked them. Neighbors joined
+hands, interlocking fingers, a custom called ma'wekw^gin. Boys and
+girls formed concentric circles, the former dancing in front of, the latter
+behind the main ring. The women wore elk-tooth dresses or their modem
+equivalents, put red paint on their face, and dyed their hair yellow. Ac-
+cording to some, the women rarely daubed their hair, the face was painted
+yellow, and red paint was spread in oblique lines from the eyes downwards.
+The men used bi'cap on their face, white clay on their forehead and hair.
+An eagle, or at times a magpie feather, was inserted in the hair. No drum
+was used during the performance. The dancers themselves sang, gliding
+with clockwise movements similar to those of the Cree dance, but much
+more slowly. As soon as the singing ceased, the women stepped out of the
+circle, resuming places when a new song was begun. So far as could be
+learned, there was no difference between the several (according to some
+two, according to others five) days' performance, which was concluded with
+a feast. Mr. Faukner, a young half-breed from Ft. Hall, remembers a
+dance, called grass-dance, which seems to correspond to the nu'akin,
+though he has forgotten the native designation. An immense circle was
+formed by men and women, neighbors interlocking fingers. The dance
+continued for several days and nights; the object of the dance was to make
+the grass grow.
+
+
+1 Kroeber, (.b) 210 it seq.
+
+
+218 Anthropological Papers American Museum of Natural History. [Vol. II,
+
+The following very imperfectly translated nu'akin song was secured:
+Ma'zambia un-du'a,
+Mountain-sheep her son,
+
+wa'sipi un-du'a-tsi,
+
+mountain-sheep's son,
+
+dii'mbi ma-to'owEn.
+
+on the rock goes out.
+
+E'nga-m-bo pa gfl'nait
+A red ball cloud
+wu'kum-bai yo'ina,
+
+wind has (?)
+padA'nobina.
+go outside.
+(At this point of the song several of the singers knelt down on the ground.)
+Bl'a-gwina umbi'oi un-du'atsi pa'wucorotogin.
+
+Eagle white ( ?) her son ?
+
+Ta'ham bl'agwina bi'oi du'atsi.
+Our white- eagle's son.
+
+A very vague, general resemblance might be noticed between the style
+of this song and that of some recorded ghost-dance songs. Together with
+the informant's statement that some Shoshone called the nu'akin dzo'a-
+no gakin, ghost-dance, the slow movement, the characteristic position of the
+women, and the clasping of hands,^ it might be taken as evidence of a recent
+development of the dance. But Moone/s statement, that the Shoshone
+ghost-dance was merely a re\dval of an older dance practised fifty years ago,
+is supported by the testimony of Lemhi informants, re-enforced both by the
+mention of the nu'akin in mythology and the explanation of its object.
+There can thus be little doubt as to its antiquity.
+
+While the nu'akin was celebrated to insure the coming of the fish, the
+first catch of salmon (ta'ma-a'gai) was also attended by some celebration.
+All the members of the band painted with bi'cap, and a feast took place,
+the first catch being divided among all the tribesmen. This custom is re-
+ferred to by Remy in his description of Brenchley's journey along the Snake
+River in 1850. "At the commencement of their fishing season the Indians
+perform a sort of superstitious ceremony, which consists in making certain
+prayers or signs over one of the fish before they vehture to eat any. They
+believe that a violation of this law will bring ill-luck to the fishers, and any
+one of them disobeying it would run the risk of losing his life, even if he were
+famishing." ^
+
+1 Mooney. (a) 809, 920.
+
+2 Remy, II, 508.
+
+
+1909.] Lotme, The Northern Shoshone. 219
+
+The a'po-no'kakin (Father's dance) was danced like the nu'akin, but
+with different songs, which were usually without words, but partly in the
+nature of a prayer. No information was given beyond the statement that
+it was usually performed by old men and had originally belonged to the
+Bannock. Another old dance was the dii'mu-no'kakin, in which men and
+women participated, moving contra-clockwise in a circle and bending down
+low at regular intervals.
+
+Somewhat fuller information is available as to the wo'ho-nokakin, of
+which the name is derived from a musical instrument called wo'honog
+(Fig. 20). This consists of a notched wooden board, held up in a slanting
+direction and resting on a parfleche or piece of tin, and a second stick, or
+bundle of twigs, which was rapidly drawn down the scale of notches. A
+somewhat similar instrument was found by Alexander Henry among the
+Assiniboine, and is used by the Hoof-Rattle society of the Cheyenne; * it
+is also found among the Hopi, Tonkaway, and Mexican tribes.^ There were
+
+
+Fig. 20 (50-6410). Musical Instrument. Length, 53 cm.
+
+four musicians. The men and women were ranged on diflPerent sides of
+the dance-ground. Both were allowed to invite members of the other sex
+to become their partners. If a man refused a woman's invitation, the
+belief was that he would be killed by a bear the next time he went out hunting.
+There were usually from four to six couples dancing at a time. All the
+spectators sang a song without words. Partners faced each other. The
+man's right hand grasped the woman's right arm, or he might simply place
+his hand on her waist or shoulder. He ran rapidly backwards with his
+partner, then both ran to their initial position. Usually the dance took
+place on spring evenings. At Lemhi the wo'honokakin has not been
+practised for twenty years; but Mr. J. P. Sherman of Owyhee, Nevada,
+who kindly obtained some additional notes, reports that on the Duck River
+Reservation the last performance dates back as late as 1905. The mis-
+fortune incurred by refusal to dance with a woman was not restricted by
+
+> Henry. 296. G. A. Dorsey. (d) 18.
+2 Hawley, 344.
+
+
+220 Anthropological Papers American Museum of Natural History, [Vol. II,
+
+his informant to injuries from wild beasts; the guilty individual might be
+drowned, killed by a windfall, etc. Within recent times an open box was
+substituted for the rasping-stick. Mr. Sherman's authority regards the
+dance as old, but as having been originally introduced by the Ute. The
+Museum contains a specimen of a Ute notched instrument, collected by
+Kroeber, and Culin found it in use at a Uinta bear-dance performed in the
+spring.* The bear-dances of the Ute, however, are described as purely
+social entertainments by Clark,^ while the homologue of the wo'hono^kakin
+was an annual religious ceremony performed in February or March. The
+dance-ground was bounded by a large circular enclosure, and near one end
+the musicians sat down with their rasps. *'The men and the squaws
+arrange themselves into two lines, so that the sexes stand opposite and facing
+each other. When the music commences two squaws clasp hands, advance
+to the male line, and choose their partners; then two more in the same
+manner make their selection, and so on until all are supplied. Now the
+males and the females from their respective lines advance towards each
+other with a trot and a swaying motion of their bodies, until the couples are
+almost face to face, and then with similar backward movements return to
+the places from which they started. This alternate advance and retreat
+is all there is to the dance, but the participants apparently enjoy the exercise
+immensely, and often continue the dance until they are completely ex-
+hausted."
+
+The scalp-dance has already been referred to in connection with war
+customs.
+
+The dances heretofore mentioned were not witnessed by the writer.
+When visited, the Lemhi Shoshone only practised two dances, the ta'cayuge,
+or war-dance, and the a'nonokakin, or Cree dance (a'na = horn, a'angant
+= Cree), also called kwapakin, or hugging-dance. Usually both were
+performed during the same night, the songs and correlated dances alternat-
+ing according to the wishes of the performers. The decision to hold a
+dance was made early during the day, and the news was rapidly carried all
+over the reservation. About sunset the drummers gathered on the dance-
+ground, suspended a large drum from four willow-sticks fixed in the ground,
+and began their music. It generally took about two hours, or longer,
+before all the people had arrived. During this waiting period, the drum-
+sticks were plied with short intermissions of rest, and appropriate songs
+were sung. On one occasion the wupa'rEk was revived before the com-
+mencement of the drumming. There was often great reluctance about
+starting the dance, and in such a case some of the drummers, or some of
+the older people present, exhorted the men and women to begin.
+
+
+Culin, (a) 95.
+'■ Clark. 389.
+
+
+1909.] Lowie, The Northern Shoshone. 221
+
+The customary site of the dance was a large, unroofed bam, in the center
+of which a fire was maintained. At other times, the dancing took place in
+the open air around a pile of dry wood. For a public feast, followed by a
+dance in the evening, a circular enclosure of willow-trees opening towards
+the east was erected. A similar structure with a forked cottonwood in the
+center was put up for an afternoon dance, ostensibly in honor of the chief,
+who had recently returned from a visit, and of some Cree. It was only on
+the last occasion that the older war-dance seemed to predominate over the
+recently acquired Cree dance.
+
+The Cree dance (a'no), which is practically identical with the owl-dance
+of the Crow, was introduced both at Lemhi and Fort Hall by the Cree some
+eight years ago, and rapidly became very popular. After the Cree song has
+been sung several times, a woman rises, approaches one of the men who are
+seated on the other side, or possibly one of the drummers, and tries to pull
+him up. The man summoned is frequently reluctant, yielding only after
+repeated pulls. At last, he steps forward, stands next to his partner, places
+his right arm around her waist, or his hand on her shoulder, and both begin
+to glide around the central fire-place in a clockwise direction. In position,
+the feet may form an angle, but are as frequently parallel. They are hardly
+raised from the ground, and the legs are bent but slightly, if at all. Other
+couples follo.w, and with young boys dancing by themselves the circle is
+soon closed. At intervals some of the dancers give vent to brief exclamations.
+As soon as the singing ceases, the circle is broken, the men release their
+companions, and receive in payment a small coin varying from five cents to a
+quarter. At the very next dance, however, it is the man's duty to invite
+his former associate and ultimately return to her twice the original amount,
+the established sums being a dime for a nickel, two-bits for a dime, and
+half-a-dollar for a quarter. On exceptional occasions, such as visits from
+friendly tribes, more valuable gifts are exchanged, such as beaded necklaces
+and even horses. A number of times the same man was simultaneously
+approached by two women. He would embrace each w'ith one arm, and
+received a twofold fee, repaid in the customary fashion.
+
+There was no special dress for the Cree dance. Men and women took
+part in their everyday costume, except in so far as the former were prepared
+for the ta'cayuge. The dancing continued through the night, those tired
+out lying down on the margin of the dance-ground and resuming places
+when rested. As a rule, the i)urely social nature of the performance was
+emphasized by the well-nigh total absence of the older men. The chief
+expressed detestation for night-dances, asserting that in former times dances
+always took place before dark. This, however, is disproved by the testi-
+mony of early travelers.^
+
+> Lewis and Clark. II. 343. 347.
+
+
+222 Anthropological Papers American Museum of Natural History. [Vol. II,
+
+The ta'cayuge was said to be an old dance. In fonner days the per-
+formers remained rooted to the same spot, merely dancing up and down.
+One man carried a bow and arrow in his hand. There was no costume
+beyond a breechclout. Scars from wounds received in war were painted
+conspicuously. The dancers seen, almost exclusively young men, would
+rise from their seats at the beginning of the song, mark time in their places,
+then leap forward into the center, several at a time, and advance alternately
+one foot before the other with violent movements of the legs and body.
+Sometimes two dancers would gradually approach each other face to face,
+sometimes they danced abreast, keeping sfep. The ta'cayuge thus re-
+sembles both the Omaha dance of the Prairie Tribes,' the hot-dance of the
+Crow, the prairie-chicken dance of the Stoney Assiniboine, and the Black-
+foot ka'espai pa'skan. The actual dance is very brief, probably owing to
+the physical exertion involved.
+
+There were no definite rules as to the costumes to be used. The per-
+formers freely borrowed what paraphernalia they could, and consequently
+there was considerable variety in their appearance. Some wore wigs,
+others porcupine head-dresses. At times eagle-feather fans with little bells
+attached were borne in the hand. On one occasion a rattle and an eagle-
+bone whistle derived from the sun-dance regalia of a Fort Hall Shoshone
+were suspended from a war-dancer's belt, with no idea of their originally
+ceremonial significance. The costume of one well-dressed dancer consisted
+of beaded moccasins; leggings with unf ringed flaps and adorned with long
+strips of beadwork; a cloth breechclout decorated with a zigzag design,
+and partly covered by a linen shirt; an open vest with embroidered floral
+designs on the back, of which the sun-flower could be easily identified; and
+a porcupine head-dress from which rose two tall eagle-feathers. Leg-bands
+with bells were attached below the knees. The chiefs favorite son wore
+the typical Prairie bonnet without a tail, a buckskin cap with tall feathers
+tipped with reddish-yellow horsehair from six to eight inches long. On the
+sides of the headgear, there were small mirrors; in the back, there were
+numerous little bells; the front was beaded. Below the red cloth wrappings
+of the quills were little strips of weaselskin, gaily colored ribbons were sus-
+pended in the back. Besides a black shirt and a cloth breechclout, there
+were beaded armlets, leg-bands below the knee, and anklets with bells.
+Another dancer wore richly beaded moccasins and otter skin anklets, a
+loincloth confined by a beaded girdle, a red shirt with sleeve-holders and a
+porcupine head-dress. To the belt were attached an eagle-bone wrapped
+with strips of otter skin and a wooden staff wrapped with blue cloth and
+
+
+1 Mooney, (a) plate CXIX.
+
+
+1909.] Lotuie, The Northern Shoshone. 223
+
+crudely carved at one extremity into a bird's head, similar to a Musemn
+specimen from Wind River; while the other terminated in a buckskin ball
+filled with little pebbles and occasionally employed as a rattle. Some
+dancers had necklaces composed of little bone discs strung on parallel
+thongs.
+
+Similar irregularity was observed in the application of paint. The
+chiefs son first painted his face yellow (6'hapit), then daubed his forehead
+with red paint; finally the portion of his face below the mouth was given a
+dark-brown paint, leaving only the space between the eyes and upper lip
+stained with the original o'hapit. This space was further restricted by a
+pair of blue stripes extending from the extreme point of each eye outwards
+to the ears, but passing below them. Between each pair of these sym-
+metrically disposed blue stripes, red paint was applied. Both sides of the
+hair were daubed yellow, and the frontal braids, as well as the hair in the
+back, were irregularly painted in the same fashion. The thighs were at
+first completely covered with yellow paint, later some blue dots were added.
+From the knee downward the legs were stained dark-blue. Other dancers
+used white clay (a'bi) on the forehead and upper part of the face. One
+performer painted his face red, with three slanting rows of yellow patches
+on one side and three symmetrically disposed yellow lines on the other.
+The legs were yellow, the thighs had in addition three rows of blue circles.
+Another dancer painted his legs red, and added several rows of circular
+yellow patches. All informants positively stated that the selection of both
+paint and costume was a matter of purely individual choice. Jack Tendoy
+used white clay in four or five patches under the eyes on either cheek.
+
+As already stated, Mr. St. Clair discovered considerably greater com-
+plexity in the body-painting of the Wind River Shoshone. Some wolf-
+dancers had realistic representations of a bear or snake below their breasts,
+standing for bear or snake-medicine; a sun-dancer had a similar painting
+of a buffalo. Right angles, or angular horseshoes, represent horse tracks;
+wavy lines extending along the entire length of the arms and legs s}Tnbolize
+the rainbow; short lines, horizontal, curved, oblique or vertical, indicate
+people killed; and painted hands record hand-to-hand encounters with the
+enemy.
+
+RELIGION.
+
+As in the Plains, the basis of religious feeling seems to be the desire to
+secure power by the aid of dreams, visions and tutelary helpers. A man in
+quest of supernatural power would sometimes go up into the mountains at
+night. Suddenly he sees a light, which represents the expected medicine.
+
+
+224 Anthropological Papers American Museum of Natural History. [Vol. IT,
+
+He goes to sleep. The next morning he rises, and begins to look for roots.
+After having found them, he addresses the Sun, saying, "Look, I take this
+for my medicine." Then he brings them home, ties them up in a buckskin
+bag, and carries them about his body. In the night, his medicine speaks
+to him and counsels him. It may tell him how he ought to paint. The
+next day he will act in accordance with its directions. Sometimes, if a
+man wishes to kill an enemy, he will speak to his medicine, attach it to a
+little stone, and throw it at the victim with disastrous results. Long ago a
+man married a woman, whom he came to dislike. He spoke to his medicine,
+and threw it at her. She died the next spring. An individual helper of
+this kind is called bu'ha, while medicinal herbs, charms, etc., are distin-
+guished as na'dcu. However, the weaselskins and eagle feathers worn in
+the hair were referred to as bu'ha, perhaps on account of the manner in
+which they were secured; some Shoshone regarded them as a protection
+from missiles. Some men obtained bu'ha for war only,^ while the medi-
+cine-man (bu'ha-gant = bu'ha-possessor) received help from his bu'ha as
+to the nature and cure of his patient's sickness. The Wind River people
+seem to look upon many birds as possessors and bestowers of bu'ha. The
+tail-feathers of the flicker, worn as a headgear, ward oflp sickness and tend
+to restore health; and a certain male of a species of sage-hen is explicitly
+stated to impart the gifts of a healer, seer and exorcist. This bird was
+offended some time ago because a Shoshone shot at it; hence the relative
+weakness of the bu'ha of modem, as compared with ancient, medicine-men.^
+If a man disobeyed the orders of his bu'ha, it would leave him forever.
+Some twenty years ago, Enga-gwacu Jim, who had a war-bu'ha, disregarded
+his helper's instructions as to the eating of salmon. He fell sick, his bu'ha
+no longer aided him, and he died. Though afterwards restored to life, he
+never recovered his bu'ha.' There are individual relations of a similar
+character which are not explicitly connected with a bu'ha. Thus, K6'bitsak
+is not afraid of rattlesnakes, because he has dreamt that he put rattlesnakes
+all over his body without being injured by them. He, accordingly, regards
+them as his friends. He knew an old Indian who would even venture, for
+the same reason, to put a rattlesnake into his mouth. Some medicine-men
+could never be hurt by obsidian arrow-points. The arrow would just
+graze them and pass off harmlessly; ''perhaps it knew them." In con-
+cluding the tale of a woman who had illicit intercourse with a stallion, the
+
+
+* Bonneville's Bannock chief, who had a channed life and could not be hit by a bullet,
+probably belonged to this category. He was ultimately killed by the Blackfoot; but his people
+declared it was not a bullet, but a piece of horn shot into him that caused his death. Irving,
+(a) 147.
+
+2 CuHn, (a) 20.
+
+» Cf. p. 301.
+
+
+1909.] Lowie, The Northern Shoshone. 225
+
+narrator stated that she had dreamt horses were her friends and that she
+herself was like a horse.
+
+Dreams also give knowledge of past and future events, and bestow
+ability of a special character. A medicine-man once dreamt that an agent
+had killed an Indian school-child, and the Shoshone are firmly convinced
+that this is true. A Fort Hall Indian dreamt that he would be able to
+restore performers of the Sun-Dance, when falling down in exhaustion
+from thirst, by squirting water from his throat at their bodies. He tried
+the experiment, and succeeded. After Enga-gwacu had offended his bu'ha,
+the Sun appeared to him, ostensibly in a dream, and told him to build a
+wikiup all by himself, that he was going to di^, but that he would be allowed
+to return to life, if he so desired. This was just what actually took place
+afterwards.
+
+From what information could be secured, it seems that to speak of
+Shoshone shamanism would be misleading. Though additional evidence
+may refute the statement, it does not appear that Shoshone medicine-men
+are distinguished from ordinary men by the common possession of a special
+type of supernatural relationship. As a chief acquires his war-medicine,
+so the medicine-man obtains the power to treat, say rattlesnake bites, which
+is specifically different from, but derived in fundamentally the same way as,
+another medicine-man's ability to cure barrenness, or as Kfi'bitsak's im-
+munity from snake-bites.^ The following particulars are given by Culin
+on the authority of a mbsionary. A medicine-man, in seeking supernatural
+aid, went to the mountains to fast and pray. At the end of some days an
+eagle, a bear, and a badger appeared to him. The eagle took off one of his
+talons and gave it to him, telling him that by means of it he would be able
+to command all the powers of the air. The bear similarly took off one of
+his claws and promised him aid from all the powers of the earth. Finally,
+the badger gave him a claw and told him by means of it he could command
+all that was under the earth. The medicine-man, by way of testimony,
+produced the three claws, strung on a cord to be worn about his neck.
+
+In Shoshone mythology there is mention of miracle (dii'mabana)- workers
+(page 256). The term "du'mabana,'' though undoubtedly correctly trans-
+lated in the context of the myth referred to, has a somewhat uncertain
+significance. It is used for the tightrope walking of an itinerant vaudeville
+performer seen in Salmon City; but also for a beaded charm with which
+Coyote overcomes the rolling rock, and the game of cat's-cradle is called
+du'mabana-working. The Shoshone nowadays are skeptical as to the
+
+
+' This statement is in agreement witii observations made by Dr. Dixon in a recent paper
+on "Some Aspects of the American Shaman" (Journal of American Folk- Lore, 1908, Volume
+XXI, page 12).
+
+
+226 Anthropological Papers American Museum of Natural History. [Vol. II,
+
+existence of Indian miracle-workers. Until recently some Bannocks claimed
+wonder-working powers; but the defeat of their people in the last uprising
+has destroyed confidence in their ability. In what way the power to per-
+form miracles was supposed to be derived, and whether it was understood
+to differ from that of a bu'ha-gant in the wider sense of the term, could not
+be determined.
+
+The SouL The principle of life which departs at death is called mu'gua.
+During life its seat is in the head. According to one (unconfirmed) state-
+ment, the mu'gua of persons dying by violence travels in a different direc-
+tion from that traveled by the souls of people who have died a natural death.
+The latter go to the land of Wolf and Coyote. The common belief seems
+to be that the mu'gua of a dead Indian rises immediately until it reaches
+Wolfs house. There it is washed and revived by Wolf. The spirits of
+Indians are darker than those of white men and very small. While rising,
+they look like clouds. At first they are visible only to medicine-men; but,
+after being washed, any one can see them. Half-way up they are met by
+a spirit descending on horseback, who then escorts them to their proper
+place. The mu'gua then becomes a dzo'ap, ghost. White men probably go
+to a different country. Individual experiences, of course, may lead to heter-
+odox views. When Enga-gwacu Jim died, his mu'gua came out of his
+thigh, made one step forward, then halted and looked back at the body,
+which was still breathing. After three steps had been taken, the mu'gua
+looked back again, and found the body cold and stiff. The mu'gua was
+about ten inches in height. Suddenly something descended, passing clean
+through it. Then the soul did not ascend, but went underground until it
+got to a place, where one of A'po's (the Father's) helpers was making the
+dead men over again. Enga-gwacu thought of A'po, but could not see
+him. At length he heard him saying, "You don't look very sick." There
+was a kind of thin wire there, which A'po hit three times. Thus, Jim came
+to see the Father's hand, which is small and as clean as a baby's. A'po
+had a buckskin bag, out of the contents of which he could fashion whatever
+he pleased. At last, A'po became visible for a short time; he looked like
+a handsome Indian. Suddenly everything opened up, so that Jim could
+see the earth plainly, with his own body lying dead on the ground. How
+he ever got back, he does not know; suddenly he had returned to the earth
+and was alive. On another occasion, he went up to the clouds. There he
+found another world, filled with sage-brush. The Indians there were
+all skeletons; he was able to recognize some of his former friends among
+them. Jim has questioned Shoshone medicine-men concerning a hereafter;
+but mistrusts both their statements and those of the missionaries, because they
+fail to tally with his personal experiences.
+
+
+1909.] Loine, The Northern Shoshone. 227
+
+Some Shoshone are said to believe that one of Tendo/s sons changed
+into a silver-fox after his death; consequently they abstain from hunting
+these foxes, though their furs are very valuable.
+
+Ghosts, Ghosts are greatly dreaded. School-children can be thrown
+into hysterics by the cry of "Dzo'ap!" and adults avoid passing their old
+cemetery on the Lemhi River at night. Meetings with ghosts are relatively
+frequent. They are sometimes heard making a noise outside of the lodge.
+Jack Grouse once heard singing, and managed to catch sight of some female
+ghosts. His nephew once went out hunting. He suddenly saw a skeleton
+figure. Speechless with fright, he ran home. The next spring, his father
+died. All the Indians believed that it was his father's wraith that he had
+seen. Another Shoshone once met a ghost, which tried to push him over
+from behind. The man resisted, tried to grasp the skeleton, and got his
+fingers between the bare ribs. After this adventure, he became very strong,
+so that he could lift a horse — *' Perhaps some of the ghost got into him."
+Enga-gwacu, who has had a number of peculiar experiences of this sort,
+was once traveling at night, when he saw an Indian approaching him. The
+outlines of the body and head were plain, but the face was invisible; the
+stranger seemed to wear a striped vest. As he got nearer, Jim saw that he
+had mistaken the ribs of a skeleton for stripes. He ran away, but was headed
+off. At last he said to the apparition, ** You are only a ghost, let me alone."
+(O'no-n dzo'ap, no-vii'ak.) The figure turned about, and disappeared into
+the ground. On a similar occasion, Jim used the same formula with like
+success against an uncanny snake.
+
+Medicine. For ordinary cases of sickness, there are a number of medici-
+nal roots and herbs. A decoction of sagebrush leaves is prepared against
+colds and minor distempers. This forms, according to some white settlers,
+a very satisfactory remedy. A sweet-smelling plant, called ba'gwina, is
+similarly employed. In almost every dwelling visited, I found a spray of a
+species of spruce, called dza'-wongobi (good-pine). Other species were
+declared to possess no medicinal virtue. The needles were ignited and the
+smoke was inhaled ; or, they were boiled, and the tea was drunk. Spruce-
+bark was treated in the same way for colds and headaches. Large braids of
+sweet-grass were commonly suspended from the wall; they are said to be
+similarly boiled and drunk for a colic. Some Shoshone keep old buffalo
+horns, which are employed as bu'i-na'dcu, eye-medicine. Small particles
+are broken off, boiled with spruce-needles, and the cooled mixture is rubbed
+over the sore eye. Bourke states that the Shoshone knew how to splint a
+fracture with willow twigs.^ At Fort Hall, poultices madwfrom pulverized
+
+1 Bourke, 319. /
+
+
+228 Antkropological Papers American Museum of Natural History, [Vol. II,
+
+roots or leaves of diflPerent weeds or herbs are sometimes applied to wounds
+or swellings.^ According to Fremont, the Convollaria stellata furnished
+'*the best remedial plant" in the treatment of wounds.^
+
+When the ordinary remedies fail to act, the sick person decides on calling
+a medicine-man. This resolution usually follows a dream to that effect.
+The theory of disease, at all events in most cases, is that a dzo'ap, ghost,
+has entered the patient's body. The Ute had a superstition that whistling
+at night results in the entrance of a pygmy spirit, called un"'pits, into the
+whistler's body, causing illness.' The treatment of the medicine-man is
+therefore designed to extract the intruder and render him innocuous. At the
+time of my stay there were three practitioners, two men and one woman.
+The latter was not a specialist for female ailments, but was said by white
+informants to practise hypnotism. Some years ago, I was told, the black-
+smith of the Reservation had derided her power, and on a challenge, she had
+almost succeeded in putting him to sleep. The testimony on this subject
+proved contradictory; some Shoshone confirmed, others strongly denied,
+the statement that their physicians could perform movements inducing sleep.
+Of the other two doctors, one was said to cure rattlesnake bites; the other,
+Tu'mo-dzo, a hunchback, was a specialist for sexual troubles. It was said
+that the latter carried his medicine about in his hump. He had a reputation
+for obscenity, and, in conversation, gave a ribald turn to innocent questions.
+Among other things, he cured barrenness. His nephew was married for
+ten years without having any children. At last he summoned his uncle to
+examine his wife, who has since borne two children. This result was, of
+course, attributed to the medicine-man's skill. Tu'modzo's treatment of
+gonorrhea (du'mbehaip), according to various Indians, consisted of insert-
+ing the diseased member in his mouth and sucking it; he would then expecto-
+rate. Women were similarly treated by him. Dr. Murphy, by way of
+corroboration, told me that when he was first appointed as agency physician
+the Indians visited him, and inquired as to his method of dealing with vene-
+real disease. In reply to his explanations, they said they had no faith in
+his treatment, as he seemed to be afraid to employ suction like their own
+practitioner. Tu'modzo was about seventy-five years of age, and had be-
+come nearly blind. He claimed to have been exceptionally strong in his
+youth, and to have overcome a bear in wrestling with him. Within recent
+years, confidence in his power seems to have been waning.
+
+As to the method usually employed by medicine-men, very little definite
+information could be got. Of course, incantations and 'sweat-lodges were
+
+1 Report 1890, 236.
+
+2 Fremont, 273.
+8 Powell, (a) 29.
+
+
+1909.] Lovne, The Northern Shoshone. 229
+
+in common use. To extract the dzo'ap, the doctor forms a tube of his
+hands, applies it to the patient's mouth, and begins to suck until the sick
+individual retches, and finally belches forth the evil spirit. This is seized
+by the physician, shown to the spectators, sometimes in the shape of blood
+or of some small object, rubbed between his palms, and thus killed. By
+the Ute doctor, the evil spirit is driven away by stretching the patient out
+on the ground and scarifying him with an eagle claw from head to heel,
+while a group of men sing an incantation in chorus.^ The compensa-
+tion varied; Jack Grouse paid a doctor a dollar for curing his child; in
+other instances, a horse was presented to the practitioner. As indicated
+above, there is no distinction of rank among doctors, but merely a diffei>
+entiation of function. Medicine-men, besides aiding the sick, could some-
+times charm arrows for hunting, and, as shown by Lewis and Clark, could
+impart supernatural virtues to shields. None of them are said ever to
+have engaged in causing the sickness or death of a fellow tribesman. Some-
+times the sons or nephews of physicians followed the same profession.
+
+There are cases in which the medicine-man is powerless. Ko'bitsak's
+little girl died of cholera infantum. His explanation, according to Dr.
+Murphy, was that the child had been caught in a whirlwind, which whirled
+out her brains. After my departure from Lemhi, Tu'-dzomo-n-d5'mi, the
+younger of the two medicine-men, was taken sick. He declined Dr. Mur-
+phy's services, saying that he knew he must die in three days, but if he
+took any white man's medicine he would die before that. He looked rather
+strong, but actually died on the third day. What the native theory of this
+case may have been, I do not know. In general, two reasons were given
+for failure to restore the sick. A dzo'ap may have entered the patient's
+body, snatched away his mind, and flown away with it; under these cir-
+cumstances, madness usually ensues: or, the part of the ghost may be
+played by Coyote himself, who descends from above, carries off a man's
+mu'gua, and either makes him insane, or kills him outright. Jack Grouse
+knows of a farmer living in the vicinity, who used to abuse the Indians; he
+thinks that this malefactor was dispatched by Coyote about a year ago.
+In this r6le. Coyote disguises himself as an Indian, and can be recognized
+only by his eyes.
+
+Charms. Amulets of various kinds are in use. Spruce-needles are pow-
+dered, and crammed into a buckskin bag somewhat resembling an awl-
+case. The bag is hung around a baby's neck as a safeguard against illness.
+Adults use white weaselskins, or the foot of a white weasel, buffalo horns
+and manes for similar purposes. A very old woman keeps two small.
+
+
+» Powell, (a) 29.
+
+
+230 Anthropological Papers American Museum of Natural History. [Vol. II,
+
+irregular pieces of obsidian in a bag as a preventive of eye-disease; occa-
+sionally she scratches her arm with the stones. Some men have a charm
+enclosed in a little piece of cloth and tied to the middle of either the front or
+back of a beaded necklace. One man carried some spear-grass about in
+this way. A sacred stone, apparently a tribal medicine, by which good or
+evil could be wrought, is mentioned by Culin.^ An evil charm was prepared
+by placing rattlesnake heads on hot coals in a hole in the ground and covering
+them with the fresh liver and gall of wild animals. During the process of
+steaming, the liver absorbs the poison from the heads. It was carefully
+preserved in a little buckskin bag worn on the owner's body. By looking
+intently at the victim and murmuring evil incantations, it was possible to
+eflPect his death.'
+
+Love-charms are extremely popular. Gwi'damba^bi wears a weasel
+foot on his hat as wai'*-pe-na'dcu (woman-medicine); he expects that it
+will help him in "catching a squaw." Woman-medicine, in the shape of
+shavings of wood or bark, is rubbed on the neck, tied up in a bag or piece
+of cloth, and attached to the belt. Ko'bitsak was seen to take spruce-
+needles into his mouth, chew them thoroughly, spit the moistened substance
+on his hands, and rub it on his head for wai'*-pe-na'dcu. He also knows
+a small inedible root, which is dug up for the same object. The root is
+glued to a little stone, the lover creeps up behind the woman desired, and
+throws the charm at her. Perhaps three or four nights later, she comes to
+see him. She looks into his eyes, and laughs. Jack has repeatedly used
+this charm with success. Some time ago, a Ross Fork Shoshone visited
+him and paid Ko-bitsak a dollar-and-a-half for these roots. The following
+spring. Jack saw him married to a woman. Though in lack of positive
+information on the point, he regards the wife as the woman originally sought,
+and ascribes the consummation of the marriage to his medicine. Lame-
+Jack, while confirming Jack's statements, speaks of another root also called
+wai'i-pe-na'dcu, but causing disastrous consequences. If dropped in a
+woman's path, it will kill her in about ten days.
+
+
+CONCEPTIONS OF THE UNIVERSE.
+
+The ideas of the Shoshone concerning celestial phenomena are rather
+simple and meagre. According to Powell, the domed firmament was be-
+lieved to be of ice, against which was coiled the back of a huge serpent,
+identified with the rainbow. In winter, the monster's friction with the ice
+
+
+» Culin, (a) 17.
+
+2 Report 1890, 386.
+
+
+1909.] Lowie, The Northern Shoshone. 231
+
+caused snow to fall on the earth; while, in the summer, the snow melted
+and turned into rain.^ Thunder is explained either as the howling of Coyote,
+or, more commonly, as the noise made by a small mouse (pu'nai) rushing
+through the clouds. Its children play about recklessly, and thus produce
+lightning. Powell makes lightning the arrow of Ta-vwots, the Hare.^
+While there is mention of a gigantic bird, Nii'neyunc, it does not seem to be
+connected with thunder. The Ute regard falling stars as the excrements
+of dirty little star-gods.^ A Lemhi told me of a spot near Red Rock, Mon-
+tana, where a shooting-star had gone down into the ground, making a large
+hole. Its splinters, looking like glass, used to lie around the hole, which
+is now closing up. The portion that disappeared did not descend very
+far, but might possibly be dug up. The Pleiades are the members of
+Coyote's family, who have deserted him on account of his insatiable lust.
+
+The sun was at one time very close to the earth, scorching the Indians,
+who dispatched the Hare to kiU it. From the corpse a new sun was fash-
+ioned and raised to its present height. A very much more elaborate account
+is given by Powell, who apparently derived it both from Ute and Shoshone
+sources. The Sun used to roam about irregularly, now scorching people
+when too close, then again hiding in a cave until the earth was chilled.
+One day he singed the Hare's back. The Hare pursued him, and, by means
+of a magical weapon, shattered him into a thousand fragments, which
+produced a world-fire. All the Hare's body was consumed except the head,
+which bowled away. At last his eyes burst, and a flood of tears issuing forth
+quenched the conflagration. The conquered Sun was siunmoned before a
+"council of gods," which regulated the change of seasons and the alterna-
+tion of day and night.*
+
+A Lemhi version derived the moon from the gall of the sun; it was
+subsequently raised to the sky like the resuscitated sun. The man in the
+moon is recognized as a giant cannibal (Dzo'avits), holding a blanket with
+one hand. The Ute believe that Whippoorwill transformed a frog into the
+new moon by means of incantations.** As to eclipses, the only (ill-translated)
+statement apparently relating to them was that of an old doctor, who had
+seen the sun die twice in his life, while the Indians were shooting at it.
+
+
+1 Powell, (a) 27.
+
+2 Powell, (b) 7.
+
+3 Powell, (a) 27.
+
+* Powell, (a) 24, 52-6.
+» Powell, (a), 24-5.
+
+
+232 Antkropological Papers American Museum of Natural Histary. [Vol. II,
+
+MISCELLANEOUS.
+
+There is a belief that, if Coyote myths are told, the weather will become
+rainy or cold; there is also a prejudice against telling stories in the day-
+time.^
+
+There is a proverbial expression connecting warts ^^iih the number of a
+man's wives. I had two small warts on my fingers, and every Shoshone
+who noticed them made the following comment: "You have two wives and
+no younger sister; this, perchance, is the older sister (pointing to one wart),
+and that the younger.'* (Wa'hat on-gwu'aho, na'na na'mino; noha'gani
+i'cE umba'dzi, i'cE u-na'mi.)
+
+The Shoshone never ate dogs.^ They abstain from the meat of white
+mountain-sheep, skunks, or badgers. They do not eat magpies, crows and
+eagles, because they regard them as friends to whom they are indebted for
+the feathers of their head-dress.
+
+When the Shoshone desire rain, they kill a frog with a stone and lay it
+on its back. When they wish to prevent the rain from falling, they some-
+times address the clouds, asking them to depart.
+
+The wildcat used to lie down on a hot rock, that is why its back looks
+as though it had been burnt.
+
+When the smallpox was raging in Lemhi, a Cree advised Jack Grouse
+to hang up a skunkskin and also to drink a mixture of skunk-filth and water.
+
+The Indians are frightened if a man whistles through a grass blade,
+and call him crazy.
+
+Mosquitoes once were very large and ate up Indians until Coyote changed
+them to their present size.
+
+Howls of the coyote at the time of the full-moon presage good luck;
+when a child rejoices at the first thunder in the spring, it is an omen that it
+will live to an old age and enjoy distinction.'
+
+A Snake chief, treated to horse flesh, by Wyeth's party, expressed great
+horror at the idea of eating a pony, and vomited the meat. Whether this
+was a tribal, or only an individual taboo, is not clear.*
+
+
+1 Cf. Dixon, (a) 266.
+a De Smet. II, 680.
+» Report 1890, 632.
+* Townsend, 252-3.
+
+
+1909.] Lowie, The Northern Shoshone. 233
+
+
+II. MYTHOLOGY.
+
+Shoshone mythology is, on the whole, characterized by the absence of a
+systematic cosmogony and of a migration legend. The Washakie Snakes
+are said to have had a tradition that they came originally from the south.*
+The Lemhi, like Powell's Shoshone,^ declare that they originated in the
+locality now occupied by them. The r6le of the creator is sometimes as-
+signed to a character referred to as A'po, the Father, or Nft'mono A'po,
+the Indians' Father.' He is contrasted with Wi'hindaibo, Iron-Man, the
+creator of the Whites, whom he conquers in a trial of strength. Some
+informants identify him with either Wolf or Coyote, the principal figures of
+Shoshone mythology. Clark states that, among the Bannock, the Gray
+Wolf was considered the creator of the Bannock, and Coyote creator of the
+Shoshone; while the Shoshone looked upon Wolf as their own father.
+The heroes' lair and their tracks in the rock, leading from a spring to the
+den, are still pointed out.* Among the Lemhi, the creation of sun, moon,
+and animals for the benefit of man is occasionally (in conversation) credited
+to Wolf. Wolf is universally regarded as the older, benevolent brother.
+Nevertheless, the younger Coyote, who thwarts his designs, introducing
+strife, labor, and death into the world, is ob\4ously the more important
+character; though the word for Coyote is commonly used for a liar or
+cheater, and a dyed-in-the-wool deceiver is called "very much of a Coyote."
+With the Ute * the elder of the Cin-au'-ao is the marplot, and the younger
+figures as the benefactor of mankind, who is ultimately obliged to flee to hb
+father, the Hare. Among the Lemhi, the Hare does not appear as the
+heroes' father, and plays only a subordinate part. Coyote is the culture-
+hero par excellence; he figures as the leader in the theft of fire, and such
+inventions as the flaking of obsidian are attributed to him. At the sight
+of an obsidian arrow-point, which I showed to a number of Indians, each
+one immediately excltymed, "I'dzapo an-du'p*" (Coyote's obsidian). There
+is a long m}^h of the procreation of all the Indians by Coyote; the Shoshone
+become his special proteges because they alone were washed by him as
+newborn babes. The majority of the Lemhi are still said never to kill a
+
+
+1 Ciilin. (a) 21.
+
+a Powell, (c) 86.
+
+« This character is mentioned by the Wind River people, as Mr. St. Clair has informed me.
+
+* Clark, 60, 337.
+
+* Powell, (a) 44-5. Powell does not state that this is a Ute myth. Cin-au'-fto, however,
+is the Ute word for wolf; vid. Kroeber, (d) 81, 96. The Shoshone terms for wolf and coyote
+are Ic and I'zdapO. Clark's Shinnob (explicitly Ute) is obviously the same as Powell's Cin-
+au'-&o; Clark. 388.
+
+
+234 Anthropological Papers American Museum of Natural History. [Vol. II,
+
+coyote, though one man was pointed out as having done so. Clark was
+skeptical as to the strict observance of the taboo at his time, but at Fort
+Hall it seems to persist.^ There is a strong belief in Coyote's immortality;
+no sooner is he killed than he rises again. Whether this belief is generally
+extended to embrace all members of the species, is doubtful; but one Sho-
+shone, in conversation with me, scoffed at the idea that a white man could
+ever permanently deprive a coyote of life. In the less important tales,
+partly shared with neighboring tribes. Coyote presents all the features of
+the typical trickster. As a greedy, unscrupulous erotomaniac, he usually
+attains his ends; but occasionally suffers defeat or humiliation at the hands
+of a superior antagonist.
+
+Besides the important elements of the Coyote cycle, there seems to be
+another group of autochthonous stories; those dealing with the Dzo'avits.
+These constitqte a race of gigantic ogres dwelling in stone houses. When a
+Dzo'avits slept, a Shoshone would sometimes creep up and shoot an arrow
+at his arms; but the arrow, instead of disturbing him, would break in two.
+Individual members of this people are overcome by the Weasel brothers,
+or, less frequently, by other Indians. The destruction of the whole tribe
+is ascribed to the conflagration caused by a number of birds, or to the magic
+of Weasel-woman's uncle. With Powell, Dzo'avits is a witch ultimately
+transformed into the echo.^ Pa'-n-dzo'avits is a giant with enormous
+hands and feet, who lives in the water. He sleeps on rocks in the water,
+holding his hands before his face. When Indians approach, he imme-
+diately dives below the surface, as he greatly fears them. In a myth, however,
+he is represented as rising from the water to climb up a tree after the twin
+heroes, until the benevolent Pabi'hiano (Water-youths) throw him back
+again.
+
+' Other supernatural water-beings are the water-buffalo (Pa'-gutc), which
+swallows one of the twins, but is shot by the other; and the Pa'ona, or
+water-baby, which Indians never catch sight of, but hear crying in the
+night. Besides the Dzo'avits cycle, there are stories of apparently anthropo-
+morphic cannibals (no'mori'ka = people-eaters), and, according to some
+Indians, their existence is still believed in. Nu'-numbi is the name of a
+little boy, about two feet in height, who runs about the mountains, shooting
+game with his bow and arrows; though small, he is stout and very strong.
+Among the Wind River people of Wyoming, this character seems to be of
+considerable importance. Culin, basing his statements on information
+given by the Rev. John Roberts, gives the following details. Nii'numbi
+(Nin-nim-be) is a very short, old man, living in the mountains. He can
+
+
+» Culin, (a) 91.
+a Powell, (a) 45.
+
+
+1909.] Lovrie, The Northern Shoshone. 235
+
+appear and disappear at will. To meet him presages death. A trifling
+accident when starting on a journey will cause a Shoshone to turn back in
+dread of Nii'numbi. His shooting is the cause of a horse's or cow's illness,
+and old stone darts picked up by the Indians are exhibited as his arrow-
+points. Every sudden death is attributed to his agency, and the average
+Shoshone is afraid of uttering his own name lest Nu'numbi should overhear
+it and sh6ot him with his invisible arrows. Nu'numbi was regarded by
+Mr. Roberts' informant as the descendant of the no'morika, who are
+described as dwarfish mountaineers, who often fell a prey to eagles.^ The
+Lemhi people did not seem to connect Nu'numbi with the no'morika,
+nor were these cannibals conceived as dwarfs by them. The Wind River
+Shoshone believe that the Widjege, a species of titmouse, discovered the
+world. Its tongue is said to be divided into six parts; one tongue is dropped
+every month, and at the end of the sixth the tongues are renewed. It is
+considered "bad medicine" to kill this bird.^
+
+The material available for comparison permits some conclusions as to
+the direction from which Shoshone mythology has been most strongly
+influenced. Some of the tales found among the Shoshone, such as that of
+the bungling host, of the rolling rock, the magic flight.^ or the eye-juggler,'
+are shared by too many other tribes to allow a definite inference. On the
+other hand, the colorless account of the deluge, which lacks the familiar
+diving incident, recalls some Califomian versions. In Mr. St. Clair's ver-
+sion, the chickadee is dispatched by A'po to bring land, but nothing b
+explicitly stated about diving for it. The occurrence of the tale of the theft
+of fire also allies Shoshone mythology with that of tribes west of the Rocky
+Mountains, though the Lemhi version is not exactly paralleled by any
+other form kngwn to the writer. The Bear and Deer myth is very closely
+related to that of northern California, while some striking details are
+shared with the Klamath variant. The importance of Coyote indicates a
+general relationship with Plateau and Califomian mythologies; while the
+antagonism of Wolf to Coyote, and the institution of labor, suffering and
+death by the latter, establish a closer connection with the Maidu. The
+liberation of salmon by the culture-hero, the counseling excrements, the
+contests of a party of travelers with the inhabitants of successively visited
+villages, the appearance of Coyote as a baby on a raft, are all additional
+features allying Shoshone folklore with that of the Columbia River and the
+Califomian area. The very characteristic detail of a gigantic bird carrying
+off twin heroes, — who slay him, are counseled by his mother, and later
+
+
+1 CuJin, (a) 17, 20 et seg.
+
+a Ibid., 20.
+
+3 Not secured at Lemhi, but recorded by Mr. St. Clair at Wind River.
+
+
+236 Anlkropological Papers American Museum of Xaiwal History. [Vol. II,
+
+encounter a mouthless people, for whom they cut mouths, — are, so far as I
+know, common only to the Shoshone and Yokuts; though the last of these
+incidents b found also among the Zuni and Tillamook.
+
+The most important Prairie tale in the collection is that of Lodge-Boy
+and Thrown-Away. From a recent discussion,^ it appears that the Sho-
+shone form of the story tallies in important particulars with that of the
+Blackfoot, Gros Ventre, Arapaho and Hidatsa. N^lecting minor stories,
+the tales of buffalo stealing an Indian girl and of the poor boy shooting the
+fox in a competitive hunt are almost the only other distinctively Prairie
+stories in the collection. A version of the star-husband myth, somewhat
+similar to the Blackfoot variant, was obtained by Mr. St. Qair. There is
+a version of Coyote and his Daughter among the Gros Ventre and Arapaho;
+but also among the Ute, Maidu, and Navaho.^ Coyote and Porcupine
+occurs in Wichita and Osage mythologj'; but is shared by the Jicarilla
+Apache, Zuni, Chilcotin, Ute and Maidu. Shoshone mythology lacks
+important buffalo tales, according to an old medicine-man, because "the
+buffalo was never an Indian." Both star-myths and stories of boy heroes
+are relatively insignificant. It is thus fairly clear that the mythology of the
+Shoshone indicates a closer connection with the people of California and the
+Great Basin, than with their eastern neighbors of the Plains.
+
+
+1. The Creation of the Shoshone.
+
+
+(a)
+
+Coyote was living there. He went do\\Ti to the big sea. No Indians
+were living at that time. Coyote thought he might find some. He lay
+down, covered himself with a blanket of jack-rabbit skins, and commenced
+to sing and move his legs. While singing, he felt something touching his
+
+Coyote feelf '^^^* ^^ looked up and saw nothing. He covered him-
+clri dancing on self up again and continued singing. Again he felt some-
+
+* *** thing dancing on the lower part of his body. He looked
+
+around and saw nothing. Coyote made a peep-hole in his blanket; then he
+saw a pretty girl dancing on his legs. He did not know what to do; when
+he threw off his blanket, she disappeared.
+
+The next time when he felt the touch of the girl, he jumped up and
+pursued her. Near the shore of the sea, he caught up to her. He asked
+
+
+^ Lowie, 141.
+
+2 This tale was also told to the writer by a half-breed Cree at Edmonton, Alberta. Natur-
+ally the Cree trickster, Wisfiketcak, takes the part of Coyote.
+
+
+1909.] Lowie, The Northern Shoshone. 237
+
+her what she was doing. She said her mother had sent her. "Where
+do you live?" he asked. She pointed out an island far ^ ^ ^
+away in the sea, and offered to take him to her home, carried on her
+Coyote agreed to go with her. She took him on her back, *»»«^» dropped in
+and began to walk across the sea. In media via, Canis
+amore inflammatus muliere frui conatus est. She dropped him into the sea
+and walked on, thinking he was drowned; but Coyote crawled up, like a
+spider, and swam towards the island.^
+
+Coyote got to the island first, and saw two wikiups with the smoke rising,
+and between them sat an old woman. Coyote spoke to her. She asked
+him to come inside and sit down. He went in. After Beachei island,
+a while the girl came in and talked to the old woman, entertained by
+who was her mother. She said, "I dropped Coyote in ^®°^'**
+the water." Her mother said, "Keep still; he is in there now." When the
+girl peeped in, she saw Coyote sitting there. She cooked duck eggs for him
+and set them just in front of him, touching his feet. As soon as she touched
+his feet, he immediately drew them back. He ate only a few eggs. He
+was eager for the night to come.
+
+Coyote looked around and noticed quivers hanging all over the lodge.
+This frightened him; he went outside, eased himself, and asked his anus
+for advice. He asked why those quivers were hanging j^^^ wami
+there. He had also noticed that the women, while pre- asainit toothed
+tending to swallow the food, let it slide down to the ^*«"^*'
+abdominal region, where he heard the eggs crack. His anus said, "You
+fool; whenever the girl and her mother get hold of a man, they kill and
+eat him. Earum vagina dentibus insita. Quod edimt dentibus vaginalibus
+mordent.^ Coire simula, sed aliquid aliud intrude. Take your elk horn
+scraper and break their teeth."
+
+In the evening, the old woman told the girl to lie down near Coyote.
+Before retiring, all three went outside. Minxerunt.
+When they came in, the old woman fastened the door ^ ^JSIkeZ'*'*"*
+with a rope so Coyote should not escape. Coyote was
+afraid. When he lay down, he wished the rats would come and gnaw up
+the rope. After a while, he heard the rats come and gnaw up the rope.
+Then he knew that he could run out if necessary, and raised the girl's
+blanket. Penem insertum esse simulavit, vere nihil inseruit. Rima clausa
+est, non eum vulneravit. Fugiens ad portam cucurrit. Vetula secuta;
+cuius quoque dentes non Canem, sed solam togam momorderunt. Canis
+effugiens dentium crepitum audiebat.
+
+
+1 Cf. the beginning of this myth with Kroeber, (f ) 97.
+
+2 The distribution of this motive is discussed by Lowie, 110.
+
+
+238 Anthropological Papers American Museum of Natural History, [Vol. II,
+
+Coyote escaped. He jumped into the sea and swam across, splashing
+in the water. He had a hard time of it; but got out in the place where he
+Seturni with ^^^ ^^* '^^ down to rest. He had left his tools there,
+tools, lerred by He went to sleep again. When he woke up he put on
+women. paint, went to the shore, and killed a duck. Coyote re-
+
+turned to where the old woman was sitting, and threw the duck with some
+eggs over to her. The girl was not there; because she was on the water
+every day, looking for people to take home and kill. In the evening, she
+returned with some ducks. Coyote had entered the wikiup; but the old
+woman was still sitting outside. The girl told her mother she had not
+found Coyote anywhere. "Keep still," the old woman said, "he is in
+there." The girl looked in and saw Coyote, who looked handsome with
+his face painted. She fed him as before, setting duck eggs before him.
+When she touched his feet. Coyote quickly pulled them in. He only ate
+a few eggs, pushing the rest aside. The women ate in their usual way.
+Coyote could hear the egg-shells cracking in the vulva.
+
+In the evening, the old woman told her daughter to lie down beside
+Coyote. The girl lay down. Coyote went outside to get
+women with his tools, which he had not taken into the wikiup. He lay
+scraper; is sent down and embraced the girl. Tunc inrimam claudentem
+comu (elk horn scraper) inseruit. Omnes-dentes comu
+perrupit sustulitque. The girl cried out, "Something is wrong with my
+teeth." The old woman misunderstood what she said, and said to her,
+"Keep it there." Coyote now went over to the mother, and in the same
+way broke off all her teeth. Ad puellam rediit et cum ea assidue copulavit.
+Tunc demum cum matre coiit. Postridie mulieres se gravidas esse sen-
+serunt. They told Coyote to go outside and fetch water; but to get it from
+far away where they were in the habit of getting it. Coyote was afraid to
+go there, and fetched water from near-by instead. When he returned the
+old woman told him that he had not brought good water, and- sent him out
+again. He went for it once more.
+
+As soon as Coyote was gone, the babies fell in great numbers out of the
+
+women's wombs. The women took the water brought in by Coyote and
+
+washed the babies. They made all the tribes of Indians
+Birth of Indl- "^
+
+ans; Shoshone in this way except the Shoshone, whom they left lying on
+
+separated from Q^e side. When Coyote came in, they said, "We have
+left these for you to wash." Coyote washed the Sho-
+shone babies and said to them; "You are my children. I am going to
+stay with you." If he had washed all the babies, there would have been
+nothing but Shoshone in the world; but the women washed the others.
+That is why the other tribes were always fighting the Shoshone. Coyote
+told his children to be brave and not be afraid of the other Indians.
+
+
+1909.] Lowie, The Northern Shoshone. 239
+
+(b)
+
+Coyote once came to an old woman and her daughter. He saw bows
+and arrows hanging in their lodge. The old woman warned him against
+the girl. She said her daughter was in the habit of killing and eating people
+who came there. Coyote considered what to do. In
+the evening the girl came in with ducks and their eggs, gj^^^** ^' *^^
+Coyote went off. He found a kind of blue stone. Ex la-
+pide membrum virile finxit. He also plucked some thorns from a rose
+bush. Cum domum veniret vaginalium dentium crepitum audivit. He
+waited for the night to come. In the night Coyote lay down by the girl.
+Inserto membro quod fictum erat omnes dentes pemipit. Tum spinis
+vulvam vulneravit. Coyote married the girl and their children were the
+ancestors of the Shoshone.
+
+2. Wolf and Coyote.
+
+(a)
+
+In the beginning, Wolf wanted to make everything easy and pleasant
+for the Indians, Coyote tried to make them work hard as they must do
+to-day. Wolf had all the game shut up so that people
+could easily take what they wanted; Coyote released the
+game so that people had to go hunting. Wolf said, **The Indians shall not
+die." "Why should they not die?" asked Coyote, "they must die." An
+Indian was lying sick in his tent. The medicine-man was treating him, but
+he died. Coyote taught the Indians to cry and to cut their hair when any
+one died, and told them that the dead go to another world.
+
+Wolf said to Coyote, "Let there be no menstruation." Coyote thought
+it was proper that women should menstruate; so he took
+some blood and threw it at his daughter. She began g^nwiSon**' "****"
+to menstruate and went to a menstrual lodge. Lupus,
+"Homines oportet ex digito nasci sine coitu," inquit. Coyote disagreed.
+"Bonus est coitus, ex utero nasci oportet. Melli est coitus." To-day
+things are as Coyote wished them.^
+
+ib)
+Wolf and his younger brother Coyote were living together. Every day
+
+
+1 Powell, (a), 44.
+
+
+240 Antkropological Papers American Museum of Natural History. [Vol. II,
+
+Wolf went to his aunt Bear for dinner. She prepared every kind of food
+Coyote aitauits ^^^ ^^"^' when he came home, he used to tell Coyote
+Bear, is wounded of the good things he had eaten. Coyote said he would
+^^ ^^' also visit his aunt in order to get something good to eat;
+
+but Wolf advised him not to go, because he was afraid Coyote would
+play some trick on their aunt. Coyote promised to behave well, but Wolf
+still kept on warning him. **When she sits down to cook,'' he said, "she
+always spreads her legs wide apart. Conspectis pudendis muliebribus tu
+certe coitum concupisces." Nevertheless Coyote went to the Bear's wikiup.
+When Bear began to cook, she spread out her legs. Conspectis pudendis
+Canis libidine accensus se continere non potuit. Prostrata muliere cum ea
+concumbere conatus est. Bear closed her arms about him and tore his
+loins. Coyote howled with pain. Bear got up and ran away.
+
+W^olf was waiting for Coyote to come home. When Coyote did not
+return, his brother went to look for him at Bear's wikiup. When he found
+out what had happened, he said, **Did n't I tell you to stay home?" He
+
+treated Coyote's wound, and cured him. Then he got
+venM kUls^ar ^^^ ^ passion, because Bear had hurt his brother. He
+
+went away and found his aunt gathering wild carrots.
+He killed her, went back and ordered Coyote to bring her home, but to
+leave all the inside of the Bear's body intact. Coyote skinned and butch-
+ered the Bear; but disobeyed his brother, cutting out the he'gwi (an uniden-
+tified part of the body). When he got home, Wolf noticed that something
+was missing and said, **You have cut out the most important part. Now
+Indians will often attack us. They will surround us while we sleep.
+You must look out for the hostile Indians."
+
+After some time had elapsed, Coyote beheld many Indians coming to
+
+surround their home. Coyote went out directly in front
+tacked by In- of them. They shot at him again and again, but could
+dians; Wolf only graze his skin and shoot off his hair. They failed to
+
+hurt him, though he was fighting all alone. In the mean-
+time, Wolf stayed indoors, dressing up and painting himself. When Coyote
+was exhausted, he went inside, and Wolf came out to fight. Coyote became
+jealous of his brother, because he was so handsomely dressed. He wished
+the enemy would kill Wolf. Immediately Wolf was shot and killed by the
+Indians. They scalped him and took away his dress. Coyote fled and the
+Indians went off.
+
+Coyote made many arrows; he tracked the enemy. When he came to
+
+his brother's body and saw the scalped head, he cried,
+the enemy^*^*" Then he buried the body, and went in pursuit of the
+
+Indians. He came to the site of a camp-fire, where they*
+had celebrated the scalp-dance. There he looked at the scalp-pole, and
+
+
+1909.] Loune, The Northern Shoshone. 241
+
+left a quiver on a tree. He wandered on until he reached another camp-
+ing-ground with a scalp-pole. Here he also left a quiver with arrows.
+From time to time, he wept as he journeyed along. He came to another
+camp-site, which had been abandoned only a short time ago, and again left
+a quiver there. Then he asked his anus, "When did they leave this
+place?" The anus replied, "Two days ago." At last Coyote got to a
+camp which had been broken only one day ago.
+
+As he walked on, he saw an old Indian woman hobbling along.^ Coyote
+quickly walked around so as to meet her from a different direction. In
+order to make himself irrecognizable, he put paint on both his cheeks.
+When the old woman saw him approaching her, she
+stopped to sit down. Coyote sat down beside her. The BouncU old
+
+old woman asked him where he had come from. He re- and doni im skin,
+plied, "Don't you see my paint? I came from a distant
+land in the East. I don't know at all what is going on here. Tell me
+what the people are doing." She replied, "The Indians have kiUed Coy-
+ote's older brother. They have taken away his scalp, and perform the
+scalp-dance every night." Coyote said, "Go on, tell me some more news."
+The old woman told him that she always walked in the rear on account
+of her age. As she approached the new camp, some girls were in the habit
+of running towards her and supporting her the rest of the way. She always
+took care of the children, putting them to sleep every evening. Whenever
+the people gave her food, she would eat a portion and stow the remainder
+away under her knee. When the time for dancing arrived, all the girls
+were put to bed together. Coyote said, "Continue, tell me some more."
+"They take Wolfs skin and hang it on a pole." Coyote said, "Tell me
+some more, tell me everything about these Indians." She told him that in
+the night she herself went to the dance-ground. Then the other dancers
+handed her the wolf-skin, she put it about her neck and danced with it.
+"That is all I have to do," said the woman. "Well," said Coyote, "walk
+on; you will reach your people some time. I am going back to my home."
+
+Coyote pretended to depart, while the old. woman slowly rose from her
+seat. Coyote, however, walked around her, picked up a stone and knocked
+her down with a blow on the back of her head. He kicked her about until
+her skin peeled off. Having shaken out her entrails, he put on the woman's
+skin. When he looked at his shadow, he saw that he exactly resembled
+the old woman in appearance. He imitated her walk,
+hobbling and supporting himself on a staff. He came to flaw^***
+the summit of a hill, whence he beheld a wikiup. He
+was now walking just like the old woman and, like her, sat down for a
+
+1 Cf. the following incidents with Cuahing, 461-463; 8pinden, 21; Sclioolcraft, (b) 40-41;
+Curtin. 318, 359; Boas, (c) 138.
+
+
+242 Anthropological Papers American Museum of Natural History, [Vol. II,
+
+rest at short intervak. He used both hands to grasp his stick. As he
+approached the camp, the girls ran up to him. He sat down to tell them
+of the strange Indian from the East who had met him and had returned to
+. his people. The girls took Coyote home, supporting him on both sides.
+He saw his brother's skin hanging on a pole, and began to cry; but they
+could not see hb tears because they were rolling down beneath the old
+woman's skin. When they gave him food, he acted as the old woman had
+told him, eating some and putting the rest under his knee. At sunset, the
+Indians were going to dance. The girls looked into his eyes and noticed
+their strange appearance. They said, "How queer her eyes look I They
+look like Coyote's." Coyote said, "You must not speak like that, girls.
+Don't mention Coyote." All the people went to the dance, leaving the
+children with Coyote. While the dance commenced outside. Coyote put
+the girls to bed. Cum earum pudendis quasi copulare vellet ludere incipie-
+bat. The girls said, "She is acting just like Coyote." Coyote said, "Don't
+speak like that girls. Don't mention Coyote."
+
+Towards evening, the people came to ask the old woman to dance.
+Coyote began to dance very stiffly. Unseen he shed tears
+Seoiiref Wolf's under the woman's skin. Towards morning his brother's
+escapes. ' skin was tossed to him. He put it around his neck and
+
+began to dance up and down. Suddenly he jumped up,
+dropped the woman's skin and ran away. The Indians gave chase, and
+shot at him repeatedly, but could not hurt him. They shot his hair off.
+As he came to their former camp-sites, he took down the quivers and shot
+his arrows back at them. He used up all his arrows. When they had
+nearly overtaken him, he suddenly disappeared in a cavity in the ground.
+They looked everywhere. "He came this way, he must be somewhere."
+They could detect nothing but a heap of old Coyote excrements. They
+talked to each other about the dung-heap, and finally said, "That must
+be he." When they began shooting again. Coyote rose and ran away.
+He got very tired. When he came to another cavity, he again transformed
+himself into old Coyote excrements. When they came up to the place, they
+looked around and saw nothing. Again they had a council and decided he
+must be in the excrements. As soon as they began shooting, he got up and
+ran away. Finally he got to a body of water and wished he would change
+into a water-spider. He immediately turned into one, and swam across.
+The pursuers got to the edge of the water, but could not see anything.
+They were obliged to give up the chase and return home.
+
+Coyote walked on eastward, carrying his brother's scalp. He put it on
+
+a rock facing the east. Then he went to where Wolf's
+
+body lay buried, and went to sleep crying. Suddenly Wolf
+
+returned to Ufe. Coyote heard him howling on the other side of the hills.
+
+
+1909.] Lovne, The Northern Shoshone. 243
+
+"Why did you wake me up? I was dreaming." Coyote went to the
+rock, brought |^aok Wolfs skin and covered his brother's body with it.
+He put him together again. Wolf was restored by Coyote.
+
+(c)
+
+Coyote and Wolf were going to war. The hostile Indians (Andavits)
+were surrounding them. Wolf cautioned his brother not to peep out of
+their grass-lodge. "If you hear any noise outside, it will
+mean that I am fighting the enemy." Coyote covered mju^ng. * ^
+his face. The enemy were jumping about, touching the
+lodge. He heard his brother fighting. Wolf had just shot off all his arrows,
+and was defending himself with his bow. The enemy were jumping against
+the lodge again. Then Coyote looked outside. The very moment he
+peeped out, Wolf was slain.
+
+Coyote fell down, crying, ''The enemy have slain my older brother."
+Then he fled, crying as he ran along. After a while, he returned to track
+the enemy. He stopped wherever they had left a camp-
+fire. Blowing on the ashes, he secured fire for himself. -^oU's^scaip!**^*'*
+The next day he caught up with an old squaw. He asked
+her what she was doing there. She told him she was walking behind her
+people on account of her old age. She showed him how she walked along.
+Then Coyote killed her with a rock, skinned her and put the skin on his own
+body. He imitated her gait and walked on until he arrived at the enemy's
+camp. They were ha\ing a scalp-dance around a pole with Wolfs scalp.
+Coyote played the part of the old woman. When he got close to the dancers,
+the Indians tossed the scalp at him. He seized it and began to dance like
+the other old women. When he received it the second time, he ran away
+with it as fast as he could. Then they recognized him. They pursued
+Coyote, but soon saw that they could not catch him.
+
+Coyote walked home crying. When he arrived at the lodge, he placed
+the scalp where his brother generally lay down to rest. He fell asleep. At
+
+first, he built a fire every morning; later he became so lazy
+11 1 M 11 TT . 11 1 Wolf revives,
+
+that he never built one at all. lie was contmually lament-
+ing his brother's death. One morning his brother Wolf shouted at him,
+"Get up, Coyote! Make a fire." Coyote jumped up immediately, and
+built a fire. He blew on the flames and looked at his brother stealthily.
+Wolf was alive again.
+
+
+244 Anthropological Papers American Museum of Natural History, [Vol. II,
+
+3. The Theft of Fire.
+
+One winter evening, Coyote went outside to defecate. He looked down
+
+as he was squattini? there, and noticed a fire below. He
+Co]rot6 dlfoov- ....
+
+ers Are, anuf thought he saw it right in his anus and jumped up. Then
+
+oounieif fteai- jj^ g^w that it was way down the mountain. He asked his
+Ing It. *^
+
+anus, **WTiat's that fire for?'* It answered, '*You are
+
+crazy. Some other Indians own it. Crane is their chief. Go and get their
+fire for yourself.'* Coyote did not tell any one that night, but went to
+sleep.
+
+In the morning Coyote painted all his body. Then he talked to the
+Indians. He said, "I saw something last night. I saw fire from the moun-
+tain. Shall we go and get the fire?" All the Indians debated whether
+they should go or not. The Mice, the Rats and all the
+Crane^f trii)e * other men went along. The women stayed at home. Coy-
+ote defecated. His excrements told him to have a feast
+with the Crane people. "Eat with them and enjoy yourselves." They went
+over the mountains. As they walked along, they saw the fire. This was the
+first time they had ever seen fire. The other Indians talked aboui Coyote,
+while he was not listening. "Let hhn go by himself, when we get there,"
+they said. "Don't go with him, or they'll give us excrements to eat." So
+when they got to the Crane's people, all went to different tents; while Coyote
+went to an old woman's tent.
+
+When all had arrived. Crane addressed his people. He told them to
+receive their visitors hospitably. All began to cook. The old woman
+stirred excrements with the food she was preparing for
+of^rttors*"***"** Coyote. Coyote ate and said, "This tastes sweet; this
+tastes well." At night all got ready for a feast. The Sho-
+shone were playing the hand-game. They said they would leave the offals
+of their feast for Coyote. As they were gambling, Coyote approached.
+He looked at the offals. "Well, uncle," they said, "we have eaten. Go
+ahead; eat what we have left for you." He ate, saying, "It tastes well.
+I like it." In the night. Coyote went out at short inter\'als, saying, "lam
+looking for girls." A pud puellas ambulabat, earumque pudenda scruta-
+batur. Comas non invenit. Ad castra rediit. Cantavit "Absunt comae."
+The people told him to go around again. This time he stayed away a long
+time. Multas comas invenit. Rediit, canta\dt "Multae sunt comae."
+
+The Shoshone were still gambling. Crane's people were performing
+
+the nu'akin dance. Crane told the Shoshone they could
+
+inc^tt(»if 1^^" S^ ^^ ^i^joyiJ^g themselves at gambling; later they might
+
+come and see the dance. Coyote joined in the nu'akin,
+
+wearing a head-dress that reached the ground. The old squaws said to
+
+
+1909.] Lowie, The Northern Shoshone, 246
+
+him, "You are not watching your head-dress; you are dragging it along the
+ground and singeing its edge at the fire." But Coyote only did this when
+the women were watching him. When they did not see him, he pulled ofiE
+the fire. Towards dawn he summoned a council of his people. "As soon
+as we can get their fire and their food," he said, "we shall all run away."
+Crane's people kept all their food in a large bag high up on a tree. Crane
+kept the fire in his own lodge. There was another dance that night. While
+it was going on. Coyote went about, and his head-dress caught fire. He
+took the fire, hid it under his blanket, and sneaked out.
+
+The Indians told Jack-rabbit to play his flute outside of all the enemies*
+wikiups, so their hosts would fall asleep. Jack-rabbit went crane's pine-
+
+around and played. Everybody listened, and fell asleep. nuti captured;
+While they were all sleeping, the Shoshone attempted to ^«^*'
+steal the food. Again and again Coyote tried to jump up the tree, but
+could not reacfi the bag. All his followers tried in vain. At last they asked
+the woodpeckers to put their bills together. Thus they reached up. The
+bills pierced the bag, and the food fell out through the hole. It was pine-
+nut food. The Indians ate; then they ran away with the pine-nuts and
+the fire.
+
+In the morning, Crane's people got up. They tried to start a fire. They
+could not get it to bum. They looked for the food-sack,
+and there was nothing in it. "Where are those Indian th«(f^*pm?uit.
+visitors ? " they asked. " They are all gone." Crane looked
+around. "Let us pursue those Indians," he said, "and get back our food
+and our fire." They started out in pursuit of the Shoshone. They kept
+going till they saw the fugitives.
+
+Coyote was in his war-dress now. The enemy shot at him, but missed
+every time. He was the last in Une, keeping directly in
+front of the enemy. They continued shooting at him; j^j^J^** ^***' **
+they shot all his hair off, but could not hurt him. He ran
+to and fro. At last he got tired, he was exhausted. He did not know what
+to do. When he came to an old track, he hid in it. They looked for him,
+but could not see him. "Where did he go to?" they asked. At last they
+saw the track. "That must be he." They threw a rock at him, and he ran
+away. They continued shooting at him. He began to fall behind. He got
+to where there was a pile of old excrements, and hid there. The enemy
+came up and did not see him. At last they said, "That must be he," and
+aimed at him. He ran once more. When Coyote was completely ex-
+hausted, he gave the food and the fire to the men in front of him. The
+enemy then overtook Coyote, and killed him. They skinned him. They
+looked all over his body. They could not find the stolen property, so they
+went on.
+
+
+246 Anthropological Papers American Museum of Natural History, [Vol. II,
+
+Crane's people killed the Indians one by one. The Indians passed the
+indlant killed ^^^^ ^^^ ^^ along the line. Jack-rabbit jumped aside
+H'^'f loc escapes from the road and hid in a hole. There were then only
+^* "" ' two Indians left, Hai (a black bird), and Rock-squirrel.
+
+Hai was carrying the food, and Rock-squirrel the fire. The enemy nearly
+caught Hai. The bird wished his leg would rot. His leg rotted, and he
+put the food into it. Then he fell down, exhausted. Crane said, "You
+are a great chief," and kicked him. Hai screeched, and his leg flew ofif;
+but Crane and his followers did not notice it. The leg ran away by itself.
+Crane searched Hai and cut him up, but could not find the food or the
+fire on his body. At last, they looked down and noticed that one of his
+legs was gone. They looked for the missing leg. Someone had seen it
+fly away. They discovered its track and followed it. Hai wished it would
+rain and snow behind him. The rain and snow fell, and effaced his track.
+At last they saw his footsteps again going up a mountain. They had a
+council. "There is no use pursuing him," they said, "he is too far. Let
+us go after Rock-squirrel, who has the fire." Hal's leg went westward,
+scattering all the pine-nuts on the way; that is why the people living there
+have pine-nuts now.
+
+The next day Crane pursued Rock-squirrel. Rock-squirrel hid the fire
+
+by his breast; that is why he has a spot there, as if he
+Bock-squlrrel . .
+
+escapes with Are. had been burnt. They got close to him, nearly catching
+
+Pursuit aban- ^ini several times. He got on a steep cUff and jumped
+
+down, throwing the fires ticks all over the mountains. He
+
+said to the fire, "Everybody is going to use you. Go and bum every\^'here."
+
+This is how all the Indians got fire. Crane came to the cliff. He was
+
+fatigued. He saw the fire burning everywhere. So he said, " I '11 give up
+
+the chase and go to the river." His son, Chickadee, said, "I shall go too."
+
+Crane turned into the bird he is now, and went to the river, where he
+
+belonged.
+
+Now Jack-rabbit came out of the hole he had hidden in, and hit Coyote
+
+Indians re- ^"^^^ ^^^ whistle. Coyote woke up. "Why did you wake
+
+stored by Jack- me up?" he asked. "I was dreaming." Jack-rabbit hit
+
+'* ** every one of the Indians with his whistle. All thus came
+
+back to life.
+
+4. The Theft of Pine-nuts.
+
+A long time ago the other Indians were gathering to play the hand-game.
+
+Indians steal They played two nights in succession. They had their
+
+nuts and flee. pine-nut food suspended from the top of a pole. The
+
+Rats tried to climb up to get it, but fell down. At last the Woodpecker and
+
+
+1909.] Lowiej The Northern Shoshone. 247
+
+his brother made an efifort. Woodpecker's brother stretched his bill and
+made a hole in the bag containing the food. The pine-nuts fell down and
+the Rats ate some of them. They liked them better than any other kind of
+food, so they fled with the stolen nuts.
+
+The gamblers ceased playing. An old woman was about to cook some
+nuts. They had disappeared. The other Indians saw Discovery of
+
+that some one had stolen their food. When their chief, ***•**• councu.
+Crane, found out about the theft, he marked his legs as they are now.
+Then he summoned a council and started in pursuit of the thieves.
+
+On the way. Coyote stopped fleeing ut cum rana muliebri coiret. Ilium
+
+in muUerem incumbentem Grus calcibus interfecit. Crane's people also
+
+killed Magpie and all the rest of Coyote's people, except Hai. For a long
+
+time, they could not catch him. Then he got tired and
+
+, , Unsuooetstul
+
+could not run any further. He wished his leg would rot. pursuit. bJH
+
+It rotted and he put the nuts into it. The Crane's people •^^^ »"*• 'or
+caught up and kicked him. They kicked his rotten leg,
+so that it flew away. They killed Hai. Then Crane sat down. "Search
+his body for the nuts," he said. His followers looked all over Hal's body,
+but found no trace of the food. Then Crane said he had seen one leg fly
+away somewhere. They looked for the leg, but it was gone. It got to
+Coyote's Indians in the west, so all of them have pine-nuts now. The nuts
+used to grow here, but now they are among the Dttbadi^ka (Eaters of pine-
+nuts).
+
+Hai got up again and went to an island with treeless mountains, where
+Crow joined him.
+
+5. The Flood.^
+
+Coyote saw some wild-geese flying and begged them for some feathers.
+They flew down and gave him some. Then he was able to join them.
+When they got to the summit of a high mountain, they saw that the water
+below was moving a little. ITiey had a council there, debating whether they
+should wash the whole world. They decided to do so, and
+raised the water until it filled all the low parts of the earth. diuinr*flo*od*^
+Everyone except Coyote and his companions was drowned.
+Someone shut off the water; no one knows who. When everything was dry-
+ing up again, the survivors took sticks and placed them on the slopes of the
+mountains. That is why we have trees on the mountains now. They
+made little creeks and lakes. Then they also created the fish and all the
+other animals for the Indians.
+
+1 Cf. Kroeber, (f) 96.
+
+
+248 Anthropological Papers American Museum of Natural History, [Vol. II,
+
+6. Coyote and his Daughters.^
+
+Coyote was living with his family. The women were celebrating a
+Coyote prepares scalp-dance, and his daughters were taking part in it.
+for war. LUe- Coyote was watching them. He blew the air towards
+*^^"' them. Ita fecit ut vestibus ablatis pudenda muUebra
+
+vidisset. Formosis pudendis amore inflammatus coitum concupivit. Coy-
+ote began to make arrows. When he had finished them, he hung them
+up in his lodge. He told his wife he intended to go on a war expedition
+as soon as he was ready. "If anything happens to me," he said, '*I will
+make a fire and you will be able to see the smoke."
+
+Coyote started out. When he was at some distance from the dwelling,
+
+he shot an arrow into the air, which hit him in the side. He built a big
+
+Woundi him- fire. His family saw the smoke and knew that something
+
+■elf, ftgnali for ^^g wrong. The old woman sent the older daughter to
+aid, assaults ®
+
+daughter, is see what was the matter; but Coyote's son went there
+
+dropped by her. £rst. When the boy came up to him, Coyote was crawling
+
+on the ground, pretending to be very sick. The boy noticed the arrow
+
+and attempted to pull it out; but Coyote told him to let it go, because it
+
+hurt him badly. He asked his son to call his sisters. The boy returned
+
+and requested the older girl to go to her father. When she came up, Coyote
+
+told her that someone had shot him. He dropped to the ground, and
+
+groaned as if he were dying. He said it was impossible for him to walk,
+
+and asked the girl to carry him home. She took her father on her back.
+
+He asked her to pull up her dress to prevent the blood from trickling down
+
+and soiling the robe. Tunc demum membrum in vaginam iaseruit. The
+
+girl threw him off, and ran away. Coyote told her to go home and bid his
+
+younger daughter come to him.
+
+The girl got home, and told her sister. The second daughter came.
+Iterum vestibus altius cinctis cum filia coire conatus est. She dropped
+Assaults second ^^^ ^^^ went home. He ordered her to send his wife to
+daughter; carried him. At last the old woman came. She took him on her
+home by wife. back. Coire incepit cum uxore. His wife did not mind
+him; but went along until they reached home, where she put him down.
+
+Coyote pretended he was getting sicker and sicker. He told his family
+he did not expect to live much longer. **Put a stick under me," he said.
+" WTien I die, the stick will break in two. Do not bury me in the ground,
+but cover me up and burn my remains. Don't look back going home, or a
+
+1 Cf. Dixon, (c) 270. Dorsey and Kroeber, 82. Kroeber, (a) 269; (e) 73. Matthews, 271.
+
+
+1909.] Lowie, The Northern Shoshone, 249
+
+ghost will pursue you. If you are in need of food, go to the rocks and look
+
+for rock-squirrels. After my death a visitor will come to
+
+. . Feigns (toatli,
+
+you. He will bring you some presents, but don't treat giyat dyinc in-
+
+him well. Let him depart. Then another \isitor from •toucttons. u
+
+, burled.
+
+the south will arrive, bringing a great many rock-squirrels.
+
+Talk to him, and treat him well. Let him marry our two daughters. I
+
+shall die within two days." Coyote tried the stick on each day; on the
+
+third day he broke it and dropped dead. His wife and children began to
+
+cry; but as Coyote had asked them not to mourn too long, they wrapped up
+
+the corpse, removed it from the lodge and started a fire. Then they went
+
+homewards. The boy put his arm akimbo and looked back through the
+
+opening between his arm and his body. He saw his father g^t up and run
+
+away with the funeral gifts. He informed his mother; but she rebuked
+
+him, asking him not to look back again, or a ghost might pursue them.
+
+The next day they looked for squirrels among the rocks. In the evening
+the first visitor announced by Coyote came with a dog and Eetumi in dli-
+several baskets. The old woman told him about Coyote's cune, marrtot
+orders and did not treat him well. She refused to let him ^^^^^'
+marry the girls. He stayed overnight, but left in the morning. Then the
+man from the South arrived, bringing a great many rock-squirrels, which
+he threw on the ground before the old woman. She cleaned them and threw
+them on the fire to bum off the hair. Coyote laughed, "Yo ho," quite
+differently from his usual way of laughing. **The taik look burnt," said
+he. In the evening, the woman ordered her daughters to he beside the
+stranger. **This is the man your father spoke about." Thus Coyote
+married the two girls. Noctu cum eis assidue coibat. Mane filiarum vestes
+semine humidae lavandae erant. The women dried them outside.
+
+Coyote offered to show the boy where he had hunted those rock-squirrek.
+As they were going along, the boy said he could not find
+his former hunting ground any more. For a moment ^^j^ ton^"**^*
+Coyote forgot himself and said, '*I know where it is;" but
+he quickly added, **No, I don't know where it is." Omnibus noctibus
+Coyote assidue coibat cum mulieribus. One night the old woman heard a
+strange noise which sounded like a drum. She sent her son to find out
+what was the matter. Puer Canem conspexit membro inserto, dum cauda
+terram violentor percutiebat.
+
+One. day Coyote and his supposed brother-in-law were hunting for
+
+rock- squirrels. Coyote bade the boy go on the other side
+
+.. , 1 1 1 1 • • 1 • 1 T 1 Eecocniaed by
+
+of the rock and poke his stick into the crevices. In the ton, unmasked
+
+meantime, Coyote on his side was opening his mouth wide ^^ daughters;
+
+for the rock squirrels to jump in. The boy was peeping
+
+at him, however, and noticed four holes in his teeth, by which he recognized
+
+
+250 Anthropological Papers American Museum of Natural History, [Vol. II,
+
+his father. The boy was badly frightened, dropped his stick, and ran home
+crying. Coyote tried to lure him back. He hit the ground, shouting, **I
+have caught the thing that scared you away." The boy, however, did not
+listen to him; but ran home crying. He scolded his sisters, who were just
+drying their skirts, for having married Coyote. The old woman asked him
+why he was chiding them. He answered, "Their husband is our father."
+Then the mother told her daughters to look for a wart on their husband's
+head. If they found one there, it was surely Coyote. In the evening,
+Coyote came home. Both his hands were filled with rock-squirrels. When
+he sat down, the two women began playing with his head and pulled off his
+false hair. Coyote dropped all his disguise, and fled.
+
+After some time, a young man named Duck visited the Coyote family
+and married the two girls. They all bt^gan to wander about. One of the
+
+Olrlt married women gave birth to a girl. After a long time, Coyote
+to Duck. Coyote came hobbling along on crutches. Seeing the Uttle girl,
+sranddauchter he asked, *'Is that my granddaughter? Let me kiss
+*^' her." He played with the little girl, making her dance up
+
+and down. Ceteris inscientibus membrum virile in puellae vaginam in-
+seruit. Quo facto, rupta mentula, dimidium in vagina remanebit. The
+baby began to cry; she continued crying. Nobody knew why. Duck,
+who had been out hunting since early in the morning, returned. "What
+is ailing the girl?" he asked. No one could tell him. "From the time
+Coyote has played with her, she has been crying continually." She kept on
+crying during the night.
+
+Duck went to Hummingbird, who was a medicine-man, and begged
+him to cure the child. Hummingbird ordered the fire to be put out and all
+
+OhUd cured. the holes in the wikiup to be covered up. This was the
+
+Coyote stunned custom of medicine-men. When everythinx? was closed
+
+by doctor. Fun- ®
+
+lly transferred to up, those present could hear Hummingbird moving about
+
+■^- and making a noise. He was saying, "It must have
+
+been one of Coyote's tricks." Coyote said, "The medicine-men always
+blame me for ever^lhing." He rushed towards the ashes, and rekindled
+the fire. Hummingbird immediately flew away. The Duck family ex-
+tinguished the fire; then Hummingbird came in again. He flew towards
+the baby and began to suck. Canis membrum extraxit. He struck Coyote
+with it, knocking him down and stunning him. It fell into the fire and was
+burnt up. Then Duck, the two young women, Coyote's wife and son, and
+the baby all flew up to the sky, where they form a const(*llation now.
+
+The next morning. Coyote woke up. He did not see any one around.
+
+Coyote wakes, " Some one has left something in the fire to burn," he said.
+
+unable to leap up. n^ got a stick and began to rake the ashes. He found a
+
+half-cooked deer's head, and ate it up. He was all alone. After a while,
+
+
+1909.] Lotvie, The Northern Shoshone. 251
+
+he looked up and saw all his relatives in the heavens. He tried to jump
+up there too, but could not reach them. He tried again and again, but
+failed every time.
+
+7. Iron-Man (Wi'mN-DAiBo).
+
+(a)
+
+Iron-Man, the father of the white people, lived on the water; Wolf, the
+father of the Indians, Uved underground. Wolf asked his
+son to visit his friend Wi'hindaf bo. The young man trav- lenMWoU ^
+eled across the water until he reached Iron-Man's house.
+Iron-Man shook hands with the youth and invited his father to visit him.
+"We shall see which one of us can beat the other in making guns." Wolfs
+son told his father of Iron-Man's invitation. Wolf got ready to go. Iron-
+Man locked up his house and sat down inside.
+
+The next morning Wolf started out. Wi'hindai^bo's house was in the
+middle of the sea. When Wolf came nearer, the house
+began to shake. Wolf entered it with a breath of air. gnioWM^contei?
+Iron-Man saw him. "You have arrived at your friend's
+dwelling," he said. Wi'hindai^bo was trailing his long pipe along the floor.
+He cut his tobacco, filled his pipe and began to smoke. He handed the
+pipe to Wolf, who smoked up all of the tobacco. Then the Father of the
+Indians took his little pipe from a quiver. Clouds of smoke rose. He
+handed the pipe to Wi'hindai^bo. Wi'hindai^bo could not smoke it all up.
+He filled the house with smoke until he was completely stupefied by it.^
+Wolf's son told his father that Iron-Man was nearly dead. Then Wolf
+dispelled the smoke and made Iron-Man well again.
+
+They sat down for a while. Then Wi'hindai^bo brought a large iron
+ball, of which he gave half to his friend. "We are now Defeated in
+
+going to make guns," he said. Both made guns as quickly gun-makinc
+
+as possible, putting them up as soon as they were com- °^* ^ '
+
+pleted. Wolf made more guns in the same time than Wi'hindai^bo. The
+Father of the Indians won.
+
+
+» In another version, Iron-Man vomits and dies from smoking too much.
+
+
+252 Anthropological Papers American Museum of Natural History, [Vol. II,
+
+Coyote went to visit Wi'hindai^bo who lived in the middle of the big sea.
+
+He was sent there by his brother. When Coyote ap-
+Coyote defeats .... . .
+
+host In imokinc proached his dweUing, Wi'hindai^bo locked himself in and
+
+match, leti him gat down. Coyote, nevertheless, was able to enter. Iron-
+freeae. . . .
+
+Man had a large iron pipe, which he filled with tobacco.
+
+He smoked, then he handed the pipe to Coyote. Coyote just puffed once,
+and all the tobacco was consumed. Then Iron-Man filled the pipe a sec-
+ond time for his \isitor. With one whiff, Coyote smoked up all the tobacco.
+Then Coyote took out his own Uttle pipe^ and filled it with kinikkdnik.
+He handed it to Wi'hindai^bo, who fainted from smoking it. Coyote wished
+that the doors, which Wi'hindai^bo had shut, be blown away by the wind.
+The wind blew so hard that Wi'hindai^bo's house was beginning to totter.
+Wi'hindai^bo was trembhng with fear. He was freezing. Coyote left him
+and lay down in the sunshine. Coyote asked Nii'neyunc for one of its
+wings and flew home.
+
+While Coyote was in Iron-Man's house, his host asked him whether
+
+Tranipoiet the he could take down the sun. To show his power, Coyote
+
+■^"*' took it down. Then Wi'hindai^bo could not see at all and
+
+got hurt stumbling against the objects in his dwelling. Coyote put the
+
+.<?un back in its place.
+
+8. The Sun.
+
+(a)
+
+Long ago the Sun was so near to the earth that it burnt people to death.
+
+Sun shot by AH the Indians said to Cottontail (rabbit): "The sun is
+OottontaU. ^qq hot. Get into a hole and shoot it from there." In
+
+the evening, Cottontail hid in a hole, and stayed there until sunrise. When
+the Sun came up in the morning, Cottontail shot his arrows at it; but they
+were all burnt up. Some one told him to use his fire-drill instead of an
+arrow. He took the drill and shot it at the Sun. He knocked the Sun down
+into his hole. This is how Cottontail's neck and legs were burnt ^-ellow.
+The Sun was dead. The people cut open its chest and took out its
+
+Baited to pres- ^^'^" ^^^^^ ^^^7 debated who should make the Sun go up.
+ent height by ** Perhaps the IIorned-Toad (?) can make it go up vdih his
+Horned-toad. ^^^^ horns," they said. The Horned-Toad took the Sun
+
+and raised it on his horns to where it is now.
+
+1 According to another version, a "small straight-pipe."
+
+
+1909.] Lowie, The Northern Shothone. 253
+
+(b)
+
+The Sun was burning people to death. One day Jack-rabbit shot at
+the Sun. He shot off all his arrows in vain; at last he got gun shot bj
+
+his fire-drill and hit the Sun with it. It fell down and J»ck-r»bblt.
+scorched him yellow where he is spotted to-day. He made the Sun over
+again out of its gall, and also made the Moon. Then he told the Sun; **Be
+this way hereafter and don't bum people." He told the Moon to shine only
+a Uttle. Then both went up to where they are now.^
+
+9. The Bear and the Deer.^
+
+
+The Bears and the Deer were neighbors. One day the old Bear and
+the old Deer went to dig roots, while their children re-
+
+killed by Bear.
+
+
+mained at home. The women sat down to louse each ®" "*
+
+
+other. "Let me louse you in the back of your neck," said
+Bear. She began lousing and wrung Deer's neck. Then she returned
+home, bringing the Deer's flesh with her. "Our mother is returning," said
+one of the cubs, she is bringing us meat and fat." "Keep still," said the
+older one, "don't show it to the Deer." They ate up the Deer's flesh; then
+they said to the fawns, "This is your mother's fat." When the young Deer
+saw what had happened, they cried. The old Bear went to them and said,
+"Don't cry; your mother has found many roots. She has gone to sleep
+and will come back again. I am going to her now." She went away to get
+some more meat.
+
+The fawns wished to avenge their mother's death. They asked the
+cubs to play with them. "Let two of us go into the
+sweat-lodge and get smoked," they said. The cubs agreed. cui^T^' ***^*
+Then the deer went in first. When there was too much
+smoke, they cried, "Let us get out," and the bears allowed them to go out.
+"Now you two go inside." WTien the cubs were inside, the deer fanned
+the smoke in. After a while, the bears asked to be let out; but, instead the
+fawns stopped up every little hole as quickly as possible. The cubs suffo-
+cated. The Deer painted the cubs' faces red, and placed the corpses at the
+entrance to Bear's wikiup. When the Bear came home, she saw her chil-
+dren peeping out at her and noticed their appearance. "You are wasting
+my red paint," she said. When she saw what had happened, she ran
+around in a passion of grief. "Who has killed them? Who has killed my
+children?"
+
+
+^ Cf. Powell, (a) 52 et acq.
+
+> Gatschet, 118. Dixon, (b) 79. Kroeber, (c) 203. My version was obtained at Inkora,
+Idaho.
+
+
+254 Anthropological Papers American Museum of Natural History, [Vol. II,
+
+The fawns said to each other, "How could we kill the cubs?" They
+
+ran awav. After a while, the youmrer one got tired.
+
+Pursued by * . » j *& &
+
+bear, crofs itreazn When he was quite exhausted, they took refuge in a pine-
+over grandlath- trunk, sleeping in the hollow of the tree. The old Bear
+had tracked them and came up to their resting-place. The
+older fawn saw her coming, and woke up his brother. "Here is the one
+who wishes to eat us up. She has overtaken us. Come, wake up, younger
+brother." The Bear did not wish to eat them in the dark. "At daybreak,"
+she said to herself, "I shall make a good feast of them." She was tired and
+went to sleep. She slept soundly. The two young ones got out of the tree,
+jumped over her and ran away. They arrived at the bank of the Salmon
+River. Their maternal grandfather was sitting there with his legs stretched
+out. "Hoi Take us across, Blue-Bald-Head" (a bird^). He allowed them
+to pass over his legs to the other side of the stream. They ran to their
+grandfather's lodge; then they ran around the mountains. The old man
+transformed them into deer.
+
+The Bear was going to have a feast, she thought. She tracked the
+
+Bear foUowt children. She came to the river and asked Blue-Bald-
+it thrown Into Head to let her cross. He stretched out his legs and the
+^* • old woman went across. When she got to his knee, she
+
+bent down to drink. She hit his knee with her cup. He pulled up his legs
+and the Bear fell into the water. She did not pursue the deer any more.
+She floated for a month; then she came out where her cubs had been killed.
+She looked at her body; all the hair had come off.
+
+
+10. The Weasels and the Giants.
+
+Weasel and his brother were li\'ing together. They used to go out hunt-
+ing in the morning and return in the evening. Once a Dzo'avits caught
+Weasel moumi Weasel's brother and devoured him. Weasel mourned
+brother's death; his death. He was crying all night. His wife said, " Keep
+inttructi wife. ^^jjj^ ^,^^^ brother will come back." Weasel went out to
+look for his brother. He went to Dzo'avits' house; he saw his brother's
+body hanging cut up in the tent. He went home and told his wife. Then
+he said to her, "I am going to hunt now. Don't let our boy cry too much;
+feed him when he cries. If Dzo'avits comes to see you, don't tell him
+an}i:hing. Don't take any food from him. Si cenare \'ult, camem cum
+excrenu^ntis misce; cum a({ua oportet urinam miscere." He also left his
+obsidian knife at home. "You must send Dzo'avits out for some wood.
+In the meantime I will get on top of the house.' ^
+
+» Crane (?).
+
+
+1909.] Lotme, The Northern Shoshone, 255
+
+Weasel left. After a while Dzo'avits approached the Weasel's lodge.
+He dropped his bag, which was made of sagebrush bark,
+outside. It contained the dead Weasel's fle^h. The giant ^f^*^*' '^•**"
+entered the lodge, sat down and fell asleep. Weasel's child
+began to cry. Dzo'avits woke up and asked, **\Miat is my grandchild cry-
+ing for ? Let me have your cup, I will give him some food." The Weasel
+woman answered, "No, there is nothing the matter with him, he always
+cries like that."
+
+It began to rain when Weasel returned. He spoke to the giant as if he
+were a friend. The woman said to her boy, "Move out of the way; I must
+take off your father's moccasins." Then she addressed the
+giant. " Grandfather, go out and g<^i some fire- wood for us. ^o'dT"* '^' ^*""
+We '11 cook some jack-rabbits for you ." Dzo'avits went out
+to look for fire-wood. When he got to the wood, all the sage-brushes cried
+out together, "Get me, /'U make a good fire." The giant ran to and fro,
+not knowing which to take.^ He stayed out a very long time. In the mean-
+time. Weasel sat down on the top of the wikiup. He was waiting for the
+giant to come back. At last Dzo'avits returned with some wood. He told
+the woman how each of the sage-brush trees had asked him to take it. The
+woman said "These brushes always act in this way."
+
+Weasel's wife set a jack-rabbit before the giant. Caro verum cum
+excrementis mixta, aqua cum urina. Dzo'avits cut up the jack-rabbit and
+said, " That must be a different kind of game." The young
+boy began crying. "Let me give my grandson something dinner,
+to eat," said Dz5'avits. "No," said the mother, "he is not
+hungry; he always cries this way." While the Dzo'avits was sitting there.
+Weasel, who was seated on the roof, seized his hair, and began to pull him
+up. The giant asked the woman what was the matter. She told him such
+things always happened in her lodge. She went outside and carried in the
+wood fetched by Dzo'avits. Then she built a big fire. When the fire was
+built. Weasel lifted the giant directly above it, ita ut testes combusti essent.
+Weasel told his wife to get the obsidian knife. Caput testesque excisi et
+ejecti.
+
+Testium ejectorum crepitus a gigantis fratribus auditus. The giant had
+told his brothers that, if he caught some game, he would signal to them by
+making a noise. When they heard the sound, they said to each other,
+"Our brother has killed some game." The Weasels cut FUght and
+
+up Dzo'avits' body into small pieces, which they hung on leparatlon of
+a tree. They buried his head in the ground. Then Weasel couple.
+Weasel said to his wife, "You may go to your family or wherever else you
+
+
+1 Cf. Dorspy, (b) 32.
+
+
+256 Anthropological Papers American Museum of Natural History. [Vol. II,
+
+wish to go. I am going to run around the mountains and turn into a weasel."
+
+He left. His wife had a ma^cal cane by means of which she was able to
+
+vault very far. She made two steps and arrived at her uncle's lodge.
+
+The giants resolved to visit their brother and join him in feasting on his
+
+game. Two of them were miracle-workers, who always
+
+Dioavltt ; Won- managed to get ahead of the rest . They were called Wa'han
+
+der-workers out- Da'dapekono.^ In order to prevent this pair from getting
+
+•trip ooinpuiloxis. jr ^ c? o
+
+to the game before the rest, their brethren hid one of each
+
+of the Da'dapekono's moccasins. The miracle- workers looked for their
+moccasins, but failed to find them. They hopped along on one moccasin
+behind their brethren. At length they caught up to one of the giants, who
+was trying to lure a ground-hog out of a hole. **You two are miracle-
+workers," he said, "I wish you would get that ground-hog out for me."
+The Da'dapekono knew exactly where the ground-hog was, but they feigned
+they did not. They just dug up dirt. The giant said, " You two are miracle-
+workers. You'll be able to get it out somehow." After he had left, the
+two wizards got the ground-hog out, killed it, ate its flesh and made moc-
+casins of its skin. Then they ran after the other giants and soon outdis-
+tanced them.
+
+The Da'dapekono arrived at the tree on which Dzo'avits' flesh was
+
+hanging. Testes conspectos assidue devoraverunt. Hi
+
+Dsoavitt' ftoth, semper omnium animalium testes edebant, quare Xo'yo-
+
+dlMover brother's djka Testium Editores, appellati sunt. When they were
+defttht mourn. i
+
+through eating, they began a wresding-match. In the mean-
+time, the other giants came up. They noticed their brother's flesh and said,
+"Our brother has killed a great deal of game; perhaps he is looking for
+some more now." All of them began to feast, except the two No'yodika,
+who continued wrestling. "Why don't you stop wrestling and eat?" the
+other giants asked them. Suddenly the wrestlers ceased. They had kicked
+up the earth covering the dead Dzo'avits' head, and decided to hurl it at
+the feasting giants. These noticed the surprise of the miracle- workers, and
+shouted at them; **What is the matter? Quidnam videtis? Matris vagi-
+nam ?" Then they threw Dzo'avits* head among the crowd. The ^ants
+recognized it immediately, and stopped eating. They saw that they had
+eaten their own brother's flesh and vomited what they had swallowed.
+** Someone has killed our brother," they said to one another. "W^e have
+been eating his flesh." Now the Da'dapekono shouted at them: **AVhat
+is the matter with you? Quidnam videtis? Matris vaginam?" The
+giants tried to mourn Dzo'avits' death by crying, but they did not know how.
+The No'yodika taught them. ''You must cry this way — *ai, ai, ai.'"
+This is the way people cry to-day.
+
+1 In another version, this pair is identified with ilie water-youths (Pa-bi'hianO).
+
+
+1909.] Lotvie, The Northern Shoshone, 257
+
+The other giants said to the wizards, "You must find the murderer,
+you are miracle- workers." The Da'dapekono separated; Pursuit of Wea-
+and quickly ran around the mountains in opposite direc- ■•**■ ^*'**
+tions. They noticed the two places where Weasel's wife had landed in her
+jumps with the vaulting-pole. They came back, separated, and ran around
+the mountains once more. Again they saw the Weasel- woman's footsteps.
+Then they returned and told their people. The giants started in pursuit of
+the murderer.
+
+The Weasel- woman, with her son, was living at her uncle's lodge. Her
+uncle was also a miracle-worker. He had the hearts of unole instructs
+many kinds of animals hanging up in his wikiup. There Weasel-woman.
+were many empty lodges around his own. He gave orders to his niece.
+"You must take these hearts and cook them, but be careful not to taste of
+any." She cooked the hearts, but tasted of one. When she brought them to
+her uncle, he took a Uttle of each heart and placed it in an empty lodge.
+The next morning there were Indians in every wikiup but one. The
+wizard asked his niece whether she had tasted of any of the hearts. She
+confessed that she had tasted of one. Then he said, "That was your
+mother's heart. Look outside now. The Dzo'avits people are coming."
+
+The No'yodika had told the giants' wives that their husbands had killed
+a great many animals. They always fooled people in this Destroys the
+
+way. When the Weasel-woman looked outside of the dants.
+lodge, she saw many giants approaching. The two miracle workers and the
+other Dz5'avits surrounded the Indian wikiups. The Weasel-woman's uncle
+went outside his wikiup. Minxit. The water turned into ice and rolled
+down towards the enemy. The ice caught the Dzo'avits so that they stuck
+fast. The two No'yodika were the only ones that could walk about freely.
+They were shouting continually, "Dzantjnl Dzantin! DzantinI" Then
+they went home. The other Giants were all frozen to death. The Weasel's
+uncle took a knife and cut off their heads. He removed their hearts, and
+hung them up in his lodge. When the No'yodika came home, the women
+asked them what had happened to the other giants. They replied, "All of
+them have been killed." Then the women cried and cut their hair.^
+
+11. Dzo'avits and the Weasels.
+
+Weasel was li\ing in his lodge. In the evening, he began to long for his
+brother. He was getting sleepy and his wife told him to weasel mourns
+go to bed; but he was still thinking of his older brother, ^ro^li©''
+"Dzo'avits is eating my older brother," he said. He cried, and continued
+
+
+* Vid. Powell, (a) 45, for an essentially different Dzo'avits story.
+
+
+258 Anthropological Papers American Museum of Natural History, [Vol. II,
+
+to cry all night. His wife asked him to keep still, but he did not cease
+wailing. "My brother is being eaten up by the Dzo'avits." At last he fell
+asleep; but when he woke up in the morning, he cried anew. His wife said,
+**Keep quiet I Perhaps your brother will be back soon."
+
+Weasel, however, went away crying. He knew where the Giant's tent
+
+was situated. He got to it and looked in. He had his
+viSModje?"*'*' obsidian knife with him. A woman was sitting there,
+
+wea\dng a willow cup. Weasel entered and sat down.
+He saw a large knife covered with blood hanging in the lodge. '*Let me
+have that cup," said Weasel to the woman. She gave him the cup she had
+been making, after cleaning its bottom. Weasel hung the cup around his
+neck; it was very greasy. He sat down, and remained seated for a long
+time. At last he heard Dzo'avits coming home. The giant dropped his
+bundle outside and entered the lodge.
+
+"Coire volo" mulieri inquit. Uxor supina cunnum exposuit. Mustela
+in ejus rimam terram injecit. Dzo'avits in vaginam membrum inseruit,
+futuere coepit. Mentulam siUcem tangere sensit. "Hoc quid est?"
+Juvenis silicem injecerat. Conspecto juvene "Tu" Dzo'avits inquit, "ter-
+ram jecisti in uxoris rimam." Longe et assidue coibat. Sole oriente
+coitus completus.
+
+Dzo'avits got up. "Bring us something to eat," he said to his wife,
+
+"I have brought some Indians home." The woman
+timt Mclpe. ^^' arose, took the large, bloody knife and went outside,
+
+where her husband had left his Indian captives. His wife
+
+could not find any in his bag. "There are none here," she said, "you must
+
+have lost them. 'WTiere are they?" "There are not many of them," the
+
+giant answered; "there are only a few. They may be in the bottom of the
+
+bag." The woman brought in his bag. He looked in, but the Indians
+
+were gone. He began to cry. At last he stopped crying and sat down.
+
+He looked at Weasel and noticed that he was very fat, so the giant thought
+
+he would be ffood to eat. He proposed that they should try
+Dioavltf klUed , , , i Txr , , , t> . •
+
+by Weasel In to cut each other s throats. Weasel agreed and Dzo'avits
+
+throat-cutting took his big knife. "I'll try to cut yours first," said
+
+the boy. Dzo'avits put his head in position and Weasel
+
+tried to cut his neck. The giant laughed. He said to his wife, "You must
+
+not look at us two." The woman lay down and covered herself up. The
+
+giant again told her she must not watch them. Weasel began to cut once
+
+more. Then he drew out his obsidian knife. As he was going to use it,
+
+the woman noticed it. "What kind of a stone has that boy got? What is
+
+the boy doing there?" she asked. Dzo'avits got his neck free. "Where
+
+is that knife ?" " Nowhere," said Weasel. " I spat it out, I threw it away.
+
+
+1909.] Lowie, The Northern Shoshone, 259
+
+I have n't it any more." Then he began to cut the giant's neck. Dzo'avits
+again warned his wife not to watch them, so she lay down and covered her
+face. Weasel placed his knife against Dzo'avits' throat. Dzo'avits fell
+asleep. Then Weasel took out his obsidian and cut off the giant's head.
+He carried it outside and threw it away. The woman arose. The boy
+. struck her with the knife and killed her. Thus he killed them both.
+
+Weasel sat down and began to cry. He wept for a long time, then he
+stopped. He picked up the head of an Indian, looked at
+it and threw it away again. He could not find his older brother's hair,
+brother's gray hair. He searched for it everywhere, bui rettorei him to
+could not find it. He picked up one Indian head after
+another, examining all; but could not find his brother's gray hair. He
+sat down, and cried for a long time. At last he picked up Dzo'avits' head.
+He examined the giant's body. Viri anum non invenit multis comis. Eius
+excrementa scrutinatus. At last he pulled off the giant's teeth and looked
+between his jaws. Between the giant's big teeth, he found his brother's
+gray hair, and took it out. In the night, he brought it home, crying. At
+home he tied it to his fire-drill, and stuck it in the ground until morning.
+His wife was there. In the morning, his brother revived and called Weasel;
+"(Jet up, younger brother." Weasel said, *'My older brother is talking,
+listen to him." The older brother said, "(Jet up and eat." He laughed.
+Weasel looked at his brother, threw his arms about him and kissed him.
+"Let me alone and eat," said the older brother. At last, he let him alone.
+Both of them laughed. The older brother was well again, but he could not
+he down comfortably.
+
+12. Dzo'avits and Mosquito.
+
+Dzo'avits was living in his tent. He used to go out to look for Indians.
+
+Once, while he was gone. Mosquito came to his lodge and sat down by the
+
+giant's wife. After a while Dzo'avits returned, carrying some Indians
+
+in his bag. He came in. Cum uxore coire concupivit. MuUer recubuit.
+
+Cruribus distentis Culex in vaginam siUcem injecit, quo
+
+, . , , ,., , , . Mofqulto klUg
+
+facto exut. He went to the giant s bag, liberated the im- Dioavitf in
+
+prisoned Indians and bade them go home. Coitu com- throat-cuttlnj
+pleto Dzo'avits ortus est. " (Jo outside," he said to his
+wife, "and bring in some food." She looked for the Indians, but could
+not find them. Dzo'avits was very angry. He thought he would eat Mos-
+quito and proposed a throat-cutting match to him. He sharpened his white
+knife. "You cut my neck first," said he to the boy. Mosquito took out his
+obsidian and killed the giant.
+
+
+260 Anthropological Papers American Museum of Natural History. [Vol. II,
+
+13. The Weasel Brothers.
+
+Dzb'avits was walking, pulling along some wood. Weasel tracked him
+until he caught sight of him. Illius testes pendebant, penden tes juvenis
+Younc Weasel O^^^asel) tutudit. "What is this?" asked the giant,
+wreitief with and "Hie juvenis meos testes tundit." They built a fire, and
+t loa t. ^j^^ giant proposed a wrestling-match. ** Whoever loses,
+shall be thrown into the fire." Weasel won and, throwing his opponent
+into the fire, killed him with a fire-stick.
+
+"Take care," said Weasel's older brother, "another powerful Dzo'avits
+will kill you; don't go over there." Weasel was not afraid, and did not
+believe what his brother told him. As he was going along, he saw another
+giant looking down from a mountain-rock. Illius quoque testes pendebant.
+Throw! another ^^ barked like a dog. Juvenis pendentes testes acu pu-
+clant over a preo- pugit. "What is that? That weasel has stuck me.
+^^' Come, younger brother," said Dzo'avits, "look down at
+
+these girls." When Weasel approached him, the giant tried to hurl him
+down; but the boy evaded him, and stole up behind him. Dzo'avits peeped
+down. "Have I killed him?" he asked. Weasel, who was then standing
+behind, pushed him over and killed him.
+
+Weasel was going along again. "Take care," said his brother, "a strong
+bear will kill you. Don't go in that direction. There is a
+tw^m^c wJe^ ^^^^ ^ ^^^ ^^'^ cubs, who kills strangers in a swinging-game.
+They will kill you immediately." "My older brother,"
+said Weasel, "I am going to look for them." He arrived at their home.
+They put him in the swing and the old bear moved the rope. She tried to
+throw him down ; but he jumped in time, and was not hurt. Then he told
+the bears to get into the swing. He threw them all down and killed them.
+He scraped off the old bear's flesh, and put on her skin. In the meantime,
+the old Weasel had tracked him, thinking he might have been killed by the
+bear. At sunrise, he caught up to him and saw the bear's tracks. He
+peeped through the willows, took aim at the supposed bear and shot at it.
+He missed it by a trifle. Weasel lea})t up and laughed at his brother; then
+the older, Weasel also laughed. "What is the matter with you? You
+frightened me." "Oh, it was only a joke."
+
+The older Weasel wanted to hunt water-elk. They went to the bank
+
+Dlioheyi broth- ^^ ^^^^ stream, and the older brother took off his clothes.
+
+er, dlei of thint, "I am going into the water," he said, "I am going to
+
+restored. j^^^^^ water-elk. You must not get frightened; if you run
+
+away you will die of thirst." He went in further and the water came up to
+
+
+1909.] Lowie, The Northern Shoshone, 261
+
+his eyes. At last he was entirely beneath the water. The water-elk were
+standing up and jumping around. The younger Weasel suddenly became
+frightened and ran away, shooting off his arrows. He famished with thirst.
+The old Weasel had killed an elk and was skinning it. ''Perhaps my younger
+brother ran away," he thought, "and died of thirst." He left the elk
+entrails in the water and tracked his brother. At last he found him and
+gave him water to drink. Thus he made his younger brother wake up again.
+
+14. Dzo'avits and the Old Woman.
+
+An old woman was walking along with her grandson. Magna illae
+pudenda. It began to rain and they got wet. They looked for Dzo'avits'
+dwelling and arrived there in the evening. The boy
+laughed. "We have arrived at Dzo'avits' house this to^atS** '^**'
+evening." In the night, Dzo'avits came running home,
+making a noise. The woman had put an iron rope ^ into the house. The
+giant asked "What is that in my house? What thick object is growing
+there?" He attempted to pull it out. Then he ran around his visitors.
+He seemed to be freezing. He could not pull out the iron rope. "I am
+freezing to death," he said. He went out and tried to make a fire by rub-
+bing his fire-drill. He was shivering. "What's the matter? I can't get a
+spark." He froze to death and dropped to the ground.
+
+At sunrise the woman and her grandson arose. They looked at Dzo'avits
+"Dzo'avits is lying dead over there." They saw that Dzo'avits wore a
+great many beads. The woman ordered her grandson to Bobbed by
+
+take off the beads. "Don't be afraid," she said to her woman and
+
+grandson, "take the best beads." The boy stole the grandton.
+
+. beads, and they left.
+
+Dzo'avits was frozen stiff; but when the sun shone the heat revived him
+and he got up. He looked everywhere for his beads. They were gone.
+His good beads had disappeared. "Who has stolen my Eevtves cap-
+beads?" he asked. His sight was not very good. He turei thlevei.
+began to track the ivoman and boy. After a while, he ^^*^ eicape.
+saw their footsteps. After some time, he caught up to them. "Have you
+two stolen my beads?" he asked. "No, not we. We have come from
+the other side; we have never seen you before." "Give me my beads,"
+said he. "No, we have not seen them." "Give me my beads, or I'll put
+you into my bag." He picked them up and threw them into his bag. Carry-
+ing them on his back, he ran along. He came to a pine-wood and ran under
+
+1 Tliis passage is obscure.
+
+
+262 Antkropological Papers American Museum of Natural History. [Vol. II,
+
+the trees. His prisoners took hold of the branches and climbed up the trees.
+Thus he lost his captives. When he arrived at his home, he looked into the
+bag. He found it empty and began to cry. The woman and her grandson
+ran home.
+
+15. Dzo'avits.
+
+A giant (Dzo'avits) was standing on a mountain and looked down a
+deep canon. As he was looking down, he barked like a dog. When Weasel
+WeaMi throws ^'^^^ ^^^ noise, he stole up behind the giant with a stick,
+slant over preci- Dzo'avitsi testes pendebant; juvenis eos baculo tutudit.
+^ ^* The blow hurt the giant; looking around he saw that it
+
+was his nephew, Weasel, who had played the trick on him. He wbhed to
+get even with the young man and said, "Look down where I was looking.
+There is a mountain-goat down there." When Weasel stooped, the giant
+tried to push him over, but Weasel did not fall in. He rushed behind the
+giant and killed him.
+
+Once a number of Indians were riding around Dzo'avits' dwelling. The
+giant looked up and turned his head in all directions. The horses shied.
+
+
+A great many Dzo'avits used to live in the mountains. They dwelt in
+stone houses and each one had two wives. Only a few
+
+aU^StS!*'''' ""' ^f ^^^^ ^^^^ ^^^ ^^"^ ^y ^^^ Weasels. The others
+were killed by five birds who built a big fire on the moun-
+tains. The Dzo'avits tried to run away; but it got very hot and they were
+burnt to death. Their houses were also consumed by the fire. All of them
+perished.
+
+16. Coyote and the Rock.^
+
+(a)
+
+Coyote was walking along a river. He came to a large white rock of
+which every one was afraid. In rupem minxit et cacavit.
+
+rock.^''** *^'*^* ^^^^ ^^ scratched the rock like a dog. He went away.
+After a while he looked back. The rock seemed to move;
+
+it was rolling after Coyote.
+
+» Kroeber, (a) 260-4. Louisa McDermott, 245-6. Grinnell, 166.
+
+
+1909.] Loime, The Northern Shoshone. 263
+
+Coyote thought, "That rock will never be able to catch me." He ran
+along, making fun of the rock. At first he ran along the slope of a hill.
+The rock followed him. He went down-hill again, and npuwued ben
+this time he was nearly caught. Mingebat, cacabatque for aid, hii pro-
+currens Canis. He ran through a narrow gorge. The *****^'* cruihed.
+rock shattered the rocks in its way and continued the chase. Coyote
+crossed a stream. The rock plunged in and followed. Coyote went through
+a wood. The rock made a path for itself by knocking down all the trees.
+Coyote did not know what to do. The rock was just behind him, treading
+on his tail and heels. He saw a Bear digging for wild-carrots. "Aunt," he
+cried, "this rock is going to kill me. Get behind me." Bear stepped be-
+tween them, standing up on her hind-legs. Rock knocked her to pieces.
+Coyote fled until he came to an elk. "This rock is killing me," he cried,
+"get behind me." The Elk got behind him, and raised his antlers against
+the rock; but the rock crushed him and went after Coyote.
+
+Coyote came to To'sa-ki'yacatsi (White + ?) "Brother,'' he cried, "the
+rock is killing me." To'sa-ki'yacatsi apparently paid no ii reicued, iiaTi
+attention to him. He was building a fire. When the rock savtor to tteal
+approached, he just pushed out his elbow and hit it. The ^ *"**"
+rock was shattered into small pieces. To'sa-ki'yacatsi had large beads on
+his elbow, which formed his medicine, and it was this charm that killed the
+rock. Coyote fell to the ground, completely exhausted. After some time
+he arose, walked around the hill and killed To'sa-ki'yacatsi by striking him
+with a stone. He then stole the charm and put it on his arm.
+
+Coyote now walked up-hill and got ready for a rock that might tumble
+down. A rock began to roll down. As it approached Coyote, he put out
+his elbow and it was split asunder. "This is nothing," ^p^^ charm on
+said Coyote. He went up higher and waited for a bigger other rocks, u
+rock to tumble towards him. The rock came down; but ^""^•^*
+before Coyote had time to stretch out his elbow, it crushed and killed him.
+Only his tail stuck out from beneath it.
+
+ib)
+
+Coyote met Fox and asked him where he got all his beads from. Fox
+said he obtained them from a rock which murmured, 'Kedzo't. "You
+can go there and take some beads; but you must pay the coyote warned
+rock something. If you do not, it will catch you in a against robbing
+trap." Coyote went to the rock, took some beads and ^^ '
+returned without paying. "You must pay the next time," said Fox, "or
+it will catch you." Coyote went again and again took beads without paying
+
+
+264 Anthropological Papers American Museum of Natural History, [Vol. II,
+
+for them. When he came the third time, he thought, "I will never pay,"
+and tried to seize some more beads; but the rock caught him in the trap.
+He howled for help. Fox came up and asked, "Friend, what have you been
+doing?" **I have been caught in a trap here." *'Did n't I tell you, you
+should pay for the beads ? I do not care to stay here for I might be caught
+myself." Fox went home and told the people what had happened.
+
+After a time, Coyote got his toes out and ran home. When he looked
+back, he saw that the rock was coming after him. He
+puwiwd.^*' came to a river and crossed it; but the rock also went
+
+across the stream. He thought, ''I am going to climb
+up a hill"; but the rock also climbed the hill. Coyote ran down-hill saying,
+"You can't come down to level ground; you can't jump into the river."
+Coyote jumped in deep; «till the rock followed in pursuit.
+
+At last Coyote saw a Snipe, who was digging roots. Coyote asked her
+Beioued by ^^^ help. She asked Coyote what was the matter and told
+
+Snipe. Origin him he had done wrong; nevertheless she consented to
+of rocks. ^y j^jjjj ''\jei the rock run over me," she said. The
+
+rock struck the Snipe; but she shouted, "Bo!" The Rock immediately
+broke up into many little rocks, which were scattered everywhere and are
+now seen in the Rocky Mountains.
+
+(c)
+
+Coyote was walking along a trail. He met his uncle Fox. "Uncle,
+Coyote wimed ^'h^'*^ did you get those beads, that gun-sack, and those
+Mrainst oiashing fine ear-rings?" asked Coyote. "From a large rock
+rock. which continually opens and closes, saying 'Kidzo'tal'
+
+You must not go there; he will catch you. Keep on walking on your trail."
+Coyote walked straight towards the rock. Fox was watching him. "My
+nephew does not believe what I said. He is going there."
+
+Coyote approached the rock and heard the noise it was making. "I'll
+
+go and see it," he thought. He saw the beads, and took
+
+retel^d'byFo^^ some. The rock closed and caught him. "Unde,
+
+come quickly! The rock has caught me," screamed
+
+Coyote. Fox returned. Coyote cacabat. Fox said, "Rock, open."
+
+The rock obeyed and Coyote was liberated. He was tired.
+
+"Nephew, said Fox, "there is another large round bowlder with plenty
+
+of beads. You can take everything there, only you must
+
+ro^^*** "^^^^^^ behave decently." Coyote went towards the mountains.
+
+"Where is that big rock my uncle spoke of ? " He followed
+
+a trail and found the rock. He seized the beads, dressed up handsomely
+
+and began to dance. "I wish to dance," he said. He took a gun-sack
+
+
+1909.] Lotuie, The Northern Shoshone. 265
+
+and danced with it. Finally he ceased dancing. In rupem minxit, cacavit-
+que. Excrementa canis more in rupem miguibus impressit. He walked
+away saying, "That rock can never track men; it must stand still forever."
+After a while. Coyote looked back and saw the rock moving. He began
+to trot. The rock came up very fast. Coyote thought, *'A rock cannot
+run along a slope." So he ran along the hillside, but the rock nearly caught
+up to him. "How can a rock run in a brush ?" he asked; but the rock still
+pursued him. Coyote was exhausted. "How can a rock ascend a moun-
+tain-stream?" he asked, but the rock was still following puwued ret-
+his footsteps. Coyote was completely worn out. He cued by Night-
+saw a Ka'wi (a bird). "Uncle," he shouted, "stand *^^^*
+behind me." The bird did as he was biddea; but the rock ran over and
+killed it. Coyote saw a Crane. "Uncle," he yelled, "get behind me."
+The Crane tried to shield him; but was run over and killed. Coyote caca-
+bat. A rattlesnake was lying in his path. "Uncle, help me," shouted
+Coyote. The rattlesnake got between him and the rock, and hissed at it;
+but was crushed to pieces. The rock was now very close. Coyote saw
+the Night-hawk (Whippoorwill ?) "Uncle Night-hawk, get behind me I"
+When the rock came up, the Night-hawk screamed, "Bo!" and the rock
+broke up. Coyote was lying panting on the ground. Nighthawk said,
+" Rocks are not powerful. As soon as you say "Bo, " they burst up." Coyote
+then walked up a hill; but before he had time to say "Bo," a rock tumbled
+down and crushed him.
+
+17. The Bungling Host.*
+
+Coyote was living there. "I am going to eat at my brother-in-law
+Owl's lodge to-morrow," he said. The next morning he
+went to the Owl. Owl took his awl and stuck it in his ^^ towate c^.
+eyes so that the grease trickled down into a willow basket.
+He gave the grease and some of his own flesh to Coyote. Coyote ate and
+went home. "To-morrow," said the Owl, "I shall eat with my brother-
+in-law Coyote." Owl went to Coyote. Coyote took his awl, stuck it in
+his eyes, and allowed the grease to drip into a willow basket. He also cut
+some flesh from his breast and gave it to Owl. Owl did not like it. "I
+have had plenty to eat already," he said, "I don't care to eat now."
+
+"To-morrow," said Coyote, "I shall eat with my brother-in-law, Wido'tc
+(a bird)." He came to Wido'tc's wikiup. Wido'tc took coyote and
+
+his arrows and stood outside. He told the birds to come Widotc.
+
+nearer. He killed many of them, cooked them and gave the food to Coyote.
+
+» Cf. Teit. 40-2. Matthews, (b) 87-8. Schoolcraft, (b) 43-7. Kroeber, (a) 264r-8.
+
+
+266 Anthropological Papers American Museum of Natural History. [Vol. II,
+
+Coyote ate; when he was through eating, he went away. Wido'tc said,
+"To-morrow, I am going to eat with my brother-in-law Coyote." He
+arrived at Coyote's lodge. Coyote took his arrows; he went outside near
+the willows. He tried to lure the birds, saying, **Wid<itI WidtitI Widut!"
+Only a few perched on the willows. He killed them and cooked them.
+He gave the food to Wido'tc. Wido'tc ate it.^
+
+"To-morrow, I am going to my brother-in-law Jack-rabbit," said Coyote.
+
+He got there. Jack-rabbit went out. He gathered plenty
+Jack^abm^ ^^ dead wood. For a long time, he sat down. He made a
+
+fire, cooked a brown rabbit, and gave it to Coyote. Coyote
+ate, and went home. Jack-rabbit said, "To-morrow, I am going to my
+brother-in-law Coyote's to eat." Coyote went out and brought in dead
+wood; but put nothing in the fire to cook for his guest.
+
+"To-morrow, I am going to eat with my brother-in-law Beaver," said
+
+Coyote. He got there. Beaver took a stick and killed
+Bea^. "* ^^^ sons. He cooked them and gave them to Coyote.
+
+When Coyote was through eating, he went home. At
+nightfall, he threw the bones of Beaver's sons into the water. "To-morrow,"
+said Beaver, "I shall eat with my brother-in-law Coyote." He got there and
+sat down. Coyote took a stick, killed his sons, cooked them and gave them
+to Beaver. Beaver did not like the food. "I have had plenty to eat this
+morning," he said, "I will not eat anything now."
+
+Coyote said, "I am going to eat with my brother-in-law. Otter." He
+got there. Otter dived deep into the water, and got out some fresh salmon
+
+which he boiled and gave to Coyote. Coyote went home.
+Otter^^ "* "To-morrow I shall go to my brother-in-law Coyote,"
+
+said Otter. He got there. Coyote gave him some stale
+salmon. Otter did not eat them.
+
+"To-morrow, I am going to eat with my brother-in-law Deer," said
+Coyote. He went there. Deer took his arrows. He shot one up into the
+
+air so as to hit himself. Then he took out his own fat
+^^^yo an ^^j flesh, cooked it, and gave it to Coyote. Deer said,
+
+"To-morrow I am going to eat .with my brother-in-law
+Coyote." He arrived there. Coyote took his arrows, shot himself, cooked
+his flesh and offered it to Deer. Deer did not like it. "I have eaten plenty
+this morning," he said, "I don't wish to eat now."
+
+Coyote wished to eat all of Deer's flesh. He wanted to kill him. There
+
+was a dance going on. Unseen, Coyote stuck an arrow
+jj^^^ * into Deer and killed him. Then he advised Deer's rela-
+
+tives to throw the corpse into the water. Coyote and his
+son watched for the floating body. They seized it and ate it up.
+
+> This is manifestly inconsistent with the rest of the story.
+
+
+1909.] Lowie, The Northern Shoshone. 267
+
+18. Porcupine and Coyote.^
+
+Porcupine was walking along. He was trying to track buffalo. He
+saw some fresh excrements and followed the trail until he arrived at the
+bank of a stream. The buffalo were seated on the other Porcupine
+side. Porcupine shouted across, "Carry me over the crawls into Buf-
+water." One of the buffaloes inquired whether Porcu- ® * paunch,
+pine meant him. '*No, I mean another one." Again he shouted, ''Carry
+me across the water." "I?" asked another buffalo. ''No," replied Por-
+cupine, "I am looking for another one." (This dialogue is repeated several
+times.) At last a very fat buffalo asked whether Porcupine meant him, and
+Porcupine quickly answered, "Yes, yes, yes." The buffalo crossed the
+stream. "(Jet on my back," he said. "No, I am afraid, you might shake
+me off." "Well, sit on my horns." "No, you might throw me into the
+water." "Get into my nostrils." "No, you might sneeze, and I would
+fall into the river." "Well, crawl into my rectum." "That is well," said
+Porcupine, "when you come to some good grass you may defecate and drop
+me there." He crawled into the buffalo's rectum.
+
+The buffalo started across the stream. When he got to the other side,
+he looked about for some good grass. Then he defecated mjjg D^amo
+
+and dropped the Porcupine to the ground. For a short leeks knife to
+time he stood still, then jumped up and fell dead. Porcu- *^
+pine had killed him while he was inside. "With what," asked Porcupine,
+"shall I skin my buffalo?" Coyote heard what he was saying, and ap-
+proached him. "What is it you want, Uncle?" "Oh, I was just saying,
+*What am I going to cut my willows with?*" "No," said Coyote, "you
+were saying something else. I heard it. You said, 'What shall I cut my
+buffalo with ? ' " "Well, I have killed this buffalo right here."
+
+Coyote offered to help him skin it. Then he said, "Uncle, whoever
+outjumps the other, will skin him." Porcupine agreed. Then Coyote
+jumped first; but he only landed on the middle of the j^^^g buffalo
+buffalo skin. Porcupine leapt clear across, and claimed in jumping con-
+the victory. "No," said Coyote, "the one who wins in *~* ^*^ ^''^''**-
+the second trial, shall be the winner." This time Coyote jumped far across,
+while Porcupine only reached the middle. So Coyote won and skinned the
+animal. As he was cutting out the guts, he called Porcu- ^^^^ ^^^ ^^^^^
+pine and said, "Uncle, go, wash the breasts, but don't eat i» killed by Coy-
+anything." Porcupine went to the stream with the flesh. ® "
+There he washed it, began singing and ate it up. When he was through,
+
+1 Of. Kroeber, (a) 270-2. Dixon, (b) 83. George A. Dorsey, (b) 271. Gushing, 243.
+Spinden, 21, and footnote.
+
+
+268 Anthropological Papers American Museum of Natural History. [Vol. II,
+
+he returned to Coyote. "What is the matter, Uncle? You have eaten it
+up." "No," replied Porcupine, "while I was standing there, a water-
+bug asked me to let him have some and I gave it to him." "Well, I'll
+go and ask him," said Coyote. He walked to the stream and asked the
+water-bug. The water-bug said, "No, I asked him for some; but Porcu-
+pine did not give me any." Coyote was furious. When he came back,
+he seized a stick, struck Porcupine with it and killed him. Then he dug a
+hole in the ground, put all his buffalo meat inside and covered it up. He
+threw the Porcupine's body aside et in eins corpus cacavit. Coyote walked
+
+homewards. As soon as he had left. Porcupine arose.
+tr2*with V^S?.^* Coyote saw him and struck him with his stick. Then he
+
+walked homewards again. WTien he had turned his
+back. Porcupine arose; but Coyote's excrements shouted after Coyote, telling
+him to return. Coyote came back and again killed Porcupine with his
+stick. Iterum in eius corpus cacavit. Nevertheless, when Coyote had
+left, Porcupine again got up. The excrements summoned Coyote; but he
+had gone too far and could not hear them. Porcupine dug up all of Coyote's
+meat. He went to a pine-tree. "Pine-tree, grow!" The pine-tree grew
+up higher. Then Porcupine leapt on the tree with his meat.
+
+The next morning. Coyote returned to fetch his meat. He did not find
+anything in the hole. His children, one boy and two girls, came running
+Dropi buffalo ^lo^^g- Suddenly Coyote looked up the pine-tree and
+ktlUng Coyote detected Porcupine far up. "Give me my meat," he
+"* * • shouted. Porcupine threw half the buffalo down; but in
+
+such a way as to kill all the Coyotes except the little boy. Then he climbed
+down and took the boy with him. He boiled his buffalo-meat and gave
+some to the boy. The boy ate it very quickly. When he was through
+eating, he asked Porcupine, "Where can I ease myself?" "Right there,"
+said Porcupine. While he was easing himself. Porcupine shook him.
+The boy burst up. Thus Porcupine killed the Coyote family.
+
+
+19. Skunk.
+
+Eagle was Skunk's younger brother. Eagle was hunting all day. He
+killed some elk and deer. While he was away, ten Frog-women came to
+
+Eagle'i women ^^^ lodge to marry Skunk; there also came five Rabbit-
+interoepted by women who wanted Eagle for a husband. Skunk kept
+
+" * the Rabbits for himself and put the Frogs under Eagle's
+
+bed. At night Eagle returned, bringing some deer. He asked Skunk to
+cook the meat. After preparing the food, Skunk gave all of it to the Rabbits.
+
+
+1909.] Lowie, The Northern Shoshone, 269
+
+Eagle asked, *'What have you done with all the food?" "I have eaten it
+all because I was very hungry." When it got dark, they went to bed. Sud-
+denly Skunk laughed. Eagle asked, **What are you laughing at?'* He
+said, "Nothing, a mouse was running over my face," The Frogs woke up
+the Eagle. They said, ** Those Rabbit-women are yours; they came to
+marry you. We are his wives." The Eagle gave them some food and the
+Frogs left.
+
+The next morning, Eagle bade Skunk prepare some food. Then Eagle
+proposed that they should get some game he had killed. Skunk did not
+believe he had killed any; but at last he agreed to go. They found some
+elk. Eagle said, "I forgot my gun; I'll go home to get Eagle flndi
+
+it." Skunk wanted to get it for him ; but Eagle said, them and fleet
+''No, you can't run as fast as I." Then Eagle returned "^^^ *''*°''
+and found his wives under Skunk's bed. He went away with the five women
+and sat down on the top of a high rock.
+
+Skunk ran home. He did not find his wives there. He decided to kill
+Eagle. He looked for him everpv^here and got very
+tired. He lay down in the shade. He was thirsty and ,^^. ^^^^ ^^^
+walked to a brook. As he looked into the water, he thought
+he saw the Eagle and the women there; so he squirted his filth at them,
+blowing away the water. But it was only the reflection of the fugitives in
+the water. At last, he beheld them on the rock. He asked Eagle to give
+him the youngest woman. Eagle answered, "No, she is my best wife."
+Skunk said, "Well, brother, give me any one of them." Eagle refused.
+Then Skunk asked, "How did you climb up there? Is there any way to
+climb to that rock?" Eagle replied, "I climbed up with my head down and
+my feet up." As the Skunk began to climb. Eagle thought he might knock
+off his anus. He hit it with a red-hot rock. Skunk fell into the water
+and his anus floated away.
+
+Skunk got out alive, but he could not find his anus. He looked for it
+do^Ti the river. He asked a woman who lived there,
+"Have you seen my anus?" He went down and asked coveriit^^*' "^
+all the people who lived on the banks of the river. One
+woman said, "Some Indians are keeping your anus over by the mountain."
+He walked in that direction and met a meadow-lark. Skunk asked him,
+"Where is my anus?" The bird answered, "An orphan-boy is playing
+with it continually. When he does not play vdih it, he always cries; as
+soon as he gets it, he is satisfied." Skunk went on until he saw the child
+playing with his anus. The boy was throwing it in the air and it looked like
+a fire in the night. Skunk watched very closely, seized the anus, and fled.
+The child cried and the Indians searched for the anus, but failed to find it.
+
+
+270 Anthropological Papers American Museum of Natural History. [Vol. 11,
+
+Skunk now turned back. He met many Indians, and killed them all
+with his filth. Then he robbed them of their heads and their other orna-
+ments. He walked on and met other Indians^ whom he killed and robbed
+
+in the same way. When he came to the next village, a
+it iiain by w^^ ^^^^ recognized him. Five wolves watched him when he
+
+got there. He sat down. They saw the beads that he
+had stolen from the dead Indians and decided to punish him. They walked
+up behind him and stepped on his tail. Skunk said, "Let me alone, breth-
+ren." One Wolf said, "Let us kill him." They seized his tail and toes.
+He cried, "Let me loose and let us fight. This is a woman's way of acting;
+a man would not kill another like this." But they paid no attention to
+what he said and killed him.
+
+
+20. Skunk and Coyote.
+
+Long ago Skunk's odor was very powerful and could kill a passer-by.
+
+Skunk had killed all the Indians and was going to Coyote. Coyote was
+
+standing on a hill, making arrows. Skimk and Coyote
+
+by^coyote.**^^*** *old stories to each other; then Coyote said he would
+
+run home first and Skunk should follow later. Then
+
+everything would be prepared for his reception.
+
+When Coyote got home, he poured melted pitch on his blanket and
+Coyote kms turned the hairy side up to deceive his visitor. When
+suett, outi off Skunk had entered and was about to sit down, Coyote
+"*^* turned the pitched side up so that Skunk stuck fast to the
+
+blanket. Coyote pushed him about xmtil his anus was completely filled
+with pitch. Skunk said he would go out to ease himself. He tried to squirt
+out his excrements, but did not succeed. He tried very hard. Then Coyote
+came out with a club and killed him. He cut off the Skunk's anus and gave
+it to the Indians.
+
+All the Indians made spears. They began to play with Skunk's anus,
+Indians ipear throwing it into a creek and spearing it. They riddled it
+anut. Skunk ro- with holes. Skunk woke up again. He started after
+covert It. ^j^^ Indians. When he had traveled many days, he arrived
+
+at the bank where the Indians were playing. He joined them and com-
+menced to spear his o\\ti anus. He dug two holes in the ground, one straight
+down, the other in a crooked line. The Indians could only see the hole that
+went straight down. Skunk descended through the other hole and re-cap-
+tured his anus. The Indians tried to catch him by poking down the straight
+opening; but failed to touch him. Skunk shouted up that he was very
+
+
+1909.] Lowie, The Northern Shoshone. 271
+
+far away. Then they said, "He is too far down, we can't get him," and let
+
+him go.
+
+After some time had elapsed, Skmik came up begging for an awl and
+
+sinew to sew his anus together. He mended it in the
+
+Anut mended,
+sunshine. When some birds perched on a tree above him,
+
+he tried his power on them by squirting up his excrement. It did not work
+
+well. He was only able to kill a single one. This is how Skunk came to
+
+lose the power he used to have.
+
+
+21. Skunk and the Mountain-Lion.
+
+Skunk found a dead mountain-lion. "What is the matter?" he asked.
+" Is he really dead ? He cannot be dead very long." Skunk stood up straight.
+*'I am not afraid," he said. "Not even a great number of enemies can hurt
+me. Fire cannot kill me and water cannot kill me. The only thing I am
+afraid of is whistling." Skunk took Mountain-Lion on hb back, w^here
+he also carried his arrows in a quiver. Suddenly Moxmtain-Lion began to
+whistle. Skunk was badly frightened, threw him off and ran away. Moun-
+tain-Lion went to lie down on a rock; Skunk fled to the Mountaln-Lion
+brush and began to sing. After a while, he came out. piayi trick on
+"That scoundrel, Mountain-Lion, has broken my quiver."
+he said. He was furious and went to track his enemy. Mountain-Lion
+saw him coming from the top of his rock. Skunk shot at him again and
+again, but missed him every time. Then Mountain-Lion proposed that
+they should tell stories to each other. They got good wood and built a fire.
+In the morning, Mountain-Lion told Skunk to get up so they could tell
+stories to each other. Mountain-Lion caught up the firewood, put it in
+a bag and went away. Skunk woke up, seized his arrows and shot at
+Mountain-Lion, but failed to hit him.
+
+
+22. The Bull-Frog and the Elk.
+
+A Bull-Frog once carried away Elk-woman's son. She brought him up
+for a year as her own son. In the spring, when the grass was getting green,
+she made arrows for her foster-child. "My boy, take these arrows, and go
+out hunting." The Elk-boy went away and noticed a
+hi'to (a bird). He aimed at it and shot repeatedly, but elk?^ eUt escaj«i*
+missed every time. Hl'to approached him and said,
+"That Frog-woman has only stolen you. Your real mother lives in the
+
+
+272 Anthropological Papers American Museum of Natural History. [Vol. II,
+
+mountains. Go to her." The Bull-Frog was looking for the little Elk.
+"Come here, my boy. Suckle my breasts." Hi'to said, "Don't listen to
+her. Go to the mountains. Your mother lives in the moxmtains." The
+boy ran away with the bird. Frog-woman gave chase, but soon got tired
+and returned home.
+
+Hi' to stopped on the way and told the little Elk to proceed. "You will
+see some fine spring-water on your way, but dotiH drink it. Go straight
+EUc drlnki of ^P *^^ mountains and find your mother." The Elk went
+forbidden spring, on alone. He came to the spring. "I'll take a good
+loiet teeth. ^^.j^j^ ,, j^^ thought. When he had drunk, all his teeth
+
+fell out with the exception of the two big teeth which may be seen to-day.
+
+23. Coyote Tales.
+
+(a)
+
+Coyote met Fox, who was eating yampas. * * Uncle, what are you doing ? "
+asked Coyote. "I am pulling up yampas wdth my tail. When I want to
+pull up a great many, I put my tail deep in the ground." "Well, I'll try
+Coyote pulled this," thought Coyote. He went to a place where the
+underground by yampas were growing. He put his tail in, pulled out
+^^''^ " yampas and ate them. He w^ent along. He wanted to
+
+eat yampas again and put in his tail very deep. This time he could not
+pull it out. "Wai, wai, wai," he shouted, "Uncle!" Coyote went down
+until he was completely underground. The yampas pulled him in.
+
+(b)
+
+Fox was eating roots. *'How do you get roots from the ground?"
+Coyote asked him. "I stick my tail in." "Show me how you do it." Fox
+showed him and said, "You must not put it in too deep, or you will never
+get it out again." Coyote put in his tail; but it was too deep in the ground,
+and he could not get it out. He cried, "Wai, wai, wai." Fox asked what
+was the matter. He let Coyote dig away for several years; finally he
+helped him out. Then Fox went westward. When he w^as gone. Coyote
+got his tail into the ground again and was killed.
+
+ic)
+
+Coyote was li\4ng in a grass-lodge with two young women. One day one
+of them asked him why he did not go out to hunt buffalo. He agreed to go
+
+
+1909.J Lorvie, The Northern Shoshone. 273
+
+and asked them to hand him his bow and arrows. The girls promised to
+tan the hides. Coyote pursued a buffalo herd, but was only able to kill
+one miserable buffalo. The women went away to skin it. coyote bUnd of
+''Well, Coyote," they said, "you have killed a fine one I" on© eye, aban-
+"I could not kill any more," said he, "because my feet ^^^ ^^ *^^*'
+were sore." When they got back to the camp. Coyote asked his wives to
+make buckskin shirts for him. One of the women noticed that Coyote used
+only one eye. When he slept in the day-time, he covered one eye with a
+weaselskin. The girl removed the skin and saw maggots coming out of
+the eye. Both the women ran away. When Coyote woke up and saw that
+his wives were gone, he went in pursuit of them. He found them standing
+on a cliff; but as he was climbing up, they shook their bells. Coyote fell
+down and was killed. After a while, they looked down. "What are you
+domg down there?" "I am just eating the marrow of a mountain-lion.
+Join me." But the women said, "You blind old beast, we have had enough
+of you."
+
+(d)
+
+Wolf asked Coyote whether he was still in the habit of winning every
+
+game he played. Coyote answered that he was. Wolf then asked him to
+
+play ball against some Indians. "How much shall I bet on your winning ?"
+
+"Stake everything you have; we two shall surely win." . Coyote was soon
+
+tired out and lost. "What is the matter? why can't you run?" Wolf
+
+asked him. "I am tired," said Coyote. They lost the
+
+. LoMt cunet
+
+game. Wolf said, "Let us have an arrow-shooting game. throuch bUnd-
+
+You must play as well as possible, for I am betting all I '^■•» ®**'^ ^^
+
+have." Again Coyote lost. When Wolf asked what
+
+made him lose, he said he had worked too much and was worn out. Then
+
+Wolf made him play the game of arrow-throwing, but Coyote was beaten
+
+again. "The trouble must be that he can't see," thought Wolf. When
+
+Coyote was asleep, Wolf took off the weaselskin covering his eyes, and saw
+
+the maggots crawling in there. "That's why he can't see," he said. Wolf
+
+made little arrows and killed all the maggots. Then he went off and killed
+
+a mountain-sheep. When he came back, he inserted the mountain-sheep's
+
+eyes in place of Coyote's sore eye. Now, they played the games over again
+
+and wagered all their property. They won every time, because Coyote had
+
+good eyes now.
+
+(e)
+
+Coyote was walking along the hills. In the evening, he met two women
+who were gathering seeds. Coyote assumed the appearance of a woman.
+
+
+274 Anihropological Papers American Museum of Natural History, [Vol. II,
+
+In the night, they all slept together. Nocte Canis assidue copulavit. At
+Ditffuiied M a ^^^'^ Coyote left. When the sun rose, the women got up.
+woman, iiaept "Where is Coyote gone?" they asked each other. 'They
+women. washed their faces and ate some food, then they continued
+
+their jouraey. As they were walking along, they did not know what made
+them feel so queer. Gravidae erant. Coyote had made them conceive.
+On that day each gave birth to a child.
+
+(/)
+
+In the fall, Coyote and Wolf were chiefs. Wolf asked all the Indians
+to meet in a council. They were to decide how many spring months there
+should be. Coyote declared that spring should last ten months. A little
+bird (To'tsegwe) said, "Let there be three spring months." All the Indians
+shouted, "Yes, three months will be long enough." To'tsegwe went outside.
+Coyote was furious, because the Indians decided against him. He seized
+Duration of ^ ^*^^^ *^^ attempted to kill the bird, but missed him.
+spring ftoter^ As he pursued To'tsegwe, Rattlesnake, who was To'tse-
+
+gwe's friend, came out from a hole and began to hiss.
+Coyote was badly frightened and fled back to Wolfs camp.
+
+(9)
+
+The ground-hogs were running down the mountains. Fox watched them
+
+as he was lying down. They ran towards him, and he killed two of them.
+
+While he was cooking the ground-hogs. Coyote came up and proposed a
+
+race. "Let us run a race around the mountains, with stones tied to our
+
+feet. The one who arrives first shall eat all of the food."
+Coyote outrun. _ 11.11 1 . • 11
+
+1^ ox agreed, they tied the stones to their feet and began to
+
+run. Fox arrived first and won. He ate up all his food and did not give
+
+any to Coyote.^
+
+(h)
+
+An old woman was living with her grandson. They used to catch buffalo
+
+in a hole. All that time Eade was chief of the Indians.
+Poor Boy wlni ,, , , , , 1 . 1 . ,
+
+Chief'i daughter, He had two daughters and promised to give one of them
+
+robbed by Coyote, in marriage to any one who would kill a fox.* The old
+
+woman's grandson killed the fox and all the people were
+
+saying, "The poor boy has killed it." Eagle took him to his house, where
+
+
+1 Cf. Wi&sler and Duvall, 28.
+
+2 Dorsey and Kroeber, 348, 372.
+
+
+1909.] Lowie, The Northern Shoshone. 275
+
+he slept with the chiefs older daughter. Nocte in lectum minxit et uxor
+eum expulit. He cried and went far away. He found a blanket and
+put it on. Then he found red paint and painted his face with it. He
+found beads. At thl same time, he was growing continually bigger and
+bigger. He found an otter-skin and put it on like a sash. Then he returned
+to the camp and married Eagle's younger daughter. Crow now married
+the other girl; his beak hung down her shoulder in the night. The boy
+always carried a bird on his head. Once his grandmother sent him to the
+buffalo-hole. He met Coyote there and made friends with him. Coyote
+let him down into the hole. He asked the boy for his blanket and the boy
+gave it to him. Then Coyote asked him for all his clothes and weapons,
+one by one, and the boy gave him everything. Coyote went to Eagle's
+family and married the boy's wife. Coyote was now carrying the boy's
+bird on his head; but the bird was always crying. The boy's grandmother
+went to the hole and helped him out. The boy went to his wife's lodge and
+sat down outside the entrance. When his bird saw him, it cried out and,
+leaving Coyote's head, flew to the poor boy's. Coyote was obliged to give
+back everything he had taken away from the boy.
+
+(i)
+
+Coyote was passing along the bank of a river. He noticed a dam pre-
+venting the salmon from going through the stream.
+"How can I remove the dam?" he thought to himself, guiwed as baby.
+
+He made a boat and wished he would become a baby.^ adopted by wom-
+
+6x1; fridt salmon.
+Straightway he changed into a baby, lying in a boat near
+
+the dam. Coyote began to cry. Five women heard the noise. "Some
+
+Indians must have been drowned," they said, "there is a baby floating on
+
+the water." They swam over to Coyote. They agreed that the one who
+
+got there first was to keep the baby and bring him up. The oldest one beat
+
+the others 'and henceforth nursed Coyote when he cried. Whenever the
+
+women went out to dig roots, they left Coyote home. One day, while they
+
+were gone, he made five pointed sticks and tried to dig out the dam. Four
+
+of the sticks broke, but with the fifth ^ he succeeded. When the women
+
+returned and saw what he had done, they whipped him. In the night the
+
+boy went away. When he arrived at the river bank, he was very hungry.
+
+He said to the salmon, "I took the dam out for you; come over to me."
+
+One of the salmon swam towards him and Coyote killed it. Then he made
+
+a fire and cooked it. As he sat by the fire, he fell asleep.
+
+
+1 Spinden, 15. Goddard. 125. Also found by Mr. Sapir among the Wishram.
+* The occurrence of five as the mystic number is noteworthy. Vid. Spinden, 13.
+
+
+276 Anthropological Papers American Museum of Natural History. [Vol. II,
+
+While Coyote was sleeping, five wolves appeared, ate up his salmon,
+NoM puUed by changed his nose to its present shape and went away.
+Wolveg; retmu- When Coyote awoke, he found that his salmon were gone.
+He was thirsty and went to the water. He saw his re-
+flection and was so terrified by the appearance of his nose that he could
+npt drink at all. He defecated and asked his excrements what had hapn
+pened. The excrements answered. "The Wolves are to blame for it.
+They changed your nose and ate up your food." Coyote tracked the
+Wolves, whom he found sleeping with ducks' eggs before them. Then
+he raised their noses, changed them to their present form and walked off
+laughing. He watched them from a hill-top. When the Wolves woke up,
+they looked at each other and laughed. Coyote also laughed at them and
+went away.
+
+Coyote came to a tent. He looked inside and saw a giri, who was the
+chief's daughter. She was very sick because she had stepped on an elk-
+Cupei and mir- ^^^n. Coyote went in and spoke to her. She told him
+rtoi obief' I daush- how the Indians had left her alone when they broke camp.
+Coyote made medicine and cured her. When she was
+well, they married. After a while, they caught up with the giri's tribe and
+journeyed with them. One evening Coyote proposed a dance. In the
+night, they began to dance. While Coyote was dancing another Indian
+stole his wife. Coyote did not find out until morning, when some of the
+people told him. He said, "This is what we shall do hereafter; we will
+steal one another's wives." This is why the Indians steal one another's
+wives now.
+
+(i)
+
+Coyote was walking along and met an old buffalo. He made fun of
+him and urinated on him, then he walked over the hills. When he turned
+back, he saw the buffalo pursuing him. Coyote laughed,
+ab^'bufl^.*"* "You can never catch me," he cried. The buffalo con-
+tinued running after him and after a while Coyote was
+tired out, so that he was nearly caught. Coyote ran around a large rock,
+took out his pipe and said, "Let me alone, let us smoke." He Ut his pipe
+and put it in Buffalo's mouth. In this way, they became friends, lliey
+sat down and smoked. Buffalo said, "Some one stole my wives. That is
+why you found me sitting there. Then you came and urinated on me.
+The others have scratched me all over my body." Coyote said, "I shall
+give you horns," and he made horns for him as well as he could. Then they
+tracked Buffalo's enemies. Wlien they got close to them, Coyote sat down
+on a hill, while Buffalo went to the Indians. He fought them and tore open
+
+
+1909.] Loivie, The Northern Shoshone. 277
+
+their stomachs. He killed them all and recovered his wives. Then Buffalo
+said to Coyote, "What am I going to give you for these horns ? I will give
+you one of my wives." Coyote went away with the woman, but when he
+got hungry he killed and ate her. He walked along and met a bear. The
+Bear pursued Coyote. Coyote ran crying, '*You can never catch me."
+After a while, Coyote was tired and the Bear nearly caught up. Coyote
+ran behind a big rock, where he saw buffalo horns. He put them on his
+head and now he pursued the Bear.^^
+
+^ ' : ' ■ (k) .
+
+Coyote said, "Let us go against our enemies." His party started out
+and arrived at an Indian village, of which Eagle was chief. Coyote proposed
+a water-game and the chief agreed. Beaver was to dive for Coyote and
+Duck for Eagle. The one who could remain under water ooyote'i coin-
+longer than the other was to win. In the middle of the panioni defeat
+water, there was a boat which had sprung a leak. Coyote ******" ** f»ni6i.
+put his nose in the hole. All the people watched the divers. After a long
+time Duck's stomach burst and Beaver won. Then they had a wrestling
+match. Eagle's side was represented by Mole-woman, Weasel was to
+wrestle for Coyote. Weasel threw Mole-woman and her stomach burst.
+Coyote's party won. Eagle proposed another game. The people made
+bread and cooked all kinds of food. Coyote said, "Let Rat play for us."
+Eagle had Floating-ice to play for him. Both commenced to eat. Ice's
+stomach burst and Rat won. Next they were going to have a race. Diibii'-
+simuk (a little bird) was to run against Coyote himself. They ran to the
+other side of the mountains and back again. Coyote got back first and
+won. He had won every game. He went home.^
+
+Some time after this, Coyote went away again with Fox. When they
+arrived at another village, they built a fire. The people coyote and Fox
+asked them what they came for. They answered, "Let loie race, are
+us run a race. Whoever loses, shall lose his head." The
+people agreed to run the next day. Magpie raced against Coyote. They
+ran to the other side of the mountains. Magpie was far ahead. When
+Coyote arrived at the goal, the Indians said, "Now we shall cut your head
+off." Coyote said, " No, wait till we have swum." They did not listen to
+him. They had already cut off Fox's head. Now they seized Coyote and
+killed him in the same way. Thus they killed both.
+
+
+1 Cf. Boas, (b) 6. The last incident occurs as a separate tale in Cree and Assinibolne
+mythology. Cf. Wlssler and Duvall, 32.
+
+* Farrand, 102. Also found by Mr. Sapir among the Wishram.
+
+
+278 Anthropological Papers American Museum of Natural History, [VoL II,
+
+(0
+
+Below Teton Basin, an old woman was sitting with a willow basket,
+which was filled with water and salmon. One night Coyote came to her.
+He took some sage-brush and made the Andavits (Indians hostile to the
+
+Shoshone) out of it. Then he told them that he wanted
+M^on!^ ^^'*'**** to stay with the old woman that night; the next morning
+
+they might come after him. Coyote slept there. In the
+morning the Andavits arrived. Coyote got up, upset the old woman's
+willow basket with his foot and thus liberated the salmon. The water
+flowed down with the fish to fill the bed of the salmon-stream. Below Ross
+Fork, Coyote put up two large rocks, so that the fish could not descend any
+further. He was tired from running after them and sat down. Then he
+told them that they must come up the stream every spring.
+
+(m)
+
+An old woman was sitting with a willow basket filled with salmon.
+Coyote came to her tent. She boiled one fish for Coyote. Coyote ate it
+and liked its taste very much.. When he had finished eating, he stepped on
+the edge of the basket so that the salmon fell out and began to float down to
+Ross Fork Creek. Coyote ran along the bank till he got to a waterfall.
+There he made a dam to stop the fish, but the water broke the dam. Coyote
+ran down further and made another. Then he said to the salmon, "Every
+spring you must go up the mountains and spawn." That is why the salmon
+come up here every spring.
+
+(n)
+
+Coyote was walking along. A white trickster was riding about on horse-
+back and rode over Coyote, who transformed himself into an Indian. The
+White man told him he was looking for Coyote, the Indian trickster; he had
+heard that Coyote was near-by. Coyote said he had seen him (i. e, himself)
+
+on the other side of the hill. **Let me have your horse
+tricSi^.^^** and I will bring him to you immediately." The White
+
+man agreed. Coyote rode away, but returned after a short
+while. He said the horse had refused to go on, because it did not see the
+shadow of the White man's gun. The White man gave Coyote his gun
+and Coyote departed. After a while, he came back, saying the horse had
+turned around, because it was used to seeing the White man's hat. The
+White man gave Coyote his hat and Coyote rode away. He came back
+once more, because the horse was used to feeling the weight of the WTiite
+
+
+1909.] Lovjie, The Northern Shoshone, 279
+
+man's coat. Then the White man gave Coyote all he had; he was stark
+naked now. Coyote kicked up the horse and said, "You wanted to fool
+me, but I have fooled you, the White trickster." The White trickster
+began to cry.
+
+(0)
+
+Coyote had a brown race-horse, which he had made out of a jack-rabbit.
+He rode off to another tribe. Here he saw the Whites g^jj^j j^^^^
+beating the Indians in a horse-race. Coyote joined and which turnt into
+defeated the best of the white horsemen. Then he ex- '*
+changed horses with the White man, who tied Coyote's horse to one of his
+own. During the night, the White man lay awake, thinking of his new horse.
+Before sunrise he got up to look at it. He saw only one horse where he had
+left two. When he got closer, he saw that his old horse was tied to a
+jack-rabbit.
+
+Coyote killed the horse obtained by trading with the White man, ate it
+and continued to walk along. He was carrying a bundle on his back.
+The White trickster met him and asked whether he had any moccasins to
+sell. Coyote answered he had, but they were only intended
+for the use of persons with whom he had intercourse. tnokiter.
+
+Ablatis vestimentis, corpore flexo, Canis in eius anum
+subulam inseruit. The blood began to flow and the White man was killed.
+Such is the way of Coyote.
+
+(p)
+
+Long ago, when all the Indians lived together, they frequently had horse-
+races and always defeated the other side. Coyote once transformed a red-
+willow stick into a pinto horse, on which he rode to one of the race-grounds.
+He approached the losing side. At last one of them said, "Why don't
+we try our friend Coyote's horse?" Coyote consented. g^^ j^^^^
+They wagered blankets on the success of the horse. Coy- which turni into
+ote exhorted the rider to whip it only with his left hand. '^*^<*^-«**<^^*
+The pinto horse won the race. Then one of Coyote's opponents bought
+the horse and rode home. There he picketed it outside his wikiup. At
+first he heard the horse pawing the ground. Later, towards morning,
+he heard no noise at all. He went outside, the horse was gone. He merely
+saw a willow stick with a rope tied around it.
+
+(?)
+
+Coyote and his brother-in-law. Porcupine, went out hunting. Porcu-
+pine said, "Let us go against the enemy." The enemy caught him, bound
+
+
+280 Anthropological Papers American Museum of Natural History. [Vol. II,
+
+him and played roughly with Porcupine all day and all night. In the morn-
+ing Porcupine said, "I have to go outside." So they allowed him to go
+outside. Porcupine then used his quills as arrows and
+
+Cr06l to WAT
+
+With Poroupina, shot the enemies with them. He scalped them, tied their
+tteali Porouplna'i heads to a long pine-branch and marched home. People
+could see the scalps from the other side of the moimtains.
+Coyote noticed them, stole the scalps on the stick and took them to his own
+home. There his boys and girls began to dance around the pole. (There
+follows the story of "Coyote and his Daughters".)
+
+
+24. Lodge-Boy and Thrown-Away.*
+(Ka'taxantandza'uwuhe and Pa'garutandza'uwuhe.)
+
+(a)
+
+Long ago a man and his wife were living in a grass-lodge. The man
+
+always went hunting with his bow and arrows. One morning the Sun
+
+informed him in a dream that a visitor would come to
+
+BtTftllgCT
+
+throws away them, and told him how to treat his guest. The man told
+
+twins from dead tig ^fg ^^o was pregnant at the time. ''Whenever he
+mother's body. ', \ ^, ,.,,-.
+
+comes, do not touch the ground with the food you give
+
+him. Place it on his chest, when he lies down on his back." While the
+
+man was out hunting, the visitor arrived. The woman prepared food for
+
+him and set it on the ground. He did not touch it. Then she put it on
+
+his legs; still he would not taste it. Finally, she put it on his chest and he
+
+ate it all up. When he was through eating, the woman fell down dead.
+
+The visitor rubbed her body and took out two boys from her womb. He
+
+threw one of them into the water (Pa'garutandza'uwuhe = the one who
+
+has been thrown into the water), the other one he threw into the entrance of
+
+the wikiup (Ka'taxantandza'uwuhe = the one who was thrown into the
+
+entrance of a wikiup). Then he went away.
+
+The Indian did not know what had happened when he came home and
+
+found his wife dead and her womb emptied. He prepared some food.
+
+Suddenly some one cried, '* Give me some food, father." He looked around,
+
+but could not see any one. Three times the baby bobbed
+Water-hoy ... .
+
+scratches hroth- up, crying in this way; but the hunter could not see it,
+
+er's face, Is cap- because it disappeared below the grass. The fourth time
+ttired by father. , • i. , , i t , i
+
+he saw its face and body. It went down once more and,
+
+when it re-appeared, was already a young man. His father asked, "Why
+
+
+1 Lowie, 141.
+
+
+1909J Lowie, The Northern Shoshone. 281
+
+don't you get up and eat?" The boy ate. The next morning the man
+made a willow hoop and gave it to his son to play with. "Don't roll it
+southwards," he warned him. When he returned in the evening, he found
+the boy's face badly scratched. "Who did that?" asked the hunter. The
+boy told him it was his brother, Pa'garutandza'uwuhe, that had scratched
+his face. The next day the hunter told his son to play in the same place as
+before. "If your brother comes up to scratch you, hold him till I come."
+The man hid near-by to watch. When Pa'garutandza'uwuhe came out
+of the water, he tried to scratch Ka'taxantandza'uwuhe's face. His own
+face was yellow. His father seized him, bound his hands and feet, and took
+him to the grass-lodge. There he told the boys they were brothers and
+should never fight. They were the first twins ever bom.
+
+The twins began to like each other. One day, while their father was out
+hunting, the boys were cooking some food in an earthen pot. Their mother
+was still lying on the ground unburied. "Get up, mother, tend to the
+meat," said the twins. "You wake her up," said Lodge-Boy to his brother;
+"you are clever." He saw his mother's fingers twitching Twins retuiol-
+and tried to rouse her, but failed. Then Thrown-Away ***• mother,
+took a stick, put it in his mother's hand, grasped her wrist and made her
+stir the meat in the earthen pot. Suddenly she woke up, sat up straight and
+continued stirring the food. She began to eat and walk about, looking very
+handsome. Her husband came home and noticed how pretty she looked.
+
+The hunter made a new hoop for the twins. He told them not to throw
+it southward. When the boys were playing, they forgot about his warning
+and rolled the hoop towards the south. The hoop rolled on without stop-
+ping. The boys ran after it, throwing their sticks; still boU hoop in
+
+it went on rolling. At last it got to the shore of the big forbidden dlrec-
+
+, , tlon* iwallowed
+
+sea. Lodge-Boy asked his brother to let it go, but Thrown- by water-buflalo.
+
+Away followed. The hoop fell into the water where it ""c^"**
+
+turned into a water-buffalo. Thrown-Away ran into the monster's anus.
+
+Lodge-Boy dug a hole near the shore and waited for the animal to come out.
+
+The next morning at sunrise, the water-buffalo went ashore. Lodge-Boy
+
+took his bow and shot the buffalo. It ran back to the sea and fell dead at
+
+the shore. The boy skinned it and cut it open. Thrown-Away came out
+
+with his hoop, smiling. They cut the animal into small pieces and cooked
+
+its flesh. Then they started homewards.
+
+Tliey came to a strange tribe of Indians, who locked travelers up in a
+
+dark rock, where they could not get out and were finally killed. The boys
+
+were imprisoned in the usual way. "Thrown-Away, Locked in cave*
+
+get us out, you know something," said his brother, bunt it open by
+
+Pa'garutandza'uwuhe began to think how they could be ■**®^"^''
+
+saved; he was a medicine-man. He wished that water would come. Im-
+
+
+282 Anthropological Papers American Museum of Natural History, [Vol. II,
+
+mediately it began to rain very hard. The rain cracked the rock, the boys
+escaped and again turned towards their home.
+
+Next they came to a giant. He said to them, " If you go to those willows
+
+and get sticks from them, I shall make arrows for you."
+thS-^path^*" *** '^^^ giant kept a great many bear-dogs (wu'ra ca'ro) under
+
+the trees and hoped they would devour the two boys.
+When they saw the bear-dogs under the willows, Pa'garutandza'uwuhe
+asked his brother to take the lead. Ka'taxantandza'uwuhe said, "No,
+you are the clever one; you ought to go first." So Thrown- Away started
+out and, when he got to the bears, he kicked them aside right and left, mak-
+ing a path for himself and his brother. At first Ka^taxantandza^uwuhe was
+afraid and held back, then he followed in his brother's footsteps. They
+took the sticks from the willows and brought them to the giant, who now
+made arrows for them. Then they se{ out once more for their home.
+
+They came to a large white rock, which they cut into little pieces. They
+put the white fragments on the mountain-tops. This is why there is snow
+
+on the mountains to-day. At last they reached home,
+turn home!*^* '^ Their father was now an old man and their mother also
+
+was very old. The mother died a short time after. Two
+days after her death her husband also died of old age. This is why people
+die of old age now.
+
+(6)
+
+One evening two boys were rolling a willow hoop towards the west,
+throwing willow sticks at it. It rolled down to the water of the big sea. The
+boys ran after their wheel and one of them fell into the
+wi^-buflalo^"* water, where a water-buffalo swallowed him. His brother,
+Ka'taxantandza'uwuhe, stood on the shore and began to
+wail. "The water-buffalo has swallowed my brother." Then he asked
+the monster to show him his brother. A wave came and he asked it also to
+show him his brother. After a while he met a man, who hunted water-
+buffalo and who promised to shoot the monster. The hunter shot and
+killed the buffalo. He skinned it and told the boy to look out for his
+brother. They cut out the entrails and the flesh about the breasts. Then
+the hunter said, "Here is your younger brother." The boy could not see
+him and asked, "Where?" "Here he is; this is your younger brother."
+When he saw him, he cried, "Younger brother, I have been pining for
+you." The hunter told Pa'garutandza'uwuhe to get out quickly, then the
+two brothers embraced each other.
+
+Suddenly it became cloudy and rain began to fall. Then a huge bird
+called Nii'neyunc ^ came flying and carried the boys to a distant island.
+
+» Kroeber, (c) 208.
+
+
+1909.] Lowie, The Northern Shoshone. 283
+
+Nii'neyunc's mother always sent him out to hunt. The Father* used to
+tell him, " Hasten, bring more people to this island." The carried away by
+bird was going to kill the boys; but Water-Boy thought of ^^ wT**^^^*^
+his obsidian knife and threw it at Nti'neyunc's throat, mother aidt
+Nii'neyunc immediately flew up so high that the boys *^*»««
+could no longer see him. Then he circled around and around, finally
+falling down on the island. All the island was quaking. Then Water-
+Boy knew the monster was dead. They did not know what to do next.
+Water-Boy saw smoke rising and they went towards it. They found that
+it came from the tent of Nii'neyimc's mother, an old woman, who kept a
+great number of ducks. There were a great many duck's eggs lying there.
+The old woman allowed them to eat and told them it was time for them to
+go home. She gave them her son's wings to fly away on and said the Water-
+youths would take care of them.
+
+After they had left, the Water-youths told the boys they would have to
+be put on a tree because otherwise Pa-n-dzo'avits (the water giant) would
+kill them. The Water-youths placed the boys high up, and left. After a
+
+while Pa'-n-dzo'avits came out of the water, and said, _
+
+ii-r 11 1 . 1 )) Tx 1* 1 1 1 Water-youth!
+
+I smell somethmg good to eat. He clunbed up the protect twlni
+
+tree to catch the boys, but the Water-youths returned and M:»in«t water-
+pushed him down again. '*Now," they said to the boys,
+"you will go home to your mother. You must travel westward. You will
+get to the Owl tribe, who are very strong; but don't be afraid of them.
+They do not eat anything."
+
+They set out and came to the Owls, who could not eat, because they
+had no mouths. Water-Boy said, **I will make a mouth Twlni cut open
+for you, then you will be able to eat." So he cut an mouthleu peo-
+opening with hb obsidian and then they could swallow p^*» ^*<*» '•*^*"**
+food. The boys went on. They passed a cliff by the water. Then at
+last they arrived at their mother's lodge.
+
+25. The Boy's Travels and the Water-Youths (Pa-bi'hiano).
+
+Two boys were camping at night. At the foot of a pine-tree they
+built a fire and were going to fall asleep. One of them ^^^ ^^^^ ^^^
+took out an arrow. "Perhaps the bird Nii'neyunc is sit- hoy. ii iiain hy
+ting on a tree near-by." The other boy was badly fright- ®®"*i>"^®'*'
+ened and begged his friend to keep still. In the night Nii'neyunc was sitting
+on a tree near-by. The boys woke up, saw him, and shot off their arrows
+
+
+Shoshone: A'pO = father. My interpreter translated, " God.'
+
+
+284 Anthropological Papers American Museum of Natural History. [Vol. II,
+
+at him. He seized them and flew towards the east.^ There he lived on
+an island in the big sea. He dropped them at his house and killed one
+of the boys. Then he sat down and devoured the dead youth. He began
+to drink his blood. As he was swallowing it, he raised his head and gazed
+fixedly at the sky. Then the second boy remembered his obsidian knife.
+He threw it at Nu'neyune's throat. The bird flew up, but after some time
+fell dead on the ground.
+
+The boy arose. ''Where shall I go?" he asked. Seeing some smoke,
+he walked towards it and met an old woman, who was sitting on the ground.
+
+Boy aided by ^^^ ^^^ never seen an Indian before; she was Nii'neyunc's
+Boc'i mother and mother. ** Where did you come from?" she asked,
+water-youtht. '^Nii'neyunc brought me here." ''My boy is bad, he
+always kills Indians." "I have killed him," said the boy. "Well, go and
+cut off his feathers." The boy did as he was bidden and the old woman
+made a boat for him. She brought him ducks' eggs to eat. These were put
+in the boat. She also brought some wood and built a fire for him. Then
+he paddled away. The Water-youths came up to him ; Nu'neyunc's mother
+had told them to help the boy. "Pa'-n-dzo'avits wishes to eat you up,"
+they said. "You must keep up a fire all the time, then he will be afraid."
+The old woman watched the fire from afar. The Water-boys caught up
+with the youth and pushed his boat to shore. A pine-tree was growing close
+to the water. The Water-youths placed the Indian high up on the tree, to
+prevent Pa'-n-dzo'avits from catching him. When they had left, the monster
+came out of the sea and climbed the tree to devour the boy. But the Water-
+youths returned at daylight and threw him back into the water.
+
+The Water-youths told the boy he would next have to pass over fields of
+
+Cactui-fieldi cactus, but admonished him not to be afraid. He put
+and rattlesnakei on a great many moccasins and passed through the cactus
+^ • fields without injury. In the evening, there were no more
+
+cacti. Then the youths informed him he would have to pass a great many
+rattlesnakes, but exhorted him not to be afraid. For a whole day he had to
+pass rattlesnakes, but in the evening they were all gone.
+
+The boy was obliged to travel through Dzoavits' country. The Water-
+youths told him Dzoavits would come up and play with him. They ad-
+vised him not to laugh, no matter what the giant did; but to stand straight
+
+Tickled by '^^^ * stick. Dzoavits noticed the boy. "What is this?
+
+Dioaviti, itandi This is Indian flesh." He went up to tickle the boy and
+* * make him laugh. He tickled his nose, his mouth, his
+
+ears, his nostrils and his breasts. Anum quoque titillavit; cum testibus
+
+
+J Cf. Kroeber, (c) 208.
+
+
+1909.] Lowie, The Northern Shoshone. 286
+
+et cum membro virili ludebat. He watched the boy. The boy did not
+stir. Then Dzoavits went away without hurting him.
+
+The Water-youths warned the Indian against another monster. "You
+will have to pass a powerful mouse. Dig a hole in the
+ground to sleep in, build a fire around it and shoot up gOToi« mouie.
+arrows. Then you will be safe." The boy obeyed and
+was not annoyed by the monster.
+
+The next day the Water-boys said, "In the evening you will get to the
+Owl people. They are going to howl. Don't get frightened. In the
+morning you will have passed them." The boy traveled
+on and in the evening arrived at a large Indian village, j^^ ^^^^ "*^^
+All the Owl-people had no mouths. They used to put
+fat meat in the fire and inhale the vapors through the nose.* The youth
+took a knife and cut open their mouths. Then they were able to eat a great
+deal.
+
+26. The Boy who Visited his Grandfathers.
+
+An old woman was living in her lodge with her son. One day the boy
+asked. "Who is my maternal grandfather?" "Your ^^
+
+grandfather does not live here, he lives far away." "Well, al>out grand-
+to-morrow I shall ffo out early to hunt rabbits. I shall '**li«'» *■ warned
+
+. by mother,
+
+kill one, which you shall skin. Then I shall go to my
+
+grandfather." "You are crazy, he lives very far away," said his mother;
+"He lives on the other side of the mountains, you will get burnt up if you
+go there." "I shall go." The woman began to cry. "Don't go away,
+you will surely be killed. Your grandfather's terrible bear-dog (wtira-
+ca'ro) will bum you up."
+
+The boy killed the rabbit and told his mother to keep the skin as a life-
+token. "If I get killed, it will break to pieces." He went away. His
+mother lay down and cried. The boy went up the moun- Leavei lUe-Hcn,
+tains. He looked down from the summit. He saw the lett out, foot
+fire from where he was standing. The earth was on fire ""^ ^
+and it seemed as if he could not cross. He walked along and jumped over
+the red-hot ground. One of his feet burnt off. He went home. He stood
+in his lodge on only one foot. The people heard about it.
+
+Again he went across the fire. His second foot* burnt up. He went
+
+
+» Kroeber, (c) 209.
+Boas. (c). 31.
+Cushing, 401.
+
+
+286 Anthropological Papers American Museum of Natural History, [Vol. II,
+
+home. He stood in his lodge without feet. The people heard about it.*
+Completely ^^ "fff^nt out again. On successive trips his legs, thighs,
+
+burnt up, re- waist, trunk, arms, stomach, intestines, liver, heart, bum
+•toredbygtranger. ^^ Membrum virile quoque combustum est. Then his
+head, neck, cheeks, tongue, eyes, ears, teeth, and brains were all consumed
+by the flames. The white flesh behind his ear peeled oflf. Then after sim-
+set, Tosa-pono (white + ?) came along. He jumped across the fire and sat
+down under a rock. He said, **In the night, it will rain and snow. There
+will be a snowstorm." It stormed and snowed all night. The fire was
+put out. In the morning it was cool. Tosa-pono took the burnt boy's
+head and put his body together again.
+
+The boy then proceeded on his way. He lay down. Far away he
+could see his grandfathers' lodge. His two grandfathers' ^ big bear-dog
+that used to eat Indians noticed the boy and was getting restless. "What
+Arrtves at ^^^^ ^"^ ^^^ ^^ there?" asked one of the brothers;
+
+grandfatheri' for neither of them could see the boy. The boy walked
+
+lodge. ^^ ^^ j^j. ^j^^ older man saw him. "What is that?
+
+That looks like an Indian. Leave him alone," he said to the big dog. He
+took a large rope and tied the dog up. "An Indian is coming here, let him
+alone. He looks like our grandson ; he is our grandson." They restrained
+their bear-dog, which they also used as a horse, by holding the rope very
+firmly. The boy came up to his grandparents. They kissed him and
+told him to rest. Then they gave him food and built a fire. They ate for
+a long time.
+
+When the boy had perished in the flames, his mother had looked at the
+skin hanging in her lodge. It broke to pieces. His mother cried, "My son
+has been burnt up." She wept all night.
+
+The two old men noticed that their horse was getting restless again.
+"W^hat is the matter with our horse? It must see some hostile Indians,
+HottUe attack ^^^ come to kill us." They turned their bear-dog loose.
+repeUed by grand- The animal ran away, killed one of the enemy and ran
+parents' bear. back to its own tent. He stayed there a little while;
+then ran away, killed another enemy and returned. The two grandfathers
+went out to fight th^ hostile Indians. Their dog was completely covered
+^dth blood. When the old men were exhausted, they roused their grandson
+and he went out. The bear killed all of the enemy. Then the old men
+cut off the heads of th^ slain men, tied the scalps on a pole and sang all night.
+
+
+1 These sentences are repeated every time the hero returns with another part of liis body
+burnt off.
+
+2 Literally his two maternal grandfathers, i. c. his maternal grandfather and a grand-
+uncle.
+
+
+1909.] Lowie, The Northern Shoshone. 287
+
+In the morning, the boy said, "I am going away. My mother is longing
+to see me." His grandfathers kissed him and bade him farewell. They
+held their bear back, telling him to leave their grandchild alone. One of
+them held him by the mouth and the other by his ears. The boy went
+homewards. When he came to the spot where he had been burnt up, he
+foimd no fire there. He only saw some smoke. Without any misadven-
+ture, he approached his mother's lodge. His mother
+was there, crying on his account. Suddenly he cried, ^q^^J^" """
+"Get up, mother, get up." "That soimds like my son's
+voice," she thought. She arose crying. "Why, what are you 6rying for?
+I am dying of cold; build me a fire," said the youth to hb mother. She
+looked at him. Her son sat down. The old woman got up and kissed her
+son until he asked her to let him alone.
+
+
+27. The Disobedient Brother.
+
+A woman was living with her two sons. Her father. Snake, dwelt near-
+by. One day, one of the boys asked his mother to tell him a story. She
+said, "I don't know any story; go to your grandfather, he knows many
+stories." The boy went to his grandfather. He said, gnake orawli
+"My mother has sent me to you to hear a story." Senex into woman, idUi
+"Vestri matris vagina," haud aliud respondit. The boy
+went home and told his mother. She got up, saying, "That filthy old
+man." She seized a stick and was going to club him, sed senex in vulvam
+inrepsit et eam interfecit. The boy did not know what had happened and
+was crying, "Mother, your food is burning." He went to look for her
+and found his mother dead, with her abdomen bulging out.
+
+He climbed up a hill and cried for a long time. His older brother, who
+had been out himting, saw him and asked what was the matter. "Our
+grandfather has killed our mother." "Perhaps you are the cause of his
+killing her," said the older brother. The youth knelt
+down and rubbed his mother's body to get out the snake. animmli from
+Various animals came out and the younger boy killed them corpse, at last
+all. At last the youth said, "When our grandfather comes
+out, I am going to kill him." But the younger boy did not want to press
+down his mother's abdomen, so he insisted on killing Snake. However,
+when Snake stuck out his head and wriggled his body, the boy was badly
+frightened and ran off. The youth pursued the Snake, but could not catch
+him. He went into a rock. The older brother scolded the younger one
+for running away. "There is still a younger sister of ours in the corpse,"
+he said. So they belabored the corpse once more and extracted a little girl.
+
+
+288 Anthropologiccd Papers American Museum of Natural History. [Vol. II,
+
+They washed her with warm water and took her to their lodge, where
+
+they wrapped her up in a hide and laid her on the ground. The boy made
+
+a pappoose-board, on which he always carried the little girl about, strapping
+
+it to his back. The boy performed all the duties of a
+Boy tendt lii- '^
+
+tor, dlfotoeyi older woman. Whenever the older brother killed some game,
+
+brother; filter the boy would scrape off the hair. The youth cautioned
+
+his brother to take good care of the girl and never to chide
+
+her. Once the baby fouled the boy's back. He became very angry and
+
+threw her away. Then he went up a hill and began to sing. The baby
+
+cried all the time. At last the boy thought he would look after her. As he
+
+came nearer, he could not hear any crying. The girl had disappeared.
+
+Now, the boy himself began to cry. He went to an open place and
+
+, ^ cried there. The older brother returned and the boy went
+Boy looldedt
+filter rescued towards him. *'Our sister has disappeared," he said.
+
+from abductor. "What did you do to her?" asked the older brother. "I
+Dioavltt.
+
+threw her away, because she fouled my blanket." The
+
+youth scolded his brother. ** We shall never see her again," he said; "Dzoa-
+
+vits has taken her away." The boys started for Dzoavits' house. They
+
+went on the roof and could hear a noise below. It was caused by their sister,
+
+who was wea\ing a willow-basket. She was now Dzoavits' wife; Dzoavits
+
+was inside. **How can we get down there?" they asked. Dzoavits told
+
+them to use their scrapers to cut the rocks. They cut a wide opening and
+
+fell through into the lodge. Dzoavits asked them to be seated. Their
+
+sister was now a large, pregnant woman. The boy said, **My sister has
+
+grown." The two brothers decided to kill the giant and take away their
+
+sister. They shot their scraper at Dzoavits and killed him. Then they
+
+climbed up with their sister. As soon as they had gone out, the opening
+
+closed tight.
+
+From now on, the sister scraped hides and did the woman's work about
+
+Boy acftin ^^^ lodge. *'When our sister cooks, let her alone; don't
+
+dliobesn, iliter bother her," said the youth to the boy. Once, when the
+
+^"^*"i>- woman was preparing some food, the younger brother
+
+began to help her. Suddenly her hair caught fire and she was consumed
+
+by the flames. The younger brother cried. The youth returned. '*How
+
+did this happen ? You did not obey me." They could not save their sister
+
+this time.
+
+28. The Sheep- Woman.
+
+Two brothers were living together with their wife. The older brother
+went out hunting every day. The woman went in search of roots. One
+
+
+1909.] Lotoie, The Northern Shoshone. 289
+
+morning the older man found the trail of a mountain-sheep. He followed
+it around the mountain-side. Towards evening it led him
+back towards his lodge again and he gave up the chase. ^ ibLp.
+His wife had returned before him and he told her how
+he had tracked the sheep. He decided to start again on the next day and
+try to catch the animal. The next morning, the woman went out digging.
+After eating, her husband also left the lodge. Again he found the sheep's
+trail. It was a fresh track going around the mountain. Towards evening
+it led him back to his wikiup again. His wife was home when he returned.
+He told his younger brother to set out for the other side of the mountain,
+where there were no trees and where he might be able to catch sight of the
+sheep. Accordingly, they started out the next morning. The woman also
+left in order to dig roots, but she never brought any home. She told her
+husband she could not get any food because of her baby, which cried all
+the time and had to be nursed.
+
+The younger brother stayed out for three days. He went to the summit
+of the mountain. He was fatigued. His guardian spirit
+ordered him to build a big fire. He saw the track aroimd ^^ J^^fe'i trlck?^"
+a turn in the path. He obeyed. After a while, he saw
+the woman coming along. Ejus vulva terrae nixa quasi ovis vestigia fecit.
+The youth drew nearer and pulled his bow-string. Hearing the noise, the
+woman looked up, saw the man and hurried home. The baby was crying.
+The young man returned to the place assigned by his brother and fell asleep.
+His brother came up and asked whether he had seen anything. The youth
+had forgotten all about the woman and said he had not seen anything
+because he had been asleep all the time. The older brother began to upn
+braid him; "Why didn't you watch? I told you to watch." Then the
+youth recollected and informed his brother of what he had seen. They
+went home. When they arrived there, they found the woman busy. "Why
+don't you bring any roots home?" they asked her. She said the child had
+kept her busy again, the next time she would leave it home.
+
+The brothers decided to play a trick on her. They turned themselves
+
+into mountain-sheep and stood on the creek near their lodge. The little
+
+boy was with them. In the evening, the woman came « ^
+
+, , Brothers wum
+
+home. Seeing the sheep so near their dwelling, she thought themtelyei into
+
+the men must have fallen asleep. "You sleepy-heads, ■h«ep;puriuedby
+
+there are some sheep right out here. Get iip!" When
+
+no one got up, she went in, took a bow and arrow and shot at them herself.
+
+The sheep ran away. The woman pursued them. Whenever she came
+
+up to them, they managed to escape. They went far across the mountains
+
+and the woman continued to follow them.
+
+
+290 Anthropological Papers American Museum of Natural History, [\<A. II,
+
+At last, their wife got to Coyote's people. She informed Coyote of the
+big sheep that had run away there. Coyote painted himself up and an-
+wixe mMtt Coy- i^o^^^^ed the news to his fellow-tribesmen. The Indians
+ote'g tribe, Mtoctt scattered to hunt down the game, but failed to catch them,
+new husbana. ^^ j^^^ j^ Grasshopper went out. He saw the sheep
+running towards him, tore oflf a patch from his moccasins, pasted it on his
+forehead to disguise himself and then shot the baby sheep. The other In-
+dians hunted other game. When they returned to camp, the woman sharp-
+ened a stick and tested the hide of each animal brought in. When she
+struck Grasshopper's sheep-skin, the stick broke in two inmiediately. Ac-
+cordingly, she married Grasshopper. Coyote was jealous. "A man must
+have a loose-jointed leg like Grasshopper's," he said; "then one can get a
+girl easily. If I had a leg like that, I would have won the woman."
+
+29. Thunder.*
+
+An old woman was li\dng with her grandson. Rabbit. The boy once
+said to his grandmother that he wanted Thunder's wife. He had a bear's
+paw for his medicine. The old woman warned him. "Thunder is strong,
+
+Thunder ex- ^^ ^^' ^^^ you." The boy, however, went up the moun-
+ohanset wife for tains. He met Thunder's ten wives, who were digging
+
+7 1 me cine. ^p p^^^g jj^ looked at them for a while to see which was
+the best-looking. Then he went up to the prettiest one, who was beauti-
+fully dressed, and tried to carry her oflf. She resisted and the other wives
+caught hold of her and called on their husband for aid. Thunder came,
+making a terrible noise. At first he was going to kill the young man, but
+when he saw the boy's bear's paw he was frightened. He said, "Give me
+your medicine and you may have my wife." The boy agreed and took the
+woman home. His grandmother had been cr}dng; when she heard Thunder
+rumbling, she thought he had killed her grandson. The young woman
+lived with her husband and went out digging roots for him and his grand-
+mother.
+
+30. The Bad Medicine Man.
+
+A long time ago there was an Indian who used to start dances for the
+other people. Whenever he saw a good-looking girl, he would point at
+her, cr\4ng, "Wu!", and claim her as a wife. He was a very large man and
+
+
+» Cf. Spinden, 154-156.
+
+
+1909.] Loxvie, The Northern Shoshone. 291
+
+
+believed to be a very powerful medicine man. The people believed he
+had the power to kill them by making them cough, so all
+were afraid of him. Once he pointed to another man's mankiitodl *"
+second wife, saying, "Wu!", and seized the woman. Her
+husband refused to let her go and pushed the medicine-man away. The
+medicine-man, who only looked so large because he was in the habit of
+padding himself, did not hurt the young man in any way. The Indians
+saw he did not have very much power. They had a council about him and
+decided to kill him with a rock. The large man had a dog at home. Cum
+canis coiret, magi quoque membrum erigebatur. The Indians seized the
+medicine-man and killed him. The dog managed to escape. He was
+supposed to be his master's spirit.
+
+31. Cannibal Stories.
+
+(a)
+
+Long ago there was a Cannibal (No'mo-rika = Indian eater), whose
+father was called No'mopagurturux. All the people were afraid of them.
+They used to kill women ; they did not wish to kill men. When an Indian
+died, they took his corpse and ate it. The Cannibal
+father, with his son, ate up his own wife. When the habiti.""^ *
+Cannibal found Indians, he would say, "I like to eat
+people." He ran towards young men's tents and slept nearby. When the
+women went out to dig up potatoes from the ground, No'mo-rika would lie
+in ambush. He would carry off one at a time on his back, and eat her up.
+After devouring a woman, he slept five days, snoring loudly. Once the
+Indians burnt the Cannibal up, but he came to life again.
+
+(b)
+
+A man was living with his wife and son. The woman and her son were
+going out for wood. When they came home, the husband pushed her down.
+She began to cry and the boy also cried. The woman told the boy to kill
+his father. Her son brought his bow and arrows. "Quick, oannibti
+
+shoot him," she cried. The man begged to be let alone abusei, flayi.
+and his life was spared. He went out, while the woman **** ^^*'**
+remained at home. When he returned, he again ma}.treated his wife. She
+cried and begged her son to shoot his father. The man stabbed her with a
+pointed stick, killing her. The son went around crying, because his mother
+
+
+292 Anthropological Papers American Museum of Natural History. [Vol. II,
+
+was dead. The husband began to eat his wife. He chewed her flesh, he
+ate her stomach and her intestines. Then he stopped eating.
+
+(c)
+
+A man was living with his sister and her two boys. One day the man
+
+said, "I wish to visit a friend." He set out and arrived at his friend's
+
+lodge, where he slept during the night. The next morning he arose and
+
+killed his friend. He skinned the body, dried it and
+Man kllli "^
+
+Mend, givei fleih sliced it; then he lay down there. The man's sister was
+
+to nephews for beginning to grow anxious about him. "What has
+
+happened to your uncle?" she asked her sons. The boys
+
+quickly ran away to look for their uncle. Avunculum conspexerunt qui cum
+
+muliere coibat. When he saw his nephews, he told them to carry the meat
+
+home and have it cooked whenever they were hungry. He said it was some
+
+game killed by his friend. They brought it home and their mother sliced
+
+and dried the meat. She boiled it for an entire day; then she told her sons
+
+to eat it outside the lodge. The children took the food outside and began
+
+to eat.
+
+The cannibal was sleeping at this time. While one of the boys was
+sitting outside and eating, he looked at the piece of meat in his hand and
+Diicoveiy of noticed the hair on it. He thought, "What is this?
+human hair In This looks like human hair. Do they eat food like this
+®® at the home of our uncle's friend ?" He asked his brother
+
+to look at his meat. In the evening, they compared their own hair with
+that found in the food. "I think," said one boy, "our uncle has killed
+some Indian." They ran home and told their mother. She smelt the food,
+took her pot and carried it outside. They sat down by the bank of a creek
+and vomited what they had eaten.
+
+Their uncle came home at night. He was very hungry and wanted to
+eat the boys. "To-morrow you may eat them, but not to-day," said the
+mother. They all lay down to sleep. In the morning, the woman woke
+
+Nephewi flee "P ^^^ ^^"^ ^^^ ^^^* t^v^m away. Later their uncle
+from \mcle, es- woke up and wanted to eat them. "They don't wake
+**^' up early enough," he said. They were gone. They
+
+were traveling about. Their uncle and his sister tracked them. The boys
+were saying, "He is hunting us; he kills Indians." In the night the uncle
+said, "I am longing for my nephews." After he had lain down, his sister
+departed. He tried to find the tracks of his relatives.^
+
+
+1 The details of the last paragraph are not dear, owing to the interpreter's deficient com-
+mand of English.
+
+
+1909.] Lowie, The Northern Shoshone. 293
+
+32. The Buffalo who Stole an Indian Girl.*
+
+A young woman once went for water. Near the creek she found a
+
+buffalo skeleton and she began to play with the bones. _
+
+® . r .^ Woman ab-
+
+Suddenly the buffalo came to life, and took the girl along ducted by buffalo
+
+with him. The woman's husband looked for her until he ^wovwrwl by hui-
+
+band.
+found her trail, followed it and recovered his wife.
+
+The buffalo summoned his followers. He said, "A man has stolen
+
+my wife." They all started in pursuit. There was nothing but dust flying
+
+up in the air from the trampini; of the buffaloes. The _
+
+. r o Fugltivet oUmb
+
+chief buffalo had a large anus. When the herd had tree; buffalo hook
+
+nearly caught up to the fugitives, the man and his wife ^» ^^^ kUled
+
+climbed up a cottonwood facing a river. The buffalo
+
+passed by the tree without noticing the couple on it. Ultimus cum venit
+
+bos, mulier in eius tergiun minxit. The buffalo noticed the fugitives and
+
+told the animal in front of him; so word was passed along the line to the
+
+leader. The entire herd faced about and the chief jumped at the tree,
+
+hooking it with his horns. Vir per bovis anum miratus cordem conspexit.
+
+He aimed at the buffalo's heart and shot off arrow after arrow, but failed
+
+to hurt the animal. In the meantime, the buffalo were tearing down the
+
+cottonwood. At last Meadow-lark flew on the tree and bade the Indian
+
+use his fire drill for an arrow. The man opened his quiver and shot off his
+
+fire-stick. He struck the buffalo's heart and killed him. The other buffalo
+
+dispersed and left them alone.
+
+33. The Stolen Wife.'
+
+Two brothers were living with their wife. They always went out hunt-
+ing together. Once, while they were out, some hostile Indians came and
+stole their wife. When they returned, they saw that she
+was gone and looked for her in the neighborhood, but ^j^~ *** ^
+without success. The older brother was furious, he went
+to the mountains, sharpened his knife and came home again.
+
+They set out together to look for their wife. At night they arrived at
+the camp of the enemy. The people were meeting at a council in a large
+tent and were smoking their pipes. Some friendly Indian
+told the brothers that their wife's new husband had tied j^^^'^*"** ^^*
+bells to the woman's dress, so that the camp should be
+alarmed if she attempted to flee. The two men watched the Indians.
+
+J Cf. Dorsey and Kroeber, 153. Kroel)er, (g) 101. Wissler and Diivall, 112.
+2 Cf. Kroeber, (e) 125.
+
+
+294 Anthropological Papers American Museum of Natural History. [Vol. II,
+
+When the Indians had ceased smoking, the council broke up and each
+warrior went to hb lodge.
+
+In the evening, the stolen woman went out to ease herself. Then her
+husband, who lay in ambush, seized her. She asked him to wait until all
+the Indians had gone to sleep. She told him her new husband never woke
+
+up at night after he had once fallen asleep. The older
+gt^ahonMMr *^' brother said, **I shall cut his head off." After every one
+
+in the camp had retired, the two men entered their wife's
+tent. The older brother cut off her new husband's head and threw it away.
+The woman cut off her bells so as not to make any noise. Then the brothers
+took away some of the enemies' beads and stole some horses. They fled
+and arrived home in safety.
+
+34. The Horse Woman.*
+
+The Indians were hunting buffalo. They had broken camp. One
+
+young woman was riding a stallion. She always fell behind the rest of the
+
+Woman enam- Indians. Once a man watched her. Eam solam cum
+
+ored of hone, equo coire vidit. When the people camped the next
+
+nini away. ^j^^^^ ^j^^ ^^^ ^y^^^ ^^ stallion and killed him. The
+
+woman cried all night. Then she ran away with a wild horse.
+
+The next year the Indians were hunting again. They noticed a herd
+of wild horses and what looked like an Indian woman running along with
+Oaucht amonc ^^^^' ^^^ pubic hair was very long and hung down
+wild honei, re- like a horse's tail. Her skin also resembled that of a
+leaaed. horse, only her face was human. The Indian chief sent
+
+out some men to catch her. They went out and lassoed her when she was
+exhausted from running. They took her home to the tent of her Indian
+husband. Her grown-up son saw her, but she did not recognize him or
+speak to any one. She only whinnied like a horse. The Indians tied her
+up. The boy said to his father, **Let her go, father, she is not a good
+woman." They released her and she escaped.
+
+35. The White Man and the Monster-Bird.
+
+The Indians were moving camp. They found that some of their young
+
+-aru**^ •^••. men and horses were lost, and did not know how this could
+
+wnite inan
+
+ofleri to kiU have happened. A White sheep-raiser was living there,
+
+montter. jj^ ^^y j^^ knew what was the trouble. A strange being
+
+had taken the men away. '*If you pay me," he said, **I may kill it for you."
+
+» Dorsey and Kroeber, 247. G. A. Dorsey, (c) 294, 358. Wissler and Duvall, 152.
+Kroeber (e), 114. The theme, which is treated with great finesse in Guy de Maupassant's
+"Fou?", may possibly have been imported by Europeans.
+
+
+1909.] Loune, The Northern Shoshone. 295
+
+The Indians paid no attention to the White man. An Indian went out
+alone to fight the monster. He saw it flying; it looked
+like a large dark cloud. He shot at it, but could not hurt ^^^ indiani.
+it. It caught him and flew home. The next day, two
+men went out with their guns. They separated at a little distance. When
+they saw the monster flying, they shot at it. Again the monster snatched
+them up and took them home. Then all the Indians said, "Perhaps the
+White man will kill it." They killed thirty head of sheep, took oflF their
+hides and gave them to the sheep-raiser. He put them all on, took a stick
+and went looking for the monster-bird.
+
+The giant bird swooped down on the White man and carried him home,
+but could not kill him. The black monster's son came home and wanted
+to eat the sheep-raiser. The White man said, "You won't
+eat me." ^ Then he grasped his stick and knocked down ^^^ ** "**** *
+father and son. He killed both of them. The monster
+had a beautiful tail. The sheep-raiser cut off its tail feathers and brought
+them home.
+
+Perhaps this monster was the bird Nti'neyunc.
+
+
+36. The Poor Boy and his Horse.
+
+(Told by a Shoshone who had married a Nez Perc6 woman and lived
+with her tribe.)
+
+An old woman was living with her grandson. He was in the habit of
+playing by the edge of a pond. Once he found there a colt and some gold.
+Every morning he went to the pond to tend the colt. One
+day it said to him, "Make a halter for me." The boy poor^ioy^"^* *^
+obeyed. Then the horse said, "Try me in a race. There
+are race-horses on the other side of the mountains. Let us go there
+to-morrow morning."
+
+The next day the boy rode to the other side of the mountains. The
+Chief who lived there had five daughters and five horses.
+The boy said, "We wish to race with you." The Chief ^^^ '*** ''''
+laughed at the orphan, but prepared for the race. He
+wagered a race-horse; the boy, his gold; and Coyote, who took the boy's
+side, his bow and arrows. The Chief said, "We'll ride around the other
+side of these two mountains." They were to go around a yellow post and
+then return to the starting-point. The boy brought his horse there and
+
+1 This is possibly a fragmentary version of the familiar Thunderblrd dialogue.
+
+
+296 Anthropological Papers American Museum of Natural History, [Vol. II,
+
+bridled it. It advised him to get two switches. They started and the little
+horse ran beside the Chiefs. Soon all the people were gathering to watch.
+They said, ''There goes the sorrel horse." The little horse won the race.
+Coyote shouted and seized the Chiefs horse. ''It is mine now," he said.
+
+The Chief proposed to run another race. He had a big horse to ride on
+this time. The Chief bet his horse against the boy's
+outrun hy boy. ^^^ Coyote's wagers. "We'll ride to the other side of
+these four mountains," he said. This time there was a
+red stick to mark the half-goal. The men mounted their horses and started
+off. After a long while they came back again, and the little horse was ahead.
+Coyote seized the Chiefs horse. "We'll race again to-morrow," said the
+Chief; "come back again in the morning."
+
+The next day the Chief had a white race horse. They went over sLx
+mountains and rode around a white goal-staff. When they came back,
+the bo/s horse was in the lead. Coyote ran to the Chief, and seized his
+other racei horse. The Chief now had only two horses left. He
+
+^^^' asked the boy to come again. The next day they passed
+
+eight mountains. The Chief rode a buckskin horse. After a long while,
+they arrived at the starting-place with the little horse in the lead. Coyote
+shouted and got the Chiefs horse. The Chief said, "Let us race again to-
+morrow for the last time."
+
+At night the Chief kept thinking and talking of his opponent's little
+
+horse. In the morning they started to race and the boy won. Coyote
+
+shouted and took the Chiefs horse. They sat down. The Chief did not
+
+know what to do. He said, "To-morrow we shall pile up sticks, build a
+
+fire and see which of us can ride through the fire." The boy went away
+
+-,,.,- ^ - ^ ^ crving, for he was afraid he would be killed in this contest.
+Chief defeated t .
+
+In trial of His horse said, "Cease crying! You won't be hurt."
+
+■teength; ride When the boy came to the Chief the next day, the Chief
+through Are. *^ , •'
+
+wagered one of his daughters against all the horses that he
+
+had lost. They gathered firewood and built a fire. "Let the boy go in
+
+first," said the Chief. The boy mounted his horse and rode through the
+
+fiames. All the people watched him. He passed through without getting
+
+burnt at all. Then the Chief had to ride through. After he had gone only
+
+a short distance, his horse fell down, burnt to death. Thus the boy won
+
+again.
+
+The Chief said, "Come again to-morrow, you must capture the big
+
+horse for me. If you get it, you may have my second daughter." This
+
+horse was a gigantic animal, as large as a log-cabin, and no one was able to
+
+ride it. The boy set out with a large rope to look for the monstrous horse.
+
+His own colt said, "I will fight mth it; you just put your halter around
+
+
+1909.] Lowie, The Northern Shoshone, 297
+
+his neck and lead him home." The boy turned his colt loose. When the
+
+gigantic horse appeared, the colt grew bigger and bigger,
+
+until it was larger than the big horse. The two horses colt* ■ aid, boy
+
+met and fought. The colt threw the other horse to the capture! gicantlo
+
+ground. The boy ran up with his rope and put his halter
+
+on the conquered animal. Then he brought the horse to the Chief. His
+
+colt grew small again.
+
+"Come again, to-morrow," said the Chief. "I'll set you your last task
+then." When the boy arrived the next morning, the Chief told him of a
+young girl who lived on the other side of the big sea. "If you bring her
+here and win again, you may become Chief in my place and have all my
+property. I shall be your servant." The Chief ordered Brinci girl
+
+the girl not to accompany the poor boy. The boy crossed from diitant
+
+the sea on his colt which grew much larger again. When coiintiT.
+
+he dismounted on the other side, he saw the Indians going to a church-
+meeting. The girl, who lived in a large house, was watching the Indians.
+The boy, dressed up handsomely, passed by her house. She noticed him
+and liked his appearance, not knowing who he was nor where he came from.
+She also dressed up, mounted her horse and approached him. Then both
+crossed the sea and got to the Chief. The colt assumed its former shape
+and the boy dressed in his usual way. The Chief scolded the girl, because
+she had disobeyed him.
+
+The girl complained that she had lost her ring while crossing the sea.
+Then the Chief ordered the boy to get the ring. "If you find it," he said,
+"I shall leave this place and you will be chief instead.*'
+The boy went to the shore of the sea. He took some of |,ecomef OhiS?*'
+his gold and threw it into the water. WTien the fish swam
+up to him, he asked, "Have you seen my ring?" The fish said they had
+not seen it. The boy threw more and more gold into the water, and every
+time the fish came to him, but they said they did not know anything about
+the ring. At last an old fish came up and, when the boy asked him, he
+replied, "I have the ring," and gave it to the boy. "What shall I give you
+for it?" asked the boy. The fish answered, "Make me a skin out of your
+gold." When the boy returned with the ring, the Chief left his people;
+because the boy had defeated him every time.
+
+Then the colt said to his owner, "You are rich now
+and do not need me any more. Take me to the place you xnagic col^ ^
+found me in and turn me loose." The boy obeyed, but
+he began to cry.
+
+
+298 Anthropological Papers American Museum of Natural History, [Vol. II,
+
+37. The Bear's Son.^
+
+Bear's son killed his father. His mother married a White man, who
+sent the boy to school. The White children teased the Bear-child. They
+made fun of his long nose and whipped him. The Bear-boy went to the
+Bear-boy kiui blacksmith's shop. He had an iron pole made there,
+white children, Eight steers were not strong enough to pull it to pieces.
+coei tra g. Bear went home and told his mother he was going out
+alone to hunt the enemy. First, however, he went to school. The White
+children made fun of him again. ''Your nose is big," they said. "Don't
+come in here." Bear took his rod and killed all the children with it. Then
+he went far away.
+
+He saw an Indian who was transposing the soil. The Indian asked
+him, "Where are you going?" "I'm looking for the enemy." "I think
+I will go along with you," said the man; "two of us will not be afraid of
+anything." They went along until they met another Indian, who was
+
+moving rocks from one place to another. "Where are
+tiu^ ttrazifferii. ^^" ^^^ S^^S^*' ^^ asked. "We are going far away to
+
+look for the enemy." "Let us three go together; we'll
+
+not be afraid of anything we may see." They went along. They saw an
+
+Indian who was transplanting a pine. The Indian asked what they were
+
+doing and joined them, saying, "Four of us will not be afraid of anything."
+
+They went along until they came to a creek with willow-trees on its
+
+banks. There was a house standing there, which they
+house, three com- entered. "To-morrow," they said, "three of us will go
+radeiatiaultedby hunting. Earth-Transposer will stay home and cook."
+
+The next morning the three others went out to hunt.
+Earth-Transposer cooked. When he was done, he looked at a news-
+paper. Suddenly Iron-Head ^-Man came in and asked for some food.
+Earth Transposer refused. Iron-Head-Man pulled him about, knocked him
+down and ate up all the food. Then he went away. In the evening, the
+hunters came home laughing. They asked Earth-Transposer why he had
+not prepared any food. He answered that he had wanted to cook, but had
+fallen down in reaching for some food that was kept near the top of the
+house. The next day Rock-Mover stayed at home to cook. Again Iron-
+Head came in, knocked him down and disappeared after eating up all the
+food. When the hunters returned, Rock-Mover gave the same excuse for
+not having any food for them. On the following day, Pine-Transplanter
+met with the same adventure.
+
+
+* A well known European tale, of which a similar version was heard by the writer among
+the Stoney Assiniboine of Alberta.
+« BOi-wihi-bambi-gant.
+
+
+1909.] Lorvie, The Northern Shoshone. 299
+
+Finally Bear stayed at home. When he was through with his work, he
+began to whistle and to walk back and forth with his rod.
+He knew that Iron-Head was the ghost of his older brother. ^^^^ conquew
+Iron-Head came and asked for food. Bear refused.
+They wrestled. Bear threw the ghost and cut his throat, killing him.
+The head jumped away by itself and went down into a hole. When the
+hunters came home in the evening, they laughed. When they saw that
+there was plenty of food, they thought Iron-Head had not come that day.
+They would not believe that the boy had killed him. Bear took them to
+the hole and showed them the blood around its edge. Then he told them
+to bring a rope.
+
+The men brought Bear a large rope and tied a bell to it. They were
+
+to be let down the hole, one by one. As soon as any one rang the bell, it
+
+would mean that he was frixrhtened and the others were
+
+Dei Mndi uiidM>
+to pull him up. Rock-Mover, Earth-Transposer and ground, wim
+
+Pine-Transplanter went in successively. Each rang the ^o»en, hoiiti
+bell and was pulled up again. Then Bear went down.
+He met three men, killed them and took their wives, whom he hobted
+up on the rope.
+
+When the first woman came out of the hole, Earth-Transposer said,
+"I'll take you for a wife," and seized her. Pine-Transplanter and Rock-
+Mover married the other women. Then the men cut the rope. Bear fell
+down and broke his limbs. His older brother picked him up and healed
+his wounds. Then Bear asked his brother which was the wivei itoten by
+swiftest animal. His brother told him the eagle was. commdei; vain
+They gave the eagle three sheep to eat; then Bear mounted ^"" *
+him and flew up on his back. They flew faster and faster. The boy cut
+oflF some of his own flesh to feed the eagle so as to make him fly faster still.
+At last they got up. Bear tracked the Indians who had stolen his wives,
+but never found them.
+
+
+38. Ghost Stories.
+
+
+(a)
+
+
+I was going to the Flathead Reservation with two other Shoshone.
+In the night we got to a river. The moon was shining. We went in for a
+swim, leaving our clothes on the bank. When we got across, my friends
+asked me to bring the clothes over. As I was getting the clothing, I heard a
+baby crying. The moon was still high up. The sound was a little different
+
+» Told by Enga-grvsacu ("Red-Shirt") Jim.
+
+
+300 Anthropological Papers American Museum of Natural History, [Vol. II,
+
+from that of an ordinary baby's crying. I turned in that direction and
+saw a faint light under a cotton wood. As I got closer, I thought I had
+better go back. I felt strange. I knew it must be a water-baby (Pa'ona)
+that was crying. I faced about and walked to a spot where there were no
+trees. Then I beheld an Indian coming towards me. I stopped and stood
+still. He also stopped. I could see his head and body plainly, but not
+his face. I began to walk, the stranger also walked. I stopped and he
+stopped. Then I thought I saw he was wearing a striped vest, but I was
+still unable to see his face. When I got nearer, I saw that I had taken the
+ribs of a skeleton for a striped vest. Now, I knew the Indian was a ghost.
+I could see a light in his eyes. I had an uncanny feeling. I did not know
+what to do. I turned away. The ghost headed me off. He did not speak.
+I could see him plainly now. He was all bones. I said, "You are just
+a ghost, leave me alone." (On'o-n Dzo'ap, no-vii'ak.) He turned about,
+went down into the ground and disappeared. I joined my friends and
+told them of my adventure.
+
+ib)
+
+Several days later, I was riding along at sunset, looking for ground-
+squirrels. On one side of the road there was a row of pine-trees. I heard a
+sound as if a squaw was crying at a funeral. I got off and built a little fire
+to cook the ground-squirrels I had caught. After they were cooked, the
+noise stopped for a while. Then it came nearer again. By this time it
+was quite dark. The sound was now circling around me. I knew it was a
+ghost, so I untied my horse, took out my squirrels and prepared to flee.
+When the noise had come very close, it changed into the panting of a bear.
+I was very much terrified. The moon rose. I heard the noise circling
+about me again. For an instant it stopped. That moment I jumped on
+horseback and rode back to my two friends. By this time, we were near
+Salmon City.
+
+(c)
+
+When I was a little boy, I was once out looking for ground-hogs. I had
+a mirror with me. Looking around, I saw an Indian standing on a hill.
+I tried to flash the light towards him by holding my glass in the sun. Then
+I put my things away and ran towards the Indian. He was standing still.
+As I approached, I saw him sitting down with his legs stretched out. I
+thought his camp was near-by. Suddenly he arose and walked away. I
+looked around for him, but could not see him any more. I called him aloud.
+I returned to where he had sat down and tracked him. Suddenly his foot-
+steps ceased. It must have been a ghost.
+
+
+1909.] Lotoie, The Northern Shoshone, 301
+
+I went in the opposite direction then, and walked homeward. I crossed
+a creek and then started up-hill. Suddenly a rock was thrown at me, but
+did not hit me. As I turned around, I saw a rattlesnake. I thought the
+snake might have thrown the rock and ran down. I stopped to rest on a
+log until I saw the snake crawling from under it. I turned about and ran
+back, but stumbled over a stone and fell down. Then I crawled up the
+hill on my hands. The snake followed very quickly. I ran up the hill,
+then down again; but the snake continued to pursue me. The snake
+was only a few yards behihd me. I was tired out. I threw stones at the
+snake, but it did not seem to mind them at all. I thought this snake must
+be a ghost, perhaps the same man that had disappeared before. I did not
+know what to do and began to cry. Finally I said to the snake, "You
+are a ghost, let me alone." Then it let me go.
+
+39. Enga-gwacu's Experiences in the Underworld.
+
+I was roasting some salmon on issue-day about twenty years ago. I
+told my family to eat and that I would join them later. This was against
+the advice of my familiar spirit (bu'ha). That night something spoke to
+me in a dream. I dreamt of a big war where fighting was going on close
+to me. Suddenly a hail-stone struck me and I could not get it out.
+
+From that time on, I was sick, and ate very little for a month after my
+dream. My spirit did not help me any more. I felt as if I were going
+mad and was ready to die. The Sun spoke to me. He said, "You are
+going to die. Put up a separate lodge for yourself. After your death, you
+will be restored to life if you desire to be alive again." The Indians built
+me a separate lodge and left me there to die by myself.^
+
+I was still breathing. I thought of seeing my dead father and mother,
+brother and other relatives. I wished to (}ie immediately. For three
+days and four nights I lay in the tent. At last on the fourth day, my soul
+(mu'gua) came out of my thigh, made a step forward and glanced back at
+my body. The mu'gua was about as large as this (ten inches). My body
+was not yet lifeless. When the mu'gua had made three steps forward, my
+body dropped, cold and dead. I looked at it for some time; it made no
+movement at all.
+
+Suddenly something came down and went clean through my soul. My
+soul began to go downward. It did not ascend. I reached another world
+and followed a trail there. I beheld a helper of the Father (A'po) who was
+making some dead men over again. I thought I might see the Father, but
+
+* The speaker indicated the place where the lodge was erected.
+
+
+302 Anthropological Papers American Museum of Natural History, [VoL II,
+
+could only hear him. He was saying to me, *'You don't look very ill."
+A kind of thin wire was making a noise at the time. The Father had a
+buckskin bag; out of its contents he makes everything. He tapped the
+wire three times. Then I was able to see his hand, which was as small
+and clean as a baby's. Then the whole world opened up and I could see
+the earth plainly. I saw everything there. I saw my own body lying there
+dead.
+
+The Sun told me I would be restored to life. I did not walk back and
+I don't know how I returned. Suddenly I was back alive. For a few
+moments, I had seen the Father. He was a handsome Indian. My famil-
+iar spirit left me when I fell sick and never returned after that.
+
+On another occasion, I went up to the clouds. The people I met there
+were nothing but skeletons. I saw some of my friends there. In this other
+world there was a great deal of sage-brush.
+
+
+1909.] Lovne, The Northern Shoshone, 303
+
+
+BIBLIOGRAPHY.
+
+The following bibliography comprises the sources consulted in the preparation
+of this paper, as well as other publications referred to for comparative purposes.
+In the footnotes, references are made to the name of the author, followed, where
+several publications are quoted, by the letter preceding the full title in the list.
+
+Bancroft, Hubert Howe. History of the Pacific States. Vol. XXVI. San
+
+Francisco, 1890.
+Boas, Franz, (a) The Decorative Art of the North American Indians. (Popular
+
+Science Monthly, 1903, pp. 481-498.)
+
+(b) Indianische Sagen von der Nord-Pacifischen KOste Amerikas.
+
+Berlin, 1895.
+
+(c) Traditions of the Tillamook. (Journal of American Folk-Lore,
+
+1898, Vol. XI, pp. 23-38, 133-150.)
+
+BouRKE, John G. On the Border with Crook. Second Edition. New York, 1892.
+
+Brinton, D. G. The American Race. Philadelphia, 1901.
+
+Burton, Richard F. The City of the Saints. New York, 1862.
+
+Clark, W. P. The Indian Sign Language. Philadelphia, 1885.
+
+CuLiN, Stewart, (a) A Sununer Trip Among the Western Indians. (Free Mu-
+seum of Science and Art, Department of Archeol-
+ogy, University of Pennsylvania Bulletin, 1901,
+Vol. III.)
+(b) Games of the North American Indians. (Twenty-foiui;h
+Annual Report, Bureau of American Ethnology,
+Washington, 1907.)
+
+CuRTiN, Jeremiah. Creation Myths of Primitive America. Boston, 1898.
+
+Gushing, Frank H. Zufii Folk-Tales. New York, 1901.
+
+De Smet, Father. Life, Letters and Travels of Father Pierre-Jean De Smet, S. J.
+
+1801-1873. Edited by Chittenden and Richard-
+son, New York, 1905.
+
+Dixon, Roland B. (a) The Northern Maidu. (Bulletin, American Museiun
+
+of Natural History, New York, Vol. XVII, pp.
+119-346.)
+
+(b) Maidu Myths. (Bulletin, American Museum of Natural
+
+History, New York, Vol. XVII, pp. 33-118.)
+
+(c) Some Coyote Stories from the Maidu Indians of Cali-
+
+'fomia. (Journal of American Folk-Lore, 1900,
+
+Vol. XIII, pp. 267-270.)
+Domenech, Emanuel. Seven Years Residence in the Great Deserts of North
+
+America. London, 1860.
+Dorset, George A. (a) The Shoshonean Game of Nawa'tapi. (Journal of
+
+American Folk-Lore, 1901, Vol. XIV, pp. 24-5.)
+
+(b) The Mythology of the Wichita, Washington, 1904.
+
+(c) Traditions of the Skidi Pawnee. (Memoirs, American
+
+Folk-Lore Society, 1904, Vol. VIII.)
+
+(d) The Cheyenne. (Field Columbian Museum, Anthro-
+
+pological Series, Chicago, 1905; Vol. IX.)
+
+
+304
+
+
+Anthropological Papers American Museum of Natural History, [Vol. II,
+
+
+DoRSEY and Kroeber. Traditions of the Arapaho. (Field Columbian Museum,
+
+Anthropological Series, Chicago, 1903, Vol. V.)
+
+Farrand, Livingston. Traditions of the Quinault. (Publications, Jesup North
+
+Pacific Expedition, Vol. II, pp. 77-132.)
+
+Fremont, J. C. Report of the Exploring Expedition to the Rocky Mountains in
+
+the Year 1842 and to Oregon and North California
+in the Years 1843-'44. (Printed by order of the
+House of Representatives, Washington, 1845.)
+
+Gatschet, Albert S. The Klamath Indians of Southwestern Oregon. (Contribu-
+tions to North American Ethnology, Vol. II,
+Part I, United States Geological Survey, Wash-
+ington, 1890.)
+
+Gass, Patrick. Lewis and Clark's Journal to the Rocky Mountains, as related by
+
+Patrick Gass. Dayton, 1847.
+
+GoDDARD, E. P. Hupa Texts. (University of California Publications, American
+
+Archaeology and Ethnology, Berkeley, 1903-4,
+Vol. I, pp. 89-368.)
+
+Grinnell, George Bird. Blackfoot Lodge Tales. New York, 1903.
+
+Hawley, E. H. Distribution of the Notched Rattle. (American Anthropologist,
+
+Vol. XI, pp. 344-346.)
+
+Henry, Alexander. Travels and Adventures in Canada and the Indian Terri-
+tories, Between the years 1760 and 1776. New
+York, 1809.
+
+Hoffman, Waufer J. The Menomini Indians. (14th Annual Report, Bureau of
+
+American Ethnology, Washington, 1896, pp.
+3-328.)
+
+Hough, Walter. Fire-making Apparatus in the U. S. National Museum. (Smith-
+sonian Report, United States National Museum,
+1888, Washington, 1890, pp. 531-587.)
+
+Irving, Washington, (a) The Adventures of Captain Bonneville. New York,
+
+1860.
+(b) Astoria, or Anecdotes of an Enterprise beyond the
+Rocky Mountains. Philadelphia, 1836.
+
+Kroeber, Alfred L. (a) Ute Tales. (Journal of American Folk-Lore, 1901,
+
+Vol. XIV, pp. 252-285.)
+
+(b) The Arapaho. (Bulletin, American Museum of Natu-
+
+ral History, New York, Vol. XVIII.)
+
+(c) Indian Myths of South Central California. (University
+
+of California Publications, American Archaology
+and Ethnology, Berkeley, 1906-7, Vol. 4, pp.
+167-250.)
+
+(d) Shoshonean Dialects of California. (University of
+
+California Publications, American Archaeology
+and Ethnology, Berkeley, 1907, Vol. 4, pp. 65-
+165.)
+
+(e) Gros Ventre Myths and Tales. (Anthropological Papers,
+
+American Museum of Natural Nistory, New York,
+1907, Vol. I, Part III, pp. 55-139.)
+
+(f) Wishosk Myths. (Journal of American Folk-Lore,
+
+1905, Vol. XVIII, pp. 85-107.)
+
+
+1909.) Lawie, The Northern Shoshone. 305
+
+Kroeber, Alfred L. (g) Ethnology of the Gros Ventre. (Anthropological
+
+Papers, American Museum of Natural History,
+1908, Vol. I, Part IV, pp. 141-282.)
+
+Leidy, Joseph. On Remains of Primitive Art in the Bridger Basin of Southern
+
+Wyoming. (Hayden, Sixth Annual Report, United
+States Geological Survey, Washington, 1873, pp.
+651-653.)
+
+Lewis and Clark. Original Journals of the Lewis and Clark Expedition. (Thwaites
+
+Edition.) New York, 1905.
+
+Lowie, Robert H. The Test-Theme in North American Mythology. (Journal
+
+of American Folk-Lore, 1908, Vol. XXI, pp. 97-
+148.)
+
+McDermott, Louisa. Folk-Lore of the Flathead Indians of Idaho. (Journal of
+
+American Folk-Lore, 1901, Vol. XIV, pp. 240-
+251.)
+
+McGuiRE, J. D. Pipes and Smoking Customs of American Aborigines. (Report,
+
+United States National Museum for 1897, Wash-
+ington, 1899, Part I, pp. 361-645.)
+
+Mallery, Garrick. (a) Pictographs of the North American Indians. (Fourth
+
+Annual Report, Bureau of American Ethnology,
+Washington, 1886, pp. 3-256.)
+(b) Picture- Waiting of the American Indians. (Tenth Annual
+Report, Bureau of American Ethnology, Wash-
+ington, 1893, pp. 25-807.)
+
+Mason, Otis T. (a) Aboriginal Skin Dressing. (Report, United States National
+
+Museum, for 1888-89, Washington, 1891, pp. 553-
+589.)
+
+(b) Aboriginal American Basketry (Report, United States
+
+National Museum for 1902, Washington, 1904,
+pp. 171-548.)
+
+(c) Cradles of the American Aborigines. (Smithsonian Report,
+
+United States National Museum for 1887, Wash-
+ington, pp. 161-235.)
+
+(d) North American Bows, Arrows and Quivers. (Smithsonian
+
+Report, United States National Museum for 1893,
+Washington, 1894, pp. 631-679.)
+Matthews, Washington, (a) The Origin of the Utes, A Navajo Myth. (Ameri-
+can Antiquarian, Vol. VII, pp. 271-274.)
+(b) Navaho Legends. (Memoirs of the American Folk-
+Lore Society, 1897, Vol. V.)
+MooNEY, James, (a) The Ghost-Dance Religion. (Fourteenth Annual Report,
+
+Bureau of American Ethnology, Washington,
+1896, Part II, pp. 653-1110.)
+(b) Calendar History of the Kiowa. (Seventeenth Annual
+Report, Bureau of American Ethnology, Wash-
+ington, 1898, Part I, pp. 141-445.)
+Parker, Samxjel, Rev. Journal of an Exploring Tour beyond the Rocky Moun-
+tains. Fifth Edition. Auburn, 1846.
+
+
+306 Anthropological Papers American Museum of Natural History, [VoL II.
+
+Powell, J. W. (a) Sketch of the Mythology of the North American Indians.
+4 First Annual Report, Bureau of American Eth-
+nology, Washington, 188 1, pp. 19-56.)
+
+(b) Outlines of the Philosophy of the North American Indians.
+
+New York, 1877.
+
+(c) On Limitations to the Use of Some Anthropological Data.
+
+(First Annual Report, Bureau of American Eth-
+nology, Washington, 1881, pp. 73-86.)
+
+Remy, Jules. A Journey to Great Salt Lake City. London, 1861. 2 vols.
+
+Report on Indians Taxed and Indians not Taxed in the United States at the
+
+Eleventh Census: 1890. Washington, 1894.
+(Quoted as "Report 1890.")
+
+Repobts of the Commissioner of Indian Affairs.
+
+Ross, Alexander. The Fiu* Hunters of the Far West. A Narrative of Adventures
+
+in the Oregon and Rocky Mountains. London,
+1855. 2 vols.
+
+ScHOOLCRAPT, Hbnry R. (a) Historical and Statistical Information respecting
+
+the History, Condition and Prospects of the
+Indian Tribes of the United States. Philadelphia,
+1851. 6 vols,
+(b) The Myth of Hiawatha. Philadelphia, 1856.
+
+Simpson, J. H. The Shortest Route to California. Philadelphia, 1869.
+
+Spindbn, Herbert J. Myths of the Nez Perc^ Indians. (Journal of American
+
+Folk-Lore, 1908, Vol. XXI, pp. 13-23, 149-158.)
+
+Teft, James. Traditions of the Thompson River Indians. (Memoirs, American
+
+Folk-Lore Society, 1898, Vol. VI.)
+
+Townsend, John K. Narrative of a Journey across the Rocky Mountains to
+
+the Columbia River. (Thwaites, Early Western
+Travels, Cleveland, Ohio, 1905, Vol. XXI, pp.
+107-369.)
+
+WissLER, Clark, and D. C. Duvall. Mythology of the Blackfoot Indians
+
+(Anthropological Papers of the American Museum
+of Natural History. Vol. II, Part I, pp. 1-164.)
+
+Wyeth, Nathaniel J. Indian Tribes of the South Pass of the Rocky Mountains;
+
+the Salt Lake Basin, the Valley of the Great Saap-
+tin, or Lewis' River, and the Pacific Coasts, of
+Oregon. (Schoolcraft, (a) Part I, pp. 204-228.)
+
+Yarrow, H. C. A Further Contribution to the Study of the Mortuary Customs of
+
+the North American Indians. (First Annual
+Report, Bureau of American Ethnology, Wash-
+ington, 1881, pp. 89-203.)
+
+
+Anthrop. Pap. A. M. N. H.
+
+
+Vol. II, Platk I.
+
+
+ANTHROPOLOGICAL PAPERS
+
+OF THB
+
+American Museum of Natural History
+
+Vol. II, Pabt III.
+
+
+NOTES CONCERNING NEW COLLECTIONS.
+Edited by Clark Wissler.
+
+
+CONTENTS.
+
+Page
+
+Introduction 311
+
+List of Donors, 1906-1908 312
+
+North America 313
+
+The Lewisohn Tlingit Collection 313
+
+The Eskimo of Prince Albert Land 314
+
+The Eskimo of Mackenzie River 316
+
+Eskimo near Pond's Bay 316
+
+The Norton Collection 318
+
+The Booth Collection from New York State 320
+
+West Indies 322
+
+Costa Rica 322
+
+South America 330
+
+The Schmidt and Weiss Collection 330
+
+Painted Capa from Punta Arenas 332
+
+Cauca Valley Black Pottery 333
+
+Terra cotta Stamps 333
+
+Munmiified Body from Chile 334
+
+Islands of the Pacific Ocean 336
+
+Hawaii 336
+
+New Caledonia 337
+
+New Zealand 340
+
+Samoa 345
+
+Bismarck Archipelago 346
+
+Africa 347
+
+The Congo 347
+
+Benin 352
+
+British South Africa 353
+
+Archaeology 355
+
+307
+
+
+308 Anthropological Papers American Museum of Natural History. [Vol. II,
+
+Asia 356
+
+Philippine Islands 366
+
+Upper Burma 362
+
+Andaman Islands 363
+
+Archaeology 363
+
+Physical Anthropology 364
+
+
+ILLUSTRATIONS.
+
+Plates.
+
+II. From Prince Albert Land. Fig. 1 (Museum No. 60-5855 A), length 128
+cm.; Fig. 2 (60-5855 B); Fig. 3 (60-5857), length 26 cm.; Fig. 4 (60-
+5864); Fig. 5 (60-5858), length 150 cm.; Fig. 6 (60-5855 I. F, C, E, K,
+H), length 88 cm.
+
+III. Banner Stones from Valley of the Hudson. Fig. 1 (Museum No. 20.0-
+2140), length 6.5 cm.; Fig. 2 (20.0-2154), length 7 cm.; Fig. 3 (20.0-
+2148), length 10 cm.; Fig. 4 (20.0-2147), length 5 cm.; Fig. 5 (20.0-
+2152), length 5 cm.; Fig. 6 (20.0-2250), length 6 cm.; Fig. 7 (20.0-2138),
+length 9 cm.; Fig. 8 (20.0-2153), length 8 cm.; Fig. 9 (20.0-2186),
+length 8 cm.; Fig. 10 (20.0-2158), length 8 cm.; Fig. 11 (20.0-2157),
+length 14 cm.; Fig. 12 (20.0-2155), length 15 cm.; Fig. 13 (20.0-2181),
+length 13 cm.; Fig. 14 (20.0-2129), length 8 cm.; Fig. 15 (20.0-2150),
+length 6 cm.; Fig. 16 (20.0-2159), length 9 cm.; Fig. 17 (20.0-2149),
+length 5 cm.; Fig. 18 (20.0-2151), length 5 cm.; Fig. 19 (20.0-2146),
+length 5 cm.
+
+IV. Nicoya Pottery. Fig. 1 (Museum No. 30.0-1479), length 13 cm.; Fig. 2
+(30.0-1466), length 20 cm.; Fig. 3 (30.0-1469), length 13 cm.; Fig. 4
+(30.0-1315), length 18 cm.; Fig. 5 (30.0-1321), length 24 cm.; Fig. 6
+(30.0-1335), length 19 cm.; Fig. 7 (30.O-1339), length 28 cm.; Fig. 8
+(30.0-1334), length 23 cm.; Fig. 9 (30.0-1340), length 27 cm.; Fig. 10
+(30.0-1468), length 35 cm.; Fig. 11 (30.0-1485), length 24 cm.
+V. Armadillo Jar. (Museum No. 30.0-1484), length 21 cm.
+VI. Pottery from Nicoya and Terraba. Fig. 1 (Museum No. 30.0-1361),
+length 17 cm.; Fig. 2 (30.0-1371), length 27 cm.; Fig. 3 (30.0-1504),
+length 6 cm.; Fig. 4 (30.0-1364), length 5 cm.; Fig. 5 (30.0-1366),
+length 9 cm.; Fig. 6 (30.0-1367), length 9 cm.; Fig. 7 (30.0-1506),
+length 6 cm.; Fig. 8 (30.0-1505), length 8 cm.; Fig. 9 (30.0-1362),
+length 6 cm.; Fig. 10 (30.0-1363), length 7 cm.; Fig. 11 (30.0-1507),
+length 16 cm.; Fig. 12 (30.0-1359), length 11 cm.
+
+VII. Full Costume of the TukHno Indians.
+VIII. Painted Capa from Punta Arenas.
+IX. Black Pottery from Colombia. Fig. 1 (Museum No. 41.0-198), length
+12 cm,; Fig. 2 (41.0-99), length 13 cm.; Fig. 3 (41.0-183), length 14 cm.;
+Fig. 4 (41.0-148), length 10 cm.; Fig. 5 (41.0-221), length 16 cm.; Fig. 6
+(41.0-142), length 9 cm.; Fig. 7 (41.0-145), length 16 cm.; Fig. 8 (41.0-
+60), length 5 cm.; Fig. 9 (41.0-106), length 12 cm.; Fig. 10 (41.0-121),
+length 8 cm.; Fig. 11 (41.0-64), length 7 cm.; Fig. 12 (41.0-63), length
+7 cm.
+
+
+1909.]
+
+
+Notes on New Collections.
+
+
+309
+
+
+X.
+
+XI.
+XII.
+
+XIII.
+
+
+XIV.
+XV.
+
+
+XVI.
+
+
+XVII.
+
+
+XVIII.
+
+
+XIX.
+
+
+XX.
+
+
+XXI.
+
+
+A Mummy from Chile.
+
+The Kearny Feather Cape. (Museum No. 80.0-784). Length 211 cm.
+
+Technique of the Kearny Cape. Basket from New Hebrides. (Museum
+No. 80.0-734), length 30 cm.
+
+Carved Figures from Bismarck Archipelago. Fig. 1 (Museum No. 80.0-
+197), length 157 cm.; Fig. 2 (80.0-191), length 170 cm.; Fig. 3 (80.0-
+195), length 267 cm.; Fig. 4 (80.0-194), length 129 cm.; Fig. 5 (80.0-
+192), length 147 cm.
+
+Taboo House, Bismarck Archipelago.
+
+Wood Carvings from Mudandi. Fig. 1 (Museum No. 90.0-1450) length
+96 cm.; Fig. 2 (90.0-1449), length 62 cm.; Fig. 3 (90.0-1445), length
+67 cm.; Fig. 4 (90.0-1442), length 60 cm.; Fig. 6 (90.0-1444), length
+64 cm.; Fig. 6 (90.0-1443), length 58 cm.
+
+Wood Carvings from the Congo. Fig. 1 (Museum No. 90.0-3242),
+length 8 cm.; Fig. 2 (90.0-2236), length 20 cm.; Fig. 3 (90.0-2246),
+length 21 tm.; Fig. 4 (90.0-2257), length 23 cm.; Fig. 5 (90.0-5042),
+length 18 cm.; Fig. 6 (90.0-2237), length 16 cm.; Fig. 7 (90.0-5235),
+length 17 cm.; Fig. 8 (90.0-5099 A-B), length 45 cm.; Fig. 9 (90.0-
+5025), length 35 cm.; Fig. 10 (90.0-4898), length 34 cm.; Fig. 11 (90.0-
+2224), length 21 cm.
+
+African Images and Masks. Fig. 1 (Museum No. 90.0-2397), length 87
+cm.; Fig. 2 (90.0-3665), length 39 cm.; Fig. 3 (90.0-2260), length
+50 cm.; Fig. 4 (90.0-5309), length 43 cm.; Fig. 5 (90.0-2384), length
+34 cm.; Fig. 6 (90.0-2309), length 35 cm.; Fig. 7 (90.0-2308), length
+32 cm.; Fig. 8 (90.0-5308), length 92 cm.
+
+Musical Instruments from the Congo. Fig. 1 (Museum No. 90.0-2314),
+
+. length, 60 cm.; Fig. 2 (90.0-2447), length 28 cm.; Fig. 3 (90.0-5078),
+length 30 cm.; Fig. 4 (90.0-5096), length 66 cm.; Fig. 5 (90.0-5185 A),
+length 78 cm.; Fig. 6 (90.0-3125), length 99 cm.; Fig. 7 (90.0-5238-
+A-C), length 43 cm.; Fig. 8 (90.0-2417), length 44 cm.; Fig. 9 (90.0-
+2355), length 26 cm.; Fig. 10 (90.-4975), length 74 cm.
+
+Bakuba Pile Cloth. Fig. 1 (Museum No. 90.0-2208); Fig. 2 (90.0-2191);
+Fig. 3 (90.O-2204); Fig. 4 (90.0-2199); Fig. 5 (90.0-5194); Fig. 6 (90.0-
+2178); Fig. 7 (90.0-2195).
+
+Bakuba Pile Cloth. Fig. 1 (90.0-2207); Fig. 2 (90.0-2192); Fig. 3 (90.0-
+5278); Fig. 4 (90.0-2193); Fig. 5 (90.0-2183); Fig. 6 (90.0-2182);
+Fig. 7 (90.0-5195).
+
+Carved Tusks and a Bronze Head. Fig. 1 (Museum No. 90.0-97), length
+24 cm.; Fig. 2 (90.0-94), length 84 cm.; Fig. 3 (90.0-98), length 22 cm.;
+Fig. 4 (90.0-2012), length 170 cm.; Fig. 5 (90.0-95), length 62 cm.;
+Fig. 6 (90.0-96), length 67 cm.; Fig. 7 (90.0-2013), length 173 cm.; Fig.
+8 (90.0-1975), length 36 cm.; Fig. 9 (90.0-1976), length 40 cm.; Fig.
+10 (90.0-2017), length 37 cm.
+
+Baskets, Pottery, Gourds and Wooden Ware. Fig. 1 (Museum No. 90.0-
+653), length 27 cm.; Fig. 2 (90.0-1121), length 26 cm.; Fig. 3 (90.0-1117),
+length 30 cm.; Fig. 4 (90.0-1120), length 24 cm.; Fig. 5 (90.0-706),
+height 15 cm.; Fig. 6 (90.0-639), length 17 cm.; Fig. 7 (90.0-638),
+length 26 cm.; Fig. 8(90.0-796), length 37 cm.; Fig. 9 (90.0-779),
+
+
+310 Anthropological Papers American Museum of Natural History. [Vol. II,
+
+length 18 cm.; Fig. 10 (90.0-656), length 15 cm.; Fig. 11 (90.0-804),
+length 31 cm.; Fig. 12 (90.0-671), length 21 cm.; Fig. 13 (90.0-794),
+length 40 cm.
+XXII. From the Philippine Islands. Fig. 1 (Museum No. 70.1-4366), length
+18 cm.; Fig. 2 (70.1-4351), length 14 cm.; Fig. 3 (70.1-4365), length
+14 cm.; Fig. 4 (70.1-4283), length 49 cm.; Fig. 5 (70.1-4081), length
+43 cm.; Fig. 6 (70.1-2774), length 37 cm.; Fig. 7 (70.1-4083), length
+40 cm.
+XXIII. Stone Implements from China. Fig. 1 (Museum No. 70.0-180), length
+10 cm.; Fig. 2 (70.0-178), length 8 cm.; Fig. 3 (70.0-185), length 10 cm.;
+Fig. 4 (70.0-180), length 10 cm.; Fig. 5 (70.0-185), length 10 cm.; Fig.
+6 (70.0-179), length 12 cm.; Fig. 7 (70.0-186), length 10 cm.; Fig. 8
+(70.0-184), length 7 cm.; Fig. 9 (70.0-183), length 10 cm.; Fig. 10
+(70.0-181), length 8 cm.; Fig. 11 (70.0-182), length 6 cm.; Fig. 12
+(70.0- 187), length 7 cm.
+
+
+Tbxt Fiqures.
+
+Page
+
+1. Copper- bladed Knife from Prince Albert Land 315
+
+2. Leather Masks from near Pond's Bay 316
+
+3. Bone Needle Case 317
+
+4. Pictographs Etched in Ivory 318
+
+5. Throwing boards and line rack, ivory inlaid . . . • . . .319
+
+6. Kayak from Greenland and Pond's Bay 320
+
+7. Kayak from Greenland and Pond's Bay 321
+
+8. Map of Northwestern South America and the Region Occupied by the
+
+Tukftno Indians. 330
+
+9. Design from a Terra Cotta Stamp 334
+
+10. Designs, on Terra Cotta Stamps from Colombia 335
+
+11. Knots in Feather Cape 336
+
+12. Foundation Pattern for a Feather Cape 337
+
+13. Wooden Vessels from the New Hebrides 338
+
+14. Designs on a Bowl from Marquesas 339
+
+15. Technique of Maori Capes 343
+
+16. Technique of Overlay in Maori Garments 343
+
+17. Forms of Weapons from the Congo 348
+
+18. Carved Spoon Handles . . . 353
+
+19. Ivory Pins 354
+
+20. A Musical Bow 355
+
+21. Decorations on Lime Boxes 358
+
+22. Designs and Forms in Kris Decorations 360
+
+23. Types of Malayian Swords 361
+
+
+INTRODUCTION.
+
+The following publication has been prepared in response to many calls
+for information concerning new anthropological collections received at the
+Museum. The plan was to enumerate what seemed to be important fea-
+tures of acquisitions not resulting from field-work carried on under the direct
+supervision of the anthropological staff, but from the generosity of the
+many donors whose support has contributed in a large way to the increase
+of our general collections. The results of field-work together with notes
+on donated collections pertaining to related areas will appear under special
+titles in the series of which this publication is a part. While the intent was
+to treat especially such acquisitions for 1908, it seemed best to mention some
+of those received during the two or three preceding years. Since the field
+work of the staff is practically confined to the North American continent,
+relatively more space has to be given to the collections from other continents.
+In passing, it may be stated that during the period 1906-1908, inclusive,
+fourteen field parties were sent out in North America under the direction of
+the staff, all of which returned collections and data for future publications.
+In addition some collections were donated from areas not visited by these
+field parties. Such of these as seemed to add new data have received notice
+in the following pages.
+
+From foreign countries the acquisitions have been considerable. Pre-
+vious to 1906, there were in the Museum practically no representative col-
+lections from Africa nor many of the Islands of the Pacific Ocean. Since
+that time something over six thousand catalogue numbers have been added
+for Africa, while the Islands of the Pacific have greatly increased repre-
+sentation for Polynesia and Melanesia. Also where there were but a few
+scattered specimens from the Philippine Islands, there is now a large col-
+lection. Finally, mention may be made of a fairly complete collection from
+the Andaman Islands and imp)ortant collections from the South American
+Indians. As the great general gain in these foreign collections has been
+made possible by the direct and indirect donations of many patrons, the
+credit for this gratifying progress belongs to them.
+
+In preparing the following notes, no attempt has been made to discuss
+all of the important features of the various collections, but to select such as
+
+311
+
+
+312
+
+
+Anthropological Papers American Museum of Natural History. [VoL IE,
+
+
+seemed of special interest to the work of the anthropological staff and to
+current discussion. To Dr. Robert H. Lowie, are to be credited the notes
+on African collections; to Mr. George H. Pepper, those on the Central
+American states; to Miss Mary Lois Kissell, the notes on basketry and
+textiles; to Mr. Charles W. Mead, the notes on South America and New
+Zealand; to Mr. Alanson Skinner, notes on many of the archseological
+collections; to Mr. William Orchard, many of the photographs and plates;
+to Miss Ruth B. Howe, the drawings; to Miss Grace E. Taft, the technical
+arrangement of the manuscript for the press; and to Mr. William A. Sabine^
+assistance in selecting the materials to be described.
+
+The Editor.
+
+
+List of Donors, 1906-1908.
+
+
+George Albro
+
+Champe S. Andrews
+
+Dr. S. T. Armstrong
+
+Belgian Government
+
+F. A. Bertold
+
+W. M. Blake
+
+Henry Booth
+
+George S. Bowdoin
+
+Irving Brokaw
+
+Bamum Brown
+
+Bull Child (Blackfoot^Indian)
+
+Dr. Walter Channing
+
+Jas. Chapin
+
+Alex. C. Chenoweth
+
+J. R. Cushier
+
+William Demuth
+
+D^partement de rint^rieur, Etat In-
+
+d^pendant du Congo
+T. E. Donne
+Richard Douglas
+H. Duffy
+Robert Dumont
+Theo. Dwight
+Dr. J. J. Edwards
+Lieut. G. T. Emmons
+Miss Adele M. Field
+
+
+Charles H. Flint
+J. B. Foulke
+Dr. W. Freudenthal
+Robt. F. Gilder
+Wilbur F. Goodrich
+Dr. James Goodwillie
+Dr. Frederic Griffith
+Thos. M. Guerin
+Alfred Hammerstein
+Harper Bros.
+Gerald E. Hart
+George G. Heye
+G. K. Hollister
+Henry W. Howell
+Archer M. Huntington
+Morris K. Jesup
+Mrs. Morris K. Jesup
+Henry E. Jones
+Mrs. D. F. Kelley
+George A. King
+George B. King
+Edward J. Knapp
+Mrs. Charles B. Knox
+E. Kuzmier
+Frank G. Lahey
+Dr. E. A. Le Souef
+
+
+1909.]
+
+
+Notes on New Collections.
+
+
+313
+
+
+Dr. A. B. Lewis
+
+R. Maccarone
+
+W. S. MacCoUester
+
+T. MacGregor MacDonald
+
+G. Archibald McTavish
+
+Mrs. Niles Ross Martin
+
+E. P. Mathewson
+
+Mrs. J. J. Mayhan
+
+George W. Maynard
+
+Metropolitan Museum
+
+Paul C. MUler
+
+Pitser Miller
+
+Hon. Mason Mitchell
+
+J. P. Morgan
+
+Ralph M. Munroe
+
+B. T. Nash
+
+Dr. Francis C. Nicholas
+
+G. Frederic Norton
+
+George N. Pindar
+
+Paul Radin
+
+Miss Dorothy Reed
+
+Miss F. L. Risley
+
+Capt. Wirt Robinson
+
+Sheldon Rodman
+
+T. S. Rumney
+
+M. F. Savage
+
+
+Emest Schemikow
+Mrs. C. Scheuer
+Mrs. Philip Schuyler
+Mrs. Louis Scott
+Dr. L. L. Seaman
+Chas. H. Senff
+H. W. Seton-Karr
+Henry Siegel
+Alanson Skinner
+Capt. Joshua Slocum
+Harlan L Smith
+Mrs. J. Smith
+J. G. Phelps Stokes
+Mrs. Mary H. Taft
+R. Thys
+
+C. H. Townsend
+J. Reeve Van der Veer
+W. A. Welch
+Mrs. John Wheelwright
+Caspar Whitney
+Gen. Charles A. Whittier
+Miss T. Wilbour
+Mrs. Viola G. Wissler
+Women's National Relief Associa-
+tion
+Louis G. Zumaya
+
+
+NORTH AMERICA.
+
+
+During the interval (190&-08) the Museum acquired, as the results
+of field-work, collections from the Eskimo, Cree, Assiniboine, D6n^, Sarcee,
+Nez Perc^, Blackfoot, Crow, Shoshone, Dakota, Hidatsa and Iroquois;
+also archaeological collections from Wyoming, Idaho and New York. These
+collections will receive special attention in future publications based upon
+the results of the several investigations now under way. The following
+notes, therefore, refer to collections, acquired by gift or otherwise, from
+regions or peoples not at present the subjects of investigation by the anthro-
+pological staff.
+
+The Levnsokn Tlingit Collection. Mr. Adolph Lewisohn presented an
+important collection from the Tlingit Indians of Alaska, collected by Mr.
+Louis Levy. Among the ceremonial objects may be mentioned a shaman's
+
+
+314 Anthropological Papers American Museum of Natural History. [Vol. II,
+
+box, or the chest containing a shaman's outfit, evidently taken from a grave
+after several years of exposure by which the contents were somewhat dam-
+aged. In the box were a few carved rattles, ivory necklaces, a head-dress
+of carved goat-homs, a bunch of the shaman's hair, and a number of small
+bundles. These latter are from a subjective point of view the most im-
+portant, consisting of the skins of small animals and birds wrapped up with
+sticks, pieces of cloth and other small objects. In treating the sick, the
+shammi holds these little bundles in his hand, waving them over the patient,
+while. 3Jhging songs and uttering prayers. In the bottom of the box was
+found tlie most important of all, a small package containing a number of
+vegetable compounds the uses of which were known only to the shaman
+himself. Of some interest also is a series of one hundred decorated baskets
+for which Mr. Levy secured pattern names. Making due allowance for
+differences in translation, the names for the various figures agree fairly well
+with those recorded by Lieutenant G. T. Emmons.^
+
+The Eskimo of Prince Albert Land, In 1907 a small collection was
+received from Captain S. F. Cottle to whom it was given by the commander
+of a whaling vessel that touched at Minto Inlet, at which point he met the
+Eskimo from w^hom the specimens here mentioned were said to have been
+received. So far as our observation goes no specimens from this coast have
+been described. The bow (Plate ii) is of wood, rather heavy, with the
+double curve- sometimes seen in Alaskan bows. The belly is of one piece
+but the ends are built up by splicing in the same manner as the arrows to
+be described later. The greater curve at one end is due to a break under
+the lashing. The back is not trussed by a cable, but by a layer of sinew
+cords, held in place on the belly of the bow by a single cord running in a
+spiral. The only lashing is at the bend where the cord is laced somewhat
+like Alaskan bows. Another feature found also on some Alaskan bows is a
+backing of rawhide underneath the sinew strands, extending the entire
+length and hooked over the notched ends. Again under the lashing at the
+bends and at the grip, the bow is reinforced by plates of bone, as in some
+Alaskan bows. Curiously enough a piece of sheet iron, probably part of a
+tin, has been laid over one of these plates. The quiver is simple, but seem-
+ingly different in shape from those of other tribes. There is no bow-case.
+The carrying strap is a curious band of braided sinew.
+
+There are seven arrows with copper points and three with bone. The
+former are provided with fore-shafts of bone which with one exception are
+barbed upon one side. The copper points are of three types: a leaf-shaped
+point with a tang driven into the fore-shaft, a triangular point set in a notch
+
+
+1 Memoirs. American Museum of Natural History, Vol. Ill, Part II, pp. 229-277.
+
+
+1909.]
+
+
+Notes on New Collections.
+
+
+315
+
+
+and held by a copper rivet, and a triangular point bearing at one side of the
+base a barb similar to those on bone fore-shafts. One of the bone points
+is of the same form as last mentioned. The remaining bone points are of
+the familiar long one-side-barbed type (Plate ii).
+
+The arrows range in length from 82 to 87 em. Three of them have
+three feathers, the others but two. In a few eases the upper end of one
+feather is forced into an incision on the shaft instead of passing under the
+sinew wrapping. The shafts have been built up from several pieces of
+wood neatly fitted in v-shaped splices and apparently arranged so as to pre-
+vent warping. The fore-shafts are inserted, the shafts being reinforced at
+that place by sinew wTapping.
+
+There is also a copper-bladed woman's knife (Fig. 1) with a two-part
+bone handle and what appears to be a bone
+dagger with a wrapped grip suggesting Athapascan
+influence (Plate ii).
+
+A woman's coat has a long narrow tapering
+tail resembling most those of Cumberland Sound.
+The hoods are pointed in the extreme. A cap
+cut to fit the head closely and surmounted by the
+beak of a bird is of unusual interest. The
+assimiption is that this cap was worn inside the
+hood, whose tip rested on the spike-like beak at
+the top. It is formed by piecing narrow strips of
+caribou skin, those with the hair and those dressed
+alternating. The dressed bands are painted red
+and black. The same kind of technique is found
+on the knee-bands of a pair of trousers and the facing of a coat. Assuming
+that the hair-covered strip simply divides the painted bands, the color
+scheme is two red, one black, etc., with a variation for the front of the cap.
+A long scattering fringe hangs from its top.
+
+From a comparative point of view, this small collection is of some interest.
+We find similarities to Alaskan Eskimo culture on the one hand and to
+Central Eskimo on the other. Thus while many features of the bow are
+Alaskan, the use of many strands and the form of the wrapping suggest the
+Central culture. The arrows also show some western characteristics,
+but in the form of some points duplicate specimens from the east.^ The
+woman's knife has the form of modem examples from the west coast of
+Hudson Bay. The cut of the garments also resembles those from Hudson
+Bay, but the technique of decoration suggests Alaskan or even Siberian in-
+fluence.
+
+
+Fig. 1 (60-5866). Copper-
+bladed Knife from Prince
+Albert Land. Length, 8 cm.
+
+
+» See Bulletin, American Museum of Natural History, Vol. XV, p. 83.
+
+
+316
+
+
+Anthropological Papers American Museum of Natural History. [Vol. II,
+
+
+The Eskimo of Mackenzie River. By purchase a small number of
+specimens from the mouth of the Mackenzie River were secured. There
+are models of kayaks, the well-known Eskimoan hand drum, snow probes,
+bone needles, horn spoons, a set of wooden gambling sticks, and a bow
+with quiver full of arrows. The arrows are two-feathered. Of bird arrows
+there are three types: (a) a blunt cylindrical point; (b) a blunt point ending
+in three radiating wings; and (c) one ending in four such wings at right
+angles. Curiously enough while the most of these are of bone, there are
+two with iron points worked out as in t}^pe c. The barbed arrows are longer
+and heavier than the preceding, bearing long iron points variously barbed.
+
+
+Fig. 2(60-5877,8). Leather Masks from near Ponds Bay. Lengths, 23 cm.
+
+
+The decorations upon these shafts and points are various combinations of
+parallel lines either transverse or spiral. The bow is of wood in single
+curve, backed with two sinew cables, lashed near each end and slightly at
+the grip. The quiver is ornamented by pairs of parallel oblique red lines
+and on its back is a small pocket containing sinew, presumably for mending
+arrows.^
+
+Eskimo near Pond's Bay. During the year a collection was received
+from the Eskimo residing in the vicinity of Pond's Bay and Eclipse Sound,
+northeast of Baffin I^and. Most of the specimens have the general char-
+acteristics of Central Eskimoan culture quite fully described in recent
+
+
+1 This collection by gift from Mrs. Morris K. Jesup.
+
+
+1909.]
+
+
+Notes on New Collections.
+
+
+317
+
+
+publications from this Museum.* Further, it may be said that they show
+many of the minor details peculiar to Cumberland Sound collections. We
+may mention, however, four leather masks, since with one or two exceptions
+such masks have not been found in previous collections from this area.
+Two of them are similar to the one described by Professor Boas as having
+been collected near Cumberland Sound.' The mouths and eyes are bordered
+by strips of white sealskin while the faces of the masks are black. Both
+have the curiously cun'ed bands on the forehead, the lines radiating from the
+nostrils and chin, and heavy eyebrows of fur. The remaining two want
+the radiatting lines and have in addition hairy lips. One has peculiar squint-
+ing eyes (Fig. 2).
+
+Since the distribution of stone pipes among the Central Eskimo has
+frequently been a matter of discussion, it may be of interest to note that
+eight are found in this collection. Most of these are brass-bound and iden-
+tical in form with those described as from the west coast of Hudson Bay.'
+According to Professor Boas, the tribes west of Hudson Bay made these
+stone pipes, whence it seems probable that they are also made at Pond's
+Bay.
+
+A gracefully fashioned throwing board has the cur\'ed head and is other-
+wise identical in detail with a specimen illustrated in a previous publication.*
+
+The number of slate blades and points is unusual for
+Central Eskimo collections. The knife blades are of two
+forms, the usual triangular woman's knife blade with one
+or two perforations and a long narrow straight-backed
+blade resembling Alaskan knives. It seems, however,
+that the blades of the triangular form are peculiar in that
+the cutting edges are straight instead of curved. There are
+also a large number of triangular slate points with one and
+two perforations. Finally there is a complete harpoon
+head fashioned from a single piece of slate.
+
+A rectangular needle case, apparently an old specimen
+picked up on a camp site, is shown in Fig. 3. In cross-
+section, it is very like a Netchillik case,* which Professor
+Boas considered exceptional, though paralleled by a single
+specimen from King William Land. On the other hand,
+the decoration of this needle case is produced by dots in-
+stead of lines, though its general arrangement is somewhat
+like the two just mentioned.
+
+
+Fig. 3 (60-6019).
+Bone Needle Case.
+Length, 8 cm.
+
+
+* Franz Boas, Bulletin, American Museum of Natural History, Vol. XV, 1907.
+2 Bulletin, Vol. XV. op. cit., p. 140, fig. 169.
+
+8 Bulletin, Vol. XV. op. cit., p. 110, fig. 160.
+
+* Bulletin, Vol. XV, op. cit., p. 16.
+
+» Bulletin, Vol. XV. op. cit., p. 459.
+
+
+318
+
+
+Anthropological Papers American, Museum of Natural History. [Vol. II,
+
+
+Perhaps of greater interest is a small curved piece of ivory resembling
+the bow of a drill upon the sides of which are small delicate pictographs.
+Unfortunately the specimen is old and much weathered so that its entire
+restoration is impossible (Fig. 4). However, what we have bears a closer
+analogy to Alaskan art than anything so far brought to our notice among
+the collections from the Central Eskimo.
+
+Finally, mention should be made of a peculiar ornament bearing four
+rows of caribou teeth, in series, arranged on a rectangular mat of two colors.
+The whole is backed by a piece of membrane, apparently seal intestine.
+The only similar specimen we have seen is from St. Lawrence Island, Alaska,
+collected by Lieut. G. T. Emmons (0-346). This is a long girdle bearing a
+
+
+I T /r
+
+
+fe-R^
+
+
+X ^^ ^>T^^^fainiii
+
+
+iLjHii
+
+
+',fiimIMSimurj^:^/iiTmii<^ ' n
+
+
+/i'"%n^
+
+
+i»iff "'''^^^^.
+
+
+Fig. 4 (60-5944). Pictographs on Ivory. Length, 23 cm.
+
+single row of such teeth; but arranged and attached in precisely the same
+manner as on the' Pond's Bay piece.
+
+Thus there are several peculiar resemblances to Alaskan culture presented
+by this collection from Pond's Bay, one of the extreme eastern out-posts of
+the Central Eskimo.
+
+The Norton Collection. An interesting series of specimens from Hoktens-
+borg and Discoe Islands off the southwest shore of Greenland was presented
+to the Department by G. Frederic Norton. The series from Holstensborg
+consists of a complete kayak outfit of the Greenland type. While there is
+nothing strictly new or suggestive in this collection, some of its characteristics
+may be given, since no American writer seems to have described Greenland
+specimens from this point of view. There is the characteristic harpoon and
+lance, each with a throwing board. As shown in Fig. 5, the throwing
+
+
+1909.]
+
+
+Notes on New CoUectiona,
+
+
+319
+
+
+board is held in position by two ivory pegs. In throwing the slanting peg
+fits into the eye of the board which is shaped so as not to bind when the
+throw is made. For details as to manipulation as well as illustrations of
+parts, see Fridtjof Hansen's Eskimoliv.^ The two throwing boards col-
+lected by Mr. Norton differ in the form of the grip, one having a series of
+notches for the fingers instead of a single groove.
+
+Perhaps the most characteristic general feature of Greenland specimens
+
+
+y
+
+
+Fig. 5 a (60-6199), b (60-«193 B), c (60-6192 B).
+inlaid. Length of a, 27 cm. ; b 44 cm. ; c, 44 cm.
+
+
+Throwing boards and Line Rack, Ivory
+
+
+is the inlaying and trimming with bone and ivory. Kayak paddles are
+tipped and edged with bone, the support of the line rack (Fig. 5c) is inlaid
+with disks and crossbars of ivory similar to the inlaying and trimmings of
+the two throwing boards shown in the illustration. The fore-shafts of the
+harpoons and lances are decorated with incised designs and relief work,
+while one harpoon shaft is topped by an ivory ball with a carved pedestal.
+While it may well be, as has been suggested, that this technique is the result
+
+
+1 Also F. Krause, Smithsonian Report for 1904, pp. 619-638.
+
+
+320
+
+
+Anthropological Papers American Museum of Natural History. [Vol. II,
+
+
+of long contact with Europeans, the illustrations in many books treating of
+Greenland indicate considerable permanence of motive as well as detail in
+all such decoration.
+
+The kayak seems to be of the typical Greenland
+type, and is well-fumished with carved ivory sup-
+ports, toggles and buttons. Fig. 6 shows the deck
+with its trimmings and the outline in longitudinal
+section. In this connection the reader may be
+referred to an illustration showing all the accessories
+such as float, lance, harpoon, line, etc., in place for
+the hunt, from which an idea of the use of these
+various toggles can be had.^ A kayak collected in
+the vicinity of Pond's Bay bears some striking resem-
+blances to the Greenland type, the paddles being
+almost identical (Fig. 7).
+
+The Booth Collection from New York State. A
+notable accession, during the past year, was the
+Henry M. Booth collection of archaeological speci-
+mens from New York State. The collection which
+numbers 1154 catalogued specimens was gathered
+almost entirely from the Hudson River Valley in and
+between Westchester County and Albany, and well
+represents the prehistoric culture of the Algonkin
+Indians of that region.
+
+One feature deserving of special mention is the
+unusually large number of banner stones. While
+these finely made and little understood objects occur
+throughout New York State, and the New England
+and Middle States in general, they are as a rule far
+from abundant in any locality. From the compara-
+tively small area covered by this collection, however,
+come about twenty specimens, both whole and frag-
+mentary. They are of several types, notably the
+plain, notched and perforated forms. The latter
+showing considerable range of design and recalling
+the archaeology of Ohio, Indiana and the middle
+west generally. The perfectly plain, unnotched type
+is quite infrequent, though not unknown along the
+New York seaboard, and the one shown in Fig. 13,
+Plate III, is a decided rarity; whereas, from other collections examined by
+
+
+I'
+
+
+Fig. 6 a, 6 (60-6190.1).
+Kayak from Greenland
+andlPonds Bay. Length,
+225 cm.
+
+
+> Hansen. Eskimoliv. p. 37.
+
+
+1909.]
+
+
+Notes on New CoUeciions.
+
+
+321
+
+
+the writer, it might be supposed that the notched form, Fig. 16, would be
+well represented. Another shown in Fig. 4 was in process of manufacture,
+the shaping being completed, and drilling, evidently with a stone drill,
+begun. This latter fact is rather unusual as the un-
+finished specimens in other collections usually show
+a core, suggesting the use of a hollow reed and sand
+drill. Fig. 3 shows a broken specimen, the fractured
+surfaces of which have been smoothed over and the
+object apparently still kept for some purpose.
+
+Several "bird'' amulets, a number of gorgets, and
+one or two stone tubes are also in the collection, as
+are a number of semilunar knives and one rubbed
+slate arrow or knife point. The celt is more frequent
+than the grooved axe, several types of each occurring.
+The gouge, adze, and long pestle, so typical of New
+England are very well represented. The number of
+long stone pestles is truly astonishing. Several very
+deep stone mortars and a large grooved stone of the
+type usually considered as having been used to shape
+arrow shafts may be mentioned.
+
+Pottery is rather poorly represented, and is in the
+main Algonkian though some Iroquoian types occur.
+Steatite seems nearly as common for the area in
+question. No pipes of either clay or stone are
+among the specimens. There is, however, what
+appears to be the stem of a broken steatite pipe,
+worked over for a bead or other ornament.
+
+The bulk of the collection is made up of flints,
+arrow points, knives, drills, chips, rejects, etc., ham-
+merstones, sinkers, grooved and notched. There are
+several notched axes, and one or two pitted stones of
+the so-called '*lap stone" type. There are several
+trade articles and articles of Indian make inspired
+by European contact, the most interesting being a
+steatite bullet mould and an earring of brass or
+copper wire upon which are strung several shell
+beads.
+
+Judging the prehistoric culture of the Hudson
+River Valley above Manhattan Island by the material
+
+at hand; the number of long pestles, gouges, and adzes; the scarcity of
+pottery in contrast to the comparative abundance of steatite; the presence
+
+
+y
+
+
+Fig. 7 a, b (60-«167,
+6172) Kayak from Green-
+land and Ponds Bay
+Length 216 cm.
+
+
+322 Anthropological Papers American Museum of Natural History, [Vol. 11^
+
+of the rubbed slate semilunar knives, etc.; one is inclined to class it with
+the culture of New England, especially that of the Connecticut River Valley.
+It may be well to note that the Mahican, who within historic times held the
+Hudson River Valley — at least on the east bank, from whence this collection
+was largely derived, — were the immediate ancestors and near relations of
+the Mohegans of the lower Connecticut River valley, who separated from
+them about the period of European contact. (A. S.)
+
+West Indies, Dr. S. T. Armstrong presented a collection of five stone
+axes from the Island of Cuba, collected in 1898 in the Department of Puerto
+Principe. They are particularly interesting in view of the fact that archaeo-
+logical material from this Island is hard to obtain.
+
+A large stone axe and a rubbing stone from St. Vincent were presented
+by Mr. T. MacGregor MacDonald of Wallilabo, St. Vincent, B. W. I.
+The former was found at Chateau Belair and the latter came from Walli-
+labo.
+
+Another collection of typical stone implements from St. Vincent was
+obtained by exchange. The predominating implement is the axe. The
+material was collected by Rev. Thomas Huckerby, a missionary who lived
+at Chateau Belair. Many of the specimens were found by this gentleman,
+and the remainder were obtained by purchase from natives in the villages
+where they were found. The major part of the material came from Stubbs
+Village, Barronallie, Layon, Fitzhughes, Troumacca Valley and Petit
+Bordel.
+
+Costa Rica, During the past year, the Anthropological Department
+has been enriched by the addition of a collection of pottery and stone objects
+from Costa Rica. Many of the specimens are new forms which help to fill
+in the gaps in the Museum material from this culture area, and there is one
+group from the southern part of the country that may be new to science.
+The material was bought in Costa Rica by Mr. E. O. Schemikow of this city,
+and presented to the Museum. The material as presented was a combina-
+tion of four lots, one of which was known as the Weiss collection, this being
+the largest. The other three were the La Croix, Gruinter and Underwood
+collections. The only one of the four that was properly catalogued was
+the one made by Weiss. According to Mr. Schemikow, Mr. Weiss is an
+experienced collector who can be trusted, inasmuch as he is careful to ascer-
+tain the exact location of the ** finds" that come into his hands. This col-
+lection comprises specimens from the following places: — Nicoya, Buenos
+Aires, Province of Terraba; San Isidro de Arenilla, at the foot of the vol-
+cano of Irazu; Cartago; and Santo Domingo de Heredia.
+
+The Costa Rican fictile productions of the prehistoric period are well-
+known through the researches of Hartman and others. The great pre-
+
+
+1909.] Notes on New CoUectiona. 323
+
+ponderance of fictile productions in the Isthmian region has been pointed
+out by Professor Holmes in his memoir on the Chiriqui.^ He states that
+the graves had *' yielded to a single explorer upwards of 10,000 pieces of
+pottery, and this chiefly from an area perhaps not more than fifty miles
+square." The same author also states that pottery vessels constitute at
+least ninety percent of the known art of the people. The percentage in
+Costa Rica would be somewhat lower, as the art of stone carving was devel-
+oped to a much greater degree especially in the northern part of the region ;
+but pottery was the greatest of the non-{>erishable objects that were made
+by the old Costa Ricans. A number of different wares are represented from
+the various parts of the country; but the most ornate, both in symmetry
+and in decoration, is from the Nicoya Peninsula. The Museum has a col-
+lection from this region which shows in a fairly representative way the
+types and decorations. An exchange with the Carnegie Museum of Pitts-
+burg added a few new forms and furnished a rather complete series of
+small stone objects, especially amulets, beads of jadeite and other stones.
+Although most of the typical forms were in evidence, the Museum collection
+was not large enough to furnish material for comparative studies. The
+collection under consideration will, however, add materially to this series,
+especially that showing the large, elaborately decorated jars from Nicoya.
+A series of the Nicoya jars may be seen in Plate iv. There were eleven
+large jars of this form and several smaller ones, each with a flaring annular
+base and with decorations of painted or raised designs. Fig. 8 is of the
+globular form with the upper half maintaining a gentle taper from the
+median line to the rim. The annular base is missing; but, at the point
+where it was fastened to the lower part of the vessel, there is a scarified area
+made no doubt to facilitate the joining of the two independently made parts.
+The vessel is 20.5 cm. in height and 16.5 cm. in width at the central part.
+The body color is dark cream and the painted ornamentation is in black and
+red. The decorative devices are a combination of painted and relief ele-
+ments. The head of a tiger is modeled in the round, and placed at the base
+of the painted band that surrounds the rim. The main physical features
+are accentuated by means of rather broad bands of black and red. On the
+opposite side of the jar there is a painted design evidently made to represent
+the tail of the animal. On the other two sides there are large painted zoo-
+morphic figures the bodies of which are red. They are outlined with black
+and special features such as the eyes are of the same color. Directly above
+the figures and encircling the rim are several narrow bands and one broad
+one with interlocking terrace-shaped figures, possibly conventionalized
+animal forms.
+
+
+1 Ancient Art of the Province of Chiriqui, William Henry Holmes, 6tii Annual Report,
+American Bureau of Ethnology.
+
+
+324 Anthropological Papers American Museum of Natural History. [Vol. II,
+
+Fig. 7 has a flaring neck, a raised band encircling the body at the widest
+part, and a high annular base. The lower part of the stand was flaring,
+but the major part of it is missing. The painted decorations are in black
+and red, confined to three broad bands which encircle the neck, central part
+and base. The color work extends also to an animal head and fore-l^s
+which are modeled in the round and attached to the upper part of the jar.
+The head is shown with open mouth, protruding tongue and with the paws
+resting against the lower jaw. The teeth are represented by painted lines
+and the other features are heightened by the application of red paint and
+black line work. This jar is 27.5 cm. high and 19.5 cm. in diameter at the
+broadest part.
+
+One of the most elaborately decorated vessels that has been noted from
+Costa Rica is shown in Plate v. Unlike many vessels of this character, it
+has been a tripod jar, all of the others in this collection having annular bases.
+The hind legs and tail have been lost, but otherwise the jar is practically
+perfect. The body color is of rich maroon. Over this a light cream slip
+has been placed, forming the background for an elaborate color scheme.
+The whole represents, in a most convincing way, the body of an armadillo,
+the physical features brought out by painting and modeling, and the whole
+treatment furnishing one of the most striking evidences of realism so far
+noted in the fictile productions of the Isthmian region.
+
+The armadillo is an animal well-known in most parts of tropical America,
+extending from Mexico through Central America to South America where
+it has a wide range. It is peculiarly marked and presents an admirable
+motive for pottery decoration, being especially adapted to relief and incised
+techniques. The Chiriqui area is noted for its vessels which show the
+armadillo figure or conventionalized adaptations of its form. This feature
+has been developed by Dr. MacCurdy; ^ but in the large collection brought
+together by Professor O. C. Marsh, now in the Yale University Museum,
+there seems to be no evidence of an attempt to represent this animal in as
+elaborate a way as in the specimen under consideration. Dr. Carl Hartman
+in his extended researches in Costa Rica did not find, or at least has made no
+mention of, such a high development of zoomorphic delineation as applied
+to the armadillo. The armor-like carapace of the armadillo is the most
+characteristic feature of its anatomy. Its protective qualities would natur-
+ally appeal to a primitive people who were given to the reproduction of animal
+forms in their art products. This then would be the distinctive feature
+when conventionalism was resorted to, and it is only natural that it should
+be accentuated in a semi-realistic jar adaptation. Referring to Plate v, a
+
+
+Congr^s International ties Americanist es, Tome II, Quebec, 1907, pp. 147-163.
+
+
+1909.] Notes on New CoUecHona. 325
+
+broad decorated band may be seen encircling the jar, with the exception of
+an area directly below and including a strip that is defined by the space
+between the fore-legs. This band represents the carapace of the armadillo,
+and the open space the belly of the animal which is covered with hair instead
+of dermal plates.
+
+The common armadillo of this region is the Tatu novemcinctumy and in
+comparing the decoration of this jar with the animal this species will be
+used. This, as the name implies, is the nine-banded armadillo. These
+transverse dermal plates are so arranged that, in the living animal, they over-
+lap. They have the appearance of rows of narrow incisor teeth placed side
+by side, the upper shaded area and the intervening space forming a saw-tooth
+band that extends the entire length of each plate. In applying this design
+to the vessel, the artist has modeled seven slightly depressed bands; then
+by means of black paint the ridges that separate the bands were accentu-
+ated; after which, with the same color, a saw-tooth strip, similar to that on
+the animal, was painted on each band. The intervening spaces, — that
+b, between the teeth, — were left unpainted and, as these were the dull
+cream slip of the jar, they caused a perfect representation of the natural
+rows of tooth-like divisions as already described.
+
+In considering the other physical features of the jar, we find that the
+head, legs and tail have been modeled in relief. The hind legs and tail are
+missing, but these three parts formed the tripod upon which the vessel
+rested. The hind legs were evidently cylindrical in form, whereas the tail
+was semicircular. The fore-legs are modeled in low relief from the shoulders
+to the paws. The paws have been modeled in the round; but, owing to the
+fact that they are missing, it is impossible to determine their shape. The
+arms are outlined with broad bands of red. The head is perfect with the
+exception of the end of the nose. Unlike most animal heads, this one is
+solid in construction, the form being concavo-convex, causing the under
+part of the head to be hollow. The head shows the characteristic pointed
+nose. Th^ ears, very large in the living animal, are modeled in relief and
+accentuated with red bands. The major part of the head has been painted
+black, and there are designs in white in the form of dots and scrolls which
+give an effect similar to that shown in the lost color ware of Chiriqui. The
+nose itself is salmon red in color, and there is a pointed design on its upper
+part. This design is formed by black and cream lines, surrounding a
+wedge-shaped figure of dark red. Above this, there are three red dots on
+the cream slip which was not covered by the black band on which the
+scrolls and dot^ were traced. At the base of the head there is a salmon red
+band and below this there is a scroll design in black encircling the neck.
+On the breast, which is painted a salmon red and outlined with dark red,
+
+
+3 26 Anthropological Papers American Museum of Natural History. [Vol. II,
+
+there is a triangular design of black surrounded by lines of cream, black,
+and a broad band of red. On the outer edge of the last-named band, there
+is a series of black dots. Directly below this design there b another of
+circular form, the central part being black. This is surrounded by a band
+of cream and this in turn by a band of black and another broad band of red.
+What these designs typify, cannot be stated, but they form a striking finish to
+this part of the vessel.
+
+At either end of the dermal plate band there is an area painted black.
+This extends from the upper part of the hind-legs to the shoulders. Over
+this area a series of lines and dots have been traced, the appearance being
+that of the lost color designs of the Chiriqui pottery and similar to that on
+the head of this jar. The space above and below the dermal plates was
+decorated with bands and scroll designs of a salmon red color. Below this,
+on the base of the vessel, there is a narrow band of the cream-colored slip ;
+then a band of black, and below this a broad band of red. These three
+bands begin at the base of one of the black areas mentioned, pass below the
+dermal plate area, around the tail, and back to the corresponding black area
+opposite. The remaining portion forming the base of the vessel is covered
+with the cream slip.
+
+The designs on this vessel are fairly well preserved on one side but, on the
+opposite side, at least one-half of the surface has been denuded not only of
+the decorations but also of the cream-colored slip. In its present condition,
+without the legs it measures 20.5 cm. in height, and 16.5 cm. in width at the
+widest part.
+
+Regarding the other vessels shown in Plate iv, little need be said. They
+are all of the annular base type, but in the case of one of them the base is
+missing. The series serves to show the variations in form and, although in
+most of them the designs are partly obliterated, enough remains to indicate
+the similarity of treatment in this type of jars.
+
+The bowls from the Nicoya peninsula are of various forms, some ha\'ing
+tripod bases, others annular bases, and a third form is the simple type in
+which no base ai)pears. A series of these bowls is shown in Plate vi. They
+have a dull red or cream background, upon which is developed a series of
+designs of geometrical or zoomorphic character. The designs are all painted
+and usually a combination of red and black colors is used in the delineation.
+
+In Plate iv, Figs. 9-11, a series of three of the smaller jars with annular
+bases is shown. As they are similar to the large ones that have been de-
+scribed, and as they are devoid of raised figures, no special description is
+necessary. Suffice it to say, that the painted designs, which are so well
+preserved that the decorative scheme may be readily seen in the illustration,
+are composed of figures in black and red. The smallest jar of this series
+
+
+1909.] Notes on New Collections. 327
+
+has a polished surface, the ware being much better than that generally
+employed in this region in making this type of vessel. There are many other
+interesting forms from the Nicoya peninsula that might be described in
+detail; but, owing to the fact that similar specimens have been described
+or figured by other writers, these need not be mentioned.
+
+A rather interesting specimen of red ware which is shown in Plate vi,
+Fig. 2, was found at San Isidro de Arenilla at the foot of the volcano of
+Irazu. This is a cylindrical vessel of red ware having flaring ends. There
+are two raised bands encircling the body at either end, and two bands of
+similar form spanning the central part. Between these bands there is a
+series of raised lines which have been applied in a slanting position. These
+bands are in series of three, each series being separated by two bands form-
+ing an acute angle. This object is devoid of painted decoration other than
+the red slip which covers the entire surface. Both ends of the cylinder
+are open and, from its appearance, it would seem that the vessel has prob-
+ably been a drum; for in many respects it is similar to specimens found in
+the Chiriqui region. These drums had a piece of skin stretched over the
+end, and the raised bands facilitated the fastening of the skin to the pottery.
+There is a raised surface of a similar nature on the drums figured by Pro-
+fessor Holmes in his "Ancient Art of the Province of Chiriqui." The ends
+of this object are open. It is possible that these cylinders were used as jar
+rests or for some similar purpose, but their form and general treatment would
+seem to indicate that they had been drums.
+
+In the collection there are a number of pottery vessels collected by a
+priest. Rev. Jos6 Nieborowski at San Jos6, Terraba. This material was
+especially noticeable, owing to its similarity to certain Chiriquian forms.
+It was, therefore, deemed advisable to make a comparative study of the
+specimens from the two regions in an endeavor to deteiiaine whether these
+specimens had actually been found in the Terraba region, or whether they
+had come from the Chiriquian culture area. In buying collections of this
+nature from men who do not realize the importance of scientific data, there
+is always a chance of the material having been found at a distant point and
+shipped to the place where it is obtained. As the Terraba region is quite
+near the Chiriqui boundary line, such a proceeding might be possible. On
+the other hand, it is also possible that the Chiriquian culture extends to the
+region of the Terrabas. However, the points of similarity seem to indicate
+that the specimens might well have come from the region as represented.
+
+Senor de Peralta, President of the Commission from Costa Rica to the
+exposition in Madrid in 1892-93, prepared a resum6 of the existing knowl-
+edge concerning the tribes of Costa Rica. He has the following to say con-
+cerning the Terraba region:
+
+
+328 Anthropological Papers American, Museum of Natural History, [Vol. II,
+
+"Southeast of the Chorotega and the heights of Herradura and south of the
+Guetares, extending to the Pacific Ocean between the rivers Pirris and Grande of
+Terraba was the province of the Quepo, of which the Spanish Government formed
+the district of Quepos, the extreme limit toward the southeast was the old Chiriqui
+River. According to the most probable conjectures the Quepos belonged to the
+family of the Guetares and lived, by preference, on the coasts. They were also
+enemies of the Mangues and the Cotos and Borucas and in consequence of their wars
+with them and with the whites, and with the burden of labor laid upon them by the
+latter, their towns disappeared in the middle of the 18th century without leaving
+any positive traces which will enlighten us upon their origin. Adjoining the Quepos,
+the Cotos or Coctos occupied the upper valley of the river Terraba, formerly known
+as the Goto. They are not known in Costa Rica by this name; but there is no doubt
+that the Borucas are their descendants. These Borucas occupied the region about
+Golfo Dulce, formerly the gulf of Osa, east of the River Terraba. The Terrabas, who
+have given their name to the river formerly called the Goto, do not belong to the
+tribes of the Pacific slope. They were brought to the location there, which they now
+occupy, in Aldea or Terraba, partly by the persuasion of the missionaries, partly by
+force, having been obliged to abandon the rough mountains to the north about the
+head waters of the Tilorio or Rio de la Estrella, the Yurquin and the Rovalo about
+the year 1697. They have been variously called the Terbis, Terrebes, Terrabas and
+Tirribies, but there are no dififerences of dialect between them and their relatives
+to the north, other than would necessarily take place in any tongue from a separation
+of this length."
+
+This writer mentions the fact that at the time of the Conquest, the
+Terrabas with several other tribes occupied the territory of Costa Rica and,
+continuing, says:
+
+''As to the Guaimias, Terrabas, Changuenes and Borucas, their affinities to the
+tribes to the east of them are well marked and it would not be surprising if they
+were also closely related to the natives between Paria and Darien, and even with
+the Chibchas of Colombia, as has been maintained by Brinton."
+
+The first objects to excite special interest in the material from the Ter-
+raba region was a series of small vessels of a type that corresponds to the
+"alligator group of ware" of the province of Chiriqui. This name, as
+applied by Professor Holmes, includes vessels which have the alligator
+designs in a highly conventionalized state, as well as those showing painted
+or modeled representations of the animal. The vessels of this type from
+Terraba show both painted and raised conventional designs and raised ani-
+mal figures, but none of the latter would be recognized as alligator featiu^s.
+These vessels, as shown in Plate vi, are decorated with painted designs in
+black and red, the background being either a light or dark cream color.
+They are all quite small, the largest being only 9 cm. in diameter.
+
+One of the most common objects of this ware in Chiriqui is a whisde
+in the form of an animal or bird. One of the animal forms is represented
+
+
+1909.] Notes on New CoUecHons. 329
+
+in this collection (Plate vi, Fig. 6). This is a small object and from its
+general appearance it might well have come from the Chiriquian area.
+Another specimen of this ware is shown in Fig. 5. It is that of an animal
+with the head, tail, and legs modeled in relief. This specimen, although
+similar to some found in the Chiriqui region, does not have the finish that
+is noticeable in the typical Chiriquian ware. This may be due to a lack of
+polish or perhaps the application of the slip.
+
+Another type that is quite common in the Chiriqui region is that with
+four nodes on the shoulder of the vessel. There were three of this type in
+the Museum collection from Terraba and two of them have painted designs
+on the nodes which is one of the main characteristics of the specimens of
+this group from Chiriqui.
+
+Another vessel, shown in Plate vi, Fig. 1, is that of a pottery drum.
+Professor Holmes figures two of these interesting objects from the Chiriqui
+region, and although they are not exactly the same in form, the main char-
+acteristics are the same. The specimen from Terraba is 17 cm. in height
+and 8 cm. in diameter at the top. This specimen has an indented and
+flaring rim, a characteristic shown in both of the specimens above-mentioned.
+This feature was not intended to be ornamental, but it made possible the
+fastening of the skin drumhead in a manner much more secure than would
+be possible on an even surface. From the rim, the vessel tapers gently to a
+cylindrical stand which has four raised bands in the way of ornament. The
+base of the vessel is annular in form. This specimen is of dull red ware and
+has been covered with a black paint which originally had a high polish.
+The base of the vessel is open and a hole has been made at the base of the
+upper part at the point where it joins the cylindrical stand. Professor
+Holmes in describing this t^'pe of vessel states that the use of clay drums in
+Chiriqui was probably exceptional. There is but one specimen in the Yale
+University Museum Collection; therefore, as compared with other pottery
+forms, this type must have been quite rare even in the Chiriqui area where
+small pottery whistles in the form of the clay drums are not uncommon.
+
+There are other forms from Terraba which are slightly dissimilar in some
+particulars from those found in Costa Rica. One is a large jar of the so-
+called '* biscuit ware," that is so common in Chiriqui collections, and there
+are several tripod vessels which might be of Chiriquian make; but the points
+of similarity are not great enough to warrant a comparison at this time.
+It is to be regretted that more data are not available; but, in view of the
+fact that Dr. Lehman of the Berlin Museum is now working in this region,
+this suggestion of a possible connection between the two culture areas may
+suflSce. Should Dr. Lehman's researches show that specimens of the nature
+herein described are found in suflBcient numbers to show that they were
+
+
+330
+
+
+Anihropoloffiad Paper* American Museum of Xaiural HtMiory. [\'oL U,
+
+
+ma^le in those parts, it wiD be the means of extending the Chinquian cukure
+over a hundred miles to the north. tG. H. P.)
+
+SOUTH AMERICA.
+
+The Srhmidt and Weiss Collection. The Museum has had the good
+fortune to secure the entire collection made bv Messrs, Hermann Schmidt
+and Ix>uLs Weiss, in the years 1905-06, among the little-known Indians on
+the upper waters of the Rio Caiarf-Uaupfe, the most important tributary
+of the Rio Negro, in the State of Amazonas, Brazil (Fig. 8). Mr. Schmidt
+
+
+FIk. 8. Map of Northwestern South America and the Re^on Occupied by the Tuk&no
+IndlanH.
+
+the ethnologist of the expedition, was forced, by the loss of his boat, to live
+eight months alone with the Indians, being finally rescued by a party under
+Mr. Weiss. During his exile, he had ample opportunities to learn the
+customs of the Indians, and to acquire a very fair knowledge of their lan-
+guage. The results of this expedition consist of five hundred ethnological
+specimens, an extensive vocabulary of the language, drawings of the painted
+figures to be found on the rocks at the numerous waterfalls along the river,
+and a number of folk-tales. Of this collection, about three hundred speci-
+mens are pieces of feather-work, consisting of a great variety of head-dresses,
+
+
+1909.] NoUa on New CoUecHons. 331
+
+waist-bands, ornaments for the legs and arms, and plumes to be carried in
+the hands. They are never worn except on ceremonial occasions and then
+only by the men; the women wearing little or no clothing, and but few
+ornaments. Some other notable objects are spears, shields, bows, arrows,
+blow-guns with their poisoned arrows, fish traps of basketry, and a variety
+of baskets and pottery vessels. Among the musical instruments are drums,
+rattles in many forms, pan-pipes and whistles made of deer and jaguar bones.
+
+Great additional scientific value has been given to this collection by the
+fact that Mr. Schmidt was present in the Museum when it was received,
+and by the aid of a model illustrated the uses of the different specimens.
+Many photographs were made during the progress of this work; one of which
+is shown in Plate vii. This represents a headman or chief in ceremonial
+dress. He carries a ceremonial spear, and a shield of basket-work, and
+wears on the back of the head the long, decorated comb peculiar to this
+region. From his neck hangs the perforated cylindrical stone, the insignia
+of a chief, and four jaguar teeth.
+
+A series of curious specimens illustrates the method of smoking the native
+tobacco. A cigar from ten to fifteen inches long and about an inch in diam-
+eter is made by rolling the tobacco in a wrapper of bark and is fastened
+between the prongs of a wooden cigar-holder. The holder, which is about
+two feet long, exactly resembles a tuning-fork in shape, except that the handle
+is longer and is sharpened to a point. After lighting the cigar, the Indian
+sticks the sharp end of the holder into the ground and lies at ease in his
+hammock, reaching out from time to time to draw in a whiff of smoke from
+the big cigar.
+
+In the collection are a number of blow-guns with their poisoned arrows.
+Along the Upper Caiar^-Uaup^ blow-guns are made from the stems of a
+variety of palm {Iriartea setigera Martins). These palm stems have
+often been described as canes on account of their having rings of scars of
+the fallen leaves which closely resemble the joints of canes or bamboos.
+The Indian selects two stems of such sizes that the smaller will exactly fit
+within the larger. After these stems have been carefully dried and the
+pith cleared out with a long rod, the bore is made smooth by drawing back
+and forth through it a little bunch of tree-fern roots. The smaller stem is
+then inserted in the larger, so that one will serve to correct any crookedness
+that may exist in the other. The wooden mouth-piece is then fitted to one
+end, and, about three and one-half feet from it, a boar's tooth is fastened
+on the gun by some gummy substance, for a sight. Over the outside the
+maker winds spirally a strip of the dark shiny bark of a creeper which gives
+it an ornamental finish, and his blow-gun is complete.
+
+In some localities instead of the two canes a single piece of palm wood is
+
+
+332 Anthropological Papers American. Micseum of Natural History, [Vol. II,
+
+used, which is split into two equal parts throughout its length, each piece
+hollowed out, and the two divisions afterward cemented together like the
+divisions of a cedar-wood pencil.
+
+The arrows are from ten to fourteen inches long, and of the thickness of
+an ordinary lucifer match. Those of the Indians of the Caiarf-Uaup^ are
+made from the midrib of a palm leaf or of the spinous processes of the
+Patawd {(Enocarjms Batawa) sharpened to a point at one end and wound
+near the other with a delicate sort of wild cotton which grows in a pod upon
+a large tree {Bomhax ceiha). This mass of cotton is just big enough to fill
+the tube when the arrow is gently pressed into it. The point is dipped into
+poison, allowed to dry, and redipped until well coated. The exact composi-
+tion of this poison is unknown, and probably varies in different localities;
+but it would seem that the chief ingredient is always the juice of a Strychnos
+plant. It is known among different tribes by many names; such as Curari,
+Ourari, Urari and Woorali. Poisoned arrows are dangerous things to
+handle, and they are always carried in a quiver which has been partly filled
+with cotton or some other soft vegetable material into which the poisoned
+ends of the arrows are thrust for protection. The blow-gun is called "Sara-
+batana" on the Upper Caiar^-Uaup6s, and by many tribes in the Amazon
+region it is known as the "Pucuna." The Portuguese of the River District
+call it "Gravatana."
+
+The blow-gun in the hands of an Indian is a very effective weapon, and a
+skilled marksman will kill a small bird at thirty or forty paces. It is par-
+ticularly deadly when used against birds or monkeys in the tops of trees, as
+in shooting in a direction nearly vertical the hunter can take the surest aim.
+The poison acts very quickly, seldom requiring more than two minutes to
+do its work, but the length of time depends much on the size of the game and
+the condition of the poison used.
+
+Painted Capa from Punta Arenas. The guanaco skin capa shown in
+Plate VIII comes to the Museum as a gift from C. H. Townsend, Esq., who
+obtained it at Punta Arenas, Strait of Magellan. It measures fifty-seven by
+sixty-nine inches, and contains the skins of twelve very young animals,
+probably not over two weeks old. The hair of the adult guanaco is coarse,
+and never used for this purpose. The skins are so trimmed that when turned
+in opposite directions and placed side by side they fit exactly together; the
+sewing is done with the sinew of the ostrich (Rhea dawini). The surface
+of the skin side, with the exception of a border two inches wide around the
+edges, is colored a dull yellow. Upon this ground has been painted the
+narrow line in red and the two broader ones in blue to be seen in the photo-
+graph. The decoration of the border, which is but indistincdy shown,
+consists of simple v-shaped or zigzag lines in red and blue, between a band
+
+
+1909.] Notes on New Collections. 333
+
+of red on the outside and one of yellow on the inside. The two transverse
+bands dividing the decorated field are formed by a band-and-dot design.
+The two upper comers are painted red. (C. W. M.)
+
+Cauca Valley Black Pottery. From Mr. Frederick F. Sharpless, a mining
+engineer, the Museum acquired something over one hundred and fifty
+pieces of curious black ware from the Cauca valley, Colombia. Previously
+a few pieces of the same type had been received as the gift of Francis C.
+Nicholas. Mr. Sharpless states that his collection was secured from graves
+between the towns of Quinchia and Papyal, where many ancient burial sites
+have been sluiced away for the gold ornaments they contained. Upon its
+arrival at the Museum, this collection was examined by a number of anthro-
+pologists some of whom denounced the pieces as fraudulent. Since that
+time, however, a number of very large private collections have come to
+notice and a number of reputable travelers, to whom the Museum collection
+was shown, pronounced it identical with the type worked out by miners in
+that region. Also the late H. A. Ward brought from Colombia a small lot
+of the same pottery with a certification to its antiquity by Leocadio Ma
+Arango. Thus, taking everything into consideration, there seems little
+ground for doubting the reality of this collection.
+
+The objects range from curious platters to effigy and animal-shaped
+vessels all presenting a striking size uniformity. They are rather crudely
+modeled, uniformly black throughout, presenting an outer surface of deep
+black with a suggestion of polish. At the brims the true vessels usually
+bear curious frog and lizard-like figures in relief. The other decorations
+are chiefly incised, consisting of parallel lines, rows of dots and dashes, or
+rows of rectangles enclosing dots. The animal forms are various; but the
+snake, lizard and frog are the most common. The human-like figures are
+very much distorted, the feet usually suggesting a quadruped, the nose long
+and hooked, and the face triangular. In most cases, the eyes are repre-
+sented by a slit. As a rule the ears are perforated or represented as wearing
+plugs and the noses are pierced. In one case, a twisted cord is represented
+as having been thrust through the septum (Plate ix).
+
+Terra-cotta Stamps. A portion of a very large terra-cotta stamp ob-
+tained in Apullo, Peru, and said to have been found in that vicinity, is chiefly
+remarkable for its size: having measured, when entire, 6 J by 4 J inches
+(Fig. 9). Small stamps made in this form have been found in the coast
+region of Peru, which were undoubtedly used to decorate pottery vessels;
+but the great size of this stamp would seem to preclude its use for such a
+purpose.
+
+That it could have been designed for use in the decoration of Peruvian
+textile fabrics is improbable, as a careful examination of many pieces of
+
+
+334
+
+
+Anthropological Papers American Museum of Natural History. [Vol. II,
+
+
+cotton cloth from their ancient graves, bearing the so-called stamped designs,
+has failed to show the employment of any kind of printing device; they
+invariably prove to have been hand-painted.
+
+It is probable that this specimen may originally have come from Colom-
+bia where the printing of designs on cloth with both flat and cylindrical
+stamps seems to have been a common practice. Fig. 10 shows the designs
+on fifteen terra-cotta stamps from Colombia. Fourteen of these stamps
+are cylindrical; the other, like the one shown in Fig. 9, is flat and has a
+handle projecting from the upper surface. They were collected by Mr.
+Francis C. Nicholas in the region of Santa Marta and Barranquilla. The
+
+drawings were made from ** rub-
+bings," and are correct represen-
+tations of the relief figures on
+their surfaces.
+
+(C. W. M.)
+Mummified Body from Chile.
+The naturally mummified body
+shown in Plate x was found in a
+copper mine at Chuquicamata,
+province of Antofagasta, Chile.
+The condition of the body shows
+that the unfortunate miner, prob-
+ably a man, was caught by a
+cave-in of the roof and partly
+crushed. The mummification
+seems to have been produced in
+part by the action of copper salts
+and not to have been merely a
+desiccation due to the dryness of the region. The skin has not collapsed on
+the bones, as in the mummies found usually in the region, but the body
+and limbs preser\e nearly their natural size and proportions, except for the
+crushing already mentioned. No analysis has yet been made of the tissues,
+so that it is too early to hazard any supposition as to the chemical changes
+which have been undergone. The mine has been worked for an unknown
+length of time upon a peculiar deposit of atacamite, a hydrous chloride of
+copper, which is much prized on account of its easy reduction. The age of
+the mummy is unknown, but it is supposed to be pre-Columbian.
+
+(C. W. M.)
+
+
+Fig. 9. Design from a Terra Cotta Stamp.
+
+
+1909.]
+
+
+Notes on New Collections.
+
+
+335
+
+
+I : f
+
+
+^mz^
+
+
+"^//^
+
+
+Fig. 10. a (40-589), 6 (40-593). c (40-584), d (40-592).
+h (40-690), i (40-588), ; (40-596), k (40-608). I (40-587), m,
+Designs on Terra Cotta Stamps from Colombia .
+
+
+e (40-594) / (40-469). g (40-695 )»
+(40-591). n (40-585), o (40-586).
+
+
+336
+
+
+Anthropological Papers American Museum of Natural History. [Vol. II,
+
+
+ISLANDS OF THE PACIFIC OCEAN.
+
+In addition to the collections given special notice herein, many small
+lots wtre received by gift or otherwise from New Guinea, Australia, many
+islands of Melanesia, Micronesia and Polynesia.
+
+Hawaii. Mr. George S. Bowdoin presented a feather war-cape, once
+the property of Kamehameha III, king of the Hawaiian Islands, who gave
+it to Commodore Lawrence Kearny, U. S. N., in 1843 (Plate xi). A brief
+note on this cape will be found in Dr. Brigham's paper on Hawaiian Feather
+Work.^ However, the sketch by this author does not quite agree with the
+specimen, indicating that he wrote either from memory or from information
+at second hand.
+
+Like all Hawaiian feather pieces the foundation of this cape is a net
+
+
+Fig 11. Knots in Feather Cape.
+
+(Plate xii). This netting, according to Dr. Brigham, is of Olona, a fibre
+grown in deep ravines and on well-watered mountain slopes. By much
+soaking and scraping it is made ready to spin, which process is by rolling
+on the thigh without a spindle. The netting is formed with a needle and
+is a variation of the well-known square knot (Fig. 11a). The meshes are
+one-quarter of an inch, although on some capes they are one-sixteenth of an
+inch. Strips of netting from eight to eighteen inches in width are woven,
+then cut and joined to suit the pattern of the circular cape just as modem
+cloth would be treated; the strips, however, running horizontally as seen
+in Fig. 12. Some one has made the statement that a small caj>e is first
+
+
+Memoirs of Bernice Pauahi Bishop Museum, Vol. I.
+
+
+1909.] Notes on New CoUections. 337
+
+woven, and then enlarged from time to time by adding net and feathers at the
+edge. The pattern of the foundation of this cape and others which have
+been examined give no evidence of this practice.
+
+Bright feathers from the breast of the liwi cover the body of the cap)e;
+while the feathers from the yellow wing-tufts of the black Oo furnish a
+pattern of two large spherical triangles in the center of the cape, and four
+semi-crescents at the sides and edges of a border at the base. In preparing
+the feather for ornamentation, the shaft was first knotted, usually two or
+more times, half an inch from its end which was then doubled over and
+knotted down one or more times over the first binding knots. This cluster
+of threads and knots formed a firm point on which to place the knots which
+secure the feathers to the netting. Contrary to the custom of the Peruvians,
+who first made the feathers fast to a cord and then knotted this cord to the
+cloth,* the Hawaiians attached the feathers separately to the netting. On
+some capes, the feathers are joined to the netting by two knots (Fig. lib);
+but, on the cape in question,
+each feather is secured by
+three knots (Fig. lie), all
+alike, and in fact similar to
+those which first join the
+shaft. Parallel overlapping
+TOWS of these knotted feathers
+usually run parallel to the
+lower edge of the cape.
+
+While feather -work of
+some kind is practised by most
+peoples, the art reached a high development among the Hawaiians, ancient
+Peruvians, Maori and Pomo Indians. It so happens, however, that these
+four peoples have in each case introduced the mosaic on an entirely different
+technique — the Pomo on coiled basketry, the Maori on twined basketry,
+the Peruvians on plain cloth and the Hawaiians on netting; and further,
+that, while the Pomo and Maori have introduced the feathers during the
+process of weaving the foundation, in Peru and Hawaii the feathers are
+knotted to a foundation, previously prepared, thus suggesting the probable
+independence of development in each case. (M. L. K.)
+
+New Caledonia. The Engler Melanesian collection ^ was made among
+the Islands of the New Hebrides and New Caledonia groups. It contains
+something over a hundred specimens, such as bows, arrows for war and
+
+
+Fig. 12. Foundation Pattern for a Feather Cape.
+
+
+1 Technique of some South American Feather-work, by Chas. W. Mead. Anthropological
+Papers, American Museum of Natural History, Vol. I, Part I.
+* Gift of Mrs. Morris K. Jesup.
+
+
+338
+
+
+Anthropological Papers American Museum of Natural History . [Vol. II,
+
+
+hunting, spears of many forms, decorated lances, clubs, model of a boat,
+paddles, baskets, cloth, gourd vessels, pottery, wooden dishes, shell and
+other ornaments, flutes, etc. Taken as a whole it is a fairly representative
+collection. Deserving special mention are two flat wooden dishes from the
+New Hebrides of graceful outline and high finish. The one shown (Fig. 13a)
+seems to be a fish form with notched edges. On the bottom are eight small
+projections suggesting legs, analogous to the great kava bowls of Samoa
+and other island groups. The other specimen has the peculiar fish-tail
+and the perforated head with the conical tip, or hat; but lacks the legs and
+
+
+Fig. 13.
+cm., 70 cm.
+
+
+(80.0-729, 80.0-728). Wooden Vessels from the New Hebrides. Lengths, 80
+
+
+incised decorations. A similar bo\yl is figured in James Edge-Partington's
+Album, though the fish-tail is wanting, a second perforated head taking its
+place. The form of this specimen suggests that the more conventional form
+of dish handle is the double perforated type and that we have in the figured
+specimens another example of inter-play between the conventional and the
+representative motive in art.
+
+With this collection was a small bowl from Marquesas with deeply
+incised designs, the handles to which are double birds' heads. The peculiar
+central design on this bowl is found also upon some turtle shell ornaments
+from the same locality (Fig. 14).
+
+
+1909.]
+
+
+Notes on New Collections.
+
+
+339
+
+
+Among the specimens from New Caledonia may be mentioned a peculiar
+wooden bird figure said to be a rain charm (80.0-698), and a short looped
+cord about 18 cm. long said to be a spear thrower (80.0-764). Some in-
+teresting examples of the textile art are found in netted gourd vessels, four
+to six strands being manipulated to give broad bands of interlaced work.
+This type is well shown in an illustration by Ratzel.^ While the general
+practice of netting gourds is found in many parts of the world, the specific
+t\i)e here mentioned seems almost peculiar to ^Melanesia. Of baskets
+proper there are several examples. A scoop-shaped tray is practically
+identical in form with the well-known winnowing trays of western^ North
+
+
+Fig. 14 (80.0-727). Designs on a Bowl from Marquesas. I^ength, 23 cm.
+
+America. On the other hand the weave is wicker instead of twine, and
+the material a delicate stem instead of the coarse twigs found in North
+American trays. In the specimen under consideration the warps are
+groups of seven stems, laid flat. At the start four of the warps are placed
+and as the work j)rogresses others are added in such manner as to appear
+as branches of the other warps. The edge is finished by turning the warps
+to one side and closing in a braid, held down by a buttonhole stitch. Slight
+ornamentation is produced by very narrow transverse black bands.
+
+A small bag containing eleven double-pointed sling-stones is in technique
+
+
+» History of Mankind. Vol. I, p. 212.
+
+
+340 Anthropological Papers American Museum of Natural History. [Vol. II,
+
+a buttonhole coil (Mason) in which the loops of fibre, or string of which it
+is made, catch into the loops of the previous row of weaving and at the same
+time enclose a single string foundation. Variants of this technique are too
+widely distributed to be of special ethnographical significance.
+
+There are two odd cone-shaped pendant ornaments said to have been
+U3ed by men as well as women. They are formed by rolling up in spiral
+fashion a long fringe similar to that used as aprons and skirts in many parts
+of the worid. Strands of cocoanut fibres are twined together in a simple
+manner. Each turn of the two-twined wefts encloses three threads of one
+strand and an equal number of the succeeding, a very common technique
+for skirts and aprons the worid over. In Africa, aprons of like construction
+are, when not in use, rolled into a similar cone, and a comparative view of
+the case suggests the probability that this ornament developed from the
+simple rolled apron. This is supported by the fact that among some South
+American collections, we find feather bunches of the same form produced
+by rolling up the strings of pendant feathers used as girdles and head-bands.
+That these rolls from New Caledonia are not garments rolled up is suggested
+by the fact that the fringe is contmuous and in one specimen reached the
+length of eight meters.
+
+A small plaited bag from New Hebrides presents a type of technique
+widely distributed throughout the Pacific area. The bag or basket is begun
+at the edge or top. Two midribs of the cocoanut palm are used, each leaf
+made being split into twelve weaving elements. In weaving six of these
+pass obliquely to the right and an equal number to the left, thus giving a
+twill effect (Plate xii).
+
+New Zealand. The Robley collection of New Zealand heads was pre-
+sented to the Museum by Mr. Jesup. Major-General G. Robley of the
+British Army, who made the collection, took an active part in the Maori
+campaign of 1864-66 and spent several subsequent years in the country.
+Gen. Robley was an enthusiastic collector, and was especially interested
+in everything that related to the old-time method of tattooing. He succeeded
+in bringing together thirty-three very fine examples of the tattooed heads,
+with the implements, pigments, funnel and all other accessories used during
+the process; making this the largest and most complete collection in exist-
+ence illustrating the ancient art of **Moco" or Maori tattooing.
+
+The incisions were made with a narrow comb-shaped blade, made of the
+wing-bone of a sea-bird, attached to a little wooden handle. This was
+driven by tapping with a mallet quite through the skin. Then the tattooer
+rubbed into the wound a pigment made from the powdered charred resin
+of the ** Kauri" or "Rimu" tree. This process left deep blue-black grooves
+with raised borders, and is entirely diiferent from the method common in
+
+
+1909.] Notes on New CoUectiona. 341
+
+most parts of the world, in which needles are used and the skin left smooth.
+The carved wooden funnel was used for feeding a man while his face was
+swollen by the wounds due to the tattooing.
+
+According to General Robley, only the heads of prominent men were
+preserved after death. The principal object was to keep alive the memory
+of the dead, either of great friends or powerful enemies, and the **moko
+mokai," as these tattooed heads were called, supplied the place of statues
+and monumental records. In the case of a departed chieftain, his pre-
+served head was a visible sign that in some mysterious way his spirit was
+still present among his people.
+
+The old embalming consisted in the removal of all the interior of the
+head and drying in smoke after a careful steaming or even baking. The
+form and features were well kept, and the identity of the deceased was
+easily recognized, for the tattooing kept its place exactly on the face.
+
+In General Roble/s exhaustive work, "Moko or Maori Tattooing,*'
+will be found a complete history of this art from its first discovery by the
+great navigator Captain Cook to the present day. It contains numerous
+illustrations, many of the drawings having been made from specimens in
+the collection now in the Museum.^
+
+Maori wood carving is represented in this collection by two large wooden
+images (Teko-Teko, from old council houses, one from Rotorti, the other
+from Tologo Bay; also by two beautifully carved prows of war canoes and
+a large piece from the gable board of a council house.
+
+Besides the above, the collection contains a chief's war belt, a bark-
+beater of wood, a "patu" or club of whalebone, and eight of the peculiar
+shawl-like garments of the chiefs, characteristically ornamented with
+feathers and fringes of cord.
+
+During the year the collection of Maori robes was increased by the
+addition of seven garments, making this series of eighteen robes a some-
+what representative one, containing many of the numerous types found
+among this people. The Maori costume consists of rectangular mats
+varying in size from shoulder capes and waist mats to those enveloping the
+whole figure; but variance in size does not compare with the variety in kind
+which ranges from beautiful, fine, silky robes and feathered cloaks to coarse
+and fantastically fashioned garments of rattling cylinders of flax leaf. Their
+value is estimated according to the fineness of material of which they are
+composed, the number and kind of ornaments introduced and the amount
+of labor expended, for even the common garments require eighteen months
+to complete, while the more elaborate ones take twice that time.^ Strange
+
+
+» See also Journal. American Museum of Natural History, 1908, Vol. VIII, p. 73.
+2 Wood, Civilized Races of the World, p. 808.
+
+
+342 Anthropological Papers American Museum of Natural History. [Vol. II,
+
+to say, these garments in most cases are of one material and the makers
+have expended much patience and ingenuity in the different treatments to
+produce a variety of effects. For materials, the long fibres of the leaf of
+the flax plant were called into service. These leaves, sometimes five and
+six feet long, have the epidermis scraped from both sides and the remainder
+beaten until soft. We read that for cloaks of }>eople of rank certain varieties
+of flax are cultivated and prepared with great care until the substance
+resembles silk, which is often kept for years to improve color and texture.^
+To add greater beauty to these garments, feathers of the red parrot, w^hite
+pigeon, albatross, tui and kawi, dog hair, sealskin and gay colored worsteds
+are all made to contribute to the ornamental effect.
+
+The simplest loom of two sticks to support the work is used for making
+these fabrics, while women's fingers do the weaving. It is like the loom
+of the Indians of the Northwest Coast for making cedar bark garments,
+but lacks the cross bar on which to suspend the warps. A fibre thread is
+stretched from stick to stick instead, on which the untwisted parallel warps
+or **io" are hung. At first sight, one might mistake the process of wea\ing
+in the two localities as identical; but on closer examination one finds that
+the weaving has not two rows of two-ply twine, but that four wefts of thread
+are woven at one time in twine weaving. In other words, it is a four-ply
+twine with the appearance of two rows of two-ply twine woven in opposite
+directions (Fig. 15a). The **aho'' or weft of four threads ends in a knot
+at the close of each row of twining, the rows spaced from one-quarter to one
+inch apart. It is interesting to note that this technique occurs on basket
+edges in Borneo and the adjoining islands.
+
+Hamilton speaks of the older garments as unseamed, stating that seam-
+ing to fit the figure is a modem innovation. Some robes in this collection
+appear very old, yet all are seamed with the exception of a very narrow thir-
+teen-inch cape and in all but two there are two places for seaming on each
+side of the cloak, one near the neck and the other toward the bottom.
+
+The most beautiful robes, those which no plebeian would be allowed to
+wear, are the fine dress mats or **Kakahu" with close **taniko'' or orna-
+mental colored borders, of which the Museum has no example. These
+borders are usually woven after the body of the mat is finished and compare
+favorably in fineness of technique with old Peruvian weaving. Hamilton
+tells us that one artist, a man, received an equivalent to £ 7 for each border
+that he made, and also adds that the Maori excel all other Polynesians
+in their mat and garment making. Another finely woven mat, a woman's
+garment, is the "Korowai," a mat with its surface more or less thickly cov-
+
+
+» A. Hamilton, Maori Art, 1896, Dunedin, N. Z.. p. 272.
+
+
+1909.]
+
+
+Notes on New Collections.
+
+
+343
+
+
+ered with shreds of twisted fibre. These shreds are introduced while the
+weaving is in process and are held by the weft thread which passes over the
+shreds at the middle point from which they hang (Fig. 15b). They vary in
+length and also in their distribution on the mat, for they may be arranged
+in vertical or horizontal stripes, in groups, or scattered evenly all over this
+surface. The art of the Maori shows itself, in the placing of the shreds or
+
+
+Fig. 15. Technique of Maori Capes.
+
+fringes, which are usually black, and in the introduction of spots of color,
+either of feathers or of wool among these shreds. Borders of tufted wool
+and of feathers usually edge the sides and the bottom while an accompany-
+ing row of fringe completes the mat. This style of mat and in fact many
+of the types are woven upside down; that is, the fibre supporting the warps
+
+
+Fig. 16. Technique of Overlay in Maori Garments.
+
+is to be the lower edge of the cloak when completed. After the last row of
+twining, the warp ends which have been purposely left long are rolled into a
+soft rope finish for the neck.
+
+One artistic old garment in the Museum collection has an interesting
+overlay in brown and black wools. This style of decoration is found on
+mats not otherw'ise decorated and also on some of the "Korowai** type where
+
+
+344 Anthropological Papers American Museum of Natural History. [Vol. II,
+
+the fringes are placed at some distance apart, the isolated rectangular figures
+in the flat overiay taking the place of the tufted spots of color previously
+mentioned. This method of overiay is the simple catching of the wool
+thread under the twining as the garment is woven, the thread then passing
+over a number of warps before again entering the weave, as illustrated in
+Figs. 16 a-d. Through this simple technique, the Maori have developed a
+great variety of pleasing effects, only a few of the more common ones being
+here illustrated. A fine tracery of line patterns on the flax fabric results,
+which as the lines double and combine mass themselves in more solid figures,
+giving a dainty, lacy effect which is greatly enhanced when several colors
+combine. In place of lines, the overlay may ornament by means of dots, in
+which case the wool threads are caught under the twining in one of three
+ways (Figs. 15 b-c, 16) and then clipped short a distance from the weft
+threads. The same method of attaching bits of wool as in Fig. 15c b also
+used by the Aleutian Islanders in decorating their fine twined grass baskets.
+A third slight variation of this technique is where, by doubling and tripling
+the wool threads under each twine of the weft, close tufted fringe and knot
+effects are produced which, in contrast to the flat overlay, stand out from
+the surface of the mat. Much artistic feeling is expressed in this decoration,
+in combining of shapes and colors to produce patterns either of isolated
+circular and rectangular figures or in borders of lines, broken lines, zigzag
+and triangular shapes. Both styles of design are in the flat and tufted over-
+lay and are of black, brown and brighter colored wools. Connected with
+the process of garment-making are interesting legends and superstitions with
+certain evil omens attached should these superstitions be disregarded, but
+this cannot b^ touched on here.^ Enough to say that the "aho" must not
+fall short, but be long enough to weave the full width of the cloak, neither
+must its threads become entangled or knotted.
+
+A unique type of mat is seen in the kilts and shoulder capes which are
+covered with rattling thrums made of strips of the flax leaf and called by
+the natives **Kanekeneke." Great ingenuity is shown in preparing the
+ornamental cylinders of the flax leaf. With a short shell the epidermis is
+removed from the under side of the leaf; then it is scraped at intervals on
+the upper side, exposing the fibres at those points, and put into the dye.
+The dye attacks the exposed fibres while those covered with the yellow epi-
+dermis remain uncolored, giving stripes of brown or black with yellow.*
+After rolling these black and yellow strips into cylinders, they are woven
+on the mat, making what the Maori consider a very delightful garment for
+they enjoy the rattling sound, every movement of the wearer causing the
+
+» Hamilton, op. clt., pp. 276-280.
+2 Hamilton, op. cit., p. 276.
+
+
+190^.] Notes on New Collections, 345
+
+thrums to clatter against each other. Of the five examples of ** Kanekeneke/'
+two have foundation warps of black, two of brown and one of uncolored flax,
+while all have yellow wefts which can be seen between the moving thrums.
+These ornamental thrums display great variety in their black and yellow
+stripings, making most effective garments.
+
+Of exceedingly coarse make are the "Manaeko" or rough capes of un-
+dressed flax used as shelter and rain coats. Strips of the undressed flax
+leaves are woven to overlap each other so that the rain may run off. The
+Museum cape is of dyed material with an occasional group of undyed flax
+leaves for ornament. The foundation warps of dressed flax are bound by
+alternate rows of two-ply and four-ply twine, the leaf strips catching under
+the four-ply only. Another strong serviceable cloak of the same type is a
+large shaggy garment covered with partly dressed material and has the
+appearance of having been a sleeping mat.
+
+A highly prized garment and one which is most tedious and diflScult to
+make is the **Kahu-kuri" or chiefs fighting mat. This war cloak is spear-
+proof and thickly covered with dog's hair. Strips of dog's skin or dog's
+tails are caught under the twining on a stiff foundation of closely woven
+flax and then to render it a sure defence and perfectly impervious to spear
+thrusts, it is soaked in water. ^ These are of white, black and reddish brown
+dcg^s hair of which the Museum has no example. Among a number of
+Indian tribes of western North America, rabbit's skin robes are made on a
+twined foundation; but in America no case has come to our notice wh^re
+strips of dog's skin were used, although long white dog's hair was mixed
+with wool of the moimtain goat and duck down for spinning and weaving
+blankets among the Lkungen Indians,^ and those of the Lower Frazer River.*
+
+Color is the dominant note in the feather cloaks or *'Kahu" of the Maori,
+for he fashions this garment of the gorgeous plumage of many birds. The
+wing of the Kake parrot furnishes crimson; the neck of the native pigeon,
+peacock green; the albatross, the pheasant and the breast of the pigeon,
+pure white; and the tui, blue black. These he twines on his flax mat, as
+illustrated in Fig. 15c, placing one, two or three feathers under one turn of
+the twine, in accordance with his desire for a thickly or thinly covered surface.
+The shaft of the feather is turned to the side and twined down under the
+next turn of the weft. Alternate rows of twining only have feathers and
+usually there is one turn of twine between the feathers. (M. L. K.)
+
+Samoa. The Zimmermann collection contains, besides numerous
+
+1 Hamilton, op. cit., pp. 286, 328.
+
+2 Boas, 6th Report, Northwest Tribes of Canada. Report, British Association for the
+Advancement of Science, 1890, p. 566.
+
+» Telt, The Lillooet Indians. Memoirs, American Museum of Natural History, Vol. IV»
+Pan V, p. 210.
+
+
+346 Anthropological Papers American Museum of Natural History. [Vol. II,
+
+weapons and carvings, a complete tapa-maker's outfit, a "tuiga*' head-
+dress, and other chiefs regalia, two fine-mats, and a kava bowl with all
+accessories for preparing the drink.
+
+For the preparation of tapa cloth, the Samoan women peel off the bark
+of the paper-mulberry, and separate the outer layer from the inner bark,
+which alone is used to make the bark-cloth. This bast is soaked in fresh
+water, thinned with a shell scraper, and pounded with a mallet on a wooden
+board or log. The separate strips of pounded bark are spread out, dried
+in the sun, and united with arrowroot paste to form a piece of suitable size.
+The cloth is then ready for ornamentation, which consists of applying col-
+ored patterns, sometimes painted free-hand, but more commonly printed
+from stamps. Stamps are wooden or Pandanus palm-leaf plaques; on
+the former, the designs are carved; to the leaves, they are sewed. The
+undecorated tapa is stretched out on the stencil, and the dye, consisting of a
+soft brick-red clay or the soot of burnt candlenuts, is rubbed in with a rag
+until the patterns appear. Finally, the principal lines are accentuated with
+a brown varnish, which acts as a preservative against weathering.
+
+The "tuiga" is the ceremonial head-dress of the Samoan nobility. It
+consists of three upright stems with shells or mirrors, a girl's hair oiled and
+dyed with lime, and the breast feathers of a parrot. The frontlet of Nautilus
+shells and the whale-tooth necklace in the collection were customary con-
+comitants of this gala head-dress.
+
+.While ordinary mats served as garments and blankets for the wealthy
+classes, the fine-mats, collected by Mr. Zimmermann, formed the principal
+medium of exchange. They were used to fee the professional classes, such
+as shipwrights, tattooers, and architects, and constituted the princesses'
+dowries.
+
+Kava is the national beverage of Samoans. It is made of the roots of a
+pepper-plant, which are chewed by the unmarried villagers, placed in the
+bowl, and mixed with water, pounded, and strained by the chiefs daughter.
+Kava is drunk at all festi\'ities, councils and ceremonial occasions. The
+most conspicuous object in a Kava outfit is the bowl with many legs, one in
+this collection having as many as fourteen and the whole carved from a
+tree trunk. (R. H. L.)
+
+Bismarck Archipelago. A valuable collection from various islands in
+the Bismarck Archipelago, brought together by Professor Eugene Schroder,
+for many years a resident of the locality, came to the Museum during the
+year 1907. Among others, mention may be made of a series of characteristic
+wood carvings, some of which appear in Plate xiii, which, like most carv-
+ings from this part of the world, while characterized by open detail, are in
+reality fashioned from a single piece of wood and not pieced. Such figures
+
+
+1909.] Notes on New Collections, 347
+
+are supposed to reside in ghost, or "taboo," houses, for which see repro-
+duction of Professor Schroder's photograph, Plate xiv. A general account
+of the collection will be found in the Museum Journal ; * but mention may be
+made of a good series of hafted obsidian knives. There are a number of
+arrows with curious heart-shaped barbed wooden points. A rather unique
+series is the complete outfit for making shell arm-rings and other ornaments,
+with samples of worked shell. The grinding stones resemble scythe whet-
+stones mounted in the hollows of bamboo stems, the projecting ends of which
+serve for handles. Finally there are double pointed spears with obsidian
+heads, with perforations like the phallic openings in iron spear heads from
+the Congo and other parts of Africa. Some other spears have four-pointed
+wooden heads. Shell objects abound, such as trumpets, edge tools and
+ornaments. There are some interesting drums, including the so-called
+** death-drum," reported to have been sounded at the death of an important
+personage. Curiously enough the sounds seem to have been produced by
+rubbing instead of beating.
+
+(C. W. M.)
+
+AFRICA.
+
+Before the period covered by this paper, the Museum was poorly equipped
+for the illustration of African native life ; but since that time collections have
+been acquired sufficient for the equipment of a special exhibition hall.
+The material from the Congo was secured through the kindness of King
+Leopold and the officers of the Congo Free State; other collections are due
+to the interest of Messrs. Percy R. Pyne, Cleveland H. Dodge, Arthur
+Curtiss James, George S. Bowdoin, Archer M. Huntington and Mr. and
+Mrs. Morris K. Jesup.
+
+The Congo. The special collections from the Congo are unusually well-
+equipped with specimens of native ironwork, spears and knives being espe-
+cially abundant. While it has not yet proved feasible to study the tv^pes
+peculiar to each cultural district and to determine the range of diffusion of
+certain common forms, the illustrations of knife-forms, swords and axes in
+Fig. 17 may convey some idea of the character of Congo ironwork. Fig.
+17d, represents a three-branched thro wing-knife of the Asande (Niam-
+Niam) in the northern section of the Congo State. Schweinfurth, who
+pictures sample specimens from this people, calls attention to the occurrence
+of similar forms among the Fan of the Ogowe country in western Africa.^
+
+» Vol. VIII, No. 3. March, 1908.
+a Artes Africana, Plate XII.
+
+
+348
+
+
+Anthropological Papers American Museum of Natural History. [Vol. II,
+
+
+According to Frobenius/ this highly characteristic weapon has, within
+recent times, traveled up the Lomami and reached the Bassongo-Mino of
+the Sankumi district by way of the Lukenye. It has obviously been in-
+fluenced by the Sudanese type of throwing-knife. A sabre manufactured
+by the Asande is shown in Fig. 17j. The Mangbettu (Monbuttu) employ,
+among other forms, a perforated falcate blade with a grip expanding at the
+base into a cylindrical butt (Fig. 17i). With the exception of the Egyptians,
+
+
+Fig. 17. a b (90.0-3679a), r (90.0-2820), d (90.0-2903), e (90.0-4092), / (90.0-5053). iT
+(90.0-2797a), h (90.0-4070), i (90.0-2742) ; (90.0-4122) k (90.0-4072). Forms of Weapons
+from the Congo. Length of a, 64 cm.; b, 51 cm.; c, 44 cm.; d, 49 cm.; e, 40 cm,; /, 33 cm.;
+ff, 19 cm.; h, 51 cm.; i, 40 cm.; j, 58 cm.; k, 55 cm.
+
+they are the only African people to employ, in European fashion, a one-
+edged knife (Fig. 17c), of which the blunt side is supported by the index-
+finger.^ Fig. 17a shows an excessively long and narrow Bayaka knife; the
+
+
+> Zeltschrift fOr Ethnologic, 1907, p. 323.
+a Schwelnfurth, 1. c, Plate XVIII.
+
+
+1909.] Notes on New CoUeciions. 349
+
+scabbard terminates in a curious semi-circular expansion. Fig. 17k repre-
+sents a Bangala execution-knife; a possibly ornamental knife of steelyard
+type (Fig. 17h) from the same tribe also deserves mention. A small knife
+from the Uele region is illustrated in Fig. 17g; the ivory handle is decorated
+with a characteristic series of circular designs enclosing dots. .Both the
+blade and the decoration have been found in a Benin specimen. In Fig. 17f
+there is a "parade-hatchet" from Urua; the handle is carved into a human
+head. Fig. 17e pictures an openwork axe from the Kasai, presumably from
+the Zappozapp country. The handles of several of the axes in the collection
+are wrapped with snake-skin.
+
+Woodwork has attained a high grade of development in some sections
+of the Congo State. The most artistic specimens of native craftsmanship
+are the neatly car\'ed and decorated cups and goblets of the Bakuba, of which
+a representative series is sho^n in Plate, xv. The top is frequently carved
+into a human head (Fig. 4). Less tastefully finished, but equally interest-
+ing, is a box from the Uele consisting of a bark cylinder surmounted by a
+wooden cover shaped into a crude head and resting on a wooden pedestal
+(Fig. 8). The distribution of these bark receptacles seems to be confined
+to the northern tribes of the Congo. Neck-rests have been regarded as
+foreign to the West African culture area, though even there they occur sporad-
+ically.^ In the Museum there are several rests from the Kasai, Bangala, and
+Equator regions, as well as from the Ubangi and northeastern districts.
+This fact, of course, does not militate against the supposition of a relatively
+recent importation. A rather interesting type of openwork carving deserves
+mention (Fig. 10). Sometimes the slab of the head-stool is supported by a
+human figure. A stool of rather elaborate make with a crescent-shaped
+perforation may serve as an example of woodwork from the Eastern Province
+(Fig. 9).
+
+Many articles of religious significance fall, from a technological point
+of view, under the category of wood-carvings. The Congo collection
+embraces a considerable number of objects illustrating the beliefs and ob-
+servances of the aborigines, notably fetiches and masks. Modern investi-
+gation does not support the popular conception of fetiches, nor does it
+confirm Tylor's classical definition of fetichism as **the doctrine of spirits
+embodied in, or attached to, or conveying influences through, certain material
+objects." ^ Fetiches are in no way connected with spirits, except in so far
+
+» Ankermann, Kulturkreise und Kulturschichten in Afrika, pp. 69-70, Zeiischrift fOr
+Ethnologic, 1905, pp. 54-84.
+
+2 Primitive Culture, II, 144. The following statements on fetichism are based on, — Notes
+Analytiques sur les Collections Ethnographiques du Mus^e du Congo, Tome I, Fascicule II:
+La Religion (Pages 145-316), and PechuCl-Loesche, Die Loango-Expedition (Dritte Ableilung,
+Zweite Halfte; Stuttgart. 1907), pp. 347-472.
+
+
+350 Anthropological Papers American Museum of Natural History. [Vol. II,
+
+as they are employed to counteract the activities of malicious supernatural
+beings. Any object, or artifact, invested with "manitou'' power by appro-
+priate incantations, ritualistic performances, and a coating of magical sub-
+stance, becomes, when properly used, a fetich. As such, it is not necessarily
+either wo.rshipped or abused, but may be abandoned as soon as, its inefficacy
+has been denlonstrated. Fetiches are charms, serving some specific purpose,
+such as protection in battle or success in trading. As their power is due
+exclusively to the application or enclosure of the magical substances, fetiches
+destined for the same end assume various forms; and, on the other hand, the
+most elaborate carvings are powerless before contact with the **medicinar'
+ingredients. Representations of animal and human forms are especially
+common in the Kasai and Kwango districts, the Lower and Middle Congo
+area, and the Eastern Province, while they are very rare in the remaining
+divisions of the Congo. It has been plausibly argued that the high develop-
+ment of carving in some of the districts mentioned has effected this differ-
+ence.^ Pechuel-Loesche suggests that the images brought in by Catholic
+missionaries at the time of the great Portuguese voyages of exploration
+greatly promoted the development of human car\ings. In support of this
+view, he points to the rarity of human figures both in the sections of Africa
+influenced by iconoclastic Islamism and in the south and southwest where
+Protestant missionaries have labored during the last century. That pre-
+cisely those 'Bantu tribes subject to Catholic influence have developed such
+an abundance of human fetiches seems to him a significant coincidence.
+At the same time, he does not deny the possibility that such figures originated
+prior to contact with Europeans, whose influence may have been restricted
+to fostering an already existing art.^ In the artistic representation of
+human fetiches, certain sectional differences of style become manifest. In
+the maritime and lower Congo regions, as well as in Loango, perhaps the
+most peculiar characteristic is a trough, a circular or a box-like excrescence
+extending sometimes from the chest to the umbilical region, and intended
+for the reception of the magical substance.^ This peculiarity is strongly
+marked in Fig. 2, Plate xvi. In Fig. 7, the excavation is less prominent
+and overshadowed by other peculiarities: the crested headgear, quad-
+rangular chin-beard, series of parallel vertical lines on both cheeks, and
+extraordinarily thin arms. The up-turned nose, developing at times into
+a grotesque proboscis, is highly characteristic of Kwango figures (Fig. 6) ;
+the jutting ears are likewise remarkable. Sexual characteristics are strongly
+emphasized in some specimens (Fig. 8) from the Kasai. Several fetiches
+
+
+» Notes Analytlques, op. cit., p. 212.
+
+2 Pechuel-Loesche, 1. c. pp. 397-399.
+
+3 Ibid., p. 246; Pechufil-Loesche, p. 364.
+
+
+1909.] Notes on New Collections. 351
+
+are of clearly phallic character. In many of the human figures, the dis-
+proportionate shortness of the legs is noticeable. Animal fetiches are
+relatively rare ; a specimen from the Kasai is shown in Fig. 5.
+
+Masks are employed in war, by ordinary dancers and by shamans. In
+Fig. 4, Plate xvi, there is pictured a remarkable Bakuba war-dance mask,
+with a long fringe at the base. There are no eye-slits, each eye being closed
+by a conical projection. The cones are divided into a number of triangular
+surfaces alternately painted black and white. The wearer was able to peep
+through a number of small circular of)enings. A Bakuba shaman's mask
+is remarkable for the narrow eye-slits, pyramidal nose, and the decorative
+incisions on forehead and cheeks (Fig. 3). Fig. 1 represents a mask with
+fringe and a lofty crest flanked by two lower crests of similar curvature; the
+eyes are represented by cowries, with which the entire specimen is also
+profusely dotted, and beads are added for the ornamentation of the facial
+portion.^
+
+The well-developed musical sense of the Congo negroes is attested by
+the number of their musical instruments, some of which are represented in
+Plate XVII. The wicker-work rattles made from split canes deserve special
+attention ; the insertion of a wicker globe enclosing small shells or seeds at
+both ends of the handle results in the characteristic dumb-bell iy\ie (Fig. 9).
+The simple wicker rattles are distributed over the whole of equatorial Africa.
+Among the Mangbettu, they were used as royal sceptres and batons in
+public councils and choral chants.^ Among many other Congo tribes, they
+are employed in shamanistic practices. Tomtoms (Fig. 7) are hollowed-
+out blocks of wood with one or two longitudinal slits at the top; the walls
+are of unequal thickness, so that sounds of different pitch result from strik-
+ing them with a drumstick. By varying the succession and length of the
+beats, some of the negro tribes have developed a definite long-distance signal
+code, which is used to summon tribesmen to the chase, council, war-expedi-
+tions, or other tribal undertakings. The tomtom is distributed over the
+entire Congo region and along the coast from the Congo River to Kamerun ;
+the signaling code, however, seems to be restricted to the lower Lomami,
+Lulongo and Juapa rivers, and to the northern Congo State generally. The
+Bakongo of the maritime region and the Baluba in the south have tomtoms,
+but do not use them for signaling.' The drums are of two principal types:
+those of elongated cylindrical shape with drum-heads stretched by means
+of leather cords (Fig. 10); and vase-shaped forms with but a single skin-
+
+
+» Though almost the exact counterpart of the specimen is pictured in Notes Analytiques
+Tome I. Fascicule II, it is deemed advisable to illustrate the mask for the benefit of the Ameri-
+can reader.
+
+a Schweinfurth, 1. c. Plate xvi.
+
+3 Sir Harry Johnston, George Grenfell and the Ck>ngo, London, 1908, pp. 721-722.
+
+
+352 Anthropological Papers American Museum of Natural History. [Vol. II,
+
+cover nailed to the wooden resonator, which terminates in a circular stand
+(Fig. 8). The sansa,^ consisting of a wooden key-board with wooden or
+iron keys of varying size (Fig. 2), is of very wide distribution in Africa; a
+marimba with gourd resonators is shown in Fig. 5. The principle of the
+musical bow is shown in an instrument formed essentially of five curved
+sticks constituting with corresponding strings so many bows, and all joined
+to the same sounding-board (Fig. 1). The attachment of several strings,
+one above the other, to the same bow, united with a resonator, results in a
+kind of harp-guitar akin to that of the ancient Egyptians (Fig. 4). A
+zither with curved bark resonator is pictured in Fig. 3, and a trumpet partly
+of ivory and partly of wood in Fig. 6.
+
+As the basketry and woven fabrics from the Congo will receive detailed
+treatment in a later Museum publication, it is merely desirable at present
+to call attention to a series of beautiful samples of Bakuba "plush" fabric
+(Plates xviii and xix). The cloth is woven of raphia fibres by the men,
+and the women subsequently sew on the "plush" patterns. The Baptndi
+living near the mouth of the Kwango are also skilled in the pile-cloth in-
+dustry,^ and similar fabrics are reported from the natives of Lake Ntomba
+(Natumba) ; ^ in course of trade, it seems to have traveled rather far north
+from its area of manufacture.* One of the most interesting of the design-
+elements illustrated is the combination within a rectangle of four right-angled
+triangles with touching apices, — the Samoan "whirligig" pattern (Plate
+xrx, Fig. 1).
+
+Benin. The accessions from Benin include a number of bronze figu-
+rines, ornaments and tusk-stands, and several carved tusks. Four large
+tusks, two of which are figured in Plate xx, are of special interest. The
+pieces illustrated are covered wnth realistic carvings in low relief, but lack
+the lozenge-pattern band usually found at the bottom of this class of objects.
+On both there are the characteristic human figures with peaked headgear,
+bearing staves, wands or leaf-shaped swords, nude men with legs curved
+upward and outward, and sigma-shaped designs, which on one of the
+specimens enclose eye-ornaments, and a tail-like appendage, and seem to
+correspond to the "cat-fish" pattern of British ethnographers. The
+sigma-patterns are juxtaposed, one above the other, the upper being the
+symmetrical counterpart of the lower. One piece shows in addition a
+
+
+1 Called marimba in Notes Analytiques sur les Collections Ethnographiques du Musfte du
+Congo, Tome I, Fascicule I. while the instrument commonly called marimba is there designated
+as xylophone. The term is used with varying significance by the natives.
+
+2 Torday and Joyce. Journal of the Anthropological Institute of Great Britain and
+Ireland. 1907, Vol. XXXVII, p. 143.
+
+3 Johnson, 1. c, p. 175.
+* Ibid., p. 758.
+
+
+1909.]
+
+
+Notes on New CoUections,
+
+
+353
+
+
+horseman wearing a brimmed helmet with pendant, and a pleated skirt.
+With one hand he reins the horse, in the other he holds a dart. The same
+specimen also exhibits the characteristically Benin group of a dignitary sup-
+ported on either side by an attendant. Besides the larger antiques, the
+collection includes a number of small tusks and tusk-tips divided by a
+descending spiral line into a series of bands ornamented with realistic carv-
+ings. The totality of relief figures on any one piece seems to represent a
+procession. There are representations of hand-to-hand encounters, Euro-
+pean headgear, umbrellas, a wheeled vehicle, a European house, fish, birds,
+and quadruped forms. The provenience of only one of these smaller tusks
+
+
+Fig. 18. a (90.0-912), b (90.0-914), c (90.0-920). Carved Spoon Handles,
+a, 53 cm.; b, 45 cm.; c, 53 cm.
+
+
+Length of
+
+
+is definitely known, but, as all the pieces are essentially similar, they may
+be regarded as coming from the Loango coast.
+
+British South Africa. The Douglas collection embraces a large num-
+ber of specimens illustrating the technology of Mashonaland, the Barotse,
+Bechuana, and neighboring tribes. A considerable part of the collection
+consists of baskets, detailed treatment of which, together with those of the
+Congo tribes, is reserved for a future paper. A group of specimens of abo-
+riginal manufacture from the Barotse and their neighbors is presented in
+Plate XXI. The decorated gourds are noteworthy; they show a combina-
+tion of geometrical motives, such as checker, rows of triangles, columns of
+lozenges or triangles with realistic representations of human figures, birds
+and beasts. A point of some interest is the fact that some of the earthen pot-
+forms are exactly duplicated among the wooden vessels, which are frequently
+decorated with bands of shaded triangles or diamonds. The somewhat
+
+
+354 Anthropological Papers American Museum of Natural History. [Vol. II,
+
+
+Fig. 19. a (90.0-858). b (90.0-852), c (90.0-849), d (90.0-850), e (90.0-855), / (90.0-837),
+(90.0-853), h (90.0-856), i (90.0-830), j (90.0-846), k (90.0-857). I (90.0-851), m (90.0-«64). n
+(90.0-842). Ivory Pins. Length of a, 15 cm.; 6, 10 cm.; c, 13 cm.; d, 11 cm.; «, 13 cm.; /,
+13 Qm.:o, 10 cm.; h, 11 cm.; t, 12 cm.; ;, 12 cm.; k, 13 cm.; I, 18jcm.; m. 13.5 cm.; n, 14 cm.
+
+
+crudely shaped spoons (Fig. 18) have their handles decorated with realistic
+cannings, among which the figure of a swimming bird predominates; this
+motive show^s a tendency to conventionalization.'^'Possibly the opposite
+
+
+1909J Notes on New CoUectiona. 355
+
+tendency is to be recognized in a series of carvings on ivory pins (Fig. 19).
+In a number of these specimens, the handle assumes a serpentine form of
+varying degrees of sinuosity. As a few of the pins actually culminate in a
+clearly recognizable snake-head, it might be speciously argued that in this
+case also a process of conventionalization has taken place. As, however,
+the snake-head is frequently replaced by the heads of other animals, several
+times by that of a bird, once by that of a monkey, it is quite conceivable
+that the serpentine handle was originally a decorative motive, in some cases
+surmounted by an animal head ; that occasionally the form of the customary
+decorative unit suggested to the artist the idea of a snake, and that the
+complete snake figure is thus a later product due to the inherent congruity
+of the geometrical unit and the realistic form. Both the serpentine and
+straight pin-handles are decorated with the swimming-bird motive common
+in Barotse woodwork (Fig. 19, j, n). Other ivory pins present the circle-
+
+
+Fig. 20 (90.0-1256). A Musical Bow. Length 63 cm.
+
+dot pattern noted above as occurring on ivory carvings from the Congo (Fig.
+19, f, i), and possibly due to Arabian influence. A modification of the
+musical bow from Mashonaland is shown in Fig. 20. The two strings are
+attached to a straight carved stick with several pegs, two pieces of gourd
+forming a resonator. Specimens of this type occur sporadically in the
+Congo State,^ but they are more common in the east, where they have been
+found, among others, in the Wayao tribe. ^ (R. H. L.)
+
+ArchcBoiogy. From Mediterranean Africa, the Museum has long pos-
+sessed a representative series of flaked material, secured by Andrew E.
+Douglass through the kindness of M. Jacques De Morgan, whose name
+must ever be associated with the problems of old world archaeology. In
+addition there are a few stone implements from Somali Land, presented
+by H. W. Seton-Karr. Recently this nucleus has been augmented by a
+series of prehistoric flints from ancient village sites in the Fayum Desert,
+
+
+1 Johnston (1. c, p. 716) reports them from the Aruwimi.
+Ftlllebora. Das deutsche Njassa-und Ruwuraa-Gebiet (Berlin, 1906), p. 238.
+
+
+356 Anthropological Papers American Museum of Natural History, [Vol. II,
+
+Africa, apparently belonging to a later period, probably the Neolithic.
+A number of types are shown, all differing, some large, stemless and very
+deeply-barbed; others having the ends of the barbs squared like some
+European types. A large number are very diminutive. Several semilunar
+flint knives among quite a series of various blades are of interest, and some
+scrapers and drills are in the collection.*
+
+ASIA.
+
+From the living peoples of Asia and the Malayan area, a number of
+collections were received during the interval. Field-work was carried on
+in Korea under the direction of Dr. C. C. Vinton, the results of which, with
+notes on the collections made, will be treated in a special publication at
+some future time. Among the gifts may be mentioned a number of Tibetan
+scrolls from the Lamasery at Batug, due to the interest of Mr. Mason Mit-
+chell; from Mr. Charles H. Senff, a shield and a series of weapons from
+India, collected by Captain Hagadom; from Mr. M. F. Savage, two impe-
+rial token coins, what is said to be a ** judge's sceptre" from Pekin, China,
+collected by the artist Mueller during the late Boxer War, and an iron pipe
+inlaid with gold from Manchuria.
+
+Philippine Islands. The Jesup Philippine collection represents in
+general four cultures: the Christianized tribes, the Pagan tribes, the Moro
+tribes, and the Negrito tribes. For the former three, cultural features are
+quite fully represented; the rice industries, the textile arts and the hemp
+industry. The former is of considerable ethnographical interest, because
+of its distribution on the Asiatic continent and the indications that the
+Malayan groups acquired it from some southern Asiatic culture center. The
+investigation of this problem and the distribution of wheat and allied cereals
+in Mediterranean countries would doubtless throw some light on the general
+anthropological problems of the Old World. It would seem that many of
+the textile arts can also be traced to an Asiatic center and, while far less
+specialized than the rice culture, may in turn prove an important aid in the
+same connection.
+
+As a matter of general interest, we may call attention to one unique
+feature of the rice culture. The peculiar rice mill shown in Plate xxii is
+constructed almost entirely of bamboo, though seemingly in strict imitation
+of the Old World stone mill. While the whole collection is rich in objects
+illustrating bamboo culture, this example seems one of the most unusual
+and unexpected adaptations of such material.
+
+
+^ See, Report of the U. 8, National Museum for 1904, pp. 745-751.
+
+
+1909.] Notes on New CoUecHons. 357
+
+Transportation both by water and land is fully represented, the series of
+models of boats being unusually complete and is supplemented by a number
+of real boats with complete fittings. Types of habitations are also well
+represented by models as well as a typical Igorot store house and Negrito
+hut.
+
+The Jesup Collection has been augmented by a fairly representative
+series from the Bontoc Igorot of northern Luzon, including costumes, coiled
+and twilled baskets, wooden shields, spears, a drum, gongs, beaten vessels
+of copper, large wooden dishes, ladles, carved spoons, tobacco-pipes, etc.
+There are a few curiously shaped boxes carved from blocks of wood appar-
+ently in imitation of plaited basket tobacco-pouches (Figs. 1 and 3, Plate
+xxii) as shown in Fig. 2. That the wooden ones are imitations is suggested
+by the wnde distribution of the basket type and the fact that Fig. 1 is hol-
+lowed out underneath, giving the appearance of the peculiar ridged bottom
+found on the former. The wooden bowls all bear notched edges as shown
+in Fig. 4. Some are provided with one small side bowl instead of two as in
+this case. Wood carving is further represented by a monkey-headed staff,
+a large hat, surmounted by a human head, carved from a black wood, and
+spoons with the human figure for handles similar to one described by Ratzel.^
+Pipes of wood, clay and brass present the types described by Jenks.' One
+of the brass pipes is of unusual form, the bowl resting on the back of a quad-
+ruped. A girdle to which are fastened thirty-four Spanish coins ranging
+in date from 1723 to 1825 may be mentioned, and a curious ornament
+composed of eleven perforated ivory disks held together by plaited links.
+The fact that these disks are arranged in order of size suggests that this may
+have been a pendant rather than a girdle, though in another collection such
+an object forms the belt for a knife scabbard. There are also armlets of
+boar's teeth joined by plaited bands, almost identical with specimens found
+in collections from Melanesia.
+
+On a decorated bamboo lime box, we find the characteristic zigzag
+and hour-glass patterns found in various parts of the Malay area, but in
+addition some attempts at realism (Fig. 21, a). Among the Jesup collection,
+there are many similarly decorated lime boxes, on only one of which there
+are a few animal figures, indicating that such realistic decorations are excep-
+tional. Taking Philippine lime boxes as a whole, we find one general type
+of decoration consisting of zigzag, stepped and angular patterns which differ
+entirely from the specimens we have seen from other parts of the Malayan
+Islands and New Guinea. In particular the specimens from Borneo and
+Sumatra bear scroll and leaf designs as the chief motifs, while those from
+
+
+1 History of Mankind, Vol. I, p. 431.
+
+2 Etiinological Survey Publications, Vol. I.
+
+
+358
+
+
+Anthropological Papers American Museum of Natural History. [Vol. II,
+
+
+7 £
+
+
+IIHHIIIhj
+
+
+g
+
+
+1 •"
+
+2 £
+
+
+^ O
+
+CO -
+CO •—
+
+
+2 3
+
+
+^ E
+
+
+1909.] NoUb on New Collections, 359
+
+New Guinea have the characteristics of Papuan art. A bamboo cup or
+tobacco-box from the Hova of Madagascar, in the Berlin Museum, bears
+representations of animals similar in execution to those upon one of our
+Philippine lime boxes, and so far as our observation goes different from the
+conventional forms in African art. It is the wide biit seemingly contigu-
+ous distribution of these decorated bamboo boxes that suggest their impor-
+tance from an ethnographical point of view. Though we have not the time
+to treat the subject fully, the data at hand seem to indicate their center of
+distribution to have been in the heart of the Malay Islands. Returning
+to the Philippines, we find a general type seemingly originating frop some
+undetermined center whence they have found their way into various parts
+of the island group. In Fig. 21, we give a series of selected designs.
+
+A set of brass ear cleaners bear designs produced by repeated impressions
+of a small punch similar to African iron snuff spoons from Barotseland.^
+
+Mr. Charles H. Senff presented a large representative collection of swords,
+knives and spears from the Philippine and other Malayan Islands. They
+were selected by Captain Hagadorn, chiefly among the Moro and Igorot.
+The cutting weapons are of four main t^^jes: the well-known long-handled,
+angling, bladed knife found in Borneo and elsewhere (Fig. 22, e); the long
+straight sword with a spreading blade and fringed handle (Fig. 22, a) ; the
+so-called Sulu knife with short bulging blade (Fig. 22, b) ; and finally the
+kris, some with straight blades, others of the well-known waving type (Fig.
+22, c and d). A number of the latter are decorated with inlaid designs, in
+most cases highly conventionalized. One specimen suggests a connection
+between these designs and the curious form of guard found on all these
+blades (Fig. 23, a). On part of this blade we find the form of a scaly serpent
+passing under the ornamental clasp and terminating in a conventionalized
+head or beak. This peculiar hooked mandible and protruding tongue seem
+the most persistent features of these weapons, occurring so far on every
+specimen examined. While further research will be necessary to establish
+the suggestion that this is a serpent motive, it is clear that the decorator of
+this specimen so regarded it. The opposite projection of the guard is also
+repeated with fair fidelity and may well be a horn or a distorted occiput of
+the same monster. This is suggested by a figure on a jar of assumed
+Malayan origin figured by Ratzel,^ suggesting that we have here the well
+known dragon of Asiatic art. The inlaid decorations of these blades
+(Fig. 23, b, c, d) vary greatly in detail, but agree in general arrangement
+in so far that we have a central stem parallel to the edges of the kris, flanked
+near the top by scroll and other simple designs.
+
+
+» See Ratzel, History of Mankind, Vol. I, p. 411.
+2 History of Mankind, Vol. I, p. 470.
+
+
+360 Anthropological Papers American Museum of Natural History. [Vol. II ,
+
+
+Fig. 22. a (70.1-4153). b (70.1-4189) c (70.1-4238). d (70.1-4155), e (70.1-1496).
+Types of Malayian Swords. Length of a, 106 cm.; 6, 64 cm.; c, 84 cm.; d, 71 cm ; e, 98 cm.
+
+
+1909.]
+
+
+Notes on New CoUectiona,
+
+
+361
+
+
+I
+2
+
+
+c
+
+
+s
+
+te
+
+
+o
+
+
+^ B
+I «
+
+d t^
+
+
+« e
+
+
+T^.
+
+
+Pci S
+
+
+362 Anlhropological Papers American Museum of Natural History. [Vol. II,
+
+The handles are usually slight variants of what appears to be a bird
+form. Knives of the type shou-n in Fig. 22 d, often have handles repre-
+senting heads of conventionalized animal forms. For the specimen exam-
+ined the eyes are marked by inlaid dots. Many of the swords and knives
+have silver mountings and mention may be made of a kris scabbard orna-
+mented with alternating bands of fretwork in silver and turde shell.
+
+Upper Burma. A small collection of baskets has been received from
+the Kachin of Upper Bui ma in which there is an interesting pack basket
+of unusual form. It may be mentioned that the pack baskets of America
+are usually i>ointed, while in some parts of the Congo, Africa, they are
+shallow and tray-shaped. This basket has a cover and a rectangular base,
+as is frequent in southeastern Asia and the Malayan area. It is also
+strengthened by hoops and supporting staves of bamboo. The carrying
+strap passes over the head and is provided with a curious wooden yoke for
+the shoulders as a spreader. The basket b in technique a double struc-
+ture with a layer of leaves between the inner weave of coarse twill and the
+outer of fine wicker. The edges of both body and cover present an
+interesting braid of fine cane. The framework is attached to the basket
+by short spirals while small rings of complex flat braid and loops bound
+with a braid-like edge, form the strappings of the basket.
+
+For short journeys, a small cylindrical basket on an oval base is carried.
+These cane baskets are about 40 cm. high and of wicker weave, with a frame-
+work as in the larger basket but which is attached by a Malay knot.^ Five
+rows of twine weave border the edge below a braid formed by the ends of
+the warps. A three-ply rope with short ends of a material which appears
+to be the same as the framework of the basket is attached by means of loops
+formed by the upright spokes of the frame. A braided carrying strap of
+cane is attached to this rope by swivels of interlaced cane.
+
+A satchel-like carrying basket used by chiefs when visiting friends is
+constructed of twilled cane. A flat rectangular mat 80 cm. by 35 cm. is
+first woven, then folded double and the side edges firmly closed by the aid
+of two strips in the framework. Malay knots attach this framework to the
+satchel. A native three-ply rope and a braided carrying strap make it
+complete. On festival occasions the Kachins use a small ornamental basket
+of very fine cane and yellow orchid stems. Its shape and construction is
+similar to that of the last basket; but when half of the mat is woven, the
+weave changes from twill to twilled twine, woven in opposite directions.
+Bands of the twilled twine are overlaid with the yellow orchid stems, in
+diamond and arrow point designs. The edge is of twine with the alternate
+
+
+• Otis T. Mason, Basketry Bolo Case from Basilan Island, p. 196, Washington, 1907: Vo-
+cabulary of Malaysian Basketwork, p. 25. Washington, 1908.
+
+
+1909.] Notes on New Collections. 363
+
+waq)s coiled over three joining warp stems and run into the twining. A
+dainty three-ply cord and braided strap are also attached to this wallet.
+The character of the ornamentation is quite like that on specimens from
+the Andaman Islands. (M. L. K.)
+
+Andaman Islands. A systematic collection, the gift of Mrs. Morris K.
+Jesup, was made in the Andaman Islands by Mr. C. Anderson, an account
+of which, with numerous illustrations appears in the Museum Journal,
+April, 1909. The collection is fairly complete and is accompanied by
+important notes on the custo s of the Andamanese. The peculiarly shaped
+bow of the Andamanese, used for shooting fish is well represented in the
+collection and in addition, mention may be made of baskets, drums, sleeping
+mats, ornaments of shell and torches made of resin wrapped in palm leaves
+used for fishing at night, large iron-pointed arrows for killing the wild boar
+and long barbed turtle spears. Of especial interest are several human
+skulls worn as tokens of respect for lost relatives. These are carefully
+cleaned and painted, after which pendants with shells or fringe are attached
+and a strap put on, by w^hich they can be suspended around the neck of the
+wearer. The collection contains a number of human jaws prepared and
+Avom in the same way and for the same purpose as the skulls just described.
+Also, mention may be made of a fetich composed of human bones with shell
+pendants w^om by friends of a sick person in order that his sufferings may be
+mitigated. With the collection is a series of photographs representing
+ceremonies and other phases of Andamanese life.
+
+ArchcBoiogy. Through the kindness of H. W. Seton-Karr, a few palaeo-
+lithic implements from India were added to the collection. These were
+washed up out of pleistocene lateric alluvium, containing quartzite boulders,
+in Poodi and Gazeefet, Madras Presidency, and are interesting as coming
+from a country archaeologically little known. They are generally like the
+palfeoliths of England and of the Somme Valley, France. In addition may
+be mentioned some celts from the vicinity of Banda, all made by pecking,
+in some cases finished by polishing, and characterized by a broad bit taper-
+ing to a pointed butt. They have a general resemblance to some New
+World forms. ^
+
+Also it may be of interest to mention casts of a few stone implements
+from Shantung, China, collected by Rev. Samuel Couling, a Baptist mission-
+ary. The originals are in the Royal Scottish Museum, Ekiinburgh. The
+series consists of celts, hammer and rubbing stones and a grooved axe. The
+celts are of a number of types, easily duplicated in almost any collection
+from the Eastern United States (Plate xxiii). Examination shows them
+
+
+H. W. Seton-Karr, Report of the U. S. National Museum, for 1904, p. 748.
+
+
+364 Anthropological Papers Ameriacn Museum of Natural History, [Vol. II,
+
+to have been carefully wrought by the usual process of pecking, grindbg
+and polishing. An irregularly shaped object of stone appears from its worn
+and battered appearance to have been a hammerstone; while another pebble,
+very much worn and beveled on one side, shows every evidence of having
+been used for grinding and polishing. Yet most interesting of all is that
+rarest of neolithic forms in the Old Worid, a grooved axe. The sjjecimen is
+small and the groove encircles three surfaces, the fourth side being flat.
+Thus this small collection is exceedingly interesting as coming from a region,
+the prehistoric archfieology of which is so comparatively little known, and
+in its duplication of so many well-known New World types.
+
+PHYSICAL ANTHROPOLOGY.
+
+The collections under this head were considerably augmented during
+the year. We may mention fragments of a skull from a mound in Nebraska
+presented by Mr. Robert F. Gilder, thirteen skulls from the vicinity of New
+York City presented by Henry Booth, and one skeleton and two skulls from
+Aukland, New Zealand. By courtesy of the Egyptian Expedition from the
+Metropolitan Museum of Art, a collection of human bones from ancient
+burials has been received. However, the largest acquisition was a series
+of 1800 palate casts from normal and feeble-minded white subjects, col-
+lected and presented by Dr. Walter Channing. The casts are so distributed
+as to furnish an unbroken series from the sixth year of childhood to middle
+life. During the year the Museum published a comparative study of this
+collection to which the reader is referred for further information.^
+
+
+» Anthropological Papers, Vol. I, Part V.
+
+
+1909.]
+
+
+Index.
+
+
+365
+
+
+INDEX.
+
+
+A'bi, 223.
+
+Adze, 321, 321.
+
+A'gai-dika, 206.
+
+Ah-hi'-e, 212.
+
+A'k-hwi, 182.
+
+Album, James Edge-Partington's, 338.
+
+Algonkin, 7, 8, 9, 12, 321.
+
+Algonquin, 180.
+
+Amulete, "bird," 321; Costa Rica, 329.
+
+Andaman Islands, 363.
+
+Anethum graveolens, 188.
+
+A'no, 221.
+
+A'nonokakin, 220.
+
+Apache, 191.
+
+A'po, 209, 226, 233, 235.
+
+A'po-no'kakin, 219.
+
+A'ra, 209.
+
+A'rabe, 209.
+
+Arango, Leocadio Ma, 333.
+
+Arapaho, 11, 12, 16, 17, 172, 204, 208,
+
+216, 217, 236.
+Archaeology, 355, 363.
+Ankara, 16, 172, 212.
+Armadillo, pottery design from, 324.
+Armlets, Igorot, 357.
+Arm-rings, outfit for making, 347.
+Armstrong, Dr. S. T., 322.
+Arrows, Bismarck Archif>elago, 347;
+
+Eskimo, 314, 315; poisoned, 331
+Asande (Niam-Niam), 347.
+Assiniboine, 16, 219, 313.
+Athabascans, 191.
+Atsina, 171, 183, 190, 201.
+Axes, 322, 347, 349.
+
+Ba'di, 210.
+Ba'dzi, 209.
+Ba'gwina, 227.
+Ba'ha, 209.
+Bakongo, 351.
+Bakuba, 351.
+Baluba, 351.
+Ba'mu-tak, 174.
+
+
+Ba'naite, 206, 208.
+
+Ban-at-tees, 208.
+
+Banner stones, 320.
+
+Bannock, 171-174, 179, 199, 206, 208,
+211, 219, 226, 233.
+
+Bantu, 350.
+
+Bapindi, 352.
+
+Barotse, 353.
+
+Basketry, Congo, 352; Kachin, 362;
+bag, 339, 340; New Caledonia, 340;
+tray, 339.
+
+Baskets, carrying, 362; cylindrical 362;
+Kachin, 362; pack, 362.
+
+Bassongo-Mino, 348.
+
+Bavi, 209.
+
+Bear and the Deer, 169, 235, 253.
+
+Bear-knife, 95.
+
+Bear-Moccasin, 143.
+
+Beaver-medicine, 74, 79.
+
+Bechuana, 353.
+[ Benin, 352, 349.
+I Bi'a, 209.
+
+I Bi'a a'po, 209. ♦
+
+' Bi'cap, 182.
+
+Bismarck Archipelago, 346.
+
+Blackfoot, 172, 180, 185, 191, 195, 201,
+202, 212, 236, 313.
+, Blackfoot, mythology of, 1-164.
+I Bladder Story, 127.
+
+Blood, 5, 6, 7.
+
+Blood-Clot, 12, 13, 17, 53.
+I Blow-guns, 331.
+
+Board, throwing, 318.
+I Boas, Franz, 169, 200, 203, 310, 317.
+' Bon toe Igorot, 357.
+
+Booth, Henry M., 320.
+' Bourke, 186, 193-195, 198, 227.
+
+Bow, Eskimo, 314; musical, 355.
+
+Bowdoin, George S., 336.
+
+Bowl, kava, 346; Marquesas, 338; New
+Cale<lonia, 337.
+
+Bowls, 338; Igorot, 357.
+
+Boxes, Igorotj 357; lime, 357.
+
+
+366
+
+
+Anthropological Papers American Museum of Natural History, [Vol. II,
+
+
+Braves, 106.
+
+Brenchley, 218.
+
+Brigham, Dr., 336.
+
+Brinton, 173.
+
+British South Africa, 353.
+
+Brother on Desert Island, 14.
+
+Bufifalo, Boy, 13; child reared by the,
+
+13; riding the, 157.
+Buifalo-Rock, 85-89.
+Buffalo's Adopted ChUd, 121.
+Bu'ha, 224.
+Bu'ha-gant, 224, 226.
+Bu'i-na'dcu, 227.
+Bullet mould, 321.
+Bunched Stars, 12, 17, 71.
+
+
+Caddoan tribes, 16.
+
+Cai'mogots, 184.
+
+Cannibal stories, 291.
+
+Capa, 332.
+
+Capes, Hawaiian, 336; Maori, 340.
+
+Caribou teeth, 318.
+
+Ca'ro-rika, 185, 208.
+
+Casts of palates, 364.
+
+Catchers, 121.
+
+Cat-fish pattern, 352.
+
+Cauca Valley, pottery from, 333.
+
+Cayuse, 172, 191.
+
+Celt, 321.
+
+Changuenes, 328.
+
+Charm, Eagle-head, 103; rain, 339.
+
+Cheyenne, 11, 12, 16, 17, 172, 219
+
+Chibchas, 328.
+
+Chilcotin, 236.
+
+Chile, body from, 334.
+
+Chiriqui, 323.
+
+Cigar, Brazilian, 331.
+
+Cin-au'-ao, 233.
+
+Clark, 6, 189, 192, 206, 208, 211, 212, 214,
+220, 233, 234.
+
+Cloth, Bakuba, 352.
+
+Coat, woman's, 315.
+
+Coctos, 328.
+
+Co'go-na'ronon, 197.
+
+Co'go-wi'towE, 177.
+
+Collection, Booth, 320; Engler Melane-
+sian, 337; Lewisohn, 313; Norton,
+318; Schmidt and Weiss, 330.
+
+Collections, Africa, 347; Asia, 356;
+
+
+Islands of the Pacific Ocean, 336;
+
+North America, 313; South America,
+
+330; Physical Anthropology, 364.
+Comanche, 173, 190.
+Congo, 347.
+Coni-gan*, 183.
+ConvoUaria stellata, 228.
+Costa Rica, specimens from, 3? "
+Cotos, 328.
+
+Cottle, Captain S. F., 314.
+Coyote, 156, 169, 239, 248, 262, 267,
+
+270, 272-80.
+Crse, 9, 12, 16, 213, 217, 220, 221, 232,
+
+313.
+Crow, 11, 16, 313.
+Crows, 172, 191, 202.
+Culin, 174, 197, 199, 216, 220, 225, 230,
+
+234.
+Cup, Hova, 359.
+Cups, wooden, 349.
+Cuts- Wood, 12, 66.
+
+
+Da'bEntcotc, 211
+
+Da'gu-wo no, 216.
+
+Dakota, 17, 178, 313.
+
+Da'me, 209.
+
+Danicoto'En, 198.
+
+Dina'ronon, 197.
+
+Dance, buifalo, 216; Cree, 217, 220, 221;
+Father's, 219; ghost, 218; hot, 222;
+hugging, 220; Omaha, 222; prairie-
+chicken, 222; scalp, 220; squaw, 217;
+sun, 216, 225; war,' 220; wolf. 216.
+
+Dancing Ducks, 16.
+
+Datci'ba, 171.
+
+Death-drum, 347.
+
+De?r-dance, Kutenai, 15, 157.
+
+De Morgan, M. Jacques, 355.
+
+Designs, alligator, 328; armadillo, 324;
+Barotse, 353; Benin. 349; Cauca
+Valley, 333; Congo, 347; incised,
+349; Hawaiian, 337; Maori, 344;
+Philippine, 357; Samoan stamped,
+345.
+
+De Smet, 195, 198, 213, 215.
+
+Di'rako ne, 208.
+
+Dishes from New Hebridef, .'38.
+
+Do'ca, 196.
+
+Do'cabit, 195, 196.
+
+
+1909.]
+
+
+Index.
+
+
+3()7
+
+
+Dog-Chief, 107.
+
+Do'go, 209.
+
+Domenech, 188.
+
+Do'napo, 211.
+
+Donors, list of, 312-313
+
+Do'pedi, 195-197.
+
+Doro'wokiina, 198.
+
+Dorsey, Dr., 199.
+
+Douglass, Andrew E., 355.
+
+Drills, 321.
+
+Drum, hand, 316; pottery, 329.
+
+Drums, Congo, 351.
+
+Du'a, 210.
+
+Du'a-nai dui, 199.
+
+Duclos, Eugene, 169.
+
+Du'mabana, 225.
+
+Du'mabana-nai dui, 199.
+
+Dumo, 196.
+
+Du'mu-no'kakin, 219.
+
+Duvall, D. C, 5.
+
+Dza'-wongobi, 227.
+
+Dzi'ampi, 212, 213.
+
+Dzo, 209.
+
+Dzo'ap, 226-229.
+
+Dzoavits, 169, 231, 257,^ 259, 261, 262.
+
+Dzu'ma, 197.
+
+Earring, 321.
+
+Elk- Woman, 15, 17, 83.
+
+Enmions, Lieutenant G. T., 314, 318.
+
+E'ngabit ho'pi, 213.
+
+Enga-gwacu Jim, 211, 224-227, 301.
+
+Eskimo, 314; Prince Albert Land, 314;
+Mackenzie River, 316; near Pond's
+Bay, 316; Alaskan, 315, 318; Cen-
+tral, 315.
+
+Execution-knife, 349
+
+Fan of the Ogowe, 347.
+Faukner, Mr., 169, 217.
+Feather cloaks, Maori, 345.
+Feather-work, Hawaii, 336; Maori, 345;
+
+Peruvian, 337; Pomo, 337.
+Fetiches, Congo, 349.
+Fetichism, 349.
+Fixed-Star, the. 12, 58.
+Flathead, 171, 172, 184. 191.
+Flints, 321; prehistoric, 355.
+Found-in-the-Grass, 12, 13.
+
+
+Fox. 9, 12.
+
+Fremont, 183, 191. 228.
+
+Frobenius, 348.
+
+Ga'gu, 209.
+
+Gambling sticks, 316.
+
+Games, Shoshone, 216.
+
+Ghost houses, 347.
+
+Ghosts, 227.
+
+Ghost Stories, 299.
+
+Ghost woman, 155; fed^by, 156.
+
+Girdle, Igorot, 357.
+
+Girl with a Dog for a Lover, 13.
+
+Goblets, wooden, 349.
+
+Gfl'mi, 209.
+
+Gorgets. 353.
+
+Gouge, 321.
+
+Gourds, Barotse, 353.
+
+Gourd vessels, 339.
+
+Grasshoppers, 134.
+
+Grinnell, George B., 6, 7, 9, 10, 11.
+
+Gros Ventre, 11, 12, 16.
+
+Gros Ventre, 172, 201, 236.
+
+Grouse, Jack, 227, 229, 230, 232.
+
+"Grover Cleveland," 210.
+
+Guaimias, 328.
+
+Guamaco skin capa, 332.
+
+Guetares, 328.
+
+Gw&'are-naidui, 199.
+
+Gwi'd-am-ba bi, 211, 230.
+
+Gwr-na-m6'-bi, 211.
+
+Gwfl'ah6, 210.
+
+GwQ'ap(5, 210.
+
+Hagadom, Captain, 359.
+
+Hale, 10.
+
+Hammerstones, 321.
+
+Hansen, Fridtjof, 319.
+
+Harpoons and lances, Norton, 318, 319.
+
+Hartman, Dr. Cari, 322.
+
+Hias-Scars-All-Over, 109.
+
+Hatchet, parade, 349.
+
+Hawaii, 336.
+
+Hawaiians, 337.
+
+Henry Alexander, 6, 8, 9, 10.
+
+Henry Alexander, 219.
+
+Hidatsa, 16.
+
+Hidatea, 172, 236.
+
+Hidatsa, 313.
+
+
+368
+
+
+Anthropological Papers American Museum of Natural History. [Vol. II,
+
+
+Hixtcaba Niha"ca», 11.
+
+Ho'bak-wukQn', 198.
+
+Hoflfman, 177, 214.
+
+Hfl gti gan', 183.
+
+Holmes, Prof., 323, 328, 329.
+
+Hoof-rattle society, 219.
+
+Hopi, 219.
+
+Homed- toad and Frog, 159.
+
+Horns and Matoki, 117-119.
+
+Hova, 359.
+
+Huckerby, Rev. T., 322.
+
+Ha'na-gan*, 183, 214.
+
+Hu'tsi, 209.
+
+I'dzapa an-dQ'p*, 233.
+
+Igorot, 351.
+
+Imitations of the Host, 16.
+
+Implements, India palseolithic, 363.
+
+Implements, Shantung, China, 363.
+
+Iron-Man, 251, 169.
+
+Ironwork, Congo, 347.
+
+Iroquois, 313.
+
+Irving, 185, 199.
+
+Ivory carvings, Congo, 354.
+
+Ivory pins, 354.
+
+i'zai, 185.
+
+Jacobs, Joseph, 170.
+Jars, 324, 325, 326.
+Jenks, 357.
+Jicarilla Apache, 236.
+Jones, Dr. Wm., 7.
+Joseph, Chief, 172.
+Judge's Sceptre, China, 356.
+
+Kachin, 362.
+
+Ka'espai ph skan, 222.
+
+Kahu-kiiri, 345.
+
+Kakalu, 342.
+
+Kanekeneke, 345.
+
+Ka'nu-kwac, 211.
+
+Kasai, 350.
+
+Kasai Bangala, 349.
+
+Kava, 346.
+
+Kayak, 320, 321.
+
+Kearny, Commodore Lawrence, 336.
+
+K<^-cuant, 209, 211.
+
+Ke-mrawE, 211, 213.
+
+Kiowa, 16
+
+
+Kiowa, 183.
+
+Kit-Fox, 121.
+
+Klamath, 172, 189, 235.
+
+Knife, Bangala, 349.
+
+Knife, Bayaka, 348.
+
+Knife, Borneo, 359.
+
+Knife, execution, 349.
+
+Knife, Sulu, 359.
+
+Knives, 348.
+
+Knives, African semilunar, 356.
+
+Knives, Congo, 347.
+
+Knife throwing, 347, 348.
+
+Knives, obsidian, 347.
+
+Knives, Philippine, 359.
+
+Knives, semilunar, 321,
+
+Knot, Malay, 362.
+
+Kd'bitsak, 210, 211, 224, 225,|229, 230.
+
+KO'gobue, 206.
+
+Korowai, 343.
+
+Kris, Malayan, 359.
+
+Kroeber, A. L., 11.
+
+Kroeber, Prof. 173, 200, 201, 202, 2a^
+
+204, 206, 220.
+KQ'bui, 211.
+Kfl embe-rika, 206.
+Kutenai, 15, 157.
+Kwango, 352.
+Kwapakin, 220.
+
+Lacombe, R. P., 10.
+
+Lame-Jack, 230.
+
+Lap stone, 321.
+
+Lehman, Dr., 329.
+
+Leidy, 175.
+
+Lemu, 171, 172, 173, 182, 183, 184, 185,
+
+189, 196, 198, 199, 200, 201, 202, 204,
+
+206, 211, 214, 215, 231, 233, 235.
+Levy, Louis, 313.
+Lewis, 174, 177, 181, 183, 184, 185,
+
+189, 191, 193,208,212,213.
+Lewis and Clark, 171, 179, 181, 184, 187,
+
+188, 190, 191, 193, 195, 211, 214, 215,
+
+229.
+Lewisohn, Adolph, 313.
+Lewisohn Tlingit collection, 313.
+Lime boxes, Malay, 357; Philippine,
+
+357.
+Lotlge, otter, 92, bear, 92, horse, 94;
+
+painted, 94-5.
+
+
+1909.1
+
+
+Index.
+
+
+369
+
+
+Loom, Maori, 342; Northwest Coast
+
+Indians, 342.
+Lowie, Robert H., 170.
+
+Maclean, John, 6, 7, 8.
+
+MacCurdy, Dr., 324.
+
+MacDonald, T. MacGregor, 322.
+
+Mahican, 322.
+
+Maidu, 235, 236.
+
+Malay knot, 362.
+
+Mallery, 199.
+
+Manaeko, 345.
+
+Man cut in two, 154.
+
+Mandans, 171, 212.
+
+Mand6 towa, 200.
+
+Mangbettu, 351.
+
+Mangues, 328.
+
+Man who played dead and deceived a
+
+bear, 16.
+Man who received a flageolet from an
+
+elk, 16.
+Maori, 337.
+
+Marsh, Professor O. C, 324.
+Masks, Bakuba, 351; Congo, 350.
+Masks, Eskimo, 316.
+Mason, 177, 179, 191.
+Matoki, 117, 119.
+Mats, dress, 343, 346.
+
+fighting, 345.
+
+caribou teeth, 318.
+
+covered with thrums, 344.
+Ma'wek wftgin, 217.
+McGuire, 212.
+Medicine, Blackfoot, 74-80; pipe, 89;
+
+shields, 99.
+Medicine Hat, 135-8.
+Menomini, 177.
+Minnitarees, 212.
+MO'bi, 209.
+Moco, 341.
+Mohegan, 322.
+Moko mokai, 341.
+Monbuttu, 348.
+Moon, 6, 12, 17.
+Mooney, 218.
+
+Moon-Woman, 72, 11, 12, 17.
+Morning-Star, 12.
+Moro tribes, 356.
+Mortars, 321.
+
+
+Mosquitoes, 105.
+Mu gua, 226.
+
+Murphy, Dr., 169, 215, 228, 229.
+Musical Bow, Mashonaland, 355.
+Musical instruments, Congo, 351.
+M3rthology, Blackfoot, 5-164; Shoshone,
+233-302.
+
+Na'bacoko-gan', 183.
+Nacft'gwuthun, 197.
+Na'dcu, 224.
+Na'dzangai, 217.
+Na'dzang En, 217.
+Na'gahai fi p6, 209.
+Nah-toos, 10.
+Na'manft ki, 198.
+Na'mi, 210.
+Napi, 10.
+
+Napi\^-», 7, 8, 10, 11, 12.
+Nap peekoon, 10.
+Na'rupinoa, 194.
+Na'soai, 211.
+Natos, 10, 11.
+Navajo, 191, 236.
+Nawa'tapi, 199.
+Na'yahwina, 195, 197.
+Neck-rests, 349.
+Needle-case, 317.
+Needles, bone, 316.
+Negrito tribes, 357.
+
+hut, 357.
+NetchiUik, 317.
+
+Never-Sits-down's Shield, 102.
+New Caledonia, 337.
+New Zealand, 340.
+Nez Perc^, 169, 172, 184, 191, 194, 202,
+
+217.
+Nez Perc^, 313.
+Nicholas, Francis C, 333, 334.
+Nieborowski, Rev. Jos^, 327.
+Nih'a''9a«, 11.
+Nix nn, 11.
+No dedz, 210.
+N6 hu'tsombil, 210.
+Nfl'mo, 206.
+N6 mog a'gutsi, 210.
+No mdndo'gotsi, 210.
+N6 mono A'p6, 233.
+Nb'morrka, 234, 235.
+
+
+370
+
+
+Anthropological Papers American Museum of Natural History, [Vol. II,
+
+
+N6 mu'napo, 210.
+No'wotsak-bag, 198.
+Norton, G. Frederic, 318.
+Nfl'tuye, 182.
+Nu'akin, 217, 219.
+Na'aiin dz6 a-nG^kin, 218.
+Na'neyunc, 231.
+Nu'-numbi, 234, 235.
+
+Ogallala, 172.
+
+O'hapit, 223.
+
+O'ho-wu'ra, 211.
+
+Ojibwa, 9, 12.
+
+Old Man, 6, 7, 8, 9, 10, 11, 12, 14, 16, 17.
+
+Old Man's Gambling-Place, 9.
+
+Old Man's River, 9.
+
+Old Man's Sliding-Place, 9.
+
+Old Man, tales of the, 19-40.
+
+Origins, Cultural, 7, 126-138.
+
+ritualistic, 7, 74-125.
+Ornaments, cone-shaped, 340.
+
+in Africa, 340.
+
+South American, 333.
+Oro ongEn, 185.
+Osage, 236.
+Ott^r- Woman, 15, 17, 78.
+
+Pa^bi'hiano, 234.
+Paddles, Kayak, 319.
+Pa'-gutc, 234.
+Paiute, 177, 184, 199.
+Pa'-n-dz6'avits, 234.
+Pa'Owa, 234.
+Pechuel-Loesche, 350.
+Peralta, Sefior de, 327.
+Peruvians, 337.
+Pestles, 321.
+Petitot, Father, 6, 7.
+Philippine Islands, 356.
+H'a c6nip, 182, 183, 184.
+Piogan, 6, 7, 8, 9, 10, 15.
+Pi'gap wo'toma, 195.
+Pigeons, 105.
+Pile-cIoth, 352.
+Pimis monophyllus, 187.
+Pipe, iron, Manchurian, 356.
+Pipe, medicine, 89.
+
+Seven Stars, 91.
+
+Worm, 91.
+
+
+I Pipe, Black-covered, 91.
+I Pipe, steatite, 321.
+
+Pipes, Igorot, 357.
+
+Pipes, stone, Eskimo, 316.
+
+Platters, Cauca, 333.
+I Pleiades, 17.
+' Plush, Bakuba, 352.
+' Po'hogwe, 206.
+, Porno, 337.
+
+Pottery, 322-330.
+I Pottery, black, 333.
+
+Powell, 230, 231, 233, 234.
+I Probes, snow, 316.
+
+Proverbs, Shoshone, 232.
+
+Pueblo, 191.
+
+PQ'wai, 231.
+
+Punta Arenas, capa from, 332.
+
+Quepos, 328.
+
+Rattles, wicker-work, 351.
+
+Ratzel, 339, 359.
+
+Raven, 134.
+
+Raven creating the world, 16.
+; Recovery of Daylight, 16.
+' Recovery of water, 16.
+
+Red-Head, 129.
+I Remy, 181, 213, 215, 218.
+' Rice Mill, Philippine, 356.
+
+Roberts, Rev. John, 234, 235.
+I Robes, Maori, 342, 343.
+I Robley, Major-General G. 341.
+
+RoUing-Stone Creek, 9.
+I Ross, 173, 177, 185, 186, 193, 208, 212,
+213, 214.
+
+Russell, Frank, 12.
+
+I
+I
+Sahaptin, 190.
+
+Samoa, 345.
+' Sand Hills, 163.
+
+Sansa, 352.
+' Sarcee, 8.
+
+Sarcee, 313.
+
+Sauk and Fox, 7.
+
+Scabby-Ball, 112.
+
+Scabby-Round-Robe, 81, 14, 17.
+
+Scar-Face, 61-65, 12, 14, 17.
+
+Schernikow, E. O., 322.
+
+Schmidt, Hermann, 330.
+
+
+1909.]
+
+
+Index.
+
+
+371
+
+
+Schr5der, Prof. Eugene, 347.
+Schweinfurth, 351.
+Seaming garments, 342.
+Seven-heads, 163.
+Seven Stars, 68, 17.
+Shaman's mask, 351.
+Shaman's outfit, 314.
+Sharpless, Frederick F., 333.
+Sherman, D. J. P., 169, 219, 220.
+Shirry-dikas, 185, 208.
+Shoshone, 16.
+Shoshone, 313.
+Shoshone, the northern, 165-360.
+
+Creation of, 236.
+Sinkers, 321.
+
+Sioux, 172, 195, 202, 213.
+Skull, from Nebraska Mound, 364.
+Skulls from New York, 364.
+
+New Zealand, 364.
+
+Egyptians, 364.
+Smoking-otter, 98.
+Smoking-Star, 12.
+Snakes, 171, 172, 183, 184, 185, 191,
+
+213, 214, 232, 233.
+Spears, double-pointed, 347.
+
+four-pointed, 347.
+Spear thrower, 339.
+Spinden, Herbert J., 169.
+Split Feather, 147.
+Spoons, Barotse, 353.
+Spoons, horn, 175.
+Spotoom Napiwa, 11.
+Stamps, Samoan, 346.
+Stamps, terra-cotta, 333.
+Stone, rubbing, 363.
+
+Star myths, Blackfoot, 40, 72, 7, 12, 13,
+St. Clair, H. H., 169, 197, 198, 200, 216.
+
+223, 235, 236.
+Sun, 6, 12, 17.
+
+-man, 10, 17.
+
+Taboo houses, 347.
+Ta'cayuge, 216, 220, 221, 222.
+Ta ma-a'gai, 218.
+Ta-nu'in, 217.
+Tapa cloth, 346.
+Tar-Baby, 16.
+Tattooing, Maori, 341.
+Ta-vwots, 231.
+
+
+Ta-wQ'tabEn, 194.
+
+Teko-Teko, 341.
+
+T^wdoy, 208, 209, 210, 223, 227.
+
+Terbis, 328.
+
+Terrabas, 328.
+
+Terrebes, 328.
+
+Thompson, 6.
+
+Thompson Indians, 11.
+
+Throwing-knife, Asande, 347.
+
+Sudanese, 348.
+Thunder, 17.
+Thunder-bird, 134.
+Ti'carimip, 211.
+Tillamook, 236.
+Ti'mayihft, 213.
+Tindz6'mo, 195, 196.
+Tirribies, 328.
+Tlingit, 313.
+
+Tobacco-box, Hova, 359.
+Tobacco-seeds, 79.
+To'kaidzo, 211.
+Toms', 211.
+Tomtoms Congo, 351.
+Tongue Flag River, 9.
+Tonkaway, 219.
+To'sa-tak, 174.
+To'sa-wi'h*, 206.
+To'sa-wu'ra, 211.
+Townsend, 180.
+Townsend, C. H., 332.
+Tsi'gzi, 211.
+Tfl'ba-dika, 206.
+Tu'dzomon-dd'mi, 211, 229.
+Tuiga, 346.
+Tuku-rika, 206.
+Tumodzo, 182, 211, 228.
+Tu na r5we, 212.
+Tu'pambe, 209, 211.
+Turtle goes to War, 160.
+Tushepaws, 171.
+Tusks, Benin, 352.
+Tu tai, 197.
+Twin-brothers, 40, 12.
+Twin-Stars, 12, 13.
+Tyler, 349.
+
+Ubangi, 349.
+Uele, 349.
+Ug'wuti, 199.
+
+
+372 Anthropological Papers American Museum of Natural History, [Vol. II.
+
+
+Uinta, 220.
+Un^'pits, 228.
+Upper Burma, 332.
+
+Ute, 172, 177, 194, 199, 201, 220, 228,
+231, 233, 236.
+
+Valeriana edulis, 188.
+Vaginal teeth, 16.
+Vessels, 324, 326, 327, 329.
+Vihuk, 11.
+Vinton, Dr. C. C, 356.
+
+Wa'dzi-mo'gots, 178.
+
+Wa'dzipi, 178.
+
+Wah-ra-ree-ca, 206.
+
+Wai*pe» 211.
+
+Waf*-pe-ma dcu, 230.
+
+WaUa Walla, 172.
+
+War-are-ree-kas, 208.
+
+Wararika, 186, 206.
+
+Ward, H. A., 333.
+
+Warrior's dilemma, 160; duty, 162.
+
+Washapie, 208.
+
+Water-BuU, 128.
+
+Wayao, 000.
+
+Weapons, Philippine, 359.
+
+Weaving, basketry, 339.
+
+featherwork, 336', 337.
+
+Maori, 343, 344.
+
+Aleutian, 344.
+Weaving, Kachin basketry, 362.
+Weiss, Louis, 330.
+West Indies, specimens from, 322.
+Whirlwind Boy, 126.
+Wichita, 236.
+Widjege, 235.
+Wi'hindaf bo, 233.
+
+
+Wl'hit E mbS'gona, 211.
+
+Wilson, R. N., 6.
+
+Wissler, Clark, 5, 18.
+
+Wi'tow, E, 206.
+
+Wives, treacherous, 148.
+
+W6'hon5g, 219.
+
+W6'hd-w5kakin, 219, 220.
+
+Wolverene, woman, 162.
+
+Woman, Blackfoot stories of, 141, 150-
+
+155, 83-5, 162, 15.
+Woman-who-brought-the-Pipe, 15.
+Woman- who-married-a-Star, 13, 17.
+
+who-married-a-Buffalo, 15, 17.
+
+who-married-a-Bull, 13.
+Woman's Knife, 315.
+Wood-carvings, Congo, 349.
+Wood-carvings, Igorot, 357.
+Wood-carving, Maori, 341.
+Woodwork, Barotse, 365.
+Woodwork, Congo, 349.
+Wounded man, 16.
+Wupa'rEk, 194, 220.
+Wu'rakft, 198.
+WQ'ra-yO'go, 211.
+Wa'tabEn, 194.
+Wyeth, 174, 185, 187, 188, 189, 192, 212,
+
+232.
+
+Yft'han-dika, 206.
+Ya'mpatsi, 211.
+YE-hu', 211.
+Yokuts, 236.
+Young, Brigham, 172.
+Yucca filamentosa, 181.
+
+Zither, Congo, 532.
+Zufii, 236.
+
+
+Anthrop. Pai*. a. M. M. H.
+
+
+Vol. II, Plate II.
+
+
+y^ i ' MJi -
+
+
+From Prince Albert Land.
+(Page 314)
+
+
+o
+
+>
+
+
+^5
+
+O
+
+CO
+
+Q
+
+K
+
+X
+H
+
+O
+
+Ed
+
+<
+>
+
+O
+
+
+o
+eg
+
+
+55
+
+
+S5
+
+
+Anthrop. Pap. A. M. N. H.
+
+
+Vol. II, Plate IV.
+
+
+•
+
+
+NicoYA Pottery.
+(Page 323)
+
+
+Anthrop. Pap. A. M. N. H.
+
+
+Vol. II, Plate V.
+
+
+Armadillo Jar.
+(Page 324)
+
+
+Anthrop. Pap. A. M. N. H.
+
+
+Vol. II, Plate VI.
+
+
+W
+
+
+Wf W^
+
+
+Pottery from Nicoya and Terraba.
+(Page 327)
+
+
+Anthrop. Pap. A. M. N. H.
+
+
+Vol. II, Plate VII.
+
+
+Full Costume of the Tukano Indians.
+(Page 331)
+
+
+Anthrop. Pap. A. M. N. H.
+
+
+Vol. II, Plate VIII.
+
+
+Painted Capa from Punta Arenas.
+(Page 332)
+
+
+Anthrop. Pap. A. M. N. H.
+
+
+Vol. II, Plate IX.
+
+
+Black Pottery from Colombia.
+(Page 333)
+
+
+O
+>
+
+
+X
+
+o S2
+
+a ^
+
+D
+
+
+c
+>
+
+
+X
+
+<
+
+
+o
+
+I
+
+<
+
+
+eu
+
+H CO
+
+H
+
+H
+
+
+Anthrop. Pap. A. M, N. H.
+
+
+Vol. II, Plate XII.
+
+
+:vt\\
+
+
+tv^
+
+
+Technique of the Kearny Cape.
+(Page 336)
+
+
+W
+
+
+Basket from New Hebrides.
+
+
+Anthrop. Pap. A. M. N. H.
+
+
+Vol. 11, Plate XIII.
+
+
+Carved Figures from Bismarck Archipelago.
+(Page 346)
+
+
+>
+
+a
+
+J
+
+
+>
+
+
+X
+
+
+Z
+
+<
+
+
+o
+o
+<
+
+H
+
+
+o
+
+o
+
+
+Anthkop. Pap. A. M. N. H. Vol. II, Plate XV.
+
+
+Wood Carvings from Mulandi.
+
+
+It
+
+
+1 JO 3
+
+
+Wood Carvings from the Congo.
+(Page 349)
+
+
+Anthrop. Pap. A. M. N. H.
+
+
+Vol. II, Plate XVI.
+
+
+^W*Wf
+
+
+African Images and Masks.
+(Page 351)
+
+
+Anthrop. Pap, A. M. N. H.
+
+
+Vol. II. Pij^TE XVII.
+
+
+Musical Instruments from the Congo.
+
+
+Anthrop. Pap. A. M. N. H.
+
+
+Vol. II, Plate XVIII.
+
+
+Bakuba Pile Cloth.
+(Page 352)
+
+
+Anthrop. Pap. A. M. N. H.
+
+
+Vol. 11. Platk XX.
+
+
+Carved Tusks and a Bronze Head.
+(Page 352)
+
+
+X
+X
+
+
+o
+
+
+<
+
+Z
+H
+Q
+
+O
+
+o
+
+
+<
+
+Q
+
+o
+
+
+o
+
+0L,
+
+
+Anthrop. Pap. A. M. N. H.
+
+
+Vol. II, Plate XXII.
+
+
+From the Philippine Islands.
+(Page 357)
+
+
+Anthrop. Pap. A. M. N. H.
+
+
+Vol. II, Plate XXIII.
+
+
+Stone Implements from China.
+(Page 363)
+
+
+1
+
+
+DATE DUE
+
+
+-
+
+
+1
+
+
+1
+
+
+I
+
+
+■
+
+
+I
+
+
+^
+
+
+I
+
+
+I
+
+
+"
+
+
+1
+
+
+^^^
+
+
+1
+
+
+~
+
+
+1
+
+
+1 .
+
+
+I
+
+
+1 1
+
+
+1 "
+
+
+^
+
+
+1
+
+
+"
+
+
+^
+
+
+0"*nc^ Inc. 31^
+
+
+a
+
+
+"
+
+
+I
+
+f
+
+
+] ^mBTsB 530 387 ^
+
+
+f
+

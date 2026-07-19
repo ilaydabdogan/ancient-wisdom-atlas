@@ -68,6 +68,34 @@ figures:
 
 # The Sacred Books of China: The Texts of Taoism, Part II (Sacred Books of the East, Vol. 40)
 
+THE
+
+
+SACRED  BOOKS  OF  THE  EAST
+
+
+[40J
+
+
+bonbon
+HENRY    FROWDE
+
+
+Oxford  University  Press  Warehouse
+Amen  Corner,  E.C.
+
+
+THE
+
+
+SACRED  BOOKS  OF  THE  EAST
+
+
+TRANSLATED
+
+
+BY  VARIOUS  ORIENTAL  SCHOLARS
+
 
 AND    EDITED    BY
 
@@ -1909,7 +1937,7 @@ a  counterfeit  of  the  truth  ^  Yes,  (the  possession  of
 Wei)  has  been  an  entanglement  to  me.'
 
 2.  Wan-po  Hsueh-jze  '\  on  his  way  to  KM,  stayed
-some  time  in  L i,  where  some  persons  of  the  state
+some  time  in  L<i,  where  some  persons  of  the  state
 begged  to  have  an  interview  with  him.  He  refused
 them,  saying,  *  I  have  heard  that  the  superior  men
 of  these  Middle  States  ^  understand  the  (subjects
@@ -4243,7 +4271,7 @@ sacrificial  vessels  or  bells,  would  have  it  strapped  and
 secured,  while  to  find  his  son  who  was  lost,  he  would
 not  go  out  of  the  territory  of  his  own  state : — so
 forgetful  was  he  of  the  relative  importance  of  things.
-If  a  man  of  Kh i,  going  to  another  state  as  a  lame
+If  a  man  of  Kh<i,  going  to  another  state  as  a  lame
 gate-keeper,  at  midnight,  at  a  time  when  no  one  was
 nigh,  were  to  fight  with  his  boatman,  he  would  not
 be  able  to  reach  the  shore,  and  he  would  have  done
@@ -4901,7 +4929,7 @@ him  like  a  tower  eighty  cubits  high  exhibited  in  the
 sight  of  all  men.
 
 *  That  is,  '  he  does  so  in  the  spontaneity  of  his  nature.'  The
- M:  requires  the  employment  of  the  term  'nature'  here,  not
+<M:  requires  the  employment  of  the  term  'nature'  here,  not
 according  to  any  abstract  usage  of  the  term,  but  meaning  the
 natural  constitution.     Compare  the  '[^  ^^  in  Mencius  VII,  i,  30.
 
@@ -5866,7 +5894,7 @@ mental  cultivation.
 
 ^  Probably  what  in  Buddhist  literature  are  called  '  the  Six  En-
 trances {y^  yV)/  "^^^^  Mayers  denominates  'The  Six  Organs  of
-Admittance,  or  Bodily  Sensations,'  the  Sha /Syatana,  the  eye,
+Admittance,  or  Bodily  Sensations,'  the  Sha</Syatana,  the  eye,
 ear,  nose,  mouth,  body,  and  mind, — one  of  the  twelve  Nidanas
 in  the  Buddhist  system.
 
@@ -5924,7 +5952,7 @@ Thang  offered  his  to  WCl  Kwang^,  Wti  Kwang  be-
 came angry.  When  Ki  Tha^  heard  it,  he  led  his
 disciples,  and  withdrew  to  the  river  Kho,  where
 the  feudal  princes  came  and  condoled  with  him,  and
-after  three  years,  Shan  Th i-tt^  threw  himself  into  the
+after  three  years,  Shan  Th<i-tt^  threw  himself  into  the
 water.  Fishing-stakes^  are  employed  to  catch  fish  ;
 but  when  the  fish  are  got,  the  men  forget  the  stakes.
 Snares  are  employed  to  catch  hares,  but  when  the
@@ -6241,7 +6269,7 @@ Part  III.     Section  VI.
 Zang  Wang,  or  '  Kings  who  have  wished  to  resign
 the  Throne  \'
 
-I.  Yao  proposed  to  resign  the  throne  to  Hsii  Y i,
+I.  Yao  proposed  to  resign  the  throne  to  Hsii  Y<i,
 who  would  not  accept  it.  He  then  offered  it  to
 3ze-^au  Kih-fiX^,  but  he  said,  '  It  is  not  unreasonable
 to  propose  that  I  should  occupy  the  throne,  but  I
@@ -6736,7 +6764,7 @@ are  falling,  that  we  know  the  vegetative  power  of
 the  pine  and  cypress.  This  strait  between  KkdiVi
 and  3hai  is  fortunate  for  me.'  He  then  took  back
 his  lute  so  that  it  emitted  a  twanging  sound,  and
-began  to  play  and  sing.  (At  the  same  time)  3ze-l i,
+began  to  play  and  sing.  (At  the  same  time)  3ze-l<i,
 hurriedly,  seized  a  shield,  and  began  to  dance,  while
 3ze-kung  said,  '  I  did  not  know  (before)  the  height
 of  heaven  nor  the  depth  of  the  earth.'
@@ -6995,7 +7023,7 @@ hair  rose  up  and  touched  his  cap.  '  Is  not  this
 fellow,'  said  he,  '  Khung  K/iiii,  that  artful  hypocrite
 of  Lu  ?  Tell  him  from  me,  "You  invent  speeches
 and  babble  away,  appealing  without  ground  to  (the
-examples  of)  Wan  and  W i.  The  ornaments  on
+examples  of)  Wan  and  W<i.  The  ornaments  on
 your  cap  are  as  many  as  the  branches  of  a  tree,
 and  your  girdle  is  (a  piece  of  skin)  from  the  ribs
 of  a  dead  ox.  The  more  you  talk,  the  more  non-
@@ -7179,7 +7207,7 @@ run  away  from  Wei ;  you  were  reduced  to  extre-
 mity in  J^/ii ;  you  were  held  in  a  state  of  siege
 between  ^Oan  and  3hai ;  there  is  no  resting-place
 for  your  person  in  the  kingdom  ;  your  instructions
-brought  3ze-l i  to  pickle.  Such  have  been  the  mis-
+brought  3ze-l<i  to  pickle.  Such  have  been  the  mis-
 fortunes (attending  your  course).  You  have  done
 no  good  either  for  yourself  or  for  others ; — how  can
 your  doctrines  be  worth  being  thought  much  of  ?
@@ -12363,7 +12391,7 @@ KM.
 Book  V.
 
 Par.  I.  Confucius  explains  the  influence  of  the  cripple
-Wang  Thii  over  the  people  of  L i.
+Wang  Thii  over  the  people  of  L<i.
 
 a.  The  fellow-students  3ze-Man  and  the  cripple  Shan-
 tha  KiL
@@ -12647,7 +12675,7 @@ Book  XX.
 Par.  I.  Kwang-^ze  and  his  disciples  ; — the  great  tree  that
 was  of  no  use,  and  the  goose  that  could  not  cackle.
 
-2.  1-liao  of  Shih-nan  and  the  marquis  of  L i ; — how  the
+2.  1-liao  of  Shih-nan  and  the  marquis  of  L<i ; — how  the
 former  presses  it  on  the  marquis  to  go  to  an  Utopia  of
 Taoism  in  the  south,  to  escape  from  his  trouble  and
 sorrow.
@@ -15464,7 +15492,7 @@ id
 k)oJ
 
 
-^  :»    iOsf
+^  :»   <iOsf
 
 
 il
@@ -15624,7 +15652,7 @@ D-D
 
 *>
 
-y j
+y<j
 
 t<    •
 
@@ -15652,7 +15680,7 @@ N
 
 ^TQ
 
-.  ^ i/'
+.  ^<i/'
 
 "^    •
 
@@ -15818,7 +15846,7 @@ i-l                     1-1    (M     (M     (M
 CO     ■>!t<
 
 iO    «o    t^
- M     (N     (M
+<M     (N     (M
 
 00
 
@@ -15932,7 +15960,7 @@ CO        o
 ««  .S
 
 
- D
+<D
 
 
 c3     ^H      03
@@ -15961,7 +15989,7 @@ U5    CO     t»
 ^      Tff      ^
 
 
-oooiOi-i MeoTf ioc£>r^ooo5
+oooiOi-i‹MeoTf<ioc£›r^ooo5
 
 
 340      TRANSLITERATION    OF    ORIENTAL   ALPHABETS.
@@ -16069,7 +16097,7 @@ vJ
 
 G
 
-O    xu    >o     08     cs    -    <-    :s    S5    T    ^     SO     «    S  3    S  >o     o    J,  ^   e  e  :«J    !-    -.o    -.o
+O    xu    >o     08    <cs    -    <-    :s    S5    T    ^     SO     «    S  3    S  >o     o    J,  ^   e  e  :«J    !-    -.o    -.o
 
 1
 
@@ -16387,7 +16415,7 @@ I-III.     8vo,  cloth,  los.  6d.
 
 Vol.  XVIII.     Pahlavi  Texts.
 
-Translated  by  E.  W.  West.  Part  II.  The  Da /istan-t  Dinik
+Translated  by  E.  W.  West.  Part  II.  The  Da</istan-t  Dinik
 and  The  Epistles  of  Manfij^ihar.     8vo,  cloth,  X2s.  6d.
 
 Vol.  XIX.    The  Fo-sho-hing-tsan-king.
@@ -16438,7 +16466,7 @@ Yaj-ts,  and  Nyayij.     8vo,  cloth,  105-.  dd.
 Vol.  XXIV.    Pahlavi  Texts.
 
 Translated  by  E.  W.  West.  Part  IH.  Dina-i  Mainog-i
-Khira /,  6ikand-gftmanik  Vi^^ar,  and  Sad  Dar.  8vo,  cloth,
+Khira</,  6ikand-gftmanik  Vi^^ar,  and  Sad  Dar.  8vo,  cloth,
 \os.  f\d.
 
 
@@ -16472,7 +16500,7 @@ Parts  III  and  IV.  The  Li  K\,  or  Collection  of  Treatises  on
 the  Rules  of  Propriety,  or  Ceremonial  Usages.  8vo,  cloth,
 1 2 J.  6d.  each.
 
-Vol.  XXIX.      The    Gr/hya-S itras,    Rules    of    Vedic
+Vol.  XXIX.      The    Gr/hya-S<itras,    Rules    of    Vedic
 Domestic   Ceremonies.
 
 Part  I.  »S'afikhayana,  Aj'valayana,  Paraskara,  Khadira.  Trans-
@@ -16580,3 +16608,77 @@ The  Catalogue.   3/.  13^'.  dd.      The  Facsimiles.    2/.  125-.  dd.
 
 
 RECENT  ORIENTAL    WORKS.
+
+
+^nectrota   ©xoniensia^
+
+ARYAN    SERIES.
+
+Buddhist  Texts  fro7n  yapan.  I.  Va^ra>^/^//edika  ;  The
+Diamond-CtUter .
+
+Edited  by  F.  Max  Muller,  M.A.     Small  4to,  3^.  6^.
+One  of  the  most  famous  metaphysical  treatises  of  the  Mahayana  Buddhists.
+
+Buddhist  Texts  from  Japan.  II.  Sukhavati-Vyuha  :
+Description  of  Sukhdvatf,  the  Land  of  Bliss.
+
+Edited  by  F.  Max  MtfLLER,  M.A.,  and  Bunyiu  Nanjio.     With
+two  Appendices:  (i)  Text  and  Translation  of  Sahghavarman's
+Chinese  Version  of  the   Poetical  Portions  of  the  Sukhavati-
+Vyuha;    (2)  Sanskrit  Text  of  the  Smaller  Sukhavati-Vyiiha.
+Small  4to,  7^.  dd.
+The  editio  priticeps  of  the  Sacred  Book  of  one  of  the  largest  and  most
+influential  sects  of  Buddhism,  numbering  more  than  ten  millions  of  followers
+in  Japan  alone.
+
+Buddhist  Texts  fro^n  Japan.  III.  The  Ancient  Palm-
+Leaves  containing  the  Pra^;^a-Paramita-Hrzdaya-
+Sutra  and  the  Ush;2isha-Vi^aya-Dhara;2i.
+
+Edited  by  F.  Max  Muller,  M.A.,  and  Bunyiu  Nanjio,  M.A.
+With  an  Appendix  by  G.  Buhler,  CLE.    With  many  Plates.
+Small  4to,  \os.
+Contains  facsimiles  of  the  oldest  Sanskrit  MS.  at  present  known.
+
+VA\2.rxVi'd.-'^-3im<^r2\\2.,  ail  Ancient  Collection  of  Buddhist
+Technical  Terms.
+
+Prepared  for  publication  by  Kenjiu  Kasawara,  a  Buddhist
+Priest  from  Japan,  and,  after  his  death,  edited  by  F.  Max
+MiJLLER  and  H.  Wenzel.     Small  4to,  7^.  dd.
+
+Katdyana's   Sarvanukrama/zi  of   the  -/?/gveda.
+
+With  Extracts  from  Shart'gurujishya's  Commentary  entided
+Vedarthadipika.  Edited  by  A.  A.  Macdonell,  M.A.,  Ph.D.
+1 6  J.
+
+
+AT    THE    CLARENDON    PRESS
+LONDON:     HENRY    FROWDE
+
+OXFORD   UNIVERSITY   PRESS   WAREHOUSE,   AMKN    CORNER,    E.G.
+
+
+c
+
+
+^o.^UX  DEPT.  JUN  18  1958
+
+
+BL
+
+1900
+
+A1S3
+
+
+The  Sacred  books  of  China
+
+
+PLEASE  DO  NOT  REMOVE
+CARDS  OR  SLIPS  FROM  THIS  POCKET
+
+UNIVERSITY  OF  TORONTO  LIBRARY
+

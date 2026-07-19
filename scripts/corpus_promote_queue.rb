@@ -66,7 +66,7 @@ items.each do |item|
     raise "canonical file already exists for #{item.fetch('id')}: #{canonical_relative} (use --force to rewrite)"
   end
 
-  body = CorpusQueue.clean_raw_text(File.binread(raw_path))
+  body = CorpusQueue.canonical_body_from_converted(File.binread(converted_path))
   FileUtils.mkdir_p(File.dirname(canonical_path))
   File.write(canonical_path, CorpusQueue.canonical_markdown(item, body), mode: "w")
   FileUtils.mkdir_p(CorpusQueue.project_path(CorpusQueue.extraction_dir(item)))

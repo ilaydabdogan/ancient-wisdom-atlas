@@ -70,6 +70,20 @@ figures:
 
 # The Man in the Panther's Skin
 
+This is a reproduction of a library book that was digitized
+by Google as part of an ongoing effort to preserve the
+information in books and make it universally accessible.
+
+
+Google books
+
+
+https://books.google.com
+
+
+ag ee
+
+
 ORIENTAL TRANSLATION FUND
 NEW SERIES
 VOL. XXI.
@@ -1471,7 +1485,7 @@ panther associated with Avt’handil as well as Tariel. 57.
 
 
 2 Spaspeti (P.). 1240. 3 Amir-spasalari (P.).
-4 Ch., misokalisa; Kart., mis okalisa; Car., mis sokalisa.  A
+4 Ch., misokalisa; Kart., mis okalisa; Car., mis sokalisa. <A
 difficult quatrain.
 
 
@@ -4007,7 +4021,7 @@ then courtiers came to conduct me, they told me the king’s
 command; he said: ‘Son Tariel, wear mourning no
 longer!
 
-325. ‘‘ We are even more grieved (than thou) at the loss of
+325. ‘‘<We are even more grieved (than thou) at the loss of
 our peer.’ He gave a hundred treasures, and commanded
 that I should put off my black (raiment). He gave me all
 the lordship” that had belonged to (my father). ‘Thou
@@ -4469,7 +4483,7 @@ come. Joy lightened my darkness; she loosened my
 chains. I went, I took the slave, I spoke not at all with
 him.°
 
-879. “ I entered the garden ; I met none to speak to me (?).
+879. “<I entered the garden ; I met none to speak to me (?).
 The maid met me merry, smiling; she said: ‘I have
 bravely* extracted the thorn from thy heart, it 1s no longer
 therein ; come and see thy rose unfaded, unwithered.’
@@ -12162,7 +12176,7 @@ up in me. I guessed, I recognized every sign of (her who
 is my) life ;* this gave me a little comfort, like a drama’s
 weight.
 
-1215. ‘ I laid hold of that slave and set him close before
+1215. ‘<I laid hold of that slave and set him close before
 me. lasked him: ‘ Tell me what thou wert saying; I, too,
 wish to hear.’ He told me again the same as I had heard
 thence (i.e., from my hiding-place). This story enlivened
@@ -12389,7 +12403,7 @@ caravan; I am the Commander-in-Chief? of the exalted
 king Rostevan, chief of the great host befitting him ;? I
 have the mastery‘ over many treasuries and arsenals.—®
 
-1241. “ I know thee® to be a good friend, faithful, trusty.
+1241. “<I know thee® to be a good friend, faithful, trusty.
 —He has one daughter, a sun the enlightener of lands;
 she it is who consumes me and melts me; she sent me,
 I forsook my master, her father.
@@ -15719,6 +15733,9 @@ graphical Note, Appendix IT.).
 17
 
 
+Digitized by Google
+
+
 APPENDICES
 
 
@@ -16040,3 +16057,1124 @@ Moscow Imperial Archzological Society.) Quarto. Moscow,
 1895.
 
 VLADIMIR QIPHIAN!'S edition, illustrated, octavo. Tiflis, 1899.
+
+D. CarIDCHASHVILI's edition (the nineteenth). With four
+portraits and twenty-one illustrations. Octavo. Tiflis, 1903.
+
+A handy cheap edition, with preface and glossary and notes.
+The numbering of tbe quatrains is that now usually adopted,
+and agrees with the foregoing English translation. References
+in the notes are marked ‘ Car.”
+
+E. C. (? Bishop Cirion): Vephkhis Tqaosanis shesamots-
+mebeli masali. (Gives variants, marked in the footnotes
+“var. E. C.,” from a seventeenth-century MS.) Pp. 20-38 in
+No. v. of “ Moambe.” Tiflis, 1904.
+
+In December, 1911, Prince George Tseret’heli presented a
+MS. with illustrations. It seems to be of the seventeenth
+century.
+
+
+OTHER WORKS.
+
+
+Proressor N. Marr: Vstupitelnyya i zakliuchitelnyya
+strofy Vityazya v Barsovoi Kozhie (the introductory and
+concluding strophes of ‘The Man in the Panther’s Skin ’’)
+being t. xil. of ‘‘Teksty i Razyskaniya.” St. Petersburg,
+1910. References to this are marked “ M.”
+
+Proressor N. Marr: Drevnegruzinskie Odopistsi (ancient
+Georgian writers of odes, twelfth century), being t. iv. of
+“Teksty.”’ St. Petersburg, 1902. References to this are
+marked ‘ M. iv.” or ‘ Odes.”
+
+J. ABULADZE: Me-xii saucunis Kart’hulis mtserlobis khasi-
+at’hi da Rust’hvelis Vep’hkhis Tqaosani. (Contains a glossary
+of words derived from Persian, Arabic, etc.) Printed in vol. i.
+of ‘‘Dzveli Sakart’hvelo.” Tiflis, 1909. References are marked
+“ Abul.”
+
+ARTHUR Leist: Der Mann im Tigerfelle. (A German verse
+translation.) Octavo. Preface dated 1889. Dresden and
+Leipzig.
+
+Av. S(ARADJI)SHVILI: ‘‘ Vephkhis Tqaosanis” qalbi adgilebi
+(The spurious passages in ‘‘ The Man in the Panther’s Skin”’).
+Published in ‘“ Moambe,” beginning in No. xi. of 1895, and
+ending in No. vi. of 1901, and would make a volume of
+590 pages octavo; it gives the results of a critical examina-
+tion of the whole poem. Tiflis, 1895-1901. Cf. articles in
+‘‘Tveria,” Tiflis, 1899, Nos. 3, 34, 47.
+
+E. C.: An article in ‘‘ Iveria,’’ No. 93 of 1895.
+
+
+267
+
+
+M. Brosset: De la littérature romanesque géorgienne (in
+Mélanges Asiatiques tirés du Bulletin de l’Acad. Imp. des
+Sciences de St. Pétersbourg, t. viii). St. Pétersbourg, 1877.
+
+Fevix Hotitpack: Zwei Grundsteine zu einer Grusinischen
+Staats- und Rechtsgeschichte. Leipzig, 1907.
+
+P. CaRBELASHVILI: An article in the Tiflis journal “ Iveria ”
+for 1880, pp. 3-54.
+
+Acuas Borin: La Peau de Léopard. Tiflis, 1885.
+
+‘ AcHAS Borin: Contes orientaux. Paris, 1886.
+
+Inia CHavcHAvVADZE: Ai Istoria! Tiflis, 1887.
+
+Acact (TSERET’HELI): Ramdenime sitqva bat. [lia Dchavd-
+chavadzis sapasukhod ‘‘ Vephkhvis Tqaosanis” gamo. (A
+reply to his fellow-poet Chavchavadze’s pamphlet “ Ai Istoria !”
+on the question whether Tariel, Avt’handil, and P’hridon, are
+to be taken as types of Karthli, Imerethi, and Guria.) Tiflis,
+1887.
+
+Acaci (TSERET HELI): T’hanamedrove hazrebi Rust’hveli-
+sagan me—12-e saucuneshi natsinastsari. (In the Tiflis paper
+“ Themi,” No. 20 of 1911.)
+
+A. S. Kaaxuanov: Ocherki po istorii gruzinskoi slovesnosti.
+(History of Georgian Literature.) Vol. ii, pp. 243-298.
+Moscow, 1897. Vol. i., pp. 281, 282. Moscow, 1895, Vol. iii.,
+pp. 73-84, 94. Gruzinskii poet xii. vieka Shota Rustaveli
+i ego poema “ Barsova Kozha,” in ‘Journ. of Russian Min.
+of Publ. Instr.,” part cecii., 1905, No. 12, pp. 200-223.
+
+M. DsanasHviti1: Shot’ha Rust’haveli. Tiflis, 1896.
+
+M. Dsanasuviti: Izrecheniya gruz. poeta Shota Rustaveli.
+(Aphorisms from the poem translated into Russian.) Tiflis,
+
+
+M. Dsanaspviti: Rust’havelis garshemo (criticism of Pro-
+fessor Marr’s views), in ‘‘ Nashromi,” part iii. Tiflis, 1910.
+
+N. Gubak ; O Barsovoi Kozhe Rustaveli. (Two lectures
+delivered in Tiflis in 1884. Extracted from part iv. of Sborn.
+materialov dlya opisaniya myestnostei i plemen Kavkaza.)
+
+U. (?? P. Umicasaviti): O poezii Rustaveli (criticism of
+N. Gulak’s lectures), in No. 248 of the newspaper “ Kavkaz.”
+Tiflis, November 6, 1884.
+
+Baron Strtner: Mnyenie inostrantza o ‘‘ Barsovoi Kozhe.”
+(Opinion of a foreigner on ‘The Man in the Panther’s Skin.’’)
+Russian translation of articles based on Meunargia’s prose
+translation into French, which has not been published. In
+Nos. 265, 267, 268, of ‘‘Kavkaz.” Tiflis, 1884.
+
+Su. Davipov: A translation into Russian prose of part
+(about 300 lines) of the poem, in “ Zakavkazie,” December 12
+and 19, 1910.
+
+KE. 8. Srauinsxit: Barsova Kozha, part ii. (Translations
+of short passages into Russian, French, German, and Arme-
+nian, with an essay in Russian, including notes on versification.)
+Tiflis, 1888.
+
+
+268
+
+
+G. Josevianr: Vephkhis Tqaosani naambobi mozrdilis
+qmatsvilebisat’hvis. (A prose summary of the poem, for
+children.) Tiflis, 1892. |
+
+G. JOsSELIANI: Another edition, illustrated. Tiflis, 1898.
+
+A. P’HURTZELADZE: Shot’ha Rust’haveli da misi tzoli. (A
+popular legend about the faithlessness of the poet’s wife.
+With a preface of 12 pages.) Batum, 1899.
+
+‘*R. Kinvarr”’: V Barsovoi Kozhe. Kartiny dlya stseny.
+(An adaptation for the stage in Russian verse, with preface
+and illustration.) St. Petersburg, 1901.
+
+Z. Mt’HATSMINDELI: Shot’ha Rust’haveli, 1172-1216. Tiflis,
+1884 (bound up io volume lettered “ Karthuli Mtserloba’’).
+Gives the following rough bibliographical references on pp. j, ii:
+
+
+(a) Kart’hlis Tzkhovreba. 1852.
+(6) Theimuraz Mephe: Sakarthvelos Istoria. 1848.
+(c) Brosset’s Preface to Chubinov’s Dictionary. 1848.
+(d) Brosset’s Preface to Text of ‘‘ Man in Panther’s
+Skin.” 1840.
+(e) Archbishop Timothé’s Travels. 1852.
+(f) Journal ‘ Tziscari.” 1867.
+4 Casimir Lopezynski’s Preface (in Polish). 1870.
+(kh) D. Djanashvili: Sakarthvelos Istoria. 1875.
+(1) Newspaper “ Droeba.” 1881.
+(yj) D. Djanashvili: Karthveli Kalebi, in journal
+‘“‘Tveria.” 1883.
+(:) P. Umicashvili: Article in “Iveria.” 1884.
+(l) Acaci Tseret’heli: Lectures not yet published.
+(m) Arsen the Monk (MS.), xvii c.: Leaves from Georgian
+kicclesiastical History.
+(2) Archimandrite Tarasi: Materials in the Monastery
+of Kvat’ha Khevi.
+(0) King Vakhtang: Preface to Tiflis edition of 1713.
+(p) King Theimuraz and others: Poems.
+(q) Prince David: MS. information.
+(r) Catholicos Anton: Tsqobili Sitqvaoba. 1852.
+(s) Platon Joseliani: Notes on Rusthaveli.
+(t) Georgian Chrestomathy, parti. 1848.
+(uw) Khosro T’hurmanidze (xvii ¢.) : Rostomiani (transla-
+tion of Shah Nameh).
+(v) Prince Bagrat’s Poems, written in xvii c.
+(w) D. Bakradze’s Preface to Calmasoba. 1862.
+(x) Vakhusht’s Geography. 1848.
+
+
+All the above are in Georgian; the following are in
+Russian :
+(aa) Progress of Science in Georgia, article in ‘‘ Syever-
+naya Pchela.” 1840.
+(ab) Short Sketch of Georgian Literature, in ‘ Tif.
+Vyed.” 1832.
+
+
+269
+(ac) Brosset : Georgian Literature in ‘‘Syn Otechestva.”
+
+
+(ad) Monuments of Literature in Georgia, in ‘‘ Kavkaz.”
+1849,
+
+(ae) Zakavkazskii Vyestnik.
+
+af) “ Kavkaz.” 1846.
+
+ia ‘‘ Kavkaz.” 1870.
+
+(ah) Bakradze: Ancient Meskhia, in ‘ Kavkaz.” 1855.
+
+(az) Pl. Joseliani: Journey from Tiflisto Mtzkhet. 1871.
+
+(aj) Brosset: Review of Georgian Literature, in ‘“‘ Journ.
+of Education Dept.” 1838.
+
+(ak) Golovin: History of Georgia. 1865.
+
+(al) re a published by Alexander Nevsky Academy.
+
+1802.
+
+
+1850.
+
+
+(am) Prince David: History of Georgia. 1801.
+
+(an) R. Eristov: Rust’haveli, an article in ‘“‘ Kavkaz.”
+(ao) G. Joseliani: Rust’ haveli, an article in ‘‘ Kavkaz.”
+(ap) N. Gulak’s Lectures on Rust’haveli.
+
+(ag) Bakradze: History and Ethnography of Tiflis.
+(ar) Pl. Joseliani: Shot’ha Rust’haveli.
+
+
+1873.
+
+
+APPENDIX III
+GROUPS OF REFFRENCES
+
+
+[The references are tar from being exhaustive ; but with the help of the
+footnotes to the translation they may be of use. }
+(a) Persons. (b) Places. (c) Fauna. (d) Flora. (¢) Minerals. (7) Astro-
+nomy. (g) Religion. (h) Islam. (¢) Superstitions and Customs.
+(7) Social Relations—Ethics. (4) Numbers. (/) Coins and Weights.
+(m) Games and Sports. (mn) Military and Naval. (0) Public Works,
+etc. (p) Music.
+
+
+Dilarget’h, 1576
+Dionysius the Areopagite, 176, 1468
+Dulardukht, 1199, 1218
+- Goliath, 1511
+' Khvarazmsha, 495, 497, 509, 546
+| Levi the Jew, 797
+Mahmad, 1010
+
+
+PERSONS.
+
+
+Abdul Mesia, 1576
+
+Adam, 182, 192, 229
+
+Asmat’h, 254, 320, 501, 633, 642,
+1330-6, 1365, 1427, 1560
+
+Avt’handil, 40, ete.
+
+
+Beelzebub, 337 ; a lexicon of A.D. 1210
+gives ‘‘ she-devil ” as the meaning
+of Belzebeli (v. ‘‘ T’hemi,’”’ No. 46
+ot 1911).
+
+Boreas, 1432
+
+Caen (Caisi), 1316
+
+Chachnagiri (the), 1183, etc.
+
+Cronos, 1391
+
+Davar, 319, 559, 560, 564-5
+
+David of Israel, 1574
+
+David Soslan, 1573
+
+
+Melik Surkhavi, 1043
+
+Mose Khoneli, 1576
+
+Nestan-Daredjan, 316, etc.
+
+Nuradin, v. P’hridon
+
+P’harsadan, 301, 323
+
+P’hatman, 1049, 1054-6, 1058, 1067,
+1074, 1076, 1078, 1275, 1287- 8.
+1302, 1403, 1405, 140y, 1419
+
+P’hridon (Nuradin), 583, 605, 1290,
+1351, etc.
+
+Plato, 770
+
+
+270
+
+
+Ramaz, 387, 406, 411, 423, 441-2,
+453, 457
+
+Ramin, 182, 1058, 1519
+
+Rodia, 1199
+
+Rosan, 1199, 1218
+
+Roehak, 1200-1, 1207, 1210, 1218
+
+Rosten, 95, 768, 1480
+
+Rostevan, 32, 663, 1240, etc.
+
+Rostom, 192
+
+Rust’baveli, 7, 15, 1576
+
+Salaman, 1316
+
+Samal, ? 690
+
+Sargis T’hmogveli, 1576
+
+Saridan, 302
+
+Satan, 2, 768, (786), 854, 1191 (?690)
+
+Shavt’heli, 1576
+
+Shermadin, 70, 148, 655, etc.
+
+Sograt, 44, 57-9, ete.
+
+Taria, 334, 1384, 1387, 1459-60, 1467
+
+Tariel, 6, 7, 254, 279, 1318, 1385,
+etc.
+
+T’hamara, 3, 4, 1573
+
+T’hinat’hin, 34, 664, etc.
+
+Usam, 1009, 1025, 1032
+
+Usen, 1046, 1054, 1130, 1132-3, 1189,
+1141-6, 1148, 1150-1, 1302, 1407
+
+Vis, 182, 1058, 1519
+
+
+PLACES.
+
+
+Arabia, 29, 32, 279, 947a, 1250, 1478
+
+Athens, 676
+
+Badakhshan, 3, 176, 1469
+
+Bagdad, 1010
+
+Cathay, 196, 364, 444, 456, 712, 976
+
+China, 834
+
+Eden, 50, 77, 299, 311, 321, 461,
+506, 676, 697, 707
+
+Egypt, 947a, 1012
+
+Euphrates, 676
+
+Georgia, 16, 21, 1573
+
+Gibeon, 320
+
+Gihon, 731
+
+Greece, 947a
+
+Gulansharo, 1043, 1205, 1287
+
+India, 301, 406, 521, 548, 550, 947a,
+1283, 1559, 1567
+
+Kadjet’hi, 190, 282, 559, 1198, 1220,
+1223-7, 1245-6, 1263, 1276, 1288,
+1327, 1344, 1362-4, 1403, 1405,
+1413, 1419
+
+Khatavet’hi v. Cathay
+
+Khvarazmia, 389, 495, 497, 1548
+
+Kurds, (285)
+
+Mecca, 1144
+
+Meshech, 1572
+
+Mulghazanzar, 583, 952, 957, 1436
+
+Paradise, 132
+
+Persians, 16, 524, 947a
+
+Pison, 701
+
+Rome, 1534
+
+
+Rust‘havi, 15, 1572
+Sea Realm (the), 1048, 1403
+Turks, 289, 949
+
+
+FAUNA.
+
+
+Asp (aspiti), 1209
+
+Ass (viri), 911, 1086, 1144 ; drove of
+asses (rema), 54; wild-ass (cand-
+jari), 75
+
+Camel (aklemt), 447, 1402
+
+Cat (cata), 317
+
+Chamois (kurtzict), 75
+
+Crocodile (xiangi), 9474
+
+Crow (qvavi), 591, 1068, 1231-2
+
+Deer (trem), 75, 199, 835, 1564
+
+Dog (dzaghli), 703, 916; ? grey-
+hound, harrier (avaza), 459. Cf.
+panther, coursin
+
+Dove (tredi), 1162 ; (métredt), 1584
+
+Dragon (reshapi), 1186
+
+Dragon-fly, Netunecta glauca (tanad-
+jori), 432
+
+Duck (khan), 606
+
+Eagle (arizivi), 228 ; (orbt), 959
+
+Ermine (gargum7), 123
+
+Ewe (ézkhvari), 1571
+
+Falcon (shavardeni), 459, 606 (use d
+as synonym of “Xort); (kort), 355,
+432, 606, 703
+
+Fox (mez), 743, 1184
+
+Goat (’hkha), 75,579, 821, 928, 1022,
+1571; she-goat (nezvi), 1182; he-
+goat (vatz2), 223, 1182
+
+Hawk (gavazi), 211. See Falcon
+
+Hen (dedalz), 1534
+
+Horse (tzkhent), 54, 630, 918, 959,
+1310, 1382, etc. ; (taidchz), 55, 96,
+201, 1534
+
+Lamb (cravt), 1571
+
+Leopard (djzk1), 26
+
+Lion (lomi), 57, 223, 317, 821, 579,
+849, 887-890, 1013, 1052, 1306,
+1310, ete.
+
+Mule (djori), 22, 447, 999, 1875, 1402
+
+Nightingale (budbuli), 82, 946, 1064,
+1068, 1231, 1282, 1328 ; (sadoni),
+749, 1232, 1331
+
+Owl (bu), 946
+
+Panther (vep’hkhi), 57, 85, 201, 261,
+506, 639, 672, 849, 887-9, 891-2,
+902, 1020, 1052, 1154, 1248, 13806 ;
+ce panther (rep’hkhi avaza),
+113
+
+Partridge (cacabt), 227-8 ; wood-par-
+tridge (duradji), 380-2, 336, 355 ;
+grey partridge (gno/1), 432
+
+Raven (gorani), 591, 1248, 1246,
+1284, 1338
+
+Serpent (gre/t), 881,
+1208, 1239. See Asp
+
+
+1136, 1188,
+
+
+271
+
+
+Sparrow (si7z), 310
+olf (mgeli), 1571
+
+
+FLora.
+
+
+Almond (nushi), 1257
+
+Aloe, or poplar, or plane tree (alva),
+77, 223, 275, 319, 357, 506, 537,
+676, 693, 697, 1125, 1812, 1334,
+etc.
+
+Aspen (verkhvi), 139
+
+Bulrush (shambi), 170, 192, 216, 651,
+846, 887, 980, 1309
+
+Cucumber (citr?), 767
+
+Cypress (saro), 40, 229, 290, 616, 693,
+954, 1051, 1157, 1171
+
+Indigo (Zila), 385
+
+Lily (sosani), 72
+
+Millet (Kvrima), 1197
+
+Narcissus (nargizi, nargisi,), 151,
+397, 954, 1432
+
+Orange (narindj?), 465
+
+Reed (lertsamz), 176
+
+Rose (vard2), 82, 229, 834, 857-8, 899,
+1064, 1068, 1144, 1249, ete.
+
+Saffron (zap’hrana), 346, 671, 834,
+1185, 1255
+
+at (ecalt), 857-8 ; of rose (katzvt),
+
+a)
+
+
+Violet (ia), 229, 834, 1249, 1255,
+1300
+Willow (dzetsna), 742
+
+
+MINERALS, GEMS, ETC.
+
+
+(Cf. M. Djanashvili’s monograph
+on precious stones in vol. xxiv.
+of the Tiflis ‘‘Sbornik” of the
+Educational Department, )
+
+
+Amber (Karva), 138, 276
+
+Anvil (grdemilt), 5
+
+Bezoar ( p’hazari), 318
+
+Copper, bronze (rvalz), 157, 547
+
+Coral (dzotsi), 72, 524, 1124, 1313
+
+Cornelian (agiqt), 1124
+
+Crystal (brod2), 204, 260, 404, 676,
+693, 1118, 1165
+
+Diamond (a/masz), 330, 742
+
+Emerald (zurmukhti), 1845
+
+Enamel (mina), ? glass, 292, 320, 404,
+
+
+671, 679, 798
+Gold (okro), 72, 157, 169, 1166,
+1174-5
+
+
+Iron (reinz), 954
+
+Jacinth (cagundz), 276, 292, 318, 1402
+
+Jasper (amartz), 260 (? amber)
+
+Jet (gisheri, sat’hi), 990, 1124, 1232,
+1239, 1257, 1409
+
+Lapis-lazuli (dazhvardt), 1821
+
+Lead (tqvia), 5
+
+
+Pearl (margaliti), 16, 836, 899, 1142,
+1145, 1155, 1160, 11738, 1342;
+mother-of-pearl (sadap’hi), 886
+
+Pitch (p’hisa), 609, 1407
+
+Ruby (dali), 204, 276, 380, 468, 1118,
+1145, 1173, 1402, 1415; ruby of
+Badakhshan (badakhshi), 5, 72,
+176, 380, 404, 676, 1415
+
+Silver (vertzkhit), 157
+
+Steel (cvest), 192, 262
+
+Turquoise (p’hiruzt), 468
+
+
+ASTRONOMY.
+
+
+Bissextile added day (nact), 787
+
+Eclipse (serpent), 122, 125, 277, 1176,
+1208, 1396
+
+Ether (e’hert), 283, 404
+
+Firmament (samqaro), 1, 109, 1471
+
+January (tanvart), 1482
+
+Leo (constellation), (Zomz), 1179
+
+Moon (mé’hvare): sex of, 811; in-
+vocation to, as origin of love, 819 ;
+invocation to, 943, 944 ; phases of,
+582 ; full moon, 106, 1505, 1510
+
+Planets (mnat’hobi), 134, 275, 944,
+1349, 1885, 1387, 1515 ; (et2z), 269,
+973, 1072, 1188, 1304; Zual, 938,
+944, 1897; Mushthar, 939, 944,
+1397 ; Marikh, 940, 944 ; Aspiroz,
+941, 944; Otarid, 942, 944
+
+Pleiads (Khomlt, khomi), 1117, 1887
+
+Sun (mze): God’s image, 816-7; sex
+of, 811; invocation to, 937. 944;
+place of the dead, 1281, 1451
+
+Wheel of heaven, 1285, 1391
+
+
+RELIGION, ETC.
+
+
+ee 157, 784-5, 810, 1558,
+
+1571
+
+Bible: hart and waterbrooks, 835,
+1564; charity fails not, 1520 ; fear
+makes love (? ironical), 1023;
+‘love exalteth us,” say the
+ea 772 + (‘‘tinkling cym-
+bals’’); gall of bitterness. 99;
+through a glass darkly, 110, 656,
+707, 1431 ; regeneration, 184
+
+In list of places, see Eden,
+Euphrates, Gibeon, Gihon, Pison,
+Paradise
+In list of persons, see Adam,
+
+Beelzebub, Levi, Satan, Goliath
+
+Choir of heaven's hosts, 771
+
+Death, 781, 782 ; better than shame-
+ful life, 189a, 781; unites lovers,
+862-3 ; dries up tears, 238
+
+Easter Eve, 536
+
+Eternity, 778, 862, 1431-2 ; elements,
+864 ; the sun, 1451
+
+
+272
+
+
+God : the All-Seeing (Seer of beings),
+112, 841, 1028, 1119; the One,
+816, 1431; the Creator, 1, 341;
+creates not evil, 1468, 1485 ; ill is
+fleeting, good conguers ill, 1337 ;
+ig generous, thou ‘ the world be
+hard, 911, 931; hates cruelty to
+animals, 77; the sun His image,
+816-7
+
+Halo, aureole (bacmi, skhivni), 226,
+229, 1110, 1410
+
+Icon (khatt), 247
+
+Immortality, 1246; union with the
+One, 1431
+
+Prayers for the dead, 158
+
+Prayers to God, 342 (Turiel), 790,
+845, 897 (Asmat’h), 1228
+
+Prayers to the sun, 816-7, 935, 937
+
+Predestination, 189, 422, 423, 591,
+776-7, 883, 1014, 1018, 1151, 1314 ;
+freewill, 775
+
+Shrine (duscuia), 1345
+
+Sin and punishment, 242, 1086
+
+
+ISLAM.
+
+
+Koran (musap’hi), 339, 1144; oath
+on, 514 (? ‘‘the book ” — ésignz,
+1189, ‘‘ the friend foe ’’)
+
+Mahmad, Bagdad merchants, fol-
+lowers of, drink no wine, 1010
+
+Mecca (Maka), 1144
+
+Mosque (? migzitha),
+Chap. XXII.
+
+Mulimi, 339
+
+Mugri, 339
+
+
+heading of
+
+
+SUPERSTITIONS—CUSTOMS—
+SORCERY.
+
+
+Burial, 297, 853, &62, 979, 1521;
+grave, 15; mourning garb, etc.,
+324-5, 977, 1183 ; mourning colours,
+1181, 1479; shroud, 698, 783
+
+Devil, 110; v. Satan
+
+Devis, 98, 637, 672, 977, 1340, 1344
+
+Kadjis, 190, 282, BBO, 1198, 1220,
+1223-7, 1251, 1263, 1276, 1344,
+1362-4
+
+Life token (2), 156, 691
+
+Merani (Pegasus), 96, 201
+
+Presentiment, 711
+
+Siren (sz7in0), 329
+
+Sorcery, 1216, 1245-7 ; (moly), 1253
+
+Stoning to death, 1080, 1187, 1267
+
+Wizard (prophet), 1456
+
+
+SocIAL RELATIONS—ETHICs.
+
+
+Advice, 644, 830, 863
+Avarice, 700, 1174
+Cruelty to animals, 77
+
+
+Equality, 932
+
+Eunuchs, 1167, 1170
+
+Friendship, 296, 684-5, 688, 758,
+767, 770, 779, 834, 914, 1464
+
+Grief, 855
+
+Joking, 1352
+
+Love, 8-14, 18, 27-31, 363-4, 695,
+709-10, 772, 791, 814, 895, 910,
+1158; love to be sacrificed to
+honour and duty, 292, 685, 688,
+1541
+
+Merchants, 1019, 1143; knight as
+protector of trade, 1013
+
+Munificence, 49, 50, 1532
+
+Negroes, 563, 1107, 1117, 1122
+
+Oaths, 66, 132, 135, 399, 402, 410,
+507, 514, 559, 560, 647, 650, 826,
+832, 1131-2, 1148 ; (momcatl), 247,
+457, 550, 601, 612, 725, 778, 910,
+967, 1142
+
+Philanthropy, 157, 784-5, 810, 1558,
+1571
+
+
+Royalty (god-like), 1; coronation, 45;
+‘great king,” 1145, 1166, 1410;
+‘*exalted king,” 1198, 1240; regi-
+cide, 1180, 1344; equals of God,
+836- 7; born of God, 39 ; equal of
+sun, 1150 ; reverence for, 153, 288,
+974, 1523; death for a king, 425,
+1431- 4; kings capricious, 283 ;
+King of Kadjis, 1198 ; also 1146,
+1452, 1459-61, 1488; 1530, 1569-71
+
+Self-renunciation, 860
+
+Slavery, 1023, 1185, 1195, 1503, 1530
+
+Suicide (Satan's deed), 728, 768, 815,
+854, 1169, 1278a, 1279
+
+Valour, 580, 780-1, 1182
+
+Vassal and lord, 153, 761, 793, 836- 7,
+1429, 1488, 1559
+
+Woman, 39, 1059, 1182, 1184, 1561
+
+
+NuMBEKsS.
+
+
+The One, 816, 14381
+
+Seven heavens, 608, 1285
+
+Seven kingdoms, 301, 1555
+
+Seven planets, 275, 944, 1385, 1515
+Seven times sin forgiven, 242
+‘*Seven or eight,” 622, 633, 689, 1563
+Eight, 597, 1312
+
+‘* Kight upon nine,” 1022
+
+Nine, 1167, 1441, 1535
+
+Nine heavens, 399
+
+Sixty slaves, 1149
+
+One hundred and twenty, 1139, 1481
+One hundred thousand, 723
+
+
+CoINs AND WEIGHTS.
+Dracani, 456, 992
+Drama (coin), 668, 1031, 1040, 1195 ;
+(weight), 371, 528, 573, 903, 1214
+
+
+273
+
+
+Khatauri, 456
+Litra, 998
+Perpera (%), 1413
+Tsit heli, 723, 998
+
+
+GAMES AND SPORTs.
+
+
+Acrobats (mushait’hz), 119, 1370
+
+Archery (mshvildosant, archer), 63,
+959
+
+Backgammon (nardi) 82, 320
+
+Ball (bur? hz), 20, 63, 317, 322, 804,
+1100
+
+f Falconry (shavardeni, falcon)
+
+\ Hawking (Kori, hawk) ; v. Fauna
+
+Hunting (nadirvoba), 73-83, 956
+
+Lasso (sagdebel?), 1371
+
+Polo (chogan), 21
+
+
+MILITARY AND NAVAL.
+
+
+Armour (abdjart), 426, 430, 998, 1020,
+1344-7, 1375, 1392 : Khvarazmian
+armour, 389, 1543
+
+Army (spa), 956, 1485, 1543 ; (?’hemz),
+536 ; (erd), 1012, 1058; (djari), 536
+
+Arrow (isari), 322, 458
+
+Arsenal (zardakhana), 1240
+
+Asparezi (lists), 100
+
+Battering-ram (ba77 ?), 1381
+
+Bow (mshvildi), 805
+
+Centre of an army (qo/bi), 959
+
+Circle of troops (alga), 956
+
+Club, bludgeon (cet), 1020
+
+Coat of mail (djadchvi), 426, 1346
+
+Flags (alami), 390, 923 ; drosha, 1016
+
+Galley (catargha), 596
+
+Greaves (sabarcult), 998, 1345
+
+Gunpowder (?), 420, 429
+
+Helmet (muzaradz), 430, 1375, 1389;
+(chabalakhi), 597, 1384
+
+Lance (shwbi), 3, 430-1; (lakhvart),
+4, 506, 566
+
+Quiver (capardchi), 93, 259,
+(karkashi), 72
+
+Ram for sea-fight (sakhnisi), 1012,
+1016, 1021
+
+Rank (das), 536
+
+Saddle (uwnagiri), 1416
+
+Saddle-bag (mandicurt). 433
+
+Scourge (dakhit), 1087
+
+Sea-fight, 596 (Tariel’s), 1016 (Avt’-
+handil’s)
+
+Sentry (nobat’hi), 908, 1277. 1394
+
+Shield (p’harz), 3, 1872, 1388
+
+Ship (navi), 569, 918, 1016; nave
+khomaldi, 1423
+
+Spur (dezi), rowel, 211, 611
+
+
+385 ;
+
+
+“ADD
+eee a
+
+
+Squadron (razmz), 301, 389, 4382,
+1822
+
+
+Squires (meabdjrent), 200
+
+Sword (khmalz), 93,259, 1142; blades,
+(tsverz), 13894 ; (shimsherz), 3 ; (cota),
+594, 1363 ; (sadte), 594
+
+Tent (caravi), 535
+
+Whip (mat’hrakhi), 206, 1390
+
+
+Puptic Works, BUILDINGS, ETC. —
+FURNITURE.
+
+
+Bath, 260, 1233
+
+Bridge, 183, 218a, 685, 785
+
+Canal, irrigation (mz/z), 284, 538,
+768. 1297, 1435, 1528; (ru), 926,
+1376
+
+Caravanserai, 1052
+
+Carpet (nokht), 1238
+
+Chair (scamz), 742 ; (sednz), 124
+
+Couch (¢akhiz), 1166
+
+Curtain (p’hardagi), 331
+
+Coverlet, 1126
+
+Lock (clite), 1377 ; key, 1556
+
+Mattress, 1126
+
+Pillow (balisht), 1238; (sasthunalz),
+514, 1126
+
+Road, 405, 685, ete.
+
+Window (sarcmelt), 259, 261, 1106,
+1113
+
+
+Music.
+
+
+Clarion—cf. drum (noba), 405, 850,
+1170, 1390
+
+Cymbal (tsintsili). 46, 1100, 1528
+
+Drum (dabdabi), 703, 1390, 1436 ;
+(¢ copper drum—kos:), 703, 1436,
+1556 ; kettledrum (? tambourine
+—tablact), 435, 1156, 1167, 1170,
+1484; ? very large kettledrum—
+noba, cf. clarion
+
+Harp (changi), 101, 120, 178, 472,
+704, 1421, 1444 ; (nachangdaphenz2),
+1421
+
+Lute (? staff with bells, ? castanet—
+chayhana), 101, 704, 1444
+
+Lyre (? psaltery—barbit’hi), 178, 472
+
+Musicoba, 25
+
+Pipe, reed (na), 4, 178, (1421)
+
+Psaltery (knari), 1574
+
+Rattles (ezhvannt), 772
+
+Singing, 165, 946-7, 1055
+
+Singing - girls (mutribi), 356, 470,
+704, 1055, 1440, 1528
+
+Tambourine, large tambourine
+(cbanz ?=datra), 1100
+
+Trumpet (bucz), 46, 168, 405, 435,
+1017, 1170, 1390, 1436, 1556
+
+
+6 1999
+
+
+18
+
+
+PRINTED BY
+BILLING AND Sons, LTv.,
+GUILDFORD,
+

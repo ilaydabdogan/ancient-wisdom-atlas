@@ -9393,3 +9393,111 @@ Vos. 1L-X. 1888-1897.
 
 
 MEMOIRS OF THE AMERICAN FOLK-LORE SOCIETY.
+
+
+Vou. I. FOLK-TALES OF ANGOLA.
+Fifty Tales with Ki-mbundu text, literal English Translation, Introduction,
+and Notes. Collected and edited by Heir CuaTeErain, late U. S. Com-
+mercial Agent at Loanda. 1894. Pp. xii, 315. (With two Maps.)
+
+
+Vou. II. LOUISIANA FOLK-TALES.
+In French Dialect and English Translation. Collected and edited by
+AtcéE Fortier, D. Lit., Professor of Romance Languages in Tulane
+University of Louisiana. 1895. Pp. xi., 122.
+
+
+VoL. III. BAHAMA SONGS AND STORIES.
+
+A Contribution to Folk-Lore, by CHartes L. Epwarps, Professor of Bio-
+logy in the University of Cincinnati. With Music, Introduction, Appen-
+dix, and Notes. Six Illustrations. Boston and New York: Houghton,
+Mifflin and Company. 1895. Pp. xiii, 111.
+
+
+VoL. IV. CURRENT SUPERSTITIONS.
+Collected from the Oral Tradition of English-speaking Folk. Edited by
+Fanny D. BERGEN. With Notes, and an Introduction by WILLIAM
+WELLS NEWELL. 1896. Pr , 161.
+
+
+Vor. V. NAVAHO LEGENDS.
+
+Collected and translated by WasHINGTON MaTTHEws, M. D., LL. D., Major
+U.S. Army, Ex-President of the American Folk-Lore Society, etc. With
+Introduction, Notes, Illustrations, Texts, Interline: Translations, and
+Melodies. 1897. Pp. viii., 299.
+
+
+VoL. VI. TRADITIONS OF THE THOMPSON RIVER INDIANS
+OF BRITISH COLUMBIA.
+Collected by James TE1T. With Introduction by Franz Boas, and Notes.
+Pp. x., 137.
+
+
+Prices of each volume of the Memoirs: Vols. I., II., III., IV., VI., $3.50,
+net ; to members of the American Folk-Lore Society, $3.00, me¢. Vol. V.,
+$6.00, wet ; to members of the American Folk-Lore Society, $5.00, meé.
+
+5
+
+
+THE AMERICAN FoLxk-LorE Society was organized January 4,
+1888, for the collection and publication of the folk-lore and mythol-
+ogy of the American continent.
+
+The Society holds annual meetings, at which reports are received
+and papers read. ‘
+
+The membership fee is three dollars, payable on the 1st of January
+in each year.
+
+Members are entitled to receive the Journal of American Folk-
+Lore, a periodical appearing quarterly, and of which eight volumes
+have already been issued, each volume containing about three hun-
+dred and fifty octavo pages. The Journal is published for the
+Society by Houghton, Mifflin & Co., Boston and New York.
+
+The work of the Society includes publication and research in re-
+gard to the religious ceremonies, ethical conditions, mythology, and
+oral literature of Indian tribes ; collection of the traditions of stocks
+existing in a relatively primitive state, and the collation of these with
+correct accounts of survivals among civilized tribes; gathering of
+the almost wholly unrecorded usages and beliefs of Central and
+South American races ; the comparison of aboriginal American ma-
+terial with European and Asiatic conceptions, myths, and customs ;
+a study of survivals among American negroes, including their tradi-
+tional inheritance from Africa, and its modification in this Conti-
+nent ; preservation of the abundant folk-lore of the French and
+Spanish regions of North America; record of the oral traditions of
+the English-speaking population, and description of communities
+now or lately existing under isolated conditions.
+
+The publication of the Memoirs cannot be met from the regular
+fees of the Society, but is rendered possible by annual contributions
+to the Publication Fund, of ten dollars, for such time as individual
+subscribers may be pleased to continue such subscription.
+
+Subscribers are enrolled as members of the Society, and receive
+all its publications, issued after the date of subscription, including
+the Journal and Memoirs.
+
+A list of Annual Subscribers is printed in the Journal, and in each
+volume of the Memoirs, so long as subscription continues.
+
+Persons willing to assist in this work of publication, by the annual
+payment, during such time as they may please, of ten dollars (which
+sum, it will be understood, includes the annual membership fee of the
+Society), are requested to remit their subscriptions to the Treasurer,
+John H. Hinton, M. D., No. 41 West 32d St., New York, N. Y.
+
+6
+
+
+~—
+=)
+
+~
+
+—
+

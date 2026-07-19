@@ -27,7 +27,7 @@ artifacts:
     path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
     checksum:
       algorithm: sha256
-      value: bc4d72cc762d3e11463ccdb205aee6be3cf2f93b5be1789d95045b05580db568
+      value: 24dbda4385c6b7c0930d649f7a4ed3e13bf416b53a3ca7861b9c8f822f1c476e
     media_type: text/markdown
     notes: Canonical reviewed Markdown corpus text.
   converter:
@@ -42,8 +42,6 @@ artifacts:
   cleanup_notes:
   - Removed distributor packaging and license text from canonical corpus file.
   - Preserved source line and paragraph structure without interpretive rewriting.
-  - Trimmed bounded front/back/appended non-body regions by mechanical line selection
-    (OCR review wave 3).
   rights:
     status: public_domain
     jurisdiction: US

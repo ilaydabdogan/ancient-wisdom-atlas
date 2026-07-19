@@ -69,6 +69,94 @@ figures:
 
 # First Part of the Royal Commentaries of the Yncas, Vol. II
 
+WORKS  ISSUED  BY
+
+Cíjr  I^aiUuyt  J^oriety.
+
+
+THE  ROYAL  COMMENTARIES
+
+OF  THE  YNCAS.
+
+VOL.  II.
+
+
+M.DCCC.LXXI.
+
+
+Digitized  by  the  Internet  Archive
+in  2016  with  funding  from
+Getty  Research  Institute
+
+
+https://archive.org/details/firstpartofroyal02vega
+
+
+A PLAN  OF  CUZCO
+
+ANCIENT  AND  MODERN
+
+Scale  of  English  Feet
+
+500 lOOO 1500  2000
+
+
+. 244
+
+17.  Hernando  Bachicao .
+
+245  26 . Alonzo  de  Loavsa 246
+
+35.  Antonio  Abamirano  ...
+
+250
+
+*-*.  Alonzo  de  Hinojosa
+
+...  253
+
+19.  Bishops  Palace
+
+......  28.  Juan  de  Figueroa „
+
+37-  Alonzo  Manuela
+
+46.  Pedro  Lopez  de  Caballa
+
+"
+
+22 . Francisco  Hernandez  Git
+
+on  ..  31.  Francisco  Delqado. 247
+
+40  L icentiate  de  la  Gama
+
+49.  Garcilasso  de  la  Vega
+
+23.  Antonio  Altanara  no
+
+...255
+
+245
+
+24.  Francisco  de  Trias
+
+25.  Sebastian  de  Caoalla  ..
+
+....  ..  33.  Hernando  Bizarro. 250
+
+34.  Mar-do  Serm  deLeqidsano
+
+42.  Juan  de  Panccrvo  .
+
+43  Herman  Bravo  de  Lamina
+
+5i.  Antonio  de  Quiñones
+
+52.  Tomas  Yasquez 255
+
+53.  Alonzo  de  Taro — „
+
 54.  Rodrigo  ¿Le  Esquivel
 
 55.  Antonio  Per  dm
@@ -4073,7 +4161,7 @@ generation  in  what  he  relates.  Nevertheless  I rejoice  that
 he  should  so  far  confirm  my  narrative.*
 
 The  name  of  the  queen,  the  wife  of  Uira-ccocha,  was
-Mama  Runtu,  which  means   c  Mother  Egg.”  They  called
+Mama  Runtu,  which  means  <c  Mother  Egg.”  They  called
 her  so  because  her  complexion  was  fairer  than  is  usual  with
 the  Indian  women,  and  by  way  of  comparison  they  said
 “ Mother  Egg-/’  which  is  a graceful  way  of  speaking  in  this
@@ -16737,7 +16825,7 @@ especially  the  eating  of  cuca,  which  appeared  a vile  and  base
 habit.  He,  therefore,  said: — “ Supposing  your  necessity  to
 be  such  as  you  describe  it,  yet  why  do  you  eat  the  cuca,  like
 an  Indian,  seeing  it  is  an  unseemly  habit,  and  abominated
-by  the  Spaniards?”  The  soldier  answered: —  cIn  truth,  I
+by  the  Spaniards?”  The  soldier  answered: — <cIn  truth,  I
 did  not  abominate  it  less  than  my  countrymen,  but  necessity
 has  obliged  me  to  imitate  the  Indians  and  carry  it  in  my
 mouth.  For  I would  have  you  to  know  that  if  I did  not  do
@@ -23409,7 +23497,7 @@ Marquis  also  had  a daughter  named  Doña  Francisca  Pizarro,
 who  grew  up  to  be  a fine  lady,  and  married  her  uncle,  Her-
 nando Pizarro.  Her  father  the  Marquis  had  her  by  a daughter
 
-(s)
+‹s›
 
 of  Huayna  Ccapac,  named  Doña  Inez  Huayllas  Nusta,  who
 afterwards  married  Martin  de  Ampuero,  a citizen  of  the
@@ -24532,7 +24620,7 @@ i,  285
 Cachi,  salt,  i,  74;  ii,  238
 Cachun  (Cacham),  the  pepino  fruit
 (a  cucurbitacea),  ii,  361
-Ca ji,  a fast,  ii,  229
+Ca<ji,  a fast,  ii,  229
 Cam,  you,  i,  197
 Cama,  the  soul,  i,  106
 Camac,  created,  i,  101
@@ -24552,7 +24640,7 @@ Capia,  a kind  of  maize,  ii,  355
 Carache,  a disease  among  llamas,  ii
 378
 
-Casi,  see  Ca ji
+Casi,  see  Ca<ji
 Cassa,  ice,  ii,  326
 Catu,  market,  ii,  254
 Cavi,  preserved  oca  (which  see),  ii
@@ -25989,7 +26077,7 @@ IV.
 i,  29  I 520
 
 
-O 00   T
+O 00  <T
 
 
 INDEX.
@@ -26577,3 +26665,160 @@ at  Cuzco,  ii,  246
 
 Quiñones,  Antonio  de,  his  house  at
 Cuzco,  ii,  255
+
+Reinaga,  Juan  de,  brought  camels
+to  Peru,  ii,  473
+
+Retes,  Doña  Catalina  de,  introduced
+flax  into  Peru,  ii,  500
+
+
+Ribera,  Antonio  de,  introduced
+olives  into  Peru,  ii,  492
+Rieros,  Francisco  de,  his  account  of
+Valdivia’s  death,  ii,  294
+Rios,  Pedro  de  los,  his  house  at
+Cuzco,  ii,  243
+
+Robledo,  Jorge  de,  price  of  pigs
+during  his  expedition,  ii,  474
+Roman,  Friar  Gerónimo  (see  Quota-
+tions)
+
+Saavedra,  Father  Maldonado,  fur-
+nished the  author  with  the  papers
+of  Bias  Valera,  i,  33
+
+Juan  de,  his  house  at
+
+Cuzco,  ii,  243
+
+Salan,  Valdez  de,  his  house  at  Cuzco,
+ii,  246
+
+Salas,  J uan,  de,  his  house  at  Cuzco,
+ii,  244
+
+Sanchez,  Pedro  (see  Author’s  School)
+
+, Miguel,  his  house  at  Cuzco,
+
+ii,  244
+
+San  Miguel,  Fray  Antonio,  head  of
+Franciscans  at  Cuzco,  preaches
+charity  sermons  for  the  hospital,
+ii,  258
+
+Santa  Cruz,  Juan  de,  his  house  at
+Cuzco,  ii,  244
+
+Serrano,  Pedro  de,  narrative  of  his
+adventures,  i,  41
+
+Silva,  Diego  de,  the  author’s  god-
+father, his  house  at  Cuzco,  ii,  254
+Silvestre,  Gonzalo,  testimony  as  to
+large  harvests  in  Peru,  ii,  496
+Solano,  Bishop  of  Cuzco,  lodged  in
+author’s  house,  very  hungry,  ii,
+486
+
+Solar,  Antonio,  story  of  the  Indians
+stealing  his  melons,  ii,  498
+Sotelo,  Gaspar  de,  grant  to  explore
+the  montaña,  ii,  270;  buys  a don-
+key, ii,  474
+
+Soto,  Hernando  de,  first  to  visit
+Cuzco,  ii,  66
+
+Terrajas,  Bartolomé  de,  sends  pre-
+sents of  grapes  to  Cuzco,  ii,  488 ;
+his  present  of  carrots,  ii,  501
+Toledo,  Francisco  de.  Viceroy  of
+Peru,  killed  Tupac  Amaru,  ii,  264;
+invades  the  Chirihuana  country,
+ii,  275
+
+Tordoya,  Gomez  de,  his  house  at
+Cuzco,  ii,  256;  his  expedition,  ii,
+269  ; death,  ii,  271
+Toro,  Alonzo  de,  his  house  at  Cuzco,
+ii,  255
+
+Truxillo,  Diego  de,  his  house  at
+Cuzco,  ii,  244-
+
+
+INDEX.
+
+
+553
+
+
+Vaez,  Alfonso,  Portuguese  manager
+of  a vineyard,  ii,  489
+Valdivia,  Pedro  de,  conquers  Chile,
+ii,  284  ; rebellion  against  him,  ii,
+285,  294
+
+Valera,  Blas  (see  Quotations )
+Valverde,  Father  Vicente  de,  his
+address  to  Atahuallpa,  i,  107
+Vasquez,  Tomas,  his  house  at
+Cuzco,  ii,  255
+
+, Garci,  at  Cañete,  his  wheat
+
+crop,  ii,  496
+
+Vega,  Garcilasso  de  (see  Author)
+Vela,  Blasco  Núñez,  Viceroy  of
+Peru,  disease  among  llamas  in  his
+time,  ii,  378 ; no  rats  until  his
+time,  ii,  479
+
+
+Velasco,  Pedro  Fernandez  de,
+teaches  use  of  quicksilver,  ii,
+416
+
+Villacastin,  Francisco  de,  his  house
+at  Cuzco,  ii,  245  ; marries  an
+Ynca  Princess,  loses  his  front
+teeth,  ii,  523
+
+Villafuerte,  Francisco  de,  his  house
+at  Cuzco,  ii,  256
+
+Villalobos,  Juan  Rodriguez  de,  citi-
+zen of  Cuzco,  i,  193;  his  property
+at  Cuzco,  ii,  257;  first  to  use  bul-
+locks for  ploughing,  ii,  470
+
+
+Zarate,  Agustin  de  (see  Quotations)
+
+
+0 0
+
+
+VOL.  II.
+
+
+^^7
+
+
+[H*  rM’UM  V |1  i ‘ n»
+
+
+mmm
+
+Will®
+
+Hi
+
+
+lip»™
+

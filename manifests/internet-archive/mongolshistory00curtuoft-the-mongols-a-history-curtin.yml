@@ -1,0 +1,70 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_mongolshistory00curtuoft
+  work_id: mongol.the_mongols_history.curtin_archive
+  title: The Mongols - A History
+  source_url: https://archive.org/details/mongolshistory00curtuoft
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/internet-archive/mongolshistory00curtuoft-the-mongols-a-history-curtin.txt
+    checksum:
+      algorithm: sha256
+      value: 8123ef3c7c526f3d8b020f1be5dceb4b34d36fce1b54e78738535e372146020d
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/internet-archive/mongolshistory00curtuoft-the-mongols-a-history-curtin.md
+    checksum:
+      algorithm: sha256
+      value: 905640c00e17994914aeaa4831b94a51cea01f64241c2f6dc6ee12e1fc3192dd
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/mongol/internet-archive/the-mongols-a-history-curtin.md
+    checksum:
+      algorithm: sha256
+      value: 2f002f1a604a7fdc52d39693dcad421e4b3fc24ffa6862e6622bafeb2634e7d7
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids mongol.the_mongols_history.curtin_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1908 (pre-1930), US public domain. Primarily Curtin's historical
+      narrative of the Mongols with retellings of legendary origin traditions (incl.
+      Chingis Khan material); paraphrase/narrative history rather than verbatim primary
+      text. OCR of a scan; expect OCR noise.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

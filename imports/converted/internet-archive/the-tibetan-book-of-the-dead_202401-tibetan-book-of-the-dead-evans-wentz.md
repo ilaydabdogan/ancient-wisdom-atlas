@@ -1,1028 +1,3 @@
-# The Tibetan Book of the Dead
-
-spain
-bsprianriae
-
-
-1
-
-
-aes
-
-
-oer
-
-
-ArH ACh BE TAIN
-BOOK OF FHE DEAD
-
-
-Oxford University Press
-London Edinburgh Glasgow Copenhagen
-New York Toronto Melbourne Capetown
-Bombay Calcutta Madras Shanghai
-Humphrey Milford Publisher to the University
-
-
-THE TRANSLATOR (right) AND THE EDITOR
-IN GANGTOK, SIKKIM
-
-
-Described on page xvii
-
-
-1unx] asvd UO paqrszsaq,
-
-
-SW TOGOQHI OGY¥d AHL AO v49 GNy vS£ SOTTO’
-
-
-THE TIBETAN
-BOOK OF THE DEAD
-
-
-; g
-
-
-The After-Death Experiences
-on the Bardo Plane, according
-to Lama Kazi Dawa-Samdup’s
-
-
-English Rendering
-
-
-By
-
-
-W. Y. EVANS-WENTZ
-WEA, D.Lire, Bsc.
-Jesus College, Oxford; Author of
-“The Fairy-Faith in Celtic
-
-
-Countries’
-
-
-With Foreword by Sir John Woodroffe
-jar
-
-
-OXFORD UNIVERSITY PRESS
-
-
-LONDON : HUMPHREY MILFORD
-1927
-
-
-IN MEMORY OF
-MY DECEASED FATHER AND MOTHER
-I DEDICATE
-THIS BOOK TO MY TEACHERS
-BOTH SECULAR AND RELIGIOUS
-IN EUROPE AND AMERICA
-AND THROUGHOUT
-THE ORIENT
-
-
-‘Thou shalt understand that it is a science most profitable, and
-passing all other sciences, for to learn to die. Fora man to know
-that he shall die, that is common to all men; as much as there is
-no man that may ever live or he hath hope or trust thereof; but
-thou shalt find full few that have this cunning to learn to die... .
-I shall give thee the mystery of this doctrine ; the which shall
-profit thee greatly to the beginning of ghostly health, and to
-a stable fundament of all virtues.’— Orologtum Saptentiae.
-
-
-‘ Against his will he dieth that hath not learned to die. Learn
-to die and thou shalt learn to live, for there shall none learn to
-live that hath not learned to die.’”—Toure of all Toures: and
-Teacheth a Man for to Die.
-
-
-The Book of the Craft of Dying (Comper’s Edition).
-
-
-“Whatever is here, that is there ; what is there, the same is
-here. He who seeth here as different, meeteth death after death.
-
-‘By mind alone this is to be realized, and [then] there is no
-difference here, From death to death he goeth, who seeth as if
-there is difference here.’—Katha Upantshad, iv, 10-11 (Swami
-Sharvananda’s Translation).
-
-
-ieee,
-
-
-In this book I am seeking—so far as possible—to suppress
-my own views and to act simply as the mouthpiece of a Tibetan
-sage, of whom I was a recognized disciple.
-
-He was quite willing that I should make known his inter-
-pretation of the higher /amazc teachings and of the subtle
-esotericism underlying the Bardo Thédol, following the private
-and orally transmitted instructions which he as a young man
-had received when living the life of an ascetic with his late
-hermit-g¢ru in Bhutan. Being himself a man who possessed
-a considerable amount of Western learning, he took great
-trouble to enable me to reproduce Oriental ideas in a form
-which would be intelligible to the European mind. If, in
-amplification, I have frequently referred to Occidental parallels
-of various mystic or occult doctrines current in the Orient,
-I have done so largely because in my wanderings there,
-chiefly in the high Himalayas and on the Tibetan frontiers
-of Kashmir, Garhwal, and Sikkim, I had come across learned
-philosophers and holy men who have found or thought they
-had found beliefs and religious practices—some recorded in
-books, some preserved by oral tradition alone—not only
-analogous to their own, but so closely akin to those of the
-Occident as to imply some historical connexion therewith.
-Whether the supposed influence passed from East to West
-or from West to East, was not so clear to their minds.
-A certain similarity does, however, seem to attach to the
-culture of these geographically divided provinces.
-
-I have spent more than five years in such research, wandering
-from the palm-wreathed shores of Ceylon, and thence through
-the wonder-land of the Hindus, to the glacier-clad heights of
-the Himalayan Ranges, seeking out the Wise Men of the
-East. Sometimes I lived among city dwellers, sometimes
-in jungle and mountain solitudes among yogis, sometimes in
-
-3069 b
-
-
-x PREFACE
-
-
-monasteries with monks; sometimes I went on pilgrimages,
-as one of the salvation-seeking multitude. The Introduction
-—which in its unusual lengthiness is intended to serve as
-a very necessary commentary to the translation—and the
-annotations to the text record the more important results
-of this research, more especially in relation to Northern or
-Mahayana Buddhism.
-
-Nevertheless, I have been really little more than a compiler
-and editor of ‘The Tibetan Book of the Dead’. To the
-deceased translator—who combined in himself a greater
-knowledge of the Occult Sciences of Tibet and of Western
-Science than any Tibetan scholar of this epoch-—the chict
-credit for its production very naturally belongs.
-
-In addition to that greatest of all debts which the student
-ever owes to his preceptor, I acknowledge my indebtedness
-to each of my many good friends and helpers who have
-personally aided me herewith. Some of them are of one
-Faith, some of another; some are far away in Japan and in
-China, some in the land of my birth, America; many are in
-Ceylon and in India; a few are in Tibet.
-
-Here in England I think first of all of Dr. R. R. Marett,
-Reader in Social Anthropology in the University of Oxford,
-and Fellow of Exeter College, who ever since I first came up
-to Oxford, in the year 1907, has faithfully guided my anthro-
-pological research. Sir John Woodroffe, late a Judge of the
-High Court, Calcutta, now Reader in Indian Law in the
-University of Oxford, and the foremost authority in the West
-on the Yantras, has read through our translation, chiefly in
-relation to the character of the work as a ritual more or
-less Tantric, and offered important advice. I am also very
-grateful to him for the Foreword.
-
-To Sj. Atal Bihari Ghosh, of Calcutta, Joint Honorary
-Secretary with Sir John Woodroffe of the Agamanusandhana
-Samiti, as to Sir E. Denison Ross, Director of the School of
-Oriental Studies, London Institution, and to Dr. F. W. Thomas,
-Librarian of the India Office, London, I am under a special
-
-
-PREFACE xi
-
-
-obligation for important constructive criticism on the book
-as a whole. To Major W. L. Campbell, British Political
-Representative in Tibet, Bhutan, and Sikkim during my
-sojourn in Gangtok, Iam indebted for much encouragement
-and scholarly aid, and for the gift of two valuable paintings
-prepared by his orders in the chief monastery of Gyantse,
-Tibet, to illustrate the symbolism of the Bardo Thédol text,
-and herein reproduced. To his predecessor and successor
-in the same post, Sir Charles Bell, I am also a debtor for
-important advice at the outset of my Tibetan research, when
-in Darjeeling. To Mr. E. S. Bouchier, M.A. (Oxon.), F. R.
-Hist. S., author of Syria as a Roman Province, A Short
-flistory of Antioch, &c., my heartiest thanks are due for
-the assistance which he has so kindly rendered in reading
-the whole of this book when in proof.
-
-Sardar Bahadur S.W. Laden La, Chief of Police, Darjeeling,
-who sent me to Gangtok with a Ictter of introduction to
-the late Lama Kazi Dawa-Samdup, the translator of the
-Bardo Thodol; Dr. Johan Van Manen, Secretary of the
-Asiatic Society, Calcutta, who lent me Tibetan books which
-proved very helpful while the translation was taking shape,
-and who afterwards contributed advice concerning transla-
-tions; and Dr. Cassius A. Pereira, of Colombo, Ceylon, who
-criticized parts of the Introduction in the light of Theravada
-Buddhism, are among many others to whom my thanks
-are due.
-
-Thus, under the best of auspices, this book is sent forth to
-the world, in the hope that it may contribute something to the
-sum total of Right Knowledge, and serve as one more spiritual
-strand in an unbreakable bond of good will and universal peace,
-binding East and West together in mutual respect and under-
-standing, and in love such as overleaps every barrier of creed
-
-
-and caste and race.
-W. Y. E-W.
-
-
-Jesus Cottece, OxForp,
-Easter, 1927.
-
-
-I. RENUNCIATION
-
-
-“Get thee away from life-lust, from conceit,
-
-From ignorance, and from distraction’s craze ;
-
-Sunder the bonds; so only shalt thou come
-
-To utter end of Ill. Throw off the Chain
-
-Of birth and death—thou knowest what they mean.
-
-So, free from craving, in this life on earth,
-
-Thou shalt go on thy way calm and serene.’—The Buddha.
-Psalms of the Early Buddhists, 1. Wi
-
-(Mrs. Rhys Davids’ Translation).
-
-
-Hl. VICTORY
-
-
-‘But anguish crept upon me, even me,
-
-Whenas I pondered in my little cell:
-
-Ah me! how have I come into this evil road.
-
-Into the power of Craving have I strayed!
-
-Brief is the span of life yet left to me;
-
-Old age, disease, hang imminent to crush.
-
-Now ere this body perish and dissolve,
-
-Swift let me be; no time have I for sloth.
-
-And contemplating, as they really are,
-
-The Aggregates of Life that come and go,
-
-I rose and stood with mind emancipate!
-
-For me the Buddha’s words had come to pass’.—
-Mittakali, a Brahmin Bhikbhuni.
-
-
-Psalms of the Early Buddhists, I, xliii
-(Mrs. Rhys Davids’ Translation).
-
-
-COME NTS
-
-
-PREFACE
-ILLUSTRATIONS
-
-
-FOREWORD: The Science of Death, by Sir John Woodroffe .
-
-
-INTRODUCTION
-
-
-I.
-
-
-II.
-iF
-
-
-The Importance of the ee Thodol . <  ae fs
-
-
-The Symbolism
-
-
-The Esoteric Significance of the — Nine — of the
-
-
-Bardo .
-
-
-. The Esoteric Significance of the Five Elements
-. The Wisdom Teachings
-
-. The Death Ceremonies
-
-. The Bardo, or After-Death State
-
-. The Psychology of the Bardo Visions
-
-. The Judgement
-
-. The Rebirth Doctrine .
-
-. The Cosmography
-
-. The Fundamental Teachings Summarized
-
-
-. The Manuscript
-
-
-. The Origin of the Bardo Thédol .
-. The Translating and the Editing .
-
-
-BOOK ad
-
-
-THE CAlkaAl BARDO AND THE
-CHONYID BARDO
-
-
-THE OBEISANCES
-
-
-THE INTRODUCTION
-
-
-The Transference of the Censsneneess pees
-The Reading of this Thédol .
-
-
-The Practical Application of this Thodol By the Omsen .
-
-
-xiV CONTENTS
-
-
-Pak ol
-
-
-THE BARDO OF THE MOMENTS OF DEATH
-
-
-INSTRUCTIONS ON THE SYMPTOMS OF DEATH, OR
-THE FIRST STAGE OF THE CH/IKHAI BARDO: THE
-PRIMARY CLEAR LIGHT SEEN AT THE MOMENT
-OF DEATH
-
-
-INSTRUCTIONS CONCERNING THE SECOND , STAGE
-OF THE CHIKHAI BARDO: THE SECONDARY
-CLEAR LIGHT SEEN IMMEDIATELY AFTER DEATH
-
-
-Peo vL
-
-
-THE BARDO OF THE EXPERIENCING
-OF GREATLY
-
-
-INTRODUCTORY INSTRUCTIONS CONCERNING THE
-EXPERIENCING OF REALITY DURING THE THIRD
-STAGE OF THE BARDO, CALLED THE CHONYID
-BARDO, WHEN THE KARMIC APPARITIONS AP-
-PEAR . .
-
-
-THE DAWNING OF THE PEACEFUL DEITIES, FROM
-THE FIRST TO THE SEVENTH DAY : :
-The First Day
-The Second Day .
-The Third Day
-The Fourth Day
-The Fifth Day
-The Sixth Day
-The Seventh Day .
-
-
-THE DAWNING OF TIIE WRATHFUL DEITIES, FROM
-THE EIGHTH TO THE FOURTEENTH DAY .
-Introduction .
-The Eighth Day
-The Ninth Day
-The Tenth Day
-The Eleventh Day
-The Twelfth Day .
-The Thirteenth Day
-The Fourteenth Day
-
-
-THE CONCLUSION, SHOWING THE FUNDAMENTAL
-IMPORTANCE OF THE BARDO TEACHINGS
-
-
-89
-
-
-oF
-
-
-IolI
-
-
-TO4
-TO5
-108
-LIO
-IIl2
-TI5
-118
-126
-
-
-131
-131
-136
-138
-138
-139
-140
-141
-Le Fs)
-
-
-151
-
-
-CONTENTS
-
-
-BOOK II
-
-
-PAE S/DPA BARDO
-
-
-. THE OBEISANCES
-INTRODUCTORY VERSES
-
-
-PARI A
-
-
-THE AFTER-DEATH WORLD
-
-
-nt LBAKDO BODY: ITS BIRTH AND ITS SUPER-
-NORMAL FACULTIES : :
-
-GUARACTERISIMICS OF EXISTENCE IN THE INTER-
-MEDIATE STATE 5 > ae fe ee :
-
-THE JUDGEMENT
-
-THE ALL-DETERMINING INFLUENCE OF THOUGHT .
-
-
-THE DAWNING OF THE LIGHTS OF THE SIX ZOKAS.
-
-
-Pak 1!
-
-
-THE PROCESS OF REBIRTH
-
-
-THE CLOSING OF THE DOOR OF THE WOMB
-Method of Preventing Entry into a Womb
-The First Method of Closing the Womb-Door .
-The Second Method of Closing the Womb-Door
-The Third Method of Closing the Womb-Door .
-The Fourth Method of Closing the Womb-Door
-The Fifth Method of Closing the Womb-Door ,
-THE CHOOSING OF THE WOMB-DOOR
-The Premonitory Visions of the Place of Rebirth
-The Protection against the Tormenting Furies .
-THE ALTERNATIVE CHOOSING: SUPERNORMAL
-BIRTH; OR WOMB-BIRTH .
-Supernormal Birth by Transference to a patie oe
-Womb-Birth: the Return to the Human World
-
-
-THE GENERAL CONCLUSION
-
-
-ESD
-155
-
-
-175
-176
-176
-TY
-178
-180
-18x
-
-
-183
-183
-185
-
-
-188
-189
-Igo
-193
-
-
-xvi CONTENTS
-
-
-THE APEEMiirs.
-I. THE INVOCATION OF THE BUDDHAS AND
-BODHISATTVAS
-
-
-Il. ‘THE PATH OF GOOD WISHES FOR SAVING FROM
-THE DANGEROUS NARROW PASSAGE-WAY OF
-THE SAKRDO : , . ‘
-
-
-Ill. “THE ROOT VERSES OF THE SIX 2ARnDCS:
-
-
-IV. ‘THE PATH OF GOOD WISHES WHICH PROTECT-
-ETH FROM FEAR IN THE BARDO’
-
-
-V. THE COLOPHON
-
-
-ADDENDA
-
-
-I YOGA
-II. TANTRICISM
-HI. MANTRAS, OR WORDS OF POWER
-
-
-IV. THE GURU AND SHISHYA il ae" AND
-INITIATIONS :
-
-
-V. REALITY
-
-
-VI. NORTHERN AND SOUTHERN BUDDHISM AND
-CHRISTIANITY ee :
-
-
-VIL. THE MEDIEVAL CHRISTIAN "JUDGEMENT
-
-
-INDEX
-
-
-197
-
-
-202
-
-
-205
-
-
-Web vstkATIONS
-
-
-I. THE TRANSLATOR AND THE EDITOR . preceding Plate II
-
-
-From a photograph of the Translator and the Editor in Tibetan dress,
-taken in Gangtok, Sikkim, during the year 1919.
-
-
-II. FOLIOS 35a AND 672 OF THE BARDO THODOL MS.
-Frontispiece
-
-A photographic reproduction (about two-thirds of the original size).
-In the original the illuminations are in colour (now much faded)
-painted on the folios (cf. p. 68).
-
-The painting on the upper folio illustrates, with the colours,
-emblems, and orientation in strict accord with the traditions of
-Tibetan monastic art, the description in the text of the united mandalas,
-or divine conclaves, of the Peaceful Deities of the First to the Sixth
-Day of the Bardo that dawn thus in one complete conclave on the
-Sixth Day (cf. pp. 118-26). In the central circle (Centre) is the
-Dhyani Buddha Vairochana, embraced by his shakt:, or divine spouse,
-the Mother of Infinite Space. In the next circle, each likewise
-embraced by his shat, are the four Dhyani Buddhas, who, with
-Vairochana, constitute the mazdala of the Five Dhyani Buddhas. In
-the outermost circle are typical Bodhisattvas and other deities who
-accompany the Five Dhyani Buddhas (cf. pp. 118-20); and in the
-four small outer circles the four female Door-Keepers of the complete
-conclave (cf. p. 120).
-
-The painting on the lower folio similarly illustrates, in colours,
-emblems, and orientation, the united mandalas of the Wrathful
-Deities of the Eighth to the Fourteenth Day that dawn thus in one
-complete conclave on the Fourteenth Day (cf. pp. 143-6). In the
-cruciform design at the centre are the three-headed Herukas of
-the Buddha, Vajra, Ratna, Padma, and Karma Order, each with his
-shakti, that dawn, mandala by mandala, from the Eighth to the
-Twelfth Day (cf. pp. 136-41). The outer circle contains repre-
-sentations of the various animal-headed deities that dawn on the
-Thirteenth and the Fourteenth Day (cf. pp. 141-6). In the four
-small outer circles are the Four Yoginis of the Door (cf. pp. 145-6).
-
-The translation of the text on the two folios is indicated by special
-markings on pages I20 and 144.
-
-
-Il]. EFFIGY OF THE DEAD PERSON ee mae One a8
-A reproduction (slightly reduced) of a copy of a Tibetan printed
-Chang-ku paper.
-
-
-3069 ¢
-
-
-xviii ILLUSTRATIONS
-
-
-IV. THE GREAT MANDALA OF THE PEACEFUL DEITIES
-facing p. 118
-
-
-This and the companion illustration, number V, following, are
-photographic reproductions (about one-fourth of the original size) of
-two paintings in colour, on heavy cotton cloth, made in the chief
-monastery of Gyantse, Tibet, on the instructions of Major W. L.
-Campbell, to illustrate our Bardo Thddol translation (see Preface,
-p. xi). The colours, emblems, and orientations, as in the two
-manuscript illuminations described above, are in accord with the
-strict conventions of the religious art of Tibet. The correlations, too,
-between the text and the deities depicted, as brought out in the
-description of the two manuscript illuminations, also apply to these
-two more elaborate paintings.
-
-Innermost circle (representing the Centre of the orientation): at
-the centre, Vairochana (white) and shakt:, on lion throne (cf. pp. 105-
-6); at the top, Samanta-Bhadra (blue) and skakti; in subordinate
-circle on the left, Chenrazee (above), Mafijushri (below, on left),
-Vajra-Pani (below, on right); in subordinate circle on the right,
-Tson Khapa, a famous Tibetan guru (above), and his two chief
-shishyas (or disciples), Gendundub (below, on left), and Gyltshabje
-(below, on right).
-
-Lower circle (East): at the centre, Vajra-Sattva (blue), the reflex
-of Akshobhya, and shakti, on elephant throne ; Pushpa (above); Lasya
-(below) ; and Bodhisattvas (on left and right). Cf. pp. 108-9.
-
-Left circle (South): at the centre, Ratna-Sambhava (yellow) and
-shakti, on horse throne; Dhipa (above); Mala (below) ; and Bodhi-
-sattvas (on left and right). Cf. pp. 110-11.
-
-Upper circle (West): at the centre, Amitabha (red) and shahti, on
-peacock throne; Aloka (above); Gita (below); and Bodhisattvas
-(on left and right). Cf. p. 113.
-
-Right circle (North): at the centre, Amogha-Siddhi (green) and
-shakti, on harpy throne; Naivedya (above); Gandha (below); and
-Bodhisattvas (on left and right). Cf. pp. 115-6.
-
-Occupying the four corners of the great circle are the four chief
-Door-Keepers (cf. p. 120) of the Mandala, each pair on a fire-
-enhaloed lotus throne: upper left, Yamantaka (yellow) and shakt’, the
-Door-Keepers of the South; upper right, Hayagriva (red) and shakt:,
-the Door-Keepers of the West; lower right, Amrita-~-Dhara (white)
-and shakti, the Door-Keepers of the North; lower left, Vijaya (green)
-and shakti, the Door-Keepers of the East. At the bottom, in the
-centre, Padma Sambhava, the Great Human Guru of the Bardo Thédol
-Doctrine, in royal robes and pandit head-dress, holding a skull filled
-with blood, symbolical of renunciation of life, in his left hand, and
-a dorje, symbolical of mastery over life, in his right. At his feet lie
-
-
-ILLUSTRATIONS xix
-
-
-offerings: (1) the Zri-Ratna or Three Jewels of the Buddhist Faith,
-(2) a pair of elephant tusks, and (3) a branch of red coral. To the
-right of the Guru stands the Buddha of the Human Loka (yellow),
-Shakya Muni, holding a bhikkhu-staff and a begging-bowl; to the
-right, the Buddha of the Brute Lofa (blue) holding a book, symbolizing
-language and expression, or divine wisdom, which brute creatures
-* Tack.
-
-In the four corners are the four other Buddhas of the Six Lokas
-(cf. p. 121): upper left, the Buddha of the Deva Loka (white),
-holding a guitar, symbolizing excellence in arts and sciences and the
-harmony of existence in the world of the devas; upper right, the
-Buddha of the Asura Loka (green), holding a sword symbolizing
-the warlike nature of asuras; lower left, the Buddha of the Preta Loka
-(red), holding a box filled with all desirable objects to satisfy the
-cravings of the prefas; lower right, the Buddha of Hell (smoke-
-coloured), holding fire for consuming and water for purifying.
-
-Among other embellishments added by the artist are a sacred
-mirror (symbolizing form or body, which it reflects) near the trees on
-the left, and a sacred conch-shell trumpet of victory over the Sangsara
-(symbolizing sound) near the tree on the right; and, between the two
-Buddhas at the bottom, in two caves, yog7s, or holy men, in the
-Tibetan wilderness.
-
-At the top, in the centre, presiding over the whole mandala, Buddha
-Amitabha (red), on an enhaloed lotus and lunar throne holding
-a begging-bowl, with lotuses and the moon (white) on the left and
-lotuses and the sun (gold) on the right.
-
-
-V. THE GREAT MANDALA OF THE KNOWLEDGE-HOLD-
-ING AND WRATHFUL DEITIES ... . . facing p. 136
-
-
-Innermost circle: upper centre, Samanta-Bhadra (blue) and shaki,
-in wrathful aspect; lower centre (Centre), the Buddha Heruka (dark
-brown) and shakti (cf. p. 137); lower left (East), the Vajra Heruka
-(dark blue) and shai? (cf. p. 138); upper left (South), the Ratna
-Heruka (yellow) and shakii (cf. pp. 138-9); upper right (West), the
-Padma Heruka (reddish-brown) and shakti (cf. pp. 139-40); lower
-right (North), the Karma Heruka (dark green) and shakti (cf. pp. 140-
-1). Each pair of these deities are on a lotus and solar throne,
-enhaloed by flames of wisdom, and treading under foot mara beings
-(i.e. human beings, whose existence, being purely phenomenal, or
-karmic, is illusion, or maya), symbolizing the treading under foot of
-sangsaric (i.e. worldly) existence. At the bottom are offerings of the
-five sangsaric senses, symbolized by (1) two eyes, (2) two ears,
-(3) a tongue, (4) a heart (in the centre), and (5) a nose (above the
-heart); also of three blood-filled human skull-cups, held in position
-
-
-xX ILLUSTRATIONS
-
-
-by small human skulls, all of which symbolize renunciation of the
-world.
-
-Second circle: the Eight Kerimas (cf. pp. 142-3).
-
-Third circle: the Eight Htamenmas (cf. p. 143) and the Four
-Female Door-Keepers (cf. pp. 143-4).
-
-Outermost circle: the Twenty-Eight Various-Headed Mighty
-Goddesses (cf. pp. 144-5), four of whom are the Four Yoginis of
-the Door (cf. pp. 145-6).
-
-At the bottom, in the centre (Centre) the supreme Knowledge-
-Holding Deity, the Lotus Lord of Dance (red, for the five colours of
-text) and shakti. In the four corners, his four companion deities :
-lower left (East), the Earth-Abiding Knowledge-Holder (white) and
-shakti ; upper left (South), the Knowledge-Holder Having Power Over
-Duration of Life (yellow) and shakti; upper right (West), the Know-
-ledge-Holding Deity of the Great Symbol (red) and shakt’; lower
-right (North), the Self-Evolved Knowledge-Holder (green) and shakit.
-Each pair of deities of this mandala, that dawns intermediately
-(i.e. between the szandalas of the Peaceful Deities and the mandalas
-of the Wrathful Deities) on the Seventh Day (cf. pp. 126-8), are in
-peaceful aspect, on an cnhaloed lotus and lunar throne, performing
-a mystic dance which is Tantric.
-
-At the top, in the centre, presiding over the whole greater mandala,
-is Samanta-Bhadra (dark blue), the Adi-Buddha, and shakti (white),
-in peaceful aspect, on a lotus and lunar throne, enhaloed in rainbow
-colours, with lotuses and the moon (white) on his right and lotuses
-and the sun (gold) on his left.
-
-
-VI. THE TIBETAN JUDGEMENT .  ..—st. facing p. 166
-
-
-A photographic reproduction (about one-fourth of the original size)
-of a monastic painting in colour, on heavy cotton cloth, made on the
-instructions of the editor, in Gangtok, Sikkim, by a Tibctan artist
-named Lharipa-Pempa-Tendup-La, to illustrate the Judgement (see
-P. 37).
-
-Occupying the central position is Dharma-Raja, the King of Truth,
-or Administrator of Truth and Justice, otherwise called Yama-Raja,
-the King and Judge of the Dead. He is the wrathful aspect of
-Chenrazce, the National Divine Protector of Tibet. The third eye ot
-spiritual insight is in his forehead. He stands enhaloed in flames
-of wisdom, on a solar throne supported by a lotus throne, treading
-under foot a mara form, symbolic of the maya (i.e. Jlusionary) nature
-of human existence. His head-dress is adorned with human skulls,
-and a serpent forms his necklace. His necklet is a human hide, the
-head of which protrudes from behind his right side, and a hand and
-foot hang down over the centre of his breast. A girdle of human
-heads surrounds his waist. His pavilion and the walls of his Court
-
-
-ILLUSTRATIONS xxi
-
-
-are adorned with the skull-symbols of death. His sword is the
-sword of spiritual power. The mirror in his left hand is the Mirror
-of Karma, in which are reflected every good and evil act (cf. p. 166)
-of each of the dead who are being judged, one by one. There is
-written on the mirror, in Tibetan, ‘Hri) the 67, or chief, mantra of
-Chenrazee.
-
-Directly in front of Dharma-Raja is the Monkey-Headed One,
-Sprehu-gochan (Tib. Sfre-hu-mgo-chan), otherwise called Shinje
-(cf. pp. 36-7), holding the scales, on one side of which are heaped-up
-black pebbles, the evil deeds, and, on the other, heaped-up white
-pebbles, the good deeds. On the right of Shinje stands the
-Little White God, emptying a sack of white pebbles; on the other
-side, the Little Black God, emptying a sack of black pebbles
-(cf. p. 166).
-
-Guarding the weighing are the Bull-Headed One, Wang-gochan
-(Tib. Glang-mgo-chan), holding another mirror of farma, and the
-Serpent-Headed One, Dul-gochan (Tib. Sbrul-mgo-chan), holding
-a scourge and a noose.
-
-A yellow deity, on the right of Dharma-RaAja, holding a writing-
-tablet and a stilus, and a brown deity, on the left, holding a sword and
-a noose, are the two Advocates. The yellow advocate is the defender,
-the brown advocate is the accuser. The six deities, five of whom are
-animal-headed, sitting in the Court of Judgement, three on either side,
-like a jury of subordinate judges, supervise the proceedings in order
-to ensure regularity of procedure and impartial justice (cf. pp. 35-7).
-The first above on the right holds a mirror of karma and a skull-cup
-of blood, the second a battle-axe and a skull-cup of blood, the third
-anoose, The first above on the left holds a battle-axe and skull-cup
-of blood, the second a small vase of blossoms in his right hand, the
-third a dorje and a skull-cup of blood.
-
-Near the gate on the left and the gate on the right stands one of the
-avenging furies who act as warders. There are ten Tibetans in the
-foreground of the Court awaiting judgement. The one with a conical
-head-dress (in red) is a red-cap /ama; the one with a round head-
-dress (in yellow) is a government official. The others are ordinary
-people. The three gates, through which the condemned enter the
-Hells below, are guarded by three animal-headed porters, each
-holding a noose.
-
-Issuing from the Court, at either side of the Judge, are the Six
-Karmic Pathways, leading to the Six Buddhas of the Six Zoéas, in
-whom the Pathways end, each Pathway and Buddha in appropriate
-colour (cf. p. 124 and Illustration IV). Traversing the Pathways are
-twelve of the dead who have recently been judged. The highest one,
-upon the left, on the white light-path approaching the Buddha of the
-Deva Loka, is a yellow-cap /ama; next to him is a government official
-
-
-xxii ILLUSTRATIONS
-
-
-on the yellow light-path approaching the Buddha of the Human Loka;
-the highest upon the right, on the green light-path approaching the
-Buddha of the Asura Loka, is a red-cap lama.
-
-In the Lower World, at the bottom of the painting, typical punish-
-ments in various Hells are depicted, none of which, however, are
-everlasting. On the left, in the upper corner, where two sinners are
-immersed in a glacial region, the Eight Cold Hells are suggested.
-Near the edge of the painting, on the opposite side, a sinner amidst
-flames suggests the Eight Hot Hells. The commission of any of the
-ten impious acts, deliberately and from selfish motives, leads to pur-
-gation in the Cold Hells; any of the same acts done through anger
-lead to purgation in the Hot Hells.
-
-Just below the Cold Hells is the Hell of the ‘Spiked Tree’ or ‘ Hill
-of Spikes’ (Tib. Shal-ma-i), in which an evil-doer has been quartered
-and affixed to the spikes. Beside it, in charge of a hell-fury, is ‘The
-Doorless Iron House’ (Tib. Lehags-khang-sgo-med). Next to this
-there are four /amas held under the mountainous weight of an
-enormous Tibetan sacred book; they are being punished thus for
-having in their earth-life hurried through and skipped passages when
-reading religious texts. The triangle, in which an evil-doer is fixed,
-symbolizes the terrible Avitchi Hell, wherein one guilty of a heinous
-sin, such as using sorcery to destroy enemies or deliberate failure to
-fulfil Tantric vows, endures punishment for ages which are almost
-immeasurable. Close to the triangle, a hell-fury is pouring spoonfuls
-of molten metal into a woman condemned for prostitution. The
-person ‘next to her, bowed under the weight of a heavy rock tied to
-his back, is being punished in that manner for having killed small
-living creatures like vermin or other insects. The sinner whom
-a hell-fury is holding stretched out on a floor of spiked iron while
-another hell-fury is preparing to hack him to pieces (cf. p. 166) has
-been found guilty of another of the ten impious acts. So also has
-been the woman who is about to be sawn in two lengthwise ; her sin
-has been murder. As in Dante’s Jnferno, other evil-doers, incapable,
-as our text explains, of succumbing to the process (cf. p. 166), are
-being cooked in the iron cauldron at the lower right-hand corner.
-Three hell-furies (one brown, one yellow, one blue in the original)
-are to be seen holding by the end of nooses and leading and dragging
-along (cf. p. 166) to appropriate punishments three of the dead who
-have just been cast into Hell.
-
-At the top of the picture, in the centre, on an enhaloed lotus and
-lunar throne, with the moon (white) at his right and the sun (gold) at
-his left, presiding over all, is Dorje Chang (blue), the Divine Guru of
-the Red-Hat School ot Padma Sambhava; for he is held to be the
-Ever-living and Spiritual Source whence continue to emanate, as in
-the days of the Buddha Shakya Muni, all the Esoteric Doctrines
-
-
-ILLUSTRATIONS xxiii
-
-
-underlying the Bardo Thédol, which are referred to on pages 133 to
-134 of our translation.
-
-
-EMS LENS
-
-
-1. THE INDIAN WHEEL OF THE LAW (Dharma-Chakra)
-on back of book
-
-
-From designs sculptured on the Sanchi Topes, dating from about
-500 B.C. to 100 A. D.
-
-
-2. THE LAMAICCROSSED DORJE ._._ on front cover of book
-
-
-Symbolical of equilibrium, immutability, and almighty power.
-(Cf. pp. 63, 1161.)
-
-
-3. THE TIBETAN WHEEL OF THE LAW (Ch’os-’k’or-bskor)
-sacing p. 119
-The Eight-Spoked Wheel (cf. p. 106), on a lotus throne and
-enhaloed by Flames of Wisdom, is representative of the Thousand-
-Spoked Wheel of the Good Law of the Buddha, symbol of the
-symmetry and completeness of the Sacred Law of the Dharma, or
-Scriptures. The design at the centre, called in Tibetan rgyan-’k’yil,
-composed of three whirling segments, symbolizes—as does the
-svastika at the centre of the Indian Wheel of the Law—the Sangsara,
-or ceaseless change or ‘becoming’.
-
-
-4. THE DORJE, THE LAMAIC SCEPTRE . . facing p. 137
-
-
-A type of the Thunderbolt of Indra, the Indian Jupiter, used in
-most /amaic rituals (cf. pp. 10, 108%, 137-8, 142-5), symbolical of
-dominion over sangsaric (or worldly) existence.
-
-
-1 It should be noted that each of the dead possesses a body suited to the
-paradise realm or hell-world in which karma brings about birth ; and that when
-any of the after-human-death states of existence ends there is again a death
-process and a casting off of a body (cf. pp. 155-8, and Book II passim). The
-Bardo is the intermediate state whence one may be reborn in this world in
-a human body, or in the ghost-world in a ghost body, or in one of the paradise
-realms, such as the deva-loka, in a god body, or in the asura-loka in an asura
-body, or in one of the hells in a body capable of enduring suffering and incapable
-of dying there until the purgation is complete. Following death in a hell, or in
-any other of the after-human-death states, the normal process is to be reborn on
-earth as a human being. The True Goal, as the Bardo Thédol repeatedly
-explains, is beyond all states of embodiment, beyond all hells, worlds, and
-heavens, beyond the Sangsdra, beyond Nature; it is called Nirvana (Tib.
-Myang-hdas), See Addenda, V, pp. 224-32.
-
-
-XXiv EMBLEMS
-5. THE MANTRA OF CHENRAZEE (Avalokiteshvara)
-facing p. 167
-In Ranja or Lantsa Indian characters of about the seventh century
-A.D. Lantsa characters, slightly modified, are used in Tibetan manu-
-scripts, commonly on title-pages. In Tibetan characters the sacred
-9. a NO
-Mantra is WANA % which means literally: ‘Om! The Jewel in
-
-
-the Lotus! Him!’ (Cf. pp. 134’, 149', 206.)
-
-
-PORE WO KD
-BY SIR JOHN WooDROFFE
-
-
 THE SCIENCE OF DEATH!
 
 
@@ -1033,8 +8,7 @@ THE thought of death suggests two questions. The first
 is: ‘How may one avoid death, except when death is desired
 as in “ Death-at-will” (/chchhamrityu)?’ The avoidance of
 death is the aim when Hazhayoga is used to prolong present
-life in the flesh. This is not, in the Western sense, a ‘ yea-
-saying’ to ‘life’, but, for the time being, to a particular form
+life in the flesh. This is not, in the Western sense, a ‘ yeasaying’ to ‘life’, but, for the time being, to a particular form
 of life. Dr. Evans-Wentz tells us that according to popular
 Tibetan belief no death is natural. This is the notion of
 most, if not of all, primitive peoples. Moreover, physiology
@@ -1046,8 +20,7 @@ all, that human kind are not to cling to life on earth with
 its ceaseless wandering in the Worlds of birth and death
 (Sangsara). Rather should they implore the aid of the Divine
 Mother for a safe passing through the fearful state following
-the body’s dissolution, and that they may at length attain all-
-perfect Buddhahood.
+the body’s dissolution, and that they may at length attain allperfect Buddhahood.
 
 The second question then is: ‘ How to accept Death and
 die?’ It is with this that we are now concerned. Here the
@@ -1069,8 +42,7 @@ Xxvi FOREWORD
 
 This Book, which is of extraordinary interest, both as
 regards Text and Introduction, deals with the period (longer
-or shorter according to the circumstances) which, commenc-
-ing immediately after death, ends with ‘rebirth’. In the
+or shorter according to the circumstances) which, commencing immediately after death, ends with ‘rebirth’. In the
 Buddhists’ view, Life consists of a series of successive states
 of consciousness. The first state is the Birth-Consciousness ; the
 last is the consciousness existing at the moment of death, or
@@ -1091,8 +63,7 @@ the use of the dead, the Pretakhanda of the Hindu Garuda
 Purana, Swedenborg’s De Coelo et de Inferno, Rusca’s De
 Inferno, and several other eschatological works both ancient
 and modern. Thus, the Garuda Purana deals with the rites
-used over the dying, the death-moment, the funeral cere-
-monies, the building up, by means of the Pretashraddha rite,
+used over the dying, the death-moment, the funeral ceremonies, the building up, by means of the Pretashraddha rite,
 of a new body for the Pre¢a or deceased in lieu of that
 destroyed by fire, the Judgement, and thereafter (ch. V) the
 various states through which the deceased passes until he is
@@ -1103,8 +74,7 @@ form a very valuable contribution to the Science of Death
 from the standpoint of the Tibetan Mahayana Buddhism of
 the so-called ‘Tantrik’ type. The book is welcome not
 merely in virtue of its particular subject-matter, but because
-the ritual works of any religion enable us more fully to com-
-prehend the philosophy and psychology of the system to
+the ritual works of any religion enable us more fully to comprehend the philosophy and psychology of the system to
 which they belong.
 
 The Text has three characteristics. It is, firstly, a work on
@@ -1126,8 +96,7 @@ thereto. It is thus also a Traveller’s Guide to Other Worlds.
 
 The doctrine of ‘Reincarnation’ on the one hand and of
 ‘Resurrection’ on the other is the chief difference between
-the four leading Religions—Brahmanism, Buddhism, Chris-
-tianity, and Islam. Christianity, in its orthodox form, rejects
+the four leading Religions—Brahmanism, Buddhism, Christianity, and Islam. Christianity, in its orthodox form, rejects
 the most ancient and widespread belief of the Kziklos genesedn,
 or Sangsara, or ‘Reincarnation’, and admits one universe
 only—this, the first and last—and two lives, one here in the
@@ -1146,8 +115,7 @@ present universe is not the first and last. It is but one of an
 infinite series, without absolute beginning or end, though each
 universe of the serics appears and disappears. They also
 teach a series of successive existences therein until morality,
-devotion, and knowledge produce that high form of detach-
-ment which is the cause of Liberation from the cycle of birth
+devotion, and knowledge produce that high form of detachment which is the cause of Liberation from the cycle of birth
 and death called ‘The Wandering’ (or Sangsara). Freedom
 is the attainment of the Supreme State called the Void,
 Nirvana, and by other names. They deny that there is only
@@ -1164,8 +132,7 @@ body for enjoyment or suffering in Heaven and Hell, it is not
 a resurrected body, for the fleshly body on death is dissolved
 for ever.
 
-The need of some body always exists, except for the non-
-dualist who believes in a bodiless (Vzdeha) Liberation (AZuki2) ;
+The need of some body always exists, except for the nondualist who believes in a bodiless (Vzdeha) Liberation (AZuki2) ;
 and each of the four religions affirms that there is a subtle
 and death-surviving element—vital and psychical—in the
 physical body of flesh and blood, whether it be a permanent
@@ -1173,8 +140,7 @@ entity or Self, such as the Brahmanic Adma, the Moslem
 Ruh, and the Christian‘ Soul’, or whether it be only a complex
 of activities (or Standha), psychical and physical, with life as
 their function—a complex in continual change, and, therefore,
-a series of physical and psychical momentary states, succes-
-sively generated the one from the other, a continuous trans-
+a series of physical and psychical momentary states, successively generated the one from the other, a continuous trans-
 formation, as the Buddhists are said to hold. Thus to none
 of these Faiths is death an absolute ending, but to all it is
 only the separation of the Psyche from the gross body. The
@@ -1208,8 +174,7 @@ CONSCIOUSNESS TRANSFERENCE xxix
 
 But it is said that the chain of conscious states is not always
 broken by death, since there is Phowa, or power to project
-consciousness and enter the body of another.!' Indian occul-
-tism speaks of the same power of leaving one’s body (Svech-
+consciousness and enter the body of another.!' Indian occultism speaks of the same power of leaving one’s body (Svech-
 chhotkranti), which, according to the 7antraraja (ch. XXVII,
 vv. 45-7, 72-80), is accomplished through the operation
 (Vayudharana) of the vital activity (or Vayu) in thirty-eight
@@ -1305,24 +270,20 @@ tos CLEAR SVIGHT OF THE VOID Xxxi
 
 
 The vital current at length escapes from the place where it
-last functioned. In Yoga, thought and breathing being inter-
-dependent, exit through the Brahmarandhra connotes previous
+last functioned. In Yoga, thought and breathing being interdependent, exit through the Brahmarandhra connotes previous
 activity at the highest centre. Before such exit, and whilst
 self-consciousness lasts, the mental contents are supplied by
 the ritual, which is so designed as to secure a good death, and,
 therefore (later on), birth-consciousness.
 
-At the moment of death the empiric consciousness, or con-
-sciousness of objects, is lost. There is what is popularly called
-a ‘swoon’, which is, however, the corollary of super-conscious-
-ness itself, or the Clear Light of the Void; for the swoon is
+At the moment of death the empiric consciousness, or consciousness of objects, is lost. There is what is popularly called
+a ‘swoon’, which is, however, the corollary of super-consciousness itself, or the Clear Light of the Void; for the swoon is
 in, and of, the Consciousness as knower of objects (Viana
 Skandha). This empiric consciousness disappears, unveiling
 Pure Consciousness, which is ever ready to be ‘discovered’ by
 those who have the will to seek and the power to find It.
 
-That clear, colourless Light is a sense-symbol of the form-
-less Void, ‘beyond the Light of Sun, Moon, and Fire’, to use
+That clear, colourless Light is a sense-symbol of the formless Void, ‘beyond the Light of Sun, Moon, and Fire’, to use
 the words of the Indian Gita. It is clear and colourless, but
 mayik (or ‘form’) bodies are coloured in various ways. For
 colour implies and denotes form. The Formless is colourless.
@@ -1338,8 +299,7 @@ say that ‘ Being’, or ‘Is-ness’, is applicable even in the case
 of the Void, which is experienced as ‘is’ (astz). The Void is
 thus, in this view, the negation of all determinations, but not
 of ‘Is-ness’ as such, as has been supposed in accounts given of
-Buddhist ‘Nihilism’; but it is nothing known to finite ex-
-perience in form, and, therefore, for those who have had no
+Buddhist ‘Nihilism’; but it is nothing known to finite experience in form, and, therefore, for those who have had no
 other experience, it is no-thing.
 
 A description of Buddhist Mahayana teaching which is at
@@ -1397,23 +357,19 @@ STATE OF LIBERATION Xxxili
 
 
 the former is that which produces the pragmatic, but, in
-a transcendental sense, the ‘ unreal’ notion of self and other-
-ness. This is the root cause of error (whether in knowing,
+a transcendental sense, the ‘ unreal’ notion of self and otherness. This is the root cause of error (whether in knowing,
 feeling, or action) which becomes manifest as the ‘Six Poisons’
 (which Hindus call the ‘Six Enemies’) of the Six ZLokas of
 Sangsara (of which the Text gives five only)—pride, jealousy,
-sloth (or ignorance), anger, greed, and lust. The Text con-
-stantly urges upon the dying or ‘dead’ man to recognize in
+sloth (or ignorance), anger, greed, and lust. The Text constantly urges upon the dying or ‘dead’ man to recognize in
 the apparitions, which he is about to see or sees, the creatures
 of his own mdayd-governed mind, veiling from him the Clear
 Light of the Void. If he does so, he is liberated at any stage.
 
 This philosophical scheme has so obvious a resemblance to
 the Indian Mayavada Vedanta that the Vaishnava Padma
-Purana dubs that system ‘a bad scripture and covert Buddh-
-ism’ (mayavadam asachchastram prachchhannam bauddham).
-Nevertheless, its great scholastic, ‘the incomparable Shang-
-karacharyya’, as Sir William Jones calls him, combated the
+Purana dubs that system ‘a bad scripture and covert Buddhism’ (mayavadam asachchastram prachchhannam bauddham).
+Nevertheless, its great scholastic, ‘the incomparable Shangkaracharyya’, as Sir William Jones calls him, combated the
 Buddhists in their denial of a permanent Self (Atma), as also
 their subjectivism, at the same time holding that the notion of
 an individual self and that of a world of objects were pragmatic
@@ -1433,8 +389,7 @@ infinitely vibrant landscape in the springtide. This joyous
 picture is not, of course, a statement of what It is in itself,
 for It is not an object, but is a translation in terms of
 objective vision of a great, but, in itself, indescribable joyful
-inner experience. My attention was drawn, in this con-
-nexion, to a passage in a paper on the Avatamsaka Sutra
+inner experience. My attention was drawn, in this connexion, to a passage in a paper on the Avatamsaka Sutra
 (ch. Xv), by Mr. Hsu, a Chinese scholar, which says, ‘The
 
 
@@ -1456,33 +411,28 @@ is thus presented to him. If he does not (as is commonly
 the case), it is because the pull of worldly tendency (Sangskara)
 draws him away. He is then presented with the secondary
 Clear Light, which is the first, somewhat dimmed to him by
-the general Maya. If the mind does not find its resting-
-place here, the first or Chikhat Bardo, which may last for
+the general Maya. If the mind does not find its restingplace here, the first or Chikhat Bardo, which may last for
 several days, or ‘for the time that it takes to snap a finger’
 (according to the state of the deceased), comes to an end.
 
 In the next stage (Chinyid Bardo) there is a recovery
 of the Death-Consciousness of objects. In one sense, that
 is compared with a swoon, it is a rewakening. But it is
-not a waking-state such as existed before death. The ‘soul-
-complex’ emerges from its experience of the Void into a state
+not a waking-state such as existed before death. The ‘soulcomplex’ emerges from its experience of the Void into a state
 like that of dream. This continues until it attains a new
 fleshly body and thus really awakes to earth-life again.
 For this world-experience is life in such a body.
 
 When I first read the account of the fifteen days following
 recovery from the ‘swoon’, I thought it was meant to be
-a scheme of gradual arising of limited consciousness, ana-
-logous to that described in the thirty-six Zattvas by the
+a scheme of gradual arising of limited consciousness, analogous to that described in the thirty-six Zattvas by the
 Northern Skaivagama and its Tantras, a process which is given
 in its ritual form in the Tantrik Bhitashuddhi rite and in Laya
 or Kundalint Yoga. But on closer examination I found that
 this was not so. After the ending of the first Bardo the
-scheme commences with the complete recovery, without inter-
-mediate stages, of the Death-Consciousness. The psychic
+scheme commences with the complete recovery, without intermediate stages, of the Death-Consciousness. The psychic
 life is taken up and continued from that point, that is from
-the stage immediately prior to the ‘swoon’! Life im-
-mediately after death is, according to this view, as Spiritists
+the stage immediately prior to the ‘swoon’! Life immediately after death is, according to this view, as Spiritists
 assert, similar to, and a continuation of, the life preceding it.
 
 
@@ -1501,8 +451,7 @@ world, so that he knows no other, believing that he is still in
 the world notwithstanding his death.!
 
 Two illustrations may be given of the doctrine of the
-continuity and the similarity of experience before and im-
-mediately after death. In India, on the one hand, there
+continuity and the similarity of experience before and immediately after death. In India, on the one hand, there
 are reports of hauntings by unhappy ghosts or Prezas, which
 hauntings are said to be allayed by the performance of the
 Preta Shraddha rite at the sacred town of Gaya. On the
@@ -1518,11 +467,9 @@ their respective beliefs because of their death. Nor (in this
 view) do those who have passed on necessarily and at once
 lose any habit, even though it be drinking and smoking. But
 in the after-death state the ‘whisky and cigars’ of which we
-have heard are not gross, material things. Just as a dream re-
-produces waking experiences, so in the after-death state a man
+have heard are not gross, material things. Just as a dream reproduces waking experiences, so in the after-death state a man
 who was wont to drink and smoke imagines that he still does
-so. We have here to deal with ‘dream-whisky’ and ‘ dream-
-cigars’ which, though imaginary, are, for the dreamer, as
+so. We have here to deal with ‘dream-whisky’ and ‘ dreamcigars’ which, though imaginary, are, for the dreamer, as
 real as the substances he drank and smoked in his waking
 state.”
 
@@ -1531,8 +478,7 @@ state.”
 
 2 The editor has heard of a European planter who, having died in the
 jungles of the Malabar country of South-west India, was buried there by the
-people. Some years afterwards, a friend of the planter found the grave care-
-fully fenced in and covered with empty whisky and beer bottles. At a loss to
+people. Some years afterwards, a friend of the planter found the grave carefully fenced in and covered with empty whisky and beer bottles. At a loss to
 understand such an unusual sight, he asked for an explanation, and was told that
 the dead sahib’s ghost had caused much trouble and that no way had been
 
@@ -1568,8 +514,7 @@ all the Blessed Ones, or Zathagatas, issue. This is the body
 of a Buddhain Wirva#a. The second body, or Sambhoga-K aya,
 has such subtle form (Ra#pavan) as is visible to the Bodhisattvas,
 and is an intermediate manifestation of the Dharma-Dhatu. In
-the third body, or Wzrmdana-K aya,the Void, or State of Buddha-
-hood, is exteriorized into multiple individual appearances
+the third body, or Wzrmdana-K aya,the Void, or State of Buddhahood, is exteriorized into multiple individual appearances
 more material, and, therefore, visible to the gross senses of
 men, such as the forms in which the manifested Buddhas
 (for there are many and not, as some think, only one, or
@@ -1681,8 +626,7 @@ STATE WHEN SEEKING REBIRTH = xxxix
 
 
 a sadly corrupt form in their books—a fact which suggests
-that the Tibetans feel little appreciation of the supposed sound-
-value of Mantras. But whether their theory on this subject
+that the Tibetans feel little appreciation of the supposed soundvalue of Mantras. But whether their theory on this subject
 is the same in all respects as that of the Hindus I cannot say.!
 The Hindu theory, which I have elsewhere endeavoured to
 elucidate (cf. Garland of Letters), is still on several points
@@ -1717,19 +661,16 @@ for example, makes clear, they appear also to have derived various systems of
 Yoga from India, including Laya or Kuudalint Yoga. While it is undoubtedly
 true that many Mantras likewise derived from India have grown hopelessly
 corrupt in the Tibetan language itself, the practice of Laya or Kundalint Yoga
-by Tibetans seems to have been kept fairly pure, largely through oral trans-
-mission from guru to guru vather than through written records, except for
+by Tibetans seems to have been kept fairly pure, largely through oral transmission from guru to guru vather than through written records, except for
 Tibetanized terminologies and methods of application. Certain Tibetan treatises
-on Yoga which the editor possesses, both in the original and in English transla-
-tion, suggest this, -W. Y. E-W.
+on Yoga which the editor possesses, both in the original and in English translation, suggest this, -W. Y. E-W.
 
 
 x FOREWORD
 
 
 body of flesh and blood. He urgently desires to have one,
-in order that he may again enjoy physical life on the earth-
-world.
+in order that he may again enjoy physical life on the earthworld.
 
 The Freudian psycho-analyst will find herein a remarkable
 passage supporting his doctrine of the aversion of the son
@@ -1738,8 +679,7 @@ to be born as a male, the fecling of its being a male
 comes upon the knower, and a feeling of intense aversion
 for the father and attraction for the mother is begotten,
 and vice versa as regards birth as a female. This is,
-however, an old Buddhist doctrine found elsewhere. Pro-
-fessor De la Vallée Poussin cites the following passage:
+however, an old Buddhist doctrine found elsewhere. Professor De la Vallée Poussin cites the following passage:
 ‘L’esprit troublé par désir d’amour, il va au lieu de sa
 destingée. Méme trés éloigné, il voit, par Poeil né de la force
 de l’acte, le lieu de sa naissance; voyant la son pere et sa
@@ -1750,8 +690,7 @@ p. 25). The work cited also contains other interesting details
 concerning the embryo. (Sce, too, the same author's La
 Théorie de douze causes.)
 
-At length the deceased passes out of the Bardo dream-
-world into a womb of flesh and blood, issuing thence once
+At length the deceased passes out of the Bardo dreamworld into a womb of flesh and blood, issuing thence once
 more into the waking state of carth-experience. This is
 what in English is called Re-incarnation, or Re-birth in the
 flesh. The Sanskrit term is Sangsdra, that is, ‘rising and
@@ -1789,8 +728,7 @@ length generates a fully-formed desire or mental action. This
 last is followed by the consciousness taking up its abode
 in a suitable matrix, whence it is born again as a Birth-
 Consciousness. What is so born is not altogether different
-from what has gone before, because it is the present trans-
-formation of it; and has no other independent existence.
+from what has gone before, because it is the present transformation of it; and has no other independent existence.
 There are thus successive births of (to use Professor de
 la Vallée Poussin’s term) a ‘fluid soul-complex’, because the
 series of psychic states continues at intervals of time to
@@ -1826,8 +764,7 @@ philosophic view of the doctrine of Karma, be any ‘hold up’
 of what is a continuous life-process. Such process does
 not consist of independent sections waiting upon one another.
 And so a ‘soul-complex’ cannot be ready to reincarnate
-before the circumstances are fit for it. The law which deter-
-mines that a being shall incarnate is the same as that which
+before the circumstances are fit for it. The law which determines that a being shall incarnate is the same as that which
 provides the means and conditions by, and under, which the
 incarnation is to take place. Nor is the body of the infernal
 or celestial being gross mattcr. This is clear from the present
@@ -1838,8 +775,7 @@ the transmigration of human ‘souls’ into sub-human bodies,
 a process which this Text, exoterically viewed, seems to
 assume, and which is, as he points out, the general Hindu
 and Buddhist belief. It seems to be an irrational, though
-it may be a popular, belicf that a human ‘soul’ can per-
-manently inhabit a sub-human body as its own. For the
+it may be a popular, belicf that a human ‘soul’ can permanently inhabit a sub-human body as its own. For the
 body cannot exist in such disagreement with its occupant.
 The right doctrine appears to be that, as man has evolved
 through the lowest forms of being (Hinduism speaks of
@@ -1971,8 +907,7 @@ misinterpretation and consequent misuse, more especially by those who are
 inclined to be, for one reason or another, inimical to Buddhistic doctrines, or to
 the doctrines of his particular Sect of Northern Buddhism. He also realized
 how such an Introduction as is here presented might itself be subject to adverse
-criticism, perhaps on the ground that it appears to be the outcome of a philoso-
-phical eclecticism. However this may be, the editor can do no more than state
+criticism, perhaps on the ground that it appears to be the outcome of a philosophical eclecticism. However this may be, the editor can do no more than state
 here, as he has stated in other words in the Preface, that his aim, both herein
 and in the closely related annotations to the text itself, has been to present the
 psychology and the teachings peculiar to and related to the Bardo Thédol as he
@@ -1988,9 +923,6 @@ manner. Anthropology is concerned with things as they are ; and the hope of
 
 
 3069 B
-
-
-2 INTRODUCTION
 
 
 called, in its own language, Bardo Thédol (‘Liberation by
@@ -2036,8 +968,7 @@ Essence of Religion and the Catholicity of Faith.
 1 Mr. Talbot Mundy, in his interesting Tibetan romance Om, in making
 reference to this title, The Tibetan Book of the Dead, has taken it to be a very
 free translation of Bardo Thédol. It should not, however, so be taken; it has
-been adopted because it seems to be the most appropriate short title for convey-
-ing to the English reader the true character of the book as a whole.
+been adopted because it seems to be the most appropriate short title for conveying to the English reader the true character of the book as a whole.
 
 
 THE SYMBOLISM 3
@@ -2072,8 +1003,7 @@ have been introduced into the modern literatures of the West.”
 1L. A. Waddell, The Buddhism of Tibet or Lamatsm (London, 1895), p. 17.
 
 2 There is some sound evidence for supposing that one source of the moral
-philosophy underlying certain of the Aesop’s Fables (and, also, by way of com-
-parison, of the Indian Panchatantra and Hitopadesha) may yet be shown to have
+philosophy underlying certain of the Aesop’s Fables (and, also, by way of comparison, of the Indian Panchatantra and Hitopadesha) may yet be shown to have
 been such primitive Oriental folk-tales about animals and animal symbols as
 scholars now think helped to shape the /a@taka Tales concerning the various
 births of the Buddha (cf. The Jataka, ed. by E. B. Cowell, Cambridge, 1895-
@@ -2081,18 +1011,12 @@ births of the Buddha (cf. The Jataka, ed. by E. B. Cowell, Cambridge, 1895-
 to that found in mystery plays still flourishing under ecclesiastical patronage
 throughout Tibet and the neighbouring territories of Northern Buddhism as to
 point to another stream of Orientalism having come into Europe (cf. Three Tibetan
-Mysteries, ed. by H. 1. Woolf, London, n.d.). The apparent Romanist canoniza-
-tion of the Buddha, under the medieval character of St. Jehoshaphat, is an
+Mysteries, ed. by H. 1. Woolf, London, n.d.). The apparent Romanist canonization of the Buddha, under the medieval character of St. Jehoshaphat, is an
 additional instance of how things Eastern seem to have become things Western
-(cf. Baraldm and Yéewdséf, ed. by E. A. W. Budge, Cambridge, 1923). Further-
-more, the once very popular medieval work De Arte Moriendi (cf. The Book
+(cf. Baraldm and Yéewdséf, ed. by E. A. W. Budge, Cambridge, 1923). Furthermore, the once very popular medieval work De Arte Moriendi (cf. The Book
 of the Craft of Dying, ed. by F. M. M. Comper, London, 1917), of which there
 are many versions and variants in Latin, English, French, and other European
-languages, seems to suggest a still further infiltration of Oriental ideas, concern-
-ing death and existence after death, such as underlie both the Tibetan Bardo
-
-
-4 INTRODUCTION
+languages, seems to suggest a still further infiltration of Oriental ideas, concerning death and existence after death, such as underlie both the Tibetan Bardo
 
 
 Be this as it may, it is certain that none of the great systems
@@ -2102,11 +1026,9 @@ adequate to express transcendental doctrines or even to bring
 out the full significance of moral maxims.
 
 The lamb, the dragon (or serpent), the dove above the altar,
-the triangle enclosing the all-seeing eye (common to Free-
-masonry as well), the sacred fish-symbol, the ever-burning
+the triangle enclosing the all-seeing eye (common to Freemasonry as well), the sacred fish-symbol, the ever-burning
 fire, or the image of the risen sun upon the receptacle for the
-consecrated wafer in the Roman Mass, the architectural sym-
-bols and the orientation of church and cathedral, the cross
+consecrated wafer in the Roman Mass, the architectural symbols and the orientation of church and cathedral, the cross
 itself, and even the colours and designs of the robes of priest
 and bishop and pope, are a few of the silent witnesses of the
 survival in the modern Christian churches of the symbolism of
@@ -2156,15 +1078,13 @@ good reason—the initiate’s key.
 
 The /amas grant that the 77-Pitaka (‘Three Pitakas, or
 Baskets’ [of the Law]) are, as the Southern Buddhist holds,
-the recorded Word (or Doctrine) of the Ancients, the 7era-
-vada; but they claim that the Pztakas do not contain all the
+the recorded Word (or Doctrine) of the Ancients, the 7eravada; but they claim that the Pztakas do not contain all the
 Word, that the Pztakas lack much of the Buddha’s yogic
 teachings, and that it is chiefly these teachings which, in many
 instances, have been handed down esoterically to the present
 day. ‘Esoteric Buddhism’, as it has come to be called—
 rightly or wrongly—seems to depend in large measure upon
-‘ear-whispered ’ doctrines of this character, conveyed accord-
-ing to long-established and inviolable rule, from guru to
+‘ear-whispered ’ doctrines of this character, conveyed according to long-established and inviolable rule, from guru to
 shishya, by word of mouth alone.
 
 The Pali Canon records that the Buddha held no doctrine
@@ -2180,14 +1100,9 @@ any of the Canons. The Buddha Himself wrote down nothing
 of His teachings, and His disciples who after His death
 compiled the Buddhist Scriptures may not have recorded
 therein all that their Master taught them. If they did not,
-and there are, therefore, as the /amas contend, certain un-
-written teachings of the Buddha which have never been taught
-to those who were not of the Sazgha, then there is, un-
-doubtedly, an extra-canonical, or esoteric, Buddhism, An
+and there are, therefore, as the /amas contend, certain unwritten teachings of the Buddha which have never been taught
+to those who were not of the Sazgha, then there is, undoubtedly, an extra-canonical, or esoteric, Buddhism, An
 esoteric Buddhism thus conceived is not, however, to be
-
-
-6 INTRODUCTION
 
 
 regarded as in any wise in disagreement with canonical, or
@@ -2197,8 +1112,7 @@ of the pyramid of the whole of Buddhism.
 
 In short, the evidence adducible gives much substantial
 support to the claim of the Jamas, to whom we refer, that
-there is—as the Bardo Thodol appears to suggest—an un-
-recorded body of orally transmitted Buddhistic teachings
+there is—as the Bardo Thodol appears to suggest—an unrecorded body of orally transmitted Buddhistic teachings
 complementary to canonical Buddhism.?
 
 
@@ -2213,15 +1127,13 @@ common to Northern Buddhism and to that Higher Hinduism
 which the Hindu-born Bodhisattva Who became the Buddha
 Gautama, the Reformer of the Lower Hinduism and the
 Codifier of the Secret Lore, never repudiated, there are seven
-worlds or seven degrees of Maya? within the Sangsara,’ con-
-stituted as seven globes of a planetary chain. On each globe
+worlds or seven degrees of Maya? within the Sangsara,’ constituted as seven globes of a planetary chain. On each globe
 there are seven rounds of evolution, making the forty-nine
 (seven times seven) stations of active existence. As in the
 
 
 1 It is probably unnecessary for the editor to remind his friends who profess
-the Theravada Buddhism of the Southern School that, in preparing this Intro-
-duction, his aim has necessarily been to present Buddhism chiefly from the
+the Theravada Buddhism of the Southern School that, in preparing this Introduction, his aim has necessarily been to present Buddhism chiefly from the
 standpoint of the Northern Buddhism of the Kargyutpa Sect (see page 79), by
 which the Bardo Thédol is accepted as a sacred book and to which the translator
 belonged. Although the Southern Buddhist may not agree with the Bardo
@@ -2247,8 +1159,7 @@ THE ESOTERICISM 7
 embryonic state in the human species the foetus passes through
 every form of organic structure from the amoeba to man, the
 highest mammal, so in the after-death state, the embryonic
-state of the psychic world, the Knower or principle of con-
-sciousness, anterior to its re-emergence in gross matter, ana-
+state of the psychic world, the Knower or principle of consciousness, anterior to its re-emergence in gross matter, ana-
 logously experiences purely psychic conditions. In other
 words, in both these interdependent embryonic processes—
 the one physical, the other psychical—the evolutionary and
@@ -2265,8 +1176,7 @@ signs upon the crowns of the seven heads of the Serpent
 of Eternity of the Northern Buddhist Mysteries, originating
 in ancient India. In Hermetic writings they are the seven
 zones of after-death, or Bardo, experiences, each symbolizing
-the eruption in the Intermediate State of a particular seven-
-fold element of the complex principle of consciousness, thus
+the eruption in the Intermediate State of a particular sevenfold element of the complex principle of consciousness, thus
 giving the consciousness-principle forty-nine aspects, or fires,
 or fields of manifestation }.
 
@@ -2288,17 +1198,13 @@ internal evidence in them of their author’s intimate acquaintance with the hig
 lamaistic teachings, into which she claimed to have been initiated.
 
 
-8 INTRODUCTION
-
-
 IV. THE ESOTERIC SIGNIFICANCE OF THE FIVE ELEMENTS
 
 
 Likewise, in a very striking manner, the esoteric teachings
 concerning the Five Elements, as symbolically expounded
 in the Bardo Thédol, parallel, for the most part, certain of
-the teachings of Western Science, as the following inter-
-pretation, based upon that made by the translator himself,
+the teachings of Western Science, as the following interpretation, based upon that made by the translator himself,
 indicates:
 
 In the First Round of our Planet, one element alone—
@@ -2307,11 +1213,9 @@ with the sarmic law governing the Sangsara, or cosmos,
 assumed a rotary motion and became a blazing globular body
 of undifferentiated primeval forces, all the other elements lay
 in embryo. Life first manifested itself clothed in robes of
-fire; and man, if we conceive him as then existing, was incar-
-nate—as the Salamanders of medieval occultism were believed
+fire; and man, if we conceive him as then existing, was incarnate—as the Salamanders of medieval occultism were believed
 to be—in a body of fire. In the Second Round, as the
-Element Fire assumed definite form, the Element Air sepa-
-rated from it and enwrapped the embryonic Planet as a shell
+Element Fire assumed definite form, the Element Air separated from it and enwrapped the embryonic Planet as a shell
 covers anegg. The body of man, and of all organic creatures,
 thereupon became a compound of fire and air. In the Third
 Round, as the Planet, bathed in the Element Air and fanned
@@ -2345,26 +1249,21 @@ does not dawn, for, as the text explains, the Wisdom (or
 Bodhic) Faculty of the consciousness of the deceased has not
 been perfectly developed.
 
-The Ether Element, like the aggregate of matter (sym-
-bolical of the fire-mist), is personified in Vairochana, He
-Who in Shapes makes visible all things. The psychical attri-
-bute of the Ether Element is—to render the /amaic conception
+The Ether Element, like the aggregate of matter (symbolical of the fire-mist), is personified in Vairochana, He
+Who in Shapes makes visible all things. The psychical attribute of the Ether Element is—to render the /amaic conception
 in the language of the psychology of the West—that of the
-subconsciousness; and the subconsciousness, as a transcen-
-dental consciousness higher than the normal consciousness in
+subconsciousness; and the subconsciousness, as a transcendental consciousness higher than the normal consciousness in
 mankind, and as yet normally undeveloped, is—as the vehicle
 for the manifestation of the Bodhic Faculty—believed to be
 destined to become the active consciousness of the humanity
-of the Fifth Round. The memory-records of all past ex-
-periences throughout the many states of sazgsdric existence
+of the Fifth Round. The memory-records of all past experiences throughout the many states of sazgsdric existence
 being latent in the subconsciousness, as the Buddha’s own
 teachings imply (see pp. 40-41), the Fifth Round races in
 whom it becomes active will thus be able to recall all their
 past existences. In place of faith or mere belief, Man will
 then possess Knowledge, will come to know himself in the
 sense implied by the Mysteries of ancient Greece; he will
-realize the unreality of sangsdric existence, attaining Enlighten-
-ment and Emancipation from the Sexgsara, from all the
+realize the unreality of sangsdric existence, attaining Enlightenment and Emancipation from the Sexgsara, from all the
 Elements ; and this will come as a normal process of human
 evolution. It is, however, the aim in all schools of Indian
 and Tibetan Yoga alike—as in the Lardo Thoédol—to outstrip
@@ -2385,9 +1284,6 @@ and is then synonymous with him,
 3069 C
 
 
-10 INTRODUCTION
-
-
 Round—there are four kingdoms of living creatures: (1) those
 of the Element Fire, (2) those of the Element Air, (3) those of
 the Element Water, and (4) those of the Element Earth.
@@ -2405,8 +1301,7 @@ a Chakravartin, or Universal Emperor, God and Creator.!
 V. THE WISDOM TEACHINGS
 
 
-Also involved in symbolical language there are, as funda-
-mental occult doctrines of the Bardo Thodol, what the trans-
+Also involved in symbolical language there are, as fundamental occult doctrines of the Bardo Thodol, what the trans-
 lator called The Wisdom Teachings; and these—which are
 essential Mahayana doctrines—may be outlined as follows:
 
@@ -2414,8 +1309,7 @@ The Voidness.—In all Tibetan systems of yoga, realization
 of the Voidness (Tib. Stong-pa-iid—pron. Tong-pa-hid: Skt.
 Shinyata) is the one great aim; for to realize it is to attain
 the unconditioned Dharma-K aya, or ‘ Divine Body of Truth’
-(Tib. Chos-sku—pron. Ché-Ku), the primordial state of un-
-createdness, of the supramundane Bodhic All-Consciousness—
+(Tib. Chos-sku—pron. Ché-Ku), the primordial state of uncreatedness, of the supramundane Bodhic All-Consciousness—
 Buddhahood. Realization of the Voidness (Pali, Su##ata) is
 the aim of Theravadists too.
 
@@ -2423,8 +1317,7 @@ The Three Bodies.—The Dharma-K Gya is the highest of the
 Three Bodies (Tib. Sku-gsum—pron. K a-sum: Skt. Tri-K aya)
 of the Buddha and of all Buddhas and beings who have Perfect
 Enlightenment. The other two bodies are the Sambhoga-K aya
-or ‘Divine Body of Perfect Endowment’ (Tib. Longs-spyod-
-rzogs-sku—pron. Long-chod-zo-ku) and the Nirmana-K aya or
+or ‘Divine Body of Perfect Endowment’ (Tib. Longs-spyodrzogs-sku—pron. Long-chod-zo-ku) and the Nirmana-K aya or
 
 * Manu, in The Laws (xii. 10-11), says: ‘He, whose firm understanding
 obtains a command over his words, a command over his thoughts, and a command
@@ -2441,19 +1334,14 @@ Beatitude.’—(Cf, trans, by Sir William Jones.)
 THE WISDOM TEACHINGS i
 
 
-‘Divine Body of Incarnation’ (Tib. Spral-pahi-sku-—pron. Tul-
-pat-ku).
+‘Divine Body of Incarnation’ (Tib. Spral-pahi-sku-—pron. Tulpat-ku).
 
-The Dharma-Kaya is symbolized—for all human word-
-concepts are inadequate to describe the Qualityless—as an
-_infinite ocean, calm and without a wave, whence arise mist-
-clouds and rainbow, which symbolize the Sambhoga-Kaya;
-and the clouds, enhaloed in the glory of the rainbow, con-
-densing and falling as rain, symbolize the Mzrmana-K aya
+The Dharma-Kaya is symbolized—for all human wordconcepts are inadequate to describe the Qualityless—as an
+_infinite ocean, calm and without a wave, whence arise mistclouds and rainbow, which symbolize the Sambhoga-Kaya;
+and the clouds, enhaloed in the glory of the rainbow, condensing and falling as rain, symbolize the Mzrmana-K aya
 
 The Dharma-K aya is the primordial, formless Bohdz, which
-is true experience freed from all error or inherent or acci-
-dental obscuration. In it lies the essence of the Universe,
+is true experience freed from all error or inherent or accidental obscuration. In it lies the essence of the Universe,
 including both Saugsaéra and Nirvana, which, as states or
 conditions of the two poles of consciousness, are, in the last
 analysis, in the realm of the pure intellect, identical.
@@ -2483,8 +1371,7 @@ base one (that is, Shinyala|, with two Paths [Avidyd, Ignorance, and Vidya,
 Knowledge] and two ends [Sangsdra and Mirvana).’ ... ‘The Foundation
 of all is uncreated and independent, uncompounded and beyond mind and
 speech, Of It neither the word Mirvana nor Sangsara may be said ’—The Good
-Wishes of the Adi-Buddha, 1-2 (cf. the late Lama Kazi Dawa-Samdup’s transla-
-tion, TZantnk Texts, vol, vii, London, 1919). The Skinyatd, the Void, synony-
+Wishes of the Adi-Buddha, 1-2 (cf. the late Lama Kazi Dawa-Samdup’s translation, TZantnk Texts, vol, vii, London, 1919). The Skinyatd, the Void, synony-
 mous with the Dharma-Kaya, is thus beyond all mental concepts, beyond the
 finite mind with all its imaginings and use of such ultimate terms of the dualistic
 world as Nirvana and Sangsara.
@@ -2494,20 +1381,15 @@ world as Nirvana and Sangsara.
 Ashvaghosha, the great philosopher of Mahayana Buddhism (see pp. 225-6),
 
 
-12 INTRODUCTION
-
-
 The Uncreated, the Unshaped, the Unmodified is the
-Dharma-Kaya. The Offspring, the Modification of the Un-
-modified, the manifestation of all perfect attributes in one
+Dharma-Kaya. The Offspring, the Modification of the Unmodified, the manifestation of all perfect attributes in one
 body, is the Sambhoga-Kaya: ‘The embodiment of all
 that is wise, merciful and loving in the Dharma-Kaya—
 as clouds on the surface of the heavens or a rainbow on
 the surface of the clouds—is said to be Sambhoga-Kaya’.
 The condensation and differentiation of the One Body as
 many is the Mirmana-Kdaya, or the Divine Incarnations
-among sentient beings, that is to say, among beings im-
-mersed in the Illusion called Sangsa@ra, in phenomena, in
+among sentient beings, that is to say, among beings immersed in the Illusion called Sangsa@ra, in phenomena, in
 worldly existence. All enlightened beings who are reborn
 in this or in any other world with full consciousness, as workers
 for the betterment of their fellow creatures, are said to be
@@ -2523,8 +1405,7 @@ has explained the 777-Kaya Doctrine in The Awakening of Faith, translation by
 T. Suzuki (Chicago, 1900, pp. 99-103), as follows :
 
 ‘Because All Tathagatas are the Dharmakaya itself, are the highest truth
-(paramarthasatya) itself, and have nothing to do with conditionality (samuritts-
-satya) and compulsory actions; whereas the secing, hearing, &c. [i.e. the
+(paramarthasatya) itself, and have nothing to do with conditionality (samurittssatya) and compulsory actions; whereas the secing, hearing, &c. [i.e. the
 particularizing scnses], of the sentient being diversify [on its own account] the
 activity of the Tathagatas.
 
@@ -2575,8 +1456,7 @@ teachings.
 
 The opinion commonly held by men not initiated into the
 higher /amaic teachings, that Northern Buddhism recognizes
-in the Primordial or Adi-Buddha a Supreme Deity, is ap-
-parently erroneous. The translator held that the Adi-Buddha,
+in the Primordial or Adi-Buddha a Supreme Deity, is apparently erroneous. The translator held that the Adi-Buddha,
 and all deities associated with the Dharma-K aya, are not to
 be regarded as personal deities, but as Personifications of
 primordial and universal forces, laws, or spiritual influences,
@@ -2601,9 +1481,6 @@ self-existing, immaterial, and indestructible.’
 Thus, the 777-Kaya symbolizes the Esoteric Trinity of
 
 
-14 INTRODUCTION
-
-
 the higher Buddhism of the Northern School; the Exoteric
 Trinity being, as in the Southern School, the Buddha, the
 Dharma (or Scriptures), the Saxgha (or Priesthood). Regarded
@@ -2618,8 +1495,7 @@ having been transmitted by along and unbroken line of initiates,
 some Indian, some Tibetan, direct from the days of the Buddha.
 He considered that the Buddha, having re-discovered it,
 was merely its Transmitter from preceding Buddhas; that
-it was handed on orally, from guru to guru, and not com-
-mitted to writing until comparatively recent times, when
+it was handed on orally, from guru to guru, and not committed to writing until comparatively recent times, when
 Buddhism began to decay, and there were not always
 sufficient living gurus to transmit it in the old way. The
 theory of Western scholars, that simply because a doctrine
@@ -2667,8 +1543,7 @@ which is spiritual emancipation through Desirelessness.
 The Five Wisdoms.—As the All-Pervading Voidness, the
 Dharma-K aya is the shape (which is shapelessness) of the Body
 of Truth; the Thatness constituting it is the Dharma-Dhatu
-(Tib. Chos-kyt-dvyings—pron. Ché-kyi-ing), the Seed or Poten-
-tiality of Truth ; and this dawns on the First Day of the Bardo
+(Tib. Chos-kyt-dvyings—pron. Ché-kyi-ing), the Seed or Potentiality of Truth ; and this dawns on the First Day of the Bardo
 . as the glorious blue light of the Dhyani Buddha Vairochana,
 the Manifester, ‘He Who in Shapes Makes Visible’ [the
 universe of mattcr]. The Dharma-Dhatu is symbolized as
@@ -2681,19 +1556,14 @@ operate—the Bondage, emancipation from which is Vzrvdua.
 When in man, made as perfect as human life can make him,
 the stupidity of his animal nature and the illusion of shape, or
 personality, are transmuted into Right Knowledge, into Divine
-Wisdom, there shines forth in his consciousness the All-Per-
-vading Wisdom of the Dharma-Dhatu, or the Wisdom born
+Wisdom, there shines forth in his consciousness the All-Pervading Wisdom of the Dharma-Dhatu, or the Wisdom born
 of the Voidness, which is all-pervading.
 
 As the Aggregate of Matter, dawning in the Bardo of the
 First Day, produces physical bodies, so the Water-Element,
 dawning on the Second Day, produces the life-stream, the
 blood; Anger is the obscuring passion, consciousness is the
-aggregate, and these, when transmuted, become the Mirror-
-like Wisdom, personified in Vajra-Sattva (the Sambhoga-K aya
-
-
-16 INTRODUCTION
+aggregate, and these, when transmuted, become the Mirrorlike Wisdom, personified in Vajra-Sattva (the Sambhoga-K aya
 
 
 reflex of the Dhyani Buddha Akshobhya), the ‘Triumphant
@@ -2706,8 +1576,7 @@ is Touch; and these, when divinely transmuted, become the
 Wisdom of Equality, personified in Ratna-Sambhava, the
 ‘Gem-born One’, the Beautifier.
 
-The Fire-Element of the Fourth Day, producing the animal-
-heat of embodied human and animal beings, gives rise to the
+The Fire-Element of the Fourth Day, producing the animalheat of embodied human and animal beings, gives rise to the
 passion of Attachment, or Lust, and the Aggregate of Feelings.
 Herein the transmutation gives birth to the All-Discriminating
 Wisdom, which enables the devotee to know each thing
@@ -2718,8 +1587,7 @@ or Enlightener.
 The Element Air, of the Fifth Day, produces the breath of
 life. Its quality, or passions, in man is Envy, or Jealousy.
 Its aggregate is Volition. The transmutation is into the
-All-Performing Wisdom, which gives perseverance and un-
-erring action in things spiritual, personified in Amogha-Siddhi,
+All-Performing Wisdom, which gives perseverance and unerring action in things spiritual, personified in Amogha-Siddhi,
 the ‘Almighty Conqueror’, the Giver of Divine Power.
 
 As explained above, in Section IV, the last Element, Ether,
@@ -2730,11 +1598,9 @@ of the Consciousness, that is to say, the supramundane
 Buddha (or Bodhic) consciousness, has not been developed
 in the ordinary humanity. To it is related—as in our text—
 Vajra-Sattva and the Mirror-like Wisdom and the Aggregate
-of Bodhic Wisdom, Vajra-Sattva being then synonymous, eso-
-terically, with Samanta-Bhadra (who, in turn, is often personi-
+of Bodhic Wisdom, Vajra-Sattva being then synonymous, esoterically, with Samanta-Bhadra (who, in turn, is often personi-
 ficd in Vairochana, the Chief of the Five Dhyani Buddhas),
-the Adi-Buddha, the Primordial, the Unborn, Unshaped, Un-
-modified Dharma-K aya.
+the Adi-Buddha, the Primordial, the Unborn, Unshaped, Unmodified Dharma-K aya.
 
 When the perfection of the Divine Body-Aggregate is
 attained by man, it becomes the unchanging, immutable
@@ -2746,8 +1612,7 @@ THE WISDOM TEACHINGS 1.
 
 Principle is attained, with it comes the power of divine
 speech, symbolized by Amitabha. The perfection of the
-Divine Thought-Principle brings divine infallibility, symbo-
-lized by Vairochana. The perfection of the Divine Qualities
+Divine Thought-Principle brings divine infallibility, symbolized by Vairochana. The perfection of the Divine Qualities
 of Goodness and Beauty is the realization of Ratna-Sambhava,
 their producer. With the perfection of Divine Actions comes
 the realization of Amogha-Siddhi, the Omnipotent Conqueror.
@@ -2790,9 +1655,6 @@ interpreted. The last Sections, XIII to XV, will be devoted
 3069 D
 
 
-18 INTRODUCTION
-
-
 to a consideration of our manuscript, its history, the origin of
 the Bardo Thédol texts, and our translating and editing.
 
@@ -2813,21 +1675,18 @@ upon the complete separation of the Bardo body from its
 earth-plane counterpart, shall not be interfered with. It is
 commonly held that normally the process takes from three
 and one-half to four days, unless assisted by a priest called
-the Zpho-bo (pron. pho-o) or ‘extractor of the consciousness-
-principle’; and that, even if the priest be successful in the
+the Zpho-bo (pron. pho-o) or ‘extractor of the consciousnessprinciple’; and that, even if the priest be successful in the
 extracting, the deceased ordinarily does not wake up to the
 fact of being separated from the human body until the said
 period of time has expired.
 
 The %pho-b0, upon his arrival, takes a seat on a mat or
-chair at the head of the corpse; he dismisses all lament-
-making relatives from the death-chamber and orders its doors
+chair at the head of the corpse; he dismisses all lamentmaking relatives from the death-chamber and orders its doors
 and windows to be closed, so as to secure the silence necessary
 for the right performance of the Zpo-bo service. This consists
 of a mystic chant containing directions for the spirit of the
 deceased to find its way to the Western Paradise of Amitabha,
-and thus escape—if karma permits—the undesirable Inter-
-mediate State. After commanding the spirit to quit the body
+and thus escape—if karma permits—the undesirable Intermediate State. After commanding the spirit to quit the body
 and its attachment to living relatives and goods, the /ama
 examines the crown of the head of the corpse at the line of
 the sagittal suture, where the two parietal bones articulate,
@@ -2857,14 +1716,12 @@ that in which mummies and skeletons have been found in
 ancient graves or tombs in various parts of the world, and
 sometimes called the embryonic posture, symbolical of being
 born out of this life into the life beyond death. The corpse,
-so postured, is then placed in one of the corners of the death-
-chamber which has not been assigned to the household daemon.
+so postured, is then placed in one of the corners of the deathchamber which has not been assigned to the household daemon.
 
 Relatives and friends, having been notified of the death,
 gather together at the house of the deceased; and there they
 are fed and lodged until the corpse is disposed of. If doubt
-exists concerning the complete separation of the conscious-
-ness-principle (or spirit) of the deceased from the body, there is
+exists concerning the complete separation of the consciousness-principle (or spirit) of the deceased from the body, there is
 not likely to be any disposal of the corpse until three and
 one-half to four days after the time of the death. So long as
 the entertaining of the mourners continues—usually for not
@@ -2883,22 +1740,17 @@ Whilst the funeral rites—including the reading of the Bardo
 Thidol—are being performed, in the house of the deceased or
 
 
-20 INTRODUCTION
-
-
 at the place of death, other /amas chant by relays, all day and
 night, the service for assisting the spirit of the deceased to
 reach the Western Paradise of Amitabha, In Tibetan, this
-service (which the 4pho-0 also chants) is called De-qwa-chan-
-kyi-mon-lam. Wf the family be well-to-do, another service of
+service (which the 4pho-0 also chants) is called De-qwa-chankyi-mon-lam. Wf the family be well-to-do, another service of
 like nature may be performed at the temple wherein the
 deceased used to worship, by all of the monks of the temple
 assembled.
 
 After the funeral, the /amas who read the Bardo Thodot
 return to the house of death once a week until the forty-ninth
-day of the Intermediate State has ended. It is not un-
-common, however, for them to intermit one day of the first
+day of the Intermediate State has ended. It is not uncommon, however, for them to intermit one day of the first
 week and of each of the succeeding periods in order to shorten
 the service, so that they return after six, five, four, three, two,
 and one day respectively, thereby concluding the reading in
@@ -2909,8 +1761,7 @@ of Book One of our text suggests, the Chonyid Bardo is to be
 read and re-read, and from the Fifteenth Day onwards the
 Sidpa Bardo. In poorer families the rites may cease after
 the Fourteenth Day ; for families in better circumstances It is
-usual in Sikkim to continue the rites at least until the expira-
-tion of the twenty-one-day period and sometimes during the
+usual in Sikkim to continue the rites at least until the expiration of the twenty-one-day period and sometimes during the
 whole period of the Forty-nine Days of the Bardo. On the
 first day of the funeral rites, if the deceased were a man
 of wealth or position, as many as one hundred Jamas may
@@ -2943,9 +1794,6 @@ THE EFFIGY OF THE DEAD PERSON
 (1. Mirror, 2. Conch, 3. Lyre. 4. Vase with flowers. 5. Holy Cake.)
 
 
-22 INTRODUCTION
-
-
 In this spyang-pu, the central figure represents the deceased
 with legs bound and in an attitude of adoration, surrounded
 by symbols of ‘ the five excellent sensuous things’: (1) a mirror
@@ -2956,8 +1804,7 @@ and a lyre (numbered 3), symbolical of sound; (3) a vase of
 flowers (numbered 4), symbolical of smell; (4) holy cakes in a
 receptacle like that employed at the Roman Catholic Eucharist
 (numbered 5), symbolical of essence or nutriment, and of
-taste ; (5) the silk clothes of the central figure and the over-
-hanging royal canopy, symbolical of dress and ornamental
+taste ; (5) the silk clothes of the central figure and the overhanging royal canopy, symbolical of dress and ornamental
 art, and of the sense of touch. It is before such a paper
 figure, inserted in the effigy as a head and face, that the food
 offerings to the spirit of the deceased continue to be made,
@@ -2998,8 +1845,7 @@ mouth and eyes’ and the restoration of the use of all other
 parts of the body. Likewise, the /amas’ aim, at the outset, is
 to restore complete consciousness to the deceased after the
 swoon-state immediately following death, and to accustom
-him to the unfamiliar environment of the Otherworld, assum-
-ing that he be, like the multitude, one of the unenlightened,
+him to the unfamiliar environment of the Otherworld, assuming that he be, like the multitude, one of the unenlightened,
 and thus incapable of immediate emancipation.
 
 In conformity with our own view, that that part of the
@@ -3009,18 +1855,15 @@ pre-Buddhist, probably very ancient, times, Dr. L. A. Waddell
 writes of it as follows: ‘ This is essentially a B6n rite, and is
 referred to as such in the histories of Gurz Padma Sambhava,
 as being practised by the Bén [i.e. the religion prevalent in
-Tibet before the advent of Buddhism, and, in its transcen-
-dentalism, much like Taoism], and as having incurred the
+Tibet before the advent of Buddhism, and, in its transcendentalism, much like Taoism], and as having incurred the
 displeasure of the Guru Padma Sambhava, the founder of
 Lamaism.’
 
-Of the spyang-pu itself, Dr. Waddell adds: ‘Its inscrip-
-tion [as in our copy above] usually runs :
+Of the spyang-pu itself, Dr. Waddell adds: ‘Its inscription [as in our copy above] usually runs :
 
 
 ‘T, the world-departing One,... (and here is inserted the
-name of the deceased), adore and take refuge in my /a@ma-
-confessor, and all the deities, both mild [translated by us as
+name of the deceased), adore and take refuge in my /a@maconfessor, and all the deities, both mild [translated by us as
 “peaceful” ] and wrathful;1 and [may] “the Great Pitier”?
 forgive my accumulated sins and impurities of former lives,
 and show me the way to another good world!’
@@ -3038,9 +1881,6 @@ he has much in common.’—L, A. Waddell.
 
 3 Our translation is based upon that made by Dr. Waddell; cf. Gazetteer of
 Sikhim, pp. 387-8.
-
-
-24 INTRODUCTION
 
 
 copies, are inscribed phonetic symbols referring to the six
@@ -3062,8 +1902,7 @@ the hell-world.?
 
 
 At the termination of the funeral rites the spyang-pu or
-face-paper is ceremoniously burned in the flame of a butter-
-lamp, and the spirit of the deceased given a final farewell.
+face-paper is ceremoniously burned in the flame of a butterlamp, and the spirit of the deceased given a final farewell.
 By the colour of the flame and the way in which the flame
 acts the after-death fate which the deceased has met with is
 determined.
@@ -3086,8 +1925,7 @@ given and the service of the Medical Buddhas is performed.?
 Thereafter, a widow of the deceased is free to remarry.®
 
 Connected with the Tibetan funeral itself there is much
-interesting ritual. Thus, when the officiating /ama is pre-
-paring to assist at the removal of the corpse from the house,
+interesting ritual. Thus, when the officiating /ama is preparing to assist at the removal of the corpse from the house,
 
 
 1 Cf. Waddell, Gazetteer of Sikhim, p. 388.
@@ -3148,28 +1986,21 @@ corpse be that of a nobleman, whose family can well afford
 3069 E
 
 
-26 INTRODUCTION
-
-
 a funeral pyre, it may be cremated. In some remote districts
 earth burial is customary; and it is commonly employed
 everywhere when death has been caused by a very contagious
-and dangerous disease, like small-pox for example. Other-
-wise, Tibetans generally object to earth burial, for they
+and dangerous disease, like small-pox for example. Otherwise, Tibetans generally object to earth burial, for they
 believe that when a corpse is interred the spirit of the
 deceased, upon seeing it, attempts to re-enter it, and that
-if the attempt be successful a vampire results, whereas crema-
-tion, or other methods of quickly dissipating the elements
+if the attempt be successful a vampire results, whereas cremation, or other methods of quickly dissipating the elements
 of the dead body, prevent vampirism. Sometimes, too, as
 among the Hindus, corpses are cast into rivers or other
 bodies of water. In the case of the Dalai Lama and the
-Tashi Lama, and of some very great man or saint, em-
-balming is practised; and the corpse, in a way somewhat
+Tashi Lama, and of some very great man or saint, embalming is practised; and the corpse, in a way somewhat
 resembling the ancient Egyptian embalming process, is packed
 in a box of marsh salt, usually for about three months, or
 until the salt has absorbed all the watery parts of the corpse.
-Then, after the corpse is well cured, it is coated with a cement-
-like substance made of clay, pulverized sandal-wood, spices,
+Then, after the corpse is well cured, it is coated with a cementlike substance made of clay, pulverized sandal-wood, spices,
 and drugs. This adheres and hardens; and all the sunken or
 shrivelled parts of the body, such as the eyes, cheeks, and
 stomach, having been rounded out by it to their natural
@@ -3200,8 +2031,7 @@ THE DEATH CEREMONIES 27
 
 books of the Hindus: a human body is said to consist of four
 elements,—earth, water, air, and fire,—and it should be returned
-to these elements as quickly as possible. Cremation is con-
-sidered the best method to adopt. Earth-burial, as among
+to these elements as quickly as possible. Cremation is considered the best method to adopt. Earth-burial, as among
 Christians also, is the returning of the body to the element
 Earth; water-burial is the returning of the body to the element
 Water, air-burial, to the element Air—the birds which devour
@@ -3229,8 +2059,7 @@ above.
 
 Both in Sikkim and in Tibet every funeral is conducted
 in strict accordance with the directions which have been
-given by the astrologer who cast the death-horoscope, in-
-dicating who shall touch or handle the corpse, who shall
+given by the astrologer who cast the death-horoscope, indicating who shall touch or handle the corpse, who shall
 carry it, and the form of the burial. The astrologer also
 declares what kind of evil spirit caused the death, for in
 popular belief—as also among the Celtic peoples of Europe—
@@ -3243,19 +2072,14 @@ too, what ceremonies are necessary to exorcize the death-demon
 being regarded as unclean, are ordinarily shunned by other Tibetans.
 
 
-28 INTRODUCTION
-
-
 from the house of death, what special rituals need to be read
 for the benefit of the spirit of the deceased, the precautions
 necessary to secure for the deceased a good rebirth, and the
 country and sort of family in which the rebirth will occur.
 
-In Sikkim, on the space of ground levelled for the funeral-
-pyre, a mystic diagram, symbolical of the Happy Realm of
+In Sikkim, on the space of ground levelled for the funeralpyre, a mystic diagram, symbolical of the Happy Realm of
 Sukhavati, or the Red Western Realm of Happiness (see
-text, p. 113), is outlined with flour and divided into com-
-partments, the central space (upon which the funeral-pyre
+text, p. 113), is outlined with flour and divided into compartments, the central space (upon which the funeral-pyre
 is built) being dedicated to the Dhyani Buddha Amitabha.
 At the beginning of the cremation ceremonies the chief dama
 visualizes the funeral-pyre as being the mandala of Amitabha,
@@ -3290,8 +2114,7 @@ or sometimes four days afterwards, the Knower, or principle of
 
 * Bar-do literally means ‘between (Bar) two (do)’, i.e. ‘between two
 [states |’—the state between death and rebirth—and, therefore, ‘ Intermediate’
-or ‘Transitional (State}]’. The translator, in certain instances, favoured ‘ Un-
-certain {State]’ as its English rendering. It might also be rendered as
+or ‘Transitional (State}]’. The translator, in certain instances, favoured ‘ Uncertain {State]’ as its English rendering. It might also be rendered as
 ‘ Twilight [State]’.
 
 
@@ -3310,8 +2133,7 @@ of the unmodified mind concomitant with it, perceives it
 karmically obscured, which is its secondary aspect. When
 the First Bardo ends, the Knower, awakening to the fact that
 death has occurred, begins to experience the Second Bardo,
-called the Chonyid Bardo (Tib. Chés-nyid Bar-do), or ‘ Transi-
-tional State of [the Experiencing or Glimpsing of] Reality’ ;
+called the Chonyid Bardo (Tib. Chés-nyid Bar-do), or ‘ Transitional State of [the Experiencing or Glimpsing of] Reality’ ;
 and this merges into the Third Bardo, called the Sidpa (or
 Sidpat) Bardo (Tib. Srid-pahi Bar-do), or ‘ Transitional State
 of [or while seeking] Rebirth’, which ends when the principle
@@ -3325,8 +2147,7 @@ another, until the Third Bardo ends. On his awakening in
 the Second Bardo, there dawn upon him in symbolic visions,
 one by one, the hallucinations created by the £armic reflexes
 of actions done by him in the earth-plane body. What he
-has thought and what he has done become objective: thought-
-forms, having been consciously visualized and allowed to take
+has thought and what he has done become objective: thoughtforms, having been consciously visualized and allowed to take
 root and grow and blossom and produce, now pass in
 a solemn and mighty panorama, as the consciousness-content
 of his personality.
@@ -3344,21 +2165,16 @@ person when deceased will have visions more like those described in the Sidpa
 Bardo.
 
 
-30 INTRODUCTION
-
-
 he is deceased he still possesses a body like the body of
 flesh and blood. When he comes to realize that really he has
 no such body, he begins to develop an overmastering desire
 to possess one; and, seeking for one, the karmic predilection
 for sangsaric existence naturally becoming all-determining, he
-enters into the Third Bardo of seeking Rebirth, and even-
-tually, with his rebirth in this or some other world, the
+enters into the Third Bardo of seeking Rebirth, and eventually, with his rebirth in this or some other world, the
 after-death state comes to an end.
 
 For the commonalty, this is the normal process; but for
-those very exceptional minds, possessed of great yogic know-
-ledge and enlightenment, only the more spiritual stages
+those very exceptional minds, possessed of great yogic knowledge and enlightenment, only the more spiritual stages
 of the Bardo of the first few days will be experienced ; the
 most enlightened of yogis may escape all of the Bardo, passing
 into a paradise realm, or else reincarnating in this world as
@@ -3400,8 +2216,7 @@ Vill. THE PSYCHOLOGY OF THE BARDO VISIONS
 Definite psychological significance attaches to each of the
 deities appearing in the Bardo Thédol; but, in order to grasp
 it, the student must bear in mind that—as suggested above—
-the apparitional visions seen by the deceased in the Inter-
-mediate State are not visions of reality, but nothing more
+the apparitional visions seen by the deceased in the Intermediate State are not visions of reality, but nothing more
 than the hallucinatory embodiments of the thought-forms
 born of the mental-content of the percipient; or, in other
 words, they are the intellectual impulses which have assumed
@@ -3418,33 +2233,24 @@ world has just been severed; the deceased has left relatives
 and friends behind, works unaccomplished, desires unsatisfied,
 and, in most cases, he possesses a strong yearning to recover
 the lost opportunity afforded by human embodiment for
-spiritual enlightenment. But, in all his impulses and yearn-
-ings, karma is all-masterful; and, unless it be his Larmzc lot
+spiritual enlightenment. But, in all his impulses and yearnings, karma is all-masterful; and, unless it be his Larmzc lot
 to gain liberation in the first stages, he wanders downwards
-into the stages wherein the heart-impulses give way to prain-
-impulses.
+into the stages wherein the heart-impulses give way to prainimpulses.
 
 Whereas the Peaceful Deities are the personifications of the
-feelings, the Wrathful Deities (Tib. Z’o-wo) are the personi-
-fications of the reasonings and proceed from the psychic
+feelings, the Wrathful Deities (Tib. Z’o-wo) are the personifications of the reasonings and proceed from the psychic
 brain-centre. Yet, just as impulses arising in the heart-centre
-may transform themselves into the reasonings of the brain-
-centre, so the Wrathful Deities are the Peaceful Deities in a
+may transform themselves into the reasonings of the braincentre, so the Wrathful Deities are the Peaceful Deities in a
 changed aspect.
 
-As the intellect comes into activity, after the sublime heart-
-born impulses subside, the deceased begins to realize more
+As the intellect comes into activity, after the sublime heartborn impulses subside, the deceased begins to realize more
 and more the state in which he is; and with the supernormal
 faculties of the Bardo-body which he begins to make use of—
 
 
-32 INTRODUCTION
-
-
 in much the same manner as an infant new-born in the human
 world begins to employ the human plane sense-faculties—he is
-enabled to think how he may win this or that state of exis-
-tence. Karma is, however, still his master, and defines his
+enabled to think how he may win this or that state of existence. Karma is, however, still his master, and defines his
 limitations. As on the human plane the sentimental impulses
 are most active in youth and often lost in mature life, wherein
 reason commonly takes the place of them, so on the after-death
@@ -3457,18 +2263,14 @@ is inseparably related, for through him, as being the microcosm of
 the macrocosm, penetrate all impulses and forces, good and bad
 alike. Samanta-Bhadra, the All-Good, thus personifies Reality,
 the Primordial Clear Light of the Unborn, Unshaped Dharma-
-Kaya (cf. p. 95). Vairochana is the Originator of all pheno-
-mena, the Cause of all Causes. As the Universal Father,
+Kaya (cf. p. 95). Vairochana is the Originator of all phenomena, the Cause of all Causes. As the Universal Father,
 Vairochana manifests or spreads forth as seed, or semen, all
 things; his skaktz, the Mother of Great Space, is the Universal
-Womb into which the seed falls and evolves as the world-
-systems. Vajra-Sattva symbolizes Immutability. Ratna-
+Womb into which the seed falls and evolves as the worldsystems. Vajra-Sattva symbolizes Immutability. Ratna-
 Sambhava is the Beautifier, the Source of all Beauty in the
 Universe. Amitabha is Infinite Compassion and Love Divine,
-the Christos. Amogha-Siddhi is the personification of Al-
-mighty Power or Omnipotence. And the minor dcities,
-heroes, dakinis (or ‘ fairies’), goddesses, lords of death, rak-
-shasas, demons, spirits, and all others, correspond to definite
+the Christos. Amogha-Siddhi is the personification of Almighty Power or Omnipotence. And the minor dcities,
+heroes, dakinis (or ‘ fairies’), goddesses, lords of death, rakshasas, demons, spirits, and all others, correspond to definite
 human thoughts, passions, and impulses, high and low, human
 and sub-human and superhuman, in karmic form, as they
 take shape from the seeds of thought forming the percipient’s
@@ -3509,13 +2311,11 @@ nature, they terrify him, and he wishes to flee from them; but,
 alas, as the text explains, they are inseparable from himself, and
 to whatsoever place he may wish to flee they will follow him.
 
-It is not necessary to suppose that all the dead in the Inter-
-mediate State experience the same phenomena, any more
+It is not necessary to suppose that all the dead in the Intermediate State experience the same phenomena, any more
 than all the living do in the human world, or in dreams. The
 Bardo Thodol is merely typical and suggestive of all after.
 death experiences. It merely describes in detail what is
-assumed will be the Bardo visualizations of the consciousness-
-content of the ordinary devotee of the Red Hat School of
+assumed will be the Bardo visualizations of the consciousnesscontent of the ordinary devotee of the Red Hat School of
 Padma Sambhava. As a man is taught, so he believes.
 Thoughts being things, they may be planted like seeds in the
 mind of the child and completely dominate his mental content.
@@ -3527,13 +2327,9 @@ and make the man what he is mentally.
 Accordingly, for a Buddhist of some other School, as for
 a Hindu, or a Moslem, or a Christian, the Bardo experiences
 would be appropriately different: the Buddhist’s or the Hindu’s
-thought-forms, as in a dream state, would give rise to corre-
-sponding visions of the deities of the Buddhist or Hindu
+thought-forms, as in a dream state, would give rise to corresponding visions of the deities of the Buddhist or Hindu
 
 3089 ¥F
-
-
-34 INTRODUCTION
 
 
 pantheon; a Moslem’s, to visions of the Moslem Paradise ;
@@ -3541,8 +2337,7 @@ a Christian’s, to visions of the Christian Heaven, or an
 American Indian’s to visions of the Happy Hunting Ground.
 And, similarly, the materialist will experience after-death
 visions as negative and as empty and as deityless as any
-he ever dreamt while in the human body. Rationally con-
-sidered, each person’s after-death experiences, as the Bardo
+he ever dreamt while in the human body. Rationally considered, each person’s after-death experiences, as the Bardo
 Thodol teaching implies, are entirely dependent upon his or
 her own mental content. In other words, as explained above,
 the after-death state is very much like a dream state, and its
@@ -3564,8 +2359,7 @@ therefore, in the main, scientific. It asserts repeatedly that
 what the percipient on the Bardo plane sees is due entirely
 to his own mental-content ; that there are no visions of gods
 or of demons, of heavens or of hells, other than those born of
-the hallucinatory karmic thought-forms constituting his per-
-sonality, which is an impermanent product arising from the
+the hallucinatory karmic thought-forms constituting his personality, which is an impermanent product arising from the
 thirst for existence and from the will to live and to believe.
 
 From day to day the Bardo visions change, concomitant
@@ -3573,8 +2367,7 @@ with the eruption of the thought-forms of the percipient,
 until their karmic driving force exhausts itself; or, in other
 words, the thought-forms, born of habitual propensities, being
 mental records comparable as has already been suggested to
-records on a cinema-film, their reel running to its end, the after-
-death state ends, and the Dreamer, emerging from the womb,
+records on a cinema-film, their reel running to its end, the afterdeath state ends, and the Dreamer, emerging from the womb,
 begins to experience anew the phenomena of the human
 world.
 
@@ -3615,8 +2408,7 @@ Raja), the Buddhist and Hindu Pluto, as a Judge of the
 Dead, corresponds to Osiris in the Egyptian version. In
 both versions alike there is the symbolical weighing: before
 Dharma-Raja there are placed on one side of the balance
-black pebbles and on the other side white pebbles, sym-
-bolizing evil and good deeds; and similarly, before Osiris,
+black pebbles and on the other side white pebbles, symbolizing evil and good deeds; and similarly, before Osiris,
 the heart and the feather (or else in place of the feather an
 image of the Goddess of Truth which it symbolizes) are weighed
 one against the other, the heart representing the conduct or
@@ -3627,17 +2419,13 @@ In the Egyptian Book of the Dead, the deceased, addressing
 his heart, says: ‘Raise not thyself in evidence against me.
 
 
-36 INTRODUCTION
-
-
 Be not mine adversary before the Divine Circle; let there
 be no fall of the scale against me in the presence of the great
 god, Lord of Amenta.’ In the Egyptian Judgement Scene it
 is the ape-headed (less commonly the ibis-headed) Thoth,
 god of wisdom, who supervises the weighing; in the Tibetan
 Judgement Scene it is the monkey-headed Shinje ; and in both
-scenes there is the jury of deities looking on, some animal-
-headed, some human-headed.1_ In the Egyptian version there
+scenes there is the jury of deities looking on, some animalheaded, some human-headed.1_ In the Egyptian version there
 is a monstrous creature waiting to devour the deceased should
 the deceased be condemned, whilst in the Tibetan version
 devils wait to conduct the evil-doer to the hell-world of
@@ -3649,8 +2437,7 @@ when first addressing the Judge pleads that he has done no
 evil. Before Osiris, this plea seems to be accepted in all the
 texts now known; before Dharma-Raja it is subject to the
 test of the Mirror of Karma, and this seems to be distinctly
-an Indian and Buddhist addition to the hypothetical pre-
-historic version, whence arose the Egyptian and the Tibetan
+an Indian and Buddhist addition to the hypothetical prehistoric version, whence arose the Egyptian and the Tibetan
 versions, the Egyptian being the less affected.
 
 Plato, too, in recording the other-world adventures of Er, in
@@ -3683,19 +2470,16 @@ The purgatorial lore now Christianized and associated with
 St. Patrick in the originally pagan St. Patrick’s Purgatory in
 Ireland, the whole cycle of Otherworld and Rebirth legends
 of the Celtic peoples connected with their Fairy-Faith, and
-similar Proserpine lore recorded in the Sacred Books of man-
-kind the world over, as well as the Semitic doctrines of
+similar Proserpine lore recorded in the Sacred Books of mankind the world over, as well as the Semitic doctrines of
 heaven and hell and judgement, and of resurrection as the
-Christianized corruption of a pre-Christian and Jewish re-
-birth doctrine, as also the passage in Plato, all testify to
+Christianized corruption of a pre-Christian and Jewish rebirth doctrine, as also the passage in Plato, all testify to
 beliefs universal among mankind, probably far older than the
 oldest of ancient records from Babylon or from Egypt.!
 
 The painting of the Tibetan Judgement Scene as reproduced
 herein (see opposite p. 166) was made, in strict accord with
 monastic tradition, in Gangtok, Sikkim, during the year 1919,
-by Lharipa-Pempa-Tendup-La, a Tibetan artist then sojourn-
-ing there. An early prototype of it was, until quite recently,
+by Lharipa-Pempa-Tendup-La, a Tibetan artist then sojourning there. An early prototype of it was, until quite recently,
 preserved as one of the old frescoes contained within the
 pictorial Wheel of Life of the Tashiding temple-picture in
 Sikkim, which Dr. L. A. Waddell has described as follows:
@@ -3725,9 +2509,6 @@ essentially religious and connected with a cult of the Bardo-world and its
 inhabitants.
 
 2 Cf. The Gazetteer of Sikhim, ed. by H. H. Risley, p, 269.
-
-
-38 INTRODUCTION
 
 
 the origin of the picture to a similar Wheel of Life, commonly,
@@ -3786,8 +2567,7 @@ seen the messenger and receives the reply, ‘No’. Then the
 King explains to him who the messenger was and the meaning
 of the messages; and the deceased, thereby remembering, is
 obliged to confess that, not having done good deeds, he had
-not acted upon the messages, but had done evil instead, for-
-getting the inevitability of death. Thereupon, Yama pro-
+not acted upon the messages, but had done evil instead, forgetting the inevitability of death. Thereupon, Yama pro-
 nounces the judgement, that since the deceased had failed to
 do good he must suffer the Lavmic consequences. Accordingly,
 the hell-furies take the deceased and cause him to suffer five
@@ -3796,8 +2576,7 @@ unbearable pains, he is, as the Bardo Thodol makes clear,
 incapable of dying
 
 In the Anguttara Nikaya version, wherein there are but
-three messengers, the aged person, the man or woman over-
-come with disease, and the corpse, the Buddha concludes the
+three messengers, the aged person, the man or woman overcome with disease, and the corpse, the Buddha concludes the
 discourse thus :
 
 ‘If men who have been warned by heavenly messengers
@@ -3822,15 +2601,11 @@ taken into account: the literal or exoteric interpretation,
 Tika Nipata (Galle, Ceylon, 1913), pp. 160-5.
 
 
-40 INTRODUCTION
-
-
 which is the popular interpretation; and the symbolical or
 esoteric interpretation, which is held to be correct by the
 initiated few, who claim not scriptural authority or belief,
 but knowledge. With respect to Tibet, these few are chiefly
-learned Jamas who are said to have made successful applica-
-tion of methods like those which the Buddha expounded for
+learned Jamas who are said to have made successful application of methods like those which the Buddha expounded for
 remembering past incarnations, and for acquiring the yogic
 power of seeing what really takes place in the natural process
 of death and rebirth. To the devotee, seeking thus to know
@@ -3841,8 +2616,7 @@ books, the Buddha has offered the following guidance:
 temporary states in days gone by, such as one birth, two
 births, three, four, five, ten, twenty, thirty, forty, fifty, a
 hundred, a thousand, or a hundred thousand births, his births
-in many an aeon of destruction, in many an aeon of renova-
-tion, in many an aeon of both destruction and renovation [so
+in many an aeon of destruction, in many an aeon of renovation, in many an aeon of both destruction and renovation [so
 as to be able to say]: “In that place such was my name,
 such my family, such my caste, such my subsistence, such
 my experience of comfort or of pain, and such the limit of
@@ -3855,8 +2629,7 @@ my various temporary states of existence in days gone by”
 —in that state of self-concentration, if the mind be fixed on
 the acquirement of any object, that object will be attained.
 
-‘If he desireth to see with pure and heavenly vision, sur-
-passing that of men, beings as they pass from one state of
+‘If he desireth to see with pure and heavenly vision, surpassing that of men, beings as they pass from one state of
 existence and take form in others—beings base or noble,
 good-looking or ill-favoured, happy or miserable, according
 to the £arma they inherit—in that state of self-concentration,
@@ -3864,8 +2637,7 @@ if the mind be fixed on the acquirement of any object, that
 object will be attained’ (Lonaphala Vagga, Anguttara Nikaya).
 
 Again in the Brahmana Vagga, Anguttara Nikaya, where
-the yogic method of recovering from the content of the sub-
-consciousness (which—in confirmation of the Buddha’s psycho-
+the yogic method of recovering from the content of the subconsciousness (which—in confirmation of the Buddha’s psycho-
 
 
 INTERPRETATION OF REBIRTH DOCTRINE 41
@@ -3883,8 +2655,7 @@ promptly.’?
 
 Nowhere, to our knowledge, are there nowadays—as there
 are said to have been in Buddhaghosa’s time—yaogis among
-Southern Buddhists who have carried this practice to a suc-
-cessful issue. It is only among Northern Buddhists (as among
+Southern Buddhists who have carried this practice to a successful issue. It is only among Northern Buddhists (as among
 Hindus) that such yoga seems to be, according to trustworthy
 evidence from well-informed Tibetans and Indians, a practically
 applied science even until now, producing modern saints, some
@@ -3921,9 +2692,6 @@ methods for recovering (from the subconsciousness) memories of past births.
 3069 G
 
 
-42 INTRODUCTION
-
-
 or else the Hindu equivalent in works on Yoga, not to accept
 any doctrine as true until it be tested, and proven true, even
 though it be ‘found written in the Scriptures’; and they
@@ -3951,17 +2719,14 @@ whom the editor has received instruction—as follows:
 
 The human form (but not the divine nature in man) is
 a direct inheritance from the sub-human kingdoms; from
-the lowest forms of life it has evolved, guided by an ever-
-growing and ever-changing life-flux, potentially conscious-
-ness, which figuratively may be called the seed of the life-
-force, connected with or overshadowing each sentient creature,
+the lowest forms of life it has evolved, guided by an evergrowing and ever-changing life-flux, potentially conscious-
+ness, which figuratively may be called the seed of the lifeforce, connected with or overshadowing each sentient creature,
 being in its essence psychical. As such, it is the evolving
 principle, the principle of continuity, the principle capable
 of acquiring knowledge and understanding of its own nature,
 the principle whose normal goal is Enlightenment. And,
 just as the physical seed of a vegetable or animal organism—
-even man’s seed—is seen by the eyes to be capable of pro-
-ducing after its own kind only, so with that which figuratively
+even man’s seed—is seen by the eyes to be capable of producing after its own kind only, so with that which figuratively
 may be called the psychical seed of the life-flux which the
 eyes cannot sce—if of a human being it cannot incarnate
 in, or overshadow, or be intimately bound up with a body
@@ -3985,13 +2750,10 @@ say—as putting into the bed of the Ganges River the waters
 of the Indian Ocean.
 
 Degeneration, in a highly developed flowering plant, or
-apple, or vegetable, or wheat, or animal, is, of course, con-
-comitant with cultural neglect; but within this creation
+apple, or vegetable, or wheat, or animal, is, of course, concomitant with cultural neglect; but within this creation
 period—at least so far as the physical vision of science
-has penetrated therein—the flowering plant does not de-
-generate into the apple, nor into the corn, nor one species
-of animals into another, nor does man degenerate into any-
-thing but the savage man—never into a sub-human creature.
+has penetrated therein—the flowering plant does not degenerate into the apple, nor into the corn, nor one species
+of animals into another, nor does man degenerate into anything but the savage man—never into a sub-human creature.
 As to the processes affecting the life-flux which the human
 eye cannot see, the esoteric teaching coincides with that of
 the ancient Greek and Egyptian mystics: ‘As below, so
@@ -4000,13 +2762,11 @@ law governing with unwavering and impartial justice the
 visible as well as the invisible operations of nature.
 
 From this follows the corollary, which the Oriental advocates
-of the esoteric interpretation give out: Progression or retro-
-gression—never an unchanging neutral state of inactivity—
+of the esoteric interpretation give out: Progression or retrogression—never an unchanging neutral state of inactivity—
 are the alternatives within the Sangsara; and the one or
 the other, within any of the mansions of existence, cannot
 lead the life-flux to the threshold of that mansion—neither
-the sub-human to the human, nor the human to the sub-
-human—save step by step. And retrogression and pro-
+the sub-human to the human, nor the human to the subhuman—save step by step. And retrogression and pro-
 gression alike are time-processes: ages pass ere the fire-mist
 becomes the solidified planet; an Enlightened One is the
 tare fruit of unknown myriads of embodiments; and” man,
@@ -4020,16 +2780,14 @@ of the animal-beings, no matter how heinous his sins, at one
 bound.
 
 Given ages of continual retrogression, the life-flux which
-is now human may cease to be human, the human con-
-stituents of it becoming atrophied or latent through lack
+is now human may cease to be human, the human constituents of it becoming atrophied or latent through lack
 of exercise, in much the same way as atrophy overcomes
 the activity of a bodily organ or function which is not used.
 Thereupon, being no longer kinetically, but merely potentially
 human—just as a dog or horse or elephant are potentially, but
 not kinetically, haman—that life-flux can and ordinarily would
 fall back into the sub-human kingdoms, whence it may begin
-anew to rise upwards to the human state or continue to retro-
-grade even below the brute world.
+anew to rise upwards to the human state or continue to retrograde even below the brute world.
 
 The late Lama Kazi Dawa-Samdup, the translator, has
 left on record his own complementary opinion, as follows:
@@ -4043,10 +2801,8 @@ constituents of the human principle of consciousness; for the
 Knower itself neither incarnates nor re-incarnates—it is the
 Spectator.
 
-‘In the Lardo Thodol, the deceased is represented as re-
-trograding, step by step, into lower and lower states of
-consciousness. Each step downwards is preceded by a swoon-
-ing into unconsciousness; and possibly that which constitutes
+‘In the Lardo Thodol, the deceased is represented as retrograding, step by step, into lower and lower states of
+consciousness. Each step downwards is preceded by a swooning into unconsciousness; and possibly that which constitutes
 his mentality on the lower levels of the Bardo is some mental
 element or compound of mental clements formerly a part of
 his earth-plane consciousness, separated, during the swooning,
@@ -4066,8 +2822,7 @@ ESOTERICISM OF REBIRTH DOCTRINE 45
 
 ing, for he expressed it while quite unaware of its similarity
 to the theory held esoterically by the Egyptian priests and
-exoterically recorded by Herodotus, who, apparently, be-
-came their pupil in the monastic college at Heliopolis. Judging
+exoterically recorded by Herodotus, who, apparently, became their pupil in the monastic college at Heliopolis. Judging
 from what Herodotus and others of the ancient Greeks, and
 Romans as well, have written touching thereon, we arrive
 at the following summary: ‘The human soul was believed
@@ -4115,11 +2870,7 @@ when rationally interpreted—a rebirth festival. The most ancient recorded
 parallel now known exists in the Aig Veda (Mandala x, Sakta 135), wherein,
 
 
-46 INTRODUCTION
-
-
-And this theory, when amended with certain necessary modi-
-fications, helps to illustrate the symbolical or esoteric inter-
+And this theory, when amended with certain necessary modifications, helps to illustrate the symbolical or esoteric inter-
 pretation of the Bardo Rebirth Doctrine.
 
 In further illustration, applicable to the higher Hinduism as
@@ -4127,8 +2878,7 @@ to the higher Buddhism, advocates of this interpretation point
 out that even before the final dissolution of the human body
 of the moment of death there is incessant transmigration of
 the bodily atoms. So long as the body is the receptacle
-of the consciousness-principle, it is said to renew itself com-
-pletely every seven years. And even as the constituents of
+of the consciousness-principle, it is said to renew itself completely every seven years. And even as the constituents of
 the physical man thus transmigrate throughout all organic
 and inorganic kingdoms and the mind remains unchangedly
 human during the brief cycle of one life-time, so, normally, it
@@ -4136,8 +2886,7 @@ likewise remains human during the greater evolutionary
 cycle—i.e. until it reaches the end of all sangsdaric evolution,
 namely, NVirvanic Enlightenment.
 
-The esoteric teaching concerning this may be stated liter-
-ally: That which is common to the human and to the
+The esoteric teaching concerning this may be stated literally: That which is common to the human and to the
 sub-human worlds alike, namely, matter in its varied aspects
 as solids, liquids, and gases, eternally transmigrates. That
 which is specifically human and specifically sub-human remains
@@ -4231,13 +2980,9 @@ taint being almost removed, it again reaches those five pure elements in the
 order of their natural distribution.’ (Jones’s trans., xii, 18-22.)
 
 
-48 INTRODUCTION
-
-
 Accordingly, the esotericists hold it to be unscientific to
 believe that a human life-flux or consciousness-principle could
-re-incarnate in the body of a sub-human creature within forty-
-nine days after its extraction from the human form, as the
+re-incarnate in the body of a sub-human creature within fortynine days after its extraction from the human form, as the
 exotericist believes who accepts literally such a rebirth doctrine
 
 
@@ -4258,8 +3003,7 @@ as the whole of The Laws suggests, to invest with legal and divine sanction the
 dogma that the person of a Brahmin is peculiarly sacred and inviolable, and so
 gives prominence to the sin of slaying a Brahmin by mentioning it first; then
 to the sin of a priest drinking spirituous liquor, and then to the sin of stealing
-the gold of a priest. In all such instances, as in all which follow them, the im-
-plication is, as we have above observed, that the ‘vital spirit’, or animal soul,
+the gold of a priest. In all such instances, as in all which follow them, the implication is, as we have above observed, that the ‘vital spirit’, or animal soul,
 separated from the two higher elements of man’s complex constitution, which
 are ‘the reasonable soul’ and ‘the divine essence’, suffers the penalty of
 migrating in sub-human creatures :
@@ -4274,8 +3018,7 @@ between cause and effect which other of The Laws suggest. Thus, if a man
 steal precious things he ‘shall be born zm the tribe of goldsmiths (considered to
 be of very low caste], or among birds called hémacaras, or gold-makers. Ifaman
 steal grain in the husk, he shall be born a rat; if a yellow mixed metal, a gander
-[which is of like mixed colour] ; if water, a plava, or diver. ... If he steal flesh-
-meat, a vulture; ... if oil, a d/a¢za, or oil-drinking beetle; . .. if exquisite per-
+[which is of like mixed colour] ; if water, a plava, or diver. ... If he steal fleshmeat, a vulture; ... if oil, a d/a¢za, or oil-drinking beetle; . .. if exquisite per-
 fumes, a musk-rat’. (Jones’s trans., xii. 61-5.)
 
 Understanding Manu in the sense which this note aims to set forth, the
@@ -4304,8 +3047,7 @@ The Bardo rebirth symbols themselves ought now to be
 considered from the standpoint of the esoteric interpretation ;
 and to elucidate them innumerable parallels could be chosen
 from widely separated sources, but because of its recognized
-authority no parallel seems more appropriate than that con-
-tained in the tenth book of Plato’s Republic, describing certain
+authority no parallel seems more appropriate than that contained in the tenth book of Plato’s Republic, describing certain
 of the Greek Heroes in the Szdpa Bardo choosing their bodies
 for the next incarnations:
 
@@ -4342,9 +3084,6 @@ enmity to the race of women, hating to be born of a woman
 3069 H
 
 
-50 INTRODUCTION
-
-
 because they had been his murderers; he beheld also the soul
 of Thamyras choosing the life of a nightingale; birds, on the
 other hand, like the swan and other musicians, wanting to be
@@ -4370,8 +3109,7 @@ everybody else; and when he saw it he said that he would
 have done the same had his lot been first instead of last, and
 that he was delighted to have it. And not only did men pass
 into animals, but I must also mention that there were animals
-tame and wild which changed into one another and into corre-
-sponding human natures—the good into the gentle and the evil
+tame and wild which changed into one another and into corresponding human natures—the good into the gentle and the evil
 into the savage, in all sorts of combinations,’
 
 If read superficially, this Platonic account of the rebirth
@@ -4380,8 +3118,7 @@ may be; and it is not impossible to imagine that Plato, as an
 initiate into the Greek Mysteries, who, like Herodotus, never
 refers to their esoteric teachings openly, but only in figurative
 and very often intentionally misleading phraseology, intended
-that it should be understood so by the uninitiated. Neverthe-
-less, when the passage is examined closely, the exoteric
+that it should be understood so by the uninitiated. Nevertheless, when the passage is examined closely, the exoteric
 doctrine of transmigration of the human into the sub-human,
 or vice versa, is evidently not the meaning underlying it.
 
@@ -4435,9 +3172,6 @@ her foot-races with her many suitors, very naturally is reborn
 as a great athlete; and, in her case, Plato uses no symbol.
 
 
-52 INTRODUCTION
-
-
 Nor is a symbol used in connexion with Epeius, who, noted
 for his cunning in constructing the wooden horse at the siege
 of Troy, and whose cowardice afterwards became proverbial,
@@ -4449,10 +3183,8 @@ monkey, comment is unnecessary.
 
 Accordingly, the expressions concerning the heroes’ hatred
 of being born of woman seem to be purely metaphorical and
-employed to carry out logically the literary use of the animal-
-symbols, just as the passages are concerning ‘animals tame
-and wild which changed into one another and into correspond-
-ing human natures—the good into the gentle and the evil into
+employed to carry out logically the literary use of the animalsymbols, just as the passages are concerning ‘animals tame
+and wild which changed into one another and into corresponding human natures—the good into the gentle and the evil into
 the savage, in all sorts of combinations’, and of ‘birds, on the
 other hand, like the swan and other musicians, wanting to
 be men’,
@@ -4478,8 +3210,7 @@ And, as the Bardo Thddol teaches, in other language, in its
 insistence on the need of Right Knowledge to the devotee who
 follows the Bodhic Path, so Plato teaches:
 
-‘For if a man had always on his arrival in this world dedi-
-cated himself from the first to sound philosophy, and had
+‘For if a man had always on his arrival in this world dedicated himself from the first to sound philosophy, and had
 been moderately fortunate in the number of the lot, he might,
 as the messenger reported, be happy here, and also his
 
@@ -4525,8 +3256,7 @@ multitude bowed down to her.
 ‘The soothsayers predicted that she would bring forth
 a son with the thirty-two signs of the great man. “If he
 stay at home, he will become a universal monarch; but
-if he shave his hair and beard, and, putting on an orange-
-coloured robe, leave his home for the homeless state and
+if he shave his hair and beard, and, putting on an orangecoloured robe, leave his home for the homeless state and
 
 
 1 Cf, B. Jowett, Dialogues of Plato (Oxford, 1892), iii. 336-7: Republic, x.
@@ -4540,8 +3270,7 @@ B4 INTRODUCTION
 renounce the world, he will become a Tathagata, Arhant, a
 perfectly enlightened Buddha.”’
 
-Again, the ¥a¢aka,—of the Southern School,—a compila-
-tion of folk-lore, folk-belief, and popular mythology touching the
+Again, the ¥a¢aka,—of the Southern School,—a compilation of folk-lore, folk-belief, and popular mythology touching the
 Buddha and his many incarnations, which crystallized round
 about His personality in much the same way as the matter
 of the Arthurian Legend crystallized round about King Arthur,
@@ -4556,8 +3285,7 @@ Theravadist interprets all of them literally.
 In any case, a literal interpretation of the fataka—seeing
 that it is, according to the esotericist, essentially an exoteric
 treatise designed for the people 7—appears to be more plausible
-than that of the Du/va account of the Buddha’s birth. Further-
-more, since there is a parallel account in the Pali Scriptures
+than that of the Du/va account of the Buddha’s birth. Furthermore, since there is a parallel account in the Pali Scriptures
 wherein the same animal symbol, namely, the six-tusked white
 elephant, is employed, we have here an example of the use of
 symbolism, definite in purpose, common to both Northern and
@@ -4598,26 +3326,20 @@ original esotericism is still discernible and predominant. Let
 us take, for example, the animal-thrones of the Five Dhyani
 Buddhas as it describes them, in harmony with Northern
 Buddhist symbolology: the Lion-throne is associated with
-Vairochana, the Elephant-throne with Vajra-Sattva, the Horse-
-throne with Ratna-Sambhava, the Peacock-throne with Ami-
-tabha, the Harpy-throne with Amogha-Siddhi. And, in inter-
-preting the symbols, we find them to be poetically descriptive
+Vairochana, the Elephant-throne with Vajra-Sattva, the Horsethrone with Ratna-Sambhava, the Peacock-throne with Ami-
+tabha, the Harpy-throne with Amogha-Siddhi. And, in interpreting the symbols, we find them to be poetically descriptive
 of the peculiar attributes of each deity: the Lion symbolizes
-courage or might, and sovereign power; the Elephant, im-
-mutability ; the Horse, sagacity and beauty of form; the
+courage or might, and sovereign power; the Elephant, immutability ; the Horse, sagacity and beauty of form; the
 Peacock, beauty and power of transmutation, because in popular
-belief it is credited with the power of eating poisons and trans-
-forming them into the beauty of its feathers; the Harpy, mighti-
+belief it is credited with the power of eating poisons and transforming them into the beauty of its feathers; the Harpy, mighti-
 ness and conquest over all the elements. The deities, too, in the
 last analysis, are symbolical of particular Bodhic attributes of
-the Dharma-Kaya and of supramundane forces of Enlighten-
-ment emanating thence, upon which the devotee may depend
+the Dharma-Kaya and of supramundane forces of Enlightenment emanating thence, upon which the devotee may depend
 for guidance along the Path to Buddhahood.
 
 In attempting the esoteric interpretation of the animal
 symbols used in the Szdpa Bardo—and this interpretation
-finds its parallel in the esoteric interpretation obviously in-
-tended by the Szdpa Bardo episode in Plato, as in the Dulva
+finds its parallel in the esoteric interpretation obviously intended by the Szdpa Bardo episode in Plato, as in the Dulva
 account of the birth of the Buddha—we have sufficient
 Buddhist rebirth symbols whose esoteric interpretation is
 clearly known and generally accepted to guide us.
@@ -4630,9 +3352,6 @@ as follows: ‘This picture is one of the purest Buddhist
 
 
 1 See Gazetteer of Sikhim, ed. by H. H. Risley, p. 266.
-
-
-56 INTRODUCTION
 
 
 emblems that the /amas have preserved for us. And by
@@ -4654,8 +3373,7 @@ others being human and figurative symbols; and this is
 a monkey eating fruit, symbolizing entire knowledge (Tib.
 nam-she; Skt. Vifidna) of good and evil fruits, through
 tasting every fruit or sensuous experience in the manner
-of a roving non-philosophically guided libertine, thus en-
-gendering consciousness.”
+of a roving non-philosophically guided libertine, thus engendering consciousness.”
 
 Accordingly, the animal forms and environments named
 in the Second Book of the Bardo Thédol (see pp. 178-9, 185)
@@ -4665,8 +3383,7 @@ be interpreted as follows:
 
 (1) The dog-form (like that of the cock in ‘The Wheel of
 Life’) symbolizes excessive sexuality or sensuality.? It also
-symbolizes, in popular Tibetan lore, jealousy. And the dog-
-kennel environment symbolizes abiding in, or living in, a state
+symbolizes, in popular Tibetan lore, jealousy. And the dogkennel environment symbolizes abiding in, or living in, a state
 of sensuality.
 
 (2) The pig symbolizes (as in ‘The Wheel of Life’) the
@@ -4677,16 +3394,14 @@ ignorance of stupidity dominated by lust; and _ selfishness
 
 2 Ibid., p. 268.
 
-8 Compare the following passage from the Yoga Vashishtha (Nirvana Preka-
-rana, Sarga 28, verses 78-9): ‘Those wise Pandits, learned in the Shastras,
+8 Compare the following passage from the Yoga Vashishtha (Nirvana Prekarana, Sarga 28, verses 78-9): ‘Those wise Pandits, learned in the Shastras,
 should be considered Jackals if they relinquish not desire and anger.’
 
 
 SYMBOLISM OF REBIRTH DOCTRINE — 57
 
 
-and uncleanliness as well. The pigsty environment symbo-
-lizes worldly existence dominated by these characteristics.
+and uncleanliness as well. The pigsty environment symbolizes worldly existence dominated by these characteristics.
 
 (3) The ant symbolizes (as it does amongst the nations of
 the West) industry, and the lust for worldly possessions ; and
@@ -4707,8 +3422,7 @@ In the Old Testament the visions of the prophet Ezekiel and
 in the New Testament the Revelation of John show how similar
 animal symbolism affected even the zb/e. And, in our view,
 should the Buddhist and Hindu exotericists re-read their own
-Scriptures in the light of the Science of Symbols their opposi-
-tion to Esotericism would probably be given up.
+Scriptures in the light of the Science of Symbols their opposition to Esotericism would probably be given up.
 
 Accordingly, the animal symbols in the Szdpa Bardo—
 despite evident corruptions of the text and of the esoteric
@@ -4718,8 +3432,7 @@ principle of consciousness, unless winning Emancipation, will,
 under the normal karmic conditions of gradual progression
 which govern the majority of mankind, continue to be born
 in a human form in this creation-period, with the mental
-traits or characteristics symbolized by animals. Under ex-
-ceptional or abnormal armze conditions of retrogression, it
+traits or characteristics symbolized by animals. Under exceptional or abnormal armze conditions of retrogression, it
 may, on the other hand, during the course of ages, gradually
 lose its human nature and fall back into sub-human kingdoms.
 
@@ -4732,11 +3445,7 @@ worm-man; the industrious and oft-times miserly ant-man ;
 3069 I
 
 
-58 INTRODUCTION
-
-
-the ephemeral—sometimes professedly aesthetic—butterfly-
-man; the strong ox-man; or the fearless lion-man. Human
+the ephemeral—sometimes professedly aesthetic—butterflyman; the strong ox-man; or the fearless lion-man. Human
 life is far richer in possibilities for the workings out of
 evil Zarma—no matter how animal-like the karma may
 be—than any sub-human species could possibly be. The
@@ -4754,8 +3463,7 @@ culture to the lowest savage.
 In accordance with our findings, that higher and rational
 teaching concerning rebirth, which in the Bardo Thodol is,
 perhaps, confused because of corruptions of text, may now
-be summarized. If, on the Plane of Uncertainty, the in-
-fluence of innate or karmic propensities of desire for the
+be summarized. If, on the Plane of Uncertainty, the influence of innate or karmic propensities of desire for the
 grosser sensations of sangsdric existence, such as govern life
 in a human body, can be dominated through the exercise of
 the more powerful influence of Right Knowledge, that part
@@ -4780,16 +3488,14 @@ THE HIGHER REBIRTH DOCTRINE 59
 
 
 incarnate. Normally, however, rebirth is of the lower or
-ordinary sort, unendowed—because of the lack of enlighten-
-ment of the one undergoing it—with consciousness of
+ordinary sort, unendowed—because of the lack of enlightenment of the one undergoing it—with consciousness of
 the process. Even as a child knowing not the higher
 mathematics cannot measure the velocity of light, so the
 animal-man cannot profit by the higher law governing the
 rebirth of the divine-man; and, drinking of the River of
 Forgetfulness, he enters the door of the womb and is reborn,
 direct from the desire-world called the Bardo. This lower
-rebirth, almost brutish in many instances, because con-
-trolled chiefly by animal propensities such as sub-human
+rebirth, almost brutish in many instances, because controlled chiefly by animal propensities such as sub-human
 and human creatures have in common, differs, however, from
 that of brutes in virtue of the functional activity of the purely
 human element of the consciousness, which in all sub-human
@@ -4797,8 +3503,7 @@ creatures is latent and not active; and for this element, even
 in the lowest of mankind, to become latent instead of active
 requires approximately as long a period of cyclic time as it
 does for the sub-human consciousnesss to evolve its latent
-human element into full human activity. The popular mis-
-understanding of this aspect of the higher or esoteric Doctrine
+human element into full human activity. The popular misunderstanding of this aspect of the higher or esoteric Doctrine
 of Rebirth thus appears to have assisted in no small measure
 to give rise to the obviously irrational belief, found almost
 everywhere throughout the Scriptures of both Buddhism and
@@ -4823,9 +3528,6 @@ of a human life.’?
 1 E. B. Tylor, Primitive Culture (London, 1891), ii. 17.
 
 
-60 INTRODUCTION
-
-
 That this is the true interpretation is confirmed—so far as
 Europe is concerned—by the teachings of the Druids, the
 learned Brahmin-like priests of Europe’s scientific pre-Christian
@@ -4834,8 +3536,7 @@ religion, held by the Celtic nations.
 In The Fairy-Faith in Celtic Countries, in the year 1911,
 I suggested that the rebirth doctrine, in its straightforward,
 Druidic form, accords, in its essentials, with the psychological
-science of the West—that the subconscious mind is the store-
-house of all latent memories; that these memories are not
+science of the West—that the subconscious mind is the storehouse of all latent memories; that these memories are not
 limited to one lifetime; that these memory-records, being
 recoverable, prove the doctrine to be based upon demonstrable
 facts. Since the year 1911 the whole trend of Western
@@ -4844,11 +3545,9 @@ psycho-analysis has tended to confirm that view.
 
 I was unaware when I wrote The Fairy-Faith that Huxley
 held—as he did—the theory of human reincarnation to offer
-the best explanation of even ordinary physiological and bio-
-logical phenomena. And since the testimony of Huxley, as
+the best explanation of even ordinary physiological and biological phenomena. And since the testimony of Huxley, as
 one of the greatest biologists, coincides with that, as above
-given, of the late Dr. Tylor, the foremost of modern anthro-
-pologists, and also confirms from the standpoint of our own
+given, of the late Dr. Tylor, the foremost of modern anthropologists, and also confirms from the standpoint of our own
 Western Science the higher or esoteric interpretation of the
 Rebirth Doctrine as offered by the Occult Sciences of the
 East, we here record it as a fitting conclusion to this
@@ -4865,8 +3564,7 @@ intellectual essence of a man—does veritably pass over from
 one fleshly tabernacle to another, and does really transmigrate
 
 
-* Cf. Caesar, De B. G. vi. 14.5; 18. 1; Diodorus Siculus, v. 31. 4; Pom-
-ponius Mela, De Situ Orbts, iii, c.2; Lucan, Pharsalia, i. 449-62; Barddas
+* Cf. Caesar, De B. G. vi. 14.5; 18. 1; Diodorus Siculus, v. 31. 4; Pomponius Mela, De Situ Orbts, iii, c.2; Lucan, Pharsalia, i. 449-62; Barddas
 (Llandovery, 1862), i. 177, 189-91; and W. Y. Evans-Wentz, The Fairy-Faith
 in Celtic Countries (Oxford 1911), Chaps. VII, XII.
 
@@ -4885,8 +3583,7 @@ on to its incarnation in new bodies. The Indian philosophers
 called character, as thus defined, “ karma”....
 
 ‘In the theory of evolution, the tendency of a germ to
-develop according to a certain specific type, e.g. of the kidney-
-bean seed to grow into a plant having all the characters of
+develop according to a certain specific type, e.g. of the kidneybean seed to grow into a plant having all the characters of
 Phaseolus vulgaris, is its “Karma”. It is the “last inheritor
 and the last result” of all the conditions that have affected
 a line of ancestry which goes back for many millions of years,
@@ -4913,22 +3610,15 @@ Sangsara, of cosmos—some planetary as in this world, some
 
 1 T, H. Huxley, Evolution and Ethics (London, 1894), pp. 61-2, 95.
 
-The late William James, the well-known American psychologist, indepen-
-dently arrived at substantially the same conclusion as Huxley; for, after
+The late William James, the well-known American psychologist, independently arrived at substantially the same conclusion as Huxley; for, after
 explaining his ‘ own inability to accept either popular Christianity or scholastic
 theism’, he says, ‘I am ignorant of Buddhism and speak under correction, and
-merely in order the better to describe my general point of view ; but, as I appre-
-hend the Buddhist doctrine of Karma, I agree in principle with that ’.—( The
+merely in order the better to describe my general point of view ; but, as I apprehend the Buddhist doctrine of Karma, I agree in principle with that ’.—( The
 Varieties of Religious Experiences, pp. 521-2.)
 
 
-62 INTRODUCTION
-
-
-in the many heavens and paradises, and others in the nume-
-rous states of purgation called hells. Generalizing, it may be
-said that when the Brahmanic and Buddhist teachings con-
-cerning cosmography are carefully examined from the stand-
+in the many heavens and paradises, and others in the numerous states of purgation called hells. Generalizing, it may be
+said that when the Brahmanic and Buddhist teachings concerning cosmography are carefully examined from the stand-
 point of the initiated Oriental, and not from the too-oft
 prejudiced standpoint of the Christian philologist, it seems to
 suggest far-reaching knowledge, handed down from very
@@ -4958,11 +3648,9 @@ heavens ruled by Indra, and those under the sway of Mara,
 being ranged in their own regular gradation beneath the less
 sensuous heavens of Brahma. As apex over all, is the final
 heaven, called ‘The Supreme’ (Tib. ‘Og-mz). Being the last
-outpost of our universe, ‘Og-min, as the vestibule to Wir-
-vana, is the transitional state leading from the mundanc to
+outpost of our universe, ‘Og-min, as the vestibule to Wirvana, is the transitional state leading from the mundanc to
 the supramundane; and thus there presides over it the
-divine influence of ‘The Best of All’ (Tib. Kzntu-zang-
-po: Skt. Samanta-Bhadra), the lamaic personification of
+divine influence of ‘The Best of All’ (Tib. Kzntu-zangpo: Skt. Samanta-Bhadra), the lamaic personification of
 Nirvana.
 
 
@@ -5011,14 +3699,10 @@ of blue air (i.e. ether), symbolized by crossed dorjes (such as
 are depicted by the emblem on the cover of our book). Upon
 
 
-1 Could we take the /@maic conception of a universe to be that of a world-
-system, and of a plurality of universes to be that of a plurality of world-
+1 Could we take the /@maic conception of a universe to be that of a worldsystem, and of a plurality of universes to be that of a plurality of world-
 systems forming a universe, we should then be able better to correlate the
 cosmography of Northern Buddhism (and of Brahmanism, from which it
 appears to have originated) with the cosmography of Western Science.
-
-
-64 INTRODUCTION
 
 
 this rests ‘the body of the waters’ of the outer Ocean. Each
@@ -5034,33 +3718,28 @@ are more often to be taken as suggestive or symbolical than
 literal. Mt. Meru, they say, towers 80,000 miles above the
 Central Enchanted Ocean and extends below the surface of
 the waters the same distance, the Central Ocean itself being
-also 80,000 miles deep and 80,000 miles wide. The succeed-
-ing girdle of Golden Mountains is just half that number of
+also 80,000 miles deep and 80,000 miles wide. The succeeding girdle of Golden Mountains is just half that number of
 miles in height and width and depth, and the next Ocean,
 correspondingly, 40,000 miles deep and 40,coo miles wide.
 The consecutive circles of alternating pairs composed of Golden
 Mountains and an Enchanted Ocean gradually diminish as
 to width, depth, and height, being respectively 20,000, 10,000,
-5,0CO, 2,500, 1,250, and 625 miles. This brings us to the Con-
-tinents in the Outer Ocean of Space.
+5,0CO, 2,500, 1,250, and 625 miles. This brings us to the Continents in the Outer Ocean of Space.
 
 Of these Continents, the four chief ones—as described in
 the Second Book of our Bardo Thodol—are situated in the
 Four Directions. On either side of each of these Four
 Continents are smaller or satellite Continents, thus making
-the total number of Continents twelve, which, again, is a sym-
-bolical number, like the number seven of the cosmographical
+the total number of Continents twelve, which, again, is a symbolical number, like the number seven of the cosmographical
 arrangement.
 
-The Eastern Continent is called in Tibetan Lii-pah (Lus-
-hpags), or ‘Vast Body’ (Skt. Viradt-deha). Its symbolical
+The Eastern Continent is called in Tibetan Lii-pah (Lushpags), or ‘Vast Body’ (Skt. Viradt-deha). Its symbolical
 shape is like that of a crescent moon; and, accordingly, the
 colour white is assigned to it, and crescentic faces are ascribed
 to its inhabitants, who are said to be tranquil-minded and
 virtuous. Its diameter is given as being 9,000 miles.
 
-The Southern Continent is our Planet Earth, called Jambu-
-ling (Skt. Fambudvipa), probably an onomatopoeic word—
+The Southern Continent is our Planet Earth, called Jambuling (Skt. Fambudvipa), probably an onomatopoeic word—
 as the translator held—descriptive of the fruit of a jambu-tree
 falling into water, dmg itself meaning ‘place’, or ‘region’.
 
@@ -5070,23 +3749,20 @@ THE COSMOGRAPHY 65
 
 The name _Jambuling would thus mean the region or continent
 wherein jambu-fruit fall into the water. Its symbolic shape
-is like that of the shoulder-blade of a sheep, that is sub-
-triangular, or rather pear-shaped, to which the faces of its
+is like that of the shoulder-blade of a sheep, that is subtriangular, or rather pear-shaped, to which the faces of its
 inhabitants conform. Blue is the colour assigned to it. Riches
 and plenty abound in it, along with both good and evil. It is
 said to be the smallest of the Four Continents, being but
 7,000 miles in diameter,
 
-The Western Continent is called Balongchéd (Ba-glang-
-spyod), literally meaning cow+ox+ action (Skt. Godhana, or
+The Western Continent is called Balongchéd (Ba-glangspyod), literally meaning cow+ox+ action (Skt. Godhana, or
 ‘Wealth of Oxen’). In shape it is like the sun, and red of
 colour. Its inhabitants, whose faces are round like the sun,
 are believed to be very powerful and to be addicted to eating
 cattle, as the literal meaning of its name itself may suggest.
 Its diameter measures 8,000 miles.
 
-The Northern Continent is Daminyan, or Graminyan (Sgva-
-mi-snyan), equivalent to the Sanskrit U¢tara Kuru, meaning
+The Northern Continent is Daminyan, or Graminyan (Sgvami-snyan), equivalent to the Sanskrit U¢tara Kuru, meaning
 ‘Northern Kuru [Race]’. It is of square shape and green
 colour. Its inhabitants have corresponding faces, square like
 those of horses. Trees supply all their sustenance and wants,
@@ -5102,8 +3778,7 @@ Rakshasas goodness and salvation, and to be there now as
 their king.’
 
 Underlying this /amazc cosmology there is, as research will
-show, an elaborate symbolism. Take, for instance, the descrip-
-tion of Mt. Meru as given by Dr. Waddell: ‘Its eastern face
+show, an elaborate symbolism. Take, for instance, the description of Mt. Meru as given by Dr. Waddell: ‘Its eastern face
 is of silver, the south of jasper, the west of ruby, and the north
 of gold’*—which illustrates a use of ancient symbols very
 similar to that in the Revelation of John. The complete
@@ -5114,17 +3789,12 @@ rational explanation of all the symbolism connected with
 8069 K
 
 
-66 INTRODUCTION
-
-
 Hindu and in turn Buddhist cosmography would be—even if
-it were possible for us—quite beyond the scope of an intro-
-duction. Suffice it to say that the possession of a key to such
+it were possible for us—quite beyond the scope of an introduction. Suffice it to say that the possession of a key to such
 explanation is claimed by expert professors of the Occult
 Sciences in India and in Tibet—compared to which, in the
 realm of mind and matter, our Western Science is, so they
-maintain, but at the Threshold of the Temple of Under-
-standing.
+maintain, but at the Threshold of the Temple of Understanding.
 
 
 XII. THE FUNDAMENTAL TEACHINGS SUMMARIZED
@@ -5135,8 +3805,7 @@ touching the Manuscript itself, we may now summarize the
 chief teachings upon which the whole of the Bardo Thédol is
 based, as follows:
 
-1. That all possible conditions, or states, or realms of sang-
-saric existence, heavens, hells, and worlds, are entirely depen-
+1. That all possible conditions, or states, or realms of sangsaric existence, heavens, hells, and worlds, are entirely depen-
 dent upon phenomena, or, in other words, are nought but
 phenomena ;
 
@@ -5151,8 +3820,7 @@ being phenomena dependent upon a cause;
 4. That this cause is a yearning or thirsting after sensation,
 after the unstable sangsaric existence ;
 
-5. That so long as this cause is not overcome by Enlighten-
-ment death follows birth and birth death, unceasingly—even
+5. That so long as this cause is not overcome by Enlightenment death follows birth and birth death, unceasingly—even
 as the wise Socrates believed ;
 
 6. That the after-death existence is but a continuation,
@@ -5163,8 +3831,7 @@ of the human world—both states alike being karmic ;
 death and rebirth in this or any other world is determined by
 antecedent actions ;
 
-8. That, psychologically speaking, it is a prolonged dream-
-like state, in what may be called the fourth dimension of
+8. That, psychologically speaking, it is a prolonged dreamlike state, in what may be called the fourth dimension of
 space, filled with hallucinatory visions directly resultant from
 
 
@@ -5218,11 +3885,7 @@ the Saugsara ;
 18. That such Emancipation comes from the Realization of
 Nirvana ;
 
-19. That Mirvaua is non-sangsaric, being beyond all para-
-dises, heavens, hells, and worlds ;
-
-
-68 INTRODUCTION
+19. That Mirvaua is non-sangsaric, being beyond all paradises, heavens, hells, and worlds ;
 
 
 20. That it is the Ending of Sorrow ;
@@ -5247,11 +3910,9 @@ and where naught cometh or goeth there is no death, no birth.
 Where there is neither death nor birth, there neither is this
 world nor that, nor in between—it is the ending of sorrow.
 
-‘There is, disciples, an Unbecome, Unborn, Unmade, Un-
-formed; if there were not this Unbecome, Unborn, Unmade,
+‘There is, disciples, an Unbecome, Unborn, Unmade, Unformed; if there were not this Unbecome, Unborn, Unmade,
 Unformed, there would be no way out for that which is
-become, born, made, and formed; but since there is an Un-
-become, Unborn, Unmade, Unformed, there is escape for that
+become, born, made, and formed; but since there is an Unbecome, Unborn, Unmade, Unformed, there is escape for that
 which is become, born, made, and formed.’!
 
 
@@ -5265,8 +3926,7 @@ the Bhutia Basti Monastery, Darjeeling, who said that it
 had been handed down in his family for several generations.
 The manuscript is unlike any other seen by the translator
 or editor, in that it is illustrated by paintings in colour
-painted on the folios of the text. All other similarly illus-
-trated Tibetan manuscripts seen by us have had the illustra-
+painted on the folios of the text. All other similarly illustrated Tibetan manuscripts seen by us have had the illustra-
 tions made on separate pieces of manuscript paper or else
 of cotton cloth, pasted to the folios. When procured, the
 
@@ -5295,8 +3955,7 @@ Block-Print were found to be identical. In some spellings of
 proper names of deities of Sanskrit origin there are variations
 in the two versions, and in both books a number of clerical
 errors. The manuscript is far older than the modern Block-
-Print and seems to have been copicd from an earlier manu-
-script.
+Print and seems to have been copicd from an earlier manuscript.
 
 The manuscript itself is undated, but the translator judged
 it to be from 150 to 200 years old. It has seen very much
@@ -5320,16 +3979,12 @@ occupied by the text on each measures on an average 8% by
 a few contain four lines. The title-page contains two lines
 
 
-70 INTRODUCTION
-
-
 in a space 7 by 1 inches; the second page of the first folio
 along with the first page of the second folio, which give the
 Obeisances, consist of three lines, occupying a space 4} by
 21 inches respectively, and these, like the title-page, are
 written in gold (now much faded) on a black background.
-The illustrations are on fourteen of the folios, each illustra-
-tion being in the centre of the text, on one side of the folio
+The illustrations are on fourteen of the folios, each illustration being in the centre of the text, on one side of the folio
 (see Frontispiece), as follows:
 
 On folio 18, Vairochana embraced by his shkaktz, the Mother
@@ -5341,8 +3996,7 @@ Mamaki, surrounded by their four accompanying deities of the
 Second Day;
 
 On folio 23, Ratna-Sambhava, embraced by his skakdz, the
-Mother Sangyay Chanma (‘She of the Buddha Eye’), sur-
-rounded by their four accompanying deities of the Third
+Mother Sangyay Chanma (‘She of the Buddha Eye’), surrounded by their four accompanying deities of the Third
 Day ;
 
 On folio 26, Amitabha, embraced by his shakiz, the Mother
@@ -5405,8 +4059,7 @@ Manen’s Block-Print, which is probably not more than about
 twenty to thirty years old. The translator said that, so far
 as he was aware, Block-Prints of the Bardo Thddol have
 appeared—at least in Sikkim and Darjeeling—rather recently,
-although probably known in Tibet itself much longer, block-
-type printing having been carried on for unknown centuries in
+although probably known in Tibet itself much longer, blocktype printing having been carried on for unknown centuries in
 China, and thence brought to Tibet, long before printing was
 done in Europe.!
 
@@ -5430,9 +4083,6 @@ for Assistance’;
 4. ‘The Root Verses of the Bardo’;
 
 5. ‘The Prayer to Rescue [One] from the Narrow Places of the Bardo’ ;
-
-
-72 INTRODUCTION
 
 
 Each Buddhist Sect in Tibet, according to the opinion
@@ -5505,8 +4155,7 @@ Buddhistic.
 As elsewhere noted, our manuscript is arranged as one
 work in two parts or books, with thirteen folios of texts
 of Lardo prayers as an appendix at the end. The Block-
-Print is arranged as two distinct books and lacks the ap-
-pendix of prayers. But at the end of the first book of
+Print is arranged as two distinct books and lacks the appendix of prayers. But at the end of the first book of
 the Block-Print there comes a very important account of
 the origin of the Bardo Thidol, which is not contained
 in our manuscript, and this is given in translation in the
@@ -5529,12 +4178,10 @@ Gampo-dar), on the bank of the Serdan (Tib. Gser-ldan,
 meaning ‘ Possessing Gold’ or ‘Golden’) River, by Rigzin
 Karma Ling-pa (Tib. Rigs-hdzin Kar-ma Gling-pa).
 
-Rigzin, as herein given, is a personal title, and Karma Ling-
-pa the name of a place in Tibet meaning ‘Karma Land’.
+Rigzin, as herein given, is a personal title, and Karma Lingpa the name of a place in Tibet meaning ‘Karma Land’.
 The translator has pointed out that Rigs is an erroneous
 spelling of Rig; for, if Rags were correct, the name Rigzin
-would mean Class-Holder (Rigs+Zin). That Rig is in-
-tended—thus making the name mean Knowledge-Holder (Rig +
+would mean Class-Holder (Rigs+Zin). That Rig is intended—thus making the name mean Knowledge-Holder (Rig +
 hdzin), a caste or class designation’—was confirmed by a
 small section of a Bardo Thédol manuscript in the possession
 of the translator, in which Rigzin Karma Ling-pa is otherwise
@@ -5543,13 +4190,9 @@ The Bardo Thodol is, therefore, one of the Tibetan Lost
 
 
 1 Rig-hdein, a translation into Tibetan of the Sanskrit term Vidya-Dhara, used,
-as herein, of a learned person, such as a pandit, also denotes a class of super-
-natural beings like certain orders of fairies.
+as herein, of a learned person, such as a pandit, also denotes a class of supernatural beings like certain orders of fairies.
 
 3069 L
-
-
-74 INTRODUCTION
 
 
 Books recovered by Rigzin of Karma Ling-pa, who is held to
@@ -5586,12 +4229,10 @@ passing through Nepal and arriving at Samye (Sam-yas),
 Tibet, in the year 747. It was to Samye that the King had
 invited him, in order to have ecxorcized the demons of the
 locality ; for as soon as the walls of a monastery which the
-King was having erected there were raised they were over-
-thrown by local earthquakes, which the demons opposing
+King was having erected there were raised they were overthrown by local earthquakes, which the demons opposing
 Buddhism were believed to have caused. When the Great
 Guru had driven out the demons, all the local earthquakes
-ceased, much to the wonder of the people; and he him-
-self supervised the completion of the royal monastery, and
+ceased, much to the wonder of the people; and he himself supervised the completion of the royal monastery, and
 
 
 ORIGIN OF THE BARDO THODOL 75
@@ -5600,8 +4241,7 @@ ORIGIN OF THE BARDO THODOL 75
 established therein the first community of Tibetan Buddhist
 lamas, in the year 749.
 
-During his sojourn in Tibet at that time, and during sub-
-sequent visits, Padma Sambhava had many Tantric books
+During his sojourn in Tibet at that time, and during subsequent visits, Padma Sambhava had many Tantric books
 translated into Tibetan out of Indian Sanskrit originals—
 some of which have been preserved in the monasteries of
 Tibet—and hidden away with appropriate mystic ceremonies
@@ -5614,8 +4254,7 @@ in the texts. This is the generally accepted tradition; but
 according to another tradition the Zertous are to be regarded
 as various incarnations of the Great Guru himself. According
 to a rough estimate, the religious texts already taken out by
-such Tertons, from century to century, would form an encyclo-
-peedia of about sixty-five volumes of block-prints, each, on an
+such Tertons, from century to century, would form an encyclopeedia of about sixty-five volumes of block-prints, each, on an
 average, consisting of about four hundred ordinary-sized folios.
 
 Our text, the Bardo Thédol, being one of these recovered
@@ -5628,19 +4267,14 @@ Padma Sambhava or soon afterwards. Its present general use
 all over Tibet as a funeral ritual and its acceptance by the
 different sects, in varying versions, could nct have been the
 outcome of a few generations; it testifies rather convincingly
-to its antiquity, bears out the pre-Buddhistic and at least par-
-tially B6n origin which we attribute to it, and suggests some
+to its antiquity, bears out the pre-Buddhistic and at least partially B6n origin which we attribute to it, and suggests some
 validity in the claims made for the Zerdons.
 
 Weare well aware of the adverse criticisms passed by European
-critics on the Zerton tradition. There is not lacking, never-
-theless, sound reason for suspecting that the European critics
+critics on the Zerton tradition. There is not lacking, nevertheless, sound reason for suspecting that the European critics
 are not altogether right. Therefore, it seems to us that the
 only sound attitude to assume towards the Zerton problem is
 to keep an open mind until sufficient data accumulate to
-
-
-76 INTRODUCTION
 
 
 pronounce judgement. Though the Zerton claim be proven
@@ -5660,18 +4294,15 @@ doctrines.
 
 Ina Tibetan block-print, which belonged to the translator,
 purporting to record the history, but much mixed with myth,
-of the Great Guru, entitled Orgyan-Padmas-mzad-pahi-bkah-
-thang-bsdiid-pa (pronounced Ugyan Padmay-zad-pat-ba-thang-
+of the Great Guru, entitled Orgyan-Padmas-mzad-pahi-bkahthang-bsdiid-pa (pronounced Ugyan Padmay-zad-pat-ba-thang-
 dii-pa), meaning ‘The Abridged Testament made by Ugyan
 Padma’ (or ‘ by the Lotus-Born Ugyan’—Padma Sambhava),
 consisting of but seventeen folios, there is recorded on the
-twelfth folio, sixteenth section, the following passage, confirm-
-ing the historical tradition touching the origin of the Bardo
+twelfth folio, sixteenth section, the following passage, confirming the historical tradition touching the origin of the Bardo
 Thodol text:
 
 
-‘Behold! the Sixteenth Section, showing the Eight Ling-
-pas, the Leaders of Religion, is [thus] :
+‘Behold! the Sixteenth Section, showing the Eight Lingpas, the Leaders of Religion, is [thus] :
 
 
 ‘The Eight Incarnations of the Great Bodhisattvas are:
@@ -5716,8 +4347,7 @@ in the case of the Egyptian Bardo Thodol, popularly known
 as ‘The Egyptian Book of the Dead’, so in ‘The Tibetan
 Book of the Dead’, there is, no doubt, the record of the belief
 of innumerable generations in a state of existence after death.
-No one scribe could have been its author and no one genera-
-tion its creator; its history as a book, if completely known,
+No one scribe could have been its author and no one generation its creator; its history as a book, if completely known,
 could only be the history of its compilation and recording;
 and the question, Whether this compilation and recording
 were done within comparatively recent times, or in the time
@@ -5728,14 +4358,10 @@ Although it is remarkably scientific in its essentials, there is
 no need to consider it as being accurate in all its details; for,
 undoubtedly, considerable corruption has crept into the text.
 In its broad outlines, however, it seems to convey a sublime
-truth, heretofore veiled to many students of religion, a philo-
-sophy as subtle as that of Plato, and a psychical science far
+truth, heretofore veiled to many students of religion, a philosophy as subtle as that of Plato, and a psychical science far
 in advance of that, still in its infancy, which forms the study
 of the Society for Psychical Research. And, as such, it
 deserves the serious attention of the Western World, now
-
-
-78 INTRODUCTION
 
 
 awakening to a New Age, freed, in large measure, from the
@@ -5756,8 +4382,7 @@ been little more than this, for his knowledge of Tibetan was
 almost as nothing.
 
 The aim of both the translator and the editor has been to
-keep as closely to the sense of the text as the idiomatic struc-
-tures of the Tibetan and English tongues permit. Sometimes
+keep as closely to the sense of the text as the idiomatic structures of the Tibetan and English tongues permit. Sometimes
 the translator, preferring to render into English the real
 meaning which a /a@ma would derive from certain more or less
 technically-worded phrases, has departed from a strictly literal
@@ -5770,8 +4395,7 @@ and phrases, which are bracketed.
 
 In years to come, it is quite probable that our rendering —
 as has been the case with the pioneer translations of the
-Bible—may be subject to revision. A strictly literal render-
-ing of a work so abstruse in its real meanings as this, and
+Bible—may be subject to revision. A strictly literal rendering of a work so abstruse in its real meanings as this, and
 written in symbolical language as well, if attempted by
 Europeans—who, finding it difficult to get out of their Western
 mentality, too often are Christians first and scholars second
@@ -5791,8 +4415,7 @@ THE TRANSLATING AND EDITING 79
 Padma Sambhava (he being an initiate of the semi-reformed
 sect known as Kargyutpa, founded by the great yogis Marpa
 and Milarepa), his practical knowledge of the Occult Sciences
-as taught to him by his late Guru in Bhutan, and his mar-
-vellous command both of English and of Tibetan, lead me
+as taught to him by his late Guru in Bhutan, and his marvellous command both of English and of Tibetan, lead me
 to think that rarely, if ever again in this century, is there
 likely to arise a scholar more competent to render the Bardo
 Thodol than the late Lama Kazi Dawa-Samdup, the actual
@@ -5816,8 +4439,7 @@ he had hoped to do.
 As to the transliterations, it may rightly be objected by
 philologists that they are in some instances less technically
 exact than they might be. The editor, however, preferring to
-preserve the simpler transliterations according to the old-
-fashioned style—to which ordinary readers are more accus-
+preserve the simpler transliterations according to the oldfashioned style—to which ordinary readers are more accus-
 tomed—just as the translator dictated them to him, has left
 them unchanged save for the correcting of a few obvious
 errors which had crept in.
@@ -5825,15 +4447,11 @@ errors which had crept in.
 The editor himself cannot expect, in a book of this nature,
 that his own interpretations of controversial problems will
 meet with universal acceptance; nor can he hope to have
-escaped all error. He trusts, however, that critics, in recog-
-nizing the pioneer character of the work, will be prepared to
+escaped all error. He trusts, however, that critics, in recognizing the pioneer character of the work, will be prepared to
 concede to the editor, as to the translator, such measure of
 indulgence as it may perhaps seem to deserve.
 
 A brief account of the unusual career of the translator will,
-
-
-80 INTRODUCTION
 
 
 no doubt, be interesting to all who read this book. The late
@@ -5856,16 +4474,14 @@ afterwards, received the mystic initiation.
 The late Lama Kazi Dawa-Samdup once confided to me
 that at that time he had made all necessary preparations, as
 a shishya on probation, to renounce the world completely ;
-but his father, then an old man, called him home and re-
-quested him to perform the usual duties of an eldest son and
+but his father, then an old man, called him home and requested him to perform the usual duties of an eldest son and
 marry, to perpetuate the family. The son had no option,
 and he married; two sons and one daughter being born
 to him.
 
 In the year 1906 the Maharaja of Sikkim appointed him
 Head Master of the Gangtok School, where, in the early part
-of the year 1919, I first met him, through a letter of introduc-
-tion from Mr. S. W. Laden La, Sardar Bahadur, Chief of
+of the year 1919, I first met him, through a letter of introduction from Mr. S. W. Laden La, Sardar Bahadur, Chief of
 Police, Darjeeling, who is a well-known Buddhist Scholar of
 Tibetan ancestry. About a year later, in 1920, after
 our work together was finished, the Lama was appointed
@@ -5887,8 +4503,7 @@ Tantra, with English translation and Tibetan text, published
 by Sir John Woodroffe (pseudonym, Arthur Avalon) as
 volume ii of Zantrik Texts, London, 1919. In addition to
 these, and a few small works published by the Asiatic Society
-of Calcutta, the Lama left behind him many important trans-
-lations out of the Tibetan, as yet unpublished, some with the
+of Calcutta, the Lama left behind him many important translations out of the Tibetan, as yet unpublished, some with the
 editor, others with Sir E. Denison Ross and with Major
 W. L. Campbell.
 
@@ -5966,8 +4581,7 @@ BOOK 1] INFKODUCTORY SECTIONS 85
 [THE OBEISANCES]
 
 
-To the Divine Body of Truth,! the Incomprehensible, Bound-
-less Light ;
+To the Divine Body of Truth,! the Incomprehensible, Boundless Light ;
 
 To the Divine Body of Perfect Endowment,? Who are the
 Lotus and the Peaceful and the Wrathful Deities ; 3
@@ -5981,13 +4595,11 @@ To the Gurus, the Three Bodies,’ obeisance.
 [THE INTRODUCTION]
 
 
-This Great Doctrine of Liberation by Hearing, which con-
-ferreth spiritual freedom on devotees of ordinary wit while in
+This Great Doctrine of Liberation by Hearing, which conferreth spiritual freedom on devotees of ordinary wit while in
 the Intermediate State, hath three divisions: the preliminaries,
 the subject-matter, and the conclusion.
 
-At first, the preliminaries, Te Guide Series,’ for emanci-
-pating beings, should be mastered by practice.
+At first, the preliminaries, Te Guide Series,’ for emancipating beings, should be mastered by practice.
 
 
 [THE TRANSFERENCE OF THE CONSCIOUSNESS-PRINCIPLE7™]
@@ -6001,8 +4613,7 @@ to be liberated ; but should they not be liberated, then while
 
 5 ‘These Deities are in ourselves. They are not something apart from us.
 We are one with all that is, in every state of sentient existence, from the
-lowest worlds of suffering to the highest states of bliss and Perfect Fnlighten-
-ment. In this esoteric sense, the Lotus Order of Deities represent the deified
+lowest worlds of suffering to the highest states of bliss and Perfect Fnlightenment. In this esoteric sense, the Lotus Order of Deities represent the deified
 principles of the vocal functions in ourselves; the Peaceful represent the deified
 principles of the heart or functions of feeling; the Wrathful represent, in the
 same way, the functions of our mentality—such as thinking or reasoning, and
@@ -6028,8 +4639,7 @@ Bardo, the After-Death State, and onward to rebirth or else to Nirvana.
 
 
 in the Intermediate State of the Moments of Death they
-should practise the Transference, which giveth automatic libera-
-tion by one’s merely remembering it.
+should practise the Transference, which giveth automatic liberation by one’s merely remembering it.
 
 Devotees of ordinary wit ought most certainly to be freed
 thereby; but should they not be freed, then, while in the
@@ -6039,25 +4649,20 @@ Liberation by Hearing.
 
 Accordingly, the devotee should at first examine the
 symptoms of death as they gradually appear [in his dying
-body], following Self-Liberation [by Observing the| Charac-
-teristics [of the| Symptoms of Death.’ Then, when all the
-symptoms of death are complete [he should] apply the Trans-
-ference, which conferreth liberation by mercly remembering
+body], following Self-Liberation [by Observing the| Characteristics [of the| Symptoms of Death.’ Then, when all the
+symptoms of death are complete [he should] apply the Transference, which conferreth liberation by mercly remembering
 [the process ].’
 
 
-‘transference’ (of the sum-total, or aggregate, of karmic propensities, com-
-posing, or bound up with, personality and consciousness). The use of the term
+‘transference’ (of the sum-total, or aggregate, of karmic propensities, composing, or bound up with, personality and consciousness). The use of the term
 ‘soul’ being objectionable, since Buddhism, as a whole, denies the existence of
 a permanent, unchanging personal-consciousness entity such as the Semitic
 Faiths and animistic creeds in general understand thereby, the translator has
 avoided using it. But wherever any similar or equivalent term occurs herein
-it should be taken to imply something akin to ‘consciousness-principle’ or ‘com-
-pound of consciousness’ as implied by the Tibetan Hpho, or else as synonymous
+it should be taken to imply something akin to ‘consciousness-principle’ or ‘compound of consciousness’ as implied by the Tibetan Hpho, or else as synonymous
 with the term ‘life-flux’ as used chiefly by Southern Buddhists.
 
-1 A Tibetan work of the Bardo cycle, commonly used by /a4mas as supple-
-mentary to the Bardo Thédol (see part 9 of Note 1, p. 71). It treats of the
+1 A Tibetan work of the Bardo cycle, commonly used by /a4mas as supplementary to the Bardo Thédol (see part 9 of Note 1, p. 71). It treats of the
 symptoms of death in particular, scientifically and in very great detail. The
 late Lama Kazi Dawa-Samdup had planned its translation into English.
 
@@ -6071,11 +4676,9 @@ prevent any break in the flow of the stream of consciousness, from the moment
 of a conscious death to the moment of a conscious rebirth. Judging from
 a translation, made by the late Lama Kazi Dawa-Samdup, of an old Tibetan
 manuscript containing practical directions for performing the Trausference,
-which the editor possesses, the process is essentially yogic, and could be em-
-ployed only by a person trained in mental concentration, or one-pointedness of
+which the editor possesses, the process is essentially yogic, and could be employed only by a person trained in mental concentration, or one-pointedness of
 mind, to such a high degree of proficiency as to have gained control over all
-the mental and bodily functions, Merely remembering the process at the all-
-important moment of death—as the text implies—is, for a yog?7, equivalent to
+the mental and bodily functions, Merely remembering the process at the allimportant moment of death—as the text implies—is, for a yog?7, equivalent to
 performing the Transference itself; for once the yogi’s trained mind is directed
 
 
@@ -6118,8 +4721,7 @@ accidental death entailing loss or destruction of the human-plane body; or when,
 to accord with astrological calculations, the body had been removed or disposed
 of immediately after death, a not uncommon event in Tibet), the spirit of the
 deceased, in the invisible Bardo-plane body, must, nevertheless, be present at
-the reading, in order to be given the necessary guidance through the Other-
-world—as the Egyptian Book of the Dead also directs (see p. 19).
+the reading, in order to be given the necessary guidance through the Otherworld—as the Egyptian Book of the Dead also directs (see p. 19).
 
 3 This prohibition is found in Brahmanism too.
 
@@ -6146,8 +4748,7 @@ Now for the explaining of the 7/édo/ itself :
 If thou canst gather together a grand offering, offer it in
 worship of the Trinity. If such cannot be done, then arrange
 whatever can be gathered together as objects on which thou
-canst concentrate thy thoughts and mentally create as illimit-
-able an offering as possible and worship.
+canst concentrate thy thoughts and mentally create as illimitable an offering as possible and worship.
 
 Then the ‘Path of Good Wishes Invoking the Aid of the
 Buddhas and Bodhisattvas’! should be recited seven times
@@ -6160,8 +4761,7 @@ together with the ‘Root Words of the Bardo’, are to be read
 distinctly and with the proper intonation.?
 
 Then this Great 7/ddol is to be read either seven times or
-thrice,> according to the occasion. [First cometh] the setting-
-face-to-face [to the symptoms of death] as they occur during
+thrice,> according to the occasion. [First cometh] the settingface-to-face [to the symptoms of death] as they occur during
 the moments of death ; [second] the application of the great
 vivid reminder, the setting-face-to-face to Reality while in the
 
@@ -6265,18 +4865,15 @@ of what he had [previously] heard of the setting-face-to-face
 and will at once come to recognize that Fundamental Light
 and undoubtedly obtain Liberation.
 
-As regards the time for the application [of these in-
-structions |:
+As regards the time for the application [of these instructions |:
 
 When the expiration hath ceased, the vital-force will have
 sunk into the nerve-centre of Wisdom! and the Knower?
-will be experiencing the Clear Light of the natural con-
-dition? Then, the vital-force,* being thrown backwards
+will be experiencing the Clear Light of the natural condition? Then, the vital-force,* being thrown backwards
 and flying downwards through the right and left nerves,°
 the Intermediate State momentarily dawns.
 
-The above [directions] should be applied before [the vital-
-force hath] rushed into the left nerve [after first having
+The above [directions] should be applied before [the vitalforce hath] rushed into the left nerve [after first having
 traversed the navel nerve-centre].
 
 The time [ordinarily necessary for this motion of the vital-
@@ -6285,8 +4882,7 @@ The time [ordinarily necessary for this motion of the vital-
 Dreamer is awakened into Reality simultaneously with the mighty achievement
 of recognition.
 
-1 Here, as elsewhere in our text, ‘nerve-centre’ refers to a psychic nerve-
-centre. The psychic nerve-centre of Wisdom is located in the heart. (Cf.
+1 Here, as elsewhere in our text, ‘nerve-centre’ refers to a psychic nervecentre. The psychic nerve-centre of Wisdom is located in the heart. (Cf.
 pp. 217 ff.)
 
 2 Text: Shespa (pron. Shepa): ‘Mind’, ‘Knower’; i.e. the mind in its
@@ -6316,8 +4912,7 @@ the time required for eating a meal.}
 
 Then the manner of the application [of the instructions] is:
 
-When the breathing is about to cease, it is best if the Trans-
-ference hath been applied efficiently ; if [the application] hath
+When the breathing is about to cease, it is best if the Transference hath been applied efficiently ; if [the application] hath
 been inefficient, then [address the deceased] thus:
 
 O nobly-born (so and so by name), the time hath now
@@ -6347,16 +4942,14 @@ to return from the median-nerve * and will be sure to pass out
 
 
 1 When this text first took form the reckoning of time was, apparently, yet
-primitive, mechanical time-keeping appliances being unknown. A similar con-
-dition still prevails in many parts of Tibet, where the period of a meal-time is
+primitive, mechanical time-keeping appliances being unknown. A similar condition still prevails in many parts of Tibet, where the period of a meal-time is
 frequently mentioned in old religious books—a period of from twenty minutes to
 half an hour in duration.
 
 2 The dying person should die fully awake and keenly conscious of the
 process of death; hence the pressing of the arteries. (Cf. p. xxix.)
 
-8 «Skt, of text: dhutth (pron. dufi), meaning “ median-nerve’’, but lit. “ tri-
-junction’”’, V.S. Apte’s Sanscnit-English Dictionary (Poona, 1890) gives dhuiz
+8 «Skt, of text: dhutth (pron. dufi), meaning “ median-nerve’’, but lit. “ trijunction’”’, V.S. Apte’s Sanscnit-English Dictionary (Poona, 1890) gives dhuiz
 as the only similar word, defined as “shaking ” or ‘‘ moving”’, which, if applied
 to our text, may refer to the vibratory motion of the psychic force traversing the
 median-nerve as its channel.’,—-Lama Kazi Dawa-Samdup.
@@ -6367,8 +4960,7 @@ median-nerve as its channel.’,—-Lama Kazi Dawa-Samdup.
 92 BARDO OF THE DYING [BOOK I
 
 
-through the Brahmanic aperture.!_ Now the real setting-face-
-to-face is to be applied.
+through the Brahmanic aperture.!_ Now the real setting-faceto-face is to be applied.
 
 At this moment, the first [glimpsing] of the Bardo of the
 Clear Light of Reality, which is the Infallible Mind of the
@@ -6378,10 +4970,8 @@ The interval between the cessation of the expiration and
 the cessation of the inspiration is the time during which the
 vital-force remaineth in the median-nerve.?
 
-The common people call this the state wherein the con-
-sciousness-principle® hath fainted away. The duration of
-this state is uncertain. [It dependeth] upon the constitu-
-tion, good or bad, and [the state of] the nerves and vital-
+The common people call this the state wherein the consciousness-principle® hath fainted away. The duration of
+this state is uncertain. [It dependeth] upon the constitution, good or bad, and [the state of] the nerves and vital-
 force. In those who have had evena little practical experience
 of the firm, tranquil state of dhyana, and in those who have
 sound nerves, this state continueth for a long time.*
@@ -6391,8 +4981,7 @@ to the outgoing of the consciousness in the process of death,’—-Sj. Atal Bih
 Ghosh.
 
 1 See pp. 18, 878, 215. If non-distracted, and alertly conscious, at this
-psychological moment, the dying person will realize, through the power con-
-ferred by the reading of the Thédol, the importance of holding the vital-force in
+psychological moment, the dying person will realize, through the power conferred by the reading of the Thédol, the importance of holding the vital-force in
 the median-nerve till it passes out thence through the Aperture of Brahma.
 
 2 After the expiration has ceased, the vital-force (lit. ‘inner-breath’) is
@@ -6410,8 +4999,7 @@ the text comes to an end. Only for adepts in yoga would the departure of the
 consciousness-principle be accomplished without break in the continuity of the
 stream of consciousness, that is to say, without the swoon state referred to.
 
-The death process is the reverse of the birth process, birth being the incar-
-nating, death the discarnating of the consciousness-principle ; but, in both alike,
+The death process is the reverse of the birth process, birth being the incarnating, death the discarnating of the consciousness-principle ; but, in both alike,
 there is a passing from one state of consciousness into another. And, just as
 a babe must wake up in this world and learn by experience the nature of this
 world, so, likewise, a person at death must wake up in the Bardo world and
@@ -6440,8 +5028,7 @@ time taken for the eating of a meal,
 
 In various Zantras it is said that this state of swoon
 endureth for about three and one-half days. Most other
-[religious treatises] say for four days; and that this setting-
-face-to-face with the Clear Light ought to be persevered
+[religious treatises] say for four days; and that this settingface-to-face with the Clear Light ought to be persevered
 in [during the whole time].
 
 The manner of applying [these directions] is:
@@ -6472,8 +5059,7 @@ his soul.’
 
 3 The three chief symptoms of death (which the text merely suggests by
 naming the first of them, it being taken for granted that the reader officiating
-will know the others and name them as they occur), with their symbolical counter-
-part, are as follows : (1) a bodily sensation of pressure, ‘earth sinking into water’ ;
+will know the others and name them as they occur), with their symbolical counterpart, are as follows : (1) a bodily sensation of pressure, ‘earth sinking into water’ ;
 (2) a bodily sensation of clammy coldness as though the body were immersed in
 water, which gradually merges into that of feverish heat, ‘ water sinking into
 fire’; (3) a feeling as though the body were being blown to atoms, ‘ fire sinking
@@ -6484,8 +5070,7 @@ body, such as loss of control over facial muscles, loss of hearing, loss of sigh
 94 BARDO OF THE DYING [BOOK I
 
 
-When all the symptoms [of death] are about to be com-
-pleted, then enjoin upon [the one dying] this resolution,
+When all the symptoms [of death] are about to be completed, then enjoin upon [the one dying] this resolution,
 speaking in a low tone of voice in the ear:
 
 O nobly-born (or, if it be a priest, O Venerable Sir), let not
@@ -6533,8 +5118,7 @@ subdue in this sense any sentient being of the human world, a form which will
 appeal religiously to that being is assumed. Thus, to appeal to a Shaivite
 devotee, the form of Shiva is assumed ; to a Buddhist, the form of the Buddha
 Shakya Muni; to a Christian, the form of Jesus; to a Moslem, the form of the
-Prophet ; and so on for other religious devotees; and for all manners and con-
-ditions of mankind a form appropriate to the occasion—for example, for subduing
+Prophet ; and so on for other religious devotees; and for all manners and conditions of mankind a form appropriate to the occasion—for example, for subduing
 
 
 Pam) THE CLEAR LIGHT OF THE VOID 95
@@ -6556,15 +5140,13 @@ After the expiration hath completely ceased, press the
 nerve of sleep firmly ; and, a /é@ma, or a person higher or more
 learned than thyself, impress in these words, thus:
 
-Reverend Sir, now that thou art experiencing the Funda-
-mental Clear Light, try to abide in that state which now thou
+Reverend Sir, now that thou art experiencing the Fundamental Clear Light, try to abide in that state which now thou
 art experiencing.
 
 And also in the case of any other person the reader shall
 set him face-to-face thus:
 
-O nobly-born (so-and-so), listen. Now thou art experienc-
-ing the Radiance of the Clear Light of Pure Reality. Recog-
+O nobly-born (so-and-so), listen. Now thou art experiencing the Radiance of the Clear Light of Pure Reality. Recog-
 nize it. O nobly-born, thy present intellect,? in real nature
 void, not formed into anything as regards characteristics or
 colour, naturally void, is the very Reality, the All-Good.?
@@ -6588,12 +5170,9 @@ Dharma-Dhdaiu Samanta-Bhadra, the embodiment of the Dharma-Kaya, the
 first state of Buddhahood. Our Block-Print text, in error here, gives for the All-
 Good (Kuntu-Zang-po, meaning ‘All-Good Father’) Kuntu-Zang-mo, which
 means ‘All-Good Mother’. According to the Great Perfectionist School, the
-Father is that which appears, or phenomena, the Mother is that which is con-
-scious of the phenomena. Again, Bliss is the Father, and the Voidness
-perceiving it, the Mother; the Radiance is the Father, and the Voidness per-
-ceiving it, the Mother; and, as in our text here, the intellect is the Father,
-the Voidness the Mother. The repetition of ‘void’ is to emphasize the im-
-portance of knowing the intellect to be in reality void (or of the nature of void-
+Father is that which appears, or phenomena, the Mother is that which is conscious of the phenomena. Again, Bliss is the Father, and the Voidness
+perceiving it, the Mother; the Radiance is the Father, and the Voidness perceiving it, the Mother; and, as in our text here, the intellect is the Father,
+the Voidness the Mother. The repetition of ‘void’ is to emphasize the importance of knowing the intellect to be in reality void (or of the nature of void-
 ness), i.e. of the unborn, uncreated, unshaped Primordial.
 
 
@@ -6620,8 +5199,7 @@ of the] divine mind ® of the Buddha.®
 
 
 1 Text: Rig-fa, meaning ‘consciousness’ as distinct from the knowing
-faculty by which it cognizes or knows itself to be. Ordinarily, rig-pa and shes-
-rig are Synonymous; but in an abstruse philosophical treatise, as herein, 7ig-pa
+faculty by which it cognizes or knows itself to be. Ordinarily, rig-pa and shesrig are Synonymous; but in an abstruse philosophical treatise, as herein, 7ig-pa
 refers to the consciousness in its purest and most spiritual (i. e. supramundane)
 aspect, and shes-rig to the consciousness in that grosser aspect, not purely
 spiritual, whereby cognizance of phenomena is present.
@@ -6629,11 +5207,9 @@ spiritual, whereby cognizance of phenomena is present.
 In this part of the Bardo Thédol the psychological analysis of consciousness
 or mind is particularly abstruse. Wherever the text contains the word rig-pa
 we have rendered it as ‘consciousness’, and the word shkes-ng as ‘intellect’ ;
-or else, to suit the context, »#g-pa as ‘consciousness’ and shes-rig as ‘ conscious-
-ness of phenomena’, which is ‘ intellect’,
+or else, to suit the context, »#g-pa as ‘consciousness’ and shes-rig as ‘ consciousness of phenomena’, which is ‘ intellect’,
 
-2 Text: Kun-tu-bzang-po: Skt. Samanta (‘All’ or ‘ Universal’ or ‘Com-
-plete’) Bhadra (‘Good’ or ‘ Beneficent’), In this state, the experiencer and
+2 Text: Kun-tu-bzang-po: Skt. Samanta (‘All’ or ‘ Universal’ or ‘Complete’) Bhadra (‘Good’ or ‘ Beneficent’), In this state, the experiencer and
 the thing experienced are inseparably one and the same, as, for example, the
 yellowness of gold cannot be separated from gold, nor saltness from salt. For
 the normal human intellect this transcendental state is beyond comprehension.
@@ -6683,12 +5259,10 @@ hath not been recognized, then [it can certainly be assumed]
 there is dawning [upon the deceased] that called the secondary
 
 
-Unborn, the Unmade, the Unformed, implies Buddhahood, Perfect Enlighten-
-ment—the state of the Divine Mind of the Buddha. Compare the following
+Unborn, the Unmade, the Unformed, implies Buddhahood, Perfect Enlightenment—the state of the Divine Mind of the Buddha. Compare the following
 passage, from The Diamond [or Immutable] Sara, with its Chinese commentary
 (trans. by W. Gemmell, London, 1912, pp. 17-18): ‘Every form or quality of
-phenomena is transient and illusive. When the mind realizes that the pheno-
-mena of life are not real phenomena, the Lord Buddha may then be clearly
+phenomena is transient and illusive. When the mind realizes that the phenomena of life are not real phenomena, the Lord Buddha may then be clearly
 perceived.’—(Chinese Annotation : ‘ The spiritual Buddha must be realized within
 the mind, otherwise there can be no true perception of the Lord Buddha.’)
 
@@ -6703,13 +5277,10 @@ then rebirth. The simile of a needle balanced and set rolling on a thread is
 used by the /a@mas to elucidate this condition. So long as the needle retains its
 balance, it remains on the thread. Eventually, however, the law of gravitation
 affects it, and it falls. In the realm of the Clear Light, similarly, the mentality
-of a person dying momentarily enjoys a condition of balance, or perfect equi-
-librium, and of oneness. Owing to unfamiliarity with such a state, which is an
+of a person dying momentarily enjoys a condition of balance, or perfect equilibrium, and of oneness. Owing to unfamiliarity with such a state, which is an
 ecstatic state of non-ego, of subliminal consciousness, the consciousness-principle
-of the average human being Jacks the power to function in it; karmic propensi-
-ties becloud the consciousness-principle with thoughts of personality, of
-individualized being, of dualism, and, losing equilibrium, the consciousness-
-principle falls away from the Clear Light. It is ideation of ego, of self, which
+of the average human being Jacks the power to function in it; karmic propensities becloud the consciousness-principle with thoughts of personality, of
+individualized being, of dualism, and, losing equilibrium, the consciousnessprinciple falls away from the Clear Light. It is ideation of ego, of self, which
 prevents the realization of Nirvana (which is the ‘blowing out of the flame of
 selfish longing’); and so the Wheel of Life continues to turn.
 
@@ -6720,8 +5291,7 @@ selfish longing’); and so the Wheel of Life continues to turn.
 98 BARDO OF THE DYING [BOOK I
 
 
-Clear Light, which dawneth in somewhat more than a meal-
-time period after that the expiration hath ceased.’
+Clear Light, which dawneth in somewhat more than a mealtime period after that the expiration hath ceased.’
 
 According to one’s good or bad karma, the vital-force
 floweth down into either the right or left nerve and goeth out
@@ -6749,8 +5319,7 @@ There are those [devotees] of the perfected stage and of the
 
 1 Immediately after the passing of the vital-force into the median-nerve, the
 person dying experiences the Clear Light in its primitive purity, the Dharma-
-Kaya unobscured; and, if unable to hold fast to that experience, next ex-
-periences the secondary Clear Light, having fallen to a lower state of the Bardo,
+Kaya unobscured; and, if unable to hold fast to that experience, next experiences the secondary Clear Light, having fallen to a lower state of the Bardo,
 wherein the Dharma-Kaya is dimmed by karmtc obscurations.
 
 SEC apesorxs
@@ -6789,8 +5358,7 @@ O thou of noble-birth, meditate upon thine own tutelary
 deity.—[Here the deity’s name is to be mentioned by the
 reader.”]_ Do not be distracted. LEarnestly concentrate thy
 mind upon thy tutelary deity. Meditate upon him as if he
-were the reflection of the moon in water, apparent yet in-
-existent [in itself]. Meditate upon him as if he were a being
+were the reflection of the moon in water, apparent yet inexistent [in itself]. Meditate upon him as if he were a being
 with a physical body.
 
 So saying, [the reader will] impress it.
@@ -6819,16 +5387,14 @@ most loved ever.’
 2 The favourite deity of the deceased is the tutelary (Tib. y#-dawz), usually
 one of the Buddhas or Bodhisattvas, of whom Chenrazee is the most popular.
 
-3 Text: Jo-vo-thugs-rje-chen-po (pron. Jo-wo-thu-ji-chen-po) : ‘ Great Compas-
-sionate Lord’, synonymous with Tib. Spyan-ras.gzigs (pron. Chen-ré-si): Skt.
+3 Text: Jo-vo-thugs-rje-chen-po (pron. Jo-wo-thu-ji-chen-po) : ‘ Great Compassionate Lord’, synonymous with Tib. Spyan-ras.gzigs (pron. Chen-ré-si): Skt.
 Avalokiteshvara.
 
 4 A person may have heard a detailed description of the art of swimming and
 yet never have tried to swim. Suddenly thrown into water he finds himself
 unable to swim. So with those who have been taught the theory of how to act
 in the time of death and have not applied, through yogic practices, the theory :
-they cannot maintain unbroken continuity of consciousness; they grow be-
-wildered at the changed conditions ; and fail to progress or to take advantage
+they cannot maintain unbroken continuity of consciousness; they grow bewildered at the changed conditions ; and fail to progress or to take advantage
 of the opportunity offered by death, unless upheld and directed by a living guru.
 Even with all that a guru can do, they ordinarily, because of bad Zarma, fail to
 recognize the Bardo as such.
@@ -6843,8 +5409,7 @@ pale
 There may be even those who have made themselves
 familiar with the teachings, yet who, because of the violence
 of the disease causing death, may be mentally unable to
-withstand illusions. For such, also, this instruction is abso-
-lutely necessary.
+withstand illusions. For such, also, this instruction is absolutely necessary.
 
 Again [there are those] who, although previously familiar
 with the teachings, have become liable to pass into the
@@ -6886,8 +5451,7 @@ Reality is to the Mother-Reality.
 
 * Lit., ‘karma is unable to turn the mouth or head’, the figure implied being
 that of a rider controlling a horse with a bridle and bit. In the Tantra of the
-Great Liberation, there is this similar passage: ‘The man blinded by the dark-
-ness of ignorance, the fool caught in the meshes of his actions, and the illiterate
+Great Liberation, there is this similar passage: ‘The man blinded by the darkness of ignorance, the fool caught in the meshes of his actions, and the illiterate
 man, by listening to this Great Tantra, are released from the bonds of harma’
 (cf. Tantra of the Great Liberation, line ao5, as edited by Arthur Avalon, London,
 1913, P- 359).
@@ -6902,8 +5466,7 @@ those places to which its activities had been limited. If at
 this time this special teaching be applied efficiently, then the
 purpose will be fulfilled; for the karmic illusions will not
 have come yet, and, therefore, he [the deceased] cannot be
-turned hither and thither [from his aim of achieving En-
-lightenment ].
+turned hither and thither [from his aim of achieving Enlightenment ].
 
 
 [PART 1]j
@@ -6921,13 +5484,11 @@ APPARIDIONS APPEAR]
 
 
 But even though the Primary Clear Light be not recognized,
-the Clear Light of the second Bardo being recognized, Libera-
-tion will be attained. If not liberated even by that, then that
+the Clear Light of the second Bardo being recognized, Liberation will be attained. If not liberated even by that, then that
 called the third Bardo or the Chonyid Bardo dawneth.
 
 In this third stage of the Bardo, the karmic illusions come
-to shine. It is very important that this Great Setting-face-to-
-face of the Choényid Bardo be read: it hath much power and
+to shine. It is very important that this Great Setting-face-toface of the Choényid Bardo be read: it hath much power and
 can do much good.
 
 About this time [the deceased] can see that the share of
@@ -6949,8 +5510,7 @@ to his bed or sleeping-place.
 102 BARDO OF KARMIC ILLUSIONS [Book I
 
 
-can hear all the weeping and wailing of his friends and rela-
-tives, and, although he can see them and can hear them calling
+can hear all the weeping and wailing of his friends and relatives, and, although he can see them and can hear them calling
 upon him, they cannot hear him calling upon them, so he
 goeth away displeased.
 
@@ -6958,8 +5518,7 @@ At that time, sounds, lights, and rays—all three—are
 experienced. These awe, frighten, and terrify, and cause
 much fatigue. At this moment, this setting-face-to-face with
 the Bardo [during the experiencing] of Reality is to be
-applied. Call the deceased by name, and correctly and dis-
-tinctly explain to him, as follows:
+applied. Call the deceased by name, and correctly and distinctly explain to him, as follows:
 
 O nobly-born, jisten with full attention, without being
 distracted: There are six states of Bardo, namely: the
@@ -6997,8 +5556,7 @@ Dyhana (Meditation) in Samadhi (Ecstatic equilibrium)’.
 5 Text: Chés-nyid Bardo (pron. Ché-nyid Bardo): ‘Intermediate State’, or
 ‘State of Uncertainty, [during the experiencing] of Reality’.
 
-® Text: Lugs-hbyung Srid-pahi Bardo (pron. Lu-jung Sid-pai Bardo : ‘Inter-
-mediate State’, or ‘State of Uncertainty, in the inverse process of sangsdaric
+® Text: Lugs-hbyung Srid-pahi Bardo (pron. Lu-jung Sid-pai Bardo : ‘Intermediate State’, or ‘State of Uncertainty, in the inverse process of sangsdaric
 (worldly) existence’—the state wherein the Knower is seeking rebirth.
 
 
@@ -7026,8 +5584,7 @@ secret of recognition:
 ‘Alas! when the Uncertain Experiencing of Reality is
 dawning upon me here,’
 
-With every thought of fear or terror or awe for all [appari-
-tional appearances] set aside,
+With every thought of fear or terror or awe for all [apparitional appearances] set aside,
 
 May I recognize whatever [visions] appear, as the reflections
 of mine own consciousness ;
@@ -7043,8 +5600,7 @@ mine own thought-forms.*’
 
 
 Repeat thou these [verses] clearly, and remembering their
-significance as thou repeatest them, go forwards, [O nobly-
-born]. Thereby, whatever visions of awe or terror appear,
+significance as thou repeatest them, go forwards, [O noblyborn]. Thereby, whatever visions of awe or terror appear,
 
 
 1 Text: Hkhor-va (pron. Khor-wa): ‘a thing whirling round’; ‘ whirligig’ :
@@ -7071,8 +5627,7 @@ lying therein.
 O nobly-born, when thy body and mind were separating,
 thou must have experienced a glimpse of the Pure Truth,
 subtle, sparkling, bright, dazzling, glorious, and radiantly
-awesome, in appearance like a mirage moving across a land-
-scape in spring-time in one continuous stream of vibrations.
+awesome, in appearance like a mirage moving across a landscape in spring-time in one continuous stream of vibrations.
 Be not daunted thereby, nor terrified, nor awed. That is the
 radiance of thine own true nature. Recognize it.
 
@@ -7094,8 +5649,7 @@ thought-forms, whatever of meditation or of devotion thou
 mayst have performed while in the human world—if thou hast
 not met with this present teaching—the lights will daunt
 thee, the sounds will awe thee, and the rays will terrify thee.
-Shouldst thou not know this all-important key to the teach-
-ings,—not being able to recognize the sounds, lights, and
+Shouldst thou not know this all-important key to the teachings,—not being able to recognize the sounds, lights, and
 rays,—thou wilt have to wander in the Sangsara.
 
 
@@ -7105,8 +5659,7 @@ PROM THE FERST TO THE SEVENTH Diag)
 
 [Assuming that the deceased is karmically bound—as the
 average departed one is—to pass through the forty-nine days
-of the Bardo existence, despite the very frequent settings-face-
-to-face, the daily trials and dangers which he must meet and
+of the Bardo existence, despite the very frequent settings-faceto-face, the daily trials and dangers which he must meet and
 
 ' Text: bag-chags yid-liis (pron. bag-chah yid-li). yid-lis: ‘mind-body’ or
 
@@ -7165,10 +5718,8 @@ Bhagavan (applied to many other of the deities to follow hereinafter), meaning
 qualifies him as being a Buddha, i.e. One who has conquered, or has dominion
 over, sangsaric, or worldly, existence.
 
-As the Central Dhyani Buddha, Vairochana is the highest path te Enlighten-
-ment of the Esoteric School. Like a Central Sun, surrounded by the four
-Dhyani Buddhas of the four cardinal directions, who dawn on the four succeed-
-ing days, he symbolizes the One Truth surrounded by its four constituents or
+As the Central Dhyani Buddha, Vairochana is the highest path te Enlightenment of the Esoteric School. Like a Central Sun, surrounded by the four
+Dhyani Buddhas of the four cardinal directions, who dawn on the four succeeding days, he symbolizes the One Truth surrounded by its four constituents or
 elements. As the source of all organic life, in him all things visible and invisible
 have their consummation and absorption.
 
@@ -7213,19 +5764,16 @@ in thy mind that it is the light proceeding from the heart of
 the Bhagavan Vairochana coming to receive thee while in the
 
 
-1 Text: Nam-mkh-ah-dvyings-kyi-duang-phyung-ma (pron. Nam-kha-ing-hya-
-wang-chug-ma) : ‘ Sovereign Lady of the Space of Heaven’: Skt. Akasa Dhatu
+1 Text: Nam-mkh-ah-dvyings-kyi-duang-phyung-ma (pron. Nam-kha-ing-hyawang-chug-ma) : ‘ Sovereign Lady of the Space of Heaven’: Skt. Akasa Dhatu
 /shvari. The Mother is the female principle of the universe; the Father,
 Vairochana, the seed of all that is,
 
-? Here the Block-Print reads: ‘It is the aggregate of consciousness (Rvam-
-par Shes-tahi—pro. Nam-par She-pay —Skt. Vijfiana Skandha) resolved into its
+? Here the Block-Print reads: ‘It is the aggregate of consciousness (Rvampar Shes-tahi—pro. Nam-par She-pay —Skt. Vijfiana Skandha) resolved into its
 primordial state which is the blue light.’ In our MS. the aggregate of
 consciousness shines as a white light in relationship with Vajra-Sattva, on the
 Second Day (see p. 109).
 
-* Here, as in parallel passages following, the chief deity personifies in him-
-self the female as well as the male principle of nature, and hence is called the
+* Here, as in parallel passages following, the chief deity personifies in himself the female as well as the male principle of nature, and hence is called the
 Father-Mother—depicted, as described by the text, in appropriate symbolic
 colours, on the corresponding illuminated folio of our MS., as the Divine Father
 and the Divine Mother in union (i.e. in divine at-one-ment).
@@ -7266,8 +5814,7 @@ guard ;
 May |I] be led safely across the fearful ambush of the
 Bardo;
 
-May [I] be placed in the state of the All-Perfect Buddha-
-hood.’ ?
+May [I] be placed in the state of the All-Perfect Buddhahood.’ ?
 
 
 Praying thus, in intense humble faith, [thou] wilt merge, in
@@ -7279,8 +5826,7 @@ the Densely-Packed.®
 1 Text: hphrang (pron. htang): ‘narrow passage’, ‘ambush’.
 
 2 Cf, the following instructions to the dying person and the prayer from
-The Craft to Know Well to Die, chap. IV, Comper’s ed. (p. 73): ‘ He ought after-
-wards, if he may, to call on the holy angels, in saying: ‘‘ Ye spirits of Heaven,
+The Craft to Know Well to Die, chap. IV, Comper’s ed. (p. 73): ‘ He ought afterwards, if he may, to call on the holy angels, in saying: ‘‘ Ye spirits of Heaven,
 Angels much glorious, I beseech you that ye will be assistant [i.e. present]
 with me that now beginneth to depart, and that ye deliver me mightily from
 the awaits and fallacies of mine adversaries; and that it please you to receive
@@ -7313,12 +5859,10 @@ by name, thus:
 
 O nobly-born, listen undistractedly. On the Second Day
 the pure form of water will shine as a white light. At that
-time, from the deep blue Eastern Realm of Pre-eminent Hap-
-piness, the Bhagavan Akshobhya [as] Vajra-Sattva,’ blue in
+time, from the deep blue Eastern Realm of Pre-eminent Happiness, the Bhagavan Akshobhya [as] Vajra-Sattva,’ blue in
 colour, holding in his hand a five-pronged dovze,? seated upon
 an elephant-throne, and embraced by the Mother Mamaki?,
-will appear to thee, attended by the Bodhisattvas Kshiti-
-garbha* and Maitreya,® with the female Bodhisattvas, Lasema
+will appear to thee, attended by the Bodhisattvas Kshitigarbha* and Maitreya,® with the female Bodhisattvas, Lasema
 and Pushpema.® These six Bodhic deities will appear to thee.
 
 
@@ -7334,8 +5878,7 @@ reflexes are very important deities of the Esoteric School.
 
 8 This is the Sanskrit form as incorporated in our Tibetan text. Here the
 Block-Print, evidently in error, contains, in Tibetan, Sangs-rgyas-spyan-ma
-(pron. Sang-yay Chan-ma), meaning ‘She of the Buddha Eye’, who, in our manu-
-script text, comes with Ratna-Sambhava on the Third Day. Mamaki is also
+(pron. Sang-yay Chan-ma), meaning ‘She of the Buddha Eye’, who, in our manuscript text, comes with Ratna-Sambhava on the Third Day. Mamaki is also
 one of the ro8 names given to Délma (Skt. Tara), the national goddess of Tibet.
 (See p, 116%.) In the Dharma Samgraha it is said that there are four Devis,
 namely, Rochani, Mamaki, Pandura, and Tara.
@@ -7360,8 +5903,7 @@ PART 1] DAWNING OF VAJRA-SATTVA 1cg
 The aggregate of thy principle of consciousness,! being in its
 pure form—which is the Mirror-like Wisdom—will shine as
 a bright, radiant white light, from the heart of Vajra-Sattva,
-the Father-Mother,? with such dazzling brilliancy and trans-
-parency that thou wilt scarcely be able to look at it, [and]
+the Father-Mother,? with such dazzling brilliancy and transparency that thou wilt scarcely be able to look at it, [and]
 will strike against thee. And a dull, smoke-coloured light
 from Hell will shine alongside the light of the Mirror-like
 Wisdom and will [also] strike against thee.
@@ -7386,12 +5928,10 @@ of the power of accumulated evil karma from violent anger.
 If thou be attracted by it, thou wilt fall into the Hell-Worlds;
 and, falling therein, thou wilt have to endure unbearable
 misery, whence there is no certain time of getting out. That
-being an interruption to obstruct thee on the Path of Libera-
-tion, look not at it; and avoid anger.* Be not attracted by
+being an interruption to obstruct thee on the Path of Liberation, look not at it; and avoid anger.* Be not attracted by
 
 
-1 Text: Ruampar-shes-paht-phung-po (pron. Nampar-she-pay-phung-po), ‘ag-
-gregate of consciousness-principle’, the Knower. The Block-Print contains,
+1 Text: Ruampar-shes-paht-phung-po (pron. Nampar-she-pay-phung-po), ‘aggregate of consciousness-principle’, the Knower. The Block-Print contains,
 in place of this, Geugs-kyt-phung-po (pron. Zu-kyt-phung-po), ‘aggregate of the
 body’ or ‘ Bodily-aggregate’.
 
@@ -7399,8 +5939,7 @@ body’ or ‘ Bodily-aggregate’.
 
 8 The rays of divine grace are a hook of salvation to catch hold of the
 deceased and drag him away from the dangers of the Bardo. Sometimes each
-ray is thought of as ending in a hook, just as each ray emanating from the sun-
-god Ra, and descending as a grace ray upon a devotce, is depicted in ancient
+ray is thought of as ending in a hook, just as each ray emanating from the sungod Ra, and descending as a grace ray upon a devotce, is depicted in ancient
 temples of Egypt as ending in a hand. Similarly, the Christian thinks of the
 saving grace of God.
 
@@ -7464,8 +6003,7 @@ parallels the moral teaching against giving way to anger contained in the ancien
 Egyptian Precepts of Ptah-hotep.
 
 
-1 Text: Rinchen-hbyung-ldan (pron, Rinchen-Jung-dan): Skt. Ratna-Sam-
-bhava, i.c. ‘Born of a Jewel’. He is the Beautifier, whence comes all that is
+1 Text: Rinchen-hbyung-ldan (pron, Rinchen-Jung-dan): Skt. Ratna-Sambhava, i.c. ‘Born of a Jewel’. He is the Beautifier, whence comes all that is
 precious ; a personified attribute of the Buddha.
 
 
@@ -7493,16 +6031,14 @@ a fear for the dazzling yellow light and wilt [wish to] flee
 from it. Thou wilt be fondly attracted towards the dull
 bluish-yellow light from the human [world].
 
-At that time do not fear that bright, dazzling-yellow, trans-
-parent light, but know it to be Wisdom; in that state, keeping
+At that time do not fear that bright, dazzling-yellow, transparent light, but know it to be Wisdom; in that state, keeping
 thy mind resigned, trust in it earnestly and humbly. If thou
 knowest it to be the radiance of thine own intellect—although
 thou exertest not thy humility and faith and prayer to it—
 the Divine Body and Light will merge into thee inseparably,
 and thou wilt obtain Buddhahood.
 
-If thou dost not recognize the radiance of thine own intel-
-lect, think, with faith, ‘It is the radiance of the grace of the
+If thou dost not recognize the radiance of thine own intellect, think, with faith, ‘It is the radiance of the grace of the
 
 
 1 Text: Sangs-reyas-spyan-ma (pron, Sang-yay Chan-ma): ‘She of the
@@ -7518,8 +6054,7 @@ the spiritual son of the Dhyani Buddha Vairochana.
 4 Text: Mahlaima, ‘She Who Holds (or Bears) the Rosary’; and Dhupema,
 ‘She Who Holds (or Bears) the Incense’. These are corrupt forms, hybrids
 of Sanskrit and Tibetan, their Sanskrit equivalents being Ma/d and Dhipa, and
-their Tibetan equivalents Hphreng-ba-ma (pron. Phreng-ba-ma) and Bdug-spis-
-ma (pron. Dug-pd-ma). The colour of these goddesses, corresponding to that
+their Tibetan equivalents Hphreng-ba-ma (pron. Phreng-ba-ma) and Bdug-spisma (pron. Dug-pd-ma). The colour of these goddesses, corresponding to that
 of the earth-light, is yellow.
 
 
@@ -7574,8 +6109,7 @@ Endowed with Glory.
 By thus being set face to face, however weak the mental
 faculties may be, there is no doubt of one’s gaining Liberation.
 Yet, though so often set face to face, there are classes of men
-who, having created much bad karma, or having failed in observ-
-ance of vows, or, their lot [for higher development] being alto-
+who, having created much bad karma, or having failed in observance of vows, or, their lot [for higher development] being alto-
 gether lacking, prove unable to recognize: their obscurations
 
 
@@ -7585,8 +6119,7 @@ PART IT] DAWNING OF AMITABHA 113
 and evil karma from covetousness and miserliness produce
 awe of the sounds and radiances, and they flee. [If one be
 of these classes], then, on the Fourth Day, the Bhagavan
-Amitabha' and his attendant deities, together with the light-
-path from the Preta-loka, proceeding from miserliness and
+Amitabha' and his attendant deities, together with the lightpath from the Preta-loka, proceeding from miserliness and
 attachment, will come to receive one simultaneously.
 
 
@@ -7596,10 +6129,8 @@ name, thus:
 
 O nobly-born, listen undistractedly. On the Fourth Day
 the red light, which is the primal form of the element fire, will
-shine. At that time, from the Red Western Realm of Happi-
-ness,? the Bhagavan Buddha Amitabha, red in colour, bearing
-a lotus in his hand, seated upon a peacock-throne and em-
-braced by the Divine Mother Gékarmo,? will shine upon thee,
+shine. At that time, from the Red Western Realm of Happiness,? the Bhagavan Buddha Amitabha, red in colour, bearing
+a lotus in his hand, seated upon a peacock-throne and embraced by the Divine Mother Gékarmo,? will shine upon thee,
 [together with] the Bodhisattvas Chenrazee* and Jampal,*
 attended by the female Bodhisattvas Ghirdhima® and Aloke.°
 The six bodies of Enlightenment will shine upon thee from
@@ -7607,8 +6138,7 @@ amidst a halo of rainbow light.
 
 
 1 Text: Suang-va-mthah-yas (pron. Nang-wa-tha-yay): Skt. Amustabha, ‘Bound-
-Jess (or Incomprehensible) Light’, As an embodiment of one of the Buddha-
-attributes or Wisdoms, the All-discriminating Wisdom, Amitabha personifies
+Jess (or Incomprehensible) Light’, As an embodiment of one of the Buddhaattributes or Wisdoms, the All-discriminating Wisdom, Amitabha personifies
 life eternal.
 
 2 Text: Gés-dkar-mo (pron. Gé-kar-mo), ‘ She-in-White-Raiment’.
@@ -7624,8 +6154,7 @@ troubled. In China, Avalokiteshvara becomes the Great Goddess of Mercy
 Kwanyin, represented by a female figure bearing a child in her arms.
 
 * Text: Hgam-dpal (pron. Jam-pal): Skt. Matjushri, ‘Of Gentle Glory’.
-A fuller Tibetan form is Hgam-dpal-dvyangs (pron. Jam-pal-yang): Skt. Maii-
-jughosha, ‘Glorious Gentle-Voiced One’. He is ‘The God of Mystic Wisdom’,
+A fuller Tibetan form is Hgam-dpal-dvyangs (pron. Jam-pal-yang): Skt. Maiijughosha, ‘Glorious Gentle-Voiced One’. He is ‘The God of Mystic Wisdom’,
 the Buddhist Apollo, commonly depicted with the flaming sword of light held
 aloft in his right hand and the lotus-supported Book of Wisdom, the Prajza-
 Paramité, held in his left.
@@ -7644,35 +6173,30 @@ to the element fire, as herein, their colour is red,
 
 
 The primal form of the aggregate of feelings as the red
-light of the All-Discriminating Wisdom, glitteringly red, glori-
-fied with orbs and satellite orbs, bright, transparent, glorious
+light of the All-Discriminating Wisdom, glitteringly red, glorified with orbs and satellite orbs, bright, transparent, glorious
 and dazzling, proceeding from the heart of the Divine Father-
 Mother Amitabha, will strike against thy heart [so radiantly]
 that thou wilt scarcely be able to look upon it. Fear it not.
 
 Along with it, a dull red light from the Preta-loka, coming
 side by side with the Light of Wisdom, will also shine upon thee.
-Act so that thou shalt not be fond of it. Abandon attach-
-ment [and] weakness [for it].
+Act so that thou shalt not be fond of it. Abandon attachment [and] weakness [for it].
 
 At that time, through the influence of intense attachment,
 thou wilt become terrified by the dazzling red light, and wilt
 [wish to] flee from it. And thou wilt beget a fondness for
 that dull red light of the Preta-loka.
 
-At that time, be not afraid of the glorious, dazzling, trans-
-parent, radiant red light. Recognizing it as Wisdom, keeping
+At that time, be not afraid of the glorious, dazzling, transparent, radiant red light. Recognizing it as Wisdom, keeping
 thine intellect in the state of resignation, thou wilt merge
 [into it] inseparably and attain Buddhahood.
 
 If thou dost not recognize it, think, ‘It is the rays of the
 grace of the Bhagavan Amitabha, and I will take refuge in it’;
-and, trusting humbly in it, pray unto it. That is the hook-
-rays of the grace of the Bhagavan Amitabha. Trust in it
+and, trusting humbly in it, pray unto it. That is the hookrays of the grace of the Bhagavan Amitabha. Trust in it
 humbly; flee not. Even if thou fleest, it will follow thee
 inseparably [from thyself]. Fear it not. Be not attracted
-towards the dull red light of the Preta-loka. That is the light-
-path proceeding from the accumulations of thine intense
+towards the dull red light of the Preta-loka. That is the lightpath proceeding from the accumulations of thine intense
 attachment [to sangsaric existence] which hath come to
 receive thee. If thou be attached thereto, thou wilt fall into
 the World of Unhappy Spirits and suffer unbearable misery
@@ -7717,8 +6241,7 @@ the Sambhoga-K aya, in the Western Realm named Happy.
 
 It is impossible that one should not be liberated thereby.
 Yet, though thus set face to face, sentient beings, unable
-through long association with propensities to abandon propen-
-sities, and, through bad karma and jealousy, awe and terror
+through long association with propensities to abandon propensities, and, through bad karma and jealousy, awe and terror
 being produced by the sounds and radiances—the hook-rays
 of grace failing to catch hold of them—wander down also to
 the Fifth Day. [If one be sucha sentient being], thereupon
@@ -7736,8 +6259,7 @@ upon thee. At that time, from the Green Northern Realm of
 Successful Performance of Best Actions, the Bhagavan Buddha
 Amogha-Siddhi, green in colour, bearing a crossed-dorje in
 
-1 Text: Don-yod-grub-pa (pron. Don-yéd-rub-pa): Skt. Amogha-Siddht: ‘ Al-
-mighty Conqueror,’
+1 Text: Don-yod-grub-pa (pron. Don-yéd-rub-pa): Skt. Amogha-Siddht: ‘ Almighty Conqueror,’
 
 
 116 BARDO OF KARMIC ILLUSIONS [Book I
@@ -7746,8 +6268,7 @@ mighty Conqueror,’
 hand,! seated upon a sky-traversing Harpy-throne,? embraced
 by the Divine Mother, the Faithful Délma,’ will shine upon
 thee, with his attendants,—the two Bodhisattvas Chag-na-
-Dorje4 and Dibpanamsel,® attended by two female Bodhi-
-sattvas, Gandhema® and Nidhema.’ These six Bodhic forms,
+Dorje4 and Dibpanamsel,® attended by two female Bodhisattvas, Gandhema® and Nidhema.’ These six Bodhic forms,
 from amidst a halo of rainbow light, will come to shine.
 
 The primal form of the aggregate of volition, shining as the
@@ -7792,8 +6313,7 @@ Skt. Dipani, also Dipika.
 ‘She Spraying Perfume’, one of the eight mother goddesses (Matris) of the
 Hindu pantheon. She is depicted holding a shell-vase of perfume (a7).
 
-7 Skt.-Tib. hybrid of text. Corresponding Tib., Zhal-gas-ma (pron. Shal-za-
-ma), ‘She Holding Sweetmeats’. Although a goddess like Gandhema, Nidhema
+7 Skt.-Tib. hybrid of text. Corresponding Tib., Zhal-gas-ma (pron. Shal-zama), ‘She Holding Sweetmeats’. Although a goddess like Gandhema, Nidhema
 (Skt. Wazvedya) cannot be included in the formal list of eight Matris, the eight
 already having been named in our text. Both goddesses are green in colour,
 like the light of the All-Performing Wisdom,
@@ -7804,14 +6324,12 @@ PART 1] LIBERATION BY AMOGHA-SIDDHI 117
 
 bright] that thou wilt scarcely be able to look at it. Fear it
 not. That is the natural power of the wisdom of thine own
-intellect. Abide in the state of great resignation of im-
-partiality.
+intellect. Abide in the state of great resignation of impartiality.
 
 Along with it [i.e. the green light of the All-Performing
 Wisdom], a light of dull green colour from the Asura-loka,
 produced from the cause of the feeling of jealousy, coming side
-by side with the Wisdom Rays, will shine upon thee. Medi-
-tate upon it with impartiality——with neither repulsion nor
+by side with the Wisdom Rays, will shine upon thee. Meditate upon it with impartiality——with neither repulsion nor
 attraction. Be not fond of it: if thou art of low mental
 capacity, be not fond of it.
 
@@ -7910,12 +6428,9 @@ O nobly-born, until yesterday each of the Five Orders of
 and this is the more correct form.
 
 
-3
 i
 |
-4
 ‘
-4
 
 
 S
@@ -7954,8 +6469,7 @@ evil propensities, thou wert awed and terrified by them and
 hast remained here till now.
 
 If thou hadst recognized the radiances of the Five Orders
-of Wisdom to be the emanations from thine own thought-
-forms, ere this thou wouldst have obtained Buddhahood in
+of Wisdom to be the emanations from thine own thoughtforms, ere this thou wouldst have obtained Buddhahood in
 the Sambhoga-K aya, through having been absorbed into the
 halo of rainbow light in one or another of the Five Orders of
 Buddhas. But now look on undistractedly. Now the lights
@@ -7977,12 +6491,10 @@ Stong (pron. Rig-Tong), ‘Consciousness and Voidness’.
 
 They correspond to the four stages of dhyana which arise in the same order.
 They probably also correspond, but in a less exact manner, to the Four
-Wisdoms: the Mirror-like Wisdom, the Wisdom of Equality, the All-Discrimi-
-nating Wisdom, and the All-Performing Wisdom.
+Wisdoms: the Mirror-like Wisdom, the Wisdom of Equality, the All-Discriminating Wisdom, and the All-Performing Wisdom.
 
 ‘Dhyana consists of progressive mental states: analysis (Skt. vzlarka),
-reflection (Skt. wichdra), fondness (Skt. fritz), bliss (Skt. @nanda), and concentra-
-tion (Skt. eka@gvata). In the first stage of dhyana, the devotee asks himself, ‘‘ What
+reflection (Skt. wichdra), fondness (Skt. fritz), bliss (Skt. @nanda), and concentration (Skt. eka@gvata). In the first stage of dhyana, the devotee asks himself, ‘‘ What
 is this body? Isit lasting; is it the thing tobe saved?” and decides that to cling
 to an impermanent, corruptible bodily form, such as he thereby realizes it to be,
 is not desirable. Similarly, having gained knowledge of the nature of Form, he
@@ -7994,8 +6506,7 @@ reflection transcends the lower mental process called analysis. In the third
 stage, reflection gives way to a blissful state of consciousness ; and this bliss,
 being at first apparently a physical sensation, merges into pure ecstasy, in the
 fourth stage. In the fifth stage, the sensation of ecstasy, although always
-present in a suppressed or secondary condition, gives way to complete concen-
-tration.’—Lama Kazi Dawa-Samdup.
+present in a suppressed or secondary condition, gives way to complete concentration.’—Lama Kazi Dawa-Samdup.
 
 2 Heretofore each of the chief deities has been called Bhagavan (‘The
 Victorious’), but, herein, Buddha (‘ The Enlightened’) is the designation. The
@@ -8031,21 +6542,18 @@ attributes of perfection (or moral virtues) ]’.
 1 Between this bar and the bar in the sentence following is contained the
 translation of the Tibetan text on the upper folio (35a) of our Frontispiece.
 
-2 Text: Ruam-par-rgyal-va (pron. Nam-par-gyal-wa): Skt. Vaya: ‘ Vic-
-torious [One]’, the Door-keeper of the East.
+2 Text: Ruam-par-rgyal-va (pron. Nam-par-gyal-wa): Skt. Vaya: ‘ Victorious [One]’, the Door-keeper of the East.
 
 8 Text: Gshin-rje-gshed-po(pron. Shin-je-shed-po): Skt. Yamdntaka: ‘ Destroyer
 of Yama (Death)’, the Door-keeper of the South, a form of Shiva, and the
 wrathful aspect of Avalokiteshvara. He, as a Wrathful Deity, personifies one
 of the ten forms of Anger (Tib. K’vo-bo—pron. T’o-wo: Skt. Krodha).
 
-4 Text: Rla-mgrin-rgyal-po (pron. Tam din-gyal-po): Skt. Hayagriva: ‘Horse-
-necked King’, the Door-keeper of the West.
+4 Text: Rla-mgrin-rgyal-po (pron. Tam din-gyal-po): Skt. Hayagriva: ‘Horsenecked King’, the Door-keeper of the West.
 
 5 Text: Bdud-rtst-hkhyil-va (pron. Di-tst-khyil-wa): Skt. Amrita-Dhara: ‘(He
 who is the] Urn of Nectar’, whose divine function is to transmute all things into
-nectar (in the esoteric sense of Tantric Yoga), amrita meaning ‘nectar’ exoteri-
-cally, and, esoterically, ‘voidness’, He is the Door-keeper of the North.
+nectar (in the esoteric sense of Tantric Yoga), amrita meaning ‘nectar’ exoterically, and, esoterically, ‘voidness’, He is the Door-keeper of the North.
 
 
 6 Text: Chags-kyu-ma (pron. Chak-yu-ma): Skt. Ankusha: ‘She holding the
@@ -8087,14 +6595,12 @@ will come to shine. Know them.
 
 O nobly-born, these realms are not come from somewhere
 outside [thyself]. They come from within the four divisions
-of thy heart, which, including its centre, make the five direc-
-tions. They issue from within there, and shine upon thee. The
+of thy heart, which, including its centre, make the five directions. They issue from within there, and shine upon thee. The
 
 
 to the four directions and to the mandala (or conclave of deities) to which they
 belong. As Tantric faith-guarding deities (Tib. Ch’os-skyor : Skt. Dharmapala)
-they rank with Bodhisattvas. They symbolize, too, the four tranquil or peace-
-ful methods employed by Divine Beings for the salvation of sentient creatures
+they rank with Bodhisattvas. They symbolize, too, the four tranquil or peaceful methods employed by Divine Beings for the salvation of sentient creatures
 (of whom mankind are the highest), which are; Compassion, Fondness, Love,
 and Stern Justice.
 
@@ -8137,10 +6643,8 @@ emblems that each holds.
 These deities are formed into groups of five pairs, each
 group of five being surrounded by a fivefold circle of
 radiances, the male Bodhisattvas partaking of the nature
-of the Divine Fathers, and the female Bodhisattvas par-
-taking of the nature of the Divine Mothers. All these
-divine conclaves will come to shine upon thee in one com-
-plete conclave.2 They are thine own tutelary deities.®
+of the Divine Fathers, and the female Bodhisattvas partaking of the nature of the Divine Mothers. All these
+divine conclaves will come to shine upon thee in one complete conclave.2 They are thine own tutelary deities.®
 Know them to be such.
 
 O nobly-born, from the hearts of the Divine Fathers and
@@ -8162,8 +6666,7 @@ blue light-path] unglorified by the orbs and the smaller
 
 
 1 According to the esotericism of Northern Buddhism, man is, in the sense
-implied by the mystical philosophies of ancient Egypt and Greece, the micro-
-cosm of the macrocosm,
+implied by the mystical philosophies of ancient Egypt and Greece, the microcosm of the macrocosm,
 
 2 Text: dkyil-hkhor (pron. kytl-khor): Skt. mandala, i.e. conclave of deities.
 
@@ -8205,8 +6708,7 @@ These will come to shine against thy heart simultaneously.’
 O nobly-born, all those are the radiances of thine own
 intellectual faculties come to shine. They have not come from
 any other place. Be not attracted towards them; be not
-weak ; be not terrified ; but abide in the mood of non- thought-
-formation.2. In that state all the forms and radiances will
+weak ; be not terrified ; but abide in the mood of non- thoughtformation.2. In that state all the forms and radiances will
 merge into thyself, and Buddhahood will be obtained.
 
 The green light-path of the Wisdom of Perfected Actions
@@ -8238,8 +6740,7 @@ the Inner Path through Vajra-Sattva.!
 
 At that time, thou must remember the teachings of the
 setting-face-to-face which thou hast had from thy gurzw.
-If thou hast remembered the purport of the settings-face-
-to-face, thou wilt have recognized all these lights which
+If thou hast remembered the purport of the settings-faceto-face, thou wilt have recognized all these lights which
 have shone upon thee, as being the reflection of thine own
 inner light, and, having recognized them as intimate friends,
 thou wilt have believed in them and have understood [them
@@ -8259,20 +6760,17 @@ a dull yellow light from human beings, a dull blue light from
 the brutes, a dull reddish light from the frezas, and a dull
 smoke-coloured light from Hell.? These six thus will come
 to shine, along with the six radiances of Wisdom; whereupon,
-be not afraid of nor be attracted towards any, but allow thy-
-self to rest in the non-thought condition.
+be not afraid of nor be attracted towards any, but allow thyself to rest in the non-thought condition.
 
 } In the transcendental state of the Illumination of Buddhahood, on the Inner,
 or Secret, Path, into Vajra-Sattva merge, in at-one-ment, all the Peaceful and
-Wrathful Deities of the greater mandala described by our text; in all, one-
-hundred and ten,—forty-two in the heart-centre, ten in the throat-centre, and
+Wrathful Deities of the greater mandala described by our text; in all, onehundred and ten,—forty-two in the heart-centre, ten in the throat-centre, and
 fifty-eight in the brain-centre. (Cf. pp. 217-8.)
 
 2 There are irreconcilable differences between the colours assigned to these
 light-paths in the Block-Print (25b) and in our MS. The Block-Print gives
 them as follows: white, from the devas; red, from the asuras; blue, from
-human beings; green, from the brutes; yellow, from the prefas; smoke-
-coloured from Hell. According to the translator, the colours should correspond
+human beings; green, from the brutes; yellow, from the prefas; smokecoloured from Hell. According to the translator, the colours should correspond
 to the colour of the Buddha of each Joka, thus: deva, white; asuva, green;
 human, yellow; brute, blue; pvefa, red; Hell, smoke-coloured or black.
 Therefore, the Block-Print is wrong in all save the first and last; and the
@@ -8289,8 +6787,7 @@ panel] LIGHT-PATHS OF THE WISDOMS 125
 
 If thou art frightened by the pure radiances of Wisdom and
 attracted by the impure lights of the Six Lokas, then thou
-wilt assume a body in any of the Six Lofas and suffer sang-
-saric miseries; and thou wilt never be emancipated from the
+wilt assume a body in any of the Six Lofas and suffer sangsaric miseries; and thou wilt never be emancipated from the
 Ocean of Sangsara, wherein thou wilt be whirled round and
 round and made to taste of the sufferings thereof.
 
@@ -8317,8 +6814,7 @@ On the bright radiance-path of the Four Wisdoms united,
 
 May [I] be led by the Five Victorious Conquerors,
 
-May the Five Orders of Divine Mothers be [my] rear-
-guard ;
+May the Five Orders of Divine Mothers be [my] rearguard ;
 
 May [I] be rescued from the impure light-paths of the Six
 Lokas ;
@@ -8331,8 +6827,7 @@ May [I] be placed within the five pure Divine Realms.’
 By thus praying, one recognizeth one’s own inner light ; *
 
 
-1 Text: Bde-var-gshegs-pa (pron. De-war-sheg-pa): Skt. Sugata: literally mean-
-ing ‘Those who have passed into Happiness (or attained Mirvana)’—i.e. Buddhas,
+1 Text: Bde-var-gshegs-pa (pron. De-war-sheg-pa): Skt. Sugata: literally meaning ‘Those who have passed into Happiness (or attained Mirvana)’—i.e. Buddhas,
 
 2 The five virulent poisons, which, like drugs, enslave and bind mankind to
 the sufferings of existence within the confines of the Six Lokas, are: lust,
@@ -8352,8 +6847,7 @@ is attained: through humble faith, the ordinary devotee cometh
 to know himself, and obtaineth Liberation; even the most
 lowly, by the power of the pure prayer, can close the doors of
 the Six ZLokas, and, in understanding the real meaning of the
-Four Wisdoms united, obtain Buddhahood by the hollow path-
-way through Vajra-Sattva.!
+Four Wisdoms united, obtain Buddhahood by the hollow pathway through Vajra-Sattva.!
 
 Thus by being set face to face in that detailed manner,
 those who are destined to be liberated will come to recognize
@@ -8372,8 +6866,7 @@ stray downwards.
 On the Seventh Day, the Knowledge-Holding Deities, from
 the holy paradise realms, come to receive one. Simultaneously,
 the pathway to the brute world, produced by the obscuring
-passion, stupidity, also cometh to receive one.* The setting-
-face-to-face at that time is, calling the deceased by name, thus:
+passion, stupidity, also cometh to receive one.* The settingface-to-face at that time is, calling the deceased by name, thus:
 
 
 aim of the Bardo Thédol teaching is to awaken the Dreamer to Reality—to
@@ -8419,8 +6912,7 @@ colours, embraced by the [Divine] Mother, the Red Dékini,
 dancing and making the mudra of fascination,* [with his right
 hand held] aloft, will come to shine.
 
-To the east of that Circle, the deity called the Earth-Abid-
-ing Knowledge-Holder, white of colour, with radiant smiling
+To the east of that Circle, the deity called the Earth-Abiding Knowledge-Holder, white of colour, with radiant smiling
 countenance, embraced by the White Dékini, the [Divine]
 Mother, [he] holding a crescent knife and a skull [filled] with
 blood, dancing and making the maudra of fascination, [with his
@@ -8460,8 +6952,7 @@ upright, and the third finger folded in the palm of the hand.
 128 BARDO OF KARMIC ILLUSIONS [Book !
 
 
-[filled] with blood, dancing and making the sudrd of fascina-
-tion, [with his right hand held] aloft, will come to shine.
+[filled] with blood, dancing and making the sudrd of fascination, [with his right hand held] aloft, will come to shine.
 
 To the west of that Circle, the deity called the Knowledge-
 Holding Deity of the Great Symbol,' red of colour, smiling
@@ -8471,18 +6962,15 @@ blood, dancing and making the mudré@ of fascination, [with his
 right hand held] aloft, will come to shine.
 
 To the north of that Circle, the deity called the Self-
-Evolved Knowledge-Holder, green of colour, with a half-
-angry, half-smiling radiant countenance, embraced by the
-Green Dakini, the [Divine] Mother, [he] holding a crescent-
-knife and a skull [filled] with blood, dancing and making the
+Evolved Knowledge-Holder, green of colour, with a halfangry, half-smiling radiant countenance, embraced by the
+Green Dakini, the [Divine] Mother, [he] holding a crescentknife and a skull [filled] with blood, dancing and making the
 mudra of fascination, [with his right hand held] aloft, will
 come to shine.
 
 In the Outer Circle, round about these Knowledge-Holders,
 innumerable bands of dakinis,—dakinis of the eight places of
 cremation, @akinis of the four classes, da@kinis of the three
-abodes, @akinis of the thirty holy-places and of the twenty-
-four places of pilgrimage,*—heroes, heroines, celestial warriors,
+abodes, @akinis of the thirty holy-places and of the twentyfour places of pilgrimage,*—heroes, heroines, celestial warriors,
 and faith-protecting deities, male and female, each bedecked
 with the six bone-ornaments, having drums and thigh-bone
 trumpets, skull-timbrels, banners of gigantic human|[-like]
@@ -8544,11 +7032,9 @@ not. Be not terrified. Know them [i.e. these sounds] to be
 
 musical instruments: big drums, cymbals (commonly of brass), conch-shells,
 bells (like the handbells used in the Christian Mass Service), timbrels, small
-clarionets (sounding like Highland bagpipes), big trumpets, and human thigh-
-bone trumpets. Although the combined sounds of these instruments are far
+clarionets (sounding like Highland bagpipes), big trumpets, and human thighbone trumpets. Although the combined sounds of these instruments are far
 from being melodious, the /@mas maintain that they psychically produce in the
-devotee an attitude of deep veneration and faith, because they are the counter-
-parts of the natural sounds which one’s own body is heard producing when the
+devotee an attitude of deep veneration and faith, because they are the counterparts of the natural sounds which one’s own body is heard producing when the
 fingers are put in the ears to shut out external sounds. Stopping the ears thus,
 there are heard a thudding sound, like that of a big drum being beaten;
 a clashing sound, as of cymbals; a soughing sound, as of a wind moving through
@@ -8574,23 +7060,20 @@ of Recognition; the Simultaneously-Born Wisdom,
 130 BARDO OF KARMIC ILLUSIONS [Book I
 
 
-Be not attracted towards the dull blue light of the brute-
-world; be not weak. If thou art attracted, thou wilt fall into
+Be not attracted towards the dull blue light of the bruteworld; be not weak. If thou art attracted, thou wilt fall into
 the brute-world, wherein stupidity predominates, and suffer the
 illimitable miseries of slavery and dumbness and stupidness ;*
 and it will be a very long time ere thou canst get out. Be
 not attracted towards it. Put thy faith in the bright, dazzling,
 five-coloured radiance. Direct thy mind one-pointedly towards
-the deities, the Knowledge-Holding Conquerors. Think, one-
-pointedly, thus: ‘These Knowledge-Holding Deities, the
+the deities, the Knowledge-Holding Conquerors. Think, onepointedly, thus: ‘These Knowledge-Holding Deities, the
 Heroes, and the Dakinis have come from the holy paradise
 realms to receive me; I supplicate them all: up to this day,
 although the Five Orders of the Buddhas of the Three Times
 have all exerted the rays of their grace and compassion, yet
 have I not been rescued by them. Alas, for a being like me!
 May the Knowledge- Holding Deities not let me go downwards
-further than this, but hold me with the hook of their com-
-passion, and lead me to the holy paradises.’
+further than this, but hold me with the hook of their compassion, and lead me to the holy paradises.’
 
 Thinking in that manner, one-pointedly, pray thus:
 
@@ -8599,16 +7082,14 @@ Thinking in that manner, one-pointedly, pray thus:
 
 Lead me on the Path, out of your great love.
 
-When [I am] wandering in the Sangsdara, because of intensi-
-fied propensities,
+When [I am] wandering in the Sangsdara, because of intensified propensities,
 
 On the bright light-path of the Simultaneously-born
 Wisdom
 
 May the bands of Heroes, the Knowledge-Holders, lead me;
 
-May the bands of the Mothers, the Dakinis, be [my] rear-
-guard ;
+May the bands of the Mothers, the Dakinis, be [my] rearguard ;
 
 May they save me from the fearful ambuscades of the Bardo,
 
@@ -8633,8 +7114,7 @@ situation in which, it is assumed, the deceased inevitably finds himself,
 PART IT] THE WRATHFUL DEITIES 131
 
 
-being merged, in rainbow-light, into the heart of the Know-
-ledge-Holding Deities.
+being merged, in rainbow-light, into the heart of the Knowledge-Holding Deities.
 
 All the pandit classes, too, coming to recognize at this
 stage, obtain liberation ; even those of evil propensities being
@@ -8650,7 +7130,6 @@ Chikhai Bardo.
 att DAWNING OF THE WRATHFUL DEITIES,
 PROM THE EIGHTH TO THE FOURTEENTH
 DAY]
-[INTRODUCTION]
 
 Now the manner of the dawning of the Wrathful Deities is
 to be shown.
@@ -8662,19 +7141,15 @@ at one or another [stage] and to have been liberated.
 
 Multitudes will be liberated by that recognition; [and]
 although multitudes obtain liberation in that manner, the
-number of sentient beings being great, evil karma power-
-ful, obscurations dense, propensities of too long standing,
-the Wheel of Ignorance and Illusion becometh neither ex-
-hausted nor accelerated. Although [all be] set face-to-face
+number of sentient beings being great, evil karma powerful, obscurations dense, propensities of too long standing,
+the Wheel of Ignorance and Illusion becometh neither exhausted nor accelerated. Although [all be] set face-to-face
 in such detail, there is a vast preponderance of those who
 wander downwards unliberated.
 
-Therefore, after the cessation [of the dawning] of the Peace-
-ful and the Knowledge-Holding Deities, who come to welcome
+Therefore, after the cessation [of the dawning] of the Peaceful and the Knowledge-Holding Deities, who come to welcome
 one, the fifty-eight flame-enhaloed, wrathful, blood-drinking
 deities come to dawn, who are only the former Peaceful
-Deities in changed aspect—according to the place [or psychic-
-centre of the Bardo-body of the deceased whence they
+Deities in changed aspect—according to the place [or psychiccentre of the Bardo-body of the deceased whence they
 proceed]; nevertheless, they will not resemble them."
 
 1 Up to this time, the fifty-two Peaceful and Knowledge-Holding Deities,
@@ -8699,8 +7174,7 @@ that is why.?
 
 If at this stage one do not meet with this kind of teaching,
 one’s hearing [of religious lore]—although it be like an
-ocean [in its vastness]|—is of no avail. There are even dis-
-ciplinc-holding abbots [or dAzkkhus] and doctors in meta-
+ocean [in its vastness]|—is of no avail. There are even disciplinc-holding abbots [or dAzkkhus] and doctors in meta-
 physical discourses who err at this stage, and, not recognizing,
 wander into the Sangséara.
 
@@ -8711,8 +7185,7 @@ But the least of the least of the devotees of the mystic
 mantrayana doctrines, as soon as he sees these blood-drinking
 deities, will recognize them to be his tutelary deities, and
 the meeting will be like that of human acquaintances. He
-will trust them ; and becoming merged into them, in at-one-
-ment, will obtain Buddhahood.®
+will trust them ; and becoming merged into them, in at-onement, will obtain Buddhahood.®
 
 
 the brain psychic-centre ; they are the excited, or wrathful, reflex forms of the
@@ -8724,15 +7197,13 @@ beholding the deities—arise only in the case of the ordinary devotee, who, as
 the text explains, has not had adequate yogic training, ere death, to enable him
 to recognize the Bardo as such, immediately upon dying, and pass beyond it.
 For the adept in yoga, who can take the Bardo ‘by the forelock’, as the text
-puts it (p. 100), mastering Death, and who knows that all apparitional appear-
-ances are unreal and powerless, both in this world and in all other worlds,
+puts it (p. 100), mastering Death, and who knows that all apparitional appearances are unreal and powerless, both in this world and in all other worlds,
 there is no Bardo to experience; his goal is either an immediate and conscious
 rebirth among men or in one of the paradise realms, or, if he be really ripened—
 which would be an exceedingly rare circumstance —Nivvana,
 
 2 No sooner does one radiance cease than another dawns; the deceased not
-having a moment of distraction, his intellect becomes concentratedly (i.e. one-
-pointedly) alert.
+having a moment of distraction, his intellect becomes concentratedly (i.e. onepointedly) alert.
 
 8 The blood symbolizes sangsdric existence ; the blood-drinking, the thirsting
 for, the drinking of, and the quenching of the thirst for, sangsdric existence.
@@ -8741,13 +7212,11 @@ for, the drinking of, and the quenching of the thirst for, sangsdric existence.
 PART | THE BSOTERIC DOCTRINES 133
 
 
-By having meditated on the description of these blood-
-drinking deities, while in the human world, and by having
+By having meditated on the description of these blooddrinking deities, while in the human world, and by having
 performed some worship or praise of them; or, at least,
 by having seen their painted likenesses and their images, upon
 
-witnessing the dawning of the deities at this stage, recogni-
-tion of them will result, and liberation. In this lieth the art.
+witnessing the dawning of the deities at this stage, recognition of them will result, and liberation. In this lieth the art.
 
 Again, at the death of those discipline-holding abbots and
 
@@ -8756,8 +7225,7 @@ in these Lardo teachings], however assiduously they may
 have devoted themselves to religious practices, and however
 clever they may have been in expounding doctrines while
 in the human world, there will not come any phenomenal
-signs such as rainbow-halo [at the funeral-pyre] nor bone-
-reliques [from the ashes]. This is because when they lived
+signs such as rainbow-halo [at the funeral-pyre] nor bonereliques [from the ashes]. This is because when they lived
 the mystic [or esoteric] doctrines were never held within
 their heart, and because they had spoken contemptuously
 of them, and because they were never acquainted [through
@@ -8805,8 +7273,7 @@ stage.
 
 Even though the deeds [of one paying such reverence] may
 not have been very elegant while in the human world, at his
-death there will come at least one kind of sign, such as rain-
-bow-radiance, bone-images, and bone-reliques. This is because
+death there will come at least one kind of sign, such as rainbow-radiance, bone-images, and bone-reliques. This is because
 the esoteric [or mystic] doctrines possess great gift-waves.’
 
 [Those of, and] above, the mystic mantrayanic devotees
@@ -8824,8 +7291,7 @@ found some shaped into beautiful forms like images, and that small pearl-like
 cremated.
 
 1 That is to say, the esoteric doctrines being realizable—because based
-on Truth itself—one who follows or even reverences them is, thereby, auto-
-matically brought into rapport with very definite psychic forces.
+on Truth itself—one who follows or even reverences them is, thereby, automatically brought into rapport with very definite psychic forces.
 
 2 That is to say, those devotees who have practised, in a thoroughly scientific
 manner, under a competent guru, the intonation of certain sacred mantras
@@ -8876,8 +7342,7 @@ thee the place of rest and joy, and deem thee to be among them that they be
 among, everlastingly.’
 
 1 The /émas maintain that, while mere goodness and book knowledge are
-desirable in devotees seeking Liberation, spiritual wisdom coupled with un-
-shakable faith, and the setting aside of all intellectualisms, are indispensable.
+desirable in devotees seeking Liberation, spiritual wisdom coupled with unshakable faith, and the setting aside of all intellectualisms, are indispensable.
 One of the precepts of the great Tibetan yogis, taught to all neophytes, is:
 ‘ Difficult indeed is it to obtain Liberation through intellectual knowledge alone ;
 through faith, Liberation is easily obtained.’
@@ -8909,12 +7374,10 @@ by the hearing [of it] alone; the doctrine which leadeth
 beings of great evil Aarvma on the Secret Path; the doctrine
 which produceth differentiation instantaneously [between
 those who are initiated into it and those who are not]:
-being the profound doctrine which conferreth Perfect En-
-lightenment instantaneously. Those sentient beings who have
+being the profound doctrine which conferreth Perfect Enlightenment instantaneously. Those sentient beings who have
 been reached by it cannot go to the unhappy states.
 
-This [doctrine] and the Zahdol [doctrine]', when joined to-
-gether being like unto a mandala of gold inset with turquoise,
+This [doctrine] and the Zahdol [doctrine]', when joined together being like unto a mandala of gold inset with turquoise,
 combine them.
 
 Thus, the indispensable nature of the 7ddol being shown,
@@ -8976,8 +7439,7 @@ Described on page xxiii
 PART 11} DAWNING OF HERUKA ORDER 137
 
 
-O nobly-born, the Great Glorious Buddha-Heruka,! dark-
-brown of colour; with three heads, six hands, and four
+O nobly-born, the Great Glorious Buddha-Heruka,! darkbrown of colour; with three heads, six hands, and four
 feet firmly postured; the right [face] being white, the left,
 red, the central, dark-brown; the body emitting flames of
 radiance ; the nine eyes widely opened, in terrifying gaze; the
@@ -8990,8 +7452,7 @@ skulls, and the [symbols of the] sun and moon; black serpents
 and raw [human] heads forming a garland for the body; the
 first of the right hands holding a wheel, the middle one, a
 sword, the last one, a battle-axe; the first of the left hands,
-a bell, the middle one, a [human] scalp, the last one, a plough-
-share; his body embraced by the Mother, Buddha-Kroti-
+a bell, the middle one, a [human] scalp, the last one, a ploughshare; his body embraced by the Mother, Buddha-Kroti-
 shaurima,”? her right hand clinging to his neck and her left
 putting to his mouth a red shell [filled with blood], [making]
 a palatal sound like a crackling [and] a clashing sound, and
@@ -9005,8 +7466,7 @@ vividly upon thee. Fear that not. Be not awed. Know it
 to be the embodiment of thine own intellect. As it is thine
 own tutelary deity, be not terrified. Be not afraid, for in
 reality it is the Bhagavan Vairochana, the Father-Mother.
-Simultaneously with the recognition, liberation will be ob-
-tained: if they be recognized, merging [thyself], in at-one-
+Simultaneously with the recognition, liberation will be obtained: if they be recognized, merging [thyself], in at-one-
 
 
 1 Text: Dpal-chen-po Bud-dha Heruka (pron. Pal-chen-po Bud-dha Heruka) :
@@ -9036,12 +7496,10 @@ begotten, then, on the Ninth Day, the blood-drinking [deities]
 of the Vajra Order will come to receive one. Thereupon, the
 setting-face-to-face is, calling the deceased by name, thus:
 
-O nobly-born, listen undistractedly. [He] of the blood-
-drinking Vajra Order named the Bhagavan Vajra-Heruka,
+O nobly-born, listen undistractedly. [He] of the blooddrinking Vajra Order named the Bhagavan Vajra-Heruka,
 dark-blue in colour; with three faces, six hands, and four feet
 firmly postured; in the first right hand [holding] a dorze, in
-the middle [one], a [human] scalp, in the last [one], a battle-
-axe; in the first of the left, a bell, in the middle [one],
+the middle [one], a [human] scalp, in the last [one], a battleaxe; in the first of the left, a bell, in the middle [one],
 a [human] scalp, in the last [one], a ploughshare ; his body
 embraced by the Mother Vajra-Krotishaurima, her right
 [hand] clinging to his neck, her left offering to his mouth a
@@ -9050,8 +7508,7 @@ of thy brain and come to shine upon thee. Fear it not. Be
 not terrified. Be not awed. Know it to be the embodiment
 of thine own intellect. As it is thine own tutelary deity, be
 not terrified. In reality [they are] the Bhagavan Vajra-
-Sattva, the Father and Mother. Believe inthem. Recogniz-
-ing them, liberation will be obtained at once. By so pro-
+Sattva, the Father and Mother. Believe inthem. Recognizing them, liberation will be obtained at once. By so pro-
 claiming [them], knowing them to be tutelary deities, merging
 [in them] in at-one-ment, Buddhahood will be obtained.
 
@@ -9062,12 +7519,10 @@ claiming [them], knowing them to be tutelary deities, merging
 Yet, if one do not recognize them, the obscurations of evil
 deeds being too great, and flee from them through terror
 and awe, then, on the Tenth Day, the blood-drinking [deities]
-of the [Precious|-Gem Order will come to receive one. There-
-upon the setting-face-to-face is, calling the deceased by name,
+of the [Precious|-Gem Order will come to receive one. Thereupon the setting-face-to-face is, calling the deceased by name,
 thus :
 
-O nobly-born, listen. On the Tenth Day, the blood-drink-
-ing [deity] of the [Precious ]-Gem Order named Ratna-Heruka,
+O nobly-born, listen. On the Tenth Day, the blood-drinking [deity] of the [Precious ]-Gem Order named Ratna-Heruka,
 yellow of colour; [having] three faces, six hands, four feet
 firmly postured; the right [face] white, the left, red, the
 central, darkish yellow; enhaloed in flames; in the first of
@@ -9076,8 +7531,7 @@ central, darkish yellow; enhaloed in flames; in the first of
 PART II] DAWNING OF LOTUS ORDER 139
 
 
-the six hands holding a gem, in the middle [one], a trident-
-staff, in the last [one], a baton; in the first of the left [hands],
+the six hands holding a gem, in the middle [one], a tridentstaff, in the last [one], a baton; in the first of the left [hands],
 a bell, in the middle [one], a [human] scalp, in the last [one],
 a trident-staff; his body embraced by the Mother Ratna-
 Krotishaurima, her right [hand] clinging to his neck, her left
@@ -9110,8 +7564,7 @@ O nobly-born, on the Eleventh Day, the blood-drinking
 Heruka, of reddish-black colour; [having] three faces, six
 hands, and four feet firmly postured; the right [face] white,
 the left, blue, the central, darkish red; in the first of the right
-of the six hands holding a lotus, in the middle [one], a trident-
-staff, in the last, a club; in the first of the left [hands], a bell,
+of the six hands holding a lotus, in the middle [one], a tridentstaff, in the last, a club; in the first of the left [hands], a bell,
 in the middle [one], a [human] scalp filled with blood,! in the
 last, a small drum; his body embraced by the Mother Padma-
 Krotishaurima, her right hand clinging to his neck, her left
@@ -9133,8 +7586,7 @@ not terrified. Be not awed. Rejoice. Recognize [them] to
 be the product of thine own intellect ; as [they are] thine own
 tutelary deity, be not afraid. In reality they are the Father-
 Mother Bhagavan Amitabha. Believe in them. Concomitantly
-with recognition, liberation will come. Through such acknow-
-ledging, recognizing them to be tutelary deities, in at-one-
+with recognition, liberation will come. Through such acknowledging, recognizing them to be tutelary deities, in at-one-
 ment thou wilt merge [into them], and obtain Buddhahood.
 
 
@@ -9155,10 +7607,8 @@ of the Karmic Order, named Karma-Heruka, dark green of
 colour ; [having] three faces, six hands, [and] four feet firmly
 postured ; the right [face] white, the left, red, the middle, dark
 green; majestic [of appearance]; in the first of the right of
-the six hands, holding a sword, in the middle [one], a trident-
-staff, in the last, a club; in the first of the left [hands], a bell,
-in the middle [one], a [human] scalp, in the last, a plough-
-share; his body embraced by the Mother Karma-Kroti-
+the six hands, holding a sword, in the middle [one], a tridentstaff, in the last, a club; in the first of the left [hands], a bell,
+in the middle [one], a [human] scalp, in the last, a ploughshare; his body embraced by the Mother Karma-Kroti-
 
 
 » These three orders of deities are goddesses, Indian and Tibetan in origin,
@@ -9170,8 +7620,7 @@ seems to be a hybrid Sanskrit-Tibetan word (from Skt. Keyitr#), which, having
 become current in Tibet—like so many similar words—was incorporated into
 our text unchanged. Htamenma (as pronounced from Tib. Phra-men-ma) is
 probably the name of an order of pre-Buddhistic deities belonging to the ancient
-Bén religion of Tibet. Wang-chugma (as pronounced from Tib. Duang-phyug-
-ma) is the Tibetan rendering of the Sanskrit /shvari, meaning ‘ Mighty
+Bén religion of Tibet. Wang-chugma (as pronounced from Tib. Duang-phyugma) is the Tibetan rendering of the Sanskrit /shvari, meaning ‘ Mighty
 Goddesses’.
 
 
@@ -9191,8 +7640,7 @@ Through such acknowledging, recognizing them to be tutelary
 deities, in at-one-ment thou wilt merge [into them], and obtain
 Buddhahood. Through the gurw’s select teaching, one cometh
 to recognize them to be the thought-forms issuing from one’s
-own intellectual faculties. For instance, a person, upon recog-
-nizing a lion-skin [to be a lion-skin], is freed [from fear]; for
+own intellectual faculties. For instance, a person, upon recognizing a lion-skin [to be a lion-skin], is freed [from fear]; for
 though it be only a stuffed lion-skin, if one do not know it
 to be so actually, fear ariseth, but, upon being told by some
 person that it is a lion-skin only, one is freed from fear.
@@ -9200,13 +7648,11 @@ Similarly here, too, when the bands of blood-drinking deities,
 huge of proportions, with very thick-set limbs, dawn as big as
 the skies, awe and terror are naturally produced in one. [But]
 as soon as the setting-face-to-face is heard [one] recognizeth
-them to be one’s own tutelary deities and one’s own thought-
-forms. Then, when upon the Mother Clear-Light—which one
+them to be one’s own tutelary deities and one’s own thoughtforms. Then, when upon the Mother Clear-Light—which one
 had been accustomed to formerly—a secondary Clear-Light,
 the Offspring Clear-Light, is produced, and the Mother and
 Offspring Clear-Light, coming together like two intimate
-acquaintances, blend inseparably, and [therefrom] a self-eman-
-cipating radiance dawneth upon one, through self-enlighten-
+acquaintances, blend inseparably, and [therefrom] a self-emancipating radiance dawneth upon one, through self-enlighten-
 ment and self-knowledge one is liberated.
 
 
@@ -9214,8 +7660,7 @@ ment and self-knowledge one is liberated.
 
 
 If this setting-face-to-face be not obtained, good persons on
-the Path,! too, fall back from here and wander into the Sang-
-sara. Then the Eight Wrathful Ones, the Kerimas, and the
+the Path,! too, fall back from here and wander into the Sangsara. Then the Eight Wrathful Ones, the Kerimas, and the
 Htamenmas, having various [animal] heads, issue from within
 
 
@@ -9225,8 +7670,7 @@ Htamenmas, having various [animal] heads, issue from within
 142 BARDO OF KARMIC ILLUSIONS [Book I
 
 
-one’s own brain and come to shine upon one’s self. There-
-upon the setting-face-to-face is, calling the deceased by name,
+one’s own brain and come to shine upon one’s self. Thereupon the setting-face-to-face is, calling the deceased by name,
 thus:
 
 O nobly-born, listen undistractedly. On the Thirteenth
@@ -9241,8 +7685,7 @@ upon thee. Fear not.
 From the south, the Yellow Tseurima,? holding a bow and
 arrow, ready to shoot; from the west, the Red Pramoha,°
 holding a #akara‘-banner ; from the north, the Black Petali,°
-holding a dorje and a scalp filled with blood; from the south-
-east, the Red Pukkase,® holding intestines in the right [hand}
+holding a dorje and a scalp filled with blood; from the southeast, the Red Pukkase,® holding intestines in the right [hand}
 and [with] the left putting them to her mouth; from the
 south-west, the Dark-Green Ghasmari,’ the left [hand] holding
 a scalp filled with blood, [with] the right stirring it with a
@@ -9351,8 +7794,7 @@ Brown Yak-Headed Rakshasa-Goddess, holding a dorje and
 a skull; and the Reddish-Ycllow Serpent-Headed Brahma-
 Goddess, holding a lotus in her hand; and the Greenish-
 Black Leopard-Headed Great-Goddess, holding a trident in
-her hand; and the Blue Monkey-Headed Goddess of In-
-quisitiveness, holding a wheel ; and the Red Snow-Bear-Headed
+her hand; and the Blue Monkey-Headed Goddess of Inquisitiveness, holding a wheel ; and the Red Snow-Bear-Headed
 Virgin-Goddess, bearing a short spear in the hand; and the
 White Bear-Headed Indra-Goddess, holding an intestine-noose
 in the hand: [these], the Six Yoginis of the East, issuing from
@@ -9445,8 +7887,7 @@ Since these Twenty-eight Mighty Goddesses emanate from
 the bodily powers of Ratna-Sambhava, [ He] of the Six Heruka
 Deities, recognize them.
 
-O nobly-born, the Peaceful Deities emanate from the Void-
-ness of the Dharma-Kdaya;* recognize them. From the
+O nobly-born, the Peaceful Deities emanate from the Voidness of the Dharma-Kdaya;* recognize them. From the
 Radiance of the Dharma-K aya*® emanate the Wrathful Deities ;
 recognize them.
 
@@ -9513,12 +7954,10 @@ of Maha-Kala;1 and all the Wrathful Deities will shine
 and thine own thought-forms becoming Illusions [or Maras],
 thou wilt wander into the Saugsdara.
 
-O nobly-born, if one recognize not one’s own thought-
-forms, however learned one may be in the Scriptures—both
+O nobly-born, if one recognize not one’s own thoughtforms, however learned one may be in the Scriptures—both
 Sitras and Tantras—although practising religion for a kalpa,
 one obtaineth not Buddhahood. If one recognize one’s own
-thought-forms, by one important art and by one word, Buddha-
-hood is obtained.
+thought-forms, by one important art and by one word, Buddhahood is obtained.
 
 If one’s thought-forms be not recognized as soon as one
 dieth, the shapes of Dharma-Raja, the Lord of Death, will
@@ -9574,8 +8013,7 @@ fondness and faith. Whosoever thine own tutelary deity may
 be, recollect now ; [and] calling him by name, pray thus:
 
 
-' Text: khram-shing (pron. htam-shing), referring to a board—cither a flogging-
-board such as that on which culprits are stretched and flogged in Tibet, or else,
+' Text: khram-shing (pron. htam-shing), referring to a board—cither a floggingboard such as that on which culprits are stretched and flogged in Tibet, or else,
 as here, a board written over with karmic records of the deceased’s life. Khram
 is the name given to a scroll of records or an inventory like a rent-roll; shing
 alone means ‘wood’, Hence we may render the two words as ‘ wood-register’
@@ -9664,8 +8102,7 @@ Enlightened Ones.’
 
 Thus, in earnest faith and humility, offer up the prayer ;
 whereby all fears will vanish and Buddhahood in the Sambhaga-
-Kaya will undoubtedly be won: important is this. Being un-
-distracted, repeat it in that manner, three or [even] seven times.
+Kaya will undoubtedly be won: important is this. Being undistracted, repeat it in that manner, three or [even] seven times.
 
 
 into Mrvdua; hence its importance in the Bardo prayer. In the Tibetan work
@@ -9674,14 +8111,12 @@ Mantra of Chenrazee)’ this #antra is said to be ‘the essence of all happines
 prosperity, and knowledge, and the great means of liberation’ ; also it is said
 that the dm closes the door of rebirth among the gods, md, among the asuras
 (or titans), ##, among mankind, pay, among sub-human creatures, mé, among
-pretas (or unhappy ghosts), and hing, among the inhabitants of Hell. Accord-
-ingly, each of the six syllables is given the colour of the light-path corresponding
+pretas (or unhappy ghosts), and hing, among the inhabitants of Hell. Accordingly, each of the six syllables is given the colour of the light-path corresponding
 to the six states of existence, thus: 6, the white light-path of the deva-loka (or
 world of the gods); md, the green light-path of the asura-loka (or world of the
 titans) ; »?, the yellow light-path of the manaka-loka (or human world); pay,
 the blue light-path of the “#ryaka-loka (or brute world); sé, the red light-path
-of the preta-loka (or ghost world) ; and hing, the smoke-coloured or black light-
-path of the naraka-loka (or Hell world).
+of the preta-loka (or ghost world) ; and hing, the smoke-coloured or black lightpath of the naraka-loka (or Hell world).
 
 There is an old Tibetan folk-tale concerning a religious devotee who tried to
 incline his irreligious mother to devotional observances and merely succeeded in
@@ -9698,8 +8133,7 @@ Waddell is inclined to doubt that these feryton works were hidden away then
 (i.e. in the time of Padma Sambhava) and in later centuries recovered, as the
 tertons (i.e. ‘takers-out’ of such lost books) claim, and suggests that their
 compilation dates from the fourteenth to the sixteenth century—a tentative and
-possibly unsound theory (cf. L. A. Waddell, Lamatsm in Sikhim, in the Gaget-
-teer of Sikhim, ed. by H. H. Risley, Calcutta, 1894, p. 289 ; also our Introduction,
+possibly unsound theory (cf. L. A. Waddell, Lamatsm in Sikhim, in the Gagetteer of Sikhim, ed. by H. H. Risley, Calcutta, 1894, p. 289 ; also our Introduction,
 Pp. 73-7). In any case, the mantra, at least by tradition (which ordinarily
 is as reliable as recorded history), seems to have come into, or been originated
 in, Tibet contemporaneously with the introduction of Buddhism into Tibct.
@@ -9713,8 +8147,7 @@ PART IT] WINNING OF LIBERATION 151
 
 
 However heavy the evil kava may be and however weak
-the remaining karma may be, it is not possible that libera-
-tion will not be obtained [if one but recognize]. If, never-
+the remaining karma may be, it is not possible that liberation will not be obtained [if one but recognize]. If, never-
 theless, despite everything done in these [stages of the Bardo],
 recognition is still not brought about, then—there being danger
 of one’s wandering further, into the third Bardo, called the
@@ -9764,8 +8197,7 @@ while he is in heal [i.e. health}; and not abide till the death entereth in him,
 
 It is called the Great Liberation by Hearing, because even
 those who have committed the five boundless sins! are sure
-to be liberated if they hear it by the path of the ear. There-
-fore read it in the midst of vast congregations. Disseminate
+to be liberated if they hear it by the path of the ear. Therefore read it in the midst of vast congregations. Disseminate
 it. Through having heard it once, even though one do not
 comprehend it, it will be remembered in the Intermediate
 State without a word being omitted, for the intellect becometh
@@ -9778,8 +8210,7 @@ Those who meet with this [doctrine] are indeed fortunate.
 Save for them who have accumulated much merit and absolved
 many obscurations, difficult is it to meet with it. Even when
 met with, difficult is it to comprehend it. Liberation will be
-won through simply not disbelieving it upon hearing it. There-
-fore treat this [doctrine] very dearly: it is the essence of all
+won through simply not disbelieving it upon hearing it. Therefore treat this [doctrine] very dearly: it is the essence of all
 doctrines.?
 
 The Setting-Face-to-Face while experiencing Reality in the
@@ -9826,8 +8257,7 @@ In the Block-Print, the Bardo Thédol being divided into two distinctly
 separate books—-whereas in our MS. Book II is an unbroken continuation of
 Book I—the first four folios of its second book contain—unlike our MS.—a
 summary of the introductory parts of the first book; and the title of Book II
-of the Block-Print is as follows: Bar-do Thés-grol Chen-mo Las Srid-pa Bar-
-dohit Ngo-Spréd Bzhugs-so (pronounced: Bar-do Thé-dol Chen-mo Lay Sid-pa
+of the Block-Print is as follows: Bar-do Thés-grol Chen-mo Las Srid-pa Bardohit Ngo-Spréd Bzhugs-so (pronounced: Bar-do Thé-dol Chen-mo Lay Sid-pa
 Bar-doi Ngo-Téd Zhu-so), which means, ‘Herein Lieth the Setting-Face-to-
 Face in the Intermediate State of [or when seeking] Worldly Existence (i. e.
 Rebirth), from “The Great Liberation by Hearing on the After-Death Plane’’’.
@@ -9876,8 +8306,7 @@ The vivid reminder is brought.
 
 
 [Introductory Instructions to the Officiant]: Although,
-herctofore, while in the Chédnyid Bardo, many vivid re-
-mindings have been given,—setting aside those who have
+herctofore, while in the Chédnyid Bardo, many vivid remindings have been given,—setting aside those who have
 had great familiarity with the real Truth and those who
 have good karma,—for them of evil karma who have had
 no familiarity, and for them of evil karma who because
@@ -10024,14 +8453,12 @@ Sacred Books of the Hindus, Allahabad, 1912, iv. 5).
 and humble trust, as overshadowing the crown of thy head.
 This is of great importance. Be not distracted.
 
-[Instructions to the Officiant]: Thus speak, and, if recogni-
-tion result from that, Liberation will be obtained, without
+[Instructions to the Officiant]: Thus speak, and, if recognition result from that, Liberation will be obtained, without
 need of the wandering in the Six Lokas. If, however, through
 influence of bad arma, recognition is made difficult, thereupon
 say as follows:
 
-O nobly-born, again listen. ‘Endowed with all sense-
-faculties and power of unimpeded motion’ implicth [that
+O nobly-born, again listen. ‘Endowed with all sensefaculties and power of unimpeded motion’ implicth [that
 although] thou mayst have been, when living, blind of the
 cye, or deaf, or lame, yet on this After-Death Plane thine
 eyes will see forms, and thine ears will hear sounds, and all
@@ -10046,21 +8473,18 @@ O nobly-born, ‘unimpeded motion’ implieth that thy present
 body being a desire-body—thine intellect having been separated
 from its seat 2—is not a body of gross matter, so that now thou
 hast the power to go right through any rock-masses, hills,
-boulders, carth, houses, and Mt. Mcru itself without being im-
-peded.’ Ixcepting Budh-Gaya and the mother’s womb,* even
+boulders, carth, houses, and Mt. Mcru itself without being impeded.’ Ixcepting Budh-Gaya and the mother’s womb,* even
 
 
 1 Or ‘directly above’ ; or lit., ‘as being upon the crown of thy head’. The
 significance herein is occult: the Brahmanic Aperture, through which the
-consciousness-principle normally departs from the human body, either tem-
-porarily in yogic trance or permanently at death, is upon the crown of the head ;
+consciousness-principle normally departs from the human body, either temporarily in yogic trance or permanently at death, is upon the crown of the head ;
 and if the visualization be centred directly over that aperture very definite
 psychic or spiritual benefit accrues to the visualizer. (Cf. p. 92!.)
 
 2 The ‘seat’ is the human body which has been left behind.
 
-8 This power, supernormal in the human world, is normal in the fourth-
-dimensional after-death state. In the human world, such powers, innate in all
+8 This power, supernormal in the human world, is normal in the fourthdimensional after-death state. In the human world, such powers, innate in all
 persons, can be developed and exercised through proficiency in yoga. The
 Buddha describes some of them thus: ‘In this case suppose that a being
 enjoyeth the possession, in various ways, of mystic power: from being one, he
@@ -10084,8 +8508,7 @@ Compassionate Lord.
 
 O nobly-born, thou art actually endowed with the power
 of miraculous action,’ which is not, however, the fruit of any
-samadhi, but a power come to thee naturally; and, there-
-fore, it is of the nature of karmic power.2 Thou art able
+samadhi, but a power come to thee naturally; and, therefore, it is of the nature of karmic power.2 Thou art able
 in a moment to traverse the four continents round about
 Mt. Meru.? Or thou canst instantaneously arrive in whatever
 place thou wishest; thou hast the power of reaching there
@@ -10126,8 +8549,7 @@ the practice of yoga when in the human body.
 
 4 The most advanced of the /amas teach the disciple not to strive after psychic
 powers of this nature for their own sake ; for until the disciple is morally fit to use
-them wisely they become a serious impediment to his higher spiritual develop-
-ment: not until the lower or passional nature of man is completely mastered is
+them wisely they become a serious impediment to his higher spiritual development: not until the lower or passional nature of man is completely mastered is
 he safe in using them.
 
 
@@ -10135,8 +8557,7 @@ he safe in using them.
 
 
 implieth that those [beings] of like nature, being those of
-similar constitution [or level of knowledge] in the Inter-
-mediate State, will individually see each other.1 For example,
+similar constitution [or level of knowledge] in the Intermediate State, will individually see each other.1 For example,
 those beings who are destined to be born amongst devas will
 see each other [and so on]. Dote not on them [seen by
 thee], but meditate upon the Compassionate One.
@@ -10174,8 +8595,7 @@ Truth, like the eyes of Bodhisattvas and Arhants, capable of seeing throughout
 hundreds of world-periods (or £al/pas) backwards and in the future; (4) Divine
 Eyes, of the most highly advanced Bodhisattvas, capable of seeing throughout
 millions of world-periods that which has been and that which will be; and
-(5) Eyes of Wisdom of the Buddhas, capable of seeing, in like manner, through-
-out eternity.
+(5) Eyes of Wisdom of the Buddhas, capable of seeing, in like manner, throughout eternity.
 
 2 Ordinarily it is only when clairvoyant vision is induced by dhyana, or exists
 naturally in certain specially gifted clairvoyants, and directed to the deva-world,
@@ -10192,16 +8612,14 @@ PART T] THE WIND OF KARMA 161
 experiencing at present. But feeling miserable will avail
 thee nothing now. If thou hast a divine guruz,) pray to him.
 Pray to the Tutelary Deity, the Compassionate One. Even
-though thou feelest attachment for thy relatives and con-
-nexions, it will do thee no good. So be not attached.
+though thou feelest attachment for thy relatives and connexions, it will do thee no good. So be not attached.
 Pray to the Compassionate Lord; thou shalt have nought
 of sorrow, or of terror, or of awe.
 
 © nobly-born, when thou art driven [hither and thither]
 by the ever-moving wind of karma, thine intellect, having
 no object upon which to rest, will be like a feather tossed
-about by the wind, riding on the horse of breath.2 Cease-
-lessly and involuntarily wilt thou be wandcring about. To
+about by the wind, riding on the horse of breath.2 Ceaselessly and involuntarily wilt thou be wandcring about. To
 all those who are weeping [thou wilt say], ‘ Here Iam; weep
 not. But they not hearing thee, thou wilt think, ‘I am
 dead!’ And again, at that time, thou wilt be feeling very
@@ -10248,11 +8666,9 @@ thee continually, from the midst of which there will come
 such terror-producing utterances as ‘Strike! Slay!’ and
 similar threats.! Fear these not.
 
-In other cases, of persons of much evil karma, karmically-
-produced flesh-eating rakshasas [or demons] bearing various
+In other cases, of persons of much evil karma, karmicallyproduced flesh-eating rakshasas [or demons] bearing various
 weapons will utter, ‘Strike! Slay!’ and so on, making
-a frightful tumult. They will come upon one as if com-
-peting amongst themselves as to which [of them] should
+a frightful tumult. They will come upon one as if competing amongst themselves as to which [of them] should
 get hold of one. Apparitional illusions, too, of being pursued
 by various terrible beasts of prey will dawn. Snow, rain,
 darkness, fierce blasts [of wind], and hallucinations of being
@@ -10263,10 +8679,8 @@ and of the roaring of fire, and of fierce winds springing up.”
 When these sounds come one, being terrified by them,
 will flee before them in every direction, not caring whither
 one flecth. But the way will be obstructed by three awful
-precipices—white, and black, and red. They will be terror-
-inspiring and deep, and one will feel as if one were about to
-fall down them. O nobly-born, they are not really preci-
-pices; they are Anger, Lust, and Stupidity.*
+precipices—white, and black, and red. They will be terrorinspiring and deep, and one will feel as if one were about to
+fall down them. O nobly-born, they are not really precipices; they are Anger, Lust, and Stupidity.*
 
 1 The dweller in the Bardo, because of the karmic effects of selfishness when
 living in the human world, is obsessed with the belief that all other Bardo
@@ -10280,8 +8694,7 @@ Bardo (i.e. during the Chényid Bardo), then four sounds called ‘‘awe-inspir
 sounds”? [are heard]: from the vital-force of the earth-element, a sound like the
 crumbling down of a mountain; from the vital-force of the water-element,
 a sound like the breaking of [storm-tossed| ocean-waves ; from the vital-force of
-the fire-element, a sound as of a jungle afire; from the vital-force of the air-
-element, a sound like a thousand thunders reverberating simultaneously.’
+the fire-element, a sound as of a jungle afire; from the vital-force of the airelement, a sound like a thousand thunders reverberating simultaneously.’
 Herein are described the psychic resultants of the disintegrating process called
 death as affecting the four grosser elements composing the human body
 aggregate ; the ether-element is not named, because in that element alone—
@@ -10302,13 +8715,11 @@ earnestly, thus: ‘O Compassionate Lord, and my Guru, and
 the Precious Trinity, suffer it not that I (so-and-so by name)
 fall into the unhappy worlds.’ Act so as to forget this not.
 
-Others who have accumulated merit, and devoted them-
-selves sincerely to religion, will experience various delightful
+Others who have accumulated merit, and devoted themselves sincerely to religion, will experience various delightful
 pleasures and happiness and ease in full measure. But that
 class of neutral beings who have neither earned merit nor
 created bad karma will experience neither pleasure nor pain,
-but a sort of colourless stupidity of indifference. O nobly-
-born, whatever cometh in that manner—whatever delightful
+but a sort of colourless stupidity of indifference. O noblyborn, whatever cometh in that manner—whatever delightful
 pleasures thou mayst experience—be not attracted by them ;
 dote not {on them]: think, ‘May the Gurz and the Trinity
 be worshipped [with these merit-given delights]’. Abandon
@@ -10317,8 +8728,7 @@ all dotings and hankerings,
 Even though thou dost not experience pleasure, or pain,
 but only indifference, keep thine intellect in the undistracted
 state of the [meditation upon the] Great Symbol, without
-thinking that thou art meditating.’ This is of vast im-
-portance.
+thinking that thou art meditating.’ This is of vast importance.
 
 O nobly-born, at that time, at bridge-heads, in temples,
 by stiépas of eight kinds,? thou wilt rest a little while, but
@@ -10351,8 +8761,7 @@ bones of the Buddha.
 
 
 intellect hath been separated from thine [earth-plane] body."
-Because of this inability to loiter, thou oft-times wilt feel per-
-turbed and vexed and panic-stricken. At times, thy Knower
+Because of this inability to loiter, thou oft-times wilt feel perturbed and vexed and panic-stricken. At times, thy Knower
 will be dim; at times, fleeting and incoherent. Thereupon this
 thought will occur to thee, ‘Alas! I am dead! What shall
 I do?’ and because of such thought the Knower will become
@@ -10416,14 +8825,12 @@ the Chonyid Bardo—it will have been frozen if in winter, been
 decomposed if in summer, or, otherwise, thy relatives will
 have cremated it, or interred it, or thrown it into the water,
 or given it to the birds and beasts of prey.! Wherefore
-finding no place for thyself to enter into, thou wilt be dis-
-satisfied and have the sensation of being squeezed into cracks
+finding no place for thyself to enter into, thou wilt be dissatisfied and have the sensation of being squeezed into cracks
 and crevices amidst rocks and boulders.?, The experiencing
 of this sort of misery occurs in the Intermediate State
 when seeking rebirth. Even though thou seekest a body,
 thou wilt gain nothing but trouble. Put aside the desire for
-a body; and permit thy mind to abide in the state of resigna-
-tion, and act so as to abide therein.
+a body; and permit thy mind to abide in the state of resignation, and act so as to abide therein.
 
 By thus being set face to face, one obtaincth liberation
 from the Bardo.
@@ -10451,8 +8858,7 @@ mummification. (See pp. 25-8.)
 2 This symbolizes the getting into undesirable wombs, such as those of human
 beings of animal-like nature.
 
-8 Text: Lhan-chig-skyes-pahi-lha (pron. Lhan-chig-kye-pai-lha) = ‘simultaneous-
-ly-born god (or good spirit, or genius)’, the personification of a human being’s
+8 Text: Lhan-chig-skyes-pahi-lha (pron. Lhan-chig-kye-pai-lha) = ‘simultaneously-born god (or good spirit, or genius)’, the personification of a human being’s
 higher, or divine, nature; popularly known in Sikkimese as Lha-kar-chung,
 ‘Little white god’,
 
@@ -10479,8 +8885,7 @@ will place round thy neck a rope and drag thee along; he will
 cut off thy head, extract thy heart, pull out thy intestines, lick
 up thy brain, drink thy blood, eat thy flesh, and gnaw thy
 bones ;? but thou wilt be incapable of dying. Although
-thy body be hacked to pieces, it will revive again. ‘The re-
-peated hacking will cause intense pain and torture.
+thy body be hacked to pieces, it will revive again. ‘The repeated hacking will cause intense pain and torture.
 
 Even at the time that the pebbles are being counted out,
 be not frightened, nor terrified ; tell no lies; and fear not the
@@ -10490,8 +8895,7 @@ Thy body being a mental body is incapable of dying even
 though beheaded and quartcred. In reality, thy body is of
 the nature of voidness;? thou needst not be afraid. The
 
-1 Text: Lhan-chig-skyes-paht-hdve (pron. Lhan-chig-kye-pat-de) = ‘simultaneous-
-ly-born demon (or evil spirit, or genius)’, the personification of a human being’s
+1 Text: Lhan-chig-skyes-paht-hdve (pron. Lhan-chig-kye-pat-de) = ‘simultaneously-born demon (or evil spirit, or genius)’, the personification of a human being’s
 lower, or carnal, nature; popularly known in Sikkimese as Bdud-nag-chung
 (pron. Diid-nag-chung), ‘ Little black mara (or demon)’,
 
@@ -10501,8 +8905,7 @@ judgement against the Evil Genius, the Judge being the conscience itself in its
 stern aspect of:impartiality and love of righteousness; the Mirror is memory.
 One element—the purely human clement—of the consciousness-content of the
 deceased, comes forward, and, by offering lame excuses, tries to meet accusations
-against it, saying, ‘ Owing to such-and-such circumstances I had to do so-and-
-so’, Another element of the consciousness-content comes forward and says,
+against it, saying, ‘ Owing to such-and-such circumstances I had to do so-andso’, Another element of the consciousness-content comes forward and says,
 ‘You were guided by such-and-such motives; your deeds partake of the black
 colour’, Then some more friendly one of such clements arises and protests,
 
@@ -10536,8 +8939,7 @@ Described on page xxiv
 PART 1] NATURE OF THE VOIDNESS 167
 
 
-Lords of Death! are thine own hallucinations. Thy desire-
-body is a body of propensities, and void. Voidness cannot
+Lords of Death! are thine own hallucinations. Thy desirebody is a body of propensities, and void. Voidness cannot
 injure voidness ; the qualityless cannot injure the qualityless.
 
 Apart from one’s own hallucinations, in reality there are
@@ -10561,18 +8963,15 @@ Sambhoga-K aya.
 In that state wherein thou art existing, there is being
 experienced by thee, in an unbearable intensity, Voidness
 and Brightness inseparable,—the Voidness bright by nature
-and the Brightness by nature void, and the Brightness in-
-separable from the Voidness,—a state of the primordial
+and the Brightness by nature void, and the Brightness inseparable from the Voidness,—a state of the primordial
 [or unmodified] intellect, which is the Adi-Kaya.t And the
 
 
 injury. ‘As through a cloud, a sword can be plunged through the Bardo-body
-without harming it’—the /a@mas explain; or it is like the forms seen in material-
-izing seances of necromancers and spirit-mediums.
+without harming it’—the /a@mas explain; or it is like the forms seen in materializing seances of necromancers and spirit-mediums.
 
 1 These Lords of Death are Yama-Raja and his Court of Associates, including,
-perhaps, the Executive Furies, These last are, as Tormenting Furies, compar-
-able to the Eumenides of Aeschylus’ great drama—elements of one’s own
+perhaps, the Executive Furies, These last are, as Tormenting Furies, comparable to the Eumenides of Aeschylus’ great drama—elements of one’s own
 consciousness-content. Following the Abhidhamma, of Southern Buddhism,
 there are mind (Skt. chit, Tib. sevzs—pron. sem) and impulses of mind (Skt.
 chittavritti, Tib. sems-hbyung—pron. sem-jung) ; and the impulses of mind are the
@@ -10593,8 +8992,7 @@ with the Dharma-Kaya.
 168 BARDO OF SEEKING REBIRTH [book 1
 
 
-power of this, shining unobstructedly, will radiate every-
-where; it is the Mirmana-K aya.
+power of this, shining unobstructedly, will radiate everywhere; it is the Mirmana-K aya.
 
 O nobly-born, listen unto me undistractedly. By merely
 recognizing the Four Kayas, thou art certain to obtain perfect
@@ -10612,13 +9010,10 @@ In a moment of time, Perfect Enlightenment is obtained.’
 
 
 Till the moment which hath just passed, all this Bardo
-hath been dawning upon thee and yet thou hast not re-
-cognized, because of being distracted. On this account, thou
-hast experienced all the fear and terror. Shouldst thou be-
-come distracted now, the chords of divine compassion of the
+hath been dawning upon thee and yet thou hast not recognized, because of being distracted. On this account, thou
+hast experienced all the fear and terror. Shouldst thou become distracted now, the chords of divine compassion of the
 Compassionate I‘yes will break, and thou wilt go into the
-place from which there is no [immediate] liberation, There-
-fore, be careful. Even though thou hast not recognized ere
+place from which there is no [immediate] liberation, Therefore, be careful. Even though thou hast not recognized ere
 this—despite thus being set face to face—thou wilt recognize
 and obtain liberation here.
 
@@ -10629,11 +9024,9 @@ O nobly-born, if thou knowest not how thus to meditate,
 act so as to remember the Compassionate One, and the Sangha,
 the Dharma, and the Buddha, and pray. Think of all these
 fears and terrifying apparitions as being thine own tutelary
-deity, or as the Compassionate One.* Bring to thy recollec-
-tion the mystic name that hath been given thee at the time
+deity, or as the Compassionate One.* Bring to thy recollection the mystic name that hath been given thee at the time
 
-1 In virtue of knowing the true nature of sangsarvic existence—that all pheno-
-mena are unreal—Buddhas, or Perfectly Enlightened Ones, are beings quite apart
+1 In virtue of knowing the true nature of sangsarvic existence—that all phenomena are unreal—Buddhas, or Perfectly Enlightened Ones, are beings quite apart
 from unenlightened sentient beings.
 
 2 Lit., ‘there will be no time when thou canst get out’.
@@ -10653,23 +9046,19 @@ PART I] THE INITIATORY NAME 169
 
 of thy sacred initiation when thou wert a human being, and
 the name of thy guru, and tell them to the Righteous King
-of the Lord[s] of Death.) Even though thou fallest down preci-
-pices, thou wilt not be hurt. Avoid awe and terror.
+of the Lord[s] of Death.) Even though thou fallest down precipices, thou wilt not be hurt. Avoid awe and terror.
 
 
 [THE ALL-DETERMINING INFLUENCE
 OF THOUGHT]
 
 
-[Instructions to the Officiant]: Say that; for by such set-
-ting-face-to-face, despite the previous non-liberation, libera-
+[Instructions to the Officiant]: Say that; for by such setting-face-to-face, despite the previous non-liberation, libera-
 tion ought surely to be obtained? here. Possibly, [however,}
-liberation may not be obtained even after that setting-face-
-to-face ; and earnest and continued application being essential,
+liberation may not be obtained even after that setting-faceto-face ; and earnest and continued application being essential,
 again calling the deceased by name, speak as follows:
 
-O nobly-born, thy immediate experiences will be of momen-
-tary joys followed by momentary sorrows, of great intensity,
+O nobly-born, thy immediate experiences will be of momentary joys followed by momentary sorrows, of great intensity,
 like the [taut and relaxed] mechanical actions of catapults?
 Be not in the least attached [to the joys] nor displeased
 [by the sorrows] of that.
@@ -10756,8 +9145,7 @@ flesh-eating has already made rapid progress since the advent of Christianity,
 which, unlike Buddhism, does not, unfortunately, teach kindness to animals as
 a religious tenet, St. Paul himself being of opinion that God cares not for oxen
 (see z Cor. ix.g), And yet on Ceylon’s Sacred Mount of Mihintale still stands,
-as witness of a purer Buddhism, the ancient edict, cut on a stone slab, pro-
-hibiting—as the Edicts of Asoka prohibit—the slaying of any animal, either in
+as witness of a purer Buddhism, the ancient edict, cut on a stone slab, prohibiting—as the Edicts of Asoka prohibit—the slaying of any animal, either in
 sacrifice or for food.
 
 
@@ -10773,8 +9161,7 @@ up with sleep and distraction and non-observance of the
 vows and lack of purity [on the part of any officiant], and
 such things indicating levity—all of which thou wilt be able
 to see because thou art endowed with limited Larmic power
-of prescience *—thou mayst feel lack of faith and entire dis-
-belief {in thy religion]. Thou wilt be able to apprehend
+of prescience *—thou mayst feel lack of faith and entire disbelief {in thy religion]. Thou wilt be able to apprehend
 any fear and fright, any black actions, irreligious conduct,
 and incorrectly recited rituals? In thy mind thou mayst
 think, ‘ Alas! they are, indeed, playing me false’. Thinking
@@ -10785,8 +9172,7 @@ the psychological moment, thou wilt be certain to be born
 in one of the miserable states.
 
 Such [thought] will not only be of no use to thee, but will
-do thee great harm. However incorrect the ritual and im-
-proper the conduct of the priests performing thy funeral
+do thee great harm. However incorrect the ritual and improper the conduct of the priests performing thy funeral
 rites, [think], ‘What! mine own thoughts must be impure!
 How can it be possible that the words of the Buddha should
 be incorrect? It is like the reflection of the blemishes on mine
@@ -10833,12 +9219,10 @@ be brought about thy birth on a higher and happier plane.
 exercise pure affection and humble faith towards all impartially.
 This is highly important. Hence be extremely careful.
 
-O nobly-born, to sum up: thy present intellect in the Inter-
-mediate State having no firm object whereon to depend,
+O nobly-born, to sum up: thy present intellect in the Intermediate State having no firm object whereon to depend,
 being of little weight and continuously in motion, whatever
 thought occurs to thee now—be it pious or impious—will
-wield great power; therefore think not in thy mind of im-
-pious things, but recall any devotional exercises ; or, if thou
+wield great power; therefore think not in thy mind of impious things, but recall any devotional exercises ; or, if thou
 wert unaccustomed to any such exercises, [show forth] pure
 affection and humble faith; pray to the Compassionate One,
 or to thy tutelary deities; with full resolve, utter this prayer :
@@ -10863,8 +9247,7 @@ our kinsmen and others?’
 PART I] PRAYER FOR GUIDANCE 173
 
 
-When the thousand thunders of the Sound of Reality re-
-verberate,
+When the thousand thunders of the Sound of Reality reverberate,
 
 May they all be sounds of the Six Syllables.
 
@@ -10908,8 +9291,7 @@ through power of karma, will shine most prominently.
 
 O nobly-born, listen. If thou desirest to know what those
 six lights are: there will shine upon thee a dull white light
-from the Deva-world, a dull green light from the Asura-
-world, a dull yellow light from the Human-world, a dull blue
+from the Deva-world, a dull green light from the Asuraworld, a dull yellow light from the Human-world, a dull blue
 
 
 1 See p, 149).
@@ -10918,8 +9300,7 @@ world, a dull yellow light from the Human-world, a dull blue
 174 BARDO OF SEEKING REBIRTH [Book II
 
 
-light from the Brute-world, a dull red light from the Preza-
-world, and a smoke-coloured light from the Hell-world.* At
+light from the Brute-world, a dull red light from the Prezaworld, and a smoke-coloured light from the Hell-world.* At
 that time, by the power of karma, thine own body will partake
 ‘ of the colour of the light of the place wherein thou art to be
 born.
@@ -10929,13 +9310,11 @@ important at this moment: whichever light shineth upon thee
 now, meditate upon it as being the Compassionate One; from
 whatever place the light cometh, consider that [place] to be
 [or to exist in] the Compassionate One. This is an exceedingly
-profound art; it will prevent birth. Or whosoever thy tute-
-lary deity may be, meditate upon the form for much time,—
+profound art; it will prevent birth. Or whosoever thy tutelary deity may be, meditate upon the form for much time,—
 as being apparent yet non-existent in reality, like a form
 1 Here as before (see p. 1247) the MS. is faulty. It gives the lights as
 follows: white for the Deva-world, red for the Asura-world, blue for the
-Human-world, green for the Brute-world, yellow for the Preta-world, smoke-
-coloured for the Hell-world. This error, apparently on the part of the copyist
+Human-world, green for the Brute-world, yellow for the Preta-world, smokecoloured for the Hell-world. This error, apparently on the part of the copyist
 of the MS., has been corrected by the translator.
 
 * This expression, ‘the Clearness and the Voidness’, from the instructions
@@ -10958,8 +9337,7 @@ PART II] VITAL TEACHINGS 175
 [THE CLOSING OF THE DOOR OF THE WOMB]
 
 
-[Instructions to the Officiant]: Again, if through great weak-
-ness in devotions and lack of familiarity one be not able to
+[Instructions to the Officiant]: Again, if through great weakness in devotions and lack of familiarity one be not able to
 understand, illusion may overcome one, and one will wander
 to the doors of wombs. The instruction for the closing of
 the womb-doors becometh very important: call the deceased
@@ -10977,18 +9355,15 @@ unendowed with meritorious £arma will have the impression
 of fleeing into places of misery ; those who are endowed with
 meritorious arma will have the impression of arriving in
 places of happiness. Thereupon, O nobly-born, in whatever
-continent or place thou art to be born, the signs of that birth-
-place will shine upon thee then.
+continent or place thou art to be born, the signs of that birthplace will shine upon thee then.
 
 For this moment there are several vital profound teachings.
-Listen undistractedly. Even though thou hast not appre-
-hended by the above settings-face-to-face, here [thou wilt,
+Listen undistractedly. Even though thou hast not apprehended by the above settings-face-to-face, here [thou wilt,
 because] even those who are very weak in devotions will
 recognize the signs. Therefore listen.
 
 {Instructions to the Officiant]: Now it is very important
-to employ the methods of closing the womb-door. Where-
-fore it is necessary to exercise the utmost care. There are
+to employ the methods of closing the womb-door. Wherefore it is necessary to exercise the utmost care. There are
 two [chief] ways of closing: preventing the being who would
 enter from entering, and closing the womb-door which might
 be entered.
@@ -11007,13 +9382,11 @@ O nobly-born, (so-and-so by name,) whosoever may have been
 thy tutelary deity, tranquilly meditate upon him,—as upon the
 reflection of the moon in water, apparent yet non-existent
 [as a moon], like a magically-produced illusion. If thou
-hast no special tutelary, meditate either upon the Com-
-passionate Lord or upon me; and, with this in mind, meditate
+hast no special tutelary, meditate either upon the Compassionate Lord or upon me; and, with this in mind, meditate
 tranquilly.
 
 Then, causing the [visualized form of the] tutelary deity to
-melt away from the extremities, meditate, without any thought-
-forming, upon the vacuous Clear Light. This is a very profound
+melt away from the extremities, meditate, without any thoughtforming, upon the vacuous Clear Light. This is a very profound
 art; in virtue of it, a womb is not entered.
 
 
@@ -11081,8 +9454,7 @@ upon evil actions which might turn the course [of thy mind].
 Remember thy [spiritual] relationship with the Reader of
 this Bardo Thodol, or with any one from whom thou hast
 received teachings, initiation, or spiritual authorization for
-reading religious texts while in the human world; and per-
-severe in going on with good acts: this is very essential. Be
+reading religious texts while in the human world; and persevere in going on with good acts: this is very essential. Be
 not distracted. The boundary line between going upwards
 or going downwards is here now. If thou givest way to
 indecision for even a second, thou wilt have to suffer misery
@@ -11121,16 +9493,14 @@ thysclf ready to enter into it, meditate upon the Divine Gurz
 Father-Mother,? as upon any tutelary deity, or upon the
 Compassionate Tutelary and S#akiz; and meditating upon
 them, worship them with mental offerings. Resolve earnestly
-that thou wilt request [of them] a boon. By this, the womb-
-door ought to be closed.
+that thou wilt request [of them] a boon. By this, the wombdoor ought to be closed.
 
 
 [THE THIRD METHOD OF CLOSING THE WOMB-DOOR]
 
 
 Still, if it be not closed even by that, and thou findest
-thyself ready t6 enter the womb, the third method of re-
-pelling attachment and repulsion is hereby shown unto thee:
+thyself ready t6 enter the womb, the third method of repelling attachment and repulsion is hereby shown unto thee:
 
 There are four kinds of birth: birth by egg, birth by
 womb, supernormal birth,® and birth by heat and moisture.*
@@ -11149,15 +9519,13 @@ is the Guru’s Shaktz,
 
 2 That is, the Guru with the Shakh, as above directed.
 
-3 Text : breus-skyes (pron. au-kye): Skt. Svayambhi: ‘supernormal (or mira-
-culous) birth’, by translation or transference of the consciousness-principle
+3 Text : breus-skyes (pron. au-kye): Skt. Svayambhi: ‘supernormal (or miraculous) birth’, by translation or transference of the consciousness-principle
 from one Joka to another. (See pp. 85-6.)
 
 4 This refers to the germination of seeds and spores, or the processes of birth
 in the vegetable kingdom.
 
-® ‘Brahmanism, likewise, recognizes four kinds of birth: svedaja (sweat-
-born, or moisture-born), andaja (egg-born), araywja (womb-born), and udbhigja
+® ‘Brahmanism, likewise, recognizes four kinds of birth: svedaja (sweatborn, or moisture-born), andaja (egg-born), araywja (womb-born), and udbhigja
 (vegetation).’—Sj. Atal Behari Ghosh.
 
 ° Esoterically, this passage implies that, in accordance with karma, one may
@@ -11175,8 +9543,7 @@ hatred towards the father and of jealousy and attraction towards
 the mother is begotten. If [about] to be born as a female, the
 feeling of itself being a female dawneth upon the Knower,
 and a feeling of intense hatred towards the mother and of
-intense attraction and fondness towards the father is be-
-gotten. Through this secondary cause—[when] entering upon
+intense attraction and fondness towards the father is begotten. Through this secondary cause—[when] entering upon
 the path of ether, just at the moment when the sperm and the
 ovum are about to unite—the Knower experienceth the bliss
 of the simultaneously-born state, during which state it fainteth
@@ -11184,8 +9551,7 @@ away into unconsciousness. [Afterwards] it findeth itself
 encased in oval form, in the embryonic state, and upon
 emerging from the womb and opening its eyes it may find itself
 transformed into a young dog. Formerly it had been a human
-being, but now if it have become a dog it findeth itself under-
-going sufferings in a dog’s kennel; or [perhaps] as a young
+being, but now if it have become a dog it findeth itself undergoing sufferings in a dog’s kennel; or [perhaps] as a young
 pig in a pigsty, or as an ant in an ant-hill, or as an insect,
 or a grub in a hole, or as a calf, or a kid, or a lamb,! from
 which shape there is no [immediate] returning. Dumbness,
@@ -11219,8 +9585,7 @@ given in our Introduction, pp. 55-9.
 
 
 teachings, will fall down into the precipitous depths of the
-Sangsava in this manner, and suffer interminably and un-
-bearably. Rather than meet with a like fate, listen thou unto
+Sangsava in this manner, and suffer interminably and unbearably. Rather than meet with a like fate, listen thou unto
 my words and bear these teachings of mine at heart.
 
 Reject the feelings of attraction or repulsion, and remember
@@ -11253,8 +9618,7 @@ Meditating thus, resolve firmly that thou wilt hold on to
 that [resolution]. It hath been said, in the Tantras, ‘The
 door of the womb will be closed up by that alone.’
 
-O nobly-born, be not distracted. Hold thy mind one-
-pointedly upon that resolution.
+O nobly-born, be not distracted. Hold thy mind onepointedly upon that resolution.
 
 
 [THE FOURTH METHOD OF CLOSING THE WOMB-DOOR]
@@ -11276,8 +9640,7 @@ the womb should be closed. That is to be meditated as
 follows:
 
 ‘QO, the pair, the father and the mother, the black rain,
-the storm-blasts, the clashing sounds, the terrifying appari-
-tions, and all the phenomena, are, in their true nature, illusions.
+the storm-blasts, the clashing sounds, the terrifying apparitions, and all the phenomena, are, in their true nature, illusions.
 Howsoever they may appear, no truth is there [in them];
 all substances are unreal and false. Like dreams and like
 apparitions are they ; they are non-permanent; they have no
@@ -11324,8 +9687,7 @@ which dissolve in rain and vanish. (Cf. p. 1648.)
 
 
 should close the womb-door by meditating upon the Clear
-Light, this being the fifth [method]. The meditation is per-
-formed as follows:
+Light, this being the fifth [method]. The meditation is performed as follows:
 
 ‘Lo! all substances are mine own mind;! and this mind
 is vacuousness, is unborn, and unceasing.’
@@ -11339,12 +9701,10 @@ the womb-doors of the four kinds of birth? are sure to be
 closed. Meditate thus until the closing is successfully
 accomplished.
 
-[Instructions to the Officiant]: Many very profound teach-
-ings for closing the womb-door have been given above. It is
+[Instructions to the Officiant]: Many very profound teachings for closing the womb-door have been given above. It is
 impossible that they should not liberate people of the highest,
 the average, and the lowest intellectual capacity. If it be
-asked why this should be so, it is because, firstly, the con-
-sciousness in the Bardo possessing supernormal powcr of
+asked why this should be so, it is because, firstly, the consciousness in the Bardo possessing supernormal powcr of
 perception® of a limited kind, whatever is spoken to one
 then is apprehended. Secondly, because—although [formerly]
 deaf or blind—here, at this time, all one’s faculties are perfect,
@@ -11362,8 +9722,7 @@ this as ‘mind’, as synonymous with ‘consciousness’.
 2 As mentioned above, on p. 178.
 
 8 Text: mzngon-shes (pron. ngon-she), referring to certain gifts of supernormal
-perception (Skt. Abhynd), of which six are commonly enumerated: (1) super-
-normal vision and (2) hearing ; (3) thought-reading; (4) knowledge of miraculous
+perception (Skt. Abhynd), of which six are commonly enumerated: (1) supernormal vision and (2) hearing ; (3) thought-reading; (4) knowledge of miraculous
 power ; (5) recollection of former existences; (6) knowledge of the destruction
 ofthe passions. For the ordinary deceased person such ‘supernormal power of
 perception’ is limited (or exhaustible), and only operative in the after-dcath
@@ -11409,8 +9768,7 @@ deceased by name thrice, speak as follows:
 
 O nobly-born, (so-and-so), listen. Although the above
 setting-face-to-face teachings have been given one-pointedly,
-yet thou hast not understood them. Therefore, if the womb-
-door hath not been closed, it is almost time to assume a
+yet thou hast not understood them. Therefore, if the wombdoor hath not been closed, it is almost time to assume a
 body. Make thy selection of the womb [according to] this
 best teaching. Listen attentively, and hold it in mind.
 
@@ -11527,8 +9885,7 @@ and found only in esoteric Christianity, i.e. Gnosticism, which, very unwisely,
 the councils of exoteric Christianity have officially repudiated as being ‘heretical’.
 
 1 Or, as in the text on p. 194 (wherein the clue to the esotericism underlying
-the references to birth ‘amongst beasts’ is given), amongst human beings ‘ re-
-sembling the brute order’.
+the references to birth ‘amongst beasts’ is given), amongst human beings ‘ resembling the brute order’.
 
 2 Lit., ‘there will be no time [soon] when one can get out of it’. Buddhism
 (and Hinduism, too,) does not postulate eternal condemnation to a state of hell,
@@ -11544,12 +9901,10 @@ to mean ‘tormenting furies’, (Cf. p. 167%.)
 186 BARDO OF SEEKING REBIRTH [800K II
 
 
-and terrifying hail-storms and whirlwinds of icy blasts occur-
-ring, there will arise the thought of fleeing from them.
+and terrifying hail-storms and whirlwinds of icy blasts occurring, there will arise the thought of fleeing from them.
 
 Thereupon, by going to seek refuge because of fear, [one
-beholdeth] the aforesaid visions of great mansions, rock-
-caverns, earth-caverns, jungles, and lotus blossoms which close
+beholdeth] the aforesaid visions of great mansions, rockcaverns, earth-caverns, jungles, and lotus blossoms which close
 [on entering them]; and one escapeth by hiding inside [one
 of such places] and fearing to come out therefrom, and
 thinking, ‘To go out is not good now’. And fearing to
@@ -11560,13 +9915,11 @@ encounter them, if one hide oneself within [the place or womb
 chosen], one will thereby assume a very undesirable body and
 suffer various sufferings.
 
-That [condition] is an indication that evil spirits and rak-
-shasas [or demons] are interfering with one.’ For this time
+That [condition] is an indication that evil spirits and rakshasas [or demons] are interfering with one.’ For this time
 there is a profound teaching. Listen; and heed it:
 
 At that time—when the tormenting furies will be in pursuit
-of thee, and when awe and terror will be occurring—instan-
-taneously [visualize] either the Supreme Heruka, or Haya-
+of thee, and when awe and terror will be occurring—instantaneously [visualize] either the Supreme Heruka, or Haya-
 griva, or Vajra-Pani,? or [any other] tutelary deity if thou
 hast such, perfect of form, huge of body, of massive limbs,
 wrathful and terrifying in appearance, capable of reducing to
@@ -11630,19 +9983,16 @@ It is true that spirit-evocation of a kind is practised in Tibet, as throughout
 Mongolia and China, by /am#as who form a class of oracular priests, consulted on
 important problems of political policy even by the Dalai Lama himself. But the
 spirits called up are tutelary deities of a low order called the ‘executive-order’
-(Tib. bkah-dod—pron. ka-dét, meaning ‘ one awaiting orders’) and never intention-
-ally the spirits or ghosts of men or women recently deceased. Some of these
+(Tib. bkah-dod—pron. ka-dét, meaning ‘ one awaiting orders’) and never intentionally the spirits or ghosts of men or women recently deceased. Some of these
 bkahdods are, so the Tibetans believe, the spirits of /émas and devotees who
-have failed—often through practising black magic—to obtain spiritual enlighten-
-ment when in the human world, or who otherwise, in the manner described in
+have failed—often through practising black magic—to obtain spiritual enlightenment when in the human world, or who otherwise, in the manner described in
 the text here, have been diverted from the normal path of progress, Thus, in
 many instances, they have become demoniacal and malignant spirits, whose
 progress has been arrested not by being bound to the earth-plane through having
 been called up by ‘mediums’ soon after their decease, but naturally through very
 evil karma. Such bkahdods, thus often presenting themselves with ordinary
 spirits of the dead, are, as obsessing demons, said to do much harm mentally and
-psychically to the untrained ‘medium’ and clients, insanity and moral irresponsi-
-bility not infrequently resulting. For these reasons, the /@mas maintain that
+psychically to the untrained ‘medium’ and clients, insanity and moral irresponsibility not infrequently resulting. For these reasons, the /@mas maintain that
 psychic research should be conducted only by masters of the occult, or magical,
 sciences, and not indiscriminately by the guru-less multitude.
 
@@ -11653,8 +10003,7 @@ now practised in the West has been practised for unknown centuries, as it still
 188 BARDO OF SEEKING REBIRTH [Book I!
 
 
-At this time, if one can recollect the Great Symbol | teach-
-ings] concerning the Voidness, that will be best. If one be
+At this time, if one can recollect the Great Symbol | teachings] concerning the Voidness, that will be best. If one be
 not trained in that, train the [mental] powers + into [regarding]
 all things as illusion [or maya]. Even if this be impossible,
 be not attracted by anything, By meditating upon the
@@ -11678,8 +10027,7 @@ Since thou now possessest a slender supernormal power of
 foreknowledge, all the places [of birth] will be known to thee,
 one after another.? Choose accordingly.
 
-There are two alternatives: the transference [of the conscious-
-ness-principle] to a pure Buddha realm, and the sclection of
+There are two alternatives: the transference [of the consciousness-principle] to a pure Buddha realm, and the sclection of
 the impure sangsaric womb-door, to be accomplished as
 follows:
 
@@ -11687,8 +10035,7 @@ follows:
 is. The Lepchas, descendants of the primitive races of Sikkim, who still form
 a large part of the rural population, are as thoroughly animistic in their worships
 as the American Red Men; and, largely through their influence, the evocation
-of the dead has become rather widespread among the Sikkimese Buddhist lay-
-folk, many of whom are of both Tibetan and Lepcha blood. Similarly, in
+of the dead has become rather widespread among the Sikkimese Buddhist layfolk, many of whom are of both Tibetan and Lepcha blood. Similarly, in
 Buddhist Bhutan, such spirit-evocation iscommon. In both countries, however,
 the /amas strenuously, though rather ineffectually, oppose it.
 
@@ -11714,13 +10061,11 @@ PART II] CONSCIOUSNESS PROJECTION 189
 PARADISE REALM]
 
 
-In the first—the transference to a pure paradise—the pro-
-jection is directed [by thinking or meditating] thus:
+In the first—the transference to a pure paradise—the projection is directed [by thinking or meditating] thus:
 
 ‘Alas! how sorrowful it is that I, during all the innumerable
 kalpas since illimitable, beginningless time, until now, have
-been wandering in the Quagmire of Sangs@ra! O how pain-
-ful that I have not been liberated into Buddhahood by knowing
+been wandering in the Quagmire of Sangs@ra! O how painful that I have not been liberated into Buddhahood by knowing
 the consciousness to be the self! hitherto cre this! Now doth
 this Sangsara disgust me, horrify me, sicken me; now hath
 the hour come to prepare to flee from it. I mysclf will so act
@@ -11738,18 +10083,14 @@ Formed Realm, or The Realm [of Those] of Long Hair,*
 dima). Should we consider ‘consciousness’ in this context to be the essential
 or true consciousness, i. e. the subconsciousness—and this meaning is implied—
 the passage would be in direct accord with the psychology of the West, which,
-on the basis of much accumulated data, might very well postulate that the sub-
-consciousness, being the storehouse of all memory-records, from this life or
-from hypothetical past lives, is the real self—the bed in which flows on un-
-brokenly the ‘life-flux’, from one state of existence to another, aud which,
-when transmuted by the alchemy of Perfect Enlightenment, becomes the supra-
-mundane consciousness, i. e, the Buddha consciousness. (Cf. W.Y.Evans-Wentz,
+on the basis of much accumulated data, might very well postulate that the subconsciousness, being the storehouse of all memory-records, from this life or
+from hypothetical past lives, is the real self—the bed in which flows on unbrokenly the ‘life-flux’, from one state of existence to another, aud which,
+when transmuted by the alchemy of Perfect Enlightenment, becomes the supramundane consciousness, i. e, the Buddha consciousness. (Cf. W.Y.Evans-Wentz,
 The Fairy-laith in Celtic Countries, Oxford University Press, 1911, chap. XII.)
 
 That this view is in keeping with the recorded teachings of the Buddha
 Himself is evident from the Lonaphala Vagga of the Anguttara Nikaya, wherein
-He expounds the yogic method of recovering memories, innate in the sub-
-consciousness (see our Introduction, pp. go-1). Sobhita, one of the Buddha’s
+He expounds the yogic method of recovering memories, innate in the subconsciousness (see our Introduction, pp. go-1). Sobhita, one of the Buddha’s
 disciples, was declared, by the Buddha Himself, to be pre-eminent in ‘ ability to
 remember former existences’ (cf. Etaddagga Vagga, Anguttara Nikdya), being
 credited with ability to recall systematically his former existences throughout
@@ -11795,8 +10136,7 @@ Looking with thy supernormal power of foresight over the
 Continents, as above, choose that in which religion prevaileth
 and enter therein.
 
-If birth is to be obtained over a heap of impurities,* a sensa-
-tion that it is sweet-smelling will attract one towards that
+If birth is to be obtained over a heap of impurities,* a sensation that it is sweet-smelling will attract one towards that
 impure mass, and birth will be obtained thereby.
 
 Whatsoever they [the wombs or visions] may appear to be,
@@ -11818,8 +10158,7 @@ Urgyan) now reigns,
 * Maitreya, the next Bodhic World-Teacher, now bides his time in the
 Tushita Heavens, where He reigns as King. (See p. 1085.)
 
-8 Birth from within a lotus blossom, in the Tushita Heavens, as in the Deva-
-world, esoterically implies pure birth, that is, birth without entrance into
+8 Birth from within a lotus blossom, in the Tushita Heavens, as in the Devaworld, esoterically implies pure birth, that is, birth without entrance into
 a womb, womb-birth being considered impure.
 
 4 That is, the sperm and the ovum in the impregnated womb.
@@ -11862,8 +10201,7 @@ propensities.
 with the attraction and repulsion, those of the least mentality
 
 
-1 Text: sala: Skt. shala (the shorea robusta), one of the hardwood forest-
-trees of India, growing to great size; the Tibetan word for Brahmin is Bramze
+1 Text: sala: Skt. shala (the shorea robusta), one of the hardwood foresttrees of India, growing to great size; the Tibetan word for Brahmin is Bramze
 (pron. Tamze). The ancient Indians regarded the sal-tree, with its splendid
 foliage and beautiful blossoms, as the best of trees; and for the Buddhists it is
 sanctified by the birth and death of the Enlightened One which took place under
@@ -11886,8 +10224,7 @@ and of evil karma will be liable to take refuge amongst brutes.?
 The way to repel therefrom is to call the deceased by name
 again, thus:
 
-O nobly-born, if thou art not able to rid thyself of attrac-
-tion and repulsion, and know not the [art of] selecting the
+O nobly-born, if thou art not able to rid thyself of attraction and repulsion, and know not the [art of] selecting the
 womb-door, whichever of the above visions may appear, call
 upon the Precious Trinity and take refuge [therein]. Pray
 unto the Great Compassionate One. Walk with thy head
@@ -11921,8 +10258,7 @@ pp. 197-208.
 of yoga, is composed of twenty-seven parts: (1) the five elements (earth, water,
 fire, air, ether); (2) the five skandhas (body-aggregate, sensation-aggregate,
 feelings-aggregate, volition-aggregate, consciousness-aggregate); (3) the five airs
-(downward-air, warmth-equalizing-air, the pervader, upward-moving-air, life-
-holding air); (4) the five sense-organs (nose, ears, eyes, tongue, skin); (5) the
+(downward-air, warmth-equalizing-air, the pervader, upward-moving-air, lifeholding air); (4) the five sense-organs (nose, ears, eyes, tongue, skin); (5) the
 six faculties (sight, smell, hearing, tasting, perception, reasoning); and (6) the
 mentality. These twenty-seven parts constitute the impermanent personality.
 Behind them all stands the subconsciousness, the Knower, which, unlike the
@@ -11959,14 +10295,11 @@ Wrathful Deities dawneth upon them, during the succeeding
 
 There being several turning-points,* liberation should be
 obtained at one or other of them through recognizing. But
-those of very weak armic connexion, whose mass of obscura-
-tions is great [because of] evil actions, have to wander down-
+those of very weak armic connexion, whose mass of obscurations is great [because of] evil actions, have to wander down-
 wards and downwards to the Szdpa Bardo. Yet since there
-are, like the rungs of a ladder, many kinds of settings-face-to-
-face [or remindings], liberation should have been obtained at
+are, like the rungs of a ladder, many kinds of settings-face-toface [or remindings], liberation should have been obtained at
 one or at another by recognizing. But those of the weakest
-karmic connexions, by not recognizing, fall under the in-
-fluence of awe and terror. [For them] there are various graded
+karmic connexions, by not recognizing, fall under the influence of awe and terror. [For them] there are various graded
 
 
 The Astrology for the Dead—a Tibetan work, in many versions, for determining
@@ -11997,8 +10330,7 @@ remind him of it and thereby bring about his liberation.
 teachings for closing the womb-door and for selecting the
 womb-door; and, at one or other of these, they should
 have apprehended the method of visualization and [applied |
-the illimitable virtues [thereof] for exaiting one’s own con-
-dition. Even the lowest of them, resembling the brute order,
+the illimitable virtues [thereof] for exaiting one’s own condition. Even the lowest of them, resembling the brute order,
 will have been able—in virtue of the application of the
 Refuge—to turn from entering into misery ; and, [obtaining]
 the great [boon] of a perfectly endowed and freed human
@@ -12019,16 +10351,14 @@ along with them, the mere hearing of this Doctrine then
 turneth one’s views, and liberation is obtained; for there
 
 
-1 Text: dal-hbyor-phun-sum-tshogs-paht-mt-liis (pron. tal-jor-phiin-sum-tsho-
-pat-mi-lit) : ‘a perfectly endowed and freed human body’; ‘freed’ implying
+1 Text: dal-hbyor-phun-sum-tshogs-paht-mt-liis (pron. tal-jor-phiin-sum-tshopat-mi-lit) : ‘a perfectly endowed and freed human body’; ‘freed’ implying
 freedom from the eight thraldoms: (1) the ever-recurring round of pleasure
 concomitant with existence as a deva; (2) the incessant warfare concomitant
 with existence as an asura; (3) the helplessness and slavery concomitant with
 existence under conditions like those prevailing in the world of brutes; (4) the
 torments of hunger and thirst concomitant with existence as a prefa; (5) the
 extremes of heat and cold concomitant with existence in Hell; (6) the irreligion
-or perverted religion concomitant with existence amongst certain races of man-
-kind, or (7) the physical or (8) other impediments concomitant with certain
+or perverted religion concomitant with existence amongst certain races of mankind, or (7) the physical or (8) other impediments concomitant with certain
 sorts of human birth.
 
 To win a perfectly endowed human body, one must inherently possess faith,
@@ -12053,15 +10383,13 @@ rape) LFRICACY OF THE BARDO THODOL 1095
 is no flesh and blood body to depend upon, but a mental
 body, which is [easily] affected. At whatever distance one
 may be wandering in the Bardo, one heareth and cometh,
-for one possesseth the slender sense of supernormal per-
-ception and foreknowledge; and, recollecting and appre-
+for one possesseth the slender sense of supernormal perception and foreknowledge; and, recollecting and appre-
 hending instantaneously, the mind is capable of being changed
 [or influenced]. Therefore is it [i.e. the Teaching] of great
 use here. It is like the mechanism of a catapult! It is like
 the moving of a big wooden beam [or log] which a hundred
 men cannot carry, but which by being floated upon water can
-be towed wherever desired in a moment.” It is like the con-
-trolling of a horse’s mouth by means of a bridle.*
+be towed wherever desired in a moment.” It is like the controlling of a horse’s mouth by means of a bridle.*
 
 Therefore, going near [the body of] one who hath passcd
 out of this life—if the body be there,—impress this [upon the
@@ -12084,8 +10412,7 @@ appropriate, or even to Buddhahood.
 8 As with a bridle, controlling the bit and the course of the horse, so with
 
 
-this Doctrine the deceased can be directed or turned in his after-death pro-
-gression.
+this Doctrine the deceased can be directed or turned in his after-death progression.
 
 4 This does not refer to animal-sacrifice for the dead, but to the non-Buddhist
 habit of slaying animals to provide meat for the /amas and the guests at the
@@ -12099,8 +10426,7 @@ after the letter, but not in the spirit of this Buddhist precept of non-killing.
 related Himalayan peoples, as amongst the peoples of India and of Egypt, since
 immemorial times ; but Buddhism, like the Islamic Faith, discountenances them.
 
-8 Such deeds are, for example, the feeding of /amas and of the poor, alms-
-giving, the presentation of religious texts or images to monasteries, and the
+8 Such deeds are, for example, the feeding of /amas and of the poor, almsgiving, the presentation of religious texts or images to monasteries, and the
 endowment of monasteries if the deceased left much wealth.
 
 
@@ -12176,19 +10502,15 @@ is [thus] :
 
 Offer up to the Trinity whatever actual offerings can be
 offered [by the dying person, or by his family], together with
-mentally-created offerings; and, holding in the hand swect-
-smelling incense, repeat, with great fervency, the following :
+mentally-created offerings; and, holding in the hand swectsmelling incense, repeat, with great fervency, the following :
 
-O ye Buddhas and Bodhisattvas, abiding in the Ten Direc-
-tions,? endowed with great compassion, endowed with fore-
+O ye Buddhas and Bodhisattvas, abiding in the Ten Directions,? endowed with great compassion, endowed with fore-
 knowledge, endowed with the divine eye, endowed with love,
 affording protection to sentient beings, condescend through
-the power of your great compassion to come hither; conde-
-scend to accept these offerings actually laid out and mentally
+the power of your great compassion to come hither; condescend to accept these offerings actually laid out and mentally
 created.
 
-O ye Compassionate Ones, ye possess the wisdom of under-
-standing, the love of compassion, the power of [doing] divine
+O ye Compassionate Ones, ye possess the wisdom of understanding, the love of compassion, the power of [doing] divine
 deeds and of protecting, in incomprehensible measure. Ye
 Compassionate Ones, (such-and-such a person) is passing from
 this world to the world beyond. He is leaving this world.
@@ -12210,23 +10532,20 @@ goeth to another place. He entereth thick darkness. He
 falleth down a steep precipice. He entereth into a jungle
 solitude. He is pursued by Karmic Forces. He goeth into
 the Vast Silence. He is borne away by the Great Ocean.
-He is wafted on the Wind of Karma. He goeth in the direc-
-tion where stability existeth not. He is caught by the Great
+He is wafted on the Wind of Karma. He goeth in the direction where stability existeth not. He is caught by the Great
 Conflict. He is obsessed by the Great Afflicting Spirit. He
 is awed and terrified by the Messengers of the Lord of Death.
 Existing Karma putteth him into repeated existence. No
 strength hath he. He hath come upon a time when he hath
 to go alone.
 
-O ye Compassionate Ones, defend (so-and-so) who is defence-
-less. Protect him who is unprotected. Be his forces and his
+O ye Compassionate Ones, defend (so-and-so) who is defenceless. Protect him who is unprotected. Be his forces and his
 kinsmen. Protect [him] from the great gloom of the Bardo.
 Turn him from the red [or storm] wind of Karma, Turn him
 from the great awe and terror of the Lords of Death. Save
 him from the long narrow passage-way of the Bardo.
 
-O ye Compassionate Ones, let not the force of your com-
-passion be weak; but aid him. Let him not go into misery
+O ye Compassionate Ones, let not the force of your compassion be weak; but aid him. Let him not go into misery
 [or the miserable states of existence]. Forget not your ancient
 vows; and let not the force of your compassion be weak.
 
@@ -12266,7 +10585,6 @@ Way OF THE BARDO’
 ’ is [as follows]:
 
 
-[1]
 O ye Conquerors and your Sons, abiding in the Ten
 Directions,
 O ye ocean-like Congregation of the All-Good Conquerors,
@@ -12276,8 +10594,6 @@ Hearken now out of [your] great love and compassion :
 Obeisance, O ye assemblage of Gurus and Déakinis ;
 Out of your great love, lead us along the Path.
 
-
-[2]
 
 When, through illusion, I and others are wandering in the
 Sang sara,
@@ -12293,9 +10609,6 @@ May we be saved from the fearful narrow passage-way of
 the Bardo,
 
 May we be placed in the state of the perfect Buddhahood.
-
-
-[3]
 
 
 When, through violent anger, [we are] wandering in the
@@ -12316,7 +10629,6 @@ May we be placed in the state of the perfect Buddhahood.
 200 TIBETAN BOOK OF THE DEAD: APPENDIX
 
 
-[4]
 When, through intense pride, [we are] wandering in the
 Sangsara,
 Along the bright light-path of the Wisdom of Equality,
@@ -12327,7 +10639,6 @@ Bardo,
 May we be placed in the state of the perfect Buddhahood.
 
 
-[5]
 When, through great attachment, [we are] wandering in the
 Sangsara,
 Along the bright light-path of the Discriminating Wisdom,
@@ -12338,7 +10649,6 @@ Bardo,
 May we be placed in the state of the perfect Buddhahood.
 
 
-[5]
 When, through intense jealousy, [we are] wandering in the
 Saugsara,
 Along the bright light-path of the All-Performing Wisdom,
@@ -12348,8 +10658,6 @@ May we be saved from the fearful narrow passage-way of the
 Bardo,
 May we be placed in the state of the perfect Buddhahood.
 
-
-[7]
 
 When, through intense stupidity, [we are] wandering in the
 Sangsara,
@@ -12369,13 +10677,10 @@ May we be placed in the state of the perfect Buddhahood.
 PRAYER FOR GUIDANCE 201
 
 
-[8]
-
 When, through intense illusion, [we are] wandering in the
 Sangsara,
 
-Along the bright light-path of the abandonment of hallucina-
-tory fear, awe, and terror,
+Along the bright light-path of the abandonment of hallucinatory fear, awe, and terror,
 
 May the bands of the Bhagavans of the Wrathful Ones
 lead us,
@@ -12387,9 +10692,6 @@ May we be saved from the fearful narrow passage-way of the
 Bardo,
 
 May we be placed in the state of the perfect Buddhahood.
-
-
-[9]
 
 
 When, through intense propensities, [we are] wandering in
@@ -12408,7 +10710,6 @@ Bardo,
 May we be placed in the state of the perfect Buddhahood.
 
 
-[10]
 May the ethereal elements not rise up as enemies ;
 May it come that we shall see the Realm of the Blue Buddha.
 May the watery elements not rise up as enemies;
@@ -12460,7 +10761,6 @@ appearances and of mind, may the 77z-K aya be realized :
 Once that the human form hath been attained,
 * May there be no time [or opportunity] in which to idle it [or
 human life] away.
-[2]
 O now, when the Dream Bardo upon me is dawning!
 Abandoning the inordinate corpse-like sleeping of the sleep of
 stupidity,
@@ -12489,9 +10789,6 @@ May the blending of the practising of the sleep [state] and
 actual [or waking] experience be highly valued [by me].
 
 
-[3]
-
-
 O now, when the Dhyana Bardo upon me is dawning!
 
 Abandoning the whole mass of distractions and illusions,
@@ -12508,8 +10805,6 @@ actions put aside,
 May I not fall under the power of misleading, stupefying
 passions.
 
-
-[4]
 
 O now, when the Bardo of the Moment of Death upon
 me is dawning!
@@ -12529,16 +10824,12 @@ and blood;
 May I know the body to be impermanent and illusory.
 
 
-[5]
-
-
 O now, when the Bardo of the Reality upon me is dawning,
 Abandoning all awe, fear, and terror of all [phenomena],
 
 
 1 There is a very profound system of yoga in which the devotee’s aim is to
-enter the dream-state at will and carry on experiments therein in full conscious-
-ness of being in the dream-state, and then return to the waking-state with com-
+enter the dream-state at will and carry on experiments therein in full consciousness of being in the dream-state, and then return to the waking-state with com-
 plete memory of the experience ; thereby is realized the unreality of both states—
 that both are merely illusory, being based wholly upon phenomena.
 
@@ -12562,8 +10853,6 @@ Fear not the bands of the Peaceful and Wrathful, Who are
 thine own thought-forms’.
 
 
-[5]
-
 O now, when the Bardo of [taking] Rebirth upon me is
 dawning !
 
@@ -12580,7 +10869,6 @@ The hour hath come when energy and pure love are needed ;
 Father-Mother.
 
 
-[7]
 [‘O] procrastinating one, who thinketh not of the coming of
 death,
 Devoting thyself to the useless doings of this life,
@@ -12619,7 +10907,6 @@ ite Path OF GOOD WISHES WHICH PRO-
 TEGVETH BROM FEAR IN THE LAKRDO’:
 
 
-[1]
 When the cast [of the dice] of my life hath become exhausted,
 The relatives in this world avail me not;
 When I wander alone by myself in the Bardo,
@@ -12628,21 +10915,15 @@ power of your compassion,
 Let it come that the Gloom of Ignorance be dispelled.
 
 
-[2]
-
 When wandering alone, parted from loving friends,
 
 When the shapes of mine empty thought-forms dawn upon
 me here,
 
-{May the] Buddhas, exerting the power of their divine com-
-passion,
+{May the] Buddhas, exerting the power of their divine compassion,
 
 Cause it to come that there be neither awe nor terror in the
 Bardo.
-
-
-[3]
 
 
 When the bright radiances of the Five Wisdoms shine upon
@@ -12656,9 +10937,6 @@ dawning upon me here,
 
 Let it come that I, obtaining the assurance of fearlessness,
 may recognize the Bardo.
-
-
-[4]
 
 
 When experiencing miseries, because of the force of evil
@@ -12678,8 +10956,6 @@ Let it come that they be transmuted into the sounds of the
 Mahayana Doctrines.?
 
 
-[5]
-
 When {I am] unprotected, [and] £armic influences have to be ~
 followed here,
 
@@ -12693,7 +10969,6 @@ Let it come that the blissful Samadhi of the Clear Light
 may dawn [upon mel.
 
 
-[6]
 When assuming supernormal rebirth in the Szdpa Bardo,
 Let it come that the perverting revelations of Mara occur not
 therein;
@@ -12702,14 +10977,12 @@ Let it come that I experience not the illusory fright and awe
 from evil arma.
 
 
-[7]
 When the roarings of savage beasts are uttered,
 Let it come that they be changed into the sacred sounds of
 the Six Syllables ; ?
 When pursued by snow, rain, wind, and darkness,
 Let it come that I see with the celestial eyes of bright
 Wisdom.
-[8]
 
 
 Let it come that all sentient beings of the same harmonious
@@ -12740,8 +11013,6 @@ Let it come that I experience not the pangs of hunger and
 thirst, heat and cold.!
 
 
-[9]
-
 When I behold the future parents in union,
 
 Let it come that I behold them as the [Divine] Pair, the
@@ -12755,7 +11026,6 @@ Let it come that I obtain the perfect body, adorned with the
 signs and the graces,?
 
 
-[10]
 Obtaining for myself the body of a male [which is] the
 better,
 Let it come that I liberate all who see or hear me;
@@ -12764,7 +11034,6 @@ Let it come that whatever merits [be mine] follow me and be
 multiplied.
 
 
-[11]
 Wherever I be born, there and then,
 Let it come that I meet the Conquerors, the Peaceful and the
 Wrathful Deities ;
@@ -12792,7 +11061,6 @@ In the Samgiti Satta, Digha Nikaya, of the Pali Canon of Southern
 208 TIBETAN BOOK OF THE DEAD: APPENDIX
 
 
-[12]
 In all the various lores, great, small, and intermediate,
 Let it come that I be able to obtain mastery merely upon
 hearing, reflecting, and seeing ;
@@ -12800,7 +11068,6 @@ In whatever place I be born, let it be auspicious ;
 Let it come that all sentient beings be endowed with happiness.
 
 
-[33]
 Ye Conqucrors, Peaceful and Wrathful, in likeness to your
 bodies,
 [Number of your] followers, duration of your life-period, limit
@@ -12808,8 +11075,6 @@ of your realms,
 And [in likeness to the] goodness of your divine name,
 Let it come that I, and others, equal your very selves in all these.
 
-
-[14]
 
 By the divine grace of the innumerable All-Good Peaceful
 and Wrathful [Ones],
@@ -12884,8 +11149,7 @@ Let virtue and goodness be perfected in every way.
 [Here endeth the Manuscript of the Bardo Thodol.|
 
 
-1 In dedicating the whole of the spiritual merit, derived from the task of tran-
-scribing our copy of the Bardo Thédol, to mothers, irrespective of race or religion,
+1 In dedicating the whole of the spiritual merit, derived from the task of transcribing our copy of the Bardo Thédol, to mothers, irrespective of race or religion,
 to the end that they may be helped to attain Buddhahood, the scribe testifies to
 the position of respect and honour which the democracy of Buddhism has always
 assigned to woman,
@@ -12932,17 +11196,14 @@ higher or divine nature in such manner as to allow the higher
 to direct the lower;! and this condition—essential to the
 successful application of the Bardo doctrines—is to be brought
 about by control of the mental process. So long as the field
-of the mind is occupied by such thought-forms and thought-
-processes as arise from the false concept, universally dominat-
+of the mind is occupied by such thought-forms and thoughtprocesses as arise from the false concept, universally dominat-
 ing mankind, that phenomena and phenomenal appearances
 are real, a state of mental obscuration called ignorance,
 which prevents true knowledge, exists. It is only when all
 obscuring and erroneous concepts are totally inhibited and
-the field of the mind is swept clean of them that the primor-
-dial or unmodified condition of mind, which is ever devoid of
+the field of the mind is swept clean of them that the primordial or unmodified condition of mind, which is ever devoid of
 these thought-formations and thought-processes arising from
-ignorance, is realizable ; and, in its realization, there dawns Illu-
-mination, symbolized in the Bardo Thodol as the Primal Clear
+ignorance, is realizable ; and, in its realization, there dawns Illumination, symbolized in the Bardo Thodol as the Primal Clear
 Light of the Dharma-K aya.
 
 A mirror covered with a thick deposit of dust, or a crystal
@@ -13025,8 +11286,7 @@ alike it dawns at the all-determining moment of death. As
 such, the Clear Light symbolizes the visual condition in which
 one finds oneself at the moment of death and afterwards in
 the Intermediate State. If the vision be unclouded by karmic
-propensities, which are the source of all phenomena and appari-
-tional appearances in the Bardo, the deceased sees Reality as
+propensities, which are the source of all phenomena and apparitional appearances in the Bardo, the deceased sees Reality as
 the Primordial Clear Light, and, if he so wills, can renounce
 the Sazgsaéra and pass into Mirvaua, beyond the Circle of
 Death and Rebirth.
@@ -13038,8 +11298,7 @@ attempt to place every one, when dying or deceased, in the
 Path leading to its realization. Unless, through the practice
 of mental-concentration, complete control over the thinking
 process be achieved, so as to arrive at Right Knowledge ere
-death, in virtue of having experienced Illumination (i.e. recog-
-nition of the Clear Light in an ecstatic condition while still in
+death, in virtue of having experienced Illumination (i.e. recognition of the Clear Light in an ecstatic condition while still in
 the human body), the /amas maintain that comprehension of
 the nature of the Clear Light is quite impossible for the
 unilluminated.
@@ -13054,14 +11313,12 @@ some general acquaintance with Tantricism, as with Yoga, is
 
 
 1 General references (also for Sections III and IV following): A. Avalon
-(Sir John Woodroffe), Tantra of the Great Liberation (London, 1913), Introduc-
-tion; and The Six Centres and the Serpent Power (London, 1919), passim ; Sir
+(Sir John Woodroffe), Tantra of the Great Liberation (London, 1913), Introduction; and The Six Centres and the Serpent Power (London, 1919), passim ; Sir
 John Woodroffe, Shakti and Shékta (London, 1920), passim; also Rama
 Prasad, Nature’s Finer Forces (London, 1890), passim.
 
 2 To define what is and is not a Zantra is noteasy. According to its Tibetan
-etymology, Tantra (Tib. Rgyud—pron, Gyud) literally means ‘treatise’, or ‘ dis-
-sertation’, of a religious nature, usually belonging to the School of Yoga called
+etymology, Tantra (Tib. Rgyud—pron, Gyud) literally means ‘treatise’, or ‘ dissertation’, of a religious nature, usually belonging to the School of Yoga called
 Yoga-carya Mahayana (see p. 2t2!). Religiously considered, there are two
 
 
@@ -13070,8 +11327,7 @@ a14 TIBETAN BOOK OF ZHE DEAD: ADDENDS
 
 desirable for all readers of this book. So we record here—in
 mere outline, and, therefore, more often than not undetailed
-and incomplete—the following complementary matter con-
-cerning Tantricism.
+and incomplete—the following complementary matter concerning Tantricism.
 
 In the preliminary instructions, the Bardo Thédol makes
 reference to the vital-force or vital-airs, which, following the
@@ -13081,8 +11337,7 @@ The Vital-Force (Skt. Prana).—The human principle of
 consciousness, the Knower, clothes itself, when incarnate, in
 five sheaths (Skt. Kosha), which are: (1) the physical-sheath
 (Anna-maya-kosha) ; (2) the vital-sheath (Praza-maya-kosha) ;
-(3) the sheath in which resides the ordinary human conscious-
-ness (Mano-maya-kosha); (4) that of the subconsciousness
+(3) the sheath in which resides the ordinary human consciousness (Mano-maya-kosha); (4) that of the subconsciousness
 (Vijnana-maya-kosha); and (5) that of the all-transcending
 blissful consciousness of Reality (Azanda-maya-kosha).
 
@@ -13098,8 +11353,7 @@ Buddhist deitics, Buddhas and their Shakds, or by gods and goddesses. One
 characteristic of both classes of Tantras is that usually they are based upon the
 Yoga Philosophy. Which of the two classes is older is a disputed question ; but
 the oldest Tantras are probably far older than European critics (who have placed
-their origin well within the Christian era) have thought. Some Tatras are indis-
-putably quite modern. According to orthodox Hindus, the Zan/ras are of Vedic
+their origin well within the Christian era) have thought. Some Tatras are indisputably quite modern. According to orthodox Hindus, the Zan/ras are of Vedic
 origin, and designed to serve as the chief Scriptures for this age, the Kali Yuga.
 Some Buddhists claim a purcly Buddhist origin for the Yantras. The Hindu
 view is, however, the commonly accepted view.
@@ -13113,8 +11367,7 @@ meditation, yoga, duties of kings, law, custom, medicine, astrology, astronomy,
 magic ; and, in short, the whole cycle of the sciences of the East.
 
 In so far as the Bardo Thédol is a ritual based upon Yoga, and has for its
-chief matter the science of birth, death, and rebirth, interwoven with deserip-
-tions of the various states of existence and beings pcopling the universe, and
+chief matter the science of birth, death, and rebirth, interwoven with deseriptions of the various states of existence and beings pcopling the universe, and
 teaches of the ways of obtaining salvation, it is a Tantric work, although, strictly
 speaking, not a Tantra.
 
@@ -13143,12 +11396,10 @@ assistance to digestion, yawning, and distension.
 
 The Psychic Nerves or Channels (Skt. Nadi).—There are next
 mentioned in our text the Psychic Nerves. Sanskrit works
-on Yoga say that there are fourteen principal #@d@z and hun-
-dreds of thousands of minor z@dz in the human body, just as
+on Yoga say that there are fourteen principal #@d@z and hundreds of thousands of minor z@dz in the human body, just as
 Western physiologists say that there are so many chief nerves
 and minor nerves. But the za@d@z of the East and the nerves of
-the West, although literally the same in name, are not syn-
-onymous. The zddz are invisible channels for the flow of
+the West, although literally the same in name, are not synonymous. The zddz are invisible channels for the flow of
 psychic forces whose conducting agents are the vital-airs (vdyz).
 
 Of the fourteen principal 2é@dz, there are three which are of
@@ -13163,21 +11414,17 @@ coil round it as the two serpents coil round the caduceus
 carried by the messenger-god Hermes. It is believed that
 this ancient herald’s wand symbolizes the sushumna-nddi, and
 the twining serpents the zda-nadi and the pingala-nadi. If so,
-we see again how the esoteric symbol-code of the West corre-
-sponds to that of the East.
+we see again how the esoteric symbol-code of the West corresponds to that of the East.
 
 
 216 TIBETAN BOOK OF THE DEAD: ADDENDS
 
 
-The Psychic-Nerve Centres (Skt. Chakra).—The sushumna-
-nadi forms the great highway for the passage of the psychic
+The Psychic-Nerve Centres (Skt. Chakra).—The sushumnanadi forms the great highway for the passage of the psychic
 forces of the human body. These forces are concentrated in
-centres, or chakra, like dynamos, ranged along the szsheumna-
-nadi and interconnected by it, wherein are stored the vital-
+centres, or chakra, like dynamos, ranged along the szsheumnanadi and interconnected by it, wherein are stored the vital-
 force or vital-fluid upon which all psycho-physical processes
-ultimately depend. Of these, six are of fundamental impor-
-tance. The first is known as the Root-support (A/i#ladhara)
+ultimately depend. Of these, six are of fundamental importance. The first is known as the Root-support (A/i#ladhara)
 of the sushumnda-nddi, situated in the perineum; and in the
 Miladharaé is the secret Fountain of Vital-Force, presided
 over by the Goddess Kundalini. Next above, lies the second
@@ -13193,16 +11440,13 @@ and pingald, come together and then separate. Above all, in
 the causal region of psychic man, as the sun of the body,
 sending its rays downwards over the human-body cosmos, is
 the Supreme or Seventh Chakra, the thousand-petalled lotus
-(or chakra) called Sahasrara Padma; through it the sushumna-
-wadi has its exit, the Aperture of Brahma (Skt. Brahkma-
-vandhra) referred to in our text, through which the conscious-
-ness-principle normally goes out from the body at death.
+(or chakra) called Sahasrara Padma; through it the sushumnawadi has its exit, the Aperture of Brahma (Skt. Brahkma-
+vandhra) referred to in our text, through which the consciousness-principle normally goes out from the body at death.
 
 The initial aim of the practitioner of Yoga is to awaken what
 in the Yantras is called the Serpent Power, personified as the
 Goddess Kundalini. It is in the Wiladhara-chakra, at the
-base of the spinal column, containing the root of the sushaummna-
-zadi, that this mighty occult power lies coiled, like a serpent
+base of the spinal column, containing the root of the sushaummnazadi, that this mighty occult power lies coiled, like a serpent
 asleep. Once the Serpent Power is aroused into activity, it is
 made to penetrate, one by one, the psychic-nerve centres,
 until, rising like mercury in a magic tube, it reaches the
@@ -13246,8 +11490,7 @@ and emanating from the Brain-centre. The first 42 and the
 last 58 comprise the Great Mandala of the 100 superior
 deities, the 42 being called peaceful and the 58 wrathful
 deities. The other 10 deities, related to the Throat-centre,
-which dawn intermediately between the 42 of the Heart-
-centre and the 58 of the Brain-centre, are classed with the
+which dawn intermediately between the 42 of the Heartcentre and the 58 of the Brain-centre, are classed with the
 42 peaceful deities. Thus, when united in the Greater
 Mandala of the whole of the Chényid Bardo, there are
 IIo principal deities.
@@ -13277,16 +11520,14 @@ deities together compose the 42 deities of the Heart-centre.
 Then, after the dawning of the 10 Knowledge-Holding Deities
 (called, in the Obeisances, p. 85, the Lotus Deities) of the
 Throat-centre, on the intervening Seventh Day, there dawn
-during the remaining Seven Days the 58 deities of the Brain-
-centre, as follows: on each of the first five days, or from the
+during the remaining Seven Days the 58 deities of the Braincentre, as follows: on each of the first five days, or from the
 Eighth to the Twelfth Day, one of the Herukas with his shakiz,
 in all ro deities ; on the Thirteenth Day, the 8 Kerima and the
 8 Htamenma; on the Fourteenth Day, 4 Door-keepers and
 the 28 animal-headed Deities. Behind the symbolism of
 deities and zzandalas and psychic-centres there lies the rational
 explanation, namely, that each deity, as it dawns from its
-appropriate psychic-centre, represents the coming into after-
-death karmic activity of some corresponding impulse or
+appropriate psychic-centre, represents the coming into afterdeath karmic activity of some corresponding impulse or
 
 
 or negative, phase of that divine force or power concentrated in or personified
@@ -13325,8 +11566,7 @@ dawn first in the full glory of the primal Clear Light; and
 then, in ever diminishing glory, the visions grow less and less
 happy—the Peaceful Deities of the Heart-centre, and then of
 the Throat-centre, merge into the Wrathful Deities of the
-Brain-centre. Finally, as the purely human and brutish pro-
-pensities, personified, in the fiercest of the Wrathful Deitics,!
+Brain-centre. Finally, as the purely human and brutish propensities, personified, in the fiercest of the Wrathful Deitics,!
 as horror-producing and threatening spectral hallucinations,
 come into the field of mental vision, the percipient flees in
 dismay from them—his own thought-forms—to the refuge
@@ -13349,8 +11589,7 @@ of twelve petals, each petal representing one of the chief
 elements of personality (vrit¢2) as follows: (1) hope (ashd@) ;
 (2) care or anxiety (chin7a) ; (3) endeavour (cheshia) ; (4) feeling
 of mineness (amaia) ; (5) arrogance or hypocrisy (dambha) ;
-(6) languor (vikalata) ; (7) conceit (ahangkara); (8) discrimina-
-tion (viveka) ; (9) covetousness (lolata) ; (10) duplicity (Lapa-
+(6) languor (vikalata) ; (7) conceit (ahangkara); (8) discrimination (viveka) ; (9) covetousness (lolata) ; (10) duplicity (Lapa-
 tata) ; (11) indecision (vztarka); (12) regret (anutapa).
 
 The Throat-centre Lotus, or Vishuddha-chakra, also called
@@ -13365,8 +11604,7 @@ wo) and the more wrathful (Tib. Drag-po). See Waddell, op. cit., pp. 332-3:
 
 Bharatisthana, consists of sixteen petals. The first seven
 symbolize the seven Sanskrit musical notes. The eighth
-symbolizes the ‘venom’ of mortality. The next seven re-
-present the seven seed mantras, and the sixteenth is the
+symbolizes the ‘venom’ of mortality. The next seven represent the seven seed mantras, and the sixteenth is the
 symbol for the nectar of immortality (amyrzta).
 
 To each of the thousand petals of the Brain-centre Lotus
@@ -13375,8 +11613,7 @@ and other symbols, are esoterically assigned ; and this chakra
 is said to contain in potential state all that exists in the other
 chakras (of which it is the originator) or in the universe.
 
-Each of the Dhyani Buddhas, likewise, as elsewhere ex-
-plained from a different view-point, symbolizes definite spiritual
+Each of the Dhyani Buddhas, likewise, as elsewhere explained from a different view-point, symbolizes definite spiritual
 attributes of the cosmos. Thus, Vairochana is appealed to by
 the Tantrics of Northern Buddhism as the universal force
 producing or giving form to everything both physical and
@@ -13397,8 +11634,7 @@ A clue to the power of mantras, as referred to throughout
 the Bardo Thodol, lies in the ancient Greek theory of music ;
 namely, that, if the key-note of any particular body or substance
 be known, by its use the particular body or substance can be
-disintegrated. Scientifically, the whole problem may be under-
-stood through understanding the law of vibration. Each
+disintegrated. Scientifically, the whole problem may be understood through understanding the law of vibration. Each
 organism exhibits its own vibratory rate, and so does every
 inanimate object from the grain of sand to the mountain and
 even to each planet and sun. When this rate of vibration
@@ -13427,13 +11663,11 @@ magician with a mantra compels a spirit to act as he wills.
 On account of this supreme power of sound, when formulated
 in mantras corresponding to the particular rate of vibration
 of spiritual beings and of spiritual and physical forces, the
-mantras are jealously guarded. And, for the purpose of main-
-taining this guardianship, lines of gurus (i.e. religious teachers)
+mantras are jealously guarded. And, for the purpose of maintaining this guardianship, lines of gurus (i.e. religious teachers)
 are established in whose keeping the words of power are
 placed. Candidates for initiation into this Brotherhood of
 Guardians of the Mysteries must necessarily be well tested
-before the Treasures can be entrusted to them, and they them-
-selves, in turn, be made Guardians.
+before the Treasures can be entrusted to them, and they themselves, in turn, be made Guardians.
 
 Unto the shishya, after he has been well tested, the mantra
 which confers power over the sleeping Goddess Kundalini is
@@ -13442,14 +11676,12 @@ comes to him to be commanded. Then is the need of the
 guru great; for the awakened Goddess can destroy as well
 as save—according as the mantra is wisely or unwisely used.
 
-As the outer air vibrates to gross sounds, the inner vital-
-airs (prama-vdyu) are set in motion and utilized by the use of
+As the outer air vibrates to gross sounds, the inner vitalairs (prama-vdyu) are set in motion and utilized by the use of
 the sounds of mantras: the Goddess first catches up the subtle
 occult sound, and, in tones of divine music, she causes it to
 ascend from her throne in the Root-Support Psychic-Centre
 to one after another of the Centres above, until its music fills
-the Lotus of a Thousand Petals and is there heard and re-
-sponded to by the Supreme Guru.
+the Lotus of a Thousand Petals and is there heard and responded to by the Supreme Guru.
 
 The visualization of a deity, as frequently directed in our
 text, is often but another way of thinking of the essential
@@ -13459,13 +11691,11 @@ characteristics of that deity. A like yogic effect comes from
 222 TIBETAN BOOK OF THE DEAD: ADDENDA
 
 
-visualizing or else audibly pronouncing the mantra correspond-
-ing to that deity; for, by speaking forth as sound the mantra
+visualizing or else audibly pronouncing the mantra corresponding to that deity; for, by speaking forth as sound the mantra
 of any deity, that deity is made to appear.
 
 Unless the mantras are properly intoned they are without
-effect; and when printed and seen by the eye of the unini-
-tiated they appear utterly meaningless—and so they are
+effect; and when printed and seen by the eye of the uninitiated they appear utterly meaningless—and so they are
 without the guidance of the human guru.
 
 Furthermore, the correct pronunciation of the szantra of
@@ -13527,8 +11757,7 @@ results which are certain to come from the exercises when
 successfully carried out. Ordinarily, once a guru is chosen,
 the skishya has no right to disobey the surz, or to take
 another guru until it is proven that the first gar can guide
-the skishya no further. If the skzshya develops rapidly, be-
-cause of good karma, and arrives at a stage of development
+the skishya no further. If the skzshya develops rapidly, because of good karma, and arrives at a stage of development
 equal to that of the guru, the guru, if unable to guide the
 shishya further, will probably himself direct the skzshya to
 a more advanced guru.
@@ -13539,8 +11768,7 @@ several days, whereby the guru, by invoking the gift-waves of
 the divine line of gurus, sets up direct communication with
 the spiritual plane on which the divine gurus exist. If the
 human guru be possessed of szddhic powers, this communion
-is believed to be as real as wireless or telepathic communica-
-tion between two human beings on the earth-plane.
+is believed to be as real as wireless or telepathic communication between two human beings on the earth-plane.
 
 The actual initiation, which follows, consists of giving to
 the shishya the secret mantra, or Word of Power, whereby
@@ -13548,8 +11776,7 @@ at-one-ment is brought about between the s/zskya, as the new
 member of the secret brotherhood, and the Supreme Guru
 
 1 The three lines of gurus are so called not because of any difference in their
-respective powers, but because of their different places of abode. In the Tantra-
-raja (ch. I) it is said that the Gurus of the Divya Order always abide in Shiva’s
+respective powers, but because of their different places of abode. In the Tantraraja (ch. I) it is said that the Gurus of the Divya Order always abide in Shiva’s
 
 
 Heaven, those of the Siddha Order both in the Human-World and in the Heaven-
@@ -13577,8 +11804,7 @@ the Supreme Guru sits enthroned in the pericarp of the
 Thousand-petalled Lotus. Thither, by the power of the
 Serpent Power of the awakened Goddess Kundalini, the skzshya,
 guided by the human guru, is led, and bows down at the feet
-of the Divine Father, and receives the blessing and the bene-
-diction. The Veil of Aaya has been lifted, and the Clear
+of the Divine Father, and receives the blessing and the benediction. The Veil of Aaya has been lifted, and the Clear
 Light shines into the heart of the skzskya unobstructedly.
 As one Lamp is lit by the Flame of another Lamp, so the
 Divine Power is communicated from the Divine Father, the
@@ -13586,14 +11812,11 @@ Supreme Guru, to the newly-born one, the human shishya.
 
 The secret mantra conferred at the initiation, like the
 Egyptian Word of Power, is the Password necessary for
-a conscious passing from the embodied state into the disem-
-bodied state. If the initiate is sufficiently developed spiritually
+a conscious passing from the embodied state into the disembodied state. If the initiate is sufficiently developed spiritually
 before the time comes for the giving up of the gross physical
-body at death, and can at the moment of quitting the earth-
-plane remember the mystic santra, or Word of Power, the
+body at death, and can at the moment of quitting the earthplane remember the mystic santra, or Word of Power, the
 change will take place without loss of consciousness; nor will
-the shishya of full development suffer any break in the con-
-tinuity of consciousness from incarnation to incarnation.
+the shishya of full development suffer any break in the continuity of consciousness from incarnation to incarnation.
 
 
 V. gREALDI Y,
@@ -13637,8 +11860,7 @@ dawns Right Knowledge; all forms merge into that which is
 non-form, all phenomena into that which is beyond phenomena,
 all Ignorance is dissipated by the Light of Truth, personality
 ceases, individualized being and sorrow are at an end, mind
-and matter are known to be identical, the mundane conscious-
-ness becomes the supramundane, and, one with the Darma-
+and matter are known to be identical, the mundane consciousness becomes the supramundane, and, one with the Darma-
 Kaya, the pilgrim reaches the Goal.
 
 The great Patriarch Ashvaghosha, who set down in writing
@@ -13659,8 +11881,7 @@ Chicago, 1900, p. 17).
 226 TIBETAN BOOK OF THE DEAD: ADDENDA
 
 
-initiates direct from the time of the Buddha, has other-
-wise stated the doctrines touching Reality as follows, in
+initiates direct from the time of the Buddha, has otherwise stated the doctrines touching Reality as follows, in
 his remarkable treatise called The Awakening of Faith :*
 
 Of Ignorance: ‘The True Reality is originally only one, but
@@ -13695,8 +11916,7 @@ the age of 71 years; the other was begun in a. D. 7oo by Cikshananda, also an
 
 
 Indian Buddhist missionary, who died in China, in a.p. 710, at the age of 59.
-Richard’s translation is from Paramartha’s version, and Suzuki’s from Cik-
-shananda’s.
+Richard’s translation is from Paramartha’s version, and Suzuki’s from Cikshananda’s.
 
 * Richard’s trans. (p. 18), Cf. Suzuki’s trans, (p. 89): ‘Though all beings
 are uniformly in possession of suchness, the intensity [of the influence] of
@@ -13736,14 +11956,12 @@ to act, then all kinds of things cease.’ ?
 
 
 enabled to believe that we are in possession within ourselves of suchness whose
-essential nature is pure and immaculate; and we also recognize that all pheno-
-mena in the world are nothing but the illusory manifestation of the mind (alaya-
+essential nature is pure and immaculate; and we also recognize that all phenomena in the world are nothing but the illusory manifestation of the mind (alaya-
 vuyzidna) and have no reality of their own. Since we thus rightly understand
 the truth, we can practise the means of liberation, can perform those actions
 which are in accordance (with the Dharma]. Neither do we particularize, nor
 cling to. By virtue of this discipline and habituation during the lapse of
-innumerable asamkhyeyakalpas (lit. countless ages], we have ignorance anni-
-hilated. As ignorance is thus annihilated, the mind [i.e. dlaya-vytdana] is no
+innumerable asamkhyeyakalpas (lit. countless ages], we have ignorance annihilated. As ignorance is thus annihilated, the mind [i.e. dlaya-vytdana] is no
 more disturbed so as to be subject to individuation. As the mind is no more
 disturbed, the particularization of the surrounding world is annihilated. When
 in this wise the principle and the condition of defilement, their products, and
@@ -13762,8 +11980,7 @@ self-manifestation of the mind [i. e. dlaya-vij#ana, which is practically identi
 with suchness, bhitatathata@|. Separated from the mind, there would be no
 such things as the six objects of sense. Why? Since all things, owing the
 principle of their existence to the mind (dlaya-vijiidna), are produced by
-subjectivity (siti), all the modes of particularization are the self-particulariza-
-tion of the mind, The mind in itself being, however, free from all attributes, is
+subjectivity (siti), all the modes of particularization are the self-particularization of the mind, The mind in itself being, however, free from all attributes, is
 
 
 228 TIBETAN BOOK OF THE DEAD: ADDENDA
@@ -13781,8 +11998,7 @@ As the manifested essence of wisdom is matter, it is called
 the all-pervading embodiment of wisdom. The unmanifested
 matter is without magnitude; according to the will it can
 show itself throughout all the universe as the immeasurable
-Pusas [i.e. intelligent devout men, or Bodhisattvas], im-
-measurable inspired spirits, immeasurable glories, all different
+Pusas [i.e. intelligent devout men, or Bodhisattvas], immeasurable inspired spirits, immeasurable glories, all different
 without magnitude and without interference with one another.
 This is what ordinary senses cannot comprehend, as it is the
 work of Absolute Reality... .’?
@@ -13798,8 +12014,7 @@ more reality than the images in a mirror. They evolve simply from the ideality
 of a particularizing mind. When the mind is disturbed, the multiplicity of things
 is produced; but when the mind is quieted, the multiplicity of things disappcars.’
 
-1 Richard’s trans. (pp. 25-6). Cf. Suzuki’s trans. (p. 107) : ‘ Beit clearly under-
-stood that space is nothing but a mode of particularization and that it has no real
+1 Richard’s trans. (pp. 25-6). Cf. Suzuki’s trans. (p. 107) : ‘ Beit clearly understood that space is nothing but a mode of particularization and that it has no real
 existence of its own. Where there is a perception of space, there is side by
 side a perception of a variety of things, in contradistinction to which space is
 spoken of as if existing independently. Space therefore exists only in relation
@@ -13824,8 +12039,7 @@ of common people ; because it is the free and subtlest activity of suchness,’
 Ned ve bel Me 229
 
 
-of the finite in the round of life and death that these dis-
-tinctions appear... .’1
+of the finite in the round of life and death that these distinctions appear... .’1
 
 
 ‘As to the defilements of the world, they are all false; they
@@ -13846,8 +12060,7 @@ Of the Nature of the Primordial Mind: ‘The mind from
 the beginning is of a pure nature, but since there is the finite
 aspect of it which is sullied by finite views, there is the sullied
 aspect of it. Although there is this defilement, yet the original
-pure nature is eternally unchanged. This mystery the En-
-lightened One alone understands.’ 4
+pure nature is eternally unchanged. This mystery the Enlightened One alone understands.’ 4
 
 
 1 Richard’s trans, (p. 26). Cf. Suzuki’s trans. (pp. 108-9): ‘Be it clearly
@@ -13856,19 +12069,16 @@ distinction produced by defilement, and that even in case we speak of its
 possessing innumerable meritorious characteristics they are free from the traces
 of defilement.’
 
-? Richard’s trans. (p. 27). Cf. Suzuki’s trans. (p. 109): ‘. . . defiled ob-
-jects ... are nothing but non-entity, have from the first no self-existence
+? Richard’s trans. (p. 27). Cf. Suzuki’s trans. (p. 109): ‘. . . defiled objects ... are nothing but non-entity, have from the first no self-existence
 (svabhava), ...’
 
 8 Richard’s trans. (pp. 27-8). Cf. Suzuki’s trans, (pp. 112-13): ‘If one be
 absolutely freed from particularization and attachment, one will understand that
 all things both pure and defiled have only relative existence. Be it therefore
 known that all things in the world from the beginning are neither matter (7#fa),
-nor mind (c7#éa), nor intelligence (prajfa), nor consciousness (vijizaua), nor non-
-being (abhdva), nor being (bhava) ; they are after all inexplicable, The reason
+nor mind (c7#éa), nor intelligence (prajfa), nor consciousness (vijizaua), nor nonbeing (abhdva), nor being (bhava) ; they are after all inexplicable, The reason
 why the Tathagata nevertheless endeavours to instruct by means of words and
-definitions is through his good and excellent skilfulness [or expediency, upaya-
-kaucalya}. He only provisionally makes use of words and definitions to lead all
+definitions is through his good and excellent skilfulness [or expediency, upayakaucalya}. He only provisionally makes use of words and definitions to lead all
 beings, while his real object is to make them abandon symbolism and directly enter
 into the real reality (¢atitva). Because if they indulge themselves in reasonings,
 attach themselves to sophistry, and thus foster their subjective particularization,
@@ -13917,8 +12127,7 @@ deep and unfathomable that it can be fully comprehended by Buddhas and by no
 others.’
 
 1 Richard’s trans, (p. 15). Cf. Suzuki’s trans. (p. 84): ‘Let ignorance be ,
-annihilated, and the symptom of disturbance [in the mind] will also be annihi-
-lated, while the essence of the mind (i.e, suchness] remains the same. Only if
+annihilated, and the symptom of disturbance [in the mind] will also be annihilated, while the essence of the mind (i.e, suchness] remains the same. Only if
 the mind itself were annihilated, then all beings would cease to exist, because
 there would be nothing there by which they could manifest themselves. But
 so long as the mind be not annihilated its disturbance may continue.’
@@ -13926,8 +12135,7 @@ so long as the mind be not annihilated its disturbance may continue.’
 * Richard’s trans. (p. 25). Cf. Suzuki’s trans, (pp. 105-6): ‘As a lost man
 who takes the east for the west, while the quarter is not changed on account of
 his confusion, so all beings, because of their misleading ignorance, imagine that
-the mind is being disturbed, while in reality it is not. But when they under-
-stand that the disturbance of the mind [i. e. birth-and-death] is [at the same time]
+the mind is being disturbed, while in reality it is not. But when they understand that the disturbance of the mind [i. e. birth-and-death] is [at the same time]
 immortality [viz. suchness] they would then enter into the gate of suchness.’
 
 
@@ -13965,8 +12173,7 @@ a Supreme Deity, for even the Primordial Buddha is not such, but merely the
 lama’s hypothetical First Buddha] ; and the latter cannot, therefore, be its goal
 and resting-point. The Buddhist’s goal is Buddhahood, and the essence of
 Buddhahood is Dharmakaya, the totality of all those laws which pervade the
-facts of life, and whose living recognition constitutes enlightenment. Dharma-
-kaya is the most comprehensive name by which the Buddhist sums up his
+facts of life, and whose living recognition constitutes enlightenment. Dharmakaya is the most comprehensive name by which the Buddhist sums up his
 understanding and also his feeling about the universe, Dharmaké@ya signifies
 that the universe does not appear to the Buddhist as a mere mechanism, but as
 pulsating with life. Further, it means that the most striking fact about the universe
@@ -13983,10 +12190,8 @@ existence, the standard of truth, the measure of righteousness, the good law; it
 is that in the constitution of things which makes certain modes of conduct
 beneficial and certain other modes detrimental.’
 
-2 Richard’s trans. (p. 27). Cf. Suzuki’s trans. (p. 11a): ‘Be it clearly under-
-stood that the essence of the five skandhas is uncreate, there is no annihilation
-of them; that, since there is no annihilation of them, they are in their [meta-
-physical] origin Nirvana itself.’
+2 Richard’s trans. (p. 27). Cf. Suzuki’s trans. (p. 11a): ‘Be it clearly understood that the essence of the five skandhas is uncreate, there is no annihilation
+of them; that, since there is no annihilation of them, they are in their [metaphysical] origin Nirvana itself.’
 
 8 Richard’s trans. (p. 31). Cf. Suzuki’s trans. (p. rat): ‘.... all things
 (sarvadharma) from the beginning are in their nature Nirvana itself.’
@@ -13997,8 +12202,7 @@ physical] origin Nirvana itself.’
 
 Thus does Ashvaghosha bear witness to the soundness of
 the supreme philosophy of the Mahayana School underlying
-the Bardo Thodol; and, as an independent commentator, con-
-firms our own interpretations.
+the Bardo Thodol; and, as an independent commentator, confirms our own interpretations.
 
 
 VI. NORTHERN AND SOUTHERN BUDDHISM
@@ -14012,8 +12216,7 @@ known as the A/ahayana (meaning the ‘ Greater Path’) and the
 Hinayana (meaning the ‘Lesser Path’—a rather belittling
 name never used by Southern Buddhists of themselves)."
 
-Northern Buddhism is chiefly distinguished by its hier-
-archical and more highly organized priesthood, its emphasis
+Northern Buddhism is chiefly distinguished by its hierarchical and more highly organized priesthood, its emphasis
 upon rituals, its elaborate doctrinc of divine emanations, its
 Christian-like worships and masses, its Tantricism, its Dhyani
 Buddhas, Bodhisattvas and extensive pantheon, its belief in
@@ -14067,14 +12270,12 @@ Dharma-K aya.
 The hypothesis of Christian apologists that Northern
 Buddhism in its differentiation from Southern Buddhism was
 primarily affected by early Christian missionaries scems to
-be disproved—in so far as really fundamental doctrines are con-
-cerned—by the far-reaching fact (but recently made known to
+be disproved—in so far as really fundamental doctrines are concerned—by the far-reaching fact (but recently made known to
 Western scholars through the recovery of some of the writings
 of the greatest of the Fathers of the Northern Buddhist Church,
 namely, the Patriarch Ashvagosha) that Northern Buddhism
 was fundamentally the same in the first century A. D. as it is now
-and was prior to the Christian era. If there were Christian in-
-fluences, as claimed, brought in by the Nestorians, or St. Thomas,
+and was prior to the Christian era. If there were Christian influences, as claimed, brought in by the Nestorians, or St. Thomas,
 or later missionaries, it appears that they could only have
 been superficial at most.?. In our own view—which is, of
 
@@ -14119,8 +12320,7 @@ esoteric Christianity, was also in general accord with the
 old Oriental teachings touching Rebirth and A arma, which
 the later or exotcric Christian Church eventually repudiated,
 the Second Council of Constantinople, in A.D. 553, decreeing
-that ‘Whosoever shall support the mythical doctrine of the pre-
-existence of the soul and the consequent wonderful opinion of
+that ‘Whosoever shall support the mythical doctrine of the preexistence of the soul and the consequent wonderful opinion of
 its return, let him be anathema’. The Sermon on the Mount
 
 
@@ -14155,8 +12355,7 @@ regard it, as a Christian restating of doctrines which the
 Buddha, too, formulated as an inheritance from prehistoric
 Buddhas! It is chiefly the doctrines of the modern Christian
 Churches that pride themselves in having no esoteric teachings,
-and not those of primitive, or Gnostic, Christianity,that did pro-
-pound an elaborate esotericism, which differ widely from the
+and not those of primitive, or Gnostic, Christianity,that did propound an elaborate esotericism, which differ widely from the
 doctrines of Buddhism and other Oriental religions ; and among
 these doctrines the more outstanding are: (1) the doctrine of
 the one life on earth to be followed bya never-ending paradise
@@ -14204,8 +12403,7 @@ is the corner-stone of Christian Theology, but in Buddhism—
 although the Buddha neither denied nor affirmed the existence
 of a Supreme Deity—it has no place, because, as the Buddha
 maintained, neither believing nor not believing in a Supreme
-God, but self-exertion in right-doing, is essential to com-
-prehending the true nature of life.
+God, but self-exertion in right-doing, is essential to comprehending the true nature of life.
 
 The Buddha ‘argued not that Ishvara was cause, nor did
 He advocate some cause heretical, nor yet again did He affirm
@@ -14220,22 +12418,19 @@ virtue? *Twere equal, then, the doing right or wrong,...
 Thus, you see, the thought of Ishvara is overthrown in this
 discussion (shéstra).’ 1
 
-Although the Great Teacher has set aside, as being non-
-essential to mankind’s spiritual enlightenment, the belicf and
+Although the Great Teacher has set aside, as being nonessential to mankind’s spiritual enlightenment, the belicf and
 the non-belief in a Supreme Deity—more especially in an
 anthropomorphic Supreme Deity—He has, however, made
 the corner-stone of Buddhism (as it is of Hinduism) the belicf
 in a Supreme Power or Universal Law, called the Law of
 Cause and Effect by the Science of the West and, by the
 Science of the East, Karma. ‘What ye sow, that shall ye
-reap’, saith the Buddha; even as St. Paul wrote long after-
-ward, ‘ Whatsoever a man soweth, that shall he also reap’.
+reap’, saith the Buddha; even as St. Paul wrote long afterward, ‘ Whatsoever a man soweth, that shall he also reap’.
 
 Again, as elsewhere stated, Buddhism denies that there can
 be a permanent, unchanging, personal entity such as Christian
 Theology calls ‘soul’. It also denies the possibility of reaching
-a state of eternal felicity within the Sangsdéra (i.c. the uni-
-verse of phenomena); for Reality, or Mzrvaua, is for all
+a state of eternal felicity within the Sangsdéra (i.c. the universe of phenomena); for Reality, or Mzrvaua, is for all
 
 
 ? Ct, the Fo-sho-hing-tsan-king (vv. 1455-68), a professed Chinese version
@@ -14256,11 +12451,9 @@ Heaven, nor of any Only Begotten Son, nor of any method of
 salvation for mankind save that won by self-exertion léading
 to Right Knowledge. He, as all Buddhists believe, found the
 way as a result of innumerable lifetimes of spiritual evolution,
-and became the Fully Awakened, the Enlightened One, ex-
-hausting completely the Sanxgsaéra of Impermanency and of
+and became the Fully Awakened, the Enlightened One, exhausting completely the Sanxgsaéra of Impermanency and of
 Sorrow. Through His own cxertions alone He reached the
-Goal of all existence—Supramundaneness. Buddhists venc-
-rate Him, not as Christians do a Saviour, but as a Guide, in
+Goal of all existence—Supramundaneness. Buddhists vencrate Him, not as Christians do a Saviour, but as a Guide, in
 whose footsteps each must tread if Truth is to be realized and
 Salvation attained.
 
@@ -14306,16 +12499,14 @@ VII. THE MEDIEVAL CHRISTIAN JUDGEMENT.
 In connexion with the difficult problem of origins, referred
 to in that part of our Introduction concerning the Judgement
 (pp. 35-9), and of the probable influences of Buddhism and
-other Oriental Faiths, including the Osirian Faith, on Chris-
-tianity, it is interesting to compare with the Bardo Thddol
+other Oriental Faiths, including the Osirian Faith, on Christianity, it is interesting to compare with the Bardo Thddol
 version of the Judgement (pp. 165-9) the similar version in
 the medieval treatise entitled Te Lamentation of the Dying
 Creature (date uncertain, but probably of 14th to 15th cent.)
 contained in the British Museum MS. Harl. 1706 (fol. 96),
 Comper’s ed. (pp. 137-68) :
 
-‘ The Dying Creature enset with Sickness incurable sorrow-
-fully Complaincth him thus :“ Alas that ever I sinned in my
+‘ The Dying Creature enset with Sickness incurable sorrowfully Complaincth him thus :“ Alas that ever I sinned in my
 life. To me is come this day the dreadfullest tidings that
 ever I heard. Here hath been with me a sergeant of arms
 whose name is Cruelty, from the King of all’ Kings, Lord of
@@ -14375,8 +12566,7 @@ European medievalism which shaped The Lamentation of the
 Dying Creature (see p. 3”). The ancient doctrine of karma
 (to which the primitive, or Gnostic, Christians adhered, ere
 Church-council Christianity took shape), being taught in the
-following answers to the Dying Creature, gives some plausi-
-bility, even from internal evidence, to this purely tentative
+following answers to the Dying Creature, gives some plausibility, even from internal evidence, to this purely tentative
 view:
 
 Conscience: ‘Ye must sorrowfully and meckly suffer the
@@ -14421,14 +12611,12 @@ He were a Buddha. In the Hell-world, in both versions, there
 is the cauldron in which evil-doers are being cooked under the
 supervision of demons; and, in the Christianized version, the
 ‘Hill of Spikes’ of the Buddhist version is represented by
-a ‘Bridge of Spikes’, which the condemned souls are com-
-pelled to traverse.
+a ‘Bridge of Spikes’, which the condemned souls are compelled to traverse.
 
 
 1 Cf. G. Clinch, Old English Churches (London, 1900), pp. 162-4, where
 a photograph of the Chaldon wall-painting is reproduced; also E. S. Bouchier,
-Notes on the Stained Glass of the Oxford District (Oxford, 1918), pp. 66-7, con-
-cerning a stained glass window in Brightwcll Baldwin Church, depicting the
+Notes on the Stained Glass of the Oxford District (Oxford, 1918), pp. 66-7, concerning a stained glass window in Brightwcll Baldwin Church, depicting the
 soul-weighing episode of the Judgement: ‘Below, the hand of St, Michael in
 white glass supports a yellow balance, in the left tray of which a half-length soul
 with yellow hair is praying, while beneath the right a small devil, with horns,
@@ -14452,1912 +12640,3 @@ time immemorial, mentally and spiritually one.
 3069 11
 
 
-INDEX
-
-
-Black-type figures indicate the chief references, most of which may be
-
-
-Abhidhamma, 1671.
-Abhidharmakosha, x\.
-Adi (Primordial) -Buddha,
-OS, ON TPE), 1 TH,
-BiG Hats PBA.
-Adi- Kaya, 1674.
-Aeschylus, 167}.
-Acsop’s Fables, 3, 37, 57:
-Agamemnon, 50, 51.
-Agsanita Siltainta, 233.
-Aggregate: see Skandha,
-— Bodhic Wisdom, of, 16.
-— Body, of, 16, 72", 109},
-192*,
-—Consciousness, of, 9",
-15, 1062, 1091, 1924.
-— Feelings, of, 9", 16, 114,
-1924.
-
-— Matter, of,9, 9°, 15,106.
-— Touch (or Sensation),
-OfMOu LO; LT, 102%.
-— Volition, of, 9°, 16, 116,
-
-1924.
-Aggregates of Life, xii.
-Ain Soph, 67.
-Ajanta Cave, 38, 56.
-Ajax, 59, 51.
-Akasha (Ether), 9, 16, 63,
-~ 174%, 179.
-Akasha-Garbha, 1112,
-Akshobhya, 9!, 16, 108},
-mele OL a20:
-Aloke (Aloka), 113°.
-Amitabha, 9", 13, 16-18,
-20, 28, 32, 55, 70, 96,
-1131, 114-15, 120, 123,
-140, 189?, 200, 2021, 220.
-— State, g6*,
-Amogha-Siddhi, xxxii, 9",
-16-17, 325 55, 70, 115},
-116-18, 120, I4I, 200,
-20229220:
-Amrita-Dhara, 120°.
-Anthropology, 14, 59.
-Apollo, 113%.
-Apparitions, xxxiii, 32,
-98, 101 ff., 103,104, 162,
-204: seée Hallucinations,
-—Psychology of, 132},
-168, 181, 213,
-Arhant (Pali: Arahant),
-41, 54, 160'.
-Ars Moriendi (Craft of
-Dying), viii, xxvi, 3?,
-
-
-used as a Glossary.
-
-
-882-5, 93%, 951, 991,107,
-1348, 1512, 1722, 1987.
-
-Arthurian Legend, 54.
-
-Asanga, 2121,
-
-Ashvaghosha, 115, 154,
-225-33, 2361.
-
-Asoka, Edicts of, 170°.
-
-— Missionaries of, 14.
-
-Astrology, 19, 27, 75, 877,
-193", 214".
-
-Asura( Titan), 17, 24, 63,
-Magi He, tee a2
-Light-Path, and Zozas.
-
-— Birth, 156, 185.
-
-— Existence, 1217, 194}.
-
-Atalanta, 50, 51.
-
-Atharva-Veda, 46°.
-
-Atisha, 1353, 234°.
-
-Atma, xxviii, xxxiii, xliii,
-189!,
-
-Avalokiteshvara, 237, 99°,
-1138, 116%, 120%, 134°,
-149': see Chenrazee.
-
-Avatamsaka Stitra, xxxiii.
-
-Awakening of Faith, The,
-115, 154, 2251-31.
-
-
-Bardo, XXvi, 281, 38: see
-Bardo Thodol, JSudge-
-ment, and Rebirth.
-
-— Astral Light, 1615,
-
-— Birth, 156°.
-
-— Birth-Place, 102', 202.
-
-—Body, xxiii}, xxviii,
-XXXVi, Xxxix, 16, 30, 31,
-871, 924, 1001, 103°, 104,
-1265, 148, 155 ff., 161°,
-166°, 177, 187, 195, 219.
-
-— Chikhat, xxxiv, 29, 89},
-89-100, 1024, 151, 203.
-
-— Chonyid, xxxiv, 20,29,
-71, 891, IOI-5I, 1025,
-135°, 1524,193, 203, 217.
-
-
-—Consciousness, xxxiv,
-182: seé Consciousness.
-— Cult, 373.
-
-
-— Dawning of, 90, 202-4.
-
-— Dhyana, 102°, 203.
-
-— Dream-State, 1027, 202.
-
-— Dream-World, xl, 17,
-34, 66, 187}.
-
-— Dwellers in, 187}.
-
-— Ending of, 30, 34, 188".
-
-— Food in, 164.
-
-
-Bardo, Friends in, 164.
-
-— Forty-Nine Daysof, xlii,
-6-7, 20, 30, 44, 48,
-104, 161, 183.
-
-— Intellect in, 172, 195.
-
-— Liberation from, xxxvii,
-Tisfsy, WANG, TSE gg
-Liberation.
-
-— Plato and, 36, 49-53:
-see Plato.
-
-— Prayers, 71', 88, 192,
-197-208, 237.
-
-— Psychology, 31-5, 66,
-T40!, 195.
-
-— Recognition of, 895, 90%,
-97, 99, 99%, LOI, 103-5,
-112, 118-19, 124-6,
-131-3, 135°, 137-41,
-146-9, 151, 155-8, 165,
-168, 173, 181, 193-4.
-
-— Sidpa, 20, 29, 49, 55;
-72", 891, 1026, 135-6",
-151, 153-93, 193, 204,
-206.
-
-—Six States
-202-4.
-—State, xxiii!, xxxv, 7,
-
-28-30, 38, 59> 66, 91 ff.,
-1oo*, 1os!, 125%, 130%,
-158 ff., 164%, 187", 195,
-
-240.
-
--—— Supernormal Powers in,
-158 ff.
-
-Bardo Thidol, 2, 33, 152,
-196: see Bardo.
-
-— Appendix, The, 196-
-208.
-
-—Block-Print, 609, 71,
-73, 1007, loose og,
-118}, 124, 142°, 144),
-1451-8, 1461, 152% 4,153).
-
-— Colophon, 209.
-
-— Corruptions of, xxxvii-
-xxxvilil, 58, 77, 1567,
-174", 179), 192°.
-
-— Deities, 361.
-
-— Divisions of, 85, 153).
-
-— Doctrine, 41, 136,194-6,
-elite
-
-— Illustrations, xvii-xxiv,
-70-1.
-
-— Manuscript, 68-73,
-HO, WE Ta, stl
-174}, 184°.
-
-
-of, 102,
-
-
-Bardo Thédol, Origin of,
-35-6 54-5, 73-8; 1964
-
-
-ee Sambhava and,
-13: see Padma Sam-
-bhava.
-
-— Plato and, 36, 49-53:
-seé Plato.
-
-
-—Faheleey: 31-5, 193-
-
-
-— Reading of, 19, 20, 87 ff.,
-135) 151, 183, 195-6.
-— Rebirth Symbols, 469 ff.:
-see Rebirth.
-
-— Ritual, 75.
-
-—Science and, 8-9, 41,
-66,77.
-
-— Symbolism,
-Esotericism.
-
-— Tantricism, 213-20.
-
-— Teachings,10-17,32-5,
-66-8, 89°, 132, 151-2,
-1647, 176, 180, 182-3,
-186, 188, 190, 194-6,
-212-13, 222, 225, 235,
-
-
-2-6:
-
-
-Sée
-
-
-238.
-—Texts and Versions,
-Xxvi, 71-2.
-
-
-— Translating and Edit-
-ing, 1, 78-81.
-
-
-— Yog ga and, 211-14": see
-Yoga.
-
-Bhagavin, 105', 1197,
-149, 201.
-
-
-Bhikkhuni, xii, 210.
-
-Bhutan, 80, 188", 2187.
-
-Birth, Four Kinds of, 178,
-182,
-
-—-Supernormal, 156!, 178,
-188-90, 206.
-
-Blavatsky, H. P., 71.
-
-Bodhi (or Bodhic), 10, 11,
-aes OO. LO, 123),
-230.
-
-Bodhisattvas, 14, 547, 67,
-7OwLOS, LIT, 113, LLO,
-fee iz 2tsae.) TOC),
-183, IgI-2, 218, 228,
-RV
-
-— Invocation of, 711, 155,
-197-8.
-
-Bon, 23, 36", 74-5, 1401.
-
-Book of Dead, xxvi, I-2,
-22, 36, 77.
-
-— Egyptian, 5S.9hby Fr, EPH
-35) 77, 877, 136°, 1487.
-
-Brahma, 62.
-
-Brahman, 6%, 11.
-
-Brihmana, Tattiriya, 48°.
-
-— Vagga, 40, 158%.
-
-
-INDEX
-
-
-Brihmarandhra, Xxix-
-seeall, 70, EVER Obs Gfet:
-158}, 215-16.
-
-
-Brahmins, 48°, 170°, 191},
-
-
-PBB
-
-Buddha, xxxii, 54, 105%,
-1064, 1197, 125!, 168}.
-
-— Birth of, 53, 1911, 2073.
-
-— Body of, axxvi, 10, 2077.
-
-— Bone-Reliques of, 163%,
-
-— Christ as, 240.
-
-— Consciousness, 189!,
-
-— Death of, 1911,
-
-— Eyes of, 1601, 216.
-
-— Invocation of, 711, 155,
-183, 192.
-
-— Lives of, 54.
-
-— Mind of, 96.
-
-— Pre-existence and, 49-1,
-S255
-
-— Realization of, 97".
-
-— Realm of, 1078, 201-2.
-
-— Seeing the, xxxiv, 97”.
-
-—St. Jehoshaphat as, 37.
-
-— Teachings of, xii, 17,
-38-42, 67-8, 233, 235-7.
-
-— Words of, 171.
-
-— Worship of, 237.
-
-— Yoga and, 158°,
-
-Buddhaghosa, 41, 417, 232.
-
-Buddhahood, XxXii, xxxvi,
-10, 15, 30, 58, 94, 95°;
-96, 96% ®, 971, 107, I10,
-112, 115, 118—19, 123-4,
-126", 132-3", 136, 138-
-41, 150, 188-9, 1957,
-199, 200-1: see Libera-
-tion, and Mervana.
-
-— Path to, 55, 89%, 124},
-126.
-
-
-—State of, xxxvi, 1241,
-149.
-— Winning of, 89%, 114,
-
-
-126, 1357, 136, 146-8.
-Budidhakarita, 236}.
-Buddhism, Christianity
-
-and, 14, 232-41.
-
-— Esoteric, 4-5, 233-5.
-
-—- Flesh-Eating and, 1694,
-195%.
-
-— Northern, 232-8.
-
-— Reality and, 224-32.
-
-— Soul and, 86°, 224-5.
-
-— Southern, 232-8,
-
-— Tantric, 72, 74, 150°.
-
-— Tibetan, 74, 150°.
-
-— Woman and, 2091.
-
-— Yoga and, 212:
-
-Yoga.
-
-Budh-Gaya, 1584.
-
-
-RY 4-4
-
-
-243
-
-
-Chag-na-Dorje, 1164: sce
-Vajra-Pani.
-
-Chakra, 216, 219-20.
-
-Chakravartin, 10.
-
-Chenrazee, xx, xxiv, 99” 5,
-113%, 134%, 1491, 150%,
-1683-4; see Avalokitesh-
-vara.
-
-Christianity, | Buddhism
-and, 4", 14, 1273, 139,
-232-41.
-
-— Church-Council, 235.
-
-— Esoteric, 234-5.
-
-— Flesh-Eating and, 170°.
-
-— Heaven and, 184.
-
-— Hell-World and,
-185,
-
-— Karma and, 239.
-
-— Monasticism and, 234.
-
-— Origen and, 234).
-
-— Rebirth and, 234.
-
-— Trinity and, 14.
-
-— Yoga and, 234.
-
-Christos, 32.
-
-Chromatism,
-Xxxi, XXXVii.
-
-Consciousness, xxx, xxxi,
-11, 174, 1837, 189}, 225,
-229°: see Aggregate.
-
-— Bardo, in, 182.
-
-— Birth, at, xli.
-
-— Bodhic, 16.
-
-—Content of, 29, 32-3,
-ihe ele), Woy, LY PS.
-
-— Continuity of, 30.
-
-— Death, at, xxix—xxxi,
-xxxiv, xli, 878, 985, 100%,
-216.
-
-me 7, 18-19, 29,
-44 50, 58-9, 86", 875,
-92°, 971, 08, Log?, 1258,
-MBit Nees WORE, Toph.
-1871, 188, 214, 216, 219.
-
-— Restoration Om OB,
-
-— States, xxvi, xxxii, xlii,
-30, 90°, 964%, 988, 174,
-
-
-179),
-
-
-Mystical,
-
-
-HAS, HB, TsKey, ACH,
-214, 225.
-_ prs alana xxix,
-
-
-85-7, 91, 178°, 188-90,
-193, 203
-Count oare hy. 61-6, 1465,
-184.
-
-
-Daemons (Demons), 10,
-Wh ee BO bey Tete
-162, 1648, 166!, 186,
-1871, 232, 240.
-
-Déakini (Fairy), 32, 1225,
-1277, 1287, 130, 199, 201
-
-
-2.44
-
-
-Death, Art of, xxvii, 133,
-224: see Bardo, Dae-
-mons, Dharma- Raja,
-and Yama-Raja.
-
-— Astrology of, 19, 27,
-871, 193".
-
-— Cause of, xxv, 27, 84.
-
-— Ceremonies, 18~28, 169,
-183, 195°.
-
-— Cults, 26.
-
-— Demons, 27.
-
-— Effigy, 19, 20-3.
-
-— Feasts, 247,
-
-— Horoscope, 19, 27.
-
-— King of, 38, 169}.
-
-— Lords of, 32, 98, 147-8,
-166-7}, 169, 198.
-
-— Messengers of, 38-9, 84,
-198.
-
-— Phenomena, xxviii, 133-
-5, 164 ff.
-
-— Process, xxviii, 18, 924,
-1002, 158}, 1627, 216.
-
-— Science of, viii, xxv ff.
-
-— Symptoms, xxviii, 72°,
-86, 88-9, 93°, 196.
-
-Deva (God), 17, 24, 307,
-
-
-107, 150°, 160%, 199,
-218", 232: see Light-
-Path, and Lokas.
-
-—Birth, 30', 156, 160,
-184, 190°.
-
-— Existence, 194".
-
-— Eyes, 1601.
-
-
-Devadita Sittam, 38.
-Devadita Vagga, 38.
-Devatds, xxxvii, xxxviii,
-122°.
-Dharma, xxii, W', 14,
-171, 204.
-Dharma-Chakra, xxiii.
-Dharma-Dhatu, — xxxvi,
-15, 95°, 1058, 230", 2317.
-— Wisdom, 15, 106-7,
-W228
-Dharma- Kaya, xxxvi, 10,
-Ii, 12, 13, 15-16, 32,
-55) 82, 89, 92, 95%, 97,
-
-
-98!, 1214, 135, 146,
-167, 1674, 174, 225,
-PPL PIE, ee O77
-Void.
-
-
-— Clear Light, 94, 146°,
-
-
-211.
-
-
-— State of, 96, 96%, 1035,
-TA Gao:
-
-Dharma Matri Putra,
-100%,
-
-
-Dharmapala, 121", 128.
-Dharma-Pradipika, 233.
-
-
-INDEX
-
-
-Dharma-Raja, xx,35,36-
-7, 121°, 147°.
-
-Dharma Samgraha, 108%,
-
-Dhupema (Dhipa), 111*.
-
-
-Dhyana, 90°, 92, 100%,
-102°, 119', 160, 160%,
-186, 203.
-
-
-Dhyani Buddhas, xxxvil,
-8', 11, 13, 15-17, 1054,
-118, 120, 130, 217-18,
-Ay, als
-
-— Symbolism of, 55, 220.
-
-Diamond (or Immutable)
-AV eats, Me, Oy
-
-Dibpanamsel = (Dipani),
-1165.
-
-Dolma, 116°: see Tara.
-
-Door-Keepers, xviii, 120,
-143-4, 218: see Vogenis.
-
-Dorje (Skt. Vajra), xxiii,
-10, 63, 1087, 116", opp.
-137, 137-8, 142-57.
-
-Dorje-Chang, xxii.
-
-Dream, Bardo and, xxxvi,
-3374) 66, 102, 125°,
-181, 202,
-
-— State, xxxiv, 1871, 2031.
-
-Druids, 3, 60
-
-
-Ecstasy, 35, 90°, 971-8°,
-eyes Laie, Arie
-Elementals, 221.
-Elements, The Five, 8-10,
-1507, 1924, 201-2: see
-Aggregate.
-— The Four, 27, 119.
-Emerson on Karma, 2.
-Empcedocles, 53,
-Epeius, 50, 52.
-Eschatology, xxvi.
-Esoteric Doctrines, 133-4:
-see Esotericism.
-Ksotericism (or Occultism),
-oath Ty a AGL, 716
-
-
-45), 62-6, 854, 86?,
-10574, 1081, 1261, 1273,
-WARE AG, Wee, Tivee.
-
-
-Ta?) CA Oeme ns etOOe.
-179', 215, 218, 219ff.,
-234", 235.
-—Kebirth and, 4off,,
-157}, 1798, 1853, 192},
-— Yoga and, 212, 233.
-Essenes, 14.
-Etaddagga Vagga, 189},
-Eumenides, 167}.
-
-
-Fairies, 731,873, 1272, 1282,
-1645, 1814,
-Freemasonry, 4, 1274, 169}.
-
-
-Furies, 166, 167', 185-6,
-188,
-
-
-Gandharva, 3iii, 873, 181'.
-
-Gandhema (Gandha), 116°,
-
-Garuda, 137°.
-
-Gelugpa, 29', 72, 1672,
-2
-
-
-33°.
-
-Genius, Evil, 1661, 239.
-
-— Good, 165?, 238-9.
-
-Ghirdhima (Gita), xxxi,
-113°.
-
-Gnosticism, 4,185", 234-5,
-239.
-
-Gokarmo, 70, 113°.
-
-Grace-Waves, 109%, Ig1,
-208, 224
-
-Guide, The, 85, 89, 196.
-
-Gurit, XxX, YD 13,14, ne
-79, 80, 85%, 87, 89%,
-goff., 99*, 124-5, 149,
-163, 169, 178, 199,
-218", 221-4.
-
-— Divine, 1611, 214", 222.
-
-— Norbu, 80.
-
-— Shishyaand,204,221-4.
-
-
-Wades Legend, 46".
-
-Hallucinations, 17, 29-31,
-33, 35, 58, 66, 98, 156:
-see Apparitions.
-
-—Karmic, 101ff., r4o!,
-156, 1647; 175, LShdte,
-1873,
-
-
-—Psychology of, 31-5,
-58, 66,1171, 140', 146-8,
-L675) 1S], 1572, enos
-225.
-
-Harpies, 1162,
-
-Hayagriva, 1204, 186, 188,
-
-Heaven- World, Origin of,
-1844.
-
-Hell-World, xxii, 24, 30,
-34, 109, 169°: see Light-
-
-Path, and Zokas.
-
-— Birth in, 156, 170, 185.
-
-— Christianity and, 1852,
-240.
-
-— Ixistence in, 194!, 2077.
-
-Hermes, 215.
-
-Iiermetic Writings, 7.
-
-Herodotus, 45, 50.
-
-Heroes, 128, 130, 134.
-
-Heruka Deities, xvii, xix,
-13, 70, 137-9, 144, 146,
-186, 218.
-
-Hinayana, 232.
-
-Hinduism, Ligher, 6, 46.
-
-Hitopadesha, 3?.
-
-Loma, 28.
-
-
-Hpho-bo, 18, 20.
-
-
-Htamenma, 71, 140 ff.,
-140}, 218,
-Illumination, 89°, 213,
-
-
-217, 224: see Ecstasy.
-Indra, 62, 1087, 1211, 144.
-Initiation, 3,5, 72, 13, 17,
-
-37's 4% 45°, 50, 53, 62,
-
-Tia pmeto Osun aoe OGh,
-_ 177, 218", 219, 221-4,
-Ishvara, 2311, 236.
-Ishvari, 140},
-
-
-Jainism, 234.
-
-Jampal, 113*: see Mai-
-jushri.
-
-Japa, xxvii.
-
-Jitaka, The, 37, 54.
-
-Jetsiin Kahbum, 82.
-
-Judgement, After-Death,
-XX-Xxil, xxx, 35-9,148},
-165-9: see Dharma-
-Raja, and Yama-Raja.
-
-— Christian, 238-41.
-
-— Platonic, 49.
-
-Jupiter, xxiii, 1082.
-
-
-IKGh, PAS Baie
-
-Kalama Siutla, 41.
-
-Kandaraka Siitanta, 41".
-
-Kargyutpa, 61, 68, 72, 79;
-135%, 233%.
-
-Karma, 61, 89°.
-
-— Absolving of, 171, 237.
-
-— Christianity and, 234-5,
-239.
-
--— Continuity of, 135, 1761-
-7 194, 2041. os
-
-— Illusions of, xxxviil,
-ior ff., 1628, 175, 185 ff.
-
-—James, William, on,
-Gry
-
-— Land, 73; 77:
-
-— Law of, 2, 43, 47', 63,
-236.
-
-— Lords of, 58.
-
-— Making of, xxxix, xli,
-AA,
-
-— Mirror of, xxi, 36, 166.
-
-— Pathways of, xxi.
-
-— Power of, 100, 106, 109,
-126, 131, 149, 155-6 ff.,
-159, 161, 171, 173-5,
-188, 191, 198, 205-6.
-
-— Propensities of, 58, 86",
-97%, 1171, 133", 140},
-148, 150, 157, 164},
-173, 1767, 191, 206,
-213.
-
-
-INDEX
-
-
-Karma, Records of, 49,
-148}.
-
-— Wind of, 161, 198.
-
-— Workings of, xlii-xliii,
-29-34, 38-9, 43, 48°,
-57-8, 67, 94, 977, 98°,
-1265, 155, 1597, 163, 165,
-169%~4, 183, 219, 237.
-
-Karmic Deities, 140-1.
-
-Katha Upanishad, viii, 46°.
-
-Kerima, 71, 140 ff., 1401,
-142}, 218,
-
-Kesar Saga, 148}.
-
-Knowledge - Holding
-Deities, xx, 70, 126-31,
-134, opp. 136, 201, 218.
-
-Kosha, 214.
-
-Krotishaurima, 1372-40.
-
-Kshitigarbha, 108%.
-
-Kundalini, 216, 221, 224.
-
-Kwanyin, 113°,
-
-
-Lama, Astrologer, 19.
-
-— Confessor, 23.
-
-— Dalai, 26, 1133, 187},
-DX.
-
-— Funereal, 20,
-
-— Kazi Dawa-Samdup,
-xliv, 11, 3, 71, 117-14,
-44, 78-81, 82, 85°, 86!-?,
-oS Tie, uo, ana,
-Palio
-
-— Oracular, 1877.
-
-— Tashi, 26, 113°, 232.
-
-Lamaism, Heads of, 232.
-
-— Music of, 129".
-
-— Origin of, 74-5.
-
-—- Protectors of, 1342.
-
-Lamentations, 18,
-195°.
-
-Lantsa characters, xxiv.
-
-Lasema (Lasya), 1085.
-
-Lepchas, 188°.
-
-Liberation, xxvii-xxviii,
-xxxili-xxxiv, 9, I, 17,
-67,71', 72", 867, 90, 97’,
-100, 101, 118, 131-2,
-137-41, 151, 155, 157,
-168, 189, 193': See
-Buddhahood, and Wzr-
-vanda.
-
-— Bardo, from, 30, 165,
-182~3, 193-5!, 196, 213.
-
-—Faith, by, 126, 134,
-BS. TI,
-
-— Paths to, xxxvii, 15,
-89°, 1057, 107, 109, 112,
-iv, Shp, Sie Tau:
-126, 135%, 136, 150%,
-193, 196, 222.
-
-
-87,
-
-
-~
-
-
-245
-
-
-—Recognition by, i119,
-126, 131-2, 137-8, 141,
-148, 151, 158, 168, 173,
-193, 194.
-
-Light-Path, 125, 1507:
-see Lokas, and Wisdoms.
-
-— Asura(green), 117,124,
-50", 173.
-
-— Brute (blue), 124, 126,
-129, 130, 150", 174.
-
-— Deva (white), 106-7,
-124, 150", 173, 192.
-
-— Dharma-Dhitu (blue),
-106, ;
-
-— Hell (smoke-coloured),
-10g, 124, 150", 174.
-
-— Human (yellow), 111,
-Pigs ko4y UO Zan oz.
-
-— Preta (red), 113, 114,
-124, 150", 174,
-
-— Purified Propensities
-(vari-coloured), 127.
-Lokas (Worlds), xxxii-
-xxXxlii, xxxvil, xxxix, 17,
-24, 38, 107, 118, 125-0,
-136", 150°, 157, 179,
-240: see Asura, Deva,
-Hell-World,Light-Path,
-
-and Preta,
-
-— Brute, 24, 130.
-
-— Buddhas of, xix, 121,
-
-
-eye, Midst
-—‘Poisons’ of, xxxiii,
-xxxvii, 1257.
-Lonaphala Vagga, 40,
-189}.
-
-
-Lotus Deities, 85°, 139,
-218.
-
-
-Macicmii7 2am sno20—2e
-
-Maha-Kala, 147'.
-
-Mahé-Mudra, 1357.
-
-Maha-Parinibbana Siit-
-tanta, 5.
-
-Mahayana, xxxi, 10, 206,
-Dele, ENGR A bey
-237.
-
-Mahlaima (Mala), rer.
-
-Maitreya, 1085, 190%, 212!,
-DR
-
-Makara, 14.24, 144.
-
-Mamaki, 70, 108°, 110,
-199: see Tara.
-
-Manas, 9.
-
-Mandala, xvii-xix, 28, 70,
-7I, Opp. 118, 121°—2?,
-1241, 1261-7, opp. 136,
-136, 217 ff.
-
-Maiijushri (Mafjughosha),
-DR Tie, Tel Kye
-
-
-246
-
-
-Mantras, xxiv, xxxix, 129,
-134’, 136', 149%, 151,
-
-
-opp. 167, 171, 2061,
-220-4.
-Mantra-Yana, 13, 132,
-
-
-134, 136%, 151, 206%.
-
-Manu; Ito}, 47}.
-
-Maré, xix, xx, 1§, 62, 147,
-194, 206, 225.
-
-Marpa, 79, 135%, 234".
-
-Matris, 63, 1168-7, 201,
-218".
-
-Maya, Xxxii, 67,188, 212,
-219, 224.
-
-Miaya-Ripa, 100}.
-
-Medical Buddhas, 24.
-
-Memory, xxx, 183.
-
-—Past Lives, of, 40-1,
-189', 2074.
-
-— Records, 9, 60, 1891.
-
-Meru, Mt., 62, 63-5, 1465,
-147, 158-9, 215.
-
-Milarepa, xxxix’, 79, 82,
-aeee
-
-Mithras, 37}.
-
-Moksha, 11}.
-
-Monasticism, 234.
-
-Mudra, 71, 127%.
-
-Mukti, xxviii, 212.
-
-Mysteries, Antiquity, of,
-451: see Initiation.
-
-— Buddhist, 7.
-
-— Celtic, 3, 37}.
-
-= Eaypiaa, 301) 43: 45)
-122},
-
-—Greek, 3, 9, 43) 454
-50, 51, 53, 122%,
-
-— Indian, 224.
-
-— Tibetan, 37, 361,
-224.
-
-
-221,
-
-
-Nadi, xxx, 90°, 215-16.
-
-Nalanda, 2, 74.
-
-Naropa, 135”.
-
-Nepal, 74.
-
-Nestorians, 233.
-
-Nidainas, xxxvii, 56.
-
-Nidhema (Naivedya), 1167.
-
-Nikaya, Anguttara, 38-
-41, 84, 158°, 189},
-
-— Digha, 5, 207%, 233.
-
-— Majjhima, 38, 417.
-
-Ningmapa, 72, 2337.
-
-
-Nirmina- Kaya,  xxxvi,
-1O-12, 13, 58, 135;
-136", 168.
-
-Nirvana, xxiii}, xxv,
-
-
-XXvii, xxxii, 63, II, 15,
-30, 38, 46, 62, 67-8,
-C7 100s toys: 114),
-
-
-INDEX
-
-
-125, 157’, 184%, 212,
-226, 227°, 2317 3, 236:
-see Buddhahood, and
-Liberation.
-
-Nirvana, Realization of,
-130% E321) LOZ 3,
-229%.
-
-Occultism : see Esoteri-
-cism.
-
-Odysseus, 50, 51.
-
-‘Og-min, 62, 107°.
-
-Origen, 234}.
-
-Orpheus, 49, 51.
-
-Osirian Faith, 234, 238.
-
-Osiris, 22, 35~6, 45}.
-
-
-Padma Sambhava, xviii,
-13, 23, 33, 655 72-7, 79;
-85, 135%, 150%, gol,
-233°.
-
-Panchatantra, 3%.
-
-Parsee Funeral, 25, 27.
-
-Peaceful Deities, xviii—xix,
-xXxxvii-xxxvill, 13, 23,
-31, 85, 103-4 ff, opp.
-PLS 124) Leo an Ua
-Ye 156, 193-4, 199,
-204-8, 217, ae 220,
-
-Phowa, xxix, 85'.
-
-Pindar, 53.
-
-Pistis Sophia, 234}.
-
-Plato, 36-75 49 ff.,
-178%9g!, 188?.
-
-Pluto, 35.
-
-Possession (Avesha), xxix.
-
-Potaliya Siittanta, 41%,
-
-Prajita- Paramita » XXxil,
-Te, aes
-
-Prana, xxix, 214 ff.
-
-Pre-existence, Memory of,
-9: see Rebirth.
-
-freta (Unhappy Ghost),
-3988, AUIS TANI, TAA,
-150", 170: see Lokas.
-
-— Birth, 157, 185.
-
-— Existence, 1941, 207.
-
-— Origin of, 186-7.
-
-Proserpine Lore, 37.
-
-Psalms of the Early Bud-
-dhists, xii, 210,
-
-Psychical Research, 77,
-
-187!
-
-Ptah- hotep, Precepts of,
-110",
-
-Purana, Xxvi, XXX, Xxxiii,
-xiii.
-
-Purgatory (Limbo), xxvii,
-
-
-XXXV, 34) 379 39:
-— Origin of, 34".
-
-
-V7
-
-
-Pushpema (Pushpa), 1088.
-Pythagoras, 3, 53+
-
-
-Ra, 109%.
-Rakshasa, 32, 65, 128%,
-144-5, 162, 186.
-
-Ratna Deities, 138-9.
-Ratna-Sambhava, 9°, 16-
-17,32, 5579 108,110!
-
-12, oe 123, 139, 146,
-200, 2021, 220,
-
-Reality, 68, 224-32.
-
-Rebirth, | Anthropology
-and, 59.
-
-— Bardo, 30, 102, 153-
-93) 204.
-
-— Bon, 74.
-
-— Cause of, 39.
-
-— Celtic, 37, 60.
-
-—Christianity and, 37,
-2341-5, 239.
-
-—Continents, 184, 190.
-
-— Doctrine, 39-61.
-
-— Ending of, 149".
-
-— Esotericism of, 40, 45'~
-vathe
-
-— Greek, 49 ff., 53.
-
-— Herodotus and, 45.
-
-— Huxley and, 60-1.
-
-— Interpretation of, 39-
-Alito lo aes
-
-— Jewish, 37.
-
-— Karma and,
-Karma,
-
-— Lamas and, 40.
-
-— Memory, 40-17, 1825,
-189}.
-
-— Origen and, 234}.
-
-— Platonic, 49-53, 178°,
-M7Opploces
-
-—Process of, xxiii!, xli-
-xlii, 7, 34, 40, 45, 50, 67,
-
-67, 92*, 97", 95°, 114',
-
-1321, 165, 170, 172,
-175 ff., 179, 190 ff., 219,
-224.
-
-— Rig-Veda on, 45}.
-
-— Science and, 41, 60~1,
-
-— Sex at, xl, 179-80, 2065,
-
-— States of, xxxix, 40,
-150", 208": see Lokas.
-
-—pymibotien of, 49f.,
-NO23, O52 eS melon
-185): : see Esotericism.
-
-— Transmigration and,xlii,
-42 fi., 59) 1263, 1788,
-AON OR, ROL:
-
-— Visions, 15% ff., 169 ff.,
-7a regetisa ities 188,
-
-— Yoga of, 30, 41.
-
-
-198: see
-
-
-Re-incarnation, xxvii, xl,
-xli: see Rebirth,
-
-—- Resurrection and, xxvii.
-
-Reyan-k'yil, xxiii.
-
-Rig-Veda, on Rebirth, 45}.
-
-Rig-2in, 73,77; 127".
-
-Ruhy, xxviii.
-
-Riipa-Kiya, 233.
-
-
-Saddharma- Pandarika,
-
-Sddhand, xxxix, 1968,
-
-Sahasrara-Padma, XXX,
-216-17, 221, 224.
-
-
-Salamanders, 8
-Samadnt, 1025, 1237, 124,
-159, 163', 167, 173;
-
-
-174°, 186, 203, 206: see
-Dhyana, and Yoga.
-
-Same tta-Bhadra, xx, 12,
-
-Tf 32, 62, 95%, IIT,
-¥ar*, 2021: see
-.1d1- Buddha
-
-— Prayer, xxxi, 117,
-
-—State, 967, 964.
-
-Sambhogha-Kaya, xxxvi,
-10, II-13, 15, 107-8},
-I10, I12, 115, 118-19,
-124, 135°, 138, 150,
-167, 188.
-
-Samgili Stitta, 2074.
-
-Sanchi Topes, xxiii.
-
-Sangha, 5,14, 171.
-
-Sangsara, xxiii, xxv, xxvii,
-xxxii, xl, 2, 63, 8, 11-12,
-15, 1031, 146, 180-1,
-189-90, 225, 236: see
-Lokas.
-
-— Emancipation from, 9,
-67, 125,135°: see Libera-
-tion, and Mirvana.
-
-— Renunciation of,
-Way owt 29, 213.
-
-—— Worlds of, 24.
-
-Sangskira, XXXIV, xliii.
-
-Sangyay-Chanma, 70, 111".
-
-Sa-tschha, 24.
-
-Semitic Faiths and Soul,
-225.
-
-Shatvagama, Xxxiv.
-
-Shakti, 6%, 32, 70, 120%,
-mans, TEM, gS ly
-217-18,
-
-Shangkaracharyya, xxxiii.
-
-Shape-Shifting, 159, 186.
-
-Shigatze, 26.
-
-Shinje, xxi, 35-7, 240.
-
-‘Shighoa (Chela), 67, 222-
-
-
-xii,
-
-
-A.
-Sinn, Waxes, Ane,
-Shinyata, i? : see Void.
-
-
-INDEX
-
-
-Stddhz, xxix, 128%,
-2042, 2221-3,
-
-Sikkim, 20, 22, 27-8, 37,
-55, 71-2, 79, 80, 1877.
-
-— Maharaja of, 80.
-
-Six Doctrines, The, 1623,
-1643.
-
-Skandha, xxviii, xxxvii,
-xl, 189!, 1924, 2312.
-
-
-IgI?,
-
-
-4.|— Vijfana, xxxi, xxxvii,
-
-
-Heli, Eb, Alii,
-Socrates, 53, 66.
-Soul-Complex,xxviii-xxix,
-
-XXxiv, XXXvll, xxxix—xli.
-Spiritism, xxxiv, 1665, 187}.
-Spirits, 32, 186, 187}.
-Spyang-pu, 20-4.
-Srong-Tsan-Gampo, 74.
-Stupa, 24, 1637.
-Sub-Consciousness, 9, 40,
-
-417, 60, 1171, 189', 1924,
-
-aI4.
-
-Sugata, 1251; see Buddha.
-
-Sukhavati, 28.
-
-Svastika, xxiii,
-
-Swedenborg, xxvi, xxxv.
-
-Symbolism: see Esoteri-
-cism.
-
-
-Tadhol, 72", 136', 1528,
-1924,
-
-Tantra, xxxi, xxxvii,
-XXXVili, 93, 1465-7, 15,22,
-156, 180, 213'~2, 216,
-219, 222.
-
-— Demchok, 1228,
-
-— Great Liberation,
-The, 1004.
-
-— Kularnava, xxv.
-
-— Raa, xxviii, xxix, 223).
-
-— Shrichakra - sambhara,
-xxix}, xliv, So.
-
-Tantricism, 291, 75-6, 78,
-854, 1277, 1465, 213-20,
-232-3.
-
-— Abuse of, 218".
-
-— Tibetan, xxxix’, 74.
-
-Taoism, 23, 234.
-
-Tapas, xxvii.
-
-Tara (Dolma), 7o, 1083,
-118, 200.
-
-Tathagata, xxxiv, xxxvi,
-ALO Ossmelino m2 2O:
-2298.
-
-Tattvas, xxxiv, 229%.
-
-Telepathy, 223,
-
-Lerton, 73, 75-7; 150".
-
-Thamyras, 50, 51.
-
-Theravada, §, 6, 10, 35,
-54).
-
-
-of
-
-
-247
-
-
-Thersites, 52.
-
-Thi-Srong-Detsan, 74.
-
-Thoth, 36.
-
-Thought-Forms, 17, 29-
-32, 34, 1034, 1237, 125°,
-148, 156, 1871, 205,
-Oly PRC, Pele
-
-— Body of, ror, 104}, 1265.
-
-—Recognition of, 104,
-1262, 141, 143-4, 146-7,
-204.
-
-Ti-Pitika (Skt. Trt-Pi-
-tika), 5, 301, 1607, 233.
-
-Totemism, 361, 140}.
-
-Transmigration : see Re-
-birth.
-
-Trt- Kaya,1O,12"-14,147,
-202, 232-3.
-
-Trinity, Buddhist, 13-14,
-871, 88, 1037, 148, 155,
-163, 165, I70, 192,
-197-8.
-
-— Christian, 14, 234.
-
-Tri-Ratna, Xix,
-
-Tst-pa, 19.
-
-Tson Khapa, 2337.
-
-Tushita Heavens,
-NGOum..
-
-Tutelary Deity, 997.
-
-
-535
-
-
-Udana, 68}.
-Upanishads,
-40".
-
-
-viii, xxxii,
-
-
-Vairochana, xxxvii, 9, I5—
-17, 32, 46°, 55, 70,
-105*-7, 119, 137, 200,
-202°, 218, 220.
-
-Vajra Deities, 138.
-
-Vajra-Dhara, 13, 108}.
-
-Vajra- Pani (Chakdor),
-1164, 1347, 150, 189+.
-
-Vajra-Sattva, xxxvii, 9°,
-15, 16, 32; 55) 795 1063,
-108!-1o, 120, 123-4,
-126, 138, 199, 2021, 220.
-
-Vajra- Vana, 13.
-
-Vampire, 26.
-
-Vedanta, xxxi, xxxili, 46°.
-
-Vijaya, 1207.
-
-Vinaya-Pitika (or Dulva),
-
-
-53-
-
-Vissudht Magea, 41°.
-
-Vital-Airs (Prana-Vayu),
-Ald, AEN) COVE
-
-Vital Force (Prana), xxxi,
-go ff., 98°, 1627, 214-
-16, 224.
-
-Void (Shinyata),
-
-
-Xxvii, xxxii—xxxiil,
-
-
-The,
-10,
-
-
-248
-
-
-11, 15, 95°, 96°, 119,
-1261, 1467-*, 167, 174,
-182, 188.
-
-Void, Clear Light of, xxxi,
-Xxxili-xxxiv, 29, 32, 89,
-goff., 977-84 8, 135, 141,
-150-1, 174, 176, 182,
-1035209, 200) 211.213)
-219, 224.
-
-
-Wangchugma, 14off.,14.0'.
-
-Wheel of Life, 17, 37-8,
-55-6, 977, 131.
-
-Wheel of the Law, xxiii,
-106, opp. 119.
-
-Wisdom, All-Discrimina-
-ting, 16, 114-15, 119',
-123, 200.
-
-
-—All- Performing, 16,
-116-19}, 200,
-
-— Dharma-Dhilu, 15,
-106-7, 122.
-
-
-— Equality, of 16, 111-12,
-T191, 123, 200.
-
-— Mirror-Like, 15-16,
-109-10, 11g}, 123, 199.
-
-
-INDEX
-
-
-Wisdom, Perfected Ac-
-tions, of, 9, 123.
-
-— Reality, of, 200.
-
-— Simultaneously - Born,
-129-30, 201.
-
-Wisdoms, The, 10-11, 15-
-16, r19!, 125, 205.
-
-— Four, 119}, 122, 125-6.
-
-Wrathful Deities, xix—xx,
-xxxvii-xxxvili, 13, 23},
-31, 85, 103, 1247, 126},
-131-49, opp. 136, 156,
-193-4, 199, 201, 204-8,
-Aig Out) PETES
-
-
-Yamantaka, 120%7, 1672.
-Yama-Raja, 35, 37; 39)
-46", 471, 147°, 1673.
-
-Yantras, 1924,
-
-Yoga, xxx, xxxi, xxxviii,
-2, 10, 30, 33, 40-2, 58,
-67, 74-5, 79, 867, 89%,
-924, 97", 994, 1321, 135),
-157, 158 @ sgh,
-L7Oay llc lol me OOss
-2II-14", 232: see Dhya-
-
-
-na, Ecstasy, Ilumina-
-tion, and Samadhz.
-
-Yooa, Buddha and, 5, 158°.
-
-— Christian, 234.
-
-— Dream-State, 203".
-
-— Egyptian, 110°,
-
-— Hatha, xxv.
-
-— Indian, 9, 1357.
-
-—Laya or Kundalini,
-xxxiv, xxxixl, 221.
-
-— Mantra, 150", 221.
-
-— Mudra, 127'.
-
-— Patanjali on, 1575.
-
-— Rebirth, 41.
-
-— Samadhi, 1237, 163%.
-
-— Serpent-Power, xxxvili,
-216.
-
-—Tantric, 1205,
-213-20, 233.
-
-— Tibetan, xxxix', 9, 1357,
-150", 1027, FQasmealiees
-
-Yoga-Carya, 2123, 213”.
-
-Vogavishishtha,xxxiv',56%.
-
-Yoginis, 144-6.
-
-
-1465,
-
-
-Zanonti, 133".
-Zeus, 51.
-
-
-Printed in England at the Oxrorp UNIversity Press
-By John Johnson Printer to the University
-
-
-Beet 105 YOPAN
-“MWE52 UBM- SUPA
-
-
-mat
-
-
-SETSSTABBLPBSE 8bM ZE° p6Z
-‘peap ay} Jo yood uejeqT] aut

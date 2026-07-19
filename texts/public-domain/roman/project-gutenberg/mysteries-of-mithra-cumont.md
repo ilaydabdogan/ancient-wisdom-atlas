@@ -1397,7 +1397,7 @@ of  Fine  Arts,  Boston.)
 
 group  of  Mithra  Tauroctonos,  to  which  uni
 versal  custom  thenceforward  reserved  the
-place  of  honor  in  the  apse  of  the  spel za*
+place  of  honor  in  the  apse  of  the  spel<za*
 
 But  not  only  did  art  employ  its  powers  to
 soften  the  repulsive  features  which  these  rude
@@ -3055,7 +3055,7 @@ III  il,n  '
 
 M  5  £  e  £
 
-1      s    ^
+1     <s    ^
 
 P-I
 
@@ -6170,7 +6170,7 @@ seven  degrees  of  initiation  through  which  the
 forced  to  traverse  in  order  to  reach  the  abode
 of  the  blessed.*  After  having  been  Raven,
 the  initiates  were  promoted  to  the  rank  of
-Occult  (Kpv(f)io i).  The  members  of  this  class,
+Occult  (Kpv(f)io<i).  The  members  of  this  class,
 hidden  by  some  veil,  probably  remained  in-
 visible  to  the  rest  of  the  congregation.  To
 exhibit  them  (pstendere\  constituted  a  solemn
@@ -8728,3 +8728,1683 @@ Elijah  in  the  chariot  of  fire;  and  to  the  time
 of  the  Middle  Ages  the  type  of  the  taurocto-
 nous  god  was  perpetuated  in  the  images  of
 Samson  rending  the  lion.
+
+
+INDEX
+
+
+Absolutism,  theory  of,  go,  103.
+
+Abstinence,  160.
+
+Adam-Klissi,  43.
+
+Adige,  river,  73.
+
+Adriatic,  Mithraism  along   the
+
+coasts  of  the,  67.
+JEon,  105  et  seq.    (See  Kronos.)
+Agri  Decumates,  52,  83,  199.
+Ahriman,  7,   112,   137,  140;  the
+
+destruction  of   the  world  by,
+
+146.
+Ahura -Mazda,  5  et  seq.,  20,  27,
+
+94,  113,  222.
+
+Alexander  the  Great,  12,  20,  192.
+Alexandria,  92.
+Alps,   Mithraism    in  denies    of
+
+the,  72.
+
+Amshaspands,  2,  5.
+Anahita,    8  et  seq.,   10,   20,  179
+
+et  seq.
+
+Anaitis,  112.
+Anangke,  in.
+Anauni,  tribe  of  the,  206.
+Animal  disguises,  153.
+Animals  and  stars,  122.
+Antiochus  of   Commagene,    13,
+
+14,  26,  27,  95.
+Apathy,  stoic,   161.
+Apotheosis  of  the  emperors,  90
+
+et  seq.
+
+Apuleius,  164.
+Apulum,  45,  139.
+Aquileia,    Mithraism    in,   67  et
+
+seq.,  73,  213.
+Aquincum,  46.
+
+
+Arcana,  the  secrecy  of  the,  172.
+Archer,   the    divine,    138,    197,
+
+228.
+
+Arete,  112.
+Aristocracy  and  Mithraism,  the
+
+Roman,  81  et  seq.,  205.
+Ark,   138.
+
+Armenia,  Mithraism  in,  16.
+Armenians,  religion  of  the,  16.
+Army,   the  principal    agent  of
+
+the  diffusion  of  the  Mithraic
+
+religion,  40  et  seq.
+Arshtat,  5.
+Artagnes,  in.
+Artaxerxes,  8,  9.
+Artemis  Tauropolos,  20.
+Art,    Mithraic,  24,  209  et  seq.  ;
+
+intricacy  of,   221 ;  symbolism
+
+of,     227;     its    influence    on
+
+Christian      sculpture,      196;
+
+Christianity    adopts    symbols
+
+of,  228.
+Art  of  the  empire,   provincial,
+
+219.
+
+Ascension,  Mithraic,  194.
+Asceticism,  141.
+Asha,  112.
+Ashi-Vanuhi,  5.
+Asia  Minor,  Mithraism  in,  n  et
+
+seq. ;   resists   the    civilization
+
+of  Rome,  35.
+Asia  Propria,  79
+Asia,    religions     of,     and     the
+
+Caesars,  91.
+Astarte  at  Rome,  34.
+Astrolatry,  10.
+
+
+229
+
+
+230
+
+
+INDEX
+
+
+Astrologers,  78,  85.
+Astrology,  119,  125,  207.
+Atar,  112.
+Athena  Nike,  210.
+Atlas,  123.
+
+Attis,  87,  105,  179,   198.
+Aurelian,  88,  103,  185,  199.
+Aurelius,  Marcus,  87.
+Austerities,  160.
+Avesta,  the,  i  et  seq.
+
+B
+
+Ba'al,  42.
+
+Baal  of  Emesa,  185.
+
+Babylon,  Mithraism  in,  9,  10,
+119.
+
+Bacchus,  112.
+
+Bactrian  coins,   19.
+
+Banquets,  sacred,    173.
+
+Baptism,  6,  157,  190,  173.
+
+Baresman,  6,  26.
+
+Basil,  St.,  28.
+
+Bavay,  56.
+
+Bear,  title  of,  153.
+
+Bee,  lion  and,  185.
+
+Bel,  10.
+
+Belgium,  early  school  of  sculp
+ture  of,  220.
+
+Bellona,  35,  87.
+
+Bell,  sounding  of  a,  166.
+
+Bethlehem,  195.
+
+Bithynia,  79.
+
+Blood,  baptism  of,  181.
+
+Bologna,   151.
+
+Bonn,  52.
+
+Borghesi  bas-relief,  21.
+
+Boulogne,  56.
+
+Bread  and  water,  consecrated,
+158.
+
+Brenner  pass,  73.
+
+Britain,  Mithraism  in,  57  et
+seq.,  79.
+
+
+Brotherhoods,  Mithraic,  organi
+zation  of,  1 68.
+
+Brothers,  190.
+
+Brunn,  214.
+
+Bull,  capture  of  the  wild,  132,
+135  et  seq.,  210;  immolation
+of  the  mythical,  182;  the  Evil
+Spirit  and  the,  137  ;  the  divine,
+146,  194.
+
+Bundahish,   7.
+
+Burial  associations,  86.
+
+
+Caerleon,  57.
+
+Csesarism,  democratic  fiction
+of,  90.
+
+Caesars,  intimate  alliance  of,
+with  the  Sun,  98  et  seq. ;
+religions  of  Asia  and  the,  91 ;
+the  successive  Avatars  of
+Helios  (the  Sun),  100;
+Mithraism  favored  the  pre
+tensions  of  the,  101.
+
+Caesar,  the  genius  of,  93.
+
+Calabria,  71.
+
+Caligula,  93.
+
+Capitol,  bas-relief  of,   81.
+
+Cappadocia,  Magi  and  Mith
+raism  in,  26,  28,  42,  43,  46,
+76.
+
+Carnuntum,  38,  46,  47  et  seq.,
+83,  88,  89,  163,  178,  200.
+
+Catechumens,  Christian,  155.
+
+Catharsis,  141.
+
+Cause,  the  suprasensible,  118.
+
+Cauti,  129.
+
+Cautopati,   129.
+
+Caves,  consecrated  to  the  gods,
+30.
+
+Celibacy,  165.
+
+Celsus,  82.
+
+Cemetery,  Mithraic,  171.
+
+
+INDEX
+
+
+23I
+
+
+Centurions,  a  microcosm  of  the
+empire,  40,  41.
+
+Ceramists,  Hellenic,  225.
+
+Ceremonial,  the  occult,  162  et
+seq.
+
+Chaldseans,  theology  of  the,  10;
+as  astrologers,  78,  85;  theo
+ries,  influence  of  their,  119.
+
+Chester,  57.
+
+Chosroes,  vi.
+
+Christ,  193,  195.
+
+Christianity,  battle  between
+idolatry  "  and,  iii  et  seq. ;
+struggle  between  Mithraism
+and,  188  et  seq. ;  resemblances
+between  Mithraism  and,  193 ;
+differences  between  Mithra
+ism  and,  197;  adopts  symbols
+of  Mithraic  art,  228.
+
+Christians,  persecutions  of,  200.
+
+Christmas,  167,  191,   196,  202.
+
+Chrysostomos,  Dion,  25.
+
+Church  ornaments  during  the
+days  of  paganism,  218.
+
+Cilicia,  pirates  of,  31,  35,  37,  42.
+
+Clergy,  Mithraic,  150  et  seq.,
+165.
+
+Cologne,   52.
+
+Coloring  of  Mithraic  statues,
+219.
+
+Colt,  title  of,  153.
+
+Commagene,  41,  43,  178.
+
+Commandments  of  Mithraism,
+140.
+
+Commerce,  international,  79.
+
+Commodus,  38,  83,  87,  97,  212.
+
+Communion,  the  Mithraic,  158
+et  seq.,  194.
+
+Compromise,  Mithraic  policy  of,
+198.
+
+Conflagration,  138.
+
+Congregations,  Mithraic,  169.
+
+
+Constantine,  200.
+Constantius,  201.
+Constellations,  worship  of  the
+
+Planets  and  the,  148.
+Continence,  141.
+Conventicles,  the  Mithraic,  171.
+Corbulo,  47.
+
+Creator,  Mithra  the,  137.
+Crown,  the,  156.
+Ctesias,  9.
+Cybele,  17,  30,  87,  112,  179.
+
+D
+
+Dacia,  Mithraism  in,  44  et  seq.,
+
+139,  199-
+
+Dadophori,  57.  (See  Torch-
+bearers.']
+
+Dalmatia,  40,  76.
+
+Danube,  44,  51.
+
+Darkness,  the  Spirit  of,  and  his
+pestilential  scourges,  137.
+
+Day  and  night,  struggle  be
+tween,  4.
+
+Dead,  resurrection  of  the,  191.
+
+Dea  Syria  at  Rome,  35.
+
+Deities,  sidereal,  120;  septuple
+division  of  the,  155.
+
+Deliverance,  143.
+
+Deluge,  138.
+
+Despotism,  90,  91  et  seq
+
+Destiny,  95,  109,  no,  124.
+
+Devotees,  Mithraic,  150  et  seq.
+
+Diadochi,  Mithraism  and  the,
+ii  et  seq.
+
+Diana,  112.
+
+Diocletian,  vi,  48,  89,  98,
+200.
+
+Dioscuri,  the,  123  et  seq.
+
+Disc,  the  radiant,  100.
+
+Divine  flame,  26.
+
+Dog  of  Mithra,  the,  135,  137.
+
+Dolichenuui,  178.
+
+
+232
+
+
+INDEX
+
+
+Dolichenus,     Jupiter,     36,     48,
+
+178,  190.
+Dormagen,  52.
+Drave,  Mithraism  in  valley  of
+
+the,  73-
+Drvaspa,  112.
+Dualism,  advantages  of,  141.
+
+E
+
+Earth,  mother,  115.
+
+Ecliptic,  107.
+
+Egypt,  a  theocratic  govern
+ment,  91.
+
+Eisack,  73.
+
+Elements,  the  four,  116  et  seq. ,
+148.
+
+Elijah,  228.
+
+Emperors,  titles  of,  97 ;  wor
+ship  of  the,  90  et  seq.,  184.
+
+Equinoxes,  167.
+
+Erichthonios,  birth  of,  225.
+
+Eternity,  leontocephalous  god
+of,  the  most  original  creation
+of  Mithraic  art,  224.
+
+Etruria,  67,  72.
+
+Eubulus,  82.
+
+Eugenius,  205.
+
+Europe,  in  danger  of  being
+Asiaticized,  vi.
+
+Eutropius,  44.
+
+Evil  Spirit  and  the  Bull,  the,
+137-
+
+F
+
+Fatalism,  97,  147.
+
+Fatality,  95,  109;  belief  in,  124.
+
+Fates,  in.
+
+Father,  degree  of,  152  et  seq.
+
+Father  of  the  Fathers,  165,  177.
+
+Festivals,  Mithraic,  167.
+
+Fire,  114;  the  inextinguishable,
+99.
+
+Flavianus,  Nicomachus,  205.
+
+
+Fleet  at  Ravenna,  46.
+Flood,   191.     (See  Deluge.}
+For  tuna  regia,  97.
+Fortune,  g4etseq.,  102,  in.
+Four  Crowned  Ones,  passion  of
+
+the,  218.
+
+France,  Mithraism  in,  69.
+Freemasonry,   162.
+Friedberg,  52.
+Friedlander,  217.
+Future  life,  144.
+
+
+Galatia,  79.
+
+Galerius,  89,  200.
+
+Gathas,   150.
+
+Gaul,  Mithraism  in,  69  et  seq. ,
+
+79-
+
+Generative  Rock,  the,  131  et
+seq.,  194.
+
+Geneva,  56,  70.
+
+Genius  of  Caesar,  the,  93.
+
+George  the  patriarch,  202.
+
+Germanies,  Mithraism  in  the
+two,  50  et  seq.,  52  et  seq.,  78.
+
+Gigantomachy,  112,   113,  127.
+
+Gilding,  220.
+
+Glory,  94  et  seq.
+
+God,  187.
+
+God,  the  passion  of  the,  192.
+
+Gods,  Iranian,  worshipped  un
+der  Greek  and  Latin  names,
+
+175-
+
+Good  and  evil,  the  struggle  be
+tween  the  principles  of,  146.
+
+Good,  principle  of,  148.
+
+Gordianus  III.,  18,  32.
+
+Gracchus,  the  prefect,  203.
+
+Grace  (halo),  94  et  seq. ;  the
+Mithraic  spirit  of,  147.
+
+Gratian,  205.
+
+Greeks  and  Persians,  iii.
+
+
+INDEX
+
+
+233
+
+
+H
+
+Hadrian,  40,  46;  wall  of,  57.
+Haoma,  6,  112,  131,  158.
+Heaven,  109,  191,  197.
+Heavens,  the,  121,  138.
+Heddernheim,    53  et  seq.,  117.
+Heidelberg,  55.
+Helbig,  214.
+Heliogabalus,  185.
+Heliolatry,  184  et  seq.,  200.
+Helios,  22,  138,   222.
+Hell,  191,  206.
+
+Hellenism,  Iranism  and,  20.
+Heracles,  C.  Valerius,  105.
+Hercules,  20,   in,  127,  222.
+Hierarchy,  the,  165.
+Holy  water,  157.
+Honey,  157.
+Hooerkes,   19.
+Horeb,  rock  of,  197.
+Horses,  the  four,  116  et  seq.
+Human  couple,  the  first,  137.
+Hvarend,  94  et  seq.,  102.
+
+I
+
+Iconography,  Mithraic,  226.
+Idolatry,  destruction  of,  201.
+Imagery,  religious,  216.
+Immortality,   143.
+Initiates,  the  Mithraic,  155.
+Initiation,  6;  seven  degrees  of,
+
+152 ;  cruelty  of  the  ceremonies
+
+of,  161.
+
+Invictus,  the  epithet,  98.
+Invincible,    the  epithet,    97    et
+
+seq.,  143.
+
+Iranism  and  Hellenism,  20.
+Iran,  naturalism  of,  119.
+Ishtar,  10.
+Isis,     Mysteries     of,     178;     at
+
+Rome,  34.
+
+
+Italy,  depopulated,  64;  Mithra-
+ism  in,  38,  70  et  seq.
+
+J
+
+Janes,  S.  H.,  176.
+
+Jerome,  St.,  152.
+
+Jerusalem,  capture  of,  37.
+
+Jesus,  life  of,  194.
+
+Jewish  community  trans  Tibe-
+
+rim,  37.
+Journey,  the,  135.
+Judaism,  iv.
+Julian  the  Apostate,  89,  201  et
+
+seq.
+
+Juno,  in.
+Jupiter,  no,  136.
+Jupiter-Ormazd,  140,  146.
+
+K
+
+Kanerkes,  19.
+Klagenfurt,  113.
+Kronos,    105   et  seq.,    153,    162,
+222,  223,  227.
+
+
+Lambaese,  58.
+
+Lampridius,  78,  83.
+
+Last  Supper,  the,  138.
+
+Latin    world,    diffusion  of  the
+
+Mithraic  religion  in  the,  36.
+Legio  II.  adjutrtx,  46.
+Legion,  fifteenth,  47  et  seq.
+Leontocephalous  Kronos.     (See
+
+Kronos.)
+Licinius,  89.
+Life,  a  battle,  140;  beyond  the
+
+tomb,  148.
+Lion  and  bee,  185.
+Lion,  degree  of,  152.
+Lion-headed       Kronos.        (See
+
+Kronos.)
+Liturgy  Mazdean  and  Mithraic,
+
+6,  150  et  seq.
+
+
+234
+
+
+INDEX
+
+
+Livianus,  slave  of  T.  Claudius,
+
+38.
+
+Logos,  the,  140,   191.
+London,  57,  217.
+Lord's   Supper,  the,    138,     158,
+
+191.
+
+Love  feasts,  160.
+Lucania,  71.
+Lucian,  27,  82,  220.
+Luna,  112.     (See  Moon.}
+Lyons,  60,  69.
+
+M
+
+Ma,  30,  1 80.
+
+Macrobius,  187.
+
+Magician,  the  word,  126.
+
+Magi,  the  official  Persian  clergy,
+9;  in  Asia  Minor,  n  et  seq.,
+20;  propaganda  of,  15  ;  adora
+tion  of  the,  195.
+
+Magus,  the  title,  126.
+
+Malachi,  193.
+
+Manichseans,  the,  165.
+
+Manichseism,  v,  207.
+
+Man,  origin  and  destiny  of,  120.
+
+Mars,  112.
+
+Martyrs,  Oriental,   175.
+
+Masks,  sacred,  153.
+
+Mater,  Magna,  at  Rome,  19.
+34,  67;  Mithraism  associated
+with,  86  et  seq.,  179  et  seq.
+(See  Mother,  Great.}
+
+Mauls,  73.
+
+Maximus  of  Ephesus,  202,  203.
+
+Mayence,  52.
+
+Mazdaism,  ritual  forms  of,  28 ;
+priests  of,  29;  its  influence
+on  Occidental  culture,  iv;  a
+congeries  of  traditions,  10;  in
+Italy,  15 ;  in  Armenia,  16.
+(See  MtthraismJ}
+
+Mediator,  140,  191.
+
+
+Memphis,  Mithra  at,  33.
+
+Men,  Mithra  and,  17.
+
+Merchants    disseminate     Mith
+raism,  78.
+
+Mercury,  112.
+
+Metempsychosis,  153.
+
+Metroon,  179,  182.
+
+Middle  Zone,   127.
+
+Mihragan,  the,  9.
+
+Milan,  72.
+
+Minerva,  112,  181.
+
+Missal,  a  Mithraic,  152.
+
+Mithra-Ahura,  2,  6.
+
+Mithra-  Anahita,  17.
+
+Mithra-Men,  17.
+
+Mithra,  the  god  of  light,  2  et
+seq.,  127  et  seq.;  as  god  of
+hosts  and  victory,  4,  8,  12;
+doctrine  of  redemption  by,  5 ;
+a  yazata,  5  et  seq. ;  in  the
+calendar,  8,  27;  Shamash
+and,  10;  King  Antiochus  and,
+14 ;  typical  representations  of,
+21  et  seq.;  the  tauroctonous,
+21  et  seq.,  210,  216;  legends
+and  deeds  of,  30,  127  et  seq.,
+133;  the  invincible  Sun  iden
+tified  with,  95,  121,  132;  the
+mediator,  127  et  seq. ;  the
+triple,  129;  born  from  the
+rock,  130  et  seq. ;  his  com
+bat  with  the  bull,  iSj^JJii^L
+sjsq^gio;  his  dog,  135,  137;
+the  creator,  137,  140;  the
+guide  to  heaven,  145  ;  causing
+the  living  waters  to  leap
+forth,  197,  228.
+
+Mithradates,    the    name.     (See
+Mithr  Mates.}
+
+Mithrseums,  ruins  of,  203.
+
+Mithraism,  the  origins  of,  i  et
+seq.,  30;  a  composite  religion,
+
+
+INDEX
+
+
+235
+
+
+31 ;  analysis  of  the  constituent
+elements  of,  30 ;  Semitic
+theories  in,  10;  religious  sur
+vivals  in,  30;  struggle  be
+tween  Christianity  and,  v,
+1 88  et  seq. ;  resemblances  be
+tween  Christianity  and,  193 ;
+differences  between  Christi
+anity  and,  197;  dissemination
+of,  in  the  Roman  Empire,  33
+et  seq. ;  army  principal  agent
+of  diffusion  of,  40  et  seq.,  60,
+77,  78;  disseminated  by
+Syrian  merchants  and  slaves,
+61  et  seq.,  63  et  seq.,  69,  74
+et  seq.,  78;  imperial  officers
+disseminated,  74  et  seq. ;  the
+Roman  aristocracy  and,  81
+et  seq.,  205;  the  imperial
+power  of  Rome  and,  85  et
+seq. ;  reasons  the  Roman
+Empire  supported  it,  88  et
+seq.;  despotism  and,  91  et
+seq. ;  favored  the  pretensions
+of  the  Caesars,  101 ;  dogmatol-
+ogy  of,  tended  to  lift  princes
+above  the  level  of  human
+kind,  102;  at  its  apogee,  15,  84
+et  seq. ,  88  et  seq. ,  1 77,  199 ;  the
+doctrines  of,  104  et  seq. ;  its
+theology,  105  et  seq.  ;  astrol
+ogy  and,  125;  its  liturgy,
+clergy  and  devotees,  150  et
+seq.  ;  the  religions  of  the
+empire  and,  175  et  seq.;
+importance  of  its  history,
+vi;  philosophy  and,  25;  the
+Stoic  philosophy  and,  25;
+excluded  from  the  Hellenic
+world,  33 ;  Roman  tolerance
+of,  85 ;  associated  with  the
+religion  of  the  Magna  Mater
+
+
+(Great  Mother),  86  et  seq. ;
+legal  status  of,  86;  sacred
+poetry  of,  126;  command
+ments  of,  140;  a  religion  of
+soldiers,  142;  satisfied  the
+hearts  of  the  simple-minded,
+148  ;  allurements  of,  149 ;  con
+forms  religion  to  ancient
+science,  149;  offers  oppor
+tunities  for  prayer  and  mo
+tives  for  veneration,  149 ;  the
+religious  expression  of  the
+physics  and  astronomy  of
+the  Roman  world,  149;  ad
+mission  to,  156;  stupendous
+illusions  of,  173;  women  and,
+173;  its  priests,  175;  its  policy
+of  compromise,  198;  its  tem
+ples  sacked,  199,  203;  down
+fall  of,  203  et  seq.  ;  its  art,
+sculpture,  etc.,  209  et  seq. ;
+monuments  of,  43  et  seq. ,  209
+et  seq. ;  not  a  cult  of  beauty,
+226.
+
+Mithrakana,  the,  9,  167.
+
+Mithridates,  13.
+
+Mithridates  Eupator,  31.
+
+Mitra-Varuna,  2.
+
+Mcesia,  Mithraism  in,  40,  43,
+74-
+
+Monachism,  Mithraic,  165.
+
+Monarchical  power,  Mazdean
+ideas  concerning,  95.
+
+Monarchs,   majesty  of,   sacred,
+
+93-
+
+Monotheism,  187,  188.
+Moon,  worship  of  the,  119.
+Mosaicists,  Christian,  222.
+Moses,  197,  228.
+Mothers,  order  of,  179.
+Mother,   the    Great,    19.      (See
+
+Mater,  Magna.)
+
+
+236
+
+
+INDEX
+
+
+Mysteries,  the  term,  29.
+Myths,  origin  of,  187.
+
+N
+
+Nabarze,  142,  143,  150.
+
+Nama,  Nama  Sebesio,  151.
+
+Names,  theophorous  or  god-
+bearing,  8,  34.
+
+Narbonne,  69.
+
+Natalts  invtcti.  (See  Christ
+mas.}
+
+Nativity,  the,  196.
+
+Naturalism  of  Iran,  1 19.
+
+Necessity,  126.
+
+Necromancy,  125.
+
+Neo-Platonism,  184.
+
+Neo-Pythagorism,  184.
+
+Neptune,  in,  115.
+
+Nero,  85,  93.
+
+Nersae,  38,  71.
+
+Neuenheim,  55.
+
+Neuwied,  52.
+
+Nike,  112.
+
+Noricum,  Mithraism  in,  49,  73,
+
+75,  113-
+Numidia,  Mithraism  in,  59.
+
+O
+
+Oblations  of  milk,  oil,  and
+honey,  26.
+
+Occult,  degree  of,  152.
+
+Ocean,  109,  115.
+
+Officers,  imperial,  disseminate
+Mithraism,  74  et  seq.
+
+Oglia,  river,  72.
+
+Oneiromancy,  125.
+
+Orestes,  20.
+
+Oriental,  cults,  persecutions  of
+the,  85;  genius,  triumphs
+over  the  Roman  mind,  90;
+traffic,  extension  of,  and
+spread  of  Mithraism,  69,  70.
+
+Ormazd,  v,  7,  in.
+
+
+Osrhoene,  36.
+
+Osterburken,  51,  220.
+
+Ostia,  38,  66,  68,   105,   179,  210,
+
+212.
+Ox,  title  of,   153.
+
+P
+
+Pallas,  82.
+
+Pannonia,   Mithraism  in,  46  et
+
+seq.,  74,  199;  quarries  of,  218.
+Pantheism,  149;  solar,  188.
+Pantheon,  Mithraic,  109.
+Paradise,  191.
+Parendi,  5.
+
+Parseeism,  development  of,  15.
+Parthians,  42,  47,  64.
+Pergamon,    12;    School  of,    24,
+
+192,  210.
+
+Persian,  degree  of,  152.
+Persians  and  Greeks,  iii.
+Persians,    their    apotheosis    of
+
+their  rulers,  93.
+Petronell,  163.
+Pharaohs,   incarnations  of   the
+
+great  day-star,  92.
+Philippus,  88.
+
+Philosophical  conceptions,   148.
+Philosophy  and  Mithraism,  25.
+Phrygian  cap,  131.
+Piraeus,  33.
+Planets,    222;    deified,    120    et
+
+seq. ;  and  the  Constellations,
+
+worship  of  the,  148.
+Plutarch,  7,  36,  37,  96.
+Pluto,  112.
+Pompey,  37.
+Pontiff,  the  chief,   165.
+Pontus,  42.
+Porphyry,  155,  158.
+Pozzuoli,  64.
+Praetextatus,   187.
+Priesthood,  Mazdean,  29.
+Priestsof  Mithra,  175  ;  slain,  205.
+
+
+INDEX
+
+
+237
+
+
+Pronaos,  170.
+Ptolemies,  93.
+Ptolemy,  10.
+Purification,  181.
+Purity,  141.
+Puster-Thal,  73.
+
+Q
+Quadriga,   116,  118,  138.
+
+
+Ra,  92.
+
+Radiate  crown,  99.
+
+Rashnu,  5.
+
+Raven,  degree  of,  152  et  seq.
+
+Ravenna,  fleet  at,  46.
+
+Redeemer,  the,  193,  195.
+
+Redemption,   143.
+
+Resurrection  of  the  flesh,  146,
+
+171,   191,  206.
+Revelation,  191.
+Reville,  Jean,   17.
+Rhsetia,  73.
+Rhone,  69  et  seq.
+Ritual  of  Mazdaism,  28.
+Rock,   Mithra  born   from    the,
+
+130  et   seq.  ;    of    generation,
+
+194.
+Roman  aristocracy,  Mithra  and,
+
+81  et  seq.
+
+Roman     Emperors     and    the
+ocracy,  90.
+Roman  tolerance  of  Mithraism,
+
+85-
+Rome,  210,  217;  Mithraism  at,
+
+79    et     seq.;    the   capital  of
+
+paganism,  205.
+Runner  of  the  Sun,  degree  of.
+
+152  et  seq.
+
+
+Sabazius-Anaitis,  17.
+Sacraments,  156,  157,  206.
+
+
+Sacred  bath,  180.
+Sacrifice,  the,  137,  166.
+Saeculum.     (See  Kronos.}
+Samson,  228.
+
+Sarmizegetusa,  45,  142,  216.
+Sarrebourg,  56,  204.
+Sassanian  kings,  100.
+Saturn,    Mithraic,    105    et  seq.
+
+(See  Kronos.)
+Scarbantia,  49.
+Schneider,  Von,  214.
+Schwarzerden,  56.
+Scorpion,  sign  of  the,  129.
+Scotland,  43.
+Sculpture,    Mithraic,    196,   215;
+
+ancient,  226.
+Seasons,  the,  115,   121,  222.
+Sebesio,  JVama,  JVama,  151.
+Seleucidae,  the,  95.
+Semitic  theories  in  Mithraism,
+
+10.
+
+Serapis  at  Rome,  34.
+Services,  Mithraic,  162.
+Seven  spheres,  the,  144.
+Seven,  the  number,  120  et  seq.,
+
+154-
+Severus,  Alexander,  18,  61,  78,
+
+88.
+
+Shahrivar,  112.
+
+Shamash,  10,  20,  121,  127,  128.
+Shepherds,  worship  of  the,  132,
+
+194.
+
+iicily,  Mithraism  in,  68.
+Sidereal  influences,  206.
+Silvanus,  66,  112,  136,  137.
+Sisters,  order  of,  179.
+Skeleton,  Chained,  204.
+Slaves,    Asiatic,    disseminated
+
+Mithraism  and  other  Oriental
+
+cults,  63  et  seq.,  70,  71,  78.
+Smyrna,  214.
+Societies,  Mithraic,  170.
+
+
+238
+
+
+INDEX
+
+
+Sodaltcia,  168,  171.
+
+Solar,  divinities,  gg,  121 ;  pan
+theism,  1 88.
+
+Soldier,  degree  of,  152;  Roman,
+his  religion,  42  et  seq.
+
+Soldiers,  the  principal  agent  of
+the  diffusion  of  the  Mithraic
+religion,  40  et  seq.,  78.
+
+Sol  invictus,  cult  of  the,  Sg.
+
+Sol  the  sun-god,  186.
+
+Soul,  immortality  of,   143,   igi.
+
+Spain,  Mithraism  in,  59,  69,  79.
+
+Spelcea,  161.
+
+Spenta-Armaiti,  in.
+
+Sraosha,  5.
+
+Stars,  worship  of,  ng;  animals
+and,  122.
+
+Statius,  37.
+
+Stoic  philosophy,  Mithraism  and
+the,  25,  184.
+
+Stone-hewing  industry  of  an
+tiquity,  217.
+
+Strabo,  n,  26.
+
+Strassburg,  52.
+
+Sunday,  igi.
+
+Sun,  worship  of  the,  118,  183  et
+seq. ;  the  invincible,  identi
+fied  with  Mithra,  95,  121;
+Mithra  and  the,  132  ;  intimate
+alliance  of  the  Caesars  with
+the,  98  et  seq.  ;  consubstan-
+tiality  of  the  emperor  with,
+101 ;  birth  of  the,  167;  of
+justice,  ig3 ;  custom  of  invok
+ing  the,  195 ;  also  128,  138,
+148,  201.
+
+Symbolism,    astronomical,   130.
+
+Syncretism,  religious,  10-22,  187.
+
+Syrian  merchants  disseminated
+Mithraism,  61  et  seq.
+
+Syrians,  character  and  occupa
+tions  of,  62  et  seq.
+
+
+Tarsus,  31,  32.
+Taurobolium,  86,  180.
+Tauroctonous,   or    bull-slaying,
+
+Mithra,  the,  21  et  seq.
+Taurus,  constellation  of,  129.
+Temples  sacked,  Mithraic,  igg,
+
+203.
+
+Tertullian,  157,  165,  188.
+Themis,  in.
+Theocracy,    Roman     emperors
+
+and,  go.
+
+Theodosius,  205.
+Theologies,  of  the  Orient  and
+
+the   philosophies    of    Greece,
+
+14;  the  Mithraic,  147.
+Theophorous,    or    god-bearing,
+
+names,  8,  34.
+Thiasi,  155.
+Time,  148,  153;  boundless,   105
+
+et     seq.;     infinite,    112,    121.
+
+(See  Kronos.)
+Titus,  47,  64.
+Torch-bearers,    57,    68,    128    et
+
+seq.,  2ii  et  seq.
+Toronto  Mithra,  the,  176.
+Trajan,  44,  48,  64.
+Trapezus,  coins  of,  18.
+Trent,  73.
+Treves,  56.
+Trials,    160.
+
+Trinity,  v,   176;    Mithraic,   in.
+Triple  Mithra,  the,  i2g.
+Twigs,    sacred    (baresmari),   6,
+
+26.
+Tyche,  94  et  seq.
+
+
+Unction,   157.
+
+
+U
+
+
+Vanainiti,  112.
+Vedas,  i  et  seq.
+
+
+INDEX
+
+
+239
+
+
+Vendidad,  the,  26.
+
+Venus,  112,  181.
+
+Venusia,  71.
+
+Verethraghna,  5,  20,  127,  222.
+
+Vespasian,  46,  47,  77.
+
+Veterans    disseminate  Mithra-
+
+ism,  77-
+Vienna,  49.
+Villa  Albani,  212.
+Virunum,   50,   73,  113,   199,  218.
+Vulcan,  112,  114.
+
+W
+
+Water,  114.
+West,  7.
+
+Winds,  the,  197,  222,  223.
+Witchcraft,  125.
+Women  in  Mithraism,  173.
+
+
+World,   origin  and    destiny    of
+the,  109,  1 20,  140.
+
+
+Yazatas,  5  et  seq.,  175
+York,   57.
+
+
+Zeno,  25.
+
+Zervan,  105  et  seq.,  125.     (See
+Kronos.}
+
+Zeus,    in,    222;    Ahura-Mazda
+
+and,  20.
+Zodiac,  signs  of  the,  109,  121  et
+
+seq.,  153,  223.
+Zoroaster,  152.
+Zoroastrianism,    2    et    seq.,   8,
+
+165.     (See  Mithraism.'}
+
+
+PUBLICATIONS  ON  THE  HISTORY
+OF  RELIGION.
+
+
+HISTORY  OF  RELIGION.
+
+SELECTED  WORKS.
+
+BABEL  AND  BIBLE.  A  lecture  twice  delivered  before  the  German
+Emperor.  By  Friedrich  Delitzsch,  Professor  of  Assyriology
+in  the  University  of  Berlin.  Translated  from  the  German  by
+T.  J.  McCormack.  A  brilliant  exposition  by  a  master  of  the
+significance  of  Assyriological  research  for  our  knowledge  of
+the  Old  Testament.  Pp.,  66.  Boards,  50  cents  net  (as.  6d.
+net).
+
+N.  B. — Babel  and  Bible,  Second  Lecture,  in  reply  to  the
+storm  of  criticism  evoked  by  the  first  Lecture,  will  appear  in
+the  summer  of  1903.
+
+HISTORY  OF  THE  PEOPLE  OF  ISRAEL.  From  the  Earliest  Times  to
+the  Destruction  of  Jerusalem  by  the  Romans.  By  Prof.  C.
+H.  Cornill,  of  the  University  of  Breslau,  Germany.  Trans
+lated  by  Prof.  W.  H.  Carruth.  Pages,  325,  vi.  Cloth,  $1.50
+(73.  6d.).  In  German,  $2.00.  A  fascinating  portrayal  of  Jew
+ish  history  by  one  of  the  foremost  of  Old  Testament  scholars.
+Commended  by  both  orthodox  and  unorthodox.
+
+THE  PROPHETS  OF  ISRAEL.  By  Prof.  Carl  Heinrich  Cornill.  Fron
+tispiece,  Michael  Angelo's  Moses.  Cloth,  with  the  Hebrew
+title  stamped  on  the  cover  in  gold.  Fifth  edition.  Pages,
+210.  $1.00  net  (55.).
+
+THE  RISE  OF  THE  PEOPLE  OF  ISRAEL.  By  Prof.  Carl  Heinrich
+Cornill.  Cloth,  50  cents  net  (25.  6d.).  In  Epitomes  of  Three
+Sciences.
+
+THE  LEGENDS  OF  GENESIS.  By  Dr.  Hermann  Gankel,  Professor
+of  Old  Testament  Theology  in  the  University  of  Berlin.  Trans
+lated  by  W.  H.  Carruth.  Pages,  164.  Cloth,  $1.00  net  (45.  6d.
+net).  This  work  contains  the  very  latest  results  of  the  new
+scientific  investigation  of  Genesis,  in  the  light  of  analytical
+and  comparative  mythology.
+
+THE  HISTORY  OF  THE  DEVIL,  and  the  Idea  of  Evil  from  the  Earliest
+Times  to  the  Present  Day.  By  Dr.  Paul  Carus.  Printed  in
+two  colors  from  large  type  on  fine  paper.  Bound  in  cloth,
+illuminated  with  cover  stamp  from  Dore".  Five  hundred  8vo
+pages,  with  311  illustrations  in  black  and  tint.  Price,  $6.00
+
+(308.).
+
+Write  for  Illustrated  Catalogue.
+
+
+A  HISTORY  OF  EGYPT  FROM  THE  END  OF  THE  NEOLITHIC  PERIOD  TO
+THE  DEATH  OF  CLEOPATRA  VII.,  B.  C.  30.  By  E.  A.  Wallis
+Budge,  M.  A.,  Litt.  D.,  D.  Lit.,  Keeper  of  the  Egyptian  and
+Assyrian  Antiquities  in  the  British  Museum.  Illustrated.  In
+Eight  Volumes.  Price,  $10.00  net.
+
+THE  BOOK  OF  THE  DEAD.  An  English  Translation  of  the  Chap
+ters,  Hymns,  etc.,  of  the  Theban  Recension,  with  Introduc
+tion,  Notes,  etc.  By  E.  A.  Wallis  Budge,  M.  A.,  Litt.  D.,
+D.  Lit.,  Keeper  of  the  Egyptian  and  Assyrian  Antiquities  in
+the  British  Museum.  With  four  hundred  and  twenty  new
+vignettes.  Three  volumes.  Price,  per  set,  $3.75  net.
+
+LAO-TZE'S  TAO  TEH  KING.  Chinese-English.  With  Introduction,
+Transliteration,  and  Notes.  By  Dr.  Paul  Carus.  With  a  pho
+togravure  frontispiece  of  the  traditional  picture  of  Lao-Tze,
+specially  drawn  for  the  work  by  an  eminent  Japanese  artist.
+Appropriately  bound  in  yellow  and  blue,  with  gilt  top.  Pp.,
+345-  $300(153.).
+
+THE  GATHAS  OF  ZARATHUSHTRA  (ZOROASTER)  IN  METRE  AND
+RHYTHM.  By  Lawrence  H.  Mills,  D.  D.,  Hon.  M.  A.,  Pro
+fessor  of  Zend  Philology  in  the  University  of  Oxford.  Large
+octavo.  Pp.,  196.  Price,  cloth,  $2.00.
+
+HYMNS  OF  THE  FAITH  (OR  DHAMMAPADA).  An  Ancient  Anthology
+of  the  Sacred  Buddhist  Scriptures.  From  the  Pali  by  Albeit
+J.  Edmunds.  Pp.,  109,  xiii.  Cloth,  $1.00  net  (43.  6d.  net).
+
+THE  GOSPEL  OF  BUDDHA.  By  Dr.  Paul  Carus.  Eighth  edition.
+Pp.,  xiv,  275.  Cloth,  $1.00  (55.).  In  German,  $1.25.
+
+ACVAGHOSHA'S  DISCOURSE  ON  THE  AWAKENING  OF  FAITH  IN  THE
+MAHAYANA.  Translated  for  the  first  time  from  the  Chinese
+version,  by  Teitaro  Suzuki.  Pages,  176.  Cloth,  $1.25  net
+(53.  net).  One  of  the  lost  sources  of  Buddhism.
+
+BUDDHISM  AND  ITS  CHRISTIAN  CRITICS.  By  Dr.  Paul  Carus.  Pp.,
+311.  $1.25  (6s.  6d.).
+
+CHINESE  FICTION.  By  the  Rev.  George  T.  Candlin.  With  illus
+trations  from  original  Chinese  works,  specimen  facsimile  re
+productions  of  texts,  and  translations  of  representative  pas
+sages.  Giving  a  clear  and  vivid  resume  of  Chinese  romantic
+literature.  Pp.,  51.  Paper,  15  cents  (gd.).
+
+Write  for  Hlustrated  Catalogue.
+
+
+CHINESE  PHILOSOPHY.  By  Dr.  Paul  Carus.  Pp  ,  62.  Numerous
+illustrations.  Paper,  25  cents  (is.  6d  ).
+
+THE  TRAVELS  IN  TARTARY,  THIBET  AND  CHINA.  By  MM.  Hue  and
+Gabet.  New  edition.  From  the  French.  Two  volumes.  100
+illustrations.  Pp.,  688.  Cloth,  $2.00  (IDS.).  One  volume,
+cloth,  $1.25  net  (53.  net).
+
+ANCIENT  INDIA.  Its  Language  and  Religions.  By  Prof.  H.  Olden-
+berg,  of  Kiel.  Pp.,  ix,  no.  Cloth,  50  cents  net  (2s.  6d.).
+Contains  :  (i)  The  Study  of  Sanskrit ;  (2)  The  Religion  of  the
+Veda  ;  (3)  Buddhism.  A  popular  exposition.
+
+THE  TEMPLES  OF  THE  ORIENT  AND  THEIR  MESSAGE  ;  In  the  light
+of  Holy  Scriptures,  Dante's  Vision,  and  Bunyan's  Allegory.
+By  the  Author  of  "  Clear  Round  !"  "Things  Touching  the
+King,  "etc.  With  Map  Showing  the  Ancient  Canctuaries  of
+the  Old  World  and  Their  Relation  to  Abraham's  Pilgrimage
+Pp.,  x,  442.  Price,  cloth,  $4.00.  A  work  dedicated  to  the
+intending  missionary,  with  a  view  to  broadening  his  concep
+tion  and  appreciation  of  the  great  religions  of  the  East.
+
+THE  CREATION-STORY  OF  GENESIS  I.  A  Sumerian  Theogony  and
+Cosmogony.  By  Dr.  Hugo  Radau.  Pp.,  70,  vi.  Boards,  75
+cents  net  (33.  6d.  net).
+
+BIBLICAL  LOVE-DITTIES.  An  interpretation  and  new  translation
+of  the  Song  of  Solomon.  By  Dr.  Paul  Haupt,  Johns  Hopkins
+University.  Pp.,  10.  Paper,  5  cents  (3d.).
+
+MARTIN  LUTHER.  By  Gustav  Freytag.  Now  translated  for  the
+first  time  from  the  famous  Bilder  ans  dcr  dcuischen  Ver-
+gangenheit,  26  illustrations.  Pp.  130.  Cloth,  gilt  top,  $1.00
+net  (55.).
+
+ENGLISH  SECULARISM,  A  CONFESSION  OF  BELIEF.  By  George  Jacob
+Holyoake.  Pp.,  xiii,  146.  Cloth,  50  cents  net.
+
+SOLOMON  AND  SOLOMONIC  LITERATURE.  By  Moncure  D.  Conway.
+Pages,  viii,  243.  Cloth,  $1.50  net  (6s.).  Portrays  the  entire
+evolution  of  the  Solomonic  legend  in  the  history  of  Judaism,
+Christianity,  Hinduism,  Buddhism,  and  Parseeism,  and  also
+in  ancient  and  modern  folk-lore,  taking  up  the  legend  of  Sol
+omon's  ring,  Solomon's  seal,  etc.
+
+Write  for  Illustrated  Catalogue.
+
+
+FICTION.
+
+The  following  stories  by  Dr.  Paul  Cams  characterise  impor
+tant  phases  of  the  religious  development  of  mankind  :
+
+THE  CROWN  OF  THORNS.  A  Story  of  the  Time  of  Christ.  Illus
+trated.  Pp.  73.  750  net  (35.  6d.  net).  The  tale  is  fiction  of
+the  character  of  legend,  utilising  materials  preserved  in  both
+the  canonical  scriptures  and  the  Apocryphal  traditions,  but
+giving  preference  to  the  former.  Jesus  is  characterised  by  the
+impression  he  makes  upon  a  Galilean  gardener.  We  meet
+with  a  messiah  of  the  type  of  Bar  Cochba,  Longinus  the  Ro
+man  soldier,  Zebidee  and  his  sons,  and  St.  Paul,  the  great
+Apostle  of  the  New  Religion.
+
+THE  CHIEF'S  DAUGHTER.  A  Legend  of  Niagara.  Seven  photo
+gravures,  13  pen  and  ink  drawings  and  half-tone  illustrations.
+$1.00  net  (43.  6d.).  A  story  which  testifies  to  the  universality
+of  the  idea  of  sacrifice  and  proves  that  all  the  nations  are  pre
+pared  for  the  reception  of  Christianity.
+
+EROS  AND  PSYCHE.  Retold  after  Apuleius.  Half-tone  reproduc
+tions,  with  ornamental  borders,  of  the  famous  illustrations  of
+Paul  Thumann.  Pp.  xv,  108.  $1.50  net  (6s.  net).  The  story
+characterises  the  origin  of  the  belief  in  immortality  among  the
+ancient  Greeks.
+
+KARMA.  A  Story  of  Buddhist  Ethics.  Third  Japanese  art  edition.
+Crepe  paper,  tied  in  silk.  Quaintly  illustrated.  750(35.  6d.).
+A  parallel  of  Christ's  injunction  "  Love  thy  neighbor  as  thy
+self."
+
+NIRVANA  A  Story  of  Buddhist  Psychology.  (This  is  a  compan
+ion  work  to  the  story  Karma.}  Illustrated  by  a  Japanese  ar
+tist.  Pp.,  93.  Cloth,  6oc  net  (35.  net).
+
+AMITABHA.  A  Story  of  Buddhist  Metaphysics.  This  story  ap
+peared  in  The  Open  Court,  in  July,  August,  and  September,
+1902.  It  describes  the  development  of  what  may  be  called
+Buddhist  theology,  viz.,  the  origin  of  the  idea  of  Amitabha,
+the  source  of  spiritual  light  as  the  Good  Law,  which  is  eternal
+and  omnipresent.  The  main  events  and  characters  of  the
+story,  especially  King  Kanishka  and  the  philosopher  Acva-
+ghosha  are  historical.  (Not  yet  published  in  book  form  )
+
+Write  for  Illustrated  Catalogue.
+
+
+ARTICLES  RECENTLY  PUBLISHED  IN  "THE  MONIST"
+AND  "THE  OPEN  COURT"
+
+THE  FIRST  PHILOSOPHER.  Interpretation  and  Translation  of  a
+Fragment  of  Egyptian  Hieroglyphic  Writing  of  the  Sixteenth
+Century  Before  Christ,  Expounding  the  System  of  Thought  of
+a  Memphite  Priest  that  Foreshadows  the  Philosophy  of  Greece.
+By  JAMES  H.  BREASTED,  Professor  in  the  University  of  Chi
+cago.  The  Monist,  April,  1902.  Price,  50  Cents  (25.  6d.).
+
+EGYPTIAN  RELIGIOUS  CONCEPTIONS.  By  Dr.  Paul  Carus.  A  Series
+of  Articles  to  be  Published  in  The  Open  Court.
+
+BABYLONIAN  AND  HEBREW  VIEWS  OF  MAN'S  FATE  AFTER  DEATH.
+By  Dr.  Paul  Carus.  The  Open  Court,  Vol.  XV..  No.  6.  10
+cents  (6d.).
+
+THE  FAIRY-TALE  ELEMENT  IN  THE  BIBLE.  Babylonian  Cosmogony.
+The  Cuneiform  Tablets  of  the  Marduk  Myth.  Yahveh's  Fight
+With  the  Dragon.  The  Two  Hebrew  Creation  Stories.  Del
+uge  Legends.  Worship  of  the  Queen  of  Heaven.  Song  of
+the  Well.  Etc.,  Etc.  By  Dr.  Paul  Carus.  The  Monist  for
+April  and  July,  1901  Price,  50  cents  (23.  6d.)each.  These
+two  numbers  also  contain  .articles  on  the  "Resurrection  of
+Christ,"  by  the  Rev.  William  Weber  ;  on  the  "Earliest  Chap
+ter  of  History  (Babylonia  and  Assyria),"  by  Prof .  James  A.
+Craig  ;  and  on  the  "Authenticity  of  the  Tao  Teh  King"  by
+Dr.  Paul  Carus.
+
+"~  Two  ACCOUNTS  OF  HAGAR.     By  Prof.  Hermann  Gunkel,  Uni-
+-ersity  of  Berlin.     J^he  Monist,  Vol.  X.,  No    3.     500  (25.  6d.).
+
+THE  CROSS  AND  ITS  SIGNIFICANCE.  Also  Essays  on  :  (i)  The  Cross
+in  Central  America  ;  (2)  The  Cross  Among  the  North  Amer
+ican  Indians  ;  (3)  Plato  and  the  Cross  ;  (4)  The  Cross  of  Gol
+gotha  ;  (5)  Staurolatry,  or  The  History  of  Cross  Worship  ;
+and  (6)  The  Crucifix.  By  Dr.  Paul  Carus.  The  Open  Court,
+Vol.  XIII.,  Nos.  3,  4,  5,  6,  8,  9,  and  n.  10  cents  (6d.)  each.
+
+JEW  AND  GENTILE  IN  EARLY  CHRISTIANITY.  By  Dr.  Paul  Carus.
+The  Momst,  Vol.  IX.,  No.  2  50  cents  (as.  6d.).
+
+THE  AGRAPHA  ;  OR  UNRECORDED  SAYINGS  OF  JESUS  CHRIST.  By
+the  Rev.  Bernard  Pick,  Ph.  D.,  D.  D.  The  Open  Court,  Vol.
+XL,  No.  9.  10  cents  (6d.).
+
+Write  for  Illustrated  Catalogue.
+
+
+THE  RELIGIO-HISTORICAL  INTERPRETATION  OF  THE  NEW  TESTA
+MENT  ;  A  STUDY  OP  CHRISTIANITY  AS  A  SYNCRETIC  RELIGION.
+By  Prof.  Hermann  Gunkel,  of  the  University  of  Berlin.  The
+Monist,  Vol.  XIII.,  No.  3.  50  cents  (2s.  6d.).
+
+EVOLUTION  OF  ANGELS  AND  DEMONS  IN  CHRISTIAN  THEOLOGY.  By
+R.  Bruce  Boswell,  M.  A.,  Essex,  England.  The  Open  Court,
+Vol.  XIV.,  No.  8.  10  cents  (6d.).
+
+GOSPEL  PARALLELS  FROM  PALI  TEXTS.  By  Albert  J.  Edmunds,
+Philadelphia.  The  Open  Court,  Vol.  XIV.,  Nos.  2,  4,  and  6;
+Vol.  XV.,  No.  i.  40  cents  (as.).
+
+CERTAIN  ASPECTS  OF  THE  ELEUSINIAN  PROBLEM.  By  the  Rev.
+Charles  James  Wood,  St.  John's  Rectory,  York,  Penn.  The
+Open  Court,  Vol.  XIV.,  Nos.  10  and  u.  20  cents  (is.).
+
+GREEK  RELIGION  AND  MYTHOLOGY.  By  Dr.  Paul  Carus.  The
+Open  Court,  Vol.  XIV.,  Nos.  9,  10,  u,  and  12.  Vol.  XV.,
+No.  i.  50  cents  (2s.  6d.).  These  numbers  are  especially  val
+uable,  containing  over  200  fine  illustrations  of  mythological
+subjects  from  the  best  classical  sources.
+
+PAGAN  ELEMENTS  OF  CHRISTIANITY  ;  AND  THE  SIGNIFICANCE  OF
+JESUS.  By  Dr.  Paul  Carus.  The  Monist,  Vol.  XII.,  No.  3.
+50  cents  (25.  6d.).
+
+THEOLOGY  AS  A  SCIENCE.  By  Dr.  Paul  Carus.  The  Monist,  Vol.
+XII.,  No.  4,  and  Vol.  XIII.,  No.  i.  50  cents  (25.  6d.)each.
+These  two  numbers  also  contain  articles  on  "The  Education
+of  Children,"  by  Dr.  C.  H.  Cornill,  and  "  The  Cosmology  of
+the  Sumerians,"  by  Dr.  Hugo  Radau,  besides  many  other
+valuable  articles  on  psychology  and  the  theory  and  history  of
+science.
+
+APOLLONIUS  OF  TYANA  ;  A  COMPLETE  SKETCH  OF  His  LIFE  AND
+CAREER  AFTER  THE  ORIGINAL  SOURCES.  By  T.  Whittaker,  Lon
+don.  The  Monist,  Vol.  XIII.,  No.  2.  50  cents  (zs.  6d.).
+
+THE  GREEK  MYSTERIES,  A  PREPARATION  FOR  CHRISTIANITY.  By
+Dr.  Paul  Carus.  The  Monist,  Vol.  XL,  No.  i.  50  cents
+
+(2S.    6d.).
+
+Write  for  Illustrated  Catalogue.
+
+
+THE  OPEN  COURT  PUBLISHING  COMPANY
+
+324    DEARBORN    ST.,    CHICAGO.
+
+LONDON:  Kegan  Paul,  Trench,  Trubner  &  Co.,  Ltd.
+
+
+BINDING  SECT.  .->  1(Kr
+
+: . "i"-  o  J  laOU
+
+
+PLEASE  DO  NOT  REMOVE
+CARDS  OR  SLIPS  FROM  THIS  POCKET
+
+UNIVERSITY  OF  TORONTO  LIBRARY
+
+
+BL  Gumont,  Franz  Valery  Marie
+
+1585  The  mysteries  of  Mithra
+
+C813
+1903
+

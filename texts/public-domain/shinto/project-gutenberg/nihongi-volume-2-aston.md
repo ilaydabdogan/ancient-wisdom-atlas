@@ -63,152 +63,15 @@ figures:
 
 # Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697, Volume 2
 
-
-Ae ben ; i
-ascnntt re eek K
-: ‘ Piarb cei Bae Sot
-
-
-: Lee
-te
-
-
-‘Ligioht
-ot
-i Ht pte Ae ae
-Gaiters
-+ AEE
-
-
-She
-a # Be
-
-
-est p al
-
-
-i !
-ety he z AD i nip }
-rasirais prep ate tenes tt tae Ped pass eh to #0 oS rey le f nS
-ee 3 yale ' a cin Cainerte she cee i sindos it 2 2 A
-pitino ti ee Pesaro et hate fe Siig tamara ten 4 ite sit bekten toes ieeeearaberrst:
-
-Basa bgel Meese DEEN H, BIRLA : eats ’ bts ead oda ses Lies Wait patiyectitts
-Ce cae ete ena cee ise eerie cue cies
-; ! : pit tip late rts
-
-
-ta cp
-Lien
-Saas sone ao
-
-
-a5 Mile bt 4 ¢
-Hjapbabeeasaeetcvinisiciniciteret
-pers a eeg
-UA peach Ps 4
-Mistress scoaabenebibitnatce eel a
-SP anes eere hernia nurar iphsbeba moe
-netfee peste een siltioy fbb ie ey sorts
-ib Fe + sid
-cael et 7
-reir e dadekind os Mckdhiy ied oft
-piv ghd ebairet capen tind baesen tam aeinee es Mead Mit
-
-
-whe re Oe
-
-
-on
-
-
-ti
-Sie
-
-
-ve
-
-
-OEE UTES
-
-
-a
-F
-g
-
-
-acts
-
-
-" ¢ wi.)
-At il
-
-
-Vena
-
-
-TRANSACTIONS AND PROCEEDINGS
-
-
-OF
-
-
-THE JAPAN SOCIETY, LONDON.
-
-
-SUPPLEMENT I.
-
-
-NIHONGI,
-
-
-Chronicles of Japan from the Earliest Times to A.D. 697.
-
-
-TRANSLATED FROM THE ORIGINAL CHINESE AND JAPANESE
-BY
-
-
-Wi. Gy ASTON, C.MAG.,
-Honorary Member of the Fapan Society, Fe.
-
-
-VOLUME II,
-
-Freer Gallery of Att
-
-Washington, D. C.
-LONDON, 1896.
-
-PUBLISHED FOR THE SOCIETY BY
-KEGAN PAUL, TRENCH, TRUBNER & CO., LIMITED,
-PATERNOSTER HOUSE, CHARING CROSS ROAD, W.C.
-[All Rights Reserved.|
-
-
-i
-eos Eohiths
-Ee ig
-
-
-wi
-
-
 CONTENTS
 
 
 AOE,
 XXIII.
-XXIV,
 XXV.
 XXVI.
-XXVII.
 
 
-XXVIII.
-
-
-XXIX.
 XXX,
 
 
@@ -226,7 +89,6 @@ SUJUN e
 SUIKO ye
 JOMEI ‘
 KOGYOKU ,,
-KOTOKU ,,
 SAIMEI 4
 TENCHI _,,
 TEMMU _,,
@@ -245,31 +107,12 @@ Gr VOL” Et
 
 
 Accession A.D.
-507
-534
-536
-540
-572
-586
-588
-593
-629
-642
-645
-655
 
 
 PAGE
 
 
 I
-26
-
-
-33
-
-
-NIHONGI
 
 
 BOOK XVII.
@@ -282,8 +125,7 @@ THE EMPEROR WOHODO.
 THE Emperor Wohodo [otherwise called Hiko-futo no Mikoto}
 was the son of Prince Hiko-nushi-bito, a descendant in the
 fifth generation of the Emperor Homuda. His mother’s name
-was Furuhime. She was a descendant in the seventh genera-
-tion of the Emperor Ikume. The Emperor’s father, hearing
+was Furuhime. She was a descendant in the seventh generation of the Emperor Ikume. The Emperor’s father, hearing
 at his country-house at Miwo, in the district of Takashima, in
 the province of Ohomi, of the extreme and resplendent beauty
 of Furuhime’s countenance, sent a messenger to Sakanawi in
@@ -317,15 +159,6 @@ OV NICS at
 A.D. 507.
 
 
-XVII. 3.
-
-
-XVII. 4.
-
-
-2 NIHONGI.
-
-
 On the 21st day, the Ohomuraji, Ohotomo no Kanamura,
 counselled, saying :—‘‘ At this moment there is no successor
 whatever to the throne.’ Where shall the Empire bestow its
@@ -345,8 +178,7 @@ and no one could learn whither he had gone.
 Ist year, Spring, Ist month, 4th day. The Ohomuraji,
 Ohotomo no Kanamura, again counselled, saying :—‘‘ Prince
 Wohodo is of an affectionate and dutiful disposition. He isa
-fit person to take over the Celestial succession. Let us, there-
-fore, courteously offer it to him, and thus continue the
+fit person to take over the Celestial succession. Let us, therefore, courteously offer it to him, and thus continue the
 prosperity of the Imperial institution.” Mononobe no Arakahi
 no Ohomuraji, with Kose no Wobito no Oho-omi and others,
 all said:—‘‘ On a careful review of the branch descendants,
@@ -358,8 +190,7 @@ fetch him. The troops to form his guard arrived suddenly in
 awe-inspiring array, clearing the way before him. Upon this,
 the Emperor Wohodo remained calm and_ self-possessed,”
 seated on a chair, with his retainers in order by him, just as if
-he already occupied the Imperial throne. The envoys, there-
-fore, bearing the emblems of rank, with respect and reverence
+he already occupied the Imperial throne. The envoys, therefore, bearing the emblems of rank, with respect and reverence
 bowed their hearts, and committed to him the Imperial
 authority, asking permission to devote to him their loyal
 service. In the Emperor’s mind, however, doubts still
@@ -382,8 +213,7 @@ Obito had sent a messenger secretly to inform him minutely of
 the real intentions of the Oho-omi and Ohomuraji in sending
 to escort him. After a delay of two days and three nights, he
 at length set out. Then he exclaimed, admiringly :—‘ Well
-done, Mttmakahi no Obito! Had it not been for the informa-
-tion given by thy messenger, I ran a great risk of being made a
+done, Mttmakahi no Obito! Had it not been for the information given by thy messenger, I ran a great risk of being made a
 laughing-stock to the Empire. The proverbial saying, ‘ Be not
 a respecter of rank, but value the heart,’ was doubtless meant
 for men like Arako.” When he came to the throne, he treated
@@ -391,9 +221,7 @@ Arako with special favour.
 
 12th day. The Emperor arrived at the Palace of Kusuba.
 
-2nd month, 4th day. The Ohomuraji, Ohotomo no Kana-
-mura, went on his knees, and, with repeated obeisances, pre-
-sented the Mirror, the Sword, and the Imperial Signet. The
+2nd month, 4th day. The Ohomuraji, Ohotomo no Kanamura, went on his knees, and, with repeated obeisances, presented the Mirror, the Sword, and the Imperial Signet. The
 Emperor Wohodo declined them, saying:—‘‘It is no light
 matter to be a father to the people and to rule the State. I,
 ‘tthe unworthy one, am deficient in ability, and do not deserve
@@ -403,8 +231,7 @@ accept.”” Ohotomo no Ohomuraji, bowing down to the ground,
 persisted in his request. Then the Emperor Wohodo, facing
 the west, declined three times, and facing the south,’ declined
 twice. Ohotomo no Ohomurajiand the rest all said :—‘‘ In the
-humble judgment of thy servants, the Great Prince is excel-
-lently fitted to be a father to the people and to rule the State.
+humble judgment of thy servants, the Great Prince is excellently fitted to be a father to the people and to rule the State.
 On behalf of the ancestral temples and the temples of the
 Earth and of Grain, thy servants’ judgment dares not be hasty.
 Availing ourselves of the general desire, we pray that thou wilt
@@ -418,36 +245,24 @@ On this day he assumed the Imperial dignity. Ohotomo,
 
 
 1 The Imperial position.
-> Was this Signet the Signet given the Japanese Emperor by China
+) Was this Signet the Signet given the Japanese Emperor by China
 ‘(“ Early Japanese History,” p. 70)? Or is it merely a Chinese expression
 -for the gem “E, which was one of the three regalia?
 B 2
 
 
-XVII. 5.
-
-
-XVII. 6.
-
-
-4 NIHONGI.
-
-
 Kanamura no Ohomuraji was appointed Ohomuraji, Kose no
 Wobito no Oho-omi was made Oho-omi, and Mononobe no.
-Arakahi no Ohomuraji was made Ohomuraji, all being con-
-firmed in their previous offices. Thereupon the Oho-omi and
+Arakahi no Ohomuraji was made Ohomuraji, all being confirmed in their previous offices. Thereupon the Oho-omi and
 Ohomuraji each entered on their respective offices and ranks.
 
 roth day. Ohotomo no Ohomuraji petitioned the Emperor,
-saying :—‘‘ Thy servant has been informed that it was a prin-
-ciple of government with former ‘sovereigns that without the
+saying :—‘‘ Thy servant has been informed that it was a principle of government with former ‘sovereigns that without the
 confirmation of an heir to the throne, it is impossible to give
 security to heaven and earth. Without the intimacy of the
 side-courts, it is impossible to continue the calices.' For this
 reason, the Emperor Shiraga, having no heir, sent thy servant’s
-grandfather, Ohomuraji Muruya, to all the provinces to esta-
-blish three. kinds of Shiraga Be [These three kinds were, first,
+grandfather, Ohomuraji Muruya, to all the provinces to establish three. kinds of Shiraga Be [These three kinds were, first,
 Shiraga Be no Toneri; second, Shiraga Be no Kashihade ;
 third, Shiraga Be no Yugehi], by which his name might remain
 to after ages. Alas! was not this painful? I pray thee,
@@ -491,18 +306,14 @@ _KEIDAT. 5
 Palace). She eventually gave birth to a son, who became
 Ame-kuni-oshi-harani’-hiro-niha no Mikoto.2 He was the
 rightful heir, but as he was young in years, he held the Empire
-after his two elder brothers [The two elder brothers were Hiro-
-kuni-oshi-take-kanahi no Mikoto and Take-o-hiro-kuni-oshi-
-tate no Mikoto. See below.] had ruled it.
+after his two elder brothers [The two elder brothers were Hirokuni-oshi-take-kanahi no Mikoto and Take-o-hiro-kuni-oshitate no Mikoto. See below.] had ruled it.
 gth day. The Emperor made a decree, saying :—‘‘ We have
 heard that if men are of fit age and do not cultivate, the
 Empire may suffer famine ; if women are of fit age and do not
 spin, the Empire may suffer cold. Therefore is it that the
 ‘sovereigns cultivate with their own hands, so as to give
-encouragement to agriculture, while their consorts rear silk-
-worms themselves, so as to encourage the mulberry season.
-How, then, shall there be prosperity if all, from the function-
-aries down to the ten thousand families, neglect agriculture and
+encouragement to agriculture, while their consorts rear silkworms themselves, so as to encourage the mulberry season.
+How, then, shall there be prosperity if all, from the functionaries down to the ten thousand families, neglect agriculture and
 spinning? Let the officials publish this to all the Empire, so
 that our sentiments may be made known.”
 14th day. The Emperor took to him eight concubines.
@@ -520,9 +331,7 @@ The first was called the Imperial Prince Magari no Ohine,*
 who became Oshi-kuni-oshi-take-kanahi no Mikoto.* The
 second was called the Imperial Prince Hinokuma Takada, who
 became Take-wo-hiro-kuni-oshi-tate no Mikoto.* The next
-concubine was Wakugohime, younger sister of Miho no Tsuno-
-wori no Kimi. She gave birth to the Imperial Prince Oho-
-iratsuko and the Imperial Princess Idzumo. The next was called
+concubine was Wakugohime, younger sister of Miho no Tsunowori no Kimi. She gave birth to the Imperial Prince Ohoiratsuko and the Imperial Princess Idzumo. The next was called
 Hirohime, the daughter of Prince Ohomata of Sakata. She
 gave birth to three daughters, the eldest of whom was called
 
@@ -532,19 +341,7 @@ gave birth to three daughters, the eldest of whom was called
 4 Ankan Tenno. ® Senkwa Tenno.
 
 
-XVII. 7.
-
-
-XVII. 8.
-
-
-XVII. 9.
-
-
 A.D. 508.
-
-
-6 NIHONGI.
 
 
 the Imperial Princess Kanzaki, the middle one the Imperial
@@ -669,24 +466,18 @@ There-is no mention of Tamna in the “ Tongkam” under the year 508.
 eV 2 rr
 
 
-8 - NIHonGi.
-
-
 united to it so as to form one country, no better measure of
 conservation can be adopted. It is true, no doubt, that even if
 ceded and united to Pekché there will still be a danger for
 future generations. Much more how many years could they
 be defended if they became foreign territory ?”’!
 
-Kanamura, Ohotomo no Ohomuraji, having thoroughly com-
-prehended this report, adopted this policy and laid it before
-the Emperor. Accordingly Arakahi, Mononobe no Ohomu-
-raji, was appointed Imperial envoy. Mononobe no Ohomuraji
+Kanamura, Ohotomo no Ohomuraji, having thoroughly comprehended this report, adopted this policy and laid it before
+the Emperor. Accordingly Arakahi, Mononobe no Ohomuraji, was appointed Imperial envoy. Mononobe no Ohomuraji
 was on the point of leaving for the official inn at Naniha in
 order to make known the Emperor’s commands to the Pékché
 guests, when his wife expostulated with him, saying :—
-‘‘ Originally the Deities® of Sumiyoshi bestowed on the Em-
-peror Homuda while in the womb the gold and silver lands
+‘‘ Originally the Deities® of Sumiyoshi bestowed on the Emperor Homuda while in the womb the gold and silver lands
 beyond the sea, namely Koryo, Pekché, Silla, and Imna.
 Therefore did the Great Empress* Okinaga-tarashihime no
 Mikoto and the Oho-omi Takechi no Sukune first establish
@@ -714,11 +505,10 @@ learnt that the decree had been issued. He was surprised and
 dissatisfied, and endeavoured to have it altered, saying :—
 
 
-' The meaning is that Pékché will be better able to prevent these pro-
-vinces from falling into the hands of Silla than Japan. All Imna was
+' The meaning is that Pékché will be better able to prevent these provinces from falling into the hands of Silla than Japan. All Imna was
 conquered by Silla in A.D. 562. See below, XIX. 51.
 
-> See above, Vol. I. pp. 233-235, and “ Satow’s Handbook,” p. 192.
+) See above, Vol. I. pp. 233-235, and “ Satow’s Handbook,” p. 192.
 
 % The word used does not mean a reigning Empress. 4 Miyake.
 
@@ -743,9 +533,7 @@ it wasrumoured that Ohotomo no Ohomuraji and Oshiyama,
 Hodzumi no Omi, Governor of the Land of Tari, had received
 bribes from Pekché.
 
-7th year, Summer, 6th month. Pékché sent General Chya-
-mi Mun-kwi and General Chyu-ri Cheung-ni along with Oshi-
-yama, Hodzumi no Omi [the Pékché “ Original Record” says,
+7th year, Summer, 6th month. Pékché sent General Chyami Mun-kwi and General Chyu-ri Cheung-ni along with Oshiyama, Hodzumi no Omi [the Pékché “ Original Record” says,
 ‘““Commissioning Lord Oshiyama”’], to bring as tribute a
 scholar of the five classics named Tan Yang-ni. They
 separately addressed the Emperor, saying :—‘‘The land of
@@ -756,8 +544,7 @@ its original jurisdiction.”
 Autumn, 8th month, 26th day. Syun-ta, the eldest son of
 the King of Pékché, died.’
 
-gth month. The Imperial Prince Magari no Ohine in per-
-son" betrothed to himself the Imperial Princess Kasuga.
+gth month. The Imperial Prince Magari no Ohine in person" betrothed to himself the Imperial Princess Kasuga.
 Thereupon all through the moonlit night they held sweet con-
 
 Ojin Tenno.
@@ -774,7 +561,7 @@ I-mun, as the inhabitants were in constant strife with Silla. I-mun was a
 district on the north-east frontier of Imna.
 
 
-> The “ Tongkam” says nothing of this.
+) The “ Tongkam” says nothing of this.
 6 i.e. without a middle-man. She was Ninken’s daughter.
 
 
@@ -839,7 +626,7 @@ was used for that purpose.
 
 4 Lit. younger sister, which was used much like our “ my dear.”
 
-> The interpretation of this line is very doubtful.  -
+) The interpretation of this line is very doubtful.  -
 
 
 KEIDAT. - 11
@@ -892,8 +679,7 @@ But would come up and lament.
 Winter, 11th month, 5th day. General Chya-mi Mun-kwi
 of Pekché, Mun-ték-chi of Silla, Sin-i-hyé and Pun-pha-wi-sa
 of Ara and Kwi-chon-hyé and Chyung-mun-chi of Pan-phi were
-sent for to attend Court in a body, and received communica-
-tion of a gracious Imperial order, giving I-mun and Teé-sa to
+sent for to attend Court in a body, and received communication of a gracious Imperial order, giving I-mun and Teé-sa to
 the Land of Pekché.
 
 In this month the Land of Pan-phi sent Cheup-chi with
@@ -928,9 +714,6 @@ SVIL. as
 A.D. 514.
 
 
-12 NIHONGI.
-
-
 presents of rare and valuable objects, asking for the Land of
 I-mun. Eventually it was refused them.
 
@@ -941,8 +724,7 @@ have been wary and fearful. For a while the Empire has been
 at peace; within the seas there has been serenity and calm.
 Years of abundance have been frequent, redounding to the
 prosperity of the Land. Admirable! Maroko,' thou hast
-made known our sentiments to the eight quarters. Magnifi-
-cent! Magari no Ohine! thou hast cast a lustre on our
+made known our sentiments to the eight quarters. Magnificent! Magari no Ohine! thou hast cast a lustre on our
 authority amongst all countries. Japan” is harmonious, and
 each man may do as he pleases in the Empire. Akitsu is
 glorified, and the Royal territory raised to high honour. Thou
@@ -956,16 +738,14 @@ deficiencies.” :
 
 8th year, mst month. The eldest Prince’s Consort, the
 Imperial Princess Kasuga, was late in coming out one morning,
-and was not in her ordinary state. The eldest Prince’s sus-
-picions were aroused. He went into the Palace, and found
+and was not in her ordinary state. The eldest Prince’s suspicions were aroused. He went into the Palace, and found
 his Consort lying on her couch weeping and sobbing. Her
 passion was such that she could not control it. The eldest
 Prince, thinking it strange, inquired of her, saying :—‘* What
 cause of grief hast thou, that thou sobbest and weepest this
 morning ?”’ His Consort said :—‘‘ Thy handmaiden’s sorrow
 hath no other cause but this. The heaven-soaring birds, in
-order lovingly to nurture their young, build nests on the tree-
-tops, so deep is their affection for them. The creeping things
+order lovingly to nurture their young, build nests on the treetops, so deep is their affection for them. The creeping things
 that crawl upon the ground, in order to guard their offspring,
 make holes in the ground, so careful is their guardianship of
 them. How then should mankind be wanting in foresight ?
@@ -992,8 +772,7 @@ a consolatory response. Let her be granted the granary’
 of Saho, to bear her name for ten thousand generations.”
 
 3rd month. Panphi built castles at Cha-than*® and Te-sa,
-thus bringing itself in line with Manhyé. They also estab-
-lished beacon-towers, as a defensive measure against Japan.
+thus bringing itself in line with Manhyé. They also established beacon-towers, as a defensive measure against Japan.
 Moreover, they built castles at Ni-nydl-pi and Masupi, and so
 connected with Ma-cho-hyé and Chhyu-pu; they brought
 together troops and weapons, wherewith they harassed Silla,
@@ -1022,8 +801,7 @@ Summer,: 4th month. Mononobe no Muraji remained at
 anchor in the estuary of Te-sa.
 
 
-1 [ should like to find some authority for omitting “our son ” and trans-
-lating ‘maro-ko thus. See above, Vol. I. p. 264, where maro ga chi is
+1 [ should like to find some authority for omitting “our son ” and translating ‘maro-ko thus. See above, Vol. I. p. 264, where maro ga chi is
 rendered “our father.”
 
 2 Miyake.
@@ -1031,16 +809,10 @@ rendered “our father.”
 sf tr. See below, XVII. 18, where EF) # (Kwithan) is probably this
 place, one of the two being a mistake.
 
-4 i.e. the father.” > Sand-island.
-
-
-XVII. 16
+4 i.e. the father.” ) Sand-island.
 
 
 A.D. 515.
-
-
-XVII. 17.
 
 
 A.D. 516.
@@ -1052,9 +824,6 @@ A.D. 518
 A.D. 523.
 
 
-14 NIHONGI.
-
-
 6th day. The Pan-phi people raised an army and came to
 attack them. They stripped them of their clothing, plundered
 them of their property, and burnt all their tents.'. Mononobe
@@ -1063,16 +832,14 @@ saving their lives with difficulty. They anchored at Mun-mo-ra
 [the name of an island].
 
 roth year, Summer, 5th month. Pekché sent Mok-hidp, of
-the former division,’ and the Pu-ma* Kap-he to entertain Mono-
-nobe no Muraji and his men at I-mun, and to escort them into
+the former division,’ and the Pu-ma* Kap-he to entertain Mononobe no Muraji and his men at I-mun, and to escort them into
 that country. All the (Pekché) officials brought forth clothing,
 axe-iron, and woven stuffs, assisting them by presents of their
 national products, which they piled up in the court. Kind
 visits of inquiry were made to them, and unusually abundant
 presents were bestowed on them.
 
-Autumn, gth month. Pekché sent General Chyuri Cheuk-
-chha,* along with Mononobe no Muraji, to come and give
+Autumn, gth month. Pekché sent General Chyuri Cheukchha,* along with Mononobe no Muraji, to come and give
 thanks for the grant of the territory of I-mun. They also
 offered tribute of a scholar acquainted with the five classics,
 named Ko An-mu, of Han,* and asked that he should be
@@ -1102,7 +869,7 @@ or Officials of the former division,
 ‘4 Probably the person called Cheung ni above, XVII. 11, the difference
 being owing to a copyist’s error.
 
-®> The Chinese dynasty of that name. It seems here to form part of the
+®) The Chinese dynasty of that name. It seems here to form part of the
 name. Ff
 , * See above XV, 12. 7 In Yamashiro.
 
@@ -1147,8 +914,7 @@ he blocked the way for Kena no Omi’s army which was being
 sent to Imna. He lifted up his voice in abusive language,
 
 
-saying :—‘“ Thou who hast now become an envoy wast for-
-merly my companion. We rubbed shoulders and touched
+saying :—‘“ Thou who hast now become an envoy wast formerly my companion. We rubbed shoulders and touched
 
 
 elbows; we ate the same food from the same vessels. How
@@ -1169,8 +935,7 @@ For this reason Kena no Omi was prevented midways from
 proceeding on his journey, and was detained. The Emperor
 
 
-addressed Kanamura, Ohotomo no Ohomuraji, Arakahi, Mono-
-nobe no Ohomuraji, and Wobito, Kose no Oho-omi, saying :—
+addressed Kanamura, Ohotomo no Ohomuraji, Arakahi, Mononobe no Ohomuraji, and Wobito, Kose no Oho-omi, saying :—
 
 
 ““Thawi of Tsukushi has rebelled, and has occupied the terri-
@@ -1199,7 +964,6 @@ Arakahi.”” The Emperor said :—“ Be it so.”
 
 A.D. 524.
 A.D. 526
-XVII. 18
 
 
 A.D. 527.
@@ -1212,9 +976,6 @@ MOVIL: 20;
 
 
 AGS eG 2 Os
-
-
-16 NIHONGI.
 
 
 Autumn, 8th month, rst day. The Emperor made a decree,
@@ -1245,16 +1006,14 @@ himself. In attack he is like the bursting forth of a river, in
 combat he resembles the rising of the storm.” Again he
 charged him, saying :—‘‘Ona great commander depends the
 lives of the people and the existence of the State. Be earnest,
-and reverently execute the Celestial punishment.” The Em-
-peror took up the battle-axe* in his own hands, and delivered it
+and reverently execute the Celestial punishment.” The Emperor took up the battle-axe* in his own hands, and delivered it
 to the Ohomuraji, saying :—‘‘ We will control the country
 from Anato eastward; do thou hold sway over the land from
 Tsukushi westwards. Dispense rewards and punishments
 absolutely, and trouble not thyself to make frequent reference
 LOues.”7
 
-22nd year, Winter, 11th month, 11th day. The Commander-
-in-chief Arakahi, Mononobe no Ohomuraji, taking personal
+22nd year, Winter, 11th month, 11th day. The Commanderin-chief Arakahi, Mononobe no Ohomuraji, taking personal
 command, engaged battle with the rebel leader, [hawi, in the
 district of Miwi in Tsukushi. The flags and drums approached
 close to each other, the dust (from both armies) became
@@ -1280,8 +1039,7 @@ the frontier land.'
 in his father’s execution, offered to the Emperor the Granary?
 of Kasuya, asking to be allowed to ransom his life.
 
-23rd year, Spring, 3rd month. The King of Pékché ad-
-dressed Oshiyama, Hodzumi no Omi, Governor of Lower art,
+23rd year, Spring, 3rd month. The King of Pékché addressed Oshiyama, Hodzumi no Omi, Governor of Lower art,
 saying :—“‘ Now our tribute envoys have always to avoid the
 headlands and expose themselves to the winds and waves. In
 
@@ -1297,16 +1055,11 @@ the Emperor accordingly.
 This month Kasone, Mononobe no Ise no Muraji, Kishi no
 Okina,* and others were sent to make over the Port to the
 King of Pekché. Hereupon the King of Kara spoke to the
-Imperial Envoys, saying :—-“‘ This Port ever since the esta-
-blishment of the (Japanese) Government House has been the
-port of passage for your servant’s tribute. How can you with-
+Imperial Envoys, saying :—-“‘ This Port ever since the establishment of the (Japanese) Government House has been the
+port of passage for your servant’s tribute. How can you without grave reason change this state of things and grant it to a
 
 
-out grave reason change this state of things and grant it to a
-
-
-neighbouring country, contrary to the original definitive en-
-feoffment of this territory?” The Imperial Envoy Kasone and
+neighbouring country, contrary to the original definitive enfeoffment of this territory?” The Imperial Envoy Kasone and
 his colleagues were accordingly unable to make the grant
 
 
@@ -1340,12 +1093,6 @@ Valle os
 
 
 A.D. 529.
-
-
-XVII. 22.
-
-
-18 NIHONGI.
 
 
 openly. They retired to Ohoshima and sent a clerk specially,
@@ -1404,10 +1151,8 @@ Kien, I imagine, is kheun, great, and mulais for mura. See below, XVII. 24.
 
 Kara’ and Tok-sa-than. Pekché sent the Lord-General
 Yun-kwi Ma-na, Kap-pe Ma-ro and others to Ara respectfully
-to hear the Emperor’s-decree. Silla, fearing lest the Govern-
-ment which he had established in the frontier provinces should
-be destroyed, did not senda grandee. He only sent Pu-chi-
-na-ma-nyé and Hyé-na-ma-nyé to Ara respectfully to listen to
+to hear the Emperor’s-decree. Silla, fearing lest the Government which he had established in the frontier provinces should
+be destroyed, did not senda grandee. He only sent Pu-china-ma-nyé and Hyé-na-ma-nyé to Ara respectfully to listen to
 the Imperial decree. Hereupon Ara built ‘a new High-Hall,
 into which the Imperial Ambassador was led up, the ruler of
 the country ascending the staircase behind him. One or two
@@ -1418,8 +1163,7 @@ the Hall above, until the Lord-General and the others grew
 angry at having to remain in the Courtyard.
 
 Summer, 4th month, 7th day. Kwi-neung-ma-ta* Kanki,
-King of Imna,* came to Court. [Kwi-neung-ma-ta was doubt-
-less the Arasiteung.]| He addressed Kanamura, Ohotomo no
+King of Imna,* came to Court. [Kwi-neung-ma-ta was doubtless the Arasiteung.]| He addressed Kanamura, Ohotomo no
 Ohomuraji, saying :—‘‘ The several frontier provinces beyond
 the sea, ever since the time of the Emperor in the womb, have
 had Interior Government Houses placed in them. My land
@@ -1428,10 +1172,7 @@ to me, not without good reason. But now Silla, in defiance of
 this original definitive enfeoffment, has frequently crossed the
 borders and invaded us. I pray, therefore, that thou wilt
 represent this to the Emperor, so that he may come to the
-assistance of his servant’s country.’ The Ohomuraji, Oho-
-
-
-tomo, in accordance with his request, laid the matter before .
+assistance of his servant’s country.’ The Ohomuraji, Ohotomo, in accordance with his request, laid the matter before .
 
 
 the Emperor.
@@ -1452,21 +1193,12 @@ Hereupon Kena no Omi lodged at Kumanare’ [one book
 not that of the King of Kara at this time. He may have been only a
 prince.
 
-°> Or Eung-chén, i.e. Bear-river. See Vol. I. pp. 232; 368.
+°) Or Eung-chén, i.e. Bear-river. See Vol. I. pp. 232; 368.
 
 CZ
 
 
 XVIL. 23.
-
-
-XVII. 24.
-
-
-XVII. 25.
-
-
-20 NIHONGI.
 
 
 says he lodged at Kusi-mura in Imna], whither he summoned
@@ -1483,17 +1215,14 @@ great tree; to the end of a small tree, you join a small
 tree.’| Why do the kings of the two countries send envoys in
 this disrespectful way instead of coming in person to the
 meeting and receiving the Emperor’s commands? But now,
-even if your kings came themselves to hear the Imperial com-
-mands, I would not consent to deliver them, but would surely
-drive them away.’ Ku-chi-pu-nyé and the Eunsol Mi-teung-
-ni, with dread in their hearts, returned each to his own country
+even if your kings came themselves to hear the Imperial commands, I would not consent to deliver them, but would surely
+drive them away.’ Ku-chi-pu-nyé and the Eunsol Mi-teungni, with dread in their hearts, returned each to his own country
 to call his king. Accordingly, Silla sent another envoy, the
 Chief Minister, I-cheul-pu-nyé-chi Kanki, with a following of
 three thousand men, to come and ask leave to hear the Imperial
 commands. Kena no Omi, seeing from afar that he was being
 encompassed by several thousand armed men, left Kumanare.
-and entered the castle of Kwi-cheul-kwi-ri* in Imna._ I-cheul-
-pu-nyé-chi Kanki took up his lodging on the plain of Tatara,
+and entered the castle of Kwi-cheul-kwi-ri* in Imna._ I-cheulpu-nyé-chi Kanki took up his lodging on the plain of Tatara,
 and, not daring to go back, waited for three months, requesting
 leave repeatedly to hear the Imperial message. But to the last
 its communication was not vouchsafed him. Some men under
@@ -1528,8 +1257,7 @@ you still refuse to communicate it, and harass the envoys who
 have been sent to listen to the Imperial message. Hence, we
 see that your object is to befool and put to death the Chief
 Minister.” So they reported to the Chief Minister all that
-they had seen, and he thereupon seized four villages, Keum-
-kwan,' Hé-mu, A-ta, and Wi-tha [one book says Tatara,
+they had seen, and he thereupon seized four villages, Keumkwan,' Hé-mu, A-ta, and Wi-tha [one book says Tatara,
 Sunara, A-ta, and Pi-chi were the four villages! , took possession
 of all the people and their goods, and withdrew to his own
 country. Some said that it was the fault of Kena no Omi that
@@ -1543,8 +1271,7 @@ King Mimaki,’ all (the sovereigns) put their trust in learned
 Ministers and enlightened assistants. Therefore Michi’ no
 Omi propounded the policy, and divine Japan” flourished.
 Ohohiko enounced plans, and Inihe® was exalted. Among those
-Princes of succeeding generations who were successful in re-
-establishing what had fallen into decay, what one has there
+Princes of succeeding generations who were successful in reestablishing what had fallen into decay, what one has there
 ever been who did not rely upon wise counsels ? Now, coming
 down to the time when the Emperor Wohatsuse ruled the
 Empire, auspiciously receiving it over from the previous sages,
@@ -1568,7 +1295,7 @@ called a King =E, and the other an Emperor We.
 
 4 Michi means “ path,” “moral principle.” Vzde Vol. I. p. 117.
 
-> Or Yamato.
+) Or Yamato.
 
 $ i.e. Sujin Tenn, says the “ Tsu-sho” commentary.
 
@@ -1576,21 +1303,11 @@ $ i.e. Sujin Tenn, says the “ Tsu-sho” commentary.
 A.D. 530.
 
 
-XVII. 26.
-
-
-XVII. 27.
-
-
-22 NIHONGI.
-
-
 During the twenty-four years which have elapsed since we
 took over the Imperial office, the Empire has enjoyed prosperity,
 and there have been no anxieties at home or abroad. The
 veins of the earth have been fertile and the crops have reached
-maturity. Our secret fear is that the masses may in conse-
-quence of this acquire a habit, and that depending on it they
+maturity. Our secret fear is that the masses may in consequence of this acquire a habit, and that depending on it they
 may become proud. Therefore let men be made to practise
 honest thrift, and let the Great Morality be inculcated, so that a
 mighty progress may be diffused abroad. From of old it has
@@ -1598,8 +1315,7 @@ been hard to appoint the right men to office. Now that this
 duty has devolved upon Ourselves, ought we not to be
 watchful ? ”
 
-Autumn, gth month. An envoy from Imna made represen-
-tation to the Emperor, saying :—‘‘ It is now two years since
+Autumn, gth month. An envoy from Imna made representation to the Emperor, saying :—‘‘ It is now two years since
 Kena no Omi proceeded to Kusamura, where he built a house
 and took up his residence.
 
@@ -1632,7 +1348,7 @@ to the capital before carrying out the Imperial instructions, his.
 toil of travel would come to nothing. How should he get over
 
 
-' The progeny of mixed unions. > i.e. Corean or Kara children.
+' The progeny of mixed unions. ) i.e. Corean or Kara children.
 
 
 os
@@ -1661,8 +1377,7 @@ in their hearts a spirit of revolt was begotten. So he*sent XVII. 28.
 Kunyésakwimo to Silla to ask for troops, and Nosukuri to Pékché
 to ask for troops. Kena no Omi, hearing of the arrival of the
 Peékche forces, went out against them and attacked Pé-phyéng.
-| Pé-phyong is the name of a place—also called Ung-pi-kwi-pu-
-ri.’] Half were killed or wounded. Pékché accordingly seized
+| Pé-phyong is the name of a place—also called Ung-pi-kwi-puri.’] Half were killed or wounded. Pékché accordingly seized
 Nosukuri, punished him with handcuffs, and put him in the
 cangue and chains. Then, along with Silla they laid siege to
 the castle, and demanded of the Arisateung with imprecations
@@ -1673,15 +1388,14 @@ two countries measured out a suitable piece of ground, where
 they settled down for a month and built a castle. They then
 retired. This castle was called Kunyé mura. On their way
 home they captured the five fortified places of Teung-ni-ki-—
-mura, Puna-mura, Mu-cha-ki-mura, A-pu-ra-mura, and Ku-chi-
-pha-ta-ki.°
+mura, Puna-mura, Mu-cha-ki-mura, A-pu-ra-mura, and Ku-chipha-ta-ki.°
 
 Winter, roth month. Mitsugi no Kishi arrived from Imna
 
 
 1 Mitsugi means tribute or taxes. Kishi is a title, originally Corean.
 
-? Mitsugi no Kishi’s. > The Arisdteung.
+? Mitsugi no Kishi’s. ) The Arisdteung.
 
 + Perhaps the last three syllables are meant for the Corean word Ko-eul,
 a district, the Japanese kéri. The first syllable Ung means bear.
@@ -1693,13 +1407,7 @@ for village, and the names too are probably Japanese, viz. Toriki-mura,
 Funa-mura, Mushiki-mura, Abura-mura, and Kuchihataki.
 
 
-XVII. 29.
-
-
 ADs: § 31+
-
-
-24 NIHONGI.
 
 
 and informed the Emperor of Kena no Omi’s arrogant and
@@ -1767,7 +1475,7 @@ there is an allusion to the adjective Medzurashiki, “strange, rare.” The
 song expresses the satisfaction of the people of Kena no Omi’s household in
 having Medzurako set over them instead of their own master.
 
-> The “ Kojiki” has forty-three, no doubt wrongly.
+) The “ Kojiki” has forty-three, no doubt wrongly.
 
 
 OOO ea a aalllllil
@@ -1780,8 +1488,7 @@ Winter, 12th month, 5th day. He was buried in the
 misasagi on the Awi plain.’
 
 A certain book says :—‘‘ The Emperor died in the 28th
-year of his reign, namely the year Kinoye Tora. The state-
-ment in the text that he died in the 25th year of his reign,
+year of his reign, namely the year Kinoye Tora. The statement in the text that he died in the 25th year of his reign,
 viz. the year Kanoto I, is taken from a passage in the
 ‘Original Record’ of Pékché. This passage runs as
 follows: ‘In the year Kanoto I of the Cycle, the 3rd
@@ -1789,8 +1496,7 @@ month, an army advanced to Ara and constructed the
 fortified place of Kwi-tok. In this month Koryé slew
 their king An. It is said, moreover, that the Emperor of
 Japan with the Prince Imperial died at the same time and
-were buried.’ This was the authority on which the state-
-ment was made. The year Kanoto I corresponds to the
+were buried.’ This was the authority on which the statement was made. The year Kanoto I corresponds to the
 25th year of the reign. Later inquirers may ascertain
 which is correct.” ?
 
@@ -1798,7 +1504,7 @@ which is correct.” ?
 ‘ In Settsu. This misasagi is visible from the railway, on the left as one
 goes from Osaka to Kioto.
 
-> The uncertainty about this date shows how imperfect the chronological
+) The uncertainty about this date shows how imperfect the chronological
 xecords must have been even at this late period.
 
 There is this difficulty about making Keidai die in the 28th year of his
@@ -1868,7 +1574,7 @@ not easy to understand and appreciate.
 * The 25th year of Keidai’s reign is A.D. 531. Ankan succeeds him at
 once, yet his Ist year is A.D. 534. See above, p. 25.
 
-> i.e. the Kanahashi Palace. 6 Ninken Tenn,
+) i.e. the Kanahashi Palace. 6 Ninken Tenn,
 
 7 This was only a formal installation. The real marriage took place in the
 7th year of Keidai’s reign.
@@ -1878,12 +1584,10 @@ ANKAN. ao
 
 
 Akami]. There were, besides, three consorts appointed, viz.,
-Satehime, daughter of Kose no Wobito no Oho-omi, Sate-
-hime’s younger sister, Kagarihime, and: Yakahime, daughter
+Satehime, daughter of Kose no Wobito no Oho-omi, Satehime’s younger sister, Kagarihime, and: Yakahime, daughter
 of Mononobe no Itahi no Ohomuraji.
 
-Summer, 4th month, rst day. The High Steward, Oho-
-maro Kashihade no Omi,’ by command of the Emperor, sent a
+Summer, 4th month, rst day. The High Steward, Ohomaro Kashihade no Omi,’ by command of the Emperor, sent a
 messenger to Ishimi’ to get pearls. The Kuni no Miyakko of
 Ishimi delayed coming to the capital, and the time passed
 without their delivering them. Ohomaro Kashihade no Omi
@@ -1906,18 +1610,17 @@ province of Kadzusa.
 1 Kashihade no Omi means “steward minister,” so that here the name
 and the office coincided, as they frequently did at this time.
 
-> In Kadzusa.
+) In Kadzusa.
 
 3 i.e. the Empresses’ apartments.
 
 * Without warning or introduction.
 
-®> The Miyake are frequently mentioned below. The word is defined in
+®) The Miyake are frequently mentioned below. The word is defined in
 Yamada’s Dictionary as follows ;—‘‘ Mi means august; yake, house. . The
 Miyake were granaries, in which was stored the rice which the peasants
 were made to cultivate on lands belonging to the government in the various
-provinces. The term was also applied to the government buildings belong-
-ing to them.”
+provinces. The term was also applied to the government buildings belonging to them.”
 
 This word is written in two ways in Chinese. One rendering means
 store-house or granary, the other government house. The Miyake has two
@@ -1935,9 +1638,6 @@ XVIII. 3.
 VEL. 4.
 
 
-28 NIHONGI.
-
-
 sth month. Pékché sent the Ha-pu Syu-ték, Tyok Tok-son,
 and the Syang-pu' To-t6k, Kwi Chyukwiru, to come and render
 the Imperial tribute, and separately to present a memorial.
@@ -1953,24 +1653,21 @@ inner, are quite distinct. Moreover let there be assigned a
 tract of Miyake land from (the revenues of) which to erect
 a Pepper’ Court, so that after generations may hand down
 its memory.” Imperial Commissioners were accordingly
-appointed to select good rice-land. The Imperial Com-
-missioners, having received this charge, addressed Ajihari
+appointed to select good rice-land. The Imperial Commissioners, having received this charge, addressed Ajihari
 [otherwise called Satohi], Ohoshi Kahachi no Atahe, saying :—
 ‘* Thou shouldst now offer to the Emperor the fat rice-land of
 Kiji.” Ajihari conceived a sudden grudging, and deceived
 the Imperial Commissioners, saying :—‘‘ This rice-land is
 subject to drought, and hard to irrigate. The surface water
 percolates readily, so that the expenditure of labour would be
-enormous, and the harvest very small.” The Imperial Com-
-missioners, in accordance with these words, made their report
+enormous, and the harvest very small.” The Imperial Commissioners, in accordance with these words, made their report
 to the Emperor without reserve.
 
 Winter, roth month, r5th day. The Emperor commanded
 Kanamura, Ohotomo no Ohomuraji, saying :—‘‘ Although we
 have taken to us four wives there has been up till now no heir.
 When ten thousand years have passed,’ Our name will be extinct.
-What dost thou propose should now be done, Our uncle * of Oho-
-tomo? Whenever we think ofthis, Our anxiety knows no rest.”
+What dost thou propose should now be done, Our uncle * of Ohotomo? Whenever we think ofthis, Our anxiety knows no rest.”
 
 Kanamura, Ohotomo no Muraji, addressed the Emperor,
 saying :—‘‘ This is also a subject of anxiety to thy servant. It
@@ -1997,8 +1694,7 @@ ANKAN. 29
 
 by which they should have a name. I pray, therefore, that on
 behalf of the Empress and thy other consorts Miyake lands
-may be established, and made to remain unto future genera-
-tions, so that relics of the past may be manifested.”
+may be established, and made to remain unto future generations, so that relics of the past may be manifested.”
 
 The Emperor commanded, saying :—“‘ Be it so; let them be
 speedily established.” Kanamura, Ohotomo no Ohomuraji,
@@ -2009,19 +1705,16 @@ the Miyake of Chinuyama”] with serfs from every province
 should be granted to Kagarihime, and that the Miyake of
 Naniha with spade-labourers from every district should be
 granted to Yakahime as an indication to posterity, and an
-example by which to view the past. The Emperor com-
-manded, saying :—‘*‘ Let it be done as proposed.”
+example by which to view the past. The Emperor commanded, saying :—‘*‘ Let it be done as proposed.”
 
 Intercalary 12th month, 4th day. The Emperor made a
 progress to Mishima. Kanamura, Ohotomo no Ohomuraji,
 was in attendance.
 
-The Emperor, through Ohotomo no Ohomuraji, made in-
-quiry as to good rice-land of the Agata-nushi? Ihi-bo. The
+The Emperor, through Ohotomo no Ohomuraji, made inquiry as to good rice-land of the Agata-nushi? Ihi-bo. The
 Agata-nushi Ihi-bo was delighted beyond measure, and with
 the utmost reverence and loyalty offered as a present Upper
-Mino and Lower Mino, Upper Kuhabara and Lower Kuha-
-bara, as well as land in Takefu, 40 cho in all. Ohotomo no
+Mino and Lower Mino, Upper Kuhabara and Lower Kuhabara, as well as land in Takefu, 40 cho in all. Ohotomo no
 Ohomuraji, by command of the Emperor, addressed him,’
 saying :—‘‘ Of the entire surface of the soil, there is no part
 which is not a Royal grant in fee; under the wide Heavens
@@ -2039,17 +1732,13 @@ of the land, pervading everywhere without a limit. Above they
 
 ? District-lord. 3 i.e. Ajihari.
 
-4 From this point to the end of the paragraph is taken from the monu-
-ment of a personage named YJ He’ =E, of the Liang Dynasty of China.
+4 From this point to the end of the paragraph is taken from the monument of a personage named YJ He’ =E, of the Liang Dynasty of China.
 
 
 XVIII. 5.
 
 
-NOVELL: <6.
-
-
-30 NIHONGI.
+NOVELL: (6.
 
 
 were the crown of the nine heavens: they passed abroad
@@ -2071,8 +1760,7 @@ lasting regret. Prostrating himself on the ground, with the
 perspiration streaming from him, he addressed the Ohomuraji,
 saying :—‘‘I am an ignorant subject, and my crime deserves
 ten thousand deaths. I pray humbly that I may be allowed
-to furnish from each district in spring-time five hundred spade-
-labourers, and in the time of autumn five hundred, for the
+to furnish from each district in spring-time five hundred spadelabourers, and in the time of autumn five hundred, for the
 Emperor’s service. My descendants to all ages will pray for
 their lives in dependence on this,* and they will keep it before
 them for ever as an exemplary punishment.” He separately
@@ -2118,8 +1806,7 @@ The Kuni no Miyakko of the province of Musashi, Omi,
 Kasahara no Atahe, had a dispute with a relation named Wogi
 as to who should be Kuni no Miyakko. This went on for
 years and could not be settled. Wogi was of an obstructive
-and rebellious disposition ; he had a high spirit, unapt for com-
-pliance. He secretly sought support from Wokuma, the Kuni
+and rebellious disposition ; he had a high spirit, unapt for compliance. He secretly sought support from Wokuma, the Kuni
 of Kamitsukenu,’ and conspired with him to kill Omi. Omi
 became aware of this, and made his escape to the capital,
 where he informed the Court. When the matter came to be
@@ -2137,8 +1824,7 @@ a decree, saying :—“‘ Of late, for several successive years, the
 the people take pleasure in their husbandry: my black-headed
 subjects of every calling are free from famine: benign influences
 extend agreeably over the universe: cries of admiration fill
-Heaven and Earth: within and without serenity is every-
-where diffused: the commonwealth is flourishing: Our joy is
+Heaven and Earth: within and without serenity is everywhere diffused: the commonwealth is flourishing: Our joy is
 extreme: let there be a Great Revel for five days, to the delight
 of the Empire.”
 
@@ -2161,11 +1847,7 @@ The Yuki were archers.
 XVIII. g.
 
 
-32 NIHONGI.
-
-
-Funami and Kama in Tsukushi, the Miyake of Tosa, Kuha-
-bara, Kato, Ohonuku and Aka in the province of Toyo, the
+Funami and Kama in Tsukushi, the Miyake of Tosa, Kuhabara, Kato, Ohonuku and Aka in the province of Toyo, the
 Miyake of Kasuga be, in the province of Hi, the Miyake of
 Koshibe and Ushika in the province of Harima, the Miyake of
 Shidzuki, Tane, Kukutsu, Hawaka, and Kaha-oto, in the further
@@ -2185,10 +1867,7 @@ gth month, 3rd day. The Emperor appointed Sakurawi
 Tanabe no Muraji, Agata no Inukahi no Muraji, and Naniha no
 Kishi, to the charge of the revenues from the Miyake.
 
-13th day. The Emperor specially commanded the Oho-
-
-
-muraji, saying :—‘‘ Let cattle be let loose on Ohosumi-jima,
+13th day. The Emperor specially commanded the Ohomuraji, saying :—‘‘ Let cattle be let loose on Ohosumi-jima,
 
 
 and in the fir-plain of Hime-jima at Naniha. By this we hope
@@ -2215,11 +1894,10 @@ was being translated into practice.
 “They had probably charge of the dogs to guard the Miyake against
 thieves.”
 
-4 In 717 A.D. an order was given to discontinue the cattle-breeding estab-
-lishments of Ohosumi-jima and Hime-jima, and to allow the peasantry to
+4 In 717 A.D. an order was given to discontinue the cattle-breeding establishments of Ohosumi-jima and Hime-jima, and to allow the peasantry to
 till the land.
 
-> Or Kanzaki.
+) Or Kanzaki.
 
 
 se
@@ -2250,9 +1928,7 @@ him their allegiance.
 Ist year, Spring, ist month. The capital was transferred to
 Thorino in Hinokuma,‘ whence the palace took its name.
 
-and month, 1st day. Ohotomo no Kanamura no Oho-
-muraji and Mononobe no Arakahi no Ohomuraji were ap-
-pointed Ohomuraji, both as before. Moreover, Sogano Iname
+and month, 1st day. Ohotomo no Kanamura no Ohomuraji and Mononobe no Arakahi no Ohomuraji were appointed Ohomuraji, both as before. Moreover, Sogano Iname
 no Sukune was made Oho-omi and Abe no Ohomaro no Omi
 Daibu.
 
@@ -2269,12 +1945,11 @@ the next was called the Imperial Princess Kura no Wakaya
 hime, and the next the Imperial Prince Kamu-uye-ha [other-
 
 
-1 The elements of this Emperor’s name are literally “ valiant-small-wide-
-country-push-shield.”
+1 The elements of this Emperor’s name are literally “ valiant-small-widecountry-push-shield.”
 
 2 Senkwa means “ diffuse-civilization.” 3 The Regalia.
 
-4 In Yamato. > i.e, not a concubine 6 Stone-princess.
+4 In Yamato. ) i.e, not a concubine 6 Stone-princess.
 
 * Little-stone-princess.
 
@@ -2291,9 +1966,6 @@ XVIIL 11.
 
 
 eV QU UES Gx
-
-
-34 NIHONGI.
 
 
 wise Mariko]. He was the ancestor of the two families’ of
@@ -2323,15 +1995,13 @@ Muraji to transport grain of the Miyake of the province of
 Wohari. Let Arakahi, Mononobe no Ohomuraji send Nihinomi
 no Muraji to transport grain from the Miyake of Nihinomi.
 Let Abe no Omi send Iga no Omi to transport grain from the
-Miyake of the province of Iga. Let there be built a Govern-
-ment House at Nanotsu no Kuchi.® Moreover, the Miyake of
+Miyake of the province of Iga. Let there be built a Government House at Nanotsu no Kuchi.® Moreover, the Miyake of
 the three provinces of Tsukushi, Hi, and Toyo are dispersed
 and remote: transport is therefore impeded by distance. In
 the case of an emergency it would be difficult to provide for
 sudden needs. Let the various districts therefore be charged
 each severally to transfer (the Miyake), and to erect one jointly
-at Nanotsu no Kuchi, thus making provision against extra-
-ordinary occasions, and long preserving the lives of the people.
+at Nanotsu no Kuchi, thus making provision against extraordinary occasions, and long preserving the lives of the people.
 
 
 ' Lit. surnames. * Flame of fire.
@@ -2360,13 +2030,11 @@ This year was the year Hinoye Tatsu (53rd) of the Cycle.
 hostility towards Imna, the Emperor commanded Ohotomo no
 Kanamura no Ohomuraji to send his sons Iha and Sadehiko
 to the assistance of Imna. At this time Iha staid in Tsukushi,
-‘where he took charge of the local Government, and made pre-
-parations against the three Han.' Sadehiko went to Imnaand
+‘where he took charge of the local Government, and made preparations against the three Han.' Sadehiko went to Imnaand
 restored peace there. He also lent aid to Pékché.
 
 4th year, Spring, 2nd month, roth day. The Emperor died
-in the Palace of Ihorino in Hinokuma at the age of seventy-
-three.
+in the Palace of Ihorino in Hinokuma at the age of seventythree.
 
 Winter, 11th month, 17th day. The Emperor was buried
 in the misasagi at the top of the acclivity of Tsukijima, in
@@ -2402,8 +2070,7 @@ THE EMPEROR AME-KUNI OSHI-HIRAKI HIRO-NIHA."
 (KIMMEI*? TENNO.)
 
 
-THE Emperor Ame-kuni Oshi-hiraki Hiro-niha was the right-
-ful heir of the Emperor Wohodo. His mother’s name was
+THE Emperor Ame-kuni Oshi-hiraki Hiro-niha was the rightful heir of the Emperor Wohodo. His mother’s name was
 the Empress Tashiraka. The Emperor loved him, and kept
 him constantly at his side. When the Emperor was young
 he had a dream, in which a man appeared to him, saying :—
@@ -2416,8 +2083,7 @@ name and surname were actually as in the dream. Upon this
 joy pervaded his whole frame. ‘‘ A dream without precedent !’”
 he exclaimed, and addressed him, saying:—‘‘ Has anything
 happened thee?” He answered and said :—‘‘ Nothing. Only
-when thy servant was on his way back from Ise, whither he-
-had gone to trade, he fell in with two wolves* on a mountain,
+when thy servant was on his way back from Ise, whither hehad gone to trade, he fell in with two wolves* on a mountain,
 who were fighting with one another, and were defiled with
 blood. Thy servant got down from his horse, and, having:
 rinsed his mouth and hands, made prayer to them, saying :—
@@ -2426,17 +2092,13 @@ rinsed his mouth and hands, made prayer to them, saying :—
 
 1 Heaven-land push-open wide-court.
 
-> Kimmei. Legge renders this by “reverential, intelligent.” Vide
+) Kimmei. Legge renders this by “reverential, intelligent.” Vide
 “ Shooking,” p. 15.
 
 * “ No true wolf exists in Japan, but Canis hodophylax is a sort of lame
-counterfeit of the European beast.”—Dickins, in Satow and Hawes’ “ Hand-
-book of Japan,” p. [40]. Of the Ohokami, lit. “ Great God,” by which the
+counterfeit of the European beast.”—Dickins, in Satow and Hawes’ “ Handbook of Japan,” p. [40]. Of the Ohokami, lit. “ Great God,” by which the
 Chinese character for wolf is rendered, Dickins says, “If it exists, nothing
 is known oft to science.”
-
-
--KIMMEI. . 37
 
 
 If ye were to fall in with a hunter, very speedily ye should be
@@ -2451,8 +2113,7 @@ he appointed him to the Treasury. .
 
 In Winter, the roth month of the 4th year of his reign, the
 Emperor Takewo hiro-kuni oshi-tate died. The Imperial
-Prince, the Emperor? Ame-kuni oshi-hiraki hiro-niha, ad-
-dressed the Ministers, saying :—‘‘ I am young ® in years, and of
+Prince, the Emperor? Ame-kuni oshi-hiraki hiro-niha, addressed the Ministers, saying :—‘‘ I am young ® in years, and of
 shallow knowledge. I have not yet had experience of the
 affairs of government. The Empress Yamada has a clear
 acquaintance with all matters of administration, and I pray
@@ -2460,8 +2121,7 @@ you to apply to her and then decide.”’
 
 The Empress Yamada rendered humble thanks, saying :—
 “Your handmaiden has been treated with favour, far beyond
-seas and mountains. But the manifold machinery of govern-
-ment is much too difficult a charge fora woman to undertake
+seas and mountains. But the manifold machinery of government is much too difficult a charge fora woman to undertake
 it. Now the Imperial Prince honours age, and shows affection
 to the young. He treats the wise with courtesy, and all day
 long neglects -his food while he attends to others. Not only
@@ -2496,33 +2156,25 @@ XTX 2;
 A.D. 540.
 
 
-> Dele
-
-
-38 . NIHONGI.
+) Dele
 
 
 hiraki hiro-niha assumed the Imperial Dignity. The Empress:
 was honoured with the title of Grand Empress. Ohotomo no
 
 
-. Kanamura no Ohomuraji and Mononobe no Okoshi no Oho-
-
-
-muraji were made Ohomuraji, and Soga no Iname no Sukune
+. Kanamura no Ohomuraji and Mononobe no Okoshi no Ohomuraji were made Ohomuraji, and Soga no Iname no Sukune
 no Oho-omi was made Oho-omi, all as before.
 
 Ist year, Spring, ist month, 15th day. The officials.
 petitioned for the appointment of an Empress. The Emperor
 gave command, saying :—‘‘ Let my proper consort, Ishihime,.
-daughter of the Emperor Take-wo hiro-kuni oshi-tate,! be ap-
-pointed Empress.”
+daughter of the Emperor Take-wo hiro-kuni oshi-tate,! be appointed Empress.”
 
 She bore him two sons and one daughter. The eldest was.
 called the Imperial Prince Yata no Tama-katsu no Ohoye, the
 middle one was called Wosada Nunakura Futo-damashiki no
-Mikoto,’ the youngest was called the Imperial Princess Kasa-
-nuhi [otherwise called the Imperial Princess Satake].
+Mikoto,’ the youngest was called the Imperial Princess Kasanuhi [otherwise called the Imperial Princess Satake].
 
 2nd month. A man of Pekché named Kwi-chi-pu came
 over as an emigrant.: He was settled in Yamamura, in the
@@ -2544,8 +2196,7 @@ together, settled in the provinces and districts, and enrolled
 in the registers of population. The men of T’sin* numbered
 
 
-1 Senkwa Tenno.. She was therefore his niece, daughter of his half-
-brother by the father’s side.
+1 Senkwa Tenno.. She was therefore his niece, daughter of his halfbrother by the father’s side.
 
 2 Bindatsu Tenno.
 
@@ -2569,8 +2220,7 @@ gth month, 5th day. The Emperor made a progress to the
 shrine of Hafuritsu* at Naniha. He was accompanied by
 Kanamura, Ohotomo no Ohomuraji, Inamochi, Kose no Omi,
 and Okoshi, Mononobe no Ohomuraji. -The Emperor inquired
-of the Ministers, saying :—‘‘ How many troops would be re-
-quired:to conquer Silla?”? Okoshi, Mononobe no Ohomuraji
+of the Ministers, saying :—‘‘ How many troops would be required:to conquer Silla?”? Okoshi, Mononobe no Ohomuraji
 and the rest addressed the Emperor, saying :—‘* With only a
 few soldiers it would not be easy to chastise Silla. Formerly,
 in the sixth year of the reign of the Emperor Wohodo, Pékché
@@ -2579,18 +2229,15 @@ Upper Tari, Lower Tari, Syata and Muro might be granted to.
 him. Kanamura, Ohotomo no Ohomuraji readily agreed with
 the request contained in this petition, and granted the demand.
 In consequence of this, Silla has cherished resentment for
-many years. Its chastisement should not be lightly under-
-taken.” Now Ohotomo no Kanamura staid in his house at
+many years. Its chastisement should not be lightly undertaken.” Now Ohotomo no Kanamura staid in his house at
 Sumiyoshi,* and, on the pretence of illness, did not attend
 Court. The Emperor sent Magariko, Awomi no Ohotoshi,
 courteously to make kind inquiries. The Ohomuraji humbly
 thanked the Emperor, and said:—‘‘ That which ails me is
 nought else than this. The Ministers now say that it was I
 who lost Imna. Therefore I was afraid, and did not come to
-Court.’ So he made a present to the messenger of a saddle-
-horse, and showed him great friendliness and honour. Awomi
-no Ohotoshi made a faithful report to the Emperor, who com-
-manded, saying :—‘‘ Thou hast long shown the utmost fidelity :
+Court.’ So he made a present to the messenger of a saddlehorse, and showed him great friendliness and honour. Awomi
+no Ohotoshi made a faithful report to the Emperor, who commanded, saying :—‘‘ Thou hast long shown the utmost fidelity :
 be not moved by what people may say.” He acquitted him of
 all guilt, and showed him increasing favour.
 
@@ -2613,12 +2260,8 @@ SSeS ADVE, .p~ 7. * Or Suminoye, near Sakai.
 XIX, 6.
 
 
-40 NIHONGI.
-
-
 The statement made here that she was the Empress’s
-younger sister is clear. This is the daughter of the Em-
-peror Hinokuma no Takada.’ And yet in enumerating
+younger sister is clear. This is the daughter of the Emperor Hinokuma no Takada.’ And yet in enumerating
 the consorts the name of her consort-mother and the name
 of the Imperial Princess do not appear. I do not know
 what writing it is taken from. Some future inquirer may
@@ -2633,12 +2276,10 @@ called the Imperial Princess Ihane. [Also called the Imperial
 Princess Ime.] At first she was priestess to the great Deity
 of Ise, but was afterwards dismissed, being convicted of an
 intrigue with the Imperial Prince Mubaragi.* The third was
-called the Imperial Prince Atori. The fourth was called Toyo-
-mike Kashikiya no Mikoto.’ The fifth was called the Imperial
+called the Imperial Prince Atori. The fourth was called Toyomike Kashikiya no Mikoto.’ The fifth was called the Imperial
 Prince Mariko. The sixth was called the Imperial Princess
 Ohoyake. The seventh was called the Imperial Prince Iso no
-Kami-be. The eighth was called the Imperial Prince Yama-
-shiro. The ninth was called the Imperial Princess Ohotomo.
+Kami-be. The eighth was called the Imperial Prince Yamashiro. The ninth was called the Imperial Princess Ohotomo.
 The tenth was called the Imperial Prince Sakurawi. The
 eleventh was called the Imperial Princess Katano. The twelfth
 was called the Young Imperial Prince Tachibana ga moto. The
@@ -2678,13 +2319,11 @@ Prince Mubaragi. The second was called the Imperial
 Princess Hasetsukabe Anahobe. The third was called the
 Imperial Prince Hasetsukabe Anahobe, otherwise called
 the Imperial Prince Sumuto. The fourth was called the
-Imperial Prince Katsuraki. The fifth was called the Im-
-perial Prince Hasebe.”’ One writing says:—‘‘ The first
+Imperial Prince Katsuraki. The fifth was called the Imperial Prince Hasebe.”’ One writing says:—‘‘ The first
 was called the Imperial Prince Mubaragi.’ The second
 was called the Imperial Prince Sumuto. The third was
 called the Imperial Princess Hasetsukabe Anahobe. The
-fourth was called the Imperial Prince Hasetsukabe Ana-
-hobe, also called the Imperial Prince Amatsuka no ko.
+fourth was called the Imperial Prince Hasetsukabe Anahobe, also called the Imperial Prince Amatsuka no ko.
 The fifth was called the Imperial Prince Hasebe.” In
 the original record of the Emperors there are many old
 characters, which underwent frequent alterations in the
@@ -2720,9 +2359,6 @@ XIX. 7,
 PXOIEX. 8.
 
 
-42 NIHONGI.
-
-
 Summer, 4th month. The second Kanki! of Ara named
 
 
@@ -2732,8 +2368,7 @@ I-than-hyé, and the Té-pu-son Ku-chhyu-yu-ri, the Syang-syu-.
 wi* of Kara named Kachyén-hyé, the Kanki of Cholma named
 San-pan-hyé, the Kanki’s son, the junior Kanki of Tara named
 I-tha, Ko-tha son of the Kanki of Sa-i-ki—these Kanki, together
-with Kibi no Omi, the (Japanese) Commissioner for Imna, pro-
-ceeded to Pékché, and together heard the Imperial edict read.
+with Kibi no Omi, the (Japanese) Commissioner for Imna, proceeded to Pékché, and together heard the Imperial edict read.
 Syong-myong,* King of Pekché, addressing the Kanki of Imna
 and the others, said :—
 
@@ -2744,8 +2379,7 @@ sage purpose ?’”’ +
 
 The Kanki of Imna and the others answered and said :—
 ‘Already two or three times proposals have been made to
-Silla, but no answer has been received. Let the present inten-
-tion be again communicated to Silla, and if there is still -no
+Silla, but no answer has been received. Let the present intention be again communicated to Silla, and if there is still -no
 reply, it will now be well that all of us should send envoys to.
 go and lay the matter before the Emperor. It will then depend
 on the Great King’s will whether Imna is. to be established or
@@ -2762,8 +2396,7 @@ but here and below Kanki is no doubt the correct word.
 year, and nothing is said of the events here related.
 
 4 Notwithstanding the respectful terms in which the King of Pékché speaks.
-of the Emperor of Japan, it would be a mistake to suppose that their rela-
-tions were those of suzerainty. The King of Pékché made war without
+of the Emperor of Japan, it would be a mistake to suppose that their relations were those of suzerainty. The King of Pékché made war without
 consulting Japan, and several times during this century received investiture
 from the reigning: Chinese Dynasty, as in 528 and 570. Possibly the
 Japanese historians may have garbled the documents before them so as to
@@ -2777,9 +2410,6 @@ I am inclined to think that the word Japan in this passage has been
 introduced retrospectively. If this had been the official designation of the
 country at this time, it would in all probability have been used in the letter
 addressed to the Emperor of China in Suiko’s reign.
-
-
--KIMMEI. 43
 
 
 is conterminous with Silla, and it is to be feared that this will
@@ -2798,10 +2428,8 @@ younger brothers. It was my hope that they should flourish
 continuously. But now they have been deceived by Silla and
 have caused the Emperor to be wroth, and Imna to be angry.
 This is the fault of me, the incompetent one, for which I am
-profoundly sorry. I therefore sent Maro,* the Ha-pu Chung-
-cha-phyong, and Méno, the Syéng-pang Kap-syo, to Kara to
-meet the Imna authorities, and, having sworn together, there-
-after earnestly and perseveringly to concert measures for the
+profoundly sorry. I therefore sent Maro,* the Ha-pu Chungcha-phyong, and Méno, the Syéng-pang Kap-syo, to Kara to
+meet the Imna authorities, and, having sworn together, thereafter earnestly and perseveringly to concert measures for the
 establishment of Imna, without forgetfulness either morning or
 evening. Now the terms of the Emperor’s commands are—
 ‘Let Imna be at once established.’ I therefore wish to consult
@@ -2838,15 +2466,11 @@ DIX, (0:
 OLX. 510:
 
 
-44 NIHONGI.
-
-
 and defeated. Imna has not been able to render it assistance,
 and it has therefore suffered ruin. South Kara, being a very
 small place, was unable promptly to make defence, and knew
 not whom to rely upon. Therefore it has come to ruin. As
-to Chhak-syun, the upper and lower classes practise double-
-dealing so much so as to wish voluntarily to join Silla and to
+to Chhak-syun, the upper and lower classes practise doubledealing so much so as to wish voluntarily to join Silla and to
 hold secret communication with that object. Therefore it has
 come to ruin. Viewed in this light, the downfall of these three
 provinces had very sufficient causes.
@@ -2905,8 +2529,7 @@ countries. My affection for them passes that of flesh and
 bones.’ It was the constant prayer of me, the inept one, that
 such a fair beginning might have a fitting end. I cannot
 understand why people should lightly give credit to vague
-rumours and for a space of several years should have impul-
-sively abandoned their purpose. It may be said of such, in the
+rumours and for a space of several years should have impulsively abandoned their purpose. It may be said of such, in the
 words of the men of old, that ‘they repent when it is too late.’
 But if, as regards the present, they swear to the gods as far as
 the cloud-spaces above, and down to the region within the
@@ -2915,16 +2538,14 @@ past, revealing all that they do without the least reserve, so
 that their loyalty penetrates to the spirits, and if they take
 themselves severely to task, this may again be accepted. We
 are told that of those who stand in the position of successors,
-honour is to him who keeps well in the rut made by his pre-
-decessors, and makes the hall and roof to prosper, thereby
+honour is to him who keeps well in the rut made by his predecessors, and makes the hall and roof to prosper, thereby
 accomplishing a meritorious service.® I therefore wish to go
 back and reverence the kindly feeling of the friendship of former
 ages, and, in respectful obedience to the terms of the Emperor’s
 decree, rescue from Silla the provinces torn off by it, viz. South
 Kara, Tok-kwi-than, etc., and restoring them to their original
 connection and making them transfer to Imna their substance,
-strive to play the part to them of father or elder brother, con-
-stantly doing homage to Japan. It is this which deprives my
+strive to play the part to them of father or elder brother, constantly doing homage to Japan. It is this which deprives my
 food of flavour, and robs me of peaceful slumber, my mind
 being full of anxious thought while I regret the past and
 practise self-discipline for the present.
@@ -2946,9 +2567,6 @@ ROX rie
 
 
 NOEXG 128
-
-
-46. NIHONGI.
 
 
 in them, have already fallen a prey to the designs of others.
@@ -2997,9 +2615,6 @@ seems here a confusion between ill omens and the calamities they
 portend.
 
 
-KIMMEI. 47
-
-
 what is in the future, and then let us take repose. If you, the
 Japanese authority, in full reliance on the Imperial decree, lend
 aid to Imna, this will assuredly be attended by the Emperor’ S
@@ -3017,11 +2632,9 @@ service, and maintain a false appearance of amity with Imna.
 
 In thus stimulating to action (you) the (Japanese) authorities
 of Imna, it is my desire that before they have annexed Imna,
-and while they still maintain a feigned appearance of submis-
-siveness, you should now seize the opportunity of their being
+and while they still maintain a feigned appearance of submissiveness, you should now seize the opportunity of their being
 unprepared, and raising all your forces conquer them. The
-Imperial decree urging us to establish South Kara and Tok-
-kwi-than does not date merely from a few tens of years ago, and
+Imperial decree urging us to establish South Kara and Tokkwi-than does not date merely from a few tens of years ago, and
 yet Silla has not once listened to this order, as is well known
 to you. Now, can anything be better than, in respectful faith
 in the Emperor, to endeavour to establish Imna? I fear,
@@ -3062,9 +2675,6 @@ A.D. 543.
 
 
 XIX. 15.
-
-
-48 NIHONGI.
 
 
 Chin-mu Kwi-mun, Nasol of the Former Division, the Hotok
@@ -3117,9 +2727,6 @@ Archipelago.
 intriguing with Silla.
 
 
-KIMMEI. 49
-
-
 agents of Imna and the Kanki of the various provinces, and
 concert along with them a common policy, which should be
 laid before the Emperor in proof of thy good intentions.
@@ -3149,8 +2756,7 @@ Neither the Japanese authorities nor Imna sent their Agents,
 but sent mean persons, so that Pékché was unable to concert
 with them measures for the establishment of Imna.
 
-2nd month. Pékché sent the Si-ték, Ma-mu, the Si-ték Ko-
-pun-ok and the Si-tok, Sa-na-no-chha-chyu to Imna with the
+2nd month. Pékché sent the Si-ték, Ma-mu, the Si-ték Kopun-ok and the Si-tok, Sa-na-no-chha-chyu to Imna with the
 following message to the Japanese authorities and the Kanki of
 Imna:—‘‘ I sent Ki no Omi, the Nasol, Mi-ma-sa,' the Nasol,
 Kwi-ny6n, and Mononobe no Muraji, the Nasol, Yong-ka-ta,
@@ -3177,9 +2783,6 @@ A.D. 544.
 
 
 OEXG 7.
-
-
-50 NIHONGI.
 
 
 when he returned from Japan, communicated an Imperial
@@ -3210,9 +2813,7 @@ Pékché separately addressed Kahachi no Atahe [the
 There is here a corruption, and the correct name is unclear],
 saying :—‘‘ From former times until now I have heard of
 nothing but thy misdeeds. Thy ancestors [the ‘ Original
-Pékché Record’ has, ‘ Thy predecessor Na-han-tha-kap-pé-ka-
-nap-chik-ki-kap-pé, otherwise called Na-ka-tha-kap-pe-eung-ka-
-ki-mi.’! This is a corruption and not clear] have all fostered
+Pékché Record’ has, ‘ Thy predecessor Na-han-tha-kap-pé-kanap-chik-ki-kap-pé, otherwise called Na-ka-tha-kap-pe-eung-kaki-mi.’! This is a corruption and not clear] have all fostered
 wicked lies, and, led away by Wi-ka-ka Kimi, have placed
 implicit faith in his statements. [The Pékché ‘ Original
 Record’ has, ‘ Wi-ka Kimi’s personal name was Yupiki.’]|
@@ -3228,9 +2829,6 @@ the result that eventually the Miyake of the various provinces.
 
 
 1 Kimi is probably the Japanese word for “ lord.”
-
-
-KIMMEI. 51
 
 
 west of the sea will become unable permanently to render
@@ -3250,8 +2848,7 @@ was still undecided, it was naturally impossible to make any
 fixed arrangements for the transport of provisions. It was
 therefore my request that we should meet and consider
 together what was best to be done, and having selected the
-most advantageous course, to report to the Emperor accord-
-ingly. Therefore I sent repeated summonses to you, but since
+most advantageous course, to report to the Emperor accordingly. Therefore I sent repeated summonses to you, but since
 you steadily refused to come, it was impossible to advise with
 you.”
 
@@ -3288,9 +2885,6 @@ XIX. 18.
 XIX. 19.
 
 
-52 NIHONGI.
-
-
 Japanese authorities to meet Pékché, in order to hear the
 Emperor’s commands.’ This is why we have not gone, and
 Imna is not responsible.”
@@ -3299,36 +2893,28 @@ Hereupon the Kanki of Imna said :—‘‘ In accordance with
 the summons of thy messenger, it was our desire to proceed (to
 Pékché). But the chief Japanese authority would not allow us
 to be despatched, and that was why we did not do so. As
-for the instructions which the Great King, prompted by his feel-
-ings, has addressed to us, with the object of establishing Imna,
+for the instructions which the Great King, prompted by his feelings, has addressed to us, with the object of establishing Imna,
 it is impossible for us adequately to express our joy at seeing
 them.”
 
 3rd month. Pékché sent the Nasol, A-mang-teung-mun,
-Kama, the Nasol of Ho-syé,’ and Kapi, the Nasol of Mono-
-nobe, to present a memorial to the Emperor, as follows :—
+Kama, the Nasol of Ho-syé,’ and Kapi, the Nasol of Mononobe, to present a memorial to the Emperor, as follows :—
 
-‘‘The Nasol, Mi-ma-sa, the Nasol, Kwi-ny6n, and their col-
-leagues came to thy servant’s frontier state bearing an Imperial
+‘‘The Nasol, Mi-ma-sa, the Nasol, Kwi-ny6n, and their colleagues came to thy servant’s frontier state bearing an Imperial
 decree, which said :—‘ You should concert a good plan along
-with the Japanese authorities resident there, and speedily estab-
-lish Imna. Be on your guard, and do not allow yourselves to
+with the Japanese authorities resident there, and speedily establish Imna. Be on your guard, and do not allow yourselves to
 be deceived by others.’ Moreover Tsumori no Muraji and his
 colleagues came to thy servant’s frontier state, bearing an
-Imperial message in which inquiry was made as to the estab-
-lishment of Imna. I received the Imperial command with
+Imperial message in which inquiry was made as to the establishment of Imna. I received the Imperial command with
 reverence, and without presuming to delay, desired to concert
 measures along with them. I therefore sent messengers to
-summon the Japanese authorities [the Pékché ‘ Original Re-
-cord’ has, ‘Sent to summon Wi-ho-phi no Omi.’ This is, per-
-haps, Iku-ba no Omi] and Imna. They all answered and said:
+summon the Japanese authorities [the Pékché ‘ Original Record’ has, ‘Sent to summon Wi-ho-phi no Omi.’ This is, perhaps, Iku-ba no Omi] and Imna. They all answered and said:
 —‘ The new year hascome. Please let it pass, and then we will
 go.’ A long time elapsed, and yet they did not arrive. I again
 sent messengers to summon them. They all answered and
 said :—‘ The festival time has come. Please let it pass, and
 then we will go.’ A long time elapsed, and yet they did not
-arrive. I again sent messengers to summon them. But inas-
-much as they sent mean men, it was impossible to concert plans.
+arrive. I again sent messengers to summon them. But inasmuch as they sent mean men, it was impossible to concert plans.
 Now Imna’s failure to come in answer to my summons was not
 
 
@@ -3336,9 +2922,6 @@ Now Imna’s failure to come in answer to my summons was not
 Mononobe is Japanese. The frequency with which Japanese names occur in |
 the names of Pékché officials is significant of the influence exercised by
 Japan in the peninsula at this period.
-
-
-7
 
 
 KIMMEI. : ie
@@ -3354,8 +2937,7 @@ guided by its wishes. [The Pékché ‘Original Record’ has,
 the origin.] Now Ikuba no Omi, Kibi no Omi, and Kahachi
 no Atahe are all simply at the beck and nod of Yanasa and
 Mato. Yanasa and Mato are only mean persons of no family,
-yet they exercise absolute authority over the Japanese adminis-
-tration. Moreover they restrain Imna and prevent it from
+yet they exercise absolute authority over the Japanese administration. Moreover they restrain Imna and prevent it from
 sending envoys. For these reasons I was unable to concert
 measures with them and make answer to Your Majesty. I
 therefore detained Kwi-ma-nu-ki [probably Tsumori no Muraji|
@@ -3377,8 +2959,7 @@ Kahachi no Atahe] went to Silla. Formerly, when In-chi-mi
 (not clear) and the Kanki of Aro were in office, that country
 was harassed by Silla, and the people were unable to attend
 to their husbandry. Peékché is so far distant that it was unable
-to help them in their need. Ikuba no Omi and the others there-
-fore went to Silla, and just obtained leave for them to plough
+to help them in their need. Ikuba no Omi and the others therefore went to Silla, and just obtained leave for them to plough
 and sow. Is it necessary to repeat what We have already told
 thee, viz., that if Imna is established, Yanasa and Mato will
 withdraw of their own accord.’
@@ -3394,9 +2975,6 @@ XIX. 20.
 XX. 21,
 
 
-54 NIHONGI.
-
-
 I received Your Majesty’s Commands with humility. Joy
 and dread mingled in my bosom. Silla, however, was deceiving
 the Imperial Court, and knew how to set at naught the Imperial
@@ -3404,21 +2982,17 @@ Commands. In spring, Silla seized Chhak-syun, and having
 expelled my guards of Mount Kunyé, at length kept possession
 of it. The part bordering on Ara was cultivated by Ara; the
 part bordering on Mount Kunyé was cultivated by Silla. Each
-cultivated for themselves, and there was no mutual encroach-
-ment. But Yanasa and Mato passed over and cultivated
+cultivated for themselves, and there was no mutual encroachment. But Yanasa and Mato passed over and cultivated
 the territory of others. In the sixth month they ran away to
 Inchimi. Afterwards, when Kose no Omi came [the Pékché
 ‘Original Record’ has, ‘ After I detained Inchimi, when Kose
 no Omicame.’ All this is not clear], Silla ceased to encroach
-on and harass the territory of others, and there were no com-
-plaints from Ara of being unable to attend to husbandry owing
+on and harass the territory of others, and there were no complaints from Ara of being unable to attend to husbandry owing
 to the harassments of Silla. Thy servant was formerly told
 that Silla, every spring and autumn, assembled troops in large
 numbers with the object of invading Ara and Hasan,’ or as
-some say, to invade Kara. Lately I received a letter, in conse-
-quence of which I sent troops for the protection of Imna. This
-shows that there has been no negligence. I repeatedly des-
-patched resolute soldiers to their help when occasion demanded,
+some say, to invade Kara. Lately I received a letter, in consequence of which I sent troops for the protection of Imna. This
+shows that there has been no negligence. I repeatedly despatched resolute soldiers to their help when occasion demanded,
 and it was owing to this that the Imna people were able to
 carry on their agricultural operations in due season, and that
 Silla did not dare to molest them. Yet it was reported to Your
@@ -3431,8 +3005,7 @@ enough. There must be many other cases besides of lying in order
 to deceive the Celestial Court. So long as Ikuba no Omi resides
 in Ara I fear it will be impossible to establish the land of Imna.
 He ought speedily to be removed. This state of things is
-viewed by thy servant with profound apprehension. Cha-ro-
-ma-to, although the son of a Corean mother, holds the position
+viewed by thy servant with profound apprehension. Cha-roma-to, although the son of a Corean mother, holds the position
 of Ohomuraji and takes precedence among the Agents of Japan,
 entering the ranks of the noble and honourable. And yet he
 
@@ -3459,9 +3032,7 @@ now wears the cap of the Silla official rank of Namanyé,'
 
 from which it may be readily seen that he is devoted to that
 
-country body and soul. When his conduct is maturely ob-
-
-served, there is no sign at all of awe or dread. Therefore I
+country body and soul. When his conduct is maturely observed, there is no sign at all of awe or dread. Therefore I
 
 formerly reported to Your Majesty his evil deeds, setting them
 
@@ -3497,8 +3068,7 @@ all are owing to men with secret understandings and double
 hearts. Now Mato and the others are on terms of great
 intimacy with Silla. They have at last put on their dress, and
 frequent Silla morning and evening, secretly preparing treason.
-I fear, therefore, that Imna will, on this account, come to per-
-manent ruin. If Imna is ruined, thy servant’s country stands
+I fear, therefore, that Imna will, on this account, come to permanent ruin. If Imna is ruined, thy servant’s country stands
 alone and exposed to danger, and though I am desirous of
 continuing my allegiance, how will this be possible? It is
 my humble prayer that Your Majesty, in the exercise of your
@@ -3527,9 +3097,6 @@ XIX -22:
 ».4 Dar ee
 
 
-56 NIHONGI.
-
-
 reply in respect to the matter of Kahachi no Atahe, Yanasa
 and Mato, which they had represented to the Emperor.
 
@@ -3544,9 +3111,7 @@ respecting Imna.” Accordingly, Kibi no Omi, the chief
 Japanese authority, the lower Kanki of Ara, the Té-pu-son
 Ku-chhyu-yu-ni, the Syong-syu-wi’ of Kara, named Ko-chyén-.
 hyé, the Lord of Sol-ma, the Lord of Sa-i-ki, the son of the
-Lord of San-pan-hyé, the I-syu-wi? of Tara, named Heul-kén-
-chi, the-Kanki of Cha-tha, and the Kanki of Ku-chha* pro-
-ceeded to. Péekché. Hereupon, King Syéng-myéng of Pékché
+Lord of San-pan-hyé, the I-syu-wi? of Tara, named Heul-kénchi, the-Kanki of Cha-tha, and the Kanki of Ku-chha* proceeded to. Péekché. Hereupon, King Syéng-myéng of Pékché
 notified to them the general purport of the Emperor’s decree, °
 saying :—‘‘I sent the Nasol, Mimasa, the Nasol, Kwi-nyon,
 and the Nasol, Yong-ka-ta to the Court of Japan, upon which
@@ -3555,8 +3120,7 @@ established. Moreover, Tsumori no Muraji, by the Emperor’s
 order, inquired what was to be done with Imna. I have,
 therefore, sent for you, and I beg of you each to give your
 advice as to the best further means of establishing Imna.”
-Kibi no Omi and the Kanki* of Imna said :—‘‘ The establish-
-ment of the land of Imna rests simply with the Great King.
+Kibi no Omi and the Kanki* of Imna said :—‘‘ The establishment of the land of Imna rests simply with the Great King.
 It is our desire and hope, in obedience to Your Majesty,’ to
 join in making a representation to the Emperor and _ hearing
 his instructions.” To this King Syéng-myéng said :—‘‘ The
@@ -3580,19 +3144,10 @@ a
 7 The “ Shukai” thinks we should read for “smitten,” “conspired with.” -
 
 
-1
-2
-3
-4
-
-
 :
 i
 i
 \
-
-
-KIMMEI. 57
 
 
 send an expedition against me. This, again, is a result of his
@@ -3645,9 +3200,6 @@ characters for these two words strongly resembling each other.
 DoLX Ay
 
 
-58 NIHONGI.
-
-
 also be impossible therewith to restrain Silla. I therefore
 
 
@@ -3678,8 +3230,7 @@ joint message to His Majesty, praying to hear his gracious
 instructions.”
 
 Hereupon Kibi no Omi and the Kanki said :—‘ The triple
-scheme propounded by the Great King is entirely in accord-
-ance with our humble sentiments. We pray that we may be
+scheme propounded by the Great King is entirely in accordance with our humble sentiments. We pray that we may be
 allowed to return and respectfully advise with the Oho-omi'
 [meaning the Oho-omi of the Japanese Administration in
 Imna]| of the Japanese Administration, the King of Ara, the
@@ -3703,10 +3254,7 @@ Umtu, on the east of the island, having gathered acorns,* were
 noted above, p. 307 of Vol. I.
 
 3 “ An old name for the 7 NEL , Tungusic ancestors of the Manchus.”—
-Giles. The interlinear Kana has Mishi-hase or Misht-muse or M!shimu-
-
-
-mase.
+Giles. The interlinear Kana has Mishi-hase or Misht-muse or M!shimumase.
 4 The fruit of the shii, or Quercus Cuspidata.
 
 
@@ -3780,9 +3328,6 @@ A.D. 545.
 XIX. 27.
 
 
-60 NIHONGI.
-
-
 ing virtue, and that all the land of the Miyake! belonging to
 the Emperor may receive blessings. I also pray for the moral
 enfranchisement * of all living creatures under Heaven. There-
@@ -3836,9 +3381,6 @@ children and grandchildren were taken and put to death.
 * i.e, the Emperor’s missive.
 
 
-KIMMEI, 61
-
-
 On the 24th, King Hyang-kang, of the land of Koma,’
 died,”
 
@@ -3847,8 +3389,7 @@ Pékché, Kwi-nyén, Nasol of the Middle Division, and his
 companions took their departure. They received a present
 of seventy-four good * horses and ten ships.
 
-Summer, 6th month, 12th day. Pekché sent Nyang-Y6p-
-nyé, Nasol of the Middle Division, and others, to present
+Summer, 6th month, 12th day. Pekché sent Nyang-Y6pnyé, Nasol of the Middle Division, and others, to present
 tribute.
 
 Autumn, 7th month. A report was received from the
@@ -3904,32 +3445,23 @@ A.D. 548.
 PON 30:
 
 
-62 NIHONGI.
-
-
 took ill, the Syé faction and the Chhu faction each tried
 to set up the son of the respective consorts. The result
 was that of the Syé faction more than two thousand men
 were slain.”
-8th year, Spring, 4th month. Pekché sent Chin-mo-syén-
-mun, Tok-sol of the Former Division, the Nasol, Kama and
+8th year, Spring, 4th month. Pekché sent Chin-mo-syénmun, Tok-sol of the Former Division, the Nasol, Kama and
 others to ask for auxiliaries, and offered (as hostage) W6n,
-son of Tong-syong, (Nasol?) of the Lower Division, ex-
-changing him for the Tok-sol, Mun-hyu-ma-na.
+son of Tong-syong, (Nasol?) of the Lower Division, exchanging him for the Tok-sol, Mun-hyu-ma-na.
 goth year, Spring, 1st month, 3rd day. The Pekché
 ambassador, Chin-mo-syén-mun, Tok-sol of the Former
-Division, and his colleagues, asked leave to depart. Accord-
-ingly an Imperial command was given, saying :—‘‘In regard
+Division, and his colleagues, asked leave to depart. Accordingly an Imperial command was given, saying :—‘‘In regard
 to the auxiliaries asked for by you, help will be assuredly sent
 you. Hasten to carry back this answer to your king.”
 Summer, 4th month, 3rd day. Peékché sent the Han-sol
 of the Middle Division, Nyang Yop-nyé and others with a
-message to the Emperor, saying:—‘‘The Tok-sol, Syén-
-mun and his colleagues have arrived at thy servant’s frontier
-state with an Imperial message, informing me that the auxi-
-liary force which I asked for would be sent when occasion
-demanded. I have humbly received this gracious pronounce-
-ment, and my joy is unbounded. Now, a prisoner taken in
+message to the Emperor, saying:—‘‘The Tok-sol, Syénmun and his colleagues have arrived at thy servant’s frontier
+state with an Imperial message, informing me that the auxiliary force which I asked for would be sent when occasion
+demanded. I have humbly received this gracious pronouncement, and my joy is unbounded. Now, a prisoner taken in
 the expedition of the Castle of Ma-chin [1st month, 3rd day.
 Koryé led an army and laid siege to the Castle of Ma-chin] '
 has reported thus:—‘It was on the invitation and at the
@@ -3950,9 +3482,6 @@ force from Silla. The last statement sounds rather strange in view of the
 relations of Pékché and Silla described in the above pages.
 
 
--KIMMEI. 63
-
-
 delay the auxiliaries ' which I asked for until thy servant sends
 an answer.”
 The Emperor’s .command was as _ follows:—‘‘ We have
@@ -3969,8 +3498,7 @@ to Koryé. If we had ordered it so, of course they would have
 sent one, but in the absence of any order from us, how could
 they find it possible to do so? I beg that the king, loosing
 his collar and slackening his girdle, will possess his soul in
-peace and avoid profound suspicions and fears. In accord-
-ance with our former instructions, let him join forces with
+peace and avoid profound suspicions and fears. In accordance with our former instructions, let him join forces with
 Imna, and let them together each defend the territory which
 they hold in fee against the northern enemy.”
 
@@ -3993,10 +3521,8 @@ sent to Pékché to assist in constructing a fortress * at T6k-1-sin.
 roth year, 6th month, 7th day. The Syang-tok, Mun-kwi
 and the Ko-ték, Ma-chha-mun asked permission to take their
 departure. Accordingly the Emperor commanded, saying :-—
-‘‘ We are about to send to inquire into the truth of the state-
-ment that Yanasa and Mato have been privately sending
-emissaries to Koryé. The army asked for will be counter-
-manded as requested.”
+‘‘ We are about to send to inquire into the truth of the statement that Yanasa and Mato have been privately sending
+emissaries to Koryé. The army asked for will be countermanded as requested.”
 
 
 1 If,as the “Tongkam” states, an invasion of Pékché by Koryé had
@@ -4019,16 +3545,12 @@ A.D. 550.
 DIDS, 32;
 
 
-64 NIHONGI.
-
-
 ith year, Spring, 2nd month, toth day. An envoy was
 sent with an Imperial messagé to Pékché [the ‘ Pékché
 Original Record” says: —‘‘3rd month, 12th day. The
 Japanese Ambassador Apita, with three ships, arrived. at the
 capital’’] , saying :—‘‘ With regard to the purport of the memorial
-presented by the Syang-tok, Mun-kwi and the Ko-toék, Ma-chha-
-mun, We have given instructions on each point, so that it is as
+presented by the Syang-tok, Mun-kwi and the Ko-toék, Ma-chhamun, We have given instructions on each point, so that it is as
 plain as looking at something on the palm of one’s hand. It is
 Our desire that you should take them thoroughly to heart, and
 we hope, moreover, that you will give them your whole attention,
@@ -4037,11 +3559,9 @@ as usual. It is Our present wish merely to make plain Our
 answer, and therefore We send a messenger to you.
 
 Moreover, We are informed that you have a trusty Minister,
-the Nasol, Ma-mu, who serves as a channel of communi-
-cation between you and your people, and who, being a man
+the Nasol, Ma-mu, who serves as a channel of communication between you and your people, and who, being a man
 after Your Majesty’s heart, acts as yourassistant. If you wish
-that your State should be undisturbed, that, it should perma-
-nently occupy the position of a Miyake, and long continue to
+that your State should be undisturbed, that, it should permanently occupy the position of a Miyake, and long continue to
 serve the Emperor, all that is necessary is that Ma-mu be
 appointed your chief Envoy to Our Court.”
 
@@ -4059,8 +3579,7 @@ resident in Pékché being on the point of leaving [the
 
 Japanese Apita went away ”’], King Syéng-myoéng, of Pekché,
 addressed him, saying :—‘‘ As to the matter of Imna, it shall
-be vigorously defended, in accordance with the Imperial in-
-structions ; as-to Yanasa and Mato, whether they are to be
+be vigorously defended, in accordance with the Imperial instructions ; as-to Yanasa and Mato, whether they are to be
 called to an account or not, I shall simply obey the Imperial
 orders.” He accordingly sent a present of six Koryé slaves for
 the Emperor, and to his representative he gave a separate gift of
@@ -4080,9 +3599,6 @@ sometimes fifty.
 _
 
 
-KIMMEI. 65
-
-
 Division, and Chyak-kan-na, Si-tok of the Lower Division,
 with a present for the Emperor of ten Koma captives.
 
@@ -4094,14 +3610,12 @@ army in person, together with troops from the two countries,
 [by the two countries Silla and Imna are meant], invaded Koryé,
 and conquered the territory of Hansyéng.' Thence he again
 moved forward his army and attacked Phyéng-yang.? Six
-districts in all were eventually restored to their former terri-
-torial dependence.
+districts in all were eventually restored to their former territorial dependence.
 
 13th year, Summer, 4th month. The Imperial Prince,
 Yata no Tama-katsu no Ohoye, died.
 
-5th month, 8th day. Pékché, Kara, and Ara sent the Tok-
-sol of the Middle Division, Mok-hyép-keum-ton, and Asapita,
+5th month, 8th day. Pékché, Kara, and Ara sent the Toksol of the Middle Division, Mok-hyép-keum-ton, and Asapita,
 of the Kahachi Be,* to make representation to the Emperor,
 saying :—‘ Koryé and Silla, having established friendly relations
 and joined their powers, design to overthrow thy servants’
@@ -4115,8 +3629,7 @@ and the Omi of the Japanese Government * have conjointly by
 their envoys represented to Us with regard to the state of
 affairs. Let them continue, along with Imna, to unite their
 hearts and strength as heretofore, and they will be undoubtedly
-blessed with the protection of High Heaven, and can, more-
-over, place their trust in the spirits of the August Emperors.”
+blessed with the protection of High Heaven, and can, moreover, place their trust in the spirits of the August Emperors.”
 
 Winter, roth month. King Syiéng-myéng of Pékché [also
 called King Syéng] sent Kwi-si of the Western Division, and
@@ -4125,10 +3638,9 @@ of an image of Shaka’ Butsu in gold and copper,° several
 flags and umbrellas, and a number.of volumes of “ Sutras.”
 
 
-' The present capital, commonly called Séul. This expedition is men-
-tioned in the “ Tongkam.”
+' The present capital, commonly called Séul. This expedition is mentioned in the “ Tongkam.”
 
-> Phyéng-yang was the capital of Koryé.
+) Phyéng-yang was the capital of Koryé.
 
 * Apparently a Japanese. The Interlinear Kana has Ashihita.
 
@@ -4154,16 +3666,12 @@ XIX. 34.
 MEX. 35.
 
 
-66 NIHONGI.
-
-
 Separately he presented a memorial in which he lauded the
 merit of diffusing abroad religious worship, saying :—‘‘ This
 doctrine is amongst all doctrines the most excellent. But it is
 hard to explain, and hard to comprehend. Even the Duke of
 Chow! and Confucius had not attained to a knowledge of it.
-This doctrine can create religious merit * and retribution * with-
-out measure and without bounds, and so lead on to a full
+This doctrine can create religious merit * and retribution * without measure and without bounds, and so lead on to a full
 appreciation of the highest wisdom.* Imagine a man in
 possession of treasures to his heart’s content, so that he might
 satisfy all his wishes in proportion as he used them. Thus it
@@ -4203,8 +3711,7 @@ Vol. IV. pp. 4-7.
 
 6 This is the right name.
 
-7 The character used means the vassal of a vassal, and implies an acknow-
-ledgment of Japan’s suzerainty.
+7 The character used means the vassal of a vassal, and implies an acknowledgment of Japan’s suzerainty.
 
 
 ee a eee EO
@@ -4214,9 +3721,6 @@ ee a eee EO
 i
 :
 ;
-
-
-KIMMEI. 67
 
 
 muraji, and Kamako, Nakatomi no Muraji, addressed the
@@ -4229,8 +3733,7 @@ Deities, it may be feared that we should incur the wrath of our
 National Gods.”
 
 The Emperor said :—‘‘ Let it be given to Iname no Sukune,
-who has shown his willingness to take it, and, as an experi-
-ment, make him to worship it.”’
+who has shown his willingness to take it, and, as an experiment, make him to worship it.”’
 
 The Oho-omi knelt down and received it with joy. He
 enthroned it in his house at Oharida, where he diligently
@@ -4247,8 +3750,7 @@ matters have gone too far, joy will surely be the result! It
 will be well promptly to fling it away, and diligently to seek
 happiness in the future.”
 
-The Emperor said :—‘‘ Let it be done as you advise.”’ Accord-
-ingly officials took the image of Buddha and abandoned it to
+The Emperor said :—‘‘ Let it be done as you advise.”’ Accordingly officials took the image of Buddha and abandoned it to
 the current of the Canal of Naniha. They also set fire to the
 Temple, and burnt it so that nothing was left. Hereupon,
 there being in the Heavens neither clouds nor wind, a sudden
@@ -4276,20 +3778,13 @@ AEN 136)
 ADs 553s
 
 
-7
-
-
 Baleke 1S
-
-
-68 NIHONGI.
 
 
 ya Chhi-chyu, Tok-sol of the Higher Division, the Han-sol,
 Nyé-sé-ton, and others to ask for troops.
 
-15th day. The Pékché Envoys, Mok-hyop-keum-ton, Tok-
-sol of the Middle Division, and Kahachi Be no Asapita took
+15th day. The Pékché Envoys, Mok-hyop-keum-ton, Toksol of the Middle Division, and Kahachi Be no Asapita took
 
 
 ‘their departure.
@@ -4339,13 +3834,7 @@ By order of the Emperor, Soga no: Oho-omi, Iname_ no
 * The first mention of calendars in the “ Nihongi.”
 
 
-KIMMEI. 69
-
-
-Sukune, charged O-shin-mi' to keep an account of the shipping-
-
-
-tax. He was accordingly made Chief over the ships, and the
+Sukune, charged O-shin-mi' to keep an account of the shippingtax. He was accordingly made Chief over the ships, and the
 style* was granted him of Funa no Fumibito. He was the
 ancestor of the present Funa no Muraji.’
 
@@ -4417,8 +3906,7 @@ that Imna may have peace.
 
 Moreover, the lands beyond the sea are very scarce of bows
 and horses. From old times until now, they have received
-them from the Emperor, and have therewith defended them-
-selves against their powerful enemies. I humbly pray the
+them from the Emperor, and have therewith defended themselves against their powerful enemies. I humbly pray the
 Celestial bounty to bestow on us a large supply of bows and
 horses.”
 
@@ -4427,8 +3915,7 @@ King of Pékché [King Wi-tok, son of King Myéng], led forth
 all the troops of the kingdom against the land of Koryo.
 Having thrown up entrenchments on the Pék-hap’ plain, he
 allowed his soldiers to sleep and eat. Looking out that
-evening over the great and fertile plain, with its level surface ex-
-tending far and wide, where few traces of man were to be seen,
+evening over the great and fertile plain, with its level surface extending far and wide, where few traces of man were to be seen,
 and not a dog was heard to bark, he all at once heard a sudden
 sound of fife and drum. Y6-chhyang was greatly astonished,
 and having beat his drums in response, kept strict watch all
@@ -4546,21 +4033,18 @@ six others.
 Separately, in obedience to the Imperial commands, they
 brought the Si-ték, Wang To-nyang, a man learned in
 divination, the Ko-to6k, Wang Po-son, a man learned in the
-calendar, the Nasol, Wang-yu-neung-tha, a physician, the Si-
-t6k, Pén-nyang-phung, and the Ko-tok, Pyong-yu-tha,.herbalists,
+calendar, the Nasol, Wang-yu-neung-tha, a physician, the Sit6k, Pén-nyang-phung, and the Ko-tok, Pyong-yu-tha,.herbalists,
 the Si-t6k, Sam-keun, the Kyé-tok, Kwi-ma-chha, the Kyé-tok,*
 Chin-no, and the Té-tok,’ Chin-tha, musicians, all which persons
 were exchanged according to request.
 
-3rd month, 1st day. The Pekché envoys Mok-hyop Mun-
-chha, Si-tok of the Middle Division, and his colleagues took
+3rd month, 1st day. The Pekché envoys Mok-hyop Munchha, Si-tok of the Middle Division, and his colleagues took
 their departure.
 
 Summer, 5th month, 3rd day. Uchi no Omi proceeded to
 Pékché in command of a naval force.
 
-Winter, 12th month. Pékché sent Mun-sa Kan-no, Han-
-sol of the Lower Division, who presented a memorial,
+Winter, 12th month. Pékché sent Mun-sa Kan-no, Hansol of the Lower Division, who presented a memorial,
 saying :—‘‘ Thy servants, Myong,. King of Pekché, the various
 Omi of Wa * resident in Ara, and the Kanki of all the provinces
 of Imna, beg to report to Your Majesty the unprincipled
@@ -4570,8 +4054,7 @@ Miyake North of the Sea. Thy servants having consulted
 together, sent Uchi no Omi and others to ask for troops
 
 
-1 OQ is &, ie. Crow. Mononobe is Japanese. How the Coreans pro-
-nounced it is altogether uncertain.
+1 OQ is &, ie. Crow. Mononobe is Japanese. How the Coreans pronounced it is altogether uncertain.
 
 2 A former King of Pékché.
 
@@ -4583,17 +4066,12 @@ nounced it is altogether uncertain.
 probably the earlier use of Nippon is retrospective.
 
 
-KIMMEI. 73
-
-
 wherewith to make war on Silla. Accordingly the Emperor
 sent Uchi no Omi in command of a force, which arrived in the
 sixth month. Thy servants were profoundly rejoiced, and on
 the ninth day of the twelfth month sent an expedition to attack
-Silla. Before this thy servant had sent Mononobe no Mak-ka-
-mu no Muraji,’ Governor of the Eastern Quarter, in command
-of the troops of that Quarter, to lay siege to the castle of Ham-
-san. The people brought over by Uchi no Omi, along with
+Silla. Before this thy servant had sent Mononobe no Mak-kamu no Muraji,’ Governor of the Eastern Quarter, in command
+of the troops of that Quarter, to lay siege to the castle of Hamsan. The people brought over by Uchi no Omi, along with
 Mak-ka Wi-sa-kwi, Tsukushi no Mononobe, who were skilled
 in shooting fire-arrows, under the protection of the August
 spirits of the Emperors, set fire to the castle and took it at
@@ -4701,9 +4179,6 @@ this would require the addition of =E, master. Perhaps this character has
 been accidentally omitted.
 
 
-KIMMEI. 75
-
-
 Now the King of Silla buried King Myéng’s bones’ at the
 bottom of the stairs of the Northern Hall of his Palace,
 and gave this Hall the name of To-tang.”’ ”
@@ -4722,12 +4197,10 @@ more and more fiercely, without any remission, and shot to the
 ground the troops by whom they were surrounded. By this
 means Y6-chhyang and his generals were enabled to. escape
 back by a by-road. Yo-chhyang complimented the Kuni no
-Miyakko on having shot down the troops who had encom-
-passed them, and conferred on him the honorary name of
+Miyakko on having shot down the troops who had encompassed them, and conferred on him the honorary name of
 Kurani no Kimi.’
 
-Upon this the Silla generals, satisfied that Pekché was com-
-pletely worn out, wished at length to take measures for the
+Upon this the Silla generals, satisfied that Pekché was completely worn out, wished at length to take measures for the
 destruction of the remainder. But there was one general who
 said :—‘‘ This would be a mistake. The Emperor of Japan has
 frequently attacked our country on account of Imna: much
@@ -4761,12 +4234,8 @@ As Dy n5 55
 XIX. 47.
 
 
-76 NIHONGI.
-
-
 Silla in the 15th year of the reign, and therefore this report to
-the Emperor]. When the Emperor heard this he was indig-
-nant, and sent an envoy to meet him at the port with a message
+the Emperor]. When the Emperor heard this he was indignant, and sent an envoy to meet him at the port with a message
 of condolence. Hereupon Kose no Omi inquired of Prince
 Hyé :—*‘ Dost thou wish to remain here or to proceed to thine
 own country?” Hyé answered and said :—‘“‘ Trusting in the
@@ -4810,7 +4279,7 @@ said :—‘ If after humble prayer to the Deity, the founder of the
 
 1 By the former astronomy is meant; under the latter is included
 geomancy and physical geography.
-*Vuniaku Penne, See Vol. lpi 353 > Hafuri.
+*Vuniaku Penne, See Vol. lpi 353 ) Hafuri.
 
 
 ————
@@ -4845,13 +4314,11 @@ Autumn, 7th month, 4th day. Iname no Sukune Soga no
 to the five districts of Kibi to establish the Miyake of Shirawi.
 8th month. Y6-chhyang of Pékché addressed his Ministers,
 saying :—‘‘ 1* now desire, for the sake of the King, my deceased
-father, to leave the world and practise religion.”” The Minis-
-ters and the people answered and said:—‘‘We have now
+father, to leave the world and practise religion.”” The Ministers and the people answered and said:—‘‘We have now
 received the instructions intimating to us Your Majesty’s wish
 to be allowed to retire from the world and to practise religion.
 Ah! whose fault was it that firm plans were not made in the
-first place, of which neglect so great evils have been the conse-
-quence? .From the foundation of this kingdom until the
+first place, of which neglect so great evils have been the consequence? .From the foundation of this kingdom until the
 
 
 1 Oho-na-mochi no Kami. 2 See Vol. I. p. 64.
@@ -4884,14 +4351,10 @@ AeD. 550.
 ATX. 49.
 
 
-78 NIHONGI.
-
-
 present year Koryé and Silla have vied with each other in their
 efforts to destroy it. To what country, therefore, could our
 national line of sovereigns now be entrusted? In principle
-Your Majesty’s instructions ought unquestionably to be com-
-plied with. For if the words of the old man had been attended
+Your Majesty’s instructions ought unquestionably to be complied with. For if the words of the old man had been attended
 to, how should we have arrived at our present condition? We
 beseech Your Majesty, therefore, to repent your former errors.
 But do not take the trouble to retire from the world. If you
@@ -4915,8 +4378,7 @@ Ysukushi to escort him to his country. The Lord of Hi’ in
 Tsukushi was sent separately [the Pékché ‘ Original Record ”
 says :—‘‘ Son of the Lord of Tsukushi and younger brother of
 the Middle Lord of Hi’’] in command of 1000 valiant soldiers
-to escort him to Mite [name of a port}, and he was accord-
-ingly made to guard the strong positions on the way to the
+to escort him to Mite [name of a port}, and he was accordingly made to guard the strong positions on the way to the
 port.
 
 Autumn, 7th month, 6th day. Soga no Oho-omi, Iname no
@@ -4936,9 +4398,6 @@ Tsukushi.
 3 This rendering follows the “ Original Commentary.”
 
 4 The Chinese characters mean “ rural or rice-field governor.”
-
-
-KIMMEI. 79
 
 
 establish the Miyake of Ohomusa of Coreans [by Coreans is
@@ -5011,14 +4470,10 @@ DODO
 A.D. 562.
 
 
-80 NIHONGI.
-
-
 Té-sa was angry. He went away and refused to enter the
 official residence. He went on board ship and returned to
 Anato.! At this time the official building at Anato was being
-repaired. The Té-sa inquired :—‘“‘ For what guest is this con-
-struction?’’ The chief builder, Oshikatsu, Kahachi no
+repaired. The Té-sa inquired :—‘“‘ For what guest is this construction?’’ The chief builder, Oshikatsu, Kahachi no
 Mumakahi no Obito, mockingly said :—‘‘ It is for the lodging
 of the ambassador who is being sent to call the Western Land
 to an account for its rude conduct.” The Té-sa, on returning
@@ -5042,15 +4497,13 @@ downfall of Imna :—
 “ Autumn, 9th month.. (The year is the same, but the month given does
 not agree with the ‘ Nihongi’ account.)
 
-Silla destroyed Great Kaya. Kaya was refractory, and the King com-
-manded the I-son I-sa-pu to attack it. Sa-ta-sya was associated with him
+Silla destroyed Great Kaya. Kaya was refractory, and the King commanded the I-son I-sa-pu to attack it. Sa-ta-sya was associated with him
 in the command. S4-ta-sya was a descendant in the 7th generation of
 King Né-mil (or Né-mul). He was sixteen years of age, and was accounted
 a national hero. More than 1000 men of his followers came and begged
 that he might join in the campaign, but the King would not allow it on
 account of his youth. On their persisting in their request, however, he gave
-his permission. Sa-ta-sya went to Great Kaya in command of 5000 horse-
-men, and was the first to enter the Sandalwood gate, where he set up a
+his permission. Sa-ta-sya went to Great Kaya in command of 5000 horsemen, and was the first to enter the Sandalwood gate, where he set up a
 white flag. Those in the castle were struck with consternation, and I-sa-pu,
 approaching with his troops, at length destroyed that country, the territory
 being constituted the district of Great Kaya. When the army returned and
@@ -5084,8 +4537,7 @@ was not entitled to. In what respect did Our ancestor, Okinaga
 Tarashi hime no Mikoto, show a want of consideration for
 Silla, or Our people an unfriendly feeling towards that country ?
 Yet Silla with long spears and strong bows has oppressed
-Imna. ‘With serrated tusks and hooked talons they have com-
-mitted ravage amongst the living souls, rending their livers
+Imna. ‘With serrated tusks and hooked talons they have committed ravage amongst the living souls, rending their livers
 and hacking off their feet with insatiable delight, scorching
 their bones in the sun, and burning their dead bodies without
 saying to themselves that it was cruel. From the Noble House
@@ -5099,10 +4551,8 @@ heart? Much more the heir to the Throne and the Oho-omi!
 For the former, bound as he is by hereditary friendship, it is an
 occasion to weep tears of blood and cherish feelings of revenge.
 In the case of the latter, there is towards officials charged with
-the frontier screen the gratitude due to those who rub them-
-selves smooth * from crown to heel (in their country’s service).
-Heirs in their generation to the virtues of previous govern-
-ments, and themselves destined to hold high dignity in a later
+the frontier screen the gratitude due to those who rub themselves smooth * from crown to heel (in their country’s service).
+Heirs in their generation to the virtues of previous governments, and themselves destined to hold high dignity in a later
 
 
 1 Jingo Kogu. 2 See Legge’s “ Sheking,” p. 360.
@@ -5120,9 +4570,6 @@ SI, Ba
 
 
 IBS. Ges
-
-
-82 NIHONGI.
 
 
 reign, if they cannot, by making drip their gall and drawing
@@ -5183,8 +4630,7 @@ Not the province of that name, but a place in Yamato.
 KIMMEL. 83
 
 
-with his mother’s supplication, he was permitted to be con-
-fiscated to the service of the Gods.
+with his mother’s supplication, he was permitted to be confiscated to the service of the Gods.
 
 Autumn, 7th month, 1st day. Silla sent envoys to offer
 tribute. These envoys knew of the destruction of Imna by
@@ -5216,8 +4662,7 @@ ought we to be heedless and not to think of disaster? Even in
 times of peace, the sword should not be laid aside. For a wise
 man’s warlike preparation ought not to be relaxed. I pray you,
 be very watchful, and zealously observe thiscommand.’”?! The
-soldiery all entrusted their hearts to him, and applied them-
-selves to their duties. Nihe, Kahabe no Omi, advanced alone,
+soldiery all entrusted their hearts to him, and applied themselves to their duties. Nihe, Kahabe no Omi, advanced alone,
 aud in successive engagements captured all that opposed him.
 The Silla men again raised the white flag, lung down their
 arms, and bowed their heads in submission. Nihe, Kahabe no
@@ -5233,9 +4678,6 @@ ob Sees
 
 
 XIX. 56.
-
-
-84 NIHONGI.
 
 
 Silla commander said :—‘‘ General Kahabe no Omi now wishes
@@ -5273,15 +4715,11 @@ in her refusal to speak to him. This lady was the daughter
 of Sakamoto no Omi, and her name was Mumashi hime.
 Ikina, Mitsugi no Kishi, who was captured at the same time,
 being a man of mettle, utterly refused to submit. The Silla
-commander drew his sword, and making as if to kill him, com-
-pelled him with threats to take off his trousers, and then told
+commander drew his sword, and making as if to kill him, compelled him with threats to take off his trousers, and then told
 him to present his hinder part towards Japan, and call out
 
 
 ' T cannot identify this with any modern Corean words.
-
-
-KIMMEI. 85
 
 
 with a loud voice,‘‘ Let the Japanese generals bite * — ——!”
@@ -5335,10 +4773,9 @@ Kissing the hand is totally unknown in China.”
 
 The use of the word bite for kiss by the Chinese suggests that the kiss
 may be a modification of a playful bite, just as the smile may have had
-its origin in a sportive showing of the canine teeth. See Darwin’s “ Expres-
-sion of the Emotions,” p. 255.
+its origin in a sportive showing of the canine teeth. See Darwin’s “ Expression of the Emotions,” p. 255.
 
-> The name of a plant.
+) The name of a plant.
 
 ’ Another rendering is: “ In grief for her, they (i.e. the generals) made a
 
@@ -5347,9 +4784,6 @@ song, saying :—”
 
 
 Eke FS:
-
-
-86 NIHONGI.
 
 
 8th month. The Emperor sent Sadehiko, Ohotomo no
@@ -5410,11 +4844,7 @@ this war.
 a
 
 
-KIMMEI. 87
-
-
-26th year, Summer, 5th month. Some Koryo men, Tu-mu-
-ri-ya-phyé and others, emigrated to Tsukushi. They were
+26th year, Summer, 5th month. Some Koryo men, Tu-muri-ya-phyé and others, emigrated to Tsukushi. They were
 settled in the province of Yamashiro, and were the ancestors
 of the present Kory6 men of Une-hara, Nara, and Yamamura.
 
@@ -5431,8 +4861,7 @@ who have avoided their tasks. Let Itsu [Itsu was nephew of
 O Chin-ni*| be sent to revise the lists of the serfs of Shirawi.”
 
 Summer, 4th month. Itsu revised the serfs of Shirawi, and
-in accordance with the edict, settled the lists, so that land-
-families * were formed. The Emperor, by way of compliment
+in accordance with the edict, settled the lists, so that landfamilies * were formed. The Emperor, by way of compliment
 to Itsu on his success in settling the lists, gave him the title of
 Shirawi no Obito, and moreover appointed him Tadzukahi
 under Midzuko [Midzuko is mentioned above] .*
@@ -5487,9 +4916,6 @@ XIX. 60.
 FG 1 Sw a
 
 
-838 NIHONGI.
-
-
 instance of the wide extension of wise counsels, of perfect
 virtue majestically displayed, of benign influences universally
 pervasive, of vast blessings far diffused? Let the proper
@@ -5542,9 +4968,6 @@ In this month Koryé6 sent presents and likewise a memorial,
 -
 
 
-KIMMEI. 89
-
-
 but several tens of days elapsed without their having an
 opportunity of presenting it. They were compelled to await a
 lucky day.
@@ -5556,8 +4979,7 @@ swift horse, and introduced into the bed-chamber. The
 Emperor took him by the hand, and gave command to him,
 saying :—‘‘ Our illness is very grave. That which comes after
 devolves on thee. Thou must make war on Silla, and
-establish Imna as a feudal dependency, renewing a relation-
-ship like that of a husband and wife just at it was in former
+establish Imna as a feudal dependency, renewing a relationship like that of a husband and wife just at it was in former
 days. Ifthis be done, in my grave I shall rest contented.”
 
 On this day the Emperor at length died in the inner chamber.
@@ -5566,8 +4988,7 @@ His years were many.’
 5th month. He was temporarily interred at Furuichi in
 Kahachi.
 
-Autumn, 8th month, rst day. Silla sent as Envoys of con-
-dolence Mi-cheul-cha-sil-syo and others to make lament at the
+Autumn, 8th month, rst day. Silla sent as Envoys of condolence Mi-cheul-cha-sil-syo and others to make lament at the
 place of temporary interment.
 
 This month Mi-cheul-cha-sil-syo and the rest took their
@@ -5652,8 +5073,7 @@ passing it on to the Oho-omi, assembled all the scribes and
 directed them to read and explain it. At this time all the
 scribes for the space of three days were unable to read it.
 Now there was one O Chin-ni, founder of the family of the
-Funa no fubito,’ who was able to read it and explain its mean-
-ing to the Emperor. Consequently the Emperor and the
+Funa no fubito,’ who was able to read it and explain its meaning to the Emperor. Consequently the Emperor and the
 Oho-omi, both together, complimented him, saying :—‘‘ What
 diligence, Chin-ni! Well done, Chin-ni! If thou hadst not
 been fond of learning, who could have done the interpretation ?
@@ -5694,9 +5114,6 @@ REX:
 
 
 KDy. 573
-
-
-92 NIHONGI.
 
 
 to our country the Chief Envoy reveals our misconduct, it will
@@ -5763,8 +5180,7 @@ men and flung them into the sea.
 
 
 8th month, 14th day. The escort Envoy, Naniha, returned
-and reported the result of his mission, saying :—‘‘ The whale-
-fish of the sea assemble in great numbers and intercept and
+and reported the result of his mission, saying :—‘‘ The whalefish of the sea assemble in great numbers and intercept and
 devour the ships with their sculls and oars. Naniha and his
 companions fearing to be swallowed up by these fishes were
 unable to go upon the sea.” The Emperor hearing this saw
@@ -5779,13 +5195,11 @@ the capital and addressed the Emperor, saying :—‘‘ Last year
 thy servants departed, in company with the escort Envoy, in
 order to return to their own country. Formerly when thy
 servants arrived at their frontier State,’ thy servants’ frontier
-State entertained Ihahi, Ohoshima no Obito, and his com-
-panions in accordance with the ceremony due to Envoys, and
+State entertained Ihahi, Ohoshima no Obito, and his companions in accordance with the ceremony due to Envoys, and
 the King of Koryo treated them with specially cordial civility.
 Notwithstanding this, the ship of the escort Envoy had not
 arrived up till now, and therefore he has respectfully again sent
-Envoys along with Ihahi and his companions to request infor-
-mation as to why our Envoys* have not come.” When the
+Envoys along with Ihahi and his companions to request information as to why our Envoys* have not come.” When the
 Emperor heard this he enumerated Naniha’s offences, saying :
 —‘* Thou art doubly guilty, first for having deceived the Court,
 and secondly, for having drowned the Envoys of a neighbouring
@@ -5818,9 +5232,6 @@ NOS
 
 
 6.
-
-
-94 . NIHONGI.
 
 
 Miyake and the staff of serfs attached to it. He accordingly
@@ -5859,8 +5270,7 @@ returned to the capital and reported the result of his mission
 respecting the Miyake.
 
 3rd month, 11th day. Peékché sent envoys to offer tribute,
-more in quantity than in ordinary years. The Emperor, inas-
-much as Silla had not yet established Imna, gave orders to the
+more in quantity than in ordinary years. The Emperor, inasmuch as Silla had not yet established Imna, gave orders to the
 Imperial Prince and to the Oho-omi, saying: :—“* Be not remiss
 in the matter of Imna.”
 
@@ -5878,8 +5288,7 @@ BIDATSU. 95
 
 
 6th month. Silla sent envoys to offer tribute, more in
-quantity than usual. They also sent tribute for the four town-
-ships of Ta-ta-ra, Su-na-ra, Hwa-tha, and Pal-kwi.
+quantity than usual. They also sent tribute for the four townships of Ta-ta-ra, Su-na-ra, Hwa-tha, and Pal-kwi.
 
 In this year, by command, the diviners divined a site for the
 dwellings of Prince Amabe and Prince Itowi. The divination
@@ -5905,29 +5314,22 @@ Imperial Princess Tame. She was wedded to the Emperor
 Okinaga tarashi-hi hiro-nuka.*./ The seventh was called the
 Imperial Princess Sakurawi no Yumibari.
 
-6th year, Spring, 2nd month, 1st day. By Imperial com-
-mand there were established a Sun-worship Be and a private
+6th year, Spring, 2nd month, 1st day. By Imperial command there were established a Sun-worship Be and a private
 Be
 
 Summer, 5th month, 5th day. Prince Ohowake and Woguro
 no Kishi were sent to govern the Land of Pékché.
 
-The representatives of the Crown, who by Imperial com-
-mand were sent on service to the three Han, called them-
-selves 3#, meaning that they governed Corea. This was
+The representatives of the Crown, who by Imperial command were sent on service to the three Han, called themselves 3#, meaning that they governed Corea. This was
 doubtless an ancient rule. They resembled what are now
-called Envoys. This explanation applies to all other pas-
-
-
-sages also. It is not clear what was the extraction of
+called Envoys. This explanation applies to all other passages also. It is not clear what was the extraction of
 Prince Ohowake.
 
 
 The Interpreter’s field.
 
 
-1
-> Afterwards the reigning Empress Suiko Tenno.
+) Afterwards the reigning Empress Suiko Tenno.
 3 Her half-brother. 4 Jomei Tenno.
 
 
@@ -5947,9 +5349,6 @@ A.D. 580.
 
 
 AED yoke
-
-
-96 NIHONGI.
 
 
 Winter, 11th month, 1st day. The King of the Land of
@@ -5977,11 +5376,9 @@ roth year, Spring, Intercalary znd month. Several thousand
 Yemishi showed hostility on the frontier. Accordingly their
 chiefs [they were very hairy men] Ayakasu’ and others were
 sent for, and the Emperor gave them his commands, saying :—
-“You Yemishi! In the reign of the Emperor Oho-tarashi-
-hiko® those of you whom it was meet to kill were put to death,
+“You Yemishi! In the reign of the Emperor Oho-tarashihiko® those of you whom it was meet to kill were put to death,
 and those who deserved forgiveness were pardoned. We now,
-in observance of this precedent, intend to put to death the ring-
-leaders.”” Hereupon Ayakasu and the others were filled with
+in observance of this precedent, intend to put to death the ringleaders.”” Hereupon Ayakasu and the others were filled with
 fear and awe. They went down into the middle stream of the
 Hatsuse river, and with their faces turned towards Mount
 Mimoro rinsed * their mouths and made oath, saying :—‘‘ We
@@ -6072,9 +5469,6 @@ XX. 10,
 OG. Ws
 
 
-98 NIHONGI,
-
-
 informed him, saying :—‘‘ I have received private information
 that the King of the Land of Pékché is suspicious of the
 Celestial Court, fearing that if I were sent, I might afterwards
@@ -6089,16 +5483,13 @@ Imperial message, sent Ilia to the Emperor. The Eun-sol,'
 Tok-ni, Y6-no, and Kanochi, the Associate Official the
 Tok-sol,? Chhia-kan-t6ék, with a good number of steersmen
 and sailors, together with Ila and his companions, arrived
-at the Miyake of Kojima in Kibi. The Court sent Oho-
-tomo no Nukadeko no Muraji to express sympathy for their
+at the Miyake of Kojima in Kibi. The Court sent Ohotomo no Nukadeko no Muraji to express sympathy for their
 fatigues. Afterwards Daibu* were sent to the official residence
 at Naniha to wait upon Illa. At this time Illa, clad in armour,
 and riding on horseback, came up to the gate.* Then
-advancing in front of the Hall of Audience, he did his obei-
-sances when advancing and retiring in a kneeling posture, and
+advancing in front of the Hall of Audience, he did his obeisances when advancing and retiring in a kneeling posture, and
 sighing bitterly, said:—‘‘In the reign of the Emperor who
-ruled the world from the Palace of Hinokuma,’ my Lord Oho-
-tomo no Kanamura no Ohomuraji sent Arisateung, Hi no
+ruled the world from the Palace of Hinokuma,’ my Lord Ohotomo no Kanamura no Ohomuraji sent Arisateung, Hi no
 Ashigita no Miyakko, and Yugehi’ of the Osaka Be,’ beyond
 the sea, on the service of the State. Thy servant, the son of
 the Arisiiteung, the Talsol Ila, having heard the Imperial
@@ -6107,15 +5498,14 @@ He accordingly took off his armour and delivered it to the
 Emperor. An official lodging was built for him at Kuha no
 ichi in Ato, where he was made to dwell, and provided with
 everything which he desired. Afterwards Abe no Me no Omi,
-Mononobe no Niheko no Muraji, and Ohotomo no Nuka-
-deko no Muraji were sent to inquire of Illa respecting the
+Mononobe no Niheko no Muraji, and Ohotomo no Nukadeko no Muraji were sent to inquire of Illa respecting the
 government of the country. Illa answered and said :—‘“ The
 Emperor’s aim in governing the Empire is to ensure the
 
 
 1 3rd rank, 2 4th rank, 3 A general term for high officials.
 + Leading to the Hall of Audience.
-- > Senkwa Tenno. 6 Archér,
+- ) Senkwa Tenno. 6 Archér,
 
 
 7 The executioners.
@@ -6128,7 +5518,7 @@ protection and nourishment of the people. Why should he
 hastily stir up warfare which will redound to their destruction ?
 Therefore now having made all, from his counsellors, viz. the
 Omi, Muraji, and Miyakko of both kinds [the Kuni no Miyakko
-and the Tomo no Miyakko], whose duty it is to serve the >
+and the Tomo no Miyakko], whose duty it is to serve the )
 Court, down to the people, without exception, to enjoy
 prosperity, let him cause them to want for nothing. When
 this has been continued for three years, when food has
@@ -6161,8 +5551,7 @@ fortresses in all the strong positions.”’'
 
 Hereupon one of the Eun-sol and the Associate, on the
 eve of their departure for their own country [an old book
-says :—‘‘ One Eun-sol and one Associate ’’] held secret com-
-munication with T6k-ni and others, saying :—‘‘ If you, having
+says :—‘‘ One Eun-sol and one Associate ’’] held secret communication with T6k-ni and others, saying :—‘‘ If you, having
 allowed sufficient time for us to get past Tsukushi, will secretly
 
 
@@ -6174,9 +5563,6 @@ OXes ee
 
 
 eX Ss
-
-
-109 NIHONGI.
 
 
 kill Illa, we will report the matter fully to the King, who will
@@ -6198,8 +5584,7 @@ thus spoken, he died.
 The Emperor gave command to Niheko no Ohomuraji and
 Nukadeko no Muraji, and had him buried in front of the Hill
 of the western boundary of Wogohori. His wife, children,
-and sailors were made to live at Ishikaha.* Hereupon Oho-
-tomo no Nukadeko no Muraji counselled, saying :—‘“ If
+and sailors were made to live at Ishikaha.* Hereupon Ohotomo no Nukadeko no Muraji counselled, saying :—‘“ If
 they are made to live all together at one place, I fear it may
 give rise to trouble.’’ Accordingly the wife and children were
 made to dwell at Kudara‘-mura in Ishikaha, and the sailors
@@ -6259,8 +5644,7 @@ She took .the name of Nun Zen-shin [twelve years of age].
 Moreover he received into religion two pupils of the Nun
 Zen-shin. One was Toyome, the daughter of Ayabito‘.no Yaho.
 She took the name of Nun Sen-zd. The other was Ishime,
-daughter of Nishikori Tsubu. She took the name of Nun Kei-
-zen. Miumako no Sukune, still in accordance with the Law of
+daughter of Nishikori Tsubu. She took the name of Nun Keizen. Miumako no Sukune, still in accordance with the Law of
 Buddha, reverenced the three nuns, and gave them to Hida no
 Atahe and Tatt6, with orders to provide them with food and
 clothing.. He erected a Buddhist Temple on the east side of
@@ -6295,19 +5679,14 @@ DONS It
 A.D 585.
 
 
-102 NIHONGI.
-
-
 relic on the food of abstinence, and presented it to Mtimako no
 Sukune. Mutmako no Sukune, by way of experiment, took the
 relic, and placing it on the middle of a block of iron, beat it
 with an iron sledge-hammer, which he flourished aloft. The
 block and the sledge-hammer were shattered to atoms, but the
 relic could not be crushed. Then the relic was cast into water,
-when it floated on the water or sank as one desired. In con-
-sequence of this, Mumako no Sukune, Ikenobe no Hida, and
-Shiba Tatto held faith in Buddhism and practised it unremit-
-tingly. Mutmako no Sukune built another Buddhist Temple
+when it floated on the water or sank as one desired. In consequence of this, Mumako no Sukune, Ikenobe no Hida, and
+Shiba Tatto held faith in Buddhism and practised it unremittingly. Mutmako no Sukune built another Buddhist Temple
 at his house in Ishikaha. From this arose the beginning of
 Buddhism.
 
@@ -6336,8 +5715,7 @@ the reign of the late Emperor thy father down to thine, so that
 
 
 we have RS =, “abstinence food,” Lenten fare, as we should say, and
-Giles (p. 18) renders HE fF “to give meals to priests.” This is a well-
-known duty of pious Buddhists. In the history of Corea there is frequent
+Giles (p. 18) renders HE fF “to give meals to priests.” This is a wellknown duty of pious Buddhists. In the history of Corea there is frequent
 mention of Jarge numbers of priests being entertained by the kings from
 time to time.
 
@@ -6403,9 +5781,6 @@ eal,
 
 
 MX 18:
-
-
-104 NIHONGI.
 
 
 time the Emperor and the Ohomuraji were suddenly afflicted
@@ -6481,8 +5856,7 @@ THE EMPEROR TACHIBANA NO TOYOHI.'
 Tue Emperor Tachibana no Toyohi was the fourth child of
 -the Emperor Ame-kuni oshi-hiraki hiro-niha.* His mother’s
 name was Kitashi hime. The Emperor believed in the Law of
-Buddha and reverenced the Way of the Gods.* In the four-
-teenth year of his reign, Autumn, the 8th month, the Emperor
+Buddha and reverenced the Way of the Gods.* In the fourteenth year of his reign, Autumn, the 8th month, the Emperor
 Nunakura futo-tama-shiki died.
 gth month, 5th day. The Emperor assumed the Imperial
 dignity, and made his capital at Ihare, calling it the Palace of
@@ -6503,8 +5877,7 @@ the name of a village in Yamato.
 
 2 YO means to use, employ ; mei, brightness. 3 Kimmei Tenno.
 
-4 Shinto. #f x4. The first time this phrase is found. The “ Yih-
-king” has, “ The sage frames his doctrine by the Way of the Gods, and
+4 Shinto. #f x4. The first time this phrase is found. The “ Yihking” has, “ The sage frames his doctrine by the Way of the Gods, and
 the Empire accepts it.”
 
 5 Province of Yamato.
@@ -6537,8 +5910,7 @@ miya.® Afterwards he removed to Ikaruga in the reign of the
 Empress Toyomike Kashikiya hime, where he occupied the
 Eastern Palace,’ and discharged the duties of Emperor, being
 associated with her in the management of all matters of
-administration, as is stated in the history of the Empress Toyo-
-mike Kashikiya hime. The second was called the Imperial
+administration, as is stated in the history of the Empress Toyomike Kashikiya hime. The second was called the Imperial
 Prince Kume; the third was called the Imperial Prince Yeguri ;
 the fourth was called the Imperial Prince Mamuta.’ Ishikina,
 daughter of Soga no Oho-omi, Iname no Sukune, was appointed
@@ -6567,7 +5939,7 @@ of Buddhism in Japan.
 
 ° The Upper Palace. 6 i.e. the Heir Apparent’s quarters.
 
-7 Or Mata. >
+7 Or Mata. )
 
 8 The Empress Dowager. The motive was probably not lust, but ambition.
 Compare the similar case of Jimmu Tenn0’s widow.
@@ -6581,9 +5953,6 @@ OIG Cy
 
 
 Kg.
-
-
-108 NIHONGI.
 
 
 guards, who firmly fastened the Palace Gate, and resisting his
@@ -6605,14 +5974,12 @@ when I wished to see the interior of the place of temporary
 interment, I was prevented, and not allowed to enter. Seven
 times I myself called out, ‘Open the gate,’ but there was no
 answer. I request that I may be allowed to put him to death.”
-The two Chief Ministers! said :—‘‘ Be it as thou hast com-
-manded.” Upon this, the Imperial Prince Anahobe,: while
+The two Chief Ministers! said :—‘‘ Be it as thou hast commanded.” Upon this, the Imperial Prince Anahobe,: while
 secretly planning to make himself ruler of the Empire, falsely
 gave out that his object was to kill Sakahe no Kimi. . At length,
 along with Mononobe no Moriya no Ohomuraji, he led troops
 with which they surrounded Ikenobe in Ihare. This having
-come to the knowledge of Sakahe no Kimi, he concealed him-
-selfon Mount Mimoro. That day, at midnight, he came away
+come to the knowledge of Sakahe no Kimi, he concealed himselfon Mount Mimoro. That day, at midnight, he came away
 stealthily from the mountain and hid in the hinder’ palace,
 
 
@@ -6625,12 +5992,10 @@ Kimi was, and the Imperial Prince Anahobe straightway sent
 to Moriyano Ohomuraji [one book says :—‘‘ The Imperial Princes
 Anahobe and Hatsusebe having consulted together, sent to
 Moriya no Ohomuraji”’], saying to him :—‘‘ Thou must go and
-slay Sakahe no Kimi, and likewise his two children.” The Oho-
-muraji at length went off in command of an armed force. Soga
+slay Sakahe no Kimi, and likewise his two children.” The Ohomuraji at length went off in command of an armed force. Soga
 
 
-1 Jeg Ef is here evidently not Oho-omi, for one of them was not an Oho-
-omi, but an Ohomuraji. ‘It has the more general sense of Chief Minister.
+1 Jeg Ef is here evidently not Oho-omi, for one of them was not an Ohoomi, but an Ohomuraji. ‘It has the more general sense of Chief Minister.
 2 i.e. the Empress’s palace.
 
 
@@ -6641,8 +6006,7 @@ no Mtmako no Sukune, having heard from an outside source of
 this conspiracy, went to the place where the Imperial Prince
 was. He accordingly arrived before the gate (the gate of the
 Imperial Prince’s house is meant], and finding him on the
-point of going to the place where the Ohomuraji was, remon-
-strated with him, saying:—‘‘A ruler does not approach a
+point of going to the place where the Ohomuraji was, remonstrated with him, saying:—‘‘A ruler does not approach a
 criminal. Thou shouldst not go thyself.’ The Imperial
 Prince would not listen to him, but went. Mumako no Sukune
 forthwith departed in his train, and arrived at Ihare. There
@@ -6653,8 +6017,7 @@ good while later the latter arrived with his troops and reported
 the result of his commission, saying :—“‘ I have executed Sakahe
 and the others.” [One books says:—‘‘ The Imperial Prince
 went in person and shot them dead.” | Hereupon Mtmako no
-Sukune broke into bitter lamentations, saying :—‘ Civil dis-
-order in the Empire is not far off.” The Ohomuraji hearing
+Sukune broke into bitter lamentations, saying :—‘ Civil disorder in the Empire is not far off.” The Ohomuraji hearing
 this, answered and said:—‘‘ Thy position is that of a small
 minister ;' thou dost not know.”
 
@@ -6671,15 +6034,13 @@ Anahobe.
 
 This year was the year Hinoye Mima (43rd) of the Cycle.
 
-2nd year, Spring, 4th month, 2nd day. The Emperor per-
-formed the ceremony of tasting the new rice * on the river-bank
+2nd year, Spring, 4th month, 2nd day. The Emperor performed the ceremony of tasting the new rice * on the river-bank
 of Ihare. On this day the Emperor took ill and returned to
 the Palace. All the Ministers were in attendance. The
 Emperor addressed them, saying :—‘‘ It is Our desire to give
 our adherence to the three precious things. Do ye Our
 Ministers advise upon this.” All the Ministers entered the
-Court and consulted together. Mononobe no Moriya no Oho-
-muraji and Nakatomi no Katsumi. no Muraji opposed the
+Court and consulted together. Mononobe no Moriya no Ohomuraji and Nakatomi no Katsumi. no Muraji opposed the
 
 
 1 Alluding to his title of Oho-omi or Great Minister.
@@ -6717,8 +6078,7 @@ them in great wrath. Then Kekuso, Oshi-sakabe no Fubito,
 came hastily and spoke secretly to the Ohomuraji, saying :—
 ‘“* All the Ministers are now plotting against thee, and moreover
 are about to waylay thee.” When the Ohomuraji heard this,
-he retired to Ato [Ato is the name of a place where the Oho-
-muraji had a country house] and assembled a body of men.
+he retired to Ato [Ato is the name of a place where the Ohomuraji had a country house] and assembled a body of men.
 Nakatomi no Katsumi no Muraji assembled troops at his house
 and went with them to the assistance of the Ohomuraji. At
 length he prepared figures of the Imperial Prince Hikobito, the
@@ -6727,11 +6087,9 @@ them.* But presently finding that success was impossible, he
 repaired to the Palace of the Imperial Prince Hikobito at
 Mimata. One of the attendants * (of the Prince) named Ichihi,
 Tomi no Obito [Tomi is the family name, and Ichihi the
-personal name], watched till Katsumi no Muraji was withdraw-
-ing from the place where the Imperial Prince Hikobito was, and
+personal name], watched till Katsumi no Muraji was withdrawing from the place where the Imperial Prince Hikobito was, and
 drawing his sword, slew him, The Ohomuraji from his house
-at Ato sent a message to Mumako no Oho-omi by Wosaka, Mono-
-nobe no Yasaka no Oho-ichi no Miyakko, and Ani, Urushibe *
+at Ato sent a message to Mumako no Oho-omi by Wosaka, Mononobe no Yasaka no Oho-ichi no Miyakko, and Ani, Urushibe *
 
 
 1 The “ Shukai” editor thinks we should understand here the Emperor's
@@ -6792,10 +6150,7 @@ no Muraji from a deity.
 1 Saddle-makers.
 
 2 i.e. Boddhisattwa. The two Bosatsu here alluded to are probably
-Ji-zO Bosatsu (Kshidi-garbha) and Monju Bosatsu, the Sanskrit Mafid-
-
-
-jus’'ri. Vide Eitel, sub voce. Also vide “Satow’s Handbook,” 2nd ed.
+Ji-zO Bosatsu (Kshidi-garbha) and Monju Bosatsu, the Sanskrit Mafidjus’'ri. Vide Eitel, sub voce. Also vide “Satow’s Handbook,” 2nd ed.
 
 
 introduction, p. 87.
@@ -6803,9 +6158,6 @@ introduction, p. 87.
 
 
 XXI. 7.
-
-
-112 NIHONGI.
 
 
 THE EMPEROR HATSUSEBE.'
@@ -6919,9 +6271,6 @@ VOL. Il. I
 SOGE ib:
 
 
-114 NIHONGI.
-
-
 being tied up on the temples’ [the ancient custom was for boys
 of the age of fifteen or sixteen to tie up their hair on the
 temples ; at the age of seventeen or eighteen it was divided,
@@ -6947,11 +6296,9 @@ there was 2 man named Ichihi, Tomi no Obito, who shot down
 XXI. 10. the Ohomuraji from his branch and killed him and his children.
 
 
-The Ohomuraji’s troops accordingly gave way suddenly. Join-
-ing their forces, they every one put on black clothes, and
+The Ohomuraji’s troops accordingly gave way suddenly. Joining their forces, they every one put on black clothes, and
 going hunting on the plain of Magari in Hirose, so dispersed.”
-In this war some of the children and relatives of the Oho-
-muraji made their escape, and concealing themselves on the
+In this war some of the children and relatives of the Ohomuraji made their escape, and concealing themselves on the
 plain of Ashihara, changed their personal names and altered
 their titles,° while others fled away nobody knew where.
 
@@ -6964,8 +6311,7 @@ gloss. The nuride or nurude resembles the lacquer tree (nuri means lacquer).
 Hepburn calls it Rhus semialata.
 
 3 Shi-ten-o or Chatur Maharadjas. Four demon kings who guard the
-world against Asuras. Vide Eitel, p. 174, 2nd ed. ; also “ Satow’s Hand-
-book,” p. 556.
+world against Asuras. Vide Eitel, p. 174, 2nd ed. ; also “ Satow’s Handbook,” p. 556.
 
 4 Daijinnd or Mahakala. Vide Eitel, pp. 85 and 91. Identified with the
 modern Daikoku Sama. Vide “ Anderson’s B. M. Catalogue,” p. 33.
@@ -6981,8 +6327,7 @@ only a pretence.
 
 
 The people of that time said of them to one another :—‘‘ The
-wife of Soga no Oho-omi is the younger sister of the Oho-
-muraji Mononobe no Moriya, and the Oho-omi, injudiciously
+wife of Soga no Oho-omi is the younger sister of the Ohomuraji Mononobe no Moriya, and the Oho-omi, injudiciously
 acting on his wife’s advice, slew the Ohomuraji.” !
 
 When the civil troubles had been quieted, a Temple of the
@@ -7026,23 +6371,19 @@ to present Chinese reckoning, is equal to 15.13 acres. Vide Giles.
 
 4 Near Nara. It is no longer in existence.
 
-> Of the Ohomuraji.
+) Of the Ohomuraji.
 
 
 ees
 
 
->.O-6 a ae
+).O-6 a ae
 
 
 BNeXT. B12)
 
 
-116 NIHONGI.
-
-
-taking it under his arm, ran off towards the hills. The guards-
-men accordingly pursued him, shooting their arrows at him
+taking it under his arm, ran off towards the hills. The guardsmen accordingly pursued him, shooting their arrows at him
 from both sides of a river, but none of them were able to hit
 him. Hereupon one of the guardsmen ran on swiftly, and
 got before Yorodzu. Lying down by the river’s side, he aimed
@@ -7051,8 +6392,7 @@ out the arrow, and stringing his bow, let fly his arrows. Then
 prostrating himself on the earth, he exclaimed aloud :—‘‘ A
 shield of the Emperor, Yorodzu would have devoted his valour
 to his service, but no examination was made, and, on the
-contrary, he has been hard pressed, and is now at an ex-
-tremity. Let some one come forward and speak with me, for
+contrary, he has been hard pressed, and is now at an extremity. Let some one come forward and speak with me, for
 it is my desire to learn whether I am to be slain or to be made
 a prisoner.” The guardsmen raced up and shot at Yorodzu,
 but he warded off the flying shafts, and slew more than thirty
@@ -7096,8 +6436,7 @@ plain ' of the River of Yega there were slain men to the number
 it might be of several hundreds. Their corpses had become
 putrefied, so that their names could not be ascertained, but by
 the colour of the clothing their bodies were taken up (by their
-friends) for burial. Now there was a dog, kept by Inu, Saku-
-rawi no Tanabe no Muraji, who held on by his teeth to the dead
+friends) for burial. Now there was a dog, kept by Inu, Sakurawi no Tanabe no Muraji, who held on by his teeth to the dead
 body (of his master), and lying beside it, guarded it closely, not
 getting up to go away until he had caused it to be taken up for
 burial. ©
@@ -7105,21 +6444,17 @@ burial. ©
 8th month, 2nd day. The Emperor, upon the advice of
 Kashikiya hime no Mikoto and the Ministers, assumed the
 Imperial Dignity. Soga no Mitmako no Sukune was made
-Oho-omi as before. The Ministers and Daibu were also con-
-firmed in their previous ranks.
+Oho-omi as before. The Ministers and Daibu were also confirmed in their previous ranks.
 
 In this month the Palace was made at Kurahashi.’
 
-1st year, Spring, 3rd month. Woteko, daughter of Oho-
-tomo no Nukade no Muraji, was appointed Consort. She bore
-the Imperial Prince Hachiko and the Imperial Princess Nishi-
-kide.
+1st year, Spring, 3rd month. Woteko, daughter of Ohotomo no Nukade no Muraji, was appointed Consort. She bore
+the Imperial Prince Hachiko and the Imperial Princess Nishikide.
 
 This year, the Land of Pékché sent Envoys, and along with
 them the Buddhist priests Hyé-song, Nyong-Keun, and Hyé-
 sik,® with a present of Buddhist relics. The Land of Pékché
-sent the Eun-sol, Syu-sin, the Ték-sol, Ke-mun, and the Na-
-sol, Pok-pu-m?-sin, with tribute, and also with a present of
+sent the Eun-sol, Syu-sin, the Ték-sol, Ke-mun, and the Nasol, Pok-pu-m?-sin, with tribute, and also with a present of
 Buddhist relics, the Buddhist priest Nyéng-chyo, the ascetics
 Nyéng-wi, Hyé-chyung, Hyé-syuk and To-6m, the Temple
 carpenters Ta-nyang Mi-ta and Mun-ko-ko-cha, a man learned
@@ -7158,13 +6493,9 @@ A.D. 590.
 A.D. 591.
 
 
-118 NIHONGI.
-
-
 Soga no Mtimako no Sukune inquired of the Pékché priests
 the method of receiving discipline, and handing over to the
-Eun-sol, Syu-sin, and the other Pekché Envoys the nuns Zen-
-shin and her companions, despatched them (to Corea) for
+Eun-sol, Syu-sin, and the other Pekché Envoys the nuns Zenshin and her companions, despatched them (to Corea) for
 study. Having pulled down the house of Konoha, ancestor of
 the Asuka no Kinunuhi no Miyakko, he began to build the
 Temple of Hokoji. The name of this place was Asuka no
@@ -7279,9 +6610,6 @@ A.D. 592.
 XXI.- 16,
 
 
-120 NIHONGI.
-
-
 think of be cut off as this wild boar’s throat has been cut?’
 Besides weapons are being made in abundance in the
 Palace.” Now Miimako no Sukune, hearing this, was
@@ -7298,8 +6626,7 @@ This month, Koma, Yamato Aya no Atahe, had a clandestine
 amour with the Imperial concubine Kahakami no Iratsume,
 daughter of Soga, and made her his wife. [Kahakami no
 Iratsume was the daughter of Soga no Mumako no Sukune.]
-Mutmako no Sukune did not find out immediately that Kaha-
-kami no Iratsume had been clandestinely possessed. by Koma,
+Mutmako no Sukune did not find out immediately that Kahakami no Iratsume had been clandestinely possessed. by Koma,
 and supposed that she was dead. But when Koma’s intrigue
 with the Imperial concubine became known he was killed by
 the Oho-om1.
@@ -7316,8 +6643,7 @@ THE EMPRESS TOYO-MIKE KASHIKI-YA-HIME.”
 
 THE Empress Toyo-mike Kashiki-ya-hime was the second *
 daughter of the Emperor Ame-kuni oshi-hiraki hiro-niha’ and
-a younger sister by the same mother of the Emperor Tachi-
-bana no toyo-hi.° In her childhood she was called the Princess
+a younger sister by the same mother of the Emperor Tachibana no toyo-hi.° In her childhood she was called the Princess
 Nukada-be. Her appearance was beautiful, and her conduct
 was marked by propriety. At the age of eighteen, she was
 
@@ -7329,10 +6655,8 @@ dama-shiki.’ When she was thirty-four years of age, the
 Emperor Nunakura futo-dama-shiki died. When she was
 thirty-nine years of age, in the 5th year and the 11th month of
 the reign of the Emperor Hatsuse-be,* the Emperor was
-murdered by the Oho-omi Mttmako no Sukune, and the suc-
-cession to the Dignity being vacant, the Ministers besought
-the Empress-consort of the Emperor Nunakura futo-dama-
-shiki, viz. the Princess Nukada-be, to ascend the throne. The
+murdered by the Oho-omi Mttmako no Sukune, and the succession to the Dignity being vacant, the Ministers besought
+the Empress-consort of the Emperor Nunakura futo-damashiki, viz. the Princess Nukada-be, to ascend the throne. The
 Empress refused, but the public functionaries urged her in
 memorials three times until she consented, and they accordingly
 delivered to her the Imperial Seal.
@@ -7350,7 +6674,7 @@ of consulting Dr. Florenz’s German translation.
 
 princess.
 5 Suiko means “to reason from antiquity.”
-* Literally middle. > Kimmei. 6 YOmei. * Bidatsu.
+* Literally middle. ) Kimmei. 6 YOmei. * Bidatsu.
 
 
 8 Sujun. ® In Yamato.
@@ -7362,21 +6686,16 @@ A.D. 593.
 Da W neds
 
 
-122 NIHONGI.
-
-
 were deposited in the foundation-stone of the pillar of the
 pagoda ' of the Temple of H6k6ji.
 
 16th day. The Pagoda-pillar was erected.
 
-Summer, 4th month, roth day. The Imperial Prince Mima-
-yado no Toyotomimi was appointed Prince Imperial. He had
+Summer, 4th month, roth day. The Imperial Prince Mimayado no Toyotomimi was appointed Prince Imperial. He had
 general control ofthe Government, and was entrusted with all
 the details of administration. He was the second child of the
 Emperor Tachibana no Toyo-hi. The Empress-consort his
-mother’s name was the Imperial Princess Anahobe no Hashi-
-bito. The Empress-consort, on the day of the dissolution of
+mother’s name was the Imperial Princess Anahobe no Hashibito. The Empress-consort, on the day of the dissolution of
 her pregnancy, went round the forbidden precinct, inspecting
 the different offices. When she came to the Horse Department,
 and had just reached the door of the stables,’ she was suddenly
@@ -7395,8 +6714,7 @@ him, and made him occupy the Upper Hall South of the
 setsu in Japanese. This words means (with the pronunciation cé/) in Corean
 Buddhist temples generally, and it is the same word which we have in the
 Japanese Zera, temple. But in the present passage it would seem that one of
-the subsidiary buildings of a Buddhist temple is intended, no doubt some-
-thing in the form of a pagoda, corresponding to either 6 or 14 in the drawing
+the subsidiary buildings of a Buddhist temple is intended, no doubt something in the form of a pagoda, corresponding to either 6 or 14 in the drawing
 in “ Murray’s Handbook of Japan” (Introduction, p. 26). A pagoda in Japan
 is built round a solid central pillar (referred to in the text) which runs up to the
 topmost story. Shari, relics,is the Japanese form of the Sanskrit Sarira, body.
@@ -7415,17 +6733,15 @@ article by Miss Gordon Cumming in the “ English Illustrated Magazine.”
 4 i.e. the Chinese Classics. Inner and Outer have here something of the
 force of our words sacred and secular.
 
-> The Corean pronunciation.
+) The Corean pronunciation.
 
 
 SUIKO. 123
 
 
-Palace. Therefore he was styled the Senior Prince Kamu-tsu-
-miya,’ Muma-ya-do Toyotomimi.
+Palace. Therefore he was styled the Senior Prince Kamu-tsumiya,’ Muma-ya-do Toyotomimi.
 
-Autumn, gth month. The remains of the Emperor Tachi-
-bana no Toyohi were removed and re-interred in the Misasagi of
+Autumn, gth month. The remains of the Emperor Tachibana no Toyohi were removed and re-interred in the Misasagi of
 Shinaga in Kahachi. .
 
 In this year the building of the Temple of Shi-ten-o-ji* at
@@ -7434,8 +6750,7 @@ Arahaka in Naniha was begun.
 This year was the year Midzunoto Ushi (50th) of the
 Cycle.
 
-2nd year, Spring, 2nd month, 1st day. The Empress in-
-structed the Prince Imperial and the Oho-omi to promote the
+2nd year, Spring, 2nd month, 1st day. The Empress instructed the Prince Imperial and the Oho-omi to promote the
 prosperity of the Three Precious Things. At this time, all the
 Omi and Muraji vied each with one another in erecting Buddhist
 shrines for the benefit of their Lords and parents. These were
@@ -7505,9 +6820,6 @@ A.D. 599.
 A.D. 600.
 
 
-124 NIHONGI.
-
-
 4th year, Winter, 11th month. The building of the Temple
 of Hokoji was finished. Accordingly Zentoku no Omi, son of
 the Oho-omi, was appointed Commissioner for the Temple.
@@ -7528,8 +6840,7 @@ and had their young.'
 
 Autumn, 8th month, 1st day. Silla sent tribute of a peacock.
 
-Winter, roth month, roth day. The Land of Koshi pre-
-sented a white deer to the Empress.
+Winter, roth month, roth day. The Land of Koshi presented a white deer to the Empress.
 
 7th year, Summer, 4th month, 27th day. There was an
 earthquake which destroyed all the houses. So orders were
@@ -7613,15 +6924,12 @@ and was granted the various Be of the service of the Gods,’
 
 ? Near where the Temple of Horiuji now stands. 3 Or Kuhi.
 
-* Literally sent as tribute. °> Kodzuke.
+* Literally sent as tribute. °) Kodzuke.
 
 6 If Kume is ‘fi, war, as is probable, there is an obvious propriety in this
 appointment.
 
 7 Such as the Nakatomi, the Imbe, etc.
-
-
-XXII. -6.
 
 
 A.D. 601.
@@ -7630,16 +6938,7 @@ A.D. 601.
 A.D. 602.
 
 
-XXII. 7.
-
-
 A.D, 603.
-
-
-XXII. 8.
-
-
-126 NIHONGI.
 
 
 together with the Kuni no Miyakko and the Tomo no Miyakko,
@@ -7656,12 +6955,10 @@ this time the Imperial Prince Kume fell ill, and was unable to
 carry out the expedition.
 
 Winter, toth month. A Pekché priest named Kwal-leuk
-arrived and presented by way of tribute books of Calendar-
-making, of Astronomy, and of Geography,' and also books of the
+arrived and presented by way of tribute books of Calendarmaking, of Astronomy, and of Geography,' and also books of the
 art of invisibility and of magic. At this time three or four pupils
 were selected, and made to study under Kwal-leuk. Ochin,? the
-ancestor of the Yako no Fumibito, studied the art of Calendar-
-making. Késo,® Otomo no Suguri, studied Astronomy and the art
+ancestor of the Yako no Fumibito, studied the art of Calendarmaking. Késo,® Otomo no Suguri, studied Astronomy and the art
 ofinvisibility. Hinamitatsu, Yamashiro no Omi, studied magic.
 They all studied so far as to perfect themselves in these arts.
 
@@ -7674,8 +6971,7 @@ Prince Kume died in Tsukushi. A mounted courier was
 despatched to report the news to the Empress. Now when the
 Empress heard it, she was greatly shocked, and straightway
 sending for the Prince Imperial and Soga no Oho-omi, spoke
-to them, saying :—‘‘ The Imperial Prince Kume, the General-
-in-Chief for the chastisement of Silla, has died. On the point
+to them, saying :—‘‘ The Imperial Prince Kume, the Generalin-Chief for the chastisement of Silla, has died. On the point
 of undertaking a great project, he has failed to accomplish it.
 Is not this much to be lamented?” So he was temporarily
 interred at Saba in the Province of Suwo, and Wite, Hashi no
@@ -7748,8 +7044,7 @@ Buddha, the merciful one, expected to appear and open a new era about
 3000 years hence. Miroku is probably identical with the Corean mzryéh,
 the general term in that country for Buddhist images.
 
-4 As offerings to temples. . The banners were for display at Court cere-
-monies. Seea paper on the “ Hi no Maru,” “ T.A.S.J.,” Vol. XXII. 1893, for
+4 As offerings to temples. . The banners were for display at Court ceremonies. Seea paper on the “ Hi no Maru,” “ T.A.S.J.,” Vol. XXII. 1893, for
 some account of these banners. See also Dr. Florenz’s note on this passage.
 
 5 The Chinese custom of distinguishing rank by the form and materials of
@@ -7761,10 +7056,6 @@ SCH: ge
 
 
 A.D. 604
-XXII. 10
-
-
-128 NIHONGI.
 
 
 Dai-toku’ . . (greater virtue),
@@ -7786,8 +7077,7 @@ Sho-chi : . (lesser knowledge), ~~
 
 Each was made of sarcenet of a special colour.» They were
 gathered up on the crown in the shape of a bag, and had a
-border attached. Only on the first day of the year were hair-
-flowers * worn.
+border attached. Only on the first day of the year were hairflowers * worn.
 
 12th year, Spring, Ist month, 1st day. Cap-ranks were for
 the first time granted to the various Ministers, there being a
@@ -7872,8 +7162,7 @@ disorderly : if inferiors are wanting in proper behaviour, there
 ' From the ‘‘Lunyu,” or “ Analects” of Confucius.
 
 * That is, the beings produced in transmigration by the four processes of
-being born from eggs, from a womb, moisture-bred, or formed by meta-
-morphosis (as butterflies from caterpillars). Some editions omit the phrase
+being born from eggs, from a womb, moisture-bred, or formed by metamorphosis (as butterflies from caterpillars). Some editions omit the phrase
 Buddha, the Law and the Priesthood.
 
 3 The Chinese is, “i, decorum, courtesy, proper behaviour, ceremony,
@@ -7883,9 +7172,6 @@ WHE 5 Ty K
 
 
 XXII. ‘11.
-
-
-XXII. 12.
 
 
 (£30 NIHONGI.
@@ -7934,8 +7220,7 @@ with office, the sound of praise arises. If unprincipled men
 hold office, disasters and tumults are multiplied. In this world,
 few are born with knowledge: wisdom is the product of earnest
 meditation. In all things, whether great or small, find the
-right man, and they will surely be well managed: on all occa-
-sions, be they urgent or the reverse, meet but with a wise man,
+right man, and they will surely be well managed: on all occasions, be they urgent or the reverse, meet but with a wise man,
 and they will of themselves be amenable. In this way will the
 State be lasting and the Temples of the Earth and of Grain
 will be free from danger. Therefore did the wise sovereigns of
@@ -8006,9 +7291,6 @@ NEXT IE- 13:
 DOCH 714"
 
 
-132 NIHONGI.
-
-
 their functions. Owing to their illness or to their being sent
 on missions, their work may sometimes be neglected. But
 whenever they become able to attend to business, let them be
@@ -8032,8 +7314,7 @@ will assuredly feel resentments, and if he is influenced by
 resentful feelings, he will assuredly fail to act harmoniously with
 others. If he fails to act harmoniously with others, he will
 assuredly sacrifice the public interests to his private feelings.
-When resentment arises, it interferes with order, and is sub-
-versive of law. Therefore in the first clause it was said, that
+When resentment arises, it interferes with order, and is subversive of law. Therefore in the first clause it was said, that
 superiors and inferiors should agree together. The purport is
 the same as this.
 
@@ -8076,8 +7357,7 @@ painters and the Yamashiro painters.
 
 13th year, Summer, 4th month, 1st day. The Empress
 commanded the Prince Imperial, the Oho-omi, and also the
-Princes and Ministers, all to make a vow together, and there-
-withal to begin to make copper* and embroidery images of
+Princes and Ministers, all to make a vow together, and therewithal to begin to make copper* and embroidery images of
 Buddha, sixteen feet high, one of each. She also commanded
 Kuratsukuri no Tori * to be the engineer for the construction of
 
@@ -8124,16 +7404,10 @@ copper and gold in the proportion of 23,000 kin (pounds) of the former to
 A.D. 605.
 
 
->On
+)On
 
 
 A.D. 606.
-
-
-XXII. 16.
-
-
-134 NIHONGI.
 
 
 the Buddhas. At this time King Te-hung' of Koryé, hearing
@@ -8147,9 +7421,7 @@ garments called Azrahz.
 Winter, roth month. The Prince pa took up his abode
 in the Palace of Ikaruga.
 
-14th year, Summer, 4th magne, 8th day. Both the sixteen-
-foot images of Buddha, viz. that of copper and that of em-
-broidery, were finished, and on the same day the sixteen-foot
+14th year, Summer, 4th magne, 8th day. Both the sixteenfoot images of Buddha, viz. that of copper and that of embroidery, were finished, and on the same day the sixteen-foot
 copper image was enshrined in the Golden Hall” of Gangoji.
 
 Now this image of Buddha was too high for the door of
@@ -8209,15 +7481,13 @@ of Sakata in the province of Afumi.” With the revenue .
 derived from this land, Tori built for the Empress the Temple °
 
 
-of Kongé-ji,* now known as the nunnery of Sakata in Mina-
-buchi.
+of Kongé-ji,* now known as the nunnery of Sakata in Minabuchi.
 
 Autumn, 7th month. The Empress requested the Prince
 Imperial to lecture on the Shd-man-gid.’ He completed his
 explanation of it in three days.
 
-In this year the Prince Imperial also lectured on the Hok-
-ke-kid* in the Palace of Okamoto. The Empress was
+In this year the Prince Imperial also lectured on the Hokke-kid* in the Palace of Okamoto. The Empress was
 greatly pleased, and bestowed on the Prince Imperial one
 hundred cho of water-fields in the Province of Harima. They
 were therefore added to the Temple of Ikaruga.
@@ -8231,8 +7501,7 @@ bending lowly under the sky and treading delicately on the
 ground, paid deep reverence to the Gods of Heaven and Earth.
 They everywhere dedicated temples to the mountains and
 rivers, and held mysterious communion with the powers of
-Nature. Hence the male and female elements became har-
-moniously developed, and civilizing influences blended together.
+Nature. Hence the male and female elements became harmoniously developed, and civilizing influences blended together.
 And now in Our reign, shall there be any remissness in the
 worship of the Gods of Heaven and Earth? Therefore let
 Our Ministers with their whole hearts do reverence to the Gods
@@ -8241,8 +7510,7 @@ of Heaven and Earth.” °
 
 1 Le. rice-land. 2 Diamond-temple.
 
-3 A Sutra or Buddhist Scripture called in Sanskrit the @rimaladevi-
-simhanada.
+3 A Sutra or Buddhist Scripture called in Sanskrit the @rimaladevisimhanada.
 
 4 The Saddharma-pundarika-sitra.
 
@@ -8250,9 +7518,6 @@ simhanada.
 
 6 This edict is pure Chinese, and sounds very strangely from an Empress
 who was devoted to Buddhism.
-
-
-XXII. 17.
 
 
 A.D. 607.
@@ -8264,11 +7529,7 @@ SONGS rigs?
 A.D. 608,
 
 
-136 NIHONGI.
-
-
-15th day. The Prince Imperial and the Oho-omi, accom-
-panied by all the functionaries, did worship to the Gods of
+15th day. The Prince Imperial and the Oho-omi, accompanied by all the functionaries, did worship to the Gods of
 Heaven and Earth.
 
 Autumn, 7th month, 3rd day. The Dairai,', Imoko Wono
@@ -8313,8 +7574,7 @@ editor strikes it out. “Great” is prefixed in China to the name of the
 reigning dynasty only. Subsequent writers omit it.
 
 Thang is in Japan pronounced To, as in Tojin, which in our own day is
-(or perhaps I should say, was) a popular word for foreigners of all nation-
-alities.
+(or perhaps I should say, was) a popular word for foreigners of all nationalities.
 
 8 So In-ko is 4 PY fy. The two last characters are meant as a
 phonetic representation of Imoko. The first is taken, according to Dr.
@@ -8339,8 +7599,7 @@ unable to present it.” Hereupon the Ministers advised,
 saying :—‘‘ An Envoy, though he lose his life, should not lose
 his message. Such is (the duty of) an Envoy! How can
 any one be so remiss in it as to lose the letter of the Great
-Country ?”’ And they accordingly condemned him to banish-
-ment. Now the Empress made an order, saying :—‘“‘ Although
+Country ?”’ And they accordingly condemned him to banishment. Now the Empress made an order, saying :—‘“‘ Although
 Imoko is guilty of losing the letter, We cannot easily punish
 him, for in that case the guest of the Great Country would
 hear of it, and this is undesirable.” So he was pardoned and
@@ -8348,8 +7607,7 @@ left unpunished. .
 
 Autumn, 8th month, 3rd day. The Thang guests entered
 the capital. On this day seventy-five caparisoned horses were
-sent to meet the Thang guests on the Tsubaki no ichi high-
-way, where Hirafu, Nukada be no Muraji, delivered a message
+sent to meet the Thang guests on the Tsubaki no ichi highway, where Hirafu, Nukada be no Muraji, delivered a message
 of welcome to them.
 
 12th day. The Thang guests were summoned to Court,
@@ -8358,8 +7616,7 @@ no Omi and Idaku, Mononobe no Yosami no Muraji, acted as
 introducers of the guests.
 
 Now the presents from the Land of Great Thang were
-placed in the courtyard. Then the Chief Envoy, P’ei-Shih-
-ch‘ing, bearing in his own hands the letter (of credence), made
+placed in the courtyard. Then the Chief Envoy, P’ei-Shihch‘ing, bearing in his own hands the letter (of credence), made
 obeisance twice, and declared the purport of his mission. He
 then stood up.
 
@@ -8381,13 +7638,7 @@ not allow it. The term Nippon was first used in the period Wu-Téh, under
 the Thang Dynasty (618-626).” Another Chinese authority gives 670 as
 
 
-XXII. 19,
-
-
 XG 620s
-
-
-138 - NIHONGI.
 
 
 Dairai, So In-ko, and his suite have arrived, and have given
@@ -8396,8 +7647,7 @@ us full information.
 We having reverently received the precious command’
 (of Heaven), rule over the universe. It is Our desire to diffuse
 abroad Our civilizing influences, so as to cover all living
-things, and Our sentiment of loving nurture knows no dis-
-tinction of distance.
+things, and Our sentiment of loving nurture knows no distinction of distance.
 
 Now We learn that Your Majesty, dwelling separately
 beyond the sea, bestows the blessings of peace on your
@@ -8411,8 +7661,7 @@ your sincerity.
 Our health is. as usual, notwithstanding the increasing
 warmth of the weather.
 
-Therefore We have sent P’ei-Shih-ch‘ing, Official Enter-
-tainer of the Department charged with the Ceremonial for
+Therefore We have sent P’ei-Shih-ch‘ing, Official Entertainer of the Department charged with the Ceremonial for
 the reception of Foreign Ambassadors, and his suite, to notify
 to you the preceding. We also transmit to you the products
 of which a list is given separately.”
@@ -8437,8 +7686,7 @@ In one writing it is stated that the colour of the garments
 corresponded in all cases with that of the official caps.
 
 
-the date when Nippon began to be officially used in China. The “ Tong-
-kam” gives the same date as that in which the Japanese officially notified this
+the date when Nippon began to be officially used in China. The “ Tongkam” gives the same date as that in which the Japanese officially notified this
 term to the Corean Government as the proper appellation of their country.
 1 The Dei gratia of Europ ean Sovereigns.
 2 It appears from this and other passages that at this period the Court
@@ -8454,8 +7702,7 @@ SUIKo. 139
 
 16th day. The Thang guests were entertained at Court.
 
-gth month, 5th day. The guests were entertained at Oho-
-kohori in Naniha.
+gth month, 5th day. The guests were entertained at Ohokohori in Naniha.
 
 11th day. The Thang guest, P’ei Shih-ch‘ing, took his
 departure. Accordingly, Wono no Imoko no Omi was
@@ -8477,8 +7724,7 @@ informal.”
 At this time there were sent to the Land of Thang the
 students Fukuin, Yamato no Aya no Atahe, Emyo, Nara no
 Wosa,’? Kuromaro, Takamuku no Ayabito, and Ohokuni, Imaki
-no Ayabito, together with the student-priests Hifumi (or Nichi-
-bun), Imaki no Ayabito, Shoan, Minabuchi no Ayabito, Eon,
+no Ayabito, together with the student-priests Hifumi (or Nichibun), Imaki no Ayabito, Shoan, Minabuchi no Ayabito, Eon,
 Shiga no Ayabito, and Késai, Imaki no Ayabito, in all eight
 persons.
 
@@ -8518,9 +7764,6 @@ DOG MAD i
 A.D. 610.
 
 
-140 NTHONGI.
-
-
 Tsukushi reported to the Empress that Buddhist priests from
 Pékché, named To-heun and Hyé-mi,’ at the head of ten
 others and seventy-five laymen, had anchored in the harbour
@@ -8549,19 +7792,14 @@ did not return.
 
 18th year, Spring, 3rd month. The King of Kory6 sent
 tribute of Buddhist priests named Tam-chhi and Pop-chong.
-Tam-chhi knew the five (Chinese) classics.» He was more-
-over skilled in preparing painters’ colours, paper, and ink. He
+Tam-chhi knew the five (Chinese) classics.» He was moreover skilled in preparing painters’ colours, paper, and ink. He
 also made mills. This was apparently the first time that mills
 were made." .
 
-Autumn, 7th month. An Envoy from Silla named Chuk-
-
-
-of Ito are mentioned in the Chinese annals as ruling in the north of Kiushiu
+Autumn, 7th month. An Envoy from Silla named Chukof Ito are mentioned in the Chinese annals as ruling in the north of Kiushiu
 under the sovereign of Yamato in the 3rd century. The Interlinear Kana
 gives Oho-mikoto-mochi, Great-august-thing-holder, as the Japanese
-equivalent for Dazai. But I am disposed to think that this is a mere trans-
-lation, like many of the Kana renderings of Chinese titles, and that this
+equivalent for Dazai. But I am disposed to think that this is a mere translation, like many of the Kana renderings of Chinese titles, and that this
 word was not a real title of the viceroy.
 
 1 In Japanese Dokin and Emi.
@@ -8636,16 +7874,10 @@ RAT eas
 A.D. 611.
 
 
-XXII. 24.
-
-
 ALD OL.
 
 
 XT. 25.
-
-
-142 NIHONGI.
 
 
 At cockcrow they assembled by the pond of Fujihara, and
@@ -8695,8 +7927,7 @@ We would serve her ;
 And so ends my song.
 
 
-fungus for moxa or scented flag for making the perfumed and gaily-
-ornamented balls called Kusu-dama, hung. up by the Japanese in their
+fungus for moxa or scented flag for making the perfumed and gailyornamented balls called Kusu-dama, hung. up by the Japanese in their
 temples and houses. Also various other herbs.
 
 1 In Loochoo at the present day rank is indicated by the material of the
@@ -8734,8 +7965,7 @@ To have in her service
 The sons of Soga!
 
 
-2nd month, 28th day. The body of the former Empress-
-consort Katashi-hime? was removed and re-interred in the
+2nd month, 28th day. The body of the former Empressconsort Katashi-hime? was removed and re-interred in the
 Great Misasagi of Hinokuma.
 
 On this day funeral orations were pronounced on the Karu *
@@ -8745,8 +7975,7 @@ spirit of the deceased of such things as sacred utensils and
 sacred garments,‘ fifteen thousand kinds in all.
 
 Secondly, the Imperial Princes, each in the order of their
-rank, pronounced funeral orations. Thirdly, Womaro, Naka-
-tomi no Miyatokoro no Muraji, pronounced the eulogistic
+rank, pronounced funeral orations. Thirdly, Womaro, Nakatomi no Miyatokoro no Muraji, pronounced the eulogistic
 address of the Oho-omi. Fourthly, the Oho-omi, at the head
 of the Omi of the eight families,? caused Marise, Sakahibe no xxi. 26.
 Omi, to read the written eulogiums of the nobility.°. The
@@ -8777,19 +8006,12 @@ emendation of this passage.
 surnames. .
 
 
-XXII 27.
-
-
 A.D. 613.
-
-
-144 NIHONGI.
 
 
 This year a man emigrated from Pékché whose face and
 body were all flecked with white, being perhaps affected with
-white ringworm. People disliking his extraordinary appear-
-ance, wished to cast him away on an island in the sea. But
+white ringworm. People disliking his extraordinary appearance, wished to cast him away on an island in the sea. But
 this man said :—‘‘If you dislike my spotted skin, you should not
 breed horses or kine in this country which are spotted with
 white. Moreover, I have a small talent. I can make the
@@ -8815,8 +8037,7 @@ Kami, Unebi, and Wani were constructed, and a great
 highway laid from Naniha to the capital.*
 
 12th month, 1st day. The Prince Imperial took a journey
-to Katawoka. Now a starving man was lying by the road-
-side. He asked his name, but there was no answer. The
+to Katawoka. Now a starving man was lying by the roadside. He asked his name, but there was no answer. The
 Prince Imperial, seeing this, gave him to eat and to drink,
 and taking off his own raiment, clothed with it the starving
 man, saying to him, “ Lie in peace.” Then he made a song,
@@ -8904,7 +8125,7 @@ VOI, ET; ts
 A.D. 616,
 
 
->. EG Sey,
+). EG Sey,
 
 
 ADs OL7s
@@ -8914,9 +8135,6 @@ A.D. 618.
 
 
 Xela) 303
-
-
-146 NIHONGI.
 
 
 and Yatabe no Miyakko arrived from the Land of Great
@@ -8955,8 +8173,7 @@ In this year there were good crops of the five kinds of grain.
 with tribute of local productions, and reported that Yang-Ti*
 of the Sui dynasty had invaded that country with a force of
 300,000 men, but had, on the contrary, been beaten by them.‘
-They therefore sent a present of two captives, named Chén-
-kung and P‘u-t‘ung, with such things as flutes, cross-bows,
+They therefore sent a present of two captives, named Chénkung and P‘u-t‘ung, with such things as flutes, cross-bows,
 and catapults—ten in all. They also sent one camel, bred in
 their country.
 
@@ -9003,16 +8220,14 @@ and burnt it. So at last the ships were built.
 from the province of Afumi that in the river Gamafu * there was
 a creature in the shape of a man.’
 
-Autumn, 7th month. There was a fisherman of the pro-
-vince of Settsu, who cast his net in the Horiye.* Something
+Autumn, 7th month. There was a fisherman of the province of Settsu, who cast his net in the Horiye.* Something
 entered his net formed like a child, which was neither a fish
 noraman. Its name was unknown.
 
 28th year, Autumn, 8th month. Two men of Yaku were
 cast away on the island of Idzu.°
 
-Autumn, roth month. The top of the Misasagi’ of Hino-
-kuma was covered with pebbles. Outside the boundary the
+Autumn, roth month. The top of the Misasagi’ of Hinokuma was covered with pebbles. Outside the boundary the
 earth was piled up into a hill, and each of the noble houses ‘*
 
 
@@ -9039,32 +8254,22 @@ poe
 Tee
 
 
-XXII. 31.
-
-
 A.D. 619.
 
 
 A.D. 620.”
 
 
-XXII. 32.
-
-
 A.D. Oote
 
 
->, OI ee
-
-
-148 — NIHONGI.
+), OI ee
 
 
 was charged to erect a great pillar’ on the top of the hill of
 earth. Now the pillar set up by Yamato no Aya no Saka no
 Uhe no Atahe was very much higher than the others, and the
-men of that time gave him the name of Ohohashira (great-
-pillar) no Atahe.
+men of that time gave him the name of Ohohashira (greatpillar) no Atahe.
 
 12th month, 1st day. There was a red appearance in the
 sky, over a rod in length, and resembling the tail of a fowl in
@@ -9117,8 +8322,7 @@ SUIKO. 149
 
 Prince Kamitsumiya Toyotomimi. Certainly Heaven has
 freely endowed him with the virtues of a sage.’ Born in the
-Land of Nippon,’ he thoroughly possessed the three funda-
-mental principles,* he continued the great plans of the
+Land of Nippon,’ he thoroughly possessed the three fundamental principles,* he continued the great plans of the
 former sages. He reverenced the Three Precious Things,‘
 and assisted the people in their distress. He was truly a great
 ‘sage. And now the Prince Imperial is dead. I, although a
@@ -9151,16 +8355,14 @@ baptismal flag,’ with twelve smaller ones. Now the image of
 1 See Legge’s “Confucian Analects,” p. 82.
 
 * Whether or not the previous examples of the use of the characters
-H AX (Nippon) for Japan are authentic, or merely introduced retro-
-spectively by later compilers, the present instance is probably a genuine
+H AX (Nippon) for Japan are authentic, or merely introduced retrospectively by later compilers, the present instance is probably a genuine
 case of its use. Itis natural to suppose that it was used in an informal way
 for some time before it was used officially.
 
 There is here, no doubt, an allusion to the meaning of Nippon, viz.
 “ Origin of the sun.”
 
-3 Viz. Heaven, Earth, and Man. The meaning is that he was a philo-
-sopher.
+3 Viz. Heaven, Earth, and Man. The meaning is that he was a philosopher.
 
 4 Buddha, Dharma, and Samgha.
 
@@ -9168,21 +8370,11 @@ sopher.
 
 6 The ‘‘ Kiujiki” ends here.
 
-7 The Buddhist baptism consists in washing the top of the head with per-
-fumed water. The baptismal flags were so called because they had the
+7 The Buddhist baptism consists in washing the top of the head with perfumed water. The baptismal flags were so called because they had the
 same efficacy, raising those who passed under them first to the status of a
 
 
-XXII. 34.
-
-
 A.D. 622,
-
-
-XXII. 35.
-
-
-150 NIHONGI.
 
 
 Buddha was placed in the Hada’ Temple at Kadono. The
@@ -9192,18 +8384,15 @@ other articles, namely the relics, the golden pagoda, and the
 
 
 baptismal flags, were all deposited in Shitenoji.” At this
-time, the Buddhist priests E-sai and E-ko, with the phy-
-sicians E-jitsu and Fuku-in, students of the learning of Great
+time, the Buddhist priests E-sai and E-ko, with the physicians E-jitsu and Fuku-in, students of the learning of Great
 Thang, arrived in company with Chi-syén-i and the others.
 Now E-jitsu and the rest made together a representation to
 the Empress, saying :—‘‘ Those who have resided in Thang
 for study*® have all completed their courses, and ought to be
 sent for. Moreover, the Land of Great Thang is an admirable
-country, whose laws are complete and fixed. Constant com-
-munication should be kept up with it.”
+country, whose laws are complete and fixed. Constant communication should be kept up with it.”
 
-This year Silla invaded Imna,* and Imna became a depen-
-dency of Sillas The Empress thought of invading Silla, and
+This year Silla invaded Imna,* and Imna became a dependency of Sillas The Empress thought of invading Silla, and
 consulted with the Oho-omi. She also asked the opinion of
 all the Ministers. Then Tanaka no Omi answered and
 said :-—‘‘ An invasion should not be too hastily undertaken.
@@ -9214,8 +8403,7 @@ envoy thither to view the state of things.” ~
 
 Kuni, Nakatomi no Muraji, said :—‘‘Imna is originally an
 inner Miyake of ours. The Silla people have now attacked
-and taken possession of it. I pray that our troops be disci-
-plined, that Silla be chastised, and Imna taken from it and
+and taken possession of it. I pray that our troops be disciplined, that Silla be chastised, and Imna taken from it and
 given to Pékché. Would not this be better than that it should
 
 
@@ -9225,8 +8413,7 @@ given to Pékché. Would not this be better than that it should
 Tchakra Radja (vide Eitel), and ultimately of a Buddha. -Fishes were
 benefited by such flags being floated down a river.
 
-There is at the present day a survival of this practice in the Nagare-
-kanjd (kanjO means baptism, or head-sprinkling), described in Yamada’s
+There is at the present day a survival of this practice in the Nagarekanjd (kanjO means baptism, or head-sprinkling), described in Yamada’s
 Dictionary as follows :—“ Four posts are set up near water, on which white
 cloth is hung. To this are attached leaves of lign-aloes, etc., as offerings
 for the benefit of the souls of the friendless dead, of drowned persons, or of
@@ -9251,8 +8438,7 @@ SUIKO. 151
 
 Pékché is a very changeable country.' Even on the roads
 they lie. Everything they ask for is unjust. Therefore
-(Imna) should not be given over to Pekché.” So the expe-
-dition was not carried out. Hereupon Kishi no Ihakane
+(Imna) should not be given over to Pekché.” So the expedition was not carried out. Hereupon Kishi no Ihakane
 was sent to Silla, and Kishi no Kuranoshita to Imna, to
 inquire into the Imna affairs.
 
@@ -9277,16 +8463,13 @@ Afumi no Ashimi no Omi, the Shotoko, Ushi, Heguri no Omi,
 the Shdtoko, Ohotomo no Muraji, and the Shotoko, Ikusa,
 Ohoyake no Omi, were made assistant-generals.
 
-They invaded Silla with an army of several tens of thou-
-sands of men. Now Ihakane and the others had assembled
+They invaded Silla with an army of several tens of thousands of men. Now Ihakane and the others had assembled
 at the port, and were waiting for a fair wind and smooth sea
 in order to embark. Hereupon a numerous naval force
 arrived, filling the sea. The Envoys of the two countries,
 gazing upon it, were struck with alarm, and returned home.
 
-In their stead, Kamchi Té-chhang” was made tribute-
-bearer for Imna, and came with an offering of tribute. Here-
-upon Ihakane and his colleague said to one another :—“ The
+In their stead, Kamchi Té-chhang” was made tributebearer for Imna, and came with an offering of tribute. Hereupon Ihakane and his colleague said to one another :—“ The
 outbreak of this war is contrary to the previous agreement,
 therefore the Imna affairs cannot now be settled.” So they
 put to sea, and crossed over to Japan. The generals, how-
@@ -9297,22 +8480,12 @@ put to sea, and crossed over to Japan. The generals, how-
 a Silla official title.
 
 
-XXII. 36.
-
-
-XXII. 37.
-
-
 A.D. 623.
-
-
-152 NIHONGI.
 
 
 ever, first went to Imna, and having held a consultation, were
 about to attack Silla. Hereupon the King of the Land of
-Silla, hearing that a large force had arrived, became appre-
-hensive and tendered his submission. Then the generals
+Silla, hearing that a large force had arrived, became apprehensive and tendered his submission. Then the generals
 consulted together, and forwarded a memorial, which was
 granted by the Empress.
 
@@ -9323,8 +8496,7 @@ received the Imperial commands with profound respect, and
 accordingly designated two special Envoys to deliver tribute
 from the two countries. But when they saw a naval force
 arrive, the Envoys with tribute for our Court went home
-again. The tribute, however, has been brought, notwith-
-standing this.” Hereupon the Oho-omi said :—‘‘ What a pity
+again. The tribute, however, has been brought, notwithstanding this.” Hereupon the Oho-omi said :—‘‘ What a pity
 that the army was despatched so soon! ”’
 
 The men of that time said that this war was owing to
@@ -9369,12 +8541,10 @@ Precious Things, and should cherish devoutly the prohibitions
 of the Buddhist law. How can he without compunction be
 readily guilty of crime? We now hear that there is a priest
 who has struck his grandfather. Therefore, let all the priests
-and nuns of the various temples be assembled, and investi-
-gation made, Let severe punishment be inflicted on any who
+and nuns of the various temples be assembled, and investigation made, Let severe punishment be inflicted on any who
 are convicted of offences.’’ Hereupon the priests and nuns
 were all assembled, and an examination held. The wicked
-priests and nuns were all about to be punished, when Kwal-
-leuk, a Buddhist priest of Pékché, presented a memorial, as
+priests and nuns were all about to be punished, when Kwalleuk, a Buddhist priest of Pékché, presented a memorial, as
 follows :—‘‘The law of Buddha came from the Western
 Country to Han.’ Three hundred years later it was handed
 on to Pékché, since which time barely one hundred years had
@@ -9385,16 +8555,14 @@ years have passed, and consequently the priests and nuns
 have not yet learned the Buddhist laws, and readily commit
 wickedness. On this account all the priests and nuns are
 afraid, and do not know what to do. I humbly pray that
-with the exception of the wicked (priest who struck his grand-
-father) all the other priests and nuns may be pardoned and
+with the exception of the wicked (priest who struck his grandfather) all the other priests and nuns may be pardoned and
 not punished. That would be a work of great merit.”
 
 Accordingly the Empress granted (his petition).
 
 13th day. A decree was made as follows :—‘ If even the
 priests continue to offend against the law, wherewithal shall
-the laymen be admonished? Therefore from this time for-
-ward we appoint a Sdjo and a Sodzu for the superintendence
+the laymen be admonished? Therefore from this time forward we appoint a Sdjo and a Sodzu for the superintendence
 of the priests and nuns.”
 
 17th day. The priest Kwal-leuk was appointed S6jo, and
@@ -9414,9 +8582,6 @@ Department of the Buddhist religion.
 DONE St
 
 
-XXII. 39.
-
-
 A.D. 624.
 
 
@@ -9424,9 +8589,6 @@ A.D. 626.
 
 
 XXII. 4o.
-
-
-154 NIHONGI.
 
 
 temples, and also of the circumstances under which the priests
@@ -9438,8 +8600,7 @@ Winter, roth month, 1st day. The Oho-omi sent the two
 Ministers, Adzumi no Muraji and Maro, Abe no Omi, to inform
 the Empress, saying :—‘ The district of Katsuraki is my
 original residence, and I have therefore taken my name from
-it. I pray accordingly that I may have this district perma-
-nently, and I desire that it should be constituted my fief.”
+it. I pray accordingly that I may have this district permanently, and I desire that it should be constituted my fief.”
 Hereupon the Empress made an order, saying :—'
 
 “We are sprung from the Soga family. Moreover the
@@ -9493,20 +8654,16 @@ SuIKo. 155
 
 
 month there were continual rains, and great famine in the
-Empire. The old ate the roots of herbs, and died by the road-
-side. Infants at the breast died with their mothers. Thieves
+Empire. The old ate the roots of herbs, and died by the roadside. Infants at the breast died with their mothers. Thieves
 and robbers sprang up in great numbers, and could not be put
 down.
 
-35th year, Spring, 2nd month. In the province of Michi-
-
-noku there was a mujina! which changed into a man and
+35th year, Spring, 2nd month. In the province of Michinoku there was a mujina! which changed into a man and
 sang.
 Summer, 5th month. Flies gathered together in great
 numbers. They clustered together for ten rods, and floated
 away in the air across the Shinano pass” with a sound like
-thunder. They reached as far east as the province of Kami-
-tsuke, and then spontaneously dispersed.
+thunder. They reached as far east as the province of Kamitsuke, and then spontaneously dispersed.
 
 36th year, Spring, 2nd month, 27th day. The Empress
 took to her sick bed.
@@ -9559,14 +8716,9 @@ XAT, “gy.
 OCI 42:
 
 
-156 NIHONGI.
+nounced a funeral eulogy at the shrine of the temporary burialplace.
 
-
-nounced a funeral eulogy at the shrine of the temporary burial-
-place.
-
-Before this time the Empress had given her dying injunc-
-tions to the Ministers, saying :—‘‘ Of late years the five grains
+Before this time the Empress had given her dying injunctions to the Ministers, saying :—‘‘ Of late years the five grains
 have not produced well, and there is great famine among the
 people. Let there be therefore no costly interment ' by raising
 for me a misasagi, but let me be buried in the misasagi of the
@@ -9626,14 +8778,10 @@ OSE, (2%
 XXIII. 3.
 
 
-158 NIHONGI.
-
-
 the Imperial Prince Tamura be watchful and observant, and
 not remiss.’ She next sent for Prince Yamashiro no Ohoye,
 and said to him :—‘ Do thou avoid brawling speech of thine
-own, and fail not to follow the words of the many. Be self-
-restrained, and not contentious.’ These were the dying
+own, and fail not to follow the words of the many. Be selfrestrained, and not contentious.’ These were the dying
 injunctions of the Empress. Whom now shall we make
 Emperor?” The Ministers were silent, and made no answer.
 Again he asked them, but there was no reply. He persisted in
@@ -9660,8 +8808,7 @@ over the matter and declare myself later.” Upon this the
 Oho-omi, seeing that the Ministers were inharmonious, and
 that the matter could not be accomplished, retired.
 
-Before this, the Oho-omi had by himself inquired of Saka-
-hibe no Marise no Omi, saying :—‘‘ The Empress has died,
+Before this, the Oho-omi had by himself inquired of Sakahibe no Marise no Omi, saying :—‘‘ The Empress has died,
 leaving no heir. Whom shall we’ make Emperor?” He
 answered and said :—‘‘ Let us raise up Yamashiro no Ohoye,
 and make him Emperor.” At this time Yamashiro no Ohoye
@@ -9690,8 +8837,7 @@ Ikaruga, and say to Prince Yamashiro no Ohoye, ‘ How should
 his humble servant! be so rash as of his own authority to decide
 the succession to the Dignity? All that he has done is to take
 up the Empress’s dying commands, and communicate them to
-the Ministers.’ The Ministers said with one voice, ‘ In accord-
-ance with the dying instructions of the Empress, the Imperial
+the Ministers.’ The Ministers said with one voice, ‘ In accordance with the dying instructions of the Empress, the Imperial
 Prince Tamura is the natural successor to the Dignity. Who
 has any further objection?’ Such were the words of the
 Ministers.: They are not specially my sentiments. Although I
@@ -9721,14 +8867,10 @@ plural, and to refer to the Daibu.
 XXIII. 4.
 
 
-160 NIHONGI.
-
-
 brawling words, and fail not to obey the: voice of general
 opinion.’ The princesses in immediate attendance on the
 Empress, and the ladies-in-waiting all know this. Moreover,
-it is within the direct knowledge of the great Prince.” Here-
-upon Prince Ohoye caused further inquiry to be made, saying :
+it is within the direct knowledge of the great Prince.” Hereupon Prince Ohoye caused further inquiry to be made, saying :
 —‘‘Is there any special person who has heard these dying
 injunctions of the Empress?” The answer was, ‘“‘ We have no
 knowledge of any secret particulars.’’ After this he sent a
@@ -9753,11 +8895,9 @@ proceeded to the inner gate. Moreover Kurome, Kurikuma no
 Uneme, met me in the courtyard, and led me to the Great
 Hall. Now the Empress’s personal attendants, with Princess
 Kurimoto at their head, and eight ladies-in-waiting, Shibime
-among the number, several tens of persons in all, were in attend-
-ance beside the Empress. The Imperial Prince Tamura was also
+among the number, several tens of persons in all, were in attendance beside the Empress. The Imperial Prince Tamura was also
 present. Now the Empress was very ill, and could not see me.
-Accordingly Princess Kurimoto informed her that Prince Yama-
-shiro no Ohoye, whom she had sent for, had arrived. Then the
+Accordingly Princess Kurimoto informed her that Prince Yamashiro no Ohoye, whom she had sent for, had arrived. Then the
 Empress raised herself up and gave command, saying :—‘ We,
 with our poor abilities, have long borne the burden of the great
 institution. But now our destined career is drawing to a close;
@@ -9837,9 +8977,6 @@ XXIII. 6.
 XXIII. 7.
 
 
-162 NIHONGI.
-
-
 sented on the former day was cou what I heard. Shall I
 oppose my maternal uncle ? ”
 
@@ -9883,7 +9020,7 @@ thee: if others are right and thou art wrong, I shall in that
 
 
 1 Kimmei Tenno. 2 That is, the succession to the throne.
-> The same as Sakahibe no Omi.
+) The same as Sakahibe no Omi.
 
 
 OMEI. 1623
@@ -9914,8 +9051,7 @@ which thou owest to the former prince.’ But the peace of the
 Empire is now threatened on thy sole account. Moreover, the
 former Prince, when near his end, addressed his children,
 saying :—‘ Avoid wickedness of every kind, practise good of
-every kind.’ I heard this speech, and have made it my con-
-stant rule of life. On this account, although I have my private
+every kind.’ I heard this speech, and have made it my constant rule of life. On this account, although I have my private
 sentiments, I am patient, and not wrathful. Nor can I set
 myself in opposition to my uncle. I pray thee, henceforward,
 be not afraid to reform thy views. Yield to the many, and do
@@ -9945,9 +9081,6 @@ XXIII. 8.
 A.D. 620.
 
 
-164 NIHONGI,
-
-
 The Oho-omi, wishing to put to death Sakahibe no Omi,
 raised troops which he sent against him. Sakahibe no Omi
 hearing that an armed force was coming, took with him his
@@ -9959,8 +9092,7 @@ eldest son, Ketsu, fled and concealed himself in the tiled house '
 of a nunnery, where he had intrigues with one or two of the
 nuns. Now one of the nuns was jealous and informed on him.
 The temple was surrounded and he was on the point of being
-caught, when he got away and went to Mount Unebi. There-
-fore they searched the mountain. Ketsu had no place to
+caught, when he got away and went to Mount Unebi. Therefore they searched the mountain. Ketsu had no place to
 escape to, and committed suicide on the mountain by stabbing
 himself in the throat. The people of that day made a song,
 saying :—
@@ -10026,8 +9158,7 @@ two sons and one daughter. The name of the eldest was the °
 
 Imperial Prince Katsuraki [the Emperor who reigned in the
 Palace of Ohotsu in Afumi];' the second was called the
-Imperial Princess Hashibito;* the third was called the Im-
-perial Prince Oho-ama [the Emperor who reigned in the
+Imperial Princess Hashibito;* the third was called the Imperial Prince Oho-ama [the Emperor who reigned in the
 Palace of Kiyomihara] .* The Lady Hode no Iratsume, daughter
 of the Oho-omi Soga no Shima, bore (to him) the Imperial
 Prince Furubito [also called the Imperial Prince Ohoye}.
@@ -10101,13 +9232,7 @@ A.D. 633.
 A.D. 634.
 
 
-166 NIHONGI.
-
-
-Autumn, gth month, 19th day. The Emperor made a pro-
-
-
-gress to the hot springs of Arima * in the Province of Settsu.
+Autumn, gth month, 19th day. The Emperor made a progress to the hot springs of Arima * in the Province of Settsu.
 
 
 Winter, 12th month, 13th day. The Emperor arrived from
@@ -10190,8 +9315,7 @@ by fire, the eres removed his residence to the Palace of
 Tanaka.
 
 Autumn, 7th month, 1st day. Prince Ohomata addressed
-Toyora no Oho-omi, saying :—‘‘ The Ministers and function-
-aries are remiss in their attendance at Court. Henceforward,
+Toyora no Oho-omi, saying :—‘‘ The Ministers and functionaries are remiss in their attendance at Court. Henceforward,
 let them attend at the beginning of the hour of the Hare,* and
 withdraw after the hour of the Serpent. Regulate this by
 means of a bell.” The Oho-omi, however, did not take this
@@ -10235,9 +9359,6 @@ XXIIL.13.
 , AD, 638.
 
 
-168 NIHONGI.
-
-
 3rd month, 2nd day. There was an eclipse of the sun.
 
 In this year the Yemishi rebelled and did not come to Court.
@@ -10245,8 +9366,7 @@ The Dainin, Katana, Kamitsukenu no Kimi, was appointed
 generalto smite them. But it was he, on the contrary, who
 was defeated by the Yemishi, and fled into a fortress, where he
 was eventually besieged by the enemy. His soldiers all slipped
-away, and the castle became empty. The general was per-
-plexed and knew not what to do. Then at nightfall he was
+away, and the castle became empty. The general was perplexed and knew not what to do. Then at nightfall he was
 climbing over the palisade in order to escape, when his wife
 lamented, saying :—‘‘ Oh, what a shame that.we should be slain
 by Yemishi!’’ And to her husband she spoke, saying :—‘“‘ Thy
@@ -10256,8 +9376,7 @@ hand down to future generations their dread valour. If thou
 dost now bring disgrace on the name of thy forefathers, thou
 wilt surely become a laughing-stock to posterity.” So she
 poured out sake for her husband, and compelled him to drink
-it. Then she girded on herself her husband’s sword, and bend-
-ing ten bows, caused the women, of whom there were several
+it. Then she girded on herself her husband’s sword, and bending ten bows, caused the women, of whom there were several
 tens, to twang the bow-strings. When this was done, her
 husband roused himself again, and seizing a weapon which was
 lying on the ground, advanced. The Yemishi thought that the
@@ -10283,8 +9402,7 @@ constellation fj (Cancer). Giles says that it is in Argo. The interlinear
 Kana has Ama no Kitsune, or the Celestial Fox.
 
 The Celestial Dog, or Tengu, of modern Japanese superstition is a winged
-creature in human form with an exceedingly long nose, which haunts moun-
-tain-tops and other secluded places. .It is a favourite subject of artists. See
+creature in human form with an exceedingly long nose, which haunts mountain-tops and other secluded places. .It is a favourite subject of artists. See
 “ Anderson’s British Museum Catalogue,” p. 410.
 
 
@@ -10323,8 +9441,7 @@ Autumn, gth month. The priests who had studied in Great
 Thang, viz. Ye-on and Ye-un, entered the capital in the train of
 the Silla Escort Envoys.
 
-Winter, 11th month, 1st day. The Silla Envoys were enter-
-tained at Court. Accordingly the Emperor granted them one
+Winter, 11th month, 1st day. The Silla Envoys were entertained at Court. Accordingly the Emperor granted them one
 grade of cap-rank.
 
 12th month, 14th day. There was an Imperial progress to
@@ -10375,9 +9492,6 @@ XXITT.16.
 A.D. 641.
 
 
-170 NIHONGI.
-
-
 was given, at which by request the priest Ye-on expounded the
 Muryo jiu ki.’
 
@@ -10414,20 +9528,17 @@ THE EMPRESS AME TOYO-TAKARA IKASHI-HI TARASHI HIME.’
 
 
 THE Empress Ame toyo-takara ikashi-hi tarashi hime was the
-great-granddaughter of the Emperor Nuna-kura futo-dama-
-shiki,* granddaughter of the Imperial Prince Ohoye, Oshizaka
+great-granddaughter of the Emperor Nuna-kura futo-damashiki,* granddaughter of the Imperial Prince Ohoye, Oshizaka
 no hiko-bito, and daughter of Prince Chinu. Her mother’s
 name was Princess Kibi.
 
 This Empress conducted the government in conformity with
 the ancient path.
 
-In the second year of the Emperor Okinaga tarashi-hi hiro-
-nuka,* she was appointed Empress-consort. This Emperor
+In the second year of the Emperor Okinaga tarashi-hi hironuka,* she was appointed Empress-consort. This Emperor
 died in the roth month of the 13th year of his reign.
 
-Ist year, Spring, ist month, 15th day. The Empress-con-
-sort assumed the Imperial Dignity. Yemishi, Soga no Omi,
+Ist year, Spring, ist month, 15th day. The Empress-consort assumed the Imperial Dignity. Yemishi, Soga no Omi,
 was made Oho-omi as before. The Oho-omi’s son, Iruka [also
 called Kuratsukuri], took into his own hands the reins of
 government, and his power was greater than his father’s.
@@ -10456,13 +9567,7 @@ is translated “royal perfection.”
 A.D. 642.
 
 
-XXIV, 2.
-
-
 DOME Ve 35
-
-
-172 NIHONGI.
 
 
 in the funeral ceremonies, and therefore have come on alone
@@ -10472,15 +9577,13 @@ disturbed.”
 2nd month, 2nd day. MHirafu, Adzumi no Yamashiro no
 Muraji, Ihakane, Kusakabe no Kishi, and Agata, Yamato no
 Aya no fumino Atahe, were sent to the Péekché Ambassadors of
-condolence to inquire their news. The Ambassadors of con-
-dolence replied, saying :—‘‘ The sovereign of Pékché said to
+condolence to inquire their news. The Ambassadors of condolence replied, saying :—‘‘ The sovereign of Pékché said to
 us :—‘ Se-syang is always behaving badly.. I request that he
 may be delivered to the Envoys on their return.’’”’ The Empress
 did not consent.
 
 The servants of the Pékché Envoys of condolence said :—
-“In the 11th month of last year, the Té-sa-phyong,’ Chi-
-chy6k, died. Moreover the Pékché Envoys flung the Kunluen *
+“In the 11th month of last year, the Té-sa-phyong,’ Chichy6k, died. Moreover the Pékché Envoys flung the Kunluen *
 Envoys into the sea. In the first month of this year the King’s
 mother died. Again, Kyoki, the son of the younger Prince,
 and also his younger sisters by the same mother, four persons
@@ -10551,8 +9654,7 @@ Summer, 4th month, 8th day. The Chief Envoy Kyoki and
 his companions had an audience of the Empress.
 
 roth day. The Oho-omi, Soga, invited Kyoki of Pékché and
-his companions to his house at Unebi. He had friendly con-
-versation with them and presented a good' horse and twenty
+his companions to his house at Unebi. He had friendly conversation with them and presented a good' horse and twenty
 bars of iron. But he did not invite Sé-syang.
 
 This month there were continuous rains.
@@ -10585,15 +9687,6 @@ never look on him again. Judging from this, they are utterly
 from horseback.
 
 
-XXIV. 4
-
-
-XXIV. 5.
-
-
-174 NIHONGI.
-
-
 wanting in feeling, and not to be distinguished from birds and
 beasts.
 
@@ -10609,8 +9702,7 @@ Ishikaha.'
 
 Autumn, 7th month, 9th day. A guest-star entered the moon.’
 
-22nd day. The Pékché Envoys, the Teé-sa-phyong, Chi-
-chyék, and his colleagues were entertained at Court.
+22nd day. The Pékché Envoys, the Teé-sa-phyong, Chichyék, and his colleagues were entertained at Court.
 
 One writing has :—‘‘ The Té-sa-phyong, Chichyok, and
 his son the Tal-sol—the name is wanting—the Eun-sol
@@ -10625,8 +9717,7 @@ sparrow.* On the same day at the same time there was a man
 who put a white sparrow (or sparrows) into a cage and sent it
 as a present to Soga no Omi.
 
-25th day. The Ministers conversed with one another, say-
-ing :—‘‘In accordance with the teachings of the village hafuri,
+25th day. The Ministers conversed with one another, saying :—‘‘In accordance with the teachings of the village hafuri,
 there have been in some places horses and cattle killed as a
 sacrifice to the Gods of the various (Shinto) shrines, in others
 frequent changes of the market-places,* or prayers to the River-
@@ -10649,8 +9740,7 @@ by the peasants.
 
 The practice of changing the market-place as a means of averting drought
 is also an old Chinese custom. The present custom of closing the city gates
-of Sdul, the capital of Corea, to put a stop to excessive rain, may be com-
-pared with it.
+of Sdul, the capital of Corea, to put a stop to excessive rain, may be compared with it.
 
 A modern commentator denounces both these customs (sacrifice of animals
 and changing the market-place) as contrary to the spirit of Shintoism.
@@ -10701,8 +9791,7 @@ Official and his companions were embarked ran ashore and was
 wrecked.
 
 
-’ The tendoku ( Hi 38) is the reading of passages of a book to repre-
-sent the whole. I have seen a dozen priests each with a pile of books on his
+’ The tendoku ( Hi 38) is the reading of passages of a book to represent the whole. I have seen a dozen priests each with a pile of books on his
 right, of which he took one, read a few words at the beginning, made the
 pages defile rapidly before him, and then reading a few words at the end,
 passed it to a gradually increasing pile on his left. In this way a eh
@@ -10723,9 +9812,6 @@ without result.
 XO T6:
 
 
-176 NIHONGI.
-
-
 13th day. The rank of Shédtoko was conferred on the
 Pékché hostage, the Tal-sol, Chyang-pok. One grade of rank
 
@@ -10742,15 +9828,13 @@ Pékche and his companions, in which they were sent off.
 
 26th day. The Pékché Envoys returned to their country.
 
-gth month, 3rd day. The Empress commanded the Oho-
-omi, saying :—‘“‘ It is our wish to build a great temple. Let
+gth month, 3rd day. The Empress commanded the Ohoomi, saying :—‘“‘ It is our wish to build a great temple. Let
 labourers be levied from Afumi and Koshi.” Moreover, charge
 was given to the various provinces to have ships built.
 
 roth day. The Empress commanded the Oho-omi, saying :
 —‘‘] wish the building of a palace to be begun in this month,
-and completed not later than the 12th month. Let building-
-timber be taken from the various provinces. Accordingly,
+and completed not later than the 12th month. Let buildingtimber be taken from the various provinces. Accordingly,
 workmen for building the palace were levied from Tétomi on
 the east, as far as Aki on the west.
 
@@ -10794,8 +9878,7 @@ KoGyoku. L327
 
 11th month, 2nd day. There was great rain, with thunder.
 
-5th day. At midnight there was a thunder-clap in the north-
-west corner.
+5th day. At midnight there was a thunder-clap in the northwest corner.
 
 8th day. It thundered five times in the north-west corner.
 
@@ -10809,8 +9892,7 @@ gth day. The weather was warm, as in spring.
 and wind sprang up.
 
 16th day. The Empress celebrated the festival of tasting
-the new rice. On this day the Prince Imperial and the Oho-
-omi each personally-tasted the new rice.’
+the new rice. On this day the Prince Imperial and the Ohoomi each personally-tasted the new rice.’
 
 12th month, rst day. The weather was mild, as in spring.
 
@@ -10825,8 +9907,7 @@ Okinaga tarashi-hi hiro-nuka were begun. On this day, the
 Shotoko, Tokudai, Kose no Omi, pronounced a_ funeral
 eulogium on behalf of Prince Ohomata. Next the Shotoko
 Hosome, Ahata no Omi, pronounced a funeral eulogium on
-behalf of the Imperial Prince Karu. Next the Shotoko, Muma-
-kahi, Ohotomo no Muraji, pronounced a funeral eulogium on
+behalf of the Imperial Prince Karu. Next the Shotoko, Mumakahi, Ohotomo no Muraji, pronounced a funeral eulogium on
 behalf of the Oho-omi,
 
 14th day. Okinaga no Yamana no Kimi pronounced an
@@ -10857,19 +9938,7 @@ intending to saddle the Empress with the responsibility for it.
 WO) by BL: N
 
 
-XXIV. 7.
-
-
-XXIV. 8.
-
-
-XXIV. 9.
-
-
 A.D. 643
-
-
-178 NIHONGI.
 
 
 30th day. The weather was mild, as in spring.
@@ -10960,8 +10029,7 @@ temporary palace to the new Palace of Itabuki in Asuka.
 5th month, 16th day. There was an eclipse of the moon.
 _ 6th month, 13th day. The Viceroy of Tsukushi sent a
 
-mounted messenger with a message to the, Empress, say-
-ing :—‘‘ Kory6 is sending Envoys to our Court.” When
+mounted messenger with a message to the, Empress, saying :—‘‘ Kory6 is sending Envoys to our Court.” When
 the Ministers heard this, they said :—‘‘ Koryé has not come to
 Court since the year Kanoto i,* and this year they are coming
 to Court.”
@@ -10987,13 +10055,9 @@ XXIV to.
 XT at,
 
 
-180 NIHONGI.
-
-
 you is less than by previous precedent. The articles sent to
 the Oho-omi are of no better quality than those which were
-returned in a former year; and, in defiance of previous prece-
-dent, no articles at all have been brought for the Ministers.
+returned in a former year; and, in defiance of previous precedent, no articles at all have been brought for the Ministers.
 How is this?”
 
 The senior Envoy, the Tal-sol, Chi-sa, and the junior Envoy,
@@ -11022,8 +10086,7 @@ also called the Emperor Takechi.”
 t1th day. Kibi no Shima, the Empress’s grandmother, died.
 
 17th day. The Empress instructed Wite, Hashi no Saba no
-Muraji, to superintend the funeral ceremonies of her grand-
-mother. From the time that the Empress’s grandmother took
+Muraji, to superintend the funeral ceremonies of her grandmother. From the time that the Empress’s grandmother took
 ill, until the beginning of the mourning, the Empress never left
 her bedside, and was assiduous in attending to her nourishment.
 
@@ -11038,8 +10101,7 @@ silk and cloth’ were given to the Omi, the Muraji, and Tomo
 no Miyakko, each according to his rank.
 
 In this month the water of the Mamuta pond gradually
-changed, and became white. Moreover, it was no longer ill-
-smelling.
+changed, and became white. Moreover, it was no longer illsmelling.
 
 
 1 Of hemp or mulberry bark fibre.
@@ -11050,8 +10112,7 @@ KOGYOKU. 181
 
 Winter, roth month, 3rd day. The Ministers and Tomo no
 Miyakko were entertained in the Court of the Imperial
-Residence, and the matter of bestowing Dignities was con-
-sidered. Ultimately instructions to the Governors of Provinces
+Residence, and the matter of bestowing Dignities was considered. Ultimately instructions to the Governors of Provinces
 were given as before ordered, and no change was made. They
 were told to proceed to their posts, and to be watchful in
 respect to their administration.
@@ -11108,9 +10169,6 @@ XML), £2;
 DOTS:
 
 
-182 NIHONGI.
-
-
 Hereupon the slave Minari and several tens of toneri came
 forth and fought in their defence. Hashi no Saba no Muraji
 was hit by an arrow and died, and the troops were afraid, and
@@ -11134,8 +10192,7 @@ advanced, and advised him, saying :—“‘ Let us, I pray thee, go
 over to the Miyake of Fukakusa, and thence on horseback towards
 the Eastern provinces. Let us make Mibu our headquarters,
 and having raised troops, come back and fight. Our success
-is not doubtful.” Prince Yamashiro no Ohoye and his com-
-panions* answered and said :—‘“‘If we did as thou sayest, we
+is not doubtful.” Prince Yamashiro no Ohoye and his companions* answered and said :—‘“‘If we did as thou sayest, we
 should certainly succeed. In my heart, however, I desire for
 ten years not to impose a burden on the people. For the
 sake of one person only, why should I distress the ten thousand
@@ -11144,8 +10201,7 @@ generations that for my sake anyone has mourned the loss of a
 father or mother. Is it only when one has conquered in battle
 that he is to be called a hero? Is he not also a hero who has
 made firm his country at the expense of his own life?”’ There
-was a man who from afar perceived the Princes of Kamutsu-
-miya on the mountains, and went back and told this to Iruka,
+was a man who from afar perceived the Princes of Kamutsumiya on the mountains, and went back and told this to Iruka,
 Soga no Omi. When Iruka heard this he was much afraid,
 and immediately set in movement an armed force. Then he
 informed Kuni-oshi, Takamuku no Omi, where the Prince was,
@@ -11178,8 +10234,7 @@ returned from the mountain and entered the Temple of Ikaruga.
 The commanders straightway surrounded the Temple with
 troops. Then Prince Yamashiro no Ohoye sent Miwa no
 Fumuya no Kimi with a message to the commanders, saying :—
-“Tf I had raised an army, and attacked Iruka, I should cer-
-tainly have conquered. But for the sake of one person, I was
+“Tf I had raised an army, and attacked Iruka, I should certainly have conquered. But for the sake of one person, I was
 unwilling to destroy the people. Therefore I deliver up myself
 to Iruka.” Finally he and the younger members of his family,
 with his consorts, strangled themselves at the same time, and
@@ -11192,8 +10247,7 @@ cloud, so that Iruka was unable to see them.
 
 Yemishi, Soga no Oho-omi, hearing that Prince Yamashiro
 no Ohoye and his people had all been destroyed by Iruka, chid
-him angrily, saying:—‘ Ah! Iruka! Thou are foolish ex-
-ceedingly, and dost arbitrarily practise outrage. Is not thine
+him angrily, saying:—‘ Ah! Iruka! Thou are foolish exceedingly, and dost arbitrarily practise outrage. Is not thine
 own life precarious ?”
 
 The people of that day explained the application of the above
@@ -11210,16 +10264,7 @@ head of hair, which was streaked with grey so as to resemble
 1 See above, XXIV. 11. 7 ie. Upper Palace.
 
 
-XXIV. 14.
-
-
 A.D. 644. —
-
-
-XXIV. 15,
-
-
-184 NIHONGI.
 
 
 that of a wild goat, is alluded to. Another explanation is that
@@ -11250,8 +10295,7 @@ him was extraordinary. Nakatomi no Kamako no Muraji was
 very sensible of (the cordiality of) his reception, and addressed
 
 
-the toneri, saying :—‘‘ I have been treated with a special kind-
-ness which exceeds all that I had expected. Who would not
+the toneri, saying :—‘‘ I have been treated with a special kindness which exceeds all that I had expected. Who would not
 make him Ruler over the Empire?” The toneri accordingly
 reported to the Imperial Prince what he had said. The
 Irnperial Prince was greatly pleased.
@@ -11279,8 +10323,7 @@ one of a football’ party in which Naka no Ohoye played at the
 foot of the keyaki tree of the Temple of Hokoji, he observed the
 (Prince’s) leathern shoe fall off with the ball. Placing it on the
 palm of his hand, he knelt before the Prince and humbly offered
-it to him. Naka no Ohoye in his turn knelt down and respect-
-fully received it. From this time they became mutual friends,
+it to him. Naka no Ohoye in his turn knelt down and respectfully received it. From this time they became mutual friends,
 and told each other all their thoughts. There was no longer
 any concealment between them. They feared, however, that
 jealous suspicions might be caused by their frequent meetings,
@@ -11324,18 +10367,6 @@ or as the name of his place of residence. ‘The latter meaning fades into the
 former.
 
 
-XXIV. 16.
-
-
-XXIV.17.
-
-
-XXIV. 18.
-
-
-186 NIHONGI.
-
-
 grieved and alarmed. He looked up and looked down, and
 knew not what to do. His younger daughter, wondering at
 her father’s grief and alarm, went up to him and inquired of
@@ -11374,7 +10405,7 @@ eight feet in length, separated as to the lower part, but joined
 together as to the end.
 
 
-iit a réd heart: 2 Net-ricefield. > Puppy-keeper.
+iit a réd heart: 2 Net-ricefield. ) Puppy-keeper.
 
 4 The cho is at present, according to Hepburn, a land measure of 3000
 tsubos, or 108,000 square feet.
@@ -11430,8 +10461,7 @@ so that they could not be distinctly heard. Old people said
 
 * The metre belongs to no recognized standard. The text of this song is
 probably corrupt. As it stands it is very obscure, though, perhaps, not more
-so than we should expect from a drowsy monkey. The Japanese com-
-mentators vary widely in its interpretation. Dr. Florenz’s version will be
+so than we should expect from a drowsy monkey. The Japanese commentators vary widely in its interpretation. Dr. Florenz’s version will be
 found to differ from the one given above. I should be sorry to say that
 mine is any improvement.
 
@@ -11445,13 +10475,7 @@ tree-fibre now mean cotton, which is a much later introduction into Japan.
 The fibre was probably that of the inner bark of the paper mulberry.
 
 
-XXIV. 19.
-
-
 BROXGIV 20;
-
-
-188 NIHONGI.
 
 
 that this was a sign of changes. At this time three popular
@@ -11522,8 +10546,7 @@ Kodcyoxv. 189
 
 and, placing it in a pure place, with song and dance invoked
 happiness. They threw away their treasures, but to no
-purpose whatever. The loss and waste was extreme. Here-
-upon Kahakatsu, Kadono no Hada no Miyakko, was wroth
+purpose whatever. The loss and waste was extreme. Hereupon Kahakatsu, Kadono no Hada no Miyakko, was wroth
 that the people should be so much deluded, and slew! Ohofu
 Be no Oho. The wizards and witches were intimidated, and
 ceased to persuade people to this worship. The men of that
@@ -11556,8 +10579,7 @@ for water, and several tens of wooden hooks as a provision in
 case of fire." Stout fellows were constantly employed to guard
 the houses, with arms in their hands.
 
-The Oho-omi made Osa no Atahe build the Temple of Hoko-
-nuki on Mount Ohoniho. Moreover, he built a house on the
+The Oho-omi made Osa no Atahe build the Temple of Hokonuki on Mount Ohoniho. Moreover, he built a house on the
 east side of Mount Unebi and dug a pond,’ so as to make of ita
 
 
@@ -11586,22 +10608,14 @@ OC TVG 2s
 A.D. 645.
 
 
-XXIV. 22.
-
-
-190 NIHONGI.
-
-
 castle. He erected an armoury, and provided store of arrows.
 In his goings out and comings in he was always surrounded by
 an attendant company of fifty soldiers. These sturdy fellows
 were called the Eastern’ Company. The people of the various
-Uji® came to his gate, and waited upon him. He called him-
-self their father, and them his boys. The Aya no Atahe
+Uji® came to his gate, and waited upon him. He called himself their father, and them his boys. The Aya no Atahe
 attended wholly upon the two houses.*
 
-4th year, Spring, rst month. On mountain-peaks, by river-
-sides, or among shrines and temples, there was a something
+4th year, Spring, rst month. On mountain-peaks, by riversides, or among shrines and temples, there was a something
 visible afar, and there was heard a humming of monkeys, as
 it were ten or sometimes twenty together. But when one
 approached to see what it might be, nothing was visible. There
@@ -11644,7 +10658,7 @@ suggests. Possibly the guard here spoken of consisted of Ainos. ’
 
 2 Noble houses. 3 Of the father and son.
 
-4 The Sun-goddess. > Acupuncture is no doubt meant.
+4 The Sun-goddess. ) Acupuncture is no doubt meant.
 
 
 KOGYOKU. I9l
@@ -11666,11 +10680,9 @@ Maro no Omi respectfully assented.
 Nakatomi no Kamako no Muraji, knowing that Soga, Iruka
 no Omi, was of a very suspicious nature, and wore a sword
 day and night, showed the performers an expedient to make
-him lay it aside. Iruka no Omi laughed, and, having un-
-girded his sword, entered and took his place in attendance by
+him lay it aside. Iruka no Omi laughed, and, having ungirded his sword, entered and took his place in attendance by
 the throne. Kurayamada Maro no Omi advanced and read
-aloud the memorials of the three kingdoms of Corea. Here-
-upon (Prince) Naka no Ohoye ordered the Guard of the Gates
+aloud the memorials of the three kingdoms of Corea. Hereupon (Prince) Naka no Ohoye ordered the Guard of the Gates
 to fasten all the twelve gates at the same time, and to allow
 nobody to pass. Then he called together the Guards of the
 Gates to one place and promised them rewards. (Prince)
@@ -11702,22 +10714,9 @@ the Great Hall of Audience.
 * Probably only to be taken’ metaphorically.
 
 
-XXIV. 23.
-
-
-XXIV. 24.
-
-
-XXIV. 25.
-
-
-192 NIHONGI.
-
-
 Komaro and his companion, intimidated by Iruka’s prestige,
 were trying to shirk and did not come forward, cried out
-“Val” and forthwith coming out with Komaro and his com-
-panion, fell upon Iruka without warning, and with a sword cut
+“Val” and forthwith coming out with Komaro and his companion, fell upon Iruka without warning, and with a sword cut
 open his head and shoulder. Iruka started up in alarm, when
 Komaro with a turn of his hand flourished his sword and
 wounded him on the leg. Iruka rolled over to where the
@@ -11730,12 +10729,10 @@ saying :—‘‘I know not what has been done. What is the
 meaning of this?” Naka no Ohoye prostrated himself on the
 earth, and made representation to Her Majesty, saying :—
 ‘‘Kuratsukuri wished to destroy utterly the Celestial House,
-and to subvert the Solar Dignity. Is Kuratsukuri to be sub-
-stituted for the Celestial descendants?’’ The Empress at
+and to subvert the Solar Dignity. Is Kuratsukuri to be substituted for the Celestial descendants?’’ The Empress at
 once got up, and went into the interior of the Palace. Komaro,
 Saheki no Muraji, and Amida, Waka-inu-kahi no Muraji, slew
-Iruka no Omi. On this day. rain fell, and puddle-water over-
-flowed the Court. They covered Kuratsukuri’s body with
+Iruka no Omi. On this day. rain fell, and puddle-water overflowed the Court. They covered Kuratsukuri’s body with
 screens of matting.! When Furubito no Ohoye saw this, he
 ran into his private palace, and said to his people :—‘‘ The
 Coreans have slain Kuratsukuri no Omi. My heart is sore.”
@@ -11820,14 +10817,7 @@ ge
 WOle gs ABE O
 
 
-XXIV. 26.
-
-
-194 NIHONGI,
-
-
-was ominous of the Kamutsumiya Princes, of gentle dis-
-position, and none of them guilty of a crime, being harmed
+was ominous of the Kamutsumiya Princes, of gentle disposition, and none of them guilty of a crime, being harmed
 by Iruka, and of Heaven bringing about his death by the
 hands of others, though they could not themselves have their
 revenge.
@@ -11848,8 +10838,7 @@ Into the little wood,
 
 
 was ominous of Iruka no Omi heing suddenly slain in the
-Palace by Komaro, Saheki no Muraji, and Amida, Wakainu-
-kahi no Muraji.
+Palace by Komaro, Saheki no Muraji, and Amida, Wakainukahi no Muraji.
 
 14th day. The Dignity was abdicated in favour of the
 Imperial Prince Karu, and Naka no Ohoye was made Prince
@@ -11873,16 +10862,12 @@ beneficent edicts. .
 In the fourth year, the sixth month, and the fourteenth day
 
 
-of her reign, the Empress Ame-toyo-takara ikashi-hi tarashi-
-
-
-hime wished to transfer the Dignity to Naka no Ohoye, and
+of her reign, the Empress Ame-toyo-takara ikashi-hi tarashihime wished to transfer the Dignity to Naka no Ohoye, and
 made order, saying :—‘‘etc., etc.’ Naka no Ohoye, when :he
 retired (from her presence), informed Nakatomi, Kamako no
 Muraji, who advised him, saying :—‘‘ Furubito no Ohoye -is
 Your Highness’s elder brother: the Imperial Prince Karu is
-Your Highness’s maternal uncle. If at present, during the life-
-time of Furubito no Ohoye, Your Highness should ascend to
+Your Highness’s maternal uncle. If at present, during the lifetime of Furubito no Ohoye, Your Highness should ascend to
 the Imperial Dignity, it would be a transgression against the
 sentiment of respect and obedience due from younger brothers.
 
@@ -11896,8 +10881,7 @@ with this advice and reported it privately to the Empress. The
 
 
 * Heaven-myriad-abundant-sun.
-2 Virtue of filial piety. There is much evidence in this reign of the exten-
-sion and development of the Imperial power in the provinces.
+2 Virtue of filial piety. There is much evidence in this reign of the extension and development of the Imperial power in the provinces.
 3 Kogyoku Tenno. * 1.6. Shinto.
 One,
 
@@ -11906,9 +10890,6 @@ XSKVAS2:
 
 
 XXV. 3.
-
-
-196 NIHONGI.
 
 
 Empress Ame-toyo-takara ikashi-hi tarashi-hime granted the
@@ -11965,12 +10946,10 @@ KOTOoKU. 197
 
 A great brocade cap of honour was given to Nakatomi no
 Kamako no Muraji, and he was made Naijin,' with an increased
-feudal revenue of a large number of houses,’ etc., etc. Naka-
-tomi no Kamako no Muraji cherished the most sincere loyalty.
+feudal revenue of a large number of houses,’ etc., etc. Nakatomi no Kamako no Muraji cherished the most sincere loyalty.
 Trusting to his power as ruling Minister, he took place over the
 various functionaries. In respect therefore to advancements
-and dismissals, taking measures or abandoning them, every-
-thing was done in accordance with his counsel, etc., etc.’ The
+and dismissals, taking measures or abandoning them, everything was done in accordance with his counsel, etc., etc.’ The
 Buddhist priest* Min Hoshi and Kuromaro Takamuko no
 Fubito were made national doctors.’
 
@@ -12028,9 +11007,6 @@ AD. 645.
 XXV. 6.
 
 
-198 NIHONGI.
-
-
 sovereign! On him who breaks this oath, Heaven will
 send a curse and earth a plague, demons will slay them,
 and men will smite thém. This is as manifest as the sun
@@ -12044,8 +11020,7 @@ Imperial Princess Hashibito, daughter of the Emperor Okinaga
 tarashi-hi hiro-nuka,* was made Empress. Two consorts were
 appointed. The senior was Wo-tarashi-hime, daughter of the
 Oho-omi, Abe no Kurahashi no Maro. She was the mother of
-the Imperial Prince Arima. The junior consort was Chi-
-iratsume, daughter of the Oho-omi, Soga no Yamada no
+the Imperial Prince Arima. The junior consort was Chiiratsume, daughter of the Oho-omi, Soga no Yamada no
 Ishikaha no Maro.
 
 roth day. Koryo, Pékché, and Silla all sent Envoys at the
@@ -12076,14 +11051,11 @@ Chinese chronological device. [Vzde Introduction to “ Satow’s Chronological
 Tables.” Daikwa means great civilization or development. Asa matter
 of fact very revolutionary changes took place in this reign.
 
-3 Jomei Tenno. * Minister of the Left. > Doubtless Osaka.
+3 Jomei Tenno. * Minister of the Left. ) Doubtless Osaka.
 
 6 A polite term for kings.
 
 7 i.e. immediately dependent on the throne.
-
-
-KOTOKU. 199
 
 
 compared to a three-fold cord.'. In more recent times Imna
@@ -12104,10 +11076,8 @@ A further Imperial order was given—‘‘ Let the wife and
 children of Wi-sa, a Talsol of Kwipu, be sent away.” *
 
 12th day. The Emperor gave command to the Oho-omi,
-Abe no Kurahashi no Maro, and the Oho-omi, Soga no Ishi-
-kaha no Maro, saying :—‘‘ The Empire should be ruled by
-following in the footsteps of the Emperors ofantiquity. More-
-over, in your government of the Empire, you should preserve
+Abe no Kurahashi no Maro, and the Oho-omi, Soga no Ishikaha no Maro, saying :—‘‘ The Empire should be ruled by
+following in the footsteps of the Emperors ofantiquity. Moreover, in your government of the Empire, you should preserve
 fidelity.”’
 
 13th day. The Emperor gave command to the Oho-omi,
@@ -12145,9 +11115,6 @@ XUV ve
 XXV. 8.
 
 
-200 NIHONGI.
-
-
 the province of Wohari and Komaro, Imbe no Obito to the
 province of Mino, to levy offerings for the Gods.'
 
@@ -12158,8 +11125,7 @@ the Gods of Heaven, We propose at this present for the first
 time to regulate the myriad provinces.
 
 When you proceed to your posts, prepare registers of all
-the free subjects of the State and of the people under the con-
-trol of others, whether great or small. Take account also of
+the free subjects of the State and of the people under the control of others, whether great or small. Take account also of
 the acreage ® of cultivated land. As to the profits arising from
 the gardens and ponds, the water and land, deal with them in
 common with the people.* Moreover it is not competent for
@@ -12249,10 +11215,8 @@ This day a bell and box were provided in the Court. The
 governments, giving a more centralized character to the administration
 temporary Governors superseding in some measure the hereditary titular
 officials. No clear account is given of this change, but it seems plainly to
-be inferred from the above passage. Kokushi, #4 i!, are not now men-
-tioned for the first time, and it is clear that the change was not made all at
-once. The similar change from the Daimio system to that of local prefec-
-tures in 1868 will occur to the reader.
+be inferred from the above passage. Kokushi, #4 i!, are not now mentioned for the first time, and it is clear that the change was not made all at
+once. The similar change from the Daimio system to that of local prefectures in 1868 will occur to the reader.
 
 * The box was for the purpose of receiving petitions and complaints, like
 
@@ -12267,9 +11231,6 @@ OOO
 EXC 1.
 
 
-202 NIHONGI.
-
-
 Emperor issued an order, saying :—‘‘ If there be a complainant,
 in case the person in question belongs to a Tomo no Miyakko,
 let the Tomo no Miyakko first make inquiry and then report to
@@ -12278,10 +11239,8 @@ first make inquiry and then report to Us. If, however, the
 Tomo no Miyakko or the elder does not come to a clear
 decision respecting the complaint, let a document be received
 and placed in the box, and punishment will be inflicted
-according to the offence. The person who receives the docu-
-ment should at dawn take it and make report to the Inner
-Palace, when We will mark on it the year and month, and com-
-municate it to the Ministers. In case there is any neglect to
+according to the offence. The person who receives the document should at dawn take it and make report to the Inner
+Palace, when We will mark on it the year and month, and communicate it to the Ministers. In case there is any neglect to
 decide it, or if there are malpractices on the part of intriguing
 persons, let the complainant strike the bell. This is why the
 bell is hung and box provided in the Court. Let the people of
@@ -12302,8 +11261,7 @@ this well to the people as a beginning of regulations.” ”
 summon together the Buddhist priests and nuns, and to address
 them on the part of the Emperor, saying :—‘‘ In the 13th year
 of the reign of the Emperor* who ruled the world in the
-Palace of Shikishima, King Myong of Pékché reverently trans-
-mitted the Law of Buddha to our great Yamato. At this time
+Palace of Shikishima, King Myong of Pékché reverently transmitted the Law of Buddha to our great Yamato. At this time
 the Ministers in a body were opposed to its transmission.
 Only Soga no Iname no Sukune believed in this Law, and the
 Emperor accordingly instructed him to receive it with reverence.
@@ -12345,8 +11303,7 @@ a copper image of Buddha sixteen feet high. He exalted the
 doctrine of Buddha and showed honour to its priests and nuns.
 It is Our desire anew to exalt the pure doctrine and brilliantly
 to promulgate great principles. We therefore appoint as
-professors the following ten persons:—The S‘ramana, Pok-
-nyang, Hyé-un, Syang-an, Nyéng-un, and Hyé-chi, Taihoshi *
+professors the following ten persons:—The S‘ramana, Poknyang, Hyé-un, Syang-an, Nyéng-un, and Hyé-chi, Taihoshi *
 of Koma, and Sodbin, Déto, Yerin, Yemyd and Yeon, chief
 priests of temples.’ We separately appoint the Hoshi, Yemyo,
 chief priest of the Temple of Kudara.
@@ -12395,9 +11352,6 @@ II.
 XXV. 12.
 
 
-204 : NIHONGI.
-
-
 messengers were sent to the provinces of the four quarters
 to collect weapons of all kinds.”
 
@@ -12415,8 +11369,7 @@ sometimes styled the Heir Apparent of Yoshino.
 12th day. Shidaru, Yoshino no Kasa no Omi, surrendered
 himself to Naka no Ohoye, saying :—‘‘ The Imperial Prince
 Yoshino no Furubito and Kahahori, Soga no Taguchi no Omi,
-etc., having plotted rebellion, thy servant became an accom-
-plice of their party.”
+etc., having plotted rebellion, thy servant became an accomplice of their party.”
 
 One book says :—‘“‘ Shidaru, Kibi no Kasa no Omi, told
 Abe no Oho-omi and Soga no Oho-omi that he was an
@@ -12439,8 +11392,7 @@ but the matter having become public, he was executed.”
 take a record of the total numbers of the people. The
 Emperor on this occasion made an edict, as follows :—
 
-“In the times of all the Emperors, from antiquity down-
-wards, subjects have been set apart for the purpose of making
+“In the times of all the Emperors, from antiquity downwards, subjects have been set apart for the purpose of making
 notable their reigns and handing down their names to posterity.’
 Now the Omi and Muraji, the Tomo no Miyakko and the
 Kuni no Miyakko, have each one set apart their own vassals,
@@ -12448,9 +11400,6 @@ Kuni no Miyakko, have each one set apart their own vassals,
 
 1 The reference is to the institution of Be with names commemorative of
 the reign.
-
-
-KOTOKU. 205
 
 
 whom they compel to labour at their arbitrary pleasure.
@@ -12481,13 +11430,11 @@ helpless.”’
 The people were greatly rejoiced.
 
 Winter, 12th month, gth day. The Emperor removed the
-capital to Toyosaki in Nagaraat Naniha. Old people, remark-
-ing upon this to one another, said :—‘‘ The movement of rats
+capital to Toyosaki in Nagaraat Naniha. Old people, remarking upon this to one another, said :—‘‘ The movement of rats
 towards Naniha from spring until summer was an omen of the
 removal of the capital.’ °
 
-24th day. It was reported from the land of Koshi :—‘‘ Drift-
-wood of the sea shore passed away towards the east, leaving
+24th day. It was reported from the land of Koshi :—‘‘ Driftwood of the sea shore passed away towards the east, leaving
 an impression on the sand like a ploughed rice-field in
 appearance.”
 
@@ -12516,9 +11463,6 @@ XXV.
 
 
 14.
-
-
-206 NIHONGI.
 
 
 2nd year, Spring, 1st month, 1st day. As soon as the
@@ -12558,7 +11502,7 @@ Bell-token.
 
 he See-above, Viol. I. ps 192: 2 Chief men of villages.
 
-> Of serfs. 4 Instead of the serfs taken from them.
+) Of serfs. 4 Instead of the serfs taken from them.
 
 ® The “ Roku-rei” gives a scale of sustenance-fiefs at a later period. A
 Prime Minister had 3000 houses, a Junior Prime Minister 2000, a Dainagon
@@ -12579,17 +11523,13 @@ different provinces.
 2 eeEeE———— et
 
 
-KOTOKU. 207
-
-
 For each ward in the capital let there be appointed one
 alderman,’ and for four wards one chief alderman,’ who shall
 be charged with the superintendence of the population, and
 the examination of criminal matters. For appointment as
 chief aldermen of wards let men be taken belonging to the
 wards, of unblemished character, firm and upright, so that
-they may fitly sustain the duties of the time. For appoint-
-ments as aldermen, whether of rural townships or of city wards,
+they may fitly sustain the duties of the time. For appointments as aldermen, whether of rural townships or of city wards,
 let ordinary subjects be taken belonging to the township or
 ward, of good character and solid capacity. Ifsuch men are
 not to be found in the township or ward in question, it is
@@ -12629,13 +11569,7 @@ ff A ri or sato consisted of 50 houses.
 
 Greater and Lesser Governors. These terms are rendered Kori no
 Miyakko and Suke no Miyakko in the interlinear glosses. But I have little
-doubt that the Chinese words are intended, and that these are mere trans-
-lations, and not the real titles of these officials.
-
-
-3
-4
-5
+doubt that the Chinese words are intended, and that these are mere translations, and not the real titles of these officials.
 
 
 ONE:
@@ -12668,17 +11602,13 @@ ey:
 19.
 
 
-208 NIHONGI.
-
-
 population, books of account and a system of the receipt and
 re-granting of distribution-land."
 
 Let every fifty houses be reckoned a township, and in every
 township let there be one alderman who shall be charged with
 the superintendence of the population,? the direction of the
-sowing of crops and the cultivation of mulberry trees, the pre-
-vention and examination of offences, and the enforcement of the
+sowing of crops and the cultivation of mulberry trees, the prevention and examination of offences, and the enforcement of the
 payment of taxes and of forced labour.
 
 For rice-land, thirty paces in length by twelve paces in
@@ -12687,14 +11617,12 @@ For each tan the tax is two sheaves and two bundles (such as
 can be grasped in the hand) of rice; for each cho the tax is
 twenty-two sheaves of rice. On mountains or in valleys where
 the land is precipitous, or in remote places where the population
-is scanty, such arrangements are to be made as may be con-
-venient.‘
+is scanty, such arrangements are to be made as may be convenient.‘
 
 IV. The old taxes and forced labour are abolished, and a
 system of commuted taxes instituted. These shall consist of
 fine silks, coarse silks, raw silk, and floss silk,® all in accordance
-with what is produced in the locality. For each cho of rice-
-land the rate is one rod° of fine silk, or for four chd one piece
+with what is produced in the locality. For each cho of riceland the rate is one rod° of fine silk, or for four chd one piece
 forty feet in length by two and a half feet in width. For coarse
 silk the rate is two rods (per cho), or one piece for every two
 cho of the same length and width as the fine silk. For cloth
@@ -12717,7 +11645,7 @@ inclined to think that the Chinese word ¢az is here intended.
 previous paragraph. It would then apply to the appointment of rural
 aldermen. The old reading is better.
 
-> The “Shikai” adds i, or cloth, by which is meant fabrics of hemp or
+) The “Shikai” adds i, or cloth, by which is meant fabrics of hemp or
 of the fibre of the inner bark of the paper mulberry. Textiles served the
 purpose of currency in this period, so that this commutation was in the nature
 of a substitution of payment in money for payment in rice.
@@ -12768,12 +11696,12 @@ One book says :—‘“‘ The Miyake of Koshiro, in the village
 ‘ There are two tan to the hiki or piece, which now measures about
 213 yards.
 
-> The Chinese is #4, rendered in Japanese by mitsugi, or tribute. Here
+) The Chinese is #4, rendered in Japanese by mitsugi, or tribute. Here
 it seems to exclude the rice-tax, but to include various miscellaneous taxes.
 
 * Or “salted articles of food for the Emperotr’s table.”
 
-* Or shO = 109 cubic inches. > Uneme.
+* Or shO = 109 cubic inches. ) Uneme.
 
 ° For an account of the modern system of taxation in Japan the reader is
 referred to a paper in the “T.A.S.J.,” Vol. XX., Supplement, p. 121.
@@ -12788,9 +11716,6 @@ XXV.
 
 
 DOXOVin eT,
-
-
-210 NIHONGI.
 
 
 of Sayabe, at Naniha, was pulled down, and a temporary
@@ -12869,13 +11794,11 @@ Ministers, and a want of diligence or partizan intrigues, and if
 We, moreover, should refuse to listen to remonstrance, let the
 complainant strike the bell. There has been already an
 Imperial command to this effect. But some time afterwards
-there was a man of intelligence and uprightness who, cherish-
-ing in his heart the spirit of a national patriot, addressed Us a
+there was a man of intelligence and uprightness who, cherishing in his heart the spirit of a national patriot, addressed Us a
 memorial of earnest remonstrance, which he placed in the box
 prepared for the purpose. We therefore now publish it to the
 black-haired people here assembled. This memorial runs as
-follows :—‘‘ Those subjects who come to the capital in con-
-nection with the discharge of their duty to the Government of
+follows :—‘‘ Those subjects who come to the capital in connection with the discharge of their duty to the Government of
 the Country, are detained by the various public functionaries and
 put to forced labour of various kinds, etc., etc.” We are still
 moved with strong sympathy by this. How could the people
@@ -12900,21 +11823,14 @@ Pas
 XXV. 22.
 
 
-3
-
-
 Ny
-
-
-212 NIHONGI.
 
 
 of remonstrance, and have put a stop to the forced services at
 various places.
 
 In a former edict, We said :—‘“‘ Let the man who remonstrates
-sign hisname.”’ Those who disobey this injunction are doubt-
-less actuated by a wish to serve their country, and not by a
+sign hisname.”’ Those who disobey this injunction are doubtless actuated by a wish to serve their country, and not by a
 desire of personal gain. Whether a man signs his name or not,
 let him not fail to remonstrate with Us on Our neglect or
 forgetfulness.’ ”’!
@@ -12953,8 +11869,7 @@ family, to the government of the eight Eastern provinces.
 Then the Governors went to their posts. Six obeyed the laws,
 and two were regardless of Our commands. In each case
 censure or praise became audible. We thereupon commended
-those who kept the law, and were severe with those who dis-
-regarded the instructions given them. He that would be a
+those who kept the law, and were severe with those who disregarded the instructions given them. He that would be a
 ruler, whether he be Lord or Minister, should first correct
 
 
@@ -13008,8 +11923,7 @@ He has moreover taken away the horses of the agricultural
 
 
 1 See Legge’s “ Chinese Classics,” Vol. I. p. 221.
-2 The institutes of the T’hang dynasty define Choshitshi (court-assemble-
-messenger) as persons sent to the capital bearing tribute from the provinces.
+2 The institutes of the T’hang dynasty define Choshitshi (court-assemblemessenger) as persons sent to the capital bearing tribute from the provinces.
 Here they seem to have been officials who reported on the conduct of the
 local officials.
 
@@ -13018,9 +11932,6 @@ XXV. 24.
 
 
 XXV. 25.
-
-
-214 NIHONGI.
 
 
 serfs. His two assistants, Yenowi no Muraji and Oshizaka no
@@ -13074,9 +11985,6 @@ indicative of the locality of their birth or residence.
 
 ° The Yube was originally a Be for the purpose of Heoreate hot baths
 for some Emperor or Prince. This term was also applied to the village where
-
-
-KOTOKU. 215
 
 
 Kashihade no Omi, consists in his having received and stored
@@ -13139,9 +12047,6 @@ EXOV SS 217%
 XXV. 28.
 
 
-216 NIHONGI.
-
-
 pursuit of gain, constantly conceive foul wickedness, repressive
 measures are indispensable. But although such are Our
 thoughts, we have only begun to occupy our new palace, and
@@ -13171,8 +12076,7 @@ Let the official rice-fields belonging to the public offices in
 various places be done away with, as well as the lent-rice* in
 various places belonging to the Ko-so-bd Kibishima® and let
 her official rice-lands be distributed among all Our Ministers
-and Tomo no Miyakko. Moreover, let rice-land and _hill-
-tracts® be given to those temples which are omitted from the
+and Tomo no Miyakko. Moreover, let rice-land and _hilltracts® be given to those temples which are omitted from the
 registers.”
 
 20th day. The Prince Imperial, by a messenger, addressed
@@ -13243,8 +12147,7 @@ tomb. They did not pile up a mound, nor did they plant
 
 | This is the same term (i-shin) as is used of the revolution of 1868.
 
-* This is a figurative expression of his respect for the reformed Govern-
-ment. At this day a Japanese often puts a present to his head in token of
+* This is a figurative expression of his respect for the reformed Government. At this day a Japanese often puts a present to his head in token of
 thanks.
 
 3 Father of Jomei Tenno.
@@ -13270,25 +12173,18 @@ XXV. 20,
 XXV. 30.
 
 
-218 NIHONGI.
-
-
 trees." The inner and outer coffin were merely enough to
 last till the bones decayed, the shroud was merely sufficient
 to last till the flesh decayed. I shall therefore cultivate? the
 unproductive pieces of land occupied by these tombs, to the
-end that their place may be forgotten after changing genera-
-tions. Deposit not in them gold or silver or copper or iron,
+end that their place may be forgotten after changing generations. Deposit not in them gold or silver or copper or iron,
 and let earthenware objects alone represent the clay chariots
 and straw figures* of antiquity. Let the interstices of the
-coffin be varnished. Let the offerings consist of rice pre-
-sented three times, and let not pearls or jewels be placed
+coffin be varnished. Let the offerings consist of rice presented three times, and let not pearls or jewels be placed
 in the mouth of the deceased. Bestow not jewel-shirts or
-jade armour. All these things are practices of the unenlight-
-ened vulgar.’ Again it is said:—‘ Burial is putting away,
+jade armour. All these things are practices of the unenlightened vulgar.’ Again it is said:—‘ Burial is putting away,
 and proceeds from the desire to prevent the dead from being
-seen by people.’ Of late, the poverty of our people is abso-
-lutely owing to the construction of tombs.‘ We now issue
+seen by people.’ Of late, the poverty of our people is absolutely owing to the construction of tombs.‘ We now issue
 regulations making distinction of noble and mean.
 
 The inner dimensions of tombs of persons of the rank of
@@ -13326,12 +12222,8 @@ days.
 7 i.e. Oho-omi, says the “ Shikai ” editor.
 
 
-; KOTOKU. 219
-
-
 Their outer limits shall be seven fathoms square, and they
-shall be three fathoms in height.!| The work shall be com-
-pleted by 500 labourers in five days. At the time of interment
+shall be three fathoms in height.!| The work shall be completed by 500 labourers in five days. At the time of interment
 white cloth shall be used for the hangings of the bier, which
 shall be borne on men’s shoulders.
 
@@ -13388,19 +12280,14 @@ XXV. 31.
 XXV. 32.
 
 
-220 NIHONGI.
-
-
 is not permitted to pollute the earth by dispersed interments
 in various places.
 
-When a man dies, there have been cases of people sacri-
-ficing themselves by strangulation, or of strangling others by
+When a man dies, there have been cases of people sacrificing themselves by strangulation, or of strangling others by
 way of sacrifice, or of compelling the dead man’s horse to be
 sacrificed, or of burying valuables in the grave in honour of
 the dead, or of cutting off the hair, and stabbing the thighs
-and pronouncing an eulogy on the dead (while in this condi-
-tion). Let all such old customs be entirely discontinued.
+and pronouncing an eulogy on the dead (while in this condition). Let all such old customs be entirely discontinued.
 
 A certain book says:—‘No gold or silver, no silk
 brocades, and no coloured stuffs are to be buried.’ Again
@@ -13444,9 +12331,6 @@ Again, there have been numerous cases of this kind.
 Sometimes a wife who has lost her husband marries another
 
 
-KOTOKU. 221
-
-
 man after the lapse of ten or twenty years and becomes his
 spouse, or an unmarried girl is married for the first time. Upon
 this, people, out of envy of the married pair, have made them
@@ -13473,24 +12357,20 @@ the) houses by the roadside say:—‘ Why should people be
 
 
 1 Harahi, clearing away, purgation, is properly a religious ceremony. The
-Oho-harahi, or “Great Purgation,” was performed every year by the Naka-
-tomi as a general purification of the sins of the people. The ritual used on
+Oho-harahi, or “Great Purgation,” was performed every year by the Nakatomi as a general purification of the sins of the people. The ritual used on
 this occasion has come down to us, and is perhaps the mest interesting of
 the Norito. When harahi was performed in the case of individual offences
 the necessary offerings to the Gods were provided by the guilty person (see
 above, Vol. I. p. 49). From this to a penalty the transition is easy, and has
-parallels in other countries. In the present passage the harahi was evi-
-dently what we should now call a “ squeeze.” The “ Tstisho ” commentator
+parallels in other countries. In the present passage the harahi was evidently what we should now call a “ squeeze.” The “ Tstisho ” commentator
 quotes here a statement by one Kurokaha, to the following effect :—
-“During the first month of the year following the marriage of a newly-
-united couple, their friends assemble at the house bearing pails of water,
+“During the first month of the year following the marriage of a newlyunited couple, their friends assemble at the house bearing pails of water,
 with which they souse the husband liberally. This is called harahi.” It
 may not be out of place to point out that marriage is in many uncivilized
 countries considered as an infringement of the rights of the community
 which calls for some sort of compensation.
 
-2 The meaning of this term—rendered kotosaka in the “ Original Com-
-mentary ”—is not very clear. It perhaps applies to persons who were made
+2 The meaning of this term—rendered kotosaka in the “ Original Commentary ”—is not very clear. It perhaps applies to persons who were made
 slaves on account of some offence or vice.
 
 Dr. Florenz and some Japanese scholars whom he consulted take this
@@ -13505,9 +12385,6 @@ XXV.
 33¢e
 
 
-222 NIHONGI.
-
-
 allowed to die on our road?’ And they have accordingly
 detained the companions of the deceased and compelled them
 to do purgation. For this reason it often happens that even
@@ -13515,8 +12392,7 @@ if an elder brother lies down and dies on the road, his younger
 brother will refuse to take up his body (for burial).
 
 Again, there are cases of peasants being drowned in a river.
-The bystanders say :—‘ Why should we be made to have any-
-thing to do with drowned men?’ They accordingly detain the
+The bystanders say :—‘ Why should we be made to have anything to do with drowned men?’ They accordingly detain the
 drowned man’s companions and compel them to do purgation.
 For this reason it often happens that even when an elder
 brother is drowned in a river his younger brother will ‘not
@@ -13558,9 +12434,6 @@ establish the following regulation :—
 1 Cloth was evidently used as money.
 
 
-KOTOKU. 233
-
-
 Whenever horses are left at livery in any of the provinces
 along the highway, let the owner take with him the man whom
 he engages for this purpose, and make a full statement to the
@@ -13577,8 +12450,7 @@ and to ferrymen, are abolished and lands are granted instead.
 
 Beginning with the Home provinces, and embracing the
 provinces in all four quarters, during the agricultural months,’
-let everyone apply himself early to the cultivation of the rice-
-land. It is not meet at sucha time to let them eat dainty food or
+let everyone apply himself early to the cultivation of the riceland. It is not meet at sucha time to let them eat dainty food or
 drink sake. Let faithful messengers be appointed to intimate
 this to the Home provinces. And let the Kuni no Miyakko of
 the provinces in every quarter choose good messengers to urge
@@ -13589,8 +12461,7 @@ saying :—
 
 ‘* Going back to the origin of things, we find that itis Heaven
 and Earth with the male and female principles of nature,* which
-guard the four seasons from mutual confusion. We find, more-
-over, that it is this Heaven and Earth * which produces the ten
+guard the four seasons from mutual confusion. We find, moreover, that it is this Heaven and Earth * which produces the ten
 thousand things. Amongst these ten thousand things Man is the
 most miraculously gifted. Among the most miraculously gifted
 beings, the sage takes the position of ruler. Therefore the
@@ -13602,8 +12473,7 @@ their breasts the thought of how men shall gain their fit place.
 Tomo no Miyakko and Kuni no Miyakko have divided their
 
 
-1 The “ Shoku-in-ry6o ” says the Market Commissioner shall have superin-
-tendence of the currency, commerce, the genuineness of wares, the justness
+1 The “ Shoku-in-ry6o ” says the Market Commissioner shall have superintendence of the currency, commerce, the genuineness of wares, the justness
 of weights and measures, buying and selling prices, and prohibitions and
 offences (relating thereto.)
 
@@ -13618,9 +12488,6 @@ samuku-atataka, i.e. “cold and warm,” a most inadequate rendering.
 SV. 235.
 
 
-224 NIHONGI.
-
-
 various Be’ and allotted them severally to their various titles (or
 surnames). They afterwards took the various Be of the people,
 and made them reside in the provinces and districts, one mixed
@@ -13628,13 +12495,11 @@ up with another. The consequence has been to make father
 and child to bear different surnames, and brothers to be
 reckoned of distinct families, while husbands and wives have
 names * different from one another. One family is divided into
-five or split up into six, and both Court and country are there-
-fore filled with contentious suits. No settlement has been come
+five or split up into six, and both Court and country are therefore filled with contentious suits. No settlement has been come
 to, and the mutual confusion grows worse and worse. Let the
 various Be, therefore, beginning with those of the reigning
 Emperor and including those in the possession of the Omi,
-Muraji, etc., be, without exception, abolished, and let them be-
-come subjects of the State. Those who have become Tomo no
+Muraji, etc., be, without exception, abolished, and let them become subjects of the State. Those who have become Tomo no
 Miyakko by borrowing the names of princes, and those who
 have become Omi or Muraji on the strength of the names of
 ancestors, may not fully apprehend our purport, and might
@@ -13661,8 +12526,7 @@ for the two kinds of names are not always rightly distinguished.
 whose descendants were called Kibi no Omi, and Achiki, whose descendants
 were styled Achiki no Fubito.
 
-4 The “Shukai” editor instances Annei Tenn6, whose name of Shiki-tsu-
-hiko is borne by the plain of Shikiin Yamato, and Yiriaku Tenné, whose
+4 The “Shukai” editor instances Annei Tenn6, whose name of Shiki-tsuhiko is borne by the plain of Shikiin Yamato, and Yiriaku Tenné, whose
 name of Ohohatsuse is applied to the River Hatsuse-gawa. But it is more
 likely that the facts are the other way, and that the names of places were
 given to the Emperors.
@@ -13672,13 +12536,7 @@ edict which directed the alteration of names of persons, villages, mountains,
 or rivers, which coincided with the names (z7zzza) of Emperors.
 
 
-4
-
-
 ———————_—_—_——
-
-
-KOTOKU. 225
 
 
 is a truly fearful state of things. The appellations of sovereigns,
@@ -13698,8 +12556,7 @@ Let the local Governors who are now being despatched,
 and also the Kuni no Miyakko of the same provinces, give ear
 to what we say. In regard to the method of administration
 notified last year to the Court Assembly,’ let the previous
-arrangement be followed, and let the rice-lands which are re-
-ceived and measured be granted equally to the people, without
+arrangement be followed, and let the rice-lands which are received and measured be granted equally to the people, without
 distinction of persons.’ In granting rice-lands the peasants’
 houses should adjoin the land. Those whose houses lie near
 the lands must therefore have the preference. In this sense
@@ -13731,15 +12588,12 @@ rank, second or third at least.
 
 * Chosht. The reference is to the Chishiishi named above, XXV. 23.
 
-> See above, XXV. 17. 5 Of other things than rice.
+) See above, XXV. 17. 5 Of other things than rice.
 
 VOL. Ti, Q
 
 
 XXV. 36.
-
-
-226 NIHONGI.
 
 
 brought under cultivation, in the various provinces, uniform
@@ -13793,8 +12647,7 @@ the Ujiof Omi or Muraji, or they have been separated and made
 the qualifications of Miyakko,* etc. In consequence of this, the
 minds of the people of the whole country take a strong
 partisan bias, and conceiving a deep sense of the me and thee,
-hold firmly each to their names. Moreover the feeble and in-
-competent Omi, Muraji, Témo no Miyakko and Kuni no
+hold firmly each to their names. Moreover the feeble and incompetent Omi, Muraji, Témo no Miyakko and Kuni no
 
 
 } Probably pronounced Kédzu and identical with P§  (Kodzu), where
@@ -13820,21 +12673,18 @@ KOTOKU. | 2297
 
 
 Miyakko make of such names their family names; and so the
-names of Gods and the names of sovereigns are applied to per-
-sons and places in an unauthorized manner, in accordance with
+names of Gods and the names of sovereigns are applied to persons and places in an unauthorized manner, in accordance with
 the bent of their own feelings. Now, by using the names of
 Gods and the names of sovereigns as bribes, they draw to
 themselves the slaves of others, and so bring dishonour upon
 unspotted names. The consequence is that the minds of the
-people have become unsettled and the government of the coun-
-try cannot be carried on. The duty has therefore now devolved
+people have become unsettled and the government of the country cannot be carried on. The duty has therefore now devolved
 on Us in Our capacity as Celestial Divinity, to regulate and
 settle these things. In order to make them understood, and
 thereby to order the State and to order the people, We shall
 issue, one after another, a succession of edicts, one earlier,
 another later, one to-day and another to-morrow. But the
-people, who have always trusted in the civilizing influence’ ex-
-ercised by the Emperors, and who are used to old customs, will
+people, who have always trusted in the civilizing influence’ exercised by the Emperors, and who are used to old customs, will
 certainly find it hard to wait until these edicts are made. We
 shall therefore remit to all, from Princes and Ministers down
 to the common people of all classes, the tax in lieu of service.”
@@ -13876,9 +12726,6 @@ Q 2
 XXV. 38.
 
 
-228 NIHONGI.
-
-
 The engineer of the rank of Daisen,! Aratawi no Hirafu,
 Yamato no Aya no Atahe, mistakenly dug a canal which heled
 to Naniha and thereby distressed the people. Upon this some
@@ -13917,8 +12764,7 @@ two grades, the greater and the lesser. It was made of
 and below Hirafu, Aratawi no Atahe. A few lines further on, the Emperor
 speaks of him as Hirafu. Thecomplete title Aratawi no Hirafu, Yamato no
 Aya no Atahe, corresponds pretty exactly to such an English description as
-“Edmund of Langley, Duke of York.” Hirafu is the personal name corre-
-sponding to Edmund; Langley and Aratawi are names of places, the
+“Edmund of Langley, Duke of York.” Hirafu is the personal name corresponding to Edmund; Langley and Aratawi are names of places, the
 residences of the persons in question or their forefathers ; Duke and Atahe
 are titles. Yamato no Ayais, however, the name ofa community of artisans
 of presumed Chinese descent who were settled in Yamato, while York
@@ -13932,10 +12778,7 @@ as impracticable.
 4 i.e. woven-cap. No doubt some special fabric is meant, which it is now
 difficult to identify.
 
-*> Embroidered cap.
-
-
-KOTOKU. 229
+*) Embroidered cap.
 
 
 embroidered stuff. The border of the cap and the colour of
@@ -13949,8 +12792,7 @@ clothing was light purple.
 The fourth was called Kin-kwan.? Of this there were
 two grades, the greater and the lesser. The greater Kin-kwan
 was made of Dai-haku-sen* brocade, and had the cap-border
-of woven stuff: the lesser Kin-kwan was made of Sho-haku-
-sen brocade, and had the cap-border of Dai-haku-sen brocade.
+of woven stuff: the lesser Kin-kwan was made of Sho-hakusen brocade, and had the cap-border of Dai-haku-sen brocade.
 The colour of the clothing was in both cases true dark red.
 
 The fifth was called Sei-kwan,* and was made of blue silk.
@@ -13989,7 +12831,7 @@ these nations cannot distinguish between green and blue. I have seen a
 dyer’s sample book which contained numerous shades of both, each with an
 appropriate name.
 
-> Black-cap. 6 Especially grass-green.
+) Black-cap. 6 Especially grass-green.
 
 7 Kembu means “ to establish valour.”
 
@@ -14008,16 +12850,12 @@ XXV, 4o.
 A.D. 048.
 
 
-230 NIHONG1.
-
-
 Distinctions of rank were indicated by the border and the
 hair ornaments.’ The latter were in shape likea cicada. The
 hair ornaments of the grades from the Lesser Kin-kwan
 upwards were of a combination of gold and silver: the hair
 ornaments of the Greater and Lesser Seikwan were made of
-silver: the hair ornaments of the Greater and Lesser Kok-
-kwan were made of copper. The Kembu caps had no hair
+silver: the hair ornaments of the Greater and Lesser Kokkwan were made of copper. The Kembu caps had no hair
 ornaments.
 
 These caps were worn at Grand Assemblies,’ when foreign
@@ -14032,8 +12870,7 @@ Takamuko no Kuromaro, of Shotoko rank, and Oshikuma,
 
 
 Nakatomi no Muraji, of middle Shdsen rank,* and bring a
-present to the Emperor of a peacock and a parrot. Chhyun-
-chhyu was made a hostage. He was a handsome man, who
+present to the Emperor of a peacock and a parrot. Chhyunchhyu was made a hostage. He was a handsome man, who
 talked and smiled agreeably.’
 
 The Nutari ® barrier was constructed, and a barrier-settlement
@@ -14065,12 +12902,11 @@ now known as bon. Vzde Eitel’s “ Handbook”—article Ullambana, also
 4 See below, XXV. 41, where, however, no middle Shdsen rank is
 mentioned, only upper and lower.
 
-> He is mentioned in the “ Tongkam.”
+) He is mentioned in the “ Tongkam.”
 
 ° In Echigo, as a defence against the Yemishi or Ainos.
 
-7 Of Buddhists, viz.: Biku (Bhikchu), Bikuni (Bhikchuni), Uhasoku (Upa-
-saka) and Ubai (Upasika). Priests, nuns, and lay members, male and female.
+7 Of Buddhists, viz.: Biku (Bhikchu), Bikuni (Bhikchuni), Uhasoku (Upasaka) and Ubai (Upasika). Priests, nuns, and lay members, male and female.
 
 
 =e
@@ -14147,9 +12983,6 @@ AD. 649.
 XXV. 42
 
 
-232 NIHONGI.
-
-
 Eighteenth Lower Sho-otsu
 
 Nineteenth Risshin (Promotion or advancement)
@@ -14159,8 +12992,7 @@ no Kuromaro, and the Buddhist Priest Bin to establish Eight
 Departments of State and one hundred bureaus.’
 
 3rd month, 17th day. Abe no Oho-omi died. The Emperor
-proceeded to the Shujaku* gate, where he raised up lamenta-
-tions for him and showed much emotion. The Empress
+proceeded to the Shujaku* gate, where he raised up lamentations for him and showed much emotion. The Empress
 Dowager, the Prince Imperial, and the other Princes, together
 with the Ministers of every rank, all, following his example,
 mourned and lamented.’
@@ -14203,17 +13035,11 @@ man’s Prince and father call him by his ming (%), other people call him
 by his * or style.”—Giles.
 
 
-KOTOKU. 233
-
-
 and shall then answer to the charge brought against me.” The
 Emperor again sent Mikuni no Maro no Kimi and Hodzumi,
 Kurafu no Omi, to investigate the circumstances of the treason.
 The Oho-omi, Maro, again answered as before. The Emperor
-was therefore about to raise an armed force and surround there-
-
-
-with the Oho-omi’s house, when the Oho-omi, taking with him .
+was therefore about to raise an armed force and surround therewith the Oho-omi’s house, when the Oho-omi, taking with him .
 
 
 his two sons, Hidshi'and Akagoma [also called Mawosu], fled
@@ -14245,8 +13071,7 @@ the duty of a son to a father be brought to nothing? This
 temple was originally built, not for me personally, but under a
 vow for the sake of the Emperor. I have now been slandered
 by Musashi, and I fear that I shall be unjustly put to death.
-With so near a prospect of the yellow springs,’ I would with-
-draw (from life) still cherishing fidelity in my bosom, and the
+With so near a prospect of the yellow springs,’ I would withdraw (from life) still cherishing fidelity in my bosom, and the
 object of my coming to this Temple is that my last moments
 may be made easier.”
 
@@ -14408,9 +13233,6 @@ A.D. 650
 XXV. 47.
 
 
-236 NIHONGI.
-
-
 Shoshi rank, was granted the rank of Daishi, and was made
 Oho-omi of the Right."
 
@@ -14422,7 +13244,7 @@ This year, the Queen of Silla sent Kim Ta-sya, Sa-son of
 Sa-tok-pu, as hostage. He had a suite of thirty persons.
 
 One Buddhist priest, two Si-rang,® one Assistant, one
-Usher, five Chung-keék,* ten Artists,> one Interpreter,
+Usher, five Chung-keék,* ten Artists,) one Interpreter,
 and sixteen servants of various kinds—in all thirty-seven
 persons.
 
@@ -14466,15 +13288,12 @@ the performance of the harahi or purification ceremonies.
 
 4 op xe literally middle guests, officials of middle rank.
 
-> Including skilled artisans.
+) Including skilled artisans.
 
 ° i.e. “white pheasant.” The reason for this name of the year-period
 appears below.
 
 7 A.D. 68.
-
-
-KOTOKU. 237
 
 
 deer was seen quietly moving, and eventually a Temple was
@@ -14489,8 +13308,7 @@ Great Thang’ brought back a dead crow with three legs.” The
 people of the country again said that this was a good omen.
 
 
-Though these things are trifles, yet they are deemed of favour-
-able omen. Much more is this so in the case of a white
+Though these things are trifles, yet they are deemed of favourable omen. Much more is this so in the case of a white
 pheasant.”
 
 The Priest Bin said :—‘‘ This is to ‘be deemed a lucky omen,
@@ -14502,8 +13320,7 @@ disaccord, and when his banquets and costumes are in due
 measure. Again, when a Ruler is of frugal habits, white
 pheasants are made to come forth on the hills. Again, they
 appear when the Ruler is sage and humane. In the time of
-the Emperor Ch‘éng Wang of the Chou Dynasty, the Yiieh-
-shang * family brought and presented to the Emperor a white
+the Emperor Ch‘éng Wang of the Chou Dynasty, the Yiiehshang * family brought and presented to the Emperor a white
 pheasant, saying:—‘ We were told by the old men of our
 country :—‘‘ What a long time it has been since there have been
 any exceptional storms or long-continued rains, and that the
@@ -14523,8 +13340,7 @@ Upon this the white pheasant was let loose in the garden.
 
 1 China.
 
-2 We have obviously here an echo of the Chinese myth of a red three-
-legged crow which inhabits the sun, and which has all manner of mystical
+2 We have obviously here an echo of the Chinese myth of a red threelegged crow which inhabits the sun, and which has all manner of mystical
 significance.
 
 3 The name of a region lying to the south of China. +, ADE 235.
@@ -14536,12 +13352,8 @@ XXV. 48.
 XXV. 40.
 
 
-238 . NIHONGI.
-
-
 the occasion of a New Year’s reception. The Oho-omi of the
-Right and Left and all the functionaries formed four lines out-
-side of the purple gate. Ihimushi, Ahata no Omi, and three
+Right and Left and all the functionaries formed four lines outside of the purple gate. Ihimushi, Ahata no Omi, and three
 others were made to take the pheasant’s litter and move off
 ahead, while the Oho-omi of the Right and Left at the head of
 all the functionaries and Phung-chyang, Lord of Peékché, his
@@ -14557,14 +13369,11 @@ Maro, Mikuni no Kimi, and Woguso, Kura no Omi, took hold
 of the hinder end of the litter and placed it before the Imperial
 throne. The Emperor straightway called the Prince Imperial,
 and they took it and examined it together. The Prince Imperial
-having retired, made repeated obeisances, and caused the Oho-
-omi Kose to offer a congratulatory address, saying :—‘‘ The
-Ministers and functionaries offer their congratulations. Inas-
-much as Your Majesty governs the Empire with serene virtue,
+having retired, made repeated obeisances, and caused the Ohoomi Kose to offer a congratulatory address, saying :—‘‘ The
+Ministers and functionaries offer their congratulations. Inasmuch as Your Majesty governs the Empire with serene virtue,
 there is here a white pheasant, produced in the western region.
 This is a sign that Your Majesty will continue for a thousand
-autumns and ten thousand years peacefully to govern the Great-
-eight-islands* of the four quarters. It is the prayer of the
+autumns and ten thousand years peacefully to govern the Greateight-islands* of the four quarters. It is the prayer of the
 Ministers, functionaries, and people that they may serve Your
 Majesty with the utmost zeal and fidelity.”
 
@@ -14585,9 +13394,6 @@ probability that Kida is really the name of the Silla scholar just mentioned,
 which has come in here by mistake.
 
 3 Oho-ya-shima. See Vol. I. p, 15. j 4 China.
-
-
-KOTOKU. 239
 
 
 seen. In this our Land of Japan,’ during the reign of the
@@ -14637,7 +13443,7 @@ absurd.
 4 The dragon-horse has wings on its head. It crosses water without
 sinking. It appears when an illustrious sovereign is on the throne.
 
-> Kirin. § White pheasant.
+) Kirin. § White pheasant.
 
 
 XXV. 50.
@@ -14647,9 +13453,6 @@ XXV. 51.
 
 
 AD: O51.
-
-
-240 NIHONGI.
 
 
 no Muraji, was commended and granted the rank of Daisen,
@@ -14671,8 +13474,7 @@ was sent to set up the boundary posts of the Palace.
 
 In this month the construction was begun of an embroidery’
 figure of Buddha sixteen feet in height with its attendant
-Bosatsu,’ and of figures of beings of the eight classes *—forty-
-six figures in all.
+Bosatsu,’ and of figures of beings of the eight classes *—fortysix figures in all.
 
 In this year, Ohoguchi, Aya no Yamaguchi no Atahe, in
 obedience to an Imperial order, carved one thousand images of
@@ -14707,9 +13509,6 @@ VIII. Makoraka, Sanskrit Mahoraga, demons shaped like a boa.
 
 4 See above, XXV. Io.
 5 The complete Buddhist canon as received in China. It consists of
-
-
-KOTOKU. 241
 
 
 That night over 2700 lights were lit in the courtyard of the
@@ -14759,8 +13558,7 @@ rapidly over the intermediate pages by a single motion of the hand.
 
 1 These are not known as Sutras. Probably they were litanies used as
 suitable for the occasion of taking up a residence in the new Palace. An-taku
-means ‘ peaceful-house,” and Do-soku “ earth-side,”. or perhaps “ earth-
-survey.” j
+means ‘ peaceful-house,” and Do-soku “ earth-side,”. or perhaps “ earthsurvey.” j
 
 2 The older reading is “ without an effort.” I follow the “ Shikai” editor’s
 emendation of JJ for JJ. 3 See above, XXV. 17.
@@ -14790,9 +13588,6 @@ A.D. 653.
 SEXV, 54,
 
 
-242 NIHONGI.
-
-
 Murydjiu* Sutra, the Shamon Ye-ji was made lecturer and
 1000 Shamon were constituted the audience.
 
@@ -14810,19 +13605,16 @@ there was appointed an elder. The senior member of the .
 
 
 family * was always made the head of the household. The
-houses were all associated in groups of five for mutual protec-
-tion, with one elder to supervise them one with another.
+houses were all associated in groups of five for mutual protection, with one elder to supervise them one with another.
 
 Silla and Pékché sent Envoys to bring tribute and offer
 presents.
 
-Autumn, gth month. The building of the Palace was com-
-pleted. It is impossible adequately to describe the appearance
+Autumn, gth month. The building of the Palace was completed. It is impossible adequately to describe the appearance
 of the Palace Halls.
 
 Winter, 12th month, last day. The priests and nuns of the
-Empire were invited to the interior of the Palace and enter-
-tained with meagre fare. Plentiful alms were given, and lights
+Empire were invited to the interior of the Palace and entertained with meagre fare. Plentiful alms were given, and lights
 kindled.
 
 4th year, Summer, 5th month, 12th day. There were sent
@@ -14836,8 +13628,7 @@ of the Middle*], Adachi [Adachi was the son of Nakatomi no
 
 1 i.e. immortal life, called in Sanskrit the Sukhavati Vydha Sutra.
 
-2 i.e. the eldest son or heir, to the exclusion of uncles, say the commen-
-tators. This would be primogeniture. This principle had not yet become
+2 i.e. the eldest son or heir, to the exclusion of uncles, say the commentators. This would be primogeniture. This principle had not yet become
 established for the succession to the throne.
 
 3 There is a biography of Joye extant. He remained for many years
@@ -14849,17 +13640,10 @@ studying in China. On his return to Japan he had the body of his father |
 removed from the old-fashioned dolmen-tomb in which he had been interred,
 and buried under a miniature pagoda of stone. This marks the decline of
 the old style of interment. The original tomb is still in existence. It is
-shown in the annexed illustration, which is reproduced with the kind per-
-mission of the editor of the “ Asiatic Quarterly Review,” where it appeared,
+shown in the annexed illustration, which is reproduced with the kind permission of the editor of the “ Asiatic Quarterly Review,” where it appeared,
 July, 1892.
 
 4 Naidaijin.
-
-
-243
-
-
-KOTOKU.
 
 
 the son of
@@ -14886,9 +13670,6 @@ Kudara, Kasuga no Ahata no Omij as students,’ Kusuri, Kose
 XXV. 55.
 
 
-244 NIHONGI.
-
-
 no Omi {son of Toyotari no Omi], and Okina, Hi no Muraj
 [son of Madama. Another book adds the student priests
 Chiben and Gitoku and the student Ihatsumi, Sakahibe no
@@ -14909,8 +13690,7 @@ Bin, inquired after his illness, and at length from his own
 
 
 One book says :—‘‘ In the 7th month of the 5th year,
-the priest Bin took ill in the Temple of Adzumi. There-
-upon the Emperor paid him a visit of inquiry, and taking
+the priest Bin took ill in the Temple of Adzumi. Thereupon the Emperor paid him a visit of inquiry, and taking
 him by the hand, said :—‘If your Reverence dies to-day,
 We shall follow you in death to-morrow.’ ”’
 
@@ -14962,8 +13742,7 @@ Princes, and went to live in the temporary Palace of Asuka no
 Kahabe in Yamato. At this time the Ministers and Daibu,
 with the various functionaries, all followed and changed their
 residence. The Emperor resented this, and wished to cast
-away the national Dignity. He had a palace built in Yama-
-zaki and sent a song to the Empress Hashibito, saying :—
+away the national Dignity. He had a palace built in Yamazaki and sent a song to the Empress Hashibito, saying :—
 
 
 The pony which I keep,
@@ -15012,16 +13791,12 @@ of Lower Shésen rank”], Yoroshi, Oka no Kimi, of Upper
 XXV. 57.
 
 
-246 NIHONGI.
-
-
 Shé-otsu rank, Daihaku, Okizome no Muraji, Oyu, Nakatomi
 no Hashibito no Muraji, of Lower Sho-otsu rank, Tori, Tabe
 no Fubito, and others. They embarked separately on two ships.
 Having delayed for several months, they proceeded by way of
 Silla, and anchored at Laichou.’ At last they reached the
-capital, where they had an audience of the Emperor. There-
-upon Kuo Weén-chii, superintendent of the guards of the Prince
+capital, where they had an audience of the Emperor. Thereupon Kuo Weén-chii, superintendent of the guards of the Prince
 Imperial’s Palace, inquired particularly of them regarding the
 geography of the Land of Japan, and the names of the Gods
 of the beginning of the country. To all which inquiries
@@ -15052,7 +13827,7 @@ colleagues, who had gone as Envoys to the Western Sea,’
 
 Spelt with a different Chinese character to the other.
 
-3 A.D. 690. 4 A.D. 665. ®> Presumably a Chinese.
+3 A.D. 690. 4 A.D. 665. ®) Presumably a Chinese.
 
 ° A Japanese who had taken a Chinese name.
 
@@ -15135,8 +13910,7 @@ Takamuku, and bore to him the Imperial Prince Aya. She
 was afterwards married to the Emperor Oki-naga tarashi-hi
 hiro-nuka,* to whom she bore two sons and one daughter. In
 his second year she was raised to the rank of Empress-consort,
-as may be seen in the history of the Emperor Oki-naga tarashi-
-hi hiro-nuka. In the thirteenth year of his reign, Winter, the
+as may be seen in the history of the Emperor Oki-naga tarashihi hiro-nuka. In the thirteenth year of his reign, Winter, the
 tenth month, the Emperor Oki-naga tarashi-hi hiro-nuka died.
 In the first month of the following year the Empress assumed
 the Imperial Dignity. In the sixth month of the fourth year
@@ -15207,8 +13981,7 @@ Ambassador was an Eunsol of the Eastern division, by
 name Tyo-sin-in, There were over one hundred persons
 altogether.
 
-Yemishi and Hayato,’ attended by a large number of fol-
-lowers, offered homage and came to Court with presents for
+Yemishi and Hayato,’ attended by a large number of followers, offered homage and came to Court with presents for
 the Empress.
 
 
@@ -15234,9 +14007,6 @@ XXVI.
 
 
 3.
-
-
-250 NIHONGI.
 
 
 Silla sent specially Mi-mu of Keup-son' rank as a hostage,
@@ -15272,8 +14042,7 @@ the Palace buildings were erected, and the Empress removed
 into them. This Palace was called the later Palace of Asuka
 no Wokamoto.
 
-Tamu Peak was crowned with a circular enclosure. More-
-over on the summit of the Peak, close by where two tsuki trees.
+Tamu Peak was crowned with a circular enclosure. Moreover on the summit of the Peak, close by where two tsuki trees.
 grew, a lofty building was erected to which the name was given
 of the Palace of Futa-tsuki.* It was also called Amatsu* miya.
 
@@ -15305,8 +14074,7 @@ Lit. “ water workmen,” a closely parallel expression to our “ navigators �
 SAIMEI. 251
 
 
-barges were loaded with stones from the Iso no Kami Moun-
-tain and hauled with the current to the mountain on the east of
+barges were loaded with stones from the Iso no Kami Mountain and hauled with the current to the mountain on the east of
 the Palace, where the stones were piled up to form a wall.
 The people of that day reviled the work, saying :—‘‘ This mad
 canal, which has wasted the labour of over 30,000 men! This
@@ -15322,8 +14090,7 @@ A Palace was also built at Yoshino.
 
 The Ambassadors to the Western Sea,? Takunaha, Saheki
 no Muraji, and Kunikatsu, Naniha no Kishi, of Lower Shosen
-rank, with their companions returned from Pékché and pre-
-sented the Empress with a parrot.
+rank, with their companions returned from Pékché and presented the Empress with a parrot.
 
 The Palace of Wokamoto took fire.
 
@@ -15341,8 +14108,7 @@ gth month. The Imperial Prince Arima’ was of a deceitful
 disposition, and pretended insanity, etc., etc. He went to the
 hot baths of Muro, under the pretence of treatment of disease.
 On his return he praised the quality of the country, saying :—
-“Scarce had I seen that region, when my complaint disap-
-peared of itself,’ etc., etc. The Empress, hearing this, was
+“Scarce had I seen that region, when my complaint disappeared of itself,’ etc., etc. The Empress, hearing this, was
 rejoiced, and wished to go and visit it.
 
 This year envoys were sent to Silla with the following mes-
@@ -15376,9 +14142,6 @@ A.D. 658.
 OQ ee
 
 
-252 NIHONGI.
-
-
 sage :—‘‘ We wish to send to Great Thang under the charge ot
 your country’s envoys the Buddhist priest Chitatsu, Mimtmaya,
 Hashibito no Muraji, and Wakugo, Yozami no Muraji.” Silla
@@ -15400,8 +14163,7 @@ against the Yemishi in command of a fleet of 180 ships. The
 Yemishi of the two districts of Aita? and Nushiro * were struck
 with fear, and tendered their submission. Hereupon the ships
 were drawn up in order of battle in the bay of Aita. A Yemishi
-of Aita named Omuka came forward and made an oath, say-
-ing :—‘“‘ It is not by reason of the arrival of the Imperial forces
+of Aita named Omuka came forward and made an oath, saying :—‘“‘ It is not by reason of the arrival of the Imperial forces
 that we slaves carry bows and arrows, but because it is our
 nature to live upon animal food. If we have provided bows
 and arrows against the Imperial forces, may the Gods of the
@@ -15485,8 +14247,7 @@ lamented bitterly.
 
 1 A Chinese expression for the date of the death of an Emperor.
 
-2 A native commentator remarks that mure is the Corean word for moun-
-tain. Womure would therefore mean little-mount. There were Corean
+2 A native commentator remarks that mure is the Corean word for mountain. Womure would therefore mean little-mount. There were Corean
 settlers in Imaki. The modern Corean word for mountain is moi, which is,
 no doubt, a contraction of mure. Cf. né (nai) for nari or nare, river. As
 shown by Chamberlain in his Loochooan Grammar, “ T.A.S.J.” XXIII.
@@ -15504,9 +14265,6 @@ representative.
 
 
 XXVI,7
-
-
-254 NIHONGI.
 
 
 Autumn, 7th month, 4th day. More than two hundred
@@ -15547,8 +14305,7 @@ and living beings.’
 
 2 Same as Saniguna, mentioned above,
 
-3 Hoshi = D‘D. This is the famous Buddhist priest (also called Yiian-
-chwan) who left China for India in A.D. 629, in fulfilment of a vow. After
+3 Hoshi = D‘D. This is the famous Buddhist priest (also called Yiianchwan) who left China for India in A.D. 629, in fulfilment of a vow. After
 an absence of seventeen years he returned in A.D.~645, bringing with him
 
 
@@ -15608,8 +14365,7 @@ Leaving him, I must go.!
 The second
 
 
-She commanded Mari, Hada no Oho-kura no Miyakko, say-
-ing :—‘‘ Let these verses be handed down and let them not be
+She commanded Mari, Hada no Oho-kura no Miyakko, saying :—‘‘ Let these verses be handed down and let them not be
 forgotten by the world.”
 
 11th month, 3rd day. Soga no Akaye no Omi, the official
@@ -15634,9 +14390,6 @@ of Akaye, where he went up into an upper storey, and conspired
 
 
 XXVI. 9.
-
-
-256 NIHONGI.
 
 
 with him. A leg-rest' broke of itself. They both recognized
@@ -15679,8 +14432,7 @@ Kyosoku.
 
 
 1 The Chinese characters mean ‘‘ something inserted between the knees,”
-in hot weather, when in bed, for coolness. A pillow is used for this pur-
-pose at Singapore, where it is called “a Dutch wife.” The corresponding
+in hot weather, when in bed, for coolness. A pillow is used for this purpose at Singapore, where it is called “a Dutch wife.” The corresponding
 Chinese term means “a bamboo wife.” But the Japanese interlinear gloss
 has oshimadzuki, something which is usually put for a sort of stool to lean
 the arm on when sitting on the mats, also called kyosoku. The ‘ Wamydsho ”
@@ -15698,8 +14450,7 @@ SAIMEI. 257
 One book says:—‘‘ The Imperial Prince Arima, with
 Akaye, Soga no Omi, Konoshiro,' Shihoya no Muraji,
 Oho-ishi, Mori no Kimi, and Kusuri, Sakahibe no Muraji,
-divined the future of their treasonous conspiracy by draw-
-ing slips of paper.” One book says:—‘ The Imperial
+divined the future of their treasonous conspiracy by drawing slips of paper.” One book says:—‘ The Imperial
 Prince Arima said :—‘ First of all we will burn the Palace.
 Then with five hundred men for a day and two nights we
 will waylay (the Empress) at the harbour of Muro, and
@@ -15752,9 +14503,6 @@ OXOVE 10;
 
 
 XXXVI. It
-
-
-259)" NIHONGI.
 
 
 The Buddhist priest Chiyu made a south-pointing chariot.’
@@ -15856,7 +14604,7 @@ his travels in Thibet, and during Lord Dufferin’s viceroyalty of India, Lady
 Dufferin was on one occasion “‘circumambulated” by some tribesmen as a
 mark of the very highest respect.
 
-. > Le. an omen.
+. ) Le. an omen.
 
 * a.D. 660. Under this year, the “Tongkam” has the following :—-“ The
 wells in the Royal capital of Pékché turned red as blood, multitudes of fish
@@ -15878,9 +14626,6 @@ BOX De 2
 XXVI. 13.
 
 
-260 NIHONGI.
-
-
 In this month, Abe no Omi was sent in command of 180
 ships on an expedition against the Yemishi country. Abe no
 Omi assembled a selection of the Yemishi of the two districts
@@ -15900,8 +14645,7 @@ Shiribeshi' your seat of Government.” In accordance with
 the advice of Ikashima and his companion, a district-governor
 was ultimately established there, after which he (Abe no Omi)
 returned. The provincial governors of Michinoku and Koshi
-were each granted two grades of rank, while the district-
-governors and administrators received each one degree.
+were each granted two grades of rank, while the districtgovernors and administrators received each one degree.
 
 One book says :—‘‘ Hirafu, Abe no Hikida no Omi,
 fought with the Su-shén, and on his return presented to
@@ -15943,8 +14687,7 @@ and was driven to an island in the Southern Sea, named
 Erh-kia-wei, where it was destroyed by the islanders.
 Arima, Yamato no Aya no Wosa no Atahe, with Inadzumi,
 Sakahibe no Muraji, and three others, stole a ship belonging
-to the islanders, and embarking in it, escaped to Kwa-
-chow. The officials of this district sent them under escort
+to the islanders, and embarking in it, escaped to Kwachow. The officials of this district sent them under escort
 to the capital, Loh-yang. At midnight on the 16th day,
 the ship of Kiza no Muraji arrived at Mount Hsu-an near
 Kuei-chi in the Yueh district,) when a north-east wind
@@ -15957,8 +14700,7 @@ Yueh district. On the 15th they entered the capital,’
 riding on post-horses. On the 2gth, travelling with all
 speed, they reached the Eastern capital,* where the
 Emperor had then his residence. On the 30th they had
-an audience of the Emperor, who inquired of them, say-
-ing :—‘‘ Is the Empress of your country in good health?”
+an audience of the Emperor, who inquired of them, saying :—‘‘ Is the Empress of your country in good health?”
 The Envoys answered respectfully :—‘‘ Her virtue is in
 harmony with Heaven and Earth, and she therefore
 naturally enjoys good health.”” The Emperor inquired of
@@ -15967,15 +14709,12 @@ with them?” The Envoys answered respectfully :—‘ As
 they enjoy the favour and esteem of our Empress, it is
 well with them also.” The Emperor inquired of them,
 saying :—‘‘Is there peace within your country or not?”
-The Envoys answered respectfully, saying :—‘‘ The Govern-
-ment accords with Heaven and Earth, and therefore there
-is nothing untoward among the multitude.” The Em-
-peror inquired of them, saying :—‘“‘ In what quarter is the
+The Envoys answered respectfully, saying :—‘‘ The Government accords with Heaven and Earth, and therefore there
+is nothing untoward among the multitude.” The Emperor inquired of them, saying :—‘“‘ In what quarter is the
 Land of these Yemishi situated?’ The Envoys answered
 respectfully, saying :—‘‘ It lies to the north-east.” The
 Emperor inquired of them, saying :—‘‘ How many tribes
-of Yemishi are there?’’ The Envoys answered respect-
-fully, saying :—‘‘ There are three kinds. The most distant
+of Yemishi are there?’’ The Envoys answered respectfully, saying :—‘‘ There are three kinds. The most distant
 are called Tsugaru, the next Ara-Yemishi, ahd the nearest
 
 
@@ -15988,15 +14727,8 @@ XXVI. 14.
 XXVL 15.
 
 
-262
-
-
-NIHONGI.
-
-
 Nigi-Yemishi." These now here are Nigi- Yemishi—they
-bring tribute yearly to our country’s Court.” The Em-
-peror inquired of them, saying :—‘‘In their country are
+bring tribute yearly to our country’s Court.” The Emperor inquired of them, saying :—‘‘In their country are
 
 
 there the five kinds of grain?” The Envoys answered
@@ -16068,8 +14800,7 @@ arrows.”
 the Urabon’ Sutra expounded in all the Temples of the capital,
 and requital made to the ancestors for seven generations.
 
-In this year, the Kuni no Miyakko of Idzumo was com-
-manded to repair the shrine of the Itsuki*® God.
+In this year, the Kuni no Miyakko of Idzumo was commanded to repair the shrine of the Itsuki*® God.
 
 A fox bit off the end of a creeper which a labourer of the
 district of Owi held in his hand, and went off with it. Moreover
@@ -16078,8 +14809,7 @@ and laid it in the Ifuya shrine. [Signs that the Empress was
 about to die. |
 
 Again, the Koryé6 Envoys had a bear-skin,* on which they
-put a price of sixty pounds of floss silk. The market com-
-missioner laughed and went away.
+put a price of sixty pounds of floss silk. The market commissioner laughed and went away.
 
 A Koryo painter, named Komaro,’ on the day on which he
 entertained guests of his own surname in his private house,
@@ -16105,7 +14835,7 @@ Itsuku-shima, the sacred island in the Inland Sea, near Hiroshima,
 
 4 A shiguma skin. See above, XXVI. Io.
 
-> Obviously a Japanese name. 6 Perhaps the Ishikari river.
+) Obviously a Japanese name. 6 Perhaps the Ishikari river.
 
 
 A.D. 660.
@@ -16117,20 +14847,14 @@ XXVI. 16
 XXVI. 17.
 
 
-264 NIHONGI.
-
-
-thousand Yemishi of Watari-shima’ assembled on the sea-
-shore and made a camp facing the river. Two men of this
+thousand Yemishi of Watari-shima’ assembled on the seashore and made a camp facing the river. Two men of this
 camp came forward and called out hurriedly, saying :—‘‘ The
 Su-shén fleet has arrived in great force and threatens to slay
 us. We pray, therefore, to be allowed to cross the river and
 to serve the Government. Abe no Omi sent a boat to go and
 fetch these two Yemishi, and inquired from them where the
 enemy were concealed and the number of their ships. The
-two Yemishi accordingly pointed out the place of their con-
-cealment, saying :—‘‘ There are over twenty ships.” There-
-upon he sent messengers to summon them, but they refused to
+two Yemishi accordingly pointed out the place of their concealment, saying :—‘‘ There are over twenty ships.” Thereupon he sent messengers to summon them, but they refused to
 come. Abe no Omi accordingly heaped up on the beach
 coloured silk stuffs, weapons, iron, etc., to excite their cupidity.
 The Su-shén people thereupon drew up their fleet in order,
@@ -16212,9 +14936,6 @@ XXVI. 18.
 XXVI. 19.
 
 
-266 NIHONGI.
-
-
 Again, the people of the whole country carried arms without
 reason when passing to and fro on the highways. The old
 people of the country. said :—‘ This perhaps denotes the
@@ -16241,8 +14962,7 @@ Government and slew the wise and good, thus inviting the
 calamity which came upon them. Ought one not to be
 watchful? Ought one not to be watchful?” In a note it
 is stated :—‘‘ Chhyun-chhyu-chi, of Silla, was unable to
-accomplish his wishes by the Minister Keé-kim.* There-
-fore he again served Thang, and, putting off the national
+accomplish his wishes by the Minister Keé-kim.* Therefore he again served Thang, and, putting off the national
 garb, made a fawning appeal to the Son of Heaven, with
 the object of bringing disaster on a neighbouring kingdom
 and preparing the accomplishment of his ends.”
@@ -16273,8 +14993,7 @@ General Su Ting-fang and his men, from the King of
 Pékché down to the Crown Prince Nyung and others,
 with the Prime Minister Sa-chhéek, Chhyén-pok-kuk,
 Pyoén-syoéng, and others of lower rank, thirty-seven persons,
-making in all fifty persons, were delivered up to the Govern-
-ment. They were at once led before the Emperor, who
+making in all fifty persons, were delivered up to the Government. They were at once led before the Emperor, who
 spoke kindly to them and released them on the spot. On
 the 19th the Emperor bestowed presents,’ and on the 24th
 we started from the Eastern capital.”
@@ -16283,8 +15002,7 @@ gth month, 5th day. Pekché sent a Talsol, the Buddhist
 novice,’ Kak-chyong, and others with the following message to
 the Empress [one book says, “They escaped hither and
 gave information of their hard case”’|:—‘‘ In the 7th month of
-this year, Silla, relying on its strength and assuming a bluster-
-ing attitude, picked a quarrel with its neighbour, and drawing
+this year, Silla, relying on its strength and assuming a blustering attitude, picked a quarrel with its neighbour, and drawing
 the Thang people into it, overturned Pekché. Sovereign and
 Ministers were all captured, and scarce a living soul* was left.”
 
@@ -16303,8 +15021,7 @@ Upon this Kwisil Pok-sin, Eunsol of the Western Division,
 was mightily enraged, and betook himself to Mount Im-sya-ki
 [one book says, ‘‘ Northern Mount Im-kém-li”], while Yo
 Cha-chin, Eunsol of the Central Division, occupied the
-walled city of Kumanori* [one book says, ‘‘ Mount To-to-ki-
-nyu’’]. They each formed a camp and assembled the scattered
+walled city of Kumanori* [one book says, ‘‘ Mount To-to-kinyu’’]. They each formed a camp and assembled the scattered
 troops. Their weapons had become exhausted in the previous
 
 
@@ -16312,17 +15029,13 @@ troops. Their weapons had become exhausted in the previous
 
 3 Lit. “a chewer of food.” 4
 
-4 No doubt identical with Kumanare mentioned above, the present Ung-
-chon. See above, Vol. I. p. 367.
+4 No doubt identical with Kumanare mentioned above, the present Ungchon. See above, Vol. I. p. 367.
 
 
 V2 1.
 
 
 MMVI. 22,
-
-
-268 NIHONGI,
 
 
 campaign, and therefore they fought with flails.!. The Silla
@@ -16338,13 +15051,11 @@ invented, raised up the country, which was already ruined.
 Winter, roth month. Kwisil Pok-sin, Minister of Pékché,
 sent the Minister Kwi-chi and others with a present to the
 Empress of over one hundred Thang prisoners. These are
-now the men of Thang of the two districts of Fuha and Kata-
-agata in the province of Mino. They also asked for troops
+now the men of Thang of the two districts of Fuha and Kataagata in the province of Mino. They also asked for troops
 and requested assistance. At the same time they prayed that
 the Prince Y6 Phung-chyang? might be given back [one
 book says :—‘‘ Minister Kwi-chi is the Talsol, Chyéng-chin ”],
-saying :—‘‘ The men of Thang, leading after them our maggot-
-pests,* came and wasted and harassed our territory. They
+saying :—‘‘ The men of Thang, leading after them our maggotpests,* came and wasted and harassed our territory. They
 overturned our Government and took prisoners our Sovereign
 and his Ministers.
 
@@ -16359,8 +15070,7 @@ by the causeless bearing of arms.*
 Now the people of the Land of Peékché, putting their trust
 afar off in the Emperor’s protecting care, have assembled
 together anew, and formed a kingdom. We now humbly
-beg that we may be allowed to wait upon the Prince Phung-
-chyang, who was sent by Pékché to be in attendance at the
+beg that we may be allowed to wait upon the Prince Phungchyang, who was sent by Pékché to be in attendance at the
 Celestial Court, and to make him the Ruler of the Country,
 etc., etc.” -
 
@@ -16386,8 +15096,7 @@ and assistance requested: to render help in emergencies, and
 to restore that which has been interrupted, is a manifestation
 of ordinary principles of right. The Land of Pekché, in its
 extremity, has come to us and placed itself in our hands.
-Their own country having been brought to ruin, having no-
-where to betake themselves for help and none to apply to,
+Their own country having been brought to ruin, having nowhere to betake themselves for help and none to apply to,
 making spears their pillows, tasting gall,’ and holding firmly
 to the hope of aid, they have come from afar and made a
 memorial to us. Our’ resolution in this matter is unshakeable.
@@ -16440,14 +15149,9 @@ A.D. 661.
 XXXVI. 24.
 
 
-270 NIHONGI.
-
-
 It was reported from the province of Shinano:—‘‘ A swarm
-of flies has flown in a westerly direction, crossing the Oho-
-saka hill. It was ten fathoms in thickness, and in height
-reached the azure sky.” Some people gathered that this por-
-tended the defeat of the army of relief. There was a popular
+of flies has flown in a westerly direction, crossing the Ohosaka hill. It was ten fathoms in thickness, and in height
+reached the azure sky.” Some people gathered that this portended the defeat of the army of relief. There was a popular
 song which said :— |
 
 
@@ -16509,8 +15213,7 @@ present a memorial requesting gauss to wait upon (and
 bring away) their Prince Kyu-he.
 
 In the ‘‘ Record of the reigns of Japan,” written by the
-Priest To-hyén,' it is said :—‘‘ Pok-sin, of Pékche, pre-
-sented a writing in which he begged the Eastern Court to
+Priest To-hyén,' it is said :—‘‘ Pok-sin, of Pékche, presented a writing in which he begged the Eastern Court to
 give up his Lord Kyu-he.” One book says :—‘‘In the
 fourth month the Empress transferred the capital to the
 Palace of Asakura.” f
@@ -16530,8 +15233,7 @@ and others with tribute.
 In the writing of Hakatoko, Yuki no Muraji, it is stated:
 —‘On the 25th day of the rst month of the year Kanoto
 Tori (A.D. 661), we arrived at Yueh-chow on our return
-journey. On the ist day of the 4th month, leaving Yueh-
-chow, we proceeded homewards in an easterly direction,
+journey. On the ist day of the 4th month, leaving Yuehchow, we proceeded homewards in an easterly direction,
 and on the 7th arrived south of Mount Ch‘éng-an-shan.
 On the 8th day at cock-crow we put out to sea with a
 south-west wind in our favour, but in mid-ocean we lost
@@ -16563,9 +15265,6 @@ XXVI. 25.
 
 
 XX VI. 26.
-
-
-272 NIHONGI.
 
 
 might present them to the Imperial Court. On the 23rd
@@ -16605,10 +15304,7 @@ Desirous of a sight of thee !
 
 
 at Naniha.
-11th month, 7th day. The Empress’s remains were tem-
-
-
-porarily interred at Asuka-gahara.
+11th month, 7th day. The Empress’s remains were temporarily interred at Asuka-gahara.
 Mourning began on this day, and lasted for nine days.
 
 
@@ -16628,8 +15324,7 @@ SAIMEI. 273
 The ‘Record of the reigns of Japan” says :—“ The
 men of Thang, Hsii Shou-yen and others, who were taken
 prisoners by Pok-sin, arrived in Tsukushi.” One book
-says :—‘‘ In the year Kanoto Tori (A.D. 661), the one hun-
-dred and six Thang prisoners presented by Pok-sin,
+says :—‘‘ In the year Kanoto Tori (A.D. 661), the one hundred and six Thang prisoners presented by Pok-sin,
 Minister of Pékché, took up their abode at Harita in the
 province of Afumi. Under the year Kanoye Saru
 (A.D. 660), it is already stated that Pok-sin presented
@@ -16638,9 +15333,6 @@ done with them.”
 
 
 VOL. Ti. Ji
-
-
-XXVII.
 
 
 BOOK XXVII.
@@ -16657,8 +15349,7 @@ In the fourth year of her reign, the Empress Ame toyo-takara
 ikashi-hi tarashi-hime resigned the Dignity to the Emperor
 Ame-yorodzu toyo-hi,’ and established the Emperor ® as Prince
 Imperial. The Emperor Ame-yorodzu toyo-hi died in the tenth
-month of his later fifth year.” In the following year the Em-
-press Dowager assumed the Imperial Dignity. She died in the
+month of his later fifth year.” In the following year the Empress Dowager assumed the Imperial Dignity. She died in the
 seventh year of her reign, on the 24th day of the 7th month.
 The Prince Imperial, clad in white garments,* discharged the
 functions of government.’
@@ -16670,8 +15361,7 @@ the Koryo walled city.”
 The Prince Imperial removed his residence to the Palace ot .
 
 
-1 Ame, heaven; mikoto, behest ; hirakasu, throw open. Wake is con-
-nected with wakaki, young. It is nearly equal to our word prince.
+1 Ame, heaven; mikoto, behest ; hirakasu, throw open. Wake is connected with wakaki, young. It is nearly equal to our word prince.
 
 2 Heavenly intelligence. 3 Jomei Tenno, 4 Kogioku Tenno.
 
@@ -16708,8 +15398,7 @@ rank, to the assistance of Pékché. He alsosent arms and grain.
 
 Another book adds here :—‘ He sent separately Ajimasa,
 Sawi no Muraji, of Lower Daisen rank, and Takutsu,
-Hada no Miyakko, of Lower Shésen rank, for the protec-
-tion of Pékché.”
+Hada no Miyakko, of Lower Shésen rank, for the protection of Pékché.”
 
 gth month. The Prince Imperial, while having his Court at
 the Palace of Nagatsu, conferred a cap of woven stuff! on
@@ -16725,11 +15414,9 @@ him, and bowing his head
 to the ground, delivered to
 him the government of the
 land, entrusting to him
-everything without excep-
-tion.
+everything without exception.
 
-12th month. Informa-
-tion was received from
+12th month. Information was received from
 Koryé that in this 12th
 month the cold in that Cloud-chariot.
 country -was so _ intense
@@ -16748,9 +15435,6 @@ Roman warfare. ;
 
 
 T -2
-
-
-276 NIHONGI.
 
 
 battering-engines. The Koryé troops were brave and stalwart,
@@ -16782,7 +15466,7 @@ became changed and formed a hole, from which there issued a
 
 
 | The two forts above mentioned.
-> i.e. helpless disgrace. To bite one’s navel is impossible.
+) i.e. helpless disgrace. To bite one’s navel is impossible.
 * King of Silla. 4 All this is most unclear.
 
 
@@ -16843,28 +15527,19 @@ Nari-kabura. See above, Vol I. p. 87.
 A measure now equal to 5°13 bushels.
 
 
-1
 * No doubt the same place as the Sonyu above mentioned.
 
 
 A.D. 662.
 
 
-XXVII.
 4.
 
 
-XXVII.
-
-
-XXVII.
 6.
 
 
 A.D. 663.
-
-
-278 NIHONGI.
 
 
 ‘remain here long, the people would starve. _We should remove
@@ -16876,8 +15551,7 @@ to Phi-syéng. Phi-syong is girt on the north and west by the
 ‘Rivers Ko-nyén and Tan-kyong, while on the south and east it
 
 
-is protected by deep mud and high’earthworks. It is encom-
-passed on all sides by rice-fields, to which the rain-water is
+is protected by deep mud and high’earthworks. It is encompassed on all sides by rice-fields, to which the rain-water is
 drawn down by cutting canals. Its produce of flowers and fruit
 is the fairest of all the three Kingdoms of Corea. A source of
 food and clothing, it is a choice situation favoured by the two
@@ -16944,8 +15618,7 @@ named Sapi and Kinokang. Phung-chhyang, King of Pékché,
 suspecting Pok-sin of harbouring treasonous intentions, bound
 him with a leathern strap passed through his palms. But he
 was unable to come to a decision of himself, and did not know
-what to do. So he inquired of his Ministers, saying :—‘‘ Pok-
-sin’s guilt has been soand so. Shall he be beheaded, or not ? ”’
+what to do. So he inquired of his Ministers, saying :—‘‘ Poksin’s guilt has been soand so. Shall he be beheaded, or not ? ”’
 Upon this, the Talsol, Tok Chip-tok, said :—‘‘ This traitor ought
 not to be let off.” Pok-sin forthwith spat upon Chip-tok and
 said :—‘* Thou worthless dog! Thou idiotic slave!’’ The King
@@ -16970,18 +15643,10 @@ command of 170 fighting ships, drew up in line of battle in the
 
 
 1 Sickle-handle. 2 A Pékché Prince. See above, XXVI. 24.
-* Dai Nippon. The first instance of the use of dai, great, in this con-
-nection,
+* Dai Nippon. The first instance of the use of dai, great, in this connection,
 
 
-XXVII.
-
-
-XXVII.
 8.
-
-
-280 NIHONGI.
 
 
 Pékchon river." The Japanese warships which first arrived
@@ -17011,9 +15676,6 @@ Chyu-yu surrender to Thang. Then the people of that
 _ country said to one another :—‘‘ Chyu-yu has fallen; there is
 
 
-XXVII.
-
-
 9.
 A.D. 664.
 
@@ -17032,8 +15694,7 @@ were informed of their intention to quit the country.
 13th day. They arrived at Ho-nyé.?
 
 24th day. The Japanese fleet, with the (Pékché) Minister
-Y6 Cha-sin, and the Talsol, Mok-so Kwi-chi, Kong-na Chin-
-syu, and Ong-nyé Pong-nyu, along with the people of the
+Y6 Cha-sin, and the Talsol, Mok-so Kwi-chi, Kong-na Chinsyu, and Ong-nyé Pong-nyu, along with the people of the
 country, arrived at the city of Ho-nyé. The next day they
 set sail, and at length bent their course towards Japan.
 
@@ -17139,11 +15800,7 @@ To the senior members of the great families long swords
 the Risshin or Kembu named above, XXV., 41.
 
 
-XXVII.
 10.
-
-
-282 NIHONGI.
 
 
 were granted, and to the senior members of lesser families
@@ -17165,9 +15822,7 @@ present a letter-box * and gifts.
 
 In this month the Oho-omi, Soga no Muraji, of Tai-shi
 rank, died.
-One book says :—‘‘ The Oho-omi died in the inter-
-
-calary fifth month.”
+One book says :—‘‘ The Oho-omi died in the intercalary fifth month.”
 
 6th month. The Empress Dowager’ Shima died.
 
@@ -17202,7 +15857,7 @@ and this Empress was really Tenchi’s grandmother, but as this term is used
 elsewhere simply as an honorary appellation, I prefer to render it by
 Empress Dowager.
 
-®> Viz. Kamatari Ko.
+®) Viz. Kamatari Ko.
 
 5 This is the same date as the last. There is something wrong here.
 
@@ -17226,15 +15881,13 @@ who from this time began to be a wealthy man.”
 In this year guards and beacon-fires were placed in the
 islands of Tsushima and Iki and in the Land of Tsukushi.
 Moreover in Tsukushi a great embankment was constructed,
-and water collected. This was called a minoki or water-
-castle.’
+and water collected. This was called a minoki or watercastle.’
 
 4th year, Spring, 2nd month, 25th day. The Empress
 Dowager Hashibito * died.
 
 In this month, after a comparison of the Pekché degrees of
-official rank, there was granted to the Kwi-sil, Chips, in con-
-sideration of the eminent services of the Minister Pok-sin,
+official rank, there was granted to the Kwi-sil, Chips, in consideration of the eminent services of the Minister Pok-sin,
 the rank of Lower Shokin. [His original rank was that of
 Talsol.*5] Moreover Pekché common people, men and women
 to the number of more than 400, were given residences in the
@@ -17251,8 +15904,7 @@ sent to build a castle in the province of Nagato.
 
 The Talsol, Ong-nyé Pong-nyu, and the Talsol, Sa-pi Pok-pu,
 
-1 A native authority quoted in the “Shikai” edition says :—“ The embank-
-ment of the water-castle in the district of Mikasa is four ken (twenty-four
+1 A native authority quoted in the “Shikai” edition says :—“ The embankment of the water-castle in the district of Mikasa is four ken (twenty-four
 feet) in height, fifteen ken in width of base, and 400 ken from east to west.
 The space within the embankment has been made into rice-fields.”
 
@@ -17265,25 +15917,19 @@ But, as Dr. Florenz points out, the proper characters are 4 AS, which in
 Corean are read Tésol.
 
 
-XXVII.
 II
 
 
 A.D. 665.
 
 
-XXVII.
 12,
 
 
 A.D. 666.
 
 
-XXVIII.
 13.
-
-
-284 NIHONGI,
 
 
 were sent to the Land of Tsukushi, where they built the two
@@ -17322,8 +15968,7 @@ By others is meant Ihashiki, Sakahibe no Muraji, of
 Shosen rank, and Harima, Kimi no Kishi, of Daiotsu rank.
 They no,doubt went to escort the Thang Envoys. —
 
-5th year, Spring, Ist month, 11th day. Koryé sent Neung-
-nu, of the Former Division,’ and others to offer tribute.
+5th year, Spring, Ist month, 11th day. Koryé sent Neungnu, of the Former Division,’ and others to offer tribute.
 
 On this day Tamna sent Prince Si-yé and others to offer
 presents.
@@ -17401,11 +16046,9 @@ a lesson for all time.”
 3rd month, r9th day. The capital was removed to Afumi.
 
 
-1 An official rank. > i.e. of priests and laymen. 7 A.D, 663.
+1 An official rank. ) i.e. of priests and laymen. 7 A.D, 663.
 4 A compass, See above, XXVI. Io. ra
-> Saimei Tenno. .  § Kotoku Tenno’s Consort.
-
-7
+) Saimei Tenno. .  § Kotoku Tenno’s Consort.
 
 
 Several of the misasagi have just outside the moat circular mounds of
@@ -17421,15 +16064,10 @@ used in burial. But I am disposed to think that the vault is intended. Not
 A.D. 667,
 
 
-XXVII.
 14.
 
 
-XXVII.
 15.
-
-
-286 NIHONGI,
 
 
 At this time the common people of the Empire did not desire
@@ -17560,9 +16198,6 @@ NOX Lite,
 17.
 
 
-288 NIHONGI.
-
-
 Imperial Princess Abe possessed the Empire, she dwelt in
 the Palace of Fujihara. She afterwards removed the capital
 to Nara.
@@ -17580,8 +16215,7 @@ Princess Yamabe.
 
 There were also four Palace women die bore (to the
 Emperor) sons and daughters. One was the daughter of
-Wotatsu, Woshiumi no Miyakko, named Shikobuko no Irat-
-sume. She had one son and two daughters. The first was
+Wotatsu, Woshiumi no Miyakko, named Shikobuko no Iratsume. She had one son and two daughters. The first was
 called the Imperial Princess Ohoye ; the second was called the
 Imperial Prince. Kahajima ; _ third was called the Imperial
 Princess Idzumi.
@@ -17600,8 +16234,7 @@ the cognomen of the Imperial Prince Ohotomo.
 Summer, 4th month, 6th day. Pékché' sent Mi-to-sa-pu
 and others to offer tribute.
 
-16th day. Mi-to-sa-pu and his companions took their de-
-parture.
+16th day. Mi-to-sa-pu and his companions took their departure.
 
 5th month, 5th day. The Emperor hunted? on the Moor of
 Kamafu. At this time the Prince Imperial, being the Emperor’s
@@ -17664,8 +16297,7 @@ for the King of Silla of a ship for. the conveyance of tribute.
 It was delivered to Tong-w6n and his companions.
 
 Winter, roth month. The Duke* of Ying, the Thang
-Commander-in-Chief, destroyed Koryé6. When King Chyung-
-mu of Koryé first established that kingdom, he wished his
+Commander-in-Chief, destroyed Koryé6. When King Chyungmu of Koryé first established that kingdom, he wished his
 government to last for a thousand years. His mother said :—
 “Tf thou governest the country well, thou mayst accomplish
 
@@ -17678,7 +16310,7 @@ province of Koshi.
 
 3 The shore of Lake Biwa. * An official rank,
 
-> His name was Li Tsi. See Mayers, p. 124.
+) His name was Li Tsi. See Mayers, p. 124.
 
 VOR, if. U
 
@@ -17687,18 +16319,13 @@ nO. 4185 F
 18.
 
 
-XXVII.
 19.
 
 
-XXVII.
 20.
 
 
 A.D. 660.
-
-
-290 NIHONGI.
 
 
 this. However, it will last for just 700 years.”' The downfall
@@ -17707,8 +16334,7 @@ existence for 700 years.
 
 r1th month, 1st day. There were presented to the King of
 Silla 50 pieces of fine silk, 500 kin of floss silk, and roo hides
-of leather. These were delivered to Tong-w6n and his com-
-panions.
+of leather. These were delivered to Tong-w6n and his companions.
 
 Presents were given to Tong-wén and his companions, the
 value of which varied in each case.
@@ -17717,8 +16343,7 @@ sth day. Maro, Chimori no Omi, of Lower Shésen rank,
 and Kishi no Woshibi were sent to Silla. On this day, Kim
 Tong-w6n and his people took their departure. }
 
-In this year the Buddhist priest Ddogid stole the Kusa-
-nagi” sword and escaped with it, making for Silla. But wind
+In this year the Buddhist priest Ddogid stole the Kusanagi” sword and escaped with it, making for Silla. But wind
 and rain so perplexed him on his way, that he came back
 again.®
 
@@ -17787,10 +16412,8 @@ it.” He answered and said :—‘‘ Thy servant has been wanting.
 
 in cleverness: what more is to be said? Only I trust that for
 my burial simple arrangements may be made. While alive I
-did no service for my country at war; why, then, should I im-
-pose a heavy burden on it when I am dead?” etc., etc. The
-wise men of that day, hearing of this, were filled with admira-
-tion, and said :—‘‘ We would humbly compare this one saying
+did no service for my country at war; why, then, should I impose a heavy burden on it when I am dead?” etc., etc. The
+wise men of that day, hearing of this, were filled with admiration, and said :—‘‘ We would humbly compare this one saying
 with the wise maxims of ancient sages: shall the General of
 the Great Tree’s* refusal of rewards be related in the same
 year with it?”
@@ -17798,8 +16421,7 @@ year with it?”
 15th day. The Emperor sent his younger brother, the
 Prince Imperial, of the Eastern Palace,’ to the house of the
 Naidaijin:Fujihara, to confer on him the cap of ‘‘ Great Woven
-Stuff” and the rank of Oho-omi.* He also granted him a sur-
-name, and made him the House of Fujihara.* From this time
+Stuff” and the rank of Oho-omi.* He also granted him a surname, and made him the House of Fujihara.* From this time
 forward he was generally known as Fujihara no Daijin.
 
 
@@ -17815,7 +16437,7 @@ spoken of by this term.
 
 * Or Daijin.
 
-> Fujihara is a town in Yamato, in the district of Takechi. The name
+) Fujihara is a town in Yamato, in the district of Takechi. The name
 is a very famous one in subsequent Japanese History, This statesman is
 better known as Kamatari Ko. See above.
 
@@ -17823,7 +16445,6 @@ better known as Kamatari Ko. See above.
 LON.
 
 
-XXVII,
 21.
 
 
@@ -17832,13 +16453,9 @@ XXVIT.
 
 
 A.D. 670.
-XXVII.
 
 
 23.
-
-
-292 NIHONGI.
 
 
 16th day. Fujihara no Naidaijin died.
@@ -17912,8 +16529,7 @@ Tsukushi.
 
 3rd month, gth day. Close to Miwi,’ on the mountain,
 Shint6 places of worship were laid out, and offerings of cloth
-distributed to them. The litany was pronounced by Naka-
-tomi no Kane no Muraji.”
+distributed to them. The litany was pronounced by Nakatomi no Kane no Muraji.”
 
 Summer, 4th month, 30th day. After midnight a fire broke
 out in Horiuji.* Not a single building was left.
@@ -17967,17 +16583,11 @@ years later, and was marked by civil disturbances, of which this was
 supposed to be an omen.
 
 
-XXVII.
-
-
 A.D. 671.
 
 
 OK NO UE
 BG.
-
-
-204 NIHONGI.
 
 
 yellow above and black beneath,’ and was about six inches in
@@ -17999,7 +16609,7 @@ rank, made an announcement of Kami matters.*
 
 On this day the Imperial Prince Ohotomo was appointed
 Dajodaijin,* Soga no Akaye no Omi was made Prime Minister
-of the Left :> Nakatomi no Kane no Muraji was made Prime
+of the Left :) Nakatomi no Kane no Muraji was made Prime
 Minister of the Right.° Soga no Hatayasu no Omi, Kose no
 Hito no Omi, and Ki no Ushi no Omi were made Daibu of
 the Censorate.’
@@ -18017,8 +16627,7 @@ might also be rendered fuse. Florenz has ‘‘ gesmiedet,” i.e. “‘ forged
 one Japanese dictionary has kitafu, which has the same meaning. But no
 such meaning is given in Giles, and as the Interlinear Kana has wakasu, “to
 melt,” I have little doubt that smelting is intended. Evidently the writer
-was familiar with the process of smelting. It is the use of a mill in con-
-nection with it that is deemed worthy of record.
+was familiar with the process of smelting. It is the use of a mill in connection with it that is deemed worthy of record.
 
 * It is not quite clear what this means—probably some kind of Shinté
 religious celebration.
@@ -18026,8 +16635,7 @@ religious celebration.
 ‘i.e. Prime Minister. The Wamidsho gives for this the Japanese phrase,
 Oho-matsuri-goto no Oho-matsu-kimi, the great lord who attends to
 matters of the great government, but it is difficult to believe that so clumsy
-an expression was ever in general use. Dajodaijin is sufficiently cumber-
-some.
+an expression was ever in general use. Dajodaijin is sufficiently cumbersome.
 
 » Sadaijin.
 
@@ -18059,8 +16667,7 @@ the (Pékché) Minister YO Cha-sin and on Sathek Syo-myéng
 - [second official of the Department of Ceremonies], the rank
 of Lower Shokin on Kwisil Chip-sa [Chief of the Department
 of Education], the rank of Lower Daisen on the Talsol
-Kong-na Chin-syu [he had a military training], Mok-so Kwi-
-cha [he had a military training], Ong-nyé Pong-nyu® [hada
+Kong-na Chin-syu [he had a military training], Mok-so Kwicha [he had a military training], Ong-nyé Pong-nyu® [hada
 military training], Tap-pon Chhyun-chho* [had a military
 training], Pon-il Pi-cha, Chhan Pha-ra, Kim-na, Kim-syu,
 [acquainted with medicine] and Kwisil Chipsin [acquainted
@@ -18084,16 +16691,11 @@ Though they grow—
 Japan.
 
 3 Apparently the same person who is called Tap Pon-chhyun above,
-XXVII. 12.
 
 4 i.e. in philosophy, divination, etc.
 
 
-XXVII.
 27.
-
-
-2096 NIHONGI.
 
 
 When strung as pearls,
@@ -18103,8 +16705,7 @@ Are strung on the same string.!
 2nd month, 2and day. Pékché sent Té-ku Yong-syén and
 others with tribute.’
 
-3rd month, 3rd day. MHonjitsu, Kibumi no Miyakko,' pre-
-sented to the Emperor a water-level.
+3rd month, 3rd day. MHonjitsu, Kibumi no Miyakko,' presented to the Emperor a water-level.
 
 17th day. The province of Hitachi presented as tribute
 Nakatomibe no Wakako. He was oné foot six inches in
@@ -18191,8 +16792,7 @@ desperate: what remains after belongs to thee,” etc., etc.
 Hereupon the Prince Imperial with repeated obeisances declined
 firmly to receive (the succession), giving ill-health as his reason.
 He said:—‘‘I pray thee let the mighty task be entrusted to
-the Empress, and let Prince Ohotomo undertake the promul-
-gation of measures of Government. It is thy servant’s request,
+the Empress, and let Prince Ohotomo undertake the promulgation of measures of Government. It is thy servant’s request,
 for the Emperor’s sake, to renounce the world and practise
 religion.””’ The Emperor gave his consent, and the Heir to
 the Throne got up and bowed repeatedly. He straightway
@@ -18204,8 +16804,7 @@ of a kesa by Sugita no Ikuiha.
 t1gth day. The Prince Imperial visited the Emperor and
 asked leave to go to Yoshino and practise the religion of
 Buddha. The Emperor granted him permission to do so.
-The Prince Imperial accordingly went to Yoshino. The Oho-
-omi and others escorted him as far as Uji, and then returned.
+The Prince Imperial accordingly went to Yoshino. The Ohoomi and others escorted him as far as Uji, and then returned.
 
 rith month, roth day. The Governor’ of the province of
 
@@ -18219,7 +16818,6 @@ ENV EL
 28.
 
 
-XXVIII.
 29.
 
 
@@ -18227,18 +16825,13 @@ XXVITI.
 30.
 
 
-298 NIHONGI.
-
-
-Tsushima sent a messenger to the Viceroy’ of Tsukushi, say-
-ing :—‘‘ On the day after the moon’s birth these four persons,
+Tsushima sent a messenger to the Viceroy’ of Tsukushi, saying :—‘‘ On the day after the moon’s birth these four persons,
 viz., the Buddhist priest Doku,? Satsuyama, Tsukushino Kimi,
 Sasa, Karashima no Suguri, and Iha, Nunoshi no Obito,
 arrived from Thang and reported that the Thang Envoys,
 Kuo Ya-ts‘ung and his suite, numbering 600 persons, escorting
 Sa-thek Son-teung and his companions, who numbered 1400
-persons, the total number being 2000, had embarked in forty-
-seven ships which came to an anchor together at the island of
+persons, the total number being 2000, had embarked in fortyseven ships which came to an anchor together at the island of
 Hijishima,® where they said to one another :—‘ The ships of
 our people are numerous, and if they suddenly arrived thither,*
 it is to be feared that their guards would be alarmed, and
@@ -18270,7 +16863,7 @@ certain ruin,” etc., etc.®
 
 1 Dazaifu. 2 Called Dobun below. One of these readings is an error.
 3 Not to be identified.
-4 i.e. in Japan. > Traiyastrims’as. V7de Eitel, p. 178.
+4 i.e. in Japan. ) Traiyastrims’as. V7de Eitel, p. 178.
 
 
 6 There is here a curious mixture of Brahmanism, Buddhism, and
@@ -18356,11 +16949,7 @@ Prince Ohotomo, who, as we shall find in the next book, was obliged to fly
 ‘from the capital, and ultimately strangled himself in despair. Makudzu in the
 
 
-XXVII.
 31.
-
-
-300 NIHONGI.
 
 
 17th day. The Sason, Kim Manmol, and his companions,
@@ -18370,8 +16959,7 @@ This year, in the house of a man of the district of Yamada,
 in the province of Sanuki, there was a chicken with four legs.
 
 Moreover, in the Imperial kitchen, there were eight pots
-which gave out a sound. Sometimes one pot sounded, some-
-times two, and sometimes three together. Sometimes all eight
+which gave out a sound. Sometimes one pot sounded, sometimes two, and sometimes three together. Sometimes all eight
 sounded together.
 
 
@@ -18379,9 +16967,7 @@ last is, perhaps, not the name of a place, but simply “true dolichos ”—the
 
 plain where the true dolichos plant grows. The nagi in No. I. is a kind of
 edible water-plant. The application of these poems to the political events.
-of the day is obscure, and I see no advantage in discussing the interpreta-
-
-tions offered by the Japanese commentators.
+of the day is obscure, and I see no advantage in discussing the interpretations offered by the Japanese commentators.
 
 
 BOOK XXVIII,
@@ -18399,19 +16985,16 @@ becoming invisible. He took to him the Imperial Princess
 Uno, daughter of the Emperor Ame mikoto hirakasu wake,’
 and made her his wife. In the first year of the Emperor Ame
 mikoto hirakasu wake, he was made Heir Apparent.* In the
-fourth year of his reign, winter, the tenth month, and the seven-
-teenth day, the Emperor took to his sick-bed. His sufferings
+fourth year of his reign, winter, the tenth month, and the seventeenth day, the Emperor took to his sick-bed. His sufferings
 were very severe. Upon this he sent Yasumaro Soga no Omi
 to fetch the. Heir Apparent, and to introduce him to the Great
 Hall. Now Yasumaro had been always a favourite of the Heir
 Apparent, and secretly taking thought for him, said :—‘* Think
 
 
-' Heaven-of-marsh-middle-plain (Nunahara is the name of a place), offing-
-of-true-man (i.e. noble). Temmu means “ Heavenly valour.”
+' Heaven-of-marsh-middle-plain (Nunahara is the name of a place), offingof-true-man (i.e. noble). Temmu means “ Heavenly valour.”
 
-This book contains the history of the civil war which resulted in establish-
-ing Temmu Tenno on the throne. It is therefore wrongly entitled the
+This book contains the history of the civil war which resulted in establishing Temmu Tenno on the throne. It is therefore wrongly entitled the
 “History of Temmu.” It should rather be called the “ History of Kobun,”
 the posthumous name by which some historians designate his predecessor,
 Prince Ohotomo.
@@ -18426,35 +17009,28 @@ with the characters for “ fisherman.”
 3 Tenchi Tenno. 4 Literally “ Eastern Palace.”
 
 
-XXVIII.
 2:
 
 
 A.D. 672.
 
 
-302 ‘ NIHONGI.
-
-
 before you speak.” Upon this the Heir Apparent suspected a
 secret plot and was cautious. When the Emperor gave him his
-commands and bestowed on him the vast undertaking,’ he de-
-clined, saying :—‘‘ Thy servant has unfortunately always had
+commands and bestowed on him the vast undertaking,’ he declined, saying :—‘‘ Thy servant has unfortunately always had
 bad health: how could he maintain the State? I beseech Your
 Majesty, bestow the entire Empire on the Empress-consort,
 and let the Imperial Prince Ohotomo be established as successor
 to the throne. I will to-day renounce the world, and it is my
 desire for Your Majesty’s sake to perform acts of merit.’”’ The
 Emperor gave his consent, and on the same day he renounced
-the world and put on the priestly garb. He accordingly col-
-lected his private weapons and deposited them every onein the
+the world and put on the priestly garb. He accordingly collected his private weapons and deposited them every onein the
 Department.
 
 1gth day. He went to the Palace of Yoshino. At this time,
 Soga no Akaye no Omi, Prime Minister of the Left, Nakatomi
 no Kane no Muraji, Prime Minister of the Right, and Soga no
-Hatayasu no Omi, the Dainagon, etc., escorted him. They re-
-turned from Uji. Some one said :—“ Give a tiger wings and let
+Hatayasu no Omi, the Dainagon, etc., escorted him. They returned from Uji. Some one said :—“ Give a tiger wings and let
 him go.”? This evening he occupied the Palace of Shima.
 
 2oth day. He arrived at Yoshino and took up his abode
@@ -18481,14 +17057,8 @@ the others. Upon this Kuo Ya-ts‘ung and his people all put on
 
 
 - 1 The succession to the throne.
-2 A Chinese saying. ‘ You will have to bear the consequences,” is under-
-
-
-stood.
+2 A Chinese saying. ‘ You will have to bear the consequences,” is understood.
 3 The previous day’s entry can only refer to his starting on the journey.
-
-
-TEMMU. 303
 
 
 mourning and raised lament for him three times, turning
@@ -18507,8 +17077,7 @@ altogether to 1673 hiki of coarse silk, 2852 tan of cloth, and
 28th day. Kory6 sent Pu Ka-pyon, of the Former Division,
 and others with tribute.
 
-30th day. Kuo Ya-ts‘ung and his people took their depar-
-ture:
+30th day. Kuo Ya-ts‘ung and his people took their departure:
 
 In this month, Wogimi, Yenowi no Muraji, addressed the
 Emperor, saying:—‘‘ Thy servant went alone to Mino on
@@ -18523,11 +17092,9 @@ dost not speedily get out of the way there may be danger.”
 Another man said to the Emperor :—‘‘ Pickets have been
 stationed at various places along the way from the Afumi
 capital to the Yamato capital. Moreover orders have been
-given to the guards of the Uji bridge to intercept the convey-
-ance of private supplies of provisions by the officers of the
+given to the guards of the Uji bridge to intercept the conveyance of private supplies of provisions by the officers of the
 Household of the Heir Apparent, the Emperor’s younger
-brother.”’* Fhe Emperor was displeased at this, and accord-
-ingly gave orders to make investigation. Having ascertained
+brother.”’* Fhe Emperor was displeased at this, and accordingly gave orders to make investigation. Having ascertained
 that it was a fact, he made order, as follows :—
 
 
@@ -18544,15 +17111,7 @@ H A =, ie. King of Japan, is used.
 4 Styled Emperor a few lines above.
 
 
-XXVIII.
-2
-
-
-XXVIII.
 Ae
-
-
-304 NIHONGI.
 
 
 ‘‘The reason why We renounced the Dignity and retired
@@ -18604,9 +17163,6 @@ the orders of the Heir Apparent,* asked Prince Takasaka for
 4 Temmu Tenno is meant. The original is literally “ Eastern Palace.”
 
 
-TEMMU. 305
-
-
 posting-bells, which were refused. Then Yesaka went to Afumi,
 and Shima returned and reported to the Emperor, saying :—
 “We did not get the bells.”’
@@ -18638,8 +17194,7 @@ Muraji, at their head. These were all summoned to follow the
 Imperial carriage. Moreover, Prince Mino was called. He
 forthwith came and joined the Emperor’s suite. At the Town
 Hall of the district of Uda they were met by fifty pack-horses
-of the province of Ise which were carrying the rice of the hot-
-baths. All the rice was thrown away, and thus mounts were
+of the province of Ise which were carrying the rice of the hotbaths. All the rice was thrown away, and thus mounts were
 provided for those who were going afoot. When they reached
 Ohono, the sun went down, the mountains were dark, and
 they were unable to proceed. Accordingly they pulled down
@@ -18653,15 +17208,10 @@ to the people of that village, saying :—‘‘ The Emperor is on his
 VOL. II. x
 
 
-XXVIII.
 5.
 
 
-XXVIII.
 O;
-
-
-306. NIHONGI.
 
 
 way to the East Country. Therefore let all the people flock to
@@ -18674,19 +17224,15 @@ the Emperor wondering at this, forthwith kindled a light, and
 ’ holding in his own hand the Rule,’ divined, saying :—‘“‘ This is
 
 
-XXVIII.
 IEE
 
 
-XXVIII.
 8.
 
 
-an omen of the division of the Empire into two parts. How-
-ever, in the end We shall probably acquire the Empire. So
+an omen of the division of the Empire into two parts. However, in the end We shall probably acquire the Empire. So
 they hastened onwards and arrived at the district of Iga, where
-they set fire to the posting-station. Going round to Naka-
-yama in Iga, they were joined by the district governors of that
+they set fire to the posting-station. Going round to Nakayama in Iga, they were joined by the district governors of that
 province in command of a body of several hundred men. At
 dawn they reached the plain of Tara, where a short halt was
 made and food partaken of. On arriving at Yamaguchi’ in
@@ -18705,10 +17251,8 @@ despatched to block the road over the mountain of Suzuka.
 When they arrived at the foot of the Hill of Kahawa the sun
 went down, and as the Empress-consort was fatigued, her
 palanquin was stayed for a while until she rested. But the
-night closed in gloomily, and it threatened rain, so that a pro-
-longed halt was impossible, and they proceeded on their way.
-Hereupon it became cold, and there was a violent thunder-
-storm, with rain, so that the clothing of those in the Emperor’s
+night closed in gloomily, and it threatened rain, so that a prolonged halt was impossible, and they proceeded on their way.
+Hereupon it became cold, and there was a violent thunderstorm, with rain, so that the clothing of those in the Emperor’s
 train was drenched and they could not bear the cold. When
 they arrived at the Town Hall of the district of Mihe, they set
 
@@ -18720,14 +17264,10 @@ represent Heaven and square below to represent the Earth.
 probably meant. The hot baths above, pp. 304 and 305, are no doubt similar.
 
 
-TEMMU. 307
-
-
 fire to one of the buildings and so warmed the shivering men.
 That night, at midnight, the Warden of the Barrier of Suzuka
 sent a messenger to the Emperor to inform him that Prince
-Yamabe and Prince Ishikaha had come to proffer their alle-
-giance, and that he had therefore kept them at the Barrier.
+Yamabe and Prince Ishikaha had come to proffer their allegiance, and that he had therefore kept them at the Barrier.
 The Emperor accordingly sent Masubito, Michi no Atahe, to
 fetch them.
 
@@ -18761,8 +17301,7 @@ At this time the Afumi Court heard that the Prince
 Imperial, the (late) Emperor’s younger. brother, had gone to
 the East Country. All the Ministers were alarmed, and the
 capital was in commotion. Some made their escape, with the
-intention of proceeding to the East Country, and others with-
-drew in order to conceal themselves in the mountains and
+intention of proceeding to the East Country, and others withdrew in order to conceal themselves in the mountains and
 
 * The Sun Goddess, whose chief temple was, and is, in the southern part
 of the province of Ise.
@@ -18770,15 +17309,10 @@ of the province of Ise.
 x2
 
 
-XXVIII.
 9.
 
 
-XXVIII.
 Io.
-
-
-308 NIHONGI.
 
 
 marshes. Upon this, the Imperial Prince Ohotomo addressed
@@ -18828,9 +17362,6 @@ about to rush forward. But he feared lest on the contrary he
 ! This name means rock or stone mattock. % Lit. tally.
 
 
-TEMMU. 309
-
-
 might himself see destruction, and being therefore unable to
 accomplish his purpose, went away empty.
 
@@ -18867,8 +17398,7 @@ nearer place should be occupied.” That same day the
 Emperor proceeded to Fuha, leaving the Empress-consort
 behind. By the time he reached the Town Hall, Sabichi,
 Chihisakobe no Muraji, Governor of the province of Wohari,
-joined him with a force of 20,000 men. The Emperor forth-
-with commended him. These troops were divided, and beset
+joined him with a force of 20,000 men. The Emperor forthwith commended him. These troops were divided, and beset
 the roads to various places. When he arrived at Nogami, the
 Imperial Prince Takechi came to meet him from Wasami, and
 forthwith addressed the Emperor, saying:—‘‘ Last night
@@ -18880,11 +17410,7 @@ belonged to the suite of Ihasuki, Wina no Kimi, who was
 sent on behalf of the Prince Imperial, the Emperor’s younger
 
 
-XXVIII.
 II.
-
-
-310 NIHONGI.
 
 
 brother, resident at Yoshino, to mobilize the army of the East
@@ -18892,8 +17418,7 @@ Country. Ihasuki, however, seeing the troops burst out, had
 run away back again. .
 
 After this the Emperor addressed the Imperial Prince
-Takechi, saying :—‘‘ At the Court of Afumi there are the Oho-
-omi of the Right and Left, and a body of shrewd Ministers,
+Takechi, saying :—‘‘ At the Court of Afumi there are the Ohoomi of the Right and Left, and a body of shrewd Ministers,
 with whom to conclude counsel. Now We have no one to
 advise with except young children. Whatistobedone?’ The
 Imperial Prince having bared his arms and grasped his sword,
@@ -18925,21 +17450,13 @@ commands to the troops through the Imperial Prince Takechi.
 The Emperor then went back again to Nogami, and abode
 there.
 
-On this day Wofukehi, Ohotomo no Muraji, had secret con-
-ference with Kumage, Sakanohe no Atahe, the officer in charge
+On this day Wofukehi, Ohotomo no Muraji, had secret conference with Kumage, Sakanohe no Atahe, the officer in charge
 during absence.’ Addressing himself to one or two of the Aya
 no Atahe, he said:—‘‘I shall pretend that Iam the Imperial
 
 
-XXVIII.
-12
-
-
 ‘In charge of the Palace of Okamoto during the Emperor’s absence,
 along with Prince Takazaka.
-
-
-TEMMU. 311
 
 
 Prince Takechi, and at the head of some tens of cavalry
@@ -18974,11 +17491,9 @@ that he died. Then Ihoye, Hodzumi no Omi, and Hiuga,
 Mononobe no Obito, were bound, but presently released and
 placed amongst the troops. Prince Takazaka and Prince
 Wakasa were sent for and made to follow the army. When
-this was done, Yasumaro, Ohotomo no Muraji, Woyu, Saka-
-nohe no Atahe, Sukunamaro, Sami no Kimi, and others were
+this was done, Yasumaro, Ohotomo no Muraji, Woyu, Sakanohe no Atahe, Sukunamaro, Sami no Kimi, and others were
 sent to the Palace of Fuha to report to the Emperor what had
-taken place. The Emperor was greatly rejoiced, and accord-
-ingly appointed Wofukehi general.
+taken place. The Emperor was greatly rejoiced, and accordingly appointed Wofukehi general.
 
 At this time Takechimaro, Miwa no Kimi, Yemishi, Kamo
 
@@ -18987,22 +17502,16 @@ At this time Takechimaro, Miwa no Kimi, Yemishi, Kamo
 remembered that Kudara is Japanese for Pékché, the Corean kingdom,
 
 
-XXVIII.
 13.
 
 
-XXVIII.
 14.
-
-
-412 NIHONGI.
 
 
 no Kimi, and others, together with a body of valiant men, all
 joined the general’s standard like an echo.’ A plan was
 drawn up for invading Afumi, and the bravest among the
-troops were selected and made lieutenants, generals, and-
-judges.” First of all they marched towards Nara.
+troops were selected and made lieutenants, generals, andjudges.” First of all they marched towards Nara.
 
 Autumn, 7th month, 2nd day. The Emperor sent Abemaro,
 Kino Omi, Honji, Oho no Omi, Ko-ddo,*? Miwa no Kimi, and
@@ -19022,8 +17531,7 @@ sent with instructions to guard the road to Kurafu.
 ew Now Afumi* ordered Prince Yamabe, Hatayasu, Soga no
 
 a Omi, and Hito, Kose no Omi, to take command of several tens
-of thousands of men and proceed to attack Fuha. They en-
-camped on the bank of the River Inugami.’ Here Prince
+of thousands of men and proceed to attack Fuha. They encamped on the bank of the River Inugami.’ Here Prince
 Yamabe was killed by Hatayasu, Soga no Omi, and Hito,
 Kose no Omi. The troubles which ensued prevented the army
 from advancing, and Hatayasu, Soga no Omi, returned from
@@ -19053,8 +17561,7 @@ TEMMU. oS
 3rd day. General Wofukehi encamped on the top of Mount
 Narayama. Now Akamaro, Aredawo no Atahe, addressed the
 general, saying :—‘“‘ The old capital is our headquarters. Let
-it be well guarded.” The general took this advice and accord-
-ingly sent Akamaro and Kobito, Imbe no Obito, to guard the
+it be well guarded.” The general took this advice and accordingly sent Akamaro and Kobito, Imbe no Obito, to guard the
 ancient capital.’ Upon this, Akamaro and the others went to
 the ancient capital. They removed the planks of the bridges
 on the roads and made of them breastworks, which they set up
@@ -19066,14 +17573,12 @@ Ohono no Kimi, the Afumi general, at Mount Narayama. He
 was defeated by Hatayasu, and his men all ran away. General
 Wofukehi barely escaped with his life. Thereupon Hatayasu
 pursued him as far as Yada, where he went up and viewed the
-capital, but as there were breastworks set up on all the high-
-ways, he suspected an ambush, and by degrees withdrew and
+capital, but as there were breastworks set up on all the highways, he suspected an ambush, and by degrees withdrew and
 retreated.
 
 5th day. Tanabe no Wosumi, a lieutenant-general of the
 Afumi party, crossed Mount Kafuka and marched to Kurafu
-with their flags rolled up and dragging’ their drums. At mid-
-night, with gags in the soldiers’ mouths,’ they broke through
+with their flags rolled up and dragging’ their drums. At midnight, with gags in the soldiers’ mouths,’ they broke through
 the fortifications and suddenly entered the encampment.
 Accordingly, fearing that it might be difficult to distinguish
 between his own men and those of Tarumaro, he gave each of
@@ -19086,8 +17591,7 @@ noted the watchword, and he alone, by saying ‘‘ Kane,” effected
 his escape with difficulty.
 
 6th day. Wosumi again advanced in order to attack the
-encampment on the plain of Tara. He arrived there unex-
-pectedly. Hereupon General Honji, Oho no Omi, intercepted
+encampment on the plain of Tara. He arrived there unexpectedly. Hereupon General Honji, Oho no Omi, intercepted
 
 
 1 Saimei Tenno’s Palace of Okamoto, frequently referred to above.
@@ -19100,20 +17604,14 @@ wood, fastened like a bit, to prevent talking in the ranks.”—Giles.
 4 Kane, metal.
 
 
-XXVIII.
 16.
 
 
-XXVIII.
 17.
 
 
-314 NIHONGI.
-
-
 him, and pursuing him with picked troops, smote him. Wosumi
-alone made his escape and fled. He never came again after-
-wards.
+alone made his escape and fled. He never came again afterwards.
 
 7th day. Woyori and his men fought with the Afumi troops
 at the River Yokugaha in Okinaga and defeated them, killing
@@ -19134,8 +17632,7 @@ Usagi, Okizome no Muraji, at the head of more than one
 thousand cavalry in haste to the Yamato capital.
 
 13th day. Woyori and his men fought a battle on the banks
-of the River Yasukaha, and suffered a great defeat. Oho-
-guchi, Kosobe no Omi, and Chishima, Hashi no Muraji, were
+of the River Yasukaha, and suffered a great defeat. Ohoguchi, Kosobe no Omi, and Chishima, Hashi no Muraji, were
 taken prisoners. :
 
 17th day. The Kurimoto army was attacked and repulsed.
@@ -19189,8 +17686,7 @@ followed him.
 
 Before this time General Wofukehi marched towards Nara.
 On the day that he reached Hiyeda, he was told by a man
-that a numerous force was coming from Kahachi. He accord-
-ingly sent Takara, Sakamoto no Omi, Masumi, Nagawo no
+that a numerous force was coming from Kahachi. He accordingly sent Takara, Sakamoto no Omi, Masumi, Nagawo no
 Atahe, Maro, Kuragaki no Atahe, Woshibi, Tami no Atahe,
 and Nemaro, Hasama no Atahe, at the head of 300 soldiers,
 to take up a defensive position at Tatsuta. Moreover, he sent
@@ -19219,15 +17715,10 @@ FOR VADUE
 18.
 
 
-XXVIII.
 19.
 
 
-XXVIII.
 20,
-
-
-316 NIHONGI.
 
 
 and his colleagues descended from the Castle of Takayasu, and,
@@ -19252,8 +17743,7 @@ broke up their camp and retreated.
 On this day General Wofukehi was defeated by the Afumi
 troops and fled with only one or two mounted men. Coming
 to Sumizaka, he chanced to fallin with Usagi’s division, which
-then came up. So he turned again and encamped at Kanatsu-
-nawi, where he rallied his dispersed troops. Thereupon, he
+then came up. So he turned again and encamped at Kanatsunawi, where he rallied his dispersed troops. Thereupon, he
 heard that the Afumi army was coming by the Ohosaka road,
 and, leading his troops westward as far as Chimata in Tahema,
 gave battle to Karakuni, Iki no Fubito, by the pond of Ashi-ike.'
@@ -19263,8 +17753,7 @@ The cavalry advanced close upon his heels, and so the Afumi
 troops all took to flight. They were pursued, and a very large
 number slain. Upon this, the general gave orders to his army,
 saying :—‘‘ This war was originally undertaken, not with the
-object of killing the common people, but against the ring-
-leaders. Therefore let there be no indiscriminate slaughter.”
+object of killing the common people, but against the ringleaders. Therefore let there be no indiscriminate slaughter.”
 Upon this, Karakuni got separated from his army and fled
 alone. The general saw him from a distance, and made Kume
 shoot an arrow at him, but he missed, and Karakuni succeeded
@@ -19294,16 +17783,11 @@ Miyakko, with 200 picked soldiers to attack the general’s
 camp. At this time the troops under his standard were
 but few, and could offer no resistance. Now there was a
 slave of the Temple of Ohowidera, named Tokumaro, who,
-with four others, followed the army. Tokumaro and his com-
-panions, forming an advanced guard, went forward and shot
+with four others, followed the army. Tokumaro and his companions, forming an advanced guard, went forward and shot
 their arrows, so that Kujira’s army was unable to advance.
 
-On this day Takechimaro, Miwa no Kimi, and Usagi, Oki-
-zome no Muraji, who were stationed on the Upper road, fought
-with the Afumi army at the Hashi Misasagi, and greatly de-
-
-
-feated them. Following up their victory, they also cut off the -
+On this day Takechimaro, Miwa no Kimi, and Usagi, Okizome no Muraji, who were stationed on the Upper road, fought
+with the Afumi army at the Hashi Misasagi, and greatly defeated them. Following up their victory, they also cut off the -
 
 
 retreat of Kujira’s army, upon which Kujira’s men all broke
@@ -19316,9 +17800,7 @@ him and shoot him.” Upon this the brave soldier of Kahi
 hurried in pursuit and came up to Kujira. Kujira whipped his
 horse vigorously, and it succeeded in extricating itself and
 getting out of the mud. Then he galloped off and made his
-escape. The general went back again a second time to head-
-quarters, and encamped his men there. From this time for-
-ward the Afumi troops never came again.
+escape. The general went back again a second time to headquarters, and encamped his men there. From this time forward the Afumi troops never came again.
 
 Before this time, when the army was at Kanatsunawi.,
 Kome, Takechi no Agata-nushi,? Governor of the district of
@@ -19335,7 +17817,6 @@ Takechi” (in Yamato). -
 mplied by his ancestral title.
 
 
-XXVIII.
 Zits
 
 
@@ -19343,9 +17824,6 @@ XXVITI.
 
 
 22.
-
-
-318 NIHONGI.
 
 
 and he said:—‘‘I am the God who dwells in the Shrine of
@@ -19426,18 +17904,15 @@ Imperial Prince Ohotomo.
 
 8th month, 25th day. The Imperial Prince Takechi was
 commanded to announce the verdicts on the Afumi Ministers.
-Eight who were found guilty of heinous offences were con-
-demned to suffer the extreme penalty. The Udaijin Kane,
+Eight who were found guilty of heinous offences were condemned to suffer the extreme penalty. The Udaijin Kane,
 Nakatomi no Muraji, was accordingly executed at Tane in
 Asawi.* On this day the Sadaijin, Akaye, Soga no Omi, the
-Dainagon, Hito, Kose no Omi, and their children and grand-
-children, with the children of Kane, Nakatomi no. Muraji, and
+Dainagon, Hito, Kose no Omi, and their children and grandchildren, with the children of Kane, Nakatomi no. Muraji, and
 of Hatayasu, Soga no Omi, were all sent into banishment.
 The others without exception were pardoned.
 
 Before this time, Sabichi, Chihisakobe no Muraji, Governor
-of the province of Wohari, hid in the mountains and commit-
-ted suicide. The Emperor said:—‘‘Sabichi did good service.
+of the province of Wohari, hid in the mountains and committed suicide. The Emperor said:—‘‘Sabichi did good service.
 Why should he have committed suicide, not being guilty of
 any crime? Could he have been conspiring secretly?”  ~
 
@@ -19466,9 +17941,6 @@ RRVL
 
 XXVITI.
 24.
-
-
-320 NIHONGI.
 
 
 toth day. It stayed the night at Abe.
@@ -19528,8 +18000,7 @@ Prince Ohotsu. His next consort was the Imperial Princess
 Ohoye.* She gave birth to the Imperial Prince Naga, and
 the Imperial Prince Yuge. His next consort, the Imperial
 Princess Nittabe,’ gave birth to the Imperial Prince Toneri.
-Moreover the Lady Higami no Iratsume, daughter of the Oho-
-omi, Fujihara, bore to him the Imperial Princess Tajima.
+Moreover the Lady Higami no Iratsume, daughter of the Ohoomi, Fujihara, bore to him the Imperial Princess Tajima.
 Another lady, named Ihohe no Iratsume, younger sister of
 Higami no lIratsume, bore to him the Imperial Prince
 Nittabe. Next the lady® Ohonu no Iratsume, daughter of the
@@ -19553,9 +18024,6 @@ VOls. Tb AZ
 
 
 A.D. 673.
-
-
-XXIX. 2.
 
 
 MOI, gi
@@ -19582,8 +18050,7 @@ rendered good service, varying according to circumstances.
 
 3rd month, 17th day. The Governor of the province of Bingo
 caught a white pheasant in the district of Kameshi and sent it
-as tribute. Accordingly the forced labour due from that dis-
-trict was entirely remitted, and a general amnesty granted
+as tribute. Accordingly the forced labour due from that district was entirely remitted, and a general amnesty granted
 throughout the Empire. .
 
 In this month scribes were brought together who began to
@@ -19620,8 +18087,7 @@ TEMMU. aga
 
 
 capacities. Moreover, let the waiting-women who offer their
-services be received freely, without respect of married and un-
-married, or of old and young. In selecting them for particular
+services be received freely, without respect of married and unmarried, or of old and young. In selecting them for particular
 duties let the rules of the (female) palace officials be followed.”
 
 29th day. Sakamoto no Takara no Omi, of the Upper
@@ -19654,8 +18120,7 @@ Tsukushi, and received presents varying in the case of each.
 They straightway returned to their country from Tsukushi.
 
 Autumn, 8th month, gth day. The Emperor made an order
-setting forth the good services rendered during the year Midzu-
-noye Saru by Abemaro, Ki no Omi, and others, while stationed
+setting forth the good services rendered during the year Midzunoye Saru by Abemaro, Ki no Omi, and others, while stationed
 in the province of Iga, and publicly conferred on them favour
 and rewards.
 
@@ -19673,15 +18138,6 @@ natives of Quelpaert at this time spoke a Japanese dialect? Prince Tora
 is mentioned below, XXIX. 18.
 
 oa
-
-
-XXIX. 4.
-
-
-XXIX.
-
-
-324 NIHONGI.
 
 
 20th day. Koryé sent the Té-hyéng Han-cha, Witu’ of the
@@ -19740,9 +18196,6 @@ on the King not being mentioned. Cha-phyéng was a Pékché rank.
 4 Or Ohokuni. ® Ohonihe.
 
 
-TEMMU. 325
-
-
 Harima and Tamba,' and also to the labourers under them. A
 grade of cap-rank was accordingly conferred on each of the
 district governors. .
@@ -19750,8 +18203,7 @@ district governors. .
 17th day. Prince Mino, of Shdshi rank, and Katamaro, Ki
 no Omi, of Lower Shokin rank, were appointed Commissioners
 for the erection of the great Temple of Takechi [now Ohomiya
-no Ohodera]. Now Fukurin, the priest appointed as super-
-intendent, declined this office on account of age, but he was
+no Ohodera]. Now Fukurin, the priest appointed as superintendent, declined this office on account of age, but he was
 not allowed to refuse.
 
 27th day. The Buddhist Priest Gisei was made Junior
@@ -19761,8 +18213,7 @@ having four clerks first began.
 
 This year was the year Midzunoto Tori (roth) of the Cycle.
 
-3rd year, Spring, Ist month, roth day. Prince Chhyang-
-syOng of Pékché died. He was granted the rank of Outer
+3rd year, Spring, Ist month, roth day. Prince ChhyangsyOng of Pékché died. He was granted the rank of Outer
 Shoshi.*
 
 2nd month, 28th day. Abemaro, Ki no Omi, died. The
@@ -19779,16 +18230,14 @@ produced in Japan. Offerings were therefore made of it to all
 the Gods of Heaven and Earth, and presents of it were likewise
 given to the Daibu, etc., of the rank of Shokin and above.
 
-Autumn, 8th month, 3rd day. The Imperial Prince Wosa-
-kabe was sent to the shrine of Isonokami to brighten up the
+Autumn, 8th month, 3rd day. The Imperial Prince Wosakabe was sent to the shrine of Isonokami to brighten up the
 Divine precious things with oil. On the same day, the
 Emperor decreed, saying :—‘‘Let all the precious things
 originally deposited in the Sacred Treasuries by the various
 Houses be returned to their descendants.”
 
 
-! Whence the rice for the ceremony was provided. See Florenz’s instruc-
-tive note on this passage.
+! Whence the rice for the ceremony was provided. See Florenz’s instructive note on this passage.
 
 2 Vide supra, p. 153-
 
@@ -19799,20 +18248,13 @@ His father took refuge in Japan on the downfall of the dynasty.
 A.D. 674.
 
 
-XXIX. 6.
-
-
 A.D. 675.
 
 
 XXX, 7.
 
 
-326 NIHONGI.
-
-
-Winter, roth month, 9th day. The Imperial Princess Oho-
-ki left the Abstinence-palace of Hatsuse and proceeded to the
+Winter, roth month, 9th day. The Imperial Princess Ohoki left the Abstinence-palace of Hatsuse and proceeded to the
 shrine of Ise.*
 
 4th year, Spring, rst month, 1st day. The various students
@@ -19872,30 +18314,24 @@ from this.
 8 The word used includes jugglers, acrobats, e¢ hoc genus omne.
 
 
-TEMMU. 327
-
-
 13th day. The Imperial Princess Towochi' and the
 Imperial Princess Abe’ proceeded to the shrine of Ise.
 
 15th day. The Emperor decreed, saying :—“ Let the serfs
-granted to the various Uji in the year Kinoye Ne® be hence-
-forward done away with. Moreover, let the mountains,
+granted to the various Uji in the year Kinoye Ne® be henceforward done away with. Moreover, let the mountains,
 marshes, islands, bays, woods, plains, and artificial ponds
 granted to Princes of the Blood,‘ to Princes and to Ministers
 and Temples,* be all done away with from first to last.”
 
 1gth day. The Emperor issued an edict as follows :—‘‘ Ye
 Ministers, functionaries, and people of the Empire, avoid the
-commission of offences of all kinds. Ifthere be any who dis-
-obey this, they shall be punished according to circumstances.”
+commission of offences of all kinds. Ifthere be any who disobey this, they shall be punished according to circumstances.”
 
 23rd day. The Emperor proceeded to the Castle of
 Takayasu.
 
 In this month Silla sent Prince Chhyung-won, the Té-kam
-Keup-son® Kim Chhaso,’ the Té-kam Nama Kim Thyon-
-chhyung, the Tyé-karh Té-ma, Pak Muma, and the Tyé-kam
+Keup-son® Kim Chhaso,’ the Té-kam Nama Kim Thyonchhyung, the Tyé-karh Té-ma, Pak Muma, and the Tyé-kam
 Té-sya, Kim Naksyu, to offer tribute. Their Escort-Envoys,
 the Nama, Kim Phungna, and the Nama, Kim Hyopok, escorted
 Prince Chhyung-won as far as Tsukushi.
@@ -19935,16 +18371,7 @@ presented the sword at the bidding of the god.
 ® Vice-minister.
 
 
-XXIX 8.
-
-
 RXIX. 9.
-
-
-XXIX, 10.
-
-
-328 NIHONGI.
 
 
 In this month Koryé sent the Te-hyéng' Pok-kan, the Té-
@@ -19999,9 +18426,6 @@ proper name was Waka-uka-hime, i.e. the young-food-lady. For a full
 account of this service see Satow’s “Ancient Japanese Rituals,” in the
 “T.A.S.J.,” Vol. VII. p. 412. It will be observed that neither Buddhist
 nor Shinto worship was neglected by this Emperor.
-
-
-Temmu. 329
 
 
 set fish-traps, closing the space.’ Further, let no one eat the
@@ -20073,9 +18497,6 @@ A.D. 676.
 OOD Te
 
 
-330 NIHONGI.
-
-
 and Kory6, were entertained in Tsukushi, and given presents
 which varied in each case.
 
@@ -20102,8 +18523,7 @@ children.*
 t1th month, 3rd day. A certain man ascended the hill east
 of the Palace, and having uttered words of evil omen,‘ cut his
 throat and died. Those who were on duty on that night
-received everyone a step in rank. There was a great earth-
-quake in this month.
+received everyone a step in rank. There was a great earthquake in this month.
 
 5th year, Spring, 1st month, rst day. The Ministers and
 public functionaries paid their respects at Court.
@@ -20141,9 +18561,6 @@ multiplicity of children.
 Pee
 
 
-TEMMU. 331
-
-
 16th day. Prizes were offered for archery in the Court of
 the Western Gate. Those who hit the target received prizes
 of values which varied according to circumstances.
@@ -20178,8 +18595,7 @@ changed into a cock.’
 Ministers, saying :—‘‘ Let those who are in receipt of taxes
 from fiefs cease to receive them from the Western provinces,
 and let them be granted revenues from the Eastern provinces
-in exchange. Moreover, let all persons from the outer* pro-
-vinces who wish to enter our service be permitted to do so,
+in exchange. Moreover, let all persons from the outer* provinces who wish to enter our service be permitted to do so,
 whether they be the sons of Omi, Muraji, Tomo no Miyakko,
 or even the sons of Kuni no Miyakko. Further, let men of
 distinguished ability be allowed to do so, even though
@@ -20197,9 +18613,6 @@ Abemaro, Ki no Omi, resident in the district of Toki, be
 and Corean history.
 
 * All except the Gokinai or Home provinces.
-
-
-XXIX. 13.
 
 
 Sexi 17.
@@ -20262,9 +18675,6 @@ month, for more distant provinces before the end of the 12th month.
 4A i.
 
 
-TEMMU. 323
-
-
 In the course of this month, Woyori, Murakuni no Muraji,
 died. . In consideration of the services rendered by him in the
 campaign of the year Midzunoye Saru, he received the
@@ -20289,8 +18699,7 @@ one sheaf of rice in the ear. Further, let each house provide a
 bundle of hemp.’’?
 
 17th day. The Emperor issued a decree, saying :—‘‘ Let all
-sentences of death, confiscation, or the three classes of banish-
-ment be mitigated one degree.’ As for crimes punishable by
+sentences of death, confiscation, or the three classes of banishment be mitigated one degree.’ As for crimes punishable by
 removal to another part of the same province or lesser offences,
 let them all be pardoned whether they have been detected or
 not.
@@ -20323,9 +18732,6 @@ offices. This practice is still followed in Corea.
 X XIX. 15.
 
 
-334 NIHONGI.
-
-
 On this day the Emperor commanded the various provinces
 to let loose living things.’
 
@@ -20348,8 +18754,7 @@ Tsukushi, was guilty of an offence, and was banished to Tosa.
 13th day. Presents were made to the public functionaries
 and to men of the frontier states, varying in the case of each.
 
-2tst day. The Department of the Shinto religion repre-
-sented to the Emperor as follows :—‘‘ We have ascertained by
+2tst day. The Department of the Shinto religion represented to the Emperor as follows :—‘‘ We have ascertained by
 divination the provinces and districts which are to supply the
 rice for the festival of the first-fruits. There respond to the
 divination the district of Yamada, in the province of Wohari,
@@ -20360,8 +18765,7 @@ In the course of this month Ikadzuchi,* Sakata no Kimi, died.
 In view of his services during the year Midzunoye Saru he was
 granted the posthumous rank of Daishi.
 
-Winter, roth month, rst day. The Ministers were enter-
-tained at a wine-feast.
+Winter, roth month, rst day. The Ministers were entertained at a wine-feast.
 
 1 A Buddhist practice. At the present day beggars may be seen at the
 gates of Buddhist temples with vessels containing small lampreys or cages
@@ -20373,20 +18777,13 @@ seems to have been different. There are notices of Japanese Emperors
 “viewing the announcement of the new month from a balcony,” etc.
 
 3 Yuki means “ceremonially pure,” and sugi means “next.” These terms
-are applied to two qualities of rice used for this festival. Various explana-
-tions are given. One is that the yuki was for sacrifice to the Gods of
+are applied to two qualities of rice used for this festival. Various explanations are given. One is that the yuki was for sacrifice to the Gods of
 Heaven, the sugi for the Gods of Earth. Yuki is etymologically connected
-with imi, religious abstinence. The divination was by burning a tortoise-
-
-
-shell.
+with imi, religious abstinence. The divination was by burning a tortoiseshell.
 4 Thunder or thunder-bolt.
 
 
 ¥
-
-
-TEMMU. 335
 
 
 3rd day. Offerings of cloth were made to all the Ahimbe
@@ -20400,8 +18797,7 @@ Yamashiro no Atahe, of Middle Dai-otsu rank, as Junior Envoy.
 ceremony of announcing the first day of the month was omitted.
 
 3rd day. Silla sent Kim Chhyéng-phyong, of Sason rank, to
-request governance.” At the same time, Kim Hoyu, of Keup-
-son rank, the Tyé-kam, Kim Heum-kil, of Té-sya rank, and
+request governance.” At the same time, Kim Hoyu, of Keupson rank, the Tyé-kam, Kim Heum-kil, of Té-sya rank, and
 others were sent to offer tribute. The Escort-Envoy Phi
 Chinna, of Nama rank, and his associate Hopok, of Nama
 rank, escorted Chhyéng-phyong and the others to Tsukushi.
@@ -20412,12 +18808,10 @@ Chhyéng-phyong and his colleagues. .
 tgth day. The Emperor gave orders to the provinces near
 the capital to release living things.’
 
-20th day. Men were sent to all parts to expound the Kon-
-kwo-myo Sutra and the Nin-6 Sutra.
+20th day. Men were sent to all parts to expound the Konkwo-myo Sutra and the Nin-6 Sutra.
 
 23rd day. Koryé sent Ha-u, Chyupu® of the After Division,
-as Chief Envoy, and Tok-pok, Te-kyong of the Former Divi-
-sion, as Associate Envoy, to offer tribute. Therefore Silla
+as Chief Envoy, and Tok-pok, Te-kyong of the Former Division, as Associate Envoy, to offer tribute. Therefore Silla
 sent Kim Yang-won, of Te Nama rank, to escort the Kory6
 Envoys to Tsukushi.
 
@@ -20445,20 +18839,11 @@ _ to the Kami. This ceremony was more particularly associatedjwith certain
 
 deities, which were therefore termed the Ahimbe deities.
 2 To ask advice on matters of government (?).
-*Manehus, + 4 See above, XXIX. 15. > Name of office.
-
-
-XXIX. 16.
+*Manehus, + 4 See above, XXIX. 15. ) Name of office.
 
 
 A.D. 677.
 ».@.9 Bo Fe
-
-
-XXIX. 18.
-
-
-336 NIHONGI.
 
 
 In this month an entertainment was given to men of
@@ -20518,9 +18903,6 @@ such a connection.
 ’ Shinto priests. ‘ Suiko Tenno.
 
 
-TEMMU. 369
-
-
 business to take measures against you. Now in this Our reign
 you deserve to be called to an account for your misconduct,
 and to receive condign punishment. We are very reluctant,
@@ -20544,8 +18926,7 @@ They therefore took part in this great feast.
 
 27th day. Kim Chhyong-phyéng returned to his own
 country. Accordingly Pak Cha-pha and the other who had been
-driven by stress of weather to Japan were delivered to Chhyong-
-phyong and the rest, and sent back to their native land.
+driven by stress of weather to Japan were delivered to Chhyongphyong and the rest, and sent back to their native land.
 
 28th day. Tamna sent Prince Tora with tribute.
 
@@ -20579,16 +18960,7 @@ See above, Vol. I. p. 116, note.
 VOL. II. v4
 
 
-XXIX., 19.
-
-
 A:D. 678.
-
-
-XXIX. 20.
-
-
-338 NIHONGI.
 
 
 each according to his rank. Moreover the person who specially
@@ -20627,8 +18999,7 @@ Summer, 4th month, 1st day. The Emperor wished to
 proceed to the Abstinence-palace, and held divination for this
 purpose. The response fell upon the 7th day. Accordingly,
 at the hour of sunrise the officers whose business it was to
-clear the road having already started, and the public function-
-aries being formed in line of procession, the Emperor took his
+clear the road having already started, and the public functionaries being formed in line of procession, the Emperor took his
 seat in his palanquin, and ordered his canopy, but had not yet
 set out, when the Imperial Princess Towochi suddenly took ill,
 and died within the Palace. For this reason the cortege was
@@ -20645,9 +19016,6 @@ to raise lament for her.
 
 Autumn, gth month. Yoshimaro, Oshinomi no Miyakko,
 presented to the Emperor five auspicious stalks of rice. Each
-
-
-TEMMU. 339
 
 
 stalk had branches. In consequence, all sentences from that
@@ -20670,8 +19038,7 @@ duties with zeal and respect, and let them determine accord-
 | ingly the promotion they should receive. Not later than the
 | first decade of the first month they should forward a full report
 | to the judge Thereupon the judge, having compared and XXIX. 21
-decided, shall submit (his recommendation) to the Daiben-
-kwan.* However, when officers are ordered to go on missions
+decided, shall submit (his recommendation) to the Daibenkwan.* However, when officers are ordered to go on missions
 of a public nature and refuse for trifling reasons—not genuine
 
 
@@ -20697,19 +19064,13 @@ history. Kanro, or sweet-dew, is the Chinese translation of the Sanskrit
 Amrita, the ambrosial food of the Immortals. 3 Ho-kwan, 2; B.
 4 Benkwan. The executive department of the supreme Council of State
 or Dajokwan. Hepburn.
-> Atori in Japanese. “Fringilla Montifringilla. Large flocks of this bird
+) Atori in Japanese. “Fringilla Montifringilla. Large flocks of this bird
 are found in winter near Yokohama. It is the same as the European
 species.”—Blakiston and Pryer in “T.A.S.J.”
 Le
 
 
-XXIX, 22
-
-
 A.D. 679.
-
-
-240, - NIHONGI.
 
 
 not destroyed, and the inmates did not know that the hill had
@@ -20730,13 +19091,11 @@ succeeded in reaching the shore.”” Syo-mul and his colleagues
 never arrived.
 
 8th year, Spring, 1st month, 5th day. The Silla Escort-
-Envoys Ka-ryang Chyong-san and Kim Hong-syé, etc., pro-
-ceeded to the capital.
+Envoys Ka-ryang Chyong-san and Kim Hong-syé, etc., proceeded to the capital.
 
 7th day. The Emperor issued a decree as follows :—‘“ At
 the New Year let the Princes, Ministers, and public functionaries
-refrain from paying their respects to any persons except rela-
-tives of the grade of elder brothers or elder sisters and above,
+refrain from paying their respects to any persons except relatives of the grade of elder brothers or elder sisters and above,
 or to the senior members of the House. The Princes must
 not pay their respects even to their mothers, when the latter
 have not the title of Princess; nor must Ministers pay their
@@ -20760,9 +19119,6 @@ posthumous rank of Upper Daikin.
 4th day. The Emperor issued an edict, saying :—‘‘ When
 
 INCH 2)
-
-
-TEMMU. . 341
 
 
 the year Kanoto Mi' is reached, let there be a review’ of the
@@ -20822,13 +19178,7 @@ the case of men of the 6th or lower ranks.
 5 In Yamato. 6 Saimei Tenno.
 
 
-XXIX. 23.
-
-
-XXIX. 24.
-
-
-34> NIHONGI.
+34) NIHONGI.
 
 
 saying :—‘‘ We wish to-day to unite with you in making a vow
@@ -20890,9 +19240,6 @@ feelings.”
 _——
 
 
-TEMMU. 343
-
-
 11th day. The Emperor went to Hatsuse and held a banquet
 by the Todoroki’ pool. |
 
@@ -20947,15 +19294,6 @@ Princes.
 3 i.e. in the capital.
 
 
-XXIX. 25.
-
-
-XXIX. 26.:
-
-
-344 NIHONGI.
-
-
 the character of their suites of men and horses when passing
 along the streets.’
 
@@ -20971,10 +19309,8 @@ certain number of each.
 In the course of this month, the Emperor made a decree,
 saying :—‘‘ Ordinarily priests and nuns reside within their
 temples, and observe the Three Precious Things. In the case
-of aged persons, however, or those who by disease are per-
-manently confined to bed in a narrow chamber, of those in
-short whose old age or ill-health allows them no facility of move-
-ment, places which should be pure are made impure. For this
+of aged persons, however, or those who by disease are permanently confined to bed in a narrow chamber, of those in
+short whose old age or ill-health allows them no facility of movement, places which should be pure are made impure. For this
 reason, let all such persons in future apply each to relations or
 friends to build for them in vacant spaces one or two dwellings
 where the aged can be nourished and the sick take medicine.”
@@ -21064,8 +19400,7 @@ Tachibana Temple.‘ Ten rooms were burnt.
 nobility, as from an earl to a marquis.
 
 2 One of the four supernatural creatures of Chinese tradition, and regarded
-as a happy portent, on its alleged appearance, of the advent of good govern-
-ment. It has the body of a deer, the tail of an ox, and a single horn.
+as a happy portent, on its alleged appearance, of the advent of good government. It has the body of a deer, the tail of an ox, and a single horn.
 
 3 Described as a small bird of a reddish colour, resembling a sparrow. It
 has a ring round the eyes, and black spots on the wings. It frequents
@@ -21080,9 +19415,6 @@ X XIX. 27.
 DOSING 28.
 
 
-346 NIBONGI.
-
-
 25th day. The Silla Envoys Hang-na and his companions
 were entertained in Tsukushi, and received presents each
 according to his rank.
@@ -21091,8 +19423,7 @@ In this month an Imperial decree was issued as follows :—
 “ Henceforward let all temples, with the exception of the two
 or three great national temples, cease to be administered by
 officials. But for those which hold a sustenance-fief, a limit
-from first to last of thirty years is fixed.' This will be discon-
-tinued when, upon calculating the years, the number of thirty is
+from first to last of thirty years is fixed.' This will be discontinued when, upon calculating the years, the number of thirty is
 completed. Moreover the Temple of Asukadera ought not to
 be included in those administered by officials, but as it was
 originally a Great Temple, always administered by officials, and
@@ -21100,8 +19431,7 @@ has also done good service formerly,!—for these reasons it -is
 still retained in the class of officially administered temples.
 
 5th month, rst day. By order of the Emperor coarse silk,
-floss silk, raw silk, and cloth were bestowed on the twenty-
-four temples within the capital, the amount varying in each
+floss silk, raw silk, and cloth were bestowed on the twentyfour temples within the capital, the amount varying in each
 case.
 
 On this day the expounding of the ‘‘ Kon-kwo-myo Sutra”
@@ -21110,12 +19440,10 @@ was begun in the Palace and in the various temples.
 13th day. Koryéd sent Myo-mun of the Southern Division
 as Chief Envoy, Chyun-ték, who was Té-kyéng of the Western
 Division, and others with tribute. Accordingly Silla sent
-Ko-na, of Té-nama rank, to escort the Kory6 Envoys Myo-
-mun and the others to Tsukushi.
+Ko-na, of Té-nama rank, to escort the Kory6 Envoys Myomun and the others to Tsukushi.
 
 21st day. Tsunade, Hada no Miyakko, of Lower Daikin
-rank, died. On account of his services during the year Mid-
-zunoye Saru, he received the posthumous rank of Upper
+rank, died. On account of his services during the year Midzunoye Saru, he received the posthumous rank of Upper
 Daikin.
 
 27th day. Maro, Hoshikaha no Omi, of Middle Shokin
@@ -21135,9 +19463,6 @@ close to this temple.
 
 2 A later history mentions another rain of something like ashes, The
 old peasants called it “ Flowers of rice.”
-
-
-TEMMU. 347
 
 
 Autumn, 7th month, 1st day. A branch of the tsuki tree '
@@ -21162,8 +19487,7 @@ The Imperial Princes Ohotsu and Takechi were sent on a visit
 of condolence. :
 
 23rd day. Ihatoko, Miyake no Muraji, of Lower Shokin
-rank, died. On account of his services during the year Mid-
-zunoye Saru, he was given the posthumous rank of Lower
+rank, died. On account of his services during the year Midzunoye Saru, he was given the posthumous rank of Lower
 Daikin.
 
 25thday. Prince Toneri, of the 5th rank, who held the joint
@@ -21171,8 +19495,7 @@ offices of Nagon* and Minister of the Household, took ill and
 was on the point of death, so the Imperial Prince Takechi
 was sent to ask after him. He died the next day. The
 Emperor was greatly shocked, and sent the Imperial Princes
-Takechi and Kahashima to be present at his temporary inter-
-ment and to make lament.for him. The pithho puaionaiigy
+Takechi and Kahashima to be present at his temporary interment and to make lament.for him. The pithho puaionaiigy
 followed their example and made lamentation.
 
 8th month, 5th day. The officials of the department of law *
@@ -21199,12 +19522,6 @@ the Emperor).
 respecting claims for promotion,
 
 
-XXIX. 29
-
-
-348 NIHONGI.
-
-
 Accordingly he inspected the horses of the officials from the
 rank of Daisen. downwards at Nagara no mori.' He also
 had archery practised on horseback.
@@ -21229,20 +19546,17 @@ of the Dog to the hour of the Rat.’
 4th day. Nineteen men of Koryo returned to their own
 country. These were condolence envoys who came over on
 the occasion of the mourning for the later Okamoto Empress.‘
-They had been detained and had not yet taken their depar-
-ture.
+They had been detained and had not yet taken their departure.
 
 7th day. The Emperor issued an edict to the officials,
 saying :—‘‘ If any one knows of any means of benefiting the
 state or of increasing the welfare of the people, let him appear
 in Court and make a statement in person. If what he says is
-reasonable, his ideas will be adopted and embodied in regula-
-tions.”’
+reasonable, his ideas will be adopted and embodied in regulations.”’
 
 roth day. There was thunder in the West.
 
-12th day. The Empress-consort was unwell. (The Em-
-peror,) having made a vow on her behalf, began the erection
+12th day. The Empress-consort was unwell. (The Emperor,) having made a vow on her behalf, began the erection
 of the Temple of Yakushiji,’ and made one hundred persons
 enter religion as priests. In consequence of this she recovered
 her health. |
@@ -21265,9 +19579,6 @@ This temple was afterwards removed to a site near Nara. Vide Satow’s
 Handbook, p. 383.
 
 
-TEMMU. 349
-
-
 16th day. There was an eclipse of the moon.'
 
 The Imperial Prince Kusakabe was sent to pay a visit of
@@ -21283,8 +19594,7 @@ interpreters arrived in the suite of Ya-phil.
 hundred persons were made to enter religion as priests, and he
 presently recovered. .
 
-30th day. Bramblings covered the sky, flying from south-
-east to north-west.
+30th day. Bramblings covered the sky, flying from southeast to north-west.
 
 roth year, Spring, Ist month, 2nd day. Offerings were
 distributed to the Gods of Heaven and Earth.
@@ -21329,9 +19639,6 @@ and the Ministers, addressed them as follows :—‘ It is Our
 3 The Taikyokuden. See above, p. IgI.
 
 
-XXIX 30
-
-
 Ndby {6hon te
 
 
@@ -21339,9 +19646,6 @@ DXONGDNG 3m
 
 
 SCAR O Aa.
-
-
-350 NIHONGI.
 
 
 desire now anew to enact regulations and to reform the laws.
@@ -21361,8 +19665,7 @@ died. :
 3rd month, 3rd day. The Lady Abe was buried.
 
 16th day. The Emperor took his place in the Great Hall of
-Audience, and there gave orders to the Imperial Princes Kaha-
-shima and Osakabe, to Prince Hirose, Prince Takeda, Prince
+Audience, and there gave orders to the Imperial Princes Kahashima and Osakabe, to Prince Hirose, Prince Takeda, Prince
 Kuhada, and Prince Mino, to Michichi, Kamitsukenu! no Kimi,
 of Lower Daikin rank, Kobito, Imbe no Muraji, of Middle
 Shokin rank, Inashiki, Adzumi no Muraji, of Lower Shdékin
@@ -21403,16 +19706,12 @@ details of which are given in the written edict.”
 Ch. K., p. 9 et segg.
 
 
-TEMMU. 351
-
-
 12th day. The. title of Muraji was granted to Wokida,
 Nishikori no Miyakko, Yoshimaro, Tawi no Atahe, Mukutari
 and Ihakatsu, Sugita no Kurando,’ Agata, Kahachi no Atahe,
 Kagami, Oshinomi no Miyakko, Yoshimaro, Aretawo no Atahe,
 Momoye and Oshidzuki, Ohokoma no Miyakko, Tatsumaro,
-Yamato no Atahe, Ohoshima, Kadobe no Atahe, Ohi, Shishi-
-bito no Miyakko, and Yamashiro no Koma no Ikamaro, fourteen
+Yamato no Atahe, Ohoshima, Kadobe no Atahe, Ohi, Shishibito no Miyakko, and Yamashiro no Koma no Ikamaro, fourteen
 persons in all.
 
 17th day. An entertainment was given in Tsukushi to the
@@ -21422,16 +19721,14 @@ according to his rank.
 5th month, r1th day. Worship was paid to the august spirit
 of the Emperor’s grandfather.? On this day the Emperor
 issued a decree, saying:—‘‘ The deference paid by public
-functionaries to the Palace officials* is far too great. Some-
-times they go to their doors and address their plaints to them,
+functionaries to the Palace officials* is far too great. Sometimes they go to their doors and address their plaints to them,
 sometimes they pay court to their houses* by offerings of
 presents. If there should be any such cases in future, the
 offenders will be punished according to circumstances.”
 
 26th day. Myo-mun of Kory6 took his departure.
 
-6th month, 5th day. The Silla guest Ya-phil was enter-
-tained in Tsukushi. He (and his suite) received presents
+6th month, 5th day. The Silla guest Ya-phil was entertained in Tsukushi. He (and his suite) received presents
 varying in the case of each.
 
 17th day. Prayer was made for rain.
@@ -21455,20 +19752,10 @@ Tatsuta.
 1 Storekeeper.
 
 * He was not an Emperor, and therefore not included in the genera
-worship paid to the Emperors. Or perhaps with Florenz we should under-
-stand by grandfather ancestors generally. The original does not indicate
+worship paid to the Emperors. Or perhaps with Florenz we should understand by grandfather ancestors generally. The original does not indicate
 number.
 
-> Female. * i.e. families.
-
-
-XXIX., 33.
-
-
-" XXIX. 34.
-
-
-352 NIHONGI.
+) Female. * i.e. families.
 
 
 30th day. Orders were given to the whole Empire to hold
@@ -21525,9 +19812,6 @@ Various kinds of music were performed.
 4 ie. the Jibush6; in Japanese, wosamuru tsukasa.
 
 
-TEMMU. 35 3
-
-
 16th day. A comet appeared. .
 17th day. The planet Mars entered the Moon.
 _ Winter, roth month, tst day. There was an eclipse of the sun.
@@ -21562,8 +19846,7 @@ of that country. .
 11th month, 2nd day. There was an earthquake.
 
 12th month, roth day. Kobito, Kahabe no Omi, of Lower
-Shokin rank, was sent to Tsukushi to entertain Chhyung-
-phyong, the Silla guest.
+Shokin rank, was sent to Tsukushi to entertain Chhyungphyong, the Silla guest.
 
 29th day. Kanuchi, Tanaka no Omi, Saru, Kakimoto no
 Omi, Kuniwoshi, Tanabe’ no Muraji, Maro, Takamuku no
@@ -21580,16 +19863,7 @@ of Lower Shokin.
 Viole. Tar Aa
 
 
-XXIX. 35.
-
-
-XXIX. 36.
-
-
 A.D. 682.
-
-
-354 NIHONGI.
 
 
 On this day, Nukamushi, Toneri no Miyakko, and Chitoko,
@@ -21611,8 +19885,7 @@ toth day. There was an earthquake.
 his own country.
 
 In this month, Nukamushi, Toneri no Miyakko, of Lower
-Shokin rank, died. In view of his services in the year Midzu-
-noye Saru, he received the posthumous rank of Upper Daikin.
+Shokin rank, died. In view of his services in the year Midzunoye Saru, he received the posthumous rank of Upper Daikin.
 
 3rd month, 1st day. Prince Mino, of Shishi rank, the
 Daibu of the Household Department and others were sent to
@@ -21625,13 +19898,11 @@ were granted dignities.
 +th day. There was an earthquake.
 
 13th day. By command of the Emperor, Ihashiki, Sakahibe
-no Muraji, invented afresh new characters—one book in forty-
-four volumes.’*
+no Muraji, invented afresh new characters—one book in fortyfour volumes.’*
 
 16th day. The Emperor visited Nihiki.
 
-28th day. The Emperor issued a decree forbidding hence-
-forward all from the Princes of the Blood down to the public
+28th day. The Emperor issued a decree forbidding henceforward all from the Princes of the Blood down to the public
 functionaries to wear caps of rank, aprons, lined garments,’ and
 
 
@@ -21654,9 +19925,6 @@ For information respecting ancient forms of writing in Japan, Hirata’s
 
 
 leggings.
-
-
-TEMMU. 355
 
 
 habaki, and also forbidding the stewards and Uneme of the
@@ -21684,8 +19952,7 @@ and others, sent tribute of a large bell. ,
 requested 7000 families of captives, in order to constitute a
 district. Their request was granted.’
 
-23rd day. The Emperor made a decree, saying :—‘‘ Hence-
-forth all persons whatsoever, men or women, must tie up their
+23rd day. The Emperor made a decree, saying :—‘‘ Henceforth all persons whatsoever, men or women, must tie up their
 hair. This is to be completed not later than the 30th day of
 the 12th month. But for the date of tying up the hair, let a
 further Imperial notification, be awaited.” It was from this
@@ -21722,15 +19989,8 @@ savages.
 SOC aes
 
 
-XXIX. 38
-
-
-356 NIHONGI. :
-
-
 Mo-chiél and Té-ko-myo-ka, of the Lower Division, with tribute
-of the products of the country. Accordingly, Silla'sent Kim Syik-
-kwi, of Té-nama rank, to escort the Koryé Envoys to Tsukushi.
+of the products of the country. Accordingly, Silla'sent Kim Syikkwi, of Té-nama rank, to escort the Koryé Envoys to Tsukushi.
 
 6th day. Men and women began to tie up their hair. They
 accordingly wore caps of varnished gauze.’
@@ -21786,9 +20046,6 @@ sometimes joined to the title in this way.
 ® Or Tanegashima. © All these are islands off the south coast of Kiushiu.
 
 
-TEMMU. 357
-
-
 8th month, 1st day. All from the Princes of the Blood
 down to the Ministers were each' made to bring forward
 matters suitable for framing regulations.
@@ -21798,11 +20055,9 @@ matters suitable for framing regulations.
 On this evening at twilight a great star passed from the
 East to the West.”
 
-5th day. Laws were drawn up. There was a great rain-
-bow within the Palace.
+5th day. Laws were drawn up. There was a great rainbow within the Palace.
 
-t1th day. A thing appeared in shape like a Buddhist bap-
-tismal flag, and of a flame colour. It floated through the void
+t1th day. A thing appeared in shape like a Buddhist baptismal flag, and of a flame colour. It floated through the void
 towards the north and was seen by all the provinces. Some
 said that it sank into the Sea of Koshi. On this day a white
 vapour arose on the Eastern Mountain, four fathoms in size.
@@ -21819,8 +20074,7 @@ and opposite to the sun.
 22nd day. The Emperor issued an edict (prescribing) the
 character of ceremonies and * language.
 
-He decreed further, saying :—‘‘ Let the lineage and char-
-acter of all candidates for office be always inquired into
+He decreed further, saying :—‘‘ Let the lineage and character of all candidates for office be always inquired into
 before a selection is made. None whose lineage is insufficient
 are eligible for appointment, even although their character,
 conduct and capacity may be unexceptionable.”
@@ -21849,15 +20103,6 @@ planet Venus, which cannot be right.
 5 Afterwards Gensho Tenno,
 
 
-XXIX. 39.
-
-
-XXIX. 40.
-
-
-358 NIHONGI.
-
-
 ward, and the ceremonial custom of standing of the Naniha
 Court’ was again practised.
 
@@ -21870,8 +20115,7 @@ After two hours they all dispersed. —
 
 Winter, roth month, 8th day. A great revel was held.
 
-11th month, 16th day. The Emperor made a decree, say-
-ing :—‘‘ Hear this, all ye Princes of the Blood, Princes and
+11th month, 16th day. The Emperor made a decree, saying :—‘‘ Hear this, all ye Princes of the Blood, Princes and
 Ministers, as well as ye common people! In regard to trials for
 offences against the law, whether within the Palace or in the
 Court, let examination be made at the place where the offence
@@ -21890,10 +20134,7 @@ and are not arrested, raise the soldiers of the place and arrest
 them. To those judged deserving of flogging there may be
 
 
-administered not more than a hundred blows, to be deter-
-
-
-mined according to a scale. Moreover, when the facts of a crime
+administered not more than a hundred blows, to be determined according to a scale. Moreover, when the facts of a crime
 are undeniable and the accused falsely states that he is innocent,
 and does not admit the justice of the charge, but disputes with
 the prosecutor, let his original offence be superadded to this.”
@@ -21944,15 +20185,11 @@ many. Now We learn by tradition that auspicious signs from
 Heaven come as a response when the principles of administering
 the Government are in harmony with the laws of Heaven. That
 they should appear repeatedly every year in this Our reign is, on
-the one hand, matter for awe, and on the other, matter for rejoic-
-ing. Therefore the Princes of the Blood, the Princes, with the
+the one hand, matter for awe, and on the other, matter for rejoicing. Therefore the Princes of the Blood, the Princes, with the
 Ministers and functionaries, as well as the people of the Empire,
 join with Us in our joy.” . Accordingly presents were made to all
 from the rank of Shodken upwards, each according to his
-rank, and all crimes were pardoned from capital offences down-
-
-
-wards. Moreover all forced labour was remitted to the common
+rank, and all crimes were pardoned from capital offences downwards. Moreover all forced labour was remitted to the common
 
 
 people.
@@ -21963,10 +20200,8 @@ Koryé, Pekché and Silla.
 2nd month, 1st day. The Imperial Prince Ohotsu for the
 first time attended to matters of State.
 
-3rd month, 2nd day. On the occasion of making appoint-
-ments to the offices of Sdjd, Sddzu, and Risshi,' the Emperor
-gave command, saying :—‘‘ Let those who have general con-
-trol over the priests and nuns act according to the law,” etc.,
+3rd month, 2nd day. On the occasion of making appointments to the offices of Sdjd, Sddzu, and Risshi,' the Emperor
+gave command, saying :—‘‘ Let those who have general control over the priests and nuns act according to the law,” etc.,
 etc,
 
 1gth day. The Envoys sent to Tane* returned.
@@ -21978,16 +20213,7 @@ Summer, 4th month, 15th day. The Emperor made a decree,
 Vol. I]. 153. The latter, which Hepburn translates ‘‘doctor of laws,” was
 now created for the first time.
 
-> Tanegashima.
-
-
-XXIX. 41
-
-
-XXIX. 42.
-
-
-360 NIHONGI.
+) Tanegashima.
 
 
 saying :—‘‘ Henceforth copper coins must be used, and not
@@ -22023,10 +20249,7 @@ house of the Princess Kagami-hime and made kind inquiry as’
 
 to her illness.
 5th day. Princess Kagami-hime died.
-In this summer priests and nuns were for the first time in-
-
-
-vited to the Palace for a ‘‘ retreat.” Accordingly thirty persons
+In this summer priests and nuns were for the first time invited to the Palace for a ‘‘ retreat.” Accordingly thirty persons
 
 
 of pure conduct were selected, who renounced the world.
@@ -22062,9 +20285,6 @@ one hand-bell, with lamentation for one day.
 ’ Probably a priest of the Temple called Kudaradera.
 
 
-TEMMU. 361
-
-
 year Midzunoye Saru, he was granted the posthumous rank of
 Middle Daikin.
 
@@ -22089,10 +20309,8 @@ RX IRAs,
 Kibumi no Miyakko, Komotsume no Miyakko, Magari Hako- ~
 
 
-dzukuri no Miyakko, Isonokamibe no Miyakko, Takara Hi-
-matsuri no Miyakko, Hasetsukabe no Miyakko, Anahobe no
-Miyakko, Shiragabe no Miyakko, Oshinomi no Miyakko, Hat-
-sukase no Miyakko, Fumi no Obito, Wohatsuse no Miyakko,
+dzukuri no Miyakko, Isonokamibe no Miyakko, Takara Himatsuri no Miyakko, Hasetsukabe no Miyakko, Anahobe no
+Miyakko, Shiragabe no Miyakko, Oshinomi no Miyakko, Hatsukase no Miyakko, Fumi no Obito, Wohatsuse no Miyakko,
 Kudara no Miyakko and Katarahi no Miyakko.
 
 Winter, roth month, 5th day. The title of Muraji was
@@ -22115,12 +20333,6 @@ Chang-chi, of Té-nama rank, to offer tribute.
 the fifth rank of Princes, Yakuni, Hata no Kimi, of Lower
 
 
-XXIX. 44.
-
-
-XXIX. 45
-
-
 Daikin rank, Homuchi, Ohoshi no Omi, of Lower Shokin .
 
 
@@ -22137,12 +20349,6 @@ being given.
 A.D. 684.
 
 
-XXIX. 46.
-
-
-362 NIHONGI.
-
-
 with Hangwan, clerks, and artizans, to make a tour through
 the Empire and determine the boundaries of the provinces.
 They were unable, however, to determine them all this year.
@@ -22155,8 +20361,7 @@ let the officials whose duty it is to do so prepare a full report
 and forward it to the judicial authorities.”
 
 He further made a decree, saying:—‘‘ The Capital and
-Palace should not be in one place only. They must be con-
-structed in several places. We therefore wish first of all to
+Palace should not be in one place only. They must be constructed in several places. We therefore wish first of all to
 make the Capital at Naniha. Let the public functionaries
 therefore each proceed thither, and apply for sites for houses.”
 
@@ -22172,8 +20377,7 @@ shoot.
 2nd month, 24th day. Kim Chu-san was entertained in
 Tsukushi.
 
-28th day. The Emperor sent Prince Hirose of Jod-kwo-
-shi rank,’ and Yasumaro, Ohotomo no Muraji, of Middle
+28th day. The Emperor sent Prince Hirose of Jod-kwoshi rank,’ and Yasumaro, Ohotomo no Muraji, of Middle
 Shokin rank, with Hangwan, clerks, professors of the In and
 Yo, and artizans to the Home provinces, to determine by
 divination a site suitable for the capital.
@@ -22197,9 +20401,6 @@ decided on the site for a palace.
 
 ? Of each quarter.
 * This rank was not instituted until later. See below, XXIX. 53.
-
-
-TEMMU. 363
 
 
 Summer, 4th month, 5th day. All persons with sentences
@@ -22235,8 +20436,7 @@ is defective, all such persons, from Princes of the Blood down
 to Ministers, shall be fined. Those from the rank of Daisen
 down who deserve to be fined shall be fined: those who deserve
 flogging shall be flogged. But if by diligent practice they
-succeed in learning their duties, they shall have their punish-
-ment diminished by two degrees, even in the case of those
+succeed in learning their duties, they shall have their punishment diminished by two degrees, even in the case of those
 guilty of capital crimes. Anyone, however, who purposely
 offends in reliance on his own cleverness is not included among
 those eligible for pardon.”
@@ -22250,26 +20450,18 @@ whether they have susotsuki* or not, and also ties‘ or tassels.
 
 2 Costume, attendants, etc.
 
-3 A kind of sleeveless jacket with a broad band on the skirt. See illus-
-tration in “ Sanzaidzuye,” Book XXVIII. p. 4.
+3 A kind of sleeveless jacket with a broad band on the skirt. See illustration in “ Sanzaidzuye,” Book XXVIII. p. 4.
 
 * The ties were for holding the flaps of the garment together in front :
 the tassels were the same, only longer, and allowed to hang down by way of
 ornament,
 
 
-XXIX. 47.
-
-
 0.) 0.
 
 
-364 NIHONGI.
-
-
 But on the occasion of (state) assemblies, those who wear
-susotsuki should also have tassels. In the case of men, how-
-ever, those who have yebdshi’ should wear them, and at the
+susotsuki should also have tassels. In the case of men, however, those who have yebdshi’ should wear them, and at the
 same time laced’ trousers. Women of forty years of age or
 upwards are allowed to tie up their hair or not, and to ride
 astride or side-saddle, just as they please. A distinction is
@@ -22292,8 +20484,7 @@ condemned and thrown into prison.
 29th day. Fukuyd committed suicide by cutting his throat.
 
 5th month, 14th day. The priests, nuns and laity who had
-emigrated from Péekché, men and women, altogether twenty-
-three persons, were all settled in the province of Musashi.
+emigrated from Péekché, men and women, altogether twentythree persons, were all settled in the province of Musashi.
 
 28th day. Nanihamaro, Miwa no Hiketa no Kimi, was sent
 to Koryé as Chief Envoy, and Hitotari, Kuhabara no Muraji,
@@ -22327,9 +20518,6 @@ the present day is a striking example.
 4 Noble families are of course meant. Here as elsewhere the word I
 translate title is WE or surname. The Japanese had no proper surnames
 at this time.
-
-
-TEMMU. 365
 
 
 and eight titles of eight classes instituted. By this means the
@@ -22391,12 +20579,6 @@ altered by this earthquake.
 X XIX. 49.
 
 
-XXIX. 50,
-
-
-366 NIHONGI.
-
-
 night a rumbling noise like that of drums was heard in the
 East. Some said that the island of Idzu' had increased of
 itself on two sides, the north and west, to the extent of more
@@ -22412,8 +20594,7 @@ Abe no Omi, Kose no Omi, Kashihade no Omi, Ki no Omi,
 Hata no Omi, Mononobe no Muraji, Heguri no Omi, Sazakibe
 no Omi, Nakatomi no Muraji, Ohoyake no Omi, Ahata no
 Omi, Ishikaha no Omi, Sakarawi no Omi, Uneme no Omi,
-Tanaka no Omi, Woharida no Omi, Hodzumi no Omi, Yama-
-shiro no Omi, Kamo no Kimi, Wono no Omi, Kahahe no
+Tanaka no Omi, Woharida no Omi, Hodzumi no Omi, Yamashiro no Omi, Kamo no Kimi, Wono no Omi, Kahahe no
 Omi, Iwi no Omi, Kakimoto no.Omi, Karobe no Omi,
 Waka-zakurabe no Omi, Kishida no Omi, Takamuko no
 Omi, Shishi-bito no Omi, Kume no Omi, Inugami no Kimi,
@@ -22421,8 +20602,7 @@ Kamidzukenu no Kimi, Tsunu no Omi, Hoshikaha no Omi,
 Oho no Omi, Munagata no Kimi, Kuruma-mochi no Kimi,
 Aya no Kimi, Shimoji no Omi, Iga no Omi, Abe no Omi,
 Hayashi no Omi, Hami no Omi, Shimodzukenu no Kimi,
-Sami no Kimi, Chi-mori no Omi, Ohono no Kimi, Saka-
-moto no Omi, Ikeda no Kimi, Tamate no Omi, and Kasa no
+Sami no Kimi, Chi-mori no Omi, Ohono no Kimi, Sakamoto no Omi, Ikeda no Kimi, Tamate no Omi, and Kasa no
 Omi.
 
 3rd day. The Governor of the province of Tosa reported
@@ -22452,9 +20632,6 @@ ae
 
 
 a
-
-
-TEMMU. 367
 
 
 large as ajar.’ At the hour of the dog* the constellations were
@@ -22525,12 +20702,6 @@ nobility.
 A.D. 685.
 
 
-XXIX. 54.
-
-
-368 NIHONGI.
-
-
 In this year it was notified to the four provinces of Iga, Ise,
 Mino, and Wohari, that for the future in years of payment of
 commuted taxes,' forced labour would be remitted, and in years
@@ -22542,12 +20713,10 @@ was a fowl with four legs.’
 Moreover the district of Higami in the province of Tamba
 reported that there was a calf with twelve horns.
 
-14th year, Spring, ist month, z2ndday. The public function-
-aries paid their respects at Court.
+14th year, Spring, ist month, z2ndday. The public functionaries paid their respects at Court.
 
 21st day. The styles of official ranks were reformed, and
-new grades added. There were two grades of Myo-z (bright-
-rank) and four grades of /é6-2 (pure-rank), each grade being
+new grades added. There were two grades of Myo-z (brightrank) and four grades of /é6-2 (pure-rank), each grade being
 distinguished into Daz (great) and Aw6 (broad), so as to form
 twelve grades in all. The above were for persons not below
 the rank of Princes.
@@ -22555,15 +20724,13 @@ the rank of Princes.
 Next there were four grades of S6-2 (true or first rank), four
 grades of /zkz-2 (straight or direct rank), four grades of Gon-z
 (diligent-rank), four grades of J7u-c (earnest-rank), four grades
-of Zsuz-z (following-rank), and four grades of Shzz-z (advancing-
-rank). Each grade was divided into Daz and Kw0, so that
+of Zsuz-z (following-rank), and four grades of Shzz-z (advancingrank). Each grade was divided into Daz and Kw0, so that
 there were in all forty-eight grades. The above were the ranks
 of high officials.
 
 On this day, His Highness the Imperial Prince Kusakabe was
 granted the rank of J6-kw6-ichi (pure-broad-first-rank), the
-Imperial Prince Ohotsu the rank of J6-dai-ni (pure-great-
-second-rank), the Imperial Prince Takechi the rank of J6-kw6-
+Imperial Prince Ohotsu the rank of J6-dai-ni (pure-greatsecond-rank), the Imperial Prince Takechi the rank of J6-kw6-
 ni, the Imperial Prince Kahashima and the Imperial Prince
 Osakabe the rank of Jo-dai-san. The Princes of inferior
 rank and the high officials received steps in rank varying in
@@ -22587,9 +20754,6 @@ kindness,” —“ Shikai.”
 ————
 
 
-TEMMU. 369
-
-
 Accordingly seven men of Silla who had been cast away on
 our coast were delivered to Mul-yu and sent back.
 
@@ -22605,10 +20769,7 @@ shrines."
 In this month there was a rain of ashes in the province of
 Shinano. The herbs and trees all withered up.’
 
-Summer, 4th month, 4th day. The Governor of the pro-
-
-
-vince of Kii reported that the hot springs of Muro had dried up |
+Summer, 4th month, 4th day. The Governor of the province of Kii reported that the hot springs of Muro had dried up |
 
 
 and ceased to flow.
@@ -22646,23 +20807,13 @@ title of Imiki, viz. Yamato no Muraji, Katsuraki no Muraji,
 
 1 These domestic shrines (butsudan) are still to be seen in Japan.
 
-2 No doubt a fall of volcanic ashes is referred to, perhaps from Asama-
-yama. I have seen a forest at the foot of this mountain all withered,
+2 No doubt a fall of volcanic ashes is referred to, perhaps from Asamayama. I have seen a forest at the foot of this mountain all withered,
 probably from the same cause.
 
 3 There has been already a notice to the same effect.
 
 
 VOL. II. ; B b
-
-
-XXIX. 55
-
-
-XXIX. 56.
-
-
-370 NIHONGI.
 
 
 Ofushi-kahachi no Muraji, Yamashiro no Muraji, Naniha no
@@ -22710,8 +20861,7 @@ arms of the militia.‘
 was appointed Commissioner for the Tokaido, Mushina,
 Ishikaha no Ason, of Jiki-kwo-shi rank, Commissioner for the
 To-san-do, Sukunamaro, Sami no Ason, of Jiki-kwo-shi rank,
-Commissioner for the Sanyo-do, Ahaji, Kose no Ason, of Jiki-
-kwo-shi rank, Commissioner for the San-in-do, Tomi, Michi
+Commissioner for the Sanyo-do, Ahaji, Kose no Ason, of Jikikwo-shi rank, Commissioner for the San-in-do, Tomi, Michi
 no Mabito, of Jiki-kw6-san rank, Commissioner for the Nan-
 
 1 Of one of the official’ranks just mentioned.
@@ -22719,9 +20869,6 @@ no Mabito, of Jiki-kw6-san rank, Commissioner for the Nan-
 
 2 The same as the Asukadera so often mentioned above.
 3 Of Okamoto. Nimbu, a word usually applied to coolies.
-
-
-TemMu. 371
 
 
 kai-do, and Hirotari, Saheki no Sukune, of Jiki-kw6-shi rank,
@@ -22741,8 +20888,7 @@ the Hall, and made them gamble.
 
 On this day the Emperor made presents of the Imperial
 upper garments and trousers to Prince Miyatoko, Prince
-Naniha, Prince Takeda, Tomotari, Mikuni no Mabito, Oho-
-tomo, Agata no Inukahi no Sukune, Miyuki, Ohotomo no
+Naniha, Prince Takeda, Tomotari, Mikuni no Mabito, Ohotomo, Agata no Inukahi no Sukune, Miyuki, Ohotomo no
 Sukune, Ihashiki, Sakahibe no Sukune, Homuchi, Oho no
 Ason, Tsukura, Uneme no Ason, and Ohoshima, Fujihara no
 Ason, ten persons in all.
@@ -22779,9 +20925,6 @@ of Pékché, Their names would in that case be Jé-ki and H6-jo.
 Bb. 2
 
 
-XXIX. 57.
-
-
 KIX. 58.
 
 
@@ -22794,8 +20937,7 @@ accordingly given presents of coarse silk, floss silk, and cloth.
 
 1oth day. Tarise, Karobe no Ason, Nihinomi, Takada no
 Obito,® and Maro, Aredawo no Muraji, were sent to Shinano
-with instructions to prepare a temporary Palace. The in-
-tention probably was that the Emperor should visit the hot
+with instructions to prepare a temporary Palace. The intention probably was that the Emperor should visit the hot
 springs of Tsukama.
 
 12th day. Prince Hatsuse of J6-dai-shi rank, Uma-kahi,
@@ -22811,8 +20953,7 @@ In this month the ‘‘ Kongo-hanya*® Sutra’”’ was expounded in
 the Palace.
 
 r1th month, 2nd day. Ten thousand kin of store-iron were
-sent to the prefecture ° of Suwo. On the demand of the Vice-
-roy of Tsukushi the following store’ articles were sent down to
+sent to the prefecture ° of Suwo. On the demand of the Viceroy of Tsukushi the following store’ articles were sent down to
 Tsukushi, viz. 100 hiki of coarse silk, 100 kin of raw silk, 300
 tan of cloth, 400 pieces of tax-cloth, 10,000 kin of iron, and
 2000 bundles of bamboos for making arrows.
@@ -22846,9 +20987,6 @@ and remittances took such forms as this.
 8 Large crossbows are meant, which it required several men to handle.
 
 
-TEMMU. 873
-
-
 6th day. The Emperor visited the park of Shira-nishiki.
 
 The priests Pép-chang and Gonju presented to the Emperor
@@ -22876,8 +21014,7 @@ given to the priests of the Great Temple in the Great Palace.
 high officials, to the number of fifty-five persons, with Court
 costume, one suit to each.
 
-Shucho,’ rst year, Spring, rst month, 2nd day. The Em-
-peror took his place in the Great Hall of Audience and gave a
+Shucho,’ rst year, Spring, rst month, 2nd day. The Emperor took his place in the Great Hall of Audience and gave a
 banquet to the Princes and High Officials.
 
 
@@ -22906,16 +21043,7 @@ early part of the reign of Temmu, but some chronologists give Shujaku for
 672 and Hakuho for 673-685.
 
 
-XXIX, 59.
-
-
 A.D, 6866
-
-
-XXIX. 60.
-
-
-374 NIHONGI.
 
 
 On this day the Emperor decreed, saying :—‘‘ We shall now
@@ -22934,8 +21062,7 @@ silk, 40 kin of floss silk, and 40 tan of cloth.
 On this day Kudara no Nihiki, a man of the province of
 Settsu, presented to the Emperor a white agate.
 
-gth day. An invitation was given to the three higher eccle-
-slastics, the Risshi,* and also to the director and clerks of the
+gth day. An invitation was given to the three higher eccleslastics, the Risshi,* and also to the director and clerks of the
 Great Temple of the Great Palace, nine priests in all, and they
 were entertained at a lay * banquet. Moreover alms were given
 them of coarse silk, floss silk, and cloth, varying in value in
@@ -22945,12 +21072,10 @@ roth day. The Princes and High Officials received a present
 of upper garments and trousers, one suit each.
 
 13th day. Men of talent, scholars, professors of Philosophy,’
-and physicians, more than twenty persons in all, were sum-
-moned to the Palace. Food was given them and presents
+and physicians, more than twenty persons in all, were summoned to the Palace. Food was given them and presents
 made to them.
 
-14th day. At the hour of the cock® the Treasury Depart-
-ment at Naniha took fire and all the Palace was burnt. Some
+14th day. At the hour of the cock® the Treasury Department at Naniha took fire and all the Palace was burnt. Some
 said that the fire broke out in the house of Kusuri, Ato no
 Muraji, and that it spread from there to the Palace. But the
 Arsenal offices were not burnt.
@@ -22975,9 +21100,6 @@ Not confined to vegetarian dishes.
 C= wo b
 
 
-TEMMU. 375
-
-
 them presents of coarse silk, floss silk, and cloth, varying
 according to the rank of each.
 
@@ -22989,8 +21111,7 @@ the right answers on the spot.
 
 18th day. There was a great revel at Court.
 
-On this day the Emperor took his place in front of the Im-
-perial muro” building and made presents to performers, of
+On this day the Emperor took his place in front of the Imperial muro” building and made presents to performers, of
 various values. He also gave presents of clothing to singers.
 
 19th day. There was an earthquake. |
@@ -23010,8 +21131,7 @@ Ministers who attended him personally.
 governors of provinces should be selected and the rank of
 Gon-i conferred on them.
 
-3rd month, 6th day. Yakuni, Hata no Mabito, of Jiki-dai-
-san rank, holding the office of Daiben, took ill. On his behalf
+3rd month, 6th day. Yakuni, Hata no Mabito, of Jiki-daisan rank, holding the office of Daiben, took ill. On his behalf
 three men entered religion as priests. .
 
 roth day. Snow.
@@ -23036,15 +21156,6 @@ mention of this kind of dwelling in the “ Nihongi.” Or perhaps Mimuro is
 simply the name of a particular building.
 
 
-XXIX. 61.
-
-
-XXIX. 62.
-
-
-376 NIHONGI.
-
-
 the Empress-consort’s Palace, were paid to the Temple of
 Kahara.'
 
@@ -23060,8 +21171,7 @@ were separate presents for the Empress-consort, the Prince
 Imperial, and the Princes of the Blood, a certain number of
 articles for each.
 
-27th day. The Imperial Princess Taki, the Princess Yama-
-shiro no hime, and the Lady Ishikaha were sent to the Shrine
+27th day. The Imperial Princess Taki, the Princess Yamashiro no hime, and the Lady Ishikaha were sent to the Shrine
 of Ise.
 
 5th month, 9th day. The Imperial Princess Taki and her
@@ -23079,12 +21189,10 @@ given it to the amount of 30,000 sheaves (of rice).
 17th day. Promotion in rank was granted to the officials of
 the Palace. ;
 
-24th day. The Emperor’s body was ill at ease. Accord-
-ingly the “ Sutra of Yakushi”’ * was expounded in the Temple of
+24th day. The Emperor’s body was ill at ease. Accordingly the “ Sutra of Yakushi”’ * was expounded in the Temple of
 Kahara, and a ‘‘ retreat ’’’ was held within the Palace.
 
-29th day. Kim Chi-syang and his colleagues were enter-
-tained in Tsukushi. Each having received presents of various
+29th day. Kim Chi-syang and his colleagues were entertained in Tsukushi. Each having received presents of various
 amounts, they took their departure from Tsukushi.
 
 In this month, by Imperial command, the Ohotoneri of the
@@ -23098,9 +21206,6 @@ China.
 2 The interlinear Kana has Wokuni.
 
 ® “ Bhéchadjya Radja,” i.e. the medical King. Eitel.
-
-
-TEMMU. 77
 
 
 ‘the Temples. Accordingly a general pardon throughout the
@@ -23136,8 +21241,7 @@ Wohari, and deposited there.
 12th day. Prayer was made for rain.
 
 16th day. Prince Ise and a number of officials were sent to
-the Temple of Asuka, to communicate to the priests the Em-
-peror’s commands, as follows :--‘‘ Of late Our body is ill at
+the Temple of Asuka, to communicate to the priests the Emperor’s commands, as follows :--‘‘ Of late Our body is ill at
 ease, and We request that the dread power of the Three
 Precious Things may be invoked, in order to pbtain repose for
 Our person. Let the S6jo, the Sodzu, and the general body
@@ -23167,9 +21271,6 @@ official administration after the disendowment measure described above,
 Nar,
 
 
-378 NIHONGI.
-
-
 20th day. The priests Hojin and Gisho were granted fiefs ©
 of thirty houses each, to support them in their old age.
 
@@ -23186,8 +21287,7 @@ performed a penitential service.
 3rd day. The Emperor commanded the provinces to
 perform the ceremony of Oho-barahi.°
 
-4th day. Half the commuted taxes were remitted through-
-out the Empire, and all forced labour was dispensed with.
+4th day. Half the commuted taxes were remitted throughout the Empire, and all forced labour was dispensed with.
 
 5th day. Offerings were made to Kuni-gakari no Kami,‘
 who dwells in the province of Kii, to the four shrines of Asuka,
@@ -23228,9 +21328,6 @@ Afumi, and Wakasa.
 ’ Great purification. 4 Said by the “ Shiki” to be a Corean deity.
 
 
-TEMMU. 379
-
-
 the 12th month of the year Kinoto Tori (685) be absolved
 from payment.”
 
@@ -23238,8 +21335,7 @@ from payment.”
 22nd day. The style of the year was changed to Shucho,
 
 
-Ist year. [The characters 4 | are read aka-mitort, red-
-august-bird.] The Palace was accordingly entitled the Palace
+Ist year. [The characters 4 | are read aka-mitort, redaugust-bird.] The Palace was accordingly entitled the Palace
 of Asuka! no Kiyomibara.
 
 28th day. Seventy persons of pure conduct’ were selected
@@ -23247,8 +21343,7 @@ to retire from the world. A feast of vegetable food was provided
 in the Palace in front of the Emperor’s muro * residence.
 
 In this month the Princes and Ministers made images of
-Kwannon,‘ for the Emperor’s sake. Accordingly the Kwan-
-ze-on Sutra*® was expounded in the Great Temple of the
+Kwannon,‘ for the Emperor’s sake. Accordingly the Kwanze-on Sutra*® was expounded in the Great Temple of the
 Great Palace.
 
 8th month, rst day. For the sake of the Emperor, eighty
@@ -23277,8 +21372,7 @@ The Temples of Hinokuma, Karu, and Ohokubo were each
 granted fiefs of 100 houses, limited to a term of thirty years.
 
 
-' Asuka is written with two Chinese characters which mean “ flying-
-bird.”
+' Asuka is written with two Chinese characters which mean “ flyingbird.”
 
 ? Who practised the precepts of Buddhism.
 
@@ -23293,13 +21387,7 @@ Fumonbon. Kwan-ze-on is another form of the word Kwannon.
 Ministers are probably meant.
 
 
-XXIX. 64.
-
-
 NXIX. 65}
-
-
-380 NIHONGIL.
 
 
 23rd day. A fief of 200 houses was granted to the Temple
@@ -23342,8 +21430,7 @@ eulogy regarding the Imperial Princes; next, Prince Ise, of
 Princes; next, Ohotomo, Agata no Mukahi no Sukune, of
 Jiki-dai-san rank, pronounced a eulogy regarding the
 officials of the Household generally; next, Prince Kahachi, of
-Jo-kw6-shi rank, pronounced a eulogy regarding the Oho-
-toneri of the right and left; next, Kunimi, Tahema no Mabito,
+Jo-kw6-shi rank, pronounced a eulogy regarding the Ohotoneri of the right and left; next, Kunimi, Tahema no Mabito,
 of Jiki-dai-san rank, pronounced a_ eulogy regarding the
 Guards of the right and left; next, Tsukura, Uneme no Ason,
 of Jiki-dai-shi rank, pronounced a eulogy regarding the lady
@@ -23356,10 +21443,8 @@ the Court of Temporary Interment.
 
 On this day, Miaruji, Fuse no Ason, of Jiki-dai-shi rank,
 pronounced a eulogy regarding the Council of State; next,
-Maro, Isonokami no Ason, of Jiki-kwo-san rank, pro-
-nounced a eulogy regarding the judicial officers; next,
-Takechi-maro, Oho-miwa no Ason, of Jiki-dai-shi rank, pro-
-nounced a eulogy regarding the administrative officials ;
+Maro, Isonokami no Ason, of Jiki-kwo-san rank, pronounced a eulogy regarding the judicial officers; next,
+Takechi-maro, Oho-miwa no Ason, of Jiki-dai-shi rank, pronounced a eulogy regarding the administrative officials ;
 next, Yasumaro, Ohotomo no Sukune, of Jiki-kwo-san rank,
 
 
@@ -23373,11 +21458,9 @@ a eulogy regarding the war officials.
 2gth day. The priests and nuns again raised lament.
 
 On this day, Maro, Abe no Kunu no Ason, of Jiki-kwo-shi
-rank, pronounced a eulogy regarding the Board of Punish-
-ments; next, Yumibari, Ki no Ason, of Jiki-kwo-shi rank,
+rank, pronounced a eulogy regarding the Board of Punishments; next, Yumibari, Ki no Ason, of Jiki-kwo-shi rank,
 pronounced a eulogy regarding the Department of the
-Interior; next, Mushi-maro, Hodzumi no Ason, of Jiki-kwo-
-shi rank, pronounced a eulogy regarding the Governors of
+Interior; next, Mushi-maro, Hodzumi no Ason, of Jiki-kwoshi rank, pronounced a eulogy regarding the Governors of
 Provinces ; next, the Ohosumi no Ata no Hayato, and the two
 Muma-kahi-be no Miyakko of Yamato and Kahachi each
 pronounced eulogies.
@@ -23389,9 +21472,6 @@ eulogium on behalf of his father, Prince Chon-kwang. Next,
 the Miyakko of the various provinces, as they came, each
 pronounced his eulogy. There were also performances of all
 manner of singing and dancing. ,
-
-
-XXIX. 66,
 
 
 BOOK XXX.
@@ -23415,8 +21495,7 @@ Emperor Ame-mikoto hirakasu wake, she gave birth to His
 Highness the Imperial Prince Kusakabe in the palace of
 Ohotsu. In the tenth month of the tenth year (of the same
 reign) she followed the Shamon the Emperor Ame no
-Nunahara oki no Mabito to Yoshino in order to avoid the sus-
-picious dislike of the.Court, as has been related in the history
+Nunahara oki no Mabito to Yoshino in order to avoid the suspicious dislike of the.Court, as has been related in the history
 of the Emperor Ame no Nunahara oki no Mabito. In the first
 year of the reign of the Emperor Ame no Nunahara oki no
 Mabito, summer, the sixth month, she followed the Emperor
@@ -23440,8 +21519,7 @@ JiTO: 383
 be shown at the Fuha Palace. Inthe second year she was
 raised to the rank of Empress-consort. The Empress-consort
 from the beginning until now had assisted the Emperor in
-pacifying the Empire. It constantly happened that in the con-
-duct of business, her ready advice on Government matters was
+pacifying the Empire. It constantly happened that in the conduct of business, her ready advice on Government matters was
 of the greatest assistance.'
 
 In the first year of Shucho, on the ninth day of the ninth
@@ -23452,8 +21530,7 @@ control.
 Winter, roth month, 2nd day. The Imperial Prince Ohotsu’s
 treason was discovered and he was placed under arrest. There
 were arrested at the same time Wotokashi, Yakuchi no Ason, of
-Jiki-kwo-shi rank, Hakatoko, Yuki no Muraji, of Lower Sho-
-sen rank,? and also the Ohotoneri Omi-maro, Nakatomi no
+Jiki-kwo-shi rank, Hakatoko, Yuki no Muraji, of Lower Shosen rank,? and also the Ohotoneri Omi-maro, Nakatomi no
 Ason, Tayasu, Kose no Ason, a Silla priest named Héng-sin, with
 Tobari, Toki no Michi-dzukuri, and others, more than thirty
 persons in all, who had been led astray by the Imperial Prince
@@ -23468,8 +21545,7 @@ him in death. All who witnessed sighed and sobbed.
 The Imperial Prince Ohotsu was the third child of the
 Emperor Ame no Nunahara oki no Mabito.* His demeanour
 was noble and his language refined. He was beloved by the
-Emperor Ame mikoto hirakasu wake. When he grew to man-
-hood he showed an eminent talent for learning, and was very
+Emperor Ame mikoto hirakasu wake. When he grew to manhood he showed an eminent talent for learning, and was very
 fond of writing. The practice of composing Chinese verses had
 its origin with Ohotsu.
 
@@ -23499,9 +21575,6 @@ XXX. 4e
 
 
 A.D. 687.
-
-
-384 NIHONGT.
 
 
 Prince, but We pardon them all. Toki no Michi-dzukuri is
@@ -23535,8 +21608,7 @@ In this year a serpent and a dog copulated. Presently they
 both died together.
 
 rst year,' Spring, Ist month, 1st day. The Prince Imperial,
-accompanied by the Ministers and public functionaries, pro-
-ceeded to the Palace of temporary interment and made
+accompanied by the Ministers and public functionaries, proceeded to the Palace of temporary interment and made
 lament. The Nagon?® Miaruji Fuse no Ason performed the
 ceremony of pronouncing a eulogy. When the eulogy was
 over they all raised a lament. Next the common people made
@@ -23578,8 +21650,7 @@ sent to Silla to announce the Emperor’s decease.
 
 3rd month, 15th day. Fifty-six immigrants from Koryé were
 settled in the province of Hitachi. They were given lands,
-received an allowance of grain, and made to pursue their avoca-
-tions in peace.
+received an allowance of grain, and made to pursue their avocations in peace.
 
 2oth day. An ornamental chaplet was offered at the Palace
 of temporary interment. This was called Mikage.’
@@ -23601,15 +21672,13 @@ in peace.
 
 5th month, 22nd day. The Prince Imperial, accompanied by
 the Ministers and public functionaries, proceeded to the Palace
-of temporary interment and made lamentation. On this occa-
-sion, the chiefs of the Hayato and of Ata in Ohosumi, each
+of temporary interment and made lamentation. On this occasion, the chiefs of the Hayato and of Ata in Ohosumi, each
 accompanied by his people, advanced inturn and pronounced a
 eulogy.
 
 6th month, 28th day. Criminals were pardoned.
 
-Autumn, 7th month, 2nd day. A decree was issued as fol-
-lows :—‘‘ Interest may not be received on any debts contracted
+Autumn, 7th month, 2nd day. A decree was issued as follows :—‘‘ Interest may not be received on any debts contracted
 
 
 * Mikage means “august shade.” The wreath was supposed to represent
@@ -23621,9 +21690,6 @@ VOL. II. CC
 
 
 So eae.
-
-
-386 NIHONGI.
 
 
 during or previous to the year Kinoto Tori! In cases where
@@ -23646,8 +21712,7 @@ boiled rice * was offered.
 bridge.
 
 28th day. The Empress sent Ohoshima, Fujihara no Ason,
-of Jiki-dai-shi rank, and Ohotomo Kibumi no Muraji, of Jiki-
-dai-shi rank, to invite together 300 Riu-zod and Dai-toku® to
+of Jiki-dai-shi rank, and Ohotomo Kibumi no Muraji, of Jikidai-shi rank, to invite together 300 Riu-zod and Dai-toku® to
 the Temple of Asuka, and to present to each a priestly robe,‘
 saying :—‘‘ This was made of the august garments of the
 Emperor Ame no Nunahara oki no Mabito.” The language of
@@ -23663,9 +21728,7 @@ temporary interment.
 22nd day. Silla sent Prince Kim Sang-nim, Kim Sal-mo, of
 Keupson rank, Kim In-syul, of Keupson rank, and the Té-sya
 So Yang-sin to petition the Emperor (for advice) regarding the
-Government of that country and to offer tribute. The student-
-priest Chi-ryu arrived along with them. The Viceroy of Tsu-
-kushi having informed Sang-nim and his colleagues of the
+Government of that country and to offer tribute. The studentpriest Chi-ryu arrived along with them. The Viceroy of Tsukushi having informed Sang-nim and his colleagues of the
 Emperor’s decease, they all on that same day put on mourning,
 
 
@@ -23673,14 +21736,12 @@ tL AD. 685. 2 The first mention of interest on loans.
 
 3 The character used denotes specially the autumnal eu nes to ancestors.
 
-4 Cooked down to one-third its original bulk. Giles. The ‘ sa ei ” ex-
-plains this to mean “without fish or flesh.” The older reading is “green
+4 Cooked down to one-third its original bulk. Giles. The ‘ sa ei ” explains this to mean “without fish or flesh.” The older reading is “green
 food,” for which the interlinear Kana is hijiki-oho, a dish prepared with
 hijiki, a kind of sea-weed.
 
 5 Riu-zo is literally Dragon-elephant (Naga in Sanskrit), and Dai-toku
-great virtue, corresponding to the Sanskrit Bhadanta. Both are compli-
-mentary expressions for Buddhist dignitaries.
+great virtue, corresponding to the Sanskrit Bhadanta. Both are complimentary expressions for Buddhist dignitaries.
 
 6 Kesa, in Sanskrit kachaya.
 
@@ -23699,14 +21760,11 @@ as by the Governors of provinces, and the Kuni no Miyakko,
 together with common people, both men and women, began
 the construction of the Oho-uchi Misasagi.
 
-12th month, roth day. Tomi, Michi no Mabito, of Jiki-
-kwo-san rank, was appointed Imperial Envoy for the enter-
-tainment of the Silla guests. .
+12th month, roth day. Tomi, Michi no Mabito, of Jikikwo-san rank, was appointed Imperial Envoy for the entertainment of the Silla guests. .
 
 This year was the year Hinoto I (24th) of the Cycle.
 
-and year, ist month, 1st day. The Prince Imperial, accom-
-panied by the Ministers and public functionaries, went to the
+and year, ist month, 1st day. The Prince Imperial, accompanied by the Ministers and public functionaries, went to the
 Palace of temporary interment and made lamentation.
 
 2nd day. A company of priests made lament at the Palace
@@ -23760,9 +21818,6 @@ MOOS 76
 XXX. 8
 
 
-388 NIHONGI.
-
-
 3rd month, 22nd day. An ornamental chaplet was offered
 at the Palace of temporary interment. Ohoshima, Fujihara
 no Ason, pronounced a eulogy.
@@ -23800,11 +21855,9 @@ gth month, 23rd day. Kara, Minister of Tamna, and his
 companions were entertained at the Government House of
 Tsukushi, and received presents of various values.
 
-Winter, 11th month, 4th day. The Prince Imperial, accom-
-panied by the Ministers and public functionaries, as well as
+Winter, 11th month, 4th day. The Prince Imperial, accompanied by the Ministers and public functionaries, as well as
 by the guests from the frontier lands, went to the Palace of
-temporary interment and made lamentation. On this occa-
-sion offerings of food were made, and the Tate-fushi' dance
+temporary interment and made lamentation. On this occasion offerings of food were made, and the Tate-fushi' dance
 performed. |
 
 The Ministers each advanced in turn and pronounced a
@@ -23852,8 +21905,7 @@ audience to the ten-thousand lands? in the Front Hall.
 
 2nd day. The Department of Great -Learning presented
 eighty staves.*
-_ 3rd day. Maro and Kanawori, sons of Shiriko, of Mu-dai-
-shi rank, Yemishi of Kikafu in the district of Utamu in the
+_ 3rd day. Maro and Kanawori, sons of Shiriko, of Mu-daishi rank, Yemishi of Kikafu in the district of Utamu in the
 
 
 1 In the district of ‘Takechi in Yamato, at the village of Gojo no mura.
@@ -23868,13 +21920,11 @@ world,” as we might say. ‘
 which was performed on the first day of the Hare in each year. The
 “ Yengishiki” mentions camellia, holly, peach, plum, etc., among the woods
 used for this purpose. This custom is of Chinese origin. The later custom
-of driving out evil spirits was by scattering beans, and was known as oni-
-yarahi, tsuina, or mame maki. This was practised on the last day of the year.
+of driving out evil spirits was by scattering beans, and was known as oniyarahi, tsuina, or mame maki. This was practised on the last day of the year.
 
 Yamada, in his Dictionary, says that a man was dressed up as the demon
 of pestilence ; he describes the ceremony gone through of driving him away,
-and gives other particulars which are worth consulting. See also “ Sansai-
-dzuye,” iv. 27.
+and gives other particulars which are worth consulting. See also “ Sansaidzuye,” iv. 27.
 
 Tylor quotes several examples of allied superstitious practices in his
 , Primitive Culture,” li. p. 199, to which may be added the following from
@@ -23898,9 +21948,6 @@ XXX. 9.
 
 
 XXX. I
-
-
-390 NIHONGI.
 
 
 province of Michinoku, begged permission to shave off their
@@ -23994,8 +22041,7 @@ their labourers should be allowed four holidays in the month.
 
 5th month, 22nd day. Nemaro, Hashi no Sukune, was
 directed to convey to the Condolence Envoys from Silla, Kim
-Tona, of Keupson rank, and his colleagues, an Imperial mes-
-sage, as follows :—‘‘ The Ministers of the Council of State, by
+Tona, of Keupson rank, and his colleagues, an Imperial message, as follows :—‘‘ The Ministers of the Council of State, by
 order of the Empress, make this communication. In the first
 year of the reign, Norimaro, Tanaka no Ason and others were
 sent to announce the decease of the late Emperor. Then Silla
@@ -24026,9 +22072,6 @@ dD. G5 5
 NOOK LO
 
 
-392 NIHONGI.
-
-
 the Imperial message, so that if it is said that an official of the
 rank of So-phan should receive the Imperial commands, this
 would be at variance with former precedent.
@@ -24036,8 +22079,7 @@ would be at variance with former precedent.
 Again, when the Emperor who ruled the Empire from: the
 Palace of Afumi' died, Kim Sal-yu, of I]-kil-son rank, was sent
 to offer condolence. But now an official of the rank of Keupson
-offers condolence, which again is contrary to precedent. More-
-over Silla has always addressed the Emperor saying :—‘ Our
+offers condolence, which again is contrary to precedent. Moreover Silla has always addressed the Emperor saying :—‘ Our
 country, since the reigns of the remote Imperial ancestors or
 Japan, is a land which does service, never allowing the oars of
 its ordered ships to become dry.’ Yet now but one ship is
@@ -24066,11 +22108,9 @@ this Imperial message and deliver it to your King.”
 Viceroy of Tsukushi and others.
 
 2nd day. The Imperial Prince Shiki, Sukuna-maro, Sami
-no Ason, of Jiki-kwo-shi rank, Mugohe, Hata no Ason, Muma-
-kahi, Iyobe no Muraji, of Gon-kwo-shi rank, Okina, Mitsugi no
+no Ason, of Jiki-kwo-shi rank, Mugohe, Hata no Ason, Mumakahi, Iyobe no Muraji, of Gon-kwo-shi rank, Okina, Mitsugi no
 Imiki, Ta-uchi, Ohotomo no Sukune, of Mu-dai-san rank,
-Tayasu, Kose no Ason, and others were appointed Com-
-missioners for the choice of good words.’
+Tayasu, Kose no Ason, and others were appointed Commissioners for the choice of good words.’
 
 tgth day. Presents of rice, varying in value in each case,
 
@@ -24093,8 +22133,7 @@ Mabito no Ason and others to give the student-priests Mei-so
 and Kwan-chi each 140 kin of floss silk to send to their
 teachers and friends in Silla.
 
-23rd day. The Silla Condolence Envoys Tona and his col-
-leagues were entertained at Wo-gohori' in Tsukushi and were
+23rd day. The Silla Condolence Envoys Tona and his colleagues were entertained at Wo-gohori' in Tsukushi and were
 given presents, varying in the case of each.
 
 29th day. A book of legal enactments’ in twenty-two
@@ -24102,8 +22141,7 @@ volumes was distributed to all the Local Governors.
 
 Autumn, 7th month, 1st day. In accordance with his
 request, the Buddhist priest Jitoku, Yemishi of Michinoku,
-was granted a gold-copper image of Yakushi Butsu and a gold-
-copper image of Kwanze-on Bosatsu, a bell, a dish,* a precious
+was granted a gold-copper image of Yakushi Butsu and a goldcopper image of Kwanze-on Bosatsu, a bell, a dish,* a precious
 curtain, an incense burner, and a banner.
 
 On this day, the Silla Condolence Envoys Kim Tona and
@@ -24150,9 +22188,6 @@ Rigs
 XXX. 14.
 
 
-394 NIHONGI.
-
-
 23rd day: Presents were given to Yatsurina and others,
 Yemishi of Koshi, varying in value in the case of each.
 
@@ -24196,8 +22231,7 @@ presents. The rank of Jiki-kw6-ichi was bestowed on Shima,
 Tajihi no Mabito, of Jiki-kw6-ni rank. His fief was increased
 by 100 houses, which were added to his former grant.
 
-gth month, roth day. Maro, Iso no Kami no Ason, of Jiki-
-kwo6-san rank, Mushina, Ishikaha no Ason, of Jiki-kwo-shi
+gth month, roth day. Maro, Iso no Kami no Ason, of Jikikwo6-san rank, Mushina, Ishikaha no Ason, of Jiki-kwo-shi
 rank, and others were sent to Tsukushi to deliver patents of
 rank and also to inspect the new castle.
 
@@ -24218,13 +22252,11 @@ Castle of Takayasu.
 rank, represented to the Empress his desire to set free 600
 slaves. His petition was granted.
 
-r1th month, 22nd day. Ihanari, Takata no Obito, of Tsui-
-kw6-ni rank, was complimented in the market-place on his
+r1th month, 22nd day. Ihanari, Takata no Obito, of Tsuikw6-ni rank, was complimented in the market-place on his
 proficiency in the use of the three weapons,' and presents were
 given him.
 
-12th month, 8th day. The game of suguroku” was pro-
-hibited.
+12th month, 8th day. The game of suguroku” was prohibited.
 
 4th year, Spring, rst month, 1st day. Mononobe no Maro®
 no Ason set up great shields.“ Nakatomi no Ohoshima no
@@ -24274,15 +22306,12 @@ A.D. 690.
 6:6. Oe
 
 
-396 NIHONGI.
-
-
 2nd day. The Ministers and public functionaries presented
 their respects at Court with the same state as at the New
 Year’s audience.
 
 Tajihi no Shima no Mabito and Fuse no Renan no beret
-presented their congratulations to the Empress on n her < accession
+presented their congratulations to the Empress on n her ( accession
 to the throne.
 
 3rd day. A banquet was given to the Ministers i in the i inner
@@ -24399,9 +22428,6 @@ Jiki-kwo-shi may wear all manner of thin silk gauzes, etc., of
 XXX. 175
 
 
-398 NIHONGI.
-
-
 one breadth and two kinds. Both the higher and lower ranks
 should ordinarily wear girdles of variegated silk and white
 trousers. Other matters to remain as usual.”
@@ -24471,8 +22497,7 @@ part in the “retreat.’”’' Separately alms were bestowed, on
 behalf of the Prince Imperial, on 329 priests of three temples
 who had taken part in the “ retreat.”
 
-18th day. Envoys were sent to worship the Great Absti-
-nence Deity of Hirose, and the Wind-gods of Tatsuta.
+18th day. Envoys were sent to worship the Great Abstinence Deity of Hirose, and the Wind-gods of Tatsuta.
 
 8th month, 4th day. The Empress visited the Palace of
 Yoshino.
@@ -24495,8 +22520,7 @@ poll-tax be collected for the year in the capital.”
 
 23rd day. Three priests who had gone to the Land of Great
 Thang for study, named Chi-shiu, Gi-toku, and Jé-gwan, and
-a private soldier named Ohotomobe no Hakama, of the dis-
-trict of Upper Yame in the province of Tsukushi, returned to
+a private soldier named Ohotomobe no Hakama, of the district of Upper Yame in the province of Tsukushi, returned to
 Tsukushi in the train of the Silla Escort Envoy, Kim Ko-hun,
 of Té-na-ma rank.
 
@@ -24525,9 +22549,6 @@ XXX. 18.
 
 
 DOXOXG 10)
-
-
-400 NIHONGI.
 
 
 22nd day. An Imperial order was given to Ohotomobe no
@@ -24598,8 +22619,7 @@ his colleagues took their departure.
 Yoshino.
 
 19th day. The Empress went to Fujihara, and inspected
-the site for the Palace. All the Ministers and public function-
-aries accompanied her.
+the site for the Palace. All the Ministers and public functionaries accompanied her.
 
 23rd day. Presents were given to the Ministers and officials
 of lower rank, varying in value in the case of each.
@@ -24611,8 +22631,7 @@ the Blood, the Princesses, and the lady officials of the Palace.
 7th day. Presents of eatables, drinkables, and clothing were
 given to the Ministers. Rich presents varying in value in the
 case of each were made to Y6 Syén-kwang, of Shd-kwo-shi
-rank, and to Won-pong, Nyang-no, and Nam-chydn, of Jiki-dai-
-shi rank, Princes of Pékché.
+rank, and to Won-pong, Nyang-no, and Nam-chydn, of Jiki-daishi rank, Princes of Pékché.
 
 13th day. An increase of 2000 houses was made to the fief
 of the Imperial Prince Takechi, which, added to his previous
@@ -24621,8 +22640,7 @@ Jo-kwo-ni rank, there were given 500 houses; to the Imperial
 Prince Kahashima, of Jo-dai-san rank, 100 houses, which, added
 to his previous fief, made 500 houses; to the Udaijin, Tajihi no
 Shima Mabito, of Sho-kwo-san rank, 300 houses, which, added to
-his previous fief, made 500 houses; to thePékché Prince Chyén-
-kwang, of Sho-kwo-shi rank, roo houses, which, added to his
+his previous fief, made 500 houses; to thePékché Prince Chyénkwang, of Sho-kwo-shi rank, roo houses, which, added to his
 
 
 DOOd ier
@@ -24639,8 +22657,7 @@ houses, which, added to their previous fiefs, made 300 houses.
 Others received additions to their fiefs which varied in amount
 for each.
 
-14th day. An edict was made, as follows :—‘‘ Masaru, Tsuku-
-shi no Fubito, of Jiki-kwo-shi rank, ever since his appointment
+14th day. An edict was made, as follows :—‘‘ Masaru, Tsukushi no Fubito, of Jiki-kwo-shi rank, ever since his appointment
 twenty-nine years ago as Secretary to the Viceroy of Tsukushi,
 has been upright and faithful, and has not been guilty of any
 
@@ -24655,9 +22672,6 @@ VOL,° II. dd
 
 
 XXX. 21
-
-
-402 NIHONGI.
 
 
 remissness. He is, therefore, granted a sustenance-fief of
@@ -24704,8 +22718,7 @@ of a House, and already struck off the register of slaves, may
 not be claimed again as slaves by members of that House.”
 
 Kudara, Kami no Sukuri, Doctor of the University, was
-granted 1000 sheaves of the greater tax-rice, as an encourage-
-ment to his learning.
+granted 1000 sheaves of the greater tax-rice, as an encouragement to his learning.
 
 11th day. Envoys were sent to worship the Great Abstinence
 Deity of Hirose, and the Wind-gods of Tatsuta.
@@ -24729,8 +22742,7 @@ Jiro. 403
 22nd day. The Empress returned from the Palace of
 Yoshino.
 
-5th month, 21st day. Syun-mu-mi-cha of Pékché was com-
-mended for his services during the year Midzunoye Saru, was
+5th month, 21st day. Syun-mu-mi-cha of Pékché was commended for his services during the year Midzunoye Saru, was
 granted the rank of Jiki-dai-san, and received presents of coarse
 silk and cloth.
 
@@ -24738,11 +22750,9 @@ silk and cloth.
 provinces.
 
 1gth day. An edict was issued, as follows :—‘‘ This summer
-profuse rain has fallen beyond measure, and We fear that cer-
-tainly injury will be caused to the grain-crops. Our anxiety of
+profuse rain has fallen beyond measure, and We fear that certainly injury will be caused to the grain-crops. Our anxiety of
 the night lasts until the morning, as We ponder where the blame
-for this lies. Now We command you, our Ministers and. func-
-tionaries, to prohibit the use of strong drink and animal food,
+for this lies. Now We command you, our Ministers and. functionaries, to prohibit the use of strong drink and animal food,
 to compose your hearts and repent of your sins. Moreover let
 the priests of the Temples of the capital and of the Home
 provinces read the Sutras for a space of five days. It may
@@ -24756,8 +22766,7 @@ the Empire. Thieves and robbers were, however, excepted.
 Autumn, 7th month, 3rd day. The Empress visited the
 Palace of Yoshino. On this day, Norimaro, Tanaka no Ason,
 Governor of the province of Iyo, and others presented three kin
-and eight rid of silver and a basket of ore of Mount Mimtma-
-yama in the district of Uwa.
+and eight rid of silver and a basket of ore of Mount Mimtmayama in the district of Uwa.
 
 7th day. A banquet was given to the Ministers and presents
 of Court dress made them.
@@ -24787,9 +22796,6 @@ NORUXS (232
 XXX. 23.
 
 
-404 NIHONGI.
-
-
 23rd day. Envoys were sent to worship the Wind-gods of
 Tatsuta, and the Gods of Suha' and Minuchi, in Shinano.
 
@@ -24815,8 +22821,7 @@ misasagi houses are insufficient, let the want be supplied by
 peasants, whose forced labour shall be remitted, and who shall
 be changed once in three years.”
 
-13th day. Long-life places,’ each of Io00 paces, were insti-
-tuted in the Home and other provinces.
+13th day. Long-life places,’ each of Io00 paces, were instituted in the Home and other provinces.
 
 On this day the Empress went to the Palace of Yoshino.
 
@@ -24877,8 +22882,7 @@ XXX. 24,
 rank of Jiki-dai-san and below, onechd. From the Gon grades ~
 
 
-down to officials who have no rank, let the number of in-
-habitants of their fiefs be taken asa guide, first class fiefs having
+down to officials who have no rank, let the number of inhabitants of their fiefs be taken asa guide, first class fiefs having
 one cho, second class half a cho, and third class a quarter of
 acho. Princes shall fo low the same rule.”
 
@@ -24921,9 +22925,6 @@ above.
 AeD. 692.
 
 
-406 NIHONGI.
-
-
 1gth day. Orders were given tothe Board of Punishments to
 release short-sentence prisoners.
 
@@ -24945,8 +22946,7 @@ XXX. 25.
 
 charge of the Palace during the Empress’s absence. Upon
 this the Chunagon, Takechi-maro, Miwa no Ason, divested
-himself of his cap-rank and delivered it up to the Court, reite-
-rating his remonstrance, and saying :—‘‘ During the season of
+himself of his cap-rank and delivered it up to the Court, reiterating his remonstrance, and saying :—‘‘ During the season of
 agricultural operations the (Imperial) chariot should not be
 moved.”’
 
@@ -24967,8 +22967,7 @@ labourers employed in constructing temporary Palaces. There
 was a general pardon for the Empire, which, however, did not
 comprise thieves and robbers.
 
-19th day. Fifty sheaves of rice for each person were pre-
-sented to men and women of eighty years of age and upwards,
+19th day. Fifty sheaves of rice for each person were presented to men and women of eighty years of age and upwards,
 common people of the province of Shima, through which the
 Empress passed. |
 
@@ -24992,8 +22991,7 @@ Jiro. 407
 forced labour for this year were remitted to those houses from
 which horsemen had been provided for the Empress’s service
 in the provinces of Afumi, Mino, Wohari, Mikaha, and Tétédmi,
-to the baggage-coolies and to the labourers employed in con-
-structing temporary Palaces in every province. An Imperial
+to the baggage-coolies and to the labourers employed in constructing temporary Palaces in every province. An Imperial
 decree was also made that three sheaves of rice for each man,
 ‘and two for each woman, should be given to all poor and
 distressed common people in the Empire.
@@ -25003,8 +23001,7 @@ Jiki-dai-ni was bestowed on Tomokuni, Ohotomo no Sukune,
 and a contribution made towards his funeral expenses.
 
 5th day. With the exception of common people of the
-four Home provinces,’ the men who had acted as baggage-
-coolies were exempted from commuted taxes and forced labour
+four Home provinces,’ the men who had acted as baggagecoolies were exempted from commuted taxes and forced labour
 for the year.
 
 19th day. Messengers were sent to pray to the Great
@@ -25030,8 +23027,7 @@ during her stay in the temporary Palace of Ago, were granted
 
 
 exemption for ten years from commuted taxes and_ forced
-labour, and from miscellaneous corvées. Further, eight boat-
-men had their commuted taxes and forced labour remitted for
+labour, and from miscellaneous corvées. Further, eight boatmen had their commuted taxes and forced labour remitted for
 the year.
 
 7th day. The Governor of the province of Sagami presented
@@ -25047,9 +23043,6 @@ in the district of Miura. .
 
 1 Yamato, Yamashiro, Kahachi, and Settsu. Idzumi was at this time
 reckoned as a part of Kahachi.
-
-
-408 NIHONGI.
 
 
 mountains, and to the hills and rivers, to pray to them for
@@ -25069,8 +23062,7 @@ were sent to perform a service for the tranquillity of the site
 of the Palace of Fujihara.
 
 26th day. Envoys were sent to make offerings to the Great
-Gods of the following four places, viz.: Ise, Yamato, Sumi-
-yoshi, and Kii, and to announce to them the erection of the
+Gods of the following four places, viz.: Ise, Yamato, Sumiyoshi, and Kii, and to announce to them the erection of the
 new Palace.
 
 Intercalary 5th month, 3rd day. Great floods. Com:
@@ -25191,9 +23183,6 @@ XNN_ 29.
 A.D 693.
 
 
-410 NIHONGI.
-
-
 14th day. The Department of the Shinto religion laid
 before the Empress four volumes of sacred treasures,’ nine
 keys, and one wooden stamp.
@@ -25220,8 +23209,7 @@ to study in Silla as a priest.
 
 11th month, 8th day. Silla sent Pak Ok-ték, and Kim
 Sim-sal, of Keupson rank, etc., as tribute-bearers. Presents
-were made of various values to Oyu, Okinaga no Mabito, of Jiki-
-kw6-shi rank, and to Tsura, Kahachi no Imiki, of Mu-dai-ni
+were made of various values to Oyu, Okinaga no Mabito, of Jikikw6-shi rank, and to Tsura, Kahachi no Imiki, of Mu-dai-ni
 rank, etc., whom it was proposed to send as Envoys to Silla.
 
 11th day. Pak Ok-tdk, of Silla, was entertained, and received
@@ -25237,8 +23225,7 @@ rice-land, four cho being given to each.
 24th day. Daibu were sent to deliver the tribute from Silla to
 the five shrines of Ise, Sumiyoshi, Kii, Yamato, and Unatari.’
 
-7th year, Spring, ist month, 2nd day. The rank of Jo-kwo-
-ichi was bestowed on the Imperial Prince Takechi, and that of
+7th year, Spring, ist month, 2nd day. The rank of Jo-kwoichi was bestowed on the Imperial Prince Takechi, and that of
 Jo-kwo- ni on the Imperial Princes Naga and Yuge.
 
 On this day an Imperial edict was issued directing that the
@@ -25280,15 +23267,13 @@ A priest of Funase named Ho-kyo was given three chi of :
 
 rice-land.
 
-On this day, men of Aya gave a performance of Arare-
-bashiri.'
+On this day, men of Aya gave a performance of Ararebashiri.'
 
 2nd month, 3rd day. Silla sent Kim Kang-nam, of Sason
 rank, and Kim Yang-won, of Han-na-ma rank, to announce
 the mourning for the King.’
 
-roth day. Prince Kinunuhi and his colleagues, the Com-
-missioners for the construction of the capital, were ordered to
+roth day. Prince Kinunuhi and his colleagues, the Commissioners for the construction of the capital, were ordered to
 bury the bodies which had been dug up.
 
 30th day. Thirty-seven castaways from Silla, named Mucha,
@@ -25297,8 +23282,7 @@ Monyé, etc., were handed over to Ok-ték and his party.
 3rd month, 1st day. There was an eclipse of the sun.
 
 5th day. A sustenance-fief of thirty houses was granted to
-Kudara, Kami no Sukuri, Doctor of the University, of Gon-
-kwo-ni rank, for the promotion of Chinese learning.
+Kudara, Kami no Sukuri, Doctor of the University, of Gonkwo-ni rank, for the promotion of Chinese learning.
 
 6th day. The Empress visited the Palace of Yoshino.
 
@@ -25308,8 +23292,7 @@ funeral expenses, were granted to Ohoshima, Fujihara no Ason.
 13th day. The Empress arrived from the Palace of Yoshino.
 
 16th day. Presents of coarse silk, floss silk, and cloth of
-various values were given to Oyu, Okinaga no Mabito, of Jiki-
-kwo-shi rank, and Kogimi, Ohotomo no Sukune, of Gon-dai-ni
+various values were given to Oyu, Okinaga no Mabito, of Jikikwo-shi rank, and Kogimi, Ohotomo no Sukune, of Gon-dai-ni
 rank, whom it was proposed to send as Envoys to Silla, and
 also to the student priests Bentsii and Shinyei.
 
@@ -25330,15 +23313,11 @@ XXX. 31.
 XXX. 32.
 
 
-412 NIHONGI.
-
-
 Moreover, a present was made for the funeral expenses of
 the King of Silla.
 
 17th day. An Imperial decree was issued directing that the
-cultivation throughout the Empire of such vegetable pro-
-ductions as the mulberry tree, hemp, pears, chestnuts, and
+cultivation throughout the Empire of such vegetable productions as the mulberry tree, hemp, pears, chestnuts, and
 greens,' should be encouraged, as auxiliaries to the five grains.
 
 Summer, 4th month, 17th day. Daibu were sent as Envoys
@@ -25347,8 +23326,7 @@ were sent to pray to the Great Abstinence Deity of Hirose, and
 to the Wind-gods of Tatsuta.
 
 22nd day. Ohotomo no Wobito, Vice-President of the
-Inner Treasury, was by an Imperial decree convicted of dis-
-honest practices, reduced two grades in rank, and dismissed
+Inner Treasury, was by an Imperial decree convicted of dishonest practices, reduced two grades in rank, and dismissed
 from the office he then held. Two clerks named Oisome no
 Ohoku and Uno no Ohotomo were also convicted of dishonest
 practices, reduced one grade in rank, and dismissed from the
@@ -25374,8 +23352,7 @@ Pok-ka was restored to the laity.
 
 4th day. The rank of Jiki-kwo-shi was bestowed on Fitome,
 Hikeda no Ason, Karita, Mori no Kimi, Maro, Kose no Ason,
-Omi-maro, Fujihara no Ason, Tayasu, Kose, no Ason, Ike-
-mori, Tajihi no Mabito, and Maro, Ki no Ason, in all seven
+Omi-maro, Fujihara no Ason, Tayasu, Kose, no Ason, Ikemori, Tajihi no Mabito, and Maro, Ki no Ason, in all seven
 persons.
 
 Autumn, 7th month, 7th day. The Empress visited the
@@ -25428,8 +23405,7 @@ to persons of initial rank. Those of JO cap-rank down to Jiki
 cap-rank were each to have one suit of armour, one sword, one
 bow, one set of arrows, one elbow- pad,’ and one saddle-horse.
 Those of Gon cap-rank to Shin or initial cap-rank were each
-to have one sword, one bow, one set of arrows, and one elbow-
-pad. Such were to be their provision.
+to have one sword, one bow, one set of arrows, and one elbowpad. Such were to be their provision.
 
 23rd day. The Jin-no* Sutra was begun to be expounded
 in the hundred provinces. This came to a close after four
@@ -25457,15 +23433,11 @@ A.D. 6094.
 XXX. 34.
 
 
-414 NIHONGI.
-
-
 14th day. The Priests Hod-yen, Zen-d, and Shin-gi were
 sent to the district of Yasu in the province of Afumi, to try
 the spring of cordial ' waters.
 
-23rd day. The rank of Jiki-dai-shi was bestowed on Sukuna-
-maro, Hikeda no Ason, of Jiki-kwo-shi rank, and he was
+23rd day. The rank of Jiki-dai-shi was bestowed on Sukunamaro, Hikeda no Ason, of Jiki-kwo-shi rank, and he was
 granted a sustenance-fief of fifty houses.
 
 12th month, 21st day. Professors of the art of’ war were
@@ -25474,27 +23446,23 @@ sent to give instruction and training in the various provinces.
 8th year, rst month, 2nd day. The rank of Sho-kwo-shi was
 granted to Miaruji, Fuse no Ason, of Jiki-dai-ichi rank, and to
 Miyuki, Ohotomo no Sukune, with an increase of 200 houses
-to the fiefs of each, amounting with those held by them pre-
-viously to five hundred houses. They were also constituted
+to the fiefs of each, amounting with those held by them previously to five hundred houses. They were also constituted
 the senior members of their Houses.
 
 7th day. An entertainment was given to the Ministers.
 
 15th day. The Empress received presents of firewood.
 
-16th day. An entertainment was given to the public func-
-tionaries.
+16th day. An entertainment was given to the public functionaries.
 
-17th day. The men of Aya gave a performance of Arare-
-bashiri.
+17th day. The men of Aya gave a performance of Ararebashiri.
 
 Those of the fifth rank and upwards had archery.
 
 18th day. Those of the sixth rank and downwards had
 archery. After four days it came to an end.
 
-19th day. The men of Thang gave a performance of Arare-
-bashiri.
+19th day. The men of Thang gave a performance of Ararebashiri.
 
 21st day. The Empress visited the Palace of Fujihara, and
 returned to the Palace on the same day.
@@ -25541,20 +23509,17 @@ native copper in the province.of Musashi. This was the occasion of the
 name Wado (workable copper, not mere ore) being given to the year-period
 which began with 708.
 
-The “‘ Nihonshi ” contains a notice under the year 698 of copper being pre-
-sented by the province of Inaba. This is the first historical notice of the
+The “‘ Nihonshi ” contains a notice under the year 698 of copper being presented by the province of Inaba. This is the first historical notice of the
 production of copper in Japan. It is probable, however, that copper was
 worked long before this time in a country which is so rich in ores of this
 metal. The gold-copper images of Buddha referred to in Suiko Tennd’s
 reign, p. 133, Vol. II. A.D. 605, may have been made of Japanese copper,
 though there is no direct evidence to this effect, and from the frequent
 mention of copper and other metals among the “tribute” articles brought
-from Corea, it is evident that imported copper was well known. The Sun-
-goddess Myth (Vol. I. p. 47) speaks of copper, and there is frequent mention
+from Corea, it is evident that imported copper was well known. The Sungoddess Myth (Vol. I. p. 47) speaks of copper, and there is frequent mention
 of mirrors and bells which were made chiefly of copper.
 
-I think it is not too much to say that there is no positive evidence what-
-ever in the “ Kojiki” or “ Nihongi” of the use of bronze in ancient Japan.
+I think it is not too much to say that there is no positive evidence whatever in the “ Kojiki” or “ Nihongi” of the use of bronze in ancient Japan.
 The Japanese word for bronze, viz. karakane or metal of Kara, indicates that
 the Japanese first became acquainted with this metal as an importation
 from Corea. This word does not occur in the “ Nihongi,” but the term
@@ -25580,19 +23545,12 @@ how far the existence of the objects which he describes can be explained by
 the frequent commercial relations of Japan with the continent is a question
 on which I shall offer no opinion.
 
-See also Anderson’s “ Glyptic Art” in Introduction to Murray’s “ Hand-
-
-
-book,” 2nd ed. p. [10g]. et seqq.
-
-
-416 NIHONGI.
+See also Anderson’s “ Glyptic Art” in Introduction to Murray’s “ Handbook,” 2nd ed. p. [10g]. et seqq.
 
 
 16th day. The Empress made an edict, as follows :—“ In
 the seventh year of our reign, the year Midzunoto Mi of the
-Cycle, a spring of cordial waters bubbled up at Mount Tsuga-
-yama in the district of Yasu in the province of Afumi. Persons
+Cycle, a spring of cordial waters bubbled up at Mount Tsugayama in the district of Yasu in the province of Afumi. Persons
 afflicted with all manner of diseases went to stay at the Temple
 of Yasudera, and great numbers were healed. Therefore four
 cho of rice-land and sixty tan of cloth are granted to it, and the
@@ -25630,8 +23588,7 @@ Yoshino.
 17th day. A contribution was sent towards the funeral
 expenses of the Doctor of Law* Do-yen.
 
-5th month, 6th day. The Ministers and Daibu were enter-
-tained within the inner precincts (of the Palace).
+5th month, 6th day. The Ministers and Daibu were entertained within the inner precincts (of the Palace).
 
 11th day. One hundred copies of the Kin-kw6-myo Sutra
 were sent and deposited in the various provinces, to be read
@@ -25658,8 +23615,7 @@ it. He also received presents.
 Autumn, 7th month, 4th day. Inspectors’ were sent to the
 provinces.
 
-15th day. Envoys were sent to pray to the Great Absti-
-nence Deity of Hirose and to the Wind-gods of Tatsuta.
+15th day. Envoys were sent to pray to the Great Abstinence Deity of Hirose and to the Wind-gods of Tatsuta.
 
 8th month, 17th day. One hundred and four priests were made
 to enter religion for the sake of the Imperial Princess Asuka.
@@ -25694,8 +23650,7 @@ consisting of coarse silk, floss silk, and cloth.
 12th day. A banquet was given to the Ministers and
 Daibu.
 
-gth year, Spring, 1st month, 5th day. The rank of Jé-kwo-
-ni was conferred on the toneri of Imperial Princes.
+gth year, Spring, 1st month, 5th day. The rank of Jé-kwoni was conferred on the toneri of Imperial Princes.
 
 7th day. An entertainment was given to the Ministers and
 Daibu within the inner precinct (of the Palace).
@@ -25719,9 +23674,6 @@ A.D. 695.
 Oe a BU
 
 
-418 NIHONGI.
-
-
 17th day. There was archery lasting for four days.
 
 Intercalary 2nd month, 8th day. The Empress went to the
@@ -25730,8 +23682,7 @@ Palace of Yoshino. |
 15th day. The Imperial car returned to the Palace.
 
 3rd month, 2nd day. Silla sent Prince Kim Nyang-nim, the
-Po-nyéng' Pak Kang-kuk, of Sal-son® rank, and Kim Chyu-
-han and Kim Chhyung-syén, of Han-na-ma rank, to present a
+Po-nyéng' Pak Kang-kuk, of Sal-son® rank, and Kim Chyuhan and Kim Chhyung-syén, of Han-na-ma rank, to present a
 memorial regarding the government of their country, to offer
 tribute and to bring presents.
 
@@ -25747,14 +23698,10 @@ Summer, 4th month, gth day. Envoys were sent to pray to
 the Great Abstinence Deity of Hirose and to the Wind-gods
 of Tatsuta. .
 
-17th day. The posthumous rank of Jiki-kwo-san was con-
+17th day. The posthumous rank of Jiki-kwo-san was conferred on Yemishi, Kamo no Ason, and a contribution made
 
 
-ferred on Yemishi, Kamo no Ason, and a contribution made
-
-
-towards his funeral expenses. [His original rank was Gon-
-dai-ichi.| The posthumous rank of Jiki-dai-shi was conferred
+towards his funeral expenses. [His original rank was Gondai-ichi.| The posthumous rank of Jiki-dai-shi was conferred
 on Akamaro, Fumi no Imiki, and a contribution made towards
 his funeral expenses. [His original rank was Dai-san-chiu. |
 
@@ -25831,16 +23778,14 @@ Yoshino.
 
 13th day. The Empress arrived from Yoshino.
 
-Prince Hatsuse was granted the (posthumous) rank of Jo-
-dai-shi, and a contribution made for his funeral expenses.
+Prince Hatsuse was granted the (posthumous) rank of Jodai-shi, and a contribution made for his funeral expenses.
 
 roth year, Spring, Ist month, 7th day. The Ministers and ooE 696.
 
 ‘ 5 . 38.
 Daibu were entertained.
 
-11th day. The rank of Jiki-dai-shi was conferred on Nam-
-chy6n, Prince of Pékché.
+11th day. The rank of Jiki-dai-shi was conferred on Namchy6n, Prince of Pékché.
 
 15th day. Firewood was presented to the Empress.
 
@@ -25863,9 +23808,6 @@ t2th day. Presents were given of coats and trousers of
 Si ae
 
 
-420 NIHONGI.
-
-
 brocade, of dark red and deep purple coarse silks, of axes, etc.,
 to Inari and Mushi, Yemishi of Watarijima of Koshi, and to
 
@@ -25877,8 +23819,7 @@ Summer, 4th month, roth day. Envoys were sent to pray
 to the Great Abstinence Deity of Hirose and to the Wind-gods
 of Tatsuta.
 
-27th day. The rank of Tsui-dai-ni was conferred on Mono-
-nobe no Kusuri, of the district of Kazehaya in the province of
+27th day. The rank of Tsui-dai-ni was conferred on Mononobe no Kusuri, of the district of Kazehaya in the province of
 Iyo, and to Mibu no Moroshi, of the district of _Kahashi in the
 province of Higo. Moreover, each of them received presents
 of 4 hiki of coarse silk, 10 bundles of raw silk, 20 tan of cloth,
@@ -25897,13 +23838,11 @@ for. their long sufferings in the Thang country.’
 28th day. The Empress went to the Palace of Yoshino.
 
 5th month, 2nd day. By Imperial command the title of
-Imiki was conferred? on Tsunade, Hada no Miyakko, of Dai-
-kin-jo rank.
+Imiki was conferred? on Tsunade, Hada no Miyakko, of Daikin-jo rank.
 
 4th day. The Empress arrived from Yoshino.
 
-8th day. The rank of Jiki-kwé-shi was conferred on Oho-
-sumi, Wohari no Sukune, and he was also given forty cho of
+8th day. The rank of Jiki-kwé-shi was conferred on Ohosumi, Wohari no Sukune, and he was also given forty cho of
 rice-land.
 
 13th day. The posthumous rank of Jiki-kwo-shi was granted
@@ -25936,10 +23875,7 @@ Hence the epithet “after.”
 Jiro. 421
 
 
-8th month, 25th day. The rank of Jiki-kwd-ichi was con-
-
-
-ferred on Homuchi, Oho no Omi, and presents given him as a
+8th month, 25th day. The rank of Jiki-kwd-ichi was conferred on Homuchi, Oho no Omi, and presents given him as a
 
 
 reward for his services from the beginning, and for his strict
@@ -25949,8 +23885,7 @@ guardianship of the barrier.’
 
 
 gth month, 15th day. The posthumous rank of Jiki-dai-ichi
-was conferred on Those, Waka-zakurabe no Ason, and a contri-
-bution made towards his funeral expenses, in honour of his
+was conferred on Those, Waka-zakurabe no Ason, and a contribution made towards his funeral expenses, in honour of his
 services from the beginning.
 
 Winter, roth month, 17th day. The Udaijin, Tajihi no
@@ -26006,9 +23941,6 @@ A.De 697.
 XXX, 40.
 
 
-422 NIHONGI.
-
-
 Apparent,' Atomi, Michi no Mabito, of Jiki-kwo-san rank, was
 appointed Director of the Spring Palace,” and Ahamochi, Kose
 no Ason, of Jiki-dai-shi rank, Assistant Director.
@@ -26059,8 +23991,7 @@ twenty sheaves of rice each.
 
 1 The recognition in this capacity of Prince Aru, grandson of Temmu
 Tenno and son of the Prince Imperial Kusakabe, afterwards Mommu Tenné,
-on the sixteenth day ofthis month, is Feconded by other authors, but is some-
-how omitted in the “ Nihongi.”
+on the sixteenth day ofthis month, is Feconded by other authors, but is somehow omitted in the “ Nihongi.”
 
 _? The Heir-Apparent’s Palace.
 
@@ -26099,3414 +24030,3 @@ the application of this Indian practice to a Japanese sovereign.
 
 THE END.
 
-
-Oe a2
-
-
-ERRATA ET ADDENDA.
-
-
-VOL, J.
-
-
-Page 2, line 3. For ‘drawn out’ read ‘ diffused,’
-
-
-”
-
-
-4. The character !{ is sometimes transliterated no and sometimes
-nu—a confusion common with the Japanese themselves.
-
-5, 1.15. For ‘it had’ read ‘which has.’
-
-6, note 2. For Oho-to nochi Florenz plausibly suggests Oho-tono-ji,
-i.e. ‘the elder of the august palace.’
-
-note 3. Omotaru. Better ‘ face-perfect.’
-
-note 3. Florenz suggests with great probability that awo is here
-only an interjection like aya.
-
-last line of notes. For ‘ Jirja’ read ‘Jinja.’
-
-8, line 14 from bottom. For ‘ place’ better ‘ female.’
-
-9,1. 11. For ‘game’ read ‘ gane.’
-
-1o, note. For ‘ first jewel’ read ‘lucky jewel.’
-
-14, 1.14. For ‘ Chi-iwo-aki’ read ‘ Chi-i-ho-aki,’
-
-near bottom. For ‘has a place,’ etc., read ‘is completely formed
-and has a place called.’
-
-15, near bottom. Read ‘To think of the words of the woman having
-been spoken first !’
-
-18, near bottom of text. For ‘ladder’ read ‘ pillar.’
-
-23, 1. 15, 18. For ‘suchi’ read ‘ dzuchi.’
-
-l.29. Omit ‘no Kami’ after ‘ Kura 0 Kami?’
-note 4. Read ‘in error for yase, having many reaches.’
-
-24,1.7. For ‘ Izanami’ read ‘ Izanagi,’
-
-26, 1. 3 from bottom. For ‘I will wash’ read ‘ So he washed,’
-
-27,1.14. For ‘Soko’ read ‘ Uha.’
-
-31, note 7. Na is here probably for no, the genitive particle.
-
-40, line 5 from bottom. For ‘when the seed,’ etc., read ‘in spring
-sowed seed over again, and broke down,’ etc.
-
-42, add to note 2 :—‘ Here and at p. 186 the Eternal Land is probably
-the continent of Asia. The cock is called Kuda-kake in the “ Ise-
-Monogatari” (Mabuchi’s Edition II. 44), where Mabuchi explains
-Kuda as put for Kudara, the name of a Corean kingdom,’
-
-47, 1.24. For ‘drew herself up,’ etc., read ‘felt ill all over.’
-
-near bottom, add note :—‘ This is the literal translation, but, as we
-learn from the “ Shiki,” the ‘‘ combs ” here mentioned were really
-
-
-426
-
-
-ErrATA ET ADDENDA.
-
-
-Sakaki branches stuck in the ground with tree-fibre hung from
-them as offerings.’
-
-
-Page 48, 1. 12, 13. For ‘he’ read ‘were.’ _
-
-
-49, 1. 12. For ‘ Ono-kori-dome’ read ‘ Ishi-kori-dome.’
-
-51, 1.16 and 21. Transpose ‘ right’ and ‘left’ in these lines.
-
-55,1. 10, 14. For ‘ Mitsu’ read ‘ Mi.’
-
-1. 13. After ‘yashima’ add ‘de,’ and at the end of note 5 the
-word ‘ hand.’
-
-56, 1. 20. : For ‘ Ina’ read ‘ Ma.’
-
-57, 1. 18 et seqq. For ‘Iso’ read ‘I.’
-
-60, 1. 4. Read ‘can we say,’ etc.
-
-64, 1. 8. For ‘hoho ninigi’ read ‘ho no ninigi.’
-
-66, 1. 16. ‘The sparrows,’ etc., should not be indented.
-
-675): 64 Omit,‘ parents,’
-
-l.9. Better ‘abhor mistaking.’
-69, note 5. Mars and Jupiter are also mentioned.
-71,1.4. Read ‘Oho-yama tsu mi no Kami.’
-
-note 4. After ‘muro’ insert ‘except in composition.’
-
-72, add to note :—‘ Blackmore, in “ Lorna Doone,” mentions a practice
-in the West of England “ of keeping all rooms underground. We
-say that thus we keep them warmer, both for cattle and men in
-the time of winter, and cooler in the summer time.”’
-
-74, 1.22. Read ‘ the coffined corpse.’
-
-81, 1. 13. For ‘loyal behaviour’ read ‘ extreme loyalty.’
-
-1. 6 from bottom. Before ‘Ma-hitotsu’ insert ‘Ame no,’
-
-83, 1. 11. After ‘attendance’ add ‘in the hall.’
-
-85,1. 10. Read ‘ Now I suspect that it is not my child.’
-
-89, 1. 23. Read ‘Chichi hime no Mikoto, daughter of Honohata hime,
-daughter of,’ etc.
-
-1. 6 from bottom. Add ‘Ama no’ before ‘ Kaguyama.’
-last line but one et seqq. For ‘she’ read ‘he.’
-
-gi, l. 19. Read ‘Tama-yori hime no Mikoto, child of Yorodzu hata
-hime, child of Taka mimusubi no Mikoto.’
-
-1]. 24. Read ‘ Kachi-haya-bi.’
-1. 26. Add ‘ Hono’ before ‘ Ninigi,’
-
-93,1. 1. Before ‘ Hoho-demi’ add ‘ Hiko,’
-
-95, 1. 4 from bottom. After ‘acquired’ insert ‘a sea-gift while the
-younger brother Hiko-hoho-demi no Mikoto had acquired.’
-
-
-96, margin. - For ‘ 32’ read ‘ 37.’
-
-
-1. 3. Omit ‘ Cassia.’
-
-97, 1.7. Filth of earth, The human body is meant. A Buddhist
-idea.
-
-100, note. There are earlier mentions of the Hayato, but their institu-
-tion as an Imperial guard probably belongs to the latter end of
-the seventh century. There’are numerous indications that this
-legend is of recent date.
-
-KO3s 13.56,, » Fora’ read Tow
-
-
-a
-
-
-ERRATA ET ADDENDA. 427
-
-
-Page 104, 1.18. For ‘bathing women’ read ‘ warm-drink-women,’ and for
-
-
-‘washerwoman’ read ‘ bathing-woman.’
-106, 1. 8. After ‘dais’ add ‘ and invited him to come in.’
-107, 1. 3. For ‘teach it to me’ read ‘save me therewith.’
-tog. After the Chinese characters insert ‘or Tenno.’
-110, |. 12. For ‘pointing to’ read ‘including all.’
-add to note :—‘ The legend related at p. 128 is an additional indica-
-tion of an earlier settlement of Yamato by emigrants from the
-West. The “ Kiujiki” states that Nigi-hayahi descended from
-Heaven in Kahachi, and subsequently removed to Yamato.’
-111, line 2 from bottom. Read ‘and causing him to take it, pulled
-him,’ etc.
-1. 21. Read ‘ships and oars’ instead of ‘ helms of his ships.’
-1.6. For‘ Kafuchi’ here and elsewhere read ‘ Kahachi.’
-113, l. 11. After ‘Ikoma’ read ‘and in this way to enter,’ etc.
-115,1. 7. For ‘chastise’ read ‘reduce.’
-1.8. For ‘I can’ read ‘and,’ and omit ‘upon which’ in next line.
-1. 8 from bottom. Read ‘the Emperor’s army.’
-1. 4 from bottom. For ‘wandered about’ read ‘were stayed and
-knew not whither,’ etc.
-116, 1.9. After ‘body’ insert ‘ opened out a way across the mountains
-and.’
-1208 ].2.0 Ror “they dead “he?
-last line. No ko, ‘the child of,’ should be taken as part of the
-name, viz. Iha-oshi wake no ko. Similarly Nihe-motsu no ko a
-few lines further down.
-119, 1.12. By ‘force of men,’ ‘army of women,’ is probably intended
-only virile or strong troops and effeminate or weak troops.
-120, 1.18. After grass add ‘rain coat and.’
-1.24. Read ‘whether or not I shall be successful in founding the
-
-
-Empire.’ :
-
-121, 1. 19. Read after ‘river’ ‘Their mouths turned downward and
-after,’ etc.
-
-122. Inthe poetry repeat the line ‘Like the Shitadami’ after ‘my
-boys.’
-
-
-123. In the poetry add after ‘ stay ’—
-
-
-‘Though men in plenty
-Coming enter and stay.’
-
-
-1. 13. Read ‘I will stand up and sing.’
-
-The same correction in |. 16.
-124. Transpose the two poems on this page.
-
-1. 2 from bottom. Read ‘ten and more.’
-125, 1.20. Add ‘thus’ before ‘ cried.’
-126, 1.15. Better ‘were not without weariness ’—
-
-After first line of poetry insert the line, ‘ With shields in a row.’
-127. Transpose the poems.
-
-
-428 ERRATA ET ADDENDA.
-
-
-Page 129, 1.4. For ‘Tada’ read ‘ Hata.’ af
-1.5. The Japanese have indifferently hafuri or hofuri. Hafuri is
-the proper spelling, hofuri being meant to represent the contracted
-
-form hori.
-
-» 130,1.9. After ‘ Katsuraki’ read ‘ Now the ancient name of the land of
-Ihare was Kataru or Katatachi.’
-
-» 131,note 6. For ‘evergreen’ read ‘ deciduous.’
-
-» 133,16. Better read ‘to use allusive verses and topsy-turvy words
-SO as,’ etc.
-
-» 134,1.6. For ‘ Katsurano’ read ‘ Kadono.’
-
-» 138, 1.2. Omit ‘ Hohodemi.’
-
-1. 3. Add ‘hime ’ after ‘ Isuzu.’
-], 10. For ‘Kama’ read ‘ Kami.’
-» 142,1.9. Before ‘ daughter’ insert ‘ Howi-hime.’
-» 148, 1.6. After ‘Emperor’s’ insert ‘ younger.’
-l. 10. After ‘Awotama’ insert ‘ Kake.’
-l. 11. After ‘yasu’ add ‘ hiko.’
-1. 6 from bottom. ‘Ancestor of the Hodzumi no Omi’ should come
-in at the end of the sentence.
-
-» 50,1. 8. For ‘of wide culture’ read ‘ broad-minded,’
-
-1. 5 from bottom. Read ‘ daughter of the Tohe of Araka (or Ara-
-kaha) in the land of Ki?’
-
-1. 4from bottom. Add after ‘had’ ‘ Toyo-ki-iri-hiko.’ Omit period
-after ‘ Oho-ama.’
-
-» 152,1.6 from bottom. Read ‘Is not this non-acceptance cruel ?’
-
-» 153, 1. 4 from bottom. Add after ‘Shiko-wo’ ‘the ancestor of the
-Mononobe no Muraji.’
-
-» 161,1.2. Read ‘ Families were well supplied.’
-
-» 164, note 2. Read ‘in Japanese Keirin.’
-
-» 168. Read ‘ Judging from the implements which this ox is carrying,
-he is surely intended to be killed and eaten.’
-
-+». a72,k 2. For ‘slay? tread “attack?
-
-» 178,1.9. After ‘land’ read ‘and that I should personally conduct the
-government of the great earth. The covenant was already ~
-completed. But although,’ etc.
-
-1,22. For ‘ Kuka’ read ‘ Fukayu.”
-» 181, last two lines. Read ‘If I am to be united to this beautiful person
-I shall surely see a happy omen on the way.’,
-
-182, last line. Read ‘Then he said to the courtiers.’
-
-» 183,1.5. After ‘Tohe’ insert ‘of Yamashiro.’
-
-» 189, last line. For ‘goro’ read ‘ gokoro.’
-
-» I91,1.1and 2. For ‘goro’ read ‘ gokoro.’
-
-193, 1. 4. For ‘hard’ read ‘ sakaki.’
-
-5 194,/1. 21. Omit ‘muro
-
-» 195,1.6 from bottom. For ‘It will be,’ etc., read ‘ Their spear points
-are not to be matched,’ and omit ‘ For.’
-
-if! EOC AST. “or ORI Pea Es
-
-
-ERRATA ET ADDENDA. 429
-
-
-Page 197,1. 18. For ‘to’ read ‘through.’
-
-
-”
-
-
-1.9 from bottom. For ‘ people’ read ‘ their tribe.’
-206, 1. 8 from bottom. Add note, ‘i.e. a Deity incarnate in human
-form.’
-208, 1. 8. For ‘Mount Ohoyama’ read ‘the great mountains.’
-209, 1.17. Read ‘ But he got up with difficulty and returned,’ etc.
-221, 1. 5 from bottom. ‘Dazzling to the eyes’ is better construed with
-‘gold and silver,’ etc.
-224,1.5 and 1o. Read ‘ Tarashi-nakatsu hiko.’
-225, 1.1. Woyamada.
-226, 1.19. For ‘ powerful frame’ read ‘stubborn nature.’
-].24. For ‘returned’ read ‘ removed.’
-228, 1. 22. For ‘take possession of’ read ‘seek.’
-237, 1.7. For ‘So ona later day,’ etc., read ‘Again they said “ Bring
-a lute and give it to the Empress.” ’
-note 7. Mikokoro is a makura-kotoba of Hirota.
-1. 8. Read ‘ What ill-sounding things the woman says !’
-239, 1. 3. For ‘ Katsurano’ read ‘ Kadono.’
-l. 14-17. Read—
-
-
-‘ Noble with nobles,
-Cousin with cousins.’
-
-
-240, 1.19. For ‘ Midzunoto,’ etc., read ‘ Kanoto Mi’ (18th).
-
-242, 1.3. For ‘Emperor’ read ‘ Grand Empress.’
-
-246, 1.8. Read ‘In the course of the seventh month of, etc.
-
-248, 1.5. After ‘tribute’ add ‘which they made the tribute of their
-own country.’
-
-1.6. After ‘Silla’ add ‘ mean articles.’
-
-250, 1. 12 from bottom. For ‘ Corea’ read ‘ Pékché.’
-
-251, 1.16. Read ‘It is so distant that it cannot be reached in seven
-days’ journey.’
-
-254, 1. 13. Read‘This agreed with the elbow-pad worn by the
-Empress as a manly accoutrement.’
-
-255, 1. 1.. For ‘ Tsutsuhi’ read ‘ Kebi.’
-
-1. 15.. For ‘younger’ read ‘elder.’
-]. 11 from bottom. For ‘ Prince’ read ‘ Princess.’
-1. 7 from bottom. For ‘ Mago’ read ‘ Ito’
-
-257, l. 7. For ‘Kadzu’ read ‘Kadono. Chiba, ‘thousand leaves,’
-is a makura-kotoba of Kadono, Kado (or Kadzura) meaning a
-creeper.
-
-1. 5, and in p. 258. After ‘ Umashi’ add ‘ uchi.’
-
-259, 1.1. After ‘ Tsurugi’ add ‘ Karu.’
-
-l. 19. For ‘the upper’ read ‘a.’
-
-260, 1. 5 of poetry. ‘River fork’ is perhaps better ‘ Kahamata,’ the
-name of a river. .
-
-264, 1. 10 from bottom. For ‘kebi’ better read ‘momi.’
-
-265, note. For ps read Zs.
-
-
-430
-
-
-ERRATA ET ADDENDA.
-
-
-Page 266. Poetry. Dr. Florenz interprets the last three lines as follows—
-
-
-‘Yield to one side ;
-(In order that) I may see
-My departing spouse of Kibi.’
-267. For ‘Ahiru’ read ‘ Kamo.’
-271, 1.12. For ‘Oho-kuma’ read ‘ Oho-sumi.’
-276. For ‘sent it’ read ‘ went.’
-277, 1.6. For ‘my abdication’ read ‘his self-abnegation.
-note. Read ‘ Chihaya-bito.’
-278, 1. 8 from bottom. Read ‘But for the three years that We have
-now reigned over the people,’ etc.
-279, 1. 3. Read ‘no robes of state or shoes were made for him except
-when worn out.’
-1.5. Read after ‘broths’ ‘were not renewed except when they
-became sour or putrid.’
-284. Poetry. For first two lines read—
-‘ By the rule established
-For nobles.’
-
-
-293, 1. 5 from bottom. For ‘Empress’ read ‘Emperor.’
-294, 1. 21. For ‘Taka-ama’ better ‘Taka-kahi’ (falcon-feed).
-298, 1.6. For ‘melts’ read ‘is distributed.’
-304, 1.4. For ‘Furu no’ read ‘ Furu in.’
-305, 1. 4. Before ‘ Hayato’ insert ‘ an attendant.’
-322, note 1. ‘Na-nori-ahi’ should be ‘na-nori-so,’ ‘ tell it not.’
-323, 1.6. Read ‘ But the sea was deep and they,’ etc.
-326, 1. 3 from bottom. For ‘made them go back’ read ‘returned.
-329, 1. 3 from bottom. Read ‘one whit disagreeable.’
-335. Poetry. For ‘nine-fold’ read ‘seven-fold.’
-336, 1. 4 from bottom. Omit ‘a place belonging to.’
-note 3. Add ‘ Fukuro probably means mother here.’
-338, 1. 4. Before ‘woman’ insert ‘man and.’
-Last line but one, read ‘ they were’ for ‘she was.’
-340, last line. Read ‘ The only persons whom he favoured.’
-341, 1. 7. After Princess add ‘and has made her pregnant.’
-342, 1.12. After.‘ flying’ add ‘and bit the Emperotr’s elbow.’
-349, 1.17. For ‘get instructions’ read ‘ proceed by way of.’
-351, note 2. For ‘Bekkako’ read ‘ Kokkeko’ or ‘ Kakero.’
-359, 1. 26. For ‘Autumn’ read ‘ Winter.’
-362, 1.15. Read ‘ How nearly I had destroyed the man !?
-366, 1.14. For ‘beside himself with shame’ read ‘for shame at his
-unsuccess.’
-1. 7 from bottom. For ‘who’ read ‘and.’
-369, note 2. Better to take smoke and fire as signs of plenty, which
-extend for 10,000 ri.
-370, 1. 5. Read “How should not we, with our whole hearts, address
-them decrees of cordial warning?’
-
-
-BY
-
-
-ERRATA ET ADDENDA. 431
-
-
-Page 370, 1. 20. Read ‘many years have now passed, and it (my death)
-
-
-”
-
-
-”
-
-
-”
-
-
-Page 13.
-19, note 5. For ‘Eungchén’ read ‘ Ungchon,’
-
-20, 1. 5. For ‘ Eunchol’ read ‘ Eunsol.’
-
-127, note 5. Omit ‘In modern times,’ etc.
-
-148. Add to note 2 :—‘ The authenticity of the “ Kiujiki”’ was never
-
-
-”
-
-
-”
-
-
-”
-
-
-”
-
-
-cannot be called premature.’
-
-
-l. 5 from bottom. Read ‘ should gain his purpose of whine? etc.
-371, 1. 3, 4. Read ‘ The serfs of the Ohomuraji are wide-spread,’ etc.
-
-1. 14. Read ‘ Your serfs are very numerous.’
-
-1,16. Read ‘Is it not better to keep safe our persons and avoid
-
-
-risk rather than by such an announcement to bring on ourselves
-ruin ??
-
-
-386,1. 10. After Dignity read ‘to the great delight of the functionaries
-
-
-who were in attendance.’
-
-
-390, 1. 11 from bottom. Read ‘ There are no words without response :
-
-
-no virtuous action without requital.’
-
-
-1. 8 from bottom. For ‘feasts’ read ‘has obtained.’
-399, 1. 3. Read ‘ Oho-iratsume.
-400, note 3. For ‘ 13’ read ‘
-
-
-VOL. E.
-
-
-Omit note I.
-
-
-disputed until the time of Motoori and Hirata. The former
-(“ Kojikiden ” i. 20) condemns it as aforgery. Hesays, however,
-that it is not a mere invention, but compiled from the “ Kojiki” and
-“ Nihongi.” Ifany one doubts this let him, MotoGri says, read the
-“ Age of the Gods,” comparing the accounts given in the three
-works. He will find in the * Kiujiki” an incongruous mixture of
-style, and also that the same event has been narrated in two
-different forms. The difference in the Chinese characters used for
-writing the same proper names is especially conspicuous. Some-
-times the “ Kogojiui” has been resorted to, and such passages
-are easily distinguished as they are copied word for word. There
-are, however, passages not to be found elsewhere, probably taken
-from some old work, and the MSS. are useful for correcting the
-text of the “ Nihongi.” To.these observations of Motoéri it
-may be added that the “ Kiujiki” contains an account of the
-death of Shétoku Daishi, its supposed author, which must have
-been added a long time after (probably from the “ Nihongi”), as
-it has the expression “the men of that day.” We should also
-remember the positive statement of the “ Nihongi” (p. 193) that
-the greater part of the “ Kiujiki” was destroyed by fire in
-A.D. 645.
-
-
-Notwithstanding all this, I incline to the opinion that the
-
-
-“ Kiujiki,” with the exception of the final passage which relates
-the death of Shdtoku Daishi, is authentic, Motoéri hardly
-
-
-432
-
-
-ERRATA ET ADDENDA.
-
-
-does justice to the amount of original matter in the mythological
-
-
-chapters, and the similarities between it and the “ Kojiki” and
-
-
-“ Nihongi” may be accounted for by supposing that all three
-drew their materials from a common stock, viz. the recitals of the
-“ Kataribe” and the written documents compiled from them. It
-is quite true that the “ Kiujiki” gives in many Cases two versions
-of the same legend, but the clumsiness with which they have
-been dovetailed together is rather a proof that the writer could
-not have had the more consistent narrative of the “ Nihongi”
-before him. This part ought to be translated. It contains
-material which is necessary for a complete study of Shintoism.
-
-
-From Jimmu Tenn6é on the question assumes a different aspect.
-
-
-Here either the author of the “ Nihongi” has incorporated the
-whole ‘* Kiujiki,” or the author of the “ Kiujiki” has made a
-selection from the “ Nihongi.” So far as the former goes it is
-identical word for word with the latter. From the circumstance
-that the additional matter contained in the “ Nihongi” is very
-largely of a romantic or poetical nature, it seems more probable
-that the “ Kiujiki” is the original work. Its general style is
-eminently consistent with the statement (“ Nihongi,” vol. ii.
-p. 122) that the reputed author was a thorough proficient in
-both Chinese and Buddhist learning.
-
-
-Without a more exhaustive examination it is impossible to say
-
-
-more, but there is, I feel sure, sufficient internal evidence avail-
-able to solve the question with certainty. It would afford an
-interesting subject of critical inquiry to some of our younger
-students,’
-
-
-Page 352, 1.9. For ‘11th’ read ‘ 1oth.’
-
-
-I]. 12, Omit ‘you who accepted our rule and also to,’ and add at
-
-
-end of sentence ‘of your emigration hither.’
-
-
-For most of the above corrections I am indebted to the kindness ot
-Dr. Florenz, Professor of Philology in the Imperial University of Tokio.
-
-
-IN DEX:
-
-
--ABSTINENCE (religious), I. 41, 42, 82,
-152, 316, 325, 3475 II. 1o1, 387.
-
-_ Abstinence Palace, I. 176, 225; II. 322,
-326, 338.
-
-Acupuncture, IT. 190.
-
-Adoption, II. 2.
-
-Adultery, II. 221.
-
-Adzuma, I. 81, 207.
-
-Adzuma Koto, I. 225.
-
-Agata-nushi, I. 134.
-
-Age of the Gods. Books I. and II.
-
-Agura, II. 103.
-
-Ahaji (island, birth of), I. 13.
-
-Ahimbe, IT. 335.
-
-Aino or Ainu. See Yemishi.
-
-Aji-suki-taka-hiko-ne, I. 67, 75.
-
-Akakagachi, I. 77.
-
-Akitsushima, I. 13, 134, 343; II. 12, 66.
-
-Aloes wood, II. 123.
-
-Altar, I. 353.
-
-Ama or Ame, heaven, Zassz772.
-
-Ama no hihoko, I. 169, 185, 186.
-
-Ama no Nunahara oki no Mabito, II.
-301.
-
-Ama no mi-naka-nushi, I. 5.
-
-Ama terasu no Ohokami.
-goddess.
-
-Ama tsu mara. See Smith-god.
-
-Ambassadors (should be of good family),
-pGa7.0%
-
-Ame (malt extract), I. 121.
-
-Ame-kuni-oshi-harani-hiro-niha, II. 5, 36.
-
-Ame mikoto hirakasu wake, II. 275.
-
-Ame no oshi-ho-mimi no Mikoto, 1. 83.
-
-Ame no Uzume. See Uzume.
-
-Ame-toyo-takara ikashihi tarashi hime, I.
-171, 248.
-
-Ame-waka-hiko, I. 65.
-
-Ame-yorodzu toyohi, II. 195. \
-
-Amnesty, II. 322, and frequently after this.
-
-Anaho, I. 328.
-
-Anahobe (Prince), II. 107, 112.
-
-Anato, I. 167.
-
-Ancestor-worship, I. 27 ; II. 351.
-
-Ango. See Retreat.
-
-Ankan Tenné, II. 12, 26.
-
-Anko Tenné, I. 328, 332.
-
-Annei Tenno, I. 141, 142.
-
-
-VOL, II.
-
-
-See Sun-
-
-
-Anthropomorphism, I, 41.
-
-Arakahi, II. 2, 8, 15, etc.
-
-Arare-bashiri, II. 411, 414.
-
-Arashito or Arasateung, I. 166; IL. 18,
-TO, 923;
-
-Archery, I. 282, 336, 377°; II. 226, 393,
-CLC.
-
-Arima (Prince), II. 251.
-
-Arinari (river), I, 231.
-
-Arrow. See Nari-kabura, Bow, Archery.
-
-Artizans (from Corea), I. 349, 396, etc.
-
-Ashihara, I. 40.
-
-Ashinadzuchi, I. 52, 56.
-
-Aso (Mount), I. 198.
-
-Aso or Ason (title), I. 236, 239; II. 365,
-etc.
-
-Astronomy, II. 76, 126, 301, 326. See
-also Comet, Eclipse, Occultation, Mars,
-Pleiades.
-
-Ass, II. 252.
-
-Atahe or Atahi (title), I. 36.
-
-Ataka-ashi tsu hime, I. 88.
-
-Aya, I. 265, 270, 336, 350, 363; II. 118,
-190, 192, etc.
-
-Augury. See Divination.
-
-Jordoy de gion uss VUE, atin Yee 7 eyo),
-
-
-BALDNESS as an incapacity for service of
-gods, I. 152.
-
-Banishment, II. 333, 339.
-
-Banzai or Bansai, I. 389; II. 175, 411.
-
-Baptismal flag, II. 149.
-
-Be, I. 43, 47, 104, 139, 175, 280, 397;
-314, 322, 340, 350, 359, 365, 375; Il.
-4, 27, 31, 95, 125, 129, 224. See also
-Nashiro.
-
-Beacons, II. 13.
-
-Bear (polar), II. 257, 263, 371.
-
-Bed of absent person, Superstition regard-
-ing, I. 325.
-
-Bees, II. 184.
-
-Bellows, I. 47. i
-
-Bells, I, 286, 294, 301, 329, 348, 387;
-II. 86, 105, 167, 201, 206, 211, 227,
-302, 335-
-
-Bhéchadjya Radja. See Yakushi.
-
-Bidatsu (or Bindatsu) Tenno, II. go-105.
-
-Bosatsu (or Bodhisattwa), II. 111, 175.
-
-
-cab
-
-
-434
-
-
-Bow and arrows, I, 34, 37, 139, 247, etc.
-
-Box for petitions, II. 211.
-
-Bramblings (bird), II. 339, 349.
-
-Branding of criminals, etc., I. 305, 307,
-359-
-
-Bronze, II. 415.
-
-Buddhism, I. 219; II. 59, 65, 66, 68, 72,
-78, 90, 96, 101, and frequently during
-the remainder of Vol. II. See also
-Hoshi, Image, Kesa, Nuns, Shamon,
-Sutra, Sddzu, Kwannon, Temples, Re-
-treat.
-
-Buffalo, II. 297.
-
-Butsudan, II. 369.
-
-
-CALENDAR, Introduction xvii. ; II. 68, 72,
-126, 400.
-
-Camel, II. 124, 146, 252. 24%
-
-Cap- rank, WE 2272255) .237), 228708870.
-See also Rank.
-
-Cash, II. 34, 414.
-
-Castles, building of, II. 283, e¢ segg., 286.
-
-Cattle-breeding, II. 32.
-
-Caterpillar, worship of, II. 188, e¢ segg.
-
-Celestial dog, II. 167.
-
-Censorate, II. 294.
-
-Ceremonies, court, II. 227, 357, 398, etc.
-
-Chair, II. 102.
-
-Chaos, I. 1.
-
-Charts, Ty 94,4 11. $2, 379:
-Incantation, Mantras.
-
-Chésyang, I. 243.
-
-Chhimnyu (King), I. 253.
-
-Chi or chichi, I. 4, 264.
-
-Chisis i 1a2t
-
-Childbirth, superstitions connected with,
-I. 85, 98, 103, 104.
-
-China, relations with, Introduction xi. ; II.
-138. See Thang, Wu, Tsin, Han.
-
-Chinese civilization, spread of, II. 133.
-
-Chinese customs, I. 311.
-
-Chinese learning, first introduction of, I.
-262.
-
-Chiuai Tenn6, I. 217-223.
-
-Ché (land measure), II. 208.
-
-Chopstick, I. 159.
-
-Choshushi, II. 213, 225.
-
-Chronology, Introduction xvi.; I. 111, 132,
-TALS 3, 1OSs17 75-4205, 247.0250, 202,
-293, 300, 307, 330, 332, 346, 366; II.
-25, 37- See also Calendar, Nengo.
-
-Circumambulation, II. 259.
-
-Clapping hands by way of respect, II. 395.
-
-Clay figures at tombs, I. 181, 357.
-
-Clay-workers, I. 180, 3 56. See also
-Hashi.
-
-Clepsydra, II. 265, 296.
-
-Cloth, I. 44; II. 180, 208.
-
-Cloud: chariot, II. 275.
-
-Cock wile sul eqs:
-
-Cock-fighting, I. 348.
-
-Coin, I. 391 ; II. 304.
-Currency.
-
-
-See also
-
-
-See also Copper,
-
-
-INDEx.
-
-
-Combs, superstitions regarding, I. 24, 25,
-47, 48, 52, 96, 98 ; II. 425.
-
-Comets, II. 166, 167, 169, 333, 353) 364,
-367.
-
-Compass (mariner’s), II. 258, 285.
-
-Concubines (Imperial), I. 311, etc.
-
-Confiscation, I. 293 ; II. 83.
-
-Confucius, II. 129.
-
-Consecration (of Buddhist images), II. 297,
-
-
-423.
-
-Conundrums, II. 374, 375.
-
-Copper, I. 20, 47, 120, 220, 221, 328,
-350, 3553 II. 65, 86, 133, 360, 387, 415.
-
-Corea, Introduction xi. See Han, Imna,
-Kara, Koryé, Pékché, Silla.
-
-Corean deities worshipped in Japan, I. 11,”
-169, 225, 378.
-
-Corean names, Introduction xxii.; I. 244.
-
-Cormorant-tishing, I. 119, 126, 341.
-
-Cosmogony, I. 2, e¢ seggq.
-
-Costume, II. 18, 304, 307, 3075 410.
-
-Court, II. 138.
-
-Cremation, 1423;
-
-Crow, three-legged. See Yatagarasu.
-
-Currency, I. 89, 391; II. 34, 222, 360,
-372, 414.
-
-Gurses, al 24055337, 403;:. Lh. oo2s
-
-Cycle, Chinese, I. 111.
-
-
-DarBu, I. 175; II. 98.
-
-Daijin, I. 334; II. 196.
-
-Daijinno, II. 114.
-
-Daijoye, I. 86.
-
-Daikoku, I. 55, 63.
-
-Dainagon, II. 347.
-
-Dai Nippon, II. 279.
-
-Dajodaijin, II. 294.
-
-Dakiu, II. 185.
-
-Dancing (religious), I. 44, 79; (other), 318,
-381, 382, etc.
-
-Dazaifu, II. 139.
-
-Debts discharged, II. 378, 385.
-
-Deer, cry of, I. 289.
-
-Deer, dream of, I. 290.
-
-Deification of Emperors, II. 226, 227.
-See also Incarnation.
-
-Departments of State, IT. 232.
-
-Distribution of lands to peasants. See
-Kobunden.
-
-Divination, [5-835 167) 121, 152,, 153,
-176, 177, 178, 189, 195, 227, 228, 229,
-
-. 237, 281, 290, 307, 324, 355; Il. 509,
-68, 72, 95, 102,.257,. 306. See also
-Omens.
-
-Divorce, I. 25, 30.
-
-Dog-keepers, II. 32.
-
-Dog stories, II. 116, 117.
-
-Dragon, II. 240, 248.
-
-Dragon-fly, I. 134, 342.
-
-Dragon-king, I. 61, 95.
-
-Dreams, I. 115, 152, 155, 161, 165, 290;
-ie 36:
-
-Dwarf-god. See Sukuna-bikona.
-
-Dwarfs, II. 296.
-
-
-INDEX.
-
-
-EARTH-GODDESS, birth of, I. 21, 22.
-
-Earthquakes, I. 317.3 II. 124, 176, 282,
-330, 336, 339, 343, 344, 348, 351, 353,
-3545 356; 357, 365, 373, 375, 384
-
-Fclipses, II. 155, 167, 168, 179, 348, 349,
-353, 404, 411, 413, 414, 417, 420.
-
-Edicts, II. 82, e¢ passim.
-
-Eight, significance of this number, I. 52;
-e143"
-
-Eight-island-land, I. 16; II. 1o.
-
-Embroidery, II. 133.
-
-Empress Dowager, I. 140.
-
-Enclosure for Shinto worship, I. 82, 134.
-
-Pita besos
-
-Eternal Land. See Tokoyo.
-
-Ethnology, I. 109, 212; II. 38, 123.
-See also Immigration, Koma, { umaso,
-Tsuchigumo, Yemishi.
-
-Eunsol (Corean title), II. 20, 98.
-
-Expiation. See Purgation.
-
-
-Fatcon (for hunting), I. 291,
-239.
-Family relations,
-Harakara.
-
-Famine, I. $7 ; II. 155, 167.
-
-Fasts, II. 402. See also Abstinence.
-
-Festivals. See Shinjosai, Nihiname,
-Ahimbe.
-
-Fetish. See Caterpillar, Stone-worship.
-
-Feudalism, I. 192, 267; II. 197, 206, 401,
-etc.
-
-Fine. See Purgation.
-
-Fire, ordeal by, I. 89.
-
-Fire-drill, I. 205.
-
-Fire-god, I. 21, 28, 29, 122.
-
-Firewood presented to Emperor, II. 326,
-330, etc.
-
-Firmament, I. 291.
-
-Fish-hooks (of iron), I. 92.
-
-Five grains, I. 21, 278.
-
-Flute, II. 11; 24.
-
-Folk-lore, I. 307.
-
-Food-goddess, I. 22, 32, 122.
-
-Football, II. 185.
-
-Forced labour, I. 278; e¢ passin.
-
-Four Heavenly Kings, II. 114, 115.
-
-Fujihara family, Il. 291.
-
-Fumibito or Fubito (scribes), Introduction
-rabies resus AWE.  li
-
-Funeral ceremonies, I. 66, 67, 326; II.
-24, 104, 143, 173, 177, 232, 274, 303;
-300, 380, 38.
-
-Funeral sacrifices, I. 178.
-
-Funado no Kami, I. 25.
-
-Furubito (Prince). See Yoshino.
-
-Futodama no Mikoto, I. 82, etc
-
-Futsu-nushi no Kami, I. 23, 67.
-
-
-2OKes while
-
-
-See Marriage, Incest,
-
-
-Gas, II. 313.
-
-Gambling, II. 371.
-
-Games. See Suguroku, Dakiu.
-
-Garlic as a charm against evil spirits, I.
-208.
-
-
-439
-
-
-Genealogy of the Gods, I. 4-10.
-
-Geomancy, II. 76, 126, 387.
-
-Gidgi-yaki (pottery), I. 12r.
-
-Go (part of China), I. 269. See also
-Vu.
-
-Godzu Tenné, I. 19.
-
-Gohei, I. 44. See Offerings.
-
-Gokinal, W135, 593) 205822 eons
-
-
-VAGy aa
-
-Gold, II. 34, 65, 86, 134, 149, 172, etc.
-
-Gold-copper, II. 391, 393.
-
-Governors of provinces, II. 131, 200, etc.
-
-Grain, origin of, I. 21.
-
-Granaries (official), I.
-Miyake.
-
-Great Abstinence Deity. See Oho-imi.
-
-
-214, 282. ;See
-
-
-HACHIMAN, I. 271.
-
-Hachi-6ji (eight Princes), I. 36.
-
-Hada (noble House), I. 265, 364; II. 30.
-
-Hades. See Yomi, Ne no Kuni.
-
-Hafuri (Shinto priests), I. 56, 129, 307 ;
-DS 20582, 17450425.
-
-Hair ornaments (sign of rank), II.
-138, 142, 230.
-
-Haka (tomb), I. 159. See Tomb.
-
-Hakama (prisoner in China), II. 400.
-
-Hakase (doctor), II. 197.
-
-Hakuchi, year-period of, IT. 236.
-
-Han (Corea), I. 58, 232, 242, 254, 257, 263,
-273, 349; II. 35. 38.
-
-Han (China), Li ee 2705) Ul aiid:
-
-Hand-mill, I. 189; IT. 140.
-
-H[angwan (officials), II. 200.
-
-Hanishi, I. 356. See Hashi no Muraji.
-
-Haniwa, I. 181.
-
-Hanzei Tenno, I. 310.
-
-Harakhersl. 4OcsUl. 220, 339) 398: See
-Purgation, Oho-harahe.
-
-Harakara, I. 143, 322, 323.
-
-Hashi no Muraji, I. 36, 181,
-126.
-
-Hashira, I. 3.
-
-Hatahi (Princess), I. 330.
-
-Hatsuse (Prince), II. 161. .
-
-Hayabusa wake (Prince), I. 390, e¢ segg. _
-
-Hayato (palace guards), I. 100, 305, 375,
-SLi Il. 38, 249, 356, 399; 418, 420.
-
-Hawking. See Falcon.
-
-Herbalists, II. 72.
-
-Herb-gathering, II. 141, 143, 145, 288.
-
-Herb of long life, II. 186, 344.
-
-Hi, land of, I. ror, 198.
-
-Hiki (piece of cloth), II. 209.
-
-Hime (lady), frequently in names of prin-
-cesses, etc.
-
-Hire (scarf), II. 355.
-
-Hiuga, I. 196.
-
-Home provinces. See Gokinai.
-
-Hoshi (priestly title), II. 118, 197-
-
-Hostages, II. 196, 226.
-
-Hoto, II. 153. 203.
-
-House (noble), I. 316.
-
-Hsiian-ts‘ang, II. 254.
-
-
-128,
-
-
-2575 ule
-
-
-Ff 2
-
-
-436
-
-
-IcE-HOUSE, I. 297.
-
-Ichinobe no Oshiwa, I. 336, 378.
-
-Idols, I. 3. See Images.
-
-Tez Lo 7 Ones 170;
-
-Idzube. See Sacred jars.
-
-Idzuhime, I. 122.
-
-Idzuki, I. 291.
-
-Idzumo, I. 52, 54, 109, 381.
-
-Idzushi sword, I. 168, 169, 185.
-
-Thanagahime, I. 84.
-
-Thawi, II. 15.
-
-haya, I. 72.
-
-Thitoyo (Princess), I. 383.
-
-Ikadzuchi, I. 347.
-
-Ike (a pond), I. 149. See Irrigation.
-
-Tkina, II. 84.
-
-Tkuhi, I. 154.
-
-Ikume-iri-hiko isachi, I. 161, 163, 165.
-
-Illa (Corean statesman), II. 97, e¢ segg.
-
-Images (Buddhist), II. 65, 67, 98, 101,
-III, 127, 133, 150, 230, 240, 387, 391,
-422.
-
-Imaki, I. 349, 350.
-
-Imi (avoidance of religious impurity), I.
-
-
-41.
-
-Imibe (or Imbe), I. 42, 45, 47.
-
-Imiki (title), II. 365. .
-
-Immigration to Japan, I. 166, 169, 242,
-261, 264, 265, 296, 359; II. 38, 83, 86,
-87, 99, 123, 126, 139, 140, 144, 146,
-273, 285, 292, 330, 364, 384, 385, 391,
-397, 398, 399-
-
-Imna, I. 164, 166, 167, 249, 253, 257, 348,
-392 3 II. 7,19; 35, 39, 42, 80, 119, 124,
-226.
-
-
-Imo, younger sister or wife, I. 22, 104,
-
-
-397-
-
-Imperial theory, II. 29, 30.
-
-Imun (part of Corea), II. 9, 12.
-
-In and Yo, I. 1, 4, 12. See also Yin and
-Yang.
-
-Inaki, [. 172, 215, 315, 364; II. 113, 365.
-
-Iname no Sukune, II. 66, 78, 87, 112.
-
-Incantations, I. 60, 94, 98, 99, 102, 133.
-See Mantras.
-
-Incarnation, II. 198, 210, 217.
-
-Incest, I. 324, 396.
-
-Indigo, I. 353.
-
-Ingio Tenno, I. 312.
-
-- Ink-cord, I. 362.
-
-Inspiration, I. 79, 163, 221, 225, 391, 392;
-ATS 7 Oyo 075
-
-
-Interlinear Kana, Introduction xxi.; II.
-
-
-200.
-
-Inukahi, IT. 32.
-
-Tron, I. 92, 247, 251, 282, 328; II. 14, 86,
-102, 173, 204, 344, 387. .
-
-Irrigation, I. 164, 183, 214, 227, 257, 259,
-283, 306, 307; II. 136.
-
-Truka no Omi. Book xxiv., Zasstm.
-
-Ise, I. 44, 176, 205, 225.
-
-Issaikio, II. 322, 330, 337-
-
-Itoku Tenno, I. 142.
-
-
-INDEX.
-
-
-Itsukushima, I. 35.
-
-Itsuse no Mikoto, I. 113, 127.
-
-Izahowake, I. 301.
-
-Izanami and Izanagi (Creator deities), I.
-6-34, passim, also I. 307, 322.
-
-
-JAPAN, names of. See Nippon, Yamato,
-Akitsu, Wa, Ashihara, Eight-island-
-land.
-
-Jewel-spear of Heaven, I. 11.
-
-Ji or chi (elder), I. 4, 18.
-
-Jimmu Tenné, I. 62, 109-137; II. 21.
-
-Jingikwan (department of Shinto religion),
-Eight gods of, I. 7.
-
-Jingo Kogu, I. 224-253.
-
-Jito Tenno, II. 382-423.
-
-Jomei Tenno, II. 95-157.
-
-Junshi (self-sacrifice at tomb of a lord or
-husband), I. 180, 331; II. 183, 220,
-234, 383.
-
-Jupiter (planet), II. 409.
-
-
-KABANE (title), I. 27.
-
-Kachaya. See Kesa.
-
-Kagase-wo (star-god), I. 69, 79.
-
-Kagehime, I. 402.
-
-Kagura. See Dancing.
-
-Kagutsuchi. See Fire-god.
-
-Kaguyama (mount), I. 43, 119, 120.
-
-Kaha (river), frequently in names of places.
-
-Kahabe no Omi, II. 83. ;
-
-Kahachi no Atahe, II. 44, 48.
-
-Kaikwa Tenné, I. 148.
-
-Kakosaka (Prince), I. 2 6, e¢ seqg.
-
-Kamako no Muraji or Kamatari Ko, II.
-184, I91, 193, 194, 197, 243, 282, 291.
-
-Kama-shishi, II. 181, 371.
-
-Kami, deity, I. 3.
-
-Kami-ataka-ashi-tsu-hime, I, 85.
-
-Kamibe (or Kambe), J. 57.
-
-Kami Mi Musubi (deity), I. 5, 9.
-
-Kami-naga-hime, IJ. 259.
-
-Kami Nunagaha mimi. See Suizei.
-
-Kami yamato Ihare-biko. See Jimmu.
-
-Kami ya-wi mimi no Mikoto, I. 139.
-
-Kamo-shika. See Kama-shishi.
-
-Kamu-niha, I. 353.
-
-Kamu tsumiya. See Shotoku Daishi.
-
-Kanamura no Muraji, I. 404; II. 8.
-
-Kana glosses, Introd. xxi.
-
-Kana Nihongi, Introd. xiv.
-
-Kanki (Corean title), I. 166, 231; IJ. 19,
-42, 51.
-
-Kanro (sweet dew), II. 339.
-
-Kara) 1k 5 7, 0025) 1OOnee 2252520), 20015
-II. 18. See also Imna.
-
-Karakane (bronze), II. 415.
-
-Karako, II. 22.
-
-Karano (name of ship), I. 256, 268.
-
-Karu (Prince), I. 323.
-
-Karu (Prince), IT. 184, 194.
-
-Kashikiya hime, IT. 95.
-
-Kasuga (Princess), II. 9.
-
-
-Katari be, Introd. xv. ; I. 353.
-
-
-INDEX.
-
-
-Kaya, II. 80. See Imna.
-
-Keidai Tenno, II. 1-25.
-
-Keiko Tenno, IJ. 188-214.
-
-Kena no Omi, II. 15, 19, etc.
-
-Kenzo Tenné, I. 377-393.
-
-Kesa (Buddhist priest’s garment), II. 196,
-297, 386.
-
-Kibi (province), I. 14, 112, 155.
-
-Kibi no Omi, II. 58.
-
-Kibumi, i.e. yellow books, II. 133, 185.
-
-Kilin, I. 164, 244.
-
-Kimi (lord), I. 38. e¢ passzm.
-
-Kimmei Tenné, II. 36-89.
-
-Kinai. See Gokinai.
-
-Kino tsuno no Sukune, I. 293.
-
-Ki no woyumi no Sukune, I. 354.
-
-Kishi (title), I. 236.
-
-Kissing, IT. 85.
-
-Kite (golden), I. 126.
-
-Kiujiki, Introd. xii.; II. 148, 193; Ad-
-denda.
-
-Kiushiu, I. 109, 112,
-
-Koan Tenno, I. 145.
-
-Kobunden, IT. 208, 225, 409.
-
-Kobun Tenno, II. 301, 303.
-
-Kogen Tenno, I. 146.
-
-Kogioku Tenno, II. 171-194.
-
-Kojiki (history), Introd. xiii. xix.; I. 2, 350,
-
-
-See Tsukushi.
-
-
-393:
-
-Kokishi (Corean word for king), I. 251.
-
-Kokuryo. See Koryo.
-
-Kokushi (governor), II. 201.
-
-Koma, I. 232; II. 61. See Korys.
-
-Konohana sakuya hime, 1. 70-85.
-
-Ko6rei Tenno, I. 146.
-
-Koro-pok-guru, I. 72.
-
-Koryo, or Kokuryo (kingdom of Corea),
-Is 2315 202; °268, 2828 206; 351. 360,
-39253 Il. 38, 44, 60, 77, 86, 93, 134;
-downfall of, 289.
-
-Koshi, I. 14.
-
-Koshiro, II. 217. See Nashiro.
-
-Kosho Tenno, I. 144.
-
-Késobé, II. 196.
-
-Koto (lute), I. 225, 268, 269, 351, 380;
-Itezays
-
-Kotoku Tenn, II. 195.
-
-Kotoshiro nushi, I. 61, 76, 225, 2373; II.
-318.
-
-Koyane no Mikoto, I. 82, etc.
-
-Kudara (kingdom of Corea), I. 232. See
-Pékché.
-
-Kukunochi. See Tree-god.
-
-Kuma, I. 625°32,°197,) 2325). 230, 300); 11.
-59. See also Kumaso.
-
-Kuma-himorogi, I. 82, 168, 169, 185.
-
-Kuma-nari, I. 59, 232, 367; II. 19, 286.
-
-Kuma-wani, I. 219. ;
-
-Kuma-washi, I. 226.
-
-Kumaso, I. 192, 196, 201, 219, 221. See
-also Kuma and Koma.
-
-Kume, I. 80, 118, 127, 133, 178.
-
-Kuni no Miyakko, or Kuni‘tsuko (local
-governor), I. t12. See also Miyakko.
-
-
-437
-
-
-Kuni no satsuchi no Mikoto, I. 3.
-Kuni toko-tachi no Mikoto, I. 3, 4.
-Kure, I. 265, 269, 362. See Go, Wu.
-Kuro hime, [. 301.
-Kusaka no hatahi-hime, I. 337.
-Kusanagi (sword), I. 52-58, 76, 205, 211 ;
-DIS 200 52717
-Kushi-nada-hime, I. 52, 56.
-Kusuri-gari. See Herb-gathering.
-Kusyu (King of Pekché), I. 251.
-Kuzu (local chiefs), I. 119, 266.
-Kwannon (Buddhist), II. 379, 391.
-Kydsoku, II. 256.
-
-
-Lacquer, II. 110, 367.
-
-Laws, II. 128, 202, 220, 350, 358, 393, 402.
-
-Leaves used as platters, I. 125, 285.
-
-Leech-god, I. 15, 18, 19, 20. ‘
-
-Legends, Zass¢m in earlier part of work.
-
-Leopard as deity, II. 70.
-
-Living things released, II. 334, 335.
-
-Loans of rice, II. 328.
-
-Local authorities, II. 206, 207, 213, 214,
-242, etc.
-
-Long-life places (Buddhist), II. 394, 404.
-
-Loom. See Weaving.
-
-Lustration, I. 26.
-
-
-MAGARI NO OHINE (Prince), II. 5, 12, 26.
-
-Maga-tama (curved jewels), I. 38, 49, 184,
-226
-
-Magicwdl 9157. 3010s) Il. 120,.0190;).301.
-See Incantation, Witchcraft.
-
-Magpies, II. 124.
-
-Mahakala, II. 114.
-
-Maitréya, II. 101, 127.
-
-Majinahi, I. 60.
-
-Makura kotoba, I. 176, 403, etc.
-
-Mallet weapons, stone or wood, I. 123,
-
-124, 194, 240.
-
-Manchus. See Sushen.
-
-Mantras, II. 96.
-
-Market commissioners, II. 223.
-
-Marriage ceremony, I. 12, .14-18, 54.
-
-Marriage to near relations, I. 22, 145, 212,
-
-277, 290; II. 26, 38, 40, 107, 185, 220,
-
-221. See Nuptial hut.
-
-Marriage presents, I. 301.
-
-Mars (planet), II. 353, 409.
-
-Masaya-a-katsu kachi hayathi-ama no oshi
-ho mimi, I. 36, 37, 64, 76.
-
-Masu (measure of capacity), II 209.
-
-Mato, II. 53.
-
-Matori no Ohomi, I. 403.
-
-Mayuwa (Prince), I. 334.
-
-Medicine, I. 59, 63; II. 68.
-Physician.
-
-Medicine men, I. 42.
-
-Mediums, I. 79,
-
-Metals, I. 21, 291, 328. See also Bronze,
-Copper, Gold, Iron, Mint, Silver.
-
-Metal workers, I. 81; II. 117, 376.
-
-Metamorphosis, I. 209, 210, 296, 361; IT.
-
-
-Tay
-
-
-See also
-
-
-438 INDEX.
-
-
-Metempsychosis, II. 149.
-
-Mibu be, I. 280; II. 135.
-
-Micheul Hochi polhan, I. 241, 244.
-
-Michi no Omi, I. 117, 122, 133; II. 16,
-2I.
-
-Midzuchi (water-snake or water-god), I.
-209.
-
-Midzuha nome, I. 21, 122.
-
-Midzuha wake (Prince and Emperor), I.
-305, 310.
-
-Mikage, II. 385.
-
-Miko, I. 79.
-
-Mikoto, I. 3.
-
-Mikoto-mochi, II. 116, 131.
-
-Milky Way, I. 23, 39, 42.
-
-‘Mill, II. 140, 294.
-
-Millet, I. 33.
-
-Mimaki irihiko iniye, I. 150. .
-
-Mimana, I. 167. See Imna.
-
-Mimatsu hiko kayeshine, I. 144.
-
-Mimuma, I. 336.
-
-Mint, II. 414.
-
-Miroku, image of, II. 101, 127.
-
-Mirror, I. 20, 43, 47, 49, 76, 83, 168, 185,
-193, 251, 3413 11. 3, 33.
-
-Misaheun, I. 242.
-
-Misaki (spur of hill or promontory), I.
-4773
-
-Misasagi (Imperial tomb), I. 135, 139, 211,
-217, 236, 297, 298, 327, 357, 389, 3903
-II. 35, 143, 147, 156, 178, 235, 341,
-389, 404.
-
-Mitama-furishiki, II. 373.
-
-Mitegura, II. 147.
-
-Mitsugi (tribute), II. 23.
-
-Miyake (granary), I. 178; II. 8, 13, 17,
-D7, 2ON2 1200s 7.O>, OSs
-
-Miyakko (local governor), I. 51, 133, 2155
-etc.
-
-Mohitori, I. 134.
-
-Momari Cheulchi, I. 241, 244.
-
-Mononobe, I. 128, 184.
-
-Mononobe no Ohomuraji, II. 90, 112.
-
-Monstrosities, I. 298; II. 147, 296, 300,
-368.
-
-Moon-god, I. 18-20, 28, 32, 391.
-
-Moriya no Ohomuraji, II. 90, 112.
-
-Mortar, I. 189.
-
-Motoori, Preface, Introd. xix.
-
-Mounds, sepulchral, I. 72; II. 17. See
-also Haka, Misasagi, Tomb.
-
-Mountain-goat. See Kama-shishi,
-
-Mountain-god, I. 22.
-
-Mourning, I. 277 ; II. 232. See Funeral
-ceremonies.
-
-Mujina (animal like badger), I. 184.!
-
-Mulberry (paper), I. 49; (silk), I. 347,
-
-66.
-
-
-3
-
-Mules, II. 344.
-
-Mumayado (Prince). See Shéotoku
-Daishi.
-
-Mumako no Sukune, II. 90, 101-103, 106,
-112, 119. See Soga.
-
-Munchu (King of Peékché), I. 367.
-
-
-Munyong (King of Pekché), I. 405.
-
-Mura (village), II. 18.
-
-Muraji (title), I. 27.
-
-Mura-kumo (sword), I. 53.
-
-Murder of an Emperor, I. 334; Il. 119.
-
-Mure (Corean word for mountain), II. 54,
-153.
-
-Muretsu Tenno, I. 399-407.
-
-Muro; I. 71, 85, 123, £34, 20%4,'297, 379;
-3793 Il. 375, 380, 426.
-
-Music, I. 326 ; II. 30, 72, 144, 324, 350,
-359, 371, 376, 406. See Flute, Koto.
-
-Musubu no Kami, I. 5. .
-
-Muté (Corean Prince), I. 405.
-
-Myong (King of Pékché), II. 15, 66, 74.
-
-Mythology, Books I. and II.
-
-
-NA (name). See Names.
-
-Nagare-kanjo, II. 151.
-
-Naga-sune-hiko, I. 113, 126, 127.
-
-Naijin, II. 197.
-
-Nails, superstitions regarding, I. 50.
-
-Nakatomi, I. 42, 45, 48, 79.
-
-Nakatsu (Prince), I. 301.
-
-Nama (Corean official rank), II. 55, 79;
-etc:
-
-Names (proper), I. 27, 175, 190, 204, 255,
-316, 3935 LL. 185,223, 224, 225;,226,
-354, 393. See also Title.
-
-Naniha (city of Ohosaka), I. 113.
-
-Naniha (person), II. 92, e¢ segq.
-
-Nara Museum, II. 128.
-
-Nari-kabura (sounding arrow), I. 87; II.
-277.
-
-Nashiro, I. 314, 322, 375, 406; II. 4,
-Ta 2s iy esore CON aay. | oc, Be;
-Koshiro. :
-
-Nengo (year-period), II. 198, 236.
-
-Ne no Kuni, I. 20. See Yomi.
-
-Ne no Omi, I. 331, 363.
-
-Nether land, I. 20, 32, 51. See Yomi.
-
-Nigi-haya-hi no Mikoto, I. 111, 128; II.
-427.
-
-Nihabi (courtyard-fire), I. 44.
-
-Nihi-name (festival of first-fruits), I. 86,
-122, 292, 375, 3793 II. 109, 169, 177.
-See Oho-nihe, Ahimbe.
-
-Nihon. See Nippon.
-
-Ninken Tenné, I. 393-398.
-
-Nintoku Tenno, I. 272-300.
-
-Nippon, I. 1,. 13, 268, 345; II. 7, 12, 42,
-137, 139 149, 303:
-
-
-No (genitive particle), frequent in proper °
-
-
-names.
-
-No dance, origin of, I. 79.
-
-Nomi no Sukune, I. 175, 181.
-
-Norito (Shinto rituals). Introd. xii. xiv. ; I.
-Sous 119383.
-
-Nuhoko or jewel-spear, I. 11.
-
-Nunakura futo-damashiki, II. 90.
-
-Nuns, II. 96, 101, 103, 104, 113, 118, 135,
-etc.
-
-Nuptial hut, I. 12, 41, 54, 400.
-
-
-INDEX.
-
-
-Nuribe. See Lacquer.
-Nydi pearl, I. 209.
-
-
-OATH, I. 35:3 Il. .82;)97;3, 107%
-
-Obito (title), I. 43.
-
-Occultation of stars, II. 169, 174, 353-
-
-Offerings to Gods, I. 44, 45, 47, 178, 209,
-227; II. 147, etc. See Gohei, Mite-
-gura, Nihi-name.
-
-Ohine, I. 278.
-
-Oho (great), passin.
-
-Oho-harahe, II. 221, 352, 378.
-Harahe, Purgation.
-
-Oho-hatsuse Waka-take, I. 329, 333.
-
-Oho-hirume no Mikota, I. IIo.
-
-Oho-hirume no muchi, I. 18.
-
-Oho-imi Deity, II. 328, etc.
-
-Ohoke (Emperor), I. 377.
-
-Oho-kume, I. 116, 133.
-
-Oho-kuni-dama, worship of, I. 151.
-
-Oho-kusaka (Prince), I. 331.
-
-Oho-maye no Sukune, I. 328.
-
-Oho-mono-nushi no Kami, I. 81, 152, 154,
-
-yo abies
-Oho-muraji, I. 337, etc.
-
-Oho-namuji no Kami, I. 54, 59, 68, 80;
-1k, Gif
-
-Oho-nihe, Introd. xv. ; I. 86; II. 324, 334,
-404. See Nihi-name.
-
-Oho-omi, I. 334, 337; IL. 108, etc.
-
-Oho-saka, I. 113.
-
-
-See
-
-
-Oho-sazaki, I. 255, 259, 271, 272. See
-Nintoku.
-
-Oho-sora. See Sora.
-
-Oho-tarashi-hiko-oshiro wake. See Keiko.
-
-Oho-tomo. I. 86, 116, 133, etc.
-
-Oho-tsu (Prince), II. 383.
-
-Oho-usu (Prince), I. 188, 202.
-
-Oho-yama-mori (Prince), I. 270, 274.
-
-Oho-yamato-hiko-suki tomo. See Itoku.
-
-Oho - yamato - neko - hiko-futo-ni. See
-Korei.
-
-Oho-yamato-neko-hiko kuni kuru. See
-
-
-Kogen.
-Oho-yashima (Great-eight-island-country),
-i, TelLOsellages.
-Ohoye, I. 278.
-Ojin Tenn, I. 254-271; II. 9.
-Okime (old woman), I. 386, 387, 391.
-Okinaga tarashi-hi hiro-nuka. See Jomei.
-
-
-Okinaga tarashi-hime, I. 218, 224; II. 8, |
-
-
-59.
-
-Old man of the sea, I. 88, 92.
-
-Omens, 07 2272:225% 238.527.7459 320) sll 2,
-4; 226, 237,239, 245, 256,259; 263,
-ae 269, 270, 276, 277, 293, 331, 359,
-etc.
-
-Omi (Minister or high official, also title of
-nobility), I. 36, e¢ passim. See Oho-omi.
-
-Omohi-kane no Kami, I. 42, 46.
-
-Oni-yarahi, ceremony of, II. 389.
-
-Onogoro-jima, I. 12.
-
-Orange-tree, I. 186.
-
-Ordeal by fire, I. 73, 85, 89.
-
-
-|
-
-
-439
-
-
-Ordeal by boiling water, I. 258, 316; II.
-22,
-
-Original commentary, Introd. xxi. ; II. 41.
-
-Osaka Oho-nakatsu hime, I. 313, 328.
-
-Oshi ho mimi no Mikoto, I. 83.
-
-Oshikuma, Prince, I. 236, e¢ segq.
-
-Oshikuni oshi-take kanahi, II. 5.
-
-
-PAGODA IDE S102 r455122, 8100.
-
-Painting and painters, I. 350; II. 127,
-133, 140, 144, 187, 244, 265, 336.
-
-Pak Chésyang, I. 242,
-
-Panku, I. 28.
-
-Panphi, part of Corea, II. 9, 11, 13, etc.
-
-Paper, II. 140.
-
-Paper-mulberry fibre, I. 44.
-
-Parrots, II. 230, 251.
-
-Parturition house, I. 73, 94, 103, 277, 320.
-
-Peach, magical properties of, I. 30.
-
-Peacock, I. 230.
-
-Pearl, II. 27,34. See Nydi.
-
-Pekché, Kingdom of Corea, I. 231, 232,
-248, 249, 250, 257, 261, 263, 349, and
-frequently during the remainder of the
-work. Downfall of Pékché, II. 269, e¢
-SEQ.
-
-Pékché record, I. 248, 252, etc.
-
-Pepper Court, II. 28.
-
-Pestilence, I. 151 ; II. 67, 102, 104.
-
-Pestle and moitar, I. 189.
-
-Petroleum, II. 289.
-
-Phallic worship, I. 11, 77, 139.
-
-Phasa, King of Silla, I. 231.
-
-Pheasant, I. 65, 73, 90.
-
-Pheasant, white, an omen, II. 124.
-
-Phung-chhang(Pekché Prince), IT. 165, 184.
-
-Physicians, We aiss2 Ll a72, 2055 soce
-Medicine.
-
-Picnics, I. 388, 389, etc.
-
-Piebald colt of Heaven, I. 40, 45.
-
-
-Pit-dwellers, I. 71. See Muro.
-Pleiades, I. 69.
-Polar bear. See Bear.
-
-
-Polygamy, I. 118, 323.
-Portents, II. 148, 155, 180, 183, 186, 187,
-190. See Omens.
-
-
-| Posthumous honours, II. 323, and fre-
-
-
-quently after this.
-Posting, II. 206, 207.
-
-
-| Potters and pottery, I. 121, 155, 170, 350,
-
-
-2056; Lik
-Hanishi.
-
-Presents offered on branches, I. 192, 220.
-
-Priest, Emperor acting as, I. 225.
-
-Primogeniture, I. 110, 140, 273, 384; II.
-242.
-
-Prince, I. 142, 149.
-
-Punam, II. 48.
-
-Punishments, II. 234, e¢ passdm.
-
-Purgation, or purification, ceremony of, I.
-26, 31, 48, 49, 50, 224, 308; II. 96, 221,
-See Oho-harahe, Harahe.
-
-Purity, ritual, I. 41.
-
-Puyo, country of, II. 18.
-
-
-117. See Clay-workers,
-
-
-440
-
-
-QUELPAERT. See Tamna.
-Quiver, I. 34. \
-
-
-RaIn of ashes, II. 346, 369.
-
-Rain, prayers for, Il. 174. 175, etc.
-
-Raitsui (stone weapons), I. 12.
-
-Rank, official, II. 127, 225, 228, 231, 368.
-See Cap-rank.
-
-Recorders, I. 307, 357.
-
-Red bird, II. 347, 351.
-
-Red crow, II. 337, 407, 409. See Yata-
-garasu.
-
-Red tortoise, IT. 352.
-
-Regalia, I. 76, 83, 307; II. 3, 33.
-
-Relics (Buddhist), II. 102, 117, 121.
-
-Religion. See » Buddhism, Mythology,
-Shinto.
-
-Retreat (religious), II. 360, 369, 398.
-
-Rice, creation of, I. 33.
-
-Rice-castle. See Inaki.
-
-Richiu Tenno, I. 301.
-
-Riddle, I. 396. See Conundrum.
-
-Right and left, precedence of, I. 16; II.
-
-
-te
-Risshi (Buddhist rank), II. 359, 416, etc.
-River-god, I. 22, 281, 299; Il. 174. See
-Midzuchi, Serpent-worship.
-Rock-cave of Heaven, I. 41-50.
-
-
-SA (honorific prefix), I. 3.
-
-Sachihiko (envoy to Corea), I. 252, etc.
-
-Sacred jars, I. 122, 130, 157.
-
-Sacrifices, I. 220, 228, 281; II. 174.
-Offerings.
-
-Sacrifices, human, I. 178, 181.
-
-Sadaijin, II. 196, 294.
-
-Saheki Be, I. 212.
-
-Sahohiko, I. 172.
-
-Saimei Tennd, II. 248-273.
-
-Saka (an acclivity), frequent in names of
-places. -
-
-Sakahe, Miwa no Kimi, II. 107, e¢ segq.
-
-Sakaki (sacred tree), I. 43, 47, 81, 219.
-
-Sake (rice-beer), I. 52, 56, 154, 244, 245,
-264; II. 166.
-
-Sakitsuya, I. 348.
-
-Sakyamuni. See Shaka.
-
-Salt-pans, I. 220, 268.
-
-Saniha, I. 225.
-
-Sarcophagus, I. 137 ; II. 285, 389.
-
-Sarume, I. 44, 76, 79.
-
-Saruta-hiko, I. 77.
-
-Scribes. See Recorders, Fumibito.
-
-Sea-gods, I. 22, 93, 95, 106.
-
-Sea monster, I. 61, 95, 08, 102.
-
-Seamstresses imported, I. 261, 269, 271,
-
-
-See
-
-
-Seimu Tenno, I. 214-2106.
-
-Seinei Tennd, I. 373-377.
-
-Senkwa Tenn6, II. 33-35.
-
-Sepulchral mounds, I. 72; II. 17.
-Misasagi, Haka, Tomb.
-
-Serfs, I.°388 ; II. 29, 30,°°'79, 87; 94, 178,
-206, 217, 327, 371; 431.
-
-
-See
-
-
-INDEX.
-
-
-Serpents, I. 52, 296, 299, 347.
-
-Serpent-worship, I. 158, 208, 299, 347.
-See Midzuchi.
-
-Seta, battle of, II. 314.
-
-Seven stars, II. 366.
-
-Shaka, II. 65.
-
-Shamon, II. 197, 241, etc.
-
-Shari. See Relics.
-
-Sheep, II. 124, 188.
-
-Shibi no Omi, I. 400, e¢ segq.
-
-Shields, I. 80, 155, 282; II. 395.
-
-Shiguma, II. 257. See Bear.
-
-Shihi-netsu-hiko, I. 111, 120, 121, 126.
-
-Shiho-tsu no oji, I. 92, 110.
-
-Shiki (rebel), I. 125.
-
-Shiki (Commentary on “ Nihongi ”),
-Introd. xiii. xix.
-
-Shiki tsu hiko tami demi. See Annei.
-
-Shikome (ugly woman of Yomi), I. 25.
-
-ShinjOsai (festival), I. 86.
-
-Shinto (religion), Introd. xii. xxiv. ; I.
-41, 433 Il. 106, 195, 293. See Mytho-
-logy, Sun-goddess, Nakatomi, Imbe,
-Offerings, Wind-god, etc.
-
-Shinto priests, I. 56. See Hafuri.
-
-Shinto shrines, I. 58; II. 76.
-
-Shinra. See Silla.
-
-Shipping tax, IT. 69.
-
-Ships, I. 58, 161, 256, 268, etc.
-
-Shiraga take-hiro-kuni-oshi-waka-Yamato-
-neko, I. 373.
-
-Shiratori no Misasagi, I. 211.
-
-Shiri-kume-naha, I. 45.
-
-Shiro, a land measure, IT. 115, 205, 394.
-
-Shitenno, II. 114, 482.
-
-Shiten6ji, II. 115, 123, 150.
-
-Shogun, I. 156.
-
-Sholsiide 1,
-
-Shotoku Daishi, Introd. xiv ; II. 95, 107,
-114, 122, 133, 144, 148, 431.
-
-
-| Shrines, I. 1325; II. 318.
-| Shiich6 (year-period), II. 373, 379.
-
-
-Shikai (or Shuge) edition of ‘‘ Nihongi,”
-Introd. xx.
-Shuttle, I. 41.
-
-
-Signet (Imperial), I..314; II. 3. See
-Regalia.
-
-Silk, I. 166, e¢ ass¢m in Vol. II.
-
-Sillkewormyp ily -2ivegs4 oAvecaelll ew been ec
-
-
-Mulberry.
-
-Silla (Kingdom of Corea), I. 57, 166, 221,
-230, 231, 234, 249, 257, 269, 284, 295,
-315, 326, 349, 3543 II. 15, 18, 35, 38,
-and frequently after this.
-
-
-| Silver, II. 172, 325, 360, 387, 403, 404,
-
-
-405.
-
-Slaves. 2007 256.500, 4a, OA, 072i ey 4
-525093 LOO; mig; Wl5y el O2s6202,) 1220).
-221, 402.
-
-Smith-god, I. 81, 139.
-
-Snake-worship. See Serpent-worship.
-
-Sddzu, II. 153, 325, 359, 377 378.
-
-Soga family, II. 148, 189.
-
-Soga no Oho-omi, II. 73, 87.
-
-
-INDEX.
-
-
-Soga no Mumako, II. 90-119.
-
-So In-ko, II. 136.
-
-SOj6, II. 153. 359, 377) 378.
-
-Sonaka Cheulchi, I. 164, 166
-
-Sora (the void of Heaven), I. 4 83. 347.
-
-Sosa no wo (deity), I. 19, 28, 32, 34-59.
-
-Soto-ori-hime, I. 318.
-
-Soul, I. 263. ;
-
-South, Emperor faces, on official occasions,
-32
-
-Spear, I. 44, 47; 155.
-
-Spelling, Introd. xxi.
-
-Spider, superstition regarding, I. 320.
-
-Spittle, I. 31, 48, 106.
-
-S’ramana, IT. 197.
-
-S’ramanera, II. 348.
-
-Star-god. See Kagase-wo.
-
-Stone implements, I. 189.
-
-Stone weapons, I. 87, 123, 169; II. 308.
-
-Stone worship, I. 1, 168, 183. See Idzushi.
-
-Storehouse, I. 184... See Miyake, Inaki.
-
-Suguri. See Sukuri.
-
-Suguroku (backgammon), IT. 395.
-
-Suicide. . See Junshi.
-
-Suiko Tenno, II. 121-156.
-
-Suinin Tenné, I. 165-187.
-
-Suizei Tenno, I. 138-141.
-
-Sajin Tenné, I. 150, 164.
-
-Sujun Tenno, II. 112-120.
-
-Sukuna-bikona (gcd), I. 59-63, 244.
-
-Sukune (title), I. 142, 236.
-
-Sukuri (title), I. 341; IL. 74.
-
-Sumera Mikoto, I. 109.
-
-Sumeru or Sumi, Mount, II. 144, 251, 259,
-265.
-
-Sumptuary Laws, II. 343, 350.
-
-Sun and moon, sex of, I. 28.
-
-Sunai (junior), II. 250.
-
-Sun-crow, I. 116. See Yatagarasu.
-
-Sun-goddess, I. 18, 20, 28, 32, 33, 41-49,
-73, 115, 151, 176, 3923 II. 95, 107, 307.
-
-Sun-mirror, I. 82, 168, 169. See Mirror.
-
-Superstitions, I. 325. See Comb, Spider,
-Child-birth, Spittle, Caterpillar, Fetish,
-Omens, Divination, Bed, Garlic, Incan-
-tations, Magic, Nails, Peach, Ordeal,
-Red animals, White animals.
-
-Surnames, origin of, I. 27, 204, 316. See
-Names, Titles.
-
-Susa no wo. See Sosa no wo.
-
-Sushén (Manchus), II. 58, 257, 260, 263,
-265, 335, 420.
-
-Sutras, IL. 65, 96, 133, 135, 170, 175, 240,
-241, 263, 265, 335, 346, 352, 371, 372;
-376, 378, 379, 403, 408, 413, 416, 421,
-422. See also Issaikio.
-
-Swan, I. 174.
-
-Sword, I. 35, 53, 87, 92, 115, 123, 162,
-153; GOOswlle sa,ecte:
-
-Syoko (King of Pékché), I. 247, 251.
-
-Syéng-mydng (King of ’Pekché), IL. 42, 43,
-66.
-
-
-TACHIBANA, I. 186.
-
-
-441
-
-
-Tachibana no Toyohi. See Yomei Tenno.
-
-Tadzukai (office), II. 87.
-
-Tagishi mimi, son of Jimmu, I. 138.
-
-Tai (fish), I. 93.
-
-Taikyoku, II. 191.
-
-Tajihi no Midzuha-wake, I. 310.
-
-Tajima Mori (mission to fetch the orange-
-tree), I. 186.,
-
-Takakuraji, I. 115.
-
-Takama no hara (plain of High Heaven), I.
-16, 33, 83, 133-
-
-Takama no hara hiro-nu no hime. See
-Jito.
-
-Taka mi musubi (god), I. 5, 64, 81, 86, 90,
-IIO, 122, 392.
-
-Takayasu, castle of, II. 290, etc.
-
-Take (brave), I. 64, frequent in names.
-
-Takechi (Prince), II. 309, e¢ segg.
-
-Takechi no Sukune (statesman), I. 200,
-DU lee2h 22276280; 245, 2A on 2h 7204,
-Sivas ullane:
-
-Take ha dzuchi (god), I. 70.
-
-Take-hani-yasu-hiko (rebel), I.
-Seqq.
-
-Take-mika-dzuchi (deity), I. 68, 115.
-
-Take-wo-hiro-kuni oshi-tate. See Sen-
-kwa.
-
-Taku-hata, I. 341.
-
-Talsol (Corean title), II. 98, 283.
-
-Tama (jewel, spirit), frequent in names.
-
-Tama-boko (jewel-spear of Heaven), I.
-Te
-
-Tama-yori-hime, I. 94, 104, 108.
-
-Tamna, II. 6,271, 284, 286, 290, 323, etc.
-
-Tan, land measure, II.208; cloth measure,
-II. 200.
-
-Tanegashima (island), II. 336, 344, 352,
-356, 359, 418.
-
-Tanka (poetry), I. 91, etc.
-
-Tankun, legend of, II. 77.
-
-Tanners, I. 397.
-
-Tarashi-naka-tsu hiko.
-
-Targets, I. 282.
-
-Tasuke (shoulder straps or braces), I. 44.
-
-‘l'atami (mats), I. 325.
-
-Tatemono, I. 181.
-
-Tattooing, I. 200, 305.
-
-Taxation, I. 160, 365; II. 68, 208, 209,
-225, etc.
-
-Temmu Tenn, II. 301-381.
-
-Temples (Buddhist), II. 67, 101, 111, 341,
-346, etc.
-
-Temples of the Earth and Grain, Introd.
-XVAs spel elspgneLce
-
-Tenchi Tenno, II. 274-300.
-
-Tendoku (mode of reading ‘Sutras), II.
-
-
-156, e¢
-
-
-See Chiuai.
-
-
-175.
-
-Tengu (celestial dog), II. 167.
-
-Tennd (Emperor), I. 109, 234.
-
-Tenndji, temple of, II. 115, 296.
-
-Tenshddaijin. See Sun-goddess.
-
-Tera (temple), II. 122, 123.
-
-Thang (China), II 136, 145, 150, 165,
-166, 242, 245, 260, 280, 298, 393, etc.
-
-
-442
-
-
-Three Buddhist garments, II. 203. See
-Kesa.
-
-Three-legged crow, Il. gee
-garasu.
-
-Three- legged sparrow, II. 359.
-
-Three precious things, II. 104, 109, 123,
-129, 149, 337, 377-
-
-‘Thunder-god, I. 29, 115 ; sat lly SYSS
-Take-mika-dzuchi.
-
-Tidal wave, II. 366.
-
-Tiger stories, II. 60, 190.
-
-Tiles, II. 164.
-
-
-See Yata-
-
-
-Titles; 1:,.2%,.4755, 316% Tl. 201,- 225-228,
-
-
-361, 364.
-
-Tohe or tobe, I. 114, 129.
-
-Tok) 1. 354:
-
-Aon JUSS.
-
-Tokaido, I. 155.
-
-Tokibe (magistrates), II. 396.
-
-Tokni, II. 100.
-
-Tokoyo or tokoyo no kuni (Eternal Land),
-I. 42, 60, 114,176, 186, 368; I1- 188,
-
-
-Tons, J, 159, 180, 213 ; Il. 17, 145, 162,
-178, 193, 217, 242, 292. See Misasagi.
-
-Tomo, I. 254.
-
-Tomoye, I. 34.
-
-Toneri (chamberlain), I. 319, 359, 395, etc.
-
-Toneri (Prince), Introd. xiii.
-
-Tortoise-shell (used in divination), I. 152.
-
-Toyo (rich, abundant) ; frequent in proper
-names.
-
-Toyo (province of oe EIS isa
-
-Toyo-ata-tsu hime, I. 91.
-
-Toyoki no Mikoto. L A
-
-Toyo-kumu-nu (deity), I
-
-Toyo-kuni nushi (deity), t
-
-Toyo-mike-kashikiya. See Suiko.
-
-Toyo-tama-hime, I. 93-108.
-
-Treasury, I. 309, 373 ; IIL. 37.
-
-Tree-god, I. 22.
-
-Trees created, I. 58.
-
-Tribute to Japan from Corea, I. 231, 296,
-et passin.
-
-Tribute from Japan to China, I. 245.
-
-Tripitaka, II. 322. See Issaikio.
-
-Triratna, II. 104 See Three precious
-things.
-
-T’sin (Chinese dynasty), T38:
-
-Tsu (archaic genitive particle), frequent in
-proper names.
-
-Tsuchi (in names of deities), ‘ By vile
-
-bai ae a (pit-dwellers), I. 129,
-195, 198.
-
-Tsuchi-ningio, I. 181.
-
-Tsuki-yomi no Mikoto. See Moon-god.
-
-Tsukushi, I. 13, 109, 112, 192, etc.
-
-Tsumori no Muraji, Il. 49.
-
-Tukhara, in India, II. 246, 259, 266.
-
-Tumulus. See Tomb, Misasagi, Sepul-
-chral mound.
-
-Tyénchi (Corean Prince), I. 263.
-
-
-194,
-
-
-Usuya. See Parturition house.
-
-
-INDEX.
-
-
-Udaijin, II. 196, 294.
-
-Uji (noble House), I. 27, 316; II. 143,
-190, etc.
-
-Uji no waka-iratsuko, I. 171, 276.
-
-Ukemochi no Kami. See I*ood-goddess.
-
-Ukeshi, I. 117, 120.
-
-Ullambana, II. 230, 251, 263.
-
-Umashi-ashi-kabi, [. 4.
-
-Umbilical cord, superstition regarding, I
-85.
-
-Uneme (palace waiting-women), I. 292,
-304, 326. 345; Il. 31, 209.
-
-Unicorn, II. 239.
-
-Unseen trade, II. 264.
-
-Upasaka, II. 372.
-
-Upashaya, II. 377. .
-
-Urabe (diviners), II. 102.
-
-Urashima, legend of, I. 368.
-
-Ura ele235;
-
-Urosohorichiu, I. 234.
-
-Urushi. See Lacquer.
-
-Usu (mill), I. 189.
-
-Utagaki (poetical tournament), I. 400.
-
-Uzu (ornament), II. 128. See Hair
-ornaments.
-
-Uzume no Mikoto, I. 44, 50, 77.
-
-
-VENUS (planet), I. 69.
-
-Vimokcha, II. 60.
-
-Vinaya. II. 96.
-
-Void of Heaven. See Sora.
-
-Wa (name for Japan), I. 242, 245; II. 72,
-137, 303, etc.
-
-Wagtail, I. 17.
-
-Waka (young), frequent in proper names.
-
-Waka-hiru-me no Mikoto, I. 45, 237.
-
-Waka-yamato-neko-hiko-oho-hihi, I. 148.
-
-Waka-tarashi-hiko, I. 214.
-
-Wake (Prince), I. 190, 192 ; IT. 206.
-
-Wangin or Wani (Corean scholar), Introd.
-leis e202; 620G>
-
-Wani (sea-monster), I. 61, 156, 262.
-
-War-god. See Hachiman.
-
-Watarisbima (Yezo), II. 252, 264.
-
-Watchword, II. 313.
-
-Water deity, 22; °209,, sSee Midzuha-
-nome.
-
-Water-level, II. 296.
-
-Water-snake, I. 299. See Serpent-worship.
-
-Weavers, Corean, I. 265, 270.
-
-Weaver-god, I. 70.
-
-Weaving, I. 41, 45, 90, 183, 265, 291, 350,
-363, etc.
-
-Weaving maiden (a star), I. 75.
-
-Wet-nurses, I. 104.
-
-Wheat, I
-
-White animals (favourable omens), I. 297;
-DI T2An iA, 236.287, 230; 62525, 6250;
-322, 326, 352, 394, 410, 416.
-
-Wind-deities, I. 22,230; II. 328, etc.
-
-Witchéraft, I. 60; II. tro, 187, Igo.
-See Magic, Incantation.
-
-Wo-asatsuma wakugo no Sukune, I, 312.
-
-
-INDEX.
-
-
-Wobashira, I. 11, 24.
-
-Wohodo. See Keidai Tenno.
-
-Woke. See Kenzo Tenno.
-
-Wokera (drug), II. 372, 373.
-
-Wolves, II. 36.
-
-Women as rulers, I. 194; position of, I.
-330; 400.
-
-Woollen carpets, II. 73.
-
-Wosada nunakura futodamashiki, II. 38.
-
-Wo-usu, I. 188. See Yamato-dake.
-
-Wrestling, I. 173.
-
-Writing, Introd. xi. xvii.; I. 262.
-
-Wu (in China), I. 265, 269, 271, 296, 347,
-Byey Fees SGCME@, Inte.
-
-
-YAHATA, I, 271.
-
-Yakabe (Prince), II. 112.
-
-Yaku (island), II. 146, 147, 164.
-
-Yakushi (Buddhist deity), II. 348, 376,
-393-
-
-Yama (mountain), frequent in names.
-
-Yama (Indian God), I. 24.
-
-Yamashiro (Prince), II. 156, 182.
-
-Yamato (province), I. 1, 13, 109, etc.
-
-Yamato-dake (Prince), I. 189, 200, ef segq.
-
-Yamato-neko, I, 146; II. 210.
-
-Yamato no Oho-kuni-dama, I. 151.
-
-Yamato-tarashi-hiko-kuni-oshi-bito, I. 145.
-
-Yanasa, II. 53.
-
-ae gem, I, 34, 35, 38,43, 49, 76, 81,
-184.
-
-
-443
-
-
-| Yashiro (shrine), I. 82.
-| Yasumaro, Introd. xiii. xiv.
-
-
-Yata, Princess, I. 285.
-
-Yatagarasu, I. 44, 52, 115, 125, 134; II.
-2Bi.
-
-Yatakagami, I. 43.
-
-Yatsu, I. 52.
-
-Yebisu. See Yemishi.
-
-Yemishi or Ainos, I. 109, 124, 159, 200,
-202) 202,-200; 212) 214, 200,8977.5) LL,
-38, 96, 168, 176, 209, 249, 252, 254,
-259, 260, 262, 289, 354, 355, 389-
-
-Yemishi (Prime Minister), If. 157, 171,
-17S, eOl, 1020227.
-
-Yellow springs, I. 24; II. 45, 233.
-
-Veta. See Eta.
-
-Yin and Yang, I. 1 ; II. 223, 295.
-
-Yo6chhyang (Corean Prince), II. 70, 75,
-
-
-See Mirror.
-
-
-77:
-Yogi, II. 96.
-Yomei Tenné, II. 106-111.
-
-
-(i) WOmUsOr MbLadesm Iowa) 20. -20.9sisn 50,
-
-
-69.
-
-Yoshino, I. 119.
-
-Yoshino, Palace of, frequently in Book
-XXX.
-
-VYorodzu, prowess of, IL. 115.
-
-Yoshino (Prince), II. 197, 204.
-
-Yu-be, II. 21.
-
-Yufu (tree fibre), I. 81.
-
-Yuniha, I. 41, 83, 86.
-
-Yiriaku Tenno, I. 333-372.
-
-
->
-+
-. . : LONDON: |
-PRINTED BY GILBERT AND RIVINGTON, LD.. '
-
-
-ST, JOHN’S HOUSE, CLERKENWELL, E.C. :
-
-
-en
-
-
-65
-THE JAPAN SOCIETY,
-LONDON.
-
-
-(20, HANOVER SQUARE, W.)
-
-
-NoTE.—The Orthography adopted in the Society’s “Transactions and
-Proceedings” for the transliteration of Japanese words into Roman character
-is that of the “Japanese-English and English-Japanese Dictionary” by
-J. C. Hepburn, M.D., LL.D. (The vowels as in Italian, the consonants as
-in English.) |
-
-
-Where two names of a Japanese person are given, the name in BOLDER
-TYPE is the Family Name.
-
-
-In April, 1895, the following CIRCULAR was issued to Members, by order
-of the Council :—
-
-
-“The Council of the Japan Society desire to inform you that Mr. W. G.
-ASTON, C.M.G., M.R.A.S., an Honorary Member of this Society, and late
-Japanese Secretary of H.B.M. Legation at Tokio, has completed the first
-Translation into English, with Commentaries, of the celebrated Japanese
-work known as the ‘ Vzhong7z, or ‘Chronicles of Japan.’ This treatise was
-written in 720 A.D. and contains a most valuable record of the ancient
-Mythology and early History of the Japanese from the ‘ Divine Age’ to
-700 A.D. ; it also throws a flood of light on the ancient institutions, customs,
-and ideas of the country. Mr. Aston has honoured the Japan Society by
-offering to it the manuscript of his Translation with Commentaries, on the
-sole condition that the Society will publish it. The Council, after careful
-consideration, have unanimously resolved to accept the offer, being strongly
-of opinion that, in view of the importance of the Translation and of the well-
-known qualifications of the scholar who has undertaken it,—in view, also, of
-the elaborate Commentaries with which the Translation will be furnished at
-his hands, the best interests of the Society render it eminently desirable
-that it should identify itself with the undertaking, and be the means of
-rendering these valuable Chronicles accessible to scholars and those in-
-terested in Japan in every part of the world.”
-
-
-In order to enable the Society to accept Mr. Aston’s generous offer, without
-encroaching on the amount of the Society’s funds available for the purposes
-of the publication of its “Transactions and Proceedings,” Members were
-invited to form a Guarantee Fund, the amount of each individual guarantee
-not to exceed five pounds, or be less than one pound.
-
-The Guarantee Fund was quickly formed, and amounted, on 1st March,
-1896, to £324 8s. One hundred and twenty Members, whose names appear
-in the List on the next page, signed as Guarantors. It has not been found
-necessary to make any call upon the Guarantors.
-
-The work extends to two volumes, of 432 and 450 pages respectively, and
-is uniform in size and type with the Society’s “ Transactions and Proceed-
-ings,” with the issue of which its publication has not in any way interfered.
-The first volume was issued to Members in March, 1896, and the second
-volume later on in the year. By order of the Council a copy of each volume
-was presented to every Member of the Society at the time of publication.
-Surplus copies of the whole work are for sale to non-Members, through the
-Society’s Publishers, at one guinea each, and, through the Hon. Secretaries,
-to Members elected after its publication, at fifteen shillings.
-
-VOL. 11. APPENDIX. - Gg
-
-
-Lis? ..OF
-
-
-Petet Adam.
-
-Sir Rutherford Alcock, LeGeb:
-Professor W. Anderson, dren Oxtoys
-His Excellency Viscount Aoki.
-T. Aoki.
-
-R. J. Ashton.
-
-W. G. Aston, C.M G.
-
-Wilfrid Ball, R.P.E.
-
-Bradley Batsford.
-
-Henry C. Beeton, F.R.G.S.
-Walter L. Behrens.
-
-Paul Bevan, M.A., F C.A.
-‘J. Stanwell Birkett.
-
-Henrik Borgstrom.
-
-James L. Bowes.
-
-Colonel E. S. Bridges.
-Edward W. Britten.
-
-A. R. Brown.
-
-Professor W. K. Burton.
-George Cawley, M.I.M.E.
-Professor B..H. Chamberlain.
-Professor A. H. Church, F.R.S.
-Sir Arthur Clay, Bart.
-
-Arthur E. Clementson.
-Alfred Cock, Q.C.
-
-F. W. B. Cockroft.
-
-Edward M. Courtney.
-Major-General R. ‘Cunliffe.
-Thomas Cushing.
-
-W. D. Cutter.
-
-Henry Derham, J.P.
-
-Lord De Saumarez.
-
-Arthur, Didsy.
-
-F. Victor Dickins, M.B., B.Sc.
-Mrs. E. Dobson.
-
-Alfred East, R.I.
-
-Francis Elgar, LL.D., F.R.S.
-Montague Fordham.
-
-J. W. Garnham.
-
-E. J. W. Gibb.
-
-Edward Gilbertson.
-
-Daigoro Goh.
-
-F. W. Gookin.
-
-W. Gowland, F.C S.
-
-W. J. H. Graham.
-
-John H. Gretton.
-
-W. G. Gullana
-
-J. Carey Hall.
-
-J. W. Hall.
-
-W. S. Hail.
-
-Eriest: Tart, D C.L:
-
-J..C. Hawkshaw.
-
-Gonsuke Hayashi.
-Christopher Head, B.A.
-
-
-(
-
-
-ii)
-GUARANTORS.
-
-
-Lieut.-Colonel W. A. Hutchinson, R.A.
-
-
-Hikokicht Ijuin.
-Thomas Jackson.
-Captain J. M. James.
-ie Jancke|
-His Excellency Takaaki Kato.
-J. G. Kennedy, C.B.
-Genjiro Kowaki.
-
-, 4 Ba Je Dake, BA,
-A. Lasenby Liberty, J.P.
-R. A. McLean; F.R:G.S.
-Miss Ellen MacRae
-David MacRitchie, M.A.I.
-W. Manning, F.R.M.S.
-Mrs. E. L. Meinhertzhagen.
-I. J. Morris
-Professor E. S. Morse.
-Charles J. Morse.
-Yoshigusu Nakai.
-T. Okamura, LL.D.
-J. A. Parrot.
-Mrs. Oswald E, Part.
-John O. Pelton.
-John P. Reid.
-L. Reincke. ;
-Professor J. J. Rein.
-Henry J. Reiss.
-Thomas Ritchie.
-Mrs. E. C. Rutter:
-
-
-His Excellency Sir Ernest M. Satow,
-
-
-K.C.M.G.
-F. A. Satow.
-Frederick Saunders.
-Professor G. Schlegel.
-Archdeacon A. C. Shaw.
-_ KK. Shimidzu.
-Douglas B. W. Sladen, B.A.
-J. de Berniere Smith.
-W. Harding Smith, R.B.A.
-William A. South.
-John Sparks.
-R. Phené Spiets, F.5.A.
-L. Alma Tadema, R.A.
-His Excellency K. Takahira.
-J. Takakusu
-Captain Y. Takayaina, [ J.N.
-Tozo Takayanagi.
-Kk. Tanabé.
-R, Tayui.
-Herbert Thompson.
-T. B. Clarke-Thornhill.
-M. Tomkinson, J.P.
-H. Seymour Trower.
-Sir George R. Tyler, Bart.
-
-
-Colonel Sir Edward: S$. Hill, K.C.B., | Y. Uchida.
-
-
-M.P..
-George H. Hodges.
-Charles Holme, F.L.S.
-F. J. Horniman, M.P.
-‘Marcus B. Huish, 1 ol oF oy
-
-
-W. E. Hume- -Williams, BA, LEB:
-
-
-Ernest van den Broeck.
-
-Baron A. von Siebold.
-Wreeoward.
-
-Alfred SP. White-Cooper, M.A.
-A. E. Wileman.
-
-Captain K. Yendo, I.J. N.
-
-
-Deer:
-Pe ten
-
-
-‘
-
-
-ereentenbtiaereen
-ae STE te
-
-
-ess
-
-
-ST RST ae
-
-
-Beant sa
-
-
-ete
-
-
-meary
-
-
-WADI
-
-
-3 9088 01768 2816

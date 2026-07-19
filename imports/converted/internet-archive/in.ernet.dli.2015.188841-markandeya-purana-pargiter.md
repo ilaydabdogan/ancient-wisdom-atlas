@@ -1,1740 +1,3 @@
-# The Markandeya Purana
-
-BIBUOTHECA INDICA:
-
-COLLECTION OF ORIENTAL WORKS
-
-PUBUSED BY
-
-THE ASIATIC SOCIETY OF BENGAL
-NeIST Serise, Nos. 700, 706, 810, 872, 890, 947, 1058, 1076,
-
-& 1104.
-
-
-THE
-
-MARKANDEYA PURANA
-
-TRANSLATED WITH NOTES
-
-
-F. EDEN PARGITER, B,A.
-
-Indian Civil Service;
-
-Judge of the High Court of Judicature, Calcutta;
-Late Boden Sanskrit Scholar,, Oxford.
-
-
-INDOLOGICAL BOOK HOUSE
-
-
-1675, DAKHNI RAI STREET,
-SUBHASH MARG,
-
-DELHI-6
-
-
-CK 34/10 NEPALI KHAPRA,
-POST BOX
-VARAN4#
-
-
-INDIA
-
-1969
-
-
-PUBLISHED BY I
-
-
-S:B. SINGH
-
-INDOLOGICAL BOOK HOUSE
-VARANASI
-
-
-ALL RIGHTS RESERVED
-
-PRICE RS. 60 /-
-
-
-PRINTED BY TODAY & TOMORROW'S PRINTERS & PUBLISHERS
-FARIDABAD, INDIA.
-
-
-BIBLIOTHECA INDICA
-
-
-OOLLBOTION OF ORIENTAL WORKS,
-
-PTIBUSHED BY
-
-THE ASIATIC SOCIETT OF BENGAL.
-
-Neto^eeise, JSTos. 700, 706, 810, 872, 890, 947, 1058, 1076,
-
-& 1104.
-
-THE
-
-MARKANDEYA PURANA
-
-TRANSLATED WITH NOTES.
-
-BY
-
-E. EDEN PARaiTER, B.A.
-
-Indian Civil SeTvi.ce ;
-
-Judge of the High Court of Judicature, Calcutta ;
-
-Late Boden Sanshrit Scholar, Oxford,
-
-
-CALCUTTA :
-
-PRINTED AT THE BAPTIST MISSION PRESS,
-AND PTJBUSHED BY
-
-THE ASIATIC! SOCIETY, 57, PARK STREET.
-
-1904
-
-
-PREFACB.
-
-
-This translation of the Markandeya Parana was under-
-taken by me for the Asiatic Society of Bengal many years
-ago, when I hoped to be able to carry it through in no long
-period; but onerous official duties left little leisure, and for
-years removed me to a distance from the Society’s Library
-and other means of reference. The Society was reluctant
-that the translation should be dropped, and it has therefore
-been continued as well as leisure permitted. It is hoped
-that in spite of these difficulties the translation may be of
-service to scholars, and the notes with all their short-
-comings not unwelcome.
-
-
-Oalcxttta :
-
-3rd DecemheTf 1904.
-
-
-P. E. P.
-
-
-INTEODUOTION.
-
-TMs translation of tlie Markandeja Parana being made for the
-Asiatic Society of Bengal naturally follows the edition of this work
-prepared by the Eev. Dr. K. M. Banerjea, and published in the Biblio-
-theca Indica in 1862 ; yet other editions and some MSS, have been
-consultipfd and are referred to. The translation has been kept as close
-to the original as possible, consistently with English sense and idiom ;
-for a translation loses some of its interest and much of its trust-
-worthiness, when the reader can never know whetlier it reproduces the
-original accurately or only the purport of tlie original. Tlie time
-during which the work has been in hand has rendered it difficult to
-maintain one system of transliteration throughout ; hut, in order to
-place the whole in a consistent state, the system established by the
-Royal Asiatic Society and approved hy the Asiatic Society of Bengal
-has been adopted in the Index and in this Introduction.
-
-The general character of this Purana has been well summed up by
-Prof* Wilson in his preface to his Translation of the Yisnu Purana,
-except that his description hardly applies to the Devi-mabatmya,
-“This Purana has a character different from that of all the others.
-It has nothing of a sectarial spirit, little of a religious tone ; rarely
-inserting prayers and invocations to any deity ; and such as are in-
-serted are brief and moderate. It deals little in precepts, ceremonial
-or moral. Its leading feature is narrative; and it presents an
-uninterrupted succession of legends, most of which when ancient are
-embellished with new circumstances, and when new partake so far
-of the spirit of the old, that they are disinterested creations of the
-imagination, having no particular motive, being designed to re-
-commend no special doctrine or observance. Whether they are
-derived from any other source, or whether they are original inven-
-tions, it is not possible to ascertain. They are most probably, for
-the greater part at least, original; and the whole has been narrated
-in the compiler's own manner; a manner superior to that of the
-Purinaa in general, with exception of the Bhagavata."
-
-
-Ocmpoditon,
-
-The Purina is clearly divisible (as Dr. Banerjea Boticed) into five
-distinct parts, namely : —
-
-1. Cantos 1-9, in which Jaimini is referred byMarkandeja to
-the wise Birds, and they directly explain to him the foiir questions
-that perplexed him and some connected matters.
-
-2. Cantos 10-44, where, though Jaimini propounds further ques-
-tions to the Birds and they nominally expound them, yet the real
-speakers are Sumati, nicknamed Jada, and his father.
-
-3. Cantos 45-81 : here, though Jaimini and the Birds are the
-nominal speakers, yet the real speakers are Markandeya and his dis-
-ciple Krau^tuki.
-
-4. Cantos 82-92, the Devi-mahatmya, a pure interpolation, in
-which the real speaker is a ni named Medhas, and which is only
-repeated by Markandeya.
-
-5. Cantos 93-136, where Markandeya and Kraustuki carry on
-their discourse from canto 81.
-
-The 137th canto concludes the work ; it is a necessary corollary
-to the first part.
-
-There can be no doubt that only the third and fifth of these parts
-constituted the Pura 9 .a in its original shape as Markand®y3'’s
-Purana. The name would imply that originally Markandeya was the
-chief figure, and it is only in the third part that he appears as the
-real teacher. There is, however, clearer evidence that the Purana
-began with the third part originally, for this is asserted almost
-positively in canto 45, verses 16 to 25. There Markandeya, after
-declaring that this Purana, equally with the Yedas, issued from
-
-Brahma’s mouth, says-- “ I will now tell it to thee Hear all
-
-this from me ...... as I formerly heard it when Bak§a related it.”
-
-These words plainly mean that the true Purana began here ; or, if the
-necessary words of introduction' he prefixed, that it began at verse 16
-or 17, which verses have been slightly modified since in order to
-dovetail them into the preceding portion.
-
-The first and second parts were composed afterwards and then
-prefixed to the Purafiia proper. That they were later compositions
-is implied by the fact that the Birds recite the Parana proper as an
-
-
-authority, and is indeed indicated by the origin attributed to them.
-While the original Parana was proclaimed to he a revelation from
-Brahma himself, no higher authority is claimed for the first and
-second parts than Markandeya and the unknown hrahman Sumati
-Jada, Further, mention is made in canto 20, verse 33, of Puranas
-which narrate Visnu’s manifestations. This expression is vague.
-If it means lengthy descriptions of some of the incarnations, such
-Puranas might be the Yisnu, Brahma-vaivarta, Brahma and
-Bhagavata; but the last two were pronounced hy Prof. Wilson to
-he late oitopositions, and the reference here may be to the former
-two only, to which he assigned about an equal date with this Pur ana.
-There is nothing definite to show whether the first and second
-parts had been united before they were prefixed to the Parana proper,
-or whether the second part was inserted after the first had been pre-
-fixed ; yet it would seem more probable that they had been united
-before they were prefixed. There is a marked similarity between
-them.
-
-^ The prefixing of the discourses delivered by the Birds to the
-Parana proper raised the Birds to the primary and chief position and
-tended to derogate from Markandeya’s pre-eminence ; hut clashing
-was avoided and Markandleya’s supremacy was preserved hy two expe-
-dients ; he was introduced at the very beginning in order that he
-might expressly declare the wisdom and authority of the Birds ; and
-secondly, the original Parana was interfered with as little as possible
-hy making the Birds repeat it in its entirety as Markandej^’s teaching,
-conclusive upon the subjects dealt with in it. The Birds on begin-
-ning it retire from further notice, hut reappear with Jaimini in the
-final canto to conclude their discourse and give consistency to the com-
-bined instruction. This was a termination rendered necessary hy the
-prefixing of the first two parts to the original Pura^-a.
-
-The second part appears to have been amplified beyond its primary
-scope. It discourses about birth and death, about the hells, about
-sins and their punishments and about yoga or religious devotion.
-All these subjects are briefly dealt with, though the description of
-the different hells is ampler than in other Puranas, hut the last
-fubject leads to a discursive expusition. If deidt with like the other
-subjects, the exposition would pass from canto 16, verse 12
-
-
-vi
-
-immediately to canto 87, where king Alarka is driYen by adversity to
-seek Dattatreya’s advice and that rsi expounds the doctrines of yoga
-to him in cantos 88 to 48, and tlie story naturally closes with
-canto 44. But the reference to that king and that rsi was con-
-sidered to require some elucidation at. canto 16, verse 18, hence the
-story of Dattati'eya and the story of^ Alarka’s parents Rtadhvaja
-and Madalasa are made the introduction to the direct exposition of
-yoga, with the result that the digression is so long that, when the
-subject of yoga is reached, its connexion with Jaimini’s questions
-has been lost to sight; and even the passage from the storjJi^f Datia--
-treya to that of Alarka at the end of canto 19 is inapt and abrupt.
-
-Both these stories moreover appear in their turn to have been ex-
-panded beyond their natural course. The story of the brahman and
-his devoted wife in canto 16, which furnishes an unnecessary
-explanation of the birth of Dattatreya, is a story of common town
-life, an absurd anachronism compared with what it explains; and
-it seems with its reference to a temple dedicated to Anasuya during
-her life-time to be an interpolation intended for her glorification.
-The story of Rtadhvaja and Madalasa is a charming one of simple
-marvel and runs its natural course in cantos 20 to 27 as far as Mada-
-lasa’ s instruction of her son Alarka in kingly duties ; but the follow-
-ing cantos 28 to 35, in which she expounds the laws regarding' brah-
-mans, 4raddhas, custom, ^c., hardly accord with the story or with
-her position and knowledge, and seem to be an interpolation. Some
-teaching on such matters being deemed desirable, here was the only
-place where the addition was possible.
-
-The Devi-mahatmya stands entirely by itself as a later interpola-
-tion, It is a poem complete in itself. Its subject and tbe character
-attributed to tbe goddess shew that it is the product of a later age
-which developed and took pleasure in the sanguinary features of
-popular religion. The praise of the goddess Maha-maja in canto 81
-is in the ordinary style. Her special glorification begins in canto 82,
-and is elaborated with the most extravagant laudation and the most
-miraculous imagination. Home of the hymns breathe deep religious
-feeling, express enthusiastic adoration, and evince fervent spiritual
-meditation. On the other hand, the descriptions of the battles abound
-with wild and repulsive incidents, and revel in gross and amazing
-
-
-Vll
-
-fancies. The Pevi-nialiatmya is a compound of the* most opposite
-f^haracters. The religious out-pourings are at times pure and elera-
-ted : the material descriptions are absurd and debased.
-
-The ending of the Purana deserves notice. It closes with the
-exploits of king Dama. According to the Gaudiya or Bengal MSS.,
-which I)r. Banerjea followed, tW Purana ends abruptly in canto 136,
-leaving Dama acquiescing tamely in the flight of his father’s murderer
-Vapu§mat. The up-country version (the ending of which he placed
-in an appendix) is found in the Bombay and Poona editions and
-carries the story on till Dama takes vengeance on Vapusmat. Dr.
-Banerjea eop^idered the abruptness and incompleteness were strong
-evidence of the genuineness of the Bengal ending ; and no douht that
-*is a fair argument, but it overlooks the character of the two endings.
-The pusillanimity which that ending ascribes to Dama jars with the
-whole tone of his threat in canto 135 which both versions account
-genuine. On the other hand the up-country ending narrates the ful-
-fllment of that threat, and the savage and even inhuman incidents
-, which it mientions are hardly explicable if it is spuidous, for Dama after
-killing Yapu^mat used Yapusmat’s blood and flesh for the oblations
-due to his murdered father, and also (it is implied) gave certain
-degraded brahmans a cannibal feast. A forger would not wish nor
-dare to invent in his eulogy of one of the kings such repulsive inci-
-dents, desecrating the most sacred rites and tenets of his religion,
-nor if we can imagine such a forgery did occur, could it have ever
-obtained even tolerance. It is impossible, therefore, to think that the
-up-country ending is a forgery ; and if it he the true original, one
-can easily understand why such an ending should have been struck
-out, and how the reviser, unable to invent or palm off a new ending,
-had to bring the story to the abrupt and jejune conclusion of the
-Bengal version. Tlie up-country ending has, therefore, been adopted
-as the true version in this translation, and the Bengal ending has
-been noticed separately. The former discloses, like stray passages
-elsewhere, that savagery was not absent from the earliest memories of
-the Aryans in India.
-
-For the purpose of discussing the Purana further, it will be
-convenient to consider the flrst and second parts as composing one
-Section, and the third and fifth parts as composing another Section ;
-
-
-¥111
-
-
-and tills dlyision will be observed in wbat follows. Tlie Devi-maliat-
-mya constitutes a Section by itself.
-
-Place of Origin.
-
-With regard to tlie question of the place of its origin, the
-Parana in both its Sections professes to have emaiiatecl from Western
-India.
-
-The second Section a.s the oldest may be considered Hrst. In
-canto 45, vs. 24 and 25, Markandey a says positively tliat Cyavana was
-tlie rsi who first declared it : Oyavana olitaincd it from Bhrgii and
-declared it to tlie nsis, they repeated it to Daksa and ^larkandeya
-learnt it from Daksa. Now Cyavana is iutimaiely associated with the
-west of India, especially with the region about the mouths of the^
-livers Narmada and Tapti. His father Bhrgu and their descendants
-Rcika, Jamadagni and Parasu Kama are connected in many a
-legend with all the country north, east and south of that I'egion.
-That was the territory of the Bhargava race (see pp. 310 and 368).
-As Cyavana settled near the mouths of those rivers, the Purina itself
-claims to have been first declared by him in that region.
-
-Markandeya himself was a Bhargava. This is stated in canto 45, v.
-18 and canto 52 vs, 14-17 ; and also in the Maha-bharata, Yana-p.
-ecxvi. i4104'5. The Bhargavas spread from Cyavana’s region, es-
-pecially eastward along the valleys of the Narmada and Tapti, as
-those valleys were gradually wrested from the hill races by the Yida-
-vas and Hailiayas, the most famous concpierors of which race were
-Arjima Kartavirya and Jyamagha. The former reigned in Mahis-
-mati on the Narmada ; and the latter apparently conquered further
-eastward (see M. Bh., Vana-p, cxvi., 8'anti-p. xlix; Hari-V., xxxiii.
-1850-90, and xxxvii. 1980-87; Yisnu P,, cli-clxxiv ; and Matsya P.
-xliii.-13-51 and xliv, 28-36). Markandeya is said to have paid visits
-to the Pandavas and to have had a tirtha at the junction of the Can-
-ges and Gomati (M. Bh., Yana-p. Ixxxiv. 8058-9), but bis special
-abode appears to have been on the river Pajosni (the modern Puma
-and its continuation in the Tapti, see p. 299) (id. Ixxxviii. 8330).
-Both by lineage and by residence therefore he belonged to that wes-
-tern country, and the original Parana must have been composed
-there. Bhirgavas are continually alluded to throughout the Purina*
-
-
-lx
-
-As regards ilie first Section, it is said the Birds, to whom Jaimini
-*vyas referred, were living in the Vindhya mountains, and it was there
-that they delivered the Parana to him. They are explained of course
-to be four brahman brothers in a state of transmigration, and it ap-
-pears to be implied in canto 3, vs. 22-24, tliat tlieir father, the muoi
-Sukraa, dwelt on or near the Vindhyas. He had a brother named
-Tumhuru. There were other persons of this name, such as Tamburu
-who was a guru among the Gandharvas (see pp. 571, 647, 648, and 118
-as corrected; and M. Bh., Sabha-p. li. 1881.) ; but it seems permissible
-to connect this brother Tumburii with the tribes of the names Tum-
-biira and Tv^bula who dwelt on the slopes of the Yindhyas (p. 843).
-
-Tiie Birds are said to have dwelt in the Yindhyas in a cave, where
-*the water was very sacred (p. 17), and which was sprinkled with
-drops of water from the river Narmada (p. 19) ; and it is no doubt
-allowable to infer the situation from these indications, namely, some
-cliffs of the Vindhya hills where those hills abut on the river
-Narmada at a very sacred tirtha. Such a spot cannot be sought
-above the modern Hoshangabad, for the river above that was encom-
-passed in early times by hills, dense forest and wild tribes. Among
-the very sacred places where the Yindhya- hills on the north approach
-close to the river, none satisfies the conditions better that the rocky
-island and town of Mandhata, which is to he identified with Maliis-
-matl, the ancient and famous Haihaya capital. The modern town
-of Mahesaf, some fifty miles lower down tiie river, claims to be the
-ancient Mahi§mati, but does not satisfy the allusions. Mahismati
-was situated on an island in the river and the palace looked out on the
-rushing stream (Raghii-Y., vi. 43). This description agrees only
-with Mandhata. Mahismati was sacred to Agiii in the earliest times
-(M. BIi., Sahha-p. 1126-68). Mandhata has special claims to sanc-
-tity ; it has very ancient remains ; it has !)ecome sacred to S'iva,
-and the famous shrine of Orhkara and other temples dedicated to him
-are here (Hunter, Impl. Graz., Mandhata. '*). The hills close in on
-the river here, and on the north bank are Jain temples. In these hills
-on the north bank overlooking the river at Mandhata we may place
-the alleged cave where the first part of the Parana professes that it
-was delivered ; and this identification will be found to explain many
-further features of the Parana
-
-
-X
-
-
-With regard to the second part it may be noticed that Sumati Jada,
-whose words the Birds repeat, belonged also to the family of Bhrgu
-(p. 63). Hence this part belonged to the same region where the
-Bliargavas predominated. With this view agrees the statement that
-the rainy season lasts four montlis and the dry season eight months
-(p. 147), as I understand is the rule in this region. It is further
-worthy of note that eyes of blue colour, like the blue water-lily
-(nihtpala) are given to Laksmi (p. 104) and to Madalasa (p. 114) ;
-and such a comparison is rare, I believe, in Sanskrit. Tt was (may
-it be inferred?) in Western India that people with blue eyes could
-have been seen as visitors in circumstances of such approbation that
-their features became a model of beauty.
-
-There are some other matters that might have been expected to
-yield information of a local character, such as the lists of various trees,
-plants, birds and animals (pp. 24-31, 164-6 and 244-5) and the
-peculiar exposition of the construction and nomenclature of fortresses
-( pp. 240-2 ). I have, however, been unable to deduce any definite
-conclusion from the latter, and the lists betray no special local charac-
-ter, but rather aim at being as comprehensive in their way as the
-geographical cantos (67 and 58).
-
-Both the first and second Sections, therefore, plainly emanated from
-Western India, and indicate the middle portion of the Narbada and
-Tapti valleys as their place of origin. It remains to consider the
-Devi-mahatmya, and the following considerations point to the same
-place of origin, especially to Mandhata.
-
-The Devi-mahatmya must have originated in some place dedi-
-cated to the goddess in her terrible form. The poem has now become
-a text-book of the worshippers of Kali throughout Northern India
-and in Bengal, especially at the great Durga-puja festival, but it did
-not originate in Bengal. The goddess whom the poem glorifies is a
-goddess formed by the union of the vigours or energies ( tejas, not
-iahti) of all the gods (p. 473), and she is called Maha-maya,
-Ca^-dika, Amhika, Bhadra-kali and Maha-kal! (pp. 469, 476, &c.
-and 521). Though identified with Sri once (p. 484), yet she is
-generally Identified in the hymns with Shiva’s consort as Durga,
-Gauri, Sfiva-dfiti and Maha-kali f pp. 484-6, 494-6, and 521). The
-goddess Kali, however, who is also called Camujido- ( P- 600), is made
-
-
-XI
-
-
-a separate goddess who issued from Oaadika’s forehead ( p. 499) j
-and Candika gave her the name Gamunda, because (as it is expressed
-in a hoft mot) she had killed two great demons Canda and Muada
-(p. 500) . Whether this derivation has any imaginary truth or not
-must be very doubtful, because fanciful derivations are common in
-this Purana and elsewhere. The S^aktis of the gods are made separate
-emanations from the gods, and are called the Mothers, mdtr-^ana
-(pp. 502, 504). The poem is therefore a glorification of Durga in
-her terrible aspect, with Kali as an emanation from her.
-
-One would therefore look among the strongholds of Siva worship
-for the bVth-place of this poem. Now it is remarkable that of the
-great lihga shrines (which are reckoned to be twelve), no loss than
-six are situated in or near the very region of Western India where
-the Puragia originated; vi 2 ^, Omiara at Mandhata, Mahakala at
-Ujjain, Tryambak at Nasik, Ghrnesvara at Eilora, Naganath east of
-Ahmadnagar, and Bhima-sahkar at tbe sources of the river Bhima.
-Mandhata was doubly distinguished, for another famous linga was
-Ainre^vara on the south bank of the river there. At none of them
-however, except at Orhkara, was S^iva or Durga worshipped with
-sanguinary rites, as far as I can find.
-
-In the Maha-bharata Durga has the names Mahakali, Bhadrakali,
-Cand^ Candi; and she is also called Kali, no distinction being
-made (Yirata-p. vi. 195; Bhi§ma-p. xxiii. 796-7). The name Oa-
-munda does not apparently occur there. Oamuada was worshipped
-with human sacrifices, for she is mentioned in .the fifth Act of the
-Malati-madhava, where her temple is introduced and her votaries
-tried to offer a human sacrifice at the city Padmavati. Padmavatl
-was a name of Ujjain ; hut some scholars would identify it with
-Narwar which is on the K. Sindh, though that town seems to be too
-distant to suit the description at the beginning of the ninth Act.
-Whether Padmavati was IJjjain or not, there can be no doubt from
-that description that it was situated in the region north of the
-Vindhjas between the upper portions of the rivers Ghambal and
-Parbati, that is, in tbe region immediately north of Mandhata.
-
-The only local allusion in the poem is that the goddess is Maha-
-kill at Mahakala (p. 521), which is a shrine of S'iva at Ujjain ; and
-it is possible the poem may have been composed to proclaim the
-
-
-xii
-
-miliatmya or glory of that place. But this is hardly probable^ be-
-cause the allusion is very brief, and the worship there was not ap-
-parently of the kind to originate this poem. Moreover, if Paclmavat!
-was Ujjaiin, the Malati-madhava distinguishes between the temple of
-Camunda and the shrine of Mahakala, for the temple is described as
-being adjacent to a field which was used as* a burning- ground for
-corpses and which must have lain outside the city; and if Padmamt!
-was some other town, the allusion here to Mahakala has no con-
-nexion with Gamunda or Candika at Padmavati. It is hardly pro-
-bable that, if this poem originated at IJjjain, the goddess at the
-shrine of Mahakala would have been referred to in thi^^manner.
-Hence this passage more probably conveys only a commendatory
-allusion ; and it seems more natural and appropriate to connect the
-poem with Mandhata, where this phase of sanguinary worship was
-particularly strong.
-
-The worship of Gamunda points to the same conclusion. Human
-sacrifices had long been abolished in the civilized countries of India,
-and the offering of such sacrifices at Padmavati could hardly have
-been a survival but must have been introduced from elsewhere.
-Such a practice would naturally be clandestine. Human sacrifices
-were offered in those times only among the rude tribes of Central
-India, among whom such sacrifices survived till the last century ;
-hence it may be inferred that such offerings to Camundi at Padma-
-vati must have been introduced from places which bordered on those
-tribes and were affected by their rites. The middle portion of the
-Narbada valley was eminently such a place. Pointing in the same
-direction is the statement in the Maha-bharata that Durga had her
-eternal abode on the Vindhyas and was fond of intoxicating liquor,
-flesh and cattle (Virata-p. vi. 195) . It seems reasonable then to
-conclude that the Devi-mahatmya is earlier than the Malati-
-madliava ; and if so, the name Camujeida and the form Cagidika occur
-apparently the first time in this poem.
-
-Mandhata ' was a famous ancient tirtha and appears to have fallen
-into neglect and been almost deserted in the 11th and 12th centuries
-A,D., but its glory was revived. About the year 1165 G-osain,
-named Daryao Nath, was the only worshipper of Omkar on the island,
-whicii pilgrims could iiofe visit for fear of a terrible god called KM
-
-
-xiii
-
-B!\airava and Ills consort Kail Devi, who fed on liiiman flesh. At
-last Darj’^ao Kath bj his austerities shut up Kali Devi in a cave, the
-mouth of which may yet be seen, appeasing her by erecting an image
-outside to receive worship ; while he arranged that Kal Bliairava
-should, in future, receive human sacrifices at regular intervals. From
-that time devotees have dashed themselves over the Birkhala clifls
-at the eastern end of the island on to the rocks by the river brink,
-where the terrible god resided; till in 182t the British officer in charge
-of Mimar witnessed the last such offering to Kal Bliairava.” (Hun-
-ter, ImpL Gaz., “Mandhata”). There does not appear to be any
-informati^, what kind of worship was offered there before the 11th
-century, yet the facts suggest strongly that such sanguinary rites were
-not a new ordinance but had prevailed there before.
-
-Both S'iva and his consort in their most terrible forms were thus
-worshipped at Mandhata, which was almost exclusively devoted to their
-service ; and it is easy to understand how such a sanguinary form of
-religion could take 'shape here. This region of the Narbada valley was
-specially connected with demon legends, such as the demon stronghold
-of Tripura and the demon Mahisa, after which the towns Tewar and
-Mahesar are said to be named. It also bordered on the Naga coun-
-try. Mandhata, with such associations, would be the most probable
-birtb-plaee of this poem, and the brief allusion to Maliakala would then
-be only a collateral one; yet, even if the poem was composed at Ujiain,
-the conclusion would still remain good that the poem originated in
-this region of Western India.
-
-Date of the Purina.
-
-The question of the date of the Parana is more difficult, since alt
-questions of chronology in Sanskrit writings ai'e most uncertain. One
-definite and important date may be first noticed. Mahainahopadhyaya
-Haraprasad S'astri found a copy of the Devi-mahatinya in old
-Newari characters in the Boyal Library in Nepal, and it is dated
-993 A.D. (See his Catalogue)* It may be safely inferred tlierefrom,
-that this poem must have been composed before the beginning of the
-lOtli centuijf^at thejatest. The^Deyi-mahatmja cannot^therefore be
-"later, thau. .fee Bttl-Century and maj^^be considerably earlier^ Since it is
-the latest part of the Purana, the other parts must have been
-
-
-xiv
-
-composed earlier, and the question for consideration is, how much
-earlier ?
-
-Prof. Wilson in his preface to his Translation of the Yisiiu Puraoa
-pointed out that this Purana is later than the M'aha-bharata but
-anterior to the Brahma, Padma, Naradija and Bhagavata Piiraaas,
-and conjectured that it may be placed in the ninth or tenth ceiitiiiy
-A. I). This, as already noticed, is too recent, moreover it has been
-discovered since that his estimates of the composition of the several
-Puranas iinder-reckon their age, and that the periods assigned by him
-should be moved some centuries earlier. For instance, he conjectured
-the collective writings known as the Bkanda Purana to be ffirodern and
-the greater part of the contents of the Kasi Khanda anterior to the
-first attack upon Benares hy Mahmud of G-hizni (Preface, p. ixxii) —
-which must mean that the Ka^i Khanda is earlier than the llth century
-A.D. But Mahamahopadhyaya Haraprasad S'astri found in the
-Royal Library in Nepal Skanda Purana ” written in
-
-' the later Gupta characters of the 6th or 7th. cen tuft X .1). Prom that
-it is obvious that the composition of the ^kanda Purana m ust have
-taken p^ four or five centuries earlier than I h:of. Wilso n’s estimate.
-Keiiee it is possible that a corresponding modification of his estimate
-regarding tlie AIaidkaivdeya Purana ^ and that would
-
-place it about the 4th century ALTD'.
-
-Further evidencA is obtained from Jain writings that the Pura-
-nas are much earlier than Prof. Wilson estimated. Thus the Padma
-Purana of the Jains, which was written by Eavisena in^mitation of
-the"ffindu Padma Purana, contains, I understand, a couplet showing
-that it was composed in the year 678 A.D j and that Purana men-
-tions all the Puranas. ATTlire meStToneS again in the Jain Adi
-Purana of Jinasena who lived about a century later,. This evidence
-would demonstrate that all the Hindu Puranas had been composed
-before the end of the sixth and probably by the end of the fifth
-century A.D ; lEouglTbl course it leaves room open for subsequent
-additions and interpolations in them.
-
-A common method of estimating tbe age of a Sanskrit composition
-is to consider the religious and philosophical ideas embodied in it ;
-yet to discuss questions of chronology on the basis of such ideas seems
-to be more interesting than convincing* Such ideas have passed
-
-
-XV
-
-
-along a course of development in India, but it is doubtful bow far
-general inferences tberefrom can be safelj applied to fix tbe date of
-a particular work. Where such ideas are founded on sacred composi-
-tions, wbicli are tbe subject of reverent study, tliere must be flows,
-eddies and intervals of stagnation, and even rapids and back currents,
-in the stream of such ideas. Their course may be eompai'cd with
-similar speculations, not in a single European country, but in the
-whole of Europe, for India has always comprised many countries ; and
-the history of Europe during the last four hundred years shews,
-whether it would be easy to determine the date of a writing on such
-subjects^ Latin solely from its contents, for the progress of thought
-in the different countries has been neither simultaneous nor uniform,
-Similarly in India, there can be no doubt that, while religion and philo-
-sophy have had their general course of development, the course has
-been very unequal in the different countries, so that it would not be
-unreasonable to suspect that at the same time one country was ad-
-vancing, another was stationary, and a third was even degenerating
-under political adversity. The development of religion and philoso-
-phy in India then is not so clear that one can do more than venture
-to conjecture upon such grounds, at what period or periods this Pura-
-na, which was written in Western India, was composed. And, as already
-mentioned, it has so little of a sectarian spirit or of special doctrines
-that the basis for conjecture is meagre. Subject to this caution the
-following features may be noticed.
-
-Among the deities, Indra and Brahma are mentioned oftenest j next
-stand Visnu and S'iva ; then the Sun and Agni ; and lastly Bharma
-and others. Indra is mentioned most often in the first and fifth
-parts, and Brahma, in the third and fifth parts ; while Vi§nu and S'iva
-do not show any particular preponderance. If the Bevi-mahatmya
-is put aside, the Sun is the deity that receives the most special ado-
-ration, and his story is related twice, first, briefij in cantos 77 and 78,
-and afterwards with fullness in cantos 102-110. To this may be
-added the cognate worship of Agni in cantos 99 and 100. Such
-marked reverence for Agni and the Sun would be natural in such a
-place as Mahismati, which (as already mentioned) was specially sacred
-to Agni before the worship of S'iva obtained supremacy there. Kama,
-rupa, the modern Gauhati in Assam, is mentioned as specially
-
-
-xvi
-
-
-appropriate for the worship of the Sun (p. 581), and why it should
-have been so characterized seems unintelligible unless it was consi-
-dered to be an udaya-giri.
-
-Tiio prominent notice of the great Yedic god Indra, and of Brahma the
-earliest of tlie post-Vedic gods, would indicate a fairly high an-
-tiquity for the Purana, especially for the second Section, wliich
-boldly claims to have issued from Brahma’s mouth equally with tlie
-Vedas (p. 219) and thus to stand almost on an equality with them —
-an honour which none of the other Puranas ventures to arrogate for
-itself. Such an antiquity would also explain the high position as-
-signed to the Sun and Agni, who are also among the chief Ve4ic gods ;
-yet tlie special praise oifered to the Sun may, as Dr. Banerjea hinted,
-be perhaps attributable in part to Persian influences.
-
-The first Section of the Parana is certainly later than the Maha-
-bharata, for the four questions that Jaimini propounds to the Birds
-arose expressly out of that worl^^^ These questions are, firsts a reli-
-gious enigma, Why did Yasudeva (Yisnu) though devoid of qualities
-assume human shape with its qualities of goodness, passion and
-ignorance? secondly^ a social perplexity, Why was Draupadi the
-common wife of the five Pandava brothers ? thirdlyy a moral incon-
-gruity, Why did Baladeva expiate the sin of brahmanicide by pilgri-
-mage ? mdi fourthly^ a violation of natural justice, Why did Drau-
-padl’s five sons all perish in their youth ? The obtrusion of these
-questions implies that the Maha-bharata was firmly established as an
-unimpeachable authority, so that difficulties involved in it could not
-be disputed and must admit of reconciliation with the laws of
-Bighteousness,
-
-The explanations offered by the Birds appear to be these. Vasu-
-deya (Yisnu) existed in quadimple form ; the first form was devoid of
-qualities, but each of the others was characterized by one of the
-three qualities, so that in his assuming human and other shapes with
-all the qualities no violation occurred to his nature. Tlie second
-question is solved by the assertion, that because of Indra’s ti’ans-
-gressions five portions of his essence became incaimate in the
-Pan<Jiwas, and his wife became incarnate as Draupadi, so that she was
-still the wife of only one person. Tlie third question seems to turn
-on the ideas, tliat brahmanicide was a heinous sin expiable by death
-
-
-XTU
-
-
-and that pilgrimage was a pious imdertalsing ; Iiow therefore eoiild
-sueh a sin be expiated bj snob action ? The answer seems to be that
-the sin was unintentional, being due to overpowering sensual in-
-liuonees, and did not call for the full rigour of punisliinent, while
-the real penance consisted in eonfession. The fourth question is
-solved by a story of transmigration ; Draupadi’s sons were five Yisve
-Bevas who were cursed by Visvamitra to assume human form for a
-brief period.
-
-The first two questions and answers call for some notice and throw
-some light on the age of the first Section of the Parana.
-
-Witha*egard to the first question, Dr. Banerjea has remarked in his
-Introduction that the description of Vasudeva belongs to the school
-Narada-pancaratra, to which g'ankaracarya has given an elaborate
-reply in his commentary on the Brahma Sutras ; while no trace of
-this doctrine is to be found in the second Section of the Purana. As
-Shnkara lived in the 8th century A.D., that school existed before
-him. The first part of this Parana was, therefore, probably prior to
-his time; yet it may possibly have been later. This comparison then
-yields nothing definite.
-
-The second answer presents some remarkable peculiarities when
-compared with the Maha-bharata. That work gives two explana-
-tions about Draupadi’s wifehood, firsts why she was destined to have
-five husbands, and secondly^ why the five Pandavas became her
-husbands.
-
-The first explanation is given twice in the Adi-parvan, viz.^ in
-dxix. 6i(2G-3 Ji and in cxcvii. 7319-28. She had been a r§fs daughter
-and unmarried; in order to obtain a husband she propitiated ffiva
-with austerities, and he offered her a boon. She begged for a
-husband, and in iier eagerness made the request five times, hence
-he promised her live husbands, and in spite of her objection adbered
-to his word and promised them to her in another life. Hence she
-was born as Brupada’s daughter. In the latter of these two passages
-and in line 7310 she is made an ineamation of Lak^mi.
-
-The second explanation is given in Adi-parvan excvii. 7275-7310.
-Indra went to S'iva on Mount Himavat and accosted him rudely, but
-S'iva awed him and pointed to a cave in the mountain wherein were
-four prior Iiidras. Siva said that Indra and those foui’ prior Indras
-
-3
-
-
-xviii
-
-should be born fn Imman shape in order to reduce the over-popula-
-tion of the world, and that Laksmi should be born and be their
-common wife. Accordingly Indra was born as Arjiina and the prior
-Indras as the other Pandavas, and Laksmi was born as Lrairpadi.
-
-Now these stories in the Maha-bharata itself furnished some ex-
-planation, and why Jaimini should have felt any perplexity, if he had
-these explanations before him, is at first sight strange. This suggests
-a doubt whether they were then in the Maha-bharata, or whether they
-were inserted there afterwards to meet this very question. On the
-other hand, it may be noted that these explanations did not really
-solve the difficulty, for the five Indras who became the JPandavas
-were not the same deity, and thus Draupadi’s husbands were still
-separate persons. On this point, therefore, the difficulty remained,
-and the answer given by the Birds removes it (though at variance
-with the Maha-bharata) by declaring that the Pandavas were all
-incarnations of portions of the same deity, Indra, and were thus really
-only one person. The Maha-bharata, however, presented a further
-difficulty, for why should Laksmi have become incarnate to be the
-wife of incarnations of Indra? The Birds alter this by declaring
-(again at variance with the Maha-bharata) that it was Indra’ s own
-wife who became incarnate as Braupadi. Both these contradictions
-are left unnoticed ; yet it is said very truly that there was very great
-perplexity about this matter (p. 19 ).
-
-This incongruity of Laksmi’s becoming incarnate to he wife to
-incarnations of other deities suggests a further speculation. In the
-Maha-bharata as it now stands, Krsna is an incarnation of Ti§nu,
-and it was proper that Lak?mi should become incarnate to be his
-queen. Nevertheless that work states that she became tbe wife of
-five persons all distinct from Visnu. May it be surmised that these
-explanations in the Maha-bharata were fashioned before Kpsna had
-been deified, and before it was perceived that they could have any
-bearing on his story ? If so, it is quite intelligible that it was deemed
-necessary, alter K^ri^a was deified, to remove the incongruity by as-
-serting that Draupadi was an incarnation, not of Lak§mi, but of
-Indrapi. This view, that the revised explanations here given regard-
-ing Draupadi and the Pandavas were necessitated by the deification
-of seems not improbable. If so, the revision and the name
-
-
-XIX
-
-
-Yasiidera, by whicli Visiiiu is specially addressed in 'tlie first part,
-
-^ would indicate that the first part was composed, when the Krsna
-legend had become so well established that it was needful to bring
-other stories into harmony with it.
-
-The Parana contains little reference to the political condition of
-India ; yet it may be pointed out that all the stories naiTated in the
-first Section relate to Madhya- desa, the Himalayas and Western
-India, while no mention occurs of Southern, Eastern or i^ortli-
-Western India, In the second Section, few illustrative stories occur
-apart from the main discourse on the Manus and the royal genealo-
-gies. Only one dynasty is treated of, that in which the chief
-princes were Yatsapri, Khanitra, Karandhama, Aviksit and Marutta.
-These were famous kings, especially Marutta who was a universal
-monarch, I have not been able to find anything which indicates
-where their kingdom was, yet it must have been somewhere in
-the Middle-land or North-West, because of Marutta’s relations
-with Yrhaspati and Satiivartta (M. Bh,, Asvam -p. iii-vi) ; the
-Middle-land here comprising the country as far east as Mithila
-and Magadha. In the second Section the only allusions to other parts
-of India are one to the river Vitasta in the Pan jab (p. 438), one
-to an unknown town in South India (p. 412), and several to Kama-
-riipa, the modem Gauhati in Assam ; but the author’s knowledge of
-Eastern India was so hazy that he treats Kamarupa as being easy of
-access from the Middle-land (p. 581) . Is it reasonable to draw any
-inference from the mental horizon here disclosed ? It agrees with
-the state of India in the third century A.D.
-
-The geographical cantos 57 and 58 are no doubt special compi-
-lations and may to a certain degree stand apart. They appear to
-aim at being comprehensive, and to enumerate all the countries, races
-and tribes till then known, whether ancient or mediseval. This com-
-prehensive character rather prevents the drawing of any large definite
-conclusions from them, yet two points may be noticed.
-
-The Hunas are placed among the peoples in the north in canto 58,
-though the context is not very precise. The Huns in their migra-
-tions from the confines of China appear to have arrived to the north
-of India about the beginning of the third century A.B., and one
-branch the White Huns, established a kingdom afterwards in the
-
-
-XX
-
-
-Oxiis valley, riitlia had no actual experience of them until their first,
-invasion, wliicli was made through the north-western passes in the
-middle of the fifth century (Mr. V. Smith’s Earhi Hist-ory of India^
-pp. 272, 27S). The allusion to the Huns therefore, with the position
-assigiied to them in the north, in canto ‘58, is plainly earlier than
-their invasion, and is what a writer in the third century or the early
-part of tlie fourtli century would have made.
-
-in these two cantos Pragjyotisa is placed in the east, and no men-
-tion is made of Kamarupa. Pragjyotisa was the ancient kingdom
-that comprised nearly all the north and east of Bengal (p. 328) ;
-later on it dwindled and seems to have lingered and perished in the
-east of Bengal ; and after that Kamarupa came into prominence in
-its stead. In the Maha-bharata and Eamayana Pragjyotisa alone is
-named ; Kamarupa is never, I believe, mentioned there, and it occurs
-in later writings only. In the Second Section however Kamarupa is
-mentioned, and no allusion is made to Pragjyotisa. This difference
-tells in favour of the antiquity of these cantos.
-
-With regard to the Devi-mahatmya, if the comparison made above
-between it and the Malati-madbava is reasonable, it would follow that,
-since BbavabhMi who wrote that pl^lrved about the end of the
-seventh century A.B., this poem must be anterior/ It would repre-
-sent the incorporation of barbarous practices borrowed from the rude
-tribes of Central India into brahmanic doctrines, and might be
-assigned to the sixth or perhaps the fifth century.
-
-From all these considerations it seems fair to draw the following
-conclusions. The Devl-mirhatinya, the latest part, was certainly
-complete in the 9th c^turyand very probably in the 5th or 6th century
-A.I). film thirS and fifth parts, “wSieh constituted the original Parana,
-were very probably in existence in the third century, and perhaps
-even earlier ; and the first and second parts were composed between
-those two periods.
-
-Other matters of interest.
-
-Certain other matters may be mentioned, which are of great
-interest in the Parana,
-
-In the first part Jaimini, though a disciple of Vyasa and a famous r§i
-(Maha-bh., S^anti-p. ecolL 13647), is yet made, when perplexed by
-four difficult questions ' in Vyasa’s own work, the Maha-bharata, to
-
-
-xxi
-
-
-seek Instraction, not from Vjasa bnt from Mirkaa^eya ; and tMs
-raises a presumption tliat there was an intention to make Markandeya
-equal with, if not superior to, Vyasa. Further, Markandeya does
-not himself explain the questions hut, declining with a transparent
-excuse, refers Jaimini to the Birds. The Birds, though said no donht
-to be brahmans undergoing a transmigration, wex'e inferior in educa-
-tion and fame to Jaimini, yet they were deemed fully capable, of
-authoritatively answering the questions that puzzled him. It seems
-hard to avoid suspecting again in this construction of the story, that
-there was a?) intention to exalt the instruction given hy the munis of
-the Vindhyas to equality with, if not superiority over, that given in
-• Madhya-de4a. It may be mentioned that according to certain le-
-gends Vaisampay ana’s pupils were transformed into partridges (tltHri)
-in order to pick np the Black Taj us verses disgorged hy one of their
-companions; hut it does not seem reasonable to ascribe the introduc-
-tion of these Birds as dramatis personm in this Parana to any imitation
-of those legends, because the nature of the stories is wholly different.
-The use of the Birds seems rather to be' the application of a class of
-ideas common in the animal-tales of folk-lore to religious teaching,
-and to be similar to the machinery employed by Bina in his story of
-Kadambaii.
-
-In the second part it is worthy of note that indulgence in spiritu-
-ous liquor and in sensual enjoyments is viewed with little or no
-disapprobation in the story of Dattatreya ; and meat and strong
-drink are mentioned as most acceptable offerings in the worship of
-Datttoeya (p. lOG), as an incarnation of Yisnu (p. 99). Meat of
-various kinds, including even hog’s flesh, is declared to be most
-gratifying to the pitrs. Such food was not unknown in ancient
-times, for it is said that during a severe famine king Tri^anku
-supported Vi^vamitra’s wife with the flesh of deer, wild pigs and
-buffaloes (Hari-Y., 724-731).
-
-A most extraordinary passage may be noticed in conclusion. It is
-related of king Dama that, after taking vengeance on prince Yapu§-
-raat, “with Vapusmat’s flesh he offered the cakes to bis [murdered]
-father, he feasted the .brahmans who were sprung from families of
-Eaksasas (p. 083 with 679). Brahmans at times lost their caste
-and became degraded, but here the position is reversed and certain
-
-
-descendants of Eaksasas were reckoned as brahmans. Such canni-
-balism is, I believe, unparalleled in Sanskrit, and it is almost incredible
-that there should have been brahmans of any kind whatever who
-would have participated in it. Eating human flesh was not unknown
-in ancient times (p. 427), yet a story is told in the Maba-bharata
-where Eaksasas and even flesh- eating Basyus disdained the flesh of a
-true though degraded brahman (S'anti-p. ckxii. 6420--29). This
-story of king Dama would seem to imply that it is of real antiquity,
-and that the account of the dynasty in which he occurred, and which
-is the only dynasty described, must be a purana in the t^ll meaning
-of the term.
-
-
-Cahto.
-
-
-CONTENTS.
-
-Introduction.
-
-
-PAaE,
-
-
-1 Jairaini applied to Markandeya for instraction on four 1
-questions. Markan.deja referred him to four learned Birds,
-sons of Brona and the Apsaras Yapu who was cursed by the
-
-2 f|i Duryasas to be a bird ; and narrated the story of their 6
-
-5 birth, and of . their education by S^amlka; and explained 11
-that they were four brahmans, who were so born, because
-cursed by their father Suk|sa for not o:Sering theh bodies
-
-as food to a famished bird.
-
-The Birds' discourse on Jaimm€s four questiom,
-
-4 Jaimini visited the Birds at the Vindhya Mts. and they 17
-answered his four questions thus : — Vi§^u assumed bodily
-
-6 forms in order to accomplish good ; Draupadi became the 21
-Joint wife of the five Pandavas because they were all
-
-6 emanations of Indra ; Baladeva committed brahmanicide 23
-
-7 during intoxication and expiated it by pilgrimage ; and five 32
-Viiive Devas, who, on seeing Visvamitra’s brutality to king
-Hari^candra, censured Yisvamitra, incurred his curse thereby
-and were born as the five sons of Draupadi to die young and
-unmarried.
-
-8 This story led the Birds at Jaimini’s request to narrate 38
-the whole story of king Hariscandra’s sufferings and
-
-0 ultimate beatitude ; and the terrible fight which resulted 59
-therefrom between Yasistha and Yisvamitra as gigantic
-birds.
-
-The Birds' discourse on Jaimini's further questions.
-
-Biscowrse on life^ dealh and action.
-
-10 Jaimini propounded further questions regarding concep- 82
-tion, fcetai life, birth, growth, death and the consequences
-of action ; and the Birds answered them by reproducing
-
-
-xxiv
-
-Canto. Paoe.
-
-the instruction that a brahman Sumati, nick-named Jada,
-
-* once gave to his father (cantos x — xliv).
-
-Thus the Birds gave in Jada’s words a description of
-
-11 death, after- existences and certain hells ; of human concep- 69
-
-12 tion and birth, and the evils of all existence; of certain other 71
-
-12 hells and the various terrible torments inflicted, there ; and 7 4
-
-they narrated the story of king Vipascit’s descent into hell,
-
-14 with a discourse regarding actions and the spceiiic punish- 70
-
-15 ments for a long list of various sins, and of liis deliverance 83
-from hell together with other persons confined there.*
-
-Stories illustrating religious demotion (goga),
-
-16 The Birds, continuing Jada’s discourse, broached the suh- 91
-ject of goga or religious devotion, but prefaced it with a long
-narrative (cantos xvi to xliv). A brahman Mandavya was
-saved from a curse by his devoted wife, who stopped the rising
-
-17 of the sun and gained a boon from Atri’s wife Anasuya ; the 99
-gods in consequence blessed Anasuya, and Brahma, Visnu and
-ffiva were born as lier three sons Soma, Dattatreya and Durvi-
-
-18 sas; Dattatreya indulged in sensual pleasures; Arjuna Eai'- 101
-tavirya, however, being advised by his minister Garga to
-propitiate Dattatreya, because Dattatreya (being an incar-
-nation of Visnu ) had once saved the gods from the demons,
-
-19 did so and by Dattatreya’s blessing reigned gloriously. 106
-This led on to the story of Alarka, which is used to convey
-political, religious and social instruction (cantos xx to xliv),
-
-Alarkais hirth and education*
-
-20 King Satrujit’s son Rtadlivaja lived in intimate friend- J09
-ship with two Naga princes; they told their father Asva-
-tara — how Rtadlivaja had succoured the brahman Galava
-
-21 with the help of a wondrous horse named Kuvalaya, and 113
-descending to Patala,hacl killed the demon Patila-ketu there,
-and had rescued and married the Gandharva princess Mada-
-
-22 iasa, and was famed as Kuvalayasva; and also how a 121
-demon had caused Madalasa to die on a false report of
-
-
-XXV
-
-
-Canto. Page.
-
-2S Kuvalayisva’s death. King A^vatara, by propitiating Sa- 125
-rasvati then, gained perfect skill in poetry and music
-(whieli are described), and by propitiating S'iva received
-
-24 Madalasi) restored to life; be invited Kuvalayasva to 136
-
-25 Pitala and gave Madalasa back to him. Kuvalayasva had 140
-
-26 a son by her, and she prattled to the infant ; they had 142
-three other sons and she named the youngest Alarka.
-
-Political^ religious and social instruction.
-
-27 Then followed an exposition of political, religious and social 145
-doctrine in the guise of instruction given by Madalasa to
-
-• Alarka. She instructed him in the duties and conduct
-
-28 of a king ; in the duties of the four castes and of a brah- 148
-
-29 man’s life ; in the general duties of a grhastha and various 151
-
-SO religious matters ; in the duties of a grhastha in detail ; 155
-
-31 in the sraddha ceremonies ; in the performance of the Par- 157
-
-32 vana S'raddha and the persons to be excluded ; in the par- 164
-ticular foods, periods, sites and ordinances to be observed in
-
-33 the sraddha ; in the Voluntary sraddhas and their benefits 168
-
-34 and proper occasions ; in the rules of Virtuous Custom, 170
-
-35 generally and with much detail ; about diet, purification, 180
-conduct, holy days and various religious ceremonies.
-
-Exposition of religious devotion (goga),
-
-36 Rtadhvaja then resigned his kingdom to Alarka and de- 180
-
-37 parted to the forest. Alarka lived in pleasure, but, being 187
-reduced to great straits by his brother and the king of
-
-38 Kisi, sought relief from Dattatreya. Dattatreya spoke 191
-about the soul and, on Alarka’s asking about religious devotion
-
-39 (yoga), expounded the method, conditions and signs of its 193
-
-40 proper perfomance ; the attendant ailments and the stages 198
-
-41 which lead to final emancipation from existence ; the way 202
-in which a yogi should live, beg, eat and reach his end;
-
-42 the composition, meaning and efficacy of the word ‘‘ Om ” ; 205
-
-43 ill omens and their signification ; and the seasons for, and 207
-the importance of, yoga. Alarka then relinquished the
-
-
-um
-
-
-OlOTO. rAOU.
-
-44 kingdom, but his brother, glad at ?Alarka’s conversion, de- 218
-dined it and departed. Alarka gave it to liis son and de-
-parted to the forest. This ends Jada’s exposition.
-
-The Birds^ discourse on JaiminVs further questions.
-Discourse on Creation.
-
-45 Jaimini put further questions, and the Birds answered 217
-them by repeating what Markandeja had taught Kraiistuki.
-
-This discourse runs on to the end of the Purana.
-
-Mirkandeya, after extolling this Purina, described the
-course of creation from Brahma through Pradhana, &c., and
-
-46 the mundane egg ; he disconursed about Brahma, and ex- 224*
-
-47 plained divine and human time and the four ages. He de- 228
-
-48 scribed the creation of the earth and all it contains ; the 282
-gods, demons, pitrs, mankind, &c., and the positions assign -
-
-49 ed them ; the origin of the primeval human race and its 287
-
-60 social and moral evolution ; the birth of the nine Sages, 246
-Budra, Manu Svayambhuva and his descendants, Daksa and
-
-his offspring; A-dharma and his progeny, especially the
-
-61 goblin Duhsaba and bis powers, whose brood of goblins and 267
-52 hags are named with their particular functions ; the crea- 268
-
-tion of the Budras ; and the wives and offspring of the
-r|is and pitys.
-
-Account of the Manus.
-
-63 Mirkandeya next discoursed of the Manus and man- 271
-vantaras. He told of the first Manu, Svayambhuva, and
-
-his descendants who peopled the seven Continents, Jambu-
-dvipa was occupied by Agnidhra, and his descendant Eharata
-gave his name to India. This introduced the subject of
-geography.
-
-Geography.
-
-64 Mirkandeya described the earth and its continents^ espo- 276
-cially Jambu-dvipa; and also Mount Meru, first briefly, and
-
-66 then with full mention of neighbouring forests, lakes and 278
-68 mountains and the course of the G-anges in the sky and on 280
-
-
-jxni
-
-
-04OTO. ^ PAGI!.
-
-57 tlie oartli. He mentioned tlie nine divisions of Bliarata, 283
-and then dealt with India in detail; naming its seven 284 j
-mountain ranges and its scattered hills ; and its rivers, dis- 290
-tinguishing them according to their sources, in the Hima-
-laya, the Paripatra, the Vindhya, the Rksa, the Sahya, 293
-the Malaya, the Mahendra and the S'uktimat ranges. 303
-He named the various peoples inhabiting India and its 307
-confines, according as they dwelt in the Middle Land
-(Madhya-desa), in the north-west, outside northwards, 311
-in the north, in the east, in the south, in the west, 324j
-around the Vindhya mountains and beneath the Himalayas. 340
-
-58 Hext representing India as resting upon Visnu in the form 348
-
-of a tortoise, Markandeya named the various peoples (with
-the corresponding lunar constellations) as they were dis- 349
-tributed over the middle of the tortoise’s body, over its 358
-face, its right fore-foot, its right flank, its right hind-foot, 370
-its tail, its left hind-foot, its left flank and its left fore-foot ; 384
-and he added some astrological, religious and political
-
-59 comments. He then described the countries Bhadrasva, 387
-
-60 Ketumala, the Northern Kurus, Kimpumia, Hari-var§a; 390
-Ilavirta, Eamjaka, and Hirapmaya.
-
-Acconnt of the Mmm {resumed) •
-
-61 Markandeya related the birth of the second Mann. A 391
-brahman visited Himavat and met an Apsaras Varuthini ;
-
-62 a Gandharva Kali by personating Mm gained her afiection ; 399
-
-63 and she bore a son Svaroeis. Svarocis delivered a maiden 401
-
-64 ManoramS from a curse and married her, and also rescued 406
-
-65 her two girl-companions and married them; after living 408
-
-68 long in heedless pleasure with them, he had three sons 411
-
-whom he established in separate kingdoms by the know-
-ledge called Padmini; and he had by a forest goddess
-
-67 another son Byutimat who became the second Mann, 415
-
-68 Svarocifa ; and Ms period is noticed. The allusion to the 415
-knowledge Padmini introduced a discourse on its supporters,
-
-the NidMs.
-
-
-xrmi
-
-
-Canto. Pao®.
-
-60 Continuing, Markandeya related how king Uttama 419
-banished his queen for had temper, and helped a brahman
-to find his ill-tempered wife who had been carried off ; he
-
-70 was rebuked by a rsi for his own conduct ; he recovered the 425
-brahman’s wife, whose bad temper a Raksasa consumed.
-
-71 A hfaga king had taken the queen to Patila, and she was 429
-
-72 hidden ; the brahman changed her nature and the Raksasa 432
-restored her to king Uttama ; she bore a son, who became
-
-78 the third Mann, Auttama, and his period is noticed. 436
-
-74 Markandeya related how king Svarastra when driven 438
-from his kingdom, met his deceased (peen, and had' a son
-who became the fourth Manu, Tamasa ; his period is noticed.
-
-75 The rsi Rtavac made the constellation Revati fall ; a maiden 443
-was born therefrom ; she married king Durgama and bore
-
-a son, who became the fifth Manu, Raivata; his period is
-
-76 noticed. Caksusa, being changed when an infant by a hag, 449
-became king Vikranta’s son, but turned an ascetic and be-
-came the sMh Manu, Caksusa; his period is noticed.
-
-77 Continuing the manvantaras, Markandeya said the Sun 455
-married Tva^tr’s daughter Sahjiia and had two sons Vaivas-
-vata and Yama; Sahjna quitted him, leaving her Shadow
-
-78 behind, because his splendour was excessive ; Tvastr pared 458
-
-, his splendour down while the gods hymned the Sun ; the Sun
-
-^ regained Sanjha ; he had by the Shadow a son who will be the
-
-79 eighth Manu, Savarni. Vaivasvata is the seventh and present 461
-
-80 Manu ; his period is noticed. The future period of Savarni 463
-with its y^is, gods, is prophesied.
-
-The I)em-mMhd>tmga.
-
-81 The mention of Savarni introduced the Devl-mahatmya. 465
-Markandeya related that king Suratim, being ousted from
-
-his kingdom, met a vaisya driven from his family, and both
-consxilted a rsi about their longings for home ; the ysi as-
-cribed their feelings to the goddess Maha-mayi (Great
-Illusion), and related how, when she was lauded by Brahma,
-¥i|ttu slew the demons Madhu and Kaitabha.
-
-
-xsdx
-
-OiHTo. Page.
-
-85 The vsi then recited her exploits. Here begins the Deyi- 47 3
-mihitmja properly. The demons under Mahi§a vanquish-
-ed the gods, and the goddess was formed as Candika (Am-
-
-S3 bika) out of their special energies combined ; she began a 478
-great battle and destroyed the demons, all the demon chiefs
-
-84 and finally Mahisa himself. The gods praised her in a 482
-hymn, and she promised to befriend them always. Again
-the gods were vanquished by the demons S'umbha and
-Msumbha, and invoked her; she appeared, and S'umbha
-
-86 wanted to marry her but she declined; he sent an army 497
-and she destroyed it ; he sent another with Can da and Munda ;
-
-, 87 the goddess Kali destroyed them and Candika gave her the 499
-
-88 combined name Camunda; S'umbha sent all his armies; 501
-
-89 Candika killed the chief Eaktavija, then Nisumbha in spite 506
-
-90 of S'umbha’s aid, and many demons, and finally S'umbha 509
-
-91 himself; whereat the universe was filled with joy. The 511
-gods praised her in a hymn and she promised to deliver them
-
-92 always. She descanted on the merits of this poem. The 519
-gods regained their supremacy ; and she is extolled. Here
-ends the Devi-mahatmya properly.
-
-93 After hearing this poem king Suratha worshipped Candi- 522
-ka, and she promised he should be the eighth Manu, Savarni.
-
-
-Account of the Manus {resumed),
-
-94 Markandeya, continuing, mentioned the other future 524
-Manus, the ninths tenths eleventh and twelth named Savarna,
-
-95 and the thirteenth named Raucya ; and their periods. 526
-narrated the story of Eaucya. A prajapati Euci was nr^ ed
-
-96 by the Pitrs to marry ; he propitiated Brahma and pleased 529
-
-97 the Pitrs in a hymn ; they appeared and promised him a 534
-
-98 wife and extolled his hymn ; he married an Apsaras and had 538
-
-99 a son who will be the thirteenth Manu Eaucya. S'anti, the 539
-disciple of aii irascible i-fi Bhuti, finding the sacred fire ex-
-
-IDO tinguished, offered a hymn to Agni. Agni restored the fire 546
-and promised to Bhuti a son who should be the fomteenth
-
-
-3CXX
-
-
-Gkmo. PA€ffi.
-
-Manu, Bliautya. Bhautya’s period is noticed. This account
-of the manvantaa^s is extolled.
-
-Commencement of the Genealogies.
-
-101 At Kranstnki's request Markandeya began the genealo- 650
-gies. Brahma created Daksa, from whom came Martanda,
-
-the Sun. Then mer^tioning that Brahma was born from
-the mundane egg, and produced the lokas (worlds), and
-next the four Vedas with their merits — Markandeya di-
-verged into a laudation of the Sun.
-
-The majesty of the Sun.
-
-102 The gods and the Vedas are declared to be manifesta- 553
-
-103 tions of the Sun. The Sun’s glory was at first too great, 556
-and Brahma with a hymn induced him to contract it
-
-104 and then finished the creation. Marici’s son Kasyapa 558
-begot the gods, demons, mankind, &c. The demons over-
-came the gods and Aditi sought help of the Sun in a*
-
-105 hymn. He became her son as Martanda and destroy- 563
-
-106 ed the demons. The story of the Sun and his wife San- 566
-jna (as told in cantos Ixxvii and Ixxviii) is re-told here
-with more detail regarding the Shadow- Sanjn a, the curse on
-
-107 Yama, the paring down of the Sun’s splendour, the hymns 572
-
-108 ofiered to the Sun, and the Sun’s offspring and the sta- 574
-tions alloted them.
-
-109 Further Markandeya related that king Eajya-vardhana 577
-when old resolved to resign the kingdom, but his people in
-
-110 grief propitiated the Sun, and the Sun granted Mm great 583
-length of life ; the king similarly obtained the same boon
-
-for them* This story is extolled.
-
-The Genealogies resumed,
-
-111 Markandeya mentioned Manu Vaivasvata’s seven sons 587
-
-112 and Ila-Sudyumna, Pururavas, &c. Manu’s son Pusadhra 590
-killed a brahman’s cow and being cursed became a sudra.
-
-IIS Karusa’s descendants were mentioned. 593
-
-Biota’s son Nabhaga married a vai4ya maiden wilfully
-
-
-XXXI
-
-
-Oaoto. Pag*!.
-
-114 and became a TaiSja ; their son Bhanandana conquered the 597
-earth, but Nabhaga declined to reign. Then Nabhaga^s
-wife explained that she was not really a vaisya, but that her
-father was a king who became a vai4ya under a rsi’s curse
-
-115 with a promise of recovery, and that she was a princess and 601
-had become a vaisya under Agastya’s curse.
-
-116 Bhanandana became king. His son Yatsapri rescued a 604
-princess Sunanda from Patala after killing a demon king
-
-117 who had a magic club, and married her. His son was 610
-Pramsu, and Pramsu’s son Prajati. Prajati’s son Kbani-
-
-tra was beneficent ; his brothers’ ministers practised magic
-
-118 to dethrone him but destroyed themselves ; Khanitra re- 615
-
-119 signed the kingdom in grief and went to the forest. His 617
-son Hsupa performed sacrifices for the harvests. His son
-
-120 was Yira and grandson Yivim^a. Vivim^a’s son Khanine- 619
-tra while hunting met two deer eager to be sacrificed, and
-
-121 by Indra’s favour obtained a son Balasva. Balasva was called 623
-Karandhama because of a fanciful victory.
-
-122 His son Avik^it married many princesses and carried off 256
-
-123 princess Vai^alini at her svayamvara: the suitor kings 628
-conquered and captured him, but she refused them all :
-
-124 Karandhama rescued Aviksit, but Aviksit refused to marry 631
-the princess after his discomfiture ; she turned to austerities
-
-125 and obtained an assurance from the gods : Avik^it’s mother 637
-by a ruse obtained a promise from him to beget a son :
-
-126 while hunting he rescued the princess from a demon and 641
-
-127 pleased the gods : she proved to he a G-andharva maiden and 645
-Aviksit married her in the Gandharva world ; she bore a son
-
-128 Marutta there, Aviksit returned but refused the kingdom 649
-
-129 because of his discomfiture. Marutta became king, and was 653
-a universal monarch, a great sacrificer, and liberal benefactor
-
-150 to brahmans. The Nagas gave great trouble, and he at- 658
-tacked them, but Aviksit interposed in favour of the Kagas ;
-
-151 a battle was averted by the rsis, and the Nagas made repara- 660
-tion. Marutta’s wives are named.
-
-152 His son Narisyanta enriched the brahmans permanently 665
-
-
-XJXll
-
-
-Canto. Page.
-
-IS3 at a great sacrifice. His son Hama was chosen bj the 668
-Da^arna princess, and’ defeated the suitor kings, who, in ¥io-
-
-134 lation of marriage laws, opposed him. Dama became king. 674
-Narisyanta was murdered in the forest by Yapusmat one of
-
-135 those kings. Dama bewailed, and vowed vengeance against 678
-
-136 the murderer ; he slew Yapusmat and celebrated his father's 680
-obsequies with Yapus mat’s fiesh and blood.
-
-Conclusion.
-
-137 The Birds closed their long repetition of Markandeja’s 684
-instruction to Kraustuki, with an encomium on the Puranas
-and this Purina in particular. Jaimini thanked them.
-
-
-ADDITIONS AND COREECTIONS.
-
-
-P. 2, 1. 23, after sacred add customs.
-
-P. 20, L 19, for Sama read Saman.
-
-1. 26, for nara read nara.
-
-P. 25, 1. 6, dele -phul.
-
-P. 26, 1. 21, for Asoka read Asoka.
-
-P. 27, L 25, for Peninsular read Peninsula.
-
-P. 29, 1. 18, add unless it is the same as the bird ‘ putra-priya*’
-which was so named because its note resembled
-‘ putra putra.’ Bamay*, Ayodh.-k. (Ed. Gorr.)
-cv. 11, (Ed. Bom.) xcvi, 12.
-
-P. 29, L 24, for btween read between.
-
-Pg 29, 1. 33, add See Raghu-Y., vi. 36.
-
-^4 31, 1. 8, for famalies read families.
-
-Cantos YII, YIII <& IX for Haris-candra read Hariscandra,
-
-P. 42, 1. 15, for back read bark.
-
-P. 44, L 11, for compassionate passionate.
-
-P. 55. 1. 13, for Brahman read Brahman.
-
-1. 17, for Brahman 7'ead the Prajapati.
-
-P. 65, L 29, for the read thee.
-
-P. 89, 1. 33, for not therefore long read therefore ; dele not.
-
-P. 93, 1. 15, for etcetera read et cetera.-
-P. 99, 1. 6, for Dattatreya read Dattdtreya.
-
-P. 100, 1. 12, for yogi read yogi.
-
-P. 102, 1. 35, for Bala-khilyas read Yalakhilyas.
-
-PP. 100-107, passim for Lakshmi read Lakshmi.
-
-P. 108, heading, for XX read XIX.
-
-P. 109, L 1-3 read instead And the doctrine of religious devotion
-was indeed declared by Dattatreya to that high-
-souled royal pshi Alarka who was faithful to
-his father.
-
-P. 113, 1. 2, for excedingly read exceedingly.
-
-
-XXXIV
-
-
-P. 118, 1. 5, for Mm, the large-thighed* hero, the chief of his
-race, read Tumbtixu*, the spiritual preceptor of
-
-her family.
-
-L 7, for accepted her read arrived,
-
-note^', camel the note and substitute See canto exxvii,
-verses 13 and 26.
-
-P. 122, 1. 15, dele funeral.
-
-P. 124, iast line, for son and daughter 7'ead son’s wife.
-
-P. 125, 1. 38, after anxiety add ”
-
-P. 133, 1. 30, after inspirer add ”
-
-P. 186, 1. 12, for atru-jit’s read S'atru-jit’s.
-
-P. 143, 1. 14, for religion read lighteousness.
-
-P. 159, 1. 34, for begun read begin.
-
-P. 178, bottom, for Kamatas 7*ead Kamatas.
-
-P. 174, i. 14, for carry read use.
-
-1. 15, for are carrying read have used.
-
-P. 177, 1. 20, read imtead the wise man should bathe, keeping his
-clothes on; and so also after resorting to a
-place where bodies are burnt.
-
-P. 179, L 34, for guru read gurus.
-
-P, 181, L 2, for holidoys read holidays.
-
-P. 182, 1, 3, for screened by many read concealed within many
-things,
-
-P. 197, 1. 34, for practice read practise.
-
-P. 201, L 7, for Gandarvas iread Gandharvas.
-
-P. 236, L 3, for aptor o'ead aptor.
-
-P. 239, 1. 8, for is read are.
-
-P* 241, 1. 21, The Bombay edition i*eads instead “the khar-
-vataka and the drami.”
-
-P, 242, 1. 1 , to varma-vat add note The Bombay edition reads
-“ kharvata ” instead.
-
-1.21, Gc^f/The Bombay edition reads ‘‘jana” instead of
-“ Jala/’
-
-1. 38, add The Bombay edition reads “ drami instead.
-
-P. 245, 1. 27} for mentioueed read mentioned.
-
-P. 269, 1. 21, for Dhdipravati read Dhdmravati.
-
-
-XXXV
-
-
-J88, i. 23, dele the words from In a list; to Naga-rat.
-
-^<93, 1. 8, for Vritra-glmi read Vritra-glim.
-lOO, 1. 40 for S^ilavati read S’ilavaM.
-
-82, I. 4, add Maj this name be identified with the town
-Kodungalor (the modem Cranganore) north of
-Cochin? It is a place of sanctitj, and was
-formerly an important town and harbour,
-
-66, 1. 6, add See p. 445.
-
-68, L 13, for Badava read Badava.
-
-08, 1. 12, for mightly read mighty.
-
-45. 1. 85, add and p. 365.
-
-69. 1. 9, for universe! read universal.
-
-86. 1. 25, for my read may.
-
-81. 1. 27, for lingnents read unguents.
-
-36, last line,ybr om read from.
-
-
-THE
-
-
-MAEKANDEYA PUEANA.
-
-OM ! RlYEEElSrCE TO THE ADORABLE VISHFU !
-
-
-May Visliini’s lotus-feet, whicii power haTe
-
-To dissipate the woes wrought by the fear
-
-Of existence, and which are lauded high
-
-By ascetics, assiduous, whose minds
-
-From ail things else are rapt — may those same feet,
-
-Whose steps the earth, the sky, and heaven o’erpassedj
-
-To sight appearing, purify your souls !
-
-May He protect you, who is skilled to save
-In every kind of sin impure ; whose form
-Within the bosom of the sea of milk
-Upon the hooded snake reclines ; and at
-Whose touch the sea grows mountainous, its spra.y
-Up-tossing from its waters by his breath
-Disturbed, and into seeming dancing breaks 1
-
-
-Cahto L
-
-The Curse on Vapu.
-
-iaimmi eippUes to Mdrkandeya for instruction regarding certain
-iificuUies in the Mahdhhdrata — Mdrhandeya refers Mm to four
-learned Birds^ the som of Brona, amd narrates their hutorp — Tkew
-1
-
-
 CANTO I.
 
 
@@ -1747,14 +10,11 @@ Having adored ITarayaiia, and J^ara the best of men, the goddess
 Sarasvati, and then Vyasa, let him utter the verse of Victory 1
 
 1 The illustrious Jaimini, the disciple of Vyasa, interrogated
-the great Muni Markandeya, who was engaged in the per-
-formance of austerities and the study of the Veda.
+the great Muni Markandeya, who was engaged in the performance of austerities and the study of the Veda.
 
-2 “ Sir ! the high-souled Vyasa related the story of the Maha-
-bharata, which is replete with splendid spotless collections
+2 “ Sir ! the high-souled Vyasa related the story of the Mahabharata, which is replete with splendid spotless collections
 
-3 of various S'astras, which is characterized by accuracy regard-
-ing the different classes, is embellished with beautiful words,
+3 of various S'astras, which is characterized by accuracy regarding the different classes, is embellished with beautiful words,
 and contains complete knowledge of primd facie assertions, and
 
 4 established conclusions. As Vishnu is chief among the gods,
@@ -1763,8 +23,7 @@ as the hrahman chief among men, and as the crest- jewel chief
 5 among all decorations, as the axe’*' is the best among weapons,
 as the mind best among the organs, so in this world is the
 
-6 Mahabharata the best among all the S'astras. Here are des-
-cribed both Wealth and Virtue, Love, and Final emancipation
+6 Mahabharata the best among all the S'astras. Here are described both Wealth and Virtue, Love, and Final emancipation
 from transihigration ; these have both reciprocal and peculiar
 
 7 consequences. It is the best Dharma- sastra, it is the most
@@ -1825,8 +84,7 @@ most virtuous Muni ! and this is not esteemed the season
 20 for a long discdurse. But I will now tell thee, 0 Jaimini,
 of those birds who will speak to thee and so resolve thy
 
-21 doubts. Thsy are Fingaksha and Vibodha, Supatra, and Su-
-mulsha, the sons of Drona, the noblest of birds, versed in the
+21 doubts. Thsy are Fingaksha and Vibodha, Supatra, and Sumulsha, the sons of Drona, the noblest of birds, versed in the
 principles of philosophy, and meditators on the S'astras.
 
 22 Their mind is unclouded in the knowledge of the meaning of
@@ -1845,11 +103,7 @@ gained knowledge most difficult to he acquired, as if birds
 Banerjea, to be these — palpitation, fear, thickness in speech, indistinctness,
 speaking throngh the nose, discordancy, want of emotion, disconnectedness,
 roughness, hoarseness, high pitch, inaccuracy in pronunciation, pertiirfeaMon,
-want of cadence, sing-song, shaking the head, weakness of voice, ,aud aa-
-meaningness. .
-
-
-4
+want of cadence, sing-song, shaking the head, weakness of voice, ,aud aameaningness. .
 
 
 CANTO 1-
@@ -1923,8 +177,7 @@ Markandeya spoke.
 41 “ Haying heard that his sentence, they all exclaimed, with
 trembling necks, ‘ this is impossible for ns ! ’
 
-42 “ Among them an Apsaras named Vapn, confident of perturb-
-ing the Mnni, replied, ‘ I will follow where the Mxini dwells ;
+42 “ Among them an Apsaras named Vapn, confident of perturbing the Mnni, replied, ‘ I will follow where the Mxini dwells ;
 
 43 now will I make that tamer of his body, who has yoked
 the horses of Kis organs, but a poor charioteer whose reins
@@ -1965,9 +218,6 @@ make any reply/
 
 54 The Brahman, red»eyed with auger, having pronounced this
 grievous sentence on that proud maiden, whose tinkling
-
-
-6
 
 
 Cx\?«rTO ir.
@@ -2011,8 +261,7 @@ was seen by Kanka, filled with anger, said, “ Wherefore hast
 
 7 thon come hither, O vilest of tbe egg-born ? Why hast thon
 approached me when I am in company with my wife ? Such
-is not the rule of the wise in matters that must be accom-
-plished in secret.’*
+is not the rule of the wise in matters that must be accomplished in secret.’*
 
 Kanka spoke.
 
@@ -2023,9 +272,6 @@ Kanka spoke.
 
 
 THE BIRTH OP IHE SPARROWS,
-
-
-7
 
 
 Markandeja spoke.
@@ -2045,8 +291,7 @@ and resentment, and sighing like the king of the Ha gas
 the slayer of his brother, there he went, rocking the lofty
 
 13 moTintains with the mighty wind from his wings. He^, with
-blood-red eyes, overtopping the mountains, and forcibly hurl-
-ing down masses of clouds with his wings, used to destroy
+blood-red eyes, overtopping the mountains, and forcibly hurling down masses of clouds with his wings, used to destroy
 
 14 his enemies suddenly. There he saw that demon, whose
 thoughts were intent on drinking, whose face and eyes were of
@@ -2067,8 +312,7 @@ trustful elder brother, therefore I will bring thee, while en-
 
 19 grossed in drunkenness, down to Tama’s abode. To-day, slain
 by me, shalt thou go to all those hells that are the abodes of
-the murderers of those who trust in them, and of the mur-
-derers of women and children.”
+the murderers of those who trust in them, and of the murderers of women and children.”
 
 Markandeja spoke.
 
@@ -2077,9 +321,6 @@ presence, the B&shasa, filled with anger, then answered the
 
 21 bird. If thy brother has been slain, then have I displayed
 my valour ; thee, too, , to-day, will I slay with this sword, 0
-
-
-8
 
 
 CANTO 11.
@@ -2112,9 +353,7 @@ birds, was speedily deprived of arms, feet, hands and head.
 noblest of birds, taking her, returned to his abode, having
 obtained a recompense for his brother by the slaughter of
 
-30 Yidyud-rupa. And she, the daughter of Menaka, with beauti-
-ful eyebrows, capable of assuming forms at pleasure, on reach-
-ing the house of Kandhara, took a form resembling Garu-
+30 Yidyud-rupa. And she, the daughter of Menaka, with beautiful eyebrows, capable of assuming forms at pleasure, on reaching the house of Kandhara, took a form resembling Garu-
 
 31 da’s. Of her, he then begat a daughter named Tarkshi,
 {namely Yapu the loveliest of the Apsarases, who was consumed
@@ -2134,16 +373,12 @@ conceived ; when she had gone seven fortnights in her preg
 between the Kurus and Pandavas was then being fought, and,
 in consequence of her action being predestined, she entered into
 
-36 the battle. There, then, she beheld the contest between Bha-
-gadatta and Arjuna. The sky was thick filled with aiTows,
+36 the battle. There, then, she beheld the contest between Bhagadatta and Arjuna. The sky was thick filled with aiTows,
 
 37 as if with locusts. Discharged from the bow of Ai*Juna an
 
 
 THE BJRTH OP THE SPAKROWS.
-
-
-9
 
 
 arrow, black as a serpent, fell with great force and pierced
@@ -2198,10 +433,6 @@ sickness, their bodies unpierced by arrows, fall into the power
 
 53 of the King of the departed. Others, when intent on aus*
 terities, are led off hy the servants of the King of the departed i
-2
-
-
-10
 
 
 CAKTO IT.
@@ -2243,8 +474,7 @@ he who does a manly act gains commendation from us, the
 good.”
 
 63 Thus urged by that illustrious Muni, those young Munis,
-taking those birds, went then to their own hermitage, delight-
-ful to ascetics, where clusters of bees settled on the boughs o£
+taking those birds, went then to their own hermitage, delightful to ascetics, where clusters of bees settled on the boughs o£
 
 64 the trees. And he, the noblest of dvijas, gathering wild
 roots, flowers, fruits, grasses, such as his mind loved, perform-
@@ -2270,8 +500,7 @@ were endowed with speech^ and explained that wonder to the Mtmii
 Eamika — They were the four sons of a Rishi Suhrisha — Indm
 appeared to the Rishi in the form of an aged bird^ and ashed for
 human flesh — The Rishi ordered his four sons to sacrifice themselves
-— They refused^ and he cursed them to he horn in the brute crea-
-tion^ hut^ moved with compassion at their entreaty^ bestowed on
+— They refused^ and he cursed them to he horn in the brute creation^ hut^ moved with compassion at their entreaty^ bestowed on
 them perfect hnowledge — Hence they w&re horn as birds.
 
 Markandeya spoke.
@@ -2290,8 +519,7 @@ spirited birds were wearied in their souls with their toil : and
 their knowledge was developed there through their energy.
 
 5 They all performed the reverential circumamhulation around
-the Rishi, who was expounding the truths of the law in com-
-passion for his disciples, and respectfully saluted his feet
+the Rishi, who was expounding the truths of the law in compassion for his disciples, and respectfully saluted his feet
 
 6 and said, “We have been delivered by thee, 0 Muni ! from
 dreadful death ; thou hast given us shelter, food, and water ;
@@ -2309,9 +537,6 @@ in the sky ? When shall I see them alighting on a tree of the
 
 10 earth, settling within the trees ? When shall my natural
 colour be obliterated by the dust which the wind from their
-
-
-12
 
 
 CANTO IH.
@@ -2373,9 +598,6 @@ pressed hy hunger, I have come -for help to thee; I am seek-
 THE VISIT TO THE VTNHHTA MOUNTAIJiT,
 
 
-13
-
-
 ing for food, deprived of all pleasure, and witli a mind in
 
 25 pain. Therefore tnm, pure-minded sage^ th j steadfast mind
@@ -2401,15 +623,13 @@ most malign-hearted even in old age, thou in whom of all
 30 mankind every desire has ceased ? What has thy last stage
 of life to do with human flesh ? Assuredly no one is created
 
-31 foremost among evil-beings ! Or what need hast thou to ad-
-dress me, being what I am ? One should always give when
+31 foremost among evil-beings ! Or what need hast thou to address me, being what I am ? One should always give when
 one has promised — such is our professed opinion.’
 
 32 Having thus spoken to him, the Brahmarshi resolved that
 it should be so. Calling us quickly and commending us accord-
 
-33 ing to our good qualities, the Muni, agitated at heart, ad-
-dressed a most severe speech to us all, who were respectfully
+33 ing to our good qualities, the Muni, agitated at heart, addressed a most severe speech to us all, who were respectfully
 
 34 bowing, Ml of faith, with hands reverently joined. ‘ Ye noble
 dvijas, whose minds are improved, are bound by obligations
@@ -2475,15 +695,13 @@ observance of truth.’
 49 Having thus heard the Rishi’s speech, Indra, in birddike
 form, his soul filled with astonishment, then replied to the
 
-50 Muni, * Applying thyself to deep meditation, 0 lord of brah-
-mans, quit this thy body ; for living thing I never eat, 0 lord
+50 Muni, * Applying thyself to deep meditation, 0 lord of brahmans, quit this thy body ; for living thing I never eat, 0 lord
 of brahmans.’
 
 51 Having heard this his speech, the Muni, concentrated himself
 in deep meditation. Perceiving that his fixed resolution, Indra,
 
-52 further, resuming Ms own form said, ^Ho! princely ^ brah-
-man, understand with thy understanding what is to be under-
+52 further, resuming Ms own form said, ^Ho! princely ^ brahman, understand with thy understanding what is to be under-
 
 . stood,' 0' man of understanding ! To prove thee have I thus
 
@@ -2509,8 +727,7 @@ deign to pardon ns miserable ones who dread death ; for life
 57- is dear to ns. In an aggregate of skin hones and flesh, filed
 with pns and blood, wherein one shonld take no delight, therein
 
-58 do we And this delight. Hear too, Sir, how people are he-
-gniled when overcome by those powerfnl enemies, their faults,
+58 do we And this delight. Hear too, Sir, how people are hegniled when overcome by those powerfnl enemies, their faults,
 
 59 love, anger and so forth. Great is the fortress which has
 Wisdom for its rampart, the bones for its pillars, the skin for
@@ -2549,9 +766,6 @@ it Manas, cognitive faculty.
 |{ Moira, folly, infatuation,
 
 ‘f Eaga, |}Gwsio% emotion ; used aa equivalent to Kama.
-
-
-16
 
 
 OANTO in.
@@ -2622,8 +836,7 @@ even in the superhuman battle escaped destruction.’ ”
 8S Then they, permitted by that aJEectionate high-souled Mun%
 went to the Vindhya, the goodliest of mountains, clad with
 
-84 trees and creepers. Hitherto have the righteous birds re-
-mained on that mountain, engaged in austerities and the study
+84 trees and creepers. Hitherto have the righteous birds remained on that mountain, engaged in austerities and the study
 
 85 of the Yedas, and resolute in meditation. Thus those Muni’s
 sons gained the hospitality of the noble Muni, acquired the
@@ -2653,9 +866,7 @@ went to the Vindhya mountain, where dwelt those righte-
 8 ous birds. And when Jaimini reached that mountain, he
 heard their voices as they were reading, and having heard
 
-4 filled with surprise, he reflected. ^ The brahmans are read-
-ing, observing the beauties of the various passages, regu-
-lating their breath, without any intermission, distinctly and
+4 filled with surprise, he reflected. ^ The brahmans are reading, observing the beauties of the various passages, regulating their breath, without any intermission, distinctly and
 
 5 without faults : wondrous is this, methinks, that Sarasvati
 does not forsake these Muni’s sons, although they are bom in
@@ -2664,9 +875,6 @@ does not forsake these Muni’s sons, although they are bom in
 whatever 'else is desired in one’s home — all that forsakes one
 
 B
-
-
-18
 
 
 CANTO TV.
@@ -2704,8 +912,7 @@ invulnerability to soitow and joy the fruit of knowledge.’’
 16 Then they all did Jaimini honour, by giving him water for
 his feet, and the arghya offering ; and they bowed to him, and
 
-16 questioned him with deep respect. Then all the birds address-
-ed him, the disciple of Yyasa, rich in austerities, as he sat at
+16 questioned him with deep respect. Then all the birds addressed him, the disciple of Yyasa, rich in austerities, as he sat at
 ease, resting himself, with his fatigue mitigated by the breeze
 from their wings.
 
@@ -2741,8 +948,7 @@ to the Yindhya mountain’s delightful cave, which is sprinkled
 questioned the great Muni Markandeya, a scion of Bhrigu’s
 race, since I found difficulties in connexion with the Mahd-
 
-24 bharata. And he, when asked by me, replied, ‘ Drona’s high-
-souled sons are living on the mighty Yindhya mountain;
+24 bharata. And he, when asked by me, replied, ‘ Drona’s highsouled sons are living on the mighty Yindhya mountain;
 
 25 they will declare the fall meaning to thee.’ And I, impelled
 by his speech, have come to this great mountain : therefore
@@ -2781,9 +987,6 @@ sons of Pandu ? On this point there is very great perplexity.
 34 manicide by engaging in a pilgrimage F And how was it that
 
 
-20
-
-
 CAHTO IV.
 
 
@@ -2807,8 +1010,7 @@ Mm than whom there is nothing more minute, than whom there
 is nothing more immense, by whom — the unborn one, the begin-
 
 39 ning of the worlds — ^this universe is permeated, — this universe
-which, characterized by appearance and disappearance, by visi-
-bility and invisibility, has, men say, been created and also been
+which, characterized by appearance and disappearance, by visibility and invisibility, has, men say, been created and also been
 
 40 destroyed in the end: and having paid adoration with
 profound meditation to Brahma, the creator, who purifies the
@@ -2825,8 +1027,7 @@ virtues were made manifest.
 43 “ The waters were called I^ara by Munis conversant with
 truth ; they were originally his place of movement* ; hence he
 
-44 is called Haryana. The adorable god, the lord INTarayana, per-
-vading all things, lives, 0 brahman, in a quadruple form : he
+44 is called Haryana. The adorable god, the lord INTarayana, pervading all things, lives, 0 brahman, in a quadruple form : he
 
 45 is possessed as well as devoid of attributes. His first form is
 inscrutable ; the wise behold it bright ; it is covered with gar-
@@ -2843,9 +1044,6 @@ attributes ; when called Ymideva, it is seen devoid of egoism ;
 
 
 indra’s transpormatioks.
-
-
-21
 
 
 form, called S'esha, supports tlie earth below with its bead ;
@@ -2869,14 +1067,12 @@ preservation of creatures, always maintains righteousness on the
 53 devoted to the preservation of righteousness. Whensoever,
 0 Jaimini, the wane of righteousness occurs and the rise of
 
-54 iniquity, then it creates itself. Having formerly become exis-
-tent, as a wild hoar it repelled the water with its snout, and
+54 iniquity, then it creates itself. Having formerly become existent, as a wild hoar it repelled the water with its snout, and
 
 55 lifted out the earth like a lotus with one of its tushes. Having
 taken the form of the man-lion, it slew Hiranya-kasipu, and
 
-56 destroyed Viprac^tti and other Danavas. I cannot now enu-
-merate its other incarnations, those of the dwaif, etc. : his
+56 destroyed Viprac^tti and other Danavas. I cannot now enumerate its other incarnations, those of the dwaif, etc. : his
 
 57 recent incarnation here was this one in Mathura. Thus that
 form, which is characterized by goodness, becomes incarnate ;
@@ -2904,12 +1100,6 @@ The birds spoke.
 “ Of old, 0 brahman ! when the son of Tvasht|i wm slain,.
 
 
-1
-
-
-22
-
-
 CANTO V.
 
 
@@ -2925,8 +1115,7 @@ enraged, tearing out a single matted look of hair, uttered this
 4 speech. ‘ Let the three worlds and the gods thereof see my
 might this day, and let Indra the perverse hrahmanicide see,
 
-5 by whom my son when engaged in his own business was des-
-troyed.’ Thus having spoken, he, his eyes red with anger,
+5 by whom my son when engaged in his own business was destroyed.’ Thus having spoken, he, his eyes red with anger,
 sacrificed that lock of hair in the fire.
 
 6 ‘‘ Then uprose Vritra, the mighty Asura, encircled with flame,
@@ -2938,9 +1127,7 @@ surpassing the might of Tvashtri, mighty in valour, increas-
 8 ed daily a bow-shot in stature. And Indra, having seen the
 mighty Asura Yritra eager for his slaughter, unnerved by
 
-9 fear, sent seven Rishis, desiring peace. Then the affectionate-
-minded Risliis, who delighted in benevolence towards all crea-
-tures, brought about friendship and treaties between him and
+9 fear, sent seven Rishis, desiring peace. Then the affectionateminded Risliis, who delighted in benevolence towards all creatures, brought about friendship and treaties between him and
 
 10 Vritra. When Indra violating the rules of the toaty slew
 Vritra, then his might overwhelmed by the sin of the slaughter
@@ -2952,8 +1139,7 @@ supreme deity of power.
 12 “ And when Indra, assuming the form of Gautama, violated
 
 13 Ahalya, then the lord of the gods lost his form. Thereupon his
-beauty of limb and feature, which was exceedingly captivat-
-ing, forsook the wicked lord of the gods and went to the
+beauty of limb and feature, which was exceedingly captivating, forsook the wicked lord of the gods and went to the
 Asvins.
 
 14 Perceiving the lord of the gods to have lost his uprightness
@@ -2969,9 +1155,6 @@ with their weight, once went to the summit of Meru, where is
 
 
 baladeva’s brahmakicibe*
-
-
-23
 
 
 excessive weight, she declared that the cause of her distress
@@ -2992,8 +1175,7 @@ heaven to earth, to benefit the creatures and to alleviate the
 21 burden of the Earth. Dharma himself relinquished the
 glory which is innate in the body of Indra, then was bom
 
-22 of Kunti the resplendent raja Yudhishthira ; Vayu relin-
-quished his might, then was bom Bhima ; and from the half
+22 of Kunti the resplendent raja Yudhishthira ; Vayu relinquished his might, then was bom Bhima ; and from the half
 of Indra’s power was horn Dhananjaya, the son of Pritha;
 
 23 Yama’s two sons, resembling Indra in form, of glorious dignity,
@@ -3026,9 +1208,6 @@ Krishna for Arjuna, deliberated much — “ Can what has been
 
 2 done be better done ? Without Krishna, assuredly, I will not
 go near Duryodhana ; or how, siding with the Pandavas, shall
-
-
-24
 
 
 CAHTO VI,
@@ -3067,8 +1246,7 @@ every season, bright with the blossoms of every season, ren-
 kamarangas,J cocoanuts, and tindaka trees, § and little bel
 
 * A mountain near Dvaraka in Gujarat. The woodland scene doscribod
-seems to be a fanciful ono, compounded from the author’s observations every-
-where.
+seems to be a fanciful ono, compounded from the author’s observations everywhere.
 
 t Amrataka, the Hog-plum, Spondias mangifera ; the modern amra. It is
 both wild and cultivated. I give the botanical names, from Hooker’s Flora
@@ -3091,12 +1269,7 @@ a large tree, growing in most woody mountainous parts of India.
 baladeva’s brahmakicide.
 
 
-25
-
-
-13 trees,* cumin, f pomegranates,! citrons, § jack trees, |j mon-
-key-jack trees, plantain ti’ees, and very cliarming ka-
-dam trees,** and paravata trees, ff kankola trees, JJ nalina
+13 trees,* cumin, f pomegranates,! citrons, § jack trees, |j monkey-jack trees, plantain ti’ees, and very cliarming kadam trees,** and paravata trees, ff kankola trees, JJ nalina
 
 14 trees, §§ docks, 1||| marking-nut trees, ff emblic myroba-
 
@@ -3139,8 +1312,7 @@ t% Kan’kola. I do not find this in the Dictionary. Read han'Mldn for
 han'holdnf Kan'kolla is given as the Asok, Saraca indica (Jonesia asoJea,
 Roxb.), but this occurs in verse 15.
 
-§§ Nalina. Dr. Banerjea translates this as the Indigo plant, but Pi’of. Mo-
-nier-Williams says nalina, muL, is the Indigo shrub, Irdlgofera tinctoria ; while
+§§ Nalina. Dr. Banerjea translates this as the Indigo plant, but Pi’of. Monier-Williams says nalina, muL, is the Indigo shrub, Irdlgofera tinctoria ; while
 nalina, masc. as hero, is the Carissa carandas ; but the latter occurs in the
 next verse.
 
@@ -3149,11 +1321,6 @@ The Dock is Rmnex vesicariusy Roxb. The Sorrel is Oxalis corniculata, Hooker
 (see Oliver, pp. 181 and 269).
 
 Bhallataka, the Marking-nut tree, Semecarpus anacardhim, the Bengali
-
-4
-
-
-26
 
 
 CANTO VI.
@@ -3207,8 +1374,7 @@ delightful fragrance, for which they are so universally and deservedly
 esteemed ; for of all the perfumes in the world it must be the richest and most
 powerful.’* (Eoxb., p. 707. )
 
-§§ Takula, Mirmsops dengh% the modem bdkuL A tree, commonly culti-
-vated, with flowers middle-sized drooping, white and fragant ; but Pirminger
+§§ Takula, Mirmsops dengh% the modem bdkuL A tree, commonly cultivated, with flowers middle-sized drooping, white and fragant ; but Pirminger
 says they are small, pale-green. (Eoxb., p. 318 j Hooker, p. 458 5 Pirm.,
 p. 490).
 
@@ -3217,9 +1383,6 @@ tree with large yellow delightful fragrant flowers.
 
 
 balabeva’s bbahmanicide.
-
-
-27
 
 
 saptapariias,^ karaikaras^t Spanisk jasmines, J
@@ -3262,8 +1425,7 @@ Hindustani her. A small tree with fruit of the size of a large cherry.
 
 ft Pataia, Bignonia suaveolens^ Eoxb., the modern pdrul. I do not find it in
 Hooker. A tree, with large, exquisitely fragrant, dark dull crimson flowers.
-It blossoms during the hot season. Prof. Monier-Williams calls it the Trumpet-
-flower tree, but I do not find this name in any of the Botanical books I have
+It blossoms during the hot season. Prof. Monier-Williams calls it the Trumpetflower tree, but I do not find this name in any of the Botanical books I have
 consulted.
 
 JJ Deva-dam, Finns devdara, Eoxb., the modem devddr, I do not find it
@@ -3278,9 +1440,6 @@ tree-
 Hot in Hooker. Fans are made from the' large fan-lik© leaves.
 
 
-28
-
-
 CANTO Vt.
 
 
@@ -3289,8 +1448,7 @@ cliakors,§ and woodpeckers, shrikes, || and parrots, koiis,^ and
 
 19 sparrows, green pigeons,*'^ and jivajivaka pheasants, ft bypriya-
 
-* Tainala. Prof. Monier- Williams says this is Garcinia xanthochymus {Xan-
-thochymus pictormSf E-oxb.) ; this is a tree, a native of the moantainoas districts
+* Tainala. Prof. Monier- Williams says this is Garcinia xanthochymus {Xanthochymus pictormSf E-oxb.) ; this is a tree, a native of the moantainoas districts
 in India. But Roxburgh says the Tam ala is Diospyros cordifoUa, which
 Hooker unites with JD. montana ; this is a common tree.
 
@@ -3339,9 +1497,6 @@ jivaujiva, and explains the word as a kind of bird supposed to be a pheasant.
 baladeva’s brahmanicide.
 
 
-29
-
-
 pntras,^ and pied-crested cuckoos, t and by va.rious other birds,
 20 warbling pleasingly and very melodiously : — and the lakes,
 beautiful and placid, crowded on all sides with the lotus
@@ -3349,14 +1504,12 @@ water-lilies, J: and lotuses, § and the brilliant blue water-
 
 or the chakor. As the ohakor is mentioned already, it must have the first
 meaning. Taking it to be a kind of pheasant, I -would suggest that it is the
-C heer Pheasant, Phasian'us Wallichi. The Sanskrit name looks like an ono-
-matopoeous one, and the cry of this bird is “ something like the words chir
+C heer Pheasant, Phasian'us Wallichi. The Sanskrit name looks like an onomatopoeous one, and the cry of this bird is “ something like the words chir
 apir, chir a piry chir chiTy chirwa chirwaP Cheer is the native name. Tho
 bird is found in Garhwal and Kumaon and the neighbouring country, and
 inhabits tho middle slope of the Himalayas (Hume and Marshall, Vol. I, p.
 169 : Jerdon, Vol. II, p. 527). If this bird be a pheasant, it is clear the writer
-is mentioning, not the fauna of Gujarat, but of the country near the Hima-
-layas, for it appears from Hume and Marshall, and Jei'don, that no pheasants
+is mentioning, not the fauna of Gujarat, but of the country near the Himalayas, for it appears from Hume and Marshall, and Jei'don, that no pheasants
 are found in India except in the Himalayan and Indo-Bnrmese mountains and
 forests.
 
@@ -3383,17 +1536,13 @@ white, rose, or red. This species combines Roxburgh’s N. rubra and N. edulis
 variety is raktotpala. It closes during the day and opens at night.
 
 The latter species, N. stellatay has flowers 1 — 10 inches broad, slightly
-odorous. It comprises 3 varieties, (1) cyanea {N. cyaneay Boxb.), flowers me-
-dium-sized, blue ; (2) parviflora, flowers usually smaller, blue ; (3) versicolor
+odorous. It comprises 3 varieties, (1) cyanea {N. cyaneay Boxb.), flowers medium-sized, blue ; (2) parviflora, flowers usually smaller, blue ; (3) versicolor
 (F. versicolor, Eoxb.), flowers larger, white, blue, purple, or flesh-coloured.
 The blue-flowered W. stellata is called mdivara, utpalay huvalaya and nilotpala,
 (Hooker, Vol. I, p. 114 : Eoxburgh, p. 427.)
 
 § Bundarika, the Lotus or Sacred Lotus, Nelumbmm speciosum. This is the
 only species of Nelumbium m India. It is a large erect water-herb with its
-
-
-30
 
 
 CANTO VI.
@@ -3405,8 +1554,7 @@ kMamba geese, § and ruddy sliieldrakes|| and water-fowl, ®f
 22 with karandava ducks, pelicans, ft geese, J'J tortoises, and
 
 leaves and dowers raised high above the water. Its leaves are peltate, cupped,
-2 — 3 feet in diameter. Tbe flowers are 4 — 10 inches broad, white or rose-
-red. Its Sanskrit names are hamala, nalinif padmin^, pui^dar^ka, sarasi-ja^
+2 — 3 feet in diameter. Tbe flowers are 4 — 10 inches broad, white or rosered. Its Sanskrit names are hamala, nalinif padmin^, pui^dar^ka, sarasi-ja^
 and sahasra-patra. The flower is padma and panla-ja. The red variety is
 JcoTcanada and tdmarasa. Boxbnrgh says the white variety is called in Sanskrit
 sitdmhu-ja, and the red variety raktotpala ; but these names more properly
@@ -3418,8 +1566,7 @@ Boxbnrgh, p. 450.)
 * Mlotpala, the Blue water-lily, Nymphoea stellatay see note X on kninnd,
 supra p. 29.
 
-t Kahlara. Prof. Monier-Williams says this is the White escnlent water-
-lily, Nymphoea lotuSj bat Eoxbargb assigns it to his N". cyanea. Can it mean
+t Kahlara. Prof. Monier-Williams says this is the White escnlent waterlily, Nymphoea lotuSj bat Eoxbargb assigns it to his N". cyanea. Can it mean
 the rose-coloared vaiiety of the W. lotus or stellata ? See note J on kamad,
 mpra p. 29,
 
@@ -3435,8 +1582,7 @@ II O'akravaka, the Raddy Shieldrake or Brahminy Back, Gasarca rutila.
 Anas casarca is the Linnaean name. (Hame and Marshall, Yol. Ill, p. 125 ;
 derdon, Yol. II, p. 791.)
 
-Jala-kakkata. This is probably the Water-hen, Gallinula chloropus, com-
-monly called the jal-murghij which means the same. (Jerdon, Yol. II, p.
+Jala-kakkata. This is probably the Water-hen, Gallinula chloropus, commonly called the jal-murghij which means the same. (Jerdon, Yol. II, p.
 718.)
 
 Karandava, a kind of dack ; also called karanda. I woald suggest that
@@ -3444,8 +1590,7 @@ this is the Common Teal, Qmrquedula creccay which is now called Jcerra in
 the H. W. Provinces, and Jcardo in Sindh. (Hame and Marshall, Yol. Ill,
 p, 205; Jerdon, Yol. II, p, 806.)
 
-ff Plava. Prof. Monier-Williams translates this as pelican, Pelicanus fusi-
-collis ; bat I do not find any such species in Jerdon, It may be the Grey
+ff Plava. Prof. Monier-Williams translates this as pelican, Pelicanus fusicollis ; bat I do not find any such species in Jerdon, It may be the Grey
 pelican, Felecanus Philippensisy which is the most abundant species in India.
 (Jerdon, Yol. 11, p. 858.)
 
@@ -3454,9 +1599,6 @@ duck.
 
 
 baladeta’s beahmanicide.
-
-
-31
 
 
 divers tliroiiged with these and other birds swimming in the
@@ -3518,9 +1660,6 @@ Vol. II, p* 822.) But it may be the Bald Coot, Pidica which is also a
 ready diver (id., p. 715.)
 
 
-32
-
-
 CANTO VH.
 
 
@@ -3537,8 +1676,7 @@ horn as the five sons of JDraupadi, and died young.
 
 The iTghteous birds spoke.
 
-1 There lived formerly in the Treta Age a most exalted Rajar-
-shi named Haris-c andra, virtuous in soul, a ruler of the earth,
+1 There lived formerly in the Treta Age a most exalted Rajarshi named Haris-c andra, virtuous in soul, a ruler of the earth,
 
 2 brilliant in fame. No famine, nor sickness, nor, untimely dea.th
 occurred among men, nor did the citizens delight in evil, ^vhiie
@@ -3556,8 +1694,7 @@ giving over the deer, called out “ fear not ! who is this per-
 this interval also the Raudra Yighna-raj, the opponent of every
 
 7 undertaking, who was following that cry, deliberated : — “ This
-Visvamitra, full of heroism, undertaking incomparable austeri-
-ties, keeping a vow, is mastering the sciences of S'iva and
+Visvamitra, full of heroism, undertaking incomparable austerities, keeping a vow, is mastering the sciences of S'iva and
 others, which have not been perfected before. Those sciences
 
 S being mastered by this man, who governs his mind in patience
@@ -3632,8 +1769,6 @@ from the branch. The leaf hangs downwards by th© long stalk, with its
 inner surface, which is slightly concave, facing outwards, aud thus catches
 the lightest breeze,
 
-5
-
 
 M CANTO VIL
 
@@ -3665,8 +1800,7 @@ Visvamitra spoke.
 27 Give me this earth, with its ocean, and with its mountains,
 villages and towns ; and thy entire kingdom, 0 warrior, with
 
-28 its multitude of chariots, horses, and elephants ; also thy trea-
-sury and treasure ; and whatever else thou possessest, excepting
+28 its multitude of chariots, horses, and elephants ; also thy treasury and treasure ; and whatever else thou possessest, excepting
 
 29 tliy wife, and son and body, 0 sinless one ! and excepting thy
 ^drtue, which, 0 thou that knowest all the virtues, follows its
@@ -3687,15 +1821,11 @@ the ascetic am seated in the kingdom ? ”
 
 Haris-c^andra spoke.
 
-32 “ At what time I have yielded up the elirth to thee, 0 brah-
-man ! at that time thou, Sir, art the owner . how inuch more
+32 “ At what time I have yielded up the elirth to thee, 0 brahman ! at that time thou, Sir, art the owner . how inuch more
 now the king.”
 
 
 THE BIRTH OF THE SONS OF BRAaPAOI.
-
-
-35
 
 
 VisYamitra spoke.
@@ -3727,8 +1857,7 @@ Yisvamitra spoke.
 38 “ Nevertheless thou must assuredly give me the sacrihciai fee ;
 a promise unfulfilled, especially to hiuhmans, proves injurious.
 
-39 As long as brahmans delight, 0 king ! in the Raja-stiya sacri-
-fice, so long indeed must the fee for the Raja-siiya sacrifice be
+39 As long as brahmans delight, 0 king ! in the Raja-stiya sacrifice, so long indeed must the fee for the Raja-siiya sacrifice be
 
 40 given. After making a promise, one must bestow the gift ;
 and one must fight against assailants ; so too the afflicted must
@@ -3743,17 +1872,13 @@ bearing in mind noble behaviour.”
 Yisvamitra spoke.
 
 42 ‘‘ Wliat length of time mu.st I wait for thee, 0 guardian of
-men 1 Tell me speedily, or the fire of my curse shall con-
-sume thee.”
+men 1 Tell me speedily, or the fire of my curse shall consume thee.”
 
 
 Haris-c^andi*a spoke.
 
 43 In a month will I give thee the fee-money, O BmhmarsM ! At
 present I have no means ; deign to gi*ant me this permission.”
-
-
-36
 
 
 CANTO VIT.
@@ -3806,17 +1931,13 @@ art.”
 56 Having thus heard the citizens’ address the king, overwhelmed
 with grief, stood then in the road through very compassion for
 
-57 them. Still Visvamitra, seeing Mm distressed by the citi-
-zens’ exclamations, approaching him, with eyes rolling in anger
+57 them. Still Visvamitra, seeing Mm distressed by the citizens’ exclamations, approaching him, with eyes rolling in anger
 
 ^ Bead poMhydm for pfodhhydm.
 t for pibdmOf let us drink P
 
 
 THE BIRTH OF THE SOSTS OF DBAUPABI.^
-
-
-37
 
 
 58 and impatience, spoke : Fie on tkee, vile in thj condiict,
@@ -3829,12 +1950,10 @@ accosted bj* hira replied thus trembling, “ I am going,” and de-
 sage of the Kan^ika family suddenly belaboured with a wooden
 staff the very youthful toil-wearied wife, as tJiB hing was
 
-61 drawing her along. Seeing her thus beaten, the king Haril-
-o^and’fa, oppressed with pain, exclaimed I am going nor did
+61 drawing her along. Seeing her thus beaten, the king Harilo^and’fa, oppressed with pain, exclaimed I am going nor did
 he Tit-ter aught else.
 
-62 But then spoke five Vi^ve Devas full of pity, “ This Vii^vii-
-mitra is very wicked ; what worlds will he obtain, who has
+62 But then spoke five Vi^ve Devas full of pity, “ This Vii^viimitra is very wicked ; what worlds will he obtain, who has
 
 63 uprooted this best of sacrificers from his throne ? By whose
 funeral ceremony further shall the soma juice expressed at
@@ -3855,16 +1974,12 @@ shall be neither marriage of wives for you, nor hostility : freed
 those gods descended to the mansion of the Kurus with their
 own portions ; they were bom of the womb of Draupadi as the
 
-68 five grandchildi’en of Pandu. Hence the five heroic Fdnda-
-veyas did not take to themselves wives, through the cui’sc of
+68 five grandchildi’en of Pandu. Hence the five heroic Fdndaveyas did not take to themselves wives, through the cui’sc of
 that great Muni.
 
 69 All this has been decfared to thee with reference to the tale
 of the Paodaveyas. Thy four questions have been answered
 in song. What, else dost thou wish to hear ?
-
-
-38
 
 
 CANTO
@@ -3881,8 +1996,7 @@ earns his livelihood as the d andakd s, servant at a hurning-gr'ound
 in the most abject state for a year — Then he sees a vision of his
 future transmigrations with a promise of happiness ultimately —
 Mis son is bitten hy a snahe, and the queen brings the corpse to the
-burning- ground — They recognise each other and bewail their mis-
-fortunes — Both resolve to immolate themselves on their sofds funeral
+burning- ground — They recognise each other and bewail their misfortunes — Both resolve to immolate themselves on their sofds funeral
 pile ; hut the gods interpose and restore his son to life — Dharrha
 explains that he had peisonaied the c^anddla — Indra caUs the hing
 to Svarga, but he refuses to go without his faithful people — JSe,
@@ -3918,9 +2032,6 @@ my wife, 0 Muni ! Take that as the choicest arghya offering
 should do, deign to excuse that.”
 
 * For partiti read
-
-
-39
 
 
 THE STOBY OF HAEIs'-c'aNDRA.
@@ -3981,14 +2092,10 @@ horse-sacrifices and a Raja-suya sacrifice, fell forthwith from
 22 Svarga for falsehood. O king, I have given birth to a child — ’
 
 
-40
-
-
 CANTO Yin.
 
 
-Tiins iiaving spoken slie wept aloud. Tke king spoke as fol-
-lows to her whose eyes were hathed in tears.
+Tiins iiaving spoken slie wept aloud. Tke king spoke as follows to her whose eyes were hathed in tears.
 
 Haris-c'andra spoke.
 
@@ -4042,9 +2149,6 @@ his parents lying thus helpless on the ground, being exces-
 father, give me some food ; mother, mother, give me something
 
 
-41
-
-
 THE STORY OF HARIS'-O'aNHRA.
 
 to eat. I have become dreadfally hungry, and the tip of my
@@ -4060,8 +2164,7 @@ but, seeing Haris-c^andra lying on the ground in a swoon,
 
 38 A debtor’s misery increases from day to day.” Then being
 
-39 refreshed with the snow-cold water, the king, recovering con-
-sciousness, and perceiving Visvamitra, again fell into a swoon,
+39 refreshed with the snow-cold water, the king, recovering consciousness, and perceiving Visvamitra, again fell into a swoon,
 
 40 and the Muni grew angry. The brahman, making the king
 recover, spoke : — “ Let my fee be given me, if thou regardest
@@ -4069,8 +2172,7 @@ recover, spoke : — “ Let my fee be given me, if thou regardest
 41 righteousness. By truth the sun sheds warmth ; in truth
 the earth stands firm ; truth in speech is the highest righte-
 
-42 ousness : Svarga is based on truth. Also a hundred horse-
-sacrifices and truth are placed in the balance — truth Terily
+42 ousness : Svarga is based on truth. Also a hundred horsesacrifices and truth are placed in the balance — truth Terily
 
 43 outweighs the hundred horse-sacrifices. Otherwise what
 motive is there for my speaking thus peaceably to thee^ base
@@ -4102,11 +2204,6 @@ The king spoke.
 
 50 “ Ho ! ho ! citizens, listen ye all to *my word. Why do ye
 ask me, ‘ ho ! who art thou ?’ I am mischievous, inhuman’
-
-6
-
-
-42
 
 
 CANTO vin.
@@ -4160,8 +2257,7 @@ The queen spoke.
 63 “ Shew me favour, O master t and buy this hoy. Although
 purchased, I shall not he a diligent servant to thee, Sir,
 
-64 when separated from him. Do thou in this way beam fa-
-vourably on me unfortunate ; unite me with my child, as a
+64 when separated from him. Do thou in this way beam favourably on me unfortunate ; unite me with my child, as a
 cow with her calf.”
 
 
@@ -4208,8 +2304,7 @@ insufficient, Kausika enraged addressed the sorrow-stricken
 74 Mng. “ 0 kshatriya, if thou deemest this a fitting sacrificial
 fee for me ; then behold thou quickly my supreme might,
 
-75 arising from austerities well performed here, and from stain-
-less brahmanhood, and from my terrible majesty, and from
+75 arising from austerities well performed here, and from stainless brahmanhood, and from my terrible majesty, and from
 my perfect study.”
 
 Hari4-c'andra spoke.
@@ -4222,9 +2317,6 @@ Visvamitra spoke.
 
 77 This fourth part that now remains of the day, 0 king, for
 that I must wait ; nought more must I say to tbee.”
-
-
-44
 
 
 CANTO VIII.
@@ -4246,8 +2338,7 @@ shines.”
 of a c'andaia, foul-smelling, disfigured, uncouth, bearded^
 
 82 with projecting teeth, compassionate, dark in complexion, his
-belly pendulous, his eyes tawny and haggard, his promunem-
-tion rude, and carrying a batch of birds, adorned with gar-
+belly pendulous, his eyes tawny and haggard, his promunemtion rude, and carrying a batch of birds, adorned with gar-
 
 83 lands taken from corpses, a skull in his hand, his face long,
 horrid to look at^ talking much and often, surrounded by a
@@ -4285,9 +2376,6 @@ The birds spoke.
 THE STORT OF HABts'-G ATfDRA.
 
 
-45
-
-
 arrived, Ms eyes rolling witli anger and wrath, and said this
 to the king : —
 
@@ -4313,8 +2401,7 @@ The birds spoke.
 92 Thereupon the king Haris-c'andra, his life boimd up in
 his anxiety, overcome with agitation seized the Rishi’s feet,
 
-93 exclaiming — “ Be thon gracious ! I am a slave ; I am in snfier-
-ing ; frightened am I ; and I am specially thy votary : shew
+93 exclaiming — “ Be thon gracious ! I am a slave ; I am in snfiering ; frightened am I ; and I am specially thy votary : shew
 me favonr, 0 Brahmarshi ! Deplorable is association with
 
 94 c'andalas. Instead of the balance of the money, I wonld be
@@ -4340,9 +2427,6 @@ to Ms town.
 98 Then king Hari^-e'andra, dwelling in the e andala’s town,
 
 
-46
-
-
 CANTO VIIX.
 
 
@@ -4356,8 +2440,7 @@ to the brahman.’ She, fawn-eyed, does not know that I
 101 have done more wickedly. Loss of kingdom, abandonment
 of friends, sale of wife and son, and this c'an^ala-life that
 
-102 I have sunk to : — alas ! a succession of misfortunes.” Dwell-
-ing in this condition, he remembered unceasingly his beloved
+102 I have sunk to : — alas ! a succession of misfortunes.” Dwelling in this condition, he remembered unceasingly his beloved
 son and his sonl-engrossing wife; deprived of all his pit>
 perty, and abject.
 
@@ -4393,14 +2476,10 @@ grandfather ! — ^father 1 — ^grandson 1 — ^where art thou gone !
 
 112 persons uttering such cries as these : — a place filled with the
 
-113 sputtering of burning flesh, marrow and fat. Black half-
-burnt corpses, their rows of teeth just hursting into view,
+113 sputtering of burning flesh, marrow and fat. Black halfburnt corpses, their rows of teeth just hursting into view,
 grinned from amidst the fire, as if saying^ ‘ This is the body’s
 
 114 jmal state !’ Here the fiie crackled along rows of bones of
-
-
-47
 
 
 THE STOEY Of*’ 'HAEIS'-c'aNDRA.
@@ -4460,9 +2539,6 @@ gnished from Fdidla^ tb© lower r^ons-
 § Tbe text ndnd^imodu-na'lsritdhdra seems to be incorrect.
 
 
-48
-
-
 CANTO Till.
 
 
@@ -4479,25 +2555,21 @@ indeed into a dead sleep ; and there on his pallet beheld a
 129 great wonder : — Through the power of destiny, he had in
 another body by diligent occupation at the burning- ground
 
-130 given the guru his fee, and there was immunity from the inflic-
-tion of pain for twelve years. Then he saw himself conceived
+130 given the guru his fee, and there was immunity from the infliction of pain for twelve years. Then he saw himself conceived
 
 131 in the womb of a pukkasa woman. Further the king, wiien
 in that condition, considered thus — “ Immediately I am
 
-132 born, I will verily practice the duty of liberality.” There-
-upon he was bom. Then as a pukkasa boy he was always
+132 born, I will verily practice the duty of liberality.” Thereupon he was bom. Then as a pukkasa boy he was always
 ready to perform the obsequies of the dead bodies in the
 
 133 burning-ground. On his reaching his seventh year, a dead
-brahman was brought to the burning ground by the rela-
-tives ; then he perceiv-ed that the brahman had been poor and
+brahman was brought to the burning ground by the relatives ; then he perceiv-ed that the brahman had been poor and
 
 134 virtuous. But he, asking for his wage, despised the brahmans ;
 those brahmans mentioned there what Visvamitra had done, —
 
-135 Do thou a deed most sinful, and vicious, 0 evil-doer ; Haris-
-c'andra the king was formerly turned by Yisvamitra into
+135 Do thou a deed most sinful, and vicious, 0 evil-doer ; Harisc'andra the king was formerly turned by Yisvamitra into
 
 136 a pukkasa for breaking the slumber of a brahman, by
 the destruction of his merit.” When he did not have patience
@@ -4505,8 +2577,7 @@ the destruction of his merit.” When he did not have patience
 137 with them, they then in anger cursed hiu;^ — “ Go foi*tliwith
 thou vilest of men to terrible ■N'araka.” Immediately upon
 
-138 tshese words, the king still in his sleep saw Tama’s mes-
-sengers, bearing nooses, terror-inspiring. He saw himself
+138 tshese words, the king still in his sleep saw Tama’s messengers, bearing nooses, terror-inspiring. He saw himself
 
 139 then seized by them and led ofl by force. Sorely afflicted,
 exclaiming, “ Alas now, O mother ! 0 father !” he fell
@@ -4527,8 +2598,7 @@ THE STORY 01 HARIS'-C'anBRa.
 in anotlier place ; in anotlier Ke is made to melt away and to
 
 143 blaze ; in anotlier place lie is assailed witii cold winds. He
-remained in Naraka one day, wMcli was as long as a linn-
-dred years ; so a hundred years there in Efaraka are called hy
+remained in Naraka one day, wMcli was as long as a linndred years ; so a hundred years there in Efaraka are called hy
 
 144 the demons. Thereafter cast npon the earth he was bomi as
 a dog, eating filth and vomited matter, and enduring cold
@@ -4537,8 +2607,7 @@ a dog, eating filth and vomited matter, and enduring cold
 as an ass, an elephant, a monkey, an ox, a goat, a cat, and
 a heron, a hull, a sheep, a bird, a worm, a fish, a tortoise, and
 
-146 a wild boar, a porcupine, a cock, a parrot, a maina,* and mo-
-tionless living objects, a snake and other corporeal beings.
+146 a wild boar, a porcupine, a cock, a parrot, a maina,* and motionless living objects, a snake and other corporeal beings.
 
 147 J3ay by day consumed with grief he saw the birth of one
 living being after another ; a day was as a hundred years.
@@ -4568,15 +2637,12 @@ Then he no longer saw them, though runniug about again and
 best known are the Common momBiAcridofheres tristis, wbich is a brown bird
 common thronghont India, and the Nepal Hill maina Mulabes intermedia^
 winch is a black bird found along the lower ranges of tbe Himalayas. Both
-are commonly caged and learn to talk, but the latter attains mnch higher pro-
-ficiency. (Jerdon*s Birds of India, Edn. Godwin- Austen, Vol. II, pp. 325 and
+are commonly caged and learn to talk, but the latter attains mnch higher proficiency. (Jerdon*s Birds of India, Edn. Godwin- Austen, Vol. II, pp. 325 and
 S39). Prof Monier- Williams says S'^rikd is Gracula religiosa or Turdmsalica,
 The former name is an old name of the Southern Hill maina {E. religiosa) and
 of the Nepal Hill maina (W. intermedia), (Id., ToL II, pp. 337, 339), J
 do not find the second name in Jerdon.
 t Shrahha | or a fabulous animal wh/h eiglit legs, sti^onger than a Hon,
-
-7
 
 
 CANTO TUX.
@@ -4593,8 +2659,7 @@ me !’ in repeated cries. Then again he saw there through
 157 mitra, 0 king, regarding thee.’ Tama’s servants^ who bore
 nooses of serpents, having thus spoken, lead away the prince
 
-158 by force. Tama related Yisvamitra’s deed. At that point, how-
-ever, his change which resulted from iniquity came to an end.
+158 by force. Tama related Yisvamitra’s deed. At that point, however, his change which resulted from iniquity came to an end.
 These were all his states of being which were revealed in sleep ;
 
 159 they were all experienced hy him during twelve years. When
@@ -4619,8 +2684,7 @@ of the working of the corrosive substance in his wounds.
 do not perceive : but have twelve years, as I have seen in
 
 165 my sleep, gone with me ?” he inquired with agitation of the
-pukkasas standing there. “Ko” replied certain of the by-
-standers ; and others said exactly the same.
+pukkasas standing there. “Ko” replied certain of the bystanders ; and others said exactly the same.
 
 166 Then the king grieved at hearing this, sought the gods
 for refuge, ejaculating^ “ May the gods bestow blessings on me,
@@ -4636,9 +2700,6 @@ the pukkasas’ occupation, in fixing the price of corpses, as
 if again dead in memory. Filthy, matted*haired, black,
 
 
-51
-
-
 THI*] 'STORY OF HAEIS'-O'aNBRA*
 
 170 armed witli a clubj despondent was tli© king. Fo son liad
@@ -4649,8 +2710,7 @@ then in the hiirning-gTonnd.
 171 To that place came his queen, bewailing, bringing her son
 
 172 dead, for the boy had been bitten by a snake. ‘‘Ah my
-darling ! ah my son, my child thns she was oft exclaim-
-ing ; emaciated, pallid, insane, her hair cowered with dust.
+darling ! ah my son, my child thns she was oft exclaiming ; emaciated, pallid, insane, her hair cowered with dust.
 
 The queen spoke.
 
@@ -4676,8 +2736,7 @@ to what a state has this child bom in the family of some king
 179 been brought by malignant Death 1 For, since I have seen
 my child thus lying in his mother’s lap, my child Rohitasya
 
-180 with his iotus-like eyes recurs to my memory. Such in-
-deed would be my ciiiid, and of about this age, if dreadful
+180 with his iotus-like eyes recurs to my memory. Such indeed would be my ciiiid, and of about this age, if dreadful
 Death has not made him his thrall.”
 
 The queen spoke.
@@ -4695,20 +2754,15 @@ child — what has thou not done to the Rajarshi Harii-eandra
 184 Hearing this her lament the fallen king, recognising his
 
 
-52
-
-
 CANTO VIII.
 
 
-185 loved wifA^axid Ixis dead son, exclaimed “Alas! tMs is in-
-deed my S'aivya, this is my child !*’ and wept consumed
+185 loved wifA^axid Ixis dead son, exclaimed “Alas! tMs is indeed my S'aivya, this is my child !*’ and wept consumed
 
 186 with sorrow, and fell into a swoon. She too recognising' him
 fallen into’ that state, fainted with affliction and sank motion-
 
-187 less to the ground. The king and queen both regaining con-
-sciousness together, wailed in deep suffering, oppressed with
+187 less to the ground. The king and queen both regaining consciousness together, wailed in deep suffering, oppressed with
 the load of anguish.
 
 
@@ -4717,9 +2771,7 @@ The king spoke.
 188 “ Alas my child I when I look on thy very young face, with
 its beautiful eyes, brows, nose and curls, is not my afflicted
 
-189 heart torn asunder ? To whom, as he comes to me of him-
-self sweetly babbling, ‘Father, dear father,’ shall I affec-
-tionately exclaim with an embrace, ‘ My child, my child’ ?
+189 heart torn asunder ? To whom, as he comes to me of himself sweetly babbling, ‘Father, dear father,’ shall I affectionately exclaim with an embrace, ‘ My child, my child’ ?
 
 190 By whose knees shall the yellow dust be brought that shall
 
@@ -4751,15 +2803,13 @@ to the burning-ground to-day ?”
 
 Ceasing her grief for her son, she looked at the prostrate
 
-198 king. Agitated, surprised, afflicted, sorely oppressed on ac-
-count of her husband and son, gazing earnestly, she then
+198 king. Agitated, surprised, afflicted, sorely oppressed on account of her husband and son, gazing earnestly, she then
 saw her husband’s abominable staff fit for a low outcaste.
 
 
 THE STOBY OF HABis'-C^ANDRA. 53
 
-199 Tlierenpon the long-eyed lady fainted, and gradually regain-
-ing consciousness, spoke falteringly : —
+199 Tlierenpon the long-eyed lady fainted, and gradually regaining consciousness, spoke falteringly : —
 
 200 Fie on thee, O Fate ! most doleful, unruly, abominated, who
 hast reduced this god-like king to the position of a low out-
@@ -4795,8 +2845,7 @@ regions of the sky with the colour of the trails of smoke from
 joyful through the delight of tasting carrion.”
 
 209 Thus having spoken the princess embraced the king’s neck
-and, bearing hundreds of woes and griefs, lamented with sor-
-rowful voice, —
+and, bearing hundreds of woes and griefs, lamented with sorrowful voice, —
 
 
 The queen spoke.
@@ -4809,9 +2858,6 @@ no help in righteousness, nor in worship of brahmans, gods
 
 212 and others, nor in protecting the world ; there is no such thing
 as righteousness. Whence are there truth, and candoui', and
-
-
-54
 
 
 CANTO Till.
@@ -4832,11 +2878,9 @@ The king spoke.
 215 “ My darling, I choose not to undergo affliction for a long
 time, nor is my soul docile, 0 slender-limhed lady. Behold
 
-216 my ill-fortune. If I shall enter the fire, with the permis-
-sion of the c'andala, I shall in another birth go again into
+216 my ill-fortune. If I shall enter the fire, with the permission of the c'andala, I shall in another birth go again into
 
-217 bondage to c'andalas. I shall fall into Maraka, as a worm-
-eating insect ; into Vaitarini^ which is slimy with much pus,
+217 bondage to c'andalas. I shall fall into Maraka, as a wormeating insect ; into Vaitarini^ which is slimy with much pus,
 
 218 fat, blood, and sinews. Beaching the Asi-patra wood, I
 shall he frightfully cut to pieces ; or reaching Malia-rainwa
@@ -4861,8 +2905,7 @@ who hast my permission go to the brahman’s house, 0 bright
 224 smiler ! And hearken, 0 slender-limhed ! to my word with
 respectful mind. If one makes gifts, if one offers sacrifices,
 
-225 if the gurus are satisfied, there may be union for me in an-
-other world with my sou and with thee. But whence in this
+225 if the gurus are satisfied, there may be union for me in another world with my sou and with thee. But whence in this
 
 226 world will there be this aim for me ? In company with thee
 I shall speed happily on in the search for our son, which I
@@ -4870,9 +2913,6 @@ shall mahe laughingly or somewhat secretly, O brigiit-smiler.
 
 
 The river of Naraka.
-
-
-55
 
 
 THE STORY OF HARIs'-c'aNDEA.
@@ -4911,11 +2951,9 @@ with their vehicles, the Kagas,§ the Siddhas|| and the Gand-
 234 harvas,^ and the Rndras’^^ and the two Asvins, — these and
 and others, many in number, and also Yisvamitra, whom the
 
-235 three worlds could not formerly make a friend. .But Yi^a-
-mitra desires to proffer thee friendship and good.^’
+235 three worlds could not formerly make a friend. .But Yi^amitra desires to proffer thee friendship and good.^’
 
-He mounted, thereon he met Dharma, and Indra and Yiiiva-
-mitra.
+He mounted, thereon he met Dharma, and Indra and Yiiivamitra.
 
 
 Dhaima spoke.
@@ -4939,9 +2977,6 @@ II Class of demi-gods,
 ** Eleven demi-gods (personified roaring of the wind).
 
 
-56
-
-
 CANTO VIII.
 
 
@@ -4952,8 +2987,7 @@ Indra spoke.
 thee ; the eternal worlds are won bj thee and thy wife and
 
 23B son ! Accompanied by thy wife and son, ascend, 0 king ! to
-the third heaven, which to others is very difficult of attain-
-ment, hut which has been won by thine own deeds.’’
+the third heaven, which to others is very difficult of attainment, hut which has been won by thine own deeds.’’
 
 The birds spoke.
 
@@ -4963,19 +2997,16 @@ down from the sky a shower of nectar that prevents sudden
 240 death, and a very copious shower of flowers, accompanied
 with the sound of the heavenly drums, here and there on
 
-241 that closely-gathered assemblage of gods. Then the high-
-sonled king’s son arose, very youthful in body, in per-
+241 that closely-gathered assemblage of gods. Then the highsonled king’s son arose, very youthful in body, in per-
 
 242 feet health, placid in his organs and mind. And king
-Hari^ c'andra immediately embraced his son ; and in pos-
-sessing his wife regained his own Fortune. He was decked
+Hari^ c'andra immediately embraced his son ; and in possessing his wife regained his own Fortune. He was decked
 
 243 with heavenly garland.s ; and was happy, completely satisfied
 in heart, and filled with supreme joy.
 
 244 Indra at once re-addressed him. ‘‘ Accompanied by thy wife
-and son, thou shalt gain supreme felicity. Ascend, 0 vir-
-tuous hing^ by the results of thy own actions !”
+and son, thou shalt gain supreme felicity. Ascend, 0 virtuous hing^ by the results of thy own actions !”
 
 Hari4-c'andra spoke.
 
@@ -4985,8 +3016,7 @@ ascend to the abode of the gods.”
 
 Dharma spoke.
 
-246 “ Perceiving this thy affliction that was to be, I myself de-
-scended as the low outcaste through an illusion of myself ;
+246 “ Perceiving this thy affliction that was to be, I myself descended as the low outcaste through an illusion of myself ;
 and I displayed that inconsiderate conduct.”
 
 Indra spoke,
@@ -5010,8 +3040,7 @@ my speecli, that, filled witli a:fiection, I speak to tkee whose
 the city of Kosala"^ remain with minds sunk in my grief ;
 how disregarding them ’ shall I now ascend to heaYen ?
 
-250 The murder of a brahman, the killing of a gura, the slaugh-
-ter of cattle, and the slaying of women — equal to these has
+250 The murder of a brahman, the killing of a gura, the slaughter of cattle, and the slaying of women — equal to these has
 been pronounced the great sin incurred in the abandonment
 
 251 of one’s adherents. Neither in this world nor in the other
@@ -5040,8 +3069,7 @@ the gods, I have done well, whatever I have given in alms,
 whatever sacrifices or prayers I have made, let that be cora-
 
 257 mon to them and us. For whatever fruit of my action must
-be eaten through long time, let that be for me and them to-
-gether just a single day through thy favour !”
+be eaten through long time, let that be for me and them together just a single day through thy favour !”
 
 The birds spoke.
 
@@ -5056,9 +3084,6 @@ chariots and addressed the people of Ayodhya thus, “ Ascend
 speech of Indira and the king’s speech, and having brought
 
 ^ I. e, Ayodliya.
-
-
-8
 
 
 58 CANTO vm.
@@ -5091,8 +3116,7 @@ he who longs for Svarga gain Svarga ; may he who longs for a
 son gain a son ; may he who longs for a wife gain a wife ; may
 
 268 he who longs for a kingdom gain a kingdom 1 Ah, the majesty
-of patience ! ah, the great fruit of liberality ! since Hari^-c'an-
-dra has reached his city and has gained his sovereignty/’
+of patience ! ah, the great fruit of liberality ! since Hari^-c'andra has reached his city and has gained his sovereignty/’
 
 The birds spoke.
 
@@ -5119,9 +3143,6 @@ general modern names for various kinds of common herons, egrets and
 THE BATTLE OF THE MAINA AHD THE HERON.
 
 
-59
-
-
 Canto IX.
 
 The Battle of the Maind and the Heron,
@@ -5138,8 +3159,7 @@ the abode of the thirty gods, there came out from his resi»
 .. dence in the water the glorious family priest, Yasishtha,
 the Muni, who dwelt at the Ganges, at the end of twelve
 years; and he heard the whole of the deeds of Visvamitra,
-and also the downfall of the noble-dealing king Haris-
-c'andra, and his association with the c'andala, and his sale
+and also the downfall of the noble-dealing king Harisc'andra, and his association with the c'andala, and his sale
 of his wife and son. That most illustrious Muni having
 heard the story, being full of affection for the king, grew
 wrathful in his dignity against the Rishi Yisvamitra.
@@ -5147,8 +3167,7 @@ wrathful in his dignity against the Rishi Yisvamitra.
 Yasishtha spoke.
 
 “ It was Yi4vamitra who destroyed my hundred sons ; yet on
-that occaMon I was not so wroth as I am this day, on hear-
-ing that this king, who was high-souled, eminent, worshipful
+that occaMon I was not so wroth as I am this day, on hearing that this king, who was high-souled, eminent, worshipful
 towards the gods and brahmans, had been ousted from his
 kingdom. Since that king, truthful, tranquil, devoid of envy
 even towards an enemy, faultless also, upright in soul, vigilant,
@@ -5159,12 +3178,8 @@ therefore that impious brahman-hater, uprooted from among
 
 bitterns. The Large Egret {Kerodim alha, Jerdon), tbe Smaller Egret {K,
 egrettoides), and tbe Little Egret (if. garzetta) are all whit© ; the Cattle Egret
-(Buphus coromandus) and the Pond Heron, generally known as the Paddy-
-bird, (Ardeola ieucoptera), which are most commonly called bag and bagld,
+(Buphus coromandus) and the Pond Heron, generally known as the Paddybird, (Ardeola ieucoptera), which are most commonly called bag and bagld,
 haT© whit© bodies (Jerdon, vol. II, pp. 744-751).
-
-
-60
 
 
 CANTO IX.
@@ -5228,9 +3243,6 @@ t See note p. 58.
 THE BATTLE OF THE MAINA ANT) TEE HEBOH.
 
 
-61
-
-
 let the worlds recover tlieir stability !” AlthoHgli they heard
 
 23 the words of Brahm£, whose birth is mscmtable, yet both
@@ -5248,8 +3260,7 @@ having been dispelled : —
 26 “ Stay thou, niy beloved Yasishtha, and thou, most virtuous
 Kau^ika, this contest that, while involved in the state of
 
-27 darkness, ye desiie to carry on. This outcome of the Raja-
-suya sacrifice of king Haris-c andra, and this war between
+27 darkness, ye desiie to carry on. This outcome of the Rajasuya sacrifice of king Haris-c andra, and this war between
 
 28 you two, are causing the earth to waste away. JSTor moreover
 does that best of the Kausikas offend against that king, for
@@ -5266,15 +3277,11 @@ prayers, and ample is your power.’’
 by the gods, Brahma departed to his own world, and Yasishtha
 to his own place, and Kausika also to his own hermitage.
 
-32 Those mortals, who shall fittingly relate and who shall fit-
-tingly hear this battle of the Maina and the Heron, and the
+32 Those mortals, who shall fittingly relate and who shall fittingly hear this battle of the Maina and the Heron, and the
 
 33 story of Haris-c'andra, what they hear shall verily dispel
 their sins j nor shall they ever encounter antagonistic
 duties.
-
-
-62
 
 
 CANTO X.
@@ -5336,8 +3343,7 @@ J For Bamatir read Sumatir,
 
 COKTERSATION BETWEEN A FATHER AND SON. 63
 
-9 A certain higlilj intelligent bi^iimaii of Bhrign’s line ad-
-dressed liis son Snmati who had undergone his initiation, and
+9 A certain higlilj intelligent bi^iimaii of Bhrign’s line addressed liis son Snmati who had undergone his initiation, and
 
 IG who was tranquil, and in appearance stupid. “ Study the
 Yedas, O Sumati, in order from the beginning, be zealous in
@@ -5390,9 +3396,6 @@ of kings’* dependants, and of kings resplendent in battle, and
 * For ^arivrdta read fjari crdy..
 
 
-64
-
-
 CANTO X.
 
 
@@ -5433,8 +3436,7 @@ the result of sin
 The birds spoke.
 
 32 Hearing that his declaration, which was interrupted by joy
-and surprise, the eminent father with gladsome mind address-
-ed his son.
+and surprise, the eminent father with gladsome mind addressed his son.
 
 The father spoke.
 
@@ -5459,22 +3461,19 @@ and pain on me, and who I was in another hirtli, and what
 is beyond myself.
 
 36 I was formerly a brahman, my soul fixed on the Supreme
-Being ; I attained the highest perfection in the considera-
-tion of the knowledge of the Supreme Being. While con-
+Being ; I attained the highest perfection in the consideration of the knowledge of the Supreme Being. While con-
 
 37 tinnally occupied in devotion, through constant application
 to study, through association with the good, through mj
 own natural disposition, through deliberation, hehavionr and
 
-S8 purification, while occupying myself in this indeed I ex-
-perienced the snblimest joy at all times, and I gained the
+S8 purification, while occupying myself in this indeed I experienced the snblimest joy at all times, and I gained the
 position of a spiiitnal guide, the most successful remover of
 
 39 the doubts of disciples. A- long while afterwards I attained
 absolute perfection; and my good disposition warped by
 
-40 ignorance fell into calamity through carelessness. Begin-
-ning from the time of my departure I had no failure of
+40 ignorance fell into calamity through carelessness. Beginning from the time of my departure I had no failure of
 memory, until a, year had passed and had returned to my
 
 41 recollection of my births. Being such, I, keeping my organs
@@ -5503,21 +3502,13 @@ The son spoke.
 
 Listen, O father, how I have often perceived the truth ; the
 circle of mundane existence is ever young, the duration of
-9
-
-
-46
-
-
-60
 
 
 CAl^TO X.
 
 
 47 wliiclx is not known, I then tell thee the whole, with thy
-permission, O father, commencing from the period of depar-
-ture, as no one else will tell thee.
+permission, O father, commencing from the period of departure, as no one else will tell thee.
 
 48 “ Hot moisture is excited in the "body ; it i® set in motion hy
 a strong vital air ; blazing without fuel it pierces the sites of
@@ -5531,8 +3522,7 @@ food consumed.
 51 food and drink, obtains joy therefrom in adversity. He also,
 who has bestowed food with a mind purified by faith, is then
 
-52 satisfied even without food. He, wdio has not spoken un-
-truth, nor caused a breach of amity, a faithful believer,
+52 satisfied even without food. He, wdio has not spoken untruth, nor caused a breach of amity, a faithful believer,
 
 63 meets a happy death. Men who have been intent on the
 worship of the gods and brahmans, and who are nnspitefiil,^
@@ -5570,9 +3560,6 @@ by the vital airs he assumes another body, similar to the
 
 
 BXPEEIINOIS Of MYim BEIHGS AFTEl DEATH.
-
-
-67
 
 
 former, prodmoed by tbe actions of tbe former, intended for
@@ -5630,9 +3617,6 @@ Tama’s city, awful, made of iron, terrible in appearance.
 * for sa Mndhmd^ read sva-himdhmd^ f
 
 
-68
-
-
 CANTO X.
 
 
@@ -5646,8 +3630,7 @@ surrounded by hundreds of deformed, horrible and crooked
 noose in his hand, very formidable. Then the living being
 
 80 takes the happy or miserable course decreed by him. But
-the false witness goes to Eaurava, and the man who is un-
-truthful. Listen while I describe the nature of that Eaurava.
+the false witness goes to Eaurava, and the man who is untruthful. Listen while I describe the nature of that Eaurava.
 
 81 ‘‘ Eaurava’^ is in truth two thousand yojanas in size. Then
 there is a chasm, just knee-deep, very dif6.cult to pass over :
@@ -5697,9 +3680,6 @@ t Devoid of happiness.
 COHCEPTIOH AND GESTATION.
 
 
-60
-
-
 witli various celestial garlaads, bedecked with strings of pearls
 
 93 and anklets and gay with mnsic,^ and beavenlj chariots
@@ -5709,8 +3689,7 @@ they descend therefrom, they are bom in the family of
 94 kings and other high-sonled men : there observing upright
 conduct, they experience vigoronsf pleasures, and afterwards
 
-95 they go upwards ; and otherwise, when they take the down-
-ward path, they become men as before.
+95 they go upwards ; and otherwise, when they take the downward path, they become men as before.
 
 ‘‘ This has all been declared to thee, how a living being
 perishes. Wext listen, O Brahmarshi, how the foetus begins.”
@@ -5753,9 +3732,6 @@ its thumbs are placed upon the knees, and its finger in
 t Ugra j or noble.
 
 J For -nishekam nuinavain read niaheko mimvafj. ?
-
-
-70
 
 
 CANTO XI.
@@ -5820,9 +3796,6 @@ like tbe jar and rope at a well.
 BESCEIPTION OF THE HELLS MAHA-RATTEAYA, &C.
 
 
-71
-
-
 times indeed re-bom bere, he obtains the consequences of bis
 own actions ; and sometimes the man who has consumed the
 consequences of bis actions, passes at death with a very small
@@ -5841,8 +3814,7 @@ there this thought revolves in one’s mind, ‘I shall fall from
 27 hence ’ ; and from viewing the hells great suffering is felt ;
 day and night one is cheerless, thinking ‘ I shall go this
 
-28 course.’ One who is being horn has great suffering in re-
-maining in the womb ; and after birth one has suffering in
+28 course.’ One who is being horn has great suffering in remaining in the womb ; and after birth one has suffering in
 childhood and old age. The connexion also between desire
 
 29 envy and anger is grievous to bear in youth ; and old age is
@@ -5875,9 +3847,6 @@ mundane existence, relying on the great fruit that grows
 « Svar-ioka, t Naraka. J For modanU read stdante f
 
 
-72
-
-
 CANTO xri.
 
 
@@ -5904,9 +3873,7 @@ scorpions, and mosquitoes, and vultures he is speedily drag-
 8 ged out into the road. Burnt and confounded, he exclaims
 repeatedly, “ Father ! Mother ! Brother ! Dear one !” Full of
 
-9 fear he can get no repose. In this manner therefore emanci-
-pation from existence is attained to by violent men, who evil-
-minded have committed sin, in ten thousand times ten
+9 fear he can get no repose. In this manner therefore emancipation from existence is attained to by violent men, who evilminded have committed sin, in ten thousand times ten
 thousand years.
 
 10 “Moreover there is another hell named Tamas ;t it is bitterly
@@ -5918,8 +3885,7 @@ about in the awful darkness, encounter one another and seek
 12 refuge clasping one another. And their teeth adhere together,
 chattering with pain through the cold ; there are also other
 
-13 plagues the strongest of which are hunger and thirst. A cut-
-ting wind, laden with particles of snow, pierces their bones ;
+13 plagues the strongest of which are hunger and thirst. A cutting wind, laden with particles of snow, pierces their bones ;
 pressed with hunger, they feed on the marrow and blood that
 
 14 trickle down therefrom. Constantly licking, they whirl about
@@ -5957,8 +3923,7 @@ wheels are there indeed, and jar and well-ropes on the other
 21 side, which have been constituted causes of pain to men who
 engage in sin. Some human beings mounted on the wheels
 
-22 whirl around there ; for thousands of years no other condi-
-tion is theirs ; and then another man is bound to the jar and
+22 whirl around there ; for thousands of years no other condition is theirs ; and then another man is bound to the jar and
 
 23 well-rope, as the jar in the water. Human beings whirl
 around, continually spitting out blood, with blood pouriug
@@ -5992,10 +3957,6 @@ swords down upon them. Thereat they fall to the earth into
 32 a mass of blazing fire, which has pervaded the entire sux^face
 
 * Sword-leaf- forest. t For ayuta-sohhitdh read ayiUrno ^siidh f
-10
-
-
-74
 
 
 CANTO XIII.
@@ -6057,14 +4018,10 @@ from sinners who are being cut asunder. When cast down
 KIM TIPAS^-C'it’s TmT TO HELL.
 
 
-75
-
-
 4 there I spent a Imndred-- years and more, scorched by the
 intense heat, and burning witii thirst.
 
-5 On a sudden a wind blew on me there, bringing gladness, de-
-liciously cool, issuing from out of a pitcher of meal and sand.*
+5 On a sudden a wind blew on me there, bringing gladness, deliciously cool, issuing from out of a pitcher of meal and sand.*
 
 6 Through contact with it all the men were relieved of their
 torments, and I too gained a bliss supreme, such as the celes-
@@ -6116,9 +4073,6 @@ terrible hell P*’
 
 
 t Parasha.
-
-
-76
 
 
 CANTO XIT.
@@ -6207,8 +4161,7 @@ cleanses except by consumption. Diminution arises through
 18 consumption. And he abandons merit and demerit through
 consuming it ; hearken to me ! Prom famine indeed to famine,
 
-19 from affliction to affliction, from fear to fear go needy sin-
-ners, more dead than the dead. A manifold course do
+19 from affliction to affliction, from fear to fear go needy sinners, more dead than the dead. A manifold course do
 
 20 creatures take through the fetters of their actions. Prom
 festival to festival, from Svarga to Svarga, from happiness to
@@ -6232,9 +4185,6 @@ the, water, so do merit and demerit await him who acts
 committed' by a man, when it reaches the place and time,
 
 
-78
-
-
 CANTO XIV.
 
 
@@ -6244,8 +4194,7 @@ inflicts the pain produced by a thorn, when the foot is planted
 is caused by pins and wedges, and likewise scarcely endurable
 
 27 headaches and other pains. It causes the pains engendered
-by eating unwholesoine things.^ by cold, heat, fatigue, infiarama-
-tion and such like. Moreover sins have regard to one another
+by eating unwholesoine things.^ by cold, heat, fatigue, infiaramation and such like. Moreover sins have regard to one another
 
 28 amid the confluence of their results. In this way heinous
 sins have regard to the deteriorated state of protracted
@@ -6258,8 +4207,7 @@ hj weapons, fire, calamity, pain, imprisonment, and so forth.
 a long time, and great when arising at the proper period.
 And in this way pleasures and pains spring indeed out of good
 
-31 and bad actions. A ' man stays here consuming the produc-
-tions of numerous mundane existences. And the results of
+31 and bad actions. A ' man stays here consuming the productions of numerous mundane existences. And the results of
 knowledge or ignorance are checked hy race and country,
 
 32 and remain there united merely by outward sign to the soul.
@@ -6297,13 +4245,9 @@ consequences F’ that I will declare to thee in full detail.
 PUNISHMEHTS FOE YABIOUS SIKS,
 
 
-79
-
-
 witli adamant beaks tear ont their eyes ; and they have their
 
-41 eyes reproduced contiimally. Moreover during as many twink-
-lings of the eyes as these men have committed the sin, so many
+41 eyes reproduced contiimally. Moreover during as many twinklings of the eyes as these men have committed the sin, so many
 thousands of years they undergo the eye- torture.
 
 42 Those men who have given instruction in wicked S^astras,
@@ -6352,15 +4296,11 @@ and windows, and which being kept moist during the hot winds render tlw
 air that passes through them cool and fragrant (Eoxb. p. 89).
 
 
-80
-
-
 CANTO XIV.
 
 
 52 Whoever, pTi:ffed up, show contempt towards their parents
-and gurus — these men, who are such, are plunged head fore-
-most into a pit reehing with pus, ordure and urine.
+and gurus — these men, who are such, are plunged head foremost into a pit reehing with pus, ordure and urine.
 
 53 “ Those who eat, while the gods, guests and living beings,
 dependants and visitors, and also the pitris, the fire and birds
@@ -6415,9 +4355,6 @@ Hoopoe, tfpnpa epofs, which also has a long slender beak (Jerdon, vol. I, pp.
 PtlHISHMENTS FOE VARIOUS SINS.
 
 
-81
-
-
 63 “ And base men wbo have hearkened to blasphemy against
 gurus, the gods, and dvijas, and against the Yedas, — these
 
@@ -6430,8 +4367,7 @@ and destroyed beautiful rest-houses,'^ the abodes of gods and
 brahmans, and assemblages in the temples of the gods, — r
 
 66 Tama’s exceedingly cruel servants continually fiay the skins
-of those men from their body by means of these sharp instru-
-ments.
+of those men from their body by means of these sharp instruments.
 
 67 “ Whatever men have made water in the path of cattle,
 brahmans, and the sun, these entrails of theirs are drawn
@@ -6442,8 +4378,7 @@ one, gives her to a second person, truly that man is thus
 divided into many portions, and swept along in a stream of
 burning corrosive.
 
-69 “ Whatever man, moreover, engrossed in his own nouinsh-
-ment abandons his destitute children, dependants, wife and
+69 “ Whatever man, moreover, engrossed in his own nouinshment abandons his destitute children, dependants, wife and
 
 70 other relatives in a famine or in a disturbance, ho indeed
 in his hunger thus gets portions of his own flesh, which
@@ -6458,8 +4393,7 @@ by means of machines.
 with the grinding of rocks, as are these evil-doers.
 
 73 Men who carry off pledges are bound with bands on all
-their limbs, and are devoured day and night by insects, scor-
-pions, and ravens,
+their limbs, and are devoured day and night by insects, scorpions, and ravens,
 
 74 Wicked men who indulge in sexual intercourse by day,
 and men who defile others’ wives, are worn away by hunger,
@@ -6467,8 +4401,6 @@ have their tongues dropping from their palates by reason of
 thirst, and are racked with pangs.
 
 ^ Prapd, road-side slieds for accommodating travellers witli water.
-
-11
 
 
 CAOTo xrv.
@@ -6481,11 +4413,9 @@ and they are fonl with the streams of blood that pour forth.
 76 “ See also, O tiger-like man ! these defilers of others’ wives,
 who are being destroyed by Yama’s servants in the “ mouse.”t
 
-77 “ Whatever man, deposing his spiritual preceptor, stub-
-bornly pursues his learning or art, — ^he verily, bearing thus a
+77 “ Whatever man, deposing his spiritual preceptor, stubbornly pursues his learning or art, — ^he verily, bearing thus a
 
-78 rock on his head, undergoes affliction in the public way, suffer-
-ing exceeding pain, emaciated mth hunger day and night, his
+78 rock on his head, undergoes affliction in the public way, suffering exceeding pain, emaciated mth hunger day and night, his
 head quivering through the pain of his bui'den.
 
 79 “ Those who have discharged urine, phlegm or ordure
@@ -6530,18 +4460,13 @@ f A kind of instrument of torture, f See Canto XT. vers© 1,
 PUKISHMEOTS FOR VARIOUS SIN'S.
 
 
-88
-
-
 86 ‘‘ Blind, moreover, deaf, dumb, tbis man roams about, sick
-witb banger — be, base man, was ungrateful to men wbo oc-
-cupy themselves in conferring benefits.
+witb banger — be, base man, was ungrateful to men wbo occupy themselves in conferring benefits.
 
 87 Tbis man, wbo returns e'vil for good, working injury to
 Ms friends, very evil-minded, drops into Tapta-kumbba ;
 
-88 thereafter be will suffer grinding ; then he will go to Karam-
-bba-baluka next he will undergo mechanical tortures ; then
+88 thereafter be will suffer grinding ; then he will go to Karambba-baluka next he will undergo mechanical tortures ; then
 Asi-patra-vana ; and rending with saw-like leaves. After ex-
 
 89 periencing, too, division by the thread of Fate and manifold
@@ -6558,8 +4483,7 @@ liquors, a defiler of his guru’s bed, remain, being burnt in
 of years ; thereafter they are re-born as men afflicted Tvitb
 
 98 leprosy, consumption, sickness and other diseases. And when
-again dead, they enter hell ; and when again bom, they under-
-go a similar malady until the end of the kalpa, O king !
+again dead, they enter hell ; and when again bom, they undergo a similar malady until the end of the kalpa, O king !
 
 94 A cow-slayer also goes to hell for a rather less period,
 namely^ during three lives.
@@ -6587,15 +4511,11 @@ outcaste become a worm, on his release from hell.
 * See Canto XIII, xerse 5. f See Canto XIT. Terse S3.
 
 
-84
-
-
 CANTO NV-
 
 
 2 Bat tlio dvija who has misbehaved towards his spiritual
-preceptor,* by coveting the latter’s wife and the latter’s pro-
-perty in his mind, undoubtedly becomes a dog.
+preceptor,* by coveting the latter’s wife and the latter’s property in his mind, undoubtedly becomes a dog.
 
 3 “ The man also who scorns his parents is bom an ass ; for
 reviling his mother and father he is born a maina ;t and he
@@ -6652,9 +4572,6 @@ sown about April and reaped about August.
 
 
 PUNISHMENTS FOB VARIOUS SINS.
-
-
-85
 
 
 9 and flax, or other crops, a man void of understanding is
@@ -6717,9 +4634,6 @@ has Just been mentioned,
 t Madgu j see note * p. 31.
 
 
-86
-
-
 CANTO XV.
 
 
@@ -6728,8 +4642,7 @@ oil- cake he is horn a rat; and for. taking clarified butter
 
 22 an ichneumon ; for taking goat’s fiesh, a crow, a diver.'^ He
 who carries away fish-meat becomes a crow ; he who carries
-away venison a hawk ; but when salt is taken away, the offen-
-der becomes a water-crow rf when curdled milk is taken away^
+away venison a hawk ; but when salt is taken away, the offender becomes a water-crow rf when curdled milk is taken away^
 
 23 a worm ; and for stealing milk he is bom a hen-heron ; J
 
@@ -6753,8 +4666,7 @@ when a silk garment is taken away he is born a silk-
 t Yicfi-kaka. I do not find this in Prof. Monier- Williams* * * § Dictionary. I
 would suggest that it is a Tern, most probably the Black-bellied Tern, Sterna
 javanica, which has a black and grey plumage and is found in every river in
-India. The Terns are commonly called gangd-chil or gdng-chil, i. e., the river-
-kite. (Jerdon, vol. II, pp. 834 and 840.)
+India. The Terns are commonly called gangd-chil or gdng-chil, i. e., the riverkite. (Jerdon, vol. II, pp. 834 and 840.)
 
 J Balaka. Balaka is the Pond Heron or Paddy-bird, Ardeola leucoptera,
 the Beng. konch~hah. (Jerdon, vol. II, p. 751.)
@@ -6795,8 +4707,7 @@ and the stealer of a barken thing is horn a pond-heron ; for
 carries off a red garment becomes a jiwanjiva pheasant ;t for
 taking splendid perfumes let him become a miisk-rat; d^ndifor
 
-31 taking clothes a hare ; for theft of fruit a man becomes a eu-
-nnch ; for theft of wood, a wood-insect ; J and a flower- stealer
+31 taking clothes a hare ; for theft of fruit a man becomes a eunnch ; for theft of wood, a wood-insect ; J and a flower- stealer
 
 32 becomes a poor man ; a carriage-stealer lame ; and one who
 takes vegetables becomes a green pigeon j§ and one wdio takes
@@ -6806,16 +4717,14 @@ after going to Raurava and the other very terrible hells
 33 becomes grass, a bush, a creeper, a climbing shrub, a reed
 and a tree by degTees ; and the man afterwards, when his sin’s
 
-34 have been diminished to insignificance, becomes a worm, an in-
-sect, and a gi'asshopper, a bird, an aqnatio animal, a deer ; and
+34 have been diminished to insignificance, becomes a worm, an insect, and a gi'asshopper, a bird, an aqnatio animal, a deer ; and
 having attained the condition of kine, and despicable cartes
 
 35 such as c'andala and pukkasa, he becomes lame and blind, deaf,
 leprous, and afflicted with pulmonary consumption ; he is seized
 with diseases affecting the month and the eyes and the
 
-36 anus ; and he becomes epileptic ; lie attains also the condi-
-tion of a sudra. This truly is known to be the course of
+36 anus ; and he becomes epileptic ; lie attains also the condition of a sudra. This truly is known to be the course of
 stealers of cattle and gold.
 
 37 ‘‘ And fierce men who steal learning, who fall short in their
@@ -6841,9 +4750,6 @@ t Jivan-jiVa or JiYa-jivaka. See note ft 28.
 II C'’ataka : see note f p. 39.
 
 
-88
-
-
 CANTO XV.
 
 
@@ -6863,14 +4769,12 @@ from hell.
 creatures, inculcation of the authority of the Yeda, veneration
 of gurus devarshis Siddhas and rishis, association with the
 
-44 good, hospitality, study, friendship, — let the wise man under-
-stand these and whatever other things constitute the deeds
+44 good, hospitality, study, friendship, — let the wise man understand these and whatever other things constitute the deeds
 
 45 of tifuth and righteousness, to he the marks of sinless men
 who have quitted Svarga,
 
-46 “ This I have declared explicitly to thee, O king ! con-
-cerning men, holy and wicked, who eat the fruits of them
+46 “ This I have declared explicitly to thee, O king ! concerning men, holy and wicked, who eat the fruits of them
 own actions. Come then, we go elsewhere. Thou hast now
 seen everything, for thou hast seen hell. Come then, let
 us go elsewhere.”
@@ -6904,9 +4808,6 @@ the air tbat cbngs to tby body brings gladness ; tbe torment, 0
 THE .STORY OP KINO Y^lTAs'-cOx.
 
 
-89
-
-
 54 king 1 doc 3 P not hurt the evil-doers. Whereas thou didst offer
 the horse-sacrifice and other sacrifices according to precept,
 hence from seeing thee Yaina’s engines weapons fires and
@@ -6921,14 +4822,12 @@ The king spoke.
 such joy, metliinks, as arises from conferring bliss on suffering
 
 57 creatures. If, while I am present, torment does not hurt
-these men, here then, fair Sir, 1 will remain firm as a moun-
-tain.”
+these men, here then, fair Sir, 1 will remain firm as a mountain.”
 
 Yama’s officer spoke.
 
 58 “ Come, 0 king ; w’-e proceed. Enjoy the delights won by
-thine owm merit, casting aside here the torments of evil-
-doers.”
+thine owm merit, casting aside here the torments of evildoers.”
 
 The king spoke.
 
@@ -6962,12 +4861,6 @@ t For mray^drtkmimi read kiTWHd'rtlmnmn (from arthm^d), since jiwmiaTii is
 neuter ?
 
 
-12
-
-
-90
-
-
 CA^’TO XT.
 
 
@@ -6991,8 +4884,7 @@ depart not.”
 Indra spoke.
 
 69 “ These evil-doers have come to hell in consequence of their
-own deeds ; thou also, O king, must go to Svarga in conse-
-quence of thy meritorious deed.”
+own deeds ; thou also, O king, must go to Svarga in consequence of thy meritorious deed.”
 
 The king spoke.
 
@@ -7028,9 +4920,6 @@ torment be delivered from hell 1 ”
 
 
 A3N^ASl5rA’S GAIN OP A BOON.
-
-
-91
 
 
 Indra spoke.
@@ -7082,9 +4971,6 @@ nature which is immutable like the rope and bucket at a well.
 what must I do in this thus-ordained mundane existence ?
 
 
-92
-
-
 CANTO X?I.
 
 
@@ -7103,8 +4989,7 @@ growni intent on religious devotion, f withdrawn from contact
 
 6 ^Nuth external things. Thereafter thou shalt attain to that
 religious devotion, — ^which is the cure for connexion with
-pain, the cause of final emancipation from existence, incom-
-parable, unutterable, devoid of uw^ldly attachments ; through
+pain, the cause of final emancipation from existence, incomparable, unutterable, devoid of uw^ldly attachments ; through
 connexion with that dsvotion thou wilt never again have union
 with living beings.
 
@@ -7118,8 +5003,7 @@ escape such suffering as this, when I am again born among
 does not by reason of the bonds of mundane existence attain
 to religious devotion, being itself even devoid of religious
 
-9 devotion,! speak now of that religious devotion. Sprin-
-kle with the water of thy words, which are cool with the
+9 devotion,! speak now of that religious devotion. Sprinkle with the water of thy words, which are cool with the
 water of the knowledge of Brahma, me whose body and
 mind are disordered with pain through the heat of the sun of
 
@@ -7138,9 +5022,6 @@ t Xoga.
 X Or “ devoid of means there seems to be a pun on the word yoga.
 
 
-93
-
-
 ANASiJya’s gain of a BOOlS-.
 
 The son spoke.
@@ -7157,11 +5038,9 @@ Aiarka, who enquired concerning religious meditation ?
 
 The son spoke.
 
-14 There was a certain Kausika brahman in the town Prati-
-shthana; he by reason of sins committed in other births was
+14 There was a certain Kausika brahman in the town Pratishthana; he by reason of sins committed in other births was
 
-15 diseased with leprosy. His w'ife used to lionoiu^ him, her hus-
-hand, thus diseased, as a god, by anointing’ his feet, knead-
+15 diseased with leprosy. His w'ife used to lionoiu^ him, her hushand, thus diseased, as a god, by anointing’ his feet, knead-
 
 16 ing his limbs, bathing, clothing, and feeding him, and by
 cleansing the flow of mucus, blood etcetera, and with atten-
@@ -7195,9 +5074,6 @@ sick with love, she his consort, spmng of a high family, very
 
 * For Aiiarkd^a read Alarhdya, see Canto XXXYI.
 t For damtam read daimtam.
-
-
-94
 
 
 CANTO xvr.
@@ -7286,8 +5162,7 @@ another.
 46 Having heard the speech of these assembled gods who were
 fearful of the destruction of the sacrifices, the god Brahma
 
-47 spoke, Majesty is subdued by majesty indeed, and austeri-
-ties also by austerities, 0 ye immortals ! Hearken therefore
+47 spoke, Majesty is subdued by majesty indeed, and austerities also by austerities, 0 ye immortals ! Hearken therefore
 
 48 to my advice. Through the might of the faithful wife the
 sun does not rise, and from his not rising loss befalls mortals
@@ -7317,9 +5192,6 @@ Tbe son spoke.
 
 
 ^ Nitya-aaimittiki j see Canto XXX.
-
-
-96
 
 
 CANTO XVT,
@@ -7357,8 +5229,7 @@ obtain half of the entire merit painfully earned by their
 61 husbands. There is no separate sacrifice for women, nor
 sraddha, nor fasting: for by obedience to their husbands
 
-62 indeed they reach these desired worlds. Therefore, 0 vir-
-tuous and exalted let thy mind ever he turned towards
+62 indeed they reach these desired worlds. Therefore, 0 virtuous and exalted let thy mind ever he turned towards
 
 obedience to thy husband, since a husband is a wife's supreme
 
@@ -7382,9 +5253,6 @@ equal with her husband, and lo?e for him tends to her benefit
 AHASUTA's GMW of a BOOIf.
 
 
-97
-
-
 67 in this world and the next ; tliroiigli her hmsbaad's faToar
 both here and after death, 0 illustrious hdy, a woman gains
 
@@ -7399,8 +5267,7 @@ Anasiiya spoke.
 they are searching for the day and night, the virtuous acts
 prescribed for which have been discarded in consequence of
 
-70 thy speech. They beg for the natural uninterrupted con-
-tinuance' of day and night: I am come for that object, and
+70 thy speech. They beg for the natural uninterrupted continuance' of day and night: I am come for that object, and
 
 71 do thou listen to this my speech. Through the absence of
 day flier e is the absence of all sacHficial ceremonies ; through
@@ -7432,18 +5299,11 @@ The son spoke.
 77 On her saying ' be it so !’ the ascetic lady Anasuya then
 summoned the sun, raising up the arghya oblation, at mid-
 
-78 night on the tenth night. Then the adorable sun, in ap-
-pearance ruddy as the full-blown lotus flower, with wide
+78 night on the tenth night. Then the adorable sun, in appearance ruddy as the full-blown lotus flower, with wide
 
 79 disc, rose aloft above the mighty mountam. Forthwith indeed
 
 ^ For dnjmm read drm^d f
-
-
-13
-
-
-98
 
 
 CANTO XVI*
@@ -7476,8 +5336,7 @@ The son spoke.
 85 Then the brahman arose, free from illness, young again,
 with his own lustre illuminating the dwelling, as it wei’e an
 
-86 ever-youthful god. Then there fell a shower of flowers, ac-
-companied with the strains of heavenly instruments and
+86 ever-youthful god. Then there fell a shower of flowers, accompanied with the strains of heavenly instruments and
 other musical instruments. And the gods were delighted and
 said to Anasuya.
 
@@ -7505,9 +5364,6 @@ lady.
 
 
 THE BIRTH OF BATTATRITA.
-
-
-99
 
 
 Cahto XVII.
@@ -7563,9 +5419,6 @@ Siva was bora as Durvasas, through the boon granted by the
 12 gods. The praja-pa-ti Soma, ever causing creepei’s and laedi-
 
 
-100
-
-
 CA2JTO XYll.
 
 
@@ -7574,8 +5427,7 @@ cinal plants and mankind to grow with his cool rays, abides
 13 in STarga. Dattatreya protects offspring from destruction
 by the malignant Daityas : and Tishnn^s portion must also be
 
-14 knowii as the benefactor of the docile. Dnrvasas, the ador-
-able birthless god, destroys the seorner ; assuming a formidable
+14 knowii as the benefactor of the docile. Dnrvasas, the adorable birthless god, destroys the seorner ; assuming a formidable
 
 15 body, he is haughty in look mind and speech. The adorable
 praja-pati, the son of Atri again created the Soma plant.^
@@ -7609,8 +5461,7 @@ though he was engrossed in drinking spiidtuous liquor in
 company with his wife, and though he was rendered impulse
 by addiction to singing, musical instalments and such like,
 
-24 and also by intercourse with his wife ; deeming that the higli-
-souled Muni when with her was detached from religious rites.
+24 and also by intercourse with his wife ; deeming that the higlisouled Muni when with her was detached from religious rites.
 The lord of yogis, although drinking spiiituous. liquor, incurred
 
 25 no fault. Dwelling like Matarisvan within the abodes of
@@ -7654,8 +5505,7 @@ The son spoke.
 1 Once upon a time Ai^juna, the son of Krita-viiya, when
 Krita-virya had departed to heaven, being invited by the
 
-2 ministers and family priest and by the citizens to be in-
-angnrated as king, spoke thus —
+2 ministers and family priest and by the citizens to be inangnrated as king, spoke thus —
 
 “ It is not I will wield regal sway, which surpasses hell, O
 
@@ -7690,12 +5540,10 @@ prosperity ; I will not make myself a participator in sin.”
 
 The son spoke.
 
-10 Understanding that his resolve, standing among the minis-
-ters spoke the leading Muni, Grarga by name, mighty in
+10 Understanding that his resolve, standing among the ministers spoke the leading Muni, Grarga by name, mighty in
 intellect, advanced in age.
 
-11 “ If thus thou desirest to act, idghtly to govern the king-
-dom, then hearken to my speech and act, O royal scion !
+11 “ If thus thou desirest to act, idghtly to govern the kingdom, then hearken to my speech and act, O royal scion !
 
 12 Propitiate, 0 king, Dattatreya, the illustrious, who made
 his abode once in a bucket,, who protects the three worlds,
@@ -7724,8 +5572,7 @@ heavenly year elapsed. Then the gods were worsted, the
 18 Daityas were victorious. The gods led hy Vipra-cTtti were
 vanquished hy the Danavas : they strove to flee, being dis-
 
-19 pirited at the victory of their enemies. Desirous of compass-
-ing the slaughter of the army of Daityas, accompanied by the
+19 pirited at the victory of their enemies. Desirous of compassing the slaughter of the army of Daityas, accompanied by the
 Balikhilyas* and Eishis, they approached Vrihaspati and
 
 20 took counsel. Vrihaspati said, ‘ Deign to gratify with your
@@ -7741,14 +5588,10 @@ thttiEb.
 smtm.
 
 
-103
-
-
 joii a boon for the destruction of the Daityas ; then, O gods,
 shall ye and your friends slay the Daityas and Danavas.*
 
-22 “ Thus exhox'ted the gods then went to Dattatreya’s hermi-
-tage, and they beheld the high-sonled Mnni, attended by
+22 “ Thus exhox'ted the gods then went to Dattatreya’s hermitage, and they beheld the high-sonled Mnni, attended by
 
 23 Ijakshmi, hymned by 'Gandharvas, and engi’ossed in quaffing
 spirituous liquor. Approaching they expressed in words their
@@ -7768,8 +5611,7 @@ The gods spoke.
 upon the earth the atmosphere and the third world, O tiger-
 
 27 like Muni, and our shares of the sacrifices entirely. Employ
-thou thy wit to fheir destruction and our deliverance, 0 sin-
-less one ! Through thy favour do we desii^e to regain (ihe
+thou thy wit to fheir destruction and our deliverance, 0 sinless one ! Through thy favour do we desii^e to regain (ihe
 three worlds which they now possess.’
 
 ‘‘ Dattatreya spoke.
@@ -7786,16 +5628,12 @@ entered the light of knowledge/
 
 Dattatreya spoke.
 
-30 ‘ True is this, 0 gods ! all learning have I, who am impar-
-tial in view : but by reason of association with this woman I
+30 ‘ True is this, 0 gods ! all learning have I, who am impartial in view : but by reason of association with this woman I
 
 31 am now impure after eating. For commerce with w^omen
 when continually pursued tends to depravity.*
 
 Thus addressed, the gods then spoke again.
-
-
-104
 
 
 CANTO X¥Tn.
@@ -7825,8 +5663,7 @@ compliance with that his advice, advanced with fury against
 Daityas were quickly demomlised by fear; they fled in a
 
 38 body, seeking protiecfion, to Dattatreya’s hermitage. Even
-there the Daityas penetrated, driving forward the heaven-
-dwellers, and saw the high-souled mighty Dattdtreya ; and
+there the Daityas penetrated, driving forward the heavendwellers, and saw the high-souled mighty Dattdtreya ; and
 
 39 seated at his left side his wife, Lakshmi, loved by all the
 worlds, beauteous, her shape most graceful, her countenance
@@ -7848,8 +5685,7 @@ in the three worlds might be our prize, successful then should
 therefore, let us all, foes of the gods, raise her up, place her
 in the palki, and bear her to our abode.’
 
-45 ‘‘ Thereupon possessed with longing and thus mutually ex-
-horted, afflicted by love, the united. Daityas and Danavas
+45 ‘‘ Thereupon possessed with longing and thus mutually exhorted, afflicted by love, the united. Daityas and Danavas
 
 46 raised up his virtuous wife, mounted her in the palki, and
 
@@ -7857,9 +5693,6 @@ horted, afflicted by love, the united. Daityas and Danavas
 
 
 Gama's sp'BBch.
-
-
-105
 
 
 placing the palki on their heads set off for their own homes *
@@ -7907,18 +5740,10 @@ weapons and their heads being assailed by Lakshmi, perished —
 56 thus have we heard. And Lakshmi, flying up, reached the
 gi*eat Muni Dattatreja, being hymned by all the gods who
 
-57 were filled mth joy at the slaughter of the Daityas. There-
-upon the gods, prostrating themselves before the wise Datfca-
-treya, gained as before the uppermost heaven, being freed from
+57 were filled mth joy at the slaughter of the Daityas. Thereupon the gods, prostrating themselves before the wise Datfcatreya, gained as before the uppermost heaven, being freed from
 
 58 affliction. Likewise do thou also, O king 1 if thou wishest to
-obtain matchless sovereignty according to thy desire, straight-
-way propitiata him."
-
-14
-
-
-106
+obtain matchless sovereignty according to thy desire, straightway propitiata him."
 
 
 CA^JTO XIX
@@ -7936,12 +5761,10 @@ expounded — The story of Alarha is then begun*
 
 The son spoke-
 
-Having heard the Rishi speak thus, king Arjuna, Krita-
-viiya’s son, proceeded to Dattatreya’s hei-mitage and wor-
+Having heard the Rishi speak thus, king Arjuna, Kritaviiya’s son, proceeded to Dattatreya’s hei-mitage and wor-
 
 2 shipped him with faith ; by kneading his feet and other
-services, and by offering honey and other delicacies, and by bring-
-ing garlands, sandal, and other perfumes, -water, fruit &c. ;
+services, and by offering honey and other delicacies, and by bringing garlands, sandal, and other perfumes, -water, fruit &c. ;
 
 3 also with preparations of rice, and by removing the Rishi’s
 fragments of food. Pleased thereivith the Muni addressed the
@@ -7949,15 +5772,13 @@ fragments of food. Pleased thereivith the Muni addressed the
 4 king in the very same way, as he had formerly addressed the
 gods.
 
-“ Ever indeed am I an object of reproach for my enjoy-
-ment of spirituous liquor and other bodily pleasures, and an
+“ Ever indeed am I an object of reproach for my enjoyment of spirituous liquor and other bodily pleasures, and an
 object of reproach for this enjoyment in that I have my
 
 6 wife here by my side."** Deign thou not thus to obstruct me
 who am unable to benefit thee ; 0 conciliate one who is able.”*
 
-8 Thus the Muni addressed him j and Arjuna Kartavirya, re-
-calling that speech of Garga’s, replied then, bowing before him-
+8 Thus the Muni addressed him j and Arjuna Kartavirya, recalling that speech of Garga’s, replied then, bowing before him-
 
 Arjuna spoke.
 
@@ -7965,8 +5786,7 @@ Arjuna spoke.
 illusory devices. Sinless thou art, and this brahman lady is
 the path of all existence.**
 
-6 Thus invoked, the benign brahman answered him, the illus-
-trious Kartavirya, the subduer of the earth.
+6 Thus invoked, the benign brahman answered him, the illustrious Kartavirya, the subduer of the earth.
 
 9 “ Choose thou a boon ; since thou hast declared my secret,
 I have felt thereby intense gratification in thee to-day, 0
@@ -7978,9 +5798,6 @@ garlands and such like, with offerings also of meat and strong
 
 
 ARJUNA AND DATTATEKYA.
-
-
-107
 
 
 drink, and'witli sweetmeats accompanied with clarified hniter,
@@ -8038,26 +5855,20 @@ order had been issued, there was no man that bore arms in
 * For Hiikayak read tithayahy days ?
 
 
-108
-
-
 CANTO XX.
 
 
 24 that country, except that valiant tiger- warrior. He it was
-who was the guardian of the villages, and he the guar-
-dian of the cattle. He it was who was the guardian of the
+who was the guardian of the villages, and he the guardian of the cattle. He it was who was the guardian of the
 
 25 fields and the protector of the dvijas. He also was the
-guardian of ascetics, and the guardian of caravans ; the guar-
-dian of those who were sinking amid the fears of rohhers,
+guardian of ascetics, and the guardian of caravans ; the guardian of those who were sinking amid the fears of rohhers,
 
 26 rogues, fire, arms and so forth, as in the sea, and of those who
 were involved in other calamities ; he was the destroyer of
 hostile warriors. He it was who was ever remembered as
 
-27 the upholder of mankind. And there was exemption from im-
-poverishment, while he ruled as king. He offered many
+27 the upholder of mankind. And there was exemption from impoverishment, while he ruled as king. He offered many
 
 28 sacrifices, complete with gifts and fees. He also practised
 austerities. He performed exploits in battles.
@@ -8081,8 +5892,7 @@ is Yishnu, the guru of all things movable and immov-
 33 able, endless, high-souled. In the Puranas are narrated the
 manifestations of the bearer of the bow S'arnga, who is endless,
 
-34 inscrutable, the bearer of the conch discus and club. What-
-ever man ponders on his highest form, happy is he, and he
+34 inscrutable, the bearer of the conch discus and club. Whatever man ponders on his highest form, happy is he, and he
 
 35 may soon pass over mundane existence. ‘ Ho 1 I am ever in
 truth easy of reach hy faith even to Yaishnavas,’ — ^how is it
@@ -8101,12 +5911,8 @@ and without end, preserves the stability of nature,
 THE STORY OP KUVALAyX^VA.
 
 
-109
-
-
 And tliiis lias been related tbe union between tbe high-sonled
-RajarsM Alarka, wbo was faithful to bis father, and Datta-
-treya.
+RajarsM Alarka, wbo was faithful to bis father, and Dattatreya.
 
 
 Canto XX.
@@ -8138,8 +5944,7 @@ the whole S'astra literature ; at other times engrossed* with
 himself both wdth gambling pastimes, and in the discipline of
 all kinds of weapons : he wa^ intent on the study of elephants,
 
-6 horses, and chariots suitable for war.f The king’s son en-
-joyed himself in company with the young princes, being
+6 horses, and chariots suitable for war.f The king’s son enjoyed himself in company with the young princes, being
 
 7 absorbed in pleasui’e by day and night alike. But while they
 sported there, numbers of young brahmans, young princes
@@ -8156,16 +5961,14 @@ J A Haga prince.
 
 liO CAKTO XX.
 
-9 visited the surface of the earth from the JTaga- world. Dis-
-guised in form as brahmans, youthful, handsome, those two,
+9 visited the surface of the earth from the JTaga- world. Disguised in form as brahmans, youthful, handsome, those two,
 in company with the young princes and Ihe other dvijas,
 
 10 remained there linked in friendship, occupied with various
 amusements. And all those young princes and the young
 
 11 brahmans and vaisyas, and those two young Haga princes
-engaged in bathing, kneading the limbs &c., adorned them-
-selves with garments and perfumes, and occupied themselves
+engaged in bathing, kneading the limbs &c., adorned themselves with garments and perfumes, and occupied themselves
 
 12 with the business of kings.* As day after day went by, the
 two young hTagas enjoyed themselves, being bound by affection
@@ -8177,22 +5980,18 @@ pleasure from those two, by various amusements, and by jests,
 bathed, nor di’ank sweet drinks ; he did not disport himself,
 nor take up his weapons to improve his accomplishments.
 
-15 And those two, spending the night in Rasatala,t mainly oc-
-cupied in sighing in the absence of that high-souled prmce,
+15 And those two, spending the night in Rasatala,t mainly occupied in sighing in the absence of that high-souled prmce,
 visited him day after day.
 
 16 ‘‘ With whom do ye both, my sons, find supreme affection
 in the mortal- world ?” thus inquired their father of both
 
 17 those young Fagas. “ Whilst I have seen you both many dayvS
-here in Pataia, I ever behold you both with kindly counte-
-nances by day and night.”
+here in Pataia, I ever behold you both with kindly countenances by day and night.”
 
 Jada spoke.
 
-18 Thus questioned by their father himself, the two illustri-
-ous sons of the Naga king falling prostrate, with hands reve-
-rently joined, replied.
+18 Thus questioned by their father himself, the two illustrious sons of the Naga king falling prostrate, with hands reverently joined, replied.
 
 The sons spoke.
 
@@ -8212,9 +6011,6 @@ f The lower world.
 
 
 THE STORY OF KUVALAYASVA,
-
-
-111
 
 
 being ravisbed by attendance on bim, affection for bim and
@@ -8243,8 +6039,7 @@ benefactor : he has done something to satisfy your mind, my
 27 children. Happy is he ! The life of each high-born one lias
 been tvell lived, when petitioners to him turn not away, and the
 
-28 petition of his friends is not powerless. In my house what-
-ever gold and other metals^ jewels, animals for riding, and seats
+28 petition of his friends is not powerless. In my house whatever gold and other metals^ jewels, animals for riding, and seats
 there are, and whatever else imparts delight ; that should be
 
 29 given him without hesitation. Pie on the life of that man,
@@ -8285,8 +6080,7 @@ The father spoke.
 35 Revertheless I wish to hear what was his highest deed,
 whether it be impossible or possible of accomplishment. Is
 
-36 anything impossible to the wise ? Men who have determi-
-nation attain to the position of the gods, lordship over the
+36 anything impossible to the wise ? Men who have determination attain to the position of the gods, lordship over the
 immortals, and the position of being worshipped by them, or
 
 37 any other coveted arduous thing. There is nothing unknown,
@@ -8337,14 +6131,10 @@ Mr yam ? for fhardd read ihardn ?
 KUTALATASVA GUAEDS THE BEAHMAN gIlATA.
 
 
-113
-
-
 47 dered, 0 king ? But one daj 0 king, kaving perceived tke
 demon, I keaved a sigh, being distressed by him, and exced-
 
-48 ingly depressed in mind. Thereupon this horse fell forth-
-with from the sky itself, and a voice from no corporeal being
+48 ingly depressed in mind. Thereupon this horse fell forthwith from the sky itself, and a voice from no corporeal being
 
 49 exclaimed — hearken to it, 0 lord of men 1 — Fnwearied the
 noble steed can traverse the whole circle of the earth with
@@ -8359,8 +6149,7 @@ earth unwearied, he will become famed in the world under the
 52 name Knvalaya. And the base sinful Danava, who day and
 night torments thee, him shall slay, 0 brahman, the king named
 
-53 Shtru-jit mounted on this horse ; and his son Rita-dhvaja get-
-ting this jewel of a steed shall attain to fame by means of him.”
+53 Shtru-jit mounted on this horse ; and his son Rita-dhvaja getting this jewel of a steed shall attain to fame by means of him.”
 
 54 I now" have met with thee : do thou, O king, ward o:E that
 obstructer of fmj austerities, for a king is interested therein.
@@ -8380,8 +6169,7 @@ Kumlayaha^s marriage with Maddlasd.
 
 ^ita-dhvaja., called also Kuvalaydsva, wounds and pursues the
 Daitya FdUla^hetu. — In the pursuit he falls through % chamti into
-Fdtdla and reaches the city Purandara-pura — There he 'tneets Madd-
-lasd^ (daughter of the Gandharva Mng VisvdvamT) whom Pdtalorhetu
+Fdtdla and reaches the city Purandara-pura — There he 'tneets Maddlasd^ (daughter of the Gandharva Mng VisvdvamT) whom Pdtalorhetu
 had carried off — Me marries her with the help of her companion
 Kundald^ who then admonishes them on the blessings of marriage —
 Me hills the Baity as who o^ose him, and brings her home to his father,
@@ -8391,14 +6179,6 @@ The father spoke,
 
 “ Relate my sons what the king’s son did after he departed
 in company with Galava ; your story is a surprising one.”
-
-15
-
-
-1
-
-
-114
 
 
 -CANTO XXL
@@ -8412,8 +6192,7 @@ subdued every obstacle to the reciters of the Yeda*
 3 “ The base Danava, infected with frenzy and arrogance, did
 not know the prince Kuvalayasva who was dwelling in Giiia-
 
-4 va’s hermitage. Then assuming the form of a hog, lie ap-
-proached to outrage the brahman Galava, who wtis, busied in
+4 va’s hermitage. Then assuming the form of a hog, lie approached to outrage the brahman Galava, who wtis, busied in
 
 5 the evening service. On an out-cry by the Maui’s disciples,
 the king’s son hastily mounting the horse pursued the boar,
@@ -8462,11 +6241,7 @@ and full-breasted, scarlet-lipped,* slender-bodied, her eyes
 kuyalatasta meets with madalasa.
 
 
-115
-
-
-18 like tlie blue water-lily, ber nails red- tipped, black-complexion-
-ed, sott-shmned, lier bands and feet copper-coloured, ber
+18 like tlie blue water-lily, ber nails red- tipped, black-complexioned, sott-shmned, lier bands and feet copper-coloured, ber
 tliigbs round and tapering, ber teeth beautiful, ber locks
 dark-blue tine and strong*
 
@@ -8522,8 +6297,6 @@ It is a climber, common ©Yerywhere (Hooker, vol. II, p. 621 j Boxb. p. 696).
 CAKTO XXL
 
 
-116
-
 deserve tlie lovely-limlbed maiden^ any more tlian a sudra
 
 32 deserves to tear tte Yeda. And wten tte day was over,
@@ -8550,8 +6323,7 @@ been smitten by some one.
 38 ‘ And this lady fell into a swoon : hear what is the 'cause.
 The maiden is full of affection for thee even at first sight, O
 
-39 pride-inspirer 1 who resemhlest the sons of the Devas, distin-
-guish^ed for gracious speech and other virtues. And she is
+39 pride-inspirer 1 who resemhlest the sons of the Devas, distinguish^ed for gracious speech and other virtues. And she is
 allotted as wife to the other, who has wounded the Danava.
 
 40 For this reason she fell imo the deep swoon, and all her life
@@ -8580,9 +6352,6 @@ I have spoken truthfully.’
 KUTALAYi^VA MABBIlg MADALAsX.
 
 
-117
-
-
 “ Knvalaya^Ta spoke.
 
 46 ^ Wlia^t tkoii askest me, 0 lady skilled in koly law, wko I
@@ -8604,12 +6373,9 @@ play into a chasm, and my horse also. Thus mounted on
 51 horseback, wandering alone in darkness, I met with light,
 and saw thee lady ; and when questioned, thou gavest me no
 
-52 answer whatever. And following thee I entered this splen-
-did palace. Thus I have related this truly. E"© Deva am I,
+52 answer whatever. And following thee I entered this splendid palace. Thus I have related this truly. E"© Deva am I,
 
-53 or Danava, nor Mga, nor G-andharva or Kinnara, 0 sweet-
-smiling one . The Devas and the rest are all objects of venera-
-tion to me, 0 Kundala. I am a man ; thou must not be afi^aid
+53 or Danava, nor Mga, nor G-andharva or Kinnara, 0 sweetsmiling one . The Devas and the rest are all objects of veneration to me, 0 Kundala. I am a man ; thou must not be afi^aid
 of this at any time.*
 
 The sons spoke.
@@ -8636,9 +6402,6 @@ how shall Surabhi, the mother of cattle, speak falsely?
 59 Therefore happy verily is this maiden and blessed with good
 
 
-118
-
-
 CANTO XSl,
 
 
@@ -8662,12 +6425,10 @@ hermitage-abode for the purpose of practising ansterities.
 
 ‘‘ And the companionf said to the maiden ‘ My wishes are
 
-64 fulfilled, 0 lovely-faced one. Now that I have seen thee, re-
-splendent in beauty, wedded to this husband^ I will perform
+64 fulfilled, 0 lovely-faced one. Now that I have seen thee, resplendent in beauty, wedded to this husband^ I will perform
 
 65 matchless austerities, with a mind at ease ; and, having my
-sins washed away in the waters of the sacred pilgrimage-
-places, I shall not again become such as I am wow.”
+sins washed away in the waters of the sacred pilgrimageplaces, I shall not again become such as I am wow.”
 
 And then bending courteously she addressed the king’s
 son, being desirous to go, yet shaken in her speech through
@@ -8687,8 +6448,7 @@ love towards this slender- waisted one : I will remind thee^ O
 his wife. A wife is her husband’s help-meet unto the com-
 
 ^ For tumbiLrum read tumborvm, “ whose thighs are Hire the ttmiba,” a
-kind ot long gourd) Lagenaria vulgaris (Oucurhita lagenaria, Boxb.) It ap-
-pears to be a wild variety. The common plant is the Sanskrit aMm, the
+kind ot long gourd) Lagenaria vulgaris (Oucurhita lagenaria, Boxb.) It appears to be a wild variety. The common plant is the Sanskrit aMm, the
 modern hadv^ or Idu, It bears a large, thick, membranous or almost woody
 fruit, often foot long, nsnally bottle- or dumb-bell-sbaped (Hooker, voL II,
 p. 61S 5 Eoxb., p. 700).
@@ -8754,9 +6514,6 @@ S^atru- jit’s son, excelling in valour, split their weapons with
 * For vauarshur read vavriskar ?
 
 
-120
-
-
 CANTO XSI.
 
 
@@ -8775,15 +6532,12 @@ on them,
 87 “ Then the prince, seated on horseback, after slaying the
 chiefs of the Asni’as, came to his father’s city with that pearl
 
-88 of women ; and prostrating himself he recounted every-
-thing to his father, both the visit to Patala, and the meeting
+88 of women ; and prostrating himself he recounted everything to his father, both the visit to Patala, and the meeting
 
-89 with Kundala, and the meeting with Madalasa, and the con-
-flict with the Danavas, and their slaughter with the weapon,
+89 with Kundala, and the meeting with Madalasa, and the conflict with the Danavas, and their slaughter with the weapon,
 and the return.
 
-90 “ His father, having thus heard the exploits of his graceful-
-minded was both filled with affection and embracing his
+90 “ His father, having thus heard the exploits of his gracefulminded was both filled with affection and embracing his
 
 91 son spoke thus — ‘I have been delivered by thee, O son,
 worthy, magnanimous, who hast saved from their fears the
@@ -8797,8 +6551,7 @@ not diminish the glory, wealth or heroism which his father
 94 has acquired, is known as an ordinary man. But whoever
 strikes out by his own might fresh heroism still, exceeding his
 
-95 father’s heroism, the wise call him great among men. Who-
-ever lessens the wealth and heroism and glory acquired by
+95 father’s heroism, the wise call him great among men. Whoever lessens the wealth and heroism and glory acquired by
 
 96 his father, the wise call him base among men. I then had
 accomplished even as thou hast the brahman’s deliverance.
@@ -8815,9 +6568,6 @@ righteous men. That man does not, I hold, gain the aflec-
 
 
 kuyaliyMya's happy life.
-
-
-121
 
 
 dom, liberality and valour. Fie on the birth of him who
@@ -8868,10 +6618,6 @@ for the brahmans’ freedom from molestation must always be
 
 S sought after. There are evil-behaved Danavas in hundreds,
 born in wickedness j do thou so act that the Mimis may ex-
-16
-
-
-122
 
 
 CANTO xxir.
@@ -8882,11 +6628,9 @@ he was directed by his father. After travci'niiig the whole
 
 5 eaniih, the king’s son did obeisance to his father’s feet iu
 the forenoon, as each day came round ; and then during the
-rest of the day he enjoyed himself with her, the slender-
-waisted one.
+rest of the day he enjoyed himself with her, the slenderwaisted one.
 
-6 One day, however, while moving about, he saw Patala-
-ketn’s younger brother Tala-ketu, who had fixed his hermitage
+6 One day, however, while moving about, he saw Patalaketn’s younger brother Tala-ketu, who had fixed his hermitage
 
 7 on the bank of the Yammiia. The wily Danava had assumed a
 Muni’s shape. Bearing the previous enmity in mind, he
@@ -8933,9 +6677,6 @@ to my hermitage, fighting with a certain wicked Daitya
 madalasa’s death through deceit.
 
 
-123
-
-
 18 and striking down tlie brahmans’ foes in the conflict with all
 Ms might, was pierced in the breast with a spear by the
 
@@ -8948,8 +6689,7 @@ uttered distressed neighings, with tearful eyes, was led off
 21 by that cruel Danava. This beheld I, malicious, evil-doer.
 Whatever should forthwith be done in this matter^ let it be
 
-22 done without delay. And take this neck-omament as a con-
-solation to your hearts, for we ascetics may not have anything
+22 done without delay. And take this neck-omament as a consolation to your hearts, for we ascetics may not have anything
 to do with gold.’
 
 The sons spoke.
@@ -8957,8 +6697,7 @@ The sons spoke.
 23 ‘‘ Having so spoken, he left it on the ground and departed
 as he had come. And those people afflicted with grief, fell
 
-24 down, ill with fainting. Immediately recovering conscious-
-ness all those royal handmaids, and the queens and the king
+24 down, ill with fainting. Immediately recovering consciousness all those royal handmaids, and the queens and the king
 
 25 lamented sorely distressed. But Madalasa seeing that his
 neck-ornament, and hearing that her husband was slain,
@@ -8973,8 +6712,7 @@ answ'er to all the people, having recovered his composure
 28 after due reflection. ‘ Ye should not weep, nor I, I perceive,
 when one considers the fleetingness of even all relations.
 
-29 Why do I bewail my son ? Why do I bewail my daughter-in-
-law ? I think after due reflection, that neither should be
+29 Why do I bewail my son ? Why do I bewail my daughter-inlaw ? I think after due reflection, that neither should be
 
 30 bewailed, since events happen as they are fated. Why
 should my son, wdio in obedience to me has met death when
@@ -8991,18 +6729,13 @@ should be bewailed ? For women have no deity besides a hus-
 relatives, and other compassionate persons, if she were
 
 
-124
-
-
 CAJTTO XXII.
 
 
 34 separated from her husband. But this noble lady^ who on
-hearing of the death of her husband has immediately follow-
-ed her husband, should not for this reason be bewailed by
+hearing of the death of her husband has immediately followed her husband, should not for this reason be bewailed by
 
-35 the wise. Those women should be bewailed, who are sepa-
-rated from their husbands ; those should not be bewailed who
+35 the wise. Those women should be bewailed, who are separated from their husbands ; those should not be bewailed who
 have died with them : but this grateful wife has not expe-
 
 36 rienced separation from her husband. Verily what woman
@@ -9036,8 +6769,7 @@ lament, — their mother has brought forth children in vain.
 43 Those who, while fearlessly fighting in battle to guard cattle
 and dvijas, perish crushed with arrows, they indeed are
 
-44 really men in the world. He who turns not his back on sup-
-pliants, friends, and enemies, in him his father has a real
+44 really men in the world. He who turns not his back on suppliants, friends, and enemies, in him his father has a real
 
 45 son, and in him his mother has given birth to a hero. A
 woman’s pain of conception reacties, I think, its success at
@@ -9049,13 +6781,7 @@ The sons spoke.
 “ Then the king bestowed the funeral obsequies on his son
 
 
-46
-
-
 kuyalayasva’s retubn home.
-
-
-125
 
 
 and daughter: and having gone forth bathed and offered
@@ -9064,8 +6790,7 @@ the water to his son.
 47 ‘‘And T^la-ketn also, having issued from the Yamuna's
 water, spoke this honied speech respectfully to the king's
 
-48 son. ‘ Depart, O prince ; thou hast caused me to be success-
-ful, While thou hast remained stationary here, the long
+48 son. ‘ Depart, O prince ; thou hast caused me to be successful, While thou hast remained stationary here, the long
 
 49 wished-for business, and the sacrificial acts to Yaruna the
 high-souled lord of the ocean, ail that I have completed, as
@@ -9109,21 +6834,13 @@ Surrounded before and behind by the citizens who were
 crying out thus, Ms joy forthwith aroused, he entered his
 
 
-5
-
-
-126
-
-
 CANTO XX nr.
 
 
-6 father’s pal?ice. And his father and mother and other rela-
-tions embraced him, and then invoked on him auspicious bless-
+6 father’s pal?ice. And his father and mother and other relations embraced him, and then invoked on him auspicious bless-
 
 7 ings, saying “ Long mayest thou live !” Thei’eiipon having
-done obeisance, surprised at what this might msan^ he ques-
-tioned his father ; and he duly explained it to him.
+done obeisance, surprised at what this might msan^ he questioned his father ; and he duly explained it to him.
 
 8 On hearing that his wife Madalasa, the darling of his heart,
 was dead, and seeing his parents before Mm, he fell into the
@@ -9151,8 +6868,7 @@ grief, downcast, ungarlanded, uncieansed, I shall then become
 15 an object of contumely to my adversaries. I must cut off my
 enemies, and obey the king, my father. And how then can T
 
-16 resign my life which is dependant on him ? But here, I con-
-sider, I must renounce pleasure with woman, and yet that
+16 resign my life which is dependant on him ? But here, I consider, I must renounce pleasure with woman, and yet that
 renunciation does not tend to benefit . the slender-limhed one.
 
 17 Hevertheiess in every way I must practise harmlessness, which
@@ -9162,8 +6878,7 @@ on her account who resigned her life on mine.”
 The sons spoke.
 
 18 Having thus resolved, Rita-dhvaja then performed the
-ceremony of ofiering water, and immediately afterwards per-
-formed the obsequies ; and he spoke again.
+ceremony of ofiering water, and immediately afterwards performed the obsequies ; and he spoke again.
 
 Rita-dhvaja spoke.
 
@@ -9176,9 +6891,6 @@ that fawn-eyed daughter of the Gandharva, I will nof: love
 IcrVALAYlsVA’s WIDOWED LIFE.
 
 
-127
-
-
 2 1 a-nj i'iVOBiac — so liave I spoken in truth. Having given np
 ’'liai wife* who observed true religion, whose gait was like the
 eierliiUit’s, 1 ^vii! not assent to any woman — this have I declared
@@ -9189,8 +6901,7 @@ The sons spoke.
 
 22 And having renounced, dear father, all the delights of
 woman, bereii: of her, he continued to sport in company with
-his peers, his equals in age, in the perfection of his good dis-
-position. This was liis supreme deed, dear father. Who is
+his peers, his equals in age, in the perfection of his good disposition. This was liis supreme deed, dear father. Who is
 able to do that which is exceedingl^r difBcuit of accomplishment
 by tlie gods, how much more so by others ?
 
@@ -9205,17 +6916,14 @@ The Kaga king A^atara spoke.
 25 “ If men, deeming a thing impossible, will put forth no effoit
 
 26 in the deed, from the loss of exertion there ensues loss. Let
-a man undertake a deed, without squandering his own man-
-hood ; the accomplishment of a deed depends on fate and on
+a man undertake a deed, without squandering his own manhood ; the accomplishment of a deed depends on fate and on
 
-27 manhood. Therefore I will so strive, my sons, hence-
-forth — let me so practise austerities diligently, — that this
+27 manhood. Therefore I will so strive, my sons, henceforth — let me so practise austerities diligently, — that this
 may in time be accomplished.”
 
 Jada spoke.
 
-28 Having spoken thus, the Mga king went to Piakshavata-
-rana,* the place of pilgrimage on the Himavat mountain, and
+28 Having spoken thus, the Mga king went to Piakshavatarana,* the place of pilgrimage on the Himavat mountain, and
 
 29 practised most arduous austerities. And then he praised the
 goddess Sarasvati there with his invocations, fixing his mind
@@ -9224,8 +6932,7 @@ ablutions.t
 
 Asvatara spoke.
 
-30 “ Desirous of propitiating the resplendent goddess Jagad-
-dhatri Sarasvati, who is sprung from Brahma, I will praise
+30 “ Desirous of propitiating the resplendent goddess Jagaddhatri Sarasvati, who is sprung from Brahma, I will praise
 
 31 her, bowing my head before her. Good and bad, O goddess,
 
@@ -9233,14 +6940,10 @@ dhatri Sarasvati, who is sprung from Brahma, I will praise
 t At morniEg, noon, and evening.
 
 
-128
-
-
 CANTO XXIII.
 
 
-Whatever there he, the cause that confers alike final enancipa-
-tion and riches, — all that, conjoint and separate, resides in
+Whatever there he, the cause that confers alike final enancipation and riches, — all that, conjoint and separate, resides in
 
 32 thee, 0 goddess. Thou, O goddess, art the imperishable and
 the supreme, wherein everything is comprised ; thou art the
@@ -9264,15 +6967,13 @@ the three sounds,** the three Vedas, and the three asramas,tt
 night and the rest. This trinity of standards is thy form, O
 
 38 goddess Sarasvati ! The seven soma-samstha sacrifices, and
-the seven havih-sainstha sacrifices, and the seven paka-
-saipsthaJJ sacrifices, which are deemed the earliest by those
+the seven havih-sainstha sacrifices, and the seven pakasaipsthaJJ sacrifices, which are deemed the earliest by those
 
 ^ M^tra ; short, long, and prolated.
 
 t Loka j earth, atmosphere and the sky.
 
-t Yidya j metaphysics (with logic), the art of government, and the prac-
-tical arts (?)
+t Yidya j metaphysics (with logic), the art of government, and the practical arts (?)
 
 § Pavaka j garhapatya, khavamya, and dakshirta,
 
@@ -9286,10 +6987,7 @@ Sabda.
 f f A^srama ; those of the griha-stha, vana-prastha, and bhikshu.
 
 JJ The names of these sacrifices are thus given me by the Pandit of the
-Bengal Asiatic Society. The Soma-samstha are (1) agai-shtoma, (2) atyangi-
-shtoma, (3) ukthya, (4) shodaAin, (5) atiratra, (6) vAjaheya, and (7) aptor-
-yama. The havih-samstha are (1) agayadheya, (2) agai-hoti'a, (S) darsa-
-purnamasan, (4) o*aturmasyani, (5) pa4u-bandha, (6) sautra-maui, and (7)
+Bengal Asiatic Society. The Soma-samstha are (1) agai-shtoma, (2) atyangishtoma, (3) ukthya, (4) shodaAin, (5) atiratra, (6) vAjaheya, and (7) aptoryama. The havih-samstha are (1) agayadheya, (2) agai-hoti'a, (S) darsapurnamasan, (4) o*aturmasyani, (5) pa4u-bandha, (6) sautra-maui, and (7)
 agrajai^eshti. The paka-sarastha are given differently by different authors.
 According to Apastamba they are (1) aupasana-homa, (2) vailm-deva, (3)
 parva^ta, (4) ashtaka, (5) Iraddha, (6) sarpa-ball, (7) isana-bali. According
@@ -9303,8 +7001,7 @@ who think differently, and which are as eternal as Brahma,*
 39 are performed hy those, who assert that all things are Brahma?
 with the utterance of thy name, O goddess. Undefiiiable,
 
-40 composed of half a measure, supreme, unchanging, imperish-
-able, celestial, devoid of alteration is this thy other supreme
+40 composed of half a measure, supreme, unchanging, imperishable, celestial, devoid of alteration is this thy other supreme
 
 41 form which I cannot express. And even the mouth does
 not declare it, nor the tongue, the copper-coloured lip, or
@@ -9312,9 +7009,7 @@ other organs. Even Indra, the Vasus, Brahma, the Moon and
 
 42 Sun, and Light cannot declare thy form whose dwelling is the
 universe, which has the form of the universe ; which is the
-ruler of the universe, the Supreme Ruler ; which is mention-
-ed in the discussions of the Sankliya and Vedanta philo-
-sophies, and firmly established in many S^akhas ; which is
+ruler of the universe, the Supreme Ruler ; which is mentioned in the discussions of the Sankliya and Vedanta philosophies, and firmly established in many S^akhas ; which is
 
 43 without beginning middle or end ; which is good, bad, and
 neutral ; which is but one, is many, and yet is not one ; which
@@ -9324,8 +7019,7 @@ assumes various kinds of existence ; ’which is without name,
 and resides in the three gunas ; which is one among many
 powerful, possesses the majesty of the S'aktis, and is supreme.
 
-45 Happiness and unhappiness, having the form of great happi-
-ness, appear in thee. Thus, O goddess, that which has parts
+45 Happiness and unhappiness, having the form of great happiness, appear in thee. Thus, O goddess, that which has parts
 is pervaded hy thee, and so also that which has no parts ; that
 which resides in non-duality, and that which resides in duality
 
@@ -9348,17 +7042,10 @@ sandtandk ; with this reading the first lino of the verse -would qualify devi
 seem obscure.
 
 
-17
-
-
-130
-
-
 CANTO XXIil.
 
 
-in lieaveii, on tKe surface of the earth, in the sky or else-
-where ; — ^is connected with thee by thy vow'els and by thy
+in lieaveii, on tKe surface of the earth, in the sky or elsewhere ; — ^is connected with thee by thy vow'els and by thy
 consonants ! ”
 
 Jada spoke.
@@ -9384,9 +7071,7 @@ Sarasvati spoke.
 scale, t 0 most nohle Naga ! the seven songs also,t and the
 
 * Svara, a ‘‘ musical note.” There are 7 svaras^ viz., shadja^ rishahha^
-gdndhdrai madhyarna^ panc'amaj dhaivata, and nishdda ; and they are designa-
-ted by their initial sounds, set, r«, ga, ma^ pa, dha, and ni : but the arrange-
-ment varies, and Prof. Monier- Williams in his dictionary places nishdda first,
+gdndhdrai madhyarna^ panc'amaj dhaivata, and nishdda ; and they are designated by their initial sounds, set, r«, ga, ma^ pa, dha, and ni : but the arrangement varies, and Prof. Monier- Williams in his dictionary places nishdda first,
 shadja fourth, and panorama seventh. Those 7 svaras compose the musical
 scale,” grdnia (Beng. saptak). The iuterval between each consecutive pair of
 notes is divided into several ‘lesser notes* called iruti ; thus there are 4
@@ -9395,8 +7080,7 @@ and pa, 4 between pa and dha, 3 between dha and ni, and 2 betweeen ni and
 sa in the higher octave — that is 22 s'rutis in all. The svaras correspond to
 the ‘ natural notes,’ and the s^rutis to the * sharps and fiats * in European
 music. (Baja Sourindro Mohun Tagore’s Bangita-sdra^sangraha, pp. 22 — 24,
-where the names of the Gratis are given ; and his Yictoria-giti-mala in Ben-
-gali, Introduction.)
+where the names of the Gratis are given ; and his Yictoria-giti-mala in Bengali, Introduction.)
 
 f Grama-raga. I do not find this in the dictionary. Does it mean the
 “ series of musical scales ” that can be formed by taking each of the notes
@@ -9428,8 +7112,7 @@ Kramdt svardndm saptdndm drohai c^dvarohanam
 Mdrc^hamtpue'yaie grdma~tmye tdh sapta. sapta c' a.
 
 As there are 7 scales obtained by taking any of the 7 notes as the key note,
-there would be 7 milre hands ; and this applies to the 3 octaves {grama-
-traya), so that there are 21 mure' hands altogether (8angtta-sdm-sangraha^
+there would be 7 milre hands ; and this applies to the 3 octaves {gramatraya), so that there are 21 mure' hands altogether (8angtta-sdm-sangraha^
 p. SO, where their names are given). But in his Bengali Treatise Raja
 S. M. Tagore explains murc'hand to be the “ passing uninterruptedly from one
 note (si’ara) to another, and in the process sounding all the intermediate
@@ -9453,18 +7136,13 @@ called nimna (Beng. uddrd), madkya (muMrd) and tic'c'a (tdrd).
 [| Tfia. This seems to refer to the olassification of the talas, viz., iuddha,
 sdlan.ga {or sdlanJca or sdlaga, v. r.) and san-Mnga, (Raja S. M. Tagore’s
 Sangita*B&ra-sangraha, p. 201) ; but this classification is also applied to the
-rdgas (see Ms Tictoria-giti-mila, Introduction, p. 9.). The duddha are ex-
-plained to be the famous kinds complete in themselves j the sdlanga are
+rdgas (see Ms Tictoria-giti-mila, Introduction, p. 9.). The duddha are explained to be the famous kinds complete in themselves j the sdlanga are
 those produced by a mixture of two simple ones ; and the sankirna those
 produeai by a jnixtture of many simple ones.
 
 % Lsya, musical speed-** The 3 kinds are druta, quick, madhya, mean,
 fsad vilamhita^ slow 5 the druta being twice as fast as the madhya, and the
-a twice m fast as the mlmnbita, Laya does not take account of pro-
-sodM time. TMs corresponds to ** the movement ’* in European musk*
-
-
-132
+a twice m fast as the mlmnbita, Laya does not take account of prosodM time. TMs corresponds to ** the movement ’* in European musk*
 
 
 CANTO xxin.
@@ -9490,8 +7168,7 @@ tongue of all, then disappeared at once fi’om the Haga’s view.
 begotten in both the fullest knowledge in versification,
 musical time, musical notes, <&c.
 
-59 Then the two Hagas, observing musical time on the lute-
-strings, being deshous of propitiating with seven songs the
+59 Then the two Hagas, observing musical time on the lutestrings, being deshous of propitiating with seven songs the
 
 60 lord who dwells on the peaks of Kailasa and Himalaya,
 the god Siva, who destroyed Kama’s body, both exerted
@@ -9516,8 +7193,7 @@ kinds of laya. The sroto-gata occurs apparently when the time quickens
 (accelerando) after the rest, that is when the laya changes from mlamhita to
 madhya, or from madhya to druta, or from mlamhita or madhya to dmta^
 The go-piw^dhd occurs apparently when the time becomes slower (raUerdandOy
-ritardando) after the rest, that is when the laya changes from druta to mad-
-hyat or from madhya to vilambita,
+ritardando) after the rest, that is when the laya changes from druta to madhyat or from madhya to vilambita,
 
 f Todya. I do not find this word in the dictionary. Does it mean
 ‘ drum-music ?’* '
@@ -9526,13 +7202,9 @@ f Todya. I do not find this word in the dictionary. Does it mean
 MADAIAsI is RAISIB TO LIFE AGAIH.
 
 
-133
-
-
 let Kuvala jama’s deceased wifej Madalasa, 0 god, at once
 
-65 become my daughter of the same age as when she died^ re-
-membering her life as before, endowed with the selfsame
+65 become my daughter of the same age as when she died^ remembering her life as before, endowed with the selfsame
 beauty, as a devotee, and the mother of Yoga j let her be
 bom in my house, O S^iva/’
 
@@ -9562,8 +7234,7 @@ duly ate the middle pinda ; and, while he pondered on that
 73 his desire, the slender-waisted lady was produced'’^ at once,
 dn the selfsame foiin, out of his breathing middle hood.
 
-74 And the hiaga told that to no one : he kept her, the lovely-
-teethed one, concealed by his women in the inner apartments.
+74 And the hiaga told that to no one : he kept her, the lovelyteethed one, concealed by his women in the inner apartments.
 
 75 And the two sons of the Haga king pursuing pleasure day
 by day, playedf with Rita-dhvaja like the immortals. But
@@ -9650,9 +7321,6 @@ the svastika marks. Grazing' with eyes wide open with
 KU?AlAylsTA*S YISIT- TO PATALA.
 
 
-135
-
-
 95 and smiling lie spoke Miicllj — “ Bravo ! most noble dvijas 1’^
 
 96 And they told Mm of tbeir fatkei*, tlie Naga king, Asvatara
@@ -9714,8 +7382,7 @@ iO«5
 CAKTO XXIV.
 
 
-The life of virtuoiis men, who eschew abuse, who are com-
-passionate towards those in trouble, who are the refuge of
+The life of virtuoiis men, who eschew abuse, who are compassionate towards those in trouble, who are the refuge of
 those in calamity, aboimds in good fruit.’’
 
 Jada spoke.
@@ -9815,10 +7482,6 @@ will give it thee^
 
 • Wealth as small as the point of a blade of grass,
 f Eeadj'amtra
-18
-
-
-138
 
 
 CAKTO XSIT.
@@ -9852,8 +7515,7 @@ who adhere to good works.’’
 
 A^vatara spoke.
 
-23 “ So shall thy mind he, 0 wise man, relying on righteous-
-ness ; and truly all this is the fruit of righteousness as thou
+23 “ So shall thy mind he, 0 wise man, relying on righteousness ; and truly all this is the fruit of righteousness as thou
 
 24 hast said. hTevertheless thou must certainly take, now that
 thou hast entered my house, what thou thinkest hard to be
@@ -9893,8 +7555,7 @@ or as an illusion proceeding from S'ambara ?
 
 J ada spoke.
 
-32 Then S'atrn-jit^s son prostrated himself before the high-
-souled H%a king and replied, being touched with affection
+32 Then S'atrn-jit^s son prostrated himself before the highsouled H%a king and replied, being touched with affection
 
 S3 and modesty. “ If thou showf me now, dear father, Madalasa
 even in illusion, I hold that thou hast done me the greatest
@@ -9924,8 +7585,7 @@ moment ; he moved towards her, nttering the word
 Asvatara spoke.
 
 38 ^‘It is illusion, my son! touch her not! I told thee so at
-first. The illusion quickly vanishes when touched or other-
-wise meddled
+first. The illusion quickly vanishes when touched or otherwise meddled
 
 39 Thereupon he fell to the ground, overwhelmed by a faint ;
 and exclaiming “ Ah Beloved ! ” he thought of his noble
@@ -10001,9 +7661,6 @@ earth worthily, undeiwent the law of Death. Then the citi-
 MADALASX AHD HER FIRST SON.
 
 
-141
-
-
 8 Zens inaugurated as king Iiis kigli-souled son Rita-dlivaj\?i,
 noble in conduct and action.
 
@@ -10011,9 +7668,7 @@ WMle lie duly protected his subjects as if they were his
 
 9 own sons, Madalasa gave birth to her first-born son. The
 
-10 father gave that clever child the name Vi-kranta. The re-
-tainers were pleased thereat and Madalasa laughed, Mada-
-lasa spoke to her infant boy in the way of prattle,'^' as ho lay
+10 father gave that clever child the name Vi-kranta. The retainers were pleased thereat and Madalasa laughed, Madalasa spoke to her infant boy in the way of prattle,'^' as ho lay
 on his back crying not unmelodionsly.
 
 11 “ Perfect art thon, darling, nor has thy name been given
@@ -10021,12 +7676,10 @@ thee now in mere fancy. This very body of thine is composed
 of the five elements, not indeed for this reason dost thon cry
 
 12 — wherefore then ? Nor indeed does your highness (this title
-is thy birth-right) cry because thon art a king’s son. Doubt-
-ful are the various good and bad qualities, that are connected
+is thy birth-right) cry because thon art a king’s son. Doubtful are the various good and bad qualities, that are connected
 
 13 with the elements, in all thy organs. Since in a man here the
-elements, extremely weak, increase by the means of the ele-
-ments, namely, by means of the food and water and other
+elements, extremely weak, increase by the means of the elements, namely, by means of the food and water and other
 nutriments given, of what hast thon no gain, of what hast
 
 14 thou no loss ? Do not grow infatuated at this tliy bodice
@@ -10040,8 +7693,7 @@ some other as a mother, some other as a loved wife, some otlier
 
 16 as thy own property^ some other as not thy own. A man
 beguiled in mind thinks that evils tend to assuage evils, that
-enjoyments tend to happiness. Again the unwise man, great-
-ly beguiled in mind, thinks that these very evils are plea-
+enjoyments tend to happiness. Again the unwise man, greatly beguiled in mind, thinks that these very evils are plea-
 
 17 sures. Laughter, gazing at the bones, f a pair of excessively
 bright mocking eyes, firm plump fiesh in the breasts and
@@ -10058,16 +7710,12 @@ t AstM*saiidairlana I this seems meaningless. Akshi-sandarsana seems
 BBperfinoiis.
 
 
-142
-
-
 CANTO XXYL
 
 
 18 tell ? Tlie carriage rests on the earth ; and the body is
 seated in the carriage ; and even in the bod;^ there is another
-seated, the soni. There is not the same perception of owner-
-ship in one's body, as there is this excessive infatuation with
+seated, the soni. There is not the same perception of ownership in one's body, as there is this excessive infatuation with
 itr
 
 
@@ -10091,8 +7739,7 @@ Jada spoke.
 1 Now the queen trained up that son, as he grew day by day,
 
 2 to unselfish thought by talking and other means. As he
-regularly gained strength, as he gained his father's intelli-
-gence, even so he acquired knowledge of himself through his
+regularly gained strength, as he gained his father's intelligence, even so he acquired knowledge of himself through his
 
 3 mother’s talk. So the youth, instracted by her from his
 birth, having understanding and being unselfish, did not
@@ -10117,9 +7764,6 @@ Madaiasa, well-behaved as she was, laughing slightly ; the
 
 
 BIBTF OP THESE MORE SONS.
-
-
-143
 
 
 king, some-wliat eagerly curious, spoke to her as she was
@@ -10159,11 +7803,9 @@ hladalasa spoke.
 16 “ This is my fancy, Maha-raJa; I have given it as being
 practical. So do thou listen, O king, to the meaninglessness
 
-17 of the names given by thee. Since wise men speak of a pervad-
-ing soul ; and ‘ kranti ’ is described as the course which passes
+17 of the names given by thee. Since wise men speak of a pervading soul ; and ‘ kranti ’ is described as the course which passes
 
-18 from one place to another place ; since the soul is all-per-
-vading in that it is ubiquitous and does not move about ;
+18 from one place to another place ; since the soul is all-pervading in that it is ubiquitous and does not move about ;
 therefore this appellation Vi-kranta, ‘ pa.ssed beyond,’ appears
 
 19 to me meaningless. The appellation Su-bahu, ‘ fine-armed,’
@@ -10177,14 +7819,10 @@ there is only one soul in all bodies, who then, O king, is
 regarded as its enemy in this world, or who as its friend ?
 
 
-144
-
-
 CANTO SXTI.
 
 
-22 Creatnres are crashed by creatoes ; how can the incorpo-
-real be crushed ? This fancy is meaningless because of the
+22 Creatnres are crashed by creatoes ; how can the incorporeal be crushed ? This fancy is meaningless because of the
 
 23 separate existence of anger and the other passions. If a
 bad name is fixed upon because of mutual dealing, why dost
@@ -10221,8 +7859,7 @@ likewise and guests. The gods, mankind, the pitris, departed
 32 spirits, goblins, and guhyakas, birds, worms and insects live
 upon man indeed. Therefore, 0 slender-limbed, cause my son
 
-33 to acquire thoroughly the whole duty of kshatriyas, as re-
-gards this life and life in the next world.”
+33 to acquire thoroughly the whole duty of kshatriyas, as regards this life and life in the next world.”
 
 The queen Madalasa, being thus admonished by her hus»
 
@@ -10230,8 +7867,7 @@ The queen Madalasa, being thus admonished by her hus»
 “ Thrive my son ! rejoice my husband’s mind with thy deeds,
 
 35 in order to benefit friends and destroy enemies. Happy art
-thou, my son, who alone, with never an enemy, wilt long pro-
-tect the earth : from protecting it mayest thou have fuli
+thou, my son, who alone, with never an enemy, wilt long protect the earth : from protecting it mayest thou have fuli
 enjoyment of happiness, and from righteousness thou shalt
 
 
@@ -10241,16 +7877,12 @@ enjoyment of happiness, and from righteousness thou shalt
 THE EBtJCATIOK OF ALAEKA.
 
 
-145
-
-
 36 obtain tbe fmit, immortality. Mayest tkou deligM ibe
 brabmaiis at tlie boly festivals ! Mayest tbon fulfil tbe longing
 among tby kinsmen ! Mayest tbon tbink kindly in tby heart
 for another ! Mayest tbon restrain tby mind from the wives
 
-37 of others ! Please continually the gods with nnineroiis sa-
-crifices, and the dvijas who resort with wealth. And
+37 of others ! Please continually the gods with nnineroiis sacrifices, and the dvijas who resort with wealth. And
 tbon shalt long satisfy wminen with unparalleled affections, and
 
 38 thy foes with battles, 0 hero ! As a child gladden the mind
@@ -10291,19 +7923,13 @@ Madalasa spoke.
 4 My child, a king iiiaugiirated in his kingdom must in the
 first place conciliate his subjects, without obstructing Ms own
 
-5 duty. Eschewing the seven vices, which are radically injuri-
-ous, he mi^t guard himself from Ms adversaries without de-
-li
-
-
-146
+5 duty. Eschewing the seven vices, which are radically injurious, he mi^t guard himself from Ms adversaries without deli
 
 
 GAM’D XXTII.
 
 
-6 parting from good connsel. Just as a man meets destmc-
-tion in eight ways from a fine-wheeled chariot, so nndonhtedly
+6 parting from good connsel. Just as a man meets destmction in eight ways from a fine-wheeled chariot, so nndonhtedly
 does eyen a king without departing from good counsel
 
 7 And let him recognise the bad and good ministers through
@@ -10332,15 +7958,13 @@ they are conquered, victory is Im assuredly ; vanquished by
 13 them, a king perishes. Desire, and anger, and covetousness,
 intoxication and pride, Joy also, and enemies — ^these in truth
 
-14 tend to destroy kings. Let him restrain himself, rwollect-
-ing how Pandu himself was killed when engrossed in love ;
+14 tend to destroy kings. Let him restrain himself, rwollecting how Pandu himself was killed when engrossed in love ;
 
 15 and how AnuhrMal killed his own son through anger ; and
 how Aiia§ was killed through, covetousness ; how Vena[| was
 lolled by dvijas through intoxication : how Anayus’f son Bali
 
-16 was hilled through pride; Puranjaya through joy. Recol-
-lecting how, when these were conquered, Mgh-souied Marutta
+16 was hilled through pride; Puranjaya through joy. Recollecting how, when these were conquered, Mgh-souied Marutta
 vanquished all, let a king cast out these Ms own faults.
 
 
@@ -10356,9 +7980,6 @@ ji A Bon of Anga*
 
 
 EXPOSITION OF A KINOES DUTIES.
-
-
-147
 
 
 17 king sliould learn tke ways of tlie crow, cuckoo and
@@ -10397,8 +8018,7 @@ peaceful, that is the practice he should adopt from the moon.
 should a king move among the citizens, ministers and others,
 and among Ms relatives by the agency of spies.
 
-27 The king, my child, goes to Svarga, whose mind is at-
-tracted neither by covetousness, nor by love, nor by riches, as
+27 The king, my child, goes to Svarga, whose mind is attracted neither by covetousness, nor by love, nor by riches, as
 
 28 by other motives. The king goes to Svarga, who keeps
 within their duty erring foolish men, who are swerving from
@@ -10415,16 +8035,12 @@ wllioli is blown sbont, when the |?ods bnist. ■
 f MtlumUum ; see not© § p. 29.
 
 
-148
-
-
 CANTO SXTIII-
 
 
 brings supreme felicity for Mm, is tlie maintenance among
 men of their own laws,"^ since it is disturbed by evil-minded
-31 men. By protecting creatures indeed a king reaches suc-
-cess ; he who duly protects gains by his efforts a portion of
+31 men. By protecting creatures indeed a king reaches success ; he who duly protects gains by his efforts a portion of
 righteousness.*'
 
 
@@ -10460,13 +8076,11 @@ Madalasa spoke.
 3 “A brahman’s duty is held to be threefold — ^liberality, study,
 sacrifice. There is no other fourth duty. His duty is regard-
 
-4 less of his position. Irreproachable sacrificial and educa-
-tional occupations, and the acceptance of gifts from the purified
+4 less of his position. Irreproachable sacrificial and educational occupations, and the acceptance of gifts from the purified
 — this is fitly proclaimed his threefold means of livelihood
 
 5 Liberality, study, sacrifice — ^this is declared to he the threefold
-duty of a kshatriya also : protection of the earth, and sub-
-sistence by weapons are his means of livelihood. Liberality
+duty of a kshatriya also : protection of the earth, and subsistence by weapons are his means of livelihood. Liberality
 study, sacrifice,-— that indeed is the threefold duty of a vaisya
 
 
@@ -10481,8 +8095,7 @@ k be/hman’s fobe peeiops of life.
 
 also : merciiaiidise, and the tending of cattle, and agriculture
 
-7 are Ms means of liTeliliood. Liberality, and sacrifice, obe-
-dience to dvijas, I bave declared to be the tbreefold duty of
+7 are Ms means of liTeliliood. Liberality, and sacrifice, obedience to dvijas, I bave declared to be the tbreefold duty of
 tbe Mdra also ; and bis means of livelihood are a bandicraft,
 
 8 obedience likewise to dvijas, nonrisbing tbein, buying and
@@ -10500,8 +8113,7 @@ son, be acts, speaks and eats unrestrainedly.
 11 “When duly invested with tbe sacred thread, he becomes
 brabma-c^arin in bis gum’s bouse, and he should dwell there.
 
-12 I relate bis duty; bear it of me. Private study, atten-
-dance on fire, bathing, and wandering about for alms, and
+12 I relate bis duty; bear it of me. Private study, attendance on fire, bathing, and wandering about for alms, and
 always eating that food after informing his guru and obtain-
 
 13 ing permission from him. Se should he diligent in tbe guru’s
@@ -10535,17 +8147,13 @@ from sickness, not deformed, for tbe sake of a griba-stba’s
 ]|ishi This indicates exogamy.
 
 
-150
-
-
 CAITTO XXTIII.
 
 
 please the pitris, gods and guests by faith ; and also nourish
 
 20 those who resort to him^ his dependants and children, and
-liis female relatives, and the afflicted, the blind, and the out-
-cast, the birds and the cattle,^ to the utmost of his power
+liis female relatives, and the afflicted, the blind, and the outcast, the birds and the cattle,^ to the utmost of his power
 
 21 with gifts of food. This is the duty of a griha-stha; sexual
 intercourse also at the proper season : but he should not, to
@@ -10563,12 +8171,9 @@ describe to thee the duty of the vdna-prastha : he it heard,
 his body, let the wise man enter upon the vana-prastha period,
 
 25 for the purpose of purifying his soul. In it there is the
-enjoyment of the forest, and attraction by penances, sleep-
-ing on the ground, sacred study, ceremonies for the* pitris
+enjoyment of the forest, and attraction by penances, sleeping on the ground, sacred study, ceremonies for the* pitris
 
-26 gods and guests, the homa oblation, the three daily ablu-
-tions, f the wearing matted hair and a bark dress, and dili-
-gence in meditation unceasingly, the use of forest unguents,
+26 gods and guests, the homa oblation, the three daily ablutions, f the wearing matted hair and a bark dress, and diligence in meditation unceasingly, the use of forest unguents,
 
 27 This is the vana-prastha period, for the purification of sin,
 and beneficial to the soul. But after that comes another, the
@@ -10606,15 +8211,13 @@ S2 the iieriods of life. TrutliMness, purity and harmlessiiesg,
 freedom from enTy, and patiencej mercy, generosity,* and con*
 tentment w the eighth virtue.
 
-33 These duties have been succinctly described to thee con-
-cerning the classes and the periods of life : and a should
+33 These duties have been succinctly described to thee concerning the classes and the periods of life : and a should
 
 34 stand wholly within these his own peculiar duties. And
 the man, who, overstepping his own duty named according to
 his own class or period of life, should behave otherwise,
 
-35 should be punished by the king. And the king who over-
-looks men, who after forsaking their own duties commit sin,
+35 should be punished by the king. And the king who overlooks men, who after forsaking their own duties commit sin,
 
 36 loses his pious acts. Therefore a king must vigorously
 punish all the classes that behave contrary to their special
@@ -10626,8 +8229,7 @@ Canto XXIX.
 
 Maddltisd^s Exhortation (contiifmed) ,
 
-Madahmi explains to Alarha the position of a grihorsthor-'^nd perso-
-nifies m a cow, the Vedas, pious acts, the words of the good and the
+Madahmi explains to Alarha the position of a grihorsthor-'^nd personifies m a cow, the Vedas, pious acts, the words of the good and the
 words svdM, svadhd, vmhat and hanta — She describes the halt
 f^ering, and utsarga oblation — the duties of a griha-stha to guests — the
 Srdddha — and further duties to guests — She pronounces 'a blessing on
@@ -10653,9 +8255,6 @@ nourishes all this earth and conquers the worlds he longs for.
 * For akdrpganyum read oMrpangam f
 
 
-152
-
-
 CAHTO XWS.
 
 
@@ -10666,8 +8265,7 @@ from Mm ; and gaze indeed at Ms conntenance, wondering^
 
 * Will be give ns anything ? *
 
-6 “ The support of everything is this cow, my child, which con-
-sists of the three Vedas^ in which the universe is established,
+6 “ The support of everything is this cow, my child, which consists of the three Vedas^ in which the universe is established,
 
 7 and which is believed to be the oanse of the universe. Her
 hack is the Rig-Yeda; her loins the Yajnr-Yeda; her face
@@ -10681,8 +8279,7 @@ are the four classes ; she is the sustenance of the worlds ; being
 word svadha,t and the word vashat, my son, and the other
 
 10 word hanta are herj four teats. The gods drink of the
-teat whidh is the word svaha ; and the pitris of that consist-
-ing of svadha ; and the Mnnis of that which is the word
+teat whidh is the word svaha ; and the pitris of that consisting of svadha ; and the Mnnis of that which is the word
 
 11 vashat; the gods, living things and Asuras, and mankind
 
@@ -10744,8 +8341,7 @@ rinse out their mouths.
 
 “ Having thus performed in his house the family- bali, the
 
-23 pure griha-stha should perform the utsarga oblation respect-
-fully for the nourishment of living things. And let him
+23 pure griha-stha should perform the utsarga oblation respectfully for the nourishment of living things. And let him
 scatter it on the ground both for the dogs, and low-caste men
 
 24 and the hii'ds ; for certainly this offering to the Visva-devas
@@ -10764,8 +8360,7 @@ to his power. He should not treat as a guest a friend, nor a
 27 fellow- villager, nor one who bears the name of an unknown
 family, nor one who has arrived at that time. Men call
 
-28 a brahman who has arrived, hungry, wearied, supplicat-
-ing, indigent, a guest ; he should be honoured by the wise
+28 a brahman who has arrived, hungry, wearied, supplicating, indigent, a guest ; he should be honoured by the wise
 according to their power. A learned man should not inquire
 
 29 his lineage or conduct, nor his private study ; he should esteem
@@ -10773,13 +8368,10 @@ him, whether handsome or unhandsome in appearance, as a
 praja-pati. For since h© stays but a transitory time, he is
 
 30 therefore called an a-tithi, ‘ a guest.’ When he is satisfied, the
-griha-sthais released from the debt which arises from hospita-
-lity. The guilty man, who without giving to the guest him-
+griha-sthais released from the debt which arises from hospitality. The guilty man, who without giving to the guest him-
 
 31 self eats, he incurs only sin and feeds on ordure in another life.
 The guest transferring his misdeeds to that man, from whose
-
-20
 
 
 154 CASTO nm
@@ -10792,8 +8384,7 @@ vegetables, or with just what he is himself eating.
 
 “ And he should daily perform the sraddha with rice and
 
-34 other food and with water with regard to the pitris and brah-
-mans ; or he should feed a brahman. Taking up an agra* of
+34 other food and with water with regard to the pitris and brahmans ; or he should feed a brahman. Taking up an agra* of
 
 35 the rice, he should present it to a brahman : and he should
 give an alms to wandering brahmans who ask. The alms
@@ -10810,8 +8401,7 @@ children and old men and the sick.
 
 “ If a man consumed with hunger, or another who is destitute
 
-39 wants food, he should be fed by a householder who has ade-
-quate! substance. Whatever kinsman is dispirited when he
+39 wants food, he should be fed by a householder who has adequate! substance. Whatever kinsman is dispirited when he
 
 40 reaches a prosperous kinsman, the latter gets the sin that has
 been done by the dispirited man. And the precept must b©
@@ -10845,9 +8435,6 @@ $ Bead samarthe for samartho t
 THE OCCASIOKAi HELICIOUS CEEEMOHIES.
 
 
-155
-
-
 tJm fragments on tlie ground for both dogs and low caste men
 46 and birds : for ho should certainly perform this offering to the
 Yisva-deyas evening and day. And he should not himself
@@ -10862,8 +8449,7 @@ Cakto XXX.
 Maddlma^s Exhortation (continued),
 
 Maddlasd explains to Alarka the ceremonies to he performed by a
-griha-stha^ which are of three hmds, continual^ occasional and periodi-
-cal — She explains the occasional srdddha, which is celebrated for men
+griha-stha^ which are of three hmds, continual^ occasional and periodical — She explains the occasional srdddha, which is celebrated for men
 and women.
 
 Madalasa spoke.
@@ -10897,11 +8483,7 @@ f Bead. nitya-naimiUiham for nitya-nmmiUiha,
 % Read atra for tatra ?
 
 § Hine pitps, the six parents, grandparents and great-grandpareats oh
-the paternal side, and the grandfather, great-grandfather and great-great-
-grandfather on the maternal side.
-
-
-156
+the paternal side, and the grandfather, great-grandfather and great-greatgrandfather on the maternal side.
 
 
 CAWO XXX,
@@ -10923,8 +8505,7 @@ be made in the fire without the ceremonies. And he should
 food, and sesamnm-seed and water on the right, accompanying
 them with the recollection of that personas name. ‘ May he
 
-11 be exempt from decay,’ let the celebrant sa-y, and ‘ may enjoy-
-ment be his,’ let the others delighted say, at the place where
+11 be exempt from decay,’ let the celebrant sa-y, and ‘ may enjoyment be his,’ let the others delighted say, at the place where
 the brahmans are dismissed. Men must do this every month
 
 12 for a year. Now at the expiration of the year, or whenever
@@ -10945,8 +8526,7 @@ tell thee of it, while it is being described. He should fill
 four vessels there with sesamum-seed, perfume and water,
 
 16 three for the pitris, one for the deceased person, my son.
-And he should scatter the arghya-oblation in the three ves-
-sels, and in the deceased’s vessel, f uttering the words ‘ Ye
+And he should scatter the arghya-oblation in the three vessels, and in the deceased’s vessel, f uttering the words ‘ Ye
 
 17 samana* he should perform the rest as before.
 
@@ -10962,9 +8542,6 @@ t Bead for preta^pdiramf
 
 
 THE PASVAKA ^EADDHA.
-
-
-157
 
 
 19 every year for a woman by the men, duly on the day of iier
@@ -10987,17 +8564,14 @@ occasional ^raddhas.
 “ When all these relatives are wanting, the women should
 perform the ceremony without the mantras for their husbands ;
 
-23 when they too are wanting, the king should cause the cere-
-mony to be performed by a member of his own family, and
+23 when they too are wanting, the king should cause the ceremony to be performed by a member of his own family, and
 the cremation and all the other ceremonies to be performed
 
-24 properly by men of that caste ; for the king indeed is kins-
-man to all the classes.
+24 properly by men of that caste ; for the king indeed is kinsman to all the classes.
 
 “ Thus these continual and occasional ceremonies have been
 
-25 described to thee, my child. Hear the other periodical cere-
-mony appertaining to the sraddha. The new moon is
+25 described to thee, my child. Hear the other periodical ceremony appertaining to the sraddha. The new moon is
 Just the cause there, and the time is the moon’s waning : the
 fixed time indicates the constancy of that ceremony.
 
@@ -11006,8 +8580,7 @@ Cakto XXXI.
 
 Description of the Fdrvana Sraddha.
 
-Maddlasd mentions the seven sapinda ancestors^ and the lepa-
-hhujas^ and the remoter ancestors — She explains hoio the celebrant of
+Maddlasd mentions the seven sapinda ancestors^ and the lepahhujas^ and the remoter ancestors — She explains hoio the celebrant of
 the sraddha nourishes them all — She enumerates the times for the
 sraddha, and the persons who should and who should not he invited to
 it — She describes how the sraddha should be performed.
@@ -11032,8 +8605,7 @@ among those who feed on the lepa bestowed hj the deceased^ s
 son, ceases to eat thereof and obtains the satisfaction that is
 freed from the relationship.
 
-3 The father, and grandfather, and also the great-grand-
-father — these truly must he known as the three males who
+3 The father, and grandfather, and also the great-grandfather — these truly must he known as the three males who
 
 4 are related by the pinda.f And those who are related by
 the lepa are said to be the three others reckoning upwards
@@ -11055,8 +8627,7 @@ my child.
 8 Kow truly those ancestors who have become pisac^as obtain
 satisfaction from the food that men scatter on the ground.
 
-9 Those ancestors, my son, who have become trees, receive satis-
-faction from the water that dihps from the bathing garment
+9 Those ancestors, my son, who have become trees, receive satisfaction from the water that dihps from the bathing garment
 
 10 on the ground. But the drops of water, that fall from the
 limbs on the ground, minister nourishment to those ancestors in
@@ -11066,8 +8637,7 @@ pindas are taken up, the particles of food that fall on the
 earth, — those ancestors in the family who have become animals
 
 12 gain nourishment therefrom. The children moreover in
-the family who, being capable of performing religious cere-
-monies but not having undergone the purificatory rites, are
+the family who, being capable of performing religious ceremonies but not having undergone the purificatory rites, are
 burnt on their death, they in their distress subsist on the
 
 13 scattering of the food and the water used in scouring. And
@@ -11091,8 +8661,7 @@ scattered by the celebrant and by those dvijas, ivlieiher it he
 those who duly perform the srdddhas, nourishes the other
 mieestors who have been born among the several crea-
 
-16 tions. With the sraddhas, which men perform with ili-got-
-tcn wealth, are satisfied those ancestors wha have been born as
+16 tions. With the sraddhas, which men perform with ili-gottcn wealth, are satisfied those ancestors wha have been born as
 c'aiidalas, pukka&s and other nien of degraded castes.
 
 17 ‘‘ Tims many here derive nourisluiieiit, my child, through,
@@ -11121,8 +8690,7 @@ under which one is born, one should perform the h^addba
 according to one’s inclination.
 
 2S “A distinguished brahman learned in the Teda, a yogi,
-one who knows the Veda, one who has mastered the Jyesh-
-tha-saman, one who has thrice kindled the .fire Hac^keta, one
+one who knows the Veda, one who has mastered the Jyeshtha-saman, one who has thrice kindled the .fire Hac^keta, one
 who knows the three verses which begun wiih ^ madhu,’J one
 
 ^ Of three months.
@@ -11132,16 +8700,12 @@ f For vyaiipdte read vyattpdte. This word has several other meanings,
 which are RdmissiMe.
 
 
-160
-
-
 CAWTO XXXI.
 
 
 wlio knows tlie ‘ tri-snparinia ' hymns, one who knows the six
 
-24 Vedangas, a daughter’s son, a RitviJ priest, a daughter’s hus-
-band, and a sister’s son, and a father-in law also, and one who
+24 Vedangas, a daughter’s son, a RitviJ priest, a daughter’s husband, and a sister’s son, and a father-in law also, and one who
 is skilled in the business of the five sacred fires, and one who
 
 25 is eminent in austerities, a maternal uncle, and one who
@@ -11157,9 +8721,7 @@ of a widow remarried, and a one-eyed man, an adulterine son,
 who has had nails, an impotent man, a man with brown teeth,
 a brahman negligent of his duties, a man cursed by his father,
 
-28 a slanderer, a vendor of soma juice, one who has de-
-flowered his daughter, a medical man, and one who has dis-
-carded his guru and father, a hired teacher, a friend,^ and
+28 a slanderer, a vendor of soma juice, one who has deflowered his daughter, a medical man, and one who has discarded his guru and father, a hired teacher, a friend,^ and
 
 29 the husband of a previonsly-married woman, one who
 discards the Yedas, and one who abandons the sacred fire, a
@@ -11174,8 +8736,7 @@ gods and pitiis, and should fetch them also.
 
 31 “ And both he, who shall perform a ^raddha that ought to
 be performed by those self-controlling men, and he, who
-indulges in sexual intercourse after having offered the srad-
-dha and eaten the food, — ^the ancestors of these two men verily
+indulges in sexual intercourse after having offered the sraddha and eaten the food, — ^the ancestors of these two men verily
 
 32 lie down in that semen a month. Moreover he who eats at a
 sraddha and he who goes to a srdddha after intercourse with
@@ -11197,8 +8758,7 @@ before tbe day arrives must be shunned.
 
 With liis mind controlled lie should feast those wlio
 
-35 have come seeking for alms, or ascetics who control them-
-seives at the proper times, after first propitiating them
+35 have come seeking for alms, or ascetics who control themseives at the proper times, after first propitiating them
 witli prostrations and other reverential acis. Just as the time
 
 36 of the waning moon is dearer to the pitris than that of the
@@ -11212,8 +8772,7 @@ of brahmans should be uneven, and in the case of the Gods"^
 
 38 even ; or, according to the circumstances of the celehrant^ there
 should be one brahman for the pitris and one for the Gods.
-In like manner for the maternal ancestors the number of hrah-
-mans should be uneven or only mie. The brahmans intended
+In like manner for the maternal ancestors the number of hrahmans should be uneven or only mie. The brahmans intended
 
 39 for the Visva-devas may be identical on the side of the pitris
 and maternal ancestors ; but some other men desire that they
@@ -11244,9 +8803,6 @@ f The test is very obscure, and seems corrupt. For this translation I am
 Indebted to Babu Harimohan Tidyabhuahan, the Pandit of the Bengal Asiatic
 
 Society.
-
-
-21
 
 
 16^ CANTO JXLI,
@@ -11307,9 +8863,6 @@ J Pityi-tirtilia, the part between the forefinger and thumb.
 THE RITUAL OP THE SRADDHA.
 
 
-163
-
-
 out tKe moutli togetlier witli scent, garlands &c. ; and liaying
 
 57 given the braliniaiis’ fee according to his ability, address
@@ -11358,9 +8911,6 @@ t Tila.
 § The text seems ia<x)rrect.
 
 
-164
-
-
 ■CAHTO XSXII.
 
 
@@ -11372,8 +8922,7 @@ The ordinance of the Srdddha.
 
 Maddlasd explains what kinds of food please the pitris at srdddhas
 and for what periods — what kinds are to he avoided — v^kat sites should
-be avoided for the ceremony — ivhat men and animals should he exclud-
-ed — and ivhat defilements must he avoided — Yogis must have priority at
+be avoided for the ceremony — ivhat men and animals should he excluded — and ivhat defilements must he avoided — Yogis must have priority at
 the srdddha — ancient' songs are to he stmg — and what benefits accrue
 from the performance*
 
@@ -11386,8 +8935,7 @@ their pleasure.
 2 The pitris are satisfied with clarified butter and rice for a
 month. The paternal grandfathers receive satisfaction with
 
-3 fish-moat for two months. Venison should he known to satis-
-fy the pitris for three months ; and the flesh of hares
+3 fish-moat for two months. Venison should he known to satisfy the pitris for three months ; and the flesh of hares
 
 4 nourishes the pitris for four months ; birds’ flesh satisfies them
 for five months ; hog’s flesh for six months ; goat’s flesh for
@@ -11415,11 +8963,7 @@ I] Kala-^ka : Ocymum sanctum^ Eosb. I do noi jSnd it in Hooker
 FOOD TO BE OFPIRID IN THE SRIdDHA,
 
 
-165
-
-
-of tlieii’ own family, and tnrmeric and soma juice, and ci srad-
-diia performed at Gaya wntliont doubt yield the pitris end-
+of tlieii’ own family, and tnrmeric and soma juice, and ci sraddiia performed at Gaya wntliont doubt yield the pitris end-
 
 9 less satisfaction. Syamaka* grain and raja-syamakat grain,
 and likewise small-grained rice,]; wild rice,§ and pauslikala
@@ -11481,9 +9025,6 @@ gays karambha, is Asparagus racemosus, which is also called sat.a*JiidlL
 ( Roxb, p. 291 ; not in Hooker).
 
 
-166
-
-
 CANTO xxxn.
 
 
@@ -11494,8 +9035,7 @@ sho aid be indeed avoided in a sraddha* * * § And whatever has been
 obtained by talk or through bribes or other improper means is
 not commended, nor what has been acquired from an outcaste ;
 
-15 and wealth that has been obtained unlawfully as the pur-
-chase-price of a bride is forbidden in this ceremony. And
+15 and wealth that has been obtained unlawfully as the purchase-price of a bride is forbidden in this ceremony. And
 water that is bad-smelling and frothy, and very scanty, and
 
 16 water that cattle would disdain, and what has been taken
@@ -11503,8 +9043,7 @@ by night, and what has been left after every one has cooked,
 and what is unfit for drinking in a tank — that water should
 
 17 be avoided always in the ceremony to the pitris. All milk
-from deer, sheep, camels, and from animals that have un-
-cloven hoofs, from buffaloes, and from the yak, and cow’s
+from deer, sheep, camels, and from animals that have uncloven hoofs, from buffaloes, and from the yak, and cow’s
 
 18 milk that is not more than ten days old,§ and what has
 been brought to a person who has asked for it on account of
@@ -11520,8 +9059,7 @@ and wicked men, and that is foul- smelling.
 
 Men who disgrace their family or who injure their family by
 
-21 separating themselves from the ^raddha, naked men and crimi-
-nals may destroy the ceremony to the pitris with their glance ;
+21 separating themselves from the ^raddha, naked men and criminals may destroy the ceremony to the pitris with their glance ;
 a eunuch, and a man repudiated hy Ms relations^ a cock, and
 
 22 the village hog, and a^dog, each ruins sraddhas by his look, and
@@ -11529,8 +9067,7 @@ so also do Rakshasas.
 
 Hence let a man offer the ceremony being well secluded, and
 
-* GAndharika ; not in the Dictionary. Professor Monier- Williams says gan-
-dhsLri denotes Sedysarum alkagi (Eoxb., p. 574), and the Prickly Mghtshade
+* GAndharika ; not in the Dictionary. Professor Monier- Williams says gandhsLri denotes Sedysarum alkagi (Eoxb., p. 574), and the Prickly Mghtshade
 (which appears to be Bolanum Jacquin^ Eosb., p. 191) $ but neither seems
 appropriate. The text as it stands seems corrupt. For gdndhdrikdm 'TO bM.
 gan>dhoUham^ which might mean ** dry ginger”?
@@ -11545,9 +9082,6 @@ J Niryasu'; or ‘ gums.*
 VAFIOUS BtJLES REGARDING THE SEADDHA-
 
 
-167
-
-
 ^3 scattering the ground with sesamnm seed, Tims may safety
 he secured in the ^raddha eren for both, my child.
 
@@ -11558,8 +9092,7 @@ ontcastes, and by filthy persons, does not nourish the pitris.
 
 And the celebrant roust moreover avoid the sight of a
 
-25 woman who is in her conrses ; and he must shim sitting to-
-gether with bald-pated men and drimken men at a sraddha, out
+25 woman who is in her conrses ; and he must shim sitting together with bald-pated men and drimken men at a sraddha, out
 of respect.
 
 And whatever is infested with hair-lice, omd whatever has
@@ -11605,9 +9138,6 @@ t For ahhishamms read ahkhhavas ?
 § For mm read man*
 
 
-168
-
-
 CANTO SXXITr.
 
 
@@ -11649,8 +9179,7 @@ sraddha voluntarily with a view to the benefits — on the various days of
 the lunar f ortnight — and when the moon is in the different asterisms.
 Madalasa spoke.
 
-1 The first day of the lunar fortnight, if the irdddha he per-
-formed on it, is auspicious for the acquisition of wealth ; the
+1 The first day of the lunar fortnight, if the irdddha he performed on it, is auspicious for the acquisition of wealth ; the
 
 * There are many plants of this name,
 f For a^nuvdmahs Teod adnvmdTmhai f
@@ -11666,21 +9195,16 @@ from asura ? A sura is in the dictionary, but not dsurya.
 THE BEHEPITS FEOM VOLtJHTARY ssiDDHAg.
 
 
-169
-
-
 second bestows men ; and tlie tliird seeks for boons ; tbe
 
-2 foTirtli destrojs enemies ; in tbe fifth a man acquires for-
-tune ; in the sixth he maj become worthy of worship : in the
+2 foTirtli destrojs enemies ; in tbe fifth a man acquires fortune ; in the sixth he maj become worthy of worship : in the
 seventh he acquires chieftainship ; in tbe eighth the highest
 
 3 prosperity ; in the ninth he gains women ; in the tenth
 perfect gratification of his wishes. So let him, assidnons in
 
 4 the ceremonies, gain all the Yedas in the eleventh. And in
-the twelfth the worshipper of the pitris gains contimial vic-
-tories, offspring, mental vigour, cattle, prosperity, iiidepeii-
+the twelfth the worshipper of the pitris gains contimial victories, offspring, mental vigour, cattle, prosperity, iiidepeii-
 
 5 dence and perfect nourishment. The man of intense faith,
 who performs the h4ddha on the thirteenth day, gains length
@@ -11714,34 +9238,25 @@ Phalgu ni. A man who offers sraddhas when she is in Hasta
 12 verily attains excellence. And so a man of goodly form may
 obtain offspring when she is in Cdtra. Svati bestows success
 
-13 in trade ; ViMkha gives philoprogenitiveness. Men who per-
-lena the srdddha when the moon is in Annradha attain imperial
+13 in trade ; ViMkha gives philoprogenitiveness. Men who perlena the srdddha when the moon is in Annradha attain imperial
 rule ; and when she is in Jyeshtha lordship ; and when she is
 
 * They are Taurus, Cancer, Virgo, Scorpio, and Capricornus.
 f* Wot phahjuni read phali^uni,
 
-22
-
-
-170
-
 
 CANTO XXXIT.
 
 
-14 Miila perfect liealtii. Acquisition of fame comes from perform-
-ing the srdddJid when she is in Asliadlia ; and. freedom from
+14 Miila perfect liealtii. Acquisition of fame comes from performing the srdddJid when she is in Asliadlia ; and. freedom from
 grief in Uttara Ashadlia. And one gains hvight worlds hj
 performing it when she is in SVavana ; and immense weal tit
 
-15 when she is in Dhanishtha. One may acquire intimate know-
-ledg’e of the Vedas lolien she is in Abhi-jit ; and success in
+15 when she is in Dhanishtha. One may acquire intimate knowledg’e of the Vedas lolien she is in Abhi-jit ; and success in
 medicine tvhen she is in S'ata-bliishaj ; goats and sheep hy
 performing the ceremony in Biiadra ; and amorous dalliance
 
-16 in the latter part of Bhadra. And one who performs the srad-
-dha tvhen she is in Bevati acquires the baser metals ; and when
+16 in the latter part of Bhadra. And one who performs the sraddha tvhen she is in Bevati acquires the baser metals ; and when
 she is in Asvini horses ; and when she is in Bharani full length
 of life.
 
@@ -11765,11 +9280,9 @@ Madalasa spoke.
 a householder with the oblations to the gods and the oblations
 to the pitris j and with food should guests and kinsmen,
 
-2 living creatures, all dependants, cattle, birds and ants, beg-
-gars and other petitioners he worshipped by the dweller in a
+2 living creatures, all dependants, cattle, birds and ants, beggars and other petitioners he worshipped by the dweller in a
 
-3 house, who observes the good customs and performs the do-
-mestic sacrifices, my child. He incurs sin if he neglects tlie
+3 house, who observes the good customs and performs the domestic sacrifices, my child. He incurs sin if he neglects tlie
 periodic ceremonies.’’
 
 
@@ -11779,22 +9292,17 @@ periodic ceremonies.’’
 PUESUIT OF RIGHTEOUSNESS, WEALTH AND LOVE
 
 
-171
-
-
 Aiarka spoke.
 
 4 Tkoa iiast declared to me, motlier, the threefold ceremonies
 to be observed by men, the perpetual, the occasional, and th©
 
 5 periodic.* I vrisli to hear, 0 lady who glaJdenest thy family,
-about Virtuous Custom by practising ’which a man gains happi-
-ness in the next world and in this.’^
+about Virtuous Custom by practising ’which a man gains happiness in the next world and in this.’^
 
 Madalasa spoke.
 
-6 A householder must ever maintain Virtuous Custom tho-
-roughly : for one who has lost Virtuous custom lias no happi-
+6 A householder must ever maintain Virtuous Custom thoroughly : for one who has lost Virtuous custom lias no happi-
 
 7 ness here or in the next world. {Sacrifice, alins-giving and
 austerities do not tend to the welfare of a man here, who
@@ -11809,8 +9317,7 @@ custom. Hear it from me with single mind, and even so
 maintain it.
 
 10 “A householder who performs the domestic sacrifices must
-strive to accomplish the three-fold objects of life.-f in full suc-
-cess therein lies the householder’s own success here and in the
+strive to accomplish the three-fold objects of life.-f in full success therein lies the householder’s own success here and in the
 
 J1 next world. With a quarter of his Wealth let him, master of
 himself, lay up a store for the next world ; and with half let
@@ -11835,9 +9342,6 @@ Id eoiisness, &c. Righteousness aims at a succession of right-
 
 * Hitya, naimittika, and nitya-naimittika.
 t Dharma, kama and artha.
-
-
-172
 
 
 CANTO XtllY,
@@ -11880,8 +9384,7 @@ talking with a woman in-her-courses.
 24 “ He should not void urine, or defecate, or engage in sexug&i
 intercourse in water,
 
-25 “ He should not step on ordure, urine, hair, ashes or pot-
-sherds ; and a wise man should not step on husks, charcoal,
+25 “ He should not step on ordure, urine, hair, ashes or potsherds ; and a wise man should not step on husks, charcoal,
 bones or decayed things, or on rope, clothing, &c., whether on
 a road, or on the earth.
 
@@ -11903,8 +9406,7 @@ in
 mouili ivell rinsed out, restraining his speecli, pure, with liis
 mind intent on his food and with his face between his knees.
 
-28 An intelligent man should not divulge another’s fault ex-
-cept in the event of injni-y.
+28 An intelligent man should not divulge another’s fault except in the event of injni-y.
 
 “ Pood should be- avoided in which salt is 'vdsiblo, and wdiich
 is very hot.
@@ -11919,8 +9421,7 @@ should not carry on any conversation and he should cease his
 reading, and he should not touch a coW', a brahman, fire, or
 his own head :
 
-31 ITor should he look at the sun or the moon or the con-
-stellations with passionate desire.^
+31 ITor should he look at the sun or the moon or the constellations with passionate desire.^
 
 And he should avoid a broken seat and bed and cup.
 
@@ -11928,8 +9429,7 @@ And he should avoid a broken seat and bed and cup.
 with rising up and other respectful acts ; and he should salute
 
 33 them respectfully and converse vnth them agreeably ; and
-he should follow them. He should not speak about them ad-
-versely.
+he should follow them. He should not speak about them adversely.
 
 “ And when clad in a single garment he should not eat nor
 engage in the worship of the gods.
@@ -11953,9 +9453,6 @@ cattle or the sun; facing north by day, and facing south by
 illnessf whenever he desires.
 
 t For ihidhishn read dhddMm.
-
-
-174
 
 
 CANTO XXXI?.
@@ -11987,8 +9484,7 @@ others are carrying.
 43 He should avoid the sacred thread, an ornament, and the
 water-pot on the fourteenth, eighth and fifteenth days of the
 
-44 moon and at its four changes. He should also eschew rub-
-bing his body with oil, and sexual intercourse with his wife,
+44 moon and at its four changes. He should also eschew rubbing his body with oil, and sexual intercourse with his wife,
 on those days.
 
 “ And a wise man should never stand with his foot or his leg
@@ -11997,22 +9493,19 @@ on those days.
 be press one foot on the other.
 
 46 “He should eschew deadly attacks, abuse and calumny. A
-clever man should not display deceit, self-conceit, or sharp-
-ness. He should not disgrace with ridicule fools, insane per-
+clever man should not display deceit, self-conceit, or sharpness. He should not disgrace with ridicule fools, insane per-
 
 47 sons, or those in calamity, the deformed, or magicians, or those
 who have limbs deficient or superfluous.
 
-“ He should not inflict punishment on another in order to in-
-struct a son or disciple.
+“ He should not inflict punishment on another in order to instruct a son or disciple.
 
 48 “ Likewise the mse man should not draw his seat towards
 him and sit down.
 
 “ He should not prepare a cake, khichree or flesh for himself.
 
-49 He must have his food evening and morning, after dioiiig re-
-verence to his guests.
+49 He must have his food evening and morning, after dioiiig reverence to his guests.
 
 “Facing eastwards or northwards, restraining his voice^ he
 
@@ -12022,14 +9515,10 @@ verence to his guests.
 MOEAL Am SOCIAL MAXIMS.
 
 
-175
-
-
 “ He slioiiM escbew the prohibited vegetables.
 
 51 A man should certainly not sleep with iiis head to the
-northj nor with his head to the west ; he should sleep, plac-
-ing his head to the north east or east.
+northj nor with his head to the west ; he should sleep, placing his head to the north east or east.
 
 He should not bathe in perfumed water, nor at night ;*batli-
 
@@ -12068,11 +9557,9 @@ occurs in it.
 nor when making a sound, § nor when clad in a single garment,
 
 61 nor when speaking, nor without giving to spectators, but
-when bathed a man should eat evening and morning accord-
-ing to rule.
+when bathed a man should eat evening and morning according to rule.
 
-62 “ A wise man should not resort to other men’s wives. Adul-
-tery destroys the religious acts and the life of man. Hothing
+62 “ A wise man should not resort to other men’s wives. Adultery destroys the religious acts and the life of man. Hothing
 
 * For vasas^ read vdsd?mi f
 
@@ -12081,9 +9568,6 @@ t For t’idamm read vidadam ? I do not find vidada in tiie dictionary,
 J For vihdr4‘mc*a read vilmrdc'c'a ?
 
 § For dahdm:ui read diibdmjan f
-
-
-176
 
 
 CANTO XXXIV.
@@ -12097,24 +9581,19 @@ Let him perform the worship of the and the cere
 64 monies to fire, and the respectful salutation to his guru, and
 also the ceremony of eating his food, after duly rinsing out his
 
-65 mouth. Facing eastwards or northwards he should reverent-
-ly rinse out his mouth, my son, with frothless, inodorous, pure
+65 mouth. Facing eastwards or northwards he should reverently rinse out his mouth, my son, with frothless, inodorous, pure
 
-66 and holy water. He should avoid the five earths from be-
-neath water, from a habitation, from an ant-hill, from gi'ound
+66 and holy water. He should avoid the five earths from beneath water, from a habitation, from an ant-hill, from gi'ound
 infested with mice, and where purificatory actions &c. have
-been carried on. After washing his hands and feet and sprink-
-ling water on them he should, with his face between his knees,
+been carried on. After washing his hands and feet and sprinkling water on them he should, with his face between his knees,
 
 67 and composed mind, rinse out his mouth. He should drink
 water three or four times after twice wiping the sides of his
 
 68 mouth, the apertures of the body, and his head. After duly
-rinsing out his mouth with water, being pure, he should per-
-form the ceremony to the gods, the rishis, and the pitris di-
+rinsing out his mouth with water, being pure, he should perform the ceremony to the gods, the rishis, and the pitris di-
 
-69 ligently. A man should always perform the ceremonies, pre-
-serving a Composed mind, A wise man should rinse out his
+69 ligently. A man should always perform the ceremonies, preserving a Composed mind, A wise man should rinse out his
 mouth, after he has sneezed, or spitten out, or donned his
 
 70 raiment. After a sneeze, and licking, and a vomit, and spitting
@@ -12139,14 +9618,10 @@ worship to the gods, and at noon to men, and in the afternoon
 ceremonies to the gods or the pitris. And he should trim his
 beard facing eastwards or northwards,
 
-76 “ He should eschew a maiden although well-bom, if she is de-
-formed, or sickly, or disfi^gured, or tawny-coloured, or talkative,
+76 “ He should eschew a maiden although well-bom, if she is deformed, or sickly, or disfi^gured, or tawny-coloured, or talkative,
 
 
 SOCIAL Am MORAL MASIMS.
-
-
-177
 
 
 77 or contaminated by everybody. And one who is free from
@@ -12190,8 +9665,7 @@ those unmannerly persons who do such things.
 “ One should not mount on a high bed or seat, nor on a low
 one.
 
-86 “ One should neither dress unbecomingly, nor speak unbe-
-comingly. Om should he clad in pure white raiment, and
+86 “ One should neither dress unbecomingly, nor speak unbecomingly. Om should he clad in pure white raiment, and
 adorned -with wiiite flowers.
 
 87 Il^either with the haughty, nor with the insane, nor with
@@ -12203,11 +9677,6 @@ friendship ; nor yet with tlio.se of bad disposition, noi*yet with
 * Upa-tapaka ; not in the dictionary,
 t Kala-lhAffli,
 
-23
-
-
-178
-
 
 CANTO XXXTV.
 
@@ -12218,14 +9687,12 @@ nor with prostitutes, nor with inferiors, nor with the husbands
 89 of prostitutes. He should never make friendship with the
 mighty, nor with inferiors, nor with reprobates, nor vdth the
 
-90 ever- timid, nor yet with fatalists. He should contract friend-
-ship mth good men, with those who always observe Yirtuous
+90 ever- timid, nor yet with fatalists. He should contract friendship mth good men, with those who always observe Yirtuous
 custom, with the wise, with the honest, with the powerful,
 with those wdio are resolute in action.
 
 91 “ In company with one’s friends, the initiated, the king,
-Snataka brahmans, and one’s father-in-law, one should do re-
-verence to the .Ritvij priest, and the five other venerable per-
+Snataka brahmans, and one’s father-in-law, one should do reverence to the .Ritvij priest, and the five other venerable per-
 
 92 sons and to guests. Oue should do reverence, my son, to
 dvij'as, who have dw6 for a year, with an offering of honey
@@ -12245,8 +9712,7 @@ first offering to Brahma, and then to to the praja-pati, and the
 offered to Anumati^" he should next offer the household bali
 and the constant oblations, that I have already explained to
 
-97 thee, according to the ritual. Next he should make the offer-
-ing to the Visva-devas, then the offerings to all creatures, and
+97 thee, according to the ritual. Next he should make the offering to the Visva-devas, then the offerings to all creatures, and
 separately to the gods according to place and apportionment.
 
 98 And he should make the three oblations to Parjan 3 ^a, the
@@ -12270,9 +9736,6 @@ tubers of which are generally eaten (Roxb., p. 0^5)
 RELTfilOrS RULES.
 
 
-179
-
-
 right and to tiie nortli west, saying, ^ O Yakslima,^ this is for
 tliee lie slioiild, if lie wishes, o:ffer tlie reroains of the food
 
@@ -12282,8 +9745,7 @@ benediction Hanta to the brahman according to the rale and
 Justice.
 
 103 “ He should perform the ceremonies to the gods and other
-objects of worsJiijy^ with each one’s special portion o£ the hand ac-
-cording to rule ; and he should perform the ceremony of rinsing
+objects of worsJiijy^ with each one’s special portion o£ the hand according to rule ; and he should perform the ceremony of rinsing
 out the mouth with the portion of the hand sacred to Brahma.
 
 104 This is called the portion of the hand sacred to Brahma for
@@ -12295,15 +9757,13 @@ tlio thumb ; by that lie should offer the water and other obla-
 
 106 tions to the pitris, except in the nandi-mukha sraddha. And
 the gods’ portion of the hand is at the tips of the fingers ; the
-ritual of ceremonies to the gods should be performed there-
-with. The praja-pati’s portion of the hand is at the root of
+ritual of ceremonies to the gods should be performed therewith. The praja-pati’s portion of the hand is at the root of
 the little finger, his ceremony must be performedf therewith.
 
 107 Thus always with these portions of the hand sacred to the
 gods and pitris, he should always perform the ceremonies,
 
-108 never with any other portion of the hand. It is proper al-
-ways to' rinse out the month with the portion of ike hand
+108 never with any other portion of the hand. It is proper always to' rinse out the month with the portion of ike hand
 sacred to Brahma; and to offer the oblation to the pitiis with
 the portion of the hand sacred to the pitris ; and that to the
 gods with the portion of the hand sacred to the gods ; and
@@ -12311,8 +9771,7 @@ the offering to the p>raja-pati with his own portion of the hand.
 
 109 A wise man should perform the cake-and-ivater ceremony to
 the nandi-mukha ancentors, and wlnitevcr is offered to the
-praja-pati, with the portion of the hand sacred to tlio praja-
-pati.
+praja-pati, with the portion of the hand sacred to tlio prajapati.
 
 110 ‘‘ A sensible man should not carry watoi* and fire at tlie same
 time; nor should he thrust out butli Ins feet towards guru
@@ -12325,9 +9784,6 @@ and the gods.
 t Head kdryam for l.ayim ?
 
 
-180
-
-
 CAT^TO X1.XY,
 
 
@@ -12337,8 +9793,7 @@ CAT^TO X1.XY,
 
 “ At all periods of personal purification whether important
 
-112 or unimportant, he should not delay for the sake of purifica-
-tion.
+112 or unimportant, he should not delay for the sake of purification.
 
 “ He should not blow the fire with his mouth.
 
@@ -12391,15 +9846,6 @@ mentions what holidays are allowed, the mrioi eastes—She des-
 after deaths
 
 
-10
-
-
-11
-
-
-12
-
-
 xvxaaaiasa spoke.
 
 Next do thoH hearken to the remedial measures for things
@@ -12420,8 +9866,7 @@ of food at a sraddha after the pitris and gods and other red-
 pm pose of medicine is not defiled.
 
 Shells, stones, gold, and silver, ropes, and gaments and
-vegetables, roots and finiits, and wicker-work vessels and lea-
-then, and gems, diamonds, and coral, and pearls, and men’s
+vegetables, roots and finiits, and wicker-work vessels and leathen, and gems, diamonds, and coral, and pearls, and men’s
 bodies are best cleansed with water; just as iron things with
 water, and stone by scrubbing. Oily vessels are cleansed with
 warm water and winnowing baskets, grain and antelope-skins-
@@ -12440,9 +9885,6 @@ taid cleansed with oily sediment or the sediment from
 ~f» «.d 0,1., Tinte.,
 
 • Godhii, the Go-e4mp a very large kind of lizard found in jungle.
-
-
-182
 
 
 CANTO XXXV.
@@ -12505,9 +9947,6 @@ bathing, hunger, drinking, and weariness, one should -ch-ange
 PtRIFICATORY AND SANITARY RULES.
 
 
-183
-
-
 25 one’s clothes and duly rinse out one’s mouth. Bad roads/^ miidj
 and water, when one comes into contact with them, are cleaned
 by leaving them alone ; and things made o£ mud or hrickf
@@ -12562,17 +10001,12 @@ delivered of a child, a eunuch, a naked person, and persons
 t Ishla, brick ?
 
 
-184
-
-
 CANTO XXXV.
 
 
 on the paramoTirs of other men’s wives, the wise must in-
 
-36 deed perform this purification of themselves. One conver-
-sant with righteousness, after touching forbidden food, a wo-
-man recently delivered, a ennnch, a cat, a rat, a dog or a
+36 deed perform this purification of themselves. One conversant with righteousness, after touching forbidden food, a woman recently delivered, a ennnch, a cat, a rat, a dog or a
 cock, and an outcaste, what is cast away, a C'andala, and
 
 37 those who carry away corpses, is purified by bathing ; and so
@@ -12626,16 +10060,12 @@ Visha-prapdtddi’mrite prdyomdanaijor api.
 PUEIflCiTOEY BULBS APTEE DEATHS.
 
 
-185
-
-
 46 dies as a cliild, or as a sojourner in a foreign conntrj, or as a
 religious mendicant, purification will be effected at once ; and
 others say the period of impurity* is declared to be three days
 
 47 for the sapindas ; but if, after the other person is dead, the
-sapinda also dies, in this ease the ceremonies must be perform-
-ed during the days called the period of the first impurity.
+sapinda also dies, in this ease the ceremonies must be performed during the days called the period of the first impurity.
 
 48 This same ordinance is applied also to the impurity caused
 by the birth of sapindas, among sapindas and properly among
@@ -12654,8 +10084,7 @@ ceremonies. Next the ekoddishta srdddha should be performed
 give gifts to the brahmans ; w'hatever is most desired in the
 world, and whatever is prized at home, those very things
 
-53 therefore must one who hopes for immortality give to a brah-
-man endowed with good qualities : but at the end of the days,
+53 therefore must one who hopes for immortality give to a brahman endowed with good qualities : but at the end of the days,
 after they have touched water, a chariot, a weapon, a goad
 
 54 and a rod, and after they have performed the ceremonies,
@@ -12680,8 +10109,6 @@ frdydnas^anayor seems preferable.
 
 ♦ A-dauc'akam ; not in the dictionary.,
 t For updddnam read tipaddnam f
-
-24
 
 
 CA'NTO XXXTI.
@@ -12744,9 +10171,6 @@ the kingdom, departed to the forest to practise austerities.
 ALABKA’fi BEIGN AKD DIFFICULTIES.
 
 
-187
-
-
 Canto XXXVII.
 
 
@@ -12756,12 +10180,10 @@ The discrimination of the Soul,
 
 Alarha ruled righteously and prosperously hut was greatly addicted
 to plecwtire — Mis brother Subdhu^ wishing to correct him, formed an
-alliance with the king of Kdsi — Both attached Alarka to wrest the kmg-
-dom from him,, and reduced him to great straits — In his dist7’ess he
+alliance with the king of Kdsi — Both attached Alarka to wrest the kmgdom from him,, and reduced him to great straits — In his dist7’ess he
 looks at Maddlasdis token-riug and seeks relief from Battdtreya — He
 explains to Battdtreya wherein lies his suffermg^ and launches into a
-metaphysical disquisition on the said,, the mind,, the body, and plea-
-sure and pain,
+metaphysical disquisition on the said,, the mind,, the body, and pleasure and pain,
 
 Jada spoke.
 
@@ -12795,9 +10217,6 @@ nisiiing him, pondered long and concluded that an alliance on
 his part with the king's enemies would be beneficial to tlie
 
 
-188
-
-
 CANTO XXXTII.
 
 
@@ -12809,8 +10228,7 @@ in order to regain his kingdom.
 despatched a messenger to demand that the kingdom should he
 
 11 gived up to Suhahn. Alarka refused, cognizant of his own
-justice, to give up the kingdom then in obedience to that com-
-mand, and returned answer to the messenger of the king of
+justice, to give up the kingdom then in obedience to that command, and returned answer to the messenger of the king of
 
 12, Kasi ; — “ Let my elder brother come to me with a:Eection and
 ask for the kingdom for himself. I will not yield up the
@@ -12828,13 +10246,11 @@ with some of them many vassals, and reduced him to
 16 subjection. And without harassing Alarka’s neighbouring
 kings by molesting their realms, he thus subjugated both the
 
-17 governors of the fortresses and the forest tribes. He re-
-duced into submission some kings by bribes, and some by
+17 governors of the fortresses and the forest tribes. He reduced into submission some kings by bribes, and some by
 creating dissension, and others who were well-affected towards
 Alarka by conciliation.
 
-18 Then the king with his small army, harassed by the adver-
-sary’s host, found his treasury depleted extremely by the foe
+18 Then the king with his small army, harassed by the adversary’s host, found his treasury depleted extremely by the foe
 
 19 that blockaded his city. And being thus straitened and with
 his treasury diminishing daily, he fell into intense dejv '.tion
@@ -12842,8 +10258,7 @@ his treasury diminishing daily, he fell into intense dejv '.tion
 20 and perplexity of mind. After suffering the keenest pain, he
 then bethought him of the ring, about which his mother Ma-
 
-21 dalasa had formerly spoken to him. Then bathing and puri-
-fying himself, he addressed the brahmans, and drawing out
+21 dalasa had formerly spoken to him. Then bathing and purifying himself, he addressed the brahmans, and drawing out
 
 22 the ring saw the motto thereof in clear chai*acters. The king
 pronounced what his mother had written thereon, while the
@@ -12858,16 +10273,12 @@ soul ; if to shun it be impossible, it should be formed with the
 ALABKA SEEKS AID OF DATTATKEYA.
 
 
-189
-
-
 be sKitniied bj every soul ; if to eschew it be impossible, it
 should be displayed towards the desire for final emancipation
 from existence, for that desire is a cui^e therefor.’
 
 25 Fow having exclaimed repeatedly, ‘How can men really
-attain bliss ?’, and having decided that it was tlmough the de-
-sire for final emancipation since that desire is appropriate’^
+attain bliss ?’, and having decided that it was tlmough the desire for final emancipation since that desire is appropriate’^
 
 26 thereto, the king next pondering upon association with the
 good, and suffering the most poignant grief, visited illus-
@@ -12875,9 +10286,7 @@ good, and suffering the most poignant grief, visited illus-
 27 tnous Dattatreya. On meeting him, magnanimous, stainless
 and devoid of attachments, he prostrated himself and -wor-
 
-28 shipped him and addi’essed him with propriety ; “ O brah-
-man ! show me favour, thou who art the refuge of refnge-
-seekers ! Remove affliction from me, who am in affliction, and
+28 shipped him and addi’essed him with propriety ; “ O brahman ! show me favour, thou who art the refuge of refngeseekers ! Remove affliction from me, who am in affliction, and
 over-addicted to deshes.”
 
 Dattatreya spoke.
@@ -12890,8 +10299,7 @@ Jada spoke.
 30 Being thns addressed by that wise Muni, the king pondered
 
 31 over the seat and the nature of his three-fold affliction. The
-king, being noble in intellect, held long and repeated delibera-
-tion with his soul, being steadfast the 'while, and then laughing
+king, being noble in intellect, held long and repeated deliberation with his soul, being steadfast the 'while, and then laughing
 spoke thus : — ^
 
 32 “It is not myself, nor the earth, nor the sea, nor the stars,
@@ -12914,9 +10322,6 @@ the mind,t and pleasure again is a mental thing ; therefore
 * fox taUangato imdtatsmigaidf f Manas.
 
 
-190
-
-
 CANTO xxxrai.
 
 
@@ -12934,8 +10339,7 @@ my elder brother covets the sovereignty over this body, it is
 an aggregate of five elements. How then is my Self concerned
 with the action of the qualities therein ? He when seated
 
-40 therein and I are distinct as regards the Body. He who alto-
-gether lacks hands and other organs, flesh, bones and head,
+40 therein and I are distinct as regards the Body. He who altogether lacks hands and other organs, flesh, bones and head,
 what connexion, even a slight one, has that man here with
 
 41 elephants, horses, chariots and other treasures ? Hence my
@@ -12968,8 +10372,7 @@ Jada spoke.
 
 A DISQUISITION ON THE SOUL. 191
 
-bralman Dattatreya, renewed bis >speeclL bending i-espect-
-fully before liim.
+bralman Dattatreya, renewed bis >speeclL bending i-espectfully before liim.
 
 2 “ Ko wlait of affliction have I, 0 brabman, wben I ioob m
 things in a proper frame of mind : tbose wbo look on things
@@ -12982,8 +10385,7 @@ pain -when a cat eats an nnselfish sparrow or mouse, as when
 
 5 it eats a domestic fowl. I then feel neither pain nor pleasure,
 since I am beyond the mateiial world.* Whoever is subject
-to created things by means of created things, is indeed sensi-
-tive to pleasure and pain.”
+to created things by means of created things, is indeed sensitive to pleasure and pain.”
 
 Dattatreya spoke.
 
@@ -13020,9 +10422,6 @@ t The capsules when ripe burst, and the silky cotton inside is scattered
 over th« ground for many yards around.
 
 
-192
-
-
 CANTO XXSVlII.
 
 
@@ -13033,8 +10432,7 @@ which is sharpened on the whet- stone of association ivith the
 thornless grove of religions knowledge, the wise, ceasing from
 action, attain supreme emancipation from existence.
 
-14 “ Neither art thon, 0 king, nor am I a gross object 'consist-
-ing of the elements and of organs : neither must I declare we
+14 “ Neither art thon, 0 king, nor am I a gross object 'consisting of the elements and of organs : neither must I declare we
 are an elementary rudiment, nor that we both have a son! as
 
 15 an eternal organ. Or, whom O king do I see the chief of its two,
@@ -13076,9 +10474,6 @@ J Saccliarum munja^ Eoxb, (p. 83).
 YOGA OE EELIGIOUS DETOTION.
 
 
-193
-
-
 Canto XXXIX.
 
 
@@ -13095,13 +10490,9 @@ formme of yoga.
 
 Dattatreja spoke.
 
-1 A yogi’s removal of ignorance by the attainment of know-
-ledge is ‘ mnkti t?ds is union with Brahma, and separation
+1 A yogi’s removal of ignorance by the attainment of knowledge is ‘ mnkti t?ds is union with Brahma, and separation
 
-2 from the three qualities of Xature. ‘ Mnkti/ or final emancipa-
-tion from existence, comes from religions devotion ; and reli-
-gions devotion comes rightly from knowledge, O king ; know-
-ledge comes through suSering ; suffering is the lot of those
+2 from the three qualities of Xature. ‘ Mnkti/ or final emancipation from existence, comes from religions devotion ; and religions devotion comes rightly from knowledge, O king ; knowledge comes through suSering ; suffering is the lot of those
 
 3 whose minds are engrossed with self. Hence the man who
 desires final emancipation should strenuously discard every
@@ -13126,11 +10517,6 @@ into the bonds of action,
 religious devotion from me, by adopting which the religious
 devotee may attain to an eternal identity wnth Brahma.
 
-25
-
-
-194
-
 
 CANTO XXXIX.
 
@@ -13140,8 +10526,7 @@ indeed a hard victory for religious devotees. He should put
 
 10 forth effort in that victory. Hear from me the means thereto.
 He should bum up his faults by restraining his breath, and
-his stains by steady mental abstraction, f his sensual enjoy-
-ments by restraining his senses, J and his unbridled qualities by
+his stains by steady mental abstraction, f his sensual enjoyments by restraining his senses, J and his unbridled qualities by
 
 11 deep meditation. § Just as impurities are burnt out of metals
 when they are melted, so the faults wrought by the organs of
@@ -13159,8 +10544,7 @@ are named the ‘slight,* the ‘medium’ and the ‘ intense.‘*[f
 and the ‘ medium ’ is double that, and the ‘ intense * is well-
 
 15 known as containing thrice that number of instants. The
-time of a matra is that of . the winking and opening the eye-
-lids once. The measure of twelve matras is fixed' for the
+time of a matra is that of . the winking and opening the eyelids once. The measure of twelve matras is fixed' for the
 
 16 reckoning of the pranayama. With the first he should overcome
 perspiration, and with the second agitation, and with the third
@@ -13175,8 +10559,7 @@ according to his wish, even so a religious devotee who has the
 19 wish brings his breath to perfect control. For as the proud
 lion when tamed does not attack deer, so the obstracted wind
 
-20 destroys men’s guilt but not their body. Therefore the reli-
-gious devotee while engaged in devotion should pay good heed
+20 destroys men’s guilt but not their body. Therefore the religious devotee while engaged in devotion should pay good heed
 to the restraitdng of his breath.
 
 Hear its four conditions that bestow the result of final
@@ -13193,9 +10576,6 @@ I Bhyana.
 
 
 METHOD OF PERFORMING TOGA*
-
-
-193
 
 
 and tlie power of obtaining everylbing,* barmonyf and
@@ -13240,8 +10620,7 @@ should conceal the activity of darkness with passion, and that
 goodness should practise devotion. He should hold in his
 organs of sense from their objects of sense, and his breath and
 
-S3 other faculties and his mind, he should advance to abstrac-
-tion with a steadfast cohesion. But he who should draw in
+S3 other faculties and his mind, he should advance to abstraction with a steadfast cohesion. But he who should draw in
 
 34 his desires, as a tortoise draws in all its limbs, always
 delighting in soul and self-collected, sees soul in soul. The
@@ -13251,9 +10630,6 @@ delighting in soul and self-collected, sees soul in soul. The
 * PrapM. Z Prasiacia*
 
 t Saavii* ^ § Apa-kasliaya-tva j not in the dictionary.
-
-
-196
 
 
 CANTO XXXIX.
@@ -13316,9 +10692,6 @@ king !
 MF.TEm uF rr.r.FORMTNO TOHA.
 
 
-107
-
-
 WIicB, it is neitlier very cold Bor warm, wher there is bo
 
 48 strife, when it is not windy, at these times the ascetic who is
@@ -13346,8 +10719,7 @@ ignorance.
 If a yogi should have these faults through inadvertence,
 
 54 yogis should attend to their cure in order to destroy them.
-Hearken to me in this. He should engage in mental abstrac-
-tion, after eating rice-grael, mingled with oil and very wann.
+Hearken to me in this. He should engage in mental abstraction, after eating rice-grael, mingled with oil and very wann.
 
 55 In the diseases of rheumatism, flatulence, and enlargement of
 the abdomen, circulation of the internal or obstructed wind of
@@ -13374,9 +10746,6 @@ text seems obscure.
 J For kalpe read hmnpai so a MS. in the Sanskrit College,
 
 
-198
-
-
 CANTO XL.
 
 
@@ -13392,14 +10761,12 @@ in his body by steady thought of the wind and fire.
 
 Thus must every soul that is wise in yoga compass its
 
-62 preservation, 0 king, since the body is the means of attain-
-ing righteousness, wealth, love and final emancipation from
+62 preservation, 0 king, since the body is the means of attaining righteousness, wealth, love and final emancipation from
 existence. The yogi^s knowledge perishes through perplexity
 at the namation of the marks of the activities, therefore the
 
 63 activities must be hidden. Tranquillity,* perfect health,
-gentleness, a pleasant odour, scanty excretions, a fine com-
-plexion, benignity, and softness of voice, are indeed the first
+gentleness, a pleasant odour, scanty excretions, a fine complexion, benignity, and softness of voice, are indeed the first
 
 64 indications of the activity of yoga. A loving person proclaims
 one’s virtues in one’s absence. That creatures do not fear him
@@ -13414,8 +10781,7 @@ The Yogi's bliss.
 
 Dattdtreya explaim to Alarka the ailments that beset a yogi's
 soul and mentiom their five varieties. He describes the yogi's duties,
-the stages by which final emancipation is attained, the eight pre-
-monitory marks of final emancipation, .and the results of union
+the stages by which final emancipation is attained, the eight premonitory marks of final emancipation, .and the results of union
 with the Supreme Spirit.
 
 Dattatreya spoke.
@@ -13432,17 +10798,12 @@ and the objects of human desire, for women, the fruits of
 AILMENTS CONNECTED WITH TOGA,
 
 
-199
-
-
 alms-giving, for science, for snpeimatural power, for tlie baser
 
-3 metals and ricbes, for heaven, god-bead, and supreme god-
-bead, for actions that yield copious supplies of elixir vitse,^
+3 metals and ricbes, for heaven, god-bead, and supreme godbead, for actions that yield copious supplies of elixir vitse,^
 for flying on tbe storm- winds, for sacrifice, and the power of
 
-4 inhabiting water and fire, for the fmits of sraddhas that con-
-tain every gift, and religions mortifications. Thus he longs
+4 inhabiting water and fire, for the fmits of sraddhas that contain every gift, and religions mortifications. Thus he longs
 
 5 when mentally ailing by reason of fasting, meritorious acts,
 
@@ -13455,8 +10816,7 @@ A yogi should strenuously resti*ain his mind when beset
 6 with such tbongbts. By making bis mind cling to Brahma be
 is liberated from ailments. When these ailments are overcome
 
-7 other ailments still beset a yogi, arising out of goodness, pas-
-sion and ignorance.
+7 other ailments still beset a yogi, arising out of goodness, passion and ignorance.
 
 Ailments arising from illusive vision, f from hearing, and.
 from tbe deity, J and mental aberration, § and enthusiasm|l —
@@ -13465,11 +10825,9 @@ from tbe deity, J and mental aberration, § and enthusiasm|l —
 religious meditations of yogis. The ailment arising from
 
 9 illusive vision is such to a yogi because in it appear Yedio
-matters, poetic matters, science and the mechanical arts with-
-out end. The ailment connected with hearing is so-called
+matters, poetic matters, science and the mechanical arts without end. The ailment connected with hearing is so-called
 
-10 because he perceives the meanings of sounds in all their com-
-pleteness, and he receives sound from thonsands of yojanas.
+10 because he perceives the meanings of sounds in all their completeness, and he receives sound from thonsands of yojanas.
 
 11 The wise call that ailment one from the deity, as in the case of
 a madman, when like a god he sees all around and in the eight
@@ -13497,9 +10855,6 @@ but it seems a much stronger word.
 ^ iko'ara.
 
 ** Atvarfca.
-
-
-200
 
 
 CANTO XL.
@@ -13537,8 +10892,7 @@ and relinquishes the most perfect subtlety of intellect. For
 21 the man conversant with religious devotion, who relinquishes
 these seven subtle things after having thoroughly compre-
 
-22 bended them, there is no retrogression, 0 Alarka ! The soul-
-cognisant man, after fully seeing the subtlety of these subtle
+22 bended them, there is no retrogression, 0 Alarka ! The soulcognisant man, after fully seeing the subtlety of these subtle
 conditions of the seven objects, then utterly abandoning it
 
 23 may proceed to supreme bliss. And towards whatever created
@@ -13549,8 +10903,7 @@ who after perceiving the mutually- associated subtle things
 
 25 abandons them, may gain supreme bliss. Having conjoined
 these very seven subtle things, O king! passionlessness
-towards created and other things tends to the final emanci-
-pation from existence of the man cognisant of the entities.!
+towards created and other things tends to the final emancipation from existence of the man cognisant of the entities.!
 
 • For tat^saiikhyam read tat-sauhshmam ; so a MS. in tlie Sanslorit College.
 
@@ -13560,9 +10913,6 @@ t For afsu read apm ?
 
 
 INDICATIONS OF UNION WITH BFAHMA.
-
-
-201
 
 
 26 IVTien li,e Ijecoiiies attaclied to pei'fximes and other delights, he
@@ -13586,8 +10936,7 @@ these eight sovereign-like qualities fully indicate union ■with
 subtler than the subtle ; lightness means swiftness ; greatness
 consists in being universally reverenced ; the power of obtaln-
 
-32 ing everything, inasmuch as nothing is impossible of obtain-
-ment by him ; freedom of will comists in his power of pervading
+32 ing everything, inasmuch as nothing is impossible of obtainment by him ; freedom of will comists in his power of pervading
 all things ; and lordship inasmuch as he is lord ; magical
 
 33 domination indeed, the yogi’s seventh quality consists in his
@@ -13622,16 +10971,12 @@ j| For gatm read tatra f
 " 26
 
 
-202
-
-
 CAmO TLl.
 
 
 him; one who experiences them is not united with them.
 
-37 For as an impure lump of gold, when its impurities are purg-
-ed awaj hy fire, unites with another lump into one, and
+37 For as an impure lump of gold, when its impurities are purged awaj hy fire, unites with another lump into one, and
 
 38 undergoes no difference ; even so the ascetic, when his faults
 are burnt out by the fire of religious devotion, unites with
@@ -13667,21 +11012,16 @@ Brahma does not sink into despondency.
 
 Dattatreya spoke.
 
-2 Respect and disrespect, which two things cause men plea-
-sure and distress, these are opposites and effect the yogi’s final
+2 Respect and disrespect, which two things cause men pleasure and distress, these are opposites and effect the yogi’s final
 
 3 bliss. Respect and disrespect, these two things men indeed
-describe as poison and ambrosia ; of them disrespect is am-
-brosia, but respect is a dire poison.
+describe as poison and ambrosia ; of them disrespect is ambrosia, but respect is a dire poison.
 
 4 He should plant his foot after it is purified by his eye ; he
 should drink water that has been purified through cloth ; he
 
 
 A TOGf’S HULES OF LIFE.
-
-
-203
 
 
 slioiild use speecli that is purified -witli truth ; and he should
@@ -13745,9 +11085,6 @@ ft Sam-ana ; the vital air that oircnlates about the navel, and is essential to
 d%estion.
 
 
-204
-
-
 CANTO XLI.
 
 
@@ -13776,23 +11113,19 @@ may perhaps never gain that knowledge in thousands of ages.
 and controlling his organs, he should regulate the gates of
 his hody by the intellect, and apply the understanding to
 
-21 profound contemplation. The yogi who is constantly occu-
-pied with religious meditation should always have due re-
-course to profound contemplation, in empty places and in
+21 profound contemplation. The yogi who is constantly occupied with religious meditation should always have due recourse to profound contemplation, in empty places and in
 
 22 caves and in forests. Control over the speech, control over
 the actions, and control over the mind, are the three controls :
 he who invariably possesses these controls is a great ‘ threc-
 
-23 controT ascetic. Who, 0 king, is agreeable, and who is dis-
-agreeable to him to whom all this universe, both real and
+23 controT ascetic. Who, 0 king, is agreeable, and who is disagreeable to him to whom all this universe, both real and
 unreal, and composed of good qualities and bad qualities, is
 composed of the Supreme Soul ?
 
 24 When he whose intellect is purified, to whom clods and
 gold are alike, and whose mind is thus composed towards all
-created things, comprehends the supreme eternal and im-
-mutable to be the supreme condition he ceases to he bom
+created things, comprehends the supreme eternal and immutable to be the supreme condition he ceases to he bom
 
 25 again. The Vedas and all sacrifices and ceremonies are very
 good j prayer is better than sacrifice ; and the path of know
@@ -13802,9 +11135,6 @@ t Vy-msia ; the vital air that circulates or is diJEhised through the body.
 
 
 EXPOSITION OF THE WORT* OM.
-
-
-205
 
 
 ledge tliaii prayer ; and profonnd contemplation cat off from
@@ -13829,8 +11159,7 @@ final absorption into Brahma,
 
 Dattatreya spoke.
 
-1 The yogi who lives thus, rightly busied in religious devo-
-tion, cannot be turned away even by hundreds of other lives.
+1 The yogi who lives thus, rightly busied in religious devotion, cannot be turned away even by hundreds of other lives.
 
 2 And when he has beheld the Supreme Soul, visible, existing
 in all forms, whose feet and head and neck the universe
@@ -13853,9 +11182,6 @@ understood by yogis only. It is called gandhari,t as it is to
 f A meaning not in the dictionary.
 
 J See not© * page 130.
-
-
-206
 
 
 CANTO XLfl.
@@ -13881,8 +11207,7 @@ Ric', Sama and Yajus — the three w’-orlds, the three fires, and
 who is absorbed in religious meditation thereon, may obtain
 extinction therein.
 
-Moreover the letter A is designated the hhtir-loka, or terres-
-trial T^orld ; and the letter U the bliuvar-loka, or atmospheric
+Moreover the letter A is designated the hhtir-loka, or terrestrial T^orld ; and the letter U the bliuvar-loka, or atmospheric
 
 II world ; and the letter M with its nasal mark is decided to be
 the svar-loka, or celestial world. ]N'ow the first instant is
@@ -13921,9 +11246,6 @@ J Final eMancjpation from existence.
 ILL 0ME5S FEESAOING BEATE.
 
 
-207
-
-
 departure, attains to a yogi’s condition again. Hence by
 means of imperfect religions devotion, or again by perfected
 religions devotion, are always to. be known tbe ill omens,
@@ -13940,9 +11262,7 @@ An account of El Omens,
 Eattdtreya mentiom the signs of ajtproacMng and impending
 deaths which are partly natural phenomena a^id partly
 dreanu — also the appropriate seasons for religious devotion — and
-hy various similes and apophthegms indicates h(m fined eman-
-cipation from existence is to he attained — Alarha thanks BaUd-
-treya for all the instruction andy going to the king of JKdSt and
+hy various similes and apophthegms indicates h(m fined emancipation from existence is to he attained — Alarha thanks BaUdtreya for all the instruction andy going to the king of JKdSt and
 Subdhuy relinquishes his kingdom in their favour,
 
 Dattatreya spoke.
@@ -13950,8 +11270,7 @@ Dattatreya spoke.
 1 “ Listen Maharaja ; I will declare those ill omens to thee,
 by considering which the yogi knows his own death.
 
-2 The man who does not see the path of the gods,* the pole-
-star, the planet Yenns, the moon’s shadow and the morning
+2 The man who does not see the path of the gods,* the polestar, the planet Yenns, the moon’s shadow and the morning
 
 3 star,t Diay not live more than a year. The man, who sees the
 sun’s orb devoid of rays and fire encircled with rays, does
@@ -13973,9 +11292,6 @@ the heel or at the toe in dust and in mud, lives seven months,
 t Arimclliati,
 
 
-208
-
-
 CANTO XLITI.
 
 
@@ -13995,8 +11311,7 @@ or who sees it head-less, does not live more than a month.
 12 When the smell from a yogi’s body resembles that of a goat
 or the sniell from a corpse, know O king that his life will be
 
-13 half a month. When one’s breast and foot dry up imme-
-diately after he has bathed, aud when water does not
+13 half a month. When one’s breast and foot dry up immediately after he has bathed, aud when water does not
 
 14 quench his thirst as he drinks, he lives ten days.
 
@@ -14012,15 +11327,13 @@ red or black raiment, and singing and laughing, carries o:S to
 17 the south in his sleep, he will live no longer. He who sees
 a single powerful naked mendicant laughing and leaping in
 
-18 his sleep may find death impending. The man, who sees him-
-self sunk to the crown of his head in a sea of mud in his
+18 his sleep may find death impending. The man, who sees himself sunk to the crown of his head in a sea of mud in his
 
 19 sleep, dies at once. And he, who sees charcoal amidst the
 hair of the head, or ashes or a waterless river isstiing from a
 serpent, in his sleep, will after ten days die on the eleventh
 
-20 day. He, who in his sleep is beaten with stones by formi-
-dable and hideous black meu who raise their weapons aloft,
+20 day. He, who in his sleep is beaten with stones by formidable and hideous black meu who raise their weapons aloft,
 
 21 may die at once. He, in front of whom a she- jackal runs
 howling at sun-iise, .whether meeting him or passing him^
@@ -14038,13 +11351,9 @@ perceive the smell of a lamp, and who is terrified in the day
 ILL OMENS PEESAGINO DEATH.
 
 
-209
-
-
 as well as at niglit, and -wlio does not see liiiiiself reflected in
 
-24 another's ejes, lives no longer. He, who has seen both a rain-
-bow" at midnight and all the planets in the day- time, should
+24 another's ejes, lives no longer. He, who has seen both a rainbow" at midnight and all the planets in the day- time, should
 
 25 as a sensible man deem his life consumed away. He, ivhose
 nose becomes crooked, and wdiose ears bend down or stick up,
@@ -14066,8 +11375,7 @@ and who cannot rise up from the hole, in his sleep, his life
 blood-shot and rolling around, and warmth in the mouth, and
 
 31 dryness at the navel pi’ognosticate a new body for men. He
-■who in his sleep may enter the fire, and not come out there-
-from, or if he similarly enters water, his life ends thereat.
+■who in his sleep may enter the fire, and not come out therefrom, or if he similarly enters water, his life ends thereat.
 
 32 The man who is attacked hy evil spirits at night or by day,
 without doubt meets death at the end of the seventh night.
@@ -14093,7 +11401,6 @@ wise menf must understand that.
 
 Sampratishtlna ; not in the dictionary,
 t For p%rmhas read purmham f
-27
 
 
 21(3
@@ -14125,8 +11432,7 @@ there he should engage in religious devotion until that
 44 day arrives. Then abandoning all fear, and mastering that
 time self-controlled, he should stay in that habitation or
 
-45 wherever he feels his soul firm, and engage in religious medita-
-tion on the Supreme Soul after overcoming the three qualities :
+45 wherever he feels his soul firm, and engage in religious meditation on the Supreme Soul after overcoming the three qualities :
 and when his soul grows composed of the Supreme Soul, he
 
 46 should cease even from the use of his mind. Thereupon he
@@ -14147,18 +11453,13 @@ rays of the sun does not emit fii^e, is also a simile for a yogi.
 60 Ants, rats, ichneumons, house-lizards, and sparrows inhabit a
 house like the owner of it, and when it is broken down they
 
-61 go elsewhere ; but since they feel no such paiii at the destruc-
-tion of that house as the owner feels^ O king ; that simile
+61 go elsewhere ; but since they feel no such paiii at the destruction of that house as the owner feels^ O king ; that simile
 
-62 points to the yogi^s perfect bliss. An though it is compos-
-ed of earth and has hut a small body, constimcts a heavy heap
+62 points to the yogi^s perfect bliss. An though it is composed of earth and has hut a small body, constimcts a heavy heap
 of earth with the still minuter point of its mouth : that is a
 
 
 alarka thanks BATTATREVA.
-
-
-211
 
 
 53 lesson for a jogi. When yogis see a tree, clothed with leaves
@@ -14211,8 +11512,7 @@ tion! 0 joy, that all thy words have found an abode in my
 meeting with thee, Sir ! 0 joy, that thou hast also shown
 compassion to me, O brahman !
 
-65 Although destitute a man attains success at the auspi-
-cious rise of the Soul, just as this calamity tends to my benefit
+65 Although destitute a man attains success at the auspicious rise of the Soul, just as this calamity tends to my benefit
 
 
 212 CANTO XLIII.
@@ -14225,8 +11525,7 @@ tbe stains of ignorance burnt out by tbe fire of tby favour,
 I will so strive tbat I may not become sncb a vessel of misery.
 
 68 I mil quit my position as a bouseliolder, wliicb is a forest of
-trees of pain, on receiving permission from tbee, my bigli-
-souled instructer in wisdom.’^
+trees of pain, on receiving permission from tbee, my biglisouled instructer in wisdom.’^
 
 Dattatreya spoke.
 
@@ -14274,9 +11573,6 @@ and there is no other, bow then does knowledge create tbe
 SlTEAHii's JOY ‘AT ALAEKA’s AWAKEXTNCir,
 
 
-213
-
-
 79 coBclition o£ friend and enemy, of lord and seiTant ? I fell
 into til at dire misery T^diich was produced by fear of thee,
 and I have gained knowledge from Dattatreya’s favom^, 0
@@ -14292,8 +11588,7 @@ then am not thy foe ; nor art thon my enemy ; Snbahn here
 is not my injiirer. I have seen all this as my own soni ; seek
 then another adversary, 0 king !”
 
-83 Thus he addressed the king. Then uprose Subahii delight-
-ed, and saluting his brother with the word * 0 Joy !’ spoke
+83 Thus he addressed the king. Then uprose Subahii delighted, and saluting his brother with the word * 0 Joy !’ spoke
 thus to the king of Kasi.
 
 
@@ -14325,9 +11620,6 @@ The king of KMi spoke.
 hast thou attained ? Declare that to me, 0 Suh&u, for I
 
 S feel a keen cuiiosity. Thou didst stir me up, saying ‘ Conquer
-
-
-214
 
 
 CANTO XLIV.
@@ -14366,29 +11658,23 @@ king ; since he is related to this my body, and bears the idea
 perception of passionlessness through suffering, resorted to thee,
 
 12 Sir, to carry out the undertaking. Therefore he has been
-brought through distress to passionlessness through instruc-
-tion, 0 king ; the work has been accomplished ; mayest thou
+brought through distress to passionlessness through instruction, 0 king ; the work has been accomplished ; mayest thou
 
 13 fare well. I depart. ‘ Having dwelt in Madalasa’s womb, and
 having drank of her breast, may he not follow the path that
 
 14 is travelled by the sons of other women, 0 king !' So I
 deliberated and I did it all by resorting to thee ; and it has
-been accomplished. I will again depart to seek final beati-
-tude.
+been accomplished. I will again depart to seek final beatitude.
 
 15 “ I do not approve of those, 0 king ! who neglect their
-own family, a kinsman, or a friend, when these are in difficul-
-ties ; for, though possessed of organs, they are maimed indeed.
+own family, a kinsman, or a friend, when these are in difficulties ; for, though possessed of organs, they are maimed indeed.
 
 * For hhunkshvasva hulo(fitam read hhunkshva Bvakuloc'itam ?
 t For read sakto ?
 
 
 SUBAHU^S EXHOBTATION.
-
-
-215
 
 
 16 He who falls into difficulties when he has an able friend, or
@@ -14404,9 +11690,7 @@ The king of Kasi spoke.
 
 18 “ Thou hast done a great benefit to good Alarka ; how is it
 
-19 thou dost not turn thy mind to benefit me ? Since associa-
-tion of good men with good men yields fruit and is not bar-
-ren, therefore I have attained the prosperity that is hound
+19 thou dost not turn thy mind to benefit me ? Since association of good men with good men yields fruit and is not barren, therefore I have attained the prosperity that is hound
 up with thy patronage.”
 
 Subaim spoke.
@@ -14416,12 +11700,10 @@ wealth, pleasure, and final emancipation from existence.
 There thou hast righteousness, wealth and pleasure, all of
 
 21 them, — ^the last is wanting. I will succinctly expound it to
-thee ; listen now with singleness of mind thereto ; and hav-
-ing heard and rightly delihei^ated strive after bliss, O king I
+thee ; listen now with singleness of mind thereto ; and having heard and rightly delihei^ated strive after bliss, O king I
 
 22 Thou must have no dealings, 0 king, with the notion ‘‘Mine,”
-nor the notion “ I” ; for when one considers rightly, righteous-
-ness has no correlation in the absence of righteousness.
+nor the notion “ I” ; for when one considers rightly, righteousness has no correlation in the absence of righteousness.
 
 23 When thou hast thought in thy soul, ‘ I must comprehend of
 what I am ’ ; when thou hast thought in after nights ‘ I must
@@ -14429,8 +11711,7 @@ what I am ’ ; when thou hast thought in after nights ‘ I must
 24 consider the external and the internal thou must discern
 him whose beginning, attributes and ending are imper.cep-
 
-‘ tible, who is changeless, devoid of intelligence, both percep-
-tible and imperceptible ; and thou shalt discern ‘ Who am I ?’
+‘ tible, who is changeless, devoid of intelligence, both perceptible and imperceptible ; and thou shalt discern ‘ Who am I ?’
 
 25 When this indeed is discerned thou hast discerned everything.
 To discern the soul in what is not soul, and <>ae’s omi pro-
@@ -14443,21 +11724,16 @@ now I depart.”
 27 Having spoken thus to the king of Kasi, the wise Siibahu
 
 
-216
-
-
 CANTO XLIY.
 
 
 departed. Ai:.d the king of Kasi having done oheisance to
 Alarka departed to his own city.
 
-28 Alarka, also, enthroned his eldest son as king, and abandon-
-ing* every tie resorted to the forest, for Ms o'^vn perfection.
+28 Alarka, also, enthroned his eldest son as king, and abandoning* every tie resorted to the forest, for Ms o'^vn perfection.
 
 29 After a long time becoming purged of the contrary qualities
-and free Mom all worldly possessions, he attained an unparal-
-leled pitch of religions devotion and gained supreme and final
+and free Mom all worldly possessions, he attained an unparalleled pitch of religions devotion and gained supreme and final
 
 SO bliss. Perceiving all this universe with its gods, demons and
 human beings perpetually bound and being bound in the
@@ -14476,8 +11752,7 @@ learnt. There is no happiness superior to religious devotion.”
 
 Jada spoke.
 
-34 Dear father, do thou practise this sublime religious devo-
-tion to attain final emancipation from existence ; whereby
+34 Dear father, do thou practise this sublime religious devotion to attain final emancipation from existence ; whereby
 thou shalt attain to that Supreme Soul, in reaching which
 
 3.5 thou shalt not gTieve. Then 1 also will go. What need have
@@ -14534,8 +11809,7 @@ The identity of Fradhdna and Prakriti is asserted — Brahma alone
 existed at first — From him emanated' Pradhdna, which is called the
 Imperceptible — Out of it issued Mahat {the Intellectual priciple ) —
 And out of Mahat issued Ahankdra (the principle of Individuality)
-with its three characters, the Evolving, the Modifying, and the Ener-
-gizing — The Evolving Ahankdra created sound, touch, form, taste and
+with its three characters, the Evolving, the Modifying, and the Energizing — The Evolving Ahankdra created sound, touch, form, taste and
 smell, and their corresponding elements, ether, air., light, water and
 earth — The Modifying Ahankdra produced the eleven human organs —
 The characters of the elements are expounded.
@@ -14554,11 +11828,6 @@ knowledge as this, by which ye have overcome folly although
 
 3 ye have descended to this animal state. Happy are ye in
 
-28
-
-
-218
-
 
 CANTO XLV.
 
@@ -14569,11 +11838,9 @@ attainment of final emancipation, is not swayed "by the be-
 4 wilderments that spring from objects of sense. O joy that
 the wise lord Markandeya made you known to me as the dis-
 
-5 sipators of every doubt ! For men who wander in this closely-
-thronged mundane existence there is available association
+5 sipators of every doubt ! For men who wander in this closelythronged mundane existence there is available association
 
-6 with such as your honours ; not for ascetics. If 1 after gain-
-ing association with you who have perspicacity in knowdedge
+6 with such as your honours ; not for ascetics. If 1 after gaining association with you who have perspicacity in knowdedge
 should not succeed in my object, then assuredly'^ there can
 
 7 be no success for me elsewhere. Both in activity and in
@@ -14591,15 +11858,13 @@ familiesf that sprang from the gods, the rishis, the pitris,
 created things Ac. ? And how did the Manvantaras occur ?
 
 11 And what was tlie history of the families of old ; and whatever
-creations and whatever dissolutions of the universe have oc-
-curred; and how the ages have been divided; and what the
+creations and whatever dissolutions of the universe have occurred; and how the ages have been divided; and what the
 
 12 duration of the Manvantaras has been; and how the earth
 remains stable ; and what is the size of tlie world ; and xvhat
 are the oceans, mountains and rivers and forests according to
 
-13 their situation ; lohat is the number of the wwlds, the bhur-
-loka, svar-loka ^o., including the lower regions ; and lohai is
+13 their situation ; lohat is the number of the wwlds, the bhurloka, svar-loka ^o., including the lower regions ; and lohai is
 the course of the sun, moon, and other planets, of the stars and
 
 14 heavenly bodies also. I wish to hear of all this which is
@@ -14618,22 +11883,17 @@ t For vamMd road namso, f
 THK ANTIQUITY OF THIS PURANA.
 
 
-219
-
-
 asked, 0 brakman : we will declai^e it to tliee ; listen to it
 
 16 here, 0 Jaimini, as Markandeya expounded it formerly to tlie
 calm and wise Kransktuki, a young krakman, wlio kad com*
 
-17 pleted kis term of stndentskip. Krausktnki asked tlie kigk-
-sonled Markandeya, wkom tke krakmans were waiting- upon,
+17 pleted kis term of stndentskip. Krausktnki asked tlie kigksonled Markandeya, wkom tke krakmans were waiting- upon,
 
 18 wkat yon kave asked, my lord; and we will tell tkee wkat
 
 19 tke Muni, Bkrigu’s son, told kim witk affection ; listen, O
-krakman, after having paid adoration to tke Forefather Brah-
-ma, tke lord of tke universe, tke origin of the universe, who
+krakman, after having paid adoration to tke Forefather Brahma, tke lord of tke universe, tke origin of the universe, who
 presided over creation, who in tke form of Yislinn presides
 over its maintenance, and who in tke form of tke terrible
 S'iva destroys it at tke dissolution.
@@ -14646,8 +11906,7 @@ came into being, this Parana and tke Yedas issued^ from his
 21 mouths ; and many paramarshis composed the collections of
 tke Puranas; and tke Vedas wex*e divided by them in a
 
-22 thousand ways. Eighteonsness and knowledge, passionless-
-ness, and sovereignty — these four indeed were not perfected
+22 thousand ways. Eighteonsness and knowledge, passionlessness, and sovereignty — these four indeed were not perfected
 
 23 without instruction from him, the high-souled. His seven
 mind-bornf rishis took the Vedas from him, and kis mind-born
@@ -14662,8 +11921,7 @@ Dakslia repeated it to me. I will now tell it to tkee : it de-
 illustrious Muni, as I formerly heard it when Dakska I'elated
 it.
 
-27 Having paid adoration to tke origin of the universe, un-
-born, changeless, the asylum, the upholder of the moveable
+27 Having paid adoration to tke origin of the universe, unborn, changeless, the asylum, the upholder of the moveable
 
 28 and immoveable universe, the supreme object, Brahma, the
 first male, — ^the cause which, itself unkegottei3,J; works in pro-
@@ -14675,9 +11933,6 @@ f Manasa.
 X Ananrasya ; not in the dictionary.
 
 
-220
-
-
 CANTO XLT,
 
 
@@ -14687,11 +11942,9 @@ iluction, maintenance and dissolution, wlierein evervtliing -is
 the framework of the world, the wise, I will duly tell of the
 
 30 multitude of created things, matchless, great, primeval, formed
-for special ends, various in shape, possessing characteristics, as-
-certainable bj the five standards of measure, possessing the
+for special ends, various in shape, possessing characteristics, ascertainable bj the five standards of measure, possessing the
 
-31 five streams of life, governed by the soul, existent as if per-
-petual and temporary— listen thereto with sublime composure,
+31 five streams of life, governed by the soul, existent as if perpetual and temporary— listen thereto with sublime composure,
 illustrious Sir!
 
 32 Pradhana is the cause, which is designated the Imperceptible,
@@ -14701,8 +11954,7 @@ and which the great rishis call the subtle, permanent Prakriti,
 imperishable, nndecaying, immeasurable, self-dependent, des-
 
 34 titute of odour, form, and taste, devoid of sound and touch,
-without beginning or end, the origin of the nniverse, un-
-changed* by the power of the three qualities, not modern, f
+without beginning or end, the origin of the nniverse, unchanged* by the power of the three qualities, not modern, f
 
 35 unknowable. Subsequent to the dissolution, all this universe
 was pervaded by him completely.
@@ -14721,8 +11973,7 @@ characterized by goodness, that by passion, and that by
 38 ignorance. Then from it was evolved Ahankai*a,|| which is
 three-fold, the Modifying, the Energizing,** and the Evol-
 
-39 vingtt which is characterized by darkness. And it was en-
-veloped by Mahat, just as. Mahat was by the Impei’ceptible.
+39 vingtt which is characterized by darkness. And it was enveloped by Mahat, just as. Mahat was by the Impei’ceptible.
 
 l^ow the Evolving Ahanhtira^ modifying itself, created the
 
@@ -14742,9 +11993,6 @@ Vaik&rika. Taijasa. ft Bluitadi. IJ Taii-matra.
 THE EHOCEBS OF CREATION DESCRIBED.
 
 
-221
-
-
 o£ somitl oanie ilie Ether, wliicli lias the property of sound ;
 now ether is the soimd-elenient, and the eroiving Ahan’kara
 
@@ -14758,15 +12006,13 @@ created the Buhtle eiemeiit of form ; Light was produced from
 is the element of touch enveloped the element of form. And
 light, modifying itself created the subtle element of taste ;
 
-44 therefrom indeed water also was produced ; it has the pro-
-perty of taste ; now the element of form enveloped the water^’
+44 therefrom indeed water also was produced ; it has the property of taste ; now the element of form enveloped the water^’
 
 45 which is the element of taste. And the water, modifying
 itself, created the subtle element of smell ; therefrom Solid
 
 46 Mattert is produced ; smell is well known to be its property.
-Now in each element resides its peculiar subtle element ; there-
-by its possession of that subtle element is a well-established
+Now in each element resides its peculiar subtle element ; thereby its possession of that subtle element is a well-established
 fact. And hence those elements are uniform, inasmuch as no
 
 47 difference can be predicated. They are all neither calm, nor
@@ -14774,8 +12020,7 @@ terrible, nor crass. J This is the creation of the elements and
 the subtle elements from Ahankara when it is characterized
 by darkness,
 
-48 From Ahankara in its Modifying character, which is distin-
-guished by goodness and possesses goodness in excess, the
+48 From Ahankara in its Modifying character, which is distinguished by goodness and possesses goodness in excess, the
 modificatory creation began at once,
 
 49 The five organs of the intellect, § and the five organs of
@@ -14789,8 +12034,7 @@ them. Such the Vaikarika deities known to be. The
 nose; men say*^* these are the connected with the in-
 
 tellect for the purpose of pei’ceiving -sound and the other
-impressions. The pair of feet, the anus, the organ of genera-
-tion, the pair of hands, and the voice may I’ank as fifth with
+impressions. The pair of feet, the anus, the organ of generation, the pair of hands, and the voice may I’ank as fifth with
 
 * For dpo read apo ; for, the water was enveloped by the light which
 
@@ -14798,9 +12042,6 @@ preceded it ; but the change spoils the metre,
 t Sanghata. t Mudha. § Bnddhi.
 
 ii Taijasa. 1!" Manas. For vakshpato read c'ahsJiafe ?
-
-
-222
 
 
 CANTO XLV.
@@ -14811,8 +12052,7 @@ speech — that is the work for each of these organs respectively.
 
 Ether has the element* of sound only. When the element
 
-53 of touch accrued, Air comes into existence with two proper-
-tiesf ; touch is known to he its peculiar property. Moreover,
+53 of touch accrued, Air comes into existence with two propertiesf ; touch is known to he its peculiar property. Moreover,
 when to form accrued both the properties, sound and touch,
 
 54 then Fire also came into existence with its threej properties j
@@ -14831,8 +12071,7 @@ things.
 marks ; thereby they are known : they contain one another
 
 58 thi*oiigh their mutual interpenetration. Within the earth
-is contained all this|| visible and invisible world firmly en-
-closed. And those distinguishing marks are perceptible by
+is contained all this|| visible and invisible world firmly enclosed. And those distinguishing marks are perceptible by
 
 59 the organs of sense, and are recollected by reason of their
 permanency. They take each successive one the property of
@@ -14870,13 +12109,9 @@ t For read rvgrawrtsf
 THE PRODUCTION OF THE MUNDANE EGG.
 
 
-223
-
-
 The Soul,* liaviiig increased inside tlie egg sprung from Pra-
 
-64 kriti, took the name Brahma; it indeed was the first cor-
-poreal being, it indeed is called Piirnsha. And Brahma
+64 kriti, took the name Brahma; it indeed was the first corporeal being, it indeed is called Piirnsha. And Brahma
 
 65 existed first, the original maker of created beings. That egg
 enclosed all these three worlds with all that they contain
@@ -14906,16 +12141,14 @@ is limited by it.
 the name Bi*ahma, Just as one sunk in water, on emerging
 from, it, seems to he horn from waterj and flings the water
 
-72 away, so Brahma is both Prakriti and the Soiil§ The Im-
-perceptible is declared to be his sphere of action ;|| Jmice
+72 away, so Brahma is both Prakriti and the Soiil§ The Imperceptible is declared to be his sphere of action ;|| Jmice
 
 73 Bi’ahma is called Kshetra-jna, the Soul. A man should
 know all these characteristics of the Soul and its sphere of
 action.
 
 Such was this creation from Prakriti; and it is governed
-by the Sonl ; the fii'st stage of oreafion wms preceded by non -in-
-telligence, it became manifest like the lightning.
+by the Sonl ; the fii'st stage of oreafion wms preceded by non -intelligence, it became manifest like the lightning.
 
 
 * Ksbetra-jna. t Wovveshiitah
@@ -14923,9 +12156,6 @@ telligence, it became manifest like the lightning.
 J Wm jala-smnhhavah?
 
 § Yibha. II Kstetra-
-
-
-224
 
 
 CANTO XLVT.
@@ -14958,8 +12188,7 @@ Markandoya spoke.
 3 When ail this universe becomes dissolved in Nature,'^' this
 
 4 dissolution is designated ‘ natural 'f by the \vise. When the
-Imperceptible subsists within itself, and when all modifica-
-tion is suspended, Nature and the SoulJ subsist with samc-
+Imperceptible subsists within itself, and when all modification is suspended, Nature and the SoulJ subsist with samc-
 
 5 ness of character. Then both darkness and goodness subsist
 in equipoise, neither being in excess or in deficiency, and
@@ -14976,8 +12205,7 @@ life ;11 and his night during the dissolution is of the same
 
 # Prakyiti. t Prakyita. J Purusha. § Paresa.
 
-j| The text seems incorrect ; a bettor reading obtained from a MS. belong-
-ing to Baba Nagendra Chandra Basn, of Calcutta is utpatter for uipattir, and
+j| The text seems incorrect ; a bettor reading obtained from a MS. belonging to Baba Nagendra Chandra Basn, of Calcutta is utpatter for uipattir, and
 
 dyiif vai for dynsho. See verso 43.
 
@@ -15014,8 +12242,7 @@ he assumes the character of Brahma, he engages in creation.
 14 In the character of Brahma he creates mankind ; then
 possessing an excess of goodness, he becomes Yishnu and
 
-15 protects them righteously; then, with darkness prepondera-
-ting in him, he has Ruclra dissolves the whole universe with
+15 protects them righteously; then, with darkness preponderating in him, he has Ruclra dissolves the whole universe with
 its three worlds, and sleeps. He possesses the three qualities,
 
 16 and yet he is destitute of qualities. Just as he is at first the
@@ -15041,11 +12268,6 @@ creation.
 
 Idyaka (from U) be better, one who brings on the dissolution?
 
-29
-
-
-226
-
 
 CANTO XLTI.
 
@@ -15054,8 +12276,7 @@ CANTO XLTI.
 gods, and without beginning, who sits in the middle of the
 
 22 iotus-like earth, was born in the beginning. One hundred
-years is the full length of life for him, the liigh-souled, accord-
-ing to the true Brahmya computation. Hear from me how it
+years is the full length of life for him, the liigh-souled, according to the true Brahmya computation. Hear from me how it
 is reckoned.
 
 23 A kashtha is said to he composed of fifteen winks of the
@@ -15066,8 +12287,7 @@ it has been settled, thirty muhurtas ; and with thirty days
 
 25 are reckoned the two lunar fortnights and the month; of
 six months consists the sun’s half-yearly course; the two
-half-ye^idy courses on the south and north of the equator com-
-pose the year. Such a year is a day and night of the gods ;*
+half-ye^idy courses on the south and north of the equator compose the year. Such a year is a day and night of the gods ;*
 the day thereof is the sun’s northern half-yearly course.
 
 26 Now of twelve thousand divine years consist the four ages
@@ -15082,8 +12302,7 @@ age was three thousand divine years ; and three hundred
 years was its commencing twilight, which was indeed of that
 duration, and its closing twilight was of the same duration.
 
-29 The Dvapara age was two thousand years ; and its commen-
-cing twilight is declared to have been two hundi'ed years^^ and
+29 The Dvapara age was two thousand years ; and its commencing twilight is declared to have been two hundi'ed years^^ and
 
 30 its closing twilight was two hundred years. The Kali age
 is a thousand divine years, 0 brahman; two hundreds of
@@ -15093,8 +12312,7 @@ years are called its commencing and closing twilights.
 it has been laid down by the poets ; a thousand times this
 period ai’e called one of Brahma’s days.
 
-32 In one of Brahma’s days, 0 brahman, there may be four-
-teen Manus. They live according to their portions; that
+32 In one of Brahma’s days, 0 brahman, there may be fourteen Manus. They live according to their portions; that
 
 33 thousand is divided among them. The gods, the seven
 
@@ -15109,13 +12327,11 @@ THE COMPUTATION OP BRAHMANS LIFE.
 risMs, and Indra, Mann, and tlie kings kis sons, are created
 witk Mann and pass to dissolution with him in regular order.
 
-34 Seventy-one repetitions of the four ages, with a fraction in ex-
-cess, constitute a manvantara ; hear from me its computation in
+34 Seventy-one repetitions of the four ages, with a fraction in excess, constitute a manvantara ; hear from me its computation in
 
 35 human years. Thirty full crores reckoned duly, O brahman,
 
-36 and sixty-seven lakhs more by reckoning, and twenty thou-
-sands — this is the period of seventy-^one times the four ages
+36 and sixty-seven lakhs more by reckoning, and twenty thousands — this is the period of seventy-^one times the four ages
 without the excess fraction ; this is called a manvantara.
 
 37 Hear it from me in divine years ; eight hundred thousands
@@ -15135,8 +12351,7 @@ in the three worlds which have been dissolved into one ocean.
 
 41 That night is of exactly the same duration. At its termina-
 
-* This line as it stands in the text seems incorrect. The four ages con-
-tain 12,000 divine years or 4,320,000 human years, and 71 times this period
+* This line as it stands in the text seems incorrect. The four ages contain 12,000 divine years or 4,320,000 human years, and 71 times this period
 contain 8,52,000 divine years, or 306,720,000 human years. This latter
 period agrees with the enumeration in verse 36 (viz., 30,67,20,000 years), hut
 instead of the former the text gives 8,000 + 52,000, i. e., 60,000 divine years,
@@ -15147,16 +12362,12 @@ t This does not agree with verse 31, if we take the words this period
 to refer to verses 35, 36 and 37. In verse 31 one of Brahmd^s days is said to
 he 12,000,000 divine years or 4,320,000,000 human years, but 14 times the
 period mentioned in the latter verses contain 11,928,000 divine years, or
-4,294,080,000 human years. We must bring in here the excess fraction re-
-ferred to in verse 34, which by calculation is found to he f j thus 7i| times
+4,294,080,000 human years. We must bring in here the excess fraction referred to in verse 34, which by calculation is found to he f j thus 7i| times
 the yuga of 12,000 divine years = 857,l42f divine years of the manvantara
 and 14 times this last period exactly « 12,000,000 divine years of Brahma’s
 day. Similarly with regard to human years.
 
 J Bor dydti read dydnti t
-
-
-228
 
 
 CANTO XLvrr.
@@ -15192,8 +12403,7 @@ viz., these six, and the three described in Canto XI/F,
 Kranshtuki spoke^
 
 1 Tell me fully how Brahma, the adorable, the creator, the
-lord of all creatures, the master, the divine, created all crea-
-tures.
+lord of all creatures, the master, the divine, created all creatures.
 
 Markandeya spoke.
 
@@ -15219,15 +12429,13 @@ who has Brahma’s own form, god of the nniverse, changeless
 heard it is a name for water ; and in it he lies, hence he is
 called N'arayana.
 
-6 On awaking he knew that the earth had disappeared with-
-in that water, and then became desirous through reflection to
+6 On awaking he knew that the earth had disappeared within that water, and then became desirous through reflection to
 
 7 deli vert the earth therefrom. He assumed as of old in the
 kalpas and other times, other bodies such as those of a flsh, a
 tortoise and other animals, and likewise he took the body of
 
-8 a boar. The lord who is composed of the Y edas and sacri-
-fices assumed a heavenly form composed of the Yedas and
+8 a boar. The lord who is composed of the Y edas and sacrifices assumed a heavenly form composed of the Yedas and
 sacrifices, and entered the water ; he reached everywhere and
 
 9 existed everywhere. And the lord of the world raised the
@@ -15244,16 +12452,14 @@ the earth. Formerly when creation was burnt up by the
 totally consumed by that fire. The rocks were engulphed in
 that one ocean, and the water was driven together by the
 
-13 wind ; wherever they adhered and remained, there the moun-
-tains grew into being. Then he divided the earth, adorned
+13 wind ; wherever they adhered and remained, there the mountains grew into being. Then he divided the earth, adorned
 
 14 with seven dvipas ; and he fashioned the four worlds, the
 Bhur-loka aud the others, as before.
 
 While he pondered on creation, as of old in the kalpas and
 
-15 other times, he next became manifested as devoid of intelli-
-gence, as enveloped in darkness. Darkness, folly, infatuation,
+15 other times, he next became manifested as devoid of intelligence, as enveloped in darkness. Darkness, folly, infatuation,
 
 16 gloominess, and blind consciousness — ignorance,} composed of
 these five, became manifested out of the Supreme Soul.
@@ -15262,9 +12468,6 @@ Creation irrational became established in five ways while he
 17 was meditating. Externally and internally it was destitute of
 
 * Tanavahi t Sam-ud-dhara ; not in the dictionary. J A-vidyi,
-
-
-230
 
 
 CANTO XtVIl.
@@ -15279,8 +12482,7 @@ thought of creating another yet. While he was meditating
 on its creation, the animal world, in which the stream of life||
 
 19 is horizontal, IT came next into existence. Since its activities
-are displayed horizontally, hence it^^ is known as the tiryak-
-srotas.’’ Cattle and other quadrupeds are well-known as being
+are displayed horizontally, hence it^^ is known as the tiryaksrotas.’’ Cattle and other quadrupeds are well-known as being
 of that kind ; they are indeed characterized chiefly by igno-
 
 20 ranee and are unintelligent ; and they stray in wrong courses,
@@ -15294,12 +12496,10 @@ He thought even that creation was incapable of causation,
 
 22 and while he meditated, another came into existence'; now
 this, the third, was the group of beings in which the stream
-of life passed upwards ;Xt was characterized chiefly by good-
-ness. Those beings abound in pleasure and aflection ; they
+of life passed upwards ;Xt was characterized chiefly by goodness. Those beings abound in pleasure and aflection ; they
 
 23 are uncircumscribed outwardly and inwardly; and possess
-light* externally and internally ; they originated from an up-
-ward stream of life. How that third creation of the Supreme
+light* externally and internally ; they originated from an upward stream of life. How that third creation of the Supreme
 Being tvho was satisfied in soul thereat is known as the crea-
 
 24 tion of the gods. When that creation came into being,
@@ -15329,8 +12529,7 @@ THE CREATION PROM PRAKBITI ANB THE TIKARAS. 231
 
 Then lie meditated further on another creation which should
 
-25 he capable of causation and he the highest. While he medita-
-ted so, and meditated on truth, the group of beings in vhich
+25 he capable of causation and he the highest. While he meditated so, and meditated on truth, the group of beings in vhich
 the stream of life passes downwards,'* and which is capable
 of causation, t next became manifest out of the Impercepti-
 
@@ -15338,8 +12537,7 @@ of causation, t next became manifest out of the Impercepti-
 hence theyj are “ arvak-srotas and thej possess light§
 copiously ; they are characterized chiefly by ignorance and pas-
 
-27 sion. Hence they have abundance of suffering, and are con-
-tinuously engaged in action ; and they possess light externally
+27 sion. Hence they have abundance of suffering, and are continuously engaged in action ; and they possess light externally
 and internally. They are mankind and are capable of causation-
 
 28 Anugrahall was the fifth creation; it is disposed in four
@@ -15349,8 +12547,7 @@ ways, by contrariety, 1[ and by perfection,** by tranquillity ,tt
 moreover have knowledge of the past and of the present.
 
 30 The creation of the origins of the gross elements §§ and the
-gross elements II II is called the sixth; they all possess com-
-prehensiveness, and are prone to mutual division;*** and
+gross elements II II is called the sixth; they all possess comprehensiveness, and are prone to mutual division;*** and
 the origins of the gross elements are to be known as both
 impulsive and devoid of propensities.
 
@@ -15367,14 +12564,12 @@ produced the creation from Prakrit! wherein Intelligence pre-
 
 J For ta read te ? § Prakasa, see not© * p. 230.
 
-11 This is the Pratyaya-sarga or intellectual creation of the Sankhya philo-
-sophy. But S'ri-dhara explains it as an inferior creation of gods (deva-sarga),
+11 This is the Pratyaya-sarga or intellectual creation of the Sankhya philosophy. But S'ri-dhara explains it as an inferior creation of gods (deva-sarga),
 who are characterized by both goodness and ignorance. It is characterized
 by ignorance because it is nourished by the ignorauce among immoveable
 objects and the animal creation ; it is characterized by goodness, because it
 harmonizes with and thrives upon the perfection and satisfaction among
-mankind and the gods s and it is called Anugraha, because it favours (anu-
-grahaka) the several natural dispositions of those objects.
+mankind and the gods s and it is called Anugraha, because it favours (anugrahaka) the several natural dispositions of those objects.
 
 •jf Viparyaya, ** Siddhi. ft S'anti. Tushti.
 
@@ -15429,9 +12624,7 @@ gods.
 t For tato ^rddha-srotasdi^ read tathorddhva-srotasdm ?
 t Yaikfita. § Prakyita.
 
-II This is the creation of Nfladohita Eudra (see Canto LII) and of Sanat-
-knmara and the other mind-bom sons of Brahma, the Enmaras. This crea-
-tion is called prakrita because Eudra sprang into existence by himself, as
+II This is the creation of Nfladohita Eudra (see Canto LII) and of Sanatknmara and the other mind-bom sons of Brahma, the Enmaras. This creation is called prakrita because Eudra sprang into existence by himself, as
 mentioned in that canto, verse 3. It is also called vaikpta, because the
 Kumdras were created by Brahma in the form he assumed of a vikira
 (vikyiti-bhuta).
@@ -15440,14 +12633,10 @@ Kumdras were created by Brahma in the form he assumed of a vikira
 THE COUESE OF CREATION.
 
 
-233
-
-
 Markaiideya spoke.
 
 2 Creation is impregnated witli tke good and bad* actions of
-previous existence, 0 brahman ; and because of this well-
-known lawt, created beings, though they are destroyed in the
+previous existence, 0 brahman ; and because of this wellknown lawt, created beings, though they are destroyed in the
 dissolution, are not delivered, from the consequences of their
 actions.
 
@@ -15459,12 +12648,10 @@ his mind when Brahma was engaged in creation.
 namely, the gods, the Asuras and the pitris, and mankind, he
 
 5 infusedj: himself in the waters. The particle of darkness
-grew up in excess as the Praja-pati was rapt in medita-
-tion. Pirst then out of his buttocks, as he was desirous
+grew up in excess as the Praja-pati was rapt in meditation. Pirst then out of his buttocks, as he was desirous
 
 6 of creating, were produced the Asuras. And then he cast
-aside that body which was composed of the particle of dark-
-ness ; that body cast aside by him forthwith became IS'ight.
+aside that body which was composed of the particle of darkness ; that body cast aside by him forthwith became IS'ight.
 
 7 Being desirous of creating, he assumed another body and
 experienced delight j then were produced from his mouth the
@@ -15480,20 +12667,16 @@ by the particle of goodness ; the Pitris w’-ere produced from
 ci’eating the pitris, abandoned that body also, and when
 abandoned it became the Twilight tliat intervenes between
 
-11 day and night. Next the lord assumed another body charac-
-terized by the particle of passion, and then w’-ere pi’ccluced
+11 day and night. Next the lord assumed another body characterized by the particle of passion, and then w’-ere pi’ccluced
 
 12 Mankind who spring from the particle of passion. After
-creating mankind, the lord abandoned that body, and it be-
-came the Twilight that ends the night and begins the day.
+creating mankind, the lord abandoned that body, and it became the Twilight that ends the night and begins the day.
 
 13 Thus these bodies of the wise God of gods have become
 famed as the night and day, and the evening twilight and
 
 * For huiald Icuialair read husaldhusatair,
 t For hhijdtd read hhydtyd f t Or, united liimself with.
-
-30
 
 
 234 CANTO XLTHI.
@@ -15529,8 +12712,7 @@ devour^ it ” were called Yakshas, from yakshana, eating, ’§
 21 When the creator Bralima saw them, the hair of his head
 through his displeasure grew withered |[ and lost its erectibi-
 
-22 lity IT Through its downward gliding* * * '’^ it became the Ser-
-pents, ft and from its lossJJ of erectihility they are known as
+22 lity IT Through its downward gliding* * * '’^ it became the Serpents, ft and from its lossJJ of erectihility they are known as
 the Ahis or Snakes. Thereupon in anger at having seen the
 
 23 Serpents, he fashioned beings possessed with anger ;§§ they
@@ -15556,9 +12738,6 @@ if Samdrohava-hina. ** Sarpana. ft Sarpa. tt Hinatva.
 
 
 THE COURSE OF CREATION.
-
-
-235
 
 
 Hexti %vliile lie meditated on the earth,* * * * the Gandharvas
@@ -15625,9 +12804,6 @@ special way. tt C'handas. %% Stoma.
 §§ For uUa^ read uUhaij^.
 
 
-236
-
-
 CANTO XLTirr.
 
 
@@ -15640,8 +12816,7 @@ the anu-shtubh metre and the viraj metre.
 35 The mighty adorable god created at the beginning of the
 kalpa the lightning, the thunderbolts and the clouds, and
 
-36 the ruddy rainbows, and the periods of life.J And 'crea-
-ted things great and smalt were produced from his limbs.
+36 the ruddy rainbows, and the periods of life.J And 'created things great and smalt were produced from his limbs.
 
 Having created the fii*st four classes of beings, the gods
 
@@ -15653,8 +12828,7 @@ the Pisac'as, the Gandharvas and the bevies of Apsarases
 and snakes, and whatever is changeless and changeful
 stationary and moveable.
 
-39 Whatever actions they were severally endowed with ori-
-ginally at their creation, those very acticnis they are endowed
+39 Whatever actions they were severally endowed with originally at their creation, those very acticnis they are endowed
 
 40 with when they are created again and again. Noxiousness
 
@@ -15691,9 +12865,6 @@ B'armnjanU ?
 
 
 THE COURSE OF CREATION".
-
-
-237
 
 
 45 Snell then* were the creations of Brahma "vrhose origin
@@ -15736,8 +12907,7 @@ Markandeya spoke.
 
 8 While Brahmd was first creating and was meditating on
 trath, he created a thonsand pairs of human beings from his
-4 month, 0 Mnni ; when horn, they come into being, charac-
-terized chiefiy by goodness, and self-glorious. He created
+4 month, 0 Mnni ; when horn, they come into being, characterized chiefiy by goodness, and self-glorious. He created
 
 
 * For ta read tn f
@@ -15747,22 +12917,17 @@ terized chiefiy by goodness, and self-glorious. He created
 t For sarvaryjyante read s^armryante ?
 
 
-238
-
-
 CANTO XLIX.
 
 
 another thousand pairs from his breast; they were all
-characterized chiefly by passion, and were fiery and impa-
-tient. And be created again another thousand miserable
+characterized chiefly by passion, and were fiery and impatient. And be created again another thousand miserable
 pairs from his thighs;* they were known as characterized
 
 chiefly by passion and ignorance, and as enviously disposed.
 
 And he created another thousand pairs from his feet ; they
-were all characterized chiefly by ignorance, and were un-
-fortunate and little of understanding.
+were all characterized chiefly by ignorance, and were unfortunate and little of understanding.
 
 Then those living beings, produced in pairs, were rejoicing
 
@@ -15781,9 +12946,7 @@ pairing originated in this kalpa. By meditation and thought
 Lse human beings give birth to offspring once._ Sound and
 the other objects of sense were pure severally in their five
 
-“ This was this creation of the human race which the Prajd-
-pati formerly produced. Sprung of his lineage they worship-
-ped this world, and they pay homage to rivers lakes, and
+“ This was this creation of the human race which the Prajdpati formerly produced. Sprung of his lineage they worshipped this world, and they pay homage to rivers lakes, and
 Las and the mountains also. During that age those human
 leings lived indeed feeling little cold or heat. They revived
 
@@ -15803,40 +12966,7 @@ always happy ; there was neither heat nor cold in excess ; as
 19 time passed by, they attained wonderful perfection. More-
 
 
-8
-
-
-10
-
-
-11
-
-
-12
-
-
-13
-
-
-14
-
-
-15
-
-
-16
-
-
-17
-
-
-18
-
-
 M. -m
-
-
-239
 
 
 THE CO0&SE OF CEEATIOS'.
@@ -15884,8 +13014,7 @@ certainly fall from other trees, 0 brahman ; and they yield
 cavities of the same fruit of those trees was produced very
 strong honey, which excelled in smell, colour and taste, and
 
-32 which no bee had made ; on that they subsisted at the begin-
-ning of tlie Treta age.
+32 which no bee had made ; on that they subsisted at the beginning of tlie Treta age.
 
 Afterwards in course of time those ^people grew covetous
 
@@ -15902,15 +13031,11 @@ t Does this mean the trees were called houses (pfiha) from the offspring
 (^arWa) begotten there ?
 
 
-240
-
-
 CANTO XLIX.
 
 
 the trees^ round j and those trees perished hy reason of that
-34 wrong conduct on their part. Strife sprang up in conse-
-quence ; their faces felt cold and heat an/l hunger. Then
+34 wrong conduct on their part. Strife sprang up in consequence ; their faces felt cold and heat an/l hunger. Then
 for the sake of combination and resistance they made towns
 85 at first ; and they resort to fortresses in inaccessible deserts
 and wastes, in mountains and caves ; also they industriously
@@ -15923,8 +13048,7 @@ intended for measurement.
 the dust of the earth, and the point of a hair, and a young
 louse, J and a louse, § and the body of a barley-corn ;|| men
 
-38 say each of those things is eight times the size of the preced-
-ing thing.®l[ Eight barley-corns egual an angula or finger-
+38 say each of those things is eight times the size of the preceding thing.®l[ Eight barley-corns egual an angula or finger-
 
 39 breadth six finger-breadths are a pada,tt and twice that
 is known as a span and two spans make a cubit measured
@@ -15965,9 +13089,6 @@ tac' dakrnr yatnatas t% te from a MS. in the Sanskrit College Library.
 
 
 THE BEYELOPEMENT OF MANKIND.
-
-
-241
 
 
 braliman,* the piira,t and the khetaka, the droni-niukliat
@@ -16016,19 +13137,12 @@ JJ This word is said to meah “ a village, market-town, the capital of a
 district,” hut here it denotes a particular portion of the pura ; does it mean
 the baz^r or the “ area occupied with the market and shops ” ?
 
-§§ This word said to mean ** the capital of a district, the chief of 400 vil-
-lages,” but here it evidently refers to the lowest part of the pura j does it
+§§ This word said to mean ** the capital of a district, the chief of 400 villages,” but here it evidently refers to the lowest part of the pura j does it
 mean the area inhabited by the labouring population or the lowest classes ” ?
 
 [| II For prdMram parikhd-hinam read prdkdm-parihhd^Mnam ? Or, is the
 verse intended to say that a town surrounded with a rampart but without a
-fosse is a mfina-vat ? This would agree better ,mth the meaning of varma-
-pat. Prof, Sir M. Monier- Williams explains it as ‘‘ an unfortified (?) iowm”
-
-31
-
-
-242
+fosse is a mfina-vat ? This would agree better ,mth the meaning of varmapat. Prof, Sir M. Monier- Williams explains it as ‘‘ an unfortified (?) iowm”
 
 
 CANTO XLIX.
@@ -16036,8 +13150,7 @@ CANTO XLIX.
 
 called a varma-vat j and a sakha-nagaraka’^ is anotlier kind of
 
-47 hum wliicli possesses ministers and feudatory princes. More-
-over, a dwelling placet whicli abounds witli Mdras and water, J
+47 hum wliicli possesses ministers and feudatory princes. Moreover, a dwelling placet whicli abounds witli Mdras and water, J
 wberc fche cultivators are independently prosperouS 5 § and
 wbicb is situated on land that can be used for fields, is called
 
@@ -16054,8 +13167,7 @@ who have bi'ought their ntensils there on carts, where there
 is no barter, is called a ghosha ;tt sitnation on the land
 may be wherever they please.
 
-51 Those ^people thus made towns and other abodes for them-
-selves to dwell in ; they made houses for the several couples
+51 Those ^people thus made towns and other abodes for themselves to dwell in ; they made houses for the several couples
 
 * This word is said fco mean, ‘‘a * branch- town,’ a suburb,” but here is seemS
 to mean a ‘ town with branches,’ a *• capital town ” or ** metropolis.”
@@ -16067,11 +13179,9 @@ t For sudra’jala-prdydh read mdrafala^prdyd ?
 § For -hrsMbaldJ^ read -%fishibald ?
 
 II The village. The word thus denotes a local area, and includes both the
-dwellings and the fields. It seems to designate specially the large and pros-
-perous villages-
+dwellings and the fields. It seems to designate specially the large and prosperous villages-
 
-^ The word is ezplained in the dictionary as a dwelling-place, dwelling-
-house, abode, residence,” but here it is explained to be a mart,” apparently
+^ The word is ezplained in the dictionary as a dwelling-place, dwellinghouse, abode, residence,” but here it is explained to be a mart,” apparently
 either permanent or temporary. It corresponds to the modem (Persian)
 word ganj, or the vernacular word Mt (Sanskrit ha^ta), in Bengal. The word
 msati appears as hasti in the modern vernaculars, and means in Bengal
@@ -16085,14 +13195,10 @@ trade, is note-worthy.
 Or akrimi* These words are not in the dictionary. If we might read
 d-krami instead, the word would be rather appropriate.
 
-tt This word is said to mean ” a station of herdsmen.” It appears to de-
-note a temporary dwelling only, resorted to for purposes of pasturage.
+tt This word is said to mean ” a station of herdsmen.” It appears to denote a temporary dwelling only, resorted to for purposes of pasturage.
 
 
 THE DEVELOPEMENT OP MANKIND.
-
-
-243
 
 
 52 to dwell in. As trees were their first kind of bouses, so, with
@@ -16122,14 +13228,12 @@ existed on the earth scanty of water before that, became* * § |f
 deep flowing channels.
 
 59 And then by their union with the earth plants came into
-existence, of fourteen kinds, both those which grow on un-
-cultivated soil, and those which grow unsown, both culti-
+existence, of fourteen kinds, both those which grow on uncultivated soil, and those which grow unsown, both culti-
 
 60 vated and wild. And trees and shrubs bearing flowers and
 fruit in their seasons were produced. This manifestation of
 
-61 vegetation appeared first in the Treta age. On that vegeta-
-tion the people subsist in the Treta age, O Muni, And then
+61 vegetation appeared first in the Treta age. On that vegetation the people subsist in the Treta age, O Muni, And then
 
 62 lapsing into novel passion and covetousness those people next
 took possession of rivers and fields, mountains, and trees,
@@ -16149,9 +13253,6 @@ river,** a meaning not given in the dictionary ; if we read uimna-gab fsni as
 usual, we must read ydh for ye,
 
 •ff For dbhmat road ahhamn f
-
-
-244
 
 
 CANTO XLit.
@@ -16199,8 +13300,7 @@ IF See note ** p. 165.
 trace it out in Roxburgh.
 
 ft Fas^alum sorohicnlatum, the modern hodo, Eoxb. p. 93. He says “ The
-seed is an article of diet with the Hindoos, particularly with those who in-
-habit the mountains and most barren parts of the country, for it is in such
+seed is an article of diet with the Hindoos, particularly with those who inhabit the mountains and most barren parts of the country, for it is in such
 countries only where it is cultivated, it being an unprofitable crop, and not
 sown where others more beneficial will thrive. I have eaten of the boiled
 grain, and think it as palatable as rice.^’
@@ -16222,9 +13322,6 @@ ftt See note H p. 84,
 THE BEYEEOFEMENT.OF MAlfKim
 
 
-245
-
-
 pulse, and chick-peat and hempj are known as ike seven
 teen classes. These are the olden kinds of cultivated plants,
 
@@ -16244,8 +13341,7 @@ do not spring forth again.
 Thereupon the adorable self-existent Brahma devised
 
 74 means of livelihood for the advancement of those people, and
-the perfection of the hands which results from work. Thence-
-forward plants were produced, which must ripen after plougli-
+the perfection of the hands which results from work. Thenceforward plants were produced, which must ripen after plougli-
 
 75 ing. But when their livelihood was thoroughly ordained, the
 
@@ -16265,8 +13361,7 @@ II See note ^ p. 165,
 Yattila is not in the dictionary. For yattild read jaHildh.
 
 Goi» harbata, Eoxb. p. 649 ; it is a coarse grass, and cattle do not eat it.
-It is also said to mean Eedysamm lago%>odioides, which is mentiouced by Eox-
-burgh (p. 573), but of which I find no description in his work.
+It is also said to mean Eedysamm lago%>odioides, which is mentiouced by Eoxburgh (p. 573), but of which I find no description in his work.
 
 ft Cyperus rotundus, Eoxb. p. 66 5 a common grass, the roots of which dried
 and powdered are used as a perfume.
@@ -16275,16 +13370,12 @@ JJ This has been mentioned in Canto XXXII, verse 11, and is described in
 the dictionary as “ a kind of wild panic } a species of grain.’* I find that
 Carpopogon pruriens is assigned by Eoxburgh to the Sanskrit word mai'hati
 (p, 553). That is a common legume, but he says no use seems to be made of
-it, except that the hairs of the legumes are used as a vermifuge and are be-
-lieved to be poisonous*
+it, except that the hairs of the legumes are used as a vermifuge and are believed to be poisonous*
 
 §§ This is not in the dictionary, and I do not know what it is.
 
 |j 11 Prasrish|a. Does this mean that these plants grow only in a cultivated
 state ?
-
-
-246
 
 
 CANTO h.
@@ -16308,8 +13399,7 @@ proper laws. G-andharvajl is the sfthere of the various clauses
 eighty-eight thousand rishis who live in perpetual chastity
 has been traditionally declared to be that of the inhabitants
 
-80 of Jupiter. The sphere of the Seven Rishis1[ has been tx^adi-
-tionally declared to be that of hermits. Prajapatya** is the
+80 of Jupiter. The sphere of the Seven Rishis1[ has been tx^aditionally declared to be that of hermits. Prajapatya** is the
 sphere of householders; the abode of Brahma is for those
 men who have abandoned all worldly concerns ; the world
 of immortality is for yogis — such is the ordinance of the
@@ -16346,10 +13436,7 @@ but this seems inappropriate.
 THE CEBATION OF THE NINE SAGES.
 
 
-247
-
-Brahma then created the Mann Svdyamhhtwa and his wife 8'ata-
-ritpd — They had two sons Priya-vrata and TJtkina-jpdda^ and also two
+Brahma then created the Mann Svdyamhhtwa and his wife 8'ataritpd — They had two sons Priya-vrata and TJtkina-jpdda^ and also two
 daughters* Mudi married one daughter Eiddhi and hegat Yajna and
 Bahshind.
 
@@ -16380,11 +13467,9 @@ condition is stationary are known to be subject to the three
 qualities :t such was the constitution of created things,
 immoveable and moveable.
 
-4 When all that offspring of him, the wise one, did not in-
-crease, he created other mind-born sons like unto himself, viz*,
+4 When all that offspring of him, the wise one, did not increase, he created other mind-born sons like unto himself, viz*,
 
-5 Bhrigu, Pulastya, Pulaha, Kratu, and Angiras, Maric'i, Dak-
-sba, and Atri, and the mind-born YasishthaJ — these were the
+5 Bhrigu, Pulastya, Pulaha, Kratu, and Angiras, Maric'i, Daksba, and Atri, and the mind-born YasishthaJ — these were the
 
 6 nine sons of Brahma, they are positively mentioned in the
 Pura^as.
@@ -16399,9 +13484,6 @@ Kshetra-jiia.
 t Goodness, passion, and ignorance,
 
 % For VaBshiham read Vasishtham*
-
-
-248
 
 
 CANTO L,
@@ -16428,12 +13510,10 @@ natures ; and he divided the male nature into eleven parts.
 into many parts with men, gentle and cruel, calm, black and
 white.
 
-13 Next the lord Brahma became the guardian of his off-
-spring by creating the first Manu Svayambhuva,t begotten .
+13 Next the lord Brahma became the guardian of his offspring by creating the first Manu Svayambhuva,t begotten .
 
 14 from, and like unto himself, 0 brahman, J and the woman
-S'ata-rupa, who was cleansed from blemishes thi’ough austeri-
-ties- The divine and mighty Manu Sv%ambhuva took ber
+S'ata-rupa, who was cleansed from blemishes thi’ough austerities- The divine and mighty Manu Sv%ambhuva took ber
 
 15 for his wife. And through him her husband S'ata-rdpa
 brought forth two sons, Priya-vrata and TJttana-pada, famed
@@ -16467,9 +13547,6 @@ verse 19.
 daksha's offspring.
 
 
-249
-
-
 And Dakslaa moreover begat twenty and four daughters of
 
 20 Prasiiti ; hear also from me their names in order — S'raddhi
@@ -16477,16 +13554,14 @@ And Dakslaa moreover begat twenty and four daughters of
 (Satisfaction), Pushti (hTourishment), Medha (Mental Yigour),
 
 21 and Kriya (Action), Buddhi (Intelligence), Lajja (Modesty),
-Vapus (Bodily Beauty), S'anti (Tranquillity), Siddhi (Per-
-fection), and Kirti (Fame) the thirteenth. The lord Dharma
+Vapus (Bodily Beauty), S'anti (Tranquillity), Siddhi (Perfection), and Kirti (Fame) the thirteenth. The lord Dharma
 took these daughters of Daksha for his wives.
 
 22 Besides them and younger were the eleven lovely-eyed
 daugMeTS--K)ijkti (Celebrity), and Sati (Truth), Samhhuti
 (Fitness), Smriti (Memory), Priti (Affection), and Kshama
 
-23 (Patience), and Sannati (Humility),* and Anasuya (Sin-
-cerity), X/rja (Strength), Svaha (the oblation to the gods),
+23 (Patience), and Sannati (Humility),* and Anasuya (Sincerity), X/rja (Strength), Svaha (the oblation to the gods),
 and Svadha (the oblation to the pitris). The Rishis Bhrigu,
 
 24 Bhavat and Maricl, and the Muni Angiras also, Pulastya
@@ -16498,19 +13573,16 @@ took these daughters, Khyati and the others, in marriage.^
 SVaddha gave birth to Kama (Love); and S'ri|j to Bar pa
 
 26 (Pride) ; Dhriti to Kiyama (Restraint) ber son; and Tushti
-also to Santosha (Contentment) ; Pushti to Lobha (Covetous-
-ness) ; Medha to S'ruta (Revelation) ; Eadya to Danda
+also to Santosha (Contentment) ; Pushti to Lobha (Covetousness) ; Medha to S'ruta (Revelation) ; Eadya to Danda
 (Punishment), Naya (Prudence), and Yinaya (Decorum) ;
 
 27 Buddhi gave birth to Bodha (Wisdom) ; and Lajja to Yinaya
 (Decorum); Yapus to Yyavasaya (Industry) her son; and
 
 28 S'anti gave birth to Kshema (Ease); Siddhi to Sukha
-(Happiness) ; Kirti to Yasas (Renown). These were the off-
-spring of Dharma,
+(Happiness) ; Kirti to Yasas (Renown). These were the offspring of Dharma,
 
-Slie1[ bare by Kama a grandson to Dharma, namely, Har-
-sha (Joy) who brims oyer with joyousness.
+Slie1[ bare by Kama a grandson to Dharma, namely, Harsha (Joy) who brims oyer with joyousness.
 
 ^ For Santatis in the text read Sannatis see Canto LIT, v. 24.
 t That is, Siva ; and he married Sati. She put an end to herself in
@@ -16526,17 +13598,11 @@ ll 1, e, Lakshmi.
 
 ^ This seems obscure.
 
-32
-
-
-250
-
 
 CANTO L.
 
 
-29 Fow Hiips4 (Injury) was the wife of A-dharma (Unright-
-eousness) ; and Anrita (Falsehood) was born of her, and a
+29 Fow Hiips4 (Injury) was the wife of A-dharma (Unrighteousness) ; and Anrita (Falsehood) was born of her, and a
 daughter Nirriti (Destruction) was horn of her, and two sons
 
 30 Faraka (Hell) and Bhaya (Fear), and Maya (Illusion) and
@@ -16548,10 +13614,8 @@ to Mrityu (Death) w'ho carries created beings away, and
 And Vyadhi (Sickness), Jara (Old Age), Sbka (Grief),
 Trishna (Thirst) and Ki’odha (Anger) were begotten by
 
-32 Mrityu; or all these, who have the characteristics of A-dhar-
-ma, are traditionally declared to have sprung from Duhkha.
-Fo wife have they, nor son ; they all live in perpetual chas-
-tity.
+32 Mrityu; or all these, who have the characteristics of A-dharma, are traditionally declared to have sprung from Duhkha.
+Fo wife have they, nor son ; they all live in perpetual chastity.
 
 33 Firriti also 'was the wife of Mrityu^ and Mrityu had another
 wife called A-lakshmi (111 Fortune) ; and by tbe latter Mrityu
@@ -16590,8 +13654,7 @@ X The “Unendurable,’' “ Intolerable.”
 
 THE MANDATE TO ‘THE YAKSHA BUHSAHA. 25l
 
-40 dressed Bralima, the store-house of austerities,* the fore-
-father of the worlds, he who is entirely consubstantial with
+40 dressed Bralima, the store-house of austerities,* the forefather of the worlds, he who is entirely consubstantial with
 Brahma, the pure, the cause of the. universe, the changeless.
 
 Brahma spoke.
@@ -16612,12 +13675,10 @@ Brahma spoke.
 43 “Thy refuge shall he men’s houses, and unrighteous men
 shall he thy strength. Thou shalt be satisfied, my child, with.
 
-44 their neglect to perform the constant sacrifices. And spon-
-taneous boils shall he thy raiment ; and for foodf I give to
+44 their neglect to perform the constant sacrifices. And spontaneous boils shall he thy raiment ; and for foodf I give to
 thee whatever is injured, and what is infested with vermin,
 
-45 and what has been gazed into by dogs, likewise what is con-
-tained in broken pots, what has been made still by the breath
+45 and what has been gazed into by dogs, likewise what is contained in broken pots, what has been made still by the breath
 from a marCs month, the fragments that remain from a meal,
 what is unripe, that on which perspiration has fallen, f what
 
@@ -16644,9 +13705,6 @@ For a-sviwiam read d~svinnam ?
 f TJpa-ghatft-Vat ; not in the dictionary.
 
 
-252
-
-
 CANTO' L.
 
 
@@ -16654,9 +13712,7 @@ not performed tlieir ablutions, have sacrificed or* * * § given in
 
 49 . alms, without faith or in contempt ; what has been cast away
 
-without the pi’evious use of water, and what has been render-
-ed valueless, and w^hat has been exhibited in order to be dis-
-carded, and what has been given away through utter amaze-
+without the pi’evious use of water, and what has been rendered valueless, and w^hat has been exhibited in order to be discarded, and what has been given away through utter amaze-
 
 50 ment ; what is coiTupt, and what has been given away by a
 person in anger or in pain, that 0 goblin,*^ thou ehalt obtainf.
@@ -16664,8 +13720,7 @@ as thy reward ; and whatever the son of a re- married widow
 
 51 does as an undertaking for the next world, and whatever
 the daughter of a re-married widow so does ; that, O goblin,
-shall he for thy satisfaction. The wealth-procuring cere-
-monies in which a maiden engages along with her lover for
+shall he for thy satisfaction. The wealth-procuring ceremonies in which a maiden engages along with her lover for
 
 52 the sake of the obligation of dower, and the ceremonies also
 which are jperf armed according to wicked books, shall he for
@@ -16685,8 +13740,7 @@ by wicked books, deeds or conversation.
 ing cookery useless, and in interrupting cookery ; and thy
 
 56 dwelling shall perpetually be in household ^vrangling. And
-men shall dread thee§ in what pines away,jj and in bullock-
-carts and other conveyances which are shnt up, in rooms which
+men shall dread thee§ in what pines away,jj and in bullockcarts and other conveyances which are shnt up, in rooms which
 
 57 are not sprinkled at twilight, and at death. On the occasions
 of eclipses of the stars^ and planets, and at the appearance
@@ -16734,15 +13788,13 @@ and then saying this is for thee.”
 food according to rule, who is pure within and without, who
 
 64 is free from covetousness, who governs his wife.J Abandon
-that house, 0 goblin, where the gods and the pitris are wor-
-shipped with their respective oblations, and where the female
+that house, 0 goblin, where the gods and the pitris are worshipped with their respective oblations, and where the female
 
 65 relatives and guests are honoured. And abandon that house
 also, where concord§ dwells at home among the children, the
 aged, the women and men, and among the various classes of
 
-66 kinsmen. Abandon that house, O goblin, where the women-
-folk are delighted, are not eager to go outside, and are always
+66 kinsmen. Abandon that house, O goblin, where the womenfolk are delighted, are not eager to go outside, and are always
 
 67 modest. Abandon that house, 0 goblin, at my command,
 where the bedding and viands are suited to the ages and rela-
@@ -16760,9 +13812,6 @@ Gramya-bhuj.
 J For ^jita-stHkas read jita-strihas f
 
 § For maitri-gfihe read maitri gfihe f
-
-
-254
 
 
 CANTO h.
@@ -16789,8 +13838,7 @@ who feeds on the food which has been left by her family and
 engrossed with sacrifice, study, discipline and alms-giving, and
 who has made his livelihood by means of the performance of
 
-76 sacrifices, teaching, and receiving alms.* And abandon, 0 Buh-
-saha, the kshatriya who is always energetic in alms-giving,
+76 sacrifices, teaching, and receiving alms.* And abandon, 0 Buhsaha, the kshatriya who is always energetic in alms-giving,
 study, and sacrifice, and who earns his livelihood from good
 
 76 taxes and by the occupation of arms. Abandon the stainless
@@ -16798,8 +13846,7 @@ vaisja, who is endowed with the three previous virtues,! and
 who gains his livelihood from the keeping of cattle and trade
 
 77 and cultivation. Abandon also the siidi'a, who is diligent in
-alms-giving, sacrifice and the service of dvijas, and who sup-
-ports himself by menial service under brahmans and other
+alms-giving, sacrifice and the service of dvijas, and who supports himself by menial service under brahmans and other
 dvijas, 0 goblin.
 
 78 “ In whatever house the master of the house earns his
@@ -16822,9 +13869,6 @@ houses where the sun sees not the beds, and where fix-e and
 
 
 TEE MANDATE TO THE YAKSHA DUHSAHA.
-
-
-255
 
 
 water are constantly kept, and where the lamps behold the
@@ -16880,9 +13924,6 @@ t This is forbidden because the tree is holy.
 § Modak^ini ; a^in, from as, to eat, not in fc ho dictionary.
 
 
-256
-
-
 CANTO L.
 
 
@@ -16890,11 +13931,9 @@ CANTO L.
 the habitation where the unarmed, the deities, and those who
 bear arms without engaging in battle, are esteemed worthy
 
-94 of honour by men. E-oain not in tliat house, where are cele-
-brated as of yore the great urban and rural festivals which
+94 of honour by men. E-oain not in tliat house, where are celebrated as of yore the great urban and rural festivals which
 
-95 were famous of old. Visit those unlucky men who fan them-
-selves with winnowing fans,J: and who bathe with the water
+95 were famous of old. Visit those unlucky men who fan themselves with winnowing fans,J: and who bathe with the water
 poured from jars§ or with the drops of water from cloths,
 
 96 and with ws^ter splashed up by the tips of their nails. Join not
@@ -16902,15 +13941,12 @@ thyself with the man w'ho establishes the country customs,
 the conventional ordinances, the laws regarding kinsmen,
 
 ' who performs the victorious homa oblation and the auspicious
-saciifice to tbe gods, who maintains perfect personal purifi-
-cation according to the precepts, and who fashions the pub-
-lic talk,”
+saciifice to tbe gods, who maintains perfect personal purification according to the precepts, and who fashions the public talk,”
 
 Markandeya spoke.
 
 97 Having spoken thus to Duhsaha, Brahma disappeared from
-sight there, and the other followed the command of the lotus-
-born god*
+sight there, and the other followed the command of the lotusborn god*
 
 ♦ For vrishahhairdvato read vi'ishahhairdvatau. f
 f For halpyate read kalp^/ete or 'kalpyante ?
@@ -16934,8 +13970,7 @@ The Offspring of Bahsaha,
 
 Bu^aha had eight sons and eight daughters — their names an
 mientioned — The evil functions of the several sons and daughters are
-described^ and the remedies against them — Their offspring are men-
-tionedj and their evil actions described.
+described^ and the remedies against them — Their offspring are mentionedj and their evil actions described.
 
 These beings are almost all persrnifications of physical injuries^
 moral vices and social ofences,
@@ -16994,8 +14029,7 @@ must ahv ays say, May fate be auspicious ! ” And when any-
 
 13 thing had is heard or spoken, let praise be offered to Sira,
 and to Brahma, the spiritual preceptor of all that exists both
-moveable and immoveable, and to each person’s own parti-
-cular family-deity.
+moveable and immoveable, and to each person’s own particular family-deity.
 
 14 The son who finds delight in always interchanging the
 foetus between one womb and another, and in interchanging
@@ -17023,8 +14057,7 @@ f Yidhftraua; not in the dictionary. % Word of Fate.
 
 § The Interchanger. || Anga-dhrish, the Assailer of the body.
 
-% S'aknui, a Bird (in general). The word hm'ataih in the text is not sup-
-ported by the MSS, and seems wrong. They read S'ahimik (which I have
+% S'aknui, a Bird (in general). The word hm'ataih in the text is not supported by the MSS, and seems wrong. They read S'ahimik (which I have
 
 adopted) or Munamt ** an omen,”
 
@@ -17034,9 +14067,6 @@ hha^gatas as an adji&ctive to S*ak>i{mh
 
 
 THE OPPSPRING 01 HUHSAHA.
-
-
-259
 
 
 Anotlier son* stationed in tlie borders of the cheeks f<;>r
@@ -17058,8 +14088,7 @@ Another most terrible son,t moreover, destroys the fruit
 a^inst him by constant personal purification, by writing out
 famous spells, by wearing auspicious garlands and other
 
-23 decorations^ by dwelling in well-cleaned houses, and by abstain-
-ing from over-exertion, O brahman
+23 decorations^ by dwelling in well-cleaned houses, and by abstaining from over-exertion, O brahman
 
 The other son Sasya-hanJ moreover is he who destroys the
 
@@ -17079,8 +14108,7 @@ W jpassions, and by resistance with the thought ‘ She is inciting me
 to these acts.^ When one is railed against or beaten by
 
 28 another, one should -wisely think ‘ she is inciting him,’ and
-should not fall into subjection to her. In this mundane exis-
-tence, where there are other men’s wives and other adhering
+should not fall into subjection to her. In this mundane existence, where there are other men’s wives and other adhering
 
 29 objects^ the wise man should consider, ‘ She is inciting my
 mind and my soul here.’
@@ -17119,8 +14147,7 @@ from men and also their food. She is hard to be restrained. §
 She takes the success which men have accomplished from
 
 35 their business offices and from their abodes, 0 brahman. She
-is constantly taking the fluid and the milk out of cows’ ud-
-ders and women’s breasts, the ghee out of curdled milk, the
+is constantly taking the fluid and the milk out of cows’ udders and women’s breasts, the ghee out of curdled milk, the
 oil out of sesamum seed, and the spirituous liquor out of the
 
 36 liquor-stores, the colour out of saffronij and 'other colow'ed
@@ -17198,8 +14225,7 @@ terror among mankind, is she who renders a man, or even
 48 a woman, newly hated, iNTow in order to vanquish her,
 one shonld offer an oblation§§ of sesamum seed moistened
 with honey, milk and ghee ; and one should also perform
-a sacrifice which will procure friends in order to van-
-quish her.
+a sacrifice which will procure friends in order to vanquish her.
 
 * The Bewiiderer.
 
@@ -17220,17 +14246,13 @@ The Stealer of the Memoiy- ft Ths Stealer of seed.
 5J The Hater §§ Momajet ; verb from boma ? Not in the dictiomiy.
 
 
-282
-
-
 CANTO U.
 
 
 49 Now these sons and daughters have thirty-eight children^
 O brahman ; hear from me their names.
 
-50 Vijalpa (Chatterer) was Dantakrishti’s daughter, and Kala-
-ha (Quarreller) also. Vijalpa indulges in contemptuous^
+50 Vijalpa (Chatterer) was Dantakrishti’s daughter, and Kalaha (Quarreller) also. Vijalpa indulges in contemptuous^
 
 51 false and corrupt talk. In order to vanquish her, let the wise
 house-holder ponder on her and preserve his self-control.
@@ -17251,8 +14273,7 @@ cultivation of land and in the profits of trade let men always
 and whatever other beings ai’e named according to their
 classes, let these, when duly adored, always become pacified.
 
-56 By the favour of Maha-deva,§ and by the counsel of Mahes-
-varall let all these soon become satisfied with regard to men.
+56 By the favour of Maha-deva,§ and by the counsel of Mahesvarall let all these soon become satisfied with regard to men.
 
 57 When pleased let them cast aside every evil deed and evil
 work, and every result that springs from the great sins, and
@@ -17323,8 +14344,7 @@ measures for his safety, O brahman. If they are bom inside
 
 71 a house or if likewise water should settle in a house, a man
 .should abandon that honse and also a house on the top of
-which pigeons alight. Wizen a hawk, a pigeon, and a vul-
-turc, a ci’ow, and an owl have entered a house, O brahman,
+which pigeons alight. Wizen a hawk, a pigeon, and a vulturc, a ci’ow, and an owl have entered a house, O brahman,
 
 72 one shonld prophesy the end of the residents in that dwelling,
 A wise man should abandon such a house and should employ
@@ -17345,9 +14365,6 @@ f For tdla-ndketana^ read tdlu-nikeianah, who resides in the palate ?
 11 For gridhrolizkais' read gridhroMhdu ?
 
 
-264
-
-
 CANTO LI.
 
 
@@ -17366,8 +14383,7 @@ G-arbha-hantri had a son Highna’^ and a daughter Mohani.f
 has eaten it, the latter beguiles J it. Through her beguiling,
 
 78 the offsjpring are born as snakes, frogs, tortoises, and reptiles
-also, or yet again as ordure. The son may enter into the six-
-months pregnant woman who in waywardness eats fiesh§ ; or
+also, or yet again as ordure. The son may enter into the sixmonths pregnant woman who in waywardness eats fiesh§ ; or
 
 79 into the woman, who seeks the shade of a tree by night or
 at a place where three or four roads meet, who stands in a
@@ -17380,21 +14396,18 @@ And Sasya-hantyi hadt one son named Kshudraka (Puny).
 81 He is constantly injuring the growth of the crops, when he
 has gained a weak place. Listen thereto. And he, who sows
 
-82 highly pleased at the beginning of an inauspicious day, pro-
-vides an entrance behind him for t^his sprite into the fields
+82 highly pleased at the beginning of an inauspicious day, provides an entrance behind him for t^his sprite into the fields
 which touch other fields alongtheirboundaries.il Hence it
 is the proper practice that a man should worship the moon,
 
-8S and then carry out his undertaking and sow his seed in glad-
-ness and contentment, with a companion.
+8S and then carry out his undertaking and sow his seed in gladness and contentment, with a companion.
 
 84 Myojika, who was Duhsaha’s daughter as I have said,
 gave birth to four daughters who bear the names Prao'odika
 (Instigator), Matta (Intoxicated), Unmat ta (Frantic) and Pra-
 
 85 matta (Wanton). Now they are always entering into young
-women in order to destroy them, and incite them here vehe-
-mently towards unrighteousness with the appearance of
+women in order to destroy them, and incite them here vehemently towards unrighteousness with the appearance of
 righteousness, and to love which bears no appearance of love,
 
 86 and to that which is not wealth with the appearance of
@@ -17407,9 +14420,6 @@ tl Antopasangishn. tJpa-sangin, a word not in the dictionary-
 
 
 THE OFPSPEIHG OP DTJHSAHA.
-
-
-265
 
 
 wealtlij and to a final emancipation from existence wMcli
@@ -17428,8 +14438,7 @@ of water clinging to them.
 
 Virodhini had three sons, C'odaka (Instigator) |f and Gra-
 
-90 haka (Seizer) and the other Tamah-pracVhddaka (Glootn-
-enveloper). Hear their characters from me. Where the
+90 haka (Seizer) and the other Tamah-pracVhddaka (Glootnenveloper). Hear their characters from me. Where the
 pestle and mortar, and where a woman’s shoes and her upper
 
 91 and lower garments are befouled by contact with burning oil,
@@ -17476,32 +14485,6 @@ ft He who steals, one’s vigonr
 26 (>
 
 
-98
-
-99
-
-100
-
-101
-
-102
-
-103
-
-104
-
-105
-
-106
-
-107
-
-108
-
-109
-
-110
-
 •
 
 t
@@ -17533,8 +14516,7 @@ the first daughter was Knc'a-har^* the next Vyanjana-hari'
 k4,t and the third daughter was called Jata-harini.J The
 first robs of both breasts the maiden, all whose marriage rites
 are not performed duly, or are performed after the pretcribed
-time. And the second robs of her signs of puberty the mar-
-ried maiden, who has been married without duly offering the
+time. And the second robs of her signs of puberty the married maiden, who has been married without duly offering the
 &-addha, and without paying due reverence to her mother.
 When the Ijing-in chamber is destitute of fire and water, and
 is devoid of incense, when it has no lamp or weapon or pestle
@@ -17565,9 +14547,6 @@ Sho who steals the signs of pnberty
 
 
 CTE OFFSPBIKQ OF OUHSAHA.
-
-
-267
 
 
 111 one another, desirous of eating one another. But Pra-c'anda*
@@ -17618,16 +14597,12 @@ I! Yiyogmafy in the text seems wrong. I kave adopted another reading,
 yo vai tathaiva pisitdianuh for yo ’sart, tathd c^dpi viyoginah,
 
 •f This sentence is made tke first line of Terse 118 in the text, and is
-clearly out of place there. I hme placed it after verse 116 which is tke na-
-tural context,
+clearly out of place there. I hme placed it after verse 116 which is tke natural context,
 
 ♦♦ Apa-karsha, which must he the real name of tke son (see Terse 121) is
 preferable to Apa-kira, for neither son has anything to do with injuries s hnt
 all the MSS. read apaMra^ and I kaTe not Tentiired to alter It.
 ft That is, Pivnlger, tt Fra-kasayati, §§ Apa-karslmti,
-
-
-208
 
 
 CANTO Ltl.
@@ -17658,8 +14633,7 @@ creation of the Budras. Hearken to me while I narrate it.
 2 -Fow they were eight sons indeed of Brahmd, and they had
 wives and children.
 
-At the beginning of the kalpa, while the Lord was medi-
-b tating about a son who should be his equal, there appeared
+At the beginning of the kalpa, while the Lord was medib tating about a son who should be his equal, there appeared
 
 in his lap a youth blue and red in colour ; and running about
 
@@ -17689,15 +14663,13 @@ fflpiar*** ** weeper.^'
 
 THE CBEATIOH AND APPEIHATIOHS OF THE ETJBBAH. 261^
 
-and the moon. These were the wives* in order, — Sn-varc'a-
-n4, and Uia4, and Vi-kesi, and the next Svadha, SVali^, the
+and the moon. These were the wives* in order, — Sn-varc'an4, and Uia4, and Vi-kesi, and the next Svadha, SVali^, the
 
 10 Disasf and Diksha, and Rohini in due order — of the sun and
 the other stations, 0 brahman, together with Rudra and the
 
 11 other names. And there were born to Mm gradually C'ara,
-and S'nkra, Lohitanga, Mano-java, Skanda, and Sarga, San-
-tana and Budha successively.
+and S'nkra, Lohitanga, Mano-java, Skanda, and Sarga, Santana and Budha successively.
 
 12 Such was Rudra himself. He found Sati for his wifet ;
 and through Daksha’s curse Sati quitted her body. She
@@ -17748,9 +14720,6 @@ J See Canto L, verges 22-25. § See Canto L, versas 22-25.
 
 ** Hor mmityd read anasdyd ; see canto h, verses 23-25.
 tt See Canto L, verses 22-25.
-
-
-270
 
 
 CAKTO in.
@@ -17875,9 +14844,6 @@ t For auttamas read auUamis,
 read Sduarf^dfy pane' a ra ud yasc'a Mmtyas, dhe five Savar’iia or Sayarni Manus
 
 
-272
-
-
 ckmo Lilt.
 
 
@@ -17892,12 +14858,10 @@ those their high-sonled sons.
 by whom all this tributary earth with its seven continents,
 with its monntains, and with its oceans was peopled accord-
 
-12 ing to its countries. It was first peopled in the Svayam-
-bhuva period in the Krita and Tret4 ages by the sons of
+12 ing to its countries. It was first peopled in the Svayambhuva period in the Krita and Tret4 ages by the sons of
 Priya-vrata and the grandsons of Svayambhnva.
 
-13 A daughter was begotten of Praja-vati by the hero Prija-
-vrata. Now that illustrious daughter gave birth thi’ough the
+13 A daughter was begotten of Praja-vati by the hero Prijavrata. Now that illustrious daughter gave birth thi’ough the
 
 14 Praja-pati Kardama to two daughters and ten* sons ; those
 two daughters were Saiprajf and Kukshi ; their ten brothers
@@ -17907,8 +14871,7 @@ and Medha-tithi, and Vapush-matJ the next, Jyotish-niat,
 Dyuti-nubt. Bhavya, Savana, they were seven of them indeed.
 
 16 Priya-vrata anointed those seven as kings over the seven
-continents. According to that his statiite, hear their conti-
-nents also from me.
+continents. According to that his statiite, hear their continents also from me.
 
 17 Their father made Agnidhra thus king over Jambu-dvipa j
 
@@ -17916,8 +14879,7 @@ nents also from me.
 made Yapush-mat lord of S'dlmali, Jyotish-mat lord over
 Kusa-dvipa, Djuti-mat lord over Kraunc'a-dvipa, Bhavya
 
-19 ^ord over Saka-dvipa, and his son Savana ruler over Push-
-kara-dvipa.
+19 ^ord over Saka-dvipa, and his son Savana ruler over Pushkara-dvipa.
 
 Maha-vita and Dhataki were tlie two sons of Savana^ the
 
@@ -17939,9 +14901,6 @@ I For road pmhhamm f
 
 
 fHE SYAYAMBHUTA
-
-
-273
 
 
 Bhavya had seven sons, bear them by name from me;
@@ -17978,8 +14937,7 @@ in Stalmali, which bore the same names.
 Plaksha-dvipa was divided into seven jpwrts by the countries
 which were named after them, first the S'aka-bhava country.
 
-30 then S^isira, Sukhodaya, and Ananda, and S^iva, and Ksha-
-maka, and Dhniva.
+30 then S^isira, Sukhodaya, and Ananda, and S^iva, and Kshamaka, and Dhniva.
 
 In the five continents^ which begin with Plaksha-dvipa and
 
@@ -18002,13 +14960,7 @@ was Havir-varsha ; the fourth was Ilavrita ; and the fifth
 35 son was Ya4ya; the sixth was called Himnya; the seventh
 
 
-35
-
-
 ^ Nitya.
-
-
-274
 
 
 CANIO LIII.
@@ -18068,9 +15020,6 @@ I for IMMvd read bhuhtd.
 1?HE BBSCEIPTION OF JAMBTT-OYIPA.
 
 
-275
-
-
 Canto L1V.‘
 
 
@@ -18086,19 +15035,15 @@ Kraust-uki spoke, g
 How many are tke continents, and how many tke oceans^
 and bow many are the mountains, 0 brahman ? And how
 many are the countries, and what are their rivers, O Mnni ?
-And the size of the great oojects of nature,^ and the Loka-
-ioka mountain-range ; the circumference, and the size and
+And the size of the great oojects of nature,^ and the Lokaioka mountain-range ; the circumference, and the size and
 the course of the moon and the sun also — ^tell me all this at
 length, 0 great Mnni.
 
 Markandeya spoke.
 
 The earth is fifty times ten million yojanas'\ broad in
-every direction, J 0 brahman. I tell thee of its entire consti-
-tntion, hearken thereto. The dvipas which I have mentioned
-to thee, began with Jambn-dvipa and ended with Pnshkara-
-dvipa, O illnstrions hraliman ; listen further to their dimen-
-sions. fTow eac/i dvipa is twice the size of the dvipa which
+every direction, J 0 brahman. I tell thee of its entire constitntion, hearken thereto. The dvipas which I have mentioned
+to thee, began with Jambn-dvipa and ended with Pnshkaradvipa, O illnstrions hraliman ; listen further to their dimensions. fTow eac/i dvipa is twice the size of the dvipa which
 precedes it in this order, Jamhn, and Plaksha-, S'Mmala, Kn^a,
 Krannc'a and S'aka, and the Pnshkara-dvipa. They are
 completely surrounded by oceans of salt water, sngar-cane
@@ -18204,8 +15149,7 @@ standards. The kadam treej is the standard on Mandara,
 21 the jambu tree§ on Gandlia-mMana, and the alvattha tree|j on
 Vipula, and the great banyan^ on Su-parsva. These mountains
 
-22 are eleven hundred yojanas in extent. Jatliara and Deva-
-knta are two mountains on the east side ; they str^' ' '' tip to
+22 are eleven hundred yojanas in extent. Jatliara and Devaknta are two mountains on the east side ; they str^' ' '' tip to
 Nila and Nishadha without any space intervening between
 
 28 them. Mskadha** and Paripatra are on the west side of Mem ;
@@ -18213,11 +15157,9 @@ Nila and Nishadha without any space intervening between
 these two mountains, like the two former, extend to N*ila
 24 and Nishadha. Kailasa and Himavat are two great mountains
 on the south ; they stretch east and west ; they extend into
-2£ the ocean. S'ringavat and Jdrudhi, moreover, are two moun-
-tains on the north ; they, like the two on the south, extend
+2£ the ocean. S'ringavat and Jdrudhi, moreover, are two mountains on the north ; they, like the two on the south, extend
 
-26 into the ocean.ff These eight are called the boundary moun-
-tains, 0 brahman. Hima-vat, Hema-ktita and the other
+26 into the ocean.ff These eight are called the boundary mountains, 0 brahman. Hima-vat, Hema-ktita and the other
 
 27 mountains comprise^ one with another, nine thousand yojanas,
 eastward, westward, southwai'd and northw'ard. Similarly
@@ -18308,9 +15250,6 @@ t For saiUshu read Mleshu, t Or Tarunoda, see Oatito Ivi, verse 0.
 TUE GEOGEAPHY Of JAMBU-DVIPA.
 
 
-270
-
-
 6 Tlie motmtam S'ikliara with its three peako,’*' 'and Kalinga,
 Patangaka, Rnc'aka, and the motintain Sanu-mat, and Tam-
 
@@ -18349,8 +15288,7 @@ surpass Svarga with their excellences. In them no fresh
 17 merit or sin accrues. Even the gods are said to enjoy merit
 in them. And on these mountains, S'ltantaH and the rest, 0
 
-18 brahman, are the great and resplendent abodes of the Yidya-
-dharas, the Yakshas, the Kin-naras, the Mgas, and the
+18 brahman, are the great and resplendent abodes of the Yidyadharas, the Yakshas, the Kin-naras, the Mgas, and the
 
 19 Rdkshasas, and the gods, and the G-andharvas, %vhich possess
 great merit and are studded with charming groves which the
@@ -18373,8 +15311,6 @@ II See verso 4.
 
 tJAl^’TO LV.
 
-
-280
 
 20 pleasant at every season. Nor anywhere on these momitains
 do men have any kind of mental agitation.
@@ -18447,8 +15383,7 @@ Moreover the second stream called Alaka-nanda flowed
 8 south towards Gandha-madana into the forest Kandana that
 delights the gods and that lies at the foot of Meru, and over-
 
-9 flowed the lake Manasa with great force, and reached the de-
-lightful kingly mountain S'ikhara,!! and thence overflowed all
+9 flowed the lake Manasa with great force, and reached the delightful kingly mountain S'ikhara,!! and thence overflowed all
 
 10 the mountains which I have mentioned in order on the south,
 and reached the lofty mountain Hima-vat. There the buli-
@@ -18491,8 +15426,6 @@ mentioned as the second mountain. No mountain of the name Tri-^ikha is
 mentioned in that and the following verses among the western mountains*
 The two should agree ; compare Yyishabha in verse 18, and canto Iv, vers© 12
 
-36
-
 
 28 ^
 
@@ -18510,8 +15443,7 @@ the foot of Mem ; there she is famed as Soma. She flowed
 Maha-hhadra and thence she passed as a great river to
 
 18 mount S'ankha-klifa ;§ and thence reaching in succession
-Vrishabha and the other mountains on the nort\ and over-
-flowing the Korthern Kurus she entered the great ocean.
+Vrishabha and the other mountains on the nort\ and overflowing the Korthern Kurus she entered the great ocean.
 
 19 Thus I have appropriately described to thee, 0 brahman.^
 this river ^ the Ganges, and the countries according to their
@@ -18531,15 +15463,13 @@ in each country there are rivers flowing down from the
 a perfection which comes from the trees, from their own
 natural dispositions, from the localities, from the water, from
 
-24 their mental condition and from their actions. •[[ The tree-
-bestowed perfection is obtained from the trees that grant
+24 their mental condition and from their actions. •[[ The treebestowed perfection is obtained from the trees that grant
 them every wish ; the natural is well-known as that which
 springs from the natural disposition ; and the local delight
 
 25 is that which is connected with the land itself ; and the
 water-given'^*' perfection comes from the delicacy of the water ;
-and the mental is derived from meditation ; and the perfec-
-tion which comes from reverential service and the performance
+and the mental is derived from meditation ; and the perfection which comes from reverential service and the performance
 of other duties is denominated righteousness-produced.ft
 
 ♦ S^vitra j see canto b, verse 2. f For pdvayanti read pldvayantC
@@ -18556,9 +15486,6 @@ tt Dharma-}o ; verse 23 reads karmu-jd instead, which seems preferable.
 
 
 mm DiYisiONs OF bhabata.
-
-
-283
 
 
 26 And in these countries the ages do not exist, nor bodily nor
@@ -18613,9 +15540,6 @@ X The dictionary gives the word as haSeru-mat ; the Kurma Pnra^a as
 Kasetu,
 
 
-284
-
-
 CANTO hVU.
 
 
@@ -18627,8 +15551,7 @@ among tbem, and it is surrounded by the sea.J This dvipa
 are the Kiratas,|| and at the west the Yavanas.*|f Within
 it dwell brahmans, kshatriyas, vaisyas and Mdras, O br£h-
 
-9 man. They accomplish their purification with the occupa-
-tions of sacrifice, meditation, trade, <feo. ; and they seek their
+9 man. They accomplish their purification with the occupations of sacrifice, meditation, trade, <feo. ; and they seek their
 
 10 mutual business through these occupations, and they gain
 Svarga or final emancipation from existence, merit and sin
@@ -18676,9 +15599,6 @@ the S'ukti-mat range on the next page.
 MOUKTATN BANGES OP INDIA.
 
 
-285
-
-
 11 Malaya, Saliya,t S'nk'ti-matjJ tiie Riksha moun-
 
 ^ This is the southern portion of the Western G-hats. Only four risers
@@ -18719,17 +15639,13 @@ the river rise in the S'ukti-mat range, (see verse 23) j Sakri does not appear
 the natural equivalent for S'ukti-mati, (there is besides another river Sakri, a
 tributary of the Seonath,) nor Kiyul and Kaorhari of Rishi-kulya and Komte ;
 Sakri corresponds better with Sakuli (see verse 23) j and the hills in the
-north of the Hazaribagh district are not remarkable, and are rather the ter-
-mination of the Yindhya range than a separate mountain system.
+north of the Hazaribagh district are not remarkable, and are rather the termination of the Yindhya range than a separate mountain system.
 
 The only mountains, which have not been appropriated to the Sanskrit
 names, are the AravalH mountains and the southern portion of the Hastera
 Ghats, so that this range might be on© of these two j and if the former
 are rightly included in the Paripatra Range, (see note J, next page) the
 S'ukfci-mat range might be the southern portion of the EarSteru. Ghats and
-
-
-286
 
 
 CANTO LVIT.
@@ -18746,9 +15662,7 @@ Berar, the Mahendra range will be restricted to the Eastern Ghats.
 * These are said to be the mountains of Gondwana, see Wilson’s Vishum-
 Purana, Book II, chap, iii, note. Judging from the rivers which are said in
 verses 21 to 25 to rise in the Tindhya and Riksha Ranges, it appears this
-range consists of the hills which form the water-shed between the Nar-
-bndda, Sone and Mahanadi on one side, and the Tapti and northern tribu-
-taries of the Godavari on the other side j that is, it comprises the Satpura
+range consists of the hills which form the water-shed between the Narbndda, Sone and Mahanadi on one side, and the Tapti and northern tributaries of the Godavari on the other side j that is, it comprises the Satpura
 Hills, and the hills extending through the middle of Berar and the south of
 Ohutia Nagpur nearly into West Bengal.
 
@@ -18757,17 +15671,14 @@ modern Yindhya Range, but only the portion of it east of Bhopal, and also
 the water-shed hills %vhich extend from it into Behar, as will appear from
 a comparison of the rivers which riso in it according to verses 21 — 23.
 
-X Called also Pariyatra. This is the western portion of the modern Yin-
-dliya Range, west of Bhopal, as appears from the rivers which rise in it
+X Called also Pariyatra. This is the western portion of the modern Yindliya Range, west of Bhopal, as appears from the rivers which rise in it
 according to verses 19 and 20. Prof. Wilson says (Yishnu Purana, Book
-II, chaj). iii, note) “ the name, indeed, is still given to a range of moun-
-tains in Guzerat (see Colonel Tod’s Map of Rajasthan),” and that may be
+II, chaj). iii, note) “ the name, indeed, is still given to a range of mountains in Guzerat (see Colonel Tod’s Map of Rajasthan),” and that may be
 considered an oMioot of the main range. If the Yayu Parana is right in
 reading Varnasa instead of Ye^va in verse 19, this range would also probably
 include the Aravalli mountains in Rajputana. If this be so, the configuration
 of this range, a curve around the west and south of Malwa, would suggest a
-derivation for both the names, via,^ Paripatra, from pari -h pdtra, “ the moun-
-tains shaped like an enclosing receptacle ”, or “the mountains which form A
+derivation for both the names, via,^ Paripatra, from pari -h pdtra, “ the mountains shaped like an enclosing receptacle ”, or “the mountains which form A
 protection around ; ” or l^ariyutra, from paH + yd, “ the mountains which
 curve around ” The name may thus still survive in the Pathar range, which
 lies between the rivers Chambal and Banas. (Arch, Survey Reports, vol, YI,
@@ -18790,8 +15701,7 @@ FAMOUS HILLS IK IKBIA.
 2B7
 
 
-13 Maiidara'^j fche liill Dufduraf, Ydta-svanaJ, and. Yai-
-dyiita§, Mamakajj, and Sva-rasa% Tunga-prastlia*^,
+13 Maiidara'^j fche liill Dufduraf, Ydta-svanaJ, and. Yaidyiita§, Mamakajj, and Sva-rasa% Tunga-prastlia*^,
 
 14 Haga-girittj Roc^auaJJ, the bill Pafldara§§, the hill
 
@@ -18803,8 +15713,7 @@ III and XIV ; vol. Ill, p. 140).,/"
 Bb%alpur in Bebar (Arcb- Survey Reports, voL YIII, p. 330).
 
 t I do Slot find this in ibe dictionary. There is a biil called Tnrturiya,
-which stands a little south of the junction of the R. Mahanadi with its tribu-
-tary the Seonath, and which was a place of pilgrimage. (Ax’ch. Survey
+which stands a little south of the junction of the R. Mahanadi with its tributary the Seonath, and which was a place of pilgrimage. (Ax’ch. Survey
 Reports, voL VII, p. 202; vol. XIIl, pp. 1 46-152),
 
 X This as a mountain is not mentioned in the dictionary. The V%u Parana
@@ -18823,9 +15732,7 @@ and p. 464; Arch. Survey Reports, Vol. I, p. 21 and plates III and XIV).
 
 II This appears to be the mountain in which the R. Sone takes its rise, the
 river being thence called Mainaka-prabha (Arch. Survey Reports, vol. VIII,
-p, 124) j but some placed it between the southern point of the Indian penin-
-sular and Ceylon (Prof. Sir M. Monier- Williams’ Dictionary), and in this oon-
-nezion see canto Hi. verse 13.
+p, 124) j but some placed it between the southern point of the Indian peninsular and Ceylon (Prof. Sir M. Monier- Williams’ Dictionary), and in this oonnezion see canto Hi. verse 13.
 
 if This as a mountain is not mentioned in the dictionary ; and I do not find
 it, The Vdyu Parana reads Sasurasa or Su-sarasa instead (xlv. 90); Ido
@@ -18851,8 +15758,7 @@ CAVTO Xivn
 
 2aa
 
-Piislipa*, Dur-jayantaf, BaivataJ, and Arbiida§, Risbya-
-m-dkall, and Gro-manfcaT, Kuta-saila*'*^, Krita-smaraff, and
+Piislipa*, Dur-jayantaf, BaivataJ, and Arbiida§, Risbyam-dkall, and Gro-manfcaT, Kuta-saila*'*^, Krita-smaraff, and
 
 15 S'^n-parvata|+, and Kora§§, and other mountains in, hundreds.
 By them the people, both Mlec'c'has and Aryas, are mingled
@@ -18866,14 +15772,12 @@ them from me duly. Ganga, Sarasvati||||, Sindhu,?!^ and
 * I do not find this.
 
 t I do not find this. The Tayn Purina reads UJ-jayanta instead (xlv. 92),
-which Gen. Cunningham identifies with Girinar hill in the peninsula of Gu-
-jarat (Anct. Geog. vol. I, p. 325). There are also the Ajanta hills, north east
+which Gen. Cunningham identifies with Girinar hill in the peninsula of Gujarat (Anct. Geog. vol. I, p. 325). There are also the Ajanta hills, north east
 of Aurangabad (Arch. Surv’ey Eeports, vol. IX, p. 121) which seem to be the
 same as the Ajayanti hill (Ano, Geog. of India, vol. I, p. 566) .
 
 t This is near Dwaxahi or Kusa-sthali, the capital of the country Anarta
-in the peninsula of Gujarat ; and the Girinar hill mentioned in the last pre-
-ceding note is sometimes identified with this hill.
+in the peninsula of Gujarat ; and the Girinar hill mentioned in the last preceding note is sometimes identified with this hill.
 
 § The modem Mount Abu, at the south end of the Aravalli range,
 
@@ -18911,9 +15815,6 @@ ttt The R, Sutlej i the Greek Hyphasis.
 FAMOUS HILLS IN INDIA.
 
 
-289
-
-
 Raivata, * and Arbnda, f Risbyamuka, and Gomanta, §
 
 
@@ -18923,29 +15824,25 @@ vol. I. p. 655).
 ^ Eaivata, or Raivatakaj was near Dvaraka or Knsa-stliali, which was near
 the extreme western promontory, and. was the capital of the country A'narta,
 in the peninsula of Gujarat; for in the H -Bh., a festival on this mountain is
-described, in which the citizens of Dvaraka went out there mth their fami-
-lies, in thousands, on foot or in carriages (Adi-P. ccxix. 7906— 17); and it i s
+described, in which the citizens of Dvaraka went out there mth their families, in thousands, on foot or in carriages (Adi-P. ccxix. 7906— 17); and it i s
 called the ornament of the gate of that city in the Hari-Y. (cxiii. 6361—70 ;
 and cxiv. 6410-16.). The Girnar hill mentioned in the last preceding
 note is sometimes identified with this hill, but Mt. Girnar is about 110 miles
 from Dvaraki^, and this distance is incompatible with either of the passages
 quoted. There does not appear to be any mountain close to that city, but
 the Barada group of hills is not far from it, and they are the only hills
-that comply with the conditions (see Arch. Surv. of W. India, by J. Bur-
-gess, Kathiawad, pp. 12, 15, 84 and 154). Raivata is not necessarily a single
+that comply with the conditions (see Arch. Surv. of W. India, by J. Burgess, Kathiawad, pp. 12, 15, 84 and 154). Raivata is not necessarily a single
 mountain, for the Hima-vat, Yindhya and other ranges are often spoken of
 in the singular. I would therefore propose to identify Raivata with the
 Barada Hills in Halar, the western comer of the peninsula.
 
-f The modem Mount Abu, at the south end of the Aravalli range. Yasish-
-tha is said to have had his hermitage there (M.-Bh., Vana-P. ixxxii. 4097-8).
+f The modem Mount Abu, at the south end of the Aravalli range. Yasishtha is said to have had his hermitage there (M.-Bh., Vana-P. ixxxii. 4097-8).
 The country around Arbuda was noted for its breed of horses (id, Sabha-P,
 I. 1851.)
 
 J Rishyamuka is in the Dekhan. It was the scene of Rama’s meeting with
 Sugriva and Hanuman. I have proposed to identify it with the range of
-hills which stretches from Ahniadnagar to beyond Naldrug and Kalyani, divid-
-ing the Manjira and Bhima rivers (Journal, R. A. S., April, 1894, p. 253).
+hills which stretches from Ahniadnagar to beyond Naldrug and Kalyani, dividing the Manjira and Bhima rivers (Journal, R. A. S., April, 1894, p. 253).
 
 § There are two hills of this name. One is mentioned in the Hari-Yam^a
 as situated in a gap or opening {'uivara) of the Sahya Mts. (xovi. 6331-40).
@@ -18961,11 +15858,6 @@ Western Ghats, and Gomanta would probably be the hills S. or S.-E. of Nasik.
 The other Gomanta is the hill of Gwmlior. Gen. Cunningham says it was
 originally called Gopdc'ala and Gopa-gtri, Gopahvaya, and later, Go-manta
 
-37
-
-
-290
-
 
 CAITTO LYIT.
 
@@ -18979,8 +15871,7 @@ according to their divisions.
 hear them from me duly. Granga, Saras- vati,|| Sin-
 
 (Arch Survey Eeports, voi. II. pp. 37*2, 373). The Tayu Puraua mentions
-Go-dhana instead (xlv. 91); hut I have met with no MU of this name else-
-where; it suggests Go-vardhana, but Go-vardhana does not suit the metre.
+Go-dhana instead (xlv. 91); hut I have met with no MU of this name elsewhere; it suggests Go-vardhana, but Go-vardhana does not suit the metre.
 
 ^ I do not find this.
 
@@ -19001,8 +15892,7 @@ be the river mentioned in verse 25, for I do not think there is any such
 hill near the other Karatoya in North-East Bengal.
 
 § The Vayu Furana reads Kdru, or Ketu (xlv. 92) and a mountain Eonva is
-mentioned in the Bhagavata-P. {V. xix. 16); none are mentioned as moun-
-tains in the dictionary. There is a MU called Kolia in Mewat (Arch. Survey
+mentioned in the Bhagavata-P. {V. xix. 16); none are mentioned as mountains in the dictionary. There is a MU called Kolia in Mewat (Arch. Survey
 Reports, vol. XX. p. 133).
 
 II The modem Sursooty, between the Jumna and Sutlej. For a clear
@@ -19017,15 +15907,11 @@ the name of the place where it disappeared (M.-Bh, Vana-P. Ixxxii,
 6052-5; and S'alya-P. xxxviii. 2119-20.). South and East of it was the
 Prishudvatiy and between them lay the sacred region called Brahmdvarta
 (Mann II. 17, 18) and Tri-pishtapa (M.-Bh. Vana-P. Ixxxiii. 6074 and 7075)
-and also apparently Brahma-hshetra (Hid,, 5076). The name 8aras~mti, how-
-ever, was given to the seven rivers Su-prahhd, Kdnc'andlsM, ViMld, Manoramd,
+and also apparently Brahma-hshetra (Hid,, 5076). The name 8aras~mti, however, was given to the seven rivers Su-prahhd, Kdnc'andlsM, ViMld, Manoramd,
 Ogha-vati, Su-renu and Vimalodakd {id., S^alya-P. xxxix. 2188-2216.)
 
 
 FAilOUS lliVEBS IN INDIA.
-
-
-291
 
 
 17 dkii, ■ and C'andra-bli%a f also,]: and
@@ -19071,9 +15957,7 @@ Gen. Sir A. Cunningham says this is a name of the Go-mat£
 (Arch. Surv. Eept s, I. 315 ). The c'a ; and the Vayu.
 
 (xlv 95), Kurma*^vii. 27), Yara ha (Ixxxv.) and Vishnu P manas all I'ead the
-same. The two wor ds, are also linked together in the Maha -Bliarata (Bhfsh-
-ma-P. ix. SySl^^but not, I believe, ih'^mTCam^nna^^ the Go-mati gere-
-ciilled “ crQ^y(Terwinrca^i^^'^*^I>/rp^^ Go-
+same. The two wor ds, are also linked together in the Maha -Bliarata (Bhfshma-P. ix. SySl^^but not, I believe, ih'^mTCam^nna^^ the Go-mati gereciilled “ crQ^y(Terwinrca^i^^'^*^I>/rp^^ Go-
 
 mati, and the^traiisl ailpn^ ^ and Go-matT';'^ or it
 
@@ -19084,9 +15968,6 @@ P. ix, 337), and another in the Dekhaii (ibid., 322; Annsas.-P. clxv. 7653: and
 Ramayana, Kishk, K. xli. 13). This river is mentioned in various passages
 (M-Bh,, Yana-P. Ixxxiv. 8045-6; ixxxvii 8323; xcv. 8513; S'anti-P. xxiii.
 668, &c. ; Anu^s-F* xix. 1408-11 j and Hari-Yaihsa xii. 710), and from these
-
-
-292
 
 
 CANTO LVIT.
@@ -19146,23 +16027,16 @@ ft Or, as the text may foe read, and the Apaga flow,^’ &g. There, is a river
 FAMOUS RIVERS IN INDIA.
 
 
-293
-
-
-1
-
 wbich flow from the slopes of Hima-vat, O brahmaTi.
 
 19 The Yeda-smriti, ^ Yeda-vati, t
 
 Yritra-ghni, J and Sindlnij §
 
-called the A;pagd in Knrn-kshetra (M-Bh. Yana-P. Ixxxiii, 6038-40; Cunning-
-ham’s Arch. Surv. Eepts., XIV. 88, and plate xxvi). The Kurma Piirana reads
+called the A;pagd in Knrn-kshetra (M-Bh. Yana-P. Ixxxiii, 6038-40; Cunningham’s Arch. Surv. Eepts., XIV. 88, and plate xxvi). The Kurma Piirana reads
 Loliini c'eti Instead (xlvii. 28) j and the Yayu (xlv. 96) and Yaraha Puranas
 Ixxxv) mention the Lohita. The Lohita is the Brahma-pntra, which till last
-century flowed round the south side of the Garo Hills, and then south-
-ward through the districts of Maimansingh and Dacca. Loliini, though fem.j
+century flowed round the south side of the Garo Hills, and then southward through the districts of Maimansingh and Dacca. Loliini, though fem.j
 no doubt means the same. The Yayu Parana reads Kauiihi c^a tritiyd tu
 instead (xlv. 96), which may mean the “third KausiJci,” for there seem to
 be three rivers of this name (see M-Bh , Yana-P. ccxxi. 14231) ; or may
@@ -19182,8 +16056,7 @@ in AnuMs.-P. clxv. 7651, and the latter in Bhishma-P. ix. 824; and the
 Veda’S7nriii is also mentioned in the Bhagavata-P. (Y. xix. 17) ; hut I have
 found nothing to identify it.
 
-t Or Vedasini, or Vetasini. I have not met with these two names else-
-whei'e ; the Veda-vati is mentioned in the M-Bh., {Bhishma-P. ix. 324 ;
+t Or Vedasini, or Vetasini. I have not met with these two names elsewhei'e ; the Veda-vati is mentioned in the M-Bh., {Bhishma-P. ix. 324 ;
 Anusas.-P. clxv. 7651), but there appears to be nothing to identify it.
 
 J Or Yrata-ghni, as the Kurma Parana reads (xlvii. 28). I have not met
@@ -19192,17 +16065,12 @@ with either name elsewhere, and the river is not known apparently.
 § This is most probably the modern Kali Sindh, a tributary of the K.
 Cliambal, though it may also be the Sindh, which is a tributary of the Jumna,
 between the Chamhal and Betwa. The former is the more probable, because
-it is a large river and rises well up in the Paripatra range, and suits the fol-
-lowing incident better. This Sindhu was a river of much note, and on it was
+it is a large river and rises well up in the Paripatra range, and suits the following incident better. This Sindhu was a river of much note, and on it was
 a great tirtlia, . where Agastya met Lopa-mudr^ daughter of the King of
 Vidarbha, and she chose him for her husband (M-Bh., Vana-P. xevi, xcvii ; and
 exxx. 10541). The name of this tirtha may have been Sindhdttama, [id.
-Ixxxil, 4082-4095 ; and Anusas-P. clxv. 7650); but if so, it must be distin-
-guished from the great tirtha 8 indhiUta^na, which was on the Indus (Vana-P, )
+Ixxxil, 4082-4095 ; and Anusas-P. clxv. 7650); but if so, it must be distinguished from the great tirtha 8 indhiUta^na, which was on the Indus (Vana-P, )
 Ixxxii 5021).
-
-
-294
 
 
 CANTO LVir.
@@ -19221,8 +16089,7 @@ a note, {loc. cit.) The Varnasa or Parnasa is the modern Bands, and there
 are two rivers of this name ; one a tributary of the Chambal, rising near
 Udaypur (Cunningham, Arch. Surv. Repts., VI., plate i,), and the other,
 a stream rising near Mt. Abu and flowing into the Rann of Kaclih ; the
-former is tl e larger, and is probably the river meant in the text. Cun-
-ningham writes the n&m.Q Panidsd (id. VI. 157) and Pania-ndm {id. XV. 132),
+former is tl e larger, and is probably the river meant in the text. Cunningham writes the n&m.Q Panidsd (id. VI. 157) and Pania-ndm {id. XV. 132),
 but the latter form seems doubtful. Devavridha is said to have married
 one of these rivers (Hari V. xxxviii. 1999, and 2004-10), probably the second.
 
@@ -19235,13 +16102,11 @@ identified.
 % The river “ that is always filled with water.” The inclusion of this
 name among the rivers that rise in the Paripatra Mountains is strange
 yet the Kurma Parana places it in the same group (xlvii. 29, note). I have
-met with no river Sada-mra except that in North India. A river Sada-nira-
-maji is mentioned in Bhishma-P ix. 340, but there is nothing to identify
+met with no river Sada-mra except that in North India. A river Sada-niramaji is mentioned in Bhishma-P ix. 340, but there is nothing to identify
 it. The Vayu Parana reads Satird and Saddtird instead (xlv. 97), but I have
 not found these names elsewhere.
 
-A few remarks may be offered about the Sadd-nird in North India. Sa-
-yana says it is the Karatoya, the modern Kurattee (see verse 18, noteff),
+A few remarks may be offered about the Sadd-nird in North India. Sayana says it is the Karatoya, the modern Kurattee (see verse 18, noteff),
 but it is stated in the S'ata-patha Brahmana (I iv. 1 ), that the Sada-nira
 was the boundary between Kosala and Videha. It is therefore identified
 with the E. Gandak by Dr. Eggeling {loc. cit, note) and Muir (Sansk Texts,
@@ -19258,9 +16123,6 @@ The Vayu Parana has a variant, Mahati (xlv. 97), and the Varaha reads Bohi
 
 
 FAMOUS mVERS ITf INDIA.
-
-
-295
 
 
 20 Para, C'armaii-vati, f J^Tdpi, J Vidiia, § and Yetra-Tati, |j
@@ -19285,8 +16147,7 @@ and tliey do not appear to bo known.
 
 § This must, no doubt, be connected with the town Yidisa, which was on the
 R. Yetra-vati (Megha D. i. 25) the modern R. Betwa (see next note). Yidisa
-appears to be the modern town Bhilsa. The R, Yidisa therefore was pro-
-bably the small tributary which joins the Betwa on its left bank at Bhilsa.
+appears to be the modern town Bhilsa. The R, Yidisa therefore was probably the small tributary which joins the Betwa on its left bank at Bhilsa.
 
 j| The modern R. Betwa, which rises near Bhopal and flows into the
 Jumna. There was another river of this name in Western India (HarhV.
@@ -19305,8 +16166,7 @@ erroneously.
 ft For smatdk, read smritdh,
 
 Jj: The R. Sone which rises near the source of the Narbada and flows
-into the Ganges above Patna. It was also called Miranya-hdhu and lUranya-
-vdha ; the Greek Erannoboas. For changes in its course, see Cunning.
+into the Ganges above Patna. It was also called Miranya-hdhu and lUranyavdha ; the Greek Erannoboas. For changes in its course, see Cunning.
 Arch, Surv. Eepts., YIII. 4^21.
 
 §§ Or, Malid^nadi. It flows through Orissa into the Bay of Bengal. The
@@ -19350,8 +16210,7 @@ P. clxv. 7648. I have found nothing to identify it.
 § The E. 'Mandakin, which flows near Mt. Chitrakut into the E. Paisuni,
 a tributary of the Jumna between the Ken and the Tons (Cunning., Arch. Surv.
 Eepts., XXL 11). Mr. Beglar’s proposal to identify it with the E. Keur, a
-southern tributary of the Sone [Ibid. XIII. 42-54) depends upon h’s identifica-
-tion of Mt. C'itra-kuta with Eamgarh hill in Chhattisgarh, and is untenable
+southern tributary of the Sone [Ibid. XIII. 42-54) depends upon h’s identification of Mt. C'itra-kuta with Eamgarh hill in Chhattisgarh, and is untenable
 (see Journal, E. A, S., April, 1894, page 240). The river Eeur, or Eer, is also
 called Araiid, and all these forms appear to point ‘to Erandd as the original
 name.
@@ -19381,9 +16240,6 @@ Slould we read Karma-noddii as a synonym of Karma-ndid ? The river
 FAMOUS RIYERS IN INDIA.
 
 
-297
-
-
 Pi^aclka, ^ and Pippali-^roni f R'lso, Yi-pa^a,
 23 the river Vaiijiila, § Snmernja, || S'nkti-mafci, If
 
@@ -19406,8 +16262,7 @@ J This appears to be the river mentioned in M.-Bh., Anusas-P. xxv. 1733
 and perhaps 1710-11 also. It is probably the modern Bias which flows past
 Saugor and joins the R. Ken, a tributary on the right bank of the Jumna.
 (Cunning., Arch. Surv. Repts., XXI. 1 57, and plate xxxiv). The Ken or Kiyan, an
-important stream, does not appear to be mentioned ; it is said to be a corrup-
-tion of Karna-vati (Ibid. 156; and II. 446), though Lassen gives iTaVuna as
+important stream, does not appear to be mentioned ; it is said to be a corruption of Karna-vati (Ibid. 156; and II. 446), though Lassen gives iTaVuna as
 its ancient form (Ind. Alt., Map). Was Fa-pdad the ancient name of this whole
 river ? The Yi-paia in the Panjab is mentioned in verse 18. The Yaraha
 Parana reads Visdld (Ixxxv), and the Kurma mentions this name as a
@@ -19430,12 +16285,7 @@ mentions three rivers Vird (Bhishma~P., ix, 329), V'fra-vati (ibid., 232) and
 Viran'kard (ibid., 333), which are all distinct. The Matsya Purana reads two
 names instead, the Shin{ and Lajjd (oxiii. 26), probably erroneous.
 
-f This river has been much written about but does not seem to be identi-
-fied safely yet. See p. 285, notej ; and also Cunning., Arch. SutV. Repts.,
-88
-
-
-298
+f This river has been much written about but does not seem to be identified safely yet. See p. 285, notej ; and also Cunning., Arch. SutV. Repts.,
 
 
 CANTO LTII.
@@ -19452,8 +16302,7 @@ river on which stood S'nkti-mati, the capital of O^edi j see note to C^edi in
 canto Iviii, verse 16.
 
 * The Yayn Parana reads Ilalcrund or MaJcshand (xlv. 101), and the
-Yardha Fankini (Ixxxv), but I have not met with any of these names else-
-where. The S'akuH, however, may probably be identified with the E. Sakri,
+Yardha Fankini (Ixxxv), but I have not met with any of these names elsewhere. The S'akuH, however, may probably be identified with the E. Sakri,
 which flows into the Ganges on the sonth, about half-way between Patna
 and Monghyr (Cunning., Arch. Surv. Eepts., YIII. plate i; and XY. plate
 iv). There is also another Sakri which is a tributary of the E. Seonath, a
@@ -19466,8 +16315,7 @@ the Yayn Parana Tridivd hramdt, which is preferable. The word Icrarndf,
 if right, would indicate that the rivers are mentioned in regular order from
 west to east. The Tridiva is also mentioned in the M.-Bh., (Bhfshma*P. ix.
 324 J and Anusas.-P. clxv. 7654), but no data are given to identify it. It may
-be noticed there is a river called the Krumu (Rig.-Y, X. 75.6), which is pro-
-bahly the modern E. Kuram, a tributary of the Indus, south of the Kabul E.
+be noticed there is a river called the Krumu (Rig.-Y, X. 75.6), which is probahly the modern E. Kuram, a tributary of the Indus, south of the Kabul E.
 (Muir’s Sansk. Texts, IL 357) ; but it cannot be intended here. Another
 Tridiva is mentioned in verse 28.
 
@@ -19480,8 +16328,7 @@ met with either of those names elsewhere.
 with it elsewhere.
 
 11 Tho text reads Skandha, which is clearly wrong. The Yayn (xlv. 101)
-Kurma (xlvii. 31) and Yaraha Parauas (Ixxxv) read Riksha. There is certain-
-ly some confusion in this group of rivers, for the Mandakini, Dalarna, and
+Kurma (xlvii. 31) and Yaraha Parauas (Ixxxv) read Riksha. There is certainly some confusion in this group of rivers, for the Mandakini, Dalarna, and
 Tamasa rise in the Tindhya w'atershecl, w’hile the S'o^ia, Maha-nada, and
 Karmada luse rather in the Riksha Mts ; but the rivers mentioned in verse 24
 rise in the Riksha Mts, so that the proper reading here should no doubt be
@@ -19491,9 +16338,6 @@ branch of the Mahanadi, which all rise close together near Amara-kanfaka,
 
 
 FAMOUS RIVERS TN INDIA.
-
-
-299
 
 
 24 The Sipra, * Payoslini, f I^ir-bindhya, J Tapi, § and
@@ -19511,28 +16355,24 @@ S'ighrd is mentioned (M.-Bh., Bhishma»P. ix. 336) and another called S'ivd
 {ibid j 332). The Matsya Parana reads Kshiprd (cxiii. 27).
 
 t The Payoshni was in the southern region (M.-Bh., Yaua-F. Ixxxviii.
-8329-35); it w’as the river of Yidarbha (ibid. cxx. 10289-90), and was sepa-
-rated from the Narmada by the Yaidurya Mts. (ibid. cxxi. 10306-7). It was
+8329-35); it w’as the river of Yidarbha (ibid. cxx. 10289-90), and was separated from the Narmada by the Yaidurya Mts. (ibid. cxxi. 10306-7). It was
 the modern river Purna (the tributary of the Tapti) together with the lower
 part of the Tapti into which the Puma continues. A careful consideration
 of King Nala’s remarks (ibid, Ixi. 2317-9) with a map will show that the view
 described could only have been obtained from a position on the Satpura Mts.
 about longitude 75°; hence the Payoshni visible from there could be only the
 lower part of the Tapti. Such was considered the main stream in old times,
-and it was a famous and sacred river. Gen. Cunningham's proposal to iden-
-tify the Payoshpi with the Pahoj, a tributary of the Jumna between the
+and it was a famous and sacred river. Gen. Cunningham's proposal to identify the Payoshpi with the Pahoj, a tributary of the Jumna between the
 Sindh and Betwa, (Arch. Surv. Eeports, YII. plate xxii.) is untenable as
 regards this famous river ; but there were two rivers of this name (M.-Bh.,
 Bhishma-P. ix. 334 and 327), and the Pahoj may be the other Payoshni.
 The Yaraha Purana reads PayolU (Ixxxv), which seems a mistake.
 
 J Or Nir~vindhyd ; or according to the Yayu Purina, Kir-handhyd (xlv. 102).
-One river Nir-vindhya is mentioned in the Megha-D. (I. 28 and 29, com-
-mentary) as lying bet'ween the E. Yetra-vati (or Betwa) and Ujjayini (Ujjain),
+One river Nir-vindhya is mentioned in the Megha-D. (I. 28 and 29, commentary) as lying bet'ween the E. Yetra-vati (or Betwa) and Ujjayini (Ujjain),
 and (if the Para is rightly identified with the modern Parbati, see note to
 verse 20) must be the modem Parwan which is west of the Parbati j but
-that river rises in the Yindhya „ Eange according to the Megha-Buta, and be-
-longs to the Paripatra watershed according to verses 19 and 20 above ; on
+that river rises in the Yindhya „ Eange according to the Megha-Buta, and belongs to the Paripatra watershed according to verses 19 and 20 above ; on
 either view it is out of place here. There was, however, another large river
 of this name in the Dekhan, for it is mentioned along with the Payoshui,
 the Tapi and the Godavari and its tributaries in the Bhagavata-Purapa CV.
@@ -19542,9 +16382,6 @@ of the Vf arda.
 § See note to Payoshgi above. This is the upper part of the modern Tapti
 before it joins the Puma. This branch was hardly known in early times ;
 it does not appear to be named in the Mahi-Bharata or Eam4yaigLa, nor
-
-
-300
 
 
 CANTO LYII.
@@ -19573,8 +16410,7 @@ and also in the M.-Bh. fSabha-P. xxx. 1118), but in the latter poem itj is
 generally called Yerid, and this seems the proper term (Bhisbma-P. ix. 385 j
 Anulas-P. clxv. 7648 j Yana-P. Ixxxviii. 8328, clxxxix. 12909, and Ixxxv,
 8176-7 5 whether the same river is also meant in line 8175 is not clear).
-From the passage last cited it appears the Vem is the river which Joins the G-oda-
-vari and Yarada (the modem Warda), that is, the modern Wain-ganga and
+From the passage last cited it appears the Vem is the river which Joins the G-odavari and Yarada (the modem Warda), that is, the modern Wain-ganga and
 its continuation the Franhita. The Yaraha Parana reads Veshndpdid (Ixxxv)
 which seems a mistake. This river appears to be also called Su•ve7)^d (M.-
 Bh., Yana-P, clxxxix. 12909) in oontra-distihction to the Krishna-veiitd
@@ -19593,26 +16429,20 @@ S The Yayu Purina reads S'itibdhu (xlv. 102), the Kurma Baldhd (xlvii. 32)
 attii the Yaraha Vedipdld (Ixxxv). Kone of these rivers are mentioned in the
 dictionary, but the name S'inibdhu is given. I have not found any of these
 names elsewhere, except Baldhd in M.-Bli., Anu^£s.-P. xxv. 1706-7, which
-may be a river, but appears from the context to be in Forthem India. Per-
-haps the reading should be B'ildvaH or SUdvati, which seems to have been the
+may be a river, but appears from the context to be in Forthem India. Perhaps the reading should be B'ildvaH or SUdvati, which seems to have been the
 ancient name of the modem river Selye 5 this after uniting with the Bup-
 
 
 FAMOUS RITEBS W INDIA.
 
 
-301
-
-
 25 vati,* Karatoja,t Maha-gatiri,! and Diirga,§ and Antah-^ira ; jj
 
 narain is tiie river on whicli Tamlnk, the ancient Tdmra-lipfaka (see verse
 44 below), is situated; and which may well find mention here. Perhaps
-the name Baldkd may be connected with the modern river Barakar, a tri-
-butary of the Damuda; these two combined form the largest river in
+the name Baldkd may be connected with the modern river Barakar, a tributary of the Damuda; these two combined form the largest river in
 Western Bengal, and flow close to Tamluk. Tamluk was a famous port, and
-it would be strange if the rivers near it were overlooked. The M.-Bh. men-
-tions a river S'ata-hald (Bhishma-P. ix. 328). The Matsya Purfina reads
+it would be strange if the rivers near it were overlooked. The M.-Bh. mentions a river S'ata-hald (Bhishma-P. ix. 328). The Matsya Purfina reads
 Viiva-mdld instead (cxiii. 37). I have not met either name elsewhere.
 
 * I have not met with this name elsewhere. It may be the Snbarna-rekha
@@ -19651,9 +16481,6 @@ seems to be the correct form ; and if the name is descriptive, the river i..
 probably one of the northern tributaries of the Mahanadi ; all of which ara
 encompassed with hills. See however a people called Antar-giryas in verse 2*"^
 below.
-
-
-302
 
 
 CANTO LVII.
@@ -19712,9 +16539,6 @@ T A S., 1834, p. 250).
 FAMOUS RIVERS IN INDIA.
 
 
-303
-
-
 Venja,'*^ TnDga-bhadra, f Siiprayoga,J Yahya,§ and tbe
 27 river Kaveri; || these noble rivers issue from the slopes
 of the Sahya^’**' Mountains.
@@ -19755,20 +16579,15 @@ river, and made the Ganges his daughter (xxvii. 1416-22; and xixii,
 as to which see verse 26 note %.
 
 The text reads Bindhya or Yindhya here, after having read it already
-in verse 25 ; and oSers Sahya a as variant in a note. The latter ic mani-
-festly the proper reading, and agrees with the Ktoaa (xlvii 34) and Yayn
+in verse 25 ; and oSers Sahya a as variant in a note. The latter ic manifestly the proper reading, and agrees with the Ktoaa (xlvii 34) and Yayn
 (xlv. 104) Puranas,
 
 tt This is not in the dictionary. The Agni Purrfna agrees with it (cxviH. 8}»
 the Kurma reads Eitu-mdld (xlvii. 35), the Yar^na 8'ata-mdld (lxxiv),aTi^^-''
-the Bhagavata Eata-mdld (Y. xix. 17). Is it to be identified with th^ Vea*a-
-mali which flows out north of Ooohin ? The people of EacVhu. or Goodin are
+the Bhagavata Eata-mdld (Y. xix. 17). Is it to be identified with th^ Vea*amali which flows out north of Ooohin ? The people of EacVhu. or Goodin are
 mentioned in canto Iviii. verse 28.
 
 tt This is mentioned as a place of pilgrimage in the M.-Bh. (Tam.p.
-
-
-304
 
 
 CANTO LYTI.
@@ -19828,9 +16647,6 @@ gtj^ams on the Eastern coast.
 FAMOUS EITERS IN INDIA.
 
 
-305
-
-
 29 Tridiva,* Langulinijf and Vam^a-karaJ are known to
 spring from tlie Maliendra § Mountains.
 
@@ -19846,27 +16662,21 @@ Imi (Ixxxv) and the Matsya MuU (cxiii. 31) j I have nob found these names
 elsewhere and they seem incorrect. The LdngaU mentioned in the M.-Bh.
 (Sahha-P. ix 374), is probably this river.
 
-X The Yaraha Parana reads Famm-vard (Ixxxv), and the Yayu Vamm-
-dhard (xlv. 106) ; the latter is the correct name. It is the modern Bans-
-dhardj the river on which Oalingapatam stands.
+X The Yaraha Parana reads Famm-vard (Ixxxv), and the Yayu Vammdhard (xlv. 106) ; the latter is the correct name. It is the modern Bansdhardj the river on which Oalingapatam stands.
 
 § The Kurma Parana omits this group of rivers altogether, and puts
 three of them Tn-sdmd, llishikd and Vamsa-dhdrini into the next group
 (xlvii. 36). The Matsya Parana mentions three more rivers, the Tdmra-
-^arn{, Siiravd and Vimald (cxiii. 31), but all these seem doubtful. A Tamra-
-parai has been mentioned in verse 28. A Shrdvati is named in the Bhishma-
+^arn{, Siiravd and Vimald (cxiii. 31), but all these seem doubtful. A Tamraparai has been mentioned in verse 28. A Shrdvati is named in the Bhishma-
 P. list (ix. 327), and a Yininld or Yimalodd in various passages (e. g,
-Balya-P. xxxix. 2214-5 j Hari-Y., clxviii. 9517-8)5 kat; they are in North-
-ern and Western India.
+Balya-P. xxxix. 2214-5 j Hari-Y., clxviii. 9517-8)5 kat; they are in Northern and Western India.
 
 In note ff on page 284, the Mahendra mountains are said to be “ the
 portion of the Eastern Ghats between the Godavari and JMahanadi
 rivers and the hills in the south of Berar,** but this proposition must be
-modified on a full consideration of ail the foregoing identifications. Gondwa-
-na as nsed by Wilson was applied to a very wide tract in Central India.
+modified on a full consideration of ail the foregoing identifications. Gondwana as nsed by Wilson was applied to a very wide tract in Central India.
 The Mahendra Mts, cannot extend as far -west as Berar nor bevond the
-Wain-ganga; and must bo limited to the hills between the Mahanadi, Goda-
-vari and Wain-ganga, and may perhaps comprise only the portion of the
+Wain-ganga; and must bo limited to the hills between the Mahanadi, Godavari and Wain-ganga, and may perhaps comprise only the portion of the
 Eastern Ghats north of the Godavari. It is in this last tract only that the
 name has survived. See Baghu Yamsa, iv. 43.
 
@@ -19881,11 +16691,6 @@ Bhislima-P list (ix. 313).
 ** This is mentioned in the Bhishma-P. list (ix. 340). The Yaraha Parana
 reads Manda-gdmim (Ixxxv) 5 and for this and the next river the Kurma reads
 Bandka-Jnadaim-gdmini (xlvii. 36), which is probably erroneous.
-
-39
-
-
-306
 
 
 CANTO LVn.
@@ -19907,22 +16712,18 @@ Jiiipd (xlvii. 36). I do not find any of these names elsewhere. A river
 Krityd is mentioned in the Bhishma-P. list (ix, 326J, but that appears from
 its context to be in north India.
 
-t This is mentioned in the Bhishma-P. list (ix. 380), but in so differ-
-ent a connexion that the references appear to be to two separate rivers. Tho
-Matsya Parana reads Pdiini (cxiii. 32), which however I have not met else-
-where,
+t This is mentioned in the Bhishma-P. list (ix. 380), but in so different a connexion that the references appear to be to two separate rivers. Tho
+Matsya Parana reads Pdiini (cxiii. 32), which however I have not met elsewhere,
 
 § These Mts. are but very rarely mentioned, and in page 285 note J I have
-noticed what has been written about them. They were in the Bastom re-
-gion, for Bhima in his conquests in that quarter marched from Hlma-vat
+noticed what has been written about them. They were in the Bastom region, for Bhima in his conquests in that quarter marched from Hlma-vat
 towards Bhallata and conquered the S'ukci-mat Mountain (M-Bh., Sabh£-P.
 xxix. 1079). Though Bhallata does not appear to have been idontined, the
 only noteworthy hills in the easb which have not been assigned to the other
 great ranges are the Garo, Khasi and Tipperah Hills which bound Bengal in
 that direction. Can these be the STukti-mat Mts. ? There seems to be no
 improbability in this, for the river Lohzta or Brahma-putra and the country
-Hama-rupa, which is in tho Assam Yalley, were known. If this identifica-
-tion is satisfactory, the E. Kumdri may bo the modem SomesimH which
+Hama-rupa, which is in tho Assam Yalley, were known. If this identification is satisfactory, the E. Kumdri may bo the modem SomesimH which
 flows southward between tho Garo and Kha.?.! Kills (both being names of
 Durg*^) J and the KHvd may perh.aps be the Kapili which fiows into the
 Brahma-putra a littlo above Gauhati, the ancient Kama-rupaj the other
@@ -19944,9 +16745,6 @@ Yisvasya mataralj ; compare M-Bh., Bhishma-P. ix. 344.
 
 
 CODXTRIES AX0 RACES IX INDIA.
-
-
-307
 
 
 And otliers, small * streams, are mentioned in tlion sands,
@@ -20032,8 +16830,7 @@ Kosala and which is mentioned in verse 54.
 
 § These two names are not in the dictionary, and I have not found them
 elsewhere ; they seem to be mistakes. The Yayu Parana reads instead of
-them at/m 'par he tilangds c^a (xiv. Ill); but this is doubtful and unsatis-
-factory, for the Tilangas are mentioned as a southern people in canto Iviii.
+them at/m 'par he tilangds c^a (xiv. Ill); but this is doubtful and unsatisfactory, for the Tilangas are mentioned as a southern people in canto Iviii.
 verse 28, The Matsya reads and Avanias and Kalingas (cxiii. 36), but these
 are hardly satisfactory ; the former are mentioned in verses 52 and 55, and
 the latter in verses 37 and 46 below. Perhaps Aj*ka-Hngas may be meant
@@ -20050,23 +16847,16 @@ but this is unsatisfactory for the Magadhas are mentioned in vers© 44, The
 COUNTEIES AND RAGES IN INDIA.
 
 
-309
-
-
 and Vrikas*; tliese f well known generally as tiie
 peoples wlio inkabifc the Central Region. J
 
-Matsyai reads Mnhas (cxiii. 36), whicii I have not met elsewhere. The read-
-ing should be Malajas probably. They are mentioned in the M-Bh. (Bhi'sh-
-ma-P. is. 357), and Eam^ana (Adi-K. xxvii. 16-23), and from the course
+Matsyai reads Mnhas (cxiii. 36), whicii I have not met elsewhere. The reading should be Malajas probably. They are mentioned in the M-Bh. (Bhi'shma-P. is. 357), and Eam^ana (Adi-K. xxvii. 16-23), and from the course
 described in the latter poem as taken by Visva-mitra and Rama it appears
 they were neighbours of the Kardshas, (see note to verse 53), and occupied
-the district of Shahabad, west of the Sone, for Visra-mitra and Rama cross-
-ing from the Sarayu to the south of the Ganges entered that district, which
+the district of Shahabad, west of the Sone, for Visra-mitra and Rama crossing from the Sarayu to the south of the Ganges entered that district, which
 had been inhabited by the Malajas {ihid., 8-16.)
 
-* The Vrikas are named in Bhishma-P., li. 2106, and a king Yrika is allud-
-ed to in the Hari-Yamsa (xiii. 760-61) • but there is nothing to identify them.
+* The Vrikas are named in Bhishma-P., li. 2106, and a king Yrika is alluded to in the Hari-Yamsa (xiii. 760-61) • but there is nothing to identify them.
 The Mat.sya Parana reads Andhahas (cxiii, 36). The Andhakas were a
 subordinate family of the Yadava race, and are often mentioned in the
 M.-Bh. (e.g. Udyoga-P. Ixxxv. 304), and Hari-Yaihsa (xxxv. 1907-8; and
@@ -20077,8 +16867,7 @@ the modern Braj, the country north-west of Mathura or Muttra.
 
 t This is a, short list. Besides these the Yayu Purana has two lines at the
 beginning of this group, viz>, “ the Kurus, the Pancalas, and the S'alvas, and the
-Jdngalas, the S'drasenas, the Bhadrakaras, the Bodhas and the lords of S'ata-
-patha (xlv. 109 and 110) ; much like a passage in the M.-Bh. (Bhishma-P.,
+Jdngalas, the S'drasenas, the Bhadrakaras, the Bodhas and the lords of S'atapatha (xlv. 109 and 110) ; much like a passage in the M.-Bh. (Bhishma-P.,
 ix. 346-7). The Matsya has the same lines, but gives the last two names as
 Bdhyas and Patao'c'aras (cxiii. 35, 36). For the Kurus, see canto Iviii. verse 9;+
 for the Pancalas, canto Iviii. verse 8 ; for the Shalvas, canto Iviii. verse 6 ; the-
@@ -20086,15 +16875,13 @@ Jangalas are no doubt the people of Kuru-jangala, see note to Kuru, canto
 Iviii. verse 9 ; for the S'urasenas, see canto Iviii. verse 7. The Bhadrakaras
 are mentioned in the M.-Bh. (Sabha-P., xiii. 690) and may perhaps be the
 same a.s the Bhadras mentioned in Yana-P. ccliii. 15256 ; they appear from
-these passages to have been situated on the west bank of the Jumna, some-
-where bet'ween Delhi and Muttra. The Bodhas are mentioned in the M.-Bh.
+these passages to have been situated on the west bank of the Jumna, somewhere bet'ween Delhi and Muttra. The Bodhas are mentioned in the M.-Bh.
 (SabhA-P., xiii. 590; Bhishma-P., ix. 347) and are probably the same as
 the Bodhis {Raiiiay., Ayodh-K. Ixx. 15), who appear to have been situated
 on ' tiie eastern , confines of the Panjab. I have not met Bahyas elsewhere ;
 it seems erronecius. S'ata-patha seems to he erroneous, and Patac'c'ara is much
 better. The Patao'c'aras are mentioned in the M-Bh. (Sabha-P. xiii. 590-1 ;
-XXX. 1108; Yiraxa-P., i. 11-12; &o.,) and appear from the second of these pass-
-ages to have occupied the tract south of the Apara-matsyas, that is,
+XXX. 1108; Yiraxa-P., i. 11-12; &o.,) and appear from the second of these passages to have occupied the tract south of the Apara-matsyas, that is,
 Isrobably the^coiiatry south-west of Gwalior.
 
 J Madhya-tesa, the whole of the Ganges basin from the Panjab as far
@@ -20149,14 +16936,10 @@ into other regions ; they are also mentioned as one of the eastern peoples in
 verse 43 below. They held a high position and appear to have been numerotis
 in king Krita-virya’s kingdom at Mahish-mati, and after his death their
 ■wealth, it is said, brought do\vn on them the hostility of the Kshattriyas
-(Adi-P. clxxviii. 6803-15). Go-vardhana (masc.) as a city is uot’ in the dic-
-tionary. I have not found it alluded to elsewhere.
+(Adi-P. clxxviii. 6803-15). Go-vardhana (masc.) as a city is uot’ in the dictionary. I have not found it alluded to elsewhere.
 
 
 COUNTRIES AND RACES IN INDIA.
-
-
-311
 
 
 The North-western peoples are these — Tlie ValtliKas ^
@@ -20180,8 +16963,7 @@ VHhh'kas (Adi-P. oxiii. 4425-40; and Ixvii. 2642), and his sister Madri is
 called Vahliki also (ibid., csxv. 4886) ; and an ancient eponymous king
 Yahlika is placed in the same Krodha-vaia gana with the eponymous kings
 Madraka and Suvira (ibid., Ixvii. 2695-6). The other people of this name
-appear to have been closely connected with the Daradas who were a moun-
-tain-tribe in t^he north of the Panjab (see note to verse 38), and are the
+appear to have been closely connected with the Daradas who were a mountain-tribe in t^he north of the Panjab (see note to verse 38), and are the
 modern Dards of Dardistan ; for an ancient king . Darada the Yahlika is
 mentioned who did not belong to th* Krodha-vasa group (A'di-P. Ixvii. 2694),
 and the Yahlikas are linked wnth the Daradas (Bhlshma-P, oxviii. 5484) and
@@ -20204,9 +16986,6 @@ Eariia-P. xliv. 2026 (fee. ; see also ^J'ch Surv. Eepts,, 1I„
 14,17, 195, Ac).
 
 
-312
-
-
 CANTO L?II.
 
 
@@ -20216,8 +16995,7 @@ and the Vatadhanas, and the iCbhiras, f the Kala-
 1826; Udyoga-P. iii. 86; Bhishma*P. ix. 354; and Drona-P. xi. 398), and their
 name appears to be derived from an eponymous king Vdtadhdna, who was of
 the same Krodha-vasa gronp as the eponymous kings of the Yahlikas, Madras
-and Sanviras (Adi-P. Ixvii. 2695-9). No doubt therefore they dwelt along-
-side those tribes. Their country Yatadhana was part of the territory
+and Sanviras (Adi-P. Ixvii. 2695-9). No doubt therefore they dwelt alongside those tribes. Their country Yatadhana was part of the territory
 stretching from Panc'a-nada to the Ganges, over which the hosts assembled on
 the Kauravas’ side spread at the beginning of the great war (Udyoga-P. xviii.
 696-601), and it was in the western region (Sabha-P. xxxi. 1190-1). Prom
@@ -20268,8 +17046,7 @@ Daityas and Danavas in ancient times, and to have been the chief inhabitants
 of the country from the Jumna to the peninsula of Gnjarat (xciv, 5142-80).
 
 * So also in the Matsya Parana (cxiii. 40). This word is written Kdlajotshaha
-in the M.-BIi. (Bhisiima-P., ix. 354), but I have not found either name else-
-where. Possible readings might be Bala- jar tiled h or Bdla-hnthihdh. The
+in the M.-BIi. (Bhisiima-P., ix. 354), but I have not found either name elsewhere. Possible readings might be Bala- jar tiled h or Bdla-hnthihdh. The
 former, however, seems inappropriate ; the Jartikas arc the same as the Bahikas
 (Karna-P. xliv. 2033; Arch. Surv. Eepts., II. 13 and 105) who are noticed
 in tile note to “ Vahlikas ” (page 311). Tho Bdlas and Kdthh ” would be a
@@ -20286,8 +17063,7 @@ Kathiawar to a district (Arch. Surv. Repts , II. SS-SY).
 t Apm'dnia means “ living at the western border.” A people of this nani©
 is mentioned in tlie M -Bh. (Bliishma-P., ix. 365), and allusion is often made to
 A 2 >CirdJih'A and the Apuranfas fe.//., Vana-P., ccxvii. 78S5-6;and SantUIV., xHx.
-1780-2); but the word, though it no doubt designates a people living in the ex-
-treme west, yet seems to have a general meanic^^'in most passages (see verse
+1780-2); but the word, though it no doubt designates a people living in the extreme west, yet seems to have a general meanic^^'in most passages (see verse
 52 below), and those passages -which use it in a restneted sense do not agree —
 thus Apardnta is stated to be a country in the middle of the sea (Saghn-V.,
 iv, 58, commentary), yet tho Apnrdntikas in canto Iviii., verse 34 arc placed
@@ -20306,11 +17082,6 @@ They appear to have been considered dasyus (Banti-P., ckxi.
 
 ■where ’ Suros •eems a mistake for S^ftdra ) ; yet their women are allucled to in.
 rather f avoii&bie terms (Sabha-P., i 1829). They were divided into the
-
-40
-
-
-314
 
 
 CAKTO LTTI,
@@ -20354,8 +17125,7 @@ appear to be erroneous.
 t Qdndhdra was the whole of the iow'cr basin of the Kabul riref (Arch.)
 Surv. Eepts., II. 15, and map to p. 87). It was a famous country in ancient
 times, its kings ranked with the highest Indian vSovereigns, and its cesses
-married into the noblest royal families. The passages in which the Gan-
-dharas are pronounced bad and impure (e.p., S'foti-P., Ixv. 2429-31; snd ccvil.
+married into the noblest royal families. The passages in which the Gandharas are pronounced bad and impure (e.p., S'foti-P., Ixv. 2429-31; snd ccvil.
 7560-1 ; and Karn.a-P. xliv, 2070) betray the interpolated sentiment^ of a later
 age (Muiris Sansk, Texts, 11. 482).
 
@@ -20378,15 +17148,13 @@ less closely. It is placed by canto iviii., verse 30 in the Tortoise’s right M
 foot, and it stretched do^m to the peninsula of Kathiawar which is called the
 territory of Sindhu-Eaja in the Hari-Yamsa (cxiv. 6407-12) The Sindlms
 are mentioned frequently in the M.-Bh., and are named twice in the Bhishma-
-P. list, first in connexion with the Pulindas (ix. 348], and again in conjunc-
-tion mth the Sauviras (ix. 361), but there do not appear to be any other
+P. list, first in connexion with the Pulindas (ix. 348], and again in conjunction mth the Sauviras (ix. 361), but there do not appear to be any other
 passages wMch tend to shew a di’9ision. Sindhu had a well-known breed of
 horses (Drona-P., xxiii 973).
 
 f The Sauviras claimed descent from an eponymous king Buvira of the
 same Krodha-va^a gronp as the Madras and Yahlikas (M.-Bh,, Adi-P., Ixvii.
-2696-6) j but the genealogy of Suvira in the Hari-Yamsa (xxxi. 1679) is fanci-
-ful. Sauvira was closely connected with Sindhu, for the two are often
+2696-6) j but the genealogy of Suvira in the Hari-Yamsa (xxxi. 1679) is fanciful. Sauvira was closely connected with Sindhu, for the two are often
 coupled together, and Jayad-ratha king of Sindhu was also lord ox Sauvira
 and the Sauviras, and is styled Saindhava and Suvira indifferently (Ysna-
 P., oolxiii. 16576-81; cclxvi. 35618 and 15635-7; and colxvii. 35639-51).
@@ -20401,8 +17169,7 @@ that portion only of the larger area. This theory seems to satisfy fchs
 conditions generally.
 
 Along with the Sauviras and Saindhavas the Kurme. Purana mentions
-(xlvil. 40) the Hui^ias (or Kunasj, the Malyas (or S'^alvasj, the inhabi-
-tants of B0ya (or Kalpa).” For the Ednas^ see note to canto Iviii., verse 45 ;
+(xlvil. 40) the Hui^ias (or Kunasj, the Malyas (or S'^alvasj, the inhabitants of B0ya (or Kalpa).” For the Ednas^ see note to canto Iviii., verse 45 ;
 
 seems erroneous ; for the Sdlvas, see canto Iviii, verso 6 ; Mdlya seemsi
 erroneouB ; Bdhjd and Kalpn mem unidentifiable.
@@ -20434,8 +17201,7 @@ Piinlna cxiv, 7 and 15-18.) Aladra then was the country around Sangala,
 with the tracts on either side watered by the Olienab and Eavi. It was a
 famous kingdom. The weird story told about king Yyushitasva’s qneen
 (A'dhP., exxi. 4695-4714} no doubt means her sons became Madras and did
-not originate the Madras. In later times the brahmans of Hindustan pro-
-nounced the Madras, like the G-ilndharas, base and impure (S'anti-P,, cevii.
+not originate the Madras. In later times the brahmans of Hindustan pronounced the Madras, like the G-ilndharas, base and impure (S'anti-P,, cevii.
 7559-61*; and Hari-Y., xiv. 784j ; see especially Karna-B., sliv. 2033-53, where
 the Madras are abused in good set terms. The Vayu Purina reads Bhadrahas
 erroneously (xlv. 116).
@@ -20450,16 +17216,13 @@ may be connected with YayAti’s son Druhyu who was king of the West,
 t This seems erroneous. These people are mentioned in verse 46, and there
 seems to be no ground for thinking auy Kalingas lived in North India; yet
 Kalingas are mentioned in such a connexion (Bhishma-P., ix. 376; and Ixxi*
-3132 ; and see note to Arkalingas in verse 33), and a town Kalinga^nagara is men-
-tioned in the Eitmay. on the west of the Go-mati and not far from it (Ayodh.
+3132 ; and see note to Arkalingas in verse 33), and a town Kalinga^nagara is mentioned in the Eitmay. on the west of the Go-mati and not far from it (Ayodh.
 K., Ixxiii. 14,15). A tribe called Kulingas is alluded to (Drona-P., exxi.
 4819). The Vayu Parana reads KuUndas instead (xlv. 116), which is no doubt
 right. Cunningham says the Kulindas or Knnindas are the modern Kunets
 who occupy Kullu and the Simla hills and the slopes below, along both sides
-of the Sutlej (Arch. Smw. Eepts., XIY. 116 and 125-130), The Kulindas ex-
-tended further east along the southern slopes of the Himalayas as far as
-Nopal, for they wore the first nation which Arjuna conquered in his North-
-ward march from Indra-prastha (Sabha-P., xxv. 996), and they also occupied
+of the Sutlej (Arch. Smw. Eepts., XIY. 116 and 125-130), The Kulindas extended further east along the southern slopes of the Himalayas as far as
+Nopal, for they wore the first nation which Arjuna conquered in his Northward march from Indra-prastha (Sabha-P., xxv. 996), and they also occupied
 the hills north of Mnndara, that is, the Almoi-a. hills (id., li. 1858-9; and
 note ^ to page 2S7 above) ; indeed the name apjjears to have comprised a
 considerable body of hill tribes, for ** all the countries of Kulinda ” are spoken
@@ -20470,9 +17233,6 @@ tribe inhabiting the Himalayas and intermixed with Kiratas and Tangapas
 
 
 COUNTRIES AND RACES IN NORTH INDIA.
-
-
-317
 
 
 tlie ParadaSj* the Hara-bliushikas, f the Matharas, J
@@ -20516,22 +17276,17 @@ mentions the Bdku'hcidhas (Bliishma-P., ix. 362) and the Bdlabhadras (Karna-P-
 vi. 153} ; and the Matsya Purana reads Ka^faMras (cxiii. 42) ; but none of
 these seems satisfactory and I have not met any of them elsewhere.
 
-II These people were called KehayaSt KaiJeayas and Kaikeyas. An epony-
-mous ancestor Kaikeya is assigned to them by the Hari-Yaihsa (xxxi. 1679),
+II These people were called KehayaSt KaiJeayas and Kaikeyas. An eponymous ancestor Kaikeya is assigned to them by the Hari-Yaihsa (xxxi. 1679),
 but his genealogy .seems fanciful. They were a powerful and famous nation,
 and were noted bowmen (Sabha-P., iv. 126; and Yana-P., cclxvii 15654).
 They inhabited the Panjab and appear to have Joined the Madras, for the two
 are sometimes coupled together (Sabha-P., li, 1870; and Drona-P., xx. 799); and
 
 
-318
-
-
 CANTO LTII.
 
 
-88 kas,* and tlie settlements f of Kshattriyas, and the fami-
-lies of Yai4jas and S'udras. $
+88 kas,* and tlie settlements f of Kshattriyas, and the families of Yai4jas and S'udras. $
 
 The Kambojas,§ and the Daradas,|| and the
 
@@ -20551,8 +17306,7 @@ tribes of Malikas ” ? The Malikas may perhaps be identified with the MalU
 t Upa-nUvesa, a word not in the dictionary. It seems to be synohymons
 ivitli Qiuvem which appears to be the word meant in the corresponding passage
 in the Bhishma-P. list (ix. 374, Jcshaitriyd yoniveMi c'a; but kshattriyopanivesds
-c'« would be preferable), M-ves'a is used elsewhere in the M.-Bh. (c.gr., Sa-
-bha-P., xiii. 615 ; and zis. 798), and in the Bamay., (Kishk.-K , xliii. 24), and
+c'« would be preferable), M-ves'a is used elsewhere in the M.-Bh. (c.gr., Sabha-P., xiii. 615 ; and zis. 798), and in the Bamay., (Kishk.-K , xliii. 24), and
 appears to denote a nfilitary colony or settlement in a foreign country.
 
 J That is, S'udras as a caste, and nofc as a raoej as a race they have been
@@ -20590,18 +17344,15 @@ largely with stones and were skilled in slinging stones (Drona-P., cxxi. 4835-
 extinction of sacred rites, &c. (x. 43 and 44) ; and like the Paradas and otbers
 they wore considered mleoViias and dasyns (Hari-V., cxv. 6440-6442).
 
-* Tills word is also written Barvara and Barbara, and often means any bar-
-barous race. The Tarvaras are generally mentioned in conjunction with the
+* Tills word is also written Barvara and Barbara, and often means any barbarous race. The Tarvaras are generally mentioned in conjunction with the
 S'akas or Yavanas ( Sabha-P., xxxi. 1199 ; Yana-P., ccliii, 16254 ; S'anti-P., ccvii.
-7560-6 1 ; &c) ; and from these allusions it appears they were mainly a west-
-ern or north-western race ; but Varvaras •were also to he found in the east or
+7560-6 1 ; &c) ; and from these allusions it appears they were mainly a western or north-western race ; but Varvaras •were also to he found in the east or
 north-east of India (Sabha-P., xxix. 1088), and seemingly also in the south
 (Vana-P., li. 1989) like the S'avaras (S'anti-P., Ixv. 2429). The name no doubt
 represents the rolling of the letter r or rough and unknown speech ; hence it
 would he applied to various rude tribes.
 
-t This is not in the eJetionary. The Vdyn Puraija reads Priyadauhikas in-
-stead (xlv. 118), but I have not found either word elsewhere. Canto Iviii
+t This is not in the eJetionary. The Vdyn Puraija reads Priyadauhikas instead (xlv. 118), but I have not found either word elsewhere. Canto Iviii
 mentions certain Bhoga-pvasthas (verse 42) in the north. All these names
 seem suggestive, and may perhaps bo equivalents of Ufmva-mnlieta (people
 who have no marriage and practise promiscuous intercourse, utsava meaning
@@ -20645,8 +17396,7 @@ Parana reads Tushdras (xly. 118}, and they are mentioned in the M,-Bh.
 the same people. They were an ontside northern race bordering on the
 Himalayas (Tana-P,, clxxvii. 12350). In the Hari-Yaih^a they are classed
 along with S^akas, Daradas, Pahlavas, &o., and considered to be mlec'c%as
-and dasyua (oxv. 6410-42), they are ranked with wild hill-tribes as originat-
-ing from Hng Vena’s sins (y. 310-11) , and are said to have been
+and dasyua (oxv. 6410-42), they are ranked with wild hill-tribes as originating from Hng Vena’s sins (y. 310-11) , and are said to have been
 repressed by king Sagara (xiv, 784), Lassen identifies them with the
 Tocharif and places them on the north side of the Hindu Knsh (Ind. Alt.,
 map). The Bdmiy. has an absurd fable about their origin (Adi.-K., Ivi. 8 ;
@@ -20691,11 +17441,9 @@ COTOTRIES IHB EACES NOETK OF INDIA. 321
 40 Ensenikas,^ the Lampakas^f tke S'ulakaraSjJ tlie
 
 
-all being placed in tke same connexion. If Cunningham is right in identi-
-fying Lamp Aka with Lamghan (see second note below), Pashkala suggests
+all being placed in tke same connexion. If Cunningham is right in identifying Lamp Aka with Lamghan (see second note below), Pashkala suggests
 PmhhaMvati or Fushhardvati, (KAmay., Kishk.-K., xliii. 23), the ancient
-capital of Gandhdra (Ano. Geog., L 49), but the GAndharas have been men-
-tioned in their proper place in verse 36 above. I have not met the name
+capital of Gandhdra (Ano. Geog., L 49), but the GAndharas have been mentioned in their proper place in verse 36 above. I have not met the name
 Proshakas any where else.
 
 Prasthala was a country closely connected with Trigarta, for Sn-^arman
@@ -20724,8 +17472,7 @@ LampAkas are described as a mountain tribe, like the Baradas and Palindas,
 who fought largely with stones and were skilled in slinging stones ; but
 otherwise there are very few references to them in the M.-Bh. Lassen
 identifies Lampaka with the Lambagm and places them south of the Hindu-
-Eush, in modern Kafiristan. Cunningham says Lampaka is the modem Lam-
-ghan, north-east of Kabul (Anc. Geog., I. 17 and 27), which agrees with
+Eush, in modern Kafiristan. Cunningham says Lampaka is the modem Lamghan, north-east of Kabul (Anc. Geog., I. 17 and 27), which agrees with
 Lassen. The Matsya Par^tia reads Lampahm (oxm, 43), no doubt by a mistake,
 
 t The VAya PurApta reads Stanapas or Tanapas (xlv. 119). I have not
@@ -20735,11 +17482,6 @@ grouping however is different. The Matsya Parana reads Talagdnas (cxiii. 43),
 which seems erroneous. Perhaps the Suiakaras' may be identified with the
 SunuwArs, a cultivating tribe of Kepal, forming part of the highest class,
 {Bisley*s Castes and Tribes of' Bengal, 11^281),
-
-41
-
-
-322
 
 
 C5ANT0 lYTi.
@@ -20777,8 +17519,7 @@ term includes the Kharnbu, Limbu and Yakhd tribes ; and the Danuar, Hayi't
 and Thami also claim to be Kir .inti,” but their claim is disputed by the
 first three tribes which are superior (Risley’s Castes and Tribes of Beng? I,
 I. 490), But formerly they had a much larger range and were spread along
-the greater part of the southern side of the Himalayas, for Arjuna encount-
-ered them in his northern expedition (Sabha-P., xxv. 1002), Bhimf» in his
+the greater part of the southern side of the Himalayas, for Arjuna encountered them in his northern expedition (Sabha-P., xxv. 1002), Bhimf» in his
 eastern {id., xxix. 10S9), and Nakula in his western expedition (id., xxxi.
 1199). They formed a group of closely allied yet disfcinct tribes or <^ns,
 for two separate Kirata kings ar e named, ( ^b ha-P., lv».. A19 and
@@ -20848,9 +17589,6 @@ country flows the B. 'C'akshu, one of the three large river.s wliich rise in the
 middle of the Himalaya mounlam-systein and flow westward (cxx. 45, 46),
 
 
-324
-
-
 CANTO liVn.
 
 
@@ -20901,32 +17639,24 @@ MadguraSj “ divers,” are mentioned in a totally different connexion in the
 Hari-Yamsa (xcv. 5233-9). Seemingly the word should be connected with
 Modd^giri in the Eastern region where a kingdom once existed (M.^Bh.,
 Sabha-F., xxix. 1095) j is it to .be identified with the modem Mungir
-(commonly Monghyr) on the Ganges in Behar, where there is a small out-
-crop of hills. Cunningham says Mudgala’^un^ Mudgaldmma (to which the
+(commonly Monghyr) on the Ganges in Behar, where there is a small outcrop of hills. Cunningham says Mudgala’^un^ Mudgaldmma (to which the
 Matsya Parana reading approximates) and Afud^a-grin were the old names of
 
 
 OOUNTEIES AND RACES IX EASTERN INDIA.
 
 
-325
-
-
 43 girjas, ^ tlie V aliir-giras, f and tlie Pravaiigas J also,
 
 Alungir j and an earlier name was Kashta-harana-parvata (XY. 15 and 18), but
-this last is open to the objection that no name can well be older than that pre-
-served in the M.-Bh. The Mudgalas ai*e mentioned in Drona-P., xi. 897.
+this last is open to the objection that no name can well be older than that preserved in the M.-Bh. The Mudgalas ai*e mentioned in Drona-P., xi. 897.
 
-* Or Antar-giri as the Alatsya Parana reads (cxiii. 44*). They are men-
-tioned in the Bhishma-P. list (ix. 357). The name, no doubt, means “those
+* Or Antar-giri as the Alatsya Parana reads (cxiii. 44*). They are mentioned in the Bhishma-P. list (ix. 357). The name, no doubt, means “those
 who dwell amid the hills,” and as the people are placed in all these passages
 in proximity to the Angas, it seems reasonable to identify Antar-giri with
 the Eajmahall hills (in the modern district of the Santhal Parganas) 'which
 form a marked natural division between Anga and Yanga. In the only*
-other passage 'where I have found this name (Sabha-P., xxvi. 1012) Antar-
-girif VaMr-giri (see next note) and Upa~gir.i are mentioned in obvious contra-
-distinction and are placed in the Northern region j it is doubtful, therefore,
+other passage 'where I have found this name (Sabha-P., xxvi. 1012) Antargirif VaMr-giri (see next note) and Upa~gir.i are mentioned in obvious contradistinction and are placed in the Northern region j it is doubtful, therefore,
 whether they denote the tracts mentioned here ; and they may perhaps refer
 to some portion of the slopes of the Himalayas.
 
@@ -20950,26 +17680,20 @@ This people are said to have been so called after an eponymous king Anga ;
 he^ Yanga, Kalinga, Pundha and Suhma are described with considerable
 ciroumstahtial detail as the five sons of king Bali’s queen (Bali being king of
 the Eastern region) by the |‘i8hi Dirgha-tamas (M.-Bh., A'di-P,, civ. 4217-21 ;
-and Hari-T., xxxL 1684-93). Anga comprised the modern districts of Bhagal-
-pur and Monghyr, excluding the extreme north and south portions. The ancient
+and Hari-T., xxxL 1684-93). Anga comprised the modern districts of Bhagalpur and Monghyr, excluding the extreme north and south portions. The ancient
 name Anga dropped out of use and Bihar (of Buddhist origin) has usurped
 its place ; is the word Pra-vanga here significant of the change ? The
 capital WAS first called Mdlinif and that name is said to have been superseded
-by the name Q^ampd In honour of a king O'ampa, Loma-pada’s great grand-
-son (Hari-T., xxxi. 1699 and 1700 j and M.-Bh., BAnti-P., V. 134-5), but the
+by the name Q^ampd In honour of a king O'ampa, Loma-pada’s great grandson (Hari-T., xxxi. 1699 and 1700 j and M.-Bh., BAnti-P., V. 134-5), but the
 
 
 CANTO LYIl.
 
 
-326
-
-
 the Eangeyas,’*' tlie manadaSjt the Mana-vartihas, J
 
 B&mij. makes a pumimg connexion between this name and tb© groves of
-c^ampaka trees aroand the town (i^di-K., xvii, 23) j it is the modern Bhagal-
-pnr on the south bank of the Granges (Fana-F., Ixxxv. 8150). The tract near
+c^ampaka trees aroand the town (i^di-K., xvii, 23) j it is the modern Bhagalpnr on the south bank of the Granges (Fana-F., Ixxxv. 8150). The tract near
 C'ampa was called S'dta-visliaya (Vana-P , cccvii. 17150-51), that is, **' the land
 of bards or charioteers.” The Angas are mentioned twice in the Bh£shma-F.
 list (ix. 353 and 357) ; it does not appear why*
@@ -20997,8 +17721,7 @@ have been formed.
 t The Yayu Parana reads Mdladas (xlv. 122) which appears preferable,
 and this may mean the people of the modem district of Alaldah, in which thq
 old cities of Gaui* and Panct^ are situated, while the town Maldah itself
-is old (Cunningham, Arch. Surv. Repts., XV. 77). The Maladasi are mention-
-ed as an eastern people in the M.-Bh. {SAbha-Pi^ xxix. 1081-2; and also
+is old (Cunningham, Arch. Surv. Repts., XV. 77). The Maladasi are mentioned as an eastern people in the M.-Bh. {SAbha-Pi^ xxix. 1081-2; and also
 Droi)a-P., vii. 183), but without data enough to say where they were.
 
 % The Yayu Purana reads M'dia-tJartmuA f xlv. 122). The M.-Bh. mentions
@@ -21013,9 +17736,6 @@ altogether.
 
 
 COUNTBIES AXa BACR.? IN EASTEBN INDIA.
-
-
-327
 
 
 the Brfihmottaras, * the > Pravijayas, f tlie Bhargavas# J
@@ -21063,9 +17783,6 @@ the PrdvrMieijas of the ^..xishma-P. list (ix. 358)
 
 X Those are mentioned in the Bhishma-P. list (ix, 358), and were perhaps
 an off-lying branch of the Blmrgava race in the East 5 see note to verso 35 .
-
-
-328
 
 
 CANTO LVII.
@@ -21124,9 +17841,6 @@ kingdom to Amiirta-rajas, one of the four sons of a great king Ku^a f Adi-K.,
 COTOTEIES AND BACES IN EASTEBK INDIA.
 
 
-329
-
-
 tiie Madras, ^ and the Videhas, f and the Tamra-
 
 2 XXT. 1-^). Amlirta-rayas, as the name is generally written in the M.-Bh., is
@@ -21150,15 +17864,13 @@ iv. 119), Paundra, (Adi-P., clxxxvii. 7020), Paundraha ( Adi-P., clxxxvi. 6992 ;
 Sabha-P., xxxiii. 1270) and Paundrilca (Sabha-P., li. 1872). They appear to be
 used often as if equivalent (e.g., Sablia-P., xiii. 584), and yet a distinction
 seems to be made between Pundras and Paundras for they are separately
-mentioned in the Bldshma-P. list (ix. 358 and 365) sand Pundras, Pundra-
-kas and Paundrikas are all mentioned in one passage (Sahha-P., li. 1872-4).
+mentioned in the Bldshma-P. list (ix. 358 and 365) sand Pundras, Pundrakas and Paundrikas are all mentioned in one passage (Sahha-P., li. 1872-4).
 All, however, appear to have composed one people, and they were not a
 barbarous nation. From the arrangements of names and descriptions given
 in various passages (Adi-P., cxiii. 4453 j Sabha-P., xiii. 584 j xxix. 1091-7 j
 Yana-P., li. 19S8 j Asvamedh.-P., Ixxxii. 2464-5) it appears the Pan<^ras had
 the Kisis on their north, the Angas, Yangas and Suhmas on their north-east
-and east j and the Odras on their south-east ; hence their territory correspond-
-ed to the modem Ohuta Nagpur with the exception of its southern portions.
+and east j and the Odras on their south-east ; hence their territory corresponded to the modem Ohuta Nagpur with the exception of its southern portions.
 Their bounds on the south were no doubt the land of the Utkalas (see page
 327 note *). In one passage (Adi-P., ixvxi. 2679) it is stated an ancient
 king Balina reigned over both Paundra and Matsya; this suggests that their
@@ -21177,9 +17889,6 @@ Eepts., I. 55 ; and XYI. 6 and 34). The capital was MitJdld (Ramfy., Adi-K.,
 42 ,
 
 
-330
-
-
 CAKTO LVli.
 
 
@@ -21190,8 +17899,7 @@ designated the country itself, especially in fcbe Ramayana. The people were
 called Yidehas (or Yidegha, as the earlier form was, see S'ata-P. Brah. I. iy,
 14), and also Mitliilas (Yana-P., ccliii. 15243). Its kings, who were often highly
 educated (S'anti-P., cocxxvii. 12215-25), are generally called Janaka, %Thich
-seems to have been the ordinary royal title (Yana-P., cxxxiii. 10837)* Cun-
-ningham says the capital was Jauakpur, which is now a small town jast within
+seems to have been the ordinary royal title (Yana-P., cxxxiii. 10837)* Cunningham says the capital was Jauakpur, which is now a small town jast within
 the Nepal border, north of where the 3kIozufferpnr and Darbhanga districts
 meet (Arch. Surv. Repts., XYI. 34 and map), but I have not met this name
 in Sanskrit works.
@@ -21220,8 +17928,7 @@ says it was founded by Yasu one of the four sons of a great king Ku^a
 who was son of Yasu king of C'edi (Adi-P., Ixiii. 2361-5 ; and Hari-Y., xxxii.
 1805), but who is also called an Anga (S'anti-P., xxix. 921-31.) One appears
 to be an eastern account and the other a western account, but there may
-be truth in both accounts for there was an interval of eight or twelve genera-
-tions between the two periods spoken of. Both agree that Giri-vraja was
+be truth in both accounts for there was an interval of eight or twelve generations between the two periods spoken of. Both agree that Giri-vraja was
 made the capital by the founder of the kingdom, the former says by Yasu
 (lo€. ciL), and the latter says by Yrihad-ratlia (Hari-Y., cxvii. 6598 ; Sabha-P.,
 XX. 798-800), Cunningham has identified Giri-vraja with the modern Giryck
@@ -21231,9 +17938,6 @@ capital (Adi-F., cxiii. 4451-2; and Asvamedh.-P., Ixxxii 2435-63), but Cun-
 
 
 COrKTPvIES AND EACES IN SOUTH INDIA.
-
-
-331
 
 
 mantas, * are known as tlie peoples in the f
@@ -21274,8 +17978,7 @@ were four brothers and gave origin to the four peoples of those names
 
 II This is, no doubt, a mistake for Keralas^ which the Yiyu (xlv. 124} and
 Matsya (cxiii. 46) Pura^as read ; and the Bhishma-P. list twice (ix. 352 and
-365 ; though the first mention is probably a mistake). They were a forest-
-tribe (Sabha-P., xxx. 1174~5) and are placed on the west side by the Ragbu-
+365 ; though the first mention is probably a mistake). They were a foresttribe (Sabha-P., xxx. 1174~5) and are placed on the west side by the Ragbu-
 Vamsa (iv. 63-54). They are said to be descended from an eponymous
 Hug Kerala, and to be closely allied to the Papayas, O'olas, &o* in the Hari*
 Vaihia (xxxii, 1836). They appear to have occupied the whole of the west
@@ -21284,9 +17987,6 @@ coast from Calicut to Cape Comorin.
 <f The Cow-tails j ” a pure fancy, stories of tailed races being common
 all over the world. It may correspond to Gonarddhas in canto Iviii, verse 23 5
 but the Matsya Purina reads O'olas and Kulym {cxiii,' 46), and the Vfyu
-
-
-832
 
 
 CANTO LVII.
@@ -21379,8 +18079,7 @@ tribes in or near the Panjab) all sons of king Usmara (xxxi. 1674-8).
 Hava-rashtra is therefore out of place here.
 
 J So also in the Bhishma-P. list (ix. 366), or MdJiishilcas as the Matsya
-Parana reads (cxiii. 47). These people are, no doubt, the same as the Mdhish-
-makas (Asv’amodh.-P., Ixxxiii. 2475-7), that is, the people of Mdhuh-mdU,
+Parana reads (cxiii. 47). These people are, no doubt, the same as the Mdhishmakas (Asv’amodh.-P., Ixxxiii. 2475-7), that is, the people of Mdhuh-mdU,
 MAhish-mati was an ancient and famous city (Sabha-P,, xxx, 1 125-63 j and
 was situated on the E, Narmada, at a place where the Yindhyas and the
 Riksha Alts, (the Satpura range) contract the valley (Haid-Y., xcv. 5218, <S:o}.
@@ -21392,9 +18091,6 @@ p. 320), but this hardly agrees with the notices in Sanskrit . writings ; for
 Mabeswar must have lain within the ancient Avanti (see verse 62), and
 Avanti i^vas held to be sometimes in the South and sometimes in the West,
 whereas Mahish-mati is never, I believe, placed anywhere but in the South.
-
-
-334
 
 
 CAXTO LTir.
@@ -21455,14 +18151,12 @@ COtTNTEIBS AND EACES IN SOUTH INDIA.
 33 ^
 
 
-and tlie S'aTaras,* tlie Palindas,t tlie Vindiija-
-iiiaiil%as,J tlie people of Vidai’bha§ and the Dajgida-
+and tlie S'aTaras,* tlie Palindas,t tlie Vindiijaiiiaiil%as,J tlie people of Vidai’bha§ and the Dajgida-
 
 * The S'ayaras are an aboriginal tribe, according to some Dravidian, and
 according to others Kolarian. They are mentioned rarely in the M.-Bh.
 (S'anti-P., Ixv. 2429; olsviii. 6294-6303; olxxiii. 64li5; and covii. 7559-61)
-and Edmay. (Adi-K., i. 59; Aranya-K., Ixxrii. 6-32; &c). They are represent-
-ed in these passages as dwelling in Central India and the Dekhan, as being
+and Edmay. (Adi-K., i. 59; Aranya-K., Ixxrii. 6-32; &c). They are represented in these passages as dwelling in Central India and the Dekhan, as being
 wicked Dasyns, and as pmetising evil enstoms. They are still found scattered
 about in those parts and also towards Orissa, under the names Sabar, Saar,
 Snir, &c. In the Madras Presidency they are found chiefly in the Ganjam
@@ -21500,9 +18194,6 @@ and Vana-P., cxx. 10289-90), and corresponded to the western part of the
 modern Berar and the valley-country west of that* It is said to have been
 founded by a king Vidarbha who built a city called VidarbM (Hari-V., oxvii,
 6588 and 6605-B ; and Vana-P., Ixxii), which seems to have been the same
-
-
-336
 
 
 CANTO LYIIi
@@ -21544,8 +18235,7 @@ For Mahish-mati, see page 333 note J. The Yayu PurApa reads Faunihas,
 (xlv. 127); is this to be connected with Poonah, south-east of Bombay? I
 have not met it elsewhere.
 
-J The Yayu Purana reads Maunihas (xlv. 127) ; and Mauley as are men-
-tioned in Sabha-P*, li. 1871; but I have not found any of these names
+J The Yayu Purana reads Maunihas (xlv. 127) ; and Mauley as are mentioned in Sabha-P*, li. 1871; but I have not found any of these names
 elsewhere.
 
 § Thi^ as a people is not in the dictionary. The Ydyu Purana reads
@@ -21557,9 +18247,6 @@ king Kalmasha-pida Sandasa’s queen Madayanti by Yasishtha (Adi-P,, oxxii.
 
 
 COUNTRIES AND RACES IN SOUTH INDIA.
-
-
-337
 
 
 Blioga-vardlianas,*' NaisliikaSjt Kuntalas,J Aiidbas,§ Udblii-
@@ -21574,8 +18261,7 @@ the Southern Utsam-sanketas (Bhishma-P., ix. 3685 and see page 319 notof).
 
 t This is not in the dictionary. It much resembles the Kdsikyas of
 canto iviii. verse 24, who are, no doubt, the people of Nasik, north-east of
-Bombay ; but they seem to be intended by I^dsikydvas in verse 51. Naisha-
-dhas can hardly be meant, for they are named in verse 54 and were not in
+Bombay ; but they seem to be intended by I^dsikydvas in verse 51. Naishadhas can hardly be meant, for they are named in verse 54 and were not in
 South India. The Vayu Parana reads ATairraiha^ (xlv. 127) which somewhat
 resembles the Nairritas of the Bhishma-P. list (ix. 359),
 
@@ -21587,13 +18273,11 @@ of W. India, No. 5 by J. P. Fleet, p. 6; and No. 10 by J. Burgess, p. 72 note).
 
 § The V^yu Parana reads Andhras (xlv, 127), which is, no doubt, right.
 Andhas are mentioned in the M.-Bh. (Udyoga-P., xviii. 586 j and Bhishma- P»
-X. 357), but mistakenly for Andhakas and Andhras respectively. The An-
-dhras or Andhras were a rude race in early times (Sabha-P., iv. 119 5 xxx. 1175;
+X. 357), but mistakenly for Andhakas and Andhras respectively. The Andhras or Andhras were a rude race in early times (Sabha-P., iv. 119 5 xxx. 1175;
 xxxiii. 1270 1 and Tana-P., li. 108S) ; bufc they established a kingdom during
 the third and second centuries B. -0. Andhra was a kingdom also in Hiuen
 Thsang’s time in the 7th century A.D., and comprised the eastern portion
-of the Nizam’s territories, with its capital at Warangal, according to Cun-
-ningham (Anc. Geog. of India). Another capital was Dhenukakata, which
+of the Nizam’s territories, with its capital at Warangal, according to Cunningham (Anc. Geog. of India). Another capital was Dhenukakata, which
 is Bharanikota near Amaravati on the Kistna (Arch. Surv. of W. India, No. 10
 by J. Burgess, p. 32). Andhra is said to be probably the same as Telinga
 (ibid.t p. 72 note ; and dictionary), and is taken to be the Sanskrit name for
@@ -21640,8 +18324,7 @@ around the mouth of the Karmadd (Anusas.*?., xxv. 1736), and the mouth of
 that river was so specially connected with Rama that it was called Jamad*
 agnya (Matsya Parana, cxoiii, 33-34). He built the city Surparaka there
 (Hari-Y., xcvi. 6300), and Dr. Burgess has identified it with the small modem
-town Supara near Bassein, north of Bombay. The country Surparaka there-
-fore comprised the littoral tract from about Bassein to about the B..Narmad£
+town Supara near Bassein, north of Bombay. The country Surparaka therefore comprised the littoral tract from about Bassein to about the B..Narmad£
 (Arch. Surv. of W. India, No. 10 p. 31). The proper reading in Ramay.
 Kishk.“K., xliii. 6, should, no doubt, be “ the Sfirparakas also ** instead of
 *Hhe extensive towns” (Gorresio’s Edition, Annotations).
@@ -21658,9 +18341,7 @@ this is to be connected with a town and state about 90 miles
 north-cast of Ahmedabad.
 
 § Or Anikaias, or G'auikatasj neither is in the dictionary. The Yayu
-Furana reads KdUtuhas (xlv. 128) ; but I have not found these words else-
-where. These names suggest OnUcutt but that is too far south to be admis-
-sible here in the Western region.
+Furana reads KdUtuhas (xlv. 128) ; but I have not found these words elsewhere. These names suggest OnUcutt but that is too far south to be admissible here in the Western region.
 
 II See note to verse 47 above. This branch would be among the hills
 south-west of Malwa or the southern portion of the Aravalli hills probably
@@ -21674,12 +18355,8 @@ and the Matsya Sirdlas {cxiii. 49) ; hut I have not found any of these words
 COUHTRIES AHB RACES IN WESTERN INDIA.
 
 
-339
-
-
 Riipapas,’*^ and tlie Svapadas,t and tlie KunimiTas, | and
-51 all the Ka|haksharas, § and the others toho are called E'a-
-sikyavas, || and the others who live ou the north bank of the
+51 all the Ka|haksharas, § and the others toho are called E'asikyavas, || and the others who live ou the north bank of the
 HarmadajlF the Bhirn-kadchas, and the Maliejas,tt and
 
 elsewlier©. Are these two names to be identified with Israel f There was an
@@ -21706,8 +18383,7 @@ but there are no data to identify them.
 § This is not in the dictionary. The Yayu Purana reads Parahsharas (xlv.
 129), and the Matsya Kdraskaras (cxiii. 49). The Pdrahvas of canto Iviii
 verse 31 appear to be the same people. I have not met with any of these
-names elsewhere, except Karaskaras in SAbha-P., xlix. 1804, but the Param-
-vas might mean a tribe which claimed descent from Parasu-Rama
+names elsewhere, except Karaskaras in SAbha-P., xlix. 1804, but the Paramvas might mean a tribe which claimed descent from Parasu-Rama
 
 (1 This is not in the dictionary. The Yayu Parana reads ‘‘Nasikyas and
 others’* (xlv, 130); this agrees with the Hdsiky-ts of canto Iviii, verse 24
@@ -21731,8 +18407,7 @@ ft These are, no doubt, the people who dwelt along th© B. Mahi (gee pag©
 
 340 CANTO LTir.
 
-52 the Sarasvatas^ also, and the Kasmiras,t ancl the Sn-rash-
-tras,| and the Avantyas, § and theArbudas|| also. These
+52 the Sarasvatas^ also, and the Kasmiras,t ancl the Sn-rashtras,| and the Avantyas, § and theArbudas|| also. These
 are the Western peoples.
 
 5-3 Hear the ioliabitants of the Vindhya Mountains. *[[ The
@@ -21810,19 +18485,16 @@ following allusions. It is linked with C'edi and with Kssi (Adi-P., cxxiii. 4796
 Bhishma-P., ix. 848 ; liv. 2242 ; Ivi. 2416 j cxvii. 5446 ; and Karpa-P,, xxx.
 1231), and with the Yatsyas or Yatsas (Droija-P., xi. 396} see page 307,
 not©^) } it was not a very accessible country (Sabha-P., li. 1864); and
-here it is said to rest on the Yindhyas. Moreover Danta-vakra acknow-
-ledged dar5sandha, king of Magadha (see page 330 note %) as his suzerain
+here it is said to rest on the Yindhyas. Moreover Danta-vakra acknowledged dar5sandha, king of Magadha (see page 330 note %) as his suzerain
 (Sabha-P., xiii. 575-7 ; and Hari-Y., xci. 4963). Karusha therefore was a
 hilly country, south of Kasi and Tatsa, between C'edi and Alagadhaj that is,
 it comprised the hilly country of which JKewa is the centre, from about the
-E. Ken on the west as far as the confines of Behar on the east, I have dis-
-cussed Karusha in a paper on ** Ancient Cedi, Matsya and Karusa” in the
+E. Ken on the west as far as the confines of Behar on the east, I have discussed Karusha in a paper on ** Ancient Cedi, Matsya and Karusa” in the
 Bengal Asiatic Society’s Journal^ 1895, Part 1. p. 249.
 
 t This must be incorrect, for the Keralas were a well-known people in the
 South ; see note to Kevalas in verse 45. The Yayu Porapa (xlv. 1 32) and
-Matsya {cxiii. 62) read Melcalas, which is no doubt right. They are men-
-tioned in the M.-Bh. (Bhishma-P., ix. 348} and li. 2103) and occupied the
+Matsya {cxiii. 62) read Melcalas, which is no doubt right. They are mentioned in the M.-Bh. (Bhishma-P., ix. 348} and li. 2103) and occupied the
 Mekala Mils and the hilly country around. The Mekala hills are the hills
 in which the E, Sone rises (Eamiy., Kishk.-K,, xL 20), and which bound
 Chhattisgarh on the west and north. These people are often, coupled, as here,
@@ -21830,9 +18502,6 @@ With the UtkalHS.
 
 § See page 327, note *. Htkala had a wide extension and falls within this
 group as well as within the Eastern group.
-
-
-342
 
 
 CANTO LTII.
@@ -21860,18 +18529,15 @@ J Or better, Bhojas, as the Yayu (xlv. 182) and Matsya (cxiii. 52) Purauas
 read. This name, as mentioned in page 335, note §, seems to have had
 more than one application. Bhojas as a Yadava tribe dwelt in Eyishna’s
 kingdom in Su-rashtra; and Bhojas inhabited Myittikavati, which seems from
-the various references to it to have been situated somewhere on the north-
-eastern limits of the modem Gujarat (Yana-P., xiv. 629; xx. 791; cxvi.
+the various references to it to have been situated somewhere on the northeastern limits of the modem Gujarat (Yana-P., xiv. 629; xx. 791; cxvi.
 10172-6; ccliii. 15245; Mausala-P., vii. 244r-5 ; and Hari-Y., xxxvii. 1980-7;
-and xxxviii. 2014). These may be the Bhojas mentioned in the text, inhabit-
-ing the extreme western end of the Yiudhya range.
+and xxxviii. 2014). These may be the Bhojas mentioned in the text, inhabiting the extreme western end of the Yiudhya range.
 
 § Or better, Kishhindhakas, as the Matsya Furana reads (cxiii. 52). They
 are no doubt the same as the KaisJeindhyas of canto Iviii. verse 18 ; hut they
 cannot have any reference to Eishkindhya in the Eamay., for that country
 lay far to the south of the Godavari (see Journal, E. A. S,, 1894, pp. 255, &o.),
-and is referred to in M.-Bh., Sahha-P., xxx. 1122. The Kishkindhakas men-
-tioned in the Hari-Yamm (xiv* 784) may be the people intended here, but
+and is referred to in M.-Bh., Sahha-P., xxx. 1122. The Kishkindhakas mentioned in the Hari-Yamm (xiv* 784) may be the people intended here, but
 there appear to he uo data to identify them.
 
 It The Matsya Puxana reads 8toiala$ (cxiii. 53). They are not in the die.,
@@ -21881,8 +18547,7 @@ found any of these names elsewhere.
 % These are the people of Dakshi^a Eosala or Mahl,-Kosala, the moderii
 Chhattisgayh. la the Journal, E* A. S., 1894, p. 246, some reasons have been
 given for placing the Pano'apsaras lake, where Eama spent ten years of his
-exile, in this region. May one hazard the conjecture that it was in conse-
-quence of his long residence here, that a colony from North Eosala invaded
+exile, in this region. May one hazard the conjecture that it was in consequence of his long residence here, that a colony from North Eosala invaded
 this region, established a kingdom here and gave their name to this country ?
 The connexion was ancient (Asva'medh.-P,, Ixxxii. 2464-5).
 
@@ -21940,9 +18605,6 @@ Nishadha comprised the country south of the Yindhyas between long. 74°
 and 75° with Avanti to the north-east and Yidarbha to the south-east. Its
 
 
-344
-
-
 CANTO LVII.
 
 
@@ -21963,12 +18625,10 @@ Bengal (Sabha-P., xxv. 1002; xxix. 1101: and xxxiii. 1268-9); in or near
 the Pandya kingdom in the South (Udyoga-P., xviii. 578) ; in the north and
 west of the peninsula of Kathiawar (Hari-V., cxiii. 6361-9; and cxiv.
 6410-11) ; and on the western coast generally (Udyoga-P., iii. 81) ; but the
-name was more specially applied to a tract on the west coast which consti-
-tuted a kingdom in the Pandavas’ time (Sabha-P., iv. 123). The only country
+name was more specially applied to a tract on the west coast which constituted a kingdom in the Pandavas’ time (Sabha-P., iv. 123). The only country
 which rests on the Yindhyas and borders on the sea is the tract on the east
 of the Gr. of Cambay, north of the Narmada, and this no doubt was Andpa.
-It is also indicated that Su-rashtra, Andpa and Anarta were contiguous coun-
-tries, and that Anupa lay beyond and south of Su-rashtra (Hari-Y., xoiv. 5142-
+It is also indicated that Su-rashtra, Andpa and Anarta were contiguous countries, and that Anupa lay beyond and south of Su-rashtra (Hari-Y., xoiv. 5142-
 80). When the kings of M4hish-mati (see page 338, note J) were powerful,
 the valley of the lower Narmada and Amdpa would naturally faU under their
 sway, and this no doubt explains why Kartavirya is called lord of Anupa ”
@@ -21990,8 +18650,7 @@ Yitihotras were a branch of that race (Hari-Y., xxxiv. 1895), They are
 called Y4tahQtfas in the M,-Bh. (Drona-P., Ixx. 2436). Being Haihayas, they
 probably occupied a part of the upper Narmada valley.
 
-I They have been mentioned already in verse 52. Avanti had the Nar-
-mada flowing through it (Sabha-F., xxx. 1114; and Yana-P , Ixxxix. 8354-8)
+I They have been mentioned already in verse 52. Avanti had the Narmada flowing through it (Sabha-F., xxx. 1114; and Yana-P , Ixxxix. 8354-8)
 
 
 CANTO LTO.
@@ -22010,8 +18669,7 @@ The^atsya reads A-pathas fcxiii. 55), which seems erroneous.
 
 ^ The Khasas or Khasas are generally mentioned as a half-civilized tribe
 outside India, along with Bakas, Daradas, &c. (Sabha-P., li. 1859; Drona-P.,
-xi. 399; and cxxi. 4846-7). They are said to have been defeated and de-
-graded by Sagara (Hari-V., xiv. 784), and were considered mleo'oOias {id., xcv-
+xi. 399; and cxxi. 4846-7). They are said to have been defeated and degraded by Sagara (Hari-V., xiv. 784), and were considered mleo'oOias {id., xcv-
 6440-1; see also Muir^s Sansk. Texts, II. 482). The Khasas in the text,
 however, may perhaps be identified with the Khas, who were formerly a small
 ^ctan%trtiggrg^eveloped into ^^ pred ominant military order of the kingdom
@@ -22045,9 +18703,6 @@ or Bakrid-gtdhaSi who are said to be a terrible .mleo'c'ha tri be in the North
 
 
 PRAXSE OP INDIA.
-
-
-847
 
 
 gartas,^ and ilio GAlavas,t tbe Kiratas,J aDcl tlie Tainasas.5
@@ -22088,8 +18743,7 @@ war Prasthala belonged to Trigarta (see note on page 321), and so brought
 the Trigarta territories close to Matsya and 8'alva.
 
 f These people, no doubt, claimed to be the desc^endants of the yishi Galava
-(Hari-V., xxvii 1463-7 ; and xxxii. 1767-76), who was a famous son of Visva-
-mitra (Anutas. -P., iv. 249-259; Udyoga-P., cv-cxviii; and see cantos XX and
+(Hari-V., xxvii 1463-7 ; and xxxii. 1767-76), who was a famous son of Visvamitra (Anutas. -P., iv. 249-259; Udyoga-P., cv-cxviii; and see cantos XX and
 XXI above), or took their nanio from Mm; see similarly the Atreyas and
 Bharadvajas of verse 39.
 
@@ -22099,8 +18753,7 @@ J See note to vei'se 40.
 
 } j C^atuk’sams thdna-samsthitam.
 
-This implies that the Himavat range included also the Sulaiman Moun-
-tains along the west of the Panjab. I-T he simile must refer to a drawn bow,
+This implies that the Himavat range included also the Sulaiman Mountains along the west of the Panjab. I-T he simile must refer to a drawn bow,
 with the string angular in the middleJ
 
 
@@ -22119,8 +18772,7 @@ onr divine condition I A man indeed does actions that the
 
 64 gods and dembons cannot dol’’ Those who are involved in the
 fetters of such action, who are eager to proclaim their own
-actions, || and who are possessed of a small portion of happi-
-ness perform no action at all.
+actions, || and who are possessed of a small portion of happiness perform no action at all.
 
 
 Canto LYIII.
@@ -22161,9 +18813,6 @@ diminish the stock of their actions.**
 posrnoiji OP vishot is tortoise m iin>iA.
 
 
-349
-
-
 Btti ilion didst previously make mention of the Tortoise, who
 is the adorable Vishnu, in Bharata j I desire to hear fully
 about his position.
@@ -22178,8 +18827,7 @@ Markaudeya spoke
 4 With bis face looking eastwards the adorable Tortoise-formed
 god takes his position, when he approaches this nine-portioned
 
-5 country Bharata, O brahman. The constellations are arrang-
-ed all about him in nine divisions, and the countries * also,
+5 country Bharata, O brahman. The constellations are arranged all about him in nine divisions, and the countries * also,
 0 brahman. Hear duly from me which they are.
 
 6 The Veda-mantras,t the Vimandavyas, J the S'alvas, §
@@ -22214,9 +18862,6 @@ eity called Mdrtiikdvata (or MriUiM-mti ?), which is probably the same as
 the Mfifetika-vati mentioned in page 342, notej (Tana-P. xiv. 6-29; and
 
 
-350
-
-
 CANTO IiYITI.
 
 
@@ -22224,10 +18869,8 @@ and tlio IsTxpas,* and the S'akas,t and the IJjji-
 
 Xk. 791). The Hari-Tamsa says king Sagara degraded the S'alras (xiv. 784),
 blit this is a late fable for the Shalva king was one of the leading monarchs in
-Krishna’s time {id , cviii. 6029) and washrother of S'isu-pala king of O'edi (Ta-
-na-P. xir. 620-7 ) ; and other allusions shew that S'alva was a famous kingdom
-before that (Udyoga-P. clxxiii and clxxiv; and Anusas.-P. cxxxvii. 6267); be-
-sides which, Satya-vat and Savitri rank with the noblest characters in ancient
+Krishna’s time {id , cviii. 6029) and washrother of S'isu-pala king of O'edi (Tana-P. xir. 620-7 ) ; and other allusions shew that S'alva was a famous kingdom
+before that (Udyoga-P. clxxiii and clxxiv; and Anusas.-P. cxxxvii. 6267); besides which, Satya-vat and Savitri rank with the noblest characters in ancient
 Indian story. The weird legend of Vyushitasva’s queen no doubt means her
 sons became S'alvas and did not originate the race ( Adi*P. cxxi. 4695- 4714),
 as in the case of the Madras (page 315, note J),
@@ -22250,8 +18893,7 @@ The Nipas who survived are mentioned in the M,-Bh. as an inferior people
 
 t The S'akas were originally an ontside race and are mentioned often in
 the M-Bh. They were considered to be mlec^c'has (Vana-P. clxxxviii. 12838-
-0), and were classed generally with Yavanas, but also with Kambojas, Pah-
-iaras, Tukbaras and Khasas (Sabha-P. xxxi. 1199; 1. 1850; Udyoga-P. iii.
+0), and were classed generally with Yavanas, but also with Kambojas, Pahiaras, Tukbaras and Khasas (Sabha-P. xxxi. 1199; 1. 1850; Udyoga-P. iii.
 78; xviii. 590; Urona-P, xi 399 ; xx. 798 ; cxxi. 4818; SMnti-P. Ixv. 2429;
 and Vana-P. H. 1990; and also Eam%., Kishk. K, xliv. 13). Their home
 therefore lay to the north-west, and they are generally identified with the
@@ -22267,9 +18909,6 @@ Kshattriyas and became degraded from huving no brahmans (M-Bh., Anusas.-
 
 
 COUNTRIES Am RACES IN MABHYA-DES'A.
-
-
-851
 
 
 lianas.’*^ my cliildjf tlie Glioslia-saiikliyas,J and tlie
@@ -22313,17 +18952,12 @@ verse 61.
 XXX* 1105-6), and comprised the country ai-ound Mathura, the modern Muttra
 (Ifari-Y., Iv. 3093-3102; and xci. 4973) to the cast of Matsya {Yirata-P., v.
 144-5) ; and it extended apparently from the Ohambal to about 50 miles north
-of Muttra (see Cunningham, Arch. Surv. Repts., XX. 2). The S'urasenas be-
-longed to the Yadava and Haihaya race, for Aiathura the capital is special-
-ly called the capital of the Yadavas, and the kings who reigned there be*
+of Muttra (see Cunningham, Arch. Surv. Repts., XX. 2). The S'urasenas belonged to the Yadava and Haihaya race, for Aiathura the capital is specially called the capital of the Yadavas, and the kings who reigned there be*
 longed to that race iHari-V., Ivii. 3180-83; Ixxix. 4124-34; xo. 4904; cxiv.
 6387 ; and xxxviii. 2024 and 2027) . A king named Surasena, a son of Aijuna
 Kartavirya, is mentioned (id., xxxiv. 1892), who is, no doubt, intended as the
 eponymous ancestor of this people, for Ai’juna who vanquished Ravana was
 slightly anterior to Rama, and the Hari-Yaiim says S'drasena occupied tMs
-
-
-352
 
 
 CANTO LVIH.
@@ -22334,24 +18968,20 @@ Jjotisliikas, J the G-aura-grivas, § the Gudas |1 and
 8 the Asmakas,^ the Yaidehakas,** and the Pah-
 
 conntry after S'atm-glina’s time (id., Iv. 3102) ; see next note. The S'tirasenas
-constituted a powerful kingdom shortly before the Pandavas’ time, and Krish-
-na killed Kaihsa, who was one of the chief monarch s of that age, broke up the
-sovereignty and betook himself to A'liarta. In later times S'drasena pre-
-sumably regained importance, for it gave its name to S'auraseni one of the
+constituted a powerful kingdom shortly before the Pandavas’ time, and Krishna killed Kaihsa, who was one of the chief monarch s of that age, broke up the
+sovereignty and betook himself to A'liarta. In later times S'drasena presumably regained importance, for it gave its name to S'auraseni one of the
 chief Prakrits.
 
 * Mathura was the capital of S'urasona as mentioned in the last note, and is
 the modern Muttra on the R. Jumna (Hari-T., Iv. 3060-61). The Hari-Vaihsa
-says that Madhu, king of the Daityas and Danavas, and his son Lavana reign-
-ed at 'Madliu-pura and Madhu-vana (Iv. 3061-3) j and during Rama’s reign
+says that Madhu, king of the Daityas and Danavas, and his son Lavana reigned at 'Madliu-pura and Madhu-vana (Iv. 3061-3) j and during Rama’s reign
 S'atru-ghna killed Lavana, cut down Madhu-vana and built Mathura on its site
 (Iv. 3083-96; and xcv. 5243-7) ; and after the death of Rama and his brothers
 Bhima of the Yadava race according to one passage (id., xcv. 5243-7) took the
 city and established it in his own family ; and Surasena (see the last note)
 according to another passage occupied the country around (id., Iv. 3102). It
 is said Bhima’s son Andhaka was reigning in Mathura while Kusa and Lava
-reigned in Ayodhya (id., xcv. 5247-8). These passages seem to make a mark-
-ed distinotion between the population in the country and the dynasty in the
+reigned in Ayodhya (id., xcv. 5247-8). These passages seem to make a marked distinotion between the population in the country and the dynasty in the
 city.
 
 t Dharmaranya was the name of a wood near Gaya (Vana-P. Ixxxiv.
@@ -22383,21 +19013,15 @@ The people of Yideha, see page 329, note f#
 COUNTRIES AND RACES IN MADHYA-BES'a
 
 
-353
-
-
 c'alas,* the Sanketas, f the Kaukas J and Mamtas, § the
 
 * Paiic'ala or Panc'ala was a large country, comprising the territory on both
 banks of tlie Ganges, and bounded on the north by Sub-Himalayan tribes, on
-the east by the same tribes and Kosala, on the south by S'urasena, the junc-
-tion of the Jiimna and Obambal, and Kanya-knbja (A'di-P., cxsxvdii. 5512-3
+the east by the same tribes and Kosala, on the south by S'urasena, the junction of the Jiimna and Obambal, and Kanya-knbja (A'di-P., cxsxvdii. 5512-3
 and Yirata-P., v. 144), and on the west by the Kurus and S'uraseuas (Sabha-P.,
-xxviii. 1061; and Bhishma-P,, ix, 346). The Pahc'alas originated in the de-
-scendants of Ajamidha by his wife Nili, though the M.-Bh. (A'di-P., xoiv.
+xxviii. 1061; and Bhishma-P,, ix, 346). The Pahc'alas originated in the descendants of Ajamidha by his wife Nili, though the M.-Bh. (A'di-P., xoiv.
 3722-3) and Hari-Yaih^a fxxxii. 1776-80, with, which agrees the Matsya
-Parana, xlix. 43-4 and 1. 1-4) differ in the number and names of the descen-
-dants. These passages from the Hari-Yaih^a and Matsya Parana date their
+Parana, xlix. 43-4 and 1. 1-4) differ in the number and names of the descendants. These passages from the Hari-Yaih^a and Matsya Parana date their
 rise about eight or niiie generations prior to the Pandaras, and the passage
 from the M.-Bh. seetns to point to a much earlier kingdom. The country
 being large was divided into two kingdoms, the Ganges being the di riding line
@@ -22411,8 +19035,7 @@ in the M.-Bh. (e.p., Adi-P., cxxxviii. 6476; and Drona-P.,xxi 883, 895 and 915)
 appear to have reigned in North Paue'ala, and the Nipas in South Panc'aia
 see page 350 note *) ; on the destruction of the latter, Prishata of the former
 dynasty united the two kingdoms, but Brona conquered his sou Drapada and
-re-established the two kingdoms, keeping North Paue'ala himself, and restor-
-ing the South to Brupada wdiothen reignedin Kampilya and Makandx {Adi-P.
+re-established the two kingdoms, keeping North Paue'ala himself, and restoring the South to Brupada wdiothen reignedin Kampilya and Makandx {Adi-P.
 cxxxviii ; Hari-T., xx. 1060-1115).
 
 t Patting aside the Utsava-sanketas (see page 319 note f), the only instance
@@ -22432,11 +19055,6 @@ vii 224).
 
 § I have met no people of this name elsewhere. Perhaps the reading
 
-45
-
-
-354
-
 
 CANTO LVni.
 
@@ -22444,26 +19062,22 @@ CANTO LVni.
 Kala-kotisas,* and Paslia«^as,t and tbe inhabitants of
 9 tbe Paripatra monntains, J tbe Kapingalas,§ Knrnrvabyas,|j
 
-should be Mdlavas, the people of Malwa (see page 341 note*) j they are men-
-tioned in verse 45 below, but their more appropriate position is here.
+should be Mdlavas, the people of Malwa (see page 341 note*) j they are mentioned in verse 45 below, but their more appropriate position is here.
 
 ^ I have not met this name elsewhere, but it may mean the people of
 Edla’hoHf which is mentioned in the M.-Bh. as a place of pilgrimage (Tana-P.,
 xcv. 8513>, and which appears from the context to be between the Ganges and
 the Balmda (the Pam-ganga or perhaps the Gurra east of it j see page 291
 note § §), Kofi-Hrtha mentioned in the Matsya Parana (cv. 44) seems to be
-the same. Moreover Kala-koti may be the same as Kdla-Mta, which is allud-
-ed to occasionally (SabharP., xxv. 997 ; Udyoga-P., xviii. 696-601 ; and perhaps
-Adi-P., cxix. 4637), and foi' which the second passage indicates a similar posi-
-tion.
+the same. Moreover Kala-koti may be the same as Kdla-Mta, which is alluded to occasionally (SabharP., xxv. 997 ; Udyoga-P., xviii. 696-601 ; and perhaps
+Adi-P., cxix. 4637), and foi' which the second passage indicates a similar position.
 
 t ‘‘ Heretics j’* applied to Tains find Buddhists. I have met with no people
 of this name.
 
 J See p^<g0 286 note J.
 
-§ I have nob met this name elsewhere. A river called Kapinjald is men-
-tioned in the Bhishma-P. list (ix. 334), but without any data to identify
+§ I have nob met this name elsewhere. A river called Kapinjald is mentioned in the Bhishma-P. list (ix. 334), but without any data to identify
 it. T^vo other readings may be suggested Kdlinr^akas, i.e., Kalingas (see
 page 316, note f) ; or better perhaps KdlanjaraSf the inhabitants of Kalinjar, an
 ancient'and celebrated hill and fort 33 miles south of Banda in Btmdelkhand ;
@@ -22477,24 +19091,18 @@ meant. Tdhyas are said to he a people in the dictionary.
 The Kuras occupied the country from the STivis and Sub- Himalayan tribes
 on the north to Matsya, Surasena and South Pauc'ala on the south, and between
 Korth Panc^ala on the east and Maru-bhumi (the Bajputana desert) on the
-west. Their territory appears to have been divided into three parts, Kuru-
-kshetra, tbe Kurus and Kuru-jangala (Adi-P., cix, 4337-40). Kuru-kshetra,
+west. Their territory appears to have been divided into three parts, Kurukshetra, tbe Kurus and Kuru-jangala (Adi-P., cix, 4337-40). Kuru-kshetra,
 ‘ the cultivated land of the Kurus,’ comprised the whole tract on the west of
 the Jumna and included the sacred region between tbe Sar»s-vat£ and
 Bpisbad-vati (Vana-P., Ixxxiii 5071-8 and 7073-6; Ramay.jAyodh -K., Ixx. 12;
 and Megba-B., i. 49-50) ; it is said to have obtained this name because it was
 raised to honour, pra^hrishiafhj Kurn (Balya- P., liv. 3009) ; the Hari-V., itixxxii.
-1800, inverts the course of history, and this explanation was afterwards con-
-fused and altered into that of Ms ploughing it {e p., Matsya-P., 1. 20-22). Knra-
-jangala, * the waste land of the Kurus,* was the eastern part of their territory
+1800, inverts the course of history, and this explanation was afterwards confused and altered into that of Ms ploughing it {e p., Matsya-P., 1. 20-22). Knrajangala, * the waste land of the Kurus,* was the eastern part of their territory
 and appears to have comprised the tract between the Ganges and Hortb
 Pano^ala (Eam%., Ayodh.-K., ix»»U ; and M.-Bh., Sabba-P., adx. 793-4). Tbo
 
 
 COUNTRIES AND RACES IN MADHYA-DES'a
-
-
-355
 
 
 and the Udunibara people,^ and the Gaj<4hTayast — these are
@@ -22507,16 +19115,14 @@ woe, 0 brahman.
 middle region between tbe Ganges and Jumna seems to have been called simply
 tbe Korns’ coontfy. The capital was Hastinapnra (see notef below), and
 Klianda.va*prastha or Indra-prastha, the modern Delhi, was a second capital
-founded by the Pandavas^ Adi*P,, ccvii. 7568-94). Kuru %vas the elcvonth an-
-cestor of the Piindavas {id , xoiv. 3738-51; and xcv. 3791-3820; and ilari-T.,
+founded by the Pandavas^ Adi*P,, ccvii. 7568-94). Kuru %vas the elcvonth ancestor of the Piindavas {id , xoiv. 3738-51; and xcv. 3791-3820; and ilari-T.,
 xsxii. 1799-1800).
 
 * lldumbara is Kac/hh or Kntcb according to Lassen (Tnd. Alt , Map) and
 Cunningham (Arch. Stirv. Repts , XIV'. 115 and 135), and their identification
 may a])])ly to the Andumharas mentioned in Sabha-P., li. 1860; but the
 TJdiimbaras here are placed in Madhya-de I hare not met with the name
-elsewhere and it is not in the dictionary. Certain descendants of Visva-
-mitra were called Audumharas (Hari-V., xxvii. 1466); and there was a river
+elsewhere and it is not in the dictionary. Certain descendants of Visvamitra were called Audumharas (Hari-V., xxvii. 1466); and there was a river
 Udinnhard-vati in the South (id., clxviii. 9511).
 
 t Tlie people of Hastina-pnra or Hastina-pnra, the capital of the Ennis
@@ -22525,10 +19131,8 @@ north-east of Meernt; lat. 29^ 9' K., long. 78^3' B. it is said to have been
 founded by king Hastin who was the fourth ancestor of Kurn (Adi-P., xcv.
 3787-92 ; and Hari-Y., xx. 1053-4) ; but he is omitted from the genealogy
 in A'di-P,, xciv. 3714-39 and Hari-Y., xxxii. 1754-6 and 1795-9. Py a play on
-the meaning of the word hastin^ ‘ elephant,’ the city was also called Hastina-
-pnra (Asi'ama-V0S.-P., xvii. 508 and xxxvi. 1010), Gaja-pura (diet.), Gajahvaya
-(Udyoga-P., clxxvi. 6071), Gaja-Sahvaya (Adi-P,, cxiii. 4441 and 4460), Naga-
-pura (ihid.f 4461-2), Nagahva (diet.). Njiga-sahvaya (Adi-?., cxx.xi. 5146)
+the meaning of the word hastin^ ‘ elephant,’ the city was also called Hastinapnra (Asi'ama-V0S.-P., xvii. 508 and xxxvi. 1010), Gaja-pura (diet.), Gajahvaya
+(Udyoga-P., clxxvi. 6071), Gaja-Sahvaya (Adi-P,, cxiii. 4441 and 4460), Nagapura (ihid.f 4461-2), Nagahva (diet.). Njiga-sahvaya (Adi-?., cxx.xi. 5146)
 Yaranahvaya (Asrama-vas.-P., xxxix. 1098), and Ysrana-sahvaya (diet.). It
 seems probable, however, that the derivation from ‘elephant ’ is the real one,
 because of the numerous freely-cohie'd synonyms with that meaning, and
@@ -22544,9 +19148,6 @@ mean M^iga-siras or Agrahayaiii, which follows Rohini and precedes ArdiA
 (verse 15 and note).
 
 [I rt-ptila^ra ; not in the dictionary.
-
-
-356
 
 
 CANTO TVIII.
@@ -22611,9 +19212,6 @@ he Sumbhas (llamay., Kishk.-K., xl. 25) are. no doubt the same.
 COUNTRIES, HILLS AND RACES IN EASTERN INDIA
 
 
-357
-
-
 dantiiras,* and the C'andresvaras f also, and the Khasas,!
 
 13 and the Magadhas, § the Prag- jyotislias, |1 and the Lanhitjas,^
@@ -22671,9 +19269,6 @@ Iff This is not in the dictionary, and I have not found it clscwiiore. The
 first part of the word is no doubt a mistake for Mekala or Mehdd, for the
 
 
-358
-
-
 CANTO LTfll.
 
 
@@ -22707,8 +19302,7 @@ that such people existed, see M.-Bh., Sabha-P , 1. 1838 (where they are placed
 in the South) and Pliny, vii. 2j audit lasted down to modern times, see
 Mande villa’s Ti’avels, chap. XIT. See Eka-pddas in verse 51.
 
-X The people of Vardhamana, the modern Bardhwan (commonly Burdi-
-wan) in West Bengal. It is not mentioned in the Ramay., nor M.-Bh., but is
+X The people of Vardhamana, the modern Bardhwan (commonly Burdiwan) in West Bengal. It is not mentioned in the Ramay., nor M.-Bh., but is
 a comparatively old town.
 
 § This can hardly refer to Kosala, or Ondh (see page 308 note J) for, if so,
@@ -22721,8 +19315,7 @@ the slope of the Yindhya mountains (see page 342 note^}, and especially the
 north and east portions of it, for the southern part is placed appropriately in
 the right fore foot in verse 16.
 
-i| This appears incorrect. Read Baudrt (fem a name for the constel-
-lation A'rdra,
+i| This appears incorrect. Read Baudrt (fem a name for the constellation A'rdra,
 
 % For Kroshtuhe read Kraushfnke,
 
@@ -22732,9 +19325,6 @@ tt See page 326 note*.
 
 
 COUNTRIES AND RACES IX EASTERN INDIA.
-
-
-350
 
 
 Jatliaras,*^ the Kosalas,f and the Mnshikas,J and the C'edis^f
@@ -22749,8 +19339,7 @@ south portion is especially meant, see verse 14.
 See page 332 note f.
 
 § There is no mention of a people caih*d C'edis in the Eastern region in
-the older poems; but Cunningliam repeatedly places a C'edi race in Chhattis-
-garh (Arch. Surv. Repts., IX. 54-57 ; and XV^II. 21), yet in ancient times it
+the older poems; but Cunningliam repeatedly places a C'edi race in Chhattisgarh (Arch. Surv. Repts., IX. 54-57 ; and XV^II. 21), yet in ancient times it
 was not so. C'edi was then one of the countries near the Kartis (M.-Bh.,
 Vir«ta"pM i* 11*12; Cdyoga-P., Ixxi 2594-5j. It is placed in the Eastern
 region in the account of Bhima’s conquests there fSubha>P., xxviii. l(X59— 74)
@@ -22768,8 +19357,7 @@ and must have touched it, for an ancient king Sahaja reigned over both
 (TJdyoga-P , Ixxiii. 2732); and it seems probable that king Vasu’s son
 Matsya became king of Matsya (Adi-P., Ixiii. 2371-93; and Hari-V , xxxii*
 1804-6). From these indications it appears C'edi comprised the country
-south of the Jumna, from the R. Ghambal on the north-west to near CTtra-
-kdta on the south-east ; and on the south it was bounded by the plateau of
+south of the Jumna, from the R. Ghambal on the north-west to near CTtrakdta on the south-east ; and on the south it was bounded by the plateau of
 Malwa and the hills of Bnndelkhand.
 
 Its capital was S'lilcti-maii or S'ukii-mkvaydy (Vana-F., xxii. 898; and Kira,*
@@ -22832,8 +19420,7 @@ Xt “ Large-necked” ; perhaps also an epithet to Traipuras.
 place here.
 
 II j| These seem to be the sann^ as the Kiskindhakas ; see page 342 note§.
-The people of Hema-kdta. I have found mention of only one Ilema-
-kuta : it was a mountain or group of mountains in the Himalayas in the
+The people of Hema-kdta. I have found mention of only one Ilemakuta : it was a mountain or group of mountains in the Himalayas in the
 western part of Nepal (M.-Bh., Yana.*P., cx. 9968-87) ; but that does not
 seem appropriate here.
 
@@ -22851,9 +19438,6 @@ dwarfish and short-limbed, with large mouth, jaws and ears, with pendent
 
 
 GOUOTRIES AND RACES IN EASTERN INDIA.
-
-
-361
 
 
 19 lakasjt and tlie Par^a-savarasjf — these all are in tlie right
@@ -22887,10 +19471,8 @@ Nishadas met as friends on erpial terms {Ayodb.-K., xlvi. 20; xlvii. 9-12; and
 xcii. 3) ; and it seems Krisiina’s aunt Sruta-dova married the king of the
 Nishadas (Hari-Y., xxxv. 1930 and 1937*8).
 
-^ I have not found this name elsewhere, nor is it in the dictionary. Per-
-haps it is to be connected with S'ri-kakula, the modern Sreewacolum, a town
-19 miles west of Masulipatam. It was founded by king Suniati of the S'ata-
-valianas or Andhras, and was their first capital (Arch. Surv. of S. India
+^ I have not found this name elsewhere, nor is it in the dictionary. Perhaps it is to be connected with S'ri-kakula, the modern Sreewacolum, a town
+19 miles west of Masulipatam. It was founded by king Suniati of the S'atavalianas or Andhras, and was their first capital (Arch. Surv. of S. India
 by R. Sewell, I. 55 ; and Report on Amaravati, pp. 3 and 4).
 
 t These were a tribe of S'avaras (see page 335 note*) who lived upon leaves ;
@@ -22903,11 +19485,6 @@ Eastern Circars.
 
 t This must mean Maghd, which comes between A-^iesha and Purva-
 Flmlgu^i — a meaning not in the dictionary.
-
-46
-
-
-362
 
 
 CANTO LVIII.
@@ -22932,8 +19509,7 @@ J Perhaps the same as the 8'ailv)ihas in canto Ivii, verse 46.
 
 § This name is not in the dictionary", and I have not met it elsewhere.
 
-I! See page 284, note ff and page 305, note § ; yet these may be the mount-
-ains at C. Comorin, see Jonrnalj 11. A. S. 1894, p. 2G1,
+I! See page 284, note ff and page 305, note § ; yet these may be the mountains at C. Comorin, see Jonrnalj 11. A. S. 1894, p. 2G1,
 
 ^ See pnge 285 note’*''.
 
@@ -22949,8 +19525,7 @@ may be connected with the modern Karad, a town in the Satara District,
 near which are many Buddhist caves. Its ancient name was Karahdkada
 or Karalidkaia according to inscriptions (Arch, Snrv, of W. India by J.
 Burgess, hlemo. No. 10, page 16, and Cunningham’s Stnpa of Bharhut
-pp. 131, 135 and 136), and it seems to be the same as Karuhaf^r'ka men-
-tioned in the BI.-Bh. (Sabha-P., xxx. 1173) and spoken of there as heretical,
+pp. 131, 135 and 136), and it seems to be the same as Karuhaf^r'ka mentioned in the BI.-Bh. (Sabha-P., xxx. 1173) and spoken of there as heretical,
 pashandut no doubt because it was a Buddhist sanctuary as evidenced by
 its caves. See also Matsya P. xliii. 29 about Karkotaka.
 
@@ -23012,25 +19587,19 @@ of the Dravidian Languages, 34 and 35 ; and Hunter’s Imp. Gaz. of
 India, Art. Karnatik). The Karnatakas are mentioned in the Bhishma-P.
 list (ix. 366).
 
-^ Qo,-narda is given in the dictionary as the name of a people in the De-
-khan, but I have not found either form elsewhere. Goa is said to have liad
+^ Qo,-narda is given in the dictionary as the name of a people in the Dekhan, but I have not found either form elsewhere. Goa is said to have liad
 a large number of names in ancient times ; but this does not appear to have
 been one of them (Imp. Gaz. of India, Art. Goa),
 
 The people of C'itra-kuta ; it appears to have been the range of hills
-(comprising the modern mount Chitrakut) extending from south of Allaha-
-bad to about Panna near the il. Ken (see Journal, R. A. S., 1894, p. 239) j but
+(comprising the modern mount Chitrakut) extending from south of Allahabad to about Panna near the il. Ken (see Journal, R. A. S., 1894, p. 239) j but
 these people are very much out of place here.
 
 ft See page 331 note^.
 
-This name does not seem to be connected with the Kolas who are men-
-tioned in verse 26. The Kolagiras are no doubt the same as the Koivagtteyas,
+This name does not seem to be connected with the Kolas who are mentioned in verse 26. The Kolagiras are no doubt the same as the Koivagtteyas,
 who are placed in South India in the description of Arjuna’s following fch©
 sacrificial horse (AsYa‘medh,-P., ixxxiii. 2475-7); and they would presuiu-
-
-
-364
 
 
 CANTO LVin.
@@ -23041,8 +19610,7 @@ the people who wear matted liair* in Kraiinc'a-dvipa,t
 
 ably be the iiibabitant» of Kolagirij wliicli is placed in Sontb India in tbe
 account of Saliadeva’s conquests there, and which appears to have been an
-extensive region for the ivhole of it is spoken of (Sablia*P., xxx. 1171). Kola-
-giri may mean ‘‘the hills belonging to the Kols,” but the Kols seem to be
+extensive region for the ivhole of it is spoken of (Sablia*P., xxx. 1171). Kolagiri may mean ‘‘the hills belonging to the Kols,” but the Kols seem to be
 intended by the Kolas in verse 25. Kolagira may be compared with Kodagt(>f
 the ancient name of Coorg, which means ‘ steep mountains ’ (Imp. Gaz. of
 India, Art. Coorg), and might therefore have led to the modification of the
@@ -23050,11 +19618,9 @@ final part of the name to agree with the Sanskrit giri • but see page 366 note
 The name Kolagira somewhat resembles the Goldngtilas of canto Ivii, verse
 45; and GoUngula might be a corruption of JCodimgaUlr, which is the
 modern town Oranganore, 18 miles north of Cochin. It had a good harbour
-in early times, and was a capital town in the 4tli century A.D. Syrian Chris-
-tians were established there before the Pth century, and the Jews had a
+in early times, and was a capital town in the 4tli century A.D. Syrian Christians were established there before the Pth century, and the Jews had a
 settlement there which was probably still earlier. It is considered of great
-sanctity by both Christians and Hindus (Imp. Gaz. of India, Art. Ko-
-dungalCir).
+sanctity by both Christians and Hindus (Imp. Gaz. of India, Art. KodungalCir).
 
 * Jatd'dhara; the dictionary gives it as a proper name. Jata also means
 “ long tresses of hair twisted or braided togotlior, and coiled in a knot over
@@ -23069,8 +19635,7 @@ two rivers,” the modern doab ; cf. S'akala-dvCiya^ the doab in which S'akala
 founded Kraunc'a-pura in the South region in a district where the soil was
 copper-coloured and ohampaka and asoka trees abounded, and his country
 was known as Yana-vasi or Yana-vasin (xcv. 5213 and 6231-3); and
-also that that town was near the Sahya Mts., and was situated appa-
-rently ^outh of a river Khatvaiigi and north of Gomanta hill (xovi. 5325-40).
+also that that town was near the Sahya Mts., and was situated apparently ^outh of a river Khatvaiigi and north of Gomanta hill (xovi. 5325-40).
 If Gomanta was the modern Goa, these indications agree fairly well with
 the Krauiic'alaya forest mentioned in the Bamay. (Aran.-K., Ixxiv. 7), which
 appears to have been situated between the Godavari and Bhima rivers
@@ -23083,9 +19648,6 @@ Goa. This was the country of the Yana-vasakas (see {>age 333 note *),
 
 
 COUHTRfES AND RACES IN SOUTH INDIA.
-
-
-365
 
 
 RisliyaTnuka, ^ and those who are called^ 15?asikyaR,+ and
@@ -23142,9 +19704,6 @@ the Kistna and Tungablmdra.
 II I j I have not met this name elsewhere.
 
 I have not found this name elsewhere. Comparing the various readings,
-
-
-306
 
 
 CANTO LVIII.
@@ -23206,9 +19765,6 @@ as fighting on the Kauravas’ side in the great war (Erona-P., xx. 798).
 COUNTRIES AND RACES IN SOUTH INDIA.
 
 
-367
-
-
 28 KSno'i^, tlie Tilangas, f and the peoples wlio dwell in
 Kiinjara-dari J and Kac'c%a, § and Tamra-parni, || — such, is
 tlie Tortoise’s right flank.
@@ -23233,13 +19789,11 @@ century began a Jain epoch, and that was succeeded by a period of Hindu
 predominance (Imp. Gaz. of India, Art. Conjevaram).
 
 t This form is not in the dictionary j but it is no doubt the same as
-Tailanga or Tri-linga, that is Telinga, the modem Telugu country. It coin-
-cided more or less with the ancient kingdom of Andhra (see page 337 note §),
+Tailanga or Tri-linga, that is Telinga, the modem Telugu country. It coincided more or less with the ancient kingdom of Andhra (see page 337 note §),
 I have not found this name in any shape in the Ramty. or M.-Bh. j Andhra
 is the name which occurs in those books.
 
-J This probably means the valleys of the Kunjara hills,” and the re-
-ference may be to mount Kunjara, which is mentioned in the Ramay. as
+J This probably means the valleys of the Kunjara hills,” and the reference may be to mount Kunjara, which is mentioned in the Ramay. as
 situated in the South, but not in a clear manner (Kishk.-K., xli. 50). I have
 not met the name elsewhere, but as this place is joined with Kac'c'ha in
 one compound (see next note) it may mean part of the Travancore hills.
@@ -23259,14 +19813,10 @@ the whole island (dictionary). The island seems to be meant by the words
 Tamrahvaya dvipd in the M.-Bh. (Sabha-P., xxx. 1172).
 
 
-368
-
-
 CANTO LVin.
 
 
-30 And next is the outer foofc.^ The Kanihojas,t and Pah-
-lavas, J and the Badava-mukhas, § and the Sindlius || and San-
+30 And next is the outer foofc.^ The Kanihojas,t and Pahlavas, J and the Badava-mukhas, § and the Sindlius || and San-
 
 31 viras, If the Anartas, the Yanita-mukhas, ft the Dravanas,|J
 the Sargigas, §§ the S'ddras, |||1 the Karna-pradhejas
@@ -23294,11 +19844,9 @@ See page 315, note f ; these are out of place here.
 Anarta, who was the son of S'aryati one of the sons of Manu Yaivasvata
 (Hari-Y., x. 613 and 642-9).
 
-tf Those who have faces like women.’’ I have not met this name else-
-where. It seems, however, to be a proper name and not an adjective.
+tf Those who have faces like women.’’ I have not met this name elsewhere. It seems, however, to be a proper name and not an adjective.
 
-This as a name is not in the dictionary, and I have not found it else-
-where.
+This as a name is not in the dictionary, and I have not found it elsewhere.
 
 §§ Or “ and the Argigas or Argigas,” as the text may be read. These
 names are not in the dictionary and I have not met with them elsewhere.
@@ -23308,8 +19856,7 @@ C'yavana dwelt, and gave his daughter Su-kanya to the pishi to appease his
 wrath (S'ata-P. Br^h., lY. i. 5). He is called S'aryati in the M.-Bh. (Yana-P.,
 oxxi. 103125 and cxxii.) where the same story is told rather differently 5 and
 also in the Hari-Yamsa, where he is said to be a son of Manu and progenitor
-of .Anarta and the kings of Anarta (x. 613, and 642-9). Prom all these pas-
-sages it appears theS'aryatas were in the West, in Grujarat 5 and C'yavana as a
+of .Anarta and the kings of Anarta (x. 613, and 642-9). Prom all these passages it appears theS'aryatas were in the West, in Grujarat 5 and C'yavana as a
 Bhargava is always placed in the West, near the mouths of the Narbada and
 Tapti. But perhaps the most probable reading is BJiargfauas; they were in
 the West (see page 310, note fN
@@ -23322,9 +19869,6 @@ It can have nothing to do with Katna one of the heroes of the M.-Bh,, for he
 COUNTRIES AND RACES IN WESTERN INDIA.
 
 
-369
-
-
 and Varvaras,* the Kiratas,t the Paradas, J the
 32 Pandyas§ and the Parasavas, || the Kalas, *1[ the
 Dinirtakas,** the Hainiagirikas, ft the Sindhu-kalaka-
@@ -23333,8 +19877,7 @@ reigned in Anga in the East. Prddheija means a descendant of Pradlui, one
 of Daksha’s daughters, and that also is itiadmissible. It suggest^^s Uddheya,
 which was a metronymic of Karna, but that is equally unsuitable. It seems
 therefore the words must be taken as a whole forming one name, and then it
-suggests comparison with Karna-prdvdra which would be the same as Karna-
-prararana (see page 346, note f) .
+suggests comparison with Karna-prdvdra which would be the same as Karnaprararana (see page 346, note f) .
 
 * See page 319, note This word is compounded with the preceding
 name ; it hardly seems to be in place here.
@@ -23358,8 +19901,7 @@ page 310, note f. It is said there was a dynasty of Parasava kings after the
 great Paurava line came to an end (Matsya Parana, 1 73-76) but it does not
 appear where.
 
-51 This is not in the dictionary, and I have not met it elsewhere. It sug-
-gests a connexion with the Kdlibalas of canto Ivii, verse 49 ; but Kala also
+51 This is not in the dictionary, and I have not met it elsewhere. It suggests a connexion with the Kdlibalas of canto Ivii, verse 49 ; but Kala also
 means, “emitting a low or inarticulate sound,” and it was an old fable that
 a people existed, who could not speak articulately, but hissed like serpents,
 see Mandeville’s Travels, chap, xviii. and six, Kala occurs again in
@@ -23376,9 +19918,6 @@ the same (Bhishma-P., vi. 237). Hema-kuta was near the rivers Nanda and
 Apara-nanda and between the sources of the Ganges and Kausiki (Yana-P.,
 ox. 9968-87 ) j and it is alluded to in other passages bub they are not clear
 (e.^r,, id., clxxxix. 12917 j Bhfshma-P., vi. 198, 202, 236 and 246). The last of
-
-
-47
 
 
 S70
@@ -23398,16 +19937,14 @@ corresp07idmg constellations.
 34 The hills Ma^i-meghajft and Kshuradn,J J and Khanjanajf
 
 these passages says the Gahyafcas dwell on Hcina*k6ta. The Matsya Puraigia
-pays Hema-syiDga is south-east of Kailasa, and the B. Lanhitya, or Brahma-
-putra, rises at its foot (cxs:. 10-12) ; and that two rivers rise in Hema-hilfa
+pays Hema-syiDga is south-east of Kailasa, and the B. Lanhitya, or Brahmaputra, rises at its foot (cxs:. 10-12) ; and that two rivers rise in Hema-hilfa
 which fiow into the eastern and western seas {ibid., 64-6).
 
 * This seems to be erroneous, yet it is not easy to suggest an amendment.
 The first part, no doubt, refers to the B. Sindhuand the Sindhn people but the
 latter part appears unintelligible. Perhaps the reading should be Sindhu*
 Icula^&uvirakdh or Sindhavds c^a suvi^'okdk meaning the Sindhus and the
-Suviras (see page 615, notes * and t)j but these two people have been men-
-tioned already in verse 30.
+Suviras (see page 615, notes * and t)j but these two people have been mentioned already in verse 30.
 
 t The people of Surashlra; see page 340, note J.
 t See page 318, note t|. They are quite ont of place here.
@@ -23464,11 +20001,9 @@ king Haihaya, who is said to have been a grandson or great-grand of
 Yadu, the eldest son of Yayati (Hari-Y., xxxiii. 1843-4 ; and Matsya Parana,
 xliii. 4-S. Yadu is said to have been king of the north-east region ( Bfari- Y., xxx.
 1604, 1618), but the references to the earliest movements of the Haihayas
-are hardly consistent. Mahish-mat, who was fourth in descent from Hai-
-haya, is said to have founded the city Mabish-mati on the Narmada (see page
+are hardly consistent. Mahish-mat, who was fourth in descent from Haihaya, is said to have founded the city Mabish-mati on the Narmada (see page
 833, note tj and td., xxxiii. 1840-7), and his son Bhadra-srenya is said to
-have reigned in KAsi or Benares, which the Yitahavya branch of the Hai-
-hayas had previously conquered fiom its king Harya^va, bat Haryalva’s
+have reigned in KAsi or Benares, which the Yitahavya branch of the Haihayas had previously conquered fiom its king Harya^va, bat Haryalva’s
 grandson Divodasa defeated them and regained his capital (M.-Bh., Anusas.-
 P., XXX. 1949-62 ; Hari-Y., xxix. 1541-6; and xxxii. 1736-40). The great
 king Arjuna Kartavirya, who was ninth in descent (Hari-Y., xxxiii. 1850-90;
@@ -23481,8 +20016,7 @@ jsaid to have driven Biihu king of Ayodhya oat of his realm, but his son
 Sagara drove them out and recovered the kingdom (Yana-P., cvi. 8831-2 ;
 and Hari-Y., xiii 760 — xiv. 783).
 
-The Haihaya race comprised the following tribes, Yitihotras (or Yita-
-havyas ?), S»arjdtas, Bhojas, Avantis, Taundikeras (or Ku^dikeras), and
+The Haihaya race comprised the following tribes, Yitihotras (or Yitahavyas ?), S»arjdtas, Bhojas, Avantis, Taundikeras (or Ku^dikeras), and
 Talajanghas; the Bharatas, Sujatyas and Yadavas are added, and the
 S^iirasenas, Anartas and O'cdis also appear to have sprung from them (Hari-Y.,
 xxxiv. 1892-6; and Matsya-P., xliii, 46-49). Comparing the territories
@@ -23495,14 +20029,10 @@ times had their capitals at Manipur in Maha Kosajla (or ChhattisgarhJ and at
 Tripura (or Tewar) on the Narbada (Arch Surv. Eepts., IX. 5A-57).
 
 
-372
-
-
 CANTO LYill.
 
 
-35 the S^antikas, * Vij^vasastakas, f Kokaiikanas, J Panc'a-
-dakas,§ the VamanasJI and the Avai’as,^ the Tarakshuras, **
+35 the S^antikas, * Vij^vasastakas, f Kokaiikanas, J Panc'adakas,§ the VamanasJI and the Avai’as,^ the Tarakshuras, **
 
 ^ I have not met this elsewhere, and it is not iA the dictionary as the name
 of a people. It may he the same as the S'dnl-as (M.-Bh., Bhishma-P., ix. 354 ;
@@ -23519,8 +20049,7 @@ the Trigartas and Darvas (M.-Bh , Sahlia-P., xxvi. 1026), or Kolmralcas who
 seem to he the same (Bhishma-P., ix. 369).
 
 § This is given in the dictionary as the name of a people, but I have not
-met it elsewhere. Perhaps a b<'tter reading would be Panc^odahas or Panc^a-
-nadaSf “ the people living beside the R. Panc'anada,” which appears to be
+met it elsewhere. Perhaps a b<'tter reading would be Panc^odahas or Panc^anadaSf “ the people living beside the R. Panc'anada,” which appears to be
 the single stream formed by the confinence of the five rivers of the Panjab
 (M.-Bh., Vana-P., Ixxxii. 6025 ; Bhishma-P., Ivi. 2406; and dictionary) ; bnfc
 this name seems to be also applied to the five rivers collectively (Yana-P.,
@@ -23540,8 +20069,7 @@ P., xci. 3974 ; Drona-P., exxi 4831 ; Karna-P , vii 200 ; and Ram%., Adi-K.,
 vi 24). It appears to be the modern Bunnu in the north-we.st of the Paniab.
 
 % This is not given as the name of a people, and the word means, “ low,”
-and “ western.” This name may be compared with Aparas, a people men-
-tioned in the Eamay. (Kishk.-K., xliii' 23); and see page 313, note f and
+and “ western.” This name may be compared with Aparas, a people mentioned in the Eamay. (Kishk.-K., xliii' 23); and see page 313, note f and
 Aparantikas in verse 34. But a better reading for the text hy-avards is
 perhaps YarvardS’, see page 319, note * and page 369, note
 
@@ -23549,20 +20077,15 @@ This is not in the dictionary, and I have not met with it elsewhere ; but
 Tdrakshiiti and Tdralcshiti are given as the name of a district to the west of
 Madhya-desa. There was also a kingdom called TwuMa in Inter times
 (Arch. Sarv. of W. India, Memo. No. 10, p. 7). The Tnrnshkas are the
-Turks, and their country Turkestan, A people called Tarkshyas are men-
-tioned in M.-Bh., £abha-P., li. 1871.
+Turks, and their country Turkestan, A people called Tarkshyas are mentioned in M.-Bh., £abha-P., li. 1871.
 
 
 COUNTRIES AND RACES IN WESTERN INDIA.
 
 
-373
-
-
 tlie Augatakas, * tlie S'arkaras, f the Salma-vesmakas,f
 36 the Guru-svaras, § the Phalgnnakas, |1 and the people who
-dwell by the liver Venu-mati, % and the Phalgu-
-lukas, the GhoraSjff and the Gnmhas, and the
+dwell by the liver Venu-mati, % and the Phalgulukas, the GhoraSjff and the Gnmhas, and the
 
 ^ I have not found this elsewhere, and it is not in the dictionary. A
 place called Anga-hlca is assigned to the west in the Ramay. (Kishk.-K., xHii,
@@ -23582,8 +20105,7 @@ first part of the word (see page 349, note §) but, if so, the latter part seems
 unrecognizable.
 
 § I have not met with this elsewhere, and it is not in the dictionary.
-It may be an adjective, deep-voiced,” describing the Phalgunakas. Per-
-haps the reading should be Ghirjaras They appear to have been settled in
+It may be an adjective, deep-voiced,” describing the Phalgunakas. Perhaps the reading should be Ghirjaras They appear to have been settled in
 the Panjab or Upper Sindh, and to have been driven out by the Balas about
 600 A.D., and pushed gradually southward, till at length they occupied the
 country around the peninsula of Kathiawar, thence called Gujarat afte?
@@ -23609,9 +20131,6 @@ Sabha-P., li 1870} but I have not found any data to fix. their position.
 XI I have not met this 'elsewhere, but it is stated in the dictionary to be
 the name of a people in Madhya-de§a, and the word is also written Qu^uha^
 Gulaha and Gulnha.
-
-
-874
 
 
 CANTO LVin.
@@ -23668,14 +20187,10 @@ are mentioned in canto Ivii. verse 36.
 they are mentioned in the M.-Bh, (Bhisbma-P., ix. 351), and are placed in
 the north-west and identified with the Aspasii and Assakani by Lassen (Ind.
 Alt., Map). The latter part however is very donbtful. A people Salitthas
-are mentioned in the M.-Bh. (Drona-P,,. xvii. 692) and appear from the con-
-text to have been a north-western race.
+are mentioned in the M.-Bh. (Drona-P,,. xvii. 692) and appear from the context to have been a north-western race.
 
 
 COtSTRlBS ASD RACES IN NORTH-WEST INDIA.
-
-
-375
 
 
 39 and the KuBjatala-Jahas, * the Stn-rahvas.t ^
@@ -23735,9 +20250,6 @@ people intended are no doubt the Ul4kas, and the text should read taiUMhd
 instead of tathdUhd, For the Ulukaa see page 346, note f.
 
 
-376
-
-
 CANTO LYin.
 
 
@@ -23752,8 +20264,7 @@ Tlie mountains Kailasa, § and Hiraa-vat, Dbaiiusli-mat, || and
 42 Vasn-mat,^ tlie Krauncas,** and the Kurus ft Vakas,JJ
 
 
-^ I have not met this elsewhere and it is not in the dictionary. It is per-
-haps to be connected with the Vrnas; see page 324, note f. A people called
+^ I have not met this elsewhere and it is not in the dictionary. It is perhaps to be connected with the Vrnas; see page 324, note f. A people called
 Urdamarus nre placed in the north in the Matsya Purana (cxx. 48}.
 
 t For pdrSve read pah^e ?
@@ -23780,8 +20291,7 @@ Himavat.
 mountains. This group is called the son of Mninaka, which is called the son
 of Himavat, and therefore appears to have been a portion of the Blainaka
 mountains in the great Himavat mountain system (Hari-Y., xviii. 941-2). It
-is mentioned in the Hamay. as having lake Manasa on its summit with Mai-
-naka lying beyond (Kishk.-K., xliv. 32*37); but in the Megha-Duta Krauuc'a
+is mentioned in the Hamay. as having lake Manasa on its summit with Mainaka lying beyond (Kishk.-K., xliv. 32*37); but in the Megha-Duta Krauuc'a
 is placed south of that lake, and there is said to be a i?ass through it leading
 to the lake (I. 58 and 69 with commentary). The pass must apparently be
 the valley of the source of the Sariu or Ghogra, and the Kraunc'a mountains
@@ -23799,9 +20309,6 @@ elsewhere. A people called Varvas are alluded to in the Matsya Purana
 COOTTEIES AH3) RACES IN NORTH INDIA.
 
 
-377
-
-
 and the people who are called Kshudra-vinas,* the Easalajas^f
 and the Kaikeyas, J the Bhoga-prasthas, § and the Yamnnas, ||
 
@@ -23817,8 +20324,7 @@ the Indus (Sansk. Texts, II. 356 and 357).
 t See page 317 note |j.
 
 § I have not met with this word elsewhere, though it is given in the
-dictionary as the name of a people. Perhaps the reading should be Bhoja-
-as a synonym of Bhoja-nagara, which is mentioned in the M.-Bh. as
+dictionary as the name of a people. Perhaps the reading should be Bhojaas a synonym of Bhoja-nagara, which is mentioned in the M.-Bh. as
 the capital of king l/sinaraor XJshinara, father of king S'ivi (Bdyoga-P., cxvii),
 both of whom were famous monarohs and are often allnded to in the M.*Bh,
 (e.g., Yana-P., oxxxi. 10582-94; cscvi. 13274; Brona«*P., Iviii; and S'anti-P.,
@@ -23833,12 +20339,10 @@ Vana-P., oxciv. 13249-55; cclxv; oclxx. 15718 and 15743; Bhishma-P,, xviii.
 688-90 1 and li. 2104) it appears the Bivis were grouped with the Trigartaa,
 Madras, and other Panjab nations on one side and with the Kurus, S^drasenaa
 and Matsyas on the other side, that is, with all the nations which surrounded
-Brahmavarta ; and that their territory was near the Jumna and close to Trl-
-vishtapa or Tri-pishtapa which was part of Brahmavarta (Yana-P., oxxx.
+Brahmavarta ; and that their territory was near the Jumna and close to Trlvishtapa or Tri-pishtapa which was part of Brahmavarta (Yana-P., oxxx.
 10556 — cxxxi. 10595 j with Ixxxiii. 6054-5 and 7073-8; and page 290, note ||).
 The S'ivis or Usmaras therefore appear to have possessed the country
-at the upper part of the Sarasvati, Drishad-vati and Jumna, from Saha-
-ranpur to Pattiala j with the Ambashthas to the north-west (see page 379
+at the upper part of the Sarasvati, Drishad-vati and Jumna, from Saharanpur to Pattiala j with the Ambashthas to the north-west (see page 379
 note t). In later times they shared the degradation which the brahmans
 pronounced on the nations of the north-west because of the absence of
 brahmans among them (Anusas.-P., xxxiii. 2103).
@@ -23847,11 +20351,6 @@ II These are mentioned in the Bhishma-P. list (ix. 358) and were the
 people who inhabited the Yamuna hills. The PAndavas in returning from
 their visit beyopd the Himalayas came to the Yamuna hills, and then to
 
-48
-
-
-378
-
 
 CANTO LTin.
 
@@ -23859,12 +20358,10 @@ CANTO LTin.
 43 the Antar-dyipas,^ and the Trigartas,t the AgniJyas,J the
 Sardana peoples, § the Aiva-mukhas || also, the Fraptas,^
 
-44 the long-haired C'ividas, the Daserakas,tt the Vata-
-dhanas, JJ and the S^aTa^dhanas, §§ the Pushkalas, [(|1
+44 the long-haired C'ividas, the Daserakas,tt the Vatadhanas, JJ and the S^aTa^dhanas, §§ the Pushkalas, [(|1
 
 the Sarasvati (Yana-P., clxxvii. 12840-62). The hosts collected on the
-Kaaravas’ side before the great war overspread all the country from Panc'a-
-nada (the Panjab) to AbicVhatra (see page 353, note *) including the
+Kaaravas’ side before the great war overspread all the country from Panc'anada (the Panjab) to AbicVhatra (see page 353, note *) including the
 Tamnna hills (Udyoga-P., xviii. 596-601), Hence it appears these hills were
 the portion of the Himalayas, in which the Jumna has its sources, and
 which separate it from the Sntlej,
@@ -23897,8 +20394,7 @@ was an old belief there -vvere people who had heads like dogs, Cynocephali
 Yadhras or Badhnas m the Bhisbma-P. list (ix. 363).
 
 ** This is not in the dictionary, but Q^ivuka or G^ibuka is given. I have not
-however met any of these names elsewhere. The word c'ipifa means “ flat-
-nosed.”
+however met any of these names elsewhere. The word c'ipifa means “ flatnosed.”
 
 ft See page 321, note
 
@@ -23913,9 +20409,6 @@ nil See page 320, note •jf.
 
 
 COUMTtlES AHD RACES IN NORTH INDIA.
-
-
-379
 
 
 and Adbama Kairatas, and those who are settled
@@ -23940,9 +20433,7 @@ II. 6, 111, 112; Xiy. 8). It appears to have contained a great Buddhist uni*
 versity also.
 
 J These would be the people of Ambala. This name is a late one. It may
-probably be derived from the old Amkashtha, the name of a people often men-
-tioned in the M.-Bh. They are said to have been descendants of king Usi-
-nara and to have been closely rel »ted to the STivis ; see page 377, note §
+probably be derived from the old Amkashtha, the name of a people often mentioned in the M.-Bh. They are said to have been descendants of king Usinara and to have been closely rel »ted to the STivis ; see page 377, note §
 (Hari-V., xxxi. 1674-9; Matsya Parana, xlviii. 15-31). They were in the
 north-west and are generally mentioned along with north-western nations
 especially the S^ivis and Trigartas (M.-Bh., Sabb4-P., xxxi. 1189; Bhishma-P.,
@@ -23975,9 +20466,6 @@ with O'inas, &o., (Tana-P., li. 1991 ; Bhishma-P., ix. 373 ; and S'auti-P.,
 eooxxvii. 12229), but are not often alluded to at first. In the Raghu-Vaihsa
 
 
-380
-
-
 CANTO LVTII.
 
 
@@ -23993,8 +20481,7 @@ been of a light complexion, for their wonaeii are pictured as having made
 their cheeks pale red {pdUila) by beating them in grief (ibid.). For the
 Ephthalites or White linns, see Cnnuingham’s Arch. Surv. Bepts., II. 75-79.
 All the valley of the Upper Sutlej is called Hundes. A people called ITdm-
-TiUnas are also alluded to in the M.-Bh. as an outside people to the north-
-west (Sabha-P., xxxi. 1194; and 1. 1844).
+TiUnas are also alluded to in the M.-Bh. as an outside people to the northwest (Sabha-P., xxxi. 1194; and 1. 1844).
 
 * I have not found this elsewhere, but it seems to be the same as the
 KoTcarahas (Bhishma-R, ix. 369) a,nd Kolcanadas (Sabha-P., xxvi. 1026), both
@@ -24041,9 +20528,6 @@ I liave not met with this elsewhere and it is not in the dictionary.
 COUNTEIES AND EACBS IN NORTH-EAST INDIA.
 
 
-381
-
-
 and tlie Ksliema-dhurtas* liaye taken up their position in
 the Tortoise’s left dank.
 
@@ -24075,8 +20559,7 @@ on Mount Mandaara ( Drona-P., Ixsx. 2848-52j, and generally in the central
 region of the Himalayas (Ragbu-V., iv. 78); and they are probably meant
 by the Kinlmras in Ramay., Kishk.-K., xliv. 13. The Kinnaras were to
 some extent identified with the Kimpurushas, though both are mentioned
-separately in the M at sy a- Parana, cxx. 48-49. It is stated in the diction-
-ary that this occurred in later times, but the chief of the Kimpurushas is
+separately in the M at sy a- Parana, cxx. 48-49. It is stated in the dictionary that this occurred in later times, but the chief of the Kimpurushas is
 said in the M -Bh. to have dwelt at Gandha-madana (Udyoga-P., clvii.
 6352) which was the Kinnaras’ territory. The Kimpurushas are described
 as forming a kingdom in the Panclavas’' time and owning the country beyond
@@ -24096,21 +20579,16 @@ bamboos called Me' okas ; they are said to line the banks of the R. S'ailoda
 in the North (Ramay., Kishk.-K., xliv. 76-79 j M.-Bh., Sabha-P., li, 1868-9 ;
 
 
-382
-
-
 CANTO LVni.
 
 
-49 and tlie country of Ka^mira,* and the people of Ablii-
-sara,t the Dayadas, J and felie Tvangaiias,§ the Kulatas, ||
+49 and tlie country of Ka^mira,* and the people of Abliisara,t the Dayadas, J and felie Tvangaiias,§ the Kulatas, ||
 
 50 the Vana-rashtrakas,^ the Sairish|has,^’*‘ the Brahma-
 
 and Eagbn-V., iv. 73). It is not clear where this country was. The
 E. S'ailoda is placed between Meru and Mandara in the passage froni the
-M.-Bh., and the KFiasas, Paradas and Tanga nas dwelt near it. The E. ^ailo-
-daka is said to rise at the foot of Mount Arana, west of Kailasa, in the Matsya
+M.-Bh., and the KFiasas, Paradas and Tanga nas dwelt near it. The E. ^ailodaka is said to rise at the foot of Mount Arana, west of Kailasa, in the Matsya
 Parana (cxx. 22-23).
 
 A people called Kic'ahas are mentioned in the M.-Bh., as being near the
@@ -24215,13 +20693,9 @@ II j| This i.s not in the dictionary and I have not found it elsewhere.
 
 'Ihey are mentioned above in verse 6; see also page 846 note
 
-ttt I have not met with these elsewhere. The Ghosha-sanhJiyas are men-
-tioned in verse 6 above.
+ttt I have not met with these elsewhere. The Ghosha-sanhJiyas are mentioned in verse 6 above.
 
 ttJ This seems to be a compound name, but it is not in the dictionary and
-
-
-384
 
 
 CANTO LViir.
@@ -24258,8 +20732,7 @@ M -Bh., Sabha-P., 1. 1837.
 
 II The Paurava race was descended from Puru, on© of Yayati’s sons (M.-Bh.,
 A'di’P., Ixxxv. 3533-4 j and xcv. 3762-4) who is said to have got Madhya-desa
-(Hari-V., xxx. 1604 and 1619} j and the Pauravas spread iu various direc-
-tions. A Paurava kingdom is placed in the North region, in the account of
+(Hari-V., xxx. 1604 and 1619} j and the Pauravas spread iu various directions. A Paurava kingdom is placed in the North region, in the account of
 Arjuna’s conquests there (Sabha-P., xxvi, 1022^5) and that may be the nation
 intended here. There were also Pauravas elsewhere (e gr., S'anti-P., xlix.
 1790-2; and Adi-P., clxxxvi. 6995; but Sabha-P., xxx. 1164 is probably a
@@ -24267,9 +20740,7 @@ mistake).
 
 % The Gandharvas were fabled to be heavenly musicians, but they are also
 spoken of as a people dwelling beyond lake Manasa, and it is said Arjnna
-conquered them and brought back a tribute of fine roan horses (tittiri-
-hilmdslia) from their country (Sabha-P., xxvii. 1041-3). It is said the Gan-
-dharvas are more powerful by night (Adi-P., olxx. 6504). It is also fabled
+conquered them and brought back a tribute of fine roan horses (tittirihilmdslia) from their country (Sabha-P., xxvii. 1041-3). It is said the Gandharvas are more powerful by night (Adi-P., olxx. 6504). It is also fabled
 that the gods obtained Soma from them because they lust after women
 (Aitar. Brah., I. v. 27) ; and they were said to possess or inspire people (id,
 Y. V. 29; and Brih. Aran. Up., II I. iii 1 and vii. 1).
@@ -24282,30 +20753,23 @@ Or Bharani.
 
 §§ Pdkdya,
 
-nil There do not appear to be any particular reasons why the lunar con-
-stellations are assigned to the respective portions of the Tortoise’s body.
+nil There do not appear to be any particular reasons why the lunar constellations are assigned to the respective portions of the Tortoise’s body.
 
 
 ASTEOLOGICAL APPLICATIONS.
-
-
-385
 
 
 55 0 brahman. These places, which hare been mentioned in
 order, undergo calamity'^ when thei. their constellations are
 occulted, t and gain ascendancy,]; 0 brahman, § along with
 
-56 the planets which are favourably situated. Of whichever con-
-stellation whichever planet is lord, both the constellation and
-the corresponding country are dominated by it ; |1 at its ascend-
-ancy^ good fortune accrues to that country, 0 best of munis-
+56 the planets which are favourably situated. Of whichever constellation whichever planet is lord, both the constellation and
+the corresponding country are dominated by it ; |1 at its ascendancy^ good fortune accrues to that country, 0 best of munis-
 
 57 Singly all countries are alike; fear or prosperity comes
 to people according as either arises out of • the particular
 
-58 constellation and planet, 0 brahman. The thought^ that man-
-kind are in a common predicament with their own particular
+58 constellation and planet, 0 brahman. The thought^ that mankind are in a common predicament with their own particular
 constellations when these are unfavourable, inspires fear.
 Along with the particular planets there arises from their
 occultations an unfavourable influence which discourages exer-
@@ -24347,8 +20811,6 @@ JJ For dn-sthe read dutP-Bthe,
 
 Ifll For graMdamthyena read gmhddauhsthyena,
 
-49
-
 
 m
 
@@ -24389,8 +20851,7 @@ objects ofmneration^ prayer, the horn a oblation, and liberality
 
 71 and ablution ; he should eschew anger and other And
 
-a learned man should be devoid of malice and shew bene-
-volence towards all created things; be should discard evil
+a learned man should be devoid of malice and shew benevolence towards all created things; be should discard evil
 
 72 speech and also outrageous words. And a man should perform
 the worship of the planets at all oocultations. Thus all t irri*
@@ -24409,9 +20870,6 @@ t Loka-vada. % Dushtagama. § Prajfia-hdni,
 
 
 ABEANGEMBNi: OF THE ZODIAC.
-
-
-387
 
 
 75 statioBj each resorting to liis own constellation. Tims, in its
@@ -24470,9 +20928,6 @@ stations* * * § f Frishthe; but p«tcV?ie would be better.
 t For graha^rdmhv read grahd rdsishv ?
 
 § For tatM4ishya~c^atmhthwyam read tatM tishya^c^atmhtayam.
-
-
-388
 
 
 CANTO LIX.
@@ -24541,9 +20996,6 @@ and reasonable to take these words as names.
 ketumala and the hoethern kueus.
 
 
-389
-
-
 15 and tlaose who are distinguished hy their thumbs/^ •who drink
 of the great rivers, the Vahkshii, the B'yama, the SvakamhaM,
 the Ainogha, the Kaniini, the S'yama, and of others in
@@ -24579,8 +21031,7 @@ indeed. And O'andra-kanta is the chief of the mountains,
 ranges in that continent. And in the midst thereof the great
 river Bhadra-soma flows through the earth with a voluruG of
 
-24 sacred and pure water. And there are other rivers by thou-
-sands in that northern continent ; and some flow with milk
+24 sacred and pure water. And there are other rivers by thousands in that northern continent ; and some flow with milk
 
 25 and others flow with ghee. And there are lakes of curdled
 milk there, and others lie among tbe various hills. And fruits
@@ -24618,8 +21069,7 @@ inhabitants,
 
 Markaijdeya spoke :
 
-1 I will tell thee, 0 brahman, what the continent Kim-
-purnsha is ; where men with real bodies live ten thousand
+1 I will tell thee, 0 brahman, what the continent Kimpurnsha is ; where men with real bodies live ten thousand
 
 2 years; where men and women are indeed free from sickness
 and free from sorrow, and there the fig-tx’ee* is called shards'?
@@ -24630,8 +21080,7 @@ lasting youthfulness and are fragrant as the lotus. $
 
 4 Next to Kim-purusha is mentioned Hari-varsha. There
 
-5 mankind are born of the appearance of gold ; they all de-
-scend there from the world of the gods, and are shaped like
+5 mankind are born of the appearance of gold ; they all descend there from the world of the gods, and are shaped like
 the gods in all respects. In Hari-varsha all the men qua:i
 
 6 fine sugar-cane juice ; neither old age afflicts them there, nor
@@ -24653,9 +21102,6 @@ faimwu<ii c*mdm‘84ryayo]^.
 
 
 bamyaka ahb hiban-maya.
-
-
-391
 
 
 Tlie rays of the moou and tlie snn, of the constellations and
@@ -24708,16 +21154,12 @@ Thou hast duly related what thou wast asked, O great muni,
 t Nyag^rodha, Ficus indica.
 
 
-392
-
-
 CANTO Ml.
 
 
 namely^ tlie constituiioa of the earth, ocean, Ac,, their dimeii*
 
-2 sions, also the planets and their dimensions, and the constitu-
-tion of the constellations, and the bhdr-ioka and the other
+2 sions, also the planets and their dimensions, and the constitution of the constellations, and the bhdr-ioka and the other
 
 3 worlds, and all the Lower Regions. And thou hast declared
 the Svayamblmva Manvantara to me, 0 muni. N^ext I wish
@@ -24749,8 +21191,7 @@ acquainted with the powers of various medicinal herbs, and
 9 skilled in the magic art. Now being requested by the former,
 whose mind was purified by faith, he described to him both
 
-10 countries and charming towns, forests, rivers, J and moun-
-tains, and holy sanctuaries. Then the former filled with
+10 countries and charming towns, forests, rivers, J and mountains, and holy sanctuaries. Then the former filled with
 
 1 1 astonishment said to that best of brahmans, “ In that thou
 hast seen many countries thou art not worn with excessive
@@ -24769,9 +21210,6 @@ I For read tiadfj .
 BBSCBIPTION m THE HIMALAYAS,
 
 
-393
-
-
 Tlie braiiman spoke ;
 
 12 By tkc power of spells and medicinal herbs my course is
@@ -24782,8 +21220,7 @@ Markandeya spoke :
 
 13 Then the brahman made him this answer in retnm with due
 
-14 respect, believing the word of that wise brahman, Ador-
-able Sir, give me the favour that comes from the power of
+14 respect, believing the word of that wise brahman, Adorable Sir, give me the favour that comes from the power of
 
 15 spells ; I have an intense desire to see this earth/^ And
 that brahman of exalted intellect gave him an ointment
@@ -24824,8 +21261,6 @@ captivated him with the fall of the broken water from a
 t AhU^mantraydmdsa s this mining is not given to the verb ia the
 
 dictionary. J For dindddhana read dindrddhena^
-
-50
 
 
 ^94
@@ -24893,9 +21328,6 @@ more eorreot. See verse 46 below.
 A brIhmah ahjd an apsaeas.
 
 
-395
-
-
 felt her heart 'drawn towards that noble brahman by love,
 
 37 in truth she was immediately filled with affection. She
@@ -24933,19 +21365,16 @@ melting snow here, 0 maiden of fascinating glance 1
 
 Vardthini spoke :
 
-46 I am the daughter of Miili, of high station ; I am well-
-known by name as Vardthini. I roam here at all times
+46 I am the daughter of Miili, of high station ; I am wellknown by name as Vardthini. I roam here at all times
 
-47 indeed on this charming mountain. Being such I am com-
-pelled by the sight of thee, 0 brahman, to declare my love.
+47 indeed on this charming mountain. Being such I am compelled by the sight of thee, 0 brahman, to declare my love.
 Do thou enjoin me what I must do, I am now submissive
 to thee/’
 
 
 The brahman spoke :
 
-48 0 benign sweet-smiler, tell me the means whereby I may-
-go to my own home. Loss is befalling us in all our actions,
+48 0 benign sweet-smiler, tell me the means whereby I maygo to my own home. Loss is befalling us in all our actions,
 
 49 and grievous loss befalls a brahman in the perpetual and
 
@@ -24973,8 +21402,7 @@ in which abandoning me thou shalt resort to thy own abode !
 
 54 Ah ! since heaven is not more charming, 0 young brahman,
 
-55 then abandoning the gods’ abode we ivill stay here. Sport-
-ing with me on this beloved snowy mountain, thou thyself,
+55 then abandoning the gods’ abode we ivill stay here. Sporting with me on this beloved snowy mountain, thou thyself,
 
 56 0 my beloved, wilt not remember thy mortal kinsmen. Seized
 and rendered submissive by love, 1 too will give thee here
@@ -24991,8 +21419,7 @@ the ointment. While thou remainest here, illustrious Sir,
 remainest here, never will old age light on thee. This is the
 
 60 land of the thirty gods ; it gives fullness to youth ! ” Having
-spoken thus, the lotus-eyed maiden^ full of affection, exclaim-
-ing sweetly ** Be thou gracious ! ” suddenly embraced him
+spoken thus, the lotus-eyed maiden^ full of affection, exclaiming sweetly ** Be thou gracious ! ” suddenly embraced him
 in the eagerness of her mind,
 
 The brahman spoke:
@@ -25009,16 +21436,12 @@ the gods, offered evening and morning, sustains the eternal
 A BRAHMAN AND AN APSARAS.
 
 
-397
-
-
 worlds ; tlie whole of these three worlds is estahlished on the
 oblation to the gods, 0 foolish one I
 
 Variithini spoke :
 
-63 Am I not dear to thee, 0 brahman ? Is not the moun-
-tain charming ? Leaving aside the Gandliarvas, the Kin-
+63 Am I not dear to thee, 0 brahman ? Is not the mountain charming ? Leaving aside the Gandliarvas, the Kin-
 
 64 naras and the others, whom dost thou desire ? Surely, Sir,
 thou shalt go away from here to thy own abode without
@@ -25059,9 +21482,6 @@ The brahman spoke :
 this world, and yields no fruit after death.
 
 not in the dietioimry# t For Vamikini read Yaruthinu
-
-
-398
 
 
 0A2<Ta LXII.
@@ -25124,9 +21544,6 @@ Markapdoya spoke :
 Tm BISCJOHSOLATE APSAEAS.
 
 
-399
-
-
 BnmoTmtiBg Mm, he stood amid a circle of light, and illn-
 
 3 mined that place as if he were Agni in bodilj form. IJilow
@@ -25152,8 +21569,7 @@ continually, reproached herself, “ 0 luckless one that I am I
 9 though her eyes were fascinating. Feither in sport, nor in
 food, nor yet on delightsome forest, nor on the charming
 
-10 glens did she then fix her Joy. She turned ber desire to-
-wards a pair of billing cakravakas. Forsaken by him the
+10 glens did she then fix her Joy. She turned ber desire towards a pair of billing cakravakas. Forsaken by him the
 finely-shaped maiden reproached her own youthful woman-
 
 11 hood, “ How happened it f that I came to this mountain,
@@ -25176,13 +21592,9 @@ love, and her passion for him grew every moment then.
 
 J Bead in preference Mnd'fh for hinark^ to agree with mdm ?
 
-§ The text reads, Jagdma mnni^sattammn ; but these words seem meaning-
-less from the context. Jagdda mum-sattama seem preferable, and I have
+§ The text reads, Jagdma mnni^sattammn ; but these words seem meaningless from the context. Jagdda mum-sattama seem preferable, and I have
 
 ventured to adopt them in the translation.
-
-
-400
 
 
 CANfO LXir,
@@ -25195,8 +21607,7 @@ condition. Then he pondered, Why now is this Varuthini,
 who moves as gracefully as an elephant, faded by the hot
 
 17 blast of sighing on this mountain ? Has she been wounded
-by some muni’s curse, or has any one treated her with dis-
-honour, since she keeps on bedewing her face copiously with
+by some muni’s curse, or has any one treated her with dishonour, since she keeps on bedewing her face copiously with
 
 18 tears ? ” Then Kali through curiosity meditated on that
 matter full long, and perceived the truth by the power of
@@ -25257,8 +21668,7 @@ for thy sake.
 Kali spoke:
 
 80 Thou must not ga25e on me while we meet in union in the
-wood to-day ; thou must close thine eyes, O lady with beauti-
-ful brows, the while thou dost unite with me.
+wood to-day ; thou must close thine eyes, O lady with beautiful brows, the while thou dost unite with me.
 
 Vardthini spoke :
 
@@ -25290,8 +21700,6 @@ time she conceived a child, O best of munis ; it took its form
 from the Gandharva’s energy and her dwelling in thought on
 
 * For Mroslii read hirushva f
-
-51
 
 
 402 CANTO Lxni.
@@ -25359,8 +21767,7 @@ through thy want of forbearance, done is thy brahman-hood,
 done all thine austerities 1 Thou art violated through thy
 wratlifulness, thou art not greatly worn out * through aus-
 
-20 terities. The dwelliug-place of forbearance is verily brah-
-man-hood ; the controlling of wrath is the performance of
+20 terities. The dwelliug-place of forbearance is verily brahman-hood ; the controlling of wrath is the performance of
 austerities.” Hearing this the sa^^e of measureless glory
 
 21 cursed both of them also, — “ Leprosy in the limbs shall light
@@ -25447,8 +21854,7 @@ known by the name Indivara ; I was the father of this maiden,
 
 I was the son of the swordsman Nala-n4bha king of the
 
-41 Vidya-dharas. And at first I besought the muni Brahma-
-mitm, “ Deign, adorable Sir I f to communicate to me the
+41 Vidya-dharas. And at first I besought the muni Brahmamitm, “ Deign, adorable Sir I f to communicate to me the
 
 42 whole of the Ayur-veda.” But though entreated often by me
 who remained bent with respect, he did not bestow on me the
@@ -25468,9 +21874,6 @@ t For awtardhdya^gma read antm'dhoma^gem f
 THE GAHDHARVA IHOfYABA’S STORY.
 
 
-405
-
-
 montlis, I gave way to excessive and repeated fits of laagliter
 
 45 out of my great delight. Recognizing me by the laughter,
@@ -25482,8 +21885,7 @@ Raksbasa, * bast snatched the science from me, 0 evil-minded
 47 one, and despising me hast indulged in laughter ; therefore
 thou shalt be assuredly cast out as a terrible Raksbasa by-
 
-48 my curse, O wicked one, after seven nights.’* On his utter-
-ing this, I propitiated him by prostrating myself before him
+48 my curse, O wicked one, after seven nights.’* On his uttering this, I propitiated him by prostrating myself before him
 and by other acts of deference ; the bi’dlimau with his mind
 
 49 immediately softened, said to me again — “What I have
@@ -25507,8 +21909,7 @@ its eight parts, which I acquired from beside that muni.
 
 Markandeya spoke :
 
-54 Having so spoken he, gleaming in heavenly raimetot, be-
-decked with garlands and ornaments, and bearing his pris-
+54 Having so spoken he, gleaming in heavenly raimetot, bedecked with garlands and ornaments, and bearing his pris-
 
 55 tine heavenly body, bestowed the science. After bestowing
 the science, he next proceeded to give Ins daughter. Then
@@ -25517,14 +21918,10 @@ the maiden spoke to her father who had regained his own form,
 66 “ Although love f has sprung up exceedingly with me, even at
 first sight, for this high-souled man, who is especially my
 
-67 benefactor, O father ; yet this maiden is my friend and that one al-
-so, they afflicted with pain for my sake ; hence I do not desire
+67 benefactor, O father ; yet this maiden is my friend and that one also, they afflicted with pain for my sake ; hence I do not desire
 
 * For mkfihasenaitm.reskd. rdkshasmeva ? He was a Gandharva then,
 t For nnnrdgo read annrdgo ?
-
-
-406
 
 
 CANTO LX nr.
@@ -25541,8 +21938,7 @@ wdth the .fire of their grief.”
 Sva-rocis spoke:
 
 60 By the favour of the Ayur-veda I will make thy two friends
-fresh again, removing thy great grief, 0 maiden with beauti-
-ful waist.
+fresh again, removing thy great grief, 0 maiden with beautiful waist.
 
 Markandeya spoke:
 
@@ -25560,9 +21956,7 @@ went to that garden, where the pair of maidens dwelt speech-
 Sva-rodis, knowing their condition accurately, brought them
 both back to a healthy body by means of medicines and po-
 
-65 tions which cure disease. Then the two maidens, most re-
-splendent, freed from disease, beautiful, rendered that moun-
-tain more luminous % than the I'egions of the sky by their own
+65 tions which cure disease. Then the two maidens, most resplendent, freed from disease, beautiful, rendered that mountain more luminous % than the I'egions of the sky by their own
 beauty.
 
 
@@ -25580,9 +21974,6 @@ t not in the dictionary.
 
 
 THE SPEECH OP THE MAIDENS TO SVA-ROC'iS.
-
-
-407
 
 
 Markandeya spoke:
@@ -25645,17 +22036,13 @@ II For subhdnand read iiiblidnand ?
 and I have not met with it elsewhere, ii'!? may howevex’ be taken as an
 
 
-408
-
-
 dAJJTO LXIV,
 
 
 12 the gods and perished*. I was about to destroy myself then
 from excessive despair. S'amblm’s wife Sati who is true to
 
-13 her promises prevented me, hy saymg^ ‘ Grieve not, beauteous-
-browed maiden ; thou shalt have an illustrious husband by
+13 her promises prevented me, hy saymg^ ‘ Grieve not, beauteousbrowed maiden ; thou shalt have an illustrious husband by
 
 14 name Sva-rodis, and thy son by him shall be a Mann. And
 all the Nidhisf shall submissively obey thy command, and
@@ -25705,9 +22092,6 @@ t See canto Ixviii,
 HAPPINESS IN WEDDED LIFE.
 
 
-409
-
-
 2 charming woods and cascades. The Nidhis,* being subject;
 through the knowledge Padmini, brought gems for eFerj kind
 
@@ -25746,8 +22130,7 @@ dear to him ; verily, it is among the happy that mutual
 lag-goose, the hen-cakra-vaka scarcely surprised in mind
 
 13 spoke to her — “ This man is not happy, because modesty
-springs not from proximity with other women ; he is enjoy-
-ing one or other of the women, his mind does not dwell on
+springs not from proximity with other women ; he is enjoying one or other of the women, his mind does not dwell on
 
 14 ail of them. Since the heart’s affection has only one basis,
 my friend^ how then will this man be affectionate to several
@@ -25760,11 +22143,6 @@ is desired by these women, why then does he not quit his
 
 * See canto Ixviii. f Kala-hamsi ; nee page 80 note § .
 
-52
-
-
-410
-
 
 CANTO LXV.
 
@@ -25772,19 +22150,16 @@ CANTO LXV.
 life ? He embraces some loved woman, the while lie is in the
 
 17 thoughts of some other loving w^oman. He is bartered at
-the price of the bestowal of knowledge, as if he were a ser-
-vant. Because of tlie excitements,* affection verily exists not
+the price of the bestowal of knowledge, as if he were a servant. Because of tlie excitements,* affection verily exists not
 
-18 equally towards many women. O grey lag-goose I my hus-
-band is happy, and I indeed am happy j he, for his mind is
+18 equally towards many women. O grey lag-goose I my husband is happy, and I indeed am happy j he, for his mind is
 fixed steadfastly on me alone, and I, for mine is on him
 alone.’’
 
 MarMaiideya spoke :
 
 19 Sva-rodia the unconqiiered, understanding the speech of
-all living creatures, on hearing this was ashamed and pon-
-dered, “it is indeed time, without any falsehood.”
+all living creatures, on hearing this was ashamed and pondered, “it is indeed time, without any falsehood.”
 
 20 After a hundred years had passed from that time, while
 sporting on the great mountain, while sporting with his wives
@@ -25793,8 +22168,7 @@ sporting on the great mountain, while sporting with his wives
 and plump limbs, playing among a herd of does, and surrounded
 with does shaped like he was, which were in the imtting time.f
 
-22 The buck then said to the does who were sniffing with out-
-stretched nostrils, “O ye charming does, one should behave with-
+22 The buck then said to the does who were sniffing with outstretched nostrils, “O ye charming does, one should behave with-
 
 23 out bashfulness ; hit 1 am not Sva-rodis, nor am I like him in
 disposition, 0 pretty-eyed does 1 Many have no modesty ; do
@@ -25819,15 +22193,11 @@ t Ydsitdhhik ; this appears to refer to the rnttiug season.
 rriE THREE SONS OP SVA-ROC'iS.
 
 
-411
-
-
 Canto LXVI.
 
 About the Svdroc'isha Manvantara,
 
-Sva-roc!is had three sons whom he settled in separate king-
-doms, Vijaya in a city Yijaya in Kdma-rupa, Meru-nanda in
+Sva-roc!is had three sons whom he settled in separate kingdoms, Vijaya in a city Yijaya in Kdma-rupa, Meru-nanda in
 Nanda-vaii in the North, and Prahhdva in Tala in the South . —
 One day he met the goddess of a forest, and had by her a son
 Nijuti-mat Svdrocisha, who became a Mamu — 8va-rodis, being
@@ -25846,8 +22216,7 @@ of as he had been by the hen-cakra-v^ka and the buck, and
 meeting with them, his love increased. Casting aside those
 
 4 disparaging speeches he sported for six hundred years. Bat
-while performing the works of righteousness without hind-
-rance to righteousness, wise Sva-rocis continues to enjoy
+while performing the works of righteousness without hindrance to righteousness, wise Sva-rocis continues to enjoy
 the pleasures of sense with those wives.
 
 6 And then three, sons were born to Sva-rocis, Vijaya, and
@@ -25873,9 +22242,6 @@ t The western portion of Assam. A town on a hill there can only be in
 the Himalayas in the North, or in the Garo and Khasia Iiiiis on the South }
 
 neither seems a likely situution for an ancient Hindu capital.
-
-
-412
 
 
 CANTO LXVr.
@@ -25918,8 +22284,7 @@ thy life P
 The doe spoke :
 
 18 It is thee I desire ; be welfare thine 1 Thou hast captivated
-my heart. Hence I choose death, let the arrow be dis-
-charged at me.
+my heart. Hence I choose death, let the arrow be discharged at me.
 
 Sva-rocis spoke :
 
@@ -25937,9 +22302,6 @@ any reference to them elsewhere.
 
 
 BIRTH OF MANU SVAROC'iSHA.
-
-
-413
 
 
 Imman form j liow sliall there be imion between such as me
@@ -25997,9 +22359,6 @@ with pleasures at all times ? Old age has fallen on nsy the
 ♦ For dava?i(Cw read derandw.
 
 
-414
-
-
 CANTO f.XVI.
 
 
@@ -26011,13 +22370,11 @@ The female duck replied :
 8;.} What time is unfit for pleasures ? The world is all composed
 of pleasures. Brahmans with souls subdued perform sacri-
 
-34 fices in ox^der to get pleasures. Moreover people of discri-
-mination, being eager for pleasures experienced and not yet
+34 fices in ox^der to get pleasures. Moreover people of discrimination, being eager for pleasures experienced and not yet
 experienced, both give alms and perform the full round of
 
 35 righteous acts. Why then dost thou not wish for pleasures Y
-Pleasure is the i^eward of effort among men who have dis-
-crimination and among bimte animals, bow much more among
+Pleasure is the i^eward of effort among men who have discrimination and among bimte animals, bow much more among
 those who have subdued their souls ?
 
 The duck spoke :
@@ -26025,8 +22382,7 @@ The duck spoke :
 36 Tlic mind of those who are not attached to pleasures is
 with the Supreme Soul. And when will it he so among those
 
-37 who have conti'acted attachments towards relatives ? Crea-
-tures perish when attached to son, friend and wife, just as
+37 who have conti'acted attachments towards relatives ? Creatures perish when attached to son, friend and wife, just as
 
 ■ 38 aged wild elephants when sunk in lake or mire or sea. Or
 dost thou not see, lady, how Sva-rocis, in whom attachments
@@ -26053,9 +22409,6 @@ with everj stain removed.
 svXroc'jsha’s makvantaka.
 
 
-415
-
-
 Canto LXVII.
 
 
@@ -26066,8 +22419,7 @@ Manvantara.
 
 Markandeya spoke :
 
-1 Then the adorable god made the Prajapati named Svaro-
-cJisha Djnti- mat a Manu. Listen to his Manv-antcfcra ; who
+1 Then the adorable god made the Prajapati named SvarocJisha Djnti- mat a Manu. Listen to his Manv-antcfcra ; who
 
 2 were the gods during that period, who were the munis and
 their sons, wdio were the princes, listen while I tell of thenif
@@ -26086,8 +22438,7 @@ Manu, C'aitra, Kiin-purusha, &o., very valiant, guardians of
 was enjoyed among the outspreadings of his family. That
 was the second Jfanr-antara.
 
-7 Now the naan who hears of Sva-rodis’ deeds and Sv4ro-
-disha*s birth, and believes them, is delivered from his sins.
+7 Now the naan who hears of Sva-rodis’ deeds and Sv4rodisha*s birth, and believes them, is delivered from his sins.
 
 
 Canto LXVIII.
@@ -26125,8 +22476,7 @@ Markandeya spoke :
 4 The knowledge which is named Padmini has Lakshmi for
 its deity, and the Kidhis for its supporters. Listen while I
 
-5 tell thee of it. The Nidhis therein are Padma and Maha-
-padma, and Makara, and Kacchapa, Mukunda and ISTandaka,
+5 tell thee of it. The Nidhis therein are Padma and Mahapadma, and Makara, and Kacchapa, Mukunda and ISTandaka,
 Nila, and S'ahkha is the eighth Nidhi. These live in real
 
 6 good-fortune* ; verily perfection springs from them. These
@@ -26142,8 +22492,7 @@ First, the Nidhi named Padma belongs, O brahman, to
 9 Maya,J to his son, and to the sons andygrandsons of bis son
 perpetually. And a man dominated thereby may become the
 
-10 perfection of politeness, since this Nidhi is supported by good-
-ness, yields great enjoyment and is sincere. And he amasses
+10 perfection of politeness, since this Nidhi is supported by goodness, yields great enjoyment and is sincere. And he amasses
 
 11 immense quantities of gold, silver, copper and other metals,
 and buys and sells them ; he also makes sacrifices, and be-
@@ -26176,9 +22525,6 @@ i and iii« "
 BI!S?CBIPT10N OF THE NTOHIS.
 
 
-417
-
-
 16 lar disposition in the descent of sons and grandsons. This
 ISfidhi comes only from prior good-fortune and does not depart
 for seven generations.
@@ -26192,8 +22538,7 @@ characterized chiefly by ignorance, thongh good in disposi-
 and shields and rope, and attains to friendship witli kings 5
 and he gives to kings who ocoapy themselves with heroic
 
-19 deeds, and to those whom they esteem; and he finds plea-
-sure in buying and selling weapons and in nothing else.
+19 deeds, and to those whom they esteem; and he finds pleasure in buying and selling weapons and in nothing else.
 This Nidhi belongs to a man singly, and does not descend to
 
 20 his progeny. Such a man may meet§ death for the sake of
@@ -26216,8 +22561,7 @@ Nidhi also is limited to men singly.
 
 And another Nidhi, who is named Mukunda, is composed
 
-25 of the quality of passion.'*’* The man on whom he looks be-
-comes of the same quality, 0 brahman. He gathei’s together
+25 of the quality of passion.'*’* The man on whom he looks becomes of the same quality, 0 brahman. He gathei’s together
 lutes, flutes and drams, and any musical instrument of per-
 
 26 oussion ; he bestows wealth on singers and dancers, and on
@@ -26300,9 +22644,6 @@ above and verse 41 below.
 DESCRIPTION OP THE NIDHIS.
 
 
-419
-
-
 40 and tanks and places for pleasure ; and such a man makes
 embankments across rivers and plants trees ; and after
 enjoying unguents, flowers and other objects of delight he is
@@ -26323,8 +22664,7 @@ he enjoys food and clothing such as he himself has made;
 44 his family eat wretched food and wear no bright clothing ;
 he makes no gift to friend, wife, brother, son, daughter-in-
 
-45 law and other relatives. Always intent on his ow,n nourish-
-ment is the man who possesses S'ahkha.
+45 law and other relatives. Always intent on his ow,n nourishment is the man who possesses S'ahkha.
 
 Thus these Nidhis have been described, the deities of wealth
 
@@ -26357,8 +22697,7 @@ see verse 3, It occurs in the next canto, but is cori*ected in canto Ixxi.
 420 CANTO LXIX.
 
 2 manv-antara at length and also the eight Nidhis, whom I
-asked about. Thou didst tell me of the Svayambhuva manv-
-antara before that. Tell me of the third manv-antara which
+asked about. Thou didst tell me of the Svayambhuva manvantara before that. Tell me of the third manv-antara which
 is named after Uttama.'*
 
 Markandeya spoke:
@@ -26441,8 +22780,7 @@ not to be questioned, mounted the beautiful-browed lady in a
 20 chariot and left her in a forest. And she, when abandoned
 thus by the king in the forest and being away from his sight,-
 
-21 held he had done her the greatest favour. And king Autta-
-na-pidi, with soul and mind burning with the anguish of love
+21 held he had done her the greatest favour. And king Auttana-pidi, with soul and mind burning with the anguish of love
 
 22 for her, took no other wife. He remembered her who was
 beauteous in every limb, day and night bereft of ease, and
@@ -26472,9 +22810,6 @@ fight ? or whence shall I bring her back ?
 royal oourtezaB.’*
 
 
-422
-
-
 CANTO LXIX*
 
 
@@ -26501,8 +22836,7 @@ ungainly in form, 0 king. I defame her not by this description ;
 31 very harsh in speech, and ungentle is she in disposition,
 0 king — thus I have described my wife ; she is a do-nothing,
 
-32 unpleasant in look, and she has slightly passed early woman-
-hood, 0 king. Such is my wife in form ; true is this I have
+32 unpleasant in look, and she has slightly passed early womanhood, 0 king. Such is my wife in form ; true is this I have
 spoken.
 
 The king spoke : .
@@ -26593,9 +22927,6 @@ The king spoke :
 51 Why is the arghya offering kept back, which thou wast pre-
 
 
-424
-
-
 CANTO LXIX.
 
 
@@ -26604,8 +22935,7 @@ house, O muni ?
 
 The fishi spoke : „
 
-52 When thi*ough agitation at the sight of thee, 0 king, I com-
-manded this disciple to give it, then I was cautioned by him.
+52 When thi*ough agitation at the sight of thee, 0 king, I commanded this disciple to give it, then I was cautioned by him.
 
 5S Through my favour he knows the future, in this world, as
 
@@ -26637,8 +22967,7 @@ a complaisant wife must bear with her husband though
 he be of bad disposition, so a wife although of bad dispo-
 
 60 sition must be cherished by h&i^ htishand, 0 king. Ungracious
-indeed was that brdhman’s wife whcT was carried off ; never-
-theless he, being a lover of righteousness, very much excels f
+indeed was that brdhman’s wife whcT was carried off ; nevertheless he, being a lover of righteousness, very much excels f
 
 61 thee, O king. Thou establishest other men in their proper
 ways of righteonsness when they swerve therefroin, O king.
@@ -26655,9 +22984,6 @@ are, to go np or ont, to rise, originate.” —
 
 
 Kim UTTAMA FINDS THE BRAHMAN WOMAN.
-
-
-425
 
 
 Markandeya spoke :
@@ -26715,11 +23041,6 @@ made an furor there in assigning the name hehphul to this tree. Bel-'jphfd
 is the name of the double Arabian jasmine, Jatminum ZamhaCt Hoxb. (I. 88)
 or X Samhac, Olirer. This jasmine is a shrub with delightfully fragrant white
 
-54
-
-
-426
-
 
 CANTO LXX.
 
@@ -26758,8 +23079,7 @@ Markandeya spoke :
 
 10 Then he entered by the path that she showed, and saw the
 
-11 Rakshasa attended by his retinne. Tlien the Rakshasa hurry-
-ing, the moment he saw him, touching the earth with his
+11 Rakshasa attended by his retinne. Tlien the Rakshasa hurrying, the moment he saw him, touching the earth with his
 head from afar indeed, approached his feet.
 
 The Rakshasa spoke :
@@ -26779,9 +23099,6 @@ says hela is one of them, but this seems doubtful.
 
 
 KINO UTTAMA CONYERSES WITH A RAKSHA3A.
-
-
-427
 
 
 The king spoke :
@@ -26811,8 +23128,7 @@ the females of mankind ?
 
 The king spoke :
 
-20 If she is not for sensual enjoyment nor for food, 0 night-
-roamer, why then didst thou enter the brahman’s house and
+20 If she is not for sensual enjoyment nor for food, 0 nightroamer, why then didst thou enter the brahman’s house and
 carry her off ?
 
 The Rakshasa spoke :
@@ -26820,8 +23136,7 @@ The Rakshasa spoke :
 21 That excellent brdhman, le’arned in spells, keeps on expelling
 me, when I go to sacrifice after sacrifice, by uttering spells that
 
-22 destroy Rakshasas, O king. By reason of his spells and ex-
-pulsive rites we were a-hungered ; where shall we go ? that
+22 destroy Rakshasas, O king. By reason of his spells and expulsive rites we were a-hungered ; where shall we go ? that
 
 23 brahman t is the priest at every sacrifice. Therefore we
 inflicted this damage J on him ; without a wife a man becomes
@@ -26848,8 +23163,7 @@ m
 
 paired condition tlie king became exceedingly dejected then,
 
-25 thinking While ho speaks of the brahman’s impaired condi-
-tion, it is me indeed he censiii’es. That best of mnnis also
+25 thinking While ho speaks of the brahman’s impaired condition, it is me indeed he censiii’es. That best of mnnis also
 
 26 said I was iin worthy of the argha offering. As the Bakshasa
 also has spoken to me of that brahman’s impaired condition, I
@@ -26867,8 +23181,7 @@ realm,”
 
 The king spoke :
 
-29 Since thon hast said, O night-roamer — “We feed on a per-
-son’s disposition,” hear then from me what deed we solicit.
+29 Since thon hast said, O night-roamer — “We feed on a person’s disposition,” hear then from me what deed we solicit.
 
 SO Do thon consume this brihman woman’s evil disposition this
 day ; since she will have her evil disposition eaten by thee,
@@ -26904,22 +23217,16 @@ t Or perhaps “ fault,” should be understood.
 THE BSAHMAN WOMAN RESTORED TO HER HFSBAKD.
 
 
-429
-
-
-again even by me. * Wiiat fault is there in tbis magnaHim-
-ons man ?
+again even by me. * Wiiat fault is there in tbis magnaHimons man ?
 
 The Raksbasa spoke :
 
-37 I will cause her to reach her husband’s house at thy com-
-inaud, my lord. Enjoin me whatever else should be done for
+37 I will cause her to reach her husband’s house at thy cominaud, my lord. Enjoin me whatever else should be done for
 thee, O king 1
 
 The king spoke :
 
-38 When this is done, thou hast done all for me, O nigbt-
-roamer. And thou must come, 0 hex’o, at the time of action
+38 When this is done, thou hast done all for me, O nigbtroamer. And thou must come, 0 hex’o, at the time of action
 when I recall thee to mind.f
 
 Markaiideya spoke :
@@ -26957,9 +23264,6 @@ three periods of time. And descending from the chariot he
 t 3For c*a te read tvayd, in order to make a pronoun agreeing with
 
 smfitma ? See cant<? Ixxii, verses 15 and 16.
-
-
-430
 
 
 CANTO LXXT.
@@ -27002,14 +23306,11 @@ mind burning, even that with one's inmost soul terrified at
 
 14 the pain of separation thereby, adorable Sir. But now I know
 not where she when abandoned in the forest has gone, or
-whether she has been devoured by lions, tigers and night-
-roaming heasts in the forest.
+whether she has been devoured by lions, tigers and nightroaming heasts in the forest.
 
 The rishi spoke :
 
-15 She has not been devoured by lions or tigers or night-
-roaming heasts^ 0 king, but she is now in Rasatala with un-
-blemished character.
+15 She has not been devoured by lions or tigers or nightroaming heasts^ 0 king, but she is now in Rasatala with unblemished character.
 
 The king spoke :
 
@@ -27082,9 +23383,6 @@ reads, is muob better and I have adopted it ; see rdja-varyya in canto Ixxii,
 verse 2. The translation of the text would be ** putting aside brahmans,’^
 
 
-432
-
-
 GANT0 LXXir.
 
 
@@ -27111,9 +23409,6 @@ Maun — Accordingly a son is horn who was theManu Auttama,
 
 
 I
-
-
-2
 
 
 Markandeya spoke :
@@ -27155,9 +23450,6 @@ in this matter P
 Kma ttttama regains his queen.
 
 
-488
-
-
 The brahman spoke t
 
 6 If tliy wife lives and has not gone asferay, why then dost thou
@@ -27168,8 +23460,7 @@ The king spoke:
 7 In sooth, altliongh she were brought back, she is ever
 opposed to me, O brahman, she would tend to unhappiness, not
 to happiness ; enough I her friendship is not at all towards
-me. Do thou so strive for me that she may become submis-
-sive unto me.
+me. Do thou so strive for me that she may become submissive unto me.
 
 The brahman spoke:
 
@@ -27194,8 +23485,7 @@ Markandeya spoke:
 times then the brahman performed the sacrifice in repetition
 
 13 in order to procure for the king his wife. When the great
-muni deemed that he had aroused friendliness within her to-
-wards her husband, then he, the brahman, addressed the
+muni deemed that he had aroused friendliness within her towards her husband, then he, the brahman, addressed the
 
 14 king — “ Fetch her, 0 king, who is dear to thee, close to thy
 soul; enjoy all enjoyments with her, and offer sacrifices,
@@ -27215,11 +23505,6 @@ neuter noun.
 § Faram : ami^fdgam or some similar non-feminine noun must be iiiidevstood ;
 
 unless we read pardm to agree with pr{H as in the next verse,
-
-55
-
-
-434
 
 
 CANTO JLXXn.
@@ -27262,14 +23547,12 @@ not have done for me ?
 _ Markandeya spoke :
 
 24 Then said the king to the brahman — “What kindf of
-ceremony is there for this, in order to dispel her dumb-
-ness And he replied to the king : —
+ceremony is there for this, in order to dispel her dumbness And he replied to the king : —
 
 The brahman spoke :
 
 25 O king, I will perform a sacrifice to Saras-vati at thy word.
-Let this thy wife discharge her debt of gratihale by stimula-
-ting the j)ower of speech in that friend,
+Let this thy wife discharge her debt of gratihale by stimulating the j)ower of speech in that friend,
 
 Markandeya spoke :
 
@@ -27324,9 +23607,7 @@ sounded forth, and a shower of flowers fell.
 37 Seeing that his body would be lovely and his disposition
 also, and reflecding that ho was the son of Uttama,§ the assem-
 
-38 bled munis gave him a nume saying, “Hois born hi an ex-
-cellent II family and at an excellent time in it ; he has excel-
-lent limbs ; hence he shall be Auttama.”
+38 bled munis gave him a nume saying, “Hois born hi an excellent II family and at an excellent time in it ; he has excellent limbs ; hence he shall be Auttama.”
 
 ^ See canto Ixxv, verso 13. Garga was tbe mame of an old pshi, a desoen
 
@@ -27337,9 +23618,6 @@ various other persons.
 t F.or read mamddhtmd^ $ The Artha-Mstas.
 
 § 'Auttama, jl Uiiama,
-
-
-436
 
 
 CANTO tXXflT,
@@ -27400,14 +23678,10 @@ J ** Deities who reside in their own dwellings. **
 
 ** Hamed Pratardanas.”
 
-**TIiose who are obedient to another'* s will.” This half line has a sylla-
-ble too much.
+**TIiose who are obedient to another'* s will.” This half line has a syllable too much.
 
 
 atjttama’s mant-antara.
-
-
-437
 
 
 all of them indeed had iiatur‘es corresponding to their
@@ -27485,8 +23759,7 @@ are named.
 
 Markandeya spoke :
 
-1 There lived oa the earth a famous king, by name Sva-
-rashtra, valiant, an offerer of many sacrifices, wise, invincible
+1 There lived oa the earth a famous king, by name Svarashtra, valiant, an offerer of many sacrifices, wise, invincible
 
 2 in battles. The sun being invoked by bis ministers gave
 him a very long life; and be bad a hundred happy wives,
@@ -27554,15 +23827,13 @@ clung to her tail, enfeebled throughout his nervous system.
 touching her, as he wandered continually in the darkness,
 
 16 with his mind drawn out in love to her. Perceiving that
-the king was enamoured of her, aitd tms engrossed in touch-
-ing her back, the doe verily spoke to him within that
+the king was enamoured of her, aitd tms engrossed in touching her back, the doe verily spoke to him within that
 forest: —
 
 17 “ Why dost thou touch my back with trembling hand ?
 
 18 ignite othei'wiso has tin's affair turned out, O king. To no
-unsuitable object has thy mind gone fo7i/i ; not unapproach-
-able am I to thee, 0 king ; but this Lola creates an obstacle
+unsuitable object has thy mind gone fo7i/i ; not unapproachable am I to thee, 0 king ; but this Lola creates an obstacle
 to my union with thee.’"
 
 Mai'kandeya spoke :
@@ -27583,9 +23854,6 @@ daughter.
 ^ MfUji-vdlymti seems prefei'ablo as two words and not a compound.
 
 
-440
-
-
 CANTO IiXXtV.
 
 
@@ -27598,8 +23866,7 @@ like this ?
 
 The doe spoke :
 
-23 While a girl in my father’s home I went with my com-
-panions to a wood to play, and saw a deer united with a
+23 While a girl in my father’s home I went with my companions to a wood to play, and saw a deer united with a
 
 2 A doe. Then approaching close I struck the doe. Frightened
 by me she fled away, and then the deer enraged said to me,
@@ -27647,9 +23914,6 @@ father, iiow can I choose, 0 best of munis, or do wrong ?
 BIRTH OF MAHIT T/mASA.
 
 
-441
-
-
 56 at thy feet I bow, be gracious, my lord ! ” While thus I lay
 prostrate, exclaiming repeatedly, Be gracious! be gracious,’*
 O high-minded hing^ that lordly muni spoke — “ My uttered
@@ -27657,11 +23921,9 @@ O high-minded hing^ that lordly muni spoke — “ My uttered
 57 word never goes amiss. After thy death thou shalt become a
 doe in this very wood in thy next birth ; and in the doe-
 
-38 condition thou shalt conceive within thee the muni Siddha-
-virya’s mighty-armed son named Lola, O proud ladj ; and
+38 condition thou shalt conceive within thee the muni Siddhavirya’s mighty-armed son named Lola, O proud ladj ; and
 
-39 when the ejubryo is conceived within thee, thou shalt re-
-member thy former life; regaining thy memory, ttinu
+39 when the ejubryo is conceived within thee, thou shalt remember thy former life; regaining thy memory, ttinu
 
 40 shalt also utter human language. After his birth thou shalt
 be freed from the doe-condition and be honoured by thy
@@ -27671,19 +23933,16 @@ husband ; thou shalt attain to the worlds which * are un-
 in valour, shall indeed strike down his father’s foes, and
 conquer the whole earth and then become a Manu.”
 
-42 Incurring this curse I died and reached this brute con-
-dition, f and through thy touch that embryo has come into
+42 Incurring this curse I died and reached this brute condition, f and through thy touch that embryo has come into
 
 48 being in my womb. Hence Isay — Tone unsuitable object
-has thy mind gone forth m coming to me, nor am I unap-
-proachable ; J hut this Lola who is conceived within me
+has thy mind gone forth m coming to me, nor am I unapproachable ; J hut this Lola who is conceived within me
 creates an obstacle.
 
 Markandeya spoke :
 
 44 Being thus addressed the king also, experienced intense
-joy then, thinking, My son will conquer my enemies and be-
-come a Manu on the earth.”
+joy then, thinking, My son will conquer my enemies and become a Manu on the earth.”
 
 45 Afterwards the doe brought forth that son marked with
 the auspicious marks ; and at his birth all created things
@@ -27761,9 +24020,6 @@ mighty kiUgs.
 t For ij<ii~^aHr rend tat-^atir, according to the Bombay edition.
 
 
-443
-
-
 STORY OF THE RISHI RITA-YAC^
 
 Canto LXXY.
@@ -27806,19 +24062,14 @@ wicked in mind, took another muni’s son’s wife whom he met.
 causing trouble to bis father’s and mother’s heart; and easts
 
 9 downwards his ancestors who dwell in Svarga. He benefits
-not his friends, he satisfies not liis- ancestors, he causes suf-
-fering to iiis parents — fie on the birth of that son who
+not his friends, he satisfies not liis- ancestors, he causes suffering to iiis parents — fie on the birth of that son who
 
-10 commits evil deeds 1 Happy are they whose sons are com-
-mended by all the world, who benefit others, wdio are peaceful,
+10 commits evil deeds 1 Happy are they whose sons are commended by all the world, who benefit others, wdio are peaceful,
 
 11 who are devoted to good work I Uneasy and dull, averse to
 the next world, tending towards hell and not towards beatitude
 
 12 is our life which depends on our son. A bad son brings
-
-
-444
 
 
 CAKTO LXXY.
@@ -27880,9 +24131,6 @@ t For anurundhyatd read anumdhyatd*
 BIRTH OP EIPATI FROM THE CONSTELLATION.
 
 
-445
-
-
 22 tonishmenfe. And the constellation Bevati, falling on and
 aronnd the moan tain Knmuda, suddenly illuminated **^ its
 
@@ -27890,8 +24138,7 @@ aronnd the moan tain Knmuda, suddenly illuminated **^ its
 by reason of her down-fall, became famous as Baivataka,t
 a mountain exceedingly charming through the whole earth.
 
-24 But the beauty of that constellation became the lake Pahka-
-jini ; J therefrom a maiden was born then exceedingly
+24 But the beauty of that constellation became the lake Pahkajini ; J therefrom a maiden was born then exceedingly
 
 25 brilliant in form. The muni Pramuca saw her who was
 bom from Eevati's beauty, and so gave her a name, the name
@@ -27947,8 +24194,7 @@ CANTO LXXV.
 
 burned, beard that bis speech and tlie bailing her as Dear! **
 
-36 and came out in baste. The mnni sa%v bigli-aonled king Durga-
-ina, bearing the royal insignia, bowing respectfully before him.
+36 and came out in baste. The mnni sa%v bigli-aonled king Durgaina, bearing the royal insignia, bowing respectfully before him.
 
 37 I^ow on seeing him be spoke at once to bis disciple Gautama
 — “ Gautama ! bring quickly the arglia offering for this king.
@@ -28003,12 +24249,6 @@ didst address just now as *• Dear 1 ” Hast thou forgotten,
 KING DGRCIAMA MAREIES REVATI.'
 
 
-417
-
-
-48
-
-
 The king spoke :
 
 In truth I said so, but no impx*opei' feeling Iiad I, O miiiii.
@@ -28046,8 +24286,7 @@ I have won thy favour.'’
 The rislii spoke:
 
 55 Fair maiden ! the constellation Revati is not declared to be
-one that unites with the moon. The constellations appro-
-priate to thy marriage are others, O beautiful-browed !
+one that unites with the moon. The constellations appropriate to thy marriage are others, O beautiful-browed !
 
 The maiden spoke :
 
@@ -28065,16 +24304,12 @@ with intoxicating eyes ; and if thou desirest not the marriage,
 we have fallen into a strait I
 
 
-448
-
-
 CANTO LXXV.
 
 
 The maiden spoke :
 
-59 Dear father ! WIij did that muni Rita- vac perform aus-
-terities in that fashion ? Have I nought to do with thoe as
+59 Dear father ! WIij did that muni Rita- vac perform austerities in that fashion ? Have I nought to do with thoe as
 father ? Am I the daughter of an unwoi'thy brahman ?
 
 The rishi spoke :
@@ -28091,9 +24326,7 @@ wedding under the constellation ?
 
 The rishi spoke :
 
-62 Be it so ! prosperity be thine, fair maiden ; be thou affec-
-tionate ! I raise the constellatiorrReTati to the moon’s path-
-way for thy sake.
+62 Be it so ! prosperity be thine, fair maiden ; be thou affectionate ! I raise the constellatiorrReTati to the moon’s pathway for thy sake.
 
 Markandeya spoke •.
 
@@ -28128,9 +24361,6 @@ t ^or mntato read mTUatau ?
 RAITAT^’S MANT-ANTAEA.
 
 
-449
-
-
 Markan<Jeya spoke :
 
 68 Then taking her the king went to his own city. From him
@@ -28160,8 +24390,7 @@ mighty in valour, and also Su-yashtavya, and Satyaka and
 others were Mann Raivata’s sons.
 
 76 How iliese are the Manus down to Raivata, whom I have
-told thee about ; they were indeed connected with Svayam-
-bhuva, except* Manu Svarocisha.f
+told thee about ; they were indeed connected with Svayambhuva, except* Manu Svarocisha.f
 
 
 Canto LXXYI.
@@ -28182,11 +24411,6 @@ t The Bombay edition adds a verso -within brackets. who may
 
 hear or road the snblimo story of these Manm contimially, is delivered from
 all sing cmd attains to the world tliat is earnestly desired.’*
-
-57
-
-
-450
 
 
 CANTO T,XXV7.
@@ -28224,8 +24448,7 @@ eyes are suffused with tears springing from love, therefore
 8 I chanced to laugh. Hear also the reason of it. The cat
 intent on its own object looks on me who am attached ta
 thee; and the other also, the hag who seizes newly-born
-10 children, has vanished. Just as these two, with hearts solici-
-tous for their own self-interest, ft were busy over me, even
+10 children, has vanished. Just as these two, with hearts solicitous for their own self-interest, ft were busy over me, even
 
 * For tarn read tathd ? The Boiahay e^fciou read-s may<k
 
@@ -28236,9 +24459,7 @@ the high-souled royal yishi An-amitra, gaye birth to a son, who was very wisea^
 pure, who remembered his former lives, a very sovereign.” See verse 27.
 
 \\ VUldpya* XTI-la'p is not given as a verb in the dictionary ; wUldpa is
-given as a noun meaning “calling out in a loud voice; change of voice in-
-grief, sickness, &c. but those meanings seem inadmissible here. See-
-wUldpana in canto xxv, verse 10.
+given as a noun meaning “calling out in a loud voice; change of voice ingrief, sickness, &c. but those meanings seem inadmissible here. SeewUldpana in canto xxv, verse 10.
 
 % VUUpayatL Jdta-hdrii^f ; see canto li, verse 102.
 
@@ -28249,14 +24470,10 @@ the Bombay edition reads.
 THE CHtLBnOOB 0¥ MAKU O'AKSIttTSHA.
 
 
-451
-
-
 so tliou appearesfj to me to be engaged in tby own sel£-iii-
 
 11 terest. But tbe cat and the hag who seizes iiewlj-bora
-cbildren aimed at enjoying me ; thou on tbe other hand de-
-sirest to obtain good results from me which shall be enjoyed
+cbildren aimed at enjoying me ; thou on tbe other hand desirest to obtain good results from me which shall be enjoyed
 
 12 gradually. Thou dost not know me who I am, nor tbe benefit
 that I have conferred. Our meeting is for no very long time,
@@ -28277,14 +24494,11 @@ self-interest- which shall accrue to me from tliee.'*t
 The hag Jata-harini then seized him when left, his body and
 external organs of sense being apathetic, his heart and son]
 
-37 pure. Having seized the boy she placed him then as a new-
-born child on the bed of king Yi-kranta’s wife, and took hia
+37 pure. Having seized the boy she placed him then as a newborn child on the bed of king Yi-kranta’s wife, and took hia
 
-18 new-born son and carried himj to another house, and tsSfc-
-ing a son from that hon^se she, Jata-hari^ii, in regular course
+18 new-born son and carried himj to another house, and tsSfcing a son from that hon^se she, Jata-hari^ii, in regular course
 
-19 devoured this third child. Now carrying children of' in succes-
-sion' she devours the third child^ totally devoid of pity ; but
+19 devoured this third child. Now carrying children of' in succession' she devours the third child^ totally devoid of pity ; but
 she makes a substitution thus with the other two day after day,
 
 20 And then king Yi-kranta perfoi’med the purificatory rites,
@@ -28333,8 +24547,7 @@ wast thou horn ? What dost thou say of this ?
 
 A'nanda spoke:
 
-27 I was bom in a ksliatriya king’s house of bis wife Giri-
-bhaarA O brahman. The hag that steals new-born childi’en
+27 I was bom in a ksliatriya king’s house of bis wife GiribhaarA O brahman. The hag that steals new-born childi’en
 
 28 took me ; she left me here, and taking Haimini’s son also
 carried him further to the house of the leading brahman
@@ -28342,8 +24555,7 @@ carried him further to the house of the leading brahman
 29 Bodha, and devoured the brdhman Bodha’s son. Haiinihi’s son
 has been consecrated with the sanctifying rites of a brahman
 
-30 there. I have been consecrated here by thee as guru, illus-
-trious Sir. I must obey thy command: which mo^Aer s/mZi
+30 there. I have been consecrated here by thee as guru, illustrious Sir. I must obey thy command: which mo^Aer s/mZi
 I approach, 0 guru ?
 
 The guru spoke :
@@ -28361,8 +24573,7 @@ is thus constituted ? Who is whose son, O brahman rishi ?
 whatever man enters into connexions, the others who are
 connected with him are made to pass away by death, O
 
-34 brahman. Moreover when he is born here, whatever con-
-nexion~he has with kinsmen, that also ceases with the , end-
+34 brahman. Moreover when he is born here, whatever connexion~he has with kinsmen, that also ceases with the , end-
 
 Mb ing of his body. This is the entire process. Hence I say,
 “ Who is not a kinsman to one who dwells in this worldly
@@ -28405,12 +24616,10 @@ tend to fetter me.
 
 Brahma spoke :
 
-43 He who is lord over consumed actions is fit for final emanci-
-pation, not he who engages in action. Hence Sir ! thou shalt
+43 He who is lord over consumed actions is fit for final emancipation, not he who engages in action. Hence Sir ! thou shalt
 obtain final emancipation, :^hen thou hast the lordship of
 
-44 goodness. Thou must be tho sixth Maiiu j go ; do accor-
-dingly ! Bnough of austerities for thee! When thou ha^t
+44 goodness. Thou must be tho sixth Maiiu j go ; do accordingly ! Bnough of austerities for thee! When thou ha^t
 done that, thou shalt obtaiu final emancipation.
 
 Markandeya spoke :
@@ -28457,8 +24666,7 @@ gods called Lekha in a fifth class also in that manv-antara,
 the Tndra was Mano-java, who offered a hundred sacrifices
 and became their lord ; he was reckoned the eater of a por-
 
-54 tion of the sacrifices. And Su-medhas, and Yi-rajas, Havish-
-mat, Un-nata, Madhu, Ati-naman, and Sahishnu were the
+54 tion of the sacrifices. And Su-medhas, and Yi-rajas, Havishmat, Un-nata, Madhu, Ati-naman, and Sahishnu were the
 
 55 seven rishis. Manu C'akshusha’s sons, chief of 'whom were
 IJru,* Puru, and S'ata-dyumna, veiy great in strength, were
@@ -28476,9 +24684,6 @@ chief personages in his, the seventh, period.
 
 
 JiTORy OF THE SUN AND HIS WIFE SANJNA.
-
-
-455
 
 
 Canto LXXYII.
@@ -28538,9 +24743,6 @@ J This means the Yamuna, sec the next verse. This name is not given
 in the dictionary and i have not met with it elsewhere.
 
 
-456
-
-
 CANTO LNi;:\TT.
 
 
@@ -28552,8 +24754,7 @@ father’s house fashioned her body, that the Sun loved, in
 12 shadow-form, and addressed her shadoio-self — ‘‘ 'Remain thou
 hero in the Sun’s house even as I ; and behave thou becom-
 
-13 ingly to the children even as to the Sun And though ques-
-tioned say nothing of this .my going away ; say always this,
+13 ingly to the children even as to the Sun And though questioned say nothing of this .my going away ; say always this,
 ‘ I am she indeed, Sanjha by name.’ ”
 
 The Shadow- Sahj ha spoke :
@@ -28566,8 +24767,7 @@ wpon myself
 15 The goddess*, receiving this assurance^ then went to her
 father’s abode. She saw Tvashtri there cleansed from stain
 
-16 by means of austerities. And being honoured by him, Yi4va-
-karman, with much respect, she remained in her father’s
+16 by means of austerities. And being honoured by him, Yi4vakarman, with much respect, she remained in her father’s
 
 , 17 house some time, unreproached. Then her father- spoke to
 the beautiful lady, his daughter, when she had dwelfc there
@@ -28601,9 +24801,6 @@ agreeing saluted her father respectfully and went to the
 TAMA S TJKFILTAL BEHAVrOtTB.
 
 
-457
-
-
 2S Hortliei'Q Korns, O mnni, disliking the Snn*s heat, afraid of
 Ms splendour; and there she practised austerities, changed
 into a mare’s shape*
@@ -28625,8 +24822,7 @@ forbearance towards her, did not strike it against her body*
 Tama, her upper lip quivei ing slightly, and her delicate
 
 20 hand shaking — “Because thou spurnesfc me, thy father’s
-wife, disrespectfully with thy foot, tfds thy foot shall there-
-fore fall this very day to the earth,^
+wife, disrespectfully with thy foot, tfds thy foot shall therefore fall this very day to the earth,^
 
 Markan4©ya spoke :
 
@@ -28657,11 +24853,6 @@ questioning her repeatedly, she did not speak ftirther, the Sun
 36 exmaged thereat pi*epai’ed to ooirse her. Thereupon she told
 
 ♦ For read Idlanddit w ith the Bombay edition*.
-
-58
-
-
-458
 
 
 CA7JT0 LXliVin,
@@ -28723,15 +24914,10 @@ mauv-antara.
 HTMUr TO THE BUN.
 
 
-459
-
-
-4 purified, to tie stainless Soul 1 Adoration to the most excel-
-lent, to the desirable one 1 to the utmost one, to the supreme
+4 purified, to tie stainless Soul 1 Adoration to the most excellent, to the desirable one 1 to the utmost one, to the supreme
 Soul ! Adoration to thee whose nature pervades the entire
 
-5 universe, to the embodiment of Soul I (This fine delight-
-some eulogy must he heard by men with faith. Having become
+5 universe, to the embodiment of Soul I (This fine delightsome eulogy must he heard by men with faith. Having become
 a disciple and having given also the guru his fee one may hear
 
 6 it rapt in meditation. It must not be heard by those who
@@ -28775,9 +24961,6 @@ innate splendour of thy form 1 ”
 t Or, illusory ; d-viddha.
 
 
-460
-
-
 OAKTO LTSiXVnt,
 
 
@@ -28815,8 +24998,7 @@ two sons issued from the raare's mouth, Nasatya and Basra ;
 24 and at the termination of the flow of semen Bevanta was
 born, bearing sword, shield and armour, mounted on horse-
 
-25 back, furnished with aiTows and quiver. Then the Sun dis-
-played his own peerless form, and she gazing upon his true
+25 back, furnished with aiTows and quiver. Then the Sun displayed his own peerless form, and she gazing upon his true
 
 26 form felt a keen joy ; and the San, the I'obber of the waters,
 bi’ought home this his loving wife Sanjua restored to her
@@ -28845,8 +25027,7 @@ THU sxTu’s mm Am the taivasvata mahv-aktaea. 461
 
 to friend and foe, tberefor© tlie Dispeller of darkness ap-
 
-30 pointed Mm over the soutliem region,* And Yamunil ke-
-csame tke river wliick flows from the recesses of mount
+30 pointed Mm over the soutliem region,* And Yamunil kecsame tke river wliick flows from the recesses of mount
 Kalinda. The Alvins were made the gods’ plijsicians by
 
 31 their high-sonled fatliex’. And Revanta also was appointed
@@ -28862,8 +25043,7 @@ appointed by his father as the planet Saturn among the
 34 planets. The third of them, the daughter named Tapati,
 had a son Knrn, king of men, by king Sambarana.f
 
-35 Thus I describe the seventh period, that of Mann Taivas-
-vata, his sons, the kings, the pishis, the gods and the king of
+35 Thus I describe the seventh period, that of Mann Taivasvata, his sons, the kings, the pishis, the gods and the king of
 the gods.
 
 
@@ -28886,8 +25066,7 @@ he known as Ka^apa’s sons ; and the Sadhyas, the Yasus, §
 
 Tdmye,
 
-t She married the Panrava king Sambarana and was the twelfth ances-
-tress of the Pa^davas j see Maha-BhArata, Adi-P, xciv. 3738-9 ; xcv. 3791 j
+t She married the Panrava king Sambarana and was the twelfth ancestress of the Pa^davas j see Maha-BhArata, Adi-P, xciv. 3738-9 ; xcv. 3791 j
 and olxxi. 6521-clxxm. 6016.
 t This is auaistakeE title as the canto shews.
 
@@ -28902,8 +25081,7 @@ tlxe Bhrigu class of gods are tlie sons of Bhrigu, and the
 Ahgirases are the sons of Angiras. And it is the present
 creation. Mario'a is to be known as the lord at present.
 
-4 And tlie Indra is named Urjjasvin, liigli-souled, tlie con-
-sumer of a share of the sacrifices. New all those lords of
+4 And tlie Indra is named Urjjasvin, liigli-souled, tlie consumer of a share of the sacrifices. New all those lords of
 
 5 the thirty gods, who have passed away, and who have
 not yet come, and who reign now, are to be known as having
@@ -28926,8 +25104,7 @@ of as the triple- woidd.
 9 And Atri and Yasishtha and the great rishi Kasyapa, and
 
 10 Gautama, Bharadvaja and Visva-mitra Kausika, and also
-the adorable son of the bigh-souled Ric'ika, namely Jamad-
-agni — these seven are thus the munis in tbe present period.
+the adorable son of the bigh-souled Ric'ika, namely Jamadagni — these seven are thus the munis in tbe present period.
 
 11 Ikshvaka,J and Nabhaga,§ and Dhi:ishta-sarmati,|j and
 
@@ -28935,8 +25112,7 @@ agni — these seven are thus the munis in tbe present period.
 
 f Divija,
 
-J Ikshvaku was tbe eldest son of Mann Vaivasvata. He got Bladhya-
-desa and was the ancestor of several dynasties, the chief of which was the
+J Ikshvaku was tbe eldest son of Mann Vaivasvata. He got Bladhyadesa and was the ancestor of several dynasties, the chief of which was the
 Solar dynasty that reigned in Ayodhya (Hari-Vaihsa, x. 684, and xi. 661-8 f
 M.-Bh., Sahha-P. xiii. 668-9 j Rainay., Adi-K. Ixxii. and Ayodh.-K. cxix).
 
@@ -29006,9 +25182,6 @@ For KrosMuhir read Kraushtukif*
 ft would be better than may as the Bombay reading mama is preferable.
 
 
-464
-
-
 CiNTO LXtX.
 
 
@@ -29075,9 +25248,6 @@ lij Or Tejo^raimif as on© name.
 THE bXyABNIKA MANT-ANTARA.
 
 
-465
-
-
 group of gods. Prabliu, Yibliu, Yibbasa and others are like-
 
 8 wise another gronp of twenty. Hear also from me the third
@@ -29109,8 +25279,7 @@ in the account of the Sdnarmha Manv-antara.
 King Su-ratha being defeated and driven from his kingdom took
 refuge in the forest loitli a muni — B.e met a vaisya who had been
 driven from his home by his relatives^ and both asked the muni about
-the selfish feelings which still possessed them . — He ascribes those feel-
-ings to the goddess Mahd-mciyd or Great Illusion^ and relates horn
+the selfish feelings which still possessed them . — He ascribes those feelings to the goddess Mahd-mciyd or Great Illusion^ and relates horn
 Brahma lauded the goddess at the end of a former halpa. in order to
 seek deliverance from the demons Madhu and Kaitahha, and how
 Vishnu awaking sleiv the demons.
@@ -29129,20 +25298,13 @@ reason of the authority of the Great Illusion J that illustrious
 t Mahd-mdyd,
 
 
-59
-
-
-466
-
-
 CANTO LXXXI.
 
 
 son of tlie Sun, Savarni, became tlie king of tke eighth
 many -ant ara.
 
-3 In times ago in the Svaroc'isha period, a king named Su-
-ratha, sprang of the race of C'aitra, reigned oyer the whole
+3 In times ago in the Svaroc'isha period, a king named Suratha, sprang of the race of C'aitra, reigned oyer the whole
 
 4 earth. And while he guarded his subjects duly as if they
 luere his own children, there arose hostile kings, who did
@@ -29248,9 +25410,6 @@ they sat down and lield various discoui'se, the vaisja and the
 king.
 
 
-468
-
-
 CANTO LXXXI.
 
 
@@ -29273,8 +25432,7 @@ also are both excessively unhappy ; our minds are drawn by
 selfish thoughts to this matter, even though we perceive the
 
 S3 faults in it. How happens this then, illustrious Sir, that we
-are deluded although aware of it^ and that this state of delu-
-sion besets me and him, who are each blind in respect of
+are deluded although aware of it^ and that this state of delusion besets me and him, who are each blind in respect of
 discrimination ?
 
 The rishi spoke :
@@ -29292,8 +25450,7 @@ not they alone indeed, because cattle, birds, wild animals
 same knowledge which those wild animals and birds have,
 and equally both wild animals and birds have the other hnow^
 
-38 ledge which those men have. Though they have such know-
-ledge, look at these birds, which, though distressed by hunger
+38 ledge which those men have. Though they have such knowledge, look at these birds, which, though distressed by hunger
 themselves, are yet because of that same delusion assiduous in
 
 39 dropping grains into the beaks of their young ones. Human
@@ -29369,9 +25526,6 @@ J Mitya.
 § See HariVamsa, ccii. 13562-81.
 
 
-470
-
-
 CANTO LNXXI.
 
 
@@ -29390,17 +25544,14 @@ and dissolution, full of reverence, incomparable.'^
 
 Brahma spoke :
 
-54 Thou art Svaha, thou art Svadha ; thou indeed art Vashat-
-kara, thou hast sound for thy soul;t thou art the nectar
+54 Thou art Svaha, thou art Svadha ; thou indeed art Vashatkara, thou hast sound for thy soul;t thou art the nectar
 of the gods^ the two eternal letters, J thou exisfcest having
 
 55 the three-fold matrj-'S for thy soul ; § thou existest half a
 matra in duration yet eternal ; thou indeed canst not be
 uttered specifically ; thou art |1 the Savitri,^ thou art the
 
-56 divine mother’^* * * § sublime. By tliee indeed everytliiiig is main-
-tained, by thee this world is created, by thee ft if i*^ pio-
-tected, 0 goddess ! and thou dost always consume it at the
+56 divine mother’^* * * § sublime. By tliee indeed everytliiiig is maintained, by thee this world is created, by thee ft if i*^ piotected, 0 goddess ! and thou dost always consume it at the
 
 57 end. At its emanation thou didst take the form, of creation*
 and in protecting it thon hast the form of permanence, and
@@ -29432,9 +25583,6 @@ tt For tvaijetat read tvayaitat
 
 
 ODE TO MAHA-MaS^A.
-
-
-471
 
 
 Great Knowlecfge, the Great Illusioii, the Great Vigoorj ike
@@ -29480,8 +25628,7 @@ f Mahdsicn. The Bombay edition reads Mahehari, ‘‘ the Great Queen.”
 
 ^ Pral^riti.
 
-§ Bhuiundi. After explaining this word as a contraction of bhnja-satru-
-muiidiy “she who cuts off enemies with her arms,” the commentator says it
+§ Bhuiundi. After explaining this word as a contraction of bhnja-satrumuiidiy “she who cuts off enemies with her arms,” the commentator says it
 ^go-phaniMi “a sling.” The dictionary says it is “a kind of weapon
 (perhaps a kind of fire-arms).”
 
@@ -29489,9 +25636,6 @@ II Mayd as in the Bombay edition is preferable to iadd,
 
 ^ For gajatpdtdtti read jagatpdty atti according to the Bombay edition ;
 see verse 56.
-
-
-472
 
 
 CANTO LXXXL
@@ -29514,9 +25658,7 @@ excelling in heroism and prowess, red-eyed through anger,
 72 fully prepared to devour Brahma. Thereupon the adox'able
 lord Hari ivse up and fought wdth those two, striking them
 
-73 with his arms, for five thousands of years. And they, exceed-
-ingly frenzied with their power, deluded by the Great Illu-
-sion, exclaimed to Kesava, “ Choose a boon from us 1 ”
+73 with his arms, for five thousands of years. And they, exceedingly frenzied with their power, deluded by the Great Illusion, exclaimed to Kesava, “ Choose a boon from us 1 ”
 
 The god spoke ;
 
@@ -29551,9 +25693,6 @@ t Bor hfitvd read Jifittvd ?
 
 
 YICTOBY OP THE ASORAS OTEB THE OOBS.
-
-
-473
 
 
 Canto LXXXIL
@@ -29606,13 +25745,8 @@ of Yishnu who was full of intense anger, and from the
 
 ^ For Davdsuram read Devdsw'am.
 
-60
-
 
 t Tejas,
-
-
-474
 
 
 CANTO LXXXIL
@@ -29627,8 +25761,7 @@ enei’gy there like a burning mountain, pervading the other
 energy born of the bodies ot all the gods, which pervaded
 the three worlds with its light, gathering into one became
 
-13 a female. By what was S'iva's energy her face was deve-
-loped, and by Ynma’s energy grew her hair, and her arms
+13 a female. By what was S'iva's energy her face was developed, and by Ynma’s energy grew her hair, and her arms
 
 14 by Yishnu’s energy, by the Moon’s her twin breasts ; and
 her waist came into being by Jndra’s energy^ and b}^ Ahiruna’s
@@ -29676,9 +25809,6 @@ t Or Time, Kdla.
 ORIGIN OF THE GODDESS O^ANHIKi.
 
 
-475
-
-
 24 and the Ocean of milk a spotless necklace of pearls and also
 a pair of nndecaying garments. And a celestial crest-je^vel, a
 
@@ -29697,8 +25827,7 @@ her breast, and a very brilliant lotus-flower besides, Himavat
 29 gave her a lion to ride on and gems of various kinds. Kiivera
 gave a drinking cup full of wine. And S'esha, the lord of all
 
-30 the serpents, wdio supports this earth, gave her a serpent-
-necklace adorned with large gems. Honoured by other gods
+30 the serpents, wdio supports this earth, gave her a serpentnecklace adorned with large gems. Honoured by other gods
 
 31 also with gifts of ornaments* and wenpon.s, the goddess
 uttered a loud roar blended with a liorse-laugh again and
@@ -29715,8 +25844,7 @@ faith.
 
 Seeing all the three worlds greatly agitated, the foes of the
 
-35 Immortals uniting all their armies rose up together, with up-
-lifted weapons. ‘‘ Ha 1 what is this ? ” exclaimed the Asura
+35 Immortals uniting all their armies rose up together, with uplifted weapons. ‘‘ Ha 1 what is this ? ” exclaimed the Asura
 
 36 Mahisha in wrath, and rushed surrounded by all the Asuras
 towards that roar. Then he saw the goddess, pervading the
@@ -29752,11 +25880,9 @@ Maha-haiin with a thousand myiiads gave battle ; and tbe
 42 great Asnra Asi-ioman with fifty minions ; with six Inindred
 myriads Vaskala fouglit in tlie battle; Ugra-darsana with
 
-43 many troops of tlionsniids of eleplunds and horses, and sur-
-rounded with ten million chariots fooght in that battle ; and
+43 many troops of tlionsniids of eleplunds and horses, and surrounded with ten million chariots fooght in that battle ; and
 
-44 tlie Asnra named Yidala fonglit in the battle tliere, snrroniid-
-ed with fifty myriads of myriads of chariots. And other
+44 tlie Asnra named Yidala fonglit in the battle tliere, snrroniided with fifty myriads of myriads of chariots. And other
 
 45 great Asnras in myriads, surrounded with chariots, elephants
 and hoi*ses, fought with tlie goddess in that battle there. Now
@@ -29797,9 +25923,6 @@ natiTe in this line or tbo next*
 
 
 THE GODDESS SLAUGHTERS THE ASURA ARMIES.
-
-
-477
 
 
 dess* * * § energj. And of these bands some raised a din with
@@ -29848,17 +25971,13 @@ elepliants and horses and Asuras the earth became impassable
 f For hritdk read liriitdJi f
 
 It Sendmdmrinah ; but- fclte commeiitator translates it, ‘‘flgltinv in tli®
-rear of tie army.’* The Bombay edition roads mildnukdrinah, “who resem-
-bled mountains.”
+rear of tie army.’* The Bombay edition roads mildnukdrinah, “who resembled mountains.”
 
 § For vdiii read rishfi*
 
 II The Bom])ay edition adds a line to this verse, “ while from their mangled
 limbs fiou'cd streams of hloud (rudhiraughd-cilupfdnijdfi) in that, appalling'
 battle.”
-
-
-478
 
 
 CANTO LXXSOl.
@@ -29898,14 +26017,12 @@ The yishi spoke :
 1 How the great Asura, the general C'ikshura, seeing that
 army being slaughtered, advanced in wrath to fight with
 
-2 Ambikh The Asura rained a shower of arrows on the god-
-dess in the battle, as a cloud deluges mount Meru’s summit
+2 Ambikh The Asura rained a shower of arrows on the goddess in the battle, as a cloud deluges mount Meru’s summit
 
 3 with a shower of rain. The goddess, cutting asunder the
 masses of his arrows then as it were in play, smote his horses
 
-4 with her arrows and their charioteer ; and split his bow forth-
-with and his banner raised high aloft ; and with swift
+4 with her arrows and their charioteer ; and split his bow forthwith and his banner raised high aloft ; and with swift
 
 * The Bombny edition repeats here the second line of verso 60.
 
@@ -29917,9 +26034,6 @@ with and his banner raised high aloft ; and with swift
 
 
 THE GODDESS SLATS THE ASUEA CHIEFS.
-
-
-479
 
 
 missiles pierced his limbs as be stood with shattered bow.
@@ -29976,9 +26090,6 @@ she struck Yidala’s head clean down from his body. She
 * Danta-mushti-talais ; or, according to the comnaentatorfwtlfi the loWCr
 
 parte of her ivory sword-hilt.’’
-
-
-480
 
 
 CANTO LXXXm.
@@ -30038,9 +26149,6 @@ f QFd daiVi. which the Bombay edition reads, is preferable to uc'c^dn,- “ high
 THE OOBDISS SLAYS THE ASURA MAHISHA.
 
 
-481
-
-
 32 the great Asara assamed his buffalo shape again, and
 so shook the three worlds with ail that is moveable and im-
 
@@ -30088,12 +26196,6 @@ Mahlsha was destroyed by the goddess along with his army and his bands of
 friends, after he had bewitched the three worlds. When Mabisha was slain,
 all created things in the three worlds then uttered the shout * Conquer thou 1 *
 along with gods and Asuras and nieii/^
-
-
-61
-
-
-482
 
 
 CAKTO LXXXIY.
@@ -30150,9 +26252,6 @@ particle ama. Similarly pra^natdh sma in canto kxxv, verse 7.
 
 
 HYMN TO c'aNDHCA.
-
-
-483
 
 
 In those of men of sinful souls ; who is Intelligence in the
@@ -30216,9 +26315,6 @@ j| Prahriti.
 ft Sattva-sdrai^ of the Bombay edition is preferable to tattva^^iraiA,
 
 
-484
-
-
 CANTO LXXXIV.
 
 
@@ -30268,8 +26364,7 @@ saw it.
 its frowns,
 
 And sheeny in hue like the rising moon, that Mahisha
-Did not forthwith yield up his life, -t was passing wonder-
-ful !
+Did not forthwith yield up his life, -t was passing wonderful !
 
 * This half verse admits of more than one translation. I have adopted
 from the commentary what seems the most natural meaning. Vdrttd seems
@@ -30285,8 +26380,7 @@ HYMN TO C'ANDIKA.
 4S5
 
 
-For who can live after beholding the King of Death en-
-raged ?
+For who can live after beholding the King of Death enraged ?
 
 13 Be gracious, 0 goddess, as supreme ladj, to life !
 
@@ -30346,9 +26440,6 @@ which seems to be preferred, is to read ndma narakdya as na dma-naraHya
 “ let these not practice sin so m to descend to the Hell of Disease for long ! ” ’
 
 
-486
-
-
 CANTO LXXXIV,
 
 
@@ -30403,16 +26494,12 @@ worlds I
 
 entire
 
-Have been saved by thee. Having slain them in the battle-
-front
+Have been saved by thee. Having slain them in the battlefront
 
 ♦ Visphurana ; not in the dictionary.
 
 t Or prahatitaim, ‘‘ thou hast indeed manifested,’* as in the Bombay
 edition.
-
-
-487
 
 
 HYMN TO c'aNDIEA.
@@ -30483,16 +26570,13 @@ goddess, those heaven-dwellers made answer.”
 great I whenever we call thee, call thee to mind, do tbou
 
 32 away with our direst calamities 1 And whatever moi’tal
-shall praise thee with these hymns, 0 lady of spotless coun-
-tenance, to prosper him in wealth and wife and other bless-
-ings by means of riches, success and power do thou incline
+shall praise thee with these hymns, 0 lady of spotless countenance, to prosper him in wealth and wife and other blessings by means of riches, success and power do thou incline
 always, 0 Amhika, who art propitious to us 1
 
 The rishi spoke :
 
 33 Being thus propitiated by the gods for the good of the
-world and on their own behalf^ “ Be it so 1 ” said she, Bhadra-
-kali ; and vanished from their sight, 0 king.
+world and on their own behalf^ “ Be it so 1 ” said she, Bhadrakali ; and vanished from their sight, 0 king.
 
 34 Thus I have narrated this, 0 king, how the goddess came into
 being of yore from out of the gods’ bodies, she who desires the
@@ -30532,9 +26616,6 @@ o
 THE GOBS INVOKE C^ANJDIKA
 
 
-489
-
-
 their pride and streDgtli, robbed S'aci’s lord of the three
 
 2 worlds^ and of bis portions of the sacrifices; they both
@@ -30551,8 +26632,7 @@ dominion and set at nought hy those two great Asuras, all
 grant us the boon, J ‘ As ye when in calamities shall call me to
 mind,§ that very moment will I put an end to all your direst
 
-6 calamities.’ ” Making this resolve the gods went to Hima-
-vat, lord among mountains, and there raised their hymn to
+6 calamities.’ ” Making this resolve the gods went to Himavat, lord among mountains, and there raised their hymn to
 the goddess, who is Vishnu’s illusive power. ||
 
 The gods spoke :
@@ -30591,8 +26671,6 @@ f Frai^atdh sma tim ; sma is used here with a past participle.
 
 ** Jyotsndyai,
 
-62
-
 
 490 CANTO LXXXY.
 
@@ -30624,14 +26702,12 @@ Reverence to her, yea reverence to her !
 
 Reverence to her, reverence, yea reverence I
 
-13 To the goddess who among all created beings
 Bears tlie name Consciousness,^*
 
 Reverence to her, yea reverence to her !
 
 Reverence to her, reverence, yea reverence 1
 
-14 To the goddess who among all created beings
 Stands firmff with the form of Intellect, JJ
 Reverence to her, yea reverence to her !
 
@@ -30671,51 +26747,43 @@ Reverence to her, yea reverence to her !
 
 Reverence to her, reverenoe^ yea reverence 1
 
-16 To the goddess who among all created beings
 Stands firm with the form of Hunger,
 
 Reverence to lier, yea reverence to her !
 
 Reverence to her, reverence, yea reverence,
 
-17 To the goddess who among all created beings
 Stands firm with the form of Shadow,
 
 Reverence to her, yea reverence to her !
 
 Reverence to her, reverence, yea reverence 1
 
-18 To the goddess who among all created beings
 Stands firm with the form of Energy,'**'
 
 Reverence to her, yea reverence to her 1
 Reverence to her, reverence, yea reverence !
 
-19 To the goddess who among all created beings
 Stands firm with the form of Thirst,
 
 Reverence to her, yea reverence to her 1
 Reverence to her, reverence, yea reverence 1
 
-20 To the goddess who among all created beings
 Stands firm with the form of Patience,
 
 Reverence to her, yea reverence to her 1
 Reverence to her, reverence, yea reverence !
 
-21 To the goddess who among all created beings
 Stands firm with the form of Speciality,f
 Reverence to her, yea reverence to her !
 
 Reverence to her, reverence, yea revei^ence I
 
-22 To the goddess who among all created beings
 Stands firm with the form of Modesty,
 
 Reverence to her, yea reverence to her I
 Reverence to her, I'everence, yea reverence !
 
-23 To the goddess who among all created beings
 
 ^ ^nhfi’rtipena,
 
@@ -30726,8 +26794,6 @@ meM^samavdyini,
 
 CAXITO LX3CXY.
 
-
-492
 
 Siatids firm wifeli fcfie form of PeaceafilenesSy
 Eeverence to her, yea reverence to Iicr I
@@ -30740,33 +26806,28 @@ Reverence to her, ?/ea, reverence to her !
 
 Reverence to her, reverence, yea reverence !
 
-25 To the goddess who among all created beings
 Stands firm with the form of Loveliness,
 
 Reverence to her, yea revei’ence to her !
 
 Reverence to her, reverence, yea reverence !
 
-26 To the goddess who among all created beings
 Stands firm with the form of Good- Fortune,
 
 Reverence to her, yea reverence to her I
 Reverence to her, reverence, yea reverence I ^
 
-27 To the goddess who among all created beings
 Stands firm with the form of Activity,
 
 Reverence to her, yea reverence to her I
 Reverence to her, reverence, yea reverence !
 
-28 To the goddess who among all created beings
 Stands firm with the form of Memory,
 
 Reverence to her, yea reverence to her !
 
 Reverence to her, reverence, yea reverence !
 
-29 To the goddess who among all created beings
 Stands firm with the form of Mercy,
 
 Reverence to her, yea reverence to her !
@@ -30780,7 +26841,6 @@ Reverence to her, yea reverence to her !
 
 Reverence to her, reverence, yea reverence !
 
-31 To the goddess who among all created beings
 
 * The Bombay edifioii inserts here a similar verse, invoking the goddess
 in the form of Steadfastness (dhriii).
@@ -30793,16 +26853,12 @@ l^fourisbment ^pushfi) respectively.
 HYMN TO c'AN^IKA
 
 
-493
-
-
 Sfcands firm witli the form of Mofeher,
 
 Reverence to her, yea reverence to her !
 
 Reverence to her, reverence, yea reverence I
 
-32 To the goddess who among all created beings
 Stands firm with the form of Error,
 
 Reverence to her, yea reverence to her I
@@ -30856,16 +26912,12 @@ Sarvdpadas tat-hsha^am eva hanti naif,,
 t Mantii, “ may she destroy,” would be better than hanti.
 
 
-494
-
-
 CANTO LXXXV.
 
 
 ii)g forth from the treasure-house of her body the auspicious
 
-39 goddess spoke — For me this hymn is uttered by the assem-
-bled gods, ■who have beea set at nought by the Daitya
+39 goddess spoke — For me this hymn is uttered by the assembled gods, ■who have beea set at nought by the Daitya
 
 40 S'umbha and routed in battle by Kisumbha.’^ Because
 Ambika issued forth from the treasure-house'^ of Parvati’s
@@ -30957,8 +27009,7 @@ divine origin, and who has vanquished every foe of the
 59 Daityas — “ Mine are all the three worlds ; obedient to my
 authority are the gods, I eat every portion of the sacrifices
 
-60 separately. The choicest gems in the three worlds are alto-
-gether under my power j an<l so arc the finest elephants and
+60 separately. The choicest gems in the three worlds are altogether under my power j an<l so arc the finest elephants and
 the chariot of the lord of the gods, since I have captured
 
 61 them-. That gem among horse.s, named TJccaih-sravasa, which
@@ -30973,9 +27024,6 @@ presented even to me, 0 brilliant lady. I esteem thee
 
 
 * ** Giving an exit/’ ** granting departure,”
-
-
-496
 
 
 CANTO LXXXT.
@@ -31085,19 +27133,15 @@ aloud to her there — “ Come forward to the presence of Shimbha
 
 7 and Xisumhha ; if thou wilt not, lady, appx'oach my lord with
 
-63
-
 
 CANTO LXXXVr.
 
 
-affection now, I will here take tliee force, ivlio wilt he un-
-nerved since tlion sbalt be dragged along bj tlij bair! ”
+affection now, I will here take tliee force, ivlio wilt he unnerved since tlion sbalt be dragged along bj tlij bair! ”
 
 The goddess spoke :
 
-8 Sent, hy the king of the Daitjas, mighty tlvt/selj\ and accom-
-panied by an army, thon dost tliiis take me by force— then
+8 Sent, hy the king of the Daitjas, mighty tlvt/selj\ and accompanied by an army, thon dost tliiis take me by force— then
 what can I do unto thee *?
 
 The rishi spoke :
@@ -31121,8 +27165,7 @@ the entrails of some, and struck their heads off with a cuff-like
 
 shaking his mane drank the blood that flowed entrails J
 
-15 of others. In a moment all that army was brought to destruc-
-tiori by the high-spirited lion, who bore the goddess and who
+15 of others. In a moment all that army was brought to destructiori by the high-spirited lion, who bore the goddess and who
 was enraged exceedingly,
 
 16 When he heard that that Asura Dhumra-loeana was slain
@@ -31148,9 +27191,6 @@ J For hmshd^hdd read hoshthdd.
 
 
 KAli DESTROrf^ THE ASUEAJ5.
-
-
-499
 
 
 CAN-ro LXXXVIL
@@ -31192,8 +27232,7 @@ a tiger^s skin, very appalling because of her emaciated flesh,
 I exceedingly wide of mouth, lolling out her tongue terribly,
 having deep-sunk reddish eyes, and filling the regions of the
 
-8 sky with her roars. She fell upon the great Asnras impetuous-
-ly, dealing slaughter among the host, and devoured that army
+8 sky with her roars. She fell upon the great Asnras impetuously, dealing slaughter among the host, and devoured that army
 
 9 of the gods’ foes there. Taking up the elephants with one
 hand she fiung them into her mouth, together with their rear-
@@ -31208,9 +27247,6 @@ and she kicked another with her foot, and crushed another
 12 against her breast. And she seized with her mouth the
 
 * For khattdnga read kkafvdnga here and again in. verse 14#
-
-
-500
 
 
 QXmO LXXXTH.
@@ -31345,8 +27381,7 @@ terrible army at band, filled tbe space between the eartli and
 her lion roared exceedingly loud, 0 king ; and Ambika
 
 9 augmented*' those roars with the clanging of her bell. KjIH,
-filling the regions of the skj with the noise from her bow-
-string, from her lion and from her bell, and cjxpanding her
+filling the regions of the skj with the noise from her bowstring, from her lion and from her bell, and cjxpanding her
 mouth wide with her terrific roars, had the predominance.f
 
 10 On hearing that roar which filled the four regions of tbe skj,
@@ -31360,12 +27395,10 @@ and for the well-being of the lion-like Immortals, there issued
 Energies§ from the bodies of Brahma, S'iva, Guha and Vishnu
 and o£‘ Indra also, and went in the forms of those gods to
 
-13 C'andika. Whatever was the form of each god, and what-
-ever his ornaments and vehicle, in that very ajppearance his
+13 C'andika. Whatever was the form of each god, and whatever his ornaments and vehicle, in that very ajppearance his
 
 14 Energy advanced to fight with the Asuras. In the front of a
-heavenly car drawn by swans advanced Brahma’s Energy, bear-
-ing a rosary of seeds and an earthen water-pot ; she is called
+heavenly car drawn by swans advanced Brahma’s Energy, bearing a rosary of seeds and an earthen water-pot ; she is called
 
 15 Brahmam. Mahesvara’s lEnergtj^ seated on a bull, grasping a
 fine trident, and wearing a girdle of large snakes, arrived,
@@ -31379,8 +27412,7 @@ Vishnu’s Enei’gy, seated upon Garucla, advanced with conch,
 IS discus, chib, bow and scymitar in hand. The Energy of Hari,
 who assumes the peerless form of a sacrificial boar, she also
 
-* For c\^pavrinihayai read c^dpij avri'fhhayat as in the Bombay edition-
-t 5 iHs here used by itself in the Atmane-pada. The commentary
+* For c\^pavrinihayai read c^dpij avri'fhhayat as in the Bombay editiont 5 iHs here used by itself in the Atmane-pada. The commentary
 gives “ vanquished the enemies ” as an alternative translation. It mentions
 $ajm m an alternative reading, which means then expanded her month
 wide with her terrific roars.”
@@ -31463,19 +27495,16 @@ with the onset of her darts and crushing them with her skull-
 32 topped staff.* And Brahmam caused the foes to lose their
 courage by casting water on them from her earthen pot, and
 
-33 weakened their rigour, by whatever way she ran. Mahes-
-wara’s Energy slew Daityas with her trident, and Vishnu’s
+33 weakened their rigour, by whatever way she ran. Maheswara’s Energy slew Daityas with her trident, and Vishnu’s
 Energy with her discus, and Kiimara’s Energy, very wrathful,
 
-34 slew them with her javelin. Torn to pieces by the down-
-rush of the thunder-bolt hurled by Indra’s Energy, Daityas and
+34 slew them with her javelin. Torn to pieces by the downrush of the thunder-bolt hurled by Indra’s Energy, Daityas and
 Danavas fell on the earth in hundreds, pouring out streams
 
 35 of blood. Shattered by the hog-embodied Energy with blows
 from ber snout, wounded in their breasts by the points of her
 
-36 tushes, and torn by her discus, demons fell down. And Hi-i-
-simha’s Energy roamed about in the battle, devouring other
+36 tushes, and torn by her discus, demons fell down. And Hi-isimha’s Energy roamed about in the battle, devouring other
 great A suras who were torn by her claws, as she tilled the
 
 37 intermediate region of the sky with her roaring. f Asuras,
@@ -31496,8 +27525,7 @@ to the ground a drop of blood, at that moment starts up from
 club in liand fought with Indra’s Energy, and Indra’s Energy
 
 42 then struck Rakta-vija with her thunder-holt ; blood flowed
-quickly from him when wounded by the thunder-bolt. There-
-upon stood up together fresh combatants, like him in body,
+quickly from him when wounded by the thunder-bolt. Thereupon stood up together fresh combatants, like him in body,
 
 43 like him in valour ; for as many blood-drops fell from Ms
 body, so many men came into being, like him in courage,
@@ -31573,8 +27601,6 @@ The goddess smote Rakta-vija with her dart, her tbunder-bolt^
 
 f For Balta^vindoh read RaUa-vfjdfj m in the Bombay oditioii.
 
-64
-
 
 506 CANTO OXXIX.
 
@@ -31612,8 +27638,7 @@ The lishi spoke :
 3 After Rakta-vija was slain and other demons were killed
 in the fight, the Asnra S'umhha gave way to unbounded wrath,
 
-4 and Nisumbha also. Pouring out his indignation at behold-
-ing his great army being slaughtered, Xisumbha then rushed
+4 and Nisumbha also. Pouring out his indignation at beholding his great army being slaughtered, Xisumbha then rushed
 
 5 forward with the flower of the Asura army. In front of him
 and behind and on both sides great Asuras, biting their lips
@@ -31624,9 +27649,6 @@ to slay C'“a^dika in his rage, after engaging in battle with
 
 T' the Mothers, Then occurred a desperate combat between
 the goddess and S'umbha and Nisumbha, who both, like two
-
-
-507
 
 
 c'an]|>ik:/ mghts with Kumbha and hiIhmbha.
@@ -31647,16 +27669,14 @@ arrow, and also his shield on which eight moons were pour-
 11 trayed. When his shield was cloven and his sword too, the
 Asura hurled his spear ; and that his missile also, as it came
 
-12 towards her, she split in two with her discus. Then Msum-
-bha, the Danava, pud'ed up with wrath, seized a dart ; and
+12 towards her, she split in two with her discus. Then Msumbha, the Danava, pud'ed up with wrath, seized a dart ; and
 that also, when it came, the goddess shattered with a blow of
 
 IS her fist. And then aiming* his club he fiung it against
 CAiidika, yet that was shivered by the goddess’ trident and
 
 14 became ashes. As that lordly Daitya then advanced with
-battle-axe in hand, the goddess struck him with a multi-
-tude of arrows and laid him low on the ground.
+battle-axe in hand, the goddess struck him with a multitude of arrows and laid him low on the ground.
 
 15 When his brother Nilumbha, who was tezTible in prowess,
 fell to the ground, Sumhha in utmost fury stiode forw^ard to
@@ -31686,16 +27706,12 @@ sounds. S'iva-ddtif uttered a loud inauspicious laugh. At
 . f I. e,, C 'andika ; see canto Ixxxviii, rerse 27.
 
 
-508
-
-
 CANTO LXXXIX.
 
 
 those sounds the Asuras trembled;^ S^umbha gave way
 
-22 to utmost rage. When Ambika cried out Stand, 0 evil-
-scaled 1 stand ! ” the gods who had taken their stations in the
+22 to utmost rage. When Ambika cried out Stand, 0 evilscaled 1 stand ! ” the gods who had taken their stations in the
 air then called to her, ‘‘ Be thoix victorious
 
 23 The spear flaming most terribly, which S'umbha approaching
@@ -31718,8 +27734,7 @@ again and struck the goddess, and Kali and the lion with
 28 arrows. And the Danava lord, that son of Difci, putting forth
 a myriad arms, again covered C'andika with a myriad discuses.f
 
-29 The goddess then enraged, she^ Durga who destroys the afflic-
-tions of adversity, split those discuses and those aiTows with
+29 The goddess then enraged, she^ Durga who destroys the afflictions of adversity, split those discuses and those aiTows with
 
 SO her own arrows. Then Kisnmbha seizing his club rushed
 impetuously at C'aiadika to slay her outright, with the Daitya
@@ -31728,8 +27743,7 @@ impetuously at C'aiadika to slay her outright, with the Daitya
 C'andika swiftly clove his club with her sharp-edged scymi-
 
 32 tar. And he took hold of a dart. C'andika with a dart
-hurled swdf fcly pierced Nisumbha, the afflicter of the Immor-
-tals, in the heart, as he approached with dart in hand.
+hurled swdf fcly pierced Nisumbha, the afflicter of the Immortals, in the heart, as he approached with dart in hand.
 
 33 When he was pierced by the dart, out of his heart issued
 another man* of great strength and great valour, exclaiming
@@ -31797,9 +27811,6 @@ absorbed into the goddess’ breasts ; Ambikd then remained
 alone indeed.
 
 
-510
-
-
 CANTO 3£C.
 
 
@@ -31856,9 +27867,6 @@ t for devi read de>oim. The Bombay edition reads tam hantum„
 J for-A’add rmd tadd.
 
 
-511
-
-
 c'akbjka slats Kumbha.
 
 her palm the Daiiya kiog fell suddenly on the earth ; and
@@ -31912,9 +27920,6 @@ the boon that she will always become incarnate and deliver the
 ivorld whenever it is oppressed by demons.
 
 
-512
-
-
 CANTO XCI.
 
 
@@ -31954,8 +27959,7 @@ sublime !
 
 All this world has been bewitched, O goddess ;
 
-Thou indeed when attainedj art the cause of final emanci-
-pation from eidstence on the earth !
+Thou indeed when attainedj art the cause of final emancipation from eidstence on the earth !
 
 5 All sciences are portions of thee, 0 goddess ;
 
@@ -32050,7 +28054,6 @@ O goddess who takest suffering away from every one,
 0 Harayaiji, reverence be to tliee I
 t The Energy (mkti, fern,) of Brahma. The swan is liis vehiolo,
 t The Commentary translates kahciriJcd as kshepana-Mrim or d-^sektyL
-65
 
 
 514 ckmo xcT.
@@ -32101,8 +28104,7 @@ And who tookest away Ypitra’s life-breath, 0 Aindri
 
 18 0 thou who vrith the nature of S^iva-dutitf
 
-* Tte Energy {hUi) of Mateivara or S'iva. The trident, moon and ser-
-pent are his emblems and ornaments, and the hull is his vehicle*
+* Tte Energy {hUi) of Mateivara or S'iva. The trident, moon and serpent are his emblems and ornaments, and the hull is his vehicle*
 
 t The Energy of Samara or K^rfefcikeya. The peacock is his vehicle, and
 the cook is an attendant of his parents, S'iva and Parvati.
@@ -32124,9 +28126,6 @@ tt See canto Ixxxrii, verse 25.
 
 
 HYMN TO c'ANBIKX.
-
-
-515
 
 
 Slowest tlie mighty hosts of the Daityas,
@@ -32381,8 +28380,7 @@ EUIiOaX OF THE DEVf-MAHATMYl. S10
 
 The goddess spoke :
 
-1 And whoever with mind composed shall praise me constaB t-
-iy with these hymns, I will quiet down every tx'ouble for him
+1 And whoever with mind composed shall praise me constaB tiy with these hymns, I will quiet down every tx'ouble for him
 
 2 assuredly. And those who shall celebrate the destruction o£
 Madhu and Kaitabha, the slaughter of the Asura Mahisha,
@@ -32478,10 +28476,8 @@ which ye have composed, and those composed by brahman
 24 yishis, and those composed by Brahma bestow a splendid
 mind.J He who is surrounded by a raging fire in a forest
 
-^ The text as it sfcanda is incorrect, iov 'pamhrama is masc., and ^arakra-
-mam, aoc., has no verb. I have read therefore pardkramas c'a for fardh^a*
-mam c'a. The Bombay edition reads tathotpattih <prithak suhhdh pardhra-
-mdmi c% and the commentary translates the verse thus*— “From listening to
+^ The text as it sfcanda is incorrect, iov 'pamhrama is masc., and ^arakramam, aoc., has no verb. I have read therefore pardkramas c'a for fardh^a*
+mam c'a. The Bombay edition reads tathotpattih <prithak suhhdh pardhramdmi c% and the commentary translates the verse thus*— “From listening to
 this poem of my majesty, and to my splendid diverse appearances in the
 forms of the Energies, and to my feats of prowess in battles, a man becomes
 fearless.”
@@ -32492,9 +28488,6 @@ X Or gatim-, “ course” or “ issue.”
 
 
 THE HEMOHS WERE BAKISHEH TO PiTAU*
-
-
-521
 
 
 25 or OH a lonesome road, or who is encompassed by robbers in
@@ -32549,11 +28542,6 @@ gives stability to created beings at their fated time. She indeed
 
 Megba^bwfca i. 34.
 t MaM^mdri; see verse 7 above*
-
-66
-
-
-522
 
 
 CANTO xcni.
@@ -32613,8 +28601,7 @@ WHO SHAM BB' THE MANU SifvABfJr. S2S
 sublime bymn to tbe goddess. They both made an earthen
 image of the goddess on that sand^bank, and paid worship
 
-8 to it with flowers, incense, fire and libations of water. Ab-
-staining from food, restricting their food, concentrating their
+8 to it with flowers, incense, fire and libations of water. Abstaining from food, restricting their food, concentrating their
 minds on her, keeping their thoughts composed, they both
 
 9 offered the bali offering also sprinkled with blood drawn
@@ -32633,10 +28620,8 @@ Markandeya spoke :
 another life, and in this life his own kingdom wherein the
 
 12 power of his enemies should . be destroyed by force. Then
-the vai^ya also, whose mind was down-cast, chose know-
-ledge , — to he wise, knowing *wJiat is mine,* and ^whai I
-am ,* — knowledge that causes the downfall of worldly attach-
-ments.
+the vai^ya also, whose mind was down-cast, chose knowledge , — to he wise, knowing *wJiat is mine,* and ^whai I
+am ,* — knowledge that causes the downfall of worldly attachments.
 
 The goddess spoke i
 
@@ -32661,9 +28646,6 @@ the noble kshattriya shall obtain a new birth through the
 Sun, and shall be the Manu Savar^i.
 
 
-524
-
-
 CANTO XCiT.
 
 
@@ -32686,8 +28668,7 @@ Mothers also which were from the goddess in the great battle,
 
 3 and the origin as well as the life of the goddess and
 
-the majesty of ^xTa-ddti, the slaying of S'umbha and Nisum-
-bha, and the killing of Rakta-Tija'— ail this has been narrated
+the majesty of ^xTa-ddti, the slaying of S'umbha and Nisumbha, and the killing of Rakta-Tija'— ail this has been narrated
 to thee.
 
 4 Now hear 0 noble muni, of the next Manu Sayar^ika. And
@@ -32725,9 +28706,6 @@ Brahma, the Sukhaslnas and the Nirtiddhas shall he the gods,
 ACCOUNT OF THE FUTURE MANUS.
 
 
-525
-
-
 Rliall be the gods, a Imndred in Humber, in the period of that
 future Manu. As there shall he a hundred sons^ of his,
 
@@ -32758,15 +28736,13 @@ shall be named Vrisha, celebrated for valour. And Havish-
 and An-agha, and another great muni Vishti, and Agni-deva
 the Beventh, — these shall he the seven rishis in that period.
 
-21 Sarvatra-ga and Su-^arman, Devanika, Puriidvalia, Rema-
-dhanvan, and Dfidhayu shall be the sons of that Manu, yea
+21 Sarvatra-ga and Su-^arman, Devanika, Puriidvalia, Remadhanvan, and Dfidhayu shall be the sons of that Manu, yea
 the kings.
 
 22 When the twelfth Manv-antara of Ruclra’s son, the Manu
 named Savarna, shall have arxdved, who shall he the gods
 
-23 and munis, — liear about them. The Su-dharmans, the Su-
-manases, the Haritas and the Rohitas and the Su-varpas
+23 and munis, — liear about them. The Su-dharmans, the Sumanases, the Haritas and the Rohitas and the Su-varpas
 
 ^ For fvdv^indm road ^utrdr^dih as in the Bombay edition,
 t Both the Calcutta and Bombay editions read rdtrayo ’tha, which
@@ -32782,9 +28758,6 @@ proper name, and the number would then exceed seven. It soeins to bo a
 mistake for risMr*
 
 
-626
-
-
 CANTO XC?.
 
 
@@ -32793,18 +28766,15 @@ shall he tbe gods therein ; these five shall he ten-fold groups.
 24 Now their Indra shall be known as Rita-dliamaii, great in
 power, endowed with all Indra’s good qualities. Hear from
 
-25 me the seven yishis also — Dyuti, Tapas-vin, Su-tapas, Tapo-
-niiirtti, Tapo-nidlii, and Tapo-rati another, and Tapo-dhriti
+25 me the seven yishis also — Dyuti, Tapas-vin, Su-tapas, Taponiiirtti, Tapo-nidlii, and Tapo-rati another, and Tapo-dhriti
 
-26 the seventh. Deva-vat, and XJpa-deva, Dova-sreshtha, Vidd-
-ratha, Mitra-vat, and Mitra-vinda, shall be the sons of that
+26 the seventh. Deva-vat, and XJpa-deva, Dova-sreshtha, Viddratha, Mitra-vat, and Mitra-vinda, shall be the sons of that
 Manila yea the kings.
 
 27 Listen while I tell thee of the Mann's sons and of the
 seven rishis and of the kings in the turn of the thirteenth
 
-28 Mann named Rancya. The gods therein shall he the Su-
-d barmans, the Su-karmans, and the Sn-^armans the others ;
+28 Mann named Rancya. The gods therein shall he the Sud barmans, the Su-karmans, and the Sn-^armans the others ;
 
 29 all these verily shall he the gods, O best of munis. Their
 Indra shall he Divas-pati, great in power, great in valour.
@@ -32939,8 +28909,7 @@ just as poison does ; although it is different, it does not in truth
 tend to bondages by reason of the means which are put into
 
 23 practice. Therefore, 0 son, do thou take a wife according to
-precept ; let not thy birth be unprofitable by thy not observ-
-ing the business of ordinary life fully,
+precept ; let not thy birth be unprofitable by thy not observing the business of ordinary life fully,
 
 * An-ahhisandUta i ahhi-sandhita IB not in the diotionsiXj*
 
@@ -32960,13 +28929,9 @@ a-nydyato, it would mean “ because of iniquity it tends in truth to bondage.**
 KlTC'l PROPITIATES BRAHMaI
 
 
-529
-
-
 Ruci spoke :
 
-2i I am now aged ; who will bestow a wife on me, O my fore-
-fathers ? Moreover it is hard for a poor man to take a wife.
+2i I am now aged ; who will bestow a wife on me, O my forefathers ? Moreover it is hard for a poor man to take a wife.
 
 The Pitris spoke :
 
@@ -32995,24 +28960,19 @@ Markandeya spoke :
 1 The brahman rishi Euc'i, being greatly agitated in mind at
 that his forefathers* counsel, wandered about the earth, desii^
 
-2 ous to find a maiden. Pailing to obtain a naaiden he, illu-
-minated by the fire of his forefathers’ counsel, fell into deep
+2 ous to find a maiden. Pailing to obtain a naaiden he, illuminated by the fire of his forefathers’ counsel, fell into deep
 
 3 thought, while his mind was exceedingly agitated — “ What
 can I do ? Where am I going ? How am I to take a wife ?
 May that come to pass quickly, which will effect mj fore-
 
-4 fatheiB* advancement I ” While the high-souled muni pon-
-dered thus, a thought occurred to him — I will propitiate
+4 fatheiB* advancement I ” While the high-souled muni pondered thus, a thought occurred to him — I will propitiate
 
-5 lotus-bom Brahma with austerities.” Thereupon he per-
-formed austerities to Brahma for a hundred celestial years,
+5 lotus-bom Brahma with austerities.” Thereupon he performed austerities to Brahma for a hundred celestial years,
 and for the purpose of propitiating him engaged then in the
 
 6 utmost self-mortification. Brahma the forefather of the
 worlds thereupon showed himself a7Zil said to him—** I am
-
-67
 
 
 530 CANTO XCTl.
@@ -33028,8 +28988,7 @@ Brahma spoke ;
 8 Then shalt he a Praja-pati ; thou shalt create human folk.
 After creating human folk, O brahman, and begetting sons
 
-9 and performing ceremonies, thon shalt then, after thy domi-
-nion shall he taken away, attain perfect felicity. Being such,
+9 and performing ceremonies, thon shalt then, after thy dominion shall he taken away, attain perfect felicity. Being such,
 
 10 do thou take a wife as enjoined by thy forefathers j and after
 reflecting on this desire, perform worship to the Pitfis ;
@@ -33071,9 +29030,6 @@ Gubyakas also, who earnestly desire boundless sublime pros-
 RUC'i’s HYMN TO THE PTTRTS,
 
 
-531
-
-
 perit-y because they are absorbed f, herein,^ honour with faith.
 
 17 I pay reverence unto the Pifct^s, who are always honoured by
@@ -33090,8 +29046,7 @@ who are restrained in their diet and whose stains have been
 washed away by austerities, delight with sraddhas performed
 
 20 in the forests. I pay reverence unto the Pitris, whom
-brahmans, who practise the vow of pei’petual celibate student-
-ship and who have subdued tlieir souls, delight with intense
+brahmans, who practise the vow of pei’petual celibate studentship and who have subdued tlieir souls, delight with intense
 
 21 meditation continually. I pay reverence unto the Pitp's,
 whom as being bestowers of benefits in the three worlds princes
@@ -33129,9 +29084,6 @@ t A class of Fitris regarded as the especial Fitris of S'udras.
 % Barpaik, ,
 
 
-532
-
-
 CANTO XCVI.
 
 
@@ -33156,8 +29108,7 @@ delighted herein with food and water, with perfumes and
 
 32 other odours ; may they obtain nourishment herefrom 1 And
 may the Pityis, who have satisfaction from the clarified butter
-in the oblation to Agni, who dwelling in the bodies of brah-
-mans feed on the same, and who reach intense delight by the
+in the oblation to Agni, who dwelling in the bodies of brahmans feed on the same, and who reach intense delight by the
 offering of the pinda, be satisfied herein with food and water !
 
 33 May they, who have been greatly pleased by the chief
@@ -33184,9 +29135,6 @@ f ; or the rising of the sim
 
 
 BUC'f’s HYMN TO THE PITRIS.
-
-
-533
 
 
 the line of the risingf sun are worthy of worship from
@@ -33220,14 +29168,12 @@ And may the Pitris who are known as Barbi-shads protect
 the western region^ and the Soma-p4 Pitris the northern
 region from Rakshasas, goblins and Pisacas, and indeed from
 
-43 harm inflicted by Asuras ! And may their ruler Yama safe-
-guard me everywhere! The Yisva, Yi4va-bhuj, Aradhya,
+43 harm inflicted by Asuras ! And may their ruler Yama safeguard me everywhere! The Yisva, Yi4va-bhuj, Aradhya,
 
 44 Dharma, Dhanya, S'uhhanana, Bhuti-da, Bhfiti-krit and Bhiiti
 are nine classes which exist among the Pityis. The Kalyana,
 
-45 Kalyata-kartyi, Kalya, Kalyatara^raya, Kalyata-hetu and An-
-agha — these six, they are known as classes of Pitris also.
+45 Kalyata-kartyi, Kalya, Kalyatara^raya, Kalyata-hetu and Anagha — these six, they are known as classes of Pitris also.
 
 * NiU^mhM^, TMs is obsonre.
 
@@ -33250,8 +29196,7 @@ IIL 197 and 198.
 
 534 CANTO xcvrr.
 
-46 The Vara, Varenya, Vat'a-da, Pushti-da and Tusliti-da, Visva-
-patri and Dinitri — tlieRe seven indeed are also classes. The
+46 The Vara, Varenya, Vat'a-da, Pushti-da and Tusliti-da, Visvapatri and Dinitri — tlieRe seven indeed are also classes. The
 
 47 Maliafc, Mahatman, Maliita, Mahima-vat Malia-bala — these
 
@@ -33297,8 +29242,7 @@ t Namasydmi. It is used with the object in the genitive here and in verse
 8 and 9. The construction with the accusative is the only one mentioned in
 the dictionary,
 
-f The Bombay edition reads A-muritdndih da murUandm, ** who are incor-
-poreal and who are corporeal,”
+f The Bombay edition reads A-muritdndih da murUandm, ** who are incorporeal and who are corporeal,”
 
 
 EtfC^I PBAISES THE P1TK.IS.
@@ -33328,15 +29272,13 @@ reverence always to the Praja-pati^ Kasyapa, to Somaf and to
 to the seven classes of Fitris moreover in the seven worlds IJ
 I pay reverence to self-existent Brahma who is contemplation-
 
-10 eyed. I pay reverence to the Somadhara and Yoga-murtfci-
-dhara classes of Pityis, and to Soma the father of the worlds.
+10 eyed. I pay reverence to the Somadhara and Yoga-murtfcidhara classes of Pityis, and to Soma the father of the worlds.
 
 11 I pay reverence moreover to the other Pityis who have the
 form of fire,§ because this universe is entirely composed of
 
 12 Agni and Soma. ISTow these who dwell in this light, and who
-have the bodies of the moon, sun and fire, || and whose true na-
-ture is* the world, and whose true nature is Brahma^ — to all
+have the bodies of the moon, sun and fire, || and whose true nature is* the world, and whose true nature is Brahma^ — to all
 
 13 those Pityis, practisers of religious devotiou, I jpay reverence
 with subdued mind, reverence, yea reverence. May they, the
@@ -33351,8 +29293,7 @@ issued forth with their splendour, illuminating the ten regions
 
 * For Praji-pateh read Prajd-pate ?
 
-t Or, “ the moon.” ‘ Soma ' seems to foe played upon in its various mean-
-ings in tfoesQ verses.
+t Or, “ the moon.” ‘ Soma ' seems to foe played upon in its various meanings in tfoesQ verses.
 
 t Or, “ Eeverence to the seven classes of Pi^r is and to the seven worlds I*®'
 
@@ -33389,8 +29330,7 @@ The Pittis spoke :
 19 Here verily for thee let a wife be produced forthwith who
 shall be most fascinating, and by her thou shalt have a son,
 
-20 a Mann supreme, the ruler of a Manv**antara, wise, charac-
-terized by thy very own name, being called Raney a from
+20 a Mann supreme, the ruler of a Manv**antara, wise, characterized by thy very own name, being called Raney a from
 
 21 thee>, 0 Ruci ; he shall attain fame in the three worlds. He
 shall also have many sons, great in strength and prowess,
@@ -33421,11 +29361,7 @@ a hymn.**
 THE MERITS OP THE HYMN TO THE PlTjRlIS.
 
 
-537
-
-
-26 of the brahmans as they feast, that sraddha, shall un-
-doubtedly become ours imperishably, because of our pleasure
+26 of the brahmans as they feast, that sraddha, shall undoubtedly become ours imperishably, because of our pleasure
 in hearing the hymn when a man makes close approach unto
 
 27 Although a sraddha be performed without a brahman learned
@@ -33444,8 +29380,7 @@ nevertheless such a Sraddha shall be to our delight because
 brings ns happiness is recited at a sraddha, there delight
 
 31 accrues unto us, lasting for twelve yimrs. This hymn recited
-in the winter yields delight for twelve years ; and this beauti-
-ful hymn recited in the dewy season yields delight for twice
+in the winter yields delight for twelve years ; and this beautiful hymn recited in the dewy season yields delight for twice
 
 32 that number of years ; when recited at a sraddha ceremony in.
 the spring it tends to delight us for sixteen years ; and this
@@ -33457,8 +29392,7 @@ consummated with this hymn in the rainy season, imperish-
 34 able delight accrues unto us, 0 Ruci. When recited at the
 time of a srdddha even in the autumn season, it yields us
 
-35 delight with men which lasts for fifteen years. And in whose-
-soever house this hymn remains constantly in written form,
+35 delight with men which lasts for fifteen years. And in whosesoever house this hymn remains constantly in written form,
 there shall we be present when a sraddha is performed,
 
 36 Therefore standing at a liraddha in fi'ont of the feasting
@@ -33468,12 +29402,6 @@ supplies nourishment unto us.*
 ♦ The Bombay edition adds—** Having spoken thus, his aucestora (Pifcris)
 
 departed to heaven, O best of munis.”
-
-
-68
-
-
-538
 
 
 CANTO XCVIU.
@@ -33491,18 +29419,15 @@ Mann Bauc'ya, who will he the ruler of a ma7iv-aniara»
 
 Markandeya spoke :
 
-1 Thereupon from the midst of that river uprose an exqui-
-site Apsaras, charming, slender-shaped, named Pramloca.
+1 Thereupon from the midst of that river uprose an exquisite Apsaras, charming, slender-shaped, named Pramloca.
 
 2 And she spoke to high-souled Enci in very sweet accents,
-bowing conrteonsly towards him, she, beantifnl-browed Pram-
-loca, verily a choice Apsaras.
+bowing conrteonsly towards him, she, beantifnl-browed Pramloca, verily a choice Apsaras.
 
 3 ‘‘A maiden of exceeding bodily beauty is my daughter, O
 best of ascetics ; she was begotten by Varuna*s high-souled
 
-4 son Pushkara. Take her when I give her, a maiden, of exqui-
-site complexion,* to be thy wife; a Mann of great intellect
+4 son Pushkara. Take her when I give her, a maiden, of exquisite complexion,* to be thy wife; a Mann of great intellect
 shall be born of her as son to thee ! ”
 
 Markandeya spoke ;
@@ -33510,8 +29435,7 @@ Markandeya spoke ;
 5 When he replied, “ So be it,” to her, she fetched up from
 
 6 out that water then a shapely maiden named Malini ; and on
-that sand-bank in the river Rudi, best of munis, after sum-
-moning the great munis together, took her hand in marriage
+that sand-bank in the river Rudi, best of munis, after summoning the great munis together, took her hand in marriage
 
 7 according to the ordinances. Of her was born to him a son,
 great in valour, great in intellect; he was named Raucya
@@ -33530,9 +29454,6 @@ through their favour, 0 great muhi.
 
 
 THE STORY OF BHd'l’l i.NO ^ANTI.
-
-
-539
 
 
 Canto XCIX.
@@ -33561,8 +29482,7 @@ fiercely, the sun caused no excessive heat, nor Parjanya
 4 excessive mud, nor did the moon even when full cause
 excessive cold with its rays, through fear verily of that
 
-5 irascible and very glorious muni And the seasons, aban-
-doning their course, produced flowers and fruit at all times
+5 irascible and very glorious muni And the seasons, abandoning their course, produced flowers and fruit at all times
 on the trees that grew in his hermitage according to his
 
 6 command. And the waters that flowed near his hermitage
@@ -33575,16 +29495,12 @@ irascible, 0 brahman.
 And that illustrious muni having no son set his mind on
 
 8 austerities. Desiring a son, I’estricting his food, exposing
-himself to cold, wind and fire, he fixed his mind on austeri-
-ties indeed with the resolve, I will practice austerities.’^
+himself to cold, wind and fire, he fixed his mind on austerities indeed with the resolve, I will practice austerities.’^
 
 9 The moon did not tend to make him very cold, nor the sun
 to make him very hot, nor did Matarisvan blow on him
 
 10 severely, 0 great muni. And Bhfiti, best of munisj being
-
-
-540
 
 
 CANTO XCIX.
@@ -33613,8 +29529,7 @@ not become extinguished.
 Markan^eya spoke:
 
 15 Having given this command and receiving tbe answer
-“ Yea ” from bis disciple S'^nti, tbe guru went to that bis bro-
-ther’s sacrifice, being summoned thereto by his younger brother,
+“ Yea ” from bis disciple S'^nti, tbe guru went to that bis brother’s sacrifice, being summoned thereto by his younger brother,
 
 16 And while S^anti is fetching fuel, flowers, fruit and other things
 from the forest for that high-souled gam’s maintenance, and is
@@ -33644,9 +29559,6 @@ t Ahsha’pratima; a difficult word. § Agai
 
 
 HYMN TO AGKI.
-
-
-541
 
 
 not grieve so mncli for myself as for the sin committed against
@@ -33679,15 +29591,12 @@ him who has S'ukra's form I Thou hestowest permanence
 29 on all the worlds. Tbon art the mouth of all the gods ! The
 oblation that is taken by thee, 0 adorable one,t cheers all the
 
-30 gods ! All the gods have their life-breath in thee ! The obla-
-tion sacrificed in thee turns into a fiery J cloud ; and after-
-wards the modification which it undergoes in the form of
+30 gods ! All the gods have their life-breath in thee ! The oblation sacrificed in thee turns into a fiery J cloud ; and afterwards the modification which it undergoes in the form of
 
 31 water, by that comes the growth of all herbs, 0 wind-chario-
 
 32 teered god. Upon all the herbs animals live in happiness. Men
-perform sacrifices among the herbs also which thou hast crea-
-ted. With sacrifices also gods and Uaityas and Rakshasas like-.
+perform sacrifices among the herbs also which thou hast created. With sacrifices also gods and Uaityas and Rakshasas like-.
 
 33 wise are fattened, O Purifier ; those sacrifices have thee for their
 support, 0 Fire- Hence thou art the origin of everything; and
@@ -33716,8 +29625,7 @@ CANTO XOI'X.
 np by tbee, 0 Fire. From thee indeed they take their birth,
 and in thee likewise they meet their dissolution at the end.
 
-36 Thou, 0 god, Greatest the waters, thou again indeed con-
-sumest tliem, and by thee they are rendered wholesome to he
+36 Thou, 0 god, Greatest the waters, thou again indeed consumest tliem, and by thee they are rendered wholesome to he
 
 37 the source of nourishment for breathing beings. Thou abidest
 among the gods under the form of glowing light* among
@@ -33739,8 +29647,7 @@ movest about safe-guarding them. Wise men style thee one ;
 eight ways, they fashioned the original sacrifice j|. Supreme
 
 42 yishis say this universe was created by thee. Without thee
-verily the whole world would perish at once, 0 Fire. A twice-
-born man proceeds on the course which is ordained by his own
+verily the whole world would perish at once, 0 Fire. A twiceborn man proceeds on the course which is ordained by his own
 
 43 actions, when he has paid worship to thee with oblations to
 the gods, oblations to deceased ancestors and other offerings
@@ -33764,14 +29671,10 @@ conveys the sacrifice to the gods*^
 II 'Parindmdtim-viryd, The Bombay edition reads a plural neater
 
 instead of a singular feminine noun ; but it means the same. If punuama,
-“alteration,” “ modification,” means “ adaptation ” this passage is a remark-
-able anticipation of modern scientific generalization,
+“alteration,” “ modification,” means “ adaptation ” this passage is a remarkable anticipation of modern scientific generalization,
 
 
 HYMN TO AGNI.
-
-
-543
 
 
 44 art boBOured by the Immortals. Flames issuing from thee^
@@ -33831,9 +29734,6 @@ Instead of hhaydt, “ from fear/* the Bombay edition reads tayd, “by it/*
 ft “ Formidable.**
 
 
-544
-
-
 CANTO XCIX.
 
 
@@ -33847,8 +29747,7 @@ for created beings, by it preserve us from sins and from the
 Sa-dhumra-varnaiil causes sickness among breathing beings,
 by it preserve us from sins and from the great terror
 
-57 of this world 1 And thy tongue which is called Sphulin-
-gmi,§ because it is altogether shapely, by it preserve, us
+57 of this world 1 And thy tongue which is called Sphulingmi,§ because it is altogether shapely, by it preserve, us
 
 58 from sins and from the great terror of this world ! And
 thy tongue which is called Yisvasa-dajl bestows blessings
@@ -33862,13 +29761,11 @@ seven-fiamed Fire, 0 Kp^anu, 0 bearer of the oblations to
 the gods I Thou art proclaimed by the eight names of Agni,
 
 61 Pavaka, S'ukra and the rest. 0 Agni, 0 thou who didst
-spring up before all created beings, 0 Vibhi-vasu, be gra-
-cious, 0 thou who art called the Carrier of the oblations to the
+spring up before all created beings, 0 Vibhi-vasu, be gracious, 0 thou who art called the Carrier of the oblations to the
 gods, 0 changeless one whom I extol 1
 
 62 Thou art Fire imperishable, thou hast inconceivable beauty,
-thou prosperest greatly, thou art hard to be endured,*^ ex-
-ceedingly ardent : or thy surpassing valour, which is changeless
+thou prosperest greatly, thou art hard to be endured,*^ exceedingly ardent : or thy surpassing valour, which is changeless
 and terrible, vanquishes him who injures all the worlds.ft
 
 * Swift as thougiht.”
@@ -33897,9 +29794,6 @@ Sam'&rtaho hanty athavdtiomryam.
 
 
 HYMN TO AGNI.
-
-
-545
 
 
 63 Thon art tlie sublime principle of being,’*' that dwells in tbe
@@ -33953,10 +29847,7 @@ BhaViin vtbhuh yumti paydmsi pdvaha,
 
 “Thou as lord drinkest the waters, O Fire ! ”
 
-II Thyasei but the roading in the Bombay edition ijymef “ thou art sacri-
-heed unto,” is better.
-
-69
+II Thyasei but the roading in the Bombay edition ijymef “ thou art sacriheed unto,” is better.
 
 
 m
@@ -33967,10 +29858,8 @@ CANTO C.
 
 sun and moon and all the gods and Asuras gratifying thee
 
-68 with oblations obtain /rom thee much-prized rewards. Every-
-thing, though corrupted with grave malady to the utmost
-degree^ becomes pure when touched by thy flames. Of ablu-
-tions the most excellent by far is that which is performed with
+68 with oblations obtain /rom thee much-prized rewards. Everything, though corrupted with grave malady to the utmost
+degree^ becomes pure when touched by thy flames. Of ablutions the most excellent by far is that which is performed with
 ashes ; therefore munis wait upon thee pre-eminently at even-
 
 69 ing.* Be gra cions, 0 Fire, who art named the Pure I Be
@@ -34071,9 +29960,6 @@ aonn, bnt the dictionary gives dhishnya, mme. only, this meaning,
 t For pasyatdm read yai c*a tvdm with the Bombay edition.
 
 
-548
-
-
 CANTO C.
 
 
@@ -34106,12 +29992,10 @@ to me, when heard hy mortals at full-moon, at new-moon and
 
 Markandeya spoke :
 
-19 Having spoken thus, adorable Agni became invisible forth-
-with, while he indeed looked on, O mum, the flame
+19 Having spoken thus, adorable Agni became invisible forthwith, while he indeed looked on, O mum, the flame
 
 20 upon a lamp expires. And when Agni had departed, S'anti,
-with mind fully satisfied and with the hair of his body stand-
-ing erect with gladness, entered the guru’s hermitage.
+with mind fully satisfied and with the hair of his body standing erect with gladness, entered the guru’s hermitage.
 
 21 There he saw the fire blazing brightly on the guru’s sacrificial
 altar as before ; thei*eat be felt an intense joy,
@@ -34133,9 +30017,6 @@ exceeding loving-kindness to thee and to otlmr creatures also^
 
 
 THE MANE BHAHTTA’S MANT-ANTABA.
-
-
-549
 
 
 all that, namely^ the extinction of the fire and the other
@@ -34166,8 +30047,7 @@ these seven shall be the yishis then according to tradition.
 
 32 Guru, Gabhira, and Bradhna, Bharata and Anugraha, and
 
-33 Strimanin * and Pratira, Vishnu and Sahktandana,t Tejas-
-vin and Subala — these shall he the Manu Bhautya’s sons. I
+33 Strimanin * and Pratira, Vishnu and Sahktandana,t Tejasvin and Subala — these shall he the Manu Bhautya’s sons. I
 have declared this fourteenth manv-antara to thee.
 
 34 After hearing of the manv-antaras thus in order, O best of
@@ -34191,9 +30071,6 @@ intellect when Dharma-Savarj^ika is heard of, victory when
 * B'rimAain in tke Bombay edition is better,
 f Sah-krandana in tbe Bombay edition,
 t Of future births ?
-
-
-550
 
 
 CAHTO Cl.
@@ -34222,8 +30099,7 @@ performed a splendid deed, he attains a splendid course as long
 
 45 as the fourteen Indras continue.^ May all the seasons be
 salubrious ; may all the planets he benign ! Assuredly they
-are so, when he has listened to the ordinance of the manv-
-autaras in their order.
+are so, when he has listened to the ordinance of the manvautaras in their order.
 
 
 Canto CI.
@@ -34246,15 +30122,10 @@ the manv-antaras, and I have ascertained it from thee
 
 t For datur.^daidfy read datur~dasa with the Bombay edition.
 
-X The discourse goes back to Canto ixxx, and Kranshtuki, who has disap-
-peared during the Devi-mahatnoya and the concluding account of the Manv-
-antaras, re-appeara here with the genealogical portion of the Parana.
+X The discourse goes back to Canto ixxx, and Kranshtuki, who has disappeared during the Devi-mahatnoya and the concluding account of the Manvantaras, re-appeara here with the genealogical portion of the Parana.
 
 
 THE BEGINHING Of THE CREATION BY BRAHMA.
-
-
-551
 
 
 2 gradually and at length. As I wish to hear of the complete
@@ -34346,8 +30217,7 @@ Markandeya spoke :
 18 Clear sublime Knowledge, Light, Luminosity eiemal and
 free, Perfect Isolation,’’^ Understanding, Visible Manifesta-
 
-19 tion,t Freedom of will, and Comprehension, J and Intelli-
-gence, and Perception, Memory and Discernment — these are
+19 tion,t Freedom of will, and Comprehension, J and Intelligence, and Perception, Memory and Discernment — these are
 
 20 the forms of that luminons Form here. Hearken also,
 illustrious sir, while I tell thee at length what thou hast
@@ -34377,8 +30247,7 @@ themselves and also the worlds that go by the same names, th© Bhar-loka
 
 THE CEEATlOlSr OF THE WOELHS IKD TEDAS.
 
-24 diately thereafter the Svar.**^ These three mystic words-
-therefore express the essential property of the Sun, Now
+24 diately thereafter the Svar.**^ These three mystic wordstherefore express the essential property of the Sun, Now
 from this essential property indicated hy ‘^Om” comes the
 
 25 subtle sublime form of the Sun, Next there issued the gross
@@ -34390,8 +30259,7 @@ as they assuredly come into existence in innate disposition
 and in feeling.t
 
 27 The word ‘‘ Om ” which I have uttered, 0 brahman, which
-has a beginning and an end, which is sublime, subtle, form-
-less, most sublime, permanent — that is the Supreme Spirit,,
+has a beginning and an end, which is sublime, subtle, formless, most sublime, permanent — that is the Supreme Spirit,,
 yea his body.
 
 
@@ -34424,15 +30292,8 @@ goic'c^yanty a*samiayam instead.
 J Javi; Hihiscus rosa Sinensis. The flowers are very large and of a
 brilliant crimson-scarlet colour, very conspicuous.
 
-§ K’ot in the order in which they are now arranged. For tejo-rupdnt'a-
-mmhatdl^ the Bombay edition reads tejo~rdpd hy a-samhafoS-, which I haw
+§ K’ot in the order in which they are now arranged. For tejo-rupdnt'ammhatdl^ the Bombay edition reads tejo~rdpd hy a-samhafoS-, which I haw
 adopted.
-
-
-70
-
-
-554
 
 
 CAHTO cn.
@@ -34498,9 +30359,6 @@ verse 5 where these rites are said to be part of that Veda. This passage then
 THE MERITS AND OLORT OF THE VEDAS.
 
 
-556
-
-
 12 This univei’se "became most stainless then through the sudden
 destruction of darkness, and was to he developed horizontally,
 
@@ -34525,8 +30383,7 @@ growth in the Yajus hymns at mid-day, and magical rites
 
 18 lastly in the Saman at evening. Magical rites moreover
 should he performed at mid-day and in the afternoon equally,
-but the particular ceremonies for the Pitris should be per-
-formed with the Sdman in the afternoon*-
+but the particular ceremonies for the Pitris should be performed with the Sdman in the afternoon*-
 
 19 In the creation of the world is manifested Brahma, who is
 composed of the Rid hymns ; in its permanencef Yishnu
@@ -34557,9 +30414,6 @@ because it is sacred to the Pitiris (IT. 124).
 § Faralp purushah,
 
 II For smrga- read sarga<^ as in the Bombay edition.
-
-
-556
 
 
 •CAKTO Gin.
@@ -34621,9 +30475,6 @@ Whereon religious devotees meditate ;
 HYMN TO THE StTN.
 
 
-557
-
-
 6 Who arfc composed of tlie Rid hymns, who art the reposi-
 
 tory of the Yajiis hymns,
@@ -34678,11 +30529,7 @@ qualities.*’
 who art to be known as the sublimest one.”
 
 f The Bombay edition reads instead, ddyam param jyotir a*vedya<^rmpam,
-‘Hhe supreme Light that was in the beginning, whose form passes know-
-ledge/*
-
-
-558
+‘Hhe supreme Light that was in the beginning, whose form passes knowledge/*
 
 
 CAKTO CIV.
@@ -34747,9 +30594,6 @@ I have adopted as preferable.
 
 
 CREATION OF THE GODS, MANKIND, ANIMALS,
-
-
-559
 
 
 Kasyapa-^Kasyapa married Dahsha^s thirteen daughters^ and
@@ -34837,8 +30681,7 @@ cast out and robbed of the three worlds by the Daityas and
 sacrifices, was exceedingly afflicted with grief, and made the
 
 17 utmost efforts to propitiate the Sun. Concentrating her
-mind thereon, restricting her food, observing the utmost seif-
-repression, she hymned the Sun, the hall of light that dwells
+mind thereon, restricting her food, observing the utmost seifrepression, she hymned the Sun, the hall of light that dwells
 in the slsy.
 
 Aditi spoke :
@@ -34854,8 +30697,7 @@ of the worlds, 0 lord of the heavenly cattle, to that I bow
 hearest the nectar that composes the moon to take it hack
 during the space §ight months, to that I bow reverently !
 
-21 The well-fattenedf form which thou hast, who verily dis-
-chargest all that same nectar to produce rain, to that thy
+21 The well-fattenedf form which thou hast, who verily dischargest all that same nectar to produce rain, to that thy
 
 22 cloud-/om he reverence, 0 Sun! And that light-giving
 form of thine, which tends to mature the whole kingdom
@@ -34866,9 +30708,6 @@ t 5 a word not in the dictionary.
 
 
 HYMN TO THE SUN.
-
-
-561
 
 
 23 water, to that* I bow reverently ! And that form of tbine
@@ -34904,8 +30743,7 @@ be to that, the soul of which is Truth I
 Marhandeya spoke :
 
 30 In this manner the goddess, self-res trained, abstaining
-from food, offered praise day and night, desirous of propitiat-
-ing the Sun, 0 muni.
+from food, offered praise day and night, desirous of propitiating the Sun, 0 muni.
 
 31 A long time thereafter the adorable Sun rendered himself
 visible to her, Daksha’s daughter, in the sky, O best of
@@ -34923,11 +30761,6 @@ t The Bombay edition reads djpydya-ddha-rtl^pdbhydm, two forms of
 fatness and conflagration.’*
 
 J Qw^dtmane in tlx© Bombay edition is bettor than ga^dtmam»
-
-71
-
-
-562
 
 
 CAHTO CIT.
@@ -34959,8 +30792,7 @@ Thou art Indra,
 The lord of wealth Kuvera, the lord of the pitris Tama,
 the lord of the watersf Varuna, the. wind Vayu !
 
-Thou art the Moon, Agni, the lord of the sky, the sup-
-porter of the earth, J the Ocean !
+Thou art the Moon, Agni, the lord of the sky, the supporter of the earth, J the Ocean !
 
 What praise must be given to thee who art the splendour of
 all souls and forms ?
@@ -35013,8 +30845,7 @@ restof&d the gods to their sovereign positions* * * §
 
 Markan^eya spoke:
 
-1 Thereupon from ont of that his own glory the Sun re-
-vealed J himself ; the lord, the Sun, appeared then, like unto
+1 Thereupon from ont of that his own glory the Sun revealed J himself ; the lord, the Sun, appeared then, like unto
 
 2 glowing copper. And the luminous one spoke, O muni, unto
 the goddess, who fell prostrate when she beheld him —
@@ -35109,9 +30940,6 @@ presumably be Bu-shmnna or Saushiimna.
 maettanda desteoys the asuras.
 
 
-565
-
-
 Markandeya spoke :
 
 15 Ha¥ii)g spoken so ske, wko is tke patk of the gods,"^
@@ -35128,8 +30956,7 @@ a lustre like unto the petal of a lotus-flower, pervading the
 as a thunder-cloud’s, addressingf Ka^yapa, best of munis,
 from the air, spoke, issuing from no corporeal being —
 
-19 “ Whereas thou, 0 muni, hast spoken of this egg as des-
-troyedj to thee, therefore, O muni, this thy son shall be
+19 “ Whereas thou, 0 muni, hast spoken of this egg as destroyedj to thee, therefore, O muni, this thy son shall be
 
 20 called Marttanda. And he as ’ lord shall exercise the Sun’s
 sway on the earth ; and he shall slay the Asuras, the foes
@@ -35167,9 +30994,6 @@ mrdvamh seems incorrect.
 t For dbhmya read dhMBhpa f Mdritam ai}4am*
 
 
-566
-
-
 CANTO CYL
 
 
@@ -35203,8 +31027,7 @@ cattle, begot three children of her, two most illustrious sons
 4 and a daughter Yamuna, 0 muni. Manu Yaivasvata was the
 eldest, the god who presides over ^raddhas, the Praja-pati j
 
-5 then were born Yama and Yarn! as twins. With the exceed-
-ing splendour that Marttanda Yivasvat possessed, he scorched
+5 then were born Yama and Yarn! as twins. With the exceeding splendour that Marttanda Yivasvat possessed, he scorched
 the three worlds and the moveable and immoveable things
 
 6 therein very grievously. But Sanjna saw Yivasvat’s globe-like
@@ -35221,9 +31044,6 @@ t Bee Canto kxYui, verse 27, and Canto Ixxix.
 
 
 SAfjSA LEAVES HBE HESBAKB THE SUN.
-
-
-567
 
 
 8 fair one ; and thou mnsfc show honour to these two boys for
@@ -35251,8 +31071,7 @@ When Sahjha had gone to her father, C'haya, assiduous to
 13 Sanjnd*$ command, and assuming her form, waited on the
 Sun ; and the adorable Sun begat of her, he thinking it was
 
-14 of Sahjha, two sons in addition and a daughter. The first-
-born of the two sons was equal to the eldest son Manu^
+14 of Sahjha, two sons in addition and a daughter. The firstborn of the two sons was equal to the eldest son Manu^
 
 35 hence he was called Savarni, 0 best of dvijas. And the
 other, who was the second son, became the planet Saturn.
@@ -35344,13 +31163,6 @@ t See Canto Ixxviii, verse 28.
 THE SUN BISCOTEBS HfS WIFE’S DECEPTION.
 
 
-569
-
-
-31
-
-82
-
 Markandeja spoke :
 
 33 And slae avoiding that question gave no answer to the Sim?.
@@ -35382,8 +31194,7 @@ Markarideya spoke :
 
 39 Inasmuch as the Sun's form was formerly spherical, so the
 
-40 adorable Sun said to Tvashtp, “Be it sol" And Visva-
-karman, being permitted by the Sun in S^aka-dvipa, mounted
+40 adorable Sun said to Tvashtp, “Be it sol" And Visvakarman, being permitted by the Sun in S^aka-dvipa, mounted
 the Sun on his wheel and set to work to pare down his glory.
 
 41 While the Sun, which was the centre of all the worlds, was
@@ -35393,8 +31204,6 @@ whirling round, the earth with its oceans, mountains and
 ^ the moon, planets and stars went downward, md were tossed
 
 * For muUm read yuhtm as in the Bombay edition,
-
-72
 
 
 Now the Sun said to C'hSya, — “Why among thy sons,
@@ -35425,8 +31234,7 @@ the worlds were whirling round, 0 brahman, the divine
 yishis and the gods with Brahma sang praises to the Sun : —
 
 48 “ Thon art the most ancient god among the gods ; this is
-known from thy nature. At the periods of creation, conti-
-nuance and dissolution thou existest with a triple division.
+known from thy nature. At the periods of creation, continuance and dissolution thou existest with a triple division.
 
 49 Hail to thee, 0 lord of the world, thou producer of warmth,
 rain and snow ! Have pleasure in the peace of the worlds,
@@ -35462,9 +31270,6 @@ acts and sacrificial rites.
 
 
 ALL HEAVENLY BEINHS WORSHIP THE SUN.
-
-
-571
 
 
 people, 0 lord of tlie gods ! Maj there he a blessing for ns,
@@ -35547,8 +31352,7 @@ s^lendour^
 
 Markandeya spoke :
 
-1 While the Sun was being pared down, the Fraja-pati Vi^va-
-karman then uttered this hymn, wherewith his hair stood
+1 While the Sun was being pared down, the Fraja-pati Vi^vakarman then uttered this hymn, wherewith his hair stood
 erect with joy,t to the Sun,
 
 2 “ To the Sun, who is compassionate for the welfare of those
@@ -35599,9 +31403,7 @@ reason of thy intoxication from drinking up like spirituous
 liquor the darkness of the world, thy body has acquired a
 deep red kue,^ 0 Sun, so that thou shinest exceedingly with
 
-8 masses of light that calls the three worlds into life. Mount-
-ing thy equally proportioned chariot that sways about grace-
-fully and is widely pleasing||, with horses that are ever
+8 masses of light that calls the three worlds into life. Mounting thy equally proportioned chariot that sways about gracefully and is widely pleasing||, with horses that are ever
 unwearied^, 0 adorable god^ thou coursest the broad world
 for our good.*’* O Sun, thou purifier of the three worlds,
 protect me, who am devoted to thy parrot-hued steeds, and
@@ -35635,9 +31437,6 @@ violates the metre, the Bumukhi. The metre is satisfied by altering the
 •words, c^atasi hitdya gagad vitatam>
 
 tt Instead of -pavUm4alain I take the Bombay reading -pavitra tamaml
-
-
-574
 
 
 CANTO CVIII.
@@ -35687,8 +31486,7 @@ h'kdvana'-dhdnia-hetum ekam.
 
 t The Oalcntta reading Bevam ^pranato "smi Viha^harmd'g,am violates the
 metre, and is incorrect because it is ViSva-karman who is speaking. I have
-followed the Bombay reading Tridada-vara pranato ^smi sarvadd tvdm. In-
-stead of these last two words Yiiva-karmd might well he read.
+followed the Bombay reading Tridada-vara pranato ^smi sarvadd tvdm. Instead of these last two words Yiiva-karmd might well he read.
 
 
 THE sen’s OEESPBING.
@@ -35713,8 +31511,7 @@ when they both met there, and his glory passed from the
 there, the two Alvins, who are the two best physicians^
 namely Nasatya and Basra, the sons who issued forth from
 
-11 the mare’sf mouth ; these two are indeed the sons of Mart-
-tanda while he bore a horse’s form. And at the fcermination
+11 the mare’sf mouth ; these two are indeed the sons of Marttanda while he bore a horse’s form. And at the fcermination
 of the flow of his semen was born Revanta, holding a sword
 
 12 and bow, clad in armour, riding on horseback, and carrying
@@ -35775,14 +31572,12 @@ forests and other lonely places, of great conflagrations, of
 enemies and robbers, shall be delivered out of great- calamity,
 
 23 Comfort, intelligence, happiness, kingship, perfect health,
-fame, exalted position— when worshipped and well-
-satisfied, thou shalt bestow on men/’
+fame, exalted position— when worshipped and wellsatisfied, thou shalt bestow on men/’
 
 24 And O’haya-Sanjna’s son Savarna was of very great fame ;
 he will he the eighth Mann, hy na^ne Savarnaka, in a future
 
-25 time. At present, indeed, this lord performs terrible austeri-
-ties on Meru’s summit. His bi'othcr became the planet Saturn
+25 time. At present, indeed, this lord performs terrible austerities on Meru’s summit. His bi'othcr became the planet Saturn
 
 26 accoi’ding to the Sun’e command.* Nbwthe Sun’s daughter,
 who was younger than they, 0 brjihtnan, heeamo that
@@ -35812,9 +31607,6 @@ Ixxviii, verse 84, and Canto evi, verse 16.
 Kim B/mVAEDHANA’S REIGN.
 
 
-577
-
-
 Canto OIX.
 
 Praise of the Sun.
@@ -35839,11 +31631,9 @@ therefore with favour to tell me of it.
 M^rkandeya spoke :
 
 3 Be it beard then ! I tell thee of tbe majesty of tbe primeval
-god, Yivasvat, what' be did formerly when worshipped by-
-mankind.
+god, Yivasvat, what' be did formerly when worshipped bymankind.
 
-4 There was a famous king, Duma’s son, named Eajya-var-
-dbana be, lord of tbe earth, kept the earth well protected.
+4 There was a famous king, Duma’s son, named Eajya-vardbana be, lord of tbe earth, kept the earth well protected.
 
 5 Now tbe realm, being protected by that higb-souled monarch
 in righteousness, increased day by day in people and wealth, 0
@@ -35855,18 +31645,12 @@ was king ; and so also were his people, both town and country
 7 folk. No portent visited them, nor sickness, nor the fear that
 comes from serpents, nor was thei^e fear of dirnght there,
 
-8 while Dama’s son was king. And h^ offered up great sacri-
-fices, and gave gifts to those who asked ; he enjoyed even the
+8 while Dama’s son was king. And h^ offered up great sacrifices, and gave gifts to those who asked ; he enjoyed even the
 
 * He is mentioned in the Vishnu Pur. IV. i. Datna was son of Narishyanta
 and grandson of the great Marutta. The story of these three kings is told
 in cantos cxsix to cxxxvi below, and the Pnraiiia ends abruptly with Dama.
 EAjya-vardhana is called Bashtra-vardhana in the Vayu Parana^
-
-73
-
-
-578
 
 
 CANTO CIX.
@@ -35905,8 +31689,7 @@ kings and citizens, and the kings who were assembled there —
 pretty one 1 Birth, growth, decline of life and other changes
 
 19 befall all living beings, I have, studied all the Vedas ; I have
-offered sacrifices by thousands ; I have given alms to brah-
-mans ; and I have begotten sons, 0 lady of finest countenance ;
+offered sacrifices by thousands ; I have given alms to brahmans ; and I have begotten sons, 0 lady of finest countenance ;
 
 20 I have enjoyed along with thee pleasures which are very
 hardly attainable by mortals ; and I baye protected the earth
@@ -35972,8 +31755,7 @@ The king spoke :
 34 “ Seven thousand years I have protected this earth ; now
 
 35 this my time has come to dwell in the forest. I have begotten
-children. Now that I have seen my children and their de-
-scendants, Death truly will not allow me a very few days.
+children. Now that I have seen my children and their descendants, Death truly will not allow me a very few days.
 
 36 lI.ndM?statid, 0 citizens, that this grey hair on my head has
 beccone a messenger from ignoble Death, who is very sharp
@@ -35986,16 +31768,12 @@ foitefft, perform austerities until Yama’s troops arrive /or wed’
 * For ndrhmti read ndrhati f
 
 
-580
-
-
 CANTO CIX.
 
 
 Markandeya spoke :
 
-38 Being desieons of departing to the forest the king then en-
-qnii’ed of the astrologers about the hesi days and monieiiis for
+38 Being desieons of departing to the forest the king then enqnii’ed of the astrologers about the hesi days and monieiiis for
 
 39 anointing his son in the kingdom. And on hearing the king’s
 speech they became confused in mind ; they who were skilled
@@ -36025,15 +31803,13 @@ Markandeya spoke :
 45 Thus both they and other dvijas heading the citizens, and
 kings, dependants and ministers appealed to Jiim^ and appealed
 
-46 again and again ; hut when he does not withdraw his deter-
-mination to take up his abode in the forest, and returns them
+46 again and again ; hut when he does not withdraw his determination to take up his abode in the forest, and returns them
 
 47 the answer, “ Death will not suffer it,” both his ministers and
 dependants, and the citizens, and the aged men and the dvijas,
 assembled together and took counsel, “What must be done
 
-48 here ? ” While they took counsel, 0 hraiimaii, this reso-
-lution developed there among those who were devotedly attached
+48 here ? ” While they took counsel, 0 hraiimaii, this resolution developed there among those who were devotedly attached
 
 49 to that most righteous king — ‘ Giving ourselves over absolutely
 to deep meditation, we will wdth composed minds propitiate
@@ -36056,8 +31832,7 @@ Wm tlie orglia offering and presents and other obhstioiis in due
 51 course; others gratified the Sun hy maintaining Biltnsce, and
 
 52 others by repeating the Rid, Yajus and Saman IiyinnB; and .
-other dvijas abstaining from food and lying clown on river sand-
-banks, wearied with austerities, made propitiation of th^j; Sun ;
+other dvijas abstaining from food and lying clown on river sandbanks, wearied with austerities, made propitiation of th^j; Sun ;
 
 53 and others, applying themselves to the oblation to Eire, day
 and night repeated hymns composed to the Sun ; others cast-
@@ -36076,8 +31851,7 @@ ye desire, 0 dvijas, to propitiate the Sun, let this then be done,
 is a forest named Guru-vi^ala, frequented by the Siddhas, in
 very mountainous K4ma-rupa — go there verily in haste.
 
-58 There perform your propitiation of the Sun with minds com-
-pletely composed ; the Siddhas* friendly region is tliere ; there
+58 There perform your propitiation of the Sun with minds completely composed ; the Siddhas* friendly region is tliere ; there
 ye shall obtain all your desires.’*
 
 Marka^deya spoke :
@@ -36096,16 +31870,12 @@ mgs^ those dvijas gratified the Sun, 0 brahman.
 
 The bx'ahmans spoke :
 
-62 Let us approach the Sun as our refuge, the god who in splen-
-dour surpasses gods, Danavas and Yakshas, the planets, and
+62 Let us approach the Sun as our refuge, the god who in splendour surpasses gods, Danavas and Yakshas, the planets, and
 
 63 the heavenij bodies ; the lord of gods, who d^velling also
 in the sky makes everything around brilliant, auxi penetrates
 
 64 the earth and the atmosphere with Hs rays j even him mho hm
-
-
-582
 
 
 CANTO CIX.
@@ -36119,8 +31889,7 @@ ages, difficalt to be gazed at, w^ho persists to the end of the
 final dissolution ; the lord of yogins, and the never-ending om ,*
 
 66 who is red, yellow, white and black ; him who dwells in the
-oblation made to Fire by rishis, and among the gods of sacri-
-fice ; imperishable, sublime, secret, who is the supreme gate to
+oblation made to Fire by rishis, and among the gods of sacrifice ; imperishable, sublime, secret, who is the supreme gate to
 
 67 final emancipation from existence ; and who traverses the sky
 with hymns in the form of horses which are yoked together at
@@ -36134,9 +31903,7 @@ of pilgrimage, who is the permanence of the universe, and is he-
 who is Praja-pati ; who is the wind,t th^ atmosphere and Water,
 
 70 the earth and its mountaijas and oceans ; who is the planets, the
-constellations, the moon and other heavenly bodies, trees bear-
-ing blossoln and fruit, bther trees and herbs ; who sets in mo-
-tion righteousness and untighteousness, ’ among created
+constellations, the moon and other heavenly bodies, trees bearing blossoln and fruit, bther trees and herbs ; who sets in motion righteousness and untighteousness, ’ among created
 beings, those which are manifest and those which are
 
 71 not manifest. Brahmd*s body, and S'iva’s, and Vish^u^s
@@ -36165,9 +31932,6 @@ uTmhmcm whose first fbrm is imoerishabl©.^’
 THE SUN GRANTS THIS KING LONG LIFE.
 
 
-583
-
-
 Markan^eya spoke :
 
 75 While they are thus entirely worshipping him with praise
@@ -36181,8 +31945,7 @@ brahman folk bowing in faith then prostrated themselTes
 before the Sun, who' is without beginning, as he manifested
 himself in bodily shape, while they quivered with thrills of
 
-78 awe ; exclaiming “ Reverence, reverence he to thee, the thousand-
-rayed one ! Thou art the cause of everything — biilliant every
+78 awe ; exclaiming “ Reverence, reverence he to thee, the thousandrayed one ! Thou art the cause of everything — biilliant every
 whit. Thou art to be invoked against haimful assault, being
 the site of all sacrifices ; and to be meditated upon by those
 skilled in religious devotion. Be thou gracious ! ”
@@ -36219,9 +31982,6 @@ world who protered them a boon — “ O adorable Dispeiler of
 4 darkness, if ihon art pleased with our faith, then let our king
 
 
-584
-
-
 OAHTO CX.
 
 
@@ -36242,15 +32002,13 @@ happened.
 7 On hearing tliat, his queen Manini rejoiced, O braliman ; and
 the king pondered a long while and said ■nothing to the people.
 
-8 Thereupon she Manini, 'whose mind was iilled wltl) Joy, ex-
-claimed to the king her husband— “ How fortunate ! Prosper,
+8 Thereupon she Manini, 'whose mind was iilled wltl) Joy, exclaimed to the king her husband— “ How fortunate ! Prosper,
 
 9 0 king, with long life! Thus did Manini courteonslj salute
 her husband in her delight, hid the king said notlriiig, his mind
 
 10 being numbed with thought, 0 brahman. Site addrefwcd her
-husband again, as be was rapt in though wilh counten-
-ance bent downwards, — “ Why dost thou not give way to joy in
+husband again, as be was rapt in though wilh countenance bent downwards, — “ Why dost thou not give way to joy in
 
 11 this supreme mmmnt of exaltation, O king P Tlioii shait live
 free from sickness, with firmly-enduriug youth, ten thousand
@@ -36291,9 +32049,7 @@ dead, tliere will then be boundless affliction for me continual“
 attached to ^ righteousness, have performed austerities for my
 sake, they shall die, and I who enjoy the benefit shall live—this
 
-18 is censurable ! f Thi?, such as it is, is a calamity that has be-
-fallen me, 0 lady of beautiful hips ; it is not a moment of exalt-
-ation. How again is it thou dost not think in that thou dost
+18 is censurable ! f Thi?, such as it is, is a calamity that has befallen me, 0 lady of beautiful hips ; it is not a moment of exaltation. How again is it thou dost not think in that thou dost
 courteously salute me now ?
 
 Manini spoke :
@@ -36302,8 +32058,7 @@ Manini spoke :
 is no doubt. I and the citizens in our affection for thee did
 
 20 not perceive this mistake. Since it has gone so, consider what
-should be done in this matter, O lord of men. Vhat the ador-
-able Sun has said in his graciousness shall not he otherwise.
+should be done in this matter, O lord of men. Vhat the adorable Sun has said in his graciousness shall not he otherwise.
 
 The king spoke :
 
@@ -36324,8 +32079,7 @@ my people, my servants, and thou and my children, sons,
 0 lovely-faced one — then I shall continue in the kingdom and
 
 26 shall taste enjoyments with delight. If the Sun does not do
-this, then, 0 Manini, I will practise austerities on the moun-
-tain there, abstaining from food until my life perish.
+this, then, 0 Manini, I will practise austerities on the mountain there, abstaining from food until my life perish.
 
 Markandeya spoke :
 
@@ -36339,11 +32093,6 @@ it so ! ” And she also went with him to that mountain. The
 t Dhih-^cara, not in the dictionary.
 
 X The Bombay edition inserts two lines here doubtfully,
-
-74
-
-
-586
 
 
 CANTO CX.
@@ -36375,8 +32124,7 @@ years ; lie remained continuously youthful.
 35 A Bhargava named Pramati, after seeing that his exploit, sang
 this song while his heart was drawn out with astonishment, —
 
-36 “ Lo, the power of faith in the Sun, in that king Eajya-var-
-dhana has been born for the increase of life of his own people
+36 “ Lo, the power of faith in the Sun, in that king Eajya-vardhana has been born for the increase of life of his own people
 as well as of himself!
 
 37 Thus I have related to thee, O brahman, what thou didst
@@ -36410,9 +32158,6 @@ I! The Bombay edition inserts here, though doubtfully—^ And he trulv
 THE SUN S MAJESTY.
 
 
-587
-
-
 miserable are they wbo are smitten bereiii by the Sun, O best
 of mums.* Tiie repetition of eacli of these verses during three
 
@@ -36435,8 +32180,7 @@ The guide to the genealogies.
 
 Manu 'had seven sons, whose names are mentioned — and also a child,
 tcho ivas hcnm as a daughter named lid, and aftenmrds became
-a man by name 8u-dyumna — This child as Ed had a son Ftiru-
-ravas, who reigned at Pratishthdna, and as Sti-dyumna had three
+a man by name 8u-dyumna — This child as Ed had a son Ftiruravas, who reigned at Pratishthdna, and as Sti-dyumna had three
 sons.
 
 Markandeya spoke :
@@ -36460,9 +32204,6 @@ t For dvijdgrymn read dvijdgrya.
 J This is tho best meaning that I can get out of the text — Paramdfmd sa
 yoyindm yunjatdm detasam layam, which is the reading in the Calcutta, Bombay
 and Poona editions, though the last in its corrigenda alters it to yogdiidm
-
-
-588
 
 
 CANTO CKL
@@ -36492,13 +32233,11 @@ and Varuna ; in which sacrifice moreover when the offering was
 perversely made through the improper conduct! of the priest,
 
 and then sa yogdndm Tnust be read as one word sa-yogdndm. But the text
-is no doubt corrupt j yogindm should be yogindm, and yimjatwn should per-
-haps be yuiijdndndm, though both Parasmai-pada and Atmane-pada have the
+is no doubt corrupt j yogindm should be yogindm, and yimjatwn should perhaps be yuiijdndndm, though both Parasmai-pada and Atmane-pada have the
 meaning ‘Ho meditate deeply.’* Mahamahopadhyaya Hara Prasad 8a8tri
 suggests also that layah would be better than layam and would translate
 thus, “ He is the Supremo Soul to those who are successful in meditation
-[ie., the Yedantists] ; he is that in which the minds of those who are en-
-gaged in meditation, tut who ure not yet successful , absorbed^’ [i.e., the
+[ie., the Yedantists] ; he is that in which the minds of those who are engaged in meditation, tut who ure not yet successful , absorbed^’ [i.e., the
 Saguna Brahman of the Yedantists].
 
 * Yajneso yajvimm api; bat yajvand7n must be read for yajvitm?nf and
@@ -36509,12 +32248,10 @@ Mimamsists].
 t Only seven sons are mentioned here. The number is generally given as
 ten. There is much diversity regarding the names of all of them except
 Ikshvaku, Narishyanta, and Dbi-ishta. Other names omitted are S'aryatx,
-Kardsha, Yena, and Praihsu. See Wilson’s Yishnu PurAoa, book lY, chap-
-ter i, notes. The second and third names Nabhaga and Eishta are sometimes
+Kardsha, Yena, and Praihsu. See Wilson’s Yishnu PurAoa, book lY, chapter i, notes. The second and third names Nabhaga and Eishta are sometimes
 given as a single name, Habhagadishta in the Yeda and NabhanedisKtha in the
 Aitareya Brahmana ; and the last-named book says— he was given to sacred
-study, his brothers deprived him of his share in the paternal property, and re-
-ferred Mm to their father, and hy his father’s advice he helped the Angirasns
+study, his brothers deprived him of his share in the paternal property, and referred Mm to their father, and hy his father’s advice he helped the Angirasns
 in their sacrificial session and obtained great wealth (Y. ii. 14).
 
 J For ddpahrite read ddpuhute, as in the Poona edition. The verb apadm is
@@ -36523,11 +32260,7 @@ J For ddpahrite read ddpuhute, as in the Poona edition. The verb apadm is
 MAN0’S DESCENDANTS.
 
 
-589
-
-
-8 0 great mimi, a daughter was bom to Manu named Ila, slen-
-der of waist. On seeing that daughter born there, Manu
+8 0 great mimi, a daughter was bom to Manu named Ila, slender of waist. On seeing that daughter born there, Manu
 
 9 offered praise to Mitra and Yaruna then and spoke this word,
 
@@ -36556,8 +32289,7 @@ became a, king.
 
 Su-dyumna during his manhood had three sons, Utkala,j:
 
-16 Yinaya§ and <3raya,j| who tijere most valiant, given to sacrific-
-ing, great in bodily strength. Isow those three sons, who
+16 Yinaya§ and <3raya,j| who tijere most valiant, given to sacrificing, great in bodily strength. Isow those three sons, who
 
 17 were horn to him during his manhood, enjoyed this earth ^
 while governing their minds in righteousness.
@@ -36584,16 +32316,12 @@ was king of the East as the Hari-Y. says (x. 631-3).
 Dahshiiidpatha.
 
 
-590
-
-
 CAKTO exit.
 
 
 Bnt Pui'uravas, wlio was bom of that monarcli Su-dyumna
 18 during bis womanhood, got no share of the earth, because he
-was Bndha's son. Thereupon at Yasishtlia's word Pi*atish-
-thana,^ an excellent city, was given to him ; he became king
+was Bndha's son. Thereupon at Yasishtlia's word Pi*atishthana,^ an excellent city, was given to him ; he became king
 in that exceedingly charming city.
 
 
@@ -36622,8 +32350,7 @@ wdio maintained the sacrificial fire, half the body of which was
 4 hidden among creepers. J Thinking she w'as a gayal, he shot
 her with an arrow, and she fell to the earth, piex’ced to the heart
 
-5 with the arrow. Thereupon the sacrificial priest’s son Tapo-
-rati,§ w^ho w'as a religious student, on seeing his fathers sacri-
+5 with the arrow. Thereupon the sacrificial priest’s son Taporati,§ w^ho w'as a religious student, on seeing his fathers sacri-
 
 6 ficial cow stricken dowm cursed him ; and sent foiwv'ard his son
 
@@ -36635,16 +32362,12 @@ Yamuna ('Hari*V., xxvi- 1371 and 1411-2).
 t This name is generally written Prishailhra^ which is the correct form,
 
 X This is the reading of the Poona edition, latdntar*deha-(Shanndrdhdin ; the
-text of the Calcutta edition is erroneous. The Bombay edition reads less pro-
-perly latdntar^deha-Mnndrdhdm*
+text of the Calcutta edition is erroneous. The Bombay edition reads less properly latdntar^deha-Mnndrdhdm*
 
 § I have not found this name elsewhere.
 
 
 ?i5sHABHRA is CORSF 4 D BY A BBaHMAN,
-
-
-591
 
 
 named Vabliravya^ who tended the cow. Then, 0 muni, his
@@ -36667,8 +32390,7 @@ thus by the king, he cursed the evil-souled hing^ saying : “ Thou
 liast learnt from thy gum’s mouth shall waste away, because
 thou hast hurt this my guru’s sacrificial cow.*’
 
-11 When cursed thus tlie king became angry, yet he was tor-
-mented greatly by that curse. He took water up in his hand,
+11 When cursed thus tlie king became angry, yet he was tormented greatly by that curse. He took water up in his hand,
 
 12 intent on cursing the other in retaliation, 0 brahman. That
 brahman also gave way to wrath in order to destroy the king.
@@ -36700,19 +32422,14 @@ is not iu the dictionary.
 j| For hopendydti-vnirif^d read Momndprativairind as in the Foona edition.
 
 
-592
-
-
 ca™ exii.
 
 
-15 and the angry man fails of his object also. There is no right-
-eousness in the man of angry disposition ; and the passionate
+15 and the angry man fails of his object also. There is no righteousness in the man of angry disposition ; and the passionate
 man obtains not his object ; nor among those whose minds are
 possessed by wrath is the obtaining of their wishes enough for
 
-16 happiness. If the king has killed this cow with his full know-
-ledge, it is right for one, who perceives what is for his own
+16 happiness. If the king has killed this cow with his full knowledge, it is right for one, who perceives what is for his own
 
 17 benefit, to extend pardon here. Or tf he has slain this my
 cow in ignorance, how then is he worthy of a curse, since his
@@ -36730,8 +32447,7 @@ painful death.”
 
 Markandeya spoke :
 
-21 Pushadhra also, prostrating himself with bowed neck be-
-fore the muni’s son, exclaimed aloud, “ Be gracious ! ” and“ She
+21 Pushadhra also, prostrating himself with bowed neck before the muni’s son, exclaimed aloud, “ Be gracious ! ” and“ She
 
 22 was slain by me in ignorance, for I thought she was a gayal ;
 a cow must not be killed ; through ignorance, 0 muni, I slew
@@ -36782,16 +32498,14 @@ a7id warriors. ISTow they were seven hundred valiant men ;
 and from them descended others in thousands.
 
 2 Xow Dishta’sf son was Xabhaga ; X he continued in the
-bloom of yontbfuliiess. He saw a most sinpassingly charm-
-ing vaisya maiden. As soon as he beheld her, the prince was
+bloom of yontbfuliiess. He saw a most sinpassingly charming vaisya maiden. As soon as he beheld her, the prince was
 stricken in mind with love ; he became absoi'bed in sighs and
 
 4 reproaches. He went to her father and asked for the vai%a
 maiden in mannage ; and then to the prince, whose mental
 
 5 feelings were under the dominion of the god of love, spoke
-her father — to the king’s son spoke he, joining his hands i^espect-
-fully, being afraid of the prinre\s father, this speech as lie
+her father — to the king’s son spoke he, joining his hands i^espectfully, being afraid of the prinre\s father, this speech as lie
 
 b bowed with deference, 0 brahman — “ Nobles of thy class are
 the enjoyers of the earth : dependants ai’e we, paying tax to
@@ -36801,15 +32515,12 @@ the enjoyers of the earth : dependants ai’e we, paying tax to
 t Tins Dishta must be the Rishta mentioned in canto exit, verse 4*. The
 name is given variously as Nedishtha, Diahta, and Arishta. The Hari-Vaiiisa
 says two of his sons though vaisyas became brahmans (xi. 658) j and the
-Bhagavata Pur. says two r>f his sons, though kshatriyas obtained brahman-
-hood (IX. ii. 17).
+Bhagavata Pur. says two r>f his sons, though kshatriyas obtained brahmanhood (IX. ii. 17).
 
 i Nabimga and bis descendants are named in Vishnu Fur. IV, i. The
 Parainas agree generally that he was degraded to b© a vaisya. His descend^
 ants and their exploits form the remainder of this Purana. There were
 other kings afterwards of the same name,
-
-75
 
 
 CWTO CXTTT.
@@ -36830,8 +32541,7 @@ other feelings^ So indeed the human body is endowed with
 those feelings also come into existence for its benefit. And
 diferent feelings^ diferent persons exist when folk exist of
 
-9 sepamte castes. Moreover, other feelings alsof that ai‘e in-
-appropiiate become proper according to season, and likewise
+9 sepamte castes. Moreover, other feelings alsof that ai‘e inappropiiate become proper according to season, and likewise
 appropriate feelings become inappropriate ; for propriety de-
 
 10 pends upon season. As the body is fattened by food and other
@@ -36843,8 +32553,7 @@ calamity will be beheld in my body.
 
 The vai^ya spoke :
 
-12 We are under another’s authority, and thou art under an-
-other’s authority, namely the king’s. When he thy falhor
+12 We are under another’s authority, and thou art under another’s authority, namely the king’s. When he thy falhor
 permits thee, take thou he^; I will give her.
 
 The prince spoke :
@@ -36878,9 +32587,6 @@ scope.*’
 MAERIAGE BETWEEN KrfHATRIYAS AND VAISYAs.
 
 
-595
-
-
 14 gurus liave scope. What has Love’s conversation to do with
 listening to gurus ? This is incompatible. In other things
 men should consult their gurus.
@@ -36911,15 +32617,13 @@ this ordinance of righteousness^ verily be observed, but let it
 
 20 he observed in the order enjoined bylaw. Marriage was enjoined
 for princes in the first place with the daughter of one who had
-been royally anointed. Be it so noiv first in thy case ; and im-
-mediately afterwards this maiden also shall become thy wife.
+been royally anointed. Be it so noiv first in thy case ; and immediately afterwards this maiden also shall become thy wife.
 
 * A famous dshi, son of Bhrigu and father by Satya-vati of Jamadagni ;
 see Maha-Bh., S'anti-p. xlix. 1716-21 ; Harh-Y., xxvii, 1423-63, and xxxii.
 1761-76 ; and Yishnu Pur. lY. vii. He married Satya-vati, daughter of Gadhi
 king of Kanya-kubja, by giving a present of a thousand horses for her (Maha-
-Bh., Yana-p. cxv, 10144-153, and Udyoga-p. cxviii. 4006-7). Though Satya-
-vati is connected with the B. Kaufiki (the B. Kosi, see canto Ivii, verse
+Bh., Yana-p. cxv, 10144-153, and Udyoga-p. cxviii. 4006-7). Though Satyavati is connected with the B. Kaufiki (the B. Kosi, see canto Ivii, verse
 18, note in the passages cited above from the Hari Y. and Yishnu Pur.,
 yet Ricika is generally connected with the west coast around the Gulf of
 Cambay (see Maha-Bh., Yana-p. cxviii. 10221-27 and the two other passages
@@ -36930,9 +32634,6 @@ Anusas-p# cxxxvii. 6267 ).
 t For arhanti read arhantu f Let tlie best of dvijas deign, &c.’’
 
 X Le*, marriage.
-
-
-596
 
 
 CANTO CXfIL
@@ -36973,8 +32674,7 @@ out the air and spoke back to the king ; —
 30 Cease from combat. O illustrious sir. tby high-souled son
 is in the right here ; moreover fighting bet’vveen thee and a
 
-31 vaisyaj is not according to lighteousness, 0 king. A bi'ah-
-man >vho marries wives among all the castes, provided that
+31 vaisyaj is not according to lighteousness, 0 king. A bi'ahman >vho marries wives among all the castes, provided that
 he marries first a brahman w'oman, incurs no injury in his
 
 32 brahman-hood. Likewise a kshatriya who marries first a
@@ -36997,9 +32697,6 @@ X Explained in verses 35 and 36 below.
 
 
 NABHAGA MARRIED THK VAISYA MAIDEN.
-
-
-597
 
 
 33 from their own righteousness. Thus a vaisya, who uarries first
@@ -37050,17 +32747,13 @@ t For no tad-vastiMidg read so tud^vurua’-bhay m in the Poona
 edition.
 
 
-598
-
-
 CANTO CXI¥.
 
 
 The king spoke :
 
 3 Let Babliravja* and the other ascetics, who are engaged in
-the superintendence of righteousness, declare what is the occu-
-pation for this man for the end of righteousness — -do thou act
+the superintendence of righteousness, declare what is the occupation for this man for the end of righteousness — -do thou act
 accordingly.
 
 Markandeya spoke :
@@ -37098,8 +32791,7 @@ out thy command ; I am prostrate before thee.”
 
 f Or Shalmtdana according to the Vishi?u Par. IV. i.
 
-J This was apparently Hipa of the Paurava race, who was king of Kto-
-pilya. He had a hundred sons who were all styled Nipas. His dynasty lasted
+J This was apparently Hipa of the Paurava race, who was king of Ktopilya. He had a hundred sons who were all styled Nipas. His dynasty lasted
 till IJgrayudha killed all the Nipas just before the Pindavas* time; see
 Hari-V., xx. 1040, 1060-73,1082-86 ; Matsya Fur. xlix. 62-59.
 
@@ -37115,9 +32807,6 @@ earth, and the verb “ to tend** and to protect.*’
 UHAXANDANA tlATXS THE KINGDOM.
 
 
-599
-
-
 Markandeya spoke :
 
 12 The royal nski Nipa then gave to bigh-soiiied. Bbauaiida'
@@ -37126,8 +32815,7 @@ Markandeya spoke :
 in the weapons be went to bis paternal uncle’s sons, Yasnrata
 and tbe other sons, O dvija ; be was so commanded by that
 
-14 bigb-sonled rtsJii. He demanded half of the kingdom as be-
-fitted bis father and paternal grandfather ; and they said, — A
+14 bigb-sonled rtsJii. He demanded half of the kingdom as befitted bis father and paternal grandfather ; and they said, — A
 
 15 vai^ya’s son tbon art ; how shalt thou enjoy the earth ? ” A
 battle then occurred between Bhananda who was skilled in
@@ -37137,10 +32825,8 @@ weapons and those bis kinsmen Y asurata and the rest, who were
 all when their troops had been shattered with his weapons,
 he, wise in righteousness, took the earth away from them by
 
-17 righteous combat. After vanquishing his foes, he next pre-
-sented all the earth and the sovereignty to his father ; and his
-father did not accept it, and in front of his wife made an-
-swer to the son then.
+17 righteous combat. After vanquishing his foes, he next presented all the earth and the sovereignty to his father ; and his
+father did not accept it, and in front of his wife made answer to the son then.
 
 
 Nabhaga spoke :
@@ -37195,11 +32881,9 @@ made answer to her husband, “ 0 king, take the mighty king-
 25 dom. Thou art no vaisya, nor indeed was I born of a vaisya
 family, 0 king ; thou art a kshatriya and I also was born of a
 
-26 family of kshatriyas. Formerly there was a famous king Su-
-deva t by name, and his friend was king DMmra^va’s son
+26 family of kshatriyas. Formerly there was a famous king Sudeva t by name, and his friend was king DMmra^va’s son
 
-27 Nala.J Accompanied by his friend he went to the wood Amia-
-vana, § he to sport with his wives in the month of spring, 0
+27 Nala.J Accompanied by his friend he went to the wood Amiavana, § he to sport with his wives in the month of spring, 0
 
 28 king. Accompanied by those wives and attended by that fnend
 
@@ -37228,8 +32912,7 @@ found) son of Dhumra^va# One of the kings of VaisaK was Bhilmniwva
 § I have not found any wood of this name in western India where this story
 is laid ; but Amra-vana may mean simply “ a grove of mtiiigoes.”
 
-II Cyavana was a famons pshi, son of Bhyigu. He married Sukanya-
-daughter of Manu's son ^aryati, and by her had a son Pramati. Pramati
+II Cyavana was a famons pshi, son of Bhyigu. He married Sukanyadaughter of Manu's son ^aryati, and by her had a son Pramati. Pramati
 married Ohp^di; see Maha-Bh., Adi-p. v, 870 and 871, and viii. 939, 940;
 and Vana-p» cxsii ; also Hata-patha Br4h, IV. 6; Aitar.*Br5h. VHL iv. 21).
 Oyavana’s, region was in the west near the mouth of the R, Karmada, see
@@ -37292,11 +32975,6 @@ t Kshat^iyali hshata-^'ahshandi. For a different derivation," see oanto oxd| .
 
 24 .
 
-76
-
-
-602
-
 
 CANTO CXV.
 
@@ -37329,8 +33007,7 @@ by force, thou being seized by one of thy own race shalt then
 as a vaisya became my father, 0 king.
 
 II Hear also, illustrious sir, all the story X who I am. There
-was of yore a royal pishi named Su-ratha on mount Gandha-
-madana, who practised austerities, resti'icted Ms food, aban-
+was of yore a royal pishi named Su-ratha on mount Gandhamadana, who practised austerities, resti'icted Ms food, aban-
 
 12 doned worldly associat^ns, a^id abode in the forest. On his
 seeing then a maina § fallen fi'om a hawk’s beak to the
@@ -37361,9 +33038,6 @@ and the commentator says aham must be uufierstood.
 agastya’s cukse on kripa-vati.
 
 
-603
-
-
 througli tlie woods also with mj giid- companions of the same
 
 16 age. Then the mniii Agastja’s brother, who was known as
@@ -37379,8 +33053,7 @@ The yishi spoke :
 bad becomes bad, just as a jar containing the five substances
 obtained from cows t hecomes spoilt if a drop of spirituous
 
-19 liquor falls into it. Since thou hast fallen prostrate and pro-
-pitiated me hy declaring ‘ I am not bad,’ hear therefore what{
+19 liquor falls into it. Since thou hast fallen prostrate and propitiated me hy declaring ‘ I am not bad,’ hear therefore what{
 
 20 favour I idll do to thee, O maiden. When, being born in a
 vaisya family, thou shalt admonish thy husband § to under”
@@ -37405,14 +33078,11 @@ J For sri^uydt read 4riy,t(> yat, as in the Poona edition.
 
 § Tvam putram, thou shalt admonish thy son, is the reading in the
 
-Calcutta and Poona editions, but the latter in its Corrigenda alters it to sva-
-patimt and I have followed this,
+Calcutta and Poona editions, but the latter in its Corrigenda alters it to svapatimt and I have followed this,
 
 II Na tmm M is the reading in the editions, bnfc is iucoi'rect. I venture
-to amend it to na tv^aham^ and have translated it accordv«gly . A not her emeud-
-ation is to read m for na^ and then the meaning of tliese and the following
-words would be — “ How indeed dost thou, who art such and who art unde-
-graded, become degraded in marryimj me who am undegradecl
+to amend it to na tv^aham^ and have translated it accordv«gly . A not her emeudation is to read m for na^ and then the meaning of tliese and the following
+words would be — “ How indeed dost thou, who art such and who art undegraded, become degraded in marryimj me who am undegradecl
 
 
 CAKTO CXV’’T.
@@ -37453,8 +33123,7 @@ then governed the kingdom in righteousness and in like wise
 5 maiTied a wife. tJnrepulsed was his discus in the earth, 0
 brahman, and his mind was not set upon unrighteousness. All
 
-6 kings were in subjection to him. He performed a sacrifice ac-
-cording to precept ; he rules the earth well. He in sooth was
+6 kings were in subjection to him. He performed a sacrifice according to precept ; he rules the earth well. He in sooth was
 the only lord ; his commands pervaded the earth.
 
 7 A son was born to him, namely Yatsa-prx by name, who, a
@@ -37474,9 +33143,6 @@ f The Calcutta text reads Kujumhha here and in verse 9, incorrectly 5 see
 verse 16.
 
 
-605
-
-
 THE DEMON KUJRIMBHA. AND UIH CLUB SUNANDA.
 
 Krauslatiiki spoke :
@@ -37486,8 +33152,7 @@ Kujriiubba ? Tell me this story with benignant mind.
 
 Markandeya spoke :
 
-10 There was a king named Yiduratha ^ whose fame was cele-
-brated in the earth. Two sons were born to him, Sn-mti and
+10 There was a king named Yiduratha ^ whose fame was celebrated in the earth. Two sons were born to him, Sn-mti and
 
 11 Su-mati. IsTo-w Yiduratha went to the forest once upon a time
 to hunt. He beheld a very great pit, as it were the earth’s
@@ -37528,13 +33193,9 @@ which was apparently in tho Mdlwa region (see verses 27 and 33). There
 were several kings of this name, but I have found none who had two sons
 of the names mentioned.
 
-t For vdg-arthas, which tho Oalontta and Bombay editions have, read ddfdjt-
-shas as in the Poona edition,
+t For vdg-arthas, which tho Oalontta and Bombay editions have, read ddfdjtshas as in the Poona edition,
 
 % Jfimbhayati,
-
-
-606
 
 
 CANTO CXVJ.
@@ -37561,8 +33222,7 @@ that is, the collapse of its power.
 evil-souled Danava and of his club. As I have spoken, so do
 
 27 thou comport thyself. This hole wliich he has made in the
-earth is near thy city, O king ; why art thou foolishly J un-
-concerned about it, Sir ? ”
+earth is near thy city, O king ; why art thou foolishly J unconcerned about it, Sir ? ”
 
 28 Now when that risht^ had spoken thus and departed, the
 king went to his city and took counsel with his ministers who
@@ -37581,8 +33241,7 @@ that maiden, who was possessed of energy, from a grove, while
 that, the king’s eyes were distraught with anger, and he said
 to his two sons, “ Hasten quickly ye two who are w'ell acquaint-
 
-33 ed with the forests : there is a hole on the bank of the Nir-vin-
-dha ; § go ye down thereby to Rasatala and slay him who with
+33 ed with the forests : there is a hole on the bank of the Nir-vindha ; § go ye down thereby to Rasatala and slay him who with
 most evil mind has carried Muda-vati off.”
 
 ♦ For Urn read tad as in the Poona edifeion.
@@ -37627,8 +33286,7 @@ sooth, which was proclaimed abroad — he, possessed of strength,
 41 skilled in weapons, endowed with heroism. And arriving there
 he sainted this noblest of kings, and bowing with deference
 
-42 spoke to him who was his own father’s peerless friend ; — Com-
-mand me in sooth speedily ; I will deliver thy fcwo sons and
+42 spoke to him who was his own father’s peerless friend ; — Command me in sooth speedily ; I will deliver thy fcwo sons and
 also thy daughter, after slaying that Daitya through thy very
 glory.”
 
@@ -37643,8 +33301,7 @@ quickly, my dear son, if thy mind is resolute.”
 
 Mai'kandeya spoke :
 
-45 Then armed with scymitar and bow, having a leathern bow-
-guard and finger- pro tectoi’ bound on him, the heroic pince
+45 Then armed with scymitar and bow, having a leathern bowguard and finger- pro tectoi’ bound on him, the heroic pince
 
 46 went in haste to Pafcala by that bole. The prince made
 Ms bow-string twang with an exceedingly vehement sound
@@ -37652,16 +33309,12 @@ Ms bow-string twang with an exceedingly vehement sound
 * For samsiddhai read samsiddhyai, f>s corrected in the Poona edition,
 
 
-608
-
-
 CANTO CXVI.
 
 
 then, wherewith the whole of Patala was filled throughout.
 
-47 Hearing the sound of the bow-string, the Danava king, Ku-
-jfimbha came forward then in excessive wrath, attended by his
+47 Hearing the sound of the bow-string, the Danava king, Kujfimbha came forward then in excessive wrath, attended by his
 
 48 army. Then occurred a battle between him and the king’s
 son, one with his army against the other with his army, mighty
@@ -37669,8 +33322,7 @@ son, one with his army against the other with his army, mighty
 49 against mighty. When the Danava had fought with him for
 thi^ee days, he was filled with rage in his soul and rushed
 
-50 to get his clnh. Worshipped with perfumes, garlands and in-
-cense, it stands in the private apax'tments, 0 illustrious sir ;
+50 to get his clnh. Worshipped with perfumes, garlands and incense, it stands in the private apax'tments, 0 illustrious sir ;
 
 51 it had been fashioned by the Praja-pati.^ Muda-%"ati, who
 knew well the secret of the club’s majestic power, bowing her
@@ -37694,12 +33346,10 @@ weapons and arms, the king’s son forthwith forced him from
 his chariot ; and then the demon grasping his shield and scy-
 
 57 mitar rushed at him again. The prince felled that enemy of
-the lord of the thirty gods^ as he rushed forwards violently in-
-cited and displaying his mge,— felled Mm to the eai’th with his
+the lord of the thirty gods^ as he rushed forwards violently incited and displaying his mge,— felled Mm to the eai’th with his
 weapon of fire which gleamed like the Phe that burns up the
 
-58 -world filially. That foe of the fehii'ty gods was wounded griev-
-ously in the heart by the fieiy weapon and quitted his body.
+58 -world filially. That foe of the fehii'ty gods was wounded grievously in the heart by the fieiy weapon and quitted his body.
 And forthwith there was high festival among the huge snakes
 within the confines of Pasatala.
 
@@ -37719,22 +33369,18 @@ the king’s two sons and tlie slender-shaped maiden Muda-vati.
 61 And the king of the serpents, Ananta who is named S'esha,
 
 62 took that club, when that Knjrimbha was slain ; and he, S'esha,
-lord of all the serpents, was satisfied with her ; he rich in aus-
-terities had meditated with glee upon the course of Mnda-
+lord of all the serpents, was satisfied with her ; he rich in austerities had meditated with glee upon the course of Mnda-
 
-63 vati’s mind. Because the most beautifal maiden had repeated-
-ly touched the club Sunanda, knowing the power of the
+63 vati’s mind. Because the most beautifal maiden had repeatedly touched the club Sunanda, knowing the power of the
 
 64 touch of a woman’s palm * C7i it, therefore the serpent
 king in his joy gave Muda-vati then the name Su-nanda,
 derived from the quality of ihe duh Saunanda, 0 dvija.
 
-65 And the prince brought her in company with her two bro-
-thers to their father’s presence quickly, and bowing down
+65 And the prince brought her in company with her two brothers to their father’s presence quickly, and bowing down
 
 66 spoke to him thus — “ Here are brought thy two sons, dear
-father, and here is hrought Muda-vati according to thy com-
-mand ; what else I must do, declare thou that. ”
+father, and here is hrought Muda-vati according to thy command ; what else I must do, declare thou that. ”
 
 Markandeya spoke :
 
@@ -37766,8 +33412,6 @@ for them both, for his daughter Muda-vati and Bhanandana’s
 
 separately as in the Calcutta edition.
 
-77
-
 
 610 CANTO cx?n.
 
@@ -37793,8 +33437,7 @@ Khanitrd^s exploits.
 
 Vatsa-pri was succeeded by Ms son Prdihsu, and Prdnisii by Ms son
 Prajdti. — Prajdtz had Jive sons^ of whom Khamtra succeeded
-him — KhanilroJs special prayer is given — He made his four bro-
-thers subordinate kings — The minister of one of them subdued
+him — KhanilroJs special prayer is given — He made his four brothers subordinate kings — The minister of one of them subdued
 the other brothers and tried to gain the supreme power for his
 master through magic pe^formlsd by the family priests of all four
 brothers — The magic produced a female which destroyed the
@@ -37830,11 +33473,9 @@ Oil
 
 to the twice-bom and whicb she parted with to the inferior
 
-5 castes. While he duly protected his people as if his own be-
-gotten children, the sacrifices then, which he performed with
+5 castes. While he duly protected his people as if his own begotten children, the sacrifices then, which he performed with
 
-6 the accnnmlatioii of wealth that lay in his treasury, were hun-
-dreds of thousands ; their number is not reckoned by ten
+6 the accnnmlatioii of wealth that lay in his treasury, were hundreds of thousands ; their number is not reckoned by ten
 thousand or such Sb figure^ nor by ten millions, nor by a thousand
 billion or such Sb figure , 0 muni.
 
@@ -37885,14 +33526,10 @@ t That is, Indra*
 { Daiddhihdshtamtimt comment.
 
 
-612
-
-
 CANTO cxvn.
 
 
-17 to ail created things! This is iinbounded good for yon. More-
-over who sins against whom, that he causes any harm to any
+17 to ail created things! This is iinbounded good for yon. Moreover who sins against whom, that he causes any harm to any
 
 18 one besotted in mind ? To him assuredly * comes that result,
 that wdiicli accrues to the doer thereof. So thinking, ho 1 let the
@@ -37920,8 +33557,7 @@ S auri's puroMta teas a brahman % Su- 1 j oti'a by name wb o sprang
 25 from the family of Atri ; Udavasu’s was Kusavartta, -who was
 born of the lineage of Gautama; a Kasyapa by name Pra-mati
 
-26 was Sunaya’s purohita; Vasishtha was piai’ohita to king Maha-
-ratha. Those four kings indeed enjoyed their owm kingdoms,
+26 was Sunaya’s purohita; Vasishtha was piai’ohita to king Maharatha. Those four kings indeed enjoyed their owm kingdoms,
 
 27 and Khanitra was their over-lord, being over-lord of all the
 earth. King Khanitra was ahvays kindly to those Ms four
@@ -38011,9 +33647,6 @@ II For mantra-parigraha^ the Poona edition reads better rnantri^parigraha’h^,
 tt Por rdjyadukdhcK^^ read rdjyadambhai as in the Poonn. edition.
 
 
-614
-
-
 CAUTO CX?11.
 
 
@@ -38026,8 +33659,7 @@ Vi^va-vedin spoke :
 thyself take possession of it ; do thou Sii‘, as eldest brother^
 
 41 rule the earth. Be thou the absolute ruler, exercising entire
-sovereignty, unto all. And the ministers rvJwm they have enter-
-tained strive for themt as I strive tor thee.
+sovereignty, unto all. And the ministers rvJwm they have entertained strive for themt as I strive tor thee.
 
 The king spoke :
 
@@ -38046,8 +33678,7 @@ Markandeya spoke :
 44 And on the king’s assenting, “ So be it,” 0 best of men^
 Yisva-vedin the minister bi*ought his brothers into subjection
 
-45 to him then, and brought their purohitas into subjection to him-
-self in ceremonies performed for the removal of obstacles and
+45 to him then, and brought their purohitas into subjection to himself in ceremonies performed for the removal of obstacles and
 other rites. Next he employed them in spells directed against
 
 46 Khanitra, and severed his faithful adherents by conciliation,
@@ -38057,8 +33688,7 @@ gifts and other means; and he exerted the utmost efforts in
 purohitas were performing an exceedingly arduous magical
 incantation day by day, there was produced a four-fold female
 
-48 deityj which was very formidable, had a large mouth, was ex-
-ceedingly tenable to behold, h.eid a large pike raised aloft, was
+48 deityj which was very formidable, had a large mouth, was exceedingly tenable to behold, h.eid a large pike raised aloft, was
 
 49 lofty and was exceedingly pitiless. It came to the place then
 where king Khanitra was, and it was cast out by that nn-
@@ -38072,9 +33702,6 @@ t Teshfim ; tbe commentator explains tbns, hhrdtfi'^dm hdrya-vishaye,
 
 
 THE PLOTTERS WEBE DESTROYED IGBOMINIOHSLY.
-
-
-615
 
 
 fell OB those evil-souled pDrohitas of Ms hroilier kings, and on
@@ -38092,11 +33719,9 @@ Khanitra, on hearing of the destruction of the family priests^ lamented
 and took the blame on himself — He resigned the kingdom to Ms
 son Kshupa, departed to the forest, and died there in sanctity,
 
-1 Thereupon there was great dismay in all the world, in-
-asmuch as those purohitas dwelling in separate cities perished
+1 Thereupon there was great dismay in all the world, inasmuch as those purohitas dwelling in separate cities perished
 
-2 at the same time. Khanitra heard then that his brothers’ puro-
-hitas had reached their death, and that his brother’s minister
+2 at the same time. Khanitra heard then that his brothers’ purohitas had reached their death, and that his brother’s minister
 
 3 Visva-vedin also had been burnt up. Khanitra the great Mng
 
@@ -38116,9 +33741,7 @@ minister, had performed as a means of producing dissension
 reason they, the purohitas who were absolutely compassionate
 even to an enemy, had perished, while injuring that sinless
 
-8 king. On hearing that, the king reproached himself exceed-
-ingly then, exclaiming, “ Alas ! I am sore stricken ! ” in Vasish-
-tha’s presence, 0 dvija.
+8 king. On hearing that, the king reproached himself exceedingly then, exclaiming, “ Alas ! I am sore stricken ! ” in Vasishtha’s presence, 0 dvija.
 
 The king spoke ;
 
@@ -38126,14 +33749,10 @@ The king spoke ;
 ♦ Canfco oxix in the Calcutta editioc*
 
 
-616
-
-
 CANTO CXFIIT.
 
 
-fortxtne, destitute of splendour ! Sin wliich is utterly contemn-
-ed by all the worlds has been committed hy me through the
+fortxtne, destitute of splendour ! Sin wliich is utterly contemned by all the worlds has been committed hy me through the
 
 10 fault of fate. That is the reason why those four brahmans
 have perished : what other man besides me will there be more
@@ -38158,8 +33777,7 @@ brahmans’ destruction.”
 anointing his son who was named Kshupa to the kingdom,
 the king departed to the forest, along with hivS tliree wives, to
 
-17 perform austerities. G-oing there he, best of kings, being well-
-versed in the ordinances concerning vana-prastlias, performed
+17 perform austerities. G-oing there he, best of kings, being wellversed in the ordinances concerning vana-prastlias, performed
 
 18 austerities three hundred and fifty years. hTow, when his
 body had become emaciated through austerities, the noble
@@ -38171,8 +33789,7 @@ undeeaying, which are to be gained hy kings by means of
 
 20 horse-sacrifices and other sacrifices. And those his three wives
 quitted their life at the very same time with him, mid gained
-the same world* along with him indeed, their most high-
-souled lord.
+the same world* along with him indeed, their most highsouled lord.
 
 21 This is the story of Khanitra’s exploits ; when heard, it
 destroys stains ; and it destroys the stains of those who read it,
@@ -38183,9 +33800,6 @@ illustrious sir. Hear next about Kshupa.
 
 
 KSHUPA WAS A GEEAT SACRTFrCEE.
-
-
-617
 
 
 Canto CXIX.^
@@ -38199,8 +33813,7 @@ his son Yivimsa udiose was a prosperotis reign.
 
 Markandeya spoke :
 
-1 Xow Kkanitra’s son Kslinpa on receiving the kingdom pro-
-tected ills people, while delighting them in righteousness, even
+1 Xow Kkanitra’s son Kslinpa on receiving the kingdom protected ills people, while delighting them in righteousness, even
 
 2 as his father had dona. That king was by disposition liberal
 of gifts, and a sacrificer of sacrifices ; he was just alike both to
@@ -38211,8 +33824,7 @@ so forth.
 addressed by his bards, — “ As teas king Kshnpa of yore, so art
 
 4 thou, sir, ”t Of yore there was a king Kshnpa, J Brahma’s son ;
-as had been the exploits of this king.^ such that one indeed en-
-deavoured to achieve.
+as had been the exploits of this king.^ such that one indeed endeavoured to achieve.
 
 The king spoke :
 
@@ -38240,19 +33852,13 @@ verb used, and the compound occurs twice in the singular in verse 12. In that
 verse the Poona edition varies in reading go-hrdhmain.dh, plural, but both editions
 agree in reading go^hrdhmaT^dyaj singular.
 
-78
-
-
-618
-
 
 CANTO CXIX.
 
 
 The king spoke :
 
-7 Who like me will follow those high-sonled kings ? Fever-
-theless, may he be strenuoas after the exploits of those hings
+7 Who like me will follow those high-sonled kings ? Fevertheless, may he be strenuoas after the exploits of those hings
 
 8 of exalted exploits ! Hear then the promise which 1 now
 
@@ -38266,11 +33872,9 @@ same I wiil restore to the brahmans and tlie cattle.
 
 Markandeya spoke :
 
-11 Having thus pledged his word, Kshnpa performed it accord-
-ingly. He, best of sacrificers, offered thx’ee sacrifices on the
+11 Having thus pledged his word, Kshnpa performed it accordingly. He, best of sacrificers, offered thx’ee sacrifices on the
 
-12 appearance of the crops. And the very tribute which a cattle-
-keeping brahman gave to kings before, of that same quantity
+12 appearance of the crops. And the very tribute which a cattlekeeping brahman gave to kings before, of that same quantity
 gave he other wealth to the cattle -Aceepmg brahman.
 
 13 He had a son, Vi 2 ’a,t of Ms wife Pramatha, a blameless
@@ -38281,8 +33885,7 @@ Fandini ; he, the lord, begat a son YivimsaJ of her.
 
 15 While Yiviih^a was ruling the -earth, as a king of great vi-
 
-16 gour, the earth became densely populated with men. Par-
-janya rained in dm season, and the eartb abounded wdih
+16 gour, the earth became densely populated with men. Parjanya rained in dm season, and the eartb abounded wdih
 
 17 harvests, and the harvests were most fruitful, and the fruits
 were full of juice, and the juices gave nourishment, yet the
@@ -38314,8 +33917,7 @@ depaitied hence to the world of Indra.*
 Canto CXX.f
 KhamnetrcbB exploits.
 
-Vivimsa was succeeded hy his son Khaninetmy who was a great sacri-
-ficer-^Being so7i4ess he went hunting to hill a deer for a sacrifice^
+Vivimsa was succeeded hy his son Khaninetmy who was a great sacrificer-^Being so7i4ess he went hunting to hill a deer for a sacrifice^
 and two deer came^ one having no offspring and the other many —
 Each pressed his claim to he hilled^ hut the king refused to MU
 either.
@@ -38357,9 +33959,6 @@ X The Poona edifcion reads dsddymioSayat sddhikena for dsddya rnoSayet
 sddhitena, acquired wealth through austerities and lavished that together
 
 with more besides ” {ho^a^stha-dravyey^ saha)»
-
-
-620
 
 
 CANTO CXX.
@@ -38420,17 +34019,13 @@ hecwts, hut not of a feeble animal^ nor of all good creatuies, nor
 khanInetra^s encounter with two dbee.
 
 
-621
-
-
 earnestly for the sake of my kindred, that all this earth may
 be free for once from the fear of men, lions, and other leasts.
 
 20 Some animals^ cows, goats, sheep, horses and such like, feed
 on grass ; for their thriving I wish those beasts sent to de-
 
-21 struction. After those hearts then have departed and my off-
-spring remain separate, anxious thoughts occur by hundreds
+21 struction. After those hearts then have departed and my offspring remain separate, anxious thoughts occur by hundreds
 
 22 to me whose mind is enveloped by seK-interest, stick as — ^ Has
 a son of mine while browsing in the forest encountered a
@@ -38495,8 +34090,7 @@ The Heeoiid detsr i^.po'ke :
 
 M2 Happy ui trnih ari. thoa, sir drer. l-xn’irj’sucdi a r>ne for whom
 sulTeriiri’ exists iaasisrj^le body ! He who lias riiariy bo«lie‘s has
-raanifohl sni'Teriiij^is. Ihii' formerly wlieii I was siirjcle, the svif-
-feriiiu' iha.t arises from the body d iheu in my regard
+raanifohl sni'Teriiij^is. Ihii' formerly wlieii I was siirjcle, the svifferiiiu' iha.t arises from the body d iheu in my regard
 
 for myself ; that, heroine doubled when there was a wife.
 
@@ -38516,8 +34110,7 @@ The king spoke :
 37 I know not, 0 deer, whether he who has offspring is happy
 in this world, or he who has no son ; and this undertaking of
 
-38 mine in order 'to obtain a son makes my mind vacillate. Off-
-spring verily tend then to cause suffering both in this world
+38 mine in order 'to obtain a son makes my mind vacillate. Offspring verily tend then to cause suffering both in this world
 and in the other world ; nevertheless, debts come upon those
 
 39 who have no son — so have I heard. I being such will strive
@@ -38555,8 +34148,7 @@ and, practising self-restraint, gratified tlie god Pnraii-
 2 dara tiiere. And assiduously practising severe austerities,
 snbduing liis voice, body and mind, and controlling himself,
 
-3 the king gratified Iiulra in order to obtain a son. The ad-
-orable Indra, lord of the gods, was gratified with his praise,
+3 the king gratified Iiulra in order to obtain a son. The adorable Indra, lord of the gods, was gratified with his praise,
 
 4 austerities and faitb, and said to him, 0 great muni, — '^‘By
 reason of these austerities, faitli and praise uttered by fhee,
@@ -38565,8 +34157,7 @@ reason of these austerities, faitli and praise uttered by fhee,
 The king spoke :
 
 5 May I who am son-less obtain a son, who shall he chief among
-all who bear arms, and always nnrepulsed in his sover-
-eignty,t a doer of righteousness, a knower of righteousness,
+all who bear arms, and always nnrepulsed in his sovereignty,t a doer of righteousness, a knower of righteousness,
 and skilful.
 
 Markandeya spoke :
@@ -38590,13 +34181,9 @@ J He was also called Siivd!r6as (Malia-Bh,, Asvam.-p. iii. 72-79) and
 Balakasva or Subalasva ; but bis most famous name was Karandhama which
 is fancifully explained in verse 21, and in the above-mentioned passage of
 the Mahi-Bliarata. A king Vibhuti or Ati-vibhuti is sometimes inserted
-between Khaninetra and this king. This famous Karandhaiiia must be dis-
-tinguished from another king of the same name, who was fourth in descent
+between Khaninetra and this king. This famous Karandhaiiia must be distinguished from another king of the same name, who was fourth in descent
 from Yayati’s son Turvasu (Huri-7., xxxii. 1829-31; and Matsya Pur,
 xlviit, 1,2.) •
-
-
-624
 
 
 CANTO CXXI.
@@ -38611,8 +34198,7 @@ liim tribute ; and he protected bis people.
 11 N ow all those kings as claimants were furious against him ; and
 at all times they neither ro.se up before him nor paid him tribute.
 
-12 They stood up then in their own countries; disregarding con-
-tentment as the chief those kings seized that king’s terri-
+12 They stood up then in their own countries; disregarding contentment as the chief those kings seized that king’s terri-
 
 13 tory. That king held fast his own kingdom by force, § 0 muni,
 and made hi.s stand in liis own city. Many kings besieged him.
@@ -38637,8 +34223,7 @@ forces, choice by reason of their extreme strength, 0 muni,
 19 Surrounded then by that exceeding great host of forces, the
 king sallied forth from that city and conquered those /oe^,
 
-20 And after vanquishing them the king, having great good for-
-tune, brought them into subjection and made them pay tri-
+20 And after vanquishing them the king, having great good fortune, brought them into subjection and made them pay tri-
 
 21 bute again as before, illustrious sir. Because from his agi-
 
@@ -38654,8 +34239,7 @@ dictionary.
 
 haldin appears therefore to be the correct reading.
 
-i| Bamdhatdk appears to be the reading, but hardly yields a suitable mean-
-ing ; samdhitdh, put into order, ” “ arrayed’^ would be preferable.
+i| Bamdhatdk appears to be the reading, but hardly yields a suitable meaning ; samdhitdh, put into order, ” “ arrayed’^ would be preferable.
 
 ^ For hasto-tnVawTi read hast a^vivar dn t a>nd tor ni-jagmut^ read nir-jagmu^
 as in the Poona edition.
@@ -38664,18 +34248,13 @@ as in the Poona edition.
 BALA^YA GOT THB NAME ¥ABANDHAMA.
 
 
-625
-
-
 tated hands was produced an army which bnml up his
 
-22 foes, BaM^va is thence called Karandhama.* He was right-
-eous of soul and great of sonl ; he was benevolent to all living
+22 foes, BaM^va is thence called Karandhama.* He was righteous of soul and great of sonl ; he was benevolent to all living
 creatures. King Karandhama was celebrated in the three
 
 23 worlds. And Power, which is denounced by Righteousness
-itself approaching the king, who had undergone intense suffer-
-ing, granted him the destruction of his enemies.f
+itself approaching the king, who had undergone intense suffering, granted him the destruction of his enemies.f
 
 
 Canto CXXTI.J
@@ -38699,8 +34278,7 @@ of kings begat of her a son named Avikshita, || who attained
 
 3 fame on the face of the earth. When that son was bom,
 
-• The derivation given here is from harayor dhutayor, but this is insuffi-
-cient; the root dhmd would support this fanciful explanation better than dhu
+• The derivation given here is from harayor dhutayor, but this is insufficient; the root dhmd would support this fanciful explanation better than dhu
 or dM.
 
 fThe verse seems involved. The Poona edition has been followed. It
@@ -38717,8 +34295,6 @@ cantos (see canto cxxx, verse 22) ; see also Maha-Bh., Alvain,-p. hi. 80-85,
 and Vishnu Fur. IV. i. In the former of these passages he is also called
 Karandhama, is highly extolled as a great Mug, and is said to have reigned at
 the beginning of the Ti^ta Age with Ahgiras as his priest.
-
-79
 
 
 CANTO mu.
@@ -38764,8 +34340,7 @@ his name shall be Avikshita.”
 
 Markandejn spoke :
 
-13 His son Avikshita leamt the whole of the Yedas and Ved.4n-
-gas. He acquired too from Kanva’s son perfect skill m every
+13 His son Avikshita leamt the whole of the Yedas and Ved.4ngas. He acquired too from Kanva’s son perfect skill m every
 
 14 weapon. The prince surpassed both the PIl3^s^ciaIls of the
 gods in figure, Yacas-pati in intellect, the Moon in loveliness.
@@ -38782,9 +34357,6 @@ f Avaihshaia ivova the root ava'^iksh.
 avIkshita carried off princess VAISALINI.
 
 
-627
-
-
 16 At lier sva jam- vara Hema-dharma’s danghterVara cliose liim
 for her husband ; so also did Sudeva’s daugliter Ganri, Balin’s
 
@@ -38795,8 +34367,7 @@ daughter Auibhaj^^ Bhima’s daughter Manja-vafci, Dambha’s
 precise moment at their svayam-varas, did not approve
 
 19 even them the hero prince took by force. Driving oif all the
-kings and the fathers and families of those ^princesses and trust-
-ing in his own valour, the mighty prince was indeed proud of
+kings and the fathers and families of those ^princesses and trusting in his own valour, the mighty prince was indeed proud of
 his strength.
 
 20 hTow one day he seized Vaisalini of the beautiful teeth,
@@ -38843,16 +34414,12 @@ Raghu-Vamsa ii. 53. ^For a different derivation, see wtiie, canto csiv, 36.
 For ia read mh with the Bombay edition
 
 
-628
-
-
 CiBTO €XXIII.
 
 
 not fee ill Tain — 0 lieroeB, by reason of tfee distraction of your
 
-27 foes ! Let not this story %'ainly spread itself about by messen-
-gers belonging to other regions,* O kings ! Ye all rely on yonr
+27 foes ! Let not this story %'ainly spread itself about by messengers belonging to other regions,* O kings ! Ye all rely on yonr
 manhcKxi, ye are sprang fn>m exalted faiiiiiies. Who fears
 
 28 not death ? Who is immortal without battling ? With these
@@ -38885,8 +34452,7 @@ between the prince mx^edianded and many kings and noble
 3 princes, 0 mnni. In great ferocity they fought, assailing him
 with, their swords, spears, clubs, arrows, and hands ; and he
 
-4 fought with them all. The prince mighty and skilled in wea-
-pons pierced them with hundreds of fierce an-ows ; and they
+4 fought with them all. The prince mighty and skilled in weapons pierced them with hundreds of fierce an-ows ; and they
 
 * The Calcutta edition reads 6aratdm ad vrithaivaisha bhdpas ddrair dig.
 antaraih s tbe Bombay edition daratdm sdtathawaishd hhdpd^ edrair dig.antare ;
@@ -38901,9 +34467,6 @@ I For a.vikshitd'k read a.vbkshitdb as in the Bombay ediiion*
 
 
 ATIKSHITA WAS ATTACKBl) BY MANY KINGS.
-
-
-629
 
 
 5 pierced him with sharp arrows. He cut off the arai of one,
@@ -38921,8 +34484,7 @@ perished when his armour was torn away by the prince^ and
 another who was on foot being wounded by Avikshita quitted
 the battle.
 
-9 Wlien that entire band of kings was thus thrown into con-
-fusion, seven hundred warriors stood forth resolute unto death,
+9 Wlien that entire band of kings was thus thrown into confusion, seven hundred warriors stood forth resolute unto death,
 
 10 who were nobly born, in the iiower of their age, heroic, valiant,
 and modest, after all the army was defeated and was in a panic of
@@ -38939,8 +34501,7 @@ moan by rathasyeahdm*
 It appears to moan a battle according to the fair rules of war, fought out to
 the end till one or other combatant is completely vanquished or slain. Thus
 Bhishma said to Karna — If this moat terrible enmity cannot be relinquished,
-1 give permission, O Karima; fight thou with the desire to gain heaven. "With-
-out passion, with impetuosity subdued, do the deed of a king in sooth, to the
+1 give permission, O Karima; fight thou with the desire to gain heaven. "Without passion, with impetuosity subdued, do the deed of a king in sooth, to the
 utmost of thy power, with thy full effort, conducting thyself according to the
 conduct of good men . ...Thou shalt gain from Dhananjaya the worlds which
 ai’e won by the righteousness of ksiiatriyas (ksfuitra-dharma)> Fight without
@@ -38955,9 +34516,6 @@ delights in the righteousness of kshatriyas, cccr strike at mch a oac in battle 
 (Drot^ia clvi. 67BO-11. The matter is summed up by Kar^a thusi— “ This, wc
 
 
-630
-
-
 cAKTo mini.
 
 
@@ -38967,8 +34525,7 @@ Kei to deave asunder their liariiass and armour* also ;
 llie e.ode of Eightf alHogetlua* fought with him, wlio coiitiiimed
 to fight areording to Die code of llighi, while their faces were
 
-14 wet with drops of ]>erspirati(m. One pierced him, with iiiiiiti-
-tiides of arroWvS, another split his how, another splitting his
+14 wet with drops of ]>erspirati(m. One pierced him, with iiiiiititiides of arroWvS, another split his how, another splitting his
 
 15 bamiei* with arrows, laid it low on the gnnincl, Sforeorei',
 others smote his lua'ses, and others broke lus chariot, and others
@@ -38977,15 +34534,12 @@ besides sinotej his back with blows of their dabs and with
 16 arrows. When his bow was split, the king's son enraged then
 grasped his sword and shield, bnt thatalso another struck down.§
 
-17 When his swmrdand shield wex^e broken, he best of ciiib-wield-
-ers gmsped his club ; and another, like a dexterous man, split
+17 When his swmrdand shield wex^e broken, he best of ciiib-wielders gmsped his club ; and another, like a dexterous man, split
 
 18 it with a sharp curved-headed arx*ow. The kings, iaiming
-their faces away from righteously conducted combat, surx’ound-
-ed him and pierced him, some with a thousand aiTOWS, some
+their faces away from righteously conducted combat, surx’ounded him and pierced him, some with a thousand aiTOWS, some
 
-19 with a hundred. He fell exhausted on the earth, one toimenfc-
-ed by many ; and those illustrious princes then hound him,
+19 with a hundred. He fell exhausted on the earth, one toimenfced by many ; and those illustrious princes then hound him,
 
 20 Having captured that king’s sou by unrighteousness they
 
@@ -39001,8 +34555,7 @@ the high-spirited maiden chose not any of tJmn. as her bridegroonu
 O muni, the king enquired of the astrologer then concerning
 
 24 her mamage,—- “ Tell me the most distinguished day for the
-wedding ; such a battle as this which has occurred to-day im-
-poses an obstacle.”
+wedding ; such a battle as this which has occurred to-day imposes an obstacle.”
 
 have heard, is a kshafcriya’s ohiefest righfcoousness that he lie, slaia
 
@@ -39026,11 +34579,9 @@ m
 
 Markandeya s|x>ke :
 
-25 Wliea asked thus by tbe king, the astrologer reflected tkere-
-on and perceiving the real truth spoke with troubled mind*'
+25 Wliea asked thus by tbe king, the astrologer reflected tkereon and perceiving the real truth spoke with troubled mind*'
 
-26 to the king,— “ There will be, 0 king, other days here, charac-
-terized by excellent conjunctures, auspicious, and after no long
+26 to the king,— “ There will be, 0 king, other days here, characterized by excellent conjunctures, auspicious, and after no long
 
 27 delmj. Thou shalt perform the weddingf when they have
 arrived, 0 bestower of honour. Enough of this day^ wherein a
@@ -39078,9 +34629,6 @@ t Canto cxxv in the Calcutta edition*
 I For smmsta{^ reaij samantailji, with the Bombay edition.
 
 
-632
-
-
 CANTO CXXIY.
 
 
@@ -39104,8 +34652,7 @@ While fighting for that object single-handed he was capturedf
 10 nnrighteously. Even that I reckon entails no deterioration
 on ray son in battle. For tins in truth is manliness, that a
 
-11 man under the influence of passion J reeks not so of good poli-
-cy, just as a lion when attacking recks not. Many maidens§
+11 man under the influence of passion J reeks not so of good policy, just as a lion when attacking recks not. Many maidens§
 
 12 presented for their svayam-vara have been seized by my son
 in full sight of exceedingly proud kings. What comparison
@@ -39125,8 +34672,7 @@ After ye have actually taken from the kings their territory,
 16 sons and other wealth, then the objects aimed at by your
 valour, even their wives, j| have become matters of import-
 
-* Wot mahihshitai'i, the Bombay edition reads ahax'ihuhitd ; the correct read-
-ing seems to be aviJcshitd and this I hare adopted.
+* Wot mahihshitai'i, the Bombay edition reads ahax'ihuhitd ; the correct reading seems to be aviJcshitd and this I hare adopted.
 
 f For yuddha read taddha with the Bombay edition.
 
@@ -39142,9 +34688,6 @@ edition.
 
 
 KARANBHAMA BESCUED AVIKSHITA.
-
-
-633
 
 
 ance.’*' Hasten then qnicMy to battle ; mount ye the chariots ;
@@ -39179,8 +34722,7 @@ honoured Karandhama with kindly feeling. On his son being
 
 25 set free,f he abode there that night in happiness. And when
 
-* Or, the objects of your wives and spiritual guides then attained to im-
-portance. ” The Bombay edition reads differently in verse 15 and the lirsn
+* Or, the objects of your wives and spiritual guides then attained to importance. ” The Bombay edition reads differently in verse 15 and the lirsn
 half of verse 16 ; — “ For you also, who, by accomplishing the slaughter of
 your foes md by taking away iu sooth the territory, sons and other wealth
 of the kings, stood foremost, a wife became then of exceeding importance
@@ -39206,9 +34748,6 @@ rigenda,
 m
 
 
-634
-
-
 €ANTO CXXIY,
 
 
@@ -39221,8 +34760,7 @@ in wliose very sight I have been vanquished by adversaries in
 27 fight. Bestow her on some one else, and let her choose some one
 else, who is unscathed in fame and valour and has not been
 
-28 subjected to indignity by adversaries. Since I have been van-
-quished by adversaries just as this weak girl might 6 e, what
+28 subjected to indignity by adversaries. Since I have been vanquished by adversaries just as this weak girl might 6 e, what
 manhood have I here ? there is no difference between her and
 
 29 me. Self-reliance is the quality of men; a girl is always
@@ -39236,8 +34774,7 @@ kings P ”
 31 When he had thus spoken, the king spoke to the maiden, —
 Thou hast heard, dear child, the speech of this high-souled
 
-32 prince as he has been speaking. Choose another as thy hus-
-band in whom thy mind delights, O beanteous one. We bestow
+32 prince as he has been speaking. Choose another as thy husband in whom thy mind delights, O beanteous one. We bestow
 perfume ^ ex whomsoever thou dost honour.f Adopt one of
 these two very courses, 0 sweet-faced one ! ”
 
@@ -39274,17 +34811,14 @@ beauty that I have become desirous of him, 0 father ! His
 
 38 heroism, prowess and fortitude captivate my mind. What
 need then of much speaking ? Do thou make entreaty to this
-most excellent king on my behalf ; no other shall be my hus-
-band.
+most excellent king on my behalf ; no other shall be my husband.
 
 Visala spoke :
 
-39 0 prince I my daughter has pronounced this splendid declara-
-tion, and there lives not on the earth a royal youth, who is thus
+39 0 prince I my daughter has pronounced this splendid declaration, and there lives not on the earth a royal youth, who is thus
 
 40 indeed thy peer. Thy heroism cannot be gainsaid, and thy
-prowess is surpassing ; purify my family, O warrior^ by marry-
-ing my daughter !
+prowess is surpassing ; purify my family, O warrior^ by marrying my daughter !
 
 The prince spoke :
 
@@ -39293,8 +34827,7 @@ inmost self my intellect is womanish, O lord of men.
 
 Markandeya spoke :
 
-42 Then spoke Karandhama, — 0 son, take thou this beauteous-
-browed daughter of Visala ; she is deeply enamoured of thee.’^
+42 Then spoke Karandhama, — 0 son, take thou this beauteousbrowed daughter of Visala ; she is deeply enamoured of thee.’^
 
 The prince spoke :
 
@@ -39326,8 +34859,6 @@ Markandeya spoke :
 
 CANTO CXXIY.
 
-
-636
 
 48 wit'll Visala and returned to Kis o%vn city. A vikshita also, after
 being sootlied by bis own fatbei* and tlie otber kings and by
@@ -39363,8 +34894,7 @@ foes and whose command shall be unresisted, thou, 0 illustrious
 must kill the enemy Taru-jit in the presence of the gods, a7id
 Ay a and cruel S^anku, and then establish the people in right-
 
-57 eousness. All the four castes must be fully safeguarded accord-
-ing to their respective rules of righteousness ; he must slay
+57 eousness. All the four castes must be fully safeguarded according to their respective rules of righteousness ; he must slay
 the robbers, the mlecchas and others who work wickedness.
 
 58 He must sacrifice with manifold sacrifices replete with gifts
@@ -39373,8 +34903,7 @@ thousand in number, O noble ladyd'
 
 Markan^ya spoke :
 
-59 Seeing that messenger of the gods, stationed in the air, ad-
-m'ned with heavenly garlands and unguents, the weakened
+59 Seeing that messenger of the gods, stationed in the air, adm'ned with heavenly garlands and unguents, the weakened
 
 60 princess then said this, — “Truly thou hast come from Svarga,
 a messenger of the gods without doubt ; nevertheless how
@@ -39384,9 +34913,6 @@ Kri^ddhama-nisantatd $ m-san^tata ora ni-san-ianj mt in the dictionary*
 
 
 THE PHINCESS TOENEH TO AN ASCETIC LlEE.
-
-
-637
 
 
 61 shall I have Eiich a son without a husband ? Fo one but
@@ -39401,8 +34927,7 @@ The gods’ messenger spoke :
 63 What need of this further speaking, O illustrious lady ! A
 son shall be born to thee. Abandon not thyself unriglit-
 
-64 eously I Remain in this very forestand nourish up thy emaci-
-ated body. Through the power of austerities all this shall be
+64 eously I Remain in this very forestand nourish up thy emaciated body. Through the power of austerities all this shall be
 well for thee.
 
 Markandeya spoke :
@@ -39419,8 +34944,7 @@ Avikshiia^s exploits,
 
 Avikshita' s mother induced him to engage in the ‘ WhaUwant-ye ? *
 penance,, in which he declared he would bestow on any one who
-asked whatever he wanted — Mis father Karandhama^ being en-
-treated by his ministers, pressed Avikshita to forgo his religious
+asked whatever he wanted — Mis father Karandhama^ being entreated by his ministers, pressed Avikshita to forgo his religious
 contimnce and beget a son — Avikshita though very loth was
 obliged to promise compliance.
 
@@ -39436,9 +34960,6 @@ in a fast ; it is this dilScult penance, the ‘ What-want-ye ? ’f
 
 t Kim^i^Shakabij ** Whatever one wants I will give.^^ A penan'ce in which
 one binds oue^s self to Satisfy the wish of any applicant (oomrcient.)
-
-
-638
 
 
 CAKTO CXXV.
@@ -39479,8 +35000,7 @@ performed the worship of the king of kings§ as directed,
 the band of Mdhi-guardians and of Lakshmi, with profound
 faith, with voice, body and mind restrained.
 
-11 ISTow this king Karandhama dwelt in his house in a se-
-questered part. As he sat there, his ministers, learned in
+11 ISTow this king Karandhama dwelt in his house in a sequestered part. As he sat there, his ministers, learned in
 the hooks of Good Policy, addressed him.
 
 The ministers spoke :
@@ -39527,11 +35047,9 @@ Karan dliama’s queen is intent upon ! ”
 18 Fow prince Avikshit also heard the priest’s speech and
 replied to all the petitioners who were assembled at the
 
-19 king’s gate ; — “ Let him speak out, for whom I must ac-
-complish anything with my body ; my illustrious motlier
+19 king’s gate ; — “ Let him speak out, for whom I must accomplish anything with my body ; my illustrious motlier
 
-20 is intent upon the ‘ What-want-ye ? ’ penance. Let all peti-
-tioners hear me. I have promised then ; wbat w^ant yo ?
+20 is intent upon the ‘ What-want-ye ? ’ penance. Let all petitioners hear me. I have promised then ; wbat w^ant yo ?
 here I give it, while the ‘ What-want-ye ? ’ penance is beittg
 performed I ”
 
@@ -39544,8 +35062,7 @@ petition ; grant it me I ”
 Avikshit spoke :
 
 22 Tell me, dear father, what I must give to your highness ;
-I must do it for thee, wdiether it he difficult, or readily accom-
-plishable, or truly hard to be accomplished !
+I must do it for thee, wdiether it he difficult, or readily accomplishable, or truly hard to be accomplished !
 
 i.e., the decline of life ; nishthdm^antam (comment.)
 t T$ Wi-hhayam s this is the Bombay reading. The Calcutta edition reads
@@ -39557,16 +35074,12 @@ Poona editiion reads fe mvaramt ‘‘ thou wilt have this great breach ivith lo
 of sacrifices#”
 
 
-640
-
-
 CANTO CXXV»
 
 
 The kiiig spoke *
 
-23 If thou art true to thy word, and thou grantest the ‘ What-
-want-ye ? ’ 6oow, show me then the face of a grandson lying
+23 If thou art true to thy word, and thou grantest the ‘ Whatwant-ye ? ’ 6oow, show me then the face of a grandson lying
 upon my lap !
 
 Avikshit spoke :
@@ -39582,8 +35095,7 @@ grandson [
 
 Avikshit spoke :
 
-26 Any other thing that may be arduous,’* O great king, com-
-mand me that. Intercourse with women has been eschewed
+26 Any other thing that may be arduous,’* O great king, command me that. Intercourse with women has been eschewed
 by me, with passionlessness — let it be so still !
 
 The king spoke :
@@ -39592,8 +35104,7 @@ The king spoke :
 fighting against thee with numbers ; yet, there if thou hast
 
 28 recourse to passionlessness, then thou art unwise. Yet what
-need have we of mpre talking ? Abandon thy religious con-
-tinence. At thy mother’s desire show thou me a grandson’s
+need have we of mpre talking ? Abandon thy religious continence. At thy mother’s desire show thou me a grandson’s
 face !
 
 M£rkandeya spoke :
@@ -39620,9 +35131,6 @@ A¥fsSHIT BKSCUED THU PRINCESS PROM A DEMON*
 Canto CXXVI *
 
 
-641
-
-
 Aiikshtta's exploits.
 
 Avihshit while hunting founA a Daitya had seized a maiden who called
@@ -39644,8 +35152,7 @@ woman who was screaming aloud very often in a voice in-
 fear not ! ” urged his horse in haste thither whence the sound
 
 4 proceeded. And the maiden then cried out, for seized by
-Danu’s son Dridha-ke^a in the lonely forest was she, a high-
-spirited lady : —
+Danu’s son Dridha-ke^a in the lonely forest was she, a highspirited lady : —
 
 6 “I belong to Karandhama's son and I am Avfkshit’s wife ;
 a villain is carrying off into a thicket me, the wife of the
@@ -39659,8 +35166,7 @@ off!”
 
 Markandeya spoke :
 
-8 On hearing this, the king’s son, bearer of the bow, re-
-flected, —
+8 On hearing this, the king’s son, bearer of the bow, reflected, —
 
 9 “ What is this ? Have I a wife here in the forest ? She is
 surely an illusion produced by the wicked Kakshasas who
@@ -39670,11 +35176,6 @@ ascertain the whole cause.”
 * Canto cxxvii in the Calcutta edition,
 t Atha-vd,
 
-81
-
-
-642
-
 
 CANTO CXXTI-
 
@@ -39682,8 +35183,7 @@ CANTO CXXTI-
 Markaa^eya spoke :
 
 10 Hastening on then he beheld a surpassingly fascinating
-maiden alone in the forest, adorned with every Mnd of ema-
-il meat, seized by Danu’s son Djridha-kesa who bore a staff, and
+maiden alone in the forest, adorned with every Mnd of email meat, seized by Danu’s son Djridha-kesa who bore a staff, and
 screaming out pitifully “ Save me ! save me / ” again and
 
 12 again. “ Fear not ! ” said he to her, and exclaiming “ Thou
@@ -39699,8 +35199,7 @@ Seeing him at hand then, grasping his choice how, the
 14 slender-limbed maiden exclaimed more than once — “ Save
 me ! ” and —
 
-“ Here I am carried off ! I am king Karandhama’s daughter-
-in-law and Avikshit’s wife. I am carried off by this wicked
+“ Here I am carried off ! I am king Karandhama’s daughterin-law and Avikshit’s wife. I am carried off by this wicked
 demon in the forest, — I who belong to a master — as if I belong
 to no master.”
 
@@ -39724,8 +35223,7 @@ with exceeding frenzy, warded them off with a multitude
 of arrows, and hurled his staff that was studded with a
 
 20 hundred spikes at the prince. The prince split it then, as it
-was rushing onwards, with arrows. And he, the Danava, grasp-
-ing aloft a tree that was near, stood firmly in the battle and
+was rushing onwards, with arrows. And he, the Danava, grasping aloft a tree that was near, stood firmly in the battle and
 
 « Or, ** Who is this wicked man, while Karandhama rules this earth as
 
@@ -39737,9 +35235,6 @@ following verses incorrectly.
 
 
 THE GODS PROMISED AVlKSHTT A SOI^.
-
-
-643
 
 
 21 tlien hurled that tree at the pnnce who was discharging clouds
@@ -39836,8 +35331,7 @@ a universal monarch great in valour, who shall please the
 that messenger of the gods prevented me. I did not abandon
 
 39 my body, having nay thoughts fixed ou union with thee. And
-the day befoi'e yesterday, O illustrious one, I went to Ganga-
-hradaf to bathe, and as I went down into the water^ I was drag-
+the day befoi'e yesterday, O illustrious one, I went to Gangahradaf to bathe, and as I went down into the water^ I was drag-
 
 40 ged away by a certain old Naga. He took me then to Rasatala,
 
@@ -39867,9 +35361,6 @@ canto oxxx, verges ll*14.
 AVfKSIIlT MARRIED THE PRINCES??.
 
 
-645
-
-
 commit offence against thy son;, for that reason thou must
 
 44 turn him aside ; let this favour be done ! ’ And ’when I
@@ -39896,8 +35387,7 @@ AviJcshiia^s exploits,
 Amhshit agreed to marry the rescued maiden — The Gandkarvas
 appeared then, and one of them explained she was Ms daughter
 and had been horn as king Vimld*s daughter Bhdvini because
-of Agastya's curse — They were married and lived in the Qan-
-dharva£ world — She gave birth to a son there — All the celestial
+of Agastya's curse — They were married and lived in the Qandharva£ world — She gave birth to a son there — All the celestial
 beings came to the boy^s birth-ceremony, and because of the
 blessings invoked for him from the Marufs he was called Marutta,
 
@@ -39906,8 +35396,7 @@ Mfckandeya spoke :
 1 On hearing this her speech, he remembered his father’s
 fine speech which the king had uttered upon the promise re-
 
-2 garding the “ What-want-ye ” penance, and prince Aviksliit re-
-plied to the maiden, he with mind full of love to the maiden
+2 garding the “ What-want-ye ” penance, and prince Aviksliit replied to the maiden, he with mind full of love to the maiden
 who had also abandoned all enjoyments for his sake, —
 
 B “ When I forsook thee, O slender one, I was vanquished
@@ -39983,9 +35472,6 @@ Poona edithni.
 niRTH OF MAUUm
 
 
-647
-
-
 liand according to the ordinance, and Tnmhurn'* offei^ed
 
 14 up tlie sacrifice there. The gods and Gandhar^as sang forth,
@@ -40004,9 +35490,7 @@ obtained the riches of enjoyment together with him there.,
 
 18 Sometimes he sports with that slender one in a charming grove
 
-19 near the city ; sometimes on a low hill ; J sometimes on a sand-
-bank binghtened by geese and sarasa cranes in a river ; some-
-times near the mansion and in the very resplendent palace.
+19 near the city ; sometimes on a low hill ; J sometimes on a sandbank binghtened by geese and sarasa cranes in a river ; sometimes near the mansion and in the very resplendent palace.
 
 20 In other charming pleasure-grounds he sported in company
 with the slender bride, and she with that higli-souled p'ince.
@@ -40044,9 +35528,6 @@ t ; not in the dictionary. The Poona edition reads nara-
 ** on a choice hill.**
 
 
-648
-
-
 cAHto mvn.
 
 
@@ -40063,15 +35544,13 @@ Yaksbas and Gubyakas, 0 bnibman, and all tbe WindsJ
 those who bad come, all tbe risbis, gods, Danavas and Fagas
 
 30 and tbe mnnis. Tumburn then performed tbe birtb-cere-
-Mony and other rites, and performed tbe rite, ivbicb is pre-
-ceded by praises, to secure good fortune on behalf of that boy,
+Mony and other rites, and performed tbe rite, ivbicb is preceded by praises, to secure good fortune on behalf of that boy,
 saying —
 
 31 “ As a nniversal monarch, great in valour, mighty of arm,
 great in strength, exercise thou sovereignty over tbe entire
 
-32 earth a long time. May Indra and all these other world-
-gnardians and the yishis bestow bliss and foe-destroying
+32 earth a long time. May Indra and all these other worldgnardians and the yishis bestow bliss and foe-destroying
 
 33 valour on thee, O hero 1 May the wind§ tend to wliat is
 auspicious for thee, even the east wind that blows no dust !
@@ -40170,8 +35649,7 @@ joy-t
 8 In the city then there was great rejoicing in the houses of the
 citizens, ivho exclaimed — “ A son has been born to our master! ’’
 
-9 0 great muni. In that glad and opulent city sportive cour-
-tesans of the prettiest forms danced an exquisite dance to the
+9 0 great muni. In that glad and opulent city sportive courtesans of the prettiest forms danced an exquisite dance to the
 
 10 accompaniment of songs and musical instruments. And the
 king with glad mind bestowed on the chief brahmans both
@@ -40204,8 +35682,7 @@ had seen his son’s son and had offered many sacrifices, and had
 * For *rdhyddin4 read ^rghyddindi as in the Poona edition.
 
 t The Poona edition amplifies this and, instead of the second Hue as in the
-Calcutta edition, reads — ‘‘Then he duly paid honour to the assembled Can-
-dharvas with the arghya offering and other pmetits joyfully, a«4 dismissed
+Calcutta edition, reads — ‘‘Then he duly paid honour to the assembled Candharvas with the arghya offering and other pmetits joyfully, a«4 dismissed
 them viith propriety. He continues playing with his grandson, forgetful oi*
 other needs,”
 
@@ -40215,12 +35692,7 @@ I That is Stukra Adarya (comment.). He was the preceptor of the Asarat
 AVIKSHIT BBFUSEB TO BE KING.
 
 
-651
-
-
-18 bestowed gifts on tbose who asked. He had performed all cere-
-monies ; he was united with his feUow-fem^s haTing safe-
-guarded the earth righteously, he had conquered his enemies ;
+18 bestowed gifts on tbose who asked. He had performed all ceremonies ; he was united with his feUow-fem^s haTing safeguarded the earth righteously, he had conquered his enemies ;
 
 19 he was endowed with strength and intelligence. Being desirous
 of departing to the forest he addi*essed his son Avikshit —
@@ -40272,9 +35744,6 @@ dtmd mohdd ca hhavatd,
 
 f Ma hhimtu ,* according lu tlio comincni. this means patra*%irtipiia*hhcda^
 mimhle m.
-
-
-652
 
 
 CANTO CXXYIIL
@@ -40336,16 +35805,12 @@ I For sa loMidm read sadoJeafam,
 MASUTTA BECAME KING.
 
 
-653
-
-
 Canto OXXIX^
 
 MmmUa^s exploits,
 
 Ma '‘%tta reigned as a imiversal monarch — Samvarta was his priest —
-Marutta ivas a great $acrifice}% and a liberal henef actor to hrdh-
-mam — Some verses m his honour are qaoted — But the Ndgas
+Marutta ivas a great $acrifice}% and a liberal henef actor to hrdhmam — Some verses m his honour are qaoted — But the Ndgas
 troubled the rishis grievously, and his grandmother Yird sent him
 a message to ad)mnister justice and secure peace,
 
@@ -40358,8 +35823,7 @@ Karandbama’s exploits and wbat were Aviksbit’s exploits. I
 Aviksbit’s son ; J be is beard of because of his surpassing
 
 3 feats as a universal monarch, of great parts, a warrior, a beloved
-king, high-minded, wise in righteousness and a doer of right-
-eousness, a real protector of tbe earth.
+king, high-minded, wise in righteousness and a doer of righteousness, a real protector of tbe earth.
 
 Markandeya spoke :
 
@@ -40390,14 +35854,10 @@ t For Avlkshlkisfja read A vikshiiasya, Marutta’a father is generally spoken o
 here as Avikshii am? not as Avikshila, The Poona edition reads AvalhshAtasya,
 
 
-654
-
-
 CAKfa cmx.
 
 
-5 Ids own begotten sons. He sacrificed very many sacrifices ap-
-propriately, w'liereat most suitable fees 'were ijiveu away^ as a king
+5 Ids own begotten sons. He sacrificed very many sacrifices appropriately, w'liereat most suitable fees 'were ijiveu away^ as a king
 whose mind took pleasure'*' in the commands of his sacrificing
 
 6 priest and family priest. His discus was unresisted in the
@@ -40414,8 +35874,7 @@ its own business and possessing inches amassed thei*eby, per-
 under high-souled Marutta’s protection entered into rivalry
 with the dwelled in the dwellings of the thirty gods,§ 0 best
 
-10 of twice-born men. Not only were all kings of the eailih sur-
-passed by him, but even the king of the gods was sztrpassed by
+10 of twice-born men. Not only were all kings of the eailih surpassed by him, but even the king of the gods was sztrpassed by
 him as a sacrificer with declarations!! of a hundred sacrifices.lT
 
 11 Now his sacrificing priest was Angiras’ son Samvarta,**'
@@ -40426,11 +35885,9 @@ who was Vrihaspati’s brother, high-souled, a treasure-house of
 t B*or cd'jgy miasi66hm\id read ddsya m viodMundi as in tbe Poona edifcioii.
 
 J The Vishiju Pur. says — he offered an unparalleled sacrifice, his utensils
-were of gold, Indra was intoxicated with his libations of somay and the brah-
-mans were enriched (lY. i). So also Maha-Bh., Asvam.-p. x, 275-92.
+were of gold, Indra was intoxicated with his libations of somay and the brahmans were enriched (lY. i). So also Maha-Bh., Asvam.-p. x, 275-92.
 
-§ It is said in the Maha-Bh., the earth brought forth fruit without plough-
-ing and was garlanded with daitxjas in his reign (S'anti-p. xxix. 910-17).
+§ It is said in the Maha-Bh., the earth brought forth fruit without ploughing and was garlanded with daitxjas in his reign (S'anti-p. xxix. 910-17).
 
 11 i^ata^yajmhhisandhibhih ; the Poona edition reads iata-yajuo ^pi iankiiais,,
 
@@ -40453,9 +35910,6 @@ inauguraiion ccretoony of Indra (Vlil. iv. 21).
 MARUTTA’s mtAT PAMS.
 
 
-655
-
-
 12 austerities. Tbe golden mountain Yunjavaf^ is frequented "by
 the gods ; he struck down its summit md carried it ofif for
 
@@ -40463,8 +35917,7 @@ the gods ; he struck down its summit md carried it ofif for
 and other property and palaces were made brilliant, all golden,
 by that priest at a* sacrifice by means of austerities, 0 brah-
 
-14 man. And in this conneosion^ those who are interested in Ma-
-rutta’s exploits sing songs, while all rishis are carrying on their
+14 man. And in this conneosion^ those who are interested in Marutta’s exploits sing songs, while all rishis are carrying on their
 study without intermission, thus —
 
 15 ‘‘ Equal to Marutta never lived a sacrificer on the face of
@@ -40474,8 +35927,7 @@ the earth — at whose sacrifice his dwelling-house was cast and
 with soma and twice-born brahmans with gifts, and Indra and
 other chiefs of the thirty gods became waiters to the brah-
 
-17 mans. At what king’s sacxifice was everything of gold aban-
-doned, as at Marutta’s sacrifice, by the twice-hom hrdhmans^
+17 mans. At what king’s sacxifice was everything of gold abandoned, as at Marutta’s sacrifice, by the twice-hom hrdhmans^
 
 18 whose houses were stocked with gems ? II And at his sacrifice
 what gold in the shape of palaces and other things was cast as
@@ -40506,11 +35958,7 @@ J Tasya, i.e,, Marntta’s.
 11 For ihe read ratna-pfirna^grikair, as in the Poona edition .
 
 If The Poona edition adds a verse here — The welbbehaved folk, who had
-their thoxights satisfied by what was given away, also offered sacrifices there-
-with in various places separately.”
-
-
-656
+their thoxights satisfied by what was given away, also offered sacrifices therewith in various places separately.”
 
 
 CANTO mm.
@@ -40533,8 +35981,7 @@ not know the wicked and the good becaitse they, thim organs, are
 24 blind hecanse ihoti hast no spies. Now the Ndgas, who have come
 np from Pat41a possessed with frenzy, have bitten seven sons of
 
-25 munis, and have defiled the tanks, and have defiled the clari-
-fied butter offered in sacrifiice with sweat, urine and ordure,
+25 munis, and have defiled the tanks, and have defiled the clarified butter offered in sacrifiice with sweat, urine and ordure,
 Tribute has long been given to the Nagas, thus fully indicating
 
 26 an offence. These munis are able to reduce the Nagas to
@@ -40570,11 +36017,7 @@ t tendhMd read te ndhhdid.
 MABUm ^VA^ BEOtrmtD TO PONfSH THE NaGAS.
 
 
-857
-
-
-30 countiy P ’ He who puts his trust solely in deeds of right-
-eottSBess is besotted. A Mng must talce ^practical notice — ‘ Who
+30 countiy P ’ He who puts his trust solely in deeds of righteottSBess is besotted. A Mng must talce ^practical notice — ‘ Who
 behaves quite properly ? * ‘ Who must be punished ? ’ * Who
 must be protected ? ’ Or^ ‘ What men must be regarded* by
 
@@ -40605,8 +36048,7 @@ blind became thou hast no spies dost not even know it. What
 need of saying mom in this matter ? Let punishment be inflicted
 
 38 on him who is wicked ; pix)tect thou the well-behaved, O king ;
-thou shalt gain the sixth part allowed thee as irihute by right-
-eous law. By witholdiiig piotection thou shalt without doubt
+thou shalt gain the sixth part allowed thee as irihute by righteous law. By witholdiiig piotection thou shalt without doubt
 
 39 fully acquire all the sin that is committed by wicked men
 through unruliness. Do what thou wishest I
@@ -40624,12 +36066,6 @@ atm, “ who ham to consider place and time in this matter by reason of fear les
 my counsel should be divulged.’*
 
 § Or %B mmni for undertaking great trouble.”
-
-
-83
-
-
-658
 
 
 CAKTO CXXI.
@@ -40688,9 +36124,6 @@ have followed, ^
 THE KAGAS besought BHAVJKI FOR PBOTECTIOK,
 
 
-659
-
-
 9 the weapon. Some with the ends of their tails buiming, other
 Fa gas with their hoods hirning, both seized their* children and
 and wives, and abandoned their ornaments and clothing,
@@ -40703,8 +36136,7 @@ prostrated themselves and spoke thus in broken accents ^ —
 
 “ Let that be remembered loMch was formerly declared hy thee
 
-12 to us. What we entreatedf formerly after prostrating our-
-selves in Easatala, the time for that has here arrived ; save ns, O
+12 to us. What we entreatedf formerly after prostrating ourselves in Easatala, the time for that has here arrived ; save ns, O
 
 13 mother of the hero ! Let thy son be turned aside, 0 queen *,
 let us retain]: our lives. All the world of the F%as is being
@@ -40768,8 +36200,7 @@ wounded.
 
 Markai)cjeya sjKike :
 
-22 On hearing that speech of the Kagas w^ho had become sup-
-pliants for protection, and being entieated by his wife, most
+22 On hearing that speech of the Kagas w^ho had become suppliants for protection, and being entieated by his wife, most
 famous Avikshi*^ spoke, —
 
 H I go, lady, and icill with haste speak to that thy son in order
@@ -40828,8 +36259,7 @@ wdth veneration and replied
 
 6 While I rule this earth, they despising my might advanced to
 
-7 the hermitage and bit seven youthful munis ; and the fire- offer-
-ings of these pishis who dwell in the hermitage have been
+7 the hermitage and bit seven youthful munis ; and the fire- offerings of these pishis who dwell in the hermitage have been
 defiled by the evil-behaved Ndgas. while I am reigning, 0
 
 8 king. Morever every one of the tanks has in truth heen
@@ -40858,9 +36288,6 @@ wrath, 0 king !
 * Tb® text reads AviUhi here md in the following places See canto oxxii,
 
 wrse 2, note.
-
-
-662
 
 
 CANTO CXXXi.
@@ -41009,8 +36436,7 @@ means of various “divine hex'bs and by drawing out the poison.
 
 40 The king then bowled at his parents' feet ; and he, Avikskit^
 
-41 embmeing Marutta affectionately spoke thus — ‘‘ Be thou a de-
-stroyer of thj’' enemies’ pride ; long do thou piotect the earth ;
+41 embmeing Marutta affectionately spoke thus — ‘‘ Be thou a destroyer of thj’' enemies’ pride ; long do thou piotect the earth ;
 be thou also merry with thy sons and grandsons ; and may they
 not be haters of thee ! ”
 
@@ -41037,13 +36463,9 @@ t For Bd loMtdm read BadoJcaidnif as m the Poona edition.
 MAE0TTA’s wives and sons,
 
 
-665
-
-
 hing Ketu-viiya was Mb wife, Kekayi also, daughter of
 
-4? Sindlm-virya king of Madra, and Kekaja’s daughter S'airan-
-dhri, afid Tapusli-mati, daughter of the lord of Sindliu,*^ mere
+4? Sindlm-virya king of Madra, and Kekaja’s daughter S'airandhri, afid Tapusli-mati, daughter of the lord of Sindliu,*^ mere
 also Ms wives | and Sii-sobhana, daughter of the king of C%di,
 
 48 was his wife. And his sons by those queens became eighteen
@@ -41064,8 +36486,7 @@ freed from all offences.
 Canto OXXXILf
 Narisliyantais exploits,
 
-Marntta gave the Mngdom to his son Narishyanta — •Narishyanta resolv-
-ed to do somelgreat deed and performed a great sacrifice at which
+Marntta gave the Mngdom to his son Narishyanta — •Narishyanta resolved to do somelgreat deed and performed a great sacrifice at which
 he enriched the hrdkmans for life — Gonsequently he could not
 induce any hrdhmam to attend a second sacrifice except after great
 difimdty--^All hrdkmans then were themselves ofiering sacrifices,
@@ -41092,14 +36513,10 @@ also Ms wives J’
 t Canto cxxxhi in the Oalouttfi editio:: ^
 
 
-660
-
-
 TANTO eXXXil.
 
 
-2 I wisli to liear of tho^^e among liis ciescendaBts, as thou cle-
-seribesi them, who were lords of the earth, worthy of soTcreigiity,
+2 I wisli to liear of tho^^e among liis ciescendaBts, as thou cleseribesi them, who were lords of the earth, worthy of soTcreigiity,
 mid endowed with valour, 0 great mniii.
 
 llarkandeya spoke :
@@ -41109,8 +36526,7 @@ llarkandeya spoke :
 4 eldest and indeed the best of the eighteen sons. And for
 eighty-five thousands of years the lordly kshatriya Mariitta
 
-5 enjoyed the entire earth. After ruhng tlie kingdom accord-
-ing to his own righteousness, after oifering peerless sacrifices,
+5 enjoyed the entire earth. After ruhng tlie kingdom according to his own righteousness, after oifering peerless sacrifices,
 he anointed his eldest son Narishyanta as king and departed to
 
 6 the forest. With his mind concentrjited on one idea the king
@@ -41147,8 +36563,7 @@ then shall I do, that has not been done by those ancestors, who
 
 16 were sacrificers, choice men, gentle, and who turned not back
 
-^ He and his descendants are given in Tishiju Pur. IV. i. He must be dis-
-tinguished IroTO Narishyanta or Harishya one of the sons of Maim Valvasvafca
+^ He and his descendants are given in Tishiju Pur. IV. i. He must be distinguished IroTO Narishyanta or Harishya one of the sons of Maim Valvasvafca
 
 see page 58S.
 
@@ -41158,15 +36573,11 @@ t For tma read tair yai as in the ^pombay eclifebp.
 KAHISHYANTA WAS A GEEAT SACEIFICER.
 
 
-667
-
-
 from battle, wliose manliness did not fail in great battles and
 conflicts'^ ? Witli whose deed shall I coming striye nnappal-
 
 17 ledlj? Moreover those kings, my ancestors, themselves
-performed sacrifices nnweariedly, but did not have them per-
-formed by others ; I tvill do that.”
+performed sacrifices nnweariedly, but did not have them performed by others ; I tvill do that.”
 
 Markandeya sp ke
 
@@ -41199,8 +36610,7 @@ as sacrificial priests. He began then to give a gift on the
 
 25 space outside the sacrificial altar. Neverthless they did not
 accept it at all, having their houses full of wealth.- In order
-to give again to a twice-horn brahmmi he spoke thus, being de-
-jected, —
+to give again to a twice-horn brahmmi he spoke thus, being dejected, —
 
 26 “ Alas ! it is very splendid that there is no i)oor brahman
 anywhere in the earth: and it is not splendid that this
@@ -41209,8 +36619,7 @@ anywhere in the earth: and it is not splendid that this
 
 « For mahaUsangrmnmsamsargd vkamvdditmpam'usihdk read mahat-^mh^
 
-grdma-sammardeshv avisa'ihvddi-paunf/shd^ as in the Bombay and Poona edi-
-tions.
+grdma-sammardeshv avisa'ihvddi-paunf/shd^ as in the Bombay and Poona editions.
 
 t For dritijiiadcormaid read drtinjyu-hamanu
 
@@ -41235,8 +36644,7 @@ at his own sacrifice. They pei’formecl the great sacrifice.
 the king took place, all folk of the twice-born on the earth
 
 30 were offering sacrifices at that time ; no one was present m a
-spectator thereat. Some of the twice-born were having sacri-
-fices offered, and some of them were themselves offering sacri-
+spectator thereat. Some of the twice-born were having sacrifices offered, and some of them were themselves offering sacri-
 
 31 fices. Whenever king Narishyanta saciificed, people might
 make a sacrifice on the earth entirely with the riches given by
@@ -41335,9 +36743,6 @@ tt read as in the Poona edition. He is
 mentioned in th5 Mah&-Bh , as having a famous hermitage near Mount
 
 
-670
-
-
 CAKTO CXXXIU.
 
 
@@ -41365,8 +36770,7 @@ force and go home. She shall be his among us, whom she,
 that he shall he her husband according to the ordinance of the
 svayam-vara — his wife she shall be, delivered over according
 
-15 to righteousness by our wish. Yet if that maiden of intoxi-
-cating eyes does not desire any of us, then she shall be his who
+15 to righteousness by our wish. Yet if that maiden of intoxicating eyes does not desire any of us, then she shall be his who
 shall slay Dama.”
 
 Markandeya spoke :
@@ -41439,10 +36843,8 @@ affection the Gandhaiwa ceremony of marriage is ordained for
 24 kshatiuyasjt but it is not for vaisyas, Mdras or twice-born
 brdhnians. And it has been effected by this tlij daughter in
 
-25 that she has preferred Dama. Thus according to righteous-
-ness this tliy daughter belongs to Dama, 0 king. He who
-behaves otherwise, pi’oceeds through infatuation as one licen-
-tious in soul."
+25 that she has preferred Dama. Thus according to righteousness this tliy daughter belongs to Dama, 0 king. He who
+behaves otherwise, pi’oceeds through infatuation as one licentious in soul."
 
 26 And others, high-souled kings, who belonged to the party of
 the hostile kings, spoke this speech to the king of Dasarna, O
@@ -41532,9 +36934,6 @@ I For hhujdmydm read hhujdhhydm^ as in the Foona edition*
 dama's battle with the kings.
 
 
-673
-
-
 fatiiation take my wife and depart while I live, shame on my
 useless possession of a bow ! ”
 
@@ -41545,8 +36944,7 @@ then addressed all those other kings with Mahananda at their
 form, and with intoxicating eyes ; what has he to do with life,
 
 42 to whom this high-born maiden becomes not wife ? Thinking
-thus, 0 kings, so strive ye in combat that ye may by vanquish-
-ing me proudly make her your wife.”
+thus, 0 kings, so strive ye in combat that ye may by vanquishing me proudly make her your wife.”
 
 4»3 Having challenged them thus, he then discharged a shower
 of arrows there, covering the kings thereioitli as a storm of rain
@@ -41591,9 +36989,6 @@ t See p* uote §• *
 ^ 85
 
 
-674
-
-
 r^KtO
 
 
@@ -41620,8 +37015,7 @@ time there in the city of the king of Ba4arna, and departed with
 02 his wife to his own abode. And the king of Ba^arna§ gave
 him elephants, horses and chainots, cattle, horses, asses nnd
 
-08 camels, and many slaves both female and male, plothing, orna-
-ments, bows and other apparel^ the choicest household ntensils
+08 camels, and many slaves both female and male, plothing, ornaments, bows and other apparel^ the choicest household ntensils
 of his owm ; and sent him away, replete also with those otlier
 vessels.
 
@@ -41631,8 +37025,7 @@ Cakto CXXXIY.H
 
 Damais exploits.
 
-T>ama reUmied heme inmnpJimit — NarisJiymita transferred the king-
-dom to him and retired with his qneen hidra-send to the forest —
+T>ama reUmied heme inmnpJimit — NarisJiymita transferred the kingdom to him and retired with his qneen hidra-send to the forest —
 * Ha^^godarah^
 
 t For hara^ldlam^ which form is not in tlie dictionary, read harad.Ktiena or
@@ -41664,8 +37057,7 @@ before her parents-in-lavv. And they were both -welcomed then
 3 with blessings by them both. And a great festival was held
 in Kaiishyanta’s city itself, since JDama had both maiTied a
 
-4 wife and arrived from the city of the king of Dasarna. On hear-
-ing that he was thus connected ly marriage with the lord of
+4 wife and arrived from the city of the king of Dasarna. On hearing that he was thus connected ly marriage with the lord of
 Dasarna and that the kings were defeated, king ISTarishyanta
 
 5 rejoiced with his son. And Dama, son of the great kingj
@@ -41688,8 +37080,7 @@ most evil in conduct, went to the forest to kill deer, with a small
 10 body of followers. He saw Harishyanta as an ascetic dirty
 and mud-covered, and his wife Indra-sena most extremely
 
-11 weakened by austerities, and asked, — “Who art thou, a hrdh-
-man, or a forest-wandering kshatriya, or a vaisya who has
+11 weakened by austerities, and asked, — “Who art thou, a hrdhman, or a forest-wandering kshatriya, or a vaisya who has
 
 12 reached the vana-prastlia stage ?% Tell me ! ” The king,
 beixig under a rule of silence, gave him no answer at all then .
@@ -41704,9 +37095,6 @@ Markaiajoya spoke :
 ^fVQVvd^aprasthatren>Avtiiiap>rmtha,
 
 X for vdfaprmihmn read vmuprasthyam t
-
-
-676
 
 
 CAHTO CXXXIT.
@@ -41772,9 +37160,6 @@ of ndsU*,
 VAPUSH-MAT MUllDEEEI) NAKISHYANtA.
 
 
-677
-
-
 do tlLon that whereby righteousness may not be violated — so do
 
 27 tbou ! I must not* * * § say more than this, for I am an ascetic. And
@@ -41829,9 +37214,6 @@ in this story.
 i| For fitari read pitaram S'alctim as in the Poona edition.
 
 
-678
-
-
 CANTO CXXXV.
 
 
@@ -41865,8 +37247,7 @@ Dama blazed oat with exceeding wrath, as fire is intenBified||
 the fire of wrath, 0 great muni, crushed his himds together
 and spoke out this speech ; —
 
-3 “ Like a master-less wretch mj dear father has been slaugh-
-tered, while I his son actually live, by a very cruel man who has
+3 “ Like a master-less wretch mj dear father has been slaughtered, while I his son actually live, by a very cruel man who has
 
 4 overwhelmed my family. Let not people utter the calumnyllf
 that I, such as J am, condone this by reason of impotence. I am
@@ -41879,8 +37260,7 @@ miritc tn s but both seem corrupt.
 
 t Canto oxxxvi in the Calcutta edition.
 
-J The Bombay and Poona editions make the sioty more precise by insert-
-ing a verse here — ” That siidra ascetic as commanded by Indra-sona went
+J The Bombay and Poona editions make the sioty more precise by inserting a verse here — ” That siidra ascetic as commanded by Indra-sona went
 and relates to Dama his father’s death as narmtud above.”
 
 § For samdkhydtam hndham read samdkhydte hadhc as in the Poona
@@ -41893,9 +37273,6 @@ edition.
 
 
 0AMA VOWED VENGEANCE AGAINST VAPtJSH-MAT.
-
-
-679
 
 
 Wiiai IS the good tliea of this niiicli lamentation ?
@@ -41914,8 +37291,7 @@ Vidyadharas, and Siddhas give him assistance, even them also
 T, such as I am., possessed w’ith fury will reduce to ashes with
 
 9 multitudes of weapons, 1 will kill in battle that king of the
-Southern country, who is cruel, very nnrigliteousj and un-
-woxthy of praise, and I will then enjoy the whole earth also ;
+Southern country, who is cruel, very nnrigliteousj and unwoxthy of praise, and I will then enjoy the whole earth also ;
 
 10 or failing to kill him I will enter the fire. I will forthwith
 slay him, most evil-minded, who slaughtered an old man
@@ -41933,8 +37309,7 @@ battle, with that king's blood ** ? The Bombay and Poona editions omit the
 second quarter-verse and read as the third quwrter-veraekurydm pitus tasya <Sa
 piy<fa.Hidnam, “ Let me with his blood make the water-oblation, and with his
 flesh a fitting feast to brahmans and the oblation of the funeral cake to that
-father of mine ; if not, then I will enter the fire I ** Tasya in the first quarter-
-verses may refer to but by position tasya 'tndmsena corresponds to
+father of mine ; if not, then I will enter the fire I ** Tasya in the first quarterverses may refer to but by position tasya 'tndmsena corresponds to
 
 taS-chemitena ; the result is extraordinary, but see verses 34 to 36 on page
 688 below.
@@ -42013,9 +37388,6 @@ former editaoas, noting only such variations as appear wo|fehy of notieoi.
 I>A¥A’s ■EXPEDTTIOK against ?a?bsh*atat.
 
 
-681
-
-
 Dama spoke :
 
 3 Tell me wliat skouM be doae in tins matter^ now tliat my
@@ -42057,8 +37429,7 @@ Serpent king, Dama advanced against Vapush-mat, while
 slaying the wardens on his boundaries and other neighbouring
 princes^ and hastening^ towards the southern region.
 
-13 Seeing him approaching, Vapush-mat was filled with pa-
-tience ;t 8>nd Satikrandana’s son Vapush-mat recognized Dama,
+13 Seeing him approaching, Vapush-mat was filled with patience ;t 8>nd Satikrandana’s son Vapush-mat recognized Dama,
 who had arrived attended by his retinue, by his ministers, and
 
 14 by his dependants. With unwavering mind he directed his
@@ -42068,8 +37439,6 @@ armies ; and issuing from his city he despatched a messenger to
 t MurBha*'pttnt<tf^* This is hardly appropriate, unless it means “ was filled
 
 with' caution.’*
-
-86
 
 
 682 CAHTO cxxxvr.
@@ -42133,20 +37502,15 @@ admissible,
 DAMANS VENOEANOE ON VAPUSH-MAT.
 
 
-688
-
-
 pierced iliem also witli oilier arrotos. In tliat way he bronglii
 
-28 down to Yania’s abode the seven sons, the relations and kins-
-men and friends,'* * * § each with a single arrow, O dvija,
+28 down to Yania’s abode the seven sons, the relations and kinsmen and friends,'* * * § each with a single arrow, O dvija,
 
 29 And V apiish-mat after his sons and kinsmen had been killed,
 mounted in a chariot fought wrathfnlly with him in battle
 with serpent-like arrows.f And Dama split those his arrows,
 
-30 0 great muni.J And those two fought together, being ex-
-asperated, wishing to conquer each other, each one’s bow being
+30 0 great muni.J And those two fought together, being exasperated, wishing to conquer each other, each one’s bow being
 quickly split by the impetus of the other’s arrows. They both,
 
 31 great in strength, grasping their swords, made pday. § Dama,
@@ -42155,8 +37519,7 @@ reflecting for a moment on the king his father who had been
 32 killed in the forest, || seized Yajpnsli-mat by the hair and attacked
 him and felled him to the earth ; and with his foot on his neck,
 
-33 raising his arm he exclaimed, — “ Let all the gods, men, Ser-
-pents mid birds see the heart also of Vapusli-mat, who is of
+33 raising his arm he exclaimed, — “ Let all the gods, men, Serpents mid birds see the heart also of Vapusli-mat, who is of
 
 34 kshatinya caste, split open 1 ” And so saying Dama tore open
 his heart also, and desirous of drinking^ was forbidden by the
@@ -42211,8 +37574,7 @@ Jciimhti thuuJes them and
 
 The Birds spoke :
 
-1 Having spoken thus, 0 Jaimineya,t the great muni Mar-
-kandeya let the muni Kraushtuki depart, and performed the
+1 Having spoken thus, 0 Jaimineya,t the great muni Markandeya let the muni Kraushtuki depart, and performed the
 
 2 mid-day ceremony. From him we also have heard what we
 have declared to thee, 0 gieat muni. For this was perfected
@@ -42263,8 +37625,7 @@ Tiieref are eighteen Puranas which the Forefather spoke.
 8 Kow the seTeiith of them is to he known as the very famous
 Markandeya Fiivdna.X They are the Brahma, the PMma, and
 
-9 the Yaishiiava, the S'aiva and the Bhagavata, and also the Nara-
-diya besides, and the Markandeya as seventh, the A'gneya which
+9 the Yaishiiava, the S'aiva and the Bhagavata, and also the Naradiya besides, and the Markandeya as seventh, the A'gneya which
 was declared the eighth, and the Bhavishya ninth, the Brahma-
 
 10 vaivarta tenth, the Lainga known as the eleventh, Yaraha cle-
@@ -42295,8 +37656,7 @@ rurdm ; md a nmu attains to a benefit superior to all the Yedas
 may cause it to be heard, as he worships the divine Fore-
 
 * The Calcutta Appendix here introduces laimini’s reply wliicli is at page
-688 ; and puts wliafe follows here regarding fclie Puranas as a separate pro-
-nouncement hy Brahma.
+688 ; and puts wliafe follows here regarding fclie Puranas as a separate pronouncement hy Brahma.
 
 t The Calcutta Appendix puts all that follows down to verse 30, and also
 the concluding two verses, into the mouth of Brahma, and places it at the
@@ -42311,17 +37671,13 @@ II This verse and the nest are not in the Calcutta Appendix, ^
 f See p* 306, note ||.
 
 
-686
-
-
 CANTO CXXX?IL
 
 
 father, perfumes and flowers and with gifts of clothing
 
 18 and with gratifications to brahmans. And kings should give
-according to their ability villages and other lands and car-
-riages.f After hearing all this Piirana, which is augmented
+according to their ability villages and other lands and carriages.f After hearing all this Piirana, which is augmented
 ivith the objects of the Veda and which is the sole abode of
 the Dharma-sastras, a man may obtain every object, J After
 
@@ -42340,8 +37696,7 @@ the Fill'd na out, hears a single verse, acquires no merit ; verily
 gladden, nor the Pit|ris, with sons ; and they desire not j| the
 ^raddha given hy him nor the benefit gained by bathing at
 
-23 sacred places of pilgrimage. He incurs the censure of a Scrip-
-ture-thief in an assembly of good men. Wise men must not
+23 sacred places of pilgrimage. He incurs the censure of a Scripture-thief in an assembly of good men. Wise men must not
 
 24 listen to this scripture with contempt; but wdien this noble
 scripture is contemned as it is being read by sages 5^ the offender
@@ -42375,9 +37730,6 @@ II Oa ne66ha7iti o£ the Calcutta Appendix is better than tathe^ehanii*
 The Calcutta Appendix reads—** Moreover until seven Manus are
 
 
-687
-
-
 ENGOMIUM ON THIS PUEANA.
 
 28 No gift slioiild be made to an atheist, to one fallen from
@@ -42392,8 +37744,7 @@ certainly no gift must be made, even when one’s life is at its
 last gasp.
 
 30 If entirely through covetousness or infatuation or fear one
-should read thh Purdna or cause it to be read, he may assured-
-ly go to hell.
+should read thh Purdna or cause it to be read, he may assuredly go to hell.
 
 Markandeya spoke :
 
@@ -42401,8 +37752,7 @@ Markandeya spoke :
 heaven and final emancipation from existence. Who hears it
 
 32 or may read it, his earnest endeavour is achieved ; he is never
-affected by the pain of mental or bodily sickness j he is deli-
-vered from brahmanicide and other sins, there is no doubt
+affected by the pain of mental or bodily sickness j he is delivered from brahmanicide and other sins, there is no doubt
 
 33 of this. Good men become Ms kindly * friends, affectionate
 
@@ -42421,8 +37771,7 @@ fort line, noxnisli ment, and contentment — may each of these
 36 be his continually, who hears this story, 0 bx-ahman ! , Tbe
 man who hears the whole of this Mai’kandeja Parana is not
 to be lamented ; nor is be indeed to be lamented who recites
-this poetical work properly, O dvija. Endowed with perfec-
-tion that is purified by knowledge of religious devotion, J
+this poetical work properly, O dvija. Endowed with perfection that is purified by knowledge of religious devotion, J
 and surrounded even in Svarga and the other worlds by Indra
 
 be may, after enjoying delights according to bis wishes, and after enjoying the
@@ -42433,9 +37782,6 @@ very earth, attain to supreme nnion with the nniversal soul.”
 f Saihartho ; or perhaps “ being in good circumstances *’ ?
 
 J Or “ possessing pure success in tbe knowledge of religion? devotion/’
-
-
-688
 
 
 CANTO CXXXYII.
@@ -42463,8 +37809,7 @@ Jaimim spoke :
 and are clever in knowledge and intelligence. And thus let
 there be unerring intelligence in the application of tbe
 
-42 Safikhya doctrine to the knoivledge of spirit ! Let evil-minded-
-ness that springs from pain wronglit by a father’s curse depart
+42 Safikhya doctrine to the knoivledge of spirit ! Let evil-mindedness that springs from pain wronglit by a father’s curse depart
 fi’om you ! ” J After speaking this much the muni went to
 his own hexunitage, pondering over the speech uttex’ed by the
 Bii^ds, which was sublimely noble.
@@ -42482,9 +37827,6 @@ Calcutta Appendix.
 
 
 END OP THE PURANA.
-
-
-689
 
 
 DIFFEEBNT ENDING
@@ -42517,7678 +37859,9 @@ verses 31 to 37 on page 687 above. The Piirana ends with them according to
 the Calcutta edition.
 
 
-87
-
-
 69(1
 
 
 IKDUX.
 
 
-Kote to the Inpex.
-
-The system of transliteration followed in this translation is one
-that was in use formerly, yet has not been quite uniform. The trans-
-literations of Sanskrit words contained in this Index have been re-
-vised and are brought into agreement with the system tliat is now
-approved by the Asiatic Society of Bengal and the Eoyal Asiatic*
-Society. Sanskrit words are printed in the Eomaii character ; ail
-other words are put in italics, whether vernacular or English, Latin
-or Greek, and the spelling of vernacular wmrds is generally that in
-common xise.
-
-The locality of geographical names is indicated by the letters
-{Madhya-de.^), (Central India), and N., S., E., W., NE., NW., SE.,
-and SW. which explain themselves.
-
-
-Ahhreviations used*
-
-
-aps, Apsaras,
-h. brahman.
-hd, bird.
-
-c. conntrj’.
-
-<*er. cereal.
-
-cst. constellation, asterism.
-
-d, demon (Daitya, Danava, Asura,
-liaksasa).
-
-(hh demi-god, celestial being,
-di, district.
-dyn, dynasty.
-
-/. family
-
-/.(L female demon.
-
-/or. forest.
-g* god.
-gh, goblin,
-gdh* gandharva.
-
-gr, grass.
-
-gs, goddess.
-k hill.
-
-hh, herb.
-i$l, island.
-
-
-h. king.
-hst ksatriya.
-
-l, lake.
-
-m. man.
-
-mt, mountain.
-mis, mountain-range.
-
-p. people.
-
-pai. patronymic.
-pfn, personification.
-pi, place,
-pr. prince.
-prs, princess,
-pa. person.
-pt plant.
-
-q. queen.
-
-r. river.
-rs, rsi.
-
-sf, sacrifice.
-t town, city.
-
-ti. tfrtha, place of pilgrimage.
-tr, tree.
-w, woman.
-
-
-IHDSX.
-
-
-mi
-
-
-INDEX,
-
-
-AbM-jit csL 170.
-
-Abhim p. NW, M. ai2»314.
-ibbira p. S. 334, 362.
-
-Abhisaha p. -NW ? 382.
-
-Abhisara c. NW. 382.
-
-Abhisari t NW. 382.
-
-Abiivaka pt 25.
-
-Abu mt W. 289, 340.
-
-Acara, see Custom.
-
-Acridothere's hd, 49, 58.
-
-Adhaka, -ki pt 244, 245.
-
-A^bakya p. S. 334.
-Adhama-kairata p. N. 369, 379.
-A-dharma pfn, 247, 260.
-Adhraraka ? p* E. 324.
-
-Adi M. 58.
-
-Adibi gs. 550-552, 559, 560, 563-566.
-Aditya g. 168, 461, 555, 582, 686.
-Add d. 425.
-
-Adrija r. 296.
-
-JEgle tr,, see Bilva.
-
-Aganosma pt.^ see Malati.
-
-Agasbya rs. 270, 293, 601-603, 645,
-646.
-
-Agasbya rs* 603.
-
-AgeSf the Four, 32, 218, 224, 226,
-^ 347, 387, 437.
-
-Agneya p. N. 378.
-
-Agni a. 10, 23, 152, 247, 249, 270,
-387, 398, 399, 445, 447, 460, 473,
-474, 489, 496, 512, 524, 632, 635,
-539-548, 561, 562, 582, 621.
-
-Agni rs. 442.
-
-Agnidbra h. 271-274.
-
-Agnliya ? p, N. 378.
-
-Agnisvatta pUfSj 270, 533.
-Agrabayaiil cst. 355.
-
-Abalya b, w. 22.
-
-Abankara 190, 217, 220-223.
-Abiccbatra c. M. 353, 378.
-Abiccbatra t M. 363,
-
-Alnr p., see Abbira.
-
-Ahmadnagar i W. 289.
-
-Abuka p. W. 324,
-
-
-Aila h 146.
-
-Ailika ? p. SE. 360.
-
-Aindra pL 246.
-
-Aindra cst 374
-Air 217, 221, 222.
-
-Airavata elepK 474, 494, 650.
-Aislka ? p. S. 334.
-
-Aja {=zSun) 662, 672.
-
-Ajamidba h 363.
-
-Ajanta h. W. 288.
-
-A|aras rs. 260. ,
-
-Aiyapapi^fs, 533.
-
-Akaninp. G? 363.
-
-Ahesines r. XW. 291.
-
-Akrimi, village^ 242.
-
-Alakauanda r- N. 281.
-
-Alarka k, 93-109, 142-145, 148,
-151, 155, 170, 171, 180, 186-190,
-194, 198-202, 207, 210-216.
-Alavu pt 118, 166.
-
-Ali, AH dg. 407.
-
-Alimadra ? p. X. 322.
-
-Allahcbhad t. 310.
-
-Almond tr, 26.
-
-Almora t K 288, 316.
-
-Alms 203, 685-687.
-
-Alstonia tr. 27.
-
-Aldka? p. NW. 375.
-
-Alwar dt, M. 288, 307.
-
-Amalaka tr. 26, 26.
-
-Amara-kantaka mt. .0. 298, 331,
-334.
-
-Amaravaii r, S.304.
-
-Amaravatl t. S. 337.
-
-Amba, see Ambika.
-
-Amhdla t. and p. bT. 321, 347, 379.
-Ambarisa k. 462.
-
-Ambastba p. NW. 323, 333, 377-
-380.**
-
-Ambbodbi d. 262.
-
-Ambika gs. 476-482, 487, 488, 494,
-^8, 602, 607-611, 516.
-
-Ambuja pt. 29.
-
-Ambupa/.d. 262.
-
-Amiba gods, 465.
-
-Amibabha A% 449.
-
-
-INDEX.
-
-
-Amitabha gods^ 464.
-
-Amla ir. see Anialaka.
-Amla-vetasa pb 25.
-
-Amogba r. KW. 389.
-
-Amra tr, see Ararataka.
-
-Amrataka ir, 23,
-
-Amra-vana/or. W.? 600*
-Amiirtarajas Ic, 328.
-
-A.miirtarajas h, 329«
-
-Anagiia rs. 270.
-
-Anala d. 262.
-
-Aiiamitra h 450.
-
-Ananda h, and c. 273.
-
-Ananda h, 451-453.
-
-Ananda. p, I^E. 383.
-
-Aua ncliiii r, 294*
-
-Anaiita. g. 482.
-
-Aiianta {=8esa), 600.
-
-An-jiraiija l\ 551.
-
-Anarta l\ 368.
-
-Anarta c. and -p, 289, 340, 344, 352,
-
-368, 371, 463.
-
-Anas hd. 30.
-
-Aiiasn3"a w, 91, 95-99, 249, 269,
-Allay ns 146.
-
-And’haP p. S. 337.
-
-Andhaka j;. W. 309, 324, 336, 337.
-Andliaka A:. 352,
-
-Andhaka d. 479.
-
-And}ia-tami.sra fielU 152.
-
-Andlirap. SE. 324, 337, 361, 367.
-Andhravaka p. 324.
-
-Andropogon gr, 79,
-
-Aiiga Ar. 325.
-
-Aiiga p, and c. H. 324-329, 331,
-
-369, 464, 655.
-
-Anga h ? 116.
-
-Anga F p» N. 373.
-
-Anga-dhrs d, 257, 258, 263,
-Anga-loka pi, W. 373.
-
-Angataka ? p, W. 373.
-
-Anger (Ki'odlia), 15, 16, 250.
-Angiras rs, 108, 246, 249, 269, 435,
-
-462, 539, 625, 653, 654.
-
-Angiras demii-gods^ 461, 462.
-Angirasa/. 588, 653.
-
-Aniblia prs. 627.
-
-Amkata p. W. 338.
-
-Anila d, 262.
-
-Aiiimadi’ap. N, 322.
-
-Anjana mt NW. 279.
-
-Aiijaiia mi, E. 356.
-
-
-Ailjanabha mii, 356,
-
-Aimaclaraka P p. 383.
-Animja p. G. 314.
-
-Awser hd, 30, 409, 410.
-
-Ani, 147, 170, 206, 210.
-Aiituh-.^la, -sira r. EP 301,
-Aiitar-dvipa p. ISF. 378.
-Antar-giri dt, N. 325, 328.
-Aiitar-giri jj. E. 325.
-
-Aiitargirya E. SOI, 324, 32 V.
-Antelope 31, 164, 181.
-Anihocephalus tr, 25.
-
-Antra-sila r, E ? 301.
-
-Antyagirap r, EP 301.
-
-Aim cer. 165, 2M, 245.
-
-Aimgralia, 228, 231.
-
-Aiiiiiirada pr. 146.
-
-Ammiati pfn. 178.
-
-Anupa (*. W. 344, 371.
-
-Amiradlul csf, 169, 370.
-
-Aiiiivindu A;. 345.
-
-A]iaga r, M, 293.
-
-Apaga r. NW. 316.
-
-Ai)akara d. 267.
-
-Apaua, viial air, 203.
-
-Ajiara p, 313, 372.
-
-Apara-efiia p. NE. 319.
-Apara-nnitsya p. M. 309.
-Apara-naiida r, N. 369, 383.
-Aparautap. W. 313, 371.
-Aparantika p. W. 371, 372.
-
-A I )avi ta p. N W. 3> 1 35
-A pallia j). N. 3-16.
-
-Apimvaiia rs, 656.
-
-Apratisfka pL 7i. 73.
-
-Apsaras, 2-8, 2'1‘, 68. 7<s*. 236, 39 1 ,
-393, '(.iS, 127, <1^1, 511, 53H, 559,
-571 , 6 9), 6 1-7.
-
-Apyayani, 70.
-
-AravJmechikra hd, 80,
-
-Arand r, G. 296.
-
-Arattia c. and p. NW, 311.
-
-Aravulli mis, 286, 289, 312, 338.
-
-340, 349, 369.
-
-Arbiida mi, W. 289, 340.
-
-Arbuda p, W. 340.
-
-Arco^. di. S. 332,
-
-Ardaiia? p, N. 378.
-
-Ardea M. 58,
-
-Ardeola bd. 59, 86.
-
-Ard!ia-biri/.(i 265.
-
-ArdrS csi, 16!5 358.
-
-Arglia, Arghjii 18, S8.
-
-
-m
-
-
-!Ni>Ex.
-
-
-156, 161, 162, 423-429, 446,
-f^gigaP p. WP368. [681,633!
-
-Ari-mardana pr. 143.
-
-■Arista Ic, see Nabliaffarista.
-
-Aristanemi 6. '
-
-(KartavTrja) l\ 101, 106-
-i 08, 310, 333, 344, 351, 371, 656.
-Arjiina (Paiidava) Jc. 8, 23, 24,
-316, 322, 359, 363, 379, 384, 629.
-Arka-imga p. M. 30d.
-
-Arm/i t M. 382.
-
-■Arstisena k. and rs. 669, 670.
-Artha-karaka k. and c. 273.
-Artocarpus tr, 25.
-
-Af'U/iiy, pt, 178.
-
-Aruua g. 559.
-
-Aruua mt. N. 351 , 382.
-
-Aruna d. 518.
-
-Aruiiaksa d. 518.
-
-Aruuaspada t. N. 392, 395.
-Arundhati star, 207.
-
-Arupapjp. C ? 344.
-
-A-rapa/.c?. 267.
-
-Arvavira rs. 270.
-
-Arya race, 290.
-
-Arya, gods, 454.
-
-Aryaman gr. 163, 645, 582.
-
-Asadha cst. 170, 374, 376.
-
-Asikni r. NW. 291.
-
-Asi-loman d. 476, 480
-Asi-patra/or. 64, 71-74, 83.
-
-Aslesa cst. 169, 361.
-
-Asmaka p. M. 352.
-
-Asinaka p. S. 336.
-
-Asmaka L 336.
-
-Asmaka, p. S. 336.
-
-AimakI q. 337.
-
-Asoka tr. 25, 26, 364.
-
-Aapiaragus pit. 166.
-
-Aspasii p. NW. 374.
-
-Asrama 148-151, 246.
-
-Ass, 83-85, 209, 235, 255.
-
-AssaJcani p, ISTW. 374.
-
-Assam, 382, 411.
-
-Asta-giri mt. 371.
-
-Asta-parvata mt. 371.
-
-Asterisms, 168-170.
-
-Astrologer, 680, 626^ 630, 631.
-
-104, 115, 120, 152,
-201, 232, 233, 236, 328, 383 416
-515-519; Si
-®58, 560, 565.
-605, 611, 648, 650, 677, 679.
-
-
-Asvaka p, NW. 307, 374.
-Asvakalanata p. NW. 374.
-Asva-kesa p, W ? 374.
-
-Asva-kutajp. M. 307.
-
-Asva-niuklia p. W. and N. 358.
-378, 381.
-vataka p, M. 307.
-
-Asvatara L 109, 125, 127, 130, 132,
-135-139.
-
-Asvattlia ir, 277.
-
-Asvatthaman b. 464.
-
-Asvini cst 170, 384.
-
-Asvins g, 22, 55, 109, 392, 460, 461,
-574-576, 626.
-
-Atavi t, S. 334.
-
-Atavya p. S. 334.
-
-Atharva Veda, 236, 404, 554.
-Atharva jp, M. 308.
-
-Ati-namaii rs. 454.
-
-Ati-ratra h, 426.
-
-Atithi 153.
-
-Ati-vibhuti h 623.
-
-Atom 128.
-
-Atrai r. E. 320.
-
-Atreya p. IST. 320, 347.
-
-Atreyi r. E. 3*20.
-
-*»5, 96, 99, 102, 161, 154,
-246, 249, 2_69, 320, 462, 570, 621.
-Atri p., see Atreya.
-
-Atta>khaudika ? j?. NW. 314.
-Audumbara p. M. ? 355.
-Aukhaviina p. S. ? 366.
-
-Auadrfimasa p. M.p 342,
-
-Anpadha p. N. 322.
-
-Aurangabad t W. 288.
-
-Aiirva rs, 656, 658.
-
-Auttama, Maim and manvantai'a,
-2a, 419, 426, 429, 432, 435-437,
-549.
-
-Auttana, see Auttama.
-
-Auttanapadi k. 421.
-
-Avahana offering, 156,
-
-Ayanta ? p. M. 308.
-
-Avanti r. M. 295.
-
-1^- ^05, 3SS, 340-345,
-
-371.
-
-Avaixtya p. M. 340.
-
-Avarap. W". 372.
-
-Ayariii r. M. 295.
-
-Averrhoa tr. 24.
-
-* b28, 631,
-
-Avik?! ] 63#-642, 645-
-
-nksit,-ta (
-
-
-6-5i 6.58-664. ’
-
-
-694
-
-
-IKBEX.
-
-
-Aviksit {son of Kuru) pr,
-
-Aviksita pat 652. 653.
-
-Aya (1. 636.
-
-Ayah r. NW. 316.
-
-Ayati ys, 269.
-
-Ayocihya {. 57, 58, 308, 352,353, t3ri.
-Ayiir-Yeda, 404-406,
-
-Babbru h, 591.
-
-Babhini At, 669,
-
-Babbru (Siva) g. 515.
-
-Babbru h 4*20.
-
-Babbravya h. 591.
-
-Babbravja, 5, 598.
-
-Bactriam c. N. 311.
-
-Badam tr. 26.
-
-Badara tr, 27.
-
-Badava tt NW. 368.
-
-Badava n S. ? 368.
-
-Badava-muklia N. 368, 378, 381.
-Badbiia jp. K. 378.
-
-Bag, Bagldf hd. 58, 59.
-
-Bahefa tr. 26.
-
-BUukshp. NW. 311, 313, 318.
-Balilikajp., see Vahlfka.
-
-Baba At. 371.
-
-BabubMba p. N W. 317, 375.
-Babubbadra j>. NW. 317.
-
-Babuda r. M. 291, 354, 383.
-
-Babuda n S. 291.
-
-Babiila g, 420.
-
-Babya p. M. ? 309.
-
-Baihhdra h, M. 286.
-
-Baidyandth h. E. 287, 356.
-Baijndth, see Baidyandth.
-
-Bairdt t M. 288, 307.
-
-Bah hd. 68.
-
-Bahai ir. see Vakula.
-
-Bala d. 4, 611.
-
-Bala p. NW, 313, 373.
-
-Bala-bandhii h. 449.
-
-Balabbadra j?. NW, 317.
-
-Bala-deva, see Bala-Rama.
-Bala-graba d. 520.
-
-Balaka hd. 86.
-
-Balaka pr. 610.
-
-Balaka r. 0.? 300, 301.
-
-Balaka r. or t. N. 376.
-
-Baiakasva- k 623.
-
-Baiakbiiya fsis, 102, 270, 570.
-Bala-Eama h. 3, 19, 23, 24, 31.
-
-Balls va k 623-625.
-
-Balasor dt Er327,
-
-
-Biibika p., see VShlika*
-
-Bali offering. 151-»15S,178,253. 254
-259-261, 265, 519,
-
-Bali k 146 (326),
-
-Bali dg. 461, 465.
-
-Balika p. NW. 375.
-
-Bali 11 h. 627.
-
-Baliu pr. 610.
-
-Balin k 333.
-
-Baliua At. 329.
-
-Balkh G. N. 311.
-
-Balu-vabim r. M. ? 298.
-miyri?pl. NW. 315.
-
-‘ Bands r. M. 286, 294.
-
-Bcmavdsi t. S. 364.
-
-Banda t M. 359.
-
-Bandelkhand dt. M. 288. 33ti, 354,
-
-369.
-
-Bandbana r. M. ? 294.
-
-Banga p. see Vanga.
-
-Banjdrip. S. 333.
-
-Bankura dt. E. 327.
-
-Banna dt. NW. 372.
-
-Bansdhard r. 8E. 305.
-
-Banthawa h. E. 287.
-
-Banyan tr. 277, 551.
-
-Baradd hills, W. 289.
-
-Bardhar r. E. 301.
-
-Barbara p. N. 319.
-
-Bardkwdn t and dt 326, 359.
-Earhisad piifs, 270, 533.
-
-Baric clothing, 35, 42, 15l), 181.
-
-Barley 84, ife, 1.61, 162, 165, 181,
-203, 240, 244, 245.
-
-Baroda i, W. 340.
-
-Baragam t. W. 339.
-
-Bar vara p. N, 319,
-
-Bassein t W. 338.
-
-Bathan4 h. E. 287,
-
-Baahmia ir. 27, 165,
-
-Bean pt. 84,
-
-Bear, 208.
-
-Bees, 36,147.
-
-Began pi. 167.
-
-Bel tr. 25, 425.
-
-Bela pt 426.
-
-Belgatm t 8. 337.
-
-Bellary t. 8 . 337.
-
-Behphul pt., see MallikS.
-
-Benares t 38, 46, 307, 308, 360, 367,
-371,654; see KMiand 'Varaiiii.si.
-Bengal, 326, 328, 383.
-
-Bm%i<>LHrael p. W, 339,
-
-Ber if., Jujube.
-
-
-INDEX.
-
-
-695
-
-
-Berar c, 284, 280, 805, 885.
-
-Besafh t. M. 829.
-
-Bes-nagar t M. 848.
-
-Betwa r. M. 295, 848.
-
-Bliadra jp. M. 809.
-
-Bhadra r. S. 808.
-
-Bliadra r. NE. 888.
-
-Bhadra g, 450.
-
-Bhadra-dvipa isL S. ? 890
-Bhadra-gaiira h. E. 357. ■ •
-
-Bhadraka p. NW. 316.
-
-Bliadra-kali gs. 479, 488, 515.
-Bhadra-kara p. M. 809.
-Bliadrapada csi. 881.
-
-Bhadra-soma r. IST. 889.
-Biiadra-sreiiya k. 871.
-
-Bhadrasva k. and c. ¥E. 274, 276,
-278, 280, 281, 887, 388.
-Bliagadatta k. 8, 9, 819, 828.
-Blidgalpur t, and di. E. 825, 826.
-Bhagiratha k. 280, 281 > 551.
-Bhaguri pat 486, 445, 684.
-Bhajamana h 677«
-
-Bhallataka in 25.
-
-BliaminI gdh. 646.
-
-Bhananda-na h. 597-599, 604, 607-
-610.
-
-Bhamikacchra ? p. W. 889.
-Bharadvaia rs, 8i, 810, 820, 435,.
-462.
-
-iSS j !>•»■». 547.
-
-Bharajiil ost 170, 884.
-
-Bharata 1*. 271, 274.
-
-Bharata p. M. ? 871.
-
-Bharata c. 274, 278, 280, 282, 288,
-847-849, 887, 688.
-
-Biiarga k, 328.
-
-Bhargajp. E. 828.
-
-Bharga-bknmi dt E. 328.
-Bhargava/. 310, 827, 368, 586, 650
-652, 656, 660, 668.
-
-Bliargava j?. E. 827.
-
-Bkargava k, 828.
-
-Bhanich t, W. 839.
-
-Bhautya, Mann, 271, 589, 546-550.
-Bkava g. 268, 269.
-
-Bhava rs, 249.
-
-Blmvaoala mt If. 278.
-
-BMTinI prs. 645, 647, 658, 659, 664,
-Blmvya k 272, 273.
-
-Bhavya in 24.
-
-Bhavya gods^ 454,
-
-Bhela in 25 ,
-
-
-BMlsa t, M. 295, 343.
-
-Bhima (Pandava) In 23, 322, 342,
-359.
-
-Bhima (YadaTa) k. 862,
-
-Bhima k 627.
-
-Bhima dg. 268.
-
-Bhima r. S. 289, 802, 364.
-
-Bhima g^. 518.
-
-Bhima-raksi r. S. 302.
-
-Bhimarafclia, -thi, r. S. 802.
-Bhirnkaccha p. W. 389.
-
-' Bhisma k. 9, 350, 629.
-
-Bhlsmaka k 336.
-
-Bhoga-prastha p. If. 319, T 77.
-Bhoga-vardhana p. S. 387.
-
-Bhoja/. 836, 342.
-
-Bho.ia p. W. 342, 371.
-
-Bhoja-nagara t N \Y. ? 377-
-Bhola-prasthaP t. NW. ? 377.
-Bhojya p. 0. ? 342.
-
-Bhdpdl dt C. 286.
-
-Bhramani gh. 257, 261, 266.
-Bhramari gs. 518.
-
-Bhrgn rs. 19, 31, 63, 219, 224, 246,
-249, 269, 810, 462, 595, 600-602,
-650, 656.
-
-Bhrgn dmii-gods, 461, 462.
-Bhrgn-bhnmi dt. E. 9 328.
-Bhrgu-kaccha p. W. 339, 362.
-Bhrhga-raja hd. 28.
-
-Bhubaneswar t. E. 356.
-
-Bhur 201, 206, 218, -227, 229, 462,
-552.
-
-Bhuta gh. 46, 47.
-
-Bhnti rs. 539, 540, 546, 548.
-Bhntilaya pi If W. 880.
-Bhuti-yuvaka p. If. 380.
-
-Bhnvas 206, 227, 261, 552.
-
-Bias n NW. 291, 292, 311, 315,
-318, 321, 347, 382.
-
-Bias r. M. 297.
-
-Bignonia in 27.
-
-B4arc.286,325, 329,382.
-
-Bilva in 25, 425.
-
-Birhlium dt E. 327.
-
-Birds, The, 1-6, 9-12, 16-21, 32,
-34-45, 55-65, 216-218, 684, 688.
-Blue water-lily, 29, 30, 104, 115.
-Boar, 85, 114, 117, 164, 166, 181,
-184, 278, 889, 502-504, 614.
-Bodha p. M. 309.
-
-Bodha h. 452.
-
-Bodhi p. M. 309.
-
-Body, 15, 23, 66-70, 190.
-
-
-INDEX.
-
-
-tiyd
-
-
-Bornhme fr. 82-
-ir» 27.
-
-nnihma r/. 17, 20, 50, 61, 76, Oa,
-
-08, OH.* 112, 127, 129, 153, 172.
-178, 170, 206, 217-220, 226-238:
-2M-251, 256, 258, 268, 270, 277,
-3-17, 387, 149, 453, 459, 465, 470-
-174, 482, 1-91, 502, 509, 521, 524,
-529, 530, 535, 536, 545, 550-562,
-570, ^582, 5ba «?85,
-
-Bra.linsa.-t‘a!*iii, 14!0 160.
-
-Brail 111 a- da tta k, 350,
-
-Brahmii-ksetra dL 290.
-
-Bralima-loka 89.
-
-Brahma-mitra rs. 404.
-
-Brahman ij. 55, .02, 128, 129, 192,
-193, 196,’ 199-202, 205, 206, 210,
-213, 251, 535, 588, 685; see Su-
-preme Soul.
-
-BraJmiandiood, 14, 43, 596.
-
-Brahmam gs. 502, 504, 509, 513.
-
-Brahmani r. E. SOI.
-
-BralimanI r. E. 301.
-
-Erali manicide^ 3, 19, 22,23, 31, 57,'
-83, 616, 661, 685, 687.
-
-Brahman* s duties, 148.
-
-Brahoia-piira mt. N. 383.
-
-Brahma-piiraka p. NE. 382, 2,83.
-
-Brahma-puira r. ISTE. 293, 328, 357,
-370.
-
-Brahmarsi di. M. 307.
-
-Brahma varfca dL M. 290, 292, 349
-377.
-
-Brakminy Buck, 30.
-
-Brahmottara p. E. 327.
-
-Bmj dt M. 309.
-
-Briujal pt. 167.
-
-Broaidi, L W. 339.
-
-Buddha, 350.
-
-Buddhi {Intelligence) i 190, 221, 249.
-
-BuddhisL, 354, 362, 367.
-
-Budlia dg. 269, 589, 590.
-
-Budh Gay dtlL 297.
-
-Buffalo 47, 166-168, 255.
-
-Biill, 255, 256.
-
-Buphus hd. 59.
-
-Burdwdn, see Bardhimn.
-
-Buming^ground, 38, 39, 46-48, 51,
-53, 177, 197, 264.
-
-But fL 84.
-
-Butm ir. 28.
-
-Bykmii r. E. 300, 334.
-
-CaccaUs hd. 28, 29.
-
-
-Cahuhi ? p, N. 324.
-
-(luifi'a k, 415, 40r».
-
-C5inra n>\ 442.
-
-(laitra, pr. 452, 453.
-i.''aitrarathu,fc/r. 278. 2SI.
-
-Uapinus pi. 245,
-
-(’akora, hd. 28, 29.
-
-Uakra-iminju ini. 'N. 278.
-CakraA'aka 54. 30 MS9, 399, 409
-411.
-
-Ca k r a V a r t il r . N E . 388 .
-
-(/ak\pi r. N. 323.
-
-Caksusa. Maim uud manYantara,
-_ 27i, 449, 450, 453, 454, 549.
-Ckiksusmntf r. N, ? 293.
-
-CaNcui t S. 331. 338.
-
-Calimadra? 2^* 322.
-
-(Jalingapatam t. SE. 305.
-
-Ciimara d. 476, 479.
-
-Camel, 166, 209, 235, 258.
-
-Oampa k. 325.
-
-Cam pa L E. 325.
-
-Campaka tr. 26, 326, 364. [524.
-
-Camuiida gs. 499, 605, 506, 515,
-CauapO 84.
-fjanarese p. S. 363.
-
-Cauda d. 494, 495, 4-07-501.
-
-Cauda pr. 6i0.
-
-Caudakliara p. NW, 374,
-
-Caudala caste, 38, 4-1-47, 53, 54, 50,
-68, 85, 87, 100, 104, 159, 182, 184,
-257, 259, 266, 267.
-
-Candana r. M. ? 294,
-
-Cauijika gs. 465. 473, 47*5 480-M^2,
-487 , 488, 490-511, 516. 521-523.
-Caudrabliaga n K\¥. 291.
-OaridrablHiga r. Eb? 291.
-Candra-dvipa isl. S. ? 390.
-Candra-kauta mis. IST. 38*0.
-Caudra-Yatsa p. E. P 357.
-Oaudrayaua penance, 564.
-Candresvara- p. E. 357.
-
-Cauikata ? p. W, 338.
-
-Oaniraadra p. N. 322.
-
-Oannihalkm 357, 670, 684>.
-
-Oarissa it. 25,
-
-Oarmakhaiidikap. N*. 314, 374,
-Oarma-maudala p. IST. 314.
-Oarmau-Tati n M. 294, 363.
-Carma-patta t S. 365.
-
-Oarpopfmga hd. 28.
-
-Garpopogon pL 245,
-
-Oarrot pt. 165.
-
-Caru-dharmaii h^7h
-
-
-INDEX.
-
-
-6 ^ 7 .
-
-
-Garu-karnian h, 670.
-
-Oarvavirat rs. 415.
-
-(Jasaroa hd., see Oakravaka,
-
-Castes, duties of, 148-151, 246, 594-
-597.
-
-Gat, 49, 85, 184, 191, 450.
-
-Cataka hd. 29, 87, 394.
-Cattakhaiidika.^^ |3. N. 314.
-
-Oafi?e, 74,' §0, 83, 182, 235, 238, 256,
-587, 598.
-
-Oaniya ? f . S. 332.
-
-Gaurya (Theft) pfn, 265,
-
-Gamry f, S. 303.
-
-Cedi c, and n. M. 298, 341-344, 350,
-
-_ 359, 371, 666.
-
-Gephalandra pt. 114.
-
-Cereals, 166, 166, 244.
-
-Ceylon 284, 288, 362, 366, 367.
-Ghakor hd, 28, 29.
-
-Ghamhal r, M. 286, 295, 345, 361,
-359, 363.
-
-Chambeli, Ohameli, see Malati.
-Qliampd, Ghampah, ir., see 0am-
-paka.
-
-Ghana pt 84, 165.
-
-Ohandas, 554, 555.
-
-Ghatah hd. see Cataka.
-Chaya-Banjfia ys. 456-461, 464,
-566-569, 576.
-
-Cheer pheasant, 29.
-
-Ghej doah NW. 315, 316.
-
-Ghenah r, NW. 291, 311, 813-316.
-Ghhattisgafh dt, 0. 285, 327, 341,
-342, 359, 371.
-
-Ghicacole t 8E. 305.
-
-Ghich-pm 84, 245.
-
-China, 319.
-
-China cer,, see Aim,
-
-China pt, see lira.
-
-China rose, see Jaya.
-
-Ohingleput dt, S. 332.
-
-GMtrahut mt M. 296, 363.
-
-Chittar r. S. 304, 367.
-
-Cholera, 519.
-
-Christian, 364, 367.
-
-Ohutia Nagpur dt. *286, 297, 3*27,
-329, 335, 365.
-
-Oibiika, p, N, 378.
-
-CicerpL 84, 165.
-
-Ciksnra d. 476. 478.
-
-Cina p. N,E. 318, 319, 328, 379, 381.
-Ciiiaka cer. 244.
-
-CintaP n C.P 300,
-
-Clra-privaraiiaf p, NE. 384.
-
-
-Oitra cst 169, 367.
-
-Gitfa-knta mt M. 296, 359, 363.
-Oitra-kuta r, M. 296.
-
-Citra-kutaka p. S. 363.
-
-Citron tr. 25.
-
-Citropala, Citrofcpala r. 296.
-Citrus tr, 25.
-
-Civida p. N, 378.
-
-Givilkation, early, 238-246.
-
-Civuka p. N. 378.
-
-Goceystes hd. 29, 87, 394.
-
-Cochin t, and dt SW. 303, 367.
-Cock, 147, 166, 184.
-
-Gocoarmt tr, 24, 69.
-
-Oodaka gb. 265.
-
-Oodra? S. 332.
-
-Goix gr. 245.
-
-Cola k. 331.
-
-Cola p. S. 287, 331, 332, 363.
-Ooleroon r. S. 303.
-
-Combat 124, 629, 630, 673.
-
-Comorin, cape, S. 285, 331.
-Gonjeveram t. S. 332, 367.
-
-Conjugal life, 118, 119, 422, 424,
-430, 433, 456.
-
-Constellations, 168-173, 259, 278.
-348, 349, 355, 358, 361, 367, 370,
-374, 376, 381, 384-389, 443, 447.
-535, 626.
-
-Continents, 272-277.
-
-Goorg dt. 864, 366.
-
-Coot hd. 31,
-
-Corpse, 44-50, 183, 184.
-
-Cossye r. E. 301, 327.
-
-Covetousness, 15, 16.
-
-Cranganore t. S. 364.
-
-Creation, 217-225, 228-248, 268.
-Creator, 10, 20, 47, 50, 51, 137.
-Crime, see Sin,
-
-Crocodile, 238.
-
-Crocopus hd. 28, 86, 87.
-
-Crops, care of, 259, 260, 264, 598.
-Groiv, 47, 72, 76, 85, 86, 147, 208,
-268, 263.
-
-Cuckoo 5, 7, 29. 85, 87, 147, 394.
-Cuculus hd, 29.
-
-0‘ucurhita pt 118.
-
-Culika, Ouiika p. N. 322, 323.
-Culika p. W. 374.
-
-Cdlika dyn. 374.
-
-Cumin, Ouminum pt. 25.
-
-Gurhw 87.
-
-Custom (Acara), % 107, 170^
-
-199, 2*51-268.
-
-
-■■§98
-
-
-INDEX.
-
-
-G^Uack t E. 360.
-
-Cyavaiiars. 219, 288, 310, 368, 600.
-GymespJmli p. 378.
-
-Ql^ ferns gr. 245.
-
-
-Badima ir, 25.
-
-Baitya p. and d. 9, 10, 22, 23, 68,
-
-100- 105, 109, 112-123, 312, 349,
-352, 386, 395, 466, 481, 488, 403-
-511, 514, 515, 618-521, 541, 559.
-560, 663, 666, 604-608, 641, (569.
-
-Dakini gh. 46.
-
-Baksa dg. 219, 246-249, 269, 269,
-369, 408, 624, 535, 650, 551, 590,
-661,
-
-Daksiaa pfn, 247, 248.
-
-Daksiiia Kosala, see Kosala, Dak-
-si na.
-
-Baksiiiapatlia e. B. 331.
-
-JDalhergia ir. 28.
-
-Ddlim ir. 25.
-
-Bama h. 677, 668-689.
-
-Bdmalipta i, aee Timraliptaka.
-Bamaraka ? p. HE. 383.
-
-Bamaj^anti g. 344.
-
-Dmi%idd r. E. 301,
-
-Danava p. and d. 10, 21, 23, 31,
-
-101- 106, 113-123, 138, 312, 328,
-349, 352, 383, 416, 501-504, 607-
-509, 517, 518, 541, 559, 560, 563,
-565, 581, 606-608, 611, 642, 643,
-648.
-
-
-Dancing f 3, 4, 251.
-
-Banda pfn. 249.
-
-Dandaka /or. S. 336,
-
-Dai4aka p. S. 335, 336.
-
-Bandaka k. 336.
-
-Banta k. 442.
-
-Bantakrsti d. 257, 262.
-Banta*vafi:ra h, 341.
-
-Baiiu dgs. 119, 559, 641, 642.
-Danudr p. F. 322.
-
-Daradap. NW. 311, 312, 318-321,
-324, 346, 370, 382.
-
-Darada k. SlI.
-
-Barbka gr. 161, 162.
-
-Dard'p. NW. 31L
-Dardistdn c, FW. 311^ 318.
-Bardtira ml S. 287.
-
-Ddfim, if. 25.
-
-
-Darkness (Tamas), see Qualities.
-BarTa, Darva p. FW, 324, 346,
-372,383. ’
-
-BarvidaPp. FI. 38&
-
-
-Dan-f L or r. F. 324.
-Darvl-saiikrainano fi. X. 324.
-Bapamalika jj. Kl\'. 317.
-Da&limanikjt p. X\V. 3IH.
-Dasjuneya, Dasa.miya p. XW. 380.
-Dasqn t, M. 296, 342.
-
-Basanaxuaka p. IsW. 318.
-Dasa-pnra, t. ]\f.. 363.
-
-Da Japura p. M. 3(53.
-
-Basap'iira P 3^1. 363.
-
-Ba^a-ratha h. 464.
-
-
-Basarna c.
-
-, and p. M
-
-2 <
-
-36, 342,
-
-343
-
-359, 360^
-
-, 070. 671.
-
-‘67
-
-4, 675.
-
-
-Dasarna r,
-
-. I^L 296, 298
-
-, 342.
-
-
-Daseraka,
-
-Daseraka
-
-P-
-
-F. 321,
-
-378,
-
-Daseraka i
-
-p. F. 321.
-
-
-Da.sra q. 460, 575; se
-
-
-Vsvins.
-
-
-Dasyu p.
-
-312-314,
-
-31
-
-7-320,
-
-335,
-
-
-616, 629.
-
-Dattatreya 93, 187-19:5,
-
-198, 202, 206, 207, 212, 213, 269.
-Dattoli rs, 269.
-
-Dattoli TB. 415.
-
-Daxihitra, animal^ 1(54.
-
-Danrhrda, Danrhrta demons. 501.
-l)a.vadi? p. FE. 382.
-
-Dap, 224-227.
-
-Death g. 47, 51, 207-210, 250 : kvc
-
-Mrtyii.
-
-Depg r. F. 292.
-
-Delhi t. 307, 351, 355.
-
-Deogafh t. E. 356,
-
-Dephul ir. 25.
-
-Destiny, 474, 543, 646 ? see Pa-te.
-Beva-dixni ir. 27.
-
-Beva-kfita mts. F. 277, 388.
-,Deva-.«a.ila mt. F» 378.
-
-Devavydlia k 294, (56!‘K
-Devddr ir. 27.
-
-Bevika n F. 292.
-
-Devika r, 8. 292,
-
-Devika I ? 292.
-
-Bevi-mahatmya, 465-622, 524.
-DJuik ir. 28.
-
-Bhananjaya k, see Arjiina (Pan«
-dava).
-
-Bhanistba cst 170, 376.
-
-DlmmiV-niat mt F, 376.
-Dhanvantari g. 153.
-
-Bhriraiia {mental ahsiraeiion), 194,
-
-196.
-
-Bliari^i! p$. 270.
-
-Dhara^i-koia t. S. 337 .
-
-Bharitrl deiiwBi 178,
-
-
-INDEX.
-
-
-Pharma <7. 9, 22, 23, 38, 44, 30,
-55-57, 90, 122, 246-249, 462, 526.
-Bharma, see BigJiteousness,
-Bharma-baddha p. NW. 376.
-Bliarma-dvipa p. W. 360.
-Bliarmaraiiya/or. andf>, M. 362.
-Bharma-sastra, 2, 19, 33, 39, 686.
-BhSrsiiaka /. 462.
-
-Bhataki h 272.
-
-Bbiltr g. 10, 153, 269.
-
-Dbatri gs, 489.
-
-Dbanmra demons, 501.
-Bhantamnlaka h. 319.
-Bhennkakata L S. 337.
-
-Dheri Shdhan t NW. 379.
-
-Bhrsiiii h 462.
-
-Bhrsta h 462, 688.
-
-Bhrta-rastra k. 345.
-
-Blirti-mat k. and c. 273.
-
-Bhrnva jpr. 112.
-
-Bbruva k. and c. 273.
-Bhiimra-locana d. 497, 498.
-Dhiimrasva k, 600.
-
-Bhnmravati tv. 269.
-
-Bhurtaka _2^. W. 369.
-
-Blmta-papa r. M. 291,
-
-Diospyros, various trees, 24-28.
-Bipti-mat rs. 464.
-
-Dirglia-griva NW. 374.
-Bii’gha-tamas rs. 325.
-
-Dissolution of the universe, 218, 219,
-224, 227, 229.
-
-Dista, see ISTabliagadi^ta.
-
-Diti^s. 102, 508, 559. *
-
-Diver bd. 31.
-
-]3ivodasa h. 307, 328, 371, 600.
-Doah 364, 378.
-
-Dock pt* 25.
-
-Dog, 44, 46, 49, 73, 74, 84, 85, 153,
-155, 166, 167, 175, 184, 251.
-Dolichos pt 84, 165.
-
-Brauni ? rs. 464.
-
-Braupadi q. 3, 20, 21, 32, 37 ; see
-Krsna.
-
-Brav^iiap. NW.F 368.
-
-Bra¥ida c. and p. S. 367, 370.
-Drdiia-dhaiiYan k. 439.
-
-Dr^ba-kesa d. 641, 642, 645.
-Dreams, 207-2115 263.
-
-Droiia h. 1-8, 17, 19 (464).
-
-Droiii rs. 464. '
-
-Droin-irmkbu. pi. 241.
-
-Drsadvatl r. 290, 292, 354, 377,
-I)rupa<la k. 350, 353.
-
-
-69r
-
-Brilbyai?. ¥W. 316«
-
-Drnbyu h. 316, 669.
-
-Duhduli hd. 31.
-
-Duck, 30.
-
-Dud-Kosi r. E. 322.
-
-Bubsaha d, 246-268.
-
-Dumhur tr. 192.
-
-Dundubhi h and c. 273.
-
-Dimdubbi d. 669.
-
-Dungarpur t. W. 338.
-
-Burba gr. 262.
-
-Bur-buddbi h. 350.
-
-Bur-dhara d. 480.
-
-Burdura mt. S, 277, 362»
-
-Burgajp. W. 338.
-
-Burga qs. 484, 485, 490, 496, 508,
-509, 515.
-
-Burga r. E. ? 301 .
-
-Burgala p. W. 338.
-
-Durgama k. 445, 446.
-
-Durgama d. 518.
-
-Burjayanta mt. W. 288.
-
-Bur-mukha d. 480.
-
-Dururduda? mt. S. 287.
-
-Burvasas rs. 2, 5, 99, 100, 269.
-Buryodbana h. 23, 24.
-
-Bvaitavana for. M. 320.
-
-Bvapara age, 224, 226, 387, 388.
-Bvaraka t. W. 24, 289, 340, 349.
-Bvaravatl t, see JDviraka.
-
-Bvesam gh. 261.
-
-Dvipa, doah, 364, 378.
-
-Dwdrka t. W. 340.
-
-Bymfcbmat rs. 269.
-
-Byufci-mat k. 272, 273. ,
-
-Dyuti-inat, Manii, 411-415.
-Byuti-mat k. 595.
-
-Earth, The, 218, 243-245, 271-280,
-462, 474.
-
-Earth (element), 217, 221, 222.
-Eating, rides of, 170-180.
-
-Ebony tr. 24.
-
-Echiies pt. 27.
-
-Edolius bd. 28.
-
-Egq, Mundane, 217, 222-225, 459,
-521, 550-553, 556.
-
-Egg-plant, 167.
-
-Ego, 190, 191, 215.
-
-Egret hd. 58, 59.
-
-Eka-cakra t NW. 382.
-
-Eka-cakra i. M. 382.
-
-I Ekapada-ka p. IsTE. 358, 383.
-
-I Ekapadapa ? p. 358.
-
-
-’700
-
-
-INDEX.
-
-
-Eka-srnga mt. N. 279.
-
-Ekeksaiia p, ISfW. 374
-
-Ekoddista sf. 185.
-
-Ela r. S7S60.
-
-Mements, '217, 220-222, 231, 557,
-
-me2)hani. 77, 235, 255, 256, 413,
-414, 466, 474, 494, 559.
-
-Elika p. SE. 360.
-
-Emancifation from existence, see
-Final emancipation,
-
-Emhlica ir, 25, 26.
-
-Energies, goddesses, see S'akti.
-
-Ephihalites p. JST. 380.
-
-Eraiida? n 0. 296.
-
-Erannoloas r. M. 295.
-
-Ervum pt, 165.
-
-Erytlirina tr, 27, 494.
-
-Eslka p. 8, 3t34.
-
-Ether, 221, 222.
-
-Eudynamis Id., see Kokiia.
-
-Eugenia tr. 277.
-
-EuLabes hd. 49.
-
-Fate, 18, 52-54, 70, 7:J, 83, 123, 127,
-178, 258, 263, 474, 662,680; see
-Destiny.
-
-Fennel pt. 244.
-
-Ferozpur t. NW. 312, 321.
-
-Ficus, trees, 33, 182, 192, 277, 390,
-391.
-
-Fig, see Ficuss.
-
-Final emancipation from existence,
-2, 64, 71, 72, 92, 128, 168, 189-
-194, 198-202, 205, 206, 210-216,
-265, 280, 283, 284, 453, 469, 512,
-513, 527, 528, 570, 599, 687.
-
-Fire (element), 222, 581, 582, 608.
-
-Fires, sacred, 82, 128, 159, 160, 176,
-178, 206, 391, 397-399.
-
-Flax pi. 85.
-
-Fleshfood, 164, 167, 168, 174. 175,
-181, 182, 264, 267, 679, 683.'
-
-Flute, 396, 417, 571, 647.
-
-Foetus, 62, 69, 70, 258, 259, 263-266.
-
-Food (various), 180, 181.
-
-Form (element), 217, 221, 222.
-
-Forms, Divine; Indra’s, 21-23;
-■Visiin’s, 1, 20, 21 ; Brahma’s, 224,
-225, 229.
-
-Fortress, 240, 241.
-
-Fowl, domestic, 181, 191.
-
-Francolinm hd. 86.
-
-Fruit, wondeiful, 389.
-
-Fiilwa hd. 31.
-
-
-Gah ir. 25, 26.
-
-Gabala p. KW. 314.
-
-Gahhastimat c. 284.
-
-Gadhi h. 57, 595.
-
-Gajabvaya i, mid p. M. 355.
-Gaja-pui’a i. M. 355.
-
-Gaja-sahvaja i. M, 355.
-
-Gaiava rs. 109, 112-114, 117, 347,
-464.
-
-Galayap. N. 347.
-
-Gallimda hd. 30.
-
-Gaiia dg. 47.
-
-Gauaijati dyn. 365.
-
-Gana-vahya p. E. 365.
-
-Gandak, see Gaiidaki.
-
-GaiidakT r. M. 292, 294, 329.
-Gandhamadana mis. N. 277, 278,
-281, 287, 310, 381,602, 670.
-Gandhamadana-gamini ? r. 305.
-Gaiida-pranfca-rati gh. 257, 259, 263.
-Gaiidhara c. and p. IMW. 314, 316,
-318, 321, 380.
-
-Gaiidharl, sound, 205-
-Gandhari pi. 166.
-
-Gandharikapi. 166.
-
-Gandharva dcj. 55, 68, 78, 103, 113-
-117, 121, 126, 138, 201, 207, 232,
-235, 236, 279, 393-401, 405-408,
-413, 481, 495, 497, 511, 541, 559,
-671, 581, 608, 619, 641, 645-650,
-679, 682.
-
-Gandharva p. N. 384.
-
-Gandharva c. 284.
-
-Gandharva pi. 246.
-
-Gandharva c. 284.
-
-Gandharva marriage, 671, 672.
-Gandholika pi. 166.
-
-Gahga, see Ganges.
-
-Gangd-chil, gdng-chil hd. 86.
-Ganga-hrada L M. ? 644.
-
-Ganges 6, . 59, 183, 280-282, 290,
-303, 319, 320, 369, 493, 590.
-Ganjam t. and dt. E. 284, 304, 334-
-337.
-
-Gantu-prastha P mi. 288,
-Garbhahan-tr gh. 257, 259, 264.
-Garcinia tr. 28.
-
-Garga rs. 101-106, 435, 444.
-Garhwdl dt. N. 29, 320,
-
-Garlic, pt 165.
-
-Garo hills E. 306.
-
-GariKja, bird, 6, 8, 112, 126, 502,
-559.
-
-Gatha, 235, 261.
-
-
-iKBEX.
-
-
-701
-
-
-G-atra rs, 270.
-
-Ganda c. E. 352.
-
-(huihail i. NE. oOH,
-
-Gauf 1. E. 320, 3- >2.^^
-
-Gaura-grlvji [). M. 352.
-
-Gauri gs, 484, -l-Bb', 489.
-
-Gaiiri prs. 027.
-
-Gautama rs. 22, 402, 612.
-
-Gautama 5. 440.
-
-Gavedliiika r/r. 245.
-
-Gaya (son k. 5>89.
-
-Gaya (son o/’ Amurtarayas) k. 329.
-Gaya t M. 105, 168, 297, 306, 330,
-352, 589.
-
-Gaydl, hi. 16 k 590, 592.
-
-Geography i 271 *-384, S87~3»‘3l.
-GeyamaUivii p. E. 328.
-Geyamartliaka p. E. 328.
-
-Ghaggar r. N. 291.
-
-Ghats mts. E. and W. 284, 285,
-Ghogra r, M. 370.^
-
-Ghora-ka p. \V, 373.
-
-Ghosa j>. N Ik 383.
-
-(Giosa (village): 241, 242.
-(iliosa-saukhya p. M. 351, 383>.
-GlirtM aps. 4, 571.
-
-Ghrtaci w. 600.
-
-(jfhuiia-kitaka, insrxtf 87.
-
-Ginger^ 106.
-
-(iiri-bbadra <(. 452,
-
-Giri-vrajti i. NW. 318.
-
-Giri“Vraja i. E. 330.
-
-Girjak L NW. 318.
-
-Crirnar k 'W. 288, 289.
-
-Girtfch t. Ik 330.
-
-God t SW. 362"364-.
-
-Goat, 147, 10k 182, 235. 255.
-GoUim, 250 268, m, 515.
-Godanirl r. H. 284, 286, 302, 305,
-3 JO, 336.
-
-Godha, repiilv, 181.
-
-Godhana mt M. ? 290.
-
-Golangula, p. S. 331, 364.
-
-Gomal r. N W. 291.
-
-Gomanta mt, N, 2814
-Gomanta mi. 5V. 289, :;>04.
-Gomanta p. Ik 330, 331.
-
-Goiiiati r. M. 134, 21G, 300, 316,
-623.
-
-Gomat! r. NW. 291.
-
-Gonarda p. S. 363.
-
-Gonarddba p, 8. 3:'il. ’»63.
-Qoydtmnu c. (k 28k 386, 305.
-Goodness QMaliim.
-
-
-Goomti r. M. 201.
-
-Goose, 30, 147, 409, 410.
-
-Gopacala mt. j\L 289.
-
-Gopu-giri ml. ^1. 289.
-
-G 0-8077127. reptile, 181.
-
-Gotama rs. 31.
-
-Gourd pi. 118.
-
-Govardiiana ml. 290, 310.
-Govai’dbana i. Wk 310.
-
-Goviiida g. 112; sec Vi sou.
-Govinda p. E. 331.
-
-Grarida hcL 49.
-
-Graliaka gh. 265.
-
-Gra^ii'id. 84, 105, 244.
-
-Grama (village.), 241, 242.
-
-(trama [music). 131.
-
-Grama-raga (m/fsic), 130.
-
-(hnsslhop ner, 147.
-
-Grehe h(L31.
-
-Greek, 284, 314.
-
-Grhasiha, 149-150, 186,
-
-(Jrnjanaj//. io*5.
-
-(Giantj Ir. 25.
-
-Giidap. M. 352.
-
-Gnduha p. M, 373.
-
-Guha //. 502.
-
-Guha k. 361.
-
-Gubya dg. 178.
-
-Guhyaka dg. 370, 461, 530, 576,
-041, 048. '
-
-(ruja7uit c. W. 24, 28, 29. 286, 313,
-338-342, 368, 373.
-
-Giilaha, Guluha p. M. 373.
-Gurgaiia p. N. 345.
-
-Gurjai’a p. NW. 373.
-
-Gtirkha ji>. N. 345.
-
-Gum ha p. W. 373.
-
-Guru-nadI r. W. 373.
-
-Qtmi wf p. N, 346.
-
-Gurii-.stbala? p. NW. 373.'
-Guru-svara? p. NW. 373.
-Guru-viisala./br. Jk 581.
-
-GvmUot t. M. 289.
-
-Haba dg. 571.
-
-Maidardhdd t. S. 360.
-
-Haihaya k. 371.
-
-Hailuiya, p. M., G. and W, 99, 107,
-344/351, 371.
-
-Haiiua ml. N. 322.
-
-Gaimagirika p. NW. 369,
-ilaimiakru;a p, 81k 360.
-Habnauta-giri mh N. ? 3u6,
-Ilaiininl q. 452.
-
-
-' /UZi
-
-
-INDEX*
-
-
-Hahra r. K 291.
-
-Hdlar dt. W. 289.
-
-Halayudha h 3, 19, 24 ; sea Bala-
-Eama.
-
-Hamsa hd, 80.
-
-Hamsakayana p, N, ? 323.
-Hamsa-marga p. N. 823, 845.
-Hamsa-nablia mt ISf. 279.
-Hamsa-pada p. N. ? 823.
-
-Hanta, 151, 152, 179.
-
-Hann-mat, monkey, 289, 846, 367.
-Kara g. 482, 483.
-
-Hara-bhusika p. NW. 317.
-Hara-baiia J3. W. 317, 380,
-Hara-miirtika jp. NW. 317.
-Hara-parikap. 317.
-
-Mare, 164, 181, 235.
-
-Hari g. 55, 91, 889, 469-472, 483,
-502, 562.
-
-
-Hari gods, 442.
-
-Harika jp, SE. 360.
-
-Hari-parvata mts> UsTW. 388.
-Hariscandra k 32-61.
-
-Harita k and c. 278.
-
-Harlta bd» 28, 86, 87.
-
-Haritaka tr. 26.
-
-Harita^va h. 589,
-
-Hari-var§a c. H. 345, 390.
-Harsa-vardhana p. N, 319.
-Hary-asva k 371.
-
-Easdu n 0. 295, 298.
-
-Hasta cst 169, 367.
-
-Hastin k. 355.
-
-Hastina-piira )
-
-Hastina-pura J
-Havi^-samstba s/. 128.
-Hayir-varsa k and c. 273.
-HaYi§-mat rs, 454.
-
-Hawk 182, 208, 263.
-
-Hayti f, IST. 322.
-
-Hamribdgh dt, 0. 285.
-
-Hedysamm pt 166, 245.
-
-Hell, 7, 62, 68, 71-91, 101, 107, 149,
-280, 485, 622, 661, 662, 687.
-Hema-dbarma k 627.
-
-Hema-giri ? mt, W. 369.
-Hema-ku^a mts. H. 275-277.
-Hema-kata mt, H. 360, 369, 370,
-383.
-
-
-iM. 307, 351, 355.
-
-
-Hema-kutb mt, SE. 360.
-Hema-srnga mt, H. 369, 370.
-Hema-taraka ? p„ H, 380.
-Hemp pt* 245.
-
-Merodim hd, b9.
-
-
-Heron hd, 49, 58-61, 72, 85» 86.
-Hestlio r, 0. 295.
-
-Hibiscus ir, 553.
-
-Hima wi=Himavat
-Himalaya mis,, see Himavat.
-Hima-vat mts, 5, 28, 29, 127, 132,
-249, 275-283, 287, 293, 345, 347,
-369, 376, 391-396, 475, 488, 489,
-494, 518, 598, 655, 669, 670.
-Himsa pfii, 260.
-
-Hirigaj;. HE. 384,
-
-Hiran-maya c. H. 390, 391.
-Hiran-vati r, N. 391.
-
-Hiranya k and c. 273.
-Hiranya-bahu r, M. 295.
-Hiranya-garbha g, 220, 226.
-Hiranya-kasipu L 146.
-Hiraiiyadoman rs, 449.
-Hiraiiya-srnga mt. H. ? 369.
-Hiranya-vaha r. M, 295.
-
-Hire, see Wages.
-
-Hog, see Boar.
-
-Hog-plum tr. 23.
-
-Homa, 87, 94, 150, 172, 184, 256,
-386.
-
-Honey-sucker hd, 80.
-
-Hoopoe hd. 80.
-
-Horn article, 87.
-
-Horse, 182, 183, 235, 255, 278, 388,
-457, 460, 567, 573, 575.
-Horse-sacrifice, 41, 89, 616, 685*
-Home, ancient, 239-243.
-
-HradaPp. HW. 316.
-
-Huhn dg. 571.
-
-Hun p. '^79,
-
-Huna p. H. 315, 375, 379.
-
-Hun-des c. HW. 324, 380.
-
-Hydmpes r. HW. 291.
-
-Eydraotes r. HW. 291.
-
-Hymns, see Gatlia.
-
-Eyphasis r. HW. 291, 292.
-
-Ichneumon, 210.
-
-Iksu? r. H. 292.
-
-Iksn r. E. ? 304.
-
-Iksuda r. E. 304.
-
-Ik^nka r. E. 304.
-
-Iksula r, E. 304.
-
-Iksvaku k 462, 551, 588, 617.
-IksvSku {son of Ksupa) k 618.
-
-Ha’ prs. 327, 587-589.
-
-Ha demi-goddess, 559.
-
-Ilavrta k and c, H. 273, 276, 277,
-390.
-
-
-Ilhision, see Malia-mlya.
-
-Impurities, 172-185.
-
-Incarnations, 28 ; Iiidra’s, 12--I4,
-23 ; Visim’s, 21 ; Daily as* 22, 23.
-
-India, see Bharata.
-
-Indigo pt. 25.
-
-Indig of era pt 25.
-
-In di vara pt 29.
-
-Indivara dg. 401-404, 411.
-
-Iiidra g. 4, '8-15, 21-23, 38, 40, 50,
-55-57, 68, 75, 90, 97, 102, 109,
-129, 147, 153, 227, 276, 415, 420,
-436, 437, 442, 454, 461, 462, 473,
-474, 496, 502-505, 509, 512, 514,
-524-526, 532, 535, 545, 549, 550,
-562, 565, 570, 604, 611, 619, 623,
-641, 648, 652-655, 669, 673, 680,
-687.
-
-Indra-dasa w. 678.
-
-Indra-dvipa o. 283.
-
-Indra-prastba t, M. 307, 316, 351,
-355.
-
-Indra-sena g. 669, 674-678, 681.
-
-Indus r. 291, 293, 312, 315, 318,
-322, 324, 346, 376, 377, 380.
-
-Infanticide, 32,
-
-Inguda tr. 26.
-
-Intelligence (Buddhi), 15, 16, 221,
-231.
-
-Intoxication, 24, 31, 133, 146, 600,
-602.
-
-Ira demi-gs, 659.
-
-Iravatl n NW. 291, 316.
-
-I§ana %. 268.
-
-Israel 339.
-
-Jach tree, 25.
-
-Jackal, 46, 47, 53, 67, 85, 183, 208.
-
-Jada 6. 62, 69, 71, 76, 83, 91, 107-
-110, 127, 130-145, 186-190, 211.
-
-Jagad-dhatri gs, 127.
-
-Jagn^a jp. H. 322.
-
-JaSnu k. 803.
-
-Jaimineya 6. 684.
-
-Jaimini rs. 1-4, 17-21, 38, 62, 217,
-219, 684, 685, 688.
-
-Jam, 354, 367.
-
-Jalada k, and c. 273.
-
-Jala-knkknta hd, 30.
-
-Jaldlpur t NW. 318.
-
-Jalandhar doab 17. 347.
-
-Jamadagni rs. 310, 462, 596, 656.
-
-Jamadagnya pat, see Paralii-
-Itama.
-
-
-Jamadagnya dt. W. 338.
-
-Jambha d. 102, 103, 611. 677.
-Jambu tr. 277, 391.
-
-Jamba r. K. 278.
-
-Jambu-dvipa, 271-283.
-
-Jambula r. M. ? 297.
-
-Jambu-mat mt. 356.
-
-Jambu-niala c. ISl. 278.
-
-Jambunada 1. 663.
-
-Jambunada gold, 278.
-Jambv-akhya h, B. 356.
-
-Janaka k, 330.
-
-Janaka/. 75, 374.
-
-Janalcpur L H. 330.
-
-Jana-loka, 227, 229, 553.
-Janame,iaya h, 360.
-
-Janamejaya h. 379.
-
-Janardana, 2, 5, 19, 349, 388, 470,
-472; see Krsiia and Visim.
-Janastbana dt 302.
-
-Jangalap. M. 309.
-
-JangalaPjp. N. 322.
-
-Jangha k. 442.
-
-Jana h. 442.
-
-Jar and well-rope, 70-73, 91.
-Jarasandha h, 341.
-
-Jaritari 6. 8.
-
-JarMkap. NW. 313.
-
-Jarudbi mt. IST. 277, 279.
-
-Jasmine pt 27, 152.
-
-Jasminum pt. 24-27, 152, 425, 426.
-Jatadbara? p. S. 364.
-
-Jata-harini gh. 266, 450, 451.
-Jathaa:a mts. K. 277.
-
-Jatl pt 27, 162.
-
-Jausi/. 352.
-
-Java tr. 553.
-
-Jayadratba k 315.
-
-Jayanta mts. ISTW. 388.
-
-Jew, 339, 364, 367.
-
-Jlielam r. HW. 291, 315, 318, 324.
-Jimata h. and c. 273.
-
-Jira pt 25,
-
-Jivaiiva-ka 28, 87.
-
-.Jlvabjlva hd. 28, 87.
-
-Jneyamallaka p. E, 328.
-
-Jdhila r. 0. 29^
-
-Jonesia tr. 25, 26, 364.
-
-Jugtidaj), 32k
-Jujube tr. 27.
-
-Jumna r. M. ; see Yamana.
-
-Jumna r. E. 297,
-
-Jundgadli t W. 288.
-
-Jupiter^ planet, 246, 431, 626.
-
-
-704
-
-
-IHBEX.
-
-
-Jy^tha cBt 169, 374.
-
-J yestha-saman, 159.
-
-Jyotiratlia, -tliya, r. C. 295, 296.
-Jyotir-dbamaii rs. 442.
-Jyotisikajj. M. 352.
-
-Jyotis-mafc h. 272, 273.
-
-Kabul r. NW. 291, 314.
-
-Kaccha clL W. 303, 340.
-
-Kacclia dt. S. 367.
-
-Kaccliapa dg. 416, 417.
-
-Kaccbika p. W. 340.
-
-Kacchviya p. W. 340.
-
-KaoJih dt W. 312, 340, 349, 355.
-Kadam b\, Xuda.iu!)a.
-Kadamba /r. 25, 277, 565.
-Kadamba ^.446.
-
-Kadamba bd. 30.
-
-Kadrii demi-gs. 559,
-
-Kadupt. 118, 166.
-
-Kdfiristdn c. NW. 318, 321.
-Kahlara jpjJ. 30.
-
-Kaikay a = Kaikoy a .
-
-Kaikeya k. 317.
-
-Kaikeyap. NW. 316-318, 345,377,
-382, 666.
-
-Kaikeyi q* 76.
-
-Kailasa nut. N. 6, 132, 277, 279,
-287, 322, 345, 351, 370, 376, 382,
-402, 669.
-
-Kairata p. !N. 379.
-
-Kaiskindhya p. 0. 342, 360.
-Kaitabha d. 465, 469-472, 484, 519.
-Kaka-jafigba gh. 266.
-
-Kfikulalaka p. S'E. 360, 361.
-
-Kala p. W. 369, 374.
-
-Kala, see Fate.
-
-Kala pt. 168.
-
-Kala d. 480.
-
-Kalalia gb. 262.
-
-Kala-haihsa hd. 30.
-
-Kala-jihva gh. 262.
-
-Kalaiina p. C. P 362.
-
-Kalajosaka p. KW, 313.
-
-Kalaka demons, 501.
-
-Kaiakeya demons, 501.
-
-Kalakoti ti. M. 354.
-
-Kalakoiisa p. M. 354.
-
-Kalakuta U. M..? 354.
-
-Kalama pt. 84.
-
-Kalailjara p. M. 354.
-
-Kala-saka pt 164.
-
-Kaladitar bd. 86.
-
-Kalatoyaka p. K W. 312, 313.
-
-
-Kalavati t/j. 402, 406.408, 411, 412.
-Kalaya pt. 84.
-
-Kali d. 257.
-
-Kali dg. 398-401.
-
-Kali age, 224, 226, 387, 388.
-
-Kali gs. 499-509.
-
-Kalibala p. W. 338, 369.
-
-Kalikfi gs. 494.
-
-Kalindawif. K. 461, 576.
-
-Kalindl g. 445.
-
-Kalinga c. and p. SE. 325-327, 333,
-334, 358, 359.
-
-Kalinga k. 325.
-
-Kalinga? jx M. 308, 316, 354.
-Kalinga ? p. KW. 316.
-
-Kalinga mt. K. 279.
-Kalmga=Kalinga p. SE.
-Kalingaka jp, 0. 354.
-Kalinga-nagara t M. 316.
-
-Kalinjar h. M. 354.
-
-Kali Sindh r. M. 293.
-
-Kalitaka p. W. 338.
-
-Kalmasapada k. 336.
-
-Kalpa \Age), 228, 229, 235-238,
-
-268 . '
-
-Kalpa (Tree), 239, 243.
-
-Kalpa ? pi. 315.
-
-Kahoan t W. 338.
-
-Kahjdni t S. 289, 333.
-
-Kama g. 115, 132, 249.
-
-Kamala pt. 30.
-
-Kamaranga in. 24.
-
-Kamarupa c. KE. 306, 331, 411,
-577, 581.
-
-Kama-sastra, 2.
-
-Kambala k 125, 130-133.
-
-Kambala mts. NW. 388.
-
-Kamboja c. and NW. 311, 318,
-319, 350, 368, 371.
-
-Kanibu demons, 501.
-
-Kambnna^-'aka ? p. S. 366.
-
-Ktoiiii T. NW. 389.
-
-Kampil t M, 350, 353.
-
-Kampilya t. M. 350, 353, 598.
-Kdmrup dt NE. 331.
-
-Kathsa k 352.
-
-Kamsavati P r. E. 301.
-Kanakthampa tr. 27.
-
-Kanam dt 8. 364.
-
-Kanauj t M. 292, 307.
-
-Kancanaksi r. M. 290, 306.
-
-Kanci t S! 332, 367.
-
-Kcmcipuram t 8. 367*
-
-Edncimram t 8/ 367. '
-
-
-INDEX.
-
-
-705
-
-
-Kailcya ? p, S. 367.
-
-Kandahar t. IsTW. 374.
-
-Kandhara bd, 6~8.
-
-dt NW. 347.
-
-Kanhar r. 0. 297.
-
-•Kaiika |>. M. 353.
-
-Kanka p. N. 353.
-
-Kanka hd. 6, 7.
-
-Kafikella tr. 25.
-
-Kankola /r. 25.
-
-Kaotakara ? p. NW. 317.
-
-Kdnihdl tr. 25.
-
-Xanyakaguiia ? p. NW. 375.
-Kaiiyakubja t. M. 307, 353, 595.
-Kaorhari r, C. 285.
-
-Kapila rs» 120.
-
-Kapila mt N. 279.
-
-Kapila l\ and c. 273.
-
-Kapil endra mt. K. 279.
-
-Kapili T. NE, 306.
-
-Kapingaia p. M. 354.
-
-Kapifijala r, 354.
-
-Kapisa r. E. 301, 327.
-
-Kapotaka, Naga 7c. 431.
-
-Karabha r. E. 301.
-
-Kardd t S. 362.
-
-Karahakada t. S. 362.
-
-Karaliakata t S. 362.
-
-E^arahataka t S. 362.
-
-Karala *d, 479.
-
-Kdramdr mt. NW. 290.
-Kai'amarda tr. 26.
-
-Karambha pt 165.
-Karambba-balnka pi. 83.
-Karambhaka.P p. BW. 388.
-Karamclia tr. 26.
-
-Karamndsa r. M. 297.
-
-Karamoda. r, M. 296.
-
-Karaiida hd. 30.
-
-Karaiidava hd. 30.
-
-Karandbama h. 622-625, 631-644’,
-^649-653.
-
-Karandbama Ic. 653.
-
-Karandbama 625,
-
-Karaskara p. W. 339.
-
-Karatoya r. NE, 290, 293, 383.
-Karatoya r. C. 290, 294-
-Karatoya r. E. 301.
-
-Karatoya ? r. N. 296*
-Kai-avira-pnra i. W. 289
-Karbuka p. E. 356.
-
-Kardama rs. 270, 272.
-
-Kardo hd. 30,
-
-Kar^-hayhs hd. SO, 409, 410,
-
-89
-
-
-Karkasa aps. 4.
-
-KarTci r. N. 322.
-
-Karkotaka /or. S. 362.
-
-Karkotaka Jc. 362.
-
-Karma, doctrine of, 10, 57, 62, 67-
-71, 77, 78, 87-90, 193-233, 282,
-283, 528, 592.
-
-Karma-nasa r. M. 287, 296.
-Karma-iiayaka p. S. 366.
-Karma-noda ? r. M. 296.
-
-Karna Jc. 368, 369, 629.
-Karnapradbeya p. W. 368.
-Karna-pravaraiia p. N. 346, 369.
-Kariiata c. and p. S. 363.
-Karnataka p. S. 363.
-
-Kariiarati r. M. 297.
-
-Karnikara tr. 27.
-
-Karnul dt. S. 366.
-
-Kartavliya k., see Arjuna.
-Karttikeya g. 524, 574.
-
-Karu mt. 290.
-
-Karusa h. 341.
-
-Kartisa k. 463, 588, 593.
-
-Karuk Ip. C. 309, 334, 341, 359,
-Karfiia ] 366, 463, 593.
-
-Kamsaka p.= Karusa.
-
-Karvata c. or i. E. 356.
-
-Karvata-ka (toim), 241.
-Karvatasana Ji. E. 356.
-
-Kasaya ? p. E. 357.
-
-Kaseruka p. N. 321.
-
-Kaserukmat c. 283.
-
-Kaseriimat, Kaserumat c. 283.
-Kasetu c. 283.
-
-Kashgar c. N. 318.
-
-Kasi L M. (=Benare8% 187-190,
-207, 211-216, 308, 329, 341, 357,
-359, 367, 371, 600.
-
-Kasi p. M.‘357, 367.
-
-KAsika r. 305.
-
-Kasmira c. and p. NW. 312, 318,
-319, 322, 323, 340, 270, 382.
-Kasta-barana-parvata? pL E. 325.
-Kasya p. M. 367.
-
-Kasyapa dg. 178, 461, 535, 560-552,
-559-565. .
-
-Kasyapa rs, and/, 462, 465, 612.
-Kaiaka t. SE, 360.
-
-Kataka-sthala p. SE. 360.
-Katamala r. S. 303.
-
-Kailmi p. NW. 313.
-
-Kathaksara p. W, 339.
-
-Kdiki pi NW. 313. [344, 373 .
-
-Kathiawar dt. W. _3i3, 338, 340,
-
-
-706
-
-
-IW01X
-
-
-Katyayani gs, 503, 512, 515.
-Kauranja mt IjlE. 388.
-
-Kaurava ml, feme, 0~9, 23, 24, 37,
-860, 878, 567.
-
-Kaurusa jp. S. 866.
-
-Kaa^imba c. M. 307.
-
-KaaSambi t. M. 807. ,
-
-Kauiika 34, 37, 48, 44, 50, 61,
-93, 462.
-
-Kaiisika p. NE. 883,^
-
-Kausika r,=Kaiisiki.
-
-Kansiki r. HE. 292, 293, 329, 369,
-383, 595.
-
-Kausiki (jia. 494.
-
-EkSveri t. 285, 290, 303, 364, 366.
-Kaverl q. 446.
-
-Kavya rs, 442.
-
-Kawa Kol vnts, E. 286.
-
-Kay ana? r. M. 297.
-
-Kekayaf.=Kaikeya.
-
-Kekaya fc. 665.
-
-Keofa, shrub, 26.
-
-Kerala h. 331.
-
-Kerala p. S. 631, 382.
-
-Kerala p, 0. 341.
-
-Kerra M, 30.
-
-KeSava g. 472; see Yisnu.
-
-Ketaki pt 7, 26.
-
-Ketn ml 290.
-
-Ketnmala 3k. and c. HW. 274-278,
-282,387-889.
-
-Ketnmat fc. and c. 273.
-
-Ketu-vlrya h. 665.
-
-Kevala ? jf>. S. 331.
-jS7tain5w jp. H. 322.
-Khandava-prastha 1 M. 355
-KhandeshdtW.^^-
-Kbamnetra k 619-624.
-
-Kbanitra h 610-617 .
-
-Khanjana h, HW. 870.
-
-Kharalcpur hills E, 356.
-Kbarapatba c. H. 380.
-Kbarasagararasi ? p- H. 380.
-Kbarmaka h. E. 356.
-
-£a 350, 351, 367, 383
-
-Klia8a^K346 m
-
-Kbasa demi-gs. 559.
-
-Khdsv hills E. 805.
-
-Khas-hha^ gr. 79.
-
-Kbatvangi r. S. 864.
-
-Kbeiaka 241.
-
-
-"SMclyree, 168, 174.
-
-Kbyati w. 249, 269.
-
-Klcaka p. HE. 881.
-
-K’lcaka p. M. 382.
-
-Klcaka m. 382.
-
-Kikata c. E. 831, 882.
-
-Kimpurnsa 7c. and c. N. 273, 274,
-282, 881, 390.
-
-Kimpnrusa 7c. 415.
-
-Kitnsuka ir. 28.
-
-King, his duties, 144-148, 157, 656,
-657, 666.
-
-KinQ'-orow hd. 28.
-
-KinkaraPp. H. 381.
-
-Kinnara p. H. E. 116, 117, 236,
-279, 881, 393-397, 647.
-
-Kirdnti p. H. 822.
-
-Kirata p. and* c., H. aw A. 254,
-307, 316,322, 823, 828, 846, 847,
-369, 379, 381, 888.
-
-Kiratip. H. 322.
-
-Kisadya p. M. 307.
-
-Kisasna p. 807.
-
-Kisasta p- M. 307.
-
-Kiskmdbaka p. 0. 842, 860.
-Kiskindbya c. S. 342.
-
-S. 302, 308, 865.
-
-Kite hd, 86.
-
-Kiydn r. M. 297.
-
-Kiyul T. E. 285.
-
-Kochchi 1 S. 367.
-
-Kodugu dt, S. 864.
-
-Ko'do cer,^4ti,
-
-Kodungalur 1 S. 364.
-
-Kobalaka p. H. 3^.
-
-Koll hd,, see Kokila.
-
-Kokanada p^ HW . 372, 880.
-
-Kokanadapl 80.
-
-Kokankana p. HW. 872.
-Kokarakap. HW.872 m
-Kokila hd. 28, 394, 899, 407.
-
-Kol p, C. 864, 365, 466.
-
-Kola h. 881.
-
-Kola p. 0. 331, 382, 363, 360.
-Kola p. 466.
-
-Kolagira p. S. 863, 365.
-
-Kolagiri dt S. 364.
-
-Kolabala mt. G* 286, 859.
-Kolavana p. W. 888.
-
-Kolia h.M, WO.
-
-Koluka, Kolnta c. N. 875, 882.
-Kolvagireya 2). S. 363.
-Kombunayaka ? p. o. ooo.
-
-Konc-hede hd, 86,
-
-
-TNOBX.
-
-
-7 ^'
-
-
-Konkan dt. S. 362.
-
-Konkana p, S. 362.
-
-Koiiva mt 290.
-
-Kophsn r. 'EW, 291,
-
-Kora mt 290.
-
-• Korad^sa cer. 244.
-
-Korma, trihe S. 332.
-
-Kosala, Baksina or Maha-, c. C.
-
-299, 308, 334,* 342, 368, 359, 371.
-Kosala, Uttara, c. H. 294, 308, 342,
-352, 353, 358.
-
-Kosala t M. 57,
-
-Eosam t M. 307.
-
-Kosi r. KE. 292, 329, 383, 595.
-Kovidara ir. 27, 165.
-
-Krakara hd. 86.
-
-Krama pr. 610.
-
-Kratxi Ts, 246, 249, 270.
-
-Kraunca mi, N. 288, 376.
-
-Kraanca p. N, 376.
-
-Krauaca-dvtpa 272-275.
-Kraunoa-dYipa dt 8. 364.
-Kratdicalaja/or. S. 364.
-Kraanca-pura t S. 364.
-
-Kraustnki h. 217, and passim 224-
-237, “263-283, 348, 358, 391, 415-
-419, 436, 463, 550, 552, 587, 663,
-665, 684.
-
-Kravyada, caste, 182.
-
-Krodka demi-gs, 559.
-
-Krpa rs. 464.
-
-Krpa r. 306.
-
-Krpavati prs. 602.
-
-Krsiia h, and a. 23, 24, 50, 55, 308,
-328, 340, 342, 349-352, 361, 383,
-474,
-
-Krsna mt K. 279.
-
-Krsiia mis, NW. 388.
-
-Krsna Bvaipayana rs, 677.
-
-Krsiul r. S. 290, 302, 365, 366.
-Krsna gs, 490, 494.
-
-Krs]^a q, (=:Braupadi) 3, 19, 23.
-Krsiia-dvipa dt S. 36^
-
-Krsna- vena r. G. 300.
-
-Kfta Agel 224, 226, 272, 347, 387,
-388, 437,
-
-Krtamala r, S. 303.
-
-Krtasmara mt NW. ? 290.
-Krtavirya k, 101, 106.
-
-Krti h 39.
-
-Krtraka ? p. 347.
-
-Krfetika cst 169, 355,
-
-Krtya n 306.
-
-Krnmnr. W. §98.
-
-
-K§aina w. 249, 270.
-
-Ksanti k, 442.
-
-Ksatodara? p. K. 320.
-
-Ksatriya caste, 36, 317-319, 323,
-336, 350, 351, 370, 380, 594-596,
-671, 672.
-
-Ksatriya virtue, 124, 144, 145, 148,
-188, 212, 246, 442, 591, 596-601,
-627-634, 642, 663, 671, 672, 677.
-Kseraadhnrta ? p. K. 381.
-Ksemadburti h. 381.
-
-Ksemaka k, and c. 273.
-
-Ksetra-jna, 220, 223 ; see Pnrn^a.
-Ksiprar, W. ? 299.
-
-Ksipra r. 306.
-
-Ksudraka p, M. 377.
-
-Ksudraviiia ? p. N. 377.
-
-Ksupa {son of Brakma) h, 617, 618.
-Ksupa (son of Khanitra) h. 615-
-618.
-
-Ksnridri h. NW. 370.
-
-Kubha r. NW. 291.
-
-Knca-bara gh. 266.
-
-Knhn r. NW. ? 291.
-
-Kubakap. K. 324.
-
-Knbn p. NW. 324.
-
-Kuhuka? p. N. 324.
-
-Kujrmbba d. 604-609.
-
-Knkkuta mt E, 279.
-
-Kuksi prs. 272.
-
-Kul hr, 27.
-
-Kulata, Knlati p. EE, 382*
-Kulattlia pt 84, 244, 245.
-
-Kulattba p. N. 375.
-
-Kulinda p. E. 316, 317, 323.
-Kulingap. F.?3i6
-Kitlira mt K. 278.
-
-KuHyap. W. 338.
-
-Etilu dt K. 316, 382.
-
-Kuliita c. E, 375, 381, 382.
-
-Kulya p. 3SF. 307.
-
-Kulya p. S. 331, 332.
-
-Kulya (semi^dmne race ?) 559*
-Kumana p. S. 332,
-
-Kumaon at E. 29, 286, 320.
-Kumara k, and c. 273.
-
-Knmara g. 502-505, 509, 514.
-Kumara dg. 232.
-
-Kumari r. 0. 285.
-
-Kiimarx r. 305.
-
-Kumud pt 29.
-
-Kumuda mt W. P 332, 365, 445*
-Kumud- vati r. E. ? 300.
-
-Kumud- vatl pr$, 627.
-
-
-708
-
-
-INDEX.
-
-
-Knm? p. NW.? 315.
-
-KiinabaPp. ¥W.? 375.
-
-Kiimpa p. NW.? 375.
-
-Kiindala vj, 113, 116"118, 120.
-Knndikera ? p. 0. ? 371.
-
-Kiiiidina L 0. 336, 673.
-
-Kwmt f, IS, 316.
-
-Kuiimda ? p. IS, 316.
-
-Kiin.|ara h, S. 367.
-
-Kimjara-dari pL S. 367.
-
-Knntala p. S. 308, 337.
-
-Kiintala p, M. 308.
-
-Kiintala p. W. ? 308.
-Kuiifcapravarana p, N. 346.
-
-Kiinti hd. 6.
-
-Kunti q, 23.
-
-Kimtila dt M. 308,
-
-Kunyataladaha ? p. ISW, 375.
-ICupa r. 306.
-
-Kupathap. S. 332.
-
-Kuram r. WW. 298.
-
-Kurattee r. E. 294, 383.
-
-Kurmol dL S. 290.
-
-Kurru tribe, S. 332.
-
-Karn. h, and c. 274.
-
-Knru h, 354, 355, 461, 567, 652,
-677.
-
-Kuril/., see Kanrava.
-
-Knrn p. M. 308, 309, 333, 345-349,
-353-355, 359, 377.
-
-Kuril, Uttara {Northern), p. 282,
-345, 376, 387-390, 457-460, 567,
-575.
-
-Kurnba p. S. 332.
-
-Kuril- jangala dt, M. 309, 354.
-Kuru-ksetra dt M, 8, 293, 307, 354,
-378, 655.
-
-Knrnmba p. S. 332.
-
-Kurumin p. W. 339,
-
-Kurnrvahya ? p. M- 354.
-Kurntap. K. 382, 383.
-
-Knrnvinda gr, 245.
-
-Knsa h. 352.
-
-Knsa Je. 328, 330.
-
-Kusa gr. 31, 67, 118, 161, 258.
-Ka.^a-dvipa, 272-275.
-
-KuMa h. and c. 273.
-
-Knsa-stbali t (“Dvaraka), 289.
-Knsavartta b. 612.
-
-Kn^ernka p. IS, 321.
-
-Kniikars. 31,45, 60,61.
-Kn^manda gh, 262.
-
-Knsottara h, and c. 273.
-Kuaumap. S..332, 366.
-
-
-Kuta-saila mt. 290.
-
-KtUch dt W,, see Kachli,
-Knthapravarana p. N. 346.
-Knvalaya pt 29.
-
-Knvalaya, horse, 109, 113.
-Kuvalayisva h, 109-127, 133-142, ^
-145, i86.
-
-Kiivera g. 6-10, 460, 474, 475, 489,
-494, 531, 562, 574, 638, 680.
-
-Kyah pariridge, 86.
-
-Ladaba p. !NW. 375.
-
-Ladaka ? p. NW. 375-
-Lagenaria, pt 118.
-
-Xjag-Goose, 30, 409, 410.
-
-La'jjaPr. M.P 297.
-
-Laknca tr, 25.
-
-Laksmi gs, (=8'ri), 101-105, 249,
-255, 269, 416, 419, 515, 522, 638.
-Lalittha p. NW. 374.
-
-Lamhddi p. S. 333.
-liamhagse p. NW. 321.
-
-Lambana k, and c. 273.
-
-Lamghdn dt NW. 321.
-
-Lampaka c. NW. 321.
-
-Lamulinl r, E. 305.
-
-Langall r. E. ? 305.
-
-Langulim r. E. 305.
-
-Lanius hd, 28.
-
-Lanka t S. 346, 362.
-
-JOapis lamli, 366.
-
-Lapwing bd, 394.
-
-Lasa pr, 670.
-
-Lasnnapi. 165.
-
-Ldn pt 118.
-
-I LauM h, 357.
-
-Laubita/. 357.
-
-Lanliitya r. NE. 357, 370,
-
-Lauliitya c. NE. 357.
-
-Lava h. 352.
-
-Lavana k, 352.
-
-Lay a {music), 131.
-
-Lekba gods, 454.
-
-Lentil pt 165.
-
-Lepa-bhnja pitrs, 157, 158.
-
-Leprosy, 443.
-
-Light {element), 128, 129, 217, 221,
-230.
-
-Lika d. 266, 267.
-
-Lila dg, 418 (=:Nila).
-
-Lilajan r. M. 297.
-
-LiJavati prs. 627.
-
-Lilayudba p. W. 334.
-
-Idmbu p. N, 322.*
-
-
-INDjEX.
-
-
-709
-
-
-lAmrd, 181, 210.
-
-Locust^ 8.
-
-Loliini n NB, 293.
-
-Loliita r. NB. 293, 357.
-
-357.
-
-'LoMta/. 357.
-
-Loliifcya pi. M. 357.
-
-Lohitya r. FE. 357.
-
-Loka, see World.
-
-Lokaloka mis. 275.
-
-Loka-pala dg. 55, 277.
-
-Lola k. 439, 441.
-
-Lolana p. FE. 383.
-
-Loma-pada k. 320, 454.
-
-Lopamndra prs. 293.
-
-Lotus, 1, 2, 18, 24, 29, 30, 97, 147
-255, &c.
-
-Lotus Water-lily, ft. 29.
-
-Love, 2, 15, 115, 119, 170-172, 185,
-188, 198, 215, 264, 430, 467.
-Love-god, see Kama.
-
-Lusati r. 305.
-
-Lute, 132, 135, 396, 417, 571, 647.
-
-Madalasa q. 114, 115, 118-126, 133,
-136-145, 148, 151, 155, 157, 160,
-164, 168-171, 180, 181, 186-188,
-214.
-
-Madanika fern. d. 7.
-
-Madayanti q. 336.
-
-Madga hd. 3l, 85, 86.
-
-Madguraka p. E. 324.
-
-Madhu mU F. 279.
-
-Madhu k. 352.
-
-Madhu rs. 454.
-
-Madhu d. 465, 469-472, 519.
-Madhumatta p. FW. ? 375.
-Madhu-pura t. M. 352.
-Madhu-vana M. 352.
-
-Madhya-desa c. 309, 333, 345, 351-
-355.
-
-Madra c. and u. FW. 311, 315-317,
-347-350, 372, 373, 377-380, 665,
-670.
-
-Madra ? p. E. 329.
-
-Madra r. 0. 299.
-
-Madra p.,=:Madra.
-
-Madraka k. 311, 315.
-
-Madraka j?.,=:Madra.
-
-Madras, 332.
-
-Madri q. 23.
-
-Madwra t. and dk S. 331.
-
-Magadha c. and^jp. M. 308, 330,
-337, 341, 357, m.
-
-
-Magadha p. M. 330, 664.
-
-Magha cst 168, 169.
-
-Magic, 79, 201, 392-395, 554, 555,
-614.
-
-Magician, 174.
-
-Maha-bhadra L F. 278, 282.
-Maha-bhadra mt F. 279.
-Maha-deva g. 268.
-
-Maha-druma k. and c. 273.
-Maha-gauri r. E. ? 301.
-Maha-griva p. 360.
-
-Maha-hanu d. 479.
-
-Maha-kala t. 0. 521.
-
-Maha-kali gs. 521.
-
-Maha-Kosaia c. 308, 342, 371.
-Maha-mari, disease, 519, 521.
-Maha-Maya gs. 465, 469, 515.
-Maha-nada r. SE. 295, 298.
-Maha-nada pr. 670, 672.
-Maha-nadi r. SE. 284-286, 295-
-298, 300, 305.
-
-Mahananda pr. 672, 673.
-
-Maha-nila mk F. 278.
-Maha-padma dg. 408, 416, 494.
-Maha-rastra c. and p. W. 333, 363.
-Maha-ratha k. 612.
-
-Maha-raarava hell, 54, 71, 72,
-Mahar-loka, 227, 553.
-
-Maharnava p. W. 370.
-
-Maha-saila mk F. 279.
-
-Mahat, 217, 220-223, 231.
-
-Mahatl r. W. 294.
-
-Mahavita h. 272.
-
-Mahendra mis. E. 284-286, 305,
-334, 362.
-
-Mahesvara g. 504, 505, 514.
-MaJieswar t. 0- 3^.
-
-Maheya p. W. 339.
-
-Mahi n W. 294, 339.
-
-Mahika p. W. 340.
-
-Mahindra mts. SE. 284.
-
-Mahisa d. 473-487, 519, 524.
-Mahi^ka p. S. 333.
-
-Mahisika p. S. 333.
-
-MahisikI rJ C. 334.
-
-Mahismaka p. 0. 333*
-
-MaMsmat h 333, 371.
-
-Mahismati k C.310 333,336,344,
-37i:
-
-Mahita r. W. 295.
-
-Mahratia p. W. 333.
-
-Mahiyutitara p. E. ? 327.
-
-Jfaiwa hd. 49, 58-61, 84.
-
-Mainaka mk H. 269, ^7, 376
-
-
-INDEX.
-
-
-710
-
-Mainaka mL W. 288.
-
-Mainaka mt S. 288.
-Mainaka-prabha ? r. C. 288.
-
-Maitra cst. 370.
-
-Makandi t M. 353.
-
-Makara dg. 416, 417.
-
-Makari r. M. ? 298.
-
-Makruna r. M. ? 298.
-
-Maksaila r. M. ? 298.
-
-Mdl p, E. 330.
-
-Malada p. E. 326.
-
-Malada p, E. 326.
-
-Malaja jp. M. 309, 325.
-
-Malaka p. M. 308.
-
-Malati ft 27, 152.
-
-Malava p. M. 341, 354, 377, 379.
-Malavanaka p. 0. ? 326.
-
-Malavartin jp. E. 326.
-
-Malaya mts* S. 285, 287, 304, 362.
-Malda dt E. 326.
-
-Male f. E. 330.
-
-Malignant spirits, 250-268.
-
-Malika? f, NW. 318.
-
-Malim t E. 325.
-
-Malini aps, 538.
-
-Malla f* E. 330.
-
-Mallif, 318.
-
-Mallika pt 24, 25, 425, 426.
-Mallikarjuna temple, S. 290.
-
-Mdl FaJidfiya p. E. 330.
-
-Mdlwa c. 286, 312, 338, 341, 354,
-361.
-
-MalyaPp. NW. 315.
-
-Mdna^hhumi dt E. 326.
-
-Manada p. E. 326.
-
-MaBaka, 178.
-
-Manakalaba ? f, N. 379.
-
-Manas (ikfmd), 221,
-
-Manasa Z. N. 278, 281, 288, 322,
-376, 384.
-
-Minasa K and c. 273.
-
-ManasvinI w. 269.
-
-MSnavacala h E. 356.
-Manavarjaka jp. E. 326.
-Manavartika jp. E. 326.
-
-MdnWinm dt E. 326, 327.
-
-Mandaga r. 305.
-
-Manda-gaminl r. 305.
-
-Mandakim r. E. 296, 298.
-Mandakini r. S- 302.
-
-Manda-pala K 8.
-
-Manddr tr. 27, 494.
-
-Handara mts, E. 277-280, 310, 316,
-322, 351, 381,^82, 402.
-
-
-Mandara mt E. 287.
-
-Mandara ir, 27.
-
-Mandara dg. 402, 407,
-Manda-vaMni r. 305, 306.
-Mandavya m. 91, 94, 97.
-
-Mandavya p. EW. 349, 374, 380.
-Mandavya rs. 374.
-
-Mandavya-pura t S. 374.
-Mandhatd t C. 334.
-
-Mandhatr h. 655.
-Mandikap.EW.?374.
-
-Mango tr, 24, 197.
-
-Manijala r. 0. 302.
-
-Manimat mt EW. 370.
-Mani-megha h, EW. ? 370.
-Maniiiga r. C.P302.
-
-Maninl q. 578, 584-586.
-
-Manipur t. C. 371 .
-
-Mani-saila mt M. 278.
-
-Mainvaka h. and c. 273.
-
-Manjird r, S. 289, 302.
-
-Manjula r. M. ? 297.
-
-Mdndcaolm ft 178.
-
-Mankind, Primeval, 231-247.
-Mandion incarnation, 21, 503, 504.
-Mano-java g, 454.
-
-Mano-rama r. M. 290, 306.
-Mano-rama demi-gs, 401, 402, 411.
-Manns, The, 226, 227, 271, 408,
-411-415, 432, 435-437, 441, 449,
-455, 461-465, 535, 549, 550, 684,
-686. See Svayamblinva, Svaro*
-cisa, Anttama, Tamasa, Baivata,
-Oiksnsa, Yaivasvata, SSvarni,
-Bancya, and Bbantya.
-
-Mannga h. and c. 273.
-Manvantaras, The, 218, 224, 227
-271, 549, 550, 685.
-
-Manya-vati 627.
-
-Maraka? f* EE. 383.
-
-MaratM ? r. S. 302,
-
-Marica cZof.? 462, 465, 535.
-
-Marici ra. 246, 249, 269, 558, 559.
-Markandeya rs, 1-7, 11, 16-19,
-and passim 217-237, M7, 256,
-268-283, 348, 349, 387, 391-467,
-522—689
-
-Markajydeya Purana, 219, 684-688.
-Markataka pt, 165, 245.
-
-Markati ? pt 245.
-
-Marhingmut tree, 25.
-
-Marriage, 118, 119, 149, 165, 166,
-170, 176, 177, 252, 526, 527, 594-
-596, 670-672.
-
-
-mpEx.
-
-
-Mars, plamt, 431, 626.
-
-Martaiida g. 455, 550, 551, 563-566
-574-576.
-
-Marttikavata t W* 349.
-Maru-dh.aii¥an dg. 402.
-
-Maru-blidmi c. W, 354.
-
-Marat g. 55, 461, 645, 648.
-
-Maruta pL 246.
-
-Marata p. M. 353.
-
-Maruta a. 474,
-
-Maratta h 146, 644-649, 652-656,
-672.
-
-Marutta h. 653.
-
-Masa pt. 84, 85, 165, 244.
-
-Mmh-haldy pt, 84.
-
-Masura pt, 165, 244.
-
-Matarisvau g. 100, 539.
-
-Matbara ? p, MW 317.
-
-Matliuri U M. 21, 307, 351, 352.
-Mathura t, S. 331.
-
-Matra 128, 194, 205, 470.
-
-Matsya h. 359.
-
-Matsya c. and p, 307, 329, 347, 351,
-354, 359, 360, 377, 382. |
-
-Matta gh, 264. i
-
-Matter {element), 221.
-
-Mauleya p. S. ? 336.
-
-Mauli? p, MW. 388.
-
-Maulika p. S. 336.
-
-Maunika p. S. 336.
-
-Maury a demons, 501.
-
-Maya d, 416.
-
-Slay a gs, 250 ; see Maha-May a,
-Mayura mi, M. 279.
-
-Maseims, see Gustom*
-
-Measures of length, 240; qf time,
-226-228.
-
-Meat, 164, 167, 168, 174, 175.
-Medhas 5. 466.
-
-Medhatithi h 272, 273.
-
-Medhavin h. and e, 273.
-Megba-parvata mU M. 279.
-
-Mekala hilU 0, 288, 327, 341.
-Mekala c- andp. 0. 327, 341, 357.
-Mekala L or r, 0. ? 358.
-Mekbalamusta? p. E. 357, 358.
-Mena demi~gk 269.
-
-Mena ps. 270.
-
-Mena aps, 287.
-
-Menaki aps, 4, 8, 571.
-
-Merchant, see Trade,
-
-Mermry, planet, 431, 626 ; see
-Budha.
-
-Metu mt 22, 223, 244, 269, 275-
-
-
-282, 345, 351, 390, 391, 478, 576 ,
-582.
-
-Meru-nanda h, 411.
-
-Metempsychosis, see Transmigra-^
-tion.
-
-Metres, 235, 236.
-
-Michelia tr, 26, 326, 364.
-
-Micita r. M. 292.
-
-Mid'iiapur dt, E. 301, 327, 830.
-Mimusops tr. 26.
-
-Mind, 190, 221.
-
-Mithila p. M. 330.
-
-Mithila t, and c: M. 329, 356, 358,
-Mitra g, 588, 589.
-
-Mitra-vinda s/. 433.
-
-Mleccha p. 290, 312, 313, 317-320,
-328, 335, 346, 350, 636.
-
-Modagiri pi. E. 324.
-
-Mohammedans, 284.
-
-Mohana r, 0. 297.
-
-Mohani gb. 264.
-
-Moksa-sastra, 2.
-
-3£omordica pt, 114.
-
-Monghyr t. and dt. E. 324, 325,
-356.
-
-Monkey, 49, 84, 208, 235.
-Monkey-jack tr. 25.
-
-Moon, planet and g,, 147, 280, 431,
-447, 448, 473, 474, 562, 626.
-Moon^worship, 80, 178, 264.
-Moming-star, 207.
-
-Mosquito, 72, &c.
-
-Motors, goddesses, 504-506, 524;
-see Sfakti.
-
-Mountains, 275-289, 356, 357, 362,
-370, 376.
-
-Mrga-^iras cst, 355.
-
-Mrkaipda dg, 269.
-
-Mrsika p. SE. 332, 359.
-Mrttikavati t. W. 342, 349.
-
-Mrtyu pfn. 247, 250, 263.
-Mucukunda h. 333, 336.
-
-Mudakara p* E. 324,
-
-Mudavasu? h. (=Udavasu).
-MudaTati prs. 604-609,
-
-Mndga pt, 84, 165, 244.
-Mudga-giri pi, E, 324,
-
-Mudgala p. E. ? 325.
-
-Mudgalapuri t E. 324.
-Mudgalasrama t E. 324.
-
-Mug pt. 84
-Mug-haldy pt, 84.
-
-MumTaiit pL H. F 655,
-
-Mnka f, 0. 309,
-
-
-INDEX.
-
-
-f:2
-
-
-Mukhya gods, 464, 465.
-
-Miikti, see Final emancipation*
-Mukti-matl r. 0. 298.
-
-Mukuti r. M. ? 298.
-
-Mukiinda dg, 416, 417.
-
-Mula cst 170, 374.
-
-Mule, 235.
-
-Mali dg. 394, 395.
-
-Mull n SE. 305.
-
-Malim r. SE. 305.
-
-Mun(Ja p, C. 329.
-
-Muiida d. 494-501.
-
-Mungir t E. 324, 325,
-
-Muni h. and c. 273.
-
-Muni demi-gs. 559.
-
-Munja gr. 192.
-
-Munja-prsfclia mt. M. 655.
-Muiijavat mt. N. 655.
-
-Muiijavata ti. M. 655.
-
-Munjavata ml M. 655.
-
-Mura, see Muru.
-
-Murchana (music), 131.
-Murshidahad dt. E. 326.
-
-Muru h 328, 383, 501.
-
-Musaka p, S. 332.
-
-Musi r. S. 366.
-
-Music, 100, 107, 109, 130-132, 135,
-138, 251, 571.
-
-Musika p. S. 332, 366.
-
-Musk-rat, 87.
-
-Mustard pU 84, 162, 165, 181, 258-
-261, 266.
-
-Muttra t M. 307, 351, 352.
-
-Myna hd., see Maind.
-
-Myrohalan tr. 25. 26.
-
-Mysore c, S. 286, '332.
-
-
-ISTabhaga ) (son of Manu Vaivas-
-Nabliaga j vata) h 462, 588.
-
-Nabhaga j" Q( Manu VaW
-< vata): see In abb a-
-
-
-Nabhaga
-
-
-vata) ; see Mabha-
-^ gadista.
-
-Nabhaga (son of Eisfca) pr. 593-
-
-
-(
-
-
-60^-.
-
-
-Nabhakanana p. 8. 337.
-ISTabhanedistha k. 588, 593.
-
-Nabbi h 271, 273, 274.
-
-Naciketa 159.
-
-Madia dL E. 326.
-
-Naga, mce, 7, 55, 109-111, 115-117,
-125, 127, 130-140, 201, (232, 234),
-238, .279, 288, 362, 379, 395, 429-
-
-
-435, 495, 516, 531, 542, 559, 571,
-644, 645, 648, 653, 657-664, 677.
-Naga-dvipa c. 284.
-
-ETaga-giri mt* G. ? 288.
-liTagakva, Maga-pura ) .
-J^aga-sabvaya J
-
-Nagpur t. 0. 288.
-
-ETaimisa/or. M. 306.
-
-Mairnika p. S. 337.
-
-Kairrta p. S. ? 337.
-
-ISTais^dba p. W. 337, 341, 343.
-Naisika f. S. 337.
-liTaiwal n M. 291.
-
-]S[akulaL 312, 322, 342.
-mia h. 299, 343, 362.
-
-¥ala^n 597, 600-602.
-
-Nala candanodaka-dundubbi ? pr.
-647.
-
-l^alakalika _p. S. 337.
-
-Nalakanana 5>. S. 337,
-
-In ala-nabba dg. 404.
-
-Naldrug t. S. 289.
-
-Nalina tr. 25.
-
-ETalini pt. 30.
-
-ISTamavasaka S. 333.
-
-ISfanda p. M. 383, 412.
-jNTaada m. 517.
-
-ITanda r. M. 369, 383, 412.
-bfanda-ka dg* 416, 418
-Efandana pL 4, 487.
-
-E*andana/on N. 278, 281.
-ITanda-vati i, M. 411.
-jNTandlmukba piifs, 155, 179.
-l^andim q. 446.
-
-ITandiux q, 618.
-iJ^ara 2.
-
-ETara k, 442.
-
-]S[ara, waters, 20, 229.
-llfarada rs. 4, 571, 654.
-bTaraka k* 328, 383.
-l^araka 47-49, 54, 57, 69-72, 158,
-247, m; see Hell [504.
-
-ETara-siinba inoamation, 21, 503,
-ITarayana g. 2, 20, 55, 228, 229,
-269, 280, 386.
-
-Efarayani gs. 513-515.
-
-Narikela p* SE. 360.
-
-ITarikela isl. 360.
-
-Narikhorsum dt. N. 324.
-
-ISTarisya k* 350, 463.
-
-Marisyanta (son of Manu Vaivas-
-vata) k 463, 588, 666.
-
-Marisyanta (son of Marutta) h* h77,
-665-668, 673“676r 680-682.
-
-
-IHDEX.
-
-
-7ii
-
-
-Narmada (Werhudda) r, 0. and W.
-19, 286, 296, 298, 333, 338, 339,
-343, 344, 365, 368, 371, 600.
-Nasatya g* 460, 575 ; see Asvins.
-Nasik I W, 289, 337, 339, 365.
-Nasikya p. W. 337, 339, 365.
-Nasikyava ? jp. W. 337, 339.
-
-Nature (Prakrti), 192, 193, 196,
-224, 225, 231, 232.
-
-Nauclea tr, 25, 277, 565.
-
-Naya h, 333.
-
-NaTa-r^stra c. and p. M. 333.
-
-Nehu tr» 25.
-
-Nedisfcha, see Nablianedi§tlia.
-Nelumhium pt 29, 30, * 147 ; see
-Lotus,
-
-Nepal c. N. 316, 321, 322, 345-347,
-360, 376.
-
-Nerhudda r , ; see Narmada.
-
-Newar p. N. 345.
-
-Nibha P prs, 627.
-
-Nioita n M. 292,
-
-Nidhi dg, 408, 409, 415-419, 494,
-638.
-
-Nigarbara ? p. N, 345.
-
-Nigbna gh, 264.
-
-Nightshade pt 166.
-
-Nihara p, N. ,345.
-
-Nikata p. S. 362.
-
-Nikrntana, hell, 71, 72,
-
-Nila mts, N. 275-279, 388.
-
-Nila k, 334, 344.
-
-Nila dg. 416, 419.
-
-Niiayndba p. W. 334.
-
-NUgiri mts. S. 285, 363.
-
-Nil! q. 353.
-
-Nllotpala pt 29, 30, 104.
-
-Nipa'k 350, 598.
-
-Nipa rs, 597-599.
-
-Nipa p, 350, 353, 598.
-
-Nipa tr, see Kadamba.
-
-Nirahara ? p, N. 345.
-
-•Niraya, hel% 68, 70.
-
-Nirbandbya r, 0. 299.
-
-Nirbindbya r, 0. 299.
-
-Nir-marsti d, 257.
-
-Nirrti ^s,'250, 263, 490.
-
-Niryindbya r. 0. 299, 605, 606.
-Nirvindbya r, S. 299,
-
-Nirvira r. M. 292,
-
-Niryrti-cak§iis rs. 440.
-
-Ni§ada p. 0*360, 36L
-
-c. and p.. W. 300, 34S,
-
-
-Nisadha mts. N. 275-277.
-
-Nisadba mt NW. 278.
-
-Nisadba n W. ? 300.
-
-Nisadba vati r. W. P 300,
-
-Niscara rs, 415.
-
-Niscira n M. 292.
-
-Nisei ta r. M. 292.
-
-Nispava_pL 86, 165, 244.
-
-NiJumbba d, 488, 494-497, 500,
-503, 506-509, 517-621, 524.
-NisTira r. M,.292,
-Nitya-naimittika sf, 95.
-
-Nivara eer, 165.
-
-Nivara r. 292,
-
-Nivesa, 818.
-
-Niyati gs,.269.
-
-Niyojika gb. 257, 259, 264.
-NrsimbaPn. NW. 375,
-
-N5pi r. M. ? 295.
-
-Nymphoea pt 29, 30.
-
-Oceans, 275.
-
-Ocymum pt 164, 532.
-
-Odrap. and c, B. 329.
-
-Ogha-vati n M. 290, 306.
-OkhalaMya p, 366.
-
-Om, 128, 195, 205, 206, 550-554,
-557, 561,
-
-Omms, 207-211, 263.
-
-Onion pt 165.
-
-Organs of sense (indriya), 15, 16,
-Orissa c, 1. 284, 301, 327, 334, 336,
-360, 3^1, 365.
-
-Ortygomis Id, 28, 86.
-
-Osmotreron hd, 28.
-
-Ougeinia tr, 28.
-
-Owl, 72, 263.
-
-O^aMs pt 25.
-
-O^us r, NW, 292, 324.
-
-Os»ydrcm p, N. 377.
-
-Faddy, 84.
-
-Paddy-hird, 59,. 86.
-
-Padgama p. 0. 343.
-
-Padma, flower, , 30.
-
-Padma, seat, 195.
-
-Padma dg, 416.
-
-Padma maba-Jcalpa, 228.
-Padmavata c, W. 289.
-
-Padmini pt 80. ,
-
-PadminI, science, 408-411, 415, 416,
-419.
-
-Pablava p, W. 314, 320, 350, 353,
-
-368, 371, 383.
-
-
-tmm*
-
-
-7M
-
-Pdbj r. W.
-
-Faifi r. O, 285.
-
-Fuimmi r. M. 297.
-
-Paifcrja csL.361.
-
-Pakarsaiiistlii sf, 128.
-
-EalaHdn ft, 165.
-
-Fcdash tr, 28.
-
-PaJasinf r. 306.
-
-Pallava?!?. M. SM.
-
-Palava j?. S. 3S2.
-
-FaJlm^a palm, Ir. 27-
-Pamsa-pala P p. IOj. 381.
-
-Paaj?. SE. 361.
-
-Famam ir» 25.
-
-Pancadaka jp. MW. 372.
-PaScjaJamP dt MW. 312.
-
-Falcala e, and p. M. 3(^, 309, 350-
-355,382.
-
-Piicala |j.,=Pancala.
-
-Fa^aim r. M, 330.
-l^ncanada c. and n. MW. 31^ 372,
-378
-
-Batcapsaras 1. G.P 342.
-Fmmrimla, mi. M. 279.
-PancsodaJsa? p. MW. 372*
-Fmdamm, shmh, 26.
-
-Pandiara IL P
-PSa^aiTa fm 6-9, 19-241, 341, 344-
-.W, 355, 365, 377, 416, 461, m,
-670.
-
-Pau^a^eja jpn 31, 37.
-
-Fmdkcma ml. M. ? S87.
-
-Jk. 3, B, 20, m, 146, 345.
-FmSha t E.
-
-P^mkM.288.
-
-Piadam ml. M. 279.
-
-Paadam ml. M. ? 288.
-
-Pa®4ya jp. B. 287, 304;, 331, 332,
-344. 370.
-
-Pa^^ya? p. W. 369.
-
-Fammm cer, 165, 203, 244.
-
-Fimjab 3U-318, 321, 324, 833,347,
-351, 373, 377-380.
-Pa&l:aja,.^ai9er, 30.
-
-Pankajini L W. 445.
-
-Paaiaai r. M.P298.
-
-Paarap- 8. 365.
-
-Pam|)enod,224.2!^
-
-Pamr.M.295.
-
-Km m 4C^ 407.
-Pamr.M.295,^.
-
-Paiada p. MW. 312, 317, 319, 3^,
-
-m.
-
-Pfwakpm jpr W* 3%
-
-o
-
-
-I Parafem rs. 669, 677.
-
-ParafeTa p. W. 839, 369.
-Paralava/. 369.
-
-Parasa-Bama ra. 310, 338, 339, 369,
-371, 464.
-
-Para-tangaaa p, M. 323.
-
-Paravata tr, 25.
-
-Paravata gods, 415.
-
-Fdrhati r. M. 295, 299-
-Pa^ijata In 27, 494.
-
-Parlksit h, 379.
-
-Paripitra mis. M. 285, 286, 295,
-354.
-
-Paripatra mis. M. 277, 279.
-Parifcap. MW. 317.
-
-Parivarta-ka gh, 257, 258, 263.
-Pariyatra mis, M. ;=Paripatra.
-Parjanya g. 178, 539, 618.
-
-Parjanya rs. 449.
-
-Parua n M. 294.
-
-Parnasa n M. 294.
-
-Parna*salagra ml. ME. 388.
-Par^m^Yara p. SE. 361.
-
-Parrot, 28, 87.
-
-Farsanmi n M. 297.
-
-Fartridge, 28, 86.
-
-Fartd In 27.
-
-Parva^a Iraddha 157*
-
-Panra^Eb rs. 269.
-
-Parvati gs, 290, 488, 493, 494.
-Farwan n M. ^9.
-
-Fasaiida p. M. 354.
-
-PaiinlV.m
-Faspahm cer» 244
-Fassum (raga), 16, 16.
-
-FmBim (rajas), see QmUties.
-Pa§u-"pala c. M3S. 38L
-Pa^-pati dg* 268.
-
-Pataccarap. M, 309, 343.
-
-Piktala If. 27.
-
-Pifala, world, 47, 55, 60, 110-115,
-119, 120, 125, 132-137, 429-435,
-465, 475, 503, 518, 521, 531, 604-
-608, 645, 648, 656-661, 664, 677.
-Patalarkefcu d. 109, 113-116, 119-
-122.
-
-Patandiiama ml. M. ? 287
-Patangaka ml. M. 279.
-
-Fathar mis. M. 286.
-
-Fatna I. and dl. M. 330.
-
-FaUidla dt. M. 321, 347.
-
-Patu p. 0. 343.
-
-Paud^ya I. O.F 337.
-
-Paiqi^p, and^ E. 329,
-
-
-mmx.
-
-
-W5
-
-
-Patmdraka, Paundnka j?. B.
-PauBika p. W. ? 336.
-
-Paurava, wc6, 331, 360, 360, I
-374, 384, 461, 698, 677.
-Paiirava ? p, NE. 384.
-
-* Paurika p. S, 336.
-
-PaiirBamasa rs. 269.
-
-Pauskala cer. 166.
-
-Pavaka %. 270,
-
-PavamEna 270,.
-
-Pavani r. HE. 323.
-
-Payolii ? r. 0. ? 299.
-
-Payosiii r, W. 299, 336, 366.
-Payosni r. M. 299.
-
-Pm, 84, 86, 244, 246.
-
-Peacock, 87, 147, 260, 394.
-
-Pearl, 304, 366, 476,
-
-Peepid, see PipaL
-Pelican, 30,
-
-Pelicanm, hd. 30.
-
-Pen-ganga r. G. 299.
-
-Penner r, S. 303,
-
-Perdiz hd, 28, 86.
-
-Peri r. S. 304.
-
-Persia, 314,
-
-Peydrd ir, 26.
-
-Phala-giri mt W. 373.
-
-Phalgu y. M, 297,
-
-Phalguluka p. W. 873.
-Plialgunaka p. W*. 373.
-Plialgiini cat 169, 361, 367.
-Phaseolm pt 84.
-
-PJmsiaims hd, 29.
-
-Phena-giri mL W* 373.
-Pheasant, 28, 29,
-
-PhylkmtJms tr, 26, 26.
-Physickm, 160, 180, 261.
-
-Pidika p. N. 322.
-
-Pig, see Boar,
-
-Pigeon, 28, 84, 86, 87, 208, 263.
-PlnaP p, H. 319.
-
-Pinaka, how, 403, 474.
-
-Pini-ka? n S. 303.
-
-Pinda, cake, 144, 166-168, 162, 1
-179 , 183 , 255 , 632 , 683 .
-Pin^a-mQlaka pt, 166.
-Pingaksa hd, 3.
-
-Pingala mt H. 279.
-
-Pingala p, HW. 379.
-
-Pinjala n 379.
-
-Pmiara mt, H. 279.
-
-Pmus tr, 27,
-
-Pipalir,m,m,
-
-PipSthato ^9,
-
-
-Piptlikz,md, 86 ,
-
-Pipdra, large md, 8€U
-K Pippala tr, 33, 277.
-
-Pippala r. M. 297.
-
-Pippalisroni r, M . 297
-Pipfd, large ant, 86 -
-Pipyaiasroiii r. H. 297*
-
-Pi^ca d. 46, 47, 168, 207 232 236,
-238, 308, 620, 633.
-
-Pisacika r, M. 297.
-
-Pisikajj- 8. 366.
-
-Pismia gh, 263,
-
-Pitrs, 14, 76, 79, SO, 86, 88, 96, 119,
-1^, 133, 136, 144, 160-172, 176-
-183, 218, 232, 233, 236, 247, 249,
-263, 264, 270, 272, 483, 626-638,
-666, 661, 676, 619, 620, 639, 680,
-^6 : their 31 clmses, 633-636*
-Pitrsoma r. 8E. 304.
-
-Pivara rs. 442.
-
-Pivaari q. 76.
-
-Plalm-dvlpa, 272-276.
-Plak^Yatarana ii, M. 127.
-
-Plmid, 168, 2^, 27^ 386-387, 431,
-636, 681, 626.
-
-Phmiain ir, 26*
-
-Plava hd, 30,
-
-Podiceps hd, 31.
-
-Pole-star, 112, 207.
-
-Polyavidrg, 3, 19, 21, 23.
-Pomegnmaie ir, 26.
-
-Pmmni r. 8. 304.
-
-Poofia«.W.336.
-
-Pormpme, 49, 181-
-Pota.kap.HW.388
-PoUer*s whed, 72.
-
-PrabliEkarars. 320.
-
-Prabiiasa ii, W. 338, 340,
-
-PrabhEm le, 411, 412.
-
-Prabba.¥atf f - 664.
-
-Pracaada d, 266, 267.
-
-Pracaada pr. 610.
-
-Pracfmpr- 610.
-
-\ Pracodika gh, 264.
-
-Pradba demi-gs, 369, 669*
-PradhaBa, 217, 220, 226.
-
-Pradbeja p, W, 368, 369.
-Pradyuixma g, 21.
-
-Pragjyotisap., o* and t. HfB, 319,
-m S67, m, 601.
-
-Pmjim k, 611*
-
-Prajipati, ^ 70, 96, 99, 1^ 163,
-178, 179,219,2^, ^^^8,248,
-266,272, 436, 4*53, 46S,
-
-
-716
-
-
-465, 470, 473, 474, 494, 526, 534-
-536, 551, 560, 566, 572, 582, 608,
-685.
-
-PrEjapatya pi, 246.
-
-Prajati h 610, 611.
-
-Praja-vatx q. 272.
-
-PrEkara k and c, 273.
-
-Prakara h, and c. 273.
-
-Prakasaka gh. 267.
-
-Prakrt, 352,
-
-Prakrti, 217, 220r-225, 228, 231,
-232, 483, 489.
-
-Pralolnpa bd, 6.
-
-Pramatha q, 618.
-
-Pramati rs, 586, 597, 600-603.
-Pramati h, 611.
-
-Pramati h, 612.
-
-Pramatta gk 264.
-
-Pramloca aps, 538.
-
-Pramsii (son of Mann Yaivasvata)
-h. 463, 588
-
-Praitisn (son of Vatsapl*!) h, 610.
-Pramnca rs, 4^, 445.
-
-Prai^a (vital aw), 203.
-
-PrEiia dg. 269,
-
-PrEna rs. 415.
-
-PrEiiayama, 194-196.
-
-Franhita r. S. 300, 302.
-
-Prapta p. 'N. 378.
-
-Prapti (faeulty) 195.
-
-Prasandhi k. 611.
-
-Prasatika eer, 165.
-
-Prastkala p, 320, 321, 347.
-Prasnhma e. and p, 327.
-
-Praiupaia c. HE- 381.
-
-Prasata gods, 454.
-
-PrasEti demi~gs,247-2M,
-Pratpdanakkya^ods, 436.
-Pratiloma Sarasvatl r. 31.
-
-Pratipa h 350.
-
-Pratistkana 1 M, 93, 587, 590,
-PratyEkara, 196.
-
-Pratyaya-sarga, 231.
-
-PranstkapadE cst 381.
-
-Pravakga p, E. 325.
-Pravara-karna m, 346.
-
-Pravijaya jp. E. 327.
-
-Pravira m. 44,
-
-Pravr§eya p. E. ? 327.
-
-Prayaga t M. 310, 361.
-
-Priti w, 269,
-
-PriyalanMka? p. H. 319,
-
-Priyangn cer, 165, 203, 244, 245.
-Priy a-pntra bd. 2§, 29.
-
-
-Priya-vrata, 247, 248, 271-274. 445.
-Prosaka^. H. 320, 321.
-
-Prsadkra k 463, 588-592.
-
-Prsata k 350, 353.
-
-Prtka q, 23 ; .see Knnti,
-
-Prtkn rs. 442.
-
-Prnsadkrn, see Prsadkra.
-
-Fsidmm tr, 25.
-
-Fterospermnm tr. 27.
-
-Fudukota dt. S. 332.
-
-Pukkasa, tribe, 47-50, 68, 85, 8
-159
-
-Pnlaka rs. 246, 249, 270, 274.
-Pnlastya rs. 246, 249, 269, 533.
-Pnleya p. W. 338.
-
-Pnlinda p, K. 315, 316, 321-323.
-Pnlinda p, 0. 317,
-
-Pnlinda p, S. 335, 359,
-
-Pnlinda p, W, 338.
-
-Fulse, 84, 86, 165, 244, 245.
-Pnnarvasn csi. 169, 358.
-Pnndarlka pt, 29 ; see Lotus,
-Pundra k 325.
-
-Pnndra p, and c. E. 327, 329, 331,
-334, 358.
-
-Pninjraka p, E. 329.
-
-Funim tr. 25.
-
-PnnjikE-stana aps, 407.
-
-Pnnnaga ir. 26.
-
-Pn^giya isl, S. ? 390.
-
-Pnra, town, 241, 242.
-
-PnrEnas, 108, 219, 247, 685-689.
-Pnrandara g. 494, 623.
-Pnrandara-pnra i. 113, 114.
-Pnrandkra r p, H W. 313.
-Piiraniaya ps, 146.
-
-Pnrantila ft S. 412.
-
-Pure articles, 181, 182.
-Furit'E.336.
-
-Furification, 180-185.
-
-Purika 1 S. 336.
-
-Pwrm r. W. &9, 299, 335, 365.
-Piiriia p. H, 324.
-
-Pur{iotkata h, E. 357.
-
-Purn k 454.
-
-Pnrn k 384.
-
-Pnrnravas k 146, 167, 587, 589.
-Pnrnsa, 220-224, 248.
-
-Pnsadkra, see Pr§adkra.
-
-Pnsan (Sun), 582*.
-
-Pnskala p. H. 320, 321, 378.
-Pn§kalavati t HW. 321.
-
-Pnskara t and p. W. 306, 685.
-Pnfkara rs, P 538.
-
-
-INDEX,
-
-
-717
-
-
-Pufkara-dvlpa, 272, 275.
-Puskara-malin m. 116.
-Puskaravatl t. NW. 321.
-
-Paspa mL 288.
-
-Puspaja r. S. 288, 803.
-Puspa-jati r. S. 304.
-Puspaka mit N. 279.
-Puspa-vahim r. S. 804.
-Puspa-vati r. S. 304.
-Puspa-vatl ti. E. 304.
-Pnspa-vciii r, S. ? 304.
-Pusya cst 169, 868.
-
-Put, Jisllf 444.
-
-
-Qualities (guiia), 3-6, 16, 19-21.
-220, 221, 224, 226, 229-239, 247^
-261,
-
-
-Querquedula hd. 30.
-Quince tr. 26, 425.
-
-
-Eaddhakafcaka p. NW. 317.
-Eadheyapy. 369.
-
-Eaghu k. 304.
-
-Mdi pt. 84.
-
-Eaivata mt, W. 289, (445).
-
-Eaivata /or. W. ? 23, 24.
-
-Eaivata, Manu and manvantara,
-271, 448, 449, 649.
-
-Eaivataka mt W. ? 446.
-t NW, 318.
-
-Ea]a.grlia iM. 286, 330, 867.
-Ea;[a-masay>^. 165.
-
-Eajanya p, N. 880.
-
-Ea|as rs, 270.
-
-Ea]'a-i§aila mt. N. 279,
-
-Eaiasuya sf. 84, 86, 39, 68, 61, 366,
-641.
-
-Eaja-^yamaka cer. 165.
-
-Mdjgir t M. 331, 357.
-
-Edjmalmll hills, E. 325, 830.
-Bdjpuidna c. W. 286, 883, 354.
-Eajya-vardhana k 577-579, 583-
-586, 684.
-
-Eaksasa d. 6-8, 42, 47, 84, 89, 162,
-166, 201, 232-238, 255, 258, 279,
-346, 867, 402-405, 425-434, 516-
-620, 538, 541, 559, 571, 641, 677,
-682, 688.
-
-Eak§asa marriage, 596, 671, 672.
-Makta-kanchan tr, 27, 166.
-Eakta*vija d. 601, 504-606, 624.
-BaktotpaIa|>t 29, 80.
-
-ESma (Oandra), k. 309, 351, 352,
-
-666 ,
-
-
-Eama Jamadagnya, see Para^n-
-Eama.
-
-
-Eama (Bala-), see Bala-Eama.
-Eamajp. l^TW. ? 317.
-
-Eamana p. 15'W. ? 317.
-
-Eamata p. NW. 317.
-
-Eamatha NW. 317.
-
-Eambta w. 647.
-
-Earabhaka? p. NW. 388.
-Edm-gangd r. M. 292, 354.
-Eamgarh c. 0, 296.
-
-Mdmgarh h. E. 330.
-
-Eamyaka c. N. 390, 391.
-Eauavanya ? k 651.
-
-Eangeya ? p. E. 826.
-
-Eanksu ? r. N. 292.
-
-Eautideva k 368.
-
-Bapti r. M. 294, 329.
-
-Easa r. NW. 377.
-
-Easalaya p. N. 377.
-
-Basatala, world, 109, 110, 116, 133.
-
-430, 435, 531, 606-608, 644, 669.
-Eastra-vardhana k 677.
-
-Bat, 85, 86, 184, 210.
-
-Eati gs. 114.
-
-Bafcnadhara ? p, N. 820.
-Eatna-vahim r. M, ? 298.
-
-Eatnavat mt N. 279.
-
-Eatri r M. ? 298.
-
-
-^ 271, 524, 526, 536-538, 550.
-Eaadra d. ? 32.
-
-Eaudralva h. 320.
-
-Eaudri cst 858.
-
-
-Eaarava, hell, 64, 62, 68, 72, 87.
-
-
-Eavaiua d. h. 362.
-
-Baven, 81, 208.
-
-Bdvi r. NW. 291, 292, 313-318.
-
-Ec hymns, 20, 64, 468-460, *484,
-663-657, 661, 665, 670, 581,
-Eclka rs. 310, 462, 695.
-
-Eddbi w. 247, 248.
-
-Eddbd demi-gs., 248.
-
-Bechna doab, NW. 315.
-
-Religion, 119, 120, 124, 170-173,
-178,179.
-
-
-Religious devotion (yom), 92 167
-190-207,210, 213 : 216 ; ’
-
-Bern 0. 296, 297.
-
-Rest^^home, 81*
-
-Reur T. 0, 296.
-
-Bevanta dg. 460,^461, 676, 676.
-
-
-738
-
-
-mmt.
-
-
-Bemti €sl 170, 384 413-448.
-Remti f . 24.
-
-BeYati g. 443-440.
-
-Mmmm, 422, 423, 503, 617, 618, 667.
-Mewa dL 0. 207, 341-
-Bg"Veda, 152, 206; see Kc hymns,
-Mhinoeeros, 164, 168, isi, 532.
-
-Mice, 84, 165, 244, 245.
-
-Miches, see Wealth,
-
-Mighieousness (Dliarma), 21, 36,
-30, 41, 53, 54, 66, 88, 96, 108, 124,
-138, 144, 148, 170-172, 185, 187,
-108, 215, 264, 273, 282, 400, 422,
-424, 430, 442, 450, 575, 578, 505-
-598, 620, 630, 657, 671, 672.
-
-Rista h, 588, 593.
-
-Bista demt-gs. 550.
-
-Rk^ wfe. C. 285, 286, 298-302, m,
-* 345.
-
-Bocana mt, 288.
-
-BoM Ts, 204.
-
-BoM^ csA, 160, 355.
-
-BoMbi demi-gs, 260, 420.
-
-BoM^'k. and e. 273.
-
-BoMtasya jpr, 42, 51, 58.
-
-Mojpe and jar ai the well, 70, 71.
-MoUleria ir, 26.
-B8a51iak.271,274.
-Bsa51ia?fitf».R.275,277.
-
-Bsablia L B. 366.
-
-Bsakkajp. S. 366.
-
-Bsablia rs, 415.
-ikbkar.GPSOO.
-l|si-giri ? h, M. 357.
-
-Bsika |>. 332.
-
-Esikaj?. S. 332, 366.
-
-Esika r, S- 366.
-
-Esika r. 305.
-
-Esikalya r. E. 285, 304.
-
-Esiknlya r, 305.
-iks, B&vm, 22, 226, 246, 270.
-Esyamlka mt S. 280, 365.
-Esyasrfkga rs, 464.
-
-Eta-diivaja h, ; see EitYalayasva.
-Eta-Yic m 443, 444, 447, 448.
-Etii^klAa 2^7, 261, 266.
-Btekniya ? r. BE. 304
-Ete-maM r. B. 303.
-
-, . mm,:
-
-
-Bncaka mt N. 270.
-
-Baci dg, 247, 248.
-
-Baci rs, 52^538.
-
-Badra g, 10, 55, 168, 225, 232, 246,
-247, 2^, 269, 403, 461, 525.
-Males, various, 170-185.
-
-Mmm^ pt, 25. !
-
-Bupa r. 306.
-
-Bapapa p, W- 330.
-
-Bupasa p, W. 330.
-
-BapavaMka p. W, ? 330.
-Mupnarain r, E. 300, 301, 330.
-Bara, deer, 164, 211.
-
-Bafclia h. 452.
-
-Sabala rs, 270.
-
-Sabaadhana r. M ? 204.
-
-Sahar p, G« and B- 335.
-
-Babara ps, 18.
-
-Sabinda mt. 278.
-
-Saccamm gr. 102.
-
-S-aoi as, 4, 90, 102, 420, 480.
-Saarijices, 170, 203, 43^ 434, 621 ;
-
-see Braddba, &c.
-
-Sad-acara, see Gmtom,
-
-Sadaaira n W. 204.
-
-Bad^Ira r. M. 294, 320.
-Sadanira-maya r, M.? 204.
-Sadatira r, M. ? 294.
-
-Sadbya dg. 55, 461.
-
-SagaraAf. 314, 317-320, 332, 346,
-350,362,371, 656.
-
-Bagaranapa c. E. 328, 344.
-Saba-deva k, 346, 864, 367.
-
-Baba|a k, 359.
-
-Baba]aa3Lya ops, 571.
-
-Babam ? p, W. 340.
-
-Babasraksa g, 524.
-Sabasra-patrapt. 30.
-Sabasra-sikbara mt E". 279.
-SabisMU rs. 270.
-
-Sabisnii rs, 454.
-
-. Babo^aka Mnsmom, 157, 184, 185,
-255
-
-Sabya mU. 285, 289, 303, 310.
-
-Baila c. S. 332.
-
-Bailika p. S. 332, 362.
-
-Bailoda n E. 351, 381, 382.
-BailodakS r. K 351, 382.
-
-SailSsa p. S. 332, 362.
-SaindbaYap. bfW. 315.
-SainikaPp.br. 3^.
-
-Sairandbri g, 665.
-
-Bamfaika pt M.
-
-
-mmx,
-
-
-m
-
-
-Sairiffelia? jp. HE. 882.
-
-Sfaivaia mt H. 888.
-
-Saivya q, 35, 38, 47-52.
-
-^aka p. HW. 314-820, 846, 358,
-371,^63.
-
-' ^aka p. M. 350.
-
-S^aka p. HW. 388.
-
-S^akabhava Ji;. and e. 273.
-^aka-dvipa, 272-275, 569.
-
-Sakala i HW. 816, 364, 872, 873.
-^akala-dvipa dt HW. 864.
-^akambbari gs. 518.
-
-Saketa t M. 858.
-
-8akba, 129.
-
-Siakba-nagaraka, city, 241, 242.
-8akra g^ •&2, 503.
-
-8akrdgraba p. H. 846.
-
-Sakrdgraba p. H. 346.
-
-Sahk r. E. 285, 286, 298.
-Sakrn-nanda t* . HE. 347.
-Sakrtraka p. H. 346.
-
-Bakbi gs. 129, 501-509, 512-514,
-520.
-
-Sfiakti, 8akferi rs. 669, 677*
--8aknlir.E.?286,m
-gakuni gh. 257, 258, 263.
-gikya-mmii, 3^.
-gal tr. 27.
-gala pr. 670.
-gila ir. 27.
-
-8cdem t. and dt S. 832, 365.
-
-8(diJc hd. 58.
-galmali tr. 82, 147.
-galmali-dvipa, 272-275.
-galmaTesm^a p, W. 378.
-
-8alt 166, 175, 182,
-gSlva c.and p. W. 309, 815, 847-
-350, 378, 595.
-gilveya p . ; see galra.
-galya k 311.
-
-galya-kfrtana pi. ? M. 878.
-Samadlii m. 4S7.
-
-SEnmn hymns, 20, 64, 285, 236,
-458-460, 484, 554-^57, 561, 681.
-Samana, {vital aw) 208.
-Samanodaka, 157 ; me Sabodaka.
-Samarkand c. §14.
-
-Slma-V eda, 152, 206, 235.
-gambara 10, 139.
-gambarana, see Samyaraiia.
-gambbii g. 408.
-
-' Sambbtti w. 249, 269,
-gan^ka ts. 6 , 9, II,. 17.^
-
-Sampiti M. 6 . •
-
-
-gamrSj prs. 2
-Samnla red. H. 279.
-
-Samvaram k. 461, 567.
-
-Samvarfca rs. 663, 654.
-Samvarte-ka, 658, 662.
-
-gana pi. 245.
-
-Sanandim r. M. ^4.
-
-Samtknmara, 232.
-
-Sanda ir. 390.
-
-Sak^dtatWW.m.
-
-Sanjna gs. 455-460, 566-569, 575.
-Sankalana. 7.
-
-Sankalpa pfn. 246, 247.
-gankara g. 460.
-
-Sanketa P p. M. 858.
-ga^Mlm h. S. 365.
-gankha dg. 416, 419.
-ganJdha-kilta ml H. 279, ^2.
-gankbavati r. NE. 388.
-
-Sankhya, 129, 281, 588, 688.
-Bfuokraiidaim k 670, 675, 681.
-ganko. d. 686.
-
-Baimati w. 249, 270.
-ganta k 442.
-gantak446.
-
-Santdl Fmgaums di» 825, 856.
-gintann k 9.
-ganti 5. 539-541, 546-548.
-gantika p. HW. 372.
-
-Sanninat ml. H. 279.
-
-Sinnmat ml JT 279.
-
-Sapin# 156-158, 184v'185^ 255.
-BapiSkaP p. B. 866.
-Saptal£pi.=Mallikg.
-
-Bapta-paraa tr. 27.
-garabim (^eoai), 49.
-
-Safuca tr. see AMhsk.
-garad^at ps. 464,
-
-Baarajap. C- 841.
-garHi hd. 58.
-
-Barasak888,864.
-
-Birasa hd. 647.
-
-Barasi-ja pi 80.
-
-Biraerraiia p. M. 840, 851.
-Barasratap. W. 840.
-
-Sarasvaiji gs. % 17, 18, 125-13S^
-484 435, 515.
-
-SarasvatsV- M. n, 127, 2^, 310,
-812, m, 851, 854, 877, m
-Baarafirratl r. W. 840.
-
-SarasimtS, r. ^
-Barasim^ (<M&r mmm), 806 .
-garamp.S.Pm
-garaY4f<SE.80S.
-
-
-720
-
-SWavati r» SE.? 305*
-
-Sarayu t, M. 323, 376.
-
-Sardana ? 'p, IJT. 378.
-
-Sargiga ? p. W. 368.
-
-Siarika hd, 49, 58, 84.
-
-Sarisa pt. 84.
-
-Bdfju r. M. 376.
-
-S'arkara p. ISTW. 373.
-
-Sarkaraksya 5. 373.
-
-^arkaravarta r. S. 373.
-
-Sarmati, see ^aryati.
-
-^armistka g. 669.
-
-^arnga, how, 108, 514.
-
-Sarpa ? p. 0. 362.
-
-Sarsapa pt 84.
-
-ScbTSon ft 84.
-
-Sarva dg, 268.
-
-Sarva g, 460.
-
-SarTap. S. 362.
-
-Sarvaga ? p. IST. 345.
-
-Sarva-hari gh, 265.
-
-^arvaiii gs. 490.
-
-Saryata 368 ; see Saryati.
-S'aryata p. W . 368, 371.
-
-Sfaryati fc. 368, 462, 463, 588, 600.
-Sfasaka p. W.? 372.
-
-S'asa-vindu K 653.
-
-Sfaiska p. W.? 340, 372.
-
-S'astras, IFicfced, 79, 252.
-
-Sasurasa 288.
-
-Sa^vatap. W. 340.
-
-Sasya-kan-tr gh, 257, 259, 264.
-S'atabala f. E.? 301.
-
-Sata-bMeaj cst 170, 381.
-
-S'atadrii r, !NW. 291, 316.
-^ata-dyumna 7c. 454.
-pataka p. ISF. 380.
-
-S'atamala r, S. 303.,
-
-S'atamuli pt 165.
-
-S'ata-patba ? dt? M., 309.
-
-Satdra dt'W. 362.
-
-S'ata-rupa, 247, 248.
-
-S'ata-srngin 'nit N. 279.
-S'ata-vabana p. SE. 361.
-
-Sati gs. 269, 408.
-
-^atira. r. M. 294.
-
-SdtpuTQf wts. 0. 286, 287, 299, 343,
-345, 362, 365.
-
-S'atru-gbna pr. 352.
-
-Sfatra-iit Ic, 109-113, 117, 119, 135.
-139, 140.
-
-^atru-i^ardana pr. 142, 143.
-Satstira p. 0. 343.
-
-Sattvata /. 629«
-
-
-INDEX.
-
-Scdurn, planet, 431,461, 567, 576,
-626.
-
-Satya gods, 436, 437, 442.
-
-Satyaka h. 449.
-
-Saty akliya gods, 436, 437 .
-
-Satjyaki pr. 629.
-
-Satya-loka, 553.
-
-Satya- vat pr. 349, 350.
-
-Satya- vati q- 677.
-
-Satya-vatl prs. 595.
-
-Saubha t W. 349.
-
-Saudasa h. 336.
-
-Sanmya c. 284.
-
-Saumya cst 355.
-
-Satinaka rs. 591.
-
-Saunanda, cltih, 606-609.
-
-Saunanda q, 604,
-
-Saundikera ? p. 0. 344.
-
-Saur p. G,.and S. 335,
-
-Sanrastra.p. W. 370.
-
-Sauri pat 31.
-
-Sanri h, {son of Prajati), 612, 615.
-Sauvirap. and c. 315, 368.
-
-Sauviri q, 664.
-
-Savadhana ? p. S78.
-
-Savana h, 272.
-
-Savarap. 0. and S. 319, 335, 361,
-362.
-
-Savarna-ka, Manns and manvan-
-taras, 524, 525, 549, 550.
-Savami-ka, Mann and manvan-
-tara, 458, 461, 463-466, 522-524,
-549, 567, 576.
-
-Savitr (Sun), 282, 582.
-
-Savitr d, 262.
-
-Savitra /or. N. 278, 282.
-
-Savitr,! prs. 349, 350.
-
-Savitri, hymn, 470.
-
-Scythians, 350.
-
-Scorpion rpA7% 81, 85.
-
-Screw-pine, shmh, 26.
-
-Self, see Soul.
-
-Self -existent, The, 225; see Supreme
-Being.
-
-Self -repression, 194-200.
-
-Sel^ye r. E. 300.
-
-S&mecarpus tr. 25.
-
-Seemul tr. 82, 147, 191.
-
-Senses, see Organs of Seme*
-Seonath r. 0. 285,
-
-Serpents, The, 232, 234, 531, 577,
-681, 683 ; see Naga.
-
-Se^a (Serpent) k* 1, 21, 469, 475,
-; 609, 648, 681.
-
-
-INDEX,
-
-
-721
-
-
-Sesamum pt, and seed, 84, 86, 166,
-162-168, 181, 224, 244, 246, 260,
-261, 632.
-
-Setnka p. S. 332.
-
-•/S'/iac^otty-Sanjna as, 466-461, 464,
-666-669, 576.
-
-Shdhdbdd dt. M. 309.
-
-Shdh-dlieri L KW, 379.
-
-Sheep, 164, 166, 236.
-
-Shieldrake hd, 30 ; see Cakravaka.
-Shorea tr. 27.
-
-Shrike hd, 28.
-
-Sibi p. NW, 377.
-
-Siddha dg, 66, 68, 78, 229, 393,
-396, 403, 611, 630, 642, 581, 679,
-682.
-
-Siddha-virya k. and rs. 441.
-
-Slghra r/O.? 299.
-
-Slghroda r. 0. 299.
-
-S'ikhara mt, IST. 279, 281.
-
-^ikhi y. 442.
-
-S^ilavati ? Sllavati ? r. E. 300.
-
-Si}h 86, 423.
-
-Silk-cotton tree, see Seemul.
-Silk-worm, 86.
-
-Sirhliala p. S. 366.
-
-Simbika d. 367.
-
-Simla t. K. 316.
-
-Sin (particular), 78-88.
-
-Sinapis pt. 84.
-
-Sindh c. W. 313, 315, 373.
-
-Sindh r. M. 293.
-
-Sindh-sdgar doab, FW. 315.
-Sindhn r. NW. 290, 370.
-
-Sindbn r. M. 293.
-
-Sindlm p, and c. W. 315, 347, 368,
-370, 665.
-
-Sindhu-kalaka-vairata ? p. W, 369,
-370.
-
-Sindbutfcama ti, M. 293.
-Sindbiittama ti. W. 293.
-Sindbn-virya h. 665.
-
-^inibabii r. E. 300.
-
-^inibali r. E. 300.
-
-S^ipra r. F. 285.
-
-SlprS n 0. 299.
-
-Sirala p. W. 338.
-
-Sirmour dt F. 320.
-
-Sirsa dt F. 321.
-
-Slsira h and c, 273.
-
-S'isiraksa mt F. 279.
-
-8iisu-pala L 360.
-
-Sita r, FE. 281, 388.
-
-Sitambuja 30. '
-
-91
-
-
-Sfitanta wf. F. 278-281
-
-Sltartta mt F. 278.
-
-Siteraja r. M.? 297.
-
-Sfitibabn r. E. 300.
-
-8ltoda I F. 278, 281
-
-Sfiva g. 6, 17, 32, 38, 56, 98-100,
-112, 126, 132, 133, 178, 206, 219,
-224, 226, 249, 268, 262, 280, 281,
-343, 356, 460, 471-474, 601-603,
-509, 616, 621, 646, 655, 672, 674,
-682, ‘588.
-
-Sfiva L and c. 273.
-
-Sfiva r. 299.
-
-Siva-dnti gs, 603, 504, 607-609,
-614, 624.
-
-Sfivi k. 377.
-
-Sfivi p, FW. 333, 354, 377-380.
-
-Slvakbya gods, 436, 437.
-
-Skanda g. 269.
-
-Shverg, 42-46, 323, 674.
-
-^Smell (element), 217, 221, 222.
-
-Smrti m 249, 269.
-
-Smrti-barika gh. 257, 261, 266.
-
-Sndke, 76, 85.
-
-Snataka, 178.
-
-Snowy Mountains, see Himayat.
-
-Social rules, 170-184.
-
-Solanum pt 166, 167.
-
-Solar Race, dyn. 43, 45, 683.
-
-Soma (Moon), g. 153, 162, 420, 635,
-66], 582, 589, 626.
-
-Soma rs. 99, 269.
-
-Soma, juice, 259, 262, 545, 655.
-
-Soma r. F. 282.
-
-Soma-datta pr. 629.
-
-Soma-pa pitfs, 533.
-
-Soma-pa gb. 262.
-
-Soma-sarhstba sf, 128.
-
-Someh’^ar'i r, FE. 306,
-
-Somnath t W. 338, 340-
-
-Sona r. C. and M. 286, 288, 296,
-298, 341.
-
-Sone r.=Sfona.
-
-Sorrel pt 26.
-
-Soul, 16, 142, 143, 160, 187, 190-
-194, 200, 206, 211, 220-226, 422,
-469, 627, 642, 687.
-
-Sound (element), 217, 220-222
-238.
-
-Sparrow hd. 6, 28, 210.
-
-Spirituous liquor, 32, 83 86, 100,
-103, 106, 107, 136, 260, 573, 600,
-603 ; see IntomcmUon-
-
-Spondias tr, 24.
-
-
-722
-
-
-lOTlX.
-
-
-S'prite, 2o0-2(->8, 5SS, 545.
-
-S^raddha, 79, 83, 133, 151, 154-171,
-181, 185, 199, 203, 264, 266, 530,
-531, 536, 537, 566, 686.
-
-S'ravaiia cst 170, 376.
-
-Sreewacolum t SE. 361.
-
-S'n gs. 249, 269, 290, 484; see
-Laksiiii.
-
-8^n-kakula t SE. 361.
-
-SVI'parvata m/, S. 290, 366.
-S'riphal ir. 25, 425.
-
-Sn - sai 1 a =S' r i - pa r vat a.
-
-S'rngavat mis. N. 277.
-
-S'rngavat mts. N. 279.
-
-S^rngin rs. 12.
-
-S^rngin mts. 275, 276.
-
-Srnjaya h. 353.
-
-Srnjaya/. 353.
-
-S'ruta-deva q. 361.
-
-Stanapa p. jSf. 321.
-
-Stanayosika p. N.? 321.
-Star-worship 80.
-
-Sterna Id. 86.
-
-Sto^ala p. C. 342.
-
-Stn-loka pi. NW. 375.
-
-Stri-rajya c. and p, N. 375.
-Stri-vsfiya p. NW. 375.
-
-Su-baliu pr. 142, 143, 187-190.
-
-207, 212-215.
-
-Su-bahn h. 322, 323.
-
-Snbalasva h. 623.
-
-Subarna-rehhd r. E, 301, 327.
-S'ubhaV. C. 302.
-
-Subhadra q. 446.
-
-Sxibliadra ws. 627.
-
-S'ubbra ? jp. E. 356.
-
-Sn-cakra pr. 610.
-
-Suci dg. 270.
-
-Suci-mukha hd. SO.
-
-Sudaman dg. 581.
-
-Su-darsana rs. 378.
-
-Su-deva k. 597, 600-602.
-
-Su-deva h. 600.
-
-Su-deva k. 627.
-
-Sudhaman rs. 449.
-
-SudhI gods, 442.
-
-Sadra, caste S$. 1 16. 123, 183. 318
-531, 591, 67i. 676 : f/r&ir Juiie/
-149.
-
-S'ddra p. W. and NVV". 312-314,
-368.
-
-Sudrakac j?. K W. 314.
-
-Sn-dyumna k 587-590,
-
-Sugar-eane, 175^
-
-
-Sii-griva, monkey k. 289, 333, 356.
-Sii-griva d. 495.
-
-Suhma k 325.
-
-Submay?. E. 327, 329, 334, 356.
-Suhmottara E. 327.
-
-Su-hotra b. 612.
-
-Su-botra k. 670.
-
-S'ldcide, 621.
-
-Siiir p. C. 335.
-
-Sujaraka j;. E. 324.
-
-Siijata q. 446.
-
-Sujatya p. M. or W. 37].
-
-Sukalin pifrs, 531.
-
-Sukaiikavat N. 278.
-
-Su-kanya prs. 368, 600.
-
-Su-kesi q. 664.
-
-Sukbodaya k and c. 273.
-
-S^akra dg. 58, 269, 650.
-
-S'ukra (=:Agni), 541, 544.
-
-Sukrsa rs. 11, 12.
-
-S^ukta rs. 270.
-
-Sukti h. S. 365.
-
-Sfuktimat mts. 284, 285, 306.
-S'uktimati r. M. 285, 297.
-Suktimati i. M. 298, 359.
-S'ukti-sSbvaya t. M. 359.
-Su“kumara k and c. 273.
-Su-kumari r, 305.
-
-Sukutya p. 307.
-
-Suldiman mts. W. 347.
-
-S^uiakara p. "N. 321.
-
-Salika^. bT. 323.
-
-Sumaha -drums r. M. ? 296.
-
-Sumana q. 670, 674-676.
-
-Su-mati h. 62, 69, 74, 76; see «?ada«
-Su-mati k 274.
-
-Su-mati k. 361.
-
-Su-mati j3r. 605.
-
-Sumbba d. 116, 488, 494-500, 503,
-506-510, 517-521, 524.
-
-Sumbba p. E. ? 356,
-
-Suraedbas gods, 449.
-
-Suinedhas rs. 454.
-
-Sii-megha mt. W. ? 370.
-
-Sunienija r. M. 297.
-
-SumTna p. W. 338.
-
-Su-mnklia bd. 3.
-
-
-^bun {buryn cVo.) g. U7, 178. 280.
-431, 455-461, 465, 466, 473, 474
-522, 535, 543, 550-558, 560--567,
-580-588, 621, 626, 680.
-
-Sunanda, club, 604, 609.
-
-Sn-nandS q. 604, 609, 611.
-
-Su-naya k. ^12. *
-
-
-INDEX.
-
-
-m
-
-
-Sam? r. M. 297.
-
-Su-mti pr. 606.
-
-Sunuwar p. jNT. S21.
-
-Sun-worship^ 80, 173,
-
-8upa/ra t. W. 338^.
-
-Su-parsva hd. 6."
-
-Suparsva mts. IST. 277, 282.
-Su-patra bd. 3.
-
-Su-prabha r. N. 290, 306.
-Su-prabha tv. 697, 600, 601.
-Siipratika, elephant^ 9.
-
-Suprayoga r. S. 303.
-
-Supreme Being or Soul or Spirit,
-66, 63-66, 92, 198, 201-206, 210,
-216, 217, 229, 414, 459, 632, 652-
-665, 668, 670, 687, 688, 687 ; see
-Brabman.
-
-S'ura 24,
-
-Sura r. M. ? 296.
-
-Sura.P p. NW. 313.
-
-Sura (sow. of Yatsapri) pr. 610.
-Surabhi dg, 116, 117.
-Surahadruma r. M. ? 296.
-
-Suraksa mt. N. 279, 281.
-
-Surala p. W. 338.
-
-Surasa mt. N. 279.
-
-Surasa r. M. ? 296.
-
-S'urasena k. 361.
-
-Suraseiia c. and p. M. 307, 309,
-361-364, 371, 377.
-
-Surastra c, and p. W. 288, 309,
-S40V342, 344, 370, 446.
-
-Surat t W. 340.
-
-Su-ratha k. and c. 273.
-
-Su«ratha h 466, 466, 622, 623
-Su-ratb.a 601, 602.
-
-Suratha r, M. 296.
-
-Su-reiiu r. M. 290, 306.
-Surpakarna h. E. 366.
-
-Slirparaka c., f. andp. W. 289,
-338.
-
-Sursooty, see Sarasvati r. M.
-Su-ruci q* 420.
-
-Su-rupa gods, 442.
-
-Surya, see Sun,
-
-Surya h. S. 366.
-
-Surya ?r.M..P 296.
-
-Surya-kanta mis. 'N. 389.
-Suryaraka? see Surparaka.
-Surya- vamsa dyn, 308*
-
-Su-^anti Manu ;=Auttama.
-Susarasa mt 288.
-
-Su-sarman k. 321.
-
-Su-sarman b. 426^
-
-
-Su-sobhana q, 666.
-
-Suta, 23, 31.
-
-Sutapa gods, 464.
-
-Su-tapas rs. 270.
-
-Su-tapas h. 440.
-
-Suta-visaya dt. E. 326.
-
-SutikaP p. S. 332.
-
-Sutlej r. m\\ 291, 292, 311, 312,
-316, 324, 378-380.
-
-Sutpalavatl r. S. 304.
-
-Su-varcas rs. 540.
-
-Su-varcas k. 623.
-
-Suveiia r. C. 300.
-
-Su-vikrama pr. 610.
-
-Suvira k, 311, 315.
-
-Suvira p. KW. 370.
-
-Suvira k. 664.
-
-Su-vrata rs. 606.
-
-Su-yastavya k. 449.
-
-Svadha, 94, 161, 162, 163, 178, 249,
-
-269, 270, 470, 483, 515, 627, 530-
-532, 642.
-
-Svadhaman gods, 436.
-
-Svriha, 94, 161, 162, 162, 249, 269,
-
-270, 470, 483, 627, 642.
-Svakambala r. NW. 389.
-Svapacap. W. ? 339.
-
-Svapadap. W. 339.
-
-SVapaka p. W. ? 339.
-
-Svar, 71, 206, 218, 227, 563.
-
-Svara, 130.
-
-Svaraksu mt IST. 281.
-
-Svaraksu r. IST. 281.
-
-Svarasa mt 288.
-
-Sva-rastra k. 438,
-
-Svar-bbanu (Sun), 682.
-
-Svarga 36-41, 50, 57-61, 69-71,
-75-78, 88-90, 147, 162, 168, 169,
-279, 280, 283, 284, 310, 409, 443,
-460, 462, 473, 513, 630, 652, 687,
-688. [S83.
-
-Svarga-bbaumanavadyaka? p.NE.
-Svariia-smgin mt. bT. 279.
-Sva-rocis ps. 401-415.
-
-Svarocisa, Manu and manyantara,
-
-271, 391, 39-2, 398, 401, 406, 408,
-411-415, 449, 466, 649.
-
-Sva-rupa pr. 610.
-
-Svastika posfi^re, 195.
-
-Svati cst 169, 370.
-
-Svayam-bbu g,, see Self-et&isient
-Svayambhuva, Manu and man-
-vautara, 247, 248, 270-274, #3.
-424, 448, 449, 549.
-
-
-124 ?
-
-
-INDEX.
-
-
-Svayam-liai'ikH gh. 257, 260, 265.
-S'veta k. and c. 273.
-
-SVeta mts, N. 275, 276.
-
-Sveta-giri mt. N. 287, 381.
-SVefca-parna mt NE. 388.
-SVeta-parvata, see S'vetagiri,
-S'vetodara mt. 1^. 279.
-
-S'yama cer. 165.
-
-S'yania r. NW. 389.
-
-S'yama r. NW. 389,
-
-S^yamaica p. N. 380.
-
-^yamaka cer. 165, 245.
-
-S'yeni demi~gs, 559.
-
-Tailanga p. S, 367.
-
-Taittirika p. W. 339.
-
-Takka p. NW. 379.
-
-Taksaka d. k. 379, 648.
-
-Taksa-sila ^NW^ 379.
-
-Tala tr. 27.
-
-TMa (music), 131.
-
-Tala t. S. 411, 412.
-
-Taiagaiia.^ p. N. 321.
-
-Talajafiglia p. M. 371.
-
-Tala-ketu d. 121, 122, 125.^
-Tamak-praccliadaka gh. 265.
-Tamala ir. 28.
-
-Tamalipta-ka p, E. 330, 357, 358.
-Tamarasa^ pt. 30.
-
-Tamas, hell 71, 72, 152.
-
-Tamasa r. M. 296, 298.
-
-Taina«a mi. N. 278.
-
-Tama«a. Maun and maiivantara,
-271, 437, 438, 442, 549.
-Tamasa|7. N. 323, 347.
-
-Tamasi r M. 296.
-
-Tamba rs. 415,
-
-Tamil p. S. 370.
-
-Tamisra, hell 152.
-
-Tamluk t E. 301, 327, 330.
-
-Tamra d. 479.
-
-Tamra, demi~gs. 559.
-Tamrahvaya-dvipa c. 367.
-Tamraka ml N. 279,
-Tamralipta-ka c. and L E- 301,
-329,330.
-
-Tamrapariia c. 284.
-
-Tamraparin r. S- 303, 367.
-Tamrapariil ? r. SE. 305.
-Tamrapariii i. and isL S. 367.
-Tamraparni h. S. 367.
-
-Tdmraparm dt. S- 367.
-Tamravarna c. 284.
-
-Tauapa ji. N. 321.
-
-
-Tanaya p. N. ? 321.
-
-Tangana p. N. 316, 317, 322, 323,
-346, 375, 381, 382.
-
-Tahjor dt. S. 332.
-
-Tankaiia p, N. 323.
-
-Taii-niatra, 231.
-
-Tapasa p. W. 339.
-
-Tapasasrama p. S. 339, 366.
-
-Tapati g. 461, 567, 576.
-
-Tapi r. C. and W. 299.
-
-Tapo-loka, 553.
-
-Tapo-rati b. 590,
-
-Tapo-vana /or. 669.
-
-Tapta-knmblia, hell, 71, 74, 83,
-Tapti r. G. and W. 285, 286, 299,
-335, 336, 340, 344, 365, 368.
-Taraksati, Taraksiti, dt. W. 372.
-Taraksnrap. NW. ? 372.
-
-Tarksi bd. 6, 8.
-
-Tarksya p. NW. .P 372.
-
-Taru-jit d. 663.
-
-Taste {element), 217, 221, 222.
-Tanndikera ? p. G.P371.
-
-Tamla L NW. 379.
-
-Teal hd. 30.
-
-Teesta r. NB. 293.
-
-Telingac.andp. SE. 334, 337, 367.
-Telugu p. S. 334,337, 367.
-Tend'ukhera t. C. 344,
-
-Tephrodornis hd. 28.
-
-Terminalia tr. 26.
-
-Tern hd. 86.
-
-Teirao hd. 28.
-
-Tewar t. 0. 343, 371.
-
-Thdmip. N. 322.
-
-Thibet a. 319, 323.
-
-Tlmnder^boU, 2, 75.
-
-Til pt 84.
-
-Tilth pt. 84; see Sesamum.
-
-Tilanga ? p. N. 308.
-
-Tilanga p. S. 367.
-
-Tilottama aps. 4, 571.
-
-, Time, measures of, 224-228, 459
-543, 580.
-
-Tindaka tr, 24, 25.
-
-' Tindu-ka tr. 24, 26.
-
-Tinnemlly dt. S. 331.
-
-Tippera hills, E. 306*
-
-Tijtir hd. 86.
-
-Tittira p. 339,
-
-Tittiri hd. 86.
-
-Tochari p. N. 320.
-
-Tody a {music), 132.
-
-'Tomara p. N. 323*
-
-
-INDEX.
-
-
-725
-
-
-Tom r. M. 296.
-
-Tortoise, SO,* 49, 84, 85, 181, 195,
-278, S48, S49, S55, 358, 367, 374,
-376, 381, 384-387, 417.
-
-Tortures, 48, 49, 66-68, 72-90.
-Tosalajp. G. 342.
-
-Touch (element), 217, 221,222.
-Toims, 240-242.
-
-Toyan C.301.
-
-Trade, 101, 108, 214.
-
-Traigart.a p. .N, 347.
-
-Traipura f. G. 343, 360.
-Transmigration, 3, 5, 8-18, 38, 48-
-50, 54, ‘66-71, 77-88, 91, 158, 280.
-Travancore dt, B. 367.
-
-Treta age, 32, 224, 226, 235, 239,
-243, 272, 347, 387, 388, 437.
-Tribliaga r.-E. 304.
-
-Trichinopokj dt S. 332.
-
-Tridiva r. C. 298.
-
-Tridiva r. E. 305.
-
-Tridivacala r, E. 305.
-
-Trigarta c. N. 321, 324, 346-349,
-372, 377-382.
-
-Trih -srotasi r. KE. ? 293.
-
-Trilmga c. and p. BE. 367.
-Tri-netra p. NE. 384.
-
-Tripistapa di. M. 290.
-
-Tripura t, 0. 343, 360, 371.
-Trisama r. BE. 304, 305.
-
-Trisanku k. 339.
-
-Tri-sikha mt. NW. 281.
-
-Tri-srotas r. NE. ? 293.
-Tri-suparna hymns, 160.
-
-Tritfya r. E. ? 293.
-
-Triyimar. BE. 304.
-
-Truthjulness, 14, 15, 35, 39, 41, 66.
-
-68, 88, 122, 151, 568, 640.
-Trumpet-flower tr. 20.
-
-Tryambaka gs. 513.
-
-Tukhara p. iSf. 320, 350, 353.
-
-Tulsi pt 164.
-
-Tumba pt 118.
-
-Tumbara p. C. 34'3.
-
-Ttimbhadra n S. 303
-Tumbula p, 0. 343.
-
-Tumbumap. 0. 343.
-
-Tumbura p. C. 343.
-
-Tumburu rs. 12, (118), 571, 647,
-648.
-
-Tumura p. 0. 343,
-
-Tunaya gdh 646, 648,
-
-Tu4id^^®^’*^’ F* 0,*344.
-
-Tunga r, S. 303.
-
-
-Tunga-bbadra r. S. 303.
-Tunganap. N. 323.
-Tunga-prastha mt 288.
-
-Turasita p. W. 339.
-
-Ihirdvs hd. 49, 58.
-
-Turk p. 372,
-
-Turkestan c. IST. 324, 372.
-
-Turmeric pt 165.
-
-Tnruska p. W. 372.
-
-Turvasii h. 623, 653.
-
-Tasara p. IST. 319, 320.
-
-Tusita gods, 415.
-
-Tastikara ? p. C. 344.
-
-Tvangana p. ISTE. 382.
-
-Tvastr g. 21, 22, 120, 465-460, 569,
-605.*
-
-Uccaib-sravas, horse, 494, 495.
-Udagra d. 476, 479.
-
-Udana, air, 66, 204.
-
-Udara cer. 244.
-
-Udavasii h. 612.
-
-Udaya-giri h, M. 357.
-
-Udaya-giri h. E. 356.
-
-Udbhida k. and c. 273.
-
-Udbhida p. S. 337..
-
-Uddhata d. 479.
-
-Udgitha, 484.
-
-Udnmbara p. M. 355.
-
-Udumbara c, W. 355.
-
-Udnmbara tr. 182, 192, 255.
-Udumbaravati r. 8. 355.
-
-Ugra dg. 268.
-
-Ugra k. 454,
-
-Ugra-darsana d. 476, 480.
-Ugrasya d. 479.
-
-Ugra-vlrya d. 479.
-
-Ugrayudiia h. 350, 598,
-
-Ujhani t M. 351.
-
-ITjjain t G. 295, 345, 521.
-Ujjayanta mi. W. 288.
-
-Ujjayini i. C. 295, 345,
-Uijihanap. M. 360, 351.
-
-Ukti < 76 .- 257 , 258, 262.
-
-Uluka p. N.. 346, 375.
-
-Uma gs, 132, 269,
-
-Umbilical cord, 70,
-
-Unmatta gh, 264,
-
-Unnata rs. 454.
-
-Upa-giri dt N. 325, 328.
-Upanisad, 259.
-
-Opanivoj^a, 318.
-
-Upaplava, -vya. t JVl. 307.
-
-Upupa hd. Bo,
-
-
-7m
-
-
-INDEX,
-
-
-Urdamaru -N'. 376,
-Urdhva-balau rs. 270, 449.
-Urdliva-karim f. SE. 342, 360,
-Urja rs. 415.
-
-Urja w, 249, 270.
-
-Urjasvin g. 462.
-
-Urjihaxia t, M. 351.
-
-Uraa p. and c. N. 324, 346, 376.
-Uru, Uxm, fc. 454.
-
-TJrukarma ? pL N. 376 .
-
-Urvasl aps. and q. 4, 571.
-
-Upanas dg, 9, 10, 58.
-
-Ufinara fe. 333, 377-380.
-
-UpTnara p. M. 377.
-
-Usira gr. 79.
-
-Usira-vija rs. 653.
-
-Usua h and c. 273.
-
-Utkala k. 589.
-
-Utkala p. and c. E. 299, 327. 329,
-334, 341, 589.
-
-Utpala pt, 29.
-
-Utpala r. S. 304.
-
-Utpalavata-ka /or. 425.
-
-Utpala vati r. S. 304.
-
-Utpalavatl q> 439.
-
-Utsarga ohlation, 151, 153.
-Utsava-sanketa p. l^T., W. and S.
-319, 337.
-
-Uttama p. C. ? 342.
-
-Uttama *. 419, 420, 423-425, 429,
-432, 435, 436.
-
-Uttamarna p. 0. 342.
-
-Uttanapada k. 247,248, 419, 420,
-423,
-
-Uttanapala k. 112.
-
-Vabhravya pat, see Babhravya.
-Vabbru, see Babbru.
-
-Yacaspati dg, 626.
-Yadana-daiitura p. E. 356, 357,
-Yadantika ? jp. N. 379.
-Yadhadkana ? p. ISfW. 312.
-Yadhra p. N. 378.
-
-Yahirgira p. E. 325.
-
-Yahir-giin p. E. 325.
-
-Yahir-giri dt ISFE. 325, 328,
-Yablika &. .311.
-
-YaMika p. KW. 311, 315, 375.
-Yabya?F.M.354.
-
-Yabya r. S. 303.
-
-Yabyatodara ? N. 320.
-
-Yaibhara mt M. 286.
-
-
-Yaibbraja /or. 1^, 278, 281.
-Yaibhraja mt. M. 286.
-
-Yaidebaka p. M. 352.
-
-Yaidika.P^. C. 343.
-
-Yaidisa p. M. 343, 627, 630.
-Yaidurya mt, W. and 0. 279, 287,
-299, 365.
-
-Yaidyanatha h. E. 287.
-
-Yaidyuta k. and c. 273.
-
-Yaidynta mt. 287.,
-
-Vaigai r. S. 304.
-
-Yaiiiara mt. M. 286.
-
-Yaikarika, 221.
-
-Yaikiintlia k. 449.
-
-Yaiaava k. and c. 273.
-
-Yaiiit r. S. 303.
-
-Vaippar r. 304.
-
-Yaipracitta pat. d. 517.
-
-Yairata c. M. 288, 307.
-
-Yairocani d. 465.
-
-Yaisali pat. 426.
-
-Yaisali t M. 329, 600.
-
-Yaisalim prs. 625, 627.
-
-Yaisikya p. S. 334.
-
-Yaisiiava sect 108.
-
-Yaisya caste, 74, 318, 671 ; its
-diities, 148, 591, 594, 597.
-Yaitaram r. E. 300, 334.
-Yaitarim,/a5i6Zows r. 54.
-Yaivasvata, Manu and man van-
-tara, 271, 341, 350, 368, 454-
-463, 517, 549, 551. 566, 568; 575,
-576, 587-590, (600), 617. 666.
-Yaji-kesa p, NW. 374.
-
-Yaiivasika ? p. S. 333.
-
-Yajra-ketu d, 115.
-
-Yaka bd. 58.
-
-Yaka p. N. 376.
-
-Yaksn r. NW. 292, 324.
-
-Yakula ir. 26.
-
-Yala? pi NW. 375.
-
-Yalaka rs. 442.
-
-Yalaka d. 425, 426.
-
-Yalava ? pi NW. 375.
-
-Yamanap. NW. 372.
-
-Yamana incarnation, ^21 .
-Yam^%.-dhara r. SE. 305.
-Yamsa-dliarim r. SE. 305.
-Yaihsa-kara r. SE. 305.
-Yaiiisa-vara r. SE. 305,
-Yanadarafea p. S. 337.
-Yanaprastba, 149, 150, 216, 616,
-675, 681.
-
-Yana-rastra-ka? p. andc. NE.382.
-
-
-fKDEX. f27
-
-
-Vanava 'p. NW. ? ^2.
-
-Vanavahyaka f, "NE. 38S.
-Vanavasaka p. S. 333, 364.
-Vanavasi, c. S. 333.
-
-Vanavisika p. S. 333.
-
-Vanavasin c. S. 333, 364.
-
-Vanayii, Yanayu, c. ancip. NW. j
-372* i
-
-Yanga h. 325, 326.
-
-Yanga p. and c. E. 324-329, 334.
-Yangeya p.=Yanga.
-
-Yanita-mukha p. W. 368.
-
-Yanjuka r. M. 297.
-
-Yanjula tr, 28.
-
-Yanjula r. M. 297.
-
-Yaninla r. S. 302, 303.
-
-Yanksn r. NW. 292, 389. j
-
-Yapanti ? r. 0. 295.
-
-Yapii ops. 1, 2, 5-8.
-
-Yapus-mat h, 272, 273.
-
-Yapns-mat pr. 670, 673-683.
-Yapus-mati q. 665. 1
-
-Vara ,s/. 433.
-
-Yara pm. 627. !
-
-Yarada r. C. 300. j
-
-Yaradii n S. 303. ■
-
-Varaha mcamation. 21. |
-
-Varaba g. 505, 509. !
-
-Varaha kalpa. 228. i
-
-Varahadri mt. N. 279. j
-
-YaraHahvaya M. 355. *
-
-Yarana-sab vaya M. 355.
-
-Yarauasf (Benares) t. M. 308, 654 ■
-Yaraaasi h E. 360.
-
-Varaiia-stbala L M. 35L 355. =
-
-Varajiavafca t. M. 347, 355.
-Yardl'iamana mis, N W. 388.
-Yardliamaiia p, E. 358.
-
-Vari-oarap. S. 365*
-
-Yarmavat {iown)^ 242.
-
-Yania r. S. 303.
-
-Yarilsa r. M. 286, 294. ^
-
-Yartaki p/. 167.
-
-Yartiilii pt, 84.
-
-Yaniin- g. KK 122. 125, 153, 473. :
-474* 489, 494, 535, 538* 5-45* 562. :
-588, 589. 62L 680,
-
-Yanma r. N. 392.
-
-Yaniiia c, 284.
-
-Varawa csL 381
-
-YanmodaL N. 278, 38L :
-
-Yaratilia k, 446.
-
-Yiratliirif af», 391, 394-'*402*
-
-?ftrvap, If. S7i.
-
-
-Varvara p. NW., ME. and S. 319,
-369 372
-
-Yasat, 151 , 152 , 444 , 470, 545.
-Yakti (villagt^, 242 .
-
-Va?a-vartin gods, 436, 437.
-
-Vasika p. W. 339.
-
-Vasistha rs, 59, 246, 249, 270, 289,
-314, 336, 462, 570, 590, 615.
-A^asisfcba rs. 449.
-
-Yasisfeha dg. 403.
-
-Yasisfcba pat. b. 612.
-
-Vaskala d. 476 , 479.
-
-Yasu g. 129, 168, 460, 461, 474.
-Vasu k. (of Cedi), 330, 359.
-
-Vasn k. (of Magadha), 330.
-Vasndeva h. and g. 3, 19-21, 55.
-A^asu-dhara mt. N. 279.
-A^asii-homa h. 655.
-
-Yasiiki, Naga k. 648.
-
-Vasii-mat h 463.
-
-Yasn-rnat.^ mt. N. 376.
-
-YasurMa pr. 699.
-
-A\a.sya k. and c. 273.
-
-Vafiyata ? r. S. 302.
-
-Vatadbana k. 312.
-
-Vatadbana p. NY^ 312, 378.
-Yata-rapa gb. 267.
-
-Yatasvana mt. 277.
-
-\bitsa k. 307.
-
-Vaisa f. atid p. M. 307, Oil, 351.
-Vat.sa-prl k 604, 607, 610,
-
-V5it.sa.ri ? r. B. 302.
-
-Vatsya e. and p. M. 307. 3'4L
-Vdjn (mnd) g. 6. 10. 22. 23, 147,
-^ 1 78, 473, 474, 489, 562, 582, 648.
-Veda4)ahn 449.
-
-r, »S. 303.
-
-V“t‘da-inantra p. M. 349.
-
-Yr>dauta 129, 683.
-
-V^rda, 553 ''5* >7, 685-“ 687.
-
-Vediisin! r. 51. 293.
-
-Veda4iras rs. 269.
-
-Veda-smrta, -ti. r. M, 293,
-Vedu'sri rs. 449.
-
-Yeda-trayl ? r, Af. 295«
-
-'Veda'-vati r. N. 293,
-
-Veda-vatf r. 8. 303.
-
-Vedi-pala r. C. F 300,
-lygidahks, 165, 166, 244, 24k
-Vega-v.diini r. M.P 298.
-
-Vena k. 1 16, 320* 5B8,
-
-'Vein a r. S. 300,
-
-ViHm r., m;
-
-Vcp r. 8. 362/
-
-
-728
-
-
-INDEX
-
-
-Yeiiika p, W. P 373.
-
-Veiuia f. S. 303,
-
-Yeim ]Sr. 278.
-
-Veiiugradba pt. 245.
-
-Yemika p, N. 379.
-
-Yenu-matl r. W. 373.
-
-Yemi-mati r. NW.P 376.
-
-Fenws, planet, 9, 207, 431, 626.
-Yeiiva r, N. 286, 294.
-
-Yeuva r. K. ? 294,
-
-Yeiiva r. W. 289.
-
-Yeiiva r. S. 294, 300.
-
-Yeuya r. 0. 300, 362.
-
-Yeiiya r. S. 303, 362.
-
-Yesnapasa ? r. C. ? 300.
-
-Yet ala gh, 46, 47.
-
-Yetasim r. M. 293.
-
-Yetra-vati r. M. 295, 343.
-Yetra-vati r. W. 295.
-
-Yibhavarl demi-gs, 402, 406-408,
-411.
-
-Vibbitaka tr. 26.
-
-Yibodha hd, 3,
-
-Yibhn g. 449.
-
-Yibhuti h 623.
-
-Vida pt 165.
-
-Yici-kaka hd, 86.
-
-Yidala d, 476, 479,
-
-Yidarbba c. G. 76, 293, 299, 335,
-343, 359, 360, 365, 618, 664, 670.
-Yidarblia h 335.
-
-Yidarbha t. 0. 335.
-
-Yidarblia q, 464.
-
-Yidegba pr, 330.
-
-Yideba c. and p. M. 75, 294, 329,
-330,352,356,374,
-
-Yidhatr g. 10, 153, 154, 269.
-Yidisa 'i M. 295, 342, 343, 625,
-627.
-
-Yidisa r. M, 295.
-
-Yiduratba h 578.
-
-Yiduratba h 604, 605, 677.
-Yiduratba ^,677.
-
-Yi-dve^ui gh. 257, 261, 267.
-Yidya (Science), 128,
-
-Yidyadhara dg, 115, 279, 401-404,
-407, 460, 571, 679.
-
-Vidyud-rupa d. 6-8.
-
-Yighiia-raj dg, ? 32.
-
-Viqnapt. 165.
-
-Yl^ja-harmi gh. 257, 261, 267.
-Yijalpa gh. 262.
-
-Yijapaliarini gh 261,
-
-Yiia-ptraka ir, 25,
-
-
-Yijaya k 411.
-
-Yijaya t NE. 411,
-
-Yikira 228, 231, 232.
-
-Yikrama pr. 610.
-
-Yikrama-sila k, 445.
-
-Yikranta pr. 140-143.
-
-Yikranta k 449-452.
-
-Yikrti gs. 263.
-
-Village, ancient, 242,
-
-Yilola r. M. 455 (=Yamniia)
-Yimak^ r. H. 305.
-
-Yimala r. E. ? 305.
-
-Yimaloda r. N. 305, 306.
-Vimalodaka r. N. ? 290, 306.
-YirnSjudavya p. M. 349.
-
-Yimarda k 438.
-
-Yimba pt 114.
-
-Yimsa h. 618.
-
-Ylna r. 8,? 303.
-
-Yinasana t M. 290, 310, 312.
-Yinata k 589.
-
-Yinata demi-gs. 559.
-
-Yinatasva k 589.
-
-Yinaya h. 589.
-
-Yinda Jc. 345.
-
-Yindbacalaka p. N. 374.
-
-Yindbya mis. 0. 3, 11, 12, 17, 19,
-285, 286, 298, 299, 310, 331, 340-
-344. 360, 517,
-
-Yindhya-maiileya p. C. 33*5.
-Yindhya-mulika p. 0. 335.
-Yindbya-pusika P p. 0. 335.
-Yindhyavat m. 116.
-
-Yinna r. 0. 300.
-
-Yipasa r. N. 292.
-
-Yipa’sa r. 0. 297.
-
-Yipascit g, 415.
-
-Yipascit k. 75, 76, 83.
-
-Yipatba q. 446.
-
-Yipracitti d. 21, 102, 517.
-Yiprasastaka p. W. 372.
-Yiprasikapi. 165.
-
-Yipula mts, N. 277, 281.
-Yipulasvat rs. 12.
-
-Yira k 618.
-
-Yira k 627
-
-Y5ra q. 625, 631, 632, 637, 639, 65. ,
-653, 658, 664.
-
-Yira r, 297.
-
-Yira-bbadra k 627,
-
-Yirabotra ? f . C. "344.
-
-Ylraja r, M. ? 297.
-
-Yirajak^ mt B, 279,
-
-Yirajas rs. 269.
-
-
-iN0jeix.
-
-
-729
-
-
-Virajas rs, 454.
-
-Virankara r. 297.
-
-Virata h 353, 382,
-
-Vira-vatl r, 297.
-
-Virodliini gh. 257, 260, 265.
-
-* Virtue (see Eigldeousness), 2, 14, 34,
-36, 468.
-
-Virupa gh» 263.
-
-Vfrya-caiidra k. 625.
-
-Virya-Iiari gb, 265.
-
-Visaklia csL 169, 370.’
-
-Visakiia-vat mt. N. 279.
-
-Visala mts. 'NW. 388.
-
-Visala d, 426.
-
-VisMa k. 627, 630^-636, 641-646,
-650.
-
-Visala, village, 452, 453.
-
-Visala r, E, 290, 297, 306.
-
-Viala L M. 345.
-
-Visala r. 0. 297.
-
-Vismi g. 1, 2, 10, 17, 20, 21, 40, 70,
-98-102, 106, 108, 1 12, 130, 206,
-219, 224, 225, 278, 290, 348, 349,
-387, 389, 460, 465, 469-474, 489,
-490. 502 -505, 509, 512, 514, 522,
-545, 555-558, 572, 574, 582, 588,
-686 .
-
-Visoka mU. NW. 388.
-
-Visvaci aps. 571.
-
-Visva-garbha k. 669.
-
-Visva-karnian (=4\’astr) g^ 455-
-460, 475, 566, 509. 572, ‘ 574.
-
-V isra-k rt c/.= Vis va-kar man.
-
-Visva-malii r. E. ? 301.
-
-Visvamifcra r$. 32-47, 50, 55-60,
-309, 314, 347, 357, 462, 464, 591.
-
-Visvavasii ci 113, 115.
-
-Visva-vediu m. 612-615.
-
-Visve Devas. godf^, 32, 37, 153-
-156, 161. 163,'’ 168, 178, 253. 461,
-462.
-
-Vitahavja /. 371, 600.
-
-Vitaliotrap. 0. 344.
-
-Vital airs, 66. 197, 202-204.
-
-Vitasta n N. 291, 438.
-
-Vltihotra k. 344.
-
-Vitikotra p. 0. 344, 371.
-
-Vivasvat (Sun) g. 455, 457, 523,
-566, 576, 577, 586.
-
-Vivimsa, -sati, h. 618, 619.
-
-Vizagapatam t SB. 334, 335.
-
-Vraja dt and p. M. 308.
-
-Vrata-ghni r. M. F 293.
-
-V'rhad-rafclia h. 330.
-
-
-Vrhaspati 10, 50, 101, 102, 109.
-Vrhaspati rs. 654.
-
-Vrihi cer. 165.
-
-Vrji dt. M. 309.
-
-Vrka k. 309.
-
-Vrka p. M. 309.
-
-Vrsabha mi. N. 279-282.
-Vrsa-dlivaja k. E. 356.
-
-Vrsaparvan k. 669.
-
-Vrsavat mi. N. 278.
-
-Vrsniy;. VV. 336.
-
-Vrtra d. 4, 22, 514.
-
-Vrfcra-gimi r. M. ? 293.
-
-Vulture hd. 46. 53, 72, 74, 85, 208,
-263, 680,
-
-Vyaghra-griva p. SB. 360.
-V^yaghra-raukha h. B. 356.
-
-Vyana (vital air), 204.
-Vyanjana-harika gb. 266.
-
-Vyasa rs. 2, 18, 20, 464, 677, 686.
-Vyusitasva k. 316, 350.
-
-Wages, 43, 46-50.
-
-Wain-gangd r, C. 300, 305, 363.
-Warangal t. S. 337.
-
-Warda r. S. 300, 364.
-
-IFa^er (element), 217, 221, 222.
-Water-foiol, 30.
-
-Waierdily, 29, 30, 104, 115.
-
-Wealth (Artha), 2, 119. 128, 170-
-172, 185, 187, 198, 252, 264, 430,
-WeU-nrpe and jar, 70-73,- 91.
-Wlieai, 84, 165, 181, 244, 245.
-Wind, see Vayu.
-
-Wine. 421.
-
-Wolf 72. 82, 85.
-
-Wood-pecker hd. 28.
-
-Wool. 40.
-
-TEorMs (Loka), 20, 22, 55, 57, 71,
-89, 95, 96, 102, 103, 110, 111. 116,
-124, 128, 144, 151, 201, 206,' 218,
-223, 225, 227, 229, 246, 397, 462,
-574, 662.
-
-Xanihochymus tr. 28.
-
-Yadava race, 309, 336, 342, 351,
-352, 359, 371.
-
-Yadu k. 26, 364, 371.
-
-Yajfia pfn. 247, 248.
-
-Yajnr-Veda, 152, 206, 235.
-Yajus%mm,64, 235, 458- 460, 484,
-554-557, 561, 581.
-
-Yak ht 166,
-
-
-730
-
-
-INDKX.
-
-
-Ydkhd p. N. S22.
-
-Yaksa dg. 46, 115, 232, 234, 236,
-246, 272, 279, 460, 497, 541, 559,
-571,581,648,679. '
-
-Yaksma, 179,
-
-Yama g. 7, 10, 23, 48, 50, 66-68,
-71-77, 80-83, 88-90, 147, 153,
-162, 209, 215, 263, 420, 455, 457,
-460, 473, 474, 489, 533, 562, 666-
-568, 574, 575, 579, 680, 683.
-
-Yama gods, 248.
-
-Yarn! demi-gs. 566.
-
-Yamuna r. M. 121, 122, 125, 291,
-377, 378, 455, 461, 666, 576, 590.
-
-Yamuna hills N. 377, 378.
-
-Yamuna jo. N. 377.
-
-Yamya cst. 384.
-
-YaiSoda q: 517.
-
-Yaso-mabl ? r, Y. 380.
-
-Yasomatya p. N. 380.
-
-
-Yati (music), 132.
-
-Yafeudhana gb, 262.
-
-Yaudheya p, NW. 333, 380.
-
-Yauna p. (=Yavana), 381.
-
-Yavana p, NW. 284, 311, 314, 318,
-319, 328, 350, 371, 377, 384, 466,*
-677.
-
-Yayati fe. 316, 336, 371, 384, 623,
-653, 669.
-
-Year, 224-228, 271.
-
-Yena? p. NE.’ 381,
-
-Yoga, 91, 92, 100, 133.
-
-Yojana, 240, 275-277, 284.
-Yudliistbira h, 9, 23, 353, 366.
-Yuga, *226.
-
-Yunjavat 9 mt. N. 655.
-
-Ynthaga gods, 454.
-
-Zizy pirns tr. 27.
-
-Zodiac, 169, 348, 387, 580.

@@ -1,937 +1,3 @@
-# The Pre- and Proto-historic Finns, Volume 2 - The Magic Songs
-
-3 17bl  pMbM4T3b  ^
-
-
-SERVICES
-
-
-I
-
-
-^ *
-
-■ i-
-
-
-f
-
-
-d^rtmm  Jliftrarp
-
-No.  lo
-
-THE  PRE-  AND  PROTO-HISTORIC  FINNS
-
-
-'ZElie  (Brimm  2-tbrarp.
-
-I.  GEORGIAN  FOLK-TALES.  Translated  by  Marjory  Wardrop.
-Cr,  %vo,  pp.  xii-fi75.
-
-
-II.  THE  LEGEND  OF  PERSEUS.  By  Edwin  Sidney
-Hartland,  F.S.A.
-
-VoL.  I.  THE  SUPERNATURAL  BIRTH.
-
-Cr.  8w,  pp.  xxxiv-f228.  yj.  bd.  net.
-
-
-III.  THE  LEGEND  OF  PERSEUS.  By  Edwin  Sidney
-Hartland,  F.S.A.
-
-VoL.  II.  THE  LIFE-TOKEN.
-
-Cr.  %vo,  pp,  viii+445.  12S.  6d.  net.
-
-
-IV.  THE  VOYAGE  OF  BRAN,  SON  OF  FEBAL.  Edited  by  Kuno
-Meyer.  With  an  Essay  upon  the  Happy  Otherworld  in  Irish
-Myth,  by  Alfred  Nutt.  Vol,  i.
-
-Cr.  Svo^  pp.  xvii -1-331.  iol  bd.  net.
-
-
-V.  THE  LEGEND  OF  PERSEUS.  By  Edwin  Sidney
-Hartland,  F.S.A.
-
-Vol.  III.  ANDROMEDA.  MEDUSA.
-
-Cr,  Bvo,  pp.  xxxvii -1-225.  js.  6d.  net.
-
-VI.  THE  VOYAGE  OF  BRAN.  SON  OF  FEBAL.  Edited  by
-Kuno  Meyer.  With  an  Essay  on  the  Celtic  Doctrine  of  Rebirth,
-by  Alfred  Nutt.  Vol.  ii.
-
-Cr.  Bvo,  pp.  xii -1-352.  iol  bd.  net.
-
-
-VII.  THE  LEGEND  OF  SIR  GAWAIN.  Studies  upon  its  Original
-Scope  and  Significance.  By  Jessie  L.  Weston,  translator  of
-Wolfram  von  Eschenbach’s  ‘ Parzival.’
-
-Cr.  Bvo,  pp.  xiv-fiii.  45.  net.
-
-
-All  rights  reserved
-
-
-THE
-
-Pre-  and  Proto-historic  Finns
-
-BOTH  EASTERN  AND  WESTERN
-
-WITH
-
-The  Magic  Songs
-
-OF  THE  WEST  FINNS
-
-By  the  Honourable  JOHN  ABERCROMBY
-
-COR.  MEMBER  OF  THE  FINNO-UGRIAN  SOCIETY
-Tacics  adverfa  tympaai
-
-
-VOL.  II.
-
-Published  by  David  Nutt
-in  the  Strand,  London
-I 898
-
-
-Edinburgh  : T.  and  A.  Constable,  Printers  to  Her  Majesty
-
-
-CONTENTS
-
-PRE-  AND  PROTO-HISTORIC  FINNS
-
-
-CHAPTER  VII
-
-CHARMS  OF  THE  EAST  FINNS,  RUSSIANS,
-LETTS,  ETC.
-
-
-Mordvin  Charms  .
-
-PAGE
-
-8
-
-Ceremisian  Charms
-
-II
-
-Votiak  Charms  ....
-
-14
-
-Lettish  Charms  ....
-
-19
-
-Great  Russian  Exorcisms
-
-30
-
-Post-Classical  Charms  .
-
-37
-
-Swedish  Charms  ....
-
-38
-
-The  Structure  of  the  Magic  Songs  .
-
-40
-
-Their  Age
-
-44
-
-The  Poetic  Element — Similes
-
-46
-
-Figurative  Expressions,  Metaphors,  Epithets  .
-
-54
-
-THE  MAGIC  SONGS
-
-OF  THE
-
-FINNS
-
-SECT.
-
-I.  Preliminary  Formula,  a — d
-
-65
-
-2.  Defensive  Measures,  a—f
-
-.
-
-67
-
-3.  Against  Envy,  a — d.
-
-70
-
-4.  Vengeance  Formula,  b
-
-. .
-
-72
-
-vi  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
-SECT.  PAGE
-
-5.  To  Discover  the  Cause,  a — c 73
-
-6.  Reparation  for  Harm,  a,  3 75
-
-7.  Against  Inflammation  and  Angry  Symptoms,  a — c . . 76
-
-8.  Expulsion  Formula,  a — d 77
-
-9.  Posting  Formula,  a,  d 79
-
-10.  Pain  or  Sickness  Formula,  a — d 81
-
-11.  Reproaching  Formula  .......  82
-
-12.  Falling  into  Ecstasy,  a — c 83
-
-13.  In  Distress 84
-
-14.  Boasting  Formula,  a — i . 85
-
-15.  To  Still  Violence,  b 90
-
-16.  Menacing  Formula,  a,  b 92
-
-17.  Exorcisms,  a — z 94
-
-18.  To  Make  Fast,  b 106
-
-
-WORDS  OF  HEALING  POWER
-
-
-19.  For  Stings  of  Wasps,  Gadflies,  and  other  Insects,  a,  b . 107
-
-20.  For  Sickness  caused  by  Elf-shots,  sudden  Strokes,  etc.,  a,  b 108
-
-21.  For  the  Toothache,  a — c 109
-
-22.  For  Wounds  caused  by  Hiisi  . . . . . . in
-
-23.  For  Whooping  Cough  . . . . . . . 112
-
-24.  For  Injuries  caused  by  Kalma 1 12
-
-25.  When  torn  by  a Bear  or  a Wolf 112
-
-26i  For  Contusions  from  a Stone,  b 113
-
-27.  For  Syphilis,  a,  b 114
-
-28.  To  remove  Tumours,  Abscesses,  Boils,  iz,  <5  . . . 116
-
-29.  For  Snake  Bites,  « — e 117
-
-30.  For  Gout  or  Heartburn  . . . • . . . . 120
-
-31.  For  cutting  off  Excrescences 120
-
-32.  For  Contusions  or  Lesions,  a,  b 12 1
-
-33.  For  the  Hiccough 122
-
-34.  For  Sprains,  a — d 122
-
-
-CONTENTS  vii
-
-SECT.  PAGE
-
-35.  Against  Nightmare 124
-
-36.  For  Frostbite,  a^h . .124
-
-37.  For  Stitch  or  Pleurisy,  a — c 125
-
-38.  For  Contusions  from  Trees,  a^b 127
-
-39.  For  Cancer  or  Whitlow,  a^b 128
-
-40.  For  Injuries  from  Iron,  a — d 129
-
-41.  For  Rickets,  Atrophy 132
-
-42.  For  Injuries  caused  by  Spells,  b 133
-
-43.  Against  the  Plague 134
-
-44.  For  Thrush 134
-
-45.  For  Pain  in  the  Eye  from  Particles  of  Chaff,  b . . 134
-
-46.  For  Disease  in  the  Eye,  a,  . . . . . . 136
-
-47.  For  a Lizard’s  Bite  . . . . . . . . 137
-
-48.  For  Laceration  by  a Wolf  . * . . . . 137
-
-49.  For  the  Pains  of  Child-birth,  a^b 138
-
-50.  For  the  Itch 139
-
-51.  For  Skin  Eruption 139
-
-52.  For  Burns,  a — k 140
-
-53.  For  Scalds . 144
-
-54.  For  Injuries  from  Copper 144
-
-55.  For  Haemorrhage,  a—f 144
-
-56.  For  Dropsy 147
-
-57.  For  Cough 148
-
-58.  For  Colic 148
-
-FORMULA
-
-59.  Divination  Formula,  a — c 150
-
-60.  For  a Bite  from  a Horse 15 1
-
-61.  To  make  a Horse  stand  still 151
-
-62.  Against  Mice 151
-
-63.  Against  Spiders 152
-
-64.  For  a Cross-bow  Man 152
-
-
-PAGE
-
-
-viii  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
-SECT.
-
-65.  For  a Best  Man 152
-
-66.  Against  Grubs,  Slugs,  etc.,  a^b 153
-
-67.  For  catching  Hares,  b 155
-
-68.  For  Fishing 156
-
-69.  Against  Bears,  a—f 157
-
-70.  To  protect  Cattle,  a^b 160
-
-71.  A Spear  Charm 162
-
-72.  For  Dogs,  dyb 163
-
-73.  For  taking  Ermines 164
-
-74.  To  make  Yeast  rise 164
-
-75.  To  charm  Snakes 164
-
-76.  Court  of  Justice  Charm 165
-
-77.  For  Sheep 166
-
-78.  For  Bathing  Children 166
-
-79.  To  quiet  a Child 166
-
-80.  To  excite  Love,  a — c 167
-
-81.  To  Alienate  Love 170
-
-82.  To  take  Redstarts 170
-
-83.  For  Fowling,  a^b 170
-
-84.  For  making  an  Artificial  Decoy  Bird  . . . . 17 1
-
-85.  Against  Bugs 17 1
-
-86.  Against  the  Cowhouse  Snake,  . . . . . 171
-
-87.  For  making  Vapour,  a — c ......  172
-
-88.  A Milk-charm,  (2 — c 173
-
-89.  Hunting  Charm,  a—f 175
-
-90.  Against  Forest  Fires 180
-
-91.  An  Ale  Charm 181
-
-92.  For  catching  Squirrels,  a^b 181
-
-93.  Against  Sharp  Frost  {Pakkanen),  a — d ....  182
-
-94.  A Snake  Charm 185
-
-95.  Against  Rust  in  Corn,  b . . . . . . 186
-
-96.  Gelding  Charm 186
-
-97.  Frog  Charm 187
-
-
-CONTENTS
-
-
-IX
-
-
-SECT.  PAGE
-
-
-98.  To  drive  away  Rain
-
-180
-
-99.  On  going  to  the  Wars,  b .
-
-. ,188
-
-100.  To  exorcise  Wolves
-
-. . . . 189
-
-loi.  Charm  to  recite  over  Salt
-
-190
-
-102.  For  Health,  a^b  .
-
-190
-
-103.  Against  Cockroaches
-
-191
-
-104.  To  lay  the  Wind  ....
-
-191
-
-105.  To  lay  a Whirlwind  .
-
-192
-
-106.  To  be  recited  over  Water
-
-192
-
-107.  For  a Journey  by  Water,  a — d
-
-192
-
-108.  Trap  Charm
-
-194
-
-109.  Ointments,  a — 1 ....
-
-195
-
-PRAYERS
-
-
-no.  In  the  Morning 198
-
-111.  Treasure  Seeking 199
-
-1 1 2.  Against  Elf-shots 199
-
-1 13.  Against  Wasps 199
-
-1 14.  Against  Toothache,  a — c 199
-
-1 15.  For  Horses,  a — c ........  201
-
-1 16.  When  Gored  by  an  Ox 202
-
-1 17.  At  a Bridal  Procession,  a,  3 ......  202
-
-1 18.  For  catching  Hares,  a — c ......  204
-
-1 19.  Against  Cabbage  Grubs  . ......  205
-
-120.  For  Fishing,  a—f  206
-
-1 21.  Bear  Hunting 207
-
-122.  Against  a Bear,  a — c .......  208
-
-123.  To  Benefit  Cattle,  a — I 210
-
-124.  At  the  Assizes 215
-
-125.  To  incite  a Dog 215
-
-126.  To  silence  a Dog,  a — c 216
-
-127.  When  Shooting  Rapids,  a — c 217
-
-
-X
-
-
-THE  MAGIC  SONGS  OF  THE  FINNS
-
-
-SECT.  PAGE
-
-128.  When  in  Great  Pain,  a — i 218
-
-129.  To  Charm  away  Strumous  Swellings  on  the  Neck,  a,  b . 221
-
-130.  While  Sowing,  a — c 222
-
-13 1.  To  Stupefy  a Snake 223
-
-132.  To  Increase  the  Yield  of  Milk  from  Cows,  a — d . . 223
-
-133.  To  Excite  Love,  a—g 225
-
-134.  To  W’^ean  a Heart  from  Another’s  Love  ....  230
-
-135.  When  Excising  Superfluous  Flesh,  ....  230
-
-136.  For  Catching  Birds,  a — c 230
-
-137.  On  Going  to  Bed 232
-
-138.  Starting  on  a Journey 233
-
-139.  Hunting  in  the  Forest,  a — u 233
-
-140.  For  Sprains,  Injuries  of  the  Bone  or  Sinews,  a — d . . 244
-
-14 1.  When  Butted  by  a Ram  or  a He-goat  . . . . 246
-
-142.  Brewing  Ale,  a^b 246
-
-143.  For  Good  Luck 247
-
-144.  Squirrel-Hunting,  a — d .......  248
-
-145.  Against  Nightmare 249
-
-146.  Against  Swellings  and  Scab,  a — d 249
-
-147.  Against  very  Sharp  Frost,  a — b 250
-
-148.  For  Catching  Reindeer  . .• 251
-
-149.  For  Pleurisy  or  Stitch,  252
-
-150.  To  Throw  a Spell  over  a Gun 255
-
-1 5 1.  Setting  Traps,  a — c 255
-
-152.  For  a Good  Sleighing  Road 257
-
-153.  For  Catching  Foxes,  a — c 257
-
-154.  Against  Injuries  from  Spells,  a — e 259
-
-155.  For  Trapping  Sea-otters 260
-
-156.  To  Drive  away  Rain 261
-
-157.  When  Charming  the  Sick,  a — e 261
-
-158.  Castration,  a^b 263
-
-159.  Preparing  a Bandage,  a^b 264
-
-160.  Against  Bits  of  Chaff,  etc.,  in  the  Eye,  b . . . 264
-
-
-CONTENTS
-
-SECT.
-
-161.  For  the  Pigs
-
-162.  In  War  Time,  a—f
-
-163.  Preparing  for  War,  a^b  .
-
-164.  To  Make  Snow-skates  .
-
-165.  Against  Incantations,  a^b  . .
-
-166.  For  the  Pains  of  Child-birth,  a — h
-
-167.  Setting  Up  House  ....
-
-168.  For  Skin  Eruptions  .
-
-169.  For  a Healing  Bath,  a—c
-
-170.  For  Making  Edged  Tools
-
-1 7 1.  Against  Damage  from  Fire,  a — m .
-
-172.  To  Bewitch  Fire,  a — d .
-
-173.  In  Making  an  Offering,  a — d .
-
-174.  To  Recover  Stolen  Property  .
-
-175.  To  Guard  against  Thieves
-
-176.  When  on  the  Look-out,  a — v
-
-177.  To  Staunch  Blood,  a — h
-
-178.  When  Travelling  by  Water,  a—d  .
-
-179.  To  Fortify  Water  ....
-
-180.  Against  an  Enemy  at  Sea,  a — b
-
-1 8 1.  When  Using  Salves,  a — k
-
-182.  For  a Good  Crop  ....
-
-
-xi
-
-PAGE
-
-265
-—>  265
-26^
-268
-
-268
-
-269
-
-273
-
-273
-
-274
-
-276
-
-277
-
-281
-
-282
-284
-284
-284
-
-293
-
-297
-
-298
-
-299
-299
-304
-
-
-ORIGINS  OR  BIRTHS
-
-
-183.  The  Origin  of  Wasps 304
-
-184.  Of  Snails 304
-
-185.  Of  the  Tooth- worm,  a— ^ 304
-
-186.  Of  thfe  Pike 307
-
-187.  Of  the  Horse 307
-
-188.  Of  the  Elk 307
-
-189.  Of  Ague 308
-
-190.  Of  the  Seal 308  ^
-
-
-xii
-
-THE  MAGIC  SONGS  OF
-
-THE
-
-FINNS
-
-SECT.
-
-PAGE
-
-I9I.
-
-Of  Men
-
-308
-
-192.
-
-Of  the  Cabbage-worm  .
-
-309
-
-193-
-
-Of  the  Bear,  a — c ....
-
-309
-
-194.
-
-Of  Courts  of  Law  ....
-
-3II
-
-195-
-
-Of  the  Cat
-
-312
-
-196.
-
-Of  Stone,  a,  b
-
-312
-
-197.
-
-Of  Cancer  or  Whitlow  .
-
-312
-
-198.  Of  the  Dog,  a,  b .
-
-313
-
-199.
-
-Of  the  Birch
-
-314
-
-200.
-
-Of  the  Raven,  a,  b
-
-314
-
-201.
-
-Of  Swelling  on  the  Neck
-
-315
-
-202.
-
-Of  the  Viper,  b .
-
-316
-
-203,
-
-Of  the  Snake,  a — g
-
-317
-
-204.
-
-Of  Flax,  a — c ....
-
-322
-
-205.
-
-Of  the  Cowhouse  Snake,  a—f
-
-323
-
-206.
-
-Of  the  Earth-elf  or  Skin  Eruption,  a,  b
-
-327
-
-207.
-
-Of  the  Sorcerer  ^noita)  ,
-
-327
-
-208.
-
-Of  Arrows,  a^b  ,
-
-328
-
-209.
-
-Of  Ale,  b
-
-328
-
-210.
-
-Of  Sharp  Frost,  a — c
-
-332
-
-211.
-
-Of  Stitch  or  Pleurisy,  a — d .
-
-335
-
-212.
-
-Of  Trees,  a — i ....
-
-342
-
-213.
-
-Of  Cancer
-
-346
-
-214.
-
-Of  Iron,  a—f  ....
-
-347
-
-215.
-
-Of  Rickets,  Atrophy
-
-356
-
-216.
-
-Of  Injuries  caused  by  Spells,  a — e .
-
-357
-
-217.
-
-Of  Rust  in  Corn  ....
-
-365
-
-218.
-
-Of  Scab
-
-365
-
-219.
-
-Of  the  Pig
-
-365
-
-220.
-
-Of  Particles  of  Chaff  in  the  Eye
-
-365
-
-221.
-
-Of  the  Lizard,  a — d
-
-366
-
-222.
-
-Of  the  Wolf,  f .
-
-369
-
-223.
-
-Of  Salt
-
-370
-
-CONTENTS
-
-
-xiii
-
-SECT.  PACE
-
-224.  Of  the  Oak,  a — e ........  371
-
-225.  Of  the  Titmouse . - 375
-
-226.  Of  Fire,  a—-f 375
-
-227.  Of  Copper,  a^b 381
-
-228.  Of  Water,  a — d 381
-
-229.  Of  a Boat ' . . 383
-
-230.  Of  a Net,  a — c 383
-
-231.  Of  Brandy  . 384
-
-232.  Of  Salves,  a—g 385
-
-233.  Of  Gripes,  Colic,  Constipation,  a — c ....  389
-
-
-Index
-
-
-391
-
-
-PRE-  AND  PROTO-HISTORIC  FINNS
-
-
-PRE-  AND  PROTO-HISTORIC  FINNS
-
-
 CHAPTER  VII
 
 CHARMS  OF  THE  EAST  FINNS,  RUSSIANS,
@@ -960,16 +26,7 @@ where  one  singer  uses  a particular  charm  or  song  for  one
 disease,  such  as  rickets,  another  recites  it  for  itch  or  for
 
 
-2
-
-
 A
-
-
-2
-
-
-PRE-  AND  PROTO-HISTORIC  FINNS
 
 
 rash.  This  doubtless  diminishes  the  value  of  Lonnrot’s
@@ -1000,8 +57,7 @@ would  amply  cover  or  counterbalance  any  irregularity  the
 exorcist  might  commit  in  his  recitations.
 
 According  to  their  contents,  Lonnrot  classified  and
-arranged  the  Magic  Songs  most  minutely  under  233  head-
-ings. The  general  formulae,  common  to  many  charms,  are
+arranged  the  Magic  Songs  most  minutely  under  233  headings. The  general  formulae,  common  to  many  charms,  are
 given  separately  under  eighteen  heads,  from  § i to  § 18;
 words  of  releasing  or  healing  power  under  forty  heads,  § 19
 to  § 58 ; fifty-one  formulae  of  a very  varied  kind  from  § 59
@@ -1015,12 +71,10 @@ origins,  § 183  to  § 233.  Under  each  of  these  233  heads
 Lonnrot  has  often  given  a number  of  variants,  distinguished
 by  the  letters  of  the  alphabet.  Mainly  for  reasons  of  space,
 though  I have  given  specimens  under  each  head,  I have
-curtailed  the  number  of  variants,  yet  those  I have  trans-
-lated amount  to  639  magic  songs,  which  is  amply  sufficient
+curtailed  the  number  of  variants,  yet  those  I have  translated amount  to  639  magic  songs,  which  is  amply  sufficient
 to  allow  one  to  form  an  idea  of  the  whole  collection.  To
 facilitate  reference  I have  numbered  the  different  headings
-consecutively ; in  the  original  each  of  the  five  great  sub-
-divisions is  numbered  separately,  so  that  after  § 18  my
+consecutively ; in  the  original  each  of  the  five  great  subdivisions is  numbered  separately,  so  that  after  § 18  my
 numbering  no  longer  coincides  with  the  Finnish  text ;
 so  too  in  the  variants,  I have  lettered  them,  even  after
 omitting  some,  in  their  proper  alphabetical  order,  regardless
@@ -1040,15 +94,8 @@ sick,  when  the  origin  of  the  malady  was  uncertain.  6.  With
 the  ‘ reparation  for  harm  ’ formulae  the  exorcist  or  wizard,
 when  dealing  with  a contusion,  ailment,  or  snake-bite,  orders
 the  person  who  caused  all  the  pain  and  suffering  to  come
-and  cure  the  sufferer.  7.  The  formulae  ‘ against  inflamma-
-tion’ were  useful  in  cases  of  snake-bite,  contusions,  and
+and  cure  the  sufferer.  7.  The  formulae  ‘ against  inflammation’ were  useful  in  cases  of  snake-bite,  contusions,  and
 inflammatory  wounds.  8.  ‘ Expulsion  ’ charms  were  avail-
-
-
-4
-
-
-PRE-  AND  PROTO-HISTORIC  FINNS
 
 
 able  for  many  complaints  and  diseases,  especially  in  those
@@ -1069,8 +116,7 @@ confidence.  15.  Formulae  ‘to  still  violence’  were  good
 for  assuaging  severe  pain  in  sickness.  16.  ‘Menacing’  was
 used  after  an  expulsion  formula,  if  the  later  had  proved
 of  no  avail.  17.  By  an  ‘exorcism,’  disease,  pain,  curses,
-spell-sent  injuries  of  every  description,  were  removed  else-
-where. 18.  After  the  recitation  of  a formula  ‘to  make
+spell-sent  injuries  of  every  description,  were  removed  elsewhere. 18.  After  the  recitation  of  a formula  ‘to  make
 fast,’  the  evil,  which  has  been  exorcised  away,  was  obliged
 to  settle  down  in  a given  locality  and  there  to  remain
 motionless.^
@@ -1099,8 +145,7 @@ stones  or  timber,  by  the  recitations  of  their  respective
 Then  they  continued  the  repetition  in  no  particular  order,
 just  as  the  exorcist  remembered  or  regarded  as  most
 useful,  the  ‘words  of  releasing  and  healing  power,’  the
-‘reparation  of  harm,’  ‘against  inflammation,’  and  ‘ex-
-pulsion ’ formulae,  or  any  other  from  § 9 to  § 18.
+‘reparation  of  harm,’  ‘against  inflammation,’  and  ‘expulsion ’ formulae,  or  any  other  from  § 9 to  § 18.
 
 The  ‘ origins,’  it  should  be  observed,  have  nothing  to  do
 with  the  origin  or  cause  of  the  disease  or  injury  from  which
@@ -1120,15 +165,8 @@ committed,  or  to  make  it  clear  that  such  a helpless  villain
 could  have  no  chance  of  success  against  himself,  who
 feigned  at  times  to  be  the  son  of  Ukko,  and  was  amply
 protected  by  defensive  clothing.  The  recital  of  the  origin
-was  of  itself  sufficient  to  banish  a spirit  of  evil ; ‘ by  pro-
-nouncing a deep  origin,  words  that  are  handed  down,  a
+was  of  itself  sufficient  to  banish  a spirit  of  evil ; ‘ by  pronouncing a deep  origin,  words  that  are  handed  down,  a
 needless  evil  is  expelled’  (210  a).
-
-
-6
-
-
-PRE-  AND  PROTO-HISTORIC  FINNS
 
 
 The  work  of  healing  was  usually  performed  in  the
@@ -1142,8 +180,7 @@ to  use  splinters  cut  from  the  hindmost  beam  of  the  barn ;
 and  if  love  was  to  be  excited,  then  wood  was  taken  from
 two  trees  that  had  grown  together,  or  had  twisted  round
 each  other  like  the  tendril  of  hops  round  a pole.  The
-water  was  drawn  from  a stream  flowing  northwards,  espe-
-cially from  the  bubbly  part  of  it  if  rapids  happened  to  be
+water  was  drawn  from  a stream  flowing  northwards,  especially from  the  bubbly  part  of  it  if  rapids  happened  to  be
 near  at  hand.  Water  from  a natural  spring  was  also  of
 service  if  scrapings  of  gold  or  silver  had  been  dropped  into  it
 thrice,  a little  each  time.  This  was  called  ‘ buying  the  water.  ’
@@ -1177,8 +214,7 @@ those  of  the  Finns  I bring  forward  a small  selection.  As
 those  of  the  Esthonians,  collected  and  translated  into
 German  by  Kreutzwald  and  Neus,  are  fairly  accessible,  and
 at  any  rate  are  of  the  same  character  and  in  the  same  metre
-as  the  Finnish  Magic  Songs,  it  is  not  necessary  to  repro-
-duce them  here.  So  too  the  few  prose  charms  of  the
+as  the  Finnish  Magic  Songs,  it  is  not  necessary  to  reproduce them  here.  So  too  the  few  prose  charms  of  the
 Vepsas,  given  by  Ujfalvy,  are  so  entirely  Russian  that  they
 need  not  be  transcribed.  Though  hardly  worth  giving,
 since  they  all  belong  to  a very  late  period,  a few  Swedish
@@ -1194,8 +230,7 @@ ones  from  a single  collection.  In  1894  Dr.  Robert  of
 Dorpat  published  347  Lettish  charms,  of  which  I have
 taken  about  a fifth.  The  post-classical  examples,  mostly
 from  Marcellus,  are  interesting,  as  they  help  to  explain
-certain  common  features  in  Lettish,  Russian,  and — pro-
-bably by  derivation — Finnish  exorcisms.  The  eleven
+certain  common  features  in  Lettish,  Russian,  and — probably by  derivation — Finnish  exorcisms.  The  eleven
 Mordvin  charms  are  interesting,  but  some  of  them  have
 been  unmistakably  influenced  by  Russian  formulae.  All
 the  Ceremisian  and  Votiak  examples  seem  also  to  be  built
@@ -1203,8 +238,6 @@ up  on  an  idea  borrowed  from  the  Russians,  though,  as  I
 have  never  seen  any  Cuvas  or  Tatar  formulae,  the  idea
 may  have  been  taken  from  a Turkish-speaking  people.
 
-
-8 PRE-  AND  PROTO-HISTORIC  FINNS
 
 Mordvin  Charms.
 
@@ -1248,8 +281,6 @@ fellow  lifted  the  firewood,  a footless  fellow  carried  it  here.
 MORDVIN  CHARMS
 
 
-9
-
 a blind  fellow  went  into  the  water,  a breathless  fellow  blew
 up  the  fire.  - ^
 
@@ -1290,9 +321,6 @@ Against  violent  pain  in  the  joints^  rheumatism.
 
 8.  Separate  the  painful  illness,  the  rheumatism  from  the
 marrow  in  their  bones,  from  their  bodies  and  muscles.
-
-
-10  PRE-  AND  PROTO-HISTORIC  FINNS
 
 
 their  flesh  and  blood,  their  dark-red  liver,  and  from  the
@@ -1376,9 +404,6 @@ ground,  may  Vasili’s  body,  becoming  heavy,  also  lie !
 1 Paasonen,  (3)  No.  i^,  2 <5 1 if,  3,  5 a,  7,  10,  ii,  12,  14.
 
 
-12  PRE-  AND  PROTO-HISTORIC  FINNS
-
-
 To  give  relief  in  sickness.
 
 4.  As  a feather  lies,  so  may  Vasili’s  body  become  light !
@@ -1422,9 +447,6 @@ instant ; only  then  may  my  blood  flow  !
 CEREMISIAN  CHARMS
 
 
-13
-
-
 As  the  red  of  dawn  melts  away,  so  may  it  (the  evil)  melt
 away.
 
@@ -1465,9 +487,6 @@ golden  trough  is  a golden  cup,  in  the  golden  cup  is  a silk
 skein ; when  a snake  can  in  a moment  rush  in  there,  bite,
 seize,  devour,  and  swallow  it  up,  only  then  may  he  be  able
 to  bite  me !
-
-
-14  PRE-  AND  PROTO-HISTORIC  FINNS
 
 
 When  a long  deceased  person  causes  a child  to  pine  away.
@@ -1519,8 +538,6 @@ J Genetz,  (2)  pp.  142-147,  No,  1-3,  5-8,  n.
 VOTIAK  CHARMS
 
 
-15
-
 4.  Is  it  a green  eye  that  has  thrown  the  glance  ? Is  it
 
 a black  eye  that  has  thrown,  the  glance  ? ^
@@ -1568,14 +585,10 @@ bottom  of  the  sea,  then  may  he  be  able  to  set  on  fire  (my
 house,  for  example) !
 
 
-1 6 PRE-  AND  PROTO-HISTORIC  FINNS
-
-
 When  he  can  ignite  the  sand  lying  at  the  bottom  of  a
 river,  then,  etc.
 
-When  he  in  one  minute  burns  the  world  into  a moun-
-tain (of  ashes),  and  makes  it  again  as  it  was,  then,  etc.
+When  he  in  one  minute  burns  the  world  into  a mountain (of  ashes),  and  makes  it  again  as  it  was,  then,  etc.
 
 When  he  sets  on  fire  the  water  of  the  mill-sluice  in
 spring,  then,  etc.
@@ -1596,8 +609,7 @@ Against  swellings.
 12.  When  a swelling  forms  on  the  tip  of  a snake’s  sting,
 then  let  a swelling  form  on  this  (man).
 
-When  a swelling  forms  on  the  tip  of  the  horn  of  a one-
-year-old  sheep,  then,  etc.
+When  a swelling  forms  on  the  tip  of  the  horn  of  a oneyear-old  sheep,  then,  etc.
 
 When  a swelling  forms  on  a lizard,  etc.
 
@@ -1615,8 +627,7 @@ If  he,  after  making  a copper  ladder,  etc.
 
 Against  stomach-ach&.
 
-14.  When  the  heart  of  a pine-tree  is  attacked  by  stomach-
-ache, then  may  the  stomach-ache  attack  this  man !
+14.  When  the  heart  of  a pine-tree  is  attacked  by  stomachache, then  may  the  stomach-ache  attack  this  man !
 
 When  the  heart  of  a birch,  etc.
 
@@ -1624,9 +635,6 @@ When  the  heart  of  a fir,  etc.
 
 
 VOTIAK  CHARMS
-
-
-17
 
 
 When  the  heart  of  a Siberian  pine,  etc.
@@ -1656,8 +664,7 @@ When  the  fish  sees  the  shadow  of  a dead  man,  then,  etc.
 
 When  the  fish  sees  the  cross  on  the  church,  then,  etc.
 
-When  the  fish  sees  the  ashes  thrown  out  of  the  bath-
-house, etc.
+When  the  fish  sees  the  ashes  thrown  out  of  the  bathhouse, etc.
 
 As  water  turns  according  to  the  direction  of  the  current
 of  the  sluice,  so  let  (the  fish  also)  return  and  enter  the
@@ -1679,9 +686,6 @@ damage  (by  spells)  all  these,  then,  etc.
 When  you  reverse  the  twelve  thunderbolts,  then,  etc.
 
 Otherwise  I give  this  man  nothing.
-
-
-2
 
 
 B
@@ -1707,8 +711,7 @@ then,  etc.
 
 Against  stomach-ache.
 
-20.  When  you  can  keep  seventy-seven  vapour-bath-
-rooms hot,  then,  Stomach-ache,  attack  this  man !
+20.  When  you  can  keep  seventy-seven  vapour-bathrooms hot,  then,  Stomach-ache,  attack  this  man !
 
 Against  dropsy.
 
@@ -1736,9 +739,6 @@ cold,’  then,  etc.
 VOTIAK  CHARMS
 
 
-19
-
-
 Against  any  sort  of  illness.
 
 24.  I do  not  give  (the  sick  man)  ‘ to  the  evil  one,’  though
@@ -1751,8 +751,7 @@ If  you  succeed  in  eating  red-hot  steel,  thunderbolts,
 then,  etc.
 
 If  you  succeed  in  travelling  with  jokes  and  laughter  after
-you  have  mended  the  badly-broken  pole  and  the  badly-
-smashed  worm  for  distilling  brandy,  and  united  the  ends ;
+you  have  mended  the  badly-broken  pole  and  the  badlysmashed  worm  for  distilling  brandy,  and  united  the  ends ;
 after  you  have  made  a black  bear  into  a horse  for  yourself
 and  harnessed  it  in  front;  after  you  have  made  a black
 snake  into  a whip  and  taken  it  in  your  hand,  then,  etc.
@@ -1783,9 +782,6 @@ they  are  more  savoury  than  (N.’s)  body ! Don’t  come  into
 1 Wichman,  (3)  pp.  170-192.
 
 
-20  PRE-  AND  PROTO-HISTORIC  FINNS
-
-
 the  house,  for  dogs  and  cats  will  tear  thee  to  pieces,  dogs
 and  cats  will  rend  thee  in  pieces.
 
@@ -1805,8 +801,7 @@ Amen.  (Repeat  thrice.)
 Let  nine  Perkoni  strike  him  ! The  stitch  pricks — I am
 in  agony  ! Let  three  times  nine  Perkoni  strike  him  !
 
-As  many  crosses  are  to  be  made  as  the  number  of  Per-
-koni mentioned.
+As  many  crosses  are  to  be  made  as  the  number  of  Perkoni mentioned.
 
 Against  stomach-ache.
 
@@ -1830,9 +825,6 @@ whip  you,  I shall  tear  you  to  pieces  with  an  iron  harrow  I
 
 
 LETTISH  CHARMS
-
-
-21
 
 
 8.  Stand  up,  Flux ! stand  up,  Flux ! I shall  cure  yoiL
@@ -1862,10 +854,8 @@ Father  . . .
 
 Against  skin  disease  called  ‘ holy  virgins,^
 
-11.  Look,  where  blue  smoke  is  rising  from  the  founda-
-tion of  the  vapour-bath  house,  there  is  a tiny  man  with  a
-black  cap  on  his  head ; look,  where  blue  smoke  is  ascend-
-ing from  the  foundation  of  the  bath-house,  there  is  a little
+11.  Look,  where  blue  smoke  is  rising  from  the  foundation of  the  vapour-bath  house,  there  is  a tiny  man  with  a
+black  cap  on  his  head ; look,  where  blue  smoke  is  ascending from  the  foundation  of  the  bath-house,  there  is  a little
 black  man  with  a black  cap  on  his  head ; look,  where  blue
 smoke  is  ascending  from  the  foundation  of  the  bath-house,
 there  is  a little  black  man  with  a black  cap  on  his  head.
@@ -1873,12 +863,8 @@ there  is  a little  black  man  with  a black  cap  on  his  head.
 12.  A little,  little  virgin  who  scourges  the  children;  five
 
 
-22  PRE-  AND  PROTO-HISTORIC  FINNS
-
-
 maidens  in  the  sea  are  spinning  a silk  thread ; a green,  a
-blue  fire  (appears)  through  the  foundations  of  the  bath-
-house. Quit,  holy  Virgin,  the  body  (of  N.) ! Go  into  the
+blue  fire  (appears)  through  the  foundations  of  the  bathhouse. Quit,  holy  Virgin,  the  body  (of  N.) ! Go  into  the
 deep  sea,  upon  the  sail  of  a large  boat,  on  the  broken  boat
 of  a Lauma  ( = witch).
 
@@ -1918,11 +904,7 @@ the  earth,  close  up  thine  earth ; let  that  which  is  hidden.
 LETTISH  CHARMS
 
 
-23
-
-
-sleep;  that  which  is  hidden,  rot;  that  which  rots,  dis-
-appear; what  disappears  cannot  return!  Amen,  besides®*
+sleep;  that  which  is  hidden,  rot;  that  which  rots,  disappear; what  disappears  cannot  return!  Amen,  besides®*
 let  God  the  Father  . . . help.  Our  Father,  which  . . .
 
 Against  bleeding,
@@ -1964,9 +946,6 @@ dear  mother,  your  ploughmen  !
 26.  The  alder  grows  in  the  forest,  the  alder  grows  in  the
 
 
-24  PRE-  AND  PROTO-HISTORIC  FINNS
-
-
 forest;  from  the  alder  flows  blood,  from  the  alder  flows
 blood.  Let  the  blood  of  the  alder  be  as  hard  as  stone —
 through  Jesus  Christ.
@@ -2003,8 +982,7 @@ the  shadow  of  cattle  ! You  have  as  many  sins  as  the  stars
 of  heaven ; as  many  sins  as  the  pebbles  in  the  sea.
 
 33.  The  snake  goes  through  the  feather-grass  with  a
-white  bar  on  its  back ; it  has  the  bar,  I have  a feather-
-grass. Let  the  (bitten)  place  become  as  soft  as  feather-
+white  bar  on  its  back ; it  has  the  bar,  I have  a feathergrass. Let  the  (bitten)  place  become  as  soft  as  feather-
 grass.
 
 34.  Big  snake,  little  snake  ! sleep  in  the  vine-bush,  don’t
@@ -2024,8 +1002,7 @@ shadow,’  ‘ leash  ’ in  the  heat  of  the  sun.
 one  is  white,  another  variegated,  the  third  brown.  Open,
 copper  gate ! that  all  may  crawl  through.
 
-37.  The  ‘toothless’  lies  in  the  willow  thicket.  ‘Tooth-
-less ! ’ come  out  of  the  willow  thicket.  Let  the  pain  rot
+37.  The  ‘toothless’  lies  in  the  willow  thicket.  ‘Toothless ! ’ come  out  of  the  willow  thicket.  Let  the  pain  rot
 like  a willow  leaf ! Let  the  swelling  subside  like  a heap
 of  wool !
 
@@ -2054,9 +1031,6 @@ man’s  body  revive  like  the  lime  leaves,  let  the  swelling  of
 dropsy  vanish ; stone  (is  its)  name.
 
 
-26  PRE-  AND  PROTO-HISTORIC  FINNS
-
-
 Against  swellings.
 
 42.  Thrice  nine  red  waggons  are  passing  along  the
@@ -2083,15 +1057,13 @@ into  the  deep  sea,  into  the  deep  sea-sand,  into  the  deep
 sea-gravel ; — there  you  must  spin,  there  you  must  twist.
 
 46.  The  boil  is  spinning  between  the  door:  there  it
-spins,  there  it  twists.  Hurry  into  the  forest  to  the  thickly-
-ramified  willow-bush — there  you  must  spin,  there  must  you
+spins,  there  it  twists.  Hurry  into  the  forest  to  the  thicklyramified  willow-bush — there  you  must  spin,  there  must  you
 twist ; your  grandfathers  are  there,  your  grandmothers  are
 there, — there  you  must  spin,  there  must  twist.  God  the
 Father  . . .
 
 47.  The  little  old  mother  sits  on  the  hill  with  a little
-basket  in  her  hand  \ in  it  is  a ball  of  yarn ; the  ball  un-
-winds, the  boil  discharges  itself,  vanishes,  passes  into  dust
+basket  in  her  hand  \ in  it  is  a ball  of  yarn ; the  ball  unwinds, the  boil  discharges  itself,  vanishes,  passes  into  dust
 like  a fuzz-ball.
 
 48.  The  little  old  mother  sits  on  the  hill  with  a ball  of
@@ -2099,9 +1071,6 @@ thread  in  her  bosom,  a little  dog  is  at  her  side ; the  ball
 
 
 LETTISH  CHARMS
-
-
-27
 
 
 rolls  to  the  bottom,  the  little  dog  retrieves  it.  These  are
@@ -2118,8 +1087,7 @@ name  of  Jesus — all  is  well  (again).
 50.  Boil,  boil,  howling  boil ! howl  like  a dog,  coo  like
 an  egg  («V),  burst  like  an  egg,  like  a barley-corn.
 
-51.  ‘ Rotten  birch-bark,’  ^rotten  birch-rind,’  ‘ rotten  birch-
-leaf’  ! — without  end,  without  end.
+51.  ‘ Rotten  birch-bark,’  ^rotten  birch-rind,’  ‘ rotten  birchleaf’  ! — without  end,  without  end.
 
 Against  erysipelas.
 
@@ -2142,9 +1110,6 @@ Against  caries  of  the  bone.
 hunger.  And  you,  bright  stars ! come  to  help.  (This
 must  be  repeated  twenty-seven  times  over  fine  tobacco
 mixed  with  honey.)
-
-
-28  PRE-  AND  PROTO-HISTORIC  FINNS
 
 
 Against  cramp.
@@ -2190,9 +1155,6 @@ the  small  stones  of  the  sea  came  to  help  (N.).
 LETTISH  CHARMS
 
 
-29
-
-
 62.  A black  man  walks  along  the  street,  he  carries  in
 his  hand  a black  cat.  It  was  no  black  man,  it  was  the
 merciful  God  himself.  Lord  Jesus  Christ  help  me.  In
@@ -2208,8 +1170,7 @@ and  protecting  my  cradle  and  my  bairnie.  God  the
 Father  . . .
 
 65.  Four  table-legs,  four  table-corners,  four  corners  of
-the  room ; three  magpies  j one  black  magpie,  one  parti-
-coloured magpie,  one  green  magpie;  three  black  whelps,
+the  room ; three  magpies  j one  black  magpie,  one  particoloured magpie,  one  green  magpie;  three  black  whelps,
 three  black  kittens,  watch  my  little  child.  God  the
 Father  . . .
 
@@ -2232,9 +1193,6 @@ mother  of  the  devil  {Jods)  is  coming  with  swords  and  pistols ;
 there  they  will  shoot  thee  down,  there  thou  wilt  disappear.
 Hew  into  the  pine,  hew  into  the  fir,  don’t  hew  into  the
 oak.  God  the  Father  . . .
-
-
-30  PRE-  AND  PROTO-HISTORIC  FINNS
 
 
 Charms  relating  to  cow^s  milk.
@@ -2279,9 +1237,6 @@ I shall  shoot  that  arrow  at  the  servant  of  God,  the  girl
 GREAT  RUSSIAN  EXORCISMS
 
 
-31
-
-
 and  weary  (for  me)  by  day,  at  night  and  at  midnight,  and
 shall  not  dispel  the  feeling  by  eating  and  drinkmg.  '
 
@@ -2322,9 +1277,6 @@ Against  gripes.
 are  felt  with  a whetstone  and  makes  a cross  over  the  place
 with  a table-knife  while  praying,  and  crosses  himself  thrice :
 I cut,  I cut  off,  I hew,  I hew  in  half,  I cut,  I split  the
-
-
-32  PRE-  AND  PROTO-HISTORIC  FINNS
 
 
 gripes  with  a sharp  knife.  As  a whetstone  is  worn  down  by
@@ -2370,9 +1322,6 @@ crossing  myself.  I shall  go  to  the  blue  sea.  On  the  blue  sea
 GREAT  RUSSIAN  EXORCISMS
 
 
-33
-
-
 lies  a white  inflammable  stone ; on  this  stone  stands  God’s
 throne ; on  this  throne  sits  the  very  holy  Mother,  holding
 in  her  small  white  hands  a white  swan.  She  plucks,  she
@@ -2408,13 +1357,7 @@ satiated.  — From  eighteenth-century  documents  of  the  Secret
 Chancery.
 
 
-2
-
-
 C
-
-
-34  PRE-  AND  PROTO-HISTORIC  FINNS
 
 
 11.  To  be  repeated  thrice,  and  each  time  the  sore  place
@@ -2461,8 +1404,6 @@ hour,  till  it  is  with  my  agreement  and  decree,  for  ever  and
 GREAT  RUSSIAN  EXORCISMS
 
 
-35
-
 ever.  Amen.  — From  district  of  Valdai^  Government  of
 Novgorod.
 
@@ -2474,8 +1415,7 @@ then  rubbed  on  the  wound.
 From  the  sea,  from  behind  a hill,  from  a white  stone
 issued  a broad  feathered  snake,  and  brought  three  iron
 pincers  and  took  out  the  sting  of  a black  snake,  of  a little
-striped  snake,  of  a copper  snake,  of  a blind-worm. — Govern-
-ment of  Tula.
+striped  snake,  of  a copper  snake,  of  a blind-worm. — Government of  Tula.
 
 17.  Make  a circle  round  the  wound  with  the  finger
 moistened  with  spittle  and  say  :
@@ -2504,9 +1444,6 @@ Against  a tired  back.
 the  first  handful  of  rye  and  girds  herself  with  it,  saying :
 
 
-36  PRE-  AND  PROTO-HISTORIC  FINNS
-
-
 As  Mother  Rye  stood  for  a year  and  did  not  get  tired,
 so  let  my  back  not  get  tired  from  reaping. — Government  of
 Vologda.
@@ -2517,8 +1454,7 @@ Hunting  spells.
 side  stands  the  prophet  Ilya  with  twelve  servants  : ‘ Servants,
 faithful  servants,  I lay  upon  you  no  heavy  task ! take  each
 of  you  an  iron  switch  and  drive  together  from  the  Kama
-and  the  Volga,  from  the  open  field,  from  a wide  comfort-
-able place,  from  hillocks  and  hills  into  the  trap  set  by
+and  the  Volga,  from  the  open  field,  from  a wide  comfortable place,  from  hillocks  and  hills  into  the  trap  set  by
 (N.).’ — /^rom  the  district  of  Tigrits  in  the  Altaic  in  the
 Province  of  Transbaikal.
 
@@ -2555,9 +1491,6 @@ Yenisei.^
 POST-CLASSICAL  CHARMS
 
 
-37
-
-
 Post-Classical  Charms.
 
 
@@ -2584,14 +1517,12 @@ coli  dolorem.
 
 To  improve  the  digestion.
 
-6.  Lie  down  and  rub  your  stomach,  while  thrice  repeat-
-ing : Lupus  ibat  per  viam,  per  semitam^  cruda  vorabat^
+6.  Lie  down  and  rub  your  stomach,  while  thrice  repeating : Lupus  ibat  per  viam,  per  semitam^  cruda  vorabat^
 liquida  bibebat.
 
 At  the  period  of  menstruation.
 
-7.  Herbula  Proserpinacia.^  Horci  regis  filia.^  quomodo  clau-
-sisti  muli partum.^  sic  claudas  et  unda7n  sanguinis  hujus.
+7.  Herbula  Proserpinacia.^  Horci  regis  filia.^  quomodo  clausisti  muli partum.^  sic  claudas  et  unda7n  sanguinis  hujus.
 
 Against  toothache.
 
@@ -2602,17 +1533,13 @@ and  say : Hirundo  tibi  dico,  quomodo  hoc  {sc.  aqua)  in  rostro
 iterum  non  erit.^  sic  mihi  dentes  non  doleant  toto  anno.
 
 
-38  PRE-  AND  PROTO-HISTORIC  FINNS
-
-
 Against  stomach-ache.
 
 9.  Tres  scrofce  de  codo  ceciderunt^  invenit  eas  pastor^  occidit
 eas  sine  ferro^  coxit  eas  ..  . sine  dentibus.  Bene  coxisti^
 bene  coxisti,  bene  coxisti.
 
-10.  Corce  corcedo  stagne,  pastores  te  invenerunt.^  sine  mani-
-bus  collegerunt^  sine  foco  coxerunt.,  sine  dentibus  comederunt.
+10.  Corce  corcedo  stagne,  pastores  te  invenerunt.^  sine  manibus  collegerunt^  sine  foco  coxerunt.,  sine  dentibus  comederunt.
 Tres  virgines  in  medio  mari  mensam  ma7'moream  positam
 habebant ; ducB  torquebant^  una  retorquebat.  Quomodo  hoc
 numquam  factum  est,  sic  numquam  sciat  ilia  Gaia  Seia  cord
@@ -2620,8 +1547,7 @@ dolorem.
 
 11.  Rub  the  stomach  with  the  left  thumb  and  both  little
 fingers,  spit,  and  say  thrice : Stabat  arbor  in  medio  mare  et
-ibi  pendebat  situla  plena  intestinorumy  tres  virgmes  circum-
-ibant,  duce  alligabant,  una  resolvebatP
+ibi  pendebat  situla  plena  intestinorumy  tres  virgmes  circumibant,  duce  alligabant,  una  resolvebatP
 
 Against  bleeding.
 
@@ -2636,8 +1562,7 @@ Swedish  Charms.
 
 Against  a swelling.
 
-I.  Stroke  the  sore  place  from  right  to  left  with  a whet-
-stone, a brush,  and  wool-scissors.  At  every  stroking  spit
+I.  Stroke  the  sore  place  from  right  to  left  with  a whetstone, a brush,  and  wool-scissors.  At  every  stroking  spit
 on  the  ground  and  say :
 
 Good-morning  (good-evening),  swelling  ! If  you  were  as
@@ -2649,9 +1574,6 @@ In  the  name,  etc.
 
 
 SWEDISH  CHARMS
-
-
-39
 
 
 To  stupefy  the  judge.  ^
@@ -2697,9 +1619,6 @@ thou  ? ’ He  answered  : ‘ I shall  go  to  the  forest  to  shoot  \
 I shall  shoot  people,  and  I shall  shoot  beasts,  whatsoever
 
 
-40  PRE-  AND  PROTO-HISTORIC  FINNS
-
-
 is  in  front  (of  me).’  Said  He : ‘ I forbid  thee  that ; thou
 shalt  shoot  stocks  and  earth-fast  stones.’  In  nomine^  etc.
 
@@ -2724,8 +1643,7 @@ The  Magic  Songs  and  Charms  are  built  up  or  composed
 of  various  simple  cells,  or  elements,  each  containing  an
 idea  which  can  be  compressed  into  a single  sentence.  The
 number  of  these  simple  elements,  when  stated  in  the  most
-general  and  comprehensive  terms,  amounts  to  about  seventy-
-five,  though  it  will  be  sufficient  to  enumerate  the  limited
+general  and  comprehensive  terms,  amounts  to  about  seventyfive,  though  it  will  be  sufficient  to  enumerate  the  limited
 number  of  ten.
 
 1.  The  exorcist  or  reciter  of  the  song  invokes  or  desires
@@ -2747,8 +1665,7 @@ STRUCTURE  OF  THE  MAGIC  SONGS  41
 an  exception,  all  the  prayers  or  invocations  for  aid  from  a
 kindly  helper,  from  §114  to  §182,  contain  these  two  ideas
 alone,  though  worked  out  in  a great  variety  of  phraseology.
-In  fact,  they  are  the  simplest  and  most  natural  forms  of  in-
-cantation, merely  amounting  to  the  invocation  of  a friendly
+In  fact,  they  are  the  simplest  and  most  natural  forms  of  incantation, merely  amounting  to  the  invocation  of  a friendly
 helper  and  telling  him  what  to  do.  In  the  Mordvin,  Lettish,
 and  Russian  examples  we  also  find  the  invocation  of
 helpers,  and  with  the  two  latter  peoples  the  spirit  of  disease
@@ -2780,9 +1697,6 @@ though  sometimes  it  was  followed  by  a wish,  a curse,  or
 some  other  formula.  In  seven  instances  mentioned  above.
 
 
-42  PRE-  AND  PROTO-HISTORIC  FINNS
-
-
 vol.  i.  358,  stories  are  cited  as  a precedent  why  a similar
 result  to  that  in  the  stories  should  again  occur.  As  the
 recitation  of  an  anecdote,  which  is  sometimes  reduced  to  a
@@ -2804,8 +1718,7 @@ this  very  simple  formula,  e.g.  10  a,  17  «,  d-p  m-p^  r-u^  w.
 6.  An  inducement  to  depart  is  offered  to  the  cause  of  the
 ailment  or  injury.  Of  this  there  are  twenty-four  examples,
 many  of  which  have  been  mentioned  in  vol.  i.  349.  In  the
-Russian  list.  No.  18,  grubs  are  tempted  to  retire  by  the  in-
-ducement of  a wedding,  held  at  a great  distance,  where  a
+Russian  list.  No.  18,  grubs  are  tempted  to  retire  by  the  inducement of  a wedding,  held  at  a great  distance,  where  a
 lamb  and  a cow  are  being  roasted;  and  in  the  Lettish
 No.  46  a boil  or  abscess  is  to  hurry  off  to  the  forest,  where
 it  will  find  its  grandfather  and  grandmother,  quite  as  in
@@ -2836,8 +1749,7 @@ e.g.  14  a-z,  16  17  u,  etc.,  and  is  also  found  in  the
 
 Votiak,  No.  17,  24;  Lettish,  No.  49.
 
-10.  Something  impossible  is  to  happen  before  the  parti-
-cular evil  dreaded  is  to  be  effected,  or  to  take  place.  With
+10.  Something  impossible  is  to  happen  before  the  particular evil  dreaded  is  to  be  effected,  or  to  take  place.  With
 the  Votiaks  twenty-two  out  of  twenty-five  charms  are  based
 upon  this  conception ; with  the  Ceremis  ten  out  of  fourteen;
 with  the  Mordvins  three  out  of  eleven ; with  the  Russians
@@ -2854,17 +1766,13 @@ of  one’s  ribs  to  climb  up  to  heaven  (No.  14),  as  a hyperbole,
 is  decidedly  original.
 
 In  smaller  details  there  are  also  correspondences  between
-the  Finnish  and  some  of  the  other  groups.  In  the  Mord-
-vin No.  8 the  exorcist  seems  to  identify  himself  with  the
+the  Finnish  and  some  of  the  other  groups.  In  the  Mordvin No.  8 the  exorcist  seems  to  identify  himself  with  the
 god  Niske-pas,  just  as  the  Finnish  wizard  calls  himself  ‘ the
 son  of  Ukko,  the  father  above,  the  observant  man  of  the
 sky’  (176  /).  Again,  an  ailment  of  some  kind  or  other  is
 told  to  injure  something  inanimate  instead  of  a human  being.
 This  injunction  is  very  baldly  stated  in  the  Lettish  No.  i,
 34,  68  j but  it  is  worked  out  in  considerable  detail  in  the
-
-
-44  PRE-  AND  PROTO-HISTORIC  FINNS
 
 
 Finnish  examples.  ‘Let  tumours  grow  on  trees,  on  the  earth
@@ -2893,18 +1801,13 @@ of  magic  in  the  modern  sense  of  the  word  did  not  exist.
 There  was  no  thought  of  attaining  an  object  by  other  than
 what  seemed  thoroughly  natural  means,  and  there  was  no
 supreme  god  whose  prerogatives  would  be  infringed  either
-by  the  words  used,  or  by  any  sympathetic  magical  pro-
-cedure that  accompanied  the  words  and  incantations.
+by  the  words  used,  or  by  any  sympathetic  magical  procedure that  accompanied  the  words  and  incantations.
 The  great  mass  of  the  Magic  Songs  belongs  to  comparatively
 recent  times,  and  many  have  been  composed  since  the
-introduction  of  Christianity  in  the  twelfth  century.  Never-
-theless they  contain  much  older  elements,  and  the  mental
+introduction  of  Christianity  in  the  twelfth  century.  Nevertheless they  contain  much  older  elements,  and  the  mental
 
 
 AGE  OF  THE  MAGIC  SONGS
-
-
-45
 
 
 attitude  of  the  composer  is  often  decidedly  archaic.  The
@@ -2920,8 +1823,7 @@ the  Finns  was  very  considerable,  and  nearly  if  not  quite
 on  a par  with  their  Swedish,  Slav,  and  Lettish  neighbours.
 This  was  accompanied,  as  is  generally  the  case,  with  a
 certain  amount  of  scepticism  and  recklessness.  A power
-that  was  formerly  supposed  to  exist  solely  among  pro-
-fessional wizards  and  wise  men  was  now  claimed  by  laymen.
+that  was  formerly  supposed  to  exist  solely  among  professional wizards  and  wise  men  was  now  claimed  by  laymen.
 People  now  began  to  be  their  own  wizards,  to  recite  their
 own  songs  \ divining  was  performed  with  a common  sieve,
 not  with  a magic  drum;  charming  by  means  of  versified
@@ -2934,14 +1836,10 @@ own  private  magic  song  for  himself  as  occasion  required.
 Every  house-father  and  house-mother  knew  a few  metrical
 charms  that  protected  their  few  cows  and  horses  as  they
 grazed  in  the  forest  against  bears  and  wolves,  or  their  rye
-crops  from  the  ravages  of  insects  and  frost.  The  house-
-wife or  her  near  neighbour  had  always  a song  ready  for
+crops  from  the  ravages  of  insects  and  frost.  The  housewife or  her  near  neighbour  had  always  a song  ready  for
 every  sick  child,  whatever  the  complaint  might  be,  for  with
 the  increase  of  civilisation  far  greater  care  was  taken  of
 the  children  than  in  the  old  days.  No  doubt  there  were
-
-
-46  PRE-  AND  PROTO-HISTORIC  FINNS
 
 
 still  professional  wizards  and  wise  men  about  the  country,
@@ -2950,8 +1848,7 @@ as  it  were,  to  public  competition;  the  successful  became
 renowned,  the  unsuccessful  fell  back  into  the  ranks  of  the
 laymen.  At  least,  an  explanation  of  this  sort  seems  best
 to  account  for  the  frequent  interrogations  and  hesitation
-on  the  part  of  the  exorcist,  which  in  the  case  of  a profes-
-sional would  hardly  occur.  Perhaps  the  ‘origins’  are  of
+on  the  part  of  the  exorcist,  which  in  the  case  of  a professional would  hardly  occur.  Perhaps  the  ‘origins’  are  of
 lay  origin,  and  developed  out  of  a practice  of  vilifying  a
 man  and  his  ancestors  in  everyday  life.  The  more  or
 less  poetic,  sometimes  almost  lyrical,  form  of  expression,
@@ -2980,9 +1877,6 @@ O Foaming  Gore,  like  a yellow  iris  in  the  sea,  like  a sedge
 
 
 POETIC  ELEMENT— SIMILES
-
-
-47
 
 
 amid  the  moss ; stand  like  a stake  in  a morass,  a bar  of
@@ -3033,8 +1927,6 @@ water  roll  from  ’neath  a tree,  from  ’neath  a fir  (67  b).
 1 Corregonus  albula,  or  fresh-water  herring.
 
 
-48  PRE-  AND  PROTO-HISTORIC  FINNS
-
 (To  a hare.)  Like  a golden  cuckoo  run,  like  a silver
 knob,  into  this  gin  of  mine,  straight  into  my  golden  snares
 (67  a).
@@ -3083,8 +1975,6 @@ The  iron  stretched  out  like  pap,  bubbled  up  like  slag,
 POETIC  ELEMENTS— SIMILES
 
 
-49
-
 expanded  like  wheaten  dough,  like  rye-meal  dough,  in  the
 smith’s  huge  fire  (214
 
@@ -3105,8 +1995,7 @@ Like  a spark  flash  past,  like  a fleet  hound  rush  (9  b).
 
 Restless  movement.
 
-Keep  wriggling  there,  O ‘Honey-paws,’  like  a wood-
-grouse on  its  nest,  like  a goose  on  its  hatching-place  (69  e).
+Keep  wriggling  there,  O ‘Honey-paws,’  like  a woodgrouse on  its  nest,  like  a goose  on  its  hatching-place  (69  e).
 
 Facile  and  complete  disappearance.
 
@@ -3127,13 +2016,7 @@ milk  drink  thy  spell-sent  malady,  like  honey  thine
 acerbity,  like  buttered  eggs  thy  fever  fits  (7  c).
 
 
-2
-
-
 D
-
-
-50  PRE-  AND  PROTO-HISTORIC  FINNS
 
 
 Like  brandy  drink  thine  angriness,  like  all  the  evil  thou
@@ -3162,8 +2045,7 @@ the  burns  of  one  in  agony  (171  e).
 
 A happy  state  of  existence.
 
-Like  a golden  cuckoo  thou  wilt  sing,  like  a silver  turtle-
-dove, in  thy  lofty  home,  in  thy  lovely  house  (17  b).
+Like  a golden  cuckoo  thou  wilt  sing,  like  a silver  turtledove, in  thy  lofty  home,  in  thy  lovely  house  (17  b).
 
 Easy  fracture.
 
@@ -3180,9 +2062,6 @@ a clump  of  pines  upon  a hill  (176  y,  and  21 1 b).
 
 
 POETIC  ELEMENTS— SIMILES
-
-
-51
 
 
 Smoothness^  slipperiness.
@@ -3229,9 +2108,6 @@ teeth  as  sharp  as  an  Esthonian  scythe,  my  dogs  have  tails
 as  thick  as  the  most  lovely  forest  fir  (89  b').
 
 
-52  PRE-  AND  PROTO-HISTORIC  FINNS
-
-
 Lowliness^  insignificant  condition.
 
 Who  knew  a stone  to  be  a stone,  when  it  was  like  a
@@ -3239,8 +2115,7 @@ barley-corn,  rose  from  the  earth  like  a strawberry,  from  the
 side  of  a tree  like  a bilberry?  (196  A)
 
 (Speaking  of  a tree.)  Thou  wast  not  great  when  thou
-rose  from  a knoll,  from  the  earth  emerged  like  a straw-
-berry, like  an  arctic  bramble  in  the  woods  (38  a).
+rose  from  a knoll,  from  the  earth  emerged  like  a strawberry, like  an  arctic  bramble  in  the  woods  (38  a).
 
 He  (a  water-Hiisi)  reached  the  land  like  a strawberry,
 fell  down  like  a lump  of  wheaten  dough  (206  b).
@@ -3276,9 +2151,6 @@ ice,  or  death  from  an  empty  room  (14  <^).
 
 
 POETIC  ELEMENTS— SIMILES
-
-
-53
 
 
 Plenty^  abundance.  _ ^
@@ -3322,9 +2194,6 @@ hast  not  begun  to  rise  ’ (74).
 yell,  than  one  of  a woman  born,  or  by  a creature  brought
 
 
-54  PRE-  AND  PROTO-HISTORIC  FINNS
-
-
 to  birth  {i2?>  d).  A stone  weeps  not  at  pain,  nor  a flag
 bewail  its  sufferings,  though  many  should  be  laid  on  it,  be
 flung  on  it  unstintingly  (17  t).  The  pun  is  rare,  but  it  was
@@ -3356,15 +2225,11 @@ words  are  used  to  avoid  pronouncing  the  proper  word,
 either  because  it  is  unlucky  to  do  so,  or  from  notions  of
 delicacy  and  modesty.  It  is  not  surprising  then  that  the
 inventors  or  reciters  of  the  Magic  Songs,  being  themselves
-quite  illiterate,  found  pleasure  and  satisfaction  in  inter-
-calating expressions  which  hinted  at  what  they  meant  to
+quite  illiterate,  found  pleasure  and  satisfaction  in  intercalating expressions  which  hinted  at  what  they  meant  to
 say  in  an  indirect  or  roundabout  fashion.
 
 
 FIGURATIVE  EXPRESSIONS,  ETC.
-
-
-55
 
 
 The  body.
@@ -3408,8 +2273,7 @@ Son — ‘ calf.’
 
 Marriageable  girl — ‘ swamp-grown  flower,’  ‘ chick,’
 ‘flower  of  the  earth,’  ‘village  flower,’  ‘earth’s  chosen
-one,’  ‘sun,’  ‘moon,’  ‘little  bullfinch,’  ‘wee  snow-
-sparrow.’
+one,’  ‘sun,’  ‘moon,’  ‘little  bullfinch,’  ‘wee  snowsparrow.’
 
 Maiden — ‘ a tinny  breast.’  (From  the  tin  ornaments  on
 her  breast.)
@@ -3420,16 +2284,12 @@ New-born  child — ‘ the  traveller,’  ‘ wee  fingers,’  ‘ a stone,�
 oven).
 
 
-56  PRE-  AND  PROTO-HISTORIC  FINNS
-
-
 Sorcerer — ‘ archer,’  ‘ shooter,’  ‘ Lapp,’  ‘ the  jealous  one,’
 ‘ Piru,’  ‘cur,’  ‘giant’  {koljumi)^i']6  c,  ‘elf’  {keijolainen),
 176  «,  ‘ Keito,’  ‘wolfskin  coat,’  ‘fiery  throat,’
 ‘ squinting  eye,’  ‘ viper,’  ‘ frog.’
 
-Sharp  frost — ‘ sweller  of  ears,’  ‘ hurter  of  nails,’  ‘ de-
-mander  of  toes.’
+Sharp  frost — ‘ sweller  of  ears,’  ‘ hurter  of  nails,’  ‘ demander  of  toes.’
 
 Maiden  of  a spring  or  swamp — ‘blue  socks,’  ‘ red  socks,’
 ‘ red  laces,’  ‘ soft  petticoat,’  ‘ slender  fingers,’  ‘golden
@@ -3449,8 +2309,7 @@ Animals^  birds ^ etc.
 
 Bear — ‘ broad  forehead  ’ ‘ flat  nose,’  ‘ honey  paws,’
 
-‘lover  of  honey,’  ‘broad  paws,’  ‘big  foot,’  ‘claw-
-footed,’ ‘blue  socks,’  ‘blue  stumpy  tail,’  ‘homespun
+‘lover  of  honey,’  ‘broad  paws,’  ‘big  foot,’  ‘clawfooted,’ ‘blue  socks,’  ‘blue  stumpy  tail,’  ‘homespun
 breeks,’  ‘tiny  eyes,’  ‘forest  king,’  ‘forest  beauty,’
 ‘ lovely  shaggy  coat  of  hair,’  ‘ forest  gold,’  ‘ grey
 one  of  the  forest,’  ‘ backwood’s  wonder,’  ‘ hulking
@@ -3461,17 +2320,12 @@ bundle,’  ‘ horror  of  the  land.’
 
 forest  cur,’  ‘Esthonian  cur,’  ‘woolly  tail,’  ‘bushy
 ‘tail,’  ‘windy  tail,’  ‘windy  throat,’  ‘hairy  snout,’
-‘hairy  foot,’  ‘projecting  eyes,’  ‘everlasting  gad-
-about,’ ‘fat  dog.’
+‘hairy  foot,’  ‘projecting  eyes,’  ‘everlasting  gadabout,’ ‘fat  dog.’
 
-Dog — ‘the  barker,’  ‘ son  of  Penitar,’  ‘ woolly  tail,’  ‘money-
-seeker.’
+Dog — ‘the  barker,’  ‘ son  of  Penitar,’  ‘ woolly  tail,’  ‘moneyseeker.’
 
 
 FIGURATIVE  EXPRESSIONS,  ETC.
-
-
-57
 
 
 Lynx — ‘forest  ewe.’
@@ -3527,9 +2381,6 @@ Swallow — ‘blue  wing.’
 Game  birds — ‘feathers,’  ‘down,’  ‘downy  feather.’
 
 
-58  PRE-  AND  PROTO-HISTORIC  FINNS
-
-
 Pike — ‘few  of  teeth,’  ‘ water  monster.’
 
 Perch — ‘spiky  backs,’  ‘ crooked  necks.’
@@ -3550,8 +2401,7 @@ golden  purse.’
 
 Lizard — ‘ writhing  snake,’  ‘ land  fish  {Corregonus  albula)^
 ‘water  bleak,’  ‘bow-shaped  worm,’  ‘Tempo’s  eye,’
-‘Hiisi’s  eye,’  ‘courtyard  sweepings,’  ‘ground  sweep-
-ings,’ ‘ trash  of  the  fields,’  ‘ trash  of  Manala,’  ‘ hair-
+‘Hiisi’s  eye,’  ‘courtyard  sweepings,’  ‘ground  sweepings,’ ‘ trash  of  the  fields,’  ‘ trash  of  Manala,’  ‘ hair-
 pin of  the  maid  of  Panula.’
 
 Frog — ‘dirty  face,’  ‘slaver-mouth,’  ‘wide  jaws.’
@@ -3604,8 +2454,7 @@ Dropsy — ‘ Hiisi,’  ‘toad.’
 Tumour  or  swelling  of  any  kind — ‘Tempo’s  whorl,’
 
 ‘ Tempo’s  boss,’  ‘ Tempo’s  lumps,’  ‘ Tempo’s  ball,’
-‘Hiisi’s  toad-stool,’  ‘Hiisi’s  filth,’  ‘needless  pack-
-ages,’ ‘frog,’  ‘horror  of  the  land.’
+‘Hiisi’s  toad-stool,’  ‘Hiisi’s  filth,’  ‘needless  packages,’ ‘frog,’  ‘horror  of  the  land.’
 
 Stitch  and  pleurisy  — ‘Tempo’s  leaf- headed  spears,’
 ‘Keito’s  spear,’  ‘Tempo’s  arrow,’  ‘the  evil  lance,’
@@ -3689,8 +2538,7 @@ Moon — ‘ the  variegated  stone  ’ (?),  2 a.
 
 Rainbow — ‘ blue  cloud  ’ (?),  232
 
-The  open  air — ‘ God’s  courtyard,’  ‘ the  cattle-sheds  with-
-out a hole  and  wholly  windowless.’
+The  open  air — ‘ God’s  courtyard,’  ‘ the  cattle-sheds  without a hole  and  wholly  windowless.’
 
 Cemetery — ‘ Raima’s  heath,’  ‘Raima’s  sleeping  chambers,’
 ‘huts  of  the  Manalaiset,’  ‘holy  fields.’
@@ -3707,12 +2555,6 @@ I'
 
 
 i'"
-
-
-THE  MAGIC  SONGS  OF  THE  FINNS
-
-
-THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 § I.  Preliminary.
@@ -3741,13 +2583,7 @@ fingers  fit  themselves.  Where  my  words  cannot  reach  let
 God’s  word  reach ; where  my  hands  cannot  pass  let  God’s
 
 
-2
-
-
 E
-
-
-66  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 hands  enter  in ; there  where  my  fingers  will  not  serve  let
@@ -3790,13 +2626,9 @@ monster’s  death.
 PRELIMINARY
 
 
-67
-
-
 d ^ ,
 
-I that  am  one  of  little  strength,  a full-grown  man  weak-
-spirited,  shall  blow  a horn  towards  the  sky,  shall  through  a
+I that  am  one  of  little  strength,  a full-grown  man  weakspirited,  shall  blow  a horn  towards  the  sky,  shall  through  a
 cloud-rift  sound  a pipe;  I’ll  shout  a cry  of  dire  distress,
 send  forth  an  agonising  cry  through  earth,  through  Manala,
 through  the  level  sky,  its  gates  will  burst  apart  whence
@@ -3811,16 +2643,13 @@ no  end.
 § 2.  Defensive  Measures.
 a
 
-O where  shall  I,  a powerless  man,  defend  myself,  pro-
-tect myself?  There  I,  a powerless  man,  defend  myself,
+O where  shall  I,  a powerless  man,  defend  myself,  protect myself?  There  I,  a powerless  man,  defend  myself,
 protect  myself,  at  the  open  door  beneath  the  shelf,  beside
 the  door-post  of  the  hut,  at  the  yard  entrance  to  the  lane,
 at  the  last  gate.  There  I defend  myself  against  the  female
-throng.  If  these  defences  are  not  strong,  these  safe-
-guards not  reliable,  I,  powerless  man,  shall  guard  myself,
+throng.  If  these  defences  are  not  strong,  these  safeguards not  reliable,  I,  powerless  man,  shall  guard  myself,
 I,  wretched  man,  defend  me  thus  against  the  throng  of
-full-grown  men.  I ’ll  dress  myself  inside  a copse,  in  grow-
-ing bush  five  suits  I ’ll  don  on  a blue  stone’s  back,  where
+full-grown  men.  I ’ll  dress  myself  inside  a copse,  in  growing bush  five  suits  I ’ll  don  on  a blue  stone’s  back,  where
 two  roads  part,  at  an  undulating  pool,  at  a rippling  spring,
 at  a rapid’s  wildly  foaming  surge,  at  a whirlpool  of  a violent
 stream.  There  I,  the  helpless  man,  shall  guard  myself,
@@ -3829,16 +2658,12 @@ myself  in  steel,  equip  myself  in  copper  socks,  shall  gird
 me  with  a copper  belt  ’gainst  water,  land,  ’gainst  fire  and
 
 
-68  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
 flame,  against  a variegated  stone,  against  the  grindstones
 of  the  sky.^  With  an  iron  cap,  an  iron  coat,  with  an  iron
 helmet  o’er  my  neck,  with  iron  gloves  upon  my  hands,  with
 iron  boots  upon  my  feet,  with  them  I ’ll  enter  Hiisi’s  lands,
 I ’ll  wander  over  Tempo’s  lands,  and  sorcerers’  arrows  will
-not  hurt,  nor  the  knife-blades  of  a witch,  nor  the  instru-
-ments of  men  that  shoot,  nor  a diviner’s  steel.
+not  hurt,  nor  the  knife-blades  of  a witch,  nor  the  instruments of  men  that  shoot,  nor  a diviner’s  steel.
 
 b
 
@@ -3868,9 +2693,6 @@ the  sun.
 
 
 DEFENSIVE  MEASURES
-
-
-69
 
 
 enough,  ten  adders  shall  I yoke,  set  saddles  on  a hundred
@@ -3909,9 +2731,6 @@ that  am  a lad,  to  encircle  me  that  am  alone.  Let  my  great
 kinsfolk  rise  like  a mountain’s  solid  slope,  my  splendid
 
 
-70  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
 kindred  like  a long-drawn  bank  of  cloud, ^ to  stand  near
 me,  at  my  side  to  march  against  a mob  of  enemies,  ’gainst
 places  that  are  perilous.
@@ -3923,8 +2742,7 @@ What  did  I hear  ? what  did  they  say  when  I was  staying
 in  this  land,  when  I was  living  in  the  world,  a very  long
 time  ago  ? Thus  did  I hear,  and  thus  they  spoke : My
 darling  God,  my  powerful  haltia,  ever  assisted  me  when
-among  those  sorcerers,  in  the  neighbourhood  of  sooth-
-sayers, he  helped  me  with  his  gracious  hand,  with  his
+among  those  sorcerers,  in  the  neighbourhood  of  soothsayers, he  helped  me  with  his  gracious  hand,  with  his
 mighty  strength;  for  a whole  day  he  carried  me,  at  eve
 he  let  me  go  to  rest.
 
@@ -3933,8 +2751,7 @@ he  let  me  go  to  rest.
 a
 
 Envy  I cannot  guard  against,  nor  from  opponents  shield
-myself,  when  dealing  with  these  toilsome  tasks,  these  diffi-
-cult affairs.  May  the  Envy-matron  keep  good  watch,  may
+myself,  when  dealing  with  these  toilsome  tasks,  these  difficult affairs.  May  the  Envy-matron  keep  good  watch,  may
 Vffinamoinen  me  defend.  Whoever  looks  with  jealousy,
 looks  pryingly  with  eyes  askew,  resentful  glances  casts,  or
 some  malevolence  prepares,  may  his  eyes  shed  blood,  let
@@ -3950,9 +2767,6 @@ cloud.
 
 
 AGAINST  ENVY
-
-
-71
 
 
 b
@@ -3971,11 +2785,9 @@ c
 
 Whoever  happens  to  o’erlook,  or  from  one  side  intently
 stares,  may  he  look  with  honeyed  eyes,  may  he  peer  with
-a honeyed  glance.  But  if  envious  persons  look,  if  cock-
-eyed people  pry,  may  a twig  tear  out  their  eyes,  may  a
+a honeyed  glance.  But  if  envious  persons  look,  if  cockeyed people  pry,  may  a twig  tear  out  their  eyes,  may  a
 branch  pluck  out  their  eyes ; may  a withered  fir-tree  grow,
-an  iron-branched  tree  throw  out  thick  shoots,  an  iron-
-branched  tree  with  jagged  top,  before  that  envious  person’s
+an  iron-branched  tree  throw  out  thick  shoots,  an  ironbranched  tree  with  jagged  top,  before  that  envious  person’s
 house,  on  which  he  shall  fix  his  eyes,  on  which  he  shall
 his  glances  cast,  so  that  unless  set  free  he  won’t  get  free,
 unless  set  loose  he  won’t  get  loose,  during  the  span  of
@@ -3984,15 +2796,11 @@ earthly  time,  while  the  moon  sheds  its  golden  light.
 d
 
 If  envious  persons  look,  if  the  cock-eyed  open  wide  their
-eyes,  from  windows  shall  grimaces  make,  shall  over  farm-
-yards peep  about,  keep  listening  at  the  cattle-sheds  or
+eyes,  from  windows  shall  grimaces  make,  shall  over  farmyards peep  about,  keep  listening  at  the  cattle-sheds  or
 meditate  near  the  homestead  fence ; may  the  bloody  cloak
 of  Hiitola  \v.  Panula],  may  Hiisi’s  [v.  Tapiola’s]  gory  rug,
 that  needs  five  men  to  lift,  be  bound  across  the  eyes,  be
 fastened  round  the  ears,  and  the  hat  of  Hiisi  round  the
-
-
-72  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 napes  of  those  that  sit  at  windows,  that  stand  at  the  end
@@ -4012,8 +2820,7 @@ may  they  taste,  entwine  themselves  about  his  lungs,  keep
 dancing  in  his  lap ; upon  his  body  may  they  seize,  down  to
 the  quick  may  they  penetrate.  Whoever  shall  repeat  my
 words,  may  they  from  his  head  pass  out,  from  his  brains
-may  they  slip  down,  like  needles  with  points  of  steel,  sail-
-needles  with  spiky  points,  may  the  root  of  his  tongue  be
+may  they  slip  down,  like  needles  with  points  of  steel,  sailneedles  with  spiky  points,  may  the  root  of  his  tongue  be
 twisted  round,  may  the  hair  of  his  head  be  rubbed  away.
 Whoever  shall  with  curses  curse,  pronounces  maledictive
 words,  down  his  throat  may  a fiery  plug,  down  his  gorge
@@ -4033,13 +2840,9 @@ may  ttie  boulder  stones  melt  him ; he  that  has  roasted  any
 VENGEANCE
 
 
-73
-
-
 one,  him  may  the  flat  stones  roast ; he  that  caused  injury
 by  spells,  may  an  atrophy  injure  him ; whoever  may  have
-borne  a grudge,  may  the  grave  bear  him  a grudge ; who-
-ever has  bewitchment  used,  on  him  may  death  bewitch-
+borne  a grudge,  may  the  grave  bear  him  a grudge ; whoever has  bewitchment  used,  on  him  may  death  bewitch-
 ment use,  may  his  tongue  rot  off,  his  mouth  get  overgrown
 with  moss.
 
@@ -4058,20 +2861,14 @@ by  another  man,  sent  hither  for  reward,  procured  with
 harmful  pelf  to  do  the  stipulated  deeds,  to  execute  work
 paid  in  coin,  to  destroy  a person  that  was  born,  to  ruin  one
 that  has  been  made  ? If  thou  be  a sickness  by  the  Creator
-made,  a bane  decreed  by  God,  on  my  Creator  I fling  my-
-self, I cast  myself  upon  my  God ; the  Lord  abandons  not
+made,  a bane  decreed  by  God,  on  my  Creator  I fling  myself, I cast  myself  upon  my  God ; the  Lord  abandons  not
 the  good,  the  Maker  killeth  not  the  virtuous.  If  thou  art
 caused  by  human  art,  a disease  produced  by  another  man.
-I’ll  get  to  know  thine  origin,  surely  thy  birthplace  ascer-
-tain. Thence  have  attacks  of  sickness  come  ere  now,
+I’ll  get  to  know  thine  origin,  surely  thy  birthplace  ascertain. Thence  have  attacks  of  sickness  come  ere  now,
 thence  elfshots  have  been  shot,  from  the  regions  of  divining
 men,  from  the  grazing  grounds  of  singing  men,  from  the
 homesteads  of  vile  miscreants,  from  the  trampled  fields  of
-sorcerers,  from  the  humid  dells  of  wizards,  from  the  hill-
-tops of  ecstatic  men,  from  spells  pronounced  by  harridans.
-
-
-74  the  magic  songs  of  the  FINNS
+sorcerers,  from  the  humid  dells  of  wizards,  from  the  hilltops of  ecstatic  men,  from  spells  pronounced  by  harridans.
 
 
 from  the  witchery  of  long-haired  hags,  from  the  distant
@@ -4093,8 +2890,7 @@ come,  from  the  lilies  on  a landlocked  lake,  from  Nixies’
 sea’s  black  mud,  a thousand  fathoms  deep,  or  from  the
 heath  of  death  {kalma)^  from  the  interior  of  the  earth,
 from  a dead  man’s  belly,  from  the  skin  of  one  departed
-for  eternity,  from  the  armpit  of  a spectral  form  {kalma-
-lainen),  from  beneath  the  liver  of -a  shade  {manalainen\
+for  eternity,  from  the  armpit  of  a spectral  form  {kalmalainen),  from  beneath  the  liver  of -a  shade  {manalainen\
 hast  thou  been  torn  from  a cross’s  base,  been  conjured
 up  from  women’s  graves,  beside  a decorated  church,  from
 the  edge  of  a holy  field,  or  from  great  battle-fields,  from
@@ -4112,9 +2908,6 @@ dug  up.
 
 
 TO  DISCOVER  THE  CAUSE
-
-
-75
 
 
 bite,  to  crunch  ? Out  of  the  water  hast  thou  rolled,  from  the
@@ -4152,9 +2945,6 @@ I tell  thy  mother,  and  to  thy  parent  say  aside : ‘ Thy  son
 1 ue.  From  mud-banks  in  the  water  where  fish  live.
 
 
-76  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
 has  done  an  evil  act,  thy  child — a deed  of  infamy.’  More
 is  a mother’s  grief,  great  is  a parent’s  suffering,  in  healing
 sicknesses,  in  dealing  with  grievous  injuries,  when  her
@@ -4170,8 +2960,7 @@ nasty  smell,  into  thy  jaws  the  suffering,  into  thy  belly
 smarting  wounds,  seeing  thou  wroughtest  this  infamy,  seeing
 thou  causedst  the  evil  deed,  evil  for  thee,  evil  for  me,  evil
 indeed  for  both  of  us.  If  thou  hast  acted  wrongfully,
-better  thou  dost  to  make  amends ; it  will  be  nicer  for  thy-
-self, more  advantageous  for  thy  life.
+better  thou  dost  to  make  amends ; it  will  be  nicer  for  thyself, more  advantageous  for  thy  life.
 
 
 § 7.  Against  Inflammation  and  Angry  Symptoms.
@@ -4194,8 +2983,6 @@ melted  in  the  fire,  may  thy  bitterness  evaporate,  like  the
 
 AGAINST  INFLAMMATION
 
-
-77
 
 dew  upon  a sandy  heath,  from  a poor  human  being’s  skin,
 
@@ -4238,9 +3025,6 @@ and  wax  into  the  fire,  as  a symbolical  act.
 brandy,  ale,  etc.
 
 
-78  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
 made  good,  by  those  words  that  are  handed  down,  by
 pronouncing  the  deep  origin.  By  them  remove,  thou
 needless  harm,  by  them  take  flight,  thou  evil  one ; remove
@@ -4278,17 +3062,13 @@ holes,  all  the  atmosphere  into  apertures  (F.  windows),  at
 EXPULSION
 
 
-79
-
-
 the  coming  of  the  hour  of  God,  when  the  help  of  the  Lord
 approached;  So,  why  dost  thou  not  likewise  move,  not
 move,  thou  uninvited  shape,  why,  evil  one,  not  flee  away,
 why  not  withdraw,  thou  good-for-nought,  at  the  expiry  of
 this  hour,  the  termination  of  this  term  ? Now  is  the
 precious  time  of  grace,  the  solemn  festival  of  God,  the
-priests  are  going  to  the  mass,  proceeding  to  the  preaching-
-house.
+priests  are  going  to  the  mass,  proceeding  to  the  preachinghouse.
 
 d
 
@@ -4395,17 +3175,10 @@ c
 
 A kettle  is  owned  by  Kivutar,  the  daughter  of  Vaino
 has  a pot  in  which  she  boils  up  pains  in  the  middle  of  the
-Hill  of  Pain  {Kipu-mdki)^  on  the  summit  of  Mount  Suffer-
-ing (Kipu-vaara).  At  the  hill’s  centre  stands  a thorp,  in
-
-
-2
+Hill  of  Pain  {Kipu-mdki)^  on  the  summit  of  Mount  Suffering (Kipu-vaara).  At  the  hill’s  centre  stands  a thorp,  in
 
 
 F
-
-
-82  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 the  middle  of  the  thorp  a field,  in  the  middle  of  the  field  a
@@ -4422,8 +3195,7 @@ d
 The  old  wife  of  sickness,  Kivutar,  was  carrying  a fiery
 bugle-horn  in  the  middle  of  the  Hill  of  Pain,  on  the  summit
 of  Mount  Suffering ; one  spark  dropt  off,  the  red  fire  fell
-on  the  summit  of  Mount  Suffering  and  became  inflamma-
-tory burns,  turned  into  sickness  for  men.
+on  the  summit  of  Mount  Suffering  and  became  inflammatory burns,  turned  into  sickness  for  men.
 
 The  girl  of  Tuoni,  Maid  of  Pain,  herself  in  pain  was
 weeping  tears,  was  lamenting  in  her  suffering,  as  she  bustled
@@ -4447,9 +3219,6 @@ perpetrate  the  needless  act  ?
 
 
 REPROACHING
-
-
-83
 
 
 Thy  father  did  not  order  thee,  thy  father  nor  thy  mother,
@@ -4482,15 +3251,11 @@ and  wife,  my  mother’s  Nature  and  my  sire’s,  the  Nature  of
 my  ancestor  in  addition  to  my  Nature  rise;  may  I be
 clothed  with  a burning  coat,  with  furs  of  fiery  red,  that
 Hiisi’s  folk  may  be  confused,  earth’s  awful  beings  may  be
-abashed  while  this  sorcerer  uses  magic  arts,  while  a Lap-
-lander is  uttering  words.
+abashed  while  this  sorcerer  uses  magic  arts,  while  a Laplander is  uttering  words.
 
 1 i.e.  I shall  try  to  inspire  my  nature  or  inner  man.
 
 2 Var.  to  help  the  man  that  throws  the  lots.
-
-
-84  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 c
@@ -4498,8 +3263,7 @@ c
 My  Flesh,  bestir  thyself  in  me,  in  a fellow’s  neck,  O
 Strong  desire ; arise,  my  Nature,  reliantly,  my  Genius,  with
 austerity  to  seize  with  me,  cause  fright  with  me,  to  conquer
-enemies,  to  crush  the  warring  hosts ; rise,  cease  from  slum-
-bering, from  reposing  in  a leafy  copse.  Thou  hast  lain  in
+enemies,  to  crush  the  warring  hosts ; rise,  cease  from  slumbering, from  reposing  in  a leafy  copse.  Thou  hast  lain  in
 the  ground  for  long,  a long  while  in  a gloomy  place,  so
 thou  art  no  better  than  a corpse,  no  handsomer  than  a
 defunct ; arise,  as  thou  hast  risen  afore,  when  I try  to  raise
@@ -4531,18 +3295,13 @@ thy  parent  is  bewailing  thee  on  bloody  beds,  on  bolsters  red.
 BOASTING
 
 
-85
-
-
 § 14.  Boasting.
 
 a
 
 No  sorcerer  bewitches  me,  no  Lapp  can  place  me  under
-spells;  for  my  bewitcher  I bewitch,  my  would-be  con-
-queror I subdue,  I gouge  the  eye  of  a jealous  man,  I tweak
-the  nose  of  a sorcerer,  let  him  be  any  man  alive,  a black-com-
-plexioned  countryman,  or  any  woman  now  alive,  a reddish
+spells;  for  my  bewitcher  I bewitch,  my  would-be  conqueror I subdue,  I gouge  the  eye  of  a jealous  man,  I tweak
+the  nose  of  a sorcerer,  let  him  be  any  man  alive,  a black-complexioned  countryman,  or  any  woman  now  alive,  a reddish
 brown-complexioned  witch,  or  a woman  of  complexion  fair,
 of  any  complexion — ’tis  the  same.  When  I begin  to  sing,
 begin  to  speak,  I split  his  shoulders  by  my  song,  bisect  his
@@ -4570,9 +3329,6 @@ extra  wicked  ones,  three  summer  nights,  nine  autumn
 nights,  completely  bare,  without  a rag  of  clothes;  this
 
 
-86  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
 much  they  profited  by  me,  just  this  much  they  got  out  of
 me,  what  an  axe  gets  from  a stone,  a borer  from  a rock,  a
 stump  from  slippery  ice,  or  Death  [Tuoni)  from  an  empty
@@ -4581,10 +3337,8 @@ room.
 Not  me  will  the  arrows  pierce,  not  on  me  the  sharp  iron
 take  effect.  The  wizard’s  arrows  will  not  pierce,  nor  the
 diviner’s  steel ; I should  make  blunt  the  points,  into  a hook
-I ’d  twist  the  heads.  I have  a sandy  skin,  a hide  of  iron-
-slag,  a body  made  of  steel,  ta’en  from  the  branches  of  a fir.
-If  I desire  to  match  myself,  with  the  men  to  compare  my-
-self, I sing  the  sorcerers  with  their  darts,  the  archers  with
+I ’d  twist  the  heads.  I have  a sandy  skin,  a hide  of  ironslag,  a body  made  of  steel,  ta’en  from  the  branches  of  a fir.
+If  I desire  to  match  myself,  with  the  men  to  compare  myself, I sing  the  sorcerers  with  their  darts,  the  archers  with
 their  instruments,  the  witches  with  their  iron  knives,  the
 diviners  with  their  steel  into  the  mighty  Rutja  \v.  Turja]
 Falls,  into  the  awful  midstream  broil,  beneath  the  highest
@@ -4610,21 +3364,16 @@ day,  where  things  of  steel  were  being  made,  where  things
 BOASTING
 
 
-87
-
-
 of  iron  were  being  wrought;  I ordered  shoes  of  steel,  I
 had  a coat  of  copper  cast,  which  a sorcer^er’s  arrows
 will  not  pierce,  a sorcerer’s  arrows,  witches’  knives,  the
 sharp  weapons  of  divining-men.  May  all  spells  that  the
-sorcerers  cast,  all  things  that  the  seers  see,  that  the  road-
-side prowlers  snatch,  all  charms  the  Laplanders  repeat,
+sorcerers  cast,  all  things  that  the  seers  see,  that  the  roadside prowlers  snatch,  all  charms  the  Laplanders  repeat,
 return  to  their  proper  homes,  arrive  at  their  tents  again ;
 may  they  cast  spells  upon  themselves,  over  their  children
 sing  their  charms,  may  they  destroy  their  families,  may
 they  dishonour  kith  and  kin,  may  the  sorcerer  wither  up,
-may  the  roadside  prowler  be  transformed,  may  the  magic-
-drummer  {Kdsikafinus)  fall,  may  the  Laplander  be  killed
+may  the  roadside  prowler  be  transformed,  may  the  magicdrummer  {Kdsikafinus)  fall,  may  the  Laplander  be  killed
 by  the  sharp  tools  himself  has  made,  by  the  spell-sent
 harm  himself  has  caused,  let  the  sorcerer  perish  by  his
 darts,  the  wizard  by  his  steel,  the  witch  by  her  iron  knives,
@@ -4639,16 +3388,12 @@ ruddy  should  expire.  My  mother  washed  me  naked  on  a
 nether  stone,  three  times  upon  a summer  night,  to  become
 a wizard  on  every  road,  a skilful  man  in  every  land,  to  be
 a singer  when  at  home,  a good  performer  when  abroad.
-Troth,  formerly  in  days  gone  by,  the  sorcerers  were  bewitch-
-ing me,  the  sorcerers  bewitched,  the  ‘vipers’  cursed,
+Troth,  formerly  in  days  gone  by,  the  sorcerers  were  bewitching me,  the  sorcerers  bewitched,  the  ‘vipers’  cursed,
 had  a mind  to  lay  me  down,  were  threatening  to  sink
 me  down,  to  serve  as  a plank  on  the  swampy  spots,  to
 serve  as  a bridge  on  the  miry  bits,  but  being  a capable
 man  indeed  I was  not  much  concerned  thereby;  I set
 myself  to  cast  a spell,  myself  began  to  utter  words,  by
-
-
-88  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 song  I turned  the  best  of  singers  into  quite  the  worst,
@@ -4668,8 +3413,7 @@ creation  of  this  boy,  when  he  was  brought  upon  the  world.
 I should  term  that  man  a man,  consider  him  a full-grown
 man,  who  could  draw  my  bow,  could  tighten  my  crooked
 bow.  ’Twas  only  yesterday  I drove  the  shaft  of  my  spear
-a fathom  deep  into  a clay-bottomed  field,  into  the  un-
-yielding earth;  I milked  fierce  adders  with  my  ‘nails,’
+a fathom  deep  into  a clay-bottomed  field,  into  the  unyielding earth;  I milked  fierce  adders  with  my  ‘nails,’
 with  my  hands  I handled  snakes,  I armed  a thousand  men
 with  swords  on  a single  summer’s  night ; bruin  I visited  at
 home,  at  his  own  house  a brindled  bear,  I bitted  wolves,
@@ -4687,9 +3431,6 @@ lake,  on  whose  backbone  clear  water  lies,  a fountain  where
 
 
 BOASTING
-
-
-89
 
 
 the  collar  sits,  the  water  of  which  the  witches  drink,  the
@@ -4726,9 +3467,6 @@ disease,  without  the  great  Creator’s  leave,  without  the
 death-decree  of  God.  If  I am  not  the  proper  man,  can’t
 recognise  this  cruel  pain,  from  spell-sent  troubles  can’t
 give  release,  my  comrade  is  the  proper  man.  He  dwells
-
-
-90  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 with  Hiisi’s  folk,  on  the  mountain  roams  around.  If  I
@@ -4770,8 +3508,6 @@ throat,  who  has  eaten  a hundred  men,  destroyed  a thousand
 TO  STILL  VIOLENCE
 
 
-91
-
 full-grown  men ; may  she  now  also  eat  thee  up,  as  the
 bread  she  eats,  as  the  feast  she  holds.  —
 
@@ -4780,27 +3516,23 @@ all,  I’ll  raise  the  earth-matrons  from  the  earth,  the  first
 house-fathers  from  the  field,  all  the  swordsmen  from  the
 ground,  the  mounted-heroes  from  the  sand ; I ’ll  raise  the
 forests  with  their  men,  with  their  folk  the  clumps  of  juniper,
-fir-thickets  with  their  families,  with  their  bairns  the  land-
-locked lakes,  a hundred  persons  armed  with  swords,  a
+fir-thickets  with  their  families,  with  their  bairns  the  landlocked lakes,  a hundred  persons  armed  with  swords,  a
 thousand  heroes  with  swords  of  iron,  to  strengthen  me,  to
 give  me  might,  to  be  my  refuge,  my  support,  in  this  my
 terrible  distress,  this  specially  laborious  task.
 
 May  the  aerial  god  himself,  old  Vainamoinen  and  the
 smith  Ilmarinen  themselves  make  their  appearance  here,
-to  recognise  these  fearful  pains,  to  give  release  from  spell-
-sent  harm,  to  grind  this  Hiisi,  and  this  Juntas  crush.
+to  recognise  these  fearful  pains,  to  give  release  from  spellsent  harm,  to  grind  this  Hiisi,  and  this  Juntas  crush.
 
 b
 
-With  what  shall  I the  elfshots  squeeze,  check  the  sick-
-ness caused  by  fairy  darts  (amputauti)^  with  what  extract
+With  what  shall  I the  elfshots  squeeze,  check  the  sickness caused  by  fairy  darts  (amputauti)^  with  what  extract
 the  sorcerer’s  bolts,  with  what  the  bloody  needles  draw
 from  a wretched  human  being’s  skin,  from  the  body  of  a
 mother’s  son?  Quite  lately,  only  yesterday  I was  in
 company  with  smiths,  on  the  trampled  floor  of  hammerers ;
-I got  made  for  me  little  tongs,  a pair  of  splendid  nipping-
-irons  with  which  I ’ll  lift  the  sorcerer’s  bolts,  I ’ll  draw  the
+I got  made  for  me  little  tongs,  a pair  of  splendid  nippingirons  with  which  I ’ll  lift  the  sorcerer’s  bolts,  I ’ll  draw  the
 spears  of  Keito  out.
 
 A bear  has  brawny  paws,  I ’ve  paws  thrice  brawnier,
@@ -4810,8 +3542,6 @@ malady.
 But,  if  it  pay  no  heed  to  that,  I ’ll  take  the  hands  of  one
 deceased,  the  fists  of  one  that  has  disappeared,  that  in  the
 
-
-92  THE  MAGIC  SONGS  OF  THE  FINNS
 
 earth  has  lain  for  long.  More  dreadful  are  a dead  man’s
 hands,  those  of  a corpse  more  horrible,  with  them  shall  I
@@ -4828,8 +3558,7 @@ a
 
 If  thou  remove  not  speedily,  motherless  dog,  dost  not
 depart,  thy  old  mother  I’ll  interrogate,  thy  mother  I’ll
-inform ; a mother  first  of  all  is  milked,  the  boy  is  after-
-wards let  drink  of  his  mother’s  milk,  his  parent’s  own
+inform ; a mother  first  of  all  is  milked,  the  boy  is  afterwards let  drink  of  his  mother’s  milk,  his  parent’s  own
 white  milk.
 
 If  thou  shouldst  pay  no  heed  thereto  with  willows  I ’ll
@@ -4837,8 +3566,7 @@ belabour  thee.  I’ll  fustigate  with  rowan  shoots.  I’ll  flog
 thee  well  with  tips  of  fir.
 
 If  that  be  not  enough,  if  thou  remove  not  speedily  I ’ll
-raise  a ram  with  twisted  horns,  procure  an  ox  with  out-
-spread horns.  I’ll  order  it  to  butt  at  thee.  I’ll  make  it
+raise  a ram  with  twisted  horns,  procure  an  ox  with  outspread horns.  I’ll  order  it  to  butt  at  thee.  I’ll  make  it
 strike  thee  with  its  horns.  If  little  should  result  therefrom,
 I ’ll  take  the  hands  of  one  deceased,  from  under  the  ground
 a dead  man’s  fists,  from  a burial-place  I ’ll  rout  up  hands ;
@@ -4853,17 +3581,13 @@ famous  bird,  plashing  on  the  water  of  the  sea,  dwelling  on
 MENACING
 
 
-93
-
-
 the  billows  of  the  sea,  one  of  its  wings  the  water  skimmed,
 the  other  nearly  touched  the  sky ; with  its  hard  claws  I ’ll
 chase  the  sudden  maladies  away.  I’ll  crush  to  bits  the
 ‘ murderers,’  the  evil-doers  I shall  squeeze.
 
 If  it  should  pay  no  heed  thereto,  have  no  intention  to
-remove,  from  a bear  I ’ll  take  the  claws,  from  a blood-
-drinker  hook-like  claws ; an  eagle  has  cruel  claws,  a squirrel
+remove,  from  a bear  I ’ll  take  the  claws,  from  a blooddrinker  hook-like  claws ; an  eagle  has  cruel  claws,  a squirrel
 (F.  firbranch  bird)  rake-like  nails,  the  paws  of  bruin  are
 crueller,  the  claws  of  a bear  more  terrible ; with  them  I ’ll
 claw  the  miscreant,  for  ever  check  the  hideous  wretch.
@@ -4893,11 +3617,7 @@ I bitted  by  my  song  the  wolf,  the  bear  I fettered  with  iron
 chains.  I walked  upon  a viperous  field,  I ploughed  the
 
 
-94  the  magic  songs  OF  THE  FINNS
-
-
-viper-swarming  soil,  turned  up  the  snaky  earth  with  a keen-
-edged  plough,  with  a copper  share.  I held  the  vipers  in
+viper-swarming  soil,  turned  up  the  snaky  earth  with  a keenedged  plough,  with  a copper  share.  I held  the  vipers  in
 my  nails,  in  my  hands  the  snakes ; ten  of  the  vipers  I put
 to  death,  a hundred  of  the  swarthy  snakes;  with  vipers’
 blood  my  nails  are  still  besmeared,  my  hands  with  the  fat
@@ -4918,8 +3638,7 @@ The  evil  beings  I send  away,  the  kobolds  \kehno\  I incite
 away,  destructive  beings  I force  away,  malicious  beings  I
 drag  away,  to  sproutless  clearings  run  to  waste,  to  lands
 unploughed,  to  swampy  dells,  to  untraversed  swamps  in
-which  frogs  spawn,  where  muck-worms  crawl,  to  a name-
-less meadow,  unknown  by  name,  where  from  the  earth  no
+which  frogs  spawn,  where  muck-worms  crawl,  to  a nameless meadow,  unknown  by  name,  where  from  the  earth  no
 herbage  sprouts,  from  the  sward  no  grass  exalts  itself.  If
 there  thou  findest  not  a place,  thee  I conjure  away  to  the
 head  of  the  waters  of  Sumukse,  to  dark  Sariola,  to  the  mist
@@ -4932,9 +3651,6 @@ rich  in  means,  who  in  the  earth  has  slept  for  long,  long  lain
 
 
 EXORCISMS
-
-
-95
 
 
 like  a tree  that  is  waterlogged.  Now,  go  where  I command,
@@ -4963,8 +3679,7 @@ an  iron  ‘ egg.’
 b
 
 If  from  ‘ Raima’s  chambers  ’ thou  art  come,  from  the
-‘huts  of  the  spectral  host’  (manalaiset),  from  raspberry-
-covered  heaps  of  stones,  from  the  border  of  a ‘ holy  field,’
+‘huts  of  the  spectral  host’  (manalaiset),  from  raspberrycovered  heaps  of  stones,  from  the  border  of  a ‘ holy  field,’
 just  make  endeavours  to  go  home  to  ‘ Raima’s  heath,’  to
 the  mouldering  heaps  of  soil,  to  earth  that  often  must  be
 moved,  into  which  a people  has  fallen  prone,  a mighty  crowd
@@ -4972,8 +3687,6 @@ has  quietly  sunk,  where  families  are  enclosed,  a deadman’s
 heirs  are  hidden  away.  It  is  good  for  thee  to  live,  pleasant
 for  thee  to  pass  the  time  in  a ‘house  of  fir,’  in  a ‘pinewood
 
-
-96  THE  MAGIC  SONGS  OF  THE  FINNS
 
 nest  ’ ; like  a golden  cuckoo  thou  wilt  sing,  like  a silver
 turtle-dove,  in  thy  lofty  home,  in  thy  lovely  house.
@@ -4997,8 +3710,7 @@ d
 
 I order  smarting  pains  away,  I cause  the  sufferings  to
 sink  at  the  brink  of  fiery  rapids,  in  the  whirlpool  of  a holy
-stream,  which  by  the  root  drags  trees  along,  causes  great-
-headed firs  to  fall,  destroys  the  heather  in  its  bloom,  sweeps
+stream,  which  by  the  root  drags  trees  along,  causes  greatheaded firs  to  fall,  destroys  the  heather  in  its  bloom,  sweeps
 grass  and  all  its  husks  away.  In  the  rapids  is  a fiery  reef,
 on  the  reef  is  a fiery  bull,  whose  mouth  is  burning  with  fire,
 whose  throat  is  aglow  with  flame ; to  Mana  it  will  bear  the
@@ -5013,9 +3725,6 @@ violent  Rutja  [v.  Turja]  rapids,  into  the  gurgling,  foaming
 
 
 EXORCISMS
-
-
-97
 
 
 surge,  into  the  roaring  rapids,  into  the  rapid  water’s  swirl,
@@ -5045,25 +3754,18 @@ wind,  more  rapid  than  a waterfall.  Not  here  is  thy  proper
 place,  transfer  thy  tent  to  somewhere  else.
 
 If  thou  a master  shouldst  possess,  away  to  thy  master’s
-seat ; if  thou  a mistress  shouldst  possess,  away  to  thy  mis-
-tress’s feet ; to  the  mouth  of  thy  brother’s  door,  to  the  end
+seat ; if  thou  a mistress  shouldst  possess,  away  to  thy  mistress’s feet ; to  the  mouth  of  thy  brother’s  door,  to  the  end
 of  thy  sister’s  floor,  ere  the  close  of  day,  ere  the  setting
 of  the  sun.  Then  on  thy  arrival  there,  when  thou  hast
 reached  thy  home,  the  abode  of  him  that  fashioned  thee,
 thine  originator’s  place,  on  thy  arrival  give  a sign,  a secret
 
 
-2
-
-
 G
 
 
-98  THE  MAGIC  SONGS  OF  THE  FINNS
-
 signal  on  reaching  home,  cause  a crash  like  a thunder-clap,
-cause  a glare  like  a lightning-flash.  Kick  open  the  court-
-yard door,  fly  down  like  a cock  to  the  cattle-shed,  like  a
+cause  a glare  like  a lightning-flash.  Kick  open  the  courtyard door,  fly  down  like  a cock  to  the  cattle-shed,  like  a
 chick  to  the  dwelling-house,  right  down  on  the  refuse  heap.
 Kill  the  mare  on  the  cattle-stand,  crush  the  horse  in  the
 stall,  the  horned  ox  in  the  cattle-shed.  Into  the  dung
@@ -5100,9 +3802,6 @@ cannot  draw  a breath.
 EXORCISMS
 
 
-99
-
-
 If  little  ensue  therefrom,  blow  up  the  glowing  coals,  heat
 furiously  Lempo’s  forge  in  the  hollow  of  the  begetter’s
 heart,  claw  thy  mother’s  womb,  twist  thy  parent’s  paunch,
@@ -5123,8 +3822,7 @@ long  at  village  thresholds,  at  alien  gates,  at  screeching
 hinges,  at  creaking  doors.  Thy  home  is  gloomy,  thy
 dwelling  desolate,  thy  mother  seeks  about  the  house,  thy
 parent  sore  bewails,  feels  a sinking  of  the  heart,  moves
-here  and  there  with  downcast  eyes,  at  the  gate  she  con-
-stantly awaits  the  coming  home  of  her  ‘ Dog.’  Thy  mother
+here  and  there  with  downcast  eyes,  at  the  gate  she  constantly awaits  the  coming  home  of  her  ‘ Dog.’  Thy  mother
 says,  thy  parent  shrieks  :
 
 ‘ My  luckless  boy  is  journeying  in  a houseless  tract;  who
@@ -5157,8 +3855,7 @@ to  the  jaws  of  him  that  sang  the  charm,  to  the  throat  of
 him  that  pronounced  the  curse,  to  the  heart  of  him  that
 incited  thee,  to  the  breast  of  the  witchcraft-using  man,  to
 the  chest  of  him  that  conjured  thee,  before  the  rising  of
-sun,  the  uprising  of  the  ‘ morning  star  ’ (F.  sun),  the  dawn-
-ing of  the  god  of  dawn,  ere  the  cock’s  crow  is  audible.
+sun,  the  uprising  of  the  ‘ morning  star  ’ (F.  sun),  the  dawning of  the  god  of  dawn,  ere  the  cock’s  crow  is  audible.
 
 k
 
@@ -5166,8 +3863,7 @@ If,  Disease,  thou  wert  thrown  by  another  man,  by  another
 thrown,  by  another  brought,  sent  hither  for  reward,  for  the
 sake  of  money  wert  procured,  thou  now  art  ordered  without
 reward,  without  any  money  to  run  away,  without  any  gold
-to  turn  thy  steps  to  thy  mistress’s  morning  meal,  to  the  egg-
-scraps  of  thy  grandmother.  There,  wicked  pagan,  eat
+to  turn  thy  steps  to  thy  mistress’s  morning  meal,  to  the  eggscraps  of  thy  grandmother.  There,  wicked  pagan,  eat
 under  the  bench,  poke  in  thy  head,  from  there  don’t  raise
 it  up  before  the  flooring  rots,  the  wall-beams  get  o’ergrown
 with  mould,  and  the  ceiling  loosens  overhead.
@@ -5203,8 +3899,7 @@ the  gate  of  Pohjola,  to  the  homes  of  the  ‘speckled  lid,’
 where  there  is  neither  moon  nor  sun,  nor  ever  any  day.
 ’Tis  well  for  thee  to  go  there,  over  the  trees  or  along  the
 ground,  to  rustle  in  among  the  firs,  to  go  tumbling  in
-among  the  pines ; huge  is  the  gateway  of  the  north,  hinge-
-less the  Pass  of  the  atmosphere,  for  a great  devil  {perkele\
+among  the  pines ; huge  is  the  gateway  of  the  north,  hingeless the  Pass  of  the  atmosphere,  for  a great  devil  {perkele\
 for  a small,  for  a tall  devil  to  scamper  through.
 
 ’Twere  well  for  thee  to  slip  in  there,  there  it  is  well  for  thee
@@ -5224,9 +3919,6 @@ Thither  I send  thee  forth,  thee  I command  and  exorcise
 across  nine  woods,  nine  forests  and  a half,  to  the  fires  of
 
 
-102  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
 the  sons  of  the  North,  to  the  flames  of  Lapland’s  bairns.
 Blazes  are  made  upon  the  trees,  upon  the  trees,  across  the
 ground,  by  which  thou,  stupid,  canst  tell  the  way,  though  a
@@ -5243,11 +3935,8 @@ eat,  the  blood  of  game  to  drink.  There  thou  canst  eat
 without  a care,  canst  munch  according  to  desire,  when
 thou  art  hungry  gnaw  the  elk’s  coarse-fibred  flesh,  the
 fat  reindeer’s  flanks,  the  fleshy  armpit  of  a bear,  or  a bear’s
-hard  bones,  in  a pigstye  sleeping  all  the  night,  in  a sheep-
-pen  all  the  day.
+hard  bones,  in  a pigstye  sleeping  all  the  night,  in  a sheeppen  all  the  day.
 
-
-0
 
 Thee  I conjure  away,  I command  and  order  off  to  great
 battlefields,  to  the  slaughter-fields  of  men,  where  men  are
@@ -5267,13 +3956,9 @@ cannon’s  mouth,  down  the  throat  of  the  ‘copper  bow,’
 EXORCISMS
 
 
-103
-
-
 down  the  gorge  of  the  ‘iron  churn,’  among  the  war-horse’s
 feet,  ’mong  the  hoofs  of  a battle-foal,  where  there  is  blood
-for  thee  to  drink,  and  flesh  for  thee  to  gobble  up ; by  eat-
-ing, the  food  will  not  fall  short,  by  drinking,  the  drink  will
+for  thee  to  drink,  and  flesh  for  thee  to  gobble  up ; by  eating, the  food  will  not  fall  short,  by  drinking,  the  drink  will
 not  grow  less,  there  blood  is  as  high  as  the  shin,  red  blood
 is  the  height  of  the  knee.
 
@@ -5304,9 +3989,6 @@ northern  side  of  the  hill,  with  thy  mouth  in  snow,  thy  head
 in  rime,  thy  hands  in  the  bitter  storm,  there  by  the  wind
 to  be  propelled,  be  buffeted  by  the  raging  storm  until
 thou  dry  into  a rag,  become  the  plaything  of  the  storm.
-
-
-104  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 t
@@ -5349,8 +4031,6 @@ that  thou  mayst  hurry  it  away  to  creaking  weathercocks,  to
 EXORCISMS
 
 
-105
-
 whistling  winds,  to  hissing  clouds,  to  be  rocked  by  winds,
 to  be  handled  by  the  clouds.
 
@@ -5364,8 +4044,7 @@ thy  time,  in  a pig-stye  sleeping  all  the  night,  in  a sheep-pen
 all  the  day.  If  there  thou  canst  not  find  a place,  go  there
 where  I command,  to  other,  to  distant  lands,  to  other
 waters  that  are  black,  which  by  the  eye  have  not  been  seen,
-were  never  heard  of  by  the  ear,  to  priestless  places,  un-
-christened lands,  where  thou  ’It  be  heard  of  never  more,
+were  never  heard  of  by  the  ear,  to  priestless  places,  unchristened lands,  where  thou  ’It  be  heard  of  never  more,
 whence  thou  wilt  never  show  thyself.
 
 If  from  the  water  thou  hast  rolled,  into  the  water  roll
@@ -5429,9 +4108,6 @@ and  ordered  thee,  to  pass  thy  weeks  and  spend  thy  months
 TO  MAKE  FAST
 
 
-107
-
-
 till  I shall  come  to  let  thee  go,  till  I appear  to  liberate,
 shall  come  to  carry  thee  away,  myself  arrive  to  let  thee
 loose  with  nine  rams  born  of  a single  ewe,  with  nine  bulls,
@@ -5439,8 +4115,7 @@ calves  of  a single  cow,  nine  stallions,  foals  of  a single  mare.
 
 b
 
-Begone  to  where  I ordered  thee,  commanded  thee,  ex-
-horted thee,  whence  unless  loosed  thou  ’It  ne’er  get  loose,
+Begone  to  where  I ordered  thee,  commanded  thee,  exhorted thee,  whence  unless  loosed  thou  ’It  ne’er  get  loose,
 unless  set  free  wilt  ne’er  be  free,  while  this  world  lasts,
 while  the  Lord’s  moon  shines.  No  liberator  liberates  thee,
 no  releaser  set  thee  free  unless  I come  to  liberate,  myself
@@ -5449,7 +4124,6 @@ with  five  or  six  of  my  ‘woolly  tails,’  with  seven  white-collared
 dogs,  with  my  eight  hounds,  with  stallions  nine,  brought
 forth  by  a single  mare.
 
-WORDS  OF  HEALING  POWER.
 
 § 19.  For  Stings  from  Wasps,  Gadflies,  and
 OTHER  Insects.
@@ -5481,8 +4155,7 @@ b
 0 wasp,  the  stinging  bird,  O gadfly,  bubbling  o’er  with
 wrath,  O hornet,  thou  complaisant  man,  don’t  shoot  thine
 arrows  forth  into  that  human  skin,  that  body  of  a mother’s
-son.  Surely  I know  thine  origin,  together  with  thy  bring-
-ing up ; thou  wast  conceived  by  Synnytar,  brought  up  by
+son.  Surely  I know  thine  origin,  together  with  thy  bringing up ; thou  wast  conceived  by  Synnytar,  brought  up  by
 Kasvatar.  Blind  was  thy  father,  blind  thy  mother,  thou
 art  blind  thyself.  In  the  snow  thy  father  died,  in  the
 snow  thy  mother  died,  in  the  snow  thyself  wilt  die.
@@ -5495,8 +4168,7 @@ fallen  tree  thy  smarts,  on  a sandy  heath  thy  bitterness,
 to  the  wilderness  thy  cruel  harm,  thy  other  poisons  into
 mud;  make  thine  arrows  ineffectual,  thy  crossbows  that
 they  can’t  be  strung.  Thy  place  is  in  the  wilderness,  thy
-lovely  dwelling  on  a swamp,  thy  birch-bark  room,  thy  pine-
-bark  hut  is  there.  There  it  is  nice  for  thee  to  live,  a tent
+lovely  dwelling  on  a swamp,  thy  birch-bark  room,  thy  pinebark  hut  is  there.  There  it  is  nice  for  thee  to  live,  a tent
 is  ready  in  which  to  sleep,  ’tis  nice  to  shoot  to  pass  the
 time,  ’tis  nice  to  give  thy  mates  a prod ; thou  wilt  not  hear
 a passer-by,  of  man  wilt  not  know  anything.
@@ -5510,8 +4182,6 @@ a
 room.  In  it  I dress  myself  and  then  proceed  to  hunt  the
 sudden  stroke,  to  combat  the  elfshot  disease.  I hunt  the
 
-
-WORDS  OF  HEALING  POWER  109
 
 stroke  to  fields  run  wild,  I blow  the  elfshots  to  the  clouds.
 If  he  has  shot  one  arrow  forth,  two  arrows  I- shall  shoot;
@@ -5573,8 +4243,7 @@ upright  as  in  his  former  life,  as  in  his  previous  way.
 
 b
 
-0 ‘stinking  cur  dog,’  ‘Tuoni’s  hound,’  thou  ‘kitchen-
-cook,’  thou  ‘ fire-place  screen,’  that  liest  beneath  the  devil’s
+0 ‘stinking  cur  dog,’  ‘Tuoni’s  hound,’  thou  ‘kitchencook,’  thou  ‘ fire-place  screen,’  that  liest  beneath  the  devil’s
 tongs,  his  son,  the  offspring  of  the  evil  one,  with  eyes
 askew,  with  crooked  jaw,  thou  spark  of  hellish  fire,  hast
 thou  sent  here  thy  ‘beans,’  hast  thou  cast  here  thy  ‘peas,’
@@ -5592,9 +4261,6 @@ it  from  a human  skin.
 But  if  thou  pay  no  heed  thereto,  do  not  this  very
 moment  cease  from  gnawing,  tearing,  and  from  grubbing
 in,  O Hiisi’s  dog,  I’ll  bend  my  willow  bow,  prepare  my
-
-
-WORDS  OF  HEALING  POWER
 
 
 III
@@ -5639,9 +4305,6 @@ iron  hoofs,  thy  copper  ‘ claws,’  (to  make  him  cease)  from
 injuring  a Christian  man,  destroying  one  that  has  been  made.
 
 
-1 12  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
 § 23.  Against  Whooping-Cough.
 
 I know  not  now  the  very  least,  whence  thou,  O wretch,
@@ -5650,15 +4313,13 @@ whence  thou  hast  come,  O whooping-cough.  If  thou  from
 Hiisi’s  bin,  from  Hiisi’s  coals  art  come,  may  thou  to  Hiisi’s
 bin,  ’mong  Hiisi’s  coals,  return.  If  from  the  fire  thou  art
 come,  then.  Fury,  into  fire  return;  among  thine  ashes
-plague  thyself,  in  thy  hot  ashes  hide  thyself,  conceal  thy-
-self among  the  sparks,  away  from  a child  that  is  innocent.
+plague  thyself,  in  thy  hot  ashes  hide  thyself,  conceal  thyself among  the  sparks,  away  from  a child  that  is  innocent.
 This  one  to  Mana  will  not  go,  this  mother’s  son — to
 Tuonela.
 
 § 24.  Against  Injuries  caused  by  Kalma.
 
-Kindly  Kalma,  lovely  Kalma,  Kalma  of  the  fair  com-
-plexion! surely  do  I know  thy  lineage,  with  thy  birth  I
+Kindly  Kalma,  lovely  Kalma,  Kalma  of  the  fair  complexion! surely  do  I know  thy  lineage,  with  thy  birth  I
 am  acquainted.  So  if  thou  wert  generated  from  t^e  stock
 of  Eve  and  Adam,  go  into  a graveyard,  Kalma,  to  the  huts
 of  the  departed,  from  the  skin  of  a human  being,  from  a
@@ -5678,11 +4339,6 @@ dwells  on  the  mountain  top,  that  roars  in  the  wooded
 wilderness,  that  flutters  through  the  leavy  groves.  From
 them  (new)  sinews  are  obtained,  from  them  are  taken  bits
 
-
-WORDS  OF  HEALING  POWER
-
-
-113
 
 of  skin,  from  them  the  potent  salves,  the  elfectual^agic
 remedies  (kafse\  to  place  on  wounds  from  tooth  of  wolf,
@@ -5721,13 +4377,7 @@ The  blind  old  man  of  Vaindla,  the  sightless  man  of
 Ulappala,  was  walking  on  his  way,  was  on  his  journey
 
 
-2
-
-
 H
-
-
-1 14  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 stepping  out.  He  knocked  his  foot  against  a block,  his
@@ -5765,11 +4415,6 @@ by,  thou  wast  not  very  passionate,  when  under  the  heart  of
 Syojatar,  under  the  liver  of  Mammotar.  Great  hast  thou
 
 
-WORDS  OF  HEALING  POWER
-
-
-115
-
 now  indeed  become,  into  a passion  hast  thou  flown,  since,
 Lempo,  thou  hast  ta’en  in  hand,  hast,  wicked  heathen,  set
 thyself  to  gnaw  a man  that  has  been  born,  to  injure  one
@@ -5804,8 +4449,7 @@ its  neck.
 If  that  should  insufficient  prove,  I know  in  sooth  another
 place.  Thee  I conjure  to  eternal  hell.  A horse  has  died
 in  hell,  inside  the  hill  a colt  slipped  up,  so  a foot  is  there
-for  thee  to  bite,  a hoof  for  thee  to  gnaw,  without  thy  gnaw-
-ing human  skin,  the  body  of  a mother’s  son.
+for  thee  to  bite,  a hoof  for  thee  to  gnaw,  without  thy  gnawing human  skin,  the  body  of  a mother’s  son.
 
 
 ii6  THE  MAGIC  SONGS  OF  THE  FINNS
@@ -5849,12 +4493,6 @@ Become,  thou  ‘Hiisi’s  toadstool,’  light,  thou  ‘boss  of
 Lempo,’  now  desist,  cease,  evil  one,  from  swelling  up,  thou
 
 
-WORDS  OF  HEALING  POWER
-
-
-117
-
-
 abscess,  cease  from  being  cross.  Whene’er  I twist,  do
 thou  shrink  up,  whene’er  I press,  do  thou  sink  down,  sink,
 evil  one,  don’t  swell,  get  lower,  do  not  rise.  May  a rotten
@@ -5870,8 +4508,7 @@ obscure  than  it.
 § 29.  For  Snake  Bites.
 a
 
-Black  worm,  that  hast  the  look  of  earth,  thou  Tuoni-
-coloured  grub,  ball,  living  under  withered  grass,  scoundrel,
+Black  worm,  that  hast  the  look  of  earth,  thou  Tuonicoloured  grub,  ball,  living  under  withered  grass,  scoundrel,
 among  the  roots  of  grass,  that  goest  through  knolls,  that
 wrigglest  through  the  roots  of  trees,  who  raised  thee  from
 the  withered  grass,  awoke  thee  at  the  grasses’  root  to  crawl
@@ -5896,12 +4533,10 @@ ii8  THE  MAGIC  SONGS  OF  THE  FINNS
 
 b
 
-‘ Black  worm,’  that  livest  underground,  ‘ grey  worm,’  be-
-neath the  fallen  trees,  that  livest  under  the  earth’s  moss,
+‘ Black  worm,’  that  livest  underground,  ‘ grey  worm,’  beneath the  fallen  trees,  that  livest  under  the  earth’s  moss,
 
 ‘ dear  dew-worm  of  the  leavy  grove,’  thou  ‘ braid  of  hair  of
-Hiisi’s  girl,’  thou  ‘ beard-hair  of  the  Evil  One,’  thou  ‘ fence-
-stake  of  an  Aholainen  [v.  Ahkolainen],’  a ‘ Rumalainen’s
+Hiisi’s  girl,’  thou  ‘ beard-hair  of  the  Evil  One,’  thou  ‘ fencestake  of  an  Aholainen  [v.  Ahkolainen],’  a ‘ Rumalainen’s
 [v.  Ruomalainen’s]  sledge  cross-tree,  thou  ‘whip  of  Piru,’
 ‘Hiisi’s  scourge,’  thou  ‘fastening  of  the  Evil  Spirit’s  coat,’
 that  fliest  through  alder  groves,  that  bustlest  through  the
@@ -5930,8 +4565,6 @@ tree  branch  droppest  down  and  throwest  thyself  upon  the
 grass,  didst  thou  eat  thy  food,  didst  thou  nibble  to  thy
 heart’s  content,  when  thou  bittest  the  wretched  animal.
 
-
-WORDS  OF  HEALING  POWER  119
 
 didst  pinch  the  wretched  beast,  didst  nip  the  teats  of  the
 cow,  didst  taste  below  the  paunch  ? What  excited  thee  to
@@ -5968,9 +4601,6 @@ the  earth  the  larger  one  proceeds,  the  larger  one,  the  smaller
 one  j thou  too  wast  born  of  earth,  thy  father  is  earth,  thy
 mother  earth,  the  earth  is  thy  great  ancestor,  and  thou  art
 mould,  and  I am  mould,  on  the  selfsame  earth  we  live.
-
-
-120  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 Such  was  thine  origin.  Allow  me  now  to  see  thy  hue,  to
@@ -6070,8 +4700,7 @@ mouse-coloured  horse,  on  a pike-coloured  one,  on  one  of
 a black  salmon’s  hue,  on  one  as  smooth  as  a sik.  He  rode
 o’er  swamp,  he  rode  o’er  land,  rode  over  clearings  run  to
 waste,  to  Kalevala’s  heath,  to  the  unploughed  edge  of
-Osmo’s  field ; and  then  he  rode  along  the  side  of  a clang-
-ing sandy  path  to  a long  bridge’s  head.
+Osmo’s  field ; and  then  he  rode  along  the  side  of  a clanging sandy  path  to  a long  bridge’s  head.
 
 A trouble  arose,  an  accident  at  the  blue  bridge  ensued,
 at  the  red  foot-bridge’s  head.  A wood-grouse  started  up,  the
@@ -6094,9 +4723,6 @@ smaller  every  year.  So  the  pyy  becomes  continually  smaller  till  finall
 it  will  become  so  small  as  to  pass  through  a ring  and  then  the  end  of  the
 world  will  come.  (Told  me  by  Lektor  Suomalainen.  Also  given  by
 K.  Krohn,  Eldinsatuja,  p.  280.)
-
-
-WORDS  OF  HEALING  POWER
 
 
 himself  from  the  horse’s  back,  to  inspect  the  sprain,  to  repaid  ^
@@ -6152,13 +4778,11 @@ position  knocked.
 
 § 35.  Against  Nightmare.
 
-I have  a sack  below,  a sack  below,  a sack  above,  a steel-
-yard underneath  my  stern,  on  which  I set  the  nightmares
+I have  a sack  below,  a sack  below,  a sack  above,  a steelyard underneath  my  stern,  on  which  I set  the  nightmares
 down,  I gather  together  ‘ Hiisi’s  dead.’
 
 If  no  assistance  come  therefrom,  then  Rahko  in  his  iron
-boots,  who  makes  a stony  hill  revolve,  will  put  the  night-
-mares underneath  a ridge-pole  or  beneath  a spar,  ’neath  an
+boots,  who  makes  a stony  hill  revolve,  will  put  the  nightmares underneath  a ridge-pole  or  beneath  a spar,  ’neath  an
 iron  roof,  ’neath  a tongueless  bell.
 
 § 36.  Against  Frostbite.
@@ -6175,11 +4799,6 @@ heal  the  bite,  if  thou  hast  touched,  undo  the  harm,  or  else
 thy  mother  I shall  tell,  to  thy  father  I shall  make  it  known.
 Enormous  trouble  a mother  has,  when  treading  in  her  sons’
 
-
-WORDS  OF  HEALING  POWER
-
-
-131
 
 footsteps,  effacing  traces  he  has  left,  anointing  sores  thaw
 he  has  made.  ~~~  n
@@ -6216,8 +4835,7 @@ skin,  the  body  of  a woman’s  son.
 b
 
 Woe  on  thine  ‘ arrows,’  sorcerer  ! on  thy  ‘ knives  of  iron,’
-witch ! tall  Piru  ! on  thy  ‘ shafts  ’ \ Lempo  ! on  thy  ‘ leaf-
-headed spears.’  Archer ! remove  thine  evil  things,  thy
+witch ! tall  Piru  ! on  thy  ‘ shafts  ’ \ Lempo  ! on  thy  ‘ leafheaded spears.’  Archer ! remove  thine  evil  things,  thy
 
 
 THE  MAGIC  SONGS  OF  THE  FINNS  M
@@ -6262,11 +4880,6 @@ heart,  from  creaking  underneath  the  skin,  and  free  the
 heart  from  pain,  the  belly  from  its  suflering.
 
 
-WORDS  OF  HEALING  POWER
-
-
-131
-
 If  that  is  not  enough,  there  is  a wolf  in  Manala,  a be
 on  Raima’s  sandy  heath,  a boundless  braggadocio.  O maf  ^
 it  here  appear  to  draw  the  bolts  of  the  sorcerer ! If  that
@@ -6300,8 +4913,6 @@ copse,  to  the  wilderness  thy  grievous  hurts,  to  a sandy
 heath  thy  bitterness,  or  I shall  manage  otherwise : by  the
 roots  I ’ll  dig  thee  up,  lay  low  thy  crown  in  a marshy  dell.
 
-
-THE  MAGIC  SONGS  OF  THE  FINNS
 
 .h  b
 
@@ -6340,18 +4951,13 @@ thou  proceed  ? ^
 ‘ To  the  village  yonder  do  I go,  to  plague  the  bones  of
 
 
-WORDS  OF  HEALING  POWER
-
-131
-
 villagers,  to  cause  the  flesh  to  putrefy,  to  cause  the  liu  ^
 fret  away.’  “aten
 
 Ukko  to  the  Cancer  said : ‘ Thither  thou  must  not  go  t^^
 violate  a christened  man,  to  ruin  one  that  is  baptized.
 Betake  thee  to  the  fire  of  hell,  to  the  evil  power’s  flame,
-and  violate  unchristened  ones,  play  havoc  with  the  un-
-baptized.’
+and  violate  unchristened  ones,  play  havoc  with  the  unbaptized.’
 
 
 Jesus  was  walking  along  a road  with  little  Peter,  with
@@ -6389,9 +4995,6 @@ b
 
 
 a
-
-
-2
 
 
 I
@@ -6437,14 +5040,11 @@ smith,  into  Ilmarinen’s  forge-fire.  Thou  wast  not  great  in
 former  days,  not  great  nor  small,  when  in  the  furnace  thou
 
 
-WORDS  OF  HEALING  POWER  13 1
-
 didst  toss,  like  summer  butter  flop  about,  like  wheaten
 dough  expand  in  the  raging  place  of  fire,  in  the  forge  of
 Ilmari  the  smith.  Thou  wast  not  great  in  former  days,
 not  great  nor  small,  when  thou  wentest  through  the  fire
-into  Ilmarinen’s  forge-fire,  and  at  the  enormous  bellows-
-mouth  didst  like  a golden  cuckoo  call,  sworest  thy  solemn
+into  Ilmarinen’s  forge-fire,  and  at  the  enormous  bellowsmouth  didst  like  a golden  cuckoo  call,  sworest  thy  solemn
 oath,  that  thou  thy  brother  wouldst  not  cut,  not  violate  thy
 kith  and  kin,  not  touch  thy  kinsfolk  with  thy  mouth.
 Well,  wretch,  thou  brok’st  thine  oath,  didst  eat  thine
@@ -6474,13 +5074,9 @@ against  thy  nature  wouldst  not  sin,  wouldst  to  thy  brother
 do  no  harm.
 
 
-132  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
 d
 
-Woe  on  thee,  miserable  Iron,  thou  wretched  Iron,  worth-
-less Dross ! who  bade  thee  do  a spiteful  deed,  set  thee  to
+Woe  on  thee,  miserable  Iron,  thou  wretched  Iron,  worthless Dross ! who  bade  thee  do  a spiteful  deed,  set  thee  to
 do  an  evil  act,  egged  thee  to  do  a shabby  thing, — thy  father
 or  thy  mother,  or  the  eldest  of  thy  brothers,  or  the  youngest
 of  thy  sisters,  or  some  other  mighty  relative,  one  of  thy
@@ -6512,12 +5108,6 @@ bone.  Who  brought  thee  to  the  house,  conducted  thee  to
 prove  the  existence  of  Rauta  Rekki,  or  Rehki,  as  a god  of  iron.  Lonnrot
 explains  rekki  by  ' pert,  wanton,  brisk,  glaring  ’ ; but  is  doubtful  about
 rehki,  ‘ the  haltia  of  iron  ’ (?).
-
-
-WORDS  OF  HEALING  POWER
-
-
-133
 
 
 the  moss-stopped  room,  to  the  pillows  of  my  little  one,
@@ -6558,11 +5148,7 @@ the  rock  released  the  sun,  from  the  mountain  of  steel.
 So  I too  now  release  this  man  from  the  spell-brought
 
 
-134  the  magic  songs  OF  THE  FINNS
-
-
-harm  of  villagers,  from  utterances  of  the  moustached,  en-
-chantments of  the  long-haired  ones,  charms  spoken  by  the
+harm  of  villagers,  from  utterances  of  the  moustached,  enchantments of  the  long-haired  ones,  charms  spoken  by  the
 women-kind,  from  curses  of  the  filthy  sluts,  I with  the
 Maker’s  leave  release,  through  the  mercy  of  the  Lord
 alone.  Just  as  the  son  of  the  sun  escaped,  when  freed
@@ -6573,8 +5159,7 @@ by  me.
 
 Alas ! thou  Plague,  O thou  red  Cock,  to  these  parts  do
 not  come,  for  I know  thine  origin,  the  place  of  thy  nativity.
-Thou  wast  brought  forth  on  battle-fields,  on  the  slaughter-
-grounds  of  men.  There  [v.  wind]  is  thy  father,  there
+Thou  wast  brought  forth  on  battle-fields,  on  the  slaughtergrounds  of  men.  There  [v.  wind]  is  thy  father,  there
 \v.  wind]  thy  dam,  there  \v.  wind]  is  thy  great  progenitor.
 Abide  in  the  outlying  isles,  move  in  and  out  among  the
 reefs,  on  the  brink  of  Rutja’s  sea,  on  the  immeasurable
@@ -6596,12 +5181,6 @@ a
 
 Surely  I know  thy  family,  together  with  thy  lovely
 name.  Thy  name  is  ‘ Particle  of  Chaff,’  ‘ Barn  Sweepings,’
-
-
-WORDS  OF  HEALING  POWER
-
-
-135
 
 
 ‘ Blossom  of  the  Knoll,’  ‘ Field’s  ordinary  Chaff,’  ‘ Bawler
@@ -6636,12 +5215,8 @@ through  the  house;  wast  smoother  than  a gwiniad,  more
 beautiful  than  water’s  fish,  till  thou  struckest  an  evil  path
 and  entered  a gloomy  wood.^  Thither  ’twas  well  for  thee
 
-1 ‘A  gloomy  wood’  seems  to  mean  ‘the  eye,’  the  eyelashes  being  com-
-pared to  trees ; or  the  accident  of  a splinter  entering  the  eye  may  have
+1 ‘A  gloomy  wood’  seems  to  mean  ‘the  eye,’  the  eyelashes  being  compared to  trees ; or  the  accident  of  a splinter  entering  the  eye  may  have
 happened  while  working  in  the  forest.
-
-
-136  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 to  go,  here  it  is  bad  for  thee  to  stay.  Better  thou  dost
@@ -6677,12 +5252,6 @@ like  a ball  of  red  yarn  tumble  in.  If  thou  art  a.  blemish
 caused  by  wind,  enter  the  whirlwind  of  a storm,  the  driving
 
 1 Worn  for  walking  through  the  snow.
-
-
-WORDS  OF  HEALING  POWER
-
-
-137
 
 
 sleigh  of  a chilly  wind.  If  thou  art  a blemish  caused  by
@@ -6724,9 +5293,6 @@ beach  for  washing  her  little  shirts,  for  the  bleaching  of  her
 clothes.  A huge  and  hungry  wolf  coming  along  gave  her
 
 
-138  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
 a bite.  To  Mana  did  the  maiden  go,  the  lass,  indeed,  to
 Tuonela,  in  consequence  of  the  wolfs  great  bite,  of  the
 damage  wrought  by  " windy  tail,’  to  be  by  Tuoni’s  daughter
@@ -6755,18 +5321,12 @@ earth  a ‘ traveller,’  into  a world  a human  child  ?
 
 b
 
-The  Virgin  Mary,  mother  dear,  the  holy  little  serving-
-maid,  was  on  her  way,  was  travelling ; she  found  an  apple
+The  Virgin  Mary,  mother  dear,  the  holy  little  servingmaid,  was  on  her  way,  was  travelling ; she  found  an  apple
 on  the  path,  an  arctic  bramble  on  the  ground ; she  brought
 the  berry  to  her  lips,  into  her  belly  the  berry  slipt.  The
 Virgin  Mary,  mother  dear,  the  holy  little  serving-maid,  in
 consequence  became  with  child,  already  by  the  tenth
 
-
-WORDS  OF  HEALING  POWER
-
-
-139
 
 month  a son  is  kicking  in  her  lap,  tumbling  about  below  a
 ‘ tent.’
@@ -6803,11 +5363,7 @@ depart,  annoyance,  to  the  fire.  Speed  to  thy  home,  thou
 toad,  flee  to  thy  country,  evil  one,  force  thyself  in  beneath
 the  stones,  into  the  evil  spirits’  flags,  if  from  barn-sweepings
 thou  hast  come,  or  from  the  edges  of  a field,  or  from  the
-heat  of  steam,  from  the  furnace’s  hot  stones,  from  the  bath-
-house smoke  or  from  sweltering  heat  hast  hurled  thyself.
-
-
-140  THE  MAGIC  SONGS  OF  THE  FINNS
+heat  of  steam,  from  the  furnace’s  hot  stones,  from  the  bathhouse smoke  or  from  sweltering  heat  hast  hurled  thyself.
 
 
 § 52.  For  Burns.
@@ -6815,8 +5371,7 @@ a
 
 Thus  at  such  time  is  one  to  speak,  to  investigate  in
 truth,  when  Fire  commits  an  evil  deed,  Flame  causes
-damage  foolishly,  against  the  character  of  God,  the  com-
-passion of  the  Blest.
+damage  foolishly,  against  the  character  of  God,  the  compassion of  the  Blest.
 
 Thou  Fire  whom  God  has  made,  thou  Flame  by  the
 Creator  formed,  without  a cause  hast  gone  too  deep,
@@ -6848,15 +5403,9 @@ dog — for  I a black  dog  own,  a hound  of  iron  hue ; by  him
 I ’ll  have  the  eater  eaten,  I ’ll  have  the  biter  bitten.
 
 
-WORDS  OF  HEALING  POWER
-
-
-141
-
 An  ox  grew  up  in  Kainuhu,  a bull  in  Finland  grew  in
 size,  it  flapped  its  tail  in  Tavastland,  at  the  Kemi  river
-shook  its  head.  From  the  sea  a wee  man  rose,  a full-
-grown  fellow  from  the  wave,  he  struck  the  ox  and  made
+shook  its  head.  From  the  sea  a wee  man  rose,  a fullgrown  fellow  from  the  wave,  he  struck  the  ox  and  made
 it  reel,  bent  down  its  side  against  the  ground.  Ointments
 are  obtained  from  it,  charmed  remedies  are  chosen  out,
 with  which  the  burning  pains  are  drenched,  fire’s  violence
@@ -6887,9 +5436,6 @@ rainbow’s  rim ; under  her  arm  is  a golden  box,  in  her  hand
 a golden  wing,  with  which  she  wiped  away  the  pain  from
 places  that  are  burnt,  and  salved  the  injuries  of  fire,  spots
 that  for  long  were  running  sores.
-
-
-142  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 /
@@ -6927,8 +5473,6 @@ A maiden  comes  from  Turjaland,  from  Lapland  starts
 a girl,  in  a red-sterned  sailing  boat,  in  a skiff  with  a ruddy
 sail ; on  the  bows  of  the  boat  hang  icicles,  the  sail  is
 
-
-WORDS  OF  HEALING  POWER  143
 
 covered  with  icicles,  in  the  bows  is  a kettle  of  slush,  in  ^e
 kettle  a ladle  of  ice.  While  she  is  dealing  out  the  tee  I
@@ -6969,9 +5513,6 @@ murky  Pohjola,  in  strong  Sarentola.  A dry-throated  man
 of  Pohjola,  a drinker,  living  Dehind  the  stream,  drank  up
 
 
-144  the  magic  songs  OF  THE  FINNS
-
-
 the  fiery  stream,  sipped  up  the  lake  of  sparks.  May  he
 now  make  appearance  here,  where  Fire  has  acted  stupidly,
 to  eat  the  injuries  of  Fire,  lap  up  the  broth  of  Fire.
@@ -6993,8 +5534,7 @@ surely  I know  thine  origin.  From  a hill  thou  art  obtained,
 thou  art  a casting  of  Vattala.  At  whose  command,  thy
 father’s  or  thy  mother’s,  didst  thou  perpetrate  these  brutal
 acts  ? May  thine  injuries  dry  up,  the  traces  left  by  copper
-fade,  as  wine  dries  upon  a stone,  as  water  on  rock  evapor-
-ates.
+fade,  as  wine  dries  upon  a stone,  as  water  on  rock  evaporates.
 
 § 55.  For  H/emorrhage.
 a
@@ -7006,12 +5546,6 @@ a ‘ bushy-tail  ’ sneak  in.  So  why  is  nothing  done,  why  is
 the  blood  not  staunched,  the  foaming  flood  from  the  veins
 not  checked  with  fiery  sods  of  turf,  with  the  grassy  knolls
 of  a hill,  with  powerful  instruments  of  iron  ?
-
-
-WORDS  OF  HEALING  POWER
-
-
-145
 
 
 The  son  of  Lempo  received  a cut,  the  evil  boy  was
@@ -7052,13 +5586,7 @@ art  that  thou  shouldst  sink,  no  pool  in  a swamp  that  thou
 shouldst  shine,  no  worn-out  boat  that  thou  shouldst  leak.
 
 
-2
-
-
 K
-
-
-146  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 Thy  place  is  in  the  heart,  thy  cellar  lies  below  the  lungs
@@ -7100,12 +5628,6 @@ one  obtain  a bar,  may  one  fetch  a real  plug,  to  check  the
 streaming  of  the  blood,  the  spilling  of  the  ‘ golden-hued  ’ ?
 
 
-WORDS  OF  HEALING  POWER
-
-
-147
-
-
 If  by  other  means  it  will  not  change,  with  gravel  make  it
 change  its  course,  cast  sand  in  front  of  it,  let  it  be  mixed
 with  sand.
@@ -7145,9 +5667,6 @@ Water’s  master,  water’s  mistress,  water’s  golden  king,
 the  water’s  mighty  lord,  why  art  thou  angry  causelessly,
 
 
-148  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
 without  a reason  art  enraged  ? why  hast  thou  sent  thy  sons,
 thy  hireling  men,  a hundred  belted  men  with  swords,
 a thousand  carrying  guns,  to  bite,  to  gnaw,  to  eat,  to
@@ -7156,8 +5675,7 @@ liver  creep,  to  smash  the  bones  of  legs,  and  trample  on  the
 knees?  There’s  no  place  here  for  them,  although  they
 should  want  a place.
 
-Arise,  thou  iron-crested  cock ! jump  quickly  up,  spur-
-footed bird,  to  claw  these  toads,  to  rub  these  Hiisis  down,
+Arise,  thou  iron-crested  cock ! jump  quickly  up,  spurfooted bird,  to  claw  these  toads,  to  rub  these  Hiisis  down,
 that  they  ’ll  be  heard  of  never  more,  while  this  world  lasts.
 
 § 57.  For  Cough.
@@ -7172,22 +5690,14 @@ the  pines.
 If  from  old  women  thou  art  come,  avaunt,  thou  Cough,
 to  the  home  of  a crone,  from  the  home  of  a crone  to  an
 old  man’s  home,  there  they  have  want  of  thee,  await  thy
-coming  back.  Let  the  old  women  cough,  the  crooked-
-jawed  ones  have  a try,  let  old  men  bewail  themselves,
+coming  back.  Let  the  old  women  cough,  the  crookedjawed  ones  have  a try,  let  old  men  bewail  themselves,
 mustachioed  men  set  up  a din  and  cough  till  their  necks
 are  bent,  till  their  backs  run  down  with  sweat.
 
 § 58.  For  Colic.
 
-O Colic,  gasping,  groaning  boy,  thou  griping  and  block-
-headed boy,  why  dost  thou,  toad,  keep  swelling  up,  why.
+O Colic,  gasping,  groaning  boy,  thou  griping  and  blockheaded boy,  why  dost  thou,  toad,  keep  swelling  up,  why.
 Water’s  scum,  dost  thou  annoy,  why  hast  thou,  evil  one.
-
-
-WORDS  OF  HEALING  POWER
-
-
-149
 
 
 begun,  why,  Lempo,  hast  thou  lent  thyself  to  viol^  a
@@ -7231,8 +5741,6 @@ ever  more  be  fetched  away.
 ISO  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
-FORMULA.
-
 § 59.  Divination  Formula.
 a
 
@@ -7247,26 +5755,20 @@ the  sun,  divining-gear;  if  it  proceed  from  village-spells,
 then  move  thyself  against  the  sun ; if  from  the  water  come
 the  harm,  then  seawards  quickly  turn  thyself ; if  from  the
 earth  the  fellow  rose,  then  northwards  veer  without  delay.
-If  thou  bring  true  intelligence,  trustworthy  and  from  false-
-hood free,  then  steady  as  a wall  stand  still,  as  firm  as  a
+If  thou  bring  true  intelligence,  trustworthy  and  from  falsehood free,  then  steady  as  a wall  stand  still,  as  firm  as  a
 fence,  divining-gear !
 
 b
 
 Now  is  the  time  for  gear  {arpd)  to  move,  for  a man  to
-ask  for  presages ; Creator’s  presage ! tell  the  truth,  divin-
-ing-gear of  God,  report,  bring  hither  true  intelligence,
+ask  for  presages ; Creator’s  presage ! tell  the  truth,  divining-gear of  God,  report,  bring  hither  true  intelligence,
 divulge  the  appointed  destiny  at  this  hour’s  end,  at  this
 day’s  close.  The  real  truth  tell,  divining  gear ! not  what
 would  please  a man,  not  according  to  a man’s  desires.
 Announce  the  truth  and  do  not  lie.  If  the  divining-gear
 tells  lies,  its  reputation  diminishes,  into  the  fire  the  gear
-is  cast,  flung  there  in  order  to  be  burnt.  If  the  divining-
-gear  speaks  truth,  its  reputation  is  enhanced,  the  divining-
+is  cast,  flung  there  in  order  to  be  burnt.  If  the  divininggear  speaks  truth,  its  reputation  is  enhanced,  the  divining-
 gear  is  raised  aloft  to  the  knees  of  the  holy  God.
-
-
-FORMULA
 
 
 If  to  divining-gear  I turn,  start  seeking  human  auguries,
@@ -7275,8 +5777,7 @@ lie,  exactly  I make  it  speak,  according  to  the  facts — divine
 whence  the  calamity  arrived,  the  grievous  trouble  was
 produced.
 
-Hiisi,  bring  now  thy  linen  cap,  Lempo,  thy  broad-
-brimmed  hat,  in  which  I ^11  set  my  divining-gear,  I ’ll
+Hiisi,  bring  now  thy  linen  cap,  Lempo,  thy  broadbrimmed  hat,  in  which  I ^11  set  my  divining-gear,  I ’ll
 cast  my  slips  of  alder  wood.  Old  mother  Kave,  Nature’s
 daughter,  O golden  Kave,  the  beautiful,  come  hither,  when
 required,  to  arrange  the  divining-gear,  with  thy  hands  to
@@ -7291,8 +5792,7 @@ a ‘ bone-hoofs  ’ bite !
 § 6i.  To  Make  a Horse  Stand  Still.
 
 Thou  horse  that  hast  been  brought,  been  placed  below
-a wheel,^  with  thee  ’tis  needful  there  should  be  two  attend-
-ants purposely,  invisible  and  visible,  who  will  press  down
+a wheel,^  with  thee  ’tis  needful  there  should  be  two  attendants purposely,  invisible  and  visible,  who  will  press  down
 thy  head  and  will  tire  out  thy  strength.  Stand  still  thou
 must,  thou  must  not  fidget  any  more,  stand  still  like  a
 castle-wall,  like  a stone  church’s  tower,  like  the  wall  of
@@ -7308,9 +5808,6 @@ Bite  a hair,^  gulp  another  down,  but  of  the  third  beware,
 2 Probably  the  beard  of  oats  or  barley  is  meant.
 
 
-152  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
 for  if  thou  touch  the  third,  like  a cockroach  thou  shalt  die
 forthwith.  If  thou  shouldst  feel  the  wish,  shouldst  have
 a mind  to  eat,  on  the  field’s  edge  lies  a boulder-stone,
@@ -7323,8 +5820,7 @@ with  my  stack.
 § 63.  Against  Spiders.
 
 Shrivelled,  wizened,  shaggy  spider,  Jesus’  ball  of  reddish
-worsted,  the  Creator’s  golden  flower,  if  thou  evil  hast  com-
-mitted, come  to  recognise  thine  action,  else  I ’ll  flay  thee
+worsted,  the  Creator’s  golden  flower,  if  thou  evil  hast  committed, come  to  recognise  thine  action,  else  I ’ll  flay  thee
 with  my  fingers,  with  my  thumbs  will  make  incision,  I shall
 take  thy  hide  to  Viborg,  to  the  German  town  convey  it,
 where  I ’ll  get  a hundred  shillings,  shall  receive  in  piles  a
@@ -7343,18 +5839,10 @@ too  high,  just  so  much  may  the  arrow  fall.
 
 A careful  man  is  needed  then,  a steady  fellow  is  required,
 when  a man  is  about  to  wed  a girl,  a man  is  led  to  be
-betrothed,  when  trouble  comes  at  a wedding-feast,  shed-
-ding of  blood  at  the  drinking-bout.
+betrothed,  when  trouble  comes  at  a wedding-feast,  shedding of  blood  at  the  drinking-bout.
 
 
-FORMULA
-
-
-153
-
-
-Smith  Ilmarinen  did  himself  shoe  me  a horse  in  summer-
-time, a stall-fed  nag  in  winter-time,  that  I might  go  to  woo
+Smith  Ilmarinen  did  himself  shoe  me  a horse  in  summertime, a stall-fed  nag  in  winter-time,  that  I might  go  to  woo
 the  girls  in  Hiisi’s  fort,  the  Rakko-vuori  cousins.  If  that
 is  not  enough,  from  Hiisi  I shall  take  a horse,  from  the
 mountain  a splendid  foal,  ay,  Hiisi’s  brownest  nag,  whose
@@ -7392,9 +5880,6 @@ crops.
 If  salt  should  not  destroy,  nor  iron  injure  thee,  begin.
 
 
-154  the  magic  songs  OF  THE  FINNS
-
-
 unbidden  guest,  to  move,  thou  evil  one  to  flee  away.
 Depart,  where  I command,  to  rustling  grassy  fields,  to
 boundless  fields,  to  mossless  swamps.  There  there  is
@@ -7430,12 +5915,6 @@ for  thee  to  drink,  sea-gravel  in  thy  mouth  to  put,  sand — in
 the  clefts  between  thy  teeth.  If  thou  shouldst  pay  no  heed
 
 
-FORMULA
-
-
-155
-
-
 thereto,  I ’ll  draw  a fiery  sword  from  a fiery  sheath,  with
 which  I fasten  up  thy  throat  and  shall  disperse  thy.  teeth.
 If  that  is  not  enough,  there  is  Ukko  in  the  sky.  May
@@ -7455,8 +5934,7 @@ at  my  golden  snares.  Approach  without  anxiety,  without
 precaution  play  about,  strike  on  the  threshold  with  thy
 nail,  with  thy  paw  the  front  of  the  trap ; don’t  choose  out
 one  of  the  trigger-pins,  bite  the  nearest  trigger-pin,  with
-forest-honey  it  is  smeared,  with  woodland-sweetness  is  be-
-daubed.
+forest-honey  it  is  smeared,  with  woodland-sweetness  is  bedaubed.
 
 On  no  account  approach  near  other  people’s  trigger-pins:
 there  death  would  seize  thee  in  its  mouth,  a dreadful
@@ -7476,8 +5954,7 @@ these  snares  of  mine ; speed,  ‘ bandy-legs,’  to  the  noose-
 iS6  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
-hung  tree;^  ‘bent-legged  of  Hiisi’^  to  the  trap;  thou,  ‘mad-
-cap,’ to  the  gin ; thou  ‘ball-eyed,’  to  the  snare ; to  the  trap,
+hung  tree;^  ‘bent-legged  of  Hiisi’^  to  the  trap;  thou,  ‘madcap,’ to  the  gin ; thou  ‘ball-eyed,’  to  the  snare ; to  the  trap,
 thou  ‘ swivel-eyed.’  Come  like  the  ruddy  fire,  like  summer
 water  roll  from  ’neath  a tree,  from  ’neath  a fir,  from  under
 a fir  with  branching  head,  from  under  a lovely  juniper,  past
@@ -7513,12 +5990,6 @@ is  hung  in  the  noose.
 formerly  a Spirit  of  the  Forest.
 
 
-FORMULA
-
-
-157
-
-
 § 69.  Against  Bears.
 
 a —
@@ -7532,8 +6003,7 @@ to  walk,  a ‘cloven  hoof’  to  roam  about,  a ‘giver  of  milk’  to
 wander  round,  a ‘ mushroom-eater  ’ to  move  about,  and  do
 not  touch  it  in  the  least,  in  thy  bad  humour  seize  it  not.
 Remember  thine  ancient  oath  at  the  river  of  Tuonela,  at
-the  furious  cataract,  in  front  of  the  Creator’s  knees.  Per-
-mission then  was  given  thee  to  roam  within  the  sound  af
+the  furious  cataract,  in  front  of  the  Creator’s  knees.  Permission then  was  given  thee  to  roam  within  the  sound  af
 bells,  on  ground  where  jingling  bells  are  heard,  but  it  was
 not  permitted  thee,  permission  was  not  granted  thee,  to
 perpetrate  unlovely  deeds  and  to  confound  thyself  with
@@ -7556,11 +6026,7 @@ make  thy  way ; when  the  cattle  at  the  hill-foot  move,  along
 the  hill-top  make  thy  way;  when  they  across  a clearing
 
 
-158  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
-pass,  to  a copsewood  turn  thy  steps ; when  they  to  a copse-
-wood  turn  their  steps,  do  thou  across  a clearing  pass.
+pass,  to  a copsewood  turn  thy  steps ; when  they  to  a copsewood  turn  their  steps,  do  thou  across  a clearing  pass.
 
 Like  a flax-bundle  move  along,  roll  like  the  wool  on  a
 distaff  bound ; thy  father  was  a woolly  one,  thy  mother  was
@@ -7580,12 +6046,10 @@ c
 
 ‘ Black  bullock  of  the  woods  ’ ! ball-like  with  lovely  hair,
 let  us  eternal  treaties  make,  let  us  conclude  eternal  peace,
-that  we  may  live  in  harmony  and  pleasantly  all  summer-
-time, e’en  though  in  winter  w^e  go  to  war,  in  the  hard
+that  we  may  live  in  harmony  and  pleasantly  all  summertime, e’en  though  in  winter  w^e  go  to  war,  in  the  hard
 season  make  a din.  In  common  we  possess  the  land,  but
 our  subsistence  privately  : the  leaves  on  trees,  the  grass  on
-earth,  the  ants  in  a mound, — in  these  thou  hast  thy  pro-
-vender  from  summer  night  to  winter  night,  whatever  clump
+earth,  the  ants  in  a mound, — in  these  thou  hast  thy  provender  from  summer  night  to  winter  night,  whatever  clump
 of  firs  or  heap  of  stones  on  a heath  thou  mayst  be  in,  when
 passing  the  ground  where  cattle  graze.  If  that  is  not
 enough,  eat  rather  thy  heart’s  core,  cook  rather  thine  own
@@ -7596,9 +6060,6 @@ thy  wool  may  it  roll  away  and  disappear  among  thy  fur.  If
 
 
 FORMULAE
-
-
-159
 
 
 that  is  not  enough,  into  a copse  thine  anger  fling,  to  heather
@@ -7652,8 +6113,7 @@ silk  across  thine  eyes,  lie  down  to  sleep  on  a grassy  knoll
 or  a lovely  rock,  where  firs  are  swaying  overhead,  where
 pines  are  murmuring  above ; Broad  forehead ! there  keep
 turning  round,  keep  wriggling  there,  thou  ‘honey-paws,’
-like  a wood-grouse  on  its  nest,  like  a goose  on  its  hatching-
-place.
+like  a wood-grouse  on  its  nest,  like  a goose  on  its  hatchingplace.
 
 /
 
@@ -7679,9 +6139,6 @@ calves ; shall  I,  poor  fellow,  loose  my  sheep,  entirely  free
 my  ‘ drooping  ears,’  for  my  sheep  to  go  to  a water-pool,  my
 
 
-FORMULA
-
-
 i6i
 
 
@@ -7692,24 +6149,19 @@ that  faces  the  sea,  that  faces  a sandy  sea  ?
 
 b
 
-When  pleasant  summer  has  arrived,  when  the  water-
-pools  have  warmed,  others  send  shepherds  out,  get  herds
+When  pleasant  summer  has  arrived,  when  the  waterpools  have  warmed,  others  send  shepherds  out,  get  herds
 but  whom  shall  I,  poor  wretch,  a mistress  quite  devoid  of
 means,  whom  shall  I as  my  shepherd  send,  procure  as  my
 cattle-herd  ? whom  shall  I make  into  godfather,  make  into
 guardian  of  the  ‘bells’?^  Shall  I send  a willow-tree  as
 herd,  an  alder  as  guardian  of  the  cows,  a rowan-tree  as
 manager,  a wild  bird-cherry  to  drive  them  home,  without
-the  mistress’s  seeking  them,  without  the  housewife’s  bother-
-ing, without  the  herd-lass  watching  them,  without  the
-shepherd’s  driving  them?  Pray  be  my  shepherd,  willow-
-tree  ! be  my  cow-watcher,  alder-tree  ! pray  be  my  manager,
+the  mistress’s  seeking  them,  without  the  housewife’s  bothering, without  the  herd-lass  watching  them,  without  the
+shepherd’s  driving  them?  Pray  be  my  shepherd,  willowtree  ! be  my  cow-watcher,  alder-tree  ! pray  be  my  manager,
 rowan-tree ! be  drover,  wild  bird-cherry  tree ! If  thou
-won’t  shepherd,  willow-tree,  won’t  herd  the  cows,  thou  alder-
-tree,  won’t  manage  well,  thou  rowan-tree,  won’t  drive  them
+won’t  shepherd,  willow-tree,  won’t  herd  the  cows,  thou  aldertree,  won’t  manage  well,  thou  rowan-tree,  won’t  drive  them
 home,  bird-cherry  tree,  I ’ll  cast  the  willow  into  a stream,
-cut  into  two  the  alder-tree,  stick  into  the  fire^  the  rowan-
-tree,  plunge  into  flames  bird-cherry  tree.  As  a shepherd
+cut  into  two  the  alder-tree,  stick  into  the  fire^  the  rowantree,  plunge  into  flames  bird-cherry  tree.  As  a shepherd
 the  willow’s  bad,  as  a cattle-watcher  the  alder-tree,  as  a
 manager  the  rowan-tree,  as  a drover  the  bird-cherry  tree.
 
@@ -7721,9 +6173,6 @@ guardian  of  the  ‘ bells.’  But  if  thou  do  not  manage  well,  I
 1 i,e.  the  cattle,  each  of  which  carries  a bell,
 
 L
-
-
-2
 
 
 i62  the  magic  songs  OF  THE  FINNS
@@ -7769,12 +6218,6 @@ a mother’s  son.
 night  to  keep  away  the  midges.
 
 
-FORMULA
-
-
-163
-
-
 § 72.  For  Dogs.  — ^
 
 a
@@ -7790,8 +6233,7 @@ I know  thine  origin,  thy  lineage  and  thine  origin ; eyeless
 was  thy  father  born,  eyeless  was  thy  mother  too,  eyeless  thou
 art  thyself.  May  honey  stop  thy  mouth,  honey  press  down
 thy  head,  that  thou  canst  not  give  tongue  until  a man  has
-passed.  May  thy  jawbones  be  as  tightly  closed  as  a flax-
-break  lid  is  tightly  closed,  may  thy  teeth  be  as  soft  as
+passed.  May  thy  jawbones  be  as  tightly  closed  as  a flaxbreak  lid  is  tightly  closed,  may  thy  teeth  be  as  soft  as
 (the  husks)  in  my  fist  are  soft.
 
 If  that  is  not  enough,  may  Hiisi  close  thy  mouth,  Lempo
@@ -7810,9 +6252,6 @@ injury  to  my  grey  dog  ? has  he  been  seen  by  a jealous  eye,
 by  a skew-eyed  person  been  observed,  as  he  barks  at
 boughs  of  fir,  keeps  yelping  at  leafy  boughs?  I don’t
 bow  down  to  firs,  don’t  fawn  on  trees  with  branching  tops.
-
-
-1 64  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 I make  my  bow  to  a fir-tree’s  ‘ flowers,’  ^ I flatter  ‘ luxuriant  ’
@@ -7835,8 +6274,7 @@ and  honey  to  the  mind.
 § 74.  To  Make  Yeast  Rise,
 
 Rise,  Yeast,  when  being  raised,  work,  Barm,  when  being
-made  to  work,  before  thy  raiser  rise,  ferment  in  thy  fer-
-menter’s hand,  rise  without  being  raised  by  ropes,  without
+made  to  work,  before  thy  raiser  rise,  ferment  in  thy  fermenter’s hand,  rise  without  being  raised  by  ropes,  without
 being  hauled  by  tarry  cords.  The  moon  and  sun  have
 risen  both,  yet  thou  hast  not  begun  to  rise.
 
@@ -7852,8 +6290,6 @@ game  of  some  sort.
 
 2 These  refer  to  parts  of  the  trap.
 
-
-FORMULA  165
 
 maggot’  creeps  along.  Thus  may  one  speak  and  thus
 express  oneself : — -
@@ -7889,9 +6325,6 @@ Though  bitter  is  the  gall  of  bears,  yet  mine  is  twofold
 bitterer ; may  any  word  that  I shall  speak  have  the  effect
 of  a hundred  words,  so  that  I sha’n’t  incur  a fine,  nor  find
 myself  compelled  by  force.
-
-
-1 66  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 § 77.  For  Sheep.
@@ -7989,8 +6422,7 @@ girl’s  Love-god,  the  girl’s  Renown  into  a cave  has  been
 conveyed,  to  a wayside  post,  to  a wayside  ditch,  or  the  tiny
 nest  of  a woodpecker,  there  we  shall  find  the  God  of  Love,
 well  raise  again  Renown,  to  cause  the  minds  of  men  to
-veer,  to  cause  their  hearts  to  burn  like  fire,  that  procession-
-leaders  shall  arrive,  that  bridal  heralds  shall  drive  up,
+veer,  to  cause  their  hearts  to  burn  like  fire,  that  processionleaders  shall  arrive,  that  bridal  heralds  shall  drive  up,
 messengers  come  from  Abo  town  and  other  lads  from
 Tornio.
 
@@ -8004,8 +6436,7 @@ the  fairest  things,  in  pairs  the  trees,  in  pairs  the  pines,  in
 pairs  the  fishes  in  the  sea,  in  pairs  the  birdies  of  the  air,  in
 pairs  the  shoes  beneath  the  bench,  in  pairs  the  fence’s
 stakes,  why  am  not  I,  poor  thing,  in  pairs  ? Is  my  skin  all
-over  hair,  do  my  surroundings  smell  of  tar,  or  is  my  Love-
-god  in  a grove,  quite  buried  under  boughs  of  fir,  concealed
+over  hair,  do  my  surroundings  smell  of  tar,  or  is  my  Lovegod  in  a grove,  quite  buried  under  boughs  of  fir,  concealed
 beneath  a bench,  since  young  men  do  not  come  for  me,
 bridegrooms  won’t  let  themselves  be  pleased  ?
 
@@ -8014,9 +6445,6 @@ place.
 
 
 FORMULAE
-
-
-169
 
 
 My  little  girl,  my  younger  one,  for  this  cause  no  one
@@ -8032,8 +6460,7 @@ cast  evil  prattle  from  thy  head,  from  thy  socks  all  witchery ;
 attire  thee  in  thy  best,  put  on  thy  lovely  shift,  thou  ’It  go  to
 church  to  become  its  flower,  wilt  be  as  a golden  statue
 there,  as  a tinkling  sound  to  attract  the  lords,  as  an
-audible  sound  to  attract  the  kings;  thee  will  the  con-
-gregation praise,  the  community  extol,  each  one  of  the
+audible  sound  to  attract  the  kings;  thee  will  the  congregation praise,  the  community  extol,  each  one  of  the
 married  men  will  one  and  all  regard  the  girl,  each  full
 grown  married  man  will  be  quite  struck  with  wonder  at
 the  maid.
@@ -8043,17 +6470,12 @@ especially,  I waited  long,  he  never  came  who  to  betrothal  me
 would  lead.  In  a grove  I broke  a bathing-switch,  whisked
 off  a lovely  bathing-switch,  from  a ditch’s  water  I took  some
 wood,  I gathered  unsullied  wood,  I heated  a vapour-bath
-with  these  soft  bits  of  wood.  I stripped  off  my  old  working-
-rags,  the  clothes  I wear  when  felling  wood,  I washed  my
-head  both  morn  and  eve,  at  midnight  rubbed  it  dry,  pre-
-cisely on  Johannes’  eve,  the  time  between  St.  Peter’s  day.
+with  these  soft  bits  of  wood.  I stripped  off  my  old  workingrags,  the  clothes  I wear  when  felling  wood,  I washed  my
+head  both  morn  and  eve,  at  midnight  rubbed  it  dry,  precisely on  Johannes’  eve,  the  time  between  St.  Peter’s  day.
 My  Love-god  I appeased  with  that,  for  no  long  period
 elapsed  ere  wooers  came  from  Savolax  and  other  lads  from
 Bothnia  in  order  to  behold  my  face,  to  view  with  beaming
 eyes  my  form.
-
-
-170  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 § 8 1.  To  Alienate  Love.
@@ -8093,11 +6515,6 @@ Fly,  wood-grouse,  from  thy  worthless  perch,  from  dreary
 places,  wood-grouse  hen ! light-footed  blackcock ! fly,  fly
 
 
-FORMULA
-
-
-171
-
 round-necked  hazel  grouse!  to  my  gold  decoy,  to  mine
 iron  carrion.  In  the  morning  early  fly,  when  mid-day
 comes,  in  front  of  him  that  seeketh  thee,  to  a shooter’s
@@ -8112,8 +6529,7 @@ procure  a magpie’s  nest,  snatch  birch-bark  shoes  from  off
 the  road,  and  shape  them  into  a bird.  Then  I make  up
 a steady  fire  and  thither  carry  my  decoy,  I procure  a
 bathing-switch,  I cut  one  off  of  alder  twigs,  give  my  decoy
-a rubbing  down  and  wash  it  with  water  pure.  My  decoy-
-bird  then  I carry  home,  without  being  pecked  at  by  a witch
+a rubbing  down  and  wash  it  with  water  pure.  My  decoybird  then  I carry  home,  without  being  pecked  at  by  a witch
 or  discovered  by  a ‘ squinting  eye.’
 
 § 85.  Against  Bugs.
@@ -8132,9 +6548,6 @@ a
 O round  and  plumpish  cow-house  snake,  snow-coloured,
 corpulent,  both  somewhat  round  and  somewhat  long,  and
 in  the  middle  globular,  hast  thou  already  great  become?
-
-
-172  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 Thou  wast  not  great  in  former  days  when  thou  wast  an
@@ -8172,17 +6585,13 @@ hot  steam  from  the  bath-house  moss,  as  ointment  for  the
 injuries,  as  embrocation  for  the  wounds.
 
 
-FORMULA  173
-
 b
 
 Welcome ! O Vapour,  welcome ! Warmth,  welcome  to
-him  that  welcometh.  Vapour  is  Auterinen’s  son,  is  Autere-
-tar’s  child.  Enter  the  steam,  O God,  to  heat  it,  father  of
+him  that  welcometh.  Vapour  is  Auterinen’s  son,  is  Auteretar’s  child.  Enter  the  steam,  O God,  to  heat  it,  father  of
 the  world,  to  bring  about  a state  of  health,  and  to  establish
 peace;  excess  of  vapour  mitigate,  O send  away  excess  of
-heat  through  a hole  by  an  auger  bored,  through  a drill-
-made  aperture.
+heat  through  a hole  by  an  auger  bored,  through  a drillmade  aperture.
 
 c
 
@@ -8190,8 +6599,7 @@ O welcome,  welcome,  my  dear  Steam!  my  darling
 Steam,  my  darling  Warmth,  thou  steam  of  wood,  dear
 water’s  warmth,  old  Vainamoinen’s  sweat  I The  wood  was
 made  by  God,  by  Maatar  the  shoot  was  made  to  grow,
-from  a hill  dear  water  originates,  fire  from  the  sky  origin-
-ates ; there  is  nought  for  steam  to  find,  there  is  nought  for
+from  a hill  dear  water  originates,  fire  from  the  sky  originates ; there  is  nought  for  steam  to  find,  there  is  nought  for
 heat  to  shun,  for  the  wind  to  blow  away,  for  intemperate
 weather  to  touch,  for  water  to  roll  away,  for  a jealous
 person  to  see,  for  a squinting  eye  to  spy,  for  an  evil-wisher
@@ -8206,16 +6614,11 @@ O Hikitukka,  Hiisi’s  girl,  why  hast  thou  hid  the  gift  of
 cows,  to  Mana  conveyed  my  milk,  my  quite  fresh  milk  to
 Tuonela?  To  Mana  milk  ought  not  to  go,  nor  the  gift  of
 cows  to  Tuonela.  May  milk  flow  here  in  streams,  may
-sweet  milk  journey  here,  may  milky  holes  discharge  them-
-selves, may  milky  rapids  froth  from  the  cup  of  every  flower,
-
-
-174  the  magic  songs  OF  THE  FINNS
+sweet  milk  journey  here,  may  milky  holes  discharge  themselves, may  milky  rapids  froth  from  the  cup  of  every  flower,
 
 
 from  the  husk  of  every  grass,  from  verdant  sloping  tracts,
-from  honeyed  grassy  knolls,  from  sappy  turf,  from  horsetail-
-grass  ; the  rapids  then  must  froth,  the  milky  holes  discharge
+from  honeyed  grassy  knolls,  from  sappy  turf,  from  horsetailgrass  ; the  rapids  then  must  froth,  the  milky  holes  discharge
 themselves  into  a little  golden  cup,  into  a vat  with  copper
 sides.
 
@@ -8239,20 +6642,15 @@ holding  a pail  of  juniper.
 
 c
 
-How  at  such  time 'is  one  to  speak,  in  verity  to  investi-
-gate, when  a cow  has  been  bewitched,  has  been  bewitched
+How  at  such  time 'is  one  to  speak,  in  verity  to  investigate, when  a cow  has  been  bewitched,  has  been  bewitched
 and  has  been  eyed,  the  milk  to  Mana  has  been  brought,
 the  gift  of  cows  to  Tuonela?  Many  there  are  and  evil
-ones  that  unto  Mana  carry  milk,  the  gift  of  cows  to  some-
-where else,  but  few  they  are  and  good  ones  who  from
+ones  that  unto  Mana  carry  milk,  the  gift  of  cows  to  somewhere else,  but  few  they  are  and  good  ones  who  from
 Mana  bring  again  the  milk,  the  quite  new  milk  from
 Tuonela.  My  mother  did  not  formerly  ask  counsel  of
 
 
 FORMULAE
-
-
-175
 
 
 the  villagers,  advice  from  another  farm,  from  Mana  she
@@ -8266,8 +6664,7 @@ I let  milk  come  from  further  off,  arrive  from  a place  still
 further  on,  I make  milk  come  from  Tuonela,  from  Manala,
 from  ’neath  the  earth,  come  in  the  night-time  by  itself,  in
 the  darkness  stealthily,  along  the  valfeys  following,  and
-shooting  past  the  fields  run  wild,  unheard  by  any  mis-
-creant, by  a worthless  fellow  unperceived,  unenvied  by  the
+shooting  past  the  fields  run  wild,  unheard  by  any  miscreant, by  a worthless  fellow  unperceived,  unenvied  by  the
 envious,  unhurt  by  any  bearing  hate.  To  the  sky  I thrust
 my  her  ding-horn,  to  the  clouds  direct  my  pipe,  from  that
 land  do  I bring  the  milk,  from  the  villagers’  grasp — my
@@ -8277,8 +6674,7 @@ curdled  milk.
 § 89.  Hunting  Charm.
 a
 
-I have  a mind,  a thought  occurs,  a mind  to  go  to  Met-
-sola,  to  the  foot  of  Brushwood  Town  (Havu-linna),  to  the
+I have  a mind,  a thought  occurs,  a mind  to  go  to  Metsola,  to  the  foot  of  Brushwood  Town  (Havu-linna),  to  the
 side  of  the  forest  girls,  to  courtyards  of  the  woodland
 maids,  to  drink  the  forest  mead,  to  taste  the  honey  of  the
 woods  in  delightful  Metsola,  in  very  watchful  Tapiola.
@@ -8289,9 +6685,6 @@ body  I protect  with  a jacket  shaggy  at  the  edge,  with  a
 shirt  of  palish  blue,  I brush  my  head  with  twigs  of  fir,
 I comb  it  out  with  juniper,  in  order  that  no  smell  escape,
 no  human  breath  exhale;  I put  my  bow  in  order  and
-
-
-176  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 detach  my  spear,  my  snow-skates  I anoint  with  grease,
@@ -8309,8 +6702,7 @@ b
 
 Ukko  has  rained  fresh  snow,  fine  snow  has  Palvonen
 cast  down,  as  white  as  an  autumn  ewe,  as  white  as  a
-winter  hare ; I,  leaving  men,  start  forth  to  hunt,  quit  full-
-grown  men  for  outdoor  work,  on  Ukko’s  newly-fallen
+winter  hare ; I,  leaving  men,  start  forth  to  hunt,  quit  fullgrown  men  for  outdoor  work,  on  Ukko’s  newly-fallen
 snow,  on  Palvonen’s  fine  snow,  without  the  footprint  of
 a hare,  unbroken  by  a fox’s  track.  First  I make  ready
 with  my  bow,  unloose  my  spear,  address  my  snow-skates
@@ -8331,16 +6723,9 @@ Esthonian  scythe,  my  dogs  have  tails  as  thick  as  the  most
 lovely  forest  fir.
 
 
-FORMULA
-
-
-177
-
-
 c
 
-What  temper  and  what  change  has  come  o’er  the  delight-
-ful hunting-ground  (Metsola)  ? While  tramping,  a maiden  ^
+What  temper  and  what  change  has  come  o’er  the  delightful hunting-ground  (Metsola)  ? While  tramping,  a maiden  ^
 formerly  made  rich  my  tract  of  wood,  she  made  my  beat
 abound  with  game,  my  district  full  of  ruddy  ones.  But
 now-a-days  it  is  not  so,  the  days  when  I go  forth  to  hunt ;
@@ -8374,19 +6759,12 @@ take  by  knavery,  will  take  by  fraud,  I would  not  take  by
 1 i.e.  a forest  maiden,  a nymph  of  the  forest.
 
 
-2
-
-
 M
 
 
-178  THE  MAGIC  SONGS  OF  THE  FINNS
-
-knavery,  I would  not  take  by  fraud,  I ’d  take  with  exces-
-sive work,  I’d  take  with  the  sweat  of  my  brow.  The
+knavery,  I would  not  take  by  fraud,  I ’d  take  with  excessive work,  I’d  take  with  the  sweat  of  my  brow.  The
 gold  of  other  men  indeed  is  not  more  glistening,  their
-silver  not  more  glittering,  their  lumps  of  tin  more  shimmer-
-ing, when  walking  to  the  hunting-grounds ; if  they  offer  an
+silver  not  more  glittering,  their  lumps  of  tin  more  shimmering, when  walking  to  the  hunting-grounds ; if  they  offer  an
 offering,  or  if  they  say  a prayer,  I bring  more  solid  offerings,
 I say  the  best  of  prayers  to  the  donors  that  are  best.
 
@@ -8398,8 +6776,7 @@ fetches  coin,  my  luck  is  lying  down,  my  guardian  spirit  is
 confused,  with  gloves  on  his  hands  beneath  a stone,  with
 a hat  on  his  head  beneath  a bough.  Others  have  better
 breakfasts  too,  more  ample  are  their  morning  meals  and
-wider  are  their  haversacks,  more  voluminous  their  butter-
-box,  it  is  not  so  with  me,  poor  wretch.  Mourning  {suru)
+wider  are  their  haversacks,  more  voluminous  their  butterbox,  it  is  not  so  with  me,  poor  wretch.  Mourning  {suru)
 I have  for  a morning  meal  {suurus\  and  sorrow  for  an
 early  bite,  annoyance  for  an  evening  meal.  The  other
 hunters  are  holier,  more  agreeable  the  other  men,  clinking
@@ -8421,9 +6798,6 @@ game,  in  the  season  for  seeking  game,  three  forts  in  the  forest
 FORMULiE
 
 
-179
-
-
 lay,  the  one  of  wood,  the  other  bone,  the  third  was  a fort  of
 stone.  I took  a glance  at  them  inside  as  I stood  at  the  foot
 of  the  wall ; there  the  givers  of  gifts  abode,  the  mistresses
@@ -8443,8 +6817,7 @@ pearls.  The  kindly  mistress  then,  the  pleasant  mistress
 of  the  woods  was  well  disposed  to  give  her  gifts,  indulgent
 with  her  largesses.
 
-’Twas  different  then  and  yesterday,  ’tis  different  now-
-a-days : Halli  was  barking  along  the  swamp,  myself  was
+’Twas  different  then  and  yesterday,  ’tis  different  nowa-days : Halli  was  barking  along  the  swamp,  myself  was
 walking  along  the  hill,  I skated  towards  the  forest’s
 edge  and  Tapio’s  farm  was  visible,  the  golden  doors
 were  shining  bright  across  the  northern  swamp,  from  the
@@ -8481,8 +6854,7 @@ Fire ! formed  by  God,  O Flame,  by  the  Creator  made,
 to  the  depths  thou  wentest  causelessly,  quite  far  for
 amusement’s  sake,  when  thou  didst  rise  in  the  woods
 just  now  and  attack  a clump  of  junipers;  better  thou
-dost  if  thou  returnest  to  an  oven  of  stone,  confinest  thy-
-self among  thy  sparks,  concealest  thyself  among  thy  coals,
+dost  if  thou  returnest  to  an  oven  of  stone,  confinest  thyself among  thy  sparks,  concealest  thyself  among  thy  coals,
 to  be  used  by  day  with  the  kitchen’s  birchen  logs,  to  be
 hid  by  night  in  the  hollow  of  a golden  hearth.  If  thou
 payest  no  heed  thereto,  then  turn  away,  return  elsewhere,
@@ -8494,9 +6866,6 @@ slowly  down  by  the  margin  of  the  icy  tarn,  rime-covered
 hares  skip  here  and  there,  ice-covered  bears  trot  round  my
 home,  on  both  sides  of  my  dwelling-house,  they  will  destroy
 thee  out  and  out,  will  altogether  ruin  thee.
-
-
-FORMULA
 
 
 i8i
@@ -8577,8 +6946,6 @@ burn,  thy  paws  get  scorched.’
 Into  the  fire  he  plunged  Sharp  Frost,  into  an  oven  built
 
 
-FORMULA  183
-
 of  stone ; Sharp  Frost,  the  son  of  Puhuri,  already  felt  the
 approaching  harm  and  swore  his  solemn  oath  :
 
@@ -8614,9 +6981,6 @@ shore  of  the  northern  sea,  on  the  boundless  sea’s  steep
 side.  On  the  first  night  immediately  he  made  the  shores
 congeal  with  ice,  but  still  he  could  not  freeze  the  sea,  he
 did  not  still  the  open  sea ; a little  bullfinch  on  the  main.
-
-
-1 84  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 a wagtail  on  the  waves  had  its  claws  untouched  by  cold,  its
@@ -8655,12 +7019,6 @@ Kalevala,  where  Ahti  Lemminkainen  and  Tiera  are  described  as  starting
 off  in  a boat  to  make  war  with  the  people  of  Pohjola.
 
 2 An  epithet  of  Luonnotar,  § 185,  b.  c.
-
-
-FORMULA
-
-
-185
 
 
 d
@@ -8702,8 +7060,7 @@ golden  withered  grass.  O bird  of  Lempo,  thither  fly,  fly
 i86  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
-far  away  with  flapping  wings  to  murky  Pohjola,  to  Lap-
-land’s gloomy  forest  depths.  There  an  elk  is  hung  upon
+far  away  with  flapping  wings  to  murky  Pohjola,  to  Lapland’s gloomy  forest  depths.  There  an  elk  is  hung  upon
 a spar,  a noble  reindeer  has  been  killed  and  boneless  flesh
 is  there,  calves  of  the  leg  quite  sinewless  for  a hungry  man
 to  eat,  for  a voracious  one  to  gulp.
@@ -8714,8 +7071,7 @@ a
 O Rust,  thou  screaming  boy,  thou  screaming,  squealing
 one,  a brat  both  fatherless  and  motherless,  a mouthless,
 eyeless  progeny,  why  didst  thou,  toad,  from  the  earth
-arise,  why  earnest  from  the  mossy  swamp  upon  my  food-
-producing  herbs,  into  my  field,  thou  heathen  brat  ? Rust !
+arise,  why  earnest  from  the  mossy  swamp  upon  my  foodproducing  herbs,  into  my  field,  thou  heathen  brat  ? Rust !
 quit  my  vegetables  now,  O Enemy,  my  crops,  depart,
 wretch,  whither  I command,  the  further  off  the  better  too.
 
@@ -8742,20 +7098,13 @@ castraters  speak  with  buzzing  sound.  If  I a gelder  should
 be  called,  if  a quacksalver  I be  termed,  as  a castrater  am
 
 
-FORMULA
-
-
-187
-
 abused,  am  as  a wizard  dragged  away,  at  all  events  in  any
 case  the  stallion  must  be  seized,  the  ‘precious  hide’
-must  be  upset  upon  the  honeyed  grass,  upon  the  liver-
-coloured  earth.  When  I let  my  lasso  fall  on  the  neck  of
+must  be  upset  upon  the  honeyed  grass,  upon  the  livercoloured  earth.  When  I let  my  lasso  fall  on  the  neck  of
 the  ‘camel’  colt,  when  I throw  the  noble  horse,  press  to
 the  ground  the  splendid-tailed,  come  some  one  from  the
 clouds  to  hold,  and  hold  the  unruly  horse,  lest  it  should  kick
-my  knee,  should  smash  my  shins.  Stand  now  on  a cleared-
-out  spot,  remain  on  a bed  of  luck,  here  thou  must  stay  a
+my  knee,  should  smash  my  shins.  Stand  now  on  a clearedout  spot,  remain  on  a bed  of  luck,  here  thou  must  stay  a
 little  while,  for  a short  space  must  be  engaged;  don’t
 wince,  don’t  knock  about,  do  not  in  all  directions  kick
 at  the  light  clink  of  ‘ honeyed  grass,’  at  the  scratching  of  a
@@ -8796,8 +7145,7 @@ waters,  toad,  of  sorcerers,  into  the  muddy  clay,  thou  frog,
 into  the  dirty  miry  pools,  into  the  mossless  swamps.  If
 thou  raise  thy  head  from  there,  may  thy  shins  be  smashed,
 thy  thighs  be  rent,  may  thy  marrow  be  withdrawn  from
-which  an  ointment  will  be  cooked,  and  unguents  be  pre-
-pared.
+which  an  ointment  will  be  cooked,  and  unguents  be  prepared.
 
 § 98.  To  Drive  away  Rain.
 
@@ -8821,13 +7169,9 @@ account,  lest  any  rock  should  touch,  a bank  of  sand  should
 split  it  through.  So  a man  who  goes  to  the  wars,  a careful
 
 
-FORMULA
-
-
 i8g
 
-fighting-man  equips  himself  in  coats  of  mail,  invests  him-
-self in  iron  shirts,  lest  lead  should  strike  the  man,  an  iron
+fighting-man  equips  himself  in  coats  of  mail,  invests  himself in  iron  shirts,  lest  lead  should  strike  the  man,  an  iron
 ball  should  give  a blow.  On  this  account  I too,  a man,
 a full-grown,  valiant  fighting-man  with  my  father’s  fiery
 furs,  with  my  mother’s  shirt  of  flame,  array  myself,  I put
@@ -8864,8 +7208,6 @@ a mare’s  foal  wanders  not.  Run,  ‘hairy  snout,’  hurry
 along,  ‘Esthonian  cur,’  so  long  as  thou  hast  on  thy  toes
 
 
-190  THE  MAGIC  SONGS  OF  THE  FINNS
-
 a claw,  in  thy  gums  a tooth.  Thither  I exorcise  thee
 forth,  to  the  deeply-wooded  mountain  tops,  to  the  home  of
 the  forest  dog,  to  the  place  of  the  pagan  of  the  earth,  so
@@ -8881,8 +7223,7 @@ Here  let  the  hares  remain,  here  let  the  birdies  fly.
 I speak  with  unsullied  mouth,  with  the  Lord’s  good
 breath,  with  his  fervid  breath  I pant.  A bee  some  honey
 brought,  fetched  virgin  honey  on  its  wings  from  behind
-nine  seas  and  stroked,  as  with  a honeyed  plume,  this  bene-
-ficial salt.
+nine  seas  and  stroked,  as  with  a honeyed  plume,  this  beneficial salt.
 
 § 102.  For  Health.
 a
@@ -8900,12 +7241,6 @@ breath  that  I exhale,  that  breath  is  the  breath  of  the  Lord,
 the  warmth  that  I send  forth,  that  warmth  is  the  Creator’s
 
 1 From  the  length  of  time  he  has  been  ill.
-
-
-FORMULA
-
-
-191
 
 
 warmth.  Whom  I with  water  wash,  I wash  with  Jesus’
@@ -8986,9 +7321,6 @@ to  sway  ? Thus  then  my  father  sang,  my  parent  knew  the
 FORMULAE
 
 
-193
-
-
 way  to  sing : ‘ Good  Water  ! draw  a traveller,  on  a journey
 bent ; Wind  ! cause  the  sloop  to  sway ; Wave ! drive  along
 the  ship;  Wind ! blow  upon  the  sail,  cold  vernal  wind ! —
@@ -9030,9 +7362,6 @@ sea,  upon  the  wide  and  open  main.
 N
 
 
-194  the  magic  songs  OF  THE  FINNS
-
-
 c
 
 When  I am  starting  on  the  sea,  upon  the  wide  and  open
@@ -9047,8 +7376,7 @@ foaming  surge,  while  passing  the  projecting  rocks.
 
 d
 
-A red  boat  glides  along,  a wooden  skiff  from  the  north-
-west, from  a great  distance  comes  im  sight,  three  men  are
+A red  boat  glides  along,  a wooden  skiff  from  the  northwest, from  a great  distance  comes  im  sight,  three  men  are
 in  the  boat.  Which  of  them  pulls  the  oars  ? The  rower
 is  Ilmarinen.  Which  plies  the  steering  oar?  Old
 Vainaimoinen  he  himself.  Who’s  in  the  centre  of  the
@@ -9069,11 +7397,6 @@ with  an  oak,  I cut  a honeyed  ‘ aspen  tree  ’ from  a honeyed
 knoll,  from  a hillock  of  gold.  Then  I addressed  my  tree,
 mine  oak  did  I interrogate : ‘ O honeyed  tree  in  Metsola,
 
-
-FORMULA
-
-
-195
 
 sweet  honeyed  tree  in  Tapiola,  is  any  honey  on  thy  boughs,
 is  virgin  honey  in  thy  stem,  for  golden  game  to  eat,  for
@@ -9110,16 +7433,12 @@ on  the  ground  she  milked  her  milk,  she  caused  her  breasts
 1 The  small  spars  or  twigs  forming  part  of  the  snare  or  trap.
 
 
-196  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
 to  flow  in  streams,  therefrom  have  ointments  been  obtained,
 to  be  applied  upon  a sore,  to  be  poured  upon  a wound.
 
 d
 
-The  Virgin  Mary,  mother  dear,  the  holy  little  serving-
-maid,  sits  on  the  surface  of  the  sea,  on  her  hand  is  a
+The  Virgin  Mary,  mother  dear,  the  holy  little  servingmaid,  sits  on  the  surface  of  the  sea,  on  her  hand  is  a
 golden  ring,  on  the  ring  six  horns,  at  the  tip  of  every  horn
 a plume,  the  horns  are  full  of  magic  cures,  of  efficacious
 liniments  with  which  she  salved  the  Creator  once,  healed
@@ -9149,9 +7468,6 @@ below,  etc.
 
 1 Probably  bits  of  dead  men’s  bones,  bears’  claws,  stones,  etc.,  such  as
 were  carried  about  by  wizards  and  sorcerers.
-
-
-FORMULA
 
 
 gv  197
@@ -9194,15 +7510,11 @@ Karehetar  was  digging  earth,  with  her  toe  she  was
 grubbing  it  ] from  the  ground  a hornet  rose,  yonder  it  flew
 
 
-198  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
 to  another  place,  ointments  it  brought  from  there,  but  the
 ointments  were  not  good,  they  contained  the  venom  of  a
 snake,  the  itch-causing  fluid  of  an  ant,  the  hidden  evils  of
 a frog,  the  poison  of  a dusky  worm.  A ‘honey-wing’
-came  fluttering,  a bee  some  honey  brought  from  a honey-
-dripping sward,  from  the  edge  of  a honeyed  fleld  and  put
+came  fluttering,  a bee  some  honey  brought  from  a honeydripping sward,  from  the  edge  of  a honeyed  fleld  and  put
 it  into  a copper-sided  vat,  into  a little  golden  cup.  I tried
 it  with  my  tongue,  with  understanding  I tasted  it,  the
 ointment  was  a goodly  one,  an  unusual  magic  cure  to  apply
@@ -9218,8 +7530,6 @@ a tin-bottomed  pot,  in  which  an  ointment  was  being  cooked
 as  a remedy  for  wounds.
 
 
-PRAYERS.
-
 §110.  In  the  Morning.
 
 Welcome!  for  showing  thy  countenance,  for  dawning
@@ -9232,11 +7542,6 @@ very  day  as  well,  bring  as  a gift  on  coming  home,  give  us
 completest  health,  into  our  hands  convey  the  game,  the
 quarry  to  our  thumb’s  tip,  good  luck  to  our  hook’s  point ;
 
-
-PRAYERS
-
-
-199
 
 go  on  thy  circuit  pleasantly,  conclude  the  journey  of  the
 day,  at  eve  attain  to  happiness.
@@ -9271,11 +7576,7 @@ jealous  by  jealous  folk.
 § 1 14.  Against  Toothache.
 a
 
-Come,  boy,  from  Pohjola,  boy  of  the  north,  and  iron-
-kneed,  to  grind  this  Hiisi,  this  Juntas  crush.  String  a fiery
-
-
-2 00  THE  MAGIC  SONGS  OF  THE  FINNS
+Come,  boy,  from  Pohjola,  boy  of  the  north,  and  ironkneed,  to  grind  this  Hiisi,  this  Juntas  crush.  String  a fiery
 
 
 bow,  draw  a copper  crooked  bow  with  a fiery  string  ’gainst
@@ -9285,8 +7586,7 @@ fiery  bow ; shoot  with  it  ‘ Tuoni’s  grub,’  fell  the  bone-biter
 with  a bang,  shoot  through  the  teeth  the  eater  of  bone,
 the  biter  of  flesh,  that  it  cease  to  eat,  to  crunch,  to  fret,
 to  gnaw,  that  ‘ Hiisi’s  cat  ’ cease  shattering,  that  ‘ Lempo’s
-dog  ’ cease  tearing  up,  cease  ravaging  the  jaws,  cease  hack-
-ing down  the  teeth.
+dog  ’ cease  tearing  up,  cease  ravaging  the  jaws,  cease  hacking down  the  teeth.
 
 
 b
@@ -9315,12 +7615,6 @@ cease  to  eat  and  gnaw,  that  he  cease  to  bite  and  bore,  that
 poor  cheek-bones.
 
 
-PRAYERS
-
-
-201
-
-
 § 1 15.  For  Horses.
 
 a
@@ -9331,8 +7625,7 @@ one  on  the  yard,  from  under  a lovely  shed,  from  under  a
 double  roof,  to  the  summer  grazing-grounds,  to  the  summer
 sheltered  spots,  to  the  honey-dropping  sward,  to  the
 honeyed  grassy  knolls.  Let  it  stay  happily  at  the  edge
-of  a holy  field,  to  delight  me  in  the  afternoon,  in  the  fore-
-noon to  make  me  pleased.
+of  a holy  field,  to  delight  me  in  the  afternoon,  in  the  forenoon to  make  me  pleased.
 
 b
 
@@ -9351,17 +7644,13 @@ a brace,  I ’ll  sternly  make  request  for  three.
 
 c
 
-0 Iki  Tiera  \v.  Hiki  Tiera],  Niera’s  [Miera’s]  son,^  snow-
-hoofed  2 and  bony-hoofed,  pray  come  to  keep  watch  close
+0 Iki  Tiera  \v.  Hiki  Tiera],  Niera’s  [Miera’s]  son,^  snowhoofed  2 and  bony-hoofed,  pray  come  to  keep  watch  close
 
 1 In  the  first  edition  of  the  Kalevala  R.  21,  259,  there  is  another  variant
 — Iki  Liera,  son  of  Tiera.
 
 2 Probably  with  allusion  to  tiera,  ‘ the  lump  of  snow  that  forms  under
 the  feet  in  walking.’
-
-
-202  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 at  hand,  to  overlook  most  carefully  when  I send  out  a
@@ -9390,21 +7679,13 @@ being  betrothed,  unenvied  by  the  envious,  by  an  evil  wisher
 undisturbed  ?
 
 From  yonder  person  I ask  for  help,  from  yonder  woman
-I cry  for  aid : from  the  gravel,  bony-fingered,  rise,  steel-
-jawed,  from  the  muddy  strand,  from  the  spring,  O maiden,
+I cry  for  aid : from  the  gravel,  bony-fingered,  rise,  steeljawed,  from  the  muddy  strand,  from  the  spring,  O maiden,
 rise,  ‘blue-socks,’  from  a corner  of  the  swamp.  If  thou
 no  leisure  hast  thyself,  the  uprightest  of  thy  lassies
 send,  the  best  of  all  thy  serving-maids  to  cover  up  this
 family,  this  bridal  party  to  conceal.  O woman  {kave)^  old
 
-1 The  best  man,  the  leader  of  the  procession  and  master  of  the  cere-
-monies, is  here  speaking.
-
-
-PRAYERS
-
-
-203
+1 The  best  man,  the  leader  of  the  procession  and  master  of  the  ceremonies, is  here  speaking.
 
 
 wife  Luonnotar,  thou  darling  woman  {have)  and  beautiful,
@@ -9444,11 +7725,7 @@ spook  {kamulaintfi\  to  break  the  devilish  weather  up,  to
 trample  down  roads  broken  up,  while  I am  travelling  by
 
 
-204  the  magic  songs  of  the  FINNS
-
-
-land,  or  I on  the  water  row,  am  on  the  mountains  wander-
-ing or  roving  o’er  low-lying  ground.  Should  some  one
+land,  or  I on  the  water  row,  am  on  the  mountains  wandering or  roving  o’er  low-lying  ground.  Should  some  one
 stand  across  the  path,  send  him  aside ; if  a snake  should
 lie  along  the  road,  break  it  in  two  at  once ; if  there  are
 trees  or  fallen  trees,  shove  them  aside,  if  logs  are  on  my
@@ -9475,17 +7752,10 @@ O Tapio’s  daughter,  Lumikki,  thy  snow-white  creatures
 {lumikki)  stir,  release  thy  ‘gold’^  to  wander  forth,  thy
 ‘ silver  ’ ^ to  rove  around ; turn  hither  a ‘ bandy  legs,’  a
 ‘ slender  paws  ’ to  the  centre  here,  under  the  firmament  of
-air,  towards  a man  in  search  of  it,  towards  a stately  full-
-grown  man,  towards  one  of  a woman  born.  If  from  the
+air,  towards  a man  in  search  of  it,  towards  a stately  fullgrown  man,  towards  one  of  a woman  born.  If  from  the
 track  it  turn  away,  from  its  furrow  it  diverge,  by  the  tail
 just  pull  it  on  the  track,  or  by  the  ears  just  set  it  right,  let
 1 Wild  animals,  game.
-
-
-PRAYERS
-
-
-205
 
 
 it  run  with  rapidity,  let  it  hurry  with  hasty  foot^  without  a
@@ -9536,8 +7806,7 @@ a
 Foam-mantled  Ahti  \v,  Ahto]  of  the  sea ! reed-bearded
 old  man  of  the  sea,  throw  over  thee  luck-bringing  clothes,
 put  on  gift-giving  shirts,  at  this  thy  time  for  giving  gifts,
-on  this  my  day  for  catching  fish ; give  me  thy  gift,  abund-
-antly and  promptly  draw  the  crowd  that  fills  the  watery
+on  this  my  day  for  catching  fish ; give  me  thy  gift,  abundantly and  promptly  draw  the  crowd  that  fills  the  watery
 tent,  the  dwellers  underneath  the  wave ; from  sand-banks
 gather  in  the  fish,  the  perch  with  short  and  crooked  necks,
 to  listen  to  the  music  here,  to  Vainainoinen’s  melody.
@@ -9546,8 +7815,7 @@ b
 
 O Ahti  [v.  Ahto],  master  of  the  waves,  the  ruler  of  a
 hundred  caves,  give  me  some  perch,  impel  thy  ‘ spiky-backs,’
-to  where  this  net  is  lifted  out,  to  where  the  ‘hundred-
-eyed ’ is  dropt  j take  a stake  five  fathoms  long,  a pole  of
+to  where  this  net  is  lifted  out,  to  where  the  ‘hundredeyed ’ is  dropt  j take  a stake  five  fathoms  long,  a pole  of
 seven  fathoms  seize,  with  which  to  persecute  the  seas,  to
 stir  the  bottom  of  the  sea,  to  raise  a shoal  of  bony  ones,
 to  frighten  the  fishy  herd  from  the  fishy  bays,  from  the
@@ -9567,12 +7835,6 @@ d
 
 O water’s  golden  king,  damp-bearded  and  with  slouching
 hat,  forget  thy  long  enduring  hate,  thy  long  protracted
-
-
-PRAYERS
-
-
-207
 
 
 niggardness ; come  along  with  me  to  fish,  as  a mate  to  ^
@@ -9619,8 +7881,7 @@ jv  Louhi,  the  mistress  of  Pohjola,  thrust  forth  thy  woolly
 
 game,  close  to  a full-grown  walking  man.  By  the  Maker
 ’twould  be  allowed,  by  the  Creator  be  vouchsafed,  by  Tapio
-be  wished  that  I should  get  big  game,  that  I should  pro-
-strate ‘ honey  paws.  ’
+be  wished  that  I should  get  big  game,  that  I should  prostrate ‘ honey  paws.  ’
 
 When  I am  going  to  the  woods,  to  the  door  of  bruin’s
 room,  pray,  oldest  of  the  island,  say,  speak,  lovely  Taaria,
@@ -9634,8 +7895,7 @@ full-grown  men,  in  a crowd  of  men.’
 O forest  mistress,  Mielikki,  O Tapio’s  daughter,  Annikki,
 O Tapio’s  maiden,  Tellervo,  thou  tiny  little  forest  lass,
 come  hither,  there  is  need  of  thee,  to  the  hill’s  north
-side.  Collar  thy  ‘ dogs,’  ^ restrain  thy  ‘ hounds,’  in  a dog-
-wood sty,  in  an  oaken  shed ; bend  a rowan  band  or  prepare
+side.  Collar  thy  ‘ dogs,’  ^ restrain  thy  ‘ hounds,’  in  a dogwood sty,  in  an  oaken  shed ; bend  a rowan  band  or  prepare
 an  oaken  one  with  which  to  muzzle  bruin’s  mouth,  lest  he
 open  up  his  jaw  while  I am  coming  to  the  shed,  to  the
 court-yard  of  ‘ tiny  eyes,’  to  the  trampled  ground  of  ‘ level
@@ -9653,12 +7913,6 @@ attacked,  a grey  one  from  a sandy  heath,  a ‘ big  foot  ’ from
 the  swamp  has  risen,  a ‘ broad  paws  ’ from  a leafy  grove,  a
 ‘badger’  from  the  earth  has  come,  from  the  copse  an
 I i.e.  bears.
-
-
-PRAYERS
-
-
-209
 
 
 enemy  has  hurried  into  evil  deeds,  has  taken  to  dirty
@@ -9682,8 +7936,7 @@ harm;  Kuitua  \v.  Kuittola],  forest  king,  Hongas,  the
 mistress  benevolent,  keep  in  thy  ‘ dog,’  restrain  thy  ‘ hound  ’
 with  collars  of  gold,  with  silver  straps,  behind  nine  locks,
 ten  bars  that  open  from  behind,  so  that  the  headstrong
-cannot  run,  ‘ broad  brow  ’ can’t  scuffle  with  his  feet,  ‘ home-
-spun  breeks  ’ can’t  roll  along,  ‘ blue  socks  ’ can’t  slowly
+cannot  run,  ‘ broad  brow  ’ can’t  scuffle  with  his  feet,  ‘ homespun  breeks  ’ can’t  roll  along,  ‘ blue  socks  ’ can’t  slowly
 plod  to  places  where  my  cattle  range,  to  my  bullocks’
 grazing-grounds.
 
@@ -9698,13 +7951,7 @@ stick  a mushroom  up  one  nostril  and  an  apple  up  the
 other  one,  lest  the  cattle’s  breath  give  forth  a smell,  the
 
 
-2
-
-
 o
-
-
-210  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 scent  of  the  cattle  should  be  exhaled ; over  his  eyes  bind
@@ -9717,8 +7964,7 @@ art  summoned  here,  the  evil  actions  of  thy  son,  thy  child’s
 outrageous  deeds  to  see.  Here  damage  has  come  to  pass,
 an  accident  occurred,  thy  son  has  done  an  evil  deed,  thy
 child  an  act  of  villany ; the  villain  broke  his  oath,  ate  his
-honour  like  a dog,  when  he  took  to  evil  acts,  began  com-
-mitting hideous  deeds.
+honour  like  a dog,  when  he  took  to  evil  acts,  began  committing hideous  deeds.
 
 § 123.  To  Benefit  Cattle.
 a
@@ -9741,9 +7987,6 @@ lassie  looks,  a mistress  who  is  good  for  nought,  a witless
 herding-lass.
 
 
-PRAYERS
-
-
 2II
 
 
@@ -9752,8 +7995,7 @@ b
 0 Jesus  consecrate  my  flock,  watch,  Jesus,  o’er  my  herd,
 this  summer  of  Jesus,  this  important  summer-time  of  God,
 when  from  the  cowhouse  I discharge,  send  forth  my  kine
-to  the  leafy  grove,  drive  out  my  cattle  to  the  heath,  con-
-duct them  to  great  wooded  tracts,  along  the  ‘ yard  of  God,’  ^
+to  the  leafy  grove,  drive  out  my  cattle  to  the  heath,  conduct them  to  great  wooded  tracts,  along  the  ‘ yard  of  God,’  ^
 along  the  ground  of  Mary  dear,  to  ‘ cattle-sheds  without  a
 hole  and  windowless.’ ^ Ukko,  the  golden  king,  the  god
 that  in  the  sky  abides,  come  watch  my  herd  beautifully  all
@@ -9764,12 +8006,10 @@ them  among  the  firs,  rule  over  them  near  boughs  of  pine.
 
 c
 
-King  of  the  forest,  Kuitua,  Hongas,  the  mistress  be-
-nevolent, daughter  of  Tapio,  Tellervo,  thou  tiny  little
+King  of  the  forest,  Kuitua,  Hongas,  the  mistress  benevolent, daughter  of  Tapio,  Tellervo,  thou  tiny  little
 forest  lass,  when  I send  out  my  cows  to  the  delightful
 Metsola,  set  a shepherd  of  willow  wood,  tall  lassies  of
-mountain-ash,  cow-watchers  of  alder  wood,  of  wild  bird-
-cherry  to  drive  them  home,  without  a shepherd’s  driving
+mountain-ash,  cow-watchers  of  alder  wood,  of  wild  birdcherry  to  drive  them  home,  without  a shepherd’s  driving
 them,  without  a herding-lassie’s  care.
 
 d
@@ -9783,9 +8023,6 @@ bitter  cold  shall  hurt  it  not.
 
 
 1 i.e.  out  in  the  open  air.
-
-
-212  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 e
@@ -9805,8 +8042,7 @@ of  my  Hermikki,  augment  the  yield  of  my  Tuorikki,  wilt
 feed  them  with  honeyed  food,  wilt  treat  them  to  honeyed
 grass  from  verdant  knolls,  from  honeyed  turf,  wilt  feed
 with  golden  withered  grass,  with  silver  heads  of  grass,  from
-golden  knolls,  from  silver  wastes ; water  my  cattle  after-
-wards, water  them  well  with  honeyed  drink  from  pools  of
+golden  knolls,  from  silver  wastes ; water  my  cattle  afterwards, water  them  well  with  honeyed  drink  from  pools  of
 whey,  from  gushing  springs,  from  foaming  cataracts,  from
 running  streams,  that  never  fail  from  age  to  age,  that
 never  come  to  an  end  at  all.
@@ -9824,12 +8060,6 @@ S
 
 Forest  Nikki  [v.  Hitsi],  forest  Nakki  [zf.  Hatsi],  of  the
 forest  the  golden  king,  grey-bearded  and  with  a mossy
-
-
-PRAYERS
-
-
-213
 
 
 cap!  thou  kindly  mistress  of  the  woods,  fair  woman  of
@@ -9869,9 +8099,6 @@ Ho ! Ukko,  lord  on  high,  the  mighty  father  of  the  sky,
 that  livest  in  luck,  in  a bright  and  pleasant  residence,  make
 
 
-214  the  magic  songs  of  the  FINNS
-
-
 the  summers  beautiful,  make  pleasant  the  leafy  groves,
 make  exquisite  the  abandoned  fields,  make  the  morasses
 placable,  cause  the  forests  to  be  amiable,  make  the  blue
@@ -9893,8 +8120,7 @@ of  Manala  down  its  throat.
 
 k
 
-Thou  son  of  Tapio,  Nyyrikki,  blue-mantled  son  of  under-
-wood, cut  marks  on  rowan  trees,  landmarks  on  mountain
+Thou  son  of  Tapio,  Nyyrikki,  blue-mantled  son  of  underwood, cut  marks  on  rowan  trees,  landmarks  on  mountain
 clefts  by  which  my  herd  can  go,  my  property  can  find  its
 way.  Place  tall  and  thick-stemmed  pines,  broad-headed
 firs  with  branching  crowns  as  bridges  over  miry  spots,  as
@@ -9907,9 +8133,6 @@ their  sticking  in  the  mire.
 
 
 1 Turf  smoke  made  to  keep  flies  away  from  the  cattle  at  night.
-
-
-PRAYERS
 
 
 . *
@@ -9945,8 +8168,7 @@ move,  in  their  fists  a quill  should  fit.
 § 125.  To  Incite  a Dog.
 
 Louhi,  mistress  of  Pohjola,  distinguished  woman,  Penitar,
-from  thy  ‘son’  remove  impediments,  from  the  ‘money-
-seeker,’  all  obstacle ; let  the  pup  give  tongue,  the  dog  bark
+from  thy  ‘son’  remove  impediments,  from  the  ‘moneyseeker,’  all  obstacle ; let  the  pup  give  tongue,  the  dog  bark
 openly,  remove  the  stoppage  from  its  nose,  the  block  across
 
 
@@ -9981,20 +8203,13 @@ family  to  close  the  mouth  of  a dog,  to  plug  the  nozzle  of  a
 whelp.  Bind  silk  across  its  eyes,  tie  a bandage  round  its
 ears,  a mushroom  up  one  nostril  thrust,  an  apple  up  the
 other  one,  lest  it  should  scent  the  breath  of  man,  perceive
-the  smell  of  a full-grown  man,  lest  it  should  hear  a passer-
-by, lest  it  should  see  a wanderer.
+the  smell  of  a full-grown  man,  lest  it  should  hear  a passerby, lest  it  should  see  a wanderer.
 
 c
 
 O Hiisi  [v.  Juntas],  shut  the  dog’s  mouth  up.  Tempo  \v.
 Perkele],  the  jawbone  of  the  dog,  fetch,  Hiisi,  thy  tall  hat.
 Tempo,  thy  broad-brimmed  cap  with  which  to  stop  the
-
-
-PRAYERS
-
-
-217
 
 
 puppy’s  nose,  to  bung  its  ‘ scenting-channel  ’ up.  Place  a
@@ -10074,12 +8289,6 @@ Pain-maiden  ! Aijo’s  girl,  come  here  where  there  is  need
 of  thee,  holding  a cup  of  pain,  with  a box  of  torments  ’neath
 
 
-PRAYERS
-
-
-219
-
-
 thine  arm,  to  garner  up  the  pains,  to  gather  up  the  suffe^
 ings  into  a little  speckled  cup,  into  a little  copper  box,"'to
 dash  them  down  into  a stream,  full  tilt  into  the  humid  sea
@@ -10087,8 +8296,7 @@ to  generate  their  kind,  to  bring  their  children  forth.
 
 c
 
-Good  mistress,  Kivutar,  distinguished  woman,  Vam-
-motar,  take  from  the  Maker’s  mouth  a plume,  a wing
+Good  mistress,  Kivutar,  distinguished  woman,  Vammotar,  take  from  the  Maker’s  mouth  a plume,  a wing
 from  Vainaimoinen’s  belt,  and  sweep  away  the  awful
 (F.  holy)  ‘sparks,’  cause  the  awful  (F.  holy)  wounds  to
 disappear.  Put  the  pains  inside  thy  glove,  the  grievous
@@ -10116,9 +8324,6 @@ Lovely  old  wife  of  pain ! good  mistress,  Kivutar,  come
 here  where  there  is  need  of  thee,  where  a man  is  crying
 
 
-2 20  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
 in  distress.  Thou  art  not  summoned  causelessly,  thou
 art  not  wished  for  needlessly.  Come  to  see  the  sufferings,
 to  seize  the  pains,  to  make  the  torment  cease,  to  still  the
@@ -10126,20 +8331,17 @@ smarts  in  a poor  human  being’s  skin,  in  the  body  of  a
 mother’s  son.  In  a bundle  wrap  the  pains,  in  a packet —
 the  grievous  aches,  take  the  bundle  to  a stony  cleft,  the
 torments  to  a mountain  rift,  to  the  cellar  of  pains,  to  the
-room  of  sufferings,  inside  a bluish  stone,  inside  a liver-
-coloured  chink,  where  they  will  ne’er  be  heard  of  more,
+room  of  sufferings,  inside  a bluish  stone,  inside  a livercoloured  chink,  where  they  will  ne’er  be  heard  of  more,
 whence  they  will  never  more  escape.
 
 /
 
 O Virgin  Mary,  mother  dear,  beloved  mother,  merciful,
-come  here  in  thy  fleet  shoes,  in  thy  fine  skirts  come  flutter-
-ing, in  thy  white  stockings  wander  forth,  in  thy  black
+come  here  in  thy  fleet  shoes,  in  thy  fine  skirts  come  fluttering, in  thy  white  stockings  wander  forth,  in  thy  black
 socks  march  proudly  here  to  seize  the  pains,  to  remove
 the  plagues,  from  spell-brought  troubles  to  release,  to
 remove  the  spell-wrought  injuries.  Into  the  water  roll
-the  pains,  plunge  them  down  to  the  ocean  depths,  appor-
-tion torments  to  the  wind,  give  them  to  chilly  wind,  so
+the  pains,  plunge  them  down  to  the  ocean  depths,  apportion torments  to  the  wind,  give  them  to  chilly  wind,  so
 that  the  sick  may  get  to  sleep,  the  weakly  man  may  find
 repose.
 
@@ -10157,8 +8359,6 @@ crying  out,  while  the  man  in  pain  bewails  himself.
 t
 
 
-PRAYERS  221
-
 h
 
 O Hiisi,  come  from  Hiitola  [v.  Rise  Hiisi  from  Hell],
@@ -10168,8 +8368,7 @@ sons  and  thy  serving-girls,  with  thy  whole  nation  too,
 with  utmost  speed  to  crush,  to  eat  this  evil  thing,  to  lap
 this  monstrous  evil  up.  From  Esthonia  bring  a scythe,
 from  hell  a mowing-iron,  and  put  it  in  my  right  hand,
-with  it  I ’ll  cut  the  evil  thing,  I ’ll  hack  out  this  impedi-
-ment from  the  roaring  man,  from  the  groaning  full-grown
+with  it  I ’ll  cut  the  evil  thing,  I ’ll  hack  out  this  impediment from  the  roaring  man,  from  the  groaning  full-grown
 man.
 
 i
@@ -10193,9 +8392,6 @@ a
 O Ukko,  ‘golden’  king,  the  ‘silver’  governor,  pray
 bring  thy  golden  scraping-knife,  thy  silver  axe,  with  which
 I shall  remove  the  growths,  shall  pull  off  ‘Hiisi’s  filth,’
-
-
-222  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 shall  shear  off  ‘ Lempo’s  lumps  ’ from  the  narrow  muscles
@@ -10236,12 +8432,6 @@ arrive,  lead  water  from  the  sky,  rain  honey,  liquid  honey
 i.e.  by  the  sufferer.  ^ v.  O ruddy  maiden,  Pullitar.
 
 
-PRAYERS
-
-
-223
-
-
 down  on  the  growing  shoots  of  corn,  on  the  rustling
 growing  crops.  '
 
@@ -10273,12 +8463,8 @@ a
 O excellent  woman,  Suvetar,  Nature’s  old  wife,  Etelatar,
 open  the  ground  down  underneath,  bore  holes  through  the
 headlands  of  the  fields,  cause  a honeyed  stream  to  flow,  a
-liquid  honey  brook  to  roll  on  both  sides  of  the  cattle-
-grounds.  Sink  a ‘ golden  ’ well  from  which  the  herd  can
+liquid  honey  brook  to  roll  on  both  sides  of  the  cattlegrounds.  Sink  a ‘ golden  ’ well  from  which  the  herd  can
 drink,  can  suck  up  honeyed  juice  into  their  udders  swollen
-
-
-224  the  magic  songs  of  the  FINNS
 
 
 hard,  into  their  tight-distended  teats,  so  that  the  veins
@@ -10295,10 +8481,8 @@ b
 
 O excellent  woman,  Suvetar,  Nature’s  old  wife,  Etelatar,
 go  now  and  feed  my  Syotikki,  water  as  well  my  Juotikki,
-increase  the  yield  of  Hermikki,  augment  the  milk  of  Tuo-
-rikki,  give  milk  to  Mairikki,  fresh  thickened  milk  to  Omena,
-from  the  splendid  heads  of  grass,  from  the  beautiful  hair-
-grass,  from  verdant  knolls,  from  hillocks  moist  and  fresh,
+increase  the  yield  of  Hermikki,  augment  the  milk  of  Tuorikki,  give  milk  to  Mairikki,  fresh  thickened  milk  to  Omena,
+from  the  splendid  heads  of  grass,  from  the  beautiful  hairgrass,  from  verdant  knolls,  from  hillocks  moist  and  fresh,
 from  the  honey-dropping  sward,  from  ground  begrown  with
 berry  stalks,  from  the  maiden  of  the  heather’s  bloom,  from
 the  maiden  of  the  grass’s  husk,  from  the  milk-daughter  of
@@ -10317,12 +8501,6 @@ quarters  as  a juice,  to  its  original  abode,  its  former  place,
 past  the  evil-wisher’s  mouth,  to  the  well-wisher’s  mouth.
 
 
-PRAYERS
-
-
-225
-
-
 c
 
 Old  wife  of  cattle,  now  arise,  awake,  O haltia  of  kine,
@@ -10336,8 +8514,7 @@ Tuonela.
 , d
 
 Poor  Para ! come  to  life,  butter  and  milk  to  bring.  O
-‘ Stick-shanks  ’ come  to  life,  ‘ stick-shanks  ’ with  the  yarn-
-ball  head,  harden  the  crust  upon  the  milk,  thicken  the  film
+‘ Stick-shanks  ’ come  to  life,  ‘ stick-shanks  ’ with  the  yarnball  head,  harden  the  crust  upon  the  milk,  thicken  the  film
 of  curdled  milk.  Hither,  poor  Para,  come,  to  churn  with
 noisy  platter-dash,  into  fat  work  up  the  milk,  into  yellow
 butter  turn  the  fat,  beat  out  the  very  smallest  drop  so  that
@@ -10353,19 +8530,12 @@ a
 O Jesus,  wash  my  little  girl,  my  ‘wee  snow-sparrow’
 purify  from  women’s  and  from  harlot’s  talk,  from  the
 facetiousness  of  men,  from  the  tattle  of  mustachioed  ones,
-from  the  tattle  of  the  beardless  ones.  Wash  my  ‘snow-
-sparrow’  clean,  make  white  a woman’s  child,  by  washing
+from  the  tattle  of  the  beardless  ones.  Wash  my  ‘snowsparrow’  clean,  make  white  a woman’s  child,  by  washing
 make  her  bloom  for  the  moon,  make  her  sweet  for  the  sun.
 Arouse  to  action.  Love,  cause  her  renown  to  spread,  for
 
 
-2
-
-
 p
-
-
-226  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 men  to  take  a fancy  to,  for  full-grown  men  to  ask  about.
@@ -10384,8 +8554,7 @@ the  silver  cloths  of  lords,  may  she  be  clothed  and  be
 arrayed,  to  gain  the  delight  of  men,  to  be  run  after  by  the
 youths,  to  be  desired  by  wooing  swains,  to  be  observed  by
 every  one,  by  an  important  suitor  to  be  seen,  by  a young
-unmarried  man,  by  man  and  woman  too,  yes,  by  a full-
-grown  married  man.
+unmarried  man,  by  man  and  woman  too,  yes,  by  a fullgrown  married  man.
 
 c
 
@@ -10394,10 +8563,8 @@ arise  to  awaken  Love,  to  cause  Renown  to  blossom  forth ;
 Now  is  the  time  for  Love  to  move,  time  for  Renown  to
 blossom  forth.  O free  the  lass  from  spell-wrought  harm,
 from  village  people’s  powerful  words,  from  tittle-tattle,
-jabbering,  from  machinations  of  old  hags.  Break  off  a bath-
-switch,  in  a copse,  in  honeyed  Metsola,  close  to  three  rapids,
-from  the  highest  birchen  trees ; cut  up  a tree  of  mountain-
-ash,  break  into  bits  the  ‘ murder  ’ tree ; ^ stealthily  heat  a
+jabbering,  from  machinations  of  old  hags.  Break  off  a bathswitch,  in  a copse,  in  honeyed  Metsola,  close  to  three  rapids,
+from  the  highest  birchen  trees ; cut  up  a tree  of  mountainash,  break  into  bits  the  ‘ murder  ’ tree ; ^ stealthily  heat  a
 bath,  hurriedly  prepare  the  fire,  cause  nature’s  steam  to
 rise,  a love-inspiring  steam  to  float  through  the  stony  stove,
 through  the  heated  roof-ridge  beam ; soften  a honeyed  bath-
@@ -10406,15 +8573,8 @@ through  the  heated  roof-ridge  beam ; soften  a honeyed  bath-
 § 212,  i.  The  Zirians  call  it  the  sos-pu,  ' the  dirty  or  abominable  tree.’
 
 
-PRAYERS
-
-
-227
-
-
 switch  well  on  a honeye(J  flattish  stone,  a bottle  of  pure
-water  fetch,  bring  some  of  golden  hue,  wherewith  ‘bull-
-finch ’ shall  wash  herself,  the  ‘ wee  snow-sparrow  ’ cleanse
+water  fetch,  bring  some  of  golden  hue,  wherewith  ‘bullfinch ’ shall  wash  herself,  the  ‘ wee  snow-sparrow  ’ cleanse
 herself,  the  ‘village  flower’  shall  scour  herself,  ‘earth’s
 chosen  one  ’ shall  wash  her  white,  to  get  well  thought  of
 by  the  men,  to  be  desired  by  wooing  swains.  Hither  let
@@ -10447,9 +8607,6 @@ to  turn  the  minds  of  men,  to  set  on  fire  their  hearts,  draw
 them  towards  this  girl,  to  this  child’s  side,  till  their  senses
 
 
-228  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
 fume  like  honey  and  blaze  up  like  a fire.  Let  come  from  far
 away,  let  hurry  from  remoter  parts  the  best  of  the  throng
 of  lads,  the  smartest  of  the  lot,  to  this  young  maiden’s
@@ -10463,8 +8620,7 @@ the  pool,  to  be  a darling  woman’s  help,  the  comrade  of  a
 famous  wife.  Arise  and  water  fetch,  some  water  from  the
 spring  of  Love  \v.  of  Vento].  Pray  give  me  water  as  a
 loan  for  ever,  for  as  long  as  the  moon  sheds  a golden  light,
-with  which  I shall  my  ‘ bullfinch  ’ wash,  my  wee  ‘ snow-
-sparrow’  purify,  shall  beautify  ‘earth’s  chick,’  make  her
+with  which  I shall  my  ‘ bullfinch  ’ wash,  my  wee  ‘ snowsparrow’  purify,  shall  beautify  ‘earth’s  chick,’  make  her
 luxuriant  in  form  and  beautiful  of  countenance,  make
 bright  her  eyes,  make  her  temples  bloom,  make  nice  her
 breasts,  make  her  bosom  full,  to  be  observed  by  all,  to
@@ -10485,12 +8641,6 @@ tarry  rope,  to  turn  men’s  inclinations,  to  dispose  their
 thoughts,  to  set  on  fire  their  hearts,  to  make  their  bellies
 seethe,  their  hearts  to  flicker  like  a flame,  to  sparkle  like  a
 spark  and  that  it  shall  not  cease  at  night,  shall  not  diminish
-
-
-PRAYERS
-
-
-229
 
 
 in  the  dark.  O Love,  arise  to  dance  about,  to  vibrate  like
@@ -10527,9 +8677,6 @@ tremulous,  his  nails  begin  to  itch,  his  hands  to  scratch,  so
 was  recited.
 
 
-230  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
 that  he  get  no  sleep  at  night,  and  no  repose  at  all  by  day,
 unless  he  see  our  darling  maid,  and  make  acquaintance
 with  the  girl.
@@ -10539,8 +8686,7 @@ with  the  girl.
 Poke,  evil  one,  thy  twirling  stick,  Hiisi ! — thy  pole  for
 
 stirring  coals  between  the  pair  of  loving  ones  ; may  an  icy
-stone  from  ’neath  the  earth,  may  the  sultriness  of  Christmas-
-tide  begin  to  freeze  their  hearts,  to  give  their  inward  parts
+stone  from  ’neath  the  earth,  may  the  sultriness  of  Christmastide  begin  to  freeze  their  hearts,  to  give  their  inward  parts
 a chill,  that  from  each  other  they  shall  part  and  one
 
 another  shall  not  know,  shall  neither  know  nor  recognise
@@ -10567,12 +8713,6 @@ a
 
 O golden  forest-king,  the  feather-hatted  woodland  lord  !
 Kind  forest-mother  that  givest  gifts,  old  mistress  of  the
-
-
-PRAYERS
-
-
-231
 
 
 feathered  flock ! O tiny  little  forest  maid,  the  fair-cheeked
@@ -10614,9 +8754,6 @@ Have  promptly  loaded  it  with  shot.
 epithet.
 
 
-232  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
 copperheaded  one,  from  the  coppice  chase  the  birds  and
 drive  them  from  the  abandoned  fields  to  flutter  with  a
 whirring  sound,  till  for  their  wings  there  is  no  place.  May
@@ -10628,8 +8765,7 @@ snares.
 
 c
 
-Laaus,  the  master  of  Pohjola ! grant  me  to  take  a full-
-grown  bird^  from  these  clean  sticks,  from  the  whitened
+Laaus,  the  master  of  Pohjola ! grant  me  to  take  a fullgrown  bird^  from  these  clean  sticks,  from  the  whitened
 twigs, ^ as  a present  for  the  folk  at  home.  I B give  thee
 thanks  for  it,  I ’ll  bow  before  the  famous  man,  for  it  extol
 thy  worthiness,  if  thou  wilt  give  a full-grown  bird^  as  a
@@ -10658,11 +8794,6 @@ the  night  on  the  eve  of  St.  Michael’s  day  in  autumn.
 5 The  ‘ holy  field  ’ often  means  the  ‘ churchyard.’
 
 
-PRAYERS
-
-
-233
-
 sleep,  may  Jesus  raise  me  up  to  thank  my  God,  to  give
 to  Jesus  praise.
 
@@ -10670,8 +8801,7 @@ to  Jesus  praise.
 
 Dry  land’s  old  wife!  from  the  earth  arise.  Primeval
 Master ! — from  the  field,  in  aid  of  an  only  son,  as  comrade
-of  a famous  man,  to  travel  jollily  with  me,  to  help  un-
-harnessing the  horse,  in  taking  the  collar  off,  and  the  bow
+of  a famous  man,  to  travel  jollily  with  me,  to  help  unharnessing the  horse,  in  taking  the  collar  off,  and  the  bow
 between  the  shafts,  on  the  journey  of  a famous  lad,  during
 the  drive  of  a splendid  man  [v.  wedding  party].
 
@@ -10679,8 +8809,7 @@ the  drive  of  a splendid  man  [v.  wedding  party].
 a
 
 When  for  the  forest  I set  out,  I,  a full-grown  man,
-intend  to  hunt,  O Forest,  take  me  as  thy  man,  as  thy  full-
-grown  man,  O Tapio,  as  arrow-boy,^  O Wilderness,  as  an
+intend  to  hunt,  O Forest,  take  me  as  thy  man,  as  thy  fullgrown  man,  O Tapio,  as  arrow-boy,^  O Wilderness,  as  an
 extra  comrade.  Knoll ! ^ Take  a fellow  to  salute,  to  behold
 the  heavenly  bow,  to  greet  Great  Bear  and  to  eye  the  stars.
 
@@ -10700,9 +8829,6 @@ with  which  I’ll  make  the  Forest  kind,  make  Backwoods
 1 The  boy  that  picks  up  the  arrows  that  have  been  shot.
 
 2 Old  man  of  the  Knoll  is  an  epithet  of  Tapio  and  of  the  bear.
-
-
-234  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 well  disposed  on  my  hunting  days,  at  my  periods  for
@@ -10726,8 +8852,7 @@ O Grove,  be  kind ! be  friendly.  Wilderness ! O blue
 Backwoods,  be  amiable ! that  I may  ramble  through  the
 woods,  may  jostle  through  the  wooded  wilds.  Forest,  be
 friendly  to  my  men  ! Backwoods,  be  kindly  to  my  dogs  !
-be  appeased  by  these  peace-offerings,  by  these  induce-
-ments be  mollified,  with  which  the  Creator  was  appeased,
+be  appeased  by  these  peace-offerings,  by  these  inducements be  mollified,  with  which  the  Creator  was  appeased,
 the  Omnipotent  was  mollified.  Marry  our  men,  introduce
 our  full-grown  men  to  the  pleasant  daughters  of  the  woods,
 to  the  downy-breasted  chicks.  The  eyelashes  of  other
@@ -10741,12 +8866,6 @@ their  narrow  skates,  nor  of  copper  are  their  skating  staffs.
 1 i.e,  wild  animals,  birds,  game  of  any  kind.
 
 
-PRAYERS
-
-
-235
-
-
 The  hunting  dogs  of  other  men  are  not  more  dear  (F.
 golden),  more  dear  or  more  renowned,  than  those  that  our
 men  have.
@@ -10758,8 +8877,7 @@ the  golden  king ! O forest-mistress,  Mielikki ! Miiritar,
 forest-daughter-in-law  ! mount  up  on  a sloping  birch,  ascend
 a bent-down  alder-tree,  to  listen  to  my  songs,  whether  my
 songs  are  suitable.  Gird  the  forests  with  a sword,  place  a
-glaive  in  the  backwoods’  hand,  clothe  the  forest  in  home-
-spun  cloth,  dress  in  German  linen  the  wooded  wilds,  array
+glaive  in  the  backwoods’  hand,  clothe  the  forest  in  homespun  cloth,  dress  in  German  linen  the  wooded  wilds,  array
 in  coats  the  aspen-trees,  the  alder-trees  in  lovely  clothes,
 with  silver  adorn  the  firs,  deck  the  pines  with  gold,  put
 flowers  on  the  heads  of  the  pines,  and  silver  on  the  heads
@@ -10784,9 +8902,6 @@ old  wife  of  the  copse ! red-stockinged  mistress  of  the
 swamp  ! O lovely  being  of  the  heath ! show  me  the  path,
 
 
-236  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
 open  the  door,  proceed  to  indicate  the  path,  to  give
 instructions  for  the  way,  to  set  up  posts  along  the  road
 and  landmarks  make.  O son  of  Tapio,  Nyyrikki,  spruce
@@ -10795,8 +8910,7 @@ side,  establish  landmarks  on  the  hills,  that  I,  though
 stupid,  can  find  the  way,  I,  though  a stranger,  can  repair
 to  the  hunting-grounds  of  other  men,  to  special  woods  of
 full-grown  men.  Make  a slow-footed  man  to  scud,  by  the
-breast  of  his  jacket  lug  him  on,  by  the  hole  of  his  snow-
-skate  shove  him  on,  lead  him  by  the  ferule  of  his  staff
+breast  of  his  jacket  lug  him  on,  by  the  hole  of  his  snowskate  shove  him  on,  lead  him  by  the  ferule  of  his  staff
 across  morasses,  across  firm  land,  across  the  backwoods
 of  Pohjola ; conduct  him  to  a wooded  isle,  transport  him
 to  the  knoll  where  ‘gold’  will  afford  him  sport,  ‘silver’
@@ -10823,12 +8937,6 @@ snowshoeing,  am  slow  at  shoving  along.
 forest  after  game  (Tervo,  p.  3).
 
 
-PRAYERS
-
-
-237
-
-
 O forest-mistress,  Mielikki,  the  mother  with  a lovely
 face,  get  ready  my  reserve,  make  my  allotted  share  leap
 up  in  the  blue  backwoods,  at  the  centre  of  the  ‘ golden  ’
@@ -10837,8 +8945,7 @@ box,  set  free  a drove  to  run  about,  a file  of  animals  to
 skip  before  the  man  in  search  of  them,  at  the  steps  of  him
 that  craves.
 
-If  thou  thyself  be  disinclined,  then  send  thy  serving-
-maids,  direct  thy  thralls,  command  the  obeyers  of  com-
+If  thou  thyself  be  disinclined,  then  send  thy  servingmaids,  direct  thy  thralls,  command  the  obeyers  of  com-
 mands. Thou  art  no  mistress,  so  to  speak,  if  thou  keepest
 no  serving-maids,  keepst  not  a hundred  serving-maids,
 a thousand  that  obey  commands,  that  keep  watch  over
@@ -10864,9 +8971,6 @@ quick  at  galloping,  strike  with  a switch  to  quicken  him,
 1 It  should  be  ‘ Queen,’  as  Kuuritar  is  a feminine  form.
 
 
-238  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
 with  a rope’s  end  give  a thwack,  with  a cock’s  beak  tickle
 him,  and  prod  him  with  a golden  spur.
 
@@ -10883,10 +8987,8 @@ can  work  aright.
 
 k
 
-Old  Ukko  with  the  rumpled  beard,  O hollow  fir  with  fir-
-twig  hat,  pray  come  and  beat  the  wilderness,  make  its
-edges  shake  on  a summer  night,  the  first  afternoon.  Be-
-labour, Ukko,  a young  tree,  make  stumps  resound  with
+Old  Ukko  with  the  rumpled  beard,  O hollow  fir  with  firtwig  hat,  pray  come  and  beat  the  wilderness,  make  its
+edges  shake  on  a summer  night,  the  first  afternoon.  Belabour, Ukko,  a young  tree,  make  stumps  resound  with
 thuds,  with  a fiery  sword,  with  a golden  club.  Drive  out
 the  creatures  to  the  edge,  to  the  openest  abandoned  fields,
 from  the  end  of  every  jutting  point,  from  the  corner  of
@@ -10896,19 +8998,12 @@ periods  for  setting  traps.
 I
 
 Give  me,  Ukko,  of  thy  ‘ ewes,’  of  thine  own  ‘ rams,’  bring
-forth  thy  ‘gold,’  all  thy  ‘drooping  ears.’  Bring  them  with-
-out a fear,  without  suspicion  let  them  rove ; those  that  are
+forth  thy  ‘gold,’  all  thy  ‘drooping  ears.’  Bring  them  without a fear,  without  suspicion  let  them  rove ; those  that  are
 resting  in  the  grove,  that  are  reposing  under  boughs,  that
 are  sleeping  on  a knoll,  are  paddling  the  bottom  of  a brook,
 send  in  threes  from  the  forest  vales,  in  fives  and  sixes  from
 the  glades  along  the  golden  cattle-roads,  along  the  silver
 paths,  where  the  bridges  are  laid  with  silk,  bridges  with  silk,
-
-
-PRAYERS
-
-
-239
 
 
 with  velvet — swamps,  wet  spots  with  homespun  cloth,  with
@@ -10952,11 +9047,7 @@ forest-lass  with  down-like  shirt,  with  a fine  spun  shirt,  the
 2 The  speaker.
 
 
-240  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
-woman  of  complexion  fair,  with  shouts  awake  the  forest-
-king,  arouse  the  backwoods’  haltia^  to  give  me  of  his
+woman  of  complexion  fair,  with  shouts  awake  the  forestking,  arouse  the  backwoods’  haltia^  to  give  me  of  his
 precious  ones,  his  animals  (F.  hoofs)  of  every  hue ; play  a
 tune  on  a honeyed  pipe,  pipe  on  a delicious  pipe  into  the
 comely  mistress’s  ear,  the  gracious  mistress  of  the  woods,  so
@@ -10967,8 +9058,7 @@ tongue.
 
 Lass  Annikki  that  keeps  the  keys ! Eva,  the  tiny  little
 serving-maid  ! advance  to  the  magazine  with  the  delightful
-mistress’s  leave ; fling  open  the  magazine  of  gifts,  the  lock-
-less doorway  of  the  loft.  Thou  art  no  lass  at  all,  no
+mistress’s  leave ; fling  open  the  magazine  of  gifts,  the  lockless doorway  of  the  loft.  Thou  art  no  lass  at  all,  no
 lassie  of  the  keys  indeed,  unless  thou  open  the  magazine,
 and,  having  opened  it,  give  forth  some  greater  and  some
 smaller  game,  some  of  every  sort  of  hue.  Twist  a ruddy
@@ -10977,7 +9067,6 @@ across  the  stream  of  Pohjola,  for  the  animals  to  run  upon,
 for  the  ‘ money-pelts  ’ to  skip  along  in  front  of  the  man  in
 search  of  them,  before  the  steps  of  the  man  that  walks.
 
-0
 
 O forest-daughter,  delightful  girl,  O Tapio’s  daughter,
 Tuulikki,  chase  the  wild  creatures  out  to  run  from  the
@@ -10989,12 +9078,6 @@ away,  the  forest-herd  should  bounce  aside,  or  on  a by-path
 should  diverge.  When  they  look  over  it,  then  raise  the
 fence ; when  they  look  down,  then  lower  down  the  fence ;
 when  the  animals  don’t  move,  then  leave  the  fence  as  it  is ;
-
-
-PRAYERS
-
-
-241
 
 
 if  the  wild  creatures  dash  away,  or  on  a by-path  should
@@ -11031,12 +9114,6 @@ side,  and  with  it  drive  the  timorous,  hurry  along  the
 younger  ones.  Whichever  is  slow  to  run,  at  starting  is  a
 
 Q
-
-
-2
-
-
-242  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 lazy  one,  quicken  up  with  a switch,  drive  with  shouts,  with
@@ -11076,12 +9153,6 @@ forest  animals  to  bolt,  cause  the  elks  to  scud  along,  grand
 reindeer  to  hurry  up,  their  legs  to  take  a sudden  spring,
 
 
-PRAYERS
-
-
-243
-
-
 their  hoofs  to  move  with  rapidity  to  my  spots  for  catching
 animals,  to  these  passes  where  I look  for  game.  In  profusion
 let  them  come  and  hurry  with  speedy  foot,  along  morasses,
@@ -11105,17 +9176,13 @@ from  the  blue  backwoods’  interior,  from  a liver-coloured
 hole,  from  Kuha-vuori’s  peak,  from  Paksu-vaara’s  slopes,
 from  near  the  rapids  of  Imantra,  from  Kana-saari’s  deep
 recess.  From  a spinny  take  a switch,  a birch  from  a
-forest-dell,  send  forth  the  drove  to  run,  cause  a ‘money-
-pelt’  to  break  away.  Any  one  too  inert  to  run,  make
+forest-dell,  send  forth  the  drove  to  run,  cause  a ‘moneypelt’  to  break  away.  Any  one  too  inert  to  run,  make
 lively  with  the  switch,  correct  with  the  birchen  bough ;
 of  any  one  that  is  quick  to  run  raise  the  mouth  with  a bit,
 with  halters  lift  its  head.  Permit  the  game  to  run  this
 way,  a ‘money-pelt’  to  rush  headlong.  More  sloping  is
 
 J I have  taken  this  variant  from  Kanteletar,  ii.  354.  ‘
-
-
-244  the  magic  songs  OF  THE  FINNS
 
 
 the  country  here,  a milder  climate  here  is  found ; here  rivers
@@ -11155,12 +9222,6 @@ site,  so  that  the  place  shall  not  be  felt,  so  that  the  site  no
 longer  smarts.
 
 
-PRAYERS
-
-
-245
-
-
 b
 
 Come,  maiden,  from  above  the  air,  the  maiden  from  the
@@ -11175,8 +9236,7 @@ through  the  bone  to  remove  the  pain,  through  the  flesh
 to  remove  the  smarts.  Lengthen  the  veins  that  are  short,
 shorten  those  over  long,  into  their  place  arrange  the  veins,
 make  every  end  of  even  length,  arrange  the  large  veins
-mouth  to  mouth,  the  small  veins  end  to  end,  the  thread-
-like veins  in  dove-tail  form,  and  the  arteries  vis-d-vis.
+mouth  to  mouth,  the  small  veins  end  to  end,  the  threadlike veins  in  dove-tail  form,  and  the  arteries  vis-d-vis.
 Then  a slender  needle  take  with  a silken  thread  in  the
 needle’s  eye,  with  the  slender  needle  sew,  with  the  tin
 needle  stitch,  knot  up  the  ends  of  the  veins,  with  silken
@@ -11197,9 +9257,6 @@ d
 
 O Tuoni’s  son  with  ruddy  cheek,  twist  quickly  ’gainst  thy
 left  thigh,  ’neath  thy  right  hand  a scarlet  cord  with  which
-
-
-246  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 I ’ll  close  the  raw,  shall  draw  together  the  bleeding  cut,
@@ -11236,16 +9293,9 @@ head  of  grass,  from  the  cup  of  the  golden  flower,  as  ferment
 for  the  ale,  as  barm  for  the  new-made  drink.  *
 
 
-PRAYERS
-
-
-247
-
-
 b
 
-My  little  martin,  my  wee  ‘ bird,’  my  lovely  little  ‘ money-
-pelt,’  go  thither,  where  I command,  whither  I bid  and  I
+My  little  martin,  my  wee  ‘ bird,’  my  lovely  little  ‘ moneypelt,’  go  thither,  where  I command,  whither  I bid  and  I
 command,  to  the  North’s  remotest  fields,  to  the  trampled
 ground  of  Lapland’s  bairns,  where  the  mares  fight,  the
 stallions  equally  compete ; with  thy  paws  collect  the  yeast,
@@ -11256,8 +9306,7 @@ the  ale,  as  yeast  for  this  small  beer.
 § 143.  For  Good  Luck.
 
 Creator,  grant ! accord,  O God,  grant  me  the  luck  to
-live,  accord  that  I shall  live  in  peace,  shall  ever  comfort-
-ably dwell  on  the  border  of  my  field,  in  the  centre  of  my
+live,  accord  that  I shall  live  in  peace,  shall  ever  comfortably dwell  on  the  border  of  my  field,  in  the  centre  of  my
 farm,  to  give  me  joy  of  an  afternoon,  in  the  forenoon
 to  afford  delight.  Be  on  thy  children’s  side,  be  a constant
 helper  of  thy  bairns,  a continual  support  by  night,  a
@@ -11272,9 +9321,6 @@ from  the  sky  to  earth,  as  my  abode,  my  only  one,  for  my
 protection,  my  support,  by  help  of  which  I ’ll  do  my  work,
 by  its  aid  o’er  waters  row,  so  that  no  foe  shall  eat  too
 much,  no  enemy  snatch  much  away.
-
-
-248  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 § 144.  Squirrel-hunting.
@@ -11311,12 +9357,6 @@ thyself,  that  I can  shoot  the  squirrel  on  the  branch,  the
 pay,  shall  carry  away  my  receipt  for  rent.
 
 
-PRAYERS
-
-
-249
-
-
 § 145.  Against  Nightmare.
 
 Rahko  in  iron  boots  makes  a ‘stony  hill’  revolve.  O
@@ -11330,8 +9370,7 @@ together  ‘ Hiisi’s  dead.’
 § 146.  Against  Swellings  and  Scab.
 a
 
-O Virgin  Mary,  mother  dear,  beloved  mother,  compas-
-sionate, spin  a blue  thread  from  thy  golden  [v.  blue]
+O Virgin  Mary,  mother  dear,  beloved  mother,  compassionate, spin  a blue  thread  from  thy  golden  [v.  blue]
 distaff  bound  with  flax ; from  above  a long  belt  of  cloud,
 from  the  sky  let  fall  the  thread,  with  which  I ’ll  smash  the
 scab,  with  which  I ’ll  press  the  swellings  down  ; I ’ll  lower
@@ -11351,11 +9390,7 @@ the  boils  from  this  human  skin,  from  the  body  of  a mother’s
 1 The  ring-finger.
 
 
-250  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
-son.  Pluck  thine  evil  scabs,  to  serve  as  berries  [v.  straw-
-berries], take  them  to  the  earth,  to  serve  as  berried  knolls
+son.  Pluck  thine  evil  scabs,  to  serve  as  berries  [v.  strawberries], take  them  to  the  earth,  to  serve  as  berried  knolls
 — to  swamps,  to  a land  devoid  of  strawberries ; in  thy  mouth
 dissolve  the  scab,  cook  the  matter  on  thy  tongue.
 
@@ -11379,8 +9414,7 @@ being’s  skin,  from  the  body  of  a mother’s  son.
 a
 
 Sharp  Frost,  the  son  of  Puhuri  \p.  Pusuri,  v.  Naserva],
-winter’s  benumbing  son ! don’t  freeze  my  nails,  don’t  de-
-mand my  toes,  don’t  nip  with  frost  my  head,  don’t  touch
+winter’s  benumbing  son ! don’t  freeze  my  nails,  don’t  demand my  toes,  don’t  nip  with  frost  my  head,  don’t  touch
 my  ears.  Thou  hast  enough  to  freeze,  many  to  nip  with
 frost,  without  frost-biting  a human  skin,  the  body  of  a
 mother’s  son.
@@ -11392,26 +9426,18 @@ stones,  flat  stones  that  are  burning  hot,  iron  rocks  and  hills
 of  steel,  the  wildly-rushing  Vuoksi  falls,  the  frightful  rapids
 
 
-PRAYERS
-
-
-251
-
-
 of  Imatra,  the  margin  of  the  Northern  sea,  the  declivities
 of  the  boundless  sea,  the  swirling  water’s  orifice,  the  terrific
 midstream  broil.
 
 b
 
-0 Virgin  Mary,  mother  dear,  beloved  mother,  compas-
-sionate, bring  me  a soft  fur-coat,  fetch  a hairy  coat  of  wool,
+0 Virgin  Mary,  mother  dear,  beloved  mother,  compassionate, bring  me  a soft  fur-coat,  fetch  a hairy  coat  of  wool,
 with  which  I ’ll  shelter  me,  poor  wretch,  so  that  the  sharp
 frost  cannot  bite.  Into  my  stockings  cast  some  fire,  into
 my  tatters — bits  of  coal,  so  that  the  sharp  frost  cannot  bite,
 that  the  hard  weather  touch  me  not.  Fetch  hither  a misty
-cloud,  bring  a rainbow-coloured  one,  shake  a warm  cover-
-ing— a mist  on  the  swamps,  a mist  o’er  the  land ; it  is
+cloud,  bring  a rainbow-coloured  one,  shake  a warm  covering— a mist  on  the  swamps,  a mist  o’er  the  land ; it  is
 pleasant  to  live  in  mist,  in  a district  wrapt  in  fog.
 
 If  still  a gangrene  should  ensue,  let  a scrap  of  butter,
@@ -11423,8 +9449,7 @@ the  place  the  hard  weather  touched.
 In  the  North  is  the  reindeer’s  origin,  from  Lapland  is
 the  creature  sent ; then,  rock-like,  bent,  curved  antlers  grew
 on  the  reindeer’s  splendid  brow,  on  the  reindeer’s  powerful
-head.  Crone  of  the  North,  with  powerful  nails,  with  power-
-ful nails,  with  an  axe  of  bone,  that  maketh  ‘ hoofs,’  ^ that
+head.  Crone  of  the  North,  with  powerful  nails,  with  powerful nails,  with  an  axe  of  bone,  that  maketh  ‘ hoofs,’  ^ that
 bendeth  ‘ paws,’  throw  open  the  iron  chest,  slip  back  the
 bolt  upon  the  game,  send  forth  the  game  to  run  in  the
 path  of  the  lad  that  hunts,  from  the  North’s  remotest  fields,
@@ -11433,9 +9458,6 @@ to  my  traps  that  should  be  trod.
 
 1 There  is  play  here  on  the  word  kynsi,  which  means  both  ‘ nails  ’ and
 ‘ hoofs.’
-
-
-252  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 § 149.  For  Pleurisy  (Stitch).
@@ -11465,21 +9487,13 @@ c
 Old  crone  below  the  earth  {manner) ! Boy  of  the  field’s
 profoundest  depths  ! come  to  watch  quite  close  at  hand,
 to  pay  attention  nigh  at  hand,  lest  Death  should  eat  too
-much.  Disease  should  reap  o’ermuch.  Make  great  exer-
-tions with  thy  knee,  resolve  with  thy  finger-points  to  lift
+much.  Disease  should  reap  o’ermuch.  Make  great  exertions with  thy  knee,  resolve  with  thy  finger-points  to  lift
 the  sorcerer’s  arrow  out,  to  summon  back  the  shafts ; with
 thy  back-teeth  seize  hold  of  the  sorcerer’s  arrow-knob,  of
 the  end  of  Pirn’s  shafts.
 
 If  no  heed  at  all  is  paid  to  that,  raise  from  the  earth
-thy  men,  thy  heroes  from  the  hard  dry  land,  to  help  a well-
-beloved  man,  to  surround  a lonely  one.
-
-
-PRAYERS
-
-
-253
+thy  men,  thy  heroes  from  the  hard  dry  land,  to  help  a wellbeloved  man,  to  surround  a lonely  one.
 
 
 d
@@ -11492,8 +9506,7 @@ of  clothes.
 
 And  if  no  heed  is  paid  thereto,  in  the  land  of  the  North
 an  old  man  lives,  with  stony  nails,  with  iron  teeth ; ’tis
-he  that  draweth  arrows  out,  that  loosens  spears,  that  ex-
-tracteth  jagged  points.  Approach,  old  man,  to  take,  O
+he  that  draweth  arrows  out,  that  loosens  spears,  that  extracteth  jagged  points.  Approach,  old  man,  to  take,  O
 ‘ Stony-nails ’ to  cast,  O ‘Steely  jaws’  to  snatch,  O ‘Teeth
 of  iron  ’ to  wrench — come  lift  the  sorcerer’s  arrows  out,  the
 spears  of  Keito  disengage  with  thy  stony  nails,  with  thine
@@ -11505,8 +9518,7 @@ three  pieces  smash  the  spear,  into  creases  squash  its  point
 e
 
 An  eagle  dwells  in  Turj aland  that  has  serviceable  claws,
-that  has  five  talons  on  its  toes  resembling  five  reaping-
-hooks,  its  mouth  with  fire  burns,  its  throat  is  aglow  with
+that  has  five  talons  on  its  toes  resembling  five  reapinghooks,  its  mouth  with  fire  burns,  its  throat  is  aglow  with
 flame,  at  the  tip  of  the  wing  there  are  bright  eyes,  organs  of
 sight  at  the  feather’s  end.  Come,  eagle,  from  Turj  aland,
 from  Lapland  cast  thyself,  O bird,  that  strikest  blows
@@ -11517,8 +9529,6 @@ Aijo’s  son,  at  the  end  of  the  arrow’s  knob;  the  bloody
 arrow  carry  off,  the  pointed  needle  snatch  from  out  of  a
 roaring  man,  from  out  of  a moaning  full-grown  man.
 
-
-254  THE  MAGIC  SONGS  OF  THE  FINNS
 
 /
 
@@ -11559,12 +9569,6 @@ thee  forth,  not  into  a human  skin,  the  body  of  a woman’s
 (kapo)  son.
 
 
-PRAYERS
-
-
-255
-
-
 § 150.  To  Throw  a Spell  over  a Gun.
 
 Boy,  come  from  Pohjola,  child — from  the  real  land  of
@@ -11601,8 +9605,6 @@ O Ukko,  give  thine  axe,  thy  silver  hatchet,  with  which  I
 shall  cut  down  a tree.  I ’ll  hew  a honeyed  aspen-tree  from
 
 
-256  THE  MAGIC  SONGS  OF  THE  FINNS
-
 a honeyed  knoll,  from  a golden  mound,  I ’ll  shove  the  thick
 end  towards  the  sky,  on  the  ground  I ’ll  drop  the  branching
 head,  its  thick  end  towards  the  nor’-nor’-west,  towards  the
@@ -11627,8 +9629,7 @@ of  other  men,  avoiding  other  people’s  snares.
 
 b
 
-O good  old  man,  splendid  old  man,  the  golden  forest-
-king,  give  me  of  thy  ewes  and  rams.  Supply  for  the  sake
+O good  old  man,  splendid  old  man,  the  golden  forestking,  give  me  of  thy  ewes  and  rams.  Supply  for  the  sake
 of  men,  for  the  sake  of  men  produce  from  thy  shirt  the
 best,  from  thy  waistcoat  the  fattest  ones,  fling  thy  ‘ packages
 of  wool,’  thy  ‘ little  sheaves  of  flax,’  under  these  snares  of
@@ -11636,12 +9637,6 @@ mine;  poke  in  thy  ‘handful  of  flax,’ and  thy  ‘golden  distaff
 bound  with  wool,’  firstly,  this  very  night,  intermediately  the
 second  night,  lastly,  at  the  end  of  the  week,  under  the  silver
 spar,  and  to  touch  the  copper  trigger-pin.
-
-
-PRAYERS
-
-
-257
 
 
 c
@@ -11680,13 +9675,7 @@ lane,  ’long  a silver  path,  into  the  little  golden  ‘ cup,’  into  t
 silver  farrier’s  tongs.’  Drive  briskly  the  animals,  the  forest-
 
 
-2
-
-
 R
-
-
-258  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 creatures  hastily,  toward  my  gins  that  are  made  of  iron,
@@ -11719,21 +9708,12 @@ c
 O stalwart  maiden,  Paistarys  \v.  Tapio’s  maiden,  Ristikko],
 that  strews  flax-stalks  {pdistdr)^  strew  ‘ stalks  of  flax,’  scatter
 thy  ‘cloaks’  about  in  the  blue  backwoods,  in  honeyed
-Metsola;  without  suspicion  let  them  come,  without  mis-
-giving let  them  run,  without  perceiving  the  smell  of  man,
-without  their  scenting  human  scent,  to  my  spots  for  catch-
-ing game,  to  my  traps  that  should  be  trod,  cross-breasted
-
-
-PRAYERS
-
-
-259
+Metsola;  without  suspicion  let  them  come,  without  misgiving let  them  run,  without  perceiving  the  smell  of  man,
+without  their  scenting  human  scent,  to  my  spots  for  catching game,  to  my  traps  that  should  be  trod,  cross-breasted
 
 
 ones  from  Pohjola,  black  ‘ coats  of  fur  ’ from  Turj aland,  to
-make  into  fluttering  clothes  for  lords,  to  make  into  gar-
-ments for  men  in  power.
+make  into  fluttering  clothes  for  lords,  to  make  into  garments for  men  in  power.
 
 § 154.  Against  Injuries  from  Spells.
 
@@ -11743,16 +9723,14 @@ Ho  ! Ukko,  lord  on  high,  the  god  above  the  cloud,  when
 needed  hither  come,  when  petitioned  hasten  here  to  see
 these  pains,  to  avert  the  calamity,  to  remove  the  injury
 from  spells,  to  eject  the  plague.  Fetch  me  a fiery  sword,
-bring  a sparkling  blade,  with  which  I’ll  sever  the  spell-
-wrought  ills,  with  which  I ’ll  scatter  injuries,  shall  tear  out
+bring  a sparkling  blade,  with  which  I’ll  sever  the  spellwrought  ills,  with  which  I ’ll  scatter  injuries,  shall  tear  out
 Hiisi’s  cankerous  sore,  shall  for  ever  check  the  brute;  I
 assign  the  torments  to  the  winds,  the  pains  to  the  wide
 abandoned  fields.
 
 b
 
-O Ukko,  at  the  sky’s  mid-point,  at  the  edge  of  a thunder-
-cloud, come  hither  to  shelter  me,  to  be  my  aid,  my  only
+O Ukko,  at  the  sky’s  mid-point,  at  the  edge  of  a thundercloud, come  hither  to  shelter  me,  to  be  my  aid,  my  only
 aid,  to  remove  this  plague,  to  counteract  the  violent  one,
 to  undo  the  fiendish  deed,  to  tear  out  Hiisi’s  cankerous
 sore,  to  dislodge  the  spell-wrought  injuries  with  a fiery
@@ -11796,8 +9774,7 @@ Turjaland;  under  its  wing  are  a hundred  men,  another
 hundred  above  its  wing,  at  the  tip  of  the  tail  are  a thousand
 men,  on  every  feather  there  are  ten ; all  the  men  are  girt
 with  swords,  the  heroes  with  their  instruments,  all  the  iron
-throng,  the  people  of  Vainola.  O eagle,  from  the  north-
-east come,  from  Lapland  fling  thyself,  O bird,  to  save  this
+throng,  the  people  of  Vainola.  O eagle,  from  the  northeast come,  from  Lapland  fling  thyself,  O bird,  to  save  this
 head,  to  preserve  this  life,  to  remove  the  spell-wrought
 injuries,  to  eject  the  plagues,  to  eat  the  curses  of  villagers,
 to  lap  the  incantations  up.
@@ -11806,12 +9783,6 @@ to  lap  the  incantations  up.
 
 O Christopher  (Ristoppi),  the  river-chief,  the  golden
 river-king,  O Nokiatar  \v..  Jokiatar],  youthful  girl,  that
-
-
-PRAYERS
-
-
-261
 
 
 watches  over  the  river-herd,  pursue  the  river-herd  with
@@ -11831,8 +9802,7 @@ gold  as  old  as  the  moon,  give  silver  as  bright  as  the  sun.
 
 § 156.  To  Drive  away  Rain.
 
-O cease,  good  God,  from  raining,  blowing,  and  maintain-
-ing a cloudy  sky ; O Ukko,  god  of  the  sky,  thyself,  the
+O cease,  good  God,  from  raining,  blowing,  and  maintaining a cloudy  sky ; O Ukko,  god  of  the  sky,  thyself,  the
 mighty  lord  of  air,  to  Russia  [v.  Viborg]  conduct  the
 clouds,  take  the  rainbows  to  Karjala ; they  are  waiting  for
 water  there,  an  old  woman  has  borne  a child,  no  water  has
@@ -11848,9 +9818,6 @@ to  help  a well-beloved  son,  to  be  comrade  to  a famous
 man  in  this  laborious  work,  in  the  hard  task  laid  on  him.
 
 1 ‘ Window  ’ and  ‘ door  ’ mean  the  trap.
-
-
-262  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 They  need  me  now,  they  need  me,  they  require  that  I
@@ -11891,12 +9858,6 @@ Creator!  come  to  repeat  a charm,  O God,  to  speak,
 Almighty ! to  heal,  make  the  sick  man  well  at  night,  make
 
 
-PRAYERS
-
-
-263
-
-
 him  hale  by  day ; make  holy  with  thy  words,  assuage  with
 thy  formulas  {lause\  thy  words  are  holy  ones,  thy  formulas
 are  well  arranged.  From  thy  pure  mouth  speak  words  of
@@ -11932,9 +9893,6 @@ lest  for  a long  time  they  should  smart,  should  for  a long
 while  be  inflamed.
 
 
-264  the  magic  songs  OF  THE  FINNS
-
-
 § 159.  Preparing  a Bandage.
 a
 
@@ -11949,15 +9907,13 @@ may  God’s  word  bring  about,  that  the  wound  shall  not
 inflame,  that  it  shall  not  lead  to  pain.
 
 
-Old  woman ! come  from  Pohjola,  holding  a little  basket-
-cup,  in  the  basket  a copper  dish,  in  the  dis,h  a golden
+Old  woman ! come  from  Pohjola,  holding  a little  basketcup,  in  the  basket  a copper  dish,  in  the  dis,h  a golden
 plume,  to  anoint  the  hurts,  to  bind  the  wounds.
 
 § 160.  Against  Bits  of  Chaff,  etc.,  in  the  Eye.
 a
 
-O Virgin  Mary,  mother  dear,  beloved  mother,  com-
-passionate, give  thy  good  finger-tips,  thy  well-made  fingers
+O Virgin  Mary,  mother  dear,  beloved  mother,  compassionate, give  thy  good  finger-tips,  thy  well-made  fingers
 bring,  to  become  my  fingers  and  to  be  transformed  into
 hands  of  mine,  with  which  I ’ll  snatch  the  bit  of  chaff,  shall
 pluck  the  ‘ nettle  ’ out,  so  that  it  shall  not  hurt  for  long,  not
@@ -11968,12 +9924,6 @@ b
 O Virgin  Mary,  mother  dear,  the  holy  handmaid  of  the
 sky,  take  thy  little  golden  box,  just  open  thy  golden  chest,
 take  from  it  a golden  hook,  snatch  up  a honeyed  line,  with
-
-
-PRAYERS
-
-
-265
 
 
 the  golden  hook  hook  out,  with  the  honeyed  line  drag  out
@@ -11993,8 +9943,7 @@ a
 
 O Ukko,  the  god  known  everywhere,  father  of  rulers  of
 the  sky,  take  thy  sons’  side,  to  thy  children  be  a constant
-aid ; hold  a moot  in  the  clouds,  clear  councils  in  a cloud-
-less sky ; from  the  east  let  a cloud  grow  up,  from  the  west
+aid ; hold  a moot  in  the  clouds,  clear  councils  in  a cloudless sky ; from  the  east  let  a cloud  grow  up,  from  the  west
 send  another  one,  from  the  north-east  a third,  push  them
 together  side  by  side,  rain  water  on  the  touch-hole  pans,  or
 snow  in  front  of  the  locks  in  the  important  summer  of  war,
@@ -12010,9 +9959,6 @@ O Ukko,  the  golden  king,  the  ancient  father  of  the  sky,
 protect  me  with  fiery  furs,  put  over  me  a shirt  of  flame,
 when  I happen  to  be  in  the  wars,  when  I chance  to  enter
 the  fray.  Make  me  a wall  of  stone  to  stand  in  front  of  me.
-
-
-266  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 six  fathoms  every  way,  with  seven-fathom  sides,  where  I,  a
@@ -12052,8 +9998,6 @@ of  over  six,  of  over  seven  in  all,  under  which  we  ’ll  shoot,
 behind  which  we  shall  fight,  we’ll  a fierce  people  over-
 
 
-PRAYERS  267
-
 throw  to  the  ground,  both  men  and  swords,  the  evil  people
 slanting-wise,  the  soldiers  on  their  sides.
 
@@ -12091,13 +10035,9 @@ killed  by  the  war-horses’  feet,  by  the  hoofs  of  a battle-foal,
 on  bloody  beds,  on  gory  sites.
 
 
-268  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
 § 164.  To  MAKE  SnOW-SkATES.
 
-Ho  ! Ukko,  lord  on  high,  the  father  at  the  sky’s  mid-
-point, procure  me  straight  snow-skates,  for  the  left  foot
+Ho  ! Ukko,  lord  on  high,  the  father  at  the  sky’s  midpoint, procure  me  straight  snow-skates,  for  the  left  foot
 rapid  skates,  on  which  I ’d  smoothly  scud  through  the  great
 forest  tracts,  across  the  swamps,  across  firm  land,  across
 the  moors  of  the  North  to  the  spots  where  game  is  born,  to
@@ -12130,12 +10070,6 @@ from  the  plots  and  scheming  of  the  men,  as  my  well-wisher
 would  desire,  as  my  ill-wisher  would  not  desire.
 
 
-PRAYERS
-
-
-269
-
-
 § 166.  The  Pains  of  Childbirth.
 a
 
@@ -12143,8 +10077,7 @@ How  at  such  times  is  one  to  sing  and  how  lament,  when
 the  pains  of  labour  come,  constraint  is  laid  upon  a girl,  the
 belly  suffers  agony,  the  womb  is  in  great  distress  ?
 
-Thus  at  such  times  is  one  to  speak  and  thus  express  one-
-self : O Ukko,  king  of  the  heavenly  realm,  the  god  above  the
+Thus  at  such  times  is  one  to  speak  and  thus  express  oneself : O Ukko,  king  of  the  heavenly  realm,  the  god  above  the
 clouds,  come  hither,  come  immediately,  they  need  thee  here
 at  once,  here  helpless  infants  gasp  for  breath,  babes  as  they
 come  to  the  outer  air  (F.  courtyard) ; a lass  is  seized  with  the
@@ -12169,9 +10102,6 @@ a big  or  a little  one  may  go,  one  of  small  strength  may
 walk,  come  bouncing  out  to  the  outer  air  (F.  courtyard),
 come  skipping  out  into  the  world  (F.  farm),  into  the  world
 of  all  mankind,  the  country  of  other  travellers.
-
-
-2 70  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 b
@@ -12206,14 +10136,7 @@ bring,  blow  into  my  mouth  the  half  of  it,  the  other  half
 make  into  salves,  with  which  I’ll  salve  between  the  legs,
 shall  anoint  the  hinder  parts,  shall  cause  the  door  of  flesh
 to  move,  shall  open  up  the  gate,  shall  free  the  lass  from
-childbirth  pains,  bring  into  the  world  a traveller,  as  a sense-
-less one  is  in  the  womb,  a dolt  that  knoweth  not  the  way.
-
-
-PRAYERS
-
-
-271
+childbirth  pains,  bring  into  the  world  a traveller,  as  a senseless one  is  in  the  womb,  a dolt  that  knoweth  not  the  way.
 
 
 d
@@ -12253,9 +10176,6 @@ hook  for  mowing  hay;  with  it  I’ll  stroke  the  sides,  and
 pass  along  the  hinder  parts,  I ’ll  separate  the  woman’s  legs.
 
 
-272  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
 I’ll  tug  the  thighs  apart,  I’ll  loosen  the  ‘bench’  at  the
 end,  break  the  ‘bolt  at  the  back’  in  two.  I’ll  open  the
 ‘land’  in  the  under  parts,  burst  through  the  headrigs  of
@@ -12290,20 +10210,12 @@ to  behold  the  Great  Bear,  to  regard  the  stars,  a child  that
 has  not  noticed  them,  has  not  perceived  them  yet.
 
 
-PRAYERS
-
-
-273
-
-
 § 167.  Setting  up  House.
 
 From  Mary  I beg  for  land,  from  Peter — an  inheritance ;
-dear  Mary!  give  me  land,  good  Peter! — an  inherit-
-ance, give  me  land  gratis,  in  charity — a piece  of  land.
+dear  Mary!  give  me  land,  good  Peter! — an  inheritance, give  me  land  gratis,  in  charity — a piece  of  land.
 I will  not  ask  for  very  much, — for  a little  I will  not  go
-away — as  much  of  ground  as  a floor  requires,  as  my  back-
-bone can  lie  upon,  for  me  to  play  my  games  upon,  a
+away — as  much  of  ground  as  a floor  requires,  as  my  backbone can  lie  upon,  for  me  to  play  my  games  upon,  a
 field  for  me  to  dance  upon,  a yard  for  me  to  run  along,
 the  edge  of  a field  to  roll  upon.  Choose  every  sort  of
 wild  animal  on  the  honeyed  sward,  on  the  honeyed  knoll,
@@ -12317,8 +10229,7 @@ to  the  site  of  the  walls — a luscious  juice.
 
 § 168.  For  Skin  Eruptions.
 
-My  ‘little  bullfinch,’  O Jesus,  wash,  my  ‘wee  snow-
-sparrow,’  cleanse — with  water  by  the  Maker  made,  ordained
+My  ‘little  bullfinch,’  O Jesus,  wash,  my  ‘wee  snowsparrow,’  cleanse — with  water  by  the  Maker  made,  ordained
 by  the  Holy  Birth — from  water’s  anger  and  from  earth’s,
 from  the  secret  rancour  of  a frog ; let  the  earth  receive  its
 ‘;spice  ’ again,  let  the  water  its  anger  take,  may  the  earth
@@ -12328,13 +10239,7 @@ the  water  drink  its  anger  down,  swig  it  olf  like  wort,  down
 under  swamps  and  moss,  down  ’neath  deep  waves.
 
 
-2
-
-
 s
-
-
-274  the  magic  songs  OF  THE  FINNS
 
 
 § 169.  For  a Healing  Bath.
@@ -12344,8 +10249,7 @@ O Virgin  Mary,  mother  dear,  that  hast  a pure  mother’s
 countenance,  that  art  the  oldest  of  womankind,  the  tallest
 of  soft-skirted  ones,  with  golden  bracelets  on  thine  arms,
 with  golden  trinkets  of  thy  head,  with  golden  shoes  upon
-thy  feet,  come  hither,  we  have  need  of  thee,  we  are  shout-
-ing for  thy  help ; bring  thyself  here  immediately,  bareheaded,
+thy  feet,  come  hither,  we  have  need  of  thee,  we  are  shouting for  thy  help ; bring  thyself  here  immediately,  bareheaded,
 with  dishevelled  hair,  without  thy  girdle,  without  thy  skirt,
 to  restore  to  health,  to  give  repose,  before  the  rising  of  the
 sun,  the  dawning  of  the  god  of  dawn.
@@ -12359,8 +10263,7 @@ flags,  lest  it  burn  my  bairns,  my  offspring  should  destroy ;
 soften  the  pleasant  bathing-switch,  moisten  its  honeyed
 spreading  head,  with  the  switches  foment  the  wounds.
 
-To  stone-heaps  with  the  wounds  from  iron  ! To  wood-
-piles  with  the  wounds  from  trees ! To  stony  stoves  with
+To  stone-heaps  with  the  wounds  from  iron  ! To  woodpiles  with  the  wounds  from  trees ! To  stony  stoves  with
 the  wounds  from  stones  ! Make  the  sufferer  well  at  night,
 without  pain  by  day,  by  virtue  of  the  word  of  God,  through
 the  mercy  always  of  the  Lord.
@@ -12374,12 +10277,6 @@ Make  a honeyed  bath-house  hot,  make  warm  the  room  of
 1 So  as  not  to  be  seen  by  envious  persons  or  evil-wishers,  and  rendered
 
 ineffectual.  \
-
-
-PRAYERS
-
-
-275
 
 
 deal  with  coveted  logs  of  wood,  which  the  wind  has  brought
@@ -12402,13 +10299,11 @@ Cause  steam  to  rise,  make  heat  ascend  to  the  stones  that
 feel  no  pain,  to  the  flags  that  feel  no  smart,  through  the
 stones  of  the  stove,  the  moss-stopping  of  the  bath;  take
 from  thy  cloak  a bathing-switch,  from  thy  bosom — tender
-leaves,  soften  the  honeyed  bathing-switch,  moisten  its  hun-
-dred tips  at  the  centre  of  a honeyed  stone ; sweep  away  the
+leaves,  soften  the  honeyed  bathing-switch,  moisten  its  hundred tips  at  the  centre  of  a honeyed  stone ; sweep  away  the
 fearful  [F.  holy]  ‘ sparks,’  ^ remove  [F.  quench]  the  fearful
 [F.  holy]  plagues  with  thy  virgin-honeyed  wing,  with  thy
 honeyed  bathing-switch,  into  a little  golden  cup,  into  a
-copper-sided  vat ; in  the  stove  put  the  pains,  in  the  bath-
-house moss — the  plagues,  in  a wool-chest — the  angry  sores,
+copper-sided  vat ; in  the  stove  put  the  pains,  in  the  bathhouse moss — the  plagues,  in  a wool-chest — the  angry  sores,
 in  a box — the  cruel  smarts.
 
 c
@@ -12416,9 +10311,6 @@ c
 Enter  the  steam,  O God,  the  hot  steam — Father  of  the
 air ! to  restore  to  health,  to  give  repose ; enter  the  bath-
 1 i.e,  the  spell-brought  sickness  that  burns  like  sparks.
-
-
-276  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 house  secretly  without  being  heard  by  a worthless  wretch,
@@ -12459,12 +10351,6 @@ bite.
 1 See  note,  p.  166.
 
 
-PRAYERS
-
-
-277
-
-
 §171.  Against  Damage  from  Fire.
 a
 
@@ -12499,9 +10385,6 @@ from  fire,  on  the  places  that  are  burnt,  so  that  they  shall
 not  smart  for  long,  shall  not  for  long  be  found  inflamed.
 
 
-278  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
 d
 
 Rise  from  the  ground,  O Iron  Cock,  O Iron  Hen,  spring
@@ -12513,8 +10396,7 @@ inflame,  nor  smart  for  very  long. .
 
 e
 
-O Virgin  Mary,  mother  dear,  beloved  mother,  compas-
-sionate, like  a golden  cuckoo  come,  like  a silver  turtle-dove
+O Virgin  Mary,  mother  dear,  beloved  mother,  compassionate, like  a golden  cuckoo  come,  like  a silver  turtle-dove
 to  the  burns  (F.  fires)  of  one  in  agony,  to  the  burnt  places
 of  a sufferer ; come  at  once,  soon  hurry  up,  still  sooner  we
 have  need  of  thee,  in  thy  hand  a golden  cup  containing
@@ -12539,11 +10421,6 @@ S
 Rise  from  the  dell,  dear  Maid ! from  the  gravel,  thou
 clean-faced  one,  ‘ Blue-socks  ! ’ from  the  corner  of  a swamp,
 
-
-PRAYERS
-
-
-279
 
 ‘ Red  laces ! ’ from  a dale ; from  the  stream  raise  frost,  from
 the  swamp  some  cooling  stuff  for  the  places  that  are  burnt,
@@ -12607,8 +10484,7 @@ O Vesi-viitta,  Mountain’s  [v.  Vaitto’s,  v,  Vaitta’s]  son,
 the  lovely  offspring  of  a rock,  [v.  Suoviitta ! the  child  of
 Kaleva,^]  that  in  a mountain  hast  slept  a year,  lain  for  a long
 time  in  a rock,  tether  thyself  to  this  glowing  ash,  into  this
-Panu  cast  thyself,  make  Fire  incapable,  make  Panu  im-
-potent ; bring  water  in  a birch-bark  dish,  fetch  some  in  a
+Panu  cast  thyself,  make  Fire  incapable,  make  Panu  impotent ; bring  water  in  a birch-bark  dish,  fetch  some  in  a
 two-hooped  one  from  between  two  stumps  from  ’neath  a
 birch’s  triple  root,  some  chilly  water  icy  cold  for  the  fearful
 damage  caused  by  Fire.  Fire  has  wrought  mischief  here,
@@ -12619,17 +10495,10 @@ against  the  honour  of  the  Blest.
 1 V.  the  offspring  of  a Blue-cloaked  One  {F.  sini-viittainen).
 
 
-PRAYERS
-
-
-281
-
-
 § 172.  To  Bewitch  Fire.
 a
 
-O Virgin  Mary,  mother  dear,  the  kindly  mother,  com-
-passionate, in  another  direction  go,  to  gloomy  Pohjola,  to
+O Virgin  Mary,  mother  dear,  the  kindly  mother,  compassionate, in  another  direction  go,  to  gloomy  Pohjola,  to
 a snowy  mountain  top,  to  the  hill’s  north  side  where  a
 woodgrouse  has  its  nest,  a hen  is  bringing  up  her  young ;
 bring  snow,  bring  ice  with  which  thou  ’It  quench  the  fire,
@@ -12662,9 +10531,6 @@ Water — the  oldest — keep  awake,  may  Fire — the  youngest
 1 i,e.  a hearth.
 
 
-282  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
 c
 
 O Panutar,  best  girl,  when  needed  hither  come  to  quench
@@ -12688,8 +10554,7 @@ that  it  shall  not  tinge  my  nails,  nor  scorch  my  hands.
 § 173  In  Making  an  Offering.
 a
 
-0 chosen  woman,  Kunnotar,  O golden  ^ woman,  Kare-
-hetar,  come  away  from  melting  gold,  from  smelting  silver
+0 chosen  woman,  Kunnotar,  O golden  ^ woman,  Karehetar,  come  away  from  melting  gold,  from  smelting  silver
 come  away;  in  thy  bowl  I put  bits  of  gold,  bits  of  silver — in
 thy  cup,  these  bits  of  gold  are  as  old  as  the  moon,  the  bits
 of  silver  as  old  as  the  sun,  brought  by  my  father  from  a war,
@@ -12702,12 +10567,6 @@ horse.
 
 2 Gold,  here,  has  a reference  to  game.  According  to  Ganander  (p.  36)
 Karehetar  was  the  mother  of  foxes  and  this  song  was  recited  by  a trapper.
-
-
-PRAYERS
-
-
-283
 
 
 b
@@ -12726,8 +10585,7 @@ c
 
 O master  of  Tapio’s  farm,  O mistress  of  Tapio’s  farm,
 old  man  of  the  forest  with  hoary  beard,  the  forest’s  golden
-king ! O forest-mistress,  Mimerkki,  the  forest’s  kind  gift-
-giving mother,  ‘ Blue-cloak  ’ ! the  old  wife  of  the  scrub,
+king ! O forest-mistress,  Mimerkki,  the  forest’s  kind  giftgiving mother,  ‘ Blue-cloak  ’ ! the  old  wife  of  the  scrub,
 ‘ Red-socks  ’ ! the  mistress  of  the  swamp,  come  to  make  an
 exchange  of  gold,  of  silver  an  interchange.  My  bits  of
 gold  are  as  old  as  the  moon,  my  bits  of  silver  as  old  as
@@ -12735,8 +10593,7 @@ the  sun,  the  bits  of  gold  are  Swedish  gold,  Swedish — the
 glistening  silver  bits,  in  conflict  brought  from  Tornio,  from
 behind  the  frontier — in  a fight,  my  father  brought  them
 from  the  wars,  laid  hands  upon  them  in  the  fray;  in  a
-purse  they’ll  get  worn  away,  will  blacken  in  a tinder-
-bag,  if  none  will  change  my  gold  nor  exchange  my  silver
+purse  they’ll  get  worn  away,  will  blacken  in  a tinderbag,  if  none  will  change  my  gold  nor  exchange  my  silver
 bits.
 
 d
@@ -12746,9 +10603,6 @@ come  to  take  my  bits  of  gold,  to  choose  out  silver  bits.
 For  thy  ‘gold’  take  my  bits  of  gold,  for  thy  ‘silver’ — my
 silver  bits,  for  thy  ‘hoofs’  I give  bits  of  gold,  for  thy
 ‘paws’ — my  silver  bits,  for  the  benefit  of  Tapio’s  farm,  to
-
-
-284  the  magic  songs  OF  THE  FINNS
 
 
 give  delight  to  the  Forest  Home  {Metsola).  Spread  thy
@@ -12785,12 +10639,6 @@ a
 
 Old  mother  Eine ! rise  up  first,  life’s  ruler  {hallia)  rouse
 thyself  before  a sorcerer  rises  up,  a jealous  one  jumps  up.
-
-
-PRAYERS
-
-
-285
 
 
 a presumptuous  person  moves,  or  a wizard  catches  hold,
@@ -12830,9 +10678,6 @@ to  be  reviled  by  every  ‘ frog.’  Stand  before  me  as  a wall,
 stay  behind  me  as  a fence,  lest  a sorcerer’s  arrows  take
 
 
-286  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
 effect,  or  a wizard’s  bolts  of  steel.  Bring  me  a fiery  sword,
 fetch  one  the  hue  of  frost,  cause  the  gleaming  sword  to
 flash  into  my  right  hand  and  with  it  I ’ll  slash  the  wicked
@@ -12867,12 +10712,6 @@ under  which  I ’ll  stay  at  night,  which  I can  wear  by  day,
 by  good  God’s  help,  by  the  true  Creator’s  offices,  lest  a son
 should  go  away,  one  borne  of  a mother  should  part,  lest  a
 mother’s  offspring  go  astray,  a woman’s  progeny  disappear.
-
-
-PRAYERS
-
-
-287
 
 
 /
@@ -12912,9 +10751,6 @@ nation  for  me  amid  these  sorcerers,  in  the  wizards’
 neighbourhood.
 
 
-288  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
 i
 
 Earth’s  old  man ! from  the  ground  arise,  Field’s  son !
@@ -12934,8 +10770,7 @@ There  is  a boy  in  Pohjola,  a tall  man  in  Pimentola,
 whose  bristly  beard  did  gleam  like  a leafy  grove  upon  a
 slope,  whose  hair  did  sway  like  a clump  of  pines  upon  a
 hill ; come,  boy  ! from  Pohjola,  tall  man  ! from  Pimentola
-to  give  a puny  fellow  strength,  to  give  a small  man  manli-
-ness, so  that  I shall  not  be  destroyed,  shall  not  be  overcome
+to  give  a puny  fellow  strength,  to  give  a small  man  manliness, so  that  I shall  not  be  destroyed,  shall  not  be  overcome
 with  shame  in  the  dells  of  these  sorcerers,  in  the  diviners’
 neighbourhood.
 
@@ -12944,8 +10779,7 @@ k
 O ‘ red  hat,’  Tuoni’s  son,  with  eye  askew,  with  crooked
 jaw,  knock  down  the  sorcerers,  upset  the  land’s  jealous
 men  ; in  the  belly  shoot  the  sorcerers,  the  devils — in  their
-hinder  parts,  gouge  the  eyes  of  the  jealous  man.  Who-
-ever peers  with  jealousy,  or  pries  with  eyes  askew,  drag  a
+hinder  parts,  gouge  the  eyes  of  the  jealous  man.  Whoever peers  with  jealousy,  or  pries  with  eyes  askew,  drag  a
 bloody  rug,  dash  down  a gory  rug  from  the  sky  to  the
 earth  and  tie  it  across  their  eyes.
 
@@ -12953,12 +10787,6 @@ earth  and  tie  it  across  their  eyes.
 
 Ho ! Ukko,  the  father  up  above,  the  observant  man  of
 the  sky,  be  on  thy  son’s  side,  to  thy  children  a constant  help ;
-
-
-PRAYERS
-
-
-289
 
 
 remove  the  witches  from  my  side,  keep  constant  watch  on  the
@@ -12987,8 +10815,7 @@ heads,  outwards  to  buzz  with  their  mouths,  outwards  to
 splutter  with  their  tongues,  to  give  a dig  to  listeners,  to
 give  a nip  to  prying  men,  to  crush  those  wishing  ill,  to
 squeeze  to  the  ground  the  evil  ones,  to  eat  the  spells  of
-villagers,  their  incantations  to  lap  up,  to  remove  the  sick-
-ness brought  by  spells,  to  scatter  hindrances.
+villagers,  their  incantations  to  lap  up,  to  remove  the  sickness brought  by  spells,  to  scatter  hindrances.
 
 n
 
@@ -12997,13 +10824,7 @@ iron  stakes,  with  copper  withes ; raise  high  the  fence,  from
 earth  as  far  as  the  sky,  which  a sorcerer  cannot  climb,  a
 
 
-2
-
-
 T
-
-
-290  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 wizard  cannot  pass ; make  the  gates  of  steel,  of  forged
@@ -13012,8 +10833,7 @@ snakes,  interlace  with  swarthy  snakes,  their  heads  turned
 out,  their  tails  turned  in,  that  their  throats  may  sing  in
 shrieks,  their  mouths  hiss  out,  that  their  heads  may  scream,
 so  that  an  ‘ elf’  {keijolaineri)  must  make  a round,  a jealous
-man  go  round  about,  by  the  back  of  the  fence,  by  the  out-
-side of  the  gate.  If  sorcerers  depress  themselves,  depress
+man  go  round  about,  by  the  back  of  the  fence,  by  the  outside of  the  gate.  If  sorcerers  depress  themselves,  depress
 the  fence  as  much,  that  no  land  snake  at  all  can  get  in
 underneath  the  fence,  if  sorcerers  raise  themselves,  raise  the
 fence  as  much,  that  no  bird  of  air  at  all  over  the  fence  can
@@ -13043,20 +10863,13 @@ the  sparky  barn,  tear  holes  in  the  sky,  in  the  ‘ lid  of  the
 air’  make  openings  (F.  windows),  let  thy  thunders  crash,
 
 
-PRAYERS
-
-
-291
-
-
 thy  claps  of  thunder  crepitate,  rumble  in  dry-weather
 clouds,  clatter  in  the  bellows  of  the  air,  strike  fire  above
 the  air,  from  the  sky  pour  fire  to  overthrow  the  jealous
 men,  the  witches  to  destroy,  to  stare  at  sorcerers,  to  snatch
 the  wizards  away ; plenty  of  wizards  are  on  the  roads,  of
 sorcerers  in  every  dell,  of  witches  at  every  water-side,  of
-jealous  men  in  every  place,  moving  about  near  the  cattle-
-shed,  walking  along  the  fence’s  side.
+jealous  men  in  every  place,  moving  about  near  the  cattleshed,  walking  along  the  fence’s  side.
 
 Q
 
@@ -13074,8 +10887,7 @@ r
 In  the  mountain  are  there  people,  is  there  help  beneath
 the  rock  ? In  the  mountain  there  are  people,  there  is  help
 beneath  the  rock;  give,  Mountain,  of  thy  might,  of  thy
-people.  Mountaineer ! to  help  a well-beloved  man,  to  sur-
-round a lonely  one,  lest  he  be  eaten  causelessly  or  be  slain
+people.  Mountaineer ! to  help  a well-beloved  man,  to  surround a lonely  one,  lest  he  be  eaten  causelessly  or  be  slain
 without  disease.
 
 
@@ -13085,9 +10897,6 @@ Old  Vainamoinen  ! come,  the  diviner  as  old  as  time,  to
 speak  on  my  behalf,  at  my  side  to  utter  ‘words’;  bring
 hither  a fiery  hound,  a dog  of  iron  hue,  to  eat  the  spells
 (F.  curses)  of  villagers,  to  snap  up  village  sorcerers.
-
-
-292  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 If  that  is  not  enough,  give  me  of  thine  old  folk  that  for
@@ -13115,8 +10924,7 @@ jealous  one,  slit  the  nose  of  the  sorcerers.
 Men  of  the  sea ! arise,  ye  heroes  of  landlocked  lakes,
 from  the  gravel,  ye  ‘ scaly  cloaks,’  from  the  pool,  ye  ‘ sandy
 shirts,’  that  are  tall  as  pillars  of  cloud,  as  high  as  great
-forest  firs,  a hundred  men  with  swords,  a thousand  full-
-grown  men  of  iron,  to  follow  in  my  company,  to  rush  noisily
+forest  firs,  a hundred  men  with  swords,  a thousand  fullgrown  men  of  iron,  to  follow  in  my  company,  to  rush  noisily
 with  me,  to  overthrow  the  jealous  men,  to  overcome  the
 enemies,  so  that  no  foe  shall  eat  too  much,  no  enemy
 snatch  much  away.
@@ -13125,12 +10933,6 @@ V
 
 Up,  swordsmen  ! from  the  earth,  ye  heroes  as  old  as  the
 earth,  ye  glaive-men,  from  the  wells,  ye  bowmen,  from  the
-
-
-PRAYERS
-
-
-293
 
 
 streams ; rise,  Forest,  with  thy  men,  thou  Wilderness,  with
@@ -13145,15 +10947,13 @@ an  ‘ archer’s  ’ instruments,  nor  a witch’s  iron  knives.
 § 177.  To  Staunch  Blood.
 a
 
-O Virgin  Mary,  mother  dear,  beloved  mother,  com-
-passionate, come  here,  come  soon,  still  sooner  we  have
+O Virgin  Mary,  mother  dear,  beloved  mother,  compassionate, come  here,  come  soon,  still  sooner  we  have
 need  of  thee ; blood  is  flowing  to  the  ground,  the  bubbling
 gore  is  gushing  forth ; stick  in  thy  little  thumb,  bring  thy
 charming  finger  near  to  bar  the  blood’s  path,  to  plug  the
 flow,  lest  as  a river  it  should  flow,  as  a lake  discharge  itself.
 But  if  it  pays  no  heed  thereto,  does  not  subside  the  very
-least,  go  for  turf  behind  the  house,  for  moss  from  the  bath-
-house logs,  to  plug  the  flow,  to  dam  the  rush.  If  still  it
+least,  go  for  turf  behind  the  house,  for  moss  from  the  bathhouse logs,  to  plug  the  flow,  to  dam  the  rush.  If  still  it
 pays  no  heed  thereto,  from  the  sky  bring  here  five  handfuls
 of  flax,  six  distaffs  bound  with  wool,  to  plug  the  fearful
 hole,  to  patch  the  evil  ‘ gate  ’ ; throw  thy  fine-spun  petticoat,
@@ -13164,11 +10964,7 @@ sha’n’t  flow,  that  the  red  blood  shall  not  spill.
 
 b
 
-O Virgin  Mary,  mother  dear,  beloved  mother,  com-
-passionate, when  needed  hither  come,  when  summoned
-
-
-294  the  magic  songs  OF  THE  FINNS
+O Virgin  Mary,  mother  dear,  beloved  mother,  compassionate, when  needed  hither  come,  when  summoned
 
 
 here  approach,  as  we  need  thee  soon,  so  much  the  sooner
@@ -13180,8 +10976,7 @@ red  blood  shall  not  fall,  that  not  a single  drop  shall  drip ;
 from  the  temples  take  the  silk,  undo  the  ribbon  on  thy
 head,  tie  with  thy  silken  hands,  with  thy  hair-plaits  bind
 the  holes  that  are  torn,  the  wounds  that  are  cut.  If  that  is
-not  enough,  take  from  Vainamoinen’s  belt  the  yellow-
-coloured  cloak,  if  no  heed  is  paid  to  that,  snatch  the
+not  enough,  take  from  Vainamoinen’s  belt  the  yellowcoloured  cloak,  if  no  heed  is  paid  to  that,  snatch  the
 Creator’s  silk,  take  the  Almighty’s  cloak,  with  the  Creator’s
 hair-plait  tie,  with  the  Maker’s  wrappers  bandage  up  those
 rents  produced  by  iron,  the  gashes  by  a ‘ blue  edge  ’
@@ -13206,12 +11001,6 @@ d
 
 Thou  lovely  woman,  Maariatar,  when  needed  hither  come.
 A calamity  has  happened  here,  iron  has  gone  raging  mad.
-
-
-PRAYERS
-
-
-295
 
 
 Spin  a stout  thread  on  thy  stout  spinning-staff,  sew  up  the
@@ -13292,12 +11081,6 @@ For  a long  time  back  the  veins  pulsate,  the  fleshy  members
 are  quivering,  the  blood  is  coming  like  a flood,  the  gore  is
 
 
-PRAYERS
-
-
-297
-
-
 wildly  spirting  out.  Come  to  stop  the  blood,  to  bar  the
 rush,  to  close  blood’s  mouth,  to  squeeze  its  throat;  pray
 fetch  a little  bit  of  flesh,  tear  it  from  Lempo’s  thigh,  from
@@ -13334,9 +11117,6 @@ sway  the  boat,  the  west  wind  dash  it  along  without  being
 touched  by  hand,  without  assistance  from  the  oars.
 
 
-298  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
 b
 
 O Ahti,  give  thine  oars,  O water’s  master,  give  thy  boat,
@@ -13366,20 +11146,12 @@ d
 Thou  joyous  bird  ^ of  the  air,  fly  whither  I command,  to
 the  furthest  end  of  the  eternal  east,  to  the  home  of  the
 dawn  of  day,  distend  thy  cheeks  with  air,  blow  a delightful
-breeze,  a favourable  gale  for  me,  that  I can  now  go  any-
-where on  these  wide  waters,  on  these  broad  open  seas.
+breeze,  a favourable  gale  for  me,  that  I can  now  go  anywhere on  these  wide  waters,  on  these  broad  open  seas.
 
 § 179.  To  FORTIFY  Water.
 
-Rise,  maiden,  from  the  spring,  from  the  gravel,  slender-
-fingered one,  rise  to  fetch  water,  pray  bring  energetic  water,
+Rise,  maiden,  from  the  spring,  from  the  gravel,  slenderfingered one,  rise  to  fetch  water,  pray  bring  energetic  water,
 1 Or  nightingale.
-
-
-PRAYERS
-
-
-299
 
 
 sing  forth  serviceable  water,  get  by  devices  helpful  water
@@ -13410,16 +11182,12 @@ attack,  lest  they  flee  from  me.
 § 18 1.  When  using  Salves.
 a
 
-O Virgin  Mary,  mother  dear,  beloved  mother,  com-
-passionate, come  hither  from  the  sky,  descend  from  above
+O Virgin  Mary,  mother  dear,  beloved  mother,  compassionate, come  hither  from  the  sky,  descend  from  above
 the  clouds,  bring  water  from  far  away,  fetch  honey  in  a
 little  stoup  from  the  sky  above,  from  behind  the  courtyard
 of  the  stars,  as  ointments  for  the  pains,  as  embrocations
 for  the  hurts ; milk  honeyed  milk  from  thy  honeyed  breasts
 into  a golden-handled  cup,  into  a copper-sided  one;
-
-
-300  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 thyself  anoint  the  exhausted  one,  stroke  the  sufferer  with
@@ -13433,8 +11201,7 @@ from  oppressive  ‘ bands,’  from  tight-fastened  ‘ belts  of  pain.’^
 
 b
 
-O Virgin  Mary,  mother  dear,  beloved  mother,  com-
-passionate, come  to  anoint  the  sores,  quickly  to  still  the
+O Virgin  Mary,  mother  dear,  beloved  mother,  compassionate, come  to  anoint  the  sores,  quickly  to  still  the
 sufferings.  Pray  bring  some  salves  from  there,  from  above
 nine  skies,  nine  salves,  eight  magic  medicines,  take  the
 wing  of  a finch,  a wee  snow-sparrow’s  spotless  plume,  a
@@ -13458,12 +11225,6 @@ Hill  of  Pain,  old  maker  of  salves,  that  meltest  sweet  stuff,
 cook  reliable  salves,  the  very  best  of  magic  cures,  try  them
 
 1 An  epithet  for  the  pains  of  labour.
-
-
-PRAYERS
-
-
-301
 
 
 thyself  upon  thy  tongue,  taste  the  flavour  with  thy  mouth,
@@ -13504,9 +11265,6 @@ Tapiola,  from  the  honey-dropping  sward,  from  gracious
 fields  o’ergrown  with  scrub,  bring  honey  from  the  meadow’s
 
 
-302  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
 head,  from  the  end  of  the  gracious  scrubby  field,  from  the
 cup  of  a golden  flower,  from  seed-vessel  of  a hundred
 herbs,  cook  the  honey  on  thy  tongue,  in  thy  mouth  melt
@@ -13543,11 +11301,6 @@ Rise  from  the  earth,  thou  bee,  from  the  knoll,  thou
 below  the  sun,  along  the  shoulders  of  Charles’s  Wain,  ’long
 
 
-PRAYERS
-
-
-303
-
 the  back  of  the  Seven  stars,  fly  to  the  Maker’s  porch,  to  the
 chamber  of  the  Omnipotent.  There  they  make  salves,  and
 ointments  (F.  fats)  they  prepare  in  silver  pots,  in  kettles  of
@@ -13582,9 +11335,6 @@ the  warm  land — a downy  plume,  with  which  I ’ll  stroke  a
 helpless  man,  heal  one  that  has  come  to  harm,  shall  sweep
 away  the  fearful  (F.  holy)  ‘ sparks,’  shall  remove  (F.  quench)
 the  fearful  (F.  holy)  plagues.
-
-
-304  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 § 182.  For  a good  Crop.
@@ -13627,12 +11377,6 @@ flax,  that  looks  like  a seed  of  flax,  that  destroys  the  teeth.
 t
 
 
-ORIGINS
-
-
-305
-
-
 keeps  cutting  the  bones  of  the  jaw.  I know  thy  descent,
 and  all  thy  bringing  up ; from  the  sea  a black  [tj.  iron]  man
 rose,  from  the  waves  a hero  mounted  up,  the  height  of  a
@@ -13671,9 +11415,6 @@ to  get  a broom  from  a leafy  grove,  stuff  for  a besom  from
 a copse;  from  her  bosom  fell  a pin,  a copper  pin  dropt
 
 
-2
-
-
 u
 
 
@@ -13706,8 +11447,7 @@ Rakehetar,  was  pulverising  iron  grains,  was  hammering
 steel  points  on  an  iron  rock  in  a mortar  of  alderwood,  with
 a pestle  of  alderwood,  in  a room  of  alderwood.  What  she
 pounded,  that  she  sifted,  she  gobbled  up  those  groats  of
-hers,  bits  went  astray  among  her  teeth,  they  settled  them-
-selves in  the  gums  to  hack  the  teeth,  to  rack  the  jaws.
+hers,  bits  went  astray  among  her  teeth,  they  settled  themselves in  the  gums  to  hack  the  teeth,  to  rack  the  jaws.
 
 /
 
@@ -13716,12 +11456,6 @@ a billhook  under  his  arm ; on  the  path  he  found  an  oak,  on
 the  shore — a gigantic  tree  {rutimo7t  raitd)^  with  the  axe  he
 struck  the  tree,  with  the  level  edge  he  dealt  a blow,  a chip
 got  stuck  upon  the  axe,  a chip  got  stuck  and  tightly  too ;
-
-
-ORIGINS
-
-
-307
 
 
 with  tooth  and  nail  he  tried  to  get  it  loose,  then  in  his
@@ -13780,8 +11514,7 @@ wretched  sufferers,  against  us  poor  unfortunates.
 
 § 190.  The  Origin  of  the  Seal.
 
-A fellow  rises  from  the  sea,  from  the  waves  uplifts  him-
-self, who  counts  the  isles  of  the  sea,  keeps  watch  on  the
+A fellow  rises  from  the  sea,  from  the  waves  uplifts  himself, who  counts  the  isles  of  the  sea,  keeps  watch  on  the
 water’s  fish ; six  flowers  \v.  cups]  are  in  his  hand,  six  at  the
 tip  of  every  flower,  of  train-oil  all  are  full ; they  coagulated
 into  seals.  O seal,  the  portly  boy,  that  roves  around  the
@@ -13800,12 +11533,6 @@ Creator  formed  life  (for  it)  from  his  mouth.
 1 In  Finnish  hylky,  a pun  on  hylke—'2i  seal.’
 
 
-ORIGINS
-
-
-309
-
-
 § 192.  The  Origin  of  the  Cabbage  Worm.
 
 Thou  globular  and  corpulent  black  worm,  thine  origin  is
@@ -13821,8 +11548,7 @@ with  a jingling  sound  into  tufts  of  hay.
 a
 
 Where  was  ‘broad-forehead’  born,  was  ‘honey-paws’
-produced  ? There  was  ‘ broad-forehead  ’ born,  was  ‘ honey-
-paws  ’ produced,  close  to  the  moon,  beside  the  sun,  on  the
+produced  ? There  was  ‘ broad-forehead  ’ born,  was  ‘ honeypaws  ’ produced,  close  to  the  moon,  beside  the  sun,  on  the
 shoulders  of  Charles’s  Wain.  From  there  was  he  let  down
 to  earth,  to  the  honeyed  woods’  interior,  to  a verdant
 thicket’s  edge,  into  a liver-coloured  cleft.  ^ Sinisirkku,  the
@@ -13831,8 +11557,7 @@ of  gold,  in  silver  straps,  under  a fir  with  branching  crown,
 under  a bushy  pine.  ‘ Broad-forehead  ’ then  was  christened,
 the  scanty-haired  one  was  baptized  near  ‘ fiery  ’ rapids,  at
 the  eddy  of  a fearful  (F.  holy)  stream.  Who  undertook  to
-christen  him  ? The  king  of  Himmerkki  himself,  he  under-
-took to  christen  him,  to  baptize  the  scanty-haired ; the
+christen  him  ? The  king  of  Himmerkki  himself,  he  undertook to  christen  him,  to  baptize  the  scanty-haired ; the
 Virgin  Mary,  mother  dear,  both  acted  as  his  godmother
 and  to  the  christening  carried  him.  What  was  the  name
 they  gave?  ‘Hulking  fellow,’  ‘little  haystack,’  ‘lovely
@@ -13842,23 +11567,18 @@ shaggy  coat  of  hair,’  ‘honey-paws,’  ‘the  corpulent.’
 cradle  (Munk4csi  (i),  p.  188),
 
 
-310  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
 b
 
 My  dear  ‘ broad-forehead/  my  beloved,  my  lovely  little
 ‘honey-paws,*  full  well  I know  thine  origin,  where  thou,
 ‘ broad-forehead,’  wast  born,  where  obtained,  ‘ blue  stumpy
-tail,’  where  formed,  ‘claw-footed  one’;  yonder  was  ‘broad-
-forehead  ’ born,  in  the  sky  aloft,  on  the  horns  of  the  moon,
+tail,’  where  formed,  ‘claw-footed  one’;  yonder  was  ‘broadforehead  ’ born,  in  the  sky  aloft,  on  the  horns  of  the  moon,
 on  the  head  of  the  sun,  on  the  Seven  stars’  back,  beside  the
 maidens  of  the  air,  near  Nature’s  daughters.  Fire  shot  in
 flashes  from  the  sky,  on  a wheel  the  world  turned  round,
 while  broad- forehead  was  being  formed,  the  ‘lover  of
 honey  ’ was  being  shaped.  From  there  was  he  let  down  to
-earth,  to  a honeyed  thicket’s  edge,  to  be  nursed  by  Hon-
-gatar,  to  be  rocked  by  Tuometar  at  the  root  of  a stunted
+earth,  to  a honeyed  thicket’s  edge,  to  be  nursed  by  Hongatar,  to  be  rocked  by  Tuometar  at  the  root  of  a stunted
 fir,  under  an  aspen’s  branching  head,  on  the  edge  of
 the  ‘forest-fort,’  in  the  home  of  the  ‘golden’  wilderness.
 Broad-forehead  then  was  christened,  the  dark  grey-haired
@@ -13872,19 +11592,13 @@ life  of  joyousness  on  the  back  of  a swamp,  on  rising  knolls,
 at  the  furthest  end  of  rutting  heaths,  shoeless  to  rove  in
 summer-time,  in  autumn  stockingless,  in  the  worse  seasons
 to  abide,  to  pass  winter’s  cold  in  laziness  inside  a room  of
-oak,  at  the  edge  of  ‘ fir-branch  fort,’  at  the  root  of  a hand-
-some fir,  in  a nook  of  junipers.
+oak,  at  the  edge  of  ‘ fir-branch  fort,’  at  the  root  of  a handsome fir,  in  a nook  of  junipers.
 
 c
 
 ‘ Shaggy ! ’ I call  to  mind  thy  birth,  thy  growth,  thou
 horror  of  the  land  [v.  evil  soot],  there  wast  thou  born,  thou
 
-
-ORIGINS
-
-
-311
 
 cunning  one,  there  raised,  thou  horror  of  the  land,  in
 furthest  limits  of  the  north,  in  Lapland’s  wide  extending
@@ -13910,8 +11624,7 @@ him  off  to  be  baptized.
 The  devil  (Ferkele)  made  his  nest,  the  evil  one  arranged
 his  lair  in  the  house  of  a landed  gentleman,  before  the
 dwelling  of  a judge,  on  a joist  of  the  sheriff’s  roof,  on  the
-floor  of  a juryman,  in  a bishop’s  long  sleeves,  the  shirt-
-collar  of  a priest ; then  his  children  he  brought  forth,  he
+floor  of  a juryman,  in  a bishop’s  long  sleeves,  the  shirtcollar  of  a priest ; then  his  children  he  brought  forth,  he
 bred  his  progeny,  to  be  for  the  rich  a source  of  strife  \v.  to
 enrich  the  lords],  to  be  courts  of  law  for  the  poor  \v.  to
 cause  ruin  to  the  poor].
@@ -13921,16 +11634,12 @@ cause  ruin  to  the  poor].
 taste  which  bears  are  very  fond  of.
 
 
-312  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
 § 195.  The  Origin  of  the  Cat.
 
 Of  course  I know  the  cat’s  origin,  the  incubation  of  ‘ grey
 beard  ’ ; on  a stone  was  obtained  the  cat  with  the  nose  of  a
 girl,  with  the  head  of  a hare,  with  a tail  from  Hiisi’s  plait
-of  hair,  with  the  claws  of  a viper  snake,  with  feet  of  cloud-
-berries, from  a wolf  the  rest  of  its  body  comes.
+of  hair,  with  the  claws  of  a viper  snake,  with  feet  of  cloudberries, from  a wolf  the  rest  of  its  body  comes.
 
 § 196.  The  Origin  of  Stone.
 a
@@ -13938,8 +11647,7 @@ a
 A stone  is  Kimmo  Kammo’s  \v.  Kimma  Kamma’s  {v.
 Kaaja’s)]  son,  a rolling  stone  is  Mammo’s  son  \v.  is  Kimma’s
 mother’s  liver],  is  an  egg  of  the  earth,  a clod  of  the  field,
-the  offspring  of  Kimmahatar  \v.  Huorahatar],  the  pro-
-duction of  Vuolahatar,  the  heart’s  core  of  Syojatar,  a slice
+the  offspring  of  Kimmahatar  \v.  Huorahatar],  the  production of  Vuolahatar,  the  heart’s  core  of  Syojatar,  a slice
 of  the  liver  of  Mammotar,  is  the  growth  of  Aijotar,  the
 small  spleen  of  Joukahainen.
 
@@ -13961,27 +11669,19 @@ mouth.  Harlots  were  rinsing  their  linen  caps,  at  the  river
 1 To  understand  this  effusion  it  must  be  read  with  § 26  a.
 
 
-ORIGINS
-
-
-313
-
-
 Jordan’s  mouth,  then  afterwards  was  cancer  bred,  then  the
 biter  of  bone  appeared,  the  eater  of  flesh,  the  biter  of  bone
 that  sucks  the  blood  quite  raw  without  being  cooked  in  a
 pot,  without  being  warmed  in  a copper  one.  The  ‘ dog  ’
 set  off  to  run,  the  ‘worm’  began  to  crawl,  went  off  to
-corrupt  the  bone,  to  macerate  the  flesh,  to  make  it  sup-
-purate, in  whitlows  to  make  it  swell.
+corrupt  the  bone,  to  macerate  the  flesh,  to  make  it  suppurate, in  whitlows  to  make  it  swell.
 
 § 198.  The  Origin  of  the  Dog.
 a
 
 Whelp’s  genesis  is  from  the  wind,  dog’s  origin  from  chilly
 wind  \v.  a pup’s  from  the  shining  of  the  sun];  the  old
-woman  Louhiatar  [v.  the  blind  one  of  Untamola  (v.  Ulap-
-pala)],  the  harlot  mistress  of  Pohjola  [v.  the  wholly  blind
+woman  Louhiatar  [v.  the  blind  one  of  Untamola  (v.  Ulappala)],  the  harlot  mistress  of  Pohjola  [v.  the  wholly  blind
 of  Vaainola]  ^ slept  with  her  back  against  the  wind,  with
 her  side  to  the  north-west ; the  wind  made  her  with  child,
 a chilly  wind  made  hard  her  womb.
@@ -13994,16 +11694,12 @@ lighten  her  wame ; from  her  womb  she  threw  a dog,  from
 under  her  spleen — a whelp.
 
 Who  carried  the  swaddling-clothes,  the  whelp’s  coarse
-swaddling  bandages  ? The  furious  firwood-crone  (Hawon-
-akka)  carried  the  swaddling-clothes,  in  her  own  linen  rocked
+swaddling  bandages  ? The  furious  firwood-crone  (Hawonakka)  carried  the  swaddling-clothes,  in  her  own  linen  rocked
 and  dandled  in  her  lap  the  pup,  she  taught  her  son  to  trot
 about,  ‘ the  woolly  tail  ’ to  mark  the  way.  The  best  maiden
 of  Pohjola  was  standing  near  the  wall,  was  under  the  window
 sill,  engaged  in  melting  a luscious  stuff ; it  hardened  on  her
 1 V.  The  splendid  woman  Penitar,  v.  the  little  woman  Peniatar.
-
-
-314  the  magic  songs  OF  THE  FINNS
 
 
 finger  points  and  with  it  she  smeared  its  teeth ; a useful  dog
@@ -14016,8 +11712,7 @@ Of  course  I know  the  dog’s  genesis,  I remember  the
 puppy’s  origin : he  was  made  on  a heap  of  dust,  on  a
 meadow  was  prepared,  by  nine  fathers  was  produced,  by
 a single  mother  brought  to  birth.  The  Earth’s  mistress,
-Manuhatar,  knocked  out  a head  from  a grassy  knoll,  pro-
-cured its  legs  from  stakes,  its  ears  from  water-lily  leaves,
+Manuhatar,  knocked  out  a head  from  a grassy  knoll,  procured its  legs  from  stakes,  its  ears  from  water-lily  leaves,
 from  the  east  wind  she  struck  out  gums,  out  of  wind  she
 formed  its  nose.
 
@@ -14030,8 +11725,7 @@ the  ground,  more  round  than  the  egg  of  a hazel  grouse,
 more  heavy  than  a thrush’s  egg.  Therefrom  grew  a lovely
 birch,  a verdant  sapling  raised  itself,  the  sprout  by  the  earth
 (manner)  was  made  to  grow,  was  rocked  by  Tuuletar ; its
-head  attempted  to  reach  the  sky,  its  boughs  spread  out-
-wards in  the  air.
+head  attempted  to  reach  the  sky,  its  boughs  spread  outwards in  the  air.
 
 § 200.  The  Origin  of  the  Raven.
 a
@@ -14042,18 +11736,11 @@ raven  was  bred : the  scoundrelly  raven,  Tempo’s  bird,  the
 most  disgusting  bird  of  air  was  born  on  a charcoal  hill,  was
 
 
-ORIGINS
-
-
-315
-
-
 reared  on  a coaly  heath,  was  gathered  from  burning  brands,
 was  bred  from  charcoal  sticks,  of  potsherds  its  head  was
 made,  its  breastbone  from  Lempo’s  spinning-wheel,  its
 tail  from  Lempo’s  sail,  its  shanks  from  crooked  sticks,  its
-belly  from  a wretch’s  sack,  its  guts  from  Lempo’s  needle-
-case,  from  an  air-ring  its  rump,  from  a worn-out  kettle  its
+belly  from  a wretch’s  sack,  its  guts  from  Lempo’s  needlecase,  from  an  air-ring  its  rump,  from  a worn-out  kettle  its
 crop,  its  neck  from  Hiisi’s  weaving-stool,  its  beak  from  a
 sorcerer’s  arrow-tip,  its  tongue  from  Kirki’s  axe,  its  eyes
 from  a mussel  pearl  [F.  stone].
@@ -14062,8 +11749,7 @@ b
 
 Ho ! raven,  thou  ill-omened  bird,  of  three  Lempos  thou
 art  the  bird,  thy  hovel  is  on  the  ground,  thy  home  is  on
-a birch  j full  well  I know  thine  origin  with  all  thy  bringing-
-up  : thou  wast  gathered  from  kitchen  soot,  heaped  up  from
+a birch  j full  well  I know  thine  origin  with  all  thy  bringingup  : thou  wast  gathered  from  kitchen  soot,  heaped  up  from
 burning  sticks,  wast  bred  from  coals,  composed  of  all  that
 is  bad,  thy  body  of  Hiisi’s  leather  glove,  thy  legs  of  Hiisi’s
 spinning-staffs,  thy  guts  of  Hiisi’s  belt  appendages,  from
@@ -14098,10 +11784,8 @@ a
 
 Night’s  daughter,  the  maid  of  dusk,  that  ‘keeps  the  long
 evening  watch,  was  spinning  a stony  thread,  was  twisting
-a gravelly  one,  on  a distaff  of  stone,  on  a copper  spinning-
-staff.  The  stony  thread  snapt,  in  her  fingers — the  gravelly
-one,  from  the  distaff  of  stone,  from  the  copper  spinning-
-staff.  From  the  broken  ends  was  obtained  an  evil  brood,
+a gravelly  one,  on  a distaff  of  stone,  on  a copper  spinningstaff.  The  stony  thread  snapt,  in  her  fingers — the  gravelly
+one,  from  the  distaff  of  stone,  from  the  copper  spinningstaff.  From  the  broken  ends  was  obtained  an  evil  brood,
 from  them  ‘ striped  back  ’ was  born,  the  ‘ worm  of  Manala  ’
 was  bred.
 
@@ -14121,12 +11805,6 @@ was  produced.
 llmarinen,  cf.  Kal.  xxxix.  93-110.
 
 2 Or  ‘ a tangled  ball.’
-
-
-ORIGINS
-
-
-317
 
 
 § 203.  The  Origin  of  the  Snake.
@@ -14203,12 +11881,6 @@ the  ‘toad,’  on  the  weathered  stone  the  wretch’s  slime;  he
 1 A stone  where  festivities  and  sports  are  held.
 
 
-ORIGINS
-
-
-319
-
-
 takes  a look,  he  turns  about  to  see  what  the  clod  on  the
 rock  might  be,  and  of  it  he  began  talk  :
 
@@ -14234,8 +11906,7 @@ ground,  on  its  stomach  to  crawl  about.
 
 Black  worm  that  liveth  underground,  maggot  of  the  hue
 of  death  (Tuoni) ! I know  thine  origin  with  all  thy  bringing
-up : thy  mother  is  Syojatar,  thy  parent  a water-sprite  (z/e/e-
-hinen),  Syojatar  on  a lake  was  rowing,  the  ‘ fiery  throat  ’
+up : thy  mother  is  Syojatar,  thy  parent  a water-sprite  (z/e/ehinen),  Syojatar  on  a lake  was  rowing,  the  ‘ fiery  throat  ’
 was  bobbing  in  a copper  boat  with  scarlet  sail ; Syojatar  on
 the  water  spat,^  let  drop  a lump  upon  the  waves.  Wind
 rocked  it  to  and  fro,  a current  of  water  swayed  and  rocked
@@ -14244,9 +11915,6 @@ sea,  on  the  illimitable  waves.  The  water  drew  it  out  in
 
 1 V.  She  combed  her  head ; she  brushed  her  hair ; a hair  disappeared
 from  the  brush ; into  the  water  fell  the  hair.
-
-
-320  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 length,  sun  baked  it  soft,  the  water’s  surge  directed  it,  the
@@ -14288,19 +11956,12 @@ into  a snake  it  changed,  into  a crawler  on  the  ground,  into
 a wriggler  on  the  path.
 
 
-ORIGINS
-
-
-321
-
-
 /
 
 Thou  dusky  worm  the  hissing  snake,  a maggot  of  the
 hue  of  death,  full  well  I know  thine  origin,  know  all  thy
 bringing  up,  of  what  thou,  useless  wretch,  wast  formed,
-from  what  wast  born,  thou  cunning  one.^  Tuoni’s  iron-
-toothed old  wife,  the  crooked-fingered,  the  crurnple-jawed,
+from  what  wast  born,  thou  cunning  one.^  Tuoni’s  irontoothed old  wife,  the  crooked-fingered,  the  crurnple-jawed,
 was  spinning  on  a summer’s  day,  at  midnight  on  an
 autumn  night,  blood  from  the  distaff  spirted  out,  from  the
 copper  spinning-staff.  From  that  thou,  useless  wretch,
@@ -14330,12 +11991,6 @@ evil  creature’s  tail  ? — of  the  hair-plait  of  Hiisi’s  girl.  From
 1 Or  ‘ tangled  ball.  ’
 
 X
-
-
-2
-
-
-322  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 what  were  knotted  up  the  guts  ? — from  the  appendages  of
@@ -14380,12 +12035,6 @@ a
 b
 
 
-ORIGINS
-
-
-323
-
-
 Tuoni’s  grub,  they  roasted  the  worm  of  earth,  they  scorched
 the  hideous  thing,  they  baked  it  to  an  ash  before  the  gate  of
 Pohjola,  on  Lapland’s  chip-strewn  plain ; a little~a^h,  a srhall
@@ -14399,8 +12048,7 @@ space  between  two  days.
 
 c
 
-Once  on  a time  a black  jade  died,  a white  horse  suc-
-cumbed on  a meadow  without  a name,  on  an  unknown
+Once  on  a time  a black  jade  died,  a white  horse  succumbed on  a meadow  without  a name,  on  an  unknown
 piece  of  ground,  the  meadow  was  singed  by  the  bones,  an
 old  rake  was  burnt,  an  old  woman  was  scorched.  A little
 ash  was  the  result,  a small  quantity  was  obtained  and  in  it
@@ -14412,16 +12060,12 @@ and  Kauko  made  it  grow  by  day.
 a
 
 A lass  was  sitting  on  a cloud,  a woman  ikapo)  on  a
-rainbow’s  edge,  the  girl  was  combing  her  head,  was  brush-
-ing her  hair  with  a copper  comb,  with  a silver  brush ; a
+rainbow’s  edge,  the  girl  was  combing  her  head,  was  brushing her  hair  with  a copper  comb,  with  a silver  brush ; a
 hair  of  the  brush  broke  off,  a tooth  of  the  comb  snapt  off
 on  the  clear  and  open  sea,  on  the  illimitable  waves.  Wind
 rocked  it  to  and  fro,  a current  of  water  jolted  it  ashore
 into  a stony  hole,  against  a thick  stone’s  side.  Into  a
 ‘distaff’  then  it  turned,  into  a snake  it  changed  itself,
-
-
-324  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 stretched  itself  out  towards  a cattle-shed,  took  its  departure
@@ -14440,8 +12084,7 @@ brush  broke  off,  a tooth  of  the  comb  crashed  down  on  the
 wide  bay,  on  the  clear  and  open  sea,  to  be  rocked  by  the
 wind,  to  be  drifted  by  the  waves.  Wind  rocked  it  to  and
 fro,  a billow  drifted  it  ashore,  from  it  the  autumn  worm
-was  born,  the  winter  snake  acquired  its  ways,  in  the  cow-
-house it  crawls  about  and  under  corners  glides.
+was  born,  the  winter  snake  acquired  its  ways,  in  the  cowhouse it  crawls  about  and  under  corners  glides.
 
 c
 
@@ -14459,18 +12102,11 @@ it  into  foam,  the  billows  drifted  it  ashore.  A furious  old
 crone  [v.  the  harlot  mistress  of  Pohjola],  was  bucking
 
 
-ORIGINS
-
-
-325
-
-
 clothes,  was  dabbling  at  her  linen  rags,  she  picked  it  up
 and  poked  it  into  her  long-thonged  pouch,  in  the  pouch
 she  carried  it  home,  to  the  yard — in  the  long-thonged
 pouch,  to  make  into  snails,  to  fashion  into  grubs.  From
-her  pouch  she  upset  the  scum,  she  flung  it  near  a cattle-
-house  among  the  litter  of  the  shed,  she  hid  it  in  the
+her  pouch  she  upset  the  scum,  she  flung  it  near  a cattlehouse  among  the  litter  of  the  shed,  she  hid  it  in  the
 farmyard  dust,  with  the  farm  sweepings  covered  it;  from
 that  the  family  was  bred,  the  wee  white  snake  was  reared
 that  mutters  in  the  byre,  that  mumbles  in  the  muck,  that
@@ -14500,9 +12136,6 @@ at  it,  turned  it  round,  and  with  these  words,  she  spake —
 ‘The  harlot  mistress  of  Pohjola  has  thrown  it  from  her
 lap,  has  flung  away  her  wool,  on  the  sea  has  torn  off  her
 hair  which  a wind  has  drifted  to  the  land,  a tempest  carried
-
-
-326  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 to  a rock;  now,  what  might  be  made  of  it  and  what  be
@@ -14542,19 +12175,12 @@ was  born,  from  that  the  nimble  bird  was  bred,  the  best
 wild  creature  grew,  the  gliding  and  snow-coloured  one.
 
 
-ORIGINS
-
-
-327
-
-
 § 206.  The  Origin  of  the  Earth  Elf  (Skin  Eruption)
 F.  maahinen.  __
 
 a
 
-A rash  {maahinen)  is  from  the  earth  by  birth,  a red  skin-
-spot  is  from  the  yard,  from  water’s  anger  or  from  earth’s,
+A rash  {maahinen)  is  from  the  earth  by  birth,  a red  skinspot  is  from  the  yard,  from  water’s  anger  or  from  earth’s,
 from  the  secret  rancour  of  a frog ; from  this  the  cunning
 one  was  born,  the  land’s  deceitful  one  was  bred,  although  I
 cannot  tell  the  least  how  it  has  come  here  now,  has  come
@@ -14586,11 +12212,7 @@ I know  well  the  sorcerer’s  birth,  the  fortune-teller’s
 took  their  rise  behind  the  limit  of  the  north,  in  the  Lapp’s
 
 
-328  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
-flat  open  land;  there  the  sorcerer  was  born,  the  fortune-
-teller there  was  bred  on  a bed  of  fir-boughs,  on  a pillow  of
+flat  open  land;  there  the  sorcerer  was  born,  the  fortuneteller there  was  bred  on  a bed  of  fir-boughs,  on  a pillow  of
 stone.
 
 § 208.  The  Origin  of  Arrows.
@@ -14624,12 +12246,6 @@ a
 
 The  origin  of  ale  is  known,  the  beginning  of  drink  is
 guessed : from  barley  is  the  origin  of  ale,  of  the  noble
-
-
-ORIGINS
-
-
-329
 
 
 drink — from  hops,  yet  without  water  it ’s  not  produced,  nor
@@ -14668,9 +12284,6 @@ with  speed,  soon  a long  distance  he  had  run  to  a forest’s
 gloomy  wilds,  where  mares  are  wont  to  fight,  where  stallions
 
 
-330  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
 battle  savagely.  Froth  dript  from  the  mouth  of  a mare,  the
 lather — from  a stallion’s  nose,  he  brought  it  to  the  maiden’s
 {kapo)  hand,  to  the  shoulder  of  Osmotar.  The  maiden  {kapo)
@@ -14704,8 +12317,6 @@ began  to  work  in  the  new  wooden  vat,  in  the  two-handled
 birchen  tub ; the  ale  was  ready  for  use,  the  juice — for  men
 drink.
 
-
-ORIGINS  331
 
 b
 
@@ -14746,11 +12357,7 @@ Pohja’s  maiden,  the  kindly  girl,  herself  gave  utterance  to
 words — ‘ How  unlucky  I am  ; alas  ! my  thoughtless  deeds.
 
 
-332  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
-for  I have  brewed  a bad  kind  of  ale,  I Ve  prepared  a dis-
-orderly beer,  it  has  swelled  up  in  the  tub,  rolled  in  waves
+for  I have  brewed  a bad  kind  of  ale,  I Ve  prepared  a disorderly beer,  it  has  swelled  up  in  the  tub,  rolled  in  waves
 upon  the  floor.’  From  a tree  a redstart  sang,  a thrush,
 from  the  edge  of  the  eaves — ‘ It  is  not  of  bad  kind,  it ’s  a
 drink  of  good  kind  to  be  emptied  into  tuns,  into  cellars  to
@@ -14765,13 +12372,11 @@ o’er  the  fence,  where  people  drink  with  jollity,  lift  up  their
 voices  in  merriment.’  Such  was  the  origin  of  ale,  the
 beginning  and  the  origin ; what  did  it  get  its  good  name
 from,  from  what  its  widely-spread  esteem  ? From  the  stove
-a cat  called  out,  from  the  end  of  the  bench  a puss  ex-
-claimed— ‘ If  this  is  a good  kind  of  drink,  let  its  name  be
+a cat  called  out,  from  the  end  of  the  bench  a puss  exclaimed— ‘ If  this  is  a good  kind  of  drink,  let  its  name  be
 ale.’^  From  that  ale  got  its  name,  and  its  widely-spread
 esteem,  as  it  was  a good  kind  of  drink,  a good  drink  for
 the  temperate,  gave  to  women  laughing  mouths,  to  men — a
-cheery  mind,  gladdened  the  temperate,  caused  the  bois-
-terous to  reel  [z/.  fight].
+cheery  mind,  gladdened  the  temperate,  caused  the  boisterous to  reel  [z/.  fight].
 
 
 § 210.  The  Origin  of  Sharp  Frost  {Fakkanen).
@@ -14784,12 +12389,6 @@ now  tell  thine  origin,  shall  I announce  thy  character  ? I
 be  derived  from  hyva-oloinen  ‘ of  a good  kind.’
 
 
-ORIGINS
-
-
-333
-
-
 know  thy  race’s  origin,  I know  all  thy  bringing  up.  Sharp
 Frost  was  born  among  willow  trees,  Hard  Weather — in  a
 clump  of  birch,  of  an  ever-devastating  sire,  of  a mother  good
@@ -14800,10 +12399,8 @@ mother  had  no  paps?  To  Sharp  Frost  a snake  gave  suck,
 to  Hard  Weather  gave  nourishment,  a snake  gave  food,  a
 viper  gave  suck,  a worm  treated  him  to  milk  from  an  udder
 moistureless,  from  pointless  teats ; a north  wind  rocked  him
-to  and  fro,  chill  weather  put  him  to  sleep  near  evil  willow-
-bordered  brooks,  on  unthawed  swamps.  Hence  he  grew
-hard  and  rough,  grew  exceeding  proud,  became  an  evil-
-mannered  boy,  acquired  a destructive  character.  There
+to  and  fro,  chill  weather  put  him  to  sleep  near  evil  willowbordered  brooks,  on  unthawed  swamps.  Hence  he  grew
+hard  and  rough,  grew  exceeding  proud,  became  an  evilmannered  boy,  acquired  a destructive  character.  There
 was  no  name  as  yet  for  the  lubberly  boy ; they  christened
 afterwards  the  child;  for  baptism  they  carried  him  to  a
 bubbling  spring,  to  the  centre  of  a golden  cliff,  a name  was
@@ -14823,9 +12420,6 @@ with  child.  What  did  she  carry  in  the  womb  ? She  carried
 three  male  bairns.  She  gave  birth  to  her  sons,  of  her
 children  she  was  confined  in  an  outhouse  of  Pohjola,  in  a
 hut  of  Pimentola.  She  invited  the  Maker  to  baptize,  God
-
-
-334  the  magic  SONGS  OF  THE  FINNS
 
 
 to  give  names  to  them ; as  the  Creator  never  came,  she
@@ -14865,12 +12459,6 @@ all  the  leaves  off  the  trees,  off  the  grass  all  the  husky
 scales,  from  the  men  all  the  blood.
 
 
-ORIGINS
-
-
-335
-
-
 § 2 1 1.  The  Origin  of  Stitch  or  Pleurisy.
 
 a ^
@@ -14880,8 +12468,7 @@ up,  grew  extremely  high,  sought  to  touch  with  its  head  the
 sky,  it  impeded  the  course  of  the  clouds,  the  movement  of  the
 fleecy  clouds,  it  darkened  half  the  sun,  it  concealed  a third
 of  the  earth.  Young  men  took  counsel,  men  of  middle  age
-reflected  how  they  could  live  without  the  moon,  exist  with-
-out the  sun  in  those  wretched  border  lands,  in  the  miserable
+reflected  how  they  could  live  without  the  moon,  exist  without the  sun  in  those  wretched  border  lands,  in  the  miserable
 northern  lands.  They  needed  a man  to  fell,  to  lay  low  the
 evil  oak ; they  searched  but  none  was  found,  they  sought
 but  discovered  none ; among  this  people  there  was  none,  in
@@ -14895,8 +12482,7 @@ three  fingers  high  \y.  the  height  of  an  ox’s  hoof],  on
 his  shoulder  an  ornamented  axe  with  an  ornamented  haft,
 on  his  head  a tall  hat  of  stone,  on  his  feet  were  stony
 shoes ; he  wanted  to  fell  the  oak,  to  shatter  the  gigantic
-tree  {rutimo  raitd).  He  advanced  with  tripping  gait,  ap-
-proached with  deliberate  stride,  advanced  to  the  root  of
+tree  {rutimo  raitd).  He  advanced  with  tripping  gait,  approached with  deliberate  stride,  advanced  to  the  root  of
 the  tree,  to  the  place  for  breaking  the  huge  oak  down ; with
 his  axe  he  struck  the  tree,  with  the  level  edge  he  dealt  a
 blow,  struck  once,  struck  a second  time,  struck  a third  time
@@ -14905,9 +12491,6 @@ escaped.  Chips  from  the  tree  whirled  down,  fragments
 came  wobbling  down  on  a meadow  without  a name,  on  a
 country  without  a knoll ; other  chips  showered  down,  very
 widely  dispersed  themselves  on  the  clear  and  open  sea,  on
-
-
-336  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 the  wide  and  open  main.  At  the  third  stroke  he  had
@@ -14921,8 +12504,7 @@ on  the  clear  and  open  sea,  on  the  illimitable  waves,  did  a
 wind  rock  to  and  fro,  the  restless  sea  caused  it  to  move,
 a billow  wafted  it  ashore,  it  the  sea’s  breakers  steered  to  a
 nameless  bay,  to  one  unknown  by  name,  where  the  Hiisi-folk
-(Hiitola)  reside,  the  bad  people  hold  their  sales.  Hiisi’s  iron-
-toothed dog  that  ever  runs  along  the  shore,  chanced  to  be
+(Hiitola)  reside,  the  bad  people  hold  their  sales.  Hiisi’s  irontoothed dog  that  ever  runs  along  the  shore,  chanced  to  be
 running  on  the  beach,  to  be  making  the  gravel  rattle ; in  the
 waves  he  spied  the  chip,  from  the  waves  snapped  out  the  chip
 and  carried  it  to  a woman’s  {kapd)  hands,  to  the  finger-tips
@@ -14934,8 +12516,7 @@ of  a smith  in  the  hands  of  a well-skilled  man ; arrows  might
 a sorcerer  get,  an  archer — lasting  instruments.’
 
 A scoundrel  happened  to  overhear,  an  evil  one  to  observe;
-to  a smithy  the  evil  one  carried  it,  arrows  he  made  of  it,  pre-
-pared blunt-headed  shafts  to  be  stitch  and  pleurisy  in  men,
+to  a smithy  the  evil  one  carried  it,  arrows  he  made  of  it,  prepared blunt-headed  shafts  to  be  stitch  and  pleurisy  in  men,
 to  be  sudden  sickness  in  a horse,  to  be  elf-shots  (F.  jagged
 spikes)  in  kine.  Arrows  the  devil  (Piru)  made,  he  sharpened
 jagged  spikes  in  a mountain  of  steel,  in  an  iron  rock.  A
@@ -14944,12 +12525,6 @@ smithy  without  a door,  altogether  windowless ; he  made  the
 heads  of  steel,  he  turned  the  shafts  of  oak,  from  the  bough
 of  a ‘ fiery  ’ oak,  from  the  branch  of  a ruddy  tree.  His
 arrows  he  smoothed,  he  smoothed,  he  plumed  with  a
-
-
-ORIGINS
-
-
-337
 
 
 swallow’s  little  plumes,  with  feathers  from  a striped  bird’s
@@ -14988,8 +12563,6 @@ always  by  favour  of  the  Lord.
 2 y
 
 
-338  THE  MAGIC  SONGS  OF  THE  FINNS
-
 b
 
 Of  old  a lovely  oak  grew  up,  a flourishing  sapling  rose
@@ -15027,12 +12600,6 @@ on  his  nape  was  an  iron  hat,  on  his  feet  were  iron  boots,
 on  his  arms  were  iron  sleeves,  on  his  mitts  was  iron  em-
 
 
-ORIGINS
-
-
-339
-
-
 broidery,  an  iron  belt  begirt  his  waist,  behind  his  belt  was
 an  iron  axe,  the  axe  had  an  iron  haft,  at  the  tip  of  the  haft
 was  an  iron  knob.  He  sharpened  his  axe,  he  whetted  the
@@ -15041,8 +12608,7 @@ steel,  on  five  Esthonian  stones,  on  six  whetstones,  on  the
 ends  of  seven  hones,  on  the  edges  of  eight ; for  nights  he
 was  grinding  the  axe,  was  preparing  the  haft  for  days.
 The  axe  became  sharpened  by  degrees,  the  haft  was
-gradually  prepared;  already  the  man  had  become  full-
-grown,  the  man  began  to  be  a man : his  feet  moved
+gradually  prepared;  already  the  man  had  become  fullgrown,  the  man  began  to  be  a man : his  feet  moved
 briskly  on  the  ground,  his  head  is  touching  the  clouds,  his
 bristly  beard  did  gleam  like  a leafy  grove  upon  a slope,  his
 hair  did  sway  like  a clump  of  pines  upon  a hill.  One  step
@@ -15051,14 +12617,12 @@ he  trod  with  one  of  his  feet  on  a spot  of  yielding  sand,
 with  the  other  foot  he  trod  on  the  liver-coloured  earth,
 with  the  third  stride  already  he  had  reached  the  roots  of
 the  oak,  the  place  of  pain  and  endless  smarts  for  that  red
-tree.  Firmly  he  struck  the  oak  with  his  axe,  with  the  level-
-edged  ; from  the  side  of  the  tree  a chip  flew  off,  a chip  from
+tree.  Firmly  he  struck  the  oak  with  his  axe,  with  the  leveledged  ; from  the  side  of  the  tree  a chip  flew  off,  a chip  from
 the  outside  splintered  off,  a wind  transported  it  away  to
 the  great  open  sea,  as  a boat  for  Vainamoinen,  as  wood
 for  the  singer’s  skiff.  Once  and  again  he  struck  a blow,
 nor  was  it  long  before  he  broke  and  felled  to  the  ground  the
-oak  with  its  crown  to  the  south,  with  the  lower  end  north-
-east, or  inclining  due  north.  He  looked  at  the  chips,  at
+oak  with  its  crown  to  the  south,  with  the  lower  end  northeast, or  inclining  due  north.  He  looked  at  the  chips,  at
 where  the  red  tree  had  fallen  down,  at  the  ground  where
 lay  the  wide-spreading  oak,  and  thus  he  exclaimed  in
 words —
@@ -15066,9 +12630,6 @@ words —
 ‘ A useful  wood  might  be  got  from  this,  from  the  boughs
 of  the  level-headed  oak ; whoever  takes  a branch,  has  taken
 eternal  luck,  whoever  cuts  off  a leafy  bough,  cuts  off  an
-
-
-340  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 eternal  power  to  please,  whoever  breaks  off  a topmost
@@ -15111,9 +12672,6 @@ with  which  he  stabbed  a hundred  men,  stuck  a thousand
 ORIGIN^
 
 
-341
-
-
 men.  Piru  took  up  his  stabbing  tools,  Keito  seized  hold
 of  the  spears,  kept  brandishing  his  spears,  launched  angrily
 his  jagged  spikes  as  stitch  and  pleurisy  in  men,  as  elf-shots
@@ -15150,9 +12708,6 @@ Terhetar,  sifted  mist  with  a sieve,  kept  scattering  fog  at  a
 misty  promontory’s  point,  at  the  end  of  a foggy  isle ; from
 
 
-342  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
 this  have  fevers  their  origin,  fevers  and  pleurisies  in  a
 naked  skin,  in  a body  full  of  pain.
 
@@ -15176,8 +12731,7 @@ trees,  willows — on  flooded  land,  sallows — on  meadow
 boundaries,  in  sterile  places — ^junipers,  and  oaks  along  the
 river  banks.  The  trees  began  to  sprout,  the  sapling  shoots
 to  grow,  while  rocked  by  a gust  of  wind,  while  swung  by  a
-chilly  wind ; the  bushy-headed  firs  grew  up,  the  branching-
-headed pines  spread  out,  birches  sprang  up  in  humid  dells,
+chilly  wind ; the  bushy-headed  firs  grew  up,  the  branchingheaded pines  spread  out,  birches  sprang  up  in  humid  dells,
 the  alder  trees  on  looseish  earth,  birdcherry-trees  on
 dampish  earth,  in  holy  places  rowan-trees,  willows  on
 flooded  land,  sallows  on  moistish  land,  on  sterile  ground
@@ -15186,12 +12740,6 @@ the  junipers  and  oaks  along  the  river  banks.
 i A variant  in  the  Old  Kalevala  makes  this  remark  of  the  Sampo,
 
 (O.  K.  p.  314).
-
-
-ORIGINS
-
-
-343
 
 
 Variants.
@@ -15216,12 +12764,10 @@ spruces  grew  up;  sowed  hillocks,  firs  grew  up;  sowed
 ridges,  aspens  grew,  small  pines  grew  up,  poor  wretched
 shoots  shot  up,  tall  slender  firs  grew  up,  huge  airy  pines,
 birdcherries  grew  and  oaks  grew  up,  unbending  junipers
-grew  up,  fine  berries  has  the  juniper,  good  fruit — the  bird-
-cherry  tree.
+grew  up,  fine  berries  has  the  juniper,  good  fruit — the  birdcherry  tree.
 
 The  Creator  uttered  from  the  sky,  pure  God  spoke  forth
-— ‘ All  trees  are  made  by  God,  are  grown  by  the  Omni-
-potent, are  rocked  by  Tuuletar,  are  tended  by  chilly  wind,
+— ‘ All  trees  are  made  by  God,  are  grown  by  the  Omnipotent, are  rocked  by  Tuuletar,  are  tended  by  chilly  wind,
 by  frosty  weather  are  put  to  sleep,  are  suckled  by  bitter
 frost.
 
@@ -15239,9 +12785,6 @@ A wolf  was  running  along  the  ice,  a pike  was  swimming
 below  the  ice,  a hair  of  the  wolf  snapt  off,  a tooth  of  the
 
 1 Or  stooping — with  reference  to  the  action  of  sowing.
-
-
-344  the  magic  SONGS  OF  THE  FINNS
 
 
 dark-grey  pike;  fair  Kati,  the  youthful  girl,  from  the  ice
@@ -15280,12 +12823,6 @@ off  some  of  its  hair,  flung  down  on  the  ground  its  wool,
 then  from  it  a birth  took  place,  from  it  every  tree  was
 reared,  from  it  slender  pines  arose,  bushy  pines  branched
 thickly  out,  bushy-headed  firs  grew  up.
-
-
-ORIGINS
-
-
-345
 
 
 g
@@ -15327,9 +12864,6 @@ creation  of  God,  a sprout  by  Jesus  is  drawn  forth,  a shoot
 by  good  luck  brought  to  light,  by  Kanarvainen  reared,  by
 
 
-346  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
 stormy  weather  buffeted;  a bough  of  it  with  honey  drips,
 keeps  spirting  forth  a luscious  juice ; God  drenched  the
 shoot,  a cloud  touched  its  branching  head,  wind  swayed
@@ -15338,8 +12872,7 @@ grown  in  a nook,  on  ground  where  berry-stalks  abound,
 was  formed  by  three  Luonnotars,  was  softened  by  a
 Pelkolainen;  the  alder  was  not  made  for  wood,  not  for
 wood  nor  for  earth,  it  was  made  for  gripings  in  the  wame,
-as  a remedy  for  hurts,  as  a salve  for  sores,  as  an  embroca-
-tion for  wounds.
+as  a remedy  for  hurts,  as  a salve  for  sores,  as  an  embrocation for  wounds.
 
 i
 
@@ -15362,25 +12895,17 @@ Variants.
 § 213.  The  Origin  of  Cancer.
 
 A woman,  old  and  furious,  with  the  movement  of  the
-wind  and  water,  with  the  movement  of  all  the  fish,^  was  carry-
-ing a heavy  womb,  a bellyful  of  suffering,  for  thirty  summers
+wind  and  water,  with  the  movement  of  all  the  fish,^  was  carrying a heavy  womb,  a bellyful  of  suffering,  for  thirty  summers
 and  for  as  many  winters  too ; she  finally  got  a malignant
 
 1 i.e.  Who  dashed  and  stormed  about  like  wind  and  water,  and  with
 the  velocity  of  a fish.
 
 
-ORIGINS
-
-
-347
-
-
 boy,  an  eater  of  flesh,  a biter  of  bone ; into  a cancer  she
 fashioned  him.  She  reared  her  son,  her  offspring  she
 covered  round  with  bloody  clothing,  with  gory  shirts.  Then
-she  sent  him  away  to  devour,  to  gnaw,  to  lacerate  a chris-
-tened man,  and  destroy  a man  baptized,  to  rot  his  flesh
+she  sent  him  away  to  devour,  to  gnaw,  to  lacerate  a christened man,  and  destroy  a man  baptized,  to  rot  his  flesh
 and  to  gnaw  his  bones.
 
 § 214.  The  Origin  of  Iron.
@@ -15450,12 +12975,6 @@ said — ‘Thou  art  not,  wretched  Iron,  produced  (F.  born),
 thy  family  is  not  brought  forth,  thy  household  won’t  grow
 
 
-ORIGINS
-
-
-349
-
-
 up  without  a violent  fire,  unless  to  a smithy  ta’en,  unless
 set  down  in  a forge,  unless  by  bellows  blown  upon;  but
 heed  it  not,  don’t  pay  the  least  regard.  Fire  will  not  burn
@@ -15494,9 +13013,6 @@ extremely  mad,  thy  brother  ^ thou  wilt  also  cut,  wilt  lacerate
 1 i.e.  A human  being  as  man  also  owed  his  origin  to  the  Luonnotars.
 
 
-350  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
 thy  mother’s  child.’  Then  miserable  Iron  swore,  swore
 his  solemn  oath  in  the  forge  and  on  the  anvil,  under  the
 sledge-hammer’s  blows — ‘ I ’ll  not  touch  flesh,  I ’ll  not  cause
@@ -15510,8 +13026,7 @@ with  my  mouth  than  injure  my  kith  and  kin.’
 
 Then  smith  Ilrnarinen,  the  hammerer  as  old  as  Time,
 snatched  the  iron  from  the  fire  and  on  the  anvil  set  it
-down  to  make  it  malleable,  to  forge  it  into  sharp  imple-
-ments, into  axes,  into  spears,  into  every  sort  of  implement.
+down  to  make  it  malleable,  to  forge  it  into  sharp  implements, into  axes,  into  spears,  into  every  sort  of  implement.
 He  hammers  with  repeated  blows,  he  strikes  cling  clang,
 but  the  iron  will  not  take  an  edge,  an  edge  of  steel  is  not
 produced,  the  iron  won’t  get  hard,  i86,  nor  the  edge  of
@@ -15532,12 +13047,6 @@ from  Metsola,  fine  honey  from  the  honeyed  woods,  for  the
 steel  that  he  will  make,  for  the  iron  that  he  will  forge.  A
 hornet,  ‘Hiisi’s  bird,’  the  bird  of  Hiisi,  ‘Tempo’s  cat,’  round
 the  smithy  flew,  offering  for  sale  its  pains;  it  was  flying  about
-
-
-ORIGINS
-
-
-351
 
 
 and  it  heard  the  clear  words  of  the  smith  about  steel  being
@@ -15579,9 +13088,6 @@ the  heads  of  oaks,  smashed  branching  [v.  huge]  sallow  trees,
 knocked  a hillock  from  the  ground  and  conveyed  it  to  the
 
 
-352  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
 sea ; an  isle  was  formed  by  spells  from  it  on  the  clear  and
 open  sea,  on  the  island  was  a lovely  wood,  in  the  wood — a
 meadow  smooth,  17,  on  this  two  girls  grew  up,  18,  a triplet  of
@@ -15618,12 +13124,6 @@ forge,  along  the  bellows’  outer  edge,  iron  was  already  made
 (F.  born)  and  steel  produced.
 
 
-ORIGINS
-
-
-353
-
-
 Variants.
 
 
@@ -15646,8 +13146,7 @@ much  land  he  badly  burnt,  much  land,  much  swamp,
 he  burnt  up  sandy  fields  run  wild,  he  burnt  up  sandy
 heaths ; poor  iron  lay  concealed  from  his  angry  brother’s
 face.  Where  did  poor  Iron  hide,  where  did  he  hide  and
-save  himself  in  that  prodigious  year  of  drought,  that  sum-
-mer bad  for  forest  fires  ? Poor  Iron  did  not  hide  in  old
+save  himself  in  that  prodigious  year  of  drought,  that  summer bad  for  forest  fires  ? Poor  Iron  did  not  hide  in  old
 Vainamoinen’s  belt,  in  his  tripartite  sheath,  certainly  not
 there.  Poor  Iron  did  not  hide  in  a young  maiden’s  paps,
 under  a growing  maiden’s  arm,  on  a long  fringe  of  cloud,
@@ -15665,9 +13164,6 @@ the  wood-grouse  keeps  her  nest,  the  hen  brings  up  her
 young.
 
 2 z
-
-
-354  the  magic  SONGS  OF  THE  FINNS
 
 
 A wolf  lifted  mould  from  a swamp,  a bear  dug  out  mould
@@ -15707,12 +13203,6 @@ In  a dell  the  maidens  stood,  powerless  the  ‘ tin  breasts  ’
 lay  on  a little  bank  of  land,  on  a narrow  piece  of  ground.
 
 
-ORIGINS
-
-
-355
-
-
 there  they  made  iron,  were  engaged  in  forming  steel,  they
 pulverised  iron  seeds,  they  pounded  lumps  of  steel.  God^
 happened  to  arrive  at  the  place  where  the  seeds  of  iron
@@ -15742,14 +13232,10 @@ Vuolahatar,  thy  sire  is  from  the  fountains  of  Vuojola,
 8,  thy  mother  from  Tempi’s  spring ; from  swamp-knolls  is
 thine  origin,  from  the  knolls  of  a swamp,  from  knolls  on
 land,  thy  sire  is  from  a swamp,  thy  mother  from  a swamp,
-all  thy  other  relatives  from  swamp.  On  a swamp  a rust-
-coloured  sedge  grew  up,  in  a pool — some  purple  melic
+all  thy  other  relatives  from  swamp.  On  a swamp  a rustcoloured  sedge  grew  up,  in  a pool — some  purple  melic
 grass;  it  was  rocked  by  Tuuletar,  swung  to  and  fro  by
 Lannetar  \v.  Lemmetar];  from  Tuonela  Holma  came,
 1 Or  ‘a  god.’
-
-
-356  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 from  under  the  earth — Manala’s  son;  on  the  swamp  he  found
@@ -15772,8 +13258,7 @@ good  men  no  fancy  had.  A giant  {turilas)  came,  a shirted
 monster  {tursas)  of  the  sea,  the  wretch  to  be  sure  had
 planned  a scheme,  had  thought  upon  a fine  affair:  a
 nightmare  he  put  down  on  her,  he  caused  the  unwilling
-one  to  sleep,  brought  her  to  seek  repose  on  a honey-
-dropping sward,  on  the  liver-coloured  earth.  There  he
+one  to  sleep,  brought  her  to  seek  repose  on  a honeydropping sward,  on  the  liver-coloured  earth.  There  he
 lay  with  the  girl,  made  the  maiden  with  child,  quickened
 her  into  pregnancy,  himself  his  departure  took,  the
 scoundrel  started  to  go  away,  the  wretch  to  wander  forth.
@@ -15783,24 +13268,16 @@ poor  wretch,  whither  shall  I,  the  luckless,  go  in  these  my
 days  of  great  distress  with  cruel  torments  in  the  womb  ? ’
 The  Creator  \v.  Jesus]  uttered  from  the  sky — ‘Thou
 harlot,  go  to  be  confined  within  a gloomy  wood,  in  a
-wooded  wilderness  recess,  there  other  harlots  were  con-
-fined, strumpets  \v.  mares]  have  dropt  their  young.’
+wooded  wilderness  recess,  there  other  harlots  were  confined, strumpets  \v.  mares]  have  dropt  their  young.’
 
 In  another  direction  she  went,  walked  forward  with  rapid
-
-
-ORIGINS
-
-
-357
 
 
 steps,  strode  along  from  stone  to  stone,  leapt  from  fallen
 tree  to  fallen  tree,  to  the  homes  of  the  dogs,  as  far  as  the
 woolly  whelps.  There  she  discharged  her  womb,  gave  birth
 to  her  progeny,  got  a son  of  an  evil  sort,  the  hideous
-Rickets  boy  that  gnaws  the  navel’s  root,  that  eats  the  back-
-bone away.
+Rickets  boy  that  gnaws  the  navel’s  root,  that  eats  the  backbone away.
 
 They  sought  for  a man  to  christen  him,  for  a man  to
 baptize  the  gnawing  boy  at  the  well  of  Kaleva’s  son,  on
@@ -15810,12 +13287,10 @@ was  baptized,  they  christened  the  ill-omened  boy  on  56
 the  shore,  on  a water-girt  stone,  57,  on  one  passed  over  by
 a wave,  58,  by  a billow  lightly  touched.
 
-Was  the  water  clean  with  which  the  Rickets  was  bap-
-tized ? The  water  was  not  clean,  the  water  was  mixed  with
+Was  the  water  clean  with  which  the  Rickets  was  baptized ? The  water  was  not  clean,  the  water  was  mixed  with
 blood,  harlots  had  washed  their  caps  in  it,  bad  women —
 their  shirts,  their  jackets  ragged  at  the  rim,  their  stinking
-petticoats.  Therein  the  Rickets  was  baptized,  they  chris-
-tened the  ill-omened  boy,  a name  was  given  to  the  brute,
+petticoats.  Therein  the  Rickets  was  baptized,  they  christened the  ill-omened  boy,  a name  was  given  to  the  brute,
 the  name  of  Rickets  to  the  wretch.
 
 Variants.
@@ -15833,9 +13308,6 @@ a
 The  powerful  woman  Louhiatar,  2,  Pohja’s  ragged-tailed
 old  wife,  that  has  a swarthy  countenance,  a skin  of  hideous
 hue,  was  walking  along  a path,  was  creeping  along  the
-
-
-358  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 course;  on  the  path  she  made  her  bed,  on  the  course  her
@@ -15875,12 +13347,6 @@ God  ^ spake  from  a cloud,  the  Creator  uttered  from  the
 intended  here.
 
 
-ORIGINS
-
-
-359
-
-
 sky — ‘ A three-cornered  shed  is  on  the  swamp,  on  the  shore
 facing  the  sea  in  gloomy  Pohjola,  64,  in  Lapland’s  wide
 and  distant  bounds ; go  thither  to  be  confined,  to  lighten
@@ -15907,8 +13373,7 @@ baptize  the  horrible,  the  Creator  I baptized,  I christened
 the  Omnipotent.’
 
 The  wicked  pagan  indeed  took  on  herself  to  act  as  priest,
-profanely  acted  as  christener,  christened  her  progeny  her-
-self, herself  baptized  her  accursed  ones,  christened  and  gave
+profanely  acted  as  christener,  christened  her  progeny  herself, herself  baptized  her  accursed  ones,  christened  and  gave
 them  names  herself,  on  the  point  of  her  aching  knee,  with
 her  aching  palm.  Her  acquisitions  she  named,  her  children
 she  arranged,  as  all  do  with  their  progeny,  with  the  offspring
@@ -15928,8 +13393,7 @@ One  remained  without  getting  a name,  a boy  at  the  bottom
 of  the  batch,  a mouthless,  eyeless  brat;  afterwards  she
 ordered  him  away,  to  the  tremendous  Rutja  rapids,  into
 the  fiery  foaming  surge.  From  him  sharp  frosts  were  bred,
-from  him  arose  the  Syojatars,  from  him  the  other  destroy-
-ing ones,  he  begat  the  sorcerers  on  lakes,  the  wizards  in
+from  him  arose  the  Syojatars,  from  him  the  other  destroying ones,  he  begat  the  sorcerers  on  lakes,  the  wizards  in
 every  dell,  the  jealous  persons  in  every  place,  in  the
 tremendous  Rutja  rapids,  in  the  fiery  foaming  surge.
 
@@ -15958,12 +13422,6 @@ the  joints,  wind  blew  her  into  pregnancy,  the  chill  wind
 \v.  dawn  of  day]  made  her  big  with  child.  Tuoni’s
 
 
-ORIGINS
-
-
-361
-
-
 swarthy  girl  then  swelled,  filled  out,  became  big  from  it,
 became  round  and  large ; thus  she  carried  a heavy  womb,
 a bellyful  of  suffering ; two  summers  she  carried  it,”^  she
@@ -15988,8 +13446,7 @@ womb.
 
 Into  the  sea  she  dashed  aside,  into  a water-Hiisi’s
 den,  into  a hidden  bug-bear’s  {sala-kammo)  pen,  into  the
-nixies’  (lumma-koira)  huts ; into  the  sea  she  ran  knee-
-deep,  up  to  her  garter  in  the  wet,  to  her  belt-clasp  in  the
+nixies’  (lumma-koira)  huts ; into  the  sea  she  ran  kneedeep,  up  to  her  garter  in  the  wet,  to  her  belt-clasp  in  the
 wave;  there  she  shouted  and  cried  aloud  to  the  perch,
 to  the  roach,  to  all  the  water’s  fish : ‘ Dear  ruff,  thy  slaver
 bring,  dear  burbot — thy  sliminess,  here  in  Hiisi’s  sultry
@@ -15998,9 +13455,6 @@ heat  [7A  in  Hell-fire],  in  the  evil  power’s  fire.’
 She  got  nine  sons  within  sound  of  one  waterfall,  quite
 close  to  one  Sound,  on  one  water-girt  stone,  from  one  filling
 of  the  wame,  from  one  tight  stuffing  of  the  womb.  She
-
-
-362  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 sought  for  a man  to  christen  them,  a man  to  christen,  a
@@ -16025,8 +13479,7 @@ devour  the  Heart,  and  one  to  be  Woman’s  Enemy.
 
 Variants,
 
-I,  2.  Hiisi’s  maiden  with  covered  ears,  Pimettbla’s  short-
-nailed  one,  Hiisi’s  old  wife  with  iron  teeth.
+I,  2.  Hiisi’s  maiden  with  covered  ears,  Pimettbla’s  shortnailed  one,  Hiisi’s  old  wife  with  iron  teeth.
 
 5,  6,  Sat  down  with  her  breast  to  the  east,  with  her  head
 toward  the  rays  of  the  sun.
@@ -16039,12 +13492,6 @@ The  enormous  maiden  Akaatar,  whose  hair-plait  reached
 to  her  heels,  whose  paps  hung  down  to  her  knees  in  front,
 caused  her  petticoat  to  flap  on  the  top  of  the  Mountain  of
 Pain  [v.  Help],  at  the  centre  of  the  Hill  of  Pain  [v.  Help] ;
-
-
-ORIGINS
-
-
-363
 
 
 as  she  got  no  help  from  it  when  on  fire  with  maidens’  lust,
@@ -16082,9 +13529,6 @@ hands  on  the  foals;  Bitter  Frost  she  sent  away,  she  caused
 him  to  sw'eep  the  sea,  to  brush  the  billows  with  a broom.
 
 
-364  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
 Variants.
 
 I.  Naata,  the  youngest  of  the  girls,  the  mistress  of
@@ -16102,8 +13546,7 @@ those  iron  groats,  swallowed  the  iron  hail,  the  triturated  bits
 of  steel ; pregnant  she  became  thereby,  became  thereby  with
 child,  she  carried  a painful  womb,  a bellyful  of  suffering  for
 three  full  years  [v.  for  thirty  summers],  less  by  three  days
-\v.  for  as  many  winters  too].  She  sought  a place  for  lying-
-in  near  an  ornamented  church,  at  the  side  of  a ‘ hundred
+\v.  for  as  many  winters  too].  She  sought  a place  for  lyingin  near  an  ornamented  church,  at  the  side  of  a ‘ hundred
 planks,’  in  a dead  man’s  home,  in  the  house  of  a deceased ;
 there  she  found  no  place.  She  sought  one  here,  she  sought
 one  there,  at  last  found  a suitable  place  in  the  bloody  hut
@@ -16118,12 +13561,6 @@ outside  the  door  of  the  church,  below  the  red-painted  stair ;
 she  gave  birth  to  three  boys,  one  is  the  evil  Bloody  Flux,
 the  second  the  ugly  Scab  Disease,  the  third  son  is  the
 Pestilence.
-
-
-ORIGINS
-
-
-365
 
 
 § 217.  The  Origin  of  Rust  in  Corn.
@@ -16162,14 +13599,9 @@ From  the  Lord  a pearl  fell  off,  crashed  down  from  the
 Omnipotent,  from  the  sky  above,  from  the  hollow  of  Jesus’
 
 
-366  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
-hand,  on  the  edge  of  Osmo’s  [v.  a holy]  field,  on  Peller-
-voinen’s  unploughed  edge;  a birth  took  place  from  it,  a
+hand,  on  the  edge  of  Osmo’s  [v.  a holy]  field,  on  Pellervoinen’s  unploughed  edge;  a birth  took  place  from  it,  a
 family  was  bred,  bent-grass  grew  up  from  it,  from  it  was
-formed  a husk  of  chaff.  It  rose  from  the  earth  like  a straw-
-berry, grew  up  like  a three-branched  plant,  was  made  to
+formed  a husk  of  chaff.  It  rose  from  the  earth  like  a strawberry, grew  up  like  a three-branched  plant,  was  made  to
 branch  by  fire-cleared  land,  was  made  to  grow  where  trees
 were  felled,  was  rocked  by  a swirl  of  wind,  was  suckled
 by  a bitter  frost,  by  the  Maker  was  drawn  up  by  the  head
@@ -16196,12 +13628,6 @@ womb  for  three  whole  years;  she  then  brought  forth  an
 evil  brat ; what  was  the  name  they  gave  it  ? It  got  the
 name  of  Lizard,  a heap  of  twigs  for  its  abode,  as  its  home
 — a dry  birch  stump,  as  a house — a rotten  trunk.
-
-
-ORIGINS
-
-
-367
 
 
 b
@@ -16244,8 +13670,6 @@ A kind  of  fish,  Corregonus  albula.
 2 A lizard.
 
 
-368  THE  MAGIC  SONGS  OF  THE  FINNS
-
 of  birdcherry-wood ; the  boy  was  not  hidden  there,  the  boy
 poked  himself  into  the  yard  underneath  a long  pile  of
 wood,  facing  some  rowan  wood.
@@ -16275,16 +13699,9 @@ e
 Vingas  embraced  Vangas,  shrieked,  made  a noise,  in  a
 thicket  of  birdcherry-trees,  in  a thick  wood  of  willow-trees,
 underneath  a stone,  ’gainst  a bramble-covered  heap  of
-stones;  then  a birth  took  place,  a little  lizard  was  pro-
-duced, a ‘ courtyard  sweepings,’  ‘ trash  of  fields,’  ‘ ground-
+stones;  then  a birth  took  place,  a little  lizard  was  produced, a ‘ courtyard  sweepings,’  ‘ trash  of  fields,’  ‘ ground-
 sweepings,’  ‘ trash  of  Manala  ’ that  under  fences  lives,  that
 rustles  in  a pile  of  twigs.
-
-
-ORIGINS
-
-
-369
 
 
 § 2 2 2.  The  Origin  of  the  Wolf.
@@ -16293,8 +13710,7 @@ a
 Great,  hungry  wolf ! excessively  fat  dog ! I know  thy
 breed.  I know,  sly  brute,  thine  origin : a country  lass,  a
 girl  of  the  soil,  was  going  along  a path,  trod  swamps,  trod
-land,  trod  sandy  heaths,  trod  places  trod  before,  trod  un-
-trodden ground;  from  the  withered  grass  she  plucked
+land,  trod  sandy  heaths,  trod  places  trod  before,  trod  untrodden ground;  from  the  withered  grass  she  plucked
 some  flowers,  from  tufts  of  hay — some  pellicles ; she  wound
 them  in  her  winding-cloth,  into  her  tattered  head-attire.
 At  last  she  sat  upon  a stone  at  a green  thicket’s  edge ; there
@@ -16309,8 +13725,7 @@ b
 
 Thou  everlasting  gad-about,  an  evil  son  for  all  thy  life,
 from  where  is  thy  family,  from  what,  dread  one,  is  thine
-origin,  from  wind  or  from  the  sky,  or  from  a deep  water-
-spring? Not  from  the  wind,  not  from  the  sky,  not  from  a
+origin,  from  wind  or  from  the  sky,  or  from  a deep  waterspring? Not  from  the  wind,  not  from  the  sky,  not  from  a
 deep  water-spring ; dread  one ! I know  thine  origin,  thy
 breed,  thou  horror  of  the  land.  Syojatar  on  the  water
 spat,  ‘ defective  shoulder  ’ (Lapalieto) — on  the  waves,  then
@@ -16323,11 +13738,6 @@ ashore  into  a wooded  forest-creek ; there  wast  thou  born,
 
 2 A
 
-
-2
-
-
-370  THE  MAGIC  SONGS  OF  THE  FINNS
 
 thou  ‘ windy  throat,’  there  didst  arrive,  thou  ‘ hairy  snout,’
 thou  wast  bred  on  the  open  sea,  wast  reared  in  a wooded
@@ -16368,12 +13778,6 @@ Whence  the  origin  of  Finland’s  salt,  the  genesis  of
 violent  hail?  Hence  the  origin  of  Finland’s  salt,  the
 
 
-ORIGINS
-
-
-371
-
-
 genesis  of  violent  hail : Ukko,  the  god  of  the  sky,  the
 great  lord  of  the  air  himself,  struck  fire  in  the  sky ; into
 the  sea  a spark  shot  down,  was  drifted  by  the  waves,  broke
@@ -16409,9 +13813,6 @@ north-easter  gathered  the  glowing  ash  from  the  end  of
 the  misty  cape,  from  the  head  of  the  foggy  isle,  36,  to  a
 
 1 i.e.  into  large,  coarse  grains  of  rock  salt.
-
-
-372  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 ‘ fiery  ’ rapid’s  brink,  to  the  banks  of  a holy  stream.  Wind
@@ -16453,12 +13854,6 @@ from  the  edge  of  the  fiery  cape,  from  the  fiery  promontory’s
 creek  to  the  distant  fields  of  the  north,  to  Lapland’s  plains
 
 
-ORIGINS
-
-
-373
-
-
 beset  with  snares,  and  sown  in  the  earth’s  black  mud,  30,
 on  a solid  mountain’s  slope ; a huge  oak  tree  grew  up
 there,  a green  sapling  raised  itself,  most  ample  as  regards
@@ -16497,9 +13892,6 @@ From  a dell  a maiden  rose,  a girl — from  the  humid
 earth,  a warm  maiden — from  a spring,  ‘ blue-socks  ’ — from
 
 
-374  the  magic  SONGS  OF  THE  FINNS
-
-
 the  corner  of  a swamp,  a swarthy  girl  with  shaven  head,
 a maiden  with  skinless  teats ; in  her  hand  is  a copper  box,
 in  the  box  is  a golden  comb.  The  maiden  combed  her
@@ -16536,11 +13928,6 @@ the  soil  of  the  earth ; whoever  took  a branch  of  it,  took
 ' an  acorn  ’ should  be  substituted.
 
 
-ORIGINS
-
-
-375
-
 lifelong  luck,  whoever  cut  a sprig  from  it,  cut  off  eternal
 power  to  please.  a
 
@@ -16576,9 +13963,6 @@ the  stupid  girl,  the  flame — from  the  careless  one,  from  the
 hands  of  her  that  dandled  it,  from  the  fingers  of  her  that
 
 
-376  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
 cherished  it.  The  fiery  spark  fell  suddenly,  the  red  drop
 whizzed,  through  the  heavens  flashed,  through  the  clouds
 fell  down  from  above  the  nine  skies,  through  the  six
@@ -16606,17 +13990,11 @@ Lake  Alue’s  waves ; it  attacked  a moor  of  junipers,  so  the
 moor  of  junipers  was  burnt,  it  dashed  at  a clump  of  firs,
 burnt  up  the  lovely  clump  of  firs,  it  still  went  rolling
 further  on,  burnt  the  half  of  Bothnia,  a corner  of  Savo’s
-bounds,  a portion  \v.  both  halves]  of  Karjala.  Into  con-
-cealment then  it  went,  to  hide  its  infamous  deeds,  it  threw
+bounds,  a portion  \v.  both  halves]  of  Karjala.  Into  concealment then  it  went,  to  hide  its  infamous  deeds,  it  threw
 itself  down  to  rest  under  the  roots  of  two  stumps,  in  the
 hollow  of  a rotten  stump,  in  the  lap  of  an  alder  trunk ;
 thence  it  was  taken  into  rooms,  into  houses  of  pine,  to  be
 
-
-ORIGINS
-
-
-377
 
 handled  by  day  in  a stove  of  stone,  to  rest  by  night  upon
 the  hearth,  in  the  receptacle  for  coals.  ^
@@ -16654,9 +14032,6 @@ she  made  it  up,  made  the  ball  spin  quickly  round  along
 the  headland  of  a field,  through  the  earth,  through  the
 
 
-378  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
 soil,  53.  pushed  it  into  the  river  of  Tuonela  54.  into  the
 depths  of  Manala.
 
@@ -16686,8 +14061,7 @@ gracious  mouth  of  God,  above  nine  skies,  above  nine
 heavens  and  a half.  The  Virgin  Mary,  mother  dear,  the
 holy  little  serving-maid,  ’tis  she  that  rocked  the  fire,  that
 nursed  the  flame  in  a doorless  room,  entirely  windowless ;
-in  birch-bark  vessel  she  carried  the  fire,  on  a bit  of  birch-
-bark  transported  it  to  the  point  of  a fiery  cape.  There  they
+in  birch-bark  vessel  she  carried  the  fire,  on  a bit  of  birchbark  transported  it  to  the  point  of  a fiery  cape.  There  they
 christened  fire,  who  stood  as  godmother  to  fire,  who  stood
 as  godfather  to  flame?
 
@@ -16699,12 +14073,6 @@ baptized  the  boy,  the  name  of  Fire  {Fanu)  was  given  him,
 he  was  entitled  darling  Fire,  to  be  used  by  day  in  the
 hollow  of  a golden  hearth  (F.  ring),  to  be  concealed  at
 night,  in  an  ashy  tinder-bag.
-
-
-ORIGINS
-
-
-379
 
 
 Variants.
@@ -16739,8 +14107,7 @@ without  a steel  (F.  iron)  he  struck,  without  flint  and  tinder
 struck  a light.  The  red  fire  flew  suddenly,  one  spark  dropt
 down  from  the  top  of  Vainamoinen’s  knee,  from  under
 Ilmarinen’s  hands,  to  the  ground  below  his  feet.  Then  it
-rolled  in  its  course,  along  long  courtyards,  along  the  head-
-land of  a field,  to  the  clear  open  sea,  to  the  illimitable
+rolled  in  its  course,  along  long  courtyards,  along  the  headland of  a field,  to  the  clear  open  sea,  to  the  illimitable
 waves;  it  burnt  the  storehouse  of  the  perch,  the  stony
 
 
@@ -16786,12 +14153,6 @@ beard  of  the  blessed  God.
 1 Or  halo,  or  heartli.
 
 
-ORIGINS
-
-
-381
-
-
 § 227.  The  Origin  of  Copper.
 a
 
@@ -16825,9 +14186,6 @@ rock.  Vesiviitta,  Vaitta’s  son,  Suoviitta,  son  of  Kaleva,
 dug  water  from  a rock,  from  a hill  let  water  gush,  with  his
 golden  stick,  with  his  copper  staff.  When  he  let  it  gush
 from  the  hill,  when  he  had  brought  it  from  the  rock,  the
-
-
-382  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 water  wavered  like  a spring,  it  ran  in  little  rills,  then  it
@@ -16869,17 +14227,10 @@ holy  stream.
 sister  of  water.
 
 
-ORIGINS
-
-
-383
-
-
 § 229.  The  Origin  of  a Boat.
 
 Trusty  old  Vainamoinen,  the  soothsayer  as  old  as  time,
-by  magic  knowledge  made  a boat,  by  means  of  song  pre-
-pared a skiff  from  the  fragments  of  a single  oak,  from  the
+by  magic  knowledge  made  a boat,  by  means  of  song  prepared a skiff  from  the  fragments  of  a single  oak,  from  the
 breakage  of  a brittle  tree ; he  cut  the  boat  upon  a hill,
 caused  a loud  clatter  on  a rock ; he  sang  a song,  he  fixed
 the  keel,  he  sang  another,  he  joined  a plank,  immediately
@@ -16908,9 +14259,6 @@ brothers  net  it,  fathers-in-law  fix  lines  to  it.  Then  the
 netting-needle  turned,  the  mesh-stick  went  and  came  before
 the  net  was  made  complete,  the  lines  of  yarn  were  fastened
 on,  during  a single  summer  night,  between  two  days.  The
-
-
-384  THE  MAGIC  SONGS  OF  THE  FINNS
 
 
 net  was  ready  for  use,  the  lines  of  yarn  were  fastened  on,
@@ -16944,14 +14292,7 @@ From  what  did  brandy  originate,  was  the  lovely  drink
 produced  ? From  this  did  brandy  originate,  was  the  lovely
 drink  produced,  from  young  barley  beards,  from  the  bristly
 heads  of  verdant  corn,  but  without  water  it  is  not  made
-(F.  born),  nor  without  a raging  fire,  the  water  gave  liveli-
-ness, the  fire  has  made  it  turbulent.
-
-
-ORIGINS
-
-
-385
+(F.  born),  nor  without  a raging  fire,  the  water  gave  liveliness, the  fire  has  made  it  turbulent.
 
 
 § 232.  The  Origin  of  Salves.  >
@@ -16995,9 +14336,6 @@ reliable,  nor  efficacious  the  remedy.  He  added  herbs
 2 B
 
 
-2
-
-
 386  THE  MAGIC  SONCS  OF  THE  FINNS
 
 
@@ -17035,9 +14373,6 @@ c
 
 A salve  is  made  from  every  kind  of  thing  by  means  of
 power  decreed  by  the  Father  and  Creator,  by  permission  of
-
-
-ORIGINS
 
 
 3S7
@@ -17079,9 +14414,6 @@ of  a honeyed  field,  salves  are  obtained  from  it,  as  ointments
 for  sores,  as  embrocations  for  wounds.
 
 
-388  THE  MAGIC  SONGS  OF  THE  FINNS
-
-
 e
 
 A girl  was  born  on  a field  run  wild,  a young  maiden — on
@@ -17090,15 +14422,13 @@ being  suckled  she  was  reared;  exhausted  she  sank  down
 to  sleep  on  a meadow  without  a name,  lay  down  to  sleep
 upon  a knoll,  on  a honeyed-meadow  fell  fast  asleep ; she
 slept  for  long  unwittingly ; sleep  deceived  her,  she  expired.
-Between  the  furrows  a herb  grew  up,  it  was  a three-
-cornered  herb,  water  was  in  it,  honey  too,  in  it  was  a
+Between  the  furrows  a herb  grew  up,  it  was  a threecornered  herb,  water  was  in  it,  honey  too,  in  it  was  a
 splendid  salve  to  rub  upon  a wound,  to  pour  upon  a hurt.
 
 /
 
 Vuotar,  maker  of  salves,  all  summer  concocted  salves  in
-delightful  Metsola,  on  the  edge  of  the  steadfast  hill.  De-
-lightful honey  was  there,  strong  water  was  there,  from
+delightful  Metsola,  on  the  edge  of  the  steadfast  hill.  Delightful honey  was  there,  strong  water  was  there,  from
 which  she  prepared  a salve ; may  it  now  come  here  to  hand
 as  a salve  for  the  wounds,  as  a liniment  for  sores.
 
@@ -17110,17 +14440,10 @@ from  the  withers  to  the  end  of  the  tail,  a squirrel  for  a
 whole  month  ran  between  the  horns  of  the  ox,  yet  still  it
 never  reached  the  end,  it  never  came  indeed  so  far.  They
 sought  for  a man  to  strike,  made  quest  for  a slaughterer ;
-from 'the  sea  rose  a swarthy  man,  from  the  wave  a full-
-grown  man  uprose,  a whole  quarter  of  an  ell  in  height,  as
+from 'the  sea  rose  a swarthy  man,  from  the  wave  a fullgrown  man  uprose,  a whole  quarter  of  an  ell  in  height,  as
 tall  as  a woman’s  span ; directly  he  saw  his  prey,  he  of  a
 sudden  broke  its  neck,  brought  down  the  bull  upon  its
 knees,  made  it  fall  sideways  on  the  ground.  Ointments
-
-
-ORIGINS
-
-
-389
 
 
 are  obtained  from  it,  charmed  remedies  are  got  from  it
@@ -17154,1489 +14477,3 @@ A thin  Lapp  boy  made  his  way  below  the  path,  was
 travelling  beneath  the  ground,  on  his  shoulder — a bloody
 axe ; he  struck  a man  upon  the  heart,  he  cut  him  on  the
 breast,  then  gripes  was  born,  the  groaner  became  morose.
-
-
-INDEX
-
-
-Aallotar,  ii.  206.
-
-Adam  and  Eve,  ii.  112.
-
-Agathursoi  on  the  Khersinos  or  Khesynos
-(Dvina?),  133,  134.
-
-Ahimo,  ii.  325.
-
-Ahkolainen,  ii.  118.
-
-Aholainen,  ii.  118.
-
-Ahti : a water-god,  300-2  ; protects  boat-
-men, 301 ; invoked  by  fishermen,  302 ;
-named,  ii.  122,  184,  193,  206,  217,  297,
-298,  343*
-
-Ahto  = Ahti,  ii.  206.
-
-Aijd,  ii.  100,  125,  137,  218,  253,  254,  337j
-..  356,  380.
-
-Aijotar,  ii.  312.
-
-Aistii,  Aistiz,  Eistir,  48 ; described  by
-Tacitus,  130 ; their  habits  and  customs,
-
-. 136-7-
-
-Akaatar,  318 ; ii.  219,  362.
-
-Allats-Kivi,  cemetery  at,  113,  115.
-
-Andnino,  overlies  a neolithic  station,  77  ;
-station  of  Early  Iron  Age  described,
-97-9,  240.
-
-Ancestors  : if  neglected  cause  sterility  and
-sickness,  169,  178 ; can  become  helpful
-spirits,  175-6 ; worship  of,  176-9 ; give
-prosperity,  178.
-
-Annikki,  287 ; ii.  205,  208,  235,  239,  240,
-248,  325  ; the  island  maiden,  ii.  328.
-
-Arrowheads  of  bone  of  peculiar  shape,  82.
-
-Arthania,  23-6.
-
-Aurinkoinen,  326  ; ii.  281.
-
-Auringotar,  326  ; ii.  281.
-
-Auteretar,  ii.  173,  299.
-
-Auterinen,  ii.  173.
-
-
-Baltic  Provinces  : scarcely  inhabited  in
-early  neolithic  period,  84 ; supposed  to
-have  been  once  inhabited  by  Goths,  114 ;
-northern  half  inhabited  by  Finns  perhaps
-in  second  century  a.d.,  117;  once  in-
-habited by  a people  of  Lithuanian  stock,
-137-
-
-Baptism,  can  be  washed  off,  143.
-
-Bear:  bear’s  flesh  not  to  be  eaten  with
-fish,  168 ; perjurers  are  eaten  by  bears,
-168 ; originated  from  man  and  under-
-stands speech,  168.
-
-Beormas,  the,  4.
-
-Birds  in  bronze  with  human  face  on  the
-breast,  95,  120.
-
-Births  (wonderful)  from: — a hair,  ii.  304,
-3°5>  32S>  344j  346 ; a thread  of  stone,  ii.
-316  ; flax,  ii.  307 ; a reed,  ii.  320 ; a pin,
-ii.  305 ; a pearl,  ii.  367,  369 ; grains  of
-iron,  ii.  306,  364;  sweepings,  ii.  305,
-306 ; a chip  of  wood,  ii.  306,  324,  375 ;
-a ring,  ii.  316,  326 ; tooth  of  a comb,  ii.
-323j  324.  374  ; rubbing  the  hands,  ii.  355  ;
-scurf,  ii.  369;  wind,  ii.  313,  320,  358,
-360 ; blood,  ii.  321 ; a tear,  ii.  314,  324  ;
-a tooth,  ii.  344 : a bone,  ii.  307 ; saliva,
-ii.  317,  318,  320,  32s,  366 ; train-oil,  ii.
-308  ; fish-spawn,  ii.  354.
-
-Blessing,  359.
-
-Bolgari  or  Bolgar : a commercial  town,
-240 ; fabled  to  be  founded  by  Alexander
-of  Macedon,  241 ; became  Mussulman  in
-tenth  century,  265.
-
-Bolgars,  241 ; appeared  in  fifth  century,
-probably  represented  by  the  Cuvas,  261.
-
-
-392  PRE-  AND  PROTO-HISTORIC  FINNS
-
-
-Bow : compound  bow  of  Ostiaks,  201.
-
-Bronze  from  Sweden  found  in  Finland,  87 ;
-in  Baltic  Provinces,  96 ; of  Siberian
-types  in  Finland,  89  ; in  north  of  Russia,
-90,  95  ; words  for,  204,  207.
-
-Budini : were  hardly  the  Votiaks,  126-7.
-
-‘ Buying  the  water,’  ii.  6.
-
-Carved  work,  zoomorphic  stone-picks,
-56;  zoomorphic  designs  in  bone  and
-flint,  63,  6S)  67,  71-2,  82,  100.
-
-Casting  metal : by  Ostiak  women,  211 ;
-wooden  moulds,  21 1.
-
-Clan-gods : of  the  Ostiaks,  162 ; of  the
-Lapps,  163 ; of  the  Votiaks,  164 ; of  the
-Ceremis,  165.
-
-Coins ; Roman,  103-4,  ^'^7  > Arabic,  103 ;
-Indo-Bactrian,  119 ; Sassanide,  123-4.
-
-Copper : mines,  17  ; names  for,  204.
-
-Creator,  Maker,  331-5  ; ii.  65, 66,  73,  88,  89,
-97,  117,  120,  133,  147,  150,  152,  i57>  162,
-177,  180,  192,  196,  202,  211,  215,  234,  247,
-262,  264,  266,  268,  269,  273,  276,  286,  289,
-294.  295,  319,  320,  333,  334,  347,  356,  358,
-
-^ 366,  376,  378.  380,  386.
-
-Cudes,  the,  who  they  were,  13-5 ; (Esth-
-onians)  141,  142.
-
-Curses : examples,  359-61.
-
-Ceremis  : their  geographical  position,  8 ;
-physical  appearance,  26,  27,  32  ; cranial
-measurements,  34, 35 ; perhaps  descended
-from  the  Ladogans,  39,  40 ; their  house-
-hold-god, 159,  165  ; traces  of  endogamy,
-183 ; classificatory  system  of  family,
-185  ; hostile  capture  of  bride,  193  ; nam-
-ing children,  196  ; Lithuanian  influence,
-249;  Tatar  loan-words,  264-6;  charms
-of  the,  ii.  11-14.
-
-Cuvas,  probably  descendants  of  Bolgars,
-their  loan-words  in  Mordvin,  261.
-
-Daughter-in-law  : range  of  the  term,
-190 ; Votiak  daughter-in-law  avoids
-father-in-law,  195.
-
-Dead  : the  dead  become  servants  of  water-
-spirits,  1 61 ; see  and  hear  after  death,
-169 ; marry  in  next  world,  169 ; com-
-
-
-memoration of,  176-8 ; their  fate  con-
-sidered miserable,  254,  320;  invoked  as
-helpers  against  sorcerers,  etc.,  303.
-
-Death,  personifications  of,  320-3.
-
-Diakovo,  prehistoric  fort  at,  ii,  118.
-
-Disease.  See  Sickness.
-
-Domestic  animals,  remains  of : dog,  50,  61,
-72,  99 ; sheep,  50,  75,  99,  107 ; horned
-cattle,  50,  75,  99  ; horse,  75,  99 ; pig,  75,
-99,  107 ; names  for  the,  215-22,  232,  245,
-2S3-
-
-Drums,  magic,  172-4.
-
-Earth-spirits,  302-3.
-
-Earth-mother,  ii.  68.
-
-Elina,  287  ; ii.  204.
-
-Elves  and  brownies,  326-8.
-
-Endogamy,  traces  of,  182-3.
-
-Envy-matron,  ii.  70.
-
-Estas,  Eastas.  See  Aistii.
-
-Esthonia,  ii.  271.
-
-Esthonians,  5,  6,  41 ; ceph.  index  and
-height,  32 ; cranial  measurements,  42,
-47  ; succeeded  to  the  name  of  the  iEstii  '
-or  Estas,  137 ; the  Cudes  of  Nestor,
-141,  142.
-
-Etelatar,  308-9;  ii.  210,  212,  222,  223,  224,
-265.
-
-Exogamy  of  East  and  West  Finns,  182.
-
-Exorcist  among  the  West  Finns,  344-8 ;
-uses  instruments  of  various  kinds,  353 ;
-protects  himself  with  a metal  helmet,
-coat,  boots,  etc.,  354-5;  is  helped  by  a
-variety  of  personages,  355-7 ; is  Ukko’s
-son,  ii.  66,  126.
-
-Face-urns  of  Hallstadt  period  not  found
-east  of  the  Vistula,  138.
-
-Family ; of  from  twenty  to  sixty  persons,
-179 ; patriarchal,  180 ; paternal  power
-great,  180-1 ; paternal  power  predomi-
-nant 189.
-
-Father-in-law ; diffusion  of  the  term,  188  ;
-superior  to  mother-in-law,  189 ; concu-
-binage with  his  daughters-in-law,  192.
-
-Fatidnovo,  station  at,  90-3;  cranial  mea-
-surements, 92.
-
-
-INDEX
-
-
-393
-
-
-Fenni,  130,  131 ; Phinnoi,  132,  135 ; may
-have  been  Finns,  135-6.
-
-Figurative  expressions  in  Magic  Songs,
-ii.  S4-6i.
-
-Finns  (West) ; their  geographical  position,
-3-6 ; ceph.  index  and  height,  32  ; crania,
-33-8 ; neolithic  crania  of  Rinnekaln  sup-
-posed to  be  Finnish,  49-52 ; neolithic
-inhabitants  of  Central  Russia  probably
-Finns,  146,  224-7  5 separated  from  Mord-
-vins before  300  B.c.,  242 ; Lithuanian
-loan-words,  243-9  > proto-Scandinavian
-influence,  251-5 ; perhaps  entered  Fin-
-land in  second  or  third  century  a.d,,
-256  ; early  Slav  influence,  258-60.
-
-Fire : probably  not  worshipped,  199,  244.
-
-Flattering  words,  361.
-
-Forts,  prehistoric,  in  gov.  of  Viatka,  99-101.
-
-Galic,  finds  from,  93-4,  120.
-
-Giants,  328.
-
-Gliad^nova,  14 ; place  and  finds  described,
-118-23  > gold  objects,  211.
-
-God = sky,  155  ; gods  chastised  by  Ostiaks,
-160;  Lith.  ‘god’  = F.  ‘the  firmament,’
-247 ; household  gods  of  Ostiaks,  Votiaks,
-Ceremis  and  Lapps,  158-9;  usage  of
-word  among  West  Finns,  331-5.
-
-Gold : mines,  17  ; objects  from  Gliadenova,
-1 19 ; East  Finnish  words,  232.
-
-Grain  : words  for  different  kinds  of,  202 ;
-spelt  known  early,  202 ; loan-words,  246,
-253-
-
-Great  Bear,  Charles’s  Wain  : invoked  with
-sun  and  moon,  325 ; his  daughter  watches
-property  at  night,  325;  named,  ii.  134,
-233>  272,  302,  309,  338.
-
-Haakhof,  hoard  from,  108.
-
-Hakct  gods  of  the  Samoyedes,  i6r,  163.
-
-Haltia,  272-3.
-
-Helka,  ii.  295.
-
-Hell,  ii.  70,  ns,  221,  271,  297,  361.
-
-Hiisi,  as  a sacred  grove,  292;  as  forest
-god,  293 ; his  ox  and  horse,  294 ; became
-regarded  as  a devil,  295 ; his  smithy,
-296;  his  home  becomes  synonymous
-
-
-with  hell,  297;  originally  a tree-spirit
-and  perhaps  a family  or  clan  god,  299 ;
-named,  ii.  66,  78,  84,  in,  120,  151,  162,
-163,  167,  199,  216,  221,  230,  260,  263,
-272,  297,  307,  317,  318,  320,  340,  346,
-361 ; H.’s  lands,  ii.  68,  255 ; H.’s  home,
-fort,  den,  ii.  127,  153 ; H.’s  soot,  ii.  71 ;
-H.’s  coals,  ii.  71,  in,  112,  200;  H.’s
-gory  rug,  ii.  71 ; H.’s  gag,  ii.  72 ; H.’s
-wife,  ii.  263,  362,  381 ; weaving-stool,  ii.
-315 ; pole;  for  raking  coals,  ii.  321 ;
-water-Hiisi,  ii.  74,  293,  327,  361 ; forest-
-Hiisi,  ii.  75  ; H.’s  horse,  ii.  80,  153,  381 ;
-H.’s  folk,  ii,  83,  90 ; H.’s  gallows,  ii.  88  ;
-H.’s  hound,  ii.  115,  163 ; H.’s  blemish,
-sore,  ii.  136,  259 ; H.’s  elks,  ii.  181,  255 ;
-H.’s  cat,  298  ; ii.  200,  284 ; H.’s  bird,  ii.
-350 ; H.’s  ox,  ii.  197 ; maid-servant,  ii.
-325  ; H.’s  girl,  298  ; ii.  118,  230,  284,  297,
-336,  337.  362 ; H.’s  son,  ii.  200,  244,  297,
-381.
-
-Hiitola,  the  home  of  Hiisi,  ii.  71,  125,  126,
-163,  221,  272,  334,  336,  357,  364.
-
-Hiitolainen,  ii.  260.
-
-Hikitukka,  ii.  173.
-
-Hikitytto,  ii.  230.
-
-Hilahatar,  ii.  381.
-
-Himmerkki=himmel  riki,  kingdom  of
-heaven,  341 ; ii.  309.
-
-Hippa,  daughter  of  Hiisi,  ii.  284.
-
-Holma,  323  ; ii.  355.
-
-Holohonka  (Hollow  Fir),  ii.  231,  238.
-
-Holy  Ghost,  ii.  223,  268.
-
-Homma,  300 ; ii.  296.
-
-Hongas,  286;  ii.  209,  211.
-
-Hongatar,  286,  289 ; ii.  162,  210,  241,  310,
-344-
-
-Hotja,  ii.  345.
-
-House : original  house  of  East  and  West
-Finns,  198.
-
-Hoyhenys,  313 ; ii.  282.
-
-Hyypio,  ii.  242.
-
-Idols,  mouths  of,  smeared  with  fat,  159.
-
-Ikitetty,  ii.  137.
-
-Ikitiera  [Hiki  Tiera],  ii.  201.
-
-
-394  PRE-  AND  PROTO-HISTORIC  FINNS
-
-
-Ilmari,  Ilmaris=:V.  inmar,  ‘sky,  god,’  155 ;
-ii.  182.
-
-Ilmarinen,  meaning  of  word,  278 ; formerly
-an  air-  and  wind-god,  27S  ; as  smith,  279-
-80;  named,  ii.  91,  131,  153,  194,  252,
-267,  348-52,  355,  356,  379,  381.
-
-Incest,  examples  of,  182,  183.
-
-Invisibility,  how  obtained,  158.
-
-I.O.U.,  primitive  form  of,  122.
-
-Iron  mines,  17  ; none  in  Baltic  Provinces,
-109.
-
-Ismo,  daughter  of  the  air,  ii.  277.
-
-Jesus  Christ,  335-7  ; ii.  65,  113,  119,  122,
-
-129,  152,  160,  181,  192,  195,  212,  225,
-
-226,  232,  242,  244,  255,  262,  273,  281,
-
-285,  299,  300,  303,  304,  318,  326,  355,
-
-356,  36s,  374,  382.
-
-JOKIATAR,  316;  ii.  260.
-
-Jordan  river,  ii.  187,  192,  299,  312,  334,
-382.
-
-Joukahainen,  ii.  312.
-
-Joulehetar,  ii.  207.
-
-Juonetar,  286  ; ii.  243.
-
-Juutas,  a devil,  330;  ii.  91,  199,  260,  318.
-
-Kainuhu,  Qven-land,  ii.  141.
-
-Kaleva  : a giant,  342  ; his  sons,  deities  of
-the  Hame,  342-3 ; named,  ii.  131,  172,
-280,  326,  329,  357,  381,  382.
-
-Kalevala,  ii.  122.
-
-Kalevatar,  ii.  330.
-
-Kalma,  320,  321 ; ii.  74,  80,  83,  95,  96,
-112,  127,  184,  284,  296,  321.
-
-Kammo,  ii.  119.
-
-Kanarvainen,  ii.  345.
-
-Kanarvatar,  ii.  205.
-
-Kangahatar,  ii.  344.
-
-Kannus,  a magic  drum,  in  kdsi-kannus
-(hand-drum),  ii.  87.  Here  the  instrument
-is  used  for  the  person  who  carried  it,  as
-the  following  line  shows.
-
-Karehetar,  288  ; ii.  197,  282.
-
-Karelians,  their  geographical  position,  3-5  ;
-their  physical  and  mental  characteristics,
-20,  21.
-
-
-Kasaritar,  ii.  223,  366.
-
-Kasvatar,  personification  of  growth,  ii.
-108.
-
-Katajatar,  288  ; ii.  162,  215.
-
-Katrinatar,  ii.  213,  378.
-
-Kauko,  ii.  307,  323.
-
-Kave,  ii.  66,  79,  133,  151,  220,  271,  286.
-Kedron,  the  brook,  ii.  123.
-
-Keito,  an  evil  spirit,  ii.  91,  126,  253,  254,
-
-315,  321,  340,  387-
-Keitolainen,  ii.  126.
-
-Kihonen  Kahonen,  ii.  137.
-
-Kimmahatar,  ii.  312.
-
-Kimmo  Kammo,  ii.  113,  217,  312.
-Kipinatar,  cat  of  Hiisi,  ii.  284.
-
-Kipula,  the  place  of  pain  and  sickness,
-ii.  81.
-
-Kivutar,  313;  ii.  81,  82,  106,  219.
-Kolomtsi,  neolithic  station  at,  65.
-
-Kuckers,  cemetery  at,  104,  106,  108,  Table
-
-VIII.
-
-Kuippana,  285,  289  ; ii.  209,  243,  -257.
-Kuitua,  285;  ii.  209,  211.
-
-Kullatar,  314 ; ii.  222.
-
-Kullervo,  343.
-
-Kulotar,  ii.  205.
-
-Kuolatar,  ii.  369.
-
-Kunda,  neolithic  station  at,  80 ; its  relative
-age,  86.
-
-Kunnotar,  288  ; ii.  282.
-
-Kurs  (Cori),  Kurlanders,  139,  140,  145.
-Kuume  hides  the  sun,  ii.  79,  133.
-
-Kuurikki,  286 ; ii.  179,  180.
-
-Kuuritar,  287  ; ii.  237.
-
-Kuutar,  325-6 ; ii.  199,  206,  233,  324.
-Kyyni,  ii.  343.
-
-Kyytolainen,  ii.  373.
-
-Laaus,  315  ; ii.  232,  242.
-
-Ladogans,  the,  39  ; their  cranial  measure-
-ments, 59 ; these  compared  with  Ceremis
-skulls,  61 ; neolithic  station  on  Ladogan
-shore,  61-4 ; its  relative  age,  85.
-Lannetar,  ii.  355.
-
-Lapahiito,  ii.  366.
-
-Lapalieto,  ii.  369.
-
-Lapland,  285 ; as  rich  in  game,  319 ;
-
-
-INDEX
-
-
-named,  ii.  125,  142,  183,  186,  192,  221,
-241,  247,  251,  253,  255,  260,  323,  348,  359,
-
-372.
-
-Lapps : their  fish-god,  160 ; forest-god,
-161  ; clan-gods,  Seita,  163 ; offer  white
-reindeer  to  the  sun  and  moon,  167 ;
-wizards,  174;  saivvo  people  and  home,
-17s ; status  of  women,  181 ; renaming  of
-children,  197  ; word  Lapp  often= wizard,
-sorcerer;  319,  ii.  83,  85,  87,  88,  189,  371,
-
-384,  389-
-
-Laukahatar,  ii.  379.
-
-Launavatar,  ii.  360.
-
-Lead  mines,  argentiferous,  26.
-
-Lemmes,  313 ; ii.  346,  379.
-
-Lemmetar,  ii,  344,  355.
-
-Lemminkainen,  ii.  194,  197.
-
-Lempo : an  evil  forest-spirit,  280,  299-300 ;
-ii.  68,  71,  72,  74,  88,  99,  115,  121,  125,
-i4S>  iSij  i63>  i67>  170,  186,  200,  216,  252,
-254,  297,  31S,  321,  340,  341,  346,  350;
-water-Lempo,  ii.  327.
-
-Lentohatar,  ii.  379.
-
-Letts : their  ceph.  index  and  height,  32 ;
-cranial  measurements,  35,  43-5 ; very
-cruel,  but  despised  by  the  Livs,  144 ;
-veneration  for  the  thunder-god,  248 ;
-their  charms,  ii.  19-30.
-
-Levirate : among  the  Zirians,  192.
-
-Liiko,  ii.  323.
-
-Liipo,  ii.  307.
-
-Lithuanians:  their  ceph,  index  and
-
-height,  32 ; cranial  measurements,  43,
-44 ; their  original  home,  138 ; influence
-on  the  Finns,  243-9.
-
-Litvetti,  301 ; ii.  217.
-
-Livs : their  ceph.  index  and  height,  32  ;
-killed  their  prisoners,  48 ; a mixed  people,
-49,  51 ; their  beliefs,  customs,  etc.,  142-4 ;
-despised  the  Letts,  144.
-
-Louhi,  mistress  of  Pohjola,  ii.  66,  207,  215,
-258.
-
-Louhiatar,  316 ; ii.  313,  357,  364.
-
-Loveatar,  316 ; ii.  360,  370.
-
-Lumikki,  287 ; ii.  204,  334.
-
-Luonnotar:  daughters  of  Nature  and
-
-mothers  of  iron,  306 ; have  a home  in  the
-
-
-395
-
-sky,  307 ; named,  ii.  81,  203,  243,  305,
-310,  320,  341,  346,  347,  354.
-
-Luonto  (Nature) : a personification’'^3o6-9.
-
-Maajatar,  ii.  345.
-
-Maarana,  ii.  205.
-
-Maaratar,  ii,  370.
-
-Maariatar,  ii.  294.
-
-Maatar,  303  ; ii.  173.
-
-Maidens:  of  the  air,  309-31 1;  ii.  277,  282,
-375,  379 ; of  frost,  ii.  277  ; of  springs  and
-dells,  311-12;  ii.  278,  287,  293,  356,  373,
-378  ; of  mist  and  fog,  312 ; ii.  243,  287,
-299 ; of  fire,  313 ; ii.  279,  377,  379 ; of
-pain  and  sickness,  313-4;  of  swellings,
-
-314-
-
-Malla,  104,  106,  107,  Tab.  viii.
-
-Mammo,  ii.  118,  312.
-
-Mammotar,  ii.  114,  312,  389.
-
-Mammoth,  the,  53.
-
-Manala,  Mana : origin  of  word,  320 ; named,
-ii.  67,  74,  80,  96,  no,  ns,  127,  134,  136,
-138,  173,  174,  199,  214,  224,  225,  252,  259,
-337,  341,  356,  360,  377,  382.
-
-Mantu,  303 ; ii.  135.
-
-Manuhatar,  304 ; ii.  314.
-
-Marriage : words  for,  191-2 ; by  purchase,
-193;  by  hostile  capture,  193;  by  personal
-service,  193,  194 ; classificatory  system,
-185-7.
-
-Mary,  the  Virgin,  337-9;  ii.  119,  120,  121,
-122,  138,  166,  187,  195,  196,  202,  211,
-220,  225,  226,  232,  249, 251,  264,  273,  274,
-278,  281,  293,  294,  299,  300,  303,  309,  378,
-382.
-
-Melatar,  301 ; ii.  217.
-
-M6ria,  an  extinct  Finnish  people,  27.
-
-Metals : those  found  in  N.  Russia,  17 ;
-names  of  the,  204;  Finno-Ugrian  word
-for  metal  perhaps  of  Turkish  origin,  207  ;
-origin  E.  F.  word  for  steel,  209,  234 ;
-possible  origin  of  Permian  words  for  tin
-and  lead,  210 ; lead  in  the  Urals,  but  not
-silver  or  tin,  210;  casting  done  by
-women,  211.
-
-Metsola,  ii.  100, 115, 138, 17s,  r77,  i94,  2”,
-
-
-396  PRE-  AND  PROTO-HISTORIC  FINNS
-
-
-215,  231,  248,  258,  283,  284,  301,  344,  345>
-350,  388.
-
-Mielikki,  286,  289,  290,  291 ; ii.  162,  179,
-208,  209,  235-7,  248.
-
-Miiritar,  288  ; ii.  235.
-
-Mikitar,  288  ; ii.  205.
-
-Milky  Way,  the,  directs  flight  of  wild  geese,
-168.
-
-Mimerkki,  286 ; ii.  258,  283.
-
-Moon : sacrificed  to  by  Lapps,  167 ; how
-regarded  by  W.  Finns,  323;  eclipse  of,
-324 ; named,  ii.  272.
-
-Mordvins ; their  geographical  position,  7 ;
-their  physical  appearance,  21-3 ; ceph.
-index  and  height,  32 ; water-spirit  of,
-161 ; sun-god  the  supreme  deity,  168 ;
-commemoration  of  the  dead,  177  ; fami-
-lies of  sixty  persons,  180 ; paternal  power,
-181 ; traces  of  endogamy,  182  ; naming
-children,  196 ; Lithuanian  influence,
-248 ; CuvaS  and  Tatar  loan-words,  261-4  ;
-charms  of  the,  ii.  8-11.
-
-Mutual  avoidance  between  bride  and  bride-
-groom’s family,  194.
-
-Naata,  mistress  of  Hiitola,  ii.  364.
-
-Names,  personal : how  given,  195-7.
-
-Narappa,  ii.  125,  184.
-
-Nasarvainen,  ii.  345.
-
-Niera,  ii.  201.
-
-Nikotiera,  ii.  364.
-
-Nixie,  ii.  74,  164,  361.
-
-Nukuhutar,  ii.  137.
-
-Nunnus,  313  ; ii.  282.
-
-Nuoramo,  ii.  367.
-
-Nuoratar,  ii.  370.
-
-Nyrkytar,  286;  ii.  242.
-
-Nyypetti,  287 ; ii.  212.
-
-Nyyrikki,  287  ; ii.  214,  236,  258.
-
-Oak  : of  wonderful  size,  ii.  335,  338,  372,
-373,  374 ; forms  a bridge  to  Pohjola,  ii.
-336 ; made  into  sorcerer’s  arrows,  ii.  336,
-340 ; felled  by  a sea-dwarf,  ii.  335,  338 ;
-its  leaves  bring  luck  and  magjc  skill,  ii.
-339>  375  ; origin  of,  ii.  371-5  ; the  tree  of
-god,  ii.  374.
-
-
-Offerings.  See  Sacrifices.
-
-‘Origins’ : meaning  of  the  term,  ii.  5,  41,
-46.
-
-Orisut,  neolithic  workshop  at,  77,  100.
-
-Osmo,  304,  342-3  ; ii.  329,  366.
-
-Osmotar,  343 ; ii.  329,  330,  331.
-
-Ostiaks : in  government  6f  Perm,  12 ; ceph.
-index  and  height,  32 ; cranial  measure-
-ments, 34,  35;  their  sky-god  not  wor-
-shipped, 153 ; worship  the  Ob,  160 ; their
-water-spirit,  161 ; clan-gods,  162  ; beliefs,
-168,  169 ; figure  of  the  deceased,  169 ;
-their  wizards,  173 ; status  of  women,  181 ;
-personal  names,  196;  use  a compound
-bow,  201 ; ornaments  cast  by  women,
-211.
-
-Otavatar  (Great  Bear’s  daughter),  325 ; ii.
-284.
-
-PXiSTARYS,  287  ; ii.  258.
-
-Paivatar  : as  releaser  of  the  sun,  325  ; spins,
-325  ; named,  ii.  66,  79, 106, 134, 199,  206,
-
-233,  323-
-
-Palaeolithic  Age  non-existent  in  N.  Russia,
-53-
-
-Palvonen,  ii.  176,  302,  376.
-
-Panu,  326;  ii.  277,  278,  279,  280,  281,  327,
-335,  378,  380,  387-
-
-Panula,  ii.  71,  137.
-
-Panutar,  313 ; ii.  282,  378.
-
-Para=Sw.  Bjara,  was  a magical  apparatus
-made  of  several  kinds  of  wood,  which  in
-some  magic  way  conveyed  the  milk  and
-butter  of  a neighbour’s  cows  to  one’s  own
-dairy.  In  Iceland  it  is  called  a tilberi,
-and  is  described  in  Arnason’s  Icelattdic
-Legends^  Introduction,  p.  xcii,  and  in
-Dr.  Kon.  Maurer’s  Island.  Volkssagen
-der  Gegenwart,  p.  93 ; ii.  225.
-
-Pellermoinen  or  Pellervoinen : a spirit  of
-vegetation,  303-6 ; named,  ii.  135,  342,
-343,  345,  366,  374-
-
-Penitar,  316  ; ii.  215.
-
-Perkele ; loan-word,  248,  329 ; lost  its  old
-signification,  330 ; ii.  65,  221,  223,  260,
-31 X,  340.
-
-Perm,  government  of:  population  very
-
-
-INDEX
-
-
-scanty  in  neolithic  period,  78;  silver
-vessels  of  Persian  art  found  there,  123-5.
-
-Permians,  their  geographical  position,  10  ;
-ceph.  index  and  height,  32 ; cranial
-measurements,  34,  35.
-
-Persian  art : silver  vessels  of,  123-5  ; old
-Persian  influence  on  East  and  West
-Finns,  229-35.
-
-Pihlajatar,  288  ; ii.  162,  215,  241.
-
-Pilatus,  ii.  300.
-
-Pimentola,  319 ; ii.  84,  121,  127,  143,  196,
-221,  288,  333.
-
-Pinneys,  287  ; ii.  242.
-
-Piru,  300,  329,  330 ; ii.  68,  118,  120,  125,
-126,  200,  252,  254,  260,  318,  320,  336,  340,
-341,  346.
-
-Pitch  as  a cement  for  flint  arrow-heads,
-80,  81.
-
-Pohjola  : its  meaning,  315 ; as  abounding
-in  game,  315-6 ; as  a cold  region,  316-7  ;
-assistance  obtainable  there,  317  ; as  a
-place  of  evil,  31 ; named,  ii.  loi,  116,
-127, 141, 142, 143, 183,  186,  199,  216,  232,
-242,  253,  255,  259,  263,  264,  279,  281,  288,
-296,  306,  313»  323,  3241  325>  333.  33^.  34i.
-348,  3S9.  363.  370,  372,  378.
-
-Polyandry,  184,  187.
-
-Polgamy  among  the  E.  Finns,  192.
-
-Porotytto,  317 ; ii.  141,  271.
-
-Post-classical  charms,  ii.  37,  38.
-
-Pottery,  decoration  of,  in  Finland,  57 ; at
-Lake  Ladoga,  64 ; at  Kolomtsi,  65 ; in
-Olonets,  67;  at  Voldsovo,  70;  at  Plek-
-hanov  Bor,  73 ; in  valley  of  the  Volga,
-73,  74 ; clay  mixed  with  mica  or  talc,  74,
-80 ; impre.«sed  with  snail-shells,  74,  79  ;
-at  Ananino,  77  ; in  gov.  of  Perm,  79  ; at
-Rinnekaln,  81,  82 ; Volgan  pottery  seems
-more  akin  to  that  in  Kama  valley,  86  ;
-urns  from  Fatianovo,  91 ; at  Ananino,
-98 ; in  gov.  of  Viatka,  100,  loi ; very
-rare  in  Baltic  Provinces,  iii ; atGliade-
-nova,  122.
-
-Precedents  : an  event  that  has  once  hap-
-pened creates  a precedent  why  it  should
-happen  again,  358-9.
-
-Pregel,  the  river : its  older  names,  133.
-
-
-397
-
-Ptolemy,  128-30;  knew  nothing  north  of
-lat.  55°  east  of  the  Urals,  130.
-
-Pullitar,  ii.  250.  ®
-
-Pullukka,  ii.  202.
-
-Qvens,  a Karelian  tribe,  4.
-
-Raana,  mistress  of  Pohjola,  ii.  216.
-
-Raani,  316  ; ii.  333.
-
-Rahko,  329  ; ii.  124,  249.
-
-Rahkoi,  a god  of  the  Hame  tribe,  329.
-
-Rainbow : to  a Samoyede  is  ‘ Num’s
-mantle’;  to  a (^eremis  ‘the  bow  of
-Jumo,’  154.
-
-Rakehetar,  ii.  306.
-
-Raunikko,  287;  ii.  258.
-
-Rav=the  Volga,  8;  the  Rha  of  Ptolemy,
-128.
-
-Reindeer ; words  for,  220.
-
-Rinnekaln : neolithic  station,  49,  81-3 ;
-cranial  measurements,  42, 50, 51 ; relative
-age  of  station,  85.
-
-Ristikko,  287 ; ii.  258.
-
-Rukotiivo,  331 ; ii.  201.
-
-Rumalaincn,  ii.  118.
-
-Rus,  the,  23-6.
-
-Russian  skulls,  35  ; exorcisms,  ii.  30-6.
-
-Rutja  rapids,  sea,  ii.  86,  96,  134,  360.
-
-Sacrifices,  160 ; to  forest-god  of  the
-Votiaks  and  Ceremis,  162 ; of  the  Lapps,
-164,  167;  of  the  Votiaks,  165;  to  the
-dead,  176-8  ; offerings  of  the  West  Finns,
-in  money,  food,  or  an  animal,  362-3.
-
-Saints  : 339 ; Andrew,  ii.  181 ; Anni,  ii.
-124 ; Catharine,  ii.  246 ; Christopher,
-ii.  260;  Juhannes,  ii.  196,  359,  378,  386;
-Peter,  ii.  129,  169,  181,  273,  318,  319  ;
-Saitari,  ii.  202  ; Stephen,  ii.  201.
-
-Salmon,  its  distribution,  138-9.
-
-Samoyedes ; their  sky-god,  153 ; pray  to-
-wards the  sun,  167  ; beliefs,  168 ; naming
-children,  195  ; dialectically  initial,  j\  v,
->b,  k,  212-3.
-
-Sampsa,  Sampsa  (see  Pellermoinen),  304-6;
-ii.  342,  343,  374.
-
-Sarentola,  316 ; ii.  143,  183.
-
-
-398  PRE-  AND  PROTO-HISTORIC  FINNS
-
-
-Sariola,  ii.  94,  360,  363,
-
-Sarmatians,  128.
-
-Satan,  ii.  78,  84,  126,  133.
-
-Seal  {Phoca),  the,  50,  68.
-
-Seita  of  the  Lapps,  159,  163,  164,  298.
-
-Semmer,  305  ; ii.  343.
-
-Sepulture : cairn-graves  in  Finland,  88 ;
-in  Kurland,  no;  mound -graves  with
-compartments  in  Esthonia,  105,  106,
-ns ; mound-graves  in  Kurland,  in,  115 ;
-stone  row-graves  in  Li  viand,  no,  115.
-
-Sickness  : caused  by  deceased  relatives,
-169 ; by  neglect  of  ancestors,  169 ; how
-personified  and  thought  of  by  W.  Finns,
-348-57 ; how  pictured  by  W.  Finns,
-348 ; sent  by  the  dead,  349 ; sent  by
-spells,  348  ; can  be  rolled  into  a ball  and
-thrown  away,  349 ; can  be  induced  in
-many  ways  to  depart,  349-50 ; places
-whither  It  is  conjured  away,  351-2  ; can
-be  clawed  and  extracted  with  pincers,
-353 ; its  anger  averted  by  flattering
-words,  361.
-
-Siilikki,  288  ; ii.  199.
-
-Silver  : not  found  in  the  Urals,  17  ; words
-for,  204-9.
-
-Simanter,  286 ; ii.  257.
-
-Similes  of  W.  Finns,  ii.  46-53.
-
-Sinisirkku,  315;  ii.  141,  242,  309.
-
-Slav  skulls,  35.
-
-Son-in-law  : distribution  of  the  term,  188  ;
-Votiak  son-in-law  avoids  wife’s  father
-and  mother,  195.
-
-Sotkotar,  ii.  322.
-
-Spirits:  Votiak  water-spirit  bleeds,  157;
-the  Mordvin  water-mother,  157 ; Mordvin
-‘ Forest-wife  ’ can  change  her  shape,  157  ;
-Votiak  water-spirit  as  a pike,  158 ;
-Votiak  house-spirit  can  be  felt  but
-invisible,  158 ; Samoyede  spirits  only
-visible  to  wizards,  158 ; not  necessarily
-immortal,  158 ; spirits  of  sickness  re-
-cruited by  death  of  old  maids  and
-murderers,  169.
-
-Suddum,  Sodum,  the  old  name  of  Elabuga,
-means  ‘ perch-fish,’  240.
-
-Sun  : offerings  to  by  Lapps,  167  ; chief
-
-
-god  of  Mordvins,  168  ; how  regarded  by
-W.  Finns,  323  ; enclosed  in  a rock,  224 ;
-ii.  79 ; invoked,  ii.  198,  272.
-
-Suonetar,  ii.  245.
-
-Suo-viita  (Swamp-cloak),  343  ; ii.  280,  381,
-382.
-
-Supernatural,  the  origin  of  the  idea,  150-3.
-
-Suvetar,  308-9 ; ii.  162,  210,  212,  223,  224,
-265.
-
-Swedish  charms,  ii.  38-40.
-
-Sword  of  old  Finns  was  short  and  one-
-edged,  252.
-
-Synnytar,  personification  of  birth,  ii.  108.
-
-Syojatar,  the  Ogress,  ii.  go,  114,  306,  312,
-3I7j  3I9>  320,  321,  322,  345,  360,  366,
-
-^ 369,  389-
-
-Samans,  their  dramatic  performances,  171.
-
-Tahvanus,  331,  339.
-
-Takaturma,  ii.  380.
-
-Tapio:  , the  forest-god,  285;  his  wife  and
-family,  286-8 ; his  dwelling,  288  ; named,
-ii.  208,  216,  233,  242,  258,  283 ; his
-daughter,  ii.  138,  162,  179,  204,  205,  208,
-235,  239,  240,  241,  248,  334 ; his  son,  ii.
-212,  236,  242,  258  ; his  wife,  ii.  242,  283  ;
-his  magazine,  ii.  236.
-
-Tapiola,  288;  ii.  100,  175,  179,  195,  301.
-
-Tapiotar,  288  ; ii.  210.
-
-Tavastlanders : their  geographical  position,
-3 ; their  physical  and  mental  charac-
-teristics, 17-20 ; ceph.  index  and  height,
-32 ; cranial  measurements,  33-7.
-
-Tellervo,  287  ; ii.  208,  211,  235,  241.
-
-Terhetar,  206 ; ii.  341.
-
-Teutonic  skulls,  35  ; platycephalous,  39,  40.
-
-Timanter,  331 ; ii.  201.
-
-Tin  found  in  Finland,  17.
-
-Tortoise  shell  in  neolithic  grave,  75.
-
-Trade-routes  (ancient) : between  Persia
-and  Russia,  124,  125 ; none  along  the
-Irtis  and  the  Cusovaya,  130 ; along
-Volga  and  Kama,  239,  240.
-
-Trees : names  for,  222 ; oak,  maple,  ash,
-and  elm  not  found  east  of  the  Urals,
-223 ; huge  oak  darkens  the  earth,  324,
-326.
-
-
-INDEX
-
-
-Tuometar,  288  ; ii.  162,  209,  241,  310,
-
-Tuonela,  place  of  the  dead,  origin  of  the
-word,  320-1 ; ii.  68,  96,  116,  136,  138,
-IS7.  I73-S,  22s.  252,  355,  360,  377-8,
-382.
-
-Tuoni : origin  of  the  word,  320  ; his  wife,
-son,  and  daughter,  322 ; named,  ii.  86,
-III,  117,  153,  154,  163,  214,  285,  319,  321,
-322;  his  daughter,  ii.  82,  no,  200,  219,
-364,  377,  384;  his  reins,  ii.  259;  his
-grub,  321 ; ii.  280 ; his  son,  ii.  245,  288,
-304,  344 ; river,  ii.  341.
-
-Turisas,  a god  of  the  Hame,  329.
-
-Turja : its  geographical  position,  319 ;
-helpful  eagle  lives  there,  319-20 ; named,
-ii.  86,  88,  96,  103,  121,  142, 143,  221,  241,
-253>  259,  260,  371,  372.
-
-Turjala,  ii.  194.
-
-Turjalainen,  ii.  345.
-
-Tiirpsal,  cemetery  at,  104,  105,  Table  viii,
-
-Tursas,  328 ; ii.  356,  363,  371.
-
-Tiirsel  cemetery,  104,  106, 108,  Table  vili. ,
-112, 116.
-
-Tuuletar,  wind’s  daughter,  ii.  314,  334,
-343)  344)  345)  355)  359-
-
-Tuulikki,  287  ; ii.  240,  241.
-
-Tuuri,  ii.  376.
-
-Twigs  or  branches  as  residence  of  a spirit,
-163-5.
-
-Tyra,  a ball  used  by  Lapp  witches,  ii.  205.
-
-Tyytikki,  288;  ii.  239.
-
-Udutar,  a mist-maiden,  306;  ii.  341.
-
-Ugrians,  the,  6 ; were  in  Russia  in  eleventh
-century,  12 ; Ugrian  affinities  in  finds  at
-Fatianovo  and  Gali£,  95,  147 ; obtained
-swords  from  Mahometan  countries,  236,
-240 ; separation  into  groups  earlier  than
-third  period,  237.
-
-Ukak,  two  towns  of,  25,  26.
-
-Ukko : his  epithets,  273  ; weapons,  273-5  ;
-as  air-god,  275 ; merges  into  the
-Almighty,  276 ; named,  ii.  68,  88,  97,
-105,  120?,  128,  139,  153,  155,  176,  186,
-203,  211,  213,  218,  221,  222,  238=Tapio,
-252)  255,  256,  257,  259,  261,  265,  267,
-
-
-399
-
-268-70, 280, 288, 289, 290,  295,  296,  299,
-30I)  347)  37I)  375)  376.
-
-Ulappala,  285  ; ii.  113,  253,  263,  313,  360.
-
-Uncle,  extension  of  the  term,  191.
-
-Untamola,  ii.  313.
-
-VainXmoinen  : god  of  song,  281,  283  ; as
-diviner,  282  ; as  god  of  the  healing  art,
-283-4  \ as  warrior,  285 ; named,  ii.  68,
-70,  91,  172,  173,  189,  194,  206,  219,  250,
-261,  262,  266,  271,  291,  294,  303,  305,
-306,  316,  326,  339,  351,  352,  353,  379,
-380,  383.
-
-Vaino,  284 ; ii.  81,  105,  267.
-
-Vainola,  285  ; ii.  113,  253,  260,  313.
-
-Vaivatar,  female  personification  of  suffer-
-ing, ii.  106.
-
-Vammatar,  female  personification  of
-wounds,  313 ; ii.  106,  219.
-
-Varvutar,  288  ; ii.  205,  242.
-
-Vattala,  ii.  144.
-
-Vellamo,  300-2  ; ii.  193,  206.
-
-Vendja  (Russia),  origin  of  the  word,  255-6.
-
-Venedi,  130,  131,  134.
-
-Venedic  Gulf,  131.
-
-Vento  ox,  ii.  126 ; host  of,  ii.  279 ; spring,
-ii.  228  ; stream,  ii.  275.
-
-Ves,  Visu=the  PeCorans,  5,  6.
-
-Vesi-viita  (water-cloak),  ii.  280,  381,  382.
-
-Vepsas  or  Northern  Cudes,  5.
-
-Viatka,  government  of,  scarcely  inhabited
-in  neolithic  period,  77.
-
-Vihmatar,  ii.  359.
-
-Viimatar,  ii.  334.
-
-Vingas,  ii.  367,  368.
-
-Vipunen  (Antero),  ii.  94,  197.
-
-Vitsari,  287  ; ii.  241.
-
-Voguls  in  Russia  in  fifteenth  century,  12  ;
-ceph.  index  and  height,  32 ; they  term
-the  sky-god  their  father,  154  ; method  of
-sacrifice,  159 ; their  wizards,  173  ; status
-of  women,  181.
-
-Voldsovo,  neolithic  station  at,  68-73  ;
-cranial  measurements,  69;  age  of  the
-station,  85.
-
-V orsud,  clan-  and  house-god  of  the  Votiaks,
-i59,  164,  299  ; Vorsud  names,  166.
-
-
-400
-
-
-PRE-  AND  PROTO-HISTORIC  FINNS
-
-
-Votes  or  Southern  Cudes,  5,  6.
-
-Votiaks : their  geographical  position,  9 ;
-physical  and  mental  characteristics,  28,
-29 ; ceph.  index  and  height,  32 ; water-
-spirit  of,  161 ; forest-spirits,  161 ; pray
-to  sun-mother,  167 ; their  seers,  173 ;
-commemoration  of  the  dead,  176-7  ; fami-
-lies of  forty  persons,  180;  paternal
-authority,  i8o,  181 ; hostile  capture  of
-bride,  193;  ‘mutual  avoidance,’  193;
-naming  of  children,  196,  197 ; Tatar
-loan-words,  266-70;  charms  of  the;  ii.
-14-9.
-
-Vuojala,  ii.  3^3.
-
-Vuojela,  ii.  100.
-
-Vuoksi  rapids,  ii.  97,  134.
-
-Vuolahatar,  ii.  312,  333.
-
-Vuolamoinen,  ii.  382.
-
-Vuolamotar,  ii.  382.
-
-
-Vuolervoinen,  ii.  123.
-
-Vuotar,  ii.  388.
-
-Wizards  : in  ancient  times,  170-3 ; among
-the  West  Finns,  344-8.
-
-Women : position  among  Ostiaks,  Voguls,
-and  Lapps,  181.
-
-Wood-grouse  {pyy),  legend  of,  ii.  122.
-
-Yakuts,  obtain  wives  by  personal  service,
-193-
-
-Yatvings  were  dolichocephalous,  43.
-
-Yul  = the  Volga,  8.
-
-Yura=Ugra,  Ugrians,  6 ; obtained  swords
-from  Mahometan  countries,  236.
-
-ZiRiANS : their  geographical  position,  10,
-II ; physical  and  mental  traits,  29, 30,  32.
-
-
-Printed  by  T.  and  A.  Constable,  Printers  to  Her  Majesty
-at  the  Edinburgh  University  Press
-
-
-THE  GRIMM  LIBRARY
-
-
-A Series  of  Folk-Lore  Monographs  under  the  general  editorship
-of  Mr.  Alfred  Nutt.  In  crown  8vo  volumes,  elegantly-
-printed  at  the  Constable  Press,  on  laid  paper,  half-bound  in
-art  linen,  edges  uncut.  Limited  issue.
-
-GEORGIAN  FOLK-TALES.  Translated  by  Marjory  Wardrop.
-Pp.  xii  + 175.  5s.net.
-
-THE  LEGEND  OF  PERSEUS.  By  Edwin  Sidney  Hartland,
-F.S.A.
-
-VoL.  I.  The  Supernatural  Birth.  Pp.  xxxiv  + 228.
-' 7s.  6d.  net.
-
-VoL.  II.  The  Life-Token.  Pp.  viii  + 445.  12s.  6d.  net.
-VoL.  III.  Andromeda.  JVIedusa.  Pp.  xxxvii  + 225.  7s.  6d.
-net.
-
-THE  VOYAGE  OF  BRAN,  SON  OF  FEBAL.  Edited  by
-Kuno  Meyer.  With  Essays  upon  the  Happy  Otherworld
-in  Irish  Myth,  and  upon  the  Celtic  Doctrine  of  Rebirth,  by
-Alfred  Nutt.
-
-VoL.  I.  The  Happy  Otherworld.  Pp.  xvii  + 331.  los.  6d.
-net.
-
-VoL.  II.  The  Celtic  Doctrine  of  Rebirth.  Pp.  xii  + 352.
-I os.  6d.  net.
-
-THE  LEGEND  OF  SIR  GAWAIN.  Studies  upon  its  Original
-Scope  and  Significance,  by  Jessie  L.  Weston.  Pp,  xiv+117.
-4s.  net.
-
-
-[turn  over
-
-
-The  volumes  hitherto  issued  in  the  Grimm  Library  have  been
-cordially  welcomed  alike  by  folk-lore  students  and  by  the  most
-representative  organs  of  the  general  press.
-
-The  following  expressions  of  opinion  may  be  cited  : —
-
-Concerning  Mr.  HARTLAND’S  ‘ LEGEND  OF  PERSEUS.
-
-The  Antiquary. — ' Folk-lore,  treated  as  it  is  in  the  scientific  method  employed
-in  the  present  work,  is  raised  at  once  to  a high  level  of  importance,  and  is  full
-of  possibilities  in  the  near  future.’
-
-The  Athenaeum. — ‘A  notable  study  in  the  early  psychological  history  of
-man.’
-
-The  Academy. — ‘ There  will  be  agreement  as  to  the  skill  with  which  he  has
-disentangled  a mass  of  valuable  material.’
-
-The  Manchester  Guardian.— ‘A  book  that  no  one  interested  in  the  early
-history  of  religion  in  folk-lore  or  in  anthropology  can  safely  neglect.  Probably
-the  best  book  touching  the  study  of  folk-lore — that  is,  on  the  growth  and  develop-
-ment of  primitive  human  ideas — published  since  the  “Golden  Bough." '
-
-The  Westminster  Gazette. — ‘Mr.  Frazer’s  “Golden  Bough’’  began  a new
-epoch  in  the  modern  treatment  of  mythology.  . . . Mr.  Hartland  is  one  of  our
-most  learned  and  competent  workers  in  this  novel  field,  and  he  ably  follows
-Mr.  Frazer’s  footsteps.’
-
-The  Nation  (New  York). — ‘A  most  scholarly  and  fascinating  work.  Those
-who  have  not  followed  the  progress  of  similar  investigations  will  be  startled  by
-its  suggestiveness.’
-
-The  Speaker.—'  Mr.  Hartland  writes  with  a scholar’s  modesty  and  a scholar’s
-ease.’
-
-The  Literary  World.— ‘We  can  find  nothing  but  praise  for  this  able  and
-systematic  inquiry  into  a subject  fraught  with  interest  to  student  and  reader
-alike.’
-
-Notes  and  Queries,  in  mentioning  the  issue  of  Vol,  III. — ‘The  ambitious  and
-scholarly  task  of  Mr.  Hartland  is  now  accomplished,  and  the  world  is  the  richer
-by  an  all-important  contribution  to  comparative  folk-lore.*
-
-
-The  Daily  Chronicle. — 'A  work  which  as  an  authoritative  exposition  of  the
-anthropological  exposition  of  folk-lore  has  taken  its  place  by  the  side  of  Mr.
-Frazer’s  “Golden  Bough.’”
-
-Concerning  ‘THE  VOYAGE  OF  BRAN
-
-Monsieur  H.  D’Arbois  de  Jubainville  in  the  ‘Revue  Celtique.’— ‘CEuvre
-d’une  grande  valeur  scientifique  et  d’une  lecture  agrdable.’
-
-Monsieur  H.  Gaidoz  in  ‘Melusine.’— ‘Edition,  tradition  et  commentaire  philo-
-logique  sont  d’une  critique  irr^prochable.  . . . M.  Nutt  est  bien  inform^ : ses
-mat^riaux  sont  pris  aux  meilleures  sources : son  exposition  est  nette  et  precise :
-son  livre  est  une  oeuvre  d’histoire  g^n^rale  a la  fois  des  croyances  et  des
-littdratures.’
-
-Monsieur  Gaston  Paris  in  ‘Romania.’ — ‘Tres  savante  etude  . . . qui  sera
-lue  avec  grand  profit  par  tons  ceux  qui  s’occupent  de  litterature  compar^e  ou
-d’histoire  religieuse.’
-
-Professor  Ernst  Martin  in  the  ‘Zeitschrift  fiir  deutsches  Alterthum.’—
-
-‘ Ueberall  verwertet  Nutt  die  besten  und  neuesten  Hilfsmittel,  aber  er  vermehrt
-auch  selbststandig  das  Material  und  zieht  eine  Reihe  von  Schliissen  welche  er
-methodisch  begriindet  und  zugleich  klar  und  fesselnd  vortragt.’
-
-Professor  F.  York  Powell  in  ‘Folk-Lore.’ — ‘The  most  valuable  contribution
-to  the  history  of  religion  and  religious  ideas  that,  so  far  as  ray  knowledge  goes,
-last  year  gave  us.’
-
-Monsieur  L.  Marillier  in  the  ‘ Revue  de  I’Histoire  des  Religions.’— ‘ M.  Nutt
-aura  rendu  un  Eminent  service  en  portant  k la  connaissance  des  mythologues  des
-documents  dont  beaucoup  malheureusement  ne  sont  mis  a profit  que  dans  le
-cercle  ^troit  des  celtisants ; il  en  aura  rendu  un  plus  grand  encore  en  faisant  avec
-tant  de  suret6  critique  et  de  solide  Erudition  I’analyse  et  I’histoire  des  conceptions
-complexes  qui  y sont  contenues.’
-
-Notes  and  Queries.— ‘This  notable  contribution  to  the  history  of  Celtic  myth
-and  religion.’
-
-Manchester  Guardian. — ‘The  book  is  important,  because  it  is  a carefully
-reasoned  constructive  effort  to  get  a working-theory  of  Aryan  religious  history.’
-
-
-Inverness  Northern  Chronicle. — ‘A  reconstruction  of  pre-Christian  Irish
-theology.  . . . Professor  Meyer’s  translations  are  admirable.  . . . It  is  impossible
-to  give  in  this  notice  an  idea  of  Mr.  Nutt’s  painstaking  gathering  of  materials,  or
-of  the  scientific  use  he  makes  of  them  in  the  work  of  restoration.’
-
-Modem  Language  Notes  (Baltimore).— ‘ The  field  has  been  thoroughly
-examined  for  material,  the  material  has  been  well  and  clearly  worked  over.  The  ^
-statements  of  fact  are  always  fair ; the  reasoning  is  usually  clear,  forcible,  and
-just,  and  the  conclusions  sane.’
-
-Literature. — ‘ Must  for  some  time  to  come  form  the  starting-point  for  future
-inquiry  into  the  varying  views  of  man  about  the  life  after  death.’
-
-The  Nation  (New  York). — ‘Of  Professor  Meyer’s  part  as  editor  and  commen
-tator,  we  can  speak  only  in  terms  of  the  highest  praise.  . . . The  same  prais.
-should  be  extended  to  Mr.  Nutt’s  disquisitions  . . . which  prove  him  to  be  a
-master  of  his  complicated  theme.’
-
-
-Concerning  ‘THE  LEGEND  OF  SIR  GAWAIN.’
-
-Manchester  Guardian. — ‘A  careful,  readable,  and  suggestive  study  which
-adds  substantially  to  the  results  obtained  by  Madden’s  well-known  book.’
-
-Academy. — ‘ Invaluable  in  clearing  the  path  for  a final  survey  of  the  tangled
-wood  of  Arthurian  legend.’
-
-
-LONDON:  DAVID  NUTT,  270  STRAND
-
-
-UNIVERSITY  OF  TORONTO  LIBRARY
-
-
-SEEN  BY
-
-PRESm/AllOH
-
-SERVICES
-
-DATE.  .7. ^

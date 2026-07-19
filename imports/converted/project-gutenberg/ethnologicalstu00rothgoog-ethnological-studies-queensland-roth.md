@@ -1,813 +1,3 @@
-# Ethnological Studies among the North-West-Central Queensland Aborigines
-
-PREFACE.
-
-
-Since 1894 my tenure of office as Surgeon to the Boulia, Cloncurry, and
-Normanton Hospitals, respectively, has afforded unrivalled opportunities for
-making inquiry into the language, customs, and habits of the North-West-
-Central Queensland aboriginals. The following pages embody the notes collected
-during that period.
-
-At Boulia, where strictly professional work was conspicuous by its absence,
-almost my whole time was devoted to a careful study of the local (Pitta-Pitta)
-language: only when this was sufficiently mastered did I find it possible to
-understand the complex system of social and individual nomenclature in vogue,
-and ultimately to gain such amount of confidence and trust among the natives as
-enabled me to obtain information concerning various superstitions, beliefs, and
-ceremonial rites which otherwise would in all probability have been withheld.
-To any future observers of, and writers on, the Queensland aboriginal, I would
-most strongly recommend this method of making themselves familiar with the
-particular language of the district before proceeding to make any further inquiries*
-
-I would also draw the attention of the reader to the chapter on the Sign
-Language, which I first accidentally hit upon at Roxburgh Downs, on the Upper
-Greorgina. I was out on horseback one day with some blacks when one of the
-"boys" riding by my side suddenly asked me to halt, as a mate of his in front
-was after some emus, consisting of a hen-bird and her young progeny. As there
-had been, apparently to me, no communication whatsoever between the boy in front
-and the one close to me, separated as they were by a distance of quite 150 yards, I
-naturally concluded that my informant was uttering a falsehood, and told him so
-in pretty plain terms, with the result that, after certain mutual recriminations,
-he explained on his hands how he had received the information, the statement to
-be shortly afterwards confirmed by the arrival of the lad himself with the dead
-bird and some of her young in question.. The reported use of "masonic" signs
-attributed to the blacks by Captain Sturt, who had been in close proximity to
-these districts some half a century ago, immediately flashed across my mind,
-and the possibility of such signs being ideagrams, the actual expressions of ideas,
-led me on step by step to making a study of what I subsequently discovered to
-be an actual well-defined sign-language, extending throughout the entire North-
-West-Central districts of Queensland. It may be interesting to note that I have
-during the past few months discovered traces of a gesture-language, with some
-of the ideagrams expressed by identical signs, in the coastal district around
-Rockhampton.
-
-The pronunciation of all aboriginal words from Chapter IV. onwards will
-be found in the Index and Glossary.
-
-With regard to the chapter on Ethno-pornography, I am well aware that it
-is far from suitable for the general lay reader; the subject matter, however,
-being essential to a scientific account of these aboriginals, I have decided upon
-
-
-VI. PBEFACE.
-
-its publication, at the same time placing it at the very last, in the hope that
-those who do not wish to peruse its pages need not unwittingly find themselves
-doing so.
-
-I take this opportunity of thanking my old friend and teacher, Mr. F. M.
-Bailey, Queensland Government Botanist, for his kindness in determining the
-various plants, grasses, Ac, submitted to him for examination. Mr. C. de Yis,
-Curator of the Brisbane Museum, did me a similar service with regard to the
-fauna. I also wish to express my obligations to the many station-managers
-— notably, Mr. Sam. Eeid, of Clonagh ; Mr. J. Craigie, late of Eoxburgh Downs
-(now of Stockport) ; Mr. J. Coghlan, late of G-lenormiston ; Mr, Eeardon, of
-Carlo ; Mr. A. Cameron, of Marion Downs ; and Mr. Dan. Wienholt, of Warenda
-— for all their trouble and help in furthering my investigations. Messrs. E.
-Etheridge, junr., and Chas. Hedley, of the Australian Museum, Sydney, have
-also given me continuous advice and encouragement in carrying out these Ethnological studies: the former gentleman has laid me under a deep debt of gratitude
-in drawing up the Bibliography. My greatest thanks of all, however, are due
-to Mr. Parry-Okeden, Commissioner of Police, Brisbane, who has given me every
-facility and assistance in preparing the work for publication. I look forward to
-the day when Mr. Parry-Okeden will have the satisfaction of seeing his words
-verified, that "Queensland will be proud of her aboriginals" — a consummation
-in which he has made up his mind to take an active part.
-
-In the arrangement of the tabular matter, and in the setting of the different
-types necessary for the elucidation of the text, the reader cannot fail to appreciate
-the many difficulties that have been so successfully overcome by the various
-officials at the Government Printing Office — Mr. E. Gregory, Mr. G. A. Yaughan,
-and the staff generally.
-
-Brisbane, Queensland, Sept., 1897.
-
-
-EEEATA.
-
-
-Sect. 62, subsection f. — Omit "an absence which was .also met with around
-Eockhampton and Gladstone (sect. 70rf)«"
-
-8ect. 70, subsection (d). — Omit " the gamo-matronyms being alone deficient."
-
-
-A List of the More Important Publications bearing on the District and
-Described in the Following Pages, or that should* be Referred tc
-in Conjunction with the Matter therein Contained.
-
-
-R. ETHERIDGE, June.,
-
-Curator of the Australian Museum, Sydney, N.S. W.
-
-
-N.B. — While away in the North working at his MSS., Dr. Roth was unaware of the ex
-of the following literature, and hence has described certain tribes under names spelt differentl
-
-those given in Mr. Etheridge's List. To prevent ambiguity the accompaoying table is append*
-
-Names in Mr. Etheridge's List. Names in Dr. Roth's Work.
-
-Karrandee = Karunti
-
-Kulkadoon = Kalkadoon
-
-Miappe = Miubbi
-
-Moorloobulloo = Mooraboola
-
-Mykoolon = Mikoolun
-
-Oonoomurra = Woonamurra
-
-Ringa-Ringaroo — Ringo Ringo
-
-Runga-Rungawah = Rungo Kungo
-
-Wollongurma = Wollangama
-
-Yanda = Yunda
-
-Yelina = Yellunga
-
-
-Armit, W. E.—
-
-Vocabulary and Account of the Tribe at the Mouth of the Leichhardt R
-
-" Curr's Australian Race, 1886," ii., pp. 300-306.
-Vocabulary and Account of the Karrandee Tribe at the Mouth of the I
-
-Norman. " Curr's Australian Race, 1886," ii., pp. 306-309.
-Vocabulary and Account of the Wollongurma Tribe on the Middle Noi
-
-River. " Curr's Australian Race, 1886/' ii., pp. 310-313.
-
-Bancroft, J. —
-
-The Pituri Poison. "Trans. Phil. Soc, Queensland, 1859-72," 42nd Article, p.
-Pituri and Tobacco. " Trans. Phil. Soc., Queensland, 1878-82," iii., 2nd An
-p. 16 ; 2 Plates.
-
-Barlow, H. —
-
-Vocabulary of Aboriginal Dialects of Queensland. " Journ. Anthrop. Inst., 1£
-
-Beddoe, J. —
-
-On the Aborigines of Central- Queensland. "Journ. Anthrop. Inst., 1877,"
-
-Bedford, C. T. —
-
-Reminiscences of a Surveying Trip from Boulia to the South Australian Bo
-"Proc. R. Geogr. Soc, Austr. (Queensland Branch), 1886-87 [1887],*
-
-
-VU1. BIBLIOGBAPBY.
-
-Chabnock,
-
-
-On Queensland Dialects. " Joum. Anthrop. Inst., 1873," ii., p. 175.
-
-Chbistison, E. —
-
-Vocabulary of Language used on the Upper Thomson (Lat. 22°, Long. 144°, or
-thereabouts). " Curr's Australian Race, 1887," iii., p. 10.
-
-Cowabd, T. —
-
-Language of the Aborigines about Burketown. "Curr's Australian Race, 1886,"
-
-Cox, J. C. —
-
-Notes on Some of the Habits and Customs of Australian Natives in Queensland.
-"Proc. Linn. Soc., N. S. Wales, 1881," v., pp. 633-636.
-
-Cbaigie, J. —
-
-Vocabulary of the Eunga-Eungawah Tribe, Eoxburgh Downs Station. "Curr's
-Australian Eace, 1886," ii., p. 356.
-
-Cubl, S. M. —
-
-On Pituri, a New Vegetable Product that deserves further Investigation. " Trans.
-N. Zealand Inst, for 1878 [1879]," xi., pp. 411-415.
-
-Cubb, E. M. —
-
-The Australian Eace : Its Origin, Languages, Customs, Place of Landing in
-Australia, and the Eoutes by which it spread itself over that Continent. 3 vols,
-and atlas. 8vo and folio. Melbourne, 1886.
-
-Cubb, E.—
-
-Language Spoken on the West Bank of the Leichhardt Eiver, near the Sea. " Curr's
-
-Australian Eace, 1886," ii., p. 314.
-Language Spoken on the Leichhardt Eiver, twenty miles below Kamilaroi Station.
-
-" Curr's Australian Eace, 1886," ii., p. 316.
-Vocabulary of the Birria Language. " Curr's Australian Eace, 1886," ii., pp. 384-85.
-
-Vocabulary of Language used at the Head of the Gilbert Eiver. " Curr's Australian
-
-Eace, 1886," ii., p. 416.
-Vocabulary of the Goa Tribe, Middleton Creek, Diamantina Eiver. "Curr's
-
-Australian Eace, 1887," iii., p. 14.
-
-Cubb, M. —
-
-Vocabulary of the Tribe at Kamilaroi Station, Leichhardt Eiver. " Curr's Australian
-Eace, 1886," ii., pp. 318-321.
-
-Vocabulary of Language used at the Head of the Diamantina Eiver. "Curr's
-Australian Eace, 1887," iii., p. 12.
-
-Cubb, M. and E. —
-
-The Pooroga Language : Dialects of the Upper Flinders, Hughenden, and Dutton
-Eivers. " Curr's Australian Eace, 1886, ii. pp. 460^463.
-
-Eolington, E. —
-
-Vocabulary and Manners of the Yelina Tribe, Burke Eiver. "Curr's Australian
-
-Eace, 1886," ii., pp. 346-319.
-Vocabulary and Customs of the Yanda Tribe, Head of the Hamilton Eiver. " Curr's
-
-Australian Eace, 1886," ii., pp. 360-363.
-
-Vocabulary of a Tribe on the Hamilton Eiver, near Boulia. " Curr's Australian
-Eace, 1886," ii., p. 364.
-
-Ethebidge, E., Junr. —
-
-The Knife used by the Mulligan Eiver (North-Central Queensland) Aborigines in
-the Mika Operation. "Proc. Linn. Soc, N. S. Wales, 1890," v. (2), pp. 251-
-258, pis. 9 and 10.
-
-Additional Eemarks on Mika Knives. " Proc. Linn. Soc, N. S. Wales, 1890," v. (2),
-pp. 289-291, pis. 11 and 12.
-
-Spear Heads from Settlement Creek and Nicholson Eiver. " Proc Linn. Soc*, N. S.
-Wales, 1891," vi. (2), p. 37, pi. 4, f. 2 and 3.
-
-Contributions to a Catalogue of Works, Ecports, and Papers on the Anthropology,
-Ethnology, and Geological History of the Australian and Tasmanian Aborigines.
-Parts i.-iii. " Pal. Mem. Geol. Survey, N. S. Wales," No. 8. 4to. Sydney,
-1890-95. By authority.
-
-Fison, L. —
-
-On Australian Marriage Laws. " Journ. Anthrop. Inst, for 1879 [1880]," 354-57*
-
-
-BIBLIOGEAPHY. IX.
-
-Fbasee, J". —
-
-Some Remarks on the Australian Languages. " Journ. R. Soc. N. S. Wales for
-1890 [1891]," xxiv., pp. 231-253.
-Heagney, J.—
-
-Vocabulary and Account of the Birria, Koongerri, and Kungarditchi Tribes, at the
-Junction of the Thomson and Barcoo Rivers, also the Whitula Creek. " Curr's
-Australian Race, 1886," ii., pp. 374-383.
-
-Howitt, A. W. — •
-
-Notes on the Australian Class Systems. "Journ. Anthrop. Inst., 1883," xii.,
-
-Further Remarks on the Australian Class Systems. " Journ. Anthrop. Inst., 1889,"
-xviii., pp. 31-70, pi. 5.
-
-• The Organisation of Australian Tribes. " Trans. R. Soc. Vict., 1889, i., pp. 96-137."
-
-Note on the Use of G-esture-Language in Australian Tribes. " Proc. Austr. Assoc.
-Adv. Sci. for 1890 [1891]," u., pp. 637-646.
-
-Howitt, A. W., and Fison, L. —
-
-On the Deme and the Horde. "Journ. Anthrop. Inst., 1884," xiv., pp. 142-169.
-
-Lamond, M. S. —
-
-Vocabulary and Account of the Mykoolon Tribe, between the Gregory and Leichhardt Rivers. " Curr's Australian Race, 1886," ii., pp. 322-325.
-
-Livebsidge, A. —
-
-The Alkaloid from Pituri. "Journ. R. Soc, N. S. Wales, for 1880 [1881]," xiv.,
-
-LUMHOLTZ, C. —
-
-Among Cannibals : An Account of Four Years' Travels in Australia, and of Camp
-Life with the Aborigines of Queensland, pp. xx., 395. Plates, maps. 8vo.
-London, 1890.
-
-Macgilliveay, A. —
-
-Manners and Languages of the Oonoomurra Tribe, Flinders and Cloncurry Country.
-" Curr's Australian Race, 1886," ii., pp. 340-345.
-
-Machattie, J. O. —
-
-Vocabulary and Customs of the Moorloobulloo Tribe, at the junction of King's Creek
-and the Georgina or Herbert River. "Curr's Australian Race, 1886," ii.,
-
-Mathew, J. —
-
-The Australian Aborigines. " Journ. R. Soc, N. S. Wales, for 1889 [1890]," xxiii.,
-pp. 335-349. Plate and map.
-
-Miklouho-Maclay, N. von —
-
-t)ber die Mika-operation in Central Australien. "Zeitsch. fur Ethnol. (Yerhandl.),
-
-1880," xii., p. 85.
-Stellung des Paares beim Coitus und das Ausschlendern des Sperma's vom Weibe. »
-
-"Zeitsch. fur Ethnol (Yerhandl.), 1880," xii., p. 87.
-
-Langheinigkeit der Australischen Frauen. "Zeitsch. fur Ethnol. (Yerhandl.), 1880,"
-' xii., p. 89.
-
-Geschlechtlicher Umgang mit Madchen vor der Geschlechtsreife. "Zeitsch. fur
-
-Ethnol. (Yerhandl.), 1880," xii., p. 88.
-Bericht iiber Operationen Australischer Eingeborner. "Zeitch. fur Ethnol.
-
-(Yerhandl.), 1882." xiv., pp. 26-29.
-
-McLean, A. —
-
-Vocabulary of the Ringa-Ringaroo Tribe, between the Georgina and Burke Rivers,
-between Lat. 20° and L. 21° S. " Curr's Australian Race, 1886," ii., p. 358.
-
-MOWBRAY, H. M. —
-
-Vocabulary and Customs of a Tribe at the Granite Range, close to the head of the
-Mitchell River, and east of the Hodgkinson G-old Fields. " Curr's Australian
-Race, 1886," ii., pp. 402-407.
-
-Mueller, F. von-*-
-
-* Origin of the Stimulant called Pitury. " Smyth's Aborigines of Victoria, 1878,"
-i., p. 222, note.
-
-Mubbay, J. P. —
-
-Pituri. " Pharm. Journ., 1879," i. (3), p. 638.
-
-
-X. BIBLIOGRAPHY.
-
-Palmer, E. —
-
-Notes on Some Australian Tribes. " Journ. Anthrop, Inst., 1884," xiii., pp. 276-347.
-
-On Plants used by the Natives of North Queensland, Flinders and Mitchell Rivers,
-for Food, Medicine, Ac. "Journ. It. Soc. N. S. Wales for 1883 [1884]," xvii.,
-
-Vocabulary and Account of the Miappe Tribe, Cloncurry River) " Curr's Australian
-Race, 1886," ii., pp. 330-333 and 338.
-
-Vocabulary and Account of the Mirkin Tribe, Akoonkoon, Pajmer River. " Curr's
-Australian Race, 1886," ii., pp. 396-399.
-
-Petit, A. —
-
-The Alkaloid of Pituri. "Pharm. Journ., 1879," ix. (3), p. 819.
-
-Smyth, R. B. —
-
-The Aborigines of Victoria, with Notes relating to the Habits of the Natives of other
-parts of Australia and Tasmania, &c. 2 vols. R. 8vo. Melbourne, 1878. By
-authority.
-
-Taplin, G. —
-
-Notes on a Comparative Table" of Australian Languages. "Journ. Anthrop. Inst.,
-1872," i., pp. 84r-88, table.
-
-Thozet, A. —
-
-List of some of the Roots and Fruits used as Vegetable Food by the Aborigines of
-Northern Queensland, Australia. " Off. Record, Intercol.. Exhib. Australasia,
-Melbourne, 1866-67 [1867]," pp. 259-263.
-
-Thbelkeld, L. E. —
-
-An Australian Language, as Spoken by the Awabakal, &c, &c, Re-arranged,
-Condensed, and Edited, with an Appendix by John Fraser, B.A., LL.D., &c,
-pp. lxiv., x., 227, and 148. Map, plates. 8vo. Sydney, 1892. By authority.
-
-Ubquhaet, F. —
-
-Language and Account of the Kulkadoon Tribe, Seymour, Templeton, and Cloncurry
-Rivers. " Curr's Australian Race, 1886," ii., pp. 326-329.
-
-Wells, F. H.—
-
-The Habits, Customs, and Ceremonies of the Aboriginals on the Diamantina,
-Herbert, and Eleanor Rivers, in East-Central Australia. " Proc. Austr. Assoc.
-Adv. Sci. for 1893 [1894]," v., pp. 515-622.
-
-
-CONTENTS.
-
-
-CHAPTER I.
-The Spoken Language op the Pitta-Pitta Aboriginals : Ax Elementary
-
-
-Section 1. Where Spoken. 2. Geographical Limits of the Boulia District. 3. Pronunciation. 4. Gender, Number, and Person. 5. Personal Pronouns — Nominative.
-6. Personal Pronouns Objective — Direct Object. 7. Personal Pronouns Objective —
-Indirect Object. 8. Auxiliary Verbs. 9. Indefinite Articles. 10. Personal Pronouns —
-Possessive. 11. Nouns — Nominative. 12. Nouns — Vocative. 13. Nouns— Possessive.
-14. Nouns — Objective. 15. Nouns— Plural and Dual. 16. Nouns — Gender.
-17. Verbs— Actiye, Indicative. 18. Verbal Pronouns. 19. Verbs, Active— Imperative.
-20. Adjectives. 21. Adverbs. 22. Prepositions— Motion. 23. Prepositions — Rest.
-24. Prepositions — Purpose, Reason, Means. 25. Prepositions— Time. 26. Conjunctions.
-27. Comparison of Adjectives. 28. Comparison of Adverbs. 29. Verb*— Active,
-Infinitive. 30. Verbs — Special Forms of the Future. 31. Verbs— Special Forms of the
-Imperative. 32. Reflexive Verbs. 33. Special Forms of Transitive and Intransitive
-Verbs. 34. Relative Pronouns. 35. Interrogative Pronouns. 36. Numerals, &c.
-37. Ideas of Quantity and Size. 38. Ideas of Time. 39. Ideas of Place, Direction, and
-Distance. 40. Interrogation, Doub 1 -, and Uncertainty. 41. Notes of Exclamation, &c.
-42. Participles and Perfects. 43. Introduction to the Pitta-Pitta Vocabulary. 44. Pitta-
-Pitta Vocabulary.
-
-CHAPTER II.
-
-Tabular Comparison between Vabious Selected Words Used in the
-Different Ethnographical Districts of North- West-Central
-
-V^U JSJtfifl o Li AH .D ... ... ••• ... ... ••• ... ■•• ...
-
-Section 45. Boulia District and the Various Tribes Occupying it. 46. Leichhardt-
-Selwyn District. 47. Cloncurry District. 48. Flinders District. 49. Upper Georgina
-District. 50. North- West-Central Queensland. 51. Introduction to the Philological
-Tables. 52. Words Relating to Parts of the Body. 53. Fauna and Flora. 54. Other
-Objects of Nature. 55. Weapons, Utensils, &c. 56. Numerals. 57. Abstract Ideas.
-58. Family Relationships.
-
-CHAPTER III.
-
-Social and Individual Nomenclature : Class Systems, &c
-
-Section 59. Introductory. 60. Patronym. 61. Gamomatronym. 62. Paedomatronym. 63. Heteronym. 64. Geneanym. 65. Genealogical Tree in the Pitta-Pitta
-Language. 66. Aboriginal and European Relationship Equivalents. 67. Autonym.
-68. Climanym. 69. Summary of Nomenclature. 70. Similar Systems in Other Portions
-of Queensland. 71. Probable Interpretation of the Class Systems.
-
-CHAPTER IV.
-
-The Expression of Ideas by Manual Signs: A Sign Language
-
-Section 72. Introductory. 73-74. Mammals. 75-76. Birds. 77-78. Reptiles.
-79-80. Fish. 81-82. Molluscs. 83-84. Arthropoda. 85-86. Plants. 87-88. Other Objects
-of Nature. 89-90. Individuals, Family Relatives. 91-92. Ornaments, Weapons, Implements, Utensils, Huts. 93-94. Number. 95-96. Locality, Direction. 97-98. Time.
-99-100. Interrogation. 101-102. Simple Acts, States, and Conditions. 103-104. Complex
-Conditions, Abstract Ideas.
-
-
-Xll.
-
-
-CONTENTS.
-
-
-CHAPTER V. pagk.
-
-The Search fob Food. Pitubi 91-100
-
-Section 105. Seed-food in the Boulia District. 100. Elcunne (egyptiaca.
-107. Sporobolus actinocladus. 108. Coolibar-seed. 109. Pig- weed. 110. "Nardoo."
-111. Seed-food in the Cloncurry District. 112. Seed-food in the Leichhardt-Selwyn
-District. • 113. Edible Roots in the Boulia District ; 114, in the Cloncurry District ;
-115, in the Leichhardt-Selwyn District. 116. Fungi. 117. Fruits and Vegetables.
-118. Flowers and Honey. 119. Insects and Crustaceans. 120. Molluscs. 121. Frogs.
-122. Lizards, Iguanas, Crocodiles. 123. Snakes. 124. Fish-catching with Nets ; 125, with
-Dams ; 126, by poisoning the water-holes ; 127, by Spearing ; 128, by " treading " with the
-feet. 129. Killing and Transporting Fish. 130. Methods of Hunting Emus ; 131, with
-Net alone ; 132, with Net and Palisading ; 133, by means of Pit-falls ; 134, by Muster ;
-135, by Tracking and Spearing, &c. 136. Turkey-Bustards. 137. Flock Pigeons.
-138. Small Birds. 139. Cockatoos, Corollas, Galahs. 140. Ducks, Cranes, Diver-birds.
-141. Pelicans. 142. How Birds are Prepared for Eating. 143. Bandicoots, "Porcupines,"
-&c., &c. 144. Opossums. 145. Kangaroos. 146. Dingoes. 147. Pituri.
-
-CHAPTER VI.
-
-Domestic Implements and Utensils. Fibe-sticks and Yam-sticks. Huts
-
-and Shelters 101-107
-
-Section 148. Koolamons. 149. Chisels. 150. Cementing Substance. 151. Artificial
-Bending and Straightening of Timber. 152. Water-bags. 153. Dilly-bags. 154. Grindstones. 155. Nardoo-stones. 156. Baking Ovens. 157. Fire-sticks. 158. Yam- sticks.
-159. Huts and Shelters in the Boulia District ; 160, in the Cloncurry District ; 161, in the
-Leichhardt-Selwyn District.
-
-CHAPTER VII.
-
-Personal Oenambntation and Decoration. Mural Painting, &c. ... 108-116
-
-Section 162. Method of Working-up the Hair. 163. Decoration and Ornamentation
-of the Head. 164. Feather Tufts. 165. Knuckle-bones. 166. Tooth Ornaments.
-167. Artificial Whiskers. 168. Head-net. 169. Forehead-net. 170. Fillets. 171. Circlets.
-172. Spiral Band. 173. Wooden Cross-piece : Handkerchiefs. 174. Ornamentation of the
-Face. 175. Piercing of the Nose. 176. Piercing of the Ears. 177. Avulsion of the Teeth.
-178. The Beard. 179. Grass Necklaces. 180. Opossum-string Necklaces. 181. Armlets,
-Anklets, Body-cords. 182. Chest Ornaments. 183. Waist-belts, Aprons. 184. Pliallocrypts. 185. Painting and Feathering of the Body. 186. Mutilations, Flesh-cuts.
-187. Mural Painting, Art, and Draughtsmanship.
-
-
-CHAPTER VIII.
-
-.Eecreation: Corrobborees, Sports, and Games
-
-Section 188. The Corrobboree. 189. Time of Performance. 150. Authorship and
-Plot. 191. May be Taught and Carried to ether Tribes. 192. Performers. 193. Dres*
-and Decorations. 194. Dancing Ground, Dressing Room. 195. The Dance. 196. Words
-of the Song. 197. Music of the Song. 198. Beating of the Time. 199. The " Molonga"
-Corrobboree. 200. Tales and Yarns, Fables, Folk and Animal Lore. 201. The Waterhen and the Emu. 202. The Galah -parrot and the Lizard. 203. The Opossum and the
-Wild Cat. 204. The Laughing-jackass and the Blackfellows. 205. The Snake and the
-Fish. 206. The Red-tit and the Brown-tit. 207. The Two Fishermen. 208. The Porcupine and the Eagle-hawk. 209. The Black Crow and the Hawk. 210. The Hawk and
-the Bower-bird. 211. The Moon. 212. The Galah-parrot and the Opossum. 213. The
-"Retnrn" or "Come-back" Boomerang. 214. The Toy Throwing Stick. 215. The
-"Whirler." 216. The Ball. 217. The Skipping-rope. 218. "Hunt the Eye." 219. Hide
-and Seek. 220. Smoke Spirals. 221. Mimicking Animals and Birds. 222. Coursing.
-223. Pit-Throwing.
-
-CHAPTER IX.
-Travel, Trade, and Barter. The So-called Letter oe Message-stick ...
-
-Section 224. The "Walk-about." 225. Signs and Signals on the Road. 226. Names
-of Water-holes, Camping-grounds, &c. 227. The Points of the. Compass. 228. The
-Arrangements at the Camping-ground. 229. Trade-routes ; 230, in the Boulia District ;
-231, in the Upper Georgina District ; 232, in the Leichhardt-Selwyn District ; 233, in the
-Cloncurry District. 234. Transmission of Customs, Beliefs, and Language by means of
-these Trade-routes. 235. The So-called Letter or Message-sticks. 236. Notes to
-Illustrations of these Sticks. 237. How a Message-stick is put into use.
-
-
-CONTENTS.
-
-
-CHAPTER X.
-
-
-PAGE,
-
-
-The Maintenance op Law and Oedeb : Fighting, Fighting Weapons ... 139-151
-
-Section 238. The Maintenance of Law and Order : Methods of Fighting.
-239. Classification of Fighting Boomerangs. 240. Material, Manufacture, and Flight of
-Boomerang*. 241. The Ornate Boomerang. 242. The Fluted Boomerang. 243. The
-Plain Boomerang. 244. The Hook Boomerang. 245. The Two-handed Sword.
-246. Spears. 247. The Acicular-tip Hand-spear. 248. The Spatulate-tip Hand-spear.
-249. The Spatulate-tip Wommera-spear. 250. Wommera Reed-spears. 251. The Quartztip Wommera Reed-spear. 252. Non-indigenous Spears. 253. Wommeras.' 254. Shields.
-255. Fighting-poles. 256. Nulla-nullas. 257. Stone-knives. 258. Stone- tomahawks.
-
-
-CHAPTER XI.
-
-Disease, Accident, Death. Cannibalism
-
-Section* 259-268. The Death-bone. 269. Death from Snake-bite. 270. Other
-Diseases and Accidents produced by the Death-bone. 271. Women Doctors. 272. The
-Pearl-plate. 273. The Death-powder. 274. The Bone-pin. 275. Incurable Blindness.
-276. Drowning. 277. Sudden Disappearance. 278. Mental Disease. 279. Belief in Death
-as a Punishment — a Future State. 280. Treatment of Non-fatal Snake-bite. 281. Fractures.
-282'. Chants and Dirges for exorcising Ailments. 283. Smearing of Blood, of Perspiration ;
-Drinking of Blood, of Seminal Fluid. 284. Smearing of Fat. 285. Poultices. 286. Amulets
-and Charms. 287. Medicinal Plants. 288. Clay-pills. 289. Burial in the Boulia District ;
-290, of a Murderer. 291. Burial in the Cloncurry District ; 292, in the Upper Georgina
-District. 293. Cannibalism.
-
-
-CHAPTER XII.
-
-Eain-making, Thunder and Lightning-making
-
-Section 294. Rain-making in the Boulia District ; 295, at Roxburgh ; 296, at
-Headingly, Lake Nash, &c. ; 297, in the Leichhardt-Selwyn District. 298. Thunder and
-Lightning-making.
-
-
-CHAPTER XIII.
-
-
-Ethno-pohnogbaphy ...
-
-
-Section 299. The Degrees of Social Rank. 300. First Ceremonial (Male) in the
-Boulia District ; 301, at Roxburgh ; 302, at Headingly ; 303, in the Cloncurry District ;
-304, in the Leichhardt-Selwyn District. 305. First Ceremonial (Female) in Boulia
-District; 306, in Upper Georgina District; 307, in the Leichhardt-Selwyn District;
-308, at Birdsville. 309. Remarks on the Vaginal Laceration. 310. Second
-Ceremonial ( Male and Female) among the Pitta-Pitta Blacks ; 311, in the Leichhardt-
-Selwyn District ; 312, in the Cloncurry and Flinders Districts. 313. Third and Fourth
-Ceremonials in the Boulia District ; 314, in the Leichhardt-Selwyn District ; 315, in the
-Cloncurry District. 316. Introcision ; 317, in the Boulia District; 318, among the
-Yaroinga ; 319, among the Undekerebina. 320. The commonly-alleged object of Introcision
-discussed. 321. An Hypothesis offered. 322. Physical Inconveniences. 323. Marriage.
-324. Betrothal. 325. "Love-charms." 326. Consanguinity. 327. Venery. 328. Pregnancy
-and Labour. 329. Abortion. 330. Babyhood. 331. Menstruation. 332. Micturition
-and Defaecation. 333. Foul Language, &c.
-
-
-Index and Glossaey
-
-
-Illustrations
-
-
-LIST OF ILLUSTRATIONS.
-
-
-Plate L Sketch Map of North- West-Central Queensland.
-
-Plate IT. Sign-Language (Chaftes IT.) —
-
-Fig. 1, Dingo, Dog; 2-3, Horse; 4-5, Cattle; 6-7, Rat ; 8-10, " Parcnpine" ; 11-16
-Bandicoot ; 17-20, Opossum, Ac ; 21-23, Paddymelon, Ac ; 24, Kangaroo.
-
-Plate HT. Sign-Language (continued) —
-
-fig. 25, Kangaroo; 26-29, Bird; 30, Small Hawk; 31-32, Large Eagle-hawk; 33-31,
-Pigeon; 35^7, Emo ; 38-40, Turkey bustard ; 41-43, Pelican ; 44-45, Cockatoo, Ac. ; 46, Dock.
-
-Plate IT. Sign-Language (continued) —
-
-Fig. 47, Black Grow; 48, Diver-bird, Ac; 49-50, Native Companion; 51-52, Large
-Spoonbill ; 53-55, Lizard, Iguana ; 56, Iguana ; 57-59, Snake ; 60, Water-enake ; 61, Carpetsnake; 62, Black-headed Snake; 63, Frog; 64-69, Fish, Ac.
-
-Plate T. Sign-Language (continued) —
-
-Fig. 70-72, Freeh- water Mussel ; 73-74, Any small Fly ; 75, Sand-fly ; 76-77, Mosquito ;
-78, Sand-fly; 79, Any small Fly ; 80-82, Honey, Honey-bee, Ac. ; 83-84, Caterpillar ; 85, Hairlouse; 86, Cray-fish; 87, Wild Orange ; 88-89, Tarns; 90, "Witooka"; 91, "Mungaroo";
-92, Native Flax, Ac ; 93-95, Pig-weed ; 96, Nardoo.
-
-Plate TL Sign-Language (continued) —
-
-Fig. 97-100, Seed-food, Ac ; 101, Wild Rice ; 102-104, Pituri ; 105, Water, Ac ; 106,
-River, Ac ; 107, Waterfall, Ac ; 108-109, Mountain ; 110, Adult Man, Ac ; 111, Adult
-Woman; 112-113, Mother; 114, Husband, Wife; 115-119, Woman, Ac ; 120, Baother, Sister;
-121, Child, Infant.
-
-Plate THE. Sign-Language (continued) —
-
-Fig. 122-124, Child, Ac ; 125-127, Doctor, Ac ; 128-129, Waist-belt ; 130, Necklace ;
-131, Chest Ornament; 132-133, Dilly-bag ; 134-136, Grass-necklace; 137-139, Stone Knife;
-140-141, Boomerang ; 142-144, Spear ; 145, Fighting-pole.
-
-Plate TUT. Sign-Language (continued) —
-
-Fig. 146-147, Fighting-pole, Ac ; 148-149, Stone-tomahawk ; 150-151, Shield ; 152-157,
-Koolamon,Ac ; 158-159, Net, Ac ; 160-162, Hut, Ac ; 163-166, Large Number; 167, Hither!;
-168, Thither !
-
-Plate IX. Sign Language (continued) —
-
-Fig. 169-170, Thither ! ; 171-172, Place, Direction ; 173, Sunrise, Ac ; 174, Sunset, Ac ;
-175, Interrogation; 176, Request, Demand; 177-178, Silence!; 179, Out of the Road!; 180,
-Ron!; 181-182, Stay! Ac; 183, To Cover with Earth, Ac ; 184-187, Corrobboree; 188-189,
-Fire, Ac
-
-Plate X. Sign-Language (continued) —
-
-Fig. 190-192, Fire, Ac ; 193, Sleep; 194-195, Swimming ; 196-197, To Grasp, Ac ; 198, To
-Eat; 199-200. Anger, Ac ; 201-204, Sickness, Ac ; 205-206, Forgetfulness ; 207, Yes! ; 208, No!;
-209-210, Goodness, Ac ; 211, Evil, Ac ; 212, Ghost ; 213, Water-sprite.
-
-Plate XI. The Seabch fob Food. (Chapter T.) —
-
-Fig. 214, Woman, resting her weight on the Tripod, is treading upon the crushed Stargrass in the shallow circular hole ; 215, The Rotary Motion exerted by one foot upon the other ;
-216, The Seed-food treated upon the Grindstones ; 217-218, Stages in the Preparation of the
-" Katoora" grass ; 219, Pig- weed Seed obtained by rubbing the plant between the flattened palms ;
-220, 222, Fishing in Shallow Water with small-sized flat nets ; 221, Fishing with a Long Net in deep
-water ; 223, Fishing with single small oval net ; 224, Stone Weir for trapping fish ; 225, Dam composed of women huddled close together, holding bunches of boughs, leaves, Ac, m front of them ;
-226, Diagram, showing two Emu-nets, in situ ; 227, Individual in the act of Weaving an Emu-net ;
-228, Long Alley- way, built of boughs, Ac, into and along which the emus are driven and caught by
-net ; 229, Circular Fence, with "wings" and pit-falls for trapping emus ; 230, Drop-net for catching
-flock pigeons, Ac; 231, Alley- way and Net for trapping small birds in general ; 232, Three Emunets placed in form of an enclosure, into which the kangaroos are driven.
-
-Plate XIX Domestic Implements and Utensils. Fibe-sticks and Yam-sticks,
-
-Huts and Shelters. (Chapter Tl.) —
-
-Fig. 233, Koolamon ; 234, Koolamon, carried at side of the body ; 235, Chisel ; 236,
-Operator using a chisel ; 237, Marsupial-skin Water-bag ; 238, Method of carrying Water-bag ;
-239a, B, 0, Dilly-bags ; 240, Individual making Flax-twine ; 241, Diagram of the different meshes
-met with in a dilly-bag ; 242, Upper Movable Grindstone ; 243, Nardoo-stone ; 244, Making
-Fire by twirling the fire-stick between the flattened palms ; 245, Making Fire by a sawing movement of one stick upon the other ; 245a, Yam-stick ; 246a, b, Different ways of fixing together
-the two curved saplings which form the primary supports of a hut scaffolding ; 247a, b, Bird'seye and side view of the primary and secondary supports of same ; 248, Framework of Temporary
-Bough-shed, for protection from rain, at hut entrance ; 249, Another form of Bough-shed ; 250,
-Hut covered with sheets of bark, which are being kept in position by heavy timbers ; 251, Hut
-built somewhat after the style depicted in 249.
-
-
-XVI. LIST OP ILLUSTBATIONS.
-
-Plate XIII. Personal Ornamentation and Decoration: Mural Painting, &c.
-
-(Chapter VII.)—
-
-Fig. 252, Method of using the " Crochet "-needle in making Hair-twine; 253, Tooth
-Ornament ; 254, Netted Cap ; 255, Pattern of the Mesh in same ; 256, 257, Forehead Net ;
-25S, 25 ( J, Opossum-string Fillet ; 260, Portions of Head-circlets ; 2(51, Method of cutting out a
-leather strip for a "Kulgo"; 261a, Method of wearing Handkerchief over the Head; 262,
-Knocking out of the two Upper Incisors ; 263 ? Beard tied up for flash purposes ; 264, 265,
-Double-bellied form of Reed-necklace ; 266, Single-bellied form ; 267, Endless string form,
-rolled up into a thick loop ; 268, 269, Opossum-string Necklace ; 270, Eagle-hawk Claw Chestornament ; 271, White Shell Chest-ornament ; 272a, b, Male and Female Opossum-rope Waist-
-belts ; 273, 274, Opossum-string Phallocrypt.
-
-Plate XIV. Personal Ornamentation, &c. (continued). (Chapter VII.) —
-
-Fig. 275, A Pitta-Pitta Adult Male in Holiday Costume ; 276-279, Figures Showing the
-Flash-soars ; 280, Mural Painting at the 6-Mile Waterhole, on the Old Normanton road, from
-Cloncurry ; 281a, b, and 282, Aboriginal Drawings representing respectively a Goat, a Man
-in general, and a Figure in the Molonga Corrobboree.
-
-Plate XV. Recreation : Corrobborees, Sports, and Games. (Chapter VIII.) —
-
-Figs. 283-286, Male Corrobboree Costumes of the Boulia District ; 287-288, Female Costumes
-of same ; 289-290, Male Corrobboree Costumes of the Cloncurry District ; 291, Bough-shed
-" Green-room"; 292, Individual representing a Bullock ; 293, Arrangement of Audience at a
-Corrobboree, the Males in the Front Rows.
-
-Plate XVI. Recreation, &c. (continued). (Chapter VIII.) —
-Figs. 294 to 308, Costumes of the Molonga Corrobboree.
-
-Plate XVII. Recreation, &c. (continued). (Chapter VIII.) —
-
-Fig. 309, Return-boomerang with Empirical Pattern of Emu and Emu-net ; 310, Returnboomerang, similarly, with Iguanas ; 311, Playing with the Return-boomerang ; 312, 313, Diagrams
-Showing its Flight ; 314, 315, Varieties of Toy Throwing-sticks ; 316, Whirler; 317, Method of
-Swinging it ; 318, 319, Special Forms of Whirlers Used at the Initiation Ceremonies ; 320,
-Special Form^ of Whirler Used as a Love-charm ; 321, Method of Starting the Spin -ball ; 322,
-323, 324, Various Ways of Throwing Leaves for Smoke-spirals, &c. ; 325, Mimicking an Emu.
-
-Plate XVIII. Travel, Trade, and Barter: The Letter-Stick. (Chapter IX.) —
-
-Figs. 326-332, Letter-sticks, of the Boulia District ; 333-336A, of the Leichhardt-Selwyn
-District ; 337, of the Flinders District ; 338, of the Cloncurry District.
-
-Plate XIX. Methods of Fighting. Boomerangs. (Chapter X.) —
-
-Fig. 339, Men Fighting with Stone-knives ; 340, Women Striking with Fighting-pole ;
-341, Diagram showing flight of a Hook-boomerang; 342, Various forms of finishing off the
-Extremities of an Ornate Boomerang; 343-347, Longitudinal and Interstitial Gravings on
-the Ornate Boomerangs ; 348-349B, Transverse Gravings on same ; 350, Remaining Interstitial
-Gravings on same ; 351, Boomerang, showing the bend and thin proximal (handle) as compared
-with the thick distal extremity.
-
-Plate XX. Boomerangs, Two-handed Swords, Spears. (Chapter X.) —
-
-Fig. 352, Fluted Boomerang ; 353, Hook-boomerang ; 354-358, Examples of Two-handed
-Swords; 359, Acicular-tip Hand-spear; 360-361, Spatulate-tip Hand-spears; 362-365, Wornmera-spears ; 366, Non-indigenous (Gulf Coast) Fish-spear.
-
-Plate XXI. Wommeras and Shields. (Chapter X.) —
-
-Fig. 367, 368, Lath-shaped Wommera ; 369, Showing how the " peg" is fixed with tendon
-into two drilled holes; 370, Method of using this Wommera; 371, Variety with shell haft;
-372, Leaf -shaped Wommera ; 373-375, Shields Manufactured in the Boulia and Upper Georgina
-Districts ; 376, 377, Shields Manufactured in the Cloncurry and Leichhardt-Selwyn Districts ;
-378-380, Transverse Sections across Handles of these Shields.
-
-Plate XXII. Stone-Knives, Tomahawk, &c. (Chapter X.) —
-
-Fig. 384, Fighting-pole ; 385, Nulla-nulla growing-stick ; 386, Stone-knife in its Bark
-and Opossum-string Sheath ; 387-389, Stone-knives showing the Facetted Blades ; 390, Knife
-with Handle lengthened by a piece of flat wood ; 391, Stone-tomahawk.
-
-Plate XXIII. Disease, Accident, Death, &c, Rain-making. (Chapters XI. and
-
-XII.)—
-
-Fig. 392, The Death-bone, Bone-apparatus, &c; 393-395, Different Ways of Applying it;
-396, The Pearl-plate; 397, 398, Methods of Applying the Plate; 399, The Bone-pin; 400, 401,
-Method of Blinding an Individual at a Distance ; 402a, b, Positions in which the Arm is held
-during Venaesection ; 403, Emu-feather Bundle for Alleviating Pain, &c. ; 404, Amulet hung on
-the Chest to Relieve Sickness, &c. ; 405, Ground-burial with Superimposed Logs, &c. ; 406,
-Example of Tree-burial ; 407, Mourning-patterns of Red and Yellow Ochre ; 408a, The Rain-
-Btone ; 408b, A Rain-maker.
-
-Plate XXIV. Ethno-Pornography. (Chapter XIII.) —
-
-Fig. 409-415, Costumes, &c, of the First Male Initiation Ceremony in the Boulia District ;
-416, 417, Relating to Similar Rite on the Upper Georgina; 418-420, in the Cloncurry District;
-421, Female Costume at First Initiation Ceremony in Boulia District; 422, 423, Relating to
-Similar First Female Ceremonial on the Upper Georgina; 424, Stick used at Birdsville at
-Similar Rite ; 425-428, Costumes at Second Ceremonial in Boulia District ; 429, An Introcised
-Penis ; 430, Position in which Adult is held during Introcision ; 431, 432, Methods of making
-the Cut for Introcision; 433, Copulation; 434, 435, Kalkadoon Woman in Labour; 436-438,
-Different ways of Carrying Infants.
-
-
 ETHNOLOGICAL STUDIES
 
 
@@ -1486,7 +676,6 @@ transitive verb, can be translated by the transitive verbal pronouns (sect. 18).
 
 9. The Indefinite Articles "a" and "the" are not Translated.
 
-Example 1.
 1. Nunkartinari. 2. Ingoena. 3. Ningienyanaka [toka-ka nutto]. 4.
 Nungonou [pun-ni-a noo-a]. 5. Poolakoari [pite nunyo]. 6. Inna [pite-a nutto].
 7. Poolanganaka. 8. Nulliena. 9. Nooraenyana [toka-ka nutto]. 10. Poolaenoka
@@ -1506,7 +695,6 @@ For the advantage of these two-people at-the-back-of-me. 8. Close beside us two.
 9. [I brought (it)] from all of you. 10. [He is running] towards the couple at
 the back.
 
-Example 2.
 
 1. Nunkou [pite nunyo]. 2. Noolana [pite-ka nutto]. 3. Tunanari [pi-pi-a
 nutto]. 4. Ingkatina. 5. Nunyoena [nung-ki-a tun-a]. 6. Ingienyana [toka-ka
@@ -1520,7 +708,6 @@ Translation,
 alongside me. 6. [I brought (it)] from thee. 7. [I will run] to those-folksyonder. 8. [I saw" that-woman-over-there. 9. [I will strike] both of you. 10.
 To the advantage of this fellow-close-in-frout-of-me.
 
-Example 3.
 
 ]. Noolaena. 2. Foolaenyanari [toka-ka nutto]. 3. Nunyouno [pun-ni-a
 noo-a]. 4. Nokoka [pipa nunyo]. 5. Nooie. 6. Foolie. 7. Tunanganaka. 8.
@@ -1620,7 +807,6 @@ nunkatiko-eno = towards the hut, &c, belonging-to-the-woman-at-the
 back-of-me.
 nooranga-enya = from the direction of your camp, &c.
 
-Example 4.
 
 1. Bibapooro ingkati. 2. Berdaje nunkatiye. 3. Poolangaka-ena. 4
 Nunkatika-ena. 5. Kokooro noolanga. 6. Tunangari-eno. 7. Makowati
@@ -1631,10 +817,8 @@ Translation.
 
 1. Thy boomerang. 2. This woman's dilly-bag. 3. At their [dual] place
 4. At this woman's camp. 5. The yam-stick belonging to you two. 6. Towardi
-the hut, &c, belonging-to-tbose-people. 7. The spear belonging-to-this-man-closeup-in-front. 8. Yonder-woman's net. 9. [He is running] from the direction-of-
-our- place. 10. The dog belonging- to- the-man-at-the-back-of -me.
+the hut, &c, belonging-to-tbose-people. 7. The spear belonging-to-this-man-closeup-in-front. 8. Yonder-woman's net. 9. [He is running] from the direction-ofour- place. 10. The dog belonging- to- the-man-at-the-back-of -me.
 
-Example 5.
 
 1. Titi mulla. 2. "Wungata nunyati-ena. 3. Koopa-koopa ingkati-ena. 4,
 Koonpara nokatiari. 5. Poolangaye-ena. 6. Bibapooro pool an sari. 7. Kooroui
@@ -1646,7 +830,6 @@ Translation.
 at-your-camp. 4. The shield belonging-to-that-man-yonder. 5. At the camp ofthose-two-men-in-front. 6. The boomerang belonging-to-that-couple-yonder. 7.
 A hut belonging-to-you-both. 8. My fire-wood. 9. The pituri belonging tothis-woman-here-beside-me. 10. (There is) firewood at-thy-place.
 
-Example 6.
 
 1. [Oota-na] ingkati-eno. 2. [Punna-na] nunkatika-enya. 3. Pokara
 nooran'ga-ena. 4. Untitiri nokatiye. 5. Berdaje null in ga. 6. Kootakapo
@@ -1776,8 +959,6 @@ old-woman's child,
 female eajrle-hawk.
 
 
-Example 7.
-
 1. TJpperi-nga mali. 2. Kooridala wapa. 3. Moyerjo-nga uttapeukka-wara.
 4. Munguni-maro-nga nopo-wara. 5. Piouli wapa. 6. Xoopa-koopa-nga kakowara» 7. Moyerjo-nga titi-wara. 8. Upperi mulla. 9. Jummi-pityiri nullinga.
 10. Uttapeukka-pityiri.
@@ -1790,7 +971,6 @@ child. 4. The doctor's wife. 5. A dog's puppy. 6. The old-man's sister.
 7. The old-woman's brother. 8. Tour father. 9. Our aunts. 10. (My)
 children.
 
-Example 8.
 1. Ullo-wara. 2. Koopa-koopa-nga uttapeukka-pityiri-wara. 3. Moyerjonga uttapeukka-wara-ngo berdaje. 4. TJllo-mulla-nga bibapooro. 5. Titi-wara-nga
 uttapeukka-wara. 6. Kenja kooridala. 7. Upperi-mulla-nga makowata-pityiri.
 
@@ -1804,7 +984,6 @@ Translation.
 7. Thy father's spears. 8. His mother's dilly-bag. 9. Their
 sisters. 10* Our sister's hut.
 
-Example 9.
 
 1. Titi-wara-nga koonpara. 2. Konupa jummi-mulla-nga. 3. Kenja machoomba wapa. 4. Munguni-maro-nga kako-pityiri-wara. 5. Kako-wara-nga
 uttapeukka-pityiri-wara. 6. jNopo-mulla-nga titi-wara. 7. Umma-wara-nga
@@ -2101,10 +1280,8 @@ understood (sect. 8).
 In ordinary conversation, verbal pronouns are placed immediately after the
 verbs they qualify, and generally at the very end of the sentence.
 
-Example 10.
 
-1. Moyerjo-nga uttapeukka-wara-lo koondara-na tiche-ka. 2. Mungunimaro-nga nopo-wara-ngo koopa-koopa-nga-ko kako-wara-ko pite. 3. Jummi-
-pityiri-noolanga-lo upperi-nga mali-na mare- k a. 4. Koopa-koopa-nga uttapeukkapityiri-wnra-lo berdaje-na umma-wara-nga mare-ka. 5. Ullo-wara-lo kenja-na
+1. Moyerjo-nga uttapeukka-wara-lo koondara-na tiche-ka. 2. Mungunimaro-nga nopo-wara-ngo koopa-koopa-nga-ko kako-wara-ko pite. 3. Jummipityiri-noolanga-lo upperi-nga mali-na mare- k a. 4. Koopa-koopa-nga uttapeukkapityiri-wnra-lo berdaje-na umma-wara-nga mare-ka. 5. Ullo-wara-lo kenja-na
 kooridala-na tiche-ka. 6. Upperi-nullinga-lo bibapooro-na ullo-mulla-nga marea.
 7. Titi-wara-ngauttapeukka-wara-ngo nungka. 8. Umma-wara-nga kako-pityiriwara-lo tichea. 9. Upperi-nga titi-wara-lo umma-mulla-na tarea. 10. Kenja-lo
 machoornba-lo wapa-lo pokara-na tichea.
@@ -2120,7 +1297,6 @@ kicking thy mother. 10. The female-kangaroo's pup is eating the grass.
 
 ABOBIGLffALS : AN ELEMENTARY GBAMMAB.
 
-Example 11.
 1. Munguni-maro-nga kako-wara-lo munta-na mare-ka. 2. Upperi-wara-i
 makowata-ngo machoomba-ko wapa-ko touela. 3. Umma-nullinga-lo wungata
 pite-ka. 4. Kako-wara-lo berdaje-pityiri-na tarea. 5. Kooridala wapa [pii
@@ -2138,7 +1314,6 @@ The old-man's brother brought my father's shield. 7. (My) uncle will drink t
 water. 8. The doctor's sisters will grind the pappa-seed. 9. (My) father
 beating your brother. 10. The old-man's wife will not strike thy children.
 
-Example 12.
 
 1. Koolpari wapa-pityiri [punna-raia]. 2. Upperi-lo kako-pakoola-mullakite-ka. 3. Kako-mulla-ngo titi-ko kite. 4. Moyerjo-nga uttapeukka-pityi
 wara nungkia. 5. Titi-wara-lo munta-ingkati-na tiche-ka. 6. Kako-ngo poo
@@ -2222,7 +1397,6 @@ prepositional term denoting, from direction, neighbourhood, of-a-placo (sect. 22
 
 The use of adjectives as adverbs has already been referred to.
 
-Example 13.
 
 1. Koopa-koopa-nga titi-wara-ko marali pipa nunyo. 2. Mierli-ngo wungatapakoola-ngo berdaje-pityiri-ko tare. 3. Kanari-pakoola-lo pappa-na wire-ka.
 4. Upperi-lo uttapeukka-pityiri-na pitea. 5. Wungata-pakoola-na kite-ka nutto.
@@ -2239,10 +1413,8 @@ all the grass. 7. A big emu is drinking the clear water. 8. (My) children will
 sit down. 9. I will beat the bad women. 10. The short-fellow will fetch the
 long swords.
 
-Example 14.
 
-1. Papatooro bibapooro [tikkara-ena] malooaka-munda punnia. 2. Wungatalo kooyungo-ua berdaje-pityiri-na mare-ka. 3. Umma-lo mie-mie-na kutta-
-mulla-na timia. 4. Makowata-ngo kenja-ko machoomba-ko touela. 5. Koopakoopa-nga kako-wara prinua-na [tunpa-mulle-ka]. ti. Koondungari-pityiri-na
+1. Papatooro bibapooro [tikkara-ena] malooaka-munda punnia. 2. Wungatalo kooyungo-ua berdaje-pityiri-na mare-ka. 3. Umma-lo mie-mie-na kuttamulla-na timia. 4. Makowata-ngo kenja-ko machoomba-ko touela. 5. Koopakoopa-nga kako-wara prinua-na [tunpa-mulle-ka]. ti. Koondungari-pityiri-na
 tichea nunalo. 7. Mierli-ko munta-ko mare poolangoka. 8. Munna-lo kanapityiri-lo kooyungo-na bibapooro-pityiri-na tare-ka. 9. Berdaje-pityiri-na tarea
 poolaka. 10. Mie-mie-na kuttamulla-na tima-ka nullilo.
 
@@ -2255,7 +1427,6 @@ spear will hit the female kangaroo. 5. The old-man's sister [cut] (her) leg.
 men were making good boomerangs. 9. Both are weaving dilly-bags. 10. We
 were both drinking the muddy water.
 
-Example 15.
 
 1. Tie-na takoko-na tarea nindo. 2. Wallara machoomba punnia. 3.
 Parawanga-lo munguni-maro-lo [punjea-ngooro-na] pokara-na wooojea. 4. Pulyengooro-lo pari-na munta-na tichea. 5. Yarimungkora-lo wungata-pityiri-lo
@@ -2352,12 +1523,10 @@ double use of the third personal pronoun dual (sect. 18a) —
 kana poola wungata poola kundia = the man and the woman go away
 together, in company.]
 
-Example 16.
 1. Marali kooroui-eno kunda nunango. 2. Munna-ngo kana-pityiri-ngo
 tikkara-eno mullo kunda. 3. Munguni-maro-lo makowata-na koolpari-eno toueiaka.
 4. Bibapooro-na machoomba-eno touea nutto. 5. Poolaka punnia oora-enya.
-6. Kanari-pityiri-ngo umma-pityiri-wara-enya oota. 7. Munna-enyaugo kanapityiri-enyango kunda noolango. 8. Teriwa-munda punna-ka nooaka. 9. Perkilli-
-ko miriwinni-ko kunda noorango: nari, parapi-ko. 10. Machoomba-nga kurri
+6. Kanari-pityiri-ngo umma-pityiri-wara-enya oota. 7. Munna-enyaugo kanapityiri-enyango kunda noolango. 8. Teriwa-munda punna-ka nooaka. 9. Perkilliko miriwinni-ko kunda noorango: nari, parapi-ko. 10. Machoomba-nga kurri
 kunda nunango.
 
 
@@ -2373,7 +1542,6 @@ neighbourhood of bad men. 8. This man was running from the direction of the
 east. 9. You all will go over a big mountain ; ah»o, across a creek. 10. We will
 all go a-hunting (i.e., after) kangaroos to-day.
 
-Example 17.
 1. Teriwa-eno pari-pari-nga kunda nunyo. 2. Moyerjo oota-ka perkilli-maro
 piouli-pityiri-maro. 3. Titi punna-ka koodijakorea kooroui-na. 4. Piouli-maro
 bibapooro-maro [nopo-ena] noooka nungkia. 5. Yuppicri-pityiri-ngo parimarongo munta-inarongo inarali oota. 6. Tunangari-eno tunari-marongo kunda
@@ -2569,7 +1737,6 @@ is dizzy) through the effects of pituri (i.e., drunk with pituri).
 munta-la poolki-kunnia nun] a = I am become full-up from the effects
 of food (i.e., I have had enough food).
 
-Example 18.
 
 1. Piouli wapa moolka-ena nungkia. 2. Merichi-pityiri moorra-pityiri-ena
 echea. 3. Merkoo prinna-pakoola-lo koontnia punnia. 4. Me-pakoola lo koonmia
@@ -2588,10 +1755,8 @@ between the two eyes. 5. The bad man will sit down between the women.
 8. Tou are climbing up along the tall tree-trunk. 9. Both kangaroos ran
 alongside the creek. 10. The eagle-hawk is flying (i.e., running) through the sky.
 
-Example 19.
 
-1. Perkilli-na berdaje-na kako-lo titi-na woonjea. 2. Upperi-ngo uttapeukkako bibapooro-ko woonje. 3. Koonpara-lo kereprete tarembola-na. 4. Wungata-
-enyako munta-ko indamulle nunyo. 5. Pinkipoora-na munta-na : nunyatina:
+1. Perkilli-na berdaje-na kako-lo titi-na woonjea. 2. Upperi-ngo uttapeukkako bibapooro-ko woonje. 3. Koonpara-lo kereprete tarembola-na. 4. Wungataenyako munta-ko indamulle nunyo. 5. Pinkipoora-na munta-na : nunyatina:
 nunkatinie. 6. Kana-ngo pulye-ngo munta-la poolki-kunna. 7. Koopa-koopango koolpari-ko mali-nga kache. 8. Moyerjo-lo wakerdi-na miriwinni-lo touea.
 
 9. Kooyungo-na bibapooro-pityiri-na kako-lo nunya woonje-ka. 10. Tie merichipityiri perkilli-ena moorra-pityiri-ena echea.
@@ -2635,7 +1800,6 @@ c. Time after or since, with a past verb = -(?/&-ya (sect. 426) —
 nunya tare-ka-enya machooraba-lo, nungka-ka nunja = after or since
 the kangaroo kicked me, I sat down.
 
-Example 20.
 
 1. Pakoolangooro-ena wolka-ena oota-ka nuna. 2. Pakoolangooro-eno
 wolka-eno oota nunyo. 3. [Wolka-wunjea-eno] pooriti-ngo katiwire nunango.
@@ -2681,7 +1845,6 @@ a boomerang : and a spear too.
 [wara pulye-yetcha ? ] kana kati wungata? = [who (is) the fatter?]
 the man or the woman ?
 
-Example 21.
 1. Woonje-na wungata-na berdaje-na : tarembola-mutto-na. 2. Tarimungkora wungata kokooro-maro punnia. 3. Kana ootia oora-eno : nopo-mutto. 4.
 Koopa-koopa-pityiri-ngo bibapooi o-pityiri-ko mare : makowata-pityiri-mutto-ko.
 5. Kako-lo koondara-na tichea: titi-rautto-lo. 6. Bibapooro-pakooiangooro-maro
@@ -2840,7 +2003,6 @@ malooaka-munda-yetcha punnia nunja, kunjo-munda-yetcha nooaka
 punnia = I run more swiftly than he does. (Literally, = I run
 more swiftly : he run9 more slowly.)
 
-Example 22.
 
 1. Makowata-pakoola nullinga yunuua. 2. Bibapooro nunyati mie-mierliyetcha ingkati mullo-ngooro. 3. Piouli machoomba : poola illapakoola malooaka
 punnia. 4. Kana tinnapulli : poola illapakoola kunjo-munda prinnapoortea.
@@ -2859,7 +2021,6 @@ as my sword. 7. This man is fatter than a dog. 8. That fellow is more thirsty
 than the girl. 9. There are fewer people here than there. 10. A shield is
 broader than a boomerang.
 
-Example 23.
 1. Kooliungo nuno-kunnia-yetcha kenja mullo-ngooro. 2. Wallara-yetcha
 nunja: mullo-ngooro impa, 3. [Wara pulye-yetcha?] Kana kati wungata?
 
@@ -2881,7 +2042,6 @@ wife. 7. These mountains (are) the highest. 8. That hill (is) very big. 9. This
 woman-here was running very quickly. 10. The old-man (is) the smallest among
 the lot.
 
-Example 24.
 
 1. Pijerdo malooaka-nari-yetcha pia-ena. 2. Untitiri-ko tuari-nari-yetcha-ko
 mare nunyo. 3. Berdaje-maro tic-yetcha-maro oota-ka impa. 4. Titi-mulla-lo
@@ -2907,7 +2067,6 @@ tiche-linga = to eat ;
 
 and is often used to denote purpose or design.
 
-Example 25.
 
 1. Upperi-ngo uttapeukka-ko mierli-korelinga pite. 2. Oora-ena Pitta-
 Pitta-na parari-kunna-linga nungkia nunja. 3. Wungata-lo nopo-na yunka-ka
@@ -2969,11 +2128,9 @@ like to go.
 tiche-mulla nutto, vel tiche- mulla-tulla nutto = I would like to eat, I
 would eat.
 
-Example 26.
 
 1. Kako-mul la-en o kooroui-eno kunda-mulla-tulla noongoka. 2. Koolpariko marali tiche-munna-nunango. 3. Wolka-pakoola-eno oota-linga weri nunja.
-4. Munna-ko wungata-pityiri-ko pite-linga nari nutto. 5. Munna-enyango kanapityiri-enyaugo punna-linga nulli. 6. Nungka-mulla nunja ingkati-ena. 7. Wolka-
-pakoolangooro-eno oota-linga nari impa. 8. Koolpari-nga kurri kunda-mullatulla tunangoka. 9. Mali-maro-ngo oota-linga weri nooaka. 10. Papatooro-ngo
+4. Munna-ko wungata-pityiri-ko pite-linga nari nutto. 5. Munna-enyango kanapityiri-enyaugo punna-linga nulli. 6. Nungka-mulla nunja ingkati-ena. 7. Wolkapakoolangooro-eno oota-linga nari impa. 8. Koolpari-nga kurri kunda-mullatulla tunangoka. 9. Mali-maro-ngo oota-linga weri nooaka. 10. Papatooro-ngo
 kana-ngo tuari-ngooro-ko munna pite.
 
 Translation.
@@ -3198,7 +2355,6 @@ nungka-re-ka nutto = I sat down with-special-attention to somebody,
 
 &c. — i.e., I attended to, looked after, took care of, &c.
 
-Example 27.
 
 1. Kunda-napala ! mullo oota-tala. 2. Perkilli-na koolpari-na tiche-likara.
 3. Oota-ta ! munguni-maro ! tiche-ta ! 4. Tunka-na pooriti-na tapo kunoalinga. 5. Woonje-woonje-ta Pitta- Pitta-na yunka-linga: parari kunna-linga
@@ -3220,7 +2376,6 @@ Teach me to speak Pitta- Pitta: I will learn. C. Give us this day food to eat.
 rest in mother's hut. 9. Do not allow the boy to climb the big tree-trunk. 10.
 Do not let them fight : bring the spears up here !
 
-Example 28.
 
 1. Pooriti munguni-maro-pityiri pite-raulie-ka. 2. Kulli-na wolka-pakoola-ena poonda-mulle-ka nunja. 3. Marali toota-ngo oonda-mulle noongoka
 4. Makowata-na bibapooro-nga pulki-woonje-mullea nulli. 5. Wolkawirea-eno pretipa-mulle poolangoka. (). Miriwinni-lo pite-mulle-ka nooaka. 7.
@@ -3237,7 +2392,6 @@ You will meet him at-the-two-rivers (i.e., where the rivers meet). 8. They were
 all chattering together in that woman's hut. 9. The old man and the old woman
 will be hitting each other with boomerangs. 10. 1 might break my leg.
 
-Example 29.
 
 1. Moyerjo-nga uttapeukka-pityiri-wara kulla-ena uta-mia. 2. Machoomba
 wapa-pityiri pokara-ena punna-ma-ka. 3. Kana tiche-le-ka : wungatu tima-le-ka.
@@ -3320,12 +2474,10 @@ minna-na marea nindo ? = what are you bringing ?
 minna-la ? = (thro ugh- the-effects-of what ? i.e.) why ?
 minna-mundi ? = (what much ? i.e.) how much ? how many ?
 
-Example 30.
 
 1. Nopo, koopa-koopa-nga kako, kundia. 2. Pipia nutto kooroui-na ingo
 mooche-linga-na. 3. Woonjeta bibapooro-na nindo toka-ka-na. 4. Tincha-ka
-nindo moolka-na yuppieri-lo yate-ka-na. 5. Pite nunyo piouli-ko ingo-woonjelinga-ko uopo-ko. 6. Pipa-ka nullilo wungata-na ingo woonje-linga-na berdaje-
-ko. 7. Kana-lo tichea pari-na munta-na poolki-kunnia. 8. Amachiella-ngoorongo pari-ko tiche. 9. Moyerjo-ngo pooti-ko tineha. 10. Munguni-maro, titi-
+nindo moolka-na yuppieri-lo yate-ka-na. 5. Pite nunyo piouli-ko ingo-woonjelinga-ko uopo-ko. 6. Pipa-ka nullilo wungata-na ingo woonje-linga-na berdajeko. 7. Kana-lo tichea pari-na munta-na poolki-kunnia. 8. Amachiella-ngoorongo pari-ko tiche. 9. Moyerjo-ngo pooti-ko tineha. 10. Munguni-maro, titi-
 mulia, nungkia nunkatiye-ena.
 
 Translation.
@@ -3337,7 +2489,6 @@ which you intend-giving-to your wife. 6. We both saw the woman whom you will
 give the dilly-bag to. 7. The man who eats too much food will be full-up.
 8. A fellow who is hungry will eat plenty. 9. The old-woman will cut the firewood. 10. The doctor, your brother, is sitting-down at-her-place.
 
-Example 31.
 
 1. Mierli impa mullo eche-le. 2, Ooranga-ko bibapooro-pityiri-ko punnare
 nunyo. 3. Makowata-ko ingkati-ko poonda noongoka : ingko ooroo-ko woonje
@@ -3360,7 +2511,6 @@ which you will eat. 8. The old man, whose spears you brought, is sitting-down
 at-my-place. 9. He yonder will strike the man whose child is crying. 10. I will
 eat the opossum whose young are running- about.
 
-Example 32.
 
 1. "Wara-lo woonje-ka inna bibapooro-na ? 2. Wara wungata takoko-maro ?
 3. Wara-eno kundia impa ? 4. Wara-ngo uttapeukka ? mulla. 5. Wara-ena
@@ -3441,11 +2591,9 @@ p£-ri-pa = big, large (cf. pari- pari).
 per-\i\A\ = large, immense, big, in size and extent (sect. 43A).
 tu-(2-ri = big in length, long.
 
-Example 33.
 
 1. Tie-maro tarembola-maro nunaka. 2. Pari-maro-ngo inunia-maro-ngo
-koopa-koopa-ngo. 3. Woonje-na nunnari pari-na. 4. Mungkora-maro tarembolamaro nunja. 5. Mungkora-ko kope-ko mali-ngo kache nunyo. 6. Pari-pari-
-maro-ngo oota tunangoka. 7. Pooriti-ngo kana-ngo kulla-pakoola-eno kunda.
+koopa-koopa-ngo. 3. Woonje-na nunnari pari-na. 4. Mungkora-maro tarembolamaro nunja. 5. Mungkora-ko kope-ko mali-ngo kache nunyo. 6. Pari-parimaro-ngo oota tunangoka. 7. Pooriti-ngo kana-ngo kulla-pakoola-eno kunda.
 8. Wungata-pityiri pooriti Boolyo-munda ootia. 9. Koopa-koopa oora-eno ootaka : wungata mutto. 10. Yuppieri-lo tichea : wungata mutto-lo.
 
 Translation.
@@ -3458,12 +2606,10 @@ the two-rivers). 8. The whole lot of women are returning from the direction of
 Boulia. 9. The old-man returned to camp : and so did the woman. 10. The boy
 is eating — and the girl too.
 
-Example 34.
 
 1. Kana-ngo bibapooro-ko mare : makowala-mutto-ko. 2. Munguni-maro —
 pakoolangooro lie nungkia. 3. Minna-mundi makowata-pityiri ingkati ? 4.
-Minna-mungkora uttapeukka ? 5. Yunka-na lieha minna-mundi-na tarembolaingkati-na. (5. Minna-mungkora-na kope-pityiri-na mare-ka nindo? 7. Kache-
-ka noolooa nundata-na kope-pityiri-na : kache-ka nutto mtmgkora-na. 8.
+Minna-mungkora uttapeukka ? 5. Yunka-na lieha minna-mundi-na tarembolaingkati-na. (5. Minna-mungkora-na kope-pityiri-na mare-ka nindo? 7. Kacheka noolooa nundata-na kope-pityiri-na : kache-ka nutto mtmgkora-na. 8.
 Koondungari-pityiri tie: nari nundata. 9. Wungata-pityiri tillimurri-ena lie
 nungkia. 10. Koolpari-pityiri perkilli : nari pari.
 
@@ -3617,7 +2763,6 @@ ko ! e-a, ! = yes !
 
 mill-Id ! = no !
 
-Example *35.
 
 1. Mierli mara nooaka. 2. Kulli-kulli mierli munna nunaka. 3. Kullikulli kunda-ka nooa. 4. Machoomba mara utia. 5. Piouli-ko munta-ko woonje
 nari nunyo? 6. Tukka-nari kati nungka-nari nunango. 7. Minnali wungatapityiri nungkia ? 8. Oora-eno ingkati-ngako punna-nari nunyo ? 9. Tunaelalie
@@ -3633,7 +2778,6 @@ sitting-down ? 8. Shall I run up to the camp for you (i.e., for your advantage,
 to save you trouble, &c.) ? 9. The sun rises daily. 10. Will you return later
 on ? Certainly I
 
-Example 36.
 
 1. Tima-linga ingo ungkala : tiche-linga ingo akoona. 2. Berdaje-na woonjena nunya ungkala : kunda-na akoona. 3. Oora-enya kunda nunyo ungkala :
 kunda noongoka akoona. 4. Inta-enyana bibapooro-na toka-ka nindo. 5. Minnaena nungkia kokola ? mie-ena. 6. Intalimme kundia impa ? 7. Wara-nga -ena
@@ -3686,7 +2830,6 @@ eaten, having eaten, I will, &c.
 [Tt will thus bo seen in the following examples how various are the English
 methods by which these perfects and participles may be translated.]
 
-Example 37.
 1. Kulli-na poondomulle-ka-enya kanari oora-eno punna-ka. 2. Tiche-kaenya nindo poolki-kunna-ka impa. 3. Inna pite-ka-enya nutto, nieri-nieri kunna-ka
 impa. 4. Twinje-ka nunja, nunya tare-ka-enya nindo. 5. Koopa-koopa prinnana poondo-mulle-ka-enya nungka-ka. 6. Murra-na koore-ka-enya wungata
 nunyouno oota-ka. 7. IJta-ka-enya-ngo (nunyo) toota-ngo oonda-mulle nunyo.
@@ -3706,13 +2849,11 @@ grease myself with fat. 8. Look-after (my) child wheu I am (shall have) gone.
 9. While swimming, the old woman cut (her) foot with a stone. 10. That
 fellow yonder broke bis leg when running.
 
-Example 38.
 
 1. Tinnapulli-nga-ena kulli-na poondamulle-ka nunja. 2. Kunda-na upperilo yunkaka-enya. 3. Tarembola oota-ka-ko nunjo-ko oora-eno woonje-nari
 ingo ? 4. Umma-lo yunka-ka-enya nungka nullingo. 5. Yunka-ka-enya-ngo
 noongoka kunda ingo. 6. Mierli-lo umma-lo yunka-ka-ko tiche noongoka. 7.
-Ooro-wolka-ena munta-na yappieri-na oota-ka-na woonje-ka nutto. 8. Tiche-kaenya punna-ka nooa. 9. Pite-ka-enya wungi-lo yuppieri twinjea. 10. Nung-
-ka-na ! kunda-napa ! nuno-kunnia nunja.
+Ooro-wolka-ena munta-na yappieri-na oota-ka-na woonje-ka nutto. 8. Tiche-kaenya punna-ka nooa. 9. Pite-ka-enya wungi-lo yuppieri twinjea. 10. Nungka-na ! kunda-napa ! nuno-kunnia nunja.
 
 Translation.
 1. While after opossums, I broke my arm. 2. Go where you father told
@@ -5443,8 +4584,7 @@ CHAPTER III.
 SOCIAL AND INDIVIDUAL NOMENCLATURE : CLASS SYSTEMS, &c.
 
 Contents.— Section 59. Introductory. 60. Patronym. 61. Gamomatronym. 62. Paedomatronym. 63. Heteronym. 64. Geneanym. 65. Genealogical Tree in the Pitta-Pitta Language.
-66. Aboriginal and Euroi)ean Relationship-Equivalents. 67. Autonym. 68. Climanym. 69 Summary of Nomenclature. 70. Similar Systems in other portions of Queensland. 71. Probable Inter-
-pretation of the Class-Systems.
+66. Aboriginal and Euroi)ean Relationship-Equivalents. 67. Autonym. 68. Climanym. 69 Summary of Nomenclature. 70. Similar Systems in other portions of Queensland. 71. Probable Interpretation of the Class-Systems.
 
 59. Introductory. — The complex nature of this subject, and the difficulty
 usuaUy encountered in rendering it intelligible, will be my excuse for offering such
@@ -5512,8 +4652,7 @@ of country which has been described in sects. 2 and 45 as the Boulia District.]
 An Ootaroo can only marry a Pakoota, or vice versd — that is to say, these
 two groups are exogamous ; but the offspring follows the mother always. Thus,
 no matter its sex, the child of an Ootaroo mother becomes an Ootaroo, while that
-of a Pakoota mother becomes a Pakoota. This double signification of marriageable-ness and of blood-mother-ship is intended to be expressed in the term — gamo-
-matronym— now applied.
+of a Pakoota mother becomes a Pakoota. This double signification of marriageable-ness and of blood-mother-ship is intended to be expressed in the term — gamomatronym— now applied.
 
 62. The Paedo-matro-nym : the name particularising the blood-mother from
 her offspring. Every Ootaroo is either a .Zoo-poo-roo or a Wbonq-ko, while
@@ -7822,7 +6961,6 @@ upon its slender toes (Fig. 23). A similar idea — the " hop " — is put into 
 in Fig. 24 referring to the ordinary large kangaroo, also represented in Fig. 25 by
 the pricking up of its big ears when on the alert.
 
-74. Notes to Illustrations.
 
 Fig. 1. Dingo, Dog. — Finger-tips all touching top of thumb : flexion at
 wrist. Finger-tips represent the toe-pads. Among the Pitta- Pitta this sign
@@ -7971,8 +7109,6 @@ head in the case of the native-companion and the lateral movement in that of the
 spoon-bill is very striking.
 
 
-76. Notes to Illustrations.
-
 Fig. 26. Bird: in general. — Movement from elbow: to represent the beating,
 flapping, of the wings. P.P., Bo., Ula., (Und.), (Kal.), (Mit.).
 
@@ -8104,7 +7240,6 @@ the thumb, raised from within the centre of its coils. The fact of drawing atten
 Fig. 62. In the ideagram for a frog (Fig. 63), the " jump,"coupled with the
 outstretched fingers (its toes), is unmistakeable.
 
-78. Notes to Illustrations.
 
 Fig. 53. Lizards, Iguanas : any small species. — Oscillatory motion at wrist —
 rapidity of animal's movements. P.P., Bo., Ula., Won., Wal., Und., (Kal.).
@@ -8176,7 +7311,6 @@ the idea being sometimes completed by the other hand — the fish itself — hel
 below : the other exception is Fig. 69, where the method of capture, &c. (sect.
 129), is referred to.
 
-80. Notes to Illustrations.
 
 Fig. 64. Fish. — The shapo of the hand, with finger-tips touching top of
 palm, represents the tail. The usual movement as just described. P.P., Bo., Ula.
@@ -8212,7 +7346,6 @@ along the mud. In Fig. 71 each hand represents a shell, the " hinge" being at
 the thumb?. In Fig. 72 each finger is a shell working on an imaginary hinge
 extending from the thumb-tip to the fork between the fore and middle fingers.
 
-82. Notes to Illustrations.
 
 Fig. 70. Fresh-water mussel. — Forefinger tucked under middle finger, ring
 and little finger flexed into the palm : position of thumb immaterial. Slow outand-in rotatory motion at wrist, to imitate the "rocking" of the animal. P.P.,
@@ -8250,7 +7383,6 @@ the animal in statu quo, the latter in the act of being devoured. Idea-gram Fig.
 not unknown among more civilised peoples. A cray-fish is indicated by the claws
 opening and shutting in Fig. 86.
 
-84. Notes to Illustrations.
 
 Fig. 73. Any small (house) fly. — The tip of the forefinger serves to indicate the
 small circles which the insect flies in. (P.P.), Bo., (Kal.).
@@ -8328,7 +7460,6 @@ Fig. 101. " Pituri" is represented not only during the process of mixing previou
 to chewing in Figs. 102, 103, but also in its completed stage when, as a small roll,
 it is kept in position behind and above the pinna of the ear in Fig. 104.
 
-86. Notes to Illustrations.
 
 Fig. 87. Wild Ora nge.— The marked odour of the fruit is represented by the
 nostrils in the act of ki sniffing"; this is the complete ideagram among the Pitta-
@@ -8425,7 +7556,6 @@ corresponding movements to denote the convexity of a hill or mountain in Kgs
 108, 109, being all that have been met with. (The rising and setting sun, &c,
 will be dealt with under the ideagrams relating to Time, in sect. 97).
 
-88. Notes to Illustrations.
 
 Kg. 105. Water : to drink, Sfc. — This ideagram shows the manner in which
 the aboriginal laps up the water, handful by handful. P.P., Bo., Ula., Und.,
@@ -8474,7 +7604,6 @@ evil after it is believed to have been maliciously inserted into the victinVs bo
 (sect. 263) ; while Fig. 127 is emblematical of his cutting a person's throat, the
 one hand -holding the neck in position, while the other is doing the damage.
 
-90. Notes to Illustrations.
 
 Fig. 110. Adult man : a father. — The chin, or beard if present, is held in the
 closed hand while a slight rotatory movement backwards and forwards is exerted
@@ -8611,7 +7740,6 @@ while the framework generally is indicated in Pig. 162.
 
 84 THE EXPRESSION OF IDEAS BY MANUAL SIGNS : A SIGN LANGUAGE.
 
-92. Notes to Illustrations.
 
 Fig. 128. Waist belt. — Tho two hands are in the act of winding the hairtwine (sect. 183) round the ^vaist. P.P., Bo., Ula., Und., (Kal.), Mit., Woo.,
 Ooa.
@@ -8774,7 +7902,6 @@ open hands are made to circle one around the other, giving rise to the idea of a
 whole lot running up, being jumbled up, together, the idea of number in a
 collective sense.
 
-94. Notes to Illustrations.
 
 Pig. 163. Large number : a lot. — The two hands with palms held up towards
 the signaller's face — the idea of all the digits, the whole lot of them. P.P., Bo.,
@@ -8799,7 +7926,6 @@ here" in Pig. 167, the waving of a " go away" in Pigs. 168, 169, 170, or a
 propinquity by means of the thumb or forefinger in Pig. 172. Direction is also
 indicated by a pronounced pouting of the lips towards the required quarter.
 
-96. Notes to Illustrations.
 
 Pig. 167. Hither ! — The idea of beckoning with the forefinger. P.P., Bo.,
 Ula., Won., Wal., Und., Kal., Mit.
@@ -8841,7 +7967,6 @@ notions — sunrise, to-morrow, Ac, on the one hand; and sunset, evening, nightt
 a slower movement; and thus moonrise, a month, &c, and similar expressions of
 thought signalled.
 
-98. Notes to Illustrations.
 
 Fig. 173. Sunrise, a day : moonrise, a month, Sfc. — The outstretched and
 cupped hand and fingers, by a slow flexion at the elbow, is moved up to the side
@@ -8891,7 +8016,6 @@ duty, e.g., Figs. 99, 100: an additional means of conveying the same idea is
 Fig. 198, the full hand being put up to the mouth, and returned empty. Water
 (Fig. 105) plays for drinking the same part that seed-food does for eating*
 
-102. Notes to Illustrations.
 
 Fig. 176. Bequest, demand. — The attitude of the outstretched arm and open
 hand is very definite. P.P., Kal., Mit.
@@ -9036,7 +8160,6 @@ unapparent) cause being always looked upon as a punishment for crime committed
 
 arbitrary, are recorded in Figs. 212, 213.
 
-104. Notes to Illustrations.
 
 Fig. 199. Anger : intention of fighting, Sfc. — The biting of the ball of the
 thumb. The same intention can also be expressed by the signaller holding his own
@@ -9210,8 +8333,7 @@ collected from the plant when growing in marshy swamps, is pounded and broken
 up with a special stone, the "nardoo"-stone (sect. 155), previous to grinding.
 
 111. In the Cloncurry District, among the Mitakoodi, the jil-groo-bur-i (Sporobolus indicus,Tl. Br.), closely allied to the katoora and yakapari of the Boulia District,
-is prepared by similar process. Pig-weed, known as tun-ga-ra or tal-lo (Woonamurra ya-ma-ri, Goa kun-go-yi), and a species of " star-grass" called Un-dil (Pani-
-cum deeompositum, B. Br.) are also treated the same, but neither nardoo nor coolibar
+is prepared by similar process. Pig-weed, known as tun-ga-ra or tal-lo (Woonamurra ya-ma-ri, Goa kun-go-yi), and a species of " star-grass" called Un-dil (Panicum deeompositum, B. Br.) are also treated the same, but neither nardoo nor coolibar
 seed is eaten up here. " Wild-rice" or mo-ko-mur-do (Oryza sativa, Linn.), is
 prepared as follows : — After gathering, when the seeds are ripened, it is tied up
 in bundles and dried (sect. 86) : the heads of these bundles are beaten on a piece
@@ -9838,8 +8960,7 @@ the implement is most commonly now found. It is, in its entirety, a cutting,
 shaving, and scooping tool, a true chisel, and used with both hands, moving
 towards the operator as shown in Fig. 236. The verb expressing the action of
 this instrument is puk-Jca- in the Pitta- Pitta language : the name of the implement
-itself is at Boulia (Pitta- Pitta) koom-pa-ta (sect. 43^), at Glenormiston pukkang-i, at Lake Nash (Taroinga) el-bil-la and jor-je-ra : of these two last-men-
-tioned terms, the former is the larger variety of implement for " cutting in the
+itself is at Boulia (Pitta- Pitta) koom-pa-ta (sect. 43^), at Glenormiston pukkang-i, at Lake Nash (Taroinga) el-bil-la and jor-je-ra : of these two last-mentioned terms, the former is the larger variety of implement for " cutting in the
 rough," while the latter is the smaller kind used especially for " finishing off."
 The Mitakoodi and Kalkadoon call the weapon by the same name as that applied
 to it at Boulia : sometimes the Mitakoodi speak of the whole instrument as o-lun,
@@ -9947,8 +9068,7 @@ being washed away. Its fine outer skin is next stripped off the stems, one at a
 time, and beaten up and teased out until such time as it becomes quite sott, when
 it is sun-dried and rolled into skeins or bundles about a couple of feet in length.
 As the individual, who is sitting in the squatting position ( Fig. 2 10), wants to work
-it up, he pulls out of the skein a piece or two, some 3 or 4 inches long, and moistening it either with his mouth, or dipping it into some water provided in a koola-
-mon at his side, places it crossways on his thigh ; another and another thin and
+it up, he pulls out of the skein a piece or two, some 3 or 4 inches long, and moistening it either with his mouth, or dipping it into some water provided in a koolamon at his side, places it crossways on his thigh ; another and another thin and
 small length is picked off, treated similarly, and placed side by side upon the thigh,
 along which all three or four are rolled backwards and forwards with the open
 hand, until by twisting and rolling these few thin sets of shreds become a single
@@ -10514,8 +9634,7 @@ and around the main-string, produces the fringe-like appearance. The length of
 
 112 PEBSOKAX OEKAMElTrATIOK AKD DECOEATIOJT.
 
-each hanging-twist is about 4 inches. In those cases where the supply of opossumstring is deficient, the red worsted obtained from out of a blanket may be sub-
-stituted.
+each hanging-twist is about 4 inches. In those cases where the supply of opossumstring is deficient, the red worsted obtained from out of a blanket may be substituted.
 
 The opossum-string necklace, Pitta-Pitta moo-na-mul-ya-ri y Kalkadoon and
 Mitakoodi mi-ta-mi-ko, is manufactured in the Boulia, Leiehhardt-Selwyn, and
@@ -10554,8 +9673,7 @@ Georgina River, and down the Burke and Wills : its Pitta- Pitta name is ming-ka-
 
 The shell ornament is a concave piece of white shell (a species of Meld) cut
 into more or less the shape of an oval, about 2 to 2\ inches in its longer diameter,
-and fixed either by a small drilled aperture, or a piece of cement, to the neckstring (Fig. 271). It is met with in the Boulia District, which it enters via Spring-
-vale, (&c, from Diamantina Gates and Cork, whither it is brought by the Goa
+and fixed either by a small drilled aperture, or a piece of cement, to the neckstring (Fig. 271). It is met with in the Boulia District, which it enters via Springvale, (&c, from Diamantina Gates and Cork, whither it is brought by the Goa
 blacks of Elderslie : the Goa have themselves obtained it both at the headwaters
 of the Diamantina, Kynuna, &c, from the Mitakoodi and Woonamurra, and
 around Hughenden from the Terundulli, the latter having bartered it from the
@@ -11454,8 +10572,7 @@ or white-and-red feather-down.
 At sunset, the male musicians commence singing " wooroom polooloo," Ac,
 the same song as the night before, and the gins put in an appearance. The
 performers now emerge from behind the moyerjo in indian file, the two " bosses "
-being respectively first and last. As they advance forwards, stamping rhythmically, and sticks all pointing down to (performers') left, the audience sing " yiing-
-xm-jUng-xm-jd wdl-\um pool-w4-r5," and when the last one comes into view, the
+being respectively first and last. As they advance forwards, stamping rhythmically, and sticks all pointing down to (performers') left, the audience sing " yiingxm-jUng-xm-jd wdl-\um pool-w4-r5," and when the last one comes into view, the
 real corrobboree commences with —
 
 Dancebs. Audience : Singing.
@@ -12466,7 +11583,6 @@ messages, which were discoverable by me personally from the actual transmitter,
 
 it was intended should be simultaneously conveyed.
 
-236. Notes to Illustrations.
 
 Fig. 326. Made by a Pitta-Pitta (Boulia District). Obv. : " Come up for a
 corrobboree." Rev. : " Quick ! hurry up."
@@ -14403,8 +13519,7 @@ above, so as to enclose the corpse in a sort of net-sheet. Two or three men, sid
 
 164 DISEASE, ACCIDENT, DEATH. CANNIBALISM.
 
-to side, carry the body, resting crossways usually on their heads to the burialplace, accompanied by the whole of the camp. The actual spot being now deter-
-mined upon, some set about digging a grave, while others assist in cutting logs
+to side, carry the body, resting crossways usually on their heads to the burialplace, accompanied by the whole of the camp. The actual spot being now determined upon, some set about digging a grave, while others assist in cutting logs
 and sticks from 3 to 6 feet long. The depth of the grave appears to vary with
 the nature of the soil, but about 4 feet is a fair average, though this is
 often greater. When all is ready, the body is laid in horizontally, face up, with
@@ -14740,3347 +13855,3 @@ the aboriginals in these parts have up to recent times been treated, these terms
 not to be wondered at.
 
 
-INDEX AND GLOSSARY.
-
-
-JV.jB. — The pronunciation of the Aboriginal words is formed on the basis laid down in
-Section 2.
-
-Unless otherwiso stated, the Reference Numbers denote the Sections.
-
-The following Abbreviations are used — namely, Ph.T. and S.L., to indicate
-respectively the Philological Tables of Chapter II. and the Sign-Language of
-Chapter IV.
-
-
-A. Indefinite Article, 9.
-
-Abdomen, Ph.T., 52.
-
-Aboriginal and European Relationship-Equivalents, 66.
-
-Aboriginal- Anglicised Words, 51.
-
-Aboriginal Geographical Nomenclature, 226.
-
-Aboriginal Pharmacopoeia, Ch. XI.
-
-Aboriginals : Of the Boulia District, 45 ; of the
-Cloncurry District, 47; of the Upper
-Flindew District, 48 ; of the Upper Georgina
-District, 49 ; of the Leichhardt-Selwyn District^.
-
-Aboriginals, Number of Pitta-Pitta, 45.
-
-Abortion, 329.
-
-About, Around : Motion, 22 ; Rest, 23.
-
-About to, Just : Special Forms of the Future,
-
-Above] On Top of : Rest, 23.
-' Abstract Ideas, Signs relating to, 103, 104.
-
-Abstract Ideas, Words relating to, 57.
-
-Acacia aneura, F. v. M. See Mulga.
-
-Acacia cxcelsa, Benth. See Iron-wood.
-
-Acacia famesiana, Willd. See Dead finish
-Scrub.
-
-Acacia honudophyUa l X. Cunn. See Gidyea.
-
-Accident, Sickness, Disease, Death, Ch. XI.
-
-Acheron Creek, 230.
-
-Acicular-tip Hand-spear, 247.
-
-Acquaintances and Friends, Greeting of, 12, 228.
-
-Across, Over : Motion, 22.
-
-Action, Definitiveness or Special Purpose of, 33.
-
-Action, Indefiniteness of, 33.
-
-Active. Indicative, 17.
-
-Acts, States, Conditions, S.L. 101, 102.
-
-Adjectives, 20.
-
-Adjectives, Comparison of, 27.
-
-Adjectives used as Adverbs, 20.
-
-Adjectives used as Nouns, 20.
-
-Adult Man : Ph.T., 52; S.L., 89, 90.
-
-Adult Woman : Ph.T., 52 ; S.L., 89, 90.
-
-Advantage, Benefit, Use, Purpose, 24.
-
-Adverbs, 21.
-
-Adverbs, Adjectives used as, 20.
-
-Adverbs, Comparison of, 28.
-
-After Before : Idea of Time, 38.
-
-After : To be after, On look-out for, To hunt, 22. ■
-
-After : Time, 25.
-
-Apue, 262.
-
-Aigrette : Head-ornament, 164.
-
-Ailments, Chants and Dirges for Exorcising
-
-
-AUnzzia basaltica, Benth. Sec Dead-finish Scrub.
-
-All : Idea of Number, 36.
-
-Alley-way, for hunting emu, &c, 132, 138.
-
-Allow, Let, Permit : Special Forms of Imperative. 31.
-
-Alongside of, Among, Through, Up: Motion,
-
-Alongside of, Among, At, In, Close to : Rest, 23. |
-
-
-Also, And : Conjunctions, 26.
-
-Always : Idea of Time, 38.
-
-Among, Alongside of, At, In, Close to : Rest, 23.
-
-Among, Alongside of, Up, Through: Motion,
-
-Amulets, Charms, 286.
-
-Amusements, Sports, Games, Ch. VIII.
-
-And, Also : Conjunctions, 26.
-
-Anger, &c., Language used in, 333.
-
-Anger, &c, Signs expressing, 103, 104, 238.
-
-Anglicised- Aboriginal Words, 51.
-
-Animal- and Folk-Lore, 200.
-
-Animals and Birds, Playing at, 221.
-
-Animals and Birds, Words relating to, 53.
-
-Ankle, Ph.T., 52.
-
-Anklet, 181.
-
-Ant : Ph.T., 53; Used as Food, 119.
-
-Apron, 183, 193.
-
-Arm, Forearm, Ph.T., 52.
-
-Armlet, 181, 289, 303.
-
-Around, Roundabout : Motion, 22.
-
-Around, Roundabout : Rest, 23.
-
-Arrangement of Audience at Corrobboree, 198.
-
-Arrangement of Camping Ground, 228.
-
-Art, Mural Painting, Draughtsmanship, 187.
-
-Arthropoda, expressed by signs, 83, 84.
-
-Article, Indefinite, 9.
-
-Artificial Bending and Straightening of Timber,
-
-Artificial Hypospadias, Introcision, 316.
-
-Artificial Whiskers, 167.
-
-Ashes arresting Haemorrhage, 317.
-
-Ashes : Sign of Mourning, 289.
-
-Assault, Punishment of criminal, 327.
-
-At, In, Close to, Among, Alongside of : Rest, 23.
-
-At, To : Motion, 22.
-
-Atalantia glauca. Hook. Sec Wild Orange.
-
-Audience, How arranged at Corrobboree, 198.
-
-Aunt : Geneanym, 64.
-
-Austral Downs, 231.
-
-Authority of Old Men, 238.
-
-Authorship and Plot of Corrobboree, 190.
-
-Autonym, 67, 300.
-
-Auxiliary Verbs, 8.
-
-Avulsion of Teeth : How Effected, 177 ; Independent of Ceremonial Rites, 299.
-
-Away from. Far, Far off : Idea of Distance, 39.
-
-%,-ive-n : A lad previous to circumcision {cf, o-we-a),
-
-
-Babyhood, Infancy ,328-330.
-Back, Dorsum, Ph.T., 52.
-Bad, Ph.T., 57 j S.L., 103, 104.
-Bag, Dilly-, S.L., 91, 92 : 153.
-Bag, Water-, 152.
-Baking Oven, 156.
-Ball Games, 216.
-Band-fillet : Ornament, 170.
-
-
-BY AUTHORITY: EDMUND GBKGOBY, GOVERNMENT PBINTER, BRISBANE.
-
-
-Sketch Map
-MOKTHWESTCtNTRAL
-
-QUEENSLAND
-
-[V Show/hp Ihe various
-
-ETHNOGRAPHICAL
-
-DISTRICTS
-
-
-INDEX AND GLOSSABY.
-
-
-Bandicoot : Hunting for, 143 ; S.L., 73, 74.
-
-Band, Spiral-: Ornament, 172.
-
-Barb, Peg, Hook, &c, on Spears, &c, 249, 250.
-
-Barb, Teg, Hook, &c, on Woinmeras, 253.
-
-Bargaining, Swapping, Exchanging, for : Prepositions of Pur^se, 24.
-
-Bargaining, Swapping, &c. See Travel, Trade,
-and Barter.
-
-Bark Covering for Huts, 150.
-
-Bark Covering for Knives, 257.
-
-Barkly Tableland, 46.
-
-Barley -grass Seed -food, 107.
-
-Barter, Trade, Travel, Ch. IX.
-
-Bauhinia-tree : Blossoms Sucked, 118 ; Rootlets
-used for Skipping-rope, 217.
-
-Be, Become, to : Auxiliary Verbs, 8.
-
-Beard, S.L., 89, IK).
-
-Beard, Chin: Ph.T., 52; Decoration of, 178;
-Graved on Letter-stick, 230 ; Hair of, for
-Making Rain -stick, 294.
-
-Beating of the Time at Corrobborees, 198.
-
-Bedonri, 2, 33, 45, 210, 230, 242, 240, 270.
-
-Bee, Honey : How Obtained, 118 ; S.L., 83, 84.
-
-Beefwood, Gum, 150, 250-1, 253, 258, 274.
-
-Before After: Idea of Time, 38,
-
-Behind, Other Side of : Rest, 23.
-
-Beliefs and Superstitions. Sec Disease, Accident, Death.
-
-Beliefs and Superstitions, &c, convoyed along
-Trade-Route, 234.
-
-Belongings, Possessions, Property, 30, 43.
-
-Below, Beneath, Under : Rest, 23.
-
-Belt, Apron : S.L., 91, 92 ; 183, 193, 300, 302.
-
-Bendii, Prickly-, Burr, 202.
-
-Bending and Straightening of Timber, Artificial,
-
-Beneath, Below, Under : Rest, 23.
-
-Benefit, Use, For, To the Advantage of : Purpose, 24.
-
-Benjamin = Fancy-man, a Husband, 3.
-
-ISerries : As Food, 117.
-
-Betrothal, 324.
-
-Between : Rest, 23.
-
-Bibliography, p. vii.
-
-Big and Little Toes, Ph.T., 52.
-
-Big, Large, Ph.T., 57.
-
-Big, Much, Many, How ? : Ideas of Quantity and
-Size, 37.
-
-Big Mob : Ph.T., 50 ; S.L., 93, 94.
-
-"Bilbi" (a bandicoot, Perayalc laf/otis, Reid.) :
-Hunting for, 143 ; Tails, 104, 193, 230.
-
-bll-ll-6fi?w7-gftl : Aboriginal Name of Clonagh
-Station, 220.
-
-fcM-lln-ya : Fishing-net, 124.
-
-Binding with Tendon, 250.
-
-Bird : Ph.T., 53 ; S.L., 75, 70.
-
-Birds : Prepared for Eating, 142 ; Hunting Small
-Birds, 137-9.
-
-Birds and Animals, Playing at, 221.
-
-Birdsville, 159, 214, 225, 230, 242, 240.
-
-Bite, Snake- : Death from, 209 ; Treatment of
-Non-fatal, 280.
-
-Black fellow and Laughing- Jackass : Lore, 204.
-
-Black Mountain, Cloncurry : Aboriginal Name,
-
-Blanket, 147, 153, 230-2, 230.
-
-Blindness, 275.
-
-Blood : Ph.T., 52 ; Drinking, 283, 318 ; Feathering, 185, 192-3, 290-7, 300, 302, 305, 310;
--Letting, sec Venisection, 283 ; Smearing,
-
-Blood and Class Relationship, Equivalence of,
-
-Blood-father, GO.
-
-Blood-mother, 01-2.
-
-Blood- wood (Eucalyptus corymbosa, Sm.) :
-Blossoms Sucked, 118 : 287, 295.
-
-Blood- wood Gum, for Tanning, 152.
-
-Bodkin, used for making Hair-twine, 102.
-
-Body, Collectively, Together, In a : Ideas of
-
-rfumlier, 3(5.
-Body, Concealment of, and Murder, 277.
-
-
-Body-Cord : Ornament, 181.
-
-Body Feathering and Painting, 185, 296-7.
-
-Body Ornamentation and Decoration, Ch. VII.
-
-Body, Words relating to Parts of the, 52.
-
-Boerhaavia diffusa, Linn. : S.L., 86; as Food,
-
-"Bogie "-Man, 277, 298.
-
-/*Mn-jI Tribe, 45, 72, 230 ; Letter-stick, 236.
-
-Bone : Ph.T., 52 ; Apparatus, Death-bone, 259-
-208 ; for Drilling Purposes, 253 ; Knucklebones for Ornament, 105 ; -Pin, 274 ; -Point-
-ing, 204, 2I)5.
-
-bo-nln-jl : Aboriginal Name of Spring vale, 226.
-
-6oo-doo-w&-rl : Aboriginal Name of Hill in
-neighbourhood of ( Mount Datson, 226.
-
-froo-loo 600-I00 : Aboriginal Name of Water-hole
-where the 15-Mile Creek of' Hamilton River
-crosses the Winton-Boulia road, 45, 207, 226.
-
-bool-yo : Aboriginal Name of Boulia, 220.
-
-boom-bo : Thro wing-stick Toy, 214.
-
-Boomerang: Ph.T., 55; 147, 230,232-3; S.L.,
-91, 92 ; Bartered in Pairs, 240 ; Come-back,
-Return-, 213 ; Classification of Fighting-,
-239 ; Flight of, 240 ; Fluted-, 230, 232, 242 ;
-Hook-, 230-2, 244 ; Material and Manufacture
-of, 240 ; Ornate, 230, 241 ; Plain, 231, 243.
-
--boo-nd : Sign of Possession, 8, 239.
-
-Bora. See Initiation Ceremonies.
-
-Boulia, 1, 45, 144, 147, 149, 150, 154-5, 159, 161,
-282, 294, 315, 328 ; Aboriginal Name of, 226.
-
-Boulia District : Aboriginals of, 45 : Burial in,
-289; Edible Roots in, 113; Geographical
-Limits of, 2 ; Huts and Shelters in, 159 ;
-Introcision in, 317 ; Rain-making in, 294 ;
-Seed-food in, 105 ; Trade-routes in, 230.
-
-Bowels, Ph.T., 52.
-
-Bower- bird Gold Diggings, 258.
-
-Bower-Bird and Hawk : Lore, 210.
-
-Box-wood : for Fire-sticks, 157 ; for Fightingpoles, 255 ; Bark for Poultices, 285.
-
-Brands, "Flash" Cuts, 186, 299.
-
-Breadalbane, 45.
-
-Break- wind, for Huts, &c., 159.
-
-Breast, Ph.T., 52.
-
-Brighton Downs, 230, 241.
-
-Brother, 58-9, 63, 238; S.L., 89, 90; Father's,
-64 ; Mother's, 58-9, 03.
-
-Brother-in-Law. See Brother.
-
-Brother's Daughter, Son, 58, 64.
-
-Brown-tit and Red -tit : Lore, 206.
-
-Buckingham Downs, 2, 40, 150, 191, 230, 232,
-242 ; Aboriginal Name of, 226.
-
-Buckley River, 46.
-
-Building, Constructing, or Manufacturing : Prepositions of Purpose, Means, &c, 24.
-
-Bullock, S.L., 73, 74.
-
-b&n-bur-I : Paedomatronym, 62.
-
-bUng-go b&7iff-gQ : Bee, 118.
-
-bun-y-X : A Woman after the Second Degree, 68,
-
-Burial : In Boulia District, 289 ; of a Murderer,
-290 ; in Cloncurry District, 291 ; in Upper
-Georgina District, 292.
-
-Burke River, 2, 45, 113, 137, 147, 182, 230, 241-2,
-
-Burketown, 316.
-
-Bush Fence for the Initiation Ceremonies, 300,
-
-Bustard. See Turkey-bustard.
-
-Buttocks, Ph.T., 52.
-
-By-and-by : Idea of Time, 38.
-
-By Means of, With, Through : Preix)sitions of
-Means, 24.
-
-
-Cacatua roscicassila, Galah-parrot : Method of
-
-Hunting, 139.
-Call-tube for Catching Emus, 132-3.
-Cambridge Downs, 48.
-
-
-INDEX AND OLOSSAET.
-
-
-Camooweal, 191, 231-2, 251, 325.
-
-Camp : Arrangement of a, 228 ; -Council, 238,
-
-323 ; Hawks hovering over, 207.
-Camping-grounds and Water-holes, Aboriginal
-
-Names for, 226.
-Cannibalism, 203.
-Canobie, 47, 63, 233.
-Caper, Wild- : Used for Food, 117.
-Carandotta, 49, 133, 138 9, 154, 190-1, 230, 236,
-
-Carella, 230.
-Carlo vel Mungerebar, 2, 45, 147, 152-4, 191, 230,
-
-Carpet-snake, S.L., 77, 78.
-Cat, The Opossum and the Wild- : Lore, 203.
-Catch-ball, 216.
-
-Caterpillar, S.L., 83, 84.; Used for Food, 119.
-Cat-fish, Caught by " Treading," 128.
-Cattle, S.L., 73, 74 ; Spears for Killing, 248, 250.
-Cementing Substance, 149, 150, 162, 166, 247,
-
-Central Queensland, Geographical Limits of
-
-North- West-, 50.
-Ceremonies of Initiation. See Initiation.
-chd-bo : Fillet-ornament, 170.
-chd-VLn : Fellow-Brother, 63 (Table 4), 303.
-Chants, Dirges, &c, in Sickness, 265, 275, 282.
-Charcoal Grease, 186, 193, 241, 243, 245, 253-4,
-
-256 ; as a Surgical Dressing, 317.
-Charm, Amulet, for withstanding Sickness, 286.
-Charm, Love- : Whirler, 325.
-Chatsworth, 2, 46, 230, 232, 242, 294 ; Aboriginal
-
-Name, 226.
-Cheek, Ph.T.,52.
-che-ka-£a-rt. Pearl-shell : Phallocrypt, 184 ; for
-
-Producing Sickness, 272.
-cAe-ka-ra : Shell Chest-ornament, 182, 230, 233,
-
-Chest-ornament, S.L., 91-2; 182, 233.
-Chief, King, Boss, &c, 238, 323.
-Child, S.L., 89, 90.
-Chin, Beard, Ph.T., 52.
-chl-ti : Stone-tomahawk Handle, 258.
-chl-roo-ko : Bone-pin for Producing Sickness,
-
-Chisel, 148-9, 202, 240.
-Chronic Disease, 262.
-cfctf£-al-bnr-ra: Hook-boomerang, 239.
-Circle-mark : cut in Stone, 187 ; on Head-dress,
-
-199 ; on Weapons, 253 ; on Whirlers, 325.
-Circlet, 171.
-
-Circumcision, 300-2, 304, 316.
-Class- and Blood- Relationship, Equivalence of,
-
-Class-systems, Ch. III.
-Classification of Fighting Boomerangs, 239.
-Clay-pill, 288.
-Climanvm, 68, 299.
-
-Clonagh, 253; Aboriginal Name of, 226.
-Cloncurry, 147, 179, 186-187, 191, 303 ; Aboriginal Name of, 226.
-Cloncurry District, 8 ; Aboriginals of, 47 ; Burial
-
-in, 291 ; Geographical Limits of, 47 ; Huts
-
-and Shelters in, 160 ; Edible Hoots in. 114 ;
-
-Seed-food in, 111 ; Trade Routes in, 233.
-Cloncurry River, 47, 241.
-
-Close to, At, In, Among, Alongside of : Host, 23.
-Close to, In Neighbourhood of: Idea of Place,
-
-Cluny, 2, 45, 230, 236.
-Cockatoo, Ph.T., 53; S.L., 75-6; Hunting for,
-
-Cophlan, Mr. J., 116, 133, 187, 293, 332.
-Coition, 62 ; Promiscuous Compulsory, 305.
-Collectively, Together, In a Body : Ideas of
-
-Number, 36.
-Colour-sense, 187.
-
-" Come-back" or Return-boomerang, 213.
-Come here ! Hullo ! Vocative Case, 12.
-Command : Various Special Forms of Imperative ? 31.
-Comparison of Adjectives, 27 ; of Adverbs, 28.
-
-
-Comparison of Selected Words, Tabular, Ch. II.
-Compass, Points of the, 227.
-Complex Conditions, &c, S.L., 103-4.
-Concealment of Body, Murder, 277.
-Conditions, States, &c. : Simple and Complex,
-
-Confinement, Pregnancy, 328.
-Conjunctions, 26.
-Consanguinity, 326.
-Consonant Sounds. 3.
-Constructing, Building, or Manufacturing, for:
-
-Prepositions of Purpose, Means, &c, 24.
-Contempt, Anger, &c. : Words used in, 333.
-Conveyance of Water, 152.
-Coo-ee ! Vocative Case, 12.
-Cooktown, 70.
-Coolibar : Seed used as Food, 108, 203 ; for Koolamons, 148.
-Coolullah, 252.
-Cooraboolka, 45, 153, 230.
-
-Copulation. See Coition. S.L., 89-90, 305, 320rf.
-Coral-tree. Sec Cork-tree.
-Cord, Bt dy-: Ornament, 181.
-Cordylinc, Coram., Ti-tree, 118.
-Corella (bird) : Anglicised-aboriginal word, 51 ;
-
-Ph.T., 53 ; Hunting for, 139 ; Feathers, 193.
-Corella, or Williams River, Aboriginal Name
-
-Cork, 45, 182, 192, 230, 236, 241, 260.
-Cork-tree {Erythrina, Linn.): for Koolamons,
-
-148 ; for Spears, 249 ; for Shields, 254.
-Corpse, S.L., 101-4. See Burial.
-Corrobboree, 188 ; Authorship and Plot, 190 ;
-
-Beating of the Time, 198 ; Conveyed to, and
-
-Exchanged with, other Tribes, 191; the
-
-Dance, 195 ; Dancing-ground, 194 ; Dress
-
-and Decoration at, 193 ; Dressing-room, 194 ;
-
-Molonga, 199 ; Music of the Song, 197 ; Name
-
-of the particular Song, 196; Performers, 192;
-
-Time of Performance, 189 ; Words of the
-
-Song, 196; S.L., 101-2.
-Corvus, S.L., 76.
-Costume at Corrobboree, 193.
-Cotton-bush Creek, 2.
-Cough, Cold : How Treated, 286-287.
-Council, Camp-, 238, 323.
-Counting, Enumeration : Methods of, 36
-Coursing, 222.
-Cousin, 64.
-
-Craigie, Mr. J., 159. 309, 32ty.
-Crane: Hunting for, 140; in connection with
-
-the Death-bone, 270.
-Crankiness, Mental Disease, 260, 278.
-Cray-fish, S.L., 83-4 ; as Food, 119.
-Creek, Ph.T., 54 ; S.L., 87-8.
-Crocodile, Lizard, Iguana : As Food, 122 ; on
-
-Wall-painting, 187.
-Cross-mark : On Boomerangs, 241 ; on Thighs,
-
-Cross-piece, Wooden : Head Ornament, 173.
-Crow, Black: Ph.T, 53; S.L., 75-6; Feather
-
-Tufts, 164 ; and Hawk (lore), 209.
-Croydon, 233.
-
-Crude Forms of certain Pitta-Pitta Words, 43.
-Crustaceans and Insects : As Food, 119.
-Currant, Wild : As Food, 117 ; for Barbs on
-
-Spears, &c, 250.
-Customs, Beliefs, &c, Conveyed along the Trade
-
-Routes, 234.
-Cut : Flash-, Mutilation-, &c, 186.
-Cuts, Wounds : Dressing for, 284, 300, 302, 317.
-Cuttaburra, 230.
-
-
-Dagworth, 230, 241, 260.
-Daily : Ideas of Time, 38.
-Dalgonally, 233 : Aboriginal Name of, 226.
-Dam for Trapping Fish, 125.
-Dance, Corroblxnree, 194, 195 ; S.L., 101-2.
-Daughter : Brother's, Sister's, Son's, Daughter
-
-
-INDEX AND GLOSSARY.
-
-
-Daughter-in-Law, 64.
-
-Davenport Downs, 191, 230, 236, 241.
-
-Day, Measure of the, 38.
-
-Day, S.L. ? 97-98.
-
-"Dead-finish Scrub" for making Spears, &c, 247,
-
-Dead. See Deceased, Burial, Corpse, &c.
-
-Death-bone, Bone Apparatus, 238, 259-270, 303.
-
-Death, Disease, Accident, Ch. XI.
-
-Death-Powder, 273.
-
-Death from Snake-bite, 269.
-
-Deceased, 67, 190, 289. See Burial, &c.
-
-Decimal Notation, 4.
-
-Decoration and Bodily Ornament, Ch. VII.
-
-Decoration and Dress at Corrobborees, 193.
-
-Defaecatior, 101, 274, 332.
-
-Defeat in Fighting, Sign of, 238.
-
-Definitiveness of Action, Special Purpose or, 33.
-
-Degrees of Social Rank, 68, 299.
-
-Demand, Request, S.L., 101-2.
-
-Derision, Contempt, &c. : Language used in, 333.
-
-Devil, 199.
-
-Devoncourt, 230, 297, 303 : Aboriginal Name of,
-
-Diamantina (Gates) Lakes, 45, 182, 191, 230, 236,
-
-Diamantina River, 45, 147, 154, 182, 191, 216, 228,
-
-Diarrhoea, 282, 288.
-
-Dictionary, Pitta-Pitta, 44.
-
-Difference : Comparison of Adjectives, 27.
-
-Dilly-ba$, Ph.T., 55 ; S.L., 91-2; 153, 232.
-
-Diminutive, Small : Ideas of Quantity and Size,
-
-Dingo,' Doe, Ph.T., 53 ; S.L., 73-4.
-
-Dingo : Coursing, 222 ; Hunting for, 146 ;
-Knuckle-bone Ornament, 165; Tail Ornament, 170, 180 ; Tooth Ornament, 166.
-
-df-p&ng- H w-ya : The Being who produces Crankiness, Mental Disease, &c, 278.
-
-Direct Question : Interrogation, 40.
-
-Direction, Neighbourhood, &c., from : Motion,
-
-Direction, Place, Distance : Ideas of, 39.
-
-Direction, S:L., 95-6.
-
-Dirges, Chants, &c, in Cases of Sickness, &c,
-
-Disappearance, Sudden : How Explained, 277.
-
-Disease, Death, and Accident, Ch. XI.
-
-Dismal Creek, 47.
-
-Distance, Direction, and Place : Ideas of, 39.
-
-Distribution of Introcision, Geographical, 316.
-
-Dive, to, S.L., 75, 76.
-
-Diver-bird : S.L., 75, 76 ; Beak used as a Bonepin, 274 : Hunting for, 140.
-
-Doctor, Medicine Man, &c, S.L., 89, 90; 190,
-
-Dog, Dingo, Ph.T., 53; S L., 73-4, 101-2.
-
-Dogs: Hunting Emu with, 135; Hunting
-Kangaroo with, 145.
-
-Domestic Implements and Utensils, Ch. VI.
-
-Donation to : Prepositions of Purpose, Reason,
-Means, 24.
-
-Dorsum, Back, Ph.T., 52.
-
-Doubt, Uncertainty, Interrogation : Ideas of, 40.
-
-Draughtsmanship, Art, Mural Painting, 187.
-
-Dreams, 263, 274.
-
-Dress and Decoration, Corrobboree, 193.
-
-Dressing-room, Corrobboree : " Green "-room,
-
-Drilling : Holes in Whirlers, 215 ; in Wommeras,
-
-Drink, to, S.L., 87-8.
-
-Drinking : Of Blood, 283 ; of Semen, 283.
-
-Drowning, 276.
-
-Drum at Corrobboree, 198.
-
-Dual, 4, 15.
-
-Duboisia, R.Br., Pituri : S.L., 85-6 ; 147.
-
-Duck: Ph.T., 53; S.L.,75-6; Hunting for, 140 ;
-Feathers for Decoration, 185.
-
-d#£-ka d&k-k& : " Green "-room at Corrobboree.
-
-
-dHn(j-&-dting.!l-T& Tribe, 45, 230.
-
-Duration of Time, 25, 38.
-
-Duster, Phallocrypt used as Fan or, 184.
-
-
-Eagle-Hawk, Large: Ph.T., 53; S.L., 75, 76;
-Claw-ornament, 182; Feather-ornament at
-Belt, 183, 296 ; Feather-tuft Head Decoration, 164 ; Feathers Bartered, 230-1.
-
-Ear : Ph.T., 52; Fiercing of, 176.
-
-East : Point of the Compass, 227.
-
-Eat, to, S.L., 85-6, 101-2.
-
-Eating of Birds : How Prepared, 142.
-
-e-cha-lft-mtil-le- : To Dance, 188.
-
-e-che- : To Lie Down, to Die, 290.
-
-Echidna hystrix : Australian " Porcupine," S.L.
-
-Eddington, 233, 260 ; Aboriginal Name of, 226.
-
-Edwards, Mr., of Roxburgh : European Eyewitness of Cannibalism, 293.
-
-#-b!l-l& : Chisel, 149.
-
-Elbow, Ph.T., 52.
-
-Elderslie^ 147, 182, 236, 241, 260.
-
-ef-dfa : Emu-apple, 117.
-
-Elcusine ayyptiaca, Pers. : Seed-food, 106.
-
-8-Joo-kS-ra Tribe. See Walookera.
-
-Emu : Ph.T., 53 ; S.L., 75-6 ; Graved on Boomerang, 213 ; 156.
-
-Emu-bone : for Drilling Timber, 253 ; for
-making a Bone-pin, 274.
-
-Emu Call-tubes : Used in Hunting, 132-3.
-
-Emu Feathers: Tufts for Headdress, 164;
-Bartered, 231 ; for making Amulets, 286 ; as
-Articles of Decoration, 296.
-
-Emu Hunting : With Dogs, 135 ; by Muster,
-134; with Net alone, 131, 204: with Net
-and Palisading, 132; by Pit-falls, 133, 206;
-by Tracking and Spearing, 135.
-
-Emu-leg Tendon : For Binding, &c, 250.
-
-Emu Net : How Made and Used, 131-2 ; for
-Catching Kangaroos, 145 ; Graved on Boomerang, 213 ; used in Pit-throwing, 223.
-
-Emu Nose-pin, 175.
-
-Emu, Playing at Mimicking, 221.
-
-Emu and the Water-hen : Lore, 201.
-
-Emu-apple (Omnia acidula, F. v. M.): As Food,
-
-Enumeration, Counting, 36.
-
-£n-jf : Hamilton River, 226.
-
-Equality : Comparison of Adjectives, 27.
-
-Eqai valence of Blood and Class Relationship,
-
-Equivalents, Aboriginal and European Relationship-, 66.
-
-e ra-jl : Woman at Full Puberty, 68, 307.
-
-6-r&-ka-l&: Spatulate-tip Hand-spear of Cloncurry District, 248.
-
-er-rul-11 : Bush-fence used at Initiation Ceremony, 300, 317.
-
-Erythrina, Linn.: " Coral," " Cork "-tree, &c,
-for making Koolamons, 148; for Spears,
-249 ; for Shields, 254.
-
-Ethnographical District : Of Boulia, 2 ; of Cloncurry, 47; of the Leichhardt-Selwyn, 46;
-of tne Upper Flinders, 48 ; of the Upper
-Georgina, 49.
-
-Ethno-pornography, Ch. XIII.
-
-Eucalyptus bicolor, A. Cunn. See Coolibar.
-
-Eucalyptus corymbosa, Sm. See Bloodwood.
-
-Eucalyptus hcemastoma, Sm. See White-gum.
-
-Eucalyptus Gum for Diarrhoea, &c, 288.
-
-Euphorbia, Linn., as a Medicinal Plant, 287.
-
-European and Aboriginal Relationship-Equivalents, 66.
-
-Ever and Ever, Every Day, Always : Idea of
-Time, 38.
-
-Exchanging, Swapping, or Bargaining : Prepositions of Purpose, Reason, Means, 24.
-
-Exchange and Barter, Ch. IX.
-
-Exclamation, Notes of, 41.
-
-
-Plato III.
-
-
-Sisn-LangUBge (c.^)^.2.%m, n , ml ,, lfKa „g anoo) p/^ ^Jg gp^
-
-
-HH)EX AND GLOSSABY.
-
-
-Glass for Graving, 240.
-
-Glenormiston or Idamea, 2, 45, 113, 11G, 118,
-293, 305, 332 ; Aboriginal Name, 220.
-
-gO'k Tribe occupying country from head of
-Diamantina to Thompson River and Farrar's
-Creek, from Evesham to old Brighton
-Downs, 48, 52 8, 01-3, 72, 153, 182, 230, 241,
-247, 200 ; Famity Relationship Terms, 58 ;
-Food " tabooed, 02 ; Gamomatronyms, 01 ;
-Heteronyms, 03 ; Paedomatronyms, 02.
-
-Good : Ph/E\, 57; S.L., 103 4.
-
-Good-bye ! Ta-ta ! : Notes of Exclamation, 41.
-
-(jop-pii r/a/)-pa : Mount Datson, 226.
-
-Gordon's Creek, 49, 2301.
-
-Grand-daughter, -father, -mother, -son, 04.
-
-Grass: Ordinary Meadow, Ph.T., 53; "Porcupine," "Spinifex," for making Cement, 150.
-
-Grass -reed Nose-pin, 175.
-
-Grass-reed Necklace : Description, 179 ; Bartered,
-232; sign of Social Rank, 300, 302 5 ; S.L.,
-
-Grave : Food, &c, left at, 289, 291 ; Murderer
-Digging his own Grave, 238. See Burial.
-
-Graving: On Boomerangs, 241; on Two-handed
-Swords, 245.
-
-Grease : For Dressing the Hair, 102 ; for Dressing Wounds, 284 ; for Alleviating Fatigue,
-185 ; for Painting, 192 ; a Cure for Sickness,
-207 ; for Working-up Timber, 151.
-
-Green-room, Dressing-room, 194, 199.
-
-Green-stone for Tomahawks, 258.
-
-Greeting of Acquaintances, Relatives, &c, 228.
-
-Grenada, 210, 253, 303 ; Al)original Name, 220.
-
-Grevillea strmta, IX. Br., Beef wood- tree, 150.
-
-Grief, Signs and Expressions of, 289, 302.
-
-Grindstone: Described, 154; Bartered, &c, 230,
-
-Ground-Burial, 289, 290-1.
-
-Grounds, Camping- : How arranged, 228.
-
-Grounds, Camping-, and Waterholes : Aboriginal
-Names of, 220.
-
-Grounds, Corrobboree Dancing-, 194.
-
-
-Groups, Exogamous, 01.
-Grab. See Caterpillar.
-
-
-Orus australasianu8 y S.L., 70.
-
-Gum : Beef wood, 150 ; Bloodwood, 152, 287 ;
-Eucalyptus, 288 ; Gidvea, 288. See Cementing Substance.
-
-Gum-tree Leaves for Stupefying Fish, 120.
-
-Gum-tree, White-, Roots for making Skippingrope, 217.
-
-Gundi. See Huts, Shelters.
-
-Gypsum: Kopi, Pata, 174, 185, 193, 230, 238,
-
-
-Haemorrhage, Arrest of, 300, 301, 302. See
-
-Wounds.
-Hair of Head, Ph. T., 52.
-Hair-louse, S.L., 83-4.
-Hair- twine : Method of Working-up, 102 ;
-
-Bartered, 230; used as the Connectingstring in the Bone Apparatus, 259.
-Hair Waist-belts : Described, 183 ; Bartered,
-
-Half-caste Children Eaten, 293, 330.
-Hamilton River, 2, 133, 225, 230, 241 ; Aboriginal
-
-Name, 220.
-Hamilton Water-hole : Where the 15-Mile Creek
-
-of the Hamilton River crosses the Winton-
-
-Boulia road, 45, 207, 220.
-Hand : Ph.T., 52 ; Counting on Toes, Fingers,
-
-and Hand, 30 ; Hand-shaking, 228.
-Hand Spear : S.L., 91-2; Method of Throwing,
-
-247 ; Acicular-tip, 247 ; Spatulate-tip, 248.
-Handkerchief: Bartered, 147, 230; as Head
-
-Covering, 173.
-Handle, Knife, 257.
-
-
-Have, Possess, to : Sign of Possession, 8.
-Hawk: Ph.T., 53; S.L., 75-6; Following Camps,
-
-207 ; Lore, 208-9, 210.
-Head: Ph.T. 52; Head-ache, 285-7 ; Head-louse,
-
-Head-net, Described, 168 ; 207, 310.
-Head, Ornamentation and Decoration of, 163.
-Headingly, 49, 141, 191, 230, 232, 236, 296, 302,
-
-328 ; Rain-making at, 296.
-Herbert Downs, 45, 138, 147, 154, 191, 230, 236,
-
-245, 289 ; Aboriginal Name, 226.
-Here, Hither: Idea of Place, Direction, 39.
-Heteronym, 03.
-Hide-and-Seek Game, 219.
-Hill, Mountain, &c: Ph.T., 54; S.L., 87-8.
-Hi8trioph(uju8 histrioniea, 1 lock-pigeon, 137.
-Hither, Here : Idea of Place, Direction, 39.
-Honey : Food for Babies, 330 ; How Obtained,
-
-hoo ! : Sign of Vocative Case, 12.
-Hook, Barb, Peg, &c. : On Spears, 249, 250 ; on
-
-Wommeras, 253.
-Hook-boomeiang: For Catching Flock-pigeons,
-
-137; Described, 244; Use of the Hook, 240 ;
-
-Horse, S.L., 73-4.
-How Far ? : Idea of Distance, 39.
-How Much, Many, Big, &c. ?: Interrogative
-
-Pronouns, 35; Ideas of Quantity, Size, &c,
-
-Hughenden, 182.
-Hullo ! : Vocative Case, 12.
-Hunt-the-Eye. Game, 218.
-Hunting for Food, Ch. V.
-Husband : Ph.T., 58; Geneanym, 64; S.L.,
-
-Husband's and Wife's Mothers, Relationship
-
-between, G4.
-Huts and Shelters : S.L., 91-2 ; In Boulia District, 159 ; in Cloncurry District, 160 ; in
-
-Leichhardt-Selwyn District, 161.
-Hypospadias, Artificial. See Introcision.
-
-
-Idamea. See Glenormiston.
-
-Ideagrams, 42.
-
-Ideas, Abstract, Ph.T., 57 ; S.L., 103-4.
-
-Ideas Expressed by Signs: Sign Language,
-
-Ideas of Doubt, Uncertainty, Interrogation, 40 ;
-
-Ideas of Place, Direction, Distance, 39.
-Ideas of Quantity, Size, 37.
-Ideas of Time, 38.
-Iguana: Ph.T. 53; Painted on Rocks, 187; as
-
-Food, 122 ; Iguana-fat, 284 ; S.L., 77-8.
-tf-l&-ri : Bush-fence, 303.
-Illness, Accident, Death, Ch. XT.
-Immediately : Ideas of Time, 38.
-Immense, Large : Ideas of Quantity and Size,
-
-Imperative of Verbs, 19 ; Special Forms of, 31.
-Impersonal Interrogative Pronouns, 35.
-Implements and Utensils, Domestic, Ch. VI.;
-
-In, Into : Motion, 22.
-In, At, Close to, Among, Alongside of, &c:
-
-Rest, 23.
-Incest, 238, 327.
-Indecency, 333.
-Indefinite Article, 9.
-Indenniteness of Action : Verbs, 33.
-Indicative of Verbs, 17.
-Individual and Social Nomenclature, Ch. III.
-Individuals, Persons, &c, S.L., 89, 90.
-Infancy, Babyhood, 328, 330; S.L., 89, 90.
-Infinitive of Verbs, 29.
-Inflexions of the Third Person, 4.
-Ing-ga-mul-le- ; To Kiss, 330.
-
-
-13DEX XSD GL0S8ABY.
-
-
-Initiation Ceremony, First Male : In Bonlia District, 300 : at Roxburgh, 301 ; at Headingly,
-302; in Clnncurry District, 303; in Leichbarrtt-Sulwyn District, 304.
-
-Initiation Ceremony, First Female: In Bonlia
-District, 305 ; in Upper Georgina District,
-306: in Leichhardt-Selwyn District, 307;
-at Blrdsville, 308.
-
-Initiation Ceremony, Second Male anil Female :
-Among the Pitta-Pitta, 310 ; in Leichhardt-
-Selwyn District, 311; in Clonciirry * and
-Upper Flinders Districts, 312.
-
-Initiation Ceremony, Third and Fourth : In
-Boulia District, 313 : in Cloncurry District,
-315; in Leichhardt -Sslwyn District, 314.
-
-Initiation of a Doctor, Modiciue-man, 206.
-
-
-River, 46.
-
-njuries Inflicted by the Death-bone, 270.
-In-pa-ka-t5 : Wild Orange, 117.
-Insects : As Food, 110 ; S.L.. 83-4.
-interrogation. Doubt, Uncertainty, 40;
-
-
-■ocjsion, Female: In Boulia District, 30.1 ;
-in Upper Georgina District, 306 ; in Leichhardt-Selwyn District, 307 ; at Birdsville,
-
-
-. District, 317;
-i • among the
-
-
-Introciaion, Male : In )
-
-among the Yaroing
-
-Undekeiebina, 319.
-Introeision: Geographical Distribution, 316;
-
-Inconvenience!) of, 322; at which Ceremonial
-
-Performed, 300; Alleged Objects of, 300,
-
-320; Hypothesis of , 321.
-Iron : Used for Graving, 241 ; for Spears, 361 ;
-
-Replacing Stone, 149, 257-8.
-Iron-wood (Acacia txctlta, Bentb.), 253.
-
-
-Jackass, The Laughing : Lore, 204.
-;aUoon : Variety of Libijara Spear, 250.
-j'fi-ra jA-rt, : Grindstone, 154.
-J»-go : Bone-pin for Producing Sickness, &c., 274.
-"•"• '■" a," Dr«s,in K -room, 104.
-
-
-.. n-ball, 216.
-jlm-bft-do : Toy Throwing-.stick, 214.
-/I-uI-bor-I: Spatulate-tip Hand-spear, 248.
-jf-ring-er-I : Red Ochre,- 233.
-Joints, Wet-cupping for Inflamed, 283.
-/oo-iVro: Gum- tree, 126.
-jBr-jB-ra: Chisel, 149.
-jou-Bn Tribe of Aboriginals, 70.
-jou-un : Frog, 121.
-jflm-mfil : Armlet. 181, 303.
-Just, About to : Sjecial Forms of the Future, 30.
-
-
-ki-tflfn-bo-lB : Netting Needle, 124.
-
-Wf-lfi-rn: Yam, 11:': V.... , -itic-k, 158.
-
-tSt-k:. .1l.ii Trit» , Hi. ■■-.' - r.l ■!, 08, 72, 112. 115,
-
-
-llil, 1711, 2111, 228, 230-3, 230, 239, 240-1, 243,
-
-2-.17-*. 3iH, 314, IJI. :«8, 331.
-fcf-Iti; Flax, 43ft, 134, 153.
-k**W: L-tter-:ti,:!i. 436, 335.
-ka-la-ranjj-or-0 : Caterpillar-grub, 436, lilt.
-*d-nS: i ully-developed Adult Man, Ph.T., 52;
-
-
-kan-da-jtn : To Swim, 260.
-
-Kangaroo: Ph.T., 53; S.L., 73-4; 156; Bone
-
-for Drilling, 253; Hunting, 145; Ornaments,
-
-Knuckle Bones, 105, 305; Nose-pin, 175;
-
-Tooth, 1GC, 230, 305 ; Kangaroo-play Game,
-
-216, 221; Tail Tendon, 250; Twine, 232;
-
-Skin Water bags, 152.
-irfji-iiiA-rs : Hugo Supernatural Water-snake,
-
-M-pa-ra: Caterpillar- grub, 119.
-W-rS-lft : Corolla River, 226.
-ka-rdn-ya Tribe, 45, 52-7 J Letter-stick, 236.
-tii-ra-parl : Seed -food, 436, 108.
-ka-re-dtt-li : Sued, 11] ; Root. 114.
-kS-rtn-gS-rl : Cough, Cold, 287.
-ka-rl-ou-O : Widow, 289.
-Karkori, 230, 236.
-id-rnn-U Tribe, living around Normanton, 182,.
-
-kit la-gA.-ffire-jMng-O : Devoncourt, 226.
-fcUa-gO : Any Small Infant, 303.
-1-a-ta pa ta-tft-pS: Hornet- or Bee-graving on
-
-Boomerang, 241.
-ia-te-bri-na: Pointer of the Bone Apparatus, 259.
-1-4-tI : Head, Top, Summit, kc, 310.
-id-tl fal-U mii-rfl: Individual of the Second
-
-Degree, 68, 310.
-ka-tl-mln-jMI : Head Camp of Boinji Tribe in
-
-neighbourhood of Marion Downs, 236.
-i-n-too-ra : Seed-food, 436, 107, 111.
-*«-pJ: Bushfence, 310.
-Kr kK-U : Pearl-plate, 184, 272.
-khu-hA: BI.kxI, Ph. T., 52'; 283,331.
-Hn-dl : Reed for Making Spears, 250,
-King, Chief, Boss, &c, 238.
-King's Creek, 2.
-Kissing, 33*.
-
-M-tli-ma : Variety of Libijara Spenr, 250.
-Knee, Ph. T., 52
-Knife, Stone: Ph. T., 55; S.L., 91-2; Bartered,
-
-230-2; Dcnctii/,.1, 257; Kitting with, 238 ;
-
-Knuckle-bone Ornaments, 106.
-Afi-ka: Blood-wood Gum, 287.
-to-nu-pa: Grass Necklace, 4*i, 179.
-loo-dl-ja ioo-dl - jjt : Tri-linear Ornamentation,
-
-43^; On Body, 185, 193; On Weapon-, 21L
-
-koo-rfitv-be.il : Zii-iag Graving on Boomerangs,
-
-ta.S-lft: Grindstone, 154.
-koo-f-rl : Lad at First Sign of Puberty, 68, 300,
-
-A'oo-jo" : Yam, 114.
-too-joo-roo: Musnel, 120.
-fow-koo-rt: Yellow-ochre, Yellow, 313.
-Koolamon: Ph.T., .55; S.L., 91-2; Described,
-
-148 ; 203 ; Bartered, 230-3.
-iooMnl-Ll : North-west, 227.
-iool-ho; Letter-Ktick, 235.
-kno-fta-jo-rr: Shell Chest-ornament, 182.
-fe*rf-pS-rt : Kmu, 53, 241.
-AW-poo-roo : Head-net, 108, 238.
-koo-?anj7-S-rS : Woman's Fighting- pole, 255.
-(■oom-pa.nl : Phallocrypt, 184, 193, 199.
-toom-pa-ta : Chisel, 43, 149.
-foom-prj i Toy Thro wing-stick, 214.
-tow-na.: Kxcrement, 52, 2S2.
-Aoon-da-clil : Crav-rish, 43./, 110.
-twn^-ga : Honey, 118 ; Timber for Hut-scaffolding, 161 ; Letter-stick, 235 ; Pointer of the
-
-Bone- apparatus, 250.
-koo w-ga-rl : Kant, 227.
-too-ill: Seed-fnod, 43((, 109.
-A-mm-jS : Vulva, 333.
-toon-koo-leu-ya : Tribe, 45, 230.
-i-oon-pS : Frog, 121.
-
-fo*/n-pA-ra ■ Cork-tree, Shield, Koolamon, 254.
-' " Corps* "™
-
-
-INDEX AND GLOSSABT.
-
-
-koo-re-& (present tense of preceding) : Any Simple
-
-Incision, 281.
-Aoor-kYl-la : Paedomatronym, 62.
-koo-roo-m#n-do" : Rain-stick, 43a, 294.
-koo-rou-1 : Hut for Withstanding Rain, 43a, 159.
-ifcoo-ya : Flint-flake, 149.
-Aro-pL See Gypsum.
-k&d-yl-ll : North-east, 227.
-kul-go : Spiral-band Head -ornament, 172.
-kiU-kfk : West, 227 ; Bone apparatus (c/.koong-ga)
-
-kUl-ft kkl-M : Term of Interrogation, 99.
-k3l-y&-& : Mack inlay River, 226.
-kill-poo-Too : Williams River, 226.
-k&m-bo: Flint-flake, 149, 290 ; Death-bone, 259.
-k&n-dl ktin-di : Toy Throwing-stick, 214.
-A-ffn-doo-ttil : Wild-orange, 117.
-ktm-dSr-& : Reed-spear, 250.
-fc&ngr-ga-pa-rl : Wild-currant, 117.
-k&ng-gl : Lad at First Sign of Puberty, 68, 303.
-Jtfin-go-yl : Seed-food, 111.
-Jtftn-yel : Grass-seed, 1 12.
-ktm-ta-A:2J-poo-roo : Boy at Full Puberty, 303.
-kun-ta-wwt-ra : Head-net, 1«8.
-ktin-ta-pS-ftn/7-0 : A Man Introcised, 68, 314.
-kun-tl. : Cementing-substance, 150, 257.
-Kurrajong-tree : For making Koolamons, &c, 148.
-kur-rftruj-ga : Boy at First Sign of Puberty, 68,
-
-Jtwo-kwa : Tribe, 45, 230.
-Kynuna, 48, 182, 230, 241, 257, 260.
-
-
-Labour, Pregnancy, &c, 328.
-
-Lake Machattie, 230.
-
-Lake Nash, 49, 149, 191, 231, 242, 272, 296.
-
-Lakes. See Diamantina Lakes.
-
-Language : Foul, Obscene, 238, 333 ; Pitta-Pitta
-
-Spoken, Ch. I. ; Expressed by Signs, Ch.
-
-IV. ; In Relation to the Trade-routes, 234.
-Large, Immense : Idea of Quantity and Size, 37,
-
-Later on, By-and-by : Idea of Time, 38.
-Laughing- jackass and the Black fello ws : Lore,
-
-Lavender-wood : For making Fire-sticks, 157.
-Law and Order, Maintenance of, 238.
-Leaves : For Playing at Smoke-spirals, 220 ;
-
-Graved on Boomerangs, 241; Heated and
-
-Applied for Head-ache, 285; Singed for
-
-Dancing, 193, 199.
-Leg, Shin, Ph. T., 52.
-Legends, Fables, Tales, Lore, &c, 200-212.
-Leichhardt River, 46, 122, 127, 252, 258.
-Leichhardt-Selwyn District: Aboriginals and
-
-Geographical Limits of, 46 ; Huts and
-
-Shelters in, 161 ; Rain-making in, 297 ;
-
-Edible Roots in, 115 ; Seed-food in, 112 ;
-
-Trade-routes of, 232.
-Leilavale, Aboriginal Name of, 226.
-Let, Allow, Permit : Special Forms of the
-
-Imperative Mood, 31.
-Letter-stick, 235-7.
-H-bl-ja-ra : Reed -s pear of the Cloncurry District,
-
-License, Poetical, 196.
-Licinetis nasica, Uorella, 139.
-Ligature: For Snake-bite, 280; For Vensesection, 283.
-Lightning and Thunder-making, 298.
-Lightning- stroke: Inflicted through Agency of
-
-Bone-apparatus. 270.
-Like to, Would : Special Forms of the Future
-
-Tense, 30.
-Lily, Water : Seeds Eaten, 111 ; Roots Eaten,
-
-Hm-bX-jd-koo-ltin. See mo-ma.
-Lines, Straight, Graved on Boomerang, 241.
-Liniment, 284.
-Linum margiimU, A. Cunn, See Flax.
-
-
-Lip, Mouth, Ph. T., 52.
-
-Little : Idea of Quantity and Size, 37 ; Ph. T., 57.
-
-Lizard : Ph. T., 53 ; S.L., 77-8 ; As Food, 122 ;
-Painted on Rock, 187.
-
-Lizard and Galah-parrot : Lore, 202.
-
-Locality : Expressed by Signs, 95-6.
-
-Long : Idea of Quantity and Size, 37.
-
-Long way off : Idea of Distance, &c, 39.
-
-Look-out For, To be After, To Hunt : Prepositions of Motion, 22.
-
-Lore* Legends, Tales, Fables, &c, 200-212.
-
-Loss of Memory, Forgetful ness, S.L., 103-4.
-
-Lot, Big Mob. &c. : S.L., 93-4 ; Numerals, 36,
-
-Louse, S.L., 83, 84.
-
-Love-birds ("Shell-backs," " Budgeregars ") :
-Trapping, 138.
-
-Love-charms, 325.
-
-ZaMca-rm : Mussel, 120.
-
-lurvj-& Iting-H : Fluted Boomerang, 239.
-
-lun-fcx-5r-gul : Fort Constantine, 226.
-
-
-wi(J-b&-n& : Wommera Reed -spear of Cloncurry
-
-District, 250.
-mS-chl-rantf-I-rul : Ulolo, 226.
-m&-choom-b& : Kangaroo, 53, 241.
-McKinlay : Aboriginal Name of Township, 226 ;
-
-McKinlay River : Aboriginal Name, 226.
-Macropus, S.L., 74.
-Maintenance of Law and Order, 238.
-m#-ka-bur-* : Fullarton River, 226.
-7/id-ke : Return-boomerang, 213.
-m#-k6r-a : Root, 114.
-ma-&#n-ye' : Emu-net Support, 131.
-ma-l&-jja: Yam, 114.
-Malaria, 262.
-
-rnd-U : Fishing-net, 55, 124-5, 241.
-Mammalia, S.L., 73-4.
-Man, Adult: Ph.T., 52; S.L., 89-90.
-Man's : Father-in-Law, 64 ; Mother-in-Law,
-
-Manufacture and Material of Boomerangs, 240.
-Manufacture : Of Flax-fibre, 153 ; Of Hair-fibre,
-
-Manufacturing, Constructing, Building, For :
-
-Prepositions of Purpose, &c, 24.
-Many, Much, 35, 36, 37.
-md-ra-bll-la. : Plain Boomerang, 239, 243.
-77i(?-re-& : Tomahawk, its Stone- head, 258. (
-ma-rf-mo : Hand-spear of the Boulia District, 247.
-Marion Downs, 45, 147, 153, 191, 214, 224, 228,
-
-ma-ro : Nulla-nulla, 256.
--ma-ro : Suffix Indicating Possession, &c, 8.
-Marriage, 61, 62, 71a, 6, c, 300, 305, 314-6, 320/,
-
-Marsilea, Nardoo : S.L., 86; As Food, 110.
-Marsupial-hunting, 143-5.
-Masonic Signs, 72.
-Massage, 283, 328.
-Masturbation, 333.
-
-Material and Manufacture of Boomerangs, 240.
-md-ti : Knot in a String, &c. , 131.
-May, Might, Perhaps : Special Forms of Future
-
-Tense, 30 ; Interrogation, 40.
-me : Eye, 52, 241, 275.
-Meadow-grass, Ph.T., 53.
-Means of, By, With, Through : Prepositions of
-
-Purpose, «c, 24.
-Measure : Of Distance, 39 ; Of Time, 38.
-Medicinal Plants, 287.
-Medicine-man. See Doctor.
-Melo. See White-shell.
-Memory, Loss of, Forgetfulness, S.L., 103-4.
-me-no : Vulva, 333.
-Menstruation, 331.
-Mental Disease, 278.
-me-puk-koo-re-& : Blindness, 275.
-
-
-UTDEX A2TD GL0S8ABY.
-
-
-w^f-ri-mo : Hand-spear of the Cloncurry District,
-
-meT-piil-VLmtmg-1 : Whirler, 215.
-Mesh-stick for Net, 131.
-Mesh of Woven Dilly-bags, 168.
-Messag e-stick. See Letter-stick.
-m£-wul-l& : Fluted Boomerang, 239.
-Micturition, Urine: Ph.T., 52; 274, 287, 289,
-
-Might, May, Perhaps : Special Forms of Future
-
-Tense, 30 ; Interrogation, 40.
-mi-koo-lun: Tribe Occupying Country between
-
-Canobie, Donaldson, and Chandos, 47, 233.
-mtt-ka : Tooth, 52, 166.
-mU-ti : Eye, 52, 218.
-
-Mimicking Animals and Birds, Game of, 221.
-flriftf-ka-ra : Nail, Claw, &c, 52, 182, 239, 241.
-ming-ko: Stick for Working-up Hair into
-
-Twine, 162.
-min-j5 : Toy Thro wing-stick, 214.
-*»fa-m& : Amulet, 286, 296.
-mln-ta-ra. See min-ma.
-inl-d)-ll: Tribe, 45, 52-7, 124, 228, 230, 241, 294 ;
-
-Letter-stick. 236 ; Psedomatrohym, 62.
-mi-tl : Girl at Early Puberty, 68, 305.
-t»i-rf«iO-rf : Fore-head Net, 169, 193, 233, 313-4.
-mi-ta-koo-dl: Tribe, 8, 47, 52-8, 61-4, 68, 72, 111,
-
-
-ml-ta-m2-k5 : Opossum-string Necklace, 180.
-tat-ub-bl : Tribe Extending from Donor's Hills
-
-to Canobie, across to the Eastern Side of the
-
-Leichhardt River, 47, 58, 61, 62 Table I.,
-
-ww-a: Chats worth, 226.
-mti-d-rf : Death-powder, 273.
-Mob, Lot, Big: Idea of Numbers, 36; Ph.T.,
-
-mo-ki-pX-#n0-o : Bogie-man, 277. Of. mo-ma.
-mfi-k3-mftr-d5 : Wild-rice, 86, 111.
-mtik-wd-ri : Pigeon-net, 137.
-m#£-l5-r5 : Mountain -top, 54, 241.
-Mollusc, Fresh-water : As Food, 120 ; S.L., 81-2.
-wtf-longa : Corrobboree, 187, 191, 199.
-«i5-ma: Ghost, &c, 104, 200, 289.
-mon-d-r5: Phallocrypt, 184.
-Monkira, 230, 236.
-Month, S.L., 97-8.
-moo-loo moo-loo : Yellow-ochre, 233.
-Moon: Ph.T., 54; Folk-lore, 211; S.L., 97-8;
-
-As Measure of Time, 38.
-moo-na : Fishing-net, 124, 233.
-Moonah Creek, 46.
-moo-na-mul-yd-rf: Opossum-string Necklace, 180,
-
-moon-d5-l5 : Belt, 183, 303.
-moong-k&-\&: Opossum-string Ornaments, 170-1,
-
-moon-ta-otf-la : Knife-sheath, 257.
-moon-t& moon-ta : Old Woman, 68, 314.
-Mooraboola, 45.
-
-woor-ra : Stick, Log, 43/, 289, 290.
-moor-ro" : Toy Throwing-stick, 214.
-moo-too-roo : Flash-out Mutilations, 186.
-Mordia variegata : Carj)et-snake, S.L., 78.
-Moribund, Sick, &c, S.L., 103-4.
-tntfr-ro" : Nulla-nulla, 256.
-Mosquito: Ph.T., 53 ; S.L., 83-4.
-Mother. 58, 59, 61, 63; S.L., 89, 90; Father's
-
-and Mother's, 58, 64.
-Mother's: Brother, 58-9, 63: Father, 58, 64;
-
-Sister,64.
-Mothers, Relationship between Husband's and
-
-Wife's. 64.
-Mother-in-law, 58, 64 ; How Treated, 326.
-Motion, Prepositions Denoting, 22.
-moit-ar : Death-powder, 273.
-Mount Datson : Aboriginal Name, 226.
-Mount Merlin, 2, 46, 191, 242.
-
-
-Mountain: Ph.T., 54; S.L.,87-8.
-
-Mountain Kurrajong-tree : For Making Shields,
-
-Mourning. See Burial.
-
-Mourning-scars, 289, 291.
-
-Mouth, Lip, Ph.T., 52.
-
-moy-d-rf : Death-powder, 273.
-
-mo#-er-jo : Green-room, 199.
-
-Much, Many, 35-7.
-
-Muckunda Creek, 45. 286.
-
-Mud : Dressing for Wounds, 284, 300 ; Sign of
-Mourning, 289, 291 ; Mud-pills, 288.
-
-Muddying of Water for Catching Fish, 126.
-
-Mulga (Acacia aneura, F. v. MT) : For Boomerangs 240 ; For Spears, 249 ; For Fighting-
-Poles, 255.
-
-mtU-ka, : North-west, 227.
-
-mul-kh-TX : Supernatural Being, 2Q7, 260-1, 269,
-
-Mullangera/48, 182, 233, 250, 253.
-
-m&Ma-rl : Armlet, 181.
-
-Mulligan River, 2, 45, 116, 118, 147, 154, 191.
-
-mul-tk : Bone-apparatus, 269.
-
-mul-th-vk. See min-ma.
-
-mun-da- : To Kill with the Death-bone, 259.
-
-mun-da-ifoo-S-a : Amulet, 286, 291.
-
-mung-&-\&\ Roxburgh, 226.
-
-mung-&-roo : Edible Root, 86, 113-5.
-
-Muugerebar. See Carlo.
-
-mung-gl\-ti : Death-powder, 273.
-
-mfin^-gun : Girl at First Sign of Puberty, 68, 303.
-
-niujiy-hn-1 : Bone-apparatus, 259, 291.
-
-intin-il : Flax, 153.
-
-7/m/i-na: Evil, Bad, 57, 289.
-
-mSn-ta-ba : South, 46, 227.
-
-Mural Paintings, 187.
-
-Murder, 238, 277.
-
-Murderer, Burial of, 290.
-
-rour-ra-foo-no : Nardoo-stone, 156.
-
-mur-uk-A:tfn-dI : A Member of the Highest
-Climanym, 68, 313, 315.
-
-Mushroom : As Food, 116.
-
-Music of Song : Corrobboree, 197.
-
-Mussel: S.L., 81-2; As Food, 120; Shell for
-Catching Pelican, 141 ; Shell for Cutting
-Grass for Necklaces, 179 ; Shell for Making
-Smoke-spirals, 220, 273.
-
-Must : Special Forms of the Future Tense, 30.
-
-Muster, Catching En jus by, 134.
-
-Mutilations : Flash-Cuts, 186, 299 ; Of Genitals
-(Introcision), 306; Fighting-scars, 238;
-Mourning-scars, 289, 291 ; Of Vocal Apparatus, 2 ; of little finger, 330.
-
-My : Personal Pronouns Possessive, 10.
-
-
-Nail, Claw, &c, Ph. T., 52.
-
-Names : Aborigional Geographical, 226 ; Deceased's not Forthcoming, 67; Family, 64;
-Personal, Individual, ana Pet, 67; Tribal, 60.
-
-nd-ra : Ear, 74, 104.
-
-na-ra-a-pa-rf : "Porcupine," 74.
-
-na-ra-poon-ga- : To Forget, 104.
-
-Nardoo: Seed-food, 110, 111; S.L., &5-6; On
-Letter-stick, 236.
-
-Nardoo-stone : Described, 155 ; For Crushing
-Ochre, 185 ; For Pounding Nardoo, 110.
-
-nar-pl : River-bank, 241.
-
-Native Companion {Grits amtralasianus), S.L.,
-
-Native Flax. See Flax.
-
-Nature, Objects of : Ph. T., 54 ; S.L., 87-8.
-
-Navel, Ph. T., 52.
-
-Navel-string, Treatment of, after Labour, 328.
-
-Neck, Ph. T., 52.
-
-Necklace: S.L., 91-2; Grass-reed, 179, 232, 300,
-302-5 ; Opossum-string, 180, 300.
-
-Needle, Netting, 124, 131.
-
-"Needle-Bush*: Timber for Making Spears, 960.
-
-
-INDEX AKD GLOSSABT.
-
-
-Negatives with Comparatives, 27.
-
-Neighbourhood and Direction, From : Prepositions of Motion, 22.
-
-Neighbourhood of, Close to : Ideas of Place,
-Distance, &c, 39.
-
-neMi : Prog, 121.
-
-nS-»w?-ka : Prog, 121.
-
-Nephew, 64.
-
-n£-ri-mo: Hand-Spear of Cloncurry District, 247.
-
-Net : Ph. T., 55 ; For Huntiug Pish, 124, 232-3 ;
-For Trapping Small Birds, 138 ; For Catching
-Kangaroo, 145, 147 ; S.L., 86, 91-2 ; Forehead, 168, 193, 233 ; Head, 168 ; For Catch-
-ing Emus 131-2, 145.
-
-Netting Needle, 124, 131.
-
-ng-yd : Yam, 115.
-
-Niangiangi, 236.
-
-Niece, 64.
-
-Night: Idea of Time, 38; Ph. T.,54; S.L.,97-8.
-
-ntf-pa: Water-bag, 152.
-
-nt-ning-hi-ni : Male of the Third Degree, 68, 315.
-
-wln-ma-roo : A Hill neighbouring on Mount
-Datson, 226.
-
-No ! : Notes of Exclamation, &c, 41 ; S.L., 103-4.
-
-Nomenclature, Aboriginal Geographical, 226.
-
-Nomenclature, Social and Individual, Ch. III.
-
-Nominative Case : Of Nouns, 11 ; Of Personal
-Pronouns, 5 ; Of Relative Pronouns, 34.
-
-Non fatal Snake-bite, Treatment of, 280.
-
-Non-indigenous Spears, 252.
-
-Noose, Slip- : For Catching Ducks, 140 ; For
-Turkev-bustards, 136.
-
-no-po : Official Wife, 323.
-
-Noranside, 45, 232, 241, 254, 257, 273, 294.
-
-n#?'-lo : Water-bag, 152.
-
-Normanton, 182, 187, 233, 252 3.
-
-North, North-east, North-west, 227.
-
-Northern Territory, 191, 316.
-
-North- West-Central Queensland, Geographical
-Limits of, 50.
-
-Nose, Ph.T., 52.
-
-Nose- pin, 175.
-
-Nostril, Ph.T., 52.
-
-Notation : Decimal and Dual, 4.
-
-Notes of Exclamation, 12, 41.
-
-Nouns : Adjectives used a*, 20 ; Dual, 15 ;
-Gender, 1 ) ; Nominative, 11 ; Objective, 14;
-Possessive, 13 ; Plural, 15 ; Vocative, 12.
-
-wow-un : Tribe, 48, 182, 233, 253.
-
-Now : Idea of Time, 38.
-
-Nulla-nulla : Described, 256 ; Bartered, 232.
-
-Number. 4; S.L., 93-4.
-
-Numerals, 36 ; Ph.T., 56 ; S.L., 93-4.
-
-nSn-tfe-rif : Slip-noose, 140.
-
-Nut-grass : As Food, 113, 115 ; S.L., 86.
-
-
-Objective Case: Of Nouns, 14; Of Personal
-Pronouns, 6, 7 ; Of Relative Pronouns, 34.
-
-Objects of Nature, Ph.T., 54; S.L., 87-8.
-
-o-bb-roon-dt : Tribe met with along Lower Leichhardt River, 46.
-
-Ci-Mn-jY : Female of Second Degree, 68, 312.
-
-Obscene Language, 238, 333.
-
-Obtained or Received, From : Prepositions of
-Purpose, Reason, Means, 24.
-
-Ochre, 193, 231 ; Red, 170, 174, 185, 187, 215-6,
-306 ; Yellow, 174, 185, 217, 230, 233, 254, 289,
-
-Off, Far, Far Away, From : Idea of Distance, 39.
-
-Off ! Ready ! : Notes of Exclamation, 41.
-
-Old Men, Authority of, 238.
-
-o-lun : Shear-blade, &c, 149.
-
-6n-da-r(xm-do : Eddington, 226.
-
-One, Unity, &c. : Numerals, 36; Ph.T., 56; 61.
-
-On Top of, Above : Prepositions of Rest, 23.
-
-ool-\6 : Bee, 118.
-
-oo-loo-poo-loo : Tribe, 45, 230, 270.
-
-oon-da- : To Grease, To Smear, 283.
-
-
-oo-ra-dll-la : Hook -boomerang, 239.
-
-Oorindimindi : Station on lullarton River (old
-name=Rockcliff), 187.
-
-oo-ro-ka : Emu-apple, 117.
-
-oo-ro-lo : *' Black Mountain," Cloncurry, 226.
-
-oo-ta-roo : Gamoraatronym, 61.
-
-Opossum: Ph.T., 53; S.L., 73-4; Hunting for,
-141 ; -Skin for Setting Fractures, 281 ; -Skin
-Water-bags, 152; -String, 153, 162, 230-1,
-257-9, 286, 296, 300, 302, 328 ; -String Belt,
-183 ; -String Necklace, 180, 300 ; -Tooth, 241,
-
-Opossum : And Galah- parrot (Lore), 212 ; And
-Wild-cat (Lore), 203.
-
-Or: Conjunctions, 26.
-
-Orange, Wild- {Atalantia glauca, Hook.) : As
-Food, 117; S.L., 85-6; Wood used as Firestick, 157.
-
-Order and Law, Maintenance of, 238.
-
-Ornament and Decoration, Bodily, Ch. VII.
-
-Ornaments : S.L., 91-2 ; Of Chest, 182 ; Of Face,
-174 ; Of Head, 163; Tooth, 166.
-
-Ornate Boomerang, 241.
-
-Oryza sativa y Linn. (Wild Rice), 111.
-
-Ostracism, Exile, 238.
-
-Other Side of, Behind : Prepositions of Rest, 23.
-
-Oval G ravings on Boomerangs, 241.
-
-Oven, Baking, 156.
-
-Over, Across : Prepositions of Motion, 22.
-
-o-?w-a: Lad at First Sign of Puberty, 68, 302.
-
-Oicenia acidula, F. v. M. (Emu-apple), 117, 132.
-
-Owl-feathers, White, 193.
-
-
-Paddy melon : S.L., 73-4 ; Skin Water-bags, 152.
-
-Paedomatronym, 62, 305, 320.
-
-Pain?, Internal : How Treated, 283, 286.
-
-Painting: Of the Body, 185; Mural-, 187.
-
-/)a-jg-ra : Gidyea.239, 243.
-
-/wt-koo ta : Two, Dual, 61.
-
-fMl : Bush- fence, 304.
-alisaHing and Net for Catching Emus, 132.
-Palm Isles, 70.
-pd-mt-t^-ra : Crocodile, 122.
-Panieum dtconiposUum. R.Br. ("Star"-gra88)j
-
-Pantomime, Corrobboree, 190.
-p(ip-])&: Seed-food, 105.
-pd-rk-go: Corpse, White man, 291, 298.
-pa-ra pl-./tfr-I : Parapituri, 207, 226, 230.
-pd-ro : Yellow-ochre, 233.
-Parrot, Galah-: Ph.T., 53; S.L.,75-6; Hunting
-
-for, 139 ; And the Lizard (Lore), 202 ; And
-
-the Oi)ossum (Lore), 212.
-p&-r#n-da : Fluted Boomerang of Bedouri, &c.,
-
-Participles, 42.
-
-Parts of Body, Words relating to, 52.
-Pass-port, Letter-stick, 235.
-Past Tense : Verbs Active Indicative, 17.
-»(f-ta\ See Gypsum,
-ratronym, 60.
-Pea : As Food 117.
-Pearl : Phallocrypt, 184, 199 ; -Plate, 272 ; -Shell,
-
-pe-?w.r/-boo na : Return Boomerang, 213.
-Peg, Barb, Hook, &c. : On Spears, 249, 250 ;
-
-Wommeras 253.
-joe-je : Mussel, 120.
-pe-ko: Claw Chest-ornamtnt, 182.
-«jj-kool: Crayfish, 119.
-Pelican {PcHcanus cons}u'ciUatvs): S.L., 75-6;
-
-Hunting for, 141; -Feather Tufts, 164;
-
--Bone Nose-pin, 175; As Intermediary with
-
-Death -bone, 270.
-Penis: Ph.T., 52; -Concealer. See Phallocrypt.
-Penny-royal Plant : Used Medicinally, 287.
-Peraaale layotis, Reid. See Bilbi.
-per-ch& : Peg, Hook, Barb, 249, 253.
-Perfect Participle, 42.
-
-
-INDEX AND GLOSSABT.
-
-
-Performance of Corrobboree, Time of, 189.
-
-Performers at Corrobboree, 192.
-
-Perhaps, Might, May : Special Forms of the
-
-Future Tense, 30 ; Interrogation, 40.
-Permit, Allow, Let : Special Forms of the
-
-Imperative, 31.
-Person : Person from, 22 ; Proximity to, or
-
-Remoteness from, person Commanding, 31 ;
-
-Inflections of Third Person, 4.
-Persons, or Things : Between, 23 ; With, 22.
-Personal Individual Name, 67.
-Personal Pronouns : Interrogative, 35 ; Nominative, 5 ; Objective, 6, 7; Possessive, 10.
-Perspiration : Induced: for .Relieving Snake-bite,
-
-280 ; As a Liniment, &c, 283, 328 ; Disguised
-
-with Earth in Emu-hunting, 135.
-oe-ta-btir-I : Water-lily, 113.
-Phallocrypt, 184, 193, 199, 310.
-Philas Johnstonii (Fresh-water Crocodile): As
-
-Food, 122.
-Piercing : Of Ear, 175 ; Of Nose, 176.
-Pigeon. See Flock-pigeon.
-Pig- weed (Portulaca oleracea t Linn.) : S.L., 85-6 ;
-
-As Food, 109, 111, 112; Rubbed into the
-
-Flash-cuts, 186.
-j)l-ka-bur-ra : Pillow-drum, 198.
-PHI : Clay, Mud, 288.
-Pilliou Creek, 45.
-Pillow-drum at Corrobborees, 198.
-£)t-mur-r& : Cloncurry Township and River-hole,
-
-Pin, Bone-, for Producing Sickness, &c, 274.
-Pin, Nose-, 175.
-Pine for Shafts of Spears, 249.
-plng-k&-r&: Eagle-hawk Feather Ornament,
-
-pi-tt~}o-r6ng-o : Smoke-spiral Game, 220.
-pUxiplrtii Whirler, 215.
-Pit-falls for Catching Emus, 133.
-ptt-tapW-ta: Tribe, 45, 52-8, 61, 63-4, 68, 72, 152,
-
-
-294, 305, 310, 317 ; Number of Aboriginals, 45 ;
-
-Names of Boomerangs, 239 ; Food Tabooed,
-
-62; Individual and Social Nomenclature,
-
-58, 61-4, 67, 68; Genealogical Tree, 65;
-
-Letter-sticks, 236 ; Root-stems of Words, 43 ;
-
-Spoken Language, Ch. I. ; Vocabulary, 44.
-Pit-throwing Game, 223.
-Pituri(Z)a6owa,R.Br.): Ph. T.,53; S.L.,85-6;
-
-Preparation, &c, 147 ; Bartered, 230-2 ;
-
-Letter-stick for, 236 ; -Plate, 170, 253.
-Place, Direction, and Distance: Ideas of, 39;
-
-Place or Person, Direction from : Prepositions
-
-of Motion, 22.
-Plain Boomerang, 243.
-
-Plants: Ph. T., 53; S.L., 85-6; Medicinal, 287.
-Plaster, White. See Gypsum.
-Plate : Pearl, 272 ; Pituri, 253.
-PlatyUa ("Spoon-bill "), S.L., 76.
-Plot and Authorship of Corrobboree, 190.
-Plural of Nouns, 15.
-Poetical License, 196.
-Points of the Compass, 227.
-Poisoning Water for Catching Fish, 126.
-po-kan-Y/fid-ye' : Penny-royal, 436, 287.
-Pole, Fighting : Ph. "T., 55; Described, 255;
-
-Bartered, 232-3; S.L., 91-2.
-Pollygammon Creek, 236.
-poo-cho poocho : Spin-ball, 216.
-poo-&S-tI-ka : Wattle, 436, 147.
-poon-jo : Grass-seed, 112 ; Hair of Head, 43c,
-
-poor-pA-lS : Claoping of Hands, 198.
-poo-ta poo-ta : White-gum Tree, 239, 240.
-po-p6-}6 : Spin-ball, 216.
-Porcupjne (Echidna hystrix): Ph. T., 53; S.L.,
-
-73-4 ; Hunting for, 143 ; And Eagle-Hawk
-
-(Lore) 208.
-Porcupine-grass for Making Cementing-substance, 150.
-Pornography, Ethno-, Ch. XIII.
-
-
-ptfr-rf : Nardoo-stone, 155.
-
-Portulaca napiformis, F.v.M., 111. (P. oleracea,
-
-Linn. See Pigweed. )
-Possession, Sign of : Auxiliary Verbs, 8.
-Possessions, Property, Belongings, 36, 43.
-Possessive : Nouns, 13 ; Personal Pronouns, 10 ;
-
-Relative Pronouns, 34 ; Secondary, 10.
-Post, Finger, 225.
-Poultice, 285.
-
-Pounding-stone for Nardoo, 155.
-Powder, Death, 273.
-Pregnancy, Labour, &c, 328.
-Preparation of Birds for Eating, 142.
-Prepositions: Of Motion, 22; Of Purpose,
-
-Reason, Means, 24; Of Rest, 23; Of Time,
-
-Present Tense, 17.
-prll-fo: Peg, Hook, Barb, &c, 250.
-prll-llng-Z : Whirler, 215.
-pHn-na : Hut-scaffolding, 159 ; Leg, 52.
-Pronouns : Interrogative, 35 ; Personal, 5-7, 10 ;
-
-Relative, 34 ; Verbal, 18.
-Pronunciation, 3.
-
-Property, Possessions, Belongings, &c, 36, 43.
-Proximity to Person Commanding: Special
-
-Forms of the Imperative, 31.
-Puberty, 800, 303-5, 307, 320p.
-"Puddling" Water for Catching Fish, 126.
-ptik-ka- : To Incise, Cut, Grave, &c, with a
-
-Chisel, 149, 275.
-ptik-kang-l : Chisel, 149.
-pUJe-kll : Vulva, 333.
-piin-dl-r& : Sweetheart, Wife, " Fancy "-woman,
-
-Punishment, Law and Order, Ch. X.
-Punishment: Belief in Death as a Natural
-
-Punishment, 279 ; Of Men by Women, 310.
-
-?#r-go-ma : Tribe, 70.
-'urpose : Definiteness of Action, or Special, 33.
-Purpose, Reason, Means : Prepositions Denoting,
-
-
-Quamby, 228, 328.
-
-Quantity and Size : Ideas of, 37.
-
-Quartz, White : For Tipping Spears, 251 ; For
-Making Rain, 294-5.
-
-Quartz-tip Wommera Reed-spear, 251.
-
-Queensland, Geographical Limits of North-West-
-Central, 50.
-
-Question, Interrogation, &c, 40; S.L., 99-100.
-
-
-Radish as Food, 113.
-
-Rain-making: In Bonlia District, 294; At
-Headingly, Lake Nash, &c, 296 ; In Leichhardt-Selwyn District, 297 ; At Roxburgh,
-
-Rank, Degrees of Social, 68, 299.
-
-Rape : Punishment for, 327 ; Blindness as a
-Punishment for, 275.
-
-Rat: S.L., 73-4 ; Coursing, 222.
-
-Ready ! Off ! Notes of Exclamation, 41.
-
-Reardon, Mr., of Mungerebar, 147.
-
-Reason, Purpose, Means : Prepositions Denoting,
-
-Received or Obtained, From : Prepositions, 24.
-
-rc-chm-dl : Blood wood-tree, 287.
-
-Recreation, Sport, Amusement, Ch. VIII.
-
-Red-ochre. See Ochre.
-
-Red-tit and Brown-tit : Lore, 206.
-
-Reed-necklace. Sec Grass-reed Necklace.
-
-Reed-spears, 250, 251.
-
-Reflexive Verbs, 32.
-
-Reiteration of Command Already Given : Special
-Forms of the Imperative, 31.
-
-Relationship, Equivalence of Blood- and Class-,
-
-Relationship-equivalents, Aboriginal and European, 66.
-
-
-tJTDBX AND GL08SABY.
-
-
-Relationship-terms, Family: Ph.T., 58; S.L.,
-89, 90 ; Heteronyms, 63 ; Geneanyins, 04.
-
-Relative Pronouns, 34.
-
-Remoteness from Person Commanding : Special
-Forms of the Imperative, 31.
-
-Reptiles, S.L., 77, 78.
-
-Request, Demand, S.L., 101-2.
-
-Rest, Attitude of Bodily, 195.
-
-Rest, Prepositions of, 23.
-
-Return -boomerang, 213w
-
-Rice, Wild ; as Food, 111, 112; S.L., 86-6.
-
-Richmond Downs, 48.
-
-Right ! Right You Are ! Notes of Exclamation,
-
-rlng-G rtw(jr-5 : Tribe, 45.
-
-Rite, Start'* Terrible, 316.
-
-River : Ph.T., 54 j S.L., 87-8; Aboriginal NameB
-of Various Rivers, 226.
-
-Road, Signs and Signals on the, 225.
-
-Roarer. See Whirler.
-
-Rochdale, 230-1.
-
-Rock. Ph.T., 54.
-
-Rocknampton Class- Systems, 70d.
-
-"Rockies": Waterhole on Burke River, Aboriginal Name of, 226.
-
-ro-k5-r5 : Claw-mark, Scratch, &c, 239.
-
-Room, Corrobboree Dressing-, 194.
-
-roongr-ka-ren : Short Single-handed Sword, 253.
-
-roong-kb-rl: West. 46, 227.
-
-Roots, Edible: In Boulia District, 113; In
-Cloncurry District, 114; In Leichhardt-
-Selwyn District, 115.
-
-Root-stems of Pitta-Pitta Words, 43.
-
-Rope, Skipping, 217.
-
-Rosella-plant : Decoction made for Coughs and
-Colds, 287.
-
-Rose-wood for Making Spears, 247.
-
-Round, Round-about : Motion, 22 ; Rest, 23.
-
-Routes, Trade- : In Boulia District, 230 ; In
-Cloncurry District, 233; In Upper Georgina
-District, 231; In Leichhardt-Selwyn District, 232 ; and Letter-sticks, 235 ; 229.
-
-Roxburgh Downs, 49, 61-2, 118, 133, 135, 138-9,
-253-4, 289, 292-3, 301, 309, 320, 328 ; Aboriginal Name, 226 ; Rain-making at, 295.
-
-Ruddle. See Red-ochre.
-
-rtik-ifci-a: Tribe, 45, 230.
-
-Rules of Marriage, 62, 71, 326.
-
-Run ! S.L., 101-2.
-
-Running the Gauntlet, 238.
-
-rting-5 Hbng-6 : Tribe, 45.
-
-
-St. Albans, 230.
-
-Sand, Counting in the, 36.
-
-Sand-fly, S.L., 83-4.
-
-Sandringham, 2.
-
-Satchel. See Dilly-bag.
-
-Saxby River. 48.
-
-Scar : Fighting, 186, 238 ; Flash, 186 ; Generative, 316 ; Mourning, 289, 291.
-
-Scarce : Number, 36.
-
-Scarification in Snake-bite, 280.
-
-Search for Food, Ch. V.
-
-Secondary Possessives, 10.
-
-Seed-food: S.L.,85-6; In Boulia District, 105-10;
-In Cloncurry District, 111 ; In Leichhardt-
-.Selwvn District, 112.
-
-Seek, Hiae-and-, Game, 219.
-
-Selected Words, Tabular Comparison of, Ch. II.
-
-Self : Reflexive Verbs, 32.
-
-Semen, Drinking of, 283, 305.
-
-Sevannah, 251.
-
-Shag. See Diver-bird.
-
-Shaking Hands, 228.
-
-Sharpener, Flint-, for Spears, &c, 253.
-
-Sheath. Knife-, 267.
-
-Shell: Mussel-. 141, 179, 220; Pearl-, 231; White,
-
-Shelters. See Huts.
-
-
-Shield : Ph.T., 55; S.L., 91-92; Described, 254 ;
-
-Similar Materials, &c, as Koolamons, 148;
-
-Bartered, 230, 232-3.
-Shin, Leg, Ph.T., 52.
-Shirts, Bartered, 230- 1.
-Shoulder, Ph.T., 52.
-Shuttle- gravings on Boomerangs, 241.
-Sickness, Death, Accident, Ch. XI.
-Sickness, Sick Person, &c., S.L., 103-4.
-Sign-language, Ch. IV.
-Sign 8 and Signals on the Road, 225.
-Silence, S.L , 101-2.
-Similarity, Adjectives Denoting, 27.
-Since, Tune When : Prepositions of Time, 25.
-Singed Leaves for Dancing, 193, 190.
-Singing: S.L., 101-2 ; Corrobboree, 196; Dirges
-
-&a, in Sickness, 265, 275, 282.
-Singular Number, 4.
-Sister : S.L., 89, 90; 58, 59, 63 ; Father's, 56, 59,
-
-63 ; Mother's, 64 ; Sister-in-law, 58, 59, 63 ;
-
-Sister's Daughter, Son, 58, 64.
-. Sit Down ! Stay! S.L., 101-2.
-Size and Quantity, Ideas of, 37.
-Skipping-rope, 217.
-Sleep, S.L., 101-4.
-Slut, Ph.T., 52.
-Small, Diminutive : Ideas of Quantity and Size,
-
-Smearing of Body: With Blood, 283; With Fat,
-
-Smoke : -Signals, 225 ; -Spirals, 220.
-Snake: Ph.T., 53; S.L., 77-8; As Food, 123;
-
-Fatal Bite, 269; Non-fatal Bite, 280; -Fat,
-
-284 ; -Neck Tendon, 250 ; Snake and Fish
-
-(Lore), 205.
-Soap-stone : For Making Rain, 297.
-Social and Individual Nomenclature, Ch. III.
-Social Rank, Degrees of, 68, 299.
-Sodomy, 333.
-Son : Son's Son and Daughter, Brother's and
-
-Sister's Son, 58, 64.
-Son-in-law, 64.
-
-Song, Corrobboree: Music of, 197; Words of, 196.
-Soon : Ideas of Time, 38.
-Sounds, Consonant and Vowel, 3.
-South, South-east, South-west, 227.
-Spear: Ph.T., 55; S.L., 91, 92; Described. 246 ;
-
-Bartered, 230-3; Fighting with, 238 ; Hand-,
-
-247. 248; Wommera, 249, 250, 251 ; Method
-of Throwing, 247, 250, 253 ; Non-indigenous,
-252; For Special Purposes, &c, 127, 135,
-
-248, 250 ; Sharpened with Flints, 253.
-Special Purpose, or Definiteness of Action, 33.
-Spider, Ph.T., 53.
-Spin-Ball : Game, 216.
-Spinifex-grass {Triodia, R. Br.) See Cementingsub8tance.
-
-Spiral-band, Head- ornament, 172.
-
-Spiral, Smoke : Game, 220.
-
-Splints for Fractures, 281.
-
-Spoken Language of the Pitta-Pitta Tribe, Ch. L
-
-Spoon-bill {Platylea), S.L., 75-6.
-
-Sporobolu8 y R. Br. : S. actinocladus, F. v. M., 107 ;
-S. indicus, R. Br., Ill ; S. Lindleyi, Benth.,
-
-Sports, Games, Recreation, Ch. VIII.
-
-Spring, Water-, S.L., 87-8.
-
-Springvale, 2, 45, 147, 154, 182, 191, 228, 230,
-236, 241-2, 254, 257, 294 ; Aboriginal Name,
-
-Sprite, Water-, S.L., 104.
-
-Star, Ph.T., 54.
-
-"Star-grass" {Eleuaine cegytiaca, Per*.): Seedfood, 106, 11L
-
-States, Acts, Conditions, Simple, S.L., 101-2.
-
-Stay ! Sit Down ! S.L., 101-2.
-
-Stenocarptts salignus, R. Br. (Beef wood-tree), 150.
-
-Stick: Fire-, 157; For Working Hair-twine,
-162 ; Letter or Message, 235 ; Toy Throwing,
-214; Thro wing-stick (Nulla-nulla), 256;
-Whirling, 215; Yam, 158.
-
-Stick and Ball : Game, 216.
-
-
-DTDEI A1TI) 6£098ABY.
-
-
-Stomach-ache, Treatment of, 282, 286.
-
-Stone: Ph.T., 54; Green-, for Tomahawks, 258;
-
-Grind-, 154 ; Nardoo-. 155 ; Rain-, 43, 294 ;
-
-Throwing Stones in Fighting, 238.
-Stone-knife. See Knife.
-Straightening and Bending of Timber, Artificial,
-
-Straight Lines : Gravings on Boomerangs, 241.
-String. See under Opossum, Flax, Hair.
-Strychnine, 273.
-Sturt, Captain: Masonic Signs, 72; Terrible
-
-Rite, 316.
-Suckling Infants, 330.
-Suction in Snake-bite, 280.
-Sodden Disappearance : How Explained, 277.
-Sugar-bag. See Honey.
-Sun: Ph.T., 54; S.L.,97-8; Measure of Time,
-
-38 ; Measure of Distance, 39.
-Superlative of Adjectives. 27.
-Superstition and Belief, Ch. XL
-Swapping, Bargaining, Exchanging, For: Prepositions of Purpose, Reason, &c., 24.
-Sweat. See Perspiration.
-Sweetheart, Fancy-woman, &c., 64, 323.
-Swim, S.K, 101-2.
-Sword : Wommera Acting as Single-handed,
-
-253 ; Two-handed, 238, 245.
-Syphilis, 262, 274.
-Systems, Glass-, Ch. III.
-
-
-Table-top Mountain, Cloneurry: Aboriginal
-Name of, 226.
-
-Tabooed Food, 626.
-
-Tabular Comparison of Selected Words, Ch. IL
-
-tdAsjSM: Head-ornament, 173, 193, 310.
-
-Tales, Fables, Legends, Yarns, 200-212.
-
-td-M : Hut-scaffolding, 160.
-
-tal-\6 : Seed-food, 111.
-
-tan-d& : Yam-stick, 158.
-
-Tanning: With Blood- wood Gum, 152.
-
-fcfc-poon : Spear, 253.
-
-ta-r$-k5 : Bull-frog, 121.
-
-fcS-roo-roo : Timber (TGidyea), 239.-
-
-Tata ! Good-Bye ! Notes of Exclamation, 41,
-
-£?-di-boo : The 5-mile Yard from Boulia on the
-Marion Downs Road, 236.
-
-Tendon for Binding : Emu-leg, 250 ; Kangarootail, 250 ; Snake-neck, 250.
-
-ten-gttl-d-goo-lttn : Supernatural Being with Big
-Eyes and Ears, 260.
-
-Tense : Verbs Active, Indicative, 17.
-
-Tephrosia astragaloides, R. Br.: For Poisoning
-Fish, 126.
-
-t#-ra : Hut-entrance, 159.
-
-#-rf: " Pointer * Portion of the Bone-apparatus,
-
-#-rf-w&: East, 227.
-
-Terrible Rite, Start's, 316.
-
-Testicle : Ph. T., 52 ; -Pouch Made into Knifehandle, 257.
-
-Thanks 1 Notes of Exclamation, 41.
-
-The : Indefinite Article, 9.
-
-There, Thither: Ideas of Place, Direction, &c.,
-
-Thigh,' Ph. T., 52.
-
-Things or Persons : With, 22 ; Between, 23.
-
-Third Person, Inflections of the, 4.
-
-Thither, There : Ideas of Place, Direction, &c,
-
-Thomson River, 147, 230.
-
-Thorn in Foot, &c. : Due to Bone-apparatus, 270.
-
-Thread. See String.
-
-Three: Numerals, 36; Ph. T., 56
-
-Through, Up, Alongside, Amoog : Prepositions
-of Motion, 22.
-
-Through, With, Agency of : Prepositions of
-Purpose. Reason, Means, 24.
-
-Throwing-stick. See Nulla-nuila. Toy, 214.
-
-Thumb, Ph. T., 52.
-
-
-Thunder and Lightning Making, 298.
-
-tf-6i-rf-pul : Grenada, 226.
-
-til-2/d-rI : Emu-feather Ornament* 183, 193.
-
-Timber, Artificial Bending and Straightening
-
-Time: S.L., 97-8; Ideas of r 38; Prepositions
-Denoting, 25; Beating of Time at Corrobboree, 198.
-
-tXn-d&: Water-lily, 114.
-
-tfn-dfl: Seed-food, 111.
-
-tln-}&: Graving on Weapons to Prevent Hand
-Slipping, 241, 255, 256 ; Post to Support the
-Emu-net, 131.
-
-tln-jEn-na : Phallocrypt, 184.
-
-tln-kz tin-kl : Tribe, 45, 230.
-
-tln-ti : Vulva, 52, 236.
-
-tl-»flrar-a-ra: North, 227.
-
-tf-pa-d5 : Flash-cut Mutilations, 186.
-
-Tit, The Red and Brown : Lore. 206.
-
-Ti-tree {Cordyline, Cbmm.): Blossoms Sucked,
-118; Bark Envelope, &c, 291, 330.
-
-Titular Rank. See Social Rank.
-
-To, At : Prepositions of Motion, 22.
-
-To, Donation to : Prepositions of Purpose,
-Reason, &c, 24.
-
-Tobacco, 147.
-
-Tocal, 230.
-
-To-day : Ideas of Time* 38.
-
-Toes : Big and Little, Ph. T. % 52.
-
-Toes, Fingers, Hands, Counting with, 36.
-
-Together, Collectively, With : Conjunctions, 26;
-Numerals, 36.
-
-eo-ko : " Nut-grass " Root, 115*
-
-Toko Ranges, Water-hole, &c, 49, 154, 187, 191,
-
-Tomahawk: S.L., 91-2; Described, 258;
-Represented in Mural Painting, 187.
-
-To-morrow : Ideas of Time, 38.
-
-Tongue, Ph.T., 52.
-
-Too, Also : Conjunctions, 26.
-
-too-i-rbn : Medicine-man, Doctor, 259, 260.
-
-foo-chg-ra : South-east, 227.
-
-Tooleybuck. 2, 45, 113, 147, 236.
-
-foo-lum-bool : Water-lily, 111, 114.
-
-toong-g& : Phallocrypt, 184.
-
-toong-g&-ro : Beef -wood Gum, 150.
-
-Toorikungora, 230.
-
-too-ii too-rfl : Skipping-rope, 217.
-
-toor-km-j8 : Fire-stick, 157.
-
-too-roo-ka, too-rooJ-ka : Mussel, 120.
-
-foo-ta : Tephrosia astraoaloides, R.Br., 126.
-
-Tooth : Ph.T., 52; Avulsion of, 177, 299; Grounddown Appearance of, 105 ; Kangaroo Tooth
-ornament, 166.
-
-Top of, Above, On : Prepositions of Rest, 23.
-
-Totemic Systems, Ch. III.
-
-tou-e-mul-£e-&: Indicative Present of Reflexive
-Form of tou-e=to hit, &c., 216.
-
-tou-er-«-la : Fort William, 226.
-
-fcra-er-li: Receptacle-portion of the Bone-apparatus, 259.
-
-Townships, Stations, &c. : Aboriginal Names of,
-
-Toy Throwing-stick ? 214.
-
-Tracking and Spearing Emus, 135.
-
-Tracks, Birds' and Animals': Playing at Imitating, 221.
-
-Track-signals, 225.
-
-Trade-routes, 229 : In Boulia District, 230 ; In
-Cloneurry District, 283; In Upper Georgina
-District, 231 ; In Leichhardt-Selwvn District,
-232 ; Important in Connection with Beliefs,
-Customs, and Language, 234.
-
-Transitive and Intransitive Verbs, 18, 32, 33.
-
-Transport of Fish, 129.
-
-Travel, Trade, and Barter, Ch. IX.
-
-Treading with Feet for Catching Fish, 128.
-
-Tree-burial, 292.
-
-Tree-falling : An Injury Inflicted by the Boneapparatus, 270.
-
-Tree, Genealogical, of the Pitta-Pitta Tribe, 65.
-
-Trefoil, as Food, 117.
-
-
-INDEX AND GLOSSAET.
-
-
-Tribal-name, 60.
-
-Tribes: Boinji, Dungadungara, 45; Goa, 48;
-
-Injilinji, 4(5; Jounn, 70; Kalkadoon, 40;
-
-Karanya, 45 : Karunti, 233 ; Koonkoolenya,
-
-Kwokwa, 45; Mikoolun, 47; Miorli, 45;
-
-Mitakoodi, Miubbi, 47; Nouun, 48; Oboroondi, 46 ; Ooloopooloo, 45 ; Pitta-Pitta, 45 ;
-
-Purgoma, 70 ; Ringo-Ringo, Rukkia, Rungo-
-
-Rungo, Tinka Tinki, and Ulaolinya, 45;
-
-Undekerebina, Walookera, 49 ; Weelko, 45 ;
-
-Wominin, 48 ; Wonkajera, 45 ; Woonamurra, 48 ; Workia, 191 ; Workoboongo, 46 ;
-
-Yaroinga, 49, Yellunga, 45; Yerrundulli,
-
-182 ; Yunnalinka, 49 ; x unnateunnea, Yuntauntaya, 45.
-Trichoglossus vulpecnla. See Opossum.
-Triodia: "Spinifex," "Porcupine" Grass, 250.
-Trough. See Koolamon.
-Truffle : As Food, 116.
-Tube, Call-, for Catching Emus, 132-3.
-Tuft, Feather-, Ornaments, 164.
-JfiZ-lo-un : Huge Supernatural Water-snake, 260.
-6ftm-ba-ra : Hand-spear of the Boulia District,
-
-$#n-doo-roo-la : Hand-spear of the Goa Tribe,
-
-££n-g&-ra : Seed-food, 111.
-Turkey-bustard: S.L., 75, 76, ia5; Feather-tuft,
-
-164 ; Nose-pin, 175 ; Hunting, 136.
-Twine. See String.
-Two: Numerals, 36; Root-stoms, &c.,43; Ph.T.,
-
-Two-handed Sword, 245.
-
-
-u-ka-ta : Species of Rosella Plant, 287.
-
-u-la-o-Hn-ya : Tribe, 45, 52-7, 72, 147, 305, 309.
-
-u-M-rf : Amulet, 286.
-
-ul-Ja-«k-a: Girl at First Sign of Puberty.
-
-ul-Z5-d& : Fluted Boomerang, 239.
-
-Ulolo, Aboriginal Name of, 226.
-
-u-Wr-a : South-west, 227.
-
-itmb-b£ : Woman at Full Puberty, 68, 306.
-
-Umbilicus, Ph.T., 52.
-
-Uncertainty, Doubt, Interrogation, Ideas of, 40.
-
-Uncle, 64.
-
-#n-d8-kS-r6-bX-na : Tribe, 49, 52-7, 72, 231, 234,
-
-Under, Below, Beneath : Prepositions of Rest,
-
-tin-do : Girl at First Sign of Puberty, 68, 307.
-
-#n-dul : Water-lily, 114.
-
-ung-gub-pl-ja-ul-re-a : Return Boomerang, 213.
-
-un-w#n-jfi : Whirler, 215.
-
-nn-na-fc#d-y8 : Hut, 159.
-
-un-/w-dup-It-#p-pa : Spin-ball, 216.
-
-#w-tT-tI-rt : Two-handed Sword, 245.
-
-Up, Through, Alongside, Among : Prepositions
-of Motion, 22.
-
-#»-poo-la-ra : Head-circlet, 171.
-
-Urandangie, 49.
-
-Urine. See Micturition.
-
-ur-(7oo-t& : Lad After the First Initiation Ceremony, 68, 301-2, 318.
-
-Uroaltus audax : Large Eagle-hawk, S.L., 76.
-
-fi-xo : Fully-developed Adult Man, 314.
-
-il-ro-do : Human-hair Belt, 183. (Cf. u-ron-goow-ro-mo-ko : North-east, 227.
-
-u-ron-#oo-to : Circular Mark, 199. (Cf. u-rungoo-doo.)
-
-ur-ruk-H-tin : Yam, 114.
-
-br-twd : Fully-developed Adult Man, 318.
-
-Q-run-^oo-doo : Circular Mark, 325. (Cf. u-rongoo-to. )
-
-tir-#r-goo-t& : A Young Man after Circumcision,
-319. Cf. u-ro, ur-twa, and ur-goo-ta, with
-u-ron-goo-to, the Circular Mark (of Circumcision).
-
-
-Use of, For Benefit, Advantage of : Prepositions
-
-of Purpose, Reason, Means, 24.
-Utensils: Ph.T., 55; S.L., 91-2.
-n-w&n-na : Top-string of the Emu-net, 131.
-
-
-Vegetables and Fruits as Food, 117.
-
-Vensesection, 283.
-
-Venereal Disease, 262, 274, 287, 293, 322.
-
-Venery, 327.
-
-Verb : Auxiliary, 8 ; Some Special Forms of the
-
-Future, 30 ; Imperative, 19, 31 ; Indicative,
-
-17 ; Infinitive, 29 ; Reflexive, 32 ; Transitive
-
-and Intransitive, 18, 32-3.
-Verbal Pronouns, 18.
-Vigna lanceolate, : Species of Yam, 114.
-Vine as Food, 117 ; 132.
-Vocabulary, Pitta-Pitta, 44.
-Vocal Apparatus, Mutilation of, 2.
-Vocative, 12.
-Vowel-sounds, 3.
-Vulva : Ph.T., 52 ; Represented on Letter-stick,
-
-
-wc£-cha-ma : Tomahawk-handle, 258.
-
-Waist-belt : Described, 183 ; At Corrobboree,
-193; Bartered, 230-1, 233; S.L., 91-2.
-
-wd-ko : Grindstone, 154.
-
-wd-ko : Circumcision, 304.
-
-iod-koo-l& : Human-hair Belt, 183.
-
-Walaya, 154, 230.
-
-Walk-about, Travel, 224.
-
-Wallaby : Coursing, 222 ; Twine, 232.
-
-w&-foo-kS-ra ; Tribe, 49, 52-7, 63, 72, 239, 253.
-
-wd-ma : Corrobboree, 188.
-
-Wandetta Lake, 113.
-
-?o«-pa-rf : Young Girl at Early Puberty, 68, 305.
-
-wd-ra-k& : Dilly-bag, 153.
-
-W(2-ra-per-ta : Tomahawk, 258.
-
-Warenda, 45, 147, 225, 236, 241, 245, 294 ; Aboriginal Name of, 226.
-
-Warfare, Inter-tribal, 238, 286.
-
-wa-rJn-ta : Warenda Creek, 226.
-
-wd-roo-po : Boerhaavia Root, 115.
-
-w&-rum-/)£r-ta : Tomahawk, 258.
-
-Washing of Baby, 328.
-
-Water : Ph. T., 54 ; S.L., 87-8 ; Conveyance and
-Transport of, 152; Poisoned for Catching
-Fish, 126 ; Cure for Sickness, 267 ; Aboriginal names of Water-holes, &c, 226.
-
-Water: -Bag, 152; -Birds, Playing at Imitating.
-221 ; -Fall, S.L., 87-8 ; -Hen and Emu (lore)
-201 ; -Lily as Food, 111, 113, 114 ; -Snake
-S.L., 77-8; -Sprite, S.L., 103-4.
-
-wa-to-ko : Bone-apparatus, 259.
-
-Weapons : Ph. T., 55 ; S.L., 91-2.
-
-Weaving: Mesh used in Dilly-bags, 153; In
-Fishing Nets, 124.
-
-wc-el-ko : Tribe, 45, 230.
-
-Weir for Trapping Fish, 125.
-
-Wellesley Islands, 316.
-
-wcr-koo, Cross-cut Mark : Root-stem, 4%/ ; On
-Boomerangs, 241 ; On Thigh (mourning), 289.
-
-West, 227.
-
-Wet-cupping for Inflamed Joints, 283.
-
-What, Which, Who? Interrogative Pronouns, 35.
-
-When : Prepositions of Time, 25 ; Ideas of Tune,
-38 ; Participles and Perfects, 42.
-
-Whereabouts, Whither? Ideas of .Place and
-Direction, 39.
-
-Which, What, Who? Interrogative Pronouns,
-
-Whirler: Described, 215; Used at Initiation
-Ceremony, 300 ; Used as Love- charms, 325.
-
-Whisker, Artificial, 167.
-
-"Whistler," "Whistle-cock," &c. See Introcision.
-
-Whistler-duck, Ph. T., 53.
-
-
-INDEX AND GLOSSAET.
-
-
-White-cockatoo, Ph. T., 53.
-
-White-gum Tree {Eucalyptus hcemastoma, Sm.):
-For Making a Skipping-rope, 217; For
-Making Boomerangs, 240, 242.
-
-White-plaster. See Gypsum.
-
-White-shell. See Shell
-
-Whither, Whereabouts? Ideas of Place and
-Direction, 39.
-
-Who, Which, What? Interrogative Pronouns, 35.
-
-Why ? 35.
-
-Wienholt, Mr. DaD., of Warenda, 225.
-
-Wife : Ph. T., 58 ; S.L., 89-90 ; 64.
-
-Wife's and Husband's Mothers, Relationship
-between, 64.
-
-Wild-cat and Opossum : Lore, 203.
-
-Wild-currant as Food, 117.
-
-Wild-orange: As Food, 117; S.L.,85-6; Wood
-for Fire-sticks, 157.
-
-Wild-rice as Food, 111-2 ; S.L.. 85-6.
-
-Williams, or Corella, River, Aboriginal Name,
-
-Wills, River, 2, 182, 230, 250, 257.
-
-wM-pa : Any Lacerated, Contused, or Punctured
-Wound, 284.
-
-w&n-jX wln-jl : Bough-shed, 159.
-
-wln-nX-mfln-na-rf : Connecting-string of the Boneapparatus, 259.
-
-win-nu : Boerhaavia Root, 113.
-
-Winton, 147.
-
-With : Through, by Means of, 24 ; Motion, 22.
-
-wS-too-ka : Root, 85-6, 113-5, 206.
-
-tod-bfi : Cup-portion of the Bone-apparatus, 259.
-
-w5-6rftn-jl : Male of the Second Degree, 68, 311.
-
-w#Ma-koo-ja : " W hisker "-ornament, 167.
-
-w#£-la ma-ra : Female of the Second Degree, 68,
-
-tt#J-lang-a-ma : Tribe, 70c, 253.
-
-wtm : Yam, 114.
-
-w$-loo-ma-ra : Female of the Second Degree, 68,
-
-w&£-looin-b& : Hook-boomerang, 239.
-
-wol-itt-ta : Buckingham Downs, 226.
-
-Woman: Ph. T., 52; S.L., 89-90; Women
-Fighting, 238.
-
-Woman's Father-in- Law, Mother-in-Law, 58, 64.
-
-Woman-doctor, 271.
-
-wom-ma-jl-mftn-j* : Bluish (? Copper) Stone, 233.
-
-Wommera: Ph. T., 51, 55; Described, 253;
-Bartered, 230, 233.
-
-Wooimera-spear. See Spear.
-
-w6m-mtn : Tribe inhabiting Country between
-Mullangera, Cambridge Downs, and Woolgar, 48, 58, 63.
-
-«tfm-pa : Girl at First Sign of Puberty, 68, 307.
-
-w6n-Jfca-j8-ra: Tribe, 45, 52-7, 72, 239.
-
-w#n-nl-na : Corrobboree, 188.
-
-Woolgar, 250.
-
-wool-Jfc#n-nI : "Rockies" Water-hole on Upper
-Burke R., 226.
-
-woom-&#»-y8 : Wild-orange, 117.
-
-woo-na-mur-ra : Tribe, 48, 52-8, 61, 63-4, 68, 72,
-124, 153, 182, 241, 257, 326 ; Food Tabooed,
-62 ; Individual and Social Nomenclature, 58,
-61-4, 68 ; Letter-stick, 236.
-woong-kQ : Paedomatronym, 62.
-woong -ooZ : Leila vale, 226.
-io0p-poo-la-rci : Head-circlet, 171.
-w5p-poo-ro md-ro : Return-boomerang, 213.
-tttfr-&-ka : Chest-ornament, 182, 286.
-Words : Anglicised Aboriginal, 51 ; Philological
-Tables of Various Selected Words, 52-8 ; Of
-Corrobboree Songs, 196 ; Root-stems of Pitta-
-Pitta, 43.
-vtfr-ka-pa : Glenormiston, 226.
-w#r-k&-ra : South, 227.
-
-
-wor-Jtf-a, or tik-H-a: Tribe along the Headwaters of the Georgina into Northern
-Territory to the Head of the McArthur
-River, 72, 137, 191, 199, 231-2, 272-3, 286, 297,
-
-wtfr-ko-boong-o : Tribe from between Upper
-Leichhardt River and Gunpowder Creek, 46,
-
-w#r-pfl-la : Hook-boomerang, 239.
-
-wtfr-ra-ctil-la : Hook-boomerang ? 239.
-
-Would, Would Like to : Special Forms of he
-Future, 30.
-
-Wounds, 284, 300, 302, 306, 317.
-
-wtil-koor: Connecting string of the Bone
-apparatus, 259.
-
-wHl-\l-b$-Tl : Hut, 161.
-
-urttl-lo-a, : Break- wind, 159.
-
-wul-foo-ka : Modification of the Bone-apparatus,
-
-wul ?#?i#- a-ra : Tomahawk Stone-head, 258.
-
-wtf n-da-roo : Hut-scaffolding, 159.
-
-wun-de-ra : Herbert Downs, 226.
-
-wtin-ka- : To Sing, 188.
-
-wUn-nl : Corrobboree, 188.
-
-wUn-nl-%& : Hum an -hair Belt, 183.
-
-wftn-pa : Eagle-hawk Feather-tuft, 183.
-
-wifoi-td : Fishing-net, 124.
-
-wtin-frtfn-ya : Corrobboree, 188.
-
-
-2/a-k£-pa-rf : Seed-grass, 436, 107, 111.
-
-yd-k6-ln : Dalgonally, 226.
-
-2/aMa-kud-y8 : McKinlay Township, 226.
-
-Yam: S.L., 85-6; As Food, 113-5.
-
-Yam-stick: S.L., 85-6; Described, 158.
-
-yo-ma-rf : Pig-weed, 111.
-
-y^-ra-ka: "Star-grass," 436, 106.
-
-yd-ra-rf : McKinlay River, 226.
-
-ya-ra ya-ra : "Table Top" Mountain, Cloncurry,
-
-yd-To-lng-& : Tribe, 49, 52-7, 68, 137, 186, 191, 213,
-
-
-y?l-ka,: A Man after Introcision, 319. {Cf.
-
-yel-la).
-y^-ka yel-kti : Alley-way for Catching Emus, 132.
-w£Z-la : Introcision,' 314.
-Yellow Ochre. See Ochre.
-2/^-lting-a: Tribe, 45, 228, 230-2, 273.
-y^-ma-rung-o : Vulva, 333.
-yU-pi\ Emu-net, 131.
-y£r-rang-gul : Tooth-ornament, 166.
-yer-rd-ra : Tooth -ornament, 166.
-yer-run-c?#Ml : Tribe Living around Hughenden,
-
-Yes ! Notes of Exclamation, 41 ; S.L., 103-4.
-yln-b?Lr i Hut, 160.
-
-Yonder : Ideas of Place, Direction, 39.
-yilk-koo-b&-Tl : North, 227.
-yfi£-boong-go : Wild-currant, 117.
-yum-wia-ra : Wommera, 55, 253.
-y#n-ba-ra : Wommera Quartz-tipReed-spear, 251.
-#«n-da_: Tribe, 45, 207, 228, 230, 232, 294.
-yUng-ko : Break-wind, 159.
-y&ng-fin : Mussel, 120.
-yftwgr-un-da-ra : White-quartz for Tipping Spears,
-
-ytm-na-Zm-kil : Tribe, 49.
-ytin-na-te-un-n£-a : Tribe, 45, 230.
-yfln-pul : Beard, 52, 236.
-yun-ta-8»-ta-ya : Tribe, 45.
-yUn-yX : White-settler, Bogie-man, 298.
-yup-pa-ra-rl : Lad at Full Puberty, 68, 304.
-yttp-pi-S-rl : Lad at Full Puberty, 68, 300, 303, 130.
-
-
-fUu V.
-
-
-Sty*LmngLmg*(c+nt$ Fjgs.70-72,Motiusoa. Figs. 7J-86, Arfhropvda.Figsr
-
-87-96, Slants.
-
-
-Si$n-Urt£uaga {Cm//) Figs. 97-/04* P fonts, figs. /05-/09, othmr Objects offoturm.
-figs. //0-/Z/,/ncf/w'c/uafs, Family Relatives Etc.
-
-
-S)&-Ungu«gv rg*. ,- 24 M,„„,/ s .
-
-
-Plate VHL
-
-
-WE Roth, Dnt
-
-
-Sign-Language (Con/- ?)/g*s. J46-/62, 4rf/cfe$ of Manufacture *ffeapons, Imp/entente, (/teitstfo
-J/v/s. figs. /e3-/66, /(fa*s of/Vumber. Figs. /67-J66, fcfeas ofloc*//(y and 0/rection.
-
-
-W.f./fcf/j D,l.
-
-
-Sien-LaMuiig*(Cor,ni)Fgs.l69-l7?M°')s ofloalily *ir(/Oire(ition. Figs.lT5-n4,
-
-
-rvaie
-
-
-Sign-Language (Cont^) Figs. /90~/98, Simpfe Acts, States andCondirioi
-
-' ^-£/3, Comp/ex Conditions, Abstract I cl ea^ ""
-
-
-TheSearch for Food. Figs.214- 2/9, Preparation of Seed- Food. F/gs. 220-Z25,
-
-Contrivances for CatchitgTtsh. F$s.ZZ6-Z32, Methods of Inappinfc tmi^kanj^roo tt«i
-
-
-Plate VIII.
-
-
-W£.Roth. Del
-
-
-Sty-Language (ConS $/Qfn J46-/62, Ar//c/e$ of AfafTufactun8*ffeapo/fs, /tiphmenfs, (/fojisifc
-//i//s. figs. /S3-/SS, /cfo*s of/Vumber. Figs. /67-J66, fefeas ofloc*/i(y arrcTlfrrectioii
-
-
-Rofh Pit.
-
-
-(n-lv*u,&,(c(, n f/)F&.l69-m.V"s of locality WO/racriict. &&£*££.
-
-
-Plate JT.
-
-
-/Kf./ToM. Oe/.
-
-
-Sign-Language (ponf?) Figs. /90~/98, Simple Acts, Stales and Conditions.
-Figs. 199-2/3, Comjo/ex Conditions, Abstract ideas Etc.
-
-
-TreSearch for Food. Figs.ZI4--ZI9, Preparmtion of Seed- Food. Figs. ZZO-ZZS,
-
-Contrivances for Catchhig hsh. F$s.ZZG-ZSZ, Mttthods o/'Vrttppinff Lmu.tuwgH-00 t\c.
-
-
-Fi$t.Z\3r2Si,Donwtklmpkinents and Utensils, Fire-Sticks and Yam- Sticks, //ufis j/rc/SSte/te.
-
-
-Figs. 252~274, Objects of Person*/ Ornamentation ant/ Decoration.
-
-
-Fjg$,275- ?82, Personal DecQnatian,Munat fhinting. Art and Draughtmanship.
-
-
-(gs.Z83-?92,Corrobboree Costumes. Fig 293, Native Audience
-
-
-Figs. 294- iOS, CostumBS,Etc of the Mo/ong* Corrobboree.
-
-
-■ids. 309-325, Articles
-
-
-fig
-
-
-^rcTe^^eV^CalnTs and Sports.
-
-
-ni§iyiiiiill§ \4
-
-
-Ftp. 326-338, Letter or Message-Sticks-
-
-
-W^JtOTH. tkl.
-
-
-figs. 339-340, Meffioe/s ofFigfitinfc figs.3(H-35l, Boomerangs.
-
-
-Plate XX.
-
-
-W.E.ROTH. del.
-
-
-rfjjfs, 352 - 366 y Boomerands,7wo/iandedSword$, Spears.
-
-
-ffa.3&f"38l, Shmo Knims and Tomahimk.
-
-
-PltUeXXII
-
-
-Fids. 364-39/, Sfvne Knives and Tomahawk.

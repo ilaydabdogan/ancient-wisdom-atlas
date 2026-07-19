@@ -66,6 +66,49 @@ figures:
 
 # In the Shadow of the Bush
 
+N  THE  SHADOW
+
+
+HE  BUSH
+
+
+h
+
+i
+
+1  ill^
+
+®S88&SSSS&9g&5&
+
+
+P  AMAURY  T
+
+
+S99B
+
+
+SSS&:
+
+
+^SS^BJBSBSSSBB
+
+
+'
+
+
+f«rf*i4i<i<*<rf<Jcii<i*j<*<5<»'
+
+
+.--,;.:•,,-,
+
+■
+
+.
+
+.V.~-:.~-v,  .^ -•-•.-  .--       -
+
+JDuquwAltriwrsityi
+
 
 Gift   of
 
@@ -93,6 +136,9 @@ Digitized  by  the  Internet  Archive
 in  2010  with  funding  from
 
 Lyrasis  Members  and  Sloan  Foundation
+
+
+http://www.archive.org/details/inshadowofbushOOperc
 
 
 Ekoi  Girl  in  "  Fatting- House"  Costume.
@@ -22315,7 +22361,7 @@ a   .  a
 rt  13   rt
 .*  ,q  -*
 
-S    C    9     D   to
+S    C    9    <D   to
 
 5  rt  5  bo  a
 3  2      -So
@@ -22338,7 +22384,7 @@ rt
 iD
 
 a,
-5   u
+5  <u
 
 13
 
@@ -22667,9 +22713,9 @@ rQ
 
 03
 
- D     ^j
+<D     ^j
 
- D
+<D
 
 0)    rt
 
@@ -22722,7 +22768,7 @@ Z<
 
 Z<3      03
 
-w o<<
+w<o<<
 
 o
 «9
@@ -22759,7 +22805,7 @@ B      B
 pq
 
 ID
- U
+<U
 
 PQ
 
@@ -22863,12 +22909,12 @@ a
 a
 
 c  5
- u  rt  a
+<u  rt  a
 
 
 -         ?   ?   C   «*   O   ?   ?5
 
-S      DZ ZOfflU5MW
+S      DZ<ZOfflU5MW
 
 
 3
@@ -22946,7 +22992,7 @@ rt
 
 3  3  O  O-rr  p3  3
 
-„»Q.Q    tuCO.Si,   U    rt
+„»Q.Q    tuCO.Si,  <U    rt
 
 "  bo  sue  o  o  o  :30s
 CXOPQ  J  JZ
@@ -22977,7 +23023,7 @@ w
 o    <
 
 
- SWZO
+<SWZO
 
 
 en
@@ -22996,7 +23042,7 @@ w8  *
 
 3  ,0  *-"
 
-rt  ,     (L)
+rt  ,     ‹L›
 
 tx  b  Si
 Z  °W
@@ -23006,7 +23052,7 @@ Z  °W
 3
 s
 
- r  £
+<r  £
 •^  s
 
 3-3
@@ -23037,7 +23083,7 @@ o
 
 
 rt
-a)   u  £
+a)  <u  £
 
 Qh  Oh  SuC
 
@@ -23057,7 +23103,7 @@ O    O
 O;    ra    rf    n
 _f)  (^  ^  *J-«
 
-z S w S
+z<S<w<S
 
 
 rt
@@ -23136,7 +23182,7 @@ c  tuo  3^  a
 
 -SsSOctirtrtnirtX
 
-Z<^ W2S  c  cO
+Z<^<W2S  c  cO
 
 
 cc
@@ -23215,7 +23261,7 @@ rtrt^  O-O  0-2  o
 ft  o
 
 
-O     D
+O    <D
 .O    ho
 
 ^  3
@@ -23242,7 +23288,7 @@ o
 to^a a  as
 
 o  9  o  3     .-  a  a
-s  d .2 ^     'aus   c
+s  d .2 ^     'aus  <c
 
 i<  •  3  TJ  nJS  OOJrt
 OQWWSCQQQ
@@ -23454,7 +23500,7 @@ he  1  «  1  E  1  >
 
 3        3        3        g
 
- u
+<u
 
 02
 
@@ -23470,7 +23516,7 @@ rt
 
 .Q
 
-,3        (u        a)        rt     -
+,3        ‹u        a›        rt     -
 -m         en         3         3     -
 
 H
@@ -23510,14 +23556,14 @@ OS
 
 rt  >,  a)    -  a,
 
-Z Z     W
+Z<Z     W
 
 
 M  bo  -^-^  he
 
 -m  +3  bo  be  bo  bo„a
 
-o w zo<
+o<w<zo<
 
 
 a
@@ -23538,7 +23584,7 @@ rt  s
 
 rtXJ  u
 
-S Z
+S<Z
 
 
 W
@@ -23570,9 +23616,9 @@ rt-3          3   rt  _          0°3
 
 !z;
 
-sS  z    o w zo<
+sS  z    o<w<zo<
 
-^i        d  d    a   d  3        rt        rt  rt  £»       rt        rt
+^i        d  d   <a   d  3        rt        rt  rt  £»       rt        rt
 
 •      l-l      ^        h  •^r-SlH'3          .W          .^  .lH^                .VH          •      Jh          •
 
@@ -23625,7 +23671,7 @@ UQJJW
 
 o
 
-0 j
+0<j
 
 uun
 
@@ -23641,7 +23687,7 @@ bawn
 
 tam
 
-.t!   u  J3  rt
+.t!  <u  J3  rt
 
 •a
 
@@ -23680,7 +23726,7 @@ t/3
 3   3
 3   3
 
- D    OJ
+<D    OJ
 
 
 3    ™
@@ -23718,7 +23764,7 @@ rt-^  3
 
 3    O    c    nj    £    nj
 
-OZ Z M
+OZ<Z<M
 
 
 S3
@@ -23892,7 +23938,7 @@ rt  rt
 W<  rt
 
 
- W      J3      Z      Z ZOW W
+<W      J3      Z      Z<ZOW<W
 
 
 CO    U)
@@ -23903,10 +23949,10 @@ rt  ^j  bo  3  c
 
 o  o.*  J3  £.5.5
 
- zoz z<
+<zoz<z<
 
 
-bo  3  o     = i;
+bo  3  o     =<i;
 W<0      <
 
 
@@ -23956,7 +24002,7 @@ to  bo'10  '"2  -^  -^  -^
 
 ^  J«S  M   -.
 
- ZOWZZ<
+<ZOWZZ<
 
 
 rt  rt
@@ -24058,8 +24104,8 @@ O    rt  rt    p  rt
 O  O
 
 
- D
- U
+<D
+<U
 
 -So
 
@@ -24099,7 +24145,7 @@ rt         -^    en
 
 «  -*^  5
 
-a SgO
+a<SgO
 
 
 g  g
@@ -24146,7 +24192,7 @@ a.
 3
 
 
-•j      TD Tw      H
+•j     <TD<Tw      H
 
 
 O  3
@@ -24161,7 +24207,7 @@ a  S
 
 MS
 
-£>  rQ     u  rt
+£>  rQ    <u  rt
 
 
 3  3
@@ -24204,7 +24250,7 @@ a
 
 3
 
- D
+<D
 I
 
 3
@@ -24314,11 +24360,11 @@ n
 
 3  =         9
 
-h0          U    u    5
+h0         <U    u    5
 
 3        "2  Sj  £
 
- J       Z<|  S
+<J       Z<|  S
 
 
 o
@@ -24352,7 +24398,7 @@ rt  ^_^
 0l,O
 O    W)
 
- z
+<z
 
 
 o^
@@ -24416,11 +24462,11 @@ g^
 3  W)  rt  «        >,  d
 
 --   iu  Jd   rt  ^  c  3
-■r-.rt      U—    rt    >^-3    §    3
+■r-.rt     ‹U—    rt    ›^-3    §    3
 
 •Q   d  X!  J3    2  3°  •-   O  .3*13  "3  '3
 
-O  <  W   J  S  O  Z  ^<  Z  rt  O
+O  <  W  <J  S  O  Z  ^<  Z  rt  O
 
 
 X!
@@ -24594,7 +24640,7 @@ rt  H    rt
 
 T3
 
-(L)
+‹L›
 
 rt
 
@@ -24606,7 +24652,7 @@ rt
 
 rt
 
- u  rt    cd  rt    bjD
+<u  rt    cd  rt    bjD
 
 0
 
@@ -24698,7 +24744,7 @@ o
 
 o
 
-3   D    O  O  'u
+3  <D    O  O  'u
 
 3
 
@@ -25355,7 +25401,7 @@ U     -  '3
 
 £  a  S-S  rt        2  Srt  Cgrtonj  •«        „,xi  rt
 
-8  >-^fi a       5  axir^rtxixixi  £       g.rt-3
+8  >-^fi<a       5  axir^rtxixixi  £       g.rt-3
 
 
 2
@@ -25392,11 +25438,11 @@ o  as                              „  g,                             "O      -
 
 +,            .«  £  X)  rt  rt  a>  -EE.g        O        §  rt  Cu  a,-*  ^       «  C  a!  J   (U  %  §
 
-rt            rt  -R  toaax  mrtrt        3        rt        rt  ))  &  p(  2  o ..-  •-  (u  ),  rt  o  5  &
+rt            rt  -R  toaax  mrtrt        3        rt        rt  >>  &  p<  2  o ..-  •-  ‹u  ›,  rt  o  5  &
 
-W     SOW<0  <22   Z  <   ZO<   SO?<2 WH a
+W    <SOW<0  <22   Z  <   ZO<  <SO?<2<WH<a
 
-o(u              £  £   ■  ^-»    --*.            "«)  '3     *3
+o<u              £  £   ■  ^-»    --*.            "«>  '3     *3
 
 •*-"       3                3  rt^j  ■                             .£2               £  5x>-s$£
 
@@ -25404,11 +25450,11 @@ o(u              £  £   ■  ^-»    --*.            "«)  '3     *3
 
 H          O                     O0)>  >          33               3    2    2    rt   ^   g-^-!i_.Q  3-°    S
 
-3^r-  o             u  wi  is— CTS^W  E  3oa3rtgE^4;co"  «  3  ^  to*a
+3^r-  o            <u  wi  is— CTS^W  E  3oa3rtgE^4;co"  «  3  ^  to*a
 
--Ma]|-'^ D^Qrtrt       fi  c?       rt:        ?«T^Cnl  ft-ti  rt   O,-^  Js!              C   (U   3  -S   fl
+-Ma]|-'^<D^Qrtrt       fi  c?       rt:        ?«T^Cnl  ft-ti  rt   O,-^  Js!              C   (U   3  -S   fl
 
-W^  <20W<0°W*J Z  ?  3<   ZO<   SO?<2<2   <
+W^  <20W<0°W*J<Z  ?  3<   ZO<  <SO?<2<2   <
 
 
 zi       a
@@ -25455,7 +25501,7 @@ rt
 
 rt
 
- U        33
+<U        33
 
 o      o       o       o
 
@@ -25725,7 +25771,7 @@ JJSOZJ^O
 
 •O
 
-Z OZ£
+Z<OZ£
 
 J
 
@@ -25777,7 +25823,7 @@ W
 
 £    s    w    w
 
- D          O      .  S3    Cm
+<D          O      .  S3    Cm
 
 D      W      S  —
 
@@ -25801,7 +25847,7 @@ ai
 
 c75
 
- t5
+<t5
 
 »|Sig4
 
@@ -25844,7 +25890,7 @@ zow<^ow
 
 o
 
-w o<<
+w<o<<
 
 w<
 
@@ -25908,13 +25954,13 @@ bC  tuD
 
 p
 
-zow sow
+zow<sow
 
 "^
 
 O
 
-w o<<
+w<o<<
 
 <
 
@@ -26236,7 +26282,7 @@ w
 
 ;a.s
 
-"5  °   u  «
+"5  °  <u  «
 -  cd"  E  S
 
 ri-o  o  o  fl
@@ -26316,7 +26362,7 @@ G
 
 -3  a
 
-"g   u
+"g  <u
 
 Xi    E-G
 
@@ -26446,7 +26492,7 @@ rt
 
 ^     1
 
-(L)                G
+‹L›                G
 
 3
 
@@ -26522,7 +26568,7 @@ O  O   3
 g
 >     -
 
->>  a!    o    D    °£  O
+>>  a!    o   <D    °£  O
 DDQ  _JQ  OCQ
 
 X
@@ -26560,7 +26606,7 @@ bo
 
 bo
 
- D
+<D
 
 o
 
@@ -26743,7 +26789,7 @@ O
 
 OJW
 
-S !
+S<!
 
 (JO
 
@@ -26901,7 +26947,7 @@ rt
 
 3    3     oj
 
- A
+<A
 
 g  d
 
@@ -27122,7 +27168,7 @@ D  -
 
 &<
 
->          u
+>         <u
 rt        a)
 
 _*  Oh
@@ -27353,7 +27399,7 @@ z
 
 J
 
-0 WZCQOIDW
+0<WZCQOIDW
 
 M
 
@@ -27539,11 +27585,11 @@ HH
 
 Z  <
 
-zo  z<  < zsw<:o
+zo  z<  <<zsw<:o
 
 o
 
-W W
+W<W
 
 <
 
@@ -27552,10 +27598,10 @@ so
 ■s-fl
 
 
-W W  "HZ  <<  ZO  z<  < zsw<< w«o    o    w w    <    so
+W<W  "HZ  <<  ZO  z<  <<zsw<<<w«o    o    w<w    <    so
 
 
-9d-"dc ju5.2.2f.SojQ.45  .do  ^
+9d-"dc<ju5.2.2f.SojQ.45  .do  ^
 
 ildaj4545^;x:j3-dooo  ooo  o
 
@@ -27575,14 +27621,14 @@ APPENDIX    F  437
 
 r"              aj              rt         ctf         Q  rt
 
-rt-rtX)rtbrtra(i)  (u                     rt
+rt-rtX>rtbrtra‹i›  <u                     rt
 
 c_S      art      a3flrt-£.-H  •*-*                ,q
 
 
 a      0  5      rt      ««     ia      a  S      >a         ia     ia      2  3  ^         ;£  *S  .a         25
 
-,G        a  rt        rt        rt        rt        rt  S        rt  rt        rt       XI  J3  rt  u  ufl   u
+,G        a  rt        rt        rt        rt        rt  S        rt  rt        rt       XI  J3  rt  u  ufl  <u
 
 O      «  PQ      PQ      PQ      PQ      03-°      PQ  PQ      PQ      UU*  QQ  °  Q
 
@@ -27621,7 +27667,7 @@ ft     2          rt     =3      rt      o      g          g          aa        
 
 Sf      Si.          >      -^      -a       «      -a          .5          .-h      •-.       o  o  rt  rt  rt
 
-:art            rt        rt        rt        rt        rt            rt            rt        rt        rt  rt   d   u
+:art            rt        rt        rt        rt        rt            rt            rt        rt        rt  rt  <d  <u
 
 
 a  a
@@ -27643,7 +27689,7 @@ rt  a  a       r,       rt         -       o            rt       $  rt       >. 
 
 iu  iu£  3                tn      "     rt  "  _  ??  rt  rt  -?*  rt  2  -?„  <"  '    °  5            8                rt
 
-a     .tirt     'Q*a<')ni0rti- rtc/3rtrt(5artQ  ^3  oo  ^jm  c;a  a  -k         .a
+a     .tirt     'Q*a<')ni0rti-<rtc/3rtrt(5artQ  ^3  oo  ^jm  c;a  a  -k         .a
 
 w    >:       waJwajwrtwrtwartw-rtw  w  cSmWJW&£ww1,       <
 
@@ -27716,7 +27762,7 @@ C
 
 w
 
- j
+<j
 •j
 p
 
@@ -27806,9 +27852,9 @@ H
 
 m
 
- u   u
+<u  <u
 
-cj  a>   D  cd
+cj  a>  <D  cd
 
 O
 
@@ -27822,7 +27868,7 @@ QQ^Q
 
 Q
 
-<<<<< ut
+<<<<<<ut
 
 O
 
@@ -27878,7 +27924,7 @@ T3
 
 3  a
 
-*3   S
+*3  <S
 
 3   3   3   3
 
@@ -28037,7 +28083,7 @@ co   e
 
 3   3   rt   3
 
- d  a)  v;   d
+<d  a)  v;  <d
 
 3
 
@@ -28055,7 +28101,7 @@ J
 
 w
 
-< w<<<: j
+<<w<<<:<j
 
 O
 
@@ -28146,7 +28192,7 @@ u
 £"'£
 
 CD    3
-U     D
+U    <D
 
 *
 
@@ -28192,7 +28238,7 @@ CD   rt
 en    >^
 
 3   °
- D    3
+<D    3
 en   3
 CD    g
 
@@ -28330,7 +28376,7 @@ cd"    -  ^  — '  -   rt   CD
 
 03  "H'
 
- S1
+<S1
 
 10  "ST
 
@@ -28413,7 +28459,7 @@ O
 
 M
 
-(D    3                       ),
+‹D    3                       ›,
 
 5    0          0)    3    CD
 
@@ -28428,7 +28474,7 @@ APPENDIX    F  439
 
 %
 
- u
+<u
 
 1#H
 
@@ -28553,7 +28599,7 @@ o
 
 ai    O    O
 
-^s   u   O  (0  -Q
+^s  <u   O  (0  -Q
 
 o
 
@@ -28687,7 +28733,7 @@ hJ
 
 CQO
 
- CQOCQ
+<CQOCQ
 
 Offl
 
@@ -28976,7 +29022,7 @@ Ete  nyi
 Ate  ma
 Ngyo  a
 
-?     u  ?     u
+?    <u  ?    <u
 
 rt    o  rt    o
 
@@ -29030,7 +29076,7 @@ O  £
 
 o<:w<
 
-w z w    <    w<
+w<z<w    <    w<
 
 -<       _  cu  ft
 
@@ -29049,7 +29095,7 @@ o        E  "K  -n  .'=       'A  'A  'A
 
 i3       i3  ,rt       JS  ,rt       ^o2.h"       >>  >>  rt  "rt  -~        &       ^  'i
 
-Z      w z     OZOZ     OS     os     o w<     w z o     w     w<
+Z     <w<z     OZOZ     OS     os     o<w<     w<z<o     w     w<
 
 
 3  rt    ..  "rt    43  'rt    ®*rt    4)  *rtrt  'rt    S
@@ -29181,8 +29227,8 @@ S  a  C  rt
 jS  rt  c  c  c
 
 g  3  CX  CXm-,
-S  J3  ^  ^   D
-■•*   o    D   rt  X.
+S  J3  ^  ^  <D
+■•*   o   <D   rt  X.
 
 SCQh-lGO
 
@@ -29234,7 +29280,7 @@ i — i
 
 D
 PQ
- J
+<J
 O
 
 o
@@ -29329,7 +29375,7 @@ E
 
 rt
 
- u
+<u
 
 rt
 
@@ -29343,12 +29389,12 @@ u
 
 o
 
-rt  ?5  Wi   p  rt
+rt  ?5  Wi  <p  rt
 •a  Bfa^j  to
 
 a  E,3;a  a
 5  jS  1 3  43
-Z K<0
+Z<K<0
 
 
 o
@@ -29378,7 +29424,7 @@ a;       .a  -w
 rt  2  rt  O  rt  rt-V
 
 j?  o  JT  o  -g  a;  T3
- q      Z      <  Z  m
+<q      Z      <  Z  m
 
 
 SO
@@ -29447,7 +29493,7 @@ K
 
 rt
 
- u
+<u
 
 rt
 
@@ -29543,7 +29589,7 @@ F
 
 lal
 
-'3  ._r   u
+'3  ._r  <u
 
 rt
 
@@ -29606,7 +29652,7 @@ Z
 
 <
 
-W W
+W<W
 
 <
 
@@ -29670,7 +29716,7 @@ o  S  q
 
 "0^3       S  3             B  rt-O  rt  Crt  SS
 
-OX<      UP           3   jD  J  O  Sri  Z  W  <      <
+OX<      UP           3  <jD  J  O  Sri  Z  W  <      <
 
 ■a
 
@@ -29680,7 +29726,7 @@ rt                      H  rt  ?
 
 ii    C                   '                         T1  &"  O  OS  c!  rt
 
-^  -£>     C           rt   r,                 •§.  0    '-  "§  ri                  C°  rt  a
+^  -£>     C           rt  <r,                 •§.  0    '-  "§  ri                  C°  rt  a
 
 
 z
@@ -29690,7 +29736,7 @@ z
 
 ^Mirto'a            3  3  £    a;       a)                         rt  ►?  c          ;s  rt       S
 
-((X      «      O          ((ZI      ffi                      M  i)  i)          Z  K      (
+<<X      «      O          <‹ZI      ffi                      M  i›  i>          Z  K      <
 
 3rt           3                        tirtrt^  ^rt  -
 
@@ -29700,14 +29746,14 @@ z
 c
 
 
-*  d    v      -2       (u  ),  rt  "^  rtcuMrtajtjort.S^-a  5      .rt      ,rt
+*  d    v      -2       ‹u  ›,  rt  "^  rtcuMrtajtjort.S^-a  5      .rt      ,rt
 
 *«aj        o        u  a  >*--   0        rt^C^-ac^^^o^  rt        3        S
 
 <  S  *      M      bd  <  Z  S  W      «QJrtWa,rtZ0J^Q^  «      <      <
 
 
-C  C  e     •  5  -^  £          D         ?        2
+C  C  e     •  5  -^  £         <D         ?        2
 
 
 buo
@@ -29749,7 +29795,7 @@ t,        n
 
 ^
 
- U
+<U
 
 0)
 
@@ -29828,7 +29874,7 @@ O
 w
 
 2
- n
+<n
 
 p
 
@@ -29866,7 +29912,7 @@ s    s
 ■o     .5
 
 
-„-  £   u
+„-  £  <u
 
 
 •2-3  2
@@ -29908,7 +29954,7 @@ bX  S  C  9
 _   d.rt  Jj.^
 
 >i  >  £  >%  g
-Z  ^ Z<
+Z  ^<Z<
 
 
 co"     "T   c     .—■
@@ -30063,13 +30109,13 @@ a       I™       ,  J  w> «,  S  « *S     1      i-2     7?.S   I       »  
 
 S  '     5  'O^^C  |        |&3        ^O1  «        3  *  to  |    3    2  bo
 
-<        j       zSz    z<    j     q    <          <    !5    <    o"E  o
+<       <j       zSz    z<    j    <q    <          <    !5    <    o"E  o
 , <
 
 
 S*    , »    ,a,p    ^^"gs   .«53:s    rt    °   ^    §    <? rt        *
 
-.2  .2   u       3       rt  ci  B  rt      .2       Sjja       bo      bo     ^       £       bo  n.. -*
+.2  .2  <u       3       rt  ci  B  rt      .2       Sjja       bo      bo     ^       £       bo  n.. -*
 
 
 a
@@ -30086,9 +30132,9 @@ oa  -^^^32^  .So
 §    ||  I  a|  8  .8.8  S*  §  |  I  5  -a    £  s
 
 
-SS"        S  P  "2  ^      rt  <"  u      ^°5 u
+SS"        S  P  "2  ^      rt  <"  u      ^°5<u
 
-'-'  j—  !»1-''-1   n    B    B  3  -t-1  ^.  o  <-t-H    to  ^"  m
+'-'  j—  !»1-''-1  <n    B    B  3  -t-1  ^.  o  <-t-H    to  ^"  m
 
 
 bo  o
@@ -30097,14 +30143,14 @@ E   E   E   E   B   £       £   g   >>  >^   >.        CSCC^       £flS'0    
 -a,
 
 
-vj  ^i  >>>>2BPSSn303_?  >. D
+vj  ^i  >>>>2BPSSn303_?  >.<D
 
-m  m  DO)  ojj  od       (u^^a;—        u       ^       rt       _,._^       oj        a
+m  m  DO)  ojj  od       (u^^a;—       <u       ^       rt       _,._^       oj       <a
 
 
-rt  (u  )  bo  rt  rx.  a!
+rt  ‹u  ›  bo  rt  rx.  a!
 
-&^SC  Ci!  (l)  Bo-.       -P
+&^SC  Ci!  ‹l›  Bo-.       -P
 
 
 BB        cfiCG         SB         O        <""       ^       ^       S1        £         §       '^>>)^^'"J^
@@ -30112,7 +30158,7 @@ BB        cfiCG         SB         O        <""       ^       ^       S1        
 
 3  -^
 
-o  u
+o <u
 
 
 3
@@ -30123,7 +30169,7 @@ s
 
 O
 
-•      •     u
+•      •    <u
 
 >>
 
@@ -30131,9 +30177,9 @@ XI
 
 J3
 
- u
+<u
 
- D
+<D
 
 B  **
 
@@ -30150,7 +30196,7 @@ rt  bo     'P
 •^    ^  ^^*3^tD  .3^3
 
 
- u  ii
+<u  ii
 
 
 QO  3  Pc/3  CO-^tJ  >,>  fc    £
@@ -30221,7 +30267,7 @@ bfl
 
 pre  a  o
 
-bjQ tJ  3   3
+bjQ<tJ  3   3
 
 z  rt  h~
 
@@ -30342,7 +30388,7 @@ re  G
 
 £  c       r««
 
-^  g  rt   u
+^  g  rt  <u
 
 •*  rt           ^    bO
 
@@ -30355,7 +30401,7 @@ u  H     _
 re  G
 
 
- U    O     S    c     3
+<U    O     S    c     3
 ;T    3   ~   3   >S
 
 ><     z     s
@@ -30370,7 +30416,7 @@ CD
 
 sj
 
- u
+<u
 
 u
 
@@ -30575,7 +30621,7 @@ cu  -^  re  ^
 re  ^  re  _^
 
 
-rehire     u«w>^
+rehire    ‹u«w›^
 
 
 re
@@ -30694,7 +30740,7 @@ u
 
 ^
 
-^        u
+^       <u
 
 
 •5      .b
@@ -30737,7 +30783,7 @@ tt)  Se        §
 
 «  9  S  rt
 m3  o  a  a
-•a  ex   u  •"
+•a  ex  <u  •"
 
 
 g
@@ -30838,7 +30884,7 @@ C-     .        .2
 03      t-    J^  IH
 
 
- a  a
+<a  a
 
 G  cO
 rt44
@@ -30867,7 +30913,7 @@ cd
 
 4*  r3
 
-O    «    c J
+O    «    c<J
 
 0.50
 w
@@ -30889,7 +30935,7 @@ D    0)
 cO    cd
 
 ^  a
-Hi  be   u
+Hi  be  <u
 iJ  £  >^-
 
 1)4J    D    p
@@ -31035,7 +31081,7 @@ csi
 ©
 
 
- J5
+<J5
 
 
 (i)  Husband  and  wife  love  each  other  ardently.  They  like  to  put  their
@@ -31199,7 +31245,7 @@ T       ^fe
 H)
 
 
- y
+<y
 
 
 (♦'I
@@ -31357,7 +31403,7 @@ APPENDIX   G
 (.67)  (.6  s  J
 
 
-o> P
+o><P
 
 
 1.7  «
@@ -31508,7 +31554,7 @@ Story  (8).
 I
 
 
-Ufhfj  Tit*.   &>   « v.
+Ufhfj  Tit*.   &>   «<v.
 
 
 460
@@ -31529,10 +31575,10 @@ T
 7L    /i<*^rzi^J     S-CjC^
 
 
-Hie       A nr'       iZ.
+Hie       A<nr'       iZ.
 
 
-lit     <- xJ&°       fc-
+lit     <-<xJ&°       fc-
 
 
 s  >*+•
@@ -33679,11 +33725,11 @@ Eggui  IfUL
 ,    .  -             ftouXe
 
 
-JLe^ghts   in    f(eet).
+JLe^ghts   in    f‹eet›.
 
 
 —  Note  —
-CamerooTis  corrtpHe L  from  pttblishedL
+CamerooTis  corrtpHe<L  from  pttblishedL
 
 
 ~hj5l
@@ -34687,7 +34733,7 @@ Shields  of,  271
 Struggle    of,   for    independence,
 
 158-9
-Welcome,  Sign  of,  211   J"  n.
+Welcome,  Sign  of,  211  <J"  n.
 
 
 Ekoi   Towns,  Entrances  of,    Charms
@@ -35346,7 +35392,7 @@ discovered    by  Mansfeld,
 151,  153
 Legends  of,  153
 Salt  springs  near,  317
-Lakes  of  the  Dead,  23   y  n.*  et  sqq.,  153
+Lakes  of  the  Dead,  23  <y  n.*  et  sqq.,  153
 Lamb,     unacceptable     as     Sacrifice,
 
 story  of  reason,  67-70
@@ -36017,3 +36063,856 @@ Calabar    river,  locale   of,
 
 242,  244 ;  origin  of,  245
 Ojokk,  151
+Ojuk  people,  sale  by,  of  site  of  Oban,
+
+262
+Ojuk  river,  Juju  of,  89
+Okankan,  283,  302 ;  tone  of,  54
+Okarara,   devastations  at,   by  Wild
+
+beasts,  161  et  sqq.
+Oke  Ewara,  War  Juju,  Oban,  271
+Okpata  Juju  and  dance,  50,  295-6
+Opke  Club,  411
+
+Oku  Akama  grade,  Egbo  Society,  41
+Okum,  see  Clubs,  and  Image
+Okun  Ohin,  hunter,  dread  of  Elephant
+
+Efumi,  &c,  243,  246-7
+Okuri,  Jujus  of,  52,  157-8
+Okuri  Peak,  pass  near,  76,  157
+Okuri  people,  and  Esere  Bean  Ordeal,
+
+126
+Omens,  323-4
+One-armed  and  one-legged  Man,  and
+
+the  Cotton  Tree,  story  of,
+
+32  et  seq.
+
+
+4g6
+
+
+INDEX
+
+
+Onnuri  Juju,  Dropsy  given  by,  278
+Oom,  play,  225
+
+Oporopootop,  story  of,  335,  371-3
+Orchids,  near  Ojo  Nkonmba,  244
+Ordeals  : —
+
+Boiling  palm  oil,  165,  166
+EsereBean,  31,  123,  165,  166  et  sqq.,
+
+170,  191-2
+Pepper  in  Eyes,  171
+Rope-walking,  402,  403
+Ordinals,  423
+Ornaments,  Female,  49,  203  ;  Votive,
+
+218
+Orthography,  Appendix  D.,  415
+Orui  Achibbi  Club,  411
+Osa,  High  god  of  the  Bini,  13  n.
+Osaiiri,  see  Kingfisher
+Osaw  Ifogi  peak,  Flora  of,  and  Storm
+
+at,  92-3
+Oshum  njum  ka  etemm  Club,  410
+Osing  Shells,  174-5
+
+Bisexual  element  in,  174
+Divination  by,  175-8
+Osing  Tree,   Why  it  can  no   longer
+Speak,  save  by  the  Charm,
+177  et  sqq.
+Owai  Ifunkpa,  Uyanga  town,  255
+Owl,    Tabu    on,    408  ;     as    Witches'
+Familiar,  195,  story  on,  196
+
+Paint  House,  analogy  to,  108
+Palm  kernels  in  anti-Leopard  Juju,  51
+Palm  leaf  Juju,  278,  296
+Palm  leaves,  &c,  as  Leopard  charms,-7
+for  Mats,  rule  on,  story  of,  306-9
+in  Nimm  cult,  95,  97
+Ritual  uses  of,  9,  257
+Oil,  in  Birth  customs,  &c,  130,  188
+
+Boiling,  Ordeal  by,  165,  166
+Rib,  "  violin,"  302-3
+Stems,  split,  Nsibidi  written  on,  309
+Strips,  Shields  of,  271,  272
+Trees,  Kwa  river,  1
+
+and  Water,  How  they  came  on
+
+Earth,  story,  373-4
+Tops  of,  why  Nki  lives  in,  story,
+397  et  seq.
+Wine,  two  kinds,  315,  ritual  uses,  9,
+139,    140,  263,    272,   315,
+
+352,  357
+Pan,  terror  of,  Nigeria,  13
+Pangolin,  Oban  District,  466
+
+Hunting  Tabu  on,  407
+Parents,  Ekoi  as,  159
+
+Expectant,  Tabus  on,  130
+Ghosts  rf,  Sacrifices  to,  232-3
+Parrots  in  Folk-tales,  196,  253,  383
+Pepper  in  the  Eyes,  Ordeal  by,  171
+Phoenician  type  of  things  found,  173
+
+
+Physical  Characters,  Ekoi,  Erik,  &c,
+
+293.  4*4
+Pig,  in  Folk-tale,  146
+
+Wild,  6
+Pineal  gland,  in  Juju  rites,  67,  242
+Piper    plant,    leaves    of,    ritual    use
+
+of,  285
+Pipes    (musical)    of  Crabs'  Claws  in
+
+Juju  rites,  55
+Pits  for  Trapping  Game,  147
+Plague,  Rats,  and  Tutelary  gods,  25
+
+et  sqq.
+Plantain-Eater,  Greater,  see  Nkundak
+Plantains  in  Folk-tales,  9  et  alibi.
+
+Sacrificed  to  Ghosts,  232-3
+Plants,  Magic,  in  Folk-tale,  249,  250
+
+Souls  of,  287
+Plates,  Funeral  uses  of,  215,  221
+Tabu  to  (some)  Chiefs,  210  n.
+"  Plays,"  of  Children,  206,  217
+
+of     Egbo     Society,      43,    45 ;     at
+
+Funerals      222,      223,    a
+
+Ghost  at,  238  ;  Totemistic
+
+details  in,  38-9
+Pleurisy,  Juju  of,  278
+Pneumonia,  279
+Poison,  Juju  against,  50
+Poisoners,  Juju  of,  see  Nsann
+Poisoning,  and  Antidotes,  310-11,  332
+
+of  Fish,  270
+Poll-tax,  German  Cameroons,  157
+Polygamy,  Ekoi,  97,  109,  no
+Pools  for  Ghost  libations,  217,  218
+Poor  Boy   {see  also  Rich  Boy  and),
+
+How    he    came    to    the
+
+Land    of     Obassi    Osaw,
+
+story,   18  et  sqq.
+Population,  Ekoi,  Decrease  in,  Causes
+
+of,      201-3 ;      Southward
+
+trend  of,  245
+Porcupine,  as  Diviner,  30,  181  et  sqq.,
+
+234.    235,  237,    240,  241,
+
+355-6,      365-6 ;      Dog's
+
+enmity    for,    story,     147;
+
+Hunting  Tabus   on,   407  ;
+
+Oban  District,  468
+Porcupine  Witch,  story  of,  18 1-2
+Pot-hook,  see  Ejimm
+Potions  to  enable  Bush  Souls  to  enter
+
+Animals,  80
+Pottery   {see  Bowls,   Dishes,  Plates),
+
+Ekoi,   217,  219,    287-90;
+
+Funeral  uses  of,  223
+Pots,  emblem  of  Juju  Female  attri-
+bute,   52,   67 ;  in  Enyere
+
+Juju,  97
+Powder  in  Egbo  ritual,  41
+Prayers  {see  also  Invocations),  21-2,
+
+242,  369
+
+
+INDEX
+
+
+497
+
+
+Presidents  of  Age-classes,  283
+Priest,  Head,  of  Egbo  Society,  43
+Priestesses  of  Nimm,  power  of,  2
+Prisoners  of  War,  fate  of,  271
+Property,  Inheritance  of,  314
+
+Personal,  in  Funeral  customs,  6-7,
+
+17
+Most  valued  by  Ekoi,  141
+Proverbs,  156  ;  and  Omens,  323-4
+Puff-adders  in  Rest  House,  5
+Python    and     Elephant    bested    by
+Ants,  story  of,  400-1
+of  Lake  of  the  Dead,  24
+Tabu  on,  408
+Pythons,  Gall  of,  Magic  properties  of,
+27  et  seq.,  408
+in     Folk-tales,    346,    383,  400-1  ;
+How    they    Lost    Hands
+and  Feet,  374-6
+
+
+Quarrelling,  when  forbidden,  120
+Quartz,  Sex  ascribed  to  by  Ekoi,  6
+Queisz,  Leutnant,  fate  of,  158
+
+
+Railway   projects,  and    Commerce,
+267
+
+Rain,  How  the  First  came,  340-4
+
+Rainbow-making,  72
+
+Rainfall,  Oban,  476-7
+
+Rain-making  and  staying,  Ekoi,  71-2
+
+Rainstorm  at  Netim,  213
+
+Ram  and  Tortoise,  story  of,  371-3
+
+Rats,  in  Folk-tale,  395
+
+and  Mice,  Oban  District,  468
+Plague-carrying,  Chief  enemies  of
+deified,  25  et  sqq.
+
+Rattle  in  Egbo  Plays,  &c,  43,  295,
+302,  410
+
+Records,  Ekoi,  304
+
+Religion  of   the  Ekoi,  see  under  Ekoi
+
+Re-marriage  of  Divorced  Women,  and
+Widows,  1 1 6-7
+
+Reptiles   (see  also  Pythons,   Snakes,
+4'c),  Oban  District,  470
+
+Rest-houses,  163,  205  et  alibi
+
+Rheumatism,  &c,  Juju  of,  278
+
+Rich  Boy  and  Poor  Boy  and  Osing,
+story,  178-81
+
+Ridicule,  Ekoi  dread  of,  283
+
+Ring-decoration  in  Egbo  ritual,  42
+
+Rivers,  see  Calabar,  Cross,  Kwa,  $c,
+heaps  of  leaves  beside,
+9-17,  242  ;  How  they  all
+first  came  upon  Earth,
+story,  366-9
+Pannings  from,  Mineralogical  com-
+position of,  474-5
+
+S.B.
+
+
+Roads     and     Road-making,     native
+attitude  to,  5
+
+Roman  analogies  in  Nigerian  House-
+building, 263-4
+
+Rope  Juju,  112
+
+Rope-walking   Ordeal    in    Folk-tale,
+402,  403
+
+Rubber,  in  Folk-tale,  398,  399
+Plants,  see  Landolphias
+
+Rubbish-heaps,    Why    haunted    by
+Hawks,  story,  189
+
+
+Sacrifice  (see  Animal,  and  Human),
+to  Cotton  trees,  34,  36  ;
+to  Ghosts,  232-3  ;  at
+Town-founding,  263
+
+Salt  Springs,  317-8
+
+Salutations  on  entering  Towns,  297
+
+Sambon,  Dr.  W.,  on  Rat-eating
+Snakes  in  ancient  Rome,
+
+25-7
+
+Sanctuaries  for  Animals,.  24,  213-4,
+262
+
+Sanitation,  and  Decrease  in  Popula-
+tion, 202
+
+Sapele,  Roads  of,  5
+
+Scars  on  Arms,  Ekoi  ideas  on,  203
+
+Scavenger  Birds,  Tabus  on,  408
+
+Sciatica,  Juju  causing,  278
+
+Screw  pines,  Kwa  river,  1
+
+Second  Sight  of  Animals  and  Men,
+230,  232
+
+Secret  Chambers  in  Ekoi  Houses,  265
+
+Secret  Societies  [see  also  Egbo),  13,
+410-3 ;  origin,  37
+
+Seven  (the  number),  in  Folk- tales,  9,
+336-7
+
+Seven  Witchcrafts,  The,  199-200
+
+Sex-shifting  in  Folk- tale,  378-80
+
+Shadows  of  the  Absent,  calling  up  of,
+by  Egbo,  40 ;  Ekoi  belief
+on,  231
+
+Shape-shifting  (see  also  Efumi,  and
+Metamorphosis)  ;  of  Ani-
+mals, 67-70 ;  of  Efumi,
+243  ;  Ekoi  belief  in,  191 ;
+of  Witches  and  Wizards,
+
+195.  199
+Sheep,  as  Cunning  beast,  337 ;  Juju,
+
+in  Folk-tale,  344  et  sqq.
+Sheep    and    Leopard,    in    Folk- tale,
+
+337-4°
+Shields,  Ekoi,  271
+
+Shinto  beliefs  and  Ekoi  parallels,  232
+Shrew,  Oban  District,  466
+Shrines  of  Nimm  Women,  94-5
+Sierra    Leone,    Leopard    Society    of,
+
+38  n.
+
+K  K
+
+
+498
+
+
+INDEX
+
+
+Sight,  Hearing,  &c,  Ekoi  keenness  of,
+
+320
+Signs,  Flowers  and  Leaves  as,  287
+Singing,  at  Funerals,  239
+Size,  increase  of,  in  Witch  revels,  192
+Skull  People,  and   Town,  story   of,
+
+274-7
+Skulls,  Dancing,  in  Folk-tale,  275
+Juju  uses    of,     217,     223-4,    257»
+
+260,  261,  411
+Sky  father  and   Earth  mother   (see
+
+Obassi      Osaw      $     Nsi),
+
+Wedding  of,  Ekoi  parallel
+
+symbolism,  14  et  sqq.
+Slave-giving,      to      Husband,      and
+
+Divorce,  114
+"  Slave  towns,"  325
+Slave  trade,  Ekoi  share  in,  325
+
+Old  centres  of,  151
+Slavery,  314;  and  the  Egbo  Society,
+
+42,  46
+Slaves,  Cruelty  to,  case  of,  328  et  sqq.
+Dead,  disposal  of,  326
+Escapes  of,  Juju  against,  327
+How    they     killed    the    Free-born
+
+with  Gall,  story,  27  etsqq.,
+
+333-4
+Made  by  Efiks,  of  Ekoi,  38
+Prices  of,  327,  328
+Slain  at  Funerals,  328  et  sqq.
+in  War  time,  fate  of,  271-2    '
+Small-pox  medicine,  10
+"  Smelling-out  "     powers    of     Ekuri
+
+Ibokk,  45
+Snails,  Screaming  and  Springing,  473
+Snake-form  of  Nimm,  2
+Snakes  (see  also  Cobras  and  Pythons),
+alarms    from,    4,    206-7 ;
+Ekoi  cult  of,  24,  25 ;  Fat
+of,  in  Medicine,  278  ;   Kwa
+river    region,    2,   4-5 ;  of
+Lakes  Ijagham  and  Nsan,
+153  ;    of    Oban    District,
+470;  Poisonous,  as  Juju,
+91  ;     as    Were  -  animals,
+Egbo  trial,  83-4
+in  Folk-tales,  377,  383
+
+Snake  and  Frog,  Why  they  never
+
+play  together,  386
+Why  Snake  has  neither  Hands
+nor    Feet,    376-7,    <#■  see
+
+325
+Societies  (see  Secret),  various  kinds,
+
+48  $  n.
+Songs  (see  also  Drum  Songs)  ;  of  Boy
+
+without   Hands   or    Feet,
+
+375
+about  Calabar  river,  242
+of  Carriers,  at  river,  91
+
+
+Songs — continued.
+at  Eja  festivals,  76-7
+of  Ekandem,  275
+Funeral,  Ghost-excellence  in,  239
+of  the  Herb  daughter,  138
+of  Igwe,  102
+of  Killing-thing,  235
+Mansfeld's  Collection  of,  T53
+of  Obegud,  101
+of  Welcome  to  the  New  born,  120,
+
+121,  122
+to  Town  Drums,  297
+Souls  or    Spirits,  Animal,  see    Bush
+Soul,  and  Efumi,
+Human,  in  Ekoi  beliefs,  80  et  sqq.,
+
+230  et  sqq.,  272
+Plant,  287
+Things,  232
+Spears,  271,  272;  Juju,  55,  130,  221,
+
+222
+Spiders,    New   Species,   Bird-Eating,
+
+471-2
+Spitting,  Ceremonial,  91,  141,  171
+Spotted  Antelope,  tabus  on,  142-3
+Squirrels,  Flying,  467;    in  Folk-tale,
+362  ;  Oban  District,  467-8
+Stars,  Ekoi  names  for,  190
+
+How  they  all  came,  story,  349~55
+How  the  Two  Biggest  came  into
+the  Sky,  story,  355  et  sqq.
+Statue  of  Nimm  at  Niagi,  94
+Stilt-walking,  origin  of,  284-5
+Stomach,       Hair's       Revenge       on,
+
+story,  394-6
+Stones  (see  also  Etai  Ngbe,  and  Nimm
+Stones)  ;  Carved,  17 1-2;
+Unhewn,  circles  of,  at
+Oban,  rites  connected
+with,  10;  Wedged  into
+Tree-forks,  160-1
+Stories,   How  all  came  among  Men,
+
+story,  337  et  sqq.
+Storm-making  Juju,  73
+Strangers,  Burial  places  of,  227
+Streams,  Oban  District,  6
+Sucking  out  Heart  of  Men  and  Things,
+
+192-3,  208  $  n.,  232
+Sun,  How   it   came    into    the    Sky,
+story,     357-9
+and  Moon,  How  they  went  up  to
+the  Sky,  story,  359-64
+Prayers  to,  21-2
+Sunset,    Why   sometimes    Red     and
+
+Stormy,  story,  364-6
+Supplication,  sign  of,  331
+Surgery,  Ekoi,  278-9
+Surnames,  132
+Sword  dance,  413
+Swords,  Children's  "  Play,"  217
+
+
+INDEX
+
+
+499
+
+
+Symbolism,    Ekoi,    see    Leaves    and
+Green  Bough,  and  Pots
+
+Ta  Amat  Medicinal  Juju,  Oban,  10
+Tabus,  Hunting,  114,  407-9
+Juju,  181  et  alibi
+Pre-natal,  130,  167
+Totemistic,  143
+Tailor  sewing  Body  together,  story,
+
+392
+Talbot,  Mrs.  P.  Amaury,  accident  to,
+164  ;  Adventures  of,  with
+Snakes,  4 ,  206-7  '•  Botani-
+cal drawings  by,  462  ;
+Dormouse  named  after,
+468-9
+Talbot,  P.  Amaury,  native  drawings
+
+of,  90
+Tallies,  304
+
+Tatabonko  fish,  Kwa  river,  2
+Tegott  river,  Uyanga,  of,  255
+Temperance,  Ekoi,  and  British,  314-6
+Temperature,  Oban  Station,  476
+Theft,  Juju  against,  50,  296  ;  punish-
+ment of,  311
+Thomas,  N.,  on    Lame  Man  in    pro-
+cession at  Benin,  336;  on
+Negroes  as  Porters,  318
+Thunder,  beliefs,  and  stories  on,  23,
+
+73,  207,  211
+Thunder  Town  {see  Nsann),  in  Ekoi
+
+Folk-Lore,  story  of,  207
+Toads,  Oban  District,  470
+Tobacco,  Ekoi  delight  in,  290
+Tomatoes,  legend  on,  122,  238-41,  336
+Tom-toms,  297
+Tooth-filing,  319
+Tops,  286
+Tornadoes,  366
+
+Torque  or  anklet,  in  Ofiri  Juju,  49
+Tortoise  in  Folk-tale,  7  et  seq.,  371-3,
+378-80 ;  Cunning  of,  337  ;
+How   he   got   the  Cracks
+and  Bumps  on  his  Back,
+380-2  ;  How  Obassi  Osaw
+proved    the    wisdom    of,
+396-7,  4'   see   218;    Why
+Sacrificed   in    Juju  rites,
+55  et  sqq.
+Totem  Animals,  origin  of,  81
+Totem  Peoples,  inter-marriage  of,  87
+Totemistic    details    in    Egbo    Plays,
+
+38-9
+
+Tabus,  143
+Totems  not  eaten,  137,  138
+Towns,  Egbo  Houses  in,  39
+
+Entrances  of,  Leopard  charms  at,  7
+
+Hours  for  Ghosts  to  visit,  232
+
+Jujus  of,  49-50
+
+
+Tow  ns — continued .
+
+Moving  of,  to  fresh  sites,  Typical
+
+cases,  201-2,  262  et  sqq.
+Sacrifices  at  Founding,  263
+Why  Ape  People  no  longer  live  in,
+story,  78-9
+Trade  and  Trade  Routes,  Ekoi,  205,
+
+266-7
+Trance,  Ekoi  beliefs  on,  231
+Treasure  Chambers  in  Egbo  houses,
+151,  220
+House,  The,   in    the  Bush,  story,
+390-4
+of  Itagbun,  141
+Tree  and  Bird  worship,  Cretan  and
+
+Ekoi,  14
+Trees   (see  also  Juju  trees,    4*  under
+Names)  in  Folk-tales  and
+sayings,   323   et  passim. ;
+in  House-building  ritual,
+263  ;      Magic     properties
+ascribed  to,  30,  195  ;  Souls
+of,  287
+Vocal,  31-2,  story  on,  32  et  sqq.
+Twins,  Ekoi  attitude  to,  120-3
+Twitching  of  various  parts  of  Body,
+
+Divination  by,  324
+Two-faced  "  Image,"  Egbo  analogies
+of,  44
+
+Ukai  Club,  411
+
+Ukpe  Ewaw,  Ball  game,  285-6
+
+Ukpon  River,  Cataracts  and  Crocodile
+
+of,  215
+Ukwa  Club  (Calabar),  411
+Unborn,  homes  of,  122
+Uncle  and  Niece  marriages,  110-11
+Unloved    Son  in  Folk-tales,  207-11,
+
+355,  359,  363,  393-4
+
+Utap-Anam  Club,  412
+
+Uyanga  people,  Language  of.  Vocabu-
+lary of,  424-45  ;  locale  of,
+242,  255  ;  Nsibidi  of,  305  ;
+Physical  characters  of,
+414  ;  Renown  of,  255
+
+Vegetation,  Kwa  river  shores,  1,  6
+Vengeance,Tree-sacrificesand,3O0?se^.
+Villages,  Amusements  in,   283-6
+Egbo  houses  in,  39
+Medicine  in,  278-83
+Plan  of,  266
+Virginia  creeper-like  tree,  properties
+
+of,  223
+Vocabularies  of  the  Six  Tribes  in  the
+Oban  District,  List  of
+Words  chosen  by  Sir  H.
+H.  Johnston,  Appendix  F.,
+424-45
+
+
+5oo
+
+
+INDEX
+
+
+Vocal  Trees,  31-2,  story  on,  32  etsqq.
+Vulture,  tabu  on,  408
+
+
+Wakes,  222,  225
+
+Wall-paintings,  90,  107,  263-4,  29°
+
+Wands,  see  Whip
+
+War,  Ritual  preliminaries  and  Juju,
+271-2
+
+War-dances,  261,  272,  411
+
+Warfare,  271  et  seq.
+
+Washing,  Personal,  Ekoi,  12 ;  Ritual
+of,  21-2
+
+Water  and  Disease,  story,  280-3
+and  Palm  trees,  How  they  came  on
+
+Earth,  story,  373
+Ritual  use  of,  see  Libations
+
+Water  Chevrotain,  160;  in  Folk-
+tales, 352,  365  ;  Hunting
+tabu  on,  407  ;  Oban  Dis-
+trict, 468
+
+Waterways,  206
+
+Weapons,    see    Guns,     Shields,   and
+Swords,
+within    Witch's    body,    250,    251
+et  sqq.
+
+Weaver-birds,  Sacred,  14
+
+Welcome,  Ekoi  sign  of,  211  4"  n-
+
+Were-beasts,  see  Efumi
+
+West  Africa,  Ritual  of,  Lame  Boy  in,
+336  ;  Population  of,
+southward  trend  of,  245
+
+Whipping,  Ceremonial,  44,  45,  65,
+284
+
+White  (see  also  Chalk) ,  Ceremonial  use
+of,  113,  186,  256
+Animals  in  Vengeance  Sacrifice,  31
+Men,  and  Black,  How  they  came
+on  Earth,  story,  387-9
+
+Widows,  re-marriage  of,  116-7
+
+Wild  Boar  in  Folk-tale,  362
+
+Wild  Cat,  in  Folk- tale,  366 ;  Ravages
+of,  223  ;  Tabu  on,  408
+
+Winds,  causes  of,  72-3
+
+Witchcraft,  132;  Charms  and  Jujus
+against,  49  et  sqq.,  96-7,
+148,  198,  200;  Diseases
+due  to,  278  ;  Murder  by,
+192  ;  Seven  different  kinds
+of,  story  on,  199-200 ;
+Terror  of,  3,  201-2
+
+Witch  doctors,  Exorcism  by,  194-5
+
+Witch,  Outfit  of,  Crab-claws  in,
+story  on,    196-8
+
+
+Witches  and  Wizards,  Animal  shapes
+assumed  by,  195,  199
+Bat  messenger  of,  193  ;  Cry,  and
+Boat  of,  195  ;  Dances  of,
+192  ;  Dead,  beliefs  on,
+198-9  ;  Familiars  of,
+I93~4»  4°8,  story  on,
+196  ;  in  Folk-tales,  223-4,
+225,  237,  279,  402-4  ;
+Offerings  to,  200 ;  How
+kept  at  bay,  123,  195
+
+Wives,  attitude  of,  to  Polygamy,
+109-10  ;  Faithfulness  of,
+how  secured  and  tested,
+105,  108-9,  166,  224  ;
+Position  of,  97,  109-10,
+117  ;  Property  of,  314  ;
+Running  away  of,  327,
+story  on,  114-^6
+
+Woman  covered  with  Sores,  in  Folk-
+tales, 208,  234-5,  336
+
+"  Woman's  day,"  94
+
+Women,  Avocations  of,  223,  263,
+265,  266,  269,  270,  290
+<$•«.  ;  Clubs  of  (seeEkkpa,
+and  Nimm),  41,  412-3  ;
+Important,  Funerals  of,
+224-5  ;  in  relation  to
+Jujus,  10,  21,  44,  224-5  ;
+Keloids  on,  203  ;  Position
+of,  stories  on,  98-104  ;
+Subject  to  Trances,  231  ;
+Tabus  for,  on  Food,  410,
+story  on,  411
+Why  Men  must  Serve,  story,  98
+Why  they  do  not  wear  Hats,  1 1 7-9
+
+Wooden  instruments  used  in  Utap
+Anam  Club,  412
+
+Wraiths,  visions  of,  232
+
+Wrestlers  and  Wrestling,  200, 285,  287
+
+Wrestling  Ghosts,  7-9
+
+Wrist-cutting,  131
+
+Writing,  Secret,  see  Nsibidi
+
+Yams  (see  also  Coco-yams),  18  et
+passim. ;  harvest,  &c,
+of.  269  ;  sacrificed  to
+Ghosts,  232-3  ;  tabus  on
+eating,  77,  269
+New,  Festival  of,  dangers  of,  242
+et  seq.
+
+Yaws,  279
+
+Yellow,  ritual  use  of,  41,  42,  221,  222
+
+Zoology,  Appendix  L.,  465-73
+
+
+BRADBURY,   AGNBW,    &   CO.    LD.,    PRINTERS,    LONDON    AND    TONBRIDGE.
+
+
+Date  Due
+
+_r^^^
+
+lE^-r
+
+Demco  293-5
+
+T3
+

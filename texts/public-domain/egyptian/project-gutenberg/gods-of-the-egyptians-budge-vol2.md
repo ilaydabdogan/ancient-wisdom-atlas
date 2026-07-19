@@ -80,6 +80,9 @@ in  2009  with  funding  from
 Microsoft  Corporation
 
 
+http://www.archive.org/details/godsofegyptianso02budg
+
+
 THE
 
 GODS    OF   THE    EGYPTIANS
@@ -1448,7 +1451,7 @@ reproductive   powers   of  nature.      The   text   reads,   "  Hail,    thou
 
 "  Bekhennq  (J  ^  0  v\  T) ,  Bekhennu  !  Hail,  Prince,  Prince  !
 "  Hail  Amen,  Hail  Amen!  Hail  Par,  Hail  Iukasa  C^K  1^  j£=&  Jn
-"  (m  v\  ^=^>  * k\  tpj !  Hail  God,  Prince  of  the  gods  of  the  eastern
+"  (m  v\  ^=^>  *<k\  tpj !  Hail  God,  Prince  of  the  gods  of  the  eastern
 "  parts  of  heaven,  Amen-Nathekerethi- Amen  (f\  Jn  /WWVN  ^,  fl
 "  ^^  I  ft! fl Q  0^1  0  Jn)  •  Hail,  thou  whose  skin  is  hidden,  whose
 "  form  is  secret,  thou  lord  of  the  two  horns  [who  wast  born  of]
@@ -1764,7 +1767,7 @@ Rameses  II.  "rose  up  as  Ra  riseth,  and  took  the  weapons  (flfifl)
 "  he  raged  at  them  like  Menthu,  lord  of  Thebes,  and  took  his
 "  weapons   in   his   hand,"    and    that    having    become   like    "  Bar
 
-(  J   r=>  ^n  in  his  hour,"  he  leaped  into  his  chariot  and  drove
+(  J  ‹r=›  ^n  in  his  hour,"  he  leaped  into  his  chariot  and  drove
 
 headlong  into  the  battle,  wherein  he,  of  course,  gained  a  great
 victory.  Elsewhere  Menthu  is  often  styled  the  "  mighty  bull,"
@@ -1894,7 +1897,7 @@ she   was   thought   to   have   existed  with   Nu   in   primeval    time,
 
 aaaaaa     pa  q
 
-AA/WSA     k^v   J}^'. ""      •       She    was,    moreover,    called
+AA/WSA    <k^v   J}^'. ""      •       She    was,    moreover,    called
 
 
 AAAAM       nnn    W\AA>\
@@ -2239,7 +2242,7 @@ lord  of  heaven,"   he  is  seen  seated  on   a  throne   and  holding  in
 
 his  hands  1  and  ■¥•.     As  Khensu  Nefer-hetep  he  appears  on  the
 
-stele  of  Pai,  J^   g\   (1(1  ^j ,  in  the  form  of  a  mummied  man  seated
+stele  of  Pai,  J^  <g\   (1(1  ^j ,  in  the  form  of  a  mummied  man  seated
 
 on  a  throne ; 3  over  his  forehead  is  the  uraeus  of  royalty  and  by
 the  side  of  his  head  is  the  lock  of  youth.     Behind  his  neck  hangs
@@ -2372,7 +2375,7 @@ petition  that  the  king  would  send  a  god  to  heal  his  daughter,  and
 the  envoy  arrived  in  Thebes  at  the  time  when  the  king  was
 celebrating  the  festival  of  Amen.
 
-As  soon  as  the  kin r  had  heard  what  was  wanted  he  went  into
+As  soon  as  the  kin<r  had  heard  what  was  wanted  he  went  into
 the  temple  of  Khensu  Nefer-hetep,  and  said  to  the  god,  "  0  my
 "  fair  Lord,  I  have  come  once  again  into  thy  presence  [to  entreat]
 "  thee  on  behalf  of  the  daughter  of  the  Prince  of  Bekhten  "  ;  and
@@ -2588,7 +2591,7 @@ was  declared  to  be,  not  only  the  maker  of  the  universe,  but  the
 creator  of  everything  from  which  both  it  and  all  things  therein
 sprang.     At  a  very  early  period  he  absorbed  the  attributes  of  Nu,
 
- w  ~n .  the  primeval  watery  mass  from  which  Ra,  the  Sun-
+<w  ~n .  the  primeval  watery  mass  from  which  Ra,  the  Sun-
 
 
 god,  emerged  on  the  first  day  of  the  creation ;  and  as  a  natural
@@ -2857,7 +2860,7 @@ fg*
 
 (SOD  kW  1^  I*  —  O m^  i*  1^
 
-°L=~  /" M       61   ww\a       n  -e\  f\    ^\  /www      k_^_j
+°L=~  /" M       61  <ww\a       n  -e\  f\    ^\  /www      k_^_j
 
 Sin
 
@@ -3078,7 +3081,7 @@ the  double    cavern  (?)    Qerti,  <~>  ^ ,  which  was  likened  to  two
 1 1  n  1 1 1 1 1 1      -  —  -m  LJ
 
 breasts,  ~^  V  ?  from  which  all  good  things  poured  forth ;  this
-double  cavern  was,  in  fact,  the  "  couch  of  the  Nile,"  ^=   p=^  D
+double  cavern  was,  in  fact,  the  "  couch  of  the  Nile,"  ^=  <p=^  D
 £==  (^  ^_%  ar>d  from  it  the  Nile-god  watched  until  the  season
 of  inundation  drew  nigh,  and  then  he  rushed  forth  like  a  vigorous
 young  man,  and  filled  the  whole  country.1  At  Elephantine  he
@@ -3308,7 +3311,7 @@ she  is  seen  suckling  a  young  king  whose  neck  she  embraces  with  her
 left  arm,  and  in  a  text  which  accompanies  another  representation
 she  is  described  as  the  "  giver  of  life,  and  of  all  power,  and  of  all
 
-"  health,  and  of  all  joy  of  heart,"  ^  ^  ^7  [1  ~J  |  ^   A  ^ .
+"  health,  and  of  all  joy  of  heart,"  ^  ^  ^7  [1  ~J  |  ^  <A  ^ .
 
 We  have  now  to  consider  two  very  important  forms  of
 Khnemu,  that  is  to  say,  1.  Khnemu  who,  under  the  form  of  Her-
@@ -3531,7 +3534,7 @@ to  be  mentioned  as  a  form  of  Nut,  and  to  be  the  female  counter-
 part of  the  serpent  god  Nau.1  She  was  a  goddess  who  provided
 for  the  dead  meat  and  drink,  not  the  material  offerings  of  earth,
 
-but  the  divine  tchefaut  food,  ^     |  *|\    \\  <=>   l^  3   i ,  or        |)  ^=^ ,  or
+but  the  divine  tchefaut  food,  ^     |  *|\    \\  <=>  <l^  3   i ,  or        |)  ^=^ ,  or
 
 tcheftchef,  ^^%    "^  "%v  ,  which  may  be  compared  to  the  nectar
 
@@ -3907,7 +3910,7 @@ religious  views  of  his  father,  but  held  them  very  strongly,  and  his
 its  breadth  600  cubits."
 
 
-«   U  ^=—   s>~- £>   o a,  i.e.,  "its  length  3600  cubits,
+«   U  ^=—   s>~- £>  <o<a,  i.e.,  "its  length  3600  cubits,
 
 
 AMEN-HETEP    IV.    (KHU-EN-ATEN)  71
@@ -4605,7 +4608,7 @@ lines  251,  252.
 
 The  triple   Company  to   which   allusion    is  sometimes  made,
 
-nmninmrnmnmrn   t^>  «-  ^  *-  *--
+nmninmrnmnmrn  ‹t^›  «-  ^  *-  *--
 
 bably  supposed  to  include  the  Great  Company  of  the  gods  of
 heaven,  the  Little  Company  of  the  gods  of  earth,  and  the  Company
@@ -4721,7 +4724,7 @@ La  Mythologies  Hgyptienne,  p.  247.
 
 2  Religion,  p.  422.  3  Brugsch,  Beise,  pi.  26,  1.  26.
 
-h  (1(1   jj  y  see  the  list  of  passages  given  in  my  Vocabulary  to  the  Boole  of
+h  (1(1  <jj  y  see  the  list  of  passages  given  in  my  Vocabulary  to  the  Boole  of
 the  Dead,  pp.  197,  198.
 
 
@@ -4767,7 +4770,7 @@ sometimes  depicted  in  the  form  of  a  lioness.
 
 1       AAA/WV
 
-4                         '             l— J           Xk*s*  "**    ■     — '                 W^fcX                 I)        /vwvv\     i                v w           0\r"                                                       n
+4                         '             l— J           Xk*s*  "**    ■     — '                 W^fcX                 I)        /vwvv\     i                v<w           0\r"                                                       n
 
 *^-_      1  I  Jl  J\  Jfi^  A     A^AAA  JL  °
 
@@ -5650,7 +5653,7 @@ mother.  In  the  text  of  Teta  (line  175),  it  is  said  to  the  deceased,
 "  Nut  hath  set  thee  as  a  god  to  Set  in  thy  name  of  '  god,'  and  thy
 "  mother  Nut  hath  spread  herself  out  over  thee  in  her  name  of
 
-,- ,       MAMA     < r\  3-?         pa  r-1
+,- ,       MAMA     <<r\  3-?         pa  r-1
 
 " '  Coverer   of  the    sky,' "    ^  ^  NK  O  ^L    1   —
 
@@ -5765,7 +5768,7 @@ the  name  Ast,  or  Isis.     In  Thebes  Nut  was  identified  with  Isis,
 
 the  god-mother,  A\  <=>  vv ,  the  lady  of  Dendera,  the  dweller  in
 
-Ant,  the  goddess  Nubt,  i*to M    wk0  was  bc-ra  in  Per-Nubt,   and
+Ant,  the  goddess  Nubt,  i*to<M    wk0  was  bc-ra  in  Per-Nubt,   and
 
 gave  birth  to  her  brother  Osiris  in  Thebes,  and  to  her  son  Horus
 
@@ -5831,7 +5834,7 @@ fourth  is  said  to  be  a   "beautiful  festival  of  heaven  and  earth,"
 NUT
 
 
- Z£?  T  V  F  "V  The  part  which  Nut  played  in  the  Egyptian
+<Z£?  T  V  F  "V  The  part  which  Nut  played  in  the  Egyptian
 Underworld  was  a  very  prominent  one,  and  from  numerous
 passages  in  the  Book  of  the  Bead  we  can  see  that  without  her
 favour  life  would  be  impossible  for  those  who  have  left  this  world,
@@ -6035,7 +6038,7 @@ who  is  the  female  counterpart  of  Osiris,  and  it  is  very  probable
 that  originally  the  same  conception  underlay  both  names.  It  is
 useless  to  argue1  that,  because  the  dynastic  Egyptians  at  a  late
 period  of  their  history  substituted  the  disk  of  Ra,  O,  for  the
-eye,  -(s)-,  in  the  name  As-ar,  and  because  they  addressed  to  the
+eye,  -‹s›-,  in  the  name  As-ar,  and  because  they  addressed  to  the
 o-od  hymns  in  which  they  identified  him  as  the  source  of  light  and
 as  Ra,  therefore  As-ar  was  originally  a  solar  god,  especially  when
 we  remember  the  childish  plays  upon  words  which  the  priests
@@ -6286,7 +6289,7 @@ text  of  Unas  (line  1 9 1  if.)  the  Angels  of  Thoth,  ^  V  ^  ^  ^  ^ ,
 
 and     the    Ancient    Ones,       ^     v^,    and    the    Great     Terrifier,
 
-I   zs^  \\   v\  ^=s ,  who  cometh  forth  from  the  Nile,  fi  ,  Hap,
+I  <zs^  \\   v\  ^=s ,  who  cometh  forth  from  the  Nile,  fi  ,  Hap,
 
 and  Ap-uat,  \f  S=^^£^3:  d^,   who  cometh   forth   from    the
 
@@ -6312,7 +6315,7 @@ was  situated  is  called  Aaru,  (I  "%\  _^£  ])])])])  >  *ne  name  having 
 a  determinative  a  sign  which  is  intended  to  represent  a  mass  of
 waving  reeds;    in  another  place   (line  412)   the  region  is  called
 
-Sekhet- Aar,  H  ®  jjj]]]  \\   K\  _s^ ,  and  is  identical  with  the
+Sekhet- Aar,  H  ®  jjj]]]  \\  <K\  _s^ ,  and  is  identical  with  the
 Sekhet-Aarru,  DJJO  ^  Q  1^  *ST  ^ '^X  i  n '  anc*  Sekhet- Aanru,
 1 1 Q  "  0  ^\  ™  lm~  ^  ,  of  the  later  Recensions  of  the  Book  of
 the  Dead.  From  a  number  of  other  passages  Ave  find  that  Aaru  or
@@ -6333,7 +6336,7 @@ Y~)    Mv  V  ^^  ' '  *'e*'  "  Field  °f  ^ne  Grasshoppers,"  l  and  in
 it  were   the   Lakes  of  the  Tuat,  c^>  X       ,  and   the
 
 
-Lakes  of  the  Jackals,  L  J  — h—   k\        v\  -^  a .      In  the
+Lakes  of  the  Jackals,  L  J  — h—  <k\        v\  -^  a .      In  the
 
 waters  of  Aaru,  or  Sekhet-Aaru,  Ra  purified  himself  (Pepi  I.,
 line  234),  and  it  was  here  that  the  deceased  also  purified  himself
@@ -6719,7 +6722,7 @@ Festival  of  the   Ploughing  of  the  Earth  and  the  Festival  of  the
 TenA,  (j ,  were  celebrated;    on   the   xivth   day  the  great
 
 1  The  hieroglyphic  texts  tell  us  that  the  head  of   Osiris  was  buried  in  the
-sanctuary  of  Arq-heh,    c=r>       «     Mr   l  © ,  in  Abydos ;  his  left  eye  was  buried  in
+sanctuary  of  Arq-heh,   ‹c=r›       «     Mr   l  © ,  in  Abydos ;  his  left  eye  was  buried  in
 
 Het-Maakheru,  [)  I  ,  in  Lower  Egypt ;  his  eyebrows  were  buried  in  Am,  ^~
 (PeVusium) ;  his  jaw-bones  Avere  buried  at  Faket  in  Upper  Egypt ;  certain  portions
@@ -6831,7 +6834,7 @@ appears  in   a  group  with  the    Hawk-god   Seker,  the   Beetle-god
 
 Kheprer,  and  the  goddess  Shent,  aaKaa,  and  has  two  forms,  i.e.,
 
-Osiris,  lord  of  Khut,  and  Khent  Amenti,    r  -(s)-  ^37  '^^    °  ,  and
+Osiris,  lord  of  Khut,  and  Khent  Amenti,    r  -‹s›-  ^37  '^^    °  ,  and
 
 flm  ^    >^>  f '     ^n  ano^ner  scene2  he  appears  in  the  form  of  the  Tet
 
@@ -7321,7 +7324,7 @@ It  has  already  been  said  that  the  great  source  of  information
 J  H  0
 
 
-1 H  _#  ^^   c==>  2T  i !  AAAAAA  K  i !  X  ©   i /wwv'  I©   i '  Chaiifcer  clxxv- of
+1 H  _#  ^^  ‹c==›  2T  i !  AAAAAA  K  i !  X  ©   i /wwv'  I©   i '  Chaiifcer  clxxv- of
 
 the  Book  of  the  Dead  (Ani,  pi.  19,  1.  16).
 
@@ -7347,7 +7350,7 @@ of  their  judgment  seems  to  have  been  situated  in  the  sky ;  no
 details  of  the  manner  in  which  it  was  performed  are  given,  but  it
 seems  as  if  the  judgment  consisted  in  the  "  weighing  of  words,"
 
-%s>  piq    ft  f\     r-=^  v\,  utcha  metn,  that  is  to  say,  the  weighing  of
+%s>  piq    ft  f\    <r-=^  v\,  utcha  metn,  that  is  to  say,  the  weighing  of
 
 actions,  for  the  word  metu  means  "  deed,  action,"  as  much  as
 "  word  "  (like  the  Hebrew  ddbhdr,  "Q"j).  The  "  weighing  of  words"
@@ -7655,7 +7658,7 @@ of  the  gods,  thou  who  hast  many  names,  whose  forms
 
 1  I.e.,  the  ninth  nome  of  Lower  Egypt,  also  read  Anetch.
 
-2  Qereret  =  Oerti,  ,  or  (z)  ,-M ,  were  the  two  caverns  where  the
+2  Qereret  =  Oerti,  ,  or  ‹z›  ,-M ,  were  the  two  caverns  where  the
 
 Nile  was  thought  to  rise  at  Elephantine.
 
@@ -7869,7 +7872,7 @@ crowned  lord  of  Tettu  (Mendes),  and  ruler  in  Abtu  (Abydos).
 "  Homage  be  to  thee,  0  King  of  kings,  Lord  of  lords,  Ruler
 "  of  princes,  who  from  the  womb  of  Nut  hast  ruled  the  world  and
 
-"  the   Underworld    u\   J±>  f^^^o   Akert).     Thy  members  are    [like]
+"  the   Underworld    u\  ‹J±›  f^^^o   Akert).     Thy  members  are    [like]
 
 "bright   and  shining  copper,  thy  head  is  blue  [like]  lapis-lazuli,
 
@@ -8433,7 +8436,7 @@ iVw  mw  -  /  Jcheni-nef  meht  mesas
 z£3
 
 
- ff
+<ff
 
 
 we/
@@ -8762,7 +8765,7 @@ trheru                uatu            men  db  retui-f              thest
 of  boundaries      remote,     firm  of  heart,  his  two  feet    are  lifted  up.
 
 
-«w ra  $£&  sutenit         taui  maa-f  khu  -  f
+«w<ra  $£&  sutenit         taui  maa-f  khu  -  f
 
 Heir  of  Seb      and  the   of  the  two  He  hath  seen  his  power,
 
@@ -8778,7 +8781,7 @@ he  hath  given   to  him      to  lead  the  lands  by  [his]  hand      to
 
 command
 
-(Q)  H—     I  A^AAAA  ■  ,  |— |
+‹Q›  H—     I  A^AAAA  ■  ,  |— |
 
 A  □  ©    I  *L=_  I       S     /wwvv
 
@@ -8833,7 +8836,7 @@ to  crown    on    the  throne    of    the  father    like    Ra.       He  ris
 [him]
 
 
-cOd  "^^^  jc^.       wr  D
+cOd  "^^^  jc^.      <wr  D
 
 
 —  *     ^^  pf^
@@ -8863,7 +8866,7 @@ s&a%  semi*         e%  %e£er     -?z.e6  menhh  utu
 
 of  the  star  gods,  the  guide    of    god   every,  operative  by    command
 
-mek  /im  e?i      £> z%i(  neteru  dat         merer
+mek  /im  e?i      £><z%i(  neteru  dat         merer
 
 and  word,  favoured  one  of  thepaut   of  the  gods   great,    beloved  of
 
@@ -9245,7 +9248,7 @@ hearts     are  glad,     hearts         rejoice,  every  face      is  happy.
 
 1*J*~    ?*1    ILL'        II-     T-
 
- iifc  bu-neb  her  tua       neferu-f  netchemui         mert  -  /
+<iifc  bu-neb  her  tua       neferu-f  netchemui         mert  -  /
 
 Every  place  adoreth   his  beauties.  Doubly  sweet   is  his  love
 
@@ -9337,7 +9340,7 @@ neb-f  smen  Madt    en  neb  -  s       ertau  sa
 
 its  lord,     established  is    Maat    by  its  lord,  it  giveth  the  back
 
--  qp r^  I    ?-■  ±J  %:  At  «A
+-  qp<r^  I    ?-■  ±J  %:  At  «A
 
 er  a.s/ef      netchern       db-h        Un-nefer      sa        Ad        sh&p
 
@@ -9947,7 +9950,7 @@ D
 M-fTJ
 
 
- g
+<g
 
 
 ^  III
@@ -11329,7 +11332,7 @@ KmmMiz^MZ*i^m%m&mD
 iwig^sf^^iCsrs^/^^eH-jri^^x^i
 
 
-mS  Ifrl^EBKSS^IHeiails  H*r. n
+mS  Ifrl^EBKSS^IHeiails  H*r.<n
 
 
 i^ttzzmtmizzmntiW^mHrm
@@ -11704,7 +11707,7 @@ Matet  Boat,  i.e.,  the  boat  of  the  rising  sun  (line  293) ;  moreover,
 he  is  declared  to  be  the  very  son  of  Isis  and  of  her  twin
 form  Nephthys.1  In  a  remarkable  passage  in  the  text  of  Teta
 (line  84)  the  deceased  is  introduced  to  the  triad  of  goddesses,  Isis,
-Nephthys,  and  Asbet,   k\  [>  J  ° ,  as  their  son,  and  elsewhere
+Nephthys,  and  Asbet,  ‹k\  [›  J  ° ,  as  their  son,  and  elsewhere
 (line  172)  Seb,  the  father  of  Osiris  and  Isis,  is  made  to  speak  of
 
 ■  ii  s  sd  t  s  ^  t  *«  ram  ?
@@ -11901,7 +11904,7 @@ spoken.  The  narrative  is  continued  by  Isis  in  these  words  : —
 "  shall  happen  unto  thee,  for  in  thee  is  the  seed  whereof  things
 "  which  are  to  be  shall  be  created.     Thou  art  the  son  within  the
 
-i  ^    J  (a)  Khebet,  or  Khebit,   0    J   (1(1  y&^  "Ml,  is,   as   Dr.  Brugscb   has
+i  ^    J  ‹a›  Khebet,  or  Khebit,   0    J   (1(1  y&^  "Ml,  is,   as   Dr.  Brugscb   has
 
 shown,  the  Egyptian  original  of  the  Greek  Xe/t/us,  or  X6,u/3is,  an  island  in  the
 neighbourhood  of  the  city  of  Buto  (Pe  and  Tep),  which,  according  to  Herodotus,
@@ -12640,7 +12643,7 @@ forth
 
 AJL  — — — LI  /wsaaa  ^£J    /www.  ti       \  J
 
-Tia      «  jTe/ m  Befen  ha-d        sep  sen      Mestet
+Tia      «  jTe/<m  Befen  ha-d        sep  sen      Mestet
 
 with  me  at   Tefen  and   Befen  were   behind  me,    twice,  Mestet  and
 my  side.
@@ -13053,7 +13056,7 @@ through
 If1      ?|  1
 
 
- o<
+<o<
 
 
 dw     ww    i         e/i     hherus         db-d  ant  en  slier
@@ -13115,7 +13118,7 @@ neJchen  er    sednJch      entet  em  ha  dhet  met
 
 the  child  to    vivify  that  of  which  had  closed  the  throat.    0  poison
 
-AAAAAA        V  _C]°\i       1    -/J        <-_>  |  |  S  AAAAAA        '  -A     ^       AAAAAA  _ d       ^
+AAAAAA        V  _C]°\i       1    -/J        <-_>  |  |  S  AAAAAA        '  -A     ^       AAAAAA  _<d       ^
 
 Te/ew.  mddt       per     her        ta  an      sliaset      an       dqet
 
@@ -13460,7 +13463,7 @@ places
 O
 
 
-a         m&/a         nekhen         mit  met  dnkh       Rd     -   mi£
+a        <m&/a         nekhen         mit  met  dnkh       Rd     -   mi£
 
 0      liveth      the  boy,       dieth      the  poison ;      liveth      Ra,      dieth
 
@@ -13619,7 +13622,7 @@ SORROWS   OF   ISIS
 231
 
 
- o)
+<o)
 
 
 Behdt
@@ -13683,7 +13686,7 @@ I  vill  protect,     twice,     my  son
 D
 
 
- Z^3  — "—  ^         \\
+<Z^3  — "—  ^         \\
 
 pet-nes  ddui-s
 
@@ -14108,7 +14111,7 @@ e?)i  pan-sen
 
 at  once,  came       to  me      the  fenmen      from       their  houses,
 
-AAAAAA  AVWNA  rfTX  II        61  -fl  71/3(1  f\      T 5»
+AAAAAA  AVWNA  rfTX  II        61  -fl  71/3(1  f\     <T 5»
 
 r-im^  179.^  I  J)         ^^^0 ■  fl
 
@@ -14184,7 +14187,7 @@ into  them.     The  word  of  power     of      Tern      father      of  the  
 
 /www  Q    /www  f|
 
-186.  *=      *=*  c=z  (a)-  ■¥•-        -jl.     -
+186.  *=      *=*  c=z  ‹a›-  ■¥•-        -jl.     -
 
 ew&      em      pet  em  dri  dnkhet     an         dq
 
@@ -14208,12 +14211,12 @@ hidden
 
 il       Ml188---  M    ^    ?      W
 
- x??m  s/imt       -      /      heh        sep        hru  enen
+<x??m  s/imt       -      /      heh        sep        hru  enen
 
 those  who  were  in     his  service       many  time[s]  a  day.  These  (said)
 
 
- f*_  f  ^  —    ^^(1      T    189-
+<f*_  f  ^  —    ^^(1      T    189-
 
 /&er-/  #?iM  JTer?^      en        mut-f  s  em  un-eref
 
@@ -14236,7 +14239,7 @@ of  the  heart
 d  /W*MA
 
 
-(=)      £3  _  (=)  (Q)
+<=>      £3  _  <=>  ‹Q›
 
 
 ertd  en  Ast       fent-s       em         re-f  her  rekh  set  dru
@@ -14329,7 +14332,7 @@ so  that  may   a  stop  to   the  sailors   of  Ra,    not  will  travel    the
 come
 
 
-AAAAAA  "^  (CZ)  V\  JlKJ'O,  X
+AAAAAA  "^  ‹CZ›  V\  JlKJ'O,  X
 
 
 en    Bd       er  sa  Heru  her  hes-f  utu
@@ -14531,7 +14534,7 @@ The  signification  of  the  name  of  Set  is  not  easy  to  determine.
 Heru,  or  Horus,  certainly  means  "he  who  is  above,"  and  by  analogy
 the  name  Set  ought  to  mean  something  like  "  he  who  is  below ;  "
 and  in  proof  of  this  Dr.  Brugsch  calls  attention !  to  the  well-
-known  Coptic  words,   gp M  "above,"  and  ecHT  "below."     The
+known  Coptic  words,   gp<M  "above,"  and  ecHT  "below."     The
 
 hieroglyphic   form   of    the   name    Set,     U,   or  ,  has   for    its
 
@@ -14615,7 +14618,7 @@ small  serpents  and  noxious  creatures  of  various  kinds.     The  name
 
 of  the  serpent  was  Apep,   TTl  ibM ,  or  Afiapef,  j\  aJ^  J^_ ,
 
-which  is  preserved  in  Coptic  under  the  form   mt juc|>,  but  he  was  also
+which  is  preserved  in  Coptic  under  the  form  ‹mt<juc|›,  but  he  was  also
 
 called  Rerek,   <=>  |® j[_ ,  and  since  he  was  identified  with  a  long
 
@@ -14718,7 +14721,7 @@ were  the  common  symbols  of  Set,  but  instances  are  known  in
 which  he  is  represented  in  the  form  of  a  man,  wearing  a  beard  and
 a  tail,  and  holding  the  usual  symbols  of  divinity.  In  the  example
 figured  by  Lanzone3the  god  is  called  "mighty-one  of  two-fold
-strength,"   x=>  f^f]  ^— °,  and  is  accompanied  by  Nephthys,  who
+strength,"  ‹x=›  f^f]  ^— °,  and  is  accompanied  by  Nephthys,  who
 wears  upon  her  head  a  pair  of  horns  and  a  disk.  Now,  as  Set  was
 the  personification  of  the  powers  of  darkness,  and  of  evil,  and  of
 the  forces  of  the  waters  which  were  supposed  to  resist  light  and
@@ -15126,7 +15129,7 @@ which  she  makes  (Chap.  cli.A),  she  says,  "  I  go  round  about  behind
 "triumph,  thy  head  shall  never  be  taken  away  from  thee,  and
 "  thou  shalt  be  made  to  rise  up  in  peace."  Like  Isis,  Nephthys
 was  believed  to  possess  magical  powers,  and  Urt-hekau,
- !=>  5  LJ  1^  ^  §0  '  f  *,e"'  "  mionty  one  °f  words  of  power,"  was  as
+<!=>  5  LJ  1^  ^  §0  '  f  *,e"'  "  mionty  one  °f  words  of  power,"  was  as
 much  a  title  of  the  goddess  as  of  her  husband,  Set-Nubti,  the
 great  one  of  two-fold  strength,  ^=>  T\f}^  •  Nephthys  also,  like
 Isis,  has  many  forms,  for  she  is  one  of  the  two  Maat  goddesses,  and
@@ -15361,7 +15364,7 @@ but  his  face  is  said  to  be  in  the  form  of  that  of  Anubis,     ^    
 The   localities   in   which   Anubis   was    specially   worshipped    are
 
 Abt,    the   Papyrus    Swamps,    (1  c^  S  ^  ieeei  ,    Sep,    "^C,    Re-au,
-<7=> ffffc®>     Heru-ti,    ^'^~^©,    Ta-hetchet,    =^j[@,    Saiut,
+<7=>‹ffffc®›     Heru-ti,    ^'^~^©,    Ta-hetchet,    =^j[@,    Saiut,
 
 
 262  ANUBIS   AND    OSIRIS
@@ -15528,7 +15531,7 @@ probable  that  the  fusion  of  Horus  with  Anubis  was  a  political
 expedient  on  the  part  of  the  priesthood  who,  finding  no  room  in
 their  system  for  the  old  god  of  the  dead,  identified  him  with  a
 form  of  Horus,  just  as  they  had  done  with  his  father  Set,  and
-then  mingled  the  attributes  of  the  two  £ xls.  Horus  and  Anubis
+then  mingled  the  attributes  of  the  two  £<xls.  Horus  and  Anubis
 thus  became  in  the  new  theology  a  duplicate  of  the  Horus  and  Set
 in  the  old,  and  the  double  god  possessed  two  distinct  and  opposite
 aspects ;  as  the  guide  of  heaven  and  the  leader  of  souls  to  Osiris
@@ -15872,7 +15875,7 @@ supplying  her  with  a  series  of  incantations  of  irresistible  might.
 ^2?HTa<£  P£  n~WWW£T^K,±wt\i£:{:%.&Z)
 
 
-:W.UA^L  €«SS«PWKr**T5/i  rXSMZjlgU h?£<&
+:W.UA^L  €«SS«PWKr**T5/i  rXSMZjlgU<h?£<&
 
 
 TH^^lTm^B\^M^,k-l]im%l
@@ -15899,7 +15902,7 @@ I  I    D.    r~r~*    -Zt~L.  I    I
 rhJ
 
 
-^ijrtf.'yf5rs*£fh.^5^frirrr:^fcvrfas ff
+^ijrtf.'yf5rs*£fh.^5^frirrr:^fcvrfas<ff
 
 
 ^a^tffeBfci^iri^s^ctrrsiKffiRueix*
@@ -17172,7 +17175,7 @@ KHENT-KHATITH    and    ^£7
 
 Heb-Antet.
 
-6  Variants,  (1  U  l)  e»?  Apt-hent  and   j£?  (j       X         I,  Heb-api-hkxi-s.
+6  Variants,  (1  U  l)  e»?  Apt-hent  and  <j£?  (j       X         I,  Heb-api-hkxi-s.
 
 7  Variants,  v^y-  ^2^7,  Apt-Renpit  and  ^ZS^   ^  ,  Heb-tep.
 
@@ -17685,7 +17688,7 @@ Taste,  or  to  the  divine  food  hu.
 
 3.  Maa,  "~~J  3,  the  god  of  the  sense  of  Sight,  is  depicted  in
 the  ordinary  form  of  a  man-god,  who  has  upon  his  head  an  eye,
-(s)-,  which  is  both  the  emblem  of  his  chief  attribute  and  the
+‹s›-,  which  is  both  the  emblem  of  his  chief  attribute  and  the
 symbol  of  his  name.
 
 4.  Setem,  ^  T ,  the  god  of  the  sense  of  Hearing,  is  depicted
@@ -17734,7 +17737,7 @@ the  priests,  no  doubt,  identified  the  World-Body  with  their  local
 gods.  Men  and  gods  were  supposed  to  contain  the  same  component
 parts.     Man  possessed:— 1.  A  physical  body  (^1^,  hhat).      2.  A
 
-1  Dizionario,  pi.  384,  No.  2.  3  Brugscli,  Diet.  G<:o j.,  p.  77G.
+1  Dizionario,  pi.  384,  No.  2.  3  Brugscli,  Diet.  G<:o<j.,  p.  77G.
 
 
 300  MISCELLANEOUS   GODS
@@ -17757,9 +17760,9 @@ The   names    of    these   last   were: — 1.  Heq,      v^;    "intelligence
 "  ,  "power."  5.  Uatch,  J,  "vigour."  6.  Tchefa,  <|v,  "abund-
 ance."    7.  Sheps,    ijJ,    "wealth."      8.  Senem,    ^,    "interment."
 
-9.  Sept,  ^,  "provision."     10.  Tet,  jj,  "stability."    11.  Maa,-(e)-,
+9.  Sept,  ^,  "provision."     10.  Tet,  jj,  "stability."    11.  Maa,-‹e›-,
 
-"sight."     12.  Setem,  4),  "hearing."  13.  Sa,   mm,  "intelligence."
+"sight."     12.  Setem,  4),  "hearing."  13.  Sa,  <mm,  "intelligence."
 
 14.  Hu,    *=,    "taste."       Similarly  the    texts    show    that     the
 
@@ -18056,7 +18059,7 @@ o
 Q
 
 
- Tt)  i  Heru-em-au-ab.
+<Tt)  i  Heru-em-au-ab.
 
 o    u  •
 
@@ -18263,7 +18266,7 @@ w    &
 6.  Themat-hert.
 
 
-a   o
+a  <o
 
 
 *.
@@ -18278,7 +18281,7 @@ ologie,  p.  340.
 2  The  Greek  transcriptions  are  as  follows  : —
 
 3  CIT  4  XNOYMIC  5  XAPXNOYMIC
-6  HTHT                  7  (J)OYTHT                          8  TOJM
+6  HTHT                  7  ‹J›OYTHT                          8  TOJM
 
 
 The  Dekans.
@@ -18383,7 +18386,7 @@ OY€CT€— BIKOJTI
 1  TnHXONTI
 
 
-A(t)OCO
+A‹t›OCO
 XONTAP€
 
 8  CnTXN€
@@ -18464,7 +18467,7 @@ m —  /wv^m  2
 21.  S  AS  A- SERT        .       .       .
 
 
-& t
+&<t
 
 
 20.  Sert.
@@ -18803,7 +18806,7 @@ I]
 
 XV. — The  Star-gods  behind  Sothis  and  Orion.
 
-1§> I|§=x,  or  Shetu,  c:s^,w.
+1§><I|§=x,  or  Shetu,  c:s^,w.
 
 
 1.  Shethu,
@@ -19218,7 +19221,7 @@ O    -- -  £                                                                   
 
 ^i     bJD  p                                                H                 w                                  „            .
 
-"  "C  ^       g                                    g             ^             -
+"  "C  ^      <g                                    g             ^             -
 
 
 72      ©         »  .          H-  p-  11                                                        -2  111
@@ -19245,7 +19248,7 @@ g       i<        K  o        ?        ^        ^  ^
 
 d                                             ^
 
-5  i-H     c4     co     -^     >o     co     i>I     od     as     o     *-^      m  1
+5  i-H     c4     co     -^     >o     co     i>I     od     as     o     *-^     <m  1
 
 •  V  —        ^—        i—i  s
 
@@ -19270,7 +19273,7 @@ jo.      ll.  Heru,  ^.      12.  Remi,  ^I^Jtjfff.      13.  Aatiu,
 
 
 w
-.    18.  Madti,  \i  ^  ~      19.  Tebati,  <^   t^  ~     20.  Shai,
+.    18.  Madti,  \i  ^  ~      19.  Tebati,  <^  <t^  ~     20.  Shai,
 
 ]L     21.  Amen-khat,  (]™|   ^  !.     22.  Tuati,   *°  u.
 
@@ -19287,7 +19290,7 @@ w
 
 |\    AA/VA\   £^   »  o  s       ->.       -\
 
-34.  Antheti,    IL   S     35.  Theta-enen,  Li..     36    Besi-
+34.  Antheti,    IL  <S     35.  Theta-enen,  Li..     36    Besi-
 
 shemti,    JP^™^.      37.    Semaahut,     fl^f^^.      38.
 Kheperi,  S  M.    39.  Ka-Ateni,  <=>  ©  h   °    M0.    10.  Sekhem-
@@ -19298,7 +19301,7 @@ V*3        1     1  H        I  1    AAA/W\        I
 
 TIT  0      ^  ^         AAftAAA  ^prf
 
-44.   Nut,  .      45.    Tefnut,  .      46.    Nebt-het,          a,
+44.   Nut,  .      45.    Tefnut,  .      46.    Nebt-het,         <a,
 
 47.  Nu,    ^\      48.  Huaaiti,   |  f]  ^^  (]()"•     49.  Nethert,
 
@@ -19640,7 +19643,7 @@ l\i-
 
 t rr 1    /VSAA/v\
 
- dl^>    MAAM
+‹dl^›    MAAM
 
 
 ^>-
@@ -20049,7 +20052,7 @@ A
 ^
 
 
-0     -(S)-  d
+0     -‹S›-  d
 
 
 J\   i
@@ -21849,7 +21852,7 @@ and  jElian  call  Apis  "Eua^o^,  and  the  former  describes  him  as  the
 "  calf  of  a  cow  which  is  incapable  of  conceiving  another  offspring  ;
 "  and  the  Egyptians  say  that  lightning  descends  upon  the  cow  from
 
-Ae'yet   oe   tis   to>i>   Trpo pr]Tojv   Aoyos   ov    7racriv   eKnvcrTOS,    on   apa    [M?)cis]    o    tujv
+Ae'yet   oe   tis   to>i>   Trpo<pr]Tojv   Aoyos   ov    7racriv   eKnvcrTOS,    on   apa    [M?)cis]    o    tujv
 ALyv7TTiwv  (3ao-L\ev<;   (.Trevoqcn.   £u>oj/  wore   ae/Sew   €fJ.(f>v^ov,  etra  /xevTOi   npoeiXero  ravpuv,
 a.7rdvT(A)v  uypaiorarov  etvai  avrov  7re77-io-Teu/cajs.      Dc  Nat.  Animal,  xi.  10.
 3  See  Cory's  Ancient  Fragments.
@@ -22266,7 +22269,7 @@ Sunrise,  and  that  he  assisted  Horus  to  be  re-born  daily.  In  the
 Pyramid  Texts,  Sebek  is  made  to  restore  the  eyes  to  the  deceased,
 and  to  make  firm  his  mouth,  and  to  give  him  the  use  of  his  head,
 and  to  bring  Tsis  and  Nephthys  to  him,  and  to  assist  in  the  over-
-throw of  Set,  the  enemy  of  ev ery  "  Osiris."  He  opened  the  doors
+throw of  Set,  the  enemy  of  ev<ery  "  Osiris."  He  opened  the  doors
 of  heaven  to  the  deceased,  and  led  him  along  the  bypaths  and
 ways  of  heaven  and,  in  short,  assisted  the  dead  to  rise  to  the  new
 life,  even  as  he  had  helped  the  child  Horus  to  take  his  seat  upon
@@ -22397,7 +22400,7 @@ centuries  which  witnessed  the  decay  of  the  old  religion  of  Egypt.
 Like  the  crocodile,  the  Hippopotamus  was  worshipped  by  the
 primitive  Egyptians,   and  the   hippopotamus   goddess  was   called
 
-Rert,    or   Rertu,    (z)I^L,    and   Ta-urt,    ^  "v\    ^§Dn,    Apet,
+Rert,    or   Rertu,    ‹z›I^L,    and   Ta-urt,    ^  "v\    ^§Dn,    Apet,
 
 i     W,  Sheput,  ,  etc.,  and  was,  practically,  identified  as  a
 
@@ -22529,7 +22532,7 @@ kings  valued  their  pet  lions  more  as  symbols  of  the  Sun-god  and  of
 his  protective  power,  than  as  effective  combatants.  In  the  Theban
 Book  of  the  Dead  the  double  lion-god  who  is  so  often  mentioned
 
-under  the  name   sflj}\  i    is,  of  course,  Shu  and  Tefnut
+under  the  name  <sflj}\  i    is,  of  course,  Shu  and  Tefnut
 
 or  two  gods  who  were  identified  with  them.     Other  lion-gods  bore
 
@@ -22567,7 +22570,7 @@ LYNX    AND    CAT  363
 
 and  Cat,  for  each  of  these  animals  played  an  interesting  part  in
 Egyptian  mythology.  The  lynx  was  called  in  Egyptian  Maftet,
-^g^  c±p ,  or  Jp  j^  c^p   y^iK. ;  the  former  spelling  being  that  of  the
+^g^  c±p ,  or  Jp  j^  c^p  <y^iK. ;  the  former  spelling  being  that  of  the
 Pyramid  Texts,  and  the  latter  that  in  use  in  the  Theban  Recension
 of  the  Book  of  the  Dead.  The  animal  is  like  a  large  cat  and  has
 a  small  patch  of  hair  on  the  tip  of  each  ear,  and  its  disposition  is,
@@ -23315,7 +23318,7 @@ GRASSHOPPER,    BEETLE  379
 
 According  to  Horapollo  (i.  25),  the  frog  typified  an  imperfectly
 formed  man,  j4.7rXo.aTou  Se  dvOpcunov  ypd(f)OVT€<$  fidrpayov  ^ojypcufxiv-
- Tiv,  because  it  was  generated  from  the  slime  of  the  river,  whence
+<Tiv,  because  it  was  generated  from  the  slime  of  the  river,  whence
 it  occasionally  happens  that  it  is  seen  with  one  part  of  a  frog,  and
 the  remainder  formed  of  slime,  so  that  should  the  river  fall,  the
 animal  would  be  left  imperfect ;  the  half-formed  creatures  referred
@@ -23338,7 +23341,7 @@ heaven  like  the  grasshopper  of  Ra,"    □  |  j\  ^^  (a '111  v°Ju]
 8.  Chief  among  insects  in  importance  was  the  Beetle,  or
 Scarabaeus,    which    was    called    by    the    Egyptians     kheprerd,
 
-{trf  h^£'  anc^  was  ^ie  svmD°l  °f  Khepera,  0(cr)n,jj,  the
+{trf  h^£'  anc^  was  ^ie  svmD°l  °f  Khepera,  0‹cr›n,jj,  the
 
 great  god  of  creation  and  resurrection.  The  Beetle-god  is  repre-
 sented at  times  with  a  beetle  upon  his  head,  and  at  others  with  a
@@ -23497,7 +23500,7 @@ legends  have  been  preserved  ;  the  Latus  was  worshipped  at  Esneh.
 The  fish  with  the  very  wide  and  large  mouth  which  is  seen  on  the
 head  of  the  goddess  Hatmehit,  -=^  °<==^  8  flfl  ^  J) ,  has  not  yet  been
 identified.  In  the  Booh  of  the  Dead  two  mythological  fish  are
-mentioned,  the  Abtu,  ¥  J  ££  v\ e=<,  and  the  Ant,  (j/wwvv o<;
+mentioned,  the  Abtu,  ¥  J  ££  v\<e=<,  and  the  Ant,  (j/wwvv<o<;
 these  fish  were  supposed  to  swim,  one  on  each  side  of  the  bows  of  the
 boat  of  the  Sun-god,  and  to  drive  away  from  it  every  evil  being  or
 thing  in  the  waters  which  had  a  mind  to  attack  it.  The  identifica-
@@ -23507,3 +23510,8496 @@ on  the  fish  of  Egypt  and  the  Delta,  and  of  Nubia  and  the  Sudan
 it  may  be  possible  to  name  correctly  the  various  bronze  and
 wooden  fish  which  exist  in  the  many  collections  of  Egyptian
 antiquities  in  Egypt  and  Europe.
+
+
+INDEX
+
+
+A  =  Thoth,  i.  402
+Aa-ab,  ii.  127
+Aaai,  i.  342
+Aaai,  ii.  320
+Aa-am-khekh,  ii.  302
+Aaan.  ii.  268
+Aaapef,  ii.  245
+Aah,  ii.  323
+Aahet.  ii.  323
+Aahmes  II.,  i.  458
+Aah-Tehuti,  i.  41-2,  413
+Aai,  i.  345  ;  ii.  317
+Aai,   ass-headed  man,   i.
+
+196
+Aai  gods,  i.  196
+Aaiu-f-em-kha-nef,  i.  254
+Aakebi,  i.  240,  342
+Aakebi,  ii.  317
+Aakhabit,  ii.  323
+Aakhbu,  i.  259
+Aa-kheperu-mes-aru,     i.
+
+246
+Aa-kheru,     i.     177  ;     ii.
+
+326
+Aaniu,  i.  188,  304
+A  an.  ii.  2 'J  2
+Anna,  i.  211
+Aana-tuati,  ii.  320
+Aapef,  ii.  326
+Aarjetct.  i.  494
+Aaqetqet,  ii.  323
+Aar.  ii.  63
+A.a rat  her  ab  neter  het,
+
+ii.  185
+II — c   c
+
+
+Aarer,  i.  455
+
+Aaru,  ii.   120 ;    Lake  of,
+
+i.  2t)7
+Aa-sekhemu,  i.  178
+Aa-shefit,  i.  Ill  ;  ii.  58
+Aa-sheft,  ii.  300
+Aasith,  ii.  280
+Aatiu,  ii.  317
+Aat  (Isis),  ii.  213
+Aatof  Seb,  ii.  95
+Aat  of  Tefnut,  ii.  93
+Aats  of  Osiris,  the  Fifteen,
+
+i.  177
+Aat-aat,  i.  492
+Aat-aatet,  i.  214
+Aa-ta  (nonie),  i.  97
+Aat-ab,  i.  473,  V. '2
+Aa-tcba-Mutet,  i.  401
+Aat-en-sliet,  ii.  60
+Aat-hehu,  i.  472
+Aati,  i.  419;  ii.  327
+Aati,  ii.  157
+Aat-khu,  i.  178
+Aat-klm.  i.  2H
+Aat  of  Ra,  i.  471
+Aat-setekau,  i.  241
+Aat-sbatet,  i.  481
+Aat-shefsbeft,  i.  194
+Aat-tchamutet,  i.  421
+Aat-Tchetemit,  i.  484
+Aat-Tefnut,  i.  517
+Aatu,  i.  341
+A  an.  i.  186
+Ab,  i.  211
+
+
+Abata,  ii.  326
+Abaton,  ii.  213
+Ab-em-tu-f,  ii.  301
+Abesh,  i.  198
+Abet-neterus,  i.  248
+Abit,  ii.  ::!7s
+Abrabam,  i.  277
+Ab  sceptre,  i.  162  ;  ii.  8
+Ab-sha-am-Tuat,  i.  236
+Abshek,  i.  429
+Ab-siu,  ii.  316
+Abt  (nonie),  i.  97
+Abt,  ii.  261
+Ab-ta,  i.  194
+Abtiti,  temple  of,  i.  405
+Abt-tesi-rut-en-neter,  ii.
+
+326
+Abtu    (Abydos),    i,    97,
+
+410,  492
+Abtu   Fish,  i.   324;    ii.
+
+209,  383
+Ab-tut  (Abydos),  i.  97
+Abu,  i.  96,  365,  463 ;  ii.
+
+49,  51,  56
+Abu  Simbel,  ii.  22
+Abu-ur,  ii.  323
+Abydos,  i/97, 103, 104,
+
+101 ;  ii.  118,  14s
+Abydos,  the  goal  of  souls,
+
+i.  175
+Abyssinia,  ii.  108
+Adam,  i.  6
+A  don,  ii.  7  1
+Aeeiouo,  i.  280
+
+
+386
+
+
+INDEX
+
+
+Aelian,  ii.  346,  352,  369,
+
+370,  372,  379,  381
+JElian,     ii.     358,    360;
+
+quoted,!  63,  356,  402;
+
+ii.  93
+Af,  the  dead  Sun-God,  i.
+
+206,257,505;  his  new
+
+birth,  i.  260
+Af,  i.  274
+Afa  beings,  i.  160
+Af-Asar,  i.  234
+Afau,  i.  211
+Affi,  i.  241
+Af-Ea,  i.  226
+Af-Tem,  i.  234
+Afu  gods,  i.  83,  84
+Afu  on   his  staircase,   i.
+
+211
+Afu,  the  dead  Kkepera,
+
+i.  226
+Ah  (Aah),  ii.  325
+Aha,  i.  31,  453  ;  plaque
+
+of,  i.  24
+Aha-aaui,  ii.  326
+Aha-an-urt-nef,  ii.  327
+Aha-en-urt-nef,  i.  238
+Aha-netern,  i.  220
+Ahabit,  ii.  302
+Ahat,  i.  248
+Aliat,  ii.  19
+Ahau-hrau,  ii.  326
+Ahet,  i.  161
+Aheti,  ii.  325
+Ahi,  i.    228,   469,    495;
+
+ii.  322,  325
+Ahibit,  ii.  325
+Ahi-mu  (?),  i.  419
+Ahit,  ii.  184
+Ahiu,  ii.  325
+Ahu,  i.  79
+Ai,  i.  196
+Ai  (king),  ii.  84
+•'Ain  Shems,  ii.  108
+Aion,  i.  285
+Air,  i.  288
+
+
+Akau,  ii.  325
+Akebiu,  i.  201
+Akeneh,  i.  23
+Akent,  i.  433
+Aken-tau-k-ha-kheru,  i,
+
+176  ;  ii.  325
+Akenti,  i.  177
+Akenu,  i.  433  ;  ii.  325
+Aker,  i.  33,  45,  79,  325  ;
+
+ii.  34
+Aker,  Lion-god,   ii.  360,
+
+361
+Akert,  i.   194,  246;    ii.
+
+153,  154,  302
+Akertet,  ii.  20
+Akert  -  khent  -  ast  -  s,  ii,
+
+325
+Akeru,  ii.  323,  360
+Akeru  gods,  ii.  98
+Akerui,  ii.  360
+Akesi,  i.  178
+Aket  of  Set,  i.  411
+Akhan-niaati,  i.  191
+Akhekh,  ii.  247
+Akhekh,  ii.  270
+Akkekhi,  i.  203
+Akkekhu,  ii.  327
+xikhem-hemi-f,  i.  242
+Akhem  -  khemes  -  f,      i.
+
+242
+Akhem-sek-f,  i.  242
+Akhemu-Betesli,  ii.  120
+Akhem-urt-f,  i.  242
+Akhemu-Seku,    i.    198;
+
+ii.  120,  250
+Akhenm-Sesh-  email,  ii,
+_120
+
+Akhen-maati-f,  ii.  327
+Akhet-nen-tha,  i.  79
+Akhmim,  ii.  188
+Akhmiu,  i.  196
+Akhpa,  i.  344
+Akhrokhar,  i.  266
+Akhsesef,  ii.  325
+Akizzi,  ii.  23
+
+
+Alabastronpolis,    i.     98,
+
+102,  432
+Alabes  fish,  ii.  382
+Al-A'raf,  i.  171
+Al-Basra,  i.  6
+Ale,  i.*178
+Aleppo,  ii.  283
+Alexander  the   Great,   i.
+293,   489  ;  his   son,  i.
+293
+Alexandria,    i.    332 ;    ii,
+_  197
+
+Alkat,  i.  433
+Al-Kharga,  ii,  22
+Allah,  i.  141
+Al-lul,  ii.  316
+Am,  i.  326
+Am,  ii.  312
+Ama,  i.  250
+Ama,  i.  346
+Ama-Amta,  i.  346
+Am-aau,  ii.  246,  326
+Ainait,  ii.  283
+Amam,  i.  326
+Amain,  ii.  326
+Amam-maat,  ii.  326
+Amam-mitu,  i.  211
+Amam-ta,  ii.  320
+Amanei  -  tou  -  ouranou,  i.
+
+280
+Am-xinnu,  i.  90
+Am-Antchet,  i.  90
+Am-ara-q^ih-f,  i.  182
+Ama-ta,  i.  346
+Am-beseku,    i.   419 ;    ii.
+
+324
+Amelineau,    i.    269 ;    ii.
+
+374
+Amemet,  ii.  144,  326
+Amemt,  i.  443
+Amen,  i.,  23,  79,  88;  ii.
+
+1-16,  324
+Amen,  a  serpent,  i,  218
+Amen,   city   of,    i.    366 ;
+
+ii.  12
+
+
+INDEX
+
+
+387
+
+
+Amen,  derivations  of  the
+
+name,  ii.  2
+Amen-ha,  ii.  320
+Amen-hau,  i.  342
+Amen  -  heri  -  ab,    i.    401 ;
+
+ii.  57
+Ainen-Heru-pa-kkart,  ii.
+
+252
+Amen-hetep,  ii.  30
+Amen-hetep  III.,  i.  329  ;
+
+ii.  23,  68,  69,  70,  279,
+
+362 ;       presented       to
+
+Amen-Ra,  ii.  4
+Amen-hetep  IV.,  i.  104;
+
+ii.  23,  68,  70,  71-84
+Amen-hetep,  son  of  Hapu,
+
+i.  525
+Ameni,  ii.  317
+Ameni,  name  of  Ra,  i.  345
+Amen-khat,  i.  198,  343  ;
+
+ii.  317
+Arnen-kheperutet,  i.  499
+Amen-na-an-ka-entek  -
+
+share,  ii.  324
+Amen-nain-an-ka-entek-
+
+share,  ii.  20
+Amen-Nathekerethi-
+
+Amen,  ii.  20
+A  m  e  n  -  n  a  t  h  e  k  -  r  e  t  h  i  -
+
+Amen,  ii.  324
+Amen  of  Sapi-res,  i.  99
+Amen  [paid  of  Thoth),  i.
+
+113
+Amen,  quarrel  of  priests
+
+of,    with    Amen-hetep
+
+IV.,  ii.  74-84
+Amen  the  Elder,  i.  468
+Amen-Ra,  i.  97,  172;  ii.
+
+324
+Amen-Ra,      brotherhood
+
+of,  i.  175
+Amen-Ea,    company    of,
+
+ii.  2
+Amen-Ra- Heru-khuti,  ii.
+
+324
+
+
+Amen-Ra,  Hymn  to,  ii.
+5
+
+Amen-Ea,  incarnation  of,
+i.  330  j  spread  of  his
+cult,  ii.  22
+
+Amen-Ra  of  Sma-Behu-
+tet,  i.  100
+
+Amen-Ra  of  Xoi's,  i.  99
+
+Amen  -  Ra-  Horns  -  Osiris,
+
+ii.  21
+
+Amen-Ea  -  Mut  - Khensu,
+
+i.  114
+Amen-Ea-Tem,  ii.  16,  17
+Amen  -Ra-Temu-Khe-
+
+pera- Heru-khuti,      i.
+
+447
+Anient,  ii.  317
+Ament,  i.  79 ;  Circle  of,
+
+i.  220;    Circles  of,   i.
+
+340
+Ament,     counterpart     of
+
+Amen,  i.  287;  ii.  1.  2
+Ament  (goddess),  ii.  29,
+
+30,  55
+Ament  (Isis),  ii.  213,  216
+Ament  (nome),  i.  99
+Ament  of  Apt,  i.  465
+Ament   (pant  of  Thoth),
+
+i.  113
+Ament-nefert,  i.  210
+Ament-Ra,  i.  465
+Ament-semu-set,  i.  226
+Ameut-sthau,  i.  216
+Amentet,  i.  172,  263 ;  ii.
+
+154
+Amentet,     i.e.,     Under-
+world, ii.  201
+Amentet,  Bull  of,  ii.  15s  :
+
+Mountain  of,  ii.   153;
+
+souls  of,  i.  196
+Amentet-nefert,  i.  178
+Amenthes,  ii.  201
+Amenthet    (goddess),    i.
+
+431
+Amen-ur,  i.  468
+
+
+Amesu  sceptre,  ii.  8
+Amet-tcheru,  i.  211
+Am  -  hauatu  -  eut  -  pehui-f,
+
+ii.  324
+Am-heh,  ii.  326
+Am-hent-f,  i.  441
+Am-henth-f,  i.  79
+Am-Hetch-pafir,  i.  90
+Ani-Het-Serqet-Ra-hete-
+
+pet,  i.  90
+Am-Het-ur-Ra,  i.  90
+Am-huat-ent-peh-tf,    i.
+
+176
+Ami-hemf,  i.  25
+
+Amit,  goddess,  i.  366
+Am-kehuu,  i.  38,  49
+
+Am-khaibetu,  i.  419
+
+Am-khent  (nome),  i.  100 ,
+444
+
+Amkhiu  nu  Asar,  ii.  185
+
+Am-khu,  i.  228
+
+Ammehet,i.  178, 190, 216
+
+Ammet,  i.  432
+
+Ammianus     Marcellinus,
+ii.  349,  352,  357
+
+Ammi-seshet,  i.  519
+
+Arn-mit,  i.    60,  218  ;  ii.
+362
+
+Ammiu  gods,  ii.  100
+
+Ammi-uaui-f,  i.  200
+
+Am-Neter-het,  i.  90
+
+Am-net-f,  i.  200
+
+Am-Nit,  i.  179
+
+Am-Pehu  (nome),  i.  100
+
+Am-Sah,  i.  90
+
+Am-senf,  i.  419
+Am-sepa-f,  i.  79,  441
+Amset,  i.  79,  491,  492
+Amset  =  South,  i.  158
+Amseth,  i.  456  ;  ii.  184,
+
+324
+Amseti-Aah,  i.  470
+
+Am-snef,  ii.  324
+Amsu,   i.    79,    97,    496,
+507 ;  ii.  20
+
+
+388
+
+
+INDEX
+
+
+Arnsu  (nome),  i.  97
+Arnsu,  god  of  Panopolis,
+
+i.  97;   ii.  258,   280,
+
+291,  293,  324
+Amsu-Amen,  ii.  8
+Amsu-Heru,  ii.  324
+Anisu-Heru-ka-nekht,  ii.
+
+139
+Amsu-Ra,  ii.  36
+Anisu  suten  Heru-nekht,
+
+ii.  183
+Anita  i.  343
+Am-ta,  i.  346
+Aui-Tep,  i.  90
+Am-tet,  ii.  129
+Amu,  i.  250
+Amu-aa,  i.  211
+Amulets  in  the  Sudan,  i.
+
+16
+Am-Unnu-Meht,  i   90
+Am-Unnu-Resu,  i.  90
+Am  ut  (Anubis),  ii.  263
+An,  ii.  324
+An,  a  form  of  Osiris,  i.
+
+446
+An,  a  god,  ii.  20
+An,  city  of,  i.  427
+An  (city),  ii.  31,  32
+An  in  Antes,  ii.  154
+An,  of  millions  of  years,
+
+ii.  154
+
+An,  the  warrior,  ii.  312
+Ana,  i.  79  ;  i.  456
+An-aarere-tef,  i.  495
+An-a-f,  i.  145,  419,  521 ;
+
+ii.  324
+An-aret-f,  i.  495
+An-atef-f,  ii.  324
+Anau  gods,  i.  202
+Andrew,  St.,  i.  280
+Andrews,  Dr.   C.  W.,   i.
+
+11
+Aneb,  i.  514
+Aneb-abt,  i.  514
+Aneb-athi,  i.  514
+
+
+Aneb-hetch  (nome),  i.  99,
+
+512
+Aneb-rest-f,  i.  514
+Anebu,  i.  513
+Anemph,  i.  281
+Aneniu,  ii.  324
+Anep,  i.  437
+An-erta-nef-bes-f-khenti-
+
+heh'-f,  i.  494 ;  ii.  324
+An-erta-nef-nebat,  ii.  294
+Auetch,  ii.  176
+An-f-em-hru-seksek,  ii,
+
+129
+Angel  of  the  two  gods,  i.
+
+83
+Angel  of  Death,  i.  19
+Angel  of  the  Lord,  i.  19
+Angels,  i.  6
+Angels,    functions    of  in
+
+Kur'an,  i.  5
+Angels,  mortal    and    im-
+mortal, i.  6
+Angels  of  service,  i.  21
+Angels  of  Thoth,  ii.  119
+Anhai,  Papyrus  of,  i.  507
+An-hat,  i.  482
+An-hefta,  i.  194
+An-her,  i.  172, 173,  402  ;
+
+ii.  184,  325,  359
+An-heri-ertit-sa,  ii.  324
+An-hetep-f,  ii.  325
+An-Her,  i.  97,  103,  115;
+
+ii.  118,  291
+An-her  of  Sebennytus,  i.
+
+100
+Anhetep,  i.  222
+An-hetep-f,  i.  419
+An-hra,  i.  176 ;  ii.  325
+Anhur,  i.  103
+Animals,  sacred,  ii.  345  ft.
+Ani,  Papyrus  of,  i.  335,
+
+360,  427
+Ani  (scribe),  ii.  69
+Ani,  the  scribe,  ii.  141-
+
+146
+
+
+Ani  (city),  i.  439
+Ani  (Esneh),  i.  452
+Ani,  form  of  Sun-god,  ii,
+
+9,  10,  11
+Animals,      reason      why
+
+adored,  i.  22
+Animals,    the    abodes   of
+
+gods,  i.  2
+Anit,  i.  427,  431,  469;
+
+ii.  61,  65
+Ankh,  i.  79
+Ankh-aapau,  i.  222
+Ankh-aru-tchefau,  i.  234
+Ankh-em-fentu,    i.   176  ;
+
+ii.  327
+Ankhet  (Isis),  ii.  216
+Ankhet  -  pu  -  ent-  Sebek  -
+
+neb-Bakhau,  ii.  327
+Ankhet,  scorpion  goddess,
+
+i.  220
+Ankhet-kheperu,  i.  216
+Ankh-f-en-Khensu,  i.  460
+Ankh-hra,  i.  228
+Ankhi,  ii.  326
+Ankhi  (serpent),  i.  200
+Ankhiu,  i.  161
+Ankh  =  Osiris,  ii.  139
+Ankh-s-en-Aten,  ii,  83
+Ankh-  s  -en-  pa-  A  ten,  ii.
+
+83
+Ankh-ta,  i.  246
+Ankh-taui,  i.  513
+Ankh-tauit,  i.  433
+Ankhti,  ii.  326
+Ankhtith,  i.  234
+Anku,  i.  234
+An-mut-f,  i.  79 ;  ii.  183,
+
+301,  322,  324
+Annu,  i.  100,  354,  471 ;
+
+ii.  4,  148
+Annu,  crops  of,  ii.  121
+Annu  Meht,  i.  328
+Annu,  North,  ii.  25
+Annu,  paut  of  gods  of,  i.
+88
+
+
+INDEX
+
+
+389
+
+
+Annu,  priests  of,  i,  78
+Annu-Rest,  ii.  24
+Annu  Resu,  i.  328
+Annu,  Souls  of,  i.  109
+Annu,  South,  ii.  25
+Annu,  Two  Companies  of
+
+gods  of,  i.  91
+Annut  hat,  ii.  277
+Ano-Menthu,  i.  433
+An  =  Osiris,  ii.  139
+Anpet,  i.  432
+Anpet,  i.  496;  ii.  292
+Anpu,  i.  79,  210,  340  ;
+
+ii.  95,  261-266,  322,
+
+324,  367
+Anpu  (norne),  i.  98
+Anpu,  god  of  Anpu,  i.  98
+Anpu,  god  of  Het-suten,
+
+i.  98
+Anpu  am  Uhet,  ii.  185
+Anpu-Horus,  i.  493
+Anpu  khent  neter  seh,  ii.
+
+184
+Anpu  khent  neter  seh  em
+
+ren-f  neb,  ii.  185
+Anqet,    i.    431 ;    ii.    50,
+
+57  ff.
+Anqet  (Isis),  ii.  216
+Anqet  Nephthys,  ii.  57
+An-rut-f,i.  352,410,482;
+
+ii.  60  ;  155
+Anshar,  i.  289,  291
+Ant,  i.  161
+
+Ant  (city),  i.  493,  515
+Ant  (country),  i.  517
+Ant  (Dendera),  i.  472
+Ant  Fish,  i.  324;  ii.  383
+Ant  (Tsis),  ii.  213
+Antaeopolis,  i.  97
+Antaeopolis  of  Tu-f  i.  98
+Antaeopolites,  i.  96
+Antaf,  i.  23
+An-ta-f,  ii.  363
+An-tcher-f,  i.  79
+Antchet,  i.  88
+
+
+An-tebu,  ii.  325
+
+xin-temt,  ii.  324
+
+Ant-en-Nut,  ii.  103
+
+Antes,  ii.  154
+
+Antet,  i.  433
+
+Antetu,  i.  346
+
+Anthat,  i.  431,  432 ;  ii.
+
+277
+Antheth,  i.  228
+Antheti,  ii.  317
+Anthretha,  ii.  278
+Anti,  ii.  327
+Antit,  ii,  277
+Antiu,  i.  198
+Antuf,  i.  524
+Ajm^Avo?,  i.  289
+Anu  (the  heavens),  i.  359
+Anubis,  i.  9,    418,    425,
+
+454  ;  ii.  85,  129,  261-
+
+266, 366
+Anubis,  Path  of,  i.  513
+Anubis-Horus,  i.  493
+Anubis  =  Osiris,  ii.  139
+Anu-Ea-Bel,  i.  290
+Anunu,  i.  454
+Anuqet,  ii.  53
+Aoi,  i.  280
+Ap,  ii.  268,  292
+Apa-ankh,  i.  454
+'A-rraaSov,  i.  289
+Ape  =  Amen,  ii.  2
+Ape,  a  form  of  Thoth,  i,
+
+403
+Ape  and  pig,  i.  190
+Ape,  worship  of,  i.  2  ;  the
+
+sacred,  ii.  364
+Ape-god  in  Tuat,  i.  347
+Ape -gods,    the    four,    i.
+
+202
+Apep,  i.  11,61,180,2(12,
+
+269  ff.,  277, 324, 436,
+
+447,  489  ;  ii.  79,  107,
+
+216, 245, 326  ;  soul  of,
+
+i.  371
+Apepa,  ii.  251
+
+
+Apep,  Book  of  overthrow-
+ing, i.  325
+Apepi,  i.  306
+Aper-hra-neb-tchetla,    i.
+
+252
+Aper-pehui,  i.  516
+Aper-ta,  i.  344
+Aper-ta,  ii.  317
+Apes,  the,  i.  346,  347
+Apes  of  the  East,  i.  21
+Apes,  the  four,  i.  196
+Apes,  the  Seven,  ii.  268
+Apes,  the  singing,  i.  207
+Apesh,  ii.  376
+Apet,  ii.  29,  29,  30,  359
+Apet  (goddess),  ii.  109
+Aphoso,  ii.  305
+Aphrodite,    i.     435 ;    ii.
+
+187
+Aphroditopolis,  i.  97,  98,
+
+431,  432,  446
+Aphroditopolites,  i.  96
+Api,  i.  79;  ii.  30,  109
+Apis,  ii.  353
+Apis,        incarnation      of
+
+Osiris,  i.  330
+Apis  Bull,  i.  26,  27 ;  ii.
+195-201,    212;    signs
+of,  described,  ii.  350
+Apis  (city),  i.  99
+Apis-Osiris,  ii.  195-201
+Apit,  goddess,  i.  127
+Apollinopolis    Magna,    i.
+
+431 ;  ii.  93,  95,  278
+Apollinopolis    Parva,    i.
+
+431,  467
+Apollo,  i.  486 ;  ii.  187
+Apollo     Amyclaeus,     ii.
+
+2S2
+Apollopolites,  i.  96
+Apdph,  ii.  245
+Apostles,  i.  5
+Ap-rehu,  ii.  242
+Ap-rehui,  i.  427  ;  ii.  142,
+242
+
+
+390
+
+
+INDEX
+
+
+Ap-senui,  ii.  142
+
+Apsetch,  ii.  310
+
+Apsli,  ii.  25
+
+Apshait,  ii.  378
+
+Ap-shat-taui,  ii.  324
+
+Apsi,  ii.  324
+
+Apsit,  ii.  92
+
+Apt,  ii.  293
+
+Apt,  city  of,  i.  427
+
+Apt  (Thebes),  ii.  3
+
+Apt,  goddess  of  the  xith
+
+month,  i.  444
+Apt,  goddess  of  Thebes,
+
+ii.  3
+Apt-en-khet,  i.  178
+Apt-en-qahu,  i.  178
+Aptet,  ii.  25
+Apt-hent,  ii.  293
+Apt-net,  i.  178
+Apt-renpit,  ii.  293
+Apts,  the,  ii.  6,  7,  9,  10
+Apt-taui,  i.  254
+Apu,  i.  97,  470  ;  ii.  188
+Apu,  a  god,  i,  194
+Apu  (serpent),  i.  230
+Ap-uat,  i.  79,  102,  109,
+206,  210,  454,  493 ;
+ii.  26,  43,  119,   156,
+263,  322,  323,  367
+Ap-uat   of  Lycopolis,  i,
+
+98
+Ap-uat  meht  sekheni  pet,
+
+ii.  183,  323
+Ap-uat  rest  sekheni  taui,
+
+ii.  183
+Ap-uat-resu-sekhem  -  pet,
+
+ii.  323
+Apuleius,    ii.    217,    218,
+
+265,  266
+Apzu,  i.  291
+
+Apzu-rishtu,  i.  288,  289
+Aqan,  ii.  327
+Aqebi,  i.  182
+Aqeh,  ii.  325
+Aqen,  ii.  325
+
+
+Aq-her-amrni-unnut-f,   i.
+
+494
+Aq  -  her  -  am  -  unnut  -  f,  ii.
+
+129
+Aq-her-ami-unnut-f,     ii,
+
+oil
+Arab  angels,  i.  6
+Arabia,  i.  353,  498
+Arabian      influence      on
+
+Egyptian    religion,    i.
+
+Arabian  nome,  i.  96
+Arabs,  i.  41,  119,  401
+Aranbfi,  i.  241
+Ar-ast-neter,  i.  211
+Archaic  Period,  gods   of
+
+i.  78  ff.
+Archangels,  i.  5,  6
+Archemachus,  ii.  199
+Arenna,  ii,  283
+Arethi-kasatki-ka,  ii.  20
+Arethi-ka-sa-thika,,    ii,
+
+323
+Ar  gods,  ii.  249
+Ar-hes-nefer,  i.  464
+Ari-ankh,  i.  511
+
+Arians,  i.  69
+
+Ari-em-ab-f,    i.  419 ;   ii.
+325
+
+Ari-en-ab-f,  ii.  325
+
+Ari-hes,  i.  446
+
+Ari-hes-nefer,ii.289,  362
+
+Ari-Maat,  ii.  325
+
+Ari  -  maat  -  f  -  tchesef,     ii,
+129
+
+Ari-nef  Nebat,  ii.  294
+
+Ari-ren-f-tchesef,  ii.  322
+
+Ari- si,  ii.  325
+
+Aristotle,  ii.    357,    370  ;
+quoted,  i.  62
+
+Arit,  city,  i.  433
+
+Arit  (a  pylon),  i.  186
+
+Aritatheth,  i.  248
+
+Ariti,  i.  244
+
+Arits,  the,  i.  427
+
+
+Arkharokk,  i.  266
+
+Arkheokh,  i.  266
+
+Armaua,  ii.  291
+
+Armauai,  ii.  322
+
+Armani,  ii.  129
+
+Aroeris,  i.  467
+
+Arou,  ii.  308
+
+Aroueris,  ii.  187
+
+Arq-heh,  ii.  128
+
+Ar-ren-f-tchesef,  ii.  129,
+291
+
+Arrows,  i.  85
+
+Arsaphes,  ii,  58
+
+Arsiel,  i.  275
+
+Arsinoe,  town  of,  ii.  355
+
+Arsinoites,  i.  96
+Art,  ii.  307
+A-Sah,  ii.  308
+
+Asar,  ii,  323
+
+Asar  Aa  am  Annu,  ii.  182
+Asar  Aheti,  ii.  183
+Asar  Athi  her  ab  Abtu,
+
+ii.  183
+Asar  Athi  her  ab  Shetat,
+
+ii.  183
+Asar-am-ab-neteru,  i.  228
+Asar  Ankhi,  ii.  179
+Asar-Ankhti,  ii.  176
+Asar  Ap-shat-taui,  ii.  179
+Asar-Asti  i.  214
+Asar  Athi,  ii.  178
+Asar  Ba  her-.ib  Qemt,  ii.
+
+183
+Asar  baiu-tef-f,  ii.  182
+Asar  Ba  sheps  em  Tattu,
+
+ii.  179
+Asar-Ba-Tettet,  i.  371
+Asar-bati  (?),  i.  214
+Asar  Bati-er  pit,  ii.  176
+Asar  em  Aat-urt,  ii.  181
+Asar    em    ahat-f   em    ta
+
+Meht,  ii.  185
+Asar  em  ahat-f  nebu,  ii.
+
+185
+Asar  em  Akesh,  ii.  182
+
+
+INDEX
+
+
+391
+
+
+Asar  em  ankh  em  Ptah-
+het-Ra,  ii.  183
+
+Asar  em  Annu,  ii.  182
+Asar-em-An-rut-f,  ii.  180
+Asar  em  Aper,ii.  177,180
+Asar  em  Apert,  ii.  181
+Asar  em  Asher,  ii.  182
+Asar      em-ast-f-ainu-Re-
+
+stau,  ii.  177
+Asar  em  -  ast  -  f  -  amu  -  ta-
+
+niL'h,  ii.  177
+Asar  em  ast-f  em  ta  rest,
+
+ii.  185
+Asar  em  ast-f  neb  meri
+
+ka-f  rim,  ii.  185
+Asar  em    ast-f  nebu,  ii.
+
+185
+Asar  em  Atef-ur,  ii.  181
+Asar  em  Aten,  ii.  178
+Asar  em  Atet,  ii.  179
+Asar-ern-Ati,  ii.  176
+Asar  em  Baket,  ii.  177
+Asar  em  Bakui,  ii.  180
+Asar  em  Bener,  ii.  182
+Asar  em  Betesk,  ii.  178
+Asar   em    Fat-Hern,    ii.
+
+178
+Asar    em    Hekennut,   ii.
+
+181
+Asar  em  Hemak,  ii.  182
+Asar  em  Hena,  ii.  178
+Asar  em  Henket,  ii.  178
+Asar  em  Hest,  ii.  179
+Asar  em  Het-aat,  ii.  182
+Asar  em   Het  Benbenet,
+
+ii.  182
+Asar    em     het-f    am     ta
+
+Meht,  ii.  181
+Asar    em     het-f    am    ta
+
+Reset,  ii.  181
+Asar    em-Het-f    em    Re-
+
+stau,  ii.  180
+Asar  em  Kakheru-f  nebu,
+_   ii.  185
+Asar  em  ker-f  neb,  ii.  185
+
+
+Asar  em  khau-f-nebu,  ii.
+
+185
+Asar  em  Maati,  ii.  178,
+
+182
+Asar  -  em  -  Mehenet.     ii.
+
+176,  17D
+Asar  em  Mena,  ii.  182
+Asar  em  Nepert,  ii.  178
+Asar  em  nest,  ii.  181
+Asar    em    Netchefet,    ii.
+
+177
+Asar  em  Netchet,  ii.  180
+Asar  em  Netebit,  ii.  178
+Asar  em  Neteru,  ii.  177
+Asar  em  Netit,  ii.  180
+Asar  em  Netra,  ii.  180
+Asar  em  Nif-ur,  ii.  180
+Asar  em  Pe,  ii.  177,  180
+Asar  em  Pe  Nu,  ii.  182
+Asar  em  Pekes,  ii.  180
+Asar  em  Pesek-re,  ii.  177
+Asar  em  pet,  ii.  177,  181
+Asar  em  Petet,  ii.  180
+Asar  em  Qefennu,  ii.  180
+Asar  em  qemau-f  nebu,  ii.
+
+185
+Asar  em  Renen,  ii.  180
+Asar    em  Rehenenet,   ii.
+
+177
+Asar  em   ren-f  nebu,  ii.
+
+185
+Asar  em  Rertu-nifu,  ii.
+
+181
+Asar-em-Resenet,  ii,  176,
+
+179
+Asar  em-Re-stau,  ii.  178
+Asar  em   Resu,   ii.    177,
+
+180
+Asar  em  Sa,  ii.  ]  S-_!
+Asar  em  Sati.ii.  178, 182
+Asar  em  Sail  ii.  180
+Asar  em  Sau-heri,  ii.  178
+Asar  em  Sail  hert,  ii.  180
+Asar    em    Sau-klu-ri,    ii.
+
+177
+
+
+Asar  em  Sau  Khert,  ii.
+
+180
+Asar  em   seh-f  nebu,  ii.
+
+185
+Asar-em-Sehtet,    ii.    177
+Asar  em  Sek,  ii.  178
+Asar  em  Seker,  ii.  181
+Asar  em  Sekri,  ii.  180
+Asar  em  Sektet,  ii.  181
+Asar  em  Seshet,  ii.  181
+Asar    eDi   Shau,   ii.    178,
+
+182
+Asar  em  Shennu,  ii.  178,
+
+181
+Asar  em  Sunnu,  ii.  177,
+
+180
+Asar  em  ta,  ii.  181
+Asar  em  Ta-sekri,  ii.  178
+Asar  em  Tai,  ii.  182
+Asar  em  taiu  nebu,  ii.  182
+Asar  em  Tauenenet,   ii.
+
+178
+Asar   em    Tchatchat,   ii.
+
+180
+Asar  em  Tept,  ii.  180
+Asar  em  Tepu,  ii.  178
+Asar  em  Teslier,  ii.  181
+Asar  em  Uhet  niekt,  ii.
+
+181
+Asar   em   Uhet-resu,   ii.
+
+181
+Asar  em  Uu-pek,  ii.  182
+Asar  Fa  Heru,  ii.  182
+Asar-Hap,  i.  513
+Asar-Hapi,  ii.  3-19
+Asar-Hapi   (Serapis),  ii.
+
+195-201
+Asar  Henti,  ii.  180
+Asar    Jleq    taiu    her    ab
+
+Tattu,  ii.  179
+Asar     heq     tchetta     em
+
+Annu,  ii.  181
+Asar  Her-ab-set,  ii.  176
+Asar    Her-ab-set    (semt),
+
+ii.  179
+
+
+392
+
+
+INDEX
+
+
+Asar-her-khen-f,  i.  214
+Asar  Her-shai,  ii.  178
+Asar  her  shai-f,  ii.  182
+Asar  Heru-khuti,  ii.  183
+Asar-ka-Amenti,  i.  214
+Asar  khent  Arnentet,  ii.
+
+185
+Asar  Khentet  Nepra,  ii.
+
+179
+Asar  Khentet  Un,  ii.  179
+Asar-khenti-. .  .  .,  ii.  176
+Asar  -  Kb enti  -  Amenti,  i.
+
+214
+Asar    Khenti    nut-f,    ii.
+
+177,  180
+Asar-khenti-peru,  ii.  176
+Asar  Khenti-Ee-stau,  ii.
+
+176
+Asar    Khenti -seh-hemt,
+
+ii.  178
+Asar   Khenti    Thenenet,
+
+ii.  179
+Asar  Khent    Ka-Ast,  ii.
+
+183
+Asar  Khent  Re-stau,  ii.
+
+179
+Asar  Khent  sehet  kauit-f,
+
+ii.  182
+Asar  Khent  shet  aa-perti,
+
+ii.  182
+Asar-neb- Amenti,  i.  214
+Asar  Neb-ankh,  ii.  176,
+
+179
+Asar  Neb-ankh  em  Abtu,
+
+ii.  182
+Asar     Neb-er-tcher,     ii.
+
+176,  179
+Asar   Neb-heh,    ii.    179,
+
+181
+Asar  neb    pehtet   petpet
+
+Seba,  ii.  183
+Asar  Neb  ta  ankhtet,  ii.
+
+180
+Asar     neb     taiu     suten
+
+neteru,  ii.  182
+
+
+Asar  neb  Tattu,  ii.  183
+Asar  neb-tchetta,  ii.  178,
+
+181
+Asar  Netchesti,  ii.  177
+Asar-nub-heh,  ii,  176
+Asar  (Osiris),  i.  79
+As-ar  (Osiris),  ii.  113
+Asar  Ptah-neb-ankh,   ii,
+
+176,  179
+Asar  Qeftennu,  ii.  117
+Asar-Saa,  ii.  176
+Asar  sa  Erpeti,  ii.  179
+Asar  Sah,  ii.  176,  179
+Asar  Sahu,  i.  214
+Asar  seh,  ii.  183
+Asar  Seker  em  shet  at,  ii.
+
+181
+Asar -sekhem- neteru,     i.
+
+214
+Asar  Sekhri,  ii.  177
+Asar  Sekri  em    Pet-she,
+
+ii.  177
+Asar  Seps-baiu-Annu,  ii.
+
+179
+Asar  Smam-ur,  ii.  117
+Asar  Taiti,  ii.  178
+Asar-Tet,  ii.  134
+Asar-thet-heh,  i.  214
+Asar  Tua,  ii.  177
+Asar-Unnefer,  ii.  176
+Asar  Un-nefer,  ii.  179
+Asar  Utet,  ii.  181
+Asbet,  ii.  302
+Asbet,  a  goddess,  ii,  204
+Asbu,  ii.  129
+Aseb,  ii.  323
+Asert  Tree,  ii.  42,  119
+Ashbu,  ii.  323
+Ashebu,  i.  176
+Ashem  of  Aru,  i.  83
+Ashem,  i.  38,  40,  41
+Ashemu,  i.  38,  40,  41
+Ashemu,  the,  i.  159
+Asher,  ii.  323
+Ashet  Tree,  ii.  61
+
+
+Ashet,  ii.  136
+Ashet,  i.  432
+Ash-hrau,  i.  226
+'Ashtoreth,  ii.  278
+Ashu,  ii.  323
+Ashur-bani-pal,  i.  290
+Asken,  i.  79
+Asmus,  i.  136
+As-neteru,  i.  240
+Aso,   queen  of  Ethiopia,
+
+ii.  188
+Ass,  ii.  253
+Ass,  Eater  of  the,  i.  208,
+
+210,  491 ;  ii.  246,  367
+Ass,  the,  ii.  367
+Ass,  the  speaking,  i.  19
+Asset,  i.  178
+
+'Aacrcopos,  i,  289
+Assyrians,  i.  18,  62
+As-t  (Isis),  ii.  114
+Ast  (Isis),  i.  79
+Ast,  ii.  202,  292,  302,
+
+317,  323
+Astabet,  i.  482
+Ast-amhit,  i.  228
+Astarte,  ii.  190
+Asten,  i.  402,  516;    ii.
+
+268
+Astennn,  ii.  325
+Astes,  i.  457
+Astes,  ii.  325
+Asthertet,  ii.  362
+Astharthet,  ii.  278,  279
+Asthertet,  i.  478
+Asti,  i.  370
+Asti-neter,  i.  244
+Asti-paut,  i.  244
+Ast-Net,  i.  452
+Ast-Netchet,  i.  211
+Ast  netert  em  ren-s  nebu,
+
+ii.  184
+Ast-Qerbet,  i.  353
+Ast-sen-ari-tcher,  ii.  129
+Ast-Sept,  ii.  55
+Aswan,  i.  11
+
+
+INDEX
+
+
+Asyut,  ii.  43
+
+At,  ii.  263
+
+A  tare  -  am  -teller  -  qenitu  -
+
+remiu-par-slieta,  i,  519
+.  \  t  ure  -  am  -  tcher  -  qemtu-
+
+ren-par-sheta,  ii.  326
+At  bar  a,  ii.  360
+Atch-ur,  ii.  327
+Ateb,  i.  470
+Atebui,  tlie  two,  ii.  155
+Atef  crown,  ii.  131,  144
+Atef-khent  (20tli  nome),
+
+i.  98
+Atef-pehu    (21st    nome),
+
+i.  98
+Atef-nr,  ii.  323
+Ateh,  ii.  206,  261
+Atek  -  tan  -  kehaq  -kheru,
+
+ii.  326
+Atem,  ii.  326
+Aternet,  ii.  65
+Aten,  i.  104 ;  ii.  16,  326
+Aten,  high,  priest  of,  ii.
+
+73
+Aten,  hymns  to,  ii.  75-79
+Aten-merit,  ii.  82
+Aten-neferu,  ii.  70
+Aten,  worship  of,  ii.  68-
+
+70,  ff.
+Atennu,  ii.  14
+Ater-asfet,  i.  79
+Atert,  i.  203
+Aterui-qerna,  ii.  128
+Ates-hra-she,  ii.  323
+Atet  (goddess),  ii.  61
+Atet  Boat,  i.  206,  338;
+
+ii.  11,  104,  105,  159
+Ateuchus     Aegyptiorum,
+
+i.  356
+At  ha,  i.  481
+Athenais,  ii.  190
+Athene,  i.  458,  461 ;  ii.
+
+217
+Athep,  i.  259
+Athi,  name  of,  ii.  148
+
+
+Athpi,  i.  2.30
+
+Athribis,   i.    100,    432;
+
+ii.  127
+Athribites,  i.  96
+Athroni,  i.  281
+Athn,  ii.  124
+Athuma,  ii.  283
+Athyr,  ii.  188
+Ati  (nome),  i.  99
+Atmu,  ii.  10,  11
+Atru  -  she-en-nesert-f-em-
+
+shet,  i.  178
+Atu,  i.  178
+Atuma,  ii.  283
+Aturti  Best  Meht,  ii.  185
+Au-a,  ii.  326
+Auai,  ii.  317
+Auain,  i.  346
+Auer,  i.  281
+Aukert,i.  145,  338;  ii.  9,
+
+323
+Aukert  (goddess)  ii.  116
+Aukert-khentet-ast-s,  ii.
+
+323
+Aunaauif,  i.  254
+Aurau-aaqer  -  sa  -  anq  -  re-
+
+bathi,  ii.  326
+Aurnab,  ii.  210
+Anrt,  ii.  134
+Aura,  i.  259
+Ausares,  (Osiris),  i.  300;
+
+ii.  113
+A  van's,  ii.  251
+Axe  =  god,  i.  64
+Axe,  the  flint,  antiquity
+
+of,  i.  64  ;    the  double,
+
+i.  65
+Azrael,  i.  5
+'Azza,  ii.  289
+
+
+Ba,  i.  sn,  if,:;
+Ba,  a  god,  i.  180;  ii.  26
+Ba  (god  of  Xlth  Hour),
+i.  200
+
+
+Ba  (Irou-god),  ii.  328
+Ba  (Set),  i.  4s  1
+Ba,  Soul,  i.  39
+Ba  =  World  Soul,  ii.  299
+Baabu,  i.  80,  110
+Baal,  ii.  250,  28 1
+Ba'al,  ii.  289
+Ba'al  Bam,  ii.  250
+Baal  Samame,  ii.  282
+Ba'al    Sephon,    ii.    281,
+
+282
+Ba'alath,  ii.  281
+Ba-ashem-f,  i.  80  ;  ii.  26
+Baba,  i.  80
+Baba,ii.  91,92,247,307,
+
+329
+Babai,  ii.  91
+Babat,  i.  370
+Babi,  i.  80
+Babua,  i.  80
+Babylon,  ii.  22
+Babylonia,  i.  277
+Babylonians,    i.    18,   62,
+
+273
+Bacchis  Bull,  ii.  352
+Bacchus,  ii.  199,  217,  253
+Back  =  Heqet,  i.  110
+Backbone  =  Sma,  i.  110
+Backbone    of    Osiris,   i.
+
+496 ;  ii.  122
+Bah,  i.  401,437;  ii.  26,
+
+329
+Bahtet,  i.  513
+Bahut,  i.  421
+Bai,  i.  344 ;  ii.  154
+Bai  (Ram-god),  ii.  329
+Bai  (Soul-god),  ii.  328
+Bairast,  i.  450
+Baireqai,  ii.  21
+F.airtha,  ii.  281
+Bain  amu  Tuat,  i.  220
+Bak,  i.  492
+Bak,  i.  516
+Baka,  i.  493
+Bakha,  the  Bull,  ii.  352
+
+
+394
+
+
+INDEX
+
+
+Bakhau,  i.  24,  79,  470  ;
+
+ii.  101,  352
+Bakrawiyeh,  i.  15
+Balaam,  i.  19
+Balance,  i.  521
+Balance,    the    Great,    i,
+
+358
+Balu,  ii,  250
+Bandage    of    Hathor,    i.
+
+437;    of  Nekkebet,  i.
+
+441
+Ba-neb-Tattu,    i.   100,
+
+103,  114;  ii.  64
+Banebtattu  -Hatmehit-
+
+Herupa-kkart,  i.  114
+Ba-neb-Tet,     ii.     353,
+
+354,  ff.
+Ba-neb-Tetet,  i.  496
+Ba-neb-Tettet,  ii.  329
+Ba-neb-Tettu,  ii.  292
+Ba-neteru,  i.  240
+Bant,  i.  198
+Banth-Anth,  ii.  278
+Bapi-f,  ii.  301
+Baqet,  ii.  62
+Bar,  ii.  27,  250,  251,  281
+Ba-Pta,  ii.  317
+Bare-Ast,  i.  446
+Barekathatchaua,  ii.  329
+Bari-Menthu,  ii.  250
+Bari-Euman,  ii.  250
+Barkal,  i,  16
+Barley,  i.  165
+Bartholomew,  i.  280
+Baru,  i.  79
+Bashu,  i.  515
+Basilisk  serpent,  i.  279
+Bast,  i.  100,  432,  444,
+
+ff.,  514;   ii.  28,  29,
+
+63,  275,  329,  362
+Bast,    identifications    of,
+
+i.  446
+Bastet,  i.  80,  110
+Basti,  i.  419,   445;    ii.
+
+329
+
+
+Bast  -  Sekhet  -  Eenpit,    i.
+
+432
+Basu,  ii.  284
+Bat,  the,  ii.  369
+Bath,  i.  194
+Bath-Anth,  ii.  278
+Bati,  ii.  328
+Bati-erpit,  ii.  328
+Ban,  ii.  329
+Beads,  nse  of,  i.  14
+Bear,  the,  ii.  365
+Beautiful  Face  (Ptah),  i.
+
+101
+Beautiful   Face,    i.    125,
+
+501 ;  ii.  7
+Beba,  ii.  66
+Bebait,  ii.  378
+Bebi,  ii.  91,  92 ;  ii.  329
+Bebo,  ii.  246,  247
+Bebon,  ii.  92
+Bebro,  i.  281
+Bedeyat  Arabs,  i.  17
+Beer,'  ii.  122
+Beer  of  eternity,  i.  165
+Beer  of  everlastingness,
+
+ii.  118
+Beer  of  Ka,  i.  365
+Bees,  i.  238
+Beetle-god,  ii.  130
+Beetle  in  boat  of  Ka,  i.
+
+356
+Beetle    of    Khepera,   ii,
+
+379
+Beetle,  the,  ii.  378
+Beetle,  the  living,  i.  246
+Beetles  used  in  medicine,
+
+i.  17
+Befen,  i.  487  ;  ii.  206
+Befent,  207
+Behbit,  ii.  255
+Behen,  i.  492
+Behutet,    i.   84,   85,  92,
+
+102,  427;   ii.   25,   35,
+
+133
+Behutet  (city),  i.  476
+
+
+Behutet  (goddess),  i.  431
+Behutit,  i.  427
+Bekatha,  ii.  305
+Bekennu,  ii.  20
+Bekhen,  ii.  31
+Bekhennu,  ii.  20
+Bekhent,  ii.  34
+Bekhkhi,  i.  192
+Bekhten,  ii.  37
+Bekhten,  Princess  of,  ii.
+
+38  ff.
+Bekhti-menti-neb  -  Maati,
+
+ii.  159
+Bel,  i.  305
+Bel  and  the  Dragon,   i.
+
+327
+BelbSs,  i.  450
+Belly  =  Nut,  i.  110
+Beltis,  ii.  281
+Benben,  ii.  71
+Benben-house,  i.  347
+Benbenit,     the      obelisk
+
+god,  i.  348
+Bene  Elohim,  i.  7
+Benen,  i.  192
+Benha,  i.  17
+Beni  Hasan,  i.  517
+Beiinu,  ii.  96 ;  ii.  116,
+
+289,  329
+Bennu-Asar,  ii.  303
+Bennu  =  Ra  and  Osiris,
+
+ii.  97
+Bennu,  the,  ii.  371
+Bennu,  the  Great,  ii.  59
+
+60,  160,  209
+Benra-merit,  ii.  256
+Bentet,  ii.  268
+Benth,  i.  211
+Benti-ar-aht-f,  i.  228
+Bent-Eeshet,  ii.  38
+Benutch,  ii.  25
+Beq,  i.  177  ;  ii.  263
+Bergmann,  i,  363 ;  ii.  90
+Berimon,  i.  281
+Berosus,  i.  305,
+
+
+INDEX
+
+
+395
+
+
+Berua,  i.  15
+
+Bes,  i.  498  ;  ii.  136, 209,
+
+270,  276, 280, 284  ff.
+Besa,  ii,  284
+Besa,  ii,  288
+Besabes-uaa,  i.  211
+Bes-aru,  i,  242
+Bes-Harpocrates,  ii.  286
+Bes-Horus,  ii.  286
+Besi,  i.  198,  347
+Besi-Shemti,  ii.  317
+Besitet,  iii.  213
+Bes-Ea-Temii,  ii.[286
+Bestet,  i.  445
+Beteslm,  i.  326
+Betet,  i.  272
+Biggeh,  ii.  51
+Biou,  ii.  307
+Birch,  Dr.  S.,  i.  63,  136,
+
+204,  208,  407,  434
+Birds,  sacred,  ii.  345
+Birth,  the  second,  ii.  116
+Black  Land,  i.  304
+Blacksmiths,  i.  85,  476,
+
+478,  485
+Blind  Horus,i.  299,470;
+
+ii.  370
+Bine  Nile,  i.  17 ;  ii.  360
+Boat  of  Isis,  i.  210
+Boat  of  Millions  of  Years,
+
+i.  333,  303,  488,  518 ;
+
+ii.  210,  260,  272
+Boat  of  Nepr,  i.  210
+Boat  of  Osiris,  i.  210
+Boat  of  770  cubits,  i.  85
+Boat  of  the  Earth,  i.  208,
+
+210
+Boats,  the  34  papyrus,  ii.
+
+129
+Boechoris,  ii.  352
+Boes,  i.  268
+Boethus,  i.  445
+Bone  of  Horus,  ii.  246
+Bone  of  Typho,  ii.  246
+Bonomi,  i.  178,  304
+
+
+Book   of   Breathings,    i.
+
+409
+Book   of  Coming  Forth
+
+by  Day,  i.  175
+Book  of  leu,  i.  267
+Book  of  Knowing  Evolu-
+tions of  Ra,  i.  294,  295
+Book    of     Overthrowing
+
+Apep,  i.  293,  294
+Book  of  Proverbs,  i.  122
+Book  of  the  Dead,  quoted,
+
+i.  23
+Book  of  the  Gates,  i.  328
+Book    of  the  Pylons,    i.
+
+174,  175,  304
+Book  of  the  Underworld
+
+described,  i.  204  ff.
+Book  of  Wisdom,  i.  122
+Books  of  Thoth,  i.  414
+Bouriant,  M.,  ii.  74
+Bous  fish,  ii.  382
+Bramble,  i.  19
+Bread,  ii.  122
+Bread  of  eternity,  i.  165 ;
+
+ii.  118
+Breast  =  Baabu,  i.  110
+Breasted,  Mr.,  ii.  74
+Bringers    of    doubles,    i.
+
+184
+Brittany,  i.  64
+Brugsch,  Dr.  H.,i.  63,67,
+
+89,  224,284,285,291,
+
+363,  367,  402  ff.
+Bua-tep,  i.  343
+Bubastis,    i.    100,    432,
+
+438,  444
+Bubastis,    described     by
+
+Herodotus,  i.  449
+Bubastis,  festivals   of,  i.
+
+448
+Bubastis  of  the  South,  i.
+
+446
+Bubastis,  triad  of,  i.  450
+Bubastites,  i.  96,  444
+Bull  =  Amen-Ra,  ii.  11
+
+
+Bull  Apis,  i.  26
+Bull,      Assyrian       man-
+headed,  i.  62
+Bull,  early  worship  of,  i.
+
+25
+Bull-god,  i.  427
+Bull  Mnevis,  i.  27,  330
+Bull  of  Arnentet,  i.  26  ;
+
+ii.  Ion
+Bull  of  Amenti,  ii.  350
+Bull  of  heaven,  i.  31
+Bull  of  Nut,  ii.  100
+Bull  of  the  Nine.  i.  109
+Bull  of  the  Underworld,
+
+i.  26
+Bull  of  the  West.  ii.  196
+Bull  Osiris,  ii.  31
+Bull-Scarab,  ii.  19
+Bull,  the   young,  ii.   14,
+
+15
+Bulls,  hoofs  of,  i.  58
+Bunau,  i.  259
+Bushes  =  clouds,  i.  306
+Busiris,   i.   \)o,  99,  103,
+
+115,  191,  469,  432;  ii.
+
+122,  14s.  252,  348
+Busirites,  i.  96
+Buss,  ii.  289
+Buto,  i.    24,   100,   115,
+
+438;  ii.  208,  211
+Butos,  ii.  192
+Buttocks  =  two  boats,  i.
+
+110
+Bums,  ii.  22
+Buwanat,  ii.  289
+Byblos,  ii.  74,  124,  189,
+
+190
+
+
+Cabasites,  i.  96
+Cabasus,  i.  100
+Cackler,    the    Great,   ii.
+
+96,  107,  108
+Caesarion,  i.  101
+Cailliaud,  i.  •"-•">( i
+
+
+196
+
+
+INDEX
+
+
+Cakes,  i.  178
+Cambyses,  i.  458;  ii.  352
+Campus  Martins,  ii,  218
+Canis  Major,  i.  488
+Cannibalism,  i.  28
+Canopic  jars,  i.  456
+Canopus,  i.  432  ;  ii.  199  ;
+
+Stele  of,  i.  448
+Cardinal  points,  i.  210 ;
+
+gods  of,  i.  158
+Cat,  ii.  248
+
+Cat  and  the  Ass,  ii.  368
+Cat,  Chapter  of,  ii.  272
+Cat,  god  and  goddess,  ii.
+
+363
+Cat  of  Neb,  ii.  209
+Cat=Ka,  ii.  61,  297
+Cat,   the   Great =Ka,    i.
+
+345  ;  ii.  107
+Cataract,  First,  ii.  25,  43
+Cataract,  Sixth,  i.  305
+Cerberus,  ii.  199
+Ceres,  ii.  218,  253,  367
+Cestrins  fish,  ii.  3«2
+Chabas,  i.   126,  136  ;  ii.
+
+146,  162,  365
+Chaos,  ii.  243
+Charmosyna,  ii.  200
+Chemmis,  i.  442  ;  ii.  188
+Chemres,  i.  442
+Chenoboscinm,  ii.  374
+Cheops,  i,  426
+Cherubim,  i.  6
+Cherubim,  i.  7
+Chimaera,  ii.  361
+Chin  —  Khert-khent-  sek-
+
+hem,  i,  110
+Choenus  fish,  ii.  382
+Chosroes,  i.  289
+Cicero,  i.  2
+Circle,    Hidden,    i.    339,
+
+340
+Circle  of  Amentet,  i.  216
+Circles   of  the    Tuat,    i.
+
+238
+
+
+Citharus  fish,  ii.  382
+Civitas  Lucinae,  i.  439
+Clemens  Alexandrinus,  i.
+
+414
+Cleopatra   VII.,    i.    161,
+
+329
+Cognizance,  the,  i.  25
+Combatants,  the  Two,  i.
+
+410,  475
+Constantine    the    Great,
+
+ii.  351
+Coprophagi,  i.  294,  355  ;
+
+ii.  379
+Coptites,  i.  96 ;  ii.  252
+Coptos,  i.    97,  431 ;    ii.
+
+22,  189,  219,  378
+Copts,  i.  106,  143  ;  hell
+
+of,  i.  265
+Cord-bearers,  the  Twelve,
+
+i.  186
+Cord  of  Law,  i.  188
+Corrcinus  fish,  ii.  382
+Cory,  Anc.  Frag,  quoted,
+
+I  35
+Coukhos,  ii.  305
+Cow,  early  worship  of,  i.
+
+25   '
+Cow-goddess,  ii.  19
+Creation,       Heliopolitan
+
+account  of,  i.  307,308-
+
+321;    order  of  events
+
+of,  i.  300
+Creation  Legend,  i.  18
+Creation  Series,  i.  279
+Creation,   Seven  Tablets
+
+of,  i.  288,  290
+Crocodile,  early   worship
+
+of,  i.  24  ;  worship  of,
+
+i.  2
+Crocodilopolis,  i.  95,  98,
+
+488  ;  ii.  355
+Crusher    of    Bones,    ii.
+
+59
+Cubit,    gods    of  the,    ii.
+
+29]
+
+
+Cusae,  i.  98,  432  ;  ii.  22;
+
+Hathon  of,  i.  434
+Cyclopes,  ii.  100
+Cynocephalus  Ape,  i.  17  ;
+
+ii.  364
+Cynocephalus  Ape  in  the
+
+Judgment,  i.  20,  21
+Cyuopolis,    i.    98,     102,
+
+432
+Cynopolites,  i.  96
+
+
+Dadianus,  i.  268
+AaXih  i.  289
+AaXos,  i.  289
+Dakhel,  ii.  22
+DamasciuB,  i.  289,  290
+Darius  II.,  i.  113,  464
+Darkness,    i.    202  ;    the
+
+outer,  i.  266
+Day  of  Judgment,  i.  5,  6
+Day -sky,  ii.  102,  105
+Days,    Epagomenal,     ii,
+
+109  ;    lucky    and    un-
+lucky, ii.  109  ;  gods  of,
+
+ii.  293
+Days  of  the  month,  gods
+
+of,  ii.  320,  322
+Dekans,  the  36,  ii.  304-
+
+308
+Delos,  i.  453
+Delta,  i.  24,  31,  93, 103  ;
+
+ii.  31
+Delta,  kingdom  of  Osiris
+
+in,  ii.  121
+Demi-gods,  i.  3
+Dendera,  i.  93,  97,  421,
+
+426,    429,    446,    464,
+
+484  ;  ii.  24,  55,  93,  95,
+
+108,  299
+Dendera,    Hathor    of,    i.
+
+435
+Dendera,  Osiris  scenes  at,
+
+ii.  131
+Deraarai  Hapaon,  i.  280
+
+
+INDEX
+
+
+397
+
+
+Der  al-Bahari,  i.  329  ;  ii.
+
+13,  285
+Der  al-Medina,  i.  437
+Der  al-Medinet,  i.  126
+De  Rouge,  E.,  i.  68,  69,
+
+100,  126,  136,  411
+Desert  gods,  i.  116
+Deus,  i.  69
+Deva,  i.  69
+Devourer   of  Amenti,    i.
+
+60
+Diana,  i.  448
+Dieisbalmerikh,  i.  281
+Dilgan,  ii.  316
+Diodorus,  i.  96,444,493;
+
+ii.  347,  352,  357,  364,
+
+366,  370, 375  ;  quoted,
+
+i.  62
+Diouysius  sent  to  Sinope,
+
+a  199
+
+Dionysos,  ii.  217
+Diopolites,  i.  96
+Diospolis,  i.  432  ;  ii.  22
+Diospolis  Magna,  i.  100
+Diospolis   Parva,    i.    97,
+
+431  ;  ii.  53
+Diospolites,  ii.  31
+Disk,  ii.  15
+Disk,    House    of  the,   i.
+
+513
+Disk,   the,  i.   336,  338;
+
+the  Great,  i.  340  ;  the
+
+winged,  481,  483
+Dives,  i.  171
+Divine  Providence,  i.  125
+Do-decagon    of   Jupiter,
+
+ii.  253
+Dog,  the,  ii.  366
+Dogs,  howl  before  a  death,
+
+i.  19'
+Door= Nut,  ii.  106
+Draco,  ii.  312
+Dumah,  i.  274
+Dumichen,  i.  34,  99,  516
+Dung-beetle,  i.  356
+
+
+Ea,  i.  289,  359,  360
+Earth,  i.  288
+Earth,  Boat  of,  i.  208
+Earth-gods,  i.  116
+East,  Gate  of,  i.  353
+East,  souls  of,  i.  107,  351
+Eater  of  the  Ass,  i.  208,
+
+209,  491  ;  ii.  246
+Eater  of  the  dead,  i.  20,
+
+60
+Ecclesiasticus,  i.  123
+Edfu,  i.  85,  92,  470, 477,
+
+499  ;  ii.  24,  278
+Egg,  i.  182;  ii.  110
+Egg-ball  of  beetle,  i.  357
+Egg  of  Seb,  ii.  95
+Egg,  the  Great,  ii.  107
+Eight  gods  of  Hermopolis,
+
+i.  519
+Eileithyia,  i.  97
+Eileithyiapolis,   ii.    155,
+
+372  '
+Eileithyiaspolis,     i.    24,
+
+431,  437
+Eisenmenger,  i.  171,  275,
+
+278  ;  quoted,  i.  7,  21
+El,  i.  66,  67
+
+Elements,  the  four,  i.  288
+Elephant,  i.  31  ;  ii.  365
+Elephant  in  predynastic
+
+times,  i.  22
+Elephantine,    i.    95,    96,
+
+107,286,365,431,463;
+
+ii.  43,  44,  51,  52,  53,
+
+91,  148,  354,  365
+Elephantine,  triad  of,  ii.
+
+49  ft.
+El-Kab,  i.  439,  Hi7
+Elolnm,  i.  133,  141
+Elves,  i.  L2
+Elysian  Fields,   i.    103,
+
+168  ;  ii.  62,  63
+Embalmment,  Ritual  of,
+
+i.  454
+Em-khent-maati,  i.  80
+
+
+Enen,  i.  81.  89
+Enenet,  i.  81
+Enenet-hemset,  i.  289
+Enen-retui,  i.  230
+Enkht  honin,  i.  266
+En-me-shar-ra,  ii.  316
+Ennead,  i.  114
+Ennit,  i.  286,  289,  291
+Ennukaru.  ii.  2s".
+Ennutchi.    the    Nine,    i.
+
+lss
+Entair,  i.  281
+Eututi,  ii.  317
+Euzu,  ii.  316
+Lone,  i.  281
+Eoureph,  i.  281
+Epagomenal  days,  ii.  L09
+Epaphos,  ii.  346
+Ephesus,  Council  of.  ii.
+
+66
+Epping,  J.,  ii.  316
+Erebos,  i.  285
+Erelim.  i.  7
+Erinnyes,  ii.  100
+Erman,    Dr.,    quoted,    i.
+
+329
+Ermen-hert,  i.  98
+Erment,  i.  161,  32'.'
+Ermen-ta,  i.  194
+Ermenu,  i.  250,  259
+Ermenui,  i.  248
+Eros,  i.  285
+Erpat  =  Seb,  ii.  95
+Erta-  hen-er  -  reqau,    i.
+
+177
+Erta-nei-nebt.  ii.  129
+Ertat-Sebanqa,  i.  177
+Esau,  ii.  281
+Eshmtinen,  i.  401
+Esna,  i.  97 ;  ii.  66
+Esneh,  i.  452,  463,  461
+Eteoph,  i.  281
+Eternity,  bread  and  beer
+
+of,  i.  165
+Etet.  ii.  304
+
+
+398
+
+
+INDEX
+
+
+Eudoxus,  ii.  253
+
+Euphrates,  i.  277
+
+Eusebius  quoted,  i,  35
+
+Euthari,  i.  281
+
+Eve,  i.  19
+
+Evening,    Hatlior    of,    i.
+
+107
+Evil  Eye,  i.  13,  14
+Eye,    name  of  Ea,   3-40,
+
+342
+Eye  of  Flame,  i.  447
+Eye  ofHorus,i.  109,165,
+
+202,  248,  363,  457,  467
+Eye  of  Nu,  i.  306
+Eye  of  Nu  =  the  Moon,
+
+i,  299
+Eye  of  Nu  =  the  Sun,  i.
+
+298
+Eye  of  Ea,  i.  364,  365,
+
+446,  516,  517;  ii.   8,
+
+161
+Eye  of  Ea  =  Meh-urt,  i.
+
+422
+Eye  of  Tern,  i.  158,  305,
+
+*446
+Eye,   the   Black  =  Aah,
+
+i.  413
+Eye,  the  White  =  Ea,  i,
+
+413
+Eyes,  cure  for  sore,  i.  17
+Eyes  =  Hathor,  i.  109
+Eyes  of   Ptah-Tenen,    i.
+
+510
+Ezekiel,  i.  62
+
+
+Fa,  i.  250
+
+Fa-a,  ii.  17
+
+Fa-akh,  i.  178
+
+Face  =  Ap-uat,  i.  109
+
+Faces,  god  of  four,  i.  85
+
+Faket,  ii.  128
+
+Famine,  the  seven  years',
+
+ii.  54
+Fa-pet,  i.  178 ;  ii.  330
+
+
+Farafra,  ii.  22
+Father  of  fathers,  ii.  51
+Fa-trau,  i.  211
+Fayyiim,    the    home    of
+
+huge  serpents,  i.  11
+Feather  of  Maat,  i.  20
+Feka,  i.  433
+Fentet-ankh,  ii.  139
+Fenti,  i.  419
+Fetish,  i.  28
+Field  of  Grasshoppers,  i.
+
+344,  420
+Field  of  Hetep,  i.  367
+Field  of  Peace,  i.  58,334;
+
+ii.  120
+Field  of  Plants,  ii.  121
+Field  of  Eeeds,  i.   334;
+
+ii.  121
+Fields  of  Siri,  i.  35,  36
+Fields  of  the  spirits,  i.
+
+186
+Fiery  Lake,  i.  35
+Figs,  i.  58
+
+Figs  in  heaven,  ii.  118
+Fig    tree    of   heaven,  i.
+
+165
+Fig  tree  speaks,  i.  19
+Fingers,  the  two,  i.  85
+Fire,  i.  288
+Fishes,    mythological,  i.
+
+324
+Fish-god,  i.  303
+Fish-gods,  ii.  382
+Fish,  worship  of,  i.  2
+Flame  (uraeus),  i.  184
+Flesh  of  Osiris,  i.  234
+Flesh  of  Ea,  i.  226,  273
+Flesh  of  Tern,  i.  234
+Flint  cow-goddess,  i.  25
+Followers  of  Horus,i.  84,
+
+491,  158
+Food,  celestial,  i,  164
+Forty-two    Assessors,    i.
+
+418,  153 ;  ii.  62
+Forty-two  Judges,  i,  38
+
+
+Fountain  of  the  Sun,  i.
+
+328 ;  ii.  108
+Frazer,  Mr.   G.,   quoted,
+
+i.  43
+Fringes,  i.  14
+Frog,  the,  ii.  378
+
+
+Gabriel,  i.  5,  278
+Gabriel     and     his     600
+
+wings,  i.  5
+Gate  of  Osiris,  i.  230
+Geb,  ii.  94
+Gebelen,  i.  435
+Gehenna,  i.  273
+Gehenna,  chambers  of,  i.
+
+275
+Gehenna,  river  of,  i.  275
+Gehenna,  size  of,    i.  274
+Ge  Hinnom,  i.  273
+George  of  Cappadocia,  i.
+
+268
+George,  Saint,  i.  489
+Gir-tab,  ii.  316
+Gizeh,  ii.  361
+Gizeh,    Pyramids    of,    i.
+
+471
+Gnomes,  i.  12
+Goblins,  i.  12
+God,   One,   i.    131,   132,
+
+133
+God,  conception  of,  i.  57
+God  on  the  staircase,  i.
+
+191
+God,  self  produced,  i.  134
+Gods,  mortal,  i.  6
+Gods  of  archaic  Period,
+
+i.  78
+Gods      of     Egypt,     the
+
+foreign,  ii.  275-290
+"  Gods,"  the,  conception
+
+of,  i.  57
+Gods,  the  Eighteen,  i.  86
+Gods,   the   forty-two,   ii.
+
+159
+
+
+INDEX
+
+
+199
+
+
+Gods  =  The     names    of
+
+God,  i.  134
+Gods,  the  oldest  company
+
+of,  i.  282  ff.
+Gods,  the  Twenty-seven,
+
+i.  83,  87
+God-mother,  ii.  221
+God-Soul,  i.  148,  302
+Goldziher,  qnoted,  i.  278
+Golenischeff,  ii.  '205
+Good  and  Evil,  ii.  '243
+Goose    of  Amen-Ra,    ii.
+
+374
+Goose  =  Seb,  ii.  04
+Goshen,  i.  100
+Grapes  in  heaven,  ii.  118
+Grasshopper,  ii.  370
+Grasshopper  of  Ea,  i.  445
+Grasshoppers,  i.  421
+Grasshoppers,    Field    of,
+
+ii.  120
+Great  Balance,  ii.  262
+Great  Bear,  ii.  240,  250
+Great  Cackler,  ii,  374
+Great  Green  Sea,  i,  480,
+
+511
+Great  Scales,  i.  36,  153,
+
+100
+Grebaut,  ii.  6
+Green  Crown,  ii.  26
+Griffith,  Mr.  F.  L.,  i.  64
+Gu-an-na,  ii.  316
+Gud-an-na,  ii.  316
+Gvnaecopolites,  i.  06;  ii.
+'31
+
+
+Haas,  ii.  24ii
+Habal,  ii.  289
+Hab-em-atu,  ii.  335
+Hades,  i.  263  ;  ii.  197
+Hades,  the  god,  ii.  108,
+
+349
+Haggi  Kandil,  ii.  72
+Ha-hetep,  ii.  335
+
+
+EJa-hra,  ii.  336
+
+Hai,  ii.  245
+
+Hai,  i.  334;  ii.  320,  336
+
+Hai,  Serpent-god,  ii.  367
+
+Hair,  i.  100
+
+Hair     of      Children     of
+
+Horus,  i.  210
+Hair   of   Horus   i.    157,
+
+466
+Hak,  ii.  2'. il
+Haker,  ii.  335
+Haker  festival,  i.  410
+Ha-kheru,  ii.  335
+Hall  of  Judgment,  i.  153
+Hall  of  Maati,  i.  38  ;  ii.
+
+62
+Hall  of  Meh-urt,  i.  423
+Ha-mehit  (city),  i.  406
+Hammonian  nome,  i,  96
+Ha-nebu,  i.  370  ;  ii.  151
+Hap,  i.  110
+Hap  (Apis),  Bull,  the,  i.
+
+26 ;  ii.  346
+Hap,  city  of,  ii.  133
+Hap,  Hapi,  the  Nile-god,
+'  i.  178  ;  ii.  42,  43  ff.
+Hap  =  north,  i.  158
+Hap,    son    of  Horus,    i.
+
+491,  492
+Hapi,  i.   198,   45i; ;   ii.
+
+77,  129,  145,  184
+Hapi  (Nile),  i.  286,  335 ;
+
+ii.  4,  155,  336
+Hapi  (Nile-god),  i.  146,
+
+147
+Hapi  (son  of  Horus),  ii.
+"  336
+
+Hapi-Asmat,  ii.  309
+Hapi-Khuemu,  ii.  45
+Hapi-Ptah,  ii.  45
+Hapi-Nu,  ii.  47
+Hapiu  ( Apis),  ii.  336
+Hap-re,  ii.  289
+Hap-semu-8,  i.  241
+I.Iap-tcheserts,  ii.  302
+
+
+I.Iapti-ta-f,  i.  242
+
+I.I  apt-re,  ii.  336,  363
+
+I  Ifip-ur,  ii.  52
+
+Haqa  -  haka  -  11a  -  lira,     ii.
+
+336
+Haq-p-khart,  i.  t69
+Hare-god,  i.  427  ;  ii.  371
+Hare,  nome  of,  i.  28
+Harepukahasharesha-
+
+baiu,  i.  511)
+IJarethi,  ii.  336
+Harmachis,  i.  470;  ii.  10,
+
+75
+Harpocrates,  i.  285,  468,
+
+469,  495;  ii.  L06
+Harpocrates  gods,  i.  464
+Harpocrates,  origin  of,  ii.
+
+194
+Harpukakashareshabain,
+'  ii.  336
+
+Hartmann,  i.  136
+Ha-sert,  i.  178
+Hashmalim,  i.  7
+Hat,  i.  401  ;  ii.  209
+Ha-tchat,  ii.  304
+Hat-chetchn,  i.  211
+Hatet,  i.  255
+Hathor,   i.  78,  03.   338,
+
+428-437  ;  ii.  2,  36,  93
+
+103, 136
+Hathor- Aphrodite,  i.  415
+Hathor     destroys     man-
+kind, i.  365
+Hathor,  flint  symbol   of,
+
+i.  25
+Hathor     of     Aphxodito-
+
+polis,  i.  97,  98
+Hathor  of  Cusae.  i.  98
+Hathor  of  Dendera,  i.  97
+Hathor      of       Diospolis
+
+Parva,  i.  97
+Hathor  of  Nut-ent-I.Iap,
+
+i.  98
+Hathors,    the    Seven,    i.
+
+433,  434
+
+
+400
+
+
+INDEX
+
+
+Hathors,  the  Twelve,   i.
+
+434
+Hat-mehit,  i.  114,  432  ;
+'  ii.  65,  354,  383
+Hat-mehit,  norne  of,  ii.
+'  64
+
+Hatshepset,  i.  160,  329  ;
+'  ii.  285
+Hau,  i.  23
+Hau-hra,  i.  326
+Hauna-ara-her-hra,     i.
+
+272
+Hawk,       antiquity        of
+
+worship  of,  i.  9
+Hawk-god,  ii.  372
+Hawk;  nome  of,  i.  27,  28
+Hawk,  the  Great,  ii.  11
+Hawks  as  abodes  of  dis-
+embodied spirits,  i.  16
+Head  =  hawk,  i.  109
+Hearing,  god  of,  ii.  298
+Heart  =  Bastet,  i.  110
+Heart,  Chapters  of,  i.  42
+Heaven,  i.  156  ff.
+Heaven  of  Osiris,  the,  ii.
+
+119
+Heb-Antet,  ii.  293
+Heb-api-hent-s  ii.  293
+Heb-apt,  ii.  293
+Heben,  i.  480,  492
+Hebenu,  i.  486
+Hebennrj,  i.  98,  494
+Hebes-ka,  i.  100
+Hebet,  i.    113;    ii.   213,
+
+255
+Hebi,  ii.  362
+Heb-Kert,  ii.  128
+Hebrews,  i.  41,  119  ;  ii.
+
+73
+Hebrews,  Heaven   of,   i.
+
+166
+Hebrews,  Hell  of,  i.  171,
+
+265
+Hebrews,  their  system  of
+
+Angels,  i.  6  ff.
+
+
+Hebs,  i.  244
+Hebset,  i.  241
+Hebt,  i.  492
+Heb-tep,  ii.  293
+Hebt-re-f,  ii.  336
+Hedgehog,  ii.  369
+Heels  =  souls    of  Annu,
+
+i.  110
+Heglik-tree,  i.  17
+Heh,  289
+Heh,  central   support   of
+
+heaven,  i.  157
+Heh,  Lake  of,  ii.  60
+Hehet,  ii.  2
+Hehi,  ii.  116,  337
+Hehu,  i.  113,  257,  258,
+
+283,  284
+Hehui,  ii.  2
+Hehut,  i.  113,  257,  258,
+
+283,  285,  289
+Heka,  i.  23
+Heka,   i.   82,   180;   ii.
+
+131
+Hekau,  i.  40  ;  ii.  4
+Hekemt,  i.  220
+Hekennnt,  i.  513
+Hekenth,  i.  234
+Hekret,  i.  23
+Heliopolis,    i.    92,   100,
+
+282,  328,  471 ;  ii.  4,
+
+5,  22,  95,  96,  97,  141
+Heliopolis      and       At  en
+
+worship,  ii.  68
+Heliopolis,    Bull    of,    ii,
+
+351,  352
+Heliopolis,    company    of
+
+gods  of,  ii.  85  ff.
+Heliopolis,    lions    of,    ii.
+
+360
+Heliopolis,    Mnevis    god
+
+of,  i.  26
+Heliopolis,  paut  of  gods
+
+of,  i.  88
+Heliopolis,    souls    of,    i.
+
+107
+
+
+Heliopolis,   sycamore   of,
+
+ii.  107
+Heliopolis      visited      by
+
+Piankhi,  i.  331
+Heliopolitan  doctrine,  i.
+
+333
+Heliopolites,  i.  96
+Helios,  ii.  93,  124,  186,
+
+187
+Hell,  i.  171  ff.,  263  ff.
+Hell,  prototype  of,  i.  12
+Hell.  Seven  Mansions  of,
+
+i.  278
+Hellanicus,  ii.  92
+Hem,  i.  81
+Hemaka,  ii.  116,  117
+Hememet,  ii.  154
+Hemen,  i.  81;  ii.  336
+Hemhemet,  i.  481
+Hemhemti,  i.  326
+Hem-nu,  ii.  336
+Hemt,  i.  228
+Hem-taiu,  i.  326
+Hemth,  i.  23
+Hemti,  ii.  336
+Henbi,  ii.  63,  336
+Heneb,  ii.  63
+Henena,  i.  81
+Hen-en-ba,  ii.  322
+Henen-su,  ii.  58,  98,  59,
+
+131
+Henhenith,  i.  228
+Hen-Heru,  i.  211
+Henkhisesui  (East  wind),
+
+ii.  296
+Henmemet,  i.    84,  159,
+'  160 ;  ii.  151
+Hennu  Boat,  i.  505,  506;
+'  ii.  117,  260
+Henotheism,  i.  136
+Hen-pesetchi,  i.  81
+Hensek,  ii.  336
+Hent,  i.  81
+Hent  (Isis),  ii.  213
+Hentch-hentch,  ii.  294
+
+
+INDEX
+
+
+401
+
+
+Henti,  ii.  337
+Henti  (Osiris),  i.  457
+Henti-requ,   i,    177 ;    ii.
+
+337
+Hentiu,  i.  198,  259
+Hent-neteru,  i.  254
+Hent-nut-s,  i.  244
+Hent-she,  ii.  337
+Hep,  i.  81;  ii.  42
+Hep  (Nile)  i.  81
+Hep-Meht,  ii.  43
+Hep-Eeset,  ii.  43
+Hep-ur,  i.  81
+Hepa,  i.  254
+Hepath,  i.  81
+Hephaistos,  i.  461,  501
+Heptanomis,  i.  96
+Heptet,  ii.  131
+Hept-seshet,  ii.  336
+Hept-shet,  i.  419
+Hept-ta,  i.  192
+Heq,  ii.  291
+Heq,  ka  of  Ka,  ii.  300
+Heqa,  ii.  357
+Heq-at  (nome),  i,  100
+Heqes,  ii.  129
+Heqet,  i.   82,  110,  329,
+
+431 ;  ii.  61,  109,  136,
+
+137,  213,  378
+Heqtit,  ii.  184, 338,  378
+Heq-ur,  ii.  302
+Her-ab-Khentu,  ii.  307
+Her-ab-uaa,  ii.  306
+Heracleopolites,  i.  96
+Heraclides,  ii.  199
+Heraclitus,  ii.  199,  200
+Her-a-f,  ii.  129
+Herakleopolis  Magna,  i.
+
+98,  354,  365,  472 ;  ii.
+
+5,22,58,59,148,155,
+
+159
+Her-aua,  ii.  291
+Her-ba,  i.  345  ;  ii.  320
+Hercules,  ii.  199,  200
+Herent,  i.  492
+ii — d  d
+
+
+Herert,  i.  186
+Her-hepes,  i.  81 ;  ii.  85
+Her-hequi,  i.  222
+Heri-akeba-f,  ii.  337
+Heri-sep-f,  ii.  60,  337
+Heri-seru,  i.  419
+Herit,  i.  202
+Heri-uru,  ii.  337
+Her-ka,  i.  463
+Her-khu,  i.  222
+Hermanubis,  i.  493 ;  ii.
+
+265
+Hermes,  i.  402,  414 ;  ii.
+
+124,  187,  193
+Hernionthis,  i.  328,  431,
+
+469;  ii.   22,  24,  352,
+
+357
+Herinonthites,  i.  96
+Hermopolis,  i.  95, 98, 149,
+
+332,   400,   405,  432;
+
+ii.  30,  92,   107,   149,
+
+353,  375
+Hermopolis,  Eight   gods
+
+of,  i.  292
+Hermopolis  Magna,  ii.  22,
+
+51
+Hermopolis  of  North,  i.
+
+427
+Hermopolis  of  South,  i.
+
+427
+Hermopolis,  Souls  of,  i.
+
+107
+Hermopolites,  i.  96
+Herodotus,     quoted      or
+
+referred  to,  i.  1,  444,
+
+448,  452,  514 ;  ii.  96,
+
+208,    346,    353,    357,
+
+358,364,366,369,370-
+
+372,  375
+Heron,  the,  ii.  373
+Heroopolis,  i.  354;  ii.  31
+Heroopolites,  i.  353
+Her-pest,  i.  480
+Her-qenbet-f,  i.  188
+Her-sha-f,  ii.  58
+
+
+Her-sha-s,  i.  256
+Her-she-f,  ii.  58
+Her-shefi,  i.  98
+Her-sheft,  ii.  58  ff.
+Her-she-taiu,  i.  248
+Her-she-tuati,  i.  244
+Her-ta,  ii.  337
+Her-taui,  ii.  337
+Her-tep-aha-her-neb-s,
+
+ii.  301
+Her-tept,  ii.  134
+Hert-ermen,  i.  246
+Her-tesu-f,  i.  232
+Hert-rmntua,  i.  255
+Her-thertu,  i.  38,  49 ;  ii.
+
+34
+Hertit,  i.  325
+Hertit-an,  ii.  337
+Hert-ketit-s,  i.  255
+Hert-nekenit,  i.  256
+Hert-nemmat-set,  i.  256
+Hert-sefu-s,  i.  256
+Her-tuaiu,  i.  211
+Heru  (Horus),  i.  78,  81 ;
+
+ii.  317,  337
+Heru-ai,  ii.  337
+Heru,  an  official,  ii.  63
+Heru-aa-abu,  i.  498
+Heru-aah,  i.  81,  497
+Heru-ahai,  i.  498
+Heru-am-henu,  i.  81
+Heru-am-hennu,  i.  497
+Heru  -  ami  -  abu-her-ab  -
+
+ami-khat,  i.  498
+Heru-ami-atken,  i.  498
+Heru-an-mut-f,  i.  470
+Ileru-ap-shata,  ii.  139
+Heru-ap-sheta-taui,      ii.
+
+'  302
+Heru-behutet,  i.  96,473;
+
+'  ii.  248
+Heru-behutet  and  Set,  i.
+
+'  489
+
+Heru-em-au-ab,  ii.  3u2
+\[ eru-em-heb,  ii.  84
+
+
+402
+
+
+INDEX
+
+
+Heru-ein-ket-Aa,  i.  413
+Heru-ein-kkebit,  i.  498
+Heru-em-kkent-an-inaati,
+'  ii.  337
+
+Heru-kebenu,  i.  486
+Heru-kekennu,   i.    473 ;
+
+ii.  260
+Heru-kekenu,  i.  206,  450
+Heru-kennu,  i.  469
+Heru-ker-kket,  ii.  301
+Heru-ker-neferu,  i.  498
+Heru-ker-uatck-f,  ii.  322
+Herui    (Horus-Set),    ii.
+
+337
+Herui  (nome),  i.  97
+Herui-senui,  ii.  337
+Heru-ka,  ii.  303
+Heru-ka-nekkt,  ii.  214
+Heru-ka-pet,  ii.  302
+Heru-kkabit,  i.  211
+Heru-kkart,  i.  81
+Heru-kkent-an-maati,    i.
+
+299,  468
+Heru-  kkentet  -  an  -  maati,
+'  ii.  183
+
+Heru-kkent-kek,  i.  498
+Heru-kkenti-aket-f ;     i,
+'  228
+Heru-kkenti-an-Maati,  i.
+
+470
+
+Heru-kkenti-kkat,  i.  470
+Heru  -  kkenti  -  maati,    i.
+494
+
+Heru-kkent-kkattki,     ii.
+
+'  184
+Heru-kkent-kkatitk,     ii.
+
+'  293
+Heru-kkent-peru,  i.    81,
+
+497
+Heru-kkesbetck-maati,  i.
+
+81
+
+Heru-kkuti,  i.  336,  349,
+470  ff,  ii.  4,  293,  337
+
+Heru-kkuti-Kkepera,     i.
+'  470
+
+
+Heru-kkuti-Ra,  i.  352
+Heru-kkuti-Tem,  i.  470
+Heru-kkuti  -  Temu  -  Heru
+
+Kkepera,  i.  357
+Heru  -  kkuti  -  Ra  -  Temu  -
+
+Kkepera,  i.  472
+Heru-kkuttka,  i.  81
+Heru-ma-  taui  -  pa  -  kkart ,
+'  i.  495
+Heru-merti,    i.    469    f. ;
+
+ii.  299
+Heru-neb-Mesen,  ii,  362
+Heru-neb-ureret,  i.  498
+Heru-netck-kra-tef-f,     i.
+
+495 ;  ii.  337
+Heru-netck-tef-f,  i.  488 ;
+
+ii.  135,  322
+Heru-netck-tef-f  em  ren-
+
+f  neb,  ii.  185
+Heru-nub,  i.  470,  426
+Heru-pa-kkart,    i.    469
+'  ff. ;  ii.  35
+Heru-pa-kkart,    son    of
+
+Hat-Mekit,  ii.  65
+Heru-pa-kkart,     son     of
+
+Osiris,  i.  495,  496
+Heru-pe-sketa,  ii.  302
+Heru-p-ka,  ii.  303
+Heru-p-kkart  of  Busiris,
+
+i.  469
+Heru-Ra-p-kkart,  i.  469
+Heru-sa-Ast,ii.l83,292,
+
+337
+Heru-sa-Ast-sa-Asar,    i.
+'  486
+
+Heru-sbati  (?),  ii.  301
+Heru-sekka,  ii.  212
+Heru-sekkai,  i.  498 ;  ii.
+
+183
+Heru-sept,   i.    81,    498,
+
+499
+Heru-skefi  =  Osiris,    ii.
+
+139
+Heru-skemsku,  i,  490
+Heru-sket-kra,  i.  498
+
+
+Heru-sku-p-kkart,  i,  469
+Heru-sma-taui,    i,     354,
+'  472 ;  ii.  249
+Heru-Tat,  i.  81
+Heru-ta-ta-f,  i.  358,  426,
+
+524
+Heru-Tekuti,  i.  414  ;  ii.
+'  184
+
+Heru-tema,  i.  468
+Heru-tesker,  ii.  303
+Heru-tesker-maati,  i.  81
+Heru,  tke  Hawk-god,  i.
+
+322
+Heru,  tke  oldest  god,  i.
+'  466
+
+Heru-tkema,  i,  486
+Heru-ti,  ii.  261
+Heru-Tuat,  i.  211
+Heru-tuati,  i.  196
+Her-uatck-f,  i.  497
+Heru-ur  (Aroeris),   i.   9,
+'  78,  102,  467  ff. ;  ii.
+
+109,   183,    241,   337,
+
+356,  378
+Heru-ur  and  Set,  i.  489  ;
+
+ii.  243
+Heru-ur   of    Sekkem,    i.
+
+99
+Heru-ur,  god  of  tke  Nortk,
+
+i.  468 ;  ii.  243
+Heru-ur  of  tke  Soutk,  i,
+
+467
+Her-ut-f,  i.  256
+Hes,  i.  433
+Hesamut,  ii.  312
+Hesat,  i.  82
+Hesentet,  ii.  181
+Hesepti,  i.  358,  506
+Hesert,  i.  401
+Hes-kra,  i.  519  ;  ii.  337
+Hesmennu,  i.  82
+Hes-nefer-Sebek,  i.  464
+Hespu,  tke,  i.  95-100
+Hes-tckefetck,  ii,  19,  338
+Het,  i,  97
+
+
+INDEX
+
+
+403
+
+
+Het,  i.  161
+Het-aa,  i.  513
+Het-Abtit,  i.  405
+Het-a-nekkt,  i.  478
+Het- Ant,  i,  492
+Het-baiut,  i.  496
+Het-Benben,  ii.  66,  73,
+
+97
+Het-Benbenet,  i.  331
+Het-Bennu,  ii.  128
+Heteh-a,  i.  211
+Hetch-abehu,  i,  419  ;  ii.
+
+338
+Hetchhetch,  i.  81
+Hetchiu,  i.  344
+Hetch-met,  i.  222
+Hetch-nau,  i.  218
+Hetch-nefer-Sebeq,  i.457,
+
+464
+Hetch-paar,  i.  88
+Hetch-re,  338
+Hetch-re-pest-tep,  ii.  338
+Hetchuti,  ii.  320
+Hetemet,  ii.  338
+Hetemet-baiu,  i.  178
+Hetemet-kkeiniu,  i.  241
+Hetemet-khu,  i.  244
+Hetemitet,  i.  232
+Het-ennut,  i.  469
+Hetep,  ii.  338
+Hetep  (city),  i.  161
+Hetepet,  city  of,  i.  429 ;
+
+ii.  381 ;  scarab  of,  i.  85
+Hetep-ka,  ii.  338
+Hetep  -  khenti  -  Tuat,     i.
+
+228
+Hetep-mes,  ii.  263
+Hetep-sekket,  i.  367
+Hetep-sekkus,  i.  495  ;  ii,
+
+338
+Hetep-taui,  ii.  338
+Heteptiu,  i.  226
+Hetep-uaa,  i.  242
+Hetepui,  i.  230
+Hetet,  ii.  213,  292
+
+
+Hetetet,  ii.  338
+
+Hetet-Sept,  ii.  268
+
+Het-her-ateb,  ii.  128
+
+Het-Hert  (Hathor),  i.  82,
+428-437;  ii.  293
+
+Het-Heru,  i.  78
+
+Het-ka-kknem-neteru,   i.
+51
+
+Het-ka-Ptah,  i.  502, 512,
+522 ;  ii.  i54
+
+Het-ka-Ptah    (see   Mem-
+phis), ii.  157
+
+Het-khaat,  ii.  249
+
+Het-khas,  ii.  255
+
+Het-khat,  i.  515
+
+Het-khebit,  i.  452,  464
+
+Het-maa-kheru,  ii.  128
+
+Het-Mut,  ii.  30
+
+Het-nefert-Tem,  i.  473
+
+Het-neh,  i.  492
+
+Het-Net,  i.  452
+
+Het-Nut,  ii.  103
+
+Het-Keshp,  ii.  283
+
+Het-sa-Ast,  ii.  374
+
+Het  -  sekhem,    ii.     255,
+256
+
+Het-ser,  ii.  210
+
+Het-Serqet,  i.  88
+
+Het-Seshesh,  ii.  108
+
+Het-stau-kker-aha-Ra,  i.
+228
+
+Het-suten,  i.  492
+
+Het-ta-her-ab,  i.  100
+
+Het-teft,  ii.  64
+
+Het-temtet-Ra,  i.  228
+
+Hettenuut,  i.  81
+
+Het-tua-Ra,  i.  228
+
+Het-uart,  ii.  251
+
+Het-ur-ka,  i.  88
+
+Het-urt,  ii.  51
+Het-utet,  i.  513
+Hidden-Face,  i.  343
+Hidden-House,  ii.  154
+Hidden-Name,  i.  48
+Hidden  One,  ii.  21
+
+
+Hidden-Souls,  i.  212, 213,
+
+215
+Hidden  symbols,  i.  222
+Hierakonpolis,     i.     431,
+
+476 ;  ii.  372
+Hierosolymus,    ii.    254 ;
+
+368
+High  priest  of  Memphis,
+
+i.  101
+High   priest   of  Thebes,
+
+title  of,  i.  101
+Hi-mu,  ii.  336
+Hinnom,  i.  273
+Hinu-en-Shu-nefer,    ii.
+
+93
+Hipponon,  i.  98,  494
+Hippopotamus  of  Set,  i.
+
+478,  480
+Hippopotamus,  the,  i.  24;
+
+ii.  359
+Hit,  ii.  287,  336
+Hobgoblins,  i.  12
+Hokhmah,  i.  296
+Holy  fathers,  i.  101
+Homer,  ii.  219
+Horapollo,i.  62,  234,284,
+
+356,    402,    461,    462;
+
+ii.  369,  375,  379,  381,
+
+382
+Horn    of    the    West,    i.
+
+205
+Horse  and  Ox,  Fable  of,
+
+i.  18
+Horus,  i.  78,  145,  146,
+
+180,   304,   341;    ii.
+
+129
+Horus  and  Set,  i.  484  ;
+
+ii.  31,  62, 244;  double-
+head,    i.     194;    fight
+
+between,  i.  117  ;  fight
+
+of,  i.  405,  475,  488  ;
+
+hold  the  ladder,  i.  167  ;
+
+their  fight,  ii.  212
+Horus  as  Advocate  in  the
+
+Judgment,  i.  490
+
+
+404
+
+
+INDEX
+
+
+Horus,    battle    of,    with
+
+Set,  ii.  125
+Horns-brethren,  the  two,
+
+i.  410
+Horns,  Cippi  of,  ii.  267-
+
+274
+Horus   cuts  off  head   of
+
+Isis,  i.  405
+Horus  =  To-day,  i.  487
+Horus,   Followers   of,    i.
+
+196
+Horus,  four  Children  of,
+
+i.  210,  228,  456,  497 ;
+
+ii.  106,  145,  249
+Horus,  four  Children  of
+
+as  gods  of  Dekans,  ii.
+
+309,  310
+Horus-gods,  the,  i.  466  ff.
+Horus,    ka    of,   i.    163 ;
+
+Ladder  of,  ii.  242
+Horus-name,  the,  i.  25
+Horus  of  Antaeopolis,  i.
+
+97
+Horus  of  Athribis,  i.  100
+Horus  of  Behutet,  i.  84
+Horus   of    Behutet    and
+
+Set,  i.  405
+Horus  of  Edfu,  i.  92
+Horus   stung  by  a  scor-
+pion, ii.  208,  272
+Horus  of  Hipponon,  i.  98
+Horus  of  Tanis,  i.  100
+Horus  of  the  East,  ii.  10
+Horus    of    the    Papyrus
+
+swamps,  i.  442
+Horus  of  Tu-f,  i.  98
+Horus  Pakht,  i.  518
+Horus,  two  Eed  Eyes  of,
+
+i.  497
+Horus  Seker,  ii.  145
+Horus  Sept,  i.  166,  200 ;
+
+ii.  145
+Horus-Set,  i.  200,  211
+Horus  the  Aged,  i.  84
+Horus  the  Blind,  i.  299
+
+
+Horus  the  Child,  i.  469
+Horus  the  Elder,  i.  188,
+
+467,  496
+Horus,  two  Blue  Eyes  of,
+
+i.  497
+Hours,    gods    and    god-
+desses of,  ii.  300,  301
+House  of  Osiris,  i.  103
+House  of  Shu,  ii.  93
+House  of  the  Net,  i.  405,
+
+407
+Hra-f-ha-f,  i.  81,  419;  ii.
+
+121,  337
+Hra-nefer,  ii.  337
+Hra-ua,  ii.  337
+Hu,  i.  81,  99,  203,  206,
+
+215,  472 ;  ii.  89,  297,
+
+299,  302,  336
+Hu  (city),  i.  492
+Hu  (the  Sphinx),  ii.  361
+Hu,  ka  of  Ea,  ii.  300
+Huaaiti,  i.  341 ;  ii.  317
+Hui,  ii.  336
+Huit,  god  of  Sphinx,  i.
+
+348
+Hu-kheru,     i.    176;     ii.
+
+336
+Human  sacrifice,  i.  234
+Hun,  i.  211
+Hunefer,  Papyrus   of,   i.
+
+131,  335,410,489;  ii.
+
+5,  6,  68
+Hunger,  ii.  118
+Hunt,  i.  81
+Huntheth,  i.  248
+Hur  al-'uyun,  i.  166
+Hurt,  ii.  213
+Hut,  i.  492
+Hutchaiui   (West  wind),
+
+ii.  296
+Hu-tepa,  i.  177 ;  ii.  336
+Hydrus,  the,  ii.  358,  359
+Hyksos,i.  104  ;  ii.  4,  69,
+
+250
+Hypsele,  i.  97
+
+
+Hypselis,  i.  431 ;  ii.  51
+Hyvernat  quoted,  i.  269
+
+
+Iai,  i.  280
+
+lad,  i.  280
+
+Ibis  =  Thoth,  i.  403
+
+Ibis-god,  i.  401
+
+Ibis,  the,  ii.  375
+
+Ibis,  worship  of,  i.  2
+
+Ibiu,  i.  432
+
+Ibrahim  Ruskdi,  i.  17
+
+Ichneumon,  ii.  370
+
+Ieana  Menaman,  i.  280
+
+I-em-hetep,    i.    14,    126,
+
+522,  523  ;  ii.  52
+I-en-her-pes,  i.  80
+Ieou,  i.  280
+Illahat,  i.  15
+Immortality,  i.  144,  151
+Imouthes,  i.  522
+Incarnation  of  Ainen-Ra,
+
+i.  330
+Incarnation  of  Osiris,  i.
+
+330
+Incarnation  of  Temu,  i.
+
+330
+Incense,  ii.  80
+Incense  trees,  ii.  209
+India,  ii.  200
+Ink-pot,  i.  411
+Inundation   (of  Nile),  i.
+
+10,  11,  44,  63,  123
+Iouo,  i.  280
+Ireqai,  ii.  328
+Iron,  ii.  241
+Iron   floor  of  heaven,  i.
+
+167,  491
+Iron  knife,  ii.  92
+Iron  sky,  i.  156  ff.
+Iron  throne,  i.  58,  158
+Isaeacus,  ii.  200
+Ishim,  i.  7
+
+Ishtar,  i.  273 ;  ii.  279
+Isis,  i.  58, 151,166,230,
+
+
+INDEX
+
+
+405
+
+
+231,341,431;  ii.  29,
+85,108,109,124,125,
+126,  129,  186,  187,
+202
+
+Isis  and  her  Seven  Scor-
+pions, i.  487
+Isis  and  Neplithys,   La-
+mentations of,  i,  293
+Isis  and  the  Virgin  Mary,
+
+ii.  220,  221
+Isis   as   enchantress,    ii.
+
+207
+Isis,  blood  of,  ii.  215
+Isis  Campensis,  ii.  218
+Isis,  Festival  Songs   of,
+
+i.  294
+Isis,  forms  of,  ii.  213
+Isis  and  Ra,  Legend  of,
+
+i.  360  ff.
+
+Isis,  mysteries  of,  ii.  217;
+sorrows    of,    Egyptian
+text,  ii.  222-240 ;  wan-
+derings and  troubles  of,
+ii.  206  ff.
+Isis  of  Cabasus,  i.  100
+Isis  of  Sapi-res,  i.  99
+Isis  of  Tithorea,  ii.  218-
+
+220
+Isis-Athene,  i.  459
+Isis-Hathor,  ii.  55
+Isis-Nebuut,  ii.  213
+Isis-Net,  i.  452
+Isis-Sati,  ii.  57
+Isis-Sothis,  ii.  55
+Island  of  Ateh,  ii.  209
+Isokhobortha,  i.  281
+Israel,  Children  of,  i.  19
+Israelites,  i.  136,  137
+Israfel,  i,  5
+Israi,  i.  280
+It  (city),  i.  492
+Ithyphallic  god,  ii.    17,
+
+18
+Iuaa,  ii.  69
+Iubani,  i.  326
+
+
+Iubau,  i.  326
+Iukasa,  ii.  20
+Iusaas,  i.  85
+Iusaas,  ii.  289
+Iusaas[et],    city    of,    ii.
+
+381
+Iusaaset,  i,  354,  432,  441,
+
+446 ;  ii.  29,  88
+Iusaaset-Nebthetep,       i,
+
+354
+
+
+Jackal,  ii.  367
+Jahannam,  i.  273
+James,  Saint,  i.  280
+Jebel  Barkal,  i.   14,  15,
+
+16
+Jequier,  quoted,  i.  178
+Jerusalem,  i.  273,  278
+Jews,  i.  19
+Jinn,  i.  14,  133
+John,  Saint,  i.  144
+Judaeus,  ii.  254,  368
+Judges,  Book  of,  i.  19
+Judgment  Scene,  ii.  142
+
+ff.
+Julius  Africanus,  i.  445
+Juno,  ii.  253
+Jupiter,  ii.  186,253,302,
+
+303
+Jupiter  Ammon,  ii.  22
+Justinian,  i.  289
+Juvenal,     i.      28,     36;
+
+quoted,  i.  1,  2
+
+
+Ka,  or  "  double,"  i.  34,
+
+39
+Ka  of  Osiris,  i.  149
+Ka,    son   of  Meh-urt,  i.
+
+516
+Ka,  the  god,  i.  286
+Kaa,  ii.  342
+Ka-Ament,  i.  198
+Ka-Amentet,  i.  240
+
+
+Kaarik,  ii.  342
+Ka-ari-ka,  ii.  20
+Kadesh,  ii.  27
+Ka-en-Ankh-neteru,    i.
+
+257
+Kaharesapusaremk  a  h  e  r-
+
+remt,  ii.  342
+Ka-hemhem,  i.  228
+Ka-her-ka-heb,  ii.  293
+Ka-heseb  (nome),  i.  100
+Ka-hetep,    ii.    139,   156,
+
+342
+Ka-hetep  (Osiris),  ii.  61
+Kahun,  ii.  285
+Kai,  i.  230
+Kaiekhos,  ii.  346
+Kait,  goddess,  i.  286
+Kakaa,  i.  329
+Ka-kau,  ii.  346,  351,  353
+Ka-khu,  ii.  301
+Kalabsheh,  ii.  288
+Ka-qem,  i.  492
+Ka-qem  (nome),  i.  100
+Kaqemna,  i.  122,  138
+Karau-Anememti,  i,  326
+Karnak,  ii.  22
+Kasa,  i.  98
+Kasaika,  ii.  20,  342
+Ka-set  (nome),  i.  99
+Ka-Shu,  i.  206
+Kasut,  i.  83
+Ka-taui,  ii.  301
+Katna,  ii.  23
+Kan  of  Ra,  i.  34
+Keb,  i.  369
+Keb-ur,  i.  259
+Kefi,  i.  198
+Kehkeh,  ii.  268
+Kehkehet,  ii.  342
+Kek,  i.  371
+Keket,  ii.  2
+Kekiu,  i.  113
+Kekiut,  i.  113
+Keku,  i.  241
+Kekui,  i.  283,  285;ii.2
+
+
+406
+
+
+INDEX
+
+
+Kemkem,  ii.  342
+Kenat,  i.  248
+Kenememti,  i.  326
+Kenemet,  ii.  22
+Kenemti,  i.  419
+Kenken-ur,  ii,  96
+Kemnu,  ii.  306
+Keninut,  ii.  304
+Kennu,  i.  433
+Kenset,  i.  85,  433,  492  ;
+
+ii.  42
+Kent,  ii.  280
+Kenur,  i.  83
+Ken-ur,  ii.  343
+Kepenut,  i.  433
+Kep-hra,  ii.  342
+Ker,  ii.  342
+Kereh,  i.  113
+Kerehet,  i.  113
+Kerh,  i.  283,  286,  289,
+
+371
+Kerhet,  i.  283, 286, 289
+Kesem,  i.  499
+Keset,  i.  433
+Ketuit-gods,  i.  346
+Ketuiti,  ii.  320
+Ketuit-ten-ba,  i,  211
+Kka  (?)  (nome),  i.  100
+Kha-gods,  i.  39,  43
+Kha,  Lake  of,  i.  158
+Kha-a,  i.  246
+Khaata,  i.  82
+Khabesu,  the,  ii.  154
+Kha-em-Uast,     ii.    350,
+
+351
+Kha-f-Ra,  i.  445,  472
+Khak-ab,  i.  326
+Khakhat,  i.  433
+Kka-nefer,  i.  512
+Khan-ru-  .  .  .  .,  i.  326
+Kharakhar,  i.  266
+Kharkhnoumis,  ii.  304
+Kkarsatha,  ii.  338
+Khartum,  ii.  360,  365
+Kharubu,  i.  326
+
+
+Khas,  ii.  31,  269
+
+Khas(?)-en-Sept,  i.  499
+
+Khasut  (Xo'is),  i.  99
+
+Khat,  i.  492
+
+Khat  (city),  i.  496
+
+Khatat,  i.  473
+
+Khati,  i.  344
+
+Khati  gods,  i.  457
+
+Khatra,  i.  215
+
+Khatri,  i.  241
+
+Khau,  ii.  308
+
+Khauit,  i.  433
+
+Khau-tchet-f,  i.  177
+
+Khebent,  ii.  338
+
+Khebet,  city  of,  ii.  208
+
+Khebetch,  i.  82
+
+Khebit,  Island  of,  i.  442
+
+Khebkheb,  ii.  139
+
+Khebs-ta,  i.  241 ;  ii.   63
+
+Khebset-urt,  i,  455
+
+Khebt,  ii.  213
+
+Kheft-hra-en-neb-s,  i.  437
+
+Khekh,  i.  516
+
+Khekhsit,  i.  432
+
+Kkekhuit,  i.  433
+
+Khem,  i.  97,  470 ;  ii.  17
+
+Khem  (god),  i.  97
+
+Khem  (nome),  i.  97
+
+Khema,  i.  274
+
+Khembis,  ii.  208
+
+Khemennu,  i.  98,  332,
+353,  358,  400,  401,
+457 ;  ii.  149,  297,  338
+
+Khemennu,  Eight  gods
+of,  i.  113,  292
+
+Khemi,  i.  419  ;  ii.  338
+
+Khemit,  i.  222
+
+Khemmis,   ii.   208,  210,
+
+Khemmis,  Island  of,  ii.  22
+
+Khenememti,  ii.  338
+
+Khennu,  ii.  356
+
+Khensu,  i.  39,  49,  82,
+447,  448,  464  ;  ii.  33,
+35,  36,  97,  293,  302,
+339
+
+
+Khensu  (nome),  i.  99
+Khensu-Behutet,  ii.  36
+Khensu-Hunnu,  ii.  35
+Khensu-Nefer-hetep,    ii.
+
+34  ff.,  39  ff.
+Khensu  -  nefer  -  hetep-Te  -
+
+huti,  ii.  37
+Khensu-pa-khart,  ii.  35,
+
+36
+Khensu-Ea,  ii.  35
+Khensu-Sept,  i.  82
+Khensu- Shu,  ii.  35
+Khensu-Tehuti,  ii.  35
+Khensu    the    chronogra-
+
+pher,  ii.  37
+Khens-ur,  i.  109
+Khent  (goddess),  ii.  292
+Khent-abt  (nome),  i.  100
+Khent-Abtet,  i.  431,  432
+Khent-Amenti,     i.     82,
+
+439 ;  ii.  138
+Khent-an-maati,  ii.  261
+Khent-em-meht-akeba,  i.
+
+455
+Khent-Heru,  i.  246;  ii.
+
+307
+Khent-Het-Anes,  ii.  129
+Kkent-Kheru,  ii.  307
+Khent-maati,  i.  82,  85;
+
+ii.  86
+Khent-Sehet,  ii.  263
+Khentet-hert,  ii.  305
+Khentet-Khast,  ii.  309
+Khentet-khert,  ii.  305
+Khenthi,  ii.  293
+Khenti  =  Thoth,  i.  402
+Khenti  Amentet,  i.  172,
+
+173  ;  ii.  339
+Khenti-Amenti,    i.     198,
+
+342;  ii.  117,317
+Khenti-ast-f,  i.  248
+Khenti-Aukert,  i.  215
+Khenti-heh-f,  ii.  129
+Khenti-khas,  i.  Ill
+Khenti-Khatthi,  ii.  339
+
+
+INDEX
+
+
+407
+
+
+Khenti-ment,  i.  248
+Khenti-qerer,  ii.  317
+Khenti  -  Tuat  =  Thoth,
+
+i.  226  '
+Khenu,  i,  242  ;  ii.  25
+Khen-unnut-f,  i.  242
+Kheper,  i.  78
+Khepera,    i.    203,    257,
+
+294,  295,  297,  306,
+
+308-321,  336,  340,
+
+349,  470 ;  ii.  4, 14,  15,
+
+97,  301,  317,  338,  371,
+
+380
+Khepera  kheper  tchesef,
+
+i.  355
+Khepera-Ba-Tem,  i.  352
+Khepera-Ea-Temu,  i,  363
+Kheperi,  ii.  317
+Kheper-ta,  i.  511
+Khepert-kekui-kkaat-
+
+mest,  i.  257
+Khepera,  ii.  302
+Khepesh,  ii.  338
+Khepesh,     constellation,
+
+ii.  249
+Khephren,  i.  471 ;  ii.  361
+Khepi,  ii.  317
+Kheprer,  i.  78,  342  ;  ii.
+
+25,  130,  320
+Khepri,  i.  196
+Kher,  ii.  25,  339
+Kkera,  i.  107 ;  ii.  339
+Kher-aha,    i.    Ill,    178,
+
+425;  ii.  11,  154,  157
+Kher-heb  priest,  i,  331
+Kherp-hu-khefti,  i.  211
+Kherseket,  ii.  256
+Khersek-Shu,  i.  418
+Kkert-khent-Sekhem,    i.
+
+110
+Kheri-beq-f,  i.  494
+Kker-khept-Kenrnut,    ii.
+
+304
+Kher-khept-sert,  ii.  306
+Kher-khu,  i.  200
+
+
+Khermuti,  i.  326
+Kher-sebu,  i.  200
+Khersekhet,  i.  432
+Khersek-Shu,  ii.  339
+Kherserau,  ii.  339
+Khesef-at,  ii.  339
+Khesef-  haa-heseq-Neha-
+
+hra,  i.  230
+Khesef-hra,  i.  326
+Khesef-hra-ash-kkeru,  i.
+
+176 ;  ii.  339
+Khesef- hra-khemiu,      i.
+
+177 ;  ii.  339
+Khesef-kheniiu,  ii,  339
+Khesef-kkeint,  ii.  301
+Khesfu,  i.  246
+Kheta-Sar,  ii.  283
+Kheti  (a  serpent),  i.  192
+Khirepu,  ii.  283
+Khirie,  i.  281
+Khisasapa,  ii.  283
+Khnemet-ankh,  i,  435
+Khnemet-ankhet,  ii.  108
+Khnemet  -  em  -  ankh  -  an  -
+
+nuit,  ii.  338
+Khnemiu,  i.  201
+Khnem-renit,  i.  254
+Khnemu,  i.  78,  82,  95,
+
+96,107,180,200,254,
+
+286,    329,    463,    464,
+
+472,502,513;ii,49ff.,
+
+91,  268,  322,  338,  354,
+
+379
+Khnemu  Ba-neb-Tet,  ii,
+
+64,  65
+Khnemu-  Ba-neb  -  Tettet,
+
+i.  354
+Khnemu-Hapi,  i.  146
+Khnemu  -  Her  -  shef    ii.
+
+58  ff.
+Khnemu  Heru-hetep,  ii.
+
+183
+Khnemu  -Heru-shefit,  i.
+
+354
+Khnemu-Nu,  ii,  52
+
+
+Khnemu  of  Ermen-hert,
+
+i.  98
+Khnemu   of   Shas-hetep,
+
+i.  97
+Khnemu -Osiris,    ii.    51,
+
+57,  58
+Khnemu-qenbeti,  i.  211
+Khnemu-Ba,  ii.  45,  51,
+
+131
+Khnemu-Seb,  ii.  51
+Khnemu-Shu,  ii.  51,  66
+Khnemu,  the  seven  forms
+
+of,  ii,  54,  55
+Khnemu-ut-em-ankh,   ii.
+
+139
+Khnoumis,  ii.  304
+Khoiak,  ii.  128,  130
+Khokhar,  i.  267
+Khokhe,  i.  281
+Khokheteoph,  i.  281
+Khontakhre,  ii.  305,  307
+Khontare,  ii.  305,  307
+Khoou,  ii.  307
+Khremaor,  i.  267
+Khu,  i.  163
+Khu  (a  Dekan),  ii.  307
+Khu,  god  of  Light,  i.  370
+Khu,  ka  of  Ea,  ii.  300
+Khu,  spirit,  i.  39
+Khufu,  i.  426,  445,  524
+Khui,  i.  211
+Khuit,  i.  432
+Khu-kheper-ur,  ii.  338
+Khu-tchet-f,  i.  177;   ii.
+
+338
+Khukhu,  ii.  307
+Khusrau,  i.  289
+Khut,  ii.  338
+Khut,    goddess,    i.    306,
+
+323
+Khut  (Isis),  ii.  216
+Khut  =  magical      cere-
+mony, i.  296
+Khut-Aten,   city    of,   ii.
+
+72  ff.
+
+
+408
+
+
+INDEX
+
+
+Khut-Nebat,  i,  447
+Khut-taui,  i.  512
+Khuti,  a  god,  I,  182
+King,   L.    W.,    i.    406;
+
+quoted,  i,  13,  273  ff.,
+
+288,  289 ;  ii,  314
+Kings,    incarnations     of
+
+gods,  i.  3
+Kingu,  i.  327
+Kishar,  i.  289,  291
+Kiaaapi],  i.  289
+Knitousokhreoph,  i.  281
+Kohl,  i.  17
+Kom  Ombo,  ii,  109
+Konime,  ii.  306
+Kosmos,  ii,  243
+Koukiamin  Miai,  i.  280
+Krokodilonpolis-Arsinoe,
+
+ii.  357
+Kronos,  i.  467 ;   ii.  100,
+
+124,  186,  187
+Krophi,  ii.  44
+Kur'an,  quoted,  i.  5
+Kuresh,  i.  142
+
+
+Labyrinth,  i.  96
+Ladder  of  heaven,  i.  167,
+168,  490
+
+Ladder  of  Shu,  ii.  92
+Ladder,   the   Divine,  ii,
+
+241
+Ladder-bearers,  i.  188
+Lady  of  the  boat,  i.  207  .
+Lake  Moeris,  ii.  58,  347,
+
+357
+Lake  of  Aaru,  i.  297
+Lake  of  Battle,  i.  481
+Lake  of  Fire,  i.  35
+Lake  of  Flame,  i.  34
+Lake  of  Kha,  i.  158
+Lake  of  Life,  ii,  184
+Lake  of  Testes,  i.   335,
+
+339
+Lake  of  Uraei,  i,  184
+
+
+Lake  Victoria,  i.  11
+Lakes  of  Jackals,  ii,  120
+Lakes  of  the  Tuat,  ii.  120
+Lakhamu,  i.  289,  291
+Lakhmu,  i.  289,  291
+Lamb,  worship  of,  i,  2
+Lamellicorns,  ii.  379
+Lamkhamor,  i.  266
+Land  of  the  Spirits,  ii.
+
+287
+Lanzone,  i.  204,284,285,
+
+328,  354,  402  ff.
+Laraokh,  i,  266
+Lat,  ii.  289
+Latopolis,    i.    431,   463,
+
+468;    ii.    50,   51,  66,
+
+92,  356
+Latopolites,  i.  96
+Latreille,  i.  356 ;  ii.  381
+Latus  Fish,  ii.  382
+Lazarus,  i.  171
+Ledrain,  ii.  162
+Leek,  worship  of,  i.  2
+Lefebure,  M.  B.,  i.  180
+
+ff.,  205,  319,  349,  360,
+
+363
+Legge,  Mr.  F.,  quoted,  i,
+
+64
+Legs = twin  soul -gods,  i,
+
+110
+Lelet  al-Nukta,  ii.  47
+Leo,  sign  of,  i.  464
+Leontopolis,  ii.  347,  361
+Leontopolites,  i.  96
+Leopard     with      human
+
+head,  i.  61
+Leopard    with    serpent's
+
+head,  i.  59
+Lepidotus   fish,  ii.    192,
+
+382
+Lepsius,  i.  34
+Letasashaka,  ii.  21
+Letopolis,  i.  99,  432  ;  ii.
+
+148,  157
+Leviathan,  i.  278,  279
+
+
+Libationers,  i.  101
+Libyans,  i.  188 ;  ii.  13
+Liddon,  Canon,  i.  144
+Lieblein,  i.  68,  69,  71
+Life  and  Death,  ii.  243
+Life,  everlasting,  i.  412
+Life,  plant  of,  i.  165
+Light  and  Darkness,  ii,
+
+343
+Light-bearers,  i.  200
+Linen,  ii.  118
+Linen  garments,  i.  165
+Lion  =  Amen,  ii,  2
+Lion,  the,  ii.  359-361
+
+sacred,  ii.  347 ;    wor-
+ship, i,  24
+Lion-god,  ii.  15
+Lion-gods,  the  Twin,  ii.
+
+88
+Lion  gods  and  goddesses,
+
+ii.  362
+Lips  of  deceased,  i,  109
+Lizard  with  human  head,
+
+i.  210
+Aoyo?,  the,  i.  407
+Loins  =  Pautti,  i,  110
+Longperier,    M.    Adrien
+
+de,  i.  64
+Lonkhar,  i.  266
+Lords  (angels),  i.  6
+Lotus,  i.  521,  522
+Lucian,  ii.  96
+Luxor,  i.  329  ;  ii.  22
+Lychnus  Fish,  ii.  382
+Lycopolis,   i.    98,    426,
+
+432,  434 ;  ii.  252,  262,
+
+353,  367
+Lycopolites,  i.  96
+Lynx,  i.  24,  324 ;  ii.  362,
+
+363
+
+
+Maa,  i.  254,  309
+Maa,  ka  of  Ba,  ii.  300
+Maa,  Sight-god,  ii.  298
+
+
+INDEX
+
+
+409
+
+
+Maa-ab,  i.  189
+Maa-ab-kkenti-aht-f,   i.
+
+228
+Maa-an  f,  i.  419
+Maa-anuf,  ii.  330
+Maa-atef-f,  i.  494
+Maa-atef-f- kkeri-beq-f,
+
+ii.  330
+Maa-ein-kerh,  ii.  129
+Maa-em-kerh-an-nef-em-
+
+bru,  i.  494 ;  ii.  330
+Maa-ennu-am-uaa,  ii.  302
+Maa-en-tef,  ii.  291
+Maa-ha-f,  ii.  380
+Maa-heh-en    renpit,    ii.
+
+330
+Maa  =  Hokhmah,  i.  296
+Maa-hra,  ii.  301
+Maaiu-su,  ii.  330
+Maakheru,  ii.  146
+Maa-kheru,  i.  408,  409
+Maam,  i.  492
+Maa-nefert-Ra,  i.  257
+Maa-tet-f,  ii.  129
+Maa-tbet-f,i.l78;ii.  330
+Mafi-uat,  i.  320,  344
+Maat,  i.  20,  80, 153,  323,
+
+338,339,346,352,370,
+
+416-420,  432,  433,  501,
+
+502;  ii.  5,  10,  11,  13,
+
+19,  26,  75,  145,  184,
+
+256,  330
+Maat,  boat  of,  i.  109
+Maat,  featber  of,  ii.  143
+Maat  goddesses,  ii.  92
+Maat,   lords  of,  ii.  150  ;
+
+assessors  of,  ii.  150
+Maat,  the  pedestal  of,  i.
+
+416
+Maat-Heru,  ii.  310
+Maat-Heru-Ast,  ii.  310
+Maat-Kknenm,  i.  80
+Maatet,  ii.  206,  207
+Maati,  i.  189,  418;   ii.
+
+330
+
+
+Maati  (city),  i.  433
+Maati,    Hall    of,   i.    38,
+
+153
+Maati-f-em-sbet,  ii.  330
+Maati-f-em-tes,    i.    419 ;
+
+ii.  330
+Maatuf-her-a,  ii.  330
+Maau-taui,  ii.  330
+Mabi,  ii.  37
+Macarius   of  Antiocb,  i.
+
+268
+Macedonians,  i.  272
+Macrobius,  ii.  352,  367
+Mafek,  i.  430
+Maftet,  i.  324 ;  ii.  363
+Maftet  (Lynx),  i.  85
+Magic,   Antiquity   of   in
+
+Egypt,  i.  13
+Ma-bes,  ii.  362
+Mahlufas,  i.  14
+Mainmari,  i.  280
+Mait,  ii.  363
+Makba-taiu,  i.  513
+Makhenut,  i.  467
+Makbi,  i.  211
+Makbiar,  ii.  293
+Mak-nebs,  ii.  302
+Malachim,  i.  7
+Mallet,  i.  459
+Mallet,  M.  D.,  quoted,  i.
+
+93,  454
+Mandrakes,  i.  365
+Mandulis,  ii.  289
+Maneros,  ii.  191
+Manes,  i.  3
+Manetbo,tbe  priest  quoted
+
+or  referred  to,  i.  332,
+
+445, 524  ;  ii.  199, 217,
+
+246,  346
+Man-god,  the,  i.  333
+Mankind,  destruction  of,
+
+Egyptian   text    of,    i.
+
+388,  399
+Mantis,  ii.  378
+Mantit  Boat,  i.  257
+
+
+Manu,  i.  351,  417,  470,
+
+516;  ii.  25,  101
+Maraeotis,  i.  96
+Marakhakhtba,  i.  280
+Marawi,  i.  16
+Marduk,  i.  277,  278,  279,
+
+305,  327  ;  ii.  314
+Marduk  and  Tiamat,  fight
+
+of,  i.  406,  407
+Marei,  i.  280
+Marie,  i.  280
+Mariette,i.  126,139,204;
+
+ii.  6,  23,  196,  354
+Marinus,  i.  289
+Mark,  Saint,  ii.  221
+Markhour,  i.  266
+Marniarakhtka,  i.  280
+Marne,  i.  64
+Marqatha,    ii.    21,    330,
+Mars,  ii.  253,  303
+Marua,  i,  15
+Mary,  the  Virgin,  i.  108,
+
+328  ;  ii.  107
+Mashkhith,  i.  274
+Maspero,  Prof.  G.,  i.  23,
+
+67,  71,  117,  142,  205,
+
+224,   404,    445,    486;
+
+ii.  13,  102
+Mastaba,  i.  330
+Master  of  the  back,  i.  194
+Master  of  the  front,  i.  194
+Masturbation,  i.  116,297
+Matariyeh,  i.  328
+Mat  Boat,  i.  110
+Matchat,  i.  457
+Miitchau,   the,    ii.   6,    7,
+
+10
+Matchet,  i.  433 ;  ii.  294
+Ma-tef-f,  ii.  322
+Maten  (nome),  i.  98
+Matenu,  i.  31
+Mater,  ii.  52,  53
+Mates,  ii.  60
+Mfites-sma-ta,  i.  218
+Matet,  i.  488
+
+
+410
+
+
+INDEX
+
+
+Matet  Boat,  i.  323,  331,
+
+332,  369 ;  ii.  104,  204
+Mati,  cat-headed  goddess,
+
+i.  201
+Mati  =  Sun-god,  i.  342
+Matter,  primeval,  i.  288
+Mail,  ii.  297
+Mau  (Ra),  ii.  61
+Mau-aa,  ii.  317
+Mau,  Dr.  A.,  ii.  217
+Maui,  ii.  139
+Mauit,i.80,167;  ii.  32,
+
+47
+Mauonbi,  i.  281
+Mau-taui,  i.  420
+Mauti,  ii.  317
+Maxims  of  Ani,  i.  126  ;
+
+of  Khensu-hetep,  i.  126
+Medan,  ii.  289
+Meh,  i.  482
+Meh-mahetch  (nome),  i.
+
+98
+Meh-ta-f,  ii.  127
+Meh-urit,  i.  511
+Meh-urt,    i.    422,   432;
+
+ii.  19,  61,  331
+Meli-urt,  Seven  wise  ones
+
+of,  i.  516
+Mehanuti-Ra,  ii.  331
+Mehen,  i.  180,  232,  234,
+
+2*38 ;  ii.  8,  331
+Mehenet,  i.  452,  464,  515
+Mehenit,  i.  462  ;  ii.  331
+Mehet,  ii.  128
+Mehi,i.402,491;  ii.  331
+Mehit-Tefnut-khut-Men  -
+
+hit,  i.  431
+Mehiu,  ii.  331
+Mehni,  i.  252
+Meht,  ii.  331
+Meht-khebit  -  sah  -  neter,
+
+ii.  331
+Meht-urt,  i.  80,  362,  455
+Mekes  sceptre,  ii.  8
+Meket,  i.  40
+
+
+Melcarthus,  ii.  190
+Members,   deification   of,
+
+i.  109,  110
+Memnon,  i.  1
+Memokh,  i.  281
+Memphis     (see    Het-ka-
+
+Ptah),  ii.  157
+Memphis,  i.  27,  95,  99,
+
+126,218,433,502,504;
+
+ii.  5,  22,  70,  92,  148,
+
+154,  347
+Memphis,  Apis  god  of,  i.
+
+26
+Memphis,    captured     by
+
+Piankki,  i.  331
+Memphis,  great  triad  of,
+
+i.  500  ff.
+Memphis,  high-priest  of,
+
+i.  101,  505
+Memphis,  high-priest  and
+
+high-priestess  of,  i.  101
+Memphis,  triad  of,  i.  114
+Memphites,  i.  96
+Men  and  women,  creation
+
+of,  i.  312
+Men,  destruction    of,   ii.
+
+93
+Men,  origin  of,  i.  304
+Mena,i.24,453;ii.346
+Men-a,  i.  244
+Menat,  i.  430,  432,  498  ;
+
+ii.  130
+Menat,  ii.  289,  362
+Menat,   goddess,    ii.    55,
+
+289
+Mendes,  i.  100, 101, 115,
+
+148,    191,    354,    403,
+
+496 ;  ii.  22,  64, 65,  66,
+
+116,  129,  153,  353
+Mendes,  Earn  of,  i.  27;
+
+ii.  51,  347,  354
+Mendes,  Stele  of,  ii.  354
+Mendes,  triad  of,  i.  114
+Mendesian  Ram,  i.  103
+Mendesium,  i,  96
+
+
+Menelaites,  i.  96
+Menenui,  i.  248
+Menes,  i.  24
+Menhet,  i.  426,  446  ;  ii.
+
+50'
+Menhet  (Isis),  ii.  213
+Menhi,  i.  241
+Menhit,  i.  431,  463  ;  ii.
+
+66,  92,  292
+Meni-ret,  i.  230
+Men-kau-Heru,  i.  330
+Men-kau-Ra,  i.  358;  ii.
+
+110
+Menkert,  i.  248
+Menkh,  ii.  330
+Menkhet,  i.  244 ;  ii.  213,
+
+256,  293
+Menlil,  ii.  289
+Menmemu,  i,  220
+Men-nefer,  i.  512
+Men-nefert,  i.  99
+Mennipos,  i.  281
+Menqet,  ii.  331
+Menruil,  ii.  289
+Men-sheta,  i.  191
+Ment  (?)  i.  437
+Ment,  i.  80  ;  ii.  330,  331
+Mentchat,  i.  457
+Mentef,  i.  80
+Menth,  i.  437
+Menthu,    ii.    23,   24  ff.,
+
+331
+Menthu-Ra,  ii.  24
+Menti,  i.  498
+Mer,  ii.  331
+
+Mer  of  the  North,  i.  507
+Mer  of  the^South,  i.  507
+Mercury,  i.  449  ;  ii.  303
+Mer-en-aaui-f,  i.  254
+Mer-en-Ra,  i.  440,  441;
+
+ii.  25
+Mer-en-Ra-  Mehti-em-sa-
+
+f,  i.  77
+Meril,  ii.  288
+Meris,  ii.  331
+
+
+INDEX
+
+
+411
+
+
+Mer-Nit,  i.  31
+Mer-Ra,  ii.  207
+Meroe,  i.  15  ;  ii.  22
+Mersekhen,  ii.  213
+Merseklient,  i.  432;   ii.
+
+61
+Mert,  ii.  301
+Mert  goddesses,  ii.  256
+Mertet,  sea  of,  i.  480
+Merti,  ii.  25,  331
+Merul,  ii.  288 ;  titles  of,
+
+ii.  289
+Mer-ur  (Mnevis),  i.  26;
+
+ii.  331,  351
+Meruter,  ii.  289
+Mesen,  i.  473  ;  ii.  213
+Meskha,  i.  80
+Meskhaat,  i.  80
+Mesklien  Aat,  ii.  184
+Meskhen  Ment,  ii.  181
+Mesklien  Nefert,  ii.  184
+Mesklien  Seqebet,  ii.  184
+Mesklien,  the,  ii.  144
+Meskhenet,    i.    329;    ii.
+
+144,  359
+Meskhenet  of  Isis,  ii.  108
+Meskhent,  ii.  285
+Meskheti,  ii.  250,  312
+Meskhti,  i.  254
+Mesnet,  i.  476
+Mesniu,  i.  84,  476
+Mesore,  ii.  248
+Mes-peh,  i.  177  ;  ii.  331
+Mesperit-arat-maatu,     i.
+
+224
+Mes-Ptah,  i.  177
+Mesqet,  ii.  209
+Mesqet  chamber,  i.  494
+Mes-sep,  ii.  263
+Mes-sepekk,  ii.  331
+Mest,  i.  198
+Mest  (Amset),  ii.  291
+Mestcker-Sah,  ii.  308
+Mest-tcheses,  i.  211
+Mest-en-Asar,  i.  211
+
+
+Mestet,  i.  487;  ii.  206,
+
+207
+Mestetef,  i.  488  ;  ii.  206,
+
+207
+Mestha,  ii.  129  ;  ii.  145,
+
+331
+Mesu-nifu,  i.  202
+Metchetat,  i.  80
+Metchet-nebt-Tuatiu,    i,
+
+226
+Metchet-qat-utebu,i.  246
+Metelis,  ii.  22,  357
+Metelites,  i.  96
+Met-en-Asar,  i.  211
+Meteni,  ii.  289
+Metes,  i.  200
+Met-hra,  i.  228
+Metes-hra-ari-she,i.  176;
+
+ii.  331
+Metes-mau-at,  i.  218
+Metes-neheh,  i.  218
+Metes-sen,    i.    177 ;     ii.
+
+331
+Methyer,  i.  422
+Metternichj    Prince,     ii.
+
+205
+Metternich,  Stele,  ii.  205,
+
+220,  267-274
+Metu-khut-f,  i.  345;  ii.
+
+317
+Metu-ta-f,  ii.  331
+Meyer,  Herr,   quoted,  i.
+
+100
+Michael,  i.  5
+Miii,  i.  79,  97,  470,  496,
+
+507;    ii.    17,   20,   36,
+
+280,  293
+Min,  god  of  Panopolis,  i.
+
+97
+Min  (nonie),  i.  97
+Min- Amen,  ii.  8
+Minerva,  i.  453
+Minionor,  i.  284
+Mi-sheps,  ii.  330
+Mitani,  ii.  279
+
+
+Mitanni,  ii.  363
+M'Lennan,  Mr.  J.  F.,  i.
+
+29
+Mnenor,  i.  281
+Mnevis,  ii.  347,  351  ff.
+Mnevis  Bull,  i.  26
+Mnevis,     incarnation    of
+
+Ra  gods,  i.  330
+Moeris,  ii.  354
+Moloch,  i.  273
+Momemphis,  ii.  352
+Monophysites,  221
+Monotheism,  i.  120,  144
+Month,  i.  80
+Month,  gods  of  days  of,
+
+ii.  292
+Month  =  Khens-ur,      i.
+
+109
+Months,  gods  of,  ii.  292,
+
+293
+Monthiour,  i.  281
+Moon,  creation  of,  i.  370
+Moon-god,  i.  412,  413
+Moon   on   a  pedestal,  i.
+
+210
+Mophi,  ii.  44
+Morgan,  J.  de,  i.  22  ;  ii.
+
+365
+Morning  Star,  i.  107  ;  ii.
+
+97,  156
+Moses,  ii.  254
+Mother  of  Mothers,  ii.  51
+Mother,  reverence  for  the,
+
+i.  127
+Mother,  the  universal,  ii.
+
+28
+McaGfiK,  i.  288
+Mountain  of   Sunrise,'  i.
+
+470 ;  ii.  101
+Mountain   of  Sunset,  :i.
+
+351,  470  ;  ii.  101
+Mountain  of  the  West,  i.
+
+179
+Mouth,  Opening  of  the,
+
+i.  358
+
+
+412
+
+
+INDEX
+
+
+Mtesa,  i.  142
+Muhammad,    i.    5,    141,
+
+142
+Muhammad  'Ali,  ii.  205,
+
+267
+Muhammadans,    i.    5,  6,
+
+14,  19
+Muhammadans,     heaven
+
+of,  i.  166
+Muhammadans,    hell    of,
+
+i.  171
+Muhammad  wad-Ibrahim,
+
+i.15
+Mu-Hapi,  ii.  44
+Muit,  i.  80  ;  ii.  32,  47
+Mukhipaina,  ii.  283
+Miiller,  Right  Hon.  Prof.
+
+F.  Max,  i.  135
+Miiller,  W.  M.,  ii.  250,
+
+278,  283,  285
+Mummu-Tiamat,  i.  288,
+
+289
+Mut,  i.  80,88,431,518;
+
+ii.  28  ff.,  47,  159
+Mut-Bast-Isis,  i.  447
+Mut-hetep,  Papyrus  of,  i.
+
+351
+Muti-khenti-Tuat,  i.  244
+Mut-neb-set,  ii.  301
+Mut-nu,  ii.  32
+Mut  of  Asheru,  i.  446
+Mut -Sekhet- Bast -Men-
+hit,  ii.  29
+Mut  Temt,  ii.  29
+Mut-Uatchet-Bast,  ii.  29
+Mycerinus,    i.    358;     ii.
+
+110
+Mysteries  of  Isis,  ii.  217
+Mysteries    of    Osiris,    i.
+
+453
+Mysteries,  the  Eleusinian,
+
+ii.  217
+Myth  of  Pta,  and  Isis,  i,
+
+352
+Mythical  animals,  i.  59
+
+
+Naam,  ii.  26
+
+Naarerf,  i.  351
+
+Naarik,  ii.  332
+
+Na-ari-ka,  ii.  20
+
+Na-ateh,  i.  442
+
+Na-tesher,  ii.  322
+
+Na-ur,  ii.  322
+
+Naau,  332
+
+Naau-tchetta,  i.  437
+
+Nai,  i.  23,  326 ;  ii.  322
+
+Nak,  i.  324,  335  ;  ii.  8,
+11,  79,  332
+
+Nak,  ii.  332
+
+Nakada,  i.  31
+
+Nakith,  i.  232
+
+Nakiu-Menat,  ii.  317
+
+Name,  use  and  impor-
+tance of,  i.  10,  301
+
+Nana'i,  i.  281
+
+Napata,  i.  14  ;  ii.  22,  23,
+40
+
+Nareref,  ii.  60
+
+Nart,  ii.  149,  332
+
+Nasaqbubu,  ii.  332
+
+Nasaqebubu,  ii.  21
+
+Nastasenen,  ii.  40
+
+Nathkerthi,  ii.  332
+
+Natho,  i.  442
+
+Natura,  i.  68
+
+Nau,  i.  267  ;  ii.  62
+
+Nau,  i.  80;  ii.  1,  101,
+102
+
+Naucratites,  i.  96
+
+Nau-shesma,  i.  267
+
+Naut,  ii.  101,  102
+
+Naville,  i.  348,  353,  363,
+444,  445,  476,  498;  ii.
+278
+
+Neb,  House  of,  ii.  209
+
+Neb-abui,  i.  419  ;  ii.  332
+
+Neb-ankhet,  ii.  301
+
+Neb-Aqet,  i.  248
+
+Neb-aut-ab,  i.  450
+
+Neb-baiu,  i.  348 ;  ii.  320
+
+Neb-er-tcher,  i.  294,  305,
+
+
+308,  491 ;  ii.  61,  123,
+
+150,  153,  214,  332
+Neb-hrau,  i.  419  ;  ii.  332
+Neb-khat,  ii.  255
+Neb-Maat,  i.  419
+Neb-Maat-heri-tep  -retui-
+
+f,  i.  418  ;  ii.  332
+Neb-neteru,  ii.  301
+Neb-pat,  i.  244
+Neb  -  pehte  t  -  petpet-  seba,
+
+ii.  332
+Neb  -pehti  thes-menment,
+
+ii.  332
+Neb-pehti-thesu-menme-
+
+net,  i.  418
+Neb-s,  ii.  332
+Neb-sekert,  ii.  122
+Neb-Senku,  i.    348;    ii.
+
+320
+Neb-senti,  ii.  301
+Neb-tept  (Isis),  ii.  213
+Neb-Tesheru,  i.  516
+Neba,  ii.  332
+Neba-per-em-khetkhet,  i.
+
+419
+Nebes  Tree,  i.  468
+Nebiui,  i.  443
+Nebseni,  ii.  262
+Nebseni,  Papyrus   of,  i.
+
+419
+Nebt,  i.  352
+Nebt,  a  god,  i.  425
+Nebt-aha,  i.  189
+Nebt-ankh,  ii,  11
+Nebt-au-khent-Tuat,      i.
+
+244
+Nebt-het,  i.  80  ;  ii.  317,
+
+332
+Nebt-hetep,  i.  432
+Nebt-hetep,  i.  441
+Nebt-hetep,    counterpart
+
+of  Tern,  i.  354
+Nebt-Hetepet,  i.  438
+Nebti,  i.  244
+Nebt-khu,  i.  254
+
+
+INDEX
+
+
+413
+
+
+Nebt-mat,  i.  244
+Nebt-semu-nefu,  i.  240
+Nebt-setau,  i.  244
+Nebt-shiit,  i.  244
+Nebt-shefshefet,  i.  244
+Nebt-s-tchefau,  i.  184
+Nebt-tep-Ahet,  ii.  309
+Nebt-Thehent,  ii.  300
+Nebt-unnut,i,336;ii.332
+Nebt-usha,  i,  236
+Nebuchadnezzar    II.,    i.
+
+278
+Nebui,  211
+Nebuut,  i.  431,  463  ;  ii.
+
+67,  213
+Nectanebus  I.,  ii.  267
+Nectanebus  II.,  ii.  351
+Nef-em-baiu,  ii.  317
+Nefer-Abt,  i.  353
+Nefer-Ament    (nome  of),
+
+i.  441
+Nefer-hat,  ii.  129
+Nefer-hati,  i.  516
+Nefer-hetep  (god),  ii.  34
+Nefer-shuu,  i.  515
+Nefert,  i.  85 ;  ii.  332
+Nefer-Tem,    i.   80,  450,
+
+491 ;  ii.  362
+Nefer-Tem  (an  assessor),
+
+i.  419
+Nefer-Temu,  i.  520  ;   ii.
+
+332
+Nefer-Temu-khu-taui,   i.
+
+520
+Nefer  -  Temu  -  khu  -  taui  -
+
+iinkk-rekhit,  i.  520
+Nefer-tutu,  i.  101
+Nefer-uben-f,  ii.  287
+Nefert-iti,  ii.  75
+Neferus,  i.  433
+Negative    Confession,    i.
+
+38,  49,  145,  418
+Negroes,  i.  188,  519
+Negroes,      created       by
+
+masturbation,  i.  304
+
+
+Nehaha,  i.  480
+Neha-hau,    i.    419 ;     ii.
+
+333
+Neha-hra,    i.    231,    232,
+
+246 ;  ii.  333
+Nehata,  i.  244
+Nehbet  sceptre,  ii.  8
+Nehebet  sceptre,  i,  162
+Neheb-ka,  ii.  333
+Neheb-kau,  i.    81,  220;
+
+ii.  62
+Neheb-kau  (an  assessor),
+
+i.  419
+Neheb-nefert,  i.  419  ;  ii.
+
+333
+Nehebu-kau,  i.   455;  ii.
+
+63
+Neheh,  i.  371
+Nehemauait,  i.  427,  432
+Nehemauit,  i.  421 ;    ii.
+
+92
+Neheru,  ii.  38
+Nehes,  ii.  322
+Nehesiu,  ii.  333
+Nehesu,  i.  304
+Nehet,  Hathor  of,  i.  434
+Nehet-rest,  i.  516
+Nehi,  i.  347  ;  ii.  320
+Nehr,  i.  211
+Neht,  i.  81
+Nehui,  i.  258
+Neith,  i.  30,  32,  78,  92,
+
+93,  95, 103,  161,  246,
+
+450-465;    ii.    220,
+
+244,  269,  275;   early
+
+cult    of,    i.    31 ;     and
+
+crocodiles,  i.  32  ;  four
+
+forms  of,  i.  252
+Neith  of  Sais,  i.  99
+Neka,  ii.  333
+Nekau,   i.    177,  520;  ii.
+
+330,  333
+Nekheb,  i.  92,  95,  97
+Nekek-ur,  ii.  333
+Nekeuu,  i.  246
+
+
+Nekhben,  i.  81
+Nekhebet,    Nekhebit,    i.
+
+24,  81,  92,  95, 97,  329,
+
+431,  438  ff.,  479,  483 ;
+
+ii.  8,  25,  47,  48,  71,
+
+104,  269,  333,  372
+Nekhebet  Fakit,  i.  440
+Nekhebet-Isis,  i.  440
+Nekhekh,  i.  83  ;  ii.  102
+Nekhekh  (star),  i.  498
+Nekhen,  i.  84,  492, 497  ;
+
+ii.  155,  333
+Nekhen  (an  assessor),  i.
+
+419
+Nekhen,  Souls  of,  i.  107 ;
+
+watchers  of,  i.  161
+Nekhent,  i.  439
+Nekht  (god),  ii.  26
+Nekht,  ka  of  Ra,  ii.  300
+Nekht,  Papyrus  of,i.  335,
+
+435
+Nekht  (scribe),  ii.  69
+Nekiu,  ii.  302
+Nem,  ii.  333
+Nemanoun   (Nehemauit),
+
+ii.  190
+Nem-hra,  ii.  333
+Nemi,  i.  196
+Nemmes  crown,  ii.  8
+Nemu,  i.  521  ;  ii.  333
+Nen,  ii.  1
+Nenha,  i.  180
+Nentcha,  i.  436  ;  ii.  333
+Nenu,  i.  113,  286
+Nenuerbasta,  i.  184
+Nenuit,  i.  286
+Nen-unser,  ii.  333
+Nenut,  i.  113
+Nenutu-hru,  ii.  333
+Neolithic      Period     in
+
+Egypt,  i.  8
+Nepen,  i.  211
+Nepera,  ii.  332
+Nephismaoth,  i.  280
+Nephthomaoth,  i.  280
+
+
+414
+
+
+INDEX
+
+
+Nephthys,i.341,488;ii.
+85,  106,  109,  129,
+156,  186,  187,  254-
+260
+
+Nepmeh,  i.  180
+Nepr,  i.  210,  211
+Nepra,  ii.  45,  151
+Nepsiomaoth,  i.  280
+Ner,  ii,  333
+Nerau,  i,  177 ;  ii.  333
+Nerau-ta,  ii.  333
+Neri,  i.  177 ;  ii.  333
+Nert,  i.  254
+Nerta,  i.  254
+Nes-Amsu,  i.  293,  325
+Nesbet,  ii.  302
+Nesert,  i.  81,  432,  454,
+
+456,  515
+Neshmet  neb  tcbetta,  ii.
+
+184
+Nesht,  i.  326
+Nesi-Anisu,  papyrus   of,
+
+i.  271
+Nesi-Khensu,  papyrus  of,
+
+ii.  13
+Nesruekhef,  i.  258
+Nes-Min,  i.  293
+Nesru,  ii.  310
+Nesti-kkenti-Tuat,  i.  244
+Net,  i.  78 ;  ii.  19,  20,
+
+26,  61,  62,  63,  184
+Net,  fisbing,  ii.  120
+Net,  House  of  tbe,  i.  405,
+
+407
+Net  (Neitb),i.  450-465;
+
+ii.  333
+Net  of  tbe  Four  Winds,
+
+i.  407
+Net-Asar,  i.  212
+Net-hetep,  i.  453,  454
+Net-Ea,  i.  207
+Net-Menbit,  i.  403
+Netch-an,  ii.  322
+Netch-atef,  i.  228
+Netcb-baiu,  ii.  317
+
+
+Netcheb-ab-f,  i.  436  ;  ii.
+
+246,334
+Netcbeh-netcbeb,  i.  494 ;
+
+ii.  129,  334
+Netcbefet,  ii.  334
+Netchern,  ii.  334
+Netcbemtcbenit,  i.  161
+Netebeses,  i.  177
+Netcbesti,  ii.  320,  334
+Netcb-pautti,  i.  228
+Netcbses,  ii.  334
+Netebti-ur,  ii.  322
+Neteqa-bra-kbesef-atu,  i.
+
+176  ;  ii.  334
+Neter,  i.  41,  108
+Neter,  examples  of  mean-
+ing of,  i.  63,  72-74
+Neter-bah,  ii.  129
+Neter-kkaita,  i.  484
+Neter-kbertet,  i,  73;  ii.
+
+20
+Neter-neteru,  i.  242
+Neter-ta,  i.  443  ;   ii.   7,
+
+287
+Netert,  i.  41,  473
+Netert  (city),  i.  450 ;  ii.
+
+128
+Netert-en-khentet-Ea,  i.
+
+244
+Netetthaab,  i.  455
+Netetthab,  i.  81 ;  ii.  63
+Neteru,  i.  41
+Neteru  ent   Neter-kbent
+
+ent  amu  Tuat,  ii.  185
+Neteru  neterit  amu  Abtu,
+
+ii.  185
+Neteru,  Qerti,  ii.  185
+Neteru    semu    Tuat,    ii.
+
+185
+Neteru,  tbe,  i.  4
+Neterui  (nome),  i.  97
+Netbert,  i.  341 ;  ii.  317
+Netbetb,  i.  248
+Netbmamaotb,  i.  280
+Neti,  i.  81
+
+
+Neti  (Bati),  ii.  333
+Neti-bra-f-emma-mast  -  f,
+
+ii.  334
+Neti-sbe-f,  ii.  334
+Netit,  ii.  334
+Net-neb-ua-kbeper  -  autu,
+
+i.  214
+Netru,  i.  250 ;  ii.  213
+Netuti,  i.  342
+Neunbeit,  i.  89
+Newman,  Cardinal,  i.  144
+Ni,  i.  258,  286,  289,  291
+Nice,  Council  of,  ii.  66
+Nifu-ur,  ii.  155
+Nigbt  of  tbe  Drop,  ii.  47
+Night-Sky,  ii.  102,  105
+Nike,  ii.  187
+Nile,  i.  361,  362
+Nile,  tbe  celestial,  i.  107,
+
+174
+Nile-god,  ii.  40  ff.
+Nile-goddesses,  ii.  47
+Nile,    Inundation    of,    i.
+
+435
+Nile  =  Osiris,  ii.  123
+Nine  Bows,  ii.  356
+Nine  cbiefs,  tbe,  i.  182
+Nine  gods,  tbe,  i,  85  ff.,
+
+182
+Nine  Ennutcbi,  i.  188
+Nineveh,  i.  19 ;  ii.  279
+Ni-ni,  i.  465
+Nit,  i.  30,  92,  110,  431,
+
+443
+Nit  (not  Neitb),  i.  286
+Nit-hetep,  i.  31
+Nit-tep-Ament,  i.  211
+No-Amon,  ii.  12,  31
+Nome  gods,  i.  95  ff.
+Nome-perch,  i.  28
+Nome  standards,  i.  30
+Nomes,  number  of,  i.  96
+Nomes  of  Egypt,  i.  27
+Nopsiter,  i.  280
+Nu,  i.  78,  109,113,134,
+
+
+INDEX
+
+
+415
+
+
+200,  257,  283,  284,
+291,  309,  341,  367,
+
+456 ;  ii.  2,  14,  15,  25,
+
+44,    317,    332;    battle
+
+of,  i.  241 ;  Eye  of,  i.
+
+306  ;  milk  of,  i.  331 ;
+
+the  aged,  i.  511
+Nu,   Papyrus  of,  i.  357,
+
+427;  ii.  62,  102
+Nubia,  i.  274,  304,  483 ;
+
+ii,  12,  17,  22,  40,  57,
+
+92
+Nubia,     civilization    of,
+
+Egyptian  origin,  i.  14
+Nubia,    Lower,     ii.    51 ;
+
+upper,  ii.  51
+Nubia,   tree  worship   in,
+
+i.  17
+Nubians,  ii.  23
+Nubit,  ii.  35,  356
+Nubit  (goddess),  ii.  36
+Nubt,  i.  80
+Nubt  (goddess),  ii.  108
+Nubt  (Hathor),  i.  437
+Nubti,  i.   468;  ii.  250,
+
+332
+Nubti  (Ombos),  i.  492
+Nudimmud,  i.  289
+Nun-shame,  ii.  316
+Nunut,  ii.  302
+Nut,  i.   113,  120,  172,
+
+200,  201,  257,  283,
+
+284,   291,    338,   339,
+
+341,367,369;  ii.  2,
+
+20,  62,  100-112,  184,
+
+317,  332
+Nut,  a  Lake,  i.  222
+Nut,  five  children  of,  ii.
+
+109
+Nut,  Sycamore  of,  ii.  107
+Nut-en-bak,  i.  98
+Nut-ent-Hap,  i.  99
+Nut-Hathor,  ii.  357
+Nut-Ta-Sebeq-hra,  i.  241
+Nuth,  i.  258
+
+
+Oases,  ii.  22,  251
+Oasis,  the  Great,  i.  464 ;
+
+ii.  22
+Oasis,  Minor,  ii.  22
+Oasis  of  Kharga,  i.  113
+Oasites,  two  nomes  of,  i.
+
+96
+Obelisk-god,  i.  348
+Obelisk,  House  of,  ii.  66,
+
+97
+Ogdoad,  i.  404
+Oia,  i.  280
+
+Oil  in  heaven,  ii.  118
+Oimenephtah,  i.  178
+Oimenepthah,  i.  304
+Olive   tree,    i.    165 ;    ii.
+
+62
+Olive  tree  speaks,  i.  19
+Olympus,  ii.  62
+Ombites,  i.  96
+Ombos,  i.  431,  468,  492 ;
+
+ii.  35,  356
+On,    i.    100,     328;    ii.
+
+148
+One=Amen-Ea,  ii.  9, 10,
+
+11
+One  Alone,  i.  132
+One,   name  of  Neith,   i,
+
+458
+Oneness  of  gods,  i.  131  ff.
+Onion,  worship  of,  i.  2
+Onuphis,  ii.  357
+Onuphites,  i.  96
+Onuphris,  ii.  352
+Oouskhous,  i.  281
+Ophannim,  i.  7
+Opsither,  i.  280
+Orion,  i.  39,  41,  88;  ii.
+
+215,  249
+Orthus,  ii.  361
+Orus,  ii.  187,  192,  193
+Oryges,  i.  190
+Osiris,  i.  103,   171;  ii.
+
+16,  85,  109,  113  ff. ;
+
+Amulets,  ii.  126;  and
+
+
+his  Cycle,  i.  77;  as  a
+Water- god,  ii.  122,
+123;  as  God,  i.  121;
+as  god  of  the  dead,  i.
+150  ;  as  the  god  of  the
+Kesurrection,  ii.  139
+ff. ;  Eye  of  Ea,  i.  236  ;
+Four  earthly  forms  of,
+i.  230  ;  Four  souls  of,
+i.  232  ;  Four  tombs  of,
+i.  232;  head  of,  ii.  118;
+his  nine  forms,  i.  214 ;
+his  sixteen  members,
+ii.  127;  history  of,  ii.
+124  ff. ;  history  of,  by
+Plutarch,  ii.  187  ff. ;
+hymn  to,  148  ff ;  hymn
+to,  hieroglyphic  text  of,
+ii.  162  ff  ;  Hymns  to,
+from  Book  of  the  Dead,
+ii.  153 ;  Khenti-Amen-
+ti,  ii.  118;  names  of,  ii.
+176  ff. ;  scenes  of  his
+burial  and  resurrection,
+ii.  131-138;  shrines  of,
+ii.  127  ;  soul  of,  ii.  65,
+159 ;  soul  of  in  an  ox,
+ii.  348  ;  the  Man-god,
+i.  13;  theTuat,i.  203;
+Un-nefer,  ii.  136, 153,
+155,  352
+
+Osiris  -  Bast  -  Heru-Heke-
+nu,  i.  450
+
+Osiris  =  Christ,  ii.  220,
+221
+
+Osiris  =  Pluto,  ii.  199
+
+Osiris  =  Water,  ii.  98
+
+Osiris  =  Yesterday,  i.  487
+
+Osiris-Aah,  i.  414
+
+Osiris  -An  -  JBast  -  Temt-
+Ari-hes,  i.  450
+
+Osiris-Apis,  ii.  47, 195-
+201,  349
+
+Osiris-Isis-Horus,  i.  114,
+240
+
+
+416
+
+
+INDEX
+
+
+Osiris-Ra,  i.  334
+Osiris-Ra    in    Tattu,    i.
+
+148
+Osiris-Seker,  i.  218,  417
+Osiris-Tet,  ii.  131
+Ostrich  feather,  i.  416
+Ouare,  ii.  308
+Ouestre-Bikoti,  ii.  305
+Oxyrhynchites,  i.  96  ;  ii.
+
+382
+Oxyrhynchus  fish,ii.  192,
+
+382
+Oxyrynchus,  i.  98,  432
+
+
+Pa-ait,  i.  468
+Pa-atemt,  i.  353
+Pa-Bar,  ii.  281
+Pa-Bast,  i.  444
+Pa-bil-sag,  ii.  316
+Pachons,  ii.  248
+Pagoure,  i.  280
+Pai,  i.  203
+Paireqa,  ii.  283
+Pa-khen-Arnent,  ii.  31
+Pa-khen-en-Arnen,  i.  100
+Pa-kkent,  ii.  356
+Pakheth,  ii.  362
+Pakht,  i.  517,  518
+Pakhth,  i.  432
+Palace  of  Shu,  ii.  93
+Palaces,   the   7    of    Ge-
+henna, i.  274
+Palaeolithic    Period     in
+Egypt,  i.  8^
+
+Palaestinus,  ii.  191
+
+Palestine,   i.    142,    276;
+ii.  4,  83
+
+Palette,  i.  411,  427
+
+Palettes  (shields),  i.  25
+
+Pallas,  i.  458
+
+Pa-mer,  ii,  57
+
+Pa-mertet,  i.  515
+
+Pamyles,  ii.  186
+
+Pamylia,  ii.  186
+
+
+Pan,  ii.  353
+
+Pa-nemma-nernma,  i.  519
+Panic  Terrors,  ii.  188
+P-ankki,  i.  246
+Panopolis,   i.    97,    431,
+
+470  ;  ii.  22,  188
+Panopolites,  i.  96
+Pans,  ii.  188
+Paophi,  ii.  252
+Pa-paut-netera,  ii.  128
+Pa-penat,  i.  513
+Papyrus  plant,  ii.  125
+Papyrus  Swamps,  ii.  190,
+
+206
+Pa-Qerhet,  i.  353
+Par,  ii.  19,  20
+Paradise,     Egyptian,    i.
+
+165,  166
+Parehaqa-kheperu,  i.  518 ;
+
+ii.  329
+Par-neferu-en-neb-set,  ii.
+
+301
+Pa-Sebek,  ii.  357
+Pasemis,  i.  437
+Pashakasa,  i.  518;  ii,  329
+Pasht,  i.  517
+Pa-Shu,  ii.  299
+Pastophori,  ii.  217
+Pa-sui,  ii.  206
+Pa-Tern,  i.  432
+Pa-Thuhen,  ii.  127
+Paiini,  ii.  252
+Pausanias,     quoted,     ii.
+
+218
+Paut,  meaning  of,  i.  89
+Paut  of  earth,  i.  91
+Paut  of  gods,  the  Great,
+
+i.  86
+Paut  of  gods,  the  Little,
+
+i.  86
+Paut  of  heaven,  i.  91
+Paut    of    Heliopolis,  ii.
+
+85
+Paut  of  Horus,  i.  86
+Paut  of  ten  gods,  i.  87
+
+
+Paut  of  eleven   gods,  i.
+
+88
+Paut  of   twelve  gods,  i.
+
+88
+Paut  of  the  Tuat,  i.  91
+Pauti  of  gods,  i.  87
+Pe,  i.  84,  410,  492,  497  ;
+
+ii.  25,  107,  117
+Pe,  Souls  of,  i.  107
+Pe,  Watchers  of,  i.  161
+Peace,  Field  of,  ii.  118
+Pehreri,  ii.  329
+Pehu,  ii.  156
+Pehui,  ii.  304
+Pekh,  i.  517
+Pekhat,  i.  518  ;  ii.  329
+Pekhet,  i.  517
+Pekheth,  i.  517
+Pekhit,  i.  517
+Pekht  (city),  i.  517
+Pelusium,  ii.  128
+Pelusius,  ii.  191
+Pent,  i.  80
+Penter,  i.  200
+Penti,  ii.  329
+Pepi   I.,  i.  72,  77,  297,
+
+445
+Pepi  II.,  i.  77,  445
+Per-aa,  i.  242
+Per-ab,  i.  401
+Per-aha,  i.  481
+Per-Asar,  i.  99,  103
+Per-Asar- neb -Tettu,  ii.
+
+122
+Per-Atem,  i.  99
+Per-ba-neb-Tattu,  i.  100
+Per-Bast,  i.  100,  444
+Per-em-hru,  i.  174
+Per-em-khet-khet,  ii.  129
+Perer-amu-pet,  i.  51
+Pergamos,  Church  of,  i.
+
+301
+Per-Heru-nubt,  i.  470
+Perit,  i.  244
+Periu,  i.  200
+
+
+INDEX
+
+
+417
+
+
+Per-Kheniennu,  i.  421
+Per-khet,  ii,  65
+Per-Khut,  i.  496
+Per-Matchet,  i.  98
+Per-Menat,  i.  443
+Per-mert,  ii.  255
+Per-mest-en-Nut,  ii.  103
+Per-netchem,  i.  492
+Per  -  net  -  mut  -  kheper  -
+
+hetch,  i.  452
+Per-netch  -  Shu  -  ma-Nut,
+
+ii.  103
+Per-Nubt,  ii.  108
+Per-Nut,  ii.  103
+Per-Pakht,  ii.  213
+Per-Ra,  i.  452
+Per-rerehu,  i.  480
+Persea  Tree,  ii.  61,  371
+Persephone,  ii.  217
+Per-Sept,  i.  499
+Per-sui,  i.  488
+Per-Tehuti,  i.  100
+Per-Tehuti-ap-rehuh,  i.
+
+421
+Per-Tem,  i.  452
+Per-tennu,  i.  433
+Per-Uatchet,  i.  24,  92,  93,
+
+95,100,433,438,439;
+
+ii.  56,  117,  376,  442
+
+ff.
+Pert,  Festival  of,  ii.  129  ;
+
+season  of,  ii.  161
+Pesek-Re,  ii.  329
+Pesetchet,  i.  80
+Pesh-hetep-f.  ii.  301
+Pesi,  i.  256
+Peskheti,  ii.  329
+Pestet,  i.  250
+Pesthi,  i.  246
+Pestu,  i.  250  ;  ii.  329
+Pesuo,  ii.  306
+Pet-Annu,  ii.  Ill
+Petchatcha,  i.  492
+Pe-tep,  i.  441;  ii.  121,
+
+211
+
+ii — e  e
+
+
+Petet,  i.    488;    ii.    206,
+
+207
+Peti,  ii.  329
+Petra,  i.  252  ;  329
+Peukher,  i.  281
+Phagrorius  fish,  ii.  382
+Phagrus,  ii.  382
+Phagrus  fish,  ii.  192
+Phallephoria,  ii,  186
+Phallus  =  Hap,  i.  110
+Phallus  of  Osiris,  i.  496  ;
+
+ii.  65,  128,  193,  382
+Pharaoh,  i.  242,  361
+Pharbaethites,  i.  96
+Phaturites,  i.  96
+Philae,  i.  473,  523,  525  ;
+
+ii.  43,  45,  50,  57,  289
+Philip,  St.,  i.  280
+Philostratus,  ii.  96
+Phoenicia,  ii.  124
+Phoenix,  ii.  96,  371
+Phoutet,  ii.  304
+Phthemphu,  i.  96
+$u\afCTi]piov,  i.  234
+$v<ri<;,  i.  68
+Phylarchus,  ii.  200
+Physa  fish,  ii.  382
+Piankhi,  i.  331
+Pibeseth,  i.  444
+Pierret,  M.  P.,  i.  66,  68,
+
+140,  204,  459
+Pietschmann,  i.  415
+Pig,  i.  190  ;  ii.  368  ;  the
+
+black,  i.  496,  497
+Pi-hahiroth,  i.  353
+Pillars  of  heaven,  i.  210
+Pillars  of  Shu,  i.  467
+Pillars  of  the  sky,  i.  157
+Pilulariae,  ii.  380
+Pindar,  ii.  353
+Pi-neter-tuau,  ii.  303
+Pistis  Sophia,  i.  266  ff. ;
+
+ed.  Schwartze  quoted,
+
+i.  279
+Pi-tchepet,  i.  442
+
+
+Pi-tep,  i.  442
+Pithom,  i.  99,  353,  432
+Planets,  gods  of,  ii.  302
+Plato,  i.  332,  407
+Pleyte,Dr.,i.360;ii.91;
+
+quoted,  i.  99
+Pliny,  i.  96,  441,  444 ;  ii.
+
+96,    347,     370,    372;
+
+quoted,  i.  62
+Plutarch,  i.  150,  353,  422,
+
+448,  458,  459,  467,
+
+489,  493  ;  ii.  58,  123,
+
+126,    147,    241,    248,
+
+349,358,361,368,370,
+
+373,    375,    382;     his
+
+history  of  Osiris   and
+
+Isis,  ii.  186
+Pluto,  ii.  199 ;  ii.  217,
+
+253
+P-neb-taui,  i.  468
+Pneuma,  i.  285
+Polytheism,  i.  137
+Pompeii,  ii.  218
+Pomponius  Mela,  ii.  96
+Pontus,  ii.  197,  198
+Porphyry,  i.  356;  quoted,
+
+i.  62
+Power  of  Powers,  i.  40
+Power,  primeval,  i.  288  I
+Powers  (angels),  i.  6
+Precepts   of  Ptah-hetep,
+
+i.  122
+Precepts  of  Kaqemna,ii.
+
+123
+Precepts  of  Khensu-hetep,
+
+i.  127
+Priapeia,  ii.  186
+Priapus,  ii.  353
+Principalities,  i.  6
+Prisse  d' Avenues,  i.  122
+Prisse   Papyrus,   i.    122,
+
+124
+Proclus,  i.  459
+Prophets,  the,  i.  5
+Proserpine,  ii.  199,  218
+
+
+418
+
+
+INDEX
+
+
+Prosopis,  i,  432  ;  ii.  357
+Prosopites,  i.  96
+Proto-Semites,  i.  8
+Providence,     Divine,    i.
+
+125
+Psammetichus  I.,  ii.  350,
+
+351
+Pselket,  i.  401
+P-she-hert,  ii.  213
+Psino  ther,  i.  280
+Ptah,i.  78,  218, 500 ff.;
+
+ii.  7,  30,  35,  53,  66,
+
+329;  hook  of,  i.  502;
+
+of  Memphis,  i.  99  ;  of
+
+the  Beautiful  Face,  i.
+
+125  ;  second  life  of,  ii.
+
+350;  the  second, ii.  196
+Ptah-aneb-res-f,  ii.  293,
+
+330
+Ptah  Asar,  i.  502
+Ptah  Hapi,  i.  146,  502,
+
+503*
+Ptah-hetep,  i.  122,  125,
+
+126,  138
+Ptah-neb-ankh,  i.  500
+Ptah-Nu,  i.  502,  503
+Ptah-Seker,  i.  502;  ii.
+
+330
+Ptah-Seker- Asar,  i.  502,
+
+503,  523;    ii.  134,
+
+269
+Ptah-Seker-Tem,  i.  502;
+
+ii.  154
+Ptah-Sekhet-Ienihetep,  i,
+
+ii4
+
+Ptah-  Sekhet-Nefer-Tem,
+
+i.  450,  512
+Ptah-Sekri,  ii.  131
+Ptah-Tanen,  i.  489,502;
+
+503  ;  ii.  52,  66,  330
+Ptah-Tenen,  hymn  to,  i,
+
+508-512
+Ptah-Tettet  sheps  ast  Ea,
+
+ii.  183
+Ptenethu,  i.  96
+
+
+Ptenetu,  i.  441
+Ptolemai's,  i.  432
+Ptolemies,  the,  i.  26
+Ptolemy    Alexander,   ii,
+
+24
+Ptolemy  II.,  i.  332;  ii.
+
+354
+Ptolemy  IV.,  i.  523
+Ptolemy  V.  i.  523
+Ptolemy  Lagus,  ii.  348
+Ptolemy  Philadelphus,  ii.
+
+289
+Ptolemy   Soter,  ii.   197,
+
+199
+Ptolemy,  the  Geographer,
+
+ii.  31
+Punt,  ii.  6,  7,  65,  287,
+
+288
+Purgatory,  i.    171,    261,
+
+265
+Puteoli,  ii.  218
+Pythagoras,  ii.  351
+Pythagoreans,  ii.  252
+Python,  i.  11
+
+
+Qa  (god),  ii.  42
+Qa-Ba,  i.  345  ;  ii.  320
+Qah,  i.  492
+Qa-ha-hetep,  ii.  342
+Qa-hra,  ii.  343
+Qahu,  ii.  343
+Qaqa  of  Khemennu,  i.  332
+Qarth-Anthu,  ii.  278
+Qeb,  ii.  292
+
+Qebh  =  Khnemu,  ii.  50
+Qebhet,  ii.  51
+Qebhsennuf,  i.  83,  198,
+
+456, 491, 492  ;ii.  129,
+
+145,  184,  343
+Qebhsennuf  =  West,     i.
+
+158
+Qebhu,  i.  429
+Qebhu,  eighteen  gods  of,
+
+i.  86
+
+
+Qebti,  i.  97
+
+Qebui  (N.  wind),  ii.  295
+Qeften,  ii.  268
+Qemamu,  ii.  343
+Qemhusu,  ii.  343
+Qemqem,  i.  469
+Qem-baius,  i.  473
+Qereret,  ii.  148
+Qerert,  i.  149
+Qererti,  i.  342  ;  ii.  320
+Qer-Hiipi,  ii.  44
+Qerhet,  i.  353
+Qerneru,  i.  326
+Qersu,  ii.  106
+Qerti,  ii.  53,  148,  343
+Qerti    (an    assessor),    i,
+
+419
+Qerti,  the,  ii.  43
+Qesqeset,  i.  467  ;  ii.  108
+Qesem,  i.  100
+Qeset,  i.  161
+Qesi,  i.  98
+Qet,  ii.  294,  307
+Qetesh,  ii.  276,  279, 280,
+
+284
+Qetet,  ii.  129
+Qetetbu,  ii.  343
+Qettu,  i.  326
+Qetu,  i.  519 ;  ii.  343
+
+
+KA,i,34,78,146,322ff.;
+ii,  334  ;  and  his  cycle,
+i.  77  ;  and  the  destruc-
+tion of  men,  ii.  94 ;
+birth  of,  i.  462 ;  boat  of,
+ii.  210  ;  daily  birth  of,
+i.  204  ;  darts  of,  i.  85  ;
+eyes  of,  i.  363  ;  life  of,
+ii.  64  ;  mutilation  of,
+ii.  100 ;  myths  of,  i.
+359  ff. ;  religion  of,  i.
+332 ff.;  soul  of,  i.  149
+ii.  64;  the  Aged,  i.
+506  ;  the  Babe,  i.  506  ;
+
+
+INDEX
+
+
+419
+
+
+the  fourteen  doubles  of,
+
+ii.    300 ;     the     seven
+
+souls  of,  ii.  300  ;  the
+
+Seventy-five  Praises  of,
+
+i.  339-348
+Ea  and  Amen,  i.  105
+EaandApep,i.484,489;
+
+fight  of,  i.  405
+Ea  =  Fire,  ii.  98
+Ka  and  Horus  hold  the
+
+ladder,  i.  167
+Ea,  and  Isis,  Legend  of,
+
+i.  360  ff.
+Ea  and  Isis,  Legend  of,
+
+Egyptian  Text,  i.  372-
+
+387 ;  myth  of,  i.  352
+Ea-Asar,  ii.'  334
+Ea-Atem,  i.  101
+Ea-Ateni,  ii.  317
+Ea-er-neheh,  i.  437;  ii.
+
+26,334
+Ea-Harmachis,  ii.  69
+Ea-Heru,  i.  220
+Ea-Heru-khuti,    i.    148,
+
+178;  ii.  334
+Ea-Menthu,  ii.  27
+Ea-neferu,  Queen,  ii.  38
+Ea  of  Annu,  i.  100
+Ea-Osiris,  i.  334,  148
+Ea-Tem,  i.  92,  104,  105,
+
+131,   133,   148,    282,
+
+330,  350,  352  ;  ii.  61,
+
+85,  86,  90,  115,  334
+Ea-Tem-Khepera,  i.  282
+Ea-Temu,  i.  335
+Ea-Temu-Khepera-Heru-
+
+khuti,  ii.  361
+Ea,  worship,  i.  328
+Eahabh,  i.  278
+Eain,  i.  414
+Eameses  II.,  i.  142 ;  ii.
+
+27,  38,  278,  350,  362 ;
+
+serekh  of,  i.  26
+Eameses  III.,  i.  160,  331,
+
+512 ;  ii.  12,  37,  363
+
+
+Eameses  IV.,  i.  348,  364
+Eamessids,  ii.  12
+Eam-god,  ii.  203
+Earn  of  four  faces,  ii.  65
+Earn  of  Mendes,  i.  27  ;
+
+ii.  286, 351 ;  four  souls
+
+of,  i.  496
+Earn  of  Tattu,  i.  103
+Earn  =  Ea,  i.  342
+Earns'   heads,   the   four,
+
+ii.  51
+Eaqetit,  ii.  198
+Eashshaf,  ii.  283
+Eat,  i.  88,  90,  446,  458
+Eat,   counterpart  of  Ea,
+
+i.  287,  328
+Eat-tauit,  i.  328,431,469
+Eau,  i.  246
+Ee-au,  i.  492  ;  ii.  261
+Ee-a-nefer,  ii.  213
+Ee-henenet,  ii,  335
+Ee-hent,  ii.  335
+Eed  Crown,  i.  39,  53,  54
+Eedesiyeh,  ii.  281
+Eed  Horus,  ii.  303
+Eed  Land,  i.  304
+Eed  Sea  and  Nile  Canal,
+
+i.  353
+Eed-souls,  i.  203
+Eehehui,  i.  405
+Eehesaui,  i.  515
+Eeliesu,  i.  433
+Eehti,  ii.  335
+Eehu,  i.  443  ;  ii.  335
+Eehui,  i.  421,  475;   ii.
+
+335
+Eehui  (city),  i.  401
+Ee-Iukasa,  ii.  334
+Eekeh  netches,  ii.  293
+Eekeh  ur,  ii.  293
+Eekes,  i.  325  ;  ii.  335
+Eekh,  i.  252
+Eekhasua,  ii.  283
+Eekhi,  i.  343 ;  ii.  320
+Kekhit,  i.  159,  256
+
+
+Eekht,  i.  514
+Eekhti,  i.  410
+Eekhti  goddesses,  i.  462
+Eekhti  -  merti-neb-  Maati,
+
+ii.  335
+Eem,  i.  303
+Eemenaare,  ii.  308
+Eemen-ileru-an-Sah,  ii.
+
+308
+Eemen-kher-Sah,  ii.  308
+Eemi,   i.   303,  '341;   ii.
+
+317,  334
+Eem-neteru,  i.  240
+Eemrem,  ii.  184,  334
+Ee-nefert,  ii.  255
+Ee-qerert-apt-kkat,  i,  250
+Ee-Ea,  ii.  334
+Ee-Sekhait,  ii.  184,  334
+Ee-stau,i.  216,352,410;
+
+ii.60;  Chief  of,  ii.  116
+Ee-ur,  i.  492
+Eenenet,  i.  426  ;  ii.  144,
+
+335,  362
+Eenenet  (Isis),  ii.  216
+Eenen-sebu,  i.  198
+Eenenut,  i.  81
+Eenniu,  i.  201
+Eennutet,  ii.  293,  335
+Eenouf,  P.  le  Page,  i.  66
+Eenpet  (Isis),  ii.  213
+Eenpit,  i.  432 ;  goddess
+
+of,  ii.  55
+Eenpti,  i.  211
+Eepit,  i.  432
+Eeqetit,  i.  492
+Eeqi,  ii.  335
+Eerei,  ii.  21
+Eerek,  ii.  245,  335
+Eeret,  ii.  209,  249,  289,
+
+312
+Eeri,  i.  203
+Eert,  ii.  359
+Eerti,  i.  419  ;  ii.  335
+Eertu,  ii.  359
+Eertu-nifu,  ii.  335
+
+
+420
+
+
+INDEX
+
+
+Res-ab,  i.  176  ;  ii.  335
+Res-hra,  i.  176 ;  ii.  335
+
+Resenet,  i.  452,  464
+
+Reshef,  ii.  283
+
+Reshpu,  ii.  280,  282
+
+Rest-f,  i.  254
+
+Resurrection,  ii.  381 ;
+of  the  body,  i.  357;
+of  Osiris,  ii.  137,138;
+triune  god  of,  i.  508
+
+Reta,  i.  250
+
+RetJi-hen-er-reqau,  ii.  335
+
+Reta-nifu,  ii.  335
+
+Reta-sebanqa,  ii.  335
+
+Retasashaka,  ii.  335
+
+Rethenu,  i.  198
+
+Rethma,  i.  492
+
+Revillout,  i.  458
+
+Rhampsinitus,  ii.  366
+
+Rhea,  i.  467;  ii.  124, 187
+
+Romans,  i.  68
+
+Rosellini,  i.  60
+
+Rossi,  i.  360
+
+Royal  Library  at  Nine-
+veh, i.  18
+
+Rulers  (angels),  i.  6
+
+Rurutha,  i.  81
+
+Rut-en-Ast,  ii.  334
+
+Ruthennu,  ii.  279
+
+Rut-tetet,  i.  329
+
+Rutu-neb-rekhit,  ii.  334
+
+Rutu-nu-Tem,  ii.  334
+
+
+Sa,  i.  107, 180,  203, 206,
+
+215
+Sa  (Ape),  ii.  292
+Sa  (city),  i.  515
+Sa  (god),  ii.  89
+Sa,  ka  of  Ra,  ii.  300
+Saa,  i.  82;  ii.  296
+Saa-Amenti-Ra,  ii.  298
+Saaba,  i.  469
+Saatet-ta,  i.  326
+Saau-ur,  ii.  298,  339
+
+
+Saa-set,  i.  180
+Sa-abu-tckar-khat,  i.  420
+Sa-Akeb,  i.  242
+Sa-Amenti-Ra,  ii.  339
+Sabaoth,  i.  280
+Sabes,  i.  176  ;  ii.  339
+Saft  al-Henna,  i.  498
+Sah,  ii.  249,  306
+Sari  (city),  i.  515
+Sah  (Orion),  i.  41,  83;
+
+ii.  339
+Sahal,  ii.  52,  56,  57,  58
+Sahel,  ii.  43
+Sah-en-mut-f,  ii.  339
+Sah-heq,  ii.  129
+Sain,  i.  39,  40,  54,  164
+Sahu  of  Maat,  i.  443
+Sahura,  i.  329
+Sais,  i.  30,  31,  92, 95,  99,
+
+101,  250,  252,  451;
+
+ii.  20,  22,  275,  357 ;
+
+festivals  of,  i.  452 ;  of
+
+the  South,  i.  452
+Sait,  i.  256
+Sa'ites,  i.  96
+Saiut,  ii.  261
+Saiut  (Lycopolis),  i.  98
+Sak,  i.  59,  60
+Sakhabu,  i.  329
+Sakkara,  i.   23,  41,  78,
+
+125
+Samait,  ii.  339
+Sam-Behutet   (noine),   i.
+
+100
+Sam-taui-p-khart,  i,  469
+Samti,  i.  177
+San,  i.  516
+Sanchoniatho,  i,  35
+Sandals,  i.  165  ;  ii.  118 ;
+
+the  divine,  ii.  206
+Sankhonyathan,  i,  35
+Saosis  (Iusaaset),  ii.  190
+Saaxris,  i,  354
+Sa-pa-nemma,  ii.  339
+Saphon,  ii.  249
+
+
+Sapi,  i.  30,  452,  464
+Sap-meh  (nome),  i,  99
+Sapi-meht,  i.  452
+Sapi-res  (nome),  i.  99
+Sapt-khennu,  ii.  305
+Saqenaqat,  i.  519  ;  ii.  339
+Sar  (Osiris),  i.  200
+Sar,  temple  of,  ii.  25
+Sarapis,  i.  26  ;  ii.  199
+Sarapis,  daughter  of  Her-
+cules, ii.  200
+Sarbut  al-Khadem,  ii.  290
+Sarei,  ii.  200
+Saresu,  ii.  283
+Sarsarsartou,  i.  280
+Sarset,  ii.  300
+Sasaqet,  ii.  307
+Sasasert,  ii,  306
+Sashsa,  i.  82
+Sata,   a  serpent-god,  ii.
+
+377
+Satet,   i.    431;     ii.    50,
+
+55$.
+Sathet,  i.  82
+Sati,  i.  286 ;  ii.  55  ff.
+Sati-arut,  ii.  302
+Sati  (Isis),  ii.  57,  216
+Saturn,  ii.  302,  303
+Satyrs,  ii.  188,  353
+Sau,  ii.  302,  339
+Sau  (Apep),  i.  326
+Saut,  i.  30,  451
+Saut  (Sais),  i.  99
+Sbat-uatitha,  ii.  303
+Scales,  ii.  142
+Scales,  the  Great,  i.  9,  20
+Scandinavia,  i.  64
+Scarab,  i.  355
+Scarabaei,  eaten,  i.  17
+Scarabaeus,  the,  ii.  379
+Scarabaeidae,  ii.  379
+Scarab  of  Hetepet,  i.  85
+Schedia,  ii.  127
+Scorpio,  ii.  188
+Scorpion,  ii.  373,  377
+
+
+INDEX
+
+
+421
+
+
+Scorpions  of  Isis,  i.  487
+Scorpion    stings    Horus,
+
+i.  488
+Scorpions,  the  Seven  of
+
+Isis,  ii.  206,  207,  377
+Sea  of  Mertet,  i.  480
+Seat  of  Shu,  ii.  93
+Seb,  i.  34,  82,  85,  86,
+
+198,  341,  369,  489,
+
+496,  504;    ii.  25,  34,
+
+94  ff.,  149,  291,  317
+Seb  and  Nut,  embrace  of,
+
+ii.  105
+Seb  =  Earth,  ii.  98
+Seb,  erpa  of  the  gods,  i.
+
+109
+Seb,  soul  of,  ii.  65
+Seba,i.l49,352;ii.  149,
+
+339
+Seba-ent-Seba,  i.  326
+Sebak  gods,  i.  371
+Sebakksen,  ii.  129
+Sebau,i.324;ii.79,155,
+
+340
+Sebau     fiends,     i.    410;
+
+ii.  8
+Sebek,  i.  78,  79,  95,  98,
+
+114,  303 ;  ii.  303,  340,
+
+354
+Sebek,  four-fold  character
+?     of,  ii.  355,  356
+
+Sebek,  son  of  Neith,  i.  32
+Sebekhti,  i.  202
+Sebek  (Mercury),  ii.  303
+Sebek    of    Sapi-Res,    i.
+
+99
+Sebek  of  the  green  feather,
+
+i.  455
+Sebek  -  Isis  -  Amen,       i,
+
+114
+Sebek-Ra,   i.    200,  464;
+
+ii.  109
+Sebek-Seb,  ii.  357
+Sebek-Temu-Hathor,    ii.
+
+356
+
+
+Seben-hesq-kkaibit,      i.
+
+211
+Sebennytes,  i.  96
+Sebennytus,  i.  100,  115,
+
+332
+Sebeq,  ii.  354
+Sebeq-hra,  i.  241
+Seb  erpat  neteru,  ii.  183
+Sebi,  i.  203
+Seb-qenbeti,  i.  211
+Sebshes,  ii.  310
+Sebti,  i.  433
+Sebuit-nebt-uaa  -  khesfet-
+
+sebau-eru-pert-f,  i.  250
+Sef,  ii.  99
+
+Sef  (Yesterday),  ii.  361
+Sefekk-aabu,i.422,424,
+
+425,  430
+Sefer,  i.  59,  60
+Sef  het-aabut,  i.  432
+Sefi  -  per  -  em  -  Hes  -  lira  -
+
+hapu-tchet-f,  i.  519
+Sefkket-aabut,  i.  431
+Seftit,  i.  248
+Sehepu,  i.  82
+Seher-Tut,  ii.  300
+Sehert/i.  515
+Sehert-baiu-s,  i.  241
+Sehes,  i.  206
+Sehetch-kkatu,  ii.  317
+Sehith,  i.  228
+Sehut,  i.  83
+Sek,  i.  433
+Seker,i.82,506;ii.ll7,
+
+153,  341
+Seker,    body  of,    i.  218,
+
+220
+Seker,  Circle  of,  i.  220
+Seker,  god  of  the  seventh
+
+hour,  ii.  301
+Seker,  Land   of,  i.   216,
+
+217,  222
+Seker,     Litanies     of,    i.
+
+434 ;  ii.  259
+Seker  =  Osiris,  ii.  139
+
+
+Seker  Osiris  of  Mendes,
+
+ii.  134
+Seker  Osiris,  the  sixteen
+
+parts  of,  i.  127
+Seker,  symbols  of,  i.  222
+Seker-Boat,  i.  504,  505  ;
+
+ii.  154
+Sekhabsenfunen,  i.  182
+Sekhat-Heru,  ii.  26
+Sekhem,  i.  101,132,  410;
+
+ii.  148
+Sekhem  =  Ainen-Ra,     ii.
+
+11
+Sekhem,  god,  i.  425
+Sekhem    (city),   i.    149,
+
+425,  468,  492
+Sekkem-em-ab-f,  ii.  340
+Sekhem  em  pet,  ii.  264
+Sekkem-kra,  i.   326  ;  ii.
+
+317
+Sekhem    (Letopolis),    ii.
+
+262
+Sekhem  of  heaven,  ii.  157
+Sekhem  =  Osiris,  ii.  139
+Sekhem,    praises    of,    i.
+
+339-348
+Sekhem,  son  of  Osiris,  ii.
+
+25
+Sekhem  taui,  ii.  264
+Sekhem-taui  =  Osiris,  ii.
+
+139
+Sekhem,  the,  i.  163
+Sekhem,  the  Great,  i.  38,
+
+39,40
+Sekhem,  the  holy,  i.  446
+Sekhem-ur,  ii.  340
+Sekhemet  (city),  i.  468
+Sekhemet-ren-s-em-abut-
+
+s,  ii.  341
+Sekhemf,  i.  82
+Sekhemt,  i.  99
+Sekhemu,  i.  38
+Sekhemus,  i.  216
+Sekhen-Ba,   i.    343;   ii.
+
+320
+
+
+422
+
+
+INDEX
+
+
+Sekhen-ta-en-ur,  i.  82
+Sekhen-tuatui,  i.  250
+Sekhenu,  i.  252,  259
+Sekhen-ur,    i.     177;    ii.
+
+341
+Sekheper-khati,  ii.  317
+Sekker  -  at,    i.    216  ;    ii.
+
+341
+Sekher-remu,  i.  178, 216 ;
+
+ii.  341
+Sekket,  i.  82,  114,  126,
+
+188,   248,  270,  304,
+
+365,  366,   431,   432,
+
+442,443,447,457,463,
+
+514-518;    ii.  31,  58,
+
+66,  92,  95,  292,  293,
+
+341,  362
+Sekket-Aanre,  i.  520
+Sekket-Aar,  ii.  120,  121
+Sekhet-Aarer,    i.    455 ;
+
+ii.  63
+Sekhet  -  Aarru,     ii.    82,
+
+120, 121
+Sekhet-Aarru  =  lst  Aat,
+
+i.  177
+Sekhet-Aarru,  21  pylons
+
+of,  i.  177
+Sekhet- A  am,  i.  367  ;  ii.
+
+43,62
+Sekhet-Bast,  i.  514  ff.
+Sekket-Bast-Ra,  i.  518;
+
+ii.  28,  29,  30
+Sekhet-en-Peru,  i.  212
+Sekket  -  hetep,     i.    164,
+
+168 ;  ii.  120
+Sekket-hetepet,    i.    103,
+
+297;  ii.  82
+Sekhet-hetepu,  i.  408
+Sekket-hra-asht-aru,      i,
+
+176  ;  ii.  341
+Sekhet  (Isis),  ii.  216
+Sekhet-metu,  i.  244
+Sekhet-Nut,  i.  515
+Sekhet  of  Thebes,  i.  211
+Sekket-Ra,  i.  433
+
+
+Sekket- Saneh  emu,  ii.  120
+Sekhet- Sasa,  i.  35
+Sekhet-tcher,  i.  110
+Sekhiu,  ii.  340
+Sek-hra,  ii.  341
+Sekhti-hetep,  ii.  341
+Sekhtiu,  i.  244
+Seksek,  ii.  341
+Seksen,  i.  82
+Sektet  Boat,  i.  206,  331,
+332,    335,    336,    337,
+352,  506  ;   ii.  11,  104,
+105,  159
+Selene,  ii.  187
+Self-production,  i.  295
+Selqet,  i.  455 ;  ii.  377
+Semaahut,  ii.  317
+Sem  (god),  ii.  129
+Sem,  priest,  i.  514
+Sem-af,  i.  259
+Sem-Heru,  i.  248
+Sem-Nebt-het,  i.  252
+Sem-shet,  i.  252
+Semamti,  i,  177
+Semetu,  i.  176
+Semi,  i.  198
+
+Semit-hen-abt-uaa-s,  i.
+220  '
+
+Semket  Boat,  i.  110,  323
+
+Semsem,  i.  252
+
+Semsu,  name   of  Ra,   i.
+346
+
+Semt,  ii.  302
+
+Semtet,  ii.  306
+
+Semti,  i.  191,  358,  506  ;
+ii.  116, 117
+
+Semu-heh,  ii.  60,  340
+
+Semu-taui,  ii.  340
+
+Senb-Kheperu,  ii,  302
+
+Senem,    ka    of    Ra,    ii.
+300
+
+Senemet,  i.  429,  515
+
+Senenahemthet,  i,  23
+
+Seni,  i.  452,  463
+
+Senit,  i.  97,  439
+
+
+Senket,  i.  241
+Senk-hra,  i.  346  ;  ii.  317
+Senki,  ii.  317
+Senmet,  i.  433
+Senmut,  i.  433 ;  ii.  51
+Senmut,  Island  of,  ii.  43
+Sennu,  ii.  251
+Senses,  gods  of,  ii.  296,
+
+297
+Sent,  ii.  129
+Senti-Nefert,  i.  99
+Semi,  ii.  255
+Sep,  i.  401 ;  ii.  261,  291
+Sepa,  i.  494 ;  ii.  340
+Sepes,  ii.  340
+Sephon,  ii.  249
+Sephu-urt,  i.  82
+Sept,  i.  25,  82, 107,166,
+
+178,  200,  435,  436  ;  ii.
+
+53,  249
+Sept  (city),  i.  443
+Sept  (god),  i.  100,  446;
+
+ii.  56,  340
+Sept  (nome  of),  i.  100,
+
+432,  498
+Sept,  star,  ii.  50,  215
+Sept,  symbol  of,  i.  499
+Sept-hra,  i.  228
+Sept-Hat,  i.  471
+Sept  (Isis),  ii.  213
+Sept,  ka  of  Ra,  ii.  300
+Sept -mast- en -Rerti,    ii,
+
+340
+Sept-mert-et,  ii.  251
+Sept-metu,  i.  225
+Sept  -  kheri  -  nehait  -  ami  -
+
+beq,  ii.  340
+Septet,  i.  83  ;  ii.  308
+Septet-uauau,  i.  182
+Septet  -  uauau  -  setet  -  sen-
+
+Ra,  i.  182
+Septit,  i.  432,  499
+Septu,  i.  521 ;  ii.  291
+Seqebet,  ii.  341
+Seqet-hra,  i.  176 ;  ii.  341
+
+
+INDEX
+
+
+423
+
+
+Ser,  i.  230
+Ser-aa,  ii,  139
+Seraa,  ii.  320
+Serapeum,  i,  523
+Serapeum,   ii.   47,  127 ;
+
+Egyptian  name   of,  i.
+
+513
+Serapeum  at  Sakkara,  ii.
+
+195,  350
+Serapeum  of  Het,  ii.  256
+Serapeum  of  Memphis,  ii.
+
+199
+Seraphim,  i.  6,7
+Serapis,  ii.  46,  195-201,
+
+349
+Serat-beqet,  ii.  340
+Seref-ur,  i.  82
+Serekh,  the,  i.  25  ;  illus-
+tration, i.  26
+Serekhi,  i.  419 ;  ii.  340
+Serem-taui,  i.  326
+Seres-hra,  ii.  340
+Serisa,  ii.  312
+Ser-kheru,    i.    419 ;    ii.
+
+340
+Serpent-god,  ii.  376
+Serpent    of    Sunrise    30
+
+cubits  long,  i.  24
+Serpent  made  by  Isis,  i.
+
+361 ;       seven  -  headed,
+
+i.  267  ;  speaks,  i.  19 ;
+
+30  cubits  long,  i.  20
+Serq,  i.  198
+Serqet,  i.  110,  198,  232,
+
+328,  456,  488 ;  ii.  26,
+
+184,    269,    312,    340,
+
+362,  377
+Serqet-hetu,  i.  82,  455
+Serqi,  i.  343 ;  ii.  320
+Sert,  ii.  306
+Sesenet-khu,  i.  211
+Seshaa,  i.  86
+Seshemet,  i.  468
+Seshem-Nethert,  i.  343
+Seshesh  (nome)  i.  97
+
+
+Sesheshet,  i.  31
+Seshet,  ii.  341
+Sesheta,    i.    422,    424,
+
+425 ;  ii.  213,  256,  341
+Sesheta    (1st    Circle),  i.
+
+238
+Sesheta  =  Nut,  ii.  106
+Seshetai,  i.  344;  ii.  320
+Seshetat,  ii.  202
+Seshet-kheru,  ii.  341
+Seshsha,  i.  198
+Sesi,  i.  196
+Sesme,  ii.  306
+Set,  i.  60,  82,  109,  110,
+
+455,  470,  475,  486  ;  ii.
+
+10,  25,  62,  63,  85,  92,
+
+97,106,109,122,123,
+
+124,  204,  210,  241-
+
+254,   283,   341,    354,
+
+356 ;     animal    of,    ii.
+
+243;     defeat     of,     i.
+
+477;  figures  of,  ii.  251 ;
+
+god  of  Mercury,  ii.  303 ;
+
+god  of  South,  ii.  243
+Set  and  Horus  fight,  i.
+
+488
+Set  animal,  i,  24
+Set  beings,  i.  160
+Set  beings,  inferior  and
+
+superior,  i.  84
+Set  festival,  i.  425
+Set-heh,  i.  255
+Set,  Ladder  of,  ii.  242
+Set  (nome),  i.  97
+Set  of  Oxyrynchus,  i.  98
+Set,  the  serpent,  i.  481
+Set,  the  snake,  i.  250
+Set-hra,  i.  192
+Set-kesu,  i.  419
+Set-Nephthys-Anubis,   i.
+
+114
+Set-Nubti,  ii.  251,  256
+Set-qesu,  ii,  341
+Set-usert-aa,  i.  447
+Setaa,  ii.  119
+
+
+Setaa-ur,  ii.  42
+Seta-ta,  i.  184
+Setcha,  i.  59,  60,  61
+Setcheh,  i.  23
+Setchet,  i.  180
+Setchet-gods,  i.  346
+Setcheti,  i.  347
+Seteb  girdle,  i.  331
+Setek,  ii.  341
+Setem,  God   of  hearing,
+
+ii.  298
+Setem,  ka  of  Ba,  ii.  300
+Seth,  ii.  246,  247
+Setkasetha,  i.  82
+Sethat,  ii.  56
+Sethe,  Prof.,  i.  330,  523
+Sethroites,  i.  96
+Setheniu-tep,  i.  201
+Seththa,  i.  82
+Sethu,  i.  196
+Seti  I.,  i.  290,  348,  364,
+
+370 ;  ii.  5,  33
+Seti   I.,  sarcophagus   of,
+
+i.  171, 178
+Seti  II.,  i.  348
+Seti   II.  Menephtah,  ii.
+
+251
+Setu,  i.  246
+Seven  Gates,  i.  273
+Seven  hawks,  i.  516
+Seven-headed  serpent,  i.
+
+267
+Seven  Scorpions  of  Isis,
+
+i.  488
+Seven  Spirits,  the,  i.  494
+Seven  Tablets  of  Creation,
+
+i.  290
+Sha,  a  mythical  animal,
+
+i.  60
+Bha-qa-em-Amen,  i.  331
+Shabu,  ii.  341
+Shadow  of  Khepera,i.  310
+Shadow  of  Tern,  ii.  88
+Shai,  i.  343 ;  ii.  317
+Shai,  Luck,  ii.  144
+
+
+424
+
+
+INDEX
+
+
+Skai-qa-eni-Annu,  i.  331
+Skaka-Amen-  Shakanasa,
+
+er-  katu  -Tem  -  seketck  -
+
+nef-taui,  ii.  19
+Shakanasa,  ii.  342
+Skamask,  i.  359
+Skapuneterarika,  ii,   19,
+
+341
+Sharpe,  i.  204
+Skareskarekket,    ii.    19,
+
+344
+Skareskareskapuneterari-
+
+ka,  ii.  341
+Skarskatkakatka,  ii.  21,
+
+342
+Skaskertet,  i.  483
+Skas-ketep,  i.  97 ;  ii.  148
+Skat  am  Tuat,  i.  174
+Skat  en  Sebau,  i.  175
+Ske-en-Sasa,  i.  47
+Skef-beti,  ii.  293
+Skefit,  ii.  342
+Skeft-hat,  ii.  51
+Skekbui  (S.  wind),  ii.  296
+Skema,  ii.  322
+Skemat-kku,  i.  244
+Skemertki,  i.  246
+Skemsu     Heru,    i.    84,
+
+158
+Skemti,  i.  194,  347
+Skenat-pet-utkeset-neter,
+
+ii.  342
+Skeneset,  ii.  374
+Ske-neter,  i.  481
+Skenit,  ii.  60
+Skent,  ii.  130
+Skentket,  ii.  25
+Skentkit,  ii.  184,  342
+Skent  tree,  i.  468
+Skentu,  ii.  35
+Ske-niu-aka,  i.  481
+Skenuti,  ii.  288
+Skep,  i.  492
+Skepes,  i.  234
+Skepet,  ii.  310
+
+
+Skepi,  i.   191,  343;    ii.
+
+320
+Skeps,  ii.  291
+Skeps,    ka    of     Ea,    ii.
+
+300
+Skeps  =  Tkotk,  i.  402
+Skepu,  i.  250
+Skeput,  ii.  359
+Skerem,  ii.  342
+Ske-Sasa,  i,  35
+Skesat-inaket-neb-s,    i.
+
+208
+Skesemu,  i.  38,  50
+Skes-en-mek,  i.  492
+Skesera,  i.  246
+Skeskemu,  ii.  34
+Skeskkentet,  i.  83,  514
+Skes-kkentet,  ii.  342
+Skesmu,  i.  83 ;  ii.  306
+Skesskes,  i.  196
+Skesu-Heru,  i.  158
+Sket,  i.  98
+Sketa,  i.  326 ;  ii.  297
+Sketa-ab,  i.  189
+Sketa-kra,  ii.  342
+Sketa-sketa- Ameni,  name
+
+of  Ea,  i.  345
+Sketa,  tke  Tortoise-god,
+
+ii.  376
+Sketa-kra,  i.  343
+Sketait,  i.  445
+Sketat-besu,  i.  200
+Sketat  (goddess),  i.  446
+Sketat  (Isis),  ii.  213
+Sketati,  i.  342
+Sketau,  i.  200
+Sketennu,  i.  470
+Sketenu,  i.  433
+Ske-Tesker,  i.  433
+Sketet,  ii.  357
+Sket-f-met-f,  ii.  322
+Sketku,  ii.  310
+Sket-kkeru,  i.  419
+Sketu,  i.  250,  252,  254
+Skibba,  i.  16
+
+
+Skiin'on   ben-Lakisk,
+276
+
+Skiskanim,  i.  7
+
+Skoulder  of  Osiris,  i.  468
+
+Skoulders  and  arms  r:
+Set,  i.  110
+
+Skrew  mouse,  ii.  369
+
+Sku,  i.  58,  82,  130,  260,
+305,  310,  340,  496,
+502;  ii.  1,87-94,  291,
+292,  302,  317,  342;
+birds  of,  i.  168  ;  kouse
+of,  ii.  93  ;  origin  of,
+i,  116 ;  palace  of,  ii.
+93 ;  pillars  of,  i.  332,
+353,  467;  ii.  107;
+seat  of,  ii.  93  ;  soul  of,
+ii.  65
+
+Sku  =  Air,  ii.  98
+
+Sku  and  Tefnut,  origin
+of,  i.  296,  297
+
+Sku-Aten,  ii.  71
+
+Sku-Kknemu-Ea,       357
+
+Sigkt,  god  of,  ii.  298
+
+Siket,  ii.  307
+
+Silsila,  ii.  356
+
+Silurus  fisk,  ii.  382
+
+Simon,  Saint,  i.  280
+
+Sinai,  ii.  290
+
+Sinope,  ii.  197,  198,  199
+
+Sipkirepsnikkieu,  i,  281
+
+Sisesme,  ii.  306
+
+Sisro,  ii.  306
+
+Sistrum,  tke,  i.  421
+
+Sit,  ii.  304
+
+Skull  =  goose,  i.  109
+
+Sky,  four  pillars  of,  i.  157
+
+Sky  Motker,  ii.  106
+
+Sky,  of  day  and  nigkt,  i.
+156
+
+Slatin  Paska,  quoted  i.  17
+
+Sma,  i.  110,  453
+
+Sma,  a  king,  i.  31
+
+Sma-Bekutet,  ii.  31,  35
+
+Sma-ta,  i.  347
+
+
+INDEX
+
+
+425
+
+
+Sma-ur,  i.  82
+
+Smai,  ii.  247
+
+Smaiu,  ii.  247
+
+Smam,  ii,  340
+
+Sniamti,  ii.  340
+
+Smaru-ur,  i.  504 ;  ii.  95
+
+Smat,  ii.  306
+
+Smen,  357
+
+Smen-Maat,  i.  513
+
+Srnermut,  i.  468
+
+Smentet,  i.  82
+
+Smetti,  ii.  340
+
+Smetu,  ii.  340
+
+Smour,  i.  281
+
+Smy,  ii.  246
+
+Snake,  i.  16
+
+Snake-god,  ii.  36
+
+Soane,  Sir  John,  i.  178
+
+Socharis,  ii.  117
+
+Sokkabrikher,  i.  281
+
+Soles  of  the  feet  =  Maati
+boat,  i.  110
+
+Solomon  of  Al-Basra,  i.  6
+
+Solon,  i.  332
+
+Sons  of  God,  i.  32
+
+Sosibius,  ii.  199
+Soteles,  ii.  199
+
+Sothis,  i.  58,  435,  436,
+488,  514,  517,  ii.  110,
+249
+Sothis,  ii.  308
+Soubaibai  Appaap,  i.  280
+Souchos,  ii.  354
+Soul,  a  name  of  Ra,  i.
+
+348
+Souls  of  Annu,  ii.  86,
+
+106
+Soul  of  Ra,  ii.  64
+Soul  of  Seb,  ii.  95
+Soul  of  Shu,  ii.  65
+Soul  One,  i.  342
+Soul  (gods),  i.  107
+Soul,  the  Hidden,  ii.  116
+Souls  of  East,  i.  351
+Souls  of  the  Tuat,  i.  208
+
+
+Souoni,  i,  281
+Souphen,  i.  281
+Southern  Wall,  i.  101
+Space,  primeval,  i.  288
+Spear    of    Khent  -  maati
+
+described,  i.  85
+Speos  Artemidos,  i.  432,
+
+517
+Sphinx,  i.  471,  472 ;  ii.
+
+69
+Sphinx  at  G-izeh,  i.  62
+Sphinx,  hawk-headed,  i.
+
+194
+Sphinx,  the,  ii.  361  ff.
+Sphinx-god,  i.  348
+Sphinxes,  i.  222
+Spirits    of    Horus,    the
+
+four,  ii.  121
+Spirits  of  Pe,  ii.  106
+Spirit    of   the    Nile,    i.
+
+10
+Spirits,  the  4,601,200,  i.
+
+164 ;  ii.  116
+Spirits,  universal,  i,  9  ff.
+Sptkhne,  ii.  305
+Square  of  Rhea,  ii.  253
+Sro,  ii.  306
+Stabl  al-Antar,  i.  517
+Staff  of  Hathor,  i.  436
+Staircase,  the  god  on,  i.
+
+191
+Standards    of    boats,    i.
+
+22
+Star  gods,  ii.  312
+Star-bearers,  i.  200
+Star-room,  i.  331
+Steering  pole,  i.  109
+Stepiu,  i.  198
+Stele  of  Canopus,  i.  448
+Steps,   the    god    on,  ii.
+
+117
+Story  of  the  Shipwreck,
+
+i.  20
+Strabo,   i.    96,   444;  ii.
+
+347,    350,    351,    352,
+
+
+353,355,  370;  quoted,
+i.  62
+Strassmaier,  Dr.,  ii.  316
+Stream  of  Osiris,  i.  212,
+
+214
+Succoth,  i.  99
+Sudan,  i.  22,  145
+Sudan,  the  Eastern,  i.  14,
+
+17
+Sudani  men,  i.  13
+Suez  Canal,  i.  484
+Sukati,  ii.  21,  339
+Sulla,  ii.  217
+Sumer,  i.  290
+Summer  Solstice,  ii.  264
+Sun,  fountain  of,  i.  331
+Sun-Egg,  ii.  95
+Sunnu,  ii.  51
+Sunrise,  Mountain  of,  i.
+
+79,  107,  156  ;  ii.  351,
+
+352,  356
+Sunset,   Mountain   of  i.
+
+351,  352
+Sunth,  i.  82
+Sut,  ii.  339
+Sutekh,  ii.  250,  278
+Sutekh     gods,    the,     ii.
+
+283
+Suten-henen,  i.  353,  365;
+
+ii.  58,  93,  148,  155
+Suten-taui,  i.  511
+Suti,  i.  497,  504 ;  ii.  26,
+
+241-254
+Swallow,  the,  ii.  373
+Sycamore,  ii.  107
+Sycamore  tree  of  Hathor
+
+and  Nut,  ii.  103
+Syene,  ii.  51,  365
+Syria,  i.  276 ;  ii.  12,  22,
+
+83  ;  god  of,  i.  198
+Syrian  influence  on  Egyp-
+tian religion,  i.  334
+Syrians,  ii.  23
+Syrians,  their  system  ol
+
+angels,  i.  6  ff.
+
+
+426
+
+
+INDEX
+
+
+Ta,  i.  241
+
+Ta-ahet,  ii,  22
+Ta-apt,  ii.  29
+Taat,  i.  497
+Ta-at-Nehepet,  ii.  213
+Ta-en-tarert,  i.  97
+Ta   ftu   Meskhenu    amu
+
+Abtu,  ii.  184
+Ta-her-sta-nef,  ii.  153
+Ta-hetchet,  ii.  261
+Ta-het-pa-Aten,  i.  513
+Tait,  i.  83,  432 ;  ii.  343
+Taiti,  ii.  343
+Ta-kehset,  ii.  255
+Ta-kens,  i.  401,  477 ;  ii.
+
+51
+Ta-kenset,  ii.  17
+Ta-kensetet,  i.  519
+Ta-khent,  ii.  133
+Ta-khent  (nome),  i.  96
+Tale  of  the  Two  Brothers,
+
+i.  19
+Talmis,  i.  401
+Tamai  al-Amdid,  ii.  64
+Tamarisk  tree,  ii.  189
+Ta-mes-tchetta,    i.    437;
+
+ii.  26
+Tamt,  i.  339
+Ta-neserser,  i.  192
+Ta-neter,  ii.  289
+Tanis,  i.  100,  473,  474,
+
+482,  484
+Tanites,  i.  96
+Tape,  ii.  3
+Tar,  i.  520
+Tarabil,  a  name  given  to
+
+Pyramids,  i.  14
+Ta-ret,  i.  419 ;  ii.  343
+Tarshishim,  i.  7
+Tartarus,  ii.  100
+Ta-sent,  ii.  65
+Ta-sent-nefert,  i.  431,468
+Ta-she  (Fayyum),  i.  98
+Ta-Shetet,  ii.  357
+Taste,  god  of,  ii.  299
+
+
+Tatau,  ii.  121  ff.
+Ta-tchesert,  i.  149,  410
+Ta-tchesertet,  i.  507  ;  ii.
+
+154,  155,  156
+Tatet,  i.  83,  432,  454
+Ta-thenen,  i.  339,  347 ;
+
+(serpent),  i.  230 ;   the
+
+Four  forms  of,  i.  238
+Ta-thunen,  i.  508
+Ta-thunenet,  i,  508
+Tattam,  i.  66
+Tattu,  i.  103,  104,  410,
+
+425
+Tattu  (Mendes),  ii.  157
+Tatuba,  i.  208,  210
+Ta-tunen,  i.  89, 131, 132,
+
+133,351,508;  ii.  343
+Tauith,  ii.  90
+Ta-ur,  i.  401
+Ta-urt,  ii.  30,  193,  269,
+
+285,  359
+Ta'ut,  ii.  289
+Tav0e,  i,  289
+Tawfan,  ii.  247
+Tchabu,  ii.  45
+Tchafi,  ii.  299
+Tchalu,  i.  100
+Tchapuna,  ii.  281
+Tchar,  i.  482,  484,  515
+Tchart,  i.  492
+Tcharu,  ii.  69,  70
+Tcha-Tuat,  i.  242
+Tchefa,    ka    of   Ea,    ii.
+
+300
+Tchefau,  ii.  216
+Tchefet,  ii.  62
+Tcheft  (Isis),  ii.  216
+Tcheftchef,  name  of  Ea,
+
+i.  344
+Tehehes,  ii.  344
+Tchemtch-hat,  ii.  317
+Tchen,  ii.  263
+Tchent,  ii.  25,  83
+Tchenteru,  i.  83
+Tchenti,  i.  347
+
+
+Tcheqfi,  i.  99  ;  triad  of,
+
+i.  113
+Tcher-khu,  i.  241
+Tchert  (city),  ii.  27
+Tchertet,  ii.  24
+Tcherutet,  i.  433
+Tcheruu,  ii.  344
+Tchesef,  i.  177
+Tcheser  (king),  ii.  52,  53,
+
+54
+Tcheserit,  i.  196
+Tcheser-shetat,    ii.   301,
+
+302
+Tchesert,  i.  168  ;  ii.  344
+Tcheser-tep,  i.  23,  419 ;
+
+ii.  344,  363
+Tcheser-tep-f,  i.  49, 138;
+
+ii.  34
+Tchenttchenter,  i.  83
+Tchestcheset,  ii.  22
+Tchet-s,  i.  252
+Tchetbi,  i.  184
+Tchetemet,  i.  479
+Tchetut,  ii.  213
+Tears   of    Khepera,    the
+
+origin  of  men,  i.  312
+Teb,  i.  96
+f  eb,  city  of,  ii.  206
+Teb-her-kehaat,  i.  176
+Teb-hra-keha-at,  ii.  344
+Teba,  i.  83
+Teba,  i.  244
+Tebat,  i.  241
+f  ebati,  i.  343  ;  ii.  317
+Tebat-neteru-s,  i.  238
+Tebt  (Tanis)  i.  473
+Tebut,  i.  97
+Teeth  =  Souls  of  Annu,
+
+i.  109
+Tefen,  i.  83,  487 ;  ii.  92,
+
+206,  207
+Tefer-Tem,  i.  514
+Tefnet,  i.  115 ;  ii.  92
+Tefnut,  i.  58,  83,  305,
+
+310,  341,  463,  515;
+
+
+INDEX
+
+
+427
+
+
+ii.  1,  66,  87-94,  317,
+
+343
+Tefnut,  Aat  of,  ii.  93
+Tefnut,  House  of,  ii.  93
+Tefnut,  origin  of,  i.  116
+Tefnut  -  Nebuut  -  Sekhet  -
+
+Net,  ii.  357
+Tefnut-Seb-Nut,  i.  240
+Tehut  (nome),  i.  100
+Tehuti,   i.   83,  113 ;  ii.
+
+26,  289,  302,  343
+Tehuti,  derivation  of,  i.
+
+402
+Tehuti-Hapi,  ii.  343
+Tehuti -khenti-Tuat,    i.
+
+226
+Teka,  i.  437
+Tekaharesapusaremkaka-
+
+remet,  i.  519
+Teka-hra,  i.  186
+Tekem,  ii.  343
+Tekemi,  i.  186
+Teken-en-Ka,  ii.  322
+Tekh,  i.  516
+Tekh-heb,  ii.  292
+Tekhi,  ii.  292
+Tekhni,  i.  370
+Teleute,  ii.  187,  256
+Tell    al  -  Maskhutah,     i.
+
+353
+Tell   el-'Amarna,  ii.  23,
+
+72
+Tell  el-Kebir,  i.  353
+Telmes,  ii.  288
+Tern,  i.  33,  46,  83,  92,
+
+180,   182,   184,  203,
+
+330;  ii.  1,  25,  34,  66,
+
+87,  98,  115,  210,  244,
+
+289,  317
+Tern,  Eye  of,  i.  305
+Tern,  or  Teniu,  i.  349  ff.
+Tern  =  Osiris,  ii.  139
+Tern  ka  khat   paut  aat,
+
+ii.  183
+Tem-Asar,  i.  354
+
+
+Tern-Harmachis,  i.  352
+Tem-Heru-khuti,  i.  338,
+
+352*,  354
+Tern  Horus,  i.  351
+Tem-Iusaaset-Nefer-Tem ,
+
+i.  450
+Tem-Khepera,  i.  332
+Teni-Khepera-Shu,  i.  238
+Tem-kheprer,  i,  83
+Tem-Ka,  i.  92,  109
+Tem-sep,  i.  419  ;  ii.  343
+Tem-Thoth,  i.  412
+Temau,  i.  246
+Temretut,  i.  493
+Temt,  ii.  7
+Temt,  counterpart  of  Tern,
+
+i.  446
+Temt  (Hathor),  i.  431
+Temt-hatu,  i.  343
+Terutemtch,  ii.  317
+f  emtet,  i.  241
+Temtith,  i.  232
+Temtu,  i.  244
+Temu,  i.  88,  107,  254,
+
+340,  471,  489;  ii.  4,
+
+8,  18,  157,  343
+Temu  =  Bull    of    his
+
+mother,  i.  363
+Temu  -  H  eru  -  khuti  -  Khe-
+
+pera,  i.  353
+Temu  of  Succoth,  i.  99
+Temu-Heru-khuti,  i.  417
+Temu-Khepera,  ii.  11
+Ten  (king),  i.  506
+fen  (nome),  i.  31,  97
+Tena,  ii.  344
+Tena  basket,  ii.  5
+Tena  Festival,  ii.  128
+Tenait,  ii.  343
+Tenanu,  i.  84
+Tenemit,  ii.  343
+Tenen,  i.  508
+Teni,  i.  232
+Tenith,  i.  232
+Tenpu,  ii.  344
+
+
+Tent,  i.  200
+Tent-baiu,  i.  212,  521
+Tenten,  i.  83
+Tentit-uhes-qet  -  khat-ab,
+
+i.  246
+Tentyrites,  i.  96
+Tep,  i.  88,  454 ;  ii.  56,
+
+117
+Tep-ahet,  i.  98,  432,  433
+Tepa-kenmut,  ii.  304
+Tepa-khentet,  ii.  305
+Tepa-semt,  ii.  306
+Tepan,  i.  222
+Tepeh-tchat,  i.  513
+Tephet-shetat,  i.  230
+Tepi,  i.  194,  242
+f  ep-nef,  i.  515
+Tepthera,  i.  246
+Tep-tu-f,  ii.  263
+Tepu,  i.  211,  410
+Tepui,  i.  252
+Ter,  i.  224
+Termes,  ii.  288
+Terrifier,  the   Great,  ii.
+
+119
+Tes-aha-Ta-thenen,     i.
+'  240 '
+Tes  -  am  -  mit  -  em-sheta-  f,
+
+i.  242
+Tes-ermen-ta,  i.  241
+f  esert-ant,  i.  244
+Tesert-baiu,  i.  203
+Tesher,  ii.  344
+Tesher-maati,  ii.  129
+Tesher-maati  -  ammi-het-
+
+Anes,  i.  494
+Teshtesh,  ii.  343
+Tes-khaibit-tuatiu,      i.
+'  241
+
+Tes-khem-baiu,  i.  240
+Tes-khu,  i.  241,  259
+Testes,  Lake  of,  i.  335,
+
+339
+Tes-Ra-kheiti-f,  i.  241
+Tes-sekkem-aru,  i.  241
+
+
+428
+
+
+INDEX
+
+
+Tes-sept-nestu,  i,  241
+Tes  -  sheta  -  em  -  thehen-
+
+neteru,  i.  240
+Tes-sma-kekui,  i,  241
+Tet  (Edfu),  i.  478
+f  et,  ka  of  Ea,  ii.  330
+Tet  =  Osiris,  ii,  139
+Tet,  pillar  of,  ii,  131
+Tet,  the,  ii.  129
+Tet,  the  double,  i.  410
+Teta,  i.  22,  32,  33,  37
+Tetet,    daughter   of  Ea,
+
+i.  432
+Tethys,  ii.  217
+Tetteta,  i,  524
+Tettu,  ii,  121  ff.
+Tettu  (Mendes),  ii.  116
+Thales,  i,  332
+Thanasa,  ii.  344
+Thanasa-Thanasa,  ii.  21
+Thapu-Arenuta,  ii.  283
+Tharnakhakhan,  i.  280
+That  (Isis),  ii.  213
+Thebes,  i.  31,  431,  492,
+
+523  ;  ii.  3,  12,  21 ;  of
+
+100  gates,  i.  1 ;  of  the
+
+Delta,  ii.  31 ;  triad  of,
+
+i.  114
+Theb-ka  (uome),  i.  100
+Theb-neter,  i.  100
+Thebti,  i.  488
+Thehennu,  ii.  25
+Theket,  i.  99
+Thekshare  -  Anien  -  Eere-
+
+thi,  ii.  20
+Themaru,  i.  259
+Themath,  i.  248
+Themat-hert,  ii.  304
+Themat-khent,  ii.  305
+Themehu,  i.  304
+Themes  -  en  -  khentet,    ii,
+
+05
+Then-aru,  i.  345 ;  ii.  320
+Thenemi,  i.  419, 445 ;  ii.
+
+344
+
+
+Thenen,  i.  523
+Thenenet,  i.  431 ;  ii.  213
+Thenenet  (Isis),  ii.  216
+Thenit,  i.  97
+Then-neteru,  i.  257
+Thenti,  i.  344 ;  ii.  317
+Theodosius,  ii.  351
+Theogony  of  Heliopolis,
+
+i.  116
+Therer,  i.  492
+Thernops,  i.  280
+Theropsin,  i.  280
+Thes-Hertu  (nome),  i,  96
+Thes-hrau,  i.  246
+Thest-ur,  ii,  344
+Thesu,  i.  246
+Theta-enen,  ii.  317
+Thet  amulet,  ii.  215
+Thetet,  i.  486  ;  ii.  206,
+
+207
+Thethu,  i.  23
+Thi,  Queen,  ii.  69,  70
+Thigh  in  heaven,  i.  35
+Thigh  of  Set,  ii.  250
+Thigh,  the,  ii.  249
+Thighs  =  Nit    and    Ser-
+
+qet,  i.  110
+Thinites,  i.  96
+This,  i.  431
+Thmoui,  ii.  66
+Thmuis,  ii.  22,  51,  64,
+
+354
+Thobarrabau,  i.  280
+Thomas,  St.,  i.  280
+Thompson,  Mr.  E.  Camp-
+bell, i.   359;  ii.  282,
+316
+Thosolk,  ii.  308
+Thoth,  i.  9,  20,  34,  36,
+37,  95,  98,  100,  113,
+190,  196,  324,  336,
+369,    400    ff.,   421,
+427,  477,  482,  516;
+ii.  33,  85,  125,  129,
+140,   156,  204,  210,
+
+
+211,  244;  angels  of,
+ii.  119 ;  as  recording-
+angel,  i.  408  ;  Books
+of,  i.  414,  415  ;  in  the
+judgment,  ii.  145  ;  on
+his  staircase,  i.  211 ;
+the  intelligence  of  God,
+i.  150
+
+Thoth  and  Osiris,  i.  410
+
+Thoth  Horus,  i.  413
+
+Thoth  Trismegistos,  i.
+401
+
+Thothmes  I.,  ii.  285
+
+Thothmes  III.,  i.  142;
+ii.  23,  278
+
+Thothmes  IV.,  i.  471,
+472 ;  ii.  69
+
+Thrissa  fish,  ii.  382
+
+Throne  of  iron,  i.  58
+
+Thrones  (angels),  i.  6
+
+Thuau,  ii.  69
+
+Thueris,  ii.  193
+
+Thuket,  i.  353
+
+Thunder,  i.  414
+
+Thuthu,  wife  of  Ani,  ii.
+143
+
+Tiamat,  i.  18,  277-279,
+288,  291;  ii.  314;
+caught  in  a  net,  i.  407
+
+Tiele,  Prof.,  i.  136,  137,
+138
+
+Tigris,  i.  277
+
+Tim,  ii.  289
+
+Time,  primeval,  i.  288
+
+Timotheus,  ii.  217 ;  the
+Interpreter,  ii.  199
+
+Tithorea,  ii.  218,  219
+
+To-day,  ii.  99,  123
+
+Tom,  ii.  304
+
+Tombs  of  the  Kings,  i.
+178
+
+Tongue  =  steering  pole,
+i.  109
+
+Toothache,  incantation
+against,  i.  360
+
+
+INDEX
+
+
+429
+
+
+Topheth,  i.  273
+Tortoise,  i,  254 ;  ii.  376
+Totems,  i.  27
+Toua,  i.  280
+Touch,  god  of,  ii.  296
+Tpebiou,  ii.  307
+Tpekhonti,  ii.  305
+Tpekhu,  ii.  307
+Tree  gods,  i.  116
+Trees,  talking,  i.  19
+Tree-trunk  of  Osiris,  ii.
+
+124,  125
+Tree     worship     in     the
+
+Sudan,  i.  17
+Triad,  the,  i.  114  ff.
+Triangle,  the,  ii.  252
+Tribal  ancestors,  i.  27,  28
+Trocho'ides,  i.  452
+Trolls,  i.  12
+Tua-Heru,  i.  248,  254
+Tua-khu,  i.  248
+Tuamu,  ii.  316
+Tuamutef,    i.    83,    198,
+
+456;  ii.  129,  145,  344
+Tuamutef  =  East,  i.  158
+Tuamutef,  son  of  Horus,
+
+i.  491,  492
+Tua-mut-f,  ii.  184
+Tuat,  i.  158,  510,  511 ;
+
+ii.  14,  51,  77,  97,  105,
+
+131 ;    divisions    of,   i.
+
+176  ff. ;  paut  of,  i.  91
+Tuat,  the  Book  of  that
+
+which  is  in,  i.  174  ff.
+Tuat,   the,    described,  i.
+'  171  ff.
+
+Tuatet-niaket-neb-s,    i.
+'  242
+
+Tuati,  i.  259  ;  ii.  317
+Tuati,  a  god,  i.  343
+Tuau  =  To-day,    ii.    99,
+
+361
+Tu-f  (nome),  i.  98
+Tu-menkh-rerek,  ii.  344i
+Tun-abui,  ii.  322
+
+
+Tunep,  ii.  23
+Tun-pehti,  i.  176  ;  ii.  344
+Tuphium,  ii.  357
+Tu-qa-aat,  i.  178
+Tu-qat,  i.  97
+Turquoise,  sycamores  of,
+
+ii.  107
+Turrupa,  i.  326
+Turtle,  i.  24 ;  ii.  376
+Tushratta,  ii.  279
+Tut-ankh-Amen,  ii.  83,
+
+84
+Tutu,  i.  326,  463,  464
+Tutu-f,  i.  419 ;  ii.  343
+Tu-ui,  Hathor  of,  i.  434
+Twin-gods,  i.  148
+Tybi,  ii.  63
+
+Tylor,  Prof.  E.  B.,  i.  29
+Typho,  ii.  187, 189,  192,
+
+200
+Typhon,  i.  422;   ii.  92,
+
+124,  125,  354,  361;
+
+names  of,  ii.  246
+Tzetzes,  ii.  96
+
+
+Ua,  ii.  327
+
+Ua-ab,  i.  180
+
+Uaau,  i.  176;  ii.  327
+
+Uab  (nome),  i.  98
+
+Uafet,  i.  513
+
+Uahu,  i.  80
+
+Uai,  i.  326
+
+Uaipu,  ii.  327
+
+Uak  festival,  ii.  149
+
+Uakh,  i.  168
+
+Uamemti,   i.    198,   419;
+
+ii.  327
+Uart,  ii.  121
+Uart-neter-semsu,  ii.  327
+Uas  (nome),  i.  31
+Ua  seqeb  em  HetBenben,
+
+ii.  183
+Uash,  ii.  25
+Uash-ba,  i.  344
+
+
+Uash-neter,  ii.  310
+Uasri,  ii.  113
+Uast,  i.  492 ;  523
+Uast,  city,  i.  97
+Uast  (nome),  i.  97
+Uatchet,  i.  24,  92,  93,
+
+100,   329,    431,  432,
+
+441  ff.,  479,  483  ;  ii.
+
+8,  48,  71,  104,  289
+Uatchet  (nome),  i.  97
+Uatchet-Isis,  i.  440
+Uatchit,  i.  24;  ii.  292,
+
+327
+Uatchit  (Isis)  ii.  213
+Uatch,    ka    of    Ka,    ii.
+
+300
+Uatch-Maati,  ii.  327
+Uatch-nes,  i.  419
+Uatch-Nesert,  ii.  327
+Uatch-ura,  ii.  47  ;  Lake
+
+of,  ii.  60
+Uatchti  goddesses,  ii.  8,
+
+11
+Uauaa,  i.  161
+Uauat,  i.  477
+Uben,  i.  345 ;  ii.  320
+Uben-An,  i.  345
+Ubes-hra-per-em-khet-
+
+khet,  i.  494;  ii.  327
+Ufa,  i.  23
+Ui,  ii.  327
+Un  (god),  ii.  114  ;  nome
+
+of,  i.  98,  426
+Un-hat,  ii.  328
+Un-nefer,   i.    149,   427,
+
+475;  ii.  114, 138, 145;
+
+hymn  to,  i.  153
+Un-nefer-Heru-khuti,
+
+502 ;  ii.  154
+Un-nefer  (Osiris),  i.  490
+Un-nefer,  son  of  Nut,  ii.
+
+154
+Unas,  i.  22,  23,  32,-33 ;
+
+ii.  8,  32,  33,  34,~43  ;
+
+hunts,  kills,  and  eats
+
+
+430
+
+
+INDEX
+
+
+gods,  i.  34  ff,  ;  on  the
+
+Ladder,  ii.  242
+Underworld,  the,  ii.  105,
+
+170  ff. ;  Paut  of,  i.  91
+Unen-nefer,  ii.  328
+Unnu,    i.    405;   ii.   107
+
+251;   city  of,  i.   426;
+
+the  Hare-god,  ii.  371
+Unnu-Meht,  i.  88
+Unnu-Eesu,  i.  88
+Unnut,  ii.  327 ;  goddess,
+
+ii.  371 ;  city,  ii.  371  ;
+
+counterpart  of  Thoth,
+
+i.  426
+Unnut-netchtet,  i.  200
+Unpepet  -  ent  -  Het  -  Heru,
+
+ii.  327
+Unt,  i.  161
+Unt  (Xth  Aat),  i.  178
+Unti,  ii.  154,  328
+Unti  (Apep),  i.  326
+Unti  (god),  ii.  114
+Unti,  star-god,  i.  198
+Uraeus,  early  worship  of,
+
+i.  24
+Ur-at,  ii.  328
+Ur-gu-la,  ii.  316
+Ur-hekau,  ii.  328
+Ur-heket,  ii.  292
+Ur-mah,  ii.  316
+Ur-maat,  ii.  328
+Ur-maat-s,  ii,  328
+Ur-inaau,  ii,  73
+Ur-mertu-s-tesker-  sheni,
+
+ii.  328
+Ur-mer,  ii.  351
+Ur-nes,  i.  208
+Ur-pehui,  ii.  328
+Ur-sheps-f,  i.  80  ;  ii.  197
+Ur-sun,  i.  458
+Ur-tenten,  i.  480
+Ur-Uatchti,  i.  483
+Ureret  Crown,  ii.  154
+Urit,  i.  401
+Urshiu,  ii.  320
+
+
+Urshiu,  a  god,  i.  347
+Urshiu,  the  Watchers,  i.
+
+347
+Urshu  of  Pe,  i.  84
+Urshu  of  Nekhen,  i.  84
+Urt,  i.  80, 101,  230,  456
+Urt-ab,  ii.  139
+Urt-Apset,  i.  432
+Urt-hekau,  i.   80,   456;
+
+ii.  Ill,  256,  362
+Urt-sekhemus,  i.  216
+Urti  goddesses,  ii.  116
+Us,  a  nome,  i.  31
+Us-ar  (Osiris),  ii.  113
+Usekk-hra,  ii.  328
+Usekh-nemt,  ii.  328
+Usekht-Maati,  ii.  128
+Usekht-neinniat,  i.  419
+User,  ii.  113
+User-ab,  ii.  328
+User-ba,  ii.  328
+Userkaf,  i.  329,  330
+Usert,  i.  80 ;  ii.  85,  328
+Usert  (Isis),  ii.  213,  216
+Usert-heqet,  i.  432
+Usertsen  I.,  i.  330
+Usit,  i.  248
+Usoos,  ii.  281
+Usr-Ea,  ii.  113
+Usr,  ka  of  Ea,  ii.  300
+Ustha,  ii.  305
+Utcha-ba-f,  i.  101
+Utcha-re,  ii.  328
+Utchat  of  Thoth,  i.  413  ;
+
+of  Ea,  i.  413
+Utchat-Heru,  the  official,
+
+i.  458
+Utchat,  seat  of,  ii.  155
+Utchat  -  sekhet  -  ur  t-hent-
+
+neteru,  i.  519
+Utchatet,  i.  436
+Utchati,  i.  160
+Utch-re,  ii.  263
+Utennu,  ii.  268
+Utemm  beings,  i.  160
+
+
+Utennu  gods,  i.  83,  84
+Utet-heh,  ii.  60,  328
+Uteti,  i.'  346
+Utet-tef-f,  ii.  322
+Uthes,  i.  80
+Utu,  i.  246
+Utu-rekhit,  i.  145,  419 ;
+
+ii.  328
+Uu,  ii.  291
+
+
+Veda,  i.  135
+
+Venus,   i.    224;    ii.    97,
+
+100,  218,  253,  303
+Vespasian,  ii,  217
+Vesta,  ii.  253
+Vine  of  heaven,  i.  165
+Vine  speaks,  i.  19
+Virey,  quoted,  ii.  278
+Virgin  Mary  and  Isis,  ii.
+
+220,  221
+Vulcan,  i.  501
+Vulture,  early  worship  of,
+
+i.  24
+Vulture,  the,  ii.  372
+
+
+Wadi  er-Eababi,  i.  373
+Wadi  Hammamat,  i.  485
+Wadi  Sabu'a,  ii.  22
+Wall  of  Hell,  i.  171
+Walls,  a  name  of  Mem-
+phis, i.  514
+Wasps  (evil  spirits),  i.  15
+Watchers     of     Pe     and
+
+Nekhen,  i.  161
+Water,  i.  288
+Water  gods,  i.  116
+Weighing  of  words,  i.  36
+West,    horn  of,    i.    205;
+Mountain  of,    i.    179;
+Souls  of,  i.  107 ;  Spirits
+of,  ii.  356
+Westcar  Papyrus,  i.  329
+Wheat  of  Horus,  ii.  118
+
+
+INDEX
+
+
+431
+
+
+White  Crown,  i.  39,  53;
+
+ii.  8,  26,  130,  151
+White  Nekhen,  i.  439
+White  Wall,  i.  125,514;
+
+ii.  148
+Wiedemann,  ii.  97,  285
+Wilbour,  Mr.  C,  ii.  52
+Wind-gods,  i.    202;    ii.
+
+295,  296
+Wine  of  the  gods,  i.  58
+Wings  of  angels,  i.  5
+Winter  Solstice,  ii.  264
+Wolf,  the,  ii.  366
+Women      in      Egyptian
+
+heaven,  i.  166
+Words  of  power,  i,  13
+Word-soul,  i.  340
+
+
+Words,   weighing   of,    i.
+
+408
+World-body,  ii.  299
+World-Soul,  ii.  299
+Worm   of  Babylonia,  i.
+
+359
+Worm,  the,  i.  202
+Workshop  of  Ptah,  i.  501
+
+
+Xarmarokh,  i.  266
+Xois,  i.  99,  432  ;  ii.  22
+
+Xoites,  i.  96
+
+
+Yahweh,    i.    137,    141,
+278 ;  ii.  74
+
+
+Yannai,  i.  276
+Ya'uth,  ii.  289
+Yesterday,  ii.  99,  123
+
+
+Zabara,  Mount,  ii.  281
+
+Zagoure,  i.  280
+
+Zenei,  i.  281
+
+Zenodotus,  i.  289
+
+Zibanitum,  ii.  316
+
+Zodiac  of  Dendera,  ii.
+312
+
+Zodiac,  origin  of,  ii.  312-
+314
+
+Zodiac,  Signs  of,  Egyp-
+tian, ii.  315
+
+Zorokothora,  i.  280
+
+
+PRINTED   Bf    GILBERT   AND    RIV1NG10N,    LTD.,    SI'.    JOIN'S    HOUSE,    CLERKEX  WELL,    LONDON,    E.C.
+
+
+BL2441.B927V.2
+
+The  gods  of  the  Egyptians;  or,  Studies
+
+Princeton  Theological  Semmary-Speer  Library
+
+
+1    1012  00034  3618
+
+
+DATE  DUE
+
+Demco,  Inc.  38-293
+

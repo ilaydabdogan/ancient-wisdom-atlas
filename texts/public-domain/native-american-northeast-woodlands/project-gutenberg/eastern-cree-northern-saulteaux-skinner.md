@@ -65,97 +65,6 @@ figures:
 
 # Notes on the Eastern Cree and Northern Saulteaux
 
-This is a digital copy of a book that was preserved for generations on library shelves before it was carefully scanned by Google as part of a project
-to make the world's books discoverable online.
-
-It has survived long enough for the copyright to expire and the book to enter the public domain. A public domain book is one that was never subject
-to copyright or whose legal copyright term has expired. Whether a book is in the public domain may vary country to country. Public domain books
-are our gateways to the past, representing a wealth of history, culture and knowledge that's often difficult to discover.
-
-Marks, notations and other marginalia present in the original volume will appear in this file - a reminder of this book's long journey from the
-publisher to a library and finally to you.
-
-Usage guidelines
-
-Google is proud to partner with libraries to digitize public domain materials and make them widely accessible. Public domain books belong to the
-public and we are merely their custodians. Nevertheless, this work is expensive, so in order to keep providing this resource, we have taken steps to
-prevent abuse by commercial parties, including placing technical restrictions on automated querying.
-
-We also ask that you:
-
-+ Make non-commercial use of the files We designed Google Book Search for use by individuals, and we request that you use these files for
-personal, non-commercial purposes.
-
-+ Refrain from automated querying Do not send automated queries of any sort to Google's system: If you are conducting research on machine
-translation, optical character recognition or other areas where access to a large amount of text is helpful, please contact us. We encourage the
-use of public domain materials for these purposes and may be able to help.
-
-+ Maintain attribution The Google "watermark" you see on each file is essential for informing people about this project and helping them find
-additional materials through Google Book Search. Please do not remove it.
-
-+ Keep it legal Whatever your use, remember that you are responsible for ensuring that what you are doing is legal. Do not assume that just
-because we believe a book is in the public domain for users in the United States, that the work is also in the public domain for users in other
-countries. Whether a book is still in copyright varies from country to country, and we can't offer guidance on whether any specific use of
-any specific book is allowed. Please do not assume that a book's appearance in Google Book Search means it can be used in any manner
-anywhere in the world. Copyright infringement liability can be quite severe.
-
-About Google Book Search
-
-Google's mission is to organize the world's information and to make it universally accessible and useful. Google Book Search helps readers
-discover the world's books while helping authors and publishers reach new audiences. You can search through the full text of this book on the web
-
-
-at |http : //books . google . com/
-
-
-UM. tTH . SkC 3^h
-
-
-HARVARD UNIVERSITY
-
-
-LIBRARY
-
-OP THE
-
-PEABODY MUSEUM OF AMERICAN
-ARCHAEOLOGY AND ETHNOLOGY
-
-Gift of
-
-Alanson Skinner
-
-
-Digitized by
-
-
-Google
-
-
-Digitized by
-
-
-Google
-
-
-Digitized by
-
-
-Google
-
-
-Digitized by
-
-
-Google
-
-
-Digitized by
-
-
-Google
-
-
 ANTHROPOLOGICAL PAPERS
 
 
@@ -184,22 +93,10 @@ Published by Order of the Trustees.
 1911.
 
 
-Digitized by
-
-
-Google
-
-
 y
 
 
 / ^
-
-
-Digitized by
-
-
-Google
 
 
 ANTHROPOLOGICAL PAPERS
@@ -272,12 +169,6 @@ Fire Making 33
 
 
 1
-
-
-Digitized by
-
-
-Google
 
 
 2 Anthropological Papers American Museum of Natural History. [Vol. IX,
@@ -489,12 +380,6 @@ WAR 164
 MORTUARY CUSTOMS 166
 
 
-Digitized by
-
-
-Google
-
-
 ►
 
 
@@ -587,12 +472,6 @@ Page.
 31. A snow Shovel 51
 
 
-Digitized by
-
-
-Google
-
-
 1911.] Skinner y The Eastern Cree. 5
 
 Page.
@@ -648,19 +527,7 @@ Page.
 56. A bear Pole. Drawn from a Photograph 162
 
 
-Digitized by
-
-
-Google
-
-
 %
-
-
-Digitized by
-
-
-Google
 
 
 INTRODUCTIOxN.
@@ -695,12 +562,6 @@ form, rather than to shelve them away to be forgotten.
 New York,
 
 October, 1911.
-
-
-Digitized by
-
-
-Google
 
 
 ►
@@ -749,12 +610,6 @@ With the latter they have been on terms of enmity until well within the
 last century, when peace was brought about by the intercession of the
 Hudson's Bay Company. It is probable that occasional broils have occurred
 with practically all of their neighbors save the Ojibway. The Eastern Cree
-
-
-Digitized by
-
-
-Google
 
 
 1911.] Skinnier f The Eastern Cree. 9
@@ -811,13 +666,7 @@ occupied the region where they now dwell. Within late prehistoric times
 1 Franklin, 56, makes a similar statement.
 
 
-Digitized by
-
-
-Google
-
-
->
+)
 
 
 10
@@ -838,12 +687,6 @@ wapiscat River that it has nearly reached Hudson's Bay, and except along
 the coast, has almost cut off the York Cree from their Albany neighbors.
 Iroquois raids in former times no doubt drove a portion of the Eastern Cree
 northeast into Labrador from the more bountiful game fields further south.
-
-
-Digitized by
-
-
-Google
 
 
 1911.] Skinner, The Eastern Cree. 11
@@ -901,11 +744,6 @@ you, becomes tc, and the / is omitted, as tela, you.
 
 1 Turner, 267.
 
-Digitized by
-
-
-Google
-
 
 V
 
@@ -959,15 +797,9 @@ Formerly, many lodges were built of caribou skins. So far as could be
 misquotation to the effect that a crotched pole was used. — Ed.
 
 
-Digitized by
-
-
-Google
-
-
 1911.] Skinner, The Eastern Cree. 13
 
-learned, these were not se^<^ed together to form a single cover as in the case
+learned, these were not se^(^ed together to form a single cover as in the case
 of the Plains tipis, but were laid over the poles somewhat after the fashion
 of the small pieces of canvas shown in the wigwam in Plate 1. These
 lodges were often ornamented with paintings which had the value of property
@@ -1012,12 +844,6 @@ in the ground and the other is arched over until it touches the ground where
 it is also driven in and made fast. Others are bent over this transversely
 and then all are bound together where they intersect, until there are about
 iifteen tiers. The frame is covered with canvas, bark, or skins. These
-
-
-Digitized by
-
-
-Google
 
 
 i
@@ -1068,12 +894,6 @@ clothing of the old style.
 In spite of the wide range separating the localities where some of my
 informants dwell, their information shows that the styles of clothing used
 in former times were remarkably uniform. Under these circumstances
-
-
-Digitized by
-
-
-Google
 
 
 1911.] Skinner, The Eastern Cree. 15
@@ -1127,12 +947,6 @@ fying that the garment possessed the powers of speed, endurance, or cunning
 Mackenzie, 66.
 
 
-Digitized by
-
-
-Google
-
-
 16
 
 
@@ -1143,12 +957,6 @@ O
 
 
 A
-
-
-Digitized by
-
-
-Google
 
 
 1911.]
@@ -1218,12 +1026,6 @@ jtv/^rr
 Coat of Woven Rabbit-
 
 
-Digitized by
-
-
-Google
-
-
 i
 
 
@@ -1247,12 +1049,6 @@ ornamented with quill-work and fringe; the bottom is also fringed, and
 fancifully painted as high as the knee. As it is very loose, it is enclosed
 round the waist with a stiff belt, decorated with tassels, and fastened behind.
 The arms are covered to the wrist, with detached sleeves, which are sewed
-
-
-Digitized by
-
-
-Google
 
 
 1911.]
@@ -1302,12 +1098,6 @@ who had obtained it many years ago at Fort George.
 1 Mackenzie. 66.
 
 
-Digitized by
-
-
-Google
-
-
 i
 
 
@@ -1352,12 +1142,6 @@ in this and other types.
 save that the toe seam ends in a short transverse seam over the toe where
 the sides are puckered to it in a manner suggesting the name. In the
 specimens collected for the Museum there is a welt between the vamp and
-
-
-Digitized by
-
-
-Google
 
 
 1911.] Skinner, The Eastern Cree, 21
@@ -1412,12 +1196,6 @@ used as a sign of strength. A series of such designs (Fig. 7) as well as
 2 Mackenzie, 66 et. sea-
 
 
-Digitized by
-
-
-Google
-
-
 i
 
 
@@ -1427,12 +1205,6 @@ i
 Fig. 7. Types of Face Decoration: a Scars as the signs of bravery and valor In battle;
 6 Representing different kinds of fish as a prayer for a future supply; c The bear and the bear
 foot as a symbol of power; d The loon*fox, and beaver, a prayer for success in hunting.
-
-
-Digitized by
-
-
-Google
 
 
 1911.] Skinner, The Eastern Cree, 23
@@ -1488,12 +1260,6 @@ a Franklin, 64.
 s Mackenzie, 65.
 
 
-Digitized by
-
-
-Google
-
-
 24 Anthropological Papers American Museum of Nalural History. [Vol. IX,
 
 Mackenzie, " Their hair is divided on the crown, and tied behind, or some-
@@ -1539,12 +1305,6 @@ or three feathers, but they were never feathered with a twist.
 
 
 » Mackenzie, 66.
-
-
-Digitized by
-
-
-Google
 
 
 1911.1 SkinneTy The Eastern Cree, 25
@@ -1593,12 +1353,6 @@ of poles with rags tied to them. The poles were arranged to form the two
 sides of a triangle, the hunter hiding at the apex. The deer approaching
 the open base are frightened by the poles and run along between the lines
 until they come to the apex where the hunter is able to fire at them at close
-
-
-Digitized by
-
-
-Google
 
 
 i
@@ -1661,12 +1415,6 @@ Fig. 8 (50-6977). Wood-
 en Spoon. Length, 32 cm.
 
 
-Digitized by
-
-
-Google
-
-
 1911.] Skinner, The Eastern Cree. 27
 
 were frequently killed in their winter dens in this manner. At present,
@@ -1716,12 +1464,6 @@ willow root bark, but now of twine. However, the Indians at present gen-
 erally prefer to buy their nets ready-made from the Hudson's Bay Company.
 They are set along the banks of rivers, especially at the mouths of streams.
 Two specimens secured at Moose Factory are in the collection. The sink-
-
-
-Digitized by
-
-
-Google
 
 
 i
@@ -1787,12 +1529,6 @@ evenly. The spit is set obliquely, very close to the fire. Deer, moose,
 and caribou hearts are often suspended from a tripod by a string, the meat
 
 
-Digitized by
-
-
-Google
-
-
 1911.J • Skinner^ the Eastern Cree. 29
 
 secured to the string by means of a skewer. This is swung close to the fire
@@ -1839,12 +1575,6 @@ described is generally employed when traveling. When meat has been hastily
 dried in this manner by a traveling party, the Indians often stop canoeing
 more than usually early in the day in order to erect a hasty scaffold and
 repeat the process during the evening and ensuing night. Smoked meat
-
-
-Digitized by
-
-
-Google
 
 
 30 Anthropological Papers American Museum of Naiural History. [Vol. IX^
@@ -1899,12 +1629,6 @@ Moose Factory. As wooden spoons are apparently no longer used there
 1 See Vol. V, 45.
 
 
-Digitized by
-
-
-Google
-
-
 1911.]
 
 
@@ -1957,12 +1681,6 @@ Fig. 11 (50-6981), Small Wooden Cup.
 Depth, 5 cm.
 
 
-Digitized by
-
-
-Google
-
-
 32
 
 
@@ -1989,12 +1707,6 @@ melting the snow over the fire.
 
 
 Fig. 1.3 (50-6987). Firedrill and Carrying Bag.
-
-
-Digitized by
-
-
-Google
 
 
 1911.] Skinnery The Eastern Cree, 33
@@ -2048,12 +1760,6 @@ scraper with or without teeth often takes its place to the westward. When
 ' For illustration see Fig. 42.
 
 
-Digitized by
-
-
-Google
-
-
 34
 
 
@@ -2085,12 +1791,6 @@ with the fumes. The tanning is now completed unless it is desired to make
 the leather waterproof , when it is soaked in the liquor of boiling willow bark
 which serves fairly well. Nowadays, skins are seldom tanned with the
 fur, but the method is similar except that the scraping process is omitted.
-
-
-Digitized by
-
-
-Google
 
 
 1911.1 Skinner, The Eastern Cree. 35
@@ -2139,12 +1839,6 @@ the "coil without foundation" variety, which is in common use among
 various Athapascan peoples.
 
 To make a coat, that part of the garment which covers the trunk is
-
-
-Digitized by
-
-
-Google
 
 
 i
@@ -2198,17 +1892,11 @@ The object of the game is to toss the bones in the air and catch them on
 1 Franklin, 65.
 
 
-Digitized by
-
-
-Google
-
-
 1911.1 Skinner, The Eastern Cree. 37
 
 the striking pin, the count being as follows: — each individual bone, count-
 ing away from the striking pin, 1, 2, 3, 5, 10. If more than one bone is
-caught> the player receives the sum of. the counts granted for each bone.
+caught) the player receives the sum of. the counts granted for each bone.
 If the pin penetrates the hole at the posterior of the condyle, 50; of the
 anterior, called "the back of the neck,'' 40; the right side and left sides,
 known as " the ears," 20, and 30, respectively. The caribou hair is known
@@ -2254,11 +1942,6 @@ at him, which he attempted to dodge or ward off.
 
 
 1 Dr. F. G. Speck has observed the bow guu used by Montagnais boys.
-
-Digitized by
-
-
-Google
 
 
 38 Anthropologiccd Papers American Museum of Natural History. [Vol. IX,
@@ -2313,12 +1996,6 @@ smaller, and there seem to be no rules.
 I Turner, 326.
 
 
-Digitized by
-
-
-Google
-
-
 1911.] Skinner, The Eastern Cree. 39
 
 A number of English or European games, especially cards, are much
@@ -2358,12 +2035,6 @@ very much shorter, and that the string or thong from the bowl to the stem.
 
 1 McGulre, 479.
 « Turner, 302.
-
-
-Digitized by
-
-
-Google
 
 
 i
@@ -2426,12 +2097,6 @@ entered the enclosure and danced about the conjuror.
 partook of the nature of a dance.
 
 
-Digitized by
-
-
-Google
-
-
 1911.1
 
 
@@ -2488,12 +2153,6 @@ center is a large dot surrounded by a circle of others. A row of large dots
 Fig. 18 (50-7005). A Drum. Diameter, 44 cm.
 
 
-Digitized by
-
-
-Google
-
-
 42
 
 
@@ -2547,12 +2206,6 @@ in rolls for canoe and tent-making. Now, however, most canoes and
 wigwams are covered with canvas purchased from the Hudson's Bay Corn-
 
 
-Digitized by
-
-
-Google
-
-
 1911.] Skinner, The Eastern Cree. 43
 
 pany. At Rupert's House, in 1908, there was not a single birchbark canoe,
@@ -2603,12 +2256,6 @@ The snowshoes in vogue on the coast are short, light, and flat at the ends.
 They are all made expressly for running and jumping or when following the
 
 
-Digitized by
-
-
-Google
-
-
 44
 
 
@@ -2635,12 +2282,6 @@ ing in deep snow in the forest. For teaching children to use snowshoes,.
 small round "bear's foot" type shoes are used. The pair here shown
 (Fig. 22) came from Rupert's House. Chisels of beaver teeth were once
 used in perforating the framework of snowshoes.
-
-
-Digitized by
-
-
-Google
 
 
 1911.]
@@ -2680,12 +2321,6 @@ used (Fig. 25). To this
 
 Fig. 24 (50-7052). The Maxilla of
 a Lynx for untying Snowshoe Laces.
-
-
-Digitized by
-
-
-Google
 
 
 46
@@ -2734,9 +2369,6 @@ A minia-
 
 
 Fig. 27 (50-8082). A decorated Basket made of Birchbark. Length, 26 cm.
-
-
-Digitized by
 
 
 ; Google
@@ -2792,12 +2424,6 @@ tree meaning an old person, and a young sapling, a child. The number of
 trees so marked, indicates the number of deaths.
 
 
-Digitized by
-
-
-Google
-
-
 48 Anthropological Papers American Museum of Natural History. [\^ol. IX,
 
 A signal for the convocation of all the neighboring Indians is made by
@@ -2842,12 +2468,6 @@ wigwam for bedding. The laying of these boughs on the wigwam floor is called, "s
 the brush."
 
 2 Harmon, 321.
-
-
-Digitized by
-
-
-Google
 
 
 1911.]
@@ -3014,12 +2634,6 @@ Virginia deer.
 « Mackenzie, 73.
 
 
-Digitized by
-
-
-Google
-
-
 50
 
 
@@ -3047,12 +2661,6 @@ Fig. 28 (50-7059). Bag made of Caribou Leg skins. Length. 48 cm.
 
 by the writer looked as if the hair had been removed, but as close examina-
 tion was not possible, it may be that this was the result of attacks by moths.
-
-
-Digitized by
-
-
-Google
 
 
 1911.]
@@ -3139,12 +2747,6 @@ Case. Length, 6 cm.
 Needle
 
 
-Digitized by
-
-
-Google
-
-
 i
 
 
@@ -3186,11 +2788,6 @@ purposes.
 
 
 Fig. 34 (50-7845). Snow Spectacles.
-
-Digitized by
-
-
-Google
 
 
 1911.1 Skinnerj The Eastern Cree, 53
@@ -3240,12 +2837,6 @@ cross, the two perpendicular bars being represented in each case by five dots
 (Fig. 35a). This design occurs on the skins of animals, where it is placed
 
 
-Digitized by
-
-
-Google
-
-
 54
 
 
@@ -3282,7 +2873,7 @@ ooooo 000
 AAA-; -AM
 
 
-nYr)( i )nyiy i )(i)a> a^
+nYr)( i )nyiy i )(i)a) a^
 
 
 /\/V\/\A/V ^
@@ -3304,12 +2895,6 @@ to propitiate the spirits of the game and thus insure future abundance of
 the food supply.
 
 The second use of painting is realistic and economic, and consists of life
-
-
-Digitized by
-
-
-Google
 
 
 1911.] Skinner, The Eastern Cree. 55
@@ -3363,12 +2948,6 @@ oraDge was obtained from the willow. Dark pmT)le was secured by boiling willow r
 and bark together.
 
 
-Digitized by
-
-
-Google
-
-
 i
 
 
@@ -3416,12 +2995,6 @@ the father's line and there were no marriage restrictions.
 
 Owing to the scarcity of food, permanent village communities could not
 exist, as the Eastern Cree are obliged to scatter through the forest, a family
-
-
-Digitized by
-
-
-Google
 
 
 1911.] Skinner f The Eastern Cree. 57
@@ -3474,12 +3047,6 @@ if she has one; or he may, if he pleases, have them both at the same time." ^
 
 1 Mackenzie, 68.
 * Mackenzie, 67.
-
-
-Digitized by
-
-
-Google
 
 
 58 Anthropological Papers American Museum of Natural History, [Vol. IX,
@@ -3535,12 +3102,6 @@ severity of their labour is much diminished by their situation on the banks of l
 » Mackenzie, 67.
 
 
-Digitized by
-
-
-Google
-
-
 1911.] Skinner, The Eastern Cree. 59
 
 and rivers, where they employ canoes. In the winter, when the waters are frozen,
@@ -3570,12 +3131,6 @@ thickly veneered it with Christianity that it is well nigh impossible to obtain
 
 
 I Mackenzie, 68.
-
-
-Digitized by
-
-
-Google
 
 
 any information in regard to their old beliefs. Certain it is that they were, i |
@@ -3652,12 +3207,6 @@ revealed to the novice. The process to be followed in order for a youth
 to gain admission into the midewin, was as follows: —
 
 
-Digitized by
-
-
-Google
-
-
 1911.] Skinner^ The Eastern Cree. 61
 
 The young man, when he reached the proper age for him to take up the
@@ -3708,12 +3257,6 @@ was there anyone present except the old shaman and possibly a few other
 1 Jones, (a). 183-186.
 
 
-Digitized by
-
-
-Google
-
-
 62 Anthropological Papers American Museum of Natural History, [Vol. IX^
 
 members of the society. The ceremonies opened with the singing of songs,
@@ -3761,12 +3304,6 @@ head bent to the ground.
 
 When the secrets of the second order had been revealed the member
 became a miteo (wizard) and had all the powers of the Kwosapatcikewin
-
-
-Digitized by
-
-
-Google
 
 
 1911.] Skinner J The Eastern Cree. 63
@@ -3827,12 +3364,6 @@ These skins belong to all kinds of animals, snakes, badgers, wolves, mink, coyot
 
 
 1 Petitot. 477.
-
-
-Digitized by
-
-
-Google
 
 
 64 Anthropological Papers American Museum of Natural History. [Vol. IX,
@@ -3898,12 +3429,6 @@ Why have you taken me away from the pleasures of the Earth of Spirits and of the
 celestial hunt?'
 
 
-Digitized by
-
-
-Google
-
-
 1911.] Skinner, The Eastern Cree. 65
 
 'What have you seen, oh brother, what have you seen?' the people around him
@@ -3956,12 +3481,6 @@ The Cree in turn went through the same ceremony with the Ojibway.
 
 
 I Petitot, 477-^83.
-
-
-Digitized by
-
-
-Google
 
 
 CG Anthropological Papers American Museum of Xatural History. [Vol. IX,
@@ -4021,12 +3540,6 @@ voice. 'My Brothers,' said ho, 'the Great Spirit has deigned to hold a Talk with
 his servant at my earnest request. He has not, indeed, told me when. the persons
 
 
-Digitized by
-
-
-Google
-
-
 1911.] Skinner, The Eastern Cree. 67
 
 we expect will be here, but tomorrow, soon after the sun has reached his highest
@@ -4078,12 +3591,6 @@ A white man residing at East main River Fort informed the writer that
 1 Carver, 78.
 
 
-Digitized by
-
-
-Google
-
-
 68 Anthropological Papers American Museum of Natural History. [Vol. IX,
 
 on one occasion, wishing to see just how the shaking of the lodge and the
@@ -4120,7 +3627,7 @@ acquired or it will exert its influence tQ prevent its species from being taken
 TSy Indian hunters.^ On this account khe^ones of the beaver are carefully
 cleaned and cast into the running water whence they came in order that
 the dogs may not get them. The heads of geese and ducks, the te eth of
-moose and caribou, and the claws and chins of the bear are sayed y They <
+moose and caribou, and the claws and chins of the bear are sayed y They (
 form not only an offering to the spirit of the animal from which they were \\
 taken, but serve as talismen for the owners, and trophies or tallies of the
 chase as well.l The skin of every animal taken is decorated with vermilion
@@ -4136,9 +3643,6 @@ with the Cree.
 
 
 • Digitized by
-
-
-Google
 
 
 1911.] Skinner, The Eastern Cree, 69
@@ -4192,12 +3696,6 @@ as a feast in the lodge of the slayer. In any event, they are carefully
 cleansed, saved, and hung up, or placed on a scaffold where the dogs cannot
 
 
-Digitized by
-
-
-Google
-
-
 70 Anthropological Pa])€rs American Museum of Natural History. [Vol. IX,
 
 reach them. If wild animals, other than dogs, reach and devour them, no
@@ -4217,12 +3715,6 @@ and hung up on a tree in the forest.
 ; 'Formerly, the Cree of Moose Fort, instead of smoking over the carcass of
 a dead bear, like those of the Eastmain, went through the following cere-
 mony : —
-
-
-Digitized by
-
-
-Google
 
 
 \/
@@ -4278,12 +3770,6 @@ on the Cattaraugus Reserve, New York. Tliis time a bear's head was not obtainabl
 chunk of salt pork was used.
 
 
-Digitized by
-
-
-Google
-
-
 72
 
 
@@ -4327,12 +3813,6 @@ Fig. 38. Fig. 39.
 
 Fig. 38 (50-7041). A String of Bearskin Charms.
 Fig. 39 (50-7031). A Ring of Bear Claws.
-
-
-Digitized by
-
-
-Google
 
 
 1911.] Skinner, The Eastern Cree. 73
@@ -4385,9 +3865,6 @@ hunters are indebted for their lives. The whites of the James Bay region
 call these ceremonial, or sacrificial posts, "Indian flagpoles".
 
 
-Digitized by
-
-
 /Google
 
 
@@ -4395,11 +3872,6 @@ Digitized by
 
 
 Fig. 40 (50-7039, 7038, 7058). A Series of hunting Charms.
-
-Digitized by
-
-
-Google
 
 
 1911.] Skinner, The Eastern Cree. 75
@@ -4452,12 +3924,6 @@ both localities. - *
 V
 
 
-Digitized by
-
-
-Google
-
-
 76 Anthropological Papers American Museum of Natural History. [Vol. IX^
 
 The Indians believe that all animals are speaking and thinking beings,
@@ -4505,12 +3971,6 @@ sticking plaster and sometimes small quantities taken internally.
 « For the few ideDtificatioDS here made; and in fact for all those used here and elsewhere
 in this paper, the writer is indebted to Mr. Waldron De Witt Miller of the Department of
 Ornithology of this Museum.
-
-
-Digitized by
-
-
-Google
 
 
 1911.] Skinner, The Eastern Cree. 77
@@ -4573,12 +4033,6 @@ of several different sizes were hung outside in the evening. The shaman
 • Mackenzie. 74.
 
 
-Digitized by
-
-
-Google
-
-
 78 Anthropological Papers Atnerican Museum of Natural History. [Vol. IX,
 
 then returned to his lodge and beat the drum all night singing and praying.
@@ -4590,7 +4044,7 @@ up. The shaman alone knew the use of his medicines and no one else
 could be successful with them. With these magic medicines even amputa-
 tions and injuries could be cured.
 
-No attempt is made to cure or attend the insane. x\s an idiot is i>opu-
+No attempt is made to cure or attend the insane. x\s an idiot is i)opu-
 larly supposed to be possessed of an evil spirit, the unfortunate wretch is
 usually killed. To this day such an execution usually takes the form of
 burning at the stake.
@@ -4624,12 +4078,6 @@ them. Unlike the Northern Saulteaux, the Eastern Cree did not change
 their names prior to going into battle. The war cry (Saskweo) was some-
 times given at the order of the chief, who cried, "Saskwek!'* (Give the
 war cry.) War cries are still given when shooting rapids. Scalping was
-
-
-Digitized by
-
-
-Google
 
 
 1911.] Skinner f The Eastern Cree. 79
@@ -4689,12 +4137,6 @@ the chief enlarges on the causes which have called them together, and the necess
 1 Rupert's House dialect.
 
 
-Digitized by
-
-
-Google
-
-
 80 Anthropological Papers American Museum of Natural History. [Vol. IX,
 
 of the measures proposed on the occasion. He then invites those who are willing
@@ -4740,12 +4182,6 @@ are concluded by a feast. The body is dressed in the best habiliments possessed 
 the deceased, or his relations, and is then deposited in a grave, lined with branches:
 
 1 Mackenzie, 69.
-
-
-Digitized by
-
-
-Google
 
 
 1911.] Skinner^ The Eastern Cree, 81
@@ -4796,12 +4232,6 @@ differ from the Sauk and Fox, who delight in short succinct narratives; but
 
 I Mackenzie. 68.
 * Mackenzie, 74.
-
-
-Digitized by
-
-
-Google
 
 
 82 Anthropological Papers American Museum of Natural History. [Vol. IX,
@@ -4857,12 +4287,6 @@ that our data from the northern tribes are less complete.
 » A series of good examples of this dismembering may be foimd in Russell, 201 .
 
 
-Digitized by
-
-
-Google
-
-
 1911.] Skinner, The Eastern Cree. 83
 
 WlSAGATCAK.^
@@ -4913,12 +4337,6 @@ said to the other animals, "Well, the ground must now be big enough for
 » Albany Cree.
 
 
-Digitized by
-
-
-Google
-
-
 84 ArUhropoloffical Papers American Museum of Natural History. [Vol. IX,
 
 US to live on." Beaver asked Wis^gatcak. " How are we going to live?
@@ -4932,7 +4350,7 @@ earth over the raft to get a log from it; but the earth was now so great
 he could not find any trace of his raft. WTien Wisdgatcak failed to get even
 a stick he said to Beaver, "Well, I'll make a creek for you, and you may
 live on the roots of the grass until trees grow up." That is why Beaver
-eats certain white roots to this day although his pro|>er diet is bark.
+eats certain white roots to this day although his pro|)er diet is bark.
 
 WTien Wis^gatcak had built the creek for Beaver, he dwelt in it. After
 a while, Wisagatcak came back and found that Beaver had dug trenches
@@ -4967,12 +4385,6 @@ managed to kick him squarely in the rump. This accounts for the peculiar
 shape of the loon's rump bone to-day.
 
 Then thought Wisagatcak to himself, "I wonder how I can cook all
-
-
-Digitized by
-
-
-Google
 
 
 1911.] Skinner^ The Eastern Cree. 85
@@ -5025,12 +4437,6 @@ game and spoiling his hunting.
 At length, Wisagatcak began to starve because he could not approach
 
 
-Digitized by
-
-
-Google
-
-
 86 Anthropological Papers American Museum of Natural History [\^ol. IX,
 
 the game. "Don't make any more noise," said he to his rump, "and I'll
@@ -5081,12 +4487,6 @@ grease calming the water.
 victim until he got fat in the fall.
 
 
-Digitized by
-
-
-Google
-
-
 1911.] Skinner, The Eastern Cree. 87
 
 " Now, I will eat my bear," said Wisdgatcak. He began to eat, but he
@@ -5135,9 +4535,6 @@ Prostratam mulierem, vestibus sublatis genitalibas conspectis, stupravit.
 Ilia exclamavit, "Wisagatcak me interficit!" Tunc sorores eum detrahere,
 "minime mihi malum facit." Cum Wisagatcak cam stuprasset, mulier
 iterum cum eo coire voluit, sed sorores quare tantam ex novo ludo cepit
-
-
-Digitized by
 
 
 Google'
@@ -5192,12 +4589,6 @@ were frightened lest they could not escape. They saw some large animal
 2 A cannibal or W^tigo.
 
 
-Digitized by
-
-
-Google
-
-
 1911.] Skinner, The Eastern Cree. 89
 
 (Walrus) in the lake and they called to him to take them across. Walru.s
@@ -5249,12 +4640,6 @@ saw him, she said, "So you are bringing another one home to kill." Wem-
 ishus had brought the boy to be her husband, for he had already become a
 
 
-Digitized by
-
-
-Google
-
-
 90 Anthropological Papers American Museum of Natural History. [Vol. IX,
 
 So the older brother took the girl to wife and lived with her for a while.
@@ -5301,12 +4686,6 @@ He sat there feeling very much frightened. He could not take his eyes off
 the young man. "No wonder you feel sad," said his daughter, "you
 always used to be trying to beat someone, but now you have someone to
 beat you." The old man had nothing to say, so to divert attention he
-
-
-Digitized by
-
-
-Google
 
 
 1911.] Skinner, The Eastern Cree. 91
@@ -5359,12 +4738,6 @@ about his parents, he partly believed. " Did you ever look in the water to
 see yourself?" said the older brother. "Yes," replied the younger. "Did
 
 
-Digitized by
-
-
-Google
-
-
 92 Anthropological Papers American Museum of Natural History. [Vol, IX^
 
 you see that scar on your face? Do you remember the root that caught you
@@ -5412,12 +4785,6 @@ you think I am not going fast enough, strike on my horns (tusks) and let me
 
 
 Or Aiswgo. Rupert's House Cree. also Moose Factory.
-
-
-Digitized by
-
-
-Google
 
 
 1911.1 Skinner, The Eastern Cree. 93
@@ -5470,12 +4837,6 @@ not like the looks of their elbows.
 in the w^ater and that a gull pitied him and carried him ashore.
 
 
-Digitized by
-
-
-Google
-
-
 94 Anthropological^ Papers American Museum of Natural History. [Vol. IX^
 
 He thought of a plan by which he might dupe the old women into killing
@@ -5524,12 +4885,6 @@ my son to walk on." But the boy kicked them away. "I have come a
 long way," said he, "with only my bare feet to walk on."
 
 
-Digitized by
-
-
-Google
-
-
 1911.1 Skinner, The Eastern Cree. 95
 
 That night, the boy sang a song about the burnmg of the world and the
@@ -5576,12 +4931,6 @@ laughing. One of the crawfish then said, "I believe that that Otter is
 moving." Crawfish, who had been pulling the punk out of Otter's rectum
 
 1 Albany Cree.
-
-
-Digitized by
-
-
-Google
 
 
 96 Anthropological Papers American Museum of Natural History. [Vol. IX,
@@ -5633,12 +4982,6 @@ As the animals were fleeing, they came to Beaver's camp. They all
 1 Albany version.
 
 
-Digitized by
-
-
-Google
-
-
 1911.] Skinner, The Eastern Cree. 97
 
 went in and begged for food. Beaver always has plenty of food in his camp
@@ -5688,18 +5031,12 @@ it with his mouth. He held on so that Skunk could not fire. He shouted
 to all the animals for help and they all ran out. Then Otter took his tail
 
 
-Digitized by
-
-
-Google
-
-
 98 Anthropological Papers American Museum of Natural History. [Vol. IX,
 
 and stabbed Big Skunk with it as though it had been a spear, right through
 the body.
 
-Lynx got a bad cramp when he was running to the sj>ot so that he could
+Lynx got a bad cramp when he was running to the sj)ot so that he could
 not move, but one of the animals returned and cured Lynx so he recovered
 and coming up grabbed Big Skunk by the neck and finished him.
 
@@ -5743,12 +5080,6 @@ piled up the wood and leaped over it, and it blazed up.
 Next morning, they found a deer track and followed it. They noticed
 something in the snow, and at last they found a deer-killing implement.
 Thev came to a lake and killed the deer there. Then they divided it into
-
-
-Digitized by
-
-
-Google
 
 
 1911.] Skinner, The Eastern Cree. 99
@@ -5801,12 +5132,6 @@ done so before, when they were starving. However, she gave him some fat,
 and told him to close his eyes while he ate it. The wolves hit him with the
 
 
-Digitized by
-
-
-Google
-
-
 100 Anthropoloffical Papers American Museum of Naturcd History. [Vol. IX,
 
 "bowl" ^ of the frozen inner stomach. Wolverene cried out in pain, but
@@ -5853,12 +5178,6 @@ and found it dead, split from head to tail by his arrow. In its belly he
 sometimes used as a cooldng utensil by the Eastern Cree.
 * Moose Fort Cree. Told by Tom Bain, imperfect.
 « Narrated by Joe Iserhoflf.
-
-
-Digitized by
-
-
-Google
 
 
 1911.] Skinner, The Eastern Cree. 101
@@ -5913,12 +5232,6 @@ dose to the pot if she likes to see the grease come up."
 Tcikdpis had a bladder full of grease under his coat, and when the old
 
 
-Digitized by
-
-
-Google
-
-
 102 Anthropological Papers American Museum of Natural History. [Vol. IX,
 
 woman threw him in the pot he let it bubble up. It began to boil soon.
@@ -5967,12 +5280,6 @@ reach it and was devoured by a fish. By and by, his sister missed him and
 
 
 1 Narrated by Willie Archibald.
-
-
-Digitized by
-
-
-Google
 
 
 1911.] Skinner, The Eastern Cree. 103
@@ -6026,12 +5333,6 @@ home and told his sister. She said, "That is the path where the sun walks
 over night." Tcikapis got some string from his sister and made a snare.
 
 
-Digitized by
-
-
-Google
-
-
 104 " Anthropological Papers American Museum of Natural History, [Vol. IX,
 
 In the morning, when the sun came along it was caught. There was no
@@ -6078,12 +5379,6 @@ There was a man in the olden days who tried every female animal to
 see who was the smartest to work that he might keep her to live with him.
 
 1 Narrated by Joe Iserhoflf.
-
-
-Digitized by
-
-
-Google
 
 
 1911.] Skinner, The Eastern Cree, 105
@@ -6133,12 +5428,6 @@ He lived with her for a while. At last, he became careless. One time,
 towards the spring (it was not yet summer) he was leading the way through
 the forest. She followed, hauling the tent utensils. At last, he crossed a
 valley that did not look as though water would ever run through it. He
-
-
-Digitized by
-
-
-Google
 
 
 106 Anthropological Papers American Miiseum of Natural History. [Vol. IX,
@@ -6191,12 +5480,6 @@ to make holes in the bank which they never knew about before.)
 At last, the brother found the holes in the bank and killed the beaver
 
 
-Digitized by
-
-
-Google
-
-
 1911.] Skinner, The Eastern Cree. 107
 
 wife in one of them. Later still, he found her husband. He was almost
@@ -6247,12 +5530,6 @@ The rabbit even jumped into the water, but the man pulled him out and
 1 Rupert's House.
 
 
-Digitized by
-
-
-Google
-
-
 108 Anthropological Papers American Museum of Natural History, [Vol. IX,.
 
 drained the water oflP him. He said his legs were too long and even if he
@@ -6298,16 +5575,10 @@ to war with the Cannibals. The spirits repUed that if he had a mind to go
 he would be victorious. Kanweo at once got his people together. . The
 
 
-> There are, according to the narrator, other stories about Aiacciou, the elder, who waft
+) There are, according to the narrator, other stories about Aiacciou, the elder, who waft
 burnt.
 
 * Rupert's House.
-
-
-Digitized by
-
-
-Google
 
 
 1911.] Skinner, The Eastern Cree. 109
@@ -6360,12 +5631,6 @@ able looking. Right enough, he went off that day. He jv^as looking for
 1 A "sword arrow" Is one having a pointed pile, or head, set in the shaft.
 
 
-Digitized by
-
-
-Google
-
-
 110 Anthropological Papers American Museum of Natural History. [Vol. IX,.
 
 beaver, trying to find where the beaver were. He took nothing with him
@@ -6416,12 +5681,6 @@ that he would mark which was not close to where he was going to have the
 battle. K^nw^o went there first, before the rest, where the beaver were.
 
 
-Digitized by
-
-
-Google
-
-
 1911.] Skinner, The Eastern Cree. Ill
 
 He marked the creek whete they were going to stake it in. Then he saw
@@ -6469,12 +5728,6 @@ could overcome him.
 Kanweo told her to come and. see the old man's body which Kanweo
 had pulled to the hole they had made. He was not on the ice but his head
 was out of the water. Kanweo used his })ody as one of the stakes to shut
-
-
-Digitized by
-
-
-Google
 
 
 112 Anthropological Papers American Museum of Natural History, [Vol. IX,
@@ -6528,12 +5781,6 @@ Albany Cree story.
 » Albany Cree.
 
 
-Digitized by
-
-
-Google
-
-
 1911.] SHnner, The Eastern Cree. 113
 
 Then Wolf came up and broke up the first hole. Then he saw the second
@@ -6585,12 +5832,6 @@ martial stories of the Plains and Woodlands. While very abundant and popular, on
 given as it is typicai enough to give an idea of all those heard It is from the Albany Cree.
 
 
-Digitized by
-
-
-Google
-
-
 114 Anthropological Papers American Museum of Natural History. [Vol. IX,
 
 He knew at once it came from Osnaburg (a Hudson's Bay Company Post),
@@ -6605,7 +5846,7 @@ eating people. At last, they came to one family who was very poor and
 was starving. Then the young man said, "Father, I'll stay here and go
 off and hunt for the people. We will fatten them up and kill them." His
 father said it was well. The young man hunted for three days and all the
-deer's meat he got he gave to those i>eople. He stayed with them for a
+deer's meat he got he gave to those i)eople. He stayed with them for a
 week. One day, he went off and found his father. He told him he had
 seen a big tent full of people which he had not entered. His father said,
 "We will go to-morrow morning to see them." The young man told the
@@ -6638,12 +5879,6 @@ his medicine that they must be near by. He could not find them although
 
 
 1 Albany Cree.
-
-
-Digitized by
-
-
-Google
 
 
 1911.] Skinner, The Eastern Cree. 115
@@ -6694,12 +5929,6 @@ her if they could run a rapid and she said that she could. At Iroquois Falls
 NotohowSyo. "men coming to us by water in canoes."
 
 
-Digitized by
-
-
-Google
-
-
 116 Anthropoloffical Papers American Museum of Natural History, [Vol. IX.
 
 she told them that they could shoot it, if the women and goods were taken
@@ -6709,12 +5938,6 @@ they saw the dangerous spot but they could not. They headed their canoe
 towards the falls and sang their war songs. They were all drowned. One
 tried to escape from an eddy, and the woman shoved him out when he tried
 to land and he drowned.
-
-
-Digitized by
-
-
-Google
 
 
 II. THE NORTHERN SAULTEAUX.
@@ -6768,12 +5991,6 @@ were bound with red flannel. This was at Owen Sound on Georgian Bay, Lake Huron.
 • Jones. Peter 138.
 
 
-Digitized by
-
-
-Google
-
-
 lis AnUirapologicdL Papers American Museum of Saiural History. [V6L. IX,
 
 the Ojibway. They occupy die r^ion north of Lake Superior and east
@@ -6814,12 +6031,6 @@ is absolutely unknown and any infectious disease, such as smallpox or
 syphilivS would sweep them away in short order.
 
 i Eighty died during the La Grippe epidemic of 1908-9.
-
-
-Digitized by
-
-
-Google
 
 
 1911.] Skinner, The Northern Savlteaux, 119
@@ -6868,12 +6079,6 @@ and was built of split poles set on end, the chinks being closed with moss.
 
 In the dome-shaped and conical lodges, the place of honor for a guest
 was called "wekwondesen", or "the center of the side", and was at the back
-
-
-Digitized by
-
-
-Google
 
 
 120 Anthropological Papers American Museum of Natural History, [Vol. IX,
@@ -6925,12 +6130,6 @@ roof was built for the ceremony but no good description of this could be
 obtained.
 
 
-Digitized by
-
-
-Google
-
-
 1911.] Skinner^ The Northern SauUeaux, 121
 
 
@@ -6976,12 +6175,6 @@ to come back by the spirits (to die). If however, the holes are cut in the
 soles of the shoes, it is obliged to tell the spirits that its moccasins are in no
 condition for it to journey over the long road which separates the present
 from the hereafter.
-
-
-Digitized by
-
-
-Google
 
 
 122 Anthropological Papers American Museum of Natural History. [Vol. IX,
@@ -7030,12 +6223,6 @@ white strouds was cut after the fashion of the older garments. Leggings
 were shaped like trousers, but broad at the top and narrow at the bottom,
 and sometimes beaded or ornamented. Breechclouts, blankets, capotes,
 (no shirts), and angular beaded caps became the style for men. Garters,
-
-
-Digitized by
-
-
-Google
 
 
 1911.]
@@ -7088,12 +6275,6 @@ used by the Eastern Cree.
 Nowadays, the Saulteaux wear the modern variety (Fig. 4 Id) of which a
 
 
-Digitized by
-
-
-Google
-
-
 124 Anthropological Papers American, Museum of Natural History. [Vol. IX^
 
 number of specimens were collected. These are made in both high and low
@@ -7143,12 +6324,6 @@ used by young men to attract the attention of the women, and not for war-
 like purposes. These figures were continually renewed until they answered
 
 
-Digitized by
-
-
-Google
-
-
 1911.] Skinner, The NoHhem Satdteaux. 125
 
 lie purpose of a permanent design. They were generally dbne in red, which
@@ -7186,12 +6361,6 @@ portion of the Joint remains on one specimen in the collection, quite similar to
 Vol. y, 69, a widely distributed Plains type. As this joint seems to serve no practical pur-
 pose its occurrence among the Saulteaux and not among the Eastern Cree. suggests cul-
 tural contact with Plains tribes. — Ed.
-
-
-Digitized by
-
-
-Google
 
 
 126 Anthropological Papers American Museum of Natural History. [Vol. IX^
@@ -7236,12 +6405,6 @@ gathered for trade, cured except by scraping and drying.
 Sturgeon skin to be used for moccasin-making and other purposes is
 removed and dried. It is kept in this condition indefinitely. When wanted
 for use it is soaked in water to render it pliable.
-
-
-Digitized by
-
-
-Google
 
 
 1911.1
@@ -7305,12 +6468,6 @@ Post, caribou skins, tanned with the hair, take the place of floor mats.
 Fig. 45 (50-7948). Detail of a Straw Mat.
 
 
-Digitized by
-
-
-Google
-
-
 128 Anihropoloffical Papers American Miueum of Natural History. [VoL IX,
 
 Fabrics and woven bags are unknown, although the Saulteaux may have
@@ -7342,12 +6499,6 @@ in their origin, are woven with the wooden netting needle, and are similar to
 those found among the Eastern Cree. A needle of larger size is used to
 make the border. Snowshoe nets are woven with bone or wooden needles.
 Babiche is used for the web but when it is scarce, strips of sturgeon skin or
-
-
-Digitized by
-
-
-Google
 
 
 1911.
@@ -7413,12 +6564,6 @@ Diameter, 30 cm.
 from the Ojibway graves in northern Michigan.
 
 
-Digitized by
-
-
-Google
-
-
 130 Anthropological Papers American Mttaeum of Natural History [Vol. IX,
 
 Dyes and Paints. The Northern Saulteaux were acquainted with several
@@ -7470,12 +6615,6 @@ Use of Birchbark. When the first week of July arrives, birchbark begins
 to peel properly and is then gathered by the natives. A tree with as great
 
 
-Digitized by
-
-
-Google
-
-
 1911.] Skinner, The NoHhem SauUeaux. 131
 
 a girth as possible is selected and care is taken to see that there are no
@@ -7520,12 +6659,6 @@ The slits in the bottom bark are sewed up at this time. After the upper
 edges of the sides are bent around up over the gunwales from the outside
 of the frame and fastened down with small nails or tacks, the bark is sewn
 on to the gunwales. The root thread is wound closely around the gunwale.
-
-
-Digitized by
-
-
-Google
 
 
 132 Anthropological Papers American Museum of Natural History. [Vol. IX,
@@ -7578,12 +6711,6 @@ perforations in wooden needles and holes in other wooden objects were made
 by burning, as is shown in some of the specimens.
 
 
-Digitized by
-
-
-Google
-
-
 1911.] Skinner, The Northern Saulteaux. 133
 
 Snow goggles are shaped from a piece of wood hollowed out, and made
@@ -7631,12 +6758,6 @@ fish are to be smoked, they are cleaned, split and scaled, and if they are
 other than white fish or suckers, their heads are removed. P'or smoking
 
 
-Digitized by
-
-
-Google
-
-
 134 Anthropological Papers American Museum of Natural History. [Vol. IX,
 
 fish, a rectangular scaffold with a grill of cross pieces is lashed together over
@@ -7661,7 +6782,7 @@ formerly made from birch
 knots. Wooden spoons are
 _ , , still used. They are carved
 
-Fig. 48 (5O~8003>. A Rogan for storing Dried <? i
+Fig. 48 (5O~8003). A Rogan for storing Dried (? i
 
 Meat. Depth, 27 cm. from the roots of the same
 
@@ -7689,12 +6810,6 @@ that there was no object in his killing so many except the pleasure in taking
 life, for he had much more meat than he could use, and the skins, even when
 tanned, were of very little value. One of the most redeeming qualities
 of the Northern Saulteaux is their exceedingly poor marksmanship, for
-
-
-Digitized by
-
-
-Google
 
 
 1911.] Skinner, The Northern SavUeaux, 135
@@ -7745,12 +6860,6 @@ down and is kept from falling by a loosely set treadle. The bait is placed
 in the back of the pen on a stick and the whole is covered to prevent en-
 
 
-Digitized by
-
-
-Google
-
-
 136 Anthropological Papers American Museum of Natural History. [Vol. IX,
 
 trance from the top. The animal crawling in over the choking board
@@ -7796,12 +6905,6 @@ ern Saulteaux. Of course, in modern times, steel traps have taken the place
 of most of the old types and ordinary commercial wire has supplanted the
 spruce root and sinew twine noose. Hunters believe that the possession of
 beaded bandolier shot and powder pouches brings them good luck.
-
-
-Digitized by
-
-
-Google
 
 
 1911.] Skinner, The Northern Savlteaux. 137
@@ -7852,12 +6955,6 @@ little rice that occurs was brought in from elsewhere by the Indians. It
 springs up readily after sowing without any further cultivation and the
 
 
-Digitized by
-
-
-Google
-
-
 138 Anthropological Papers American Museum of Natural History. [Vol. IX,
 
 crop rarely fails unless the water becomes too deep. The crop becomes
@@ -7904,12 +7001,6 @@ or babiche string, a base board, and a shaft or twirling stick, both of the
 latter being of cedar. The hole in the base board or hearth should be about
 an inch deep and big enough for the point of the twirling stick to fit into it
 snugly. The hearth when used for traveling is only a few inches long, but
-
-
-Digitized by
-
-
-Google
 
 
 1911.]
@@ -7980,12 +7071,6 @@ Fig. 49 (50-7976). A
 Puzzle of Hoop and Rings.
 
 
-Digitized by
-
-
-Google
-
-
 140
 
 
@@ -8020,12 +7105,6 @@ and over his hand.
 
 Hand ball is played with a ball of deer, moose, or caribou skin stuffed
 with animal hair, and football with the same kind of ball of larger size.
-
-
-Digitized by
-
-
-Google
 
 
 1911.] Skinner, The Northern Savlteaux. 141
@@ -8078,12 +7157,6 @@ used a so-called "popgun" or "flipping stick'* but in a different
 manner from the more northern Saulteaux. Among the latter, it is long.
 
 
-Digitized by
-
-
-Google
-
-
 142
 
 
@@ -8116,12 +7189,6 @@ to come were offered. All dances were religious in their significance and
 
 
 Fig. 52 (50-7448 9). A Drum and Stick. Diameter. 26 cm.
-
-
-Digitized by
-
-
-Google
 
 
 1911.]
@@ -8188,12 +7255,6 @@ o (50-7930), b (50-7940). Stone-headed
 2 McGuire, 571 et aeq.
 
 
-Digitized by
-
-
-Google
-
-
 144 Anthropological Papers American Museum of Natural History, [\"ol. IX,
 
 pencil are cut. The bark is peeled off and the pithy heart removed. These
@@ -8237,12 +7298,6 @@ with moss, which also soaks up the urine and is changed from time to time.
 In traveling, the arms of the baby are usually bound up to prevent their
 being struck, injured or broken by a swinging branch, but when at rest, the
 baby's arms are usually allowed to be free. The Saulteaux think that the
-
-
-Digitized by
-
-
-Google
 
 
 1911.]
@@ -8292,12 +7347,6 @@ called "gillies" by the Hudson's Bay Company servants, is used in hunting
 and walking through the forests, and short rounded ones for running or
 
 
-Digitized by
-
-
-Google
-
-
 146 Anthropological Papers American Museum of Natural History. [Vol. IX,
 
 following the dog teams. The bear's paw form is said not to have been
@@ -8339,12 +7388,6 @@ syllabics, written in lead pencil or charcoal on birchbark, or on a white
 chip are placed in split sticks along the banks of rivers, where they are even-
 tually found by the person for whom they were intended. Trees are also
 " blazed," the bark is cut away with an ax for a smaller or larger area and
-
-
-Digitized by
-
-
-Google
 
 
 1911.] Skinner f The Northern Savlteaxix. 147
@@ -8401,12 +7444,6 @@ regard to the origin of the winds: — A woman had four children at one time.
 When they were bom, the woman died and left the four children. They
 
 
-Digitized by
-
-
-Google
-
-
 148 Anthropological Papers American Museum of Natural History. [Vol. EX,
 
 were all sons. The oldest of these was the south wind. The second was
@@ -8454,11 +7491,6 @@ supplication to either the animals or the spirits.
 
 McKenney, 334.
 
-Digitized by
-
-
-Google
-
 
 1911.]
 
@@ -8497,12 +7529,6 @@ the Eastern Cree. Their winter camps usually contain several related
 families, though this does not always follow. It is said that in former
 times, the matriarchial exogamic clan system was known, but now aU
 traces of this are practically lost. Certainly in former times, inheritance
-
-
-Digitized by
-
-
-Google
 
 
 150 Anthropological Papers American Museum of NaXural History. [Vol. IX,
@@ -8551,12 +7577,6 @@ As he smoked, he took one hundred small pieces of wood about an inch in
 length and threw them at her, one by one. She tried to catch these in a
 bark bowl and for everyone which she caught her lover had to make a
 present to her father, these presents being considered as payment for the
-
-
-Digitized by
-
-
-Google
 
 
 1911.] Skinner, The Northern Saulteaux, 151
@@ -8609,12 +7629,6 @@ are invariably supposed to be hermaphrodites, is translated "split testicles."
 « McKenney, 339.
 
 
-Digitized by
-
-
-Google
-
-
 152 Anthropoloffical Papers American Museum of Natural History. [Vol. IX,
 
 Some berdaches have been known to take husbands and Kved with them as
@@ -8665,12 +7679,6 @@ About thirty years ago Mr. Jabez Williams, manager of the Hudson's Bay
 » Long. 73-75.
 
 
-Digitized by
-
-
-Google
-
-
 1911.] Skinner, The Northern Saidteaux. 153
 
 Company at Fort Osnaburgh House, Lake St. Joseph, attended a cere-
@@ -8716,12 +7724,6 @@ while not in the lodge. In mide ceremonies, the rattle plays a secondary
 part, but a shaman at work uses the drum only. For this reason, drums
 are almost impossible to secure as specimens. Wooden figures were used
 by the shamans in malevolent conjuring. They were frequently set up
-
-
-Digitized by
-
-
-Google
 
 
 154 Anthropological Papers American Museum of Natural History. [Vol. IX,
@@ -8773,12 +7775,6 @@ to take care of the Indians and that was the end of my dream."
 A feast described by James Stewart as taking place at Beren's River
 
 
-Digitized by
-
-
-Google
-
-
 1911.] Skinner y The Northern SauUeaux. 155
 
 on the east shore of Lake Winnipeg is called the " Feast of the Metawain,"
@@ -8828,12 +7824,6 @@ holding in their hands the skin bags and the migis shells. They sat around
 the lodge while the chief shaman took his stand with a drum and stick in his
 
 
-Digitized by
-
-
-Google
-
-
 156 Anthropological Papers American Museum of Natural History. [Vol. IX^
 
 hand near a human image at the head of the tent. He tapped the drum
@@ -8880,12 +7870,6 @@ diately fell as if shot, but got up and followed the others. On some occasions,
 they seemed badly wounded, and unable to rise, and in this case the othera
 gathered about the sufferer and after much ceremony made a show of
 extracting a bead from the body. If the bag was pointed at the body the
-
-
-Digitized by
-
-
-Google
 
 
 1911.] Skinner J The Northern SavUeaux. 157
@@ -8940,12 +7924,6 @@ and deadly natawa, which envy so increased that the rattlesnake challenged the
 
 
 I Stewart, 95.
-
-
-Digitized by
-
-
-Google
 
 
 158 Anthropological Papers American Museum of Natural History. [Vol. IX,.
@@ -9006,12 +7984,6 @@ of his son on the third day, and after pointing his pipe stem to the centre of t
 and the earth, and the four winds, presented the offerings of the dead, then sat down,
 facing the body of his son, who according to Indian custom, was placed in the grave
 in a sitting posture with his face towards the east. At that instant he heard a
-
-
-Digitized by
-
-
-Google
 
 
 1911.] Skinner f The Northern SavUeaux, 159
@@ -9075,12 +8047,6 @@ sting of the natawa." ^
 1 Stewart, 95-97.
 
 
-Digitized by
-
-
-Google
-
-
 160 Anthropological Papers American Museum of Naiural History. [Vol. IX,
 
 The Northern Saulteaux concept of the Hereafter is, that there are two
@@ -9125,12 +8091,6 @@ to the shamans of the Northern Saulteaux. Beside the shamanistic doctors,
 there is a second class of healers, generally old women, who so far as could
 be learned use no supernatural means whatever in performing their cures.
 They rely on purely physical boluses, both internal and external. A col-
-
-
-Digitized by
-
-
-Google
 
 
 1911.] Skinner, The Northern SavUeaux. 161
@@ -9192,12 +8152,6 @@ cure for all diseases. After the lodge has been put up, a fire is built outside
 Long, 74.
 
 
-Digitized by
-
-
-Google
-
-
 162
 
 
@@ -9257,12 +8211,6 @@ Pole. Drawn from a
 Photograph.
 
 
-Digitized by
-
-
-Google
-
-
 1911.] Shinner, The NoHhem SavUeaux. 163
 
 At Sandy Lake, the writer saw an old SaiJteaux woman take the shoidder
@@ -9316,12 +8264,6 @@ They, however, believe that if he takes them from the territory covered by
 I Long, 161.
 
 
-Digitized by
-
-
-Google
-
-
 \!
 
 
@@ -9369,12 +8311,6 @@ La Grippe epidemic of the winter of 1908-9, very little information con-
 cerning this phase of their life could be obtained. As a matter of fact, the
 Northern Saulteaux were for the greater part beyond the reach of Sioux
 and Iroquois war parties on the south, and their friendly neighbors, the
-
-
-Digitized by
-
-
-Google
 
 
 1911.] Skinner, The Northern SavUeaux. 165
@@ -9426,12 +8362,6 @@ approached silently through the forest from tree to tree, and the only sound
 occupsring the region lying north of Cat Lalce.
 
 
-Digitized by
-
-
-Google
-
-
 166 Anlhropological Papers American Museum of Natural History. [Vol. IX,
 
 to be heard was the crying out of the wounded. When the battle was over,
@@ -9478,12 +8408,6 @@ times observed daily for as long as a month after the interment. Sometimes
 
 Long. 79.
 Kohl, 149.
-
-
-Digitized by
-
-
-Google
 
 
 1911.] Skinner J The Northern Savlteaux. 167
@@ -9538,12 +8462,6 @@ The widow lets her hair hang loose and tears it hysterically, while she
 ' This series. Vol. 3, 50.
 
 
-Digitized by
-
-
-Google
-
-
 1()8 Anthropological Papers American Museum of Natural History. [\^ol. IX,
 
 shrieks and wails, but, at present, at least, she does not scarify herself.
@@ -9588,12 +8506,6 @@ and cut off his head. He took a little blood. Then he started to cook the
 man's blood mixed with deer's blood. After a time, his wife came home
 with the carcass of the deer he had killed. He gave her some of the man's
 blood and vension to eat. After she had finished her meal, he inquired.
-
-
-Digitized by
-
-
-Google
 
 
 1911.] Skinner J The Northern SauUeaux. 169
@@ -9647,12 +8559,6 @@ While they were playing at the edge of the water, they saw someone
 approaching in a canoe. He came ashore and stood in the canoe looking
 
 
-Digitized by
-
-
-Google
-
-
 170 Anthropological Papers American Museum of Natural History. [Vol. IX,
 
 at the boys for a little while. Then the man wished one of the stones would
@@ -9700,12 +8606,6 @@ over the old man's canoe."
 The old man was lying back in his magic canoe looking at the sky,
 pounding on the canoe bottom all the time. " When you are directly over
 the old man, void your excrement full in his face," cried the young chap.
-
-
-Digitized by
-
-
-Google
 
 
 1911.] ' Skinner, The Northern Saulteatix. 171
@@ -9757,12 +8657,6 @@ Then he told his children to go down to the water's edge and meet their
 grandfather. "Eat some of the sturgeon meat before him," he said. After
 
 
-Digitized by
-
-
-Google
-
-
 172 Anthropological Papers American Museum of Natural History. [Vol. IX,
 
 a while, their grandfather came back. The two children went down to
@@ -9812,12 +8706,6 @@ saw you when you put them in the fire."
 In the morning, the young man dressed himself and left Omishus and
 
 
-Digitized by
-
-
-Google
-
-
 IWl.] SkirmeTf The Northern Savlieaux, 173
 
 went home. He took his father-in-law's canoe because one of his wives
@@ -9865,12 +8753,6 @@ because the feathers were stroked the wrong way.)
 Kngfisher told WisEkejack, "The panther took away your Wolf."
 There were three panthers on that creek, they lived in the water and came
 out to bask when the sun was warm.
-
-
-Digitized by
-
-
-Google
 
 
 174 Anthropological Papers American Museum oj Natural History. [Vol. IX,
@@ -9923,12 +8805,6 @@ Panther was nearly dead, for WisEkejack's arrow was sticking out of his
 side. Panther gave WisEkejack some food, for they thought he was Toad.
 
 
-Digitized by
-
-
-Google
-
-
 1911.] SkinneTj The Northern Saulteaux. 175
 
 When WisEkejack had finished he found his assumed skin was drying
@@ -9973,12 +8849,6 @@ that the earth was pretty big. But WisEkejack still thought it was too
 small. Then he told Wolf, " Try to run around the earth and see how large
 it is." So W^olf said, "I'll go, but if I never come back, this land will be
 big enough." Wolf never came back.
-
-
-Digitized by
-
-
-Google
 
 
 176 Anthropological Papers American Museum of Natural History, [Vol. IX^
@@ -10047,15 +8917,9 @@ Society, Vol. 1, 1907.)
 1905. Appendix, Report, Minister of Education. To-
 ronto, 1906.)
 
-(c) The Algonkin Manitou. (Journal of American Folk-Lore>
+(c) The Algonkin Manitou. (Journal of American Folk-Lore)
 
 1905, Vol. 18, pp. 183-190.)
-
-
-Digitized by
-
-
-Google
 
 
 1911.] Skinner f The Northern Saidteaux. 177
@@ -10097,7 +8961,7 @@ Philadelphia, 1856.
 History, Condition and Prospects of the Indian Tribes
 of the United States. Philadelphia, 1851-67. 6 vols.
 
-Skinner> Alanson. The Lenap6 Indians of Staten Island. (Anthropological
+Skinner) Alanson. The Lenap6 Indians of Staten Island. (Anthropological
 Papers, American Museum of Natural History, 1909,
 Vol. 3, pp. 1-63.
 
@@ -10126,22 +8990,10 @@ Young, Egbrton R. By Canoe and Dog-Train among the Cree and Salteaux.
 Indians. New York, 1890.
 
 
-Digitized by
-
-
-Google
-
-
-Digitized by
-
-
-Google
-
-
 X
 
 
-<
+(
 
 
 o
@@ -10152,18 +9004,6 @@ I
 
 
 i!
-
-
-Digitized by
-
-
-Google
-
-
-Digitized by
-
-
-Google
 
 
 Anthbop. Pap. A. M. N. H.
@@ -10179,76 +9019,4 @@ Dome-shaped Lodge, Cree of Rupert's House.
 
 Drying Moose Meat, Sandy Lake, Ontario.
 (Page 133)
-
-
-Digitized by
-
-
-Google
-
-
-Digitized by
-
-
-Google
-
-
-Digitized by
-
-
-Google
-
-
-Digitized by
-
-
-Google
-
-
-Digitized by
-
-
-Google
-
-
-DAH DUE
-
-
-tOHH
-
-
-Ej^y^^
-
-
-1«P|n
-
-
-I f » ■'( "1
-
-
-FtB 1
-
-
-I'o'v^ J
-
-
-DEMCO 38-297
-
-
-Digitized by
-
-
-Google
-
-
-3 2044 042 053 157
-
-
-1
-
-
-Digitized by
-
-
-Google
 

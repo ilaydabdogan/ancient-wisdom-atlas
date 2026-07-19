@@ -1,0 +1,71 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_mythologyofallra04unse
+  work_id: finnic.finno_ugric_siberian_mythology.holmberg_archive
+  title: Finno-Ugric, Siberian Mythology
+  source_url: https://archive.org/details/mythologyofallra04unse
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/internet-archive/mythologyofallra04unse-finno-ugric-siberian-mythology-holmberg.txt
+    checksum:
+      algorithm: sha256
+      value: 7f1920b9fd54f3fe83b376fbdc0b553334142db9d6a0df05a79149481244e15f
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/internet-archive/mythologyofallra04unse-finno-ugric-siberian-mythology-holmberg.md
+    checksum:
+      algorithm: sha256
+      value: 2b9dff29ac3204d2852a7c2fda7c6ae62b77954810c14ba63dc7f3cdfbaaac05
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/finnic/internet-archive/finno-ugric-siberian-mythology-holmberg.md
+    checksum:
+      algorithm: sha256
+      value: 8db5ca2eb84ac7dfa746dd3bdb5e979923e4c633d5beb06012eafc26cd5e4d24
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids finnic.finno_ugric_siberian_mythology.holmberg_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1927 (pre-1930), US public domain. Holmberg's comparative survey
+      of Finno-Ugric and Siberian mythology with many quoted myths, songs, and beliefs;
+      author-synthesis prose with embedded verbatim material. OCR of a scan; expect
+      OCR noise. This is Volume IV of the Mythology of All Races series (the "1927
+      Holmberg Finno-Ugric mythology" target).
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

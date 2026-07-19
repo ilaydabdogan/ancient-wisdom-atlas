@@ -65,6 +65,94 @@ figures:
 
 # Kaffir Folk-Lore: A Selection from the Traditional Tales Current among the People Living on the Eastern Border of the Cape Colony
 
+This  is  a  digital  copy  of  a  book  that  was  preserved  for  generations  on  library  shelves  before  it  was  carefully  scanned  by  Google  as  part  of  a  project
+to  make  the  world's  books  discoverable  online.
+
+It  has  survived  long  enough  for  the  copyright  to  expire  and  the  book  to  enter  the  public  domain.  A  public  domain  book  is  one  that  was  never  subject
+to  copyright  or  whose  legal  copyright  term  has  expired.  Whether  a  book  is  in  the  public  domain  may  vary  country  to  country.  Public  domain  books
+are  our  gateways  to  the  past,  representing  a  wealth  of  history,  culture  and  knowledge  that's  often  difficult  to  discover.
+
+Marks,  notations  and  other  marginalia  present  in  the  original  volume  will  appear  in  this  file  -  a  reminder  of  this  book's  long  journey  from  the
+publisher  to  a  library  and  finally  to  you.
+
+Usage  guidelines
+
+Google  is  proud  to  partner  with  libraries  to  digitize  public  domain  materials  and  make  them  widely  accessible.  Public  domain  books  belong  to  the
+public  and  we  are  merely  their  custodians.  Nevertheless,  this  work  is  expensive,  so  in  order  to  keep  providing  this  resource,  we  have  taken  steps  to
+prevent  abuse  by  commercial  parties,  including  placing  technical  restrictions  on  automated  querying.
+
+We  also  ask  that  you:
+
++  Make  non-commercial  use  of  the  files  We  designed  Google  Book  Search  for  use  by  individuals,  and  we  request  that  you  use  these  files  for
+personal,  non-commercial  purposes.
+
++  Refrain  from  automated  querying  Do  not  send  automated  queries  of  any  sort  to  Google's  system:  If  you  are  conducting  research  on  machine
+translation,  optical  character  recognition  or  other  areas  where  access  to  a  large  amount  of  text  is  helpful,  please  contact  us.  We  encourage  the
+use  of  public  domain  materials  for  these  purposes  and  may  be  able  to  help.
+
++  Maintain  attribution  The  Google  "watermark"  you  see  on  each  file  is  essential  for  informing  people  about  this  project  and  helping  them  find
+additional  materials  through  Google  Book  Search.  Please  do  not  remove  it.
+
++  Keep  it  legal  Whatever  your  use,  remember  that  you  are  responsible  for  ensuring  that  what  you  are  doing  is  legal.  Do  not  assume  that  just
+because  we  believe  a  book  is  in  the  public  domain  for  users  in  the  United  States,  that  the  work  is  also  in  the  public  domain  for  users  in  other
+countries.  Whether  a  book  is  still  in  copyright  varies  from  country  to  country,  and  we  can't  offer  guidance  on  whether  any  specific  use  of
+any  specific  book  is  allowed.  Please  do  not  assume  that  a  book's  appearance  in  Google  Book  Search  means  it  can  be  used  in  any  manner
+anywhere  in  the  world.  Copyright  infringement  liability  can  be  quite  severe.
+
+About  Google  Book  Search
+
+Google's  mission  is  to  organize  the  world's  information  and  to  make  it  universally  accessible  and  useful.  Google  Book  Search  helps  readers
+discover  the  world's  books  while  helping  authors  and  publishers  reach  new  audiences.  You  can  search  through  the  full  text  of  this  book  on  the  web
+
+at  http  :  //books  .  google  .  com/|
+
+
+Digitized  by
+
+
+Google
+
+
+Ji
+
+
+HARVARD  UNIVERSITY
+
+
+LIBRARY
+
+OP  THE
+
+PEABODY  MUSEUM
+
+
+FROM  THE  LIBRARY  OF
+
+ORIC  BATES
+
+(1883-I918)
+
+PRESENTED  BY  HIS  WIFE
+July  I,  1937
+
+
+^oogk
+
+
+KAFFIR    FOLK-LORE.
+
+
+Digitized  by
+
+
+Google
+
+
+Digitized  by
+
+
+Google
+
 
 KAFFIR  FOLK-LORE:
 
@@ -8880,7 +8968,7 @@ she  might  say  from  the  bottom  of  her  heart,  with  Elizabeth  of
 old,  that  "her  reproach  was  taken  away  from  among  men.'*
 Sometimes  she  is  returned  by  her  husband  to  her  parents,  a
 proceeding  commonly  adopted  when  she  has  a  marriageable
-sister  who  ca i  be  given  to  him  in  exchange.  The  husband  is
+sister  who  ca<i  be  given  to  him  in  exchange.  The  husband  is
 required,  however,  before  repudiating  his  wife,  to  go  through  the
 customary  ceremonies,  which  are  described  in  the  following
 
@@ -9489,3 +9577,75 @@ The  Story  of  Kenkebe.
 In  the  above  story  Kenkebe  is  represented  as  the  personifi-
 cation of  selfish  greed.  In  this  character  his  name  has  passed
 into  a  common  proverb—
+
+Sibayeni  sonke,  Kenkebe.
+
+We  are  all  brid^n^ooms,  Kenkdse;
+
+
+Digitized  by
+
+
+Google
+
+
+226  KAFFIR  FOLK  TALES.
+
+This  saying  is  used  to  any  one  who  does  not  readily  share
+food  with  others.  It  means,  we  are  all  entitled  to  a  portion,
+you  greedy  one.  A  Kaffir^  when  eating,  conunonly  shares  his
+food  with  any  others  who  ihay  be  present  at  the  time.
+
+Story  of  Lion  and  Little  Jackal.
+
+This  story  is  very  likely  of  Hottentot  origin.  It  is  generally
+told  by  the  Kaffirs,  but  I  have  observed  that  it  is  a  special
+favourite  in  places  only  where  there  is  a  very  strong  tinge  of
+Hottentot  blood.
+
+It  is  capable  of  indefinite  extension  by  the  narrator,  but  the
+tricks  of  Little  Jackal  are  always  very  silly  ones.  The  above
+are  among  the  best  of  them.
+
+
+Butler  &  Tanner,  The  Sclwood  Printing  Works,  Frome,  and  London.
+
+
+Digitized  by
+
+
+Googk
+
+
+Digitized  by
+
+
+Google
+
+
+Digitized  by
+
+
+Google
+
+
+J
+
+
+/
+
+
+.  .,..^
+
+
+Digitized  by
+
+
+Google
+
+
+Digitized  by
+
+
+Google
+

@@ -7401,7 +7401,7 @@ give  day  by  day  commons  of  food  to  poor  lads  and  had  them  taught  f
 and  so  this  Mitta-vindaka  also  became  a  charity  scholar  under  the  Bodhi-
 satta.    But  he  was  fierce  and  intractable,  always  fighting  with  his  fellows
 
-'  Reading  chltahndukliham  for  ¥siV\f,hi')\V9,jdt(ili uluhl;haiH.
+'  Reading  chltahndukliham  for  ¥siV\f,hi')\V9,jdt(ili<uluhl;haiH.
 
 
 no  The  Jataha.     Book  I,
@@ -8812,7 +8812,7 @@ departing  with  all  the  belongings  of  the  caravan,  waggons  and  all.
 
 And  on  the  day  too  of  our  story  these  villagers  failed  not  to  hurry  at
 daybreak  to  the  tree  for  their  expected  spoils.  "  The  oxen  must  be  ours,"
-said  some.  "And  we'll  have  the  waggons,"  sai l  others; — whilst  others
+said  some.  "And  we'll  have  the  waggons,"  sai<l  others; — whilst  others
 again  claimed  the  wares  as  their  share.  But  when  they  came  breathless
 to  the  tree,  there  was  the  whole  cai-avan  alive  and  well !
 
@@ -11796,7 +11796,7 @@ big  as  houses,  floating  like  ships  upon  the  waters.     What  shall  com
 which  I  have  spoken.  For  in  those  days  unrighteous  kings  shall  shew  honour  to
 the  low-born,  who  shall  become  great  lords,  whilst  the  nobles  sink  into  poverty.
 Not  to  the  nobles,  but  to  the  upstarts  alone  shall  respect  be  paid.  In  the  royal
-presence,  in  the  council  chambei*,  or  in  the  courts   jf  justice,  the  words  of  the
+presence,  in  the  council  chambei*,  or  in  the  courts  <jf  justice,  the  words  of  the
 nobles  learned  in  the  law  (and  it  is  they  whom  the  solid  rocks  typify)  shall  drift
 idly  by,  and  not  sink  deep  into  the  hearts  of  men ;  when  they  speak,  the  up-
 starts shall  merely  laugh  them  to  scorn,  saying,  'What  is  this  these  fellows  are
@@ -14612,7 +14612,7 @@ fall  into  your  hands  without  any  fighting."  Following  his  mother's  adv
 the  prince  for  seven  days  invested  the  city  with  so  close  a  blockade  that
 the  citizens  on  the  seventh  day  cut  off  their  king's  head  and  brought  it  to
 the  prince.  Then  he  entered  the  city  and  made  himself  king,  and  when
-his  life  ended  he  pas sed  away  to  fare  according  to  his  deserts.
+his  life  ended  he  pas<sed  away  to  fare  according  to  his  deserts.
 
 
 The  result  and  consequence  of  his  acts  in  blockading  the  city  for  those  seven
@@ -15974,7 +15974,7 @@ people  were  moved  by  the  sight  of  that  peerless  elephant  to  exclaim, 
 what  a  stately  gait !  what  proportions  !  what  beauty  !  what  grace  !  such  a
 white  elephant  is  worthy  of  an  universal  monarch."     All  this  praise  of  his
 
-1  See  p.  2,  aud  (e.g.)  the  Sela  Sutta  (No.  .3.8  of  the  Sutta  Nipata  and  No.   J2  of  the
+1  See  p.  2,  aud  (e.g.)  the  Sela  Sutta  (No.  .3.8  of  the  Sutta  Nipata  and  No.  <J2  of  the
 Majjhiina  Nikfiya).
 
 '  Apparently  the  reference  is  to  p.  175,
@@ -18697,3 +18697,355 @@ world-famed  teacher."
 
 
 END   OF   THE   FIRST   BOOK.
+
+
+INDEX    OF    PROPER    NAMES.
+
+
+Abhassara,  the  celestial  realm  291 — 2
+AciravatI,  the  river  102,  249
+Aggalava,  the  temple  47
+Agni  {see  also  Jataveda)  283,  308
+Ajatasattu,  King  67,  319—21
+Alavi,  the  town  47
+Amara,  Queen  254
+Ambatittha  206
+Ambavana  14
+
+Ananda,   the  Elder  32,   42,    48,  89,  222,
+230,  314
+a  fish  83
+Anatha-pindika  1,  38,  92,  100,  101,  117,
+
+120,  134,  209,  220,  245,
+
+267, 314
+,,  the  younger  38
+
+Andhapura,  a  town  12
+Andhra,  the  country  203
+Ahgulimala,  the  Elder  139
+Afijanavana  166
+Anotatta,  Lake  103
+Anupiya,  a  town  32
+Arati,  Mara's  daughter  288
+Asura  80,  82,  229
+Avici,  the  hell  104
+
+Badarika,  the  monastery  47
+Bamboo-grove,  the  35,  44,   57,    67,    174,
+177,  215,  255,  269,  286,  298,  302,  304,
+305,  319
+Benares  4,  10,  19,  21,  22  et  passim
+Bhaddavatika,  a  town  206
+Bhaddiya,  the  Elder  32
+Bhagu,  the  Elder  32
+Bhimasena,  a  big  weaver  204
+Brahma  {see  Maha-Brahma)
+Brahmadatta,  King  passim
+
+,,  Prince  126
+
+Brahma-realm  8  et  passim
+Buddha,  Gotama  the  103,  172,  229,  230  et
+passim
+,,         Kassapa  the  16,  246
+
+Padumuttara  the  38,  243
+„         Vipassi  the  243
+Buddhas,  Pacceka  101,  103,  233,  289
+previous  16,  38,  90,  243,  246
+
+Canda,  a  Naga  290
+Captain  of  the  Faith  {see  Sariputta)
+Ceti,  the  country  of  121
+Chattapani,  a  lay-brother  223
+Cinca,  the  brahmin-girl  143,  264
+Cittahattha- Sariputta,  the  Elder  168
+Culla-Panthaka,  the  Elder  14,  16
+Culla-Pindapatika-Tissa,  the  Elder  44
+
+
+Dabba,  the  Mallian  21
+
+Desaka,  a  town  232
+
+Devas,  wars  of  80 — 1
+
+Devadatta   14,   32,  34,  57,  67,   142,    144,
+
+174,  255,  269,  286,  298,  304,  305,  319,
+
+320
+Dhanapalaka,  the  elephant  57
+
+Form,  realm  of  241
+Formless  Eealm  241
+Four  Eegents,  the  81,  102
+
+Gamani,  Prince  29
+Gandhara  173,  218
+Ganges  156,  315
+Garula  80,  81
+
+Gaya'-slsa  34,  67,  255,  305,  319
+Gotama  44,  100,  216
+Ghatikara,  the  potter  56
+Ghositarama  206
+
+Himalayas  25,  93,  171,  207,  215,  241,  258,
+260,  267,  274,  317
+
+Illlsa,  a  miser  198
+
+Indra  {see  also  Sakka)  28,  130,  171,  201,
+289
+
+Jambudlpa  137
+
+Janaka,  King  133
+
+Jataveda  (=Agni)  90
+
+Jetavana  1,  9,  38,  172,  183,  314  et  passim
+
+Jivaka-Komarabhacca  14,  16,  320
+
+Kalakaiijaka,  the  Asura  229
+
+Kalanduka,  a  slave  280
+
+Kana,  a  girl  294
+
+Kana-mata  294
+
+Kapilani,  a  Theri  150
+
+Kapilavatthu  85
+
+Kasi  4,  10,  19,  21,  24,  114,  129,  162,  204,
+
+207,  295,  309
+Kassapa,  the  Buddha  16,  246
+
+the  Elder  36
+Katahaka,  a  slave  275,  280
+Katthavfihana,  King  29
+Kattika,  the  festival  261,  312
+Ketakavana  54
+Kharadiya,  a  doe  47
+Kimbila^  the  Elder  32
+Kings,  the  four  great  81,  102
+Kokalika  260,  305
+Koliya,  King  242
+Kora,  the  kshatriya  229
+Kosala  27,  38,  50,  91,  118,  129,  164,  172,
+
+183,  184,  187,  213,  243,  277
+
+
+324
+
+
+Index.
+
+
+Kosambi  47,  206
+
+Kosiyji,  a  brahmin  woman  285
+
+Kumbbanda  81
+
+Knndadhanavaua  242
+
+Kundiya,  a  city  242
+
+Kusavati,  a  city  231
+
+Kusinara,  a  town  231
+
+Kutumbiyaputta-Tissa,  the  Elder  172
+
+Laludayi,  the  Elder  271
+Licchavis,  the  251,  316
+Losaka-Tissa,  the  Elder  105,  111
+
+Macala,  a  hamlet  77
+
+Magadha  35,  42,  49,  77,  88,  89,  98,  116,
+
+216,  269,  286
+Magha,  Prince  77
+
+Maha-Brahma  81,  241,  291,  292,  308,  314
+Mahamaya,  Gotama's  mother  166
+Mahan:1ma-Sakka,  Kiug  27
+Maha-Panthaka,  the  Elder  15
+Mahavana  251,  316
+Mahirusasa,  Prince  24
+Mahosadha,  King  254
+Makhiideva,  King  31
+Mallika,  Queen  187
+Manosila,  a  region  103
+Maia  103
+
+,,      daughters  of  288
+Mithila,  a  city  31
+Mittavindaka  109,  209,  246
+Moggallana,   the  Elder  35,   48,    94,    196,
+
+231,  242,  305
+
+Naga  81,  206,  290,  311
+
+Nagamunda,  Queen  27
+
+Nalagamaka,  a  village  230
+
+Nalakapana,  a  village  54
+
+Naiapana  231
+
+Nanda,  a  brahmin  woman  293
+
+Nidanakatha  30
+
+Nimi,  King  31
+
+North-country,  the   193,    203,    207,    240,
+
+260,  263,  274,  317
+North-west  country,  the  216
+
+Pacceka  Buddhas  101,  103,  233,  289
+Padumuttara,  the  Buddha  38,  243
+Pajjunna,  the  god  184
+Pasenadi,  King  38,  194
+Patikarama  229
+Patimokkha,  the  140
+Pavarana,  the  festival  73
+Piliya,  a  treasurer  286
+
+Raga,  Mara's  daughter  288
+
+Ealju,  the  Titan  65,  139
+
+Eahula,  the  Elder  47
+
+Rajagaha  2,  14,  34,  35,  36,  38,  42,  44,  49,
+
+77,  92,  195,  198,  216,  231,  269,  286,
+
+304,  320
+
+
+Eatthapala,  the  Elder  44
+Eohini,  the  river  181
+
+Sagata,  the  Elder  206
+
+Saketa,  a  city  166
+
+Sakka  77,  80,  81,  102,  171,  182,  198
+
+Samkassa,  a  town  73,  291,  292
+
+Sanikhasetthi,  a  treasurer  286
+
+Sai'ijaya,  a  gardener  45
+
+Sanjiva,  a  brahmin  321
+
+Sarambha,  an  ox  217
+
+Sariputta,  the  Elder  35,  48,  64,  92—4,  98,
+106,  167,  229,  230,  240,  291,  305
+
+Savatthi  1,  2,  9,  12,  44,  69,  92,  106,  116,
+135,  140,  161,  168,  183,  184, 185,  206,
+212,  217,  239,  244,  246,  249,  257,  261,
+273,  284,  292,  294,  310,  314
+
+Seri,  a  country  12
+
+Sindh  61,  63
+
+Sineru,  Mt.  80,  101,  162,  176,  314
+
+Sivali,  the  Elder  242
+
+Six,  the  wicked  71,  73,  92,  207
+
+Subhadda,  Queen  231
+
+Sudassana,  King  231
+
+Sudatta  (  =  Anathapindika)  1
+
+Suddhodana,  Gotama's  father  166
+
+Sumbha,  a  country  232
+
+Sunakkhatta,  a  pervert  229
+
+Suppavasa,  a  lay-sister  242
+
+Takkasila,  a  city  71, 126,  137,  148, 173, 203,
+217,  233,  237,  240,  243,  260,  285,  289,
+317,  321
+
+Tanha,  Mara's  daughter  288
+
+Tathagata  30
+
+Tavatimsa-devaloka  80
+
+Telavaha,  a  river  12
+
+Thullananda,  a  Sister  292
+
+Tissa,  the  Elder  Kutumbiyaputta-  172
+Losaka-  105,  111
+
+Titan  {see  Asura)
+
+Udayi,  the  Elder  Lai-  21
+Upfdi,  the  Elder  32, '38
+Uppalavanna,  the  Sister  47,  50,  164
+Uttarasetthi,  a  youth  261
+
+Varaka,  a  town  230
+Vasabha-Khattiya,  Queen  27
+Velama  101
+
+Veluvana  (see  Bamboo-grove)
+Vepacittiya,  an  Asura  82
+Vesali  92,  229,  251,  316
+Vessavana,  a  deity  25,  182
+Videha,  the  country  31
+Vidudabha,  Prince  27
+Vipassi,  the  Buddha  243
+Visakha,  the  lay-sister  38
+Vissakamma,  the  deity  171
+
+Yugandhara  Mts.  18
+
+
+Cambridge:   printed  by  j.  &  c.  f.  clay,  at  the  university  press.
+
+
+RINTCO  IN  OS    *
+
+
+BL1411  .J3A13  1895
+
+The  Jataka;  or,  Stories  of  the  Buddha  s
+
+Princeton  Theological  Seminary-Speer  Library
+
+
+1    1012  00009  7149
+
+
+-        ■:;i±
+

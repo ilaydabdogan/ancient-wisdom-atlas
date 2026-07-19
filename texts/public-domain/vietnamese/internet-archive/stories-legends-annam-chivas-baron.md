@@ -66,6 +66,45 @@ figures:
 
 # Stories and Legends of Annam
 
+3    "S3    00l5m,g'"a
+
+
+Date  Due
+
+!  Demco  293-5
+
+Stories  and  Legends  of  Annam
+
+
+i
+
+
+A  genie,  who  passed  that  way,  was  moved  by  her  misery
+
+
+.219.
+
+
+<§)fori£s  and  Wg^nds
+
+nnam
+
+By  CI.  Chivas-Baion
+
+
+oifi
+
+
+Translated  from  the   French  Contes  et  Legendes  de  Vjlnnam
+by  £.  M.  Smith-Dampier
+
+
+Andrew  Melrose,  Ltd.
+
+London  and  New  York
+
+1920
+
 
 rZ
 
@@ -8998,3 +9037,76 @@ BOOKS  BY  HELEN  MACKAY
 A  Journal  of  Small  Things
 
 By  HELEN  MACKAY
+
+Price  5s.  net
+
+The  Times. — "  Mrs.  Mackay  speaks  with  the  tender
+affection  of  friendship ;  she  mirrors  in  her  small  things  all
+the  love  and  beauty  that  she  finds  in  her  sight  of  France.
+.  .  .  The  book  is  sad,  it  cannot  be  otherwise  ;  but  it  is  truth-
+fully sad  and  is  informed  with  a  delicate  sentiment  which  is
+never  sentimental,  and  which  gives  to  her  sketches  contrasts
+of  light,  shade,  and  atmosphere."
+
+Punch  says  : — "  The  writer  has  a  singular  power  of  select-
+ing the  significant  details  of  an  incident,  and  a  delicate
+sensitiveness  to  beauty  and  to  suffering  which  gives  dis-
+tinction to  this  charming  book."
+
+The  Daily  Telegraph  says  : — "  It  is  a  book  of  the
+war,  but  it  is  clean  out  of  the  ruck  of  war  books  ;  you  will
+read  a  thousand  and  find  no  fellow  to  it."
+
+The  Dundee  Courier  says: —''The  real  France  is
+revealed  here  in  beautiful  language."
+
+London,  One  November
+
+By  HELEN  MACKAY
+Price  2s.  6d.  net
+
+The  Times  says  : — "  Leaves  on  the  mind  a  deep  sense  of
+the  beauty  of  sadness."
+
+LONDON:  ANDREW  MELROSE,  LTD.
+
+
+BOOKS  BY  HELEN  MACKAY
+
+Accidentals
+
+By  HELEN  MACKAY
+
+Price  5s.  net
+
+The  English  Review  says  : — "These  prose  poems  and
+character  sketches  are  the  product  of  a  mind  sensitive
+and  alert.  .  .  .  Admirable  little  vignettes,  and  presented
+in  language  of  a  haunting  charm."
+
+The  Westminster  Gazette  says  : — "Even  the  most
+difficult  judge  must  admit  that  Mrs.  Mackay  possesses  a
+grace  denied  to  many  more  experienced  writers — she
+knows  where  to  stop."
+
+The  Daily  Telegraph  says  : — "  A  book  that  is  not
+for  all  markets,  which  it  is  possible  may  have  but  a
+limited  appeal  in  the  stress  of  brutal  war,  but  which,  for
+those  who  appreciate  and  understand,  exhales  an  un-
+forgettable charm,  and  reveals  the  impress  of  a  rare
+personality."
+
+
+TO   BE  PUBLISHED   SHORTLY
+
+Chill  Hours :  1918-1919
+
+By  HELEN  MACKAY
+Price  6s.  net
+
+
+LONDON:  ANDREW  MELROSE,  LTD.
+
+
+ORIENTALIA
+

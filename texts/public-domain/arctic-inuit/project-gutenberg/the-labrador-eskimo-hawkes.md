@@ -65,6 +65,59 @@ figures:
 
 # The Labrador Eskimo
 
+-.;-!,;;;;(;.;
+
+
+LIBRARY  OF  CONGRESS
+
+
+DDDD13b'^S2D
+
+
+Book -zC
+
+
+CANADA
+
+DEPARTMENT    OF    MINES
+
+Hon.  P  E.  Blondin,  Minister;  R.  G.  McConnei.l,  Deputy  Minisiek.
+
+GEOLOGICAL   SURVEY
+
+
+MEMOIR  91
+
+
+No.  14,  Anthropologicai.  Series
+
+
+The  Labrador  Eskimo
+
+
+E.  W.  Hawkes
+
+
+OTTAWA
+
+Government  Printing  Bureau
+
+1916
+
+
+No.  1637
+
+
+CANADA
+
+DEPARTMENT    OF    MINES
+
+Hon.  p.  E.  Blondin,  Minister;  R.  G.  McConnell,  Deputy  Minister.
+
+
+GEOLOGICAL  SURVEY
+
+
 MEMOIR  911
 
 
@@ -3752,7 +3805,7 @@ Q
 
 -Q
 
- U
+<U
 
 -o
 
@@ -4094,7 +4147,7 @@ The  foreshaft  unjoints  at  the  head  of  the  shaft  and  both
 
 =  P
 
-^   U
+^  <U
 
 in
 
@@ -4171,7 +4224,7 @@ to
 
 c
 
-u     u
+u    <u
 
 
 II
@@ -4402,7 +4455,7 @@ al
 
 <
 
- u
+<u
 
 >,
 
@@ -4525,7 +4578,7 @@ j;j
 
 IT!
 
- n
+<n
 
 E
 
@@ -4581,7 +4634,7 @@ c
 
 3
 
- u
+<u
 
 3
 
@@ -8530,7 +8583,7 @@ m,  as  in  English,  but  often  long,
 b,  as  in  English  (rare).
 V,  as  in  English  (rare).
 
- f),  unrounded  bilabial  spirant,  Kleinschmidt's /.
+<f),  unrounded  bilabial  spirant,  Kleinschmidt's /.
 P,  unrounded  bilabial  spirant,  Kleinschmidt's  v.
 
 
@@ -9081,7 +9134,7 @@ O
 \^        —
 
 
- U      3      Ct
+<U      3      Ct
 
 C  U-  -
 
@@ -9359,7 +9412,7 @@ C
 
 t"   5
 
- u    0
+<u    0
 
 t^
 
@@ -9683,7 +9736,7 @@ o^
 
 •  -    u
 
-tn     u
+tn    <u
 
 s
 
@@ -9719,7 +9772,7 @@ c
 
 •+
 
- u
+<u
 
 u.
 
@@ -9769,7 +9822,7 @@ C
 
 (U
 
- U
+<U
 
 s
 
@@ -10644,7 +10697,7 @@ o
 
 u
 
- u
+<u
 •V
 
 o
@@ -10730,7 +10783,7 @@ n3
 
 CJ
 
- L)
+<L)
 
 v
 
@@ -11040,7 +11093,7 @@ Collected  by  E.  W.  Hawkes.
 
 T3  -^   -^
 
-.-  C      u
+.-  C     <u
 
 O  o    -w
 
@@ -11303,7 +11356,7 @@ O.
 
 «
 
- u
+<u
 
 u
 
@@ -11948,3 +12001,91 @@ Guide  Book  No.  10.  Excursions  in  northern  British  Columbia  and
 Yukon  Territory  and  along  the  north  Pacific  coast,  1913.
 
 Summary  Report  for  the  calendar  year  1912,  issued  1914.
+
+Prospector's  Handbook  No.  1.  Notes  on  radium-bearing  minerals,
+1914— by  Wyatt  Malcolm.
+
+The  archaeological  collection  from  the  southern  interior  of  British  Colum-
+bia, 1914 — by    Harlan  I.  Smith.
+
+Summary  Report  for  the  calendar  year  1913,  issued  1915.
+
+Summary  Report  for  the  calendar  year  1914,  issued  1915.
+
+Summary  Report  for  the  calendar  year  1915,  issued  1916.
+
+
+^6
+
+
+.o
+
+
+O'
+
+
+UTY  MiN
+
+
+60
+
+
+^<f
+
+
+C//,
+
+/?
+
+
+Hrynrhnnit  iif  jHhtn-
+
+CtOLOGICAL    SURVEY
+
+
+OUTLINE    MAP
+
+
+>^\>'
+
+
+..^.
+
+
+^
+
+
+^   i-V
+
+
+,.lifX:  ^,^,  ,^
+
+
+S-K  ;.i^
+
+
+A
+
+
+^^A^        %
+
+
+i'  •■  ^
+
+
+i  :<!'./•
+
+
+•>V;;  '-V"
+
+
+ESKIMO     TRIBES      OF     THE      LABRADOR       PENINSULA
+
+Sc«lr  f>r  Mil.-*
+
+
+^^:i
+
+
+*  o\- V  /\
+

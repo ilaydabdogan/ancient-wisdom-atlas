@@ -65,6 +65,34 @@ figures:
 
 # The Assiniboine
 
+NUNC  COGNOSCO  EX  PARTE
+
+
+TRENT  UNIVERSITY
+LIBRARY
+
+
+Digitized  by  the  Internet  Archive
+in  2019  with  funding  from
+Kahle/Austin  Foundation
+
+
+https://archive.org/details/assiniboine0004lowi
+
+
+Trent  Uniwrsitv  titHVf
+
+
+ANTHROPOLOGICAL  PAPERS
+
+
+OF  THE
+
+
+American  Tluseum  of  Natural
+
+History.
+
 
 Vol.  IV,  Part  I.
 
@@ -7318,7 +7346,7 @@ n  1251  ec7aLye^h  **  ^  Monta^nais  mythology  (Jesuit  Relations,  1636,  Vo
 
 3  in  another  version,  the  visitors  are  Ojibwa.  Sitcon'ski  pretends  to  be  dead  but  finullv
 
-medicines': far  trapping bSver,\yrix  ^  ^  "***  be“
+medicines': far  trapping<bSver,\yrix  ^  ^  "***  be“
 
 p.  70  (Gros  Ventre);  Dorsey  and  Kroeber  p  m ^  (AranahoV  ’ T n n Kr°eber’  (e)’
 
@@ -7483,7 +7511,7 @@ this  way.  Thus  he  killed  four  hundred  of  them.
 Sitcon,ski  got  to  a  large  lake  and  saw  some  plants  growing  in  the  water.
 He  asked  them,  “What  is  your  name?”  “Reed  (?).”  “Everything  has
 
-i  Cf.  Kroeber,  (e)7p^  69  (Gros  Ventre);  Dorsey  and  Kroeber,  p.  6°  (Arapaho);  Ibi L,
+i  Cf.  Kroeber,  (e)7p^  69  (Gros  Ventre);  Dorsey  and  Kroeber,  p.  6°  (Arapaho);  Ibi<L,
 fi0  (ChevenneV  Simms,  p.  287  (Crow);  Jones,  p.  273  (Fox);  G.  A.  Doisey,  (d),  p.
 hrSJS?  iZ  W,  P  m  SWw„ee>:  «.  CO,  P.  (Wichita).  Al»  ha.rh  hy  the  w»«r
 among  the  Cree.
@@ -16764,3 +16792,75 @@ the  other  his  partner  was  ashamed
 
 
 Antiiuoi'.  Pap.  A.  M.  N.  II.
+
+
+Vol.  IV,  Plate  I.
+
+
+Woman  Wringing  a  Skin.
+(Page  14)
+
+
+w .  ■'
+
+
+Antiikop.  Pap.  A.  M.  N.  II.
+
+
+Assiniboine  Couple.
+(Page  15)
+
+
+Vol.  IV,  Plate  II.
+
+
+Dog-Travois.
+(Page  15)
+
+
+Anturoi*.  Pap.  A.  M.  N.  H.  Vol.  IV,  Plate  111.
+
+
+Fool-Daxcfrs.
+
+
+(L
+
+16  2  3
+
+
+GN2
+
+Lowie,
+
+
+DATE
+
+
+GN  2  A27  v.  4  pt.  1
+
+Lowie,  Robert  Harry,  1883
+The  Assimbome  -
+
+
+0
+
+
+010101  000
+
+
+63  0202049  4
+
+TRENT  UNIVERSITY
+
+
+.  A27  v.  4  pt.  1
+Robert  Harry
+The  Assiniboine
+
+
+ISSUEJ)^
+
+
+74269
+

@@ -65,6 +65,58 @@ figures:
 
 # Traditions of the Caddo
 
+This is a digital copy of a book that was preserved for generations on library shelves before it was carefully scanned by Google as part of a project
+to make the world's books discoverable online.
+
+It has survived long enough for the copyright to expire and the book to enter the public domain. A public domain book is one that was never subject
+to copyright or whose legal copyright term has expired. Whether a book is in the public domain may vary country to country. Public domain books
+are our gateways to the past, representing a wealth of history, culture and knowledge that's often difficult to discover.
+
+Marks, notations and other marginalia present in the original volume will appear in this file - a reminder of this book's long journey from the
+publisher to a library and finally to you.
+
+Usage guidelines
+
+Google is proud to partner with libraries to digitize public domain materials and make them widely accessible. Public domain books belong to the
+public and we are merely their custodians. Nevertheless, this work is expensive, so in order to keep providing this resource, we have taken steps to
+prevent abuse by commercial parties, including placing technical restrictions on automated querying.
+
+We also ask that you:
+
++ Make non-commercial use of the files We designed Google Book Search for use by individuals, and we request that you use these files for
+personal, non-commercial purposes.
+
++ Refrain from automated querying Do not send automated queries of any sort to Google's system: If you are conducting research on machine
+translation, optical character recognition or other areas where access to a large amount of text is helpful, please contact us. We encourage the
+use of public domain materials for these purposes and may be able to help.
+
++ Maintain attribution The Google "watermark" you see on each file is essential for informing people about this project and helping them find
+additional materials through Google Book Search. Please do not remove it.
+
++ Keep it legal Whatever your use, remember that you are responsible for ensuring that what you are doing is legal. Do not assume that just
+because we believe a book is in the public domain for users in the United States, that the work is also in the public domain for users in other
+countries. Whether a book is still in copyright varies from country to country, and we can't offer guidance on whether any specific use of
+any specific book is allowed. Please do not assume that a book's appearance in Google Book Search means it can be used in any manner
+anywhere in the world. Copyright infringement liability can be quite severe.
+
+About Google Book Search
+
+Google's mission is to organize the world's information and to make it universally accessible and useful. Google Book Search helps readers
+discover the world's books while helping authors and publishers reach new audiences. You can search through the full text of this book on the web
+
+
+at |http : //books . google . com/
+
+
+B
+
+
+790.045
+
+
+V
+
+
 Traditions of the Caddo
 
 
@@ -469,7 +521,7 @@ see him, and he watched them very closely. When they came to the
 place where they usually found their meat. Coyote found out all about
 
 
-THB CRKATION AND BARI Y MIGRATIONS. II
+THB CRKATION AND BARI<Y MIGRATIONS. II
 
 how and where they got It, then ran back to their home and lay down,
 so that when the Buzzards returned to their home they found their
@@ -5431,7 +5483,7 @@ says boys and dog have just passed. Duck carries g^l across. Brothers see her
 coming. They meet three white doves, who, at their request, fly to the sky with
 them and dog. Smoke makes doves' white feathers gray. Girl asks doves where
 brother and dog are. They point to three bright stars in southern part of sky.
- r\xl looks at stars and falls dead.
+<r\xl looks at stars and falls dead.
 
 12. THE MAN AND THE DOG WHO BECAME STARS.
 
@@ -6667,3 +6719,4 @@ some one calling him. Snake comes up, and Coyote, after referring to Snake's
 supposed power, says he wants to see which of them has most power. Snake
 agrees and suggests that they bite each other once. Coyote says snake is to bite
 first. Snake goes up to Coyote and bites him on top of nose. Coyote asks if that
+

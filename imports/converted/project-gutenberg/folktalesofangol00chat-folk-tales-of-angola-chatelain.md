@@ -1,303 +1,3 @@
-# Folk-Tales of Angola: Fifty Tales, with Ki-mbundu Text, Literal English Translation, Introduction, and Notes
-
-
-Early in 1885 I landed at Loanda, as pioneer and linguist of
-Bishop William Taylor’s self-supporting missions in Africa. My
-duty was to acquire the languages, impart them to the missionaries, and prepare grammars, vocabularies, translations, and other
-elementary books needed by missionaries in the course of their
-labors.
-
-During the first two years spent at Loanda the necessity of
-supporting myself and the station by means of tuition, which had
-to be given in the Portuguese tongue, added to chronic dysentery
-and fevers, left me practically no time for the study of the native
-language. But I was compelled to master Portuguese, which in
-Angola is indispensable for dealing with the educated classes, and
-is always of utility in intercourse with the common natives.
-
-My attempts to acquire the native language in Loanda, though
-largely unsuccessful, taught me several things: (1) that the books
-hitherto published on the language were worse than useless, being
-positively misleading; (2) that the Portuguese and the educated
-natives were not to be relied on as informants ; (3) that the form
-of speech in daily use among Loanda natives, needlessly mixed
-with Portuguese elements, offers poor material for the study of the
-genuine Ki-mbundu ; (4) that the latter, and not Ambundo, Bunda,
-N’bundo, or any of the other current terms, is the only satisfactory
-and proper name of the native tongue.
-
-My third year was spent in the interior, chiefly at Malange, the
-farthest inland settlement of the Portuguese, and the point of convergence of important trade routes. Here I had better opportunities
-for linguistic studies, although the necessity of teaching in Portuguese still left me only a few late hours of the night for the record
-of daily observations.
-
-Before the close of the year I had collected about three thousand
-
-
-VI
-
-
-words, discovered the principal rules of Ki-mbundu phonology, morphology, and syntax, and firmly established the following important
-facts : (i) that the dialects spoken at and between Loan da and
-Malange are mutually intelligible, while those of Kisama, Lubolo,
-Songo, Ndongo, and Mbondo become so after very little practice ;
-that, accordingly, all these dialects form one language, and that
-books printed in either the Loanda or Mbaka dialect would be useful to these tribes ; (2) that the political and commercial importance of the Loanda district, where Ki-mbundu is the vernacular,
-the number and partial civilization of the inhabitants, the vast
-extra-territorial use of the language — in the coast-belt, wherever
-there are to be found Portuguese traders, troops, or authorities,
-and eastward as far as the Lualaba, wherever the ubiquitous
-Ambaquista (native of Mbaka) has penetrated — fully warranted the
-founding of a Kimbundu literature ; (3) that I was at the time the
-only person willing and able to spend and be spent in this laborious
-task.
-
-The sense of this great need of the Angolan people brought me
-back to civilization. During 1888, while recuperating in the mountains of the Swiss Jura, at the house of my mother, I wrote and
-published a primer and a gospel, as well as the first reliable grammar of Ki-mbundu, and prepared a dictionary of the same. The
-specimens of the language, namely, proverbs, riddles, and two short
-tales, contained in this grammar, were also the first examples of
-Ki-mbundu folk-lore placed before the public.
-
-In 1889 I was again in America, and accompanied as philologist
-the United States Scientific Expedition to West Africa (called also
-the “ Pensacola Eclipse Expedition ”) as far as Loanda. Here and
-in the neighborhood I took especial pains to obtain folk-tales and
-proverbs, and succeeded in securing hundreds of the latter and about
-a dozen of the former. My intention was to publish this material
-in one of the volumes containing the contemplated Reports of the
-Expedition.
-
-A few days prior to my sailing once more for America, Jeremiah,
-my former pupil and friend of Malange, arrived at Loanda and
-volunteered to accompany me to Christendom. To him I owe
-the bulk of my tales and the best of them, as also much reliable
-information in regard to native beliefs and customs. A few of his
-stories were written on shipboard ; the greater part were dictated,
-and subsequently type-written by him at Vineland, N. J., in 1890
-and 1891.
-
-In June, 1891, when I returned to Angola as United States Commercial Agent, the manuscript, consisting of eighty folk-tales, with
-interlinear translation and notes, was practically ready for the press.
-It was then hoped that the Smithsonian Institution would undertake
-its publication. Since that time additional stories have been collected, and now there is material available for one or two additional
-volumes. Proverbs, riddles, and songs have also accumulated, so
-that the present volume, containing fifty tales, is only a first instalment of what I intend fo publish as soon as means are forthcoming.
-
-This will meet the objections of those who would have preferred
-to find in this volume examples of all the classes of native traditional
-literature. The remarks already made will also account for the
-prominence of the linguistic features of this book, which is intended
-to serve as a text-book for students of African languages as well as
-for students of comparative folk-lore. The scientific reader will
-appreciate the local coloring of the literal version and the proof of
-genuineness given by adding the original text.
-
-The Comparative Notes are not intended to be exhaustive, but
-simply to give a few stray hints to the folk-lorist, and to furnish the
-general reader with some idea of the world-wide dissemination of
-folk-tales and of mythologic elements. Those who are acquainted
-with the animal tales of American negroes will readily recognize
-their variants in this collection. Fictitious tales (mi-soso), including
-animal stories, are placed first, and followed by narratives taken to
-be the records of events ( maka ) ; historical traditions ( tna-lunda )
-are left for future publication. Within each class the tales are
-grouped with the intention of bringing together those mutually
-explanatory.
-
-The chapter on African folk-lore, in the Introduction, was written
-in 1890-91. Students of folk-lore will notice that recent articles
-contained in folk-lore journals, and easily accessible to specialists,
-are not mentioned. Since 1890, Stanley’s expedition into “Darkest
-Africa” has furnished a contribution to African folk-lore in J. M.
-Jephson’s “Stories told in an African Forest.” J. McDonald, in
-“Folk-Lore” (London), and E. Jacottet, in “Revue des Traditions
-Populaires ” (Paris), have published interesting articles on Bantu
-
-
-Vlll
-folk-lore. Very recently Dr. C. G. Buttner has published an “Anthologie aus der Suaheli-Litteratur ” (Berlin, E. Felber, 1894), which
-appeared but a few days before the author’s death. As this excellent work is a publication and translation of Swahili manuscripts, it
-is not surprising that only one story is entirely African.1 The bulk
-of the written literature of Zanzibar is, naturally, either wholly or
-in large measure of Arabian origin.
-
-No collector of folk-tales in a virgin field will be astonished to
-hear that mountains of prejudice were to be overcome by dint of
-diplomacy, perseverance, and remuneration before Angolan natives
-could be induced to reveal the treasures of their traditional lore to
-a stranger armed with pencil and paper. Now the spell is broken,
-and not a few natives volunteer, for a compensation, to have their
-stories taken down in writing.
-
-The future of native Angolan literature in Ki-mbundu, only nine
-years ago so much derided and opposed, is now practically assured.
-J. Cordeiro da Matta, the negro poet of the Quanza River, has abandoned the Portuguese muse in order to consecrate his talents to the
-nascent national literature. The autodidactic and practical Ambaquistas of the interior have begun to perceive the superiority, for
-purposes of private correspondence, of their own tongue to the Portuguese,— to them what Lacin is to the Lusitanian peasant ; finally,
-indications are not wanting that the Portuguese authorities, civil
-and ecclesiastic, are becoming awake to the importance of a general
-language like the Ki-mbundu as a link between the official speech
-and the multitudinous Bantu dialects of their vast province of
-Angola.
-
-In Africa, Portugal is caught as in a trap between powerful and
-encroaching neighbors, each one of whom is more than her match.
-The only safeguard of the last, but still magnificent remnant of her
-once unequalled colonial empire lies in the affection of her African
-subjects ; and in no wise can she secure this better than by giving
-them what they desire, have patiently awaited, and are promised
-by the Constitution — namely, a rational system of elementary,
-industrial, and higher education. Nor can the primary school be a
-success so long as teacher and pupil are expected to read and write
-a language which neither understands.
-
-To the Department of State at Washington and to the American
-
-1 Der Fuchs nnd das Wiesel \ a parallel of our No. XXIX.
-
-
-Geographical Society are due my thanks for the plates of my two
-maps of Angola.
-
-It will give me pleasure to receive suggestions or criticisms from
-any person interested in African philology or folk-lore.
-
-HELI CHATELAIN.
-
-New York, February i, 1894.
-
-
-Permanent Address :
-Care of National Museum,
-Washington, D. C.
-
-
-♦
-
-
-Introduction. page
-
-I. Description of Angola 1
-
-
-III. Literature of Ki-mbundu 23
-
-IV. Pronunciation of Ki-mbundu 25
-
-
-Version B 43
-
-II. Fenda Maria and her Elder Brother nga Nzua . . 53
-
-
-IV. The Woman who Longed for Fish 83
-
-V. Sudika-Mbambi 85
-
-VI. Ngana Samba and the Ma-kishi 97
-
-VII. The Girls and the Ma-kishi 103
-
-VIII. The Children of the Widow 111
-
-IX. The Kianda and the Young Woman 115
-
-X. The Four Uouas 117
-
-XI. Mr. Carry-me-not and Mr. Tell-me-not . . . .125
-
-XII. Mutelembe and Ngunga 127
-
-XIII. The Son of Kimanaueze and the Daughter of Sun and
-
-Moon 131
-
-XIV. A Bride and her Brothers-in Law 141
-
-XV. The Lions and Kimona-ngombe 145
-
-XVI. The Blacksmith and the Blackbirds 151
-
-XVII. Man and Turtle 153
-
-XVIII. Nianga dia Ngenga and Leopard 157
-
-XIX. The Child of Hunter and the Child of Deer . . 159
-
-XX. Diniana dia Ngombe and Deer . . . . . .159
-
-XXI. Leopard, Antelope and Monkey. Version A . . . 161
-
-Version B .173
-
-XXII. Leopard, Monkey, and Hare 183
-
-XXIII. Leopard and the Other Animals 189
-
-XXIV. The Young Leopard and the Young Goat . . .191
-
-XXV. Hare and Leopard 197
-
-XXVI. The Lawsuit of Leopard and Antelope .... 197
-
-XXVII. Lion and Wolf 201
-
-
-xii Contents .
-
-XXVIII. Elephant and Frog . 203
-
-XXIX. Fox and Mole 203
-
-XXX. Cock and Fox 207
-
-XXXI. Jackal and Hare 209
-
-XXXII. Squirrel and the Kingship 21 1
-
-XXXIII. Dog and the Kingship 211
-
-XXXIV. Dog and Lizard 213
-
-XXXV. Dog and Jackal 213
-
-XXXVI. The House-Hog and the Wild Boar . . . .215
-
-XXXVII. Partridge and Turtle 215
-
-XXXVIII. Frog and his Two Wives 217
-
-XXXIX. Nianga dia Ngenga and his Dogs 219
-
-XL. King Kitamba kia Xiba 223
-
-XLI. The Young Man and the River 229
-
-XLII. Kingungu a Njila and Ngundu a Ndala . . .233
-
-XLI 1 1. Two Men, One Woman 235
-
-XLIV. A Father-in-Law and his Son-in-Law .... 239
-
-XLV. The Young Man and the Skull . . . . . .243
-
-XLVI. The White Man and the Negro 243
-
-XLVII. The Lion is Strong; so is Friendship Strong. . . 245
-
-XLVI 1 1. The Builder of Ability and the Builder of Haste . 247
-
-XLIX. The Past and the Future 247
-
-
-List of Works on African Folk-Lore, cited in the Introduction 310
-
-Appendix — Music 311
-
-Index 3*3
-
-
 INTRODUCTION,
 i.
 
@@ -1687,7 +1387,6 @@ and higher ; but the tonic accent remains as usual.
 Mbaka dialect, and is the only nasalized vowel in the standard dialects of Ki-mbundu.
 
 
-FOLK -TALES OF ANGOLA,
 i.
 
 
@@ -1730,9 +1429,6 @@ of the room in which is the mirror, and she looks and looks at herself in it
 
 
 When she had done looking at herself, then she goes out.
-
-
-30 Folk-Tales of Angola .
 
 
 Day the other, mother hers, when she had done dressing, then she went
@@ -1832,9 +1528,6 @@ She is going to ngana Fele Milanda.
 
 
 And she walks, walks : she completes month one, months two ; she walks
-
-
-32 Folk - Tales of Angola.
 
 
 on and on. When she completed the ten (of) months, she meets an old woman full (of)
@@ -2020,9 +1713,6 @@ when it ran over on the ground, Fele Milanda revived.
 When saw this Kamasoxi, he himself, Fele Milanda, comes where
 
 
-36 Folk- Tales of Angola .
-
-
 Kamasoxi (was), he her gives a hug, saying: “Thou hast me given (saved)
 
 
@@ -2120,9 +1810,6 @@ Fenda Maria, then he them forgets.
 
 The steamer, when it had gone already days four in Ocean, Fele Milanda
 remembered the things that him ordered Fenda Maria, and he begged
-
-
-38 Folk -Tales of Angola.
 
 
 the captain of the ship to go back. The captain would not.
@@ -2431,9 +2118,6 @@ white lady wears. And she takes the things of Portugal, she sets
 them on top of the table, and begins to speak : “Thou, ngana Vidiji
 
 
-46 Folk - Tales of Angola .
-
-
 batujudienu.”
 
 
@@ -2481,9 +2165,6 @@ thy wife ; thy wife is that one (yonder) asleep ; * she said to him :
 Thou stone, the speaker-of-truth ; you scissors cut-yourselves ; thou
 razor whet-thyself ; thou lamp light-thyself, (if I have spoken lies)
 cut me to pieces.”
-
-
-48 Folk - Tales of Angola .
 
 
 The lamp and things all light themselves ; the stone is knocking
@@ -2536,9 +2217,6 @@ the things that Kamaria is doing in the house.
 Kamaria begins to speak : “ But for me ! Vidiji Milanda, I walked
 for thee for eight days. I walked in the forest, I, a woman of God,148
 with my troubles and my miseries. On the ninth day, when I arrived
-
-
-50 Folk - Tales of Angola .
 
 
 di xisa.
@@ -2645,9 +2323,6 @@ the house of nga Nzud.
 Nga Nzuana finds ngana Fenda Maria, daughter of Kinoueza kia
 
 
-54 Folk- Tales of Angola.
-
-
 uazek’^.
 
 kusoneka.
@@ -2709,7 +2384,6 @@ to cry.
 When she went to see at the landing, whether the tub appears (is
 
 
-56 Folk -Tales of Angola,
 kibetu.189 Azek' L
 
 fazenda! ujikul’ o’nzo: ualende ! ujikul’ o’nzo: kobidi ! 190 ujikul'
@@ -2770,9 +2444,6 @@ Nga Maria says : “ I am going now.”
 
 
 They say : “ No, we will
-
-
-58 Folk- Tales of Angola.
 
 
 me ! O kuuaba, ku uauab’ eie, ngana iami, o muhetu ua mundele, ua
@@ -2890,8 +2561,6 @@ Arriving in the evening, ngana Fenda Maria says : “I am going
 now; but know thou well, Lord Governor, to-morrow we shall talk.”
 They part : “ Reach (home well).” “ Farewell.”
 
-
-62 Folk- Tales of Angola .
 
 die. Azeka.
 
@@ -3110,8 +2779,6 @@ not complete ; even in part they have not come to it. He kills his
 bull ; divides ; not complete. He kills his slave ; divides ; not com-
 
 
-70 Folk -Tales of Angola.
-
 tena kid ; uaxala ubeka ud.”
 
 
@@ -3178,9 +2845,6 @@ He took up his staff ; he went into the midst of the bush, alone.
 He walked, walked ; his feet hurt him. He says : “ How shall I
 
 
-72 Folk- Tales of Angola.
-
-
 mbangala.
 
 
@@ -3237,9 +2901,6 @@ to-morrow we shall go.” They begin to pass the time. They take
 the meat of the hog outside ; they spread it on the roof of a camp-
 
 
-74 Folk-Tales of Angola.
-
-
 hut. A (few) women of the villagers came to sell eatables to the
 travellers. They found hog’s meat on the roof ; they said : “ Travellers, sell us a little hog’s meat.” The travellers said : “ It is not
 our meat ; it is the meat of another ; of the gentleman who is asleep
@@ -3289,9 +2950,6 @@ the sky. Na Maria, the daughter of the Lord Governor, is in the
 verandah of the house sewing clothes. She looks on the ground ;
 she sees the shadow of a little bird. It pleases her ; she turns her
 eyes upward ; she sees the little bird (is) there.
-
-
-76 Folk- Tales of Angola .
 
 
 uakulumuka boxi.
@@ -3356,8 +3014,6 @@ we *11 wake ; that we may catch the thief, (who) yesterday caused us
 the beating.” At the middle of night the little bird says : “Teleji !
 little ant.** It is transformed ; it (ant) gets down on the ground.
 
-
-78 Folk- Tales of Angola .
 
 xib’&.
 
@@ -3722,9 +3378,6 @@ stayed, the old woman comes. She found Kipalende, said : “ Let us
 fight ! Thou, if thou beatest me, thou shalt marry with my grand-
 
 
-90 Folk - Tales of Angola .
-
-
 loza.
 
 
@@ -3787,9 +3440,6 @@ he found a road ; he is walking.
 
 He arrives in midst of road ; he finds an old woman, who is hoeing
 with the head (part) ; the lower (extremity), she kept it in the
-
-
-92 Folk- Tales of Angola .
 
 
 shade.334 Sudika-mbambi gave the old woman the day : “ My grandmother, warm there ! ” The old woman responds : “ Heat of day (is)
@@ -3895,9 +3545,6 @@ goes to the West.
 Thus the elder and the younger quarrelled about women; then
 
 
-96 Folk -Tales of Angola.
-
-
 VI.
 
 NGANA SAMBA NI MAKIXI.
@@ -3977,9 +3624,6 @@ The others laughed, saying : “ It is nice.” They lived on.
 After spending a time, the other Ma-kishi begin to persuade the
 man of the woman, saying : “ Let us eat her ; one day she will run
 away.” He, the Di-kishi, said: “I will not ; I will marry her.”
-
-
-98 Folk - Tales of Angola .
 
 
 mu njila.
@@ -4359,9 +4003,6 @@ all have retired ; 374 the Ma-kishi take leave of the girls, saying :
 “ Sleep ye well.” The girls respond. The Ma-kishi go out.
 
 
-108 Folk - Tales of Angola .
-
-
 bula :
 
 
@@ -4570,9 +4211,6 @@ younger went for the water. The younger got the water ; came
 father said : “ The old woman, forthwith when she puts the water
 
 
-1 14 Folk - Tales of Angola .
-
-
 Alenge d kud manii d.
 
 Mahezu.
@@ -4641,9 +4279,6 @@ child is dead ; thy mother (need) not come to the funeral ’ ? ”
 
 When he had finished speaking, he takes the kalubungu, and
 knocks it on the ground. The houses all then go into the kalu*
-
-
-1 1 6 Folk - Tales of Angola.
 
 
 umoxi.
@@ -5303,9 +4938,6 @@ He finished the letter ; he laid it on the table ; went. Frog came
 out of the corner ; took the letter. He entered the jug ; slept.
 
 
-136 Folk- Tales of Angola.
-
-
 uasuam’e.
 
 
@@ -5362,9 +4994,6 @@ two.
 The son of na Kimanaueze said : “ I need people, to go to bring
 home the bride for me; I find them not. They say, *we cannot
 go to heaven/ Now, how shall I do, thou, Frog ? ” Frog said ;
-
-
-138 Folk- Tales of Angola.
 
 
 Uabatam’d, uazekele.
@@ -5660,9 +5289,6 @@ arrives outside of Kimona-ngombe’s ; she finds him seated on the
 threshold of the house.
 
 
-146 Folk - Tales of Angola .
-
-
 Uabixila ku bata did; uatangela akua, kuma: “Kimona-ngombe
 uxi :
 
@@ -5799,8 +5425,6 @@ Himself Kimona-ngombe is asleep, falsely;
 (But) Ndala ja Kimona-ngombe has no sleep on face, pooh ! ”
 
 
-150 Folk - Tales of Angola.
-
 iS n' abik' e m* usuku ueniu, uxi : “ Zenu, mute inzo mu tubia. O mu-
 
 
@@ -5932,8 +5556,6 @@ And hatchet of Koka ;
 
 Hatchet not kills me * bit.”470
 
-
-154 Folk- Tales of Angola .
 
 mu kanu :471
 
@@ -6126,9 +5748,6 @@ on ground. He gets down. He grasps Deer by a leg ; he finishes
 it with the hatchet ; it is dead. He takes the knife from waist ; he
 
 
-160 Folk - Tales of Angola.
-
-
 XXI.
 
 NGANA NGO NI NGULUNGU NI HIMA.
@@ -6255,9 +5874,6 @@ food ; he ate ; we gave him a jug of water ; he drank ; we gave him
 the pipe ; he smoked ; (then) he said, 4 1 am going now ; fare ye well
 
 
-164 Folk - Tales of Angola.
-
-
 lembua.”
 
 
@@ -6309,9 +5925,6 @@ food. Wait till evening, then thou shalt eat.”
 The evening having come, the food is ready, he says : “ My grandson, fetch quickly the fish-trap with the water.” When he goes to
 fetch the fish-trap, when he dips out the water, it runs out. He says :
 “Ah ! I spent the time being hungry ; I dip out water with the fishtrap, it runs out. Better I go away ; the water, I give it up.”
-
-
-1 66 Folk - Tales of Angola .
 
 
 id.
@@ -6374,9 +5987,6 @@ They eat it. Then a child says : “ Mama, this meat is smelling like
 papa. I wonder, whither papa went, whether they killed him ? I
 
 
-1 68 Folk - Tales of Angola.
-
-
 II. NGANA NGO NI NGANA HIMA.
 
 
@@ -6434,8 +6044,6 @@ When they arrived at a straw-heap where is fire, (he) says : “ My
 grandson, roast here thy corn.” He says : “ Oh ! grandpa, here, the
 fire is out; the corn, will it cook?” “Roast wherever thou wilt.”
 
-
-170 Folk- Tales of Angola.
 
 Azangula.
 
@@ -6499,9 +6107,6 @@ sleep.
 
 Arriving in the morning, the father-in-law, as he goes to look at
 the curral, finds the goats all killed. Monkey enters the house,
-
-
-1 72 Folk- Tales of Angola .
 
 
 kia mon’ ami.” Azek’d.
@@ -6580,8 +6185,6 @@ them up in his bosom. They bite him. He throws them down in
 great haste, saying : “ Sir,614 they are biting.” Mr. Leopard laughs.
 
 
-174 Folk- Tales of Angola .
-
 tui’etu ! ”
 
 
@@ -6644,9 +6247,6 @@ I, Mr. Leopard, behind, where I stayed, dogs ate the mush. The
 little that I took from the dogs, eat (it) only, that little. I shall go
 to sleep (with) my hunger.” Our friend, Mr. Antelope, ate. They
 had their evening chat, (and) went to sleep.
-
-
-1 76 Folk - Tales of Angola.
 
 
 at ala ku muelu : hombo iojibe ! Abokona mu xilu. Na Ngulungu,
@@ -6893,9 +6493,6 @@ he took to chasing him, he gave him up. Monkey also ran away,
 Mr. Leopard goes to his home.
 
 
-184 Folk- Tales of Angola .
-
-
 kuala mbudi. Eie ud, Kabulu, ku bata did kuala-hi ? ” Uixi : “ Ku
 usuam’d.
 
@@ -6952,8 +6549,6 @@ eat. When he finished eating, he drank water. He comes to one
 place, washes his hands ; comes to the other, washes (his) hands.629
 He goes again under the bush ; he hides.
 
-
-1 86 Folk-Tales of Angola .
 
 Kabuiu uatula, uixi: "Moso d ! Kahim’d ! elumba iadi kid!” Alo-
 "Aiud! Mosod! t uanaminina.”
@@ -7230,8 +6825,6 @@ He says : “ I (must) pee in it.” Says : “Just pee ! *’ “I must mess
 in it.” Says : “ Do not mess in it ; get out of the sack of my
 father.” He let him out; the young goat came out.
 
-
-194 Folk- Tales of Angola .
 
 “ Sus’d ! ” Uxi : “ Nginenena-mu.” Kamba die uxi : “ Nen'd ! ” Kauxi: “Kiauaba.”
 
@@ -7651,9 +7244,6 @@ used to grasp me; I said, ‘the thing, that my friend Cock has, if I
 am playing with him, and he hit me (with) it, I shall be wounded ; ’
 but no.” Cock laughed; they played. Cock went to his house.
 Fox went also into his ant-hill.654
-
-
-20 8 Folk -Tales of Angola,
 
 
 XXXI.
@@ -8172,9 +7762,6 @@ my village too, no man shall do anything therein. The young people shall not sho
 in the village.” The head-men said : “ Master, the woman is dead ;
 
 
-224 Folk -Tales of Angola .
-
-
 Makota a di zuelesa mu did, exi : “ Tukengienu kimbanda.”
 
 kina ; kiabu.
@@ -8516,9 +8103,6 @@ to ask for thy daughter ; I want her, (that) she be my consort.”
 Then her father says : “ The girl is one. You have come to ask
 
 
-236 Folk -Tales of Angola.
-
-
 Two Men , One Woman . 237
 
 her, two of you. I now am possessor of one daughter (only) ; I have
@@ -8566,9 +8150,6 @@ The aged men, they ask these two gentlemen, saying: “Yesterday you came to ask
 the deer ; the other, what has caused him not to come with it ? ”
 Then these two gentlemen said : " We went into the forest to
 seek deers, both of us, and we saw them. My comrade pursued and
-
-
-238 Folk -Tales of Angola .
 
 
 XLIV.
@@ -8798,9 +8379,6 @@ place. The lion-man returns to his home; he becomes a man.
 They slept.
 
 
-246 Folk - Tales of Angola .
-
-
 XLVIII.
 
 MUTUNGE A UHETE NI MUTUNGE A KUSANE-
@@ -8932,8 +8510,6 @@ mapudipudi,626 cocoa-palm, orange-tree, lemons, for to plant on earth.
 And he tells him : “ In eight (of) days, I will go to visit thee at thy
 home.”
 
-
-250 Folk-Tales of Angola .
 
 kituta.
 
@@ -9115,8 +8691,6 @@ are also known to some as a separate nation and called Landeji , from the Portug
 other white nationalities they are called Jipultukeji, sing. Pultukeji, from “ Portuguez.” The compound sound It being contrary to Ki-mbundu euphony, the form
 
 
-256 Folk-Tales of Angola .
-
 Putukeji will soon supersede the former. An American is called Melekatiu, pi.
 A-mclekanu, or Ji-melekanu ; also Mukua-Mileka , pi. Akua-Mtleka .
 
@@ -9258,7 +8832,6 @@ kiebi ? ; in Loanda ndt for nanii ?
 49. Milancf d ? Accentuated d at the end of an interrogative sentence is, with
 
 
-258 - Folk-Tales of Angola,
 the rising intonation, the only audible or visible sign of interrogation; for the
 construction of an interrogative is identical with that of a positive sentence.
 
@@ -9397,8 +8970,6 @@ also means w to dismiss a wife.”
 82. Ku-lembalala , from Portuguese “ lembrar.” The Ki-mbundu word -for
 remembering is ku-tukumuka.
 
-
-260 Folk-Tales of Angola .
 
 S3. Kabitangu , from Portuguese “capitao ; ” naviiu , or navlu, from Portuguese “navio.”
 
@@ -10003,8 +9574,6 @@ now, but as they appeared to the first Bantu settlers, and as they were by these
 incorporated into the semi-historic and semi-mythologic folk-lore of their race.
 
 
-270 Folk-Tales of Angola .
-
 The hydra-like heads of the Ma-kishi are an excellent symbol of the system of
 guerilla warfare common to all the Ba-tua (see Callaway’s “Nursery Tales,” p.
 354). It is strange that Callaway did not notice the similarity of his cannibals
@@ -10258,8 +9827,6 @@ of this Mu-ti (tree) becomes 7iiu-xi in Mbaka, mu-xi in Loanda.
 Loanda word anga , or inga, meaning, “ whether, or, if, and, then.”
 
 
-274 Folk -Tales of Angola .
-
 245. Kiximbi is the spirit or genius who is supposed to be lord of a river or
 lagoon. It may be masculine or feminine. In Loanda, the same genius (dihamba , di-bamba or ki-lundu) is called Ki-anda or Ki-tuta . See Nos. IX. and L.
 
@@ -10396,8 +9963,6 @@ may be more correct to write Lubi la (lua) suku. See note 628.
 281. Mon ’ a ?nundele, i.e., “young white man;” also applied to a civilized
 native.
 
-
-276 Folk - Tales of Angola .
 
 282. Muania is the heat and light of the sun; daylight and noon-heat. In
 Loanda, the word is pronounced luania.
@@ -10809,8 +10374,6 @@ despise.” The reflective ku di tenda is “to consider unsatisfactory for one�
 self,” that is, “ to complain about.”
 
 
-282 Folk -Tales of Angola.
-
 368. The use of manii for “ in order to ” occurs only in the interior, and very
 seldom at that.
 
@@ -10943,8 +10506,6 @@ Dialect. Loanda.
 
 Comparative. In the first part of this story, which is composed of two separate ones, the chief actor is the Kianda, one of the most popular spirits of Loanda
 
-
-284 Folk -Tales of Angola*
 
 mythology. It is the water-genius, and it controls the finny tribe on which the
 native population of Loanda chiefly depend for their sustenance. Hence its popularity. The water-locked rocks beyond Fort St. Michel, at Loanda, are consecrated to Kianda and serve as altars, on which the natives still deposit offerings
@@ -11464,8 +11025,6 @@ the greater includes the smaller.
 state that any one of the parties requested him to act in that capacity.
 
 
-29 2 Folk -Tales of Angola .
-
 NO. XIX.
 
 
@@ -11604,8 +11163,6 @@ left.
 Kisama dialect.
 
 
-294 Folk -Tales of Angola .
-
 504. This is the Leopard speaking. Manii , la is peculiar to the informant for
 manii, se.
 
@@ -11738,8 +11295,6 @@ what may be on it.
 531. One of the essential parts of most native dances in Angola is the smacking of stomachs ( ku-belela ). Two dancers, leaving the circle, advance trippingly
 
 
-296 Folk -Tales of Angola .
-
 toward each other, and, when near enough, simultaneously thrust forward their
 stomachs so that they touch ; then they gracefully turn round with a bow, seek
 another party in the ring, and repeat the smack. Those just smacked jump into
@@ -11863,8 +11418,6 @@ main part of the maka or fact-stories. But for the fact that the animals are mad
 to speak, this piece should be classed with the latter and not with the fictitious
 tni-soso.
 
-
-298 Folk -Tales of Angola.
 
 The regular mythologic order of animal creation is here strictly observed : the
 Elephant is the king ; the Deer is the messenger ; the Antelope is, as usual, the
@@ -12242,8 +11795,6 @@ human kind they can, keep the former and sell the latter to their white, yellow,
 black, but civilized, customers of the coast region. Thus the Makioko nation,
 
 
-304 Folk -Tales of Angola .
-
 provided with guns and powder from Benguella, has wellnigh destroyed and
 “sold” the once great Lunda nation, its feudal superior. Among the victims of
 this traffic whom I questioned in various places, I found several who had been
@@ -12376,8 +11927,6 @@ ox ; and after so many years’ service he demands three cows. The generosity of
 the slave, who only leaves his master when he has grown to be decidedly more
 
 
-306 Folk -Tales of Angola .
-
 than his master, and then gives him all he demands, is peculiarly African. After
 living a number of years with his master, the slave often gets so attached to him
 and his surroundings that he considers himself one of the family.
@@ -12508,8 +12057,6 @@ and the story seems, therefore, to belong to tile mi-sosoj but the natives hold
 such metamorphoses to be not only possible, but frequent. In all earnest they
 
 
-308 Folk-Tales of Angola .
-
 will quote a fact like the present one, which passes as historical, to prove that by
 means of a charm or talisman a man can be transformed into any imaginable
 thing. See No. III. for a whole collection of metamorphoses. Compare with
@@ -12633,81 +12180,3 @@ They are still there ;
 Are they not, little mother? r
 
 
-LIST OF WORKS ON AFRICAN FOLK-LORE, CITED IN THE
-
-
-South Africa.
-
-Bleek, IV. H. /. A Brief Account of Bushman Folk-Lore. London, 1875.
-
-— Reynard the Fox in South Africa; or, Hottentot Fables and Tales.
-
-London, 1864.
-
-Brincker, H. Worterbuch des Otyi-Herero. Leipzig, 1886.
-
-Callaway , Rev. H. Nursery Tales, Traditions, and Histories of the Zulus.
-Natal, 1868.
-
-The Religious System of the Amazulu. Parts I.— III. Natal, 1868-
-
-70. 2d ed. (Publications of The Folk-Lore Society, xv.) London, 1884.
-
-Casalis , E. Etudes sur la langue S€chuana. Paris, 1841.
-
-Cape Monthly Magazine. [Scattered articles by Bleek, W. H. I., Orpen, J. M.,
-and Theel, G.] Capetown, 1870-1879.
-
-Folk-Zjme Journal. (South African Folk-Lore Society.) Capetown, 1879-81.
-
-Eritschy G. Die Eingeborenen Siidafrikas. Breslau, 1872.
-
-Grouty Rev. L. Zulu Land, or Life among the Zulu Kaffirs. Philadelphia,
-
-The Isizulu. A Grammar of the Zulu Language. Natal, 1859.
-
-Kronleiity Rev. J. G. Wortschatz der Khoikhoin. Berlin, 1889.
-
-Thealy G. McC. Kaffir Folk-Lore. 2d ed. London, 1886.
-
-West Africa.
-
-Bohnery Rev. H. Im Lande des Fetisches. Basel, 1890.
-
-
-Bouchey Abbi. Les Noirs peints par eux-mdmes. Paris, 1883.
-
-Bowen , Rev. T. J. Grammar and Dictionary of the Yoruba Language. Washington, 1858.
-
-Burton , R . F. Wit and Wisdom from West Africa. London, 1865.
-
-Chris taller y Rev. J. G. A collection of 3600 Tshi Proverbs in use among the
-Negroes of the Gold Coast. Basel, 1879.
-
-Koelley Rev. S. IV. African Native Literature, or Proverbs, Tales, Fables,
-and Historical Fragments in the Kanuri or Bomu language. London, 1854.
-
-Reichardty Rev. Ch. A. L. Grammar of the Fulde Language, with some original
-Traditions. London, 1876.
-
-Schlenkery Rev. C. F. A Collection of Temne Traditions, Fables, and Proverbs. London, 1861.
-
-S chon y Rev. T. F. Magdna Hausa. Native Literature, or Proverbs, Tales,
-Fables, and Historical Fragments in the Hausa language. (With a translation in
-English.) London, 1885.
-
-East Africa.
-
-Almeida da Cunhay J. cT. Usos e Costumes dos Banianes, Bathias, etc., de
-
-Kibaraka . Swahili Stories in Swahili. Zanzibar, 1885.
-
-Steer fy Rev. E. Swahili Tales, as told by natives of Zanzibar. London, 1870.
-
-Sultani Darai. Swahili Tales, as told by natives of Zanzibar. Zanzibar, 1884.
-
-Taylory Rev. W. E. African Aphorisms (in Swahili). London, 1891.
-
-General.
-
-Biittnery C. G. Zeitschrift fur Afrikanische Sprachen. Berlin, 1887-89.

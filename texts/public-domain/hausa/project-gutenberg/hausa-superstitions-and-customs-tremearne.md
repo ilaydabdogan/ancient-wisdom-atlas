@@ -64,6 +64,44 @@ figures:
 
 # Hausa Superstitions and Customs: An Introduction to the Folk-Lore and the Folk
 
+Z<M
+
+:CO
+
+•I
+
+
+co
+
+
+T
+
+
+1C
+
+
+HAUSA   SUPERSTITIONS   AND   CUSTOMS
+
+
+Dedicated
+
+BY   PERMISSION   TO
+
+SIR    F.    D.    LUGARD,    G.C.M.G.,    C.B.,    D.S.O.,
+
+WHO    HAS    DONE   SO    MUCH    FOR
+THE  HAUSA  PEOPLE.
+
+
+I.— READY  FOR  A  BORI  SPIRIT.     II. — POSSESSED.
+
+
+Bori  is  self-induced  hysteria.  During  possession  by  the  spirits,  the  patients  imitate
+certain  persons  or  animals,  and  often  ill-treat  themselves.  The  spirit  is  usually
+expelled  by  sneezing.  Vide  page  145  and  Note  III.
+
+
+HAUSA  SUPERSTITIONS  AND
 CUSTOMS
 
 
@@ -2479,7 +2517,7 @@ than  just.*  His  title  of  Malamin  Daji  is  claimed  also
 by  a  large  species  of  wood-pigeon  which  is  always
 making  itself  heard.
 
-The  leopard  seldom  finds  a  place  in   the  Hausa  folk-
+The  leopard  seldom  finds  a  place  in  <the  Hausa  folk-
 lore ;  if  he  does  appear,  it  is  merely  so  that  he  can  kill
 
 *  In  Northern  India,  too,  the  lion  is  the  King  of  Beasts,  with
@@ -5125,7 +5163,7 @@ of  sterility.  Twins  are  supposed  to  have  a  special  power
 of  picking  up  scorpions  without  injury,  but  I  have
 seen  others  do  it  who  were  not  twins.  Perhaps  a
 malam  had  kindly  provided  them  (on  payment)
-with  a  concoction  w hich  when  used  both  as  a  potion
+with  a  concoction  w<hich  when  used  both  as  a  potion
 and  a  lotion  renders  the  poison  harmless  !  I  have  not
 come  across  any  story  which  mentions  twins,  and  at
 first  I  thought  this  strange,  but,  after  all,  our  own  folk-
@@ -12573,7 +12611,7 @@ name,  O  Boy."  And  he  said  "  Very  well,  go  back
 again,"  and  she  retired  crying.
 
 Next  came  the  Maiden  who  had  made  a  porridge
-of  guinea-corn  flour,  and  said   c  O  Youth,  come  and
+of  guinea-corn  flour,  and  said  <c  O  Youth,  come  and
 open  the  door  for  me  that  I  may  enter."  "  Who  is
 there  that  I  should  open  the  door  for  her  to  enter?  "
 asked  he.  And  she  replied  "  It  is  I,  Porridge-of-Guinea-
@@ -21890,7 +21928,7 @@ thr  ras<-  hrrr  (nor  ha\r  I  h««ard  of  th<*  Hausas  using
 thi^  parti*  ,jlar  !"rm  of  <  rurltvi.  for  ants  naturally  crawl
 upon   an\;!i:n^   « -n    :hr   ground.
 
- s-'-<-  r«-n  !«-p!ion   1:1  (')iaptrr  V,  and  on
+<s-'-<-  r«-n  !«-p!ion   1:1  (')iaptrr  V,  and  on
 
 sa<  r  ;ti«  «•   ;n   (  '!.a;>'«  r    \  1  .
 
@@ -21916,8 +21954,8 @@ man    -  !    Ifa-j^.i    pa       it.i^'f  h'-'injn*    up   m   an
 
 .il:rn   s:atr.  -  ;«!»-. i  v.  hat   thr  meaning
 
-u.is.  n»r  h.ni  an\«»nr  cN«-  \\h--:n  1  tjurs •  ;•  .n«' !,  thr  only
-thine  1   an  su^^i-s1  is  that  '!:»•  U'-r is  have  Ixvome
+u.is.  n»r  h.ni  an\«»nr  cN«-  \\h--:n  1  tjurs •  ;•  .n«'<!,  thr  only
+thine  1  <an  su^^i-s1  is  that  '!:»•  U'-r<is  have  Ixvome
 t  hancril  in  lh«-  ^«>nt;  and  that  thr  translation  should  be.
 "  Shr  ol)ta:nrd  (  7\;  t*'-l  ht ;,:.<*.,  t«  >u(  hrdt  a  I  la usa  Son  "
 (Kiimbcr:),  !r,i:  I  ha\<-  om:ttrd  *h;s  par;.
@@ -23646,7 +23684,7 @@ Baby,  The  Tar,  stories,  20-23
 Bachelor,  The,  89,  176
 Ba-Maguje,  The,  26.  34,  '  n ,  no
 
-(llfu)  x
+‹llfu›  x
 
 
 Basket,  The  magic,  75,  485,  507
@@ -25063,3 +25101,84 @@ r    — „  ^  Vj  /B    «-3  .«.  *«*iK.a  emu  uvci  xso  illustrations
 
 from    Photographs   and  Pen  and  Ink  Sketches  by  the
 Author.    Price  21s.  net.
+
+
+A  Supplement  to  the  "Birds  of
+
+New   Zealand."
+
+
+By  SIR  WALTER    L.   BULLER,   K.C.M.G.,   F.R.S.
+Two  volumes,  £6  6s.  net.
+
+
+Studies  of  Birdlife  in  Uganda.
+
+
+By  R.  A.  L.  VAN  SOMEREN,  M.D.,'D.P.H,  M.B.O.U.,
+Uganda  Medical  Staff;  and  V.  G.  L.  VAN  SOMEREN,
+L.D.S.R.C.S.Ed.  _  This  work  is  issued  in  separate  plates,
+each  16  in.  by  12  in.,  accompanied  by  brief  descriptive
+letterpress,  the  whole  contained  in  a  handsome  portfolio.
+Price  net  31s.  6d.  or  Rs.  25.
+
+
+History  of  the  Rifle  Brigade.
+
+
+By  COL.  WILLOUGHBY  VERNER.  In  Four  Parts.
+Demy  410.  Plain  edition,  with  maps,  only  £2  2s.;
+illustrated  edition,  £4  4s.  Part  I.  only,  plain  edition,
+12s.  6d. ;  illustrated  edition,  £1  5s.
+
+
+Adventures  in  Search  of  a  Living
+
+in  Spanish  America.
+
+
+By  "VAQUERO."  Royal  8vo,  pp.  viii.  +  304,  about
+70  illustrations.  Price  8s.  6d.  net ;  postage,  inland,  6d. ;
+foreign,  is.
+
+
+Lectures  on  Biology.
+
+
+By  DR.  C.  THESING.  Translated  from  the  Second
+Edition  by  W.  R.  BOELTKR.  Medium  8vo,  334+viii.  pp.,
+with  the  original  coloured  and  other  illustrations,  cloth
+lettered,  price  10s.  6d.  net.
+
+
+The  African  Rubber  Industry  and
+
+Funtumia  Elastic*  ("KICKXIA")
+
+By  CUTHBERT  CHRISTY,  M.B.,  CM.(Edinb.)  Fellow
+of  the  Royal  Geographical  Society ;  the  Zoological  Society  ;
+the  Royal  Society  of  Arts ;  Member  of  the  African  Society,
+&c.  Profusely  illustrated.  250  pages.  Demy  8vo,  cloth,
+12s.  6d.  net ;  postage  extra  (United  Kingdom,  4d.  ;
+abroad,  is.).
+
+
+JOHN  BALE,  SONS  &  DANIELSSON,  LTD.,
+83-91,  Gt.  Titchfield  Street,  Oxford  Street,  London,  W.
+
+
+JglNDING  SECT.        SEP  2  9
+
+
+PLEASE  DO  NOT  REMOVE
+CARDS  OR  SLIPS  FROM  THIS  POCKET
+
+UNIVERSITY  OF  TORONTO  LIBRARY
+
+
+AnF  Tremearne,  Arthur  John  Net
+
+T7892h  Hausa  superstitions  anc
+
+customs
+

@@ -63,6 +63,94 @@ figures: []
 
 # The Mythology of the Bella Coola Indians
 
+Fem Me sre cms arnt
+eee Bem, ae
+
+
+: SO ee ee ee
+SO RN a eA Se a oe ERNE TR, ene ee ante eee
+
+
+OR AO om on em ae
+are ne oe
+
+
+wy
+
+
+va ;
+iW
+
+
+le
+
+
+DATE DUE
+
+
+a
+Ss
+8
+=
+2
+&
+e
+
+
+Hea
+ere) /1 1171]
+
+
+I
+GAYLORD
+
+
+ae - 2 — Se ie as ree — ac  ae ee
+
+
+iat =
+
+
+OF THE
+
+
+History.
+
+
+Volume II.
+
+
+of the ©
+
+
+Volume I. 1898-1900.
+
+
+Edited by FRANZ BOAS
+
+
+New York:
+Published by Order of the Trustees.
+/ FOR SALE BY
+G. P. PUTNAM’S SONS, New York and London ;
+_J. B. BAILLIERE ET FILS, Paris;
+RE RIEDLANDER & SOHN, Berlin ;
+\ AND AT THE MUSEUM.
+
+
+1900
+
+
+_ ANTHROPOLOGY, VoL. I.
+
+
+American Museum of Natural
+
+
+Poe Kh. 4 Metre Herts, Mood
+
+
+=
 a)
 
 
@@ -2985,7 +3073,7 @@ the secrets of the ku’siut.
 A particular Nuskésii’tsta is believed to be at the foot of the creek
 Ano’nk’, on the northern side of North Bentinck Arm, near the mouth of
 Bella Coola River. A woman called Nustsxoaxlo’stxuit lives there. She is
-described as emaciated, of black skin, and as wearing a black blanket.  A
+described as emaciated, of black skin, and as wearing a black blanket. <A
 certain chief who lived long ago was the first to see her. He was initiated
 by her, and after his return he performed a dance, and told what he had
 seen.) Phen he died.
@@ -9667,10 +9755,10 @@ XV.
 CONTENTS.
 
 
-Subsistence- !? 2-3) Syn nates
+Subsistence-<!? 2-3) Syn nates
 Varieties and Preparation of Food
 Preservation of Staple Foods .
-Dishes  a joc). Maar eee goes
+Dishes <a joc). Maar eee goes
 Seasonsyy): iss Bins srg
 Euniting < sactec. are ecco
 Mishingeaays aon men ed
@@ -9813,7 +9901,7 @@ J,
 * . . A
 Soh on re
 coer nine hey
- e
+<e
 SN st vem See
 -. . Pa
 . . . .
@@ -9842,7 +9930,7 @@ oo aoe eae
 ial Sas
 5
 R
- o) Sereiaen pee
+<o) Sereiaen pee
 ee tg ee Gen.
 r
 cuaey MTS
@@ -10365,7 +10453,7 @@ No’6t or Ner6't (allied to rd’it, “sleep’’),
 
 Ntcé’qtceqqékénk or Ntcéqtceqko-
 kinnk (“the red little side hill or
-slope ’ i dees  d.0) ever eer Soin ttt
+slope ’ i dees <d.0) ever eer Soin ttt
 
 
 Location.
@@ -10670,7 +10758,7 @@ flat’ ).2\. cede «ine os eevee
 _ Pti’tek or Prtu’tek (“little spring ” Lof
 
 
-water] ).  a. <0 > 0 om ete eee
+water] ). ‹a. <0 › 0 om ete eee
 
 
 _ Nsi’sqet (“the little split or di- )
@@ -10923,7 +11011,7 @@ Fats Children born before 1884.......,. Taipan Ace cate An ote Lh ae eee 5
 are ee eR Uo s de athiisat odek hev ccc onda 5
 \ =p
 Meee cians to other villages. ce kk ec swe eceee eens secccccc ccc, 17
-Foal 2 rage Fe hte ys 6 oes  u s god bw Lis aed hb can 89
+Foal 2 rage Fe hte ys 6 oes <u s god bw Lis aed hb can 89
 
 
 The resulting decrease during this period is therefore 36, leaving a population
@@ -12121,7 +12209,7 @@ Si
 
 
 S
- S
+<S
 
 
 A
@@ -14241,7 +14329,7 @@ a, Side view ; 4, Front view ; c, Cross-section.
 
 
 Gy EUNVWUMUUTURINLUSNAGHUAEDVUIDULIVNoKtnteererereergUUUOMBAUNDRROTSSOFRDUUVPNBQOKEMIBNEDLET
- a I ANTAVALLUUEUNGMREUGENaSCUTTENLTTATHTL HIRHLVTTITN rUTILTTICeSe
+<a I ANTAVALLUUEUNGMREUGENaSCUTTENLTTATHTL HIRHLVTTITN rUTILTTICeSe
 
 
 Fig. 217 (7382). Bow wound with Bark. 4 nat. size.
@@ -20777,7 +20865,7 @@ when people cannot. They appear only at night, and are thought to sleep with
 the bones during the day. Whistling after dark is a means of attracting ghosts.
 It is especially dangerous to do so the first four nights after a person’s death. If
 any one hears ghosts singing or shouting, he should imitate them, else they might
-come to him.  A horseshoe nailed above the door or in the house, or carried on
+come to him. <A horseshoe nailed above the door or in the house, or carried on
 the person, keeps away ghosts. If a man rides a horse with shoes on, or wears
 bell-spurs on his feet, no ghosts will come near him. |
 
@@ -25589,7 +25677,7 @@ whole formed a necklace tied at the back. From the front a copper pendant was su
 A copper object of similar shape was found with a mass of material around the skull, Being
 suspended by a string which passed through a whole dentalium shell and a bead, it seems
 probable that the whole formed an ear-pendant. Another copper ornament, and dentalium
-shells, probably the remains of the other ear-pendant, were found in the same mass,  A piece
+shells, probably the remains of the other ear-pendant, were found in the same mass, <A piece
 of rope or slow-match of shredded cedar-bark, to which was attached askin of a small mammal,
 part of a bird-skin, a perforated bear-claw through which was part of a thong, and two copper
 pendants, were found in this mass of material. A celt made of nephrite lay with
@@ -27852,7 +27940,7 @@ a
 A
 pal
 ess
-“ All
+“<All
 fea
 i HW
 ih x Hy
@@ -27980,7 +28068,7 @@ Ze
 
 
 = —
- DY
+<DY
 co
 
 
@@ -28587,7 +28675,7 @@ inches. Cat. No. z}$z.
 
 
 8.—Mask representing the sea-monster K°%'lx‘ta. Red, blue, black. Height, 19
-inches. Cat. No.  t%s.
+inches. Cat. No. <t%s.
 
 
 9. — Mask representing the spirit LaLaia@it. Black, orange, set with bear-skin.
@@ -28844,7 +28932,7 @@ The Thompson Indians of British Columbia.
 
 fy
 me
- x
+<x
 J
 Au
 
@@ -29098,7 +29186,7 @@ Basketry Designs of the Salish Indians,
 ~%
 (1)
 a
- x
+<x
 4
 a,
 
@@ -29385,3 +29473,4 @@ oO
 
 Pe ee
 ee ae
+

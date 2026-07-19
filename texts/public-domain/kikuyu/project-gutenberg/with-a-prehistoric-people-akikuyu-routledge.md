@@ -64,6 +64,44 @@ figures:
 
 # With a Prehistoric People: The Akikuyu of British East Africa
 
+yi«!3Biiiisiii|iifiiii|w^
+
+
+™
+
+rMITV.lJO^
+
+
+^^OfCAllFOfti^
+
+Ea
+
+f^'
+
+^\\U  UN1VEK\V/:^^
+
+;   \  ;\  -  ■;  1  ("1  ^
+
+1     i  /
+
+Pi
+
+■1
+
+-3V
+
+
+WITH    A    PREHISTORIC    PEOPLE
+
+
+,-■       1
+
+I.            ■'
+
+"a."
+
+s^.
+
 ^_
 
 ■n^
@@ -76,7 +114,7 @@ figures:
 
 iMm.
 
-/>  J-x  ;A vfc
+/>  J-x  ;A<vfc
 
 'with  a
 prehistoric  people
@@ -3651,7 +3689,7 @@ O    O  o
 j"  o^oo         0  0
 .   O         OO  01  O
 
-0  0        OO   to
+0  0        OO  <to
 
 OO     qOOOooOii
 ,2?oOOooc,oo
@@ -6971,7 +7009,7 @@ sides  rise  up  considerably  above  their  level.  The  fireclay
 lining  is  brought  well  over  the  edge,  forming  a  wide,  convex,
 everted  border  all  around.     The  interior  of  the  furnace  has
 
-1  The  clan  known  as  the  Mwe-tli(.'--f]; i  or  Ai-ki-u-ru,  and  the  clan  known  as  the
+1  The  clan  known  as  the  Mwe-tli(.'--f];<i  or  Ai-ki-u-ru,  and  the  clan  known  as  the
 A-ga-chi-ku  :   these  last  also  do  not  circumcise.
 -  Cf.  "  Ceremonial  uncleanness,"  p.  258,  No.  24.
 
@@ -7673,7 +7711,7 @@ Thu  Second  Step  in  the  Making  of  Chain
 The  iron  rod,  now  covered  by  its  wire  whipping  and
 with  handle  removed,  is  next  laid  on  a  stone  and  a  cut
 carried  along  its  entire  length,  by  means  of  a  short  chisel
-and  li /ht  wooden  mallet.
+and  li</ht  wooden  mallet.
 
 
 96  b
@@ -11784,7 +11822,7 @@ The  balance  and  feel  of  the  weapon,  when  grasped  in
 the  neighbourhood  of  a,  is  very  similar  to  that  of  the
 fighting  sword  in  everyday  use.  When  picked  up  this
 wooden  sword  automatically  falls  into  position,  with  the
-cutting  edge  ( /)  directed  downwards.  It  is  a  cleverly
+cutting  edge  (</)  directed  downwards.  It  is  a  cleverly
 designed  and  efhcient  weapon.
 
 These  two  articles  are  made  by  an  expert  who  lives
@@ -13022,7 +13060,7 @@ together.
 c.  Wide  strap  passing  up  outer  side  of  thigh  to  carry
 
 the  w^eight  of  the  rattle.
- /  is  stitched  to  the  top  of  c  and  encircles  the  upper
+</  is  stitched  to  the  top  of  c  and  encircles  the  upper
 
 part  of  the  thigh.
 c  encircles  the  thigh  just  above  the  knee.
@@ -15256,7 +15294,7 @@ i;
 
 4J
 
- />
+‹/›
 
 u
 
@@ -15914,7 +15952,7 @@ sidered gracious  to  accompany  it  with  some  Httle  gift.
 The  Akikuyu,  however,  acknowledge  no  moral  or  customary
 obligation  to  befriend  the  poor  or  the  stranger,  or  to  protect
 the  life  and  property  of  the  guest,  except  under  circumstances
-to  which  allusion  has  been  made.  Xapcra i  is  a  word  the  sig-
+to  which  allusion  has  been  made.  Xapcra<i  is  a  word  the  sig-
 nification of  which  is  unknown  to  the  black,  and  too  frequently
 also  to  the  white  in  British  East  Africa.  To  the  M'kikuyu  the
 fact  that  the  stranger  has  eaten  his  food  and  is  sleeping  in  his
@@ -24423,3 +24461,316 @@ Stature,  Agumba,  3.
 
 Akikuyu,  19.
 Status,  197.
+
+of  men,  terms  expressing,  25.
+
+of  women,  terms  expressing,  141.
+
+
+Sterility,  cure  for,  135,  253.
+
+medicine  for,  279.
+Stone  implements,  4.
+Stones  for  fireplace,  77,  131.
+
+used  by  Medicine-IMan,  253.
+Stoppers    of    Medicine-Man's    gourds,
+
+253,  254.
+Streams,  number  of,  in  Kikuyu,  71.
+String,  77.
+
+degrees  of  fineness  of,  79.
+
+from     sacred  ;^tree,    importance    of,
+at  initiation,  160.
+
+manufacture  of,  77.
+
+makers  of,  78.
+
+objects  made  of,  78.
+
+value  of,  79.
+Sugar  cane,  43,  53.
+
+juice  used  to  make  beer,  62.
+Suicide,  248,  320.
+Sun,  husband  of  moon,  284.
+
+worshipped  as  manifestation  of  God,
+226.
+Surgery.  280.
+
+Suspension  bridges,  native,  71.
+Swahili,  Kikuyu  view  as  to  God  of,  226.
+Swimming,  Akikuyu,  13.
+
+Masai  inability,  14,  347.
+Sword  used  in  fire-making,  75.
+
+Tabu,  food,  21,  49,  50.
+
+after  a  burial,  172.
+
+of  dead  person's  property,  170,  172.
+Tate,  Mr.  H.  R.,  quoted,  178 «,  361.
+Teeth,  adorning  of,  324.
+
+filing,  32.
+
+filing  not  practised  by  Akikuyu,  32.
+
+polishing,  32.
+
+powder  for,  32.
+
+removal,  Masai,  32.
+Tendons,   method   of   extracting   from
+carcase,  78.
+
+used  in  string  making,  78.
+Thatching  of  huts,  68,  69.
+Theft,  203,  204.
+
+commandment  against,  245.
+
+medicine  to  prevent,  277.
+
+of  cattle,  trial  for,  209,  210.
+
+of  honey,  58.
+
+penalties  for,  216.
+
+procedure  regarding,  208.
+Time,  musical,  113.
+Tobacco,  43.
+Tongs,  91.
+
+Tools  of  blacksmith,  88,  93,  94.
+Totems,  22  and  n.
+Trade,  15,  16.
+
+in  iron,  81.
+
+in  tobacco,  43.
+
+
+392
+
+
+INDEX
+
+
+Trade  routes,  Kikuyu,  15.
+Traditions,  21.
+
+of  origin,  Akikuyu,  3.
+Translation  of  Medicine-Man,  255.
+Transmigration  of  souls,  belief  in,  241.
+Tree,  as  abode  of  soul,  242.
+
+decorated,  109.
+
+felling  of,  341.
+
+sacred,  324,  325.
+
+sacred,  at  initiation  dance,  159.
+
+sacred,  at  initiation  of  Medicine-Man,
+253.
+
+sacred,  at  sacrifice,  230,  232.
+
+sacred,  fat  poured  on,  as  sacrifice,  234.
+
+sacred,  home  of  God,  226.
+
+sacred,  initiation  dance  near,  158.
+Trees  from  wMch  bark  for  string  taken,
+77.
+
+of  sacrifice,  229.
+
+scarcity  of,  6,  76.
+Trespass,  trial  regarding,  212.
+Trials,  204,  209  fE.
+
+byordeal,  212,  213,  227.
+Tribal  life,  result  of,  Masai,  348.
+Triplets,  killing  of,  151.
+
+unlucky,  151.
+Trough  for  salt  earth,  59.
+Tunnelling     for     sand,     dangers     of,
+
+99.
+Twins,  killing  of,  151.
+
+unlucky,  151.
+Tylor,  Dr.,  cited,  169,  239.
+
+opposition  to  his  theory  of  animism,
+358.
+
+Uganda  Railway,  15,  336.
+Uncleanness,  60.
+
+cause  of,  256,  257.
+
+none  at  childbirth,  147.
+Unlucky  day,  172.
+
+numbers,  264,  274.
+Urine  as  medicine,  277.
+
+used  to  cleanse  vessels,  46^
+
+Value,  goat  as  unit  of,  44.
+Values,  106  ff.
+Vegetable  foods,  52.
+Vice,  hand,  94.
+Villages,  Masai,  344,
+
+practical  absence  of,  117.
+Vines  used  for  rope,  79.
+Viscera  of  sacrifice,  232,  233.
+
+Wages  of  labour,  332.
+
+Waist  ornaments,  35.
+
+Walls  of  hut,  68.
+
+War,  tribal,  results  of  abolition  of,  329.
+
+Warfare,  Masai,  14.
+
+
+Warfare,  methods  of,  13.
+War-pits,  13,  14,  73.
+Warriors  at  dance,  181.
+
+dress  worn  by,  at  dance,  350.
+
+Masai,  347.
+Washing,  iron,  82  ff.,  353.
+Water-carrying,  122.
+
+ordeal,  213.
+Wattle  hurdle  as  door  of  hut,  70.
+Watthng  for  hut  walls,  68.
+Wealth,  influence  of,  142.
+
+respect  paid  to,  142.
+Weapons,  352.
+
+Agumba,  3,  4.
+
+Akikuyu,  16.
+
+Masai,  13.
+Weight  of  loads,  104.
+Weldina:  of  iron,  87.
+Wergilds,  215.
+
+Widow,  property  retained  by,  144.
+Wire,  drawn  from  iron,  87.
+
+ornaments,  32.
+
+rings,  35.
+Wii-e-drawing,  87,  92.
+
+method  of,  92.
+Witchcraft,  272.
+
+charge  of  death  by,  213.
+Wives,  number  of,  134.
+
+passing  of,  at  husband's  death,  145.
+
+purchase  of,  44.
+
+separate  houses  for,  117.
+Wood  for  fire  drills,  74,  75.
+Wooden  bells,  112.
+Woodland,  38.
+Women,  as  iron  miners,  82.
+
+as  pottery  makers,  98.
+
+attitude  assumed  at  work,  41.
+
+dances  of,  187.
+
+dances  of  men  and,  185.
+
+dress  of,  139.
+
+forbidden  to  see  men  eat  meat,  232.
+
+forbidden  to  witness  sacrifices,  235.
+
+mixed  dancing  not  indulged  in  by
+married,  187.
+
+owners  of  property,  121.
+
+position  of,  120.
+
+present  at  drinking  party,  200.
+
+respect  paid  to  old,  ]3<S.
+
+shave  heads  of  circumcised  boys,  167.
+
+stronger  than  men,  104.
+
+work  of,  59,  121.
+Wounding,  penalty  for,  205.
+Wounds,  healing  of,  28.
+Writing,    picture,     on    dancing    boy's
+gourd,  110.
+
+Year,  Kikuyu  agricultural,  41.
+length  of,  40.
+
+
+\
+
+
+Printed  by  Morrison  &  Qiub  Limited,  Edinburgh
+
+
+University  of  California  Library
+Los  Angeles
+
+This  book  is  DUE  on  the  last  date  stamped  below.
+
+
+^i^i^  ?>■  s;  f^  f^  |C^      Jl-r  cf
+%      I    ?;    n      ■'■
+
+
+2WK  m  2  J
+
+
+t  J  •  J
+
+
+|Mir   .v."*"*
+
+
+-XfT-   I
+
+
+DT
+
+R7^w
+
+
+A     000  473  599
+

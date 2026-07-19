@@ -1324,7 +1324,7 @@ tion is  not  finished  with  Sutra  5.  If  we  accept  this  explanation
 1  flij^irrifa^nqiHUW   ^  f^Tf^fff  HR^(  II  M  II    H^xreS    ^
 
 *iijr  ^r  ftr^^ra^fa  1  ^-^h  ^  ^  f^wtfi^tf  sNfarg:  11  ^  11
-•n^r^T  Tm%«rf  f^ri  *rUr*j rMsiri  ufa^  1  ^t  ^  Jnf*nw  ^**h raT-
+•n^r^T  Tm%«rf  f^ri  *rUr*j rMsiri  ufa^  1  ^t  ^  Jnf*nw  ^**h<raT-
 stt*t  ^nft^v:  11  $  11  ^r*TTftr  ^reranr  ^t  Ti*p*rni  ^Twuiini  H^lujmi
 ^t  j^tst  ^t  tf^criTOT  mfim  f  t^fiftfrr  n  t  n
 
@@ -1512,7 +1512,7 @@ also  in  the  Dharma-sutra  as  well  as  several  other  51okas  of
 1  Regarding  the  passage  of  Apastamba  II,  16,  I,  which  ascribes  the  revelation
 of  the  6raddhas  to  Manu,  see  below,  p.  lix.
 
-2  I  transcribe  the  whole  beginning  of  the  work,    W^T    *l«H«l<. u*rTt    *<$Yc3
+2  I  transcribe  the  whole  beginning  of  the  work,    W^T    *l«H«l<.<u*rTt    *<$Yc3
 
 *rJTT^  II  W  ^STTffR^I  ^TOf*^  ^TJ&tTH  (?)  ^«fl$N»fanre$r
 P^ff   ^  TOt  II  S^fnre  Tff^f>TWfaf^FT^TbT  S?  *N^ »      Thus
@@ -1847,7 +1847,7 @@ HTftn  fasroi  sn*nr  f  fa:  u  i$q  cr^qwfk:  fqTpsrrir  *m%:  \  tt^t
 
 SPTTWt  II
 
-8  Beginning  ^HT  ^f^tnt  ^TTOT^W  II  Colophon,  ^fft  *ll»iq J^
+8  Beginning  ^HT  ^f^tnt  ^TTOT^W  II  Colophon,  ^fft  *ll»iq<J^
 ^J^n^  II
 
 4  -^rcraTij^  ^RT§f^  fife:  iref*  11
@@ -2175,7 +2175,7 @@ Ya^r-veda  are  found  also  in  Northern  India.  I  have  also  heard  of  Vai
 the  Safna-veda  among  the  Parvatiyas  in  the  Panjab,  and  of  the  Atharva-veda
 in  the  Central  India  Agency.
 
-1  Bha« /arkar,  loc.  cit.  p.  132  note.
+1  Bha«</arkar,  loc.  cit.  p.  132  note.
 
 2  Pararara-smrz'ti-vyakhya,  p.  3,  ver.  7  (Calcutta  edition).
 
@@ -2823,7 +2823,7 @@ teaching  of  the  Veda4  and  of  Pra^apati.     That  the  cause  of
 (sic)  II  and  in  chapter  VI,  TO  ^WSTTTCJ  Stfftl  ^ftfT^nm  I   WJ^Bh
 
 Tq^tmfw  13:  ^rtf>j^te^ftf^  ir^ngfTitrifH  *c*Tfa  vi-jjow:  s^^
-ft:  i  TOTrafH jffHT  *ftr*n^  *3tiNh(n  ^*j&  *  *pr*r**ro^-
+ft:  i  TOTrafH<jffHT  *ftr*n^  *3tiNh(n  ^*j&  *  *pr*r**ro^-
 wjtsnrfi^ii
 
 2  Proceedings  of  the  American  Oriental  Society,  October,  1883,  p.  xix.
@@ -3025,7 +3025,7 @@ verses  which  announce  the  transition  from  one  subject  to
 the  other1,  a   considerable  number  of  smaller  and  some
 
 1  These  verses  probably  mark  the  subdivisions  of  the  Adhyayas,  the  Kawdikas
-or  Khatt /as  of  the  ancient  Sfitra.
+or  Khatt</as  of  the  ancient  Sfitra.
 
 
 INTRODUCTION.  lxvii
@@ -3482,7 +3482,7 @@ kings   belonging   to  the  Manava1 — reveals  a  greater  dis-
 
 1  Though  I  will  not  deny  that  some  show  of  argument  might  be  made  for
 the  supposition  that  the  Ra§adharmas  of  Manu  PnL£etasa  were  a  separate  work,
-different  from  the   Sastra  referred  to  in  the  preceding  quotations,  because  the
+different  from  the  <Sastra  referred  to  in  the  preceding  quotations,  because  the
 epithet  Pra/£etasa  is  here  added  to  Manu's  name,  and  because  at  Mah.  XII,  38,  2,
 we  find  Manu  Pra/£etasa  named  as  the  author  of  a  Ra^ajastra  in  company  with
 Br/haspati  and  ILranas,  to  whom  separate  Nitirastras  were  attributed,  I  yet  hold
@@ -6376,7 +6376,7 @@ The  fourth  work  on  our  list,  the  well-known  Manvartha-
 muktavali  of  Kullukabha^a,  the  son  of  Divakarabha^/a,  was
 considered  until  lately  the  most  trustworthy  guide  for  the
 exposition  of  Manu.  In  the  introductory  verses  to  his
-commentary  Kulluka  informs  us  that  he  was  a  Gau /a  or
+commentary  Kulluka  informs  us  that  he  was  a  Gau</a  or
 Bengali  by  birth,  his  father  residing  in  Nandana  in  Va-
 rendrt1,  and  that  he  wrote  his  work  at  Benares  with  the
 assistance  of  other  Vandits.  As  regards  his  times,  we  only
@@ -10248,7 +10248,7 @@ teacher.
 Gaut.  II,  10.     Instead  of  'while  (he  sleeps)  in  the  village'  (Medh.
 
 
-7 D  LAWS    OF    MANU.  II,  220.
+7<D  LAWS    OF    MANU.  II,  220.
 
 wear  his  hair  in  braids,  or  braid  one  lock  on  the
 crown  of  his  head  ;  the  sun  must  never  set  or  rise
@@ -10598,7 +10598,7 @@ daughter  of  a  paternal  aunt  or  with  the  paternal  grandfather's  sister'
 descendants  are  forbidden.  Maithune,  'for  conjugal  union'  (Medh.,
 Gov.,  Nar.),  means  according  to  Kull.  and  Ragh. '  for  the  holy  rites
 to  be  performed  by  the  husband  and  wife  together.'  Nand.  reads
-amaithuni, '  one  who  is  a  virgin.'  Regarding  the  term  Sapi« /a,  see
+amaithuni, '  one  who  is  a  virgin.'  Regarding  the  term  Sapi«</a,  see
 below,  V,  60.
 
 7.  Vi.  XXIV,  11;  Y&g%.  I,  54.
@@ -11667,7 +11667,7 @@ parka.  The  term  »Srotriya  refers  according  to  Medh.  to  a  Snataka
 or  to  an  officiating  priest,  according  to  others  quoted  by  him  to
 all  the  persons  mentioned  in  the  preceding  verse,  according  to
 Gov.,  Kull.,  Nar.,  and  Ragh.  to  a  Snataka.  The  latter  is  probably
-the  correct  opinion,  as  a   Srotriya,  i.  e.  one  who  knows  a  whole
+the  correct  opinion,  as  a  <Srotriya,  i.  e.  one  who  knows  a  whole
 recension  of  the  Veda,  must  be  a  Snataka.  Medh.  approves  of  the
 reading  ya^wakarma^y  upasthite.
 
@@ -14986,7 +14986,7 @@ a  eunuch/
 209.  Gov.  and  Kull.  give  as  an  instance  of  '  a  multitude,'  '  a  fra-
 ternity of  Brahmaraas  inhabiting  a  monastery.'
 
-210.  I  translate  baddhasya  niga /asya  ka.  according  to  Kull.  by
+210.  I  translate  baddhasya  niga</asya  ka.  according  to  Kull.  by
 '  one  bound  with  fetters/  because  in  the  older  Sanskrit  the  genitive
 is  occasionally  used  for  the  instrumental  with  passive  perfect  parti-
 
@@ -15264,7 +15264,7 @@ ones,  (himself)  becomes  most  distinguished ;  by  an]
 opposite  conduct  he  becomes  a  6udra.  ^X\
 
 246.  He  who  is  persevering,  gentle,  (and)  patient,    M
-shuns  the   company  of  men  of  cruel  conduct,  and fX'
+shuns  the   company  of  men  of  cruel  conduct,  and<fX'
 does  no  injury  (to  living  creatures),  gains,  if  he  con-  '
 stantly   lives   in   that    manner,  by    controlling    his
 organs  and  by  liberality,  heavenly  bliss.  ~ ™
@@ -16215,7 +16215,7 @@ such  as  the  Gavamayana.'  Brahmabhuta^,  'pure  like  Brahman'
 (Kull.,  Nar.,  Ragh.),  means  according  to  Medh.  '  they  have  reached
 Brahmahood.'
 
-95.  Nand.  and  K.  explain   fimbha,  'in  a  riot,'  to  mean  'by  in-
+95.  Nand.  and  K.  explain  <fimbha,  'in  a  riot,'  to  mean  'by  in-
 fants/ '  Whom  the  king  wishes  (to  be  pure)/  i.  e.  '  his  servants  and
 ministers  whom  he  wants  for  his  affairs.'  Nar.  inserts  another
 class, '  (the  kinsmen  of  those  who  have  been  killed)  by  Brahma^as,
@@ -18523,7 +18523,7 @@ duties  than  the  law  permits.'
 ground),'  (Gov.,  Nar.),  means  according  to  Kull. '  nor  is  dried  up.'
 Medh.  reads  /tyavate, '  falls  (on  the  ground),'  and  Nar.  prefers  that
 reading.  Nand.  explains  na  vyadhate  (sic)  by  '  is  not  spoilt  by  hairs
-or  insects  falling  into  it.'  Ragh.  takes  it,  like  Krzsh«apa« /ita  in  his
+or  insects  falling  into  it.'  Ragh.  takes  it,  like  Krzsh«apa«</ita  in  his
 comm.  on  Vas.  XXX,  7,  in  the  sense  of '  nor  causes  pain.'
 
 85.  Gaut.  V,  20  ;  Vi.  XCIII,  1-4.    Samam  phalam, '  the  ordinary
@@ -23825,7 +23825,7 @@ both  are  equal,  the  offspring  is  most  highly
 esteemed.
 
 35.  On  comparing   the  seed  and  the  receptacle
-(of  the  seed),  the  seed  is  declared  to  be  more  im- A
+(of  the  seed),  the  seed  is  declared  to  be  more  im-<A
 portant ;  for  the  offspring  of  all  created  beings  is
 marked  by  the  characteristics  of  the  seed.
 
@@ -25120,7 +25120,7 @@ have  equal  shares,  even  if  there  be  a  hundred  sons.
 ma«a  son  alone  receives  land,  given  to  his  father,  and  that  the
 -Sudra  son  receives  no  share  in  land,  if  there  is  other  property.
 
-154.  Hence  on  failure  of  other  sons  the  other  heirs,  the  Sapira /as
+154.  Hence  on  failure  of  other  sons  the  other  heirs,  the  Sapira</as
 (Medh.),  or  the  widow  and  the  rest  (Nar.),  shall  take  the  rest  of  the
 estate.  Nar.  adds  that  he  may  obtain  more  than  a  tenth,  if  his
 father  give  it  to  him.
@@ -25541,7 +25541,7 @@ the  next  heirs,  it  seems  certain  that  '  the  nearest'  here  meant  is
 '  the  nearest  Sapiw^a  or  relative  within  three  degrees.'  Practically
 the  proposed  translation  is  not  much  different  from  that  extracted
 by  Kull.  and  others  by  the  grammatically  inadmissible  expedient  of
-taking  sapi# /at  for  sapifldamadhyat,  '  among  the  Sapiw^as.'  The
+taking  sapi#</at  for  sapifldamadhyat,  '  among  the  Sapiw^as.'  The
 correctness  of  the  above  explanation  is  also  attested  by  the  closely
 allied  parallel  passage  of  Baudhayana  I,  n,  9-13,  the  first  Sutra  of
 
@@ -25620,7 +25620,7 @@ successive  heirs,  and  explains  Sakulya  by  Bandhu.
 
 Nand.,  whose  text  has  a  faulty  reading  sapi^arha^,  asserts
 that  pmda  (sapi«dfo  ?)  means  '  the  deceased,'  and  explains  the  first
-line  by  saying,  '  Always  to  him  who  is  the  Sapi« /a  nearest  to  the
+line  by  saying,  '  Always  to  him  who  is  the  Sapi«</a  nearest  to  the
 deceased  the  wealth,  the  estate,  shall  belong — the  repetition  (of  the
 word  tasya)  shows  the  successive  order.'  The  Sakulyas  are,  accord-
 ing to  him,  the  Samanodakas.  He  reads  sakulya^  syu^, '  Sakulyas
@@ -26078,7 +26078,7 @@ not  receive  the  honours,  e.  g.  in  saluting,  due  to  the  eldest  brothe
 (Medh.,  Kull.,  Nar.,  Ragh.).  The  insertion  of  the  words  '  an  eldest
 son's  additional'  before  '  share,'  is  made  on  the  authority  of  Medh.
 and  Kull.  '  Shall  be  punished,'  i.  e. '  by  reprimand  (vagdawdadhig-
-da# /abhyam)  or  by  a  fine  as  the  case  may  require'  (Medh.).
+da#</abhyam)  or  by  a  fine  as  the  case  may  require'  (Medh.).
 
 214.  Ap.  II,  14, 15 ;  Gaut.  XXVIII,  40;  Baudh.  II,  3,  38.    'Who
 
@@ -27082,7 +27082,7 @@ equally,  thus  (a  king)  who  supports  all  his  subjects,
 shall,  ever  untired,  restrain  thieves  both  in  his  own
 dominions  and  in  (tho§£-of)  0TrTersT~     Id  •    \\\b\C<
 
-313.  Let  him- no1:,  though  fallen  into  the  deepest   j
+313.  Let  him-<no1:,  though  fallen  into  the  deepest   j
 distress,  provoke   Brahma^as   to  anger  ;  JoH-they^  ~ft
 
 308.  Nand.  reads  the  first  line  differently,  Varutfenapi  parais  £a
@@ -27137,7 +27137,7 @@ property'  (Medh.,  Nar.),  or  '  treating  them  with  contumely'  (Medh.).
 Nar.  point  out,  in  the  section  of  the  Mahabharata,  called  Moksha-
 dharmaA  XII,  344,  55,  57-58,  60-61.  There  it  is  said  that  Bhrzgu
 made  the  fire  consume  all  things,  that  the  moon  became  '  con-
-sumptive' in  consequence  of  the  curse  of  Daksha,  and  that  Va /ava-
+sumptive' in  consequence  of  the  curse  of  Daksha,  and  that  Va</ava-
 mukha  made  the  ocean  salt  in  punishment  for  his  disobedience.
 
 315.  This  verse  also  contains  allusions  to  the  Mahabharata.
@@ -27785,7 +27785,7 @@ understand  in  the  second  line  with  '  from  a  Vaidehaka,'  the  words
 takes  the  words  ete  traya^,  'those  three,'  in  the  sense  of 'the  following
 three  other  races/ assumes  of  course  that  the  mothers  ofKaravaras,
 Medas,  and  Andhras  are  Ayogava  females.  The  latter  two  '  castes '
-are  the  well-known  nations  inhabiting  Meva /  (Medapa/a)  in  south-
+are  the  well-known  nations  inhabiting  Meva</  (Medapa/a)  in  south-
 eastern Ra^putana,  and  the  eastern  Dekkan.
 
 38.  Ragh.  and  Nand.  read  Paulkasa  instead  of  Pukkasa.  Mula-
@@ -27835,7 +27835,7 @@ towards  Brahma^as,'  instead  of  brahmawadan-anena, '  by  not  con-
 sulting Brahmawas'  (Kull.,  Nar.,  Nand.,  Ragh.,  K.).
 
 44.  Instead  of  Pau«^rakas  (Kull.),  Medh.,  Nar.,  Nand.,  and  K.
-read  Pu# /rakas,  and  Gov.  Pauw^rakas.  My  reading  J£oda.s  is  a
+read  Pu#</rakas,  and  Gov.  Pauw^rakas.  My  reading  J£oda.s  is  a
 correction  of  Komdia,  which  is  found  in  some  MSS.  of  Medh.  and
 in  K.  We  have  plainly  ^Tola  in  Nand.,  while  some  MSS.  of  Medh.
 and  Gov.  read  Jfamdm  or  Kamdva,  and  the  editions  give  JZaudra.
@@ -30548,7 +30548,7 @@ agrees  with  Vish/m's  text.
 175.  Vi.  LIII,  4  ;  Yagn.  Ill,  291.     Nar.  says  that  the  vei
 refers  to  an  unintentional  offence.
 
-176.  Vas.  XXIII,  41;  Baudh.  II,  4, 13-14;  Vi.  LIII,  5-6.   Vei
+176.  Vas.  XXIII,  41;  Baudh.  II,  4, 13-14;  Vi.  LIII,  5-6.  <Vei
 low  caste,'  i.  e.  '  Mle^/^as  or  barbarians,  -Sabaras  and  so  fortl
 (Medh.,  Gov.,  Kull.),  or  <  Sutas  and  the  like '  (Nar.),  or  '  Gavam
 
@@ -39704,3 +39704,10929 @@ Si
 
 52.
 53-
+
+
+SYNOPSIS    OF    PARALLEL    PASSAGES.
+
+
+569
+
+
+54.  Par.  IV,  16*.
+
+55-       •       •       •
+56.       .       .       .
+
+
+57.      ......       .
+
+58
+
+59.  Ga.  XVIII,  4-5;  Ba.  II,  4,  9-
+10;  Va.  XVII,  56;  Ya.  I,
+68.
+
+60.  Va.  XVII,  61 ;  Ya.  I,  68.
+
+61.  Ga.  XVIII,  8.
+
+62;}Ya.I,69.
+
+
+1,  i4a-b*;  Ga.  XVIII,  20;
+Va.  XVII,  67-68  ;  Vi.  XXIV,
+40  ;  Yd.  I,  64.
+
+
+91
+
+
+92.  Ga.  XVIII,  20.
+
+93.  Vi.  XXIV,  41.
+
+94.  Mah.  XIII,  44,  14  a.
+
+95.  Mah.  XIII,  44,  27  a.
+96
+
+
+63
+64.
+
+65.
+66.
+
+67.
+68.
+69.
+7o.
+
+
+97-
+
+98.
+
+99.
+100.
+101.
+
+
+Ap.  II,  13,  11,
+
+
+102.
+
+
+103.
+
+
+71.  Vi.V,  160-161;  Ya.  I,  65.
+*2'1  Vi.V,  162;  Ya.  I,  66.
+
+74
+
+75.  Vi.  XXV,  9-10;  Ya.  I,  84.
+
+76.  Ga.    XVIII,    15,    17;    Va.
+XVII,  75-80.
+
+77
+
+78
+
+79
+
+80.  Ya\  I,  73.
+
+81.  Ba.  II,  4,  6*.
+
+82
+
+83
+
+
+84
+
+85.  •■
+
+86.  Vi.  XXVI,  1 ;  Ya.  I,  88.
+
+87.  Mah.    XIII,    46,  36b;     Vi.
+XXVI,  2-3.
+
+88.  Ga.  XVIII,  21;  Va.  XVII,
+70;  Ba.  IV,  1,  11.
+
+89
+
+90.  Mah.  XIII,  44,  16;  Ba.  IV,
+
+
+104.  Ga.  XXVIII,  1 ;  Ba.  II,  3,  3,
+8;  Vi.  XVIII,  36;  Yl  II,
+117.
+
+105.  Ga.A  XXVIII,  3;  Ba.  II,  3,
+13;  Ap.  11,14,  6.
+
+106.
+
+107.  Va.  XVII,  1 ;  Vi.  XV,  45.
+
+108
+
+109.  Mah.  XIII,  105,  6  a.
+
+no
+
+in.  Ga.  XXVIII,  4.
+
+112.  Ga.  XXVIII,  5-7;  Ba.  II,
+
+3,4;  Vi.  XVIII,  37;  Yl  II,
+
+114.
+
+«3
+
+114.  Ga.XXVIII,ii-i3;  Ba.II,
+
+3,  6;  Va.  XVII,  43;  Ya.  II,
+114.
+
+115.  Ap.  11,13,  *3«
+
+116.  Ga.  XXVIII,  8.
+
+117.  Ga.  XXVIII,  9-10;  Va.
+XVII,  42.
+
+118.  Vi.  XVIII,  35;  Ya.  II,
+124.
+
+119.  Ba.  II,  3,  9.
+
+120
+
+
+57o
+
+
+LAWS    OF    MANU.
+
+
+121
+
+122.  .  *
+
+123.  Ga.  XXVIII,  14.
+
+124.  Ga.  XXVIII,  15.
+
+125.  Ga.  XXVIII,  16.
+
+126
+
+127.  Ga.  XXVIII,  18;  Ba.  II,  3,
+
+15;    Va.  XVII,  15-17;    Vi.
+
+XV,  5.
+
+128
+
+129 .    .
+
+130.  Mah.  XIII,  45,  11;  Ba.  II,
+
+3,i4-
+
+131.  Mah.  XIII,  45,  12;  Ga.
+XXVIII,  24;  Ba.  II,  3,  43;
+Va.  XVII,  46;  Vi.  XVII,  21.
+
+132
+
+133.  Mah.  XIII,  45,  13b;  Ya.II,
+
+128.
+134-      .......
+
+135
+
+136.  Ga.  XXVIII,  19.
+
+137.  Ba.  II,  16,  6*;  Va.  XVII,
+5*;Vi.XV,46*;  Ya.  I,  78.
+
+138.  Vi.  XV,  44*.
+
+139.  Vi.  XV,  47*.
+
+140.  Ba.  11,3,  16*.
+
+141.  Va.  XV,  9-10;  Ba.  Par.  16.
+142
+
+;«;}Ga.  XXVIII,  23.
+
+145
+
+146
+
+147
+
+148
+
+149.  Va.  XVII,  47.
+
+150.  Mah.  XIII,  47,  11.
+
+151
+
+152.  Vi.  XVIII,  1.
+
+153.  Ba.II,  3,  10;  Va.XVII,  48-
+50;  Vi.  XVIII,  2-5;  Ya.  II,
+125.
+
+
+154.  Vi.  XVIII,  32.
+
+155.  Ga.  XXVIII,  39.
+
+156.  Vi.  XVIII,  28-30,  36-37.
+
+157.  Mah.    XIII,    47,    56;    Vi.
+XVIII,  31.
+
+158.  Vi.  XV,  1.
+
+159.  Ba.II,3,3i*;Ga.XXVIII}
+32  ;  Va.  XVII,  25.
+
+160.  Ba.II,  3,  32*;  Ga.  XXVIII,
+33;  Va.  XVII,  38.
+
+161
+
+
+162.  Vi.  XVII,  23*.
+
+163.  Vi.  XV,  28-30.
+
+164.  Ba.  11,3,  "•
+
+165.  Ga.  XXVIII,  34;  Yd. II,  132.
+
+166.  Ba.  II,  3,  14 ;  Ap.  II,  13,  1 ;
+Va.XVII,  13;  Vi.XV,  2;  Ya.
+II,i28.
+
+167.  Ba.  11,3, 17-18;  Va.  XVII,
+14;  Vi.XV,  3;  Ya.  1,69;  II
+
+
+I
+
+
+127-128.
+
+168.  Ba.  II,  3,  20 ;  Va.  XVII,  29
+Vi.XV,  18-19;  Ya.II,  130.
+
+169.  Ba.  II,  3,  21 ;  Ya.  II,  131.
+
+170.  Ba.  II,  3,  22  ;  Va.  XVII,  24  ;
+Vi.XV,  13-14;  Ya.II,  129.
+
+171.  Ba.  II,  3,23;  Va.  XVII,  37;
+Vi.XV,  24-25;  Yl  11,132.
+
+172!  Ba.II,  3,  24;  Va.XVII,  22-
+23;  Vi.  XV,  10-11;  Ya.  II,
+129.
+
+173.  Ba.  II,  3,25;  Va.  XVII,  26-
+27;  Vi.  XV,  15-16;  Ya.  II,
+
+174.  Ba.II,  3,  26;  Va.XVII,  30-
+32;  Vi.  XV,  20-21;  Yl  II,
+
+131-
+
+175.  Ba.II,  3,  27;  Va.XVII,  18-
+19;  Vi.  XV,  7-9;  Ya.  II,
+130.
+
+176.  Ba.IV,  1,16 b-c*;Va. XVII,
+74  ;  Vi.  XV,  8.
+
+
+SYNOPSIS    OF    PARALLEL    PASSAGES.
+
+
+571
+
+
+1 77.  Ba.  II,  3,  28;  Va.XVII,  33-
+35;  Vi.  XV,  22-23;  Ya.  II,
+
+131-
+
+178.  Ba.II,3,3o;Va.XVII,38;
+Vi.  XV,  27.
+
+179.  Ya.  II,  133.
+
+180
+
+181.  Ba.  II,  3,  33-35  ;  Ap.II,  13,
+6-10.
+
+182.  Va.XVII,  10*;  Vi.XV,42.
+
+183.  Va.XVII,  11*;  Vi.  XV,  41.
+
+184.  Va.XVII,  39,  81;  Vi.  XV,
+28-29.
+
+185.  Vi.  XVII,  6,  8;  Ya.  II,
+135-
+
+186.  MlSr.III*;  Ba.  1, 11,9.
+
+187.  Ga.  XXVIII,  21;  Ba.I,  11,
+10-13;  Ap.  II,  14,  2-3;  Va.
+XVII,  81-82;  Vi.  XVII,  11;
+
+Yin,  135.
+
+188.  Ga.  XXVIII,  41;  Ba.I,  11,
+14;  Va.  XVII,  84-86;  Vi.
+XVII,  14.
+
+189.  Ga.  XXyiII,42;  Ba.I,  11,
+15-16;  Ap.  II,  14,  5;  Va.
+XVII,  83;  Vi.  XVII,  13.
+
+190
+
+IQI
+
+
+&}"■"■
+
+
+117.
+
+
+194.  Vi.  XVII,  18;  Ya.  II,  143.
+J95
+
+
+37-40;  Va.  XVII,  54  ;Vi.  XV,
+
+33;  Yd.  II,  140.
+203.  Ga.  XXVIII,  44 ;  Vi.  XV,
+
+34-36;  Ya.  II,  141.
+204
+
+205.  Ga.  XXVIII,  31.
+
+206.  Ga.  XXVIII,  30;  Ya.  II,
+118-119.
+
+207.  Yd.  II,  116.
+
+208.  Mah.  XIII,  105,  11;  Vi.
+XVIII,  42*.
+
+209.  Vi.  XVIII,  43*;  Yd.  II,
+119.
+
+210.  Vi.  XVIII,  41*;  Yd.  II,  120.
+211
+
+212.  Vi.  XVII,  17;  Yl  II,  138.
+
+213.  Mah.  XIII,  105,7.
+
+214.  Mah.  XIII,  105,  10;  Ga.
+XXVIII,  40;  Ba.  II,  3,  38;
+Ap.  II,  14,  15.
+
+215.  Mah.  XIII,  105,  12;  Ya.  II,
+120.
+
+216.  Ga.  XXVIII,  29;  Vi.XVII,
+3  ;  Ya.  II,  122.
+
+217.  Vi.  XVII,  7;  Ya.  11,135.
+
+218.  Ya.  II,  126.
+
+219.  Vi.XVIII,44*;Ga.XXVIII,
+
+46-47-
+
+220
+
+221
+
+222
+
+
+223
+
+224.  Ya.  II,  304.
+
+225 •
+
+226
+
+227
+
+228
+
+229.  Ya.  11,43.
+
+23°
+
+231.  Vi.  V,  180.
+
+232.  Vi.  V,  9,  1 1 ;  Ya.  II,  240.
+
+233
+
+
+196.  Vi.XVII,  19;  Y1II,  145.
+
+197.  Vi.XVII,  20;  Y1II,  145.
+
+198.  Mah.  XIII,  47,  25.
+
+199.  Mah.  XIII,  47,  24b.
+
+200.  Vi.XVII,  22*.
+
+201.  Ga.  XXVIII,  43;  Ba.  II,  3,
+37-40;  Ap.  II,  14,  1 ;  Va.
+XVII,  52-53 ;  Vi.  XV,  32 ;
+Yd.  II,  140.
+
+202.  Ga.  XXVIII,  43  ;  Ba.  II,  3,
+
+
+572
+
+
+LAWS  OF  MANU.
+
+
+234.  Ya.  II,  305.
+
+235
+
+236
+
+237.  Ba.I,i8,i8;Vi.V,3-7.
+238 •
+
+239
+
+240.  .
+
+241.  .   .   .   .   .   .
+
+242
+
+243
+
+244
+
+245
+
+246
+
+247.   .   .   .   .
+
+248 .
+
+249.   ......
+
+25°
+
+251 ,   •
+
+252
+
+253
+
+254
+
+255
+
+256
+
+257
+
+258
+
+259
+
+260
+
+261
+
+262
+
+263
+
+264
+
+265
+
+266
+
+267
+
+268
+
+269
+
+270
+
+271
+
+272
+
+273
+
+274.  Vi.V,  74.
+
+275
+
+
+276.
+
+277.
+278.
+279.
+280.
+281.
+
+
+Ya.  II,  273.
+Vi.V,  136.
+Ya.  II,  276.
+Ya.  II,  279.
+Ya.  II,  273.
+
+
+282.
+283.
+284.
+285.
+286.
+
+
+Vi.  V,  106-107.
+
+
+Vi.V,  175-177.
+
+Vi.V,  174.
+
+Vi.  V,  124;  Ya.  II,  245-
+
+46.
+
+
+287.
+288.
+
+
+289.
+290.
+201.
+
+
+292.
+293.
+294.
+295.
+
+
+Ya.  II,  297.
+Ya.  I,  352.
+
+
+296.
+297.
+298.
+
+
+299.
+300.
+301.
+
+
+302.
+3°3-
+
+
+3°4-
+
+
+305-
+306.
+
+
+307-
+
+
+308.
+
+3°9-
+310.
+
+311.
+
+
+312.
+
+3!3-
+3M.
+
+3*5-
+
+316.
+
+
+Mah.  XIII,  152,  16.
+
+
+SYNOPSIS    OF    PARALLEL    PASSAGES.
+
+
+573
+
+
+317.  Mah.  XIII,  152,  21.
+
+318.  Mah.  XIII,  152,  22.
+
+319.  Mah.  XIII,  152,  23.
+
+320.  Mah.  XII,  78,  ax.
+
+321.  Mah.  XII,  56,  24;  78,  22.
+
+322.  Ga.  XI,  14;  Va.  XIX,  4.
+
+323
+
+324
+
+325
+
+326
+
+
+327-
+
+328.
+
+329-
+33°-
+331.
+
+332.
+333-
+
+
+Mah.  XII,  60,  23b-24a.
+Mah.  XII,  60,  26b-2  7a.
+
+
+334-
+335-
+336.
+
+
+Manu  X,
+
+
+4.  Mah.  XIII,  46,  18  a;  Ap.  I
+1,  3-5;  Ba.  I,  16,  1;  Va.  II
+1-2  ;  Yd.  I,  10.
+
+5.  Ap.  I,  13,  1  ;  Vi.  XVI,  1
+Yd.  I,  90.
+
+6.  Ba.  I,  16,  6  ;  Ap.  II,  13,  4-5
+
+7.  Ga.  IV,  16;  Ba.  I,  16,  7
+Va.  XVIII,  8.
+
+8.  Ga.  IV,  16;  Ba.  I,  16,  7;  I
+17,    3;    Va.  XVIII,   8;    Yd
+
+9.  Ga.  IV,  16;  Ba.  I,  16,  7;  I,
+17,  4;  Va.  XVIII,  8;  Yd.
+I,  92.
+
+10
+
+11.  Ga.  IV,  17;  Ba.  I,  16,  8;  I,
+17,  7-8;  Va.  XVIII,  6;  Vi.
+XVI,  5-6;  Y£.  I,  93-94.
+
+12.  Ga.  IV,  17;  Ba.  I,  16,  8;
+Vi.  XVI,  4,  6 ;  Ya.  I,  93-
+94.
+
+13.  .       .       .       .       .       .       .
+
+*4.      «■
+
+15.  ......       .
+
+16.  Ba.  I,   17,   7;    Va.  XVIII,
+
+
+1-3;    Vi.   XVI,    4;     Yd.   I,
+93-94-
+
+17.  Ba.  I,  17,  8;  Vi.  XVI,  5-6;
+Yd.  I,  93-94.
+
+18.  Ga.IV,  19;  Ba.  1, 16,  8,  11-
+12;  1,17,13-14;  Va. XVIII,
+5;  Vi.XVI,  5.
+
+19.  Ba.  I,  16,  8,  9-10;  I,  17,
+11-12;  Va.  XVIII,  2.
+
+20.  Ba.  I,  16,  16  *.
+
+21.  Ga.  IV,  20.
+
+22.  Ga.  IV,  a  1.
+
+23
+
+
+24.
+25.
+26.
+
+
+Yd.  I,  96.
+
+
+27.  Mah.  XIII,  48,  14.
+
+28.  Mah.  XIII,  48,  15.
+
+29.  Mah.XIII,48,i6;Vi.XVI,7.
+
+30.  Mah.  XIII,  48,17.
+
+31.  Mah.  XIII,  48,  18.
+
+32.  Mah.  XIII,  48,  190-30*
+
+33.  Mah.  XIII,  48,  20b.
+
+34.  Mah.  XIII,  48,  2 1  a.
+
+35.  Mah.  XIII,  48,  24b-25«.
+
+36.  Mah.  XIII,  48,  25^-26*.
+
+37.  Mah.  XIII,  48,  26b-2  7a.
+
+38.  Mah.  XIII,  48,  27  b
+
+
+574
+
+
+LAWS   OF    MANU.
+
+
+39.  Mah.   XIII,    48,    28  k;  Va.
+XVIII,  3.
+
+40.  Mah.    XIII,    48,     29;    Vi.
+XVI,  17*.
+
+4i
+
+42
+
+43.  Mah.  XIII,  33,  21;  35,  17-
+
+44.  Mah.  XIII,  33,  22;  35,  18.
+
+45
+
+
+46
+
+47.  Vi.  XVI,  10, 12-13.
+
+48.  Vi.  XVI,  8.
+
+49.  Vi.  XVI,  9.
+
+50.  Mah.  XIII,  48,  32s,  33a
+
+51.  Vi.  XVI,  14.
+
+52.  Mah.   XIII,    48,   32  *>;    Vi.
+XVI,  14.
+
+53
+
+54
+
+55
+
+56.  Vi.  XVI,  11.
+
+57.  Va.    XVIII,   7 ;    Vi.    XVI,
+
+58.  Mah.  XIII,  48,  41.
+
+59.  Mah.  XIII,  48,  42.
+
+60.  Mah.  XIII,  48,  44.
+
+61.
+
+62.  Mah.  XIII,  48,  34^,   35  a ;
+Vi.  XVI,  18*.
+
+63.  Ya.^  I,    122*;     Ga.  VIII,
+23;  Ap.  I,  23,  6;  Vi.  II,  16-
+
+i7-
+
+64.  Ga.  IV,  22;  Ya.  I,  96.
+
+65
+
+66
+
+67
+
+68
+
+69
+
+7° •      •
+
+7i ■      .      .
+
+72
+
+73
+
+
+74.  Va.  II,  13.
+
+75.^  Ga.  X,  1-2  ;  Ba.  I,  18,  2  ;
+
+Ap.  II,  10,  4;  Va.  II,  13-14;
+
+Vi.  11,5,9,  11  ;  Ya.  I,  118.
+
+76.  Vi.  II,  11.
+
+77.  Ga.  X,  1 ;  Ba.  I,  18,  3  j  Ap.
+II,  10,  6  ;  Va.  II,  15-16  ;  Vi.
+11,9;  Ya.  I,  118.
+
+78.  Ga.  X,  1;  Ba.  I,  18,  4;  Ap.
+II,  10,  7!;  Va.II,  18;  Vi.  II,  9.
+
+79.  Ga.  X,  7,  15,  49;  Ba.  1, 18,
+3-4  ;  Ap.  II,  10,  6-7  ;  Va.  II,
+17,  19;  Vi.  II,  6-7,  12-13;
+YLI,  119.
+
+80
+
+81.  Ga.VII,  6;  Ba.  II,  4,16;
+Va.  II,  22;   Vi.  II,  15;  Ya.
+
+111,35.
+
+82.  Ga.VII,  7;  Ba.  II,  4,  19-
+21  ;  Va.  II,  24,  32-36;  Ya.
+111,35;  S&.  Gri.  IV,  11,  15.
+
+83
+
+84.  Mah.  Ill,  208,  23;  XII,  263,
+45b-46a;  Ba.  II,  4,  20-21;
+Va.  II,  32-36.
+
+85.  Ga.VII,  8;  Ap.  I,  20,10-11;
+Ya.  Ill,  39.
+
+86.  Ga.VII,  9,  14-15;  Ba.  II,
+2,  27 ;  Ap.  I,  20,  12-13  ;  Va.
+II,  24,  26,  29;  Vi.  LIV,  18,
+21;  Ya.  Ill,  36,  38.
+
+87.  Ga.VII,  9,  10;  Va.  II,  24
+26;  Vi.LIV,  18,  20;  Ya.I
+36-38.
+
+88.  Ga.VII,  9,  11-12;    Ap.
+20,   12-13 ;    Va.  II,  26  ;  Vi
+LIV,  18-19,  21;  Ya.  Ill,  3
+
+38-
+
+89.  Ga.VII,  13-15;  Ap.  I,
+
+12;  Va.II,  28;  Vi.LIV,  2
+Ya.  Ill,  37-38.
+
+90.  Va.  II,  31 ;  Ya.  Ill,  39.
+
+
+SYNOPSIS    OF    PARALLEL    PASSAGES.
+
+
+575
+
+
+91.  Ba.  II,  2,  26*;  Va.  11,30*.
+
+92.  Va.  11,27*;  Y1III,  40.
+
+93.  Ya.  Ill,  40.
+
+94.  Ga.  VII,  16-17,  2Ii  Ap.  I,
+20,  15;  Va.  II,  37-39.
+
+95.  Ga.VII,  26;  Vi.  II,  15.
+
+96.  Va.  II,  23.
+
+97
+
+
+98.  Va.  II,  23  ;  Vi.  II,  15.
+
+99- 1  Ga.  X,  57,  60;  Vi.  II,  14;
+100.  J       Ya.  I,  120.
+101
+
+102.  Ga.VII,  4;  Ap.  I,  18,  5-8,
+14-15.
+
+103.  Va.  XXVII,  9.
+
+104.  Ya.  Ill,  41.
+
+105.  .       .
+
+106
+
+107
+
+108
+
+109
+
+no
+
+in.  Ap.  I,  28,  n  ;  Va.  XX,  45-
+
+
+46;  Vi.  LIV,  28  ;  see  below,
+XI,  194.
+112
+
+n3 -       .
+
+114.  Va.XII,3.
+
+115.  Ga.  X,  39-42.
+
+116.  Ya.  111,42.
+
+117.  Va.  II,  40-43.
+
+118 '  .
+
+
+119.  Ga.  X,   16,   41  ;    see    also
+above,  VII,  88.
+
+120.  Va.  XIX,  37.
+
+121.  Ga.  X,  56 ;  Ya.  I,  120.
+
+122
+
+123
+
+124.  Ga.  X,  61.
+
+125.  Ga.  X,  58-59.
+
+126. )  Ga.  X,  64-65  ;  Ya.  I,  121,
+
+127.  J       262.
+
+128
+
+
+129.  Ga.  X,  63.
+
+130.  .       .
+
+131.  .       .
+
+
+Manu  XI.
+
+
+1.  Mah.  XII,  165,  1;  Ga.  V,
+21;  Ba.  II,  5,  19;  Ap.  II,
+10,  1-2.
+
+2.  Mah.  XII,  165,  2\
+
+3.  Mah.  XII,  165,3b;  Ga.V,
+22  ;  Ba.  II,  5,  20.
+
+4.  Mah.  XII,  165,  4.
+
+5.  Ap.  II,  10,  3.
+
+6
+
+7.  Mah.  XII,  165,  5^-c;  Va.
+VIII,  10;  Vi.  LIX,  8-9;  YL
+I,  124.
+
+8.  .       .       .
+
+
+12.  Mah.    XII,    165,    7 ;     Ga.
+XVIII,  25.
+
+13.  Mah.    XII,    165,    8;     Ga.
+XVIII,  24.
+
+14.  Mah.    XII,    165,    9;    Ga.
+XVIII,  26-27.
+
+15.  Mah.  XII,  165,  10.
+
+16.  Mah.    XII,    165,    11  ;    Ga.
+XVIII,  28-29;  Ya.  Ill,  43.
+
+17.  Mah.    XII,    165,    12  ;    Ga.
+XVIII,  30 ;  Ya.  Ill,  43.
+
+18
+
+19
+
+20
+
+
+10.
+
+
+11.  Mah.  XII,  165,6.
+
+
+21.  Mah.    XII,    165,    13;    Ga.
+XVIII,  32.
+
+
+576
+
+
+LAWS    OF    MANU.
+
+
+22.  Mah.   XII,  165,   i4a;   Ga.
+
+xvm,  3i;  Ya.111,44.
+
+23.  Mah.  XII,  165,  14b.
+
+24.  Vi.  LIX,  11;  Yd.  I,  127.
+
+25.  Yd.  I,  127.
+
+26
+
+27.  Mah.  XII,  165,  15 a;  Vi.
+LIX,  10;  Yd.  I,  126.
+
+28.  Mah.  XII,  165,  15  b.
+
+29.  Mah.  XII,  165,  16.
+
+30.  Mah.  XII,  165,  17.
+
+31.  Mah.  XII,  165,  18.
+
+32
+
+33 ■   •       •
+
+34.  Mah.  XII,  165,  20b-2ia;
+Va.  XXVI,  16.
+
+35.  Mah.  XII,  165,  i9b-20a.
+
+36.  Mah.  XII,  165,  2ib-22a;
+Ga.  II,  4 ;  Ap.  II,  15,  18-19  5
+Va.  II,  6.
+
+37.  Mah.  XII,  165,  22b-22c.
+
+38.  Mah.  XII,  165,  23.
+
+39.  Mah.  XII,  165,  24.
+
+40.  Mah.  XII,  165,  25.
+
+41.  Ga.  XXII,  34;  Va.  I,  18
+XXI,  27;  Vi.  LIV,  13.
+
+
+42
+
+43 .
+
+44.  Mah.  XII,  34,  2  j  Ga.  XIX
+2;  Ba.  III,io,  2;  Va.  XXII
+1  ;  Ya.  Ill,  219-220.
+
+45.  Ga.  XIX,  3-6 ;  Va.  XX
+1-2 ;  Ba.  Ill,  10,  3-5  ;  Va
+XXII,  3-5  ;  Ya.  Ill,  226.
+
+46.  Ya.  Ill,  226.
+
+47
+
+48.  Va.  XX,  43;  Vi.  XLV,  1.
+
+49.  Va.I,  18;  XX,  6;  XX,  44  ;
+Vi.  XLV,  3-6  ;  Ya.  Ill,  209.
+
+50.  Vi.XLV,  7-10;  Ya.  Ill,  211.
+
+51.  Vi.  XLV,  11-14;  Yd.  Ill,
+210.
+
+
+52.  Vi.  XLV,  20-21,  31.
+
+53.  Vi.XLV,32*.
+
+54.  Ya.  Ill,  220.
+
+55.  Ga.  XXI,  1;  Ap.  I,  21,  8;
+Va.  I,  19-21;  Vi.  XXXV,
+1-2;  Ya.  Ill,  227.
+
+56.  Ga.  XXI,  10;  Vi.  XXXVI,
+1  ;  XXXVII,  1-3 ;  Ya.  Ill,
+228.
+
+57.  Ga.  XXI,  1;  Ap.  I,  21,  8;
+Vi.  XXXVI,  2;  XXXVII,
+4-5;  Ya.  Ill,  228-229.
+
+58.  Ba.  II,  2,  3-4 ;  Vi.  XXXVI,
+3  ;  Ya.  Ill,  230.
+
+59AGa.  XXI,  1;  Ba.  II,  2,  13;
+Ap.  I,  21,  8-9,  17-18;  Vi.
+XXXVI,  4-7;  Yd.  Ill,
+231.
+
+60.  Ga.  XXI,  1, 11;  Ap.  I,  21,  9-
+10;  Va.  I,  23;  Vi.  XXXVII,
+6,9-10,13;  Yd.  Ill,  234,235,
+237,  239-240.
+
+61.  Ga.  XXI,  11;  Vi.  XXXVIJ
+15-18;  Yd.  Ill,  234-231
+238.
+
+62.  Ga.XXI,  11;  Ba.  II,  2,  13
+Yd.  Ill,  236-238.
+
+63.  Ga.XXI,  n;   Ba.  II,  2,  j
+Vi.  XXXVII,  14,19-21;  Y2
+III,  234-235.
+
+64.  Ga.  XXI,  11;  Vi.  XXXVIJ
+22-26  ;  Yd.  Ill,  240,  242.
+
+65.  Ga.  XXI,  11  ;  Ap.  I,  2:
+14-15;  Vi.  XXXVII,  7,  2-
+27  ;  Yd.  Ill,  239-240.
+
+66.  Ga.XXI,  11;  Ba.II,  2,  1;
+Vi.  XXXVII,  28-30,  32;  Y?
+Ill,  234,  242.
+
+67.  Ga.  XXI,  1,  11;  Va.  I,  2
+Vi.  XXXVII,  13,  31,  33;
+III,  236-237,  239.
+
+68.  Vi.  XXXVIII,  1-6.
+
+
+SYNOPSIS    OF    PARALLEL    PASSAGES.
+
+
+577
+
+
+69.  Vi.  XXXIX,  1.
+
+70.  Ba.  II,  2,6;  Vi.  XL,  1.
+
+71.  Ba.  II,  2,  15-16  ;  Ap.  I,  21,
+12-17;  Vi.  XLI,  1-4.
+
+72.  Ga.  XXII,  1 ;  Ba.  II,  1,  1.
+
+73.  Ga.  XXII,  4-6  ;  Ba.  II,  1,
+2-3;  Ap.  I,  24,  1 1-20;  1,28,
+21-29,  1;  Vi.  L,  i-6}  15;  Ya\
+
+111,243.'
+
+74.  MakXII,  35,  4  ;  Ga.  XXII,
+2-3;  Ap.  I,  25,  11;  Ya.  Ill,
+248.
+
+75.  Ga.  XXII,  10;  Ba.  II,  1,  4.
+
+76.  Mah.XII,35,  5  a.
+
+77.  Mah.  XII,  35,  5b-6a;  Yl
+III,  250.
+
+78.  Ya.  Ill,  249.
+
+79.  Ap.  I,  24,  18.
+
+80.  Par.  VIII,  42  * ;  Ga.  XXII,  7 ;
+Va.XX,  27 ;  Ya.III,  244-245.
+
+81.  Ga.  XXII,  8;  Ap.  I,  24,21;
+Va.XX,  28;  Ya.III,  246.
+
+82
+
+83.  Ga.  XXII,  9;  Ba.  II,  1,  5;
+
+Ap.  I,  24,  22;  Vi.  XXXV,  6;
+
+Ya.  Ill,  244.
+
+84
+
+85.  Seeabove,IX, 317;  1,93-95.
+
+86.  See  below,  XII,  112.
+
+87
+
+88.  Ga.  XXII,  12-13;  Ba.  II,
+1,  12;  Ap.  I,  24,  6-9 ;  Va.
+XX,  23-24,34-36;  Vi.  L,  7-
+9  ;  Ya.  Ill,  251.
+
+89.  Vi.  L,  10.
+
+90.  Ga.  XXI,  7;  Ba.  II,  1,  6.
+
+91.  Mah.  XII,  165,  48  a;  Ga.
+XXIII,  1  ;  Ba.  II,  1,  18;  Ap.
+I,  25,  3;  Va.  XX,  22;  Ya.
+HI,  253.
+
+92.  Ya.  Ill,  253.
+
+93.  Vi.  LI,  1  ;  Ya.  Ill,  254.
+
+I>5"J  p
+
+
+94-      •
+
+95.  Vi.  XXII,  82  *.
+
+96
+
+97
+
+98.
+
+99
+
+100. )
+
+ioi  J  See  above,  VIII,  314-316.
+
+102.  Ap.  I,  25,  10;  Vi.  LII,  3;
+
+Ya.  Ill,  258.
+103
+
+104.  Ga.  XXIII,  8-9;  Ba.  II,  1,
+13-14;  Ap.  I,  25,  2;  Va.
+XX,  14;  Vi.  XXXIV,  2;  Ya.
+Ill,  259.
+
+105.  Mah.  XII,  165, 50^-51  a ;  Ga.
+XXIII,  10-11;  Ba.  II,  1,  15;
+Ap.  I,  25,  1;  Va.  XX,  13;
+Ya.  Ill,  259.
+
+106.  Vi.  LILT,  1 ;  Ya.  Ill,  260.
+
+107.  Vi.  LILT,  6;  Ya.III,  260.
+
+108
+
+109.  Ga.  XXII,  18;  Ap.  I,  26,  1;
+
+Va.  XXI,  18;  Vi.  L,  16;  Ya.
+
+Ill,  263.
+no.  Vi.  L,  22.
+in.  Vi.  L,  16;  Ya.III,  263.
+
+112.  Vi.  L,  17-18.
+
+113.  Par. VIII,  41  *;  Vi.  L,  19-20.
+
+114.  Par.  VIII,  39*;  Vi.  L,  21.
+
+115.  Par.  VIII,  40*.
+
+116.  Vi.  L,  24.
+
+117.  Ya.  Ill,  263.
+
+118.  Vi.  XXXVII,  35.
+
+119.  Ga.  XXIII,  17;  Ba.  II,  1,
+31-33;  Ap.  I,  26,  8-9;  Va.
+XXIII,  1-3  ;  Ya.  Ill,  280  ;  Pa.
+Gri.  Ill,  12,  1-3.
+
+120.  Ga.  XXV,  4;  Ba.  II,  1,  35.
+
+121.  Vi.  XXVIII,  48*;  Ba.  II,
+1,  30  ;  Va.  XXIII,  4.
+
+122.  Ga.  XXV,  1-2.
+
+P
+
+
+578
+
+
+LAWS    OF    MANU.
+
+
+123.  Vi.  XXVIII, 49*;  Ga.XXIII,
+18;  Pa.  Gri.  Ill,  12,  6-8.
+
+124.  Vi.  XXVIII, 50*;  Ga.XXIII,
+19;  VLGri.  III,i2,  8.
+
+125.  Vi.  XXXVIII,  7*.
+
+126.  Vi.  XXXIX,  2;  XL,  2;
+XLI,  5.
+
+127.  Ga.  XXII,  14-16;  Ba.II,  1,
+8-10;  Va.  XX,  31-33;  Vi.
+L,  12-15;  Yd.  III,  266-267.
+
+i28.^Ga.  XXII,  14 ;  Ba.  I,  19,  1  ;
+Ap.  I,  24,  1,4;  Yd.  Ill,  266.
+
+129.  Ya.  Ill,  266.
+
+130.  Ga.  XXII,  15  ;  Ba.  I, '19,  2  ;
+Ap.  I,  24,  2,  4  ;  Ya.  Ill,  267.
+
+13L  Ga.  XXII,  16;  Ba.  I,  19,  2;
+Ap.  I,  24,  3-4;  Yd.  Ill,  267.
+
+132.  Ga.  XXII,  19  ;  Ba.  I,  19,  6  ;
+Ap.  I,  25,13;  Va.  XXI,  24;
+Vi.  L,  30-32;  Yd.  III,  270.
+
+133.  Yd.  Ill,  270.
+
+134-  Ga.  XXII,  23,  25;  Vi.  L,
+34-35;  Ya.III,  273.
+
+135.  Ga.  XXII,  24;  Vi.  L,  36-
+39;  Ya.III,  271,  273-274.
+
+136.  Ba.  I,  19,6;  Vi.L/33;  Ya.
+Ill,  272.
+
+137.  Ba.  I,  19,  4;  Vi.  L,  25-28;
+Ya.III,  271.
+
+138.  Vi.  L,  29,  40-41 ;  Ya.  Ill,
+272-273.
+
+139.  Ga.  XXII,  26;  Yd.  Ill,  268.
+
+140.  Va.  XXI,  26;  Ya.  Ill,  274.
+
+141.  Vi.  L,  46*;  Ga.  XXII,  20-
+21;  Ap.  I,  26,  2;  Va.  XXI,
+25  ;  Ya.  Ill,  269.
+
+142.  Vi.  L,  47*;  Ga.  XXII,  22;
+Ya.  Ill,  275.
+
+143.  Vi.  L,  48*;  Yd.  Ill,  276.
+
+144.  Vi.  L,  49*;  Ya.  Ill,  275.
+145-  Vi.  L,  50*;  Yd.  Ill,  276.
+146
+
+
+147.  Ga.  XXIII,  2;  Ba.II,  1, 19,
+21;  Va.  XX,  19;  Vi.  LI,  4;
+Yd.  Ill,  255.
+
+148.  Ba.  II,  1,  22*;  Va.  XX,  21  ;
+Vi.  LI,  23-24.
+
+i49
+
+150.  Mah.  XII,  165,  76  b;  Ga.
+XXIII,  6  ;  Vi.  LI,  25.
+
+151.  Ga.  XXIII,  3  ;  Va.  XX,  20;
+Vi.  LI,  2 ;  Yd.  Ill,  255.
+
+152.  Va.XX,  18*;  Par.  XII,  3*;
+Ba.  II,  1,20;  Vi.  LI,  5.
+
+153.  Va.  XIV,  33;  Vi.  LI,  50,
+54,  56 ;  see  above,  IV,  222.
+
+J55
+
+156.  Vi.  LI,  27,  34.
+
+157.  Ga.  XXIII,  4-5 ;  Va.  XXIII,
+30;  Vi.LI,  3-4.
+
+158.  Va.XXIII,i2;Vi.LI,43-44.
+
+159.  Va.  XXIII,  11;  Vi.LI,  45;
+Yd.  Ill,  282.
+
+160.  Va.XXIII,n;  Vi.LI,46-4>
+
+161.  Ga.  XXIII,  26.
+
+l62.  :
+
+163.  Ap.  I,  25,  10;  Vi.  LII,  5.
+
+164.  Vi.  LII,  6.
+
+165.  Vi.  LII,  7.
+
+166.  Vi.  LII,  8.
+
+167.  Vi.  LII,  9.
+
+168.  Vi.  LII,  10.
+
+169.  Vi.  LII,  11,  13.
+
+170
+
+171.  Ga.  XXIII,  12-13,  32>
+
+11,2,  13-14;  Va.XX,  15-n
+
+Vi.  XXXIV,  2 ;  LIII,  1  ;
+
+HI,  233.
+
+172
+
+173.  Ba.  II,  1,  37-38-
+i74.AGa.  XXII,  36;  XXIII,  3.
+
+Ap.  I,  26,  7 ;  Vi.  LIII,  4,
+
+Yd.  Ill,  288.
+
+
+SYNOPSIS    OF    PARALLEL    PASSAGES.
+
+
+579
+
+
+175.  Vi.  LIII,  4;  Ya.III,  291.
+
+176.  Ba.  II,  4,  14*;  II,  4,  13;
+Va.  XXIII,  41;  Vi.  LIII,  5-6.
+
+177.  Mah.  XII,  165,  63  b;  Vi.
+LIII,  8.
+
+178 a.       •       •
+
+179.  Vi.   LIII,    9*;    Ap.   I,  27,
+
+n*;  Ba.II,2,  11*;  Par.  VII,
+
+10*.
+180
+
+181.  Mah.  XII,  165,  37;  Ba.  II,
+2,35*;  Va.1,22*;  Ga.  XXI,
+3;  Vi.  XXXV,  3-5;  Y1III,
+261.
+
+182.  Vi.  LIV,  1.
+
+183.  Ga.  XX,  4-6 ;  Ba.  II,  1,  36  ;
+Va.  XV,  12-13;  Ya.III,  295.
+
+184.  Ga.  XX,  4,  7;  Va.  XV.  12,
+14;  Vi.  XXII,  57.
+
+185.  Ga.  XX,  8-9  ;  Va.  XV,  15-
+16;  Ya.  Ill,  295;  see  above,
+IX,  201.
+
+186.  See  above,  IX,  201.
+
+187.  Ga.  XX,  10;  Ba.  II,  1,  36;
+Va.  XV,  17-21;  Ya.III,  296.
+
+188.  Ga.  XX,  11-14;  Ba.  II,  1,
+36  ;  Ya.  Ill,  296.
+
+189.  Ya.  Ill,  297.
+
+190.  Vi.  LIV,  31  *.
+
+191.  Vi.LIV,  32*;  Yl  III,  299.
+
+192.  Vi.  LIV,  26  *  ;  Ap.  I,  1,  23-
+2, 10  ;  Va.  XI,  76-79.
+
+193.  Vi.  LIV,  27*.
+
+194.  Vi.  LIV,  28*.
+
+195-  Vi.LIV,  24*;  Yd.  Ill,  290.
+
+*9<H  Ba.II,  1,36;  Ya.III,  300.
+
+198.  Vi.LIV,  25*;  Ap.I,  26,7;
+Ya.  Ill,  289.
+
+199.  Ya.  Ill,  289.
+
+200.  Ga.  XXIII,  7  ;  Va.  XXIII,
+31;  Vi.LIV,  12;  Ya.111,277.
+
+
+201.
+
+202.  Ya.  Ill,  291.
+
+203.  .
+
+
+204.  Vi.  LIV,  29  *.
+
+205.  Par.  XI,  49*;  Ya.III,  292.
+
+206.  Par.  XI,  50*;  Ya.  Ill,  292.
+207 *
+
+208.  Mah.  XII,  165,  45^-46^.
+
+209.  Ba.II,  1,7*;  Vi.  LIV,  30*;
+Par.  XI,  51*;  Yd.  Ill,  293.
+
+210.  Vi.LIV,  34*;  Y1III,  294.
+211
+
+212.  Ga.  XXVI,  2-5;  Ba.II,  2,
+38;  IV,  5,  6-7;  Ap.I,  27,  7;
+Va.  XXI,  20;  Vi.XLVI,  10;
+Ya.  Ill,  320.
+
+213.  Ba.IV,  5,  11*;  Va.  XXVII,
+13*;  Par.  X,  29*;  Vi.  LIV,
+19;  Ya.  Ill,  315.
+
+214.  Ba.  IV,  5,  8*;  Ga.  XXVI,
+18-19;  Ba.  II,  2,  40;  Va.
+XXIV,  1-2  ;  Ya.  IH,  320.
+
+215.  Ba.  11,2,  37;  IV,  5,  10;  Va.
+XXI,  21;  Vi.XLVI,  11;  Ya.
+Ill,  318.
+
+216.  Ba.  IV,  5,  15*;  Vi.  XLVI,
+18;  Ya.  III,32i.
+
+217.  Va.  XXVII,  21*;  Par.  X,
+2*;  Ga.  XXVII,  12-13;  Ba.
+111,8,  10,19-23;  Va.  XXIII,
+45  ;  Vi.  XL VII,  4-5 ;  Ya.  Ill,
+
+218.  Ga.  XXVII,  14;  Ba.  Ill,  8,
+26;  IV,  5,  17;  Va.  XXVII,
+21;  Vi.  XLVII,  3,  6.
+
+219.  Ba.  IV,  5,19*;  Vi.  XLVII,  7.
+
+220.  Ba.IV,5,i8*;  Vi.  XLVII, 8.
+
+221.  Ba.  IV,  5,  20*  ;  Ga.  XXVII,
+i8;Ba.III,  8,31;  Vi.  XLVII,
+9;  Ya.  Ill,  325,  327.
+
+222.  Ba.  Ill,  8,  30;  Vi.  XLVII,
+10.
+
+
+$So
+
+
+LAWS    OF    MANU.
+
+
+223.  Ga.  XXVI,  1-6;  XXV1I,2;
+Ba.  Ill,  8,3,  7-9,  12-13.
+
+224.  Ba.  Ill,  8, 17  ;  Ya.  Ill,  326.
+
+225.  Ba.  Ill,  8,  14-16.
+
+226.  Va.  XXIV,  46;  Yd.  Ill,  309.
+
+227.  Va.  XXV,  3.
+^28.  .
+229.
+
+230.  Mah.  XIII,  112
+
+231.  .
+
+232.  .
+
+233-  •       •
+
+234.  .       .
+
+235-  •       •
+
+236.  .
+
+237-  •       •
+
+
+238.  .       .
+
+239.  Vi.  xcv,
+
+
+240.
+241.
+242.
+
+243-
+244.
+245.
+
+
+246.  Va.  XXVII,  7*;    YL  III,
+3ii-
+
+
+247.  Va.  XXVII,  1-2.
+
+248
+
+249.  Ba.  IV,  1,  29*;  Va.  XXVI,
+4*;  Vi.  LV,  2.
+
+250.  Va.  XXVI,  5*;  Vi.  LV,  4;
+Ya.  Ill,  304.
+
+251.  Va.  XXVI,  6* ;  YL  III,  304.
+
+252.  Va.  XXVI,  7*;  Vi.  LV,  6;
+Ya.  Ill,  305.
+
+253-      •       •
+
+
+254.  Ga.  XXIV
+
+
+4-5-
+
+
+255-
+
+
+2-3  ;  Ba.  IV,  2,
+
+
+256.  .
+
+257.  .
+
+258.  .
+
+259.  .
+
+260.  Ga.  XXIV,  10,  12  ;  Ba.  Ill,
+5,  2-5;  Va.  XXVI,  8;  Ya.
+Ill,  302.
+
+261.  Vi.LV,  7*;  Ba.lV,2,  15.
+
+262.  Va.  XXVII,  3*.
+
+263.  Ba.  Ill,  9,  1-2 1 ;  IV,  5,  29
+264.
+
+265.  .
+
+266.  .
+
+
+Manu  XII.
+
+
+14.
+
+
+3-       •       •       •
+
+4.  .       *       ♦
+
+5.  Ya.  Ill,  134.
+
+6.  Ya.  Ill,  135.
+
+7.  Ya.  Ill,  136.
+
+8.  .       .       ,
+
+
+16.
+
+
+i7-
+18.
+19.
+20.
+21.
+
+
+9.  Ya.  Ill,  131,  134-136.
+
+10
+
+11
+
+12.  Maitr.  Up.  Ill,  3.
+13
+
+
+22.
+
+
+23.  .       .       .
+
+24.  Ya.  Ill,  182.
+
+25.  .       .       .
+
+26.  .       .       .
+
+
+SYNOPSIS    OF    PARALLEL  PASSAGES.
+
+
+581
+
+
+27.  Mah.  XII,  194,  31 ;  219,  29.
+
+28.  Mah.  XII,  194,  32  ;  219,  30.
+
+29.  Mah.  XII,  194,  33;  219,  31.
+
+30
+
+31.  Ya.  Ill,  137.
+
+32.  Maitr.Up.III,5;Ya.III,i38.
+
+33.  Ya.  Ill,  139.
+
+34
+
+35
+
+36
+
+37
+
+38
+
+39
+
+
+66.  Vi.  XLIV,  35-37  ;  Ya.  Ill,
+214-215.
+
+67.  Vi.  XLIV,  38-43  ;  Ya.  Ill,
+214.
+
+68.  Vi.XLIV,44*;Ya.III,2i7.
+
+69.  Mah.   XIII,  in,  130;   Vi.
+
+XLIV,  45*.
+7o
+
+
+7i.
+
+72.
+
+
+40.  Ya.  Ill,  137-139.
+
+41
+
+42
+
+
+43-
+44.
+
+45-
+46.
+
+47-
+48.
+49.
+5o.
+5i-
+
+
+73-
+
+
+74.  •       .       •
+
+75.  )  Ya.  Ill,  206
+
+76.  J       IV,  88-89.
+
+77.  .       .       .
+
+
+see  above.
+
+
+78.
+
+79-
+
+80.
+
+
+81.
+82.
+
+83-
+
+84.
+
+
+Ya.  Ill,  190.
+
+
+85.
+86.
+
+
+87.
+
+
+52.  Ya.  Ill,  219.
+
+53-  •       •       •
+
+54-  .       •       •
+
+
+88.
+89.
+90.
+
+
+55.  Ya.  Ill,  207.
+
+56.  Ya.  Ill,  207.
+
+57.  Ya.  Ill,  208.
+
+58.  Ya.  Ill,  208.
+
+59.  .       .       .
+
+
+91.
+
+92.
+
+93-
+94.
+
+95-
+
+
+Ira.  Up.  6  ;  Ap.  I,  23,  r.
+
+
+60.  Ya.  Ill,  212.
+
+61.  Ya.  Ill,  213.
+
+62.  Vi.  XLIV,  14-20;  Ya.  Ill,
+214-215.
+
+63.  Vi.  XLIV,  21-25;  ya-  HI,
+211,  215.
+
+64.  Vi. XLIV,  26-30;  Ya.III,2 1 5.
+
+65.  Vi.  XLIV,  31-34;  Y1III,
+213,
+
+
+96
+
+97
+
+98
+
+99
+
+100
+
+101.  Va.  XXVII,  2*.
+
+
+102.
+103.
+104.
+
+
+5§2
+
+
+LAWS    OF    MANU.
+
+
+105.
+106.
+
+
+107.  .......
+
+108.  Ga.  XXVIII,  48.
+
+109.  Va.  VI,  43*  ;  Ba.  I,  1,  5-6 ;
+Ap.  II,  29, 13-14  >  Va.  I,  6-7.
+
+1 10.  Ga.  XXVIII,  49;  Ba.1, 1, 7, 9.
+in.  Ba.  I,  i,  8*;   Va.  Ill,  20*;
+
+Par.  VIII,  34*.
+
+112.  Ya.  I,  9.
+
+113.  Ga.  XXVIII,  50.
+
+114.  Ba.  I,  1,  16*;  Va.  Ill,  5*;
+Par.  VIII,  12*.
+
+
+115.  Ba.I,  1,  n  *;  Va.  Ill,  6
+
+
+Par.  VIII,  13
+
+
+116.
+
+
+117.
+118.
+119.
+120.
+121.
+122.
+123.
+124.
+125.
+126,
+
+
+INDEX.
+
+
+INDEX.
+
+
+Abhi^-it  sacrifice,  xi,  75.
+
+Abhira  caste,  x,  15.
+
+Abhuasta,  one  accused  of  mortal  sin,
+
+11,  185;  in,  159;  iv,  211.
+Abortion,  v,  90.     See  Penance  for
+
+destroying  embryo.
+Actions,  classification  of,  xn,  1-11.
+Activity,  quality  of  nature  or  of  Self,
+
+xii,  24,  26,  28,  32,  36,  38.
+
+—  conditions  caused    by,    xn,   40,
+
+45-47.
+Actor,  excluded  from  Sraddha,  in,
+
+,155.
+
+—  food  of,  forbidden,  iv,  214,  215.
+
+—  not  qualified  to  be  witness,  vin,
+
+—  punishment    for    adultery    with
+
+wife  of,  vin,  362-363.
+Adhvaryu  priest,  receives  a  chariot,
+
+vin,  209.
+Adityas,  ill,  284;  xi,  222.
+Adoption.     See  Son,  adopted.
+Adulteration  of  merchandise,  vin,
+
+203;  ix,  286;  xi,  50.
+Adulteress,  son    of,  excluded  from
+
+Sraddha,  in,  156,  174-175.
+
+—  food  of,  forbidden,  in,  158;  iv,
+
+217.
+
+—  husband  of,  III,  155.
+Adultery,  a  great  crime,  iv,  133-134;
+
+vin,  352-353.
+
+—  an  Upapataka,  xi,  60.
+
+—  definition  of,  vin,  356-358.
+
+—  penance  for,  xi,  177-179.
+
+—  punishments  of  females  for,  vin,
+
+371;  in  next  life,  v,  164;  ix,  30;
+of  males,  vin,  359,  363,  372-379?
+382-385;  in  next  life,  xi,  52;
+xii,  60.
+
+—  witnesses  in  cases  of,  vin,    72.
+
+See  Guru,  Wife.
+Agastya,  a  sage,  v,  22.
+Ages  of  the  world,  1,  68-73,  81-86;
+
+ix,  301-302.
+Aghamarsha«a  hymn,  xi,  260-261.
+A^igarta,  a  sage,  x,  105.
+
+
+Agni,  in,  85,  86,  211 ;  xi,  120,  122  ;
+
+xii,  121,  123;  king  to  behave
+
+like,  ix,  303,  310.     See  Fire.
+Agnidagdha  manes,  in,  199.
+Agnihotra  sacrifice,  n,   15;   iv,  10,
+
+25;  v,  167;  vi,  9;  xi,  42;  Add.
+
+and  Corr.  p.  613.
+Agnish/oma  sacrifice,  11,  143.
+Agnishfut  sacrifice,  xi,  75.
+Agnishvatta  manes,  in,  195,  199.
+Agnyadheya  sacrifice,  n,  143  ;  vin,
+
+209;  xi,  38.
+Agrayawa  sacrifice,  iv,  26-28  ;  vi,  10.
+Agreements.    See  Non-performance
+
+of.
+Agriculture,    called    Pramnta,    iv,
+
+4-5.
+
+—  excludes  from  Sraddhas,  in,  165.
+
+—  forbidden  to  Brahmawa,  in,  64,
+
+x,  83-84.
+
+—  obligatory  on  Vaijya,  1,  90 ;  x,  79.
+
+—  one  of  the  ten  modes  of  subsist-
+
+ence, x,  116.     See  Cultivator,
+
+Seed-corn.
+A§7aPa  nianes,  in,  197.
+Ahina  sacrifices,  xi,  198.
+Ahindika.  caste,  x,  37.
+A^amana.     See  Sipping-water.
+A^arya.     See  Teacher.
+AHrya  caste,  x,  23.
+Akshamala,  wife  of  Vasish/>6a,  ix,  23.
+Ambash/£a  caste,  x,  8,  13,  15,  19,
+
+48.
+Ambassador,  vn,  63-68.
+Anagnidagdba  manes,  in,  199.
+Anantara  sons,  x,  6,  14,  41.
+Andhatamisra  hell,  iv,  88,  197.
+Andhra  caste,  x,  36,  48.
+Angas  of  the  Veda,  p.  xxvi;  n,  141,
+
+242;  in,  184,  185;  iv,  98.
+Ahgiras,  1,  35 ;  II,  151 ;  in,  198.
+
+—  sacred  texts  of,  xi,  33.
+Animals,  classes  of,  1,  43-45.
+
+—  eatable  and  forbidden.  See  Food.
+
+—  slaying  of,  xi,  60,  69,  71.     See
+
+Meat,  Penance  for  killing.
+
+
+586
+
+
+LAWS   OF    MANU.
+
+
+Annapnuana  rite,  n,  34.
+
+Antyavasayin  caste,  iv,  79 ;  x,  39.
+
+Antyesh/i  rite,  11,  16.
+
+Anulomas.     See  Castes,  mixed.
+
+Anvashtaka  days,  iv,  150.
+
+Apapatra  races,  x,  51.
+
+Apastambiya  Dharma-sutra,  pp.  xi,
+xviii,  xlix,  li,  lix,  lxv,  lxix,  lxxi,
+xciii,  xcix,  ci,  cxix.
+
+Apatrikarawa  sins,  xi,  70.  See  Pen-
+ance for.
+
+Apaviddha.     See  Son,  cast  off.
+
+Appointment  of  daughters.  See
+Daughter  appointed.
+
+—  of  widows  and  wives,  pp.  xciv,
+
+cix;  in,  160,  173.
+
+—  forbidden,  ix,  64-68.
+
+—  permitted,    ix,   57-63,    120-121,
+
+145-146, 159, 162-165, 167,  190-
+
+191.
+Apsarases,  1,  37;  xu,  47.
+Architect,  excluded  from  Sraddha,
+
+in,  163.
+Arms,  trade  of,  excludes  from  Srad-
+
+dha,  in,  162.     See  King,  Ksha-
+
+triya,  duties  of.
+Arsha  marriage,  111,  21,  53.
+
+—  affects    succession    to    woman's
+
+property,  ix,  196.
+
+—  description  of,  III,  29.
+
+—  permitted  to  whom,  in,  23-24.
+
+—  results  of,  in,  38-40,  42.
+Arson.     See  Incendiary.
+Artisan,  disqualified  to  be  witness,
+
+viii,  65.
+
+—  food  of,  forbidden,  iv,  219.
+
+—  hand  of,  always  pure,  v,  129.
+
+—  may  speak  to   married   women,
+
+viii,  360.
+
+—  to  do  work  for  king,  vn,  138  ;  x,
+
+120.
+Aryan,  acting  like  non-Aryan,  and
+non-Aryan  like  Aryan,  x,  73.
+
+—  has  three  births,  11,  169.
+
+—  lawful  residence  of,  11,  24.
+
+—  may  take  roots  &c.  on  a  journey,
+
+viii,  341.
+
+—  may  take  up  arms,  viii,  348-351.
+
+—  offspring    of  Aryan   father    and
+
+non-Aryan  mother  preferable
+to  offspring  of  non-Aryan  father
+and  Aryan  mother,  x,  66-72.
+
+—  to  be  witness  for  Aryan  of  the
+
+same  kind,  viii,  68.
+Aryavarta,  x,  34 ;  boundaries  of,  11,
+22-23.
+
+
+Asahaya,  commentator  of  Narada,
+
+pp.  xvii,  cvii.
+Asarnvrita,  hell,  iv,  81.
+Ascetic,  dress  and  utensils,  vi,  41,
+
+44,  52-54-
+
+—  duty   of  meditation   and   Veda-
+
+study,  vi,  49,  61-84.
+
+—  dwelling  and  manner  of  life,  vi,
+
+41-43.
+
+—  entrance  into  order,  vi,  33-40.
+
+—  food    and    manner    of  begging,
+
+VI,  43,  50-51,  55-59-
+
+—  general  disposition,  vi,  41,  44-49,
+
+60.
+
+—  not  to  be  made  a  witness,  viii,  65.     ,
+
+—  pays  no  toll  at  ferry,  VIII,  407.
+
+—  personal  purification,  v,  137.
+
+—  produced  by  Goodness,  xu,  48.
+
+—  receives  alms  atVaLrvadeva,  in,  94.
+
+—  informal,   iv,   257-258;    vi,  86,
+
+94-96.
+
+—  punishment  for  intercourse  with
+
+female,  viii,  363.
+Ash/aka  days,  manes  worshipped  on,
+iv,  150.
+
+—  Veda-study  interrupted   on,  iv,
+
+119.
+Asipatravana  hell,  iv,  90;  xu,  75.
+Assassin.     See  Self-defence.
+Assault,  results  of,  on  a  Brahmawa,
+
+iv,  165-169;  xi,  207-208.
+
+—  to  be  avoided  by  Snataka,  iv,  83,
+
+164.
+
+—  a  title  of  the  law,  viii,  6,  279-301
+
+—  witnesses  in   cases  of,  viii,  72
+
+See  Homicide,  Hurt,  Mischief.
+Assembly  legal.     See  Parishad.
+Assessors  in  a  law-court,  viii,  1,  1
+
+19.
+Astrologer  excluded  from  Sraddha,
+
+in,  162.
+Astrology,  practice  of,  forbidden  t
+
+ascetics,  vi,  50.
+Astronomy,  science  of,  p.  li.
+Asura  marriage,  III,  21.
+
+—  affects    succession    to    woman's
+
+property,  ix,  197.
+
+—  description  of,  in,  31.
+
+—  permitted  to  whom,  pp.  lxxvii-
+
+lxxviii;  in,  23-25.
+
+—  results  of,  in,  4 1  -4  2 .   See  Daugh
+
+ter,  sale  of.
+Asuras,  1,  37 ;  in,  225  ;  xi,  20.
+Ajvalayana-smWti,  p.  xxii.
+Ajvamedha.     See  Horse-sacrifice.
+Atharvan,  sacred  texts  of,  xi,  33.
+
+
+INDEX.
+
+
+587
+
+
+Atheism,  -ist,  11, 11;  111,150;  iv,  163;
+viii,  22  ;  xi,  67.
+
+Atikr/^^ra  penance,  xi,  209 ;  de-
+scription, xi,  214.
+
+Atri,  a  sage,  1,  35  ;  in,  196  ;  quoted,
+p.  xxvii ;  in,  16.
+
+Aurasa.     See  Son,  legitimate.
+
+Austerity,  best  form  of,  n,  166;  IV,
+148.
+
+—  leads  to  final  liberation,  xn,  83.
+
+—  power   of  destroying   guilt    and
+
+producing  other  effects,  iv,  148 ;
+xi,  228,  234-235.
+■ —  sole  duty  in  Kr/'ta  age,  I,  86.
+
+—  to  be  performed  by  ascetic,  VI,
+
+75  ;  by  hermit,  vi,  8,  22-23,  30.
+Auttami  Manu,  1,  62.
+Avakirwin.    See  Penance  for  breach
+
+of  student's  vow,  Student.
+Avantya  caste,  x,  21.
+Avr/ta  caste,  x,  15.
+Ayogava   caste,  descendants  of,  x,
+
+15,  26,  32,  35.
+
+—  occupation,  x,  48.
+
+—  origin  of,  x,  12,  16.
+
+Bali  offering,  in,  70,  74,  108,  265.
+
+—  description  of,  in,  87-94,  I2I«
+
+—  duty  of  performing  for   house-
+
+holder, in,  80-81;  for  hermit,
+
+vi,  7.
+Barber,  food  of,  permitted  to  Brah-
+
+ma«a,  iv,  253.
+Bard,  excluded  from  Sraddha,  in,
+
+158 ;    may  speak    to    married
+
+woman,  viii,  360.     See  Singer.
+Barhishad  manes,  in,  196,  199.
+Basket-maker,  food   of,  forbidden,
+
+iv,  215.
+Bathing,  rules  of,  iv,  45,  129,  152,
+
+201-203  ;  a  penance,  vi,  69.
+Baudhayaniya  Dharma^astra,  pp.  xx,
+
+xlix,  li-liii,  lxv,  xciii,  xcix,  cii,
+
+civ,  cxix.
+Begging,  a  mode  of  subsistence,  iv,
+
+4-5  ;  x,  116.
+
+—  rule  of,  for  ascetic,  vi,  43,  50-51,
+
+55-58;  forhermit,vi,2  7-2  8;  for
+student,  11,  48-50, 108, 182-185,
+187;  when  permitted  to  Sna-
+taka,  iv,  33;  xi,  1-6.
+
+Bestial  crime,  xi,  174.
+
+Betrothal,  manner  of,  III,  35.
+
+—  once  made  binding,  ix,  47,  71 ;
+
+except  when  bride  is  blemished,
+IX,  72-73.
+
+
+Betrothal,  source  of  husband's  power,
+v,  1 5  2 .    See  Bride,  Bridegroom .
+
+Betting,  ix,  221-228.
+
+Bhadrakali,  in,  89.
+
+Bharadva^a,  a  sage,  x,  107.
+
+Bhavishya-punbza,  pp.  cx-cxi.
+
+Bhrigu,  expounds  Manu's  laws,  pp.
+xii-xiii,  xvii;  1,  59-60;  v,  1-3  ;
+xn,  2,  126.
+
+—  origin  of,  1,  35.
+
+—  opinion  of,  quoted,  p.  xxvi ;  in,
+
+16.
+
+Bhutas,  in,  70,  74,  80-81,  90.
+
+Bhfitatman,  xn,  12.
+
+Birth.  See  Impurity,  Transmigra-
+tion,
+
+Blacksmith,  food  of,  forbidden  to
+Brahmawa,  iv,  215.
+
+Blind  man,  excluded  from  inherit-
+ance, ix,  201 ;  from  Sraddha,
+in,  161,  177.
+
+Boatmen,  hire  of,  vni,  406  ;  liability
+for  damage,  vin,  408-409.
+
+Bond,  renewal  of,  viii,  154-155.
+
+Booty,  distribution  of,  vn,  96-97.
+
+Boundary,  disputes,  a  title  of  the
+law,  viii,  6,  245-266.
+
+—  not  lost  by  lapse  of  time,  viii,
+
+149.
+
+—  punishment  for  destroying  mark
+
+of,  ix,  291.
+Brahma  marriage,  in,  21.
+
+—  affects    succession    to    woman's
+
+property,  ix,  196.
+
+—  description  of,  in,  27.
+
+—  permitted  to  whom,  in,  23-24.
+
+—  results  of,  in,  37,  39-40,  42,  184.
+Brahman,  1,  50  ;  n,  82-84  ;   in,  70,
+
+89;  iv,  182,  260;  vi,  32,  79,
+81,  85;  vn,  14;  viii,  81;  xn,
+102,  123,  125.
+
+—  composed  Manu-smr/ti,  p.  xii ;  1,
+
+58.
+
+—  court  of,  viii,  11.
+
+—  day  and  night  of,  1,  68-73.
+
+—  muhurta  of,  iv,  92.
+
+—  origin  of,  1,  1 1 ;  xn,  50.
+
+—  tirtha  of,  11,  58-59.   See  Purusha,
+
+Svayambhu,  Soul.
+Brahman  priest,  receives  a  horse,
+
+viii,  209.
+Brahmawa,  a  class  of  works,  iv,  100.
+Brahmawa   (caste),   definition   of  a
+
+true,  11,  87.
+
+—  duties,  livelihood,   and   occupa-
+
+tions of,  1,  88,  102-110;   iv,  2-
+
+
+588
+
+
+LAWS    OF    MANU.
+
+
+13;  x,  1-2,  74-76;  in  times  of
+distress,  viii,  339;  xi,  11-23;
+x,  81-94,  101-114,  116-117  ;
+following  forbidden  occupa-
+tions, in,  64-65,  150-166;  VIII,
+102  ;  or  neglecting  duty,  xn,
+71.  See  Penance  for  following
+forbidden  occupations.
+Brahmawa,  feeding  of,  in,  96-109,1 25-
+129;  iv,  29-30,  192-197.
+
+—  gifts  to.  See  Gift,  King,  duties  of.
+
+—  inherits  property  of  Brahmawa,
+
+ix,  188-189.
+
+—  judicial  functions  of,  to  be   as-
+
+sessors in  court,  viii,  1,  10-11,
+391;  judges,vin,9,  20  ;  present
+at  examination  of  witnesses,
+viii,  87;  to  impose  penances,
+xi,  86  ;  to  settle  doubtful  points
+of  law,  xii,  1 08- 1 16.
+
+—  manes  of,  III,  197,  199.
+
+—  marriage-rites  lawful  for,  III,  23-
+
+24.
+— may  forcibly  appropriate  property,
+viii,  339;  xi,  11-21.
+
+—  offences  against:  (1)  killing  a,  a
+
+mortal  sin,  ix,  235;  xi,  55;
+also  execution,  viii,  380-381  ;
+see  Penances  for ;  punishment,
+criminal,  for,  ix,  237;  in  an-
+other life,  xi,  49 ;  xii,  55.
+(2)  other  offences,  assaulting
+and  threatening,  iv,  165-169;
+xi,  68  ;  see  Penance  for  threat-
+ening, &c. ;  defaming,  viii,
+267;  seizing  property  of,  XI,
+26.
+
+—  offences  by,  acceptance  of  pro-
+
+perty from  thieves  makes  Brah-
+ma«a  a  thief,  viii,  340 ;  adultery
+and  rape,  viii,  378-379,  383-
+385;  defamation  of  equal  caste,
+viii,  269 ;  of  lower,  viii,  268,
+276  ;  not  inviting  virtuous
+neighbours  to  a  festival,  viii,
+392;  perjury,  viii,  123-124;
+theft,  greatness  of  guilt,  viii,
+338.
+
+—  origin  of,  1,  31,  87,  93;  xii,  48.
+
+—  power  and  rank  of,  1,  93-101;
+
+11,135;  ix,  245,  313-322;  x,  3;
+xi,  3i-35.
+
+—  reverence  due  to,  iv,  39,  52,  58,
+
+135-136,  142,  162;  see  King,
+duties  of ;  irreverence  towards,
+degrades,  x,  43.
+
+
+Brahma«as,    seniority    among,    11,
+
+155.
+
+—  shall  employ  indigent  Kshatriya
+
+and  VaLrya,  viii,  411-412.
+
+—  special  rules  for,  of  administration
+
+of  oath,  viii,  113;  betrothal,
+III,  35  ;  burial,  v,  92  ;  of  ex-
+amination as  witness,  viii,  88  ;
+of  impurity,  v,  83,  99  ;  of
+initiation,  II,  36-38,  41-42,  44-
+46 ;  of  Kejanta,  11,  65 ;  of
+naming,  11,  31-32;  of  payment
+of  fine,  ix,  229  ;  of  purification,
+II,  58,  62  ;  of  saluting,  11,  122-
+127;  of  studentship,  11,  49,
+190.
+
+—  why  subject  to  death,  v,  4.
+
+—  wives  permitted  to,   in,  13-19.
+
+See  Snataka,  Srotriya,  Sons  by
+wives  of  several  castes.
+
+Brahma%ali,  ceremony,  11,  70-71.
+
+Brahmam,  daughter  of,  inherits  from
+co-wives,  ix,  198.
+
+—  prerogatives  of,   wife,   p.  lxxiv ;
+
+ix,  85-87.
+
+—  punishment  of  adultery  with,vin,
+
+374~A378.
+Brahmarakshasa,  xn,  60.
+Brahmarshis,    country  of,    n,    19;
+
+customs,  11,  20.
+Brahmasattra,  11,  106;  iv,  9.
+Brahmavarta,    boundaries,    n,    17;
+
+customs,  II,  18.
+Bride,  defamation  of,  viii,  225.
+
+—  given  away  by  whom,  v,  151.
+
+—  open    declaration    of   blemishes
+
+required,  viii,  205  ;  fine  for
+concealment  of  blemishes,  viii,
+224.  See  Betrothal,  Marriage,
+Wife.
+
+Bridegroom,  receives  honey-mix-
+ture, hi,  119;  way  to  be  made
+for,  n,  138.
+
+Br/haspati,  xi,  120,  122.
+
+Brihaspati-smriti,  pp.  xvi-xvii,  xciv,
+xcvi,  cviii-cx.
+
+Brihat  Manu,  pp.  xcii,  xcvi-xcvii.
+
+Br/'hat  Sahkha-smn'ti,  pp.  xxi-xxii.
+
+Brother,  begetting  son  with  pre-
+deceased brother's  bride  or
+widow,  in,  160,  173;  ix,  57-
+68,  120-121,  143-147.
+
+—  gives  sister  in  marriage,  v,  151.
+
+—  must  give   one-fourth   share   to
+
+unmarried  sister,  IX,  118.
+
+—  elder,  honour  shown  to,  11,  225-
+
+
+INDEX.
+
+
+5«9
+
+
+226  ;  IV,  180,  184  ;  IX,  no;
+marrying  or  sacrificing  after
+younger,  ill,  154,  170-172  ;  xi,
+61  ;  punished  for  cheating  his
+younger  brother,  ix,  213;
+punishment  for  defaming,  vin,
+275.
+
+Brother,  younger,  marrying  or  sa-
+crificing before  elder,  ill,  154,
+170-172  ;  XI,  61.
+
+Brothers  have  all  male  offspring
+through  one  son,  ix,  182.
+
+Brother's  wife,  manner  of  saluting,
+11,  132.  See  Inheritance,  Par-
+tition, Sons,  eldest,  second,
+younger,  youngest.
+
+Burglary.     See  Robbery.
+
+Burial.  See  Infants;  Brahma«a,
+Kshatriya,  VaLrya,  Sfidra,  special
+rules  for.
+
+Carpenter,  food  of,  forbidden,  iv,
+
+210.
+Caste,  change  of,  vn,  42 ;  x,  42-43,
+
+64-65.
+
+—  exclusion  from,  xi,  183-186.
+
+«—  readmission  to,  xi,  187-191,  196-
+
+197.
+Castes,   four  original,   x,  4 ;    their
+
+origin,  1,  31,  87;  x,  45.
+
+—  mixed,  enumeration,  origin  and
+
+occupation  of,  x,  6-56  ;  signs
+for  detecting  them,  x,  57-61.
+
+—  duties  of  all,  X,  63.
+
+—  law  of  castes,  vin,  41-42,  46.  See
+
+Aryan,    Brahmawa,    Kshatriya,
+Vauya,  5Qdra,  Occupations.
+Cattle,  rearing  or  tending,  duty  of
+Vaijya,  1,  90 ;  Vin,  1 14  ;  ix,  326-
+328;  x,  79.
+
+—  forbidden  to  Brahma«a,  in,  154,
+
+166;  vni,  102  ;  except  in  times
+
+of  distress,  x,  82.    See  Damage,
+
+Herdsman.
+Coins.     See  Weights  of  copper,  &c.
+Concerns  among  partners,  a  title  of
+
+the  law,  vin,  4,  206-211.
+Conduct,  rule  of,  most  important,  I,
+
+107-no;  iv,  i45-H6>  156-158,
+
+175.
+
+—  of  those  who  know  Veda  authori-
+
+tative, 11,  6,  18  ;  iv,  145.
+Confession  destroys  guilt,  xi,  228-
+
+229.
+Connubial  intercourse,  duty  of,  in,
+
+45-50 ;  ix,  4.
+
+
+Connubial  intercourse,  when  for-
+bidden, in,  45-47;  iv,  40-42,
+128.
+
+Conquest,  duty  of  king  and  Ksha-
+triya, vii, ,94-110;  ix,  251;  x,
+119;  duties  after  —  has  been
+made,  vii,  201-203.
+
+—  one  of  the  modes  of  acquiring
+
+property,  x,  115.
+Contract,  for  carriage,  vin,  156-157.
+
+—  regarding  crops,  ix,  52-53.
+
+—  when  null  and  void,  vin,  163-168.
+
+See  Bond,  Debt.
+Coparcener.     See  Partition.
+Cow,  food  smelt  at  by,  impure,  iv,
+
+209.
+
+—  killing  an  Upapataka,  xi,  60.    See  /
+
+Penance  for.
+
+—  reverence  towards,  iv,  38,  45,  48,*
+
+52,  58-59>  72,  142,  162.
+Creation,  account  of,  pp.  lxxxiii-xc  ;
+
+by  Manu,  1,  1-59;   by  Bhrigu,
+
+1,  60-110.
+Cultivator,  food  of  Sudra,  lawful  for
+
+Brahmawa,  iv,  253.
+
+—  negligent,   punished  for  loss  of
+
+crop,  vin,  243.  See  Agricul-
+ture, Boundary,  Damage  by
+cattle.
+
+—  shares  crop,  ix,  53.
+
+Custom,  source  of  the  law,  11,  6,  12,
+18  ;  vin,  41-42,  46.
+
+—  of  conquered  country,  to  be  up-
+
+held, vii,  203.
+
+Daityas,  xn,  48  ;  manes  of,  in,  196.
+Daiva  marriage,  411,  21.
+
+—  affects    succession    to    woman's
+
+property,  ix,  196.
+
+—  description  of,  in,  28.
+
+—  permitted  to  whom,  in,  23-24,
+
+—  results  of,  in,  38-40,  42.
+Daksha,  a  Pra^apati,  ix,  128-129.
+Dakshayawa  sacrifice,  vi,  10.
+Dakshiwa.     See  Sacrificial  fee.
+Damage    done    by  boatmen,   vin,
+
+408-409  ;   by  cattle,  vin,  240-
+
+242.    See  Hurt,  Mischief.
+Damages  for  injury  to  person,  vin,
+
+287.
+Dancers,  to  be  banished,  ix,  225.
+Darada  race,  x,  44.
+Darkness,  quality  of  nature  or  of
+
+Self,  1,  5;  xn,  24,  29,  33,  35,  38.
+
+—  conditions  produced  by,  1,  49 ;
+
+xn,  40,  42-44.
+
+
+590
+
+
+LAWS    OF    MANU.
+
+
+Darjapurwamasa  sacrifices,  iv,  25  ;
+
+vi,  9.
+Daja  caste,  x,  34.
+Dasyu  race,  v,  131 ;  viii,  66  ;  x,  32  ;
+
+xi,  18  ;  xii,  70.
+
+—  definition  of  term,  x,  45.
+Dattaka.     See  Son,  adopted.
+Daughter,  inherits  from  mother,  ix,
+
+192,  195;  of  Brahmam  wife
+inherits  from  co-wives,  ix,  198  ;
+unmarried,  inherits  fourth-
+share  from  father,  ix,  118;
+separate  property  of  mother,
+ix,  131.
+
+—  position   and  treatment  of,   iv,
+
+180,  185 ;  ix,  130.
+
+—  sale    of,  forbidden,   111,   51-54;
+
+ix,  98-100;  rule  regarding,
+viii,  204.  See  Asura  marriage,
+Nuptial  fee.
+
+—  to  be   married  at  proper  time,
+
+ix,  4,  88-89,  94  5  or  to  choose
+husband,  ix,  90-93.
+
+—  appointed,  p.  cix ;    in,  n;    ix,
+
+127  ;  inherits,  ix,  130 ;  husband
+of,  inherits,  ix,  135;  son  of,
+inherits  from  maternal  grand-
+father, ix,  131-134,  136;  offers
+funeral  sacrifice,  ix,  140.
+Daughter's  daughter  inherits  from
+maternal  grandmother,  ix,
+193.
+
+—  son,  entertained  at  Sraddha,  in,
+
+148,  234-235;  inherits  from
+maternal  grandfather,  ix,  136,
+139.
+
+Dealer  in  weapons,  excluded  from
+.Sraddha,  in,  160  ;  food  of,  for-
+bidden to  Brahma»a,  iv,  215,
+260.
+
+Debt,  non-payment  of  or  recovery
+of,  viii,  4,  47-60,  139-143, 151-
+155,  158-167,  176-177.
+
+Debts,  three,  to  gods,  &c,  iv,  257  ;
+vi,  35-37;  non-payment  of,  xi,
+66.
+
+Defamation,  viii,  6,  225,  267-
+278.
+
+—  anybody  may  be  witness  in  cases
+
+of,  viii,  72.
+
+Defiling  a  maiden,  xi,  62 ;  punish-
+ments for,  viii,  367-370.
+
+Deposits,  viii,  4,  149,  1 79-1  96.
+
+Dhanvantari,  in,  85.
+
+Dharawa,  value  of,  viii,  135-137.
+
+Dharma,  duty,  law  or  justice  per-
+
+
+sonified, 1,  81-82  ;  VIII,  15-16  ;
+
+ix,  129;  xn,  50.
+Dharmajastra,  pp.  xxv,  li-liv  ;  n,  10 ;
+
+in,  232;  XII,  III.
+Dharma-sutras,  pp.  xi-xii,  xviii-xix,
+
+xxiv,  xxvi,  lii-liii,  lxii,  xciv,  cxix.
+Dhigva^a  caste,  x,  15,  49.
+Dialectics, institutes of,n,r  1 ;  science
+
+of,  vn,  43.     See  Logician.
+Dikshita.      See    Sacrifices,   Srauta,
+
+one  initiated  for.
+Dinaras,  pp.  xvii,  cv,  cvii.
+Diseases,  punishments  of  crimes,  xi,
+
+49-53  ;  exclude  from  Sraddhas,
+
+in,  151,  153-155,  159,  i65,  177.
+Disputes  between  owners  of  cattle
+
+and  herdsman.    See  Herdsman.
+
+—  regarding  boundaries.   See  Boun-
+
+daries.
+Documents,   written,    pp.   xcix-ci;
+viii,    154-155,    168,    255;    ix,
+
+Domestic  priest,  iv,  179;   vn,  78;
+
+XII,  46.
+
+DravWa  caste,  x,  22,  44.
+
+Dress,  indivisible  property,  ix,  219.
+
+—  of  ascetic,  vi,  44,  52,.
+
+—  of  hermit,  vi,  6,  15.
+
+—  of  Snataka,  iv,  34-36,  66.
+
+—  of  student,  n,  41,  64,  174.
+Drinking  spirituous  liquor,  a  morta
+
+sin,  ix,  235;  xi,  55.
+
+—  punishment    for,    ix,    237;     n
+
+another  life,  xi,  49  ;  xn,  56
+other  consequences,  in,  159:
+iv,  207.
+
+—  women  addicted  to,  v,  90 ;   ix,
+
+13,  80.
+
+—  sins  equal  to,  xi,  57.  See  Penance
+
+for  drinking  spirituous  liquor.
+Dr/'shadvatl  river,  p.  xlv;  n,  17.
+Duties,  on  traders,  viii,  398,  400.
+
+See  Taxes,  Tolls.
+Dvapara  age,  1,  85-86 ;  ix,  301-302.
+
+Earth,  creation  of,  1,  13;  king  be-
+having like,  ix,  303,  311.
+
+Eating,  rules  of,  n,  51-57;  in,  116-
+117;  for  Snataka,  iv,  43,  45,
+55,  58,  62-63,  65,  74-76.
+
+—  purification  after,  v,  145.
+Edicts,  royal,  ix,  232^
+Egg,  mundane,  1,  9-13.
+Ekoddish/a  .Sraddha,  in,  247 ;   iv,
+
+IIO-III.
+
+Elements,  1,  6,  75-78.
+
+
+INDEX.
+
+
+591
+
+
+Emigrant,  wife  of,  ix,  74-76.
+
+Eunuch,  excluded  from  inheritance,
+ix,  201;  from  sacrificing,  iv,
+205-206;  from  Sraddhas,  in,
+150.
+
+—  food  of,  forbidden  to  Brahmawa,
+
+iv,  205.
+
+—  son  of,  inherits,  ix,  203.
+Evidence,  punishment  for  refusal  of,
+
+vin,  107;  what  is  admissible
+as,  vin,  74.  See  Penance  for
+giving  false  evidence,  Perjury,
+Witness.
+Exclusion  from  caste,  see  Caste ; —
+from  inheritance,  see  Inherit-
+ance.
+
+Families,  law  of,  authoritative,  vin,
+
+41.
+Fasting,  v,  155 ;  a  penance,  xi,  167,
+
+204.     See  Paraka.
+Father,  gives  daughter  in  marriage,
+
+v,  151;  must  do  so  at  proper
+
+time,  ix,  4,  88-89;  loses  power
+
+over  daughter,  ix,  93.
+
+—  impure  on  birth  of  child,  v,  62-
+
+63.
+
+—  inherits  from   childless  son,  ix,
+
+185  ;  from  childless  daughter,
+ix,  197.
+
+—  offences  against,   in,    157,   159;
+
+xi,  60 ;  punishment  for  defam-
+ing, vin,  275;  for  forsaking,
+vin,  389.     See  Daughter,  Son.
+
+—  keeps    recovered    property,    ix,
+
+209.
+
+—  partition  by,  ix,  215.
+
+—  reverence   towards,   and  vener-
+
+ability  of,  11,  145-148,  225-237  ;
+iv,    162,    179-180,    182.     See
+Guru,  Sale,  Son.
+Father-in-law,  entertained  at  Srad-
+dha,  in,  148.
+
+—  how  saluted,  11,  130.
+
+—  receives  the  honey-mixture,  in,
+
+119.
+Fellow-student,  impurity  on  death
+
+of,  v,  71.
+Field,  acceptance  of,  x,  114.
+
+—  settlement  of  boundaries  of,  vni,
+
+262.
+Fines,  amounts  of  three  degrees  of,
+vni,  138.
+
+—  how  to  be  paid,  ix,  229.
+
+—  son  not  liable  for  unpaid,  vin,
+
+159-
+
+
+Fire,  reverence  to  be  shown  towards,
+
+iv,   48,   53-54,    58,   142.     See
+
+Agni,  Sacred  fire.
+Flag,  punishment  for  destroying,  ix,
+
+285.
+Food,  forbidden  and  lawful,  iv,  205-
+
+225,   247-250,   253;    v,   5-56;
+
+in  times  of  distress,  x,  104,  106-
+
+108.
+
+—  eating  forbidden,  an  Upapataka,
+
+xi,  65  ;  punishment  for,  in  next
+life,  xn,  59.  See  Penance  for
+eating  forbidden  food.
+
+—  indivisible  property,  IX,  219.
+
+—  lawful  for  hermits,  vi,  3,  12-21,
+
+27-28.
+
+—  obtained  by  begging,  always  pure,
+
+v,  129.
+Force,  vitiates  all  transactions,  vin,
+
+168.
+Forgery,  ix,  232.
+Fornication,  xi,  59.
+
+—  excludes  from  Sraddhas,  in,  164.
+
+—  penance  for,  xi,  171.
+
+—  punishments  for,  vni,  364-366.
+Fortress,  royal,  vn,  70-76  ;  ix,  252.
+Fortune-tellers,  to  be  punished,  ix,
+
+258.
+Fraud,   vitiates    every    transaction,
+
+vin,  165  ;  punishment  of,  vni,
+
+193.       See     Brother,    eldest;
+
+Trader.
+Friend,  betrayer  of,  excluded  from
+
+Sraddha,  in,  160.
+
+—  disqualified  to  be  witness,  vin,
+
+64.
+
+—  impurity  on  the  death  of,  v,  82.
+
+—  killing,  xi,  57.
+
+—  not  to  be  fed  at  Sraddha,  in,  138-
+
+141.
+
+—  wife  of,  adultery  with,  xi,  171.
+Funeral  ceremonies.  See  Antyesh/i ;
+
+Impurity,  behaviour  of  mourn-
+ers.
+Funeral  sacrifices.     See  Sraddhas.
+
+Gadhi,  son  of,  vn,  42.
+Gambling,    pp.   lxx-lxxi ;     excludes
+from  Sraddha,  in,  151,  159,  160.
+
+—  forbidden  to   Snatakas,  iv,  74 ;
+
+to  kings,  vn,  47,  50.
+
+—  punishable,  ix,  226-228,  258.
+Gandharva  marriage,  in,  2 1 ;  affects
+
+succession  to  woman's  property,
+ix,  196  ;  description  of,  in,  32  ;
+permitted  to  whom,  p.  lxxvii;
+
+
+592
+
+
+LAWS    OF    MANU.
+
+
+in,  23-24,  26;  results  of,  in,  41-
+42.
+
+Gandharvas,  vn,  23  ;  origin  of,  1,  37;
+xii,  47  ;  manes  of,  in,  196.
+
+Garbhadhana,  rite  of  conception,  n,
+16,  26,  142.
+
+Garden,  boundaries  of,  vin,  262 ;
+selling,  a  crime,  xi,  62.
+
+Gautama,  a  lawgiver,  quoted,  p.  xxvi ;
+in,  16.
+
+Gautamiya  Dharmajastra,  pp.  xviii,
+xx,  xxiv,  xxxiv,  lxv,  lxix-lxx,
+lxxii,  xcviii,  xcix,  cii,  civ,  cxix.
+
+Gayatri.     See  Savitri.
+
+Gift,  acceptance  of,  lawful  for  Brah-
+ma«a,  1,  88;  x,  75-76,  115;  but
+dangerous,  iv,  1 86-191;  from
+wicked  or  low  men  forbidden,
+in,  179;  iv,  84-91;  xi,  24-25,
+42,  70;  except  when  offered
+unasked  or  in  times  of  distress,
+iv,  247-250,  251-252;  x,  102-
+114.
+
+—  made  once  only,  ix,  47.
+
+—  obligatory,   iv,   31-32,  226-228;
+
+vn,  82  ;  xi,  1-6.
+
+—  of  friends,  on  marriage  and  with
+
+honey-mixture  is  separate  pro-
+perty, ix,  206.
+
+—  rewards  for  making,  in,  95 ;  iv,
+
+229-235;  vn,  83-86;  xi,  23.
+
+—  void,  vin,  159,   165,  168.      See
+
+Resumption  of  gift.
+
+—  worthy  recipients  of,  III,  96-97,
+
+128-137,  I42-i43)  149)  J68;  IV.
+
+31.     See  Liberality.
+Girdle,  sacred  of  student,  11,  42-43,
+
+64,  174.
+Goblins,  in,  90.     See  Bhutas.
+Gods,  age  of  the,  1,  7 1 ;  creation  or
+
+origin  of,  1,  36;  in,  201;  xn,
+
+40,  49.
+
+—  daily  offerings  and  worship,  in,
+
+70-90;  iv,  152;  vi,  24.
+
+—  debt  due  to.     See  Debts,  three.
+
+—  images  of,  iv,  39,  130;  vin,  87.
+
+See  Temple.
+
+—  property  of,  xi,  20 ;  punishment
+
+for  seizing,  xi,  26.
+
+—  tirtha  of,  11,  59.
+
+Goldsmith,  impure,  iv,  215,  218;
+xn,  61.
+
+—  punishment  of  fraudulent,  ix,  292 ;
+
+of  negligent,  ix,  286.
+Goodness,  quality  of  nature  or  of
+Self,  xn,  24-26,  37-38.
+
+
+Goodness,  conditions  produced  by
+
+xn,  40,  48-50.
+Gosava  sacrifice,  xi,  75.
+Gosh/M-jraddha,  in,  254.
+Government.     See  King,  Ministers,
+
+Officials,  Police,  Policy.
+Govindara^a,    a    commentator    of
+
+Manu,  pp.  xiii-xiv,  cxxvi-cxxviii.
+Grammar,  science  of,  pp.  1-li.
+Great  one,  the,  1,  15  ;  xn,  14,  24,  50.
+Guardian.     See  Minor,  Woman.
+Guest,   definition  of,  in,  102,   103,
+
+no,
+
+—  duty  of  feeding  for  householder,
+
+in,  70,  72-74,  80,  94,  100,  115,
+118;  iv,  29;  by  hermit,  vi,  7-8.
+
+—  manner  of  reception,  in,  99-113.
+
+—  persons  not  to  be  received  as,  iv,
+
+30.
+
+—  quarrels  with,  forbidden,  iv,  179,
+
+182.     See  Honey-mixture.
+Guhyakas,  xn,  47.
+Guilds,  law  of,  authoritative,  vin,  41.
+Guru,  definition  of  term,  n,  142, 149.
+
+—  duty  of  maintaining,  iv,  251-252  ;
+
+xi,  1.
+
+—  impurity  on  death  of  learned,  v,
+
+82.
+
+—  manner  of  saluting,  n,  130.
+
+—  reverence  towards,  iv,  130,  162  ;
+
+xn,  83.  See  Father,  Mother,
+Teacher,  &c.
+
+—  adultery  with  wife  of,  a  mortal
+
+sin,  ix,  235;  xi,  55;  punish-
+ment for,  ix,  2 3  7 ;  in  next  birth,
+xi,  49;  xn,  58.  See  Penance
+for  adultery  with  wife  of  Guru.
+
+Gatakarman,  birth-rite,  n,  27,  29.
+Gatibhrawja  sins,  xi,  68.     See  Pen-
+ance for  Gatibhraw^akara.
+G£alla  caste,  x,  22  ;  xn,  45.
+Giva,  xn,  13.
+
+Gyaish^a,  month,  vin,  245.
+Gyesh/£a-saman,  in,  185.
+
+Hara,  xn,  121.
+Havirbhu^  manes,  in,  197.
+Havishmat  manes,  in,  198.
+Havishpantiya  hymn,  xi,  252.
+Hells,  in,  249  ;  iv,  81,  165,  197  ;  ix,
+138;  xn,  16-22,  54.
+
+—  enumeration  of,  iv,  88-90.
+Herdsman,   food   of  Sudra,   lawful
+
+for  Brahmawa,  iv,  253.
+
+—  disputes  from  transgressions  of
+
+
+I
+
+
+INDEX.
+
+
+593
+
+
+owners  of  cattle  and,  viii,  5,
+229-243.
+Heretics,  iv,  61 ;  no  libations  offered
+to  dead,  v,  89-90;  not  to  be
+fed,  iv,  30 ;  to  be  banished,  ix,
+225.
+
+—  doctrines  and  books  of,  xi,  66 ;
+
+xii,  95-96.
+Hermit,  dress  of,  vi,  6,  1 5  ;  duties :
+must  not  accept  anything,  vi,
+8;  may  beg,  vi,  27-28;  may
+keep  sacred  fire  and  offer  sacri-
+fices, vi,  4-5,  7,  9-12  ;  may  give
+up  both,  vi,  25 ;  must  be  hos-
+pitable, vi,  7-8  ;  must  perform
+austerities,  vi,  8,  22-24;  must
+recite  Veda  and  study  Upani-
+shads,  vi,  8,  29-30.
+
+—  food  of,  vi,  3, 12-21,  27-28.
+
+—  may  starve  himself  to  death,  vi,
+
+31.
+
+—  mode  of  personal  purification,  v,
+
+i37.
+
+—  pays  no    toll   at  a  ferry,   vm,
+
+407.
+
+—  produced  by  the  quality  of  Good-
+
+ness, XII,  48.
+High-treason,   punishment    of,  Ix.
+
+275.
+Himalaya,  11,  21.
+Hirawyakeji  Dharma-sutra,  pp.  xx,
+
+xl,  li.
+Homicide,  xi,  55,  57,  67.
+
+—  punishment  of,  vm,  296 ;  ix,  235.
+
+See  Penance  for  killing,  Self-
+defence.
+Honey-mixture,  in,  3,  1 19-120;  v,
+41.
+
+—  present  received  with,  is  separate
+
+property,  ix,  206.
+
+Horse-sacrifice,  xi,  75,  83.
+
+Hospitality.     See  Guests.
+
+Hotri-priest,  receives  a  horse,  vm,
+209.
+
+House,  decision  concerning  bound-
+aries of,  viii,  262.
+
+Householder,  duties  of:  marriage,
+111,5-44;  connubial  intercourse,
+in,  45-50 ;  treatment  of  female
+relatives,  in,  51-62;  perform-
+ance of  daily  and  domestic  rites,
+in,  67-121;  of  Sraddhas,  in,
+122-286.
+
+—  entrance  into  order,  in,  2  ;  iv,  1.
+
+—  excellence  of  order  of,  in,  77-78  ;
+
+iv,  89-90.
+
+[*5]  Q
+
+
+Householder,  livelihood  of,  iv,  1-12.
+
+—  mode   of  personal    purification,
+
+v,  136-137.     See  Occupations,
+
+Snataka.
+Hunter,  food  of,  forbidden  to  Brah-
+
+ma«a,  iv,  212.
+Hurt,  done  by  carriage,  viii,  290-
+
+298.     See  Assault.
+Husband,  duties  of,  ix,  2,  5-16,  74,
+
+101-102.
+
+—  one  with  wife,  ix,  45-46.
+
+—  inherits  from  childless  wife,  ix,
+
+196.  See  Connubial  intercourse,
+Marriage,  Son  of  wife,  "Wife;
+Woman,  treatment  of.
+
+—  power  over  wife,  v,  147-154 ;  ix,
+
+3  ;  source  of  that  power,  v,  152.
+Hypocrite,  excluded  from  hospitality,
+iv,  30,  192-197  ;  from  Sraddha,
+in,  159.
+
+—  food  of,  forbidden  to  Brahma«a,
+
+iv,  211.
+
+—  produced  by  Darkness,  xn,  44.
+
+—  sanctimonious,  to  be  punished,
+
+ix,  258,  273.
+
+Idiot,  excluded  from  inheritance,  ix,
+201.
+
+—  property  of,  not  lost  by  lapse  of
+
+time,  viii,  148.
+Images,  punishment  for  destroying,
+
+ix,  285.     See  Gods,  images  of.
+Impurity  (Sutaka),  on  birth,  v,  58,
+
+61-63,  71,  77,  79.
+
+—  on  carrying  out  corpse,  v,  64-65,
+
+85.
+
+—  on  death  of  SapiWa,  v,  58,  60,
+
+75-77,  83-84;  of  teacher,  v,  65,
+80;  of  teacher's  son  or  wife,
+v,  80;  of  infants,  v,  67,  69;
+of  fellow-student,  v,  71 ;  of  un-
+married females,  v,  72 ;  of  re-
+mote relative, V,  78;  of  Srotriya,
+v,  81 ;  of  pupil,  v,  81 ;  of  ma-
+ternal uncle,  v,  8 1 ;  of  officiating
+priest,  v,  81;  of  maternal  rela-
+tive, v,  81 ;  of  king,  v,  82 ;  of
+friend,  v,  82  ;  of  learned  Guru,
+v,  82.
+
+—  on  following  corpse,  v,  103.
+
+—  on  miscarriage,  v,  66.
+
+—  on  touching  corpse,  v,  64,  85.
+
+—  on  two  deaths  or  births  following
+
+each  other,  v,  79.
+
+—  behaviour  of  mourners  during,
+
+v,  73.
+
+
+594
+
+
+LAWS    OF    MANU,
+
+
+Impurity,  exceptions  to  rules  of,  v,
+89-90,  93-98.
+
+—  rite  at  end  of  period  of,  v,  99.
+
+—  causes    interruption    of    Veda-
+
+study,  iv,  109-110,  127.
+
+—  makes  food  of  giver  unaccept-
+
+able, iv,  212.
+Impurities  of  the  body,  v,  1 35.     See
+
+Purification.
+Incantations.     See  Magic.
+Incest,    xi,    59,   171.     See    Guru,
+
+adultery  with  wife  of.
+Indivisible  property.    See  Property.
+Indra,  in,  87 ;  iv,  182  ;  v,  96  ;  vn,
+
+4,7;  viii,  344;  xi,  120,  122;
+
+xii,  123.
+Infant,  burial  of,  v,  68-69.
+
+—  committing  nuisance,  ix,  283.
+
+—  disqualified  to  be  witness,  vin,
+
+66  ;  exceptions,  vin,  70-71 ;  to
+sacrifice  or  recite  Veda,  n,  171-
+172  ;  xi,  36-37.
+
+—  no  libations  offered  to,  v,  70.
+
+—  special  punishment  for,  ix,  230.
+
+—  treatment  of,  in,  114;   iv,  179;
+
+vin,  312.  See  Impurity,  Minor.
+
+I  nformer,  excluded  from  Sraddha,  in,
+161;  food  of  forbidden,  1 V,  2 1 2  ;
+punishment  in  next  life,  xi,  50.
+See  Spy.
+
+Inheritance,  a  mode  of  acquiring
+property,  x,  115.  (1)  Succes-
+sion to  male :  sons,  ix,  104, 156-
+157,  185  ;  eldest  son  alone,  ix,
+105,  108  ;  unmarried  daughter
+inherits  one-fourth  share,  ix,
+118;  appointed  daughter,  ix,
+130;  son  of  appointed  daughter,
+ix,  131-134, 136;  husband  of  ap-
+pointed daughter,  ix,  135;  son
+of  daughter  not  appointed,  ix,
+IZ^>  139;  adopted  son,  ix,  141-
+142;  son  of  appointed  widow
+or  wife,  ix,  120-121,  145-146,
+1 90-191 ;  six  kinds  of  subsidiary
+sons,  ix,  158  ;  among  subsidiary
+sons  each  better  one  inherits
+before  the  rest,  ix,  165,  184  ;
+illegitimate  son  of  Sudra,  ix,
+179;  father  and  brothers,  ix,
+185;  Sapi#</as,Sakulyas, teacher
+and  pupil,  ix,  187;  learned
+Brahmawas,  ix,  188-189;  the
+king,  ix,  189 ;  children  of
+eunuch,  &c,  ix,  203 ;  son  born
+after  partition,  ix,  216  ;  mother
+
+
+and  paternal  grandmother,  ix,
+217.  (2)  Succession  to  fe-
+male: son,  ix,  104,  192,  195;
+daughter,  ix,  192,  195 ;  un-
+married daughter,  ix,  131;
+daughter  of  Brahma/zi  wife,  ix,
+198  ;  daughter's  daughter,  ix,
+193  ;  husband,  ix,  196;  mother
+and  father,  ix,  197.  (3)  Suc-
+cession to  reunited  coparcener,
+ix,  210-212.  (4)  Exclusion  from
+inheritance,  ix,  143-144,  147,
+201,  213  (?),  214;  xi,  185-186.
+Initiation,  a  second  birth,  11,  148,
+169-170.
+
+—  description  of,  11,  36-47.
+
+—  neglect    of.      See   Penance   fo
+
+neglect;  Vratya.
+
+—  second,  xi,  147,  151-152.
+Injury  to    living    beings,    excludes
+
+from  Sraddlia,  in,  164.
+
+—  forbidden,  iv,  148,  170,  &c;  par-
+
+ticularly to  ascetics,  vi,  39,  46,
+52,  68-69,  75.     See  Animals.
+Institutes  of  dialectics.     See  Dia-
+lectics.
+
+—  of  the  sacred  law.    See  Dharma
+
+jastra.
+
+—  of  science,  iv,  19-20.
+Interest,  kinds  and  rate  of,  p.  xxix
+
+vin,     140-143,    150-155,     15
+note,  157.
+
+Judge,  takes  king's  place  on  th<
+bench,  vin,  9,  11;  must  be
+Brahmawa,  never  a  Sudra,  vin,
+9,  20-21 ;  must  be  just,  vin
+12-19;  if  unjust,  to  be  finec
+ix,  234;  behaviour  in  court
+vin,  23.
+
+Judicial  procedure,   pp.  xcix,  ciii
+constitution  of  the  court,  vin,
+1-2,  9-12,  20-23;  eighteen  titles
+of  the  law,  vin,  3-7  ;  decisions
+to  be  just,  vin,  12-19  ;  suits  t(
+be  heard  according  to  the  order
+of  plaintiff's  caste,  vin,  24;  la\
+of  castes,  families,  &c,  authori-
+tative, vin,  41-42,  46;  lawsuit
+not  to  be  begun  or  hushed  uf
+by  king  or  his  servants,  vin,  43
+causes  of  failure  of  suits,  vin,
+53-58;    method  of  judicial  in-
+vestigation :     inferences    fror
+facts,  vin,  25-26,  44-46,  wit-
+nesses, vin,  45,  52-55,  61-108,
+
+
+I
+
+
+INDEX.
+
+
+595
+
+
+117-123,  oaths,  viii,  109-113,
+ordeals,  viii,  11 4- 116,  special
+trial  in  disputes  regarding  de-
+posits, viii,  182-184;  punish-
+ments, degrees  of,  viii,  124-
+130;  technical  names  of  metal-
+weights  or  coins,  viii,  1 31-137  ;
+three  degrees  of  fines,  viii,  138  ;
+void  legal  transactions,  viii,
+163-168;  fines,  how  paid,  ix,
+229;  reversal  of  unjust  decisions
+by  king,  IX,  234  ;  thief  to  be
+executed  only,  if  taken  ( in  fla-
+granti,' ix,  270.    See  Parishad.
+
+Kaivarta  caste,  x,  34.
+
+Kalasutra  hell,  in,  249  ;  iv,  88.
+
+Kali  age,  1,  85-86  ;  ix,  301-302.
+
+Kalpa,  a  vedanga,  p.  xxvi ;  n,  140.
+
+Kamadhenudipika  of  Naraya«a,  p.
+cxxx.
+
+KamandakiyaNitisara,  quotes  Manu,
+pp.  xxxvi-xxxvii.
+
+Kambo^a  caste,  pp.  cxiv,  cxvii ;  X,
+44.
+
+Kanina.  See  Son  of  unmarried
+daughter.
+
+Karawa  caste,  x,  22.
+
+Karavara  caste,  x,  36.
+
+Karshapa/za,  value  of,  vni,  136.
+
+Karusha  caste,  x,  23.
+
+Kajyapa,  ix,  129.
+
+Kanaka  Dharma-sutra,  pp.  xxi,xxiii ;
+quotation  from  p.  xxi,  note.
+
+Kanaka  school,  pp.  xv,  cxxiv.
+
+Katyayana-smr/ti,  p.  ex.
+
+Katyayaniya  Dharma-sutra,  p.  cxix.
+
+Kavi,  father  of  manes,  in,  198;  son
+of  Ahgiras,  11,  151-154.
+
+Kejanta  rite,  clipping  the  hair,  n,  65.
+
+Khasa  caste,  x,  22.
+
+Khila  texts,  in,  232.
+
+King,  cannot  be  made  a  witness,
+vni,  65.
+
+—  duties  of :  to  protect  and  not  to
+oppress  subjects,  vn,  2-3,  35,
+80,  88,  111-112,  142-144;  viii,
+172,  303-309;  ix,  253;  x,  80,
+119;  to  punish  the  wicked,  vn,
+14-34;  viii,  302-303,  310-311,
+335, 343-347; ix, 252-293,  312  ;
+to  honour,  support,  and  make
+gifts  to  learned  Brahmawas,
+vn,  37-38,  79,  82-86,  88,  134-
+136,  145;  viii,  395;  ix,  313-
+323;  xi,  4, 2 1-23;  to  be  humble,
+
+
+p.  cxiii;  vn,  39-42  ;  to  study  the
+Veda  and  sciences,  vn,  43  ;  to
+shun  the  eighteen  vices,  vn,  44-
+53  ;  to  appoint  ministers,  vn,
+54-58  ;  and  other  officials,  vn,
+59-68,  80-81,  114-126 ;  to  select
+a  residence  and  to  build  fortress,
+vn,  69-76 ;  to  wed  a  queen,
+vn,  77  ;  to  appoint  a  domestic
+and  officiating  priests,  vn,  78-
+79 ;  to  fight  bravely  and  honour-
+ably, vn,  87-95,  184-200;  x,
+119  ;  distribution  of  booty,  vn,
+96-97  ;  to  make  conquests,  vn,
+99-100,  201-203  ;  ix,  251  ;  x,
+115,  119;  to  settle  taxes  and
+duties,  vn,  127-133,  137-140;
+x,  118,  120;  to  sacrifice,  vn,
+79,  145  ;  to  give  audience,  vn,
+145-146,  223  ;  to  consult  re-
+garding state  affairs  and  to
+follow  the  principles  of  Niti,
+vn,  146-183,  205-216;  ix,  294-
+299  ;  to  inspect  army,  vn,  222  ;
+to  decide  lawsuits  either  per-
+sonally, vni,  1-8 ;  ix,  233-234,
+or  through  judge,  vni,  9-10 ;  to
+be  just,  vni,  18-19, 126-129,170-
+175;  ix,  249;  to  protect  minors
+and  women,  vni,  27-29 ;  to
+deal  with  found  property,  vni,
+30-34;  and  with  treasure-trove,
+vni,  35-39  ;  to  restore  or  make
+good  stolen  property,  vni,  40-
+44;  to  uphold  law  of  castes,  &c,
+vn,  203;  vni,  41-42,  46;  not
+to  begin  or  hush  up  lawsuits,
+vni,  43  ;  to  settle  rates  of  sale,
+vni,  401-402  ;  to  have  weights
+and  measures  examined,  vni,
+403  ;  to  avoid  taking  property
+of  men  guilty  of  mortal  sins,
+ix,  243-247;  to  be  active  and
+energetic,  ix,  301-3 11 ;  to  seek
+death  in  battle,  ix,  323.
+King,  food  of,  forbidden  to  Brah-
+ma«a,  iv,  218.
+
+—  gifts   of  wicked,  not  to  be  ac-
+
+cepted, iv,  84-91.
+
+—  impurity  of,  causes  interruption
+
+of  Veda-study,  iv,  no.
+
+—  impurity  on  death  of,  v,  82.
+
+—  incarnation  of  eight  deities,  v,  96  ;
+
+vn,  4-7.
+
+—  majesty  of,  vn,  8-13.
+
+—  never  impure,  v,  93-94,  97.
+
+
+I
+
+S
+
+
+Q  q   2
+
+
+596
+
+
+LAWS    OF   MANU.
+
+
+King,  offences  by,  vm,  336.
+
+—  receives  the  honey-mixture,  in,
+
+119-120.
+
+—  receives  sixth  part  of  subject's
+
+demerit  or  merit,  vm,  304-305  ;
+of  Brahmawa's  merit,  xi,  23.
+
+—  recreations  allowed  to,  vn,  216-
+
+217,  224-225.
+• —  service  under,  forbidden  to  Brah-
+ma»a,  in,  64, 153.
+
+—  shadow  of,  not  to  be  trod  on,  iv,
+
+130.
+
+—  Sudra,  iv,  61.     See  Edicts,  High-
+
+treason,  Kshatriya,  Vassals.
+Kirata  race,  x,  44.
+Kratu,  a  Pra^-apati,  1,  35.
+Krikkhra,  or  hard  penance,  v,  2 1  ;
+
+xi,  106, 125,  140, 159,  163,  178,
+
+192,  198,  209.
+
+—  description  of,  xi,  212.
+Kr/sh«ala,  value  of,  vm,  134-135.
+Krita  age,  I,  81,  83,  85-86;  ix,  301-
+
+302.
+Krita.     See  Son,  bought.
+Kr/trima.     See  Son,  made.
+Kshatriya  caste,  and  Brahmawa,  II,
+
+135;  iv,  135-136;  ix,  313-322.
+
+—  causes  of  degradation  of,  x,  43-
+
+45-
+
+—  duties  and  occupations,  1,  89 ;  x,
+
+77-79,  115;  in  battle,  vii,  87-
+95,  144  ;  in  times  of  distress,
+vm,  411-412;  x,  83,  95,  117;
+punishment  of  neglect  of,  in
+next  life,  xn,  71.
+
+—  guilt  of,  in  case  of  theft,  vm,  337.
+
+—  killing    man    of,    xi,    67.     See
+
+Penance  for  killing.
+
+—  manes  of,  in,  197.
+
+—  not  a  guest,  but  to  be  fed,  in,
+
+iio-iii.
+
+—  origin  of,  I,  31,  87  ;  xn,  46.
+
+—  punishment    for    adultery,   vm,
+
+375-377,  382  ;  for  defamation,
+vm,  267,  269,  276.
+
+—  special  rules,  of  administration  of
+
+oath,  vm,  113;  of  burial,  v,  92  ;
+of  examination  as  witness,  vm,
+88  ;  of  impurity,  v,  83,  99  ;  of
+initiation,  11,  36-38,  41-42,  44-
+46  ;  of  Ke^anta,  11,  65  ;  of  mar-
+riage, in,  44  ;  of  naming,  11,  31-
+32 ;  of  purification,  11,  62  ;  of
+saluting,  11, 127  ;  of  studentship,
+11,  49, 190.
+
+—  wives  permitted  to,  in,  13-14.
+
+
+See  King,   Sons  by  wives   of
+
+several  castes.
+Kshatriyas,  seniority  among,  n,  155.
+Kshatriya,  female,  punishment  for
+
+adultery  with,  vm,  382-385.
+Kshattn  caste,  x,  13,  19,  26.
+
+—  occupations  of,  x,  49.
+
+—  origin  of,  x,  12, 16.
+Kshetra^a.     See  Son,  begotten  on
+
+widow  of  wife.
+Kshetra^a,  xn,  13-14.
+Kubera,  v,  96  ;  vn,  4,  7,  42.
+Ku^/mala  hell,  iv,  89.
+Kuhu,  goddess,  in,  86,
+Kukkutaka  caste,  x,  1 8.
+Kullukabhatfa,   a   commentator    of
+
+Manu,  pp.  xiv-xvii,  xxv,  c,  ex,
+
+cxi,  exxi,  exxxi-exxxii.
+Kumarilabha/ta,  pp.  exxi-exxii ;  Add.
+
+and  Gorr.  p.  613.
+Kurus,  plain  of,  n,  19;  vn,  193
+KushmaWa  texts,  vm,  106.
+Kutsa,  hymn  of,  xi,  250.
+
+
+.Kaitra,  month,  vn,  182.
+£akshusha  Manu,  1,  62.
+KandaXa  caste,  in,  92,  239;  iv,  79;
+V,  131;  ix,  87;  x,  108;  xn,55.
+
+—  castes  descended  from,  x,  26-31.
+
+,  37-39-
+
+—  intercourse  with  female  of,  pen-
+
+ance, xi,  176;  punishment,  v in,
+
+373-
+
+—  origin  of,  x,  12,  16.
+
+—  position  and  occupations  of,  x
+
+51-56.
+
+—  purification  on  touching,  v,  85.
+Zandrayawa,   or  lunar  penance,  v,
+
+20;  vi,  20;  Xi,  41,  107,  155-
+156,  164,  172,  178.
+
+—  description  of,  xi,  217-226.
+ifara/za,  demigods,  xn,  44.
+jfiTaturmasya-sacrifices,  iv,  26  ;  vi,  ic
+jOandogya-upanishad,  pp.  lx-lxi.
+Kma.  race,  x,  44.
+Koda.  race,  x,  44.
+£uWakarman,  tonsure,  n,  27,  35  ;  v
+
+58,  67.
+Kunkxi  caste,  x,  48.
+
+Land,    false    evidence    concerning
+vm,  99,  263.
+
+—  wrongful  appropriation  of,  XI,  58.
+Languages,  of  Mle^as  and  Aryan?
+
+x,  45  ;  various,  of  men,  ix,  332.
+Law,  eighteen  titles  of,  vm,  3-7-
+
+
+INDEX.
+
+
+597
+
+
+Law,  institutes  of.  See  Dharma-
+jastra.
+
+—  manner  of  investigation  of,  xu,
+
+105-106.
+
+—  of  castes,  families,  &c.,  viii,  41-
+
+42,  46.
+
+—  settlement  of  doubtful  points,  xu,
+
+108-115.
+
+—  sources  of,  11,  6-25.
+
+—  special  schools  of,  pp.  xlix,  li-lvii.
+
+—  the    tenfold,    vi,     91-93.      See
+
+Dharma.
+Lawsuits.     See  Judicial  procedure.
+Learning,  property  acquired  by,  ix,
+
+206.
+Leather-cutter,  impure,  iv,  218.
+Lending  money,  occupation  of  Vai-
+
+jya,  1,90;  ix,  326;  x,  115.
+
+—  permitted  to  Brahmawa  and  Ksha-
+
+triya  in  times  of  distress,  x,  117.
+
+See  Debt,  Interest,  Usury.
+Libations  to  the  dead,  v,  69-70,  88-
+
+90  ;  to  the  manes,  11,  176  ;  in,
+
+70,  74,  81-82,  283;  vi,  24.
+Liberality,  duty  of,  1,  86  ;   ix,  333  ;
+
+x,  79.
+
+—  destroys  guilt,  xi,  228.    See  Gift.
+Liberation,  final,  vi,  36-37,  42,  44,
+
+74,75,78-81,85;  xu,  83-104.
+
+Likihm  race,  x,  22.
+
+Limitation,  law  of,  viii,  145-149.
+
+Livelihood,  various  means  of,  p.
+lxviii;  iv,  2-13.  See  Occupa-
+tions.
+
+Logician,  member  of  Parishad,  xn,
+in;  not  to  be  entertained  as
+guest,  iv,  30.
+
+Loha^araka  hell,  iv,  90.
+
+Lohajahku  hell,  iv,  90.
+
+Lunar  penance.     See  ATandraya/za.
+
+Madanapala,  prince  of  Kash/^a,  pp.
+
+cxxiv-cxxv.
+Madgu  caste,  x,  48.
+Madhuparka.     See  Honey-mixture.
+Madhyadeja,  boundaries  of,  n,  21.
+Madman,  excluded  from  inheritance,
+
+ix,  201,  from  Sraddha,  in,  161.
+
+—  special  punishment  for,  ix,  230.
+Magadha  caste,  x,  26.
+
+—  occupation  of,  x,  47.
+
+—  origin  of,  x,  n,  17.
+
+Magic,  practice  of,  an  Upapataka,
+xi,  64  ;  punishable,  ix,  258,  290;
+permitted  to  Brahmawa,  xi,  31-
+34*
+
+
+Mahabharata  and  Manu's  laws,  pp.
+xiv,  xvi,  xxxviii,  lx,  lxii-lxiii,
+lxxiv-xcii,  xcvii-xcviii,  cvii.
+
+Mahanaraka  hell,  iv,  88.
+
+Mahapataka,  mortal  sin,  enumera-
+tion of,  ix,  235  ;  xi,  55  ;  punish-
+ments for,  ix,  236-242.  See
+Brahma«a,  offences  against ;
+Drinking  spirituous  liquor ;
+Guru,  adultery  with  wife  of;
+Theft  of  gold.
+
+Maharaurava  hell,  iv,  88.
+
+MahavUi  hell,  iv,  89.
+
+Mahitra  hymn,  xi,  250.
+
+Maintenance,  allowed  to  outcast
+women,  xi,  189;  to  subsidiary
+sons,  ix,  163  ;  to  those  excluded
+from  inheritance,  ix,  202.
+
+Maitraya«a-brahma«opanishad,  pp.
+xliv-xlv.
+
+Maitrayamya  school.  See  Manava
+school.
+
+Maitreyaka  caste,  x,  33.
+
+Malavaha  sins,  xi,  71.  See  Penance
+for.
+
+Malla  caste,  x,  22  ;  xn,  45.
+
+Manava  Dharmajastra,  traditional
+account  of  origin  of,  pp.  xii-
+xviii;  1,  58-60,  102,  119;  xi,
+244.
+
+—  recast    of  a  Dharma-sutra,  pp.
+
+xviii-xlv.
+
+—  composed  by  a  special  law-school,
+
+pp.  xlvi-lvi.
+
+—  causes   of  sanctity  of,  pp.  lvi-
+
+lxv.
+
+—  old  and  modern  parts  of,  pp.  Ixvi-
+
+Ixxiii.
+
+—  sources    of   modern    parts,  pp.
+
+lxxiv-xcii.
+
+—  successive  recasts  of,  pp.  xcii-
+
+xcviii.
+
+—  antiquity  and  date  of,  pp.  xcix-
+
+cxviii.
+
+—  commentaries  on,  pp.  cix-cxxxvi.
+
+—  by  whom  to  be  studied,  1,  103 ;
+
+11,  16  ;  to  be  taught,  I,  103.
+
+—  rewards  for  studying,  1,  104-106.
+
+—  contents  of,   1,    111-118,   agree
+
+with  Veda,  11,  7.
+
+—  secret  portion  of,  xn,  107.
+Manava-sawhita,astrological,p  xcvii.
+Manava  Dharma-sutra,  quoted,  pp.
+
+xv-xxiii,  xxx-xxxii,  xxxv,  xxxvii.
+Manava  Gn'hya-sutra,  pp.  xxxix-xl,
+xciii.
+
+
+598
+
+
+LAWS    OF    MANU.
+
+
+Manava  school,  pp.  xviii,  xxxvii,  xlv ;
+
+works  of,  p.  xli.
+Manava  Sraddhakalpa,  pp.  xl-xliv.
+Manava^arya,  p.  lxiii.
+Mandapala,  a  sage,  ix,  23.
+Manes,  Bali-offering  for,  in,  91.
+
+—  classes  and  origin  of,  1,  37;   III,
+
+194-201,284;  xn,  49.
+
+—  day  and  night  of,  I,  66.
+
+—  debt  due  to,  IV,  257.
+
+—  libations  to.     See  Libations.
+
+—  sacrifices  to.     See  Sraddha.
+
+—  tirtha  of,  n,  59.
+Mantrasawhita,  iv,  100.     See  Saw-
+
+hita.
+Manu,   descended    from   Brahman,
+pp.  xii,  Ivii;  1,  33,  63;  vi,  54.
+
+—  etymology  of  the  name,  p.  xiv.
+
+—  identified  with  Brahman,  pp.  xiii,
+
+lvii;  xn,  123.
+
+—  king,  pp.  xiii,  lviii-lix  ;  vn,  42.
+
+—  lawgiver,   pp.  xiii-xviii,   lxi-lxii ;
+
+1,  1-4,  58,  102,  119;  11,  7.
+
+—  Pra^apati,  p.  lvii;  1,  34;  ix,  17.
+
+—  other  myths  regarding,  pp.  lvii-
+
+lxiii.
+
+—  quoted  in  the  Manava  Dharma-
+
+jastra,  in,  222  ;  iv,  103 ;  v,  41,
+131;  vi,  54;  viii,  124, 139,  168,
+204,  242,  279,  292,  339  ;  ix,  158,
+182-183,239;  x,  63,  78.
+
+Manus,  seven,  1,  36,  61-63.
+
+Manva^arya,  p.  lxiii.
+
+Manvantara,  period  of  a  Manu,  I,
+79;8o.
+
+Margajirsha,  month,  vn,  182.
+
+Margava  caste,  x,  34.
+
+MarUi,  a  Pra^apati,  1,  35,  58;  III,
+
+195.
+Marka^eya,  author  of  a  recast  of
+
+Manu's  laws,  pp.  xvii,  xcv.
+Marriage,  expenses  of  first,  may  be
+
+obtained  by  begging,  xi,  1,  5.
+
+—  forbidden   degrees  and   impedi-
+
+ments, in,  5-9,  1 1 ;  xi,  172-173.
+See  Outcasts.
+
+—  intermarriage  between  different
+
+castes,  in,  12-19,43-44,  64.  See
+Sons  by  wives  of  several  castes ;
+Wives  of  several  castes.
+
+—  present  received  on,  is  separate
+
+property,  ix,  206.
+« —  punishment    for   substitution   of
+
+another  bride,  viii,  204.
+- —  results  of  low,  111,  63.
+* —  rites,  pp.  xxxix  note,  lxxvii-lxxviii ;
+
+
+I
+
+
+description,  ill,  20-42,  51-54,
+affect  succession,  ix,  196-197.
+Marriage,  second,  of  widows,  forbid-
+den, v,  161-164 ;  ix,  65  ;  of  vir-
+gin widows  permitted,  ix,  69-70,
+176.     See  Woman,  re-married.
+
+—  suitable  ages  of  men  for,  ix,  94 ;
+
+of  women,  ix,  4,  88,  90-94.
+
+—  when  complete,  viii,  227.
+
+—  with  sacred  texts  for  virgins,  viii,
+
+226.
+
+—  the  Vedic  sacrament  of  women,
+
+11,67.  See  Betrothal,  Husband  ;
+Wife,  repudiation  and  super-
+session.
+
+Maruts,  in,  88;  xi,  120, 122,  222.
+
+Masha,  value  of,  vin,  134.
+
+Maternal  aunt,  n,  50, 131.
+
+Maternal  grandfather,  entertained  at
+6"raddha,in,i48.  See  Daughter's
+son.
+
+Maternal  uncle,  entertained  at  Srad-
+dha,  in,  148.
+
+—  impurity  on  death  of,  v,  81.
+
+—  manner  of  saluting,  n,  130.
+
+—  quarrels  with,  forbidden,  iv,  179,
+
+183.
+
+—  receives  the  honey-mixture,  in,
+
+119.
+Maternal  uncle's  wife,  n,  131,
+Matsya-pura«a,  p.  cxi.
+Matsyas,  a  tribe,  II,  19  J  vn,  193.
+Measures,   examined  by  the  king,
+
+vin,  403.
+Meat,  allowed  to  be  eaten,  v,  16,  18,
+
+22-23,  27-33,36,  39-42.
+
+—  forbidden  to  be  eaten,  iv,  213  ;  v,
+
+7,11-15,17-18,34,36-38,43-56.
+
+—  sale  of,  disqualifies  for  Sraddha,
+
+111,152;  forbidden  to Brahmawa,
+
+x,  88.  ■
+
+Medhatithi,  a  commentator  of  Manu,
+
+pp.   xiii -xvii,    xcv,    cvii-cviii,
+
+cxviii-cxxvi.
+Merchants.     See  Traders.
+Mimawsa,  pp.  xlvii,  lii,  cxix.
+Mimawsaka,  member  of  Parishad,
+
+XII,  III.
+
+Ministers,  royal,  ix,  294.
+—  chief  of,  tobeaBrahma«a,vn,58;
+takes  king's  place,  vn,  141,  226.
+
+
+with,   vn,    56-59,
+
+
+consultations
+146-216.
+
+number  of,  p.  xxxvii ;  vn,  54.
+
+punishment  of,  for  unjust  deci-
+sions, ix,  234.     See  Officials.
+
+
+INDEX.
+
+
+599
+
+
+Minor,  cannot  make  a  contract,  vin,
+163.
+
+—  property  of,  not  lost  by  lapse  of
+
+time,  vin,   148-149  ;  protected
+
+by  king,  vin,  27.     See  Infants.
+Mischief,  punishment  of,  vin,  285,
+
+288-289  I  IX>  279,  28ij  285,  289,
+
+291.
+Miser,  tood  of,  forbidden  to  Brah-
+
+mana,  iv,  210.
+Mitra,  deity,  xn,  121.
+Mle^££as,  barbarians,  11,  23  ;  x,  45.
+Monopoly,  royal,  vin,  399.
+Mortal  sin.     See  Mahapataka.
+Mortgage,  vin,  165.
+Mother,  begging  from,  11,  50.
+
+—  forsaking,  a  crime,  III,  157;  xi,
+
+60;  punishment  for,  vin,  389.
+
+—  impurity  of,  on  birth,  v,  62.
+
+—  inherits  from  daughter,  ix,  197  ;
+
+from  son,  ix,  217.
+
+—  punishment  for  defaming,  vin,
+
+275-
+
+—  reverence  towards  and  venerabi-
+
+lityof,  11, 145,  225-237;  iv,  162,
+
+180, 183.     See  Daughter,  Son.
+Mother's  sister,  11,  133.
+Mother-in-law,  11,  131.
+Mr/'ta,  alms,  iv,  4-5.
+Murder.     See   Homicide,  Penance
+
+for  killing.
+Musician,  food   of,   forbidden,  iv,
+
+210.
+Muttered  prayers,  efficacy  of,  11,  85-
+
+87.     See  Veda-study,  private.
+
+Nagas,  snake-deities,  1,  37 ;  in,  196  ;
+
+vii,  23.
+Nahusha,  a  king,  vn,  41.
+Nairukta,  pp.  xxvi,  lvii;  xn,  11 1.
+Nakshatresh/i  sacrifice,  vi,  10.
+Namadheya,  rite  of  naming  child,  11,
+
+30-33J  v,  7o.
+NandanaHrya,    a   commentator  of
+
+Manu,  pp.  cxxxiii-cxxxv.
+Narada,  a  Pra^apati,  1,  35.
+Narada-smriti,  pp.  xv,  xvii,  xcii,  xcv-
+
+xcvi,  ci-cii,  civ,  cvii,  cxii,  cxxii.
+Naraya«a,  commentator.     See  Sar-
+
+va^-«a-Naraya«a.
+Naraya«a,  deity,  1,  10.
+Nate  caste,  x,  22  ;  xn,  45.
+Nemi,  a  king,  vn,  41.
+Nigama,  iv,  19.
+Nirr/ti,  deity,  xi,  105,  119.
+Nirukta,  pp.  xxvi,  1;  xn,  in.
+
+
+Nishada  caste,  descendants  of,  x,  1 8,
+34,  36-37,  39-
+
+—  food  of,  forbidden  to  Brahmawa,
+
+iv,  215.
+
+—  occupation  of,  x,  48.
+
+—  origin  of,  x,  8.
+Nishka,  value  of,  vin,  137.
+Nishkramarca,  first  leaving  the  house,
+
+11,  34.
+
+Niti.     See  Policy,  royal.
+
+Niyoga.  See  Appointment  of
+widows;  Son  begotten  on
+widow  or  wife.
+
+Non-payment  of  wages.  See  Wages.
+
+Non-performance  of  agreements,
+vin,  5,  218-221.
+
+Nuisance,  punishment  for  commit-
+ting, ix,  282-283.
+
+Nuptial  fee,  julka,  vin,  204 ;  ix,  100.
+See  Daughter,  sale  of.
+
+Oath,  administered  in  doubtful  cases,
+vin,  109  ;  in  boundary  disputes,
+vin,  256.
+
+—  formerly  sworn  by  gods  and  sages,
+
+VIII,  no.
+
+—  manner  of  swearing,  vin,  113-
+
+114.
+
+—  sanctity  of,  vin,  in.     See  Per-
+
+jury.
+Occupations,  of  four  castes,  1,  88-9 1 ;
+x,  74-80;  in  times  of  distress,
+x,    8 1 -1 17.       See    Brahmawa,
+Kshatriya,  Sudra,  Vauya.
+
+—  of  higher  caste  never  to  be  adopted
+
+by  lower,  x,  95-96.
+
+—  of  mixed  castes,  x,  32-39,  47-
+
+52-
+
+—  pursuit  of  forbidden,  punishable,
+
+ix,  225  ;  results  of,  iv,  30.  See
+Penance  for  forbidden  occupa-
+tions.
+Officials,  royal,  appointment  and
+classes  of,  vii,  60-68,  80-81,
+114*121.
+
+—  punishment  of  corrupt,  vii,  123-
+
+124;  vin,  34;   ix,  231,  259;  of
+negligent,  ix,  272.
+
+—  supervised  by  spies,  vii,  122.
+Officiating  priest,  definition  of  term,
+
+11,  143-
+
+—  entertained  at  Sraddha,  in,  148.
+
+—  impurity  on  death  of,  v,  81.
+
+—  manner  of  saluting,  n,  130.
+
+—  payment  of  fees  to,  VIII,  206-210;
+
+XI,  38-39.
+
+
+6oo
+
+
+LAWS   OF   MANU.
+
+
+Officiating  priest,  punishment  of,  for
+forsaking  sacrificer,  viii,  388.
+
+—  punishment  of  sacrificer  for  for-
+
+saking, viii,  388.
+
+—  quarrels  with,  forbidden,  iv,  179,
+
+182.
+
+—  receives  the  honey-mixture,  in,
+
+119.
+
+—  to  be  chosen  by  king,  vn,  78.
+Oilman,  impure,  in,  158  ;  iv,  84-85.
+Om,  syllable,  vi,  70;  xi,  249.
+
+—  is  a  secret  Veda,  xi,  266.
+
+—  origin  of,  11,  76.
+
+—  pronounced  in  beginning  recita-
+
+tion of  Veda,  n,  74-75.
+
+—  sanctity  of,  11,  83-84.
+Ordeals,  pp.  ci-cii.
+
+—  by  fire  and  water,  viii,  114-116.
+Orders,  four,  vi,  87-88.
+
+—  comparison  of,  in,  77-78  ;  vi,  89-
+
+90.
+
+—  disputes  regarding  duties,   how
+
+settled,  viii,  390-391.
+
+—  duties   of  all,    vi,   91-93.     See
+
+Ascetic,  Hermit,  Householder,
+Student.
+Organs,  enumeration  of,  11,  90-92.
+
+—  deficiency    in,     disqualifies     for
+
+Sraddhas,  in,  161, 177-178,  242  ;
+excludes  from  inheritance,  ix,
+201.
+
+—  duty  of  restraining,  n,  88,   92-
+
+100;  iv,  246;  v,  105;  vi,  4, 52,
+60,  72,  92  ;  x,  63,  &c.
+Outcast,  associating  with,  forbidden,
+in,  150,  157;  iv,  79,  213;  ix,
+238-239;  xi,  185, 190;  a  mortal
+sin,  xi,  55  ;  punishment  for,  in
+next  life,  xn,  60.  See  Penance
+for  associating  with  outcast.
+
+—  food  laid  on  the  ground  for,  in,
+
+92.
+
+—  marriage  with  daughter  of,  n,
+
+238,  240  note.
+
+—  purification  on  touching,  v,  85.
+
+—  treatment    of   female,   xi,    189.
+
+See  Abhbasta ;  Caste,  exclusion
+from,  readmission  into.
+
+Pahlava  race,  pp.  cxiv-cxvii ;  x,  44.
+Paua^a  marriage,  in,  21.
+
+—  description  of,  in,  34.
+
+—  forbidden,  pp.  lxxvii-lxxviii ;  ill,
+
+23,  25.
+
+—  results  of,  in,  41-42.
+Pakaya^as,  11,  86,  143  ;  xi,  119.
+
+
+Pala,  value  of,  viii,  135.
+Pa«a,  value  of,  viii,  136.
+PaWusopaka  caste,  x,  37.
+Pa«£agavya,  the  five  products  of  the
+
+cow,  xi,  166.
+Pa«£alas,  a  tribe,  II,  19  ;  vn,  193.
+Pariktidusha«a,  defiler  of  a  company,
+
+in,  150-182.
+
+—  penance  for,  xi,  201.
+Panktipavana,  sanctifier  of  a  com-
+pany, in,  183-186.
+
+Parada  race,  x,  44.
+
+Parana va  caste,  x,  8  ;  son,  ix,  178.
+
+Parents.     See  Father,  Mother.
+
+Parishad,  legal  assembly,  p.  lii ;  xn,
+108-115.
+
+Parivettr/.  See  Brother,  younger,
+marrying,  &c.
+
+Parivitta.  See  Brother,  elder,  mar-
+rying, &c.
+
+Partition,  made  after  parents'  death,
+ix,  104,  or  by  father,  ix,  215;
+meritorious,  ix,  in.
+
+—  once  made  final,  ix,  47.
+
+—  between  brothers  legitimate,  of
+
+equal  caste,  ix,  104,  156-157;
+shares,  ix,  112-119,  213.
+
+—  between  younger  brother  and  son
+
+begotten  on  widow  of  elder,  ix,
+
+T20.
+
+—  between  sons  of  elder  and  younger
+
+wives,  ix,  122-126.
+
+—  between  twins,  ix,  126.
+
+—  between     son     and     appointed
+
+daughter,  ix,  134.
+
+—  between  sons  of  wives  of  different
+
+castes,  ix,  148-155.
+
+—  between  legitimate  and  subsidiary
+
+sons,  ix,  162-165.
+
+—  between  sons  by  different  fathers,
+
+ix,  191.
+
+—  of  acquisitions  by  brothers,  ix,
+
+204-208,  215.
+
+—  of  property  of  reunited  copar-
+
+ceners, ix,  210-212.
+
+—  of    property    afterwards    disco-
+
+vered, ix,  218.  See  Inherit-
+ance; Property,  indivisible,  self-
+acquired  of  father ;  separate  of
+sons.
+
+Partners.     See  Concerns  among.
+
+Parva-days,  in,  45;  iv,  150,  153.
+
+Pasture-ground,  around  villages  and
+towns,  viii,  237.
+
+—  indivisible,  ix,  219.
+Pata%ali,  pp.  li— lii,  cxii.
+
+
+II
+
+
+INDEX.
+
+
+60 1
+
+
+Paternal  aunt,  manner  of  saluting,
+
+n,  131,133.
+
+—  grandmother,  inherits,  ix,  217.
+
+—  uncle,  manner  of  saluting,  11, 130.
+Pathin  hell,  iv,  90.
+
+Pauw^raka  race,  x,  44.
+
+Pavamani  texts,  v,  86  ;  xi,  258.
+
+Pavitra,  means  of  purification,  vi,  41.
+
+Penance,  for  adultery  with  Guru's
+wife,  xi,  104-107  ;  with  other
+women  and  for  other  carnal
+offences,  xi,  171- 179.
+
+—  for  Apatrikara«a  sins,  xi,  126.
+
+—  for  associating  with  outcasts,  XT,
+
+180-182.
+
+—  for  bite  of  impure  animals  and
+
+men,  xi,  200.
+
+—  for  breach  of  student's  vows,  11.
+
+181,187,220-221;  xi,  119-124,
+
+158-159.
+
+—  for  casting  of  supplicant,  xi,  199.
+
+—  for  cutting  or  destroying  plants,
+
+xi,  143,  145.
+
+—  destroying  embryo  of  Brahmawa,
+
+xi,  88.
+
+—  for  drinking  spirituous  liquor,  xi,
+
+91-99,  147-152.
+
+—  for  eating    forbidden    food,   iv,
+
+222  ;  v,  20-21  ;  xi,  153-162.
+
+—  for  false  evidence,  vm,  105-106  ;
+
+xi,  89.
+
+—  for  following  forbidden  occupa-
+
+tions, xi,  193.
+
+—  for  Gatibhraw-rakara  sins,  xi,  125.
+
+—  for  improperly  divulging  Veda,
+
+xi,  199.
+
+—  for    injuring    living   beings,   vi,
+
+69.
+
+—  for  killing  Brahmawa,  xi,  73-87,
+
+90;  menstruating  Brahmawi,  xi,
+88 ;  friend,  xi,  89 ;  Kshatriya
+or  Vaijya  engaged  in  sacrifice,
+xi,  88;  wife,  xi,  89;  cow,  xi,
+109-117;  Kshatriya,  xi,  127-
+129;  Vaijya,  xi,  127,  130;
+Sudra,  xi,  127,  131;  various
+animals,  xi,  132-134,  135-138,
+140-142,  144;  eunuch,  xi,  134;
+adulterous  women,  xi,  139.
+
+—  for  Malavaha  sins,  xi,  126.
+
+—  for  neglecting  duties  of  Snataka,
+
+XI,  202-204;  initiation,  xi,  192;
+sacred  fire,  xi,  41 ;  twilight  de-
+votions, 11,  220-221.
+
+—  for  offences  against  teacher,  xi,
+
+89.
+
+
+Penance,  for  performing  forbidden
+sacrifices,  xi,  198.
+
+—  for  performing  obsequies  of  a
+
+stranger,  xi,  198.
+
+—  for  Sawkarikarawa  sins,  xi,  126.
+
+—  for  secret  sins,  xi,  248-266.
+
+—  for  swallowing  ordure,  &c,  XI,
+
+151.
+
+—  for  teaching  and  sacrificing  for
+
+wicked  men,  x,  in  ;  xi,  194,
+198-199.
+
+—  for  theft  of  deposit,  xi,  89  ;  of
+
+gold,  xi,  100-103 ;  of  other
+property,  XI,  163-170.
+
+—  for  those  excluded  from  social
+
+repasts,  xi,  201.
+
+—  for  threatening,  striking,  or  hurt-
+
+ing a  Brahma^a,  xi,  205-209.
+
+—  for  unlawfully  accepting  gifts,  x,
+
+in;  XL  194-195,  198.
+
+—  for  Upapataka  sins,  xi,  118.
+Penances,  description  of  various,  xi,
+
+212-247.
+
+—  how  imposed,  XI,  86,  210.
+
+—  necessity  of  and  reasons  for  per-
+
+forming, xi,  44-47,  54-
+
+—  not  to  be  performed  under  the
+
+pretence  of  vows,  iv,  198.
+
+—  vicarious    for   punishments,   ix,
+
+235,  240-242.
+Perjury,  equal  to  drinking  spirituous
+liquor,  xi,  57.
+
+—  permissible  in  certain  cases,  viu,
+
+103-105,  112.
+
+—  punishments  for,  viu,  119-123,
+
+257,  263.
+
+—  suborner  to,  excluded  from  Srad-
+
+dha,  in,  158.  See  Oath,  Pen-
+ance for  perjury,  Witness.
+
+Phalguna,  month,  vn,  182.
+
+Physician,  impure,  in,  152,  180;  iv,
+212,  220.
+
+—  unskilful,     punished,     ix,     259,
+
+284.
+Pija^as,  in,  141 ;  v,  50 ;  xi,  96  ;  xn,
+
+57.
+
+—  origin  of,  1,  37,  43 ;  xn,  44.
+Pitr/'medha,  v,  65.
+
+Pledge,  vm,  H3-I45,  149,  150.
+Pole,  punishment  for  destroying,  ix,
+
+285.
+Police,  patrols  and  stations,  where
+
+to  be  placed,  vn,  114;  ix,  264-
+
+266.
+Policy,   royal,   four  expedients    of,
+
+vn,  159.
+
+
+602
+
+
+LAWS    OF    MANU.
+
+
+Policy,  royal,  six  measures  of,  vn,
+160-215.
+
+—  theory  of,  ix,  294-300.
+Possession   without  title  no   proof
+
+of  ownership,  viii,  200.  See
+Limitation,  law  of.
+Pra^-apati,  the  lord  of  creatures,  11,
+76-77,  84,  226;  iv,  225,  248;
+v,  28;  ix,  46,  327;  xi,  244;
+xii,  121.
+
+—  horse  sacred  to,  xi,  38.
+
+—  ishri  sacred  to,  vi,  38.
+
+—  oblation  to,  in,  86.
+
+—  penance  revealed  by.    See  YLrik-
+
+khr?L  penance.
+
+—  sacrifice  of,  v,  152.
+
+—  world  of,  iv,  182.
+Pra^apatis,  I,  35;  xn,  50.
+Prag-apatya  marriage,  III,  21.
+
+—  affects    succession    to    women's
+
+property,  ix,  196.
+
+—  description  of,  in,  30.
+
+—  permissibility  of,  in,  23-24.
+
+—  results  of,  in,  38-40,  42.
+Pra/fcetas,  a  Prag-apati,  1,  35.
+Pramrita,  agriculture,  iv,  4-5.
+Prawayama,  suppression  of  breath,  11,
+
+75;  vi,  69-71;  xi,2oo,  202,  249.
+Pratilomas.     See  Castes,  mixed.
+Prausb/^apada,  month,  iv,  95.
+Prayaga  (Allahabad),  11,  21.
+Pretas,  in,  230;  xn,  59,  71-72.
+Prices    of    merchandize,    fixed  by
+
+king,  viii,  401-402.
+Priests.     See  Adhvaryu,  Brahman,
+
+Domestic     priest,      Officiating
+
+priests,  Udgatr/.
+Primogeniture.     See  Son,  eldest.
+Prisoner,   excluded  from   5raddha,
+
+in,  158.
+
+—  food  of,  forbidden  to  Brahma«a,
+
+iv,  210.
+Prisons,  where  to  be  placed,  ix,  288.
+Pr/'thu,  a  king,  VII,  42  ;  ix,  44.
+Property,    acquisition    of,   ix,    44;
+
+seven  modes  of,  x,  115.
+
+—  indivisible,  ix,  200,  219.
+
+—  lost  and  found,  vin,  30-34.
+
+—  self-acquired,  of  father,  ix,  209.
+
+—  separate,  of  sons,  ix,  206.
+
+—  stolen,  to  be  restored  or  made
+
+good   by  king,  viii,  40.      See
+Limitation;     Minor,    Woman,
+property  of.
+Prostitute,  food  of,   forbidden    to
+Brahmawa,  iv,  209,  219.
+
+
+Prostitute,  to  be  punished,  ix,  259.
+Publican,    food    of,    forbidden    to
+Brahma«a,  iv,  216.
+
+—  to  be  banished,  ix,  225.
+Pukkasa  caste,  iv,  79 ;  x,  38  ;  xn,  55.
+
+—  occupation  of,  x,  49.
+
+—  origin  of,  x,  18.
+Pulaha,  a  Pra^apati,  1,  35.
+Pulastya,  1,  35;  in,  198.
+Pulkasa,  varia  lectio  for  Pukkasa.
+Punarbhu.     See  Woman  remarried.
+Punishment,  degrees  of,  vin,  129-
+
+130,  310.
+
+—  places  for  inflicting,  vin,    124-
+
+125.
+
+—  purifies  offender,  v  in,  318.     See
+
+King,  duties  of.
+Pupil,  impurity  on  death  of,  V,  81.
+
+—  inherits,  ix,  187.
+
+—  may  be  asked  for  money,  iv,  33.
+
+—  may  be  beaten,  iv,  164 ;    VIII,
+
+299-300.
+
+—  who   may  become,   n,   109-115.
+
+See  Student,  Teacher.
+
+Purawa,  value  of,  vin,  136.
+
+Pura«as,  pp.  xvi,  Ixv,  xci ;  in,  232.
+
+Purchase,  one  of  the  modes  of  ac-
+quiring property,  x,  115.  See
+Rescission  of  sale  and  purchase,
+Sale.
+
+Purification,  of  persons,  II,  53;  v,
+85-87,  134-145.  See  Sipping
+water.
+
+■ — means  of,  v,  105-109,  127-128;
+of  ascetic,  vi,  41.
+
+—  of  things,  v,  1 1 1- 1 2 6.
+Purohita.     See  Domestic  priest.
+Purusha,  the  Male,  1,  11,  19;    vn,
+
+17;  xn,  122.
+
+—  hymn,  addressed  to,  xi,  252.
+Pushpadha  caste,  x,  21.
+Pushya-day,  iv,  96.
+
+Put  hell,  ix,  138.
+Pfitimr/'ttika  hell,  iv,  89.
+
+Qualities,  three,  of  nature  or  of  self,
+
+I,  15;  xn,  24-50.
+
+Ra^-as.     See  Activity.
+Raghavananda,     commentator      of
+Manu,  pp.  xiii,  c,  cxxxii-cxxxiii.
+Rahasya,  secret  portion  of  the  Veda,
+
+II,  140,  165.     See  Upanishad.
+Raivata  Manu,  1,  62.
+
+Rakshasa  marriage,  in,  21.
+
+—  description  of,  in,  33.
+
+
+I
+
+
+INDEX.
+
+
+603
+
+
+Rakshasa,  permissibility  of,  pp.  lxxvii-
+lxxviii;  ill,  23-24,  26.
+
+—  results  of,  in,  41-42.
+Rakshasas,  in,  170,  204,  230,  280;
+
+iv,  199;  vii,  23,  38;  xi,  96.
+
+—  manes  of,  in,  196.
+
+—  origin  of,  1,  37,  43  ;  XII,  44.
+Rape,  punishment  of,  vin,  364,  378*
+Raurava  hell,  iv,  88.
+
+Receivers  of  stolen  goods,  ix,  278.
+Repentance,  removes  guilt,  xi,  228,
+
+230-232.
+Repudiation.     See  "Wife.
+Rescission  of  sale  and  purchase,  vin,
+
+5,  222-228.
+Resumption  of  gifts,  vin,  4,  212-214.
+Reunited  coparceners,  ix,  210-212.
+Rig-veda,  n,  158  ;  in,  131, 142,  145  ;
+
+iv,  124;  xi,  262-265;  xn,  112.
+
+—  origin  of,  1,  23.
+
+—  passages  quoted  from,  11,  181;
+
+v,  86;  viii,  106;  xi,  250-258,
+
+260-261.
+i?/g-isha  hell,  iv,  90.
+.Rishis.     See  Sages.
+J?ita,  gleaning  corn,  IV,  5.
+Robbers,  manner  of  discovering,  ix,
+
+261-269.
+Robbery,  vin,  6.     See  Violence.
+
+—  definition  of,  vm,  332.
+
+—  punishment  of,  ix,  275-276,  280  ;
+
+of  those  who  give  no  assistance
+in  cases  of,  ix,  274.
+Rogues,  classes  of,  ix,  257-260.
+
+—  duty  and  manner  of  discovering
+
+and  punishing,  ix,  252-255,  261-
+
+293.
+Rudra,  hymn  to,  xi,  255.
+Rudras,  in,  284;  xi,  222.
+
+Sacraments,  for  males,   n,   26-47 ;
+for  females,  11,  66-67.
+
+—  not  allowed  to  mixed  castes,  x,
+
+68 ;  nor  to  Rudras,  x,  126.
+Sacred  fire,  kindling,  rule  for,  ill,
+67;  neglect  of,  xi,  66.
+
+—  neglecting  or  extinguishing,  in,
+
+153  ;  xi,  60.     See  Penance  for.
+
+—  offerings  to,  n,  108, 176, 186-187;
+
+iv,    145-146;    vn,    145.      See
+Agnihotra.
+
+—  repositing  in  oneself,  VI,  25,  38.
+
+—  reverence  shown  towards,  iv,  58.
+
+See  Fire,  reverence  to.
+Sacred  fires,  keeper  of  five,  sanctifies
+company,  in,  185.
+
+
+Sacrifices,  not  to  be  performed  by
+fools,  infants,  women,  &c,  n,
+171-172;  iv,  205-206;  xi,  36-
+37-
+
+Sacrifices,  great  daily,  enumeration
+of,  in,  70-74-
+
+—  description  of,  in,  81-121.
+
+—  duty  of  performing,  for  house-
+
+holders, in,  75-80,  93;  iv,  21-
+24;  for  hermits,  vi,  5.
+
+—  reason  for  performing,  in,  68-69.
+
+—  remove  guilt,  xi,  246.
+Sacrifices,  forbidden,  ill,  151,  164;
+
+ix,  290;  xi,  64.     See  Penance
+for  performing  forbidden  sacri-
+fices.
+Sacrifices,  Srauta,  11,  28.  See  Sattra,
+Soma-sacrifices.
+
+—  duty  of  performing,  iv,  25-28;
+
+by  a  king,  vn,  78-79.
+
+—  forbidden   to    eunuchs,   women,
+
+&c,  iv,  205-206 ;  to  poor  men,
+xi,  38-40.
+
+—  initiation  to,  a  third  birth,  n,  169.
+
+—  materials  for,  may  be  taken  by
+
+force,   xi,    11-15;    not   to   be
+begged  from  SGdras,  xi,  24.
+
+—  property  destined  for,   is    indi-
+
+visible, ix,   219;   seizing  such
+property,  xi,  26.
+
+—  person  initiated  for,  n,  128  ;  iv,
+
+130,  210;  vin,  360.     See  Pen-
+ance for  killing.
+
+—  substitute  for,  xi,  27-30.
+Sacrificer,  produced  by  Goodness,
+
+xn,  49.
+
+—  punishment   for   forsaking,"  vin,
+
+388.
+Sacrificial  fee,  due,  must  be  given,
+xi,  38-40.
+
+—  payment  and  distribution  of,  vin,
+
+206-210.
+Sacrificial  string  (thread),  II,  44,63-
+
+64,  174;  iv,  36.
+Sacrificing  for  oneself,  duty  of,  1,
+
+88-90;  x,  75,77-78.
+Sacrificing  for  others,  occupation  of
+
+Brahma«a,  1,  88  ;  x,  75-76.
+
+—  for  unworthy  men,  forbidden,  in,
+
+65  ;  xi,  60  ;  permitted  in  times
+of  distress,  x,  103,  J09-111.
+See  Penance  for  teaching  and
+sacrificing  for  wicked  men ;
+Sudra,  sacrificing  for.
+Sadhya,  deities,  1,  22;  in,  195;  xi,
+29 ;  xn,  49.
+
+
+604
+
+
+LAWS    OF   MANU.
+
+
+Sages,  or  great  sages,  address  Manu,
+I,  1-4;  Bhrigu,  v,  1-2;    xil,  1.
+
+—  debt  due  to.     See  Debts,   the
+
+three.
+
+—  fathers  of  the  manes,  in,  201.
+
+—  origin  of,  I,  34-36  ;  xil,  49.
+
+—  worship  of,  11,  176.
+Sagotra  relative,  ix,  190.
+Sahasa.     See  Violence.
+Sahodba..  See  Son  of  pregnant  bride.
+Sairandhra  caste,  x,  32.
+Sakakola  hell,  iv,  89.
+
+Sakulya  relative,  ix,  187.
+
+Sale,  forbidden  of  adulterated  goods,
+viii,  203  ;  of  children,  xi,  62  ;  of
+daughter,  see  Daughter ;  of  gar-
+den, tank,  &c,  xi,  62  ;  of  wife,
+ix,  46;  xi,  62.
+
+—  forbidden  to  Brahma«a,  various
+
+goods,  in,  152,  159;  x,  86-94;
+xi,  63.
+
+—  fraudulent,  forbidden,  viii,  203  ;
+
+void,  viii,  165.     See  Trader.
+Sale  without  ownership,  viii,  4,  197-
+
+202.
+Saluting,  duty  of,  11,  117,  1 20-121;
+
+iv,  154.
+
+—  various  modes  of,  11,  122-137.
+Saman,  xi,  265.     See  Gyesh^asa-
+
+man,  Sama-veda.
+Samanodaka  relative,  xi,  183.
+
+—  definition  of  term,  v,  60.
+
+—  impurity  on  birth  or  death  of,
+
+v,  64,  71,  74,  78.
+Samavartana,  student's  rite  on  re-
+turning home,  11,  108  ;  in,  4.
+Sama-veda,  1,  23;  in,  145;  iv,  123-
+
+124  ;  xr,  263  ;  xil,  112.
+Sawdhya  worship.      See   Twilight
+
+devotions.
+Sawzghata  hell,  iv,  89.
+Saw^-ivana  hell,  iv,  89.
+Sawhita  of  Veda,  xi,  78,  201,  259.
+
+See  Mantrasawhita.
+Sawkarikara^a   sins,   xi,   69.      See
+
+Penance  for.
+Sampratapana  hell,  IV,  89.
+Sawskaras.     See  Sacraments.
+Sawtapana  Krikkhra.  penance,  v,  20  ;
+
+xi,  125,  165,  174.
+
+—  description  of,  xi,  213.
+SapWa  relative,  11,  247  ;  xi,  183.
+
+—  begetting    son    with    widow    of
+
+SapWa,  ix,  59,  147.
+
+—  definition  of  term,  v,  60  ;  another
+
+definition,  ix,  186.
+
+
+SapiWa,  impurity  on  birth  or  death
+of,  v,  58-59,  61-64,  67-70, 72-79,
+83-84.
+
+—  inherits,  ix,  187.
+
+—  marriage  with  female,  forbidden,
+
+in,  5;  xi,  172-173.
+SapWikara«a,  III,  247-248.
+Sarahgi,  wife  of  Mandapala,  ix,  23.
+Sarasvati,  goddess,  oblation  to,  viii,
+
+105.
+
+—  river,  p.  xlv;  II,  17  ;  xi,  78.
+Sarpas,  snake-deities,  1,  37.
+Sarva^a-Narayawa,    commentator
+
+of  Manu,  p.  xiii,  xxxvii,  c,  cxi,
+
+cxxviii-cxxx.
+Sarvatmabhuti,  deity,  in,  91.
+Sattra,  performer  of,  sacrifice  never
+
+impure,  v,  93.
+Sattva.     See  Goodness.
+Satvata  caste,  x,  23.
+Satyanr/ta  trade,  IV,  4,  6.
+Saumya  manes,  in,  199.
+Savitri  rite.     See  Initiation,  Vratya.
+Savitri  verse,  n,  148  ;  xi,  195,  226.
+
+—  efficacy  of  recitation,  n,  78-82,
+
+102,  118.
+
+—  manner  of  recitation,  n,  101,  104.
+
+—  mother  of  the  student,  n,  170.
+Sayarca-Madhava,  p.  xlix.
+
+Sea,  trade  by,  viii,  157,  406.
+
+—  voyages  by,  forbidden,  III,  158.
+Seed-corn,  offences  with  respect  to,
+
+ix,  291.
+Self.     See  Soul.
+Self-defence   permitted,  viii,   348-
+
+.351.
+Seniority.      See  Brahma«a,   Ksha-
+
+triya,    Srotriya,  Sudra,  Vaijya,
+
+Wife.
+Service,   excludes   from    Sraddhas,
+
+ni,  153.
+
+—  forbidden  to  Brahmawa,  iv,  4,  6.
+
+—  with  Sudras,  a  sin,  xi,  70.     See
+
+King,  service  of;  Sudra,  duties
+of.
+Singer,  adultery  with  wife  of,  vin,
+362-363.
+
+—  excluded  from  Sraddha,  in,  155.
+
+—  following  profession  of,  an  Upa-
+
+pataka,  xi,  66.
+
+—  to   be   banished,  ix,  225.      See
+
+Bard.
+Sins,  classification  of,  xi,  55-71.    See
+
+Penance.
+Sipping  water,  n,  222  ;  v,  86-87, 138,
+
+142-145-
+
+
+INDEX.
+
+
+605
+
+
+Sipping  water,  manner  of,  II,  58-62  ;
+
+v,  139.
+Sister,  II,  50,   133.     See  Brother,
+
+Incest.
+Skanda-pura«a,  pp.  xcvi,  cvi.
+Slave,  classes  of,  iv,  253-256  ;   Vin,
+
+415.
+
+—  disqualified  to  earn  property,  viii,
+
+416-417;    to  be  witness,  viii,
+66  ;  exception,  viii,  70.
+
+—  food  of  Sudra,  eatable,  iv,  253.
+
+—  quarrels  with,  forbidden,  iv,  180,
+
+185.
+
+—  offspring  of  female,  ix,  55.     See
+
+Son,  illegitimate,  of  Sudra.
+
+—  sexual  intercourse  with  female,
+
+viii,  363.
+Sleeping,  purification  after,  v,  145.
+
+—  rules  regarding,  for  student,  II,
+
+108;  for  Snataka,  iv,  57,  75,  92.
+
+—  at  sunset  and  sunrise  forbidden,
+
+II,  219-221;  IV,  55.
+
+Smr/'ti.     See  Tradition.
+
+SmWtima^ari,  of  Govindara^a,  pp.
+xxi,  cxxvii.
+
+Smritiviveka,  of  Medhatithi,  p.  cxxiii.
+
+Snataka  (Brahmawa  who  has  com-
+pleted his  studentship).
+
+—  definition  of  term,  IV,  31.
+
+—  duties  of:    acceptance   of  food,
+
+iv,  205-225,  250,  253  ;  of  gifts
+and  begging,  iv,  33-34,  84-
+91,  186-191,  247-252  ;  x,  113-
+114;  xi,  1-6;  bathing,  iv,  45,
+129,  152,  201-203;  dress,  iv,
+18,  34-36,  66;  eating,  rules
+for,  IV,  43,  45,  55,  58,  62-63,
+65,  74-76  ;  general  behaviour,
+righteousness,  truthfulness,  &c,
+iv,  15-16,  18,  72,  145-H6,  155-
+185,  204,  236-246;  hospitality,
+iv,  29-32  ;  liberality,  iv,  192-
+197,  227-235;  interruptions  of
+Veda-study,  iv,  101-127;  per-
+formance of  daily  rites,  iv,  14,
+21-24,  92_94,  x52  >  °f  Srauta-
+sacrifices,  iv,  25-28,  226;  resi-
+dence, iv,  60-61 ;  sleeping,  rv,57,
+75, 92 ;  studying  the  Veda,  &c,
+iv,  17-20,  95-100,  146-149;
+voiding  excrements,  IV,  45-52,
+152;  miscellaneous  rules,  iv,
+37-42,  44,  53-59,  63-83,  128,
+130-144,  150-154-
+• —  may  retire  from  the  world,  IV,
+257-258.
+
+
+Snataka,   receives  the   honey-mix-
+ture, in,  119.
+
+—  way  to  be  made  for,  11, 138-139.
+Soma,  deity,  111,  87,  211 ;   ix,  129  ;
+
+xi,  255.
+
+—  plant,  sale  of,  forbidden,  in,  158,
+
+180;  x,  80.
+Somapa  manes,  in,  197-198.
+Soma-sacrifices,  iv,  26;  xi,  7-10.
+Somasad  manes,  in,  195.
+Son,    duties    towards    parents,    11,
+
+145-148,  225-227.    See  Father,
+
+Mother.
+
+—  duty  of  begetting  a,  11,  28;  re-
+
+ward for  fulfilment  of,  ix,  137-
+138.     See  Debts,  the  three.
+
+—  forsaking,  an  Upapataka,  xi,  60 ;
+
+punishment  for,  viii,  389.
+
+—  has  no  property,  viii,  416  ;   ex-
+
+ceptions, ix,  206.
+
+—  has  no  right  to  parents'  estate
+
+during  their  lifetime,  ix,  104.
+
+—  inherits  from  father,  ix,  104, 156-
+
+157,  185;  from  mother,  viii,
+104,  192,  195.
+
+—  liable  for  father's  debts  and  ex-
+
+ceptions, viii,  159,  166.
+
+—  may  be  beaten,   iv,   164 ;   viii,
+
+299-300.
+
+—  offences  against  parents,  in,  157,
+
+159.     See  Father,  Mother.
+
+—  punishment  fordefaming,vin,275.
+
+—  quarrels  with,  forbidden,  iv,  180,
+
+184.
+
+—  adopted,  ix,  141-142,  159, 168.
+
+—  begot  on  wife  or  widow,  ix,  31-
+
+56;  ix,  143-147,  i59,  162-165,
+167,  190-191.  See  Appoint-
+ment of  widows.
+
+—  born  after  partition,  ix,  216.
+
+—  born  secretly,  ix,  159, 170.
+
+—  bought,  ix,  160,  174.
+
+—  cast  off,  ix,  159,  171.
+
+—  eldest,  excellence  of,  ix,  106-107,
+
+109 ;  inherits  alone,  ix,  105, 108-
+109;  share  of,  ix,  1 1 2-1 14,  115,
+117,  119.     See  Brother,  eldest.
+
+—  illegitimate,  of  Sudra,  ix,  179.
+
+—  legitimate,  ix,  159,  162-166.
+
+—  made,  ix,  159,  169.
+
+—  middlemost,  share  of,  ix,  1 1 2-1 13.
+
+—  of    appointed     daughter.      See
+
+Daughter,  appointed.
+
+—  of  pregnant  bride,  ix,  160,  173.
+
+—  of  remarried  woman,  in,  155,181;
+
+IX,  160,  175-176.
+
+
+6o6
+
+
+LAWS    OF   MANU.
+
+
+Son,  of  Sudra  wife,  ix,  151,  153-155,
+160,  178.
+
+—  of  unmarried  daughter,  IX,  160,
+
+172.
+
+—  second,  share  of,  ix,  117.
+
+—  self-given,  ix,  160,  177.
+
+—  youngest,  share  of,  ix,  112-113.
+Sons,  by  wives  of  different  castes,
+
+share  of,  ix,  148-155.
+
+—  seniority    among,  by    wives    of
+
+equal  caste,  ix,  122-126,  156-
+
+i57.
+
+—  subsidiary,  enumeration,  ix,  159-
+
+160  ;  character  of,  ix,  161,  181 ;
+
+right   to    inherit   or   share,    1,
+
+165,  180.
+Son-in-law,  entertained  at  Sraddha,
+
+in,  148.     See  Bridegroom.
+Sopaka  caste,  x,  38.
+Sorcery.     See  Magic.
+Soul,  xii,  12-14.
+
+—  knowledge  of  supreme,  leads  to
+
+final  liberation,  vi,  29,  49,  82-
+84;  xii,  83,  85,91-93,  118-125.
+
+Spiritual  guide.     See  Teacher.
+
+Spirituous  liquor,  kinds  of,  xi,  94-
+
+95-
+
+—  debt  for,  not  recoverable,  viii,
+
+159.  See  Drinking  spirituous
+liquor ;  Publican ;  Woman,  fine
+for  drinking  spirituous  liquor.
+
+Spy,  employed  by  king,  vii,  122,153-
+154,223;  ix,  256,261,298.
+
+Staff,  of  Snataka,  iv,  36.
+
+—  of  student,  11,  45-47,  64,  174.
+Stridhana.     See  Woman,  property
+
+of.
+Student,  breach  of  vow  of,  III,  155.
+See  Penance  for.
+
+—  cannot  be  made  a  witness,  viii,  65.
+
+—  does  not  become  impure  by  births
+
+and  deaths,  v,  93.
+
+—  duration  of  residence  with  teacher,
+
+in,  1.
+
+—  duties  of  and  restrictions  imposed
+
+on,  11,  41-75, 108,  1 17-139,  144-
+150,161-162,173-212,  216-240.
+
+—  entertained  at  Sraddha,  11,  189-
+
+190;  in,  186;  not  to  be  enter-
+tained, in,  151.
+
+—  may  perform  obsequies  of  teacher,
+
+parents,  &c,  v,  65,  91,  but  must
+not  offer  libations  to  other  rela-
+tives, v,  88.
+
+—  mode  of  personal  purification,  v,
+
+137.
+
+
+Student,  must  not  pay  stipulated  fee,
+11,  245;  in,  156.
+
+—  pays  no  toll  at  ferry,  viii,  407.
+
+—  personating  a  student,  an  offence,
+
+iv,  200.
+
+—  receives  alms  at  Vaijvadeva,  in,
+
+94.
+
+—  perpetual  or  professed,  n,  242-
+
+244,  247-249.
+
+—  returned  home,  n,  245-246;  in,
+
+2-4.     See  Pupil,  Teacher.
+
+Subrahmawya  texts,  ix,  126.
+
+Sub-teacher.     See  Upadhyaya.
+
+Subtraction  of  gifts.  See  Resump-
+tion.
+
+Sudas,  a  king,  vn,  41 ;  viii,  no.
+
+Sudhanvan  caste,  x,  23.
+
+Suicide,  no  libations  offered  to,  v,  89.
+
+Sukalin  manes,  III,  197.
+
+Sumati  Bhargava,  recast  of  Manu's
+laws  by,  pp.  xvii,  xcv.
+
+Sumukha,  a  king,  vn,  41.
+
+Suparwas,  bird-deities,  vn,  23.
+
+— -  manes  of,  III,  196.
+
+—  origin  of,  I,  37 ;  XII,  44.
+Supersession.     See  Wife.
+Suppression  of  breath.     See  Pra«a-
+
+yama.
+Sura.     See  Spirituous  liquor.
+Surety,  VIII,  158-162,  169.
+Suta  caste,  x,  26.
+
+—  occupation  of,  x,  47.
+
+—  origin  of,  X,  11,  17.
+Suvar«a,  value  of,  viii,  134,  137.
+Svarg-it  sacrifice,  xi,  75.
+Svaro&sha  Manu,  1,  62.
+Svayambhu,  1,  3,  6,  92,  94 ;  v,  39 ;
+
+ix,  138.     See  Brahman.
+Svayawdatta.     See  Son,  self-given.
+
+Sabara-bhashya,  p.  cxii.
+
+Saikha  caste,  x,  21.
+
+•Saka  race,  pp.  cxiv,  cxvii ;  x,  44.
+
+iSakala  oblations,  XI,  201,  257.
+
+•Salmala  hell,  iv,  90.
+
+Sivasawkalpa  text,  xi,  251.
+
+•Sraddha,  funeral  sacrifice,  causes
+interruption  of  Veda-study,  III,
+188;  iv,  iio-iii,  117.
+
+—  offered    by    son     of    appointed
+
+daughter,  ix,  127,  132,  140;  by
+adopted  son,  ix,  142  ;  to  three
+ancestors,  ix,  186.
+
+—  daily,  III,  70,  72,  74,  80-83,  283.
+
+—  for  lately  deceased  person.     See
+
+Ekoddish/a.
+
+
+INDEX.
+
+
+607
+
+
+.Sraddha,  monthly,  description  of,  nr,
+187,  203-253,  256-265,  279,  282.
+
+materials  for,  111,123,  267-272.
+
+number  of  guests  at,  III,  125-
+
+126,  129.
+
+persons  not  to  be  fed  at,  III,
+
+150-167.
+persons  to  be  fed  at,  II,  189-
+
+190;  111,128-149,183-186.
+results   of  feeding   unworthy
+
+guests  at,  III,  133,  168-182.
+rewards  for  performing,  in,
+
+127,  277,  282.
+
+times  for  performing,  in,  122,
+
+273-282.
+
+—  special  kinds  of,  in,  254.
+Srauta-sacrifices.     See  Sacrifices.
+Srava#a,  month,  iv,  95.
+
+Sri,  deity,  III,  89.
+
+Srotriya,  a  learned  Brahmawa,  pp.
+xlviii-xlix;  iv,  205;  vin,  394.
+
+—  cannot  be  made  a  witness,  viii,  65.
+> —  descendant    of,   sanctifies    com-
+pany, in,  184.
+
+—  fine  for  not  entertaining  virtuous,
+
+vin,  393.
+
+—  free  from  taxes,  vn,  133.
+
+—  gift  of  food  to,  iv,  31.
+
+—  impurity  on  death  of,  v,  81.
+
+—  niggardly,  and  liberal  usurer,  iv,
+
+224-225.
+
+—  property  of,  not  lost  by  law  of
+
+limitation,  vin,  149.
+
+—  receives  the  honey-mixture,  hi,
+
+120.
+
+—  to  be  honoured  and  supported  by
+
+king,  vn,  134-136;  viii,  395-
+
+•Srotriyas,  seniority  among,  II,  134.
+
+£ruti.     See  Veda.
+
+Suddhidipika,  of  Narayarca,  p.  cxxx.
+
+Sudra,  caste,  cannot  commit  an  of-
+fence causing  loss  of  caste,  x,  1 2  6.
+
+—  disabilities,  not    allowed    to    be
+
+initiated,  x,  4 ;  to  be  judge,
+vin,  20-21  ;  to  carry  out  dead
+Brahmawa,  v,  104;  to  fulfil
+the  sacred  law  except  certain
+portions,  iv,  223  ;  x,  126-
+127;  to  hear,  learn,  recite,  or
+teach  Veda,  in,  156;  iv,  99;
+x,  127;  to  receive  leavings  at
+.Sraddha,  in,  249 ;  to  receive
+spiritual  advice  from  Brahma/za,
+iv,  80-81  ;  exception,  x,  2 ;
+to  sacrifice,  III,  178;  to  travel
+with  Snataka,  iv,  140.
+
+
+Sudra,  duties  and  occupations,  1,  9 1 ;
+Vin,  410,  418  ;  ix,  334-335  5  in
+times  of  distress,  x,  99-100,
+121-129.
+
+—  food   and  gifts  of,  unlawful  for
+
+Brahma«a,  in,  164;  iv,  211,218,
+223;  xi,  24-25;  exception,  iv,
+
+253-
+
+—  forcible  appropriation  of  Sudra's
+
+property  by  Brahmawa,  VIII,
+417;  xi,  13.
+
+—  guilt  of,  in  cases  of  theft,  vin,  337.
+
+—  killing  a,  an  Upapataka,  xi,  67.
+
+See  Penance  for  killing.
+
+—  kings,  iv,  61.
+
+—  labourers  to  work  for  king,  vn,  138.
+
+—  manes  of,  III,  197.
+
+—  origin  of,  I,  31,  87 ;  xn,  43.
+
+—  position  of,  naturally  a  slave,  viii,
+
+413-414.
+
+—  presence    of   many,   destroys   a
+
+country,  viii,  22.
+
+—  punishment    for    adultery    with
+
+Aryan  woman,  viii,  374 ;  for
+assaulting  men  of  higher  caste,
+viii,  279-283  ;  ix,  248  ;  for  de-
+faming men  of  higher  caste,
+viii,  267,  270-277  ;  for  neglect
+of  duty  in  next  birth,  xn,  72.
+
+—  residence  of,  II,  24.
+
+—  rules  of  inheritance,  ix,  157, 179.
+
+—  special  rules  of  administration  of
+
+oath,  viii,  113;  of  burial,  v,  92  ;
+of  examination  as  witness,  viii,
+88;  of  impurity,  v,  83,  99;  of
+marriage,  in,  44 ;  of  naming,
+II,  31-32  ;  of  purification,  II,  62  ;
+of  saluting,  II,  127,  137;  of
+shaving,  v,  140 ;  of  sipping  water,
+v,  139-140.
+
+—  visitor  not  a  guest,  but  fed,  in,
+
+no,  112.
+
+—  witness  for  Sudras,  viii,  68.
+
+—  wives  permitted  to,  in,  13;  ix,  157.
+Sudras,  seniority  among,  11,  155.
+Sudra,  female,  marriage  and  sexual
+
+intercourse  of  Aryans  with,  p.
+xxvii;  in,  13-19,  44,  64,  155,
+191,  250;  viii,  383-385;  xi,
+179.     See  Son  of  Sudra  wife.
+
+Sulka.     See  Nuptial  fee.
+
+Surasenakas,  a  tribe,  n,  19  ;  vn,  193.
+
+Svapaka  caste,  III,  92.
+
+—  origin  of,  x,  19.
+
+—  position  and  occupation  of,  x,  51-
+
+56.
+
+
+6o8
+
+
+LAWS    OF    MANU.
+
+
+Svavritti,  service,  iv,  4,  6.
+
+Tailor,  food  of,  forbidden  to  Brah-
+
+ma«a,  iv,  214.
+Tamas.     See  Darkness.
+Tamasa,  Manu,  1,  62.
+Tamisra  hell,  iv,  88,  165 ;  xn,  75.
+Tank,  punishment  for  destroying,
+
+ix,  279.
+
+—  sale  of,  a  crime,  xi,  62.
+
+—  settlement  of  boundary  of,  VIII,
+
+262.     See  Water.
+Tapana  hell,  iv,  89.
+Taptakri&kbra.  penance,  XI,  157,  215.
+Taratsamandiya  hymn,  xi,  254.
+Tarpawa.  See  Libation  to  the  manes.
+Taxes,  vii,  118,  127-132,  137-139;
+
+x,  118,  120.
+
+—  exemptions  from,  vn,  133-136;
+
+viii,  394.
+
+—  son  not  liable  for  unpaid,  viii,  159.
+Teacher,  a^arya,  definition  of  term,
+
+11, 140.
+
+—  duties  of,  11,  69,  73, 159-161 ;  iv,
+
+164.
+
+—  duties  towards.     See  Student.
+
+—  entertained  at  Sraddha,  in,  148.
+
+—  fee  of,  11,  245-246  ;  111,  95  ;  stipu-
+
+lated fee  forbidden,  m,  156  ;
+xi,  63.
+
+—  impurity  on  death  of,  V,  80.
+
+—  inherits  from  pupil,  ix,  187.
+
+—  non-Brahmanical,  11, 2  3  8, 24 1-242.
+
+—  not  a  guest,  in,  no.
+
+—  offences  against,  in,  153  ;  xi,  56,
+
+60 ;  punishment  for  offences,
+viii,  275.  See  Penance  for
+adultery  with  Guru's  wife.
+
+—  presents  a  cow  and  the  honey-
+
+mixture  to  student,  111,  3.
+
+—  receives  the  honey-mixture,  111,
+
+119.
+
+—  reverence  towards  and   venera-
+
+bility  of,  11,  144-154,  170-171,
+225-235  ;  iv,  130,  162,179,  l82«
+
+—  selection  of  pupils  by.    See  Pupil.
+
+—  Sudra,  III,  156.
+
+Teacher's  son,  behaviour  towards,
+II,  208-209,  247«
+
+—  impurity  on  death  of,  v,  80.
+Teacher's  teacher,  11,  205.
+Teacher's  wives,  behaviour  towards,
+
+11,  210-212,  216-217,  247.
+
+—  impurity  on  death  of,  v,  80.
+Teaching,  duty  of  the  Brahmawa,  I,
+
+88;  x,  1-2,75-76,80.
+
+
+Teaching,  unworthy  men  permitted,
+
+x,  103, 109-111.
+Temple,  punishment  for  violation
+
+of,  ix,  280,  285.
+Temple-priest,  excluded  from  Srad-
+
+dha,  in,  152,  180.
+Theft,  viii,  6.
+
+—  anybody  may  be  witness  in  cases
+
+of,  viii,  72.
+
+—  definition  of,  viii,   332 ;  excep-
+
+tions, viii,  339,  341 ;  xi,  11-23.
+
+—  guilt  of  men  of  various  castes  in
+
+cases  of,  viii,  336-337.
+
+—  punishments  for,  criminal,  viii,
+
+314-315,  319-331,333-334;  ix,
+277,  280,  293  ;  in  next  life,  xi,
+50-52;  xii,  60-68.  See  Pro-
+perty, stolen.
+Theft  of  gold,  a  mortal  sin,  ix,  235 ;
+xi,  55.
+
+—  penance  for.     See  Penance.
+
+—  punishment  for,  criminal,  ix,  237 ;
+
+in  next  life,  xi,  49 ;  xn,  57.
+
+—  sins  equal  to,  xi,  58.
+
+Thief,  disqualified  to  be  a  witness,
+viii,  67.
+
+—  excluded  from  Sraddha,  in,  150.
+
+—  food  of,  forbidden  to  Brahmawa,
+
+iv,  210.
+
+—  to  be  executed  only,  if  taken  with
+
+stolen  goods,  &c,  ix,  270.
+Thieves,  abettors  of,  to  be  punished,
+ix,  271,  278.
+
+—  manner  of  discovering,  ix,  261-
+
+269.     See  Rogues.
+Time,  divisions  of,  1,  24,  64-73.
+
+—  origin  of,  I,  24.
+
+Times  of  distress.  See  Castes  mixed,
+Occupations ;  Teacher,  non-
+Brahmanical.
+
+Tirthas,  parts  of  the  hand,  n,  58-
+
+59-
+Tolls,  at  a  ferry,  viii,  404-405,  407.
+Town,  pasture-ground  around,  viii,
+
+237.
+
+—  punishment  for  destroying,  wall,
+
+gate,  &c.  of,  ix,  289.
+
+—  to  be  built  by  king,  vn,  70.
+Trade,  degrades  Brahma«a,  in,  64,
+
+152, 181 ;  viii,  102.
+
+—  obligatory  on  Vauya,  1,  90 ;  VIII,
+
+410,   418;    ix,    326,    329-333;
+X,  79.
+
+—  permitted  to  Brahma«a,  iv,  4,  6  ;
+
+in  times  of  distress,  x,  85 ;  re-
+strictions, x,  86-94.
+
+
+INDEX.
+
+
+609
+
+
+Trade,  permitted  to  Kshatriya  in
+time  of  distress,  x,  95.
+
+—  regulated  by  king,  vni,  401-402.
+
+See     Contract,    Duties,     Sea,
+
+Taxes.
+Trader,  punishments  of  dishonest,
+
+viii,  399;  ix,  257,  286-287,  291.
+Trades,  theory  of,  vn,  43.
+Tradition,  sacred,  definition  of,  11, 10.
+
+—  source  of  the  sacred  law,  11,  6,
+
+9-12.
+Trainer  of  dogs,  elephants,  &c,  ex-
+cluded from  Sraddha,  in,  162,
+164.
+
+—  food  of,  forbidden  to  Brahmawa,
+
+iv,  216.
+Transmigration,  1,  28-29,  55~56;  v>
+
+164;  vi,  61-65;  ix,  30;  xi,  25;
+
+xn,  15-22,  41-81.
+Treasure -trove,  viii,  35-39.
+Treta  age,  1,  83,  85,  86  ;  ix,  301-302.
+Tridaw^in,  definition  of,  xn,  10.
+Trzwa&keta,  in,  185.
+Trisuparwa,  in,  185.
+Trivr/'t  sacrifice,  xi,  75.
+Truthfulness,  duty  of,  II,  179;  iv,
+
+I38-i39,  170-178,  &c
+Turayawa  sacrifice,  vi,  10.
+Twice-born  man.    See  Aryan.
+Twilight-devotions,  n,  1 01-104,  222  ;
+
+iv,   93-94.     See  Penance  for
+
+neglect  of.
+
+Udgatri  priest,  receives  a  cart,  vin,
+
+209.
+Ugra  caste,  x,  13, 15, 19.
+
+—  food  of,  forbidden  to  Brahmawa,
+
+iv,  212.
+
+—  occupation  of,  x,  49.
+
+—  origin  of,  x,  9.
+Unnatural  crime,  xi,  174-175.
+Upadhyaya,  sub-teacher,  definition
+
+of,  11,  141.
+
+—  may  be  buried  by  student,  v,  91.
+
+—  venerability  of,  11,  145.
+Upakarman,  opening  of  school-term,
+
+iv,  95,  119.
+Upanishads,  vi,  29;   xi,  263.     See
+
+Rahasya.
+Upapataka  sins,  enumeration  of,  xi,
+
+60-67.     See  Penance  for.
+Ujanas-smriti,  pp.  xxvii,  xxxv,  lxii.
+Usurer,  excluded  from  Sraddha,  in,
+
+i53>  180.
+
+—  food  of,  forbidden  to  Brahma«a,
+
+IV,  210,  220.
+
+[*5]  R
+
+
+Usurer,  liberal  and  niggardly  Svo-
+
+triya,  iv,  224-225.
+Usury,  an  Upapataka,  xi,  62.     See
+
+Interest,  Lending  money.
+Utathya,  son  of,  p.  xxvi ;  in,  16.
+
+Vaideha  caste,  x,  19.
+
+—  descendants  of,  x,  26,  31,  33,  36-
+
+37.
+
+—  occupation  of,  x,  47.
+
+—  origin  of,  x,  11,  17.
+
+—  position  of,  X,  13.
+Vaidiks,  pp.  xlvii-xlviii.
+Vaikhanasa.     See  Hermit.
+
+—  Sutra,  pp.  xxvii-xxix;  vi,  21.
+Vaimanika  deities,  xn,  48.
+Vaijvadeva  offering,  in,  83, 108, 121.
+
+—  description  of,  in,  84-86.
+Vaijvanari  ishri,  xi,  27.
+
+Vai-rya,  caste,  duties  and  occupations
+of,  1,  90;  vin,  410,  418;  IX,
+326-333;  x,  78-80;  in  times  of
+distress,  x,  98.
+
+—  forcible  appropriation  of  Vai-rya's
+
+property  by  Brahmawa,  xi,  12.
+
+—  guilt  in  cases  of  theft,  vin,  337.
+
+—  indigent,    to    be    employed    by
+
+Brahmawa,  vin,  411-412.
+
+—  killing  a,  an  Upapataka,  xi,  67.
+
+See  Penance  for  killing.
+
+—  manes  of,  in,  197.
+
+—  origin  of,  1,  31,  87.
+
+—  punishment  of  Vaijya  for  adultery,
+
+vni,  375-377,  382,  384;  for
+defamation,  vin,  267,  269,  277  ;
+for  neglect  of  duty,  in  next  life,
+xn,  72.
+
+—  special   rules   of  administration
+
+of  oath,  vin,  113;  of  burial,
+V,  92 ;  of  examination  as  wit-
+ness, vin,  88 ;  of  impurity,  v,
+83,  99  ;  of  Kcranta,  n,  65  ;  of
+naming,  n,  31-32;  of  purifica-
+tion, 11,  62  ;  of  saluting,  n,  127  ;
+of  studentship,  n,  41,  42,  44,  45,
+46,  49,  190.
+
+—  visitor  not  a  guest,  but  fed,  in,
+
+no,  112.
+
+—  wives  permitted  to,  in,  13.
+Vaijya  female,  punishment  for  adul-
+tery with,  vin,  382-383,  385.
+
+Vaijyas,  seniority  among,   n,  155.
+
+See  Sons,  by  wives  of  several
+
+castes.
+Vaivasvata  Manu,  1,  62.
+Vamadeva,  a  sage,  x,  106.
+
+r
+
+
+6io
+
+
+LAWS    OF    MANU.
+
+
+Varahamihira,  p.  xcvii.
+
+Varuwa,  in,  87;  v,  96;  vn,  4,  7;
+
+vni,  82,  106;  ix,  244-245,  303,
+
+308;  xi,  253,  255.
+Vasish/^a,  lawgiver,  quoted,  pp.  xxix-
+
+xxx ;  vni,  140.
+
+—  Pra^apati,  1,  35  ;  in,  198.
+
+—  sage,  vni,  no;  ix,  23.
+
+—  hymn  of,  XI,  250.
+
+Vasish^a  Dharmajastra,  pp.  xviii-xx,
+xxii,  xxx-xxxiv,  lii,  lxviii,  lxix,
+xcix,  cii,  cxix.
+
+Vassals  of  king,  punishment  of  neg-
+ligent, ix,  272.
+
+Vastoshpati,  deity,  in,  89.
+
+Vasus,  in,  284;  xi,  222.
+
+Vatedhana  caste,  x,  21.
+
+Vatsa,  sage,  vni,  116.
+
+Vayu,  deity,  v,  96  ;  vn,  4,  7 ;  IX,  42,
+
+303, 306;  xr,  120.
+Veda,   conflicting    passages    of,   all
+authoritative,  n,  14-15.
+
+—  definition  of  the  term,  11,  10.
+
+—  first  source  of  the  law,  11,  6-15.
+
+—  greatness  and  power  of,  1,  2 1 ;
+
+xii,  94-104.
+
+—  offences  against,  cavilling  at,  in,
+
+161 ;  iv,  163  ;  xi,  57 ;  divulging,
+see  Penance  for;  Sudra,  dis-
+abilities; forgetting,  xi,  57;
+scorning,  II,  11.
+
+—  origin  of,  1,  23  ;  xii,  49.
+
+—  purifying  power  of,  xi,  264.    See
+
+Veda-study.
+
+—  recitation  of.     See  Veda-study.
+
+—  riddles  from,  in,  231.
+
+—  stealing  the,  11, 116 ;  xi,  51.   See
+
+Atharvan;  Brahmawa,  Mantra-
+sawhita,  Rahasya,  Rig-veda,
+Sawhita,  Saman,  Sama-veda,
+Upanishads,  Ya^ur-veda.
+
+Vedanta,  11,  160;  vi,  83,  94.
+
+Vedasawnyasika.  See  Ascetic,  in-
+formal.
+
+Veda-study,  ceremonies  on  begin-
+ning, 11,  70-74 ;  v,  145.
+
+—  destroys  guilt,  xi,  246-247.     See
+
+Veda,  purifying  power.
+
+—  duration  of  annual  term,  pp.  xlvi-
+
+xlvii ;  iv,  95-96.
+
+—  duty  of,  11,  28,  156-158,  164-168  ;
+
+iv,  17-20,  35;  VI,  36-37,  83;
+vii,  43;  x,  1,  75-78;  xii,  83.
+
+—  general  rule  of,  iv,  99-100.
+
+—  interruptions  of,  in,  188  ;  iv,  101-
+
+127  ;  exceptions,  n,  105-106.
+
+
+n-
+
+:
+
+
+Veda-study,  neglect  of,  in,  151.  See
+Penance  for  neglecting.
+
+—  private  daily,  duty  of,  n,  106, 166-
+
+167;  in,  70,74,81;  iv,  58,  145-
+149;  vi,  8.
+
+neglect  of,  an  Upapataka,  xi,
+
+60;  results  of,  in,  63.  See
+Penance.
+
+rewards  for,  n,  107;   in,  66.
+
+See  Muttered  prayer,  Vows.
+
+Vedic  schools,  development  and  dis-
+ruption of,  pp.  xlvi-liii.
+
+Vedotsarga,  iv,  96-97,  119.
+
+Vena,  king,  vn,  41 ;  ix,  66-67.
+
+Vena,  caste,  x,  19,  49.
+
+Vice,  the  eighteen  vices  of  a  king,
+vn,  45-53.
+
+Vi^anman  caste,  X,  23.
+
+Vikhanas,  institutes  of.  See  Vai-
+khanasa-sutra.
+
+Village,  boundaries  of.  See  Boun-
+daries.
+
+—  pasture-ground  around,  vni,  237.
+Vinajana,  a  place,  n,  21.
+Vindhya  mountains,  11,  21.
+Violence,  anybody  may  be  witnes
+
+in  cases  of,  vni,  72.
+
+—  a  title  of  the  law,  vni,  6,  344-
+
+351.
+Vh%  deity,  p.  lxiv;  1,  32-33;  m>
+
+.  ^95.
+Virasana,  a  posture,  xi,  1 1 1.
+Vish/zu,  xn,  121.
+Vish»u-smr/ti,  pp.  xxi-xxiii,  xliv,  h
+
+lxvi,  lxx-lxxi,  Ixxiii,  cxxii.
+Vuva^it  sacrifice,  xi,  75.
+Vijvamitra,  sage,  vn,  42  ;  x,  108.
+Vijvejvara-bha^a,  p.  cxxv.
+Vows,  for  the  Veda-study,  11,  28,
+
+^  165,  173-174.
+Vratya,  n,  39;  x,  20;  xi,  63.
+
+—  descendants  of,  x,  21-23.
+
+—  intercourse  with, forbidden,  n,  40.
+
+—  sacrificing  for,  xi,  198.
+
+—  sexual  intercourse   with  female
+
+vni,  373.  See  Initiation  ;  Pen-
+ance for  neglect  of  initiation.
+
+Vr/ddha  Manu,  pp.  xcii,  xevi-xevii.
+
+Vr/'ddhi-jraddha,  in,  254.
+
+Vyahr/tis,  II,  76,  78,  81 ;  VI,  70;  XJ
+223,  249.
+
+Wages,  non-payment  of,  vni,  5,
+215-218.
+
+—  of  herdsmen,  vni,  231.
+
+—  of  royal  servants,  vn,  125-126.
+
+
+INDEX.
+
+
+611
+
+
+Warfare,  rules  of,  vii,  87-94,  164-
+
+167,  170-171,  181-199.
+Washerman,  food  of,  forbidden  to
+
+Brahmawa,  iv,  219.
+
+—  rules  for  washing,  vni,  396.
+Water,    indivisible    property,    ix,
+
+219.
+
+—  penance  for  stealing,  xi,  164.
+
+—  prohibition  against  defilement  of,
+
+iv,  46,  48,56;  xi,  174-
+
+—  punishment  for  diverting  or  steal-
+
+ing, in,  163;  ix,  274,  281.
+Water-pot,  duty  of  carrying,  iv,  36.
+
+—  how  replaced,  11,  64.
+Way,  right  of,  11,  138-139.
+Weaver,  amount  of  cloth  to  be  re-
+turned by,  vni,  397.
+
+Weights,  enumeration  of,  of  copper,
+silver,  and  gold,  vni,  1 31-137.
+
+—  to  be  examined  by  king,   vni,
+
+403.
+Well,  boundaries  of,  vni,  262.
+Widow,  duties  of  faithful,  v,  156-
+
+160,  165-166.   »
+
+—  keeps    ornaments,   worn   during
+
+husband's  lifetime,  ix,  200.
+
+—  son  of,  excluded  from  Sraddha,
+
+in,  156,174-175.  See  Appoint-
+ment of  widow;  Marriage,  se-
+cond ;  Son  begotten  on  widow ;
+Son  of  remarried  woman.
+Wife,  acquires  qualities  of  husband,
+ix,  22-24.
+
+—  and  husband  indissolubly  united,
+
+ix,  45-46.
+
+—  dines  separately,  iv,  43.  •
+
+—  duties  and  position  of,  v,  148-15 1,
+
+153-156;  ix,  2-7,  io-ii,  26-30,
+96,  101-102 ;  of  wife  of  emi-
+grant, ix,  74-76.  •
+
+—  explanation  of  term,  ix,  8.
+
+—  fine  for  drinking  spirituous  liquor,
+
+&c,  IX,  84.
+
+—  has  no  property,  vni,  416;  ex-
+
+ceptions. See  Woman,  pro-
+perty of.
+
+—  inherits,  ix,  187  note.
+
+—  manner  of  burning  dead,  V,  167-
+
+168.
+
+—  may  be  beaten,  vni,  299-300.  »
+
+—  not  to  make  hoard  from  husband's
+
+property,  ix,  199.
+
+—  penance  for  unfaithful,  xi,  177-
+
+178.
+
+—  punishment  for   defaming,  vni,
+
+275;  for  forsaking,  vni,  389.
+
+r  r
+
+
+Wife,  qualifications  required  for,  in,
+4-1 1 ;  exceptions,  11,  238-240.
+
+—  repudiation  and  supersession,  ix,
+
+46,  77-85,  95-
+
+—  sale  of,  ix,  46 ;    an  Upapataka,
+
+xi,  62.
+Wind.     See  Vayu.
+Witnesses,  conflict  of,  vni,  73.
+
+—  duty  of  speaking  the  truth,  VIII,
+
+74,  76.
+
+—  exhortation  of,  vni,  79-86,  89-
+
+101.
+
+—  manner  of  examination,  vni,  87-
+
+88.
+
+—  moral  guilt  of  perjured,  vni,  75,
+
+82, 89, 93-101 ;  exceptions,  vni,
+103-106,  112.
+
+—  number  of,  required,  vni,  60,  66,
+
+77.
+
+—  persons  disqualified  to  be,  vni,
+
+64-67.
+
+—  persons  qualified  to  be,  vni,  62-
+
+63;  in  special  cases,  vin,  68-72,
+254,  256,  258-262.
+
+—  punishment  of,  for  refusal  of  evi-
+
+dence, vni,  107;  for  perjury,
+see  Perjury.
+
+—  suffer  for  others,  vni,  169.
+
+—  to  whom  misfortune  happen,  pay
+
+debt,  vni,  108.     See  Evidence.
+Wives,  all  mothers  through  one  son,
+ix,  183.
+
+—  of  several  castes,  111,  12-13;  ix,
+
+85-87.
+
+—  seniority  among,  of  equal  caste,
+
+ix,  124-125.  See  Adultery,
+Connubial  intercourse,  Hus-
+band, Marriage,  Son  begotten
+on  widow  or  wife.
+Woman,  adhering  to  heretical  sect,
+receives  no  libation,  v,  90.
+
+—  always   dependent,  v,  147-149;
+
+ix,  2-3.
+
+—  causing  abortion,  receives  no  liba-
+
+tion, v,  90.
+
+—  impure  on  birth  of  child,  iv,  2 1 2  ;
+
+v,  85.
+
+—  impurity  on  death  of,  V,  72.
+
+—  killing  a,  an  Upapataka,  xi,  67 ;
+
+disqualifies  for  readmission  into
+caste,  xi,  191.  See  Penance
+for  killing.
+
+—  killing  husband,  receives  no  liba-
+
+tion, v,  90.
+
+—  menstruating,  111,45-46;  iv,  40-41,
+
+57, 208  ;v,  66,  85,108;  xi,  174.
+
+
+6l2
+
+
+LAWS    OF    MANU.
+
+
+Woman,  mouth  of  a,  always  pure,  v,
+130.
+
+—  naked,  not  to  be  looked  at,  iv,
+
+53-
+
+—  names  of,  11,  33  ;  in,  9.
+
+—  naturally  wicked  nature  of,  11,
+
+213-215 ;  ix,  17-20.
+
+—  not  allowed  to  recite  Veda,  ix,
+
+18;  nor  to  sacrifice,  IV,  205-
+206 ;  xi,  36-37.
+
+—  pregnant,  committing  a  nuisance,
+
+ix,  283;  pays  no  toll  at  a  ferry,
+viii,  407.
+~4  property  of,  appropriation  by
+males  punishable,  viii,  29;  de-
+finition of,  ix,  194;  succession
+to,  ix,  104,  131,  192-193,  195-
+198.
+
+—  punishment  of  wicked,  in  next
+
+life,  xii,  69.
+
+—  remarried,  husband  of,  excluded
+
+from   Sraddha,   in,    166.     See
+Marriage,  second;   Son  of  re-
+married woman.
+~\-  rights  to,  not  lost  by  law  of  limi-
+tation, vin,  149.
+
+—  rule  of  sipping  water  for,  v,  139.
+-f-  sacraments  for,  performed  with-
+out Mantras,  n,  66.
+
+
+Woman,  six  causes  of  the  ruin  of,  ix,
+
+13.
+-4-  special  punishment  for  a,  ix,  230.
+
+—  unchaste,  food  of,  forbidden  to
+
+Brahma«a,  iv,2ii,  220;  receives
+no  libation,  v,  90.
+
+—  without  guardian,  protected  by
+
+king,  vin,  28.
+
+-4-  without  male  relative,  food  of,
+forbidden,  iv,  213.
+
+^WojnjBft,  treatment  of,  in,  55-62  ;
+witnesses  for  women,  vin,  68.
+See  Betrothal,  Bride,  Daughter,
+Marriage,  Mother,  Sister,  Wi-
+dow, Wife.
+
+Writing,  pp.  xcix-ci ;  viii,  154  note,
+168.    See  Documents,  Edicts.
+
+Ya^avalkya-smrc'ti,  pp.  xlviii,  xlix,
+lv,  lxxiii,  xcix,  ci-civ,  cvii,  cxxii.
+
+Ya^-mkas,  pp.  xlviii,  1.
+
+Ya^ur-veda,  pp.  xvi,  lx;  1,  23;  iv,
+124;  xi,  263,  265;  xii,  112.
+
+—  quoted,  viii,  106;  xi,  251,  257,
+Yakshas,  1,  37 ;  in,  196;  xi,  96.
+Yama,  in,  87,  211;  v,  96;  vi,  61;
+
+vn,  4,  7;  vin,  86,92;  ix,  303,
+307  ;  xn,  17,  21-22.
+Yavana  race,  pp.  cxiv,  cxvii;  x,  44,
+
+
+ADDITIONS   AND   CORRECTIONS.
+
+Page  xx,  11.  26-33.  The  tradition  which  asserts  that  the  Gautamiya  and
+Vasish/y&a  Dharmajastras  originally  were  the  property  of  Vedic
+schools,  studying  the  Sama-veda  and  the  Rig-veda,  has  already  been
+mentioned  by  Golebrooke  in  his  Essay  on  the  Mimawsa.  It  goes
+back  to  Kumarila,  who  adduces  it  in  his  Varttika  on  Mimawzsa-sutra,
+1,  3, 11  (Tantra- varttika,  p.  179,  Benares  Sanskrit  Series).  The  same
+author  states  there  that  the  Dharmajastra  of  Sankha  and  Likhita
+belonged  to  the  Va^asaneyins.
+
+P.  xxxix,  add  at  the  end  of  note  3  :  'It  is,  however,  found  in  some
+other  G/v'hya-sutras.'
+
+P.  lvii,  add  at  the  end  of  note  4:  'The  copy  of  the  Munich  MS.
+No.  83  has  Jnr:.'
+
+P.  cxii,  1.  1.  More  important  is  the  fact  that  Kumarila,  who,  as  I  hold
+with  Professor  Max  Mtiiler,  cannot  be  placed  later  than  700  a.d.,
+knew  our  Manu-smriti.  In  the  portions  of  the  Tantra-varttika,  pub-
+lished in  the  Benares  Sanskrit  Series,  I  find  the  following  verses
+quoted,  i,  2ib  (p.  203,  1.  14);  ii,  140  (p.  178,  1.  8);  iv,  178  (p.  138,
+1.  17);  v,  56  (p.  in,  1.  11);  viii,  57  (p.  199,  1-  23);  ix,  182  (p.  135,
+1.  2);  xi,  30  (p.  no,  1.  19);  xi,93  (p.  136,1.  19);  xi,  94  (p.  136, 1.24);
+xi,  96*  (p.  137,  1.  7);  xii,  95  (p.  117,  1.  20);  xii,  105,  106  b  (p.  80,
+1.  18).  Most  of  these  quotations  show  some  variae  lectiones,
+which,  however,  are  not  very  important,  and  possibly,  nay  probably,
+are  due  to  inaccuracy  on  Kumarila's  part.     One  verse,  quoted  p.  241,
+
+I.  22,  is  not  traceable  in  our  Manu.  Kumarila  names  Manu  through-
+out as  the  first  and  most  venerable  authority  on  the  sacred  law.  His
+predecessor,  the  author  of  the  metrical  Tika,  on  the  Mimawsa-sutra,
+which  he  quotes  at  great  length,  holds  the  same  opinion,  and  clearly
+and  frequently  alludes  to  our  Manu-smrc'ti.
+
+P.  n,  ch.  i,ver.  19,  add  at  the  end  of  the  note:  'The  idea  that  seven
+Purushas  make  up  man,  occurs  Satapatha-brahmawa  vi,  1,  1,  3,
+and  6.'
+
+P.  32,  ch.  II,  v.  15,  add  at  the  end  of  the  note :  'The  passages  referred
+to  in  the  text  are  quoted  in  the  Sabarabhashya  on  Mimawsa-sutra,
+
+II,  4,  8.'
+
+P.  33,  ch.  11,  v.  21,  for  'to  the  east  of  Prayaga  and  to  the  west  of
+Vinajana'  read ''to  the  west  of  Prayaga  and  to  the  east  ofVinajana.'
+
+P.  39,  ch.  11,  v.  52,  for  'truthfulness,  if  he  faces  the  east'  read  'truth-
+fulness, if  he  faces  the  north.'
+
+P.  58,  ch.  11,  v.  15 1,  for  'old  enough  to  be)  fathers'  read  'old  enough
+to  be  his)  fathers.'
+
+
+6 14  LAWS    OF    MANU.
+
+
+P.  94,  ch.  in,  v.  103  note,  read  at  the  end :  'agatam  apy  atithim  na
+vidyat.'
+
+P.  101,  ch.  in,  v.  141  note,  for  'paisa^i'  read  '  Paija^i.'
+
+P.  105,  ch.  in,  v.  159,  for  'substances  used  for  flavouring'  read  'con-
+diments.'
+
+P.  112,  ch.  in,  v.  202  note,/or  '  akshayayakalpate '  read '  akshayayopak.'
+
+P.  121,  ch.  in,  v.  251, for  'Rest  either  (here  or  at  home)'  read  'Take
+rest.'
+
+P.  126,  ch.  in,  v.  274  note.  The  passage  quoted  by  Vi^anejvara  on
+Yzgu.  1,  217,  is  to  the  following  effect :  '  When  the  moon  stands  in
+the  (asterism)  sacred  to  the  manes  (Magha7>)  and  the  sun  in  the
+(asterism)  Hasta,  that  lunar  day  is  sacred  to  Yama ;  it  is  called  the
+elephant's  shadow.'  Another  explanation  of  the  same  term  from
+the  Malamasatattva,  quoted  in  the  Petersburg  Dictionary,  asserts  that
+it  means  an  eclipse  of  the  sun.
+
+P.  137,  ch.  iv,  v.  55,  after  'let  him  not  take  off  his  garland'  add  '  (with
+his  own  hands).'
+
+P.  141,  ch.  iv,  v.  80  note,  add1  Regarding  the  consequences  of  giving
+spiritual  advice  to  a  Sudra,  see  also  Mah.  xiii,  10,  55.'
+
+P.  144,  ch.  iv,  note  to  vv.  95-97,  for  '  The  Pushya-day  is  the  sixth  lunar
+day  of  each  month '  read  ' The  Pushya-day  of  the  month  of  Pausha
+is  the  day  of  the  full  moon ;  see  Bapudeva  Sastri,  note  on  Suryasid-
+dhanta,  p.  94,  s.  16.'
+
+P.  147,  ch.  iv,  v.  113  note,  add  '  Some  parallel  passages  make  the  latter
+meaning  more  probable.'
+
+P.  172,  ch.  v,  v.  16  note,  add  '  For  Sajalkas  on  all  (occasions,'  Medh.,
+Gov.)  Ku.  proposes  '  Sajalkas  of  all  (kinds).'
+
+P.  182,  ch.  v,  v.  82  note,  for  'such  a  one  who  is  mentioned'  read  'such
+a  one  as  is  mentioned.'
+
+P.  189,  ch.  V,  v.  us,  for  'for  solid  things'  read  'for  things  piled  up.'
+The  commentators  give  as  examples  '  couches,  beds,  and  the  like,'
+and  apparently  refer  to  the  cushions  and  mattresses  used  for  such
+purposes.
+
+P.  199,  ch.  vi,  v.  6.  The  translation  'a  dress  made  of  bark  or  grass'
+ought  to  be  placed  in  the  text,  instead  of '  a  tattered  garment.'
+
+P.  206,  ch.  vi,  v.  43  note,  for  the  first  '  asawkasuka£ '  read  'asaw-
+kusuka£.'
+
+P.  222,  ch.  vii,  v.  43.     In  accordance  with  the  explanation  of  Medh.,
+
+'  the  science  of  dialectics,  (which  gives)  self-knowledge  '  ought  to  be
+
+inserted  in  the  text,  instead  of  'the  science  of  dialectics  and  the
+
+knowledge  of  the  (supreme)  Soul ; '  see  Introduction,  p.  xxxvii.
+
+P.  234,  ch.  vii,  v.  118  note,  insert  'or  Mahattara'  after  'Gramaku/a,'
+
+and  '  are '  before  '  the  so-called  haks.'
+P.  241,  ch.  vii,  v.  157,  for  'consists) '  read  '  (consists).*
+Pages  253,  255,  superscription,  for  'ceremonial'  read  '  criminal.'
+P.  253,  ch.  VIII,  v.  4  note,  insert  at  beginning  '  itozasyadanam.'
+P.  257,  ch.  viii,  v.  25  note,  for  '  akara '  read  '  aiara '  (twice).
+
+
+ADDITIONS    AND    CORRECTIONS.  615
+
+P.  263,  ch.  viii,  v.  53  note,  for  '  apadcram  '  read  '  ade^am.'
+
+P.  265,  ch.  viii,  v.  65  note,  for  l  includes   according  to  Nar.,  Gov.,
+
+Nand.,  Medh.  also  ascetics,'  read  '  includes  according  to  Nar.,  Gov.,
+
+Medh.  also  ascetics,  or,  refers  to  the  latter  alone,  Nand.J
+P.  288,  ch.  viii,  v.  192  note,  for  '  Nar.  takes '  read  '  Nar.  and  Nand.  take.'
+P.  292,  ch.  viii,  v.  210  note.      Add  after   the   quotation  from  Asv.
+
+Srauta-sutra,  '  Ap.  Srauta-sutra  xiii,  5,  12/
+P.  295,  ch.  viii,  v.  227  note,  dele  'Nand.  omits  this  verse  and  the  next.'
+P.  295,  ch.  viii,  v.  228  note,  add  'Nand.  omits  this  verse.'
+P.  296,  ch.  viii,  v.  237  note,  add  after  'The  jamya  is,'  'either   the
+
+wedge  at  the  yoke,  or.'
+P.  308,  ch.  viii,  v.  309  note,  for  'who  takes  the  goods  of  Brahma«as  or
+
+injures  them'  read  'who  takes  the  goods  of  Brahma«as,  injures,  or
+
+abandons  them.'
+P.  331,  ch.  ix,  v.  20  note,  add  '  The  Pratika  of  this  verse  is  quoted  by
+
+Vi.  lxxiii,  12  ;  see  also  Ap.  Srauta-sutra  1,  9,  9,  where  a  somewhat
+
+different  version  occurs.'
+P.  339,  ch.  ix,  vv.  64-68  note,  for  '  Aupa^andhani '  read  '  Aupa^anghani,'
+
+which  latter  is  the  correct  form  of  the  name.
+P.  352,  ch.  ix,  v.  128  note,  add  '  The  story  agrees  exactly  with  Mah.
+
+xii,  343,  57  ;  see  also  Vish«u-pura«a,  vol.  ii,  p.  10  (ed.  Hall).'
+P.  362,  ch.  ix,  v.  170,  for  '  Gudhotpanna'  read  '  GuJ/fo>tpanna.'
+P.  398,  ch.  ix,  v.  315  note,  add  at  end,  'see  also  Mah.  xiii,  33,  17.'
+P.  399,  ch.  ix,  v.  323.     Mah.  xn,  65,  1  seq.  recommend  ahave  deha-
+
+tyagam,  '  death  in  battle,'  for  a  king.
+P.  405,  ch.  x,  v.  19  note,  for  '  the  name  of  caste '  read  '  the  name  of  the
+
+caste.'
+P.  406,  ch.  x,  v.  22.     The  form  Li&££ivi  for  Li^/^avi  actually  occurs.
+P.  407,  ibid.,  for  '  waters  '  read  '  water.'
+P.  416,  ch.  x,  v.  64  note,  for  '  Sacred  Books   of  the  East,  11/  read
+
+1  S.  B.  E.  xiv.'
+P.  425,  ch.  x,  v.  in,  for  'offering  sacrifices  for  teaching'  read  'offering
+
+sacrifices  for,  or,  teaching.'
+P.  443,  ch.  xi,  v.  64  note,  add  '  Ya.  in,  240  favours  Nar.'s  explanation
+
+of  mahayantrapravartana.'
+P.  457,  ch.  xi,  v.  1 14,  for  '  a  spade  of  black  iron  '  read  '  a  mattock  of  black
+
+iron.'
+P.  479,  ch.  xi,  v.  242,  for  'penance'  read  ' austerity '  (twice).
+P.  480,  ch.  xi,  v.  2 50,  for  '  (that  seen)  by  Vasish/£a '  read '  the  three  verses
+
+(seen)  by  Vasish^a.'     Make  the  same  correction  in  the  note,  and  add,
+
+'  the  correct  reading  in  the  text  is  prati  tryr/'^am.'
+P.  481,  ch.  xi,  v.  253,  add  at  the  end,  or,  '  Thus,  verily  thus.'
+P.  512,  ch.  xii,  v.  120  note,  add  '  Compare  for  this  verse  and  the  next,
+
+Rig-veda  X,  90,  13-14.'
+
+
+TRANSLITERATION    OF    ORIENTAL    ALPHABETS.
+
+
+617
+
+
+Chinese.
+
+^  ^  :  :  :
+
+•       ■>•••••                              •••
+
+.a ...
+
+<u
+J?
+X
+
+/^  n  ^  «-*  n-
+
+J    t%c^c    "
+
+1
+
+D      •     •     "  '0
+
+'      -    -    lJoJ-U   '
+
+•         id    ^        *
+
+c
+0
+
+D      i\)     i  »o
+
+-    -    L)oJ-U    •                ti)
+
+1    U-Oo   •
+
+>
+
+«\  3    *>Oj    •
+
+;?    •
+
+:  :  :         J
+
+1; ;
+
+1
+
+»-,               ,     .    'bo    55    'jr      .
+
+<2s
+
+**  :  :
+
+is
+
+1
+
+|9  R?  R*  P     ■     K>     iw    .
+
+isr  ter  it  »^  iar
+
+(-■
+
+H
+i
+
+•<
+X
+
+B.
+►J
+<
+
+<
+
+2
+O
+
+55
+
+a
+
+G
+
+i
+
+u
+
+5*   J*                  "X    5     «»  H>  J8
+
+1
+
+n
+
+'bo                                         *     •
+^^bo-gjO-^^-^-c..
+
+*3                                           •       •
+
+pf
+
+H
+S
+
+O
+
+£
+
+0
+0
+
+!•••:•    '
+
+g     "    •>      •    J   .8
+
+H            .        -4-3                         ™        f— <
+
+i  •  -fi.  •  .S  £     •
+©   •  *   •  a  0     •
+
+03              _»              2         •— 1
+
+S     a     &   £
+
+h   n  w  n<   10      to
+
+::::::  3
+
+"8
+
+•          OT          ,«          2          r/>             .2    '""•'
+
+:  1  =3  1 1  11
+
+«2    S   eft   '2      d  00
+
+.  ^  eg  ^  eft    a  ©
+
+S       03       3       03       3        M                  ^
+
+°<  '3    P"  "S    ^  '3      25  S
+
+09                                                                          Sj      flj
+•In                                                                 «           +3 ^       3
+
+.£       £      S       £      ~       ~       +a             C
+
+N     00     05     O     h     (M                         CO
+rH      i-H      rH                              r- 1
+
+I
+
+r-
+
+'£
+
+a
+
+<*
+
+r— 1
+
+.5  g
+
+3
+
+IO     CD     ts.
+
+r-1      rH      1— »
+
+6l8  TRANSLITERATION    OF    ORIENTAL   ALPHABETS
+
+
+r&  .  .
+
+
+G  c;    •  r  r    .  o~tn
+
+
+,B  O  —  P\
+
+
+-
+
+
+■b
+
+
+<3    o       •  -o     D-O
+
+
+*>
+
+
+*b«-»       0
+
+
+0    -      •  •->     Do
+
+
+Sj>  tU         %,
+
+
+?  -8       e->s
+
+
+1
+
+
+«r
+
+
+^n
+
+
+|cp-    .  urtr     •  fr  |£  [g    .  &
+
+
+"Sri'S^      «0        t»
+
+
+s
+
+
+t  \
+
+O  £
+
+W  8
+
+u
+
+
+S   .2
+
+&.  a
+
+
+Oh
+
+GO
+
+
+1     I
+
+rS    2
+
+
+Oh      C
+
+
+•S  rS
+
+Oh  '55
+
+CO  03
+
+03  03
+
+
+.5    -a
+
+Oh    *S3
+
+
+55   CO
+
+
+o    'o    «  N
+
+S     S     S3  §3  .»
+
+a  £<  c
+
+co  og  ca
+
+03  03  i— I
+
+«   .  a
+
+
+a*
+02
+
+
+3      3
+
+S    £
+
+
+C5      O      t-H      (M
+i-i     <N     CM     <M
+
+
+«r)(lO(ONOOaiOH(MMr)<«3
+NNNNNNNMCOWCOWn
+
+
+FOR    THE   SACRED    BOOKS    OF    THE    EAST.
+
+
+619
+
+
+.     u
+
+•         GO
+
+'             °*  *§,    •     •
+
+S    £
+
+=+.,...
+
+£)    •    '    !    !  r    '•
+
+ja  m  m  n
+
+£>     "
+
+•     r—        .         .
+
+jk  *     ."  •%,    •'   ->   .'
+
+:■:>::
+
+<-    •
+
+.  1  ^  :  :
+
+~a  .*     •    .    •   ->    •
+
+D,  :  >  :  .
+
+<__    .
+
+•  •]  ^  :  :
+
+.  .     .  .  ^  .
+
+?
+
+•  ':!':  :
+
+>j>     .
+
+3)  <w  '.  :
+
+;  :  sir  :  5/  ^  ;
+
+:3-
+
+:     *  :T:
+
+».*
+
+?o3
+
+k>  h>  l»  hs>  &  w    •
+
+.    tr
+
+C  P  ftr  a:
+
+ST       1
+
+■     '    V-$   ff
+
+c
+
+....
+
+**   5   "*3   *§    e     »    *«
+
+.     .     .     .    s
+
+•     g    -a
+
+P.
+
+
+S     £     ^
+
+
+«w     >
+
+
+I1
+
+09    d
+
+
+*a  T3
+
+
+co     a
+
+
+9-  'e
+
+
+|3
+
+P
+
+c
+
+«
+
+.2
+
+CO
+
+.05
+'03
+
+»n       CO
+
+»     03
+
+O
+
+>
+
+a
+
+8
+
+CO
+
+"E,
+
+s
+
+co
+
+'B
+c
+
+5
+
+c3
+
+OJ
+
+3
+
+5
+
+CO
+
+CO
+
+'5
+
+■
+
+CO
+
+1
+
+O
+
+1
+
+cu
+
+3
+-4-3
+
+'3
+
+a.
+
+?
+
+>
+
+CO
+
+S
+
+<;
+
+f
+
+>
+
+00
+
+C5
+
+0
+
+r-H      <M
+
+CO
+
+rH
+
+iO    to
+
+t^.
+
+00
+
+cr-
+
+0
+
+r-H
+
+(M
+
+CO
+
+^
+
+O
+
+CO
+
+1^
+
+00
+
+03
+
+CO
+
+CO
+
+"*
+
+Ttf        ^
+
+r^
+
+^
+
+T*      T*
+
+"*
+
+T*
+
+•^
+
+«5
+
+10
+
+O
+
+10
+
+to
+
+O
+
+0
+
+10
+
+0
+
+»o
+
+620
+
+
+TRANSLITERATION    OF    ORIENTAL    ALPHABETS.
+
+
+3    <3      <u    <v
+
+
+11  |,   lj,
+
+
+-^
+
+
+•»'b
+
+
+•1  ^j  h  i
+
+
+'*>
+
+
+X   i
+
+
+c§  .a  *
+—  3
+
+
+—      .    o
+
+
+s  3  i  n.
+
+
+-N      ^
+
+
+O^r
+
+
+U)
+
+
+2/
+
+
+,-5>^
+
+
+1
+
+
+£  $  to-***- $  1^  RP  tf  h>  05     •  iv  ^tv
+
+
+ft
+
+
+>    I
+
+
+1
+
+
+O    w    JO      e3
+
+
+»    58    T    t     5    <3
+
+
+3     3
+
+
+1  *a
+
+
+I
+
+O
+
+bo
+a
+
+|  s
+
+<M    CO
+
+
+bo    >
+
+
+cj     >     bo    2
+
+bo   g>    c    >
+
+
+•°       ~       £       ,2
+
+3  3  3
+
+
+^       ^
+
+
+bo      £  -g
+
+
+to    CO
+
+
+,0     p^
+
+'       s
+
+o
+c
+
+3
+
+-1-3
+
+1
+
+o
+
+
+3
+bo
+
+c
+o
+
+rC3
+
+
+>  bD    £
+
+P  fl      3
+
+£  .2  I
+
+.5  <»
+
+eJ  bO
+
+I  'J
+
+
+a.
+(5
+
+
+4-
+
+4§  it
+
+o     tf    j  w:
+
+g    "8    *    «<
+
+*  2  §  i
+.2  «C  <&  --
+'eS    .2    «  "<:
+
+1131
+
+■s  -3  ■§  ?
+
+
+N00ffiOHNM'*
+
+
+tO<OtvOOCiO»-i<MeOTH'OOt-
+
+^-trHr~trHi-H(MCaCM<M<M<M<NC<J
+
+
+Gtlatentron   IPtess,   ©xfotlr*
+
+A  SELECTION  OF
+
+BOOKS
+
+PUBLISHED   FOR  THE  UNIVERSITY  BY
+
+HENRY    FROWDE,
+
+AT    THE    OXFORD    UNIVERSITY    PRESS    WAREHOUSE,
+AMEN    CORNER,    LONDON.
+
+ALSO  TO   BE  HAD   AT  THE
+
+CLARENDON    PRESS    DEPOSITORY,    OXFORD.
+[Every  book  is  bound  in  doth,   unless  otherwise  described. ~\
+
+
+LEXICONS,  GRAMMARS,  ORIENTAL  WORKS,  &c.
+
+Anglo-Saxon. — An  Anglo-Saxon  Dictionary,  based  on  the
+
+MS.  Collections  of  the  late  Joseph  Bosworth,  D.D.,  Professor  of  Anglo-Saxon,
+Oxford.  Edited  and  enlarged  by  Prof.  T.  N.  Toller,  M.A.  (To  be  completed
+in  four  parts.)    Parts  I-III.    A — SAR.     4to.   15J.  each.
+
+Arabic. — A  Practical  Arabic  Grammar.     Part  I.     Compiled
+
+by  A.  O.  Green,  Brigade  Major,  Royal  Engineers,  Author  of '  Modern  Arabic
+Stories.'     Second  Edition,  Enlarged  and  Revised.     Crown  8vo.  *js.  6d.
+
+Chinese.—  A  Handbook  of  the  Chinese  Language.    By  James
+
+Summers.     1863.   8vo.  half  bound,  \l.  8s.
+
+A  Record  of  Buddhistic  Kingdoms,  by  the  Chinese  Monk
+
+FA-hien.  Translated  and  annotated  by  James  Legge,  M.A.,  LL.D.  Crown
+4to.  cloth  back,  \os.  6d.
+
+ENGLISH. — A  New  English  Dictionary,  on  Historical  Prin-
+ciples: founded  mainly  on  the  materials  collected  by  the  Philological  Society.
+Edited  by  James  A.  H.  Murray,  LL.D.,  with  the  assistance  of  many  Scholars
+and  men  of  Science.  Vol.  I.  A  and  B.  Imperial  4to.  half  Morocco,
+2/.  12s.  6d.
+
+Part  IV,  Section  II,  C— CASS.     Beginning  of  Vol.  II,  $*.
+B
+
+
+CLARENDON  PRESS,  OXFORD.
+
+
+ENGLISH. — An  Etymological  Dictionary  of  the  English  Lan-
+guage.   By  W.  W.  Skeat,  Litt.D.    Second  Edition.    1884.  4to.  2/.  4*.
+
+Supplement  to  the  First  Edition  of  the  above.  4to.  2s.6d.
+
+A  Concise  Etymological  Dictionary  of  the  English  Lan-
+guage.  By  W.  W.  Skeat,  Litt.D.   Third  Edition.  1887.  Crown  8vo.  5*.  6d.
+
+Greek. — A     Greek-English    Lexicon,    by    Henry     George
+
+Liddell,  D.D.,  and  Robert  Scott,  D.D.    Seventh  Edition,  Revised  and  Aug-
+mented throughout.     1883.    4to.  il.  16s.
+
+A   Greek-English  Lexicon,  abridged  from  Liddell  and
+
+Scott's  4to.  edition,  chiefly  for  the  use  of  Schools.     Twenty-first  Edition.
+1884.     Square  1 2 mo.  ^s.6d.
+
+
+A    copious  Greek-English    Vocabulary,   compiled  from
+
+the  best  authorities.     1850.    24mo.  $s.
+
+A  Practical  Introduction  to  Greek  Accentuation,  by  H.
+
+W.  Chandler,  M.A.    Second  Edition.    1881.   8vo.    10s.  6d.
+
+Hebrew. — The  Book  of  Hebrew   Roots,  by  Abu  '1-Walid
+
+Marwan  ibn  Janah,  otherwise  called  Rabbi  Yonah.  Now  first  edited,  with  an
+Appendix,  by  Ad.  Neubauer.     1875.    4to.  2l.7s.6d.
+
+A   Treatise  on  the  use  of  the  Tenses  in  Hebrew.    By
+
+S.  R.  Driver,  D.D.    Second  Edition.   1 881.  Extra  fcap.  8vo.   p.  6d.
+
+Hebrew  Accentuation   of  Psalms,  Proverbs,   and  Job.
+
+By  William  Wickes,  D.D.     1881.    Demy  8vo.  5*.
+
+A  Treatise  on  the  Accentuation  of  the  twenty -one  so-called
+
+Prose  Books  of  the  Old  Testament.  By  William  Wickes,  D.D.  1887.  Demy
+8vo.  10s.  6d.
+
+Icelandic. — An  Icelandic- English  Dictionary,  based  on  the
+
+MS.  collections  of  the  late  Richard  Cleasby.  Enlarged  and  completed  by
+G.  Vigfusson,  M.A.  With  an  Introduction,  and  Life  of  Richard  Cleasby,  by
+G.  Webbe  Dasent,  D.C.L.    1874.  410.  3/.  p.
+
+A  List  of  English  Words  the  Etymology  of  which  is
+
+illustrated  by  comparison  with  Icelandic.  Prepared  in  the  form  of  an
+Appendix  to  the  above.    By  W.  W.  Skeat,  Litt.D.    1876.  stitched,  2s.
+
+An    Icelandic    Primer,    with     Grammar,   Notes,    and
+
+Glossary.    By  Henry  Sweet,  M.A.    Extra  fcap.  8vo.  $s.  6d.
+
+An  Icelandic  Prose  Reader,  with  Notes,  Grammar  and
+
+Glossary,  by  Dr.  Gudbrand  Vigfusson  and  F.  York  Powell,  M.A.  1879.
+Extra  fcap.  8vo.  10s.  6d.
+
+Latin. — A  Latin  Dictionary,  founded  on  Andrews'  edition
+
+of  Freund's  Latin  Dictionary,  revised,  enlarged,  and  in  great  part  rewritten
+by  Charlton  T.  Lewis,  Ph.D.,  and  Charles  Short,  LL.D.   1879.  4to.  1/.  5*.
+
+
+CLARENDON  PRESS,  OXFORD.
+
+
+MELANESIAN. — The    Melanesian    Languages.       By    R.    H.
+
+Codrington,  D.D.,  of  the  Melanesian  Mission.     8vo.  i8j.
+
+Sanskrit. — A  Practical  Grammar  of  the  Sanskrit  Language,
+
+arranged  with  reference  to  the  Classical  Languages  of  Europe,  for  the  use  of
+English  Students,  by  Sir  M.  Monier-Williams,  M.A.  Fourth  Edition.  8vo.
+15*.
+
+
+—  A    Sanskrit-English  Dictionary,    Etymologically    and
+
+Philologically  arranged,  with  special  reference  to  Greek,  Latin,  German,  Anglo-
+Saxon,  English,  and  other  cognate  Indo-European  Languages.  By  Sir  M.
+Monier-Williams,  M.A.     1888.  4*0.  4/.  14J.  6d.
+
+Nalopdkhydnam.       Story    of    Nala,    an    Episode     of
+
+
+the  Maha-Bharata :  the  Sanskrit  text,  with  a  copious  Vocabulary,  and  an
+improved  version  of  Dean  Milman's  Translation,  by  Sir  M.  Monier-Williams,
+M.A.     Second  Edition,  Revised  and  Improved.     1879.  8vo.  15*.
+
+Sakuntala.    A  Sanskrit  Drama,  in  Seven  Acts.    Edited
+
+by  Sir  M.  Monier-Williams,  M.A.     Second  Edition,  1876.    8vo.  21s.
+
+SYRIAC. — Thesaurus  Syriacus :  collegerunt  Quatremere,  Bern-
+stein, Lorsbach,  Arnoldi,  Agrell,  Field,  Roediger:    edidit  R.  Payne  Smith,
+S.T.P.   Fasc.  I-VI.   1868-83.  sm.  fol.  each,  il.  is.   Fasc.  VII.  1l.us.6d.
+Vol.  I,  containing  Fasc.  I-V,  sm.  fol.  5/.  5*.
+
+The  Book  of  Kalilah  and  Dimnah.  Translated  from  Arabic
+
+into  Syriac.     Edited  by  W.  Wright,  LL.D.     1884.  8vo.  21s.
+
+
+GREEK  CLASSICS,  &c.
+
+Aristophanes:    A   Complete  Concordance   to   the  Comedies
+
+and  Fragments.     By  Henry  Dunbar,  M.D.     4to.  1/.  is.
+
+Aristotle:    The  Politics,  with  Introductions,  Notes,  etc.,  by
+
+W.  L.  Newman,  M.A.,  Fellow  of  Balliol  College,  Oxford.    Vols.  I.  and  II.
+Medium  8vo.  28^.
+
+Aristotle:  The  Politics,  translated  into  English,  with  Intro-
+duction, Marginal  Analysis,  Notes,  and  Indices,  by  B.  Jowett,  M.A.  Medium
+8vo.     2  vols.  2 1  j.
+
+Catalogus    Codicum    Graecorum    Sinaiticorum.      Scripsit   V.
+
+Gardthausen  Lipsiensis.     With  six  pages  of  Facsimiles.     8vo.  linen,  2  §s.
+
+Heracliti  Ephesii  Reliquiae.     Recensuit    I.    By  water,   M.A.
+
+Appendicis  loco  additae  sunt  Diogenis  Laertii  Vita  Heracliti,  Particulae  Hip-
+pocratei  De  Diaeta  Libri  Primi,  Epistolae  Heracliteae.  1877.  8vo.  6s.
+
+Herculanensium  Voluminum  Partes  II.  1824.  8vo.  ioj.
+
+B  2
+
+
+CLARENDON  PRESS,  OXFORD.
+
+
+Fragmenta  Herculanensia.     A  Descriptive  Catalogue  of  the
+
+Oxford  copies  of  the  Herculanean  Rolls,  together  with  the  texts  of  several
+papyri,  accompanied  by  facsimiles.  Edited  by  Walter  Scott,  M.A.,  Fellow
+of  Merton  College,  Oxford.     Royal  8vo.  cloth,  21s.
+
+Homer:    A    Complete   Concordance    to    the   Odyssey    and
+
+Hymns  of  Homer  ;  to  which  is  added  a  Concordance  to  the  Parallel  Passages
+in  the  Iliad,  Odyssey,  and  Hymns.  By  Henry  Dunbar,  M.D.    1880.   4to.  i/.  is.
+
+Scholia    Graeca  in  Iliadem.     Edited   by   Professor   W.
+
+Dindorf,  after  a  new  collation  of  the  Venetian  MSS.  by  D.  B.  Monro,  M.A.,
+Provost  of  Oriel  College.   4  vols.  8vo.  2/.  10s.    Vols.  V  and  VI.    In  the  Press.
+
+
+Scholia  Graeca  in  Odysseam.     Edidit  Guil.  Dindorfius.
+
+Tomi  II.     1855.  8vo.    15s.  6d.
+
+Plato :  Apology,  with  a  revised  Text  and  English  Notes,  and
+
+a  Digest  of  Platonic  Idioms,  by  James  Riddell,  M.A.    1878.  8vo.  8s.  6d.
+
+Philebus,  with  a  revised  Text  and  English  Notes,  by
+
+Edward  Poste,  M.A.     i860.    8vo.  7*.  6d.
+
+Sopliistes  and  Politicus,  with  a  revised  Text  and  English
+
+Notes,  by  L.  Campbell,  M.A.     1867.    Svo.  18*.
+
+Theaetetus,  with  a  revised  Text  and   English   Notes,
+
+
+by  L.  Campbell,  M.A.    Second  Edition.   8vo.  10s.  6d.
+
+
+-   The  Dialogues,  translated  into  English,  with  Analyses
+
+and  Introductions,  by  B.  Jowcit,  M.A.    A  new  Edition  in  5  volumes,  medium
+8vo.    1875.    3/.  \os.
+
+The  Republic,  translated  into  English,  with  an  Analysis
+
+
+and  Introduction,  by  B.  Jowett,  M.A.    Medium  Svo.    \2s.  6d.
+
+Thucydides :    Translated    into    English,   with    Introduction,
+
+Marginal  Analysis,  Notes,  and  Indices.    By  B.  Jowett,  M.A.    2  vols.    1881.
+Medium  Svo.    1/.  12s.
+
+
+THE    HOLY  SCRIPTURES,  &c.
+
+Studia  Biblica. — Essays  in  Biblical  Archaeology  and  Criti-
+cism, and  kindred  subjects.  By  Members  of  the  University  of  Oxford.  8vo.
+10 s.  6d.
+
+ENGLISH. — The  Holy  Bible  in  the  earliest  English  Versions,
+
+made  from  the  Latin  Vulgate  by  John  Wycliffe  and  his  followers  :  edited  by
+the  Rev.  J.  Forshall  and  Sir  F.  Madden.  4  vols.  1850.  Royal  4to.  3/.  3J.
+
+
+CLARENDON  PRESS,  OXFORD.
+
+
+[Also  reprinted  from  the  above,  with  Introduction  and  Glossary
+by  W.  W.  Skeat,  Litt.  D.
+
+ENGLISH. — The  Books  of  Job,  Psalms,  Proverbs,  Ecclesiastes,
+
+and  the  Song  of  Solomon:  according  to  the  Wycliffite  Version  made  by  Nicholas
+de  Hereford,  about  a.d.  1381,  and  Revised  by  John  Purvey,  about  A.D.  1388.
+Extra  fcap.  8vo.     3s.  6d.
+
+The  New  Testament  in  English,  according  to  the  Version
+
+by  John  Wycliffe,  about  A.D.  1380,  and  Revised  by  John  Purvey,  about  a.d.
+1388.    Extra  fcap.   8vo.    6*.]
+
+
+The   Holy  Bible:    an    exact    reprint,    page    for   page,
+
+of  the  Authorised  Version  published  in  the  year  161 1.  Demy  4to.  half  bound,
+\l.  is.
+
+The  Psalter,  or  Psalms  of  David,  and  certain  Canticles,
+
+with  a  Translation  and  Exposition  in  English,  by  Richard  Rolle  of  Hampole.
+Edited  by  H.  R.  Bramley,  M.A.,  Fellow  of  S.  M.  Magdalen  College,  Oxford.
+With  an  Introduction  and  Glossary.     Demy  8vo.    1/.  IS,
+
+Lectures  on  the  Book  of  Job.     Delivered  in  Westminster
+
+Abbey  by  the  Very  Rev.  George  Granville  Bradley,  D.D.,  Dean  of  West-
+minster.    Crown  8vo.  Js.  6d.
+
+Lectures  on  Ecclesiastes.     By  the  same  Author.     Crown
+
+8vo.  4J.  6d.
+
+Gothic. — The  Gospel  of  St.  Mark  in   Gothic ■,  according  to
+
+the  translation  made  by  Wulfila  in  the  Fourth  Century.  Edited  with  a
+Grammatical  Introduction  and  Glossarial  Index  by  W.  W.  Skeat,  Litt.  D.
+Extra  fcap.  8vo.  4J.
+
+GREEK. —  Vetus  Testamentum  ex  Versione  Septuaginta  Inter-
+
+pretum  secundum  exemplar  Vaticanum  Romae  editum.  Accedit  potior  varietas
+Codicis  Alexandrini.  Tomi  III.  Editio  Altera.  i8mo.  18s.  The  volumes
+may  be  had  separately,  price  6s.  each.
+
+Origenis  Hexaplorum  quae   supersunt ;    sive,  Veternm
+
+Interpretum  Graecorum  in  totum  Vetus  Testamentum  Fragmenta.  Edidit
+Fridericus  Field,  A.M.     2  vols.     1875.    4to-   5^-  5J*
+
+The   Book  of   Wisdom:    the   Greek  Text,   the   Latin
+
+Vulgate,  and  the  Authorised  English  Version ;  with  an  Introduction,  Critical
+Apparatus,  and  a  Commentary.  By  William  J.  Deane.M.A.  Small 4to.  \zs.  6d.
+
+Novum  Testamentum  Graece.  Antiquissimorum  Codicum
+
+Textus  in  ordine  parallelo  dispositi.  Accedit  collatio  Codicis  Sinaitici.  Edidit
+E.  H.  Hansell,  S.T.B.   Tomi  III.   1864.    8vo.  24J.
+
+
+Novum  Testamentum  Graece.     Accedunt  parallela
+
+
+Scripturae  loca,  etc.     Edidit  Carolus  Lloyd,  S.T.P.R.    i8mo.  3^.
+On  writing  paper,  with  wide  margin,  ioj.
+
+
+CLARENDON  PRESS,  OXFORD.
+
+
+Greek. — Novum  Testamentum  Graece  juxta  Exemplar  Millia-
+
+num.     i8mo.   is.  6d.     On  writing  paper,  with  wide  margin,  gs.
+
+Evangelia  Sacra  Graece.     Fcap.  8vo.  limp,  is.  6d.
+
+The  Greek  Testament,  with  the  Readings  adopted  by
+
+the  Revisers  of  the  Authorised  Version : —
+
+(i)  Pica  type,  with  Marginal  Reference?.    Demy  8vo.  ioj.  6d.
+
+(2)  Long  Primer  type.    Fcap.  8vo.   4s.  6d.
+
+(3)  The  same,  on  writing  paper,  with  wide  margin,  15s.
+
+The  Parallel  New  Testament,  Greek  and  English  ;  being
+
+the  Authorised  Version,  161 1;  the  Revised  Version,  1881;  and  the  Greek
+Text  followed  in  the  Revised  Version.    8vo.    12s.  6d.
+
+The  Revised  Version  is  the  joint  property  of  the  Universities  of  Oxford  and  Cambridge.
+
+Canon   Muratorianns :    the   earliest   Catalogue   of  the
+
+Books  of  the  New  Testament.  Edited  with  Notes  and  a  Facsimile  of  the
+MS.  in  the  Ambrosian  Library  at  Milan,  by  S.  P.  Tregelles,  LL.D.  1867.
+4to.  10s.  6d.
+
+
+Outlines  of  Textual  Criticism  applied  to  the  New  Testa-
+ment.    By  C.  E.  Hammond,  M.A.  Fourth  Edition.    Extra  fcap.  8vo.  3.?.  6d.
+
+Hebrew,  etc. — Notes  on   the  Hebrew  Text  of  the  Book  of
+
+Genesis.  With  Two  Appendices.  By  G.  J.  Spurrell,  M.A.  Crown  8vo.
+ioj-.  6d.
+
+The  Psalms  in  Hebrew  without  points.     1879.     Crown
+
+8vo.  Price  reduced  to  2s.,  in  stiff  cover.
+
+A  Commentary  on   the  Book  of  Proverbs.    Attributed
+
+to  Abraham  Ibn  Ezra.  Edited  from  a  MS.  in  the  Bodleian  Library  by
+S.  R.  Driver,  M.A.     Crown  8vo.    paper  covers,  $s.  6d.
+
+The  Book  of  Tobit.    A  Chaldee  Text,  from  a  unique
+
+MS.  in  the  Bodleian  Library ;  with  other  Rabbinical  Texts,  English  Transla-
+tions, and  the  Itala.    Edited  by  Ad.  Neubauer,  M.A.   1878.   Crown  8vo.  6s.
+
+Horae  Hebraic ae  et  Talmudicae,  a  J.  Lightfoot.    A  new
+
+Edition,  by  R.  Gandell,  M.A.    4  vols.    1859.  8vo.  \l.  is.
+
+Latin. — Libri  Psalmorum  Versio  antiqua  Latina,  cum  Para-
+
+phrasi  Anglo-Saxonica.    Edidit  B.  Thorpe,  F.A.S.     1835.    8vo.  io.r.  6aT.
+
+Old-Latin  Biblical  Texts:  No.  I.  The  Gospel  according
+
+to  St.  Matthew  from  the  St.  Germain  MS.  (g,).  Edited  with  Introduction
+and  Appendices  by  John  Wordsworth,  D.D.     Small  4to.,  stiff  covers,  6s.
+
+Old-Latin  Biblical  Texts:  No.  IL.  Portions  of  the  Gospels
+
+according  to  St.  Mark  and  St.  Matthew,  from  the  Bobbio  MS.  (k),  &c.
+Edited  by  John  Wordsworth,  D.D.,  W.  Sanday,  M.A.,  D.D.,  and  H.  J.  White,
+M.A.     Small  4to.,  stiff  covers,  21s.
+
+
+CLARENDON  PRESS,  OXFORD.
+
+
+Latin.— Old-Latin    Biblical    Texts:    No.  ILL      The    Four
+
+Gospels,  from  the  Munich  MS.  (q),  now  numbered  Lat.  6224  in  the  Royal
+Library  at  Munich.  With  a  Fragment  from  St.  John  in  the  Hof-Bibliothek  at
+Vienna  (Cod.  Lat.  502).  Edited,  with  the  aid  of  Tischendorfs  transcript
+(under  the  direction  of  the  Bishop  of  Salisbury),  by  H.  J.  White,  M.A.  Small
+4to.  stiff  covers,  1 2 s.  6d.
+
+Old-French. — Libri  Psalmorum  Versio  antiqua  Gallica  e
+
+Cod.  MS.  in  Bibl.  Bodleiana  adservato,  una  cum  Versione  Metrica  aiiisque
+Monumentis  pervetustis.  Nunc  primum  descripsit  et  edidit  Franciscus  Michel,
+Phil.  Doc.     i860.  8vo.   \os.  6d.
+
+
+FATHERS  OP  THE  CHURCH,  &c.
+
+St.  Athanasius :  Historical  Writings,  according  to  the  Bene-
+dictine Text.  With  an  Introduction  by  William  Bright,  D.D.  1881.  Crown
+8vo.  10s.  6d.
+
+Orations  against  the  Arians*    With  an  Account  of  his
+
+Life  by  William  Bright,  D.D.     1873.  Crown  8vo.  9*.
+
+St.  Augustine:  Select  Anti- Pelagian  Treatises,  and  the  Acts
+
+of  the  Second  Council  of  Orange.    With  an  Introduction  by  William  Bright,
+D.D.    Crown  8vo.  gs.
+
+Canons  of  the  First  Four  General  Councils  of  Nicaea,  Con-
+stantinople, Ephesus, and  Chalcedon.   1877.  Crown  8vo.  2s.  6d.
+
+Notes  on  the  Canons  of  the  First  Four  General  Councils.
+
+By  William  Bright,  D.D.    1882.    Crown  8vo.  5*.  6d.
+
+Cyrilli  Archiepiscopi  Alexandrini  in  XIL  Prophetas.     Edidit
+
+P.  E.  Pusey,  A.M.    Tomi  II.     1868.  8vo.  cloth,  2/.  is.
+
+in  D.  jfoannis  Evangelium.    Accedunt  Fragmenta  varia
+
+necnon    Tractatus   ad  Tiberium   Diaconum   duo.      Edidit  post  Aubertum
+P.  E.  Pusey,  A.M.    Tomi  III.     1872.  8vo.  2/.  5*.
+
+
+Commentarii   in    Lucae   Evangelium    quae    supersunt
+
+Syriace.    E  MSS.  apud  Mus.  Britan.  edidit  R.  Payne  Smith,  A.M.     1858.
+4to.   1/.  IS.
+
+Translated  by  R.  Payne  Smith,  M.A.     %  vols.     1859.
+
+8vo.  14J.
+
+Ephraemi  Syri,  Rabulae  Episcopi  Edesseni,  Balaei,  aliorum-
+
+que  Opera  Selecta.    E  Codd.  Syriacis  MSS.  in  Museo  Britannico  et  Bibliotheca
+Bodleiana  asservatis  primus  edidit  J.  J.  Overbeck.     1865.  8vo.   1/.  is.
+
+
+8  CLARENDON  PRESS,  OXFORD.
+
+Eusebius'   Ecclesiastical  History,  according  to    the  text   of
+
+Burton,  with  an  Introduction  by  William  Bright,  D.D.  1881.  Crown  8vo.
+8j.  6d.
+
+Irenaens:  The  Third  Book  of  St.Irenaeus,  Bishop  of  Lyons,
+
+against  Heresies.  With  short  Notes  and  a  Glossary  by  H.  Deane,  B.D.
+1874.  Crown  8vo.   5-y.  6d.
+
+Patmm   Apostolicorum,    S.   Clementis    Romani,    S.  Ignatii,
+
+S.  Polycarpi,  quae  supersunt.  Edidit  Guil.  Jacobson,  S.T.P.R.  Tomi  II.
+Fourth  Edition,  1863.  8vo.   \l.  is.
+
+Socrates1  Ecclesiastical  History,  according  to   the   Text   of
+
+Hussey,  with  an  Introduction  by  William  Bright,  D.D.  1878.  Crown  8 vo.
+7j.  6/f.
+
+ECCLESIASTICAL  HISTORY,  BIOGRAPHY,  &c.
+
+Ancient  Liturgy  of  the  Church  of  England,  according  to  the
+
+uses  of  Sarum,  York,  Hereford,  and  Bangor,  and  the  Roman  Liturgy  arranged
+in  parallel  columns,  with  preface  and  notes.  By  William  Maskell,  M.A.
+Third  Edition.     1882.   8vo.  15*.
+
+Baedae  Historia  Ecclesiastica.     Edited,  with  English  Notes,
+
+by  G.  H.  Moberly,  M.A.  1881.  Crown  8vo.  10s.  6d.
+
+Bright  (W.).     Chapters  of  Early  English    Church  History.
+
+1878.    8vO.    I2J.
+
+Burnet's  History  of  the  Reformation  of  the  Church  of  England.
+
+A  new  Edition.  Carefully  revised,  and  the  Records  collated  with  the  originals,
+by  N.  Pocock,  M.A.     7  vols.  1865.   8vo.  Price  redticedto  it.  \os.
+
+Councils  and  Ecclesiastical  Documents  relating  to  Great  Britain
+
+and  Ireland.  Edited,  after  Spelman  and  Wilkins,  by  A.  W.  Haddan,  B.D.,
+and  W.  Stubbs,  M.A.  Vols.  I.  and  III.   1869-71.  Medium  8vo.  each  1/.  is.
+
+Vol.  II.  Part  I.  1873.  Medium  8vo.    iar.  6d.
+
+Vol.  II.  Part  II.   1878.  Church  of  Ireland;  Memorials  of  St.  Patrick.
+Stiff  covers,  ^s.  6d.
+
+Hamilton  {John,  Archbishop  of  St.  Andrews),  The  Catechism
+
+of.  Edited,  with  Introduction  and  Glossary,  by  Thomas  Graves  Law.  With
+a  Preface  by  the  Right  Hon.  W.  E.  Gladstone.    8vo.  1 2s.  6d.
+
+Hammond  (C.  E.).    Liturgies,  Eastern  and  Western.    Edited,
+
+with  Introduction, Notes,  and  Liturgical  Glossary.  1878.  Crown  8vo.  ioj.  6d.
+An  Appendix  to  the  above.    1879.  Crown  8vo.  paper  covers,  is.  6d.
+
+John,  Bishop  of  Ephesus.  The  Third  Part  of  his  Eccle-
+siastical History.  [In  Syriac]  Now  first  edited  by  William  Cureton,  M.A.
+1853.  4to.  1/.  I2J.
+
+Translated  by  R.  Payne  Smith,  M.A.     i860.  8vo.  \os.
+
+
+CLARENDON  PRESS,  OXFORD.
+
+
+Leofric  Missal,   The,  as  used   in   the   Cathedral  of  Exeter
+
+during  the  Episcopate  of  its  first  Bishop,  a.d.  1050-1072 ;  together  with  some
+Account  of  the  Red  Book  of  Derby,  the  Missal  of  Robert  of  Jumieges,  and  a
+few  other  early  MS.  Service  Books  of  the  English  Church.  Edited,  with  In-
+troduction and  Notes,  by  F.  E.  Warren,  B.D.    4to.  half  morocco,  35^-.
+
+Monnmenta  Ritualia  Ecclesiae  Anglicanae.     The   occasional
+
+Offices  of  the  Church  of  England  according  to  the  old  use  of  Salisbury,  the
+Prymer  in  English,  and  other  prayers  and  forms,  with  dissertations  and  notes.
+By  William  Maskell,  M.A.    Second  Edition.     1882.  3  vols.  8vo.  2/.  \os.
+
+Records  of  the  Reformation.  The  Divorce,  1527-1533.  Mostly
+
+now  for  the  first  time  printed  from  MSS.  in  the  British  Museum  and  other
+libraries.  Collected  and  arranged  by  N.  Pocock,  M.A.  1870.  2  vols.  8vo.
+U.  1 6  j.
+
+Shirley  (  W.  W.).   Some  Account  of  the  Church  in  the  Apostolic
+
+Age.     Second  Edition,  1874.  Fcap.  8vo.  3s.  6d.
+
+Stubbs  (  W.).    Registrum  Sacrum  Anglicanum.     An  attempt
+
+to  exhibit  the  course  of  Episcopal  Succession  in  England.  1858.  Small  4to.
+8s.  6d.
+
+Warren  (F.  E.).    Liturgy  and  Ritual  of  the  Celtic  Church.
+
+1 88 1.  8vo.  14J.
+
+ENGLISH    THEOLOGY.
+
+Bampton  Lectures,  1886.     The  Christian  Platonists  of  Alex-
+andria.    By  Charles  Bigg,  D.D.    Svo.  ioj.  6d.
+
+Butler's  Works,  with  an  Index  to  the  Analogy.    2  vols.  1874.
+
+8vo.  us.
+
+Also  separately,
+
+Sermons,  $s.  6d.  Analogy  of  Religion,  $s.  6d.
+
+Greswetts  Harmonia  Evangelic  a.    Fifth  Edition.  8vo.  9^.  6d.
+Heurtlefs  Harmonia   Symbolical    Creeds    of    the   Western
+
+Church.    1858.    8vo.  6s.  6d.
+
+Homilies   appointed    to    be    read   in    Churches,     Edited    by
+
+J.  Griffiths,  M.A.    1859.  8vo.  7-r.  6d.
+
+Hooker's  Works,  with  his  life  by  Walton,  arranged  by  John
+
+Keble,  M.A.  Seventh  Edition.  Revised  by  R.  W.  Church,  M.A.,  D.C.L.,
+Dean  of  St.  Paul's,  and  F.  Paget,  D.D.     3  vols,  medium  8vo.  36*.
+
+Hookers  Works,  the  text  as  arranged  by  John  Keble,  M.A.
+
+2  vols.  1875.  8vo.   lis.
+
+Jewel's  Works.     Edited  by  R.  W.  Jelf,  D.D.     8  vols.    1848.
+
+8vo.  1/.  10  s.
+
+
+io  CLARENDON  PRESS,  OXFORD.
+
+
+Pearson's  Exposition  of  the  Creed.    Revised  and  corrected  by
+
+E.  Burton,  D.D.   Sixth  Edition,  1877.  8vo.   10s.  6d.
+
+Waterland's  Review  of  the  Doctrine  of  the  Eucharist,  with
+
+a  Preface  by  the  late  Bishop  of  London.    Crown  8vo.  6s.  6d.
+
+Works,  with  Life,  by  Bp.  Van  Mildert.    A  new  Edition,
+
+
+with  copious  Indexes.    6  vols.     1856.    8vo.    2I.  11s.
+
+Wheatlys  Illustration  of  the  Book  of  Common  Prayer.    A  new
+
+Edition,  1846.  8vo.  fj.
+
+Wyclif.    A  Catalogue  of  the  Original  Works  of  John  Wyclif
+
+by  W.  W.  Shirley,  D.D.     1865.  8vo.  p.  6d.
+
+Select  English    Works.     By  T.  Arnold,  M.A.   3  vols,
+
+1869-1871.  8vo.      i/.  is.
+
+Trialogus.    With    the  Supplement    now  first  edited.
+
+
+By  Gotthard  Lechler.   1869.   8vo.    js.
+
+
+HISTORICAL   AND   DOCUMENTARY   WORKS.
+
+British  Barrows,  a  Record  of  the  Examination  of  Sepulchral
+
+Mounds  in  various  parts  of  England.  By  William  Greenwell,  M.A.,  F.S.A.
+Together  with  Description  of  Figures  of  Skulls,  General  Remarks  on  Pre-
+historic Crania,  and  an  Appendix  by  George  Rolleston,  M.D.,  F.R.S.  1877.
+Medium  8vo.  25*.
+
+Clarendon's   History  of    the   Rebellion    and    Civil  Wars    in
+
+England.  Re-edited  from  a  fresh  Collation  of  the  Original  MS.  in  the
+Bodleian  Library,  with  Marginal  Dates,  and  Occasional  Notes,  by  W.  Dunn
+Macray,  M.A.,  F.S.A.     In  six  volumes,  crown  8vo.  cloth,  2/.  5*.
+
+Clarendon's  History   of   the  Rebellion    and    Civil   Wars    in
+
+England.  Also  his  Life,  written  by  himself,  in  which  is  included  a  Con-
+tinuation of  his  History  of  the  Grand  Rebellion.  With  copious  Indexes.
+In  one  volume,  royal  8vo.  1842.  il.is.
+
+Clinto7is  Epitome  of  the  Fasti  Hellcnici.      1 85 1 .     8vo.   6s.  6d.
+Epitome  of  the  Fasti  Romani.     1854.     8vo.  Js.
+
+
+Corpvs  Poeticvm  Boreale.    The  Poetry  of  the  Old  Northern
+
+Tongue,  from  the  Earliest  Times  to  the  Thirteenth  Century.  Edited,  clas-
+sified, and  translated,  with  Introduction,  Excursus,  and  Notes,  by  Gudbrand
+Vigfusson,  M.A.,  and  F.  York  Powell,  M.A.     2  vols.     1883.  8vo.  42 s.
+
+Earle  {jf.,  M.A.).     A  Handbook  to  the  Land- Charters,  and
+
+other  Saxonic  Documents.     Crown  8vo.  cloth,  16s.
+
+
+CLARENDON  PRESS,  OXFORD.  n
+
+Freeman  (E.  A.).    History  of  the  Norman  Conquest  of  Eng-
+land; its  Causes  and  Results.    In  Six  Volumes.  8vo.  5/.  gs.  6d.
+
+The  Reign  of   William  Rufus  and  the  Accession   of
+
+
+Henry  the  First.     2  vols.  8vo.  il.i6s.
+
+Gascoigne's     Theological    Dictionary    ("Liber    Veritatum"):
+
+Selected  Passages,  illustrating  the  condition  of  Church  and  State,  1403-1458.
+With  an  Introduction  by  James  E.  Thorold  Rogers,  M.A.  Small  4to.
+ioj\  6d.
+
+Johnson    (Samuel,   JLL.D.),    BosweWs    Life    of;     including
+
+Boswell's  Journal  of  a  Tour  to  the  Hebrides,  and  Johnson's  Diary  of  a
+Journey  into  North  Wales.  Edited  by  G.  Birkbeck  Hill,  D.C.L.  In  six
+volumes,  medium  8vo.  With  Portraits  and  Facsimiles  of  Handwriting.
+Half  bound,  3/.  3s.     (See  p.  21.)
+
+Magna  Carta,  a  careful  Reprint.    Edited  by  W.  Stubbs,  D.D.
+
+1879.   4to-  stitched,  1  j.
+
+Passio  et  Miracula  Beati  Olaui.  Edited  from  a  Twelfth-
+Century  MS.  in  the  Library  of  Corpus  Christi  College,  Oxford,  by
+Frederick  Metcalfe,  M.A.     Small  4to.  stiff  covers,  6s.
+
+Protests  of  the  Lords,  including  those  which  have  been  ex-
+punged, from  1624  to  1874;  with  Historical  Introductions.  Edited  by  James
+E.  Thorold  Rogers,  M.A.   1875.   3  vols.  8vo.  2/.  2s.
+
+Rogers  (J.  E.  T).     History  of  Agriculture  and  Prices  in
+
+England,  AD.  1 259-1 793.
+
+Vols.  I — VI  (1 259-1 702).  8vo.  7/.  2s.
+
+The  First  Nine  Years  of  the  Bank  of  England.  8vo.  8s.  6d.
+
+Stubbs   (W.,  D.D.).      Seventeen   Lectures   on   the  Study  of
+
+Medieval  and  Modern  History,  &c,  delivered  at  Oxford  186 7-1 884.  Crown
+8vo.  8s.  6d.
+
+Sturlunga  Saga,  including  the  Islendinga  Saga  of  Lawman
+
+Sturla  Thordsson  and  other  works.  Edited  by  Dr.  Gudbrand  Vigfusson.
+In  2  vols.     1878.  8vo.   2/.  is.
+
+York  Plays.    The  Plays  performed  by  the  Crafts  or  Mysteries
+
+of  York  on  the  day  of  Corpus  Christi  in  the  14th,  15th,  and  16th  centuries.
+Now  first  printed  from  the  unique  MS.  in  the  Library  of  Lord  Ashburnham.
+Edited  with  Introduction  and  Glossary  by  LucyToulmin  Smith.     8vo.  21s.
+
+
+Manuscript  Materials    relating    to    the    History    of  Oxford.
+
+Arranged  by  F.  Madan,  M.A.     8vo.  'js.  6d.
+
+Statutes  of  the  University  of  Oxford,  codified  in  the  year  1636
+
+under  the  authority  of  Archbishop  Laud.  Edited  by  the  late  J.  Griffiths,
+D.D.,  with  an  Introduction  on  the  History  of  the  Laudian  Code,  by  C.  L.
+Shadwell,  M.A.,  B.C.L.    4to.  il.  is.
+
+
+12  CLARENDON  PRESS,  OXFORD.
+
+Statutes  made  for  the  University  of  Oxford,  and  for  the  Colleges
+
+and  Halls  therein,  by  the  University  of  Oxford  Commissioners.     1882.    8vo.
+12s.  6d.
+
+Statutes  supplementary  to  the  above,  approved  by  the  Queen  in
+
+Council,  1 882-1 888.     8vo.  2s.  6d.
+
+Statu ta  Universitatis  Oxoniensis.     1888.     8vo.  $s.
+
+The  Oxford  University  Calendar  for  the  year  1888.     Crown
+
+8vo.  4  j.  6d.
+
+The  present  Edition  includes  all  Class  Lists  and  other  University  distinctions
+for  the  eight  years  ending  with  1887.
+
+Also,  supplementary  to  the  above,  price  5s.  (pp.  606),
+
+The  Honours  Register  of  the  University  of  Oxford.  A  complete
+
+Record  of  University  Honours,  Officers,  Distinctions,  and  Class  Lists;  of  the
+Heads  of  Colleges,  &c.,  &c,  from  the  Thirteenth  Century  to  1883.
+
+The  Examination  Statutes  for  the  Degrees  of  B.A.,  B.  Mus.,
+
+B.C.L.,  and  B.M.     Revised  to  the  end  of  Michaelmas  Term,  1887.     8vo.
+sewed,  is.
+
+The  Students  Handbook  to  the  University  and  Colleges  of
+
+Oxford.     Ninth  Edition.     Crown  8vo.     2s.  6d.
+
+
+MATHEMATICS,  PHYSICAL  SCIENCE,  &e.
+
+Acland(H.  W.,  M.D.,  F.R.S.).     Synopsis  of  the  Pathological
+
+Series  in  the  Oxford  Museum.     1867.    8vo.  2s.  6d.
+
+Annals  of  Botany.     Edited  by  Isaac   Bayley  Balfour,  M.A.,
+
+M.D.,  F.R.S.,  Sydney  H.  Vines,  D.Sc,  F.R.S.,  and  William  Gilson  Farlow,
+M.D.,  Professor  of  Cryptogamic  Botany  in  Harvard  University,  Cambridge,
+Mass.,  U.S.A.,  and  other  Botanists.    Royal  8vo.    Vol.  L,  half  morocco,  1/.  i6j.
+Vol.  II.  No.  1.    Just  Published.
+
+Bur  don- Sander  son  (J.,  M.D.,  F.R.SS.  L.  and  E.).  Transla-
+tions of  Foreign  Biological  Memoirs.  I.  Memoirs  on  the  Physiology  of  Nerve,
+of  Muscle,  and  of  the  Electrical  Organ.     Medium  8vo.  2  is.
+
+De  Bary  (Dr.  A.).     Comparative  Anatomy  of  the   Vegetative
+
+Organs  of  the  Phanerogams  and  Ferns.  Translated  and  Annotated  by  F.  O.
+Bower,  M.A.,  F.L.S.,  and  D.  H.  Scott,  M.A.,  Ph.D.,  F.L.S.  With  241
+woodcuts  and  an  Index.    Royal  8vo.,  half  morocco,  1/.  2s.  6d.
+
+
+CLARENDON  PRESS,  OXFORD.  13
+
+De  Bary  [Dr.  A.)    Comparative  Morphology  and  Biology  of  the
+
+Fungi  Mycetozoa  and  Bacteria.  Authorised  English  Translation  by  Henry
+E.  F.  Garnsey,  M.A.  Revised  by  Isaac  Bayley  Balfour,  M.A.,  M.D.,  F.R.S.
+With  198  Woodcuts.     Royal  8vo.,  half  morocco,  i/.  2s.  6d.
+
+Lectures  on  Bacteria.  Second  improved  edition.  Au-
+thorised translation  by  H.  E.  F.  Garnsey,  M.A.  Revised  by  Isaac  Bayley
+Balfour,  M.A.,  M.D.,  F.R.S.     With  20  Woodcuts.     Crown  8vo.  6s.
+
+Goebel  {Dr.  K.).  Outlines  of  Classification  and  Special  Mor-
+phology of  Plants.  A  New  Edition  of  Sachs'  Text  Book  of  Botany,  Book  II.
+English  Translation  by  H.  E.  F.  Garnsey,  M.A.  Revised  by  I.  Bayley  Balfour,
+M.A.,  M.D.,  F.R.S.     With  407  Woodcuts.     Royal  8vo.  half  morocco,  21s.
+
+M idler  (J.).     On  certain  Variations  in  the  Vocal  Organs  of
+
+the  Passeres  that  have  hitherto  escaped  notice.  Translated  by  F.  J.  Bell,  B.A.,
+and  edited,  with  an  Appendix,  by  A.  H.  Garrod,  M.A.,  F.R.S.  WithPlates.
+1878.    4to.  paper  covers,  *js.  6d.
+
+Price  [Bartholomew,  M.A.,  F.R.S.).     Treatise  on  Infinitesimal
+
+Calculus.
+
+Vol.  I.  Differential  Calculus.    Second  Edition.    8vo.  14J.  6d.
+
+Vol.  II.  Integral  Calculus,  Calculus  of  Variations,  and  Differential  Equations.
+Second  Edition,  1865.     8vo.  18s.
+
+Vol. III.  Statics,  including  Attractions;   Dynamics  of  a  Material  Particle.
+Second  Edition,  1868.    8vo.  16s.
+
+Vol.  IV.  Dynamics  of  Material  Systems;  together  with  a  chapter  on  Theo-
+retical Dynamics,  by  W.  F.  Donkin,  M.A.,  F.R.S.     1862.    8vo.  16s.
+
+Pritchard  (C,  D.D.,  F.R.S.).     Uranometria  Nova  Oxoniensis.
+
+A  Photometric  determination  of  the  magnitudes  of  all  Stars  visible  to  the  naked
+eye,  from  the  Pole  to  ten  degrees  south  of  the  Equator.     1885.     Royal  8vo.
+s.6d.
+
+Astronomical    Observatiotts    made    at    the    University
+
+Observatory,  Oxford,  under  the  direction  of  C.  Pritchard,  D.D.  No.  1.
+1878.     Royal  8vo.  paper  covers,  3-r.  6d.
+
+Rigaud's  Correspondence  of  Scientific  Men  of  the  lyth  Century,
+
+with  Table  of  Contents  by  A.  de  Morgan,  and  Index  by  the  Rev.  J.  Rigaud,
+M.A.     2  vols.     1841-1862.    8vo.  18s.  6d.
+
+Rollestoti  (George y  M.D.,  F.R.S.).     Forms  of  Animal  Life.
+
+A  Manual  of  Comparative  Anatomy,  with  descriptions  of  selected  types.
+Second  Edition.  Revised  and  enlarged  by  W.  Ilatchett  Jackson,  M.A.
+Medium,  8vo.  cloth  extra,  1/.  16s.
+
+Scientific  Papers  and  Addresses.     Arranged  and  Edited
+
+
+by  William  Turner,  M.B.,  F.R.S.     With  a  Biographical  Sketch  by  Edward
+Tylor,  F.R.S.     With  Portrait,  Plates,  and  Woodcuts.     2  vols.  8vo.   1/.  \s.
+
+Sachs  {Julius  von).     Lectures  on  the  Physiology  of  Plants.
+
+Translated  by  H.  Marshall  Ward,  M.A.     With  445  Woodcuts.     Royal  8vo.
+half  morocco,  1/.  1  is.  6d.
+
+
+t  4  CLARENDON  PRESS,  OXFORD.
+
+Westwood  (J.  O.,  M.A.,  F.R.S.).      Thesaurus  Entomologicus
+
+Hopeianus,  or  a  Description  of  the  rarest  Insects  in  the  Collection  given  to
+the  University  by  the  Rev.  William  Hope.  With  40  Plates.  1874.  Small
+folio,  half  morocco,  7/.  \os.
+
+
+Wbt  &acrefc  23oofc8  of  tij*  lEast.
+
+Translated  by  various  Oriental  Scholars,  and  edited  by
+F.  Max  Muller.
+
+[Demy  8vo.  cloth.]
+
+Vol.   I.    The   Upanishads.    Translated  by  F.  Max   Muller.
+
+Part  I.  The  A7zandogya-upanishad,  The  Talavakara-upanishad,  The  Aitareya-
+arawyaka,  The  Kaushitaki-brahmawa-upanishad,  and  The  Va^asaneyi-sawhita-
+upanishad.     10s.  6d.
+
+Vol.  II.  The  Sacred  Laws  of  the  Aryas,  as  taught  in   the
+
+Schools  of  Apastamba,  Gautama,  VasishMa,  and  BaudMyana.  Translated  by
+Prof.  Georg  Biihler.    Part  I.  Apastamba  and  Gautama.     10s.  6d.
+
+Vol.  III.  The  Sacred  Books  of  China.  The  Texts  of  Con-
+fucianism. Translated  by  James  Legge.  Part  I.  The  Shu  King,  The  Reli-
+gious portions  of  the  Shih  King,  and  The  Hsiao  King.     1 2s.  6d.
+
+Vol.  IV.  The  Zend-Avesta.     Translated  by  James  Darme-
+
+steter.    Parti.    TheVendidad.     10s. 6d.
+
+Vol.  V.  The  Pahlavi  Texts.     Translated   by  E.  W.  West.
+
+Part  I.  The  Bundahij,  Bahman  Yaxt,  and  Shayast  la-shayast.    12s.  6d.
+
+Vols.  VI  and  IX.  The  Qur'an.     Parts  I  and  II.    Translated
+
+by  E.  H.  Palmer.     21s.
+
+Vol.  VII.    The  Institutes  of  Vishnu.    Translated  by  Julius
+
+Jolly.     10s.  6d.
+
+Vol.  VIII.  The  Bhagavadgita,  with  The  Sanatsu^-atiya,  and
+
+The  Anugita.    Translated  by  Kashinath  Trimbak  Telang.     10s.  6d.
+
+Vol.  X.  The  Dhammapada,  translated  from  Pali  by  F.  Max
+
+Muller;  and  The  Sutta-Nipata,  translated  from  Pali  by  V.  Fausboll;  being
+Canonical  Books  of  the  Buddhists.    10s.  6d.
+
+
+CLARENDON  PRESS,  OXFORD.  15
+
+Vol.  XL  Buddhist  Suttas.     Translated  from  Pali  by  T.  W.
+
+Rhys  Davids.  I.  The  Mahaparinibbana  Suttanta  ;  2.  The  Dhamma-£akka-
+ppavattana  Sutta  ;  3.  The  Tevi^a  Suttanta ;  4.  The  Akahkheyya  Sutta ;
+5.  The  A"etokhila  Sutta ;  6.  The  Maha-sudassana  Suttanta ;  7.  The  Sabbasava
+Sutta.     10s.  6d.
+
+Vol.  XII.  The  vSatapatha-Brahma/za,  according  to  the  Text
+
+of  the  Madhyandina  School.  Translated  by  Julius  Eggeling.  Part  I.
+Books  I  and  II.     1 2s.  6d.
+
+Vol.  XIII.  Vinaya  Texts.      Translated    from    the   Pali   by
+
+T.  W.  Rhys  Davids  and  Hermann  Oldenberg.  Part  I.  The  Patimokkha.
+The  Mahavagga,  I -IV.     ics.  6d.
+
+Vol.  XIV.  The  Sacred  Laws  of  the  Aryas,  as  taught  in  the
+
+Schools  of  Apastamba,  Gautama,  VasishMa  and  Baudhayana.  Translated
+by  Georg  Buhler.     Part  II.     VasishMa  and  Baudhayana.     10s.  6d.
+
+Vol.  XV.     The  Upanishads.     Translated  by  F.  Max  Muller.
+
+Part  II.  The  Ka^a-upanishad,  The  Muw^aka-upanishad,  The  Taittiriyaka-
+upanishad,  The  Brzhadarawyaka-upanishad,  The  6"vetajvatara-upanishad,  The
+Praj«a-upanishad,  and  The  Maitrayawa-Brahma/za-upanishad.     ioj.  6d.
+
+Vol.  XVI.    The   Sacred   Books   of  China.     The   Texts   of
+
+Confucianism.  Translated  by  James  Legge.  Part  II.  The  Yi  King.
+ioj.  6d.
+
+Vol.  XVII.   Vinaya  Texts.     Translated   from   the   Pali   by
+
+T.  W.  Rhys  Davids  and  Hermann  Oldenberg.  Part  II.  The  Mahavagga,
+V-X.     The  A-ullavagga,  I-III.     ios.6d.
+
+Vol.  XVIII.   Pahlayi    Texts.      Translated   by  E.  W.  West.
+
+Part  II.     The  Daafistan-i  Dinik  and  The  Epistles  of  Manu^ihar.     12s.  6d.
+
+Vol.  XIX.  The  Fo-sho-hing-tsan-king.    A  Life  of  Buddha
+
+by  A^vaghosha  Bodhisattva,  translated  from  Sanskrit  into  Chinese  by
+Dharmaraksha,  a.d.  420,  and  from  Chinese  into  English  by  Samuel  Beal.
+ioj.  6d.
+
+Vol.  XX.  Vinaya  Texts.    Translated  from  the  Pali  by  T.  W.
+
+Rhys  Davids  and  Hermann  Oldenberg.  Part  III.  The  Aullavagga,  IV-XII.
+10s.  6d,
+
+Vol.  XXI.     The  Saddharma-pu?/^/arika ;   or,  the  Lotus  of  the
+
+True  Law.    Translated  by  H.  Kern.     12s.  6d.
+
+Vol.  XXII.    G^aina-Sutras;    Translated  from  Prakrit  by  Her-
+mann Jacobi.    Part  I.    The  AHranga-Sutra.    The  Kalpa-Sutra.    10s.  6d.
+
+
+1 6  CLARENDON  PRESS,  OXFORD,
+
+Vol.  XXIII.     The  Zend-Avesta.    Translated  by  James  Dar-
+
+mesteter.    Part  II.    The  Sirozahs,  Ya^ts,  and  Nyayij.     ios.  6d.
+
+Vol.  XXIV.   Pahlavi   Texts.      Translated    by  E.  W.  West.
+
+Part    III.     Dina-i    Mainog-i     Khirad,    iSikand-gumanik,    and     Sad-Dar.
+10s .  6d.
+
+
+Second  Series.
+
+Vol.  XXV.     Manu.     Translated  by  Georg  Biihler.    21  s.
+Vol.  XXVI.      The   Satapatha-Brahma^a.      Translated    by
+
+Julius  Eggeling.    Part  II.     12s.  6d.
+
+Vols.  XXVII  and  XXVIII.    The  Sacred  Books  of  China.
+
+The  Texts  of  Confucianism.  Translated  by  James  Legge.  Parts  III  and  IV.
+The  Li  A%  or  Collection  of  Treatises  on  the  Rules  of  Propriety,  or  Ceremonial
+Usages.     2  5  j.
+
+Vols.  XXIX  and  XXX.     The  Grzhya-Sutras,  Rules  of  Vedic
+
+Domestic  Ceremonies.    Translated  by  Hermann  Oldenberg.
+
+Part  I  (Vol.  XXIX),  12s.  6d.    Just  Published.
+Part  II  (Vol.  XXX).     In  the  Press.
+
+Vol.   XXXI.     The   Zend-Avesta.     Part   III.     The   Yasna,
+
+Visparad,  Afrinagan,  and  Gahs.     Translated  by  L.  H.  Mills.     12^.  6d.
+
+
+The  following  Volumes  are  in  the  Press :—
+
+Vol.  XXXII.    Vedic  Hymns.    Translated  by  F.  Max  Muller.
+
+Part  I.
+
+Vol.    XXXIII.       Narada,    and    some    Minor     Law-books.
+
+Translated  by  Julius  Jolly.     \_Preparing7\
+
+Vol.  XXXIV.     The  Vedanta-Sutras,  with   Ankara's  Com-
+mentary.   Translated  by  G.  Thibaut.     [Preparing.]
+
+***  The  Second  Series  will  consist  of  Twenty-Four  Volumes.
+
+
+CLARENDON  PRESS,  OXFORD.  17
+
+
+Clamtkm;  j)r*ss  §&mt».
+
+
+I.    ENGLISH,  &e.
+
+
+An  Elementary  English  Grammar  and  Exercise  Book*     By
+
+O.  W.  Tancock,  M.A.     Second  Edition.    Extra  fcap.  8vo.  is.  6d.
+
+An  English  Grammar  and  Reading  Book,  for  Lower  Forms
+
+in  Classical  Schools.    By  O.  W.  Tancock,  M.A.    Fourth  Edition.     Extra
+fcap.  8vo.   3 s.  6d.
+
+Typical  Selections  from  the  best  English  Writers,  with  Intro-
+ductory Notices.  Second  Edition.    In  2  vols.    Extra  fcap.  8vo.  3s.  6d.  each.
+Vol.  I.  Latimer  to  Berkeley.  Vol.  II.  Pope  to  Macaulay.
+
+Shairp  (J.  C,  LL.D).    Aspects  of  Poetry ;   being  Lectures
+
+delivered  at  Oxford.    Crown  8vo.  10s.  6d.
+
+
+A  Book  for  the  Beginner  in  Anglo-Saxon.     By  John  Earle,
+
+M.A.    Third  Edition.     Extra  fcap.  8vo.  is.  6d.
+
+An  Anglo-Saxon  Reader.  In  Prose  and  Verse.  With  Gram-
+matical Introduction,  Notes,  and  Glossary.  By  Henry  Sweet,  M.A.  Fourth
+Edition,  Revised  and  Enlarged.     Extra  fcap.  8vo.  8s.  6d.
+
+A  Second  Anglo-Saxon  Reader.    By  the  same  Author.  Extra
+
+fcap.  8vo.     4J-.  6d.
+
+An  Anglo-Saxon  Primer,  with  Grammar,  Notes,  and  Glossary.
+
+By  the  same  Author.    Second  Edition.     Extra  fcap.  8vo.  2s.  6d.
+
+Old  English  Reading  Primers  ;  edited  by  Henry  Sweet,  M.A.
+
+I.  Selected  Homilies  of  yElfric.     Extra  fcap.  8vo.,  stiff  covers,  is.  6d.
+
+II.  Extracts  from  Alfred's  Orosius.     Extra  fcap.  8vo.,  stiff  covers,  is.  6d.
+
+First  Middle  English  Primer,  zvith  Grammar  and  Glossary.
+
+By  the  same  Author.     Extra  fcap.  8vo.  2s.
+
+Second  Middle  English   Primer.      Extracts   from    Chaucer,
+
+with  Grammar  and  Glossary.     By  the  same  Author.     Extra  leap.  8vo.  2s.
+
+A  Concise  Dictionary  of  Middle  English,  from  A.D.   1150  to
+
+1580.      By  A.  L.  Mayhew,  M.A.,  and  W.  W.  Skeat,  Litt.D.      Crown  8vo.
+half  roan,  *js.  6d.
+
+A  Handbook  of  Phonetics,  including  a  Popular  Exposition  of
+
+the  Principles  of  Spelling  Reform.  By  H.  Sweet,  M.A.  Ext.  fcap.  SV0.4J.  td.
+
+C
+
+
+i8  CLARENDON  PRESS,  OXFORD.
+
+Elementarbuch    des     Gesprochenen    Englisch.       Grammatik,
+
+Texte  und  Glossar.  Von  Henry  Sweet.  Second  Edition.  Extra  fcap.  8vo.,
+stiff  covers,  2s.  6d.
+
+History  of  English  Sounds  from    the  earliest  Period.     With
+
+full  Word-Lists.     By  Henry  Sweet,  M.A.     Demy  8vo.  14s.
+
+Principles  of  English  Etymology.     First  Series.     The  Native
+
+Element.     By  W.  W.  Skeat,  Litt.D.     Crown  8vo.  9J.
+
+The  Philology  of  the  English  Tongue.    By  J.  Earle,  M.A.
+
+Fourth  Edition.    Extra  fcap.  8vo.  p.  6d.
+
+An  Icelandic  Primer,  with  Grammar,  Notes,  and  Glossary.
+
+By  Henry  Sweet,  M.A.     Extra  fcap.  8vo.  %s.  6d.
+
+An  Icelandic  Prose  Reader,  with  Notes,  Grammar,  and  Glossary.
+
+By  G.  Vigfusson,  M.A.,  and  F.  York  Powell,  M.A.     Ext.  fcap.  8vo.  10s.  6d.
+
+The  Ormulum;    with  the  Notes  and  Glossary  of  Dr.  R.  M.
+
+White.    Edited  by  R.  Holt,  M.A.   1878.    2  vols.    Extra  fcap.  8 vo.  21  s.
+
+Specimens  of  Early  English.     A  New  and  Revised  Edition.
+
+With  Introduction,  Notes,  and  Glossarial  Index.
+
+Part  I.  By  R.  Morris,  LL.D.  From  Old  English  Homilies  to  King  Horn
+(a.d.  1150  to  A.D.  1300).     Second  Edition.     Extra  fcap.  8vo.  gs.
+
+Part  II.  By  R.  Morris,  LL.D.,  and  W.  W.  Skeat,  Litt.D.  From  Robert
+of  Gloucester  to  Gower  (a.d.  1298  to  a.d.  1393).  Third  Edition.
+Extra  fcap.  8vo.  Js.  6d.
+
+Specimens   of  English    Literature,   from    the    *  Ploughmans
+
+Crede'  to  the  '  Shepheardes  Calender'  (a.d.  1394  to  a.d.  1579).  With  Intro-
+duction, Notes,  and  Glossarial  Index.  By  W.  W.  Skeat,  Litt.D.  Fourth
+Edition.     Extra  fcap.  8vo.     is.  6d.
+
+
+The  Vision  of  William  concerning  Piers  the  Plowman,  in  three
+
+Parallel  Texts ;  together  with  Richard  the  Redeless.  By  William  Langland
+(about  1362-1399  a.d.).  Edited  from  numerous  Manuscripts,  with  Preface,
+Notes,  and  a  Glossary,  by  W.  W.  Skeat,  Litt.D.     2  vols.  8vo.  31  j.  6d.
+
+The  Vision  of  William  concerning  Piers   the  Plowman,   by
+
+William  Langland.  Edited,  with  Notes,  by  W.  W.  Skeat,  Litt.D.  Fourth
+Edition      Extra  fcap.  8vo.  4s.  6d.
+
+Chaucer.     I.   The  Prologue    to    the    Canterbury    Tales;    the
+
+Knightes  Tale;  The  Nonne  Prestes  Tale.  Edited  by  R.  Morris,  LL.D.
+Sixty-sixth  thousand.     Extra  fcap.  8vo.  2s.  6d.
+
+■  II.  The   Prioresses    Tale ;    Sir   Thopas ;    The    Monkes
+
+Tale  ;  The  Clerkes  Tale  ;  The  Squieres  Tale,  &c.  Edited  by  W.  W.  Skeat,
+Litt.D.     Third  Edition.    Extra  fcap.  8vo.  4s.  6d.
+
+
+CLARENDON  PRESS,  OXFORD.
+
+
+Chaucer.    III.  The  Tale  of  the  Man  of  Lawe  ;  The  Pardoneres
+
+Tale ;  The  Second  Nonnes  Tale ;  The  Chanouns  Yemannes  Tale.  By  the
+same  Editor.    New  Edition,  Revised.    Extra  fcap.  8vo.  4s.  6d.
+
+IV.  Minor  Poems.     By  the  same  Editor.     Extra  fcap.
+
+8vo.    Just  ready.
+
+Gamelyn,  The  Tale  of.     Edited  with  Notes,  Glossary,  &c.,  by
+
+W.  W.  Skeat,  Litt.D.    Extra  fcap.  8vo.    Stiff  covers,  is.  6d.
+
+Minot  {Laurence).     Poems.      Edited,  with  Introduction  and
+
+Notes,  by  Joseph  Hall,  M.A.,  Head  Master  of  the  Hulme  Grammar  School,
+Manchester.     Extra  fcap.  8vo.  4s.  6d.
+
+Spenser's  Faery  Queene.     Books  I  and  II.     Designed  chiefly
+
+for  the  use  of  Schools.  With  Introduction  and  Notes  by  G.  W.  Kitchin,  D.D.,
+and  Glossary  by  A.  L.  Mayhew,  M.A.     Extra  fcap.  8vo.  2s.  6d.  each.
+
+Hooker.     Ecclesiastical  Polity^  Book    L.     Edited   by   R.  W.
+
+Church,  M.A.     Second  Edition.     Extra  fcap.  8 vo.  2s.
+
+OLD  ENGLISH  DRAMA.
+The  Pilgrimage  to  Parnassus  with  The   Two  Parts  of  the
+
+Return  from  Parnassus.  Three  Comedies  performed  in  St.  John's  College,
+Cambridge,  A.D.  mdxcvii-mdci.  Edited  from  MSS.  by  the  Rev.  W.  D.
+Macray,  M.A.,  F.S.A.     Medium  8vo.     Bevelled  Boards,  Gilt  top,  Ss.  6d.
+
+Marlowe  and  Greene.     Marlowe's   Tragical  History  of  Dr*
+
+Faustus,  and  Greene" 's  Honourable  History  of  Friar  Bacon  and  Friar  Bungay-
+Edited  by  A.  W.  Ward,  M.A.  New  and  Enlarged  Edition.  Extra  fcap.
+8vo.  6s.  6d.
+
+Marlowe.     Edward  II.     With  Introduction,  Notes,  &c.     By
+
+O.  W.  Tancock,  M.A.    Extra  fcap.  8vo.    Paper  covers,  2s.     Cloth  3^.
+
+SHAKESPEARE.
+Shakespeare.     Select  Plays.     Edited  by  W.  G.  Clark,  M.A.,
+
+and  W.  Aldis  Wright,  M.A.     Extra  fcap.  8vo.  stiff  covers.
+The  Merchant  of  Venice,     ijr.  Macbeth.     is.6d.
+
+Richard  the  Second,     I*.  6d.  Hamlet.     2j.
+
+Edited  by  W.  Aldis  Wright,  M.A.
+
+The  Tempest,     is,  6d.  Midsummer  Night's  Dream,   is,  6d.
+
+As  You  Like  It.     is,  6d.  Coriolanus.    2s.  6d.
+
+Julius  Caesar.     2s.  Henry  the  Fifth.     2s.
+
+Richard  the  Third.     2s.  6d,  Twelfth  Night,     is.  6d,
+
+King  Lear.     is.  6d.  King  John,     is,  6d.
+
+Shakespeare  as  a  Dramatic  Artist ;    a  popular  Illustration  of
+the  Principles  of  Scientific  Criticism.  By  R.  G.  Moulton,  M.A.  Crown  8vo.  is.
+
+C  2
+
+
+20  CLARENDON  PRESS,  OXFORD.
+
+Bacon.     I.  Advancement  of  Learning.     Edited  by  W.  Aldis
+
+Wright,  M.A.     Third  Edition.    Extra  fcap.  8vo.  4s.  6d.
+
+II.  The  Essays.     With  Introduction   and  Notes.     By
+
+S.  H.  Reynolds,  M. A.,  late  Fellow  of  Brasenose  College.     In  Preparation.
+
+Milton.     I.  Areopagitica.    With  Introduction  and  Notes.     By
+
+John  W.  Hales,  M.A.    Third  Edition.     Extra  fcap.  8vo.  3-r.
+
+II.  Poems.     Edited  by  R.  C,  Browne,   M.A.     2  vols.
+
+Fifth  Edition.  Extra  fcap.  8vo.  6s.  6d.   Sold  separately,  Vol.  1. 4s. ;  Vol.  II.  is.
+
+In  paper  covers  : —
+Lycidas,  id.        L'Allegro,  id.        II  Penseroso,  4^.        Comus,  6d.
+
+III.  Paradise  Lost.    Book  I.    Edited  by  II.  C.  Beeching.
+
+Extra  fcap.  8vo.  stiff  cover,  is.  6d. ;  in  white  Parchment,  3-r.  6d.
+
+IV.  Samson  Agonistes.     Edited  with  Introduction  and
+
+
+Notes  by  John  Churton  Collins.     Extra  fcap.  8vo.  stiff  covers,  is.
+
+Bunyan.  I.  The  Pilgrim  s  Progress,  Grace  Abounding,  Rela-
+tion of  the  Imprisonment  of  Mr.  John  Bunyan.  Edited,  with  Biographical
+Introduction  and  Notes,  by  E.  Venables,  M.A.  1879.  Extra  fcap.  8vo.  5^.
+In  ornamental  Parchment,  6s.
+
+II.   Holy  War,  &*c     Edited    by    E.   Venables,    M.A.
+
+In  the  Press.
+
+Clarendon.      History  of  the   Rebellion.      Book    VI.      Edited
+
+by  T.  Arnold,  M.A.     Extra  fcap.  8vo.  4s.  6d.
+
+Dryden.     Select  Poems.     Stanzas   on   the    Death   of  Oliver
+
+Cromwell;  Astroea  Redux;  Annus  Mirabilis ;  Absalom  and  Achitophel ;
+Religio  Laici ;  The  Hind  and  the  Panther.  Edited  by  W.  D.  Christie,  M.A.
+Second  Edition.     Extra  fcap.  8vo.  %s.  6d.
+
+Locke's  Condtict  of  the  Understanding.  Edited,  with  Intro-
+duction, Notes,  &c,  by  T.  Fowler,  D.D.    Second  Edition.  Extra  fcap.  8vo.  2s.
+
+Addison.   Selections  from  Papers  in  the  Spectator.  With  Notes.
+
+By  T.  Arnold,  M.A.     Extra  fcap.  8vo.  4s.  6d.     In  ornamental  Parchment,  6s.
+
+Steele.     Selections  from  the  Tatler,  Spectator,  and  Guardian.
+
+Edited  by  Austin  Dobson.   Extra  fcap.  8vo.  4s.  6d.   In  white  Parchment,  7*.  6d.
+
+Pope.    With  Introduction  and  Notes.   By  Mark  Pattison,  B.D.
+
+I.    Essay  on  Man.     Extra  fcap.  8vo.  is.  6d.
+
+II.  Satires  and  Epistles.     Extra  fcap.  8vo.  is.
+
+Parnell.     The  Hermit.     Paper  covers,  2d.
+
+Gray.     Selected  Poems.     Edited  by  Edmund  Gosse.     Extra
+
+fcap.  8vo.     Stiff  covers,  is.  6d.     In  white  Parchment,  3s.
+
+Elegy  and  Ode  on  Eton  College.     Paper  covers,  %d%
+
+
+CLARENDON  PRESS,  OXFORD.  21
+
+Goldsmith.     Selected  Poems.     Edited,  with  Introduction  and
+
+Notes,  by  Austin  Dobson.      Extra  fcap.  8vo.  3/.  6d.     In  white  Parchment,
+4s.  6d.
+
+The  Traveller.    With  Notes  by  G.  Birkbeck  Hill,  D.C.L.
+
+Extra  fcap.  8vo.     Paper  covers,  is.
+
+The  Deserted  Village.     Paper  covers,  id.
+
+
+Johnson.     I.  Rasselas.     Edited,  with  Introduction  and  Notes,
+
+by  G.  Birkbeck  Hill,  D.C.L.     Extra  fcap.  8vo.     Bevelled  boards,  3s.  6d.     In
+white  Parchment,  4-r.  6d.
+
+II.  Rasselas ;  Lives  of  Dry  den  and  Pope.     Edited  by
+
+Alfred  Milnes,  M.A.  (London).     Extra  fcap.  8vo.  4s.  6d.
+Lives  of  Dryden  and  Pope.     Stiff  covers,  2s.  6d.
+
+III.  Life  of  Milton.     Edited,  with  Notes,  etc.,  by  C.  H.
+
+Firth,  M.A.     Extra  fcap.  8vo.  cloth,  2s.  6d.     Stiff  cover,  is.  6d.
+
+IV.    Vanity  of  Human  Wishes.     With  Notes,  by  E.  J.
+
+Payne,  M.A.     Paper  covers,  ^d.
+
+V.    Wit  and  Wisdom  of  Samuel  Johnson.     Edited   by
+
+G.  Birkbeck  Hill,  D.C.L.     Crown  8vo.   js.  6d.
+
+VI.  Boszvells  Life  of  Johnson.     With  the  Journal  of  a
+
+
+Tour  to  the  Hebrides.  Edited,  with  copious  Notes,  Appendices,  and  Index,  by
+G.  Birkbeck  Hill,  D.C.L.,  Pembroke  College.  With  Portraits  and  Facsimiles.
+6  vols.     Medium  8vo.     Half  bound,  3/.  $s.
+
+Cowper.     Edited,  with   Life,   Introductions,  and   Notes,   by
+H.  T.  Griffith,  B.A.
+
+I.  The  Didactic  Poems  of  1782,  with  Selections  from  the
+
+Minor  Pieces,  a, d.  1779-1783.     Extra  fcap.  8vo.  3-r.
+
+II.   The  Task,  with  Tirocinium,  and  Selections  from  the
+
+
+Minor  Poems.  A.D.  1 784-1 799.    Second  Edition.     Extra  fcap.  8 vo.  3 s.
+
+Burke.     Select  Works.     Edited,  with  Introduction  and  Notes,
+
+by  E.  J.  Payne,  M.A.
+
+■  I.   Thoughts  on  the  Present  Discontents  ;  the  two  Speeches
+
+on  America.    Second  Edition.     Extra  fcap.  8vo.  4s.  td.
+
+II.  Reflections  on  the  French  Revolution.    Second  Edition.
+
+Extra  fcap.  8vo.  5*.
+
+III.  Four  Letters  071  the  Proposals  for  Peace  zvith  the
+
+Regicide  Directory  of  France.    Second  Edition.     Extra  fcap.  8vo.  $s.
+
+Keats.  Hyperion,  Book  I.  With  Notes  by  W.  T.  Arnold,  B.A.
+
+Paper  covers,  4 d.
+
+Byron.     Childe  Harold.    Edited,  with  Introduction  and  Notes,
+
+by  H.  F.  Tozer,  M.A.    Extra'fcap.  8vo.    $s.  6d.     In  white  Parchment,  5*.
+
+
+22  CLARENDON  PRESS,  OXFORD.
+
+Scott.     Lay  of  the  Last  Minstrel.     Edited  with  Preface  and
+
+Notes  by  W.  Minto,  M.A.     With  Map.     Extra  fcap.  8vo.     Stiff  covers,  2s.
+Ornamental  Parchment,  3-r.  6d.
+
+Lay  of  the  Last  Minstrel.     Introduction  and  Canto  I,
+
+with  Preface  and  Notes,  by  the  same  Editor.     6d.
+
+
+II.    LATIN.
+
+Rudimenta  Latina.     Comprising  Accidence,  and  Exercises  of
+
+a  very  Elementary  Character,  for  the  use  of  Beginners.     By  John  Barrow
+Allen,  M.A.     Extra  fcap.  8vo.  2s.
+
+An  Elementary  Latin   Grammar.      By   the    same  Author.
+
+Fifty-Seventh  Thousand.     Extra  fcap.  8vo.  2S.6d.
+
+A  First  Latin  Exercise  Book.     By  the  same  Author.     Fourth
+
+Edition.    Extra  fcap.  8vo.  2s.  6d.
+
+A  Second  Latin  Exercise  Book.    By  the  same  Author.    Extra
+
+fcap.  8vo.   is.  6d.
+
+A  Key  to  First  and  Second  Latin  Exercise  Books,  in  one  volume,  price  gx.
+Supplied  to  Teachers  only  on  application  to  the  Secretary  of  the  Clarendon  Press.
+
+Reddenda  Minora,  or  Easy  Passages,  Latin  and  Greek,  for
+
+Unseen  Translation.     For  the  use  of  Lower  Forms.     Composed  and  selected
+by  C.  S.  Jerram,  M.A.    Extra  fcap.  8vo.  is.  6d.
+
+Anglice     Reddenda,    or    Extracts,    Latin    and     Greek,    for
+
+Unseen  Translation.     By  C.  S.  Jerram,  M.A.    Third  Edition,  Revised  and
+Enlarged.    Extra  fcap.  8vo.  2s.  6d.
+
+Anglice   Reddenda.     Second  Series.     By  the   same   Author.
+
+Extra  fcap.  8vo.  &.
+
+Passages  for  Translation  into  Latin.     For  the  use  of  Passmen
+
+and  others.    Selected  by  J.  Y.  Sargent,  M.A.     Seventh  Edition.    Extra  fcap.
+8vo.  2s.  6d.
+
+Exercises  in   Latin  Prose  Composition;    with  Introduction,
+
+Notes,  and  Passages  of  Graduated  Difficulty  for  Translation  into  Latin.     By
+G.  G.  Ramsay,  M.A.,  LL.D.     Second  Edition.     Extra  fcap.  8vo.  4s.  6d.
+
+Hints  and  Helps  for  Latin  Elegiacs.    By  H.  Lee-Warner,  M.A.
+
+Extra  fcap.  8vo.  3J.  6d.
+
+First  Latin  Reader.     By  T.  J.  Nunns,  M.A.     Third  Edition.
+
+Extra  fcap.  8vo.  2s.
+
+Caesar.     The  Commentaries  (for  Schools).     With  Notes  and
+
+Maps.    By  Charles  E.  Moberly,  M.A.
+
+The  Gallic  War.    Second  Edition.     Extra  fcap.  8vo.  4*.  6d.
+
+The  Gallic  War.     Books  I,  II.     Extra  fcap.  8vo.     is.
+
+The  Civil  War.     Extra  fcap.  8vo.  3s.  6d.
+
+The  Civil  War.    Book  I.    Second  Edition.     Extra  fcap.  8vo.  2s.
+
+
+CLARENDON  PRESS,  OXFORD.  23
+
+Cicero.      Speeches  against  Catilina.     By  E.  A.  Upcott,  M.A.,
+
+Assistant  Master  in  Wellington  College.     In  one  or  two  Parts.     Extra  fcap.
+8vo.   2s.  6d.
+
+Selection  of  interesting  and  descriptive  passages.    With
+
+Notes.    By  Henry  Walford,  M.A.    In  three  Parts.     Extra  fcap.  8VO.4J.  6d.
+
+Each  Part  separately,  limp,  is.  6d.
+Part  I.      Anecdotes  from  Grecian  and  Roman  History.    Third  Edition.
+Part  II.    Omens  and  Dreams:  Beauties  of  Nature.    Third  Edition.
+Part  III.  Rome's  Rule  of  her  Provinces.    Third  Edition.
+
+■  De   Senecttite.     Edited,  with  Introduction  and  Notes,
+
+by  L.  Huxley,  M.A.     In  one  or  two  Parts.     Extra  fcap.  8vo.  2s.
+
+■ Selected  Letters  (for  Schools).     With  Notes.     By  the
+
+late  C.  E.  Prichard,   M.A.,  and   E.  R.    Bernard,    M.A.      Second  Edition.
+Extra  fcap.  8vo.  3J.
+
+Select    Orations    (for    Schools).      In  Verrem   I.      De
+
+Imperio  Gn.  Pompeii.    Pro  Archia.    Philippica  IX.    With  Introduction  and
+Notes  by  J.  R.  King,  M.A.     Second  Edition.    Extra  fcap.  8vo.  2s.  6d.
+
+Ln    Q.   Caecilium   Divinatio,   and  In   C.  Verrem   Actio
+
+Prima.     With  Introduction  and  Notes,  by  J.  R.  King,  M.A.     Extra  fcap.  8vo.
+limp,  is.  6d.
+
+Speeches    against    Catilina.      With    Introduction    and
+
+Notes,  by  E.  A.  Upcott,  M.A.      In  one  or  two  Parts.      Extra  fcap.  Svo.
+2S.  td.
+
+Cornelius  Nepos.    With  English  Notes.     By  Oscar  Browning,
+
+M.A.     Third  Edition.    Revised  by  W.  R.  Inge,  M.A.     (In  one  or  two  Parts.)
+Extra  fcap.  8vo.  3s.
+
+Horace.     Selected  Odes.     With  Notes  for  the  use  of  a  Fifth
+
+Form.    By  E.  C.  Wickham,  M.A.    In  one  or  two  Parts.    Extra  fcap.  8vo.
+cloth,  2S.
+
+Livy.     Selections  (for  Schools).     With  Notes  and  Maps.     By
+
+H.  Lee- Warner,  M.A.     Extra  fcap.  8vo.    In  Parts, limp,  each  is.  6d.
+Part  I.  The  Caudine  Disaster.    Part  II.  Hannibal's  Campaign
+in  Italy.     Part  III.  The  Macedonian  War.
+
+Books   V-VII.     With    Introduction    and    Notes.     By
+
+A.  R.  Cluer,  B.A.      Second  Edition.      Revised  by  P.  E.  Matheson,   M.A.
+(In  one  or  two  Parts.)     Extra  fcap.  8vo.  e,s.
+
+Books   XXI,  XXII,.  and   XXIII.     With    Introduction
+
+and  Notes.    By  M.  T.  Tatham,  M.A.    Extra  fcap.  8vo.  4*.  6d.
+
+Book  XXII.     By  the  same  Editor.     Extra  fcap.  8vo.
+
+
+2s.  6d.
+
+Ovid.    Selections  for  the  use  of  Schools.    With  Introductions
+
+and  Notes,  and  an  Appendix  on  the  Roman  Calendar.    By  W.  Ramsay,  M.A.
+Edited  by  G.  G.  Ramsay,  M.A.     Third  Edition.    Extra  fcap.  8vo.  5*.  6d.
+
+
+24  CLARENDON  PRESS,  OXFORD.
+
+Ovid.  Tristia.  Book  I.  The  Text  revised,  with  an  Intro-
+duction and  Notes.     By  S.  G.  Owen,  B.A.    Extra  fcap.  8vo.  3s.  6d.
+
+Plautus.     Captivi.     Edited  by  W.  M.  Lindsay,  M.A.     Extra
+
+fcap.  8vo.     (In  one  or  two  Parts.)  2s.  6d.
+
+The  Trinummus.  With  Notes  and  Introductions.  (In-
+tended for  the  Higher  Forms  of  Public  Schools.)  By  C.  E.  Freeman,  M.A.,
+and  A.  Sloman,  M.A.     Extra  fcap.  8vo.  3J.
+
+Pliny.     Selected  Letters  (for  Schools).    With  Notes.     By  the
+
+late  C.  E.  Prichard,  M.A.,  and  E.  R.  Bernard,  M.A.    Extra  fcap.  8vo.  is.
+
+Sallust.     With  Introduction  and  Notes.     By  W.  W.  Capes,
+
+M.A.    Extra  fcap.  8vo.    \s.  6d.
+
+Tacitus.  The  Annals.  Books  I-IV.  Edited,  with  Introduc-
+tion and  Notes  (for  the  use  of  Schools  and  Junior  Students),  by  H.  Furneaux,
+M.A.    Extra  fcap.  8vo.   5s.
+
+The  Annals.     Book  I.     With  Introduction  and  Notes,
+
+by  the  same  Editor.     Extra  fcap.  8vo.  limp,  2s.
+
+Terence.     Andria.     With  Notes  and  Introductions.     By  C.
+
+E.  Freeman,  M.A.,  and  A.  Sloman,  M.A.     Extra  fcap.  8vo.  3s.
+
+Adelphi.     With  Notes  and  Introductions.    (Intended  for
+
+the  Higher  Forms  of  Public  Schools.)     By  A.  Sloman,  M.A.     Extra  fcap.
+8vo.  3J.
+
+Phormio.      With    Notes    and   Introductions.      By  A.
+
+Sloman,  M.A.     Extra  fcap.  8vo.  3s.
+
+Tibullus  and  Proper  tins.    Selections.    Edited  by  G.  G.  Ramsay,
+
+M.A.     Extra  fcap.  8vo.    (In  one  or  two  vols.)  6s.
+
+Virgil.     With  Introduction  and  Notes.     By  T.  L.  Papillon,
+
+M.A.    Two  vols.   Crown  8vo.  10s.  6d.    The  Text  separately,  4s.  6d.
+
+Bucolics.     Edited  by  C.  S.  Jerram,  M.A.      In  one  or
+
+two  Parts.     Extra  fcap.  8vo.  2s.  6d.
+
+Aeneid  I.      With    Introduction   and   Notes,   by  C.  S.
+
+Jerram,  M.A.     Extra  fcap.  8vo.  limp,  is.  6d.
+
+Aeneid  IX.     Edited,  with  Introduction  and  Notes,  by
+
+A.  E.  Haigh,  M.A.,  late  Fellow  of  Hertford  College,  Oxford.     Extra  fcap.
+8vo.  limp,  is.  6d.     In  two  Parts,  2S,
+
+
+Avianus,  The  Fables  of.     Edited,  with  Prolegomena,  Critical
+
+Apparatus,  Commentary,  etc.     By  Robinson  Ellis,  M.A.,  LL.D.     Demy  8vo.
+8j.  6d.
+
+Catulli  Veronensis  Liber.     Iterum  recognovit,  apparatum  cri-
+
+ticum  prolegomena  appendices  addidit,  Robinson  Ellis,  A.M.     1878.    Demy
+8vo.  16s.
+
+A  Commentary  on  Catullus.     By  Robinson  Ellis,  M.A.
+
+1876.    Demy  8vo.  i6j.
+
+
+CLARENDON  PRESS,  OXFORD.  25
+
+Catnlli  Veronensis  Carmina  Selecta,  secundum  recognitionem
+
+Robinson  Ellis,  A.M.     Extra  fcap.  8vo.  3^.  6d.
+
+Cicero  de  Oratore.     With  Introduction  and  Notes.    By  A.  S.
+
+Wilkins,  Litt.  D.
+
+Bookl.  Second  Edition.  1888.  8vo.  p.  6d.         Book  II.  1881.  8vo.  5*.
+
+Philippic  Orations.     With  Notes.     By  J.  R.  King,  M.A.
+
+Second  Edition.     1879.     8vo.  \os.  6d.
+
+Select  Letters.    With  English  Introductions,  Notes,  and
+
+Appendices.     By  Albert  Watson,  M.A.     Third  Edition.     Demy  8vo.  18s.
+
+Select  Letters.     Text.     By  the  same  Editor.     Second
+
+Edition.     Extra  fcap.  8vo.  4s.
+
+pro  Cluentio.     With  Introduction   and   Notes.     By  W.
+
+
+Ramsay, M.A.  Edited  by  G.  G.  Ramsay,  M.A.   2nd  Ed.  Ext.  fcap.  8vo.  y.  6d.
+
+Horace.  With  a  Commentary.  Volume  I.   The  Odes,  Carmen
+
+Seculare,  and  Epodes.      By  Edward  C.  Wickham,  M.A.     Second  Edition.
+1877.     Demy  8vo.  I2.r.
+
+A  reprint  of  the  above,  in  a  size  suitable  for  the  use
+
+of  Schools.     In  one  or  two  Parts.     Extra  fcap.  8vo.  6s.
+
+Livy,  Book  I.     With   Introduction,  Historical  Examination,
+and  Notes.     By  J.  R.  Seeley,  M.A.    Second  Edition.     1881.    8vo.  6s.
+
+Ovid.     P.  Ovidii  Nasonis  Ibis.     Ex  Novis  Codicibus  edidit,
+
+Scholia  Vetera  Commentarium  cum  Prolegomenis  Appendice  Indice  addidit,
+R.  Ellis,  A.M.    8vo.  10s.  6d.
+
+Persius.     The  Satires.   With  a  Translation  and  Commentary.
+
+By  John  Conington,  M.A.      Edited  by  Henry  Nettleship,  M.A.     Second
+Edition.     1874.     8vo.  Js.  6d.
+
+Juvenal.     XIII  Satires.      Edited,    with    Introduction    and
+
+Notes,  byC.  H.  Pearson,  M.A.,  and  Herbert  A.  Strong,  M.A.,  LL.D.,  Professor
+of  Latin  in  Liverpool  University  College,  Victoria  University.     In  two  Parts.
+Crown  8vo.     Complete,  6s.
+Also  separately,  Part  I.  Introduction,  Text,  etc.,  ?>s.        Part  II.  Notes,  $s.  6d.
+
+Tacitus.     The  Annals.     Books  I- VI.     Edited,  with    Intro-
+duction and  Notes,  by  H.  Furneaux,  M.A.    8vo.  i8j.
+
+
+King  {j.  E.,  M.A)  and  C.  Cookson,  M.A.     The  Principles  of
+
+Sound  and  Inflexion,  as  illustrated  in  the  Greek  and  Latin  Languages.    1888.
+8vo.  1 8  s.
+
+Nettleship  (H.,  M.A.).    Lectures  and  Essays  on  Subjects  con-
+nected with  Latin  Scholarship  and  Literature.     Crown  8vo.  Js.  6d.
+
+The  Roman  Satura.     8vo.  sewed,  is.
+
+Ancient  Lives  of  Vergil.     8vo.  sewed,  2 s.
+
+
+26  CLARENDON  PRESS,  OXFORD.
+
+Papillon  (T.  L.,  M.A.).     A  Manual  of  Comparative  Philology.
+
+Third  Edition,  Revised  and  Corrected.     1882.  Crown  8vo.  6s.
+
+Pinder  {North,  M.A.),     Selections  from  the  less  known  Latin
+
+Poets.     1869.     8vo.  15J.
+
+Sellar  ( W.  Y.,  M.A.).     Roman  Poets  of  the  Augustan  Age.
+
+Virgil.     New  Edition.    1883.    Crown  8vo.  9s.
+
+*  Roman  Poets  of  the  Republic.     New  Edition,  Revised
+
+and  Enlarged.     1881.     8vo.  14J.
+
+Wordsworth  {J.,  M.A.).     Fragments  and  Specimens  of  Early
+
+Latin.     With  Introductions  and  Notes.    1874.     8vo.   i8j.
+
+III.    GREEK.
+
+A  Greek  Primer,  for  the  use  of  beginners  in  that  Language.
+
+By  Charles  Wordsworth,  D.C.L.  Seventh  Edition.   Extra  fcap.  8vo.  is.  6d.
+
+A  Greek  Testament  Primer.  An  Easy  Grammar  and  Read-
+ing Book  for  the  use  of  Students  beginning  Greek.  By  the  Rev.  E.  Miller,
+M.A.     Extra  fcap.  8vo.  3J.  6d.
+
+Easy  Greek  Reader.     By  Evelyn  Abbott,  M.A.     In  one  or
+
+two  Parts.     Extra  fcap.  8vo.  3s.
+
+Graecae  Grammaticae  Rudimenta  in  usum  Scholarum.    Auc-
+
+tore  Carolo  Wordsworth,  D.C.L.    Nineteenth  Edition,  1882.     i2mo.  4J.
+
+A  Greek-English  Lexicon,  abridged  from  Liddell  and  Scott's
+
+4to.  edition,  chiefly  for  the  use  of  Schools.    Twenty-first  Edition.    1886.
+Square  i2mo.  fs.  6d.
+
+Greek  Verbs,  Irregular  and  Defective.    By  W.  Veitch.    Fourth
+
+Edition.     Crown  8vo.  10s.  6d.
+
+The  Elements  of  Greek  Accentuation  (for  Schools)  :    abridged
+
+from  his  larger  work  by  H.  W.  Chandler,  M.A.    Extra  fcap.  8vo.  2s.6d.
+
+A  Series  of  Graduated  Greek  Readers: —
+
+First  Greek  Reader.    By  W.  G.  Rushbrooke,  M.L.    Second
+
+Edition.    Extra  fcap.  8vo.  2s.  6d.
+
+Second  Greek  Reader.     By  A.  M.  Bell,  M.A.     Extra  fcap.
+
+8vo.  3J.  6d.
+
+Fourth  Greek  Reader ;  being  Specimens  of  Greek  Dialects.
+
+With  Introductions,  etc.    By  W.  W.  Merry,  D.D.    Extra  fcap.  8vo.  4J.  6d.
+
+Fifth   Greek  Reader.     Selections  from    Greek    Epic    and
+
+Dramatic  Poetry,  with  Introductions  and  Notes.    By  Evelyn  Abbott,  M.A.
+Extra  fcap.  8vo.  4J.  6d.
+
+The  Golden  Treasury  of  Ancient  Greek  Poetry :  being  a  Col-
+lection of  the  finest  passages  in  the  Greek  Classic  Poets,  with  Introductory
+Notices  and  Notes.    By  R.  S.  Wright,  M.A.    Extra  fcap.  8vo.  8s.  6d.
+
+
+CLARENDON  PRESS,  OXFORD,  27
+
+A  Golden  Treasury  of  Greek  Prose,  being  a  Collection  of  the
+
+finest  passages  in  the  principal  Greek  Prose  Writers,  with  Introductory  Notices
+and  Notes.  By  R.  S.  Wright,  M.A.,  and  J.  E.L.  Shadwell,  M.A.  Extrafcap.
+8vo.  \s.  6d.
+
+Aeschylus.    Prometheus  Bound  (for  Schools).     With  Introduc-
+tion and  Notes,  by  A.  O.  Prickard,  M.A.  Second  Edition.  Extra  fcap.  8vo.  2S.
+
+Agamemnon.    With  Introduction  and  Notes,  by  Arthur
+
+Sidgwick,  M.A.     Third  Edition.     In  one  or  two  parts.    Extra  fcap.  8vo.  is.
+
+Choephoroi.    With  Introduction  and  Notes  by  the  same
+
+Editor.     Extra  fcap.  8vo.   3J.
+
+Eumenides.     With  Introduction  and  Notes,  by  the  same
+
+
+Editor.     In  one  or  two  Parts.     Extra  fcap.  8vo.  3s.
+
+Aristophanes.     In  Single  Plays.     Edited,  with  English  Notes,
+
+Introductions,  &c,  by  W.  W.  Merry,  D.D.     Extra  fcap.  8vo.
+I.  The  Clouds,  Second  Edition,  2s.
+II.  The  Acharnians,  Third  Edition.,    In  one  or  two  parts,  3s.
+
+III.  The  Frogs,  Second  Edition.     In  one  or  two  parts,  3^.
+
+IV.  The  Knights.     In  one  or  two  parts,  3.?.
+
+Cedes.     Tabula.     With   Introduction  and   Notes.     By  C.  S.
+
+Jerram,  M.A.    Extra  fcap.  8vo.  zs.  6d.
+
+Demosthenes.      Orations  against  Philip.     With  Introduction
+
+and  Notes,  by  Evelyn  Abbott,  M.A.,  and  P.  E.  Matheson,  M.A.      Vol.  I.
+Philippic  I.     Olynthiacs  I-III.     In  one  or  two  Parts.     Extra  fcap.  8vo.  3-r.
+
+Euripides.    Alcestis  (for  Schools).    By  C.  S.  Jerram,  M.A.
+
+Extra  fcap.  8vo.  2s.  6d.
+
+Hecuba.     With  Notes  by  C.  H.  Russell.     In  the  Press.
+
+Helena.     Edited,   with    Introduction,   Notes,  etc.,    for
+
+Upper  and  Middle  Forms.     By  C.  S.  Jerram,  M.A.    Extra  fcap.  8vo.  %s.
+
+Heracleidae.     Edited  with   Introduction  and  Notes  by
+
+
+C.  S.  Jerram,  M.A.     Extra  fcap.  8vo.  3*.
+
+Iphigenia  in  Tauris.    Edited,  with  Introduction,  Notes,
+
+etc.,  for  Upper  and  Middle  Forms.     By  C.  S.  Jerram,  M.A.    Extra  fcap.  8vo.
+cloth,  3J.
+
+Medea.     By  C.  B.  Heberden,  M.A.     In  one  or  two  Parts.
+
+Extra  fcap.  8vo.  2s.
+
+Herodotus,  Book  IX.     Edited,  with  Notes,  by  Evelyn  Abbott,
+
+M.A.     In  one  or  two  Parts.     Extra  fcap.  8vo.  3s.
+
+Herodotus ■,  Selections  from.    Edited,  with  Introduction,  Notes,
+
+and  a  Map,  by  W.  W.  Merry,  D.D.     Extrafcap.  8vo.  2s.  6d.
+
+
+28  CLARENDON  PRESS,  OXFORD.
+
+Homer.     Odyssey,   Books   I-XII   (for   Schools).     By  W.  W.
+
+Merry,  D.D.   Fortieth  Thousand.   (In  one  or  two  Parts.)   Extra  fcap.  8vo.  gJ.
+Books  I,  and  II,  separately,  each  is.  6d.
+
+■ Odyssey,  Books   XIII-XXIV    (for    Schools).     By   the
+
+same  Editor.    Second  Edition.    Extra  fcap.  8vo.  $s.
+
+Iliad,  Book  I  (for  Schools).     By  D.  B.  Monro,  M.A.
+
+Second  Edition.     Extra  fcap.  8vo.  2s.
+
+Iliad,  Books  I-XII  (for  Schools).  With  an  Introduction,
+
+a   brief  Homeric  Grammar,   and  Notes.     By  D.  B.  Monro,  M.A.     Second
+Edition.     Extra  fcap.  8vo.  6s.
+
+■ ■  Iliad.  Books  VI   and  XXI.      With    Introduction    and
+
+
+Notes.  By  Herbert  Hailstone,  M.A.    Extra  fcap.  8vo.  is.  6d.  each.
+
+Lucian.      Vera   Historia   (for   Schools).     By    C.   S.   Jerram,
+
+M.A.    Second  Edition.    Extra  fcap.  8vo.  is.  6d.
+
+Lysias.     Epitaphios.     Edited,  with   Introduction  and  Notes,
+
+by  F.  J.  Snell,  B.A.     (In  one  or  two  Parts.)     Extra  fcap.  8vo.  2s.
+
+Plato.   Metro.     With  Introduction  and  Notes.     By  St.  George
+
+Stock,  M.A.,  Pembroke  College.     (In  one  or  two  Parts.)      Extra  fcap.  8vo.
+2s.  6d.
+
+Plato.     The  Apology.     With    Introduction    and    Notes.     By
+
+St.  George  Stock,  M.A.     (In  one  or  two  Parts.)     Extra  fcap.  8vo.  2s.  6d.
+
+Sophocles.      For   the   use   of  Schools.      Edited   with    Intro-
+ductions and  English  Notes     By  Lewis  Campbell,  M.  A.,  and  Evelyn  Abbott,
+M.A.     New  and  Revised  Edition.     2  Vols.     Extra  fcap.  8vo.     10s.  6d.
+Sold  separately,  Vol.  I,  Text,  4s.  6d. ;  Vol.  II,  Explanatory  Notes,  6s.
+
+Sophocles.     In    Single  Plays,  with  English   Notes,  &c.     By
+
+Lewis  Campbell,  M.A.,  and  Evelyn  Abbott,  M.A.  Extra  fcap.  8vo.  limp.
+Oedipus  Tyrannus,  Philoctetes.  New  and  Revised  Edition,  2s.  each.
+Oedipus  Coloneus,  Antigone,  is.  gd.  each.
+
+Ajax,        Electra,        Trachiniae,  2s.  each.
+
+Oedipus   Rex:    Dindorfs    Text,    with    Notes    by    the
+
+present  Bishop  of  St.  David's.     Extra  fcap.  8vo.  limp,  is.  6d.
+
+Theocritus  (for   Schools).     With   Notes.     By  H.  Kynaston,
+
+D.D.  (late  Snow).    Third  Edition.    Extra  fcap.  8vo.  4s.  6d.
+
+Xenophon.     Easy  Selections  (for  Junior   Classes).     With  a
+
+Vocabulary,  Notes,  and  Map.     By  J.  S.  Phillpotts,  B.C. L.,  and  C.  S.  Jerram,
+M.A.     Third  Edition.     Extra  fcap.  8vo.  is.  6d.
+
+Selections  (for  Schools).     With  Notes  and  Maps.     By
+
+J.  S.  Phillpotts,  B.C.L.    Fourth  Edition.    Extra  fcap.  8vo.  is.  6d.
+
+Anabasis,  Book  I.     Edited  for  the  use  of  Junior  Classes
+
+and  Private  Students.   With  Introduction,  Notes,  etc.    By  J.  Marshall,  M.A.,
+Rector  of  the  Royal  High  School,  Edinburgh.     Extra  fcap.  8vo.  2s.  6d.
+
+
+CLARENDON  PRESS,  OXFORD.  29
+
+Xenophon.    Anabasis,  Book  II.     With  Notes  and  Map.     By
+
+C.  S.  Jerram,  M.A.     Extra  fcap.  8vo.    2s.
+
+Anabasis,  Book  III.    Edited  with  Introduction,  Analysis,
+
+Notes,  etc.,  by  J.  Marshall,  M.A.     Extra  fcap.  8vo.  2s.  6d.
+
+Cyropaedia,  Book  I.     With  Introduction  and  Notes  by
+
+C.  Bigg,  D.D.     Extra  fcap.  8vo.  2s.
+
+Cyropaedia,  Books  IV  and  V.     With  Introduction  and
+
+
+Notes  by  C.  Bigg,  D.D.     Extra  fcap.  Svo.  2s.  6d.
+
+Hellenica,  Books  I,  II.     With  Introductions  and  Notes
+
+by  G.  E.  Underbill,  M.A.,  Fellow  and  Tutor  of  Magdalen  College.     Extra
+fcap.  8vo.  cloth,  3s.
+
+Aristotle  s  Politics.  With  an  Introduction,  Essays,  and  Notes.
+
+By   W.  L.  Newman,   M.A.,  Fellow   of  Balliol   College.     Vols.   I   and   II.
+Medium  Svo.  28J.
+
+Aristotle.  On  the  History  of  the  Process  by  which  the  Aristo-
+telian Writings  arrived  at  their  present  form.  An  Essay  by  Richard  Shute,
+M.A.,  late  Student  of  Christ  Church;  with  a  Brief  Memoir  of  the  Author.
+8vo.  *js.  6d.
+
+Aristotelian  Studies.     I.  On   the   Structure  of  the   Seventh
+
+Book  of  the  Nicomachean  Ethics.   By  J.  C.  Wilson,  M.A.    8vo.  stiff,  5/.
+
+Aristotelis    Ethica  Nicomacliea,   ex    recensione   Immanuelis
+
+Bekkeri.    Crown  8vo.  5*.
+
+Demosthenes  and  Aeschines.     The  Orations  of  Demosthenes
+
+and  ^Eschines  on  the  Crown.     With   Introductory  Essays  and  Notes.    By
+G.  A.  Simcox,  M.A.,  and  W.  H.  Simcox,  M.A.     1872.  8vo.  12s.
+
+Head  [Barclay  V.).    Historia  Numorum:  A  Manual  of  Greek
+
+Numismatics.     Royal  8vo.  half-bound.     2/.  2s.
+
+Hicks  (E.  L.,M.A.).  A  Manual  of  Greek  Historical  Inscrip-
+tions.   Demy  8vo.  10s.  6d.
+
+Homer.     Odyssey,  Books  I-XII.     Edited  with  English  Notes,
+
+Appendices,  etc.     By  W.  W.  Merry,  D.D.,  and  the  late  James  Riddell,  M.A.
+1886.    Second  Edition.     Demy  8vo.  16s.
+
+Homer.  A  Grammar  of  the  Homeric  Dialect.   By  D.  B.  Monro,
+
+M.A.     Demy  8vo.  ios..6d.
+
+Polybius.    Selections  from  Polybius.    Edited  by  J.  L.  Strachan-
+
+Davidson,  M.A.,  Fellow  and  Tutor  of  Balliol  College.     With  three  Maps.
+Medium  8vo.  buckram,  2\s.
+
+Sophocles.     The  Plays  and  Fragments.     With  English  Notes
+
+and  Introductions,  by  Lewis  Campbell,  M.A.    2  vols.
+
+Vol.1.    Oedipus  Tyrannus.    Oedipus  Coloneus.    Antigone.     8vo.  16s
+Vol.  II.  Ajax.    Electra.  Trachiniae.  Philoctetes.  Fragments.     Svo.  i6j.
+
+
+3o  CLARENDON  PRESS,  OXFORD.
+
+IV.   FRENCH  AND  ITALIAN.
+
+Br  ache?  s  Etymological  Dictionary  of  the  French  Language
+
+Translated  by  G.  W.  Kitchin,  D.D.    Third  Edition.     Crown  8vo.  Js.  6d.
+
+Historical  Grammar  of  the  French  Language.    Trans-
+lated by  G.  W.  Kitchin,  D.D.    Fourth  Edition.    Extra  fcap.  8vo.  is.  6d.
+
+Works  by  GEORGE  SAINTSBURY,  M.A.
+
+Primer  of  French  Literature.    Extra  fcap.  8 vo.  is.
+Short  History  of  French  Literature.     Crown  8 vo.  ios.6d.
+Specimens  of  French  Literature \  from  Villon  to  Hugo.    Crown
+
+8vo.  9-r.
+
+
+MASTERPIECES  OF  THE  FRENCH  DRAMA.
+Cornellfe's  Horace.     Edited,  with  Introduction  and  Notes,  by
+
+George  Saintsbury,  M.A.     Extra  fcap.  8vo.  2s.  6d.
+
+Moliere's  Les  Precieuses  Ridicules.     Edited,  with  Introduction
+
+and  Notes,  by  Andrew  Lang,  M.A.     Extra  fcap.  8vo.  If.  6d.
+
+Racine's  Esther.     Edited,  with  Introduction  and  Notes,  by
+
+George  Saintsbury,  M.A.     Extra  fcap.  8vo.  2s.
+
+Beaumarchais>  LeBarbier  de  Seville.   Edited,  with  Introduction
+
+and  Notes,  by  Austin  Dobson.    Extra  fcap.  8vo.  2s.  6d.
+
+Voltaire's  Mc'rope.     Edited,  with  Introduction  and  Notes,  by
+
+George  Saintsbury.     Extra  fcap.  8vo.  cloth,  2s.
+
+Mussefs  On  ne  badine pas  avec  V Amour,  and  Fantasio.  Edited,
+
+with   Prolegomena,  Notes,  etc.,  by  Walter   Hemes   Pollock.    Extra  fcap.
+8vo.  2S.
+
+The  above  six  Plays  may  be  had  in  ornamental  case,  and  bound
+in  Imitation  Parchment,  price  \zs.  6d.
+
+
+■
+
+
+Perraulfs  Popidar  Tales.     Edited  from  the  Original  Editions,
+
+with  Introduction,  etc.,  by  Andrew  Lang,  M.A.      Extra  fcap.  8vo.,  paper
+boards,  5s.  6d.
+
+Sainte-Beuve.   Selections  from  the  Causeries  du  Lundi.   Edited
+
+by  George  Saintsbury,  M.A.     Extra  fcap.  8vo.  2s.
+
+Quinefs  Lettres  a  sa  Mere.     Selected  and  edited  by  George
+
+Saintsbury,  M.A.     Extra  fcap.  8vo.  2s.
+
+Gautier,  Theophile.     Scenes  of  Travel.     Selected  and  Edited
+
+by  George  Saintsbury,  M.A.     Extra  fcap.  8vo.  2s.
+
+&  Eloquence  de  la  Chaire  et  de  la  Tribune  Frangaises.     Edited
+by  Paul  Blouet,  B.A.     Vol.  I.   Sacred  Oratory.    Extra  fcap.  8vo.  2s.  6d.
+
+
+CLARENDON  PRESS,   OXFORD.  31
+
+
+Edited  by  GUSTAVE  MASSON,  B.A.
+
+Corneilles  Cinna.    With  Notes,  Glossary,  etc.   Extra  fcap.  8vo.
+
+cloth,  2s.     Stiff  covers,  is.  6d.
+
+Louis  XIV  and  his  Contemporaries  ;  as  described  in  Extracts
+
+from  the  best  Memoirs  of  the  Seventeenth  Century.  With  English  Notes,
+Genealogical  Tables,  &c.    Extra  fcap.  8vo.  is.  6d.
+
+Maistre,  Xavier  de.     Voyage  autotir  de  ma  Chambre.     Ourika,
+
+by  Madame  de  Duras;  Le  Vieux  Tailleur,  by  MM.  Erckmann-Chatrian ;
+La  Veillee  de  Vincennes,  by  Alfred  de  Vigny ;  Les  Jumeaux  de  l'Hotel
+Corneille,by  Edmond  About ;  Mesaventures  d'un  Ecolier,  by  Rodolphe  Topffer.
+Third  Edition,  Revised  and  Corrected.     Extra  fcap.  8vo.  2s.  6d.
+
+■    Voyage  autour  de  ma  Chambre.     Limp,  is,  6d.
+
+Moliere's  Les  Fonrberies   de    Scapin,   and   Racine s  Athalie.
+
+With  Voltaire's  Life  of  Moliere.    Extra  fcap.  8vo.  2s.  6d.
+
+Moliere's  Les  Fonrberies  de  Scapin.    With  Voltaire's  Life  of
+
+Moliere.     Extra  fcap.  8vo.  stiff  covers,  is,  6d.
+
+Moliere's  Les  Femmes  Sav antes.     With  Notes,  Glossary,  etc.
+
+Extra  fcap.  8vo.  cloth,  2s.     Stiff  covers,  is,  6d.
+
+Racine's  Andromaque,  and    Corneilles  Le  Menteur,      With
+
+Louis  Racine's  Life  of  his  Father.    Extra  fcap.  8vo.  2s.  6d.
+
+Regnard's  Le  Joueur,  and  Brueys  and  Palaprafs  Le  Grondeur,
+
+Extra  fcap.  8vo.  2s.  6d.
+
+Sevigne",  Madame  de,  and  her  chief  Contemporaries,  Selections
+
+from  the  Correspondence  of.  Intended  more  especially  for  Girls'  Schools.
+Extra  fcap.  8vo.  ^s.
+
+Dante.     Selections  from  the  Inferno.     With  Introduction  and
+
+Notes.    By  H.  B.  Cotterill,  B.A.    Extra  fcap.  8vo.  4s.  6d.
+
+Tasso.     La  Gerusalemme  Liberata.     Cantos  i,  ii.     With  In-
+troduction and  Notes.    By  the  same  Editor.    Extra  fcap.  8vo.  is.  6d.
+
+V.    GERMAN.
+
+Scherer  (  W.).     A  History  of  German  Literature.    Translated
+
+from  the  Third  German  Edition  by  Mrs.  F.  Conybeare.  Edited  by  F.  Max
+Muller.     2  vols.  8vo.  2U.
+
+Max  Miiller.     The  German  Classics,  from  the  Fourth  to  the
+
+Nineteenth  Century.  With  Biographical  Notices,  Translations  into  Modern
+German,  and  Notes.  By  F.  Max  Muller,  M.A.  A  New  Edition,  Revised,
+Enlarged,  and  Adapted  to  Wilhelm  Scherer's  '  History  of  German  Literature,'
+by  F.  Lichtenstein.  2  vols,  crown  8vo.  21s.
+
+
+32  CLARENDON  PRESS,  OXFORD.
+
+
+GERMAN  COURSE.     By  HEKMANBT  LANGE.
+
+The  Germans  at  Home ;  a  Practical  Introduction  to  German
+
+Conversation,  with  an  Appendix  containing  the  Essentials  of  German  Grammar.
+Third  Edition.     8vo.  2s.  6d.
+
+The  German  Manual ;  a  German  Grammar,  Reading  Book,
+
+and  a  Handbook  of  German  Conversation.    8vo.  "js.  6d.
+
+Grammar  of  the  German  Language.     8vo.  $s.  6d.
+
+German  Composition ;  A  Theoretical  and  Practical  Guide  to
+
+the  Art  of  Translating  English  Prose  into  German.    Ed.  2.     8vo.  4s.  6d.
+
+German  Spelling ;   A  Synopsis  of  the  Changes  which  it  has
+
+undergone  through  the  Government  Regulations  of  1880.     Paper  covers,  6d.
+
+
+Lessing's  Laokoon.    With  Introduction,  English  Notes,  etc.
+
+By  A.  Hamann,  Phil.  Doc,  M.  A.    Extra  fcap.  8vo.  4.?.  6d.
+
+Schiller  s  Wilhelm  Tell.    Translated  into  English  Verse  by
+
+E.  Massie,  MA.    Extra  fcap.  8vo.  5s.
+
+GERMAN  CLASSICS.
+
+With  Biographical,  Historical,  and  Critical  Introductions,  Argu?nents
+{to  the  Dramas),  and  Complete  Commentaries.
+
+Edited  by  C.  A.  BUCHHEIM,  Phil.  Doc.  Professor  in  King's
+College,  London.
+
+Lessing:
+
+(a)  Nathan  der  Weise.     A  Dramatic  Poem.    4s.  6d.
+
+(b)  Minna  von  Barnhelm.     A  Comedy.    $s.  6d.
+
+Goethe  :
+
+(a)  Egmont.     A  Tragedy.    3s.
+
+(b)  Iphige?iie  auf  Tauris.     A  Drama.    3^.
+
+Schiller :
+
+(a)  Wilhelm  Tell.    A  Drama.    Large  Edition.    With  a  Map.    35.  Cd.
+
+(b)  Wilhelm  Tell.     School  Edition.    With  a  Map.    2s.
+
+(c)  Historische  Skizzen.    With  a  Map.    is.  6d.
+
+Heine :
+
+(a)  Prosa :  being  Selections  from  his  Prose  Writings.   4^.  6d.
+
+(b)  Harzreise.    Cloth,  is.  6d. ;  paper  covers,  is.  6d.
+
+Modern  German  Reader.     A  Graduated   Collection  of  Ex-
+tracts from  Modern  German  Authors  : —
+Part  I.     Prose  Extracts.     With  English  Notes,  a  Grammatical  Appendix,  and
+
+a  Complete  Vocabulary.   Fourth  Edition.  2s.6d.
+Part  II.    Extracts  in  Prose  and  Poetry.     With  English  Notes  and  an  Index.
+Second  Edition.  2s.  6d.
+
+
+CLARENDON  PRESS,  OXFORD.  33
+
+Becker  (the  Historian) :
+
+Friedrich  der  Grosse.  Edited,  with  Notes,  an  Historical  Introduc-
+tion, and  a  Map.  %s.  6d.
+
+Niebuhr :
+
+Griechische  Heroen-Geschichten  (Tales  of  Greek  Heroes).  Edited,
+with  English  Notes  and  a  Vocabulary,  by  Emma  S.  Buchheim.  Second,
+Revised  Edition,  cloth,  2s.
+
+An  Old  High  German  Primer.     With  Grammar,  Notes,  and
+
+Glossary.     By  Joseph  Wright,  Ph.D.     Extra  fcap.  8vo.  3*.  6d.
+
+A  Middle   High   German  Primer.      With  Grammar,  Notes,
+
+and  Glossary.     By  Joseph  Wright,  Ph.D.     Extra  fcap.  8vo.  $s.  6d.
+
+VI.  MATHEMATICS,  PHYSICAL   SCIENCE,  &c.
+
+By  LEWIS  HENSLEY,  M.A.
+
+Figures  made  Easy  ;  a  first  Arithmetic  Book.  Crown  8vo.  6d.
+Answers   to   the  Examples  in  Figures  made  Easy,  together
+
+with  two  thousand  additional  Examples,  with  Answers.    Crown  8vo.    is.
+
+The  Scholar's  Arithmetic.     Crown  8vo.     is.  6d.
+
+Answers  to  the  Examples  in  the  Scholar  s  Arithmetic,     is,  6d.
+
+The  Scholar  s  Algebra.     Crown  8vo.     is.  6d.
+
+
+Aldis  (W,  S.,  M.A).     A  Text-Book  of  Algebra:  with  Answers
+
+to  the  Examples.     Crown  8vo.  *js.  6d.
+
+Baynes  (R.  E.,  M.A.).    Lessons  on  Thermodynamics.     1878.
+
+Crown  8vo.  js.  6d.
+
+Chambers   (G.   F.,  F.R.A.S.).     A    Handbook   of  Descriptive
+
+Astronomy.    Third  Edition.     1877.    Demy  8vo.  28J.
+
+Clarke  (Col.  A.  R.,C.B.,R.E.).    Geodesy.    1880.    8vo.  12s.  6d.
+
+Cremona  (Luigi).     Elements  of  Projective  Geometry.     Trans-
+lated by  C.  Leudesdorf,  M.A.     8vo.     12s.  6d.
+
+Donkin.    Acoustics.     Second  Edition.     Crown  8vo.     Js.  6d.
+
+Etheridge  (R.).     Fossils  of  the  British  Islands,  Stratigraphi-
+cally  arranged.    Part  I.  Palaeozoic.     4to.  1/.  \os.    Jnst  ready.
+
+Euclid  Revised.      Containing  the  Essentials  of  the  Elements
+
+of  Plane  Geometry  as  given  by  Euclid   in  his  first  Six  Books.     Edited  by
+R.  C.  J.  Nixon,  M.A.     Crown  8vo.
+
+Sold  separately  as  follows,
+Book  I.    is.  Books  I,  II.    is,  6d.
+
+Books  I-IV.    3/.  6d.  Books  V,  VI.  3-r.
+
+D
+
+
+34  CLARENDON  PRESS,  OXFORD.
+
+Euclid. — Geometry  in   Space.     Containing   parts  of   Euclid's
+
+Eleventh  and  Twelfth  Books.     By  the  same  Editor.     Crown  8vo.  3^.  6d.
+
+Galton  {Douglas,  C.B.,  F.R.S.).     The  Construction  of  Healthy
+
+Dwellings.    Demy  8vo.     \os,  6d.
+
+Hamilton  {Sir  R.  G.  C),  and  J.  Ball.     Book-keeping.     New
+
+and  enlarged  Edition.    Extra  fcap.  8vo.  limp  cloth,  2s.
+
+Ruled  Exercise  books  adapted  to  the  above  may  be  had,  price  2s.
+
+Har court  (A.  G.   Vernon,  M.A.),  and  H.  G.  Madan,  M.A.
+
+Exercises  in  Practical  Chemistry.  Vol.  I.  Elementary  Exercises.  Fourth
+Edition.    Crown  8vo.  10s.  6d.
+
+Maclaren  {Archibald).     A    System  of  Physical  Education  :
+
+Theoretical  and  Practical.    Extra  fcap.  8vo.  p.  6d.
+
+Madan   {H   G.,   M.A.).      Tables    of   Qualitative    Analysis.
+
+Large  4to.  paper,  4^.  6d.
+
+Maxwell  {J.  Clerk,  M.A.,  F.R.S.).    A  Treatise  on  Electricity
+
+and  Magnetism.    Second  Edition.     2  vols.  Demy  8vo.  \l.  lis.  6d.
+
+An  Elementary    Treatise    on   Electricity.     Edited    by
+
+William  Garnett,  M.A.    Demy  8vo.  *js.  6d.
+
+Minchin  {G.  M.,  M.A.).  A  Treatise  on  Statics  with  Applica-
+tions to  Physics.  Third  Edition,  Corrected  and  Enlarged.  Vol.  I.  Equili-
+brium of  Coplanar  Forces.  8vo.  gs.   VoL  II.  Statics.  8vo.  16s.
+
+Uniplanar  Kinematics  of  Solids  and  Fluids.     Crown
+
+8vo.    Js.  6d.
+
+Phillips  {John,  M.A.,  F.R.S.).     Geology  of  Oxford  and  the
+
+Valley  of  the  Thames.     1871.   8vo.  21.?.
+
+Vesuvius.    1869.    Crown  8vo.    \as.  6d.
+
+Prestwich {Joseph, M.A., F.R.S.).    Geology,  Chemical, Physical,
+
+and  Stratigraphical.     In  two  Volumes.
+Vol.  I.     Chemical  and  Physical.     Royal  8vo.     25J.
+
+Vol.  II.    Stratigraphical  and  Physical.     With  a  new  Geographical  Map  of
+Europe.    Royal  8vo.  36.?.
+
+Rolleston  {George,  M.D.,  F.R.S.).      Forms  of  Animal  Life.
+
+A  Manual  of  Comparative  Anatomy,  with  descriptions  of  selected  types.
+Second  Edition.  Revised  and  enlarged  by  W.  Hatchett  Jackson,  M.A.
+Medium,  8vo.  cloth  extra,  1/.  ids.
+
+Smyth.    A  Cycle  of  Celestial  Objects.      Observed,  Reduced,
+
+and  Discussed  by  Admiral  W.  H.  Smyth,  R.N.  Revised,  condensed,  and
+greatly  enlarged  by  G.  F.  Chambers,  F.R.A.S.     1881.  8vo.    I2J.
+
+Stewart  {Balfour,  LL.D.,  F.R.S.).     An  Elementary  Treatise
+
+on  Heat,  with  numerous  Woodcuts  and  Diagrams.  Fifth  Edition.  Extra
+fcap.  8vo.  js.  6d.
+
+
+CLARENDON  PRESS,  OXFORD.  35
+
+Vernon-Harcourt  {L.  F.,  M.A.).     A   Treatise  on  Rivers  and
+
+Canals,  relating  to  the  Control  and  Improvement  of  Rivers,  and  the  Design,
+Construction,  and  Development  of  Canals.  2  vols.  (Vol.  I,  Text.  Vol.  II,
+Plates.)    8vo.  i\s,
+
+Harbours  and  Docks ;  their  Physical  Features,  History,
+
+Construction,  Equipment,  and  Maintenance ;  with  Statistics  as  to  their  Com-
+mercial Development.     2  vols.  8vo.  25J.
+
+Walker  (James,  M.A.).     The  Theory  of  a  Physical  Balance.
+
+8vo.  stiff  cover,  ^s.  6d.
+
+Watson  (H.  W.,  M.A.).    A  Treatise  on  the  Kinetic  Theory
+
+of  Gases.     1876.  8vo.  2,s.6d.
+
+Watson  (H.  W.,  D.  Sc,  F.R.S.),  and  S.  H.  Burbury,  M.A.
+
+I.  A  Treatise  on  the  Application  of  Generalised  Coordinates  to  the  Kinetics  of
+
+a  Material  System.     1879.  8vo.  6s.
+
+II.  The  Mathematical  Theory  of  Electricity  and  Magnetism.     Vol.  I.  Electro-
+statics.    8vo.  iar.  bd.
+
+Williamson  (A.    W.,  Phil.  Doc,  F.R.S.).      Chemistry  for
+
+Students.    A  new  Edition,  with  Solutions.    1873.  Extra  fcap.  8vo.  Ss.  6d.
+
+
+VII.  HISTORY.
+
+Bluntschli  (J,  K.).     The  Theory  of  the   State.      By  J.  K.
+
+Bluntschli,  late  Professor  of  Political  Sciences  in  the  University  of  Heidel-
+berg. Authorised  English  Translation  from  the  Sixth  German  Edition.
+Demy  8vo.  half  bound,  12s.  6d.
+
+Finlay  (George,  LL.D.).  A  History  of  Greece  from  its  Con-
+quest by  the  Romans  to  the  present  time,  B.C.  146  to  A.D.  1864.  A  new
+Edition,  revised  throughout,  and  in  part  re-written,  with  considerable  ad-
+ditions, by  the  Author,  and  edited  by  H.  F.  Tozer,  M.A.  7  vols.  8vo.  3/.  ioj.
+
+Fortescue   (Sir  John,  Kt.).      The   Governance  of  England:
+
+otherwise  called  The  Difference  between  an  Absolute  and  a  Limited  Mon-
+archy. A  Revised  Text.  Edited,  with  Introduction,  Notes,  and  Appendices,
+by  Charles  Plummer,  M.A.     8vo.  half  bound,  \2S.  6d.
+
+Freeman  (E.A.,  D.C.L.).    A  Short  History  of  the  Norman
+
+Conqtust  of  England.    Second  Edition.    Extra  fcap.  8  vo.  2s.  6d.
+
+George  (H.  B.,M.A.).  Genealogical  Tables  illustrative  of  Modern
+
+History.    Third  Edition,  Revised  and  Enlarged.    Small  4to.  \2s.
+
+Hodgkin  (T.).     Italy  and  her   Invaders.     Illustrated    with
+
+Plates  and  Maps.     Vols.  I — IV,  A.D.  376-553.  8vo.  3/.  8j.
+
+D  2
+
+
+36  CLARENDON  PRESS,  OXFORD.
+
+Hughes  [Alfred).     Geography  for  Schools.     With   Diagrams.
+
+Part  I.     Practical  Geography.     Crown  8vo.  2s.  6d.
+Part  II.  General  Geography.     In  preparation.
+
+Kitchin  (G.  W.,D.D.).   A  History  of  France.  With  numerous
+
+Maps,  Plans,  and  Tables.  In  Three  Volumes.  Second  Edition.  Crown  8vo.
+each  ioj.  6d.
+
+Vol.  I.  Down  to  the  Year  1453.
+Vol.11.  From  1453-1624.  Vol.  III.  From  1624-1793.
+
+Lucas  (C.  P.).     Introduction  to  a  Historical  Geography  of  the
+
+British  Colonies.  •  With  Eight  Maps.     Crown  8vo.  4s.  6d.
+
+Payne  (E.  f:%  M.A.).     A   History  of  the    United  States  of
+
+America.    In  the  Press.
+
+Ranke  (L.  von).     A  History  of  England,  principally  in  the
+
+Seventeenth  Century.  Translated  by  Resident  Members  of  the  University  of
+Oxford,  under  the  superintendence  of  G.  W.  Kitchin,  D.D.,  and  C.  W.  Boase,
+M.A.     1875.  6  vols.  8vo.  3/.  3j.
+
+Rawlinson  {George,  M.A.).     A  Manual  of  Ancient  History,
+
+Second  Edition.   Demy  8vo.  14J.
+
+Ricardo.     Letters  of  David  Ricardo  to  Thomas  Robert  Malthus
+
+(1810-1823).     Edited  by  James  Bonar,  M.A.     Demy  8vo.  \os.  6d.
+
+Rogers  (J.  E.  Thorold,  M.A.).     The  First  Nine  Years  of  the
+
+Bank  of  England.     8vo.  8s.  6d.
+
+Select  Charters  and  other  Illustrations  of  English  Constitutional
+
+History,  from  the  Earliest  Times  to  the  Reign  of  Edward  I.  Arranged  and
+edited  by  W.  Stubbs,  D.D.    Fifth  Edition.     1883.    Crown  8vo.  8s.  6d.
+
+Stubbs  (  W.,  D.D.).     The  Constitutional  History  of  England,
+
+in  its  Origin  and  Development.    Library  Edition.    3  vols,  demy  8vo.  2/.  8s.
+Also  in  3  vols,  crown  8vo.  price  12s.  each.
+
+Seventeen    Lectures    on    the    Study   of  Medieval  and
+
+Modern  History,  &c,  delivered  at  Oxford  186 7- 1884.     Crown  8vo.  8s.  6d.
+
+Wellesley.    A  Selection  from    the  Despatches,    Treaties,   and
+
+other  Papers  of  the  Marquess  Wellesley,  K.G.,  during  his  Government
+of  India.    Edited  by  S.J.  Owen,  M.A.     1877.     8vo.  il.  4J.
+
+Wellington.    A  Selection  from  the  Despatches,  Treaties,  and
+
+other  Papers  relating  to  India  of  Field-Marshal  the  Duke  of  Wellington,  K.G.
+Edited  by  S.  J.  Owen,  M.A.     1880.  8vo.  24J.
+
+A  History  of  British  India.     By  S.  J.  Owen,  M.A.,  Reader
+
+in  Indian  History  in  the  University  of  Oxford.     In  preparation.
+
+
+CLARENDON  PRESS,  OXFORD.  37
+
+
+VIII.  LAW.
+
+Alberici   Gentilis,    I. CD.,   I.C.,    De    lure   Belli   Libri   Tres.
+
+EdiditT.  E.  Holland,  LCD.     1877.     Small  4to.  half  morocco,  21J.
+
+Anson  {Sir  William  R.,  Bart.,  D.C.L.).     Principles  of  the
+
+English  Latu  of  Contract,  and  of  Agency  in  its  Relation  to  Contract.     Fifth
+Edition.    Demy  8vo.  10s.  6d.
+
+Law  and  Custom  of  the  Constitution.  Part  I.  Parlia-
+ment.    Demy  8vo.  iar.  6d.
+
+Bentham  (Jeremy).      An  Lntroduction   to  the  Principles  of
+
+Morals  and  Legislation.    Crown  8vo.  6s.  6d.
+
+Digby  (Kenelm  E.,  M.A.).    An  Lntroduction  to  the  History  of
+
+the  Law  of  Real  Property.    Third  Edition.    Demy  8vo.    10s.  6d.
+
+Gaii  Lnstitutionum  Juris  Civilis  Commentarii  Quattuor ;  or,
+
+Elements  of  Roman  Law  by  Gaius.     With  a  Translation  and  Commentary
+by  Edward  Poste,  M.A.     Second  Edition.     1875.     8vo.  i8j.
+
+Hall  (  W.  E.,  M.A.).  International  Law.    Second  Ed.  8vo.  21s.
+Holland  (T.  E.,  D.C.L.).     The  Elements  of  Jurisprudence.
+
+Fourth  Edition.     Demy  8vo.  \os.  6d.
+
+The  European  Concert  in  the  Eastern  Question,  a.  Col-
+lection of  Treaties  and  other  Public  Acts.  Edited,  with  Introductions  and
+Notes,  by  Thomas  Erskine  Holland,  D.C.L.     8vo.  12s.  6d.
+
+Imperatoris  Iustiniani  lnstitutionum  Libri  Qttattuor ;    with
+
+Introductions ,  Commen  tary .  Excursus  and  Translation .  By  J .  E.  Moyle,  B.C .  L. ,
+M.A.     2  vols.     Demy  8vo.  21s.
+
+Justinian,  The  Institutes  of,  edited   as   a  recension  of  the
+
+Institutes  of  Gaius,  by  Thomas  Erskine  Holland,  D.C.L.  Second  Edition,
+1881.     Extra  fcap.  8vo.  $s.
+
+Justinian,  Select  Titles  from  the  Digest  of.   By  T.  E.  Holland,
+
+D.C.L.,  and  C.  L.  Shadwell,  B.C.L.    8vo.  14J.
+
+Also  sold  in  Parts,  in  paper  covers,  as  follows : —
+
+Part  I.  Introductory  Titles.     2s.  6d.  Part  II.  Family  Law.     15.
+
+Part  III.  Property  Law.     2s.  6d.      Part  IV.  Law  of  Obligations  (No.  1).    3s.  6d.
+
+Part  IV.  Law  of  Obligations  (No.  2).     4s.  6d.
+
+Lex  Aquilia.      The  Roman  Law   of  Damage  to   Property :
+
+being  a  Commentary  on  the  Title  of  the  Digest  '  Ad  Legem  Aquiliam  '  (ix.  2).
+With  an  Introduction  to  the  Study  of  the  Corpus  Iuris  Civilis.  By  Erwin
+Grueber,  Dr.  Jur.,  M.A.    Demy  8vo.  \os.  6d.
+
+
+38  CLARENDON  PRESS,  OXFORD.
+
+Markby{  W.,D.C.L.).  Elements  of  Law  considered  with  refer-
+ence to  Principles  of  General  Jurisprudence.  Third  Edition.  Demy  8vo.  I2s.6d.
+
+Stokes  (  Whitley,  D.C.L.).     The  Anglo-Indian  Codes.
+
+Vol.    I.     Substantive  Law.     8vo.  3ar.
+Vol.  II.     Adjective  Law.     In  the  Press.
+
+Twiss  (Sir  Tr avers,  D.C.L .).    The  Law  of  Nations  considered
+
+as  Independent  Political  Communities.
+
+Part  I.  On  the  Rights  and  Duties  of  Nations  in  time  of  Peace.    A  new
+
+Edition,  Revised  and  Enlarged.  1884.  Demy  8vo.  15s.
+Part  II.  On  the  Rights  and  Duties  of  Nations  in  Time  of  War.    Second
+
+Edition,  Revised.    1875.  Demy  8vo.  2ij.
+
+
+IX.    MENTAL    AND    MORAL    PHILOSOPHY,  &c.
+
+Bacon's  Novum  Organum.     Edited,  with  English  Notes,  by
+
+G.  W.  Kitchin,  D.D.     1855.     8vo.  9*.  dd.
+
+Translated  by  G.  W.  Kitchin,  D.D.    1855.  8vo.  9*.  6d.
+
+Berkeley.     The    Works  of  George  Berkeley,  D.D.,   formerly
+
+Bishop  of  Cloyne ;    including   many  of  his  writings  hitherto  unpublished.
+With  Prefaces,  Annotations,  and  an  Account  of  his  Life  and  Philosophy,
+by  Alexander  Campbell  Fraser,  M.A.    4  vols.     1871.     8vo.  2/.  i8j.
+The  Life,  Letters,  &c.     1  vol.  16s.
+
+
+Selections  from.      With   an   Introduction   and   Notes.
+
+For  the  use  of  Students  in  the  Universities.     By  Alexander  Campbell  Fraser,
+LL.D.     Third  Edition.     Crown  8vo.  p,  6d.
+
+Fowler  ( T.,  D.D.).    The  Elements  of  Deductive  Logic,  designed
+
+mainly  for  the  use  of  Junior  Students  in  the  Universities.     Ninth  Edition,
+with  a  Collection  of  Examples.    Extra  fcap.  8vo.  3.?.  6d.
+
+The  Elements  of  Lnductive  Logic,  designed  mainly  for
+
+the  use  of  Students  in  the  Universities.  Fourth  Edition.  Extra  fcap.  8vo.  6s.
+
+and  Wilson  (J.  M.,  B.D.).     The  Principles  of  Morals
+
+(Introductory  Chapters).     8vo.  boards,  3^.  6d.
+
+The  Principles  of  Morals.     Part  II.     (Being  the  Body
+
+of  the  Work.)     8vo.     \os.  6d.
+
+Edited  by  T.  FOWLER,  D.D.
+
+Bacon.    Novum  Organum.     With   Introduction,  Notes,  &c.
+
+1878.    8vo.  14J.
+
+Locke's    Conduct   of  the    Understanding.     Second    Edition.
+
+Extra  fcap.  8vo.  2s.
+
+
+CLARENDON  PRESS,  OXFORD.  39
+
+Danson  {J.  T).     The  Wealth  of  Households.     Crown  8vo.  5j.
+Green  (T.  H,  M.A.).     Prolegomena  to  Ethics.     Edited  by
+
+A.  C.  Bradley,  M.A.    Demy  8vo.  1 2s.  6d.
+
+Hegel.  The  Logic  of  Hegel ;  translated  from  the  Encyclo-
+paedia of  the  Philosophical  Sciences.  With  Prolegomena  by  William
+Wallace,  M.A.     1874.    8vo-  I4J-
+
+Hume's    Treatise   of  Human    Nature ;    reprinted    from    the
+
+Original  Edition,  and  edited  by  L.  A.  Selby-Bigge,  M.A.,  Fellow  and1
+Lecturer  of  University  College.     Crown  8vo.  gs.
+
+Lotze's  Logic,  in  Three  Books ;  of  Thought,  of  Investigation,
+
+and  of  Knowledge.  English  Translation;  Edited  by  B.  Bosanquet,  M.A.,
+Fellow  of  University  College,  Oxford.  Second  Edition.  2  vols.  Crown
+8vo.  \2S.  ..-J
+
+Metaphysic,   in   Three   Books;    Ontology,   Cosmology,
+
+and  Psychology.  English  Translation ;  Edited  by  B.  Bosanquet,  M.A.
+Second  Edition.     2  vols.    Crown  8 vo.  \2s.
+
+Martineau  {James,  D.D.).    Types  of  Ethical  Theory.    Second
+
+Edition.     2  vols.     Crown  8vo.  15 J.
+
+A  Study  of  Religion :  its  Sources  and  Contents.     2  vols.
+
+8vo.  24J.
+
+Rogers  {J.  E.  Thorold,  M.A .).  A  Manual  of  Political  Economy,
+
+for  the  use  of  Schools.    Third  Edition.    Extra  fcap.  8vo.  4s.  6d.
+
+Smith's  Wealth  of  Nations.    A  new  Edition,  with  Notes,  by
+
+J.  E.  Thorold  Rogers,  M.A.     2  vols.  8vo.     1880.  21s.
+
+
+X.    FINE  ART.
+
+Butler  (A.  J.,  M.A.,  F.S.A.)     The  Ancient  Coptic  Churches  of
+
+Egypt.     2  vols.  8vo.  30?.
+
+Head  {Barclay  V.).    Historia  Numorum.    A  Manual  of  Greek
+
+Numismatics.    Royal  8vo.  half  morocco,  42  j,
+
+Hullah  {John).      The   Cultivation    of  the    Speaking    Voice.
+
+Second  Edition.    Extra  fcap.  8vo.  2s.  6d.
+
+Jackson  {T.  G.,  M.A).     Dalmaiia,  the  Quarnero  and  I  stria  ;
+
+with  Cettigne  in  Montenegro  and  the  Island  of  Grado.  By  T.  G.  Jackson,
+M.A.,  Author  of  '  Modern  Gothic  Architecture.'  In  3  vols.  8vo.  With  many
+Plates  and  Illustrations.     Half  bound,  42 s.
+
+
+4o  CLARENDON  PRESS,  OXFORD.
+
+Ouseley  {Sir  F.  A.  Gore,  Bart.).     A    Treatise  on  Harmony.
+
+Third  Edition.    4to.  \os,
+
+A  Treatise  on  Counterpoint \  Canon,  and  Fugue,  based
+
+
+upon  that  of  Cherubini.     Second  Edition.    4to.  \bs.
+
+A   Treatise  on  Musical  Form  and  General  Composition.
+
+Second  Edition.  4to.  ios.
+
+Robinson  (J.  C,  F.S.A.).   A  Critical  Account  of  the  Drawings
+
+f      by  Michel  Angelo  and  Rajfaello  in  the  University  Galleries,  Oxford.     1870.
+Crown  8vo.  4^.
+
+Troutbeck  {J.,  M.A.)  andR.  F.  Dale,  M.A.     A  Music  Primer
+
+(for  Schools).     Second  Edition.     Crown  8vo.  is.  6d.
+
+Tyrivhitt  (R.  St.  ?.,  M.A.).     A   Handbook  of  Pictorial  Art.
+
+With  coloured  Illustrations,  Photographs,  and  a  chapter  on  Perspective  by
+A.  Macdonald.    Second  Edition.     1875.     8 vo.  half  morocco,  i8j.
+
+Upcott  (L.  E.,  M.A.).      An  Introduction  to  Greek  Sculpture.
+
+Crown  8vo.  4s.  6d.
+
+Vaux(W.  S.  W.,  M.A).     Catalogue  of  the  Castellani  Collec-
+tion of  Antiqtdties  in  the  University  Galleries,  Oxford.     Crown  8vo.  is.
+
+
+The   Oxford  Bible  for    Teachers,  containing  Supplementary
+
+Helps  to  the  Study  of  the  Bible,  including  Summaries  of  the  several
+Books,  with  copious  Explanatory  Notes  and  Tables  illustrative  of  Scripture
+History  and  the  characteristics  of  Bible  Lands ;  with  a  complete  Index  of
+Subjects,  a  Concordance,  a  Dictionary  of  Proper  Names,  and  a  series  of  Maps.
+Prices  in  various  sizes  and  bindings  from  3s.  to  2/.  5^.
+
+Helps  to  the  Study  of  the  Bible,  taken  from  the  Oxford
+Bible  for  Teachers,  comprising  Summaries  of  the  several  Books,  with
+copious  Explanatory  Notes  and  Tables  illustrative  of  Scripture  History  and
+the  Characteristics  of  Bible  Lands ;  with  a  complete  Index  of  Subjects,  a  Con-
+cordance, a  Dictionary  of  Proper  Names,  and  a  series  of  Maps.  Crown  8vo.
+cloth,  3s.  6d. ;  i6mo.  cloth,  is.
+
+
+LONDON:   HENRY  FROWDE,
+Oxford   University   Press  Warehouse,   Amen   Corner,
+
+OXFORD:  CLARENDON  PRESS  DEPOSITORY,
+116  High  Street.
+
+
+80T  The  Delegates  of  the  Press  invite  suggestions  and  advice  from  all  persons
+interested  in  education;  and  will  be  thankful  for  hints,  &c.  addressed  to  the
+Secretary  to  the  Delegates,  Clarendon  Press,  Oxford.
+
+
+BINDING  SECT.      IAN  8     1981
+
+
+£S^
+
+
+PLEASE  DO  NOT  REMOVE
+CARDS  OR  SLIPS  FROM  THIS  POCKET
+
+UNIVERSITY  OF  TORONTO  LIBRARY
+
+
+K
+
+Manu
+
+M29^
+
+M353
+
+1886
+
+The  laws  of  Manu
+
+•
+

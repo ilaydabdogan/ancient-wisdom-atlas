@@ -1,0 +1,70 @@
+---
+manifest_version: '1'
+batch_id: auto-ingestion-queue
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
+artifacts:
+- id: artifact.gutenberg_malaymagicbeingi00skea
+  work_id: malay.malay_magic.skeat_archive
+  title: Malay Magic
+  source_url: https://archive.org/details/malaymagicbeingi00skea
+  fetch_date: '2026-07-19'
+  raw:
+    path: imports/raw/internet-archive/malaymagicbeingi00skea-malay-magic-skeat.txt
+    checksum:
+      algorithm: sha256
+      value: ae02b8ee3362204b87f5a751634a8243c7103f763f78ee00926a0a360c17383f
+    media_type: text/plain
+    notes: Raw plain-text source capture.
+  converted:
+    path: imports/converted/internet-archive/malaymagicbeingi00skea-malay-magic-skeat.md
+    checksum:
+      algorithm: sha256
+      value: 5649bd65aa6af32904856fbcd5df5163478e88c4f85f59b39aef4f0d77aba04f
+    media_type: text/markdown
+    notes: Intermediate Markdown draft after removing distributor packaging.
+  canonical:
+    path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+    checksum:
+      algorithm: sha256
+      value: 176b4285e62691c75d174d1d99a90953ec652e122844fe5510fd420ab322fb00
+    media_type: text/markdown
+    notes: Canonical reviewed Markdown corpus text.
+  converter:
+    name: scripts/corpus_promote_queue.rb
+    version: '1'
+    command: ruby scripts/corpus_promote_queue.rb --ids malay.malay_magic.skeat_archive
+    settings:
+    - strip_distributor_header_footer
+    - preserve_plain_text_structure
+    notes: Queue-based plain-text converter for rights-cleared Project Gutenberg source
+      captures.
+  cleanup_notes:
+  - Removed distributor packaging and license text from canonical corpus file.
+  - Preserved source line and paragraph structure without interpretive rewriting.
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    full_text: allowed
+    training_use: allowed
+    notes: Published 1900 (pre-1930), US public domain. Skeat's ethnography of Malay
+      magic and popular religion, quoting many verbatim charms, invocations (mantera),
+      and rites in Malay with translation; author-prose interwoven with primary incantations.
+      OCR of a scan; expect OCR noise.
+  trademark:
+    status: present
+    marks:
+    - Project Gutenberg
+    use_rules: Use as factual source attribution only.
+    notes: The repository does not use the mark as branding.
+  review:
+    status: auto_promoted_from_rights_cleared_queue
+    reviewer: Codex
+    review_date: '2026-07-19'
+    notes: Auto-promoted from a queue item whose rights fields explicitly allowed
+      full-text and training use. Human spot review is still recommended.
+  extraction:
+    readiness: ready
+    blocking_issues: []
+    notes: Ready for motif extraction.

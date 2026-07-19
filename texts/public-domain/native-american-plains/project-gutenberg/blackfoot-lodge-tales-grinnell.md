@@ -67,6 +67,44 @@ figures:
 
 # Blackfoot Lodge Tales
 
+wmfmmmmmmmmmHimmmimm'm
+
+
+BLACKFOOT  LODGE
+TALES
+
+
+2>'CM
+
+
+•/Up
+
+
+PUBLIC  LIBRARY     THE  BRANCH   LIBRARIES
+
+
+3  3333  07627  4188
+
+
+i  - 1^^'  ^
+
+
+Cr  t  in  /o^  /I
+
+
+Ox  *■  o
+
+
+Digitized  by  tine  Internet  Arciiive
+
+in  2007  witii  funding  from
+
+IVIicrosoft  Corporation
+
+
+littp://www.archive.org/details/blackfootlodgetaOOgrin
+
+
 BLACKFOOT    LODGE    TALES
 
 
@@ -13505,3 +13543,98 @@ Persons,  259.
 Uses  of  buffalo  products,  227.
 
 Version  of  the  origin  of  death,  27a.
+
+Visitor's  seat  in  lodge,  199.
+
+War  bonnet,  82.
+
+bonnet  of  Bulls  Society,  223.
+
+clubs,  how  made,  200.
+
+head-dress,  82.
+
+journeys,  duration  of,  254.
+
+journeys  to  the  southwest,  255.
+
+lodges,  3.
+
+lodges,  how  built,  252.
+
+systematized,  243.
+
+with  the  Gros  Ventres,  245.
+War  parties,  3  et  seq.,  39,  83,  251.
+Warrior's  outfit,  contributions  to,  250,
+Whiskey  trading,  288,
+White  beaver,  119.
+
+Breasts,  209,  225.
+
+Calf,  XV,  223.
+Widows,  218.
+Wife,  standing  of,  216  tt  seq.
+
+duties  of  first,  217.
+
+The  Bad,  39.
+Wind  Maker,  259.
+
+Sucker,  35.
+Wolf  Calf,  XV,  202,  217,  237.
+
+Tail,  XV,  24  et  seq.,  120  et  seq.
+
+Man,  The,  78  et  seq.
+
+Road,  102.
+
+song,  261.
+Wolverine,  97.
+Wolves,  240.
+
+
+310
+
+
+INDEX
+
+
+Wolves,  rabid,  283.
+Woman  doctors,  286.
+Woman,  standing  of,  216.
+
+The  Lost,  13,  18,
+Woman's  dress,  196.
+
+seat  in  lodge,  199.
+Wonderful  Bird,  The,  153.
+Wood  for  bows,  199.
+Woods  Bloods,  209.
+
+
+Worm  People,  209,  225.
+
+Pipe,  127  et  seq.
+Worms,  207.
+
+Yellowstone  River,  4.
+Young  Bear  Chief,  xv,  223.
+
+women's  dance,  117.
+Younger  sisters  potential  wives,  217.
+
+
+Typography  by  J.  S.  Gushing  &  Co.,  Boston,  U.S.A.
+Presswork  by  Berwick  &  Smith,  Boston,  U.S.A.
+
+
+•/
+
+
+IWTHDS
+
+
+,  i\  ••^.•
+
